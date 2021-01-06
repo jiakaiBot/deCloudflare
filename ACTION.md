@@ -148,7 +148,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 | ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
 
 - Want more customers? You know what to do. Hint is "_above line_".
-  - Hello, you wrote "[We take your privacy seriously](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously)" but I got "_Error 403 Forbidden Anonymous Proxy Not Allowed_". Why are you blocking Tor? Or VPN?
+  - Hello, you wrote "[We take your privacy seriously](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously)" but I got "_Error 403 Forbidden Anonymous Proxy Not Allowed_". Why are you blocking Tor? Or VPN? And why are you blocking [temporary emails](http://hkgz2s5srq7msfls4rfioo7pnhmxh6s25drkrl5u2c4uqea7yb6abtqd.onion/mail/)?
 
 ![](image/anonexist.jpg)
 
