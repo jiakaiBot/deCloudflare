@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I've been getting this for 3 days when I try to get into my accounts & billing -- what is going on? Bad gateway The web server reported a bad gateway error. Error reference number: 502 Cloudflare Location: Chicago ([glenn_ferrell](https://twitter.com/glenn_ferrell/status/1346909455724797952))
 - Quick heads up, I'm getting a Cloudflare error when I try to load anything from your site ([jetpacmonkey](https://twitter.com/jetpacmonkey/status/1346539062631538694))
 - Sorry I didn't see this tweet. Are you still having trouble getting to the site? Is there a cloudflare error? ([evageeks](https://twitter.com/EvaGeeks/status/1346145784207650816))
 - It isn't just It's your settings do this. I checked my IP in blacklists, I've used other sites which use CF. There are no other website I use on a daily basis has such obtrusive captcha. ([gudvinr](https://twitter.com/gudvinr/status/1345658515201929216))
