@@ -8,5 +8,3 @@
 ---
 
 - [Permesilo / License](LICENSE.md)
-
-<a rel="me" href="https://ieji.de/@you"></a>
