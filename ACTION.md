@@ -397,17 +397,17 @@ Therefore we recommend above table only. _Nothing else_.
 
 - Tell others around you about the dangers of Cloudflare.
 
-- Help improve this repository, both the lists, the arguments against it and the details.
+- Help improve [this repository](https://git.fuwafuwa.moe/you/stop_cloudflare), both the lists, the arguments against it and the details.
 
-- Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention this repository when you do so ;)
+- Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention [this repository](https://git.fuwafuwa.moe/you/stop_cloudflare) when you do so ;)
 
-- Get more people using Tor by default so they can experience the web from the perspective of different parts of the world.
+- Get more people [using Tor](https://www.torproject.org) by default so they can experience the web from the perspective of different parts of the world.
 
 - Start groups, in social media and meatspace, dedicated to liberating the world from Cloudflare.
 
 - Where appropriate, link to these groups on this repository - this can be a place for coordinating working together as groups.
 
-- Start a coop that can provide a meaningful non corporate alternative to Cloudflare.
+- Start a coop that can provide a meaningful non corporate [alternative to Cloudflare](subfiles/cloudflare-alternatives.md).
 
 - Let us know of any alternatives to help at least provide multiple layered defence against Cloudflare.
 
@@ -423,7 +423,7 @@ Therefore we recommend above table only. _Nothing else_.
 
 - The [ITU](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/20181218/Documents/Geoff_Huston_Presentation.pdf) suggest in the US context that Cloudflare is starting to get big enough that antitrust law might be brought down upon them.
 
-- It's conceivable that the GNU GPL v4 could include a provision against storing source code behind such a service, requiring for all GPLv4 and later programs that at least the source code is accessible via a medium that does not discriminate against tor users (or any other class of users or something?)
+- It's conceivable that the [GNU GPL v4](https://www.technollama.co.uk/gpl-v4) could include a provision against storing source code behind such a service, requiring for all GPLv4 and later programs that at least the source code is accessible via a medium that does not discriminate against tor users (or any other class of users or something?)
 
 </details>
 
