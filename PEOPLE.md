@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- It's back, I was getting the Cloudflare error screen for ~5 mins at the time of my tweet. ([joepotentier](https://twitter.com/JoePotentier/status/1347251536305430528))
 - I have gotten several error messages tonight on various websites about a “cloudflare” in the Miami area. Anyone else getting this error? I tried to send a message to Dave and couldn’t. Tried to get Ron on other contact, couldn’t...hmmm?? ([lisainflorida53](https://twitter.com/LisainFlorida53/status/1346982239427506182))
 - I've been getting this for 3 days when I try to get into my accounts & billing -- what is going on? Bad gateway The web server reported a bad gateway error. Error reference number: 502 Cloudflare Location: Chicago ([glenn_ferrell](https://twitter.com/glenn_ferrell/status/1346909455724797952))
 - Quick heads up, I'm getting a Cloudflare error when I try to load anything from your site ([jetpacmonkey](https://twitter.com/jetpacmonkey/status/1346539062631538694))
