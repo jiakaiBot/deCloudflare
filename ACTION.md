@@ -127,6 +127,8 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
   - It prevents a lot of requests from reaching networks, and serves local files to keep sites from breaking.
   - The developer replied: "[very concerning indeed](https://github.com/Synzvato/decentraleyes/issues/236#issuecomment-352049501)", "[widespread usage severely centralizes the web](https://github.com/Synzvato/decentraleyes/issues/251#issuecomment-366752049)"
 
+- You can also [remove or distrust](https://www.ssl.com/how-to/remove-root-certificate-firefox/) Cloudflare certificate from your Certificate Authority(CA).
+
 </details>
 
 ------
