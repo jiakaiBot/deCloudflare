@@ -97,7 +97,7 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "The Great Cloudwal
   * U bigliettu hè statu vandalizatu tante volte.
   * [Eliminatu da u Prughjettu Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Vede u bigliettu 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Ultimu bigliettu d'archiviu 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Shared on Mastodon](../subfiles/shared_on_mastodon.md)
+* [Shared on Mastodon](../subfiles/shared_on_mastodon.md), [Shared on Twitter](../subfiles/shared_on_twitter.md)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 
