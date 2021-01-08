@@ -440,6 +440,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Unable to open the Deposit page since morning. Page times out showing a Cloudflare error page. ([dhimant](https://twitter.com/dhimant/status/1347436681952075784))
 - From UK, got through to Cloudflare, asked to do the CAPTCHA, but then went to a page to say something went wrong... ([iamadamau](https://twitter.com/IamAdaMau/status/1347234629401587713))
 - Same, I’m in Canada without VPN and can’t reach their statement on blockage. I got a Cloudflare CAPTCHA page at first, could be excess attempts at connecting to the site getting restricted. ([mrchan](https://twitter.com/mrchan/status/1347201645952729090))
 - Bruh why am I selecting cruise ships in a captcha. My shitty LIDARless self driving is never gonna be driving at night and hit a homeless woman crossing a three lane highway in a Carnival Cruise Ship. ([alkalinesec](https://twitter.com/alkalinesec/status/1347071229119897600))
