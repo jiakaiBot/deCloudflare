@@ -97,7 +97,7 @@ Biltegi hau "The Great Cloudwall" atzean dauden webguneen zerrenda da, Tor erabi
   * Sarrerak hainbat aldiz bandalizatu ziren.
   * [Tor Proiektuak ezabatu du.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Ikusi 34175 txartela.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Azken artxiboko txartela 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Shared on Mastodon](../subfiles/shared_on_mastodon.md)
+* [Shared on Mastodon](../subfiles/shared_on_mastodon.md), [Shared on Twitter](../subfiles/shared_on_twitter.md)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 
