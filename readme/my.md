@@ -97,7 +97,7 @@
   * အဆိုပါလက်မှတ်ဤမျှလောက်အကြိမ်ပေါင်းများစွာဖျက်ဆီးခံခဲ့ရသည်။
   * [Tor Project မှဖျက်သိမ်းသည်။](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [လက်မှတ် 34175 ကိုကြည့်ပါ။](https://trac.torproject.org/projects/tor/ticket/34175)
   * [နောက်ဆုံး archive ကိုလက်မှတ် 24351 ။](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Shared on Mastodon](../subfiles/shared_on_mastodon.md)
+* [Shared on Mastodon](../subfiles/shared_on_mastodon.md), [Shared on Twitter](../subfiles/shared_on_twitter.md)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 
