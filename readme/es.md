@@ -97,7 +97,7 @@ Este repositorio es una lista de sitios web que están detrás de "The Great Clo
   * El boleto fue vandalizado muchas veces.
   * [Eliminado por el Proyecto Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Ver boleto 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Último ticket de archivo 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Shared on Mastodon](../subfiles/shared_on_mastodon.md)
+* [Shared on Mastodon](../subfiles/shared_on_mastodon.md), [Shared on Twitter](../subfiles/shared_on_twitter.md)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 
