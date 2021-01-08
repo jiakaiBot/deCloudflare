@@ -440,6 +440,10 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- From UK, got through to Cloudflare, asked to do the CAPTCHA, but then went to a page to say something went wrong... ([iamadamau](https://twitter.com/IamAdaMau/status/1347234629401587713))
+- Same, I’m in Canada without VPN and can’t reach their statement on blockage. I got a Cloudflare CAPTCHA page at first, could be excess attempts at connecting to the site getting restricted. ([mrchan](https://twitter.com/mrchan/status/1347201645952729090))
+- Bruh why am I selecting cruise ships in a captcha. My shitty LIDARless self driving is never gonna be driving at night and hit a homeless woman crossing a three lane highway in a Carnival Cruise Ship. ([alkalinesec](https://twitter.com/alkalinesec/status/1347071229119897600))
+- Not sure if you read my tweet, but you are blocking bots from accessing that pricing page with a CloudFlare CAPTCHA. And now that I have your attention, perhaps you could finally pay me the 6 years worth of affiliate commissions I have earned with you guys. ([tldlist](https://twitter.com/tldlist/status/1346393944876220416))
 - It's back, I was getting the Cloudflare error screen for ~5 mins at the time of my tweet. ([joepotentier](https://twitter.com/JoePotentier/status/1347251536305430528))
 - I have gotten several error messages tonight on various websites about a “cloudflare” in the Miami area. Anyone else getting this error? I tried to send a message to Dave and couldn’t. Tried to get Ron on other contact, couldn’t...hmmm?? ([lisainflorida53](https://twitter.com/LisainFlorida53/status/1346982239427506182))
 - I've been getting this for 3 days when I try to get into my accounts & billing -- what is going on? Bad gateway The web server reported a bad gateway error. Error reference number: 502 Cloudflare Location: Chicago ([glenn_ferrell](https://twitter.com/glenn_ferrell/status/1346909455724797952))
