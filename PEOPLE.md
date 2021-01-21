@@ -55,7 +55,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 ## News
 </summary>
 
-
+- [Unrevokable SSL Certificates - Isn’t this sounding pretty corrupt?  Yes.](https://worldofmatthew.com/post/cloudflare-ssl/)
 - [Major internet outage: Dozens of websites and apps were down](https://edition.cnn.com/2020/08/30/tech/internet-outage-cloudflare/index.html)
 - [Произошел сбой работы интернет сервисов по всему миру](https://www.securitylab.ru/news/511577.php)
 - [Cloudflare suffered data leak; exposing 3 million IP addresses: Ukraine](https://www.hackread.com/cloudflare-data-leak-expose-ip-addresses-ukraine/)
