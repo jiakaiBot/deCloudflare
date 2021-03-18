@@ -16,6 +16,7 @@
 | List name | Description |
 | -------- | -------- |
 | /domain/cloudflare_?.txt     | Split files (base domain)     |
+| /domain/cloudflare_?.json     | Split files (JSON format)     |
 | ex_cloudflare_users.md     | Domains which used Cloudflare in the past, not anymore     |
 | cloudflare_supporter.txt | who is using Cloudflare or endorsing Cloudflare. (URL only) |
 
@@ -41,8 +42,8 @@ There are many ways to detect it:
 - Add-on "[Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md)" will help your Cloudflare collection.
 - Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "_Attention Required! Cloudflare_" or "_Checking your browser_" webpage.
-- Use "Is MITM?" webpage. [Clearnet](https://sercxi.eu.org/ss/tool_ismitm.php) / [Tor](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_ismitm.php)
-- Search [cloudflare domain list](cloudflare_users/domain/). Karma's ["Find Cloudflare Domains" API](http://avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/a/is_cf.php)
+- Use "Is MITM?" webpage. [Clearnet](https://sercxi.eu.org/ss/tool_qdb.php) / [Tor](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_qdb.php)
+- Search [cloudflare domain list](cloudflare_users/domain/). Karma's ["Find Cloudflare Domains" API](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/api/is_cf.php)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
 ```
@@ -137,12 +138,13 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 | List name | Description |
 | -------- | -------- |
 | /fqdn/attd.txt     | **Block Tor access** Split files, Everything (FQDN)     |
+| /fqdn/attd.json     | **Block Tor access** Split files, Everything (JSON)     |
 | hostility.md | **Does NOT block Tor access** Domain and Comment |
 
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
 - Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will tell you which link rejected Tor visitor.
-- Search [anti-tor fqdn list](anti-tor_users/fqdn/). Karma's ["Find Anti-Tor FQDN" API](http://avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/a/is_at.php)
+- Search [anti-tor fqdn list](anti-tor_users/fqdn/). Karma's ["Find Anti-Tor FQDN" API](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/api/is_at.php)
 
 ![](image/tor_nontor_diff.jpg)
 
@@ -210,7 +212,7 @@ A or B will be enough. Thank you for your contribution.
 > Type B: Just scan the FQDN
 
 - Cloudflare
-  - Scan FQDN on "[Is MITM?](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_ismitm.php)" webpage.
+  - Scan FQDN on "[Is MITM?](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_qdb.php)" webpage.
   - Or: Use add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)"
   - Or: Use "_MITM test_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)ismitm.php?f=www.emsisoft.com`
