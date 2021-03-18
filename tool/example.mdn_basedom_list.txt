@@ -1,5 +1,6 @@
 # Mastodon Preloma Domain
 # !! This is just a domain list.
+# !!	https://toot.gnous.eu/about ---> gnous.eu
 # !! This is NOT Cloudflare-only NOR Cloudflare-free server list!
 # !! You should read "getCFDomainFromList.php".
 # !!
@@ -919,6 +920,7 @@ glyphicality.tk
 gnatter.org
 gnlk.ovh
 gnosia.info
+gnous.eu
 gnusocial.cc
 gnusocial.club
 gnusocial.in
