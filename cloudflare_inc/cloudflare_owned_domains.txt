@@ -27,6 +27,7 @@ cloudflarewarp.com
 encryptedsni.com
 mycloudflare.com
 one.one
+pacloudflare.com
 trycloudflare.com
 warp.plus
 workers.dev

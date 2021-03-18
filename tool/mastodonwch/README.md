@@ -87,7 +87,7 @@ ym	int(6) INDEX
 
 ### Live demo
 
-If you want to see this in action: [Onion](http://stopcloudflare@avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/mastodon/) or [cache page  (Delay sync)](../../subfiles/shared_on_mastodon.md)
+If you want to see this in action: [Onion](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/social/mastodon/) or [cache page  (not in sync)](../../subfiles/shared_on_mastodon.md)
 
 
 
