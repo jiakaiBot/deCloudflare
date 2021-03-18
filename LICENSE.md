@@ -1,4 +1,4 @@
-`https://git.fuwafuwa.moe/you/stop_cloudflare`
+`https://codeberg.org/crimeflare/cloudflare-tor`
 
 
 ### Permesilo
@@ -9,7 +9,7 @@
 * Else -- [PUBLIKA DOMINO (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/) = [WTFPL](http://www.wtfpl.net/about/)
 
 
-[Ĉi tiu deponejo](https://git.fuwafuwa.moe/you/stop_cloudflare) estis kreita anonime, publike, por uzi la mondon [kontraŭstari](https://dw.expert/2020/06/13/the-dark-side-of-google-interview-with-ex-employee-of-the-company-zach-vorhies/) [Cloudflare](https://www.cloudflare.com/).
+[Ĉi tiu deponejo](https://codeberg.org/crimeflare/cloudflare-tor) estis kreita anonime, publike, por uzi la mondon [kontraŭstari](https://dw.expert/2020/06/13/the-dark-side-of-google-interview-with-ex-employee-of-the-company-zach-vorhies/) [Cloudflare](https://www.cloudflare.com/).
   
 Kontribuantoj, kiuj anonime kontribuis (inkluzive en [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)), venis antaŭen por doni al ĉi tiu projekto sian benon. 
 
