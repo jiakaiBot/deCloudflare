@@ -343,7 +343,7 @@
 | David Jewell | Customer Development | https://uk.linkedin.com/in/david-jewell-77701a59 |
 | David Kephart | Employee |  |
 | David Kitchen | Systems Engineer | david.kitchen@gmail.com<br>+44.7740949212<br>https://david.kitchen/<br>https://twitter.com/buro91 |
-| David Lallement | Account Executive |  |
+| David Lallement | Account Executive | https://uk.linkedin.com/in/davidlallement |
 | David Layson | Customer Success |  |
 | David Li | Sales Operations and Strategy |  |
 | David Ngo | Trust & Safety Engineer |  |
