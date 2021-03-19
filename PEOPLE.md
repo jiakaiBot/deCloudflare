@@ -34,3 +34,5 @@
 - Depending on what you are doing it might be worth checking out as they offer SSL but will be a MITM, which is fine for many applications. Free also. ([rharpur](https://twitter.com/rharpur/status/1325552682241765378))
 - It's extreme, but the threat vector isn't "MITM breaking TLS" - it's a misconfigured device that handles your TLS. For example, when Cloudflare or AWS ALB manage your certs, they can see everything unencrypted and in theory could leak data (like what happened to Cloudflare). ([e1g](https://twitter.com/e1g/status/1323310230181171201))
 - Da war ein zomg breiter lauter hamster macbook air i nzzki. That means cloudflare your mitm cdn when trying ([macmelonmac](https://twitter.com/MacMelonMac/status/1315463711293943808))
+
+- uhm... That's not cloudflare's fault. You should read up on what a Cloudflare 522 error is. ([butwhyt68749305](https://twitter.com/butwhyt68749305/status/1372957365759213568))
