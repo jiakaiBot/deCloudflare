@@ -8,5 +8,5 @@ About
 Content
 
 - index.php: gatekeeper
-- hosting.txt: Known hosting/VPS providers
+- hosting.txt: Known hosting/VPS providers (CIDR format)
 
