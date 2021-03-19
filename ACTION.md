@@ -46,12 +46,12 @@ You have a problem? [Raise your voice now](https://github.com/maraoz/maraoz.gith
 
 ```
 You are just helping corporate censorship and mass surveillance.
-https://git.fuwafuwa.moe/you/stop_cloudflare/src/branch/master/README.md
+https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Your web page is in the privacy-abusing private walled-garden of CloudFlare.
-See https://git.fuwafuwa.moe/you/stop_cloudflare/
+See https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 
 - Take some time to read website's privacy policy.
@@ -64,7 +64,7 @@ An _acceptable_ privacy policy example is [here](https://archive.is/bDlTz) (look
 ```
 I've read your privacy policy and I cannot find the word "Cloudflare".
 I refuse to share data with you if you continue to feed my data to Cloudflare.
-See https://git.fuwafuwa.moe/you/stop_cloudflare/
+See https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 
 For example, [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte) says:
@@ -150,7 +150,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 | ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
 
 - Want more customers? You know what to do. Hint is "_above line_".
-  - Hello, you wrote "[We take your privacy seriously](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously)" but I got "_Error 403 Forbidden Anonymous Proxy Not Allowed_". Why are you blocking Tor? Or VPN? And why are you blocking [temporary emails](http://hkgz2s5srq7msfls4rfioo7pnhmxh6s25drkrl5u2c4uqea7yb6abtqd.onion/mail/)?
+  - Hello, you wrote "[We take your privacy seriously](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously)" but I got "_Error 403 Forbidden Anonymous Proxy Not Allowed_". Why are you blocking Tor? Or VPN? And why are you blocking [temporary emails](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)?
 
 ![](image/anonexist.jpg)
 
@@ -254,7 +254,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.fuwafuwa.moe/you/stop_cloudflare for more information.<br />
+Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -400,9 +400,9 @@ Therefore we recommend above table only. _Nothing else_.
 
 - Tell others around you about the dangers of Cloudflare.
 
-- Help improve [this repository](https://git.fuwafuwa.moe/you/stop_cloudflare), both the lists, the arguments against it and the details.
+- Help improve [this repository](https://codeberg.org/crimeflare/cloudflare-tor), both the lists, the arguments against it and the details.
 
-- Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention [this repository](https://git.fuwafuwa.moe/you/stop_cloudflare) when you do so ;)
+- Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention [this repository](https://codeberg.org/crimeflare/cloudflare-tor) when you do so ;)
 
 - Get more people [using Tor](https://www.torproject.org) by default so they can experience the web from the perspective of different parts of the world.
 
