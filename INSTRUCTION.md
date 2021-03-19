@@ -236,17 +236,18 @@ Your contribution will be pushed to git automatically within a week.
 </summary>
 
 
-This procedure will give you a stop_cloudflare fork with a privacy-respecting configuration to do pushes with SSH over Tor using `git.fuwafuwa.moe`.
+This procedure will give you a stop_cloudflare fork with a privacy-respecting configuration to do pushes with SSH over Tor using `codeberg.org`.
 Below procedure is designed for _Linux_.
 The first step covers Windows too, but these instructions probably
 need more adaptations for Windows and other platforms.
 
+**WARNING: Codeberg is blocking some non-temporary email providers**
 
 - Linux: `aptitude install git tor ssh`
 - Windows: Download `PortableGit` from [Github](https://github.com/git-for-windows/) & run `git-bash.exe`
 
 1. Install Git, SSH(Not Windows), and Tor (if you haven't already)
-1. Create a `git.fuwafuwa.moe` account (username "snowden" will be used for this example)
+1. Create a `codeberg.org` account (username "snowden" will be used for this example)
 1. Create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at git' -f "$HOME"/.ssh/id_rsa_mrsnowden`
 1. Edit `$HOME/.ssh/config`:
 ```
@@ -260,7 +261,7 @@ need more adaptations for Windows and other platforms.
 
 1. copy `"$HOME"/.ssh/id_rsa_mrsnowden.pub` to clipboard
 1. git.fuwafuwa.moe > settings > SSH/GPG Keys > add key (paste from clipboard)
-1. $ `firefox https://git.fuwafuwa.moe/you/stop_cloudflare`
+1. $ `firefox https://codeberg.org/crimeflare/cloudflare-tor`
 1. fork it (top right corner)
 1. go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
 1. anonymously download your fork: $ `git clone git@mrsnowden:you/stop_cloudflare.git`
@@ -273,7 +274,7 @@ need more adaptations for Windows and other platforms.
         url = git@mrsnowden:snowden/stop_cloudflare.git
      	fetch = +refs/heads/*:refs/remotes/origin/*
 [remote "upstream"]
-        url = git@mrsnowden:you/stop_cloudflare.git
+        url = git@mrsnowden:crimeflare/cloudflare-tor.git
      	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
@@ -286,7 +287,7 @@ need more adaptations for Windows and other platforms.
 1. if yes: `$ git add . -u`
 1. $ `git commit -m 'description of first change'`
 1. $ `git push origin master`
-1. $ `firefox https://git.fuwafuwa.moe/you/stop_cloudflare`
+1. $ `firefox https://codeberg.org/crimeflare/cloudflare-tor`
 1. make a new pull request
 
 &nbsp;
@@ -355,11 +356,8 @@ If `the owner` moved away from `cloudflare` **completely**, you are welcome to a
 3. Click `test` for detailed scan.
 
 4. If you got `--- Finish ---`, the domain _might_ stopped using Cloudflare.
-
-We'll _investigate_ and remove it _if_ it is true.<br>
-You may prioritize your review request by contacting us if you are in a hurry.
-
-5. [Optional] Wait some days and scan again to see whether the domain is removed.
+  - The domain will be automatically removed.
+  - If the domain starts using Cloudflare again, it will be added again.
 
 
 `Only a few Cloudflare user leave Cloudflare. False positive is uncommon.`
