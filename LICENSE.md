@@ -13,7 +13,8 @@
   
 Kontribuantoj, kiuj anonime kontribuis (inkluzive en [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)), venis antaŭen por doni al ĉi tiu projekto sian benon. 
 
-CC0-permesilo permesas uzi tiujn dosierojn por iu ajn uzo, eĉ en manieroj, kiujn ni povus trovi malagrablaj aŭ kontestindaj. Vi ankaŭ povas enspezi monon el nia laboro kaj vi ne postulas doni krediton al ni.
+CC0-permesilo permesas uzi tiujn dosierojn por iu ajn uzo, eĉ en manieroj, kiujn ni povus trovi malagrablaj aŭ kontestindaj. Vi ankaŭ povas enspezi monon el nia 
+CC0-laboro kaj vi ne postulas doni krediton al ni.
 
 
 -----
@@ -30,4 +31,5 @@ CC0-permesilo permesas uzi tiujn dosierojn por iu ajn uzo, eĉ en manieroj, kiuj
   
 Contributors who have anonymously contributed (including in [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)) have since come forward to give this project their blessing. 
 
-CC0 license allow you to use those files for any purpose, even in ways we may find distasteful or objectionable. You can also make money off our work and you are not required to give credit to us.
+CC0 license allow you to use those files for any purpose, even in ways we may find distasteful or objectionable. You can also make money off our 
+CC0 work and you are not required to give credit to us.
