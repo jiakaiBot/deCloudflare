@@ -443,6 +443,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Hello, I can't add my newly registered domain and the error message is: "This web property is temporarily restricted from being added to Cloudflare at this time." Can you help me? ([fatihguner](https://twitter.com/fatihguner/status/1372886809341005834))
 - Today the CloudFlare gods have smiled upon me, and decided that every website I have to complete a captcha. Wouldn't be as bad if hCaptcha had any quality control. Say what you want about Google, but reCaptch at least worked. Isn't having gatekeepers to the internet great? ([jamescun](https://twitter.com/jamescun/status/1371918897839017991))
 - Oh, that's changed. You used to be able to paste in the URL from any codepen editor page, but now Cloudflare gets in the way. Curiously, my Safari just hit the same Cloudflare page, but let me through after the CAPTCHA - never had that before (and I tried Safari before Flow). ([_piers_](https://twitter.com/_Piers_/status/1371492006258688000))
 - The error message is stupid. Cloudflare is on high alert, a majority of the users can't touch the site. ([silvea12](https://twitter.com/Silvea12/status/1372625689417945088))
