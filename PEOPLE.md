@@ -26,7 +26,7 @@ Man-in-the-middle attack is a serious offense.
 If you′re using Cloudflare on your website, you won′t get first rank.
 You shouldn′t use it if you value visitor′s privacy.
 ```
- -- [Searxes](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
+ -- [Ss](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
 
 
 ```
@@ -55,7 +55,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 ## News
 </summary>
 
-- [Unrevokable SSL Certificates - Isn’t this sounding pretty corrupt?  Yes.](https://worldofmatthew.com/post/cloudflare-ssl/)
+
 - [Major internet outage: Dozens of websites and apps were down](https://edition.cnn.com/2020/08/30/tech/internet-outage-cloudflare/index.html)
 - [Произошел сбой работы интернет сервисов по всему миру](https://www.securitylab.ru/news/511577.php)
 - [Cloudflare suffered data leak; exposing 3 million IP addresses: Ukraine](https://www.hackread.com/cloudflare-data-leak-expose-ip-addresses-ukraine/)
@@ -97,6 +97,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
+
+- [Unrevokable SSL Certificates - Isn’t this sounding pretty corrupt?  Yes.](https://worldofmatthew.com/post/cloudflare-ssl/)
 - [New CDN for media files](https://masto.host/new-cdn-for-media-files/)
 - [Personal post: I left Cloudflare](https://www.ethanyoo.com/cloudflare/)
 - [Crimeflare (Fuck Cloudflare) / bandcamp / music](https://polarisfm.bandcamp.com/releases)
