@@ -334,10 +334,11 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 <details>
 <summary>_click me_
 
-## Microsoft GitHub / GitLab / Gitea
+## Microsoft GitHub / Gitea / GitLab
 </summary>
 
 
+- [CloudFlare](https://git.disroot.org/cyberMonk/liberethos_paradigm/src/branch/master/rap_sheets/cloudflare.md)
 - [problem with cloudfare protect](https://github.com/HDoujinDownloader/HDoujin-Downloader/issues/5)
 - [Htmlunit Cloudflare](https://github.com/HtmlUnit/htmlunit/issues/249)
 - [Stop using CDNs](https://github.com/sio2project/oioioi/issues/44)
