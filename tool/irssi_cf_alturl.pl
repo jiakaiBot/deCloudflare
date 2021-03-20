@@ -24,7 +24,7 @@
 
 use vars qw($VERSION %IRSSI);
 
-$VERSION = "20201110";
+$VERSION = "20210301";
 %IRSSI   = (
 
     #	Special thanks to: "eo, tsaavik"
@@ -58,7 +58,8 @@ sub setuphandler {
     Irssi::settings_add_bool( "cflarealt", "cflarealt_shorturl_activate", 0 );
     if ( Irssi::settings_get_bool("cflarealt_shorturl_activate") ) {
         print "cflarealt: URL shortner enabled";
-        $cfg_useshort = 1;
+        ##$cfg_useshort = 1;
+        print "(disabled - onion down)";
     }
 
     Irssi::settings_add_bool( "cflarealt", "cflarealt_shorturl_useonion", 0 );
@@ -227,7 +228,7 @@ sub GotUrl {
                     deb("$target Asking API about $fqdn");
                     $answer = '';
                     $url =
-                      'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/ismitm.php?f='
+                      'https://api.sercxi.eu.org/_/ismitm.php?f='
                       . $fqdn;
                     $browser = LWP::UserAgent->new;
                     $browser->agent("Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0");
