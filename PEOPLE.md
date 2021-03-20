@@ -443,6 +443,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- How can your servers possibly be as bad as they are. 100% of the time I see an ERROR 502 HOST ERROR from your servers not being able to handle traffic. I don't know if your CLoudFlare protection is too sensitive or your servers are too weak to handle the traffic. Please fix it. ([design4mind317](https://twitter.com/Design4Mind317/status/1373372524201967622))
 - Today the CloudFlare gods have smiled upon me, and decided that every website I have to complete a captcha. Wouldn't be as bad if hCaptcha had any quality control. Say what you want about Google, but reCaptch at least worked. Isn't having gatekeepers to the internet great? ([jamescun](https://twitter.com/jamescun/status/1371918897839017991))
 - Oh, that's changed. You used to be able to paste in the URL from any codepen editor page, but now Cloudflare gets in the way. Curiously, my Safari just hit the same Cloudflare page, but let me through after the CAPTCHA - never had that before (and I tried Safari before Flow). ([_piers_](https://twitter.com/_Piers_/status/1371492006258688000))
 - The error message is stupid. Cloudflare is on high alert, a majority of the users can't touch the site. ([silvea12](https://twitter.com/Silvea12/status/1372625689417945088))
