@@ -46,9 +46,7 @@ This add-on never send other information.
 ```
 
 
-- Code
-  - [Firefox](https://git.fuwafuwa.moe/you/stop_cloudflare/src/branch/master/addons/ismitmlinkFX)
-  - [Chromium](https://git.fuwafuwa.moe/you/stop_cloudflare/src/branch/master/addons/ismitmlinkCR)
+- [Code](https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/addons/code/ismitmlinkFX)
 - Download add-on
   - From Ss (_Recommend_): [Firefox ESR / Chromium](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
-  - From Gitea (Delay Sync): [FirefoxESR](https://git.fuwafuwa.moe/you/stop_cloudflare/raw/branch/master/addons/releases/ismm.xpi) / [Chromium](https://git.fuwafuwa.moe/you/stop_cloudflare/raw/branch/master/addons/releases/ismm.crx)
+  - From Gitea (Delay Sync): [FirefoxESR](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/addons/releases/ismm.xpi) / [Chromium](https://codeberg.org/crimeflare/cloudflare-tor/raw/branch/master/addons/releases/ismm.crx)
