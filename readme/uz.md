@@ -114,7 +114,7 @@ Ushbu ombor Tor foydalanuvchilari va boshqa CDN-larni blokirovka qiladigan "Grea
 ## Siz nima qila olasiz?
 </summary>
 
-* [Tavsiya etilgan harakatlar ro'yxatini o'qing va do'stlaringiz bilan o'rtoqlashing.](../ACTION.md)
+* [Tavsiya etilgan harakatlar ro'yxatini o'qing va do'stlaringiz bilan o'rtoqlashing.](uz.action.md)
 
 * [Boshqa foydalanuvchining ovozini o'qing va o'z fikrlaringizni yozing.](../PEOPLE.md)
 
