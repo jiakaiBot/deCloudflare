@@ -114,7 +114,7 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 ## Anong pwede mong gawin?
 </summary>
 
-* [Basahin ang aming listahan ng mga inirekumendang aksyon at ibahagi ito sa iyong mga kaibigan.](../ACTION.md)
+* [Basahin ang aming listahan ng mga inirekumendang aksyon at ibahagi ito sa iyong mga kaibigan.](fl.action.md)
 
 * [Basahin ang tinig ng ibang gumagamit at isulat ang iyong mga saloobin.](../PEOPLE.md)
 
