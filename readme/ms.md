@@ -114,7 +114,7 @@ Repositori ini adalah senarai laman web yang berada di belakang "The Great Cloud
 ## Apa yang kau boleh buat?
 </summary>
 
-* [Baca senarai tindakan yang disyorkan dan kongsikan kepada rakan anda.](../ACTION.md)
+* [Baca senarai tindakan yang disyorkan dan kongsikan kepada rakan anda.](ms.action.md)
 
 * [Baca suara pengguna lain dan tuliskan pendapat anda.](../PEOPLE.md)
 
