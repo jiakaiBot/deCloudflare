@@ -114,7 +114,7 @@ Iyi repository runyorwa rwemawebhusaiti ari kumashure kwe "Iyo huru Cloudwall", 
 ## Ungaitei?
 </summary>
 
-* [Verenga runyorwa rwedu rwezviito zvakakurudzirwa uye uzvigovane neshamwari dzako.](../ACTION.md)
+* [Verenga runyorwa rwedu rwezviito zvakakurudzirwa uye uzvigovane neshamwari dzako.](sn.action.md)
 
 * [Verenga izwi remumwe mushandisi uye nyora zvaunofunga.](../PEOPLE.md)
 
