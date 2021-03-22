@@ -114,7 +114,7 @@ Dit repository is in list fan websides dy't efter "The Great Cloudwall" steane, 
 ## Wat kinst dwaan?
 </summary>
 
-* [Lês ús list mei oanbefellende aksjes en diel it mei jo freonen.](../ACTION.md)
+* [Lês ús list mei oanbefellende aksjes en diel it mei jo freonen.](fy.action.md)
 
 * [Lês de stim fan oare brûker en skriuw jo gedachten.](../PEOPLE.md)
 
