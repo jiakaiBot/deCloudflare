@@ -114,7 +114,7 @@ Wannan wurin ajiyar kaya akwai jerin rukunin yanar gizon da ke bayan "Babban Clo
 ## Me za ku iya yi?
 </summary>
 
-* [Karanta jerin shawarwarin da aka bayar da shawarar ka raba tare da abokanka.](../ACTION.md)
+* [Karanta jerin shawarwarin da aka bayar da shawarar ka raba tare da abokanka.](ha.action.md)
 
 * [Karanta muryar sauran mai amfani ka rubuta tunanin ka.](../PEOPLE.md)
 
