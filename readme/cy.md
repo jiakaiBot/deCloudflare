@@ -114,7 +114,7 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "The Great Cloudwall", ga
 ## Beth ydych chi'n gallu gwneud?
 </summary>
 
-* [Darllenwch ein rhestr o gamau gweithredu a argymhellir a'i rannu gyda'ch ffrindiau.](../ACTION.md)
+* [Darllenwch ein rhestr o gamau gweithredu a argymhellir a'i rannu gyda'ch ffrindiau.](cy.action.md)
 
 * [Darllenwch lais defnyddiwr arall ac ysgrifennwch eich meddyliau.](../PEOPLE.md)
 
