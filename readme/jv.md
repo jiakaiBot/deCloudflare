@@ -114,7 +114,7 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Great Cloudwal
 ## Apa sampeyan bisa nggawe?
 </summary>
 
-* [Waca dhaptar tindakan sing disaranake lan wenehana bareng karo kanca-kanca.](../ACTION.md)
+* [Waca dhaptar tindakan sing disaranake lan wenehana bareng karo kanca-kanca.](jv.action.md)
 
 * [Waca swara pangguna liyane lan tulisake pikirane.](../PEOPLE.md)
 
