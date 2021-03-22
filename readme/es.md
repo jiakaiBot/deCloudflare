@@ -114,7 +114,7 @@ Este repositorio es una lista de sitios web que están detrás de "The Great Clo
 ## ¿Qué puedes hacer?
 </summary>
 
-* [Lea nuestra lista de acciones recomendadas y compártala con sus amigos.](../ACTION.md)
+* [Lea nuestra lista de acciones recomendadas y compártala con sus amigos.](es.action.md)
 
 * [Lea la voz de otros usuarios y escriba sus pensamientos.](../PEOPLE.md)
 
