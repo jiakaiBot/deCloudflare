@@ -114,7 +114,7 @@ Is e an ath-reic seo liosta de làraich-lìn a tha air cùl “The Great Cloudwa
 ## Dè as urrainn dhut a dhèanamh?
 </summary>
 
-* [Leugh an liosta de na gnìomhan a tha sinn a ’moladh agus roinn e le do charaidean.](../ACTION.md)
+* [Leugh an liosta de na gnìomhan a tha sinn a ’moladh agus roinn e le do charaidean.](gd.action.md)
 
 * [Leugh guth neach-cleachdaidh eile agus sgrìobh do bheachdan.](../PEOPLE.md)
 
