@@ -114,7 +114,7 @@ Bu depo, Tor kullanıcılarını ve diğer CDN'leri engelleyen "The Great Cloudw
 ## Ne yapabilirsin?
 </summary>
 
-* [Önerilen eylemler listemizi okuyun ve arkadaşlarınızla paylaşın.](../ACTION.md)
+* [Önerilen eylemler listemizi okuyun ve arkadaşlarınızla paylaşın.](tr.action.md)
 
 * [Diğer kullanıcının sesini okuyun ve düşüncelerinizi yazın.](../PEOPLE.md)
 
