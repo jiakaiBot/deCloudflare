@@ -114,7 +114,7 @@ Ez a lerakat azon webhelyek listája, amelyek a "Nagy felhőfal" mögött állna
 ## Mit tudsz csinálni?
 </summary>
 
-* [Olvassa el az ajánlott tevékenységek listáját, és ossza meg barátaival.](../ACTION.md)
+* [Olvassa el az ajánlott tevékenységek listáját, és ossza meg barátaival.](hu.action.md)
 
 * [Olvassa el a többi felhasználó hangját és írja meg gondolatait.](../PEOPLE.md)
 
