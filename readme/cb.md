@@ -114,7 +114,7 @@ Ang kini nga repositoryo usa ka lista sa mga website nga sa luyo sa "The Great C
 ## Unsay imong mahimo?
 </summary>
 
-* [Basaha ang among lista sa girekomenda nga mga aksyon ug ipaambit kini sa imong mga higala.](../ACTION.md)
+* [Basaha ang among lista sa girekomenda nga mga aksyon ug ipaambit kini sa imong mga higala.](cb.action.md)
 
 * [Basaha ang tingog sa ubang tiggamit ug isulat ang imong mga hunahuna.](../PEOPLE.md)
 
