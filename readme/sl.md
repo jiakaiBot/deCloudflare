@@ -114,7 +114,7 @@ To skladišče je seznam spletnih mest, ki stojijo za "Great Cloudwall" in bloki
 ## Kaj lahko narediš?
 </summary>
 
-* [Preberite naš seznam priporočenih dejanj in jih delite s prijatelji.](../ACTION.md)
+* [Preberite naš seznam priporočenih dejanj in jih delite s prijatelji.](sl.action.md)
 
 * [Preberite drug uporabnikov glas in napišite svoje misli.](../PEOPLE.md)
 
