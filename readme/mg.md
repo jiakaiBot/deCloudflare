@@ -114,7 +114,7 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "The Great Cloudwa
 ## Inona no azonao atao?
 </summary>
 
-* [Vakio ny lisitry ny hetsika naroso ary zarao amin'ny namanao.](../ACTION.md)
+* [Vakio ny lisitry ny hetsika naroso ary zarao amin'ny namanao.](mg.action.md)
 
 * [Vakio ny feon'ny mpampiasa hafa ary soraty ny hevitrao.](../PEOPLE.md)
 
