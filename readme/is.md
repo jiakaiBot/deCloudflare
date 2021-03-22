@@ -114,7 +114,7 @@
 ## Hvað er hægt að gera?
 </summary>
 
-* [Lestu listann yfir ráðlagðar aðgerðir og deildu honum með vinum þínum.](../ACTION.md)
+* [Lestu listann yfir ráðlagðar aðgerðir og deildu honum með vinum þínum.](is.action.md)
 
 * [Lestu rödd annars notanda og skrifaðu hugsanir þínar.](../PEOPLE.md)
 
