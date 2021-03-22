@@ -114,7 +114,7 @@ Kjo depo është një listë e faqeve të internetit që janë pas "The Great Cl
 ## Cfare mund te besh?
 </summary>
 
-* [Lexoni listën tonë të veprimeve të rekomanduara dhe ndajeni atë me miqtë tuaj.](../ACTION.md)
+* [Lexoni listën tonë të veprimeve të rekomanduara dhe ndajeni atë me miqtë tuaj.](sq.action.md)
 
 * [Lexoni zërin e përdoruesit të tjerë dhe shkruani mendimet tuaja.](../PEOPLE.md)
 
