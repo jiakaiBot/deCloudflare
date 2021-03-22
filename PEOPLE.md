@@ -443,6 +443,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Hello, do you why I would be getting a captcha page from when I try to login to my account? I've not signed up for their service. ([sarahstiffin](https://twitter.com/SarahStiffin/status/1373989869148635140))
 - Klar. Aber im Endeffekt schreiben sie überall auf Ihrer Seite, dass sie DSGVO-Konform sind, aber nutzen dann Cloudflare. Gerade auch für die Captcha-Requests. Finde ich persönlich echt Enttäuschend. Hatte die vor nem Monat nur kurz überflogen und eigentlich ein positives Bild... ([niklascodes](https://twitter.com/niklascodes/status/1372953491963011073))
 - I got some kind of weird error page. DDS Cloudflare or some such. Back now but running like a dog. ([caledoniaman](https://twitter.com/caledoniaman/status/1373776494888112132))
 - welp ya mighta crashed your substack there? hahaha. getting a cloudflare error. ([trickycrayon](https://twitter.com/trickycrayon/status/1373658254803353603))
