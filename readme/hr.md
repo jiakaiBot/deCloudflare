@@ -114,7 +114,7 @@ Ovo spremište je popis web stranica koje stoje iza "Velikog oblačnog zida", a 
 ## Što možeš učiniti?
 </summary>
 
-* [Pročitajte naš popis preporučenih akcija i podijelite ga sa svojim prijateljima.](../ACTION.md)
+* [Pročitajte naš popis preporučenih akcija i podijelite ga sa svojim prijateljima.](hr.action.md)
 
 * [Pročitajte glas drugog korisnika i napišite svoje misli.](../PEOPLE.md)
 
