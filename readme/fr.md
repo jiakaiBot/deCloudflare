@@ -114,7 +114,7 @@ Ce référentiel est une liste de sites Web derrière "The Great Cloudwall", blo
 ## Que pouvez-vous faire?
 </summary>
 
-* [Lisez notre liste d'actions recommandées et partagez-la avec vos amis.](../ACTION.md)
+* [Lisez notre liste d'actions recommandées et partagez-la avec vos amis.](fr.action.md)
 
 * [Lisez la voix des autres utilisateurs et écrivez vos pensées.](../PEOPLE.md)
 
