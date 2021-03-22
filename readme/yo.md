@@ -114,7 +114,7 @@ Ibi ipamọ yii jẹ atokọ ti awọn oju opo wẹẹbu ti o wa lẹhin "The Cl
 ## Kini o le ṣe?
 </summary>
 
-* [Ka atokọ wa ti awọn iṣe iṣeduro niyanju ki o pin pẹlu awọn ọrẹ rẹ.](../ACTION.md)
+* [Ka atokọ wa ti awọn iṣe iṣeduro niyanju ki o pin pẹlu awọn ọrẹ rẹ.](yo.action.md)
 
 * [Ka ohun olulo olumulo miiran ki o kọ awọn ero rẹ.](../PEOPLE.md)
 
