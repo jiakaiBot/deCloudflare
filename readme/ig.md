@@ -114,7 +114,7 @@ Ebe a bụ ndepụta nke weebụsaịtị dị n'azụ "The Great Cloudwall", na
 ## Gịnị ka ị ga-eme?
 </summary>
 
-* [Gụọ ndepụta ntụrụ aka ndị edepụtara ma soro ndị enyi gị kerịta ya.](../ACTION.md)
+* [Gụọ ndepụta ntụrụ aka ndị edepụtara ma soro ndị enyi gị kerịta ya.](ig.action.md)
 
 * [Guo olu onye oru ndi ozo ma dee echiche gi.](../PEOPLE.md)
 
