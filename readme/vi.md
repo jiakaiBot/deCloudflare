@@ -114,7 +114,7 @@ Kho lưu trữ này là danh sách các trang web đứng sau "Bức tường m�
 ## Bạn có thể làm gì?
 </summary>
 
-* [Đọc danh sách các hành động được đề xuất của chúng tôi và chia sẻ nó với bạn bè của bạn.](../ACTION.md)
+* [Đọc danh sách các hành động được đề xuất của chúng tôi và chia sẻ nó với bạn bè của bạn.](vi.action.md)
 
 * [Đọc giọng nói của người dùng khác và viết suy nghĩ của bạn.](../PEOPLE.md)
 
