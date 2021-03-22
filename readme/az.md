@@ -114,7 +114,7 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Bulud" a
 ## Sən nə edə bilərsən?
 </summary>
 
-* [Tövsiyə olunan hərəkətlər siyahımızı oxuyun və dostlarınızla bölüşün.](../ACTION.md)
+* [Tövsiyə olunan hərəkətlər siyahımızı oxuyun və dostlarınızla bölüşün.](az.action.md)
 
 * [Digər istifadəçinin səsini oxuyun və fikirlərinizi yazın.](../PEOPLE.md)
 
