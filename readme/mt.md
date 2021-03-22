@@ -114,7 +114,7 @@ Dan ir-repożitorju huwa lista ta 'websajts li huma wara "Il-Great Cloudwall", l
 ## X'tista tagħmel?
 </summary>
 
-* [Aqra l-lista tal-azzjonijiet rakkomandati tagħna u aqsamha mal-ħbiebek.](../ACTION.md)
+* [Aqra l-lista tal-azzjonijiet rakkomandati tagħna u aqsamha mal-ħbiebek.](mt.action.md)
 
 * [Aqra leħen ta 'utent ieħor u ikteb il-ħsibijiet tiegħek.](../PEOPLE.md)
 
