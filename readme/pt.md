@@ -114,7 +114,7 @@ Este repositório é uma lista de sites que estão por trás do "The Great Cloud
 ## O que você pode fazer?
 </summary>
 
-* [Leia nossa lista de ações recomendadas e compartilhe com seus amigos.](../ACTION.md)
+* [Leia nossa lista de ações recomendadas e compartilhe com seus amigos.](pt.action.md)
 
 * [Leia a voz de outro usuário e escreva suas idéias.](../PEOPLE.md)
 
