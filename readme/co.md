@@ -114,7 +114,7 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "The Great Cloudwal
 ## Chì pudete fà?
 </summary>
 
-* [Leghjite a nostra lista di l'azzione cunsigliata è sparte cun i vostri amichi.](../ACTION.md)
+* [Leghjite a nostra lista di l'azzione cunsigliata è sparte cun i vostri amichi.](co.action.md)
 
 * [Leghjite a voce di l'altru utente è scrive u vostru pensamentu.](../PEOPLE.md)
 
