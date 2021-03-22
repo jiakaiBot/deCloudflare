@@ -114,7 +114,7 @@ Jalada hili ni orodha ya tovuti ambazo ziko nyuma "Cloudwall Kubwa", zinazuia wa
 ## Je! Unaweza kufanya nini?
 </summary>
 
-* [Soma orodha yetu ya hatua zilizopendekezwa na ushiriki kwa rafiki yako.](../ACTION.md)
+* [Soma orodha yetu ya hatua zilizopendekezwa na ushiriki kwa rafiki yako.](sw.action.md)
 
 * [Soma sauti ya mtumiaji mwingine na uandike mawazo yako.](../PEOPLE.md)
 
