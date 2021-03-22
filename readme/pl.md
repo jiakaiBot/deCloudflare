@@ -114,7 +114,7 @@ To repozytorium to lista stron internetowych, które stoją za „Wielką zapor�
 ## Co możesz zrobić?
 </summary>
 
-* [Przeczytaj naszą listę zalecanych działań i podziel się nią ze znajomymi.](../ACTION.md)
+* [Przeczytaj naszą listę zalecanych działań i podziel się nią ze znajomymi.](pl.action.md)
 
 * [Przeczytaj głos innych użytkowników i napisz swoje myśli.](../PEOPLE.md)
 
