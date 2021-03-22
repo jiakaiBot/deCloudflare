@@ -114,7 +114,7 @@ Sebaka sena sa polokelo ke lenane la liwebosaete tse ka morao ho "The Cloudwall"
 ## U ka etsa eng?
 </summary>
 
-* [Bala lethathamo la rona la liketso tse khothaletsoang 'me u li arolelane le metsoalle ea hau.](../ACTION.md)
+* [Bala lethathamo la rona la liketso tse khothaletsoang 'me u li arolelane le metsoalle ea hau.](st.action.md)
 
 * [Bala lentsoe la motho e mong 'me u ngole maikutlo a hao.](../PEOPLE.md)
 
