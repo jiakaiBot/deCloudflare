@@ -114,7 +114,7 @@ Toto úložisko je zoznam webových stránok, ktoré sú za „Veľkou cloudovou
 ## Čo môžeš urobiť?
 </summary>
 
-* [Prečítajte si náš zoznam odporúčaných akcií a zdieľajte ho so svojimi priateľmi.](../ACTION.md)
+* [Prečítajte si náš zoznam odporúčaných akcií a zdieľajte ho so svojimi priateľmi.](sk.action.md)
 
 * [Prečítajte si hlas iného používateľa a napíšte svoje myšlienky.](../PEOPLE.md)
 
