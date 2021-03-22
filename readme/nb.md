@@ -114,7 +114,7 @@ Dette depotet er en liste over nettsteder som ligger bak "The Great Cloudwall", 
 ## Hva kan du gjøre?
 </summary>
 
-* [Les listen over anbefalte handlinger og del den med vennene dine.](../ACTION.md)
+* [Les listen over anbefalte handlinger og del den med vennene dine.](nb.action.md)
 
 * [Les stemmer fra andre brukere og skriv tankene dine.](../PEOPLE.md)
 
