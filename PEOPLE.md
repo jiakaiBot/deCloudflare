@@ -443,6 +443,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Klar. Aber im Endeffekt schreiben sie überall auf Ihrer Seite, dass sie DSGVO-Konform sind, aber nutzen dann Cloudflare. Gerade auch für die Captcha-Requests. Finde ich persönlich echt Enttäuschend. Hatte die vor nem Monat nur kurz überflogen und eigentlich ein positives Bild... ([niklascodes](https://twitter.com/niklascodes/status/1372953491963011073))
+- I got some kind of weird error page. DDS Cloudflare or some such. Back now but running like a dog. ([caledoniaman](https://twitter.com/caledoniaman/status/1373776494888112132))
 - welp ya mighta crashed your substack there? hahaha. getting a cloudflare error. ([trickycrayon](https://twitter.com/trickycrayon/status/1373658254803353603))
 - How can your servers possibly be as bad as they are. 100% of the time I see an ERROR 502 HOST ERROR from your servers not being able to handle traffic. I don't know if your CLoudFlare protection is too sensitive or your servers are too weak to handle the traffic. Please fix it. ([design4mind317](https://twitter.com/Design4Mind317/status/1373372524201967622))
 - Today the CloudFlare gods have smiled upon me, and decided that every website I have to complete a captcha. Wouldn't be as bad if hCaptcha had any quality control. Say what you want about Google, but reCaptch at least worked. Isn't having gatekeepers to the internet great? ([jamescun](https://twitter.com/jamescun/status/1371918897839017991))
