@@ -114,7 +114,7 @@ See hoidla on loetelu veebisaitidest, mis asuvad "Suure pilvaseina" taga, blokee
 ## Mida sa teha saad?
 </summary>
 
-* [Lugege meie soovitatud toimingute loendit ja jagage seda oma sõpradega.](../ACTION.md)
+* [Lugege meie soovitatud toimingute loendit ja jagage seda oma sõpradega.](et.action.md)
 
 * [Loe teise kasutaja häält ja kirjuta oma mõtted.](../PEOPLE.md)
 
