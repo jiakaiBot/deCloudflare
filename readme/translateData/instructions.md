@@ -16,6 +16,7 @@
 2. Copy `/readme/translateData/TEMPLATE.main.tab` to `/readme/translateData/override/zz.main.tab`.
   - cp /readme/translateData/TEMPLATE.main.tab /readme/translateData/override/_zz_.main.tab
   - cp /readme/translateData/TEMPLATE.ethics.tab /readme/translateData/override/_zz_.ethics.tab
+  - cp /readme/translateData/TEMPLATE.action.tab /readme/translateData/override/_zz_.action.tab
 
 3. Remove all lines but keep what you want to fix. (you can translate all lines if you wish)
   - e.g `mainx0n00013	Take a look at the right image.`
