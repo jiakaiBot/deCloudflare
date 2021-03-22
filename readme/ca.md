@@ -114,7 +114,7 @@ Aquest dipòsit és una llista de llocs web que hi ha al darrere de "The Great C
 ## Què pots fer?
 </summary>
 
-* [Llegiu la nostra llista d’accions recomanades i compartiu-la amb els vostres amics.](../ACTION.md)
+* [Llegiu la nostra llista d’accions recomanades i compartiu-la amb els vostres amics.](ca.action.md)
 
 * [Llegiu la veu d’un altre usuari i escriviu els vostres pensaments.](../PEOPLE.md)
 
