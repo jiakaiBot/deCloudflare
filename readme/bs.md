@@ -114,7 +114,7 @@ Ovo skladište predstavlja listu web stranica koje stoje iza "Velikog oblačnog 
 ## Šta možeš učiniti?
 </summary>
 
-* [Pročitajte našu listu preporučenih akcija i podijelite je sa svojim prijateljima.](../ACTION.md)
+* [Pročitajte našu listu preporučenih akcija i podijelite je sa svojim prijateljima.](bs.action.md)
 
 * [Pročitajte glas drugog korisnika i napišite svoje misli.](../PEOPLE.md)
 
