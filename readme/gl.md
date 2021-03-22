@@ -114,7 +114,7 @@ Este repositorio é unha lista de sitios web que están detrás de "The Great Cl
 ## Que podes facer?
 </summary>
 
-* [Lea a nosa lista de accións recomendadas e compárteo cos teus amigos.](../ACTION.md)
+* [Lea a nosa lista de accións recomendadas e compárteo cos teus amigos.](gl.action.md)
 
 * [Lea a voz doutro usuario e escribe os teus pensamentos.](../PEOPLE.md)
 
