@@ -114,7 +114,7 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "The Great Cloudwal
 ## Wat kënnt Dir maachen?
 </summary>
 
-* [Liest eis Lëscht vun empfohlenen Aktiounen an deelt se mat Äre Frënn.](../ACTION.md)
+* [Liest eis Lëscht vun empfohlenen Aktiounen an deelt se mat Äre Frënn.](lb.action.md)
 
 * [Liest aner Benotzer Stëmm a schreift Är Gedanken.](../PEOPLE.md)
 
