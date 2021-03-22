@@ -114,7 +114,7 @@ Repositori ieu mangrupikeun daptar situs wéb anu aya di tukangeun "The Great Cl
 ## Naon nu bisa kumaneh di pigawe?
 </summary>
 
-* [Baca daptar tindakan urang anu dianjurkeun sareng bagikeun babaturan anjeun.](../ACTION.md)
+* [Baca daptar tindakan urang anu dianjurkeun sareng bagikeun babaturan anjeun.](su.action.md)
 
 * [Maca sora pangguna sanés sareng tuliskeun pikiran anjeun.](../PEOPLE.md)
 
