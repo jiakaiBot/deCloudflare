@@ -114,7 +114,7 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 ## Cosa sai fare?
 </summary>
 
-* [Leggi il nostro elenco di azioni consigliate e condividilo con i tuoi amici.](../ACTION.md)
+* [Leggi il nostro elenco di azioni consigliate e condividilo con i tuoi amici.](it.action.md)
 
 * [Leggi la voce di altri utenti e scrivi i tuoi pensieri.](../PEOPLE.md)
 
