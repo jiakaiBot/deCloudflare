@@ -114,7 +114,7 @@ Et hoc promptuario est, quae post tergum album of websites "Magna et Cloudwall",
 ## Quid facitis?
 </summary>
 
-* [Album de actus nostros Read suadetur ut cum amicis constituendum, participem faciendumque.](../ACTION.md)
+* [Album de actus nostros Read suadetur ut cum amicis constituendum, participem faciendumque.](la.action.md)
 
 * [Legere et scribere aliam vocem tuam cogitationes user scriptor.](../PEOPLE.md)
 
