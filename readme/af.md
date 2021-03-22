@@ -114,7 +114,7 @@ Hierdie bewaarplek is 'n lys van webwerwe wat agter "The Great Cloudwall" staan,
 ## Wat kan jy doen?
 </summary>
 
-* [Lees ons lys met aanbevole aksies en deel dit met jou vriende.](../ACTION.md)
+* [Lees ons lys met aanbevole aksies en deel dit met jou vriende.](af.action.md)
 
 * [Lees die stem van 'n ander gebruiker en skryf u gedagtes.](../PEOPLE.md)
 
