@@ -115,7 +115,7 @@
 ## Kion vi povas fari?
 </summary>
 
-* Bonvolu legi [nian liston de rekomendindaj agoj](../ACTION.md) kaj dividu ĝin kun viaj amikoj.
+* Bonvolu legi [nian liston de rekomendindaj agoj](eo.action.md) kaj dividu ĝin kun viaj amikoj.
 
 * Bonvolu legi [la voĉon de alia uzanto](../PEOPLE.md) kaj skribu viajn pensojn.
 
