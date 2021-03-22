@@ -114,7 +114,7 @@ Repozitwa sa a se yon lis sou sit entènèt ki dèyè "Great Cloudwall la", blok
 ## Kisa ou ka fè?
 </summary>
 
-* [Li lis aksyon nou rekòmande yo epi pataje li avèk zanmi ou yo.](../ACTION.md)
+* [Li lis aksyon nou rekòmande yo epi pataje li avèk zanmi ou yo.](ht.action.md)
 
 * [Li vwa lòt itilizatè a epi ekri panse ou.](../PEOPLE.md)
 
