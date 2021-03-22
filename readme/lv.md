@@ -114,7 +114,7 @@
 ## Ko tu vari izdarīt?
 </summary>
 
-* [Izlasiet mūsu ieteikto darbību sarakstu un dalieties tajā ar draugiem.](../ACTION.md)
+* [Izlasiet mūsu ieteikto darbību sarakstu un dalieties tajā ar draugiem.](lv.action.md)
 
 * [Izlasiet cita lietotāja balsi un uzrakstiet savas domas.](../PEOPLE.md)
 
