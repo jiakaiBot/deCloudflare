@@ -114,7 +114,7 @@ Toto úložiště je seznam webových stránek, které jsou za „Velkým cloude
 ## Co můžeš udělat?
 </summary>
 
-* [Přečtěte si náš seznam doporučených akcí a sdílejte jej se svými přáteli.](../ACTION.md)
+* [Přečtěte si náš seznam doporučených akcí a sdílejte jej se svými přáteli.](cs.action.md)
 
 * [Přečtěte si hlas jiného uživatele a napište své myšlenky.](../PEOPLE.md)
 
