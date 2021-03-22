@@ -114,7 +114,7 @@ O lenei fale teu oloa o se lisi o uepisaite o loʻo i tua o le "The Great Cloudw
 ## O le a se mea e mafai ona e faia?
 </summary>
 
-* [Faitau la matou lisi o gaioiga fautuaina ma faasoa atu i au uo.](../ACTION.md)
+* [Faitau la matou lisi o gaioiga fautuaina ma faasoa atu i au uo.](sm.action.md)
 
 * [Faitau le isi leo faʻaaoga ma tusi ou manatu.](../PEOPLE.md)
 
