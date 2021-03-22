@@ -114,7 +114,7 @@ Detta förvar är en lista över webbplatser som ligger bakom "The Great Cloudwa
 ## Vad kan du göra?
 </summary>
 
-* [Läs vår lista med rekommenderade åtgärder och dela den med dina vänner.](../ACTION.md)
+* [Läs vår lista med rekommenderade åtgärder och dela den med dina vänner.](sv.action.md)
 
 * [Läs andra användares röst och skriv dina tankar.](../PEOPLE.md)
 
