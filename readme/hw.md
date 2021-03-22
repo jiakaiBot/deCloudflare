@@ -114,7 +114,7 @@
 ## He aha kāu e hana ai?
 </summary>
 
-* [E heluhelu i kā mākou papa inoa o nā hana i manaʻo ʻia a kaʻana like ia me kāu mau hoaaloha.](../ACTION.md)
+* [E heluhelu i kā mākou papa inoa o nā hana i manaʻo ʻia a kaʻana like ia me kāu mau hoaaloha.](hw.action.md)
 
 * [E heluhelu i ka leo o ka mea hoʻohana ʻē aʻe a kākau i kou mau manaʻo.](../PEOPLE.md)
 
