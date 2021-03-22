@@ -114,7 +114,7 @@ Olu luhlu luluhlu lwewebhusayithi ezingasemva "kweyona Cloudwall", ezithintela a
 ## Ungenzani?
 </summary>
 
-* [Funda uluhlu lwethu lwezenzo ezinconyelwayo kwaye wabelane ngazo nabahlobo bakho.](../ACTION.md)
+* [Funda uluhlu lwethu lwezenzo ezinconyelwayo kwaye wabelane ngazo nabahlobo bakho.](xh.action.md)
 
 * [Funda izwi lomnye umsebenzisi kwaye ubhale iingcinga zakho.](../PEOPLE.md)
 
