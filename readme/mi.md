@@ -114,7 +114,7 @@ Ko tenei kohinga tetahi raarangi o nga paetukutuku kei muri i te "The Cloudwall 
 ## Ka aha koe?
 </summary>
 
-* [Panuihia ta maatau rarangi mahi kua tohutohutia ka tohua ki o hoa.](../ACTION.md)
+* [Panuihia ta maatau rarangi mahi kua tohutohutia ka tohua ki o hoa.](mi.action.md)
 
 * [Panuihia te reo o tetahi atu kaiwhakamahi ka tuhi i o whakaaro.](../PEOPLE.md)
 
