@@ -114,7 +114,7 @@ Kaydkan waa liisaska bogagga internetka ee ka dambeeya "The Cloud Cloud", oo xan
 ## Maxaad qaban kartaa?
 </summary>
 
-* [Aqri liiskayaga talaabada lagu taliyay lana wadaag asxaabtaada.](../ACTION.md)
+* [Aqri liiskayaga talaabada lagu taliyay lana wadaag asxaabtaada.](so.action.md)
 
 * [Akhri codka isticmaale kale oo qor fikradahaaga.](../PEOPLE.md)
 
