@@ -114,7 +114,7 @@ Biltegi hau "The Great Cloudwall" atzean dauden webguneen zerrenda da, Tor erabi
 ## Zer egin dezakezu?
 </summary>
 
-* [Irakurri gomendatutako ekintzen zerrenda eta partekatu zure lagunekin.](../ACTION.md)
+* [Irakurri gomendatutako ekintzen zerrenda eta partekatu zure lagunekin.](eu.action.md)
 
 * [Irakurri beste erabiltzailearen ahotsa eta idatzi zure pentsamenduak.](../PEOPLE.md)
 
