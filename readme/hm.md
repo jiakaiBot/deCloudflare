@@ -114,7 +114,7 @@ Qhov chaw cia no yog ib daim ntawv teev npe ntawm lub vev xaib uas nyob tom qab 
 ## Koj tuaj yeem ua dab tsi?
 </summary>
 
-* [Nyeem peb cov npe ntawm cov kev ua tau pom zoo thiab faib rau koj cov phooj ywg.](../ACTION.md)
+* [Nyeem peb cov npe ntawm cov kev ua tau pom zoo thiab faib rau koj cov phooj ywg.](hm.action.md)
 
 * [Nyeem lwm tus neeg siv lub suab thiab sau koj qhov kev xav.](../PEOPLE.md)
 
