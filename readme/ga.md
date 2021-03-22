@@ -114,7 +114,7 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de "The Gr
 ## Cad is féidir leat a dhéanamh?
 </summary>
 
-* [Léigh ár liosta de na gníomhartha a mholtar agus déan é a roinnt le do chairde.](../ACTION.md)
+* [Léigh ár liosta de na gníomhartha a mholtar agus déan é a roinnt le do chairde.](ga.action.md)
 
 * [Léigh guth úsáideora eile agus scríobh do chuid smaointe.](../PEOPLE.md)
 
