@@ -114,7 +114,7 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "The Great Cloudwall
 ## Sen näme edip bilýärsiñ?
 </summary>
 
-* [Maslahat berilýän hereketleriň sanawyny okaň we dostlaryňyz bilen paýlaşyň.](../ACTION.md)
+* [Maslahat berilýän hereketleriň sanawyny okaň we dostlaryňyz bilen paýlaşyň.](tk.action.md)
 
 * [Beýleki ulanyjynyň sesini okaň we pikirleriňizi ýazyň.](../PEOPLE.md)
 
