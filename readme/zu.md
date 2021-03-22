@@ -114,7 +114,7 @@ Lokhu kugcina uhlu lwamawebhusayithi angemuva kwe- "The Cloudwall" enkulu, evimb
 ## Yini ongayenza?
 </summary>
 
-* [Funda uhlu lwethu lwezenzo ezinconyiwe bese wabelana ngalo nabangani bakho.](../ACTION.md)
+* [Funda uhlu lwethu lwezenzo ezinconyiwe bese wabelana ngalo nabangani bakho.](zu.action.md)
 
 * [Funda izwi lomunye umsebenzisi bese ubhala imicabango yakho.](../PEOPLE.md)
 
