@@ -24,6 +24,9 @@ document.addEventListener('DOMContentLoaded', () => {
 				break;
 		}
 		let ul = g.mul || 'eo';
+		document.getElementById('apinfo0').href = 'https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=' + ul + '#!op=info/api';
+		document.getElementById('apinfo1').href = 'https://sercxi.eu.org/?ul=' + ul + '#!op=info/api';
+		document.getElementById('apinfo2').href = 'http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/api/is_at.php';
 		fetch('i18n/' + ul + '.json', {
 			method: 'GET'
 		}).then(j => j.json()).then(j => {
