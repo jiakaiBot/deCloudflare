@@ -114,7 +114,7 @@ Deze repository is een lijst met websites die achter "The Great Cloudwall" staan
 ## Wat kan je doen?
 </summary>
 
-* [Lees onze lijst met aanbevolen acties en deel deze met je vrienden.](../ACTION.md)
+* [Lees onze lijst met aanbevolen acties en deel deze met je vrienden.](nl.action.md)
 
 * [Lees de stem van een andere gebruiker en schrijf uw gedachten op.](../PEOPLE.md)
 
