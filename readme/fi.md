@@ -114,7 +114,7 @@ Tämä säilytystila on luettelo verkkosivustoista, jotka ovat "Suuren pilvasein
 ## Mitä voit tehdä?
 </summary>
 
-* [Lue suositeltujen toimien luettelo ja jaa se ystävillesi.](../ACTION.md)
+* [Lue suositeltujen toimien luettelo ja jaa se ystävillesi.](fi.action.md)
 
 * [Lue toisen käyttäjän ääni ja kirjoita ajatuksesi.](../PEOPLE.md)
 
