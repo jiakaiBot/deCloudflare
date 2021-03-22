@@ -1,7 +1,7 @@
-## How to help translate stop_cloudflare
+## How to help translate cloudflare-tor
 
 
-- "_(en|eo)(|.ethics).md_" are _base files_.
+- "_(en|eo)(|.ethics|.action).md_" are _base files_.
 - If you edit _base files_, do edit `translateData/TEMPLATE.*.(tab|txt)`.
 
 ---
@@ -10,10 +10,8 @@
 
 **Please** do not edit _zz_.md directly. It may be overwritten.
 
-(_zz_ is not "en" nor "eo")
 
-
-1. [Fork](https://git.fuwafuwa.moe/you/stop_cloudflare/forks) stop_cloudflare.
+1. [Fork](https://codeberg.org/crimeflare/cloudflare-tor/forks) cloudflare-tor.
 
 2. Copy `/readme/translateData/TEMPLATE.main.tab` to `/readme/translateData/override/zz.main.tab`.
   - cp /readme/translateData/TEMPLATE.main.tab /readme/translateData/override/_zz_.main.tab
