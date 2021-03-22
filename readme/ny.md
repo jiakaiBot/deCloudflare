@@ -114,7 +114,7 @@ Bokosi ili ndi mndandanda wa masamba omwe ali kumbuyo kwa "The Cloudwall", akuts
 ## Kodi mungatani?
 </summary>
 
-* [Werengani mndandanda wathu wa zomwe mwalimbikitsa kuti mugawane ndi anzanu.](../ACTION.md)
+* [Werengani mndandanda wathu wa zomwe mwalimbikitsa kuti mugawane ndi anzanu.](ny.action.md)
 
 * [Werengani mawu a ogwiritsa ntchito ena ndikulemba malingaliro anu.](../PEOPLE.md)
 
