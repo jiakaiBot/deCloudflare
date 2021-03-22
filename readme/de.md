@@ -114,7 +114,7 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
 ## Was kannst du tun?
 </summary>
 
-* [Lesen Sie unsere Liste der empfohlenen Aktionen und teilen Sie sie mit Ihren Freunden.](../ACTION.md)
+* [Lesen Sie unsere Liste der empfohlenen Aktionen und teilen Sie sie mit Ihren Freunden.](de.action.md)
 
 * [Lesen Sie die Stimme anderer Benutzer und schreiben Sie Ihre Gedanken.](../PEOPLE.md)
 
