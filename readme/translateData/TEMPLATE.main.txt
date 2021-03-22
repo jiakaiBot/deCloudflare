@@ -114,7 +114,7 @@
 ## {%maintitle4%}
 </summary>
 
-* [{%mainx4n0001%}](../ACTION.md)
+* [{%mainx4n0001%}](en.action.md)
 
 * [{%mainx4n0002%}](../PEOPLE.md)
 
