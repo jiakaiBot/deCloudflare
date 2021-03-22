@@ -114,7 +114,7 @@ Acest depozit este o listă de site-uri web care se află în spatele „Marelui
 ## Ce poti face?
 </summary>
 
-* [Citiți lista noastră de acțiuni recomandate și împărtășiți-o prietenilor.](../ACTION.md)
+* [Citiți lista noastră de acțiuni recomandate și împărtășiți-o prietenilor.](ro.action.md)
 
 * [Citiți vocea altui utilizator și scrieți-vă gândurile.](../PEOPLE.md)
 
