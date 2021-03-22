@@ -121,7 +121,7 @@ This repository is a list of websites that are behind "The Great Cloudwall", blo
 ## What can you do?
 </summary>
 
-* [Read our list of recommended actions and share it with your friends.](../ACTION.md)
+* [Read our list of recommended actions and share it with your friends.](en.action.md)
 
 * [Read other user's voice and write your thoughts.](../PEOPLE.md)
 
