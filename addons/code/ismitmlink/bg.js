@@ -1181,7 +1181,7 @@ browser.storage.local.get(['lastU', 'lastV', 'ldb', 'opd', 'cep']).then(g => {
 			apiurl = 'https://api.sercxi.eu.org/_/ismitm.php';
 			break;
 		case '2':
-			apiurl = 'http://avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/a/is_cf.php';
+			apiurl = 'http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/api/is_cf.php';
 			break;
 		default:
 			apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/ismitm.php';
@@ -1361,7 +1361,7 @@ browser.runtime.onMessage.addListener((requests, sender, sendResponse) => {
 					browser.storage.local.set({
 						'cep': '2'
 					});
-					apiurl = 'http://avrynpc2q7pknqa3ucf5tvjcwad5nxvxgwnzvl2b6dx6uo4f7nc7zzqd.onion/a/is_cf.php';
+					apiurl = 'http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/api/is_cf.php';
 					break;
 			}
 			return;
