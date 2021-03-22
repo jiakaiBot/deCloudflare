@@ -1,4 +1,4 @@
-# [How to help translate stop_cloudflare](translateData/instructions.md)
+# [How to help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
