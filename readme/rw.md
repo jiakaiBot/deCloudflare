@@ -114,7 +114,7 @@ Ububiko ni urutonde rwurubuga ruri inyuma ya "The Great Cloudwall", rukumira aba
 ## Wakora iki?
 </summary>
 
-* [Soma urutonde rwibikorwa byasabwe hanyuma ubisangire n'inshuti zawe.](../ACTION.md)
+* [Soma urutonde rwibikorwa byasabwe hanyuma ubisangire n'inshuti zawe.](rw.action.md)
 
 * [Soma ijwi ryabandi bakoresha hanyuma wandike ibitekerezo byawe.](../PEOPLE.md)
 
