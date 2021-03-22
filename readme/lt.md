@@ -114,7 +114,7 @@
 ## Ką tu gali padaryti?
 </summary>
 
-* [Perskaitykite mūsų rekomenduojamų veiksmų sąrašą ir pasidalykite juo su draugais.](../ACTION.md)
+* [Perskaitykite mūsų rekomenduojamų veiksmų sąrašą ir pasidalykite juo su draugais.](lt.action.md)
 
 * [Perskaitykite kito vartotojo balsą ir parašykite savo mintis.](../PEOPLE.md)
 
