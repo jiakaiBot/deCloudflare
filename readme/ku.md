@@ -114,7 +114,7 @@ Vê repoya navnîşek malperên ku li paş "The Cloudwall mezin" in, rawestandin
 ## Tu dikarî çi bikî?
 </summary>
 
-* [Navnîşa me ya kiryarên pêşniyaz bixwînin û wê bi hevalên xwe re parve bikin.](../ACTION.md)
+* [Navnîşa me ya kiryarên pêşniyaz bixwînin û wê bi hevalên xwe re parve bikin.](ku.action.md)
 
 * [Dengê bikarhênerê din bixwînin û ramanên xwe binivîsin.](../PEOPLE.md)
 
