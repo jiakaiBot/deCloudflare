@@ -443,6 +443,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Error 1001 DNS resolution error Cloudflare network ([ladyred_6](https://twitter.com/LadyRed_6/status/1374421554629472256))
 - Cloudflare 522 error initially , looks like it’s loading now. ([whereisjefe](https://twitter.com/whereisjefe/status/1374386486917828611))
 - If I send ' or sleep(20)=' as my payload and it takes the server 20 seconds to return a 403 error from Cloudflare, does that mean there might be an issue or is that just Cloudflare screwing with me? ([geeknik](https://twitter.com/geeknik/status/1374046837552910342))
 - Hello, do you why I would be getting a captcha page from when I try to login to my account? I've not signed up for their service. ([sarahstiffin](https://twitter.com/SarahStiffin/status/1373989869148635140))
