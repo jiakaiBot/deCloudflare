@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 យើងសូមណែនាំឱ្យអ្នកឈោងទៅរកអ្នកគ្រប់គ្រងសម្រាប់សេវាកម្មឬគេហទំព័រជាក់លាក់ដែលអ្នកដំណើរការជាមួយនិងចែករំលែកបទពិសោធន៍របស់អ្នក។
 ```
 
-[ប្រសិនបើអ្នកមិនស្នើសុំវាម្ចាស់គេហទំព័រមិនដែលដឹងពីបញ្ហានេះទេ។](PEOPLE.md)
+[ប្រសិនបើអ្នកមិនស្នើសុំវាម្ចាស់គេហទំព័រមិនដែលដឹងពីបញ្ហានេះទេ។](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [ឧទាហរណ៍ជោគជ័យ](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 តើអ្នកមានបញ្ហាទេ? [លើកសំលេងរបស់អ្នកឥឡូវនេះ។](https://github.com/maraoz/maraoz.github.io/issues/1) ឧទាហរណ៍ខាងក្រោម។
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 នេះគឺជាឧទាហរណ៍នៃគោលការណ៍ឯកជនដែលមិនមានពាក្យ Cloudflare ។
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare មានគោលការណ៍ឯកជនផ្ទាល់ខ្លួន។
 [Cloudflare ចូលចិត្តមនុស្ស doxxing ។](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ AFAIK, គេហទំព័រសូន្យធ្វើដូចនេះ។ 
 
 [ ចុះ​ឈ្មោះ ] [ ខ្ញុំ​មិន​យល់ស្រប ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - ព្យាយាមមិនប្រើសេវាកម្មរបស់ពួកគេ។ ចងចាំថាអ្នកកំពុងត្រូវបានឃ្លាំមើលដោយ Cloudflare ។
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - ស្វែងរកគេហទំព័រផ្សេងទៀត។ មានជម្មើសជំនួសនិងឱកាសនៅលើអ៊ីនធឺណិត!
 
 - បញ្ចុះបញ្ចូលមិត្តរបស់អ្នកឱ្យប្រើ Tor ជារៀងរាល់ថ្ងៃ។
   - ភាពអនាមិកគួរតែជាស្តង់ដារនៃអ៊ិនធឺរណែតបើកចំហ!
-  - [សូមកត់សម្គាល់ថាគម្រោង Tor មិនចូលចិត្តគម្រោងនេះ។](HISTORY.md)
+  - [សូមកត់សម្គាល់ថាគម្រោង Tor មិនចូលចិត្តគម្រោងនេះ។](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ AFAIK, គេហទំព័រសូន្យធ្វើដូចនេះ។ 
 
 | ឈ្មោះ | អ្នកអភិវឌ្ឍន៍ | គាំទ្រ | អាចរារាំង | អាចជូនដំណឹងបាន | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | ទេ     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | ទេ     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  ទេ |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | ទេ     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | ទេ     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  ទេ |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  ទេ |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ទេ     | **ត្រូវហើយ**     |  ទេ |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | ទេ     | **ត្រូវហើយ**     |  ទេ |
@@ -139,38 +139,38 @@ AFAIK, គេហទំព័រសូន្យធ្វើដូចនេះ។ 
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - កុំប្រើដំណោះស្រាយ Cloudflare រយៈពេល។
   - អ្នកអាចធ្វើបានល្អជាងនេះមែនទេ? [នេះជាវិធីដើម្បីដកការជាវគំរោង Cloud ដូចឬគណនី Cloudflare ។](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - ចង់បានអតិថិជនច្រើនទេ? អ្នកដឹង​ថា​អ្វី​ដែល​ត្រូវធ្វើ។ ព័ត៌មានជំនួយគឺ "ខ្សែខាងលើ" ។
   - [សួស្តីអ្នកបានសរសេរថា "យើងយកចិត្តទុកដាក់ចំពោះភាពឯកជនរបស់អ្នក" ប៉ុន្តែខ្ញុំបានទទួល "កំហុស 403 ការហាមឃាត់អនាមិកអនាមិកហាមឃាត់មិនត្រូវបានអនុញ្ញាត" ។](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ហេតុអ្វីបានជាអ្នកកំពុងរារាំង Tor ឬ VPN? [ហើយហេតុអ្វីបានជាអ្នករារាំងអ៊ីម៉ែលបណ្តោះអាសន្ន?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - ការប្រើប្រាស់ Cloudflare នឹងបង្កើនឱកាសនៃការដាច់ភ្លើង។ អ្នកទស្សនាមិនអាចចូលប្រើគេហទំព័ររបស់អ្នកបានទេប្រសិនបើម៉ាស៊ីនមេរបស់អ្នកធ្លាក់ចុះឬ Cloudflare ធ្លាក់ចុះ។
-  - [តើអ្នកពិតជាគិតថា Cloudflare មិនដែលធ្លាក់ចុះទេឬ?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [តើអ្នកពិតជាគិតថា Cloudflare មិនដែលធ្លាក់ចុះទេឬ?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - ការប្រើប្រាស់ Cloudflare ដើម្បីប្រូកស៊ី "សេវាកម្ម API" របស់អ្នក "ម៉ាស៊ីនមេធ្វើឱ្យទាន់សម័យកម្មវិធី" ឬ "មតិព័ត៌មាន RSS" នឹងបង្កអន្តរាយដល់អតិថិជនរបស់អ្នក។ អតិថិជនម្នាក់បានទូរស័ព្ទមកអ្នកហើយនិយាយថា "ខ្ញុំមិនអាចប្រើ API របស់អ្នកតទៅទៀតបានទេ" ហើយអ្នកមិនដឹងថាមានអ្វីកើតឡើងទេ។ Cloudflare អាចរារាំងអតិថិជនរបស់អ្នកដោយស្ងៀមស្ងាត់។ តើអ្នកគិតថាមិនអីទេ?
   - មានអតិថិជនអានអេសអេសនិងសេវាកម្មអានអេឡិចត្រូនិចតាមអ៊ិនធឺរណែតជាច្រើន។ ហេតុអ្វីបានជាអ្នកបោះពុម្ភផ្សាយព័ត៌មាន RSS ប្រសិនបើអ្នកមិនអោយមនុស្សជាវ?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - តើអ្នកត្រូវការវិញ្ញាបនបត្រ HTTPS ទេ? ប្រើ "តោះអ៊ិនគ្រីប" ឬគ្រាន់តែទិញវាពីក្រុមហ៊ុន CA ។
 
 - តើអ្នកត្រូវការម៉ាស៊ីនមេ DNS ដែរឬទេ? មិនអាចតំឡើងម៉ាស៊ីនមេផ្ទាល់ខ្លួនរបស់អ្នកទេ? តើធ្វើដូចម្តេចអំពីពួកគេ: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (រដ្ឋបាលលុបគណនីរបស់អ្នកប្រសិនបើអ្នកប្រើ TOR)](https://freedns.afraid.org/)
 
 - កំពុងរកមើលសេវាកម្មបង្ហោះ? ឥតគិតថ្លៃតែប៉ុណ្ណោះ? តើធ្វើដូចម្តេចអំពីពួកគេ: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [ជម្មើសជំនួសទៅ Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [ជម្មើសជំនួសទៅ Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- តើអ្នកកំពុងប្រើ "cloudflare-ipfs.com" ទេ? [តើអ្នកដឹងថា Cloudflare IPFS មិនល្អទេ?](PEOPLE.md)
+- តើអ្នកកំពុងប្រើ "cloudflare-ipfs.com" ទេ? [តើអ្នកដឹងថា Cloudflare IPFS មិនល្អទេ?](../PEOPLE.md)
 
 - តម្លើងជញ្ជាំងភ្លើងតាមអ៊ិនធឺរណែតដូចជា OWASP និង Fail2Ban លើម៉ាស៊ីនមេរបស់អ្នកហើយតំឡើងវាអោយបានត្រឹមត្រូវ។
   - ការទប់ស្កាត់ Tor មិនមែនជាដំណោះស្រាយទេ។ កុំដាក់ទោសមនុស្សគ្រប់គ្នាចំពោះអ្នកប្រើប្រាស់អាក្រក់តូចតាច។
@@ -297,7 +297,7 @@ die();
 
 - មិនចង់ប្រើ Tor មែនទេ? អ្នកអាចប្រើកម្មវិធីរុករកណាមួយជាមួយដេមិន Tor ។
   - [ចំណាំថាគម្រោងតោមិនចូលចិត្តវាទេ។](https://support.torproject.org/tbb/tbb-9/) ប្រើ Tor Browser ប្រសិនបើអ្នកអាចធ្វើបាន។
-- [វិធីប្រើក្រូមីញ៉ូមជាមួយតោ](subfiles/chromium_tor.md)
+- [វិធីប្រើក្រូមីញ៉ូមជាមួយតោ](../subfiles/chromium_tor.md)
 
 
 ចូរនិយាយអំពីភាពឯកជនរបស់កម្មវិធីផ្សេងទៀត។
@@ -377,12 +377,12 @@ die();
 - ~~រាយការណ៍អំពីកំហុសនៅលើកម្មវិធីតាមដានរបស់ mozilla ដោយប្រាប់ពួកគេមិនឱ្យប្រើ Cloudflare ។~~ មានរបាយការណ៍កំហុសនៅលើ bugzilla ។ មនុស្សជាច្រើនត្រូវបានគេបង្ហោះការព្រួយបារម្ភរបស់ពួកគេទោះជាយ៉ាងណាក៏ដោយកំហុសត្រូវបានលាក់ដោយអ្នកគ្រប់គ្រងនៅឆ្នាំ 2018 ។
 
 - អ្នកអាចបិទ DoH នៅក្នុង Firefox ។
-  - [ផ្លាស់ប្តូរអ្នកផ្តល់ firefox ឈ្មោះ DNS លំនាំដើម](subfiles/change-firefox-dns.md)
+  - [ផ្លាស់ប្តូរអ្នកផ្តល់ firefox ឈ្មោះ DNS លំនាំដើម](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [ប្រសិនបើអ្នកចង់ប្រើ DNS ដែលមិនមែនជា ISP សូមពិចារណាប្រើសេវាកម្ម DNS OpenNIC Tier2 DNS ឬសេវាកម្ម DNS ដែលមិនមែនជា Cloudflare ។](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - រារាំង Cloudflare ជាមួយ DNS ។ [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - អ្នកអាចប្រើ Tor ជាអ្នកដោះស្រាយ DNS ។ [ប្រសិនបើអ្នកមិនមែនជាអ្នកជំនាញ Tor សូមសួរសំណួរនៅទីនេះ។](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - នៅពេលដែលសមស្របសូមភ្ជាប់ទៅក្រុមទាំងនេះនៅលើឃ្លាំងនេះ - នេះអាចជាកន្លែងសម្រាប់សម្របសម្រួលធ្វើការជាមួយគ្នាជាក្រុម។
 
-- [ចាប់ផ្តើមសហប្រតិបត្ដិការដែលអាចផ្តល់នូវជម្រើសមិនមែនក្រុមហ៊ុនដែលមានអត្ថន័យចំពោះ Cloudflare ។](subfiles/cloudflare-alternatives.md)
+- [ចាប់ផ្តើមសហប្រតិបត្ដិការដែលអាចផ្តល់នូវជម្រើសមិនមែនក្រុមហ៊ុនដែលមានអត្ថន័យចំពោះ Cloudflare ។](../subfiles/cloudflare-alternatives.md)
 
 - សូមឱ្យយើងដឹងអំពីជម្រើសណាមួយដើម្បីជួយយ៉ាងហោចណាស់ផ្តល់នូវការការពារស្រទាប់ជាច្រើនប្រឆាំងនឹងហ្វាលហ្វារ។
 
@@ -464,4 +464,4 @@ die();
 ### ឥឡូវនេះតើអ្នកបានធ្វើអ្វីនៅថ្ងៃនេះ?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
