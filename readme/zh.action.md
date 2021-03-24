@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 我们建议您与遇到问题的特定服务或站点的管理员联系，并分享您的经验。
 ```
 
-[如果您不要求它，则网站所有者永远不会知道此问题。](PEOPLE.md)
+[如果您不要求它，则网站所有者永远不会知道此问题。](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [成功的例子](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 你有个问题？ [立即提高声音。](https://github.com/maraoz/maraoz.github.io/issues/1) 下面的例子。
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 这是隐私策略的示例，其中没有单词Cloudflare。
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare拥有自己的隐私权政策。
 [Cloudflare喜欢让别人爱不释手。](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ AFAIK，零网站做到这一点。你会相信他们吗？
 
 [ 注册 ] [ 我不同意 ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - 尽量不要使用他们的服务。 请记住，Cloudflare正在监视您。
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - 搜索其他网站。 互联网上有其他选择和机会！
 
 - 说服您的朋友每天使用Tor。
   - 匿名应该成为开放互联网的标准！
-  - [请注意，Tor项目不喜欢该项目。](HISTORY.md)
+  - [请注意，Tor项目不喜欢该项目。](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ AFAIK，零网站做到这一点。你会相信他们吗？
 
 | 姓名 | 开发者 | 支持 | 可以挡 | 可以通知 | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **是的**     | **是的**     |  **是的** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | 不     | **是的**     |  **是的** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | 不     | **是的**     |  **是的** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **是的**     | **是的**     |  不 |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **是的**     | **是的**     |  **是的** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | 不     | **是的**     |  **是的** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | 不     | **是的**     |  **是的** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **是的**     | **是的**     |  不 |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **是的**     | **是的**     |  不 |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | 不     | **是的**     |  不 |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | 不     | **是的**     |  不 |
@@ -139,38 +139,38 @@ AFAIK，零网站做到这一点。你会相信他们吗？
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - 请勿使用Cloudflare解决方案，期间。
   - 您可以做得更好，对吧？ [以下是删除Cloudflare订阅，计划，域或帐户的方法。](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - 想要更多的顾客吗？ 你知道该做什么。 提示是“在行上方”。
   - [您好，您写了“我们认真对待您的隐私”，但收到“错误403禁止的匿名代理不允许”。](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) 为什么要阻止Tor或VPN？ [为什么要阻止临时电子邮件？](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - 使用Cloudflare将增加停机的机会。 如果您的服务器已关闭或Cloudflare已关闭，访问者将无法访问您的网站。
-  - [您真的认为Cloudflare永远不会失败吗？](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [您真的认为Cloudflare永远不会失败吗？](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - 使用Cloudflare代理您的“ API服务”，“软件更新服务器”或“ RSS feed”将损害您的客户。 一位客户打电话给您，并说“我无法再使用您的API”，您也不知道发生了什么。 Cloudflare可以默默地阻止您的客户。 你觉得还好吗
   - 有许多RSS阅读器客户端和RSS阅读器在线服务。 如果您不允许其他人订阅，为什么要发布RSS feed？
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - 您需要HTTPS证书吗？ 使用“让我们加密”或直接从CA公司购买。
 
 - 您需要DNS服务器吗？ 无法设置自己的服务器？ 他们呢: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (如果您使用TOR，则管理员删除您的帐户)](https://freedns.afraid.org/)
 
 - 寻找托管服务？ 仅免费？ 他们呢: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare的替代品](subfiles/cloudflare-alternatives.md)
+  - [Cloudflare的替代品](../subfiles/cloudflare-alternatives.md)
 
-- 您是否正在使用“ cloudflare-ipfs.com”？ [您知道Cloudflare IPFS不好吗？](PEOPLE.md)
+- 您是否正在使用“ cloudflare-ipfs.com”？ [您知道Cloudflare IPFS不好吗？](../PEOPLE.md)
 
 - 在服务器上安装Web应用程序防火墙（例如OWASP和Fail2Ban），并进行正确配置。
   - 阻止Tor不是解决方案。不要仅仅为小的不良用户而惩罚所有人。
@@ -297,7 +297,7 @@ die();
 
 - 不想使用Tor？ 您可以将任何浏览器与Tor守护程序一起使用。
   - [请注意，Tor项目不喜欢这样。](https://support.torproject.org/tbb/tbb-9/) 如果可以，请使用Tor浏览器。
-- [如何在Tor中使用Chromium](subfiles/chromium_tor.md)
+- [如何在Tor中使用Chromium](../subfiles/chromium_tor.md)
 
 
 让我们谈谈其他软件的隐私。
@@ -377,12 +377,12 @@ die();
 - ~~报告有关mozilla跟踪器的错误，告诉他们不要使用Cloudflare。~~ 有关于bugzilla的错误报告。许多人都发布了他们的担忧，但是该错误于2018年被管理员隐藏了。
 
 - 您可以在Firefox中禁用DoH。
-  - [更改Firefox的默认DNS提供商](subfiles/change-firefox-dns.md)
+  - [更改Firefox的默认DNS提供商](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [如果要使用非ISP DNS，请考虑使用OpenNIC Tier2 DNS服务或任何非Cloudflare DNS服务。](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - 使用DNS阻止Cloudflare。 [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - 您可以将Tor用作DNS解析器。 [如果您不是Tor专家，请在此处提问。](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - 在适当的情况下，链接到此存储库上的这些组-这可以作为协调协同工作的场所。
 
-- [启动一个合作社，可以为Cloudflare提供有意义的非公司替代方案。](subfiles/cloudflare-alternatives.md)
+- [启动一个合作社，可以为Cloudflare提供有意义的非公司替代方案。](../subfiles/cloudflare-alternatives.md)
 
 - 让我们知道任何替代方法，至少可以帮助您提供针对Cloudflare的多层防御。
 
@@ -464,4 +464,4 @@ die();
 ### 现在，你今天做了什么？
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
