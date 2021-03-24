@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Doporučujeme vám kontaktovat administrátory konkrétních služeb nebo webů, se kterými narazíte, a sdílet své zkušenosti.
 ```
 
-[Pokud o to nepožádáte, vlastník webu tento problém nikdy nezná.](PEOPLE.md)
+[Pokud o to nepožádáte, vlastník webu tento problém nikdy nezná.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Úspěšný příklad](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Máš problém? [Zvyšte hlas hned.](https://github.com/maraoz/maraoz.github.io/issues/1) Příklad níže.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Toto je příklad zásad ochrany osobních údajů, které nemají slovo Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare mají své vlastní zásady ochrany osobních údajů.
 [Cloudflare miluje doxxing lidí.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Pokud Cloudflare odhalí vaše informace nebo vám nedovolí připojit se k naš
 
 [ Přihlásit se ] [ nesouhlasím ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Snažte se nepoužívat jejich služby. Pamatujte, že vás sleduje Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Vyhledejte další web. Na internetu existují alternativy a příležitosti!
 
 - Přesvědčte své přátele, aby používali Tor denně.
   - Anonymita by měla být standardem otevřeného internetu!
-  - [Všimněte si, že projekt Tor se mu tento projekt nelíbí.](HISTORY.md)
+  - [Všimněte si, že projekt Tor se mu tento projekt nelíbí.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Pokud Cloudflare odhalí vaše informace nebo vám nedovolí připojit se k naš
 
 | název | Vývojář | Podpěra, podpora | Může blokovat | Může upozornit | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ano**     | **Ano**     |  **Ano** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ne     | **Ano**     |  **Ano** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ne     | **Ano**     |  **Ano** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ano**     | **Ano**     |  Ne |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ano**     | **Ano**     |  **Ano** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ne     | **Ano**     |  **Ano** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ne     | **Ano**     |  **Ano** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ano**     | **Ano**     |  Ne |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ano**     | **Ano**     |  Ne |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ne     | **Ano**     |  Ne |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ne     | **Ano**     |  Ne |
@@ -139,38 +139,38 @@ Pokud Cloudflare odhalí vaše informace nebo vám nedovolí připojit se k naš
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Nepoužívejte řešení Cloudflare, období.
   - Dokážete to lépe, že? [Zde je postup, jak odebrat předplatná Cloudflare, plány, domény nebo účty.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Chcete více zákazníků? Víš co dělat. Nápověda je „nad řádkem“.
   - [Dobrý den, napsali jste „Bereme vaše soukromí vážně“, ale zobrazilo se mi „Chyba 403 Zakázáno anonymní proxy není povoleno“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Proč blokujete Tor nebo VPN? [A proč blokujete dočasné e-maily?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Použití Cloudflare zvýší šance na výpadek. Návštěvníci nemají přístup na váš web, pokud je váš server nefunkční nebo Cloudflare nefunguje.
-  - [Opravdu jste si mysleli, že Cloudflare nikdy neklesne?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Opravdu jste si mysleli, že Cloudflare nikdy neklesne?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Používání služby Cloudflare k proxy služby „API“, „server aktualizace softwaru“ nebo „RSS feed“ poškodí vašeho zákazníka. Zavolal vám zákazník a řekl: „Už nemůžu používat vaše API“ a vy vůbec netušíte, o co jde. Cloudflare může tiše blokovat vašeho zákazníka. Myslíte si, že je to v pořádku?
   - Existuje mnoho služeb čtečky RSS a online čtečky RSS. Proč publikujete RSS kanál, pokud lidem nedovolíte přihlásit se k odběru?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Potřebujete certifikát HTTPS? Použijte možnost „Pojďme zašifrovat“ nebo ji jednoduše zakoupte od společnosti CA.
 
 - Potřebujete server DNS? Nemůžete nastavit svůj vlastní server? A co ty: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Správce smaže váš účet, pokud používáte TOR)](https://freedns.afraid.org/)
 
 - Hledáte hostingové služby? Pouze zdarma? A co ty: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternativy k Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Alternativy k Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Používáte web „cloudflare-ipfs.com“? [Víte, že Cloudflare IPFS je špatný?](PEOPLE.md)
+- Používáte web „cloudflare-ipfs.com“? [Víte, že Cloudflare IPFS je špatný?](../PEOPLE.md)
 
 - Nainstalujte na svůj server bránu firewall webových aplikací, jako je OWASP a Fail2Ban, a nakonfigurujte ji správně.
   - Blokování Tor není řešením. Netrestejte každého jen za malé špatné uživatele.
@@ -297,7 +297,7 @@ Na internetu a technologiích není 100% bezpečný ani 100% soukromý.
 
 - Nechcete používat Tor? S démonem Tor můžete použít libovolný prohlížeč.
   - [Všimněte si, že projekt Tor se to nelíbí.](https://support.torproject.org/tbb/tbb-9/) Pokud to můžete udělat, použijte Tor Browser.
-- [Jak používat Chromium s Tor](subfiles/chromium_tor.md)
+- [Jak používat Chromium s Tor](../subfiles/chromium_tor.md)
 
 
 Pojďme si promluvit o soukromí jiného softwaru.
@@ -377,12 +377,12 @@ Proto doporučujeme pouze výše uvedenou tabulku. Nic jiného.
 - ~~Nahlaste chybu na trackeru mozilly a řekněte jim, aby nepoužívali Cloudflare.~~ Na bugzille byla hlášena chyba. Mnoho lidí zveřejnilo své znepokojení, ale chyba byla v roce 2018 skryta správcem.
 
 - DoH můžete ve Firefoxu deaktivovat.
-  - [Změňte výchozího poskytovatele DNS pro Firefox](subfiles/change-firefox-dns.md)
+  - [Změňte výchozího poskytovatele DNS pro Firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Pokud byste chtěli používat DNS od jiného poskytovatele než ISP, zvažte použití služby DNS OpenNIC Tier2 nebo kterékoli ze služeb DNS jiných než Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Blokovat Cloudflare pomocí DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Tor můžete použít jako překladač DNS. [Pokud nejste odborníkem na Tor, zeptejte se zde.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Proto doporučujeme pouze výše uvedenou tabulku. Nic jiného.
 
 - Pokud je to vhodné, propojte tyto skupiny v tomto úložišti - toto může být místo pro koordinaci spolupráce ve skupinách.
 
-- [Založte družstvo, které může poskytnout smysluplnou nefiremní alternativu k Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Založte družstvo, které může poskytnout smysluplnou nefiremní alternativu k Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Dejte nám vědět o jakýchkoli alternativách, které vám pomohou alespoň poskytnout vícevrstvou obranu proti Cloudflare.
 
@@ -464,4 +464,4 @@ Na tom není nic futuristického. Už jsme prohráli.
 ### Co jste dnes udělali?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
