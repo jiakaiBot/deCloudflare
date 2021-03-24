@@ -1,1 +1,188 @@
-!
+actnttl0000	What you can do to resist Cloudflare?
+actnttl0001	Website consumer
+actnttl0002	Add-ons
+actnttl0003	Website owner / Web developer
+actnttl0004	Software user
+actnttl0005	Mozilla Firefox user
+actnttl0006	Action
+actnttl0007	Comments
+actnttl0008	Now, what did you do today?
+clickme	click me
+tftfyes	Yes
+tftfno	No
+actnl0000	If the website you like is using Cloudflare, tell them not to use Cloudflare.
+actnl0001	Whining on social media such as Facebook, Reddit, Twitter or Mastodon makes no difference.
+actnl0002	Actions are louder than hashtags.
+actnl0003	Try to contact to the website owner if you want to make yourself useful.
+actnl0004	Cloudflare said
+actnl0005	We recommend that you reach out to the administrators for the specific services or sites that you run into issue with and share your experience.
+actnl0006	If you don't ask for it, website owner never know this problem.
+actnl0007	Successful example
+actnl0008	You have a problem?
+actnl0009	Raise your voice now.
+actnl0010	Example below.
+actnl0011	You are just helping corporate censorship and mass surveillance.
+actnl0012	Your web page is in the privacy-abusing private walled-garden of CloudFlare.
+actnl0013	Take some time to read website's privacy policy.
+actnl0014	if the website is behind Cloudflare or website is using services connected to Cloudflare.
+actnl0015	It must explain what the "Cloudflare" is, and ask for permission to share your data with Cloudflare.
+actnl0016	Failure to do so will result in the breach of trust and the website in question should be avoided.
+actnl0017	An acceptable privacy policy example is here
+actnl0018	I've read your privacy policy and I cannot find the word Cloudflare.
+actnl0019	I refuse to share data with you if you continue to feed my data to Cloudflare.
+actnl0020	This is an example of privacy policy which does not have the word Cloudflare.
+actnl0021	Cloudflare have their own privacy policy.
+actnl0022	Cloudflare loves doxxing people.
+actnl0023	Here's a good example for website's signup form.
+actnl0024	AFAIK, zero website do this. Will you trust them?
+actnl0025	By clicking “Sign up for XYZ”, you agree to our terms of service and privacy statement.
+actnl0026	You also agree to share your data with Cloudflare and also agrees to cloudflare's privacy statement.
+actnl0027	If Cloudflare leak your information or won't let you to connect to our servers, it's not our fault.
+actnl0028	Sign up
+actnl0029	I disagree
+actnl0030	Try not to use their service.
+actnl0031	Remember you are being watched by Cloudflare.
+actnl0032	Search for other website.
+actnl0033	There are alternatives and opportunites on the internet!
+actnl0034	Convince your friends to use Tor on the daily basis.
+actnl0035	Anonymity should be the standard of the open internet!
+actnl0036	Do note that the Tor project dislikes this project.
+actnl0037	If your browser is Firefox, Tor Browser, or Ungoogled Chromium use one of these add-ons below.
+actnl0038	If you want to add other new add-on ask about it first.
+actnl0039	"Decentraleyes" can stop connection to "CDNJS (Cloudflare)".
+actnl0040	It prevents a lot of requests from reaching networks, and serves local files to keep sites from breaking.
+actnl0041	The developer replied
+actnl0042	You can also remove or distrust Cloudflare certificate from your Certificate Authority(CA).
+actnl0044	Do not use Cloudflare solution, Period.
+actnl0045	You can do better than that, right?
+actnl0046	Here's how to remove Cloudflare subscriptions, plans, domains, or accounts.
+actnl0043	Want more customers?
+actnl0047	You know what to do.
+actnl0048	Hint is "above line".
+actnl0049	Using Cloudflare will increase chances of an outage.
+actnl0050	Visitors can't access to your website if your server is down or Cloudflare is down.
+actnl0051	Did you really think Cloudflare never go down?
+actnl0052	Using Cloudflare to proxy your "API service", "software update server" or "RSS feed" will harm your customer.
+actnl0053	A customer called you and said "I can't use your API anymore", and you have no idea what is going on.
+actnl0054	Cloudflare can silently block your customer.
+actnl0055	Do you think it is okay?
+actnl0056	There are many RSS reader client and RSS reader online service.
+actnl0057	Why are you publishing RSS feed if you're not allowing people to subscribe?
+actnl0058	Do you need HTTPS certificate?
+actnl0059	Use "Let's Encrypt" or just buy it from CA company.
+actnl0060	Do you need DNS server?
+actnl0061	Can't set up your own server?
+actnl0062	How about them
+actnl0063	Admin delete your account if you use TOR
+actnl0064	Looking for hosting service?
+actnl0065	Free only?
+actnl0066	Alternatives to Cloudflare
+actnl0067	Are you using "cloudflare-ipfs.com"?
+actnl0068	Do you know Cloudflare IPFS is bad?
+actnl0069	Install Web Application Firewall such as OWASP and Fail2Ban on your server and configure it properly.
+actnl0070	Blocking Tor is not a solution. Don't punish everyone just for small bad users.
+actnl0071	Redirect or block "Cloudflare Warp" users from accessing your website.
+actnl0072	And provide a reason if you can.
+actnl0073	IP list
+actnl0074	Cloudflare’s current IP ranges
+actnl0075	Just block them
+actnl0076	Redirect to warning page
+actnl0077	Set up Tor Onion Service or I2P insite if you believe in freedom and welcome anonymous users.
+actnl0078	Ask for advice from other Clearnet/Tor dual website operators and make anonymous friends!
+actnl0079	Discord is using CloudFlare.
+actnl0080	Alternatives?
+actnl0081	We recommend
+actnl0082	Briar includes Tor daemon so you don't have to install Orbot.
+actnl0083	Qwtch developers, Open Privacy, deleted stop_cloudflare project from their git service without notice.
+actnl0084	If you use Debian GNU/Linux, or any derivative, subscribe
+actnl0085	And if you can, help verify the patch, and help the maintainer come to the right conclusion on whether it should be accepted.
+actnl0086	Always recommend these browsers.
+actnl0087	Other software's privacy is imperfect.
+actnl0088	This doesn't mean Tor browser is "perfect".
+actnl0089	There is no 100% secure nor 100% private on the internet and technology.
+actnl0090	Don't want to use Tor?
+actnl0091	You can use any browser with Tor daemon.
+actnl0092	Note that the Tor project don't like this.
+actnl0093	Use Tor Browser if you are able to do so.
+actnl0094	How to use Chromium with Tor
+actnl0095	Name
+actnl0096	Developer
+actnl0097	Support
+actnl0098	Can Block
+actnl0099	Can Notify
+actnl0100	Hello, you wrote "We take your privacy seriously" but I got "Error 403 Forbidden Anonymous Proxy Not Allowed".
+actnl0101	Why are you blocking Tor Or VPN?
+actnl0102	And why are you blocking temporary emails?
+actnl0103	Comment
+actnl0104	Let's talk about other software's privacy.
+actnl0105	If you really need to use Firefox, pick "Firefox ESR".
+actnl0106	Firefox - Spyware Watchdog
+actnl0107	Firefox rejects free speech, bans free speech
+actnl0108	100+ downvotes. It seems like asking a software company to stick to... software is just too much these days.
+actnl0109	Uh, why is Firefox showing me sponsored links in my URL bar?
+actnl0110	Remember, Mozilla is using Cloudflare service.
+actnl0111	They're also using Cloudflare's DNS service on their product.
+actnl0112	Mozilla officially rejected this ticket.
+actnl0113	Mozilla - Devil Incarnate
+actnl0114	Firefox Focus is a joke.
+actnl0115	They promised to turn off telemetry but they changed it.
+actnl0116	PaleMoon/Basilisk developer loves Cloudflare.
+actnl0117	Pale Moon's Archive Server hacked and spread malware for 18 Months
+actnl0118	He also hate Tor users
+actnl0119	Let it be hostile towards Tor. I think most sites should be hostile towards Tor considering its extremely high abuse factor.
+actnl0120	Waterfox have severe "phones home" problem
+actnl0121	Google Chrome is a spyware.
+actnl0122	Google profiles your activity.
+actnl0123	SRWare Iron make too many phones home connection.
+actnl0124	It also connect to google domains.
+actnl0125	Brave Browser whitelist Facebook/Twitter trackers.
+actnl0126	Here's more issues.
+actnl0127	binance affiliate ID
+actnl0128	Microsoft Edge lets Facebook run Flash code behind users' backs.
+actnl0129	Vivaldi does not respect your privacy.
+actnl0130	Opera spyware level: Extremely High
+actnl0131	You shouldn't be using iOS at all, mainly because it is malware.
+actnl0132	Therefore we recommend above table only. Nothing else.
+actnl0133	"Firefox Nightly" will send debug-level information to Mozilla servers without opt-out method.
+actnl0134	Mozilla servers are behing Cloudflare
+actnl0135	It is possible to prohibit Firefox to connect to Mozilla servers.
+actnl0136	Mozilla's policy-templates guide
+actnl0137	Keep in mind this trick might stop working in later version because Mozilla likes to whitelist themselves.
+actnl0138	Use firewall and DNS filter to block them completely.
+actnl0139	Report a bug on mozilla's tracker, telling them not to use Cloudflare.
+actnl0140	There was a bug report on bugzilla. Many people were posted their concern, however the bug was hidden by the admin in 2018.
+actnl0141	You can disable DoH in Firefox.
+actnl0142	Change default DNS provider of firefox
+actnl0143	If you would like to use non-ISP DNS, consider using OpenNIC Tier2 DNS service  or any of non-Cloudflare DNS services.
+actnl0144	Block Cloudflare with DNS.
+actnl0145	You can use Tor as DNS resolver.
+actnl0146	If you're not Tor expert, ask question here.
+actnl0147	How?
+actnl0148	Download Tor and install it on your computer.
+actnl0149	Add this line to "torrc" file.
+actnl0150	Restart Tor.
+actnl0151	Set your computer's DNS server to "127.0.0.1".
+actnl0152	Tell others around you about the dangers of Cloudflare.
+actnl0153	Help improve this repository.
+actnl0154	Both the lists, the arguments against it and the details.
+actnl0155	Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention this repository when you do so
+actnl0156	Get more people using Tor by default so they can experience the web from the perspective of different parts of the world.
+actnl0157	Start groups, in social media and meatspace, dedicated to liberating the world from Cloudflare.
+actnl0158	Where appropriate, link to these groups on this repository - this can be a place for coordinating working together as groups.
+actnl0159	Start a coop that can provide a meaningful non corporate alternative to Cloudflare.
+actnl0160	Let us know of any alternatives to help at least provide multiple layered defence against Cloudflare.
+actnl0161	If you are a Cloudflare customer, set your privacy settings, and wait for them to violate them.
+actnl0162	Then bring them under anti-spam / privacy violation charges.
+actnl0163	If you are in the United States of America and the website in question is a bank or an accountant, try to bring legal pressure under the Gramm–Leach–Bliley Act, or the Americans with DIsabilities Act and report back to us how far you get.
+actnl0164	If the website is a government site, try to bring legal pressure under the 1st Amendment of the US Constitution.
+actnl0165	If you are EU citizen, contact the website to send your personal information under the General Data Protection Regulation. If they refuse to give you your information, that's a violation of the law.
+actnl0166	For companies that claim to offer service on their website try reporting them as "false advertising" to consumer protection organizations and BBB.
+actnl0167	Cloudflare websites are served by Cloudflare servers.
+actnl0168	The ITU suggest in the US context that Cloudflare is starting to get big enough that antitrust law might be brought down upon them.
+actnl0169	It's conceivable that the GNU GPL version 4 could include a provision against storing source code behind such a service, requiring for all GPLv4 and later programs that at least the source code is accessible via a medium that does not discriminate against Tor users.
+actnl0170	There is always hope in resistance.
+actnl0171	Resistance is fertile.
+actnl0172	Even some of the darker outcomes comes to be, the very act of resistance trains us to continue to destabilize the dystopic status quo that results.
+actnl0173	Resist!
+actnl0174	Someday, you'll understand why we wrote this.
+actnl0175	There isn't anything futuristic about this. We have already lost.
