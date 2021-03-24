@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Vă recomandăm să contactați administratorii pentru serviciile sau site-urile specifice cu care vă confruntați și să vă împărtășiți experiența.
 ```
 
-[Dacă nu o solicitați, proprietarul site-ului nu știe niciodată această problemă.](PEOPLE.md)
+[Dacă nu o solicitați, proprietarul site-ului nu știe niciodată această problemă.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Exemplu de succes](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Aveți o problemă? [Ridică-ți vocea acum.](https://github.com/maraoz/maraoz.github.io/issues/1) Exemplul de mai jos.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Acesta este un exemplu de politică de confidențialitate care nu are cuvântul Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare are propria politică de confidențialitate.
 [Cloudflare iubește oamenii cu sex.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Dacă Cloudflare vă scurge informațiile sau nu vă permite să vă conectați 
 
 [ Inscrie-te ] [ Nu sunt de acord ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Încercați să nu utilizați serviciul lor. Amintiți-vă că sunteți urmărit de Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Căutați alt site. Există alternative și oportunități pe internet!
 
 - Convinge-ți prietenii să folosească Tor zilnic.
   - Anonimatul ar trebui să fie standardul internetului deschis!
-  - [Rețineți că proiectului Tor nu-i place acest proiect.](HISTORY.md)
+  - [Rețineți că proiectului Tor nu-i place acest proiect.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Dacă Cloudflare vă scurge informațiile sau nu vă permite să vă conectați 
 
 | Nume | Dezvoltator | A sustine | Poate bloca | Pot notifica | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **da**     | **da**     |  **da** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nu     | **da**     |  **da** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nu     | **da**     |  **da** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **da**     | **da**     |  Nu |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **da**     | **da**     |  **da** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nu     | **da**     |  **da** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nu     | **da**     |  **da** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **da**     | **da**     |  Nu |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **da**     | **da**     |  Nu |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nu     | **da**     |  Nu |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nu     | **da**     |  Nu |
@@ -139,38 +139,38 @@ Dacă Cloudflare vă scurge informațiile sau nu vă permite să vă conectați 
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Nu utilizați soluția Cloudflare, Perioada.
   - Poți face mai bine decât asta, nu? [Iată cum să eliminați abonamentele, planurile, domeniile sau conturile Cloudflare.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Vrei mai mulți clienți? Știi ce să faci. Sugestia este „deasupra liniei”.
   - [Bună ziua, ați scris „Vă luăm în serios confidențialitatea”, dar am primit „Eroarea 403 Prohibit Anonim Proxy nu este permis”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) De ce blochezi Tor Or VPN? [Și de ce blocați e-mailurile temporare?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Utilizarea Cloudflare va crește șansele unei întreruperi. Vizitatorii nu pot accesa site-ul dvs. web dacă serverul dvs. este defect sau Cloudflare este defect.
-  - [Chiar ai crezut că Cloudflare nu coboară niciodată?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Chiar ai crezut că Cloudflare nu coboară niciodată?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Utilizarea Cloudflare pentru a vă proxy „serviciul API”, „server de actualizare software” sau „flux RSS” vă va afecta clientul. Un client v-a sunat și a spus „Nu vă mai pot folosi API-ul” și nu aveți nicio idee despre ce se întâmplă. Cloudflare vă poate bloca în tăcere clientul. Crezi că este în regulă?
   - Există mulți clienți de citire RSS și servicii de citire RSS online. De ce publicați flux RSS dacă nu permiteți oamenilor să se aboneze?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Aveți nevoie de certificat HTTPS? Utilizați „Să criptăm” sau pur și simplu cumpărați-l de la compania CA.
 
 - Ai nevoie de server DNS? Nu vă puteți configura propriul server? Ce zici de ei: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Administratorul șterge contul dvs. dacă utilizați TOR)](https://freedns.afraid.org/)
 
 - Căutați un serviciu de găzduire? Doar gratuit? Ce zici de ei: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternative la Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Alternative la Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Folosiți „cloudflare-ipfs.com”? [Știți că Cloudflare IPFS este rău?](PEOPLE.md)
+- Folosiți „cloudflare-ipfs.com”? [Știți că Cloudflare IPFS este rău?](../PEOPLE.md)
 
 - Instalați Firewall pentru aplicații web, cum ar fi OWASP și Fail2Ban pe serverul dvs. și configurați-l corect.
   - Blocarea Tor nu este o soluție. Nu pedepsiți pe toți doar pentru micii utilizatori răi.
@@ -297,7 +297,7 @@ Nu există 100% sigur și nici 100% privat pe internet și tehnologie.
 
 - Nu vrei să folosești Tor? Puteți utiliza orice browser cu daemon Tor.
   - [Rețineți că proiectului Tor nu-i place asta.](https://support.torproject.org/tbb/tbb-9/) Folosiți Tor Browser dacă puteți face acest lucru.
-- [Cum se utilizează Chromium cu Tor](subfiles/chromium_tor.md)
+- [Cum se utilizează Chromium cu Tor](../subfiles/chromium_tor.md)
 
 
 Să vorbim despre confidențialitatea altor programe.
@@ -377,12 +377,12 @@ Prin urmare, vă recomandăm numai tabelul de mai sus. Nimic altceva.
 - ~~Raportați o eroare pe tracker-ul mozilla, spunându-le să nu folosească Cloudflare.~~ A existat un raport de erori despre bugzilla. Mulți oameni și-au exprimat îngrijorarea, însă bug-ul a fost ascuns de administrator în 2018.
 
 - Puteți dezactiva DoH în Firefox.
-  - [Schimbați furnizorul DNS implicit al Firefox](subfiles/change-firefox-dns.md)
+  - [Schimbați furnizorul DNS implicit al Firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Dacă doriți să utilizați DNS non-ISP, luați în considerare utilizarea serviciului DNS OpenNIC Tier2 sau oricare dintre serviciile DNS non-Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Blocați Cloudflare cu DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Puteți utiliza Tor ca rezolvator DNS. [Dacă nu sunteți expert Tor, puneți întrebări aici.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Prin urmare, vă recomandăm numai tabelul de mai sus. Nimic altceva.
 
 - Dacă este cazul, conectați-vă la aceste grupuri din acest depozit - acesta poate fi un loc pentru coordonarea lucrării împreună ca grupuri.
 
-- [Începeți o cooperare care poate oferi o alternativă semnificativă non-corporativă la Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Începeți o cooperare care poate oferi o alternativă semnificativă non-corporativă la Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Spuneți-ne despre orice alternative pentru a ajuta cel puțin să oferiți o apărare pe mai multe straturi împotriva Cloudflare.
 
@@ -464,4 +464,4 @@ Nu există nimic futurist în acest sens. Am pierdut deja.
 ### Acum, ce ai făcut azi?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
