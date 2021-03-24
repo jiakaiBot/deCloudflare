@@ -128,7 +128,7 @@ Ovo spremište je popis web stranica koje stoje iza "Velikog oblačnog zida", a 
 
 * [Evo nekoliko PDF / ePUB-a za čitanje.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
