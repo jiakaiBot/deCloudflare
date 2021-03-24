@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Мы рекомендуем вам обратиться к администраторам конкретных служб или сайтов, с которыми у вас возникнут проблемы, и поделиться своим опытом.
 ```
 
-[Если вы не попросите об этом, владелец сайта никогда не узнает об этой проблеме.](PEOPLE.md)
+[Если вы не попросите об этом, владелец сайта никогда не узнает об этой проблеме.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Удачный пример](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 У тебя проблема? [Повысьте голос сейчас.](https://github.com/maraoz/maraoz.github.io/issues/1) Пример ниже.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Это пример политики конфиденциальности, в которой нет слова Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare имеют собственную политику конфиденциальности.
 [Cloudflare любит доксинг людей.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ AFAIK, нулевой веб-сайт делает это. Вы им довер�
 
 [ Подписаться ] [ я не согласен ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Старайтесь не пользоваться их услугами. Помните, что за вами наблюдает Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Найдите другой сайт. В Интернете есть альтернативы и возможности!
 
 - Убедите своих друзей использовать Tor ежедневно.
   - Анонимность должна быть стандартом открытого Интернета!
-  - [Обратите внимание, что проект Tor не любит этот проект.](HISTORY.md)
+  - [Обратите внимание, что проект Tor не любит этот проект.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ AFAIK, нулевой веб-сайт делает это. Вы им довер�
 
 | Имя | Разработчик | Поддерживать | Может блокировать | Может уведомить | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **да**     | **да**     |  **да** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Нет     | **да**     |  **да** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Нет     | **да**     |  **да** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **да**     | **да**     |  Нет |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **да**     | **да**     |  **да** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Нет     | **да**     |  **да** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Нет     | **да**     |  **да** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **да**     | **да**     |  Нет |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **да**     | **да**     |  Нет |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Нет     | **да**     |  Нет |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Нет     | **да**     |  Нет |
@@ -139,38 +139,38 @@ AFAIK, нулевой веб-сайт делает это. Вы им довер�
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Не используйте решение Cloudflare, точка.
   - Вы можете сделать лучше, не так ли? [Вот как удалить подписки, планы, домены или учетные записи Cloudflare.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Хотите больше клиентов? Ты знаешь что делать. Подсказка - «над линией».
   - [Здравствуйте, вы написали «Мы серьезно относимся к вашей конфиденциальности», но я получил «Ошибка 403 Запрещен анонимный прокси-сервер не разрешен».](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Почему вы блокируете Tor или VPN? [И почему вы блокируете временную почту?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Использование Cloudflare увеличит вероятность сбоя. Посетители не могут получить доступ к вашему сайту, если ваш сервер не работает или Cloudflare не работает.
-  - [Вы действительно думали, что Cloudflare никогда не выйдет из строя?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Вы действительно думали, что Cloudflare никогда не выйдет из строя?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Использование Cloudflare для прокси-сервера вашей «службы API», «сервера обновления программного обеспечения» или «RSS-канала» нанесет вред вашему клиенту. Вам позвонил клиент и сказал: «Я больше не могу использовать ваш API», и вы понятия не имеете, что происходит. Cloudflare может молча заблокировать вашего клиента. Как ты думаешь, это нормально?
   - Существует множество клиентов для чтения RSS и онлайн-сервисов для чтения RSS. Почему вы публикуете RSS-канал, если не разрешаете людям подписываться?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Вам нужен сертификат HTTPS? Воспользуйтесь «Let's Encrypt» или просто купите его в компании CA.
 
 - Вам нужен DNS-сервер? Не можете настроить свой собственный сервер? Как насчет них: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Администратор удаляет вашу учетную запись, если вы используете TOR)](https://freedns.afraid.org/)
 
 - Ищете услуги хостинга? Только бесплатно? Как насчет них: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Альтернативы Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Альтернативы Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Вы используете cloudflare-ipfs.com? [Вы знаете, что Cloudflare IPFS - это плохо?](PEOPLE.md)
+- Вы используете cloudflare-ipfs.com? [Вы знаете, что Cloudflare IPFS - это плохо?](../PEOPLE.md)
 
 - Установите брандмауэр веб-приложений, такой как OWASP и Fail2Ban, на свой сервер и настройте его должным образом.
   - Блокировка Tor - не решение. Не наказывайте всех только за маленьких плохих пользователей.
@@ -297,7 +297,7 @@ die();
 
 - Не хотите использовать Tor? Вы можете использовать любой браузер с демоном Tor.
   - [Обратите внимание, что проекту Tor это не нравится.](https://support.torproject.org/tbb/tbb-9/) Используйте Tor Browser, если можете.
-- [Как использовать Chromium с Tor](subfiles/chromium_tor.md)
+- [Как использовать Chromium с Tor](../subfiles/chromium_tor.md)
 
 
 Давайте поговорим о конфиденциальности другого программного обеспечения.
@@ -377,12 +377,12 @@ die();
 - ~~Сообщите об ошибке в трекере Mozilla, запретив использовать Cloudflare.~~ В bugzilla был отчет об ошибке. Многие люди писали о своей проблеме, однако ошибка была скрыта администратором в 2018 году.
 
 - Вы можете отключить DoH в Firefox.
-  - [Изменить DNS-провайдер по умолчанию для firefox](subfiles/change-firefox-dns.md)
+  - [Изменить DNS-провайдер по умолчанию для firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Если вы хотите использовать DNS, не принадлежащий Интернет-провайдеру, рассмотрите возможность использования службы DNS OpenNIC Tier2 или любой из служб DNS, отличных от Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Заблокируйте Cloudflare с помощью DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Вы можете использовать Tor в качестве преобразователя DNS. [Если вы не эксперт по Tor, задайте вопрос здесь.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - Где это уместно, сделайте ссылку на эти группы в этом репозитории - это может быть место для координации совместной работы в группах.
 
-- [Начните сотрудничество, которое может предоставить значимую некорпоративную альтернативу Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Начните сотрудничество, которое может предоставить значимую некорпоративную альтернативу Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Сообщите нам о любых альтернативах, которые помогут хотя бы обеспечить многоуровневую защиту от Cloudflare.
 
@@ -464,4 +464,4 @@ die();
 ### Итак, что вы делали сегодня?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
