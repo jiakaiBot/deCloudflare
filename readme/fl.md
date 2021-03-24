@@ -128,7 +128,7 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 
 * [Narito ang ilang mga PDF / ePUB upang mabasa.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
