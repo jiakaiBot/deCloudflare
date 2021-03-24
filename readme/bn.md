@@ -128,7 +128,7 @@
 
 * [পড়ার জন্য এখানে কিছু পিডিএফ / ইপাব রয়েছে।](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
