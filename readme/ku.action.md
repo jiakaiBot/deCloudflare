@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Em tewsiye dikin ku hûn ji bo karûbarên taybetî an malperên ku hûn bi wan re pirsgirêk derdikevin bigihîjin rêveberan û ezmûna xwe parve bikin.
 ```
 
-[Heke hûn wê nexwazin, xwediyê malperê vê pirsgirêkê qet nizane.](PEOPLE.md)
+[Heke hûn wê nexwazin, xwediyê malperê vê pirsgirêkê qet nizane.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Mînaka serkeftî](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Pirsgirêkek we heye? [Voicedî dengê xwe bilind bikin.](https://github.com/maraoz/maraoz.github.io/issues/1) Mînaka jêrîn.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Ev mînakek polîtîkaya nepenîtiyê ye ku peyva Cloudflare nîne.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare polîtîkaya nepeniya xwe heye.
 [Cloudflare ji mirovên doxxing hez dike.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Ger Cloudflare agahdariya we diweşîne an nahêle hûn bi serveratên me ve wer
 
 [ Tomar kirin ] [ Ez napejirînim ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Biceribînin ku karûbarê wan bikar neynin. Ji bîr mekin ku hûn ji hêla Cloudflare ve têne temaşekirin.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Li malpera din bigerin. Li ser înternetê alternatîf û oportunîte hene!
 
 - Hevalên xwe qane bikin ku rojane Tor bikar bînin.
   - Divê bênavbûn standarda înterneta vekirî be!
-  - [Bala xwe bidinê ku projeya Tor ji vê projeyê hez nake.](HISTORY.md)
+  - [Bala xwe bidinê ku projeya Tor ji vê projeyê hez nake.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Ger Cloudflare agahdariya we diweşîne an nahêle hûn bi serveratên me ve wer
 
 | Nav | Pêşvebir | Alîkarî | Dikare Asteng bike | Dikare Agahdar bike | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Erê**     | **Erê**     |  **Erê** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Na     | **Erê**     |  **Erê** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Na     | **Erê**     |  **Erê** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Erê**     | **Erê**     |  Na |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Erê**     | **Erê**     |  **Erê** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Na     | **Erê**     |  **Erê** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Na     | **Erê**     |  **Erê** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Erê**     | **Erê**     |  Na |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Erê**     | **Erê**     |  Na |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Na     | **Erê**     |  Na |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Na     | **Erê**     |  Na |
@@ -139,38 +139,38 @@ Ger Cloudflare agahdariya we diweşîne an nahêle hûn bi serveratên me ve wer
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Çareseriya Cloudflare, Periyod bikar neynin.
   - Hûn dikarin ji wiya çêtir bikin, ne? [Li vir awayê rakirina abonetiyê, plansaziyê, domanan, an hesabên Cloudflare ye.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Zêdetir xerîdar dixwazin? Hûn dizanin çi bikin. Hint "jorê rêzê" ye.
   - [Silav, we nivîsand "Em nehîniya we cidî digirin" lê min "Çewtiya 403 Nûkerê Anonîm Qedexe Destûr Nabe" girt.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Hûn çima Tor Or VPN asteng dikin? [Why çima hûn e-nameyên demkî asteng dikin?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Bikaranîna Cloudflare dê derfetên qutbûnê zêde bike. Ger servera we kêm be an Cloudflare hilweşe mêvan nikarin xwe bigihînin malpera we.
-  - [Ma hûn bi rastî difikirin ku Cloudflare qet naçe?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Ma hûn bi rastî difikirin ku Cloudflare qet naçe?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Bikaranîna Cloudflare ji bo proxy "Xizmeta API", "servera nûvekirina nermalava" an "RSS feed" dê zirarê bide xerîdarê we. Xerîdarek gazî we kir û got "Ez êdî nikarim API-ya we bikar bînim", û hûn nizanin çi diqewime. Cloudflare dikare bi bêdengî xerîdarê we asteng bike. Hûn difikirin baş e?
   - Gelek xerîdar û xwendevanên RSS-serhêl ên serhêl hene. Heke hûn nahêlin mirov abone bibin hûn çima RSS-ê diweşînin?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Ma hûn belgeya HTTPS hewce ne? "Bila ryîfre bikin" bikar bînin an jî tenê ji pargîdaniya CA bikirin.
 
 - Ma servera DNS-ê hewce dike? Ma hûn nekarin servera xwe saz bikin? Çawa li ser wan: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Ger hûn TOR bikar bînin dê rêveber hesabê xwe jê bibe)](https://freedns.afraid.org/)
 
 - Ji bo xizmeta mêvandariyê digerin? Tenê belaş? Çawa li ser wan: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatîfên Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Alternatîfên Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Ma hûn "cloudflare-ipfs.com" bikar tînin? [Ma hûn dizanin Cloudflare IPFS xirab e?](PEOPLE.md)
+- Ma hûn "cloudflare-ipfs.com" bikar tînin? [Ma hûn dizanin Cloudflare IPFS xirab e?](../PEOPLE.md)
 
 - Firewall-a Web Application-ê wekî OWASP û Fail2Ban li ser servera xwe saz bikin û wê rast vesaz bikin.
   - Astengkirina Tor ne çareserî ye. Her kes tenê ji bo bikarhênerên piçûk ên xirab ceza nekin.
@@ -297,7 +297,7 @@ Li ser înternet û teknolojiyê% 100 ewlehî û 100% taybet tune.
 
 - Naxwazin Tor bikar bînin? Hûn dikarin bi gerdûneya Tor re her rûgerek bikar bînin.
   - [Bala xwe bidinê ku projeya Tor ji vê yekê hez nake.](https://support.torproject.org/tbb/tbb-9/) Ger hûn bikaribin wiya bikin Geroka Tor bikar bînin.
-- [Meriv çawa Chromiumê bi Tor re bikar tîne](subfiles/chromium_tor.md)
+- [Meriv çawa Chromiumê bi Tor re bikar tîne](../subfiles/chromium_tor.md)
 
 
 Ka em li ser nepeniya nermalava din biaxivin.
@@ -377,12 +377,12 @@ Ji ber vê yekê em tenê maseya jorîn pêşniyar dikin. Tiştek din.
 - ~~Li ser şopînera mozilla-yê xeletiyek ragihînin, ji wan re bêjin ku Cloudflare bikar neynin.~~ Li ser bugzilla raporek çewtiyê hebû. Gelek kesan xemgîniya xwe şandin, lêbelê çewtiyek ji hêla rêveberê ve di 2018 de hate veşartin.
 
 - Hûn dikarin DoH-ê di Firefox-ê de neçalak bikin.
-  - [Pêşkêşkera default a DNS-a ya firefox-ê biguherînin](subfiles/change-firefox-dns.md)
+  - [Pêşkêşkera default a DNS-a ya firefox-ê biguherînin](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Heke hûn dixwazin DNS-ne-ISP bikar bînin, karanîna karûbarê OpenNIC Tier2 DNS-an an karûbarên DNS-yên ne-Cloudflare bifikirin.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Cloudflare bi DNS asteng bikin. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Hûn dikarin Tor wekî çareserkerê DNS bikar bînin. [Heke hûn ne pisporê Tor in, li vir pirsê bikin.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Ji ber vê yekê em tenê maseya jorîn pêşniyar dikin. Tiştek din.
 
 - Ku guncan be, bi van koman re li ser vê embarê pêwendîdar be - ev dikare bibe cîhek ji bo koordînekirina xebata bi hev re wekî kom.
 
-- [Hevkariyek dest pê bikin ku dikare ji Cloudflare re alternatîfek ne pargîdanî ya watedar peyda bike.](subfiles/cloudflare-alternatives.md)
+- [Hevkariyek dest pê bikin ku dikare ji Cloudflare re alternatîfek ne pargîdanî ya watedar peyda bike.](../subfiles/cloudflare-alternatives.md)
 
 - Bila ji me re her alternatîfan agahdar bikin ku bi kêmanî li dijî Cloudflare berevaniya pirrjimar a pirrjimar peyda bikin.
 
@@ -464,4 +464,4 @@ Di vê yekê de tiştek pêşeroj tune. Me berê jî wenda kir.
 ### Naha, we îro çi kir?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
