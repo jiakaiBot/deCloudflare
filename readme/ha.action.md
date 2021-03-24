@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Muna ba da shawarar cewa ku isa wurin masu gudanarwa don takamaiman sabis ko rukunin yanar gizon da kuka ci karo da su kuma ku raba abubuwan da kuka samu.
 ```
 
-[Idan baku nemi hakan ba, mai gidan yanar ba zai taɓa sanin wannan matsalar ba.](PEOPLE.md)
+[Idan baku nemi hakan ba, mai gidan yanar ba zai taɓa sanin wannan matsalar ba.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Misali mai nasara](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Kuna da matsala? [Tada muryarka yanzu.](https://github.com/maraoz/maraoz.github.io/issues/1) Misali a ƙasa.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Wannan misali ne na tsarin tsare sirri wanda bashi da kalmar Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare suna da manufofin sirri na kansu.
 [Cloudflare yana son mutane masu mutuwa.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Idan Cloudflare ya fallasa bayananku ko ba zai bari ku haɗi zuwa sabarmu ba, ba
 
 [ Yi rajista ] [ Ban yarda ba ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Gwada kada ku yi amfani da sabis ɗin su. Ka tuna cewa Cloudflare yana kallon ka.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Bincika wani rukunin yanar gizo. Akwai zabi da dama a yanar gizo!
 
 - Ka shawo kan abokanka suyi amfani da Tor a kullun.
   - Rashin sani ya zama mizanin buɗe yanar gizo!
-  - [Lura cewa aikin Tor ba ya son wannan aikin.](HISTORY.md)
+  - [Lura cewa aikin Tor ba ya son wannan aikin.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Idan Cloudflare ya fallasa bayananku ko ba zai bari ku haɗi zuwa sabarmu ba, ba
 
 | Suna | Mai ƙira | Tallafi | Iya Block | Za a iya Sanarwa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ee**     | **Ee**     |  **Ee** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | A'a     | **Ee**     |  **Ee** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | A'a     | **Ee**     |  **Ee** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ee**     | **Ee**     |  A'a |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ee**     | **Ee**     |  **Ee** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | A'a     | **Ee**     |  **Ee** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | A'a     | **Ee**     |  **Ee** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ee**     | **Ee**     |  A'a |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ee**     | **Ee**     |  A'a |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | A'a     | **Ee**     |  A'a |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | A'a     | **Ee**     |  A'a |
@@ -139,38 +139,38 @@ Idan Cloudflare ya fallasa bayananku ko ba zai bari ku haɗi zuwa sabarmu ba, ba
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Kada ayi amfani da Cloudflare bayani, Lokaci.
   - Kuna iya yin mafi kyau daga wannan, dama? [Ga yadda ake cire rajista na Cloudflare, tsare-tsare, yankuna, ko asusun.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Kuna son ƙarin abokan ciniki? Kun san abin yi. Alamar tana "sama da layi".
   - [Barka dai, kun rubuta "Mun ɗauki sirrinku da muhimmanci" amma na sami "Kuskuren 403 Haramtaccen Wakili Ba a Ba da Izini ba".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Me yasa kuke tare Tor ko VPN? [Kuma me yasa kuke toshe imel na wucin gadi?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Amfani da Cloudflare zai haɓaka damar fita aiki. Baƙi ba za su iya samun damar shiga gidan yanar gizonku ba idan sabarku tana ƙasa ko Cloudflare yana ƙasa.
-  - [Shin da gaske kunyi tunanin Cloudflare bazai taɓa sauka ba?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Shin da gaske kunyi tunanin Cloudflare bazai taɓa sauka ba?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Amfani Cloudflare don wakiltar "sabis ɗin API" ɗinku, "sabar sabunta software" ko "RSS feed" zai cutar da abokin cinikinku. Wani abokin ciniki ya kira ka ya ce "Ba zan iya amfani da API ɗinka ba", kuma ba ku san abin da ke faruwa ba. Cloudflare na iya toshe abokin ciniki a hankali. Kuna ganin babu matsala?
   - Akwai abokan karatu RSS da yawa da sabis na kan layi RSS. Me yasa kuke buga abincin RSS idan baku bari mutane suyi rajista?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Shin kuna buƙatar takardar shaidar HTTPS? Yi amfani da "Bari mu Encrypt" ko kawai siya daga kamfanin CA.
 
 - Shin kuna buƙatar sabar DNS? Ba za a iya kafa sabarku ba? Yaya game da su: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Gudanar da asusunka idan kayi amfani da TOR)](https://freedns.afraid.org/)
 
 - Ana neman sabis na talla? Kyauta kawai? Yaya game da su: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Madadin zuwa Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Madadin zuwa Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Shin kuna amfani da "cloudflare-ipfs.com"? [Shin kun san Cloudflare IPFS ba kyau?](PEOPLE.md)
+- Shin kuna amfani da "cloudflare-ipfs.com"? [Shin kun san Cloudflare IPFS ba kyau?](../PEOPLE.md)
 
 - Shigar da Firewall na Aikace-aikacen Gidan yanar gizo kamar OWASP da Fail2Ban a kan sabarka sannan ka saita ta yadda ya kamata.
   - Toshe Tor ba shine mafita ba. Kada ku azabtar da kowa kawai don ƙananan masu amfani.
@@ -297,7 +297,7 @@ Babu amintacce 100% ko masu zaman kansu 100% akan intanet da fasaha.
 
 - Ba kwa son yin amfani da Tor? Kuna iya amfani da kowane mai bincike tare da Tor daemon.
   - [Lura cewa aikin Tor ba ya son wannan.](https://support.torproject.org/tbb/tbb-9/) Yi amfani da Tor Browser idan za ku iya yin hakan.
-- [Yadda ake amfani da Chromium tare da Tor](subfiles/chromium_tor.md)
+- [Yadda ake amfani da Chromium tare da Tor](../subfiles/chromium_tor.md)
 
 
 Bari muyi magana game da sirrin sauran software.
@@ -377,12 +377,12 @@ Saboda haka muna bada shawarar sama da tebur kawai. Babu wani abu kuma.
 - ~~Yi rahoton bug a kan tracker na mozilla, kuna gaya musu cewa kada suyi amfani da Cloudflare.~~ Akwai rahoton kwari akan bugzilla. Mutane da yawa sun sanya damuwarsu, amma duk da haka kwazon ya ɓoye ɓarnar a cikin 2018.
 
 - Kuna iya kashe DoH a cikin Firefox.
-  - [Canza tsoffin mai bayar da DNS na Firefox](subfiles/change-firefox-dns.md)
+  - [Canza tsoffin mai bayar da DNS na Firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Idan kuna son yin amfani da DNS ɗin da ba ISP ba, la'akari da amfani da OpenNIC Tier2 DNS sabis ko wani sabis na ba Cloudflare DNS.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Block Cloudflare tare da DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Kuna iya amfani da Tor azaman mai warware DNS. [Idan baku da masaniyar Tor, yi tambaya anan.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Saboda haka muna bada shawarar sama da tebur kawai. Babu wani abu kuma.
 
 - Inda ya dace, haɗi zuwa waɗannan rukunonin a kan wannan ma'ajiyar - wannan na iya zama wuri don daidaita aiki tare a matsayin ƙungiyoyi.
 
-- [Fara aikin kwalliya wanda zai iya samar da mahimmancin madadin kamfanoni ba ga Cloudflare ba.](subfiles/cloudflare-alternatives.md)
+- [Fara aikin kwalliya wanda zai iya samar da mahimmancin madadin kamfanoni ba ga Cloudflare ba.](../subfiles/cloudflare-alternatives.md)
 
 - Bari mu san kowane zaɓi don taimakawa aƙalla samar da matakan kariya masu yawa akan Cloudflare.
 
@@ -464,4 +464,4 @@ Babu wani abu mai zuwa game da wannan. Mun riga munyi asara.
 ### Yanzu, me kuka yi a yau?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
