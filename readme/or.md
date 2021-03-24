@@ -128,7 +128,7 @@
 
 * [ପ read ିବାକୁ ଏଠାରେ କିଛି PDF / ePUB ଅଛି |](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
