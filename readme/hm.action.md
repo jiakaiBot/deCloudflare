@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Peb pom zoo kom koj ncav cuag cov thawj coj rau cov kev pabcuam tshwj xeeb lossis cov chaw uas koj khiav tawm hauv cov teebmeem thiab qhia koj qhov kev paub dhau los.
 ```
 
-[Yog tias koj tsis thov nws, tus tswv lub vev xaib tsis paub qhov teeb meem no.](PEOPLE.md)
+[Yog tias koj tsis thov nws, tus tswv lub vev xaib tsis paub qhov teeb meem no.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Piv txwv zoo](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Koj tau tuaj me me xwb? [Tsa koj lub suab tam sim no.](https://github.com/maraoz/maraoz.github.io/issues/1) Piv txwv hauv qab no.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Qhov no yog ib qho piv txwv ntawm cov cai ntiag tug uas tsis muaj lo lus Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare lawv muaj lawv txoj cai ntiag tug.
 [Cloudflare hlub doxxing neeg.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Yog Cloudflare paim koj cov ntaub ntawv lossis yuav tsis cia koj txuas rau peb c
 
 [ Sau npe ] [ Kuv tsis pom zoo ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Sim tsis txhob siv lawv cov kev pabcuam. Nco ntsoov koj tau raug saib los ntawm Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Tshawb nrhiav rau lwm lub vas sab. Muaj lwm txoj hauv kev thiab muaj cib fim rau hauv internet!
 
 - Hais koj cov phooj ywg siv Tor txhua hnub.
   - Kev tsis qhia npe yuav tsum yog tus qauv ntawm qhib internet!
-  - [Nco ntsoov tias lub phiaj xwm Tor tsis nyiam qhov haujlwm no.](HISTORY.md)
+  - [Nco ntsoov tias lub phiaj xwm Tor tsis nyiam qhov haujlwm no.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Yog Cloudflare paim koj cov ntaub ntawv lossis yuav tsis cia koj txuas rau peb c
 
 | Npe | Tus tsim tawm | Txhawb nqa | Thaiv tuaj yeem | Qhia tuaj yeem siv tau | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Yog lawm**     | **Yog lawm**     |  **Yog lawm** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Tsis yog     | **Yog lawm**     |  **Yog lawm** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Tsis yog     | **Yog lawm**     |  **Yog lawm** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Yog lawm**     | **Yog lawm**     |  Tsis yog |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Yog lawm**     | **Yog lawm**     |  **Yog lawm** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Tsis yog     | **Yog lawm**     |  **Yog lawm** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Tsis yog     | **Yog lawm**     |  **Yog lawm** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Yog lawm**     | **Yog lawm**     |  Tsis yog |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Yog lawm**     | **Yog lawm**     |  Tsis yog |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Tsis yog     | **Yog lawm**     |  Tsis yog |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Tsis yog     | **Yog lawm**     |  Tsis yog |
@@ -139,38 +139,38 @@ Yog Cloudflare paim koj cov ntaub ntawv lossis yuav tsis cia koj txuas rau peb c
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Tsis txhob siv Cloudflare kev daws teeb meem, Lub Sij Hawm.
   - Koj tuaj yeem ua kom zoo tshaj qhov ntawd, puas yog? [Ntawm no yog yuav ua li cas tshem tawm Cloudflare kev tso npe, phiaj xwm, thawj, lossis nyiaj txiag.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Xav tau cov neeg muas zaub ntau? Koj paub Yeej Pov Vwj thiab Yaj Kub ces yog lawm. Hint yog "txoj kab saum toj".
   - [Nyob zoo, koj tau sau "Peb coj koj tus kheej yam tsis muaj txiaj ntsig" tab sis kuv tau txais "Yuam Kev 403 Forbidden Anonymous Proxy Tsis Tso Cai".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Vim li cas koj thaiv Tor lossis VPN? [Thiab yog vim li cas koj thaiv cov hlab ib ntus email?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Siv Cloudflare yuav ua rau kom muaj kev ntsaws. Cov qhua tuaj yeem tsis nkag mus rau koj lub vev xaib yog tias koj lub server poob qis lossis Cloudflare tau poob.
-  - [Koj puas xav tias Cloudflare yeej tsis nqis dua?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Koj puas xav tias Cloudflare yeej tsis nqis dua?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Siv Cloudflare los saib xyuas koj "API pabcuam", "software hloov tshiab server" lossis "RSS pub" yuav ua kev puas tsuaj rau koj cov neeg siv khoom. Ib tus neeg siv khoom hu koj thiab hais tias "Kuv tsis tuaj yeem siv koj tus lej API ntxiv lawm", thiab koj tsis paub dab tsi yog mus. Cloudflare tuaj yeem ntsiag to thaiv koj cov neeg siv khoom. Koj puas xav tias nws tsis ua li cas?
   - Muaj ntau tus neeg nyeem ntawv RSS thiab nyeem ntawv RSS nyeem online. Vim li cas koj thiaj li tshaj tawm RSS pub yog tias koj tsis pub neeg tuaj yeem sau npe?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Koj puas xav tau daim ntawv pov thawj HTTPS? Siv "Let's Encrypt" lossis cia li yuav nws los ntawm CA lub tuam txhab.
 
 - Koj puas xav tau DNS server? Tsis tuaj yeem teeb tsa koj lub server? Yuav ua li cas txog lawv: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Cov tswj hwm muab koj tus lej rho tawm yog tias koj siv TOR)](https://freedns.afraid.org/)
 
 - Nrhiav kev pabcuam hosting? Pub dawb xwb? Yuav ua li cas txog lawv: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Hloov rau Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Hloov rau Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Koj tab tom siv "cloudflare-ipfs.com"? [Koj puas paub Cloudflare IPFS tsis zoo?](PEOPLE.md)
+- Koj tab tom siv "cloudflare-ipfs.com"? [Koj puas paub Cloudflare IPFS tsis zoo?](../PEOPLE.md)
 
 - Nruab Nruab Web Application Firewall xws li OWASP thiab Fail2Ban ntawm koj lub server thiab teeb tsa nws kom raug.
   - Thaiv Tor tsis yog ib qho kev daws teeb meem. Tsis txhob rau txim rau txhua tus rau cov neeg siv tsis zoo.
@@ -297,7 +297,7 @@ Tsis muaj 100% kev nyab xeeb tsis 100% ntiag tug hauv is taws nem thiab thev nau
 
 - Tsis xav siv Tor? Koj tuaj yeem siv txhua qhov browser nrog Tor daemon.
   - [Nco ntsoov tias lub phiaj xwm Tor tsis nyiam qhov no.](https://support.torproject.org/tbb/tbb-9/) Siv Tor Browser yog tias koj muaj peev xwm ua tau li ntawd.
-- [Siv Chromium nrog Tor li cas](subfiles/chromium_tor.md)
+- [Siv Chromium nrog Tor li cas](../subfiles/chromium_tor.md)
 
 
 Cia peb tham txog lwm qhov software tsis pub lwm tus paub.
@@ -377,12 +377,12 @@ Yog li peb pom zoo kom cov lus saum toj no nkaus xwb. Tsis muaj dab tsi ntxiv.
 - ~~Tshaj tawm cov kab ntawm mozilla tus tracker, qhia lawv kom tsis txhob siv Cloudflare.~~ Muaj ib daim ntawv tshaj tawm kab ntawm bugzilla. Coob tus neeg tau tshaj tawm lawv qhov kev txhawj xeeb, txawm li cas los xij cov kab muag tau zais los ntawm tus thawj coj hauv 2018 xyoo.
 
 - Koj tuaj yeem cuam tshuam DoH hauv Firefox.
-  - [Hloov chaw pabcuam DNS ua ntej ntawm firefox](subfiles/change-firefox-dns.md)
+  - [Hloov chaw pabcuam DNS ua ntej ntawm firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Yog tias koj xav siv qhov tsis yog ISP DNS, xav txog kev siv OpenNIC Tier2 DNS kev pabcuam lossis lwm tus tsis-Cloudflare DNS kev pabcuam.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Thaiv Cloudflare nrog DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Koj tuaj yeem siv Tor ua DNS daws teeb meem. [Yog tias koj tsis yog Tor tus kws tshaj lij, nug nqe lus nug ntawm no.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Yog li peb pom zoo kom cov lus saum toj no nkaus xwb. Tsis muaj dab tsi ntxiv.
 
 - Thaum twg tsim nyog, txuas rau cov pab pawg no rau ntawm lub chaw cia khoom no - qhov no tuaj yeem yog qhov chaw rau kev koom tes ua haujlwm ua ke ua ib pab.
 
-- [Pib lub voos xwm kab uas tuaj yeem muab cov ntsiab lus tsis yog tuam txhab kev xaiv rau Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Pib lub voos xwm kab uas tuaj yeem muab cov ntsiab lus tsis yog tuam txhab kev xaiv rau Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Qhia rau peb paub txog lwm txoj kev pab tau tsawg kawg yog muab ntau cov txheej txheem tiv thaiv tiv thaiv Cloudflare.
 
@@ -464,4 +464,4 @@ Tsis muaj dab tsi nyob rau yav tom ntej txog qhov no. Peb twb poob lawm.
 ### Tam sim no, koj ua dab tsi hnub no?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
