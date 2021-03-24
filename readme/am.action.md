@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 ችግር የሚፈጥሩባቸውን ልዩ አገልግሎቶች ወይም ጣቢያዎች ለአስተዳዳሪዎች እንዲያገኙ እና ተሞክሮዎን እንዲያጋሩ እንመክራለን ፡፡
 ```
 
-[እሱን ካልጠየቁ የድር ጣቢያው ባለቤት ይህንን ችግር በጭራሽ አያውቀውም ፡፡](PEOPLE.md)
+[እሱን ካልጠየቁ የድር ጣቢያው ባለቤት ይህንን ችግር በጭራሽ አያውቀውም ፡፡](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [ስኬታማ ምሳሌ](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 ችግር አለብዎት? [አሁን ድምጽዎን ከፍ ያድርጉ ፡፡](https://github.com/maraoz/maraoz.github.io/issues/1) ምሳሌ ከዚህ በታች ፡፡
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ይህ Cloudflare የሚል ቃል የሌለበት የግላዊነት ፖሊሲ ምሳሌ ነው።
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 ደመናፍላር የራሳቸው የግላዊነት ፖሊሲ አላቸው።
 [ደመናፍላር በጣም አስቸጋሪ የሆኑ ሰዎችን ይወዳል።](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Cloudflare መረጃዎን የሚያፈሰው ከሆነ ወይም ከአገል�
 
 [ ተመዝገቢ ] [ አልስማማም ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - አገልግሎታቸውን ላለመጠቀም ይሞክሩ ፡፡ በ Cloudflare እየተመለከቱ እንደሆኑ ያስታውሱ።
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - ሌላ ድር ጣቢያ ይፈልጉ። በይነመረቡ ላይ አማራጮች እና ዕድሎች አሉ!
 
 - ጓደኞችዎን በየቀኑ ቶርን እንዲጠቀሙ ያሳምኗቸው ፡፡
   - ስም-አልባነት ክፍት የኢንተርኔት መስፈርት መሆን አለበት!
-  - [የቶር ፕሮጀክት ይህንን ፕሮጀክት እንደማይወደው ልብ ይበሉ ፡፡](HISTORY.md)
+  - [የቶር ፕሮጀክት ይህንን ፕሮጀክት እንደማይወደው ልብ ይበሉ ፡፡](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Cloudflare መረጃዎን የሚያፈሰው ከሆነ ወይም ከአገል�
 
 | ስም | ገንቢ | ድጋፍ | ማገድ ይችላል | ማሳወቅ ይችላል | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **አዎ**     | **አዎ**     |  **አዎ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | አይ     | **አዎ**     |  **አዎ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | አይ     | **አዎ**     |  **አዎ** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **አዎ**     | **አዎ**     |  አይ |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **አዎ**     | **አዎ**     |  **አዎ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | አይ     | **አዎ**     |  **አዎ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | አይ     | **አዎ**     |  **አዎ** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **አዎ**     | **አዎ**     |  አይ |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **አዎ**     | **አዎ**     |  አይ |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | አይ     | **አዎ**     |  አይ |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | አይ     | **አዎ**     |  አይ |
@@ -139,38 +139,38 @@ Cloudflare መረጃዎን የሚያፈሰው ከሆነ ወይም ከአገል�
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - የ Cloudflare መፍትሄን አይጠቀሙ ፣ ወቅት።
   - ከዚያ የተሻለ ማድረግ ይችላሉ ፣ አይደል? [የደመናፍላር ምዝገባዎችን ፣ ዕቅዶችን ፣ ጎራዎችን ወይም መለያዎችን እንዴት ማስወገድ እንደሚቻል እነሆ ፡፡](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - ተጨማሪ ደንበኞችን ይፈልጋሉ? ምን ማድረግ እንዳለብዎት ያውቃሉ ፡፡ ፍንጭ "ከመስመር በላይ" ነው።
   - [ጤና ይስጥልኝ ፣ “ግላዊነትዎን በቁም ነገር እንመለከተዋለን” ብለው ጽፈዋል ግን “ስህተት 403 የተከለከለ ስም-አልባ ተኪ አልተፈቀደለትም” አገኘሁ ፡፡](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ቶር ወይም ቪፒኤን ለምን ያግዳሉ? [እና ጊዜያዊ ኢሜሎችን ለምን ያግዳሉ?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Cloudflare ን መጠቀም የመቋረጥ እድልን ይጨምራል። አገልጋይዎ ከወረደ ወይም Cloudflare ከወረደ ጎብitorsዎች ወደ ድር ጣቢያዎ መድረስ አይችሉም።
-  - [ደመናፍላሬ በጭራሽ አይወርድም ብለው ያስባሉ?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [ደመናፍላሬ በጭራሽ አይወርድም ብለው ያስባሉ?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Cloudflare ን ተጠቅመው የእርስዎን “ኤፒአይ አገልግሎት” ፣ “የሶፍትዌር ማዘመኛ አገልጋይ” ወይም “የአርኤስኤስ ምግብ” ደንበኛዎን ይጎዳል። አንድ ደንበኛ ደውሎ “ከእንግዲህ ኤ.ፒ.አይ.ዎን መጠቀም አልችልም” አለኝ ፣ እናም ምን እየተካሄደ እንዳለ አታውቁም ፡፡ የደመና ፍንዳታ ደንበኛዎን በዝምታ ሊያግደው ይችላል። ደህና ነው ብለው ያስባሉ?
   - ብዙ የአርኤስኤስ አንባቢ ደንበኛ እና የአርኤስኤስ አንባቢ የመስመር ላይ አገልግሎት አሉ ፡፡ ሰዎች እንዲመዘገቡ የማይፈቅዱ ከሆነ የአርኤስኤስ ምግብን ለምን ያትማሉ?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - የኤችቲቲፒፒኤስ የምስክር ወረቀት ይፈልጋሉ? "እንስጥ እናመስጥር" ን ይጠቀሙ ወይም በቃ ከኤ ሲ ኩባንያ ይግዙት።
 
 - የዲ ኤን ኤስ አገልጋይ ይፈልጋሉ? የራስዎን አገልጋይ ማቋቋም አልተቻለም? ስለእነሱ እንዴት: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (አስተዳዳሪ TOR ን የሚጠቀሙ ከሆነ መለያዎን ይሰርዙ)](https://freedns.afraid.org/)
 
 - የአስተናጋጅ አገልግሎት ይፈልጋሉ? ነፃ ብቻ? ስለእነሱ እንዴት: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [ለ Cloudflare አማራጮች](subfiles/cloudflare-alternatives.md)
+  - [ለ Cloudflare አማራጮች](../subfiles/cloudflare-alternatives.md)
 
-- "Cloudflare-ipfs.com" ን እየተጠቀሙ ነው? [Cloudflare IPFS መጥፎ መሆኑን ያውቃሉ?](PEOPLE.md)
+- "Cloudflare-ipfs.com" ን እየተጠቀሙ ነው? [Cloudflare IPFS መጥፎ መሆኑን ያውቃሉ?](../PEOPLE.md)
 
 - እንደ OWASP እና Fail2Ban ያሉ የድር መተግበሪያ ፋየርዎልን በአገልጋይዎ ላይ ይጫኑ እና በትክክል ያዋቅሩት።
   - ቶርን ማገድ መፍትሄ አይደለም ፡፡ ለአነስተኛ መጥፎ ተጠቃሚዎች ብቻ ሁሉንም አይቅጡ ፡፡
@@ -297,7 +297,7 @@ die();
 
 - ቶርን መጠቀም አይፈልጉም? ማንኛውንም አሳሽ በቶር ዴሞን በመጠቀም መጠቀም ይችላሉ ፡፡
   - [የቶር ፕሮጀክት ይህንን እንደማይወደው ልብ ይበሉ ፡፡](https://support.torproject.org/tbb/tbb-9/) ይህን ማድረግ ከቻሉ የቶር ማሰሻውን ይጠቀሙ።
-- [Chromium ን ከቶር ጋር እንዴት እንደሚጠቀሙ](subfiles/chromium_tor.md)
+- [Chromium ን ከቶር ጋር እንዴት እንደሚጠቀሙ](../subfiles/chromium_tor.md)
 
 
 ስለ ሌሎች የሶፍትዌሮች ግላዊነት እንነጋገር ፡፡
@@ -377,12 +377,12 @@ die();
 - ~~Cloudflare ን እንዳይጠቀሙ በመንገር በሞዚላ መከታተያ ላይ ሳንካን ሪፖርት ያድርጉ።~~ በ bugzilla ላይ የሳንካ ሪፖርት ነበር ፡፡ ብዙ ሰዎች ስጋታቸውን ለጥፈዋል ፣ ሆኖም ስህተቱ በአስተዳዳሪው በ 2018 ተደብቆ ነበር።
 
 - ፋየርፎክስ ውስጥ ዶኤች ማሰናከል ይችላሉ።
-  - [ነባሪ የዲ ኤን ኤስ አቅራቢን ፋየርፎክስን ይለውጡ](subfiles/change-firefox-dns.md)
+  - [ነባሪ የዲ ኤን ኤስ አቅራቢን ፋየርፎክስን ይለውጡ](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [አይ.ኤስ.አይ.ፒ.ኤን.ኤን.ን መጠቀም ከፈለጉ የ OpenNIC Tier2 ዲ ኤን ኤስ አገልግሎትን ወይም ማንኛውንም የደመና-ፍላር የዲ ኤን ኤስ አገልግሎቶችን ለመጠቀም ያስቡ ፡፡](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Cloudslare ን በዲ ኤን ኤስ አግድ ፡፡ [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - ቶርን እንደ ዲ ኤን ኤስ መፍቻ መጠቀም ይችላሉ ፡፡ [የቶር ባለሙያ ካልሆኑ እዚህ ይጠይቁ ፡፡](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - ተገቢ በሚሆንበት ጊዜ በዚህ ማከማቻ ላይ ከእነዚህ ቡድኖች ጋር ያገናኙ - ይህ በቡድን ሆነው አብሮ ለመስራት የሚያስተባብር ቦታ ሊሆን ይችላል ፡፡
 
-- [ከ Cloudflare ጋር ትርጉም ያለው የኮርፖሬት አማራጭን ሊያቀርብ የሚችል ኮፖን ይጀምሩ ፡፡](subfiles/cloudflare-alternatives.md)
+- [ከ Cloudflare ጋር ትርጉም ያለው የኮርፖሬት አማራጭን ሊያቀርብ የሚችል ኮፖን ይጀምሩ ፡፡](../subfiles/cloudflare-alternatives.md)
 
 - ከ Cloudflare ጋር ቢያንስ ብዙ የተደረደሩ መከላከያዎችን ለማቅረብ የሚረዱ ማናቸውም አማራጮችን ያሳውቁን።
 
@@ -464,4 +464,4 @@ die();
 ### አሁን ዛሬ ምን አደረጉ?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
