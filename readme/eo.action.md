@@ -448,7 +448,7 @@ Sekve ni rekomendas nur supre tabelon. Nenio alia.
 
 Rezisto estas fekunda.
 
-Eĉ iuj el la pli malhelaj rezultoj okazas, la rezista ago mem trejnas nin daŭre malstabiligi la distopan status quo, kiu rezultas.
+Eĉ iuj el la pli malhelaj rezultoj okazas, la rezista ago mem trejnas nin daŭre malstabiligi la distopan, kiu rezultas.
 
 Rezistu!
 ```
