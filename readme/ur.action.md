@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 ہمارا مشورہ ہے کہ آپ ان مخصوص خدمات یا سائٹوں کے ل the منتظمین کے پاس پہنچیں جن کے ساتھ آپ اپنے تجربے کو بانٹتے ہیں اور اس کا اشتراک کرتے ہیں۔
 ```
 
-[اگر آپ اس کے لئے طلب نہیں کرتے ہیں تو ، ویب سائٹ کے مالک کو کبھی بھی یہ مسئلہ معلوم نہیں ہوگا۔](PEOPLE.md)
+[اگر آپ اس کے لئے طلب نہیں کرتے ہیں تو ، ویب سائٹ کے مالک کو کبھی بھی یہ مسئلہ معلوم نہیں ہوگا۔](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [کامیاب مثال](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 آپ کو کوئی مسئلہ ہے؟ [اب اپنی آواز بلند کریں۔](https://github.com/maraoz/maraoz.github.io/issues/1) ذیل میں مثال
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 یہ رازداری کی پالیسی کی ایک مثال ہے جس میں کلاؤڈ فلایر لفظ نہیں ہے۔
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 کلاؤڈ فلائر کی اپنی نجی معلومات کی حفاظتی پالیسی ہے۔
 [کلاؤڈ فلایر ڈوکسنگ کرنے والے لوگوں سے محبت کرتا ہے۔](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ AFAIK ، صفر ویب سائٹ یہ کام کرتی ہے۔ کیا آپ ان پ�
 
 [ سائن اپ ] [ میں اختلاف ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - ان کی خدمت کو استعمال نہ کرنے کی کوشش کریں۔ یاد رکھنا کہ آپ کلاؤڈ فلائر کے ذریعہ دیکھ رہے ہیں۔
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - دوسری ویب سائٹ کے لئے تلاش کریں۔ انٹرنیٹ پر متبادل اور مواقع موجود ہیں!
 
 - روزانہ کی بنیاد پر اپنے دوستوں کو ٹور استعمال کرنے پر راضی کریں۔
   - گمنامی کھلی انٹرنیٹ کا معیار ہونا چاہئے!
-  - [نوٹ کریں کہ ٹور پروجیکٹ اس پراجیکٹ کو ناپسند کرتا ہے۔](HISTORY.md)
+  - [نوٹ کریں کہ ٹور پروجیکٹ اس پراجیکٹ کو ناپسند کرتا ہے۔](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ AFAIK ، صفر ویب سائٹ یہ کام کرتی ہے۔ کیا آپ ان پ�
 
 | نام | ڈویلپر | مدد کریں | بلاک کر سکتے ہیں | اطلاع دے سکتے ہیں | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **جی ہاں**     | **جی ہاں**     |  **جی ہاں** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | نہیں     | **جی ہاں**     |  **جی ہاں** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | نہیں     | **جی ہاں**     |  **جی ہاں** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **جی ہاں**     | **جی ہاں**     |  نہیں |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **جی ہاں**     | **جی ہاں**     |  **جی ہاں** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | نہیں     | **جی ہاں**     |  **جی ہاں** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | نہیں     | **جی ہاں**     |  **جی ہاں** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **جی ہاں**     | **جی ہاں**     |  نہیں |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **جی ہاں**     | **جی ہاں**     |  نہیں |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | نہیں     | **جی ہاں**     |  نہیں |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | نہیں     | **جی ہاں**     |  نہیں |
@@ -139,38 +139,38 @@ AFAIK ، صفر ویب سائٹ یہ کام کرتی ہے۔ کیا آپ ان پ�
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - کلاؤڈ فلایر حل ، پیریڈ کا استعمال نہ کریں۔
   - تم اس سے بہتر کام کر سکتے ہو نا؟ [یہاں ہے کہ کلاؤڈ فلا subs سبسکرپشنز ، منصوبے ، ڈومینز یا اکاؤنٹس کو کیسے ہٹایا جائے۔](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - مزید صارفین چاہتے ہیں؟ آپ جانتے ہیں کہ کیا کرنا ہے۔ اشارہ "اوپر کی لکیر" ہے۔
   - [ہیلو ، آپ نے "ہم آپ کی رازداری کو سنجیدگی سے لیتے ہیں" لکھا ہے لیکن مجھے "غلطی 403 حرام گمنام پراکسی اجازت نہیں" مل گئی۔](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) آپ ٹور یا وی پی این کو کیوں مسدود کررہے ہیں؟ [اور آپ عارضی ای میل کو کیوں مسدود کررہے ہیں؟](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - کلاؤڈ فلایر کے استعمال سے آوٹ ہونے کے امکانات بڑھ جائیں گے۔ زائرین آپ کی ویب سائٹ تک رسائی حاصل نہیں کرسکتے ہیں اگر آپ کا سرور بند ہے یا کلاؤڈ فلایر نیچے ہے۔
-  - [کیا آپ نے واقعی سوچا تھا کہ کلاؤڈ فلایر کبھی نیچے نہیں جاتا ہے؟](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [کیا آپ نے واقعی سوچا تھا کہ کلاؤڈ فلایر کبھی نیچے نہیں جاتا ہے؟](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - آپ کی "API سروس" ، "سافٹ ویئر اپ ڈیٹ سرور" یا "RSS فیڈ" کی پراکسی کرنے کے لئے کلاؤڈ فلایر کا استعمال آپ کے صارف کو نقصان پہنچائے گا۔ ایک گراہک نے آپ کو بلایا اور کہا کہ "میں اب آپ کا API استعمال نہیں کرسکتا" ، اور آپ کو اندازہ نہیں ہے کہ کیا ہو رہا ہے۔ کلاؤڈ فلایر خاموشی سے آپ کے صارف کو روک سکتا ہے۔ کیا آپ کو لگتا ہے کہ یہ ٹھیک ہے؟
   - بہت سے آر ایس ایس ریڈر کلائنٹ اور آر ایس ایس ریڈر آن لائن خدمت ہیں۔ اگر آپ لوگوں کو سبسکرائب کرنے کی اجازت نہیں دے رہے ہیں تو آپ آر ایس ایس فیڈ کیوں شائع کررہے ہیں؟
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - کیا آپ کو HTTPS سرٹیفکیٹ کی ضرورت ہے؟ "آئیے انکرپٹ" استعمال کریں یا اسے سی اے کمپنی سے خریدیں۔
 
 - کیا آپ کو DNS سرور درکار ہے؟ اپنا سرور ترتیب دے نہیں سکتے؟ ان کے بارے میں کیا: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (اگر آپ ٹی او آر استعمال کرتے ہیں تو ایڈمن اپنا اکاؤنٹ حذف کردیں)](https://freedns.afraid.org/)
 
 - ہوسٹنگ سروس کی تلاش ہے؟ صرف مفت؟ ان کے بارے میں کیا: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [کلاؤڈ فلایر کے متبادل](subfiles/cloudflare-alternatives.md)
+  - [کلاؤڈ فلایر کے متبادل](../subfiles/cloudflare-alternatives.md)
 
-- کیا آپ "کلاؤڈ فلائر-ipfs.com" استعمال کر رہے ہیں؟ [کیا آپ جانتے ہیں کہ کلاؤڈ فلایر آئی پی ایف ایس برا ہے؟](PEOPLE.md)
+- کیا آپ "کلاؤڈ فلائر-ipfs.com" استعمال کر رہے ہیں؟ [کیا آپ جانتے ہیں کہ کلاؤڈ فلایر آئی پی ایف ایس برا ہے؟](../PEOPLE.md)
 
 - اپنے سرور پر ویب ایپلیکیشن فائر وال جیسے OWASP اور Fail2Ban انسٹال کریں اور اسے مناسب طریقے سے تشکیل دیں۔
   - ٹور کو مسدود کرنا کوئی حل نہیں ہے۔ سب کو صرف چھوٹے برے صارفین کے لئے سزا نہ دیں۔
@@ -297,7 +297,7 @@ die();
 
 - ٹور استعمال نہیں کرنا چاہتے؟ آپ ٹور ڈیمون کے ساتھ کوئی بھی براؤزر استعمال کرسکتے ہیں۔
   - [نوٹ کریں کہ ٹور پروجیکٹ کو یہ پسند نہیں ہے۔](https://support.torproject.org/tbb/tbb-9/) اگر آپ ایسا کرنے کے قابل ہیں تو ٹور براؤزر کا استعمال کریں۔
-- [تور کے ساتھ کرومیم کا استعمال کیسے کریں](subfiles/chromium_tor.md)
+- [تور کے ساتھ کرومیم کا استعمال کیسے کریں](../subfiles/chromium_tor.md)
 
 
 آئیے دوسرے سافٹ ویئر کی رازداری کے بارے میں بات کرتے ہیں۔
@@ -377,12 +377,12 @@ die();
 - ~~موزیلا کے ٹریکر پر ایک بگ کی اطلاع دیں ، انھیں یہ بتائیں کہ کلاؤڈ فلایر کا استعمال نہ کریں۔~~ بگزیلہ پر ایک بگ رپورٹ تھی۔ بہت سے لوگوں کو ان کی تشویش پوسٹ کی گئی تھی ، تاہم بگ کو ایڈمن نے 2018 میں چھپا لیا تھا۔
 
 - آپ فائر فاکس میں ڈی ایچ ایچ کو غیر فعال کرسکتے ہیں۔
-  - [فائر فاکس کے ڈیفالٹ ڈی این ایس فراہم کنندہ کو تبدیل کریں](subfiles/change-firefox-dns.md)
+  - [فائر فاکس کے ڈیفالٹ ڈی این ایس فراہم کنندہ کو تبدیل کریں](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [اگر آپ نان آئی ایس پی ڈی این ایس کو استعمال کرنا چاہتے ہیں تو ، اوپننیک ٹائر 2 ڈی این ایس سروس یا نان-کلاؤڈ فلایر ڈی این ایس خدمات میں سے کسی کو استعمال کرنے پر غور کریں۔](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - DNS کے ساتھ کلاؤڈ فلایر کو مسدود کریں۔ [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - آپ Tor کو بطور DNS حل کرنے والا استعمال کرسکتے ہیں۔ [اگر آپ ٹور کے ماہر نہیں ہیں تو ، یہاں سوال پوچھیں۔](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - جہاں مناسب ہو ، ان ذخیروں پر ان گروپس کو لنک کریں - یہ گروپ کے طور پر مل کر کام کرنے میں ہم آہنگی کے ل. ایک جگہ ہوسکتا ہے۔
 
-- [کوئی کوپ شروع کریں جو کلاؤڈ فلایر کا ایک بامقصد غیر کارپوریٹ متبادل مہی .ا کرسکے۔](subfiles/cloudflare-alternatives.md)
+- [کوئی کوپ شروع کریں جو کلاؤڈ فلایر کا ایک بامقصد غیر کارپوریٹ متبادل مہی .ا کرسکے۔](../subfiles/cloudflare-alternatives.md)
 
 - ہمیں کم از کم کلاؤڈ فلایر کے خلاف متعدد پرتوں سے دفاع فراہم کرنے میں مدد کے لs کسی متبادل کے بارے میں بتائیں۔
 
@@ -464,4 +464,4 @@ die();
 ### اب ، آج آپ نے کیا کیا؟
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
