@@ -130,7 +130,7 @@
 
 * [這是一些PDF / ePUB可供閱讀。](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
