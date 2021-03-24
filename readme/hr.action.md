@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Preporučujemo da se obratite administratorima za određene usluge ili web stranice s kojima nailazite i podijelite svoje iskustvo.
 ```
 
-[Ako ga ne zatražite, vlasnik web mjesta nikad ne zna taj problem.](PEOPLE.md)
+[Ako ga ne zatražite, vlasnik web mjesta nikad ne zna taj problem.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Uspješan primjer](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Imaš problem? [Podignite svoj glas sada.](https://github.com/maraoz/maraoz.github.io/issues/1) Primjer u nastavku.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Ovo je primjer politike privatnosti koja nema riječ Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare imaju svoja pravila o privatnosti.
 [Cloudflare voli doxxing ljude.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Ako Cloudflare procuri vaše podatke ili vam ne dopusti povezivanje s našim pos
 
 [ Prijavite se ] [ ne slažem se ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Pokušajte ne koristiti njihovu uslugu. Sjetite se da vas promatra Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Potražite drugu web stranicu. Na internetu postoje alternative i mogućnosti!
 
 - Uvjerite svoje prijatelje da svakodnevno koriste Tor.
   - Anonimnost bi trebala biti standard otvorenog interneta!
-  - [Imajte na umu da projekt Tor ne voli ovaj projekt.](HISTORY.md)
+  - [Imajte na umu da projekt Tor ne voli ovaj projekt.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Ako Cloudflare procuri vaše podatke ili vam ne dopusti povezivanje s našim pos
 
 | Ime | Programer | Podrška | Može blokirati | Može obavijestiti | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Da**     | **Da**     |  **Da** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ne     | **Da**     |  **Da** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ne     | **Da**     |  **Da** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Da**     | **Da**     |  Ne |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Da**     | **Da**     |  **Da** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ne     | **Da**     |  **Da** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ne     | **Da**     |  **Da** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Da**     | **Da**     |  Ne |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Da**     | **Da**     |  Ne |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ne     | **Da**     |  Ne |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ne     | **Da**     |  Ne |
@@ -139,38 +139,38 @@ Ako Cloudflare procuri vaše podatke ili vam ne dopusti povezivanje s našim pos
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Nemojte koristiti Cloudflare rješenje, Razdoblje.
   - Možete i bolje od toga, zar ne? [Evo kako ukloniti pretplate, planove, domene ili račune na Cloudflare.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Želite više kupaca? Znaš što ti je činiti. Savjet je "iznad crte".
   - [Pozdrav, napisali ste "Vašu privatnost shvaćamo ozbiljno", ali dobio sam poruku "Greška 403 Zabranjeni anonimni proxy nije dopušten".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Zašto blokirate Tor ili VPN? [A zašto blokirate privremene mailove?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Korištenje Cloudflarea povećat će šanse za prekid rada. Posjetitelji ne mogu pristupiti vašoj web stranici ako vam poslužitelj ne radi ili Cloudflare ne radi.
-  - [Jeste li stvarno mislili da Cloudflare nikad neće pasti dolje?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Jeste li stvarno mislili da Cloudflare nikad neće pasti dolje?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Korištenje Cloudflarea za proksiranje vaše "API usluge", "poslužitelja za ažuriranje softvera" ili "RSS feeda" naštetit će vašem kupcu. Kupac vas je nazvao i rekao "Ne mogu više koristiti vaš API", a vi nemate pojma što se događa. Cloudflare može tiho blokirati vašeg kupca. Mislite li da je to u redu?
   - Postoji mnogo mrežnih usluga za klijente RSS čitača i RSS čitača. Zašto objavljujete RSS feed ako ne dopuštate ljudima da se pretplate?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Trebate li HTTPS certifikat? Koristite "Let's Encrypt" ili ga jednostavno kupite od tvrtke CA.
 
 - Trebate li DNS poslužitelj? Ne možete postaviti vlastiti poslužitelj? Što je s njima: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Administrator je izbrisao vaš račun ako koristite TOR)](https://freedns.afraid.org/)
 
 - Tražite uslugu hostinga? Samo besplatno? Što je s njima: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternative Cloudflareu](subfiles/cloudflare-alternatives.md)
+  - [Alternative Cloudflareu](../subfiles/cloudflare-alternatives.md)
 
-- Koristite li "cloudflare-ipfs.com"? [Znate li da je Cloudflare IPFS loš?](PEOPLE.md)
+- Koristite li "cloudflare-ipfs.com"? [Znate li da je Cloudflare IPFS loš?](../PEOPLE.md)
 
 - Instalirajte vatrozid web aplikacija, poput OWASP i Fail2Ban, na svoj poslužitelj i ispravno ga konfigurirajte.
   - Blokiranje Tor-a nije rješenje. Ne kažnjavajte sve samo zbog malih loših korisnika.
@@ -297,7 +297,7 @@ Na internetu i tehnologiji ne postoji 100% sigurno niti 100% privatno.
 
 - Ne želite koristiti Tor? Možete koristiti bilo koji preglednik s Tor demonom.
   - [Imajte na umu da se projektu Tor ovo ne sviđa.](https://support.torproject.org/tbb/tbb-9/) Koristite Tor Browser ako ste u mogućnosti to učiniti.
-- [Kako koristiti Chromium s Torom](subfiles/chromium_tor.md)
+- [Kako koristiti Chromium s Torom](../subfiles/chromium_tor.md)
 
 
 Razgovarajmo o privatnosti drugog softvera.
@@ -377,12 +377,12 @@ Stoga preporučujemo samo gornju tablicu. Ništa više.
 - ~~Prijavite grešku na mozillinom tragaču, govoreći im da ne koriste Cloudflare.~~ Bilo je izvještaja o bugovima na bugzilli. Mnogi su ljudi objavili svoju zabrinutost, no administrator je pogrešku sakrio 2018. godine.
 
 - DoH možete onemogućiti u Firefoxu.
-  - [Promijenite zadani DNS davatelj usluge firefox](subfiles/change-firefox-dns.md)
+  - [Promijenite zadani DNS davatelj usluge firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Ako želite koristiti DNS koji nije ISP, razmislite o upotrebi OpenNIC Tier2 DNS usluge ili bilo koje DNS usluge koja nije u Cloudflareu.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Blokirajte Cloudflare s DNS-om. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Tor možete koristiti kao DNS rješivač. [Ako niste stručnjak za Tor, postavite pitanje ovdje.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Stoga preporučujemo samo gornju tablicu. Ništa više.
 
 - Gdje je to potrebno, povežite se s tim skupinama u ovom spremištu - ovo može biti mjesto za koordinaciju zajedničkog rada kao grupe.
 
-- [Osnujte kooperaciju koja može pružiti značajnu nekorporacijsku alternativu Cloudflareu.](subfiles/cloudflare-alternatives.md)
+- [Osnujte kooperaciju koja može pružiti značajnu nekorporacijsku alternativu Cloudflareu.](../subfiles/cloudflare-alternatives.md)
 
 - Obavijestite nas o svim alternativama kako bismo barem pružili višeslojnu obranu od Cloudflarea.
 
@@ -464,4 +464,4 @@ U ovome nema ničeg futurističkog. Već smo izgubili.
 ### Što ste danas učinili?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
