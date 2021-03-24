@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Мо тавсия медиҳем, ки бо маъмурон дар бораи хидматҳо ё сайтҳои мушаххасе, ки дучор меоянд, муроҷиат кунед ва таҷрибаи худро мубодила кунед.
 ```
 
-[Агар шумо инро талаб накунед, соҳиби вебсайт ҳеҷ гоҳ ин мушкилотро намедонад.](PEOPLE.md)
+[Агар шумо инро талаб накунед, соҳиби вебсайт ҳеҷ гоҳ ин мушкилотро намедонад.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Намунаи муваффақ](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Шумо мушкиле доред? [Ҳозир овозатонро баланд кунед.](https://github.com/maraoz/maraoz.github.io/issues/1) Мисоли зер.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Ин намунаи сиёсати махфият мебошад, ки калимаи Cloudflare надорад.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare сиёсати махфияти худро доранд.
 [Cloudflare одамони doxxingро дӯст медорад.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ AFAIK, вебсайти сифр ин корро мекунад. Оё шумо �
 
 [ қайд кардан ] [ ман норозиям ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Кӯшиш кунед, ки хидмати онҳоро истифода набаред. Дар хотир доред, ки шуморо Cloudflare тамошо мекунад.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Вебсайти дигарро ҷустуҷӯ кунед. Дар интернет алтернативаҳо ва фурсатҳо мавҷуданд!
 
 - Дӯстони худро боварӣ бахшед, ки ҳар рӯз Торро истифода баранд.
   - Ношиносӣ бояд стандарти интернети кушод бошад!
-  - [Дар хотир доред, ки лоиҳаи Tor ин лоиҳаро бад мебинад.](HISTORY.md)
+  - [Дар хотир доред, ки лоиҳаи Tor ин лоиҳаро бад мебинад.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ AFAIK, вебсайти сифр ин корро мекунад. Оё шумо �
 
 | Ном | Таҳиякунанда | Дастгирӣ | Метавонед бастан | Огоҳ карда метавонад | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Бале**     | **Бале**     |  **Бале** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Не     | **Бале**     |  **Бале** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Не     | **Бале**     |  **Бале** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Бале**     | **Бале**     |  Не |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Бале**     | **Бале**     |  **Бале** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Не     | **Бале**     |  **Бале** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Не     | **Бале**     |  **Бале** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Бале**     | **Бале**     |  Не |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Бале**     | **Бале**     |  Не |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Не     | **Бале**     |  Не |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Не     | **Бале**     |  Не |
@@ -139,38 +139,38 @@ AFAIK, вебсайти сифр ин корро мекунад. Оё шумо �
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Ҳалли Cloudflare -ро истифода набаред, Давра.
   - Шумо метавонед аз ин беҳтар кор кунед, дуруст аст? [Ин аст тарзи нест кардани обунаҳо, нақшаҳо, домейнҳо ё ҳисобҳои Cloudflare.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Мехоҳед муштариёни бештаре доред? Шумо медонед, ки чӣ кор кардан лозим аст. Ишора "сатри боло" аст.
   - [Салом, шумо "Мо махфияти шуморо ҷиддӣ мегирем" навиштед, аммо ман "Хатои 403 Прокси-и манъшудаи беном иҷозат дода нашуд" -ро гирифтам.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Чаро шумо Tor ё VPN-ро бастанӣ ҳастед? [Ва чаро шумо мактубҳои муваққатиро маҳдуд мекунед?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Истифодаи Cloudflare имкон медиҳад, ки қатъ шавад. Агар сервери шумо кор намекунад ё Cloudflare кор намекунад, меҳмонон ба вебсайти шумо дастрасӣ дошта наметавонанд.
-  - [Оё шумо дар ҳақиқат фикр кардед, ки Cloudflare ҳеҷ гоҳ поён намеёбад?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Оё шумо дар ҳақиқат фикр кардед, ки Cloudflare ҳеҷ гоҳ поён намеёбад?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Истифодаи Cloudflare барои прокси "хидмати API", "сервери навсозии нармафзор" ё "RSS feed" ба муштарии шумо зарар мерасонад. Муштарӣ ба шумо занг зад ва гуфт: "Ман дигар API-и шуморо истифода карда наметавонам" ва шумо тасаввуроте ҳам надоред. Cloudflare метавонад хомӯшона муштарии шуморо бандад. Ба фикри шумо, хуб аст?
   - Бисёр муштарии RSS Reader ва хидмати онлайнии RSS Reader вуҷуд доранд. Чаро шумо RSS-листро нашр мекунед, агар шумо ба одамон обуна шуданро иҷозат надиҳед?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Ба шумо шаҳодатномаи HTTPS лозим аст? "Let's Encrypt" -ро истифода баред ё танҳо онро аз ширкати CA харед.
 
 - Ба шумо сервери DNS лозим аст? Сервери худро насб карда наметавонед? Чӣ тавр онҳо: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Агар шумо TOR -ро истифода баред, администратор ҳисоби худро нест кунед)](https://freedns.afraid.org/)
 
 - Дар ҷустуҷӯи хидмати хостинг ҳастед? Танҳо ройгон? Чӣ тавр онҳо: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Алтернативаҳо ба Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Алтернативаҳо ба Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Оё шумо "cloudflare-ipfs.com" -ро истифода мебаред? [Оё шумо медонед, ки Cloudflare IPFS бад аст?](PEOPLE.md)
+- Оё шумо "cloudflare-ipfs.com" -ро истифода мебаред? [Оё шумо медонед, ки Cloudflare IPFS бад аст?](../PEOPLE.md)
 
 - Сипар веб-барномаро ба монанди OWASP ва Fail2Ban дар сервери худ насб кунед ва дуруст танзим кунед.
   - Бастани Tor роҳи ҳал нест. Ҳама танҳо барои корбарони хурди бад ҷазо надиҳед.
@@ -297,7 +297,7 @@ die();
 
 - Намехоҳед Tor -ро истифода кунед? Шумо метавонед ҳама гуна браузерро бо daemon Tor истифода баред.
   - [Аҳамият диҳед, ки лоиҳаи Тор ба ин маъқул нест.](https://support.torproject.org/tbb/tbb-9/) Агар шумо ин корро карда тавонед, Tor Browser -ро истифода баред.
-- [Тарзи истифодаи Chromium бо Tor](subfiles/chromium_tor.md)
+- [Тарзи истифодаи Chromium бо Tor](../subfiles/chromium_tor.md)
 
 
 Биёед дар бораи махфияти нармафзори дигар сӯҳбат кунем.
@@ -377,12 +377,12 @@ die();
 - ~~Дар бораи хато дар трекери mozilla хабар диҳед ва ба онҳо бигӯед, ки Cloudflare -ро истифода набаранд.~~ Дар бораи bugzilla гузориши хатогӣ буд. Бисёр одамон нигаронии худро нашр карданд, аммо хатогӣ аз ҷониби администратор дар соли 2018 пинҳон карда шуд.
 
 - Шумо метавонед DoH-ро дар Firefox хомӯш кунед.
-  - [Провайдери пешфарз DNS-и firefox -ро иваз кунед](subfiles/change-firefox-dns.md)
+  - [Провайдери пешфарз DNS-и firefox -ро иваз кунед](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Агар шумо хоҳед, ки DNS-и ғайримасъули интернетро истифода баред, дар бораи истифодаи хадамоти OpenNIC Tier2 DNS ё ягон хидмати ғайри Cloudflare DNS фикр кунед.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Бастани Cloudflare бо DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Шумо метавонед Tor -ро ҳамчун ҳалкунандаи DNS истифода баред. [Агар шумо коршиноси Tor набошед, дар ин ҷо савол диҳед.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - Дар ҳолати зарурӣ, ба ин гурӯҳҳо дар ин анбор пайваст шавед - ин метавонад ҷои ҳамоҳангсозии кор бо як гурӯҳ бошад.
 
-- [Коопе, ки метавонад алтернативаи пурмазмуни ғайри корпоративиро ба Cloudflare пешниҳод кунад, оғоз кунед.](subfiles/cloudflare-alternatives.md)
+- [Коопе, ки метавонад алтернативаи пурмазмуни ғайри корпоративиро ба Cloudflare пешниҳод кунад, оғоз кунед.](../subfiles/cloudflare-alternatives.md)
 
 - Дар бораи ҳама гуна алтернативаҳо ба мо хабар диҳед, ки ҳадди аққал барои муҳофизати сершумори қабати зидди Cloudflare кӯмак кунанд.
 
@@ -464,4 +464,4 @@ die();
 ### Акнун, шумо имрӯз чӣ кор кардед?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
