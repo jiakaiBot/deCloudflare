@@ -130,7 +130,7 @@
 
 * [پڑھنے کے لئے کچھ پی ڈی ایف / ای پی یو بی یہ ہے۔](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
