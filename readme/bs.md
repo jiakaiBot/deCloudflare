@@ -128,7 +128,7 @@ Ovo skladište predstavlja listu web stranica koje stoje iza "Velikog oblačnog 
 
 * [Evo nekih PDF / ePUB-a za čitanje.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
