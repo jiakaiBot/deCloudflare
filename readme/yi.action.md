@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 מיר רעקאָמענדירן צו דערגרייכן די אַדמיניסטראַטאָרס פֿאַר די ספּעציפיש באַדינונגען אָדער זייטלעך וואָס איר האָט געפֿונען און טיילן דיין דערפאַרונג.
 ```
 
-[אויב איר טאָן ניט פרעגן פֿאַר דעם, די באַזיצער פון די וועבזייטל קען קיינמאָל וויסן דעם פּראָבלעם.](PEOPLE.md)
+[אויב איר טאָן ניט פרעגן פֿאַר דעם, די באַזיצער פון די וועבזייטל קען קיינמאָל וויסן דעם פּראָבלעם.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [מצליח ביישפּיל](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 איר האָט אַ פּראָבלעם? [הייבן דיין קול איצט.](https://github.com/maraoz/maraoz.github.io/issues/1) בייַשפּיל אונטן.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 דאָס איז אַ ביישפּיל פון פּריוואַטקייט פּאָליטיק וואָס טוט נישט האָבן די וואָרט Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 קלאָודפלאַרע האָבן זייער אייגענע פּריוואַטקייט פּאָליטיק.
 [קלאָודפלאַרע ליב דאָקסקינג מענטשן.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ AFAIK, נול וועבזייטל טאָן דאָס. וועט איר צוטרוי
 
 [ צייכן אַרויף ] [ איך שטום נישט צו ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - פּרובירן נישט צו נוצן זייער דינסט. געדענק אַז קלאָודפלאַרע וואַטשינג איר.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - זוכן פֿאַר אנדערע וועבזייטל. עס זענען אַלטערנאַטיוועס און אַפּערטונאַטיז אויף די אינטערנעט!
 
 - איבערצייגן דיין פרענדז צו נוצן Tor טעגלעך.
   - אַנאָנימיטי זאָל זיין דער נאָרמאַל פון די עפענען אינטערנעט!
-  - [טאָן אַז דער Tor פּרויעקט דיסלייקס דעם פּרויעקט.](HISTORY.md)
+  - [טאָן אַז דער Tor פּרויעקט דיסלייקס דעם פּרויעקט.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ AFAIK, נול וועבזייטל טאָן דאָס. וועט איר צוטרוי
 
 | נאָמען | דעוועלאָפּער | שטיצן | קענען בלאַק | קענען געבנ צו וויסן | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **יאָ**     | **יאָ**     |  **יאָ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | ניין     | **יאָ**     |  **יאָ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | ניין     | **יאָ**     |  **יאָ** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **יאָ**     | **יאָ**     |  ניין |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **יאָ**     | **יאָ**     |  **יאָ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | ניין     | **יאָ**     |  **יאָ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | ניין     | **יאָ**     |  **יאָ** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **יאָ**     | **יאָ**     |  ניין |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **יאָ**     | **יאָ**     |  ניין |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ניין     | **יאָ**     |  ניין |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | ניין     | **יאָ**     |  ניין |
@@ -139,38 +139,38 @@ AFAIK, נול וועבזייטל טאָן דאָס. וועט איר צוטרוי
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - דו זאלסט נישט נוצן Cloudflare לייזונג, פּעריאָד.
   - איר קענען טאָן בעסער ווי אַז, רעכט? [דאָ איז ווי צו באַזייַטיקן סאַבסקריפּשאַנז אויף Cloudflare, פּלאַנז, דאָומיינז אָדער אַקאַונץ.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - וועלן מער קאַסטאַמערז? איר וויסן וואָס צו טאָן. אָנצוהערעניש איז "אויבן שורה".
   - [העלא, איר האָט געשריבן "מיר נעמען דיין פּריוואַטקייט עמעס" אָבער איך גאַט "טעות 403 פאַרבאָטן אַנאָנימע באַנוצערס פּראַקסי ניט ערלויבט".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) פארוואס בלאקירט איר Tor Or VPN? [און פארוואס בלאקירט איר צייטווייליגע אימעילס?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - ניצן קלאָודפלאַרע וועט פאַרגרעסערן גיכער פון אַ אַוטידזש. וויזאַטערז קענען נישט אַקסעס צו דיין וועבזייטל אויב דיין סערווער איז אַראָפּ אָדער Cloudflare איז אַראָפּ.
-  - [צי האָט איר טאַקע טראַכטן קלאָודפלאַרע קיינמאָל גיין אַראָפּ?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [צי האָט איר טאַקע טראַכטן קלאָודפלאַרע קיינמאָל גיין אַראָפּ?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - ניצן קלאָודפלאַרע צו פּראַקסי דיין "אַפּי דינסט", "ווייכווארג דערהייַנטיקן סערווער" אָדער "רסס קאָרמען" וועט שאַטן דיין קונה. א קונה האָט גערופֿן צו דיר און האָט געזאָגט "איך קען ניט נוצן דיין API ענימאָר", און איר האָט קיין געדאַנק וואָס איז געשעעניש. קלאָודפלאַרע קענען בישטיקע פאַרשפּאַרן דיין קונה. צי איר טראַכטן עס איז אָוקיי?
   - עס זענען פילע RSS לייענער קליענט און RSS לייענער אָנליין סערוויס. פארוואס דרוקן איר RSS קאָרמען אויב איר טאָן ניט לאָזן מענטשן אַבאָנירן?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - צי איר דאַרפֿן הטטפּס באַווייַזן? ניצן "זאל ס ענקריפּט" אָדער נאָר קויפן עס פון CA פירמע.
 
 - צי איר דאַרפֿן דנס סערווער? קענען ניט שטעלן דיין אייגענע סערווער? ווי וועגן זיי: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (אַדמיניסטראַטאָר ויסמעקן דיין חשבון אויב איר נוצן TOR)](https://freedns.afraid.org/)
 
 - איר זוכט פֿאַר האָסטינג דינסט? פריי נאָר? ווי וועגן זיי: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [אַלטערנאַטיוועס צו קלאָודפלאַרע](subfiles/cloudflare-alternatives.md)
+  - [אַלטערנאַטיוועס צו קלאָודפלאַרע](../subfiles/cloudflare-alternatives.md)
 
-- זענט איר ניצן "cloudflare-ipfs.com"? [צי איר וויסן CloudFlare IPFS איז שלעכט?](PEOPLE.md)
+- זענט איר ניצן "cloudflare-ipfs.com"? [צי איר וויסן CloudFlare IPFS איז שלעכט?](../PEOPLE.md)
 
 - ינסטאַלירן וועב אַפּלאַקיישאַן Firewall אַזאַ ווי OWASP און Fail2Ban אויף דיין סערווער און קאַנפיגיער עס רעכט.
   - בלאַקינג טאָר איז נישט אַ לייזונג. דו זאלסט נישט באַשטראָפן אַלעמען נאָר פֿאַר קליין שלעכט וסערס.
@@ -297,7 +297,7 @@ die();
 
 - טאָן ניט וועלן צו נוצן Tor? איר קענען נוצן קיין בלעטערער מיט Tor daemon.
   - [באַמערקונג אַז דער Tor פּרויעקט קען נישט ווי דאָס.](https://support.torproject.org/tbb/tbb-9/) ניצן Tor Browser אויב איר קענען דאָס.
-- [ווי צו נוצן Chromium מיט Tor](subfiles/chromium_tor.md)
+- [ווי צו נוצן Chromium מיט Tor](../subfiles/chromium_tor.md)
 
 
 זאל ס רעדן וועגן די פּריוואַטקייט פון אנדערע ווייכווארג.
@@ -377,12 +377,12 @@ die();
 - ~~באריכט אַ זשוק אויף מאָזיללאַ ס טראַקער, און זיי זאָגן זיי נישט נוצן קלאָודפלאַרע.~~ עס איז געווען אַ זשוק באַריכט וועגן בוגזיללאַ. פילע מענטשן האָבן אַרייַנגעשיקט זייער דייַגע, אָבער דער זשוק איז געווען פאַרבאָרגן דורך דער אַדמיניסטראַטאָר אין 2018.
 
 - איר קענען דיסייבאַל דאָה אין Firefox.
-  - [טוישן פעליקייַט דנס שפּייַזער פון Firefox](subfiles/change-firefox-dns.md)
+  - [טוישן פעליקייַט דנס שפּייַזער פון Firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [אויב איר ווילט צו נוצן ניט-יספּ דנס, באַטראַכטן ניצן OpenNIC Tier2 דנס סערוויס אָדער קיין פון ניט-קלאָודפלאַרע דנס באַדינונגס.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - פאַרשפּאַרן קלאָודפלאַרע מיט דנס. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - איר קענען נוצן Tor ווי דנס רעסאָלווער. [אויב איר זענט נישט Tor מומחה, פרעגן קשיא דאָ.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - וווּ צונעמען, לינק צו די גרופּעס אויף דעם ריפּאַזאַטאָרי - דאָס קען זיין אַ פּלאַץ פֿאַר קאָואָרדאַנייטינג ארבעטן צוזאַמען ווי גרופּעס.
 
-- [אָנהייבן אַ קאָאָפּ וואָס קענען צושטעלן אַ מינינגפאַל אָלטערנאַטיוו אָלטערנאַטיוו צו Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [אָנהייבן אַ קאָאָפּ וואָס קענען צושטעלן אַ מינינגפאַל אָלטערנאַטיוו אָלטערנאַטיוו צו Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - לאָזן אונדז וויסן וועגן קיין אַלטערנאַטיוועס צו העלפֿן לפּחות צושטעלן קייפל לייערד פאַרטיידיקונג קעגן קלאָודפלאַרע.
 
@@ -464,4 +464,4 @@ die();
 ### איצט, וואָס האָט איר טאָן הייַנט?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
