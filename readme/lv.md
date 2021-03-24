@@ -128,7 +128,7 @@
 
 * [Šeit ir daži lasāmie PDF / ePUB.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
