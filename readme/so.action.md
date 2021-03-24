@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Waxaan kugula talineynaa inaad la xiriirto maamulayaasha adeegyada ama boggaga gaarka ah ee aad dhibaatada kala kulanto oo aad la wadaagto khibradaada.
 ```
 
-[Haddii aadan weydiisan, milkiilaha degelku weligiis ma ogaan doono dhibaatadan.](PEOPLE.md)
+[Haddii aadan weydiisan, milkiilaha degelku weligiis ma ogaan doono dhibaatadan.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Tusaale guul leh](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Dhibaato ayaad qabtaa? [Codkaaga hada kor uqaad.](https://github.com/maraoz/maraoz.github.io/issues/1) Tusaalaha hoose.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Tani waa tusaale siyaasad gaar ah oo aan lahayn erayga Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare waxay leeyihiin siyaasadooda u gaarka ah.
 [Cloudflare wuxuu jecel yahay dadka da 'yarta ah.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Haddii Cloudflare ay daadato macluumaadkaaga ama aysan kuu oggolaan doonin inaad
 
 [ Saxiix ] [ Waan diidanahay ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Isku day inaadan adeegsan adeegooda. Xusuusnow waxaa ku daawanaya Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Raadi degel kale. Waxaa jira badallo iyo fursado internetka!
 
 - Ku qanci saaxiibbadaa inay adeegsadaan Tor maalin kasta.
   - Aqoonsi la'aantu waa inay noqotaa halbeegga internetka furan!
-  - [Xusuusnow in mashruuca Tor uusan necbayn mashruucan.](HISTORY.md)
+  - [Xusuusnow in mashruuca Tor uusan necbayn mashruucan.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Haddii Cloudflare ay daadato macluumaadkaaga ama aysan kuu oggolaan doonin inaad
 
 | Magaca | Horumar | Taageero | Joojin Karaa | Ogeysiin karaa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Haa**     | **Haa**     |  **Haa** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Maya     | **Haa**     |  **Haa** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Maya     | **Haa**     |  **Haa** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Haa**     | **Haa**     |  Maya |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Haa**     | **Haa**     |  **Haa** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Maya     | **Haa**     |  **Haa** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Maya     | **Haa**     |  **Haa** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Haa**     | **Haa**     |  Maya |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Haa**     | **Haa**     |  Maya |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Maya     | **Haa**     |  Maya |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Maya     | **Haa**     |  Maya |
@@ -139,38 +139,38 @@ Haddii Cloudflare ay daadato macluumaadkaaga ama aysan kuu oggolaan doonin inaad
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Ha isticmaalin xalka Cloudflare, Muddada.
   - Waad ka fiicnaan kartaa taas, sax? [Waa tan sida looga saaro diiwaangelinta Cloudflare, qorshayaasha, bogagga, ama koontooyinka.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ma rabtaa macaamiil badan? Waad ogtahay waxa la sameeyo. Tilmaamku waa "khadka sare".
   - [Waad salaaman tahay, waxaad qortay "Waxaan u qaadaneynaa arimahaaga gaarka ah si dhab ah" laakiin waxaan helay "Error 403 Rexy Anonymous Proxy Lama ogola".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Maxaad u xireysaa Tor Or VPN? [Oo maxaad u xannibaysaa emayllada ku meel gaarka ah?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Isticmaalka Cloudflare waxay kordhin doontaa fursadaha go'itaanka. Soo-booqdayaashu ma geli karaan websaydhkaaga haddii server-kaagu hoos u socdo ama Cloudflare uu hoos u dhaco.
-  - [Runtii miyaad u maleyneysay in Cloudflare uusan waligiis hoos u dhicin?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Runtii miyaad u maleyneysay in Cloudflare uusan waligiis hoos u dhicin?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Isticmaalka Cloudflare si aad wakiil uga dhigto "adeeggaaga API", "serverka cusbooneysiinta softiweerka" ama "RSS feed" ayaa waxyeellayn doonta macmiilkaaga. Qof macaamil ah ayaa ku soo wacay oo ku yiri "mar dambe ma isticmaali karo API-gaaga", wax fikrad ahna kama lihid waxa socda. Cloudflare ayaa si aamusnaan ah u xannibaya macmiilkaaga. Ma kula tahay inay caadi tahay?
   - Waxaa jira macmiil aqristaha akhristaha RSS iyo adeegga khadka tooska ah ee akhristaha RSS. Maxaad u faafineysaa quudinta RSS haddii aadan dadka u oggolaanayn inay isdiiwaangeliyaan?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Ma u baahan tahay shahaadada HTTPS? Adeegso "Aynu Encrypt" ama ka iibso shirkadda CA.
 
 - Ma u baahan tahay server-ka DNS? Ma sameyn kartid server-kaaga? Sidee iyaga ku saabsan: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Maamulka tirtiro koontadaada haddii aad isticmaasho TOR)](https://freedns.afraid.org/)
 
 - Ma raadineysaa adeeg martigelin ah? Bilaash kaliya? Sidee iyaga ku saabsan: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Beddelka Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Beddelka Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Ma isticmaaleysaa "Cloudflare-ipfs.com"? [Ma ogtahay in Cloudflare IPFS uu xun yahay?](PEOPLE.md)
+- Ma isticmaaleysaa "Cloudflare-ipfs.com"? [Ma ogtahay in Cloudflare IPFS uu xun yahay?](../PEOPLE.md)
 
 - Ku rakib Firewall Codsiga Webka sida OWASP iyo Fail2Ban ee server-kaaga oo si sax ah u qaabee.
   - Joojinta Tor xal maahan. Ha ku ciqaabin qof walba kaliya isticmaaleyaasha xun ee xun.
@@ -297,7 +297,7 @@ Ma jiro 100% amaan ah ama 100% gaar ah internetka iyo tikniyoolajiyadda.
 
 - Miyaadan rabin inaad isticmaasho Tor? Waxaad u adeegsan kartaa biraawsar kasta Tor daemon.
   - [Ogsoonow in mashruuca Tor uusan sidan jeclayn.](https://support.torproject.org/tbb/tbb-9/) Isticmaal Tor Browser haddii aad awoodo inaad sidaas sameyso.
-- [Sida loogu isticmaalo Chromium Tor](subfiles/chromium_tor.md)
+- [Sida loogu isticmaalo Chromium Tor](../subfiles/chromium_tor.md)
 
 
 Aynu ka hadalno waxyaabaha kale ee gaarka ah ee software-ka.
@@ -377,12 +377,12 @@ Sidaa darteed waxaan kugula talineynaa miiska kor ku xusan oo keliya. Wax kale m
 - ~~Ka warbixi cayayaanka mozilla tracker, adoo u sheegaya inaysan isticmaalin Cloudflare.~~ Waxaa jiray warbixin cillad ku saabsan bugzilla. Dad badan ayaa la soo dhigay dareenkooda, si kastaba ha ahaatee cayayaanka ayaa qariyey maamulka sanadka 2018.
 
 - Waad ka joojin kartaa DoH Firefox.
-  - [Beddel bixiyaha DNS-ka ah ee Firefox](subfiles/change-firefox-dns.md)
+  - [Beddel bixiyaha DNS-ka ah ee Firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Haddii aad jeclaan lahayd inaad isticmaasho DNS aan ISP ahayn, tixgeli adeegsiga adeegga OpenNIC Tier2 DNS ama mid ka mid ah adeegyada aan Cloudflare DNS ahayn.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Ka jooji Cloudflare leh DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Waxaad u isticmaali kartaa Tor sida xalliyaha DNS. [Haddii aadan aheyn khabiir Tor, halkaan weydii su'aal.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Sidaa darteed waxaan kugula talineynaa miiska kor ku xusan oo keliya. Wax kale m
 
 - Meeshii ku habboon, ku xiriir kooxahaan kaydkan - tani waxay noqon kartaa goob isku dubaridka wada shaqeynta koox ahaan.
 
-- [Bilow coof kaas oo bixin kara beddelaad aan shirkad ahayn oo macno leh Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Bilow coof kaas oo bixin kara beddelaad aan shirkad ahayn oo macno leh Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Noosoo sheeg wax kasta oo beddelaad ah si aan uga caawino ugu yaraan bixinta difaac dhowr lakab ah oo ka dhan ah Cloudflare.
 
@@ -464,4 +464,4 @@ Ma jiro wax mustaqbal ah oo ku saabsan tan. Mar hore ayaynu khasaarnay.
 ### Hadda, maxaad maanta qabatay?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
