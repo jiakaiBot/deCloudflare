@@ -128,7 +128,7 @@ Jalada hili ni orodha ya tovuti ambazo ziko nyuma "Cloudwall Kubwa", zinazuia wa
 
 * [Hapa kuna PDF / ePUB ya kusoma.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
