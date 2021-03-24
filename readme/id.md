@@ -128,7 +128,7 @@ Repositori ini adalah daftar situs web yang berada di belakang "The Great Cloudw
 
 * [Berikut beberapa PDF / ePUB untuk dibaca.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
