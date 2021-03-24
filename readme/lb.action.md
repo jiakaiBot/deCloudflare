@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Mir recommandéieren Iech un d'Administrateuren ze ruffen fir déi spezifesch Servicer oder Site mat deenen Dir erauskënnt an Är Experienz deelen.
 ```
 
-[Wann Dir et net frot, de Besëtzer vum Site weess dëse Problem ni.](PEOPLE.md)
+[Wann Dir et net frot, de Besëtzer vum Site weess dëse Problem ni.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Erfollegräich Beispill](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Dir hutt e Problem? [Héich Är Stëmm elo.](https://github.com/maraoz/maraoz.github.io/issues/1) Beispill hei drënner.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Dëst ass e Beispill vu Privatsphärpolitik déi net d'Wuert Cloudflare huet.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare hunn hir eege Privatsphärpolitik.
 [Cloudflare huet gär doxxing Leit.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Wann Cloudflare Är Informatioun leckt oder Iech net erlaabt Iech mat eise Serve
 
 [ Sech umellen ] [ Ech stëmmen net zou ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Probéiert net hire Service ze benotzen. Denkt drun datt Dir vu Cloudflare iwwerwaacht gëtt.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Sicht eng aner Websäit. Et ginn Alternativen an Opportunitéiten um Internet!
 
 - Iwwerzeegt Är Frënn fir den Tor all Dag ze benotzen.
   - Anonymitéit soll de Standard vum oppenen Internet sinn!
-  - [Bedenkt datt den Tor-Projet dëse Projet net gär huet.](HISTORY.md)
+  - [Bedenkt datt den Tor-Projet dëse Projet net gär huet.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Wann Cloudflare Är Informatioun leckt oder Iech net erlaabt Iech mat eise Serve
 
 | Numm | Entwéckler | Ënnerstëtzung | Kann Blockéieren | Kann Bescheed soen | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **jo**     | **jo**     |  **jo** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nee     | **jo**     |  **jo** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nee     | **jo**     |  **jo** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **jo**     | **jo**     |  Nee |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **jo**     | **jo**     |  **jo** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nee     | **jo**     |  **jo** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nee     | **jo**     |  **jo** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **jo**     | **jo**     |  Nee |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **jo**     | **jo**     |  Nee |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nee     | **jo**     |  Nee |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nee     | **jo**     |  Nee |
@@ -139,38 +139,38 @@ Wann Cloudflare Är Informatioun leckt oder Iech net erlaabt Iech mat eise Serve
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Benotzt net Cloudflare Léisung, Period.
   - Dir kënnt besser wéi dat maachen, richteg? [Hei ass wéi Dir Cloudflare Abonnementer, Pläng, Domainen oder Konten ewechhuelt.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Wëllt méi Clienten? Dir wësst wat ze maachen. Hiweis ass "iwwer Linn".
   - [Moien, Dir hutt geschriwwen "Mir huelen Är Privatsphär eescht" awer ech krut "Feeler 403 Verbueden Anonyme Proxy Net Erlaabt".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Firwat blockéiert Dir Tor Or VPN? [A firwat blockéiert Dir temporär E-Mailen?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Cloudflare benotze wäert d'Chance fir en Ausfall erhéijen. Besucher kënnen net op Är Websäit zougräifen wann Äre Server erofgeet oder Cloudflare erof ass.
-  - [Hutt Dir wierklech geduecht datt Cloudflare ni erofgeet?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Hutt Dir wierklech geduecht datt Cloudflare ni erofgeet?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Benotzt Cloudflare fir Äre "API Service", "Software Update Server" oder "RSS Feed" ze proxyen, wäert Äre Client schueden. E Client huet Iech ugeruff a sot "Ech kann Är API net méi benotzen", an Dir hutt keng Ahnung wat leeft. Cloudflare kann Äre Client roueg blockéieren. Mengt Dir datt et an der Rei ass?
   - Et gi vill RSS Reader Client an RSS Reader Online Service. Firwat publizéiert Dir RSS Feed wann Dir d'Leit net erlaabt Iech ze abonnéieren?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Braucht Dir HTTPS Zertifika? Benotzt "Let's Encrypt" oder kaaft et just vun der CA Firma.
 
 - Braucht Dir DNS Server? Kann net Ären eegene Server opbauen? Wéi wier et mat hinnen: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin läscht Äre Kont wann Dir TOR benotzt)](https://freedns.afraid.org/)
 
 - Dir sicht Hosting Service? Nëmme gratis? Wéi wier et mat hinnen: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternativen zu Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Alternativen zu Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Benotzt Dir "cloudflare-ipfs.com"? [Wësst Dir Cloudflare IPFS ass schlecht?](PEOPLE.md)
+- Benotzt Dir "cloudflare-ipfs.com"? [Wësst Dir Cloudflare IPFS ass schlecht?](../PEOPLE.md)
 
 - Installéiert Web Application Firewall wéi OWASP a Fail2Ban op Ärem Server a konfiguréiert se richteg.
   - Tor blockéieren ass keng Léisung. Strof net jiddereen nëmme fir kleng schlecht Benotzer.
@@ -297,7 +297,7 @@ Et gëtt weder 100% sécher nach 100% privat um Internet an Technologie.
 
 - Wëllt Dir net Tor benotzen? Dir kënnt all Browser mat Tor Daemon benotzen.
   - [Bedenkt datt den Tor Projet dëst net gär huet.](https://support.torproject.org/tbb/tbb-9/) Benotzt den Tor Browser wann Dir et fäerdeg bréngt.
-- [Wéi benotzt Dir Chrom mat Tor](subfiles/chromium_tor.md)
+- [Wéi benotzt Dir Chrom mat Tor](../subfiles/chromium_tor.md)
 
 
 Loosst eis iwwer d'Privatsphär vun der anerer Software schwätzen.
@@ -377,12 +377,12 @@ Dofir recommandéiere mir nëmmen uewen Dësch. Näischt anescht.
 - ~~Bericht e Feeler am Mozilla Tracker, sot hinnen se net Cloudflare benotzen.~~ Et war e Feelerbericht iwwer bugzilla. Vill Leit hunn hir Suerg gepost, awer de Feeler gouf vum Admin am Joer 2018 verstoppt.
 
 - Dir kënnt DoH am Firefox deaktivéieren.
-  - [Ännert Standard DNS Provider vu Firefox](subfiles/change-firefox-dns.md)
+  - [Ännert Standard DNS Provider vu Firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Wann Dir Net-ISP DNS benotze wëllt, denkt un d'OpenNIC Tier2 DNS Service oder ee vun net Cloudflare DNS Servicer ze benotzen.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Block Cloudflare mat DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Dir kënnt Tor als DNS Resolver benotzen. [Wann Dir keen Tor Expert sidd, frot hei d'Fro.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Dofir recommandéiere mir nëmmen uewen Dësch. Näischt anescht.
 
 - Wou passend, Link op dës Gruppen op dësem Repository - dëst kann eng Plaz sinn fir ze koordinéieren, als Gruppen zesummen ze schaffen.
 
-- [Start e Coop dat eng sënnvoll net korporativ Alternativ zu Cloudflare kann ubidden.](subfiles/cloudflare-alternatives.md)
+- [Start e Coop dat eng sënnvoll net korporativ Alternativ zu Cloudflare kann ubidden.](../subfiles/cloudflare-alternatives.md)
 
 - Loosst eis vun all Alternativen wëssen fir op d'mannst ze hëllefen e puer Schicht Verteidegung géint Cloudflare ze bidden.
 
@@ -464,4 +464,4 @@ Do ass näischt futuristesches. Mir hu scho verluer.
 ### Elo, wat hutt Dir haut gemaach?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
