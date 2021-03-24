@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Tikukulimbikitsani kuti mulumikizane ndi oyang'anira pazantchito kapena masamba omwe mungakumane nawo ndikugawana zomwe mwakumana nazo.
 ```
 
-[Ngati simunapemphe izi, mwini webusayiti sakudziwa vuto ili.](PEOPLE.md)
+[Ngati simunapemphe izi, mwini webusayiti sakudziwa vuto ili.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Chitsanzo chabwino](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Muli ndi vuto? [Kwezani mawu anu tsopano.](https://github.com/maraoz/maraoz.github.io/issues/1) Chitsanzo pansipa.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Ichi ndi chitsanzo cha mfundo zazinsinsi zomwe zilibe mawu oti Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare ali ndi mfundo zawo zachinsinsi.
 [Cloudflare amakonda anthu ogonana.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Ngati Cloudflare atulutsa zambiri zanu kapena sangakuloleni kuti mulumikizane nd
 
 [ Lowani ] [ Sindikuvomereza ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Yesetsani kugwiritsa ntchito ntchito yawo. Kumbukirani kuti mukuyang'aniridwa ndi Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Sakani tsamba lina. Pali njira zina ndi mwayi pa intaneti!
 
 - Onetsetsani anzanu kuti azigwiritsa ntchito Tor tsiku lililonse.
   - Kusadziwika kuyenera kukhala muyezo wa intaneti yotseguka!
-  - [Dziwani kuti polojekiti ya Tor sakonda ntchitoyi.](HISTORY.md)
+  - [Dziwani kuti polojekiti ya Tor sakonda ntchitoyi.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Ngati Cloudflare atulutsa zambiri zanu kapena sangakuloleni kuti mulumikizane nd
 
 | Dzina | Mapulogalamu | Thandizo | Ikhoza Kutseka | Mungadziwitse | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Inde**     | **Inde**     |  **Inde** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ayi     | **Inde**     |  **Inde** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ayi     | **Inde**     |  **Inde** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Inde**     | **Inde**     |  Ayi |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Inde**     | **Inde**     |  **Inde** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ayi     | **Inde**     |  **Inde** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ayi     | **Inde**     |  **Inde** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Inde**     | **Inde**     |  Ayi |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Inde**     | **Inde**     |  Ayi |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ayi     | **Inde**     |  Ayi |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ayi     | **Inde**     |  Ayi |
@@ -139,38 +139,38 @@ Ngati Cloudflare atulutsa zambiri zanu kapena sangakuloleni kuti mulumikizane nd
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Musagwiritse ntchito Cloudflare solution, Period.
   - Mutha kuchita bwino kuposa pamenepo, sichoncho? [Umu ndi momwe mungachotsere zolembetsa za Cloudflare, mapulani, madomeni, kapena maakaunti.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Mukufuna makasitomala ambiri? Mukudziwa choti muchite. Malangizo ndi "pamwambapa".
   - [Moni, mudalemba kuti "Timatenga chinsinsi chanu mozama" koma ndidapeza "Zolakwitsa 403 Proxy Yoletsedwa Osadziwika Osaloledwa".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Chifukwa chiyani muletsa Tor Or VPN? [Ndipo bwanji mukutseka maimelo osakhalitsa?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Kugwiritsa ntchito Cloudflare kumakulitsa mwayi wotuluka. Alendo sangathe kulowa patsamba lanu ngati seva yanu ili pansi kapena Cloudflare ili pansi.
-  - [Kodi mukuganiza kuti Cloudflare sanapiteko?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Kodi mukuganiza kuti Cloudflare sanapiteko?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Kugwiritsa ntchito Cloudflare kuti tikuthandizireni "API service" yanu, "software update server" kapena "RSS feed" kungavulaze kasitomala wanu. Makasitomala adakuyimbirani nati "Sindingagwiritsenso ntchito API yanu", ndipo simudziwa zomwe zikuchitika. Cloudflare ikhoza kulepheretsa kasitomala wanu mwakachetechete. Kodi mukuganiza kuti zili bwino?
   - Pali makasitomala ambiri owerenga RSS komanso RSS owerenga pa intaneti. Chifukwa chiyani mukufalitsa RSS feed ngati simukuloleza anthu kuti azilembetsa?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Kodi mukufuna setifiketi ya HTTPS? Gwiritsani ntchito "Tiyeni Encrypt" kapena ingogulani kuchokera ku kampani ya CA.
 
 - Kodi mukufuna seva ya DNS? Kodi simungathe kukhazikitsa seva yanu? Nanga bwanji za iwo: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin chotsani akaunti yanu ngati mugwiritsa ntchito TOR)](https://freedns.afraid.org/)
 
 - Mukuyang'ana kuchititsa kuchititsa? Zaulere zokha? Nanga bwanji za iwo: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Njira zina ku Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Njira zina ku Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Mukugwiritsa ntchito "cloudflare-ipfs.com"? [Kodi mukudziwa Cloudflare IPFS ndiyabwino?](PEOPLE.md)
+- Mukugwiritsa ntchito "cloudflare-ipfs.com"? [Kodi mukudziwa Cloudflare IPFS ndiyabwino?](../PEOPLE.md)
 
 - Ikani Web Application Firewall monga OWASP ndi Fail2Ban pa seva yanu ndikuyikonza bwino.
   - Kuletsa Tor si yankho. Osalanga aliyense chifukwa chogwiritsa ntchito zoipa ochepa.
@@ -297,7 +297,7 @@ Palibe 100% otetezeka kapena 100% achinsinsi pa intaneti komanso ukadaulo.
 
 - Simukufuna kugwiritsa ntchito Tor? Mutha kugwiritsa ntchito msakatuli aliyense ndi Tor daemon.
   - [Dziwani kuti polojekiti ya Tor sakonda izi.](https://support.torproject.org/tbb/tbb-9/) Gwiritsani ntchito msakatuli wa Tor ngati mungathe kutero.
-- [Momwe mungagwiritsire ntchito Chromium ndi Tor](subfiles/chromium_tor.md)
+- [Momwe mungagwiritsire ntchito Chromium ndi Tor](../subfiles/chromium_tor.md)
 
 
 Tiyeni tikambirane zachinsinsi cha mapulogalamu ena.
@@ -377,12 +377,12 @@ Chifukwa chake timalimbikitsa pamwambapa tebulo lokha. Palibe china.
 - ~~Nenani za cholakwika pa tracker ya mozilla, kuwauza kuti asagwiritse ntchito Cloudflare.~~ Panali lipoti la bug pa bugzilla. Anthu ambiri adayika nkhawa zawo, komabe kachilomboko kanabisika ndi admin mu 2018.
 
 - Mutha kuletsa DoH mu Firefox.
-  - [Sinthani wothandizila wa DNS wa firefox](subfiles/change-firefox-dns.md)
+  - [Sinthani wothandizila wa DNS wa firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Ngati mukufuna kugwiritsa ntchito omwe si ISP DNS, ganizirani kugwiritsa ntchito ntchito ya OpenNIC Tier2 DNS kapena ntchito iliyonse yomwe si Cloudflare DNS.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Dulani Cloudflare ndi DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Mutha kugwiritsa ntchito Tor ngati DNS resolutionver. [Ngati simuli katswiri wa Tor, funsani funso apa.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Chifukwa chake timalimbikitsa pamwambapa tebulo lokha. Palibe china.
 
 - Poyenera, yolumikizani ndi magulu awa pamalo awa - awa akhoza kukhala malo ogwirira ntchito limodzi ngati magulu.
 
-- [Yambitsani khola lomwe lingapereke njira yopanda tanthauzo ku Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Yambitsani khola lomwe lingapereke njira yopanda tanthauzo ku Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Tiuzeni za njira zina zilizonse zomwe zingathandize kuti titeteze Cloudflare.
 
@@ -464,4 +464,4 @@ Palibe chilichonse chamtsogolo pankhaniyi. Tataya kale.
 ### Tsopano, mwachita chiyani lero?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
