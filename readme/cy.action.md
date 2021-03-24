@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Rydym yn argymell eich bod yn estyn allan at y gweinyddwyr am y gwasanaethau neu'r gwefannau penodol yr ydych yn destun pryder â hwy ac yn rhannu eich profiad.
 ```
 
-[Os na ofynnwch amdani, nid yw perchennog y wefan byth yn gwybod y broblem hon.](PEOPLE.md)
+[Os na ofynnwch amdani, nid yw perchennog y wefan byth yn gwybod y broblem hon.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Enghraifft lwyddiannus](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Mae gennych chi broblem? [Codwch eich llais nawr.](https://github.com/maraoz/maraoz.github.io/issues/1) Enghraifft isod.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Dyma enghraifft o bolisi preifatrwydd nad oes ganddo'r gair Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Mae gan Cloudflare eu polisi preifatrwydd eu hunain.
 [Mae Cloudflare wrth ei fodd â phobl yn doxxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Os yw Cloudflare yn gollwng eich gwybodaeth neu na fydd yn gadael ichi gysylltu 
 
 [ Cofrestru ] [ dwi'n anghytuno ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Ceisiwch beidio â defnyddio eu gwasanaeth. Cofiwch fod Cloudflare yn eich gwylio.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Chwilio am wefan arall. Mae yna ddewisiadau amgen a chyfleoedd ar y rhyngrwyd!
 
 - Argyhoeddwch eich ffrindiau i ddefnyddio Tor yn ddyddiol.
   - Dylai anhysbysrwydd fod yn safon y rhyngrwyd agored!
-  - [Sylwch nad yw prosiect Tor yn hoffi'r prosiect hwn.](HISTORY.md)
+  - [Sylwch nad yw prosiect Tor yn hoffi'r prosiect hwn.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Os yw Cloudflare yn gollwng eich gwybodaeth neu na fydd yn gadael ichi gysylltu 
 
 | Enw | Datblygwr | Cefnogaeth | Yn gallu Blocio | Yn gallu Hysbysu | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ydw**     | **Ydw**     |  **Ydw** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Na     | **Ydw**     |  **Ydw** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Na     | **Ydw**     |  **Ydw** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ydw**     | **Ydw**     |  Na |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ydw**     | **Ydw**     |  **Ydw** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Na     | **Ydw**     |  **Ydw** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Na     | **Ydw**     |  **Ydw** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ydw**     | **Ydw**     |  Na |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ydw**     | **Ydw**     |  Na |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Na     | **Ydw**     |  Na |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Na     | **Ydw**     |  Na |
@@ -139,38 +139,38 @@ Os yw Cloudflare yn gollwng eich gwybodaeth neu na fydd yn gadael ichi gysylltu 
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Peidiwch â defnyddio datrysiad Cloudflare, Cyfnod.
   - Gallwch chi wneud yn well na hynny, iawn? [Dyma sut i gael gwared ar danysgrifiadau, cynlluniau, parthau neu gyfrifon Cloudflare.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Am gael mwy o gwsmeriaid? Rydych chi'n gwybod beth i'w wneud. Mae awgrym "uwchben y llinell".
   - [Helo, fe ysgrifennoch chi "Rydyn ni'n cymryd eich preifatrwydd o ddifrif" ond cefais "Gwall 403 Dirprwy Dirprwy Dienw Heb ei Ganiatáu".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Pam ydych chi'n blocio Tor Neu VPN? [A pham ydych chi'n blocio e-byst dros dro?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Bydd defnyddio Cloudflare yn cynyddu'r siawns o drechu. Ni all ymwelwyr gael mynediad i'ch gwefan os yw'ch gweinydd i lawr neu os yw Cloudflare i lawr.
-  - [Oeddech chi wir yn meddwl na aeth Cloudflare byth i lawr?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Oeddech chi wir yn meddwl na aeth Cloudflare byth i lawr?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Bydd defnyddio Cloudflare i ddirprwyo'ch "gwasanaeth API", "gweinydd diweddaru meddalwedd" neu "RSS feed" yn niweidio'ch cwsmer. Fe wnaeth cwsmer eich galw a dweud "Ni allaf ddefnyddio'ch API mwyach", ac nid oes gennych unrhyw syniad beth sy'n digwydd. Gall Cloudflare rwystro'ch cwsmer yn dawel. Ydych chi'n meddwl ei fod yn iawn?
   - Mae yna lawer o wasanaeth ar-lein cleient darllenydd RSS a darllenydd RSS. Pam ydych chi'n cyhoeddi porthiant RSS os nad ydych chi'n caniatáu i bobl danysgrifio?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Oes angen tystysgrif HTTPS arnoch chi? Defnyddiwch "Dewch i Amgryptio" neu dim ond ei brynu gan gwmni CA.
 
 - Oes angen gweinydd DNS arnoch chi? Methu sefydlu'ch gweinydd eich hun? Beth amdanyn nhw: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Gweinyddiaeth dileu eich cyfrif os ydych chi'n defnyddio TOR)](https://freedns.afraid.org/)
 
 - Chwilio am wasanaeth cynnal? Am ddim yn unig? Beth amdanyn nhw: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Dewisiadau amgen i Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Dewisiadau amgen i Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Ydych chi'n defnyddio "cloudflare-ipfs.com"? [Ydych chi'n gwybod bod Cloudflare IPFS yn ddrwg?](PEOPLE.md)
+- Ydych chi'n defnyddio "cloudflare-ipfs.com"? [Ydych chi'n gwybod bod Cloudflare IPFS yn ddrwg?](../PEOPLE.md)
 
 - Gosod Mur Tân Cymhwysiad Gwe fel OWASP a Fail2Ban ar eich gweinydd a'i ffurfweddu'n iawn.
   - Nid datrysiad yw Blocio Tor. Peidiwch â chosbi pawb dim ond am ddefnyddwyr bach gwael.
@@ -297,7 +297,7 @@ Nid oes 100% diogel na 100% preifat ar y rhyngrwyd a thechnoleg.
 
 - Ddim eisiau defnyddio Tor? Gallwch ddefnyddio unrhyw borwr gyda daemon Tor.
   - [Sylwch nad yw prosiect Tor yn hoffi hyn.](https://support.torproject.org/tbb/tbb-9/) Defnyddiwch Tor Browser os ydych chi'n gallu gwneud hynny.
-- [Sut i ddefnyddio Cromiwm gyda Tor](subfiles/chromium_tor.md)
+- [Sut i ddefnyddio Cromiwm gyda Tor](../subfiles/chromium_tor.md)
 
 
 Gadewch i ni siarad am breifatrwydd meddalwedd arall.
@@ -377,12 +377,12 @@ Felly rydym yn argymell uchod y tabl yn unig. Dim byd arall.
 - ~~Riportiwch nam ar draciwr mozilla, gan ddweud wrthyn nhw am beidio â defnyddio Cloudflare.~~ Cafwyd adroddiad nam ar bugzilla. Postiwyd eu pryder i lawer o bobl, fodd bynnag, cuddiwyd y nam gan y weinyddiaeth yn 2018.
 
 - Gallwch chi analluogi DoH yn Firefox.
-  - [Newid darparwr DNS rhagosodedig firefox](subfiles/change-firefox-dns.md)
+  - [Newid darparwr DNS rhagosodedig firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Os hoffech chi ddefnyddio DNS nad yw'n ISP, ystyriwch ddefnyddio gwasanaeth DNS Haen 2 OpenNIC neu unrhyw un o wasanaethau DNS nad ydynt yn Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Blociwch Cloudflare gyda DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Gallwch ddefnyddio Tor fel ail-gloi DNS. [Os nad ydych chi'n arbenigwr Tor, gofynnwch gwestiwn yma.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Felly rydym yn argymell uchod y tabl yn unig. Dim byd arall.
 
 - Lle bo hynny'n briodol, cysylltwch â'r grwpiau hyn ar yr ystorfa hon - gall hwn fod yn lle i gydlynu gweithio gyda'n gilydd fel grwpiau.
 
-- [Dechreuwch gwt a all ddarparu dewis amgen anghorfforaethol ystyrlon i Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Dechreuwch gwt a all ddarparu dewis amgen anghorfforaethol ystyrlon i Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Gadewch inni wybod am unrhyw ddewisiadau amgen i helpu o leiaf i ddarparu amddiffyniad haenog lluosog yn erbyn Cloudflare.
 
@@ -464,4 +464,4 @@ Nid oes unrhyw beth dyfodolol am hyn. Rydym eisoes wedi colli.
 ### Nawr, beth wnaethoch chi heddiw?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
