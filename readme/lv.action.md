@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Mēs iesakām sazināties ar administratoriem par konkrētiem pakalpojumiem vai vietnēm, ar kurām jūs saskaraties, un dalīties pieredzē.
 ```
 
-[Ja jūs to neprasāt, vietnes īpašnieks nekad nezina šo problēmu.](PEOPLE.md)
+[Ja jūs to neprasāt, vietnes īpašnieks nekad nezina šo problēmu.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Veiksmīgs piemērs](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Tev ir problēma? [Tagad paceliet balsi.](https://github.com/maraoz/maraoz.github.io/issues/1) Piemērs zemāk.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Šis ir privātuma politikas piemērs, kurā nav vārda Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare ir sava privātuma politika.
 [Cloudflare mīl cilvēkus, kas dungo.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Ja Cloudflare nopludina jūsu informāciju vai neļaus jums izveidot savienojumu
 
 [ Pierakstīties ] [ ES nepiekrītu ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Centieties neizmantot viņu pakalpojumu. Atcerieties, ka jūs novēro Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Meklējiet citu vietni. Internetā ir alternatīvas un iespējas!
 
 - Pārlieciniet savus draugus izmantot Tor katru dienu.
   - Anonimitātei jābūt atvērtā interneta standartam!
-  - [Ņemiet vērā, ka Tor projekts nepatīk šim projektam.](HISTORY.md)
+  - [Ņemiet vērā, ka Tor projekts nepatīk šim projektam.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Ja Cloudflare nopludina jūsu informāciju vai neļaus jums izveidot savienojumu
 
 | Nosaukums | Izstrādātājs | Atbalsts | Var bloķēt | Var paziņot | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Jā**     | **Jā**     |  **Jā** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nē     | **Jā**     |  **Jā** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nē     | **Jā**     |  **Jā** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Jā**     | **Jā**     |  Nē |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Jā**     | **Jā**     |  **Jā** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nē     | **Jā**     |  **Jā** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nē     | **Jā**     |  **Jā** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Jā**     | **Jā**     |  Nē |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Jā**     | **Jā**     |  Nē |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nē     | **Jā**     |  Nē |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nē     | **Jā**     |  Nē |
@@ -139,38 +139,38 @@ Ja Cloudflare nopludina jūsu informāciju vai neļaus jums izveidot savienojumu
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Nelietojiet Cloudflare solution, Period.
   - Jūs varat darīt labāk nekā tas, vai ne? [Lūk, kā noņemt Cloudflare abonementus, plānus, domēnus vai kontus.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Vai vēlaties vairāk klientu? Jūs zināt, ko darīt. Padoms ir "virs līnijas".
   - [Labdien, jūs rakstījāt “Mēs nopietni uztveram jūsu privātumu”, bet es saņēmu “Kļūda 403 Aizliegts anonīms starpniekserveris nav atļauts”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kāpēc jūs bloķējat Tor vai VPN? [Un kāpēc jūs bloķējat pagaidu e-pastus?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Izmantojot Cloudflare, palielināsies pārtraukuma iespējamība. Apmeklētāji nevar piekļūt jūsu vietnei, ja jūsu serveris nedarbojas vai Cloudflare nedarbojas.
-  - [Vai jūs tiešām domājāt, ka Cloudflare nekad nenokrīt?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Vai jūs tiešām domājāt, ka Cloudflare nekad nenokrīt?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Izmantojot Cloudflare, lai starpniekserverētu savu "API pakalpojumu", "programmatūras atjaunināšanas serveri" vai "RSS plūsmu", tas kaitēs jūsu klientam. Jums piezvanīja klients un teica: "Es vairs nevaru izmantot jūsu API", un jums nav ne mazākās nojausmas, kas notiek. Cloudflare var klusi bloķēt jūsu klientu. Vai jūs domājat, ka tas ir labi?
   - Ir daudz RSS lasītāju klientu un RSS lasītāju tiešsaistes pakalpojumu. Kāpēc jūs publicējat RSS plūsmu, ja neļaujat cilvēkiem abonēt?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Vai jums ir nepieciešams HTTPS sertifikāts? Izmantojiet “Let's Encrypt” vai vienkārši iegādājieties to CA uzņēmumā.
 
 - Vai jums ir nepieciešams DNS serveris? Vai nevarat izveidot savu serveri? Kā ar viņiem: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Administrators dzēš jūsu kontu, ja izmantojat TOR)](https://freedns.afraid.org/)
 
 - Vai meklējat mitināšanas pakalpojumu? Tikai bez maksas? Kā ar viņiem: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatīvas Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Alternatīvas Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Vai izmantojat vietni "cloudflare-ipfs.com"? [Vai jūs zināt, ka Cloudflare IPFS ir slikta?](PEOPLE.md)
+- Vai izmantojat vietni "cloudflare-ipfs.com"? [Vai jūs zināt, ka Cloudflare IPFS ir slikta?](../PEOPLE.md)
 
 - Instalējiet savā serverī tīmekļa lietojumprogrammu ugunsmūri, piemēram, OWASP un Fail2Ban, un pareizi konfigurējiet to.
   - Tor bloķēšana nav risinājums. Nesodiet visus tikai par maziem sliktiem lietotājiem.
@@ -297,7 +297,7 @@ Internetā un tehnoloģijās nav 100% droša un 100% privāta.
 
 - Vai nevēlaties izmantot Tor? Ar Tor dēmonu varat izmantot jebkuru pārlūku.
   - [Ņemiet vērā, ka Tor projektam tas nepatīk.](https://support.torproject.org/tbb/tbb-9/) Izmantojiet Tor pārlūku, ja jūs to varat izdarīt.
-- [Kā lietot hromu ar Tor](subfiles/chromium_tor.md)
+- [Kā lietot hromu ar Tor](../subfiles/chromium_tor.md)
 
 
 Parunāsim par citas programmatūras privātumu.
@@ -377,12 +377,12 @@ Tāpēc mēs iesakām tikai iepriekš minēto tabulu. Nekas cits.
 - ~~Ziņojiet par kļūdu mozilla izsekotājā, sakot, ka viņi neizmanto Cloudflare.~~ Bugzilla bija ziņojums par kļūdu. Daudzi cilvēki bija noraizējušies par viņu bažām, tomēr kļūda tika slēpta administratora 2018. gadā.
 
 - Firefox var atspējot DoH.
-  - [Mainīt Firefox noklusējuma DNS nodrošinātāju](subfiles/change-firefox-dns.md)
+  - [Mainīt Firefox noklusējuma DNS nodrošinātāju](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Ja vēlaties izmantot DNS, kas nav ISP, apsveriet iespēju izmantot OpenNIC Tier2 DNS pakalpojumu vai jebkuru citu no Cloudflare DNS pakalpojumiem.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Bloķējiet Cloudflare ar DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Jūs varat izmantot Tor kā DNS risinātāju. [Ja neesat Tor eksperts, uzdodiet jautājumu šeit.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Tāpēc mēs iesakām tikai iepriekš minēto tabulu. Nekas cits.
 
 - Vajadzības gadījumā saite uz šīm repozitorija grupām - tā var būt vieta, kur koordinēt kopīgu darbu kā grupām.
 
-- [Sāciet sadarbību, kas var sniegt nozīmīgu, nevis korporatīvu alternatīvu Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Sāciet sadarbību, kas var sniegt nozīmīgu, nevis korporatīvu alternatīvu Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Informējiet mūs par visām alternatīvām, kas palīdzētu vismaz nodrošināt daudzslāņu aizsardzību pret Cloudflare.
 
@@ -464,4 +464,4 @@ Kādreiz jūs sapratīsit, kāpēc mēs to rakstījām.
 ### Ko jūs šodien darījāt?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
