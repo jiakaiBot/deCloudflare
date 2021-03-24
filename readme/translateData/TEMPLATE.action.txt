@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 {%actnl0005%}
 ```
 
-[{%actnl0006%}](PEOPLE.md)
+[{%actnl0006%}](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [{%actnl0007%}](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 {%actnl0008%} [{%actnl0009%}](https://github.com/maraoz/maraoz.github.io/issues/1) {%actnl0010%}
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 {%actnl0020%}
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 {%actnl0021%}
 [{%actnl0022%}](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 
 [ {%actnl0028%} ] [ {%actnl0029%} ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - {%actnl0030%} {%actnl0031%}
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - {%actnl0032%} {%actnl0033%}
 
 - {%actnl0034%}
   - {%actnl0035%}
-  - [{%actnl0036%}](HISTORY.md)
+  - [{%actnl0036%}](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 
 | {%actnl0095%} | {%actnl0096%} | {%actnl0097%} | {%actnl0098%} | {%actnl0099%} | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **{%tftfyes%}**     | **{%tftfyes%}**     |  **{%tftfyes%}** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | {%tftfno%}     | **{%tftfyes%}**     |  **{%tftfyes%}** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | {%tftfno%}     | **{%tftfyes%}**     |  **{%tftfyes%}** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **{%tftfyes%}**     | **{%tftfyes%}**     |  {%tftfno%} |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **{%tftfyes%}**     | **{%tftfyes%}**     |  **{%tftfyes%}** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | {%tftfno%}     | **{%tftfyes%}**     |  **{%tftfyes%}** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | {%tftfno%}     | **{%tftfyes%}**     |  **{%tftfyes%}** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **{%tftfyes%}**     | **{%tftfyes%}**     |  {%tftfno%} |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **{%tftfyes%}**     | **{%tftfyes%}**     |  {%tftfno%} |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | {%tftfno%}     | **{%tftfyes%}**     |  {%tftfno%} |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | {%tftfno%}     | **{%tftfyes%}**     |  {%tftfno%} |
@@ -139,38 +139,38 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - {%actnl0044%}
   - {%actnl0045%} [{%actnl0046%}](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - {%actnl0043%} {%actnl0047%} {%actnl0048%}
   - [{%actnl0100%}](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) {%actnl0101%} [{%actnl0102%}](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - {%actnl0049%} {%actnl0050%}
-  - [{%actnl0051%}](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [{%actnl0051%}](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - {%actnl0052%} {%actnl0053%} {%actnl0054%} {%actnl0055%}
   - {%actnl0056%} {%actnl0057%}
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - {%actnl0058%} {%actnl0059%}
 
 - {%actnl0060%} {%actnl0061%} {%actnl0062%}: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org ({%actnl0063%})](https://freedns.afraid.org/)
 
 - {%actnl0064%} {%actnl0065%} {%actnl0062%}: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [{%actnl0066%}](subfiles/cloudflare-alternatives.md)
+  - [{%actnl0066%}](../subfiles/cloudflare-alternatives.md)
 
-- {%actnl0067%} [{%actnl0068%}](PEOPLE.md)
+- {%actnl0067%} [{%actnl0068%}](../PEOPLE.md)
 
 - {%actnl0069%}
   - {%actnl0070%}
@@ -297,7 +297,7 @@ die();
 
 - {%actnl0090%} {%actnl0091%}
   - [{%actnl0092%}](https://support.torproject.org/tbb/tbb-9/) {%actnl0093%}
-- [{%actnl0094%}](subfiles/chromium_tor.md)
+- [{%actnl0094%}](../subfiles/chromium_tor.md)
 
 
 {%actnl0104%}
@@ -377,12 +377,12 @@ die();
 - ~~{%actnl0139%}~~ {%actnl0140%}
 
 - {%actnl0141%}
-  - [{%actnl0142%}](subfiles/change-firefox-dns.md)
+  - [{%actnl0142%}](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [{%actnl0143%}](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - {%actnl0144%} [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - {%actnl0145%} [{%actnl0146%}](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - {%actnl0158%}
 
-- [{%actnl0159%}](subfiles/cloudflare-alternatives.md)
+- [{%actnl0159%}](../subfiles/cloudflare-alternatives.md)
 
 - {%actnl0160%}
 
@@ -464,4 +464,4 @@ die();
 ### {%actnttl0008%}
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
