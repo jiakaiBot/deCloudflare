@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Vi raccomandemu di ghjunghje à l'amministratori per i servizii specifici o i siti chì site in questione è di sparte a vostra sperienza.
 ```
 
-[Se ùn a dumandate micca, u pruprietariu di u situ web ùn cunnosce mai stu prublema.](PEOPLE.md)
+[Se ùn a dumandate micca, u pruprietariu di u situ web ùn cunnosce mai stu prublema.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Esempiu successu](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Avete un prublema? [Alzate a to voce avà.](https://github.com/maraoz/maraoz.github.io/issues/1) Esempiu quì sottu.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Questu hè un esempiu di pulitica di privacy chì ùn hà micca a parolla Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare anu a so propria pulitica di privacy.
 [Cloudflare ama a ghjente duscia.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Se Cloudflare perde e vostre informazioni o ùn vi lascia micca cunnessione à i
 
 [ Firma ] [ Ùn sò micca d'accordu ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Pruvate micca di aduprà u so serviziu. Ricurdativi chì site guardatu da Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Ricerca per un altru situ web. Ci sò alternative è opportunità in Internet!
 
 - Cunvince i vostri amichi di aduprà Tor ogni ghjornu.
   - L'anonimatu deve esse u standard di l'internet apertu!
-  - [Innota chì u prughjettu Tor ùn piace stu prughjettu.](HISTORY.md)
+  - [Innota chì u prughjettu Tor ùn piace stu prughjettu.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Se Cloudflare perde e vostre informazioni o ùn vi lascia micca cunnessione à i
 
 | Nome | Sviluppatore | Supportu | Can Block | Can Notificà | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Iè**     | **Iè**     |  **Iè** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Innò     | **Iè**     |  **Iè** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Innò     | **Iè**     |  **Iè** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Iè**     | **Iè**     |  Innò |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Iè**     | **Iè**     |  **Iè** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Innò     | **Iè**     |  **Iè** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Innò     | **Iè**     |  **Iè** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Iè**     | **Iè**     |  Innò |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Iè**     | **Iè**     |  Innò |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Innò     | **Iè**     |  Innò |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Innò     | **Iè**     |  Innò |
@@ -139,38 +139,38 @@ Se Cloudflare perde e vostre informazioni o ùn vi lascia micca cunnessione à i
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Ùn aduprate micca a soluzione Cloudflare, Periodu.
   - Pudete fà megliu cà què, nò? [Eccu cumu per eliminà l'abbonamenti Cloudflare, i piani, i duminii o i conti.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Vulete più clienti? Sapete chì fà. L'indicazione hè "sopra a linea".
   - [Salutu, avete scrittu "Pigliamu a vostra privacy seriamente" ma aghju "Errore 403 Prohibitu Anonimu Proxy Ùn Permessu".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Perchè blocchi Tor Or VPN? [E perchè bloccate e mail temporanee?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Aduprà Cloudflare aumenterà a probabilità di una interruzione. I visitori ùn ponu micca accede à u vostru situ web se u vostru servitore hè falatu o Cloudflare hè falatu.
-  - [Avete veramente pensatu chì Cloudflare ùn fala mai?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Avete veramente pensatu chì Cloudflare ùn fala mai?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Aduprà Cloudflare per proxy u vostru "serviziu API", "servitore d'aghjurnamentu di software" o "feed RSS" danneghjerà u vostru cliente. Un cliente vi hà chjamatu è hà dettu "Ùn possu più aduprà a vostra API", è ùn avete micca idea di ciò chì si passa. Cloudflare pò bluccà in silenziu u vostru cliente. Pensate chì va bè?
   - Ci sò parechji clienti di lettore RSS è serviziu in linea di lettore RSS. Perchè publicate un feed RSS se ùn site micca permessu à a ghjente di arrugassi?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Avete bisognu di certificatu HTTPS? Aduprate "Let's Encrypt" o solu cumprà da a cumpagnia CA.
 
 - Avete bisognu di un servitore DNS? Ùn pudete micca installà u vostru servitore? Cumu ne sò: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Amministratore sguassate u vostru contu se utilizate TOR)](https://freedns.afraid.org/)
 
 - Circate u serviziu di hosting? Gratuitu solu? Cumu ne sò: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternative à Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Alternative à Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Usate "cloudflare-ipfs.com"? [Sapete Cloudflare IPFS hè male?](PEOPLE.md)
+- Usate "cloudflare-ipfs.com"? [Sapete Cloudflare IPFS hè male?](../PEOPLE.md)
 
 - Installa Firewall d'Applicazione Web cum'è OWASP è Fail2Ban in u vostru servitore è cunfigurallu bè.
   - U Blocking Tor ùn hè micca una soluzione. Ùn punite micca tutti solu per i picculi utilizatori cattivi.
@@ -297,7 +297,7 @@ A privacy di l'altru software hè imperfetta. Questu ùn significa micca chì u 
 
 - Ùn vogliu micca aduprà Tor? Pudete aduprà qualsiasi navigatore cù u daemon Tor.
   - [Innota chì u prughjettu Tor ùn piace micca questu.](https://support.torproject.org/tbb/tbb-9/) Aduprate u Navigatore Tor se pudete fà.
-- [Cume aduprà Chromium cù Tor](subfiles/chromium_tor.md)
+- [Cume aduprà Chromium cù Tor](../subfiles/chromium_tor.md)
 
 
 Parlemu di a privacy di l'altru software.
@@ -377,12 +377,12 @@ Dunque cunsigliemu solu a tavula sopra. Nunda altru.
 - ~~Segnala un bug nant'à u tracker di mozilla, dicendu li di ùn aduprà Cloudflare.~~ Ci hè statu un raportu di bug nant'à bugzilla. Parechje persone anu publicatu a so preoccupazione, tuttavia u bug hè statu piattatu da l'amministratore in u 2018.
 
 - Pudete disattivà DoH in Firefox.
-  - [Cambia u fornitore DNS predefinitu di Firefox](subfiles/change-firefox-dns.md)
+  - [Cambia u fornitore DNS predefinitu di Firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Se vulete usà DNS chì ùn sò micca ISP, pensate à aduprà u serviziu DNS OpenNIC Tier2 o qualsiasi serviziu DNS non Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Bluccà Cloudflare cù DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Pudete aduprà Tor cum'è risolutore DNS. [Se ùn site micca espertu di Tor, fate una domanda quì.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Dunque cunsigliemu solu a tavula sopra. Nunda altru.
 
 - In casu di appruvazioni, ligate à questi gruppi nantu à stu repositoriu - questu pò esse un locu per coordinà u travagliu inseme cum'è gruppi.
 
-- [Inizià una coop chì pò furnisce una alternativa significativa non corporativa à Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Inizià una coop chì pò furnisce una alternativa significativa non corporativa à Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Facci sapè di qualsiasi alternative per aiutà almenu furnisce una difesa in più strati contra Cloudflare.
 
@@ -464,4 +464,4 @@ Un ghjornu, capirete perchè avemu scrittu questu.
 ### Avà, chì hai fattu oghje?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
