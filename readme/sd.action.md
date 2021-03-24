@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 اسان شفارس ڪيون ٿا ته توهان منتظمين سان گڏ مخصوص خدمتن يا سائيٽن تائين پهچو جنهن سان توهان مسئلي ۾ رهو ٿا ۽ پنهنجي تجربي سان حصيداري ڪريو ٿا.
 ```
 
-[جيڪڏهن توهان ان کان نه پڇو ، ويب سائيٽ مالڪ ڪڏهن به اهو مسئلو knowاڻ ناهي.](PEOPLE.md)
+[جيڪڏهن توهان ان کان نه پڇو ، ويب سائيٽ مالڪ ڪڏهن به اهو مسئلو knowاڻ ناهي.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [ڪامياب مثال](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 توهان کي ڪو مسئلو آهي؟ [هاڻي پنهنجو آواز بلند ڪريو.](https://github.com/maraoz/maraoz.github.io/issues/1) هيٺ مثال.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 اهو رازداري پاليسي جو هڪ مثال آهي جنهن ۾ Cloudflare لفظ ناهي.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare انهن جي پنهنجي رازداري پاليسي آهي.
 [ڪلائوڊ فيلر ڊڪسڪسڪس ماڻهن کي پسند ڪري ٿو.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ AFAIK ، صفر ويب سائيٽ هي ڪر. ڇا توهان انهن تي اع�
 
 [ سائن اپ ڪريو ] [ مان متفق نه آهيان ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - انھن جي خدمت استعمال نه ڪرڻ جي ڪوشش ڪريو. ياد رکو ته توهان Cloudflare طرفان ڏسي رهيا آهيو.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - ٻي ويب سائيٽ جي ڳولا ڪريو. انٽرنيٽ تي ڪي متبادل ۽ موقعا آھن!
 
 - روزانو جي بنياد تي Tor کي استعمال ڪرڻ لاءِ پنهنجن دوستن کي قائل ڪيو.
   - گمنام اوپن انٽرنيٽ جو معيار هئڻ گهرجي!
-  - [اهو نوٽ ڪريو ته تور منصوبو هن منصوبي کي ناپسند ڪندو آهي.](HISTORY.md)
+  - [اهو نوٽ ڪريو ته تور منصوبو هن منصوبي کي ناپسند ڪندو آهي.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ AFAIK ، صفر ويب سائيٽ هي ڪر. ڇا توهان انهن تي اع�
 
 | نالو | ٺاھيندڙ | سپورٽ | بلاڪ ڪري سگھي ٿو | اطلاع ڏئي سگهان ٿو | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ها**     | **ها**     |  **ها** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | نه     | **ها**     |  **ها** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | نه     | **ها**     |  **ها** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ها**     | **ها**     |  نه |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ها**     | **ها**     |  **ها** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | نه     | **ها**     |  **ها** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | نه     | **ها**     |  **ها** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ها**     | **ها**     |  نه |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ها**     | **ها**     |  نه |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | نه     | **ها**     |  نه |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | نه     | **ها**     |  نه |
@@ -139,38 +139,38 @@ AFAIK ، صفر ويب سائيٽ هي ڪر. ڇا توهان انهن تي اع�
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Cloudflare حل ، مدت نه استعمال ڪريو.
   - توهان هن کان بهتر ڪري سگھو ٿا ، صحيح؟ [هتي Cloudflare سبسڪرپشن ، منصوبا ، ڊومين يا اڪائونٽ ختم ڪرڻ لاءِ ڪئين.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - وڌيڪ گراهڪن چاهيو؟ توهان کي خبر آهي ته ڇا ڪرڻو آهي. اشارو ”مٿان لڪير“ آهي.
   - [هيلو ، توهان لکيو ”اسان توهان جي رازداري کي سنجيده وٺون ٿا“ پر مون کي ”غلطي 403 منع ٿيل گمنام پراکسي جي اجازت ناهي“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) توهان ٽور يا وي پي اين کي ڇو بلاڪ ڪري رهيا آهيو؟ [۽ توهان عارضي اي ميلن کي ڇو بلاڪ ڪري رهيا آهيو؟](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Cloudflare استعمال ڪرڻ سان بندش جو امڪان وڌي ويندو. گهمڻ وارا توهان جي ويب سائيٽ تائين رسائي نٿا ڪري سگهن ، جيڪڏهن توهان جو سرور گهٽ آهي يا ڪلائوڊ فليئر هيٺ آهي.
-  - [ڇا توهان واقعي سوچيو ته Cloudflare ڪڏهن به هيٺ نه ٿيو؟](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [ڇا توهان واقعي سوچيو ته Cloudflare ڪڏهن به هيٺ نه ٿيو؟](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Cloudflare کي پنهنجي ”API سروس“ جي پراکسي لاءِ استعمال ڪرڻ ، ”سافٽويئر تازه ڪاري سرور“ يا ”آر ايس ايس فيڊ“ توهان جي صارف کي نقصان پهچائي سگهندو. هڪ گراهڪ توهان کي فون ڪيو ۽ چيو ”مان توهان جو API هاڻي استعمال نٿو ڪري سگهان“ ۽ توهان کي خبر ناهي ته ڇا ٿي رهيو آهي. Cloudflare خاموشي سان توهان جي گراهڪ کي بلاڪ ڪري سگهي ٿو. ڇا توهان سمجهو ٿا ته اهو ٺيڪ آهي؟
   - آن لائن سروس ۾ ڪيترائي آر ايس ايس پڙهيل گراهڪ ۽ آر ايس ايس پڙهندڙ آهن. جيڪڏهن توهان ماڻهن کي سبسڪرپشن جي اجازت نه ڏئي رهيا آهيو توهان آر ايس ايس فيڊ کي ڇو شايع ڪري رهيا آهيو؟
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - ڇا توهان کي HTTPS سرٽيفڪيٽ جي ضرورت آهي؟ ”ليڊ اينڊريٽ“ استعمال ڪريو يا صرف سي اي ڪمپني خريد ڪريو.
 
 - ڇا توهان کي ڊي اين ايس سرور جي ضرورت آهي؟ ڇا توهان جو پنهنجو سرور قائم نٿو ڪري سگھجي؟ انهن جي باري ۾: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (جيڪڏهن توهان TOR استعمال ڪريو ته اداري پنهنجو اڪائونٽ حذف ڪيو)](https://freedns.afraid.org/)
 
 - هلندڙ هوسٽنگ سروس؟ صرف مفت؟ انهن جي باري ۾: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare جو متبادل](subfiles/cloudflare-alternatives.md)
+  - [Cloudflare جو متبادل](../subfiles/cloudflare-alternatives.md)
 
-- ڇا توهان "cloudflare-ipfs.com" استعمال ڪري رهيا آهيو؟ [ڇا توهان knowاڻو ٿا Cloudflare IPFS خراب آهي؟](PEOPLE.md)
+- ڇا توهان "cloudflare-ipfs.com" استعمال ڪري رهيا آهيو؟ [ڇا توهان knowاڻو ٿا Cloudflare IPFS خراب آهي؟](../PEOPLE.md)
 
 - توهان جي سرور تي ويب ايپليڪيشن فائر وال جهڙوڪ OWASP ۽ Fail2Ban انسٽال ڪريو ۽ ان کي صحيح طريقي سان ترتيب ڏيو
   - تور کي بلاڪ ڪرڻ ڪو حل ناهي. نن badن خراب استعمال ڪندڙن لاءِ سڀني کي سزا نه ڏيو.
@@ -297,7 +297,7 @@ die();
 
 - تور استعمال ڪرڻ نٿا چاهيو؟ توهان ٽور ڊيمن سان ڪوبه برائوزر استعمال ڪري سگهو ٿا.
   - [ياد رکجو تور منصوبو پسند نٿو ڪري.](https://support.torproject.org/tbb/tbb-9/) جيڪڏهن توهان ائين ڪرڻ جي قابل آهيو ته ٽور برائوزر استعمال ڪريو.
-- [ڪروميم تور سان ڪئين استعمال ڪجي](subfiles/chromium_tor.md)
+- [ڪروميم تور سان ڪئين استعمال ڪجي](../subfiles/chromium_tor.md)
 
 
 اچو ته ٻين سافٽ ويئر جي رازداري بابت ڳالهايون.
@@ -377,12 +377,12 @@ die();
 - ~~موزيلا جي ٽريڪٽر تي هڪ بگ جي رپورٽ ڪريو ، ٻڌايو ته Cloudflare استعمال نه ڪرڻ جي.~~ بگگيولا تي هڪ بگ رپورٽ هئي. ڪيترائي ماڻھو پنھنجي تشويش لاءِ پوسٽ ڪيا ويا ، بگ بگ کي 2018 ۾ اداري طرفان لڪايو ويو ھو.
 
 - توھان ڪري سگھوٿا DoH کي Firefox ۾.
-  - [فائر فاڪس جي ڊفالٽ ڊي اين ايس فراهم ڪندڙ کي تبديل ڪريو](subfiles/change-firefox-dns.md)
+  - [فائر فاڪس جي ڊفالٽ ڊي اين ايس فراهم ڪندڙ کي تبديل ڪريو](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [جيڪڏهن توهان Non-ISP DNS استعمال ڪرڻ چاهيندا ، OpenNIC Tier2 DNS سروس استعمال ڪرڻ تي غور ڪريو يا ڪنهن غير Cloudflare DNS سروسز کي.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Cloudflare کي ڊي اين ايس سان بلاڪ ڪيو. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - توھان ٽور استعمال ڪري سگھوٿا ڊي اين ايس رليور طور. [جيڪڏهن توهان ٽور ماهر نه آهيو ، هتي سوال پڇو.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - جتي مناسب هجي ، انهن گروپن سان ڳن thisيو هن مخزن تي - اهو هڪ گروپ طور گڏجي ڪم ڪرڻ جي جڳهه ٿي سگهي ٿو.
 
-- [ڪوپ شروع ڪريو جيڪو ڪلائوڊ فليئر لاءِ بامقصد غير ڪارپوريٽ متبادل مهيا ڪري سگهي ٿو.](subfiles/cloudflare-alternatives.md)
+- [ڪوپ شروع ڪريو جيڪو ڪلائوڊ فليئر لاءِ بامقصد غير ڪارپوريٽ متبادل مهيا ڪري سگهي ٿو.](../subfiles/cloudflare-alternatives.md)
 
 - اچو ته ڪلائوڊ فليئر خلاف گهٽ ۾ گهٽ ڪيترائي تحفظ فراهم ڪرڻ ۾ مدد لاءِ ڪنهن متبادل لاءِ ٻڌايو.
 
@@ -464,4 +464,4 @@ die();
 ### هاڻي ، توهان ا today ڇا ڪيو؟
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
