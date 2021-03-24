@@ -128,7 +128,7 @@
 
 * [यहाँ कुछ PDF / ePUB को पढ़ना है।](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
