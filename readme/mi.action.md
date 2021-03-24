@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Ka tūtohu mātou kia toro atu koe ki nga kaiwhakahaere mo nga ratonga motuhake, paetukutuku ranei e raru ana koe me te tohatoha i to wheako.
 ```
 
-[Mena kaore koe e tono, kaore te rangatira o te paetukutuku e mohio ki tenei raru.](PEOPLE.md)
+[Mena kaore koe e tono, kaore te rangatira o te paetukutuku e mohio ki tenei raru.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [He tauira angitu](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 He raru koe? [Whakanuia to reo i tenei wa.](https://github.com/maraoz/maraoz.github.io/issues/1) Tauira i raro.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 He tauira tenei mo te kaupapahere muna kaore nei he kupu Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Kei a Cloudflare a raatau kaupapahere muna.
 [E aroha ana a Cloudflare ki te iwi doxxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Mena ka tukuna e Cloudflare o korero ki a koe, kaore koe e tuku i a koe ki te ho
 
 [ Waitohu ] [ Kaore au e whakaae ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Ngana kia kaua e whakamahi i ta raatau ratonga. Kia maumahara kei te tirohia koe e Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Rapua etahi atu paetukutuku. He rereke me nga mea angitu i runga i te ipurangi!
 
 - Whakakonohia o hoa ki te whakamahi i te Tor ia ra.
   - Ko te ingoakore te tikanga o te ipurangi tuwhera!
-  - [Kia mahara kei te rikarika te kaupapa Tor i tenei kaupapa.](HISTORY.md)
+  - [Kia mahara kei te rikarika te kaupapa Tor i tenei kaupapa.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Mena ka tukuna e Cloudflare o korero ki a koe, kaore koe e tuku i a koe ki te ho
 
 | Ingoa | Kaiwhakawhanake | Tautoko | Ka taea te Poraka | Kaore e taea te Whakapuaki | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ae**     | **Ae**     |  **Ae** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | No.     | **Ae**     |  **Ae** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | No.     | **Ae**     |  **Ae** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ae**     | **Ae**     |  No. |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ae**     | **Ae**     |  **Ae** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | No.     | **Ae**     |  **Ae** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | No.     | **Ae**     |  **Ae** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ae**     | **Ae**     |  No. |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ae**     | **Ae**     |  No. |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | No.     | **Ae**     |  No. |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | No.     | **Ae**     |  No. |
@@ -139,38 +139,38 @@ Mena ka tukuna e Cloudflare o korero ki a koe, kaore koe e tuku i a koe ki te ho
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Kaua e whakamahia te otinga Cloudflare, Wā.
   - Ka taea e koe te pai ake i tena, e tika? [Anei me pehea te tango i nga ohaurunga Cloudflare, mahere, rohe, kaute ranei.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Kei te hiahia koe kia maha atu nga kaihoko? Kei te mohio koe ki nga mea hei mahi. Ko te tohu he "raina i runga ake".
   - [Kia ora, i tuhia e koe "He mea nui ki a matou to muna" engari i whiwhi ahau "Hapa 403 Takawaenga Kore Kaitapa Kaore e Whakaaetia".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) He aha koe i aukati ai i te Tor VPN ranei? [A he aha koe i aukati ai i nga imeerereretere?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Ma te whakamahi i te Cloudflare ka piki te tuponotanga. Kaore e taea e nga manuhiri te whakauru atu ki to paetukutuku mena kei te heke to kaiwhakarato, kei te heke ranei a Cloudflare.
-  - [I tino mahara koe kaore a Cloudflare e heke iho?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [I tino mahara koe kaore a Cloudflare e heke iho?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Ma te whakamahi i te Cloudflare hei takawaenga mo to "ratonga API", ko te "kaituku whakahou rorohiko", ko te "RSS feed" ranei ka whara i to kaihoko. I waea atu tetahi kaihoko ki a koe me te kii "Kaore e taea e au te whakamahi i to API", ana kaore koe e paku mohio ki nga mahi. Ka taea e Cloudflare te aukati i to kaihoko. Ki to whakaaro he pai?
   - He maha nga kaihoko RSS panui me te kaipānui RSS ratonga ipurangi. He aha koe i whakaputa ai i te RSS whangai mena kaore koe e whakaae ki nga tangata ki te ohauru?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Kei te hiahia tiwhikete HTTPS koe? Whakamahia te "Kia Whakamuna" ka hokona noa mai i te kamupene CA.
 
 - Kei te hiahia koe i te kaituku DNS? Kaore e taea te whakarite i to ake kaituku? Me pehea ratou: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Whakahaerehia to kaute ki te whakamahi i te TOR)](https://freedns.afraid.org/)
 
 - Kei te rapu koe mo te ratonga manaaki? Koreutu anake? Me pehea ratou: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [He rereke ki Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [He rereke ki Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Kei te whakamahi koe i te "cloudflare-ipfs.com"? [Kei te mohio koe he kino te Cloudflare IPFS?](PEOPLE.md)
+- Kei te whakamahi koe i te "cloudflare-ipfs.com"? [Kei te mohio koe he kino te Cloudflare IPFS?](../PEOPLE.md)
 
 - Whakauruhia te Papatohu Paetukutuku Paetukutuku penei i te OWASP me te Fail2Ban i runga i to kaituku me te whirihora tika.
   - Ko te aukati i te Tor ehara i te rongoa. Kaua e whiua te katoa mo nga kaiwhakamahi iti noa.
@@ -297,7 +297,7 @@ Kaore he 100% haumaru, kaore hoki he 100% takitahi i runga i te ipurangi me te h
 
 - Kaua e hiahia ki te whakamahi i te Tor? Ka taea e koe te whakamahi i tetahi tirotiro me te Tor daemon.
   - [Kia mahara kaore te kaupapa Tor e pai ki tenei.](https://support.torproject.org/tbb/tbb-9/) Whakamahia te Tirotiro Tor ina taea ana e koe.
-- [Me pehea te whakamahi i te Chromium me te Tor](subfiles/chromium_tor.md)
+- [Me pehea te whakamahi i te Chromium me te Tor](../subfiles/chromium_tor.md)
 
 
 Me korero e pa ana ki te noho muna o etahi atu raupaparorohiko.
@@ -377,12 +377,12 @@ Na reira ka taunakihia e matou i runga ake nei te teepu. Kaore he mea ke atu.
 - ~~Pūrongo he hapa i te kaiwhai o te mozilla, me te kī atu kia kaua e whakamahi i te Cloudflare.~~ I puta he purongo kino mo te bugzilla. He maha nga taangata i whakairi i o raatau awangawanga, engari i huna te bug i te kaiwhakahaere i te tau 2018.
 
 - Ka taea e koe te whakakore i te DoH i Firefox.
-  - [Hurihia te kaiwhakarato DNS taunoa o firefox](subfiles/change-firefox-dns.md)
+  - [Hurihia te kaiwhakarato DNS taunoa o firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Mena kei te hiahia koe ki te whakamahi i te DNS kore-ISP, whakaarohia te whakamahi i te ratonga OpenNIC Tier2 DNS, tetahi atu ranei o nga ratonga DNS kore-Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Poraka Cloudflare me DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Ka taea e koe te whakamahi i te Tor hei taumira DNS. [Mena kaore koe i te tohunga Tor, paatai ​​konei.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Na reira ka taunakihia e matou i runga ake nei te teepu. Kaore he mea ke atu.
 
 - Ka tika ana, hono atu ki enei roopu kei runga i tenei putunga - ka waiho hei waahi mo te mahi tahi hei roopu.
 
-- [Me tiimata te kookiri ka taea te whakaputa i tetahi rereke rereke kaore i te umanga ki Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Me tiimata te kookiri ka taea te whakaputa i tetahi rereke rereke kaore i te umanga ki Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Kia mohio taatau ki etahi waahanga rereke hei awhina i te waahanga nui mo te Cloudflare.
 
@@ -464,4 +464,4 @@ Kaore he mea futuristic mo tenei. Kua ngaro ke tatou.
 ### Na, i aha koe i tenei ra?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
