@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Matou te fautua atu ia e aapa atu i le au pulega mo ni tautua maoti poʻo ni 'upega tafaʻilagi e te feagai ma faʻafitauli ma faʻasoa mai lou poto masani.
 ```
 
-[Afai e te le fesili mo ia, e le iloa e le pule o le 'upega tafaʻilagi lenei faʻafitauli.](PEOPLE.md)
+[Afai e te le fesili mo ia, e le iloa e le pule o le 'upega tafaʻilagi lenei faʻafitauli.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Faʻataʻitaʻiga manuia](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 E i ai sau faʻafitauli? [Siʻi lou leo ​​nei.](https://github.com/maraoz/maraoz.github.io/issues/1) Faʻataʻitaʻiga i lalo.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Lenei o se faʻataʻitaʻiga o le le faalauaiteleina tulafono faʻavae lea e leai se upu Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare i ai la latou lava tulafono faʻapitoa.
 [Cloudflare fiafia i tagata doxxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ A faʻapea e faʻasalalau e le Cloudflare au faʻamatalaga pe le tuʻuina oe e f
 
 [ Saini loa ] [ Ou te le malie ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Taumafai e aua le faʻaaogaina la latou tautua. Manatua o loʻo vaʻaia oe e Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Saili mo isi 'upega tafaʻilagi. E iai isi auala ma avanoa i luga ole initaneti!
 
 - Faʻamautinoa au uo e faʻaaoga Tor i aso uma.
   - O le le faailoaina o igoa e tatau ona avea ma tulaga masani o le initaneti matala!
-  - [Manatua o le Tor poloketi le fiafia i lenei poloketi.](HISTORY.md)
+  - [Manatua o le Tor poloketi le fiafia i lenei poloketi.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ A faʻapea e faʻasalalau e le Cloudflare au faʻamatalaga pe le tuʻuina oe e f
 
 | Igoa | Atinaʻe | Lagolago | Mafai poloka | Mafai ona Faʻailoa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ioe**     | **ioe**     |  **ioe** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | leai     | **ioe**     |  **ioe** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | leai     | **ioe**     |  **ioe** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ioe**     | **ioe**     |  leai |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ioe**     | **ioe**     |  **ioe** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | leai     | **ioe**     |  **ioe** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | leai     | **ioe**     |  **ioe** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ioe**     | **ioe**     |  leai |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ioe**     | **ioe**     |  leai |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | leai     | **ioe**     |  leai |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | leai     | **ioe**     |  leai |
@@ -139,38 +139,38 @@ A faʻapea e faʻasalalau e le Cloudflare au faʻamatalaga pe le tuʻuina oe e f
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Aua le faʻaogaina le Cloudflare solution, Vaitaimi.
   - E mafai ona e faia se mea e sili atu nai lo o lena, a ea? [Lenei faʻafefea ona aveʻese Cloudflare lesitala, fuafuaga, tuatusi, poʻo teuga tupe.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Manaʻomia nisi tagata faʻatau? E te iloa le mea e fai. Fautuaga o le "luga laina".
   - [Talofa, na e tusia le "We take your privacy" "Ae na ou mauaina le" Error 403 Forbidden Anonymous Proxy Not Alllled ".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Aisea ua e poloka ai Tor Poʻo VPN? [Ma aisea ua e poloka ai imeli le tumau?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Faʻaaogaina Cloudflare o le a faʻateleina ai avanoa o se outage. E le mafai e tagata asiasi ona ulufale i lau tulaga itulau i luga o le upega tafailagi pe a fai o lau server o loʻo i lalo pe o Cloudflare o loʻo i lalo.
-  - [Na e manatu moni ole Cloudflare e le alu i lalo?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Na e manatu moni ole Cloudflare e le alu i lalo?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Faʻaaogaina Cloudflare e sui ai lau "API tautua", "polokalama faʻafouina le server" poʻo le "RSS feed" o le a afaina ai lau tagata faʻatau. Na valaʻau oe e le tagata faʻatau ma fai atu "Ua le mafai ona ou toe faʻaaogaina lau API", ma e te le iloa le mea o loʻo tupu. Cloudflare mafai ona poloka le leoa lau tagata faʻatau. E te manatu e le afaina?
   - E tele RSS faitau tagata faʻatau ma RSS faitau lugalaina tautua. Aisea ua e lolomiina ai fafaga RSS pe a fai e te le o faʻatagaina tagata e lesitala?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - E te manaʻomia le tusi faʻamaonia HTTPS? Faʻaaoga le "Let's Encrypt" pe naʻo le faʻatau mai le kamupani CA.
 
 - E te manaʻomia le DNS server? Le mafai ona seti sau oe lava server? Faʻafefea latou: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Faʻataʻiese e lau pulega lau teuga tupe pe a e faʻaaogaina le TOR)](https://freedns.afraid.org/)
 
 - Vaʻai mo talimalo tautua? Naʻo le avanoa? Faʻafefea latou: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Suiga i Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Suiga i Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- O e faʻaaogaina le "cloudflare-ipfs.com"? [E te iloa Cloudflare IPFS e leaga?](PEOPLE.md)
+- O e faʻaaogaina le "cloudflare-ipfs.com"? [E te iloa Cloudflare IPFS e leaga?](../PEOPLE.md)
 
 - Faʻapipiʻi le Pepa Faʻaoga Tusi Uepi e pei o OWASP ma Fail2Ban i luga o lau sapalai ma faʻalelei saʻo.
   - Ole poloka o Tor e leʻo se fofo. Aua le faʻasalaina tagata uma mo naʻo tama leaga e faʻaaoga.
@@ -297,7 +297,7 @@ E leai se 100% saogalemu pe 100% tumaʻoti luga o le initaneti ma tekonolosi.
 
 - E te le manaʻo e faʻaaoga le Tor? E mafai ona e faʻaaogaina soʻo se browser ma le Tor daemon.
   - [Manatua o le Tor poloketi e le fiafia i lenei.](https://support.torproject.org/tbb/tbb-9/) Faʻaaoga Tor Browser peʻa mafai ona e faia.
-- [Faʻafefea ona faʻaaoga le Chromium ma le Tor](subfiles/chromium_tor.md)
+- [Faʻafefea ona faʻaaoga le Chromium ma le Tor](../subfiles/chromium_tor.md)
 
 
 Sei o tatou talanoa e uiga i isi polokalame faalilolilo.
@@ -377,12 +377,12 @@ O le mea lea matou te fautua atu luga naʻo le laulau. E leai se isi mea
 - ~~Lipoti se faʻailoga i luga o le tracker a mozilla, taʻu ia i latou e aua le faʻaaogaina Cloudflare.~~ Sa i ai le lipoti lipoti i luga o bugzilla. Tele tagata na lafoina o latou atugaluga, peitaʻi o le bug na nana e le admin i le 2018.
 
 - Oe mafai ona faʻamuta DoH i Firefox.
-  - [Suia le le mafai ona fai le DNS o le afi](subfiles/change-firefox-dns.md)
+  - [Suia le le mafai ona fai le DNS o le afi](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Afai e te manaʻo e faʻaaoga le-ISP DNS, mafaufau e faʻaaoga le OpenNIC Tier2 DNS tautua poʻo seisi o auaunaga e leʻo le Cloudflare DNS.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Poloka Cloudflare ma DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - E mafai ona e faʻaaogaina Tor e pei o le DNS resolver. [Afai e te le o Tor poto, fesili fesili iinei.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ O le mea lea matou te fautua atu luga naʻo le laulau. E leai se isi mea
 
 - A talafeagai, fesoʻotaʻi i nei kulupu i luga o lenei fale teu oloa - o lenei mafai ona avea ma nofoaga mo le faʻamaopoopoina galulue faʻatasi o ni kulupu.
 
-- [Amata se faleoloa e mafai ona maua ai se aoga le faʻavae auala i Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Amata se faleoloa e mafai ona maua ai se aoga le faʻavae auala i Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Faʻailoa ia matou se isi auala e fesoasoani ai ia le itiiti ifo i le tuʻuina atu o ni lapisi puipuiga e puipuia ai Cloudflare.
 
@@ -464,4 +464,4 @@ E leai se mea futuristic e uiga i lenei. Ua uma ona tatou faiaʻina.
 ### O lea la, o le a lau mea na fai i le aso?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
