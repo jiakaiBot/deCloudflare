@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Sincoma ukuthi uxhumane nabaphathi ngezinsizakalo ezithile noma amasayithi ongena enkingeni ngawo futhi wabelane ngolwazi lwakho.
 ```
 
-[Uma ungayiceli, umnikazi wewebhusayithi akayazi le nkinga.](PEOPLE.md)
+[Uma ungayiceli, umnikazi wewebhusayithi akayazi le nkinga.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Isibonelo esiphumelelayo](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Unenkinga? [Phakamisa izwi lakho manje.](https://github.com/maraoz/maraoz.github.io/issues/1) Isibonelo esingezansi.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Lesi yisibonelo senqubomgomo yobumfihlo engenalo igama elithi Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 ICloudflare inenqubomgomo yayo yobumfihlo.
 [I-Cloudflare ithanda abantu abenza ama-doxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Uma i-Cloudflare ivuza imininingwane yakho noma ingakuvumeli ukuthi uxhume kumas
 
 [ Bhalisela ] [ angivumi ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Zama ukungasebenzisi insizakalo yabo. Khumbula ukuthi ubukwa yi-Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Sesha enye iwebhusayithi. Kunezinye izindlela nethuba kwi-intanethi!
 
 - Kholisa abangane bakho ukuthi basebenzise iTor nsuku zonke.
   - Ukungaziwa kufanele kube yindinganiso ye-intanethi evulekile!
-  - [Qaphela ukuthi iphrojekthi yeTor ayithandi le phrojekthi.](HISTORY.md)
+  - [Qaphela ukuthi iphrojekthi yeTor ayithandi le phrojekthi.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Uma i-Cloudflare ivuza imininingwane yakho noma ingakuvumeli ukuthi uxhume kumas
 
 | Igama | Unjiniyela | Ukusekela | Ingavimba | Ungazisa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Yebo**     | **Yebo**     |  **Yebo** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Cha     | **Yebo**     |  **Yebo** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Cha     | **Yebo**     |  **Yebo** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Yebo**     | **Yebo**     |  Cha |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Yebo**     | **Yebo**     |  **Yebo** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Cha     | **Yebo**     |  **Yebo** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Cha     | **Yebo**     |  **Yebo** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Yebo**     | **Yebo**     |  Cha |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Yebo**     | **Yebo**     |  Cha |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Cha     | **Yebo**     |  Cha |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Cha     | **Yebo**     |  Cha |
@@ -139,38 +139,38 @@ Uma i-Cloudflare ivuza imininingwane yakho noma ingakuvumeli ukuthi uxhume kumas
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Ungasebenzisi isisombululo se-Cloudflare, Isikhathi.
   - Ungenza okungcono kunalokho, akunjalo? [Nakhu ukuthi ungakususa kanjani okubhaliselwe kwe-Cloudflare, izinhlelo, izizinda, noma ama-akhawunti.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ufuna amakhasimende amaningi? Uyakwazi okufanele ukwenze. Ukusikisela "kungaphezulu komugqa".
   - [Sawubona, ubhale ukuthi "Sithatha ubumfihlo bakho ngokungathi sína" kepha ngithole "Iphutha 403 Ummeleli Ongaziwa Ongavunyelwe Ongavunyelwe".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kungani uvimba iTor Or VPN? [Futhi kungani uvimba ama-imeyili wesikhashana?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Ukusebenzisa i-Cloudflare kuzokwandisa amathuba okuphela. Izivakashi azikwazi ukufinyelela kuwebhusayithi yakho uma iseva yakho iphansi noma i-Cloudflare iphansi.
-  - [Ngabe ucabanga ukuthi iCloudflare ayikaze yehle?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Ngabe ucabanga ukuthi iCloudflare ayikaze yehle?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Usebenzisa i-Cloudflare ukwenza ummeleli wakho "wensizakalo ye-API", "iseva yokuvuselela isoftware" noma i- "RSS feed" kuzolimaza ikhasimende lakho. Ikhasimende likubizile lathi "Angisakwazi ukusebenzisa i-API yakho", futhi awazi ukuthi kwenzekani. I-Cloudflare ingavimba buthule ikhasimende lakho buthule. Ngabe ucabanga ukuthi kulungile?
   - Kunamakhasimende amaningi we-RSS reader ne-RSS reader online service. Kungani ushicilela okuphakelayo kwe-RSS uma ungavumeli abantu ukuthi babhalise?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Udinga isitifiketi se-HTTPS? Sebenzisa "Masibethele" noma vele uyithenge enkampanini ye-CA.
 
 - Udinga iseva ye-DNS? Awukwazi ukusetha iseva yakho? Kanjani ngabo: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Umlawuli susa i-akhawunti yakho uma usebenzisa i-TOR)](https://freedns.afraid.org/)
 
 - Ufuna insizakalo yokubamba? Mahhala kuphela? Kanjani ngabo: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Ezinye izindlela zokusebenzisa i-Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Ezinye izindlela zokusebenzisa i-Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Ingabe usebenzisa i- "cloudflare-ipfs.com"? [Uyazi ukuthi i-Cloudflare IPFS ayilungile?](PEOPLE.md)
+- Ingabe usebenzisa i- "cloudflare-ipfs.com"? [Uyazi ukuthi i-Cloudflare IPFS ayilungile?](../PEOPLE.md)
 
 - Faka i-Web Application Firewall efana ne-OWASP neFail2Ban kuseva yakho bese uyilungiselela kahle.
   - Ukuvimba iTor akusona isixazululo. Musa ukujezisa wonke umuntu ngenxa yabasebenzisi abancane ababi.
@@ -297,7 +297,7 @@ Akukho okuphephile okungu-100% noma okungu-100% kwi-inthanethi nakubuchwepheshe.
 
 - Awufuni ukusebenzisa iTor? Ungasebenzisa noma isiphi isiphequluli ngeTor daemon.
   - [Qaphela ukuthi iphrojekthi yeTor ayikuthandi lokhu.](https://support.torproject.org/tbb/tbb-9/) Sebenzisa i-Tor Browser uma ukwazi ukwenza kanjalo.
-- [Ungayisebenzisa kanjani i-Chromium nge-Tor](subfiles/chromium_tor.md)
+- [Ungayisebenzisa kanjani i-Chromium nge-Tor](../subfiles/chromium_tor.md)
 
 
 Masikhulume ngobumfihlo besinye isoftware.
@@ -377,12 +377,12 @@ Ngakho-ke sincoma itafula elingenhla kuphela. Akukho okunye.
 - ~~Bika isiphazamisi ku-tracker ye-mozilla, ubatshele ukuthi bangasebenzisi i-Cloudflare.~~ Kube khona umbiko wesiphazamisi ku-bugzilla. Abantu abaningi bathumele ukukhathazeka kwabo, kepha isiphazamisi sifihliwe ngumlawuli ku-2018.
 
 - Ungakhubaza i-DoH kuFirefox.
-  - [Shintsha umhlinzeki we-DNS ozenzakalelayo we-firefox](subfiles/change-firefox-dns.md)
+  - [Shintsha umhlinzeki we-DNS ozenzakalelayo we-firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Uma ungathanda ukusebenzisa i-non-ISP DNS, cabanga ukusebenzisa insiza ye-OpenNIC Tier2 DNS noma yiziphi izinsizakalo ezingezona eze-Cloudflare DNS.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Vimba i-Cloudflare nge-DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Ungasebenzisa iTor njengesisombululo se-DNS. [Uma ungeyena uchwepheshe weTor, buza umbuzo lapha.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Ngakho-ke sincoma itafula elingenhla kuphela. Akukho okunye.
 
 - Lapho kufanele khona, xhumanisa nala maqembu akule ndawo yokugcina - lokhu kungaba yindawo yokuxhumanisa ukusebenza ngokubambisana njengamaqembu.
 
-- [Qala ihhoko elinganikeza okunye okunenjongo okungeyona yenkampani ku-Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Qala ihhoko elinganikeza okunye okunenjongo okungeyona yenkampani ku-Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Sazise nganoma iziphi ezinye izindlela zokusiza okungenani ukuhlinzeka ngokuzivikela okungamatshe amaningi ku-Cloudflare.
 
@@ -464,4 +464,4 @@ Akukho lutho lwekusasa ngalokhu. Sesivele silahlekile.
 ### Manje wenzeni namhlanje?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
