@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Vi anbefaler at du tar kontakt med administratørene for de spesifikke tjenestene eller nettstedene du støter på og deler opplevelsen din.
 ```
 
-[Hvis du ikke ber om det, vet nettstedseieren aldri dette problemet.](PEOPLE.md)
+[Hvis du ikke ber om det, vet nettstedseieren aldri dette problemet.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Vellykket eksempel](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Du har et problem? [Hev stemmen din nå.](https://github.com/maraoz/maraoz.github.io/issues/1) Eksempel nedenfor.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Dette er et eksempel på personvernregler som ikke har ordet Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare har sin egen personvernpolicy.
 [Cloudflare elsker doxxing mennesker.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Hvis Cloudflare lekker informasjonen din eller ikke lar deg koble til serverne v
 
 [ Melde deg på ] [ jeg er uenig ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Prøv å ikke bruke tjenesten deres. Husk at du blir overvåket av Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Søk etter et annet nettsted. Det finnes alternativer og muligheter på internett!
 
 - Overbevis vennene dine om å bruke Tor til daglig.
   - Anonymitet skal være standarden på det åpne internett!
-  - [Vær oppmerksom på at Tor-prosjektet misliker dette prosjektet.](HISTORY.md)
+  - [Vær oppmerksom på at Tor-prosjektet misliker dette prosjektet.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Hvis Cloudflare lekker informasjonen din eller ikke lar deg koble til serverne v
 
 | Navn | Utvikler | Brukerstøtte | Kan blokkere | Kan varsle | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ja**     | **Ja**     |  **Ja** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nei     | **Ja**     |  **Ja** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nei     | **Ja**     |  **Ja** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ja**     | **Ja**     |  Nei |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ja**     | **Ja**     |  **Ja** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nei     | **Ja**     |  **Ja** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nei     | **Ja**     |  **Ja** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ja**     | **Ja**     |  Nei |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ja**     | **Ja**     |  Nei |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nei     | **Ja**     |  Nei |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nei     | **Ja**     |  Nei |
@@ -139,38 +139,38 @@ Hvis Cloudflare lekker informasjonen din eller ikke lar deg koble til serverne v
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Ikke bruk Cloudflare-løsning, periode.
   - Du kan gjøre det bedre enn det, ikke sant? [Slik fjerner du Cloudflare-abonnementer, planer, domener eller kontoer.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Vil du ha flere kunder? Du vet hva du skal gjøre. Hint er "over linjen".
   - [Hei, du skrev "Vi tar personvernet ditt seriøst", men jeg fikk "Feil 403 Forbidden Anonymous Proxy Not Tillatt".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Hvorfor blokkerer du Tor Or VPN? [Og hvorfor blokkerer du midlertidige e-poster?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Bruk av Cloudflare øker sjansene for et strømbrudd. Besøkende kan ikke få tilgang til nettstedet ditt hvis serveren din er nede eller Cloudflare er nede.
-  - [Trodde du virkelig at Cloudflare aldri gikk ned?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Trodde du virkelig at Cloudflare aldri gikk ned?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Hvis du bruker Cloudflare til å proxy din "API-tjeneste", "programvareoppdateringsserver" eller "RSS-feed", vil det skade kunden din. En kunde ringte deg og sa "Jeg kan ikke bruke API-en din lenger", og du aner ikke hva som skjer. Cloudflare kan stille blokkere kunden din. Synes du det er greit?
   - Det er mange RSS-leserklienter og RSS-lesertjenester online. Hvorfor publiserer du RSS-feed hvis du ikke lar folk abonnere?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Trenger du HTTPS-sertifikat? Bruk "Let's Encrypt" eller bare kjøp det fra CA-selskapet.
 
 - Trenger du DNS-server? Kan du ikke sette opp din egen server? Hva med dem: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Administrator sletter kontoen din hvis du bruker TOR)](https://freedns.afraid.org/)
 
 - Leter du etter vertstjeneste? Bare gratis? Hva med dem: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternativer til Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Alternativer til Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Bruker du "cloudflare-ipfs.com"? [Vet du at Cloudflare IPFS er dårlig?](PEOPLE.md)
+- Bruker du "cloudflare-ipfs.com"? [Vet du at Cloudflare IPFS er dårlig?](../PEOPLE.md)
 
 - Installer webapplikasjonsbrannmur som OWASP og Fail2Ban på serveren din og konfigurer den riktig.
   - Å blokkere Tor er ikke en løsning. Ikke straff alle bare for små dårlige brukere.
@@ -297,7 +297,7 @@ Det er ingen 100% sikker eller 100% privat på internett og teknologi.
 
 - Vil du ikke bruke Tor? Du kan bruke hvilken som helst nettleser med Tor-demon.
   - [Merk at Tor-prosjektet ikke liker dette.](https://support.torproject.org/tbb/tbb-9/) Bruk Tor Browser hvis du er i stand til å gjøre det.
-- [Hvordan bruke Chromium med Tor](subfiles/chromium_tor.md)
+- [Hvordan bruke Chromium med Tor](../subfiles/chromium_tor.md)
 
 
 La oss snakke om personvernet til annen programvare.
@@ -377,12 +377,12 @@ Derfor anbefaler vi bare tabellen ovenfor. Ingenting annet.
 - ~~Rapporter en feil på mozillas tracker, og fortell dem at de ikke skal bruke Cloudflare.~~ Det var en feilrapport om bugzilla. Mange mennesker ble lagt inn sin bekymring, men feilen ble skjult av administratoren i 2018.
 
 - Du kan deaktivere DoH i Firefox.
-  - [Endre standard DNS-leverandør av Firefox](subfiles/change-firefox-dns.md)
+  - [Endre standard DNS-leverandør av Firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Hvis du ønsker å bruke DNS som ikke er ISP, bør du vurdere å bruke OpenNIC Tier2 DNS-tjeneste eller noen av de ikke-Cloudflare DNS-tjenestene.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Blokkere Cloudflare med DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Du kan bruke Tor som DNS-resolver. [Hvis du ikke er Tor-ekspert, kan du stille spørsmål her.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Derfor anbefaler vi bare tabellen ovenfor. Ingenting annet.
 
 - Der det er hensiktsmessig, lenker du til disse gruppene på dette depotet - dette kan være et sted for å koordinere samarbeidet som grupper.
 
-- [Start et coop som kan gi et meningsfylt alternativ til Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Start et coop som kan gi et meningsfylt alternativ til Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Gi oss beskjed om eventuelle alternativer for å hjelpe i det minste å gi flerlagsforsvar mot Cloudflare.
 
@@ -464,4 +464,4 @@ Det er ikke noe futuristisk ved dette. Vi har allerede tapt.
 ### Hva gjorde du i dag?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
