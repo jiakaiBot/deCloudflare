@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Nou rekòmande ke ou kontakte administratè yo pou sèvis yo espesifik oswa sit ke ou kouri antre nan pwoblèm ak ak pataje eksperyans ou.
 ```
 
-[Si ou pa mande pou li, mèt sit entènèt pa janm konnen pwoblèm sa a.](PEOPLE.md)
+[Si ou pa mande pou li, mèt sit entènèt pa janm konnen pwoblèm sa a.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Egzanp siksè](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Ou gen yon pwoblèm? [Leve vwa ou kounye a.](https://github.com/maraoz/maraoz.github.io/issues/1) Egzanp anba a.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Sa a se yon egzanp sou politik vi prive ki pa gen mo Cloudflare la.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare gen pwòp règleman sou vi prive yo.
 [Cloudflare renmen moun doxxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Si Cloudflare koule enfòmasyon ou oswa ou pa pral kite ou konekte ak serveurs n
 
 [ Enskri ] [ mwen pa dakò ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Eseye pa sèvi ak sèvis yo. Sonje ou ap gade pa Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Rechèch pou lòt sit entènèt. Gen altènativ ak opòtinite sou entènèt la!
 
 - Konvenk zanmi ou yo sèvi ak Tor sou baz chak jou.
   - Anonim yo ta dwe estanda nan entènèt la louvri!
-  - [Remake byen ke pwojè a Tor aversion pwojè sa a.](HISTORY.md)
+  - [Remake byen ke pwojè a Tor aversion pwojè sa a.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Si Cloudflare koule enfòmasyon ou oswa ou pa pral kite ou konekte ak serveurs n
 
 | Non | Devlopè | Sipò | Kapab bloke | Kapab Notifye | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Wi**     | **Wi**     |  **Wi** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Non     | **Wi**     |  **Wi** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Non     | **Wi**     |  **Wi** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Wi**     | **Wi**     |  Non |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Wi**     | **Wi**     |  **Wi** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Non     | **Wi**     |  **Wi** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Non     | **Wi**     |  **Wi** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Wi**     | **Wi**     |  Non |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Wi**     | **Wi**     |  Non |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Non     | **Wi**     |  Non |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Non     | **Wi**     |  Non |
@@ -139,38 +139,38 @@ Si Cloudflare koule enfòmasyon ou oswa ou pa pral kite ou konekte ak serveurs n
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Pa sèvi ak solisyon Cloudflare, Peryòd.
   - Ou ka fè pi byen pase sa, dwa? [Men ki jan yo retire Cloudflare abonnements, plan, domèn, oswa kont.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Vle plis kliyan? Ou konnen kisa w dwe fè. Sijesyon se "pi wo a liy".
   - [Bonjou, ou te ekri "Nou pran vi prive ou oserye" men mwen te resevwa "Erè 403 Entèdi Anonim Proxy pa pèmèt".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Poukisa ou bloke Tor Oswa VPN? [Epi poukisa ou bloke Imèl tanporè?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Sèvi ak Cloudflare ap ogmante chans pou yon pann. Vizitè yo pa ka gen aksè a sit entènèt ou si sèvè ou a desann oswa Cloudflare se desann.
-  - [Eske ou te reyèlman panse Cloudflare pa janm desann?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Eske ou te reyèlman panse Cloudflare pa janm desann?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Sèvi ak Cloudflare prokurasyon "sèvis API" ou, "sèvè aktyalizasyon lojisyèl" oswa "RSS feed" ap mal kliyan ou yo. Yon kliyan rele ou epi li di "Mwen pa ka itilize API ou ankò", epi ou pa gen okenn lide ki sa k ap pase. Cloudflare ka an silans bloke kliyan ou yo. Èske ou panse li anfòm?
   - Gen anpil kliyan lektè RSS ak sèvis lektè RSS sou entènèt. Poukisa ou pibliye RSS feed si ou pa pèmèt moun yo abònman?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Èske ou bezwen sètifika HTTPS? Sèvi ak "Ann chifreman" oswa jis achte li nan men konpayi CA.
 
 - Èske ou bezwen sèvè dns? Pa ka mete kanpe sèvè pwòp ou a? Kouman sou yo: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin efase kont ou si ou itilize TOR)](https://freedns.afraid.org/)
 
 - Kap chèche sèvis hosting? Gratis sèlman? Kouman sou yo: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Altènativ a Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Altènativ a Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Èske w ap itilize "cloudflare-ipfs.com"? [Èske w konnen Cloudflare IPFS pa bon?](PEOPLE.md)
+- Èske w ap itilize "cloudflare-ipfs.com"? [Èske w konnen Cloudflare IPFS pa bon?](../PEOPLE.md)
 
 - Enstale Firewall Aplikasyon entènèt tankou OWASP ak Fail2Ban sou sèvè ou ak configured li byen.
   - Bloke Tor se pa yon solisyon. Pa pini tout moun jis pou ti itilizatè move.
@@ -297,7 +297,7 @@ Pa gen okenn 100% sekirite ni 100% prive sou entènèt la ak teknoloji.
 
 - Ou pa vle sèvi ak Tor? Ou ka itilize nenpòt navigatè ak Tor daemon.
   - [Remake byen ke pwojè a Tor pa renmen sa a.](https://support.torproject.org/tbb/tbb-9/) Sèvi ak Tor Navigatè si ou kapab fè sa.
-- [Kouman yo itilize Chromium ak Tor](subfiles/chromium_tor.md)
+- [Kouman yo itilize Chromium ak Tor](../subfiles/chromium_tor.md)
 
 
 Ann pale sou vi prive lòt lojisyèl an.
@@ -377,12 +377,12 @@ Se poutèt sa nou rekòmande anwo tab la sèlman. Anyen ankò.
 - ~~Rapòte yon ensèk sou tracker Mozilla a, di yo pa sèvi ak Cloudflare.~~ Te gen yon rapò ensèk sou bugzilla. Anpil moun te afiche enkyetid yo, sepandan admin an te kache ensèk la nan 2018.
 
 - Ou ka enfim DoH nan Firefox.
-  - [Chanje default founisè dns nan Firefox](subfiles/change-firefox-dns.md)
+  - [Chanje default founisè dns nan Firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Si ou ta renmen itilize ki pa ISP dns, konsidere lè l sèvi avèk OpenNIC Tier2 sèvis dns oswa nenpòt nan sèvis dns ki pa Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Bloke Cloudflare ak dns. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Ou ka itilize Tor kòm rezolveur dns. [Si ou pa ekspè Tor, poze kesyon isit la.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Se poutèt sa nou rekòmande anwo tab la sèlman. Anyen ankò.
 
 - Kote sa apwopriye, ap mennen nan gwoup sa yo sou repozitwa sa a - sa kapab yon kote pou kowòdone k ap travay ansanm kòm gwoup.
 
-- [Kòmanse yon poulaye ki ka bay yon altènatif siyifikatif ki pa antrepriz Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Kòmanse yon poulaye ki ka bay yon altènatif siyifikatif ki pa antrepriz Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Fè nou konnen nenpòt ki altènativ pou ede omwen bay plizyè defans kouch kont Cloudflare.
 
@@ -464,4 +464,4 @@ Pa gen anyen futurist sou sa. Nou deja pèdi.
 ### Kounye a, kisa ou te fè jodi a?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
