@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 သင်၏ပြexperienceနာနှင့်ကြုံတွေ့ရသောတိကျသော ၀ န်ဆောင်မှုများ (သို့) သင်၏အတွေ့အကြုံများကိုမျှဝေရန်အတွက်တိကျသော ၀ န်ဆောင်မှုများသို့မဟုတ် ၀ က်ဘ်ဆိုက်များအတွက်အုပ်ချုပ်ရေးမှူးများထံဆက်သွယ်ပါ။
 ```
 
-[သင်မတောင်းခံပါက ၀ က်ဘ်ဆိုက်ပိုင်ရှင်သည်ဤပြthisနာကိုမည်သည့်အခါကမျှမသိပါ။](PEOPLE.md)
+[သင်မတောင်းခံပါက ၀ က်ဘ်ဆိုက်ပိုင်ရှင်သည်ဤပြthisနာကိုမည်သည့်အခါကမျှမသိပါ။](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [အောင်မြင်သောဥပမာ](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 မင်းမှာပြaနာရှိလား။ [ယခုအသံလွှင့်ပါ။](https://github.com/maraoz/maraoz.github.io/issues/1) အောက်ကဥပမာ။
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ဤသည်မှာ Cloudflare ဟူသောစကားလုံးမရှိသောသီးသန့်တည်ရှိမှုမူဝါဒ၏ဥပမာတစ်ခုဖြစ်သည်။
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare တွင်ကိုယ်ပိုင်သီးသန့်တည်ရှိမှုမူဝါဒရှိသည်။
 [Cloudflare သည် doxxing များကိုနှစ်သက်သည်။](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Cloudflare သည်သင်၏သတင်းအချက်အလက်မျ
 
 [ ဆိုင်းအပ် ] [ ကျွန်တော်သဘောမတူပါ ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - သူတို့ရဲ့ဝန်ဆောင်မှုကိုအသုံးမပြုဖို့ကြိုးစားပါ။ သင် Cloudflare အားဖြင့်ကြည့်ရှုနေကြောင်းသတိရပါ။
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - အခြားဝဘ်ဆိုက်ကိုရှာပါ။ အင်တာနက်ပေါ်တွင်အခြားနည်းလမ်းများနှင့်အခွင့်အလမ်းများရှိသည်။
 
 - သင်၏မိတ်ဆွေများကို Tor ကိုနေ့စဉ်အသုံးပြုရန်စည်းရုံးပါ။
   - အမည်ဝှက်ခြင်းသည်ပွင့်လင်းသောအင်တာနက်၏စံဖြစ်သင့်သည်။
-  - [Tor စီမံကိန်းသည်ဤစီမံကိန်းကိုမနှစ်သက်ကြောင်းသတိပြုပါ။](HISTORY.md)
+  - [Tor စီမံကိန်းသည်ဤစီမံကိန်းကိုမနှစ်သက်ကြောင်းသတိပြုပါ။](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Cloudflare သည်သင်၏သတင်းအချက်အလက်မျ
 
 | နာမည် | Developer | ပံ့ပိုးမှု | ပိတ်ဆို့နိုင်သည် | ကြေငြာနိုင် | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
@@ -139,38 +139,38 @@ Cloudflare သည်သင်၏သတင်းအချက်အလက်မျ
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Cloudflare ဖြေရှင်းချက် Period ကိုမသုံးပါနှင့်။
   - သင်, ထက်ပိုကောင်းတဲ့လုပ်နိုင်, ဟုတ်သလော [Cloudflare မှာယူမှုများ၊ အစီအစဉ်များ၊ ဒိုမိန်းများသို့မဟုတ်အကောင့်များကိုမည်သို့ဖယ်ရှားရမည်နည်း။](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - ဖောက်သည်များထပ်လိုချင်ပါသလား။ ဘာလုပ်ရမှန်းမသိဘူး အရိပ်အမြွက်သည် "အထက်မျဉ်း" ဖြစ်သည်။
   - [မင်္ဂလာပါ၊ သင်သည်သင်၏ပုဂ္ဂိုလ်ရေးလုံခြုံမှုကိုအလေးအနက်ထားသည်ဟုသင်ရေးသားခဲ့သော်လည်းကျွန်ုပ်သည် "Error 403 Forbidden Anonymous Proxy Not Allowed" ရရှိခဲ့သည်။](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ဘာလို့ Tor or VPN ကိုဘာကြောင့်ပိတ်ဆို့တာလဲ [အဘယ်ကြောင့်သင်ယာယီအီးမေးလ်များကိုပိတ်ဆို့ထားသနည်း](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Cloudflare ကိုအသုံးပြုခြင်းသည်ပြတ်တောက်မှုအတွက်အခွင့်အလမ်းများကိုတိုးပွားစေသည်။ သင်၏ဆာဗာပိတ်ထားခြင်းသို့မဟုတ် Cloudflare ပိတ်ထားပါက website ည့်သည်များသည်သင်၏ဝက်ဘ်ဆိုက်ကိုဝင်ရောက်ကြည့်ရှုနိုင်မည်မဟုတ်ပါ
-  - [Cloudflare ဟာဘယ်တော့မှမဆင်းဘူးလို့သင်ထင်ခဲ့တာလား](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Cloudflare ဟာဘယ်တော့မှမဆင်းဘူးလို့သင်ထင်ခဲ့တာလား](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Cloudflare ကို အသုံးပြု၍ သင်၏ "API ၀ န်ဆောင်မှု"၊ "ဆော့ဖ်ဝဲအပ်ဒိတ်ဆာဗာ" သို့မဟုတ် "RSS feed" ကိုအသုံးပြုခြင်းသည်သင်၏ဖောက်သည်ကိုထိခိုက်နစ်နာစေသည်။ ဖောက်သည်တစ်ယောက်ကမင်းကိုခေါ်ပြီး "မင်းရဲ့ API ကိုငါမသုံးနိုင်တော့ဘူး" လို့ပြောတယ်၊ ဘာဖြစ်နေလဲဆိုတာမင်းမသိဘူး။ Cloudflare သည်သင်၏ဖောက်သည်အားတိတ်တဆိတ်ပိတ်ဆို့နိုင်သည်။ ဒါကိုအဆင်ပြေတယ်လို့ထင်လား
   - RSS reader client နှင့် RSS reader online service များစွာရှိသည်။ လူတွေကိုစာရင်းသွင်းခွင့်မပြုရင်ဘာကြောင့် RSS Feed ကိုထုတ်ဝေနေတာလဲ။
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - HTTPS အသိအမှတ်ပြုလက်မှတ်လိုအပ်ပါသလား။ "Let's Encrypt" ကိုသုံးပါသို့မဟုတ် CA ကုမ္ပဏီမှဝယ်ပါ။
 
 - DNS server လိုအပ်ပါသလား သင်၏ကိုယ်ပိုင်ဆာဗာကိုတပ်ဆင်။ မရပါ။ သူတို့ကော: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (အကယ်၍ သင် TOR ကိုအသုံးပြုပါကသင့်အကောင့်အားအုပ်ချုပ်သူမှဖျက်ပစ်ပါ)](https://freedns.afraid.org/)
 
 - ဝန်ဆောင်မှုကိုရှာဖွေနေပါသလား။ အခမဲ့လား။ သူတို့ကော: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare မှအခြားရွေးချယ်စရာများ](subfiles/cloudflare-alternatives.md)
+  - [Cloudflare မှအခြားရွေးချယ်စရာများ](../subfiles/cloudflare-alternatives.md)
 
-- သင် "cloudflare-ipfs.com" ကိုအသုံးပြုနေပါသလား။ [Cloudflare IPFS မကောင်းဘူးဆိုတာသိလား။](PEOPLE.md)
+- သင် "cloudflare-ipfs.com" ကိုအသုံးပြုနေပါသလား။ [Cloudflare IPFS မကောင်းဘူးဆိုတာသိလား။](../PEOPLE.md)
 
 - သင်၏ဆာဗာတွင် OWASP နှင့် Fail2Ban ကဲ့သို့သော Web Application Firewall ကိုသွင်းပြီး၎င်းကိုစနစ်တကျ configure လုပ်ပါ။
   - Tor ကိုပိတ်ဆို့ခြင်းသည်အဖြေမဟုတ်ပါ။ သေးငယ်တဲ့မကောင်းတဲ့သုံးစွဲသူများအတွက်လူတိုင်းကိုအပြစ်မတင်ပါနှင့်။
@@ -297,7 +297,7 @@ die();
 
 - Tor ကိုအသုံးမပြုလိုပါသလား? Tor daemon ဖြင့်မည်သည့် browser ကိုမဆိုအသုံးပြုနိုင်သည်။
   - [သတိပြုရမည်မှာ Tor စီမံကိန်းသည်ဤသို့မနှစ်သက်ပါ။](https://support.torproject.org/tbb/tbb-9/) အကယ်၍ သင်နိုင်လျှင် Tor Browser ကိုသုံးပါ။
-- [Chromium ကို Tor နှင့်မည်သို့အသုံးပြုရမည်](subfiles/chromium_tor.md)
+- [Chromium ကို Tor နှင့်မည်သို့အသုံးပြုရမည်](../subfiles/chromium_tor.md)
 
 
 အခြားဆော့ (ဖ်) ဝဲ၏ privacy အကြောင်းပြောဆိုကြပါစို့။
@@ -377,12 +377,12 @@ die();
 - ~~mozilla ၏ tracker တွင်အမှားတစ်ခုကိုသတင်းပို့ပါ၊ Cloudflare ကိုမသုံးပါနှင့်ဟုပြောပါ။~~ bugzilla နှင့်ပတ်သက်သော bug report ရှိခဲ့သည်။ လူအတော်များများဟာသူတို့ရဲ့စိုးရိမ်ပူပန်မှုကိုဖော်ပြခဲ့ကြပေမယ့်ဒီအမှားဟာ 2018 ခုနှစ်မှာ admin ရဲ့လျှို့ဝှက်ချက်ကိုဖုံးကွယ်ထားခဲ့သည်။
 
 - DoH ကို Firefox တွင်ပိတ်နိုင်သည်။
-  - [Firefox ၏ပုံမှန် DNS ပံ့ပိုးသူကိုပြောင်းလဲပါ](subfiles/change-firefox-dns.md)
+  - [Firefox ၏ပုံမှန် DNS ပံ့ပိုးသူကိုပြောင်းလဲပါ](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [သင်သည် ISP မဟုတ်သော DNS ကိုအသုံးပြုလိုပါက OpenNIC Tier2 DNS ဝန်ဆောင်မှုသို့မဟုတ် Cloudflare မဟုတ်သော DNS ၀ န်ဆောင်မှုတစ်ခုခုကိုအသုံးပြုရန်စဉ်းစားပါ။](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - DNS ဖြင့် Cloudflare ကိုပိတ်ပါ။ [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - သင် Tor ကို DNS resolver အဖြစ်အသုံးပြုနိုင်သည်။ [သင် Tor ကျွမ်းကျင်သူမဟုတ်ပါကဤနေရာတွင်မေးခွန်းမေးပါ။](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - သင့်လျော်သည့်နေရာတွင်ဤ repository ရှိဤအုပ်စုများနှင့်ချိတ်ဆက်ပါ။ ၎င်းသည်အုပ်စုများအနေဖြင့်အတူတကွလုပ်ဆောင်ရန်ညှိနှိုင်းရန်နေရာဖြစ်နိုင်သည်။
 
-- [Cloudflare အတွက်အဓိပ္ပာယ်ပြည့်ဝသောကော်ပိုရေးရှင်းမဟုတ်သောအခြားရွေးချယ်စရာတစ်ခုပေးနိုင်သည့် coop တစ်ခုကိုစတင်ပါ။](subfiles/cloudflare-alternatives.md)
+- [Cloudflare အတွက်အဓိပ္ပာယ်ပြည့်ဝသောကော်ပိုရေးရှင်းမဟုတ်သောအခြားရွေးချယ်စရာတစ်ခုပေးနိုင်သည့် coop တစ်ခုကိုစတင်ပါ။](../subfiles/cloudflare-alternatives.md)
 
 - အနည်းဆုံး Cloudflare ကိုကာကွယ်ရန်အလွှာခုခံကာကွယ်မှုများကိုကူညီရန်မည်သည့်အခြားနည်းလမ်းကိုမဆိုကျွန်ုပ်တို့အားအသိပေးပါ။
 
@@ -464,4 +464,4 @@ die();
 ### အခုဒီနေ့ဘာလုပ်လဲ
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
