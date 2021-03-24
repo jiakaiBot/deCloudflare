@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Disaranake sampeyan menghubungi administrator kanggo layanan utawa situs tartamtu sing sampeyan lakoni lan nuduhake pengalaman sampeyan.
 ```
 
-[Yen sampeyan ora njaluk, pemilik situs web ora bakal ngerti masalah iki.](PEOPLE.md)
+[Yen sampeyan ora njaluk, pemilik situs web ora bakal ngerti masalah iki.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Tuladha sing sukses](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Sampeyan duwe masalah? [Ngunggahake swara saiki.](https://github.com/maraoz/maraoz.github.io/issues/1) Tuladha ing ngisor iki.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Iki minangka conto kabijakan privasi sing ora duwe tembung Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare duwe kabijakan privasi dhewe.
 [Cloudflare seneng karo wong sing doxxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Yen Cloudflare ngeculake informasi sampeyan utawa ora ngidini sampeyan nyambung 
 
 [ Ndhaptar ] [ Aku ora setuju ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Coba aja nggunakake layanane. Elinga yen sampeyan ditonton dening Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Telusuri situs web liyane. Ana alternatif lan kesempatan ing internet!
 
 - Mestekake kanca supaya nggunakake Tor saben dina.
   - Anonimitas kudu dadi standar internet mbukak!
-  - [Elinga yen proyek Tor ora seneng karo proyek iki.](HISTORY.md)
+  - [Elinga yen proyek Tor ora seneng karo proyek iki.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Yen Cloudflare ngeculake informasi sampeyan utawa ora ngidini sampeyan nyambung 
 
 | Jeneng | Pangembang | Dhukungan | Bisa Blokir | Ora Bisa ngabari | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Nggih**     | **Nggih**     |  **Nggih** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ora     | **Nggih**     |  **Nggih** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ora     | **Nggih**     |  **Nggih** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Nggih**     | **Nggih**     |  Ora |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Nggih**     | **Nggih**     |  **Nggih** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ora     | **Nggih**     |  **Nggih** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ora     | **Nggih**     |  **Nggih** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Nggih**     | **Nggih**     |  Ora |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Nggih**     | **Nggih**     |  Ora |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ora     | **Nggih**     |  Ora |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ora     | **Nggih**     |  Ora |
@@ -139,38 +139,38 @@ Yen Cloudflare ngeculake informasi sampeyan utawa ora ngidini sampeyan nyambung 
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Aja nggunakake solusi Cloudflare, Periode.
   - Sampeyan bisa nindakake luwih apik tinimbang iku, bener? [Mangkene carane mbusak langganan Cloudflare, rencana, domain, utawa akun.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Pengin luwih akeh pelanggan? Sampeyan ngerti apa sing kudu ditindakake. Petunjuk minangka "baris ing ndhuwur".
   - [Halo, sampeyan nulis "Kita nggawe privasi sampeyan kanthi serius" nanging aku entuk "Kesalahan 403 Proxy Anonim Dilarang Ora Diidini".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Napa sampeyan ngalangi Tor Utawa VPN? [Lan kenapa sampeyan ngalangi email sementara?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Nggunakake Cloudflare bakal nambah kemungkinan pemadaman. Pengunjung ora bisa ngakses situs web sampeyan yen server sampeyan mati utawa Cloudflare ora aktif.
-  - [Apa sampeyan mikir tenan manawa Cloudflare ora bakal mudhun?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Apa sampeyan mikir tenan manawa Cloudflare ora bakal mudhun?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Nggunakake Cloudflare kanggo proksi "layanan API", "server nganyari piranti lunak" utawa "feed RSS" bakal ngrugekake pelanggan. Pelanggan nyeluk sampeyan lan ujar "Aku ora bisa nggunakake API sampeyan maneh", lan sampeyan ora ngerti apa sing kedadeyan. Cloudflare bisa meneng-menengan mblokir pelanggan sampeyan. Apa sampeyan mikir ora apa-apa?
   - Ana akeh klien maca RSS lan layanan online maca RSS. Napa sampeyan nerbitake feed RSS yen sampeyan ora ngidini wong langganan?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Apa sampeyan butuh sertifikat HTTPS? Gunakake "Ayo Ndhelik" utawa tuku saka perusahaan CA.
 
 - Apa sampeyan butuh server DNS? Ora bisa nyiyapake server sampeyan dhewe? Kepiye carane: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin busak akun sampeyan yen nggunakake TOR)](https://freedns.afraid.org/)
 
 - Nggolek layanan hosting? Gratis wae? Kepiye carane: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatif kanggo Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Alternatif kanggo Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Apa sampeyan nggunakake "cloudflare-ipfs.com"? [Apa sampeyan ngerti Cloudflare IPFS iku ala?](PEOPLE.md)
+- Apa sampeyan nggunakake "cloudflare-ipfs.com"? [Apa sampeyan ngerti Cloudflare IPFS iku ala?](../PEOPLE.md)
 
 - Instal Firewall Aplikasi Web kayata OWASP lan Fail2Ban ing server sampeyan lan atur kanthi bener.
   - Mblokir Tor dudu solusi. Aja ngukum kabeh wong mung kanggo pangguna cilik sing ala.
@@ -297,7 +297,7 @@ Ora ana 100% aman utawa 100% pribadi ing internet lan teknologi.
 
 - Ora pengin nggunakake Tor? Sampeyan bisa nggunakake browser apa wae nganggo Tor daemon.
   - [Elinga yen proyek Tor ora seneng iki.](https://support.torproject.org/tbb/tbb-9/) Gunakake Browser Tor yen sampeyan bisa nindakake.
-- [Cara nggunakake Chromium nganggo Tor](subfiles/chromium_tor.md)
+- [Cara nggunakake Chromium nganggo Tor](../subfiles/chromium_tor.md)
 
 
 Ayo ngobrol babagan privasi piranti lunak liyane.
@@ -377,12 +377,12 @@ Mula, disaranake mung tabel ing ndhuwur. Ora liya.
 - ~~Laporake bug babagan tracker mozilla, supaya ora nggunakake Cloudflare.~~ Ana laporan bug babagan bugzilla. Akeh wong sing ngirim keprihatinan, nanging bug kasebut didhelikake dening admin ing taun 2018.
 
 - Sampeyan bisa mateni DoH ing Firefox.
-  - [Ganti panyedhiya firefox DNS default](subfiles/change-firefox-dns.md)
+  - [Ganti panyedhiya firefox DNS default](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Yen sampeyan pengin nggunakake DNS non-ISP, coba gunakake layanan OpenNIC Tier2 DNS utawa layanan DNS non-Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Blokir Cloudflare nganggo DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Sampeyan bisa nggunakake Tor minangka resolusi DNS. [Yen sampeyan dudu ahli Tor, takon ing kene.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Mula, disaranake mung tabel ing ndhuwur. Ora liya.
 
 - Yen cocog, link menyang klompok kasebut ing repositori iki - iki bisa dadi papan kanggo koordinasi kerja bebarengan minangka grup.
 
-- [Miwiti koop sing bisa nyedhiyani alternatif non perusahaan sing migunani kanggo Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Miwiti koop sing bisa nyedhiyani alternatif non perusahaan sing migunani kanggo Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Ayo ngerti alternatif liyane kanggo paling ora nyedhiyakake sawetara pertahanan berlapis marang Cloudflare.
 
@@ -464,4 +464,4 @@ Ora ana sing futuristik babagan iki. Kita wis kalah.
 ### Saiki, apa sing sampeyan lakoni dina iki?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
