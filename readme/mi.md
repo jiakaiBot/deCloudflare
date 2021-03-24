@@ -128,7 +128,7 @@ Ko tenei kohinga tetahi raarangi o nga paetukutuku kei muri i te "The Cloudwall 
 
 * [Anei etahi PDF / ePUB hei panui.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
