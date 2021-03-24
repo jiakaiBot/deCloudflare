@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Javasoljuk, hogy forduljon a rendszergazdákhoz azokkal a szolgáltatásokkal vagy webhelyekkel kapcsolatban, amelyekkel problémába ütközik, és ossza meg tapasztalatait.
 ```
 
-[Ha nem kéri, akkor a webhely tulajdonosa soha nem tudja ezt a problémát.](PEOPLE.md)
+[Ha nem kéri, akkor a webhely tulajdonosa soha nem tudja ezt a problémát.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Sikeres példa](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Van egy problémád? [Emeld fel most a hangod.](https://github.com/maraoz/maraoz.github.io/issues/1) Az alábbi példa.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Ez egy példa az adatvédelmi irányelvekre, amelyek nem tartalmazzák a Cloudflare szót.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 A Cloudflare saját adatvédelmi irányelvekkel rendelkezik.
 [A Cloudflare szereti a doxing embereket.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Ha a Cloudflare kiszivárogtatja adatait, vagy nem engedi, hogy csatlakozzon sze
 
 [ Regisztrálj ] [ nem értek egyet ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Ne használja a szolgáltatásukat. Ne feledje, hogy a Cloudflare figyeli.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Más webhely keresése. Vannak alternatívák és lehetőségek az interneten!
 
 - Győzze meg barátait a napi Tor használatáról.
   - A névtelenség legyen a nyílt internet mércéje!
-  - [Ne feledje, hogy a Tor projekt nem szereti ezt a projektet.](HISTORY.md)
+  - [Ne feledje, hogy a Tor projekt nem szereti ezt a projektet.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Ha a Cloudflare kiszivárogtatja adatait, vagy nem engedi, hogy csatlakozzon sze
 
 | Név | Fejlesztő | Támogatás | Blokkolhat | Értesíteni tud | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Igen**     | **Igen**     |  **Igen** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nem     | **Igen**     |  **Igen** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nem     | **Igen**     |  **Igen** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Igen**     | **Igen**     |  Nem |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Igen**     | **Igen**     |  **Igen** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nem     | **Igen**     |  **Igen** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nem     | **Igen**     |  **Igen** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Igen**     | **Igen**     |  Nem |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Igen**     | **Igen**     |  Nem |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nem     | **Igen**     |  Nem |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nem     | **Igen**     |  Nem |
@@ -139,38 +139,38 @@ Ha a Cloudflare kiszivárogtatja adatait, vagy nem engedi, hogy csatlakozzon sze
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Ne használja a Cloudflare megoldást, Period.
   - Ennél jobban is lehet, igaz? [A Cloudflare-előfizetéseket, terveket, domaineket vagy fiókokat a következőképpen távolíthatja el.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Szeretne több ügyfelet? Tudod mit kell tenned. A tipp a vonal fölött van.
   - [Helló, azt írta, hogy "Komolyan vesszük a magánéletét", de a "403-as hiba tiltott névtelen proxy nem engedélyezett" üzenetet kaptam.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Miért blokkolja a Tor vagy a VPN-t? [És miért blokkolja az ideiglenes e-maileket?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - A Cloudflare használata növeli a kiesés esélyét. A látogatók nem férhetnek hozzá az Ön webhelyéhez, ha a szerver nem működik, vagy a Cloudflare nem működik.
-  - [Tényleg azt hitted, hogy a Cloudflare soha nem megy le?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Tényleg azt hitted, hogy a Cloudflare soha nem megy le?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - A Cloudflare használata az "API-szolgáltatás", a "szoftverfrissítési szerver" vagy az "RSS-hírcsatorna" proxyként árt az ügyfelének. Egy ügyfél felhívott téged, és azt mondta: "Nem használhatom tovább az API-t", és fogalmad sincs, mi folyik itt. A Cloudflare némán blokkolja az ügyfelet. Szerinted rendben van?
   - Számos RSS-olvasó kliens és RSS-olvasó online szolgáltatás létezik. Miért tesz közzé RSS-hírcsatornát, ha nem engedi meg az embereknek, hogy előfizetjenek?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Szüksége van HTTPS tanúsítványra? Használja a "Let's Encrypt" -t, vagy csak vásárolja meg a CA cégtől.
 
 - Szüksége van DNS szerverre? Nem tudja beállítani a saját szerverét? Mi lenne velük: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Az adminisztrátor törölje a fiókját, ha a TOR-t használja)](https://freedns.afraid.org/)
 
 - Tárhelyszolgáltatást keres? Csak ingyen? Mi lenne velük: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [A Cloudflare alternatívái](subfiles/cloudflare-alternatives.md)
+  - [A Cloudflare alternatívái](../subfiles/cloudflare-alternatives.md)
 
-- A "cloudflare-ipfs.com" címet használja? [Tudja, hogy a Cloudflare IPFS rossz?](PEOPLE.md)
+- A "cloudflare-ipfs.com" címet használja? [Tudja, hogy a Cloudflare IPFS rossz?](../PEOPLE.md)
 
 - Telepítse a szerverre az internetes alkalmazás tűzfalát, például az OWASP-t és a Fail2Ban-t, és konfigurálja megfelelően.
   - A Tor blokkolása nem megoldás. Ne büntessen mindenkit csak a rossz rossz felhasználókért.
@@ -297,7 +297,7 @@ Az interneten és a technológián nincs 100% -ban biztonságos és 100% -ban pr
 
 - Nem akarja használni a Tor-ot? Bármely böngészőt használhat a Tor démonnal.
   - [Ne feledje, hogy a Tor projekt ezt nem szereti.](https://support.torproject.org/tbb/tbb-9/) Használja a Tor böngészőt, ha képes erre.
-- [Hogyan kell használni a Chromiumot a Tor-val](subfiles/chromium_tor.md)
+- [Hogyan kell használni a Chromiumot a Tor-val](../subfiles/chromium_tor.md)
 
 
 Beszéljünk más szoftverek magánéletéről.
@@ -377,12 +377,12 @@ Ezért csak a fenti táblázatban ajánljuk. Semmi más.
 - ~~Jelentsen egy hibát a mozilla nyomkövetőjén, mondván, hogy ne használják a Cloudflare-t.~~ Hibabejelentés történt a bugzilláról. Sok ember felkereste aggodalmát, azonban a hibát az admin elrejtette 2018-ban.
 
 - Letilthatja a DoH-t a Firefoxban.
-  - [A Firefox alapértelmezett DNS-szolgáltatójának módosítása](subfiles/change-firefox-dns.md)
+  - [A Firefox alapértelmezett DNS-szolgáltatójának módosítása](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Ha nem ISP DNS-t szeretne használni, fontolja meg az OpenNIC Tier2 DNS szolgáltatás vagy bármely nem Cloudflare DNS szolgáltatás használatát.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Blokkolja a Cloudflare-t DNS-sel. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Használhatja a Tor-t DNS-feloldóként. [Ha Ön nem Tor szakértő, tegyen fel kérdést itt.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Ezért csak a fenti táblázatban ajánljuk. Semmi más.
 
 - Adott esetben kapcsolja össze ezen adattár ezen csoportjait - ez lehet a hely a csoportos együttműködés koordinálására.
 
-- [Indítson együttműködést, amely a Cloudflare nem vállalati alternatíváját kínálja.](subfiles/cloudflare-alternatives.md)
+- [Indítson együttműködést, amely a Cloudflare nem vállalati alternatíváját kínálja.](../subfiles/cloudflare-alternatives.md)
 
 - Mondjon nekünk bármilyen alternatívát, amely legalább többrétegű védelmet nyújt a Cloudflare ellen.
 
@@ -464,4 +464,4 @@ Nincs ebben semmi futurisztikus. Már veszítettünk.
 ### Most mit csináltál ma?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
