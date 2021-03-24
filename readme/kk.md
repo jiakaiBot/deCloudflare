@@ -128,7 +128,7 @@
 
 * [Мұнда оқу үшін бірнеше PDF / ePUB бар.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
