@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 A ṣe iṣeduro pe ki o de ọdọ awọn alaṣẹ fun awọn iṣẹ kan pato tabi awọn aaye ti o ṣaṣeyọri pẹlu ki o pin iriri rẹ.
 ```
 
-[Ti o ko ba beere fun, oluwa aaye ayelujara ko mọ iṣoro yii.](PEOPLE.md)
+[Ti o ko ba beere fun, oluwa aaye ayelujara ko mọ iṣoro yii.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Apẹẹrẹ aṣeyọri](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Ṣe o ni iṣoro kan? [Gbe ohun rẹ soke bayi.](https://github.com/maraoz/maraoz.github.io/issues/1) Apẹẹrẹ ni isalẹ.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Eyi jẹ apẹẹrẹ ti eto imulo ipamọ eyiti ko ni ọrọ Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare ni eto imulo ti ara wọn.
 [Cloudflare fẹran awọn eniyan doxxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Ti Cloudflare jo alaye rẹ tabi kii yoo jẹ ki o sopọ si awọn olupin wa, k
 
 [ forukọsilẹ ] [ mi o gba ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Gbiyanju lati ma lo iṣẹ wọn. Ranti pe Cloudflare n wo ọ.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Wa fun oju opo wẹẹbu miiran. Awọn omiiran ati awọn aye ni ori ayelujara!
 
 - Ṣe idaniloju awọn ọrẹ rẹ lati lo Tor lojoojumọ.
   - Aigbagbọ yẹ ki o jẹ boṣewa ti ayelujara ṣiṣi!
-  - [Ṣe akiyesi pe iṣẹ Tor ko fẹran iṣẹ yii.](HISTORY.md)
+  - [Ṣe akiyesi pe iṣẹ Tor ko fẹran iṣẹ yii.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Ti Cloudflare jo alaye rẹ tabi kii yoo jẹ ki o sopọ si awọn olupin wa, k
 
 | Orukọ | Olùgbéejáde | Atilẹyin | Le Àkọsílẹ | Le leti | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Bẹẹni**     | **Bẹẹni**     |  **Bẹẹni** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Rara     | **Bẹẹni**     |  **Bẹẹni** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Rara     | **Bẹẹni**     |  **Bẹẹni** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Bẹẹni**     | **Bẹẹni**     |  Rara |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Bẹẹni**     | **Bẹẹni**     |  **Bẹẹni** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Rara     | **Bẹẹni**     |  **Bẹẹni** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Rara     | **Bẹẹni**     |  **Bẹẹni** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Bẹẹni**     | **Bẹẹni**     |  Rara |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Bẹẹni**     | **Bẹẹni**     |  Rara |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Rara     | **Bẹẹni**     |  Rara |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Rara     | **Bẹẹni**     |  Rara |
@@ -139,38 +139,38 @@ Ti Cloudflare jo alaye rẹ tabi kii yoo jẹ ki o sopọ si awọn olupin wa, k
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Maṣe lo ojutu Cloudflare, Akoko.
   - O le ṣe dara julọ ju iyẹn lọ, otun? [Eyi ni bi o ṣe le yọ awọn ṣiṣe alabapin Cloudflare kuro, awọn ero, awọn ibugbe, tabi awọn iroyin.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ṣe o fẹ awọn alabara diẹ sii? O mọ kini lati ṣe. Ofiri ni "ila laini".
   - [Kaabo, o kọwe “A gba ikọkọ rẹ ni isẹ” ṣugbọn Mo ni “Aṣiṣe 403 Alailowaya aṣoju alailorukọ ti a ko gba laaye”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kini idi ti o fi n dina Tor Tabi VPN? [Ati pe kilode ti o fi npa awọn imeeli igba diẹ?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Lilo Cloudflare yoo mu alekun awọn ijade kuro. Awọn alejo ko le wọle si oju opo wẹẹbu rẹ ti olupin rẹ ba wa ni isalẹ tabi Cloudflare wa ni isalẹ.
-  - [Njẹ o ro pe Cloudflare ko lọ si isalẹ?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Njẹ o ro pe Cloudflare ko lọ si isalẹ?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Lilo Cloudflare lati ṣe aṣoju “iṣẹ API” rẹ, “olupin imudojuiwọn sọfitiwia” tabi “kikọ sii RSS” yoo ba alabara rẹ jẹ. Onibara kan pe ọ o sọ pe “Mi o le lo API rẹ mọ”, ati pe o ko mọ ohun ti n lọ. Cloudflare le dakẹ dẹkun alabara rẹ. Ṣe o ro pe o dara?
   - Ọpọlọpọ alabara oluka RSS ati iṣẹ ayelujara ti oluka RSS wa. Kini idi ti o fi nkede kikọ sii RSS ti o ko ba gba eniyan laaye lati ṣe alabapin?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Ṣe o nilo ijẹrisi HTTPS? Lo "Jẹ ki a Encrypt" tabi ra nikan lati ile-iṣẹ CA.
 
 - Ṣe o nilo olupin DNS? Ko le ṣeto olupin tirẹ? Bawo ni nipa wọn: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Abojuto paarẹ akọọlẹ rẹ ti o ba lo TOR)](https://freedns.afraid.org/)
 
 - Ṣe o n wa iṣẹ alejo gbigba? Free nikan? Bawo ni nipa wọn: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Awọn omiiran si Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Awọn omiiran si Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Ṣe o nlo "cloudflare-ipfs.com"? [Njẹ o mọ Cloudflare IPFS ko dara?](PEOPLE.md)
+- Ṣe o nlo "cloudflare-ipfs.com"? [Njẹ o mọ Cloudflare IPFS ko dara?](../PEOPLE.md)
 
 - Fi Firewall Ohun elo wẹẹbu sii bi OWASP ati Fail2Ban lori olupin rẹ ki o tunto rẹ daradara.
   - Ìdènà Tor kii ṣe ojutu. Maṣe jiya gbogbo eniyan nikan fun awọn olumulo buburu kekere.
@@ -297,7 +297,7 @@ Ko si aabo 100% tabi 100% ikọkọ lori intanẹẹti ati imọ-ẹrọ.
 
 - Ṣe o ko fẹ lo Tor? O le lo eyikeyi aṣawakiri pẹlu Tor daemon.
   - [Akiyesi pe iṣẹ akanṣe Tor ko fẹran eyi.](https://support.torproject.org/tbb/tbb-9/) Lo Ẹrọ aṣawakiri Tor ti o ba ni anfani lati ṣe bẹ.
-- [Bii o ṣe le lo Chromium pẹlu Tor](subfiles/chromium_tor.md)
+- [Bii o ṣe le lo Chromium pẹlu Tor](../subfiles/chromium_tor.md)
 
 
 Jẹ ki a sọrọ nipa aṣiri software miiran.
@@ -377,12 +377,12 @@ Nitorina a ṣe iṣeduro loke tabili nikan. Ko si nkankan mo.
 - ~~Ṣe ijabọ kokoro kan lori olutọpa mozilla, ni sisọ fun wọn pe ki wọn ma lo Cloudflare.~~ Ijabọ kokoro kan wa lori bugzilla. Ọpọlọpọ eniyan ni a firanṣẹ ibakcdun wọn, sibẹsibẹ a ti fi aṣiṣe naa pamọ nipasẹ abojuto ni ọdun 2018.
 
 - O le mu DoH ṣiṣẹ ni Firefox.
-  - [Yi olupese DNS aiyipada ti Firefox pada](subfiles/change-firefox-dns.md)
+  - [Yi olupese DNS aiyipada ti Firefox pada](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Ti o ba fẹ lati lo DNS ti kii ṣe ISP, ronu nipa lilo iṣẹ OpenNIC Tier2 DNS tabi eyikeyi awọn iṣẹ DNS ti kii ṣe Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Dina Cloudflare pẹlu DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - O le lo Tor bi ipinnu DNS. [Ti o ko ba ṣe amoye Tor, beere ibeere nibi.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Nitorina a ṣe iṣeduro loke tabili nikan. Ko si nkankan mo.
 
 - Nibo ti o ba yẹ, ọna asopọ si awọn ẹgbẹ wọnyi lori ibi ipamọ yii - eyi le jẹ aaye fun ṣiṣakojọpọ ṣiṣẹ papọ bi awọn ẹgbẹ.
 
-- [Bẹrẹ akọọlẹ kan ti o le pese iyatọ ti kii ṣe ajọṣepọ ti o ni itumọ si Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Bẹrẹ akọọlẹ kan ti o le pese iyatọ ti kii ṣe ajọṣepọ ti o ni itumọ si Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Jẹ ki a mọ ti awọn omiiran miiran lati ṣe iranlọwọ ni o kere ju pese aabo fẹlẹfẹlẹ lọpọlọpọ si Cloudflare.
 
@@ -464,4 +464,4 @@ Ko si ohunkan ti ọjọ iwaju nipa eyi. A ti padanu tẹlẹ.
 ### Bayi, kini o ṣe loni?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
