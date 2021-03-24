@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Nirrakkomandaw li tilħaq l-amministraturi għas-servizzi jew is-siti speċifiċi li tħabbat magħhom u taqsam l-esperjenza tiegħek.
 ```
 
-[Jekk ma titolbux, sid il-websajt qatt ma jaf din il-problema.](PEOPLE.md)
+[Jekk ma titolbux, sid il-websajt qatt ma jaf din il-problema.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Eżempju ta 'suċċess](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Għandek problema? [Għolli leħnek issa.](https://github.com/maraoz/maraoz.github.io/issues/1) Eżempju hawn taħt.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Dan huwa eżempju ta 'politika ta' privatezza li m'għandhiex il-kelma Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare għandhom il-politika tal-privatezza tagħhom stess.
 [Cloudflare tħobb tagħmel doxxing nies.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Jekk Cloudflare jnixxi l-informazzjoni tiegħek jew ma jħallikx tikkonnettja ma
 
 [ Irregistra ] [ ma naqbilx ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Ipprova ma tużax is-servizz tagħhom. Ftakar li qed tarah minn Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Fittex websajt oħra. Hemm alternattivi u opportunitajiet fuq l-internet!
 
 - Ikkonvinċi lil sħabek biex jużaw Tor kuljum.
   - L-anonimità għandha tkun l-istandard tal-internet miftuħ!
-  - [Innota li l-proġett Tor ma jħobbx dan il-proġett.](HISTORY.md)
+  - [Innota li l-proġett Tor ma jħobbx dan il-proġett.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Jekk Cloudflare jnixxi l-informazzjoni tiegħek jew ma jħallikx tikkonnettja ma
 
 | Isem | Żviluppatur | Appoġġ | Tista 'timblokka | Jista 'Jinnotifika | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Iva**     | **Iva**     |  **Iva** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Le     | **Iva**     |  **Iva** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Le     | **Iva**     |  **Iva** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Iva**     | **Iva**     |  Le |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Iva**     | **Iva**     |  **Iva** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Le     | **Iva**     |  **Iva** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Le     | **Iva**     |  **Iva** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Iva**     | **Iva**     |  Le |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Iva**     | **Iva**     |  Le |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Le     | **Iva**     |  Le |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Le     | **Iva**     |  Le |
@@ -139,38 +139,38 @@ Jekk Cloudflare jnixxi l-informazzjoni tiegħek jew ma jħallikx tikkonnettja ma
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Tużax soluzzjoni Cloudflare, Perjodu.
   - Tista 'tagħmel aħjar minn hekk, hux? [Hawnhekk hawn kif tneħħi l-abbonamenti, il-pjanijiet, l-oqsma, jew il-kontijiet ta 'Cloudflare.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Trid aktar klijenti? Int taf x'għandek tagħmel. Ħjiel huwa "fuq il-linja".
   - [Hello, ktibt "Aħna nieħdu l-privatezza tiegħek bis-serjetà" imma sibt "Żball 403 Projbit Anonimu Projbit Mhux Permess".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Għaliex qed timblokka Tor Jew VPN? [U għaliex qed timblokka emails temporanji?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - L-użu ta 'Cloudflare iżid iċ-ċansijiet ta' qtugħ. Il-viżitaturi ma jistgħux jaċċessaw il-websajt tiegħek jekk is-server tiegħek huwa mitfi jew Cloudflare huwa mitfi.
-  - [Int verament ħsibt li Cloudflare qatt ma jinżel?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Int verament ħsibt li Cloudflare qatt ma jinżel?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - L-użu ta 'Cloudflare biex tipprokura s- "servizz API" tiegħek, "server ta' aġġornament tas-softwer" jew "RSS feed" se jagħmel ħsara lill-klijent tiegħek. Klijent sejjaħlek u qal "Ma nistax nuża l-API tiegħek aktar", u m'għandekx idea x'inhu għaddej. Cloudflare jista 'jimblokka lill-klijent tiegħek fis-skiet. Taħseb li hu tajjeb?
   - Hemm ħafna klijent ta 'qarrej RSS u servizz onlajn ta' qarrej RSS. Għaliex qed tippubblika RSS feed jekk ma tħallix lin-nies jissottoskrivu?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Għandek bżonn ċertifikat HTTPS? Uża "Ejja Iċċifra" jew sempliċement tixtriha mill-kumpanija CA.
 
 - Għandek bżonn server DNS? Ma tistax twaqqaf is-server tiegħek stess? Kif dwarhom: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Amministratur ħassar il-kont tiegħek jekk tuża TOR)](https://freedns.afraid.org/)
 
 - Qed tfittex servizz ta 'akkoljenza? B'xejn biss? Kif dwarhom: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternattivi għal Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Alternattivi għal Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Qed tuża "cloudflare-ipfs.com"? [Taf Cloudflare IPFS huwa ħażin?](PEOPLE.md)
+- Qed tuża "cloudflare-ipfs.com"? [Taf Cloudflare IPFS huwa ħażin?](../PEOPLE.md)
 
 - Installa l-Applikazzjoni tal-Web Firewall bħal OWASP u Fail2Ban fuq is-server tiegħek u kkonfigurah sew.
   - L-Imblukkar ta 'Tor mhuwiex soluzzjoni. Tikkastigax lil kulħadd biss għal utenti ħżiena żgħar.
@@ -297,7 +297,7 @@ M'hemm l-ebda 100% sigur u lanqas 100% privat fuq l-internet u t-teknoloġija.
 
 - Ma tridx tuża Tor? Tista 'tuża kwalunkwe browser bid-daemon Tor.
   - [Innota li l-proġett Tor ma jħobbx dan.](https://support.torproject.org/tbb/tbb-9/) Uża Tor Browser jekk tista 'tagħmel hekk.
-- [Kif tuża Chromium ma 'Tor](subfiles/chromium_tor.md)
+- [Kif tuża Chromium ma 'Tor](../subfiles/chromium_tor.md)
 
 
 Ejja nitkellmu dwar il-privatezza ta 'softwer ieħor.
@@ -377,12 +377,12 @@ Għalhekk nirrakkomandaw hawn fuq it-tabella biss. Xejn iktar.
 - ~~Irrapporta bug fuq it-tracker ta 'mozilla, u għidilhom biex ma jużawx Cloudflare.~~ Kien hemm rapport ta 'bug dwar bugzilla. Ħafna nies ittieħdu t-tħassib tagħhom, madankollu l-bug kien moħbi mill-amministratur fl-2018.
 
 - Tista 'tiddiżattiva DoH fil-Firefox.
-  - [Ibdel il-fornitur tad-DNS default tal-firefox](subfiles/change-firefox-dns.md)
+  - [Ibdel il-fornitur tad-DNS default tal-firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Jekk tixtieq tuża DNS mhux ISP, ikkunsidra li tuża s-servizz DNS OpenNIC Tier2 jew kwalunkwe servizz DNS mhux Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Imblokka Cloudflare bid-DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Tista 'tuża Tor bħala resolver DNS. [Jekk m'intix espert tat-Tor, staqsi hawnhekk.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Għalhekk nirrakkomandaw hawn fuq it-tabella biss. Xejn iktar.
 
 - Fejn xieraq, rabta ma 'dawn il-gruppi fuq dan ir-repożitorju - dan jista' jkun post għall-koordinazzjoni ta 'ħidma flimkien bħala gruppi.
 
-- [Ibda koperazzjoni li tista 'tipprovdi alternattiva sinifikanti mhux korporattiva għal Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Ibda koperazzjoni li tista 'tipprovdi alternattiva sinifikanti mhux korporattiva għal Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Għidilna dwar kwalunkwe alternattiva biex tgħin mill-inqas tipprovdi difiża fuq diversi livelli kontra Cloudflare.
 
@@ -464,4 +464,4 @@ M'hemm xejn futuristiku dwar dan. Diġà tlifna.
 ### Issa, x’għamilt illum?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
