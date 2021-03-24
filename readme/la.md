@@ -128,7 +128,7 @@ Et hoc promptuario est, quae post tergum album of websites "Magna et Cloudwall",
 
 * [Ecce quibusdam PDF / ePUB legere.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
