@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Tunapendekeza uwasiliane na wasimamizi kwa huduma maalum au tovuti ambazo unapata shida na ushiriki uzoefu wako.
 ```
 
-[Ikiwa hauitaji, mmiliki wa wavuti hajui shida hii.](PEOPLE.md)
+[Ikiwa hauitaji, mmiliki wa wavuti hajui shida hii.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Mfano wa mafanikio](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Una shida? [Paza sauti yako sasa.](https://github.com/maraoz/maraoz.github.io/issues/1) Mfano hapa chini.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Huu ni mfano wa sera ya faragha ambayo haina neno Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare wana sera yao ya faragha.
 [Cloudflare anapenda watu wanaotamani.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Ikiwa Cloudflare inavuja habari yako au haitakuruhusu uunganishe kwenye seva zet
 
 [ Jisajili ] [ nakataa ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Jaribu kutumia huduma yao. Kumbuka unatazamwa na Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Tafuta tovuti nyingine. Kuna njia mbadala na fursa kwenye mtandao!
 
 - Kushawishi marafiki wako kutumia Tor kila siku.
   - Kutokujulikana kunapaswa kuwa kiwango cha mtandao wazi!
-  - [Kumbuka kuwa mradi wa Tor haupendi mradi huu.](HISTORY.md)
+  - [Kumbuka kuwa mradi wa Tor haupendi mradi huu.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Ikiwa Cloudflare inavuja habari yako au haitakuruhusu uunganishe kwenye seva zet
 
 | Jina | Msanidi programu | Msaada | Inaweza Kuzuia | Inaweza Kuarifu | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ndio**     | **Ndio**     |  **Ndio** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Hapana     | **Ndio**     |  **Ndio** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Hapana     | **Ndio**     |  **Ndio** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ndio**     | **Ndio**     |  Hapana |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ndio**     | **Ndio**     |  **Ndio** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Hapana     | **Ndio**     |  **Ndio** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Hapana     | **Ndio**     |  **Ndio** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ndio**     | **Ndio**     |  Hapana |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ndio**     | **Ndio**     |  Hapana |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Hapana     | **Ndio**     |  Hapana |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Hapana     | **Ndio**     |  Hapana |
@@ -139,38 +139,38 @@ Ikiwa Cloudflare inavuja habari yako au haitakuruhusu uunganishe kwenye seva zet
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Usitumie suluhisho la Cloudflare, Kipindi.
   - Unaweza kufanya vizuri zaidi ya hayo, sivyo? [Hapa kuna jinsi ya kuondoa usajili, mipango, vikoa, au akaunti za Cloudflare.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Unataka wateja zaidi? Unajua cha kufanya. Kidokezo ni "juu ya mstari".
   - [Halo, uliandika "Tunachukulia faragha yako kwa umakini" lakini nilipata "Kosa 403 Wakala Usiyoruhusiwa Wakala Asiyeruhusiwa".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kwa nini unazuia Tor Au VPN? [Na kwanini unazuia barua pepe za muda mfupi?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Kutumia Cloudflare kutaongeza nafasi za kukatika. Wageni hawawezi kufikia wavuti yako ikiwa seva yako iko chini au Cloudflare iko chini.
-  - [Je! Ulidhani Cloudflare hajawahi kwenda chini?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Je! Ulidhani Cloudflare hajawahi kwenda chini?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Kutumia Cloudflare kudhibitisha "huduma ya API" yako, "seva ya sasisho la programu" au "RSS feed" itadhuru mteja wako. Mteja alikuita na akasema "Siwezi kutumia API yako tena", na haujui kinachoendelea. Cloudflare inaweza kuzuia kimya mteja wako. Je! Unafikiri ni sawa?
   - Kuna wateja wengi wa msomaji wa RSS na huduma ya mkondoni ya msomaji wa RSS. Kwa nini unachapisha mpasho wa RSS ikiwa hairuhusu watu kujisajili?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Je! Unahitaji cheti cha HTTPS? Tumia "Wacha Tusimbue" au ununue tu kutoka kwa kampuni ya CA.
 
 - Je! Unahitaji seva ya DNS? Je! Huwezi kuanzisha seva yako mwenyewe? Vipi kuhusu wao: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Usimamizi futa akaunti yako ikiwa unatumia TOR)](https://freedns.afraid.org/)
 
 - Unatafuta huduma ya kukaribisha? Bure tu? Vipi kuhusu wao: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Njia mbadala za Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Njia mbadala za Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Je! Unatumia "cloudflare-ipfs.com"? [Je! Unajua Cloudflare IPFS ni mbaya?](PEOPLE.md)
+- Je! Unatumia "cloudflare-ipfs.com"? [Je! Unajua Cloudflare IPFS ni mbaya?](../PEOPLE.md)
 
 - Sakinisha Firewall ya Maombi ya Wavuti kama vile OWASP na Fail2Ban kwenye seva yako na uisanidi vizuri.
   - Kuzuia Tor sio suluhisho. Usiadhibu kila mtu kwa watumiaji wadogo tu.
@@ -297,7 +297,7 @@ Hakuna 100% salama wala 100% ya faragha kwenye mtandao na teknolojia.
 
 - Hawataki kutumia Tor? Unaweza kutumia kivinjari chochote na Tor daemon.
   - [Kumbuka kuwa mradi wa Tor haupendi hii.](https://support.torproject.org/tbb/tbb-9/) Tumia Kivinjari cha Tor ikiwa una uwezo wa kufanya hivyo.
-- [Jinsi ya kutumia Chromium na Tor](subfiles/chromium_tor.md)
+- [Jinsi ya kutumia Chromium na Tor](../subfiles/chromium_tor.md)
 
 
 Wacha tuzungumze juu ya faragha ya programu nyingine.
@@ -377,12 +377,12 @@ Kwa hivyo tunapendekeza juu ya meza tu. Hakuna kingine.
 - ~~Ripoti mdudu kwenye tracker ya mozilla, uwaambie wasitumie Cloudflare.~~ Kulikuwa na ripoti ya mdudu juu ya bugzilla. Watu wengi walichapisha wasiwasi wao, hata hivyo mdudu huyo alifichwa na msimamizi mnamo 2018.
 
 - Unaweza kuzima DoH katika Firefox.
-  - [Badilisha mtoa huduma wa DNS chaguo-msingi wa firefox](subfiles/change-firefox-dns.md)
+  - [Badilisha mtoa huduma wa DNS chaguo-msingi wa firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Ikiwa ungependa kutumia DNS isiyo ya ISP, fikiria kutumia huduma ya OpenNIC Tier2 DNS au huduma yoyote isiyo ya Cloudflare DNS.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Zuia Cloudflare na DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Unaweza kutumia Tor kama suluhisho la DNS. [Ikiwa wewe si mtaalam wa Tor, uliza swali hapa.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Kwa hivyo tunapendekeza juu ya meza tu. Hakuna kingine.
 
 - Pale inapofaa, unganisha na vikundi hivi kwenye hazina hii - hii inaweza kuwa mahali pa kuratibu kufanya kazi pamoja kama vikundi.
 
-- [Anza kibanda ambacho kinaweza kutoa njia mbadala isiyo ya ushirika kwa Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Anza kibanda ambacho kinaweza kutoa njia mbadala isiyo ya ushirika kwa Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Tujulishe njia mbadala yoyote kusaidia angalau kutoa utetezi mwingi wa layered dhidi ya Cloudflare.
 
@@ -464,4 +464,4 @@ Hakuna kitu chochote cha baadaye kuhusu hili. Tayari tumepoteza.
 ### Sasa, umefanya nini leo?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
