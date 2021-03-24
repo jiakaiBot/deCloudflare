@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Issuesörite hyzmatlar ýa-da saýtlar bilen gyzyklanýan we tejribäňizi paýlaşýan administratorlara ýüz tutmagyňyzy maslahat berýäris.
 ```
 
-[Eger soramasaňyz, web sahypasynyň eýesi bu meseläni hiç wagt bilmeýär.](PEOPLE.md)
+[Eger soramasaňyz, web sahypasynyň eýesi bu meseläni hiç wagt bilmeýär.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Üstünlikli mysal](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Meseleňiz barmy? [Indi sesiňi çykar.](https://github.com/maraoz/maraoz.github.io/issues/1) Aşakdaky mysal.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Bu, “Cloudflare” sözi bolmadyk gizlinlik syýasatynyň mysaly.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 “Cloudflare” -niň şahsy gizlinlik syýasaty bar.
 [“Cloudflare” adamlary doxxing etmegi gowy görýär.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ AFAIK, nol web sahypasy muny edýär. Olara ynanarsyňyzmy?
 
 [ Hasaba giriň ] [ Men muňa goşulamok ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Hyzmatlaryny ulanmazlyga synanyşyň. “Cloudflare” tarapyndan sizi synlaýandygyny ýadyňyzdan çykarmaň.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Beýleki web sahypasyny gözläň. Internetde alternatiwalar we pursatlar bar!
 
 - Dostlaryňyzy gündelik Tor ulanmaga ynandyryň.
   - Anonimlik açyk internetiň standarty bolmaly!
-  - [Tor taslamasynyň bu taslamany halamaýandygyny ýadyňyzdan çykarmaň.](HISTORY.md)
+  - [Tor taslamasynyň bu taslamany halamaýandygyny ýadyňyzdan çykarmaň.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ AFAIK, nol web sahypasy muny edýär. Olara ynanarsyňyzmy?
 
 | Ady | Öndüriji | Goldaw | Bloklap bilýär | Habar berip biler | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Hawa**     | **Hawa**     |  **Hawa** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | .Ok     | **Hawa**     |  **Hawa** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | .Ok     | **Hawa**     |  **Hawa** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Hawa**     | **Hawa**     |  .Ok |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Hawa**     | **Hawa**     |  **Hawa** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | .Ok     | **Hawa**     |  **Hawa** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | .Ok     | **Hawa**     |  **Hawa** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Hawa**     | **Hawa**     |  .Ok |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Hawa**     | **Hawa**     |  .Ok |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | .Ok     | **Hawa**     |  .Ok |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | .Ok     | **Hawa**     |  .Ok |
@@ -139,38 +139,38 @@ AFAIK, nol web sahypasy muny edýär. Olara ynanarsyňyzmy?
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - “Cloudflare” çözgüdini ulanmaň.
   - Ondan has gowy edip bilersiňiz, şeýlemi? [“Cloudflare” abunalyklaryny, meýilnamalaryny, domenlerini ýa-da hasaplaryny nädip aýyrmaly.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Has köp müşderi isleýärsiňizmi? Näme etmelidigiňizi bilýärsiňiz. Maslahat "ýokarda".
   - [Salam, "Şahsy durmuşyňyza çynlakaý çemeleşýäris" diýip ýazdyňyz, ýöne "403 Error 403 Gadagan Anonim Proksi rugsat berilmedi" aldym.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Näme üçin Tor ýa-da VPN-i bloklaýarsyňyz? [Näme üçin wagtlaýyn e-poçtalary petikleýärsiňiz?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - “Cloudflare” -ni ulanmak, öçürmek mümkinçiligini artdyrar. Serweriňiz pes bolsa ýa-da “Cloudflare” işlemese, girýänler web sahypaňyza girip bilmezler.
-  - [“Cloudflare” hiç haçan peselmez diýip pikir etdiňizmi?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [“Cloudflare” hiç haçan peselmez diýip pikir etdiňizmi?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - "API hyzmatyňyzy", "programma üpjünçiligini täzeleme serwerini" ýa-da "RSS iýmitini" proksi etmek üçin "Cloudflare" -i ulanmak müşderiňize zyýan ýetirer. Bir müşderi size jaň edip "Indi API ulanyp bilemok" diýdi we näme bolýanyny bilmeýärsiňiz. “Cloudflare” müşderiňizi dymyp biler. Gowy diýip pikir edýärsiňizmi?
   - RSS okyjy müşderisi we RSS okyjy onlaýn hyzmaty köp. Adamlara abuna ýazylmasaňyz, näme üçin RSS iýmitini çap edýärsiňiz?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Size HTTPS şahadatnamasy gerekmi? "Şifrläliň" ulanyň ýa-da diňe CA kompaniýasyndan satyn alyň.
 
 - DNS serweri gerekmi? Öz serweriňizi gurup bilenokmy? Olar hakda nähili?: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (TOR ulanýan bolsaňyz, hasabyňyzy pozuň)](https://freedns.afraid.org/)
 
 - Hosting hyzmatyny gözleýärsiňizmi? Diňe mugt? Olar hakda nähili?: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [“Cloudflare” üçin alternatiwalar](subfiles/cloudflare-alternatives.md)
+  - [“Cloudflare” üçin alternatiwalar](../subfiles/cloudflare-alternatives.md)
 
-- "Cloudflare-ipfs.com" ulanýarsyňyzmy? [Cloudflare IPFS-iň erbetdigini bilýärsiňizmi?](PEOPLE.md)
+- "Cloudflare-ipfs.com" ulanýarsyňyzmy? [Cloudflare IPFS-iň erbetdigini bilýärsiňizmi?](../PEOPLE.md)
 
 - OWASP we Fail2Ban ýaly web programma gorag diwaryny serweriňize guruň we dogry sazlaň.
   - Toruň öňüni almak çözgüt däl. Diňe kiçi erbet ulanyjylar üçin jeza bermäň.
@@ -297,7 +297,7 @@ Internetde we tehnologiýada 100% ygtybarly ýa-da 100% hususy ýok.
 
 - Tor ulanmak islemeýärsiňizmi? Tor daemon bilen islendik brauzeri ulanyp bilersiňiz.
   - [Tor taslamasynyň muny halamaýandygyny ýadyňyzdan çykarmaň.](https://support.torproject.org/tbb/tbb-9/) Başarsaňyz, Tor brauzerini ulanyň.
-- [Hromy Tor bilen nädip ulanmaly](subfiles/chromium_tor.md)
+- [Hromy Tor bilen nädip ulanmaly](../subfiles/chromium_tor.md)
 
 
 Beýleki programma üpjünçiliginiň gizlinligi barada gürleşeliň.
@@ -377,12 +377,12 @@ Beýleki programma üpjünçiliginiň gizlinligi barada gürleşeliň.
 - ~~“Mozilla” -yň yzarlaýjysynda “Cloudflare” ulanmazlygy maslahat beriň.~~ Bugzilla barada bir näsazlyk hasabaty bardy. Köp adam öz aladalaryny ýerleşdirdi, ýöne näsazlyk administrator tarapyndan 2018-nji ýylda gizlenipdi.
 
 - Firefox-da DoH-y öçürip bilersiňiz.
-  - [Firefox-yň deslapky DNS üpjünçisini üýtgediň](subfiles/change-firefox-dns.md)
+  - [Firefox-yň deslapky DNS üpjünçisini üýtgediň](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [ISP däl DNS ulanmak isleseňiz, OpenNIC Tier2 DNS hyzmatyny ýa-da Cloudflare däl DNS hyzmatlaryny ulanmagy göz öňünde tutuň.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - “Cloudflare” -ni DNS bilen bloklaň. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Tor-ny DNS çözüji hökmünde ulanyp bilersiňiz. [Tor hünärmeni däl bolsaňyz, şu ýerde sorag beriň.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Beýleki programma üpjünçiliginiň gizlinligi barada gürleşeliň.
 
 - Zerur bolan ýagdaýynda, bu ammarda bu toparlara baglanyşyň - bu topar bolup bilelikde işlemegi utgaşdyrmak üçin ýer bolup biler.
 
-- [“Cloudflare” -niň manyly däl alternatiwasyny üpjün edip biljek bir kärhana başlaň.](subfiles/cloudflare-alternatives.md)
+- [“Cloudflare” -niň manyly däl alternatiwasyny üpjün edip biljek bir kärhana başlaň.](../subfiles/cloudflare-alternatives.md)
 
 - Iň bolmanda “Cloudflare” -den birnäçe gatlakly goragy üpjün etmek üçin islendik alternatiwany bileliň.
 
@@ -464,4 +464,4 @@ Bu hakda futuristik zat ýok. Biz eýýäm ýitdik.
 ### Indi bu gün näme etdiň?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
