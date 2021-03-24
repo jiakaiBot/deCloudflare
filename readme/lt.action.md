@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Rekomenduojame kreiptis į administratorius dėl konkrečių paslaugų ar svetainių, su kuriomis susiduriate, ir pasidalinti savo patirtimi.
 ```
 
-[Jei to neprašote, svetainės savininkas niekada nežino šios problemos.](PEOPLE.md)
+[Jei to neprašote, svetainės savininkas niekada nežino šios problemos.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Sėkmingas pavyzdys](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Jūs turite problemų? [Pakelkite savo balsą dabar.](https://github.com/maraoz/maraoz.github.io/issues/1) Toliau pateiktas pavyzdys.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Tai yra privatumo politikos, kurioje nėra žodžio „Cloudflare“, pavyzdys.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 „Cloudflare“ turi savo privatumo politiką.
 [„Cloudflare“ mėgsta žmones, išpūstus.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Jei „Cloudflare“ nutekina jūsų informaciją arba neleidžia prisijungti pr
 
 [ Registruotis ] [ aš nesutinku ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Stenkitės nesinaudoti jų paslauga. Prisiminkite, kad jus stebi „Cloudflare“.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Ieškokite kitos svetainės. Internete yra alternatyvų ir galimybių!
 
 - Įtikinkite savo draugus naudoti „Tor“ kasdien.
   - Anonimiškumas turėtų būti atviro interneto standartas!
-  - [Atkreipkite dėmesį, kad „Tor“ projektas nemėgsta šio projekto.](HISTORY.md)
+  - [Atkreipkite dėmesį, kad „Tor“ projektas nemėgsta šio projekto.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Jei „Cloudflare“ nutekina jūsų informaciją arba neleidžia prisijungti pr
 
 | vardas | Programuotojas | Parama | Gali užblokuoti | Gali pranešti | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Taip**     | **Taip**     |  **Taip** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ne     | **Taip**     |  **Taip** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ne     | **Taip**     |  **Taip** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Taip**     | **Taip**     |  Ne |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Taip**     | **Taip**     |  **Taip** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ne     | **Taip**     |  **Taip** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ne     | **Taip**     |  **Taip** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Taip**     | **Taip**     |  Ne |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Taip**     | **Taip**     |  Ne |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ne     | **Taip**     |  Ne |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ne     | **Taip**     |  Ne |
@@ -139,38 +139,38 @@ Jei „Cloudflare“ nutekina jūsų informaciją arba neleidžia prisijungti pr
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Nenaudokite „Cloudflare“ tirpalo, „Period“.
   - Jūs galite padaryti geriau nei tai, tiesa? [Štai kaip pašalinti „Cloudflare“ prenumeratas, planus, domenus ar paskyras.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Norite daugiau klientų? Jūs žinote, ką daryti. Užuomina yra „virš linijos“.
   - [Sveiki, parašėte „Mes rimtai žiūrime į jūsų privatumą“, bet gavau „Klaida 403 draudžiamas anoniminis tarpinis serveris neleidžiamas“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kodėl blokuojate „Tor Or VPN“? [Ir kodėl blokuojate laikinus el. Laiškus?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Naudojant „Cloudflare“ padidės prastovos tikimybė. Lankytojai negali pasiekti jūsų svetainės, jei jūsų serveris neveikia arba „Cloudflare“ neveikia.
-  - [Ar tikrai manėte, kad „Cloudflare“ niekada nenusileido?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Ar tikrai manėte, kad „Cloudflare“ niekada nenusileido?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - „Cloudflare“ naudojimas norint proxy „API paslaugą“, „programinės įrangos naujinimo serverį“ arba „RSS kanalą“ pakenkti jūsų klientui. Jums paskambino klientas ir pasakė „Nebegaliu naudoti jūsų API“, o jūs neįsivaizduojate, kas vyksta. „Cloudflare“ gali tyliai užblokuoti jūsų klientą. Ar manote, kad tai gerai?
   - Yra daugybė RSS skaitytuvo kliento ir RSS skaitytuvo internetinių paslaugų. Kodėl skelbiate RSS kanalą, jei neleidžiate žmonėms užsiprenumeruoti?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Ar jums reikia HTTPS sertifikato? Naudokitės „Užšifruokime“ arba tiesiog nusipirkite iš CA įmonės.
 
 - Ar jums reikia DNS serverio? Negalite nustatyti savo serverio? Kaip apie juos: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Administratorius ištrinkite savo sąskaitą, jei naudojate TOR)](https://freedns.afraid.org/)
 
 - Ieškote prieglobos paslaugos? Tik nemokama? Kaip apie juos: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [„Cloudflare“ alternatyvos](subfiles/cloudflare-alternatives.md)
+  - [„Cloudflare“ alternatyvos](../subfiles/cloudflare-alternatives.md)
 
-- Ar naudojate „cloudflare-ipfs.com“? [Ar žinote, kad „Cloudflare“ IPFS yra blogas?](PEOPLE.md)
+- Ar naudojate „cloudflare-ipfs.com“? [Ar žinote, kad „Cloudflare“ IPFS yra blogas?](../PEOPLE.md)
 
 - Įdiekite žiniatinklio programų užkardą, pvz., OWASP ir „Fail2Ban“, į savo serverį ir tinkamai sukonfigūruokite.
   - „Tor“ blokavimas nėra sprendimas. Nebauskite visų vien už mažus blogus vartotojus.
@@ -297,7 +297,7 @@ Internete ir technologijose nėra 100% saugios ir 100% privačios.
 
 - Nenorite naudoti „Tor“? Su „Tor daemon“ galite naudoti bet kurią naršyklę.
   - [Atkreipkite dėmesį, kad tai nepatinka „Tor“ projektui.](https://support.torproject.org/tbb/tbb-9/) Jei galite tai padaryti, naudokite „Tor Browser“.
-- [Kaip naudoti „Chromium“ su „Tor“](subfiles/chromium_tor.md)
+- [Kaip naudoti „Chromium“ su „Tor“](../subfiles/chromium_tor.md)
 
 
 Pakalbėkime apie kitos programinės įrangos privatumą.
@@ -377,12 +377,12 @@ Todėl mes rekomenduojame tik aukščiau pateiktą lentelę. Nieko daugiau.
 - ~~Pranešti apie „Mozilla“ stebėjimo priemonės klaidą nurodant nenaudoti „Cloudflare“.~~ Buvo pranešta apie klaidą apie „bugzilla“. Daugelis žmonių paskelbė savo susirūpinimą, tačiau klaidą administratorius paslėpė 2018 m.
 
 - „Firefox“ galite išjungti „DoH“.
-  - [Pakeiskite numatytąjį „Firefox“ DNS teikėją](subfiles/change-firefox-dns.md)
+  - [Pakeiskite numatytąjį „Firefox“ DNS teikėją](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Jei norite naudoti ne ISP DNS, apsvarstykite galimybę naudoti „OpenNIC Tier2“ DNS paslaugą arba bet kurią iš „Cloudflare“ DNS paslaugų.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Blokuokite „Cloudflare“ naudodami DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - „Tor“ galite naudoti kaip DNS sprendiklį. [Jei nesate „Tor“ ekspertas, užduokite klausimą čia.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Todėl mes rekomenduojame tik aukščiau pateiktą lentelę. Nieko daugiau.
 
 - Kur tinkama, susiekite su šiomis šioje saugykloje esančiomis grupėmis - tai gali būti vieta koordinuoti darbą kartu kaip grupės.
 
-- [Pradėkite bendradarbiavimą, kuris galėtų suteikti reikšmingą ne „Cloudflare“ alternatyvą įmonei.](subfiles/cloudflare-alternatives.md)
+- [Pradėkite bendradarbiavimą, kuris galėtų suteikti reikšmingą ne „Cloudflare“ alternatyvą įmonei.](../subfiles/cloudflare-alternatives.md)
 
 - Praneškite mums apie visas alternatyvas, kurios padėtų bent jau užtikrinti daugiasluoksnę apsaugą nuo „Cloudflare“.
 
@@ -464,4 +464,4 @@ Kada nors suprasite, kodėl mes tai parašėme.
 ### Ką tu šiandien padarei?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
