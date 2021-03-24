@@ -128,7 +128,7 @@
 
 * [Дар ин ҷо якчанд PDF / ePUB барои хондан аст.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
