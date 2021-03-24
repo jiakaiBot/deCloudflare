@@ -128,7 +128,7 @@
 
 * [นี่คือ PDF / ePUB ที่จะอ่าน](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
