@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Խորհուրդ ենք տալիս ադմինիստրատորներին դիմել հատուկ ծառայությունների կամ կայքերի համար, որոնց հետ խնդիրներ եք առաջացնում և կիսվեք ձեր փորձով:
 ```
 
-[Եթե ​​դուք չեք խնդրում դա, կայքի սեփականատերը երբեք չգիտի այս խնդիրը:](PEOPLE.md)
+[Եթե ​​դուք չեք խնդրում դա, կայքի սեփականատերը երբեք չգիտի այս խնդիրը:](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Հաջող օրինակ](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Դուք խնդիր ունեք [Ձայնդ բարձրացրու հիմա:](https://github.com/maraoz/maraoz.github.io/issues/1) Ստորև բերված օրինակը:
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Սա գաղտնիության քաղաքականության օրինակ է, որը չունի Cloudflare բառը:
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare- ն ունի իրենց գաղտնիության քաղաքականությունը:
 [Cloudflare- ը սիրում է doxxing մարդկանց:](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ AFAIK, զրո կայք դա անում է: Կվստահե՞ք նրանց:
 
 [ Գրանցվել ] [ ես համաձայն չեմ ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Փորձեք չօգտագործել նրանց ծառայությունը: Հիշեք, որ ձեզ դիտում է Cloudflare- ը:
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Որոնել այլ կայք: Ինտերնետում կան այլընտրանքներ և հնարավորություններ:
 
 - Համոզեք ձեր ընկերներին օգտագործել Tor ամեն օր:
   - Անանունությունը պետք է լինի բաց ինտերնետի ստանդարտը:
-  - [Նկատի ունեցեք, որ Tor նախագիծը չի հավանում այս նախագիծը:](HISTORY.md)
+  - [Նկատի ունեցեք, որ Tor նախագիծը չի հավանում այս նախագիծը:](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ AFAIK, զրո կայք դա անում է: Կվստահե՞ք նրանց:
 
 | Անուն | Կառուցապատող | Աջակցություն | Կարող է արգելափակել | Կարող է ծանուցել | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Այո**     | **Այո**     |  **Այո** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ոչ     | **Այո**     |  **Այո** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ոչ     | **Այո**     |  **Այո** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Այո**     | **Այո**     |  Ոչ |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Այո**     | **Այո**     |  **Այո** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ոչ     | **Այո**     |  **Այո** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ոչ     | **Այո**     |  **Այո** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Այո**     | **Այո**     |  Ոչ |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Այո**     | **Այո**     |  Ոչ |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ոչ     | **Այո**     |  Ոչ |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ոչ     | **Այո**     |  Ոչ |
@@ -139,38 +139,38 @@ AFAIK, զրո կայք դա անում է: Կվստահե՞ք նրանց:
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Մի օգտագործեք Cloudflare լուծում, eriամանակաշրջան:
   - Դրանից կարող ես ավելի լավ անել, չէ՞: [Ահա, թե ինչպես հեռացնել Cloudflare- ի բաժանորդագրությունները, ծրագրերը, տիրույթները կամ հաշիվները:](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Moreանկանում եք ավելի շատ հաճախորդներ Գիտեք ինչ անել: Ակնարկը «գծից վեր է»:
   - [Ողջույն, դուք գրել եք «Մենք լուրջ ենք վերաբերվում ձեր գաղտնիությանը», բայց ես ստացել եմ «Սխալ 403 արգելված անանուն վստահված անձը չի թույլատրվում»:](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Ինչու եք արգելափակում Tor Or VPN- ը: [Եվ ինչու՞ եք արգելափակում ժամանակավոր նամակները:](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Cloudflare- ի օգտագործումը կմեծացնի խափանումների հավանականությունը: Այցելուները չեն կարող մուտք գործել ձեր կայք, եթե ձեր սերվերը խափանված է կամ Cloudflare- ը խափանված է:
-  - [Դուք իսկապե՞ս կարծում էիք, որ Cloudflare- ը երբեք չի ընկնում:](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Դուք իսկապե՞ս կարծում էիք, որ Cloudflare- ը երբեք չի ընկնում:](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Cloudflare- ի օգտագործումը ձեր «API ծառայությունը», «ծրագրակազմի թարմացման սերվերը» կամ «RSS հոսքը» վստահված անձի համար վնաս կհասցնի ձեր հաճախորդին: Հաճախորդը զանգահարեց ձեզ և ասաց. «Ես այլևս չեմ կարող օգտագործել ձեր API- ն», և դուք գաղափար չունեք, թե ինչ է կատարվում: Cloudflare- ը կարող է լուռ արգելափակել ձեր հաճախորդին: Կարծում եք ՝ լա՞վ է:
   - Կան բազմաթիվ RSS ընթերցող հաճախորդներ և RSS ընթերցողներ առցանց ծառայություններ: Ինչու եք RSS հոսք հրատարակում, եթե թույլ չեք տալիս մարդկանց բաժանորդագրվել:
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Ձեզ հարկավո՞ր է HTTPS սերտիֆիկատ: Օգտագործեք «Եկեք գաղտնագրենք» կամ պարզապես գնեք այն CA ընկերությունից:
 
 - Ձեզ հարկավոր է DNS սերվեր: Չե՞ք կարող կարգավորել ձեր սեփական սերվերը: Ինչ վերաբերում է նրանց: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Ադմինիստրատորը ջնջում է ձեր հաշիվը, եթե օգտագործում եք TOR)](https://freedns.afraid.org/)
 
 - Փնտրու՞մ եք հոստինգի ծառայություն: Միայն անվճար Ինչ վերաբերում է նրանց: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare- ի այլընտրանքներ](subfiles/cloudflare-alternatives.md)
+  - [Cloudflare- ի այլընտրանքներ](../subfiles/cloudflare-alternatives.md)
 
-- Դուք օգտագործում եք «cloudflare-ipfs.com»: [Գիտե՞ք Cloudflare IPFS- ը վատն է:](PEOPLE.md)
+- Դուք օգտագործում եք «cloudflare-ipfs.com»: [Գիտե՞ք Cloudflare IPFS- ը վատն է:](../PEOPLE.md)
 
 - Տեղադրեք Web Application Firewall- ը, ինչպիսիք են OWASP- ը և Fail2Ban- ը, ձեր սերվերի վրա և կազմաձևեք այն պատշաճ կերպով:
   - Tor- ի արգելափակումը լուծում չէ: Մի պատժեք բոլորին պարզապես փոքր վատ օգտվողների համար:
@@ -297,7 +297,7 @@ die();
 
 - Չե՞ք ուզում օգտագործել Tor- ը: Tor daemon- ով կարող եք օգտագործել ցանկացած զննարկիչ:
   - [Նշենք, որ Tor նախագծին դա դուր չի գալիս:](https://support.torproject.org/tbb/tbb-9/) Օգտագործեք Tor զննարկիչը, եթե ունակ եք դա անել:
-- [Ինչպես օգտագործել Chromium- ը Tor- ի հետ](subfiles/chromium_tor.md)
+- [Ինչպես օգտագործել Chromium- ը Tor- ի հետ](../subfiles/chromium_tor.md)
 
 
 Եկեք խոսենք այլ ծրագրակազմի գաղտնիության մասին:
@@ -377,12 +377,12 @@ die();
 - ~~Հայտնեք սխալի մասին mozilla- ի հետագծողին ՝ ասելով, որ չօգտագործեն Cloudflare:~~ Տեղի ունեցավ bugzilla- ի մասին սխալի մասին: Շատերին տեղադրեցին իրենց մտահոգությունները, սակայն սխալը ադմինիստրատորը թաքցրել էր 2018-ին:
 
 - Դուք կարող եք անջատել DoH- ը Firefox- ում:
-  - [Փոխեք Firefox- ի կանխադրված DNS մատակարարը](subfiles/change-firefox-dns.md)
+  - [Փոխեք Firefox- ի կանխադրված DNS մատակարարը](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Եթե ​​ցանկանում եք օգտագործել ոչ ISP DNS, հաշվի առեք OpenNIC Tier2 DNS ծառայությունը կամ որևէ այլ Cloudflare DNS ծառայություն:](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Արգելափակել Cloudflare- ը DNS- ով: [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Դուք կարող եք օգտագործել Tor- ը որպես DNS լուծիչ: [Եթե ​​Tor- ի փորձագետ չեք, հարց տվեք այստեղ:](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - Անհրաժեշտության դեպքում հղումը դեպի այս պահեստի այս խմբերը. Սա կարող է լինել մի տեղ ՝ որպես խմբեր համատեղ աշխատանքը համակարգելու համար:
 
-- [Սկսեք համագործակցություն, որը կարող է Cloudflare- ին նշանակալից ոչ կորպորատիվ այլընտրանք ապահովել:](subfiles/cloudflare-alternatives.md)
+- [Սկսեք համագործակցություն, որը կարող է Cloudflare- ին նշանակալից ոչ կորպորատիվ այլընտրանք ապահովել:](../subfiles/cloudflare-alternatives.md)
 
 - Տեղեկացրեք մեզ ցանկացած այլընտրանքների մասին, որոնք կօգնեն առնվազն ապահովել Cloudflare- ի դեմ բազմաշերտ պաշտպանություն:
 
@@ -464,4 +464,4 @@ die();
 ### Հիմա ի՞նչ եք արել այսօր:
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
