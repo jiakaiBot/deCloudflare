@@ -128,7 +128,7 @@
 
 * [Ево неких ПДФ / еПУБ-а за читање.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
