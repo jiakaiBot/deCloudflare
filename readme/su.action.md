@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Kami ngarékoméndasikeun anjeun ngahontal ka pangurus pikeun jasa atanapi situs khusus anu anjeun pasihkeun sareng bagikeun pangalaman anjeun.
 ```
 
-[Upami anjeun henteu nyungkeun éta, pamilik halaman wé moal terang masalah ieu.](PEOPLE.md)
+[Upami anjeun henteu nyungkeun éta, pamilik halaman wé moal terang masalah ieu.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Conto anu suksés](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Anjeun gaduh masalah? [Angkat sora anjeun ayeuna.](https://github.com/maraoz/maraoz.github.io/issues/1) Conto ieu di handap.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Ieu mangrupikeun conto tina kabijakan privasi anu henteu ngagaduhan kecap Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare gaduh kabijakan privasi nyalira.
 [Cloudflare resep jalma doxxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Upami Cloudflare ngabocorkeun inpormasi anjeun atanapi henteu ngantep anjeun nya
 
 [ Daptar ] [ abdi henteu satuju ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Coba henteu nganggo jasa aranjeunna. Émut anjeun nuju diawaskeun ku Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Milarian halaman wéb anu sanés. Aya alternatif sareng kasempetan dina internét!
 
 - Ngayakinkeun babaturan anjeun pikeun ngagunakeun Tor unggal dinten.
   - Anonim kedahna standar internét kabuka!
-  - [Catet yén proyék Tor henteu resep kana proyék ieu.](HISTORY.md)
+  - [Catet yén proyék Tor henteu resep kana proyék ieu.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Upami Cloudflare ngabocorkeun inpormasi anjeun atanapi henteu ngantep anjeun nya
 
 | Nami | Pamekar | Ngarojong | Tiasa Blok | Tiasa Ngabéjaan | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Leres**     | **Leres**     |  **Leres** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Henteu     | **Leres**     |  **Leres** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Henteu     | **Leres**     |  **Leres** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Leres**     | **Leres**     |  Henteu |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Leres**     | **Leres**     |  **Leres** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Henteu     | **Leres**     |  **Leres** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Henteu     | **Leres**     |  **Leres** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Leres**     | **Leres**     |  Henteu |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Leres**     | **Leres**     |  Henteu |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Henteu     | **Leres**     |  Henteu |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Henteu     | **Leres**     |  Henteu |
@@ -139,38 +139,38 @@ Upami Cloudflare ngabocorkeun inpormasi anjeun atanapi henteu ngantep anjeun nya
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Entong nganggo solusi Cloudflare, Periode.
   - Anjeun tiasa ngalakukeun langkung saé tibatan éta, leres? [Kieu kumaha miceun lalanggan Cloudflare, rencana, domain, atanapi akun.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Hoyong palanggan langkung? Anjeun terang naon anu kedah dilakukeun. Hint nyaéta "garis di luhur".
   - [Halo, anjeun nyerat "Kami nyandak privasi anjeun sacara serius" tapi kuring ngagaduhan "Kasalahan 403 Dilarang Proksi Anonim Henteu Diidinan".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Naha anjeun ngahalangan Tor Atanapi VPN? [Sareng naha anjeun ngahalangan surelek samentawis?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Ngagunakeun Cloudflare bakal ningkatkeun kamungkinan pareum. Datang moal tiasa aksés kana halaman wéb anjeun upami sérver anjeun turun atanapi Cloudflare pareum.
-  - [Naha anjeun leres-leres pikir Cloudflare henteu pernah turun?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Naha anjeun leres-leres pikir Cloudflare henteu pernah turun?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Ngagunakeun Cloudflare pikeun proxy "jasa API" anjeun, "server pembaruan parangkat lunak" atanapi "RSS feed" bakal ngarugikeun palanggan anjeun. Hiji nasabah nyauran anjeun sareng nyarios "Kuring henteu tiasa nganggo API anjeun deui", sareng anjeun henteu terang naon anu nuju lumangsung. Cloudflare tiasa cicingeun meungpeuk konsumén anjeun. Naha saur anjeun henteu kunanaon?
   - Aya seueur RSS reader client sareng RSS reader jasa online. Naha anjeun nyebarkeun RSS feed upami anjeun henteu ngijinkeun jalma ngalanggan?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Naha anjeun peryogi sertipikat HTTPS? Anggo "Hayu Énkripsi" atanapi mésér waé ti perusahaan CA.
 
 - Naha anjeun peryogi sérver DNS? Henteu tiasa nyetél sérver anjeun nyalira? Kumaha upami aranjeunna: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin hapus akun anjeun upami anjeun nganggo TOR)](https://freedns.afraid.org/)
 
 - Milarian jasa hosting? Gratis waé? Kumaha upami aranjeunna: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatipna pikeun Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Alternatipna pikeun Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Naha anjeun nganggo "cloudflare-ipfs.com"? [Naha anjeun terang Cloudflare IPFS goréng?](PEOPLE.md)
+- Naha anjeun nganggo "cloudflare-ipfs.com"? [Naha anjeun terang Cloudflare IPFS goréng?](../PEOPLE.md)
 
 - Pasang Firewall Aplikasi Wéb sapertos OWASP sareng Fail2Ban dina sérver anjeun sareng atur leres-leres na.
   - Meungpeung Tor sanés jalan kaluarna. Entong ngahukum sadayana ngan pikeun pangguna goréng leutik.
@@ -297,7 +297,7 @@ Teu aya 100% aman atanapi 100% pribadi dina internét sareng téknologi.
 
 - Entong nganggo Tor? Anjeun tiasa nganggo panyungsi naon waé nganggo Tor daemon.
   - [Catet yén proyék Tor henteu resep ieu.](https://support.torproject.org/tbb/tbb-9/) Anggo Tor Browser upami anjeun sanggup.
-- [Kumaha cara nganggo Chromium nganggo Tor](subfiles/chromium_tor.md)
+- [Kumaha cara nganggo Chromium nganggo Tor](../subfiles/chromium_tor.md)
 
 
 Hayu urang ngobrolkeun privasi parangkat lunak sanés.
@@ -377,12 +377,12 @@ Kituna kami nyarankeun tabel di luhur waé. Teu aya anu sanés.
 - ~~Laporkeun bug dina Tracker mozilla, ngawartosan aranjeunna henteu nganggo Cloudflare.~~ Aya laporan bug ngeunaan bugzilla. Seueur jalma dipasang masalahna, tapi bugna disumputkeun ku admin di 2018.
 
 - Anjeun tiasa nganonaktifkeun DoH di Firefox.
-  - [Ngarobih panyadia DNS standar tina firefox](subfiles/change-firefox-dns.md)
+  - [Ngarobih panyadia DNS standar tina firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Upami anjeun hoyong nganggo non-ISP DNS, pertimbangkeun nganggo jasa OpenNIC Tier2 DNS atanapi jasa DNS sanés Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Blok Cloudflare nganggo DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Anjeun tiasa nganggo Tor salaku DNS resolver. [Upami anjeun sanés ahli Tor, naroskeun patarosan di dieu.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Kituna kami nyarankeun tabel di luhur waé. Teu aya anu sanés.
 
 - Upami pantes, kaitkeun ka grup ieu dina Repository ieu - ieu tiasa janten tempat pikeun koordinasi damel babarengan salaku grup.
 
-- [Mimitian coop anu tiasa nyayogikeun alternatif anu sanés perusahaan pikeun Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Mimitian coop anu tiasa nyayogikeun alternatif anu sanés perusahaan pikeun Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Hayu urang terang ngeunaan naon waé alternatif pikeun ngabantosan sahenteuna masihan sababaraha pertahanan berlapis ngalawan Cloudflare.
 
@@ -464,4 +464,4 @@ Henteu aya anu futuristik ngeunaan ieu. Kami parantos éléh.
 ### Ayeuna, naon anu anjeun lakukeun dinten ayeuna?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
