@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Arazoak dituzun zerbitzu edo gune zehatzen administratzaileengana jotzea eta zure esperientzia partekatzea gomendatzen dizugu.
 ```
 
-[Ez baduzu eskatzen, webgunearen jabeak ez du inoiz arazo hau ezagutzen.](PEOPLE.md)
+[Ez baduzu eskatzen, webgunearen jabeak ez du inoiz arazo hau ezagutzen.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Adibide arrakastatsua](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Arazoren bat duzu? [Goratu zure ahotsa orain.](https://github.com/maraoz/maraoz.github.io/issues/1) Beheko adibidea.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Cloudflare hitza ez duen pribatutasun politikaren adibidea da.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare-k bere pribatutasun politika du.
 [Cloudflare-k jendea maite du.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Cloudflare-k zure informazioa filtratzen badu edo gure zerbitzariekin konektatze
 
 [ Izena eman ] [ ez nago ados ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Saiatu haien zerbitzua ez erabiltzen. Gogoratu Cloudflare-k ikusten ari zarela.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Bilatu beste webgune bat. Interneten badaude alternatibak eta aukerak!
 
 - Konbentzitu lagunak Tor egunero erabiltzeko.
   - Anonimotasunak internet irekiaren estandarra izan behar du!
-  - [Kontuan izan Tor proiektuari ez zaiola gustatzen proiektu hau.](HISTORY.md)
+  - [Kontuan izan Tor proiektuari ez zaiola gustatzen proiektu hau.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Cloudflare-k zure informazioa filtratzen badu edo gure zerbitzariekin konektatze
 
 | Izena | Garatzailea | Laguntza | Ezin blokeatu | Ezin da jakinarazi | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Bai**     | **Bai**     |  **Bai** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ez     | **Bai**     |  **Bai** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ez     | **Bai**     |  **Bai** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Bai**     | **Bai**     |  Ez |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Bai**     | **Bai**     |  **Bai** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ez     | **Bai**     |  **Bai** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ez     | **Bai**     |  **Bai** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Bai**     | **Bai**     |  Ez |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Bai**     | **Bai**     |  Ez |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ez     | **Bai**     |  Ez |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ez     | **Bai**     |  Ez |
@@ -139,38 +139,38 @@ Cloudflare-k zure informazioa filtratzen badu edo gure zerbitzariekin konektatze
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Ez erabili Cloudflare irtenbidea, Aldia.
   - Hori baino hobeto egin dezakezu, ezta? [Hona hemen nola kendu Cloudflare harpidetzak, planak, domeinuak edo kontuak.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Bezero gehiago nahi al dituzu? Badakizu zer egin. Iradokizuna "lerroaren gainetik" dago.
   - [Kaixo, "Zure pribatutasuna seriotasunez hartzen dugu" idatzi duzu, baina "403 Errorea debekatutako proxy anonimoak ez dira onartzen" jaso dut.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Zergatik blokeatzen duzu Tor Or VPN? [Eta zergatik blokeatzen dituzu aldi baterako mezu elektronikoak?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Cloudflare erabiltzeak etenen aukerak handituko ditu. Bisitariek ezin dute zure webgunera sartu zure zerbitzaria ez badago edo Cloudflare ez badago.
-  - [Benetan pentsatu al zenuen Cloudflare ez dela inoiz jaitsiko?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Benetan pentsatu al zenuen Cloudflare ez dela inoiz jaitsiko?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Cloudflare erabiltzeak zure "API zerbitzua", "software eguneratze zerbitzaria" edo "RSS jarioa" proxy gisa erabiltzeak zure bezeroari kalte egingo dio. Bezero batek deitu zizun eta "Ezin dut zure APIa gehiago erabili" esan zizun, eta ez dakizu zer gertatzen ari den. Cloudflare-k zure bezeroa isilik blokea dezake. Ondo dagoela uste al duzu?
   - RSS irakurgailuaren bezero eta RSS irakurgailu ugari daude linean. Zergatik argitaratzen duzu RSS jarioa jendeari harpidetzea baimentzen ez baduzu?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - HTTPS ziurtagiria behar al duzu? Erabili "Enkriptatu dezagun" edo erosi besterik ez CA enpresan.
 
 - DNS zerbitzaria behar al duzu? Ezin duzu zure zerbitzaria konfiguratu? Zer moduz: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Administratzaileak ezabatu zure kontua TOR erabiltzen baduzu)](https://freedns.afraid.org/)
 
 - Ostatu zerbitzuaren bila zabiltza? Doakoa bakarrik? Zer moduz: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare-ren alternatibak](subfiles/cloudflare-alternatives.md)
+  - [Cloudflare-ren alternatibak](../subfiles/cloudflare-alternatives.md)
 
-- "Cloudflare-ipfs.com" erabiltzen ari zara? [Ba al dakizu Cloudflare IPFS txarra dela?](PEOPLE.md)
+- "Cloudflare-ipfs.com" erabiltzen ari zara? [Ba al dakizu Cloudflare IPFS txarra dela?](../PEOPLE.md)
 
 - Instalatu OWASP eta Fail2Ban bezalako Web aplikazioen suebakia zure zerbitzarian eta konfiguratu behar bezala.
   - Tor blokeatzea ez da irtenbide bat. Ez zigortu denak erabiltzaile txar txikiengatik soilik.
@@ -297,7 +297,7 @@ Interneten eta teknologian ez dago% 100 segurua ezta% 100 pribatua ere.
 
 - Ez duzu Tor erabili nahi? Tor deabruarekin edozein arakatzaile erabil dezakezu.
   - [Kontuan izan Tor proiektuari ez zaiola hau gustatzen.](https://support.torproject.org/tbb/tbb-9/) Erabili Tor Browser hori egiteko gai bazara.
-- [Nola erabili Chromium Tor-ekin](subfiles/chromium_tor.md)
+- [Nola erabili Chromium Tor-ekin](../subfiles/chromium_tor.md)
 
 
 Hitz egin dezagun beste softwarearen pribatutasunaz.
@@ -377,12 +377,12 @@ Hori dela eta, goiko taulan soilik gomendatzen dugu. Beste ezer ez.
 - ~~Eman mozillaren aztarnari buruzko akats baten berri, Cloudflare ez erabiltzeko esanez.~~ Bugzillari buruzko akatsen berri eman da. Jende askok bere kezka agertu zuen, hala ere akatsa administratzaileak ezkutatu zuen 2018an.
 
 - DoH desgaitu dezakezu Firefox-en.
-  - [Aldatu firefox-en DNS hornitzaile lehenetsia](subfiles/change-firefox-dns.md)
+  - [Aldatu firefox-en DNS hornitzaile lehenetsia](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [ISP ez diren DNSak erabili nahi badituzu, pentsa ezazu OpenNIC Tier2 DNS zerbitzua edo Cloudflare ez den DNS zerbitzuren bat erabiltzea.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Blokeatu Cloudflare DNSarekin. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Tor DNS ebazle gisa erabil dezakezu. [Tor aditua ez bazara, egin galdera hemen.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Hori dela eta, goiko taulan soilik gomendatzen dugu. Beste ezer ez.
 
 - Dagokionean, estekatu biltegi honetako talde hauetara - hau talde gisa lan egiteko koordinatzeko gunea izan daiteke.
 
-- [Hasi Cloudflare-ri alternatiba esanguratsua eskain diezaiokeen kooperatiba.](subfiles/cloudflare-alternatives.md)
+- [Hasi Cloudflare-ri alternatiba esanguratsua eskain diezaiokeen kooperatiba.](../subfiles/cloudflare-alternatives.md)
 
 - Jakin iezaguzu alternatibarik gutxienez Cloudflare-ren aurkako geruza anitzeko defentsa eskaintzen laguntzeko.
 
@@ -464,4 +464,4 @@ Honek ez du ezer futuristarik. Dagoeneko galdu dugu.
 ### Orain, zer egin duzu gaur?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
