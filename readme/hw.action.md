@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Paipai mākou e kiʻi i nā luna no nā lawelawe kikoʻī a i ʻole nā ​​pūnaewele āu e holo ai i ka pilikia a kaʻana like i kāu ʻike.
 ```
 
-[Inā ʻaʻole ʻoe e noi no ia, ʻaʻole ʻike ka mea nona ka pūnaewele i kēia pilikia.](PEOPLE.md)
+[Inā ʻaʻole ʻoe e noi no ia, ʻaʻole ʻike ka mea nona ka pūnaewele i kēia pilikia.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [ʻO kahi laʻana kūleʻa](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 He pilikia paha kāu? [E hoʻokiʻekiʻe i kou leo ​​i kēia manawa.](https://github.com/maraoz/maraoz.github.io/issues/1) Laʻana ma lalo.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 He laʻana kēia o ka pilikino pilikino i loaʻa ʻole ka huaʻōlelo Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Loaʻa iā Cloudflare kā lākou pilikino pilikino pilikino.
 [Aloha ʻo Cloudflare i ka poʻe doxxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Inā kulu ʻo Cloudflare i kāu ʻike a ʻaʻole hoʻi e ʻae iā ʻoe e hoʻohu
 
 [ Kau inoa ] [ Kūʻē ʻole wau ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - E hoʻāʻo e hoʻohana ʻole i kā lākou lawelawe. E hoʻomanaʻo e nānā ʻia ʻoe e Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Huli no ka pūnaewele ʻē aʻe. Aia kekahi mau koho a me nā manawa kūpono ma ka pūnaewele!
 
 - E hōʻoia i kāu mau hoaaloha e hoʻohana iā Tor i kēlā me kēia lā.
   - ʻO ke anonymity ke kūlana o ka pūnaewele hāmama!
-  - [E hoʻomaopopo he makemake ʻole ka papahana Tor i kēia papahana.](HISTORY.md)
+  - [E hoʻomaopopo he makemake ʻole ka papahana Tor i kēia papahana.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Inā kulu ʻo Cloudflare i kāu ʻike a ʻaʻole hoʻi e ʻae iā ʻoe e hoʻohu
 
 | Inoa | Mea hoʻomohala | Kākoʻo | Hiki iā Block | Hiki ʻole ke hoʻomaopopo | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ae**     | **Ae**     |  **Ae** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Aʻole     | **Ae**     |  **Ae** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Aʻole     | **Ae**     |  **Ae** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ae**     | **Ae**     |  Aʻole |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ae**     | **Ae**     |  **Ae** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Aʻole     | **Ae**     |  **Ae** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Aʻole     | **Ae**     |  **Ae** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ae**     | **Ae**     |  Aʻole |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ae**     | **Ae**     |  Aʻole |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Aʻole     | **Ae**     |  Aʻole |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Aʻole     | **Ae**     |  Aʻole |
@@ -139,38 +139,38 @@ Inā kulu ʻo Cloudflare i kāu ʻike a ʻaʻole hoʻi e ʻae iā ʻoe e hoʻohu
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Mai hoʻohana i ka hopena Cloudflare, Manawa.
   - Hiki iā ʻoe ke hana ʻoi aku ka maikaʻi ma mua o kēlā, ʻeā? [Eia pehea e hemo ai i nā kau inoa Cloudflare, nā hoʻolālā, nā kāʻei kapu, a i ʻole nā ​​moʻokāki.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Makemake i nā mea kūʻai aku hou aku? ʻIke ʻoe i ka mea e hana ai. ʻO Hint ka "laina ma luna".
   - [Aloha, ua kākau ʻoe "Lawe mākou i kāu pilikino" akā ua loaʻa iaʻu "Kuʻia 403 Forbidden Anonymous Proxy Not Alllled".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) No ke aha ʻoe e ālai nei iā Tor or VPN? [A no ke aha ʻoe e keʻakeʻa nei i nā leka uila?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - E hoʻonui ana ka Cloudflare i kahi manawa o ka outage. ʻAʻole hiki i ka poʻe kipa ke komo i kāu pūnaewele inā i lalo kāu kikowaena a i ʻole ʻo Cloudflare i lalo.
-  - [Ua manaʻo maoli ʻoe ʻaʻole i iho ʻo Cloudflare?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Ua manaʻo maoli ʻoe ʻaʻole i iho ʻo Cloudflare?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Ke hoʻohana nei iā Cloudflare i mea e hōʻoia ai i kāu "lawelawe API", ʻo "kikowaena hōʻano polokalamu" a i ʻole "RSS feed" e hōʻeha i kāu mea kūʻai aku. Ua kāhea aku kahi mea kūʻai aku iā ʻoe a ua ʻōlelo "ʻAʻole hiki iaʻu ke hoʻohana hou i kāu API", a ʻaʻohe ou manaʻo i ka mea e hana nei. Hiki iā Cloudflare ke pale mālie i kāu mea kūʻai aku. Manaʻo ʻoe ua maikaʻi?
   - Nui a hewahewa nā mea kūʻai aku RSS a me ka lawelawe mea heluhelu RSS. No ke aha ʻoe e paʻi nei i ka hānai RSS inā ʻaʻole ʻoe e ʻae i ka poʻe e kau inoa?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Pono ʻoe i ka palapala HTTPS? E hoʻohana iā "Let's Encrypt" a kūʻai paha iā ia mai ka hui ʻo CA.
 
 - Pono ʻoe i kikowaena kikowaena DNS? ʻAʻole hiki ke hoʻonohonoho i kāu kikowaena pūnaewele? Pehea lākou: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Hoʻopau ka luna i kāu moʻokāki inā hoʻohana ʻoe iā TOR)](https://freedns.afraid.org/)
 
 - Ke nānā nei i ka lawelawe hoʻokipa? Manuahi wale nō? Pehea lākou: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Nā koho ʻē aʻe iā Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Nā koho ʻē aʻe iā Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Ke hoʻohana nei ʻoe i "cloudflare-ipfs.com"? [ʻIke paha ʻoe ʻaʻole maikaʻi ʻo Cloudflare IPFS?](PEOPLE.md)
+- Ke hoʻohana nei ʻoe i "cloudflare-ipfs.com"? [ʻIke paha ʻoe ʻaʻole maikaʻi ʻo Cloudflare IPFS?](../PEOPLE.md)
 
 - E hoʻouka i kahi Pūnaewele Pahu Pūnaewele e like me OWASP a me Fail2Ban ma kāu kikowaena pūnaewele a hoʻonohonoho pono iā ia.
   - ʻAʻole ka pale ʻana iā Tor. Mai hoʻopaʻi i nā mea āpau no nā mea hoʻohana liʻiliʻi maikaʻi ʻole.
@@ -297,7 +297,7 @@ Kūpono ʻole ka pilikino o nā polokalamu ʻē aʻe. ʻAʻole kēia manaʻo he 
 
 - ʻAʻole makemake ʻoe e hoʻohana Tor? Hiki iā ʻoe ke hoʻohana i kekahi polokalamu kele pūnaewele me ka Tor daemon.
   - [E hoʻomaopopo ʻaʻole makemake ka papahana Tor i kēia.](https://support.torproject.org/tbb/tbb-9/) E hoʻohana iā Tor Browser inā hiki iā ʻoe ke hana pēlā.
-- [Pehea e hoʻohana ai iā Chromium me Tor](subfiles/chromium_tor.md)
+- [Pehea e hoʻohana ai iā Chromium me Tor](../subfiles/chromium_tor.md)
 
 
 E kamaʻilio e pili ana i ka pilikino o ka polokalamu ʻē aʻe.
@@ -377,12 +377,12 @@ No laila mākou e paipai aku nei ma ka papa ʻaina wale nō. ʻAʻohe mea ʻē a
 - ~~Hōʻike i kahi pepeke ma ka tracker mozilla, e haʻi ana iā lākou ʻaʻole e hoʻohana iā Cloudflare.~~ Aia kahi hōʻike pepeke ma bugzilla. Nui nā poʻe i kau ʻia i ko lākou hopohopo, akā hūnā ʻia ka ʻino e ke admin i ka makahiki 2018.
 
 - Hiki iā ʻoe ke hoʻopau iā DoH ma Firefox.
-  - [Hoʻololi i ka hāʻawi DNS paʻamau o firefox](subfiles/change-firefox-dns.md)
+  - [Hoʻololi i ka hāʻawi DNS paʻamau o firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Inā makemake ʻoe e hoʻohana i ka ʻole ISP DNS, e noʻonoʻo e hoʻohana i ka lawelawe ʻo OpenNIC Tier2 DNS a i ʻole kekahi o nā lawelawe DNS ʻole Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - E ālai ʻo Cloudflare me DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Hiki iā ʻoe ke hoʻohana iā Tor ma ke ʻano he DNS resolver. [Inā ʻaʻole ʻoe he loea Tor, e nīnau i ka nīnau ma aneʻi.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ No laila mākou e paipai aku nei ma ka papa ʻaina wale nō. ʻAʻohe mea ʻē a
 
 - Ma kahi kūpono, e hoʻopili i kēia mau pūʻulu ma kēia waihona - hiki i kēia ke lilo i wahi no ka hoʻohui ʻana e hana pū ana ma ke ʻano he hui.
 
-- [E hoʻomaka i kahi coop i hiki ke hāʻawi i kahi koho ʻokoʻa ʻokoʻa i Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [E hoʻomaka i kahi coop i hiki ke hāʻawi i kahi koho ʻokoʻa ʻokoʻa i Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - E ʻike iā mākou i nā koho ʻē aʻe e kōkua i ka hāʻawi ʻana i kahi pale pale pale kūʻē iā Cloudflare.
 
@@ -464,4 +464,4 @@ I kekahi lā, e ʻike ʻoe i ke kumu a mākou i kākau ai i kēia.
 ### I kēia manawa, he aha kāu i hana ai i kēia lā?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
