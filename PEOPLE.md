@@ -170,6 +170,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [linuxreviews.org Cloudflare](https://linuxreviews.org/Cloudflare)
 - ["When you fetch a page from a website that is served from CloudFlare, Javascript has been injected on-the-fly into that page by CloudFlare, and they also plant a cookie that brands your browser with a globally-unique ID."](https://www.reddit.com/r/privacy/comments/jd6dys/when_you_fetch_a_page_from_a_website_that_is/)
 - [Tor connectiong being MITMED by Cloudflare](https://www.reddit.com/r/tails/comments/ip0gg6/tor_connectiong_being_mitmed_by_cloudflare/)
 - [Cloudflare now controls a large portion of the internet with it's MiTM-style DDOS protection.](https://www.reddit.com/r/privacy/comments/iddxb2/are_we_seriously_going_to_live_in_a_googleowned/)
@@ -454,7 +455,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 - Today the CloudFlare gods have smiled upon me, and decided that every website I have to complete a captcha. Wouldn't be as bad if hCaptcha had any quality control. Say what you want about Google, but reCaptch at least worked. Isn't having gatekeepers to the internet great? ([jamescun](https://twitter.com/jamescun/status/1371918897839017991))
 - Oh, that's changed. You used to be able to paste in the URL from any codepen editor page, but now Cloudflare gets in the way. Curiously, my Safari just hit the same Cloudflare page, but let me through after the CAPTCHA - never had that before (and I tried Safari before Flow). ([_piers_](https://twitter.com/_Piers_/status/1371492006258688000))
 - The error message is stupid. Cloudflare is on high alert, a majority of the users can't touch the site. ([silvea12](https://twitter.com/Silvea12/status/1372625689417945088))
-- Else an SSL Handshake Failure or Error 525 will haunt you 😅 ([sach_8in](https://twitter.com/Sach_8in/status/1372562414646951939))
+- Else an SSL Handshake Failure or Error 525 will haunt you 😅 ([sach_8in](https://twitter.com/Sach_8in/status/1372562414646951939))
 - Hey I am getting a 520 cloudflare error on your website. Are you undergoing maintenance or something? ([robinhyll](https://twitter.com/robinhyll/status/1372548633371967491))
 - I think Cloudflare is great but its MITM approach is not very privacy-friendly, there are more privacy-friendly ways (for us) to provide security and reliability to our customers and users. We're probably a special case since we're very privacy-focused and a bit overzealous. ([ardewes](https://twitter.com/ardewes/status/1372149329092345858))
 - I started using Cloudflare in 2015 because they offered free TLS certificates (back then a simple cert cost 100's of € per year), but obviated that need. Also, privacy is our main concern at so using a MITM service like became inacceptable. ([ardewes](https://twitter.com/ardewes/status/1372130942047895555))
