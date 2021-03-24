@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 موږ سپارښتنه کوو چې تاسو د ځانګړي خدماتو یا سایټونو لپاره مدیرانو ته ورشئ چې تاسو ورسره مسله راپورته کوئ او خپله تجربه شریک کړئ.
 ```
 
-[که تاسو د دې لپاره غوښتنه ونه کړئ ، د ویب پا ownerې مالکین هیڅکله دا ستونزه نه پوهیږي.](PEOPLE.md)
+[که تاسو د دې لپاره غوښتنه ونه کړئ ، د ویب پا ownerې مالکین هیڅکله دا ستونزه نه پوهیږي.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [بریالی مثال](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 تاسو کومه ستونزه لرئ؟ [اوس خپل غږ اوچت کړئ.](https://github.com/maraoz/maraoz.github.io/issues/1) لاندې مثال.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 دا د محرمیت تګلارې یوه بیلګه ده چې د کلاوډ فلیر ټکي نلري.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 کلاوډ فل د دوی د محرمیت پالیسي لري.
 [کلاوډ فلایر دکسکسینګ خلک خوښوي.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ AFAIK ، صفر ویب پا thisه دا کار کوي. ایا تاسو به په
 
 [ ګډون کول ] [ زه موافق نه یم ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - هڅه وکړئ د دوی خدمت ونه کاروئ. په یاد ولرئ چې تاسو د کلاوډ فلایر لخوا لیدل کیږئ.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - د نورو ویب پا forو لپاره لټون. په انټرنیټ کې بدیلونه او فرصتونه شتون لري!
 
 - خپلو ملګرو ته ډاډ ورکړئ چې هره ورځ ټور وکاروي.
   - گمنامي باید د خلاص انټرنیټ معیار وي!
-  - [په یاد ولرئ چې د تور پروژه دا پروژه خوښوي.](HISTORY.md)
+  - [په یاد ولرئ چې د تور پروژه دا پروژه خوښوي.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ AFAIK ، صفر ویب پا thisه دا کار کوي. ایا تاسو به په
 
 | نوم | پرمختیا کونکی | ملاتړ | مخنیوی کولی شي | خبر ورکولای شي | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **هو**     | **هو**     |  **هو** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | نه     | **هو**     |  **هو** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | نه     | **هو**     |  **هو** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **هو**     | **هو**     |  نه |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **هو**     | **هو**     |  **هو** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | نه     | **هو**     |  **هو** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | نه     | **هو**     |  **هو** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **هو**     | **هو**     |  نه |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **هو**     | **هو**     |  نه |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | نه     | **هو**     |  نه |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | نه     | **هو**     |  نه |
@@ -139,38 +139,38 @@ AFAIK ، صفر ویب پا thisه دا کار کوي. ایا تاسو به په
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - د Cloudflare حل ، دوره مه کاروئ.
   - تاسو کولی شئ له دې څخه ښه کار وکړئ ، سمه ده؟ [دلته د کلاوډ فلیر شراکتونو ، پلانونو ، ډومینونو ، یا حسابونو لرې کولو څرنګوالی دی.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - نور پیرودونکي غواړئ؟ تاسو پوهیږئ چې څه وکړئ. اشاره "د کرښې پورته" ده.
   - [سلام ، تاسو لیکلي "موږ ستاسو محرمیت جدي نیسو" مګر ما "غلطي 403 منع شوی نامعلوم پراکسي اجازه نلري".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ولې تاسو تور یا VPN بنده کوئ؟ [او ولې موقتي بریښنالیکونه بلاک کوئ؟](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - د Cloudflare کارول به د وتلو چانس ډیر کړي. لیدونکي نشي کولی ستاسو ویب پا toې ته لاسرسی ومومي که ستاسو سرور بند وي یا کلاوډ فلیر بند وي.
-  - [ایا تاسو واقعیا فکر کاوه چې Cloudflare هیڅکله ښکته نه وي؟](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [ایا تاسو واقعیا فکر کاوه چې Cloudflare هیڅکله ښکته نه وي؟](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - ستاسو د "API خدمت" ، "سافټویر تازه کولو سرور" یا "RSS فیډ" پروکسي کولو لپاره د کلاوډ فلیر کارول به ستاسو پیرودونکي ته زیان ورسوي. یو پیرودونکي تاسو ته زنګ وهلی او ویلي یې دي "زه نور ستاسو API نه کاروم" ، او تاسو نه پوهیږئ چې څه روان دي. Cloudflare کولی شي په خاموش ډول ستاسو پیرودونکي بلاک کړي. ایا تاسو فکر کوئ چې دا سم دي؟
   - ډیری د RSS لوستونکي پیرودونکي او د RSS لوستونکي آنلاین خدمتونه شتون لري. تاسو د RSS فیډ ولې خپروئ که تاسو خلکو ته د ګډون اجازه نه ورکوئ؟
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - ایا تاسو د HTTPS سند ته اړتیا لرئ؟ "راځئ اینکرپت" وکاروئ یا یوازې د CA شرکت څخه یې واخلئ.
 
 - ایا تاسو د DNS سرور ته اړتیا لرئ؟ خپل سرور جوړ نشی کولی؟ د دوی په اړه څنګه: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (اډمین خپل حساب حذف کړئ که تاسو TOR وکاروئ)](https://freedns.afraid.org/)
 
 - د کوربه توب خدمت په لټه کې یاست؟ یوازې وړیا؟ د دوی په اړه څنګه: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [کلاوډ فلایر ته بدیلونه](subfiles/cloudflare-alternatives.md)
+  - [کلاوډ فلایر ته بدیلونه](../subfiles/cloudflare-alternatives.md)
 
-- ایا تاسو "cloudflare-ipfs.com" کاروئ؟ [ایا تاسو پوهیږئ چې Cloudflare IPFS خراب دی؟](PEOPLE.md)
+- ایا تاسو "cloudflare-ipfs.com" کاروئ؟ [ایا تاسو پوهیږئ چې Cloudflare IPFS خراب دی؟](../PEOPLE.md)
 
 - په خپل سرور کې د ویب غوښتنلیک فایر وال لکه OWASP او Fail2Ban نصب کړئ او په سمه توګه یې تنظیم کړئ.
   - د تور بندول د حل لاره نده. هرڅوک یوازې د کوچني بد کاروونکو لپاره مجازات مه کوئ.
@@ -297,7 +297,7 @@ die();
 
 - ایا تاسو نه غواړئ چې ټور وکاروئ؟ تاسو کولی شئ د تور ډیمون سره هر براوزر وکاروئ.
   - [په یاد ولرئ چې د تور پروژه دا نه خوښوي.](https://support.torproject.org/tbb/tbb-9/) د تور براوزر وکاروئ که تاسو د دې کولو توان لرئ.
-- [د تور سره د کرومیم کارولو څرنګوالی](subfiles/chromium_tor.md)
+- [د تور سره د کرومیم کارولو څرنګوالی](../subfiles/chromium_tor.md)
 
 
 راځئ چې د نورو سافټویر محرمیت په اړه وغږیږو.
@@ -377,12 +377,12 @@ die();
 - ~~د موزیلیا ټریکر په اړه راپور ورکړئ ، دوی ته ووایاست چې کلاوډ فلیر مه کاروئ.~~ د بګزلا په اړه د راپور راپور وه. ډیری خلکو د دوی اندیښنې پوسټ کړې وې ، په هرصورت دا کیسه په 2018 کې د اداره لخوا پټه شوې وه.
 
 - تاسو کولی شئ په فایرفاکس کې د DoH غیر فعال کړئ.
-  - [د فایرفوکس ډیفالټ ډی این ایس چمتو کونکی بدل کړئ](subfiles/change-firefox-dns.md)
+  - [د فایرفوکس ډیفالټ ډی این ایس چمتو کونکی بدل کړئ](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [که تاسو غواړئ غیر ISP DNS وکاروئ ، نو د OpenNIC Tier2 DNS خدمت یا د غیر کلاوډ فلیر DNS خدماتو څخه کار واخلئ.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - کلاوډ فلایر د DNS سره بند کړئ. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - تاسو کولی شئ تور د DNS حل کونکي په توګه وکاروئ. [که تاسو د تور ماهر نه یاست ، پوښتنه دلته وکړئ.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - چیرې چې مناسب وي ، پدې ډلو کې دې ډلو سره اړیکه ونیسئ - دا د ډلو په توګه د ګډ کار کولو همغږي کولو لپاره ځای کیدی شي.
 
-- [یو کوپ پیل کړئ چې کولی شي د کلاوډ فلیر لپاره معنی لرونکی غیر کارپوریټ بدیل چمتو کړي.](subfiles/cloudflare-alternatives.md)
+- [یو کوپ پیل کړئ چې کولی شي د کلاوډ فلیر لپاره معنی لرونکی غیر کارپوریټ بدیل چمتو کړي.](../subfiles/cloudflare-alternatives.md)
 
 - راځئ چې د هرډول بدیلونو په اړه پوه شو چې لږترلږه د کلاوډ فلایر پروړاندې څو پرتې دفاع چمتو کړو.
 
@@ -464,4 +464,4 @@ die();
 ### نن ، تاسو نن څه وکړل؟
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
