@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 אנו ממליצים לפנות למנהלי השירותים או האתרים הספציפיים אליהם נתקלים ולשתף את החוויה שלך.
 ```
 
-[אם אינך מבקש זאת, בעל האתר לעולם אינו מכיר את הבעיה הזו.](PEOPLE.md)
+[אם אינך מבקש זאת, בעל האתר לעולם אינו מכיר את הבעיה הזו.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [דוגמה מוצלחת](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 יש לך בעיה? [הרם את קולך עכשיו.](https://github.com/maraoz/maraoz.github.io/issues/1) דוגמה למטה.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 זו דוגמה למדיניות פרטיות שאין לה את המילה Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 ל- Cloudflare יש מדיניות פרטיות משלהם.
 [Cloudflare אוהב אנשים דוקסינג.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ AFAIK, אתר אפס עשה זאת. האם תסמכו עליהם?
 
 [ הירשם ] [ אני לא מסכים ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - נסו לא להשתמש בשירות שלהם. זכור שאתה צופה על ידי Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - חפש אתר אחר. ישנן חלופות ואופציות באינטרנט!
 
 - שכנע את החברים שלך להשתמש בטור באופן יומיומי.
   - אנונימיות צריכה להיות הסטנדרט של האינטרנט הפתוח!
-  - [שים לב שפרויקט Tor לא אוהב פרויקט זה.](HISTORY.md)
+  - [שים לב שפרויקט Tor לא אוהב פרויקט זה.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ AFAIK, אתר אפס עשה זאת. האם תסמכו עליהם?
 
 | שֵׁם | מפתח | תמיכה | יכול לחסום | יכול להודיע | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **כן**     | **כן**     |  **כן** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | לא     | **כן**     |  **כן** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | לא     | **כן**     |  **כן** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **כן**     | **כן**     |  לא |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **כן**     | **כן**     |  **כן** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | לא     | **כן**     |  **כן** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | לא     | **כן**     |  **כן** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **כן**     | **כן**     |  לא |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **כן**     | **כן**     |  לא |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | לא     | **כן**     |  לא |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | לא     | **כן**     |  לא |
@@ -139,38 +139,38 @@ AFAIK, אתר אפס עשה זאת. האם תסמכו עליהם?
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - אל תשתמש בפתרון Cloudflare, נקודה.
   - אתה יכול לעשות יותר טוב מזה, נכון? [כך תסיר מנויים, תוכניות, דומיינים או חשבונות של Cloudflare.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - רוצים עוד לקוחות? אתה יודע מה לעשות. רמז הוא "מעל קו".
   - [שלום, כתבת "אנחנו לוקחים את הפרטיות שלך ברצינות" אבל קיבלתי את "שגיאה 403 פרוקסי אנונימי אסור אסור".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) מדוע אתה חוסם את Tor Or VPN? [ולמה אתה חוסם מיילים זמניים?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - שימוש ב- Cloudflare יגדיל את הסיכויים להפסקה. מבקרים אינם יכולים לגשת לאתר שלך אם השרת שלך מושבת או Cloudflare אינו פעיל.
-  - [האם באמת חשבת ש- Cloudflare מעולם לא ירד?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [האם באמת חשבת ש- Cloudflare מעולם לא ירד?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - שימוש ב- Cloudflare לשרת proxy שלך "שירות ה- API", "שרת עדכון התוכנה" או "עדכון ה- RSS" יפגע בלקוח שלך. לקוח התקשר אליך ואמר "אני כבר לא יכול להשתמש ב- API שלך", ואין לך מושג מה קורה. Cloudflare יכול לחסום בשקט את הלקוח שלך. אתה חושב שזה בסדר?
   - ישנם לקוחות רבים של קוראי RSS ושירות מקוון של קוראי RSS. מדוע אתה מפרסם עדכון RSS אם אינך מאפשר לאנשים להירשם?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - האם אתה זקוק לאישור HTTPS? השתמש ב- "בואו להצפין" או פשוט לקנות אותו מחברת CA.
 
 - האם אתה זקוק לשרת DNS? לא מצליחים להקים שרת משלך? מה דעתך עליהם: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (מנהל מערכת מוחק את חשבונך אם אתה משתמש ב- TOR)](https://freedns.afraid.org/)
 
 - מחפש שירות אירוח? חינם בלבד? מה דעתך עליהם: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [אלטרנטיבות ל- Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [אלטרנטיבות ל- Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- האם אתה משתמש ב- "cloudflare-ipfs.com"? [האם אתה יודע ש- IPFS של Cloudflare רע?](PEOPLE.md)
+- האם אתה משתמש ב- "cloudflare-ipfs.com"? [האם אתה יודע ש- IPFS של Cloudflare רע?](../PEOPLE.md)
 
 - התקן את חומת האש של יישום האינטרנט כגון OWASP ו- Fail2Ban בשרת שלך והגדר אותה כראוי.
   - חסימת טור אינה פיתרון. אל תענישו את כולם רק על משתמשים רעים קטנים.
@@ -297,7 +297,7 @@ die();
 
 - לא רוצה להשתמש בטור? אתה יכול להשתמש בכל דפדפן עם Tor daemon.
   - [שים לב שפרויקט Tor לא אוהב את זה.](https://support.torproject.org/tbb/tbb-9/) השתמש בדפדפן Tor אם אתה מסוגל לעשות זאת.
-- [כיצד להשתמש ב- Chromium עם Tor](subfiles/chromium_tor.md)
+- [כיצד להשתמש ב- Chromium עם Tor](../subfiles/chromium_tor.md)
 
 
 בואו נדבר על פרטיות תוכנה אחרת.
@@ -377,12 +377,12 @@ die();
 - ~~דווח על באג במעקב של מוזילה, ואמר להם לא להשתמש ב- Cloudflare.~~ היה דיווח על באגזילה. אנשים רבים פורסמו בדאגתם, אולם הבאג הוסתר על ידי המנהל בשנת 2018.
 
 - אתה יכול להשבית את DoH ב- Firefox.
-  - [שנה ספק DNS ברירת מחדל של Firefox](subfiles/change-firefox-dns.md)
+  - [שנה ספק DNS ברירת מחדל של Firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [אם ברצונך להשתמש ב- DNS שאינו ISP, שקול להשתמש בשירות DNS OpenNIC Tier2 או בשירותי DNS שאינם CloudFlare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - חסום את Cloudflare באמצעות DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - אתה יכול להשתמש ב- Tor כמפתן DNS. [אם אתה לא מומחה לטור, שאל כאן שאלה.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - היכן שמתאים, קישור לקבוצות אלה במאגר זה - זה יכול להיות מקום לתיאום עבודה משותפת כקבוצות.
 
-- [התחל לול שיכול לספק אלטרנטיבה משמעותית שאינה ארגונית ל- Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [התחל לול שיכול לספק אלטרנטיבה משמעותית שאינה ארגונית ל- Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - ספר לנו על כל חלופה שתסייע לפחות לספק הגנה מרובת שכבות נגד Cloudflare.
 
@@ -464,4 +464,4 @@ die();
 ### עכשיו, מה עשית היום?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
