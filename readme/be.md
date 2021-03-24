@@ -128,7 +128,7 @@
 
 * [Вось некаторыя PDF / ePUB для чытання.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
