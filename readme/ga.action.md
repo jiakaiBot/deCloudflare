@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Molaimid duit teagmháil a dhéanamh leis na riarthóirí maidir leis na seirbhísí nó na suíomhanna ar leith a mbíonn ceist agat fúthu agus do thaithí a roinnt.
 ```
 
-[Mura n-iarrann tú é, ní bhíonn an fhadhb seo ar eolas ag úinéir an láithreáin ghréasáin riamh.](PEOPLE.md)
+[Mura n-iarrann tú é, ní bhíonn an fhadhb seo ar eolas ag úinéir an láithreáin ghréasáin riamh.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Sampla rathúil](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Tá fadhb agat? [Ardaigh do ghuth anois.](https://github.com/maraoz/maraoz.github.io/issues/1) Sampla thíos.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Seo sampla de bheartas príobháideachta nach bhfuil an focal Cloudflare ann.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Tá a mbeartas príobháideachta féin ag Cloudflare.
 [Is breá le Cloudflare daoine doxxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Má sceitheann Cloudflare do chuid faisnéise nó mura ligfidh sé duit ceangal 
 
 [ Clarú ] [ ní aontaím ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Déan iarracht gan a seirbhís a úsáid. Cuimhnigh go bhfuil Cloudflare ag faire ort.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Cuardaigh suíomh Gréasáin eile. Tá roghanna agus deiseanna eile ar an idirlíon!
 
 - Cuir ina luí ar do chairde Tor a úsáid go laethúil.
   - Ba cheart go mbeadh anaithnideacht mar chaighdeán an idirlín oscailte!
-  - [Tabhair faoi deara nach dtaitníonn tionscadal Tor leis an tionscadal seo.](HISTORY.md)
+  - [Tabhair faoi deara nach dtaitníonn tionscadal Tor leis an tionscadal seo.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Má sceitheann Cloudflare do chuid faisnéise nó mura ligfidh sé duit ceangal 
 
 | Ainm | Forbróir | Tacaíocht | An féidir Bloc | An féidir Fógra a thabhairt | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Sea**     | **Sea**     |  **Sea** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Níl     | **Sea**     |  **Sea** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Níl     | **Sea**     |  **Sea** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Sea**     | **Sea**     |  Níl |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Sea**     | **Sea**     |  **Sea** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Níl     | **Sea**     |  **Sea** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Níl     | **Sea**     |  **Sea** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Sea**     | **Sea**     |  Níl |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Sea**     | **Sea**     |  Níl |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Níl     | **Sea**     |  Níl |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Níl     | **Sea**     |  Níl |
@@ -139,38 +139,38 @@ Má sceitheann Cloudflare do chuid faisnéise nó mura ligfidh sé duit ceangal 
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Ná húsáid tuaslagán Cloudflare, Tréimhse.
   - Is féidir leat a dhéanamh níos fearr ná sin, ceart? [Seo mar is féidir síntiúis, pleananna, fearainn nó cuntais Cloudflare a bhaint.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ag iarraidh níos mó custaiméirí? Tá a fhios agat cad atá le déanamh. Tá leid "os cionn na líne".
   - [Dia duit, scríobh tú “Glacaimid go dáiríre le do phríobháideacht” ach fuair mé “Earráid 403 Proxy Toirmiscthe Gan Ainm Gan Cead”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Cén fáth a bhfuil tú ag cur bac ar Tor Nó VPN? [Agus cén fáth a bhfuil tú ag cur bac ar ríomhphoist shealadacha?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Méadóidh an seans go dtitfidh tú as Cloudflare. Ní féidir le cuairteoirí rochtain a fháil ar do shuíomh Gréasáin má tá do fhreastalaí síos nó má tá Cloudflare síos.
-  - [Ar shíl tú i ndáiríre nach ndeachaigh Cloudflare síos riamh?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Ar shíl tú i ndáiríre nach ndeachaigh Cloudflare síos riamh?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Déanfaidh Cloudflare úsáid as do “sheirbhís API”, “freastalaí nuashonraithe bogearraí” nó “fotha RSS” do chustaiméirí. Ghlaoigh custaiméir ort agus dúirt "Ní féidir liom do API a úsáid níos mó", agus níl aon tuairim agat cad atá ar siúl. Féadann Cloudflare bac a chur ar do chustaiméir go ciúin. An gceapann tú go bhfuil sé ceart go leor?
   - Tá go leor seirbhís ar líne do chliaint léitheoir RSS agus léitheoir RSS. Cén fáth a bhfuil tú ag foilsiú fotha RSS mura bhfuil tú ag ligean do dhaoine liostáil?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - An bhfuil teastas HTTPS uait? Úsáid "Let's Encrypt" nó díreach é a cheannach ón gcuideachta CA.
 
 - An bhfuil freastalaí DNS de dhíth ort? Ní féidir do fhreastalaí féin a chur ar bun? Cad mar gheall orthu: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Scrios Riarachán do chuntas má úsáideann tú TOR)](https://freedns.afraid.org/)
 
 - Ag lorg seirbhíse óstála? Saor in aisce amháin? Cad mar gheall orthu: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Roghanna malartacha ar Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Roghanna malartacha ar Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- An bhfuil tú ag úsáid "cloudflare-ipfs.com"? [An bhfuil a fhios agat go bhfuil Cloudflare IPFS go dona?](PEOPLE.md)
+- An bhfuil tú ag úsáid "cloudflare-ipfs.com"? [An bhfuil a fhios agat go bhfuil Cloudflare IPFS go dona?](../PEOPLE.md)
 
 - Suiteáil Balla Dóiteáin Feidhmchlár Gréasáin mar OWASP agus Fail2Ban ar do fhreastalaí agus cumraigh i gceart é.
   - Ní réiteach é Blocking Tor. Ná pionós a ghearradh ar gach duine ach as drochúsáideoirí beaga.
@@ -297,7 +297,7 @@ Níl aon 100% slán ná 100% príobháideach ar an idirlíon agus teicneolaíoch
 
 - Ná bí ag iarraidh Tor a úsáid? Is féidir leat brabhsálaí ar bith a úsáid le deamhan Tor.
   - [Tabhair faoi deara nach dtaitníonn seo le tionscadal Tor.](https://support.torproject.org/tbb/tbb-9/) Úsáid Brabhsálaí Tor má tá tú in ann é sin a dhéanamh.
-- [Conas Cróimiam a úsáid le Tor](subfiles/chromium_tor.md)
+- [Conas Cróimiam a úsáid le Tor](../subfiles/chromium_tor.md)
 
 
 Labhraimís faoi phríobháideacht bogearraí eile.
@@ -377,12 +377,12 @@ Dá bhrí sin molaimid thuas tábla amháin. Tada eile.
 - ~~Tuairiscigh fabht ar rianaitheoir mozilla, ag rá leo gan Cloudflare a úsáid.~~ Bhí tuairisc ar fhabht ar bugzilla. Cuireadh a n-imní in iúl do go leor daoine, ach chuir an lucht riaracháin an fabht i bhfolach in 2018.
 
 - Is féidir leat DoH a dhíchumasú i Firefox.
-  - [Athraigh an soláthróir DNS réamhshocraithe de firefox](subfiles/change-firefox-dns.md)
+  - [Athraigh an soláthróir DNS réamhshocraithe de firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Más mian leat DNS neamh-ISP a úsáid, smaoinigh ar sheirbhís OpenNIC Tier2 DNS nó aon cheann de sheirbhísí DNS neamh-Cloudflare a úsáid.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Bloc Cloudflare le DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Is féidir leat Tor a úsáid mar athscríobh DNS. [Mura saineolaí Tor tú, cuir ceist anseo.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Dá bhrí sin molaimid thuas tábla amháin. Tada eile.
 
 - Nuair is iomchuí, déan nasc leis na grúpaí seo ar an stór seo - is áit é seo chun oibriú le chéile mar ghrúpaí a chomhordú.
 
-- [Cuir tús le coop a fhéadfaidh rogha neamh-chorparáideach brí a sholáthar do Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Cuir tús le coop a fhéadfaidh rogha neamh-chorparáideach brí a sholáthar do Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Cuir in iúl dúinn faoi aon roghanna eile chun cabhrú le cosaint ilchisealach a sholáthar i gcoinne Cloudflare ar a laghad.
 
@@ -464,4 +464,4 @@ Níl aon rud todhchaíoch faoi seo. Táimid caillte cheana féin.
 ### Anois, cad a rinne tú inniu?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
