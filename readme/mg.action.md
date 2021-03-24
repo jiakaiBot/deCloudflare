@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Manoro hevitra anao izahay hanatona ny mpitantana amin'ny serivisy manokana na tranokala izay ifaneraseranao ary mizara ny zavatra niainanao.
 ```
 
-[Raha tsy mangataka izany ianao dia tsy ho fantatry ny tompona tranonkala mihitsy izany olana izany.](PEOPLE.md)
+[Raha tsy mangataka izany ianao dia tsy ho fantatry ny tompona tranonkala mihitsy izany olana izany.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Ohatra mahomby](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Manana olana ianao? [Asandrato izao ny feonao.](https://github.com/maraoz/maraoz.github.io/issues/1) Ohatra etsy ambany.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Ity dia ohatra iray amin'ny politika manokana izay tsy manana ny teny Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare dia manana ny politikany manokana.
 [Cloudflare dia tia olona doxxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Raha mamoaka ny mombamomba anao i Cloudflare na tsy mamela anao hifandray amin'i
 
 [ Hiditra Mpikambana ] [ tsy manaiky aho ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Miezaha tsy hampiasa ny serivisin'izy ireo. Tadidio fa jeren'ny Cloudflare ianao.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Mikaroha tranokala hafa. Misy safidy hafa sy mpanararaotra amin'ny Internet!
 
 - Mandresy lahatra ny namanao hampiasa Tor isan'andro.
   - Ny tsy fitonona anarana no tokony ho fenitry ny Internet misokatra!
-  - [Mariho fa tsy tian'ity tetikasa Tor ity ity tetikasa ity.](HISTORY.md)
+  - [Mariho fa tsy tian'ity tetikasa Tor ity ity tetikasa ity.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Raha mamoaka ny mombamomba anao i Cloudflare na tsy mamela anao hifandray amin'i
 
 | Anarana | Developer | MANAMPY | Afaka manakana | Tsy afaka Mampandre | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ENY**     | **ENY**     |  **ENY** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | tsy misy     | **ENY**     |  **ENY** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | tsy misy     | **ENY**     |  **ENY** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ENY**     | **ENY**     |  tsy misy |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ENY**     | **ENY**     |  **ENY** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | tsy misy     | **ENY**     |  **ENY** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | tsy misy     | **ENY**     |  **ENY** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ENY**     | **ENY**     |  tsy misy |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ENY**     | **ENY**     |  tsy misy |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | tsy misy     | **ENY**     |  tsy misy |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | tsy misy     | **ENY**     |  tsy misy |
@@ -139,38 +139,38 @@ Raha mamoaka ny mombamomba anao i Cloudflare na tsy mamela anao hifandray amin'i
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Aza mampiasa vahaolana Cloudflare, Period.
   - Afaka manao tsara kokoa noho izany ianao, marina? [Ity ny fomba hanesorana ny famandrihana Cloudflare, drafitra, domains, na kaonty.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Te hanana mpanjifa bebe kokoa? Fantatrao izay hatao. Ny tondro dia "ambony andalana".
   - [Salama, ianao no nanoratra hoe "Raisinay am-pahatsorana ny fiainanao manokana" fa nahazo "Error 403 Proka tsy fantatra anarana tsy voarara" aho.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Fa maninona no sakananao ny Tor na VPN? [Ary maninona no manakana ny mailaka vonjimaika ianao?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Ny fampiasana Cloudflare dia hampitombo ny fahatapahana. Tsy afaka miditra amin'ny tranonkalanao ireo mpitsidika raha maty ny mpizara anao na maty i Cloudflare.
-  - [Tena noheverinao fa tsy nidina mihitsy i Cloudflare?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Tena noheverinao fa tsy nidina mihitsy i Cloudflare?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Ny fampiasana Cloudflare hanome proxy ny "serivisy API" anao, ny "lozisialy fanavaozana lozisialy" na "feed RSS" dia hanimba ny mpanjifanao. Nisy mpanjifa niantso anao ary nilaza hoe "Tsy afaka mampiasa ny API-nao intsony aho", ary tsy fantatrao izay mitranga. Cloudflare dia afaka manakana mangingina ny mpanjifanao. Mihevitra ve ianao fa tsy maninona?
   - Betsaka ny mpanjifa mpamaky RSS sy serivisy mpamaky RSS an-tserasera. Fa maninona ianao no mamoaka feed RSS raha tsy avelanao hisoratra anarana ny olona?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Mila fanamarinana HTTPS ve ianao? Ampiasao ny "Let's Encrypt" na hividy izany amin'ny orinasa CA fotsiny.
 
 - Mila mpizara DNS ve ianao? Tsy afaka manangana mpizara anao manokana? Ahoana ny amin'izy ireo: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Hamafa ny kaontinao raha mampiasa TOR ianao)](https://freedns.afraid.org/)
 
 - Mitady serivisy fampiantranoana? Maimaimpoana fotsiny? Ahoana ny amin'izy ireo: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Solon'ny Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Solon'ny Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Mampiasa "cloudflare-ipfs.com" ve ianao? [Fantatrao ve fa ratsy ny Cloudflare IPFS?](PEOPLE.md)
+- Mampiasa "cloudflare-ipfs.com" ve ianao? [Fantatrao ve fa ratsy ny Cloudflare IPFS?](../PEOPLE.md)
 
 - Mametraha Firewall Application Web toy ny OWASP sy Fail2Ban amin'ny mpizara anao ary ampifanaraho tsara.
   - Tsy vahaolana ny fanakanana ny Tor. Aza saziana ho an'ny mpampiasa ratsy kely fotsiny ny rehetra.
@@ -297,7 +297,7 @@ Tsy misy azo antoka 100% na 100% tsy miankina amin'ny Internet sy ny teknolojia.
 
 - Tsy te hampiasa Tor? Azonao atao ny mampiasa browser rehetra amin'ny Tor daemon.
   - [Mariho fa tsy tia an'io ny tetikasa Tor.](https://support.torproject.org/tbb/tbb-9/) Ampiasao Tor Browser raha afaka manao izany ianao.
-- [Ahoana ny fampiasana Chromium amin'ny Tor](subfiles/chromium_tor.md)
+- [Ahoana ny fampiasana Chromium amin'ny Tor](../subfiles/chromium_tor.md)
 
 
 Andao hiresaka momba ny tsiambaratelon'ny rindrambaiko hafa.
@@ -377,12 +377,12 @@ Noho izany dia manoro hevitra ny ambony latabatra ihany izahay. Tsy misy zavatra
 - ~~Tatero ny bug amin'ny tracker mozilla, lazao azy ireo tsy hampiasa Cloudflare.~~ Nisy tatitra momba ny bibikely momba ny bugzilla. Betsaka ny olona no nametraka ny ahiahiny, na izany aza, nafenin'ny admin tamin'ny taona 2018 ilay bibikely.
 
 - Azonao atao ny miala amin'ny DoH ao amin'ny Firefox.
-  - [Ovao ny DNS default an'ny firefox](subfiles/change-firefox-dns.md)
+  - [Ovao ny DNS default an'ny firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Raha te hampiasa DNS tsy ISP ianao, dia ampiasao ny serivisy OpenNIC Tier2 DNS na ny serivisy tsy Cloudflare DNS.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Sakano ny Cloudflare miaraka amin'ny DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Azonao atao ny mampiasa Tor ho resolver DNS. [Raha tsy manam-pahaizana Tor ianao dia mametraha fanontaniana eto.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Noho izany dia manoro hevitra ny ambony latabatra ihany izahay. Tsy misy zavatra
 
 - Raha mety dia ampifandraiso amin'ireto vondrona ireto ao amin'ity tahiry ity - ity dia mety ho toerana handrindrana ny fiaraha-miasa miaraka amin'ny vondrona.
 
-- [Manomboha coop izay afaka manome safidy hafa tsy miankina amin'ny Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Manomboha coop izay afaka manome safidy hafa tsy miankina amin'ny Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Ampahafantaro anay ny fomba hafa azo hanampiana farafaharatsiny mba hiarovan-tena amin'ny sosona Cloudflare.
 
@@ -464,4 +464,4 @@ Tsy misy zavatra futuristic momba an'io. Efa resy isika.
 ### Inona no nataonao androany?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
