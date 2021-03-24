@@ -128,7 +128,7 @@ Ez a lerakat azon webhelyek listája, amelyek a "Nagy felhőfal" mögött állna
 
 * [Itt van néhány olvasható PDF / ePUB.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
