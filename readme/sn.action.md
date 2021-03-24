@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Isu tinokurudzira kuti iwe usvike kune manejimendi kune chaiwo masevhisi kana saiti iwe aunomhanyisa mukukonana nawo uye ugovana ruzivo rwako.
 ```
 
-[Ukasabvunza nezvazvo, muridzi webhusaiti haamboziva dambudziko iri.](PEOPLE.md)
+[Ukasabvunza nezvazvo, muridzi webhusaiti haamboziva dambudziko iri.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Muenzaniso unobudirira](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Une dambudziko? [Simudza izwi rako izvozvi.](https://github.com/maraoz/maraoz.github.io/issues/1) Semuenzaniso pazasi.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Uyu muenzaniso weyakavanzika mutemo iyo isina izwi Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare vane yavo yega yega zvakavanzika mutemo.
 [Cloudflare inoda vanhu vanonamata.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Kana Cloudflare ichiburitsa ruzivo rwako kana isingakuregi iwe ubatanidze kumase
 
 [ Nyorera ] [ Ini handibvumirani ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Edza kusashandisa sevhisi yavo. Rangarira iwe uri kutariswa neCloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Tsvaga imwe webhusaiti. Kune dzimwe nzira uye mikana pa internet!
 
 - Ita kuti shamwari dzako dzishandise Tor zuva nezuva.
   - Kusazivikanwa kunofanirwa kuve muyero weiyo yakavhurika internet!
-  - [Cherekedza kuti chirongwa cheTor hachifarire chirongwa ichi.](HISTORY.md)
+  - [Cherekedza kuti chirongwa cheTor hachifarire chirongwa ichi.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Kana Cloudflare ichiburitsa ruzivo rwako kana isingakuregi iwe ubatanidze kumase
 
 | Zita | Mugadziri | Tsigiro | Unogona Kuvhara | Unogona Kuzivisa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ehe**     | **Ehe**     |  **Ehe** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Aihwa     | **Ehe**     |  **Ehe** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Aihwa     | **Ehe**     |  **Ehe** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ehe**     | **Ehe**     |  Aihwa |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ehe**     | **Ehe**     |  **Ehe** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Aihwa     | **Ehe**     |  **Ehe** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Aihwa     | **Ehe**     |  **Ehe** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ehe**     | **Ehe**     |  Aihwa |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ehe**     | **Ehe**     |  Aihwa |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Aihwa     | **Ehe**     |  Aihwa |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Aihwa     | **Ehe**     |  Aihwa |
@@ -139,38 +139,38 @@ Kana Cloudflare ichiburitsa ruzivo rwako kana isingakuregi iwe ubatanidze kumase
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Usashandise Cloudflare solution, Period.
   - Unogona kuita zvirinani pane izvozvo, handiti? [Heano maitiro ekubvisa Cloudflare kunyoreswa, zvirongwa, domains, kana maakaunzi.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Unoda vamwe vatengi? Unoziva zvekuita. Hint iri "pamusoro pemutsara".
   - [Mhoroi, iwe wakanyora "Tinotora zvakavanzika zvako zvakanyanya" asi ini ndakawana "Kanganiso 403 Yakarambidzwa Anosazivikanwa Proxy Haibvumirwe".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Sei uchivharira Tor Kana VPN? [Uye nei uchivharira maemail enguva pfupi?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Kushandisa Cloudflare kuchawedzera mikana yekubuda. Vashanyi havagone kuwana kune yako webhusaiti kana sevha yako iri pasi kana Cloudflare iri pasi.
-  - [Wakafunga zvechokwadi kuti Cloudflare haina kumbobvira yadzika?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Wakafunga zvechokwadi kuti Cloudflare haina kumbobvira yadzika?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Uchishandisa Cloudflare proxy yako "API sevhisi", "software yekuvandudza server" kana "RSS feed" inokuvadza mutengi wako. Mutengi akakudaidza ndokuti "Handichakwanisa kushandisa API yako futi", uye iwe hauzive zviri kuitika. Cloudflare inogona kuvhara chinyararire mutengi wako. Unofunga zvakanaka?
   - Kune akawanda RSS muverengi mutengi uye RSS kuverenga online sevhisi. Sei uri kutsikisa RSS feed kana usiri kubvumira vanhu kunyorera?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Unoda here chitupa cheHTTPS? Shandisa "Ngatisimbisei" kana kuti tenga iyo kubva kuC CA kambani.
 
 - Unoda DNS server? Haugone kumisikidza yako wega server? Zvakadii navo: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin dzima account yako kana ukashandisa TOR)](https://freedns.afraid.org/)
 
 - Kutsvaga yekutambira sevhisi? Kusununguka chete? Zvakadii navo: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Dzimwe nzira kuCloudflare](subfiles/cloudflare-alternatives.md)
+  - [Dzimwe nzira kuCloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Uri kushandisa "cloudflare-ipfs.com"? [Unoziva here Cloudflare IPFS yakaipa?](PEOPLE.md)
+- Uri kushandisa "cloudflare-ipfs.com"? [Unoziva here Cloudflare IPFS yakaipa?](../PEOPLE.md)
 
 - Isa Webhu Yekushandisa Firewall senge OWASP uye Fail2Ban pane yako server uye uigadzirise zvakanaka.
   - Kuvhara Tor haisi mhinduro. Usarange munhu wese nekuda kwevadiki vakaipa vashandisi.
@@ -297,7 +297,7 @@ Iko hakuna 100% yakachengeteka kana 100% yakavanzika painternet uye tekinoroji.
 
 - Haudi kushandisa Tor? Unogona kushandisa chero browser neTor daemon.
   - [Ziva kuti chirongwa cheTor hachide ichi.](https://support.torproject.org/tbb/tbb-9/) Shandisa Tor Browser kana uchikwanisa kudaro.
-- [Mashandisiro ekushandisa Chromium neTor](subfiles/chromium_tor.md)
+- [Mashandisiro ekushandisa Chromium neTor](../subfiles/chromium_tor.md)
 
 
 Ngatitaurei nezvevamwe kuvanzika kwesoftware.
@@ -377,12 +377,12 @@ Naizvozvo tinokurudzira pamusoro petafura chete. Hapana chimwe.
 - ~~Mhan'ara bhagi pane mozilla's tracker, uchivaudza kuti vasashandise Cloudflare.~~ Paive neyakaitika bug pane bugzilla. Vanhu vazhinji vakatumirwa kunetsekana kwavo, zvisinei kuti bhugi rakanga rakavanzwa ne admin muna 2018.
 
 - Unogona kudzima DoH muFirefox.
-  - [Chinja default DNS mupi we firefox](subfiles/change-firefox-dns.md)
+  - [Chinja default DNS mupi we firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Kana iwe uchida kushandisa isiri-ISP DNS, funga kushandisa OpenNIC Tier2 DNS sevhisi kana chero yeisina-Cloudflare DNS masevhisi.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Bvisa Cloudflare neDNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Unogona kushandisa Tor seDNS resolution. [Kana usiri nyanzvi yeTor, bvunza mubvunzo pano.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Naizvozvo tinokurudzira pamusoro petafura chete. Hapana chimwe.
 
 - Pazvinenge zvakakodzera, batanidza nemapoka aya pane ino yekuchengetera - ino inogona kuve nzvimbo yekubatanidza kushanda pamwe chete semapoka.
 
-- [Kutanga coop iyo inogona kupa zvine musoro zvisiri zvemubatanidzwa imwe nzira kuCloudflare.](subfiles/cloudflare-alternatives.md)
+- [Kutanga coop iyo inogona kupa zvine musoro zvisiri zvemubatanidzwa imwe nzira kuCloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Ngatizivisei nezvenzira dzipi nedzipi dzekubatsira zvirinani kupa yakadzivirirwa yakatarisana neCloudflare.
 
@@ -464,4 +464,4 @@ Iko hakuna chero chinhu chine ramangwana nezve izvi. Takatokundwa.
 ### Zvino, waitei nhasi?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
