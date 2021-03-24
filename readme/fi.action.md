@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Suosittelemme, että otat yhteyttä järjestelmänvalvojiin tietyistä palveluista tai sivustoista, joihin kohtaat ongelman, ja jaat kokemuksesi.
 ```
 
-[Jos et pyydä sitä, verkkosivuston omistaja ei koskaan tiedä tätä ongelmaa.](PEOPLE.md)
+[Jos et pyydä sitä, verkkosivuston omistaja ei koskaan tiedä tätä ongelmaa.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Onnistunut esimerkki](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Sinulla on ongelma? [Nosta äänesi nyt.](https://github.com/maraoz/maraoz.github.io/issues/1) Esimerkki alla.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Tämä on esimerkki tietosuojakäytännöstä, jossa ei ole sanaa Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflarella on oma tietosuojakäytäntö.
 [Cloudflare rakastaa doxing ihmisiä.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Jos Cloudflare vuotaa tietosi tai ei anna sinun muodostaa yhteyttä palvelimille
 
 [ Kirjaudu ] [ olen eri mieltä ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Yritä olla käyttämättä heidän palveluitaan. Muista, että Cloudflare seuraa sinua.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Hae muita verkkosivustoja. Internetissä on vaihtoehtoja ja mahdollisuuksia!
 
 - Vakuuta ystäväsi käyttämään Toria päivittäin.
   - Nimettömyyden tulisi olla avoimen Internetin standardi!
-  - [Huomaa, että Tor-projekti ei pidä tästä projektista.](HISTORY.md)
+  - [Huomaa, että Tor-projekti ei pidä tästä projektista.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Jos Cloudflare vuotaa tietosi tai ei anna sinun muodostaa yhteyttä palvelimille
 
 | Nimi | Kehittäjä | Tuki | Voi estää | Voi ilmoittaa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Joo**     | **Joo**     |  **Joo** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ei     | **Joo**     |  **Joo** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ei     | **Joo**     |  **Joo** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Joo**     | **Joo**     |  Ei |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Joo**     | **Joo**     |  **Joo** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ei     | **Joo**     |  **Joo** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ei     | **Joo**     |  **Joo** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Joo**     | **Joo**     |  Ei |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Joo**     | **Joo**     |  Ei |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ei     | **Joo**     |  Ei |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ei     | **Joo**     |  Ei |
@@ -139,38 +139,38 @@ Jos Cloudflare vuotaa tietosi tai ei anna sinun muodostaa yhteyttä palvelimille
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Älä käytä Cloudflare-ratkaisua, jakso.
   - Voit tehdä paremmin kuin se, eikö? [Näin voit poistaa Cloudflare-tilaukset, suunnitelmat, verkkotunnukset tai tilit.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Haluatko lisää asiakkaita? Tiedät mitä tehdä. Vihje on "viivan yläpuolella".
   - [Hei, kirjoitit "Otamme yksityisyytesi vakavasti", mutta sain "Virhe 403 kielletty tuntematon välityspalvelin ei sallittu".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Miksi estät Torin tai VPN: n? [Ja miksi estät väliaikaiset sähköpostit?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Cloudflaren käyttö lisää seisokkien mahdollisuuksia. Vierailijat eivät voi käyttää verkkosivustoasi, jos palvelimesi ei toimi tai Cloudflare on poissa käytöstä.
-  - [Luuletko todella, että Cloudflare ei koskaan laskeudu?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Luuletko todella, että Cloudflare ei koskaan laskeudu?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Cloudflaren käyttäminen "API-palvelun", "ohjelmistopäivityspalvelimen" tai "RSS-syötteen" välityspalvelimeksi vahingoittaa asiakasta. Asiakas soitti sinulle ja sanoi "En voi enää käyttää sovellusliittymääsi", eikä sinulla ole aavistustakaan, mitä on tekeillä. Cloudflare voi estää asiakkaasi hiljaa. Luuletko, että se on kunnossa?
   - RSS-lukijaohjelmia ja RSS-lukijoiden verkkopalveluja on paljon. Miksi julkaiset RSS-syötteen, jos et salli ihmisten tilata?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Tarvitsetko HTTPS-varmenteen? Käytä "Let's Encrypt" tai osta se vain CA-yhtiöltä.
 
 - Tarvitsetko DNS-palvelinta? Etkö voi asettaa omaa palvelinta? Entä heille: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Järjestelmänvalvoja poistaa tilisi, jos käytät TOR: ää)](https://freedns.afraid.org/)
 
 - Etsitkö hosting-palvelua? Vain ilmaiseksi? Entä heille: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Vaihtoehtoja Cloudflarelle](subfiles/cloudflare-alternatives.md)
+  - [Vaihtoehtoja Cloudflarelle](../subfiles/cloudflare-alternatives.md)
 
-- Käytätkö "cloudflare-ipfs.com"? [Tiedätkö Cloudflare IPFS: n olevan huono?](PEOPLE.md)
+- Käytätkö "cloudflare-ipfs.com"? [Tiedätkö Cloudflare IPFS: n olevan huono?](../PEOPLE.md)
 
 - Asenna Web-sovellusten palomuuri, kuten OWASP ja Fail2Ban, palvelimellesi ja määritä se oikein.
   - Torin estäminen ei ole ratkaisu. Älä rankaise kaikkia vain pienten huonojen käyttäjien vuoksi.
@@ -297,7 +297,7 @@ Internetissä ja tekniikassa ei ole 100% turvallista eikä 100% yksityistä.
 
 - Etkö halua käyttää Toria? Voit käyttää mitä tahansa selainta Tor-demonin kanssa.
   - [Huomaa, että Tor-projekti ei pidä tästä.](https://support.torproject.org/tbb/tbb-9/) Käytä Tor-selainta, jos pystyt siihen.
-- [Kuinka käyttää kromia Torin kanssa](subfiles/chromium_tor.md)
+- [Kuinka käyttää kromia Torin kanssa](../subfiles/chromium_tor.md)
 
 
 Puhutaan muiden ohjelmistojen yksityisyydestä.
@@ -377,12 +377,12 @@ Siksi suosittelemme vain yllä olevaa taulukkoa. Ei mitään muuta.
 - ~~Ilmoita virheestä mozillan seurannassa ja kehota heitä olemaan käyttämättä Cloudflarea.~~ Bugzillasta oli virheraportti. Monille ihmisille lähetettiin huolensa, mutta vika piilotti järjestelmänvalvojan vuonna 2018.
 
 - Voit poistaa DoH: n käytöstä Firefoxissa.
-  - [Vaihda Firefoxin oletus DNS-tarjoaja](subfiles/change-firefox-dns.md)
+  - [Vaihda Firefoxin oletus DNS-tarjoaja](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Jos haluat käyttää muuta kuin ISP-DNS: ää, harkitse OpenNIC Tier2 DNS -palvelun tai muun kuin Cloudflare DNS -palvelun käyttöä.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Estä Cloudflare DNS: llä. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Voit käyttää Toria DNS-ratkaisijana. [Jos et ole Tor-asiantuntija, esitä kysymys täällä.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Siksi suosittelemme vain yllä olevaa taulukkoa. Ei mitään muuta.
 
 - Linkitä tarvittaessa näihin ryhmiin tässä arkistossa - tämä voi olla paikka koordinoida työskentelyä ryhminä.
 
-- [Aloita yhteistyö, joka voi tarjota mielekkäitä ei-yritysvaihtoehtoja Cloudflarelle.](subfiles/cloudflare-alternatives.md)
+- [Aloita yhteistyö, joka voi tarjota mielekkäitä ei-yritysvaihtoehtoja Cloudflarelle.](../subfiles/cloudflare-alternatives.md)
 
 - Kerro meille mahdollisista vaihtoehdoista, jotka auttavat ainakin tarjoamaan monikerroksisen puolustuksen Cloudflareä vastaan.
 
@@ -464,4 +464,4 @@ Tässä ei ole mitään futuristista. Olemme jo menettäneet.
 ### Mitä teit tänään?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
