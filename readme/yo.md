@@ -128,7 +128,7 @@ Ibi ipamọ yii jẹ atokọ ti awọn oju opo wẹẹbu ti o wa lẹhin "The Cl
 
 * [Eyi ni diẹ ninu PDF / ePUB lati ka.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
