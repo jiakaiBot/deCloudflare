@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Sorun yaşadığınız belirli hizmetler veya siteler için yöneticilere ulaşmanızı ve deneyimlerinizi paylaşmanızı öneririz.
 ```
 
-[Siz istemezseniz, web sitesi sahibi bu sorunu asla bilemez.](PEOPLE.md)
+[Siz istemezseniz, web sitesi sahibi bu sorunu asla bilemez.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Başarılı örnek](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Bir sorunun var? [Şimdi sesini yükselt.](https://github.com/maraoz/maraoz.github.io/issues/1) Aşağıdaki örnek.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Bu, Cloudflare kelimesine sahip olmayan bir gizlilik politikası örneğidir.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare kendi gizlilik politikasına sahiptir.
 [Cloudflare doxxing insanları seviyor.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Cloudflare bilgilerinizi sızdırırsa veya sunucularımıza bağlanmanıza izin
 
 [ kaydol ] [ katılmıyorum ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Hizmetlerini kullanmamaya çalışın. Cloudflare tarafından izlendiğinizi unutmayın.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Başka bir web sitesi arayın. İnternette alternatifler ve fırsatlar var!
 
 - Arkadaşlarınızı günlük olarak Tor kullanmaya ikna edin.
   - Anonimlik, açık internetin standardı olmalıdır!
-  - [Tor projesinin bu projeyi beğenmediğini unutmayın.](HISTORY.md)
+  - [Tor projesinin bu projeyi beğenmediğini unutmayın.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Cloudflare bilgilerinizi sızdırırsa veya sunucularımıza bağlanmanıza izin
 
 | İsim Soyisim | Geliştirici | Destek | Engelleyebilir | Bildirebilir | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Evet**     | **Evet**     |  **Evet** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Hayır     | **Evet**     |  **Evet** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Hayır     | **Evet**     |  **Evet** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Evet**     | **Evet**     |  Hayır |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Evet**     | **Evet**     |  **Evet** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Hayır     | **Evet**     |  **Evet** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Hayır     | **Evet**     |  **Evet** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Evet**     | **Evet**     |  Hayır |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Evet**     | **Evet**     |  Hayır |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Hayır     | **Evet**     |  Hayır |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Hayır     | **Evet**     |  Hayır |
@@ -139,38 +139,38 @@ Cloudflare bilgilerinizi sızdırırsa veya sunucularımıza bağlanmanıza izin
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Cloudflare çözümünü kullanmayın, Dönem.
   - Bundan daha iyisini yapabilirsin, değil mi? [Cloudflare aboneliklerini, planlarını, etki alanlarını veya hesapları nasıl kaldıracağınız aşağıda açıklanmıştır.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Daha fazla müşteri mi istiyorsunuz? Ne yapacağını biliyorsun. İpucu "çizginin üstünde" dir.
   - [Merhaba, "Gizliliğinizi ciddiye alıyoruz" yazdınız ama "403 Yasaklı Anonim Proxy'ye İzin Verilmiyor" hatası aldım.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Tor veya VPN'i neden engelliyorsunuz? [Ve neden geçici e-postaları engelliyorsunuz?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Cloudflare kullanmak, kesinti olasılığını artıracaktır. Sunucunuz kapalıysa veya Cloudflare çalışmıyorsa ziyaretçiler web sitenize erişemez.
-  - [Cloudflare'nin asla düşmediğini gerçekten düşündün mü?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Cloudflare'nin asla düşmediğini gerçekten düşündün mü?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - "API hizmetinizi", "yazılım güncelleme sunucunuzu" veya "RSS beslemenizi" proxy olarak kullanmak müşterinize zarar verir. Bir müşteri sizi aradı ve "Artık API'nizi kullanamıyorum" dedi ve neler olduğu hakkında hiçbir fikriniz yok. Cloudflare, müşterinizi sessizce engelleyebilir. Sence tamam mı?
   - Birçok RSS okuyucu istemcisi ve RSS okuyucu çevrimiçi hizmeti vardır. İnsanların abone olmasına izin vermiyorsan neden RSS beslemesi yayınlıyorsun?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - HTTPS sertifikasına ihtiyacınız var mı? "Let's Encrypt" kullanın veya CA şirketinden satın alın.
 
 - DNS sunucusuna ihtiyacınız var mı? Kendi sunucunuzu kuramıyor musunuz? Peki ya onlar: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (TOR kullanıyorsanız yönetici hesabınızı silin)](https://freedns.afraid.org/)
 
 - Barındırma hizmeti mi arıyorsunuz? Sadece ücretsiz mi? Peki ya onlar: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare için alternatifler](subfiles/cloudflare-alternatives.md)
+  - [Cloudflare için alternatifler](../subfiles/cloudflare-alternatives.md)
 
-- "Cloudflare-ipfs.com" kullanıyor musunuz? [Cloudflare IPFS'nin kötü olduğunu biliyor musunuz?](PEOPLE.md)
+- "Cloudflare-ipfs.com" kullanıyor musunuz? [Cloudflare IPFS'nin kötü olduğunu biliyor musunuz?](../PEOPLE.md)
 
 - OWASP ve Fail2Ban gibi Web Uygulaması Güvenlik Duvarını sunucunuza kurun ve uygun şekilde yapılandırın.
   - Tor'u engellemek bir çözüm değildir. Herkesi sadece küçük kötü kullanıcılar için cezalandırmayın.
@@ -297,7 +297,7 @@ Diğer yazılımların gizliliği kusurludur. Bu, Tor tarayıcısının "mükemm
 
 - Tor kullanmak istemiyor musunuz? Tor daemon ile herhangi bir tarayıcıyı kullanabilirsiniz.
   - [Tor projesinin bundan hoşlanmadığını unutmayın.](https://support.torproject.org/tbb/tbb-9/) Yapabiliyorsanız Tor Tarayıcı kullanın.
-- [Chromium'u Tor ile kullanma](subfiles/chromium_tor.md)
+- [Chromium'u Tor ile kullanma](../subfiles/chromium_tor.md)
 
 
 Diğer yazılımların gizliliği hakkında konuşalım.
@@ -377,12 +377,12 @@ Bu nedenle, yalnızca yukarıdaki tabloyu öneriyoruz. Başka hiçbir şey.
 - ~~Mozilla'nın izleyicisine Cloudflare kullanmamalarını söyleyen bir hata bildirin.~~ Bugzilla'da bir hata raporu vardı. Birçok kişi endişelerini dile getirdi, ancak hata 2018'de yönetici tarafından gizlendi.
 
 - DoH'yi Firefox'ta devre dışı bırakabilirsiniz.
-  - [Firefox'un varsayılan DNS sağlayıcısını değiştirin](subfiles/change-firefox-dns.md)
+  - [Firefox'un varsayılan DNS sağlayıcısını değiştirin](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [ISP dışı DNS kullanmak istiyorsanız, OpenNIC Tier2 DNS hizmetini veya Cloudflare olmayan DNS hizmetlerinden herhangi birini kullanmayı düşünün.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Cloudflare'yi DNS ile engelleyin. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Tor'u DNS çözümleyici olarak kullanabilirsiniz. [Tor uzmanı değilseniz, buradan soru sorun.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Bu nedenle, yalnızca yukarıdaki tabloyu öneriyoruz. Başka hiçbir şey.
 
 - Uygun olduğu durumlarda, bu arşivdeki bu gruplara bağlantı verin - burası, gruplar halinde birlikte çalışmayı koordine etmek için bir yer olabilir.
 
-- [Cloudflare'ye kurumsal olmayan anlamlı bir alternatif sağlayabilecek bir kooperatif kurun.](subfiles/cloudflare-alternatives.md)
+- [Cloudflare'ye kurumsal olmayan anlamlı bir alternatif sağlayabilecek bir kooperatif kurun.](../subfiles/cloudflare-alternatives.md)
 
 - En azından Cloudflare'ye karşı çok katmanlı savunma sağlamaya yardımcı olacak alternatifleri bize bildirin.
 
@@ -464,4 +464,4 @@ Bunun fütüristik bir yanı yok. Zaten kaybettik.
 ### Şimdi, bugün ne yaptın?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
