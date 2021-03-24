@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Inirerekumenda namin na makipag-ugnay sa mga administrator para sa mga tukoy na serbisyo o mga site na pinag-uusapan mo at ibahagi ang iyong karanasan.
 ```
 
-[Kung hindi mo hiningi ito, hindi malalaman ng may-ari ng website ang problemang ito.](PEOPLE.md)
+[Kung hindi mo hiningi ito, hindi malalaman ng may-ari ng website ang problemang ito.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Matagumpay na halimbawa](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 May problema ka? [Itaas ang boses mo ngayon.](https://github.com/maraoz/maraoz.github.io/issues/1) Halimbawa sa ibaba.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Ito ay isang halimbawa ng patakaran sa privacy na walang salitang Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Ang Cloudflare ay may sariling patakaran sa privacy.
 [Mahal ng Cloudflare ang mga taong doxxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Kung tinagas ng Cloudflare ang iyong impormasyon o hindi ka papayag na kumonekta
 
 [ Mag-sign up ] [ hindi ako sang-ayon ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Subukang huwag gamitin ang kanilang serbisyo. Tandaan na pinapanood ka ng Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Maghanap para sa iba pang website. May mga kahalili at opurtunidad sa internet!
 
 - Kumbinsihin ang iyong mga kaibigan na gamitin ang Tor sa araw-araw.
   - Ang pagkawala ng lagda ng pangalan ay dapat na pamantayan ng bukas na internet!
-  - [Tandaan na ayaw ng proyekto ng Tor ang proyektong ito.](HISTORY.md)
+  - [Tandaan na ayaw ng proyekto ng Tor ang proyektong ito.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Kung tinagas ng Cloudflare ang iyong impormasyon o hindi ka papayag na kumonekta
 
 | Pangalan | Developer | Suporta | Maaaring Harangan | Hindi Maaring Abisuhan | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Oo**     | **Oo**     |  **Oo** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Hindi     | **Oo**     |  **Oo** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Hindi     | **Oo**     |  **Oo** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Oo**     | **Oo**     |  Hindi |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Oo**     | **Oo**     |  **Oo** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Hindi     | **Oo**     |  **Oo** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Hindi     | **Oo**     |  **Oo** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Oo**     | **Oo**     |  Hindi |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Oo**     | **Oo**     |  Hindi |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Hindi     | **Oo**     |  Hindi |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Hindi     | **Oo**     |  Hindi |
@@ -139,38 +139,38 @@ Kung tinagas ng Cloudflare ang iyong impormasyon o hindi ka papayag na kumonekta
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Huwag gumamit ng solusyon ng Cloudflare, Panahon.
   - Maaari kang gumawa ng mas mahusay kaysa doon, tama ba? [Narito kung paano alisin ang mga subscription, plano, domain, o account ng Cloudflare.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Gusto mo ba ng mas maraming customer? Alam mo ang gagawin. Ang pahiwatig ay "nasa itaas na linya".
   - [Kumusta, sinulat mo ang "Sineseryoso namin ang iyong privacy" ngunit nakakuha ako ng "Error 403 Forbidden Anonymous Proxy Not Allalel".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Bakit mo hinaharangan ang Tor O VPN? [At bakit mo hinaharangan ang mga pansamantalang email?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Ang paggamit ng Cloudflare ay magpapataas ng tsansa ng isang outage. Hindi ma-access ng mga bisita ang iyong website kung ang iyong server ay down o Cloudflare ay down.
-  - [Naisip mo ba talaga na ang Cloudflare ay hindi kailanman bumaba?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Naisip mo ba talaga na ang Cloudflare ay hindi kailanman bumaba?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Ang paggamit ng Cloudflare upang i-proxy ang iyong "serbisyo sa API", ang "software update server" o "RSS feed" ay makakasama sa iyong customer. Tumawag sa iyo ang isang customer at sinabing "Hindi ko na magagamit ang iyong API", at wala kang ideya kung ano ang nangyayari. Tahimik na mai-block ng Cloudflare ang iyong customer. Sa tingin mo okay lang?
   - Mayroong maraming mga RSS reader client at RSS reader online na serbisyo. Bakit mo nai-publish ang RSS feed kung hindi mo pinapayagan ang mga tao na mag-subscribe?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Kailangan mo ba ng sertipiko ng HTTPS? Gumamit ng "Let's Encrypt" o bilhin lamang ito mula sa kumpanya ng CA.
 
 - Kailangan mo ba ng DNS server? Hindi ma-set up ang iyong sariling server? Kumusta naman sila: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Tanggalin ng admin ang iyong account kung gumagamit ka ng TOR)](https://freedns.afraid.org/)
 
 - Naghahanap ng serbisyo sa pagho-host? Libre lang? Kumusta naman sila: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Mga kahalili sa Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Mga kahalili sa Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Gumagamit ka ba ng "cloudflare-ipfs.com"? [Alam mo bang hindi maganda ang Cloudflare IPFS?](PEOPLE.md)
+- Gumagamit ka ba ng "cloudflare-ipfs.com"? [Alam mo bang hindi maganda ang Cloudflare IPFS?](../PEOPLE.md)
 
 - I-install ang Web Application Firewall tulad ng OWASP at Fail2Ban sa iyong server at i-configure ito nang maayos.
   - Ang solusyon sa pag-block sa Tor ay hindi isang solusyon. Huwag parusahan ang lahat para lamang sa maliliit na masamang gumagamit.
@@ -297,7 +297,7 @@ Walang 100% secure o 100% pribado sa internet at teknolohiya.
 
 - Ayaw mong gumamit ng Tor? Maaari mong gamitin ang anumang browser gamit ang Tor daemon.
   - [Tandaan na hindi gusto ng proyekto ng Tor na ito.](https://support.torproject.org/tbb/tbb-9/) Gumamit ng Tor Browser kung nagagawa mo ito.
-- [Paano gamitin ang Chromium kasama ang Tor](subfiles/chromium_tor.md)
+- [Paano gamitin ang Chromium kasama ang Tor](../subfiles/chromium_tor.md)
 
 
 Pag-usapan natin ang tungkol sa privacy ng ibang software.
@@ -377,12 +377,12 @@ Samakatuwid inirerekumenda lamang namin sa itaas ng talahanayan. Walang iba.
 - ~~Mag-ulat ng isang bug sa tracker ng mozilla, na sinasabi sa kanila na huwag gumamit ng Cloudflare.~~ Nagkaroon ng ulat ng bug sa bugzilla. Maraming tao ang nai-post ang kanilang pag-aalala, subalit ang bug ay itinago ng admin noong 2018.
 
 - Maaari mong hindi paganahin ang DoH sa Firefox.
-  - [Baguhin ang default na DNS provider ng firefox](subfiles/change-firefox-dns.md)
+  - [Baguhin ang default na DNS provider ng firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Kung nais mong gumamit ng hindi ISP DNS, isaalang-alang ang paggamit sa serbisyo ng OpenNIC Tier2 DNS o anuman sa mga serbisyo na hindi Cloudflare DNS.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - I-block ang Cloudflare gamit ang DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Maaari mong gamitin ang Tor bilang resolver ng DNS. [Kung hindi ka dalubhasa sa Tor, magtanong dito.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Samakatuwid inirerekumenda lamang namin sa itaas ng talahanayan. Walang iba.
 
 - Kung saan naaangkop, mag-link sa mga pangkat na ito sa lalagyan na ito - maaari itong maging isang lugar para sa pag-uugnay na nagtutulungan bilang mga pangkat.
 
-- [Magsimula ng isang coop na maaaring magbigay ng isang makabuluhang alternatibong hindi corporate sa Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Magsimula ng isang coop na maaaring magbigay ng isang makabuluhang alternatibong hindi corporate sa Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Ipaalam sa amin ang anumang mga kahalili upang makatulong na magbigay ng maramihang mga layered na pagtatanggol laban sa Cloudflare.
 
@@ -464,4 +464,4 @@ Walang anumang futuristic tungkol dito. Talo na tayo
 ### Ngayon, ano ang ginawa mo ngayon?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
