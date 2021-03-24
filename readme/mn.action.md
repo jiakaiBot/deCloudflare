@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Танд тулгарч буй тодорхой үйлчилгээ эсвэл сайтын администраторуудтай холбоо барьж, туршлагаа хуваалцахыг зөвлөж байна.
 ```
 
-[Хэрэв та үүнийг хүсээгүй бол вэбсайт эзэмшигч энэ асуудлыг хэзээ ч мэдэхгүй.](PEOPLE.md)
+[Хэрэв та үүнийг хүсээгүй бол вэбсайт эзэмшигч энэ асуудлыг хэзээ ч мэдэхгүй.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Амжилттай жишээ](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Танд асуудал байна уу? [Одоо дуугаа өндөрсгө.](https://github.com/maraoz/maraoz.github.io/issues/1) Доорх жишээ.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Энэ бол Cloudflare гэсэн үггүй нууцлалын бодлогын жишээ юм.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare нь өөрсдийн нууцлалын бодлоготой байдаг.
 [Cloudflare нь доксинг хийх хүмүүст дуртай.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ AFAIK, тэг вэбсайт үүнийг хийдэг. Та тэдэнд итг
 
 [ Бүртгүүлэх ] [ Би санал зөрж байна ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Тэдний үйлчилгээг ашиглахгүй байхыг хичээ. Cloudflare таныг харж байгааг санаарай.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Бусад вэбсайтыг хайх. Интернет дээр өөр сонголт, боломжууд байдаг!
 
 - Торыг өдөр бүр ашиглахыг найз нартаа итгүүл.
   - Нэрээ нууцлах нь нээлттэй интернетийн стандарт байх ёстой!
-  - [Тор төсөл нь энэ төсөлд дургүй гэдгийг анхаарна уу.](HISTORY.md)
+  - [Тор төсөл нь энэ төсөлд дургүй гэдгийг анхаарна уу.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ AFAIK, тэг вэбсайт үүнийг хийдэг. Та тэдэнд итг
 
 | Нэр | Хөгжүүлэгч | Дэмжлэг | Блоклох боломжтой | Мэдэх боломжтой | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Тийм ээ**     | **Тийм ээ**     |  **Тийм ээ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Үгүй     | **Тийм ээ**     |  **Тийм ээ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Үгүй     | **Тийм ээ**     |  **Тийм ээ** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Тийм ээ**     | **Тийм ээ**     |  Үгүй |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Тийм ээ**     | **Тийм ээ**     |  **Тийм ээ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Үгүй     | **Тийм ээ**     |  **Тийм ээ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Үгүй     | **Тийм ээ**     |  **Тийм ээ** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Тийм ээ**     | **Тийм ээ**     |  Үгүй |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Тийм ээ**     | **Тийм ээ**     |  Үгүй |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Үгүй     | **Тийм ээ**     |  Үгүй |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Үгүй     | **Тийм ээ**     |  Үгүй |
@@ -139,38 +139,38 @@ AFAIK, тэг вэбсайт үүнийг хийдэг. Та тэдэнд итг
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Cloudflare шийдлийг бүү ашигла, хугацаа.
   - Та үүнээс илүү сайн зүйлийг хийж чадна, тийм үү? [Cloudflare захиалга, төлөвлөгөө, домэйн эсвэл дансаа хэрхэн устгахыг энд харуулав.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Илүү олон үйлчлүүлэгч хүсч байна уу? Чи юу хийхээ мэдэж байгаа шүү дээ. Зөвлөгөө нь "мөрний дээгүүр" юм.
   - [Сайн уу, та "Бид таны хувийн нууцыг нухацтай авч үзье" гэж бичсэн боловч би "Алдаа 403 Хориотой Нэргүй прокси зөвшөөрөгдөхгүй" гэсэн хариу авлаа.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Та яагаад Tor Or VPN-ийг хааж байгаа юм бэ? [Та яагаад түр зуурын имэйлийг хааж байгаа юм бэ?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Cloudflare-ийг ашиглах нь тасалдал гарах магадлалыг нэмэгдүүлэх болно. Таны сервер унтарсан эсвэл Cloudflare ажиллаагүй тохиолдолд зочид таны вэбсайт руу нэвтрэх боломжгүй.
-  - [Та үнэхээр Cloudflare хэзээ ч буухгүй гэж бодож байсан уу?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Та үнэхээр Cloudflare хэзээ ч буухгүй гэж бодож байсан уу?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Cloudflare ашиглан "API үйлчилгээ", "програмын шинэчлэлтийн сервер" эсвэл "RSS feed" -ийг прокси хийх нь таны үйлчлүүлэгчид хор хөнөөл учруулах болно. Нэг үйлчлүүлэгч тан руу залгаад "Би таны API-г дахиж ашиглаж чадахгүй байна" гэж хэлэхэд та юу болоод байгааг огт мэдэхгүй байна. Cloudflare нь таны үйлчлүүлэгчийг чимээгүйхэн хааж чаддаг. Та үүнийг зүгээр гэж бодож байна уу?
   - Олон тооны RSS Reader клиент ба RSS Reader онлайн үйлчилгээ байдаг. Хэрэв та хүмүүсийг захиалахыг зөвшөөрөхгүй байгаа бол яагаад та RSS feed-ийг нийтэлж байгаа юм бэ?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Танд HTTPS гэрчилгээ хэрэгтэй юу? "Let's Encrypt" ашиглаарай эсвэл CA компанид худалдаж аваарай.
 
 - Танд DNS сервер хэрэгтэй юу? Өөрийн серверийг тохируулж чадахгүй байна уу? Тэдний талаар: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Хэрэв та TOR ашигладаг бол админ таны акаунтыг устгана уу)](https://freedns.afraid.org/)
 
 - Хостинг үйлчилгээ хайж байна уу? Зөвхөн үнэгүй юу? Тэдний талаар: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare-ийн өөр хувилбарууд](subfiles/cloudflare-alternatives.md)
+  - [Cloudflare-ийн өөр хувилбарууд](../subfiles/cloudflare-alternatives.md)
 
-- Та "cloudflare-ipfs.com" ашиглаж байна уу? [Cloudflare IPFS нь муу гэдгийг та мэдэх үү?](PEOPLE.md)
+- Та "cloudflare-ipfs.com" ашиглаж байна уу? [Cloudflare IPFS нь муу гэдгийг та мэдэх үү?](../PEOPLE.md)
 
 - OWASP, Fail2Ban гэх мэт Вэб програмын галт хана суулгаж, зөв ​​тохируулна уу.
   - Торыг хаах нь шийдэл биш юм. Зөвхөн жижиг муу хэрэглэгчдийн төлөө хүн бүрийг битгий шийтгээрэй.
@@ -297,7 +297,7 @@ die();
 
 - Торыг ашиглахыг хүсэхгүй байна уу? Та Tor Daemon ашиглан дурын хөтөч ашиглаж болно.
   - [Тор төсөлд энэ нь таалагдахгүй байгааг анхаарна уу.](https://support.torproject.org/tbb/tbb-9/) Хэрэв та боломжтой бол Tor Browser-ийг ашиглаарай.
-- [Tor-той Chromium-ийг хэрхэн ашиглах талаар](subfiles/chromium_tor.md)
+- [Tor-той Chromium-ийг хэрхэн ашиглах талаар](../subfiles/chromium_tor.md)
 
 
 Бусад програм хангамжийн нууцлалын талаар ярилцъя.
@@ -377,12 +377,12 @@ die();
 - ~~Mozilla-ийн tracker дээр гарсан алдааны талаар мэдээлж, тэдэнд Cloudflare ашиглахгүй байхыг мэдэгдээрэй.~~ Bugzilla дээр алдааны тайлан гарсан байсан. Олон хүмүүс өөрсдийн санаа зовнилоо байршуулсан боловч админ 2018 онд алдаагаа нуусан байв.
 
 - Та Firefox дээр DoH-г идэвхгүйжүүлж болно.
-  - [Firefox-ийн анхдагч DNS үйлчилгээ үзүүлэгчийг өөрчлөх](subfiles/change-firefox-dns.md)
+  - [Firefox-ийн анхдагч DNS үйлчилгээ үзүүлэгчийг өөрчлөх](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Хэрэв та ISP бус DNS ашиглахыг хүсвэл OpenNIC Tier2 DNS үйлчилгээ эсвэл Cloudflare бус DNS үйлчилгээг ашиглах талаар бодож үзээрэй.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Cloudflare-ийг DNS ашиглан блоклох. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Та Tor-г DNS шийдэл болгон ашиглаж болно. [Хэрэв та Tor мэргэжилтэн биш бол эндээс асуулт асуугаарай.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - Тохиромжтой бол эдгээр репозиторийн бүлгүүдтэй холбоорой.Энэ нь бүлэг болж ажиллах ажлыг зохицуулах газар байж болно.
 
-- [Cloudflare-ийн хувьд корпорацийн бус утга учиртай хувилбараар хангах боломжтой хамтын ажиллагааг эхлүүлээрэй.](subfiles/cloudflare-alternatives.md)
+- [Cloudflare-ийн хувьд корпорацийн бус утга учиртай хувилбараар хангах боломжтой хамтын ажиллагааг эхлүүлээрэй.](../subfiles/cloudflare-alternatives.md)
 
 - Cloudflare-ээс дор хаяж олон давхар хамгаалалт хийхэд туслах өөр хувилбаруудын талаар бидэнд мэдэгдээрэй.
 
@@ -464,4 +464,4 @@ die();
 ### Та өнөөдөр юу хийв?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
