@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Chúng tôi khuyên bạn nên liên hệ với quản trị viên của các dịch vụ hoặc trang web cụ thể mà bạn gặp sự cố và chia sẻ kinh nghiệm của bạn.
 ```
 
-[Nếu bạn không yêu cầu nó, chủ sở hữu trang web không bao giờ biết vấn đề này.](PEOPLE.md)
+[Nếu bạn không yêu cầu nó, chủ sở hữu trang web không bao giờ biết vấn đề này.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Ví dụ thành công](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Bạn có một vấn đề? [Nâng cao giọng nói của bạn ngay bây giờ.](https://github.com/maraoz/maraoz.github.io/issues/1) Ví dụ bên dưới.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Đây là một ví dụ về chính sách bảo mật không có từ Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare có chính sách bảo mật của riêng họ.
 [Cloudflare yêu thích những người làm chuyện phiếm.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Nếu Cloudflare làm rò rỉ thông tin của bạn hoặc không cho phép b�
 
 [ Đăng ký ] [ tôi không đồng ý ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Cố gắng không sử dụng dịch vụ của họ. Hãy nhớ rằng bạn đang bị Cloudflare theo dõi.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Tìm kiếm trang web khác. Có những lựa chọn thay thế và cơ hội trên internet!
 
 - Thuyết phục bạn bè của bạn sử dụng Tor hàng ngày.
   - Ẩn danh phải là tiêu chuẩn của Internet mở!
-  - [Lưu ý rằng dự án Tor không thích dự án này.](HISTORY.md)
+  - [Lưu ý rằng dự án Tor không thích dự án này.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Nếu Cloudflare làm rò rỉ thông tin của bạn hoặc không cho phép b�
 
 | Tên | Nhà phát triển | Ủng hộ | Có thể chặn | Có thể thông báo | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Đúng**     | **Đúng**     |  **Đúng** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Không     | **Đúng**     |  **Đúng** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Không     | **Đúng**     |  **Đúng** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Đúng**     | **Đúng**     |  Không |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Đúng**     | **Đúng**     |  **Đúng** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Không     | **Đúng**     |  **Đúng** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Không     | **Đúng**     |  **Đúng** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Đúng**     | **Đúng**     |  Không |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Đúng**     | **Đúng**     |  Không |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Không     | **Đúng**     |  Không |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Không     | **Đúng**     |  Không |
@@ -139,38 +139,38 @@ Nếu Cloudflare làm rò rỉ thông tin của bạn hoặc không cho phép b�
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Không sử dụng giải pháp Cloudflare, Giai đoạn.
   - Bạn có thể làm tốt hơn thế, phải không? [Dưới đây là cách xóa đăng ký, gói, miền hoặc tài khoản Cloudflare.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Muốn có nhiều khách hàng hơn? Bạn biết phải làm gì. Gợi ý là "dòng trên".
   - [Xin chào, bạn đã viết "Chúng tôi rất coi trọng quyền riêng tư của bạn" nhưng tôi gặp "Lỗi 403 Cấm Proxy Ẩn danh Không được phép".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Tại sao bạn lại chặn Tor Hoặc VPN? [Và tại sao bạn lại chặn các email tạm thời?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Sử dụng Cloudflare sẽ làm tăng khả năng ngừng hoạt động. Khách truy cập không thể truy cập vào trang web của bạn nếu máy chủ của bạn gặp sự cố hoặc Cloudflare không hoạt động.
-  - [Bạn có thực sự nghĩ rằng Cloudflare không bao giờ đi xuống không?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Bạn có thực sự nghĩ rằng Cloudflare không bao giờ đi xuống không?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Việc sử dụng Cloudflare để ủy quyền cho "dịch vụ API", "máy chủ cập nhật phần mềm" hoặc "nguồn cấp dữ liệu RSS" sẽ gây hại cho khách hàng của bạn. Một khách hàng đã gọi cho bạn và nói rằng "Tôi không thể sử dụng API của bạn nữa", và bạn không biết chuyện gì đang xảy ra. Cloudflare có thể âm thầm chặn khách hàng của bạn. Bạn nghĩ nó ổn chứ?
   - Có nhiều ứng dụng khách đọc RSS và dịch vụ trực tuyến đọc RSS. Tại sao bạn xuất bản nguồn cấp RSS nếu bạn không cho phép mọi người đăng ký?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Bạn có cần chứng chỉ HTTPS không? Sử dụng "Let's Encrypt" hoặc chỉ cần mua nó từ công ty CA.
 
 - Bạn có cần máy chủ DNS không? Không thể thiết lập máy chủ của riêng bạn? Còn họ thì sao: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Quản trị viên xóa tài khoản của bạn nếu bạn sử dụng TOR)](https://freedns.afraid.org/)
 
 - Tìm kiếm dịch vụ lưu trữ? Chỉ miễn phí? Còn họ thì sao: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Các lựa chọn thay thế cho Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Các lựa chọn thay thế cho Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Bạn có đang sử dụng "cloudflare-ipfs.com" không? [Bạn có biết Cloudflare IPFS là xấu?](PEOPLE.md)
+- Bạn có đang sử dụng "cloudflare-ipfs.com" không? [Bạn có biết Cloudflare IPFS là xấu?](../PEOPLE.md)
 
 - Cài đặt Tường lửa Ứng dụng Web như OWASP và Fail2Ban trên máy chủ của bạn và định cấu hình nó đúng cách.
   - Chặn Tor không phải là một giải pháp. Đừng trừng phạt tất cả mọi người chỉ vì những người dùng xấu nhỏ.
@@ -297,7 +297,7 @@ Không có 100% an toàn cũng như 100% riêng tư trên internet và công ngh
 
 - Bạn không muốn sử dụng Tor? Bạn có thể sử dụng bất kỳ trình duyệt nào có Tor daemon.
   - [Lưu ý rằng dự án Tor không thích điều này.](https://support.torproject.org/tbb/tbb-9/) Sử dụng Tor Browser nếu bạn có thể làm như vậy.
-- [Cách sử dụng Chromium với Tor](subfiles/chromium_tor.md)
+- [Cách sử dụng Chromium với Tor](../subfiles/chromium_tor.md)
 
 
 Hãy nói về quyền riêng tư của phần mềm khác.
@@ -377,12 +377,12 @@ Do đó, chúng tôi chỉ đề xuất bảng trên. Không có gì khác.
 - ~~Báo cáo lỗi trên trình theo dõi của mozilla, yêu cầu họ không sử dụng Cloudflare.~~ Đã có một báo cáo lỗi trên bugzilla. Nhiều người đã gửi lo lắng của họ, tuy nhiên lỗi đã được quản trị viên ẩn vào năm 2018.
 
 - Bạn có thể tắt DoH trong Firefox.
-  - [Thay đổi nhà cung cấp DNS mặc định của firefox](subfiles/change-firefox-dns.md)
+  - [Thay đổi nhà cung cấp DNS mặc định của firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Nếu bạn muốn sử dụng DNS không phải ISP, hãy cân nhắc sử dụng dịch vụ DNS OpenNIC Tier2 hoặc bất kỳ dịch vụ DNS nào không phải của Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Chặn Cloudflare bằng DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Bạn có thể sử dụng Tor làm trình phân giải DNS. [Nếu bạn không phải là chuyên gia về Tor, hãy đặt câu hỏi tại đây.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Do đó, chúng tôi chỉ đề xuất bảng trên. Không có gì khác.
 
 - Nếu thích hợp, hãy liên kết với các nhóm này trên kho lưu trữ này - đây có thể là nơi để phối hợp làm việc cùng nhau như các nhóm.
 
-- [Bắt đầu một chuồng có thể cung cấp một giải pháp thay thế có ý nghĩa cho Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Bắt đầu một chuồng có thể cung cấp một giải pháp thay thế có ý nghĩa cho Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Hãy cho chúng tôi biết về bất kỳ giải pháp thay thế nào để giúp ít nhất cung cấp khả năng bảo vệ nhiều lớp chống lại Cloudflare.
 
@@ -464,4 +464,4 @@ Không có bất cứ điều gì tương lai về điều này. Chúng ta đã 
 ### Bây giờ, bạn đã làm gì hôm nay?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
