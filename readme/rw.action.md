@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Turagusaba ko wagera kubayobozi kuri serivisi cyangwa imbuga zihariye uhura nazo kandi ugasangira uburambe.
 ```
 
-[Niba utabisabye, nyiri urubuga ntabwo azi iki kibazo.](PEOPLE.md)
+[Niba utabisabye, nyiri urubuga ntabwo azi iki kibazo.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Urugero rwiza](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Ufite ikibazo? [Zamura ijwi ryawe nonaha.](https://github.com/maraoz/maraoz.github.io/issues/1) Urugero hepfo.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Uru nurugero rwa politiki yi banga idafite ijambo Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare ifite politiki yihariye.
 [Cloudflare ikunda abantu doxxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Niba Cloudflare imennye amakuru yawe cyangwa ntizakwemerera guhuza na seriveri z
 
 [ Iyandikishe ] [ Ntabwo nemeranya ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Gerageza kudakoresha serivisi zabo. Wibuke ko ukurikiranwa na Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Shakisha urundi rubuga. Hariho ubundi buryo n'amahirwe kuri enterineti!
 
 - Emeza inshuti zawe gukoresha Tor buri munsi.
   - Kutamenyekana bigomba kuba igipimo cya enterineti ifunguye!
-  - [Menya ko umushinga wa Tor udakunda uyu mushinga.](HISTORY.md)
+  - [Menya ko umushinga wa Tor udakunda uyu mushinga.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Niba Cloudflare imennye amakuru yawe cyangwa ntizakwemerera guhuza na seriveri z
 
 | Izina | Iterambere | Inkunga | Irashobora guhagarika | Urashobora Kumenyesha | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Yego**     | **Yego**     |  **Yego** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Oya     | **Yego**     |  **Yego** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Oya     | **Yego**     |  **Yego** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Yego**     | **Yego**     |  Oya |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Yego**     | **Yego**     |  **Yego** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Oya     | **Yego**     |  **Yego** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Oya     | **Yego**     |  **Yego** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Yego**     | **Yego**     |  Oya |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Yego**     | **Yego**     |  Oya |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Oya     | **Yego**     |  Oya |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Oya     | **Yego**     |  Oya |
@@ -139,38 +139,38 @@ Niba Cloudflare imennye amakuru yawe cyangwa ntizakwemerera guhuza na seriveri z
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Ntukoreshe Cloudflare igisubizo, Igihe.
   - Urashobora gukora ibirenze ibyo, sibyo? [Dore uburyo bwo kuvanaho Cloudflare abiyandikisha, gahunda, domaine, cyangwa konti.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Urashaka abakiriya benshi? Uzi icyo gukora. Ibitekerezo ni "hejuru y'umurongo".
   - [Mwaramutse, wanditse ngo "Dufatana uburemere ubuzima bwawe bwite" ariko nabonye "Ikosa 403 Byabujijwe Proxy Anonymous Proxy".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kuki uhagarika Tor Cyangwa VPN? [Kandi kuki uhagarika imeri zigihe gito?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Gukoresha Cloudflare bizongera amahirwe yo guhagarara. Abashyitsi ntibashobora kugera kurubuga rwawe niba seriveri yawe iri hasi cyangwa Cloudflare iri hasi.
-  - [Wigeze utekereza ko Cloudflare itigera imanuka?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Wigeze utekereza ko Cloudflare itigera imanuka?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Gukoresha Cloudflare kugirango uhagararire "serivise ya API", "seriveri ivugurura software" cyangwa "ibiryo bya RSS" bizangiza umukiriya wawe. Umukiriya yaguhamagaye ati "sinshobora gukoresha API yawe", kandi ntuzi igitekerezo kirimo. Cloudflare irashobora guhagarika bucece umukiriya wawe. Utekereza ko ari byiza?
   - Hano hari abakiriya benshi basoma RSS hamwe nabasomyi ba RSS kumurongo. Kuki utangaza ibiryo bya RSS niba utemerera abantu kwiyandikisha?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Ukeneye icyemezo cya HTTPS? Koresha "Reka Encrypt" cyangwa uyigure muri sosiyete ya CA gusa.
 
 - Ukeneye seriveri ya DNS? Ntushobora gushiraho seriveri yawe bwite? Bite ho kuri bo: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin gusiba konte yawe niba ukoresha TOR)](https://freedns.afraid.org/)
 
 - Urashaka serivisi yo kwakira? Ubuntu gusa? Bite ho kuri bo: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Ibindi Kuri Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Ibindi Kuri Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Urimo gukoresha "cloudflare-ipfs.com"? [Uziko Cloudflare IPFS ari mbi?](PEOPLE.md)
+- Urimo gukoresha "cloudflare-ipfs.com"? [Uziko Cloudflare IPFS ari mbi?](../PEOPLE.md)
 
 - Shyira Urubuga Porogaramu Firewall nka OWASP na Fail2Ban kuri seriveri yawe hanyuma ubigene neza.
   - Guhagarika Tor ntabwo ari igisubizo. Ntugahane abantu bose kubakoresha nabi gusa.
@@ -297,7 +297,7 @@ Nta mutekano 100% cyangwa 100% wigenga kuri enterineti n'ikoranabuhanga.
 
 - Ntushaka gukoresha Tor? Urashobora gukoresha mushakisha iyariyo yose hamwe na Tor daemon.
   - [Menya ko umushinga wa Tor udakunda ibi.](https://support.torproject.org/tbb/tbb-9/) Koresha Tor Browser niba ubishoboye.
-- [Nigute wakoresha Chromium hamwe na Tor](subfiles/chromium_tor.md)
+- [Nigute wakoresha Chromium hamwe na Tor](../subfiles/chromium_tor.md)
 
 
 Reka tuvuge kubyerekeye ubuzima bwite bwa software.
@@ -377,12 +377,12 @@ Kubwibyo turasaba hejuru kumeza gusa. Ntakindi.
 - ~~Menyesha ikosa kuri tracker ya mozilla, ubabwire kudakoresha Cloudflare.~~ Hariho raporo yamakosa kuri bugzilla. Abantu benshi bashyizwe ahagaragara impungenge zabo, icyakora amakosa yarihishijwe na admin muri 2018.
 
 - Urashobora guhagarika DoH muri Firefox.
-  - [Hindura DNS isanzwe itanga firefox](subfiles/change-firefox-dns.md)
+  - [Hindura DNS isanzwe itanga firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Niba ushaka gukoresha DNS itari ISP, tekereza gukoresha serivise ya OpenNIC Tier2 DNS cyangwa serivisi iyo ari yo yose itari Cloudflare DNS.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Hagarika Cloudflare hamwe na DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Urashobora gukoresha Tor nkumuti wa DNS. [Niba utari umuhanga wa Tor, baza ikibazo hano.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Kubwibyo turasaba hejuru kumeza gusa. Ntakindi.
 
 - Mugihe bibaye ngombwa, ihuza aya matsinda kuriyi bubiko - aha hashobora kuba umwanya wo guhuza ibikorwa hamwe nkitsinda.
 
-- [Tangira akazu gashobora gutanga ibisobanuro bifatika bitari ibigo kuri Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Tangira akazu gashobora gutanga ibisobanuro bifatika bitari ibigo kuri Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Tumenyeshe ubundi buryo bwo gufasha byibuze gutanga uburinzi butandukanye burwanya Cloudflare.
 
@@ -464,4 +464,4 @@ Nta kintu na kimwe kizaza kuri ibi. Tumaze gutsindwa.
 ### None, uyu munsi wakoze iki?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
