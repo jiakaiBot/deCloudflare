@@ -128,7 +128,7 @@
 
 * [هتي پڙهڻ لاءِ ڪجهه پي ڊي ايف / اي پي يو بي جوڙيا ويا آهن.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
