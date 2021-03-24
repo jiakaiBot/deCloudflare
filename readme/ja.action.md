@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 問題が発生した特定のサービスまたはサイトについて管理者に連絡し、経験を共有することをお勧めします。
 ```
 
-[あなたがそれを求めなければ、ウェブサイトの所有者はこの問題を決して知りません。](PEOPLE.md)
+[あなたがそれを求めなければ、ウェブサイトの所有者はこの問題を決して知りません。](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [成功例](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 問題がありますか？ [今すぐ声を上げてください。](https://github.com/maraoz/maraoz.github.io/issues/1) 以下の例。
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 これは、Cloudflareという単語が含まれていないプライバシーポリシーの例です。
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflareには独自のプライバシーポリシーがあります。
 [Cloudflareは人々を晒すのが大好きです。](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Cloudflareがあなたの情報を漏らしたり、あなたが私たちのサ�
 
 [ サインアップ ] [ 同意しません ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - 彼らのサービスを利用しないようにしてください。 Cloudflareによって監視されていることを忘れないでください。
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - 他のウェブサイトを検索します。 インターネット上には選択肢と機会があります！
 
 - 友達にTorを毎日使うように説得してください。
   - 匿名性はオープンインターネットの標準であるべきです！
-  - [Torプロジェクトはこのプロジェクトを嫌っていることに注意してください。](HISTORY.md)
+  - [Torプロジェクトはこのプロジェクトを嫌っていることに注意してください。](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Cloudflareがあなたの情報を漏らしたり、あなたが私たちのサ�
 
 | 名前 | 開発者 | サポート | ブロックできます | 通知できます | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **はい**     | **はい**     |  **はい** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | 番号     | **はい**     |  **はい** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | 番号     | **はい**     |  **はい** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **はい**     | **はい**     |  番号 |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **はい**     | **はい**     |  **はい** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | 番号     | **はい**     |  **はい** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | 番号     | **はい**     |  **はい** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **はい**     | **はい**     |  番号 |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **はい**     | **はい**     |  番号 |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | 番号     | **はい**     |  番号 |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | 番号     | **はい**     |  番号 |
@@ -139,38 +139,38 @@ Cloudflareがあなたの情報を漏らしたり、あなたが私たちのサ�
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Cloudflareソリューション、期間を使用しないでください。
   - あなたはそれよりもうまくやれるでしょう？ [Cloudflareのサブスクリプション、プラン、ドメイン、またはアカウントを削除する方法は次のとおりです。](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - より多くの顧客が欲しいですか？ あなたは何をするべきか知っています。 ヒントは「境界線より上」です。
   - [こんにちは、あなたは「私たちはあなたのプライバシーを真剣に受け止めています」と書きましたが、私は「エラー403 Forbidden Anonymous ProxyNotAllowed」を受け取りました。](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) なぜTorまたはVPNをブロックしているのですか？ [そして、なぜあなたは一時的な電子メールをブロックしているのですか？](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Cloudflareを使用すると、停止の可能性が高くなります。 サーバーがダウンしている場合、またはCloudflareがダウンしている場合、訪問者はWebサイトにアクセスできません。
-  - [Cloudflareがダウンすることはないと本当に思いましたか？](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Cloudflareがダウンすることはないと本当に思いましたか？](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Cloudflareを使用して「APIサービス」、「ソフトウェア更新サーバー」、または「RSSフィード」をプロキシすると、顧客に害を及ぼします。 顧客から電話があり、「APIを使用できなくなりました」と言われましたが、何が起こっているのかわかりません。 Cloudflareは静かにあなたの顧客をブロックすることができます。 大丈夫だと思いますか？
   - 多くのRSSリーダークライアントとRSSリーダーオンラインサービスがあります。 人々に購読を許可しないのに、なぜRSSフィードを公開するのですか？
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - HTTPS証明書が必要ですか？ 「Let'sEncrypt」を使用するか、CA会社から購入してください。
 
 - DNSサーバーが必要ですか？ 独自のサーバーをセットアップできませんか？ それらはどうですか: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (TORを使用している場合、管理者はアカウントを削除します)](https://freedns.afraid.org/)
 
 - ホスティングサービスをお探しですか？ 無料のみ？ それらはどうですか: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflareの代替](subfiles/cloudflare-alternatives.md)
+  - [Cloudflareの代替](../subfiles/cloudflare-alternatives.md)
 
-- 「cloudflare-ipfs.com」を使用していますか？ [Cloudflare IPFSが悪いことを知っていますか？](PEOPLE.md)
+- 「cloudflare-ipfs.com」を使用していますか？ [Cloudflare IPFSが悪いことを知っていますか？](../PEOPLE.md)
 
 - サーバーにOWASPやFail2BanなどのWebアプリケーションファイアウォールをインストールし、適切に構成します。
   - Torをブロックすることは解決策ではありません。小さな悪いユーザーのためだけに全員を罰しないでください。
@@ -297,7 +297,7 @@ die();
 
 - Torを使いたくないですか？ Torデーモンで任意のブラウザを使用できます。
   - [Torプロジェクトはこれを好まないことに注意してください。](https://support.torproject.org/tbb/tbb-9/) 可能であれば、Torブラウザを使用してください。
-- [TorでChromiumを使用する方法](subfiles/chromium_tor.md)
+- [TorでChromiumを使用する方法](../subfiles/chromium_tor.md)
 
 
 他のソフトウェアのプライバシーについて話しましょう。
@@ -377,12 +377,12 @@ die();
 - ~~Cloudflareを使用しないように伝えて、mozillaのトラッカーのバグを報告してください。~~ bugzillaに関するバグレポートがありました。多くの人が懸念を表明しましたが、バグは2018年に管理者によって隠されました。
 
 - FirefoxでDoHを無効にすることができます。
-  - [FirefoxのデフォルトのDNSプロバイダーを変更する](subfiles/change-firefox-dns.md)
+  - [FirefoxのデフォルトのDNSプロバイダーを変更する](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [非ISPDNSを使用する場合は、OpenNIC Tier2DNSサービスまたは非CloudflareDNSサービスの使用を検討してください。](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - DNSでCloudflareをブロックします。 [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - TorをDNSリゾルバーとして使用できます。 [Torの専門家でない場合は、ここで質問してください。](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - 必要に応じて、このリポジトリ上のこれらのグループにリンクします。これは、グループとして一緒に作業することを調整するための場所になります。
 
-- [Cloudflareの意味のある非企業の代替手段を提供できる協同組合を開始します。](subfiles/cloudflare-alternatives.md)
+- [Cloudflareの意味のある非企業の代替手段を提供できる協同組合を開始します。](../subfiles/cloudflare-alternatives.md)
 
 - 少なくともCloudflareに対して多層防御を提供するのに役立つ代替案を教えてください。
 
@@ -464,4 +464,4 @@ die();
 ### さて、今日は何をしましたか？
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
