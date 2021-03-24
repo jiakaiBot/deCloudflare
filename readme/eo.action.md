@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Ni rekomendas vin kontakti la administrantojn por la specifaj servoj aŭ retejoj kun kiuj vi havas problemon kaj dividi vian sperton.
 ```
 
-[Se vi ne petas ĝin, reteja posedanto neniam scias ĉi tiun problemon.](PEOPLE.md)
+[Se vi ne petas ĝin, reteja posedanto neniam scias ĉi tiun problemon.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Sukcesa ekzemplo](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Ĉu vi havas problemon? [Dividi vian sperton nun.](https://github.com/maraoz/maraoz.github.io/issues/1) Ekzemplo sube.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Ĉi tio estas ekzemplo de privateca politiko, kiu ne havas la vorton "Cloudflare".
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare havas sian propran privatecan politikon.
 [Cloudflare amas publike riveli privatajn informojn pri homoj.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Se Cloudflare likas viajn informojn aŭ ne permesas vin konekti al niaj serviloj
 
 [ Registriĝu ] [ Mi malkonsentas ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Provu ne uzi ilian servon. Memoru ke vi estas rigardata de Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Serĉu alian retejon. Estas alternativoj kaj oportunoj en la interreto!
 
 - Konvinku viajn amikojn uzi Tor ĉiutage.
   - Anonimeco estu la normo de la malferma interreto!
-  - [Rimarku, ke la Tor-projekto malŝatas ĉi tiun projekton.](HISTORY.md)
+  - [Rimarku, ke la Tor-projekto malŝatas ĉi tiun projekton.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Se Cloudflare likas viajn informojn aŭ ne permesas vin konekti al niaj serviloj
 
 | Nomo | Programisto | Subteno | Povas Bloki | Povas Sciigi | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Jes**     | **Jes**     |  **Jes** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ne     | **Jes**     |  **Jes** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ne     | **Jes**     |  **Jes** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Jes**     | **Jes**     |  Ne |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Jes**     | **Jes**     |  **Jes** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ne     | **Jes**     |  **Jes** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ne     | **Jes**     |  **Jes** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Jes**     | **Jes**     |  Ne |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Jes**     | **Jes**     |  Ne |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ne     | **Jes**     |  Ne |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ne     | **Jes**     |  Ne |
@@ -139,38 +139,38 @@ Se Cloudflare likas viajn informojn aŭ ne permesas vin konekti al niaj serviloj
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Ne uzu Cloudflare-solvon, ni diru.
   - Vi povas fari pli bone ol tio, ĉu ne? [Jen kiel forigi abonojn, planojn, domajnojn aŭ kontojn de Cloudflare.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ĉu vi volas pli da klientoj? Vi scias kion fari. Konsilo estas "super linio".
   - [Saluton, vi skribis "Ni konsideras vian privatecon serioze" sed mi ricevis "Error 403 Forbidden: Anonima Enirejo Ne Permesita".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kial vi blokas Tor aŭ VPN? [Kaj kial vi blokas portempajn retpoŝtojn?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Uzi Cloudflare pliigos ŝancojn de malfunkcio. Vizitantoj ne povas aliri al via retejo se via servilo malŝaltas aŭ Cloudflare malaktivas.
-  - [Ĉu vi vere pensis, ke Cloudflare neniam malsupreniras?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Ĉu vi vere pensis, ke Cloudflare neniam malsupreniras?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Uzi Cloudflare por prokuri vian "API-servon", "programan ĝisdatigan servilon" aŭ "RSS-fluon" damaĝos vian klienton. Kliento vokis vin kaj diris "Mi ne plu povas uzi vian API", kaj vi tute ne scias, kio okazas. Cloudflare povas silente bloki vian klienton. Ĉu vi pensas ke ĝi estas akcepteblo?
   - Estas multaj interreta servo de RSS-legiloj. Kial vi publikigas RSS-fluon, se vi ne permesas al homoj aboni?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Ĉu vi bezonas HTTPS-atestilon? Uzu "Let's Encrypt" aŭ simple aĉetu ĝin de CA-kompanio.
 
 - Ĉu vi bezonas DNS-servilon? Ĉu vi ne povas agordi vian propran servilon? Kiel pri ili: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Administranto forigu vian konton se vi uzas Tor)](https://freedns.afraid.org/)
 
 - Ĉu vi serĉas gastigan servon? Ĉu senpaga nur? Kiel pri ili: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternativoj al Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Alternativoj al Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Ĉu vi uzas "cloudflare-ipfs.com"? [Ĉu vi scias ke Cloudflare IPFS estas malbona?](PEOPLE.md)
+- Ĉu vi uzas "cloudflare-ipfs.com"? [Ĉu vi scias ke Cloudflare IPFS estas malbona?](../PEOPLE.md)
 
 - Instalu Retejan Aplikan Fajromuron kiel OWASP kaj Fail2Ban en via servilo kaj agordu ĝin ĝuste.
   - Bloki Tor ne estas solvo. Ne punu ĉiujn nur por malgrandaj malbonaj uzantoj.
@@ -297,7 +297,7 @@ Estas neniu 100% sekura nek 100% privata en interreto kaj teknologio.
 
 - Ĉu vi ne volas uzi Tor? Vi povas uzi ajnan retumilon kun Tor-demono.
   - [Notu, ke la projekto Tor ne ŝatas ĉi tion.](https://support.torproject.org/tbb/tbb-9/) Uzu Tor-retumilon se vi povas fari tion.
-- [Kiel uzi Chromium kun Tor](subfiles/chromium_tor.md)
+- [Kiel uzi Chromium kun Tor](../subfiles/chromium_tor.md)
 
 
 Ni parolu pri la privateco de alia programaro.
@@ -377,12 +377,12 @@ Sekve ni rekomendas nur supre tabelon. Nenio alia.
 - ~~Raporti cimon pri la spurilo de mozilla, dirante al ili ne uzi Cloudflare.~~ Estis cimo-raporto pri bugzilla. Multaj homoj afiŝis sian zorgon, tamen la cimo estis kaŝita de la administranto en 2018.
 
 - Vi povas malŝalti DoH en Fajrovulpo.
-  - [Ŝanĝu defaŭltan DNS-provizanton de firefox](subfiles/change-firefox-dns.md)
+  - [Ŝanĝu defaŭltan DNS-provizanton de firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Se vi ŝatus uzi ne-ISP-DNS, pripensu uzi OpenNIC-Tier2-DNS-servon aŭ iujn ajn ne-Cloudflare-DNS-servojn.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Bloku Cloudflare per DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Vi povas uzi Tor kiel DNS-solvilo. [Se vi ne estas sperta pri Tor, demandu ĉi tie.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Sekve ni rekomendas nur supre tabelon. Nenio alia.
 
 - Kie taŭgas, ligu al ĉi tiuj grupoj en ĉi tiu deponejo - ĉi tio povas esti loko por kunordigi laboron kune kiel grupoj.
 
-- [Komencu konejon, kiu povas doni signifan ne kompanian alternativon al Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Komencu konejon, kiu povas doni signifan ne kompanian alternativon al Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Informu nin pri iuj alternativoj por helpi almenaŭ provizi plurtavolan defendon kontraŭ Cloudflare.
 
@@ -464,4 +464,4 @@ Estas nenio futurisma pri ĉi tio. Ni jam perdis.
 ### Nun, kion vi faris hodiaŭ?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
