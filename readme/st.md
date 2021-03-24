@@ -128,7 +128,7 @@ Sebaka sena sa polokelo ke lenane la liwebosaete tse ka morao ho "The Cloudwall"
 
 * [Mona ke tse ling tsa PDF / ePUB tseo u lokelang ho li bala.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
