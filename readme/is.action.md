@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Við mælum með að þú leitir til stjórnendanna varðandi tiltekna þjónustu eða vefsvæði sem þú lendir í og ​​deilir reynslu þinni.
 ```
 
-[Ef þú biður ekki um það, veit eigandi vefsíðunnar aldrei þetta vandamál.](PEOPLE.md)
+[Ef þú biður ekki um það, veit eigandi vefsíðunnar aldrei þetta vandamál.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Vel heppnað dæmi](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Ertu með vandamál? [Lyftu röddinni núna.](https://github.com/maraoz/maraoz.github.io/issues/1) Dæmi hér að neðan.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Þetta er dæmi um persónuverndarstefnu sem hefur ekki orðið Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare hefur sína persónuverndarstefnu.
 [Cloudflare elskar doxxing fólk.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ Ef Cloudflare lekur upplýsingum þínum eða leyfir þér ekki að tengjast net
 
 [ Skráðu þig ] [ ég er ósammála ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Reyndu að nota ekki þjónustu þeirra. Mundu að Cloudflare fylgist með þér.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Leitaðu að annarri vefsíðu. Það eru valkostir og tækifæri á internetinu!
 
 - Sannfærðu vini þína um að nota Tor daglega.
   - Nafnleynd ætti að vera staðall opins internets!
-  - [Athugaðu að Tor verkefnið mislíkar þetta verkefni.](HISTORY.md)
+  - [Athugaðu að Tor verkefnið mislíkar þetta verkefni.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ Ef Cloudflare lekur upplýsingum þínum eða leyfir þér ekki að tengjast net
 
 | Nafn | Hönnuður | Stuðningur | Getur lokað | Get látið vita | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Já**     | **Já**     |  **Já** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nei     | **Já**     |  **Já** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nei     | **Já**     |  **Já** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Já**     | **Já**     |  Nei |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Já**     | **Já**     |  **Já** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nei     | **Já**     |  **Já** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nei     | **Já**     |  **Já** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Já**     | **Já**     |  Nei |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Já**     | **Já**     |  Nei |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nei     | **Já**     |  Nei |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nei     | **Já**     |  Nei |
@@ -139,38 +139,38 @@ Ef Cloudflare lekur upplýsingum þínum eða leyfir þér ekki að tengjast net
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Ekki nota Cloudflare lausn, tímabil.
   - Þú getur gert betur en það, ekki satt? [Hér er hvernig á að fjarlægja Cloudflare áskriftir, áætlanir, lén eða reikninga.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Viltu fleiri viðskiptavini? Þú veist hvað ég á að gera. Vísbending er „fyrir ofan línu“.
   - [Halló, þú skrifaðir „Við tökum friðhelgi þína alvarlega“ en ég fékk „Villa 403 Bannað nafnlaust umboð ekki leyfilegt“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Af hverju ertu að loka á Tor eða VPN? [Og af hverju ertu að loka á tímabundinn tölvupóst?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Notkun Cloudflare eykur líkurnar á bilun. Gestir fá ekki aðgang að vefsíðunni þinni ef netþjónninn þinn er niðri eða Cloudflare er niðri.
-  - [Haldiði virkilega að Cloudflare hafi aldrei farið niður?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Haldiði virkilega að Cloudflare hafi aldrei farið niður?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Notkun Cloudflare til að setja umboð fyrir „API þjónustu“, „hugbúnaðaruppfærsluþjón“ eða „RSS straum“ skaðar viðskiptavini þína. Viðskiptavinur hringdi í þig og sagði „Ég get ekki notað API þitt lengur“ og þú hefur ekki hugmynd um hvað er að gerast. Cloudflare getur þagað niður viðskiptavin þinn. Finnst þér það í lagi?
   - Það eru margir RSS lesandi viðskiptavinur og RSS lesandi netþjónusta. Af hverju ertu að birta RSS straum ef þú ert ekki að leyfa fólki að gerast áskrifandi?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Þarftu HTTPS vottorð? Notaðu „Við skulum dulkóða“ eða bara kaupa það frá CA fyrirtæki.
 
 - Þarftu DNS netþjón? Geturðu ekki sett upp þinn eigin netþjón? Hvað með þá: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Stjórnandi eyðir reikningnum þínum ef þú notar TOR)](https://freedns.afraid.org/)
 
 - Ertu að leita að hýsingarþjónustu? Aðeins ókeypis? Hvað með þá: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Valkostir við Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Valkostir við Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Ertu að nota „cloudflare-ipfs.com“? [Veistu að Cloudflare IPFS er slæmt?](PEOPLE.md)
+- Ertu að nota „cloudflare-ipfs.com“? [Veistu að Cloudflare IPFS er slæmt?](../PEOPLE.md)
 
 - Settu upp vefforritavörn eins og OWASP og Fail2Ban á netþjóninum þínum og stilltu hann rétt.
   - Að loka á Tor er ekki lausn. Ekki refsa öllum bara fyrir litla slæma notendur.
@@ -297,7 +297,7 @@ Persónuvernd annars hugbúnaðar er ófullkomin. Þetta þýðir ekki að Tor v
 
 - Viltu ekki nota Tor? Þú getur notað hvaða vafra sem er með Tor púkanum.
   - [Athugið að Tor verkefnið líkar ekki þetta.](https://support.torproject.org/tbb/tbb-9/) Notaðu Tor Browser ef þú ert fær um það.
-- [Hvernig á að nota Chromium með Tor](subfiles/chromium_tor.md)
+- [Hvernig á að nota Chromium með Tor](../subfiles/chromium_tor.md)
 
 
 Við skulum tala um friðhelgi annars hugbúnaðar.
@@ -377,12 +377,12 @@ Við skulum tala um friðhelgi annars hugbúnaðar.
 - ~~Tilkynntu villu á rekja spor einhvers mozilla og segðu þeim að nota ekki Cloudflare.~~ Það var galla skýrsla um bugzilla. Margir sendu áhyggjur sínar, en stjórnandinn leyndi göllunum árið 2018.
 
 - Þú getur gert DoH óvirkt í Firefox.
-  - [Skiptu um sjálfgefna DNS-þjónustuveitu Firefox](subfiles/change-firefox-dns.md)
+  - [Skiptu um sjálfgefna DNS-þjónustuveitu Firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Ef þú vilt nota DNS sem ekki er ISP skaltu íhuga að nota OpenNIC Tier2 DNS þjónustu eða einhverja DNS þjónustu sem ekki er Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Lokaðu fyrir Cloudflare með DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Þú getur notað Tor sem DNS upplausn. [Ef þú ert ekki Tor sérfræðingur skaltu spyrja hér.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Við skulum tala um friðhelgi annars hugbúnaðar.
 
 - Tengdu við þessa hópa í þessari geymslu, þar sem við á, - það getur verið staður til að samræma að vinna saman sem hópar.
 
-- [Byrjaðu kofa sem getur veitt þýðingarmikinn valkost fyrir Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Byrjaðu kofa sem getur veitt þýðingarmikinn valkost fyrir Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Láttu okkur vita af einhverjum valkostum sem hjálpa að minnsta kosti að veita margþætta vörn gegn Cloudflare.
 
@@ -464,4 +464,4 @@ Einhvern tíma munt þú skilja hvers vegna við skrifuðum þetta.
 ### Nú, hvað gerðir þú í dag?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
