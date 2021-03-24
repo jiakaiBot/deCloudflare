@@ -128,7 +128,7 @@ Dit repository is in list fan websides dy't efter "The Great Cloudwall" steane, 
 
 * [Hjir is wat PDF / ePUB om te lêzen.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
