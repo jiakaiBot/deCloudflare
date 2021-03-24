@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Σας συνιστούμε να επικοινωνήσετε με τους διαχειριστές για τις συγκεκριμένες υπηρεσίες ή ιστότοπους με τους οποίους αντιμετωπίζετε πρόβλημα και να μοιραστείτε την εμπειρία σας.
 ```
 
-[Εάν δεν το ζητήσετε, ο κάτοχος του ιστότοπου δεν γνωρίζει ποτέ αυτό το πρόβλημα.](PEOPLE.md)
+[Εάν δεν το ζητήσετε, ο κάτοχος του ιστότοπου δεν γνωρίζει ποτέ αυτό το πρόβλημα.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Επιτυχές παράδειγμα](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Εχεις πρόβλημα? [Υψώστε τη φωνή σας τώρα.](https://github.com/maraoz/maraoz.github.io/issues/1) Παράδειγμα παρακάτω.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Αυτό είναι ένα παράδειγμα πολιτικής απορρήτου που δεν έχει τη λέξη Cloudflare.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Το Cloudflare έχει τη δική του πολιτική απορρήτου.
 [Το Cloudflare αγαπά τους ανθρώπους που κάνουν doxxing.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ AFAIK, μηδενικός ιστότοπος το κάνει αυτό. Θα το
 
 [ Εγγραφείτε ] [ διαφωνώ ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Προσπαθήστε να μην χρησιμοποιήσετε την υπηρεσία τους. Θυμηθείτε ότι παρακολουθείτε από το Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Αναζήτηση για άλλο ιστότοπο. Υπάρχουν εναλλακτικές και ευκαιρίες στο Διαδίκτυο!
 
 - Πείστε τους φίλους σας να χρησιμοποιούν το Tor σε καθημερινή βάση.
   - Η ανωνυμία πρέπει να είναι το πρότυπο του ανοιχτού Διαδικτύου!
-  - [Σημειώστε ότι το έργο Tor δεν του αρέσει αυτό το έργο.](HISTORY.md)
+  - [Σημειώστε ότι το έργο Tor δεν του αρέσει αυτό το έργο.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ AFAIK, μηδενικός ιστότοπος το κάνει αυτό. Θα το
 
 | Ονομα | Προγραμματιστής | Υποστήριξη | Μπορεί να αποκλείσει | Μπορεί να ειδοποιήσει | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ναί**     | **Ναί**     |  **Ναί** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Οχι     | **Ναί**     |  **Ναί** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Οχι     | **Ναί**     |  **Ναί** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ναί**     | **Ναί**     |  Οχι |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ναί**     | **Ναί**     |  **Ναί** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Οχι     | **Ναί**     |  **Ναί** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Οχι     | **Ναί**     |  **Ναί** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ναί**     | **Ναί**     |  Οχι |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ναί**     | **Ναί**     |  Οχι |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Οχι     | **Ναί**     |  Οχι |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Οχι     | **Ναί**     |  Οχι |
@@ -139,38 +139,38 @@ AFAIK, μηδενικός ιστότοπος το κάνει αυτό. Θα το
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Μην χρησιμοποιείτε τη λύση Cloudflare, Περίοδος.
   - Μπορείτε να κάνετε καλύτερα από αυτό, σωστά; [Δείτε πώς μπορείτε να καταργήσετε συνδρομές, προγράμματα, τομείς ή λογαριασμούς Cloudflare.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Θέλετε περισσότερους πελάτες; Ξέρετε τι πρέπει να κάνετε. Η υπόδειξη είναι "πάνω από τη γραμμή".
   - [Γεια σας, γράψατε "Λαμβάνουμε σοβαρά υπόψη το απόρρητό σας", αλλά έχω "Σφάλμα 403 Απαγορευμένο ανώνυμο πληρεξούσιο"](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Γιατί αποκλείετε το Tor Or VPN; [Και γιατί αποκλείετε προσωρινά μηνύματα ηλεκτρονικού ταχυδρομείου;](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Η χρήση του Cloudflare θα αυξήσει τις πιθανότητες διακοπής λειτουργίας. Οι επισκέπτες δεν μπορούν να έχουν πρόσβαση στον ιστότοπό σας εάν ο διακομιστής σας είναι εκτός λειτουργίας ή το Cloudflare είναι εκτός λειτουργίας.
-  - [Πιστεύατε ότι το Cloudflare δεν έπεσε ποτέ;](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Πιστεύατε ότι το Cloudflare δεν έπεσε ποτέ;](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Η χρήση του Cloudflare για τη μεσολάβηση της "υπηρεσίας API", του "διακομιστή ενημέρωσης λογισμικού" ή της "ροής RSS" θα βλάψει τον πελάτη σας. Ένας πελάτης σας τηλεφώνησε και είπε "Δεν μπορώ πλέον να χρησιμοποιήσω το API σας" και δεν έχετε ιδέα τι συμβαίνει. Το Cloudflare μπορεί να αποκλείσει σιωπηλά τον πελάτη σας. Πιστεύεις ότι είναι εντάξει;
   - Υπάρχουν πολλοί πελάτες RSS reader και RSS reader online υπηρεσία. Γιατί δημοσιεύετε ροή RSS εάν δεν επιτρέπετε σε άτομα να εγγραφούν;
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Χρειάζεστε πιστοποιητικό HTTPS; Χρησιμοποιήστε το "Let's Encrypt" ή απλώς αγοράστε το από την εταιρεία CA.
 
 - Χρειάζεστε διακομιστή DNS; Δεν μπορείτε να ρυθμίσετε τον δικό σας διακομιστή; Τι γίνεται με αυτά: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Διαχειριστής διαγράψτε τον λογαριασμό σας εάν χρησιμοποιείτε το TOR)](https://freedns.afraid.org/)
 
 - Ψάχνετε για υπηρεσία φιλοξενίας; Δωρεάν μόνο; Τι γίνεται με αυτά: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Εναλλακτικές λύσεις για το Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Εναλλακτικές λύσεις για το Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Χρησιμοποιείτε το "cloudflare-ipfs.com"; [Γνωρίζετε ότι το Cloudflare IPFS είναι κακό;](PEOPLE.md)
+- Χρησιμοποιείτε το "cloudflare-ipfs.com"; [Γνωρίζετε ότι το Cloudflare IPFS είναι κακό;](../PEOPLE.md)
 
 - Εγκαταστήστε το Τείχος προστασίας εφαρμογών Web, όπως το OWASP και το Fail2Ban στον διακομιστή σας και διαμορφώστε το σωστά.
   - Ο αποκλεισμός Tor δεν είναι λύση. Μην τιμωρείτε όλους μόνο για μικρούς κακούς χρήστες.
@@ -297,7 +297,7 @@ die();
 
 - Δεν θέλετε να χρησιμοποιήσετε το Tor; Μπορείτε να χρησιμοποιήσετε οποιοδήποτε πρόγραμμα περιήγησης με το Tor daemon.
   - [Σημειώστε ότι το έργο Tor δεν του αρέσει.](https://support.torproject.org/tbb/tbb-9/) Χρησιμοποιήστε το πρόγραμμα περιήγησης Tor εάν μπορείτε να το κάνετε.
-- [Πώς να χρησιμοποιήσετε το Chromium με το Tor](subfiles/chromium_tor.md)
+- [Πώς να χρησιμοποιήσετε το Chromium με το Tor](../subfiles/chromium_tor.md)
 
 
 Ας μιλήσουμε για το απόρρητο άλλου λογισμικού.
@@ -377,12 +377,12 @@ die();
 - ~~Αναφέρετε ένα σφάλμα στο tracker του mozilla, λέγοντάς τους να μην χρησιμοποιούν το Cloudflare.~~ Υπήρξε μια αναφορά σφαλμάτων για το bugzilla. Πολλά άτομα δημοσιεύτηκαν την ανησυχία τους, ωστόσο το σφάλμα έκρυψε ο διαχειριστής το 2018.
 
 - Μπορείτε να απενεργοποιήσετε το DoH στον Firefox.
-  - [Αλλαγή προεπιλεγμένου παρόχου DNS του firefox](subfiles/change-firefox-dns.md)
+  - [Αλλαγή προεπιλεγμένου παρόχου DNS του firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [Εάν θέλετε να χρησιμοποιήσετε DNS χωρίς ISP, σκεφτείτε το ενδεχόμενο να χρησιμοποιήσετε την υπηρεσία DNS OpenNIC Tier2 ή οποιαδήποτε από τις υπηρεσίες DNS που δεν είναι Cloudflare.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Αποκλεισμός Cloudflare με DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Μπορείτε να χρησιμοποιήσετε το Tor ως πρόγραμμα επίλυσης DNS. [Εάν δεν είστε ειδικός του Tor, κάντε την ερώτηση εδώ.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ die();
 
 - Όπου ενδείκνυται, συνδεθείτε με αυτές τις ομάδες σε αυτό το αποθετήριο - αυτό μπορεί να είναι ένα μέρος για το συντονισμό της συνεργασίας ως ομάδων.
 
-- [Ξεκινήστε ένα συνεργείο που μπορεί να προσφέρει μια σημαντική μη εταιρική εναλλακτική λύση στο Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Ξεκινήστε ένα συνεργείο που μπορεί να προσφέρει μια σημαντική μη εταιρική εναλλακτική λύση στο Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Ενημερώστε μας για τυχόν εναλλακτικές λύσεις για να βοηθήσουμε τουλάχιστον να παρέχουμε άμυνα πολλαπλών επιπέδων ενάντια στο Cloudflare.
 
@@ -464,4 +464,4 @@ die();
 ### Τώρα, τι έκανες σήμερα;
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
