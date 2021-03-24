@@ -128,7 +128,7 @@ Ushbu ombor Tor foydalanuvchilari va boshqa CDN-larni blokirovka qiladigan "Grea
 
 * [O'qish uchun bir nechta PDF / ePUB.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
