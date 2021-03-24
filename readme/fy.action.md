@@ -2,7 +2,7 @@
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/matthew_prince.jpg) | ![](image/blockedbymatthewprince.jpg) |
+| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 [Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
 
@@ -15,7 +15,7 @@
 "*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
 
 
-![](image/whoismp.jpg)
+![](../image/whoismp.jpg)
 
 ---
 
@@ -36,9 +36,9 @@
 Wy riede oan dat jo kontakt opnimme mei de behearders foar de spesifike tsjinsten of siden wêrmei jo te krijen hawwe en jo ûnderfining diele.
 ```
 
-[As jo ​​der net om freegje, wyt eigner fan webside dit probleem noait.](PEOPLE.md)
+[As jo ​​der net om freegje, wyt eigner fan webside dit probleem noait.](../PEOPLE.md)
 
-![](image/liberapay.jpg)
+![](../image/liberapay.jpg)
 
 [Súksesfol foarbyld](https://counterpartytalk.org/t/turn-off-cloudflare-on-counterparty-co-plz/164/5).<br>
 Jo hawwe in probleem? [Ferheegje jo stim no.](https://github.com/maraoz/maraoz.github.io/issues/1) Foarbyld hjirûnder.
@@ -69,7 +69,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 Dit is in foarbyld fan privacybelied dat it wurd Cloudflare net hat.
 [Liberland Jobs](https://archive.is/daKIr) [privacy policy](https://docsend.com/view/feiwyte):
 
-![](image/cfwontobey.jpg)
+![](../image/cfwontobey.jpg)
 
 Cloudflare hawwe in eigen privacybelied.
 [Cloudflare hâldt fan doxxing minsken.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
@@ -84,17 +84,17 @@ As Cloudflare jo ynformaasje lekket of jo net litte ferbine mei ús servers, is 
 
 [ Ynskriuwe ] [ ik bin it der net mei iens ]
 ```
-[*] [PEOPLE.md](PEOPLE.md)
+[*] [PEOPLE.md](../PEOPLE.md)
 
 
 - Besykje har tsjinst net te brûken. Unthâld dat jo wurde folge troch Cloudflare.
-  - ["I'm in your TLS, sniffin' your passworz"](image/iminurtls.jpg)
+  - ["I'm in your TLS, sniffin' your passworz"](../image/iminurtls.jpg)
 
 - Sykje nei oare webside. D'r binne alternativen en kânsen op it ynternet!
 
 - Oertsjûgje jo freonen om Tor deistige basis te brûken.
   - Anonymiteit moat de standert wêze fan it iepen ynternet!
-  - [Tink derom dat it Tor-projekt dit projekt net leuk fynt.](HISTORY.md)
+  - [Tink derom dat it Tor-projekt dit projekt net leuk fynt.](../HISTORY.md)
 
 </details>
 
@@ -112,10 +112,10 @@ As Cloudflare jo ynformaasje lekket of jo net litte ferbine mei ús servers, is 
 
 | Namme | Untwikkelder | Stypje | Kin blokkearje | Kin Notify | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ja**     | **ja**     |  **ja** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nee     | **ja**     |  **ja** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nee     | **ja**     |  **ja** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ja**     | **ja**     |  Nee |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ja**     | **ja**     |  **ja** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nee     | **ja**     |  **ja** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nee     | **ja**     |  **ja** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ja**     | **ja**     |  Nee |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ja**     | **ja**     |  Nee |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nee     | **ja**     |  Nee |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nee     | **ja**     |  Nee |
@@ -139,38 +139,38 @@ As Cloudflare jo ynformaasje lekket of jo net litte ferbine mei ús servers, is 
 </summary>
 
 
-![](image/word_cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Brûk gjin Cloudflare-oplossing, Perioade.
   - Jo kinne better dan dat, net? [Hjir is hoe't jo abonneminten, plannen, domeinen as akkounts fan Cloudflare ferwiderje.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/htmlalertcloudflare.jpg) | ![](image/htmlalertcloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Wolle jo mear klanten? Do wist wat te dwaan. Hint is "boppe rigel".
   - [Hoi, jo hawwe skreaun "Wy nimme jo privacy serieus" mar ik krige "Flater 403 Ferbeane anonyme proxy net tastien".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Wêrom blokkearje jo Tor Or VPN? [En wêrom blokkearje jo tydlike e-post?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
 
-![](image/anonexist.jpg)
+![](../image/anonexist.jpg)
 
 - Mei Cloudflare sil de kâns op in útfal fergrutsje. Besikers kinne gjin tagong krije ta jo webside as jo server leech is as Cloudflare down is.
-  - [Tochten jo wier dat Cloudflare noait delgie?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](PEOPLE.md)?
+  - [Tochten jo wier dat Cloudflare noait delgie?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](image/cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Troch Cloudflare te brûken om jo "API-tsjinst", "software-update-server" of "RSS-feed" te proxyen, sil jo klant skea dwaan. In klant belle dy en sei "Ik kin jo API net mear brûke", en jo hawwe gjin idee wat der bart. Cloudflare kin jo klant swijend blokkearje. Tinke jo dat it goed is?
   - D'r binne in soad RSS-lêzer kliïnt en RSS-lêzer online tsjinsten. Wêrom publisearje jo RSS-feed as jo minsken net ynskriuwe?
 
-![](image/rssfeedovercf.jpg)
+![](../image/rssfeedovercf.jpg)
 
 - Binne jo HTTPS-sertifikaat nedich? Brûk "Let's Encrypt" of keapje it gewoan fan CA-bedriuw.
 
 - Binne jo DNS-server nedich? Kinne jo jo eigen server net ynstelle? Hoe oer har: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Behearder wisket jo akkount as jo TOR brûke)](https://freedns.afraid.org/)
 
 - Op syk nei hosting tsjinst? Allinne fergees? Hoe oer har: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternativen foar Cloudflare](subfiles/cloudflare-alternatives.md)
+  - [Alternativen foar Cloudflare](../subfiles/cloudflare-alternatives.md)
 
-- Brûke jo "cloudflare-ipfs.com"? [Witte jo dat Cloudflare IPFS min is?](PEOPLE.md)
+- Brûke jo "cloudflare-ipfs.com"? [Witte jo dat Cloudflare IPFS min is?](../PEOPLE.md)
 
 - Ynstallearje Firewall foar webapplikaasjes lykas OWASP en Fail2Ban op jo server en konfigurearje it goed.
   - Tor blokkearje is gjin oplossing. Straf net elkenien allinich foar lytse minne brûkers.
@@ -297,7 +297,7 @@ D'r is gjin 100% feilich noch 100% privee op ynternet en technology.
 
 - Wolle jo Tor net brûke? Jo kinne elke browser brûke mei Tor-daemon.
   - [Tink derom dat it Tor-projekt dit net leuk fynt.](https://support.torproject.org/tbb/tbb-9/) Brûk Tor Browser as jo dit kinne.
-- [Hoe kinne jo Chromium brûke mei Tor](subfiles/chromium_tor.md)
+- [Hoe kinne jo Chromium brûke mei Tor](../subfiles/chromium_tor.md)
 
 
 Litte wy prate oer privacy fan oare software.
@@ -377,12 +377,12 @@ Dêrom advisearje wy allinich boppesteande tabel. Neat oars.
 - ~~Rapportearje in bug op de tracker fan mozilla, en fertel har dat se Cloudflare net brûke moatte.~~ D'r wie in bugrapport oer bugzilla. In protte minsken waarden har soargen pleatst, de bug waard lykwols ferburgen troch de admin yn 2018.
 
 - Jo kinne DoH yn Firefox útsette.
-  - [Feroarje standert DNS-leveransier fan firefox](subfiles/change-firefox-dns.md)
+  - [Feroarje standert DNS-leveransier fan firefox](../subfiles/change-firefox-dns.md)
 
-![](image/firefoxdns.jpg)
+![](../image/firefoxdns.jpg)
 
 - [As jo ​​net-ISP DNS wolle brûke, beskôgje dan it brûken fan OpenNIC Tier2 DNS-tsjinst as ien fan net-Cloudflare DNS-tsjinsten.](https://wiki.opennic.org/start)
-![](image/opennic.jpg)
+![](../image/opennic.jpg)
   - Blokkearje Cloudflare mei DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
 
 - Jo kinne Tor brûke as DNS-resolver. [As jo ​​gjin Tor-ekspert binne, stel dan hjir fraach.](https://tor.stackexchange.com/)
@@ -418,7 +418,7 @@ Dêrom advisearje wy allinich boppesteande tabel. Neat oars.
 
 - Wêr passend, keppelje nei dizze groepen op dizze repository - dit kin in plak wêze foar koördinearjen gearwurkje as groepen.
 
-- [Start in hok dat in betsjuttend alternatyf foar bedriuwslibben kin leverje foar Cloudflare.](subfiles/cloudflare-alternatives.md)
+- [Start in hok dat in betsjuttend alternatyf foar bedriuwslibben kin leverje foar Cloudflare.](../subfiles/cloudflare-alternatives.md)
 
 - Litte wy witte fan alternativen om teminsten te helpen meardere lagen ferdigening tsjin Cloudflare te leverjen.
 
@@ -464,4 +464,4 @@ D'r is neat futuristysk oan. Wy hawwe al ferlern.
 ### No, wat hawwe jo hjoed dien?
 
 
-![](image/stopcf.jpg)
+![](../image/stopcf.jpg)
