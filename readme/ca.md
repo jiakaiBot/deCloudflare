@@ -128,7 +128,7 @@ Aquest dipòsit és una llista de llocs web que hi ha al darrere de "The Great C
 
 * [A continuació, es descriuen alguns PDF / ePUB.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
