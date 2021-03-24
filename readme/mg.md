@@ -128,7 +128,7 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "The Great Cloudwa
 
 * [Ity misy PDF / ePUB hamaky.](../pdf/)
 
-* [Help translate stop_cloudflare](translateData/instructions.md)
+* [Help translate cloudflare-tor](translateData/instructions.md)
 
 
 ---
