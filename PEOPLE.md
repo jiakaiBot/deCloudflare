@@ -444,6 +444,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- do you guys hate ipv6 or something? Have to enter captcha on a lot of sites each time i use them on 4g. ([0xrnor](https://twitter.com/0xrnor/status/1375140969352400902))
 - hiya, getting an error on your website (cloudflare 1020). Is there a prob at the mo? Would like access please ([mike___davidson](https://twitter.com/mike___davidson/status/1375118312061992960))
 - you are having some problems with your DNS " Error 1016 : Origin DNS error " or something in ([matiasmasca](https://twitter.com/matiasmasca/status/1375090273009725441))
 - Error 1001 DNS resolution error Cloudflare network ([ladyred_6](https://twitter.com/LadyRed_6/status/1374421554629472256))
