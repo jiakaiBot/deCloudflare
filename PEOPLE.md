@@ -444,6 +444,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Am I right in thinking that the mobile apps of and won't work with 1.1.1.1 VPN for some reason? Permanently getting the helpful error message "8000067: Error 1007 ... Technical Problems" ([nevstokes](https://twitter.com/nevstokes/status/1375542378627534853))
 - Storing? Ik ben uitgelogd van de app op mijn FireTV en inloggen lukt niet. Inloggen via de website gaat ook niet, Error 1020 van Cloudflare. ([realone39005591](https://twitter.com/Realone39005591/status/1375063257292140546))
 - I Got 'Cloudflare Error 1020' on your website for some devices. ([theapacheman](https://twitter.com/TheApacheman/status/1374730649878286337))
 - I successfully registered my kids for summer camp. It's called Cloudflare Camp Error 502. ([fixjunk](https://twitter.com/fixjunk/status/1374683575283486720))
