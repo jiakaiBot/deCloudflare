@@ -444,6 +444,14 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Storing? Ik ben uitgelogd van de app op mijn FireTV en inloggen lukt niet. Inloggen via de website gaat ook niet, Error 1020 van Cloudflare. ([realone39005591](https://twitter.com/Realone39005591/status/1375063257292140546))
+- I Got 'Cloudflare Error 1020' on your website for some devices. ([theapacheman](https://twitter.com/TheApacheman/status/1374730649878286337))
+- I successfully registered my kids for summer camp. It's called Cloudflare Camp Error 502. ([fixjunk](https://twitter.com/fixjunk/status/1374683575283486720))
+- is the service down? Cloudflare is giving a 502 error from the UK. ([michaeljwithers](https://twitter.com/MichaelJWithers/status/1374451462701346825))
+- Hey folks, I updated your plugin this AM and now getting 522 Error Any chance it’s happened to others? Eg an issue w the update? Cheers! ([bestinterest_jc](https://twitter.com/BestInterest_JC/status/1374396780406743059))
+- Cloudflare For Teams Dashboard is getting an OAUTH 'null' error on login. Can't test browser isolation out. :( ([nyr30nyr](https://twitter.com/NYR30NYR/status/1374351803815489541))
+- i can not play. Error 1020 cloudflare. can you help me ([rezhacruisher](https://twitter.com/rezhacruisher/status/1373991558681219076))
+- Currently showing: Gateway time-out The web server reported a gateway time-out error. Ray ID: 633cf682bfd5c97d Your IP address: 131.191.55.8 Error reference number: 504 Cloudflare Location: Seattle My campaign page worked, but cannot log on to the table from Launch button. ([xidoraven](https://twitter.com/xidoraven/status/1373867525079932932))
 - do you guys hate ipv6 or something? Have to enter captcha on a lot of sites each time i use them on 4g. ([0xrnor](https://twitter.com/0xrnor/status/1375140969352400902))
 - hiya, getting an error on your website (cloudflare 1020). Is there a prob at the mo? Would like access please ([mike___davidson](https://twitter.com/mike___davidson/status/1375118312061992960))
 - you are having some problems with your DNS " Error 1016 : Origin DNS error " or something in ([matiasmasca](https://twitter.com/matiasmasca/status/1375090273009725441))
