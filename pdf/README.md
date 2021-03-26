@@ -23,6 +23,7 @@
 | 2006 | [Practical Onion Hacking Finding the real address of Tor clients](2006-Practical_Onion_Hacking_Finding_the_real_address_of_Tor_clients.pdf) |
 | 2008 | [Shining Light in Dark Places Understanding the Tor Network](2008-Shining_Light_in_Dark_Places_Understanding_the_Tor_Network.pdf) |
 | 2010 | [Digging into Anonymous Traffic deep analysis of the Tor anonymizing network](2010-Digging_into_Anonymous_Traffic_deep_analysis_of_the_Tor_anonymizing_network.pdf) |
+| 2012 | [Biometric Alternatives to CAPTCHA Exploring Accessible Interface](2012-Biometric_Alternatives_to_CAPTCHA_Exploring_Accessible_Interface.pdf) |
 | 2012 | [TorScan Tracing Long-lived Connections and Differential Scanning Attacks](2012-TorScan_Tracing_Long-lived_Connections_and_Differential_Scanning_Attacks.pdf) |
 | 2013 | [Trawling for Tor Hidden Services Detection Measurement Deanonymization](2013-Trawling_for_Tor_Hidden_Services_Detection_Measurement_Deanonymization.pdf) |
 | 2013 | [Users Get Routed Traffic Correlation on Tor by Realistic Adversaries](2013-Users_Get_Routed_Traffic_Correlation_on_Tor_by_Realistic_Adversaries.pdf) |
