@@ -1,3 +1,7 @@
+*2021.03.17*
+
+![](image/cfdown_2021march.jpg)
+
 *2020.05.19*
 
 - Tor Project member, [Jim Newsome](https://twitter.com/sporksmith) (_[Shadow](https://shadow.github.io/) dev/jnewsome_), [deleted cloudflare warning](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor?action=diff&version=463&old_version=462), putting Tor users at risk.
