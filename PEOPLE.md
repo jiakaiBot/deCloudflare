@@ -444,6 +444,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- aint no way yall put cloudflare captcha on this ([dafootbot](https://twitter.com/dafootbot/status/1375872893519863814))
 - do you guys hate ipv6 or something? Have to enter captcha on a lot of sites each time i use them on 4g. ([0x0000000000006](https://twitter.com/0x0000000000006/status/1375140969352400902))
 - Am I right in thinking that the mobile apps of and won't work with 1.1.1.1 VPN for some reason? Permanently getting the helpful error message "8000067: Error 1007 ... Technical Problems" ([nevstokes](https://twitter.com/nevstokes/status/1375542378627534853))
 - Storing? Ik ben uitgelogd van de app op mijn FireTV en inloggen lukt niet. Inloggen via de website gaat ook niet, Error 1020 van Cloudflare. ([realone39005591](https://twitter.com/Realone39005591/status/1375063257292140546))
