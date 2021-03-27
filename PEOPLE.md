@@ -456,6 +456,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 - Currently showing: Gateway time-out The web server reported a gateway time-out error. Ray ID: 633cf682bfd5c97d Your IP address: 131.191.55.8 Error reference number: 504 Cloudflare Location: Seattle My campaign page worked, but cannot log on to the table from Launch button. ([xidoraven](https://twitter.com/xidoraven/status/1373867525079932932))
 - do you guys hate ipv6 or something? Have to enter captcha on a lot of sites each time i use them on 4g. ([0xrnor](https://twitter.com/0xrnor/status/1375140969352400902))
 - hiya, getting an error on your website (cloudflare 1020). Is there a prob at the mo? Would like access please ([mike___davidson](https://twitter.com/mike___davidson/status/1375118312061992960))
+- FUCK CLOUDFLARE, JUST STOP USING IT. FOR REAL. NOT THE FIRST NOR THE LAST TIME IM SAYING THIS. ([notkoutsie](https://twitter.com/notkoutsie/status/1372234816771461123))
 - you are having some problems with your DNS " Error 1016 : Origin DNS error " or something in ([matiasmasca](https://twitter.com/matiasmasca/status/1375090273009725441))
 - Error 1001 DNS resolution error Cloudflare network ([ladyred_6](https://twitter.com/LadyRed_6/status/1374421554629472256))
 - Cloudflare 522 error initially , looks like it’s loading now. ([whereisjefe](https://twitter.com/whereisjefe/status/1374386486917828611))
