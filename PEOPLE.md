@@ -18,7 +18,7 @@ C'mon guys. Stop using Cloudflare.
 It's endangering the world wide web and you're blocking readers who are protecting
 their privacy by using Tor.
 ```
--- [Jeff Cliff](http://qhtn4w2q36dojls2.onion/)
+-- [Jeff Cliff](https://shitposter.club/jeffcliff/)
 
 
 ```
@@ -27,17 +27,6 @@ If you′re using Cloudflare on your website, you won′t get first rank.
 You shouldn′t use it if you value visitor′s privacy.
 ```
  -- [Ss](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
-
-
-```
-I say it's a bad idea to pimp CloudFlare sites and expect such repressions to go unchallenged.
-Activism is a duty & ethics trumps netiquette.
-
-Posting original information exclusively on onion sites
-is like affirmative action for the repressed Tor community.
-Correcting the wrongs of CloudFlare entails some unfair discrimination against clearnet users.
-```
--- [Activist](https://activism.openworlds.info/@aktivismoEstasMiaLuo)
 
 
 
