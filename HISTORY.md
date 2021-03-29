@@ -1,6 +1,18 @@
-*2021.03.17*
+## *Cloudflare bridge is going down, going down...*
 
-- [Cloudflare Down](image/cfdown_2021march.jpg)
+Here's Cloudflare incidents.
+
+[//]: # (do not edit me; start)
+
+
+
+[//]: # (do not edit me; end)
+
+
+-----
+
+## Other
+
 
 *2020.05.19*
 
