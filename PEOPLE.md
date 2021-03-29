@@ -439,6 +439,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- Cloudflare is giving me an error when trying to access patreon: Error 504 Ray ID: 637862e0e18c1923 • 2021-03-29 10:24:12 UTC Gateway time-out ([inigabikini](https://twitter.com/inigabikini/status/1376481708124430339))
 - why do i got a cloudflare error on PC when literally everything else I have that uses internet is fine ([parasid0](https://twitter.com/parasid0/status/1376472410631720962))
 - getting cloudflare error with the spotify browser source ([xunclebaz](https://twitter.com/xUncleBaz/status/1376467689644773380))
 - Some things also felt hidden. Like VLANs under "Other Types" in the Interfaces menus. The Dynamic DNS CloudFlare API token threw a PHP error when using the Global API key. However setting up a specific API Token solved it. GUI indicates Global Key should work, but it doesn't. ([aka_tg](https://twitter.com/Aka_TG/status/1376356501594509320))
