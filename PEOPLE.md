@@ -433,6 +433,9 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- also, there is the “H captcha” system that uses a temporary accessibility cookie. Honestly, that needs to be a bit more permanent. ([n7zzt](https://twitter.com/n7zzt/status/1376320331212759042))
+- hmmm, just about any place that uses an audio alternative to captcha. However, that still won’t help the deaf-blind (who often use braille as their only means of reading the net). ([n7zzt](https://twitter.com/n7zzt/status/1376320087397830659))
+- oooops, error in that last response, what was should be I keep getting his username wrong. ([n7zzt](https://twitter.com/n7zzt/status/1376321360385830914))
 - aint no way yall put cloudflare captcha on this ([dafootbot](https://twitter.com/dafootbot/status/1375872893519863814))
 - do you guys hate ipv6 or something? Have to enter captcha on a lot of sites each time i use them on 4g. ([0x0000000000006](https://twitter.com/0x0000000000006/status/1375140969352400902))
 - Am I right in thinking that the mobile apps of and won't work with 1.1.1.1 VPN for some reason? Permanently getting the helpful error message "8000067: Error 1007 ... Technical Problems" ([nevstokes](https://twitter.com/nevstokes/status/1375542378627534853))
