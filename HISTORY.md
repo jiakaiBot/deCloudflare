@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-03-29: [Network performance issues in South-America may result in increased latency](https://www.cloudflarestatus.com/incidents/h2gr2y2q7m96)
 - 2021-03-28: [Network Performance Issues in Toronto (ON) and Montréal (QC), Canada](https://www.cloudflarestatus.com/incidents/qjwxv73chh5b)
 - 2021-03-24: [Network Performance Issues in Ashburn, Virginia, USA](https://www.cloudflarestatus.com/incidents/zxgr2bz84qdb)
 - 2021-03-24: [Increased HTTP Errors in multiple locations](https://www.cloudflarestatus.com/incidents/bzn7ybpsvkr8)
