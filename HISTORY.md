@@ -1,4 +1,4 @@
-## *Cloudflare bridge is going down, going down...*
+## Cloudflare incidents
 
 Here's Cloudflare incidents.
 
@@ -16,7 +16,8 @@ Here's Cloudflare incidents.
 - 2021-03-18: [Increased HTTP 520 Errors](https://www.cloudflarestatus.com/incidents/9k01th8fs6yv)
 - 2021-03-17: [Customer Impacting Issue in European Region](https://www.cloudflarestatus.com/incidents/0fvbh23lqlz2)
 - 2021-03-17: [Network Latency Issues in the Pacific North West region.](https://www.cloudflarestatus.com/incidents/hf8h9cg8lb4p)
-- 2021-03-11: [DNS Update Delays in China](https://www.cloudflarestatus.com/incidents/7sx6tjtvt6hs)
+
+
 
 [//]: # (do not edit me; end)
 
