@@ -166,6 +166,7 @@ You shouldn′t use it if you value visitor′s privacy.
 - [Cloudflare fail - a dry run to closing down the internet?](https://www.reddit.com/r/conspiracyNOPOL/comments/ijk28z/cloudflare_fail_a_dry_run_to_closing_down_the/)
 - [Dozens of Websites, Apps Go Down in Major Cloudflare Outage](https://www.reddit.com/user/joshwho/comments/ijkfqv/dozens_of_websites_apps_go_down_in_major/)
 - [For everyone who needs drivers during the MSI website downtime.](https://www.reddit.com/r/MSI_Gaming/comments/iji1pk/for_everyone_who_needs_drivers_during_the_msi/)
+- [That can't be good. Anyone else with this issue?](https://www.reddit.com/r/CloudFlare/comments/c89hu5/that_cant_be_good_anyone_else_with_this_issue/)
 - [Access Denied: Cloudflare is blocking my access to srb2.org (Can't access the game to Download!)](https://www.reddit.com/r/SRB2/comments/ikfq09/access_denied_cloudflare_is_blocking_my_access_to/)
 - [Cloudflare is down, who cares?](https://www.reddit.com/r/Bluzelle/comments/ijo561/cloudflare_is_down_who_cares/)
 - [Cloudflare goes down; crypto websites hit](https://www.reddit.com/r/p2psf/comments/ijlcvb/cloudflare_goes_down_crypto_websites_hit/)
@@ -328,8 +329,13 @@ You shouldn′t use it if you value visitor′s privacy.
 </summary>
 
 
+- [Detect Cloudflare blocking and return an error](https://github.com/pqml/prismarine-tokens/issues/6)
+- [Blocked in websites using cloudflares](https://github.com/guardianproject/orbot/issues/429)
+- [Images are blocked by cloudflare](https://github.com/factly/dega-themes/issues/29)
 - [CloudFlare](https://git.disroot.org/cyberMonk/liberethos_paradigm/src/branch/master/rap_sheets/cloudflare.md)
 - [problem with cloudfare protect](https://github.com/HDoujinDownloader/HDoujin-Downloader/issues/5)
+- [Some issues I am having....](https://github.com/CookieJarApps/SmartCookieWeb/issues/33)
+- [Add Donation options?](https://github.com/ajayyy/SponsorBlock/issues/184)
 - [Htmlunit Cloudflare](https://github.com/HtmlUnit/htmlunit/issues/249)
 - [Stop using CDNs](https://github.com/sio2project/oioioi/issues/44)
 - [Blocked as a result of the Cloudflare's anti-DDoS challenge.](https://github.com/Jackett/Jackett/issues/9352#issuecomment-674549970)
