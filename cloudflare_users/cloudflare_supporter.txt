@@ -1,10 +1,6 @@
+(editor notice: blacklisted codeberg.org. see HISTORY.md)
 https://activism.openworlds.info/
 https://chaos.social/@davidak
-https://codeberg.org/6543
-https://codeberg.org/ashimokawa
-https://codeberg.org/davidak
-https://codeberg.org/fnetX
-https://codeberg.org/resynth1943
 https://davidak.de/
 https://dev.lemmy.ml/u/PoorPocketsMcNewHold
 https://github.com/4-FLOSS-Free-Libre-Open-Source-Software
