@@ -14,6 +14,10 @@ Here's Cloudflare incidents.
 ## Other
 
 
+*2021.03.28*
+
+- Censorship: Codeberg ordered Jeff to delist codeberg.org related lines, yet they failed to mention which line.
+
 *2020.05.19*
 
 - Tor Project member, [Jim Newsome](https://twitter.com/sporksmith) (_[Shadow](https://shadow.github.io/) dev/jnewsome_), [deleted cloudflare warning](https://trac.torproject.org/projects/tor/wiki/org/projects/WeSupportTor?action=diff&version=463&old_version=462), putting Tor users at risk.
