@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-03-29: [Network performance issues in Canada may result in increased latency](https://www.cloudflarestatus.com/incidents/v40553yyq80g)
 - 2021-03-29: [SSL/TLS Handshake failures](https://www.cloudflarestatus.com/incidents/44p4slgcfhmz)
 - 2021-03-29: [Network performance issues in South-America may result in increased latency](https://www.cloudflarestatus.com/incidents/h2gr2y2q7m96)
 - 2021-03-28: [Network Performance Issues in Toronto (ON) and Montréal (QC), Canada](https://www.cloudflarestatus.com/incidents/qjwxv73chh5b)
