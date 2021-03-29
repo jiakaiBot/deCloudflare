@@ -5,6 +5,18 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-03-28: [Network Performance Issues in Toronto (ON) and Montréal (QC), Canada](https://www.cloudflarestatus.com/incidents/qjwxv73chh5b)
+- 2021-03-24: [Network Performance Issues in Ashburn, Virginia, USA](https://www.cloudflarestatus.com/incidents/zxgr2bz84qdb)
+- 2021-03-24: [Increased HTTP Errors in multiple locations](https://www.cloudflarestatus.com/incidents/bzn7ybpsvkr8)
+- 2021-03-24: [Connectivity Issues observed in Lisbon](https://www.cloudflarestatus.com/incidents/qkjzg7nyhckz)
+- 2021-03-23: [Increased HTTP 522 Errors in Ashburn](https://www.cloudflarestatus.com/incidents/s298qs7mtqmp)
+- 2021-03-23: [Network Performance Issues in Ashburn, VA, United States.](https://www.cloudflarestatus.com/incidents/v631vf20c6f9)
+- 2021-03-22: [Increased HTTP 522 Errors in Stockholm](https://www.cloudflarestatus.com/incidents/35z4z0003y5f)
+- 2021-03-18: [Network Performance Issues in Buenos Aires, Argentina](https://www.cloudflarestatus.com/incidents/qm3tv6cpp83t)
+- 2021-03-18: [Increased HTTP 520 Errors](https://www.cloudflarestatus.com/incidents/9k01th8fs6yv)
+- 2021-03-17: [Customer Impacting Issue in European Region](https://www.cloudflarestatus.com/incidents/0fvbh23lqlz2)
+- 2021-03-17: [Network Latency Issues in the Pacific North West region.](https://www.cloudflarestatus.com/incidents/hf8h9cg8lb4p)
+- 2021-03-11: [DNS Update Delays in China](https://www.cloudflarestatus.com/incidents/7sx6tjtvt6hs)
 
 [//]: # (do not edit me; end)
 
