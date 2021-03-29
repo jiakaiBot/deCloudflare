@@ -439,6 +439,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- getting cloudflare error with the spotify browser source ([xunclebaz](https://twitter.com/xUncleBaz/status/1376467689644773380))
 - Some things also felt hidden. Like VLANs under "Other Types" in the Interfaces menus. The Dynamic DNS CloudFlare API token threw a PHP error when using the Global API key. However setting up a specific API Token solved it. GUI indicates Global Key should work, but it doesn't. ([aka_tg](https://twitter.com/Aka_TG/status/1376356501594509320))
 - also, there is the “H captcha” system that uses a temporary accessibility cookie. Honestly, that needs to be a bit more permanent. ([n7zzt](https://twitter.com/n7zzt/status/1376320331212759042))
 - hmmm, just about any place that uses an audio alternative to captcha. However, that still won’t help the deaf-blind (who often use braille as their only means of reading the net). ([n7zzt](https://twitter.com/n7zzt/status/1376320087397830659))
