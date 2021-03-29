@@ -16,7 +16,7 @@ Here's Cloudflare incidents.
 
 *2021.03.28*
 
-- Censorship: Codeberg ordered Jeff to delist codeberg.org related lines, yet they failed to mention which line.
+- **Censorship**: Codeberg.org ordered Jeff to delist codeberg.org related lines, yet they failed to mention [which line](https://codeberg.org/crimeflare/cloudflare-tor/issues/15). All codeberg lines are removed for now.
 
 *2020.05.19*
 
