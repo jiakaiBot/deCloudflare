@@ -2238,6 +2238,6 @@ Screenshot provided by [@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](image/wearetrulysorry.jpg) | !["Cloudflare is not an option."](image/cfisnotanoption.jpg) |
+| ![](image/wearetrulysorry.jpg) | ![](image/ssprotect.jpg) |
 
 ![](image/runbeforeitstoolate.jpg)
