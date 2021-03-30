@@ -439,6 +439,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- Error 1020 Ray ID: • 2021-03-30 10:25:26 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: • Your IP: 123.122.37. I am CN,some times,I use VPN.Plz don't banned me.I really want to learn. ([moshuid](https://twitter.com/MoshuiD/status/1376843658872283140))
 - WTF, zijn de kranten nu allemaal vpn verbindingen aan het blokkeren, met die cloudflare captcha's? ..... ([polr](https://twitter.com/polr/status/1376778162454077441))
 - For context, Discord was popping up with a 502 error and something about Cloudflare, seems to be fixed now tho ([kyetro](https://twitter.com/kyetro/status/1376478347979489281))
 - Cloudflare is giving me an error when trying to access patreon: Error 504 Ray ID: 637862e0e18c1923 • 2021-03-29 10:24:12 UTC Gateway time-out ([inigabikini](https://twitter.com/inigabikini/status/1376481708124430339))
