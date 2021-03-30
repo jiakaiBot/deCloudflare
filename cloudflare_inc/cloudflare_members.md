@@ -613,7 +613,7 @@
 | Joaquin Madruga | Engineering Director |  |
 | Jocelyn Woolbright | Policy Analyst |  |
 | Jodie Holland | Security and Performance |  |
-| Joe (Joseph Edmund) Sullivan | Chief Security Officer | "Joseph Sullivan"<br>https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice |
+| Joe (Joseph Edmund) Sullivan | Chief Security Officer | "Joseph Sullivan"<br>https://twitter.com/joesu11ivan<br>https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice |
 | Joe Astroth | Enterprise Sales |  |
 | Joe Mocquant | Software Engineer |  |
 | Joery Van Druten | Marketing |  |
