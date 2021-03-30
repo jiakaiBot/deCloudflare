@@ -1,10 +1,14 @@
 # Unsa ang mahimo nimo aron makasukol sa Cloudflare?
 
-| 🖼 | 🖼 |
-| --- | --- |
-| ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
+| 🖼 | 🖼 | 🖼 |
+| --- | --- | --- |
+| ![](../image/matthew_prince_teen.jpg) | ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
-[Matthew Prince (@eastdakota)](https://twitter.com/eastdakota)
+
+[Matthew Browning Prince (Twitter @eastdakota)](https://twitter.com/eastdakota), born on November 13th 1974, is the CEO and co-founder of CloudFlare.
+
+Thanks to his rich dad, [John B. Prince](http://web.archive.org/web/20081002173414/http://www.mufranchisee.com/article/453/), he attended the [University of Chicago Law School](https://en.wikipedia.org/wiki/University_of_Chicago_Law_School) ('00) and [Harvard Business School](https://en.wikipedia.org/wiki/Harvard_Business_School) ('09). Prince taught Internet law and was a specialist in anti-spam laws and phishing investigations.
+
 
 "*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" [t](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis)
 
