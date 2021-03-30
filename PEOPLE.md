@@ -439,6 +439,8 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- WTF, zijn de kranten nu allemaal vpn verbindingen aan het blokkeren, met die cloudflare captcha's? ..... ([polr](https://twitter.com/polr/status/1376778162454077441))
+- For context, Discord was popping up with a 502 error and something about Cloudflare, seems to be fixed now tho ([kyetro](https://twitter.com/kyetro/status/1376478347979489281))
 - Cloudflare is giving me an error when trying to access patreon: Error 504 Ray ID: 637862e0e18c1923 • 2021-03-29 10:24:12 UTC Gateway time-out ([inigabikini](https://twitter.com/inigabikini/status/1376481708124430339))
 - why do i got a cloudflare error on PC when literally everything else I have that uses internet is fine ([parasid0](https://twitter.com/parasid0/status/1376472410631720962))
 - getting cloudflare error with the spotify browser source ([xunclebaz](https://twitter.com/xUncleBaz/status/1376467689644773380))
