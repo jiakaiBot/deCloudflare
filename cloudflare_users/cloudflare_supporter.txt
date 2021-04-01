@@ -1,9 +1,9 @@
+(editor notice: blacklisted codeberg.org. see HISTORY.md)
 [ 1 If you have a fucking problem with this list ]
 [ 2 think about what you did. If you strongly    ]
 [ 3 believe you are innocent, write a comment    ]
 [ 4 to issue number 15. Do not create new issue  ]
 [ 5 or we will close it as duplicate.            ]
-(editor notice: blacklisted codeberg.org. see HISTORY.md)
 https://activism.openworlds.info/ (by deleting account without warning & showed hostility)
 https://dev.lemmy.ml/u/PoorPocketsMcNewHold (account deleted; leaving it as history)
 https://github.com/4-FLOSS-Free-Libre-Open-Source-Software
@@ -79,6 +79,7 @@ https://twitter.com/Ayush08264190/status/1377155965313675265
 https://twitter.com/BhabishyaB/status/1370382367894904832
 https://twitter.com/BryceGerhardt7/status/1377248264886513668
 https://twitter.com/Bunny43788913/status/1376950304982327303
+https://twitter.com/CaoKhChinh2/status/1377461966738841601
 https://twitter.com/ChadaramGanesh/status/1377217673478594565
 https://twitter.com/Chit12127394/status/1377063466050056192
 https://twitter.com/CreeperpowerS/status/1370279626443001861
@@ -141,6 +142,7 @@ https://twitter.com/RpaS0lution/status/1374198517950865409
 https://twitter.com/SEOforWebsite4/status/1374211700317032448
 https://twitter.com/SMC67254820/status/1376951172607578120
 https://twitter.com/SSuiteSoftware/status/1372875712240230400
+https://twitter.com/SameerDangi9/status/1377450627631095808
 https://twitter.com/Saturn52786089/status/1370285435193266176
 https://twitter.com/SharifTech_/status/1377317759311224837
 https://twitter.com/Steferine4eva/status/1377275017172373506
@@ -150,6 +152,7 @@ https://twitter.com/TargaDigitalUK/status/1370309383742185473
 https://twitter.com/Tazhys/status/1371881250206679046
 https://twitter.com/V25022000/status/1376914512725479429
 https://twitter.com/Vit69723327/status/1376846374667345922
+https://twitter.com/W01fyH/status/1377451953353986053
 https://twitter.com/Xxxxx41471542/status/1376932828768829440
 https://twitter.com/YaKauk47/status/1376851886981009412
 https://twitter.com/YingQunSu1/status/1376963946230521861
@@ -162,8 +165,10 @@ https://twitter.com/afrash/status/1369943509839585281
 https://twitter.com/ajayajayid/status/1374250782011256837
 https://twitter.com/aldoscar_oscar/status/1377318204477964290
 https://twitter.com/anushka_wije/status/1370919655980691461
+https://twitter.com/aung90449662/status/1377462661927952388
 https://twitter.com/badluckbillyxo/status/1371850435015884807
 https://twitter.com/barbadoslive/status/1370835424571179012
+https://twitter.com/boyarmy1234/status/1377459765933006850
 https://twitter.com/catchme07/status/1373180238264291334
 https://twitter.com/charliebrown/status/1376643693164298241
 https://twitter.com/chrisabraham/status/1370082263262752772
