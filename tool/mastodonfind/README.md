@@ -7,7 +7,7 @@
 ### Live example
 
 - [Tor](http://qyo4hcmvxiysc6zrxdn6rhofgkroyoygszkljw5izwdqklxfantseiyd.onion/)
-- Clearnet
+- [Clearnet](https://mastodonfind.mooo.com/)
 
 
 ### Code
