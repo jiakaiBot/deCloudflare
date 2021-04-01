@@ -439,6 +439,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- Trying to login to do some maintenance and like, I can’t pass the cloudflare captcha used by digital ocean. Identify bikes? Failed. Identify boats? Failed. Love to have computers ([jordansissel](https://twitter.com/jordansissel/status/1377469720429916160))
 - Keep getting a cloudflare captcha when trying to load a stream only to be get stuck in an endless loading screen after completing it. ([wow0w0](https://twitter.com/WOW0W0/status/1377099930137886727))
 - Error 1020 Ray ID: • 2021-03-30 10:25:26 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: • Your IP: 123.122.37. I am CN,some times,I use VPN.Plz don't banned me.I really want to learn. ([moshuid](https://twitter.com/MoshuiD/status/1376843658872283140))
 - WTF, zijn de kranten nu allemaal vpn verbindingen aan het blokkeren, met die cloudflare captcha's? ..... ([polr](https://twitter.com/polr/status/1376778162454077441))
