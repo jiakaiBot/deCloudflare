@@ -1,16 +1,16 @@
 <?php
 /*
 
-	How to use json file
+How to use json file
 
-	1. Download .json files: https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/cloudflare_users/domains
-	2. Edit path: "/path/to/jsonfiles/"
+1. Download .json files: https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/cloudflare_users/domains
+2. Edit path: "/path/to/jsonfiles/"
 
 */
 
 
 /*
-	is_listed_cf(str Domain)
+	is_listed_cf(string Domain)
 	return
 		[false, false]: file error
 		[true, true]: is cloudflare
@@ -29,7 +29,7 @@ function is_listed_cf($domain)
 }
 
 /*
-	is_cloudflare_cached(str Domain)
+	is_cloudflare_cached(string Domain)
 	return
 		true: is cloudflare
 		false: not listed
