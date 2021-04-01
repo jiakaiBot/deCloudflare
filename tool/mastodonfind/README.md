@@ -1,6 +1,6 @@
 ### Find Mastodon Toots & Accounts
 
-- Cloudflare filtered out by default (enable from Advanced menu)
+- Cloudflare filtered out by default (you can disable it)
 - JSON for developers
 
 
@@ -15,6 +15,6 @@
 - [index.php](index.php): Main website to show the result
 
 
-## Related
+### Related
 
 - [Mastodon Watch](../mastodonwch/)
