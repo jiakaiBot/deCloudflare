@@ -89,6 +89,9 @@ ym	int(6) INDEX
 
 If you want to see this in action: [Onion](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/social/mastodon/) or [cache page  (not in sync)](../../subfiles/shared_on_mastodon.md)
 
+### Related
+
+- [Mastodon Find](../mastodonfind)
 
 
 ### Live API
