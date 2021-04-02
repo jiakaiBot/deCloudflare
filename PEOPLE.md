@@ -439,6 +439,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- If you're using Cloudflare I recommend purging its cache. Apparently, it can get stuck on a 502 error caused by the Azure outage in certain locations. ([zlehoczky](https://twitter.com/zlehoczky/status/1377976260773679107))
 - Um, I cant reach the website at all? Access denied error by cloudflare ([riverweems](https://twitter.com/riverweems/status/1377706300101038080))
 - My Internet is down, also I see your website is showing the cloudflare error page, is there a link? I'm in Athlone. ([ashrafedross](https://twitter.com/AshrafEdross/status/1377478949928849411))
 - Trying to login to do some maintenance and like, I can’t pass the cloudflare captcha used by digital ocean. Identify bikes? Failed. Identify boats? Failed. Love to have computers ([jordansissel](https://twitter.com/jordansissel/status/1377469720429916160))
