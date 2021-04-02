@@ -8,7 +8,7 @@
 | 🖼 | 🖼 |
 | --- | --- |
 | ![](image/people.jpg) | ![](image/cfblockbothuman.jpg) |
-| ![](image/eastdakota_1273277839102656515.jpg) | ![](image/cloudflareoutage-2020.jpg) |
+| ![](image/eastdakota_1273277839102656515.jpg)<br>![](image/cloudflareoutage-2020.jpg) | ![](image/pillory.jpg) |
 | ![](image/omsnote.jpg) | ![](image/omsstream.jpg) |
 
 
