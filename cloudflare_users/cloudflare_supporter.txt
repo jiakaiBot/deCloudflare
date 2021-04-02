@@ -2,7 +2,7 @@
 (2) If you strongly believe you are innocent, write a comment to issue #15.
 (3) Do not create new issue or we will close it as duplicate.
 (4) ---------------------------------------------------------------------
-https://activism.openworlds.info/ (by deleting account without warning & showed hostility)
+https://activism.openworlds.info/ (by muting account status without warning & showed hostility)
 https://dev.lemmy.ml/u/PoorPocketsMcNewHold (account deleted; leaving it as history)
 https://github.com/4-FLOSS-Free-Libre-Open-Source-Software
 https://github.com/BurungHantu1605
