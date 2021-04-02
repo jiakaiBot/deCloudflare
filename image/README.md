@@ -40,4 +40,4 @@
 | ![](telegram/f029fcf244af884f6628decb7b15a8a9.jpg) | ![](telegram/f6144c62db17a84c3bbd4d4f3eda8067.jpg) | ![](telegram/fe185b082ea67a734859b4ece650c4a5.jpg) | ![](clapclapclap.gif) |
 | ![](mastodoncf.jpg) | ![](cape_starling.jpg) | ![](twittercf.jpg) | ![](blockedbycloudflare.jpg) |
 | ![](onemorestep_apple.jpg) | ![](cfdown_2021march.jpg) |  ![](ssprotect.jpg) |  ![](matthew_prince_teen.jpg) |
-| ![](pillory.jpg) | ![](blockedbymatthewprince3.jpg) | ![](error1020_01.jpg) |    |
+| ![](pillory.jpg) | ![](blockedbymatthewprince3.jpg) | ![](error1020_01.jpg) | ![](error1020_02.jpg) |
