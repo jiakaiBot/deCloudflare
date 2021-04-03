@@ -439,6 +439,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- I can't connect Restreamio to Picarto because Cloudflare error ([leogreenland](https://twitter.com/LeoGreenland/status/1378315403437428736))
 - ていうかマジ何なん？webスクレイピング系全部CloudFlareのCAPTCHA画面に飛ばされるんやが？？「あなたは人間ですか？」て、動かす指示出したのは人間だわfxxk　今までの動作実績あるん急に使えなくするのやめてくれ… ([mcr376](https://twitter.com/mcr376/status/1377240939454943236))
 - Your website or your host have just imploded. Cloudflare's error messages amuse me as they tend to shift blame for a 502 message ([farkingbastage](https://twitter.com/FarkingBastage/status/1378062687138107398))
 - If you're using Cloudflare I recommend purging its cache. Apparently, it can get stuck on a 502 error caused by the Azure outage in certain locations. ([zlehoczky](https://twitter.com/zlehoczky/status/1377976260773679107))
