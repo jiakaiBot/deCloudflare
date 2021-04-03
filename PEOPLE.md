@@ -439,6 +439,8 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- ていうかマジ何なん？webスクレイピング系全部CloudFlareのCAPTCHA画面に飛ばされるんやが？？「あなたは人間ですか？」て、動かす指示出したのは人間だわfxxk　今までの動作実績あるん急に使えなくするのやめてくれ… ([mcr376](https://twitter.com/mcr376/status/1377240939454943236))
+- Your website or your host have just imploded. Cloudflare's error messages amuse me as they tend to shift blame for a 502 message ([farkingbastage](https://twitter.com/FarkingBastage/status/1378062687138107398))
 - If you're using Cloudflare I recommend purging its cache. Apparently, it can get stuck on a 502 error caused by the Azure outage in certain locations. ([zlehoczky](https://twitter.com/zlehoczky/status/1377976260773679107))
 - Um, I cant reach the website at all? Access denied error by cloudflare ([riverweems](https://twitter.com/riverweems/status/1377706300101038080))
 - My Internet is down, also I see your website is showing the cloudflare error page, is there a link? I'm in Athlone. ([ashrafedross](https://twitter.com/AshrafEdross/status/1377478949928849411))
