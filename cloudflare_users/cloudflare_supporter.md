@@ -26,7 +26,7 @@ Do not create new issue or we will close it as duplicate.
 
 
 | URL | Comment |
-| --- | --- |
+| ----- | ----- |
 | [122Bestem@twitter.com](https://twitter.com/122Bestem/status/1377934900733440000) | moral |
 | [4-FLOSS-Free-Libre-Open-Source-Software@github.com](https://github.com/4-FLOSS-Free-Libre-Open-Source-Software) | moral |
 | [AKuisorn@twitter.com](https://twitter.com/AKuisorn/status/1377407076373164032) | moral |
