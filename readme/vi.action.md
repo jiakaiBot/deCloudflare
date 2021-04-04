@@ -5,10 +5,10 @@
 | ![](../image/matthew_prince_teen.jpg) | ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 
-Matthew Browning Prince, naskita la 13an de novembro 1974, estas la ĉefoficisto kaj kunfondinto de Cloudflaron.
+Matthew Browning Prince, sinh ngày 13 tháng 11 năm 1974, là CEO và đồng sáng lập của Cloudflare.
 
-Danke al lia riĉa paĉjo, "John B. Prince", li ĉeestis la Universitaton de Ĉikago Leĝlernejo kaj Harvard Komerclernejo.
-Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝoj kaj Fraŭdo-esploroj.
+Nhờ cha giàu của mình, "John B. Prince", ông đã tham dự Trường Dựa Đại học Chicago và Trường Kinh doanh Harvard.
+Prince đã dạy một luật internet và là một chuyên gia về luật chống spam và nghiên cứu gian lận.
 
 
 "*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" [t](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis)
