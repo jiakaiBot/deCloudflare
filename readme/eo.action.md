@@ -5,9 +5,9 @@
 | ![](../image/matthew_prince_teen.jpg) | ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 
-"[Matthew Browning Prince (Tvitero @eastdakota)](https://twitter.com/eastdakota)", naskita la 13an de novembro 1974, estas la ĉefoficisto kaj kunfondinto de Cloudflaron.
+[Matthew Browning Prince (Tvitero @eastdakota)](https://twitter.com/eastdakota), naskita la 13an de novembro 1974, estas la ĉefoficisto kaj kunfondinto de Cloudflaro.
 
-Danke al lia riĉa paĉjo, "[John B. Prince](http://web.archive.org/web/20081002173414/http://www.mufranchisee.com/article/453/)", li ĉeestis la [Universitaton de Ĉikago Leĝlernejo](https://en.wikipedia.org/wiki/University_of_Chicago_Law_School) kaj [Harvard Komerclernejo](https://eo.wikipedia.org/wiki/Harvard_Business_School).
+Danke al lia riĉa paĉjo, [John B. Prince](http://web.archive.org/web/20081002173414/http://www.mufranchisee.com/article/453/), li ĉeestis la [Universitaton de Ĉikago Leĝlernejo](https://en.wikipedia.org/wiki/University_of_Chicago_Law_School) kaj [Harvard Komerclernejo](https://eo.wikipedia.org/wiki/Harvard_Business_School).
 Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝoj kaj Fraŭdo-esploroj.
 
 
