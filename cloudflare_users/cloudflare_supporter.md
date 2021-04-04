@@ -58,6 +58,7 @@ Do not create new issue or we will close it as duplicate.
 | [armininjast@twitter.com](https://twitter.com/armininjast/status/1378059899234619401) | moral |
 | [ArteImmaginePh3@twitter.com](https://twitter.com/ArteImmaginePh3/status/1370471352373772291) | moral |
 | [arvinvxiii@twitter.com](https://twitter.com/arvinvxiii/status/1377549061314772998) | moral |
+| [ASDFGH09658948@twitter.com](https://twitter.com/ASDFGH09658948/status/1378772599715471361) | moral |
 | [AshrafFeroze1@twitter.com](https://twitter.com/AshrafFeroze1/status/1378589369724981251) | moral |
 | [Ask3w1@twitter.com](https://twitter.com/Ask3w1/status/1377969969476956165) | moral |
 | [AskmeArunkc21@twitter.com](https://twitter.com/AskmeArunkc21/status/1370289301959835651) | moral |
@@ -111,8 +112,10 @@ Do not create new issue or we will close it as duplicate.
 | [CryptoRishabh@twitter.com](https://twitter.com/CryptoRishabh/status/1373489721876213762) | moral |
 | [cubdomain@twitter.com](https://twitter.com/cubdomain/status/1369941924308656128) | moral |
 | [cuongvongchi1@twitter.com](https://twitter.com/cuongvongchi1/status/1378543015661248513) | moral |
+| [c_madegwa@twitter.com](https://twitter.com/c_madegwa/status/1378759479072854024) | moral |
 | [dad4ui@twitter.com](https://twitter.com/dad4ui/status/1377643341140033540) | moral |
 | [DanielCR93@twitter.com](https://twitter.com/DanielCR93/status/1377617766539218951) | moral |
+| [DanielDnl09284@twitter.com](https://twitter.com/DanielDnl09284/status/1378774632572936193) | moral |
 | [DanOno365@twitter.com](https://twitter.com/DanOno365/status/1371618039108673545) | moral |
 | [davidkarlsen@github.com](https://github.com/davidkarlsen) | moral |
 | [daylatenminhh@twitter.com](https://twitter.com/daylatenminhh/status/1377812028593643521) | moral |
@@ -188,6 +191,7 @@ Do not create new issue or we will close it as duplicate.
 | [jasavio24275@twitter.com](https://twitter.com/jasavio24275/status/1378451592488263681) | moral |
 | [jas_dhillon001@twitter.com](https://twitter.com/jas_dhillon001/status/1377232805659283457) | moral |
 | [jauhari@twitter.com](https://twitter.com/jauhari/status/1376870621636829186) | moral |
+| [JayanthaDemuni@twitter.com](https://twitter.com/JayanthaDemuni/status/1378775547027673088) | moral |
 | [jaysonm76681877@twitter.com](https://twitter.com/jaysonm76681877/status/1376793641474260994) | moral |
 | [jaywink@github.com](https://github.com/jaywink) | moral |
 | [jef43477408@twitter.com](https://twitter.com/jef43477408/status/1377262260272439301) | moral |
@@ -217,6 +221,7 @@ Do not create new issue or we will close it as duplicate.
 | [kimarmy24@twitter.com](https://twitter.com/kimarmy24/status/1378000928897298433) | moral |
 | [King53329368@twitter.com](https://twitter.com/King53329368/status/1376742080689545220) | moral |
 | [Kinz56664769@twitter.com](https://twitter.com/Kinz56664769/status/1378727323055255557) | moral |
+| [kirake_2@twitter.com](https://twitter.com/kirake_2/status/1378769178530811905) | moral |
 | [KiranDeepak2@twitter.com](https://twitter.com/KiranDeepak2/status/1376903066587262979) | moral |
 | [klokie@github.com](https://github.com/klokie) | moral |
 | [KorakritArdwar1@twitter.com](https://twitter.com/KorakritArdwar1/status/1377776979336818690) | moral |
@@ -266,6 +271,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinKhan21997345@twitter.com](https://twitter.com/MinKhan21997345/status/1377239209962921985) | moral |
 | [minn_soe@twitter.com](https://twitter.com/minn_soe/status/1377206706900332550) | moral |
 | [Mirakhiil@twitter.com](https://twitter.com/Mirakhiil/status/1377110594734628870) | moral |
+| [MKNDC26@twitter.com](https://twitter.com/MKNDC26/status/1378760881341747207) | moral |
 | [Mohamed99296539@twitter.com](https://twitter.com/Mohamed99296539/status/1378519497645101057) | moral |
 | [MohammadAlkabbi@twitter.com](https://twitter.com/MohammadAlkabbi/status/1378114531164049410) | moral |
 | [Mohamme01906351@twitter.com](https://twitter.com/Mohamme01906351/status/1378206168162525184) | moral |
@@ -282,6 +288,7 @@ Do not create new issue or we will close it as duplicate.
 | [MyintThu308653@twitter.com](https://twitter.com/MyintThu308653/status/1378549669748346882) | moral |
 | [MyoThet04519795@twitter.com](https://twitter.com/MyoThet04519795/status/1376759455396716552) | moral |
 | [M_alamin95@twitter.com](https://twitter.com/M_alamin95/status/1376986669270847497) | moral |
+| [naam_tien@twitter.com](https://twitter.com/naam_tien/status/1378759850017099776) | moral |
 | [Nage58788383@twitter.com](https://twitter.com/Nage58788383/status/1378017876100096005) | moral |
 | [Naing85610286@twitter.com](https://twitter.com/Naing85610286/status/1378280913897988097) | moral |
 | [NaingLi62048733@twitter.com](https://twitter.com/NaingLi62048733/status/1377287803420086275) | moral |
@@ -353,6 +360,7 @@ Do not create new issue or we will close it as duplicate.
 | [RakeshK61313394@twitter.com](https://twitter.com/RakeshK61313394/status/1376649585691566081) | moral |
 | [RakWrathraiser@twitter.com](https://twitter.com/RakWrathraiser/status/1377330536742408194) | moral |
 | [ramin3m@twitter.com](https://twitter.com/ramin3m/status/1377115879884824580) | moral |
+| [RED8996@twitter.com](https://twitter.com/RED8996/status/1378761849424908288) | moral |
 | [resistance.social](https://resistance.social/) | by deleting account without warning |
 | [resynth1943.net](https://resynth1943.net/) | by attacking collaborators |
 | [Rex96885803@twitter.com](https://twitter.com/Rex96885803/status/1376859443464302604) | moral |
