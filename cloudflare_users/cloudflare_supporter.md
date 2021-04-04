@@ -160,6 +160,7 @@ Do not create new issue or we will close it as duplicate.
 | [hieple0311@twitter.com](https://twitter.com/hieple0311/status/1377913030877405184) | moral |
 | [HighTylerGreen@twitter.com](https://twitter.com/HighTylerGreen/status/1372862559800463360) | moral |
 | [Hillside502@github.com](https://github.com/Hillside502) | moral |
+| [Hiu55274904@twitter.com](https://twitter.com/Hiu55274904/status/1378751450973544448) | moral |
 | [HLFH@github.com](https://github.com/HLFH) | moral |
 | [hmoo_yint@twitter.com](https://twitter.com/hmoo_yint/status/1376867328655167489) | moral |
 | [hoadt1412@twitter.com](https://twitter.com/hoadt1412/status/1376926261281353732) | moral |
@@ -261,6 +262,7 @@ Do not create new issue or we will close it as duplicate.
 | [MichaelUdyRajD@twitter.com](https://twitter.com/MichaelUdyRajD/status/1378052380533563393) | moral |
 | [MichaelZett1@twitter.com](https://twitter.com/MichaelZett1/status/1378582884882112513) | moral |
 | [mikeeowino@twitter.com](https://twitter.com/mikeeowino/status/1375217393354612745) | moral |
+| [MinHein29201999@twitter.com](https://twitter.com/MinHein29201999/status/1378749930903203847) | moral |
 | [MinKhan21997345@twitter.com](https://twitter.com/MinKhan21997345/status/1377239209962921985) | moral |
 | [minn_soe@twitter.com](https://twitter.com/minn_soe/status/1377206706900332550) | moral |
 | [Mirakhiil@twitter.com](https://twitter.com/Mirakhiil/status/1377110594734628870) | moral |
@@ -386,6 +388,7 @@ Do not create new issue or we will close it as duplicate.
 | [strugee@github.com](https://github.com/strugee) | moral |
 | [SuMyatM95509442@twitter.com](https://twitter.com/SuMyatM95509442/status/1377886575887982594) | moral |
 | [Sunshin69624226@twitter.com](https://twitter.com/Sunshin69624226/status/1376928070729224194) | moral |
+| [susmitha159@twitter.com](https://twitter.com/susmitha159/status/1378749057590431744) | moral |
 | [Syanl_SEA@twitter.com](https://twitter.com/Syanl_SEA/status/1378245568665899009) | moral |
 | [sysdotini@twitter.com](https://twitter.com/sysdotini/status/1373351911060078592) | moral |
 | [SystemXeevi@twitter.com](https://twitter.com/SystemXeevi/status/1377851545409122304) | moral |
