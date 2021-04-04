@@ -12,35 +12,5 @@ _Do you have any idea what you're doing?_
 
 | URL | Comment |
 | --- | --- |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
-| (fill this area)[do.something] | fill this area |
+| [Supporter Lover](who.was) | fill this area |
+
