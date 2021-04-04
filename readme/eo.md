@@ -134,7 +134,7 @@
 
 ### Pri falsaj kontoj
 
-Ni scias pri la ekzisto de falsaj kontoj, kiuj anstataŭas niajn oficialajn kanalojn, kiel Twitter, Facebook, Patreon, OpenCollective, kaj Villages.
+Ni scias pri la ekzisto de falsaj kontoj, kiuj anstataŭas niajn oficialajn kanalojn, kiel Tvitero, [Vizaĝlibro](https://www.fsf.org/facebook), Patreon, OpenCollective, kaj Villages.
 **Ni neniam demandas vian retpoŝton.
 Ni neniam demandas vian nomon.
 Ni neniam demandas vian identecon.
