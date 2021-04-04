@@ -91,6 +91,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bunny43788913@twitter.com](https://twitter.com/Bunny43788913/status/1376950304982327303) | moral |
 | [BurungHantu1605@github.com](https://github.com/BurungHantu1605) | moral |
 | [BurungHantu@social.privacytools.io](https://social.privacytools.io/@BurungHantu) | moral |
+| [BwareOfKoko@twitter.com](https://twitter.com/BwareOfKoko/status/1378782104125865986) | moral |
 | [candace138080@twitter.com](https://twitter.com/candace138080/status/1377660045463187458) | moral |
 | [CaoKhChinh2@twitter.com](https://twitter.com/CaoKhChinh2/status/1377461966738841601) | moral |
 | [catchme07@twitter.com](https://twitter.com/catchme07/status/1373180238264291334) | moral |
