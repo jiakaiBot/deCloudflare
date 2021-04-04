@@ -5,10 +5,10 @@
 | ![](../image/matthew_prince_teen.jpg) | ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 
-Matthew Browning Prince, naskita la 13an de novembro 1974, estas la ĉefoficisto kaj kunfondinto de Cloudflaron.
+मैथ्यू ब्राउनिंग प्रिंस, 13 नवंबर, 1 9 74 को पैदा हुए, सीईओ और क्लाउडफ्लेयर के सह-संस्थापक हैं।
 
-Danke al lia riĉa paĉjo, "John B. Prince", li ĉeestis la Universitaton de Ĉikago Leĝlernejo kaj Harvard Komerclernejo.
-Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝoj kaj Fraŭdo-esploroj.
+उनके रिच डैड, "जॉन बी प्रिंस" के लिए धन्यवाद, उन्होंने शिकागो लेबल स्कूल और हार्वर्ड बिजनेस स्कूल विश्वविद्यालय में भाग लिया।
+प्रिंस ने एक इंटरनेट कानून सिखाया और स्पैम कानूनों और धोखाधड़ी अनुसंधान में एक विशेषज्ञ था। 
 
 
 "*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" [t](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis)
