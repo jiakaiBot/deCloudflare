@@ -5,10 +5,10 @@
 | ![](../image/matthew_prince_teen.jpg) | ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 
-Matthew Browning Prince, naskita la 13an de novembro 1974, estas la ĉefoficisto kaj kunfondinto de Cloudflaron.
+1974 년 11 월 13 일에 태어난 Matthew Browning Prince는 CEO와 Cloudflare의 공동 창업자입니다.
 
-Danke al lia riĉa paĉjo, "John B. Prince", li ĉeestis la Universitaton de Ĉikago Leĝlernejo kaj Harvard Komerclernejo.
-Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝoj kaj Fraŭdo-esploroj.
+그의 부유 한 아빠 인 John B. Prince덕분에 Chicago Label School과 Harvard Business School에 참석했습니다.
+프린스는 인터넷 법을 가르쳤으며 스팸 방지 법률 및 사기 연구 전문가였습니다.
 
 
 "*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" [t](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis)
