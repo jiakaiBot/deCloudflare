@@ -414,3 +414,9 @@ _Do you have any idea what you're doing?_
 | [z_genera@twitter.com](https://twitter.com/z_genera/status/1376912696696705024) | moral |
 | [zayanphyo@twitter.com](https://twitter.com/zayanphyo/status/1377983749824995342) | moral |
 
+
+```
+If you have a fucking problem with this list think about what you did.
+If you strongly believe you are innocent write a comment to issue #15.
+Do not create new issue or we will close it as duplicate.
+```
