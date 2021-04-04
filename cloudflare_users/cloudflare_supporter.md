@@ -47,6 +47,7 @@ Do not create new issue or we will close it as duplicate.
 | [aldoscar_oscar@twitter.com](https://twitter.com/aldoscar_oscar/status/1377318204477964290) | moral |
 | [alerque@github.com](https://github.com/alerque) | moral |
 | [Alireza_mgm@twitter.com](https://twitter.com/Alireza_mgm/status/1378312020651618304) | moral |
+| [AmanKha06110821@twitter.com](https://twitter.com/AmanKha06110821/status/1378614051522015234) | moral |
 | [ameenulhassanm1@twitter.com](https://twitter.com/ameenulhassanm1/status/1378228638353555457) | moral |
 | [anarcat@github.com](https://github.com/anarcat) | moral |
 | [andrew-fitch@opencollective.com](https://opencollective.com/andrew-fitch) | moral |
