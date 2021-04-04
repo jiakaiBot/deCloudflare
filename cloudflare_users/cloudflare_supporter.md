@@ -28,6 +28,7 @@ Do not create new issue or we will close it as duplicate.
 | URL | Comment |
 | ----- | ----- |
 | [4-FLOSS-Free-Libre-Open-Source-Software@github.com](https://github.com/4-FLOSS-Free-Libre-Open-Source-Software) | moral |
+| [9_lose@twitter.com](https://twitter.com/9_lose/status/1378542953770012672) | moral |
 | [122Bestem@twitter.com](https://twitter.com/122Bestem/status/1377934900733440000) | moral |
 | [Aadamansar@twitter.com](https://twitter.com/Aadamansar/status/1378087373884465152) | moral |
 | [aarashaaria@twitter.com](https://twitter.com/aarashaaria/status/1376873295639949315) | moral |
@@ -100,6 +101,7 @@ Do not create new issue or we will close it as duplicate.
 | [cristian-bicheru@opencollective.com](https://opencollective.com/cristian-bicheru) | moral |
 | [CryptoRishabh@twitter.com](https://twitter.com/CryptoRishabh/status/1373489721876213762) | moral |
 | [cubdomain@twitter.com](https://twitter.com/cubdomain/status/1369941924308656128) | moral |
+| [cuongvongchi1@twitter.com](https://twitter.com/cuongvongchi1/status/1378543015661248513) | moral |
 | [dad4ui@twitter.com](https://twitter.com/dad4ui/status/1377643341140033540) | moral |
 | [DanielCR93@twitter.com](https://twitter.com/DanielCR93/status/1377617766539218951) | moral |
 | [DanOno365@twitter.com](https://twitter.com/DanOno365/status/1371618039108673545) | moral |
