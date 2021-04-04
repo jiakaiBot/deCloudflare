@@ -15,24 +15,24 @@
 
 | List name | Description |
 | -------- | -------- |
-| /domain/cloudflare_?.txt     | Split files (base domain)     |
-| /domain/cloudflare_?.json     | Split files (JSON format)     |
-| ex_cloudflare_users.md     | Domains which used Cloudflare in the past, not anymore     |
-| cloudflare_supporter.md | who is supporting, endorsing, loving, or defending Cloudflare |
+| [/domains/cloudflare_?.txt](cloudflare_users/domains)     | Split files (base domain)     |
+| [/domains/cloudflare_?.json](cloudflare_users/domains)     | Split files (JSON format)     |
+| [ex_cloudflare_users.md](cloudflare_users/ex_cloudflare_users.md)     | Domains which used Cloudflare in the past, not anymore     |
+| [cloudflare_supporter.md](cloudflare_users/cloudflare_supporter.md) | who is supporting, endorsing, loving, or defending Cloudflare |
 
 
 - **Cloudflare Corporation** | [**List Directory**](cloudflare_inc/)
 
 | List name | Description |
 | -------- | -------- |
-| cloudflare_CIDR_v4.txt     | IPv4 CIDR owned by Cloudflare     |
-| cloudflare_CIDR_v6.txt     | IPv6 CIDR owned by Cloudflare     |
-| cloudflare_range_v4.txt | IPv4 range owned by Cloudflare |
-| cloudflare_owned_ASN.txt     | AS network owned by Cloudflare    |
-| cloudflare_owned_NS.txt     | Name Server owned by Cloudflare    |
-| cloudflare_owned_domains.txt     | Domains owned by Cloudflare     |
-| cloudflare_owned_onions.txt     | Tor .onions owned by Cloudflare     |
-| cloudflare_members.md | Cloudflare employer, employee, ex-employee |
+| [cloudflare_CIDR_v4.txt](cloudflare_inc/cloudflare_CIDR_v4.txt)     | IPv4 CIDR owned by Cloudflare     |
+| [cloudflare_CIDR_v6.txt](cloudflare_inc/cloudflare_CIDR_v6.txt)     | IPv6 CIDR owned by Cloudflare     |
+| [cloudflare_range_v4.txt](cloudflare_inc/cloudflare_range_v4.txt) | IPv4 range owned by Cloudflare |
+| [cloudflare_owned_ASN.txt](cloudflare_inc/cloudflare_owned_ASN.txt)     | AS network owned by Cloudflare    |
+| [cloudflare_owned_NS.txt](cloudflare_inc/cloudflare_owned_NS.txt)     | Name Server owned by Cloudflare    |
+| [cloudflare_owned_domains.txt](cloudflare_inc/cloudflare_owned_domains.txt)     | Domains owned by Cloudflare     |
+| [cloudflare_owned_onions.txt](cloudflare_inc/cloudflare_owned_onions.txt)     | Tor .onions owned by Cloudflare     |
+| [cloudflare_members.md](cloudflare_inc/cloudflare_members.md) | Cloudflare employer, employee, ex-employee |
 
 
 **How to detect Cloudflare?**
