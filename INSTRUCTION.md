@@ -95,7 +95,7 @@ Are you sure? *Remove* it from /split/ list and *add* to "[ex_cloudflare_users.m
 
 | List name | Description |
 | -------- | -------- |
-| /cidr_data/?.txt     |  CIDR, ASN, NS    |
+| [/cidr_data/?.txt](not_cloudflare/cidr_data/)     |  CIDR, ASN, NS    |
 
 ```
 CDN_Code
@@ -137,9 +137,9 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 
 | List name | Description |
 | -------- | -------- |
-| /fqdn/attd.txt     | **Block Tor access** Split files, Everything (FQDN)     |
-| /fqdn/attd.json     | **Block Tor access** Split files, Everything (JSON)     |
-| hostility.md | **Does NOT block Tor access** Domain and Comment |
+| [/fqdn/attd.txt](anti-tor_users/fqdn/attd.txt)     | **Block Tor access** Split files, Everything (FQDN)     |
+| [/fqdn/attd.json](anti-tor_users/fqdn/attd.json)     | **Block Tor access** Split files, Everything (JSON)     |
+| [hostility.md](anti-tor_users/hostility.md) | **Does NOT block Tor access** Domain and Comment |
 
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
