@@ -138,6 +138,7 @@ Do not create new issue or we will close it as duplicate.
 | [EnjoyFuckBooty@twitter.com](https://twitter.com/EnjoyFuckBooty/status/1377878042144501762) | moral |
 | [ensoulify@twitter.com](https://twitter.com/ensoulify/status/1376911202434097155) | moral |
 | [flke05502419@twitter.com](https://twitter.com/flke05502419/status/1378714825086304258) | moral |
+| [FlukeZul@twitter.com](https://twitter.com/FlukeZul/status/1378799945688449036) | moral |
 | [fullOspace@twitter.com](https://twitter.com/fullOspace/status/1378241319634493443) | moral |
 | [futureboss17@twitter.com](https://twitter.com/futureboss17/status/1377955125222772738) | moral |
 | [fuxklif@twitter.com](https://twitter.com/fuxklif/status/1377696833498050565) | moral |
@@ -275,6 +276,7 @@ Do not create new issue or we will close it as duplicate.
 | [MKNDC26@twitter.com](https://twitter.com/MKNDC26/status/1378760881341747207) | moral |
 | [Mohamed99296539@twitter.com](https://twitter.com/Mohamed99296539/status/1378519497645101057) | moral |
 | [MohammadAlkabbi@twitter.com](https://twitter.com/MohammadAlkabbi/status/1378114531164049410) | moral |
+| [MohammadRezaMoq@twitter.com](https://twitter.com/MohammadRezaMoq/status/1378807327709614080) | moral |
 | [Mohamme01906351@twitter.com](https://twitter.com/Mohamme01906351/status/1378206168162525184) | moral |
 | [mohdsam47534112@twitter.com](https://twitter.com/mohdsam47534112/status/1377652969630433284) | moral |
 | [Momoko000Momoko@twitter.com](https://twitter.com/Momoko000Momoko/status/1377583637030268932) | moral |
