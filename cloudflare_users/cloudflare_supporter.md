@@ -78,6 +78,7 @@ Do not create new issue or we will close it as duplicate.
 | [BhabishyaB@twitter.com](https://twitter.com/BhabishyaB/status/1370382367894904832) | moral |
 | [BhimeshG6@twitter.com](https://twitter.com/BhimeshG6/status/1377508173465051143) | moral |
 | [birt_isaac@twitter.com](https://twitter.com/birt_isaac/status/1377936339212062725) | moral |
+| [bitdotcoin@twitter.com](https://twitter.com/bitdotcoin/status/1378723169066967042) | moral |
 | [blacklight447-ptio@github.com](https://github.com/blacklight447-ptio) | moral |
 | [Boswam6@twitter.com](https://twitter.com/Boswam6/status/1377681051472916482) | moral |
 | [boyarmy1234@twitter.com](https://twitter.com/boyarmy1234/status/1377459765933006850) | moral |
@@ -145,6 +146,7 @@ Do not create new issue or we will close it as duplicate.
 | [grahamperrin@github.com](https://github.com/grahamperrin) | moral |
 | [GraysonDick10@twitter.com](https://twitter.com/GraysonDick10/status/1377270516231233538) | moral |
 | [GreatLakeHits@twitter.com](https://twitter.com/GreatLakeHits/status/1377235337714499584) | moral |
+| [gurpreet_Hans@twitter.com](https://twitter.com/gurpreet_Hans/status/1378724174483529730) | moral |
 | [h29id@twitter.com](https://twitter.com/h29id/status/1370211563068551170) | moral |
 | [Hami_HamaSaed@twitter.com](https://twitter.com/Hami_HamaSaed/status/1376832495468081156) | moral |
 | [haNguyn90737580@twitter.com](https://twitter.com/haNguyn90737580/status/1378411206134796289) | moral |
@@ -213,6 +215,7 @@ Do not create new issue or we will close it as duplicate.
 | [kikidrilla@twitter.com](https://twitter.com/kikidrilla/status/1372335070158204930) | moral |
 | [kimarmy24@twitter.com](https://twitter.com/kimarmy24/status/1378000928897298433) | moral |
 | [King53329368@twitter.com](https://twitter.com/King53329368/status/1376742080689545220) | moral |
+| [Kinz56664769@twitter.com](https://twitter.com/Kinz56664769/status/1378727323055255557) | moral |
 | [KiranDeepak2@twitter.com](https://twitter.com/KiranDeepak2/status/1376903066587262979) | moral |
 | [klokie@github.com](https://github.com/klokie) | moral |
 | [KorakritArdwar1@twitter.com](https://twitter.com/KorakritArdwar1/status/1377776979336818690) | moral |
