@@ -5,10 +5,10 @@
 | ![](../image/matthew_prince_teen.jpg) | ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 
-Matthew Browning Prince, naskita la 13an de novembro 1974, estas la ĉefoficisto kaj kunfondinto de Cloudflaron.
+Matthew Browning Prince, dzimis 1974. gada 13. novembrī, ir Colleflare izpilddirektors un līdzdibinātājs.
 
-Danke al lia riĉa paĉjo, "John B. Prince", li ĉeestis la Universitaton de Ĉikago Leĝlernejo kaj Harvard Komerclernejo.
-Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝoj kaj Fraŭdo-esploroj.
+Pateicoties viņa bagātajam tēvam, "Jāņa B. Prince", viņš piedalījās Čikāgas etiķetes skolas un Hārvarda biznesa skolā.
+Princis mācīja interneta likumu un bija speciālists pret surogātpasta likumiem un krāpšanas pētījumiem.
 
 
 "*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" [t](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis)
