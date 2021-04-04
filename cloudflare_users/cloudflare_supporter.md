@@ -144,6 +144,7 @@ Do not create new issue or we will close it as duplicate.
 | [Haswand2@twitter.com](https://twitter.com/Haswand2/status/1378381010832826372) | moral |
 | [haymann666@twitter.com](https://twitter.com/haymann666/status/1377275308080996365) | moral |
 | [HeinNandaAung5@twitter.com](https://twitter.com/HeinNandaAung5/status/1376730030630301699) | moral |
+| [HeinThu01523292@twitter.com](https://twitter.com/HeinThu01523292/status/1378638808447512576) | moral |
 | [HellishDani@twitter.com](https://twitter.com/HellishDani/status/1377383208828903427) | moral |
 | [Herohtar@github.com](https://github.com/Herohtar) | moral |
 | [hieple0311@twitter.com](https://twitter.com/hieple0311/status/1377913030877405184) | moral |
@@ -190,6 +191,7 @@ Do not create new issue or we will close it as duplicate.
 | [justinchandu1@twitter.com](https://twitter.com/justinchandu1/status/1377719527098695681) | moral |
 | [K2DR7HtBoIKC1g1@twitter.com](https://twitter.com/K2DR7HtBoIKC1g1/status/1378253350177677312) | moral |
 | [kadfd@github.com](https://github.com/kadfd) | moral |
+| [Kahakaka5@twitter.com](https://twitter.com/Kahakaka5/status/1378582889843978244) | moral |
 | [Kaif88678916@twitter.com](https://twitter.com/Kaif88678916/status/1378248726020456451) | moral |
 | [kanaan94901823@twitter.com](https://twitter.com/kanaan94901823/status/1377247977803251712) | moral |
 | [KartikT93021170@twitter.com](https://twitter.com/KartikT93021170/status/1378252832911060993) | moral |
@@ -409,6 +411,7 @@ Do not create new issue or we will close it as duplicate.
 | [W01fyH@twitter.com](https://twitter.com/W01fyH/status/1377451953353986053) | moral |
 | [Waiian161298@twitter.com](https://twitter.com/Waiian161298/status/1377507842081447936) | moral |
 | [WaiOrtho@twitter.com](https://twitter.com/WaiOrtho/status/1377476715556003840) | moral |
+| [WaiYanH88543991@twitter.com](https://twitter.com/WaiYanH88543991/status/1378638015304638473) | moral |
 | [wallichii@social.tchncs.de](https://social.tchncs.de/@wallichii) | moral |
 | [WH1SbAtn0BPa5UI@twitter.com](https://twitter.com/WH1SbAtn0BPa5UI/status/1377862606266961924) | moral |
 | [winzawmoemoe1@twitter.com](https://twitter.com/winzawmoemoe1/status/1377558724198363140) | moral |
