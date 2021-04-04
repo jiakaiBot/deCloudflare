@@ -191,6 +191,7 @@ Do not create new issue or we will close it as duplicate.
 | [KartikT93021170@twitter.com](https://twitter.com/KartikT93021170/status/1378252832911060993) | moral |
 | [Kasimkh32639710@twitter.com](https://twitter.com/Kasimkh32639710/status/1377682614291623936) | moral |
 | [KenKawai0@twitter.com](https://twitter.com/KenKawai0/status/1377570971159126020) | moral |
+| [Khang32070691@twitter.com](https://twitter.com/Khang32070691/status/1378565117797797891) | moral |
 | [KhangG32840110@twitter.com](https://twitter.com/KhangG32840110/status/1378324788557479942) | moral |
 | [khet_win@twitter.com](https://twitter.com/khet_win/status/1377468267539935233) | moral |
 | [kikidrilla@twitter.com](https://twitter.com/kikidrilla/status/1372335070158204930) | moral |
@@ -253,6 +254,7 @@ Do not create new issue or we will close it as duplicate.
 | [MrBananaxx@github.com](https://github.com/MrBananaxx) | moral |
 | [MSuriko@twitter.com](https://twitter.com/MSuriko/status/1376898848090583043) | moral |
 | [MyatAnnt@twitter.com](https://twitter.com/MyatAnnt/status/1378346672275750913) | moral |
+| [myatbobothwe@twitter.com](https://twitter.com/myatbobothwe/status/1378571336243687429) | moral |
 | [myatthu19950274@twitter.com](https://twitter.com/myatthu19950274/status/1377506766200573955) | moral |
 | [myazin7@twitter.com](https://twitter.com/myazin7/status/1378303362303688705) | moral |
 | [MyintThu308653@twitter.com](https://twitter.com/MyintThu308653/status/1378549669748346882) | moral |
@@ -263,6 +265,7 @@ Do not create new issue or we will close it as duplicate.
 | [NaingLi62048733@twitter.com](https://twitter.com/NaingLi62048733/status/1377287803420086275) | moral |
 | [nam54142435@twitter.com](https://twitter.com/nam54142435/status/1377917089734750211) | moral |
 | [nandha58379893@twitter.com](https://twitter.com/nandha58379893/status/1376803094453964800) | moral |
+| [NanLin77@twitter.com](https://twitter.com/NanLin77/status/1378564214978011138) | moral |
 | [Natakonnan@twitter.com](https://twitter.com/Natakonnan/status/1378146982661779459) | moral |
 | [nearby_Thailand@twitter.com](https://twitter.com/nearby_Thailand/status/1375630256543985666) | moral |
 | [news_scraper@twitter.com](https://twitter.com/news_scraper/status/1370141469613391875) | moral |
