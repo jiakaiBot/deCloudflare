@@ -18,7 +18,7 @@
 | /domain/cloudflare_?.txt     | Split files (base domain)     |
 | /domain/cloudflare_?.json     | Split files (JSON format)     |
 | ex_cloudflare_users.md     | Domains which used Cloudflare in the past, not anymore     |
-| cloudflare_supporter.md | who is using Cloudflare or endorsing Cloudflare |
+| cloudflare_supporter.md | who is supporting, endorsing, loving, or defending Cloudflare |
 
 
 - **Cloudflare Corporation** | [**List Directory**](cloudflare_inc/)
