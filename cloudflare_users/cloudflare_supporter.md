@@ -5,7 +5,7 @@ _Do you have any idea what you're doing?_
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](../image/runbeforeitstoolate.jpg) | ![](../image/runbeforeitstoolate.jpg) |
+| ![](../image/bully.jpg) | ![](../image/runbeforeitstoolate.jpg) |
 
 
 ## Supporters
