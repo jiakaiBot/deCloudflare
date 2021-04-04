@@ -5,10 +5,10 @@
 | ![](../image/matthew_prince_teen.jpg) | ![](../image/matthew_prince.jpg) | ![](../image/blockedbymatthewprince.jpg) |
 
 
-"Matthew Browning Prince (Tvitero @eastdakota)", naskita la 13an de novembro 1974, estas la ĉefoficisto kaj kunfondinto de Cloudflaron.
+ماثيو براوننج الأمير، المولود في 13 نوفمبر 1974، هو الرئيس التنفيذي والمؤسس المشارك في Cloudflare.
 
-Danke al lia riĉa paĉjo, "John B. Prince", li ĉeestis la Universitaton de Ĉikago Leĝlernejo kaj Harvard Komerclernejo.
-Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝoj kaj Fraŭdo-esploroj.
+بفضل أبي الغني "John B. Prince"، حضر مدرسة شيكاغو مدرسة التسمية ومدرسة هارفارد للأعمال.
+علم الأمير قانون الإنترنت وكان متخصصا في قوانين مكافحة البريد المزعج وأبحاث الاحتيال.
 
 
 "*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" [t](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis)
