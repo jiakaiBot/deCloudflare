@@ -81,6 +81,7 @@ Do not create new issue or we will close it as duplicate.
 | [birt_isaac@twitter.com](https://twitter.com/birt_isaac/status/1377936339212062725) | moral |
 | [bitdotcoin@twitter.com](https://twitter.com/bitdotcoin/status/1378723169066967042) | moral |
 | [blacklight447-ptio@github.com](https://github.com/blacklight447-ptio) | moral |
+| [BloggaSwagga@twitter.com](https://twitter.com/BloggaSwagga/status/1378830983093481475) | moral |
 | [Boswam6@twitter.com](https://twitter.com/Boswam6/status/1377681051472916482) | moral |
 | [boyarmy1234@twitter.com](https://twitter.com/boyarmy1234/status/1377459765933006850) | moral |
 | [BPhc23612970@twitter.com](https://twitter.com/BPhc23612970/status/1378677317950574592) | moral |
@@ -118,6 +119,7 @@ Do not create new issue or we will close it as duplicate.
 | [DanielCR93@twitter.com](https://twitter.com/DanielCR93/status/1377617766539218951) | moral |
 | [DanielDnl09284@twitter.com](https://twitter.com/DanielDnl09284/status/1378774632572936193) | moral |
 | [DanOno365@twitter.com](https://twitter.com/DanOno365/status/1371618039108673545) | moral |
+| [dauphong90@twitter.com](https://twitter.com/dauphong90/status/1378817966754570243) | moral |
 | [davidkarlsen@github.com](https://github.com/davidkarlsen) | moral |
 | [daylatenminhh@twitter.com](https://twitter.com/daylatenminhh/status/1377812028593643521) | moral |
 | [db739dc8697c4fd@twitter.com](https://twitter.com/db739dc8697c4fd/status/1376869447944695812) | moral |
