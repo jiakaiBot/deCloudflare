@@ -157,6 +157,7 @@ Do not create new issue or we will close it as duplicate.
 | [HsettKaung@twitter.com](https://twitter.com/HsettKaung/status/1377183605219192838) | moral |
 | [HtetAun33238945@twitter.com](https://twitter.com/HtetAun33238945/status/1378239738142806021) | moral |
 | [HtetOoH95195384@twitter.com](https://twitter.com/HtetOoH95195384/status/1376733401558872064) | moral |
+| [Hussien87968746@twitter.com](https://twitter.com/Hussien87968746/status/1378625360808574978) | moral |
 | [huxxhuxx@twitter.com](https://twitter.com/huxxhuxx/status/1377787198246768647) | moral |
 | [Huy72814930@twitter.com](https://twitter.com/Huy72814930/status/1377996216739328009) | moral |
 | [Huy80186896@twitter.com](https://twitter.com/Huy80186896/status/1378033356420435969) | moral |
@@ -376,6 +377,7 @@ Do not create new issue or we will close it as duplicate.
 | [TensingNightco@twitter.com](https://twitter.com/TensingNightco/status/1378194588838424582) | moral |
 | [Th99629351@twitter.com](https://twitter.com/Th99629351/status/1378021025485479941) | moral |
 | [thae_su_881997@twitter.com](https://twitter.com/thae_su_881997/status/1378291310054895619) | moral |
+| [ThanhNguyen99n@twitter.com](https://twitter.com/ThanhNguyen99n/status/1378622639191691271) | moral |
 | [ThawTarSan3@twitter.com](https://twitter.com/ThawTarSan3/status/1377504002695254016) | moral |
 | [thejsa@github.com](https://github.com/thejsa) | moral |
 | [Thetlynn4@twitter.com](https://twitter.com/Thetlynn4/status/1378196366917316608) | moral |
