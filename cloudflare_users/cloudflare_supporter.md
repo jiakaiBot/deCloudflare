@@ -152,6 +152,7 @@ Do not create new issue or we will close it as duplicate.
 | [h29id@twitter.com](https://twitter.com/h29id/status/1370211563068551170) | moral |
 | [HajiKha39541085@twitter.com](https://twitter.com/HajiKha39541085/status/1379155176917991429) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [Hami_HamaSaed@twitter.com](https://twitter.com/Hami_HamaSaed/status/1376832495468081156) | moral |
+| [hana66669@twitter.com](https://twitter.com/hana66669/status/1379180701921148929) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [haNguyn90737580@twitter.com](https://twitter.com/haNguyn90737580/status/1378411206134796289) | moral |
 | [Harsha47502596@twitter.com](https://twitter.com/Harsha47502596/status/1377258470311792646) | moral |
 | [Haswand2@twitter.com](https://twitter.com/Haswand2/status/1378381010832826372) | moral |
@@ -243,10 +244,12 @@ Do not create new issue or we will close it as duplicate.
 | [Lin_Jaiant@twitter.com](https://twitter.com/Lin_Jaiant/status/1377974149759475712) | moral |
 | [live_techy@twitter.com](https://twitter.com/live_techy/status/1377628619380510730) | moral |
 | [Loctran78766971@twitter.com](https://twitter.com/Loctran78766971/status/1378360177724776450) | moral |
+| [Loki83104752@twitter.com](https://twitter.com/Loki83104752/status/1379175461553573897) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [LoppoZ@twitter.com](https://twitter.com/LoppoZ/status/1377122374617681922) | moral |
 | [Lu13Tn@twitter.com](https://twitter.com/Lu13Tn/status/1377597764624805888) | moral |
 | [lu25rs@twitter.com](https://twitter.com/lu25rs/status/1377601911893811209) | moral |
 | [Lynn58120382@twitter.com](https://twitter.com/Lynn58120382/status/1378280012542017537) | moral |
+| [Mal2Ley@twitter.com](https://twitter.com/Mal2Ley/status/1379174264494911490) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [ManishS14486946@twitter.com](https://twitter.com/ManishS14486946/status/1376922638216531974) | moral |
 | [Maria65592312@twitter.com](https://twitter.com/Maria65592312/status/1377526795688239104) | moral |
 | [Marin65500823@twitter.com](https://twitter.com/Marin65500823/status/1379100572159143941) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
