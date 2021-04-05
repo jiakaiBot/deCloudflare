@@ -79,6 +79,7 @@ Do not create new issue or we will close it as duplicate.
 | [birt_isaac@twitter.com](https://twitter.com/birt_isaac/status/1377936339212062725) | moral |
 | [bitdotcoin@twitter.com](https://twitter.com/bitdotcoin/status/1378723169066967042) | moral |
 | [BloggaSwagga@twitter.com](https://twitter.com/BloggaSwagga/status/1378830983093481475) | moral |
+| [boboat10@twitter.com](https://twitter.com/boboat10/status/1379156471103954944) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [Boswam6@twitter.com](https://twitter.com/Boswam6/status/1377681051472916482) | moral |
 | [boyarmy1234@twitter.com](https://twitter.com/boyarmy1234/status/1377459765933006850) | moral |
 | [BPhc23612970@twitter.com](https://twitter.com/BPhc23612970/status/1378677317950574592) | moral |
@@ -149,6 +150,7 @@ Do not create new issue or we will close it as duplicate.
 | [GreatLakeHits@twitter.com](https://twitter.com/GreatLakeHits/status/1377235337714499584) | moral |
 | [gurpreet_Hans@twitter.com](https://twitter.com/gurpreet_Hans/status/1378724174483529730) | moral |
 | [h29id@twitter.com](https://twitter.com/h29id/status/1370211563068551170) | moral |
+| [HajiKha39541085@twitter.com](https://twitter.com/HajiKha39541085/status/1379155176917991429) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [Hami_HamaSaed@twitter.com](https://twitter.com/Hami_HamaSaed/status/1376832495468081156) | moral |
 | [haNguyn90737580@twitter.com](https://twitter.com/haNguyn90737580/status/1378411206134796289) | moral |
 | [Harsha47502596@twitter.com](https://twitter.com/Harsha47502596/status/1377258470311792646) | moral |
@@ -411,6 +413,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThuYaZa04572367@twitter.com](https://twitter.com/ThuYaZa04572367/status/1377631395560841220) | moral |
 | [TinaLov61028067@twitter.com](https://twitter.com/TinaLov61028067/status/1378592323739639808) | moral |
 | [TINZAYYARLIN1@twitter.com](https://twitter.com/TINZAYYARLIN1/status/1378943503011475461) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
+| [Tntrn47460351@twitter.com](https://twitter.com/Tntrn47460351/status/1379142780765675520) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [tomx900@twitter.com](https://twitter.com/tomx900/status/1378074552857587713) | moral |
 | [toni_raifi@twitter.com](https://twitter.com/toni_raifi/status/1377735232519086080) | moral |
 | [TONY18321536@twitter.com](https://twitter.com/TONY18321536/status/1376917756486946817) | moral |
