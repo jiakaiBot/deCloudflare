@@ -40,9 +40,11 @@ Do not create new issue or we will close it as duplicate.
 | [AjayRaj37136446@twitter.com](https://twitter.com/AjayRaj37136446/status/1377920985144299524) | moral |
 | [AKuisorn@twitter.com](https://twitter.com/AKuisorn/status/1377407076373164032) | moral |
 | [aldoscar_oscar@twitter.com](https://twitter.com/aldoscar_oscar/status/1377318204477964290) | moral |
+| [AlgNinja@twitter.com](https://twitter.com/AlgNinja/status/1378849294208360451) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [Alireza_mgm@twitter.com](https://twitter.com/Alireza_mgm/status/1378312020651618304) | moral |
 | [AmanKha06110821@twitter.com](https://twitter.com/AmanKha06110821/status/1378614051522015234) | moral |
 | [ameenulhassanm1@twitter.com](https://twitter.com/ameenulhassanm1/status/1378228638353555457) | moral |
+| [Andrew05534631@twitter.com](https://twitter.com/Andrew05534631/status/1378876163599175687) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [AngelaSneed14@twitter.com](https://twitter.com/AngelaSneed14/status/1377523632595931143) | moral |
 | [anushka_wije@twitter.com](https://twitter.com/anushka_wije/status/1370919655980691461) | moral |
 | [ArMe69697866@twitter.com](https://twitter.com/ArMe69697866/status/1376913334377791492) | moral |
@@ -75,6 +77,7 @@ Do not create new issue or we will close it as duplicate.
 | [BPhc23612970@twitter.com](https://twitter.com/BPhc23612970/status/1378677317950574592) | moral |
 | [branch_junior@twitter.com](https://twitter.com/branch_junior/status/1378512992766197763) | moral |
 | [BryceGerhardt7@twitter.com](https://twitter.com/BryceGerhardt7/status/1377248264886513668) | moral |
+| [Bscx_Lantern@twitter.com](https://twitter.com/Bscx_Lantern/status/1378913835088670726) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [BuffCau@twitter.com](https://twitter.com/BuffCau/status/1378293971282063363) | moral |
 | [Bui_The_Long@twitter.com](https://twitter.com/Bui_The_Long/status/1378587447404097542) | moral |
 | [Bunny43788913@twitter.com](https://twitter.com/Bunny43788913/status/1376950304982327303) | moral |
@@ -112,6 +115,7 @@ Do not create new issue or we will close it as duplicate.
 | [DLu15867552@twitter.com](https://twitter.com/DLu15867552/status/1377679501576957955) | moral |
 | [dng96878709@twitter.com](https://twitter.com/dng96878709/status/1376910370070142981) | moral |
 | [Dohuy49780349@twitter.com](https://twitter.com/Dohuy49780349/status/1376800199079694336) | moral |
+| [DonLVn2@twitter.com](https://twitter.com/DonLVn2/status/1378897523100712963) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [Dwain92929529@twitter.com](https://twitter.com/Dwain92929529/status/1378656878591369219) | moral |
 | [ECcrasci@twitter.com](https://twitter.com/ECcrasci/status/1376228756952469505) | moral |
 | [editing_hero@twitter.com](https://twitter.com/editing_hero/status/1370248075189448711) | moral |
@@ -259,6 +263,7 @@ Do not create new issue or we will close it as duplicate.
 | [nandha58379893@twitter.com](https://twitter.com/nandha58379893/status/1376803094453964800) | moral |
 | [NanLin77@twitter.com](https://twitter.com/NanLin77/status/1378564214978011138) | moral |
 | [Natakonnan@twitter.com](https://twitter.com/Natakonnan/status/1378146982661779459) | moral |
+| [naywinshein@twitter.com](https://twitter.com/naywinshein/status/1378899591404265476) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [nearby_Thailand@twitter.com](https://twitter.com/nearby_Thailand/status/1375630256543985666) | moral |
 | [news_scraper@twitter.com](https://twitter.com/news_scraper/status/1370141469613391875) | moral |
 | [nghiemtran18@twitter.com](https://twitter.com/nghiemtran18/status/1378213806090809346) | moral |
@@ -302,6 +307,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhuongN09560858@twitter.com](https://twitter.com/PhuongN09560858/status/1377291979885748228) | moral |
 | [phwaysan1@twitter.com](https://twitter.com/phwaysan1/status/1377088458615881729) | moral |
 | [Pineapp43234632@twitter.com](https://twitter.com/Pineapp43234632/status/1377259907519373322) | moral |
+| [PkG04210203@twitter.com](https://twitter.com/PkG04210203/status/1378927538693541891) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [poetrasingkep@twitter.com](https://twitter.com/poetrasingkep/status/1378024363211988993) | moral |
 | [Pooh77732056@twitter.com](https://twitter.com/Pooh77732056/status/1378258475097055234) | moral |
 | [Prasant84597643@twitter.com](https://twitter.com/Prasant84597643/status/1377798977483984896) | moral |
@@ -322,6 +328,7 @@ Do not create new issue or we will close it as duplicate.
 | [RMFuQ@twitter.com](https://twitter.com/RMFuQ/status/1376775783755120646) | moral |
 | [RpaS0lution@twitter.com](https://twitter.com/RpaS0lution/status/1374198517950865409) | moral |
 | [rubbenga@twitter.com](https://twitter.com/rubbenga/status/1374089073091092485) | moral |
+| [RyanLee28594985@twitter.com](https://twitter.com/RyanLee28594985/status/1378844547619254273) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [SagrJony@twitter.com](https://twitter.com/SagrJony/status/1378421082592575491) | moral |
 | [SakshiC60115393@twitter.com](https://twitter.com/SakshiC60115393/status/1378061425206194176) | moral |
 | [salemyousef3@twitter.com](https://twitter.com/salemyousef3/status/1370369122010288135) | moral |
@@ -351,9 +358,11 @@ Do not create new issue or we will close it as duplicate.
 | [sysdotini@twitter.com](https://twitter.com/sysdotini/status/1373351911060078592) | moral |
 | [SystemXeevi@twitter.com](https://twitter.com/SystemXeevi/status/1377851545409122304) | moral |
 | [sy_angelyuna@twitter.com](https://twitter.com/sy_angelyuna/status/1377173738085474307) | moral |
+| [Tammy524Hunter@twitter.com](https://twitter.com/Tammy524Hunter/status/1378944389217681408) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [TargaDigitalUK@twitter.com](https://twitter.com/TargaDigitalUK/status/1370309383742185473) | moral |
 | [Tazhys@twitter.com](https://twitter.com/Tazhys/status/1371881250206679046) | moral |
 | [tech_dts@twitter.com](https://twitter.com/tech_dts/status/1378719527865708545) | moral |
+| [tekakenji@twitter.com](https://twitter.com/tekakenji/status/1378831679356215296) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [TensingNightco@twitter.com](https://twitter.com/TensingNightco/status/1378194588838424582) | moral |
 | [Th99629351@twitter.com](https://twitter.com/Th99629351/status/1378021025485479941) | moral |
 | [thae_su_881997@twitter.com](https://twitter.com/thae_su_881997/status/1378291310054895619) | moral |
@@ -366,6 +375,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thura66027391@twitter.com](https://twitter.com/Thura66027391/status/1377616296968327169) | moral |
 | [ThuYaZa04572367@twitter.com](https://twitter.com/ThuYaZa04572367/status/1377631395560841220) | moral |
 | [TinaLov61028067@twitter.com](https://twitter.com/TinaLov61028067/status/1378592323739639808) | moral |
+| [TINZAYYARLIN1@twitter.com](https://twitter.com/TINZAYYARLIN1/status/1378943503011475461) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [tomx900@twitter.com](https://twitter.com/tomx900/status/1378074552857587713) | moral |
 | [toni_raifi@twitter.com](https://twitter.com/toni_raifi/status/1377735232519086080) | moral |
 | [TONY18321536@twitter.com](https://twitter.com/TONY18321536/status/1376917756486946817) | moral |
