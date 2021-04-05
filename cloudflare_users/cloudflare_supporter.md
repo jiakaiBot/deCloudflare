@@ -222,6 +222,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoShweMya2@twitter.com](https://twitter.com/KoShweMya2/status/1376818370129981445) | moral |
 | [KPauksa@twitter.com](https://twitter.com/KPauksa/status/1377192007555162112) | moral |
 | [Krish98478242@twitter.com](https://twitter.com/Krish98478242/status/1377175329249226756) | moral |
+| [ksate0@twitter.com](https://twitter.com/ksate0/status/1379112018817376258) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [kukuhtun@twitter.com](https://twitter.com/kukuhtun/status/1377224548454526978) | moral |
 | [KumarSs35774113@twitter.com](https://twitter.com/KumarSs35774113/status/1376845791080423426) | moral |
 | [Kyal48869938@twitter.com](https://twitter.com/Kyal48869938/status/1377577578895044611) | moral |
@@ -232,6 +233,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kyawzin11854268@twitter.com](https://twitter.com/Kyawzin11854268/status/1377524474770120704) | moral |
 | [kyiphyumm@twitter.com](https://twitter.com/kyiphyumm/status/1377597055133118473) | moral |
 | [LAnh54291713@twitter.com](https://twitter.com/LAnh54291713/status/1376937564322422788) | moral |
+| [Latina65648589@twitter.com](https://twitter.com/Latina65648589/status/1379128051192107014) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [leastrio_@twitter.com](https://twitter.com/leastrio_/status/1370110974108307467) | moral |
 | [LeVietH08159054@twitter.com](https://twitter.com/LeVietH08159054/status/1377052679713660933) | moral |
 | [LHin00071152@twitter.com](https://twitter.com/LHin00071152/status/1377265697613508612) | moral |
@@ -285,6 +287,7 @@ Do not create new issue or we will close it as duplicate.
 | [nam54142435@twitter.com](https://twitter.com/nam54142435/status/1377917089734750211) | moral |
 | [nandha58379893@twitter.com](https://twitter.com/nandha58379893/status/1376803094453964800) | moral |
 | [NanLin77@twitter.com](https://twitter.com/NanLin77/status/1378564214978011138) | moral |
+| [narkarsarkie@twitter.com](https://twitter.com/narkarsarkie/status/1379118031050141697) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [Natakonnan@twitter.com](https://twitter.com/Natakonnan/status/1378146982661779459) | moral |
 | [naywinshein@twitter.com](https://twitter.com/naywinshein/status/1378899591404265476) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [nearby_Thailand@twitter.com](https://twitter.com/nearby_Thailand/status/1375630256543985666) | moral |
