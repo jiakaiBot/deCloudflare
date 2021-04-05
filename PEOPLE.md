@@ -439,6 +439,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- Looks like the server crashed. Getting a cloudflare Error 522 (at Sufficient Velocity too). ([yukikaze_alecto](https://twitter.com/Yukikaze_Alecto/status/1378838337566302209))
 - I can't connect Restreamio to Picarto because Cloudflare error ([leogreenland](https://twitter.com/LeoGreenland/status/1378315403437428736))
 - ていうかマジ何なん？webスクレイピング系全部CloudFlareのCAPTCHA画面に飛ばされるんやが？？「あなたは人間ですか？」て、動かす指示出したのは人間だわfxxk　今までの動作実績あるん急に使えなくするのやめてくれ… ([mcr376](https://twitter.com/mcr376/status/1377240939454943236))
 - Your website or your host have just imploded. Cloudflare's error messages amuse me as they tend to shift blame for a 502 message ([farkingbastage](https://twitter.com/FarkingBastage/status/1378062687138107398))
