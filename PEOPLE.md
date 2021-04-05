@@ -439,6 +439,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- my site is down for 2 days due to one of your cloudflare updates (getting a 403 error). Have no idea how this happened, but is costing me a lot of traffic and may affect how my site ranks on google. Suggest someone look into this asap so this doesn't happen to others ([nddecade](https://twitter.com/NDDecade/status/1379153964021714957))
 - Looks like the server crashed. Getting a cloudflare Error 522 (at Sufficient Velocity too). ([yukikaze_alecto](https://twitter.com/Yukikaze_Alecto/status/1378838337566302209))
 - I can't connect Restreamio to Picarto because Cloudflare error ([leogreenland](https://twitter.com/LeoGreenland/status/1378315403437428736))
 - ていうかマジ何なん？webスクレイピング系全部CloudFlareのCAPTCHA画面に飛ばされるんやが？？「あなたは人間ですか？」て、動かす指示出したのは人間だわfxxk　今までの動作実績あるん急に使えなくするのやめてくれ… ([mcr376](https://twitter.com/mcr376/status/1377240939454943236))
