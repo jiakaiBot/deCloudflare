@@ -1,4 +1,4 @@
-# Uzantoj de Cloudflare
+# Uzantoj de Cloudflare / Subtenantoj de Cloudflare
 
 Ili helpas kompanian cenzuron kaj amasan gvatadon.
 
@@ -8,7 +8,7 @@ Bonvolu vidi [INSTRUCTION.md](../INSTRUCTION.md) por dosiera celo kaj formato sp
 
 -----
 
-# Cloudflare users
+# Cloudflare users / Cloudflare supporters
 
 They are helping corporate censorship and mass surveilance.
 
