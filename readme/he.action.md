@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 אתה רק עוזר לצנזורה ארגונית ולמעקב המוני.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 דף האינטרנט שלך נמצא בגן הפרטי הפרוע של CloudFlare עם חומות.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - הקדש זמן לקרוא את מדיניות הפרטיות של האתר.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 קראתי את מדיניות הפרטיות שלך ואני לא מוצא את המילה Cloudflare.
 אני מסרב לשתף איתך נתונים אם אתה ממשיך להזין את הנתונים שלי ל- Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 זו דוגמה למדיניות פרטיות שאין לה את המילה Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ספר לאחרים סביבך על הסכנות הטמונות ב- Cloudflare.
 
-- [עזור בשיפור המאגר הזה.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [עזור בשיפור המאגר הזה.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - גם הרשימות, הטיעונים נגדה וגם הפרטים.
 
-- [תעד ופרסם מאוד ציבורי איפה הדברים משתבשים עם Cloudflare (וחברות דומות), וודא להזכיר את המאגר הזה כשאתה עושה זאת](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [תעד ופרסם מאוד ציבורי איפה הדברים משתבשים עם Cloudflare (וחברות דומות), וודא להזכיר את המאגר הזה כשאתה עושה זאת](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - קבל יותר אנשים המשתמשים ב- Tor כברירת מחדל, כך שיוכלו לחוות את האינטרנט מנקודת מבטם של אזורים שונים בעולם.
 
