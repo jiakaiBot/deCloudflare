@@ -50,12 +50,12 @@ Anjeun gaduh masalah? [Angkat sora anjeun ayeuna.](https://github.com/maraoz/mar
 
 ```
 Anjeun ngan ukur ngabantosan sénsor perusahaan sareng panjagaan massal.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Halaman wéb anjeun aya di kebon pinding-privasi swasta CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Candak sababaraha waktos kanggo maca kabijakan privasi halaman wéb.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Kuring parantos maca kabijakan privasi anjeun sareng kuring henteu tiasa mendakan kecap Cloudflare.
 Kuring nolak ngabagi data sareng anjeun upami anjeun teras-terasan masihan data abdi ka Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ieu mangrupikeun conto tina kabijakan privasi anu henteu ngagaduhan kecap Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Kituna kami nyarankeun tabel di luhur waé. Teu aya anu sanés.
 
 - Wartoskeun ka batur sakuriling anjeun ngeunaan bahaya Cloudflare.
 
-- [Bantosan ningkatkeun gudang ieu.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Bantosan ningkatkeun gudang ieu.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Boh daptar, argumén ngalawan éta sareng detilna.
 
-- [Dokumén sareng umumkeun pisan dimana aya masalah sareng Cloudflare (sareng perusahaan anu sami), pastikeun disebatkeun Repository ieu nalika anjeun ngalakukeunana](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumén sareng umumkeun pisan dimana aya masalah sareng Cloudflare (sareng perusahaan anu sami), pastikeun disebatkeun Repository ieu nalika anjeun ngalakukeunana](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Kéngingkeun seueur jalmi anu ngagunakeun Tor sacara standar janten aranjeunna tiasa ngalaman wéb tina sudut pandang anu béda-béda dunya.
 
