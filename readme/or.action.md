@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 ଆପଣ କେବଳ କର୍ପୋରେଟ୍ ସେନ୍ସରସିପ୍ ଏବଂ ଜନ ନୀରିକ୍ଷଣରେ ସାହାଯ୍ୟ କରୁଛନ୍ତି |
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 ଆପଣଙ୍କର ୱେବ୍ ପୃଷ୍ଠା କ୍ଲାଉଡ୍ ଫ୍ଲାରର ଗୋପନୀୟତା-ଅପବ୍ୟବହାର କରୁଥିବା ବ୍ୟକ୍ତିଗତ ପାଚେରୀ-ଉଦ୍ୟାନରେ ଅଛି |
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - ୱେବସାଇଟ୍ ର ଗୋପନୀୟତା ନୀତି ପ read ିବାକୁ କିଛି ସମୟ ନିଅ |
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 ମୁଁ ତୁମର ଗୋପନୀୟତା ନୀତି ପ read ିଛି ଏବଂ ମୁଁ କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ଶବ୍ଦ ପାଇପାରୁ ନାହିଁ |
 ଯଦି ତୁମେ ମୋର ତଥ୍ୟକୁ କ୍ଲାଉଡଫ୍ଲେରେ ଖାଇବାକୁ ଜାରି ରଖ, ମୁଁ ତୁମ ସହିତ ତଥ୍ୟ ବାଣ୍ଟିବାକୁ ମନା କରେ |
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 ଏହା ଗୋପନୀୟତା ନୀତିର ଏକ ଉଦାହରଣ ଯେଉଁଥିରେ କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ ଶବ୍ଦ ନାହିଁ |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - କ୍ଲାଉଡଫ୍ଲେୟାରର ବିପଦ ବିଷୟରେ ତୁମ ଚାରିପାଖରେ ଥିବା ଅନ୍ୟମାନଙ୍କୁ କୁହ |
 
-- [ଏହି ସଂଗ୍ରହାଳୟକୁ ଉନ୍ନତ କରିବାରେ ସାହାଯ୍ୟ କରନ୍ତୁ |](https://codeberg.org/crimeflare/cloudflare-tor).
+- [ଏହି ସଂଗ୍ରହାଳୟକୁ ଉନ୍ନତ କରିବାରେ ସାହାଯ୍ୟ କରନ୍ତୁ |](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - ଉଭୟ ତାଲିକା, ଏହା ବିରୁଦ୍ଧରେ ଯୁକ୍ତି ଏବଂ ସବିଶେଷ ବିବରଣୀ |
 
-- [ଡକ୍ୟୁମେଣ୍ଟ୍ କରନ୍ତୁ ଏବଂ ବହୁତ ସାର୍ବଜନୀନ କରନ୍ତୁ ଯେଉଁଠାରେ କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ (ଏବଂ ସମାନ କମ୍ପାନୀଗୁଡିକ) ସହିତ ଜିନିଷଗୁଡିକ ଭୁଲ୍ ହୋଇଯାଏ, ଯେତେବେଳେ ଆପଣ ଏହା କରନ୍ତି ଏହି ଭଣ୍ଡାର ବିଷୟରେ ଉଲ୍ଲେଖ କରିବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ |](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [ଡକ୍ୟୁମେଣ୍ଟ୍ କରନ୍ତୁ ଏବଂ ବହୁତ ସାର୍ବଜନୀନ କରନ୍ତୁ ଯେଉଁଠାରେ କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ (ଏବଂ ସମାନ କମ୍ପାନୀଗୁଡିକ) ସହିତ ଜିନିଷଗୁଡିକ ଭୁଲ୍ ହୋଇଯାଏ, ଯେତେବେଳେ ଆପଣ ଏହା କରନ୍ତି ଏହି ଭଣ୍ଡାର ବିଷୟରେ ଉଲ୍ଲେଖ କରିବାକୁ ନିଶ୍ଚିତ କରନ୍ତୁ |](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - ଡିଫଲ୍ଟ ଭାବରେ ଟୋର ବ୍ୟବହାର କରୁଥିବା ଅଧିକ ଲୋକଙ୍କୁ ପ୍ରାପ୍ତ କରନ୍ତୁ ଯାହା ଦ୍ they ାରା ସେମାନେ ବିଶ୍ different ର ବିଭିନ୍ନ ଭାଗର ଦୃଷ୍ଟିକୋଣରୁ ୱେବ୍ ଅନୁଭବ କରିପାରିବେ |
 
