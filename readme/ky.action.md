@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 Сиз жөн гана корпоративдик цензурага жана жапырт көзөмөлдөөгө жардам берип жатасыз.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Веб баракчаңыз CloudFlare купуялыгын бузган жеке дубал бакчасында жайгашкан.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Бир аз убакыт бөлүп, вебсайттын купуялык саясатын окуп чыгыңыз.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Мен сиздин купуялуулук саясатыңызды окуп чыктым жана Cloudflare сөзүн таба албай жатам.
 Менин маалыматтарымды Cloudflare менен камсыз кыла берсеңиз, сиз менен маалымат бөлүшүүдөн баш тартам.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Бул Cloudflare сөзү жок купуялык саясатынын мисалы.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Cloudflare коркунучу жөнүндө айланаңыздагы башкаларга айтып бериңиз.
 
-- [Бул кампаны өркүндөтүүгө жардам бериңиз.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Бул кампаны өркүндөтүүгө жардам бериңиз.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Тизмелер дагы, ага каршы келтирилген жүйөлөр дагы, деталдары дагы.
 
-- [Cloudflare (жана ушул сыяктуу компаниялар) менен ката кеткен жерде документтештирип, ачыкка чыгарыңыз, ошондо сиз ушул репозиторийди сөзсүз түрдө айтып коюңуз.](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Cloudflare (жана ушул сыяктуу компаниялар) менен ката кеткен жерде документтештирип, ачыкка чыгарыңыз, ошондо сиз ушул репозиторийди сөзсүз түрдө айтып коюңуз.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Демейки шартта Tor колдонуп жаткан адамдардын санын көбөйтүп алыңыз, ошондо алар дүйнөнүн ар кайсы бурчунан көз чаптыра алышат.
 
