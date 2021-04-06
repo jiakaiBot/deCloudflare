@@ -50,12 +50,12 @@ Máš problém? [Zvýšte hlas teraz.](https://github.com/maraoz/maraoz.github.i
 
 ```
 Pomáhate iba firemnej cenzúre a hromadnému sledovaniu.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Vaša webová stránka sa nachádza v súkromnej opevnenej záhrade CloudFlare, ktorá zneužíva súkromie.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Prečítajte si pravidlá ochrany osobných údajov webových stránok.
@@ -68,7 +68,7 @@ Musí vysvetliť, čo je to „Cloudflare“, a požiadať o povolenie na zdieľ
 ```
 Čítal som vaše pravidlá ochrany osobných údajov a nemôžem nájsť slovo Cloudflare.
 Odmietam s vami zdieľať údaje, ak budete pokračovať v poskytovaní mojich údajov do Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Toto je príklad politiky ochrany osobných údajov, ktorá nemá slovo Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Preto odporúčame iba vyššie uvedenú tabuľku. Nič viac.
 
 - Povedzte ostatným vo svojom okolí o nebezpečenstvách Cloudflare.
 
-- [Pomôžte vylepšiť toto úložisko.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Pomôžte vylepšiť toto úložisko.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Zoznamy, argumenty proti nej, aj podrobnosti.
 
-- [Dokumentujte a zverejňujte informácie o tom, kde sa s Cloudflare (a podobnými spoločnosťami) zle, nezabudnite spomenúť toto úložisko, keď tak urobíte](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumentujte a zverejňujte informácie o tom, kde sa s Cloudflare (a podobnými spoločnosťami) zle, nezabudnite spomenúť toto úložisko, keď tak urobíte](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Predvolene prilákajte viac ľudí pomocou Tor, aby mohli web zažiť z pohľadu rôznych častí sveta.
 
