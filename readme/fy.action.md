@@ -50,12 +50,12 @@ Jo hawwe in probleem? [Ferheegje jo stim no.](https://github.com/maraoz/maraoz.g
 
 ```
 Jo helpe gewoan sensuer en massatafersjoch fan bedriuwen.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Jo webside is yn 'e privacy-misbrûkende privee muorre-tún fan CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Nim wat tiid om it privacybelied fan 'e webside te lêzen.
@@ -68,7 +68,7 @@ It moat útlizze wat de "Cloudflare" is, en freegje om tastimming om jo gegevens
 ```
 Ik haw jo privacybelied lêzen en ik kin it wurd Cloudflare net fine.
 Ik wegerje gegevens mei jo te dielen as jo myn gegevens trochgean oan Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Dit is in foarbyld fan privacybelied dat it wurd Cloudflare net hat.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Dêrom advisearje wy allinich boppesteande tabel. Neat oars.
 
 - Fertel oaren om jo hinne oer de gefaren fan Cloudflare.
 
-- [Help dizze repository te ferbetterjen.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Help dizze repository te ferbetterjen.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Sawol de listen, de arguminten derop en de details.
 
-- [Dokumintearje en meitsje hiel iepenbier wêr't dingen ferkeard gean mei Cloudflare (en ferlykbere bedriuwen), soargje derfoar dat dit repository neamd wurdt as jo dat dogge](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumintearje en meitsje hiel iepenbier wêr't dingen ferkeard gean mei Cloudflare (en ferlykbere bedriuwen), soargje derfoar dat dit repository neamd wurdt as jo dat dogge](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Krij mear minsken standert troch Tor, sadat se it web kinne ûnderfine fanút it perspektyf fan ferskate dielen fan 'e wrâld.
 
