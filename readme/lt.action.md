@@ -50,12 +50,12 @@ Jūs turite problemų? [Pakelkite savo balsą dabar.](https://github.com/maraoz/
 
 ```
 Jūs tik padedate įmonių cenzūrai ir masiniam stebėjimui.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Jūsų tinklalapis yra privatumą pažeidžiančiame privačiame „CloudFlare“ sode.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Skirkite šiek tiek laiko, kad perskaitytumėte svetainės privatumo politiką.
@@ -68,7 +68,7 @@ Jame turi būti paaiškinta, kas yra „Cloudflare“, ir paprašyti leidimo ben
 ```
 Perskaičiau jūsų privatumo politiką ir nerandu žodžio „Cloudflare“.
 Atsisakau dalintis duomenimis su jumis, jei ir toliau teikiate mano duomenis „Cloudflare“.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Tai yra privatumo politikos, kurioje nėra žodžio „Cloudflare“, pavyzdys.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Todėl mes rekomenduojame tik aukščiau pateiktą lentelę. Nieko daugiau.
 
 - Papasakokite kitiems aplinkiniams apie „Cloudflare“ pavojus.
 
-- [Padėkite patobulinti šią saugyklą.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Padėkite patobulinti šią saugyklą.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Tiek sąrašai, tiek argumentai prieš jį, tiek detalės.
 
-- [Dokumentuokite ir viešinkite, kur „Cloudflare“ (ir panašiose įmonėse) vyksta blogai, kai tai darote, būtinai paminėkite šią saugyklą](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumentuokite ir viešinkite, kur „Cloudflare“ (ir panašiose įmonėse) vyksta blogai, kai tai darote, būtinai paminėkite šią saugyklą](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Pagal numatytuosius nustatymus pritraukite daugiau žmonių, naudojančių „Tor“, kad jie galėtų patirti žiniatinklį iš skirtingų pasaulio vietų perspektyvos.
 
