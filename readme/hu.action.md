@@ -50,12 +50,12 @@ Van egy problémád? [Emeld fel most a hangod.](https://github.com/maraoz/maraoz
 
 ```
 Ön csak a vállalati cenzúrát és a tömeges felügyeletet segíti.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Az Ön weboldala a CloudFlare adatvédelmet sértő, saját fallal körülvett kertjében található.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Szánjon egy kis időt a webhely adatvédelmi irányelveinek elolvasására.
@@ -68,7 +68,7 @@ Meg kell magyaráznia, mi a "Cloudflare", és engedélyt kell kérnie az adatok 
 ```
 Elolvastam adatvédelmi irányelveit, és nem találom a Cloudflare szót.
 Nem vagyok hajlandó megosztani veled az adatokat, ha továbbra is továbbítod az adataimat a Cloudflare-be.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ez egy példa az adatvédelmi irányelvekre, amelyek nem tartalmazzák a Cloudflare szót.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Ezért csak a fenti táblázatban ajánljuk. Semmi más.
 
 - Mondja el a maga körül másoknak a Cloudflare veszélyeit.
 
-- [Segítsen javítani ezt az adattárat.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Segítsen javítani ezt az adattárat.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - A felsorolások, az ellene szóló érvek és a részletek egyaránt.
 
-- [Dokumentáljon és tegyen nyilvánossá, ahol a Cloudflare (és hasonló cégek) rosszul alakulnak, feltétlenül említse meg ezt a tárat, amikor ezt teszi](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumentáljon és tegyen nyilvánossá, ahol a Cloudflare (és hasonló cégek) rosszul alakulnak, feltétlenül említse meg ezt a tárat, amikor ezt teszi](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Szerezzen alapértelmezés szerint több embert a Tor használatával, hogy megtapasztalhassák az internetet a világ különböző részeinek szemszögéből.
 
