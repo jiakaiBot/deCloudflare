@@ -50,12 +50,12 @@ Una shida? [Paza sauti yako sasa.](https://github.com/maraoz/maraoz.github.io/is
 
 ```
 Unasaidia tu udhibiti wa ushirika na ufuatiliaji wa watu wengi.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Ukurasa wako wa wavuti uko kwenye faragha-inayotumia vibaya bustani ya faragha ya CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Chukua muda kusoma sera ya faragha ya wavuti.
@@ -68,7 +68,7 @@ Lazima ifafanue "Cloudflare" ni nini, na uombe ruhusa ya kushiriki data yako na 
 ```
 Nimesoma sera yako ya faragha na siwezi kupata neno Cloudflare.
 Ninakataa kushiriki data na wewe ikiwa utaendelea kulisha data yangu kwa Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Huu ni mfano wa sera ya faragha ambayo haina neno Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Kwa hivyo tunapendekeza juu ya meza tu. Hakuna kingine.
 
 - Waambie wengine karibu na wewe juu ya hatari za Cloudflare.
 
-- [Saidia kuboresha hifadhi hii.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Saidia kuboresha hifadhi hii.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Orodha zote mbili, hoja dhidi yake na maelezo.
 
-- [Andika na uweke hadharani mahali mambo yanapoharibika na Cloudflare (na kampuni zinazofanana), hakikisha kutaja hazina hii unapofanya hivyo](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Andika na uweke hadharani mahali mambo yanapoharibika na Cloudflare (na kampuni zinazofanana), hakikisha kutaja hazina hii unapofanya hivyo](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Pata watu zaidi kutumia Tor kwa chaguo-msingi ili waweze kupata wavuti kutoka kwa mtazamo wa sehemu tofauti za ulimwengu.
 
