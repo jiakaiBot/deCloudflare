@@ -50,12 +50,12 @@ He raru koe? [Whakanuia to reo i tenei wa.](https://github.com/maraoz/maraoz.git
 
 ```
 Kei te awhina noa koe i te aukati rangatōpū me te tirotiro nui.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Ko to whaarangi paetukutuku kei roto i te maara-muna o te taiepa-kapua o CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Whakamahia he wa ki te panui i te kaupapahere muna a te paetukutuku.
@@ -68,7 +68,7 @@ Me whakamaarama he aha te "Cloudflare", me te tono whakaaetanga kia tohatoha i o
 ```
 Kua panuihia e au to kaupapahere muna, kaore e kitea te kupu Cloudflare.
 Kaore au e whakaae ki te tohatoha i nga korero ki a koe mena ka whangaia tonu e koe aku raraunga ki Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 He tauira tenei mo te kaupapahere muna kaore nei he kupu Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Na reira ka taunakihia e matou i runga ake nei te teepu. Kaore he mea ke atu.
 
 - Korero atu ki etahi atu i to taha e pa ana ki nga raru o Cloudflare.
 
-- [Awhina ki te whakapai ake i tenei whare putunga.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Awhina ki te whakapai ake i tenei whare putunga.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Ko nga raarangi e rua, nga tohenga whakahee me nga taipitopito.
 
-- [Tuhia me te tuku korero ki te iwi whanui ka he nga mahi o Cloudflare (me nga kamupene rite), kia mahara ki te whakahua i tenei putunga ka mahi ana koe](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Tuhia me te tuku korero ki te iwi whanui ka he nga mahi o Cloudflare (me nga kamupene rite), kia mahara ki te whakahua i tenei putunga ka mahi ana koe](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Whakahaerehia te nuinga o te hunga ma te whakamahi taunoa i te Tor kia ite ai ratau i te paetukutuku mai i te tirohanga o nga waahanga o te ao.
 
