@@ -50,12 +50,12 @@ Nwere nsogbu? [Welite olu gị ugbu a.](https://github.com/maraoz/maraoz.github.
 
 ```
 Naanị ị na-enyere nyocha ụlọ ọrụ na nyocha onyunyo.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Ibe weebụ gị dị na ogige nzuzo nke CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Wepụta oge iji gụọ iwu nzuzo nke weebụsaịtị.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Agụla m iwu nzuzo gị ma enweghị m ike ịchọta okwu ahụ Cloudflare.
 Ajụrụ m ịkọrọ gị data ma ọ bụrụ na ị gaa n'ihu na-eri data m na Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Nke a bụ ihe atụ nke iwu nzuzo nke na-enweghị okwu Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Ya mere, anyị nwere ike ikwu n'elu table naanị. Ọ dịghị ihe ọzọ.
 
 - Gwa ndị ọzọ nọ gị gburugburu gbasara ihe egwu dị na Cloudflare.
 
-- [Nyere aka melite ebe nchekwa a.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Nyere aka melite ebe nchekwa a.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Ma ndepụta, arụmụka megide ya na nkọwa.
 
-- [Akwụkwọ ma mee ka ọha na eze mara ebe ihe na-ezighị ezi na Cloudflare (yana ụlọ ọrụ ndị yiri ya), na-ejide n'aka ịkọwa nchekwa a mgbe ị mere ya](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Akwụkwọ ma mee ka ọha na eze mara ebe ihe na-ezighị ezi na Cloudflare (yana ụlọ ọrụ ndị yiri ya), na-ejide n'aka ịkọwa nchekwa a mgbe ị mere ya](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Mee ka ọtụtụ ndị mmadụ na-eji Tor na ndabara ka ha nwee ike ịnweta weebụ site n'akụkụ nke ụwa dị iche iche.
 
