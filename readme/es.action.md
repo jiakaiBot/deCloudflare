@@ -50,12 +50,12 @@ Le recomendamos que se comunique con los administradores de los servicios o siti
 
 ```
 Solo está ayudando a la censura corporativa y la vigilancia masiva.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Su página web está en el jardín privado amurallado de CloudFlare que abusa de la privacidad.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Tómese su tiempo para leer la política de privacidad del sitio web.
@@ -68,7 +68,7 @@ Debe explicar qué es "Cloudflare" y pedir permiso para compartir sus datos con 
 ```
 He leído su política de privacidad y no encuentro la palabra Cloudflare.
 Me niego a compartir datos contigo si continúas enviando mis datos a Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Este es un ejemplo de política de privacidad que no tiene la palabra Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Por lo tanto, recomendamos solo la tabla anterior. Nada más.
 
 - Cuéntele a los que le rodean los peligros de Cloudflare.
 
-- [Ayude a mejorar este repositorio.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Ayude a mejorar este repositorio.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Tanto las listas, los argumentos en contra como los detalles.
 
-- [Documente y haga muy público dónde las cosas van mal con Cloudflare (y compañías similares), asegurándose de mencionar este repositorio cuando lo haga.](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Documente y haga muy público dónde las cosas van mal con Cloudflare (y compañías similares), asegurándose de mencionar este repositorio cuando lo haga.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Consiga que más personas utilicen Tor de forma predeterminada para que puedan experimentar la web desde la perspectiva de diferentes partes del mundo.
 
