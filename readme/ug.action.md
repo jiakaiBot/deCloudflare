@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 سىز پەقەت شىركەت تەكشۈرۈشى ۋە كەڭ كۆلەملىك نازارەت قىلىشقا ياردەم قىلىۋاتىسىز.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 تور بېتىڭىز CloudFlare نىڭ شەخسىي سۇيىئىستېمال قىلىنغان شەخسىي تام باغچىسىدا.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - بىر ئاز ۋاقىت چىقىرىپ توربېكەتنىڭ مەخپىيەتلىك سىياسىتىنى ئوقۇڭ.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 مەن سىزنىڭ مەخپىيەتلىك سىياسىتىڭىزنى ئوقۇدىم ، Cloudflare دېگەن سۆزنى تاپالمىدىم.
 ئەگەر داۋاملىق سانلىق مەلۇماتلىرىڭىزنى Cloudflare غا يەتكۈزسىڭىز ، مەن سىز بىلەن ئورتاقلىشىشنى رەت قىلىمەن.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 بۇ Cloudflare دېگەن سۆز بولمىغان مەخپىيەتلىك سىياسىتىنىڭ بىر مىسالى.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ئەتراپىڭىزدىكى باشقىلارغا Cloudflare نىڭ خەتىرىنى سۆزلەپ بېرىڭ.
 
-- [بۇ ئامبارنى ياخشىلاشقا ياردەملىشىڭ.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [بۇ ئامبارنى ياخشىلاشقا ياردەملىشىڭ.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - ھەر ئىككى تىزىملىك ​​، ئۇنىڭغا قارشى دەلىللەر ۋە تەپسىلاتلار.
 
-- [Cloudflare (ۋە شۇنىڭغا ئوخشاش شىركەتلەر) دە خاتالىق كۆرۈلسە ھۆججەت ۋە ھۆججەتلەرنى ئاشكارىلاڭ ، بۇنداق قىلغاندا بۇ ئامبارنى تىلغا ئېلىڭ.](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Cloudflare (ۋە شۇنىڭغا ئوخشاش شىركەتلەر) دە خاتالىق كۆرۈلسە ھۆججەت ۋە ھۆججەتلەرنى ئاشكارىلاڭ ، بۇنداق قىلغاندا بۇ ئامبارنى تىلغا ئېلىڭ.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - سۈكۈتتىكى ھالەتتە تور ئىشلىتىۋاتقان تېخىمۇ كۆپ كىشىلەرنى قولغا كەلتۈرۈڭ ، ئۇلار دۇنيانىڭ ئوخشىمىغان جايلىرى نۇقتىسىدىن تورنى ھېس قىلالايدۇ.
 
