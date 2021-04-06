@@ -50,12 +50,12 @@ Bạn có một vấn đề? [Nâng cao giọng nói của bạn ngay bây giờ
 
 ```
 Bạn chỉ đang giúp kiểm duyệt công ty và giám sát hàng loạt.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Trang web của bạn nằm trong khu vườn có tường bao quanh riêng tư lạm dụng quyền riêng tư của CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Hãy dành một chút thời gian để đọc chính sách bảo mật của trang web.
@@ -68,7 +68,7 @@ Nó phải giải thích "Cloudflare" là gì và yêu cầu quyền chia sẻ d
 ```
 Tôi đã đọc chính sách bảo mật của bạn và tôi không thể tìm thấy từ Cloudflare.
 Tôi từ chối chia sẻ dữ liệu với bạn nếu bạn tiếp tục cung cấp dữ liệu của tôi cho Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Đây là một ví dụ về chính sách bảo mật không có từ Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Do đó, chúng tôi chỉ đề xuất bảng trên. Không có gì khác.
 
 - Nói với những người xung quanh bạn về sự nguy hiểm của Cloudflare.
 
-- [Giúp cải thiện kho lưu trữ này.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Giúp cải thiện kho lưu trữ này.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Cả danh sách, các lập luận chống lại nó và các chi tiết.
 
-- [Ghi lại tài liệu và công khai những nơi có vấn đề xảy ra với Cloudflare (và các công ty tương tự), đảm bảo đề cập đến kho lưu trữ này khi bạn làm như vậy](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Ghi lại tài liệu và công khai những nơi có vấn đề xảy ra với Cloudflare (và các công ty tương tự), đảm bảo đề cập đến kho lưu trữ này khi bạn làm như vậy](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Thu hút nhiều người hơn sử dụng Tor theo mặc định để họ có thể trải nghiệm web từ quan điểm của các khu vực khác nhau trên thế giới.
 
