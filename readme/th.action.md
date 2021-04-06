@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 คุณแค่ช่วยการเซ็นเซอร์องค์กรและการเฝ้าระวังจำนวนมาก
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 หน้าเว็บของคุณอยู่ในสวนที่มีกำแพงล้อมรอบส่วนตัวของ CloudFlare ซึ่งละเมิดความเป็นส่วนตัว
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - ใช้เวลาอ่านนโยบายความเป็นส่วนตัวของเว็บไซต์
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 ฉันได้อ่านนโยบายความเป็นส่วนตัวของคุณแล้ว แต่ไม่พบคำว่า Cloudflare
 ฉันปฏิเสธที่จะแบ่งปันข้อมูลกับคุณหากคุณยังคงป้อนข้อมูลของฉันไปยัง Cloudflare
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 นี่คือตัวอย่างนโยบายความเป็นส่วนตัวที่ไม่มีคำว่า Cloudflare
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - บอกคนรอบข้างเกี่ยวกับอันตรายของ Cloudflare
 
-- [ช่วยปรับปรุงที่เก็บนี้](https://codeberg.org/crimeflare/cloudflare-tor).
+- [ช่วยปรับปรุงที่เก็บนี้](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - ทั้งรายการข้อโต้แย้งและรายละเอียด
 
-- [จัดทำเอกสารและเปิดเผยต่อสาธารณะเมื่อมีสิ่งผิดปกติเกิดขึ้นกับ Cloudflare (และ บริษัท ที่คล้ายกัน) อย่าลืมพูดถึงที่เก็บนี้เมื่อคุณทำเช่นนั้น](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [จัดทำเอกสารและเปิดเผยต่อสาธารณะเมื่อมีสิ่งผิดปกติเกิดขึ้นกับ Cloudflare (และ บริษัท ที่คล้ายกัน) อย่าลืมพูดถึงที่เก็บนี้เมื่อคุณทำเช่นนั้น](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - รับผู้คนจำนวนมากขึ้นโดยใช้ Tor โดยค่าเริ่มต้นเพื่อให้พวกเขาได้สัมผัสกับเว็บจากมุมมองของส่วนต่างๆของโลก
 
