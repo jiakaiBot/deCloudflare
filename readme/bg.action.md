@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 Вие просто помагате на корпоративната цензура и масовото наблюдение.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Вашата уеб страница се намира в частната оградена градина на CloudFlare, която нарушава поверителността.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Отделете малко време, за да прочетете политиката за поверителност на уебсайта.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Прочетох вашата политика за поверителност и не мога да намеря думата Cloudflare.
 Отказвам да споделям данни с вас, ако продължите да подавате моите данни в Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Това е пример за политика за поверителност, която няма думата Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Разкажете на другите около вас за опасностите от Cloudflare.
 
-- [Помогнете за подобряването на това хранилище.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Помогнете за подобряването на това хранилище.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Както списъците, аргументите срещу него, така и подробностите.
 
-- [Документирайте и направете публично достояние, когато нещата се объркат с Cloudflare (и подобни компании), като не забравяйте да споменете това хранилище, когато го направите](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Документирайте и направете публично достояние, когато нещата се объркат с Cloudflare (и подобни компании), като не забравяйте да споменете това хранилище, когато го направите](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Накарайте повече хора да използват Tor по подразбиране, за да могат да изпитат мрежата от гледна точка на различни части на света.
 
