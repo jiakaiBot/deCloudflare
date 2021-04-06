@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 ທ່ານພຽງແຕ່ຊ່ວຍເຫຼືອການກວດສອບຂອງບໍລິສັດແລະການເຝົ້າລະວັງມະຫາຊົນ.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 ເວບໄຊທ໌ຂອງທ່ານແມ່ນຢູ່ໃນສວນເອກະຊົນຂອງ CloudFlare ທີ່ມີຄວາມເປັນສ່ວນຕົວ - ສວຍໃຊ້ ໜ້າ ທີ່.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - ໃຊ້ເວລາບາງເວລາເພື່ອອ່ານນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງເວບໄຊທ໌.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 ຂ້ອຍໄດ້ອ່ານນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າແລະຂ້ອຍບໍ່ສາມາດຊອກຫາ ຄຳ ສັບ Cloudflare.
 ຂ້ອຍປະຕິເສດທີ່ຈະແບ່ງປັນຂໍ້ມູນກັບເຈົ້າຖ້າເຈົ້າຍັງສືບຕໍ່ປ້ອນຂໍ້ມູນຂອງຂ້ອຍໃຫ້ Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 ນີ້ແມ່ນຕົວຢ່າງຂອງນະໂຍບາຍຄວາມເປັນສ່ວນຕົວເຊິ່ງບໍ່ມີ ຄຳ ວ່າ Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ບອກຄົນອື່ນທີ່ຢູ່ອ້ອມຮອບທ່ານກ່ຽວກັບອັນຕະລາຍຂອງ Cloudflare.
 
-- [ຊ່ວຍປັບປຸງຫໍສະມຸດແຫ່ງນີ້.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [ຊ່ວຍປັບປຸງຫໍສະມຸດແຫ່ງນີ້.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - ທັງບັນຊີລາຍຊື່, ການໂຕ້ຖຽງກັບມັນແລະລາຍລະອຽດ.
 
-- [ເກັບເອກະສານແລະເຜີຍແຜ່ສາທາລະນະຫຼາຍບ່ອນທີ່ມີຫຍັງຜິດພາດກັບ Cloudflare (ແລະບໍລິສັດທີ່ຄ້າຍຄືກັນ), ໃຫ້ແນ່ໃຈວ່າຈະກ່າວເຖິງຫໍສະມຸດແຫ່ງນີ້ເມື່ອທ່ານເຮັດແນວນັ້ນ](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [ເກັບເອກະສານແລະເຜີຍແຜ່ສາທາລະນະຫຼາຍບ່ອນທີ່ມີຫຍັງຜິດພາດກັບ Cloudflare (ແລະບໍລິສັດທີ່ຄ້າຍຄືກັນ), ໃຫ້ແນ່ໃຈວ່າຈະກ່າວເຖິງຫໍສະມຸດແຫ່ງນີ້ເມື່ອທ່ານເຮັດແນວນັ້ນ](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - ເອົາຄົນເຂົ້າໃຊ້ Tor ໂດຍໃຊ້ຄ່າເລີ່ມຕົ້ນດັ່ງນັ້ນພວກເຂົາສາມາດປະສົບກັບເວັບຈາກມຸມມອງຂອງພາກສ່ວນຕ່າງໆຂອງໂລກ.
 
