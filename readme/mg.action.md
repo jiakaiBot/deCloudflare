@@ -50,12 +50,12 @@ Manana olana ianao? [Asandrato izao ny feonao.](https://github.com/maraoz/maraoz
 
 ```
 Manampy ny sivana ataon'ny orinasa sy ny fanaraha-maso marobe fotsiny ianao.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Ny pejin-tranonkalanao dia ao amin'ny zaridaina manokana misy rindrina manokana an'ny CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Makà fotoana kely hamakiana ny tsiambaratelo momba ny tsiambaratelo momba ny tsiambaratelo.
@@ -68,7 +68,7 @@ Tokony hanazava ny atao hoe "Cloudflare" izany, ary mangataka alalana hizara ny 
 ```
 Novakiako ny politikanao momba ny tsiambaratelo ary tsy hitako ny teny Cloudflare.
 Laviko ny hizara angon-drakitra aminao raha manohy mamelona ny angon-tsaiko amin'ny Cloudflare ianao.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ity dia ohatra iray amin'ny politika manokana izay tsy manana ny teny Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Noho izany dia manoro hevitra ny ambony latabatra ihany izahay. Tsy misy zavatra
 
 - Lazao amin'ny hafa manodidina anao ny loza ateraky ny Cloudflare.
 
-- [Ampio hatsaraina ity tahiry ity.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Ampio hatsaraina ity tahiry ity.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Samy ny lisitra, ny tohan-kevitra manohitra azy ary ny antsipiriany.
 
-- [Raketo an-tsoratra ary ataovy imasom-bahoaka ny zavatra tsy mety ataon'ny Cloudflare (sy ny orinasa mitovy aminy), alao antoka fa voatonona ity tahiry ity rehefa manao izany ianao](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Raketo an-tsoratra ary ataovy imasom-bahoaka ny zavatra tsy mety ataon'ny Cloudflare (sy ny orinasa mitovy aminy), alao antoka fa voatonona ity tahiry ity rehefa manao izany ianao](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Makà olona maro kokoa mampiasa Tor amin'ny alàlan'ny toerana misy anao mba hahafahan'izy ireo miaina ny tranonkala amin'ny fomba fijery ny faritra samihafa eto amin'izao tontolo izao.
 
