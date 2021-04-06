@@ -50,12 +50,12 @@ Meseleňiz barmy? [Indi sesiňi çykar.](https://github.com/maraoz/maraoz.github
 
 ```
 Siz diňe korporatiw senzura we köpçülikleýin gözegçilige kömek edýärsiňiz.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Web sahypaňyz, “CloudFlare” -niň şahsy durmuşyny bozýan şahsy diwar bagynda.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Web sahypasynyň gizlinlik ýörelgelerini okaň.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Gizlinlik syýasatlaryňyzy okadym, “Cloudflare” sözüni tapyp bilemok.
 “Cloudflare” -e maglumatlarymy bermegi dowam etdirseňiz, siziň bilen maglumatlary paýlaşmakdan ýüz öwürýärin.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Bu, “Cloudflare” sözi bolmadyk gizlinlik syýasatynyň mysaly.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Beýleki programma üpjünçiliginiň gizlinligi barada gürleşeliň.
 
 - “Cloudflare” -iň howplary barada töweregiňizdäki başgalara aýdyň.
 
-- [Bu ammary gowulandyrmaga kömek ediň.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Bu ammary gowulandyrmaga kömek ediň.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Sanawlaryň ikisi, oňa garşy argumentler we jikme-jiklikler.
 
-- [“Cloudflare” (we şuňa meňzeş kompaniýalar) bilen näsazlyklaryň ýüze çykan ýerinde resminama beriň we köpçülige ýetiriň, bu ammary ýatda saklaň.](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [“Cloudflare” (we şuňa meňzeş kompaniýalar) bilen näsazlyklaryň ýüze çykan ýerinde resminama beriň we köpçülige ýetiriň, bu ammary ýatda saklaň.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Dünýäniň dürli künjeklerinden nukdaýnazary başdan geçirip biler ýaly, Tor ulanýan adamlary has köp alyň.
 
