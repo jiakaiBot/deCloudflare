@@ -1,9 +1,3 @@
-[//]: # (do not edit me; start)
-
-Versio: _1.0.5.4_
-
-[//]: # (do not edit me; end)
-
 
 - [Pli informo / Elŝuto](../../../subfiles/about.bcma.md)
 - Malgarantio: Ĉi tio NE estas spegulo de suprenflua deponejo. Sinkronigado eble prokrastas.
