@@ -50,12 +50,12 @@ Għandek problema? [Għolli leħnek issa.](https://github.com/maraoz/maraoz.gith
 
 ```
 Int biss qed tgħin iċ-ċensura korporattiva u s-sorveljanza tal-massa.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Il-paġna tal-web tiegħek tinsab fil-ġnien privat ta 'CloudFlare li jabbuża mill-privatezza.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Ħu ftit ħin biex taqra l-politika tal-privatezza tal-websajt.
@@ -68,7 +68,7 @@ Għandha tispjega x'inhi l- "Cloudflare", u titlob permess biex taqsam id-dejta 
 ```
 Qrajt il-politika tal-privatezza tiegħek u ma nistax insib il-kelma Cloudflare.
 Jien nirrifjuta li naqsam dejta miegħek jekk tkompli tagħti d-dejta tiegħi lil Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Dan huwa eżempju ta 'politika ta' privatezza li m'għandhiex il-kelma Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Għalhekk nirrakkomandaw hawn fuq it-tabella biss. Xejn iktar.
 
 - Għid lil ħaddieħor madwarek dwar il-perikli ta 'Cloudflare.
 
-- [Għin biex ittejjeb dan ir-repożitorju.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Għin biex ittejjeb dan ir-repożitorju.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Kemm il-listi, l-argumenti kontriha u d-dettalji.
 
-- [Iddokumenta u għamel pubbliku ħafna fejn l-affarijiet imorru ħażin ma 'Cloudflare (u kumpaniji simili), u kun żgur li ssemmi dan ir-repożitorju meta tagħmel hekk](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Iddokumenta u għamel pubbliku ħafna fejn l-affarijiet imorru ħażin ma 'Cloudflare (u kumpaniji simili), u kun żgur li ssemmi dan ir-repożitorju meta tagħmel hekk](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Ġib aktar nies li jużaw Tor b’mod awtomatiku sabiex ikunu jistgħu jesperjenzaw il-web mill-perspettiva ta ’partijiet differenti tad-dinja.
 
