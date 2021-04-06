@@ -50,12 +50,12 @@
 
 ```
 أنت فقط تساعد في الرقابة على الشركات والمراقبة الجماعية.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 صفحة الويب الخاصة بك موجودة في حديقة CloudFlare الخاصة المسورة التي تسيء إلى الخصوصية.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - خذ بعض الوقت لقراءة سياسة الخصوصية الخاصة بالموقع.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 لقد قرأت سياسة الخصوصية الخاصة بك ولا يمكنني العثور على كلمة Cloudflare.
 أرفض مشاركة البيانات معك إذا واصلت تغذية بياناتي إلى Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 هذا مثال على سياسة الخصوصية التي لا تحتوي على كلمة Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - أخبر الآخرين من حولك عن مخاطر Cloudflare.
 
-- [ساعد في تحسين هذا المستودع.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [ساعد في تحسين هذا المستودع.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - كلا القائمتين والحجج ضده والتفاصيل.
 
-- [قم بالتوثيق والإعلان عن الأخطاء التي تحدث في Cloudflare (والشركات المماثلة) ، مع التأكد من ذكر هذا المستودع عند القيام بذلك](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [قم بالتوثيق والإعلان عن الأخطاء التي تحدث في Cloudflare (والشركات المماثلة) ، مع التأكد من ذكر هذا المستودع عند القيام بذلك](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - احصل على المزيد من الأشخاص الذين يستخدمون Tor بشكل افتراضي حتى يتمكنوا من تجربة الويب من منظور أجزاء مختلفة من العالم.
 
