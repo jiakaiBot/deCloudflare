@@ -50,12 +50,12 @@ Het u 'n probleem? [Verhoog nou jou stem.](https://github.com/maraoz/maraoz.gith
 
 ```
 U help net met korporatiewe sensuur en massa toesig.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 U webblad is in die privaat-ommuurde tuin van CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Neem 'n bietjie tyd om die privaatheidsbeleid van die webwerf te lees.
@@ -68,7 +68,7 @@ Dit moet verduidelik wat die "Cloudflare" is, en vra toestemming om u data met C
 ```
 Ek het u privaatheidsbeleid gelees en ek kan nie die woord Cloudflare vind nie.
 Ek weier om data met u te deel as u voortgaan om my data aan Cloudflare te stuur.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Dit is 'n voorbeeld van privaatheidsbeleid wat nie die woord Cloudflare het nie.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Daarom beveel ons slegs die bostaande tabel aan. Niks anders nie.
 
 - Vertel ander om u van die gevare van Cloudflare.
 
-- [Help om hierdie bewaarplek te verbeter.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Help om hierdie bewaarplek te verbeter.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Beide die lyste, die argumente daarteen en die besonderhede.
 
-- [Dokumenteer en maak baie openbaar waar dinge verkeerd gaan met Cloudflare (en soortgelyke ondernemings), en maak seker dat u hierdie bewaarplek noem as u dit doen](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumenteer en maak baie openbaar waar dinge verkeerd gaan met Cloudflare (en soortgelyke ondernemings), en maak seker dat u hierdie bewaarplek noem as u dit doen](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Kry meer mense wat Tor standaard gebruik, sodat hulle die internet kan ervaar vanuit die perspektief van verskillende wêrelddele.
 
