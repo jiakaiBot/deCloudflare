@@ -50,12 +50,12 @@
 
 ```
 आप सिर्फ कॉर्पोरेट सेंसरशिप और सामूहिक निगरानी में मदद कर रहे हैं।
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 आपका वेब पेज Cloud -lare के गोपनीयता-दुरुपयोग वाली निजी दीवारों वाले बगीचे में है।
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - वेबसाइट की गोपनीयता नीति को पढ़ने के लिए कुछ समय लें।
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 मैंने आपकी गोपनीयता नीति पढ़ ली है और मुझे Cloudflare शब्द नहीं मिल रहा है।
 यदि आप मेरे डेटा को क्लाउडफ़ेयर को जारी रखना चाहते हैं तो मैं आपके साथ डेटा साझा करने से इनकार करता हूं।
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 यह गोपनीयता नीति का एक उदाहरण है जिसमें क्लाउडफ्लेयर शब्द नहीं है।
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - क्लाउडफ्लेयर के खतरों के बारे में दूसरों को बताएं।
 
-- [इस भंडार को बेहतर बनाने में मदद करें।](https://codeberg.org/crimeflare/cloudflare-tor).
+- [इस भंडार को बेहतर बनाने में मदद करें।](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - दोनों सूचियों, इसके खिलाफ तर्क और विवरण।
 
-- [दस्तावेज़ और बहुत सार्वजनिक करें जहाँ चीजें Cloudflare (और इसी तरह की कंपनियों) के साथ गलत हो जाती हैं, जब आप ऐसा करते हैं तो इस भंडार का उल्लेख करना सुनिश्चित करते हैं](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [दस्तावेज़ और बहुत सार्वजनिक करें जहाँ चीजें Cloudflare (और इसी तरह की कंपनियों) के साथ गलत हो जाती हैं, जब आप ऐसा करते हैं तो इस भंडार का उल्लेख करना सुनिश्चित करते हैं](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - डिफ़ॉल्ट रूप से टोर का उपयोग करने वाले अधिक लोग प्राप्त करें ताकि वे दुनिया के विभिन्न हिस्सों के परिप्रेक्ष्य से वेब का अनुभव कर सकें।
 
