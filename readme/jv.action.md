@@ -50,12 +50,12 @@ Sampeyan duwe masalah? [Ngunggahake swara saiki.](https://github.com/maraoz/mara
 
 ```
 Sampeyan mung mbantu sensor perusahaan lan pengawasan massal.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Kaca web sampeyan ana ing taman berdhelik pribadi CloudFlare sing nglanggar privasi.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Luangake wektu kanggo maca kabijakan privasi situs web.
@@ -68,7 +68,7 @@ Kudu nerangake apa "Cloudflare" kasebut, lan njaluk idin kanggo nuduhake data ka
 ```
 Aku wis maca kabijakan privasi sampeyan lan aku ora bisa nemokake tembung Cloudflare.
 Aku nolak nuduhake data karo sampeyan yen sampeyan terus menehi data ing Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Iki minangka conto kabijakan privasi sing ora duwe tembung Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Mula, disaranake mung tabel ing ndhuwur. Ora liya.
 
 - Kandhani wong liya ing sekitar sampeyan babagan bebaya Cloudflare.
 
-- [Mbantu ngapikake repositori iki.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Mbantu ngapikake repositori iki.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Loro-lorone dhaptar, bantahan nglawan lan rinciane.
 
-- [Dokumentasi lan publikake manawa ana kesalahan ing Cloudflare (lan perusahaan sing padha), priksa manawa bakal kasebut repositori kasebut nalika sampeyan nindakake](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumentasi lan publikake manawa ana kesalahan ing Cloudflare (lan perusahaan sing padha), priksa manawa bakal kasebut repositori kasebut nalika sampeyan nindakake](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Goleki luwih akeh wong nggunakake Tor kanthi standar supaya bisa ngrasakake web saka perspektif macem-macem jagad.
 
