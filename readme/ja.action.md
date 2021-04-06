@@ -50,12 +50,12 @@
 
 ```
 あなたは企業の検閲と大量監視を支援しているだけです。
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 あなたのウェブページはCloudFlareのプライバシーを乱用するプライベートウォールガーデンにあります。
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - ウェブサイトのプライバシーポリシーをお読みください。
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 あなたのプライバシーポリシーを読みましたが、Cloudflareという単語が見つかりません。
 あなたが私のデータをCloudflareに供給し続けるならば、私はあなたとデータを共有することを拒否します。
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 これは、Cloudflareという単語が含まれていないプライバシーポリシーの例です。
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Cloudflareの危険性について周りの人に伝えてください。
 
-- [このリポジトリの改善にご協力ください。](https://codeberg.org/crimeflare/cloudflare-tor).
+- [このリポジトリの改善にご協力ください。](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - 両方のリスト、それに対する議論と詳細。
 
-- [Cloudflare（および同様の会社）で問題が発生した場所を文書化して非常に公開し、そうするときは必ずこのリポジトリに言及してください](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Cloudflare（および同様の会社）で問題が発生した場所を文書化して非常に公開し、そうするときは必ずこのリポジトリに言及してください](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - デフォルトでTorを使用する人を増やして、世界のさまざまな部分の視点からWebを体験できるようにします。
 
