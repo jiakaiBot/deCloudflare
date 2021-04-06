@@ -50,12 +50,12 @@ Dhibaato ayaad qabtaa? [Codkaaga hada kor uqaad.](https://github.com/maraoz/mara
 
 ```
 Kaliya waxaad caawineysaa faafreebka shirkadaha iyo kormeerka ballaaran.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Boggaaga internetka wuxuu ku dhexyaalaa-qarsoodiga-ku-xadgudubka-darbiga-gaarka ah ee CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Waqti qaado si aad u aqriso siyaasada asturnaanta bogga.
@@ -68,7 +68,7 @@ Waa inay sharraxdo waxa uu yahay "Cloudflare", oo ay weydiisato rukhsad ay kula 
 ```
 Waan aqriyay siyaasadaada asturnaanta mana heli karo erayga Cloudflare.
 Waan diidey inaan kula wadaago xogta haddii aad sii wadatid inaad xogteyda ku quudiso Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Tani waa tusaale siyaasad gaar ah oo aan lahayn erayga Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Sidaa darteed waxaan kugula talineynaa miiska kor ku xusan oo keliya. Wax kale m
 
 - U sheeg dadka kale ee kugu hareeraysan khataraha Cloudflare.
 
-- [Caawi hagaajinta keydkaan.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Caawi hagaajinta keydkaan.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Labada liisba, doodaha ka dhanka ah iyo faahfaahinta.
 
-- [Diiwaangeli oo aad u muuji dadweynaha halka ay wax ka khaldan yihiin Cloudflare (iyo shirkadaha la midka ah), hubinta inaad sheegto bakhaarkan markaad sidaas sameyso](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Diiwaangeli oo aad u muuji dadweynaha halka ay wax ka khaldan yihiin Cloudflare (iyo shirkadaha la midka ah), hubinta inaad sheegto bakhaarkan markaad sidaas sameyso](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - U hel dad badan oo isticmaalaya Tor markii ugu horraysay si ay ula kulmaan shabakadda marka loo eego aragtida qaybaha kala duwan ee adduunka.
 
