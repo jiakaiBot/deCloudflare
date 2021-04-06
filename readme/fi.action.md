@@ -50,12 +50,12 @@ Sinulla on ongelma? [Nosta äänesi nyt.](https://github.com/maraoz/maraoz.githu
 
 ```
 Autat vain yritysten sensuuria ja joukkovalvontaa.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Verkkosivusi on CloudFlaren yksityisyyttä väärinkäyttävässä yksityisessä aidatussa puutarhassa.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Ota jonkin aikaa lukea verkkosivuston tietosuojakäytäntö.
@@ -68,7 +68,7 @@ Sen on selitettävä, mikä on "Cloudflare", ja pyydettävä lupaa jakaa tietoja
 ```
 Olen lukenut tietosuojakäytäntösi, enkä löydä sanaa Cloudflare.
 Kieltäydyn jakamasta tietoja kanssasi, jos jatkat tietojeni syöttämistä Cloudflareen.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Tämä on esimerkki tietosuojakäytännöstä, jossa ei ole sanaa Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Siksi suosittelemme vain yllä olevaa taulukkoa. Ei mitään muuta.
 
 - Kerro muille ympärilläsi Cloudflaren vaaroista.
 
-- [Auta parantamaan tätä arkistoa.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Auta parantamaan tätä arkistoa.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Sekä luettelot, sitä vastaan ​​esitetyt perustelut että yksityiskohdat.
 
-- [Dokumentoi ja julkaise hyvin, jos Cloudflaren (ja vastaavien yritysten) kanssa menee pieleen, ja muista mainita tämä arkisto, kun teet niin](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumentoi ja julkaise hyvin, jos Cloudflaren (ja vastaavien yritysten) kanssa menee pieleen, ja muista mainita tämä arkisto, kun teet niin](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Hanki Torin oletusarvoisesti enemmän ihmisiä, jotta he voivat kokea verkon eri puolilta maailmaa.
 
