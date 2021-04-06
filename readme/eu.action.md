@@ -50,12 +50,12 @@ Arazoren bat duzu? [Goratu zure ahotsa orain.](https://github.com/maraoz/maraoz.
 
 ```
 Enpresen zentsura eta masa zaintza laguntzen ari zara.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Zure web orria CloudFlare-ren pribatutasuna gehiegizko erabilera duen hormako lorategi pribatuan dago.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Hartu denbora pixka bat webgunearen pribatutasun politika irakurtzeko.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Zure pribatutasun politika irakurri dut eta ezin dut Cloudflare hitza aurkitu.
 Nire datuak Cloudflare-ra elikatzen jarraitzen baduzu zurekin datuak partekatzeari uko egiten diot.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Cloudflare hitza ez duen pribatutasun politikaren adibidea da.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Hori dela eta, goiko taulan soilik gomendatzen dugu. Beste ezer ez.
 
 - Kontatu ingurukoei Cloudflare-ren arriskuak.
 
-- [Lagundu biltegi hau hobetzen.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Lagundu biltegi hau hobetzen.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Bai zerrendak, bai horren aurkako argudioak eta xehetasunak.
 
-- [Dokumentatu eta oso publiko egin gauzak gaizki doazenez Cloudflare-rekin (eta antzeko enpresekin), ziurtatu biltegi hau aipatzen duzula hori egiten duzunean](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumentatu eta oso publiko egin gauzak gaizki doazenez Cloudflare-rekin (eta antzeko enpresekin), ziurtatu biltegi hau aipatzen duzula hori egiten duzunean](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Lortu Tor gehiago erabiltzen duten jende gehiago lehenespenez, webgunea munduko hainbat lekuren ikuspegitik bizi dezaten.
 
