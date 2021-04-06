@@ -50,12 +50,12 @@ Ou gen yon pwoblèm? [Leve vwa ou kounye a.](https://github.com/maraoz/maraoz.gi
 
 ```
 Ou jis ede antrepriz sansi ak siveyans mas.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Paj entènèt ou an se nan vi prive-abize prive gwo ranpa-jaden an CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Pran kèk tan li règleman sou vi prive sit entènèt la.
@@ -68,7 +68,7 @@ Li dwe eksplike ki sa "Cloudflare la" se, epi mande pou pèmisyon yo pataje done
 ```
 Mwen te li politik vi prive ou epi mwen pa ka jwenn mo Cloudflare la.
 Mwen refize pataje done avèk ou si ou kontinye manje done mwen an Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Sa a se yon egzanp sou politik vi prive ki pa gen mo Cloudflare la.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Se poutèt sa nou rekòmande anwo tab la sèlman. Anyen ankò.
 
 - Di lòt moun bò kote ou sou danje ki genyen nan Cloudflare.
 
-- [Ede amelyore repozitwa sa a.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Ede amelyore repozitwa sa a.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Tou de lis yo, agiman yo kont li ak detay yo.
 
-- [Dokimante epi fè trè piblik kote bagay yo ale mal ak Cloudflare (ak konpayi ki sanble), asire w ke ou mansyone repozitwa sa a lè ou fè sa](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokimante epi fè trè piblik kote bagay yo ale mal ak Cloudflare (ak konpayi ki sanble), asire w ke ou mansyone repozitwa sa a lè ou fè sa](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Jwenn plis moun lè l sèvi avèk Tor pa default pou yo ka fè eksperyans entènèt la soti nan pèspektiv nan diferan pati nan mond lan.
 
