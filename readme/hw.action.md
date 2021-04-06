@@ -50,12 +50,12 @@ He pilikia paha kāu? [E hoʻokiʻekiʻe i kou leo ​​i kēia manawa.](https:
 
 ```
 Ke kōkua wale nei ʻoe i ka censorship ʻoihana a me ka nānā nui ʻana.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Aia kāu ʻaoʻao pūnaewele i loko o ka pā-pilikino o ka pā paia pilikino o CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - E hoʻolōʻihi i kahi manawa e heluhelu ai i ka kulekele pilikino o ka pūnaewele.
@@ -68,7 +68,7 @@ Pono e wehewehe i ka "Cloudflare", a noi i ka ʻae e kaʻana like i kāu ʻikepi
 ```
 Ua heluhelu au i kāu kulekele pilikino a ʻaʻole hiki iaʻu ke loaʻa ka huaʻōlelo Cloudflare.
 Hōʻole wau e kaʻana like i ka ʻikepili iā ʻoe inā hoʻomau ʻoe e hānai i kaʻu ʻikepili iā Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 He laʻana kēia o ka pilikino pilikino i loaʻa ʻole ka huaʻōlelo Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ No laila mākou e paipai aku nei ma ka papa ʻaina wale nō. ʻAʻohe mea ʻē a
 
 - E haʻi i nā poʻe ʻē aʻe a puni iā ​​ʻoe e pili ana i nā makaʻi o Cloudflare.
 
-- [Kōkua i ka hoʻomaikaʻi ʻana i kēia waihona.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Kōkua i ka hoʻomaikaʻi ʻana i kēia waihona.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - ʻO nā papa inoa ʻelua, nā paio e kūʻē iā ia a me nā kikoʻī.
 
-- [Palapala a e hoʻolaha ākea loa kahi e hewa ai nā mea me Cloudflare (a me nā ʻoihana like), e hōʻoia ana e ʻōlelo i kēia waihona ke hana ʻoe pēlā](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Palapala a e hoʻolaha ākea loa kahi e hewa ai nā mea me Cloudflare (a me nā ʻoihana like), e hōʻoia ana e ʻōlelo i kēia waihona ke hana ʻoe pēlā](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - E kiʻi i nā poʻe hou aʻe e hoʻohana ana iā Tor ma ka paʻamau i hiki iā lākou ke ʻike i ka pūnaewele mai ka kuanaʻike o nā wahi like ʻole o ka honua.
 
