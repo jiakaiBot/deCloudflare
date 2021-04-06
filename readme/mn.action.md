@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 Та зүгээр л байгууллагын цензур, олон нийтийн тандалтад тусалж байна.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Таны вэбсайт CloudFlare-ийн нууцлалыг зөрчсөн хувийн ханан цэцэрлэгт байдаг.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Вэбсайтын нууцлалын бодлогыг уншиж цаг гарга.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Би таны нууцлалын бодлогыг уншаад Cloudflare гэдэг үгийг олж чадахгүй байна.
 Хэрэв та Cloudflare-д миний өгөгдлийг үргэлжлүүлэн өгвөл би тантай мэдээлэл хуваалцахаас татгалзаж байна.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Энэ бол Cloudflare гэсэн үггүй нууцлалын бодлогын жишээ юм.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Cloudflare-ийн хор хөнөөлийн талаар эргэн тойрныхоо хүмүүст хэл.
 
-- [Энэ агуулахыг сайжруулахад тусална уу.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Энэ агуулахыг сайжруулахад тусална уу.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Жагсаалтууд, түүний эсрэг аргументууд болон нарийвчилсан мэдээлэл хоёулаа.
 
-- [Cloudflare (болон үүнтэй төстэй компаниуд) -тай холбоотой асуудал гарвал баримтжуулж, олон нийтэд зарлаж, үүнийг хийхдээ энэ репозиторыг заавал тэмдэглэж аваарай.](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Cloudflare (болон үүнтэй төстэй компаниуд) -тай холбоотой асуудал гарвал баримтжуулж, олон нийтэд зарлаж, үүнийг хийхдээ энэ репозиторыг заавал тэмдэглэж аваарай.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Анхдагчаар Tor-ийг ашиглан илүү олон хүмүүсийг татаж аваарай, ингэснээр тэд дэлхийн өнцөг булан бүрээс вэб үзэх боломжтой болно.
 
