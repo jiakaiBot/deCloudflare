@@ -50,12 +50,12 @@ Tha duilgheadas agad? [Tog do ghuth a-nis.](https://github.com/maraoz/maraoz.git
 
 ```
 Tha thu dìreach a ’cuideachadh caisgireachd corporra agus mòr-sgrùdadh.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Tha an duilleag-lìn agad ann an gàrradh balla prìobhaideach CloudFlare, a tha a ’ana-cleachdadh prìobhaideachd.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Gabh beagan ùine gus poileasaidh prìobhaideachd làrach-lìn a leughadh.
@@ -68,7 +68,7 @@ Feumaidh e mìneachadh dè a th ’anns an“ Cloudflare ”, agus cead iarraidh
 ```
 Tha mi air do phoileasaidh prìobhaideachd a leughadh agus chan urrainn dhomh am facal Cloudflare a lorg.
 Bidh mi a ’diùltadh dàta a roinn leat ma chumas tu a’ biathadh an dàta agam gu Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Seo eisimpleir de phoileasaidh prìobhaideachd aig nach eil am facal Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Mar sin tha sinn a ’moladh gu h-àrd clàr a-mhàin. Chan eil dad eile.
 
 - Inns dha daoine eile mun cuairt ort mu na cunnartan a tha ann an Cloudflare.
 
-- [Cuidich gus an stòr-dàta seo a leasachadh.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Cuidich gus an stòr-dàta seo a leasachadh.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - An dà chuid na liostaichean, na h-argamaidean na aghaidh agus mion-fhiosrachadh.
 
-- [Dèan sgrìobhainnean agus dèan gu math poblach far a bheil cùisean a ’dol ceàrr le Cloudflare (agus companaidhean coltach ris), a’ dèanamh cinnteach gun toir thu iomradh air an taigh-tasgaidh seo nuair a nì thu sin](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dèan sgrìobhainnean agus dèan gu math poblach far a bheil cùisean a ’dol ceàrr le Cloudflare (agus companaidhean coltach ris), a’ dèanamh cinnteach gun toir thu iomradh air an taigh-tasgaidh seo nuair a nì thu sin](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Faigh barrachd dhaoine a ’cleachdadh Tor gu bunaiteach gus am faigh iad eòlas air an lìon bho shealladh diofar phàirtean den t-saoghal.
 
