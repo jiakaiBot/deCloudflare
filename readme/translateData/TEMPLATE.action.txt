@@ -50,12 +50,12 @@
 
 ```
 {%actnl0011%}
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 {%actnl0012%}
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - {%actnl0013%}
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 {%actnl0018%}
 {%actnl0019%}
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 {%actnl0020%}
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - {%actnl0152%}
 
-- [{%actnl0153%}](https://codeberg.org/crimeflare/cloudflare-tor).
+- [{%actnl0153%}](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - {%actnl0154%}
 
-- [{%actnl0155%}](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [{%actnl0155%}](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - {%actnl0156%}
 
