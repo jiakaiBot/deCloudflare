@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 கார்ப்பரேட் தணிக்கை மற்றும் வெகுஜன கண்காணிப்புக்கு நீங்கள் உதவுகிறீர்கள்.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 உங்கள் வலைப்பக்கம் கிளவுட்ஃப்ளேரின் தனியுரிமை-துஷ்பிரயோகம் செய்யும் தனியார் சுவர் தோட்டத்தில் உள்ளது.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - வலைத்தளத்தின் தனியுரிமைக் கொள்கையைப் படிக்க சிறிது நேரம் ஒதுக்குங்கள்.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 உங்கள் தனியுரிமைக் கொள்கையைப் படித்திருக்கிறேன், கிளவுட்ஃப்ளேர் என்ற வார்த்தையை என்னால் கண்டுபிடிக்க முடியவில்லை.
 கிளவுட்ஃப்ளேருக்கு எனது தரவை நீங்கள் தொடர்ந்து வழங்கினால், உங்களுடன் தரவைப் பகிர மறுக்கிறேன்.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 கிளவுட்ஃப்ளேர் என்ற சொல் இல்லாத தனியுரிமைக் கொள்கையின் எடுத்துக்காட்டு இது.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - கிளவுட்ஃப்ளேரின் ஆபத்துகளைப் பற்றி உங்களைச் சுற்றியுள்ள மற்றவர்களிடம் சொல்லுங்கள்.
 
-- [இந்த களஞ்சியத்தை மேம்படுத்த உதவுங்கள்.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [இந்த களஞ்சியத்தை மேம்படுத்த உதவுங்கள்.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - பட்டியல்கள், அதற்கு எதிரான வாதங்கள் மற்றும் விவரங்கள் இரண்டும்.
 
-- [கிளவுட்ஃப்ளேர் (மற்றும் ஒத்த நிறுவனங்கள்) உடன் விஷயங்கள் தவறாக இருக்கும் இடத்தில் ஆவணப்படுத்தவும், பகிரங்கப்படுத்தவும், நீங்கள் அவ்வாறு செய்யும்போது இந்த களஞ்சியத்தைக் குறிப்பிடுவதை உறுதிசெய்க](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [கிளவுட்ஃப்ளேர் (மற்றும் ஒத்த நிறுவனங்கள்) உடன் விஷயங்கள் தவறாக இருக்கும் இடத்தில் ஆவணப்படுத்தவும், பகிரங்கப்படுத்தவும், நீங்கள் அவ்வாறு செய்யும்போது இந்த களஞ்சியத்தைக் குறிப்பிடுவதை உறுதிசெய்க](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - இயல்பாகவே டோரைப் பயன்படுத்தி அதிகமானவர்களைப் பெறுங்கள், இதனால் அவர்கள் உலகின் பல்வேறு பகுதிகளின் பார்வையில் வலையை அனுபவிக்க முடியும்.
 
