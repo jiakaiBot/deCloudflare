@@ -11,7 +11,7 @@
 **Please** do not edit _zz_.md directly. It may be overwritten.
 
 
-1. [Fork](https://codeberg.org/crimeflare/cloudflare-tor/forks) cloudflare-tor.
+1. [Fork](http://crimeflare.eu.org/) cloudflare-tor.
 
 2. Copy `/readme/translateData/TEMPLATE.main.tab` to `/readme/translateData/override/zz.main.tab`.
   - cp /readme/translateData/TEMPLATE.main.tab /readme/translateData/override/_zz_.main.tab
