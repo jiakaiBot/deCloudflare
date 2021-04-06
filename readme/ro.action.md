@@ -50,12 +50,12 @@ Aveți o problemă? [Ridică-ți vocea acum.](https://github.com/maraoz/maraoz.g
 
 ```
 Doar ajutați cenzura corporativă și supravegherea în masă.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Pagina dvs. web se află în grădina privată cu ziduri private care abuzează de confidențialitate a CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Luați ceva timp pentru a citi politica de confidențialitate a site-ului web.
@@ -68,7 +68,7 @@ Acesta trebuie să explice ce este „Cloudflare” și să solicite permisiunea
 ```
 Am citit politica dvs. de confidențialitate și nu găsesc cuvântul Cloudflare.
 Refuz să vă împărtășesc date dacă continuați să furnizați datele mele către Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Acesta este un exemplu de politică de confidențialitate care nu are cuvântul Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Prin urmare, vă recomandăm numai tabelul de mai sus. Nimic altceva.
 
 - Spuneți altora din jurul vostru despre pericolele Cloudflare.
 
-- [Ajutați la îmbunătățirea acestui depozit.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Ajutați la îmbunătățirea acestui depozit.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Atât listele, argumentele împotriva ei, cât și detaliile.
 
-- [Documentați-vă și faceți foarte public locul în care lucrurile merg prost cu Cloudflare (și companii similare), asigurându-vă că menționați acest depozit atunci când faceți acest lucru](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Documentați-vă și faceți foarte public locul în care lucrurile merg prost cu Cloudflare (și companii similare), asigurându-vă că menționați acest depozit atunci când faceți acest lucru](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Obțineți mai mulți oameni care folosesc Tor în mod implicit, astfel încât să poată experimenta internetul din perspectiva diferitelor părți ale lumii.
 
