@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 તમે ફક્ત કોર્પોરેટ સેન્સરશીપ અને સામૂહિક દેખરેખને સહાય કરી રહ્યાં છો.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 તમારું વેબ પૃષ્ઠ ક્લાઉડફ્લેરના ગોપનીયતા-દુરુપયોગના ખાનગી દિવાલોવાળા બગીચામાં છે.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - વેબસાઇટની ગોપનીયતા નીતિ વાંચવા માટે થોડો સમય કા Takeો.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 મેં તમારી ગોપનીયતા નીતિ વાંચી છે અને મને ક્લાઉડફ્લેર શબ્દ મળી શકતો નથી.
 જો તમે ક્લાઉડફ્લેરે મારો ડેટા ફીડ કરવાનું ચાલુ રાખશો તો હું તમારી સાથે ડેટા શેર કરવાનો ઇનકાર કરું છું.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 આ ગોપનીયતા નીતિનું ઉદાહરણ છે જેમાં ક્લાઉડફ્લેર શબ્દ નથી.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ક્લાઉડફ્લેરના જોખમો વિશે તમારી આસપાસના અન્ય લોકોને કહો.
 
-- [આ ભંડારને સુધારવામાં સહાય કરો.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [આ ભંડારને સુધારવામાં સહાય કરો.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - બંને સૂચિઓ, તેની વિરુદ્ધ દલીલો અને વિગતો.
 
-- [ક્લાઉડફ્લેરે (અને સમાન કંપનીઓ) માં વસ્તુઓ ખોટી પડે ત્યાં દસ્તાવેજ બનાવો અને ખૂબ સાર્વજનિક બનાવો, જ્યારે તમે આવો ત્યારે આ ભંડારનો ઉલ્લેખ કરવાનું સુનિશ્ચિત કરો](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [ક્લાઉડફ્લેરે (અને સમાન કંપનીઓ) માં વસ્તુઓ ખોટી પડે ત્યાં દસ્તાવેજ બનાવો અને ખૂબ સાર્વજનિક બનાવો, જ્યારે તમે આવો ત્યારે આ ભંડારનો ઉલ્લેખ કરવાનું સુનિશ્ચિત કરો](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - ડિફોલ્ટ રૂપે ટોરનો ઉપયોગ કરતા વધુ લોકોને મેળવો જેથી તેઓ વિશ્વના વિવિધ ભાગોના પરિપ્રેક્ષ્યથી વેબનો અનુભવ કરી શકે.
 
