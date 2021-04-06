@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 თქვენ უბრალოდ ეხმარებით კორპორაციულ ცენზურას და მასობრივ მეთვალყურეობას.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 თქვენი ვებსაიტი დაცულია კონფიდენციალურობის ბოროტად გამოყენების CloudFlare კერძო გალავნის ბაღში.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - გარკვეული დრო დაუთმეთ ვებსაიტის კონფიდენციალურობის პოლიტიკის წაკითხვას.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 მე წავიკითხე თქვენი კონფიდენციალურობის პოლიტიკა და ვერ ვპოულობ სიტყვას Cloudflare.
 მე უარს ვამბობ მონაცემების გაზიარებაზე, თუ თქვენ განაგრძობთ ჩემი მონაცემების Cloudflare მიწოდებას.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 ეს არის კონფიდენციალურობის პოლიტიკის მაგალითი, რომელსაც არ აქვს სიტყვა Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - მოუყევით თქვენს გარშემომყოფებს Cloudflare- ის საშიშროების შესახებ.
 
-- [დაეხმარეთ ამ საცავის გაუმჯობესებაში.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [დაეხმარეთ ამ საცავის გაუმჯობესებაში.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - როგორც სიები, საწინააღმდეგო არგუმენტები და დეტალები.
 
-- [დოკუმენტირება და საჯაროდ გასაჯაროება Cloudflare- ს (და მსგავსი კომპანიების) შეცდომასთან დაკავშირებით, დარწმუნდით, რომ აღნიშნეთ ეს საცავი ამის გაკეთებისას](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [დოკუმენტირება და საჯაროდ გასაჯაროება Cloudflare- ს (და მსგავსი კომპანიების) შეცდომასთან დაკავშირებით, დარწმუნდით, რომ აღნიშნეთ ეს საცავი ამის გაკეთებისას](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - მოიძიეთ მეტი ადამიანი Tor- ს გამოყენებით, რომ მათ შეეძლოთ ინტერნეტის გამოცდილება მსოფლიოს სხვადასხვა კუთხიდან.
 
