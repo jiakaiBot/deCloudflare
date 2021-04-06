@@ -50,12 +50,12 @@ Matthew Browning Prince，1974年11月13日出生，是Cloudflare的首席執行
 
 ```
 您只是在幫助企業審查和大規模監視。
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 您的網頁位於CloudFlare中具有隱私保護功能的私人圍牆花園中。
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - 花一些時間閱讀網站的隱私政策。
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 我已經閱讀了您的隱私政策，但找不到Cloudflare這個詞。
 如果您繼續將我的數據提供給Cloudflare，我拒絕與您共享數據。
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 這是隱私策略的示例，其中沒有單詞Cloudflare。
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - 告訴周圍的人有關Cloudflare的危險。
 
-- [幫助改進此存儲庫。](https://codeberg.org/crimeflare/cloudflare-tor).
+- [幫助改進此存儲庫。](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - 這兩個列表，針對它的參數和詳細信息。
 
-- [記錄並公開披露Cloudflare（及類似公司）出現問題的地方，並確保在這樣做時提及此存儲庫](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [記錄並公開披露Cloudflare（及類似公司）出現問題的地方，並確保在這樣做時提及此存儲庫](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - 默認情況下，讓更多的人使用Tor，以便他們可以從世界不同地方的角度來體驗網絡。
 
