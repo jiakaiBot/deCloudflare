@@ -50,12 +50,12 @@ Unengxaki? [Nyusa ilizwi lakho ngoku.](https://github.com/maraoz/maraoz.github.i
 
 ```
 Unceda nje ukunyanzeliswa kwamashishini kunye nokujonga ubuninzi.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Iphepha lakho lewebhu lisemfihlakalweni-ngokuxhaphaza ngasese igadi ebiyelweyo ye-CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Thatha ixesha ufunde umgaqo-nkqubo wabucala wewebhusayithi.
@@ -68,7 +68,7 @@ Kuya kufuneka ichaze ukuba yintoni "i-Cloudflare", kwaye ucele imvume yokwabelan
 ```
 Ndiyifundile imigaqo-nkqubo yakho yabucala kwaye andilifumani igama elithi Cloudflare.
 Andifuni ukwabelana ngedatha nawe ukuba uyaqhubeka nokondla idatha yam kwiCloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Lo ngumzekelo womgaqo-nkqubo wabucala ongenalo igama elithi Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Ke ngoko sicebisa ngaphezulu kwetafile kuphela. Ayikho enye.
 
 - Xelela abanye abakungqongileyo malunga neengozi zeCloudflare.
 
-- [Nceda ukuphucula oku kugcinwa.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Nceda ukuphucula oku kugcinwa.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Zombini ezi zintlu, iimpikiswano ezichasene nayo kunye neenkcukacha.
 
-- [Uxwebhu kwaye wenze esidlangalaleni apho izinto zihamba gwenxa ngeCloudflare (kunye neenkampani ezifanayo), uqiniseke ngokukhankanya le ndawo yokugcina xa usenza njalo](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Uxwebhu kwaye wenze esidlangalaleni apho izinto zihamba gwenxa ngeCloudflare (kunye neenkampani ezifanayo), uqiniseke ngokukhankanya le ndawo yokugcina xa usenza njalo](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Fumana abantu abaninzi basebenzise iTor ngokungagqibekanga ukuze babenako ukufumana iwebhu ngokwembono yamacandelo ahlukeneyo ehlabathi.
 
