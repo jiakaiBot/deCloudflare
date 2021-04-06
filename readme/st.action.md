@@ -50,12 +50,12 @@ O na le bothata? [Phahamisa lentsoe la hau joale.](https://github.com/maraoz/mar
 
 ```
 U ntse u thusa ho thibela le ho beha leihlo batho ba bangata.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Leqephe la hau la marang-rang le sebakeng sa lekunutu le sebelisang hampe serapa sa poraefete sa CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Iphe nako ea ho bala leano la lekunutu la webosaete.
@@ -68,7 +68,7 @@ E tlameha ho hlalosa hore "Cloudflare" ke eng, 'me u kope tumello ea ho arolelan
 ```
 Ke balile leano la hau la lekunutu mme ha ke fumane lentsoe Cloudflare.
 Ke hana ho arolelana le uena data haeba u tsoelapele ho fepa data ea ka ho Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ona ke mohlala oa leano la lekunutu le se nang lentsoe Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Ka hona re khothaletsa tafole e kaholimo feela. Ha ho letho le leng.
 
 - Bolella ba bang haufi le uena ka likotsi tsa Cloudflare.
 
-- [Thusa ho ntlafatsa polokelo ena.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Thusa ho ntlafatsa polokelo ena.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Manane ka bobeli, mabaka a khahlano le eona le lintlha.
 
-- [Ngola 'me u phatlalatse phatlalatsa moo lintho li sa tsamaeeng hantle ka Cloudflare (le lik'hamphani tse tšoanang), ho etsa bonnete ba hore u bua ka polokelo ena ha u etsa joalo.](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Ngola 'me u phatlalatse phatlalatsa moo lintho li sa tsamaeeng hantle ka Cloudflare (le lik'hamphani tse tšoanang), ho etsa bonnete ba hore u bua ka polokelo ena ha u etsa joalo.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Fumana batho ba bangata ba sebelisang Tor ka boiketsetso hore ba tsebe ho fumana marang-rang ho latela pono ea likarolo tse fapaneng tsa lefats'e.
 
