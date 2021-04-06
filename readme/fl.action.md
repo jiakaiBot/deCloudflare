@@ -50,12 +50,12 @@ May problema ka? [Itaas ang boses mo ngayon.](https://github.com/maraoz/maraoz.g
 
 ```
 Tumutulong ka lang sa corporate censorship at pagmamatyag sa masa.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Ang iyong web page ay nasa pribadong pag-aabusong pribadong pader na may pader na hardin ng CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Maglaan ng kaunting oras upang mabasa ang patakaran sa privacy ng website.
@@ -68,7 +68,7 @@ Dapat itong ipaliwanag kung ano ang "Cloudflare", at humingi ng pahintulot na ib
 ```
 Nabasa ko na ang iyong patakaran sa privacy at hindi ko mahanap ang salitang Cloudflare.
 Tumanggi akong magbahagi ng data sa iyo kung magpapatuloy mong pakainin ang aking data sa Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ito ay isang halimbawa ng patakaran sa privacy na walang salitang Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Samakatuwid inirerekumenda lamang namin sa itaas ng talahanayan. Walang iba.
 
 - Sabihin sa iba sa paligid mo ang tungkol sa mga panganib ng Cloudflare.
 
-- [Tulungan pagbutihin ang repository na ito.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Tulungan pagbutihin ang repository na ito.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Parehong mga listahan, ang mga argumento laban dito at ang mga detalye.
 
-- [Dokumento at gawing pampubliko kung saan nagkakamali ang mga bagay sa Cloudflare (at mga katulad na kumpanya), tinitiyak na banggitin ang repository na ito kapag ginawa mo ito](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumento at gawing pampubliko kung saan nagkakamali ang mga bagay sa Cloudflare (at mga katulad na kumpanya), tinitiyak na banggitin ang repository na ito kapag ginawa mo ito](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Makakuha ng mas maraming tao na gumagamit ng Tor bilang default upang maranasan nila ang web mula sa pananaw ng iba't ibang bahagi ng mundo.
 
