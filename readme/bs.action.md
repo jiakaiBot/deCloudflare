@@ -50,12 +50,12 @@ Imate problem? [Podignite svoj glas sada.](https://github.com/maraoz/maraoz.gith
 
 ```
 Vi samo pomažete korporativnoj cenzuri i masovnom nadzoru.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Vaša web stranica nalazi se u privatnom ograđenom vrtu CloudFlare koji krši privatnost.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Odvojite malo vremena da pročitate politiku privatnosti web lokacije.
@@ -68,7 +68,7 @@ Mora objasniti šta je to "Cloudflare" i tražiti dozvolu za dijeljenje vaših p
 ```
 Pročitao sam vašu politiku privatnosti i ne mogu pronaći riječ Cloudflare.
 Odbijam podijeliti podatke s vama ako nastavite da hranite moje podatke Cloudflare-om.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ovo je primjer politike privatnosti koja nema riječ Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Stoga preporučujemo samo gornju tablicu. Ništa drugo.
 
 - Recite drugima oko sebe o opasnostima Cloudflarea.
 
-- [Pomozite poboljšati ovo spremište.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Pomozite poboljšati ovo spremište.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - I liste, argumenti protiv i detalji.
 
-- [Dokumentirajte i javno objavite gdje stvari krenu po zlu s Cloudflareom (i sličnim kompanijama), obavezno spomenite ovo spremište kada to učinite](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumentirajte i javno objavite gdje stvari krenu po zlu s Cloudflareom (i sličnim kompanijama), obavezno spomenite ovo spremište kada to učinite](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Privucite više ljudi koji koriste Tor prema zadanim postavkama kako bi mogli doživjeti internet iz perspektive različitih dijelova svijeta.
 
