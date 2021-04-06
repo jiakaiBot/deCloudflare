@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 איר העלפֿן נאָר פֿירמע צענזור און מאַסע סערוויילאַנס.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 דיין וועב בלאַט איז אין די פּריוואַטקייט-אַביוזינג פּריוואַט וואָלד-גאָרטן פון CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - נעמען עטלעכע מאָל צו לייענען די פּריוואַטקייט פּאָליטיק פון די וועבזייטל.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 איך'ווע לייענען דיין פּריוואַטקייט פּאָליטיק און איך קען נישט געפֿינען די וואָרט קלאָודפלאַרע.
 איך אָפּזאָגן צו טיילן דאַטן מיט איר אויב איר פאָרזעצן צו קאָרמען מיין דאַטן צו Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 דאָס איז אַ ביישפּיל פון פּריוואַטקייט פּאָליטיק וואָס טוט נישט האָבן די וואָרט Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - דערציילן אנדערע אַרום איר וועגן די דיינדזשערז פון קלאָודפלאַרע.
 
-- [העלפֿן פֿאַרבעסערן דעם ריפּאַזאַטאָרי.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [העלפֿן פֿאַרבעסערן דעם ריפּאַזאַטאָרי.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - אי די ליסטעס, די טענות קעגן אים און די פּרטים.
 
-- [דאָקומענטירן און מאַכן זייער עפנטלעך ווו די פאַלש פאַלש מיט Cloudflare (און ענלעך קאָמפּאַניעס) מאַכן זיכער צו דערמאָנען דעם ריפּאַזאַטאָרי ווען איר טאָן דאָס](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [דאָקומענטירן און מאַכן זייער עפנטלעך ווו די פאַלש פאַלש מיט Cloudflare (און ענלעך קאָמפּאַניעס) מאַכן זיכער צו דערמאָנען דעם ריפּאַזאַטאָרי ווען איר טאָן דאָס](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - באַקומען מער מענטשן מיט Tor דורך פעליקייַט, אַזוי זיי קענען דערפאַרונג די וועב פֿון דער פּערספּעקטיוו פון פאַרשידענע טיילן פון דער וועלט.
 
