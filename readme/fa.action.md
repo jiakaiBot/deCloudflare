@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 شما فقط به سانسور شرکت ها و نظارت گسترده کمک می کنید.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 صفحه وب شما در حریم خصوصی سو garden استفاده از باغ دیواری خصوصی CloudFlare است.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - برای مطالعه سیاست حفظ حریم خصوصی وب سایت کمی وقت بگذارید.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 من سیاست حفظ حریم خصوصی شما را خوانده ام و نمی توانم کلمه Cloudflare را پیدا کنم.
 در صورت ادامه دادن به تغذیه داده های من به Cloudflare ، من از اشتراک داده ها با شما امتناع می ورزم.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 این نمونه ای از سیاست حفظ حریم خصوصی است که کلمه Cloudflare را ندارد.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - از خطرات Cloudflare به دیگران در اطراف خود بگویید.
 
-- [به بهبود این مخزن کمک کنید.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [به بهبود این مخزن کمک کنید.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - هم لیست ها ، هم استدلال های ضد آن و هم جزئیات.
 
-- [در مواردی که Cloudflare (و شرکتهای مشابه) به اشتباه پیش می روند را مستند کرده و علنی کنید ، اطمینان حاصل کنید که هنگام انجام این کار ، این مخزن را ذکر کنید](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [در مواردی که Cloudflare (و شرکتهای مشابه) به اشتباه پیش می روند را مستند کرده و علنی کنید ، اطمینان حاصل کنید که هنگام انجام این کار ، این مخزن را ذکر کنید](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - افراد بیشتری را به طور پیش فرض از Tor استفاده کنید تا بتوانند وب را از دیدگاه مناطق مختلف جهان تجربه کنند.
 
