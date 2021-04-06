@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 Ви просто допомагаєте корпоративній цензурі та масовому нагляду.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Ваша веб-сторінка знаходиться в приватному огородженому саду CloudFlare, який порушує конфіденційність.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Витратьте трохи часу, щоб прочитати політику конфіденційності веб-сайту.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Я прочитав вашу політику конфіденційності, і не можу знайти слово Cloudflare.
 Я відмовляюсь ділитися з вами даними, якщо ви продовжуєте передавати мої дані Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Це приклад політики конфіденційності, в якій немає слова Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Розкажіть оточуючим про небезпеку Cloudflare.
 
-- [Допоможіть покращити це сховище.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Допоможіть покращити це сховище.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - І списки, і аргументи проти, і деталі.
 
-- [Документуйте та публікуйте, де щось не вдається з Cloudflare (та подібними компаніями), обов’язково згадавши про це сховище, коли ви це робите](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Документуйте та публікуйте, де щось не вдається з Cloudflare (та подібними компаніями), обов’язково згадавши про це сховище, коли ви це робите](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Залучіть більше людей, які використовують Tor за замовчуванням, щоб вони могли користуватися Інтернетом з точки зору різних частин світу.
 
