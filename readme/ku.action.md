@@ -50,12 +50,12 @@ Pirsgirêkek we heye? [Voicedî dengê xwe bilind bikin.](https://github.com/mar
 
 ```
 Hûn tenê alîkariya sansura pargîdanî û çavdêriya girseyî dikin.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Malpera we di nav baxçeyê dîwarê taybet ê CloudFlare de xespkirina nepenîtiyê ye.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Hinek dem bikişînin ku polîtîkaya nepeniya malperê bixwînin.
@@ -68,7 +68,7 @@ Divê ew rave bike ka "Cloudflare" çi ye, û destûrê bixwaze ku daneyên xwe 
 ```
 Min siyaseta weya nepenîtiyê xwendiye û ez nikarim peyva Cloudflare bibînim.
 Ez berdewam nakim ku daneyên bi we re parve bikim ger hûn berdewam bikin ku daneyên min bidin Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ev mînakek polîtîkaya nepenîtiyê ye ku peyva Cloudflare nîne.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Ji ber vê yekê em tenê maseya jorîn pêşniyar dikin. Tiştek din.
 
 - Li ser xetereyên Cloudflare ji yên dora xwe re vebêjin.
 
-- [Alîkariya baştirkirina vê embarê bikin.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Alîkariya baştirkirina vê embarê bikin.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Hem navnîş, hem argumanên li dijî wê hem jî hûrgulî.
 
-- [Li ku derê bi Cloudflare (û pargîdaniyên wekhev re) xelet diçin bi belge bikin û pir eşkere bikin, dema ku hûn wusa bikin ewle bikin ku hûn behsa vê embarê bikin](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Li ku derê bi Cloudflare (û pargîdaniyên wekhev re) xelet diçin bi belge bikin û pir eşkere bikin, dema ku hûn wusa bikin ewle bikin ku hûn behsa vê embarê bikin](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Zêdetir kes bi default Tor bikar bînin da ku ew bikaribin tevgerê ji perspektîfa deverên cûda yên cîhanê biceribînin.
 
