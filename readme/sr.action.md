@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 Ви само помажете корпоративној цензури и масовном надзору.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Ваша веб страница се налази у приватном ограђеном врту ЦлоудФларе-а који крши приватност.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Одвојите мало времена да прочитате политику приватности веб странице.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Прочитао сам вашу политику приватности и не могу да нађем реч Цлоудфларе.
 Одбијам да делим податке са вама ако наставите да храните моје податке Цлоудфларе-у.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ово је пример политике приватности која нема реч Цлоудфларе.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Реците другима око себе о опасностима Цлоудфларе-а.
 
-- [Помозите да се побољша ово спремиште.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Помозите да се побољша ово спремиште.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - И спискови, аргументи против и детаљи.
 
-- [Документујте и јавно објавите где ствари крену по злу са Цлоудфларе-ом (и сличним компанијама), обавезно помињући ово спремиште када то учините](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Документујте и јавно објавите где ствари крену по злу са Цлоудфларе-ом (и сличним компанијама), обавезно помињући ово спремиште када то учините](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Привуците више људи који користе Тор подразумевано како би могли да доживљавају мрежу из перспективе различитих делова света.
 
