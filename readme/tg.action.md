@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 Шумо танҳо ба сензураи корпоративӣ ва назорати оммавӣ кӯмак мерасонед.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Вебсайти шумо дар боғи хусусии суиистифодаи CloudFlare аст.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Барои хондани сиёсати махфияти вебсайт каме вақт ҷудо кунед.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Ман сиёсати махфияти шуморо хондаам ва калимаи Cloudflare -ро ёфта наметавонам.
 Ман мубодилаи маълумотро бо шумо рад мекунам, агар шумо маълумоти худро ба Cloudflare давом диҳед.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ин намунаи сиёсати махфият мебошад, ки калимаи Cloudflare надорад.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Ба атрофиёни худ дар бораи хатари Cloudflare нақл кунед.
 
-- [Кӯмак ба беҳтар кардани ин анбор.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Кӯмак ба беҳтар кардани ин анбор.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Ҳарду рӯйхат, далелҳои зидди он ва ҷузъиёт.
 
-- [Ҳуҷҷатгузорӣ кунед ва дар ҷойҳое, ки бо Cloudflare (ва ширкатҳои ба он монанд) хатогиҳо рӯй медиҳанд, ба таври оммавӣ нишон диҳед ва боварӣ ҳосил кунед, ки ин анборро ҳангоми ин кор ёдовар шавед](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Ҳуҷҷатгузорӣ кунед ва дар ҷойҳое, ки бо Cloudflare (ва ширкатҳои ба он монанд) хатогиҳо рӯй медиҳанд, ба таври оммавӣ нишон диҳед ва боварӣ ҳосил кунед, ки ин анборро ҳангоми ин кор ёдовар шавед](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Бо нобаёнӣ шумораи бештари одамонро аз Tor истифода баред, то онҳо тавонанд вебро аз нуқтаи назари қисматҳои гуногуни ҷаҳон таҷриба кунанд.
 
