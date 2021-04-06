@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 Βοηθάτε μόνο την εταιρική λογοκρισία και τη μαζική παρακολούθηση.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Η ιστοσελίδα σας βρίσκεται στον ιδιωτικό περιφραγμένο ιδιωτικό κήπο του CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Αφιερώστε λίγο χρόνο για να διαβάσετε την πολιτική απορρήτου του ιστότοπου.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Έχω διαβάσει την πολιτική απορρήτου σας και δεν μπορώ να βρω τη λέξη Cloudflare.
 Αρνούμαι να μοιραστώ δεδομένα μαζί σας εάν συνεχίσετε να τροφοδοτείτε τα δεδομένα μου στο Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Αυτό είναι ένα παράδειγμα πολιτικής απορρήτου που δεν έχει τη λέξη Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Πείτε στους άλλους γύρω σας για τους κινδύνους του Cloudflare.
 
-- [Βοηθήστε στη βελτίωση αυτού του αποθετηρίου.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Βοηθήστε στη βελτίωση αυτού του αποθετηρίου.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Τόσο οι λίστες, τα επιχειρήματα κατά αυτής όσο και οι λεπτομέρειες.
 
-- [Τεκμηρίωση και δημοσίευση σε μεγάλο βαθμό όπου τα πράγματα πάνε στραβά με το Cloudflare (και παρόμοιες εταιρείες), φροντίζοντας να αναφέρετε αυτό το αποθετήριο όταν το κάνετε](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Τεκμηρίωση και δημοσίευση σε μεγάλο βαθμό όπου τα πράγματα πάνε στραβά με το Cloudflare (και παρόμοιες εταιρείες), φροντίζοντας να αναφέρετε αυτό το αποθετήριο όταν το κάνετε](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Προσελκύστε περισσότερα άτομα που χρησιμοποιούν το Tor από προεπιλογή, ώστε να μπορούν να γνωρίσουν τον ιστό από την οπτική γωνία διαφορετικών τμημάτων του κόσμου.
 
