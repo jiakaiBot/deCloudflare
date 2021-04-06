@@ -49,12 +49,12 @@ You have a problem? [Raise your voice now.](https://github.com/maraoz/maraoz.git
 
 ```
 You are just helping corporate censorship and mass surveillance.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Your web page is in the privacy-abusing private walled-garden of CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Take some time to read website's privacy policy.
@@ -67,7 +67,7 @@ It must explain what the "Cloudflare" is, and ask for permission to share your d
 ```
 I've read your privacy policy and I cannot find the word Cloudflare.
 I refuse to share data with you if you continue to feed my data to Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 This is an example of privacy policy which does not have the word Cloudflare.
@@ -256,7 +256,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -411,10 +411,10 @@ Therefore we recommend above table only. Nothing else.
 
 - Tell others around you about the dangers of Cloudflare.
 
-- [Help improve this repository.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Help improve this repository.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Both the lists, the arguments against it and the details.
 
-- [Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention this repository when you do so](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention this repository when you do so](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Get more people using Tor by default so they can experience the web from the perspective of different parts of the world.
 
