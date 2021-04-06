@@ -50,12 +50,12 @@ E i ai sau faʻafitauli? [Siʻi lou leo ​​nei.](https://github.com/maraoz/ma
 
 ```
 O loʻo e fesoasoani i le faʻamaumauga a kamupani ma le tele o le vaʻai.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 O lau 'upega tafaʻilagi o loʻo i totonu o le le faalauaiteleina-faʻaleagaina tumaoti pa puipui-togalaau o CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Faʻaalu sina taimi e faitau ai le 'upega tafaʻilagi tulafono faʻapitoa.
@@ -68,7 +68,7 @@ E tatau ona faʻamatalaina le uiga o le "Cloudflare", ma fesili mo se faʻatagag
 ```
 Ua ou faitauina lau tulafono faʻapitoa ma e le mafai ona ou mauaina le upu Cloudflare.
 Ou te musu e faʻasoa faʻamatalaga ia te oe pe a fai e te fafau pea aʻu faʻamatalaga i Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Lenei o se faʻataʻitaʻiga o le le faalauaiteleina tulafono faʻavae lea e leai se upu Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ O le mea lea matou te fautua atu luga naʻo le laulau. E leai se isi mea
 
 - Taʻu i isi o siomia oe e uiga i le matautia o Cloudflare.
 
-- [Fesoasoani e faʻaleleia lenei fale teu oloa.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Fesoasoani e faʻaleleia lenei fale teu oloa.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - O lisi uma, o finauga faʻasaga ia te ia ma faʻamatalaga.
 
-- [Faʻamaumauga ma faʻalauiloa lautele pe a oʻo ni mea e sese ma Cloudflare (ma kamupani tali tutusa), ia mautinoa e taʻua lenei fale teu oloa pe a e faia.](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Faʻamaumauga ma faʻalauiloa lautele pe a oʻo ni mea e sese ma Cloudflare (ma kamupani tali tutusa), ia mautinoa e taʻua lenei fale teu oloa pe a e faia.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Aumai ni tagata se tele e faʻaaoga le Tor e ala i le le mafai ona latou iloa le upega tafailagi mai le vaaiga o vaega eseese o le lalolagi.
 
