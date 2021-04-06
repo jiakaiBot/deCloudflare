@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 អ្នកកំពុងជួយអ្នកត្រួតពិនិត្យសាជីវកម្មនិងការឃ្លាំមើលដ៏ធំ។
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 គេហទំព័ររបស់អ្នកស្ថិតនៅក្នុងសួនឯកជនរបស់ CloudFlare ដោយរំលោភបំពានឯកជនភាព។
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - ចំណាយពេលខ្លះដើម្បីអានគោលការណ៍ភាពឯកជនរបស់គេហទំព័រ។
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 ខ្ញុំបានអានគោលការណ៍ឯកជនភាពរបស់អ្នកហើយខ្ញុំមិនអាចរកពាក្យ Cloudflare បានទេ។
 ខ្ញុំបដិសេធមិនចែករំលែកទិន្នន័យជាមួយអ្នកទេប្រសិនបើអ្នកបន្តផ្តល់ទិន្នន័យរបស់ខ្ញុំទៅ Cloudflare ។
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 នេះគឺជាឧទាហរណ៍នៃគោលការណ៍ឯកជនដែលមិនមានពាក្យ Cloudflare ។
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ប្រាប់អ្នកផ្សេងទៀតនៅជុំវិញអ្នកអំពីគ្រោះថ្នាក់នៃ Cloudflare ។
 
-- [ជួយកែលម្អឃ្លាំងនេះ។](https://codeberg.org/crimeflare/cloudflare-tor).
+- [ជួយកែលម្អឃ្លាំងនេះ។](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - ទាំងបញ្ជីអាគុយម៉ង់ប្រឆាំងនឹងវានិងព័ត៌មានលម្អិត។
 
-- [ចងក្រងឯកសារនិងផ្សព្វផ្សាយជាសាធារណៈនៅកន្លែងដែលមានបញ្ហាជាមួយ Cloudflare (និងក្រុមហ៊ុនស្រដៀងគ្នា) ត្រូវប្រាកដថានិយាយពីឃ្លាំងនេះពេលអ្នកធ្វើដូច្នេះ](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [ចងក្រងឯកសារនិងផ្សព្វផ្សាយជាសាធារណៈនៅកន្លែងដែលមានបញ្ហាជាមួយ Cloudflare (និងក្រុមហ៊ុនស្រដៀងគ្នា) ត្រូវប្រាកដថានិយាយពីឃ្លាំងនេះពេលអ្នកធ្វើដូច្នេះ](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - ទទួលបានមនុស្សកាន់តែច្រើនដោយប្រើ Tor តាមលំនាំដើមដូច្នេះពួកគេអាចទទួលបានបទពិសោធន៍ពីទស្សនៈពីផ្នែកផ្សេងៗនៃពិភពលោក។
 
