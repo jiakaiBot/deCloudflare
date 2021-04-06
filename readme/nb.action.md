@@ -50,12 +50,12 @@ Du har et problem? [Hev stemmen din nå.](https://github.com/maraoz/maraoz.githu
 
 ```
 Du hjelper bare bedriftens sensur og masseovervåking.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Din webside er i den privatlivsmisbrukende private hagen til CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Ta deg tid til å lese nettstedets personvernregler.
@@ -68,7 +68,7 @@ Den må forklare hva "Cloudflare" er, og be om tillatelse til å dele dataene di
 ```
 Jeg har lest personvernreglene dine, og jeg finner ikke ordet Cloudflare.
 Jeg nekter å dele data med deg hvis du fortsetter å mate dataene mine til Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Dette er et eksempel på personvernregler som ikke har ordet Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Derfor anbefaler vi bare tabellen ovenfor. Ingenting annet.
 
 - Fortell andre rundt deg om farene ved Cloudflare.
 
-- [Bidra til å forbedre dette depotet.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Bidra til å forbedre dette depotet.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Både listene, argumentene mot det og detaljene.
 
-- [Dokumenter og gjør veldig offentlig der det går galt med Cloudflare (og lignende selskaper), og sørg for å nevne dette depotet når du gjør det](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumenter og gjør veldig offentlig der det går galt med Cloudflare (og lignende selskaper), og sørg for å nevne dette depotet når du gjør det](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Få flere som bruker Tor som standard, slik at de kan oppleve nettet fra perspektivet til forskjellige deler av verden.
 
