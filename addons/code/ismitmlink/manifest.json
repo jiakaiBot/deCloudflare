@@ -2,9 +2,9 @@
    "manifest_version": 2,
    "name": "Ĉu ligoj estas vundeblaj al MITM-atako?",
    "description": "Skanu FQDN uzante la API",
-   "version": "1.0.23.3",
-   "homepage_url": "https://sercxi.eu.org/",
-   "author": "Ss",
+   "version": "1.0.23.4",
+   "homepage_url": "http://crimeflare.eu.org/",
+   "author": "Crimeflare #Addon",
    "permissions": [
       "storage",
       "unlimitedStorage",
