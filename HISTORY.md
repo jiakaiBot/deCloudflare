@@ -34,11 +34,11 @@ Here's Cloudflare incidents.
 
 *2021.04.24*
 
-- **Censorship**: Codeberg.org silently deleted `cloudflare-tor` and all related forks from codeberg.org.
+- **Censorship**: Codeberg.org silently deleted `cloudflare-tor` and all related forks from codeberg.org without joining the discussion.
 
 *2021.03.28*
 
-- **Censorship**: Codeberg.org ordered Jeff to delist codeberg.org related lines, yet they failed to mention [which line](https://codeberg.org/crimeflare/cloudflare-tor/issues/15). All codeberg lines are removed for now.
+- **Censorship**: Codeberg.org ordered Jeff to delist codeberg.org related lines, yet they failed to mention which lines are the problem. All codeberg lines are removed for now.
 
 *2020.05.19*
 
