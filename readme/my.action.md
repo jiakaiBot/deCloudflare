@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 သင်ကော်ပိုရိတ်ဆင်ဆာဖြတ်တောက်မှုနှင့်အစုလိုက်အပြုံလိုက်စောင့်ကြည့်ခြင်းကိုသာကူညီနေသည်
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 သင်၏ဝဘ်ဆိုက်သည်ကိုယ်ရေးကိုယ်တာကိုချိုးဖောက်သောပုဂ္ဂလိကပိုင်ခြံရံထားသော CloudFlare တွင်ရှိသည်။
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - ၀ က်ဘ်ဆိုက်၏သီးသန့်တည်ရှိမှုမူဝါဒကိုဖတ်ရန်အချိန်ယူပါ။
@@ -68,7 +68,7 @@ Cloudflare ဆိုသည်မှာမည်သည့်အရာဖြစ်
 ```
 သင်၏ privacy မူဝါဒကိုကျွန်ုပ်ဖတ်ပြီး Cloudflare ဟူသောစကားလုံးကိုကျွန်ုပ်မတွေ့ပါ။
 ကျွန်ုပ်သည်ကျွန်ုပ်၏အချက်အလက်များကို Cloudflare သို့ဆက်လက်ဆက်လက်ပေးပို့မည်ဆိုပါကသင့်အားအချက်အလက်များကိုမျှဝေရန်ကျွန်ုပ်ငြင်းဆိုပါသည်။
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 ဤသည်မှာ Cloudflare ဟူသောစကားလုံးမရှိသောသီးသန့်တည်ရှိမှုမူဝါဒ၏ဥပမာတစ်ခုဖြစ်သည်။
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - သင့်ပတ်ဝန်းကျင်ရှိအခြားသူများအား Cloudflare ၏အန္တရာယ်များအကြောင်းပြောပြပါ။
 
-- [ဒီ repository ကိုတိုးတက်အောင်ကူညီပါ။](https://codeberg.org/crimeflare/cloudflare-tor).
+- [ဒီ repository ကိုတိုးတက်အောင်ကူညီပါ။](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - စာရင်းများ၊ ၎င်းကိုဆန့်ကျင်သောအငြင်းပွားမှုများနှင့်အသေးစိတ်အချက်အလက်နှစ်ခုလုံး။
 
-- [Cloudflare (နှင့်အလားတူကုမ္ပဏီများနှင့်) အရာရာမှားယွင်းသည့်နေရာကိုမှတ်တမ်းတင်ပြီးလူသိရှင်ကြားထုတ်ပြန်ပါ၊ သင်ပြုလုပ်သည့်အခါဤသိုလှောင်ရုံကိုဖော်ပြရန်သေချာစေပါ](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Cloudflare (နှင့်အလားတူကုမ္ပဏီများနှင့်) အရာရာမှားယွင်းသည့်နေရာကိုမှတ်တမ်းတင်ပြီးလူသိရှင်ကြားထုတ်ပြန်ပါ၊ သင်ပြုလုပ်သည့်အခါဤသိုလှောင်ရုံကိုဖော်ပြရန်သေချာစေပါ](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - ပုံမှန်အားဖြင့် Tor ကိုလူအများ အသုံးပြု၍ ပိုများလာစေရန်ကမ္ဘာ၏မတူညီသောရှုထောင့်များမှ web ကိုတွေ့ကြုံခံစားနိုင်မည်။
 
