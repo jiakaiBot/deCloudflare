@@ -139,7 +139,7 @@ html{background:#f3f6fa}div#ha{background:#e4e9f0;position:fixed;top:0;left:0;ri
                   <option value="a"{$ui_sma[1]}>Account</option>
                   </select><br>
                   <br><br>
-                  <label><input type="checkbox" name="cf"{$ui_cfc}> Include <a href="https://codeberg.org/crimeflare/cloudflare-tor" target="_blank">Cloudflared Mastodon</a> servers to search result</label><br>
+                  <label><input type="checkbox" name="cf"{$ui_cfc}> Include <a href="http://crimeflare.eu.org/" target="_blank">Cloudflared Mastodon</a> servers to search result</label><br>
                   <br><br>
                   Limit language code: <input type="text" name="lg" size="4" minlength="2" maxlength="2" value="{$vi_opt_limitlg}">  (e.g <i>de</i>)<br>
                   <br><br>
