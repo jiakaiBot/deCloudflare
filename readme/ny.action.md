@@ -50,12 +50,12 @@ Muli ndi vuto? [Kwezani mawu anu tsopano.](https://github.com/maraoz/maraoz.gith
 
 ```
 Mukungothandiza kuwunika kwamakampani ndikuwunika kwambiri.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Tsamba lanu lili mumunda wachinsinsi wa CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Tengani nthawi kuti muwerenge zinsinsi zachinsinsi patsamba lanu.
@@ -68,7 +68,7 @@ Iyenera kufotokoza kuti "Cloudflare" ndi chiyani, ndikupempha chilolezo kuti mug
 ```
 Ndinawerenga mfundo zanu zachinsinsi ndipo sindinapeze mawu oti Cloudflare.
 Ndikukana kugawana nanu deta mukapitiliza kupereka data yanga ku Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ichi ndi chitsanzo cha mfundo zazinsinsi zomwe zilibe mawu oti Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Chifukwa chake timalimbikitsa pamwambapa tebulo lokha. Palibe china.
 
 - Uzani ena okuzungulirani za kuwopsa kwa Cloudflare.
 
-- [Thandizani kukonza malowa.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Thandizani kukonza malowa.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Mndandanda wonsewo, zotsutsana ndi izi komanso tsatanetsatane.
 
-- [Lembani ndikudziwitsa pagulu pomwe zinthu sizili bwino ndi Cloudflare (ndi makampani ena ofanana), onetsetsani kuti mwatchula malo awa mukamachita izi](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Lembani ndikudziwitsa pagulu pomwe zinthu sizili bwino ndi Cloudflare (ndi makampani ena ofanana), onetsetsani kuti mwatchula malo awa mukamachita izi](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Pezani anthu ambiri ogwiritsa ntchito Tor mwachisawawa kuti athe kuwona intaneti kuchokera kumadera osiyanasiyana padziko lapansi.
 
