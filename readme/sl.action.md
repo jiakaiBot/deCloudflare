@@ -50,12 +50,12 @@ Imate težavo? [Zvišajte svoj glas zdaj.](https://github.com/maraoz/maraoz.gith
 
 ```
 Pomagate samo podjetniški cenzuri in množičnemu nadzoru.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Vaša spletna stran je v zasebnem obzidanem vrtu CloudFlare, ki krši zasebnost.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Vzemite si nekaj časa za branje pravilnika o zasebnosti spletnega mesta.
@@ -68,7 +68,7 @@ Pojasniti mora, kaj je "Cloudflare", in prositi za dovoljenje za skupno rabo va�
 ```
 Prebral sem vašo politiko zasebnosti in ne najdem besede Cloudflare.
 Nočem deliti podatkov z vami, če še naprej pošiljate moje podatke v Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 To je primer politike zasebnosti, ki nima besede Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Zato priporočamo samo zgornjo tabelo. Nič drugega.
 
 - Povejte drugim okoli sebe o nevarnostih Cloudflareja.
 
-- [Pomagajte izboljšati to skladišče.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Pomagajte izboljšati to skladišče.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Tako seznami, argumenti proti temu kot podrobnosti.
 
-- [Dokumentirajte in zelo javno objavite, če gre s Cloudflarejem (in podobnimi podjetji) narobe, pri tem obvezno omenite to skladišče.](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumentirajte in zelo javno objavite, če gre s Cloudflarejem (in podobnimi podjetji) narobe, pri tem obvezno omenite to skladišče.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Naj več ljudi privzeto uporablja Tor, da bodo lahko splet doživljali z vidika različnih delov sveta.
 
