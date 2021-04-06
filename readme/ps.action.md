@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 تاسو یوازې د کارپوریټ سانسور او ډله ایزې څارنې سره مرسته کوئ.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 ستاسو ویب پا pageه د کلاوډ فلایر خصوصي دیوال باغ کې له محرمیت څخه ناوړه ګټه اخیستونکي کې دی.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - د ویب پا'sې د محرمیت تګلاره لوستلو لپاره یو څه وخت ونیسئ.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 ما ستاسو د محرمیت تګلاره لوستې او زه د کلاوډ فلیر ټیم نه شم موندلی.
 زه ستاسو سره د معلوماتو شریکولو څخه انکار کوم که تاسو کلاډ فلیر ته زما ډاټا ته تغذیه کولو ته دوام ورکړئ.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 دا د محرمیت تګلارې یوه بیلګه ده چې د کلاوډ فلیر ټکي نلري.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - خپل شاوخوا نورو ته د کلاوډ فلایر د خطراتو په اړه ووایاست.
 
-- [د دې زېرمو په وده کې مرسته وکړه.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [د دې زېرمو په وده کې مرسته وکړه.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - دواړه لیستونه ، د دې پروړاندې دلیلونه او توضیحات.
 
-- [لاسوند کړئ او خورا عامه کړئ چیرې چې شیان د کلاوډ فلیر (او ورته ورته شرکتونو) سره غلط کیږي ، نو ډاډ ترلاسه کړئ کله چې تاسو د دې ذخیره کولو یادونه وکړئ](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [لاسوند کړئ او خورا عامه کړئ چیرې چې شیان د کلاوډ فلیر (او ورته ورته شرکتونو) سره غلط کیږي ، نو ډاډ ترلاسه کړئ کله چې تاسو د دې ذخیره کولو یادونه وکړئ](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - د ډیفالټ په واسطه د تور کارولو سره ډیر خلک ترلاسه کړئ نو دوی کولی شي ویب د نړۍ مختلف برخو څخه لید تجربه کړي.
 
