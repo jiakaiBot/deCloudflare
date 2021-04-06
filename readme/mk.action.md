@@ -50,12 +50,12 @@
 
 ```
 Вие само помагате во цензурата на компанијата и масовниот надзор.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Вашата веб-страница е во приватна gardenидна градина за злоупотреба на приватноста на CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Одвојте малку време за да ја прочитате политиката за приватност на веб-страницата.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Ја прочитав вашата политика за приватност и не можам да го најдам зборот Cloudflare.
 Одбивам да споделувам податоци со тебе ако продолжиш да ги храниш моите податоци на Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ова е пример за политика за приватност што го нема зборот Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Кажете им на другите околу вас за опасностите од Cloudflare.
 
-- [Помогнете да се подобри ова складиште.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Помогнете да се подобри ова складиште.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - И списоците, аргументите против него и деталите.
 
-- [Документирајте и објавете многу јавно каде работите одат наопаку со Cloudflare (и слични компании), осигурувајќи се да го споменете ова складиште кога ќе го сторите тоа](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Документирајте и објавете многу јавно каде работите одат наопаку со Cloudflare (и слични компании), осигурувајќи се да го споменете ова складиште кога ќе го сторите тоа](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Ставете повеќе луѓе да користат Tor стандардно за да можат да ја доживеат мрежата од перспектива на различни делови на светот.
 
