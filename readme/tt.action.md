@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 Сез корпоратив цензурага һәм массакүләм күзәтүгә булышасыз.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Сезнең веб-битегез CloudFlare шәхси диварлы бакчада.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Вебсайтның хосусыйлык политикасын укыр өчен бераз вакыт алыгыз.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Мин сезнең хосусыйлык политикасын укыдым һәм Cloudflare сүзен таба алмыйм.
 Cloudflare'ка минем мәгълүматны бирүне дәвам итсәгез, мин сезнең белән мәгълүмат бүлешүдән баш тартам.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Бу Cloudflare сүзе булмаган хосусыйлык политикасының мисалы.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Cloudflare куркынычлары турында тирә-юньдәгеләргә сөйләгез.
 
-- [Бу складны яхшыртырга булыш.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Бу складны яхшыртырга булыш.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Исемлекләр дә, аңа каршы аргументлар һәм детальләр.
 
-- [Cloudflare (һәм охшаш компанияләр) белән эш килеп чыкмаган очракта, документлаштырыгыз һәм моны эшләгәндә бу складны искә төшерегез.](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Cloudflare (һәм охшаш компанияләр) белән эш килеп чыкмаган очракта, документлаштырыгыз һәм моны эшләгәндә бу складны искә төшерегез.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Килешү буенча Tor кулланган кешеләрне күбрәк алыгыз, алар дөньяның төрле почмакларыннан вебны татып карый алалар.
 
