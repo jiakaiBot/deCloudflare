@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 আপনি কেবল কর্পোরেট সেন্সরশিপ এবং গণ নজরদারি সহায়তা করছেন।
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 আপনার ওয়েব পৃষ্ঠাটি ক্লাউডফ্লেয়ারের গোপনীয়তা-আপত্তিজনক ব্যক্তিগত প্রাচীর-উদ্যানের মধ্যে রয়েছে।
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - ওয়েবসাইটের গোপনীয়তা নীতি পড়তে কিছুটা সময় নিন।
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 আমি আপনার গোপনীয়তা নীতি পড়েছি এবং ক্লাউডফ্লেয়ার শব্দটি খুঁজে পাচ্ছি না।
 আপনি যদি ক্লাউডফ্লেয়ারে আমার ডেটা ফিড করতে থাকেন তবে আমি আপনার সাথে ডেটা ভাগ করতে অস্বীকার করছি।
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 এটি গোপনীয়তা নীতির উদাহরণ যা ক্লাউডফ্লেয়ার শব্দটি নেই।
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ক্লাউডফ্লেয়ারের বিপদ সম্পর্কে আপনার চারপাশের অন্যদের বলুন।
 
-- [এই সংগ্রহস্থলটি উন্নত করতে সহায়তা করুন।](https://codeberg.org/crimeflare/cloudflare-tor).
+- [এই সংগ্রহস্থলটি উন্নত করতে সহায়তা করুন।](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - উভয় তালিকাগুলি, এর বিরুদ্ধে যুক্তি এবং বিশদ।
 
-- [ক্লাউডফ্লেয়ার (এবং অনুরূপ সংস্থাগুলি) এর সাথে জিনিসগুলি ভুল হয়ে যায় যেখানে নথিটি তৈরি করুন এবং এটি খুব প্রকাশ্যে করুন, যখন আপনি এটি করেন তখন এই সংগ্রহস্থলের উল্লেখ নিশ্চিত করে নিন](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [ক্লাউডফ্লেয়ার (এবং অনুরূপ সংস্থাগুলি) এর সাথে জিনিসগুলি ভুল হয়ে যায় যেখানে নথিটি তৈরি করুন এবং এটি খুব প্রকাশ্যে করুন, যখন আপনি এটি করেন তখন এই সংগ্রহস্থলের উল্লেখ নিশ্চিত করে নিন](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - ডিফল্টরূপে টোর ব্যবহার করে আরও বেশি লোক পান যাতে তারা বিশ্বের বিভিন্ন অংশের দৃষ্টিকোণ থেকে ওয়েবটি অভিজ্ঞতা করতে পারে।
 
