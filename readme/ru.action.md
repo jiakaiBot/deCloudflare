@@ -50,12 +50,12 @@
 
 ```
 Вы просто помогаете корпоративной цензуре и массовой слежке.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Ваша веб-страница находится в частном огороженном саду CloudFlare, нарушающем конфиденциальность.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Найдите время, чтобы прочитать политику конфиденциальности веб-сайта.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Я прочитал вашу политику конфиденциальности и не могу найти слово Cloudflare.
 Я отказываюсь делиться с вами данными, если вы продолжите передавать мои данные в Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Это пример политики конфиденциальности, в которой нет слова Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Расскажите окружающим об опасностях Cloudflare.
 
-- [Помогите улучшить этот репозиторий.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Помогите улучшить этот репозиторий.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - И списки, и аргументы против, и подробности.
 
-- [Документируйте и предавайте гласности, когда что-то идет не так с Cloudflare (и аналогичными компаниями), обязательно упоминая этот репозиторий, когда вы это делаете](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Документируйте и предавайте гласности, когда что-то идет не так с Cloudflare (и аналогичными компаниями), обязательно упоминая этот репозиторий, когда вы это делаете](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - По умолчанию привлекайте больше людей, использующих Tor, чтобы они могли смотреть в Интернет с точки зрения разных частей мира.
 
