@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 Դուք պարզապես օգնում եք կորպորատիվ գրաքննությանը և զանգվածային վերահսկողությանը:
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Ձեր վեբ էջը գտնվում է CloudFlare- ի գաղտնիությունը չարաշահող մասնավոր պարսպապատ պարտեզում:
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Որոշ ժամանակ տրամադրեք ՝ կայքի գաղտնիության քաղաքականությունը կարդալու համար:
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Ես կարդացել եմ ձեր գաղտնիության քաղաքականությունը և չեմ կարող գտնել Cloudflare բառը:
 Ես հրաժարվում եմ ձեզ հետ տվյալների փոխանակումից, եթե շարունակեք իմ տվյալները Cloudflare- ին կերակրել:
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Սա գաղտնիության քաղաքականության օրինակ է, որը չունի Cloudflare բառը:
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Պատմեք Cloudflare- ի վտանգների մասին ձեր շրջապատին:
 
-- [Օգնեք բարելավել այս պահոցը:](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Օգնեք բարելավել այս պահոցը:](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Թե՛ ցուցակները, թե՛ դրա դեմ փաստարկները, թե՛ մանրամասները:
 
-- [Փաստաթղթավորեք և շատ հանրայնացրեք, թե ինչն է սխալ տեղի ունենում Cloudflare- ի (և նմանատիպ ընկերությունների) հետ `անելով դա անպայման նշելով այս պահեստը](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Փաստաթղթավորեք և շատ հանրայնացրեք, թե ինչն է սխալ տեղի ունենում Cloudflare- ի (և նմանատիպ ընկերությունների) հետ `անելով դա անպայման նշելով այս պահեստը](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Լռելյայնորեն օգտագործեք Tor- ից օգտվողներ, որպեսզի նրանք կարողանան համացանց զգալ աշխարհի տարբեր մասերի տեսանկյունից:
 
