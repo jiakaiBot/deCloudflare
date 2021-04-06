@@ -50,12 +50,12 @@ Ni rekomendas vin kontakti la administrantojn por la specifaj servoj aŭ retejoj
 
 ```
 Vi nur helpas kompanian cenzuron kaj neeviteblan gvatadon.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Via retpaĝo estas en la ne-privata murita ĝardeno de CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Prenu iom da tempo por legi la privatecan politikon de retejo.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Mi legis vian privatecan politikon kaj mi ne povas trovi la vorton "Cloudflare".
 Mi rifuzas dividi datumojn kun vi se vi daŭre provizas miajn datumojn al Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ĉi tio estas ekzemplo de privateca politiko, kiu ne havas la vorton "Cloudflare".
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Sekve ni rekomendas nur supre tabelon. Nenio alia.
 
 - Rakontu al aliaj ĉirkaŭ vi pri la danĝeroj de Cloudflare.
 
-- [Helpu plibonigi ĉi tiun deponejon.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Helpu plibonigi ĉi tiun deponejon.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Kaj la listoj, la argumentoj kontraŭ ĝi kaj la detaloj.
 
-- [Dokumentu kaj faru tre publika, kie aferoj fuŝas kun Cloudflare (kaj similaj kompanioj), certigante mencii ĉi tiun deponejon kiam vi faras tion](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumentu kaj faru tre publika, kie aferoj fuŝas kun Cloudflare (kaj similaj kompanioj), certigante mencii ĉi tiun deponejon kiam vi faras tion](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Akiru pli da homoj uzantaj Tor defaŭlte, por ke ili povu sperti la retejon laŭ la perspektivo de diversaj mondopartoj.
 
