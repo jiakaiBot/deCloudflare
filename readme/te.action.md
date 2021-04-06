@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 మీరు కార్పొరేట్ సెన్సార్‌షిప్ మరియు సామూహిక నిఘాకి సహాయం చేస్తున్నారు.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 మీ వెబ్ పేజీ క్లౌడ్‌ఫ్లేర్ యొక్క గోప్యత-దుర్వినియోగ ప్రైవేట్ గోడల తోటలో ఉంది.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - వెబ్‌సైట్ గోప్యతా విధానాన్ని చదవడానికి కొంత సమయం కేటాయించండి.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 నేను మీ గోప్యతా విధానాన్ని చదివాను మరియు క్లౌడ్‌ఫ్లేర్ అనే పదాన్ని నేను కనుగొనలేకపోయాను.
 మీరు నా డేటాను క్లౌడ్‌ఫ్లేర్‌కు తినిపించడం కొనసాగిస్తే మీతో డేటాను పంచుకోవడానికి నేను నిరాకరిస్తున్నాను.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 క్లౌడ్‌ఫ్లేర్ అనే పదం లేని గోప్యతా విధానానికి ఇది ఒక ఉదాహరణ.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - క్లౌడ్‌ఫ్లేర్ ప్రమాదాల గురించి మీ చుట్టూ ఉన్న ఇతరులకు చెప్పండి.
 
-- [ఈ రిపోజిటరీని మెరుగుపరచడంలో సహాయపడండి.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [ఈ రిపోజిటరీని మెరుగుపరచడంలో సహాయపడండి.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - జాబితాలు రెండూ, దానికి వ్యతిరేకంగా వాదనలు మరియు వివరాలు.
 
-- [క్లౌడ్‌ఫ్లేర్ (మరియు ఇలాంటి కంపెనీలు) తో విషయాలు తప్పుగా ఉన్న చోట డాక్యుమెంట్ చేయండి మరియు చాలా పబ్లిక్‌గా చేయండి, మీరు అలా చేసినప్పుడు ఈ రిపోజిటరీ గురించి ప్రస్తావించండి.](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [క్లౌడ్‌ఫ్లేర్ (మరియు ఇలాంటి కంపెనీలు) తో విషయాలు తప్పుగా ఉన్న చోట డాక్యుమెంట్ చేయండి మరియు చాలా పబ్లిక్‌గా చేయండి, మీరు అలా చేసినప్పుడు ఈ రిపోజిటరీ గురించి ప్రస్తావించండి.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - అప్రమేయంగా టోర్ ఉపయోగించి ఎక్కువ మందిని పొందండి, తద్వారా వారు ప్రపంచంలోని వివిధ ప్రాంతాల కోణం నుండి వెబ్‌ను అనుభవించవచ్చు.
 
