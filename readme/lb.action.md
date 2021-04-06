@@ -50,12 +50,12 @@ Dir hutt e Problem? [Héich Är Stëmm elo.](https://github.com/maraoz/maraoz.gi
 
 ```
 Dir hëlleft just Firmenzensur a Massiwwerwaachung.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Är Websäit ass am Privatsphär-mëssbrauchende private Wandgaart vu CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Huelt Iech Zäit fir d'Privatsphärpolitik vun der Websäit ze liesen.
@@ -68,7 +68,7 @@ Et muss erkläre wat de "Cloudflare" ass, a freet no Erlaabnis Är Donnéeën ma
 ```
 Ech hunn Är Privatsphärpolitik gelies an ech kann d'Wuert Cloudflare net fannen.
 Ech refuséieren Daten mat Iech ze teelen wann Dir weider meng Daten u Cloudflare fiddert.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Dëst ass e Beispill vu Privatsphärpolitik déi net d'Wuert Cloudflare huet.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Dofir recommandéiere mir nëmmen uewen Dësch. Näischt anescht.
 
 - Sot anerer ronderëm Iech iwwer d'Gefore vu Cloudflare.
 
-- [Hëlleft dëst Repository ze verbesseren.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Hëlleft dëst Repository ze verbesseren.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Souwuel d'Lëschten, d'Argumenter dogéint an d'Detailer.
 
-- [Dokumentéiert a maacht ganz ëffentlech wou d'Saache mat Cloudflare (an ähnleche Firmen) falsch lafen, a gitt sécher dëst Repository ze ernimmen wann Dir dat maacht](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumentéiert a maacht ganz ëffentlech wou d'Saache mat Cloudflare (an ähnleche Firmen) falsch lafen, a gitt sécher dëst Repository ze ernimmen wann Dir dat maacht](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Kritt méi Leit mat Tor par défaut, fir datt se de Web aus der Perspektiv vu verschiddenen Deeler vun der Welt erliewen.
 
