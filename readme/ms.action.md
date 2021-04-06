@@ -50,12 +50,12 @@ Awak ada masalah? [Tinggikan suara anda sekarang.](https://github.com/maraoz/mar
 
 ```
 Anda hanya membantu penapisan korporat dan pengawasan besar-besaran.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Halaman web anda berada di taman berdinding peribadi CloudFlare yang menyalahgunakan privasi.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Luangkan sedikit masa untuk membaca dasar privasi laman web.
@@ -68,7 +68,7 @@ Ia mesti menjelaskan apa itu "Cloudflare", dan meminta izin untuk berkongsi data
 ```
 Saya telah membaca dasar privasi anda dan saya tidak dapat menemui perkataan Cloudflare.
 Saya enggan berkongsi data dengan anda sekiranya anda terus memasukkan data saya ke Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ini adalah contoh dasar privasi yang tidak mempunyai kata Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Oleh itu, kami mencadangkan jadual di atas sahaja. Tiada lagi.
 
 - Beritahu orang lain di sekeliling anda mengenai bahaya Cloudflare.
 
-- [Bantu memperbaiki repositori ini.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Bantu memperbaiki repositori ini.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Kedua-dua senarai, hujah menentangnya dan perinciannya.
 
-- [Mendokumentasikan dan menjadikannya sangat umum di mana masalah berlaku dengan Cloudflare (dan syarikat serupa), pastikan untuk menyebut repositori ini apabila anda melakukannya](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Mendokumentasikan dan menjadikannya sangat umum di mana masalah berlaku dengan Cloudflare (dan syarikat serupa), pastikan untuk menyebut repositori ini apabila anda melakukannya](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Dapatkan lebih ramai orang menggunakan Tor secara lalai sehingga mereka dapat menjelajahi web dari perspektif bahagian yang berlainan di dunia.
 
