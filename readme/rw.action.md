@@ -50,12 +50,12 @@ Ufite ikibazo? [Zamura ijwi ryawe nonaha.](https://github.com/maraoz/maraoz.gith
 
 ```
 Urimo gufasha gusa kugenzura ibigo no kugenzura imbaga.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Urupapuro rwurubuga rwawe ruri mu buzima-bwihohotera bwihariye bwikingiye-busitani bwa CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Fata umwanya wo gusoma politiki yibanga y'urubuga.
@@ -68,7 +68,7 @@ Igomba gusobanura icyo "Cloudflare" aricyo, kandi igasaba uruhushya rwo gusangir
 ```
 Nasomye politiki yi banga yawe kandi sinshobora kubona ijambo Cloudflare.
 Nanze gusangira nawe amakuru niba ukomeje kugaburira amakuru yanjye kuri Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Uru nurugero rwa politiki yi banga idafite ijambo Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Kubwibyo turasaba hejuru kumeza gusa. Ntakindi.
 
 - Bwira abandi hafi yawe ububi bwa Cloudflare.
 
-- [Fasha kunoza ububiko.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Fasha kunoza ububiko.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Urutonde rwombi, impaka zirwanya nibisobanuro birambuye.
 
-- [Inyandiko kandi utangaze cyane aho ibintu bitagenda neza na Cloudflare (nibindi bigo bisa), urebe neza ko uvuga ububiko iyo ubikoze](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Inyandiko kandi utangaze cyane aho ibintu bitagenda neza na Cloudflare (nibindi bigo bisa), urebe neza ko uvuga ububiko iyo ubikoze](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Shaka abantu benshi bakoresha Tor muburyo busanzwe kugirango bashobore kumenya urubuga uhereye mubice bitandukanye byisi.
 
