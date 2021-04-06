@@ -50,12 +50,12 @@ Une dambudziko? [Simudza izwi rako izvozvi.](https://github.com/maraoz/maraoz.gi
 
 ```
 Iwe uri kungobatsira kubatirira kwekambani uye kuwongorora kwevanhu vazhinji.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Peji rako rewebhu riri mune yekuvanzika-kushungurudza yakavanzika masvingo-gadheni reCloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Tora nguva yekuverenga maitiro epamutemo ewebhusaiti.
@@ -68,7 +68,7 @@ Inofanirwa kutsanangura kuti "Cloudflare" chii, uye ndokumbira mvumo yekugovana 
 ```
 Ndakaverenga rako rekuvanzika uye ini handisi kuwana iro izwi Cloudflare.
 Ini ndinoramba kugovana dhata newe kana ukaramba uchipa data rangu kuCloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Uyu muenzaniso weyakavanzika mutemo iyo isina izwi Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Naizvozvo tinokurudzira pamusoro petafura chete. Hapana chimwe.
 
 - Udza vamwe vakakukomberedza nezve njodzi dzeCloudflare.
 
-- [Batsira kuvandudza iyi repository.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Batsira kuvandudza iyi repository.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Ese ari maviri rondedzero, nharo dzinopesana neiri uye iwo ruzivo
 
-- [Nyora uye ita pachena kwazvo kana zvinhu zvikashata neCloudflare (uye makambani akafanana), kuve nechokwadi chekutaura ichi chinzvimbo kana iwe uchidaro](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Nyora uye ita pachena kwazvo kana zvinhu zvikashata neCloudflare (uye makambani akafanana), kuve nechokwadi chekutaura ichi chinzvimbo kana iwe uchidaro](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Tora vanhu vazhinji vanoshandisa Tor nekukasira kuti vagone kuona webhu kubva pakuona kwenzvimbo dzakasiyana dzenyika.
 
