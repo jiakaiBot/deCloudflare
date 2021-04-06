@@ -3,7 +3,7 @@
 
 How to use json file
 
-1. Download .json files: https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/cloudflare_users/domains
+1. Download .json files: /cloudflare_users/domains
 2. Edit path: "/path/to/jsonfiles/"
 
 */
