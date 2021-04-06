@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 آپ صرف کارپوریٹ سنسرشپ اور بڑے پیمانے پر نگرانی میں مدد کررہے ہیں۔
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 آپ کا ویب صفحہ کلاؤڈ فلایر کے نجی والڈ باغ سے متعلق پرائیویسی کے ساتھ ہے۔
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - ویب سائٹ کی رازداری کی پالیسی کو پڑھنے کے لئے کچھ وقت لگائیں۔
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 میں نے آپ کی رازداری کی پالیسی پڑھی ہے اور مجھے کلاؤڈ فلایر لفظ نہیں مل سکتا ہے۔
 میں آپ کے ساتھ ڈیٹا بانٹنے سے انکار کرتا ہوں اگر آپ میرے ڈیٹا کو کلاؤڈ فلایر پر کھلا رہے ہیں۔
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 یہ رازداری کی پالیسی کی ایک مثال ہے جس میں کلاؤڈ فلایر لفظ نہیں ہے۔
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - اپنے آس پاس کے دوسروں کو کلاؤڈ فلایر کے خطرات کے بارے میں بتائیں۔
 
-- [اس ذخیر improve کو بہتر بنانے میں مدد کریں۔](https://codeberg.org/crimeflare/cloudflare-tor).
+- [اس ذخیر improve کو بہتر بنانے میں مدد کریں۔](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - دونوں فہرستیں ، اس کے خلاف دلائل اور تفصیلات۔
 
-- [جب آپ کلاؤڈ فلائر (اور اسی طرح کی کمپنیاں) کے ساتھ معاملات غلط ہوجاتے ہیں تو دستاویز بنائیں اور بہت عوامی بنائیں ، جب آپ ایسا کرتے ہو تو اس ذخیرے کا ذکر ضرور کریں۔](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [جب آپ کلاؤڈ فلائر (اور اسی طرح کی کمپنیاں) کے ساتھ معاملات غلط ہوجاتے ہیں تو دستاویز بنائیں اور بہت عوامی بنائیں ، جب آپ ایسا کرتے ہو تو اس ذخیرے کا ذکر ضرور کریں۔](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - بطور ڈیفورٹ استعمال کرنے والے زیادہ سے زیادہ افراد کو حاصل کریں تاکہ وہ دنیا کے مختلف حصوں کے نقطہ نظر سے ویب کا تجربہ کرسکیں۔
 
