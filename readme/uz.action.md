@@ -50,12 +50,12 @@ Sizda muammo bormi? [Ovozingizni hozir ko'taring.](https://github.com/maraoz/mar
 
 ```
 Siz shunchaki korporativ tsenzuraga va ommaviy kuzatuvga yordam berasiz.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Sizning veb-sahifangiz CloudFlare-ning maxfiyligini buzadigan shaxsiy devor bog'ida.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Veb-saytning maxfiylik siyosatini o'qish uchun biroz vaqt ajrating.
@@ -68,7 +68,7 @@ Unda "Cloudflare" nima ekanligini tushuntirish va ma'lumotlaringizni Cloudflare 
 ```
 Men sizning maxfiylik siyosatingizni o'qidim va Cloudflare so'zini topa olmayapman.
 Agar siz Cloudflare-ga ma'lumot berishni davom ettirsangiz, men siz bilan ma'lumot almashishdan bosh tortaman.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Bu Cloudflare so'zi bo'lmagan maxfiylik siyosatining namunasidir.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Shuning uchun biz faqat yuqoridagi jadvalni tavsiya qilamiz. Boshqa hech narsa.
 
 - Cloudflare zarari haqida atrofingizdagi boshqalarga ayting.
 
-- [Ushbu omborni yaxshilashga yordam bering.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Ushbu omborni yaxshilashga yordam bering.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Ikkala ro'yxat, unga qarshi dalillar va tafsilotlar.
 
-- [Cloudflare (va shunga o'xshash kompaniyalar) bilan bog'liq muammolar bo'lgan joylarni hujjatlashtiring va ommaga e'lon qiling, buni amalga oshirishda ushbu omborni eslatib qo'ying.](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Cloudflare (va shunga o'xshash kompaniyalar) bilan bog'liq muammolar bo'lgan joylarni hujjatlashtiring va ommaga e'lon qiling, buni amalga oshirishda ushbu omborni eslatib qo'ying.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Odatiy ravishda Tor-dan ko'proq odamlarni jalb qiling, shunda ular vebni dunyoning turli burchaklaridan ko'rishlari mumkin.
 
