@@ -50,12 +50,12 @@ Tev ir problēma? [Tagad paceliet balsi.](https://github.com/maraoz/maraoz.githu
 
 ```
 Jūs vienkārši palīdzat korporatīvajai cenzūrai un masveida uzraudzībai.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Jūsu tīmekļa lapa atrodas CloudFlare privātajā sienu dārzā, kurā tiek ļaunprātīgi izmantota privātums.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Veltiet laiku, lai izlasītu vietnes konfidencialitātes politiku.
@@ -68,7 +68,7 @@ Tajā ir jāpaskaidro, kas ir "Cloudflare", un jāpieprasa atļauja koplietot j�
 ```
 Esmu izlasījis jūsu konfidencialitātes politiku un nevaru atrast vārdu Cloudflare.
 Es atsakos kopīgot datus ar jums, ja turpināsiet manu datu padevi Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Šis ir privātuma politikas piemērs, kurā nav vārda Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Tāpēc mēs iesakām tikai iepriekš minēto tabulu. Nekas cits.
 
 - Pastāstiet citiem apkārtējiem par Cloudflare bīstamību.
 
-- [Palīdziet uzlabot šo krātuvi.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Palīdziet uzlabot šo krātuvi.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Gan saraksti, argumenti pret to, gan detaļas.
 
-- [Dokumentējiet un publiskojiet, kur ar Cloudflare (un līdzīgiem uzņēmumiem) notiek nepareizi, to darot, noteikti miniet šo krātuvi](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumentējiet un publiskojiet, kur ar Cloudflare (un līdzīgiem uzņēmumiem) notiek nepareizi, to darot, noteikti miniet šo krātuvi](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Piesakiet vairāk cilvēku, izmantojot Tor pēc noklusējuma, lai viņi varētu iepazīties ar tīmekli no dažādu pasaules daļu perspektīvas.
 
