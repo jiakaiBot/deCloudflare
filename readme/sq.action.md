@@ -50,12 +50,12 @@ Keni nje problem [Ngrini zërin tani.](https://github.com/maraoz/maraoz.github.i
 
 ```
 Ju thjesht po ndihmoni censurimin e korporatave dhe mbikëqyrjen masive.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Uebfaqja juaj është në kopshtin privat-abuzuar me mure të CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Merrni pak kohë për të lexuar politikën e privatësisë së faqes në internet.
@@ -68,7 +68,7 @@ Ai duhet të shpjegojë se çfarë është "Cloudflare" dhe të kërkojë leje p
 ```
 Unë kam lexuar politikën tuaj të privatësisë dhe nuk mund ta gjej fjalën Cloudflare.
 Unë refuzoj të ndaj të dhëna me ju nëse vazhdoni të ushqeni të dhënat e mia në Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ky është një shembull i politikës së privatësisë që nuk e ka fjalën Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Prandaj ne rekomandojmë vetëm mbi tabelën. Asgje tjeter.
 
 - Tregoni të tjerëve rreth jush për rreziqet e Cloudflare.
 
-- [Ndihmoni në përmirësimin e kësaj depoje.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Ndihmoni në përmirësimin e kësaj depoje.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Të dy listat, argumentet kundër tij dhe detajet.
 
-- [Dokumentoni dhe bëni shumë publik se ku gjërat shkojnë keq me Cloudflare (dhe kompani të ngjashme), duke u siguruar që të përmendni këtë depo kur e bëni këtë](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumentoni dhe bëni shumë publik se ku gjërat shkojnë keq me Cloudflare (dhe kompani të ngjashme), duke u siguruar që të përmendni këtë depo kur e bëni këtë](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Bëni më shumë njerëz që përdorin Tor si parazgjedhje në mënyrë që ata të mund të përjetojnë uebin nga këndvështrimi i pjesëve të ndryshme të botës.
 
