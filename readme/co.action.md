@@ -50,12 +50,12 @@ Avete un prublema? [Alzate a to voce avà.](https://github.com/maraoz/maraoz.git
 
 ```
 Aiutate solu a censura d'impresa è a vigilanza di massa.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 A vostra pagina web hè in u giardinu privatu abusatu di privacy di CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Pigliate un pocu di tempu per leghje a pulitica di privacy di u situ web.
@@ -68,7 +68,7 @@ Deve spiegà ciò chì hè u "Cloudflare", è dumandà l'autorizazione per spart
 ```
 Aghju lettu a vostra pulitica di privacy è ùn possu truvà a parolla Cloudflare.
 Ricusu di sparte dati cun voi se continuate à furnisce i mo dati à Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Questu hè un esempiu di pulitica di privacy chì ùn hà micca a parolla Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Dunque cunsigliemu solu a tavula sopra. Nunda altru.
 
 - Dì à l'altri intornu à voi nantu à i periculi di Cloudflare.
 
-- [Aiutate à migliurà stu repositoriu.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Aiutate à migliurà stu repositoriu.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Sia e liste, l'argumenti contru è i dettagli.
 
-- [Documentate è fate assai publicu induve e cose vanu male cù Cloudflare (è cumpagnie simili), assicurenduvi di menziunà stu repositoriu quandu fate cusì](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Documentate è fate assai publicu induve e cose vanu male cù Cloudflare (è cumpagnie simili), assicurenduvi di menziunà stu repositoriu quandu fate cusì](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Uttenite più persone chì utilizanu Tor per difettu per pudè sperimentà u web da a perspettiva di e diverse parti di u mondu.
 
