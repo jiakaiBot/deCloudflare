@@ -50,12 +50,12 @@ Ertu með vandamál? [Lyftu röddinni núna.](https://github.com/maraoz/maraoz.g
 
 ```
 Þú ert bara að hjálpa til við ritskoðun fyrirtækja og fjöldaeftirlit.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Vefsíðan þín er í persónuverndarmisnotuðum garði CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Taktu þér tíma til að lesa persónuverndarstefnu vefsíðunnar.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Ég hef lesið persónuverndarstefnu þína og ég finn ekki orðið Cloudflare.
 Ég neita að deila gögnum með þér ef þú heldur áfram að færa gögnin mín til Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Þetta er dæmi um persónuverndarstefnu sem hefur ekki orðið Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Við skulum tala um friðhelgi annars hugbúnaðar.
 
 - Segðu öðrum í kringum þig um hættuna sem fylgir Cloudflare.
 
-- [Hjálpaðu til við að bæta þessa geymslu.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Hjálpaðu til við að bæta þessa geymslu.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Bæði listarnir, rökin gegn því og smáatriðin.
 
-- [Skjalaðu og gerðu mjög opinber þar sem hlutirnir fara úrskeiðis með Cloudflare (og svipuð fyrirtæki) og vertu viss um að nefna þessa geymslu þegar þú gerir það](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Skjalaðu og gerðu mjög opinber þar sem hlutirnir fara úrskeiðis með Cloudflare (og svipuð fyrirtæki) og vertu viss um að nefna þessa geymslu þegar þú gerir það](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Fáðu fleiri sem nota Tor sjálfgefið svo þeir geti upplifað vefinn frá sjónarhorni mismunandi heimshluta.
 
