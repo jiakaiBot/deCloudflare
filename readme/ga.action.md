@@ -50,12 +50,12 @@ Tá fadhb agat? [Ardaigh do ghuth anois.](https://github.com/maraoz/maraoz.githu
 
 ```
 Níl tú ach ag cabhrú le cinsireacht chorparáideach agus ollfhaireachas.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Tá do leathanach gréasáin i ngairdín múrtha príobháideach CloudFlare a dhéanann mí-úsáid ar phríobháideacht.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Tóg roinnt ama chun beartas príobháideachta an láithreáin ghréasáin a léamh.
@@ -68,7 +68,7 @@ Caithfidh sé a mhíniú cad é an “Cloudflare”, agus cead a iarraidh chun d
 ```
 Tá do pholasaí príobháideachta léite agam agus ní féidir liom an focal Cloudflare a aimsiú.
 Diúltaím sonraí a roinnt leat má leanann tú ag cur mo chuid sonraí chuig Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Seo sampla de bheartas príobháideachta nach bhfuil an focal Cloudflare ann.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Dá bhrí sin molaimid thuas tábla amháin. Tada eile.
 
 - Inis do dhaoine eile mórthimpeall ort faoi na contúirtí a bhaineann le Cloudflare.
 
-- [Cuidigh leis an stór seo a fheabhsú.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Cuidigh leis an stór seo a fheabhsú.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Tá na liostaí, na hargóintí ina choinne agus na sonraí araon.
 
-- [Déan doiciméadú agus déan an-phoiblí nuair a théann rudaí mícheart le Cloudflare (agus cuideachtaí dá samhail), agus déan cinnte an stór seo a lua nuair a dhéanann tú amhlaidh](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Déan doiciméadú agus déan an-phoiblí nuair a théann rudaí mícheart le Cloudflare (agus cuideachtaí dá samhail), agus déan cinnte an stór seo a lua nuair a dhéanann tú amhlaidh](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Iarr ar níos mó daoine Tor a úsáid de réir réamhshocraithe ionas go mbeidh siad in ann taithí a fháil ar an ngréasán ó pheirspictíocht áiteanna éagsúla ar domhan.
 
