@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 आपण फक्त कॉर्पोरेट सेन्सॉरशिप आणि वस्तुमान देखरेखीसाठी मदत करत आहात.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 आपले वेबपृष्ठ क्लाउडफ्लेअरच्या गोपनीयता-गैरवर्तन खाजगी भिंती-बागेत आहे.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - वेबसाइटचे गोपनीयता धोरण वाचण्यासाठी थोडा वेळ घ्या.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 मी आपले गोपनीयता धोरण वाचले आहे आणि मला क्लाउडफ्लेअर हा शब्द सापडला नाही.
 आपण क्लाऊडफ्लेअरमध्ये माझा डेटा फीड करणे सुरू ठेवल्यास मी आपल्याबरोबर डेटा सामायिक करण्यास नकार देतो.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 हे गोपनीयता धोरणाचे उदाहरण आहे ज्यात क्लाउडफ्लेअर हा शब्द नाही.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - क्लाऊडफ्लेअरच्या धोक्यांविषयी आपल्या सभोवतालच्या इतरांना सांगा.
 
-- [हे भांडार सुधारण्यात मदत करा.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [हे भांडार सुधारण्यात मदत करा.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - दोन्ही याद्या, त्याविरूद्धचे युक्तिवाद आणि तपशील.
 
-- [क्लाउडफ्लेअर (आणि तत्सम कंपन्या) मध्ये ज्या गोष्टी चुकीच्या आहेत तेथे दस्तऐवज बनवा आणि त्यास सार्वजनिक करा, जेव्हा आपण असे करता तेव्हा या रेपॉजिटरीचा उल्लेख करणे सुनिश्चित करा.](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [क्लाउडफ्लेअर (आणि तत्सम कंपन्या) मध्ये ज्या गोष्टी चुकीच्या आहेत तेथे दस्तऐवज बनवा आणि त्यास सार्वजनिक करा, जेव्हा आपण असे करता तेव्हा या रेपॉजिटरीचा उल्लेख करणे सुनिश्चित करा.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - डीफॉल्टनुसार टॉर वापरणारे अधिक लोक मिळवा जेणेकरुन ते जगाच्या विविध भागांच्या दृष्टीकोनातून वेबचा अनुभव घेऊ शकतील.
 
