@@ -50,12 +50,12 @@ Naa kay problema? [Ipataas ang imong tingog karon.](https://github.com/maraoz/ma
 
 ```
 Nagtabang ka lang sa corporate censorship ug mass surveillance.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Ang imong panid sa web naa sa pribasiya nga naka-pader nga tanaman nga adunay pader sa CloudFlare nga nag-abuso sa privacy.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Paggahin pipila ka mga oras sa pagbasa sa palisiya sa pagkapribado sa website.
@@ -68,7 +68,7 @@ Kinahanglan nga ipatin-aw niini kung unsa ang "Cloudflare", ug pagpangayo permis
 ```
 Nabasa ko na ang imong patakaran sa pagkapribado ug dili nako makita ang pulong Cloudflare.
 Nagdumili ako nga ipaambit ang datos kanimo kung magpadayon ka sa pagpakaon sa akong datos sa Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Kini usa ka pananglitan sa patakaran sa pagkapribado nga wala’y pulong Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Tungod niini girekomenda namon sa lamesa ra sa taas. Wala’y lain.
 
 - Sultihi ang uban sa imong palibut bahin sa mga katalagman sa Cloudflare.
 
-- [Tabang nga mapaayo kini nga tipiganan.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Tabang nga mapaayo kini nga tipiganan.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Parehas nga mga lista, mga lantugi kontra niini ug mga detalye.
 
-- [Pagdokumento ug paghimo sa publiko kaayo kung diin ang mga butang sayup sa Cloudflare (ug parehas nga mga kompanya), siguruha nga hisgutan kini nga tipiganan kung buhaton nimo kini](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Pagdokumento ug paghimo sa publiko kaayo kung diin ang mga butang sayup sa Cloudflare (ug parehas nga mga kompanya), siguruha nga hisgutan kini nga tipiganan kung buhaton nimo kini](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Pagdala daghang mga tawo nga naggamit Tor ingon default aron masinati nila ang web gikan sa panan-aw sa lainlaing mga bahin sa kalibutan.
 
