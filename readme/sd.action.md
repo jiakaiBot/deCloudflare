@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 توهان صرف ڪارپوريٽ سينسرشپ ۽ ڪاميٽي نگراني جي مدد ڪري رهيا آهيو.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 توهان جو ويب صفحو CloudFlare جي خانگي ديوتائن واري خانگي رازداري ۾ آهي.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - ويب سائيٽ جي رازداري پاليسي پڙهڻ لاءِ ڪجهه وقت ڪو.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 مون توهان جي پرائيويسي پاليسي پڙهي آهي ۽ مان لفظ Cloudflare ڳولي نه سگهيس.
 آئون توهان سان ڊيٽا شيئر ڪرڻ کان انڪار ڪريان جيڪڏهن توهان منهنجي ڊيٽا کي Cloudflare کي جاري ڪرڻ جاري رکو.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 اهو رازداري پاليسي جو هڪ مثال آهي جنهن ۾ Cloudflare لفظ ناهي.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Cloudflare جي خطرن بابت توهان جي ٻين کي ٻڌاءِ.
 
-- [هن مخزن کي بهتر بنائڻ ۾ مدد ڪريو.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [هن مخزن کي بهتر بنائڻ ۾ مدد ڪريو.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - ٻئي لسٽ ، ان جي خلاف دليل ۽ ان جا تفصيل.
 
-- [دستاويز ڪريو ۽ تمام گهڻو عوام ۾ ٺاهيو جتي جڙيل Cloudflare (۽ ساڳي ئي ڪمپنيون) سان شيون غلط آهن ، انهي بحالي جو ذڪر ڪرڻ](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [دستاويز ڪريو ۽ تمام گهڻو عوام ۾ ٺاهيو جتي جڙيل Cloudflare (۽ ساڳي ئي ڪمپنيون) سان شيون غلط آهن ، انهي بحالي جو ذڪر ڪرڻ](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - عام طور تي Tor کي استعمال ڪندي وڌيڪ ماڻهو حاصل ڪريو جئين اهي دنيا جي مختلف حصن جي نظر کان ويب کي تجربو ڪري سگھن.
 
