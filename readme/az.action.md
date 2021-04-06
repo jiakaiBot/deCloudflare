@@ -50,12 +50,12 @@ Probleminiz var? [Səsini indi qaldır.](https://github.com/maraoz/maraoz.github
 
 ```
 Siz sadəcə şirkət senzurasına və kütləvi nəzarətə kömək edirsiniz.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Veb səhifəniz, CloudFlare-in məxfiliyi sui-istifadə edən xüsusi divarlı bağçasındadır.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Veb saytının məxfilik siyasətini oxumaq üçün bir az vaxt ayırın.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 Məxfilik siyasətinizi oxudum və Cloudflare sözünü tapa bilmirəm.
 Məlumatlarımı Cloudflare-ə qidalandırmağa davam etsəniz, məlumatlarınızı sizinlə bölüşməkdən imtina edirəm.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Bu, Cloudflare sözünün olmayan gizlilik siyasətinin bir nümunəsidir.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Bu səbəbdən yalnız yuxarıdakı cədvəli tövsiyə edirik. Başqa heçnə.
 
 - Ətrafınızdakılara Cloudflare təhlükələri barədə danışın.
 
-- [Bu deposu yaxşılaşdırmağa kömək edin.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Bu deposu yaxşılaşdırmağa kömək edin.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Həm siyahılar, həm ona qarşı olan mübahisələr, həm də detallar.
 
-- [Cloudflare (və bənzər şirkətlər) ilə əlaqəli işlərin səhv olduğu yerləri sənədləşdirin və ictimaiyyətə təqdim edin, bunu etdiyiniz zaman bu deposu qeyd etməyinizə əmin olun](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Cloudflare (və bənzər şirkətlər) ilə əlaqəli işlərin səhv olduğu yerləri sənədləşdirin və ictimaiyyətə təqdim edin, bunu etdiyiniz zaman bu deposu qeyd etməyinizə əmin olun](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Varsayılan olaraq Tor'dan daha çox insanı istifadə edin, beləliklə vebləri dünyanın müxtəlif yerləri baxımından təcrübə edə biləsiniz.
 
