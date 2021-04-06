@@ -42,7 +42,7 @@ There are many ways to detect it:
 - Add-on "[Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md)" will help your Cloudflare collection.
 - Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "_Attention Required! Cloudflare_" or "_Checking your browser_" webpage.
-- Use "Is MITM?" webpage. [Clearnet](https://sercxi.eu.org/ss/tool_qdb.php) / [Tor](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_qdb.php)
+- Use "[Is MITM?](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_qdb.php)" webpage.
 - Search [cloudflare domain list](cloudflare_users/domains/). Karma's ["Find Cloudflare Domains" API](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/api/is_cf.php)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
@@ -236,23 +236,22 @@ Your contribution will be pushed to git automatically within a week.
 </summary>
 
 
-This procedure will give you a stop_cloudflare fork with a privacy-respecting configuration to do pushes with SSH over Tor using `codeberg.org`.
+This procedure will give you a cloudflare-tor fork with a privacy-respecting configuration to do pushes with SSH over Tor using `git.sdf.org`.
 Below procedure is designed for _Linux_.
 The first step covers Windows too, but these instructions probably
 need more adaptations for Windows and other platforms.
 
-**WARNING: Codeberg is blocking some non-temporary email providers**
 
 - Linux: `aptitude install git tor ssh`
 - Windows: Download `PortableGit` from [Github](https://github.com/git-for-windows/) & run `git-bash.exe`
 
 1. Install Git, SSH(Not Windows), and Tor (if you haven't already)
-1. Create a `codeberg.org` account (username "snowden" will be used for this example)
+1. Create a `git.sdf.org` account (username "snowden" will be used for this example)
 1. Create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at git' -f "$HOME"/.ssh/id_rsa_mrsnowden`
 1. Edit `$HOME/.ssh/config`:
 ```
-    host git.fuwafuwa.moe
-         hostname     git.fuwafuwa.moe
+    host git.sdf.org
+         hostname     git.sdf.org
          ForwardX11   no
          ProxyCommand connect -4 -S 127.0.0.1:9050 $(tor-resolve %h 127.0.0.1:9050) %p
     host mrsnowden
@@ -260,18 +259,18 @@ need more adaptations for Windows and other platforms.
 ```
 
 1. copy `"$HOME"/.ssh/id_rsa_mrsnowden.pub` to clipboard
-1. git.fuwafuwa.moe > settings > SSH/GPG Keys > add key (paste from clipboard)
-1. $ `firefox https://codeberg.org/crimeflare/cloudflare-tor`
+1. git.sdf.org > settings > SSH/GPG Keys > add key (paste from clipboard)
+1. $ `firefox https://git.sdf.org/crimeflare/cloudflare-tor`
 1. fork it (top right corner)
 1. go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
-1. anonymously download your fork: $ `git clone git@mrsnowden:you/stop_cloudflare.git`
-1. edit `$project_root/stop_cloudflare/.git/config` to include the account name and email address that will be on every commit, as well as the URL:
+1. anonymously download your fork: $ `git clone git@mrsnowden:you/cloudflare-tor.git`
+1. edit `$project_root/cloudflare-tor/.git/config` to include the account name and email address that will be on every commit, as well as the URL:
 ```
 [user]
         email = noreply@example.com
         name = snowden
 [remote "origin"]
-        url = git@mrsnowden:snowden/stop_cloudflare.git
+        url = git@mrsnowden:snowden/cloudflare-tor.git
      	fetch = +refs/heads/*:refs/remotes/origin/*
 [remote "upstream"]
         url = git@mrsnowden:crimeflare/cloudflare-tor.git
@@ -287,12 +286,12 @@ need more adaptations for Windows and other platforms.
 1. if yes: `$ git add . -u`
 1. $ `git commit -m 'description of first change'`
 1. $ `git push origin master`
-1. $ `firefox https://codeberg.org/crimeflare/cloudflare-tor`
+1. $ `firefox https://git.sdf.org/crimeflare/cloudflare-tor`
 1. make a new pull request
 
 &nbsp;
 
-Whenever git operates on the stop_cloudflare project, all connections
+Whenever git operates on the cloudflare-tor project, all connections
 to git are automatically over Tor with this configuration
 (because the `url` in `.git/config` references the virtual host
 `mrsnowden` in `~/.ssh/config`).
