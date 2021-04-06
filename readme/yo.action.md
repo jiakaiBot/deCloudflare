@@ -50,12 +50,12 @@ A ṣe iṣeduro pe ki o de ọdọ awọn alaṣẹ fun awọn iṣẹ kan pato
 
 ```
 O kan n ṣe iranlọwọ fun ifẹnukonu ile-iṣẹ ati kakiri ibi-aye.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Oju-iwe wẹẹbu rẹ wa ninu ogiri ogiri ti ikọkọ-abusing ti CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Gba akoko lati ka ilana aṣiri aaye ayelujara.
@@ -68,7 +68,7 @@ O gbọdọ ṣalaye kini “Cloudflare” jẹ, ki o beere fun igbanilaaye lati
 ```
 Mo ti ka eto imulo ipamọ rẹ ati pe Emi ko le rii ọrọ Cloudflare.
 Mo kọ lati pin data pẹlu rẹ ti o ba tẹsiwaju lati ṣe ifunni data mi si Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Eyi jẹ apẹẹrẹ ti eto imulo ipamọ eyiti ko ni ọrọ Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Nitorina a ṣe iṣeduro loke tabili nikan. Ko si nkankan mo.
 
 - Sọ fun awọn miiran ni ayika rẹ nipa awọn eewu Cloudflare.
 
-- [Ṣe iranlọwọ imudarasi ibi ipamọ yii.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Ṣe iranlọwọ imudarasi ibi ipamọ yii.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Mejeeji awọn atokọ, awọn ariyanjiyan lodi si rẹ ati awọn alaye.
 
-- [Iwe ati ṣe gbangba pupọ nibiti awọn nkan ṣe aṣiṣe pẹlu Cloudflare (ati awọn ile-iṣẹ iru), rii daju lati darukọ ibi ipamọ yii nigbati o ba ṣe bẹ](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Iwe ati ṣe gbangba pupọ nibiti awọn nkan ṣe aṣiṣe pẹlu Cloudflare (ati awọn ile-iṣẹ iru), rii daju lati darukọ ibi ipamọ yii nigbati o ba ṣe bẹ](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Gba awọn eniyan diẹ sii nipa lilo Tor ni aiyipada ki wọn le ni iriri oju opo wẹẹbu lati oju-iwoye ti awọn ẹya oriṣiriṣi agbaye.
 
