@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 ਤੁਸੀਂ ਸਿਰਫ ਕਾਰਪੋਰੇਟ ਸੈਂਸਰਸ਼ਿਪ ਅਤੇ ਜਨਤਕ ਨਿਗਰਾਨੀ ਦੀ ਸਹਾਇਤਾ ਕਰ ਰਹੇ ਹੋ.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 ਤੁਹਾਡਾ ਵੈੱਬ ਪੇਜ ਕਲਾਉਡਫਲੇਅਰ ਦੇ ਗੋਪਨੀਯਤਾ-ਦੁਰਵਿਵਹਾਰ ਵਾਲੇ ਨਿਜੀ ਕੰਧ-ਬਾਗ ਵਿੱਚ ਹੈ.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - ਵੈਬਸਾਈਟ ਦੀ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਨੂੰ ਪੜ੍ਹਨ ਲਈ ਕੁਝ ਸਮਾਂ ਲਓ.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 ਮੈਂ ਤੁਹਾਡੀ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਨੂੰ ਪੜ ਲਿਆ ਹੈ ਅਤੇ ਮੈਨੂੰ ਕਲਾਉਡਫਲੇਅਰ ਸ਼ਬਦ ਨਹੀਂ ਮਿਲ ਰਿਹਾ.
 ਮੈਂ ਤੁਹਾਡੇ ਨਾਲ ਡਾਟਾ ਸਾਂਝਾ ਕਰਨ ਤੋਂ ਇਨਕਾਰ ਕਰਦਾ ਹਾਂ ਜੇ ਤੁਸੀਂ ਕਲਾਉਡਫਲੇਅਰ ਨੂੰ ਮੇਰੇ ਡੇਟਾ ਨੂੰ ਖੁਆਉਣਾ ਜਾਰੀ ਰੱਖਦੇ ਹੋ.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 ਇਹ ਗੋਪਨੀਯਤਾ ਨੀਤੀ ਦੀ ਇੱਕ ਉਦਾਹਰਣ ਹੈ ਜਿਸ ਵਿੱਚ ਕਲਾਉਡਫਲੇਅਰ ਸ਼ਬਦ ਨਹੀਂ ਹੈ.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ਆਪਣੇ ਆਸ ਪਾਸ ਦੇ ਦੂਜਿਆਂ ਨੂੰ ਕਲਾਉਡਫਲੇਅਰ ਦੇ ਖ਼ਤਰਿਆਂ ਬਾਰੇ ਦੱਸੋ.
 
-- [ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਸੁਧਾਰਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰੋ.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਨੂੰ ਸੁਧਾਰਨ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰੋ.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - ਦੋਵੇਂ ਸੂਚੀਆਂ, ਇਸਦੇ ਵਿਰੁੱਧ ਦਲੀਲਾਂ ਅਤੇ ਵੇਰਵੇ.
 
-- [ਦਸਤਾਵੇਜ਼ ਬਣਾਓ ਅਤੇ ਬਹੁਤ ਜਨਤਕ ਬਣਾਓ ਜਿੱਥੇ ਕਲਾਉਡਫਲੇਅਰ (ਅਤੇ ਸਮਾਨ ਕੰਪਨੀਆਂ) ਨਾਲ ਚੀਜ਼ਾਂ ਗਲਤ ਹੋ ਜਾਂਦੀਆਂ ਹਨ, ਜਦੋਂ ਤੁਸੀਂ ਅਜਿਹਾ ਕਰਦੇ ਹੋ ਤਾਂ ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਦਾ ਜ਼ਿਕਰ ਜ਼ਰੂਰ ਕਰਨਾ](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [ਦਸਤਾਵੇਜ਼ ਬਣਾਓ ਅਤੇ ਬਹੁਤ ਜਨਤਕ ਬਣਾਓ ਜਿੱਥੇ ਕਲਾਉਡਫਲੇਅਰ (ਅਤੇ ਸਮਾਨ ਕੰਪਨੀਆਂ) ਨਾਲ ਚੀਜ਼ਾਂ ਗਲਤ ਹੋ ਜਾਂਦੀਆਂ ਹਨ, ਜਦੋਂ ਤੁਸੀਂ ਅਜਿਹਾ ਕਰਦੇ ਹੋ ਤਾਂ ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਦਾ ਜ਼ਿਕਰ ਜ਼ਰੂਰ ਕਰਨਾ](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - ਮੂਲ ਰੂਪ ਵਿੱਚ ਟੋਰ ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋਏ ਵਧੇਰੇ ਲੋਕਾਂ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰੋ ਤਾਂ ਜੋ ਉਹ ਦੁਨੀਆ ਦੇ ਵੱਖ ਵੱਖ ਹਿੱਸਿਆਂ ਦੇ ਦ੍ਰਿਸ਼ਟੀਕੋਣ ਤੋਂ ਵੈੱਬ ਦਾ ਅਨੁਭਵ ਕਰ ਸਕਣ.
 
