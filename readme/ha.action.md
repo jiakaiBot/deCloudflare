@@ -50,12 +50,12 @@ Kuna da matsala? [Tada muryarka yanzu.](https://github.com/maraoz/maraoz.github.
 
 ```
 Kuna kawai taimaka wa takunkumi na kamfanoni da sa ido sosai.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Gidan yanar gizonku yana cikin lambun sirri na sirri na CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Takeauki lokaci don karanta tsarin tsare sirri na gidan yanar gizo.
@@ -68,7 +68,7 @@ Dole ne ya bayyana menene "Cloudflare", kuma ya nemi izini don raba bayananku ta
 ```
 Na karanta manufofinku na sirri kuma ban sami kalmar Cloudflare ba.
 Na ƙi in raba muku bayanai idan kun ci gaba da ciyar da bayanan na zuwa Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Wannan misali ne na tsarin tsare sirri wanda bashi da kalmar Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Saboda haka muna bada shawarar sama da tebur kawai. Babu wani abu kuma.
 
 - Faɗa wa wasu da ke kusa da ku game da haɗarin Cloudflare.
 
-- [Taimaka inganta wannan ma'ajiyar.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Taimaka inganta wannan ma'ajiyar.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Dukansu jerin sunayen, muhawara game da shi da cikakkun bayanai.
 
-- [Yi rubutu da bayyana jama'a inda abubuwa ke tafiya ba daidai ba tare da Cloudflare (da kamfanoni makamantan su), tabbatar da ambaton wannan ma'ajiyar lokacin da kuke yin hakan](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Yi rubutu da bayyana jama'a inda abubuwa ke tafiya ba daidai ba tare da Cloudflare (da kamfanoni makamantan su), tabbatar da ambaton wannan ma'ajiyar lokacin da kuke yin hakan](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Ara mutane da yawa suna amfani da Tor ta tsohuwa don haka za su iya sanin yanar gizo ta mahangar ɓangarorin duniya daban-daban.
 
