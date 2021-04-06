@@ -205,7 +205,7 @@ http://lists.clamav.net/pipermail/clamav-users/2018-November/thread.html
 ### Previous 
 
 
-This project was started by Shiro (@shiromarieke@twitter) and CryptoParty Berlin ([@cryptopartybln](https://twitter.com/CryptoPartyBER)).
+This project was started by Marie Gutbub (Shiro) ([@shiromarieke](https://twitter.com/shiromarieke)) and CryptoParty Berlin ([@cryptopartybln](https://twitter.com/CryptoPartyBER)).
 
 Shiro handed over support to the greater internet in summer 2016.
 
@@ -213,7 +213,7 @@ Shiro handed over support to the greater internet in summer 2016.
 It was a text list on okfn.org text pad: (https://pad.okfn.org/p/cloudflare-tor and https://pad.okfn.org/p/noncloudflare-torblocks)
 
 
-However it was pointed out that this website itself was on cloudflare, and cloudflare actively blocked Tor users to access it.
+However it was pointed out that this website itself was on Cloudflare, and cloudflare actively blocked Tor users to access it.
 
 
 So it was moved to systemli.org : ( https://pad.systemli.org/p/noncloudflare-torblocks )
