@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 እርስዎ የድርጅት ሳንሱር እና የጅምላ ቁጥጥርን ብቻ እየረዱ ነው።
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 የእርስዎ ድረ-ገጽ በግላዊነት-አላግባብ የግል ግድግዳ-ደመናው የአትክልት ስፍራ ውስጥ ነው CloudFlare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - የድር ጣቢያውን የግላዊነት ፖሊሲ ለማንበብ ትንሽ ጊዜ ይውሰዱ።
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 የግላዊነት ፖሊሲዎን አንብቤያለሁ እና Cloudflare የሚለውን ቃል ማግኘት አልቻልኩም ፡፡
 የእኔን ውሂብ ወደ Cloudflare መመገብዎን ከቀጠሉ ከእርስዎ ጋር መረጃን ለማጋራት እምቢ አለኝ።
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 ይህ Cloudflare የሚል ቃል የሌለበት የግላዊነት ፖሊሲ ምሳሌ ነው።
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ስለ Cloudflare አደጋዎች በአካባቢዎ ላሉት ሌሎች ይንገሩ።
 
-- [ይህንን ማከማቻ ለማሻሻል ይረዱ።](https://codeberg.org/crimeflare/cloudflare-tor).
+- [ይህንን ማከማቻ ለማሻሻል ይረዱ።](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - ሁለቱም ዝርዝሮች ፣ በእሱ ላይ የሚነሱ ክርክሮች እና ዝርዝሮች ፡፡
 
-- [ነገሮች በ Cloudflare (እና በተመሳሳይ ኩባንያዎች) ላይ ስህተት በሚሆኑበት ቦታ ሰነድ ይስጡ እና በጣም ይፋ ያድርጉ ፣ ይህን ሲያደርጉ ይህን ማከማቻ መጠቀሱን ያረጋግጡ ፡፡](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [ነገሮች በ Cloudflare (እና በተመሳሳይ ኩባንያዎች) ላይ ስህተት በሚሆኑበት ቦታ ሰነድ ይስጡ እና በጣም ይፋ ያድርጉ ፣ ይህን ሲያደርጉ ይህን ማከማቻ መጠቀሱን ያረጋግጡ ፡፡](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - ከተለያዩ የዓለም ክፍሎች እይታ ድሩን እንዲለማመዱ በነባሪነት ቶርን የሚጠቀሙ ብዙ ሰዎችን ያግኙ።
 
