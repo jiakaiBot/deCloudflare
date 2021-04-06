@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 ನೀವು ಕೇವಲ ಕಾರ್ಪೊರೇಟ್ ಸೆನ್ಸಾರ್ಶಿಪ್ ಮತ್ತು ಸಾಮೂಹಿಕ ಕಣ್ಗಾವಲುಗೆ ಸಹಾಯ ಮಾಡುತ್ತಿದ್ದೀರಿ.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 ನಿಮ್ಮ ವೆಬ್ ಪುಟವು ಕ್ಲೌಡ್‌ಫ್ಲೇರ್‌ನ ಗೌಪ್ಯತೆ-ನಿಂದನೆ ಖಾಸಗಿ ಗೋಡೆಯ ಉದ್ಯಾನದಲ್ಲಿದೆ.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - ವೆಬ್‌ಸೈಟ್‌ನ ಗೌಪ್ಯತೆ ನೀತಿಯನ್ನು ಓದಲು ಸ್ವಲ್ಪ ಸಮಯ ತೆಗೆದುಕೊಳ್ಳಿ.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 ನಾನು ನಿಮ್ಮ ಗೌಪ್ಯತೆ ನೀತಿಯನ್ನು ಓದಿದ್ದೇನೆ ಮತ್ತು ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಪದವನ್ನು ನಾನು ಕಂಡುಹಿಡಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ.
 ನೀವು ನನ್ನ ಡೇಟಾವನ್ನು ಕ್ಲೌಡ್‌ಫ್ಲೇರ್‌ಗೆ ನೀಡುವುದನ್ನು ಮುಂದುವರಿಸಿದರೆ ನಿಮ್ಮೊಂದಿಗೆ ಡೇಟಾವನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ನಾನು ನಿರಾಕರಿಸುತ್ತೇನೆ.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 ಇದು ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಪದವನ್ನು ಹೊಂದಿರದ ಗೌಪ್ಯತೆ ನೀತಿಯ ಉದಾಹರಣೆಯಾಗಿದೆ.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ಕ್ಲೌಡ್‌ಫ್ಲೇರ್‌ನ ಅಪಾಯಗಳ ಬಗ್ಗೆ ನಿಮ್ಮ ಸುತ್ತಲಿರುವ ಇತರರಿಗೆ ಹೇಳಿ.
 
-- [ಈ ಭಂಡಾರವನ್ನು ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡಿ.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [ಈ ಭಂಡಾರವನ್ನು ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡಿ.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - ಎರಡೂ ಪಟ್ಟಿಗಳು, ಅದರ ವಿರುದ್ಧದ ವಾದಗಳು ಮತ್ತು ವಿವರಗಳು.
 
-- [ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ (ಮತ್ತು ಅಂತಹುದೇ ಕಂಪನಿಗಳು) ನಲ್ಲಿ ತಪ್ಪುಗಳು ಸಂಭವಿಸಿದಲ್ಲಿ ಡಾಕ್ಯುಮೆಂಟ್ ಮಾಡಿ ಮತ್ತು ಸಾರ್ವಜನಿಕಗೊಳಿಸಿ, ನೀವು ಹಾಗೆ ಮಾಡಿದಾಗ ಈ ಭಂಡಾರವನ್ನು ನಮೂದಿಸುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ (ಮತ್ತು ಅಂತಹುದೇ ಕಂಪನಿಗಳು) ನಲ್ಲಿ ತಪ್ಪುಗಳು ಸಂಭವಿಸಿದಲ್ಲಿ ಡಾಕ್ಯುಮೆಂಟ್ ಮಾಡಿ ಮತ್ತು ಸಾರ್ವಜನಿಕಗೊಳಿಸಿ, ನೀವು ಹಾಗೆ ಮಾಡಿದಾಗ ಈ ಭಂಡಾರವನ್ನು ನಮೂದಿಸುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ಟಾರ್ ಅನ್ನು ಬಳಸುವ ಹೆಚ್ಚಿನ ಜನರನ್ನು ಪಡೆಯಿರಿ ಇದರಿಂದ ಅವರು ವೆಬ್ ಅನ್ನು ವಿಶ್ವದ ವಿವಿಧ ಭಾಗಗಳ ದೃಷ್ಟಿಕೋನದಿಂದ ಅನುಭವಿಸಬಹುದು.
 
