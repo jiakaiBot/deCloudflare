@@ -50,12 +50,12 @@ Anda punya masalah? [Angkat suara Anda sekarang.](https://github.com/maraoz/mara
 
 ```
 Anda hanya membantu sensor perusahaan dan pengawasan massal.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 Halaman web Anda berada di taman pribadi berdinding CloudFlare yang menyalahgunakan privasi.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - Luangkan waktu untuk membaca kebijakan privasi situs web.
@@ -68,7 +68,7 @@ Itu harus menjelaskan apa itu "Cloudflare", dan meminta izin untuk membagikan da
 ```
 Saya telah membaca kebijakan privasi Anda dan saya tidak dapat menemukan kata Cloudflare.
 Saya menolak untuk berbagi data dengan Anda jika Anda terus memberikan data saya ke Cloudflare.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 Ini adalah contoh kebijakan privasi yang tidak memiliki kata Cloudflare.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Oleh karena itu kami merekomendasikan tabel di atas saja. Tidak ada lagi.
 
 - Beri tahu orang lain di sekitar Anda tentang bahaya Cloudflare.
 
-- [Bantu perbaiki repositori ini.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [Bantu perbaiki repositori ini.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - Baik daftar, argumen yang menentangnya, dan detailnya.
 
-- [Dokumentasikan dan publikasikan di mana ada yang salah dengan Cloudflare (dan perusahaan serupa), pastikan untuk menyebutkan repositori ini ketika Anda melakukannya](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [Dokumentasikan dan publikasikan di mana ada yang salah dengan Cloudflare (dan perusahaan serupa), pastikan untuk menyebutkan repositori ini ketika Anda melakukannya](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - Buat lebih banyak orang menggunakan Tor secara default sehingga mereka dapat merasakan web dari sudut pandang berbagai belahan dunia.
 
