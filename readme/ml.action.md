@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 നിങ്ങൾ കോർപ്പറേറ്റ് സെൻസർഷിപ്പിനെയും ബഹുജന നിരീക്ഷണത്തെയും സഹായിക്കുന്നു.
-https://codeberg.org/crimeflare/cloudflare-tor/src/branch/master/README.md
+https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
 ```
 
 ```
 നിങ്ങളുടെ വെബ് പേജ് ക്ലൗഡ്ഫ്ലെയറിന്റെ സ്വകാര്യത ദുരുപയോഗം ചെയ്യുന്ന സ്വകാര്യ മതിൽത്തോട്ടത്തിലാണ്.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 - വെബ്‌സൈറ്റിന്റെ സ്വകാര്യതാ നയം വായിക്കാൻ കുറച്ച് സമയമെടുക്കുക.
@@ -68,7 +68,7 @@ https://codeberg.org/crimeflare/cloudflare-tor/
 ```
 നിങ്ങളുടെ സ്വകാര്യതാ നയം ഞാൻ വായിച്ചിട്ടുണ്ട്, എനിക്ക് ക്ലൗഡ്ഫ്ലെയർ എന്ന പദം കണ്ടെത്താൻ കഴിയില്ല.
 നിങ്ങൾ എന്റെ ഡാറ്റ ക്ലൗഡ്ഫ്ലേറിലേക്ക് നൽകുന്നത് തുടർന്നാൽ നിങ്ങളുമായി ഡാറ്റ പങ്കിടാൻ ഞാൻ വിസമ്മതിക്കുന്നു.
-https://codeberg.org/crimeflare/cloudflare-tor/
+https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 
 ക്ലൗഡ്ഫ്ലെയർ എന്ന വാക്ക് ഇല്ലാത്ത സ്വകാര്യതാ നയത്തിന്റെ ഉദാഹരണമാണിത്.
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://codeberg.org/crimeflare/cloudflare-tor for more information.<br />
+Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ക്ലൗഡ്ഫ്ലേറിന്റെ അപകടങ്ങളെക്കുറിച്ച് നിങ്ങളുടെ ചുറ്റുമുള്ള മറ്റുള്ളവരോട് പറയുക.
 
-- [ഈ ശേഖരം മെച്ചപ്പെടുത്താൻ സഹായിക്കുക.](https://codeberg.org/crimeflare/cloudflare-tor).
+- [ഈ ശേഖരം മെച്ചപ്പെടുത്താൻ സഹായിക്കുക.](https://git.sdf.org/deCloudflare/cloudflare-tor).
   - രണ്ട് ലിസ്റ്റുകളും അതിനെതിരായ വാദങ്ങളും വിശദാംശങ്ങളും.
 
-- [ക്ലൗഡ്ഫ്ലേറിൽ (സമാനമായ കമ്പനികൾ) തെറ്റുകൾ സംഭവിക്കുന്നിടത്ത് ഡോക്യുമെന്റ് ചെയ്യുകയും വളരെ പരസ്യമാക്കുകയും ചെയ്യുക, നിങ്ങൾ അങ്ങനെ ചെയ്യുമ്പോൾ ഈ ശേഖരം പരാമർശിക്കുന്നത് ഉറപ്പാക്കുക](https://codeberg.org/crimeflare/cloudflare-tor) :)
+- [ക്ലൗഡ്ഫ്ലേറിൽ (സമാനമായ കമ്പനികൾ) തെറ്റുകൾ സംഭവിക്കുന്നിടത്ത് ഡോക്യുമെന്റ് ചെയ്യുകയും വളരെ പരസ്യമാക്കുകയും ചെയ്യുക, നിങ്ങൾ അങ്ങനെ ചെയ്യുമ്പോൾ ഈ ശേഖരം പരാമർശിക്കുന്നത് ഉറപ്പാക്കുക](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
 
 - സ്ഥിരമായി ടോർ ഉപയോഗിക്കുന്ന കൂടുതൽ ആളുകളെ നേടുക, അതുവഴി അവർക്ക് ലോകത്തിന്റെ വിവിധ ഭാഗങ്ങളിൽ നിന്ന് വെബ് അനുഭവിക്കാൻ കഴിയും.
 
