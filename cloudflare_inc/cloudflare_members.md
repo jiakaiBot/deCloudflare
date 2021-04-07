@@ -1,7 +1,6 @@
 # Cloudflare Members
 
 
-
 ## Founder, Director
 
 | Name | Title | Else |
@@ -15,7 +14,6 @@
 | Michelle Zatlyn | founder | https://twitter.com/zatlyn<br>https://www.linkedin.com/in/michellezatlyn |
 | Scott Sandell | New Enterprise Associates |  |
 | Stan Meresman | Partner | https://www.linkedin.com/in/stanmeresman<br>stan@meresman.com<br>http://meresman.com/ |
-
 
 
 ## Employee
@@ -79,6 +77,7 @@
 | Alexander Huynh | Systems Reliability Engineer | alex@xn--bj8h.mp |
 | Alexander Palaistras | Systems Engineer |  |
 | Alexandra Logan | Customer Development |  |
+| Alexandra Modiana | Employee |  |
 | Algin Martin | Technical Support Engineer |  |
 | Alice Yang | Employee |  |
 | Alison Baum | Special Projects |  |
@@ -164,6 +163,7 @@
 | Arman Rye | Solutions Engineer |  |
 | Armando Faz | Cryptography Engineer | https://twitter.com/armfazh<br>armfazh@cloudflare.com |
 | Arthur Fabre | Systems Engineer |  |
+| Arun Rex | Employee |  |
 | Arvind Singh | Global Sales Enablement |  |
 | Arwa Ginwala | Solutions Engineer |  |
 | Ash DSouza | Strategy and Operations |  |
@@ -332,6 +332,7 @@
 | Daniella Vallurupalli | Communications | daniella@cloudflare.com<br>https://twitter.com/BellaTweetz |
 | Danielle Vanzura | Employee |  |
 | Dao Quang Minh | Employee |  |
+| Darth SriBear | Employee |  |
 | Darwin D. Wu | Employee |  |
 | Dastagiri Reddy | Data Engineer |  |
 | Dave Jewell | Employee |  |
@@ -367,6 +368,7 @@
 | Devin Davis | Employee |  |
 | Devin Miller | IT Support Technician |  |
 | Devin Shim | Marketing Intern |  |
+| Dharani Teja | Employee |  |
 | Dian Yu | Legal Counsel | http://opendatany.com/attorney.php?id=5442678 |
 | Diana Fu | Employee |  |
 | Diane Tran | IT Support Engineer |  |
@@ -382,6 +384,7 @@
 | Don Choo | Relationship Manager |  |
 | Donald Endres | Systems Reliability Engineer |  |
 | Donald Lew | Employee |  |
+| Doria Eve | Employee |  |
 | Douglas Anwar | Web Security |  |
 | Douglas Kramer | General Counsel |  |
 | Dragos Bogdan | Product Marketing Manager |  |
@@ -395,6 +398,8 @@
 | Edith Germer | Business Development |  |
 | Edo Royker | Employee |  |
 | Edward Palmer | IT Services Analyst |  |
+| Ee Ping | Employee |  |
+| Ekaterina Alexandrovna | Employee |  |
 | Elijah Velasquez | Business Development |  |
 | Elina Todorov | Global Sales Strategy |  |
 | Elisa L. Durrette | Legal-Commercial Transactions |  |
@@ -441,9 +446,11 @@
 | Frieda Strachan | Team Coordinator |  |
 | Fu Jia | Relationship Manager |  |
 | Furkan Yilmaz | Web Engineer |  |
+| Ga sil | Employee |  |
 | Gabriel da Silva | Employee |  |
 | Gabriela Alexandra Moldovan | Employee |  |
 | Gabriele (Gabbi) Fisher | Systems Engineer, Crypto Team |  |
+| Gagan Kumar | Employee |  |
 | Garret Brown | Technical Support Engineer |  |
 | Garrett Galow | Product |  |
 | Gaurav Malik | Employee |  |
@@ -472,6 +479,7 @@
 | Guanlan Dai | Systems Engineer |  |
 | Gui Alencar | Solutions Engineer LATAM |  |
 | Guido Jiménez | Plumbing Automation |  |
+| Gurjinder Singh | Employee |  |
 | Gwyneth Jones | Team Coordinator |  |
 | Hady Mendez | Employee |  |
 | Halley Kish | Customer Success Manager |  |
@@ -515,6 +523,7 @@
 | Ivan Balepin | Systems Engineer |  |
 | Ivan Chin | Customer Development, Singapore |  |
 | Ivan Nikulin | Employee |  |
+| J Salvador | Employee |  |
 | JC Smith | Engineering Manager |  |
 | JC Whitney | Employee |  |
 | Jack Melnicoff | Enterprise Field Sales |  |
@@ -600,6 +609,7 @@
 | Jessica Iyer | Business Development |  |
 | Jessica Rosenberg | Marketing Design | jessicarosenb@gmail.com<br>https://twitter.com/jessperate<br>http://www.hellomynameisjess.com/<br>https://www.facebook.com/4800723<br>https://medium.com/@jessperate<br>https://www.linkedin.com/in/jessicarosenb |
 | Jiale Zhi | Systems Engineer |  |
+| Jianyi Kenny | Employee |  |
 | Jill Lewandosky | Employee |  |
 | Jim Gonzales | Employee |  |
 | Jim Schlies | Programmer |  |
@@ -620,6 +630,7 @@
 | John Adams | Senior UX Designer |  |
 | John Arndt | Customer Development |  |
 | John Bauer | Systems Engineer |  |
+| John Charles | Employee |  |
 | John Esterline | Technical Support Engineer |  |
 | John Fawcett | Systems Engineer | +1-469-387-5077<br>jrf0110@gmail.com<br>5336 Krueger Ln. Austin, TX, 78723 |
 | John Graham-Cumming | Chief Technology Officer | https://twitter.com/jgrahamc<br>https://jgc.org/<br>jgc@cloudflare.com |
@@ -629,6 +640,7 @@
 | Jon Harris | Customer Development |  |
 | Jon Levine | Product Manager |  |
 | Jon Murphy | Business Development |  |
+| Jon Patrick | Employee |  |
 | Jon Rankin | Solutions Engineer |  |
 | Jon Rolfe | San Francisco Employee | https://twitter.com/jrolfoid |
 | Jonathan Bruce | Product |  |
@@ -653,6 +665,7 @@
 | Joshua Liebow-Feeser | Information Security Engineer |  |
 | Joshua Watts | Business Development |  |
 | Jovi Zhangwei | Systems Engineer |  |
+| João Paulo | Employee |  |
 | Ju Hyung Song | Business Development (APAC) |  |
 | Juan M.(Miguel) Rodriguez | IT | https://twitter.com/juanmirodriguez<br>https://www.linkedin.com/in/jrodriguezestevez<br>https://blog.cloudflare.com/why-i-am-joining-cloudflare-as-its-first-cio/ |
 | Judy Ann Abbgy | Stock Plan Manager |  |
@@ -661,10 +674,13 @@
 | Judy Hoctor | Executive Assistant |  |
 | Julia Knight | Legal Intern |  |
 | Julian Hunt | EMEA Customer Development |  |
+| Julie Agnes | Employee |  |
 | Julie Huchet | Product Designer | jhuchet@tradecrafted.com<br>tel:4157746933<br>https://twitter.com/huchet_julie<br>https://juliehuchet.com/<br>https://www.behance.net/JULIERV752d3e<br>https://www.linkedin.com/in/julie-huchet-112740b7 |
 | Julie Sparks | Security Intern |  |
 | Julien Desgats | Systems Engineer |  |
+| Julien Yohan Jean | Employee |  |
 | Julio Pescador | Sales Operations |  |
+| Jun Ho | Employee |  |
 | Junade Ali | Engineer | https://twitter.com/icyapril<br>mjsa@junade.com<br>https://www.junade.com/ |
 | Junho Choi | Protocol Team | https://www.twitter.com/junhochoi<br>Previously co-founder of Neumob, CTO of CDNetworks, Web Data Bank<br>https://www.saturnsoft.net/<br>https://github.com/junhochoi<br>junho@cloudflare.com |
 | Junyi Lim | Customer Development |  |
@@ -676,6 +692,7 @@
 | Ka-Hing Cheung | Systems Engineer |  |
 | Kabir Sikand | Solutions Engineer |  |
 | Kalpana Ravinarayanan | Employee |  |
+| Kalyan Sai | Employee |  |
 | Kamilla Amirova | Solutions Engineer |  |
 | Kanika Rastogi | Employee |  |
 | Kari Linder | Designer | https://twitter.com/kkblinder<br>https://dribbble.com/karilinder |
@@ -719,6 +736,7 @@
 | Kevin Xu | Employee |  |
 | Khaled AlSaleh | Employee |  |
 | Khanh Dao | Tax Manager |  |
+| Kia Liang | Employee |  |
 | Kim Jen | Infrastructure Sourcing |  |
 | Kim Jin-Woong | Head of Sales |  |
 | Kim Seungjin | Sales Operations |  |
@@ -757,6 +775,7 @@
 | Lex Broekmeulen | Employee |  |
 | Liam Crowter | Technical Support Engineer |  |
 | Liam Reese | Business Development |  |
+| Liang Peng | Employee |  |
 | Lilah Brander | Employee |  |
 | Lily Andalon | Accountant |  |
 | Lindsay Kotterman | Customer Development |  |
@@ -789,6 +808,7 @@
 | Malavika Balachandran Tadeusz | Product Manager | https://twitter.com/malavikabala<br>https://www.malavikabala.com/<br>https://www.linkedin.com/in/malavika-balachandran-6a313035<br>https://medium.com/@malavikabalatdz<br>https://github.com/malavikabala<br>http://instagram.com/malavikabalatdz |
 | Malcolm Bouza | Accountant |  |
 | Malgorzata Pack (Kacprzak) | Support Operations Engineer |  |
+| Man Ching | Employee |  |
 | Manish Jindal | Customer Development |  |
 | Manu Sharma | Account Manager |  |
 | Manuel Briseno | Employee |  |
@@ -796,11 +816,13 @@
 | Marc W. Rogers | Principal Security Researcher |  |
 | Marcelo Moreira | Site Reliability Engineer |  |
 | Marcie McBride | Customer Development |  |
+| Marco Antonio Dias | Employee |  |
 | Marcus Schaefer | Strategic Account Executive |  |
 | Marek Kroemeke | Employee |  |
 | Marek Majkowski | Systems Engineer | marek@cloudflare.com<br>https://twitter.com/majek04<br>https://idea.popcount.org/ |
 | Marek Vavrusa | Systems Engineer |  |
 | Margo Brown | Q1 Marketing Partner |  |
+| Maria Sofia | Employee |  |
 | Marianna Ilagan | Internal Events Coordinator |  |
 | Marina Harper | HR Administrator |  |
 | Marina Jeon | Demand Generation Specialist |  |
@@ -899,9 +921,12 @@
 | Morgan Miles | Customer Development |  |
 | Moritz Wegner | Employee |  |
 | Moses Ellis | Business Development |  |
+| Mouloud Hani | Employee |  |
 | Murtaza Sajjad | Legal Intern |  |
 | Mustafa Khalifa | Business Development, Singapore |  |
 | Nadin El-Yabroudi | Security Engineer |  |
+| Naga Pavan | Employee |  |
+| Naimisha Yadav | Employee |  |
 | Nandini Jayarajan | Employee |  |
 | Natalie Valdes | Team Coordinator |  |
 | Nate Asp | Customer Development |  |
@@ -945,6 +970,7 @@
 | Omeed Rahgozar | Solutions Engineer |  |
 | Omer Yoachimik | Austin |  |
 | Oriol Sabate | Employee |  |
+| Oscar Kurniawan | Employee |  |
 | Osifo Anosike | Software Engineer |  |
 | Otto Imken | Head of Support |  |
 | Pablo Camino | Solutions Engineer |  |
@@ -974,6 +1000,7 @@
 | Peter Wu | Crypto Team |  |
 | Peter Yoakum | Employee |  |
 | Petra Arts | EU public affairs | https://twitter.com/petra_arts |
+| Petre Gabriel | Employee |  |
 | Phi Nguyen | Account Executive |  |
 | Philip Bjorkman | Business Development |  |
 | Pierce Buxton | Customer Development |  |
@@ -991,7 +1018,9 @@
 | Preston Pham | Employee | preston.a.pham@gmail.com |
 | Preston Tilghman | Event Marketing |  |
 | Priscilla Li | Technical Product Manager |  |
+| Prudhvi Ratna | Employee |  |
 | Pudcharapon Laokokham (Peter) | Solutions Engineer |  |
+| Putri Emas | Employee |  |
 | Quinn Cassidy | Business Development |  |
 | Rachel Dowson | People Team Partner |  |
 | Rachel Gonzalez | Executive Assistant |  |
@@ -1009,6 +1038,7 @@
 | Ramiro Castillo | Web Security |  |
 | Ramkumar Annasami | Customer Development |  |
 | Ramon Garcia | Account Executive |  |
+| Ravi Kiran | Employee |  |
 | Ravi Reddi | Demand Generation Manager |  |
 | Ray Bejjani | Systems Engineer |  |
 | Ray Leihe | Marketing Technology & Platform |  |
@@ -1043,6 +1073,7 @@
 | Robert Kim | Performance Marketing Manager |  |
 | Robert McNeil | Systems Engineer |  |
 | Robert Wang | Product Engineer |  |
+| Rodrigo de Souza | Employee |  |
 | Roger Tam | Employee |  |
 | Rohit Agarwal | Systems Engineer |  |
 | Rommy Tosana | Support Engineer, Singapore |  |
@@ -1112,6 +1143,7 @@
 | Sherry Apostol | Executive Assistant |  |
 | Shih-Chiang Chien | System Engineer |  |
 | Shiloh Heurich | Systems Engineer |  |
+| Shrenik Jayendra | Employee |  |
 | Shuxin Yang | Systems Engineer |  |
 | Siddharth Naik | Employee |  |
 | Sierra Dasso | Account Executive |  |
@@ -1232,6 +1264,7 @@
 | Tyler Matzen | Recruiting Coordinator |  |
 | Uday Sharma | Lead Data Engineer |  |
 | Ugo Piasentin | Employee |  |
+| Ulrik Aurelius Alaric | Employee |  |
 | Usman Muzaffar | VP of Engineering |  |
 | Uzma Ali | Business Development |  |
 | Val Vesa | Community Manager | https://instagram.com/adspedia<br>https://twitter.com/adspedia |
@@ -1240,12 +1273,14 @@
 | Varun Mehta | Employee |  |
 | Vasco Asturiano | Front End Engineer | vastur@gmail.com<br>https://twitter.com/vastur<br>https://github.com/vasturiano |
 | Vasti Porter | Front Desk |  |
+| Venkat Chaithanya | Employee |  |
 | Venkat Viswanathan | Employee |  |
 | Vera Tsai | Taiwan Sales Manager |  |
 | Vicky Shrestha | Systems Engineer |  |
 | Victoria Bernard | Customer Support, Austin | https://twitter.com/exvuma<br>https://victoriabernard.com/<br>https://www.linkedin.com/in/msvee22 |
 | Victoria Simons | Growth Marketing Manager |  |
 | Vidya Ramakrishnan | Human Resources |  |
+| Vignesh Kumar | Employee |  |
 | Vignesh Ravichandran | Dabase Reliability Engineer |  |
 | Vikas Chopra | Account Executive |  |
 | Vikash Mishra | Country Manager, India |  |
@@ -1272,6 +1307,7 @@
 | William Robledo | Datacenter Deployments |  |
 | William da Cunha | Head of Sales (Americas) |  |
 | Wilson Jackson | Employee |  |
+| Windy Faith | Employee |  |
 | Windy MacDowell | Executive Assistant |  |
 | Winnie Ip | Marketing Operations Specialist |  |
 | Xavier Xuhui Cai | Sales Head (China) |  |
@@ -1286,9 +1322,12 @@
 | Yana Chen | Customer Success |  |
 | Yeo Kezhong | Enterprise Account Manager |  |
 | Yevgen Safronov | Web Engineer |  |
+| Yew Yong | Employee |  |
 | Yien Wu | Relationship Manager |  |
+| Yin Yue | Employee |  |
 | Young Park | Employee |  |
 | Yuchen Wu | Systems Engineer | yuchenw@cs.cmu.edu<br>5000 Forbes Ave, Pittsburgh, USA, 15213 |
+| Yuet Wai | Employee |  |
 | Yun Ting Tan | Business Development |  |
 | Yunfei Luo (Adam) | Channel Account Manager |  |
 | Yuri Takano | Business Development, Singapore |  |
@@ -1305,7 +1344,6 @@
 | Zoe Hu | Solutions Engineer |  |
 | Zygimantas Skulteckis | Systems Reliability Engineer |  |
 | Łukasz Mierzwa | Systems Reliability Engineer | |
-
 
 
 ## Ex-employee
@@ -1334,7 +1372,6 @@
 | Sebastien Pahl | https://twitter.com/sebp |
 | Tim Strazzere | https://twitter.com/timstrazz<br>https://rednaga.io/ |
 | Yichun Zhang (章亦春) | https://twitter.com/agentzh<br>agentzh@gmail.com<br>yichun@openresty.com |
-
 
 
 - old data: [The Gang at CloudFlare: aiding and abetting cybercriminals](http://www.crimeflare.org:82/cfgang.html)
