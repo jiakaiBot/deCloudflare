@@ -58,6 +58,7 @@ Do not create new issue or we will close it as duplicate.
 | [amarandosw@twitter.com](https://twitter.com/amarandosw/status/1379324477650006018) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [ameenulhassanm1@twitter.com](https://twitter.com/ameenulhassanm1/status/1378228638353555457) | moral (advertise CloudFlare) |
 | [anarcat@github.com](https://github.com/anarcat) | moral |
+| [ANASXOSHNAW313@twitter.com](https://twitter.com/ANASXOSHNAW313/status/1379788726730170368) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [andrew-fitch@opencollective.com](https://opencollective.com/andrew-fitch) | moral |
 | [Andrew05534631@twitter.com](https://twitter.com/Andrew05534631/status/1378876163599175687) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [AngelaSneed14@twitter.com](https://twitter.com/AngelaSneed14/status/1377523632595931143) | moral (advertise CloudFlare) |
@@ -122,6 +123,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cng65233009@twitter.com](https://twitter.com/Cng65233009/status/1377781270332071942) | moral (advertise CloudFlare) |
 | [coagmano@github.com](https://github.com/coagmano) | moral |
 | [codeberg.org](https://www.codeberg.org/) | [HISTORY.md](../HISTORY.md) |
+| [coms4socialcha1@twitter.com](https://twitter.com/coms4socialcha1/status/1379781588263661581) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [connor-peshek@opencollective.com](https://opencollective.com/connor-peshek) | moral |
 | [Crazyboypro1@twitter.com](https://twitter.com/Crazyboypro1/status/1377996367499419653) | moral (advertise CloudFlare) |
 | [CreeperpowerS@twitter.com](https://twitter.com/CreeperpowerS/status/1370279626443001861) | moral (advertise CloudFlare) |
