@@ -439,6 +439,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- Still getting cloudflare error 1021 message when trying to access the website, vpn not helping. Any suggestions please? ([nofuxxgiven2](https://twitter.com/Nofuxxgiven2/status/1379580072634503172))
 - Put the IP address in to your web browser, and, if they're using a shared host, you should get an error page identifying the host who you can contact to start regaining control. (again, my example won't work as I use a content delivery network, so you'll get a cloudflare error) ([le__bon](https://twitter.com/le__bon/status/1379272507694350337))
 - my site is down for 2 days due to one of your cloudflare updates (getting a 403 error). Have no idea how this happened, but is costing me a lot of traffic and may affect how my site ranks on google. Suggest someone look into this asap so this doesn't happen to others ([nddecade](https://twitter.com/NDDecade/status/1379153964021714957))
 - Looks like the server crashed. Getting a cloudflare Error 522 (at Sufficient Velocity too). ([yukikaze_alecto](https://twitter.com/Yukikaze_Alecto/status/1378838337566302209))
