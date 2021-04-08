@@ -186,7 +186,7 @@ Second option is _wait 1 year_. Our system will revisit your website as a Tor us
 If you're not blocking Tor users, you will be removed automatically.
 
 - If your website is using Cloudflare
- - There's a higher chance that we receive rejection webpage from Cloudflare. Do not use cloudflare.
+  - There's a higher chance that we receive rejection webpage from Cloudflare. Do not use cloudflare.
 
 </details>
 
@@ -221,9 +221,8 @@ A or B will be enough. Thank you for your contribution.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)is_antitor.php?f=www.cloudflare.com`
   - Or: Use add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)"
 
-Public API Details [ℹ](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/#!op=info/api)
 <br>
-Your contribution will be pushed to git automatically within a week.
+Your contribution will be pushed to git automatically.
 
 </details>
 
@@ -353,10 +352,6 @@ If `the owner` moved away from `cloudflare` **completely**, you are welcome to a
 2. Input `gitlab.com` and click `Scan`.
 
 3. Click `test` for detailed scan.
-
-4. If you got `--- Finish ---`, the domain _might_ stopped using Cloudflare.
-  - The domain will be automatically removed.
-  - If the domain starts using Cloudflare again, it will be added again.
 
 
 `Only a few Cloudflare user leave Cloudflare. False positive is uncommon.`
