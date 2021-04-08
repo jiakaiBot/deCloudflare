@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-04-08: [Cloudlare DNS NODATA change](https://www.cloudflarestatus.com/incidents/x4v5d51wpcnr)
 - 2021-04-08: [Browser isolation service degraded](https://www.cloudflarestatus.com/incidents/14rjb6jf7mwh)
 - 2021-04-02: [DNS resolution issue](https://www.cloudflarestatus.com/incidents/ctfqh8z7ghqs)
 - 2021-03-31: [Websocket connectivity Issues](https://www.cloudflarestatus.com/incidents/nv0gd0k8r9lf)
