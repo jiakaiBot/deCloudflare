@@ -2,7 +2,6 @@
 `http://crimeflare.eu.org`
 
 
-
 ### Permesilo
 
 * `/addons/*` -- [MIT](https://eo.wikipedia.org/wiki/MIT-permesilo)
@@ -20,6 +19,7 @@ CC0-laboro kaj vi ne postulas doni krediton al ni.
 
 
 -----
+
 
 ### License
 
