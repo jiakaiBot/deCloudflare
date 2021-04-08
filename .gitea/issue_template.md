@@ -2,7 +2,7 @@
 [//]: # ( http://crimeflare.eu.org )
 
 
-- **Information about the Issue**
+- **Information about this Issue**
 
 
 
