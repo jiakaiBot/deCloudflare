@@ -154,7 +154,7 @@ Kung tinagas ng Cloudflare ang iyong impormasyon o hindi ka papayag na kumonekta
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Gusto mo ba ng mas maraming customer? Alam mo ang gagawin. Ang pahiwatig ay "nasa itaas na linya".
-  - [Kumusta, sinulat mo ang "Sineseryoso namin ang iyong privacy" ngunit nakakuha ako ng "Error 403 Forbidden Anonymous Proxy Not Allalel".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Bakit mo hinaharangan ang Tor O VPN? [At bakit mo hinaharangan ang mga pansamantalang email?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Kumusta, sinulat mo ang "Sineseryoso namin ang iyong privacy" ngunit nakakuha ako ng "Error 403 Forbidden Anonymous Proxy Not Allalel".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Bakit mo hinaharangan ang Tor O VPN? [At bakit mo hinaharangan ang mga pansamantalang email?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
