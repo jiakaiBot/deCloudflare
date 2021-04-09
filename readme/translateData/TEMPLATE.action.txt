@@ -154,7 +154,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - {%actnl0043%} {%actnl0047%} {%actnl0048%}
-  - [{%actnl0100%}](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) {%actnl0101%} [{%actnl0102%}](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [{%actnl0100%}](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) {%actnl0101%} [{%actnl0102%}](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
