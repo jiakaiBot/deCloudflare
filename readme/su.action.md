@@ -154,7 +154,7 @@ Upami Cloudflare ngabocorkeun inpormasi anjeun atanapi henteu ngantep anjeun nya
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Hoyong palanggan langkung? Anjeun terang naon anu kedah dilakukeun. Hint nyaéta "garis di luhur".
-  - [Halo, anjeun nyerat "Kami nyandak privasi anjeun sacara serius" tapi kuring ngagaduhan "Kasalahan 403 Dilarang Proksi Anonim Henteu Diidinan".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Naha anjeun ngahalangan Tor Atanapi VPN? [Sareng naha anjeun ngahalangan surelek samentawis?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Halo, anjeun nyerat "Kami nyandak privasi anjeun sacara serius" tapi kuring ngagaduhan "Kasalahan 403 Dilarang Proksi Anonim Henteu Diidinan".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Naha anjeun ngahalangan Tor Atanapi VPN? [Sareng naha anjeun ngahalangan surelek samentawis?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
