@@ -87,7 +87,7 @@ ym	int(6) INDEX
 
 ### Live demo
 
-If you want to see this in action: ~~[Onion](deprecated) or~~ [cache page](../../subfiles/shared_on_mastodon.md)
+If you want to see this in action: ~~Onion or~~ [cache page](../../subfiles/shared_on_mastodon.md)
 
 
 ### Related
