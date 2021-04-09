@@ -154,7 +154,7 @@ AFAIK, тэг вэбсайт үүнийг хийдэг. Та тэдэнд итг
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Илүү олон үйлчлүүлэгч хүсч байна уу? Чи юу хийхээ мэдэж байгаа шүү дээ. Зөвлөгөө нь "мөрний дээгүүр" юм.
-  - [Сайн уу, та "Бид таны хувийн нууцыг нухацтай авч үзье" гэж бичсэн боловч би "Алдаа 403 Хориотой Нэргүй прокси зөвшөөрөгдөхгүй" гэсэн хариу авлаа.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Та яагаад Tor Or VPN-ийг хааж байгаа юм бэ? [Та яагаад түр зуурын имэйлийг хааж байгаа юм бэ?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Сайн уу, та "Бид таны хувийн нууцыг нухацтай авч үзье" гэж бичсэн боловч би "Алдаа 403 Хориотой Нэргүй прокси зөвшөөрөгдөхгүй" гэсэн хариу авлаа.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Та яагаад Tor Or VPN-ийг хааж байгаа юм бэ? [Та яагаад түр зуурын имэйлийг хааж байгаа юм бэ?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
