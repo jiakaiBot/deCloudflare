@@ -154,7 +154,7 @@ You kwenyekwara ịkekọrịta data gị na Cloudflare ma kwenye na nkwupụta 
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Chọrọ ndị ahịa ọzọ? Know maara ihe ị ga-eme. Ndumodu bụ "n'elu akara".
-  - [Ndewo, ị dere "Anyị ji nzuzo gị kpọrọ ihe" mana enwetara m "Error 403 Forbidden Anonymous Proxy Not Allowed".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Gini mere eji egbochi Tor Ma obu VPN? [Kedu ihe kpatara ị na - egbochi ozi ịntanetị nwa oge?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Ndewo, ị dere "Anyị ji nzuzo gị kpọrọ ihe" mana enwetara m "Error 403 Forbidden Anonymous Proxy Not Allowed".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Gini mere eji egbochi Tor Ma obu VPN? [Kedu ihe kpatara ị na - egbochi ozi ịntanetị nwa oge?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
