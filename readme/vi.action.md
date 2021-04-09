@@ -154,7 +154,7 @@ Nếu Cloudflare làm rò rỉ thông tin của bạn hoặc không cho phép b�
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Muốn có nhiều khách hàng hơn? Bạn biết phải làm gì. Gợi ý là "dòng trên".
-  - [Xin chào, bạn đã viết "Chúng tôi rất coi trọng quyền riêng tư của bạn" nhưng tôi gặp "Lỗi 403 Cấm Proxy Ẩn danh Không được phép".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Tại sao bạn lại chặn Tor Hoặc VPN? [Và tại sao bạn lại chặn các email tạm thời?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Xin chào, bạn đã viết "Chúng tôi rất coi trọng quyền riêng tư của bạn" nhưng tôi gặp "Lỗi 403 Cấm Proxy Ẩn danh Không được phép".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Tại sao bạn lại chặn Tor Hoặc VPN? [Và tại sao bạn lại chặn các email tạm thời?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
