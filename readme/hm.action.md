@@ -154,7 +154,7 @@ Yog Cloudflare paim koj cov ntaub ntawv lossis yuav tsis cia koj txuas rau peb c
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Xav tau cov neeg muas zaub ntau? Koj paub Yeej Pov Vwj thiab Yaj Kub ces yog lawm. Hint yog "txoj kab saum toj".
-  - [Nyob zoo, koj tau sau "Peb coj koj tus kheej yam tsis muaj txiaj ntsig" tab sis kuv tau txais "Yuam Kev 403 Forbidden Anonymous Proxy Tsis Tso Cai".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Vim li cas koj thaiv Tor lossis VPN? [Thiab yog vim li cas koj thaiv cov hlab ib ntus email?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Nyob zoo, koj tau sau "Peb coj koj tus kheej yam tsis muaj txiaj ntsig" tab sis kuv tau txais "Yuam Kev 403 Forbidden Anonymous Proxy Tsis Tso Cai".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Vim li cas koj thaiv Tor lossis VPN? [Thiab yog vim li cas koj thaiv cov hlab ib ntus email?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
