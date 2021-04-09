@@ -154,7 +154,7 @@ Yen Cloudflare ngeculake informasi sampeyan utawa ora ngidini sampeyan nyambung 
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Pengin luwih akeh pelanggan? Sampeyan ngerti apa sing kudu ditindakake. Petunjuk minangka "baris ing ndhuwur".
-  - [Halo, sampeyan nulis "Kita nggawe privasi sampeyan kanthi serius" nanging aku entuk "Kesalahan 403 Proxy Anonim Dilarang Ora Diidini".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Napa sampeyan ngalangi Tor Utawa VPN? [Lan kenapa sampeyan ngalangi email sementara?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Halo, sampeyan nulis "Kita nggawe privasi sampeyan kanthi serius" nanging aku entuk "Kesalahan 403 Proxy Anonim Dilarang Ora Diidini".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Napa sampeyan ngalangi Tor Utawa VPN? [Lan kenapa sampeyan ngalangi email sementara?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
