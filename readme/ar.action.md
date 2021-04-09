@@ -154,7 +154,7 @@ AFAIK ، موقع صفر يفعل هذا. هل ستثق بهم؟
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - هل تريد المزيد من العملاء؟ أنت تعرف ماذا تفعل. التلميح هو "فوق السطر".
-  - [مرحبًا ، لقد كتبت "نحن نأخذ خصوصيتك على محمل الجد" ولكن حصلت على "الخطأ 403 Forbidden Anonymous Proxy Not allowed".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) لماذا تحجب Tor أو VPN؟ [ولماذا تحجب رسائل البريد الإلكتروني المؤقتة؟](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [مرحبًا ، لقد كتبت "نحن نأخذ خصوصيتك على محمل الجد" ولكن حصلت على "الخطأ 403 Forbidden Anonymous Proxy Not allowed".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) لماذا تحجب Tor أو VPN؟ [ولماذا تحجب رسائل البريد الإلكتروني المؤقتة؟](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
