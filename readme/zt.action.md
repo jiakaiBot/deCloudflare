@@ -154,7 +154,7 @@ AFAIK，零網站做到這一點。你會相信他們嗎？
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - 想要更多的顧客嗎？ 你知道該做什麼。 提示是“在行上方”。
-  - [您好，您寫了“我們認真對待您的隱私”，但我收到了“不允許出現錯誤403禁止的匿名代理”。](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) 為什麼要阻止Tor或VPN？ [為什麼要阻止臨時電子郵件？](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [您好，您寫了“我們認真對待您的隱私”，但我收到了“不允許出現錯誤403禁止的匿名代理”。](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) 為什麼要阻止Tor或VPN？ [為什麼要阻止臨時電子郵件？](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
