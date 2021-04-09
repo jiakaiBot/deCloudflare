@@ -154,7 +154,7 @@ Ef Cloudflare lekur upplýsingum þínum eða leyfir þér ekki að tengjast net
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Viltu fleiri viðskiptavini? Þú veist hvað ég á að gera. Vísbending er „fyrir ofan línu“.
-  - [Halló, þú skrifaðir „Við tökum friðhelgi þína alvarlega“ en ég fékk „Villa 403 Bannað nafnlaust umboð ekki leyfilegt“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Af hverju ertu að loka á Tor eða VPN? [Og af hverju ertu að loka á tímabundinn tölvupóst?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Halló, þú skrifaðir „Við tökum friðhelgi þína alvarlega“ en ég fékk „Villa 403 Bannað nafnlaust umboð ekki leyfilegt“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Af hverju ertu að loka á Tor eða VPN? [Og af hverju ertu að loka á tímabundinn tölvupóst?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
