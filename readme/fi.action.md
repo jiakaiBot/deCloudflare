@@ -154,7 +154,7 @@ Jos Cloudflare vuotaa tietosi tai ei anna sinun muodostaa yhteyttä palvelimille
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Haluatko lisää asiakkaita? Tiedät mitä tehdä. Vihje on "viivan yläpuolella".
-  - [Hei, kirjoitit "Otamme yksityisyytesi vakavasti", mutta sain "Virhe 403 kielletty tuntematon välityspalvelin ei sallittu".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Miksi estät Torin tai VPN: n? [Ja miksi estät väliaikaiset sähköpostit?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Hei, kirjoitit "Otamme yksityisyytesi vakavasti", mutta sain "Virhe 403 kielletty tuntematon välityspalvelin ei sallittu".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Miksi estät Torin tai VPN: n? [Ja miksi estät väliaikaiset sähköpostit?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
