@@ -154,7 +154,7 @@ Si Cloudflare filtra su información o no le permite conectarse a nuestros servi
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - ¿Quieres más clientes? Sabes qué hacer. La pista está "por encima de la línea".
-  - [Hola, escribiste "Nos tomamos en serio tu privacidad", pero recibí "Error 403 Proxy anónimo prohibido no permitido".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ¿Por qué estás bloqueando Tor o VPN? [¿Y por qué bloquea los correos electrónicos temporales?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Hola, escribiste "Nos tomamos en serio tu privacidad", pero recibí "Error 403 Proxy anónimo prohibido no permitido".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ¿Por qué estás bloqueando Tor o VPN? [¿Y por qué bloquea los correos electrónicos temporales?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
