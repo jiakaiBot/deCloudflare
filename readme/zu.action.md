@@ -154,7 +154,7 @@ Uma i-Cloudflare ivuza imininingwane yakho noma ingakuvumeli ukuthi uxhume kumas
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ufuna amakhasimende amaningi? Uyakwazi okufanele ukwenze. Ukusikisela "kungaphezulu komugqa".
-  - [Sawubona, ubhale ukuthi "Sithatha ubumfihlo bakho ngokungathi sína" kepha ngithole "Iphutha 403 Ummeleli Ongaziwa Ongavunyelwe Ongavunyelwe".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kungani uvimba iTor Or VPN? [Futhi kungani uvimba ama-imeyili wesikhashana?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Sawubona, ubhale ukuthi "Sithatha ubumfihlo bakho ngokungathi sína" kepha ngithole "Iphutha 403 Ummeleli Ongaziwa Ongavunyelwe Ongavunyelwe".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kungani uvimba iTor Or VPN? [Futhi kungani uvimba ama-imeyili wesikhashana?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
