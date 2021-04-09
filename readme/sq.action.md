@@ -154,7 +154,7 @@ Nëse Cloudflare rrjedh informacionin tuaj ose nuk ju lejon të lidheni me serve
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Dëshironi më shumë klientë? Ju e dini se çfarë të bëni. Sugjerimi është "mbi vijë".
-  - [Përshëndetje, ju keni shkruar "Ne e marrim seriozisht privatësinë tuaj" por unë kam "Gabim 403 Proxy Anonim i Ndaluar nuk lejohet".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Pse po bllokoni Tor Or VPN? [Dhe pse po bllokoni postat elektronike të përkohshme?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Përshëndetje, ju keni shkruar "Ne e marrim seriozisht privatësinë tuaj" por unë kam "Gabim 403 Proxy Anonim i Ndaluar nuk lejohet".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Pse po bllokoni Tor Or VPN? [Dhe pse po bllokoni postat elektronike të përkohshme?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
