@@ -154,7 +154,7 @@ Si Cloudflare divulga la vostra informació o no us permet connectar-vos als nos
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Voleu més clients? Saps que has de fer. La pista és "per sobre de la línia".
-  - [Hola, heu escrit "Ens prenem seriosament la vostra privadesa", però tinc "Error 403 Prohibit Anonymous Proxy No Allowed".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Per què bloquegeu Tor o VPN? [I per què bloquegeu els correus electrònics temporals?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Hola, heu escrit "Ens prenem seriosament la vostra privadesa", però tinc "Error 403 Prohibit Anonymous Proxy No Allowed".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Per què bloquegeu Tor o VPN? [I per què bloquegeu els correus electrònics temporals?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
