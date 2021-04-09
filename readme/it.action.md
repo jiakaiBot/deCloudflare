@@ -154,7 +154,7 @@ Se Cloudflare perde le tue informazioni o non ti consente di connetterti ai nost
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Desideri più clienti? Sai cosa fare. Il suggerimento è "sopra la linea".
-  - [Ciao, hai scritto "Prendiamo sul serio la tua privacy" ma ho ricevuto "Errore 403 Proxy anonimo proibito non consentito".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Perché stai bloccando Tor o VPN? [E perché stai bloccando le email temporanee?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Ciao, hai scritto "Prendiamo sul serio la tua privacy" ma ho ricevuto "Errore 403 Proxy anonimo proibito non consentito".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Perché stai bloccando Tor o VPN? [E perché stai bloccando le email temporanee?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
