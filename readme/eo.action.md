@@ -154,7 +154,7 @@ Se Cloudflare likas viajn informojn aŭ ne permesas vin konekti al niaj serviloj
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ĉu vi volas pli da klientoj? Vi scias kion fari. Konsilo estas "super linio".
-  - [Saluton, vi skribis "Ni konsideras vian privatecon serioze" sed mi ricevis "Error 403 Forbidden: Anonima Enirejo Ne Permesita".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kial vi blokas Tor aŭ VPN? [Kaj kial vi blokas portempajn retpoŝtojn?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Saluton, vi skribis "Ni konsideras vian privatecon serioze" sed mi ricevis "Error 403 Forbidden: Anonima Enirejo Ne Permesita".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kial vi blokas Tor aŭ VPN? [Kaj kial vi blokas portempajn retpoŝtojn?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
