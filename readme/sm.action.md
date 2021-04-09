@@ -154,7 +154,7 @@ A faʻapea e faʻasalalau e le Cloudflare au faʻamatalaga pe le tuʻuina oe e f
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Manaʻomia nisi tagata faʻatau? E te iloa le mea e fai. Fautuaga o le "luga laina".
-  - [Talofa, na e tusia le "We take your privacy" "Ae na ou mauaina le" Error 403 Forbidden Anonymous Proxy Not Alllled ".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Aisea ua e poloka ai Tor Poʻo VPN? [Ma aisea ua e poloka ai imeli le tumau?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Talofa, na e tusia le "We take your privacy" "Ae na ou mauaina le" Error 403 Forbidden Anonymous Proxy Not Alllled ".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Aisea ua e poloka ai Tor Poʻo VPN? [Ma aisea ua e poloka ai imeli le tumau?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
