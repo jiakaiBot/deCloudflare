@@ -154,7 +154,7 @@ AFAIK, нөлдік сайт. Сіз оларға сенесіз бе?
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Басқа клиенттерді қалайсыз ба? Сіз не істеу керектігін білесіз. Нұсқау «жоғарыдан жоғары».
-  - [Сәлеметсіз бе, сіз «Біз сіздің құпиялылығыңызға мән береміз» деп жаздыңыз, бірақ менде «403 тыйым салынған анонимді прокси-серверге рұқсат берілмеген» деген қате пайда болды.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Неге Tor Or VPN-ді бұғаттап отырсыз? [Неліктен уақытша хаттарды бұғаттап отырсыз?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Сәлеметсіз бе, сіз «Біз сіздің құпиялылығыңызға мән береміз» деп жаздыңыз, бірақ менде «403 тыйым салынған анонимді прокси-серверге рұқсат берілмеген» деген қате пайда болды.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Неге Tor Or VPN-ді бұғаттап отырсыз? [Неліктен уақытша хаттарды бұғаттап отырсыз?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
