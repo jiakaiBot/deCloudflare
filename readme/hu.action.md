@@ -154,7 +154,7 @@ Ha a Cloudflare kiszivárogtatja adatait, vagy nem engedi, hogy csatlakozzon sze
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Szeretne több ügyfelet? Tudod mit kell tenned. A tipp a vonal fölött van.
-  - [Helló, azt írta, hogy "Komolyan vesszük a magánéletét", de a "403-as hiba tiltott névtelen proxy nem engedélyezett" üzenetet kaptam.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Miért blokkolja a Tor vagy a VPN-t? [És miért blokkolja az ideiglenes e-maileket?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Helló, azt írta, hogy "Komolyan vesszük a magánéletét", de a "403-as hiba tiltott névtelen proxy nem engedélyezett" üzenetet kaptam.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Miért blokkolja a Tor vagy a VPN-t? [És miért blokkolja az ideiglenes e-maileket?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
