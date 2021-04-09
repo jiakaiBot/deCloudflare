@@ -154,7 +154,7 @@ Kung gipagawas sa Cloudflare ang imong kasayuran o dili tugutan ka nga makakonek
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Gusto ba daghang mga kustomer? Nahibal-an nimo kung unsa ang buhaton. Ang timaan mao ang "taas nga linya".
-  - [Kumusta, gisulat nimo ang "Giseryoso namon ang imong pagkapribado" apan nakuha nako ang "Error 403 Forbidden Anonymous Proxy Not Gitugotan".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Ngano nga imong gibabagan ang Tor O VPN? [Ug nganong gibabagan nimo ang mga temporaryo nga email?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Kumusta, gisulat nimo ang "Giseryoso namon ang imong pagkapribado" apan nakuha nako ang "Error 403 Forbidden Anonymous Proxy Not Gitugotan".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Ngano nga imong gibabagan ang Tor O VPN? [Ug nganong gibabagan nimo ang mga temporaryo nga email?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
