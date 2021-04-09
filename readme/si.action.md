@@ -154,7 +154,7 @@ Cloudflare ඔබේ තොරතුරු කාන්දු වුවහොත
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - තවත් ගනුදෙනුකරුවන් අවශ්‍යද? කළ යුතු දේ ඔබ දන්නවා. ඉඟිය "ඉහළ පේළිය" වේ.
-  - [හෙලෝ, ඔබ ලිව්වේ "අපි ඔබේ පෞද්ගලිකත්වය බැරෑරුම් ලෙස සලකමු" නමුත් මට "දෝෂ 403 තහනම් නිර්නාමික ප්‍රොක්සියක් අවසර නැත"](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ඔබ ටෝර් හෝ වීපීඑන් අවහිර කරන්නේ ඇයි? [ඔබ තාවකාලික ඊමේල් අවහිර කරන්නේ ඇයි?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [හෙලෝ, ඔබ ලිව්වේ "අපි ඔබේ පෞද්ගලිකත්වය බැරෑරුම් ලෙස සලකමු" නමුත් මට "දෝෂ 403 තහනම් නිර්නාමික ප්‍රොක්සියක් අවසර නැත"](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ඔබ ටෝර් හෝ වීපීඑන් අවහිර කරන්නේ ඇයි? [ඔබ තාවකාලික ඊමේල් අවහිර කරන්නේ ඇයි?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
