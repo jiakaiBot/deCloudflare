@@ -154,7 +154,7 @@ AFAIK, нуль сайты моны эшли. Сез аларга ышанырс
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Күбрәк клиентлар телисезме? Сез нәрсә эшләргә икәнен беләсез. Киңәш "сызык өстендә".
-  - [Исәнмесез, сез "Без сезнең хосусыйлыгыгызга җитди карыйбыз" дип яздыгыз, ләкин мин "Хата 403 тыелган аноним прокси рөхсәт ителмәгән" алдым.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Нигә сез Tor яки VPNны блоклыйсыз? [Нигә сез вакытлы электрон почталарны блоклыйсыз?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Исәнмесез, сез "Без сезнең хосусыйлыгыгызга җитди карыйбыз" дип яздыгыз, ләкин мин "Хата 403 тыелган аноним прокси рөхсәт ителмәгән" алдым.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Нигә сез Tor яки VPNны блоклыйсыз? [Нигә сез вакытлы электрон почталарны блоклыйсыз?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
