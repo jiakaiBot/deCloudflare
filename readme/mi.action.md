@@ -154,7 +154,7 @@ Mena ka tukuna e Cloudflare o korero ki a koe, kaore koe e tuku i a koe ki te ho
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Kei te hiahia koe kia maha atu nga kaihoko? Kei te mohio koe ki nga mea hei mahi. Ko te tohu he "raina i runga ake".
-  - [Kia ora, i tuhia e koe "He mea nui ki a matou to muna" engari i whiwhi ahau "Hapa 403 Takawaenga Kore Kaitapa Kaore e Whakaaetia".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) He aha koe i aukati ai i te Tor VPN ranei? [A he aha koe i aukati ai i nga imeerereretere?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Kia ora, i tuhia e koe "He mea nui ki a matou to muna" engari i whiwhi ahau "Hapa 403 Takawaenga Kore Kaitapa Kaore e Whakaaetia".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) He aha koe i aukati ai i te Tor VPN ranei? [A he aha koe i aukati ai i nga imeerereretere?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
