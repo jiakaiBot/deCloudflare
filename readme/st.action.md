@@ -154,7 +154,7 @@ Haeba Cloudflare e lutla tlhahisoleseling ea hau kapa e sa u lumelle ho hokela h
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - U batla bareki ba bangata? U tseba seo u lokelang ho se etsa. Tlhahiso ke "holimo mola".
-  - [Lumela, u ngotse "Re nka boinotšing ba hau ka botebo" empa ke fumane "Phoso ea 403 Proxy e sa Thibeloang e sa Lumelloeng"](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Hobaneng ha o thibela Tor Or VPN? [Hona hobaneng u thibela li-imeile tsa nakoana?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Lumela, u ngotse "Re nka boinotšing ba hau ka botebo" empa ke fumane "Phoso ea 403 Proxy e sa Thibeloang e sa Lumelloeng"](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Hobaneng ha o thibela Tor Or VPN? [Hona hobaneng u thibela li-imeile tsa nakoana?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
