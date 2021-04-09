@@ -154,7 +154,7 @@ Idan Cloudflare ya fallasa bayananku ko ba zai bari ku haɗi zuwa sabarmu ba, ba
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Kuna son ƙarin abokan ciniki? Kun san abin yi. Alamar tana "sama da layi".
-  - [Barka dai, kun rubuta "Mun ɗauki sirrinku da muhimmanci" amma na sami "Kuskuren 403 Haramtaccen Wakili Ba a Ba da Izini ba".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Me yasa kuke tare Tor ko VPN? [Kuma me yasa kuke toshe imel na wucin gadi?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Barka dai, kun rubuta "Mun ɗauki sirrinku da muhimmanci" amma na sami "Kuskuren 403 Haramtaccen Wakili Ba a Ba da Izini ba".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Me yasa kuke tare Tor ko VPN? [Kuma me yasa kuke toshe imel na wucin gadi?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
