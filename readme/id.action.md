@@ -154,7 +154,7 @@ Jika Cloudflare membocorkan informasi Anda atau tidak mengizinkan Anda terhubung
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ingin lebih banyak pelanggan? Kamu tahu apa yang harus dilakukan. Petunjuknya adalah "di atas garis".
-  - [Halo, Anda menulis "Kami menjaga privasi Anda dengan serius" tetapi saya mendapat "Kesalahan 403 Proxy Anonim Terlarang Tidak Diizinkan".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Mengapa Anda memblokir Tor atau VPN? [Dan mengapa Anda memblokir email sementara?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Halo, Anda menulis "Kami menjaga privasi Anda dengan serius" tetapi saya mendapat "Kesalahan 403 Proxy Anonim Terlarang Tidak Diizinkan".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Mengapa Anda memblokir Tor atau VPN? [Dan mengapa Anda memblokir email sementara?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
