@@ -154,7 +154,7 @@ Jeśli Cloudflare ujawni Twoje informacje lub nie pozwoli Ci połączyć się z 
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Chcesz więcej klientów? Wiesz co robić. Wskazówka jest „powyżej linii”.
-  - [Witaj, napisałeś „Poważnie traktujemy Twoją prywatność”, ale otrzymałem komunikat „Błąd 403 Niedozwolone anonimowe proxy”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Dlaczego blokujesz Tor lub VPN? [Dlaczego blokujesz tymczasowe e-maile?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Witaj, napisałeś „Poważnie traktujemy Twoją prywatność”, ale otrzymałem komunikat „Błąd 403 Niedozwolone anonimowe proxy”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Dlaczego blokujesz Tor lub VPN? [Dlaczego blokujesz tymczasowe e-maile?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
