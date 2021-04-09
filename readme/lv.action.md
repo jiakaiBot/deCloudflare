@@ -154,7 +154,7 @@ Ja Cloudflare nopludina jūsu informāciju vai neļaus jums izveidot savienojumu
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Vai vēlaties vairāk klientu? Jūs zināt, ko darīt. Padoms ir "virs līnijas".
-  - [Labdien, jūs rakstījāt “Mēs nopietni uztveram jūsu privātumu”, bet es saņēmu “Kļūda 403 Aizliegts anonīms starpniekserveris nav atļauts”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kāpēc jūs bloķējat Tor vai VPN? [Un kāpēc jūs bloķējat pagaidu e-pastus?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Labdien, jūs rakstījāt “Mēs nopietni uztveram jūsu privātumu”, bet es saņēmu “Kļūda 403 Aizliegts anonīms starpniekserveris nav atļauts”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kāpēc jūs bloķējat Tor vai VPN? [Un kāpēc jūs bloķējat pagaidu e-pastus?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
