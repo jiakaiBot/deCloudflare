@@ -154,7 +154,7 @@ As Cloudflare jo ynformaasje lekket of jo net litte ferbine mei ús servers, is 
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Wolle jo mear klanten? Do wist wat te dwaan. Hint is "boppe rigel".
-  - [Hoi, jo hawwe skreaun "Wy nimme jo privacy serieus" mar ik krige "Flater 403 Ferbeane anonyme proxy net tastien".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Wêrom blokkearje jo Tor Or VPN? [En wêrom blokkearje jo tydlike e-post?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Hoi, jo hawwe skreaun "Wy nimme jo privacy serieus" mar ik krige "Flater 403 Ferbeane anonyme proxy net tastien".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Wêrom blokkearje jo Tor Or VPN? [En wêrom blokkearje jo tydlike e-post?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
