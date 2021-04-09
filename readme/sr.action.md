@@ -154,7 +154,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Желите више купаца? Знате шта да радите. Наговештај је „изнад црте“.
-  - [Здраво, написали сте „Озбиљно схватамо вашу приватност“, али добио сам „Грешка 403 Забрањени анонимни прокси није дозвољен“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Зашто блокирате Тор или ВПН? [А зашто блокирате привремене имејлове?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Здраво, написали сте „Озбиљно схватамо вашу приватност“, али добио сам „Грешка 403 Забрањени анонимни прокси није дозвољен“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Зашто блокирате Тор или ВПН? [А зашто блокирате привремене имејлове?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
