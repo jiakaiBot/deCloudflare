@@ -154,7 +154,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - আরও গ্রাহক চান? আপনি কি জানেন। ইঙ্গিতটি "লাইনের ওপরে"।
-  - [হ্যালো, আপনি লিখেছেন "আমরা আপনার গোপনীয়তার বিষয়টি গুরুত্বের সাথে নিয়েছি" তবে আমি "ত্রুটি 403 নিষিদ্ধ অজ্ঞাত প্রক্সি অনুমোদিত নয়" পেয়েছি।](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) আপনি টর বা ভিপিএনকে বাধা দিচ্ছেন কেন? [এবং আপনি কেন অস্থায়ী ইমেলগুলি ব্লক করছেন?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [হ্যালো, আপনি লিখেছেন "আমরা আপনার গোপনীয়তার বিষয়টি গুরুত্বের সাথে নিয়েছি" তবে আমি "ত্রুটি 403 নিষিদ্ধ অজ্ঞাত প্রক্সি অনুমোদিত নয়" পেয়েছি।](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) আপনি টর বা ভিপিএনকে বাধা দিচ্ছেন কেন? [এবং আপনি কেন অস্থায়ী ইমেলগুলি ব্লক করছেন?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
