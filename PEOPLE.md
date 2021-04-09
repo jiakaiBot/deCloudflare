@@ -439,6 +439,10 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- More recently it's been CAPTCHA. Now, I don't even mean places where it is even warranted or necessary. is notoriously bad for this on just about any website they reverse-proxy/front. Why do I have to do this just to view a static public page served from cache? ([_rvklein_](https://twitter.com/_rvklein_/status/1380213523326861315))
+- That’s odd the website works for me. Maybe you missed the cloudflare / captcha that needs to be answered before accessing the site? Team is doxxed (Strudel Finance) and they already have a working app available on iOS and Android. ([cryptoravioli](https://twitter.com/CryptoRavioli/status/1380034105220464640))
+- getting error 1020 no matter what browser I use. Says it is a cloudflare error ([kevin22262](https://twitter.com/kevin22262/status/1380223298278027265))
+- Your entire platform is down at the moment. Cloudflare Error 526. I'm sure you are aware... :) ([broadstreetboy](https://twitter.com/broadstreetboy/status/1379817294679969794))
 - what gives? Why can I connect to my game or their website. I’m getting a 1020 error from Cloudflare on their site. ([malenkomc](https://twitter.com/MalenkoMC/status/1379766707439468549))
 - Still getting cloudflare error 1021 message when trying to access the website, vpn not helping. Any suggestions please? ([nofuxxgiven2](https://twitter.com/Nofuxxgiven2/status/1379580072634503172))
 - Put the IP address in to your web browser, and, if they're using a shared host, you should get an error page identifying the host who you can contact to start regaining control. (again, my example won't work as I use a content delivery network, so you'll get a cloudflare error) ([le__bon](https://twitter.com/le__bon/status/1379272507694350337))
