@@ -154,7 +154,7 @@ Ak služba Cloudflare prezradí vaše informácie alebo vám nedovolí pripojiť
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Chcete viac zákazníkov? Ty vieš, čo máš robiť. Rada je „nad čiarou“.
-  - [Dobrý deň, napísali ste „Vaše súkromie berieme vážne“, ale zobrazilo sa mi „Chyba 403 Zakázané anonymné proxy nie sú povolené“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Prečo blokujete Tor alebo VPN? [A prečo blokujete dočasné e-maily?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Dobrý deň, napísali ste „Vaše súkromie berieme vážne“, ale zobrazilo sa mi „Chyba 403 Zakázané anonymné proxy nie sú povolené“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Prečo blokujete Tor alebo VPN? [A prečo blokujete dočasné e-maily?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
