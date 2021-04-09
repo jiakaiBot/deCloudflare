@@ -154,7 +154,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - વધુ ગ્રાહકો જોઈએ છે? તમે જાણો છો કે શું કરવું. સંકેત "ઉપરની લાઇન" છે.
-  - [નમસ્તે, તમે "અમે તમારી ગોપનીયતાને ગંભીરતાથી લઈએ છીએ" લખ્યું છે, પરંતુ મને "ભૂલ 403 નિષેધ અનામિક પ્રોક્સી મંજૂરી નથી" મળી.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) તમે ટોર અથવા વીપીએનને કેમ અવરોધિત કરી રહ્યાં છો? [અને તમે અસ્થાયી ઇમેઇલ્સને કેમ અવરોધિત કરી રહ્યા છો?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [નમસ્તે, તમે "અમે તમારી ગોપનીયતાને ગંભીરતાથી લઈએ છીએ" લખ્યું છે, પરંતુ મને "ભૂલ 403 નિષેધ અનામિક પ્રોક્સી મંજૂરી નથી" મળી.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) તમે ટોર અથવા વીપીએનને કેમ અવરોધિત કરી રહ્યાં છો? [અને તમે અસ્થાયી ઇમેઇલ્સને કેમ અવરોધિત કરી રહ્યા છો?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
