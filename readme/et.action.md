@@ -154,7 +154,7 @@ Kui Cloudflare lekitab teie teavet või ei lase teil meie serveritega ühendust 
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Kas soovite rohkem kliente? Sa tead, mida teha. Vihje on "joone kohal".
-  - [Tere, kirjutasite "Me võtame teie privaatsust tõsiselt", kuid sain "Viga 403 Keelatud anonüümne puhverserver pole lubatud".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Miks blokeerite Tor või VPN? [Ja miks blokeerite ajutised meilid?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Tere, kirjutasite "Me võtame teie privaatsust tõsiselt", kuid sain "Viga 403 Keelatud anonüümne puhverserver pole lubatud".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Miks blokeerite Tor või VPN? [Ja miks blokeerite ajutised meilid?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
