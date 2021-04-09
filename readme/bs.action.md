@@ -154,7 +154,7 @@ Ako Cloudflare procuri vaše podatke ili vam ne dozvoli da se povežete s našim
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Želite više kupaca? Znaš šta treba da radiš. Savjet je "iznad crte".
-  - [Pozdrav, napisali ste "Ozbiljno shvatamo vašu privatnost", ali dobio sam poruku "Greška 403 Zabranjeni anonimni proxy nije dozvoljen".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Zašto blokirate Tor ili VPN? [A zašto blokirate privremene e-adrese?](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/mail/)
+  - [Pozdrav, napisali ste "Ozbiljno shvatamo vašu privatnost", ali dobio sam poruku "Greška 403 Zabranjeni anonimni proxy nije dozvoljen".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Zašto blokirate Tor ili VPN? [A zašto blokirate privremene e-adrese?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
 
 ![](../image/anonexist.jpg)
 
