@@ -87,7 +87,7 @@ ym	int(6) INDEX
 
 ### Live demo
 
-If you want to see this in action: [Onion](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/social/mastodon/) or [cache page  (not in sync)](../../subfiles/shared_on_mastodon.md)
+If you want to see this in action: ~~[Onion](deprecated) or~~ [cache page](../../subfiles/shared_on_mastodon.md)
 
 
 ### Related
@@ -95,7 +95,7 @@ If you want to see this in action: [Onion](http://nomdjgwjvyvlvmkolbyp3rocn2ld7f
 - [Mastodon Find](../mastodonfind)
 
 
-### Live API
+### ~~Live API~~ (deprecated)
 
 `http://(onion)/mastodon/?who=a&json`
 
