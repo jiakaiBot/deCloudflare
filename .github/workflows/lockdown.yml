@@ -15,8 +15,6 @@ jobs:
       - uses: dessant/repo-lockdown@v2
         with:
           github-token: ${{ github.token }}
-          close-issue: true
-          process-only: prs
           pr-comment: >
             This repository does not accept pull requests.
             Please create your PR at http://crimeflare.eu.org
