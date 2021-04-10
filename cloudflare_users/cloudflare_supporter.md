@@ -235,6 +235,7 @@ Do not create new issue or we will close it as duplicate.
 | [hoadt1412@twitter.com](https://twitter.com/hoadt1412/status/1376926261281353732) | moral (advertise CloudFlare) |
 | [Hong49711157@twitter.com](https://twitter.com/Hong49711157/status/1379092889779630082) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [HongVNguyn13@twitter.com](https://twitter.com/HongVNguyn13/status/1377792442032816128) | moral (advertise CloudFlare) |
+| [hossain888@twitter.com](https://twitter.com/hossain888/status/1380730493172215812) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [hotelierindo@twitter.com](https://twitter.com/hotelierindo/status/1377128938879602688) | moral (advertise CloudFlare) |
 | [HsettKaung@twitter.com](https://twitter.com/HsettKaung/status/1377183605219192838) | moral (advertise CloudFlare) |
 | [HtetAun33238945@twitter.com](https://twitter.com/HtetAun33238945/status/1378239738142806021) | moral (advertise CloudFlare) |
@@ -586,6 +587,7 @@ Do not create new issue or we will close it as duplicate.
 | [Th99629351@twitter.com](https://twitter.com/Th99629351/status/1378021025485479941) | moral (advertise CloudFlare) |
 | [tHAEuXDFb3vIAr3@twitter.com](https://twitter.com/tHAEuXDFb3vIAr3/status/1380587432135946241) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [thae_su_881997@twitter.com](https://twitter.com/thae_su_881997/status/1378291310054895619) | moral (advertise CloudFlare) |
+| [ThaiThongVN@twitter.com](https://twitter.com/ThaiThongVN/status/1380756646738026498) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [thandarwai808@twitter.com](https://twitter.com/thandarwai808/status/1380527502263689227) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [thantzi53863060@twitter.com](https://twitter.com/thantzi53863060/status/1379738699210969090) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [thantzin416@twitter.com](https://twitter.com/thantzin416/status/1380057109270777857) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
