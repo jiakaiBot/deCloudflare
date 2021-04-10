@@ -329,6 +329,8 @@ You shouldn′t use it if you value visitor′s privacy.
 </summary>
 
 
+- [Cloudflare blocking scraping](https://github.com/leoncvlt/blinkist-scraper/issues/46)
+- [Application was being blocked by cloudflare](https://github.com/Supergamer5465/Helix-Raid-Tool/pull/2)
 - [Detect Cloudflare blocking and return an error](https://github.com/pqml/prismarine-tokens/issues/6)
 - [Blocked in websites using cloudflares](https://github.com/guardianproject/orbot/issues/429)
 - [Images are blocked by cloudflare](https://github.com/factly/dega-themes/issues/29)
