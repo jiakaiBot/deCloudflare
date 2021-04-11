@@ -1,6 +1,9 @@
 ## Ilo / Skripto
-## Tool / Script
+- [Aldonaĵo por Firefox/Chromium/Edge](../addons/README.md)
+
 
 ----
 
-- [Aldonaĵo por Firefox/Chromium/Edge](../addons/README.md)
+
+## Tool / Script
+- [Addons for Firefox/Chromium/Edge](../addons/README.md)
