@@ -483,6 +483,7 @@ Do not create new issue or we will close it as duplicate.
 | [nyonyothetzaw@twitter.com](https://twitter.com/nyonyothetzaw/status/1378373088727998469) | moral (advertise CloudFlare) |
 | [nyto95409750@twitter.com](https://twitter.com/nyto95409750/status/1380788517941354500) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [n_wuit@twitter.com](https://twitter.com/n_wuit/status/1376737743619813382) | moral (advertise CloudFlare) |
+| [o0Yurpa0o@twitter.com](https://twitter.com/o0Yurpa0o/status/1381196081145335809) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [OdariMc@twitter.com](https://twitter.com/OdariMc/status/1380700664016334848) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [OlangstonS@twitter.com](https://twitter.com/OlangstonS/status/1380699085989089286) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [OlTunexcon@twitter.com](https://twitter.com/OlTunexcon/status/1376669048839282690) | moral (advertise CloudFlare) |
