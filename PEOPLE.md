@@ -441,6 +441,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- The specific error when trying to login is a 1020 error. ([vgkmike](https://twitter.com/VGKMike/status/1381271386509873152))
 - Hi, I'm getting the Cloudflare error 1020 recently when attempting to visit your site. Could you check the RAYID in your Firewall events log or whitelist my IP? Thanks. It was fine before. ([digitalxak](https://twitter.com/DigitalXAK/status/1381203154528788482))
 - More recently it's been CAPTCHA. Now, I don't even mean places where it is even warranted or necessary. is notoriously bad for this on just about any website they reverse-proxy/front. Why do I have to do this just to view a static public page served from cache? ([_rvklein_](https://twitter.com/_rvklein_/status/1380213523326861315))
 - That’s odd the website works for me. Maybe you missed the cloudflare / captcha that needs to be answered before accessing the site? Team is doxxed (Strudel Finance) and they already have a working app available on iOS and Android. ([cryptoravioli](https://twitter.com/CryptoRavioli/status/1380034105220464640))
