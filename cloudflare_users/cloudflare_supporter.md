@@ -485,6 +485,7 @@ Do not create new issue or we will close it as duplicate.
 | [nhp3698@twitter.com](https://twitter.com/nhp3698/status/1379887451662000129) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [nhtr_ung@twitter.com](https://twitter.com/nhtr_ung/status/1381240130418130946) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [Nick49172888@twitter.com](https://twitter.com/Nick49172888/status/1380676591949205508) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
+| [nicknitro09@twitter.com](https://twitter.com/nicknitro09/status/1381362588001402894) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [nickylay@twitter.com](https://twitter.com/nickylay/status/1379982002141552642) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [nidusha6@twitter.com](https://twitter.com/nidusha6/status/1377278946945990661) | moral (advertise CloudFlare) |
 | [nii_ayi_gh@twitter.com](https://twitter.com/nii_ayi_gh/status/1377364316698083338) | moral (advertise CloudFlare) |
