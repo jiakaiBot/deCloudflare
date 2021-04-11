@@ -2032,6 +2032,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- If need to check your IP address, is a nifty tool. It even has a JSON output: is hosted behind CloudFlare, so if you access it using curl via Tor, you get a CAPTCHA page.Hilariously, that page contains the IP address you reached the site from. So you still get to check your IP address anyway.Such protecc. Many wow. ([rysiek](https://mastodon.social/@rysiek/106048658721437726))
 - the DNS is a separate matter than the reverse proxy. But that still sounds like bad advice. CloudFlare is not trustworthy and you wouldn't want them to be able to keep track of your DNS resolutions. ([resist1984](https://social.privacytools.io/@resist1984/105923899340769618))
 - Cloudflare wants to become the gatekeeper of the internet and control everything that wants to pass. Extensive monitoring of a profit driven company plus access for US intelligence. Mozilla is acting as a honeypot by redirecting Firefox users there. ([umwerker](https://todon.nl/@UmWerker/105917456753697117))
 - This "Cypherpunk.is" site wrote an article about how CloudFlare is a honeypot selling snake oil and now they have become a CF site themselves. They deleted their article hoping no one would notice, but we found it: hypocrisy ([batalanto](https://todon.nl/@batalanto/105914555299295229))
