@@ -274,6 +274,7 @@ Do not create new issue or we will close it as duplicate.
 | [ISMANIZARMOHDA1@twitter.com](https://twitter.com/ISMANIZARMOHDA1/status/1380109785874362374) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [itsktylurv@twitter.com](https://twitter.com/itsktylurv/status/1377993015273222151) | moral (advertise CloudFlare) |
 | [ITSystemsAdmin@twitter.com](https://twitter.com/ITSystemsAdmin/status/1373030532469112834) | moral (advertise CloudFlare) |
+| [Ivynguyen98@twitter.com](https://twitter.com/Ivynguyen98/status/1381083176244707328) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [jadewang@opencollective.com](https://opencollective.com/jadewang) | moral |
 | [jasavio24275@twitter.com](https://twitter.com/jasavio24275/status/1378451592488263681) | moral (advertise CloudFlare) |
 | [jas_dhillon001@twitter.com](https://twitter.com/jas_dhillon001/status/1377232805659283457) | moral (advertise CloudFlare) |
