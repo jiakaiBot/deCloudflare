@@ -326,6 +326,7 @@ Do not create new issue or we will close it as duplicate.
 | [khet_win@twitter.com](https://twitter.com/khet_win/status/1377468267539935233) | moral (advertise CloudFlare) |
 | [Khushi75673773@twitter.com](https://twitter.com/Khushi75673773/status/1378980700389396483) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [kikidrilla@twitter.com](https://twitter.com/kikidrilla/status/1372335070158204930) | moral (advertise CloudFlare) |
+| [kim24_eilie@twitter.com](https://twitter.com/kim24_eilie/status/1381107528184958981) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [kimarmy24@twitter.com](https://twitter.com/kimarmy24/status/1378000928897298433) | moral (advertise CloudFlare) |
 | [Kimkung71968826@twitter.com](https://twitter.com/Kimkung71968826/status/1379758619114106886) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [Kimuekyi1@twitter.com](https://twitter.com/Kimuekyi1/status/1380566329116123142) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
@@ -503,8 +504,10 @@ Do not create new issue or we will close it as duplicate.
 | [Perseidon1@twitter.com](https://twitter.com/Perseidon1/status/1379686285061713923) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [phamhuhu@twitter.com](https://twitter.com/phamhuhu/status/1377640760888029184) | moral (advertise CloudFlare) |
 | [PhamThaiSon6@twitter.com](https://twitter.com/PhamThaiSon6/status/1377042683378601987) | moral (advertise CloudFlare) |
+| [phat_soc@twitter.com](https://twitter.com/phat_soc/status/1381112315865485314) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [PhillipXin@twitter.com](https://twitter.com/PhillipXin/status/1378201985539772416) | moral (advertise CloudFlare) |
 | [PHOENIX67879992@twitter.com](https://twitter.com/PHOENIX67879992/status/1377366160702795781) | moral (advertise CloudFlare) |
+| [PhongNg16713251@twitter.com](https://twitter.com/PhongNg16713251/status/1381110708708864002) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [phrabhakar@twitter.com](https://twitter.com/phrabhakar/status/1377811272100540417) | moral (advertise CloudFlare) |
 | [PhuongN06408230@twitter.com](https://twitter.com/PhuongN06408230/status/1380512562735804418) | moral (I am using the Internet fast lane by installing 1.1.1.1) |
 | [PhuongN09560858@twitter.com](https://twitter.com/PhuongN09560858/status/1377291979885748228) | moral (advertise CloudFlare) |
