@@ -40,5 +40,4 @@ This add-on never send other information.
 
 - [Code](https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/addons/code/isattlink)
 - Download add-on
-  - From Ss (_Recommend_): [Firefox ESR / Chromium / Edge](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
   - From Gitea (Delay Sync): [FirefoxESR](https://git.sdf.org/deCloudflare/cloudflare-tor/raw/branch/master/addons/releases/isat.xpi) / [Chromium / Edge](https://git.sdf.org/deCloudflare/cloudflare-tor/raw/branch/master/addons/releases/isat.crx)
