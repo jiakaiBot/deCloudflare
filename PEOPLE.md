@@ -441,6 +441,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- Cloudflare es una herramienta q usan algunas web para evitar ataques A veces sospecha de una persona (por x motivos) y te pone que pongas captcha para asegurarse que no seas un 🤖 ([tapofilms](https://twitter.com/TapoFilms/status/1381655932741025793))
 - Aha, I thought that was an error when I saw that in the expression preview pane. The 0-9 version works just as well, but I can't save because there still is an unknown error when I press save as draft (as I don't want it to take immediate effect). ([bonny_ken](https://twitter.com/bonny_ken/status/1381558785303543811))
 - The specific error when trying to login is a 1020 error. ([vgkmike](https://twitter.com/VGKMike/status/1381271386509873152))
 - Hi, I'm getting the Cloudflare error 1020 recently when attempting to visit your site. Could you check the RAYID in your Firewall events log or whitelist my IP? Thanks. It was fine before. ([digitalxak](https://twitter.com/DigitalXAK/status/1381203154528788482))
