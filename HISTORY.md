@@ -37,7 +37,7 @@ Here's Cloudflare incidents.
 ## Other
 
 
-*2021.04.24*
+*2021.04.04*
 
 - **Censorship**: Codeberg.org silently deleted `cloudflare-tor` and all related forks from codeberg.org without joining the discussion.
   - [Codeberg's Attack on Transparency and on Cloudflare Opposition](https://git.sdf.org/humanacollaborator/humanacollabora/src/branch/master/codeberg.md)
