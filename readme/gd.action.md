@@ -50,12 +50,12 @@ Tha duilgheadas agad? [Tog do ghuth a-nis.](https://github.com/maraoz/maraoz.git
 
 ```
 Tha thu dìreach a ’cuideachadh caisgireachd corporra agus mòr-sgrùdadh.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Tha an duilleag-lìn agad ann an gàrradh balla prìobhaideach CloudFlare, a tha a ’ana-cleachdadh prìobhaideachd.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Gabh beagan ùine gus poileasaidh prìobhaideachd làrach-lìn a leughadh.
@@ -68,7 +68,7 @@ Feumaidh e mìneachadh dè a th ’anns an“ Cloudflare ”, agus cead iarraidh
 ```
 Tha mi air do phoileasaidh prìobhaideachd a leughadh agus chan urrainn dhomh am facal Cloudflare a lorg.
 Bidh mi a ’diùltadh dàta a roinn leat ma chumas tu a’ biathadh an dàta agam gu Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Seo eisimpleir de phoileasaidh prìobhaideachd aig nach eil am facal Cloudflare.
@@ -117,10 +117,10 @@ Ma leigeas Cloudflare am fiosrachadh agad a-mach no nach leig e leat ceangal ris
 
 | Ainm | Leasaiche | Taic | Can Bloc | An urrainn fios a chuir | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Tha**     | **Tha**     |  **Tha** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Chan eil     | **Tha**     |  **Tha** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Chan eil     | **Tha**     |  **Tha** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Tha**     | **Tha**     |  Chan eil |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Tha**     | **Tha**     |  **Tha** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Chan eil     | **Tha**     |  **Tha** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Chan eil     | **Tha**     |  **Tha** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Tha**     | **Tha**     |  Chan eil |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Tha**     | **Tha**     |  Chan eil |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Chan eil     | **Tha**     |  Chan eil |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Chan eil     | **Tha**     |  Chan eil |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Mar sin tha sinn a ’moladh gu h-àrd clàr a-mhàin. Chan eil dad eile.
 
 - Inns dha daoine eile mun cuairt ort mu na cunnartan a tha ann an Cloudflare.
 
-- [Cuidich gus an stòr-dàta seo a leasachadh.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Cuidich gus an stòr-dàta seo a leasachadh.](http://crimeflare.eu.org).
   - An dà chuid na liostaichean, na h-argamaidean na aghaidh agus mion-fhiosrachadh.
 
-- [Dèan sgrìobhainnean agus dèan gu math poblach far a bheil cùisean a ’dol ceàrr le Cloudflare (agus companaidhean coltach ris), a’ dèanamh cinnteach gun toir thu iomradh air an taigh-tasgaidh seo nuair a nì thu sin](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Dèan sgrìobhainnean agus dèan gu math poblach far a bheil cùisean a ’dol ceàrr le Cloudflare (agus companaidhean coltach ris), a’ dèanamh cinnteach gun toir thu iomradh air an taigh-tasgaidh seo nuair a nì thu sin](http://crimeflare.eu.org) :)
 
 - Faigh barrachd dhaoine a ’cleachdadh Tor gu bunaiteach gus am faigh iad eòlas air an lìon bho shealladh diofar phàirtean den t-saoghal.
 
