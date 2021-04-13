@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 ທ່ານພຽງແຕ່ຊ່ວຍເຫຼືອການກວດສອບຂອງບໍລິສັດແລະການເຝົ້າລະວັງມະຫາຊົນ.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 ເວບໄຊທ໌ຂອງທ່ານແມ່ນຢູ່ໃນສວນເອກະຊົນຂອງ CloudFlare ທີ່ມີຄວາມເປັນສ່ວນຕົວ - ສວຍໃຊ້ ໜ້າ ທີ່.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - ໃຊ້ເວລາບາງເວລາເພື່ອອ່ານນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງເວບໄຊທ໌.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 ຂ້ອຍໄດ້ອ່ານນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງເຈົ້າແລະຂ້ອຍບໍ່ສາມາດຊອກຫາ ຄຳ ສັບ Cloudflare.
 ຂ້ອຍປະຕິເສດທີ່ຈະແບ່ງປັນຂໍ້ມູນກັບເຈົ້າຖ້າເຈົ້າຍັງສືບຕໍ່ປ້ອນຂໍ້ມູນຂອງຂ້ອຍໃຫ້ Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 ນີ້ແມ່ນຕົວຢ່າງຂອງນະໂຍບາຍຄວາມເປັນສ່ວນຕົວເຊິ່ງບໍ່ມີ ຄຳ ວ່າ Cloudflare.
@@ -117,10 +117,10 @@ AFAIK, ເວັບໄຊທ໌ສູນເຮັດສິ່ງນີ້. ທ�
 
 | ຊື່ | ນັກພັດທະນາ | ສະ ໜັບ ສະ ໜູນ | ສາມາດບລັອກໄດ້ | ສາມາດແຈ້ງໃຫ້ຊາບ | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ແມ່ນແລ້ວ**     | **ແມ່ນແລ້ວ**     |  **ແມ່ນແລ້ວ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | ບໍ່     | **ແມ່ນແລ້ວ**     |  **ແມ່ນແລ້ວ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | ບໍ່     | **ແມ່ນແລ້ວ**     |  **ແມ່ນແລ້ວ** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ແມ່ນແລ້ວ**     | **ແມ່ນແລ້ວ**     |  ບໍ່ |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ແມ່ນແລ້ວ**     | **ແມ່ນແລ້ວ**     |  **ແມ່ນແລ້ວ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ບໍ່     | **ແມ່ນແລ້ວ**     |  **ແມ່ນແລ້ວ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ບໍ່     | **ແມ່ນແລ້ວ**     |  **ແມ່ນແລ້ວ** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ແມ່ນແລ້ວ**     | **ແມ່ນແລ້ວ**     |  ບໍ່ |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ແມ່ນແລ້ວ**     | **ແມ່ນແລ້ວ**     |  ບໍ່ |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ບໍ່     | **ແມ່ນແລ້ວ**     |  ບໍ່ |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | ບໍ່     | **ແມ່ນແລ້ວ**     |  ບໍ່ |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ບອກຄົນອື່ນທີ່ຢູ່ອ້ອມຮອບທ່ານກ່ຽວກັບອັນຕະລາຍຂອງ Cloudflare.
 
-- [ຊ່ວຍປັບປຸງຫໍສະມຸດແຫ່ງນີ້.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [ຊ່ວຍປັບປຸງຫໍສະມຸດແຫ່ງນີ້.](http://crimeflare.eu.org).
   - ທັງບັນຊີລາຍຊື່, ການໂຕ້ຖຽງກັບມັນແລະລາຍລະອຽດ.
 
-- [ເກັບເອກະສານແລະເຜີຍແຜ່ສາທາລະນະຫຼາຍບ່ອນທີ່ມີຫຍັງຜິດພາດກັບ Cloudflare (ແລະບໍລິສັດທີ່ຄ້າຍຄືກັນ), ໃຫ້ແນ່ໃຈວ່າຈະກ່າວເຖິງຫໍສະມຸດແຫ່ງນີ້ເມື່ອທ່ານເຮັດແນວນັ້ນ](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [ເກັບເອກະສານແລະເຜີຍແຜ່ສາທາລະນະຫຼາຍບ່ອນທີ່ມີຫຍັງຜິດພາດກັບ Cloudflare (ແລະບໍລິສັດທີ່ຄ້າຍຄືກັນ), ໃຫ້ແນ່ໃຈວ່າຈະກ່າວເຖິງຫໍສະມຸດແຫ່ງນີ້ເມື່ອທ່ານເຮັດແນວນັ້ນ](http://crimeflare.eu.org) :)
 
 - ເອົາຄົນເຂົ້າໃຊ້ Tor ໂດຍໃຊ້ຄ່າເລີ່ມຕົ້ນດັ່ງນັ້ນພວກເຂົາສາມາດປະສົບກັບເວັບຈາກມຸມມອງຂອງພາກສ່ວນຕ່າງໆຂອງໂລກ.
 
