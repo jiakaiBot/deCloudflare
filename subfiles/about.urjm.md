@@ -20,4 +20,4 @@ Your domain collection is yours.
 
 - [Code](https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/addons/code/ureject)
 - Download add-on
-  - From Gitea (Delay Sync): [FirefoxESR](https://git.sdf.org/deCloudflare/cloudflare-tor/raw/branch/master/addons/releases/urjm.xpi) / [Chromium / Edge](https://git.sdf.org/deCloudflare/cloudflare-tor/raw/branch/master/addons/releases/urjm.crx)
+  - From Gitea: [FirefoxESR](https://git.sdf.org/deCloudflare/cloudflare-tor/raw/branch/master/addons/releases/urjm.xpi) / [Chromium / Edge](https://git.sdf.org/deCloudflare/cloudflare-tor/raw/branch/master/addons/releases/urjm.crx)
