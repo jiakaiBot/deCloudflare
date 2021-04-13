@@ -50,12 +50,12 @@ Pirsgirêkek we heye? [Voicedî dengê xwe bilind bikin.](https://github.com/mar
 
 ```
 Hûn tenê alîkariya sansura pargîdanî û çavdêriya girseyî dikin.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Malpera we di nav baxçeyê dîwarê taybet ê CloudFlare de xespkirina nepenîtiyê ye.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Hinek dem bikişînin ku polîtîkaya nepeniya malperê bixwînin.
@@ -68,7 +68,7 @@ Divê ew rave bike ka "Cloudflare" çi ye, û destûrê bixwaze ku daneyên xwe 
 ```
 Min siyaseta weya nepenîtiyê xwendiye û ez nikarim peyva Cloudflare bibînim.
 Ez berdewam nakim ku daneyên bi we re parve bikim ger hûn berdewam bikin ku daneyên min bidin Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Ev mînakek polîtîkaya nepenîtiyê ye ku peyva Cloudflare nîne.
@@ -117,10 +117,10 @@ Ger Cloudflare agahdariya we diweşîne an nahêle hûn bi serveratên me ve wer
 
 | Nav | Pêşvebir | Alîkarî | Dikare Asteng bike | Dikare Agahdar bike | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Erê**     | **Erê**     |  **Erê** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Na     | **Erê**     |  **Erê** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Na     | **Erê**     |  **Erê** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Erê**     | **Erê**     |  Na |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Erê**     | **Erê**     |  **Erê** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Na     | **Erê**     |  **Erê** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Na     | **Erê**     |  **Erê** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Erê**     | **Erê**     |  Na |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Erê**     | **Erê**     |  Na |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Na     | **Erê**     |  Na |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Na     | **Erê**     |  Na |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Ji ber vê yekê em tenê maseya jorîn pêşniyar dikin. Tiştek din.
 
 - Li ser xetereyên Cloudflare ji yên dora xwe re vebêjin.
 
-- [Alîkariya baştirkirina vê embarê bikin.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Alîkariya baştirkirina vê embarê bikin.](http://crimeflare.eu.org).
   - Hem navnîş, hem argumanên li dijî wê hem jî hûrgulî.
 
-- [Li ku derê bi Cloudflare (û pargîdaniyên wekhev re) xelet diçin bi belge bikin û pir eşkere bikin, dema ku hûn wusa bikin ewle bikin ku hûn behsa vê embarê bikin](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Li ku derê bi Cloudflare (û pargîdaniyên wekhev re) xelet diçin bi belge bikin û pir eşkere bikin, dema ku hûn wusa bikin ewle bikin ku hûn behsa vê embarê bikin](http://crimeflare.eu.org) :)
 
 - Zêdetir kes bi default Tor bikar bînin da ku ew bikaribin tevgerê ji perspektîfa deverên cûda yên cîhanê biceribînin.
 
