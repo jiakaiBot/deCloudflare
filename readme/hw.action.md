@@ -50,12 +50,12 @@ He pilikia paha kāu? [E hoʻokiʻekiʻe i kou leo ​​i kēia manawa.](https:
 
 ```
 Ke kōkua wale nei ʻoe i ka censorship ʻoihana a me ka nānā nui ʻana.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Aia kāu ʻaoʻao pūnaewele i loko o ka pā-pilikino o ka pā paia pilikino o CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - E hoʻolōʻihi i kahi manawa e heluhelu ai i ka kulekele pilikino o ka pūnaewele.
@@ -68,7 +68,7 @@ Pono e wehewehe i ka "Cloudflare", a noi i ka ʻae e kaʻana like i kāu ʻikepi
 ```
 Ua heluhelu au i kāu kulekele pilikino a ʻaʻole hiki iaʻu ke loaʻa ka huaʻōlelo Cloudflare.
 Hōʻole wau e kaʻana like i ka ʻikepili iā ʻoe inā hoʻomau ʻoe e hānai i kaʻu ʻikepili iā Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 He laʻana kēia o ka pilikino pilikino i loaʻa ʻole ka huaʻōlelo Cloudflare.
@@ -117,10 +117,10 @@ Inā kulu ʻo Cloudflare i kāu ʻike a ʻaʻole hoʻi e ʻae iā ʻoe e hoʻohu
 
 | Inoa | Mea hoʻomohala | Kākoʻo | Hiki iā Block | Hiki ʻole ke hoʻomaopopo | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ae**     | **Ae**     |  **Ae** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Aʻole     | **Ae**     |  **Ae** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Aʻole     | **Ae**     |  **Ae** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ae**     | **Ae**     |  Aʻole |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ae**     | **Ae**     |  **Ae** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Aʻole     | **Ae**     |  **Ae** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Aʻole     | **Ae**     |  **Ae** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ae**     | **Ae**     |  Aʻole |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ae**     | **Ae**     |  Aʻole |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Aʻole     | **Ae**     |  Aʻole |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Aʻole     | **Ae**     |  Aʻole |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ No laila mākou e paipai aku nei ma ka papa ʻaina wale nō. ʻAʻohe mea ʻē a
 
 - E haʻi i nā poʻe ʻē aʻe a puni iā ​​ʻoe e pili ana i nā makaʻi o Cloudflare.
 
-- [Kōkua i ka hoʻomaikaʻi ʻana i kēia waihona.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Kōkua i ka hoʻomaikaʻi ʻana i kēia waihona.](http://crimeflare.eu.org).
   - ʻO nā papa inoa ʻelua, nā paio e kūʻē iā ia a me nā kikoʻī.
 
-- [Palapala a e hoʻolaha ākea loa kahi e hewa ai nā mea me Cloudflare (a me nā ʻoihana like), e hōʻoia ana e ʻōlelo i kēia waihona ke hana ʻoe pēlā](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Palapala a e hoʻolaha ākea loa kahi e hewa ai nā mea me Cloudflare (a me nā ʻoihana like), e hōʻoia ana e ʻōlelo i kēia waihona ke hana ʻoe pēlā](http://crimeflare.eu.org) :)
 
 - E kiʻi i nā poʻe hou aʻe e hoʻohana ana iā Tor ma ka paʻamau i hiki iā lākou ke ʻike i ka pūnaewele mai ka kuanaʻike o nā wahi like ʻole o ka honua.
 
