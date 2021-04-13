@@ -419,6 +419,7 @@ with evidence. Do not create new issue or we will close it as duplicate.
 | [MaliJashwant@twitter.com](https://twitter.com/MaliJashwant/status/1381653419732074500) | moral (advertise Cloudflare) |
 | [malwifati@twitter.com](https://twitter.com/malwifati/status/1381271570304401408) | moral (advertise Cloudflare) |
 | [ManishS14486946@twitter.com](https://twitter.com/ManishS14486946/status/1376922638216531974) | moral (advertise CloudFlare) |
+| [mansport4647@twitter.com](https://twitter.com/mansport4647/status/1382071713043603463) | moral (advertise Cloudflare) |
 | [mardetanhaaa@twitter.com](https://twitter.com/mardetanhaaa/status/1379735911286595589) | moral (advertise Cloudflare) |
 | [Maria65592312@twitter.com](https://twitter.com/Maria65592312/status/1377526795688239104) | moral (advertise CloudFlare) |
 | [Marin65500823@twitter.com](https://twitter.com/Marin65500823/status/1379100572159143941) | moral (advertise Cloudflare) |
