@@ -50,12 +50,12 @@ Tev ir problēma? [Tagad paceliet balsi.](https://github.com/maraoz/maraoz.githu
 
 ```
 Jūs vienkārši palīdzat korporatīvajai cenzūrai un masveida uzraudzībai.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Jūsu tīmekļa lapa atrodas CloudFlare privātajā sienu dārzā, kurā tiek ļaunprātīgi izmantota privātums.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Veltiet laiku, lai izlasītu vietnes konfidencialitātes politiku.
@@ -68,7 +68,7 @@ Tajā ir jāpaskaidro, kas ir "Cloudflare", un jāpieprasa atļauja koplietot j�
 ```
 Esmu izlasījis jūsu konfidencialitātes politiku un nevaru atrast vārdu Cloudflare.
 Es atsakos kopīgot datus ar jums, ja turpināsiet manu datu padevi Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Šis ir privātuma politikas piemērs, kurā nav vārda Cloudflare.
@@ -117,10 +117,10 @@ Ja Cloudflare nopludina jūsu informāciju vai neļaus jums izveidot savienojumu
 
 | Nosaukums | Izstrādātājs | Atbalsts | Var bloķēt | Var paziņot | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Jā**     | **Jā**     |  **Jā** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nē     | **Jā**     |  **Jā** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nē     | **Jā**     |  **Jā** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Jā**     | **Jā**     |  Nē |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Jā**     | **Jā**     |  **Jā** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nē     | **Jā**     |  **Jā** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nē     | **Jā**     |  **Jā** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Jā**     | **Jā**     |  Nē |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Jā**     | **Jā**     |  Nē |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nē     | **Jā**     |  Nē |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nē     | **Jā**     |  Nē |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Tāpēc mēs iesakām tikai iepriekš minēto tabulu. Nekas cits.
 
 - Pastāstiet citiem apkārtējiem par Cloudflare bīstamību.
 
-- [Palīdziet uzlabot šo krātuvi.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Palīdziet uzlabot šo krātuvi.](http://crimeflare.eu.org).
   - Gan saraksti, argumenti pret to, gan detaļas.
 
-- [Dokumentējiet un publiskojiet, kur ar Cloudflare (un līdzīgiem uzņēmumiem) notiek nepareizi, to darot, noteikti miniet šo krātuvi](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Dokumentējiet un publiskojiet, kur ar Cloudflare (un līdzīgiem uzņēmumiem) notiek nepareizi, to darot, noteikti miniet šo krātuvi](http://crimeflare.eu.org) :)
 
 - Piesakiet vairāk cilvēku, izmantojot Tor pēc noklusējuma, lai viņi varētu iepazīties ar tīmekli no dažādu pasaules daļu perspektīvas.
 
