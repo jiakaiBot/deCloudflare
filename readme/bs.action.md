@@ -50,12 +50,12 @@ Imate problem? [Podignite svoj glas sada.](https://github.com/maraoz/maraoz.gith
 
 ```
 Vi samo pomažete korporativnoj cenzuri i masovnom nadzoru.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Vaša web stranica nalazi se u privatnom ograđenom vrtu CloudFlare koji krši privatnost.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Odvojite malo vremena da pročitate politiku privatnosti web lokacije.
@@ -68,7 +68,7 @@ Mora objasniti šta je to "Cloudflare" i tražiti dozvolu za dijeljenje vaših p
 ```
 Pročitao sam vašu politiku privatnosti i ne mogu pronaći riječ Cloudflare.
 Odbijam podijeliti podatke s vama ako nastavite da hranite moje podatke Cloudflare-om.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Ovo je primjer politike privatnosti koja nema riječ Cloudflare.
@@ -117,10 +117,10 @@ Ako Cloudflare procuri vaše podatke ili vam ne dozvoli da se povežete s našim
 
 | Ime | Programer | Podrška | Može blokirati | Može obavijestiti | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Da**     | **Da**     |  **Da** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ne     | **Da**     |  **Da** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ne     | **Da**     |  **Da** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Da**     | **Da**     |  Ne |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Da**     | **Da**     |  **Da** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ne     | **Da**     |  **Da** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ne     | **Da**     |  **Da** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Da**     | **Da**     |  Ne |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Da**     | **Da**     |  Ne |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ne     | **Da**     |  Ne |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ne     | **Da**     |  Ne |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Stoga preporučujemo samo gornju tablicu. Ništa drugo.
 
 - Recite drugima oko sebe o opasnostima Cloudflarea.
 
-- [Pomozite poboljšati ovo spremište.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Pomozite poboljšati ovo spremište.](http://crimeflare.eu.org).
   - I liste, argumenti protiv i detalji.
 
-- [Dokumentirajte i javno objavite gdje stvari krenu po zlu s Cloudflareom (i sličnim kompanijama), obavezno spomenite ovo spremište kada to učinite](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Dokumentirajte i javno objavite gdje stvari krenu po zlu s Cloudflareom (i sličnim kompanijama), obavezno spomenite ovo spremište kada to učinite](http://crimeflare.eu.org) :)
 
 - Privucite više ljudi koji koriste Tor prema zadanim postavkama kako bi mogli doživjeti internet iz perspektive različitih dijelova svijeta.
 
