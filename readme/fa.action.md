@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 شما فقط به سانسور شرکت ها و نظارت گسترده کمک می کنید.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 صفحه وب شما در حریم خصوصی سو garden استفاده از باغ دیواری خصوصی CloudFlare است.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - برای مطالعه سیاست حفظ حریم خصوصی وب سایت کمی وقت بگذارید.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 من سیاست حفظ حریم خصوصی شما را خوانده ام و نمی توانم کلمه Cloudflare را پیدا کنم.
 در صورت ادامه دادن به تغذیه داده های من به Cloudflare ، من از اشتراک داده ها با شما امتناع می ورزم.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 این نمونه ای از سیاست حفظ حریم خصوصی است که کلمه Cloudflare را ندارد.
@@ -117,10 +117,10 @@ AFAIK ، وب سایت صفر این کار را انجام می دهد. آیا 
 
 | نام | توسعه دهنده | پشتیبانی | می توانید مسدود کنید | می تواند اطلاع رسانی کند | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **آره**     | **آره**     |  **آره** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | نه     | **آره**     |  **آره** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | نه     | **آره**     |  **آره** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **آره**     | **آره**     |  نه |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **آره**     | **آره**     |  **آره** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نه     | **آره**     |  **آره** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نه     | **آره**     |  **آره** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **آره**     | **آره**     |  نه |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **آره**     | **آره**     |  نه |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | نه     | **آره**     |  نه |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | نه     | **آره**     |  نه |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - از خطرات Cloudflare به دیگران در اطراف خود بگویید.
 
-- [به بهبود این مخزن کمک کنید.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [به بهبود این مخزن کمک کنید.](http://crimeflare.eu.org).
   - هم لیست ها ، هم استدلال های ضد آن و هم جزئیات.
 
-- [در مواردی که Cloudflare (و شرکتهای مشابه) به اشتباه پیش می روند را مستند کرده و علنی کنید ، اطمینان حاصل کنید که هنگام انجام این کار ، این مخزن را ذکر کنید](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [در مواردی که Cloudflare (و شرکتهای مشابه) به اشتباه پیش می روند را مستند کرده و علنی کنید ، اطمینان حاصل کنید که هنگام انجام این کار ، این مخزن را ذکر کنید](http://crimeflare.eu.org) :)
 
 - افراد بیشتری را به طور پیش فرض از Tor استفاده کنید تا بتوانند وب را از دیدگاه مناطق مختلف جهان تجربه کنند.
 
