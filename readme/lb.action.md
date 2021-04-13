@@ -50,12 +50,12 @@ Dir hutt e Problem? [Héich Är Stëmm elo.](https://github.com/maraoz/maraoz.gi
 
 ```
 Dir hëlleft just Firmenzensur a Massiwwerwaachung.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Är Websäit ass am Privatsphär-mëssbrauchende private Wandgaart vu CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Huelt Iech Zäit fir d'Privatsphärpolitik vun der Websäit ze liesen.
@@ -68,7 +68,7 @@ Et muss erkläre wat de "Cloudflare" ass, a freet no Erlaabnis Är Donnéeën ma
 ```
 Ech hunn Är Privatsphärpolitik gelies an ech kann d'Wuert Cloudflare net fannen.
 Ech refuséieren Daten mat Iech ze teelen wann Dir weider meng Daten u Cloudflare fiddert.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Dëst ass e Beispill vu Privatsphärpolitik déi net d'Wuert Cloudflare huet.
@@ -117,10 +117,10 @@ Wann Cloudflare Är Informatioun leckt oder Iech net erlaabt Iech mat eise Serve
 
 | Numm | Entwéckler | Ënnerstëtzung | Kann Blockéieren | Kann Bescheed soen | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **jo**     | **jo**     |  **jo** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nee     | **jo**     |  **jo** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nee     | **jo**     |  **jo** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **jo**     | **jo**     |  Nee |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **jo**     | **jo**     |  **jo** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nee     | **jo**     |  **jo** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nee     | **jo**     |  **jo** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **jo**     | **jo**     |  Nee |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **jo**     | **jo**     |  Nee |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nee     | **jo**     |  Nee |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nee     | **jo**     |  Nee |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Dofir recommandéiere mir nëmmen uewen Dësch. Näischt anescht.
 
 - Sot anerer ronderëm Iech iwwer d'Gefore vu Cloudflare.
 
-- [Hëlleft dëst Repository ze verbesseren.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Hëlleft dëst Repository ze verbesseren.](http://crimeflare.eu.org).
   - Souwuel d'Lëschten, d'Argumenter dogéint an d'Detailer.
 
-- [Dokumentéiert a maacht ganz ëffentlech wou d'Saache mat Cloudflare (an ähnleche Firmen) falsch lafen, a gitt sécher dëst Repository ze ernimmen wann Dir dat maacht](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Dokumentéiert a maacht ganz ëffentlech wou d'Saache mat Cloudflare (an ähnleche Firmen) falsch lafen, a gitt sécher dëst Repository ze ernimmen wann Dir dat maacht](http://crimeflare.eu.org) :)
 
 - Kritt méi Leit mat Tor par défaut, fir datt se de Web aus der Perspektiv vu verschiddenen Deeler vun der Welt erliewen.
 
