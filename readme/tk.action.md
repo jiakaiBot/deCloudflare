@@ -50,12 +50,12 @@ Meseleňiz barmy? [Indi sesiňi çykar.](https://github.com/maraoz/maraoz.github
 
 ```
 Siz diňe korporatiw senzura we köpçülikleýin gözegçilige kömek edýärsiňiz.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Web sahypaňyz, “CloudFlare” -niň şahsy durmuşyny bozýan şahsy diwar bagynda.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Web sahypasynyň gizlinlik ýörelgelerini okaň.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 Gizlinlik syýasatlaryňyzy okadym, “Cloudflare” sözüni tapyp bilemok.
 “Cloudflare” -e maglumatlarymy bermegi dowam etdirseňiz, siziň bilen maglumatlary paýlaşmakdan ýüz öwürýärin.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Bu, “Cloudflare” sözi bolmadyk gizlinlik syýasatynyň mysaly.
@@ -117,10 +117,10 @@ AFAIK, nol web sahypasy muny edýär. Olara ynanarsyňyzmy?
 
 | Ady | Öndüriji | Goldaw | Bloklap bilýär | Habar berip biler | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Hawa**     | **Hawa**     |  **Hawa** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | .Ok     | **Hawa**     |  **Hawa** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | .Ok     | **Hawa**     |  **Hawa** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Hawa**     | **Hawa**     |  .Ok |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Hawa**     | **Hawa**     |  **Hawa** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | .Ok     | **Hawa**     |  **Hawa** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | .Ok     | **Hawa**     |  **Hawa** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Hawa**     | **Hawa**     |  .Ok |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Hawa**     | **Hawa**     |  .Ok |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | .Ok     | **Hawa**     |  .Ok |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | .Ok     | **Hawa**     |  .Ok |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Beýleki programma üpjünçiliginiň gizlinligi barada gürleşeliň.
 
 - “Cloudflare” -iň howplary barada töweregiňizdäki başgalara aýdyň.
 
-- [Bu ammary gowulandyrmaga kömek ediň.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Bu ammary gowulandyrmaga kömek ediň.](http://crimeflare.eu.org).
   - Sanawlaryň ikisi, oňa garşy argumentler we jikme-jiklikler.
 
-- [“Cloudflare” (we şuňa meňzeş kompaniýalar) bilen näsazlyklaryň ýüze çykan ýerinde resminama beriň we köpçülige ýetiriň, bu ammary ýatda saklaň.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [“Cloudflare” (we şuňa meňzeş kompaniýalar) bilen näsazlyklaryň ýüze çykan ýerinde resminama beriň we köpçülige ýetiriň, bu ammary ýatda saklaň.](http://crimeflare.eu.org) :)
 
 - Dünýäniň dürli künjeklerinden nukdaýnazary başdan geçirip biler ýaly, Tor ulanýan adamlary has köp alyň.
 
