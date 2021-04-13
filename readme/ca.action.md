@@ -50,12 +50,12 @@ Tens algun problema? [Alça la veu ara.](https://github.com/maraoz/maraoz.github
 
 ```
 Només ajudeu a la censura corporativa i la vigilància massiva.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 La vostra pàgina web es troba al jardí privat de CloudFlare, que abusa de la privadesa.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Dediqueu una estona a llegir la política de privadesa del lloc web.
@@ -68,7 +68,7 @@ Ha d’explicar què és el "Cloudflare" i demanar permís per compartir les vos
 ```
 He llegit la vostra política de privadesa i no trobo la paraula Cloudflare.
 Em nego a compartir dades amb vosaltres si continueu proporcionant les meves dades a Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Aquest és un exemple de política de privadesa que no conté la paraula Cloudflare.
@@ -117,10 +117,10 @@ Si Cloudflare divulga la vostra informació o no us permet connectar-vos als nos
 
 | Nom | Desenvolupador | Suport | Es pot bloquejar | Es pot notificar | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Sí**     | **Sí**     |  **Sí** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | No     | **Sí**     |  **Sí** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | No     | **Sí**     |  **Sí** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Sí**     | **Sí**     |  No |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Sí**     | **Sí**     |  **Sí** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | No     | **Sí**     |  **Sí** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | No     | **Sí**     |  **Sí** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Sí**     | **Sí**     |  No |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Sí**     | **Sí**     |  No |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | No     | **Sí**     |  No |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | No     | **Sí**     |  No |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Per tant, recomanem només la taula anterior. Res més.
 
 - Expliqueu als altres que us envolten els perills de Cloudflare.
 
-- [Ajudeu a millorar aquest dipòsit.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Ajudeu a millorar aquest dipòsit.](http://crimeflare.eu.org).
   - Tant les llistes, els arguments en contra com els detalls.
 
-- [Documentar i fer molt públic on les coses van malament amb Cloudflare (i empreses similars), assegurant-se d'esmentar aquest dipòsit quan ho faci](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Documentar i fer molt públic on les coses van malament amb Cloudflare (i empreses similars), assegurant-se d'esmentar aquest dipòsit quan ho faci](http://crimeflare.eu.org) :)
 
 - Feu que més persones utilitzin Tor per defecte perquè puguin experimentar el web des de la perspectiva de diferents parts del món.
 
