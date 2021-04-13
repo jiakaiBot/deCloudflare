@@ -50,12 +50,12 @@ Una shida? [Paza sauti yako sasa.](https://github.com/maraoz/maraoz.github.io/is
 
 ```
 Unasaidia tu udhibiti wa ushirika na ufuatiliaji wa watu wengi.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Ukurasa wako wa wavuti uko kwenye faragha-inayotumia vibaya bustani ya faragha ya CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Chukua muda kusoma sera ya faragha ya wavuti.
@@ -68,7 +68,7 @@ Lazima ifafanue "Cloudflare" ni nini, na uombe ruhusa ya kushiriki data yako na 
 ```
 Nimesoma sera yako ya faragha na siwezi kupata neno Cloudflare.
 Ninakataa kushiriki data na wewe ikiwa utaendelea kulisha data yangu kwa Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Huu ni mfano wa sera ya faragha ambayo haina neno Cloudflare.
@@ -117,10 +117,10 @@ Ikiwa Cloudflare inavuja habari yako au haitakuruhusu uunganishe kwenye seva zet
 
 | Jina | Msanidi programu | Msaada | Inaweza Kuzuia | Inaweza Kuarifu | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ndio**     | **Ndio**     |  **Ndio** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Hapana     | **Ndio**     |  **Ndio** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Hapana     | **Ndio**     |  **Ndio** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ndio**     | **Ndio**     |  Hapana |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ndio**     | **Ndio**     |  **Ndio** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hapana     | **Ndio**     |  **Ndio** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hapana     | **Ndio**     |  **Ndio** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ndio**     | **Ndio**     |  Hapana |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ndio**     | **Ndio**     |  Hapana |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Hapana     | **Ndio**     |  Hapana |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Hapana     | **Ndio**     |  Hapana |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Kwa hivyo tunapendekeza juu ya meza tu. Hakuna kingine.
 
 - Waambie wengine karibu na wewe juu ya hatari za Cloudflare.
 
-- [Saidia kuboresha hifadhi hii.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Saidia kuboresha hifadhi hii.](http://crimeflare.eu.org).
   - Orodha zote mbili, hoja dhidi yake na maelezo.
 
-- [Andika na uweke hadharani mahali mambo yanapoharibika na Cloudflare (na kampuni zinazofanana), hakikisha kutaja hazina hii unapofanya hivyo](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Andika na uweke hadharani mahali mambo yanapoharibika na Cloudflare (na kampuni zinazofanana), hakikisha kutaja hazina hii unapofanya hivyo](http://crimeflare.eu.org) :)
 
 - Pata watu zaidi kutumia Tor kwa chaguo-msingi ili waweze kupata wavuti kutoka kwa mtazamo wa sehemu tofauti za ulimwengu.
 
