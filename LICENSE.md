@@ -12,7 +12,7 @@
 
 [Ĉi tiu deponejo](http://crimeflare.eu.org) estis kreita anonime, publike, por uzi la mondon [kontraŭstari](https://dw.expert/2020/06/13/the-dark-side-of-google-interview-with-ex-employee-of-the-company-zach-vorhies/) [Cloudflare](https://www.cloudflare.com/).
   
-Kontribuantoj, kiuj anonime kontribuis (inkluzive en [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)), venis antaŭen por doni al ĉi tiu projekto sian benon.
+Kontribuantoj, kiuj anonime [kontribuis](HISTORY.md) (inkluzive en [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)), venis antaŭen por doni al ĉi tiu projekto sian benon.
   
 CC0-permesilo permesas uzi tiujn dosierojn por iu ajn uzo, eĉ en manieroj, kiujn ni povus trovi malagrablaj aŭ kontestindaj. Vi ankaŭ povas enspezi monon el nia 
 CC0-laboro kaj vi ne postulas doni krediton al ni.
@@ -31,7 +31,7 @@ CC0-laboro kaj vi ne postulas doni krediton al ni.
 
 [This repository](http://crimeflare.eu.org) was created anonymously, in public, for the use of the world to [resist](https://dw.expert/2020/06/13/the-dark-side-of-google-interview-with-ex-employee-of-the-company-zach-vorhies/) [Cloudflare](https://www.cloudflare.com/).
   
-Contributors who have anonymously contributed (including in [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)) have since come forward to give this project their blessing.
+Contributors who have anonymously [contributed](HISTORY.md) (including in [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)) have since come forward to give this project their blessing.
   
 CC0 license allow you to use those files for any purpose, even in ways we may find distasteful or objectionable. You can also make money off our 
 CC0 work and you are not required to give credit to us.
