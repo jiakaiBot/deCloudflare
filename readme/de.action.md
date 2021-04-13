@@ -50,12 +50,12 @@ Du hast ein Problem? [Erhebe jetzt deine Stimme.](https://github.com/maraoz/mara
 
 ```
 Sie helfen nur der Unternehmenszensur und der Massenüberwachung.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Ihre Webseite befindet sich im privaten Garten von CloudFlare, der die Privatsphäre missbraucht.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Nehmen Sie sich etwas Zeit, um die Datenschutzbestimmungen der Website zu lesen.
@@ -68,7 +68,7 @@ Es muss erklären, was die "Cloudflare" ist, und um Erlaubnis bitten, Ihre Daten
 ```
 Ich habe Ihre Datenschutzrichtlinie gelesen und kann das Wort Cloudflare nicht finden.
 Ich lehne es ab, Daten mit Ihnen zu teilen, wenn Sie meine Daten weiterhin an Cloudflare weiterleiten.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Dies ist ein Beispiel für eine Datenschutzrichtlinie, die nicht das Wort Cloudflare enthält.
@@ -117,10 +117,10 @@ Wenn Cloudflare Ihre Informationen verliert oder Sie keine Verbindung zu unseren
 
 | Name | Entwickler | Unterstützung | Kann blockieren | Kann benachrichtigen | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ja**     | **Ja**     |  **Ja** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nein     | **Ja**     |  **Ja** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nein     | **Ja**     |  **Ja** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ja**     | **Ja**     |  Nein |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ja**     | **Ja**     |  **Ja** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nein     | **Ja**     |  **Ja** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nein     | **Ja**     |  **Ja** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ja**     | **Ja**     |  Nein |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ja**     | **Ja**     |  Nein |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nein     | **Ja**     |  Nein |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nein     | **Ja**     |  Nein |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Daher empfehlen wir nur die obige Tabelle. Nichts anderes.
 
 - Erzählen Sie anderen um Sie herum von den Gefahren von Cloudflare.
 
-- [Helfen Sie mit, dieses Repository zu verbessern.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Helfen Sie mit, dieses Repository zu verbessern.](http://crimeflare.eu.org).
   - Sowohl die Listen, die Argumente dagegen als auch die Details.
 
-- [Dokumentieren Sie und machen Sie sehr öffentlich, wo mit Cloudflare (und ähnlichen Unternehmen) etwas schief geht, und erwähnen Sie dieses Repository, wenn Sie dies tun](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Dokumentieren Sie und machen Sie sehr öffentlich, wo mit Cloudflare (und ähnlichen Unternehmen) etwas schief geht, und erwähnen Sie dieses Repository, wenn Sie dies tun](http://crimeflare.eu.org) :)
 
 - Lassen Sie standardmäßig mehr Menschen Tor verwenden, damit sie das Web aus der Perspektive verschiedener Teile der Welt erleben können.
 
