@@ -8,20 +8,21 @@ In 2021, Codeberg took down the project alleging libel.
 
 The CFT project is a non-profit charitable effort to
 promote decentralization, network neutrality, and privacy with
-Cloudflare (a top adversary of that cause) as the core focus.  CFT
-project provides a variety of free software tools to help protect the
-general public from Cloudflare.  An important component of protecting
-the community from Cloudflare is documenting websites that subject
-people to the harms of Cloudflare by maintaining a massive list of
-websites to avoid.
+[Cloudflare](../README.md) (a top adversary of that cause) as the core focus.
+CFT project provides a variety of free software tools to help protect the
+general public from Cloudflare.
+An important component of protecting the community from Cloudflare is 
+documenting websites that subject people to the harms of Cloudflare by 
+maintaining a [massive list](../cloudflare_users/domains) of websites to avoid.
 
-Unlike other tech giant adversaries to the CFT cause such as GAFAM
-(Google Amazon Facebook Apple Microsoft), Cloudflare operates
+Unlike other tech giant adversaries to the CFT cause such as [GAFAM](https://en.wikipedia.org/wiki/GAFAM)
+(Google, Amazon, Facebook, Apple, Microsoft), Cloudflare operates
 surreptitiously and largely unknown to the general public, despite
 having access to ~20-30%+ of the world's web traffic and 80%+ of CDN
-market.  Their existence is so much in the shadows that privacy orgs
-like EFF are largely oblivious to the threat of it.  Mainstream
-privacy orgs not only neglect to protect web users from Cloudflare,
+market.
+Their existence is so much in the shadows that privacy orgs
+like "[Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)" are largely oblivious to the threat of it.
+Mainstream privacy orgs not only neglect to protect web users from Cloudflare,
 but some of them actually naively use Cloudflare themselves and
 unwittingly work against their own interest and declared purpose.
 Some privacy and ethics advice sites like "Switching Software" 
@@ -60,9 +61,9 @@ gained trust by posing as those who support the CFT cause.
 
 Transparency is essential in exposing the corporate bias behind the
 information and advice you are getting.  For example, a forum for talk
-about bicycles might require Brompton representatives to be tagged as
-such so that other users are aware of the bias behind their posts.  It
-would actually be reckless *not* to identify such conflicts of
+about bicycles might require [Brompton](https://en.wikipedia.org/wiki/Brompton_Bicycle) representatives to be tagged as
+such so that other users are aware of the bias behind their posts.  
+It would actually be reckless *not* to identify such conflicts of
 interest.  This is particularly important when dealing with Cloudflare
 because they have proven to publish misinformation regularly.
 Codeberg's move to conceal who represents a company ultimately
@@ -83,10 +84,9 @@ was not collected on social media aliases even if it was public.
 > explicit consent of the person in question is illegal in EU.
 
 When a user posts a tweet, they do so with consent to the publication
-of that tweet.  If Codeberg's assertion above were true, then Nitter
-would be banned in Germany for republishing the tweets of Germans.  We
-know this is not true because Germans have access to the Nitter
-network.
+of that tweet.  If Codeberg's assertion above were true, then Twitter mirror sites 
+would be banned in Germany for republishing the tweets of Germans.  
+We know this is not true because Germans have access to the mirror sites.
 
 Codeberg's false accusation of illegal activity came with destructive
 removal of forked repositories
@@ -123,12 +123,12 @@ is designed to deceive the public while dodging legal accountability.
 > - Considering reports we received, a significant number of claims and
 > statements were factually false.
 
-CFT has received only one complaint.  It involved one social media
+CFT has received only **one** complaint.  It involved one social media
 alias that was listed and it turned out to be a misunderstanding
 surrounding the word "*support*".  The listed party claimed to not
 personally condone Cloudflare and thus claimed to not be a Cloudflare
-"supporter" on that basis.  But investigation of
-[public statements](https://codeberg.org/swiso/website/issues/141#issuecomment-69593)
+"supporter" on that basis.  
+But investigation of [public statements](https://codeberg.org/swiso/website/issues/141#issuecomment-69593)
 by that individual revealed that the other party actually supported
 Cloudflare operationally.  Note that Codeberg destroyed the
 investigation logs which led to the finding, so we can't cite them
@@ -155,7 +155,7 @@ advocacy sites to address the problem of detrimental advice.
 
 ### Analysis of Codeberg's Blog Announcement
 
-Codeberg [said](https://blog.codeberg.org/on-the-cloudflare-tor-takedown.html):
+Codeberg [said](https://web.archive.org/web/20210406012737/https://blog.codeberg.org/on-the-cloudflare-tor-takedown.html):
 
 > In the last couple of days, we have received multiple inquiries to
 > remove **sensitive information** from the crimeflare/cloudflare-tor
@@ -164,11 +164,11 @@ Codeberg [said](https://blog.codeberg.org/on-the-cloudflare-tor-takedown.html):
 
 (emphasis added)
 
-Data published by Twitter and public forums is not sensitive.  Anyone
+Data published on Twitter and public forums is not sensitive.  Anyone
 who posts in a public space and later has regrets, they have only
 themselves to blame.
 
-Privacy is like virginity: once you lose it, you can't have it back.
+Once you share your information publicly, you can't control them anymore.
 
 > We have been made aware that this repository contains lists of
 > usernames that are either linked with their Codeberg profile or
@@ -205,15 +205,16 @@ identifiable. This Regulation does not therefore concern the
 processing of such anonymous information, including for statistical or
 research purposes."
 ```
-CFT's Cloudflare supporter list did not contain real names; only
+
+CFT's [Cloudflare supporter list](../cloudflare_users/cloudflare_supporter.md) did not contain real names; only
 pseudoanonymous aliases.
 
 The listed alias of the subject who complained did not use an alias
-formed like "firstname_lastname", or any form that could reasonably
+formed like "firstName_lastName", or any form that could reasonably
 identify a natural individual person.
 
 The sole complaint CFT received lead to an investigation that found
-the data accurate.  Even though the GDPR right to be forgotten does
+the data **accurate**.  Even though the GDPR right to be forgotten does
 not have force in that case, it was removed anyway and therefore CFT
 was (and remains) in compliance with the GDPR right to be forgotten.
 
@@ -251,4 +252,4 @@ ignored in the absence of evidence.
 
 
 ---
-Original text provided by [humanacollaborator](https://git.sdf.org/humanacollaborator) / [GNU Affero General Public License](../LICENSE.md)
+Original text provided by [humanacollaborator](https://git.sdf.org/humanacollaborator). [License](../LICENSE.md)
