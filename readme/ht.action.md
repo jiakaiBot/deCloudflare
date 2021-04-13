@@ -50,12 +50,12 @@ Ou gen yon pwoblèm? [Leve vwa ou kounye a.](https://github.com/maraoz/maraoz.gi
 
 ```
 Ou jis ede antrepriz sansi ak siveyans mas.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Paj entènèt ou an se nan vi prive-abize prive gwo ranpa-jaden an CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Pran kèk tan li règleman sou vi prive sit entènèt la.
@@ -68,7 +68,7 @@ Li dwe eksplike ki sa "Cloudflare la" se, epi mande pou pèmisyon yo pataje done
 ```
 Mwen te li politik vi prive ou epi mwen pa ka jwenn mo Cloudflare la.
 Mwen refize pataje done avèk ou si ou kontinye manje done mwen an Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Sa a se yon egzanp sou politik vi prive ki pa gen mo Cloudflare la.
@@ -117,10 +117,10 @@ Si Cloudflare koule enfòmasyon ou oswa ou pa pral kite ou konekte ak serveurs n
 
 | Non | Devlopè | Sipò | Kapab bloke | Kapab Notifye | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Wi**     | **Wi**     |  **Wi** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Non     | **Wi**     |  **Wi** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Non     | **Wi**     |  **Wi** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Wi**     | **Wi**     |  Non |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Wi**     | **Wi**     |  **Wi** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Non     | **Wi**     |  **Wi** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Non     | **Wi**     |  **Wi** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Wi**     | **Wi**     |  Non |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Wi**     | **Wi**     |  Non |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Non     | **Wi**     |  Non |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Non     | **Wi**     |  Non |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Se poutèt sa nou rekòmande anwo tab la sèlman. Anyen ankò.
 
 - Di lòt moun bò kote ou sou danje ki genyen nan Cloudflare.
 
-- [Ede amelyore repozitwa sa a.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Ede amelyore repozitwa sa a.](http://crimeflare.eu.org).
   - Tou de lis yo, agiman yo kont li ak detay yo.
 
-- [Dokimante epi fè trè piblik kote bagay yo ale mal ak Cloudflare (ak konpayi ki sanble), asire w ke ou mansyone repozitwa sa a lè ou fè sa](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Dokimante epi fè trè piblik kote bagay yo ale mal ak Cloudflare (ak konpayi ki sanble), asire w ke ou mansyone repozitwa sa a lè ou fè sa](http://crimeflare.eu.org) :)
 
 - Jwenn plis moun lè l sèvi avèk Tor pa default pou yo ka fè eksperyans entènèt la soti nan pèspektiv nan diferan pati nan mond lan.
 
