@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 អ្នកកំពុងជួយអ្នកត្រួតពិនិត្យសាជីវកម្មនិងការឃ្លាំមើលដ៏ធំ។
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 គេហទំព័ររបស់អ្នកស្ថិតនៅក្នុងសួនឯកជនរបស់ CloudFlare ដោយរំលោភបំពានឯកជនភាព។
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - ចំណាយពេលខ្លះដើម្បីអានគោលការណ៍ភាពឯកជនរបស់គេហទំព័រ។
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 ខ្ញុំបានអានគោលការណ៍ឯកជនភាពរបស់អ្នកហើយខ្ញុំមិនអាចរកពាក្យ Cloudflare បានទេ។
 ខ្ញុំបដិសេធមិនចែករំលែកទិន្នន័យជាមួយអ្នកទេប្រសិនបើអ្នកបន្តផ្តល់ទិន្នន័យរបស់ខ្ញុំទៅ Cloudflare ។
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 នេះគឺជាឧទាហរណ៍នៃគោលការណ៍ឯកជនដែលមិនមានពាក្យ Cloudflare ។
@@ -117,10 +117,10 @@ AFAIK, គេហទំព័រសូន្យធ្វើដូចនេះ។ 
 
 | ឈ្មោះ | អ្នកអភិវឌ្ឍន៍ | គាំទ្រ | អាចរារាំង | អាចជូនដំណឹងបាន | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | ទេ     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | ទេ     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  ទេ |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ទេ     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ទេ     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  ទេ |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  ទេ |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ទេ     | **ត្រូវហើយ**     |  ទេ |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | ទេ     | **ត្រូវហើយ**     |  ទេ |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ប្រាប់អ្នកផ្សេងទៀតនៅជុំវិញអ្នកអំពីគ្រោះថ្នាក់នៃ Cloudflare ។
 
-- [ជួយកែលម្អឃ្លាំងនេះ។](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [ជួយកែលម្អឃ្លាំងនេះ។](http://crimeflare.eu.org).
   - ទាំងបញ្ជីអាគុយម៉ង់ប្រឆាំងនឹងវានិងព័ត៌មានលម្អិត។
 
-- [ចងក្រងឯកសារនិងផ្សព្វផ្សាយជាសាធារណៈនៅកន្លែងដែលមានបញ្ហាជាមួយ Cloudflare (និងក្រុមហ៊ុនស្រដៀងគ្នា) ត្រូវប្រាកដថានិយាយពីឃ្លាំងនេះពេលអ្នកធ្វើដូច្នេះ](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [ចងក្រងឯកសារនិងផ្សព្វផ្សាយជាសាធារណៈនៅកន្លែងដែលមានបញ្ហាជាមួយ Cloudflare (និងក្រុមហ៊ុនស្រដៀងគ្នា) ត្រូវប្រាកដថានិយាយពីឃ្លាំងនេះពេលអ្នកធ្វើដូច្នេះ](http://crimeflare.eu.org) :)
 
 - ទទួលបានមនុស្សកាន់តែច្រើនដោយប្រើ Tor តាមលំនាំដើមដូច្នេះពួកគេអាចទទួលបានបទពិសោធន៍ពីទស្សនៈពីផ្នែកផ្សេងៗនៃពិភពលោក។
 
