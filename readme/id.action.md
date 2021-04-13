@@ -50,12 +50,12 @@ Anda punya masalah? [Angkat suara Anda sekarang.](https://github.com/maraoz/mara
 
 ```
 Anda hanya membantu sensor perusahaan dan pengawasan massal.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Halaman web Anda berada di taman pribadi berdinding CloudFlare yang menyalahgunakan privasi.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Luangkan waktu untuk membaca kebijakan privasi situs web.
@@ -68,7 +68,7 @@ Itu harus menjelaskan apa itu "Cloudflare", dan meminta izin untuk membagikan da
 ```
 Saya telah membaca kebijakan privasi Anda dan saya tidak dapat menemukan kata Cloudflare.
 Saya menolak untuk berbagi data dengan Anda jika Anda terus memberikan data saya ke Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Ini adalah contoh kebijakan privasi yang tidak memiliki kata Cloudflare.
@@ -117,10 +117,10 @@ Jika Cloudflare membocorkan informasi Anda atau tidak mengizinkan Anda terhubung
 
 | Nama | Pengembang | Dukung | Dapat Memblokir | Dapat Memberitahu | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Iya**     | **Iya**     |  **Iya** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Tidak     | **Iya**     |  **Iya** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Tidak     | **Iya**     |  **Iya** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Iya**     | **Iya**     |  Tidak |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Iya**     | **Iya**     |  **Iya** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Tidak     | **Iya**     |  **Iya** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Tidak     | **Iya**     |  **Iya** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Iya**     | **Iya**     |  Tidak |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Iya**     | **Iya**     |  Tidak |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Tidak     | **Iya**     |  Tidak |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Tidak     | **Iya**     |  Tidak |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Oleh karena itu kami merekomendasikan tabel di atas saja. Tidak ada lagi.
 
 - Beri tahu orang lain di sekitar Anda tentang bahaya Cloudflare.
 
-- [Bantu perbaiki repositori ini.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Bantu perbaiki repositori ini.](http://crimeflare.eu.org).
   - Baik daftar, argumen yang menentangnya, dan detailnya.
 
-- [Dokumentasikan dan publikasikan di mana ada yang salah dengan Cloudflare (dan perusahaan serupa), pastikan untuk menyebutkan repositori ini ketika Anda melakukannya](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Dokumentasikan dan publikasikan di mana ada yang salah dengan Cloudflare (dan perusahaan serupa), pastikan untuk menyebutkan repositori ini ketika Anda melakukannya](http://crimeflare.eu.org) :)
 
 - Buat lebih banyak orang menggunakan Tor secara default sehingga mereka dapat merasakan web dari sudut pandang berbagai belahan dunia.
 
