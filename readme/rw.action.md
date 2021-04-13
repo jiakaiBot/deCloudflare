@@ -50,12 +50,12 @@ Ufite ikibazo? [Zamura ijwi ryawe nonaha.](https://github.com/maraoz/maraoz.gith
 
 ```
 Urimo gufasha gusa kugenzura ibigo no kugenzura imbaga.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Urupapuro rwurubuga rwawe ruri mu buzima-bwihohotera bwihariye bwikingiye-busitani bwa CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Fata umwanya wo gusoma politiki yibanga y'urubuga.
@@ -68,7 +68,7 @@ Igomba gusobanura icyo "Cloudflare" aricyo, kandi igasaba uruhushya rwo gusangir
 ```
 Nasomye politiki yi banga yawe kandi sinshobora kubona ijambo Cloudflare.
 Nanze gusangira nawe amakuru niba ukomeje kugaburira amakuru yanjye kuri Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Uru nurugero rwa politiki yi banga idafite ijambo Cloudflare.
@@ -117,10 +117,10 @@ Niba Cloudflare imennye amakuru yawe cyangwa ntizakwemerera guhuza na seriveri z
 
 | Izina | Iterambere | Inkunga | Irashobora guhagarika | Urashobora Kumenyesha | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Yego**     | **Yego**     |  **Yego** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Oya     | **Yego**     |  **Yego** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Oya     | **Yego**     |  **Yego** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Yego**     | **Yego**     |  Oya |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Yego**     | **Yego**     |  **Yego** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Oya     | **Yego**     |  **Yego** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Oya     | **Yego**     |  **Yego** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Yego**     | **Yego**     |  Oya |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Yego**     | **Yego**     |  Oya |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Oya     | **Yego**     |  Oya |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Oya     | **Yego**     |  Oya |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Kubwibyo turasaba hejuru kumeza gusa. Ntakindi.
 
 - Bwira abandi hafi yawe ububi bwa Cloudflare.
 
-- [Fasha kunoza ububiko.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Fasha kunoza ububiko.](http://crimeflare.eu.org).
   - Urutonde rwombi, impaka zirwanya nibisobanuro birambuye.
 
-- [Inyandiko kandi utangaze cyane aho ibintu bitagenda neza na Cloudflare (nibindi bigo bisa), urebe neza ko uvuga ububiko iyo ubikoze](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Inyandiko kandi utangaze cyane aho ibintu bitagenda neza na Cloudflare (nibindi bigo bisa), urebe neza ko uvuga ububiko iyo ubikoze](http://crimeflare.eu.org) :)
 
 - Shaka abantu benshi bakoresha Tor muburyo busanzwe kugirango bashobore kumenya urubuga uhereye mubice bitandukanye byisi.
 
