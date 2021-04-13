@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 سىز پەقەت شىركەت تەكشۈرۈشى ۋە كەڭ كۆلەملىك نازارەت قىلىشقا ياردەم قىلىۋاتىسىز.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 تور بېتىڭىز CloudFlare نىڭ شەخسىي سۇيىئىستېمال قىلىنغان شەخسىي تام باغچىسىدا.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - بىر ئاز ۋاقىت چىقىرىپ توربېكەتنىڭ مەخپىيەتلىك سىياسىتىنى ئوقۇڭ.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 مەن سىزنىڭ مەخپىيەتلىك سىياسىتىڭىزنى ئوقۇدىم ، Cloudflare دېگەن سۆزنى تاپالمىدىم.
 ئەگەر داۋاملىق سانلىق مەلۇماتلىرىڭىزنى Cloudflare غا يەتكۈزسىڭىز ، مەن سىز بىلەن ئورتاقلىشىشنى رەت قىلىمەن.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 بۇ Cloudflare دېگەن سۆز بولمىغان مەخپىيەتلىك سىياسىتىنىڭ بىر مىسالى.
@@ -117,10 +117,10 @@ AFAIK ، نۆل تور بېكەت بۇنى قىلىدۇ. ئۇلارغا ئىشى
 
 | ئىسمى | Developer | قوللاش | چەكلىيەلەيدۇ | ئۇقتۇرالايدۇ | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ھەئە**     | **ھەئە**     |  **ھەئە** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | ياق     | **ھەئە**     |  **ھەئە** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | ياق     | **ھەئە**     |  **ھەئە** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ھەئە**     | **ھەئە**     |  ياق |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ھەئە**     | **ھەئە**     |  **ھەئە** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ياق     | **ھەئە**     |  **ھەئە** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ياق     | **ھەئە**     |  **ھەئە** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ھەئە**     | **ھەئە**     |  ياق |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ھەئە**     | **ھەئە**     |  ياق |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ياق     | **ھەئە**     |  ياق |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | ياق     | **ھەئە**     |  ياق |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ئەتراپىڭىزدىكى باشقىلارغا Cloudflare نىڭ خەتىرىنى سۆزلەپ بېرىڭ.
 
-- [بۇ ئامبارنى ياخشىلاشقا ياردەملىشىڭ.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [بۇ ئامبارنى ياخشىلاشقا ياردەملىشىڭ.](http://crimeflare.eu.org).
   - ھەر ئىككى تىزىملىك ​​، ئۇنىڭغا قارشى دەلىللەر ۋە تەپسىلاتلار.
 
-- [Cloudflare (ۋە شۇنىڭغا ئوخشاش شىركەتلەر) دە خاتالىق كۆرۈلسە ھۆججەت ۋە ھۆججەتلەرنى ئاشكارىلاڭ ، بۇنداق قىلغاندا بۇ ئامبارنى تىلغا ئېلىڭ.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Cloudflare (ۋە شۇنىڭغا ئوخشاش شىركەتلەر) دە خاتالىق كۆرۈلسە ھۆججەت ۋە ھۆججەتلەرنى ئاشكارىلاڭ ، بۇنداق قىلغاندا بۇ ئامبارنى تىلغا ئېلىڭ.](http://crimeflare.eu.org) :)
 
 - سۈكۈتتىكى ھالەتتە تور ئىشلىتىۋاتقان تېخىمۇ كۆپ كىشىلەرنى قولغا كەلتۈرۈڭ ، ئۇلار دۇنيانىڭ ئوخشىمىغان جايلىرى نۇقتىسىدىن تورنى ھېس قىلالايدۇ.
 
