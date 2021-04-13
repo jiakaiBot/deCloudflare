@@ -50,12 +50,12 @@
 
 ```
 あなたは企業の検閲と大量監視を支援しているだけです。
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 あなたのウェブページはCloudFlareのプライバシーを乱用するプライベートウォールガーデンにあります。
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - ウェブサイトのプライバシーポリシーをお読みください。
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 あなたのプライバシーポリシーを読みましたが、Cloudflareという単語が見つかりません。
 あなたが私のデータをCloudflareに供給し続けるならば、私はあなたとデータを共有することを拒否します。
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 これは、Cloudflareという単語が含まれていないプライバシーポリシーの例です。
@@ -117,10 +117,10 @@ Cloudflareがあなたの情報を漏らしたり、あなたが私たちのサ�
 
 | 名前 | 開発者 | サポート | ブロックできます | 通知できます | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **はい**     | **はい**     |  **はい** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | 番号     | **はい**     |  **はい** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | 番号     | **はい**     |  **はい** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **はい**     | **はい**     |  番号 |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **はい**     | **はい**     |  **はい** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 番号     | **はい**     |  **はい** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 番号     | **はい**     |  **はい** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **はい**     | **はい**     |  番号 |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **はい**     | **はい**     |  番号 |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | 番号     | **はい**     |  番号 |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | 番号     | **はい**     |  番号 |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Cloudflareの危険性について周りの人に伝えてください。
 
-- [このリポジトリの改善にご協力ください。](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [このリポジトリの改善にご協力ください。](http://crimeflare.eu.org).
   - 両方のリスト、それに対する議論と詳細。
 
-- [Cloudflare（および同様の会社）で問題が発生した場所を文書化して非常に公開し、そうするときは必ずこのリポジトリに言及してください](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Cloudflare（および同様の会社）で問題が発生した場所を文書化して非常に公開し、そうするときは必ずこのリポジトリに言及してください](http://crimeflare.eu.org) :)
 
 - デフォルトでTorを使用する人を増やして、世界のさまざまな部分の視点からWebを体験できるようにします。
 
