@@ -50,12 +50,12 @@ Nwere nsogbu? [Welite olu gị ugbu a.](https://github.com/maraoz/maraoz.github.
 
 ```
 Naanị ị na-enyere nyocha ụlọ ọrụ na nyocha onyunyo.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Ibe weebụ gị dị na ogige nzuzo nke CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Wepụta oge iji gụọ iwu nzuzo nke weebụsaịtị.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 Agụla m iwu nzuzo gị ma enweghị m ike ịchọta okwu ahụ Cloudflare.
 Ajụrụ m ịkọrọ gị data ma ọ bụrụ na ị gaa n'ihu na-eri data m na Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Nke a bụ ihe atụ nke iwu nzuzo nke na-enweghị okwu Cloudflare.
@@ -117,10 +117,10 @@ You kwenyekwara ịkekọrịta data gị na Cloudflare ma kwenye na nkwupụta 
 
 | Aha | Mmepụta | Nkwado | Nwere ike Gbochie | Nwere ike Gwa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Eeh**     | **Eeh**     |  **Eeh** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Mba     | **Eeh**     |  **Eeh** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Mba     | **Eeh**     |  **Eeh** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Eeh**     | **Eeh**     |  Mba |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Eeh**     | **Eeh**     |  **Eeh** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Mba     | **Eeh**     |  **Eeh** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Mba     | **Eeh**     |  **Eeh** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Eeh**     | **Eeh**     |  Mba |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Eeh**     | **Eeh**     |  Mba |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Mba     | **Eeh**     |  Mba |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Mba     | **Eeh**     |  Mba |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Ya mere, anyị nwere ike ikwu n'elu table naanị. Ọ dịghị ihe ọzọ.
 
 - Gwa ndị ọzọ nọ gị gburugburu gbasara ihe egwu dị na Cloudflare.
 
-- [Nyere aka melite ebe nchekwa a.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Nyere aka melite ebe nchekwa a.](http://crimeflare.eu.org).
   - Ma ndepụta, arụmụka megide ya na nkọwa.
 
-- [Akwụkwọ ma mee ka ọha na eze mara ebe ihe na-ezighị ezi na Cloudflare (yana ụlọ ọrụ ndị yiri ya), na-ejide n'aka ịkọwa nchekwa a mgbe ị mere ya](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Akwụkwọ ma mee ka ọha na eze mara ebe ihe na-ezighị ezi na Cloudflare (yana ụlọ ọrụ ndị yiri ya), na-ejide n'aka ịkọwa nchekwa a mgbe ị mere ya](http://crimeflare.eu.org) :)
 
 - Mee ka ọtụtụ ndị mmadụ na-eji Tor na ndabara ka ha nwee ike ịnweta weebụ site n'akụkụ nke ụwa dị iche iche.
 
