@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 איר העלפֿן נאָר פֿירמע צענזור און מאַסע סערוויילאַנס.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 דיין וועב בלאַט איז אין די פּריוואַטקייט-אַביוזינג פּריוואַט וואָלד-גאָרטן פון CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - נעמען עטלעכע מאָל צו לייענען די פּריוואַטקייט פּאָליטיק פון די וועבזייטל.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 איך'ווע לייענען דיין פּריוואַטקייט פּאָליטיק און איך קען נישט געפֿינען די וואָרט קלאָודפלאַרע.
 איך אָפּזאָגן צו טיילן דאַטן מיט איר אויב איר פאָרזעצן צו קאָרמען מיין דאַטן צו Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 דאָס איז אַ ביישפּיל פון פּריוואַטקייט פּאָליטיק וואָס טוט נישט האָבן די וואָרט Cloudflare.
@@ -117,10 +117,10 @@ AFAIK, נול וועבזייטל טאָן דאָס. וועט איר צוטרוי
 
 | נאָמען | דעוועלאָפּער | שטיצן | קענען בלאַק | קענען געבנ צו וויסן | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **יאָ**     | **יאָ**     |  **יאָ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | ניין     | **יאָ**     |  **יאָ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | ניין     | **יאָ**     |  **יאָ** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **יאָ**     | **יאָ**     |  ניין |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **יאָ**     | **יאָ**     |  **יאָ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ניין     | **יאָ**     |  **יאָ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ניין     | **יאָ**     |  **יאָ** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **יאָ**     | **יאָ**     |  ניין |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **יאָ**     | **יאָ**     |  ניין |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ניין     | **יאָ**     |  ניין |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | ניין     | **יאָ**     |  ניין |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - דערציילן אנדערע אַרום איר וועגן די דיינדזשערז פון קלאָודפלאַרע.
 
-- [העלפֿן פֿאַרבעסערן דעם ריפּאַזאַטאָרי.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [העלפֿן פֿאַרבעסערן דעם ריפּאַזאַטאָרי.](http://crimeflare.eu.org).
   - אי די ליסטעס, די טענות קעגן אים און די פּרטים.
 
-- [דאָקומענטירן און מאַכן זייער עפנטלעך ווו די פאַלש פאַלש מיט Cloudflare (און ענלעך קאָמפּאַניעס) מאַכן זיכער צו דערמאָנען דעם ריפּאַזאַטאָרי ווען איר טאָן דאָס](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [דאָקומענטירן און מאַכן זייער עפנטלעך ווו די פאַלש פאַלש מיט Cloudflare (און ענלעך קאָמפּאַניעס) מאַכן זיכער צו דערמאָנען דעם ריפּאַזאַטאָרי ווען איר טאָן דאָס](http://crimeflare.eu.org) :)
 
 - באַקומען מער מענטשן מיט Tor דורך פעליקייַט, אַזוי זיי קענען דערפאַרונג די וועב פֿון דער פּערספּעקטיוו פון פאַרשידענע טיילן פון דער וועלט.
 
