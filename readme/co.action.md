@@ -50,12 +50,12 @@ Avete un prublema? [Alzate a to voce avà.](https://github.com/maraoz/maraoz.git
 
 ```
 Aiutate solu a censura d'impresa è a vigilanza di massa.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 A vostra pagina web hè in u giardinu privatu abusatu di privacy di CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Pigliate un pocu di tempu per leghje a pulitica di privacy di u situ web.
@@ -68,7 +68,7 @@ Deve spiegà ciò chì hè u "Cloudflare", è dumandà l'autorizazione per spart
 ```
 Aghju lettu a vostra pulitica di privacy è ùn possu truvà a parolla Cloudflare.
 Ricusu di sparte dati cun voi se continuate à furnisce i mo dati à Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Questu hè un esempiu di pulitica di privacy chì ùn hà micca a parolla Cloudflare.
@@ -117,10 +117,10 @@ Se Cloudflare perde e vostre informazioni o ùn vi lascia micca cunnessione à i
 
 | Nome | Sviluppatore | Supportu | Can Block | Can Notificà | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Iè**     | **Iè**     |  **Iè** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Innò     | **Iè**     |  **Iè** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Innò     | **Iè**     |  **Iè** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Iè**     | **Iè**     |  Innò |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Iè**     | **Iè**     |  **Iè** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Innò     | **Iè**     |  **Iè** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Innò     | **Iè**     |  **Iè** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Iè**     | **Iè**     |  Innò |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Iè**     | **Iè**     |  Innò |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Innò     | **Iè**     |  Innò |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Innò     | **Iè**     |  Innò |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Dunque cunsigliemu solu a tavula sopra. Nunda altru.
 
 - Dì à l'altri intornu à voi nantu à i periculi di Cloudflare.
 
-- [Aiutate à migliurà stu repositoriu.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Aiutate à migliurà stu repositoriu.](http://crimeflare.eu.org).
   - Sia e liste, l'argumenti contru è i dettagli.
 
-- [Documentate è fate assai publicu induve e cose vanu male cù Cloudflare (è cumpagnie simili), assicurenduvi di menziunà stu repositoriu quandu fate cusì](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Documentate è fate assai publicu induve e cose vanu male cù Cloudflare (è cumpagnie simili), assicurenduvi di menziunà stu repositoriu quandu fate cusì](http://crimeflare.eu.org) :)
 
 - Uttenite più persone chì utilizanu Tor per difettu per pudè sperimentà u web da a perspettiva di e diverse parti di u mondu.
 
