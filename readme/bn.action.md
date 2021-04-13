@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 আপনি কেবল কর্পোরেট সেন্সরশিপ এবং গণ নজরদারি সহায়তা করছেন।
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 আপনার ওয়েব পৃষ্ঠাটি ক্লাউডফ্লেয়ারের গোপনীয়তা-আপত্তিজনক ব্যক্তিগত প্রাচীর-উদ্যানের মধ্যে রয়েছে।
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - ওয়েবসাইটের গোপনীয়তা নীতি পড়তে কিছুটা সময় নিন।
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 আমি আপনার গোপনীয়তা নীতি পড়েছি এবং ক্লাউডফ্লেয়ার শব্দটি খুঁজে পাচ্ছি না।
 আপনি যদি ক্লাউডফ্লেয়ারে আমার ডেটা ফিড করতে থাকেন তবে আমি আপনার সাথে ডেটা ভাগ করতে অস্বীকার করছি।
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 এটি গোপনীয়তা নীতির উদাহরণ যা ক্লাউডফ্লেয়ার শব্দটি নেই।
@@ -117,10 +117,10 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 
 | নাম | বিকাশকারী | সমর্থন | ক্যান ব্লক | জানাতে পারি Can | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **হ্যাঁ**     | **হ্যাঁ**     |  **হ্যাঁ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | না     | **হ্যাঁ**     |  **হ্যাঁ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | না     | **হ্যাঁ**     |  **হ্যাঁ** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **হ্যাঁ**     | **হ্যাঁ**     |  না |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **হ্যাঁ**     | **হ্যাঁ**     |  **হ্যাঁ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | না     | **হ্যাঁ**     |  **হ্যাঁ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | না     | **হ্যাঁ**     |  **হ্যাঁ** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **হ্যাঁ**     | **হ্যাঁ**     |  না |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **হ্যাঁ**     | **হ্যাঁ**     |  না |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | না     | **হ্যাঁ**     |  না |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | না     | **হ্যাঁ**     |  না |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ক্লাউডফ্লেয়ারের বিপদ সম্পর্কে আপনার চারপাশের অন্যদের বলুন।
 
-- [এই সংগ্রহস্থলটি উন্নত করতে সহায়তা করুন।](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [এই সংগ্রহস্থলটি উন্নত করতে সহায়তা করুন।](http://crimeflare.eu.org).
   - উভয় তালিকাগুলি, এর বিরুদ্ধে যুক্তি এবং বিশদ।
 
-- [ক্লাউডফ্লেয়ার (এবং অনুরূপ সংস্থাগুলি) এর সাথে জিনিসগুলি ভুল হয়ে যায় যেখানে নথিটি তৈরি করুন এবং এটি খুব প্রকাশ্যে করুন, যখন আপনি এটি করেন তখন এই সংগ্রহস্থলের উল্লেখ নিশ্চিত করে নিন](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [ক্লাউডফ্লেয়ার (এবং অনুরূপ সংস্থাগুলি) এর সাথে জিনিসগুলি ভুল হয়ে যায় যেখানে নথিটি তৈরি করুন এবং এটি খুব প্রকাশ্যে করুন, যখন আপনি এটি করেন তখন এই সংগ্রহস্থলের উল্লেখ নিশ্চিত করে নিন](http://crimeflare.eu.org) :)
 
 - ডিফল্টরূপে টোর ব্যবহার করে আরও বেশি লোক পান যাতে তারা বিশ্বের বিভিন্ন অংশের দৃষ্টিকোণ থেকে ওয়েবটি অভিজ্ঞতা করতে পারে।
 
