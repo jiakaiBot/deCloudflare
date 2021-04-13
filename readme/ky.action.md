@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 Сиз жөн гана корпоративдик цензурага жана жапырт көзөмөлдөөгө жардам берип жатасыз.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Веб баракчаңыз CloudFlare купуялыгын бузган жеке дубал бакчасында жайгашкан.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Бир аз убакыт бөлүп, вебсайттын купуялык саясатын окуп чыгыңыз.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 Мен сиздин купуялуулук саясатыңызды окуп чыктым жана Cloudflare сөзүн таба албай жатам.
 Менин маалыматтарымды Cloudflare менен камсыз кыла берсеңиз, сиз менен маалымат бөлүшүүдөн баш тартам.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Бул Cloudflare сөзү жок купуялык саясатынын мисалы.
@@ -117,10 +117,10 @@ AFAIK, нөлдүк веб-сайт муну жасайт. Аларга ишен
 
 | Аты | Иштеп чыгуучу | Колдоо | Бөгөттөй алат | Билдире алат | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ооба**     | **Ооба**     |  **Ооба** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Жок     | **Ооба**     |  **Ооба** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Жок     | **Ооба**     |  **Ооба** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ооба**     | **Ооба**     |  Жок |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ооба**     | **Ооба**     |  **Ооба** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Жок     | **Ооба**     |  **Ооба** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Жок     | **Ооба**     |  **Ооба** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ооба**     | **Ооба**     |  Жок |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ооба**     | **Ооба**     |  Жок |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Жок     | **Ооба**     |  Жок |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Жок     | **Ооба**     |  Жок |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Cloudflare коркунучу жөнүндө айланаңыздагы башкаларга айтып бериңиз.
 
-- [Бул кампаны өркүндөтүүгө жардам бериңиз.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Бул кампаны өркүндөтүүгө жардам бериңиз.](http://crimeflare.eu.org).
   - Тизмелер дагы, ага каршы келтирилген жүйөлөр дагы, деталдары дагы.
 
-- [Cloudflare (жана ушул сыяктуу компаниялар) менен ката кеткен жерде документтештирип, ачыкка чыгарыңыз, ошондо сиз ушул репозиторийди сөзсүз түрдө айтып коюңуз.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Cloudflare (жана ушул сыяктуу компаниялар) менен ката кеткен жерде документтештирип, ачыкка чыгарыңыз, ошондо сиз ушул репозиторийди сөзсүз түрдө айтып коюңуз.](http://crimeflare.eu.org) :)
 
 - Демейки шартта Tor колдонуп жаткан адамдардын санын көбөйтүп алыңыз, ошондо алар дүйнөнүн ар кайсы бурчунан көз чаптыра алышат.
 
