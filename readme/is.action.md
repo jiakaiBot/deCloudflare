@@ -50,12 +50,12 @@ Ertu með vandamál? [Lyftu röddinni núna.](https://github.com/maraoz/maraoz.g
 
 ```
 Þú ert bara að hjálpa til við ritskoðun fyrirtækja og fjöldaeftirlit.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Vefsíðan þín er í persónuverndarmisnotuðum garði CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Taktu þér tíma til að lesa persónuverndarstefnu vefsíðunnar.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 Ég hef lesið persónuverndarstefnu þína og ég finn ekki orðið Cloudflare.
 Ég neita að deila gögnum með þér ef þú heldur áfram að færa gögnin mín til Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Þetta er dæmi um persónuverndarstefnu sem hefur ekki orðið Cloudflare.
@@ -117,10 +117,10 @@ Ef Cloudflare lekur upplýsingum þínum eða leyfir þér ekki að tengjast net
 
 | Nafn | Hönnuður | Stuðningur | Getur lokað | Get látið vita | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Já**     | **Já**     |  **Já** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nei     | **Já**     |  **Já** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nei     | **Já**     |  **Já** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Já**     | **Já**     |  Nei |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Já**     | **Já**     |  **Já** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nei     | **Já**     |  **Já** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nei     | **Já**     |  **Já** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Já**     | **Já**     |  Nei |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Já**     | **Já**     |  Nei |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nei     | **Já**     |  Nei |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nei     | **Já**     |  Nei |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Við skulum tala um friðhelgi annars hugbúnaðar.
 
 - Segðu öðrum í kringum þig um hættuna sem fylgir Cloudflare.
 
-- [Hjálpaðu til við að bæta þessa geymslu.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Hjálpaðu til við að bæta þessa geymslu.](http://crimeflare.eu.org).
   - Bæði listarnir, rökin gegn því og smáatriðin.
 
-- [Skjalaðu og gerðu mjög opinber þar sem hlutirnir fara úrskeiðis með Cloudflare (og svipuð fyrirtæki) og vertu viss um að nefna þessa geymslu þegar þú gerir það](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Skjalaðu og gerðu mjög opinber þar sem hlutirnir fara úrskeiðis með Cloudflare (og svipuð fyrirtæki) og vertu viss um að nefna þessa geymslu þegar þú gerir það](http://crimeflare.eu.org) :)
 
 - Fáðu fleiri sem nota Tor sjálfgefið svo þeir geti upplifað vefinn frá sjónarhorni mismunandi heimshluta.
 
