@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 તમે ફક્ત કોર્પોરેટ સેન્સરશીપ અને સામૂહિક દેખરેખને સહાય કરી રહ્યાં છો.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 તમારું વેબ પૃષ્ઠ ક્લાઉડફ્લેરના ગોપનીયતા-દુરુપયોગના ખાનગી દિવાલોવાળા બગીચામાં છે.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - વેબસાઇટની ગોપનીયતા નીતિ વાંચવા માટે થોડો સમય કા Takeો.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 મેં તમારી ગોપનીયતા નીતિ વાંચી છે અને મને ક્લાઉડફ્લેર શબ્દ મળી શકતો નથી.
 જો તમે ક્લાઉડફ્લેરે મારો ડેટા ફીડ કરવાનું ચાલુ રાખશો તો હું તમારી સાથે ડેટા શેર કરવાનો ઇનકાર કરું છું.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 આ ગોપનીયતા નીતિનું ઉદાહરણ છે જેમાં ક્લાઉડફ્લેર શબ્દ નથી.
@@ -117,10 +117,10 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 
 | નામ | વિકાસકર્તા | આધાર | અવરોધિત કરી શકો છો | સૂચિત કરી શકે છે | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **હા**     | **હા**     |  **હા** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | ના     | **હા**     |  **હા** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | ના     | **હા**     |  **હા** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **હા**     | **હા**     |  ના |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **હા**     | **હા**     |  **હા** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ના     | **હા**     |  **હા** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ના     | **હા**     |  **હા** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **હા**     | **હા**     |  ના |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **હા**     | **હા**     |  ના |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ના     | **હા**     |  ના |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | ના     | **હા**     |  ના |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ક્લાઉડફ્લેરના જોખમો વિશે તમારી આસપાસના અન્ય લોકોને કહો.
 
-- [આ ભંડારને સુધારવામાં સહાય કરો.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [આ ભંડારને સુધારવામાં સહાય કરો.](http://crimeflare.eu.org).
   - બંને સૂચિઓ, તેની વિરુદ્ધ દલીલો અને વિગતો.
 
-- [ક્લાઉડફ્લેરે (અને સમાન કંપનીઓ) માં વસ્તુઓ ખોટી પડે ત્યાં દસ્તાવેજ બનાવો અને ખૂબ સાર્વજનિક બનાવો, જ્યારે તમે આવો ત્યારે આ ભંડારનો ઉલ્લેખ કરવાનું સુનિશ્ચિત કરો](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [ક્લાઉડફ્લેરે (અને સમાન કંપનીઓ) માં વસ્તુઓ ખોટી પડે ત્યાં દસ્તાવેજ બનાવો અને ખૂબ સાર્વજનિક બનાવો, જ્યારે તમે આવો ત્યારે આ ભંડારનો ઉલ્લેખ કરવાનું સુનિશ્ચિત કરો](http://crimeflare.eu.org) :)
 
 - ડિફોલ્ટ રૂપે ટોરનો ઉપયોગ કરતા વધુ લોકોને મેળવો જેથી તેઓ વિશ્વના વિવિધ ભાગોના પરિપ્રેક્ષ્યથી વેબનો અનુભવ કરી શકે.
 
