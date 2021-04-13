@@ -50,12 +50,12 @@ Jo hawwe in probleem? [Ferheegje jo stim no.](https://github.com/maraoz/maraoz.g
 
 ```
 Jo helpe gewoan sensuer en massatafersjoch fan bedriuwen.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Jo webside is yn 'e privacy-misbrûkende privee muorre-tún fan CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Nim wat tiid om it privacybelied fan 'e webside te lêzen.
@@ -68,7 +68,7 @@ It moat útlizze wat de "Cloudflare" is, en freegje om tastimming om jo gegevens
 ```
 Ik haw jo privacybelied lêzen en ik kin it wurd Cloudflare net fine.
 Ik wegerje gegevens mei jo te dielen as jo myn gegevens trochgean oan Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Dit is in foarbyld fan privacybelied dat it wurd Cloudflare net hat.
@@ -117,10 +117,10 @@ As Cloudflare jo ynformaasje lekket of jo net litte ferbine mei ús servers, is 
 
 | Namme | Untwikkelder | Stypje | Kin blokkearje | Kin Notify | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ja**     | **ja**     |  **ja** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nee     | **ja**     |  **ja** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nee     | **ja**     |  **ja** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ja**     | **ja**     |  Nee |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ja**     | **ja**     |  **ja** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nee     | **ja**     |  **ja** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nee     | **ja**     |  **ja** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ja**     | **ja**     |  Nee |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ja**     | **ja**     |  Nee |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nee     | **ja**     |  Nee |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nee     | **ja**     |  Nee |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Dêrom advisearje wy allinich boppesteande tabel. Neat oars.
 
 - Fertel oaren om jo hinne oer de gefaren fan Cloudflare.
 
-- [Help dizze repository te ferbetterjen.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Help dizze repository te ferbetterjen.](http://crimeflare.eu.org).
   - Sawol de listen, de arguminten derop en de details.
 
-- [Dokumintearje en meitsje hiel iepenbier wêr't dingen ferkeard gean mei Cloudflare (en ferlykbere bedriuwen), soargje derfoar dat dit repository neamd wurdt as jo dat dogge](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Dokumintearje en meitsje hiel iepenbier wêr't dingen ferkeard gean mei Cloudflare (en ferlykbere bedriuwen), soargje derfoar dat dit repository neamd wurdt as jo dat dogge](http://crimeflare.eu.org) :)
 
 - Krij mear minsken standert troch Tor, sadat se it web kinne ûnderfine fanút it perspektyf fan ferskate dielen fan 'e wrâld.
 
