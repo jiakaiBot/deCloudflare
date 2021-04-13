@@ -50,12 +50,12 @@ Unenkinga? [Phakamisa izwi lakho manje.](https://github.com/maraoz/maraoz.github
 
 ```
 Usiza nje ukubhekwa kwezinkampani nokubhekwa kwabantu abaningi.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Ikhasi lakho le-web lisensimini yangasese ehlukumeza ngasese i-CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Zinike isikhathi sokufunda inqubomgomo yobumfihlo yewebhusayithi.
@@ -68,7 +68,7 @@ Kumele ichaze ukuthi yini i- "Cloudflare", bese icela imvume yokwabelana ngemini
 ```
 Ngifunde inqubomgomo yakho yobumfihlo futhi angilitholi igama elithi Cloudflare.
 Ngiyenqaba ukwaba idatha nawe uma uqhubeka nokuphakela idatha yami kuCloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Lesi yisibonelo senqubomgomo yobumfihlo engenalo igama elithi Cloudflare.
@@ -117,10 +117,10 @@ Uma i-Cloudflare ivuza imininingwane yakho noma ingakuvumeli ukuthi uxhume kumas
 
 | Igama | Unjiniyela | Ukusekela | Ingavimba | Ungazisa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Yebo**     | **Yebo**     |  **Yebo** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Cha     | **Yebo**     |  **Yebo** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Cha     | **Yebo**     |  **Yebo** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Yebo**     | **Yebo**     |  Cha |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Yebo**     | **Yebo**     |  **Yebo** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Cha     | **Yebo**     |  **Yebo** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Cha     | **Yebo**     |  **Yebo** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Yebo**     | **Yebo**     |  Cha |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Yebo**     | **Yebo**     |  Cha |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Cha     | **Yebo**     |  Cha |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Cha     | **Yebo**     |  Cha |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Ngakho-ke sincoma itafula elingenhla kuphela. Akukho okunye.
 
 - Tshela abanye abaseduze kwakho ngobungozi be-Cloudflare.
 
-- [Siza ukuthuthukisa lokhu kugcinwa.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Siza ukuthuthukisa lokhu kugcinwa.](http://crimeflare.eu.org).
   - Kokubili uhlu, izimpikiswano eziphikisana nalo nemininingwane.
 
-- [Bhala futhi wenze esidlangalaleni lapho izinto zingahambi kahle khona nge-Cloudflare (nezinkampani ezifanayo), uqiniseke ukuthi uyasho leli khosombe lapho wenza kanjalo](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Bhala futhi wenze esidlangalaleni lapho izinto zingahambi kahle khona nge-Cloudflare (nezinkampani ezifanayo), uqiniseke ukuthi uyasho leli khosombe lapho wenza kanjalo](http://crimeflare.eu.org) :)
 
 - Thola abantu abaningi abasebenzisa iTor ngokwakhona ukuze bakwazi ukuzwa iwebhu ngokombono wezingxenye ezahlukahlukene zomhlaba.
 
