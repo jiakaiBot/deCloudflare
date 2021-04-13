@@ -50,12 +50,12 @@ A ṣe iṣeduro pe ki o de ọdọ awọn alaṣẹ fun awọn iṣẹ kan pato
 
 ```
 O kan n ṣe iranlọwọ fun ifẹnukonu ile-iṣẹ ati kakiri ibi-aye.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Oju-iwe wẹẹbu rẹ wa ninu ogiri ogiri ti ikọkọ-abusing ti CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Gba akoko lati ka ilana aṣiri aaye ayelujara.
@@ -68,7 +68,7 @@ O gbọdọ ṣalaye kini “Cloudflare” jẹ, ki o beere fun igbanilaaye lati
 ```
 Mo ti ka eto imulo ipamọ rẹ ati pe Emi ko le rii ọrọ Cloudflare.
 Mo kọ lati pin data pẹlu rẹ ti o ba tẹsiwaju lati ṣe ifunni data mi si Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Eyi jẹ apẹẹrẹ ti eto imulo ipamọ eyiti ko ni ọrọ Cloudflare.
@@ -117,10 +117,10 @@ Ti Cloudflare jo alaye rẹ tabi kii yoo jẹ ki o sopọ si awọn olupin wa, k
 
 | Orukọ | Olùgbéejáde | Atilẹyin | Le Àkọsílẹ | Le leti | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Bẹẹni**     | **Bẹẹni**     |  **Bẹẹni** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Rara     | **Bẹẹni**     |  **Bẹẹni** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Rara     | **Bẹẹni**     |  **Bẹẹni** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Bẹẹni**     | **Bẹẹni**     |  Rara |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Bẹẹni**     | **Bẹẹni**     |  **Bẹẹni** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Rara     | **Bẹẹni**     |  **Bẹẹni** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Rara     | **Bẹẹni**     |  **Bẹẹni** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Bẹẹni**     | **Bẹẹni**     |  Rara |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Bẹẹni**     | **Bẹẹni**     |  Rara |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Rara     | **Bẹẹni**     |  Rara |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Rara     | **Bẹẹni**     |  Rara |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Nitorina a ṣe iṣeduro loke tabili nikan. Ko si nkankan mo.
 
 - Sọ fun awọn miiran ni ayika rẹ nipa awọn eewu Cloudflare.
 
-- [Ṣe iranlọwọ imudarasi ibi ipamọ yii.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Ṣe iranlọwọ imudarasi ibi ipamọ yii.](http://crimeflare.eu.org).
   - Mejeeji awọn atokọ, awọn ariyanjiyan lodi si rẹ ati awọn alaye.
 
-- [Iwe ati ṣe gbangba pupọ nibiti awọn nkan ṣe aṣiṣe pẹlu Cloudflare (ati awọn ile-iṣẹ iru), rii daju lati darukọ ibi ipamọ yii nigbati o ba ṣe bẹ](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Iwe ati ṣe gbangba pupọ nibiti awọn nkan ṣe aṣiṣe pẹlu Cloudflare (ati awọn ile-iṣẹ iru), rii daju lati darukọ ibi ipamọ yii nigbati o ba ṣe bẹ](http://crimeflare.eu.org) :)
 
 - Gba awọn eniyan diẹ sii nipa lilo Tor ni aiyipada ki wọn le ni iriri oju opo wẹẹbu lati oju-iwoye ti awọn ẹya oriṣiriṣi agbaye.
 
