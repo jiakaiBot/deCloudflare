@@ -444,6 +444,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- Página indisponível Estamos trabalhando para o acesso ser restabelecido o mais rápido possível. Tente novemente em alguns minutos. Bad gateway The web server reported a bad gateway error. Error reference number: 502 Cloudflare Location: Rio de Janeiro ([brauliosoares](https://twitter.com/BraulioSoares/status/1382018667773370369))
 - Got a Cloudflare error and when the screen popped up again there was a very bad scam attempt shown up. Please be aware of this ([cryptchem](https://twitter.com/CryptChem/status/1381978825958035457))
 - I try to embrace that deeply and just about every instance of getting an inacessible, frustrating, and invasive CAPTCHA when trying to access the vast majority of sites using things like Cloudflare that deny Tor exit nodes by defauly only reinforces my beliefs. ([_rvklein_](https://twitter.com/_rvklein_/status/1381839583424475137))
 - Cloudflare es una herramienta q usan algunas web para evitar ataques A veces sospecha de una persona (por x motivos) y te pone que pongas captcha para asegurarse que no seas un 🤖 ([tapofilms](https://twitter.com/TapoFilms/status/1381655932741025793))
