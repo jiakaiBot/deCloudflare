@@ -50,12 +50,12 @@ Sinulla on ongelma? [Nosta äänesi nyt.](https://github.com/maraoz/maraoz.githu
 
 ```
 Autat vain yritysten sensuuria ja joukkovalvontaa.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Verkkosivusi on CloudFlaren yksityisyyttä väärinkäyttävässä yksityisessä aidatussa puutarhassa.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Ota jonkin aikaa lukea verkkosivuston tietosuojakäytäntö.
@@ -68,7 +68,7 @@ Sen on selitettävä, mikä on "Cloudflare", ja pyydettävä lupaa jakaa tietoja
 ```
 Olen lukenut tietosuojakäytäntösi, enkä löydä sanaa Cloudflare.
 Kieltäydyn jakamasta tietoja kanssasi, jos jatkat tietojeni syöttämistä Cloudflareen.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Tämä on esimerkki tietosuojakäytännöstä, jossa ei ole sanaa Cloudflare.
@@ -117,10 +117,10 @@ Jos Cloudflare vuotaa tietosi tai ei anna sinun muodostaa yhteyttä palvelimille
 
 | Nimi | Kehittäjä | Tuki | Voi estää | Voi ilmoittaa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Joo**     | **Joo**     |  **Joo** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ei     | **Joo**     |  **Joo** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ei     | **Joo**     |  **Joo** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Joo**     | **Joo**     |  Ei |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Joo**     | **Joo**     |  **Joo** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ei     | **Joo**     |  **Joo** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ei     | **Joo**     |  **Joo** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Joo**     | **Joo**     |  Ei |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Joo**     | **Joo**     |  Ei |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ei     | **Joo**     |  Ei |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ei     | **Joo**     |  Ei |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Siksi suosittelemme vain yllä olevaa taulukkoa. Ei mitään muuta.
 
 - Kerro muille ympärilläsi Cloudflaren vaaroista.
 
-- [Auta parantamaan tätä arkistoa.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Auta parantamaan tätä arkistoa.](http://crimeflare.eu.org).
   - Sekä luettelot, sitä vastaan ​​esitetyt perustelut että yksityiskohdat.
 
-- [Dokumentoi ja julkaise hyvin, jos Cloudflaren (ja vastaavien yritysten) kanssa menee pieleen, ja muista mainita tämä arkisto, kun teet niin](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Dokumentoi ja julkaise hyvin, jos Cloudflaren (ja vastaavien yritysten) kanssa menee pieleen, ja muista mainita tämä arkisto, kun teet niin](http://crimeflare.eu.org) :)
 
 - Hanki Torin oletusarvoisesti enemmän ihmisiä, jotta he voivat kokea verkon eri puolilta maailmaa.
 
