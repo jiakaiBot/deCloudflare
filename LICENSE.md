@@ -7,6 +7,7 @@
 * `/addons/*` -- [MIT](https://eo.wikipedia.org/wiki/MIT-permesilo)
 * `/pdf/*` -- Nekonata (Vi povas trovi ekzempleron ĉie. Dankon al aŭtoroj.)
 * `/tool/block_cloudflare_mitm_fx/*` -- [MIT](tool/block_cloudflare_mitm_fx/LICENSE.md)
+* `subfiles/the_trouble_with_codeberg.md` -- [GNU AGPL](http://www.gnu.org/licenses/agpl-3.0.txt)
 * Else -- [PUBLIKA DOMINO (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/) = [WTFPL](http://www.wtfpl.net/about/)
 
 
@@ -26,6 +27,7 @@ CC0-laboro kaj vi ne postulas doni krediton al ni.
 * `/addons/*` -- [MIT](https://en.wikipedia.org/wiki/MIT_License)
 * `/pdf/*` -- Unknown (You can find a copy everywhere. Thanks to authors)
 * `/tool/block_cloudflare_mitm_fx/*` -- [MIT](tool/block_cloudflare_mitm_fx/LICENSE.md)
+* `subfiles/the_trouble_with_codeberg.md` -- [GNU AGPL](http://www.gnu.org/licenses/agpl-3.0.txt)
 * Else -- [PUBLIC DOMAIN (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/) = [WTFPL](http://www.wtfpl.net/about/)
 
 
