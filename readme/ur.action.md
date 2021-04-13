@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 آپ صرف کارپوریٹ سنسرشپ اور بڑے پیمانے پر نگرانی میں مدد کررہے ہیں۔
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 آپ کا ویب صفحہ کلاؤڈ فلایر کے نجی والڈ باغ سے متعلق پرائیویسی کے ساتھ ہے۔
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - ویب سائٹ کی رازداری کی پالیسی کو پڑھنے کے لئے کچھ وقت لگائیں۔
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 میں نے آپ کی رازداری کی پالیسی پڑھی ہے اور مجھے کلاؤڈ فلایر لفظ نہیں مل سکتا ہے۔
 میں آپ کے ساتھ ڈیٹا بانٹنے سے انکار کرتا ہوں اگر آپ میرے ڈیٹا کو کلاؤڈ فلایر پر کھلا رہے ہیں۔
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 یہ رازداری کی پالیسی کی ایک مثال ہے جس میں کلاؤڈ فلایر لفظ نہیں ہے۔
@@ -117,10 +117,10 @@ AFAIK ، صفر ویب سائٹ یہ کام کرتی ہے۔ کیا آپ ان پ�
 
 | نام | ڈویلپر | مدد کریں | بلاک کر سکتے ہیں | اطلاع دے سکتے ہیں | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **جی ہاں**     | **جی ہاں**     |  **جی ہاں** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | نہیں     | **جی ہاں**     |  **جی ہاں** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | نہیں     | **جی ہاں**     |  **جی ہاں** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **جی ہاں**     | **جی ہاں**     |  نہیں |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **جی ہاں**     | **جی ہاں**     |  **جی ہاں** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نہیں     | **جی ہاں**     |  **جی ہاں** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نہیں     | **جی ہاں**     |  **جی ہاں** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **جی ہاں**     | **جی ہاں**     |  نہیں |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **جی ہاں**     | **جی ہاں**     |  نہیں |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | نہیں     | **جی ہاں**     |  نہیں |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | نہیں     | **جی ہاں**     |  نہیں |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - اپنے آس پاس کے دوسروں کو کلاؤڈ فلایر کے خطرات کے بارے میں بتائیں۔
 
-- [اس ذخیر improve کو بہتر بنانے میں مدد کریں۔](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [اس ذخیر improve کو بہتر بنانے میں مدد کریں۔](http://crimeflare.eu.org).
   - دونوں فہرستیں ، اس کے خلاف دلائل اور تفصیلات۔
 
-- [جب آپ کلاؤڈ فلائر (اور اسی طرح کی کمپنیاں) کے ساتھ معاملات غلط ہوجاتے ہیں تو دستاویز بنائیں اور بہت عوامی بنائیں ، جب آپ ایسا کرتے ہو تو اس ذخیرے کا ذکر ضرور کریں۔](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [جب آپ کلاؤڈ فلائر (اور اسی طرح کی کمپنیاں) کے ساتھ معاملات غلط ہوجاتے ہیں تو دستاویز بنائیں اور بہت عوامی بنائیں ، جب آپ ایسا کرتے ہو تو اس ذخیرے کا ذکر ضرور کریں۔](http://crimeflare.eu.org) :)
 
 - بطور ڈیفورٹ استعمال کرنے والے زیادہ سے زیادہ افراد کو حاصل کریں تاکہ وہ دنیا کے مختلف حصوں کے نقطہ نظر سے ویب کا تجربہ کرسکیں۔
 
