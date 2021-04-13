@@ -50,12 +50,12 @@ Naa kay problema? [Ipataas ang imong tingog karon.](https://github.com/maraoz/ma
 
 ```
 Nagtabang ka lang sa corporate censorship ug mass surveillance.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Ang imong panid sa web naa sa pribasiya nga naka-pader nga tanaman nga adunay pader sa CloudFlare nga nag-abuso sa privacy.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Paggahin pipila ka mga oras sa pagbasa sa palisiya sa pagkapribado sa website.
@@ -68,7 +68,7 @@ Kinahanglan nga ipatin-aw niini kung unsa ang "Cloudflare", ug pagpangayo permis
 ```
 Nabasa ko na ang imong patakaran sa pagkapribado ug dili nako makita ang pulong Cloudflare.
 Nagdumili ako nga ipaambit ang datos kanimo kung magpadayon ka sa pagpakaon sa akong datos sa Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Kini usa ka pananglitan sa patakaran sa pagkapribado nga wala’y pulong Cloudflare.
@@ -117,10 +117,10 @@ Kung gipagawas sa Cloudflare ang imong kasayuran o dili tugutan ka nga makakonek
 
 | Ngalan | Developer | Pagsuporta | Mahimo nga babagan | Dili Makapahibalo | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Oo**     | **Oo**     |  **Oo** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Dili     | **Oo**     |  **Oo** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Dili     | **Oo**     |  **Oo** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Oo**     | **Oo**     |  Dili |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Oo**     | **Oo**     |  **Oo** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Dili     | **Oo**     |  **Oo** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Dili     | **Oo**     |  **Oo** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Oo**     | **Oo**     |  Dili |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Oo**     | **Oo**     |  Dili |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Dili     | **Oo**     |  Dili |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Dili     | **Oo**     |  Dili |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Tungod niini girekomenda namon sa lamesa ra sa taas. Wala’y lain.
 
 - Sultihi ang uban sa imong palibut bahin sa mga katalagman sa Cloudflare.
 
-- [Tabang nga mapaayo kini nga tipiganan.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Tabang nga mapaayo kini nga tipiganan.](http://crimeflare.eu.org).
   - Parehas nga mga lista, mga lantugi kontra niini ug mga detalye.
 
-- [Pagdokumento ug paghimo sa publiko kaayo kung diin ang mga butang sayup sa Cloudflare (ug parehas nga mga kompanya), siguruha nga hisgutan kini nga tipiganan kung buhaton nimo kini](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Pagdokumento ug paghimo sa publiko kaayo kung diin ang mga butang sayup sa Cloudflare (ug parehas nga mga kompanya), siguruha nga hisgutan kini nga tipiganan kung buhaton nimo kini](http://crimeflare.eu.org) :)
 
 - Pagdala daghang mga tawo nga naggamit Tor ingon default aron masinati nila ang web gikan sa panan-aw sa lainlaing mga bahin sa kalibutan.
 
