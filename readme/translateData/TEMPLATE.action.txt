@@ -50,12 +50,12 @@
 
 ```
 {%actnl0011%}
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 {%actnl0012%}
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - {%actnl0013%}
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 {%actnl0018%}
 {%actnl0019%}
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 {%actnl0020%}
@@ -117,10 +117,10 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 
 | {%actnl0095%} | {%actnl0096%} | {%actnl0097%} | {%actnl0098%} | {%actnl0099%} | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **{%tftfyes%}**     | **{%tftfyes%}**     |  **{%tftfyes%}** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | {%tftfno%}     | **{%tftfyes%}**     |  **{%tftfyes%}** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | {%tftfno%}     | **{%tftfyes%}**     |  **{%tftfyes%}** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **{%tftfyes%}**     | **{%tftfyes%}**     |  {%tftfno%} |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **{%tftfyes%}**     | **{%tftfyes%}**     |  **{%tftfyes%}** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | {%tftfno%}     | **{%tftfyes%}**     |  **{%tftfyes%}** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | {%tftfno%}     | **{%tftfyes%}**     |  **{%tftfyes%}** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **{%tftfyes%}**     | **{%tftfyes%}**     |  {%tftfno%} |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **{%tftfyes%}**     | **{%tftfyes%}**     |  {%tftfno%} |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | {%tftfno%}     | **{%tftfyes%}**     |  {%tftfno%} |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | {%tftfno%}     | **{%tftfyes%}**     |  {%tftfno%} |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - {%actnl0152%}
 
-- [{%actnl0153%}](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [{%actnl0153%}](http://crimeflare.eu.org/).
   - {%actnl0154%}
 
-- [{%actnl0155%}](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [{%actnl0155%}](http://crimeflare.eu.org/) :)
 
 - {%actnl0156%}
 
