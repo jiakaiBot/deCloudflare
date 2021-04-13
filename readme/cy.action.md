@@ -50,12 +50,12 @@ Mae gennych chi broblem? [Codwch eich llais nawr.](https://github.com/maraoz/mar
 
 ```
 Rydych chi ddim ond yn helpu sensoriaeth gorfforaethol a gwyliadwriaeth dorfol.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Mae eich tudalen we yng ngardd furiog breifat CloudFlare sy'n cam-drin preifatrwydd.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Cymerwch ychydig o amser i ddarllen polisi preifatrwydd gwefan.
@@ -68,7 +68,7 @@ Rhaid iddo egluro beth yw'r "Cloudflare", a gofyn am ganiatâd i rannu'ch data �
 ```
 Rwyf wedi darllen eich polisi preifatrwydd ac ni allaf ddod o hyd i'r gair Cloudflare.
 Rwy'n gwrthod rhannu data gyda chi os byddwch chi'n parhau i fwydo fy data i Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Dyma enghraifft o bolisi preifatrwydd nad oes ganddo'r gair Cloudflare.
@@ -117,10 +117,10 @@ Os yw Cloudflare yn gollwng eich gwybodaeth neu na fydd yn gadael ichi gysylltu 
 
 | Enw | Datblygwr | Cefnogaeth | Yn gallu Blocio | Yn gallu Hysbysu | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ydw**     | **Ydw**     |  **Ydw** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Na     | **Ydw**     |  **Ydw** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Na     | **Ydw**     |  **Ydw** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ydw**     | **Ydw**     |  Na |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ydw**     | **Ydw**     |  **Ydw** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Na     | **Ydw**     |  **Ydw** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Na     | **Ydw**     |  **Ydw** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ydw**     | **Ydw**     |  Na |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ydw**     | **Ydw**     |  Na |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Na     | **Ydw**     |  Na |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Na     | **Ydw**     |  Na |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Felly rydym yn argymell uchod y tabl yn unig. Dim byd arall.
 
 - Dywedwch wrth eraill o'ch cwmpas am beryglon Cloudflare.
 
-- [Helpwch i wella'r ystorfa hon.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Helpwch i wella'r ystorfa hon.](http://crimeflare.eu.org).
   - Y rhestrau, y dadleuon yn ei erbyn a'r manylion.
 
-- [Dogfennu a gwneud yn gyhoeddus iawn lle mae pethau'n mynd o chwith gyda Cloudflare (a chwmnïau tebyg), gan sicrhau eich bod yn sôn am yr ystorfa hon pan fyddwch chi'n gwneud hynny](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Dogfennu a gwneud yn gyhoeddus iawn lle mae pethau'n mynd o chwith gyda Cloudflare (a chwmnïau tebyg), gan sicrhau eich bod yn sôn am yr ystorfa hon pan fyddwch chi'n gwneud hynny](http://crimeflare.eu.org) :)
 
 - Gofynnwch i fwy o bobl ddefnyddio Tor yn ddiofyn fel y gallant brofi'r we o safbwynt gwahanol rannau o'r byd.
 
