@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 თქვენ უბრალოდ ეხმარებით კორპორაციულ ცენზურას და მასობრივ მეთვალყურეობას.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 თქვენი ვებსაიტი დაცულია კონფიდენციალურობის ბოროტად გამოყენების CloudFlare კერძო გალავნის ბაღში.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - გარკვეული დრო დაუთმეთ ვებსაიტის კონფიდენციალურობის პოლიტიკის წაკითხვას.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 მე წავიკითხე თქვენი კონფიდენციალურობის პოლიტიკა და ვერ ვპოულობ სიტყვას Cloudflare.
 მე უარს ვამბობ მონაცემების გაზიარებაზე, თუ თქვენ განაგრძობთ ჩემი მონაცემების Cloudflare მიწოდებას.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 ეს არის კონფიდენციალურობის პოლიტიკის მაგალითი, რომელსაც არ აქვს სიტყვა Cloudflare.
@@ -117,10 +117,10 @@ AFAIK, ნულოვანი ვებსაიტი ამას აკე�
 
 | სახელი | შემქმნელი | მხარდაჭერა | შეუძლია დაბლოკოს | შეუძლია შეატყობინოს | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **დიახ**     | **დიახ**     |  **დიახ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | არა     | **დიახ**     |  **დიახ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | არა     | **დიახ**     |  **დიახ** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **დიახ**     | **დიახ**     |  არა |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **დიახ**     | **დიახ**     |  **დიახ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | არა     | **დიახ**     |  **დიახ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | არა     | **დიახ**     |  **დიახ** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **დიახ**     | **დიახ**     |  არა |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **დიახ**     | **დიახ**     |  არა |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | არა     | **დიახ**     |  არა |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | არა     | **დიახ**     |  არა |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - მოუყევით თქვენს გარშემომყოფებს Cloudflare- ის საშიშროების შესახებ.
 
-- [დაეხმარეთ ამ საცავის გაუმჯობესებაში.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [დაეხმარეთ ამ საცავის გაუმჯობესებაში.](http://crimeflare.eu.org).
   - როგორც სიები, საწინააღმდეგო არგუმენტები და დეტალები.
 
-- [დოკუმენტირება და საჯაროდ გასაჯაროება Cloudflare- ს (და მსგავსი კომპანიების) შეცდომასთან დაკავშირებით, დარწმუნდით, რომ აღნიშნეთ ეს საცავი ამის გაკეთებისას](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [დოკუმენტირება და საჯაროდ გასაჯაროება Cloudflare- ს (და მსგავსი კომპანიების) შეცდომასთან დაკავშირებით, დარწმუნდით, რომ აღნიშნეთ ეს საცავი ამის გაკეთებისას](http://crimeflare.eu.org) :)
 
 - მოიძიეთ მეტი ადამიანი Tor- ს გამოყენებით, რომ მათ შეეძლოთ ინტერნეტის გამოცდილება მსოფლიოს სხვადასხვა კუთხიდან.
 
