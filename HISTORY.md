@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-04-13: [Cloudflare Name Resolver](https://www.cloudflarestatus.com/incidents/nt7vx1ll7nht)
 - 2021-04-11: [Connectivity issues around Manchester, United Kingdom](https://www.cloudflarestatus.com/incidents/0bzzgss08v97)
 - 2021-04-11: [Network Performance Issues in Incheon (ICN), South Korea](https://www.cloudflarestatus.com/incidents/cm4yk2ztmjkg)
 - 2021-04-09: [SSL handshake failures in the China region](https://www.cloudflarestatus.com/incidents/zjg9cr3pw40h)
