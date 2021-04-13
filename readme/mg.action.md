@@ -50,12 +50,12 @@ Manana olana ianao? [Asandrato izao ny feonao.](https://github.com/maraoz/maraoz
 
 ```
 Manampy ny sivana ataon'ny orinasa sy ny fanaraha-maso marobe fotsiny ianao.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Ny pejin-tranonkalanao dia ao amin'ny zaridaina manokana misy rindrina manokana an'ny CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Makà fotoana kely hamakiana ny tsiambaratelo momba ny tsiambaratelo momba ny tsiambaratelo.
@@ -68,7 +68,7 @@ Tokony hanazava ny atao hoe "Cloudflare" izany, ary mangataka alalana hizara ny 
 ```
 Novakiako ny politikanao momba ny tsiambaratelo ary tsy hitako ny teny Cloudflare.
 Laviko ny hizara angon-drakitra aminao raha manohy mamelona ny angon-tsaiko amin'ny Cloudflare ianao.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Ity dia ohatra iray amin'ny politika manokana izay tsy manana ny teny Cloudflare.
@@ -117,10 +117,10 @@ Raha mamoaka ny mombamomba anao i Cloudflare na tsy mamela anao hifandray amin'i
 
 | Anarana | Developer | MANAMPY | Afaka manakana | Tsy afaka Mampandre | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ENY**     | **ENY**     |  **ENY** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | tsy misy     | **ENY**     |  **ENY** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | tsy misy     | **ENY**     |  **ENY** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ENY**     | **ENY**     |  tsy misy |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ENY**     | **ENY**     |  **ENY** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | tsy misy     | **ENY**     |  **ENY** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | tsy misy     | **ENY**     |  **ENY** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ENY**     | **ENY**     |  tsy misy |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ENY**     | **ENY**     |  tsy misy |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | tsy misy     | **ENY**     |  tsy misy |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | tsy misy     | **ENY**     |  tsy misy |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Noho izany dia manoro hevitra ny ambony latabatra ihany izahay. Tsy misy zavatra
 
 - Lazao amin'ny hafa manodidina anao ny loza ateraky ny Cloudflare.
 
-- [Ampio hatsaraina ity tahiry ity.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Ampio hatsaraina ity tahiry ity.](http://crimeflare.eu.org).
   - Samy ny lisitra, ny tohan-kevitra manohitra azy ary ny antsipiriany.
 
-- [Raketo an-tsoratra ary ataovy imasom-bahoaka ny zavatra tsy mety ataon'ny Cloudflare (sy ny orinasa mitovy aminy), alao antoka fa voatonona ity tahiry ity rehefa manao izany ianao](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Raketo an-tsoratra ary ataovy imasom-bahoaka ny zavatra tsy mety ataon'ny Cloudflare (sy ny orinasa mitovy aminy), alao antoka fa voatonona ity tahiry ity rehefa manao izany ianao](http://crimeflare.eu.org) :)
 
 - Makà olona maro kokoa mampiasa Tor amin'ny alàlan'ny toerana misy anao mba hahafahan'izy ireo miaina ny tranonkala amin'ny fomba fijery ny faritra samihafa eto amin'izao tontolo izao.
 
