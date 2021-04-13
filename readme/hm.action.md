@@ -50,12 +50,12 @@ Koj tau tuaj me me xwb? [Tsa koj lub suab tam sim no.](https://github.com/maraoz
 
 ```
 Koj tsuas yog pab rau kev tswj hwm kev lag luam thiab kev soj ntsuam huab hwm coj.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Koj lub vev xaib yog nyob rau hauv kev ceev ntiag tug-tsim txom ntiag tug walled-vaj ntawm CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Siv qee lub sijhawm los nyeem lub vev xaib txoj cai ntiag tug.
@@ -68,7 +68,7 @@ Nws yuav tsum piav qhia qhov "Cloudflare" yog dab tsi, thiab thov kev tso cai lo
 ```
 Kuv tau nyeem koj txoj cai ntiag tug thiab kuv nrhiav tsis tau lo lus Cloudflare.
 Kuv tsis kam qhia cov ntaub ntawv nrog koj yog tias koj tseem pub kuv cov ntaub ntawv rau Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Qhov no yog ib qho piv txwv ntawm cov cai ntiag tug uas tsis muaj lo lus Cloudflare.
@@ -117,10 +117,10 @@ Yog Cloudflare paim koj cov ntaub ntawv lossis yuav tsis cia koj txuas rau peb c
 
 | Npe | Tus tsim tawm | Txhawb nqa | Thaiv tuaj yeem | Qhia tuaj yeem siv tau | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Yog lawm**     | **Yog lawm**     |  **Yog lawm** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Tsis yog     | **Yog lawm**     |  **Yog lawm** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Tsis yog     | **Yog lawm**     |  **Yog lawm** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Yog lawm**     | **Yog lawm**     |  Tsis yog |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Yog lawm**     | **Yog lawm**     |  **Yog lawm** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Tsis yog     | **Yog lawm**     |  **Yog lawm** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Tsis yog     | **Yog lawm**     |  **Yog lawm** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Yog lawm**     | **Yog lawm**     |  Tsis yog |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Yog lawm**     | **Yog lawm**     |  Tsis yog |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Tsis yog     | **Yog lawm**     |  Tsis yog |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Tsis yog     | **Yog lawm**     |  Tsis yog |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Yog li peb pom zoo kom cov lus saum toj no nkaus xwb. Tsis muaj dab tsi ntxiv.
 
 - Qhia lwm tus nyob ib ncig ntawm koj txog kev phom sij ntawm Cloudflare.
 
-- [Pab txhim kho cov chaw cia khoom no.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Pab txhim kho cov chaw cia khoom no.](http://crimeflare.eu.org).
   - Ob daim npe, qhov sib cav tawm tsam nws thiab cov ntsiab lus.
 
-- [Cov ntaub ntawv thiab ua rau pej xeem muaj qhov twg tsis ncaj ncees lawm nrog Cloudflare (thiab cov tuam txhab zoo sib xws), nco ntsoov hais txog lub chaw ntim khoom no thaum koj ua](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Cov ntaub ntawv thiab ua rau pej xeem muaj qhov twg tsis ncaj ncees lawm nrog Cloudflare (thiab cov tuam txhab zoo sib xws), nco ntsoov hais txog lub chaw ntim khoom no thaum koj ua](http://crimeflare.eu.org) :)
 
 - Tau ntau tus neeg siv Tor los ntawm lub neej ntawd yog li lawv tuaj yeem muaj lub vev xaib los ntawm qhov pom ntawm qhov sib txawv ntawm lub ntiaj teb.
 
