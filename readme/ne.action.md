@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 तपाईं केवल कर्पोरेट सेन्सरशिप र सामूहिक निगरानीमा मद्दत गर्दै हुनुहुन्छ।
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 तपाईंको वेब पृष्ठ क्लाउडफ्लेयरको गोपनीयता-दुरुपयोग निजी पर्खाल-बगैंचामा छ।
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - वेबसाइटको गोपनीयता नीति पढ्न केहि समय लिनुहोस्।
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 मैले तपाईंको गोपनीयता नीति पढेको छु र क्लाउडफ्लेयर शब्द भेटिन।
 यदि तपाईं क्लाउडफ्लेयरमा मेरो डाटा फीड गर्न जारी राख्नुहुन्छ भने म तपाईंसँग डाटा साझेदारी गर्न अस्वीकार गर्दछु।
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 यो गोपनीयता नीतिको उदाहरण हो जसमा क्लाउडफ्लेयर शब्द छैन।
@@ -117,10 +117,10 @@ AFAIK, शून्य वेबसाइटले यो गर। के त�
 
 | नाम | विकासकर्ता | समर्थन | ब्लक गर्न सक्दछ | सूचित गर्न सक्दछ | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **हो**     | **हो**     |  **हो** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | होईन     | **हो**     |  **हो** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | होईन     | **हो**     |  **हो** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **हो**     | **हो**     |  होईन |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **हो**     | **हो**     |  **हो** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | होईन     | **हो**     |  **हो** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | होईन     | **हो**     |  **हो** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **हो**     | **हो**     |  होईन |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **हो**     | **हो**     |  होईन |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | होईन     | **हो**     |  होईन |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | होईन     | **हो**     |  होईन |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - अरूलाई क्लाउडफ्लेयरको खतराहरूको बारेमा बताउनुहोस्।
 
-- [यो भण्डार सुधार गर्न मद्दत गर्नुहोस्।](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [यो भण्डार सुधार गर्न मद्दत गर्नुहोस्।](http://crimeflare.eu.org).
   - दुबै सूचीहरू, यसको बिरूद्ध तर्कहरू र विवरणहरू।
 
-- [कागजात गर्नुहोस् र धेरै सार्वजनिक गर्नुहोस् जहाँ चीजहरू क्लाउडफ्लेयर (र समान कम्पनिहरू) सँग गलत हुन्छन्, निश्चित गर्नुहोस् जब तपाईं यस्तो गर्नुहुँदा यस भण्डारको उल्लेख गर्न निश्चित हुनुहुन्छ।](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [कागजात गर्नुहोस् र धेरै सार्वजनिक गर्नुहोस् जहाँ चीजहरू क्लाउडफ्लेयर (र समान कम्पनिहरू) सँग गलत हुन्छन्, निश्चित गर्नुहोस् जब तपाईं यस्तो गर्नुहुँदा यस भण्डारको उल्लेख गर्न निश्चित हुनुहुन्छ।](http://crimeflare.eu.org) :)
 
 - टोर डिफल्टद्वारा अधिक व्यक्तिहरू लिनुहोस् ताकि तिनीहरू वेबको अनुभव संसारका विभिन्न भागहरूको दृष्टिकोणबाट गर्न सक्दछन्।
 
