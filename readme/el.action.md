@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 Βοηθάτε μόνο την εταιρική λογοκρισία και τη μαζική παρακολούθηση.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Η ιστοσελίδα σας βρίσκεται στον ιδιωτικό περιφραγμένο ιδιωτικό κήπο του CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Αφιερώστε λίγο χρόνο για να διαβάσετε την πολιτική απορρήτου του ιστότοπου.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 Έχω διαβάσει την πολιτική απορρήτου σας και δεν μπορώ να βρω τη λέξη Cloudflare.
 Αρνούμαι να μοιραστώ δεδομένα μαζί σας εάν συνεχίσετε να τροφοδοτείτε τα δεδομένα μου στο Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Αυτό είναι ένα παράδειγμα πολιτικής απορρήτου που δεν έχει τη λέξη Cloudflare.
@@ -117,10 +117,10 @@ AFAIK, μηδενικός ιστότοπος το κάνει αυτό. Θα το
 
 | Ονομα | Προγραμματιστής | Υποστήριξη | Μπορεί να αποκλείσει | Μπορεί να ειδοποιήσει | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ναί**     | **Ναί**     |  **Ναί** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Οχι     | **Ναί**     |  **Ναί** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Οχι     | **Ναί**     |  **Ναί** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ναί**     | **Ναί**     |  Οχι |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ναί**     | **Ναί**     |  **Ναί** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Οχι     | **Ναί**     |  **Ναί** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Οχι     | **Ναί**     |  **Ναί** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ναί**     | **Ναί**     |  Οχι |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ναί**     | **Ναί**     |  Οχι |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Οχι     | **Ναί**     |  Οχι |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Οχι     | **Ναί**     |  Οχι |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Πείτε στους άλλους γύρω σας για τους κινδύνους του Cloudflare.
 
-- [Βοηθήστε στη βελτίωση αυτού του αποθετηρίου.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Βοηθήστε στη βελτίωση αυτού του αποθετηρίου.](http://crimeflare.eu.org).
   - Τόσο οι λίστες, τα επιχειρήματα κατά αυτής όσο και οι λεπτομέρειες.
 
-- [Τεκμηρίωση και δημοσίευση σε μεγάλο βαθμό όπου τα πράγματα πάνε στραβά με το Cloudflare (και παρόμοιες εταιρείες), φροντίζοντας να αναφέρετε αυτό το αποθετήριο όταν το κάνετε](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Τεκμηρίωση και δημοσίευση σε μεγάλο βαθμό όπου τα πράγματα πάνε στραβά με το Cloudflare (και παρόμοιες εταιρείες), φροντίζοντας να αναφέρετε αυτό το αποθετήριο όταν το κάνετε](http://crimeflare.eu.org) :)
 
 - Προσελκύστε περισσότερα άτομα που χρησιμοποιούν το Tor από προεπιλογή, ώστε να μπορούν να γνωρίσουν τον ιστό από την οπτική γωνία διαφορετικών τμημάτων του κόσμου.
 
