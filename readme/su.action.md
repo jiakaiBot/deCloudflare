@@ -50,12 +50,12 @@ Anjeun gaduh masalah? [Angkat sora anjeun ayeuna.](https://github.com/maraoz/mar
 
 ```
 Anjeun ngan ukur ngabantosan sénsor perusahaan sareng panjagaan massal.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Halaman wéb anjeun aya di kebon pinding-privasi swasta CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Candak sababaraha waktos kanggo maca kabijakan privasi halaman wéb.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 Kuring parantos maca kabijakan privasi anjeun sareng kuring henteu tiasa mendakan kecap Cloudflare.
 Kuring nolak ngabagi data sareng anjeun upami anjeun teras-terasan masihan data abdi ka Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Ieu mangrupikeun conto tina kabijakan privasi anu henteu ngagaduhan kecap Cloudflare.
@@ -117,10 +117,10 @@ Upami Cloudflare ngabocorkeun inpormasi anjeun atanapi henteu ngantep anjeun nya
 
 | Nami | Pamekar | Ngarojong | Tiasa Blok | Tiasa Ngabéjaan | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Leres**     | **Leres**     |  **Leres** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Henteu     | **Leres**     |  **Leres** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Henteu     | **Leres**     |  **Leres** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Leres**     | **Leres**     |  Henteu |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Leres**     | **Leres**     |  **Leres** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Henteu     | **Leres**     |  **Leres** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Henteu     | **Leres**     |  **Leres** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Leres**     | **Leres**     |  Henteu |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Leres**     | **Leres**     |  Henteu |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Henteu     | **Leres**     |  Henteu |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Henteu     | **Leres**     |  Henteu |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Kituna kami nyarankeun tabel di luhur waé. Teu aya anu sanés.
 
 - Wartoskeun ka batur sakuriling anjeun ngeunaan bahaya Cloudflare.
 
-- [Bantosan ningkatkeun gudang ieu.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Bantosan ningkatkeun gudang ieu.](http://crimeflare.eu.org).
   - Boh daptar, argumén ngalawan éta sareng detilna.
 
-- [Dokumén sareng umumkeun pisan dimana aya masalah sareng Cloudflare (sareng perusahaan anu sami), pastikeun disebatkeun Repository ieu nalika anjeun ngalakukeunana](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Dokumén sareng umumkeun pisan dimana aya masalah sareng Cloudflare (sareng perusahaan anu sami), pastikeun disebatkeun Repository ieu nalika anjeun ngalakukeunana](http://crimeflare.eu.org) :)
 
 - Kéngingkeun seueur jalmi anu ngagunakeun Tor sacara standar janten aranjeunna tiasa ngalaman wéb tina sudut pandang anu béda-béda dunya.
 
