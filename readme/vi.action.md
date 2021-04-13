@@ -50,12 +50,12 @@ Bạn có một vấn đề? [Nâng cao giọng nói của bạn ngay bây giờ
 
 ```
 Bạn chỉ đang giúp kiểm duyệt công ty và giám sát hàng loạt.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Trang web của bạn nằm trong khu vườn có tường bao quanh riêng tư lạm dụng quyền riêng tư của CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Hãy dành một chút thời gian để đọc chính sách bảo mật của trang web.
@@ -68,7 +68,7 @@ Nó phải giải thích "Cloudflare" là gì và yêu cầu quyền chia sẻ d
 ```
 Tôi đã đọc chính sách bảo mật của bạn và tôi không thể tìm thấy từ Cloudflare.
 Tôi từ chối chia sẻ dữ liệu với bạn nếu bạn tiếp tục cung cấp dữ liệu của tôi cho Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Đây là một ví dụ về chính sách bảo mật không có từ Cloudflare.
@@ -117,10 +117,10 @@ Nếu Cloudflare làm rò rỉ thông tin của bạn hoặc không cho phép b�
 
 | Tên | Nhà phát triển | Ủng hộ | Có thể chặn | Có thể thông báo | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Đúng**     | **Đúng**     |  **Đúng** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Không     | **Đúng**     |  **Đúng** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Không     | **Đúng**     |  **Đúng** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Đúng**     | **Đúng**     |  Không |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Đúng**     | **Đúng**     |  **Đúng** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Không     | **Đúng**     |  **Đúng** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Không     | **Đúng**     |  **Đúng** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Đúng**     | **Đúng**     |  Không |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Đúng**     | **Đúng**     |  Không |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Không     | **Đúng**     |  Không |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Không     | **Đúng**     |  Không |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Do đó, chúng tôi chỉ đề xuất bảng trên. Không có gì khác.
 
 - Nói với những người xung quanh bạn về sự nguy hiểm của Cloudflare.
 
-- [Giúp cải thiện kho lưu trữ này.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Giúp cải thiện kho lưu trữ này.](http://crimeflare.eu.org).
   - Cả danh sách, các lập luận chống lại nó và các chi tiết.
 
-- [Ghi lại tài liệu và công khai những nơi có vấn đề xảy ra với Cloudflare (và các công ty tương tự), đảm bảo đề cập đến kho lưu trữ này khi bạn làm như vậy](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Ghi lại tài liệu và công khai những nơi có vấn đề xảy ra với Cloudflare (và các công ty tương tự), đảm bảo đề cập đến kho lưu trữ này khi bạn làm như vậy](http://crimeflare.eu.org) :)
 
 - Thu hút nhiều người hơn sử dụng Tor theo mặc định để họ có thể trải nghiệm web từ quan điểm của các khu vực khác nhau trên thế giới.
 
