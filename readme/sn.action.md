@@ -50,12 +50,12 @@ Une dambudziko? [Simudza izwi rako izvozvi.](https://github.com/maraoz/maraoz.gi
 
 ```
 Iwe uri kungobatsira kubatirira kwekambani uye kuwongorora kwevanhu vazhinji.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Peji rako rewebhu riri mune yekuvanzika-kushungurudza yakavanzika masvingo-gadheni reCloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Tora nguva yekuverenga maitiro epamutemo ewebhusaiti.
@@ -68,7 +68,7 @@ Inofanirwa kutsanangura kuti "Cloudflare" chii, uye ndokumbira mvumo yekugovana 
 ```
 Ndakaverenga rako rekuvanzika uye ini handisi kuwana iro izwi Cloudflare.
 Ini ndinoramba kugovana dhata newe kana ukaramba uchipa data rangu kuCloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Uyu muenzaniso weyakavanzika mutemo iyo isina izwi Cloudflare.
@@ -117,10 +117,10 @@ Kana Cloudflare ichiburitsa ruzivo rwako kana isingakuregi iwe ubatanidze kumase
 
 | Zita | Mugadziri | Tsigiro | Unogona Kuvhara | Unogona Kuzivisa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ehe**     | **Ehe**     |  **Ehe** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Aihwa     | **Ehe**     |  **Ehe** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Aihwa     | **Ehe**     |  **Ehe** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ehe**     | **Ehe**     |  Aihwa |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ehe**     | **Ehe**     |  **Ehe** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Aihwa     | **Ehe**     |  **Ehe** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Aihwa     | **Ehe**     |  **Ehe** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ehe**     | **Ehe**     |  Aihwa |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ehe**     | **Ehe**     |  Aihwa |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Aihwa     | **Ehe**     |  Aihwa |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Aihwa     | **Ehe**     |  Aihwa |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Naizvozvo tinokurudzira pamusoro petafura chete. Hapana chimwe.
 
 - Udza vamwe vakakukomberedza nezve njodzi dzeCloudflare.
 
-- [Batsira kuvandudza iyi repository.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Batsira kuvandudza iyi repository.](http://crimeflare.eu.org).
   - Ese ari maviri rondedzero, nharo dzinopesana neiri uye iwo ruzivo
 
-- [Nyora uye ita pachena kwazvo kana zvinhu zvikashata neCloudflare (uye makambani akafanana), kuve nechokwadi chekutaura ichi chinzvimbo kana iwe uchidaro](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Nyora uye ita pachena kwazvo kana zvinhu zvikashata neCloudflare (uye makambani akafanana), kuve nechokwadi chekutaura ichi chinzvimbo kana iwe uchidaro](http://crimeflare.eu.org) :)
 
 - Tora vanhu vazhinji vanoshandisa Tor nekukasira kuti vagone kuona webhu kubva pakuona kwenzvimbo dzakasiyana dzenyika.
 
