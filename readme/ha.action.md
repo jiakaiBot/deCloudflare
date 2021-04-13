@@ -50,12 +50,12 @@ Kuna da matsala? [Tada muryarka yanzu.](https://github.com/maraoz/maraoz.github.
 
 ```
 Kuna kawai taimaka wa takunkumi na kamfanoni da sa ido sosai.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Gidan yanar gizonku yana cikin lambun sirri na sirri na CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Takeauki lokaci don karanta tsarin tsare sirri na gidan yanar gizo.
@@ -68,7 +68,7 @@ Dole ne ya bayyana menene "Cloudflare", kuma ya nemi izini don raba bayananku ta
 ```
 Na karanta manufofinku na sirri kuma ban sami kalmar Cloudflare ba.
 Na ƙi in raba muku bayanai idan kun ci gaba da ciyar da bayanan na zuwa Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Wannan misali ne na tsarin tsare sirri wanda bashi da kalmar Cloudflare.
@@ -117,10 +117,10 @@ Idan Cloudflare ya fallasa bayananku ko ba zai bari ku haɗi zuwa sabarmu ba, ba
 
 | Suna | Mai ƙira | Tallafi | Iya Block | Za a iya Sanarwa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ee**     | **Ee**     |  **Ee** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | A'a     | **Ee**     |  **Ee** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | A'a     | **Ee**     |  **Ee** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ee**     | **Ee**     |  A'a |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ee**     | **Ee**     |  **Ee** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | A'a     | **Ee**     |  **Ee** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | A'a     | **Ee**     |  **Ee** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ee**     | **Ee**     |  A'a |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ee**     | **Ee**     |  A'a |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | A'a     | **Ee**     |  A'a |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | A'a     | **Ee**     |  A'a |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Saboda haka muna bada shawarar sama da tebur kawai. Babu wani abu kuma.
 
 - Faɗa wa wasu da ke kusa da ku game da haɗarin Cloudflare.
 
-- [Taimaka inganta wannan ma'ajiyar.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Taimaka inganta wannan ma'ajiyar.](http://crimeflare.eu.org).
   - Dukansu jerin sunayen, muhawara game da shi da cikakkun bayanai.
 
-- [Yi rubutu da bayyana jama'a inda abubuwa ke tafiya ba daidai ba tare da Cloudflare (da kamfanoni makamantan su), tabbatar da ambaton wannan ma'ajiyar lokacin da kuke yin hakan](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Yi rubutu da bayyana jama'a inda abubuwa ke tafiya ba daidai ba tare da Cloudflare (da kamfanoni makamantan su), tabbatar da ambaton wannan ma'ajiyar lokacin da kuke yin hakan](http://crimeflare.eu.org) :)
 
 - Ara mutane da yawa suna amfani da Tor ta tsohuwa don haka za su iya sanin yanar gizo ta mahangar ɓangarorin duniya daban-daban.
 
