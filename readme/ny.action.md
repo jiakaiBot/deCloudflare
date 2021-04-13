@@ -50,12 +50,12 @@ Muli ndi vuto? [Kwezani mawu anu tsopano.](https://github.com/maraoz/maraoz.gith
 
 ```
 Mukungothandiza kuwunika kwamakampani ndikuwunika kwambiri.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Tsamba lanu lili mumunda wachinsinsi wa CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Tengani nthawi kuti muwerenge zinsinsi zachinsinsi patsamba lanu.
@@ -68,7 +68,7 @@ Iyenera kufotokoza kuti "Cloudflare" ndi chiyani, ndikupempha chilolezo kuti mug
 ```
 Ndinawerenga mfundo zanu zachinsinsi ndipo sindinapeze mawu oti Cloudflare.
 Ndikukana kugawana nanu deta mukapitiliza kupereka data yanga ku Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Ichi ndi chitsanzo cha mfundo zazinsinsi zomwe zilibe mawu oti Cloudflare.
@@ -117,10 +117,10 @@ Ngati Cloudflare atulutsa zambiri zanu kapena sangakuloleni kuti mulumikizane nd
 
 | Dzina | Mapulogalamu | Thandizo | Ikhoza Kutseka | Mungadziwitse | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Inde**     | **Inde**     |  **Inde** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Ayi     | **Inde**     |  **Inde** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Ayi     | **Inde**     |  **Inde** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Inde**     | **Inde**     |  Ayi |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Inde**     | **Inde**     |  **Inde** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ayi     | **Inde**     |  **Inde** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ayi     | **Inde**     |  **Inde** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Inde**     | **Inde**     |  Ayi |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Inde**     | **Inde**     |  Ayi |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ayi     | **Inde**     |  Ayi |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ayi     | **Inde**     |  Ayi |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Chifukwa chake timalimbikitsa pamwambapa tebulo lokha. Palibe china.
 
 - Uzani ena okuzungulirani za kuwopsa kwa Cloudflare.
 
-- [Thandizani kukonza malowa.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Thandizani kukonza malowa.](http://crimeflare.eu.org).
   - Mndandanda wonsewo, zotsutsana ndi izi komanso tsatanetsatane.
 
-- [Lembani ndikudziwitsa pagulu pomwe zinthu sizili bwino ndi Cloudflare (ndi makampani ena ofanana), onetsetsani kuti mwatchula malo awa mukamachita izi](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Lembani ndikudziwitsa pagulu pomwe zinthu sizili bwino ndi Cloudflare (ndi makampani ena ofanana), onetsetsani kuti mwatchula malo awa mukamachita izi](http://crimeflare.eu.org) :)
 
 - Pezani anthu ambiri ogwiritsa ntchito Tor mwachisawawa kuti athe kuwona intaneti kuchokera kumadera osiyanasiyana padziko lapansi.
 
