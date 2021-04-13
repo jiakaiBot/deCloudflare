@@ -50,12 +50,12 @@
 
 ```
 당신은 기업 검열과 대량 감시를 돕고 있습니다.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 귀하의 웹 페이지는 CloudFlare의 개인 정보를 침해하는 개인 벽으로 둘러싸인 정원에 있습니다.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - 웹 사이트의 개인 정보 보호 정책을 읽어보십시오.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 귀하의 개인 정보 보호 정책을 읽었으며 Cloudflare라는 단어를 찾을 수 없습니다.
 내 데이터를 Cloudflare에 계속 제공하는 경우 데이터 공유를 거부합니다.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 이것은 Cloudflare라는 단어가없는 개인 정보 보호 정책의 예입니다.
@@ -117,10 +117,10 @@ Cloudflare가 귀하의 정보를 유출하거나 귀하가 당사 서버에 연
 
 | 이름 | 개발자 | 지원하다 | 차단 가능 | 알릴 수 있음 | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **예**     | **예**     |  **예** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | 아니     | **예**     |  **예** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | 아니     | **예**     |  **예** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **예**     | **예**     |  아니 |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **예**     | **예**     |  **예** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 아니     | **예**     |  **예** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 아니     | **예**     |  **예** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **예**     | **예**     |  아니 |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **예**     | **예**     |  아니 |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | 아니     | **예**     |  아니 |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | 아니     | **예**     |  아니 |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - 주변 사람들에게 Cloudflare의 위험성에 대해 이야기하십시오.
 
-- [이 저장소를 개선하도록 도와주세요.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [이 저장소를 개선하도록 도와주세요.](http://crimeflare.eu.org).
   - 목록, 그것에 대한 주장 및 세부 사항.
 
-- [Cloudflare (및 유사 회사)에서 문제가 발생한 부분을 문서화하고 매우 공개하고 그렇게 할 때이 저장소를 언급해야합니다.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Cloudflare (및 유사 회사)에서 문제가 발생한 부분을 문서화하고 매우 공개하고 그렇게 할 때이 저장소를 언급해야합니다.](http://crimeflare.eu.org) :)
 
 - 기본적으로 Tor를 사용하는 사람들을 더 많이 확보하여 세계 각지의 관점에서 웹을 경험할 수 있습니다.
 
