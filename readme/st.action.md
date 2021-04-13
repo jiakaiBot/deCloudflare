@@ -50,12 +50,12 @@ O na le bothata? [Phahamisa lentsoe la hau joale.](https://github.com/maraoz/mar
 
 ```
 U ntse u thusa ho thibela le ho beha leihlo batho ba bangata.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Leqephe la hau la marang-rang le sebakeng sa lekunutu le sebelisang hampe serapa sa poraefete sa CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Iphe nako ea ho bala leano la lekunutu la webosaete.
@@ -68,7 +68,7 @@ E tlameha ho hlalosa hore "Cloudflare" ke eng, 'me u kope tumello ea ho arolelan
 ```
 Ke balile leano la hau la lekunutu mme ha ke fumane lentsoe Cloudflare.
 Ke hana ho arolelana le uena data haeba u tsoelapele ho fepa data ea ka ho Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Ona ke mohlala oa leano la lekunutu le se nang lentsoe Cloudflare.
@@ -117,10 +117,10 @@ Haeba Cloudflare e lutla tlhahisoleseling ea hau kapa e sa u lumelle ho hokela h
 
 | Lebitso | Moqapi | Ts'ehetso | E ka Thibela | E ka Tsebisa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Ho joalo**     | **Ho joalo**     |  **Ho joalo** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Che     | **Ho joalo**     |  **Ho joalo** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Che     | **Ho joalo**     |  **Ho joalo** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Ho joalo**     | **Ho joalo**     |  Che |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ho joalo**     | **Ho joalo**     |  **Ho joalo** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Che     | **Ho joalo**     |  **Ho joalo** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Che     | **Ho joalo**     |  **Ho joalo** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ho joalo**     | **Ho joalo**     |  Che |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Ho joalo**     | **Ho joalo**     |  Che |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Che     | **Ho joalo**     |  Che |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Che     | **Ho joalo**     |  Che |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Ka hona re khothaletsa tafole e kaholimo feela. Ha ho letho le leng.
 
 - Bolella ba bang haufi le uena ka likotsi tsa Cloudflare.
 
-- [Thusa ho ntlafatsa polokelo ena.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Thusa ho ntlafatsa polokelo ena.](http://crimeflare.eu.org).
   - Manane ka bobeli, mabaka a khahlano le eona le lintlha.
 
-- [Ngola 'me u phatlalatse phatlalatsa moo lintho li sa tsamaeeng hantle ka Cloudflare (le lik'hamphani tse tšoanang), ho etsa bonnete ba hore u bua ka polokelo ena ha u etsa joalo.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Ngola 'me u phatlalatse phatlalatsa moo lintho li sa tsamaeeng hantle ka Cloudflare (le lik'hamphani tse tšoanang), ho etsa bonnete ba hore u bua ka polokelo ena ha u etsa joalo.](http://crimeflare.eu.org) :)
 
 - Fumana batho ba bangata ba sebelisang Tor ka boiketsetso hore ba tsebe ho fumana marang-rang ho latela pono ea likarolo tse fapaneng tsa lefats'e.
 
