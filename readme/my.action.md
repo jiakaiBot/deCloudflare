@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 သင်ကော်ပိုရိတ်ဆင်ဆာဖြတ်တောက်မှုနှင့်အစုလိုက်အပြုံလိုက်စောင့်ကြည့်ခြင်းကိုသာကူညီနေသည်
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 သင်၏ဝဘ်ဆိုက်သည်ကိုယ်ရေးကိုယ်တာကိုချိုးဖောက်သောပုဂ္ဂလိကပိုင်ခြံရံထားသော CloudFlare တွင်ရှိသည်။
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - ၀ က်ဘ်ဆိုက်၏သီးသန့်တည်ရှိမှုမူဝါဒကိုဖတ်ရန်အချိန်ယူပါ။
@@ -68,7 +68,7 @@ Cloudflare ဆိုသည်မှာမည်သည့်အရာဖြစ်
 ```
 သင်၏ privacy မူဝါဒကိုကျွန်ုပ်ဖတ်ပြီး Cloudflare ဟူသောစကားလုံးကိုကျွန်ုပ်မတွေ့ပါ။
 ကျွန်ုပ်သည်ကျွန်ုပ်၏အချက်အလက်များကို Cloudflare သို့ဆက်လက်ဆက်လက်ပေးပို့မည်ဆိုပါကသင့်အားအချက်အလက်များကိုမျှဝေရန်ကျွန်ုပ်ငြင်းဆိုပါသည်။
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 ဤသည်မှာ Cloudflare ဟူသောစကားလုံးမရှိသောသီးသန့်တည်ရှိမှုမူဝါဒ၏ဥပမာတစ်ခုဖြစ်သည်။
@@ -117,10 +117,10 @@ Cloudflare သည်သင်၏သတင်းအချက်အလက်မျ
 
 | နာမည် | Developer | ပံ့ပိုးမှု | ပိတ်ဆို့နိုင်သည် | ကြေငြာနိုင် | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - သင့်ပတ်ဝန်းကျင်ရှိအခြားသူများအား Cloudflare ၏အန္တရာယ်များအကြောင်းပြောပြပါ။
 
-- [ဒီ repository ကိုတိုးတက်အောင်ကူညီပါ။](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [ဒီ repository ကိုတိုးတက်အောင်ကူညီပါ။](http://crimeflare.eu.org).
   - စာရင်းများ၊ ၎င်းကိုဆန့်ကျင်သောအငြင်းပွားမှုများနှင့်အသေးစိတ်အချက်အလက်နှစ်ခုလုံး။
 
-- [Cloudflare (နှင့်အလားတူကုမ္ပဏီများနှင့်) အရာရာမှားယွင်းသည့်နေရာကိုမှတ်တမ်းတင်ပြီးလူသိရှင်ကြားထုတ်ပြန်ပါ၊ သင်ပြုလုပ်သည့်အခါဤသိုလှောင်ရုံကိုဖော်ပြရန်သေချာစေပါ](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Cloudflare (နှင့်အလားတူကုမ္ပဏီများနှင့်) အရာရာမှားယွင်းသည့်နေရာကိုမှတ်တမ်းတင်ပြီးလူသိရှင်ကြားထုတ်ပြန်ပါ၊ သင်ပြုလုပ်သည့်အခါဤသိုလှောင်ရုံကိုဖော်ပြရန်သေချာစေပါ](http://crimeflare.eu.org) :)
 
 - ပုံမှန်အားဖြင့် Tor ကိုလူအများ အသုံးပြု၍ ပိုများလာစေရန်ကမ္ဘာ၏မတူညီသောရှုထောင့်များမှ web ကိုတွေ့ကြုံခံစားနိုင်မည်။
 
