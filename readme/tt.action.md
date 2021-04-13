@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 Сез корпоратив цензурага һәм массакүләм күзәтүгә булышасыз.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Сезнең веб-битегез CloudFlare шәхси диварлы бакчада.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Вебсайтның хосусыйлык политикасын укыр өчен бераз вакыт алыгыз.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 Мин сезнең хосусыйлык политикасын укыдым һәм Cloudflare сүзен таба алмыйм.
 Cloudflare'ка минем мәгълүматны бирүне дәвам итсәгез, мин сезнең белән мәгълүмат бүлешүдән баш тартам.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Бу Cloudflare сүзе булмаган хосусыйлык политикасының мисалы.
@@ -117,10 +117,10 @@ AFAIK, нуль сайты моны эшли. Сез аларга ышанырс
 
 | Исем | Төзүче | Ярдәм | Блоклый ала | Хәбәр итә ала | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Әйе**     | **Әйе**     |  **Әйе** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | .К     | **Әйе**     |  **Әйе** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | .К     | **Әйе**     |  **Әйе** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Әйе**     | **Әйе**     |  .К |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Әйе**     | **Әйе**     |  **Әйе** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | .К     | **Әйе**     |  **Әйе** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | .К     | **Әйе**     |  **Әйе** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Әйе**     | **Әйе**     |  .К |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Әйе**     | **Әйе**     |  .К |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | .К     | **Әйе**     |  .К |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | .К     | **Әйе**     |  .К |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Cloudflare куркынычлары турында тирә-юньдәгеләргә сөйләгез.
 
-- [Бу складны яхшыртырга булыш.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Бу складны яхшыртырга булыш.](http://crimeflare.eu.org).
   - Исемлекләр дә, аңа каршы аргументлар һәм детальләр.
 
-- [Cloudflare (һәм охшаш компанияләр) белән эш килеп чыкмаган очракта, документлаштырыгыз һәм моны эшләгәндә бу складны искә төшерегез.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Cloudflare (һәм охшаш компанияләр) белән эш килеп чыкмаган очракта, документлаштырыгыз һәм моны эшләгәндә бу складны искә төшерегез.](http://crimeflare.eu.org) :)
 
 - Килешү буенча Tor кулланган кешеләрне күбрәк алыгыз, алар дөньяның төрле почмакларыннан вебны татып карый алалар.
 
