@@ -50,12 +50,12 @@ Van egy problémád? [Emeld fel most a hangod.](https://github.com/maraoz/maraoz
 
 ```
 Ön csak a vállalati cenzúrát és a tömeges felügyeletet segíti.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Az Ön weboldala a CloudFlare adatvédelmet sértő, saját fallal körülvett kertjében található.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Szánjon egy kis időt a webhely adatvédelmi irányelveinek elolvasására.
@@ -68,7 +68,7 @@ Meg kell magyaráznia, mi a "Cloudflare", és engedélyt kell kérnie az adatok 
 ```
 Elolvastam adatvédelmi irányelveit, és nem találom a Cloudflare szót.
 Nem vagyok hajlandó megosztani veled az adatokat, ha továbbra is továbbítod az adataimat a Cloudflare-be.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Ez egy példa az adatvédelmi irányelvekre, amelyek nem tartalmazzák a Cloudflare szót.
@@ -117,10 +117,10 @@ Ha a Cloudflare kiszivárogtatja adatait, vagy nem engedi, hogy csatlakozzon sze
 
 | Név | Fejlesztő | Támogatás | Blokkolhat | Értesíteni tud | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Igen**     | **Igen**     |  **Igen** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nem     | **Igen**     |  **Igen** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nem     | **Igen**     |  **Igen** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Igen**     | **Igen**     |  Nem |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Igen**     | **Igen**     |  **Igen** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nem     | **Igen**     |  **Igen** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nem     | **Igen**     |  **Igen** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Igen**     | **Igen**     |  Nem |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Igen**     | **Igen**     |  Nem |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nem     | **Igen**     |  Nem |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nem     | **Igen**     |  Nem |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Ezért csak a fenti táblázatban ajánljuk. Semmi más.
 
 - Mondja el a maga körül másoknak a Cloudflare veszélyeit.
 
-- [Segítsen javítani ezt az adattárat.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Segítsen javítani ezt az adattárat.](http://crimeflare.eu.org).
   - A felsorolások, az ellene szóló érvek és a részletek egyaránt.
 
-- [Dokumentáljon és tegyen nyilvánossá, ahol a Cloudflare (és hasonló cégek) rosszul alakulnak, feltétlenül említse meg ezt a tárat, amikor ezt teszi](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Dokumentáljon és tegyen nyilvánossá, ahol a Cloudflare (és hasonló cégek) rosszul alakulnak, feltétlenül említse meg ezt a tárat, amikor ezt teszi](http://crimeflare.eu.org) :)
 
 - Szerezzen alapértelmezés szerint több embert a Tor használatával, hogy megtapasztalhassák az internetet a világ különböző részeinek szemszögéből.
 
