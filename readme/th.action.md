@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 คุณแค่ช่วยการเซ็นเซอร์องค์กรและการเฝ้าระวังจำนวนมาก
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 หน้าเว็บของคุณอยู่ในสวนที่มีกำแพงล้อมรอบส่วนตัวของ CloudFlare ซึ่งละเมิดความเป็นส่วนตัว
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - ใช้เวลาอ่านนโยบายความเป็นส่วนตัวของเว็บไซต์
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 ฉันได้อ่านนโยบายความเป็นส่วนตัวของคุณแล้ว แต่ไม่พบคำว่า Cloudflare
 ฉันปฏิเสธที่จะแบ่งปันข้อมูลกับคุณหากคุณยังคงป้อนข้อมูลของฉันไปยัง Cloudflare
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 นี่คือตัวอย่างนโยบายความเป็นส่วนตัวที่ไม่มีคำว่า Cloudflare
@@ -117,10 +117,10 @@ AFAIK เว็บไซต์ศูนย์ทำสิ่งนี้ คุ�
 
 | ชื่อ | นักพัฒนา | สนับสนุน | สามารถบล็อก | สามารถแจ้งเตือน | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ใช่**     | **ใช่**     |  **ใช่** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | ไม่     | **ใช่**     |  **ใช่** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | ไม่     | **ใช่**     |  **ใช่** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ใช่**     | **ใช่**     |  ไม่ |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ใช่**     | **ใช่**     |  **ใช่** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ไม่     | **ใช่**     |  **ใช่** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ไม่     | **ใช่**     |  **ใช่** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ใช่**     | **ใช่**     |  ไม่ |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ใช่**     | **ใช่**     |  ไม่ |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ไม่     | **ใช่**     |  ไม่ |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | ไม่     | **ใช่**     |  ไม่ |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - บอกคนรอบข้างเกี่ยวกับอันตรายของ Cloudflare
 
-- [ช่วยปรับปรุงที่เก็บนี้](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [ช่วยปรับปรุงที่เก็บนี้](http://crimeflare.eu.org).
   - ทั้งรายการข้อโต้แย้งและรายละเอียด
 
-- [จัดทำเอกสารและเปิดเผยต่อสาธารณะเมื่อมีสิ่งผิดปกติเกิดขึ้นกับ Cloudflare (และ บริษัท ที่คล้ายกัน) อย่าลืมพูดถึงที่เก็บนี้เมื่อคุณทำเช่นนั้น](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [จัดทำเอกสารและเปิดเผยต่อสาธารณะเมื่อมีสิ่งผิดปกติเกิดขึ้นกับ Cloudflare (และ บริษัท ที่คล้ายกัน) อย่าลืมพูดถึงที่เก็บนี้เมื่อคุณทำเช่นนั้น](http://crimeflare.eu.org) :)
 
 - รับผู้คนจำนวนมากขึ้นโดยใช้ Tor โดยค่าเริ่มต้นเพื่อให้พวกเขาได้สัมผัสกับเว็บจากมุมมองของส่วนต่างๆของโลก
 
