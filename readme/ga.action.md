@@ -50,12 +50,12 @@ Tá fadhb agat? [Ardaigh do ghuth anois.](https://github.com/maraoz/maraoz.githu
 
 ```
 Níl tú ach ag cabhrú le cinsireacht chorparáideach agus ollfhaireachas.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Tá do leathanach gréasáin i ngairdín múrtha príobháideach CloudFlare a dhéanann mí-úsáid ar phríobháideacht.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Tóg roinnt ama chun beartas príobháideachta an láithreáin ghréasáin a léamh.
@@ -68,7 +68,7 @@ Caithfidh sé a mhíniú cad é an “Cloudflare”, agus cead a iarraidh chun d
 ```
 Tá do pholasaí príobháideachta léite agam agus ní féidir liom an focal Cloudflare a aimsiú.
 Diúltaím sonraí a roinnt leat má leanann tú ag cur mo chuid sonraí chuig Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Seo sampla de bheartas príobháideachta nach bhfuil an focal Cloudflare ann.
@@ -117,10 +117,10 @@ Má sceitheann Cloudflare do chuid faisnéise nó mura ligfidh sé duit ceangal 
 
 | Ainm | Forbróir | Tacaíocht | An féidir Bloc | An féidir Fógra a thabhairt | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Sea**     | **Sea**     |  **Sea** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Níl     | **Sea**     |  **Sea** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Níl     | **Sea**     |  **Sea** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Sea**     | **Sea**     |  Níl |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Sea**     | **Sea**     |  **Sea** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Níl     | **Sea**     |  **Sea** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Níl     | **Sea**     |  **Sea** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Sea**     | **Sea**     |  Níl |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Sea**     | **Sea**     |  Níl |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Níl     | **Sea**     |  Níl |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Níl     | **Sea**     |  Níl |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Dá bhrí sin molaimid thuas tábla amháin. Tada eile.
 
 - Inis do dhaoine eile mórthimpeall ort faoi na contúirtí a bhaineann le Cloudflare.
 
-- [Cuidigh leis an stór seo a fheabhsú.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Cuidigh leis an stór seo a fheabhsú.](http://crimeflare.eu.org).
   - Tá na liostaí, na hargóintí ina choinne agus na sonraí araon.
 
-- [Déan doiciméadú agus déan an-phoiblí nuair a théann rudaí mícheart le Cloudflare (agus cuideachtaí dá samhail), agus déan cinnte an stór seo a lua nuair a dhéanann tú amhlaidh](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Déan doiciméadú agus déan an-phoiblí nuair a théann rudaí mícheart le Cloudflare (agus cuideachtaí dá samhail), agus déan cinnte an stór seo a lua nuair a dhéanann tú amhlaidh](http://crimeflare.eu.org) :)
 
 - Iarr ar níos mó daoine Tor a úsáid de réir réamhshocraithe ionas go mbeidh siad in ann taithí a fháil ar an ngréasán ó pheirspictíocht áiteanna éagsúla ar domhan.
 
