@@ -50,12 +50,12 @@ Bir sorunun var? [Şimdi sesini yükselt.](https://github.com/maraoz/maraoz.gith
 
 ```
 Siz sadece kurumsal sansüre ve kitlesel gözetlemeye yardım ediyorsunuz.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Web sayfanız, CloudFlare'nin gizliliği kötüye kullanan özel duvarlı bahçesinde.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Web sitesinin gizlilik politikasını okumak için biraz zaman ayırın.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 Gizlilik politikanızı okudum ve Cloudflare kelimesini bulamıyorum.
 Verilerimi Cloudflare'ye aktarmaya devam ederseniz sizinle veri paylaşmayı reddediyorum.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Bu, Cloudflare kelimesine sahip olmayan bir gizlilik politikası örneğidir.
@@ -117,10 +117,10 @@ Cloudflare bilgilerinizi sızdırırsa veya sunucularımıza bağlanmanıza izin
 
 | İsim Soyisim | Geliştirici | Destek | Engelleyebilir | Bildirebilir | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Evet**     | **Evet**     |  **Evet** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Hayır     | **Evet**     |  **Evet** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Hayır     | **Evet**     |  **Evet** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Evet**     | **Evet**     |  Hayır |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Evet**     | **Evet**     |  **Evet** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hayır     | **Evet**     |  **Evet** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hayır     | **Evet**     |  **Evet** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Evet**     | **Evet**     |  Hayır |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Evet**     | **Evet**     |  Hayır |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Hayır     | **Evet**     |  Hayır |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Hayır     | **Evet**     |  Hayır |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Bu nedenle, yalnızca yukarıdaki tabloyu öneriyoruz. Başka hiçbir şey.
 
 - Çevrenizdeki diğer kişilere Cloudflare'nin tehlikeleri hakkında bilgi verin.
 
-- [Bu depoyu geliştirmeye yardımcı olun.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Bu depoyu geliştirmeye yardımcı olun.](http://crimeflare.eu.org).
   - Hem listeler, hem ona karşı çıkan argümanlar hem de ayrıntılar.
 
-- [Cloudflare (ve benzeri şirketler) ile işlerin ters gittiği yerleri belgeleyin ve herkese açık hale getirin, bunu yaparken bu depodan bahsettiğinizden emin olun.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Cloudflare (ve benzeri şirketler) ile işlerin ters gittiği yerleri belgeleyin ve herkese açık hale getirin, bunu yaparken bu depodan bahsettiğinizden emin olun.](http://crimeflare.eu.org) :)
 
 - Web'i dünyanın farklı bölgelerinin perspektifinden deneyimleyebilmeleri için varsayılan olarak daha fazla kişinin Tor'u kullanmasını sağlayın.
 
