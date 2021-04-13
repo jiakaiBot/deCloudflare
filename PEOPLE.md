@@ -159,6 +159,8 @@ You shouldn′t use it if you value visitor′s privacy.
 </summary>
 
 
+- [Cloudflare ... Yeah, I know the Tor country, it's located in the Onion continent](https://www.reddit.com/r/softwaregore/comments/mlv97r/cloudflare_yeah_i_know_the_tor_country_its/)
+- [Can I bypass Cloudflare?](https://www.reddit.com/r/TOR/comments/m4zfbo/can_i_bypass_cloudflare/)
 - [linuxreviews.org Cloudflare](https://linuxreviews.org/Cloudflare)
 - ["When you fetch a page from a website that is served from CloudFlare, Javascript has been injected on-the-fly into that page by CloudFlare, and they also plant a cookie that brands your browser with a globally-unique ID."](https://www.reddit.com/r/privacy/comments/jd6dys/when_you_fetch_a_page_from_a_website_that_is/)
 - [Tor connectiong being MITMED by Cloudflare](https://www.reddit.com/r/tails/comments/ip0gg6/tor_connectiong_being_mitmed_by_cloudflare/)
@@ -329,6 +331,7 @@ You shouldn′t use it if you value visitor′s privacy.
 </summary>
 
 
+- [getting cloudflare page](https://github.com/zhkrb/cloudflare-scrape-Android/issues/26)
 - [Cloudflare blocking scraping](https://github.com/leoncvlt/blinkist-scraper/issues/46)
 - [Application was being blocked by cloudflare](https://github.com/Supergamer5465/Helix-Raid-Tool/pull/2)
 - [Detect Cloudflare blocking and return an error](https://github.com/pqml/prismarine-tokens/issues/6)
