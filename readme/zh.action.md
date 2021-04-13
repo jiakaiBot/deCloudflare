@@ -50,12 +50,12 @@ Matthew Browning Prince，1974年11月13日出生，是Cloudflare的首席执行
 
 ```
 您只是在帮助企业审查和大规模监视。
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 您的网页位于CloudFlare中具有隐私保护功能的私人围墙花园中。
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - 花一些时间阅读网站的隐私政策。
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 我已经阅读了您的隐私政策，但找不到Cloudflare这个词。
 如果您继续将我的数据提供给Cloudflare，我拒绝与您共享数据。
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 这是隐私策略的示例，其中没有单词Cloudflare。
@@ -117,10 +117,10 @@ AFAIK，零网站做到这一点。你会相信他们吗？
 
 | 姓名 | 开发者 | 支持 | 可以挡 | 可以通知 | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **是的**     | **是的**     |  **是的** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | 不     | **是的**     |  **是的** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | 不     | **是的**     |  **是的** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **是的**     | **是的**     |  不 |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **是的**     | **是的**     |  **是的** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 不     | **是的**     |  **是的** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 不     | **是的**     |  **是的** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **是的**     | **是的**     |  不 |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **是的**     | **是的**     |  不 |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | 不     | **是的**     |  不 |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | 不     | **是的**     |  不 |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - 告诉周围的人有关Cloudflare的危险。
 
-- [帮助改进此存储库。](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [帮助改进此存储库。](http://crimeflare.eu.org).
   - 这两个列表，反对它的参数和详细信息。
 
-- [记录并公开披露Cloudflare（及类似公司）出现问题的地方，并确保在这样做时提及此存储库](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [记录并公开披露Cloudflare（及类似公司）出现问题的地方，并确保在这样做时提及此存储库](http://crimeflare.eu.org) :)
 
 - 默认情况下，让更多的人使用Tor，以便他们可以从世界不同地方的角度来体验网络。
 
