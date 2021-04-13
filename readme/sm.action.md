@@ -50,12 +50,12 @@ E i ai sau faʻafitauli? [Siʻi lou leo ​​nei.](https://github.com/maraoz/ma
 
 ```
 O loʻo e fesoasoani i le faʻamaumauga a kamupani ma le tele o le vaʻai.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 O lau 'upega tafaʻilagi o loʻo i totonu o le le faalauaiteleina-faʻaleagaina tumaoti pa puipui-togalaau o CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Faʻaalu sina taimi e faitau ai le 'upega tafaʻilagi tulafono faʻapitoa.
@@ -68,7 +68,7 @@ E tatau ona faʻamatalaina le uiga o le "Cloudflare", ma fesili mo se faʻatagag
 ```
 Ua ou faitauina lau tulafono faʻapitoa ma e le mafai ona ou mauaina le upu Cloudflare.
 Ou te musu e faʻasoa faʻamatalaga ia te oe pe a fai e te fafau pea aʻu faʻamatalaga i Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Lenei o se faʻataʻitaʻiga o le le faalauaiteleina tulafono faʻavae lea e leai se upu Cloudflare.
@@ -117,10 +117,10 @@ A faʻapea e faʻasalalau e le Cloudflare au faʻamatalaga pe le tuʻuina oe e f
 
 | Igoa | Atinaʻe | Lagolago | Mafai poloka | Mafai ona Faʻailoa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ioe**     | **ioe**     |  **ioe** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | leai     | **ioe**     |  **ioe** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | leai     | **ioe**     |  **ioe** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ioe**     | **ioe**     |  leai |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ioe**     | **ioe**     |  **ioe** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | leai     | **ioe**     |  **ioe** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | leai     | **ioe**     |  **ioe** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ioe**     | **ioe**     |  leai |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ioe**     | **ioe**     |  leai |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | leai     | **ioe**     |  leai |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | leai     | **ioe**     |  leai |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ O le mea lea matou te fautua atu luga naʻo le laulau. E leai se isi mea
 
 - Taʻu i isi o siomia oe e uiga i le matautia o Cloudflare.
 
-- [Fesoasoani e faʻaleleia lenei fale teu oloa.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Fesoasoani e faʻaleleia lenei fale teu oloa.](http://crimeflare.eu.org).
   - O lisi uma, o finauga faʻasaga ia te ia ma faʻamatalaga.
 
-- [Faʻamaumauga ma faʻalauiloa lautele pe a oʻo ni mea e sese ma Cloudflare (ma kamupani tali tutusa), ia mautinoa e taʻua lenei fale teu oloa pe a e faia.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Faʻamaumauga ma faʻalauiloa lautele pe a oʻo ni mea e sese ma Cloudflare (ma kamupani tali tutusa), ia mautinoa e taʻua lenei fale teu oloa pe a e faia.](http://crimeflare.eu.org) :)
 
 - Aumai ni tagata se tele e faʻaaoga le Tor e ala i le le mafai ona latou iloa le upega tafailagi mai le vaaiga o vaega eseese o le lalolagi.
 
