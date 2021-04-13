@@ -50,12 +50,12 @@ Aveți o problemă? [Ridică-ți vocea acum.](https://github.com/maraoz/maraoz.g
 
 ```
 Doar ajutați cenzura corporativă și supravegherea în masă.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Pagina dvs. web se află în grădina privată cu ziduri private care abuzează de confidențialitate a CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Luați ceva timp pentru a citi politica de confidențialitate a site-ului web.
@@ -68,7 +68,7 @@ Acesta trebuie să explice ce este „Cloudflare” și să solicite permisiunea
 ```
 Am citit politica dvs. de confidențialitate și nu găsesc cuvântul Cloudflare.
 Refuz să vă împărtășesc date dacă continuați să furnizați datele mele către Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Acesta este un exemplu de politică de confidențialitate care nu are cuvântul Cloudflare.
@@ -117,10 +117,10 @@ Dacă Cloudflare vă scurge informațiile sau nu vă permite să vă conectați 
 
 | Nume | Dezvoltator | A sustine | Poate bloca | Pot notifica | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **da**     | **da**     |  **da** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Nu     | **da**     |  **da** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Nu     | **da**     |  **da** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **da**     | **da**     |  Nu |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **da**     | **da**     |  **da** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nu     | **da**     |  **da** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nu     | **da**     |  **da** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **da**     | **da**     |  Nu |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **da**     | **da**     |  Nu |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nu     | **da**     |  Nu |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Nu     | **da**     |  Nu |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Prin urmare, vă recomandăm numai tabelul de mai sus. Nimic altceva.
 
 - Spuneți altora din jurul vostru despre pericolele Cloudflare.
 
-- [Ajutați la îmbunătățirea acestui depozit.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Ajutați la îmbunătățirea acestui depozit.](http://crimeflare.eu.org).
   - Atât listele, argumentele împotriva ei, cât și detaliile.
 
-- [Documentați-vă și faceți foarte public locul în care lucrurile merg prost cu Cloudflare (și companii similare), asigurându-vă că menționați acest depozit atunci când faceți acest lucru](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Documentați-vă și faceți foarte public locul în care lucrurile merg prost cu Cloudflare (și companii similare), asigurându-vă că menționați acest depozit atunci când faceți acest lucru](http://crimeflare.eu.org) :)
 
 - Obțineți mai mulți oameni care folosesc Tor în mod implicit, astfel încât să poată experimenta internetul din perspectiva diferitelor părți ale lumii.
 
