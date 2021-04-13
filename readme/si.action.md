@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 ඔබ ආයතනික වාරණයට සහ මහජන සුපරීක්ෂණයට උදව් කරයි.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 ඔබේ වෙබ් පිටුව ක්ලවුඩ් ෆ්ලෙයාර් හි පුද්ගලික බිත්ති උයනේ ඇත.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - වෙබ් අඩවියේ රහස්‍යතා ප්‍රතිපත්තිය කියවීමට යම් කාලයක් ගත කරන්න.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 මම ඔබේ රහස්‍යතා ප්‍රතිපත්තිය කියවා ඇති අතර මට Cloudflare යන වචනය සොයාගත නොහැක.
 ඔබ දිගටම මගේ දත්ත Cloudflare වෙත පෝෂණය කරන්නේ නම් මම ඔබ සමඟ දත්ත බෙදා ගැනීම ප්‍රතික්ෂේප කරමි.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 මෙය ක්ලවුඩ්ෆ්ලේර් යන වචනය නොමැති රහස්‍යතා ප්‍රතිපත්තියට උදාහරණයකි.
@@ -117,10 +117,10 @@ Cloudflare ඔබේ තොරතුරු කාන්දු වුවහොත
 
 | නම | සංවර්ධක | සහාය | අවහිර කළ හැකිය | දැනුම් දිය හැකිය | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **ඔව්**     | **ඔව්**     |  **ඔව්** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | නැත     | **ඔව්**     |  **ඔව්** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | නැත     | **ඔව්**     |  **ඔව්** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **ඔව්**     | **ඔව්**     |  නැත |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ඔව්**     | **ඔව්**     |  **ඔව්** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | නැත     | **ඔව්**     |  **ඔව්** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | නැත     | **ඔව්**     |  **ඔව්** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ඔව්**     | **ඔව්**     |  නැත |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **ඔව්**     | **ඔව්**     |  නැත |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | නැත     | **ඔව්**     |  නැත |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | නැත     | **ඔව්**     |  නැත |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Cloudflare හි අන්තරායන් ගැන ඔබ වටා සිටින අයට කියන්න.
 
-- [මෙම ගබඩාව වැඩි දියුණු කිරීමට උදව් කරන්න.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [මෙම ගබඩාව වැඩි දියුණු කිරීමට උදව් කරන්න.](http://crimeflare.eu.org).
   - ලැයිස්තු දෙකම, එයට එරෙහි තර්ක සහ විස්තර.
 
-- [Cloudflare (සහ ඒ හා සමාන සමාගම්) සමඟ යම් දෙයක් වැරදී ඇති තැන ලේඛනගත කර ප්‍රසිද්ධ කරන්න, ඔබ එසේ කරන විට මෙම ගබඩාව සඳහන් කිරීමට වග බලා ගන්න.](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Cloudflare (සහ ඒ හා සමාන සමාගම්) සමඟ යම් දෙයක් වැරදී ඇති තැන ලේඛනගත කර ප්‍රසිද්ධ කරන්න, ඔබ එසේ කරන විට මෙම ගබඩාව සඳහන් කිරීමට වග බලා ගන්න.](http://crimeflare.eu.org) :)
 
 - ටෝර් භාවිතා කරමින් පෙරනිමියෙන් වැඩි පිරිසක් ලබා ගන්න එවිට ඔවුන්ට ලෝකයේ විවිධ ප්‍රදේශවල දෘෂ්ටි කෝණයෙන් වෙබය අත්විඳිය හැකිය.
 
