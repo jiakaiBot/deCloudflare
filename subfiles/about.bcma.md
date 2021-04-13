@@ -18,4 +18,4 @@ Your cloudflare-domain collection is yours.
 
 - [Code](https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/addons/code/bcma)
 - Download add-on
-  - From Gitea (Delay Sync): [FirefoxESR](https://git.sdf.org/deCloudflare/cloudflare-tor/raw/branch/master/addons/releases/bcma.xpi) / [Chromium / Edge](https://git.sdf.org/deCloudflare/cloudflare-tor/raw/branch/master/addons/releases/bcma.crx)
+  - From Gitea: [FirefoxESR](https://git.sdf.org/deCloudflare/cloudflare-tor/raw/branch/master/addons/releases/bcma.xpi) / [Chromium / Edge](https://git.sdf.org/deCloudflare/cloudflare-tor/raw/branch/master/addons/releases/bcma.crx)
