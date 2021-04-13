@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 Шумо танҳо ба сензураи корпоративӣ ва назорати оммавӣ кӯмак мерасонед.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Вебсайти шумо дар боғи хусусии суиистифодаи CloudFlare аст.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Барои хондани сиёсати махфияти вебсайт каме вақт ҷудо кунед.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 Ман сиёсати махфияти шуморо хондаам ва калимаи Cloudflare -ро ёфта наметавонам.
 Ман мубодилаи маълумотро бо шумо рад мекунам, агар шумо маълумоти худро ба Cloudflare давом диҳед.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Ин намунаи сиёсати махфият мебошад, ки калимаи Cloudflare надорад.
@@ -117,10 +117,10 @@ AFAIK, вебсайти сифр ин корро мекунад. Оё шумо �
 
 | Ном | Таҳиякунанда | Дастгирӣ | Метавонед бастан | Огоҳ карда метавонад | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Бале**     | **Бале**     |  **Бале** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Не     | **Бале**     |  **Бале** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Не     | **Бале**     |  **Бале** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Бале**     | **Бале**     |  Не |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Бале**     | **Бале**     |  **Бале** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Бале**     |  **Бале** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Бале**     |  **Бале** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Бале**     | **Бале**     |  Не |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Бале**     | **Бале**     |  Не |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Не     | **Бале**     |  Не |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Не     | **Бале**     |  Не |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - Ба атрофиёни худ дар бораи хатари Cloudflare нақл кунед.
 
-- [Кӯмак ба беҳтар кардани ин анбор.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Кӯмак ба беҳтар кардани ин анбор.](http://crimeflare.eu.org).
   - Ҳарду рӯйхат, далелҳои зидди он ва ҷузъиёт.
 
-- [Ҳуҷҷатгузорӣ кунед ва дар ҷойҳое, ки бо Cloudflare (ва ширкатҳои ба он монанд) хатогиҳо рӯй медиҳанд, ба таври оммавӣ нишон диҳед ва боварӣ ҳосил кунед, ки ин анборро ҳангоми ин кор ёдовар шавед](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Ҳуҷҷатгузорӣ кунед ва дар ҷойҳое, ки бо Cloudflare (ва ширкатҳои ба он монанд) хатогиҳо рӯй медиҳанд, ба таври оммавӣ нишон диҳед ва боварӣ ҳосил кунед, ки ин анборро ҳангоми ин кор ёдовар шавед](http://crimeflare.eu.org) :)
 
 - Бо нобаёнӣ шумораи бештари одамонро аз Tor истифода баред, то онҳо тавонанд вебро аз нуқтаи назари қисматҳои гуногуни ҷаҳон таҷриба кунанд.
 
