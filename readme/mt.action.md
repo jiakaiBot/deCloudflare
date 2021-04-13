@@ -50,12 +50,12 @@ Għandek problema? [Għolli leħnek issa.](https://github.com/maraoz/maraoz.gith
 
 ```
 Int biss qed tgħin iċ-ċensura korporattiva u s-sorveljanza tal-massa.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Il-paġna tal-web tiegħek tinsab fil-ġnien privat ta 'CloudFlare li jabbuża mill-privatezza.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Ħu ftit ħin biex taqra l-politika tal-privatezza tal-websajt.
@@ -68,7 +68,7 @@ Għandha tispjega x'inhi l- "Cloudflare", u titlob permess biex taqsam id-dejta 
 ```
 Qrajt il-politika tal-privatezza tiegħek u ma nistax insib il-kelma Cloudflare.
 Jien nirrifjuta li naqsam dejta miegħek jekk tkompli tagħti d-dejta tiegħi lil Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Dan huwa eżempju ta 'politika ta' privatezza li m'għandhiex il-kelma Cloudflare.
@@ -117,10 +117,10 @@ Jekk Cloudflare jnixxi l-informazzjoni tiegħek jew ma jħallikx tikkonnettja ma
 
 | Isem | Żviluppatur | Appoġġ | Tista 'timblokka | Jista 'Jinnotifika | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Iva**     | **Iva**     |  **Iva** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Le     | **Iva**     |  **Iva** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Le     | **Iva**     |  **Iva** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Iva**     | **Iva**     |  Le |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Iva**     | **Iva**     |  **Iva** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Le     | **Iva**     |  **Iva** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Le     | **Iva**     |  **Iva** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Iva**     | **Iva**     |  Le |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Iva**     | **Iva**     |  Le |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Le     | **Iva**     |  Le |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Le     | **Iva**     |  Le |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Għalhekk nirrakkomandaw hawn fuq it-tabella biss. Xejn iktar.
 
 - Għid lil ħaddieħor madwarek dwar il-perikli ta 'Cloudflare.
 
-- [Għin biex ittejjeb dan ir-repożitorju.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Għin biex ittejjeb dan ir-repożitorju.](http://crimeflare.eu.org).
   - Kemm il-listi, l-argumenti kontriha u d-dettalji.
 
-- [Iddokumenta u għamel pubbliku ħafna fejn l-affarijiet imorru ħażin ma 'Cloudflare (u kumpaniji simili), u kun żgur li ssemmi dan ir-repożitorju meta tagħmel hekk](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Iddokumenta u għamel pubbliku ħafna fejn l-affarijiet imorru ħażin ma 'Cloudflare (u kumpaniji simili), u kun żgur li ssemmi dan ir-repożitorju meta tagħmel hekk](http://crimeflare.eu.org) :)
 
 - Ġib aktar nies li jużaw Tor b’mod awtomatiku sabiex ikunu jistgħu jesperjenzaw il-web mill-perspettiva ta ’partijiet differenti tad-dinja.
 
