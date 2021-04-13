@@ -16,20 +16,20 @@ documenting websites that subject people to the harms of Cloudflare by
 maintaining a [massive list](../cloudflare_users/domains) of websites to avoid.
 
 Unlike other tech giant adversaries to the CFT cause such as [GAFAM](https://en.wikipedia.org/wiki/GAFAM)
-(Google, Amazon, Facebook, Apple, Microsoft), Cloudflare operates
+(Google, Amazon, Facebook, Apple and Microsoft), Cloudflare operates
 surreptitiously and largely unknown to the general public, despite
 having access to ~20-30%+ of the world's web traffic and 80%+ of CDN
 market.
-Their existence is so much in the shadows that privacy orgs
+Their existence is so much in the shadows that privacy organizations
 like "[Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)" are largely oblivious to the threat of it.
-Mainstream privacy orgs not only neglect to protect web users from Cloudflare,
-but some of them actually naively use Cloudflare themselves and
-unwittingly work against their own interest and declared purpose.
-Some privacy and ethics advice sites like "Switching Software" 
-actually recommend Cloudflare sites to those who entrust them to
+Mainstream privacy orgs not only *neglect* to protect web users from Cloudflare,
+but some of them actually naively *use* Cloudflare themselves and
+unwittingly work *against* their own interest and declared purpose.
+Some privacy and ethical advice sites like "Switching Software" 
+actually *recommend* Cloudflare sites to those who entrust them to
 give advice pursuant to their own stated purpose.
 
-The problem is so rampant that it became important for the CFT
+The problem is so [rampant](../PEOPLE.md) that it became important for the CFT
 project's tracking of the Cloudflare problem to start keeping track of
 organizations and the pseudo-anonymous aliases of representatives who
 were spotted publicly promoting Cloudflare.
@@ -52,7 +52,7 @@ allegedly in response to complaints.
 > "target lists", with personal data, lists of employment status,
 > social media identities,
 
-Calling it a "target list" entails a presumption of how the list is
+Calling it a "`target list`" entails a presumption of *how* the list is
 used.  For example, if a threat actor wants to join the CFT project to
 gain access to our internal operations, it is not CFT targeting them
 but rather CFT avoiding being targeted by their adversary.  CFT has
@@ -61,17 +61,17 @@ gained trust by posing as those who support the CFT cause.
 
 Transparency is essential in exposing the corporate bias behind the
 information and advice you are getting.  For example, a forum for talk
-about bicycles might require [Brompton](https://en.wikipedia.org/wiki/Brompton_Bicycle) representatives to be tagged as
+about bicycles might require [Brompton company](https://en.wikipedia.org/wiki/Brompton_Bicycle) representatives to be tagged as
 such so that other users are aware of the bias behind their posts.  
 It would actually be reckless *not* to identify such conflicts of
 interest.  This is particularly important when dealing with Cloudflare
-because they have proven to publish misinformation regularly.
-Codeberg's move to conceal who represents a company ultimately
-promotes corruption and deception.
+because they have *proven* to publish misinformation regularly.
+Codeberg's move to *conceal* who represents a company ultimately
+*promotes* corruption and deception.
 
 Are forums hosted in Germany really forced to operate
 non-transparently and conceal such conflicts of interest from the
-public?  Unlikely.
+public?  *Unlikely*.
 
 For Codeberg to allege CFT tracks "personal data" with social media
 identities is perversely deceptive.  CFT did not track personal data
