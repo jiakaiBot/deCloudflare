@@ -50,12 +50,12 @@ Dhibaato ayaad qabtaa? [Codkaaga hada kor uqaad.](https://github.com/maraoz/mara
 
 ```
 Kaliya waxaad caawineysaa faafreebka shirkadaha iyo kormeerka ballaaran.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 Boggaaga internetka wuxuu ku dhexyaalaa-qarsoodiga-ku-xadgudubka-darbiga-gaarka ah ee CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - Waqti qaado si aad u aqriso siyaasada asturnaanta bogga.
@@ -68,7 +68,7 @@ Waa inay sharraxdo waxa uu yahay "Cloudflare", oo ay weydiisato rukhsad ay kula 
 ```
 Waan aqriyay siyaasadaada asturnaanta mana heli karo erayga Cloudflare.
 Waan diidey inaan kula wadaago xogta haddii aad sii wadatid inaad xogteyda ku quudiso Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 Tani waa tusaale siyaasad gaar ah oo aan lahayn erayga Cloudflare.
@@ -117,10 +117,10 @@ Haddii Cloudflare ay daadato macluumaadkaaga ama aysan kuu oggolaan doonin inaad
 
 | Magaca | Horumar | Taageero | Joojin Karaa | Ogeysiin karaa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **Haa**     | **Haa**     |  **Haa** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | Maya     | **Haa**     |  **Haa** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | Maya     | **Haa**     |  **Haa** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **Haa**     | **Haa**     |  Maya |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Haa**     | **Haa**     |  **Haa** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Maya     | **Haa**     |  **Haa** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Maya     | **Haa**     |  **Haa** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Haa**     | **Haa**     |  Maya |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **Haa**     | **Haa**     |  Maya |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Maya     | **Haa**     |  Maya |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Maya     | **Haa**     |  Maya |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ Sidaa darteed waxaan kugula talineynaa miiska kor ku xusan oo keliya. Wax kale m
 
 - U sheeg dadka kale ee kugu hareeraysan khataraha Cloudflare.
 
-- [Caawi hagaajinta keydkaan.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [Caawi hagaajinta keydkaan.](http://crimeflare.eu.org).
   - Labada liisba, doodaha ka dhanka ah iyo faahfaahinta.
 
-- [Diiwaangeli oo aad u muuji dadweynaha halka ay wax ka khaldan yihiin Cloudflare (iyo shirkadaha la midka ah), hubinta inaad sheegto bakhaarkan markaad sidaas sameyso](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [Diiwaangeli oo aad u muuji dadweynaha halka ay wax ka khaldan yihiin Cloudflare (iyo shirkadaha la midka ah), hubinta inaad sheegto bakhaarkan markaad sidaas sameyso](http://crimeflare.eu.org) :)
 
 - U hel dad badan oo isticmaalaya Tor markii ugu horraysay si ay ula kulmaan shabakadda marka loo eego aragtida qaybaha kala duwan ee adduunka.
 
