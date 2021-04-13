@@ -444,6 +444,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- Got a Cloudflare error and when the screen popped up again there was a very bad scam attempt shown up. Please be aware of this ([cryptchem](https://twitter.com/CryptChem/status/1381978825958035457))
 - I try to embrace that deeply and just about every instance of getting an inacessible, frustrating, and invasive CAPTCHA when trying to access the vast majority of sites using things like Cloudflare that deny Tor exit nodes by defauly only reinforces my beliefs. ([_rvklein_](https://twitter.com/_rvklein_/status/1381839583424475137))
 - Cloudflare es una herramienta q usan algunas web para evitar ataques A veces sospecha de una persona (por x motivos) y te pone que pongas captcha para asegurarse que no seas un 🤖 ([tapofilms](https://twitter.com/TapoFilms/status/1381655932741025793))
 - Aha, I thought that was an error when I saw that in the expression preview pane. The 0-9 version works just as well, but I can't save because there still is an unknown error when I press save as draft (as I don't want it to take immediate effect). ([bonny_ken](https://twitter.com/bonny_ken/status/1381558785303543811))
