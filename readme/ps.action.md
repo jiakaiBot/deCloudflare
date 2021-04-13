@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 تاسو یوازې د کارپوریټ سانسور او ډله ایزې څارنې سره مرسته کوئ.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 ستاسو ویب پا pageه د کلاوډ فلایر خصوصي دیوال باغ کې له محرمیت څخه ناوړه ګټه اخیستونکي کې دی.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - د ویب پا'sې د محرمیت تګلاره لوستلو لپاره یو څه وخت ونیسئ.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 ما ستاسو د محرمیت تګلاره لوستې او زه د کلاوډ فلیر ټیم نه شم موندلی.
 زه ستاسو سره د معلوماتو شریکولو څخه انکار کوم که تاسو کلاډ فلیر ته زما ډاټا ته تغذیه کولو ته دوام ورکړئ.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 دا د محرمیت تګلارې یوه بیلګه ده چې د کلاوډ فلیر ټکي نلري.
@@ -117,10 +117,10 @@ AFAIK ، صفر ویب پا thisه دا کار کوي. ایا تاسو به په
 
 | نوم | پرمختیا کونکی | ملاتړ | مخنیوی کولی شي | خبر ورکولای شي | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **هو**     | **هو**     |  **هو** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | نه     | **هو**     |  **هو** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | نه     | **هو**     |  **هو** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **هو**     | **هو**     |  نه |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **هو**     | **هو**     |  **هو** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نه     | **هو**     |  **هو** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نه     | **هو**     |  **هو** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **هو**     | **هو**     |  نه |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **هو**     | **هو**     |  نه |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | نه     | **هو**     |  نه |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | نه     | **هو**     |  نه |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - خپل شاوخوا نورو ته د کلاوډ فلایر د خطراتو په اړه ووایاست.
 
-- [د دې زېرمو په وده کې مرسته وکړه.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [د دې زېرمو په وده کې مرسته وکړه.](http://crimeflare.eu.org).
   - دواړه لیستونه ، د دې پروړاندې دلیلونه او توضیحات.
 
-- [لاسوند کړئ او خورا عامه کړئ چیرې چې شیان د کلاوډ فلیر (او ورته ورته شرکتونو) سره غلط کیږي ، نو ډاډ ترلاسه کړئ کله چې تاسو د دې ذخیره کولو یادونه وکړئ](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [لاسوند کړئ او خورا عامه کړئ چیرې چې شیان د کلاوډ فلیر (او ورته ورته شرکتونو) سره غلط کیږي ، نو ډاډ ترلاسه کړئ کله چې تاسو د دې ذخیره کولو یادونه وکړئ](http://crimeflare.eu.org) :)
 
 - د ډیفالټ په واسطه د تور کارولو سره ډیر خلک ترلاسه کړئ نو دوی کولی شي ویب د نړۍ مختلف برخو څخه لید تجربه کړي.
 
