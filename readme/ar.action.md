@@ -50,12 +50,12 @@
 
 ```
 أنت فقط تساعد في الرقابة على الشركات والمراقبة الجماعية.
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 صفحة الويب الخاصة بك موجودة في حديقة CloudFlare الخاصة المسورة التي تسيء إلى الخصوصية.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - خذ بعض الوقت لقراءة سياسة الخصوصية الخاصة بالموقع.
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 لقد قرأت سياسة الخصوصية الخاصة بك ولا يمكنني العثور على كلمة Cloudflare.
 أرفض مشاركة البيانات معك إذا واصلت تغذية بياناتي إلى Cloudflare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 هذا مثال على سياسة الخصوصية التي لا تحتوي على كلمة Cloudflare.
@@ -117,10 +117,10 @@ AFAIK ، موقع صفر يفعل هذا. هل ستثق بهم؟
 
 | اسم | مطور | الدعم | يمكن أن تمنع | يمكن أن يخطر | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **نعم**     | **نعم**     |  **نعم** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | لا     | **نعم**     |  **نعم** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | لا     | **نعم**     |  **نعم** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **نعم**     | **نعم**     |  لا |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **نعم**     | **نعم**     |  **نعم** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | لا     | **نعم**     |  **نعم** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | لا     | **نعم**     |  **نعم** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **نعم**     | **نعم**     |  لا |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **نعم**     | **نعم**     |  لا |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | لا     | **نعم**     |  لا |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | لا     | **نعم**     |  لا |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - أخبر الآخرين من حولك عن مخاطر Cloudflare.
 
-- [ساعد في تحسين هذا المستودع.](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [ساعد في تحسين هذا المستودع.](http://crimeflare.eu.org).
   - كلا القائمتين والحجج ضده والتفاصيل.
 
-- [قم بالتوثيق والإعلان عن الأخطاء التي تحدث في Cloudflare (والشركات المماثلة) ، مع التأكد من ذكر هذا المستودع عند القيام بذلك](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [قم بالتوثيق والإعلان عن الأخطاء التي تحدث في Cloudflare (والشركات المماثلة) ، مع التأكد من ذكر هذا المستودع عند القيام بذلك](http://crimeflare.eu.org) :)
 
 - احصل على المزيد من الأشخاص الذين يستخدمون Tor بشكل افتراضي حتى يتمكنوا من تجربة الويب من منظور أجزاء مختلفة من العالم.
 
