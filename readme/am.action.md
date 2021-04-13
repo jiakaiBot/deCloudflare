@@ -50,12 +50,12 @@ Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝ
 
 ```
 እርስዎ የድርጅት ሳንሱር እና የጅምላ ቁጥጥርን ብቻ እየረዱ ነው።
-https://git.sdf.org/deCloudflare/cloudflare-tor/src/branch/master/README.md
+http://crimeflare.eu.org
 ```
 
 ```
 የእርስዎ ድረ-ገጽ በግላዊነት-አላግባብ የግል ግድግዳ-ደመናው የአትክልት ስፍራ ውስጥ ነው CloudFlare.
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 - የድር ጣቢያውን የግላዊነት ፖሊሲ ለማንበብ ትንሽ ጊዜ ይውሰዱ።
@@ -68,7 +68,7 @@ https://git.sdf.org/deCloudflare/cloudflare-tor/
 ```
 የግላዊነት ፖሊሲዎን አንብቤያለሁ እና Cloudflare የሚለውን ቃል ማግኘት አልቻልኩም ፡፡
 የእኔን ውሂብ ወደ Cloudflare መመገብዎን ከቀጠሉ ከእርስዎ ጋር መረጃን ለማጋራት እምቢ አለኝ።
-https://git.sdf.org/deCloudflare/cloudflare-tor/
+http://crimeflare.eu.org
 ```
 
 ይህ Cloudflare የሚል ቃል የሌለበት የግላዊነት ፖሊሲ ምሳሌ ነው።
@@ -117,10 +117,10 @@ Cloudflare መረጃዎን የሚያፈሰው ከሆነ ወይም ከአገል�
 
 | ስም | ገንቢ | ድጋፍ | ማገድ ይችላል | ማሳወቅ ይችላል | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](README.md) | **አዎ**     | **አዎ**     |  **አዎ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](README.md) | አይ     | **አዎ**     |  **አዎ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](README.md) | አይ     | **አዎ**     |  **አዎ** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](README.md) | **አዎ**     | **አዎ**     |  አይ |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **አዎ**     | **አዎ**     |  **አዎ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | አይ     | **አዎ**     |  **አዎ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | አይ     | **አዎ**     |  **አዎ** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **አዎ**     | **አዎ**     |  አይ |
 | [TPRB](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | Sw | [ ? ](http://34ahehcli3epmhbu2wbl6kw6zdfl74iyc4vg3ja4xwhhst332z3knkyd.onion/) | **አዎ**     | **አዎ**     |  አይ |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | አይ     | **አዎ**     |  አይ |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | አይ     | **አዎ**     |  አይ |
@@ -257,7 +257,7 @@ header('HTTP/1.1 406 Not Acceptable');
 echo <<<CLOUDFLARED
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://git.sdf.org/deCloudflare/cloudflare-tor for more information.<br />
+Please read http://crimeflare.eu.org for more information.<br />
 CLOUDFLARED;
 die();
 ```
@@ -412,10 +412,10 @@ die();
 
 - ስለ Cloudflare አደጋዎች በአካባቢዎ ላሉት ሌሎች ይንገሩ።
 
-- [ይህንን ማከማቻ ለማሻሻል ይረዱ።](https://git.sdf.org/deCloudflare/cloudflare-tor).
+- [ይህንን ማከማቻ ለማሻሻል ይረዱ።](http://crimeflare.eu.org).
   - ሁለቱም ዝርዝሮች ፣ በእሱ ላይ የሚነሱ ክርክሮች እና ዝርዝሮች ፡፡
 
-- [ነገሮች በ Cloudflare (እና በተመሳሳይ ኩባንያዎች) ላይ ስህተት በሚሆኑበት ቦታ ሰነድ ይስጡ እና በጣም ይፋ ያድርጉ ፣ ይህን ሲያደርጉ ይህን ማከማቻ መጠቀሱን ያረጋግጡ ፡፡](https://git.sdf.org/deCloudflare/cloudflare-tor) :)
+- [ነገሮች በ Cloudflare (እና በተመሳሳይ ኩባንያዎች) ላይ ስህተት በሚሆኑበት ቦታ ሰነድ ይስጡ እና በጣም ይፋ ያድርጉ ፣ ይህን ሲያደርጉ ይህን ማከማቻ መጠቀሱን ያረጋግጡ ፡፡](http://crimeflare.eu.org) :)
 
 - ከተለያዩ የዓለም ክፍሎች እይታ ድሩን እንዲለማመዱ በነባሪነት ቶርን የሚጠቀሙ ብዙ ሰዎችን ያግኙ።
 
