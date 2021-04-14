@@ -20,8 +20,8 @@ let CFBlocking = {
 				try {
 					rayid = httpChl.getResponseHeader('cf-ray');
 				} catch (e) {}
-				if (rayid.length > 3) {
-					if (!knownCF.includes(hostN) && !ignoreCF(hostN)) {
+				if (rayid.length > 4 && !ignoreCF(hostN)) {
+					if (!knownCF.includes(hostN)) {
 						knownCF.push(hostN);
 					}
 					httpChl.cancel(Cr.NS_BINDING_ABORTED);
