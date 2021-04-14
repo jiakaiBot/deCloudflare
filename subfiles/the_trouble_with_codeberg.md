@@ -22,7 +22,7 @@ having access to ~20-30%+ of the world's web traffic and 80%+ of CDN
 market.
 Their existence is so much in the shadows that privacy organizations
 like "[Electronic Frontier Foundation](https://en.wikipedia.org/wiki/Electronic_Frontier_Foundation)" are largely oblivious to the threat of it.
-Mainstream privacy orgs not only *neglect* to protect web users from Cloudflare,
+Mainstream privacy organizations not only *neglect* to protect web users from Cloudflare,
 but some of them actually naively *use* Cloudflare themselves and
 unwittingly work *against* their own interest and declared purpose.
 Some privacy and ethical advice sites like "Switching Software" 
@@ -43,7 +43,7 @@ was added to the Cloudflare supporter list, Codeberg shut down the CFT
 project and issued
 [this statement](https://codeberg.org/Codeberg/Community/issues/423#issuecomment-187783)
 to contributors, and posted
-[this blog announcement](https://blog.codeberg.org/on-the-cloudflare-tor-takedown.html),
+[this blog announcement](https://web.archive.org/web/20210406012737/https://blog.codeberg.org/on-the-cloudflare-tor-takedown.html),
 allegedly in response to complaints.
 
 
@@ -252,4 +252,4 @@ ignored in the absence of evidence.
 
 
 ---
-Original text provided by [humanacollaborator](https://git.sdf.org/humanacollaborator). [License](../LICENSE.md)
+by [humanacollaborator](https://git.sdf.org/humanacollaborator). [License](../LICENSE.md)
