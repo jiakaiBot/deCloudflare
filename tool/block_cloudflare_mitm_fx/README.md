@@ -12,3 +12,4 @@ The TLS protocol promises end-to-end encryption between the client and an authen
 -----
 
 - "[Bloku Cloudflaron MITM-Atakon](../../subfiles/about.bcma.md)" (BCMA2)
+- "[Block Cloudflare Requests](../block_cloudflare_requests_pm/)" (Palemoon add-on)
