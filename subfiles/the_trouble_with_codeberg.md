@@ -73,7 +73,7 @@ Are forums hosted in Germany really forced to operate
 non-transparently and conceal such conflicts of interest from the
 public?  *Unlikely*.
 
-For Codeberg to allege CFT tracks "personal data" with social media
+For Codeberg to allege CFT tracks "`personal data`" with social media
 identities is perversely deceptive.  CFT did not track personal data
 or dox any social media identities.  The social media identities were
 listed and only *public* data was shared -- data that is already
@@ -88,22 +88,22 @@ of that tweet.  If Codeberg's assertion above were true, then Twitter mirror sit
 would be banned in Germany for republishing the tweets of Germans.  
 We know this is not true because Germans have access to the mirror sites.
 
-Codeberg's false accusation of illegal activity came with destructive
+Codeberg's *false* accusation of *illegal* activity came with *destructive*
 removal of forked repositories
 [without warning, without redress, and while refusing explanation](https://codeberg.org/shadow/SpywareWatchdog/issues/77#issuecomment-188170)
 to the users whose data they destroyed.
 
 In response, Codeberg
 [claims](https://codeberg.org/shadow/SpywareWatchdog/issues/77#issuecomment-188178)
-they had to act immediately to what they perceived as illegal
+they had to act immediately to what they perceived as *illegal*
 activity.  Even if we were to accept that the already public data
 somehow became sensitive merely by replication, the correct
 non-reckless action is to quarantine the data in a non-public state
-until court proceedings or settlement could commence.  For Codeberg to
-destroy people's work, and also destroy what they believed was
+until court proceedings or settlement could commence.  
+For Codeberg to destroy people's work, and also destroy what they believed was
 evidence of illegal activity was nothing short of reckless.
 Codeberg's haphazard response has actually created a legal liability
-for themselves, as they needlessly destroyed people's work without due
+for themselves, as they *needlessly* destroyed people's work without due
 diligence.
 
 A take-down request implemented properly and fairly to all sides is
@@ -118,35 +118,34 @@ This is just a statement of Codeberg's interpretation of law.  Note
 that Codeberg does not accuse CFT of this, as doing so would be libel
 against CFT.  So it's unclear what purpose this statement serves other
 than to imply an accusation without stating it.  Such weasel wording
-is designed to deceive the public while dodging legal accountability.
+is designed to *deceive* the public while dodging legal accountability.
 
 > - Considering reports we received, a significant number of claims and
 > statements were factually false.
 
 CFT has received only **one** complaint.  It involved one social media
 alias that was listed and it turned out to be a misunderstanding
-surrounding the word "*support*".  The listed party claimed to not
+surrounding the word "`support`".  The listed party claimed to not
 personally condone Cloudflare and thus claimed to not be a Cloudflare
 "supporter" on that basis.  
 But investigation of [public statements](https://codeberg.org/swiso/website/issues/141#issuecomment-69593)
-by that individual revealed that the other party actually supported
-Cloudflare operationally.  Note that Codeberg destroyed the
-investigation logs which led to the finding, so we can't cite them
-here.
+by that individual revealed that the other party *actually* supported
+Cloudflare *operationally*.  Note that Codeberg *destroyed* the
+investigation logs which led to the finding, so we can't cite them here.
 
-> The pure existence of lis ts "Enemies of X" is by all rational means
+> The pure existence of lists "Enemies of X" is by all rational means
 > unlikely to have any other purpose than public shaming, defamation,
 > threatening and libel. These are generally considered illegal in
 > German law and elsewhere.
 
 The mere existence of a list of Cloudflare supporters certainly does
 *not* imply shaming.  The list *can potentially* be used for shaming
-or praising, as well as in countless ways orthogonal to both praise
-and shame.  Codeberg further produces no evidence that the list was
-used for shaming (which should be quite easy to do if they've had
+or praising, as well as in countless ways orthogonal to both *praise*
+and *shame*.  Codeberg further produces *no evidence* that the list was
+used for *shaming* (which should be quite easy to do if they've had
 complaints on the scale that they allege).
 
-It's important to establish bias so that readers can assess the
+It's important to establish *bias* so that readers can assess the
 accuracy of statements made by someone who is biased.  This is why
 aliases of those entrusted with advice on matters of privacy were
 collected.  It's important to track the underlying bias behind privacy
@@ -164,8 +163,8 @@ Codeberg [said](https://web.archive.org/web/20210406012737/https://blog.codeberg
 
 (emphasis added)
 
-Data published on Twitter and public forums is not sensitive.  Anyone
-who posts in a public space and later has regrets, they have only
+Data published on Twitter and public forums is *not* sensitive.  Anyone
+who posts in a *public space* and later has regrets, they have only
 themselves to blame.
 
 Once you share your information publicly, you can't control them anymore.
@@ -175,14 +174,14 @@ Once you share your information publicly, you can't control them anymore.
 > their social media accounts and allegedly blamed as Cloudflare
 > supporters without an evidence
 
-CFT was never asked for evidence.  Only one complaint was received.
+CFT was never asked for evidence.  Only *one* complaint was received.
 It was investigated and evidence was provided to the subject.
 
 > We started a discussion with the maintainers of this repository and
 > asked to remove these sensitive information, that are apparently for
 > shaming people (defamation),
 
-CFT did not "shame" or "defame" anyone, and no evidence was given to
+CFT did not "*shame*" or "*defame*" anyone, and no evidence was given to
 that effect.  Codeberg admitted earlier that their assumption is that
 a list of Cloudflare supporters inherently shames people.  Yet the
 list is objective.  It's for the reader to decide if the list is of
@@ -232,11 +231,11 @@ their employees, so it's already public information.
 > Cloudflare-supporters, but critical opponents of this company, and
 > thus could not even imagine a reason for being listed there.
 
-CFT only received one complaint regarding one individual.  CFT has
-continously been in GDPR compliance at all times.  Codeberg destroyed
+CFT only received *one* complaint regarding *one* individual.  CFT has
+*continously* been in GDPR compliance at *all times*.  Codeberg destroyed
 the repository anyway.
 
-"*Support*" comes in many forms.  You can support Cloudflare by
+"`Support`" comes in many forms.  You can support Cloudflare by
 praising it, or you can support Cloudflare through actions (which may
 even be unwitting to the supporter).  In the one case that CFT
 investigated, the subject's understanding narrowly assumed "support"
@@ -247,7 +246,7 @@ was limited to philosophical praise.
 
 This is weasel wording, as directly accusing CFT of attacking or
 threatening Cloudflare supporters would constitute libel on the part
-of Codeberg.  So they try to imply it.  These claims can only be
+of Codeberg.  So they try to *imply* it.  These claims can only be
 ignored in the absence of evidence.
 
 
