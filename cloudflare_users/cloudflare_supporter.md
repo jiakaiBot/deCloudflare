@@ -1,7 +1,7 @@
 # Cloudflare supporters
 
 
-_Do you have any idea what you're doing?_
+_Your action will define you._
 
 | 🖼 | 🖼 |
 | --- | --- |
@@ -14,9 +14,8 @@ _Do you have any idea what you're doing?_
 
 
 ```
-If you have a fucking problem with this list think about what you did.
-If you strongly believe you are innocent write a comment to issue
-with evidence. Do not create new issue or we will close it as duplicate.
+If you strongly believe this is a mistake write a comment to issue with evidence.
+Do not create new issue or we will close it as duplicate.
 ```
 
 ```
