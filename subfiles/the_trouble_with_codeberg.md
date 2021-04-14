@@ -192,7 +192,7 @@ project.
 > According to GDPR, we are obligued to remove sensitive user
 > information as soon as a concerned person demands us to do so.
 
-The GDPR does *not protect* legal persons (i.e. organizations) and it
+The GDPR ([General Data Protection Regulation](https://gdpr-info.eu/)) does *not protect* legal persons (i.e. organizations) and it
 [does not protect anonymous information](https://gdpr-info.eu/recitals/no-26).
 Specifically:
 
