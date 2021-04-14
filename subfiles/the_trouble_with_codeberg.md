@@ -1,7 +1,7 @@
 # Codeberg's Attack on Transparency and on Cloudflare Opposition
 
 Codeberg hosted the Crimeflare's `Cloudflare-Tor` (CFT) project.
-In 2021, Codeberg took down the project alleging libel.
+In April 2021, Codeberg took down the project alleging libel.
 
 
 ## What the Cloudflare-Tor (CFT) project is
@@ -128,6 +128,7 @@ alias that was listed and it turned out to be a misunderstanding
 surrounding the word "`support`".  The listed party claimed to not
 personally condone Cloudflare and thus claimed to not be a Cloudflare
 "supporter" on that basis.  
+
 But investigation of [public statements](https://codeberg.org/swiso/website/issues/141#issuecomment-69593)
 by that individual revealed that the other party *actually* supported
 Cloudflare *operationally*.  Note that Codeberg *destroyed* the
@@ -143,7 +144,7 @@ The mere existence of a list of Cloudflare supporters certainly does
 or praising, as well as in countless ways orthogonal to both *praise*
 and *shame*.  Codeberg further produces *no evidence* that the list was
 used for *shaming* (which should be quite easy to do if they've had
-complaints on the scale that they allege).
+complaints on the scale that they allege).  
 
 It's important to establish *bias* so that readers can assess the
 accuracy of statements made by someone who is biased.  This is why
@@ -174,8 +175,8 @@ Once you share your information publicly, you can't control them anymore.
 > their social media accounts and allegedly blamed as Cloudflare
 > supporters without an evidence
 
-CFT was never asked for evidence.  Only *one* complaint was received.
-It was investigated and evidence was provided to the subject.
+CFT was *never asked* for evidence.  Only *one complaint* was received.
+It was investigated and evidence was *provided* to the subject.
 
 > We started a discussion with the maintainers of this repository and
 > asked to remove these sensitive information, that are apparently for
@@ -191,7 +192,7 @@ project.
 > According to GDPR, we are obligued to remove sensitive user
 > information as soon as a concerned person demands us to do so.
 
-The GDPR does not protect legal persons (i.e. organizations) and it
+The GDPR does *not protect* legal persons (i.e. organizations) and it
 [does not protect anonymous information](https://gdpr-info.eu/recitals/no-26).
 Specifically:
 
@@ -217,7 +218,7 @@ the data **accurate**.  Even though the GDPR right to be forgotten does
 not have force in that case, it was removed anyway and therefore CFT
 was (and remains) in compliance with the GDPR right to be forgotten.
 
-Yet Codeberg still removed the project despite immediate compliance.
+Yet Codeberg still removed the project *despite* immediate compliance.
 
 > as well as Cloudflare employee data, that are considered as private
 > information
