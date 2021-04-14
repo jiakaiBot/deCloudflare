@@ -7,7 +7,7 @@
 * `/addons/*` -- [MIT](https://eo.wikipedia.org/wiki/MIT-permesilo)
 * `/pdf/*` -- Nekonata (Vi povas trovi ekzempleron ĉie. Dankon al aŭtoroj.)
 * `/tool/block_cloudflare_mitm_fx/*` -- [MIT](tool/block_cloudflare_mitm_fx/LICENSE.md)
-* `/tool/block_cloudflare_requests_pm/*` -- [MIT](tool/block_cloudflare_mitm_fx/LICENSE.md)
+* `/tool/block_cloudflare_requests_pm/*` -- [MIT](https://eo.wikipedia.org/wiki/MIT-permesilo)
 * `/subfiles/the_trouble_with_codeberg.md` -- [GNU AGPL](http://www.gnu.org/licenses/agpl-3.0.txt)
 * Else -- [PUBLIKA DOMINO (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/) = [WTFPL](http://www.wtfpl.net/about/)
 
@@ -16,8 +16,7 @@
   
 Kontribuantoj, kiuj anonime [kontribuis](HISTORY.md) (inkluzive en [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)), venis antaŭen por doni al ĉi tiu projekto sian benon.
   
-CC0-permesilo permesas uzi tiujn dosierojn por iu ajn uzo, eĉ en manieroj, kiujn ni povus trovi malagrablaj aŭ kontestindaj. Vi ankaŭ povas enspezi monon el nia 
-CC0-laboro kaj vi ne postulas doni krediton al ni.
+CC0-permesilo permesas uzi tiujn dosierojn por iu ajn uzo, eĉ en manieroj, kiujn ni povus trovi malagrablaj aŭ kontestindaj.
 
 
 -----
@@ -28,7 +27,7 @@ CC0-laboro kaj vi ne postulas doni krediton al ni.
 * `/addons/*` -- [MIT](https://en.wikipedia.org/wiki/MIT_License)
 * `/pdf/*` -- Unknown (You can find a copy everywhere. Thanks to authors)
 * `/tool/block_cloudflare_mitm_fx/*` -- [MIT](tool/block_cloudflare_mitm_fx/LICENSE.md)
-* `/tool/block_cloudflare_requests_pm/*` -- [MIT](tool/block_cloudflare_mitm_fx/LICENSE.md)
+* `/tool/block_cloudflare_requests_pm/*` -- [MIT](https://en.wikipedia.org/wiki/MIT_license)
 * `/subfiles/the_trouble_with_codeberg.md` -- [GNU AGPL](http://www.gnu.org/licenses/agpl-3.0.txt)
 * Else -- [PUBLIC DOMAIN (CC0)](https://web.archive.org/web/https://creativecommons.org/share-your-work/public-domain/cc0/) = [WTFPL](http://www.wtfpl.net/about/)
 
@@ -37,5 +36,4 @@ CC0-laboro kaj vi ne postulas doni krediton al ni.
   
 Contributors who have anonymously [contributed](HISTORY.md) (including in [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)) have since come forward to give this project their blessing.
   
-CC0 license allow you to use those files for any purpose, even in ways we may find distasteful or objectionable. You can also make money off our 
-CC0 work and you are not required to give credit to us.
+CC0 license allow you to use those files for any purpose, even in ways we may find distasteful or objectionable.
