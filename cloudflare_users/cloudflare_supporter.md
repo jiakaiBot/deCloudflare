@@ -266,6 +266,7 @@ with evidence. Do not create new issue or we will close it as duplicate.
 | [HoiNam45620692@twitter.com](https://twitter.com/HoiNam45620692/status/1381245125330800642) | moral (advertise Cloudflare) |
 | [Hong49711157@twitter.com](https://twitter.com/Hong49711157/status/1379092889779630082) | moral (advertise Cloudflare) |
 | [HongVNguyn13@twitter.com](https://twitter.com/HongVNguyn13/status/1377792442032816128) | moral (advertise CloudFlare) |
+| [hootsmke@twitter.com](https://twitter.com/hootsmke/status/1382123085340479488) | moral (advertise Cloudflare) |
 | [hopeles75288881@twitter.com](https://twitter.com/hopeles75288881/status/1381276486846480387) | moral (advertise Cloudflare) |
 | [hopiz_youssif@twitter.com](https://twitter.com/hopiz_youssif/status/1381161961770131458) | moral (advertise Cloudflare) |
 | [hossain888@twitter.com](https://twitter.com/hossain888/status/1380730493172215812) | moral (advertise Cloudflare) |
