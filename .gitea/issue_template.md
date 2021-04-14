@@ -6,11 +6,11 @@
 
 
 
-- **Expected behavior**
+- **Expected behaviour**
 
 
 
-- **Actual behavior**
+- **Actual behaviour**
 
 
 
