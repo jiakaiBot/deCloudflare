@@ -1,7 +1,7 @@
 const Cc = Components.classes,
 	Ci = Components.interfaces;
 function ignoreCF(h) {
-	return /(cloudflare((|support|warp)|\-(dns|free|ipfs|quic)))\.com$/.test(h) ? true : false;
+	return /cloudflare((|support|warp)|\-(dns|free|ipfs|quic))\.com$/.test(h) ? true : false;
 }
 let knownCF = [];
 let CFBlocking = {
