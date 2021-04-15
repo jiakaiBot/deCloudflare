@@ -10,4 +10,4 @@ This add-on is for [Palemoon browser](https://en.wikipedia.org/wiki/Pale_Moon_(w
 
 - [Download for Palemoon](https://git.sdf.org/deCloudflare/cloudflare-tor/raw/branch/master/tool/block_cloudflare_requests_pm/bcfr.pm.xpi)
 
-- LICENSE: read [LICENSE.md](http://crimeflare.eu.org/)
+- [LICENSE](LICENSE)
