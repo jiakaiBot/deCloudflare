@@ -444,6 +444,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- I've noticed increasing problems this morning (frequent "Can't sync" and Cloudflare error pages). Are there issues on the backend? ([jaydennavarro](https://twitter.com/JaydenNavarro/status/1382732755088203777))
 - Página indisponível Estamos trabalhando para o acesso ser restabelecido o mais rápido possível. Tente novemente em alguns minutos. Bad gateway The web server reported a bad gateway error. Error reference number: 502 Cloudflare Location: Rio de Janeiro ([brauliosoares](https://twitter.com/BraulioSoares/status/1382018667773370369))
 - Got a Cloudflare error and when the screen popped up again there was a very bad scam attempt shown up. Please be aware of this ([cryptchem](https://twitter.com/CryptChem/status/1381978825958035457))
 - I try to embrace that deeply and just about every instance of getting an inacessible, frustrating, and invasive CAPTCHA when trying to access the vast majority of sites using things like Cloudflare that deny Tor exit nodes by defauly only reinforces my beliefs. ([_rvklein_](https://twitter.com/_rvklein_/status/1381839583424475137))
