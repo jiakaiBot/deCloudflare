@@ -2040,6 +2040,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- If you have to use Cloudflare for some reason, you can still allow Tor users to bypass the annoying challenge that usually comes up.Check "Firewall" - "Tools", and add an IP access rule for "Tor" with action "Allow". ([jhxy](https://fosstodon.org/@jhxy/106066472212870341))
 - If need to check your IP address, is a nifty tool. It even has a JSON output: is hosted behind CloudFlare, so if you access it using curl via Tor, you get a CAPTCHA page.Hilariously, that page contains the IP address you reached the site from. So you still get to check your IP address anyway.Such protecc. Many wow. ([rysiek](https://mastodon.social/@rysiek/106048658721437726))
 - the DNS is a separate matter than the reverse proxy. But that still sounds like bad advice. CloudFlare is not trustworthy and you wouldn't want them to be able to keep track of your DNS resolutions. ([resist1984](https://social.privacytools.io/@resist1984/105923899340769618))
 - Cloudflare wants to become the gatekeeper of the internet and control everything that wants to pass. Extensive monitoring of a profit driven company plus access for US intelligence. Mozilla is acting as a honeypot by redirecting Firefox users there. ([umwerker](https://todon.nl/@UmWerker/105917456753697117))
