@@ -7,7 +7,7 @@ Crimeflare `http://crimeflare.eu.org`
 
 ### Permesilo
 
-* `/addons/*` -- [MIT](tool/block_cloudflare_requests_pm/LICENSE)
+* `/addons/*` -- [MIT](addons/LICENSE)
 * `/pdf/*` -- Nekonata (Vi povas trovi ekzempleron ĉie. Dankon al aŭtoroj.)
 * `/tool/block_cloudflare_mitm_fx/*` -- [MIT](tool/block_cloudflare_mitm_fx/LICENSE.md)
 * `/tool/block_cloudflare_requests_pm/*` -- [MIT](tool/block_cloudflare_requests_pm/LICENSE)
@@ -27,7 +27,7 @@ CC0-permesilo permesas uzi tiujn dosierojn por iu ajn uzo, eĉ en manieroj, kiuj
 
 ### License
 
-* `/addons/*` -- [MIT](tool/block_cloudflare_requests_pm/LICENSE)
+* `/addons/*` -- [MIT](addons/LICENSE)
 * `/pdf/*` -- Unknown (You can find a copy everywhere. Thanks to authors)
 * `/tool/block_cloudflare_mitm_fx/*` -- [MIT](tool/block_cloudflare_mitm_fx/LICENSE.md)
 * `/tool/block_cloudflare_requests_pm/*` -- [MIT](tool/block_cloudflare_requests_pm/LICENSE)
