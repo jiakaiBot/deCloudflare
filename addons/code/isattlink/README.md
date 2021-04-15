@@ -1,8 +1,0 @@
-
-- [Pli informo / Elŝuto](../../../subfiles/about.isat.md)
-- Malgarantio: Ĉi tio NE estas spegulo de suprenflua deponejo. Sinkronigado eble prokrastas.
-
------
-
-- [More information / Download](../../../subfiles/about.isat.md)
-- Disclaimer: This is NOT a mirror of upstream repository. Synchronization may be delayed.
