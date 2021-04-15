@@ -444,6 +444,8 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- No, the captchas when it asks you to complete the captcha for page to load. (usually Cloudflare does this...) ([eliasdaler](https://twitter.com/EliasDaler/status/1382756465488846848))
+- think something's wrong with your site, keep getting an Error 1101 from CloudFlare ([nickprivalov](https://twitter.com/nickprivalov/status/1382754765575184389))
 - The Website has been down for over 24 Hours, the captcha and other pages are cached by CloudFlare. ([breachdoctor](https://twitter.com/BreachDoctor/status/1382747814317457422))
 - I've noticed increasing problems this morning (frequent "Can't sync" and Cloudflare error pages). Are there issues on the backend? ([jaydennavarro](https://twitter.com/JaydenNavarro/status/1382732755088203777))
 - Página indisponível Estamos trabalhando para o acesso ser restabelecido o mais rápido possível. Tente novemente em alguns minutos. Bad gateway The web server reported a bad gateway error. Error reference number: 502 Cloudflare Location: Rio de Janeiro ([brauliosoares](https://twitter.com/BraulioSoares/status/1382018667773370369))
