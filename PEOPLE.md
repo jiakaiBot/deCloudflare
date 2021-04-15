@@ -444,6 +444,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- The Website has been down for over 24 Hours, the captcha and other pages are cached by CloudFlare. ([breachdoctor](https://twitter.com/BreachDoctor/status/1382747814317457422))
 - I've noticed increasing problems this morning (frequent "Can't sync" and Cloudflare error pages). Are there issues on the backend? ([jaydennavarro](https://twitter.com/JaydenNavarro/status/1382732755088203777))
 - Página indisponível Estamos trabalhando para o acesso ser restabelecido o mais rápido possível. Tente novemente em alguns minutos. Bad gateway The web server reported a bad gateway error. Error reference number: 502 Cloudflare Location: Rio de Janeiro ([brauliosoares](https://twitter.com/BraulioSoares/status/1382018667773370369))
 - Got a Cloudflare error and when the screen popped up again there was a very bad scam attempt shown up. Please be aware of this ([cryptchem](https://twitter.com/CryptChem/status/1381978825958035457))
