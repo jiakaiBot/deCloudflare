@@ -1,6 +1,6 @@
 # Codeberg's Attack on Transparency and on Cloudflare Opposition
 
-Codeberg hosted the Crimeflare's `Cloudflare-Tor` (CFT) project.
+Codeberg hosted the [Crimeflare](http://crimeflare.eu.org)'s `Cloudflare-Tor` (CFT) project.
 In April 2021, Codeberg took down the project alleging libel.
 
 
@@ -55,13 +55,13 @@ allegedly in response to complaints.
 Calling it a "`target list`" entails a presumption of *how* the list is
 used.  For example, if a threat actor wants to join the CFT project to
 gain access to our internal operations, it is not CFT targeting them
-but rather CFT avoiding being targeted by their adversary.  CFT has
+but rather CFT *avoiding* being targeted by their adversary.  CFT has
 been attacked several times and sometimes at the hands of insiders who
 gained trust by posing as those who support the CFT cause.
 
 Transparency is essential in exposing the corporate bias behind the
 information and advice you are getting.  For example, a forum for talk
-about bicycles might require [Brompton company](https://en.wikipedia.org/wiki/Brompton_Bicycle) representatives to be tagged as
+about bicycles might require [Brompton](https://en.wikipedia.org/wiki/Brompton_Bicycle) company representatives to be tagged as
 such so that other users are aware of the bias behind their posts.  
 It would actually be reckless *not* to identify such conflicts of
 interest.  This is particularly important when dealing with Cloudflare
@@ -129,7 +129,7 @@ surrounding the word "`support`".  The listed party claimed to not
 personally condone Cloudflare and thus claimed to not be a Cloudflare
 "supporter" on that basis.  
 
-But investigation of [public statements](https://codeberg.org/swiso/website/issues/141#issuecomment-69593)
+However, investigation of [public statements](https://codeberg.org/swiso/website/issues/141#issuecomment-69593)
 by that individual revealed that the other party *actually* supported
 Cloudflare *operationally*.  Note that Codeberg *destroyed* the
 investigation logs which led to the finding, so we can't cite them here.
@@ -155,14 +155,12 @@ advocacy sites to address the problem of detrimental advice.
 
 ### Analysis of Codeberg's Blog Announcement
 
-Codeberg [said](https://web.archive.org/web/20210406012737/https://blog.codeberg.org/on-the-cloudflare-tor-takedown.html):
+Codeberg [said](https://web.archive.org/web/20210406012737/https://blog.codeberg.org/on-the-cloudflare-tor-takedown.html) (emphasis added):
 
 > In the last couple of days, we have received multiple inquiries to
 > remove **sensitive information** from the crimeflare/cloudflare-tor
 > repository and all clones and forks of that repository hosted on
 > Codeberg.org.
-
-(emphasis added)
 
 Data published on Twitter and public forums is *not* sensitive.  Anyone
 who posts in a *public space* and later has regrets, they have only
@@ -180,9 +178,9 @@ It was investigated and evidence was *provided* to the subject.
 
 > We started a discussion with the maintainers of this repository and
 > asked to remove these sensitive information, that are apparently for
-> shaming people (defamation),
+> **shaming** people (**defamation**),
 
-CFT did not "*shame*" or "*defame*" anyone, and no evidence was given to
+CFT did not "`shame`" or "`defame`" anyone, and no evidence was given to
 that effect.  Codeberg admitted earlier that their assumption is that
 a list of Cloudflare supporters inherently shames people.  Yet the
 list is objective.  It's for the reader to decide if the list is of
@@ -194,38 +192,39 @@ project.
 
 The GDPR ([General Data Protection Regulation](https://gdpr-info.eu/)) does *not protect* legal persons (i.e. organizations) and it
 [does not protect anonymous information](https://gdpr-info.eu/recitals/no-26).
+
 Specifically:
 
 ```
-"The principles of data protection should therefore not apply to
+The principles of data protection should therefore not apply to
 anonymous information, namely information which does not relate to an
 identified or identifiable natural person or to personal data rendered
 anonymous in such a manner that the data subject is not or no longer
 identifiable. This Regulation does not therefore concern the
 processing of such anonymous information, including for statistical or
-research purposes."
+research purposes.
 ```
 
 CFT's [Cloudflare supporter list](../cloudflare_users/cloudflare_supporter.md) did not contain real names; only
 pseudoanonymous aliases.
 
 The listed alias of the subject who complained did not use an alias
-formed like "firstName_lastName", or any form that could reasonably
+formed like "*firstName_lastName*", or any form that could reasonably
 identify a natural individual person.
 
 The sole complaint CFT received lead to an investigation that found
 the data **accurate**.  Even though the GDPR right to be forgotten does
-not have force in that case, it was removed anyway and therefore CFT
+not have force in that case, it was *removed* anyway and therefore CFT
 was (and remains) in compliance with the GDPR right to be forgotten.
 
 Yet Codeberg still removed the project *despite* immediate compliance.
 
-> as well as Cloudflare employee data, that are considered as private
+> as well as Cloudflare employee data, that are considered as **private**
 > information
 
 CloudFlare itself is
 [listing](https://web.archive.org/web/20210406200322/https://www.cloudflare.com/people)
-their employees, so it's already public information.
+their employees, so it's already *public* information.
 
 > People reaching out to us and to the maintainers of the repository
 > itself tried to make clear that they do not consider themselves as
