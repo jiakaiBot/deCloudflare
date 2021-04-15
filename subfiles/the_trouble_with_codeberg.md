@@ -38,10 +38,10 @@ were spotted publicly promoting Cloudflare.
 ## Codeberg-inflicted censorship
 
 After someone
-[on Codeberg's staff](https://codeberg.org/shadow/SpywareWatchdog/issues/77#issuecomment-188105)
+[on Codeberg's staff](https://web.archive.org/web/20210414001524/https://codeberg.org/shadow/SpywareWatchdog/issues/77#issuecomment-188105)
 was added to the Cloudflare supporter list, Codeberg shut down the CFT
 project and issued
-[this statement](https://codeberg.org/Codeberg/Community/issues/423#issuecomment-187783)
+[this statement](https://web.archive.org/web/20210414001651/https://codeberg.org/Codeberg/Community/issues/423#issuecomment-187783)
 to contributors, and posted
 [this blog announcement](https://web.archive.org/web/20210406012737/https://blog.codeberg.org/on-the-cloudflare-tor-takedown.html),
 allegedly in response to complaints.
@@ -90,17 +90,17 @@ We know this is not true because Germans have access to the mirror sites.
 
 Codeberg's *false* accusation of *illegal* activity came with *destructive*
 removal of forked repositories
-[without warning, without redress, and while refusing explanation](https://codeberg.org/shadow/SpywareWatchdog/issues/77#issuecomment-188170)
+[without warning, without redress, and while refusing explanation](https://web.archive.org/web/20210414001524/https://codeberg.org/shadow/SpywareWatchdog/issues/77#issuecomment-188170)
 to the users whose data they destroyed.
 
 In response, Codeberg
-[claims](https://codeberg.org/shadow/SpywareWatchdog/issues/77#issuecomment-188178)
+[claims](https://web.archive.org/web/20210414001524/https://codeberg.org/shadow/SpywareWatchdog/issues/77#issuecomment-188178)
 they had to act immediately to what they perceived as *illegal*
 activity.  Even if we were to accept that the already public data
-somehow became sensitive merely by replication, the correct
+somehow became sensitive merely by replication, the *correct*
 non-reckless action is to quarantine the data in a non-public state
 until court proceedings or settlement could commence.  
-For Codeberg to destroy people's work, and also destroy what they believed was
+For Codeberg to *destroy* people's work, and also destroy what they believed was
 evidence of illegal activity was nothing short of reckless.
 Codeberg's haphazard response has actually created a legal liability
 for themselves, as they *needlessly* destroyed people's work without due
@@ -129,7 +129,7 @@ surrounding the word "`support`".  The listed party claimed to not
 personally condone Cloudflare and thus claimed to not be a Cloudflare
 "supporter" on that basis.  
 
-However, investigation of [public statements](https://codeberg.org/swiso/website/issues/141#issuecomment-69593)
+However, investigation of [public statements](https://web.archive.org/web/20210109122213/https://codeberg.org/swiso/website/issues/141#issuecomment-69593)
 by that individual revealed that the other party *actually* supported
 Cloudflare *operationally*.  Note that Codeberg *destroyed* the
 investigation logs which led to the finding, so we can't cite them here.
