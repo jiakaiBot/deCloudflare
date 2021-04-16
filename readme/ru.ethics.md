@@ -317,7 +317,7 @@ Cloudflare не знала слова «удалить».
 ---
 
 
-## Пожалуйста, перейдите на следующую страницу:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](ru.action.md)
+## Пожалуйста, перейдите на следующую страницу:   [Что вы можете сделать, чтобы противостоять от CloudFlare?](ru.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
