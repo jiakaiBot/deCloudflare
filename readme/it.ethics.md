@@ -317,7 +317,7 @@ Puoi "fidarti" di questo?
 ---
 
 
-## Si prega di passare alla pagina successiva:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](it.action.md)
+## Si prega di passare alla pagina successiva:   [Cosa puoi fare per resistere contro il cloudflare?](it.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
