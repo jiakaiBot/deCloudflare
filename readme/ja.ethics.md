@@ -317,7 +317,7 @@ Cloudflareアカウントの削除は難しいレベルです。
 ---
 
 
-## 次のページに進んでください:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](ja.action.md)
+## 次のページに進んでください:   [CloudFlareに抵抗するために何をすることができますか？](ja.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
