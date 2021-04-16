@@ -309,7 +309,7 @@ under Uber's "bug bounty" program.
 ---
 
 
-## Please continue to next page:   "[Kion vi povas fari por rezisti kontraŭ Cloudflare?](en.action.md)
+## Please continue to next page:   "[What you can do to resist Cloudflare?](en.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
