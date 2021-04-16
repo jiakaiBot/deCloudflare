@@ -251,4 +251,4 @@ ignored in the absence of evidence.
 
 
 ---
-by [humanacollaborator](https://git.sdf.org/humanacollaborator). [License](../LICENSE.md)
+by [humanacollaborator](https://git.sdf.org/humanacollaborator). [License](https://www.gnu.org/licenses/agpl-3.0.txt)
