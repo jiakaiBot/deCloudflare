@@ -297,7 +297,7 @@ Cloudflare رقابة المراجعات السلبية.
 
 ---
 
-## الرجاء الاستمرار في الصفحة التالية:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](ar.action.md)
+## الرجاء الاستمرار في الصفحة التالية:   [ماذا يمكنك أن تفعل لمقاومة cloudflare؟](ar.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
