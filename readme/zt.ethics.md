@@ -317,7 +317,7 @@ Cloudflare不了解“刪除”一詞。
 ---
 
 
-## 請繼續下一頁:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](zt.action.md)
+## 請繼續下一頁:   [你能做些什麼來抵抗CloudFlare？](zt.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
