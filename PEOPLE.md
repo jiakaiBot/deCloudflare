@@ -444,6 +444,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- How about you get your site working first! Keeps having connectivity issue: Web server is returning an unknown error There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed. ([dmty16](https://twitter.com/Dmty16/status/1383056739726147590))
 - Hi, That usually means your having some issues getting data from our servers, you are not behind a VPN that might be blocked by CloudFlare? Can you try swapping from WiFi to Data or vice versa, if that does not fix it please DM us and we can look into it further. - RE ([get_delta](https://twitter.com/get_delta/status/1382159148117229569))
 - I got the same from Mexico and other countries using a VPN. So its done pretty much for anyone outside Nicaragua. ([riper81](https://twitter.com/riper81/status/1381700672601653252))
 - any way to stop those annoying challenges on every site when using the Tor window? Also, there needs to be an easy way to disable all 3rd party plugins in Tor windows, as was the default. ([ideafaktory](https://twitter.com/ideafaktory/status/1380576969641840643))
