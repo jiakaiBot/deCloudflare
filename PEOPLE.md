@@ -444,6 +444,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- Look like it. I got the fun cloudflare error page. ([halfwrittentale](https://twitter.com/halfwrittentale/status/1382899557437042692))
 - Also, why did they? As of today, I wasn't able to place any GPU orders because I would get a cloudflare error whenever I would press the order page. And this happen with two different accounts same address. So I'm just curious if they Banned Me? I did report a stolen GPU to them ([htaapp66](https://twitter.com/htaapp66/status/1382785525283651584))
 - No, the captchas when it asks you to complete the captcha for page to load. (usually Cloudflare does this...) ([eliasdaler](https://twitter.com/EliasDaler/status/1382756465488846848))
 - think something's wrong with your site, keep getting an Error 1101 from CloudFlare ([nickprivalov](https://twitter.com/nickprivalov/status/1382754765575184389))
