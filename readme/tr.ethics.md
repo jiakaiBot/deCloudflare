@@ -295,7 +295,7 @@ Buna "güvenebilir misin"?
 
 ---
 
-## Lütfen sonraki sayfaya devam edin:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](tr.action.md)
+## Lütfen sonraki sayfaya devam edin:   [Cloudflare karşı direnmek için ne yapabilirsin?](tr.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
