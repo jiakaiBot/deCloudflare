@@ -317,7 +317,7 @@ Bạn có thể "tin tưởng" vào điều này?
 ---
 
 
-## Vui lòng tiếp tục sang trang tiếp theo:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](vi.action.md)
+## Vui lòng tiếp tục sang trang tiếp theo:   [Bạn có thể làm gì để chống lại CloudFlare?](vi.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
