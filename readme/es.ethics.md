@@ -317,7 +317,7 @@ Recibirá este correo electrónico de confirmación.
 ---
 
 
-## Continúe en la página siguiente:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](es.action.md)
+## Continúe en la página siguiente:   [¿Qué puedes hacer para resistir contra CloudFlare?](es.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
