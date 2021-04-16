@@ -444,6 +444,11 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- Hi, That usually means your having some issues getting data from our servers, you are not behind a VPN that might be blocked by CloudFlare? Can you try swapping from WiFi to Data or vice versa, if that does not fix it please DM us and we can look into it further. - RE ([get_delta](https://twitter.com/get_delta/status/1382159148117229569))
+- I got the same from Mexico and other countries using a VPN. So its done pretty much for anyone outside Nicaragua. ([riper81](https://twitter.com/riper81/status/1381700672601653252))
+- any way to stop those annoying challenges on every site when using the Tor window? Also, there needs to be an easy way to disable all 3rd party plugins in Tor windows, as was the default. ([ideafaktory](https://twitter.com/ideafaktory/status/1380576969641840643))
+- Error de cloudflare, cloudflare tiene bloqueado a Venezuela crep ([aboutgabo](https://twitter.com/aboutgabo/status/1382890468984373248))
+- Cloudflare 403 error on Etherscan is like Parmesan Cheese on a Vegan Cheese Pizza Slice.... 😆 ([frankynines](https://twitter.com/frankynines/status/1382778538143621123))
 - Look like it. I got the fun cloudflare error page. ([halfwrittentale](https://twitter.com/halfwrittentale/status/1382899557437042692))
 - Also, why did they? As of today, I wasn't able to place any GPU orders because I would get a cloudflare error whenever I would press the order page. And this happen with two different accounts same address. So I'm just curious if they Banned Me? I did report a stolen GPU to them ([htaapp66](https://twitter.com/htaapp66/status/1382785525283651584))
 - No, the captchas when it asks you to complete the captcha for page to load. (usually Cloudflare does this...) ([eliasdaler](https://twitter.com/EliasDaler/status/1382756465488846848))
