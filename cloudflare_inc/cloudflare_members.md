@@ -3,6 +3,7 @@
 
 ## Founder, Director
 
+
 | Name | Title | Else |
 | --- | --- | --- |
 | Carl Ledbetter | Pelion Venture Partners |  |
@@ -17,6 +18,9 @@
 
 
 ## Employee
+
+
+[//]: # (do not edit this line; cfworkers0)
 
 | Name | Title | Else |
 | --- | --- | --- |
@@ -35,7 +39,7 @@
 | Abby Carrales McNertney | Security Compliance |  |
 | Abby Morrill | Assistant Controller |  |
 | Abdulrahim Harara | Business Development |  |
-| Abe Carryl | Product | |
+| Abe Carryl | Product | https://twitter.com/mrlincolnlogs |
 | Abida Ali | Delivery Manager | https://twitter.com/abida_aal |
 | Abraham Shaheen | Security Performance | |
 | Achiel van der Mandele | Product Manager | achiel@cloudflare.com |
@@ -460,7 +464,7 @@
 | Dilshan Silva | IT Support Technician | |
 | Dimitris Antonellis | Engineering Manager |  |
 | Dina Aluzri | Events |  |
-| Dina Kozlov | Product Manager |  |
+| Dina Kozlov | Product Manager | https://twitter.com/dinasaur_404 |
 | Diogo Tempero | Globalization Operations |  |
 | Dmitriy Gladchenko | Director of Finance |  |
 | Dmitry Nes | Customer Success Manager |  |
@@ -514,6 +518,7 @@
 | Erika Gonzalez | Account Executive |  |
 | Erin Slaughter | Demand Generation Campaigns | |
 | Erin Walk | Policy Analyst |  |
+| Erwin van der Koogh | Melbourne | https://au.linkedin.com/in/evanderkoogh |
 | Ethan Park | Product Counsel | |
 | Etienne (Étienne) Labaume | Support Engineer | https://twitter.com/etlabaume |
 | Etienne Labaume | Support Engineer, London | |
@@ -649,6 +654,7 @@
 | Jake Anderson | Head of Marketing |  |
 | Jake Bauch | Employee |  |
 | Jake Farrell | Customer Development |  |
+| Jake Fried | Employee |  |
 | Jake Jones | Employee |  |
 | Jake Riesterer | Software Engineer |  |
 | Jake Serrano | IT Operations Engineer |  |
@@ -1359,6 +1365,7 @@
 | Scott Tomtania | Head of Recruitment | https://twitter.com/TALENTWIZ |
 | Sean Thompson | Account Executive |  |
 | Sebastian McKenzie | JavaScript Engineer |  |
+| Sebastian Benz | Employee |  |
 | Serena Satyasai | Marketing Lead |  |
 | Sergey Nuzhdin | Data Engineer |  |
 | Sergi Isasi | Product Manager | sergi@cloudflare.com<br>https://twitter.com/sgisasi<br>https://linkedin.com/in/sisasi/ |
@@ -1630,8 +1637,11 @@
 | Zygimantas Skulteckis | Systems Reliability Engineer |  |
 | Łukasz Mierzwa | Systems Reliability Engineer | |
 
+[//]: # (do not edit this line; cfworkers1)
+
 
 ## Ex-employee
+
 
 | Name | Else |
 | --- | --- |
