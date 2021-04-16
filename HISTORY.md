@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-04-16: [Network Congestion In Several Asia Data Centers](https://www.cloudflarestatus.com/incidents/vcjnnzwzpk2x)
 - 2021-04-14: [Australian users experienced elevated errors and a drop in 200s](https://www.cloudflarestatus.com/incidents/bmk3424q74z6)
 - 2021-04-14: [Elevated number of 530/503 errors from Amsterdam, Netherlands - (AMS)](https://www.cloudflarestatus.com/incidents/c9zky7zrc52v)
 - 2021-04-13: [Cloudflare Name Resolver](https://www.cloudflarestatus.com/incidents/nt7vx1ll7nht)
