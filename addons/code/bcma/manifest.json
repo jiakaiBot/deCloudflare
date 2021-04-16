@@ -2,7 +2,7 @@
    "manifest_version": 2,
    "name": "Bloku Cloudflaron MITM-Atakon",
    "description": "Submetiĝu al tutmonda gvatado aŭ rezistu",
-   "version": "1.0.5.5",
+   "version": "1.0.5.6",
    "homepage_url": "http://crimeflare.eu.org/",
    "author": "Crimeflare #Addon",
    "permissions": [
