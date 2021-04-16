@@ -295,7 +295,7 @@ Cloudflare खाता हटाना कठिन स्तर है।
 
 ---
 
-## कृपया अगले पृष्ठ पर जारी रखें:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](hi.action.md)
+## कृपया अगले पृष्ठ पर जारी रखें:   [क्लाउडफ्लेयर के खिलाफ आप क्या कर सकते हैं?](hi.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
