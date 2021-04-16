@@ -295,7 +295,7 @@ Ungakwazi "ukwethemba" lokhu?
 
 ---
 
-## Sicela uqhubeke ekhasini elilandelayo:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](zu.action.md)
+## Sicela uqhubeke ekhasini elilandelayo:   [Yini ongayenza ukuze umelane ne-Cloudflare?](zu.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
