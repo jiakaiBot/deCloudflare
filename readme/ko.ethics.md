@@ -317,7 +317,7 @@ Cloudflare 계정 삭제는 어려운 수준입니다.
 ---
 
 
-## 다음 페이지를 계속하십시오:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](ko.action.md)
+## 다음 페이지를 계속하십시오:   [Cloudflare에 대한 저항하기 위해 무엇을 할 수 있습니까?](ko.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
