@@ -295,7 +295,7 @@ Cloudflare не знав про слово "видалити".
 
 ---
 
-## Перейдіть на наступну сторінку:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](uk.action.md)
+## Перейдіть на наступну сторінку:   [Що ви можете зробити, щоб протистояти хмарі?](uk.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
