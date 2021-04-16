@@ -309,7 +309,7 @@ Bạn có thể "tin tưởng" vào điều này?
 
 ## Thông tin khác
 
-- Joseph Sullivan (Joe Sullivan) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
+- [Joseph Sullivan (Joe Sullivan)](../cloudflare_inc/cloudflare_members.md) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
   - [Ex-Uber security head charged in connection with the cover-up of a 2016 hack that affected 57 million customers](https://www.businessinsider.com/uber-data-hack-security-head-joe-sullivan-charged-cover-up-2020-8)
   - [Former Chief Security Officer For Uber Charged With Obstruction Of Justice](https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice)
 
@@ -317,7 +317,7 @@ Bạn có thể "tin tưởng" vào điều này?
 ---
 
 
-## Vui lòng tiếp tục sang trang tiếp theo:   [Giọng nói của Cloudflare](../PEOPLE.md)
+## Vui lòng tiếp tục sang trang tiếp theo:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](vi.action.md)
 
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
