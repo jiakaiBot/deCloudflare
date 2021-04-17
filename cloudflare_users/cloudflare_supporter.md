@@ -475,6 +475,7 @@ Do not create new issue or we will close it as duplicate.
 | [LTrungT21684251@twitter.com](https://twitter.com/LTrungT21684251/status/1382949410984714244) | moral (advertise Cloudflare) |
 | [Lu13Tn@twitter.com](https://twitter.com/Lu13Tn/status/1377597764624805888) | moral (advertise CloudFlare) |
 | [lu25rs@twitter.com](https://twitter.com/lu25rs/status/1377601911893811209) | moral (advertise CloudFlare) |
+| [Luchaelis@twitter.com](https://twitter.com/Luchaelis/status/1383339280362131466) | moral (advertise Cloudflare) |
 | [Lucian55166513@twitter.com](https://twitter.com/Lucian55166513/status/1379606759434690561) | moral (advertise Cloudflare) |
 | [Lucky87003842@twitter.com](https://twitter.com/Lucky87003842/status/1382604960861331456) | moral (advertise Cloudflare) |
 | [LwinHtet12@twitter.com](https://twitter.com/LwinHtet12/status/1379829022008348675) | moral (advertise Cloudflare) |
