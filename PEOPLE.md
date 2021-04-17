@@ -444,6 +444,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- cloudflare pagesを試してみているけれどデプロイの最後で Failed due to an internal error って言われてしまう。 うーん、internal error じゃ解決方法模索できないぞ。もう少し情報出して欲しいな。 ([keruru](https://twitter.com/keruru/status/1383272416126722060))
 - Friends ... we're getting a "Failed: an internal error occurred" in cloudflare pages in the cloning repository phase. There's 0 useful information to troubleshoot this :( Had no issues with a previous repo / page deployment. Please help :) ([morisson](https://twitter.com/morisson/status/1383199726196113420))
 - almost every build - Failed due to an internal error ([sebbie1o1](https://twitter.com/sebbie1o1/status/1382757277296431111))
 - 으 cloudflare pages 배포 계속 안 되네 힝 16:54:41.373Deploying your site to Cloudflare's global network... 16:54:49.770Failed due to an internal error ([gyultaste](https://twitter.com/gyultaste/status/1381879801175175171))
