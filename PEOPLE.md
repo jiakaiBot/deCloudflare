@@ -444,6 +444,7 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 
+- Cloudflare Pagesで1ファイル25MB超えてないしファイル数も2万ファイル超えてないけどdeployに失敗してFailed due to an internal errorって言われるの、.git以下の管理ファイルのサイズにひっかかってる感じだった。 リポジトリに.well-knownを追加して中に.gitと書いておけば解決。 ([keruru](https://twitter.com/keruru/status/1383329807060979727))
 - cloudflare pagesを試してみているけれどデプロイの最後で Failed due to an internal error って言われてしまう。 うーん、internal error じゃ解決方法模索できないぞ。もう少し情報出して欲しいな。 ([keruru](https://twitter.com/keruru/status/1383272416126722060))
 - Friends ... we're getting a "Failed: an internal error occurred" in cloudflare pages in the cloning repository phase. There's 0 useful information to troubleshoot this :( Had no issues with a previous repo / page deployment. Please help :) ([morisson](https://twitter.com/morisson/status/1383199726196113420))
 - almost every build - Failed due to an internal error ([sebbie1o1](https://twitter.com/sebbie1o1/status/1382757277296431111))
