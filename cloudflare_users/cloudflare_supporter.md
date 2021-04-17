@@ -185,6 +185,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cng65233009@twitter.com](https://twitter.com/Cng65233009/status/1377781270332071942) | moral (advertise CloudFlare) |
 | [codeberg.org](https://www.codeberg.org/) | [HISTORY.md](../HISTORY.md) |
 | [coms4socialcha1@twitter.com](https://twitter.com/coms4socialcha1/status/1379781588263661581) | moral (advertise Cloudflare) |
+| [cong242000@twitter.com](https://twitter.com/cong242000/status/1383487920498040838) | moral (advertise Cloudflare) |
 | [consultingby_b@twitter.com](https://twitter.com/consultingby_b/status/1382897455247851520) | moral (advertise Cloudflare) |
 | [Crazyboypro1@twitter.com](https://twitter.com/Crazyboypro1/status/1377996367499419653) | moral (advertise CloudFlare) |
 | [CreeperpowerS@twitter.com](https://twitter.com/CreeperpowerS/status/1370279626443001861) | moral (advertise CloudFlare) |
@@ -789,10 +790,12 @@ Do not create new issue or we will close it as duplicate.
 | [SSuiteSoftware@twitter.com](https://twitter.com/SSuiteSoftware/status/1372875712240230400) | moral (advertise CloudFlare) |
 | [Steferine4eva@twitter.com](https://twitter.com/Steferine4eva/status/1377275017172373506) | moral (advertise CloudFlare) |
 | [StellaMunPanKo1@twitter.com](https://twitter.com/StellaMunPanKo1/status/1378959444080349184) | moral (advertise Cloudflare) |
+| [SteveLittleIWS@twitter.com](https://twitter.com/SteveLittleIWS/status/1383507432328949770) | moral (advertise Cloudflare) |
 | [StLHandyMan@twitter.com](https://twitter.com/StLHandyMan/status/1381472769431470081) | moral (advertise Cloudflare) |
 | [StormArjun@twitter.com](https://twitter.com/StormArjun/status/1381148519306780676) | moral (advertise Cloudflare) |
 | [SuMyatM95509442@twitter.com](https://twitter.com/SuMyatM95509442/status/1377886575887982594) | moral (advertise CloudFlare) |
 | [Sunshin69624226@twitter.com](https://twitter.com/Sunshin69624226/status/1376928070729224194) | moral (advertise CloudFlare) |
+| [Swagmeistr@twitter.com](https://twitter.com/Swagmeistr/status/1383488420522053633) | moral (advertise Cloudflare) |
 | [Syanl_SEA@twitter.com](https://twitter.com/Syanl_SEA/status/1378245568665899009) | moral (advertise CloudFlare) |
 | [sysdotini@twitter.com](https://twitter.com/sysdotini/status/1373351911060078592) | moral (advertise CloudFlare) |
 | [SystemXeevi@twitter.com](https://twitter.com/SystemXeevi/status/1377851545409122304) | moral (advertise CloudFlare) |
