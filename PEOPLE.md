@@ -26,7 +26,17 @@ Man-in-the-middle attack is a serious offense.
 If you′re using Cloudflare on your website, you won′t get first rank.
 You shouldn′t use it if you value visitor′s privacy.
 ```
- -- [Ss](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
+-- [Ss](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
+
+
+```
+I say it's a bad idea to pimp CloudFlare sites and expect such repressions to go unchallenged.
+Activism is a duty & ethics trumps netiquette.
+Posting original information exclusively on onion sites
+is like affirmative action for the repressed Tor community.
+Correcting the wrongs of CloudFlare entails some unfair discrimination against clearnet users.
+```
+-- [Activist](https://activism.openworlds.info/@aktivismoEstasMiaLuo)
 
 
 
@@ -2055,12 +2065,6 @@ You shouldn′t use it if you value visitor′s privacy.
 
 
 - to the struggle against Cloudflare. There's a reason why we use the acronym, ()MACFANGZ.We hope you are able to contact whomever you are attempting to, but know that it may never be possible. ([dsfgs](https://activism.openworlds.info/@dsfgs/106076944240695131))
-- Did you know, Cloudflare monopolises Fediverse dating instances.I'm sure they say it is to "protect" them. While also collecting lots of data that they can use later, you know, when the person finally learns things and wants to get into politics.winkpsyop mastodon bigData useTor useI2P ([dsfgs](https://activism.openworlds.info/@dsfgs/106042400816418867))
-- Went into two restaurant+bars recently & was told "we have no paper menus due to COVID; use your phone to get the web menu". It's disturbing that a B&M business just assumes everyone has a smartphone & they're willing to marginalize those who do not. One of the bars outsourced to a site that outsourced to Cloudflare so the online menu discriminated further against Tor users. ([resist1984](https://social.privacytools.io/@resist1984/106076523281386835))
-- the company I'm working for decided to place the core products behinde cloudflare , the fight to avoid this was futile 😒 now, months after this, new security concerns are popping up...unfortunately not from our "IT Security Manager" but from us: this "security" guy is pushing hard to install company wide qualys and zscaler 🙈 I'm really sick of this 💩 Time to cut of with some wine in the weekend 🍷 and change thoughts! ([shinice](https://social.tchncs.de/@ShinIce/106075980593979334))
-- IETF, the place where people turn to for open standards, RFC's, etc, has put itself in the exclusive walledGarden of Cloudflare. How utterly despicable. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106075330874815410))
-- thanks, now I can confirm that CloudFlare really doesn't like Python urllib. I get an annoying 403 error. ([alexis](https://mas.to/@alexis/106073418808617107))
-- are you using cloudflare on your site getsession.org? Are you truly into privacy and security?;) ([br0m3x](https://social.weho.st/@Br0m3x/106030660157915833))
 - So I’m still slowly undoing my connections to big data. One I’ve grown accustomed to but need to change is Cloudflare. Any suggestions out there in the fediverse for managing domains and DNS settings? ([kvvpa](https://mastodon.social/@kvvpa/106020579499063416))
 - Tor users who visit ACM via WaybackMachine get put in an endless direction loop when visiting to avoid Cloudflare ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106019323025090237))
 - Cloudflare attacks Tor users, and that attack is ultimately an attack on privacy. But non-Tor users have it worse in a way, because they don't know when Cloudflare is seeing their traffic. They see the HTTPS padlock & think they have a safe connection, when actually Cloudflare sees their usernames, passwords, bank details, everything that goes to the Cloudflared website. ([resist1984](https://social.privacytools.io/@resist1984/106018962714167159))
