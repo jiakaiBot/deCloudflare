@@ -454,6 +454,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Same result. Turning on my VPN fixes it for now, wonder why I'm blacklisted on cloudflare 😭 ([jackbracken](https://twitter.com/JackBracken/status/1383806403257638914))
 - Having to solve a CAPTCHA to view your API key when you're already logged in to your account with MFA active has to be one of the most ridiculous bits of security theater that Cloudflare has. Like, fuck off with that noise 🙄 ([sindarina](https://twitter.com/sindarina/status/1383380110238121989))
 - almost every build - Failed due to an internal error ([sebbie1o1](https://twitter.com/sebbie1o1/status/1382757277296431111))
 - How about you get your site working first! Keeps having connectivity issue: Web server is returning an unknown error There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed. ([dmty16](https://twitter.com/Dmty16/status/1383056739726147590))
