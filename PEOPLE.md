@@ -454,6 +454,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Since when did cloudflare error 1020 become an sqli. You okay bruh ? 🤔🤔🤔 ([cireumayn111](https://twitter.com/cireumayn111/status/1383865875615281155))
 - Same result. Turning on my VPN fixes it for now, wonder why I'm blacklisted on cloudflare 😭 ([jackbracken](https://twitter.com/JackBracken/status/1383806403257638914))
 - Having to solve a CAPTCHA to view your API key when you're already logged in to your account with MFA active has to be one of the most ridiculous bits of security theater that Cloudflare has. Like, fuck off with that noise 🙄 ([sindarina](https://twitter.com/sindarina/status/1383380110238121989))
 - almost every build - Failed due to an internal error ([sebbie1o1](https://twitter.com/sebbie1o1/status/1382757277296431111))
@@ -2065,6 +2066,15 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- What’s this fuckery?So cloudflare takes it upon itself to censor websites now? (and of course it fucks it up)I can tell you with 100% certainty that these are not email addresses... 🤣🤣🤣 ([requiem](https://hackers.town/@requiem/106076888752929099))
+- Hosted behind cloudflare... on AWS...we know how this will end.There is a playbook. ([thegibson](https://hackers.town/@thegibson/106065999743249062))
+- I notice that both the UK labour and conservative parties are on cloudflare. This means that for example if you need to interact with those sites in order to become a member then that traffic will be intercepted and decrypted by a third party based in San Francisco, and very likely USG will have access to that. So for example this probably means that USG has a complete list of anyone who joined the Labour party during the Corbyn era. ([bob](https://epicyon.freedombone.net/@bob/106062964578845509))
+- Looking up domain registration details for some organizations I know of, and being horrified that some of them are on cloudflare. In some cases that has non-trivial political implications. ([bob](https://epicyon.freedombone.net/@bob/106062927416983698))
+- I didn’t exactly want to do it, but I needed to move OH.MG over to CloudFlare for some extra functionality I couldn’t recreate on my own. For the majority of the domain isn’t using the proxy, only 1 maybe 2 subdomains at most ([mmn](https://mastodon.sdf.org/@mmn/106037880862012606))
+- Looks like Cloudflare nuked Disqus comments from their blog ([angristan](https://mstdn.io/@angristan/106020734058675983))
+- Does change.org have Cloudflare? Didn’t know. Yeah, the problem with OpenPetiton is that I can’t reach as wide a mass of people than on Change. ([joerebelloharley](https://tilde.zone/@joerebelloharley/106018758584547570))
+- just a heads up: LibreGit is a Cloudflare site. ([resist1984](https://social.privacytools.io/@resist1984/106004641856311646))
+- yikes- that EFF link redirects to a privacy-abusing Cloudflare site. ([resist1984](https://social.privacytools.io/@resist1984/105997716676013916))
 - Went into two restaurant+bars recently & was told "we have no paper menus due to COVID; use your phone to get the web menu". It's disturbing that a B&M business just assumes everyone has a smartphone & they're willing to marginalize those who do not. One of the bars outsourced to a site that outsourced to Cloudflare so the online menu discriminated further against Tor users. ([resist1984](https://social.privacytools.io/@resist1984/106076523281386835))
 - the company I'm working for decided to place the core products behinde cloudflare , the fight to avoid this was futile 😒 now, months after this, new security concerns are popping up...unfortunately not from our "IT Security Manager" but from us: this "security" guy is pushing hard to install company wide qualys and zscaler 🙈 I'm really sick of this 💩 Time to cut of with some wine in the weekend 🍷 and change thoughts! ([shinice](https://social.tchncs.de/@ShinIce/106075980593979334))
 - IETF, the place where people turn to for open standards, RFC's, etc, has put itself in the exclusive walledGarden of Cloudflare. How utterly despicable. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106075330874815410))
