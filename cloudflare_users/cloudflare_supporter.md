@@ -8,12 +8,17 @@ _Your action will define you._
 | ![](../image/bully.jpg) | ![](../image/runbeforeitstoolate.jpg) |
 
 
+<details>
+<summary>_click me_
+
 ## Supporting Cloudflare
+</summary>
 
 [//]: # (do not edit this line; cflovers)
 
 
 ```
+TOO MANY to list here. It is IMPOSSIBLE to list them all!
 If you strongly believe this is a mistake write a comment to issue with evidence.
 Do not create new issue or we will close it as duplicate.
 ```
@@ -22,6 +27,7 @@ Do not create new issue or we will close it as duplicate.
 | [Name](URL) | Comment |
 | [Nick@socialdomain.com](URL) | Comment |
 ```
+
 
 
 | Evidence URL | Comment |
@@ -1038,3 +1044,4 @@ Do not create new issue or we will close it as duplicate.
 | [z_genera@twitter.com](https://twitter.com/z_genera/status/1376912696696705024) | moral (advertise CloudFlare) |
 | [_kuzannn@twitter.com](https://twitter.com/_kuzannn/status/1378391986449752067) | moral (advertise CloudFlare) |
 
+</details>
