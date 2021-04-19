@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-04-19: [Retro: Elevated number of 522 errors in BOM](https://www.cloudflarestatus.com/incidents/zv7z928b3vpk)
 - 2021-04-19: [Retro: Congestion in Ashburn, Virginia](https://www.cloudflarestatus.com/incidents/5gsc6k32vflf)
 - 2021-04-17: [Increased Errors in Cloudflare's Mombasa Datacenter](https://www.cloudflarestatus.com/incidents/fntfm836z3d8)
 - 2021-04-17: [Users in South Africa and the APAC region may experience high latency and connection timeouts](https://www.cloudflarestatus.com/incidents/sw00f0rq7r7y)
