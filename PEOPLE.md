@@ -2066,6 +2066,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Very sad to learn that RIPE are now using Cloudflare. Yet another critical piece of infrastructure is under the control of a US company, and thus the US govt.I voiced my objection when I was asked for feedback and am told it is an emergency response to DDoS attacks, but they are considering keeping it in place. Cloudflare can now issue TLS certs on behalf of RIPE.Cloudflare can and do have outages, and the last one was ([dentangle](https://chaos.social/@dentangle/106029153024488971))
+- Can someone give me an alternative to Cloudflare for DDoS protection? ([joerebelloharley](https://tilde.zone/@joerebelloharley/106018769569370126))
+- If your website requires JavaScript or to fill out a CAPTCHA in order for me to view static text on an html page, you will not get my click-through. Also, fuck CloudFlare. All hail the waybackmachine! ([toiletpaper](https://shitposter.club/objects/3ff8caaf-0fe9-4f96-8d7b-bc253ffc1ea3))
 - What’s this fuckery?So cloudflare takes it upon itself to censor websites now? (and of course it fucks it up)I can tell you with 100% certainty that these are not email addresses... 🤣🤣🤣 ([requiem](https://hackers.town/@requiem/106076888752929099))
 - Hosted behind cloudflare... on AWS...we know how this will end.There is a playbook. ([thegibson](https://hackers.town/@thegibson/106065999743249062))
 - I notice that both the UK labour and conservative parties are on cloudflare. This means that for example if you need to interact with those sites in order to become a member then that traffic will be intercepted and decrypted by a third party based in San Francisco, and very likely USG will have access to that. So for example this probably means that USG has a complete list of anyone who joined the Labour party during the Corbyn era. ([bob](https://epicyon.freedombone.net/@bob/106062964578845509))
