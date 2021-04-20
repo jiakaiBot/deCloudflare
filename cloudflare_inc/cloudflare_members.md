@@ -1083,6 +1083,7 @@
 | Michelle Hagan | Employee |  |
 | Michelle Mattern | Employee | |
 | Michelle Tang | Marketing Operations |  |
+| Michelle Zatlyn | Employee | |
 | Mickie Betz | Systems Engineer | https://twitter.com/AllBetzAreOff<br>https://www.linkedin.com/in/mickiebetz |
 | Miguel de Moura | Systems Engineer |  |
 | Miguel Mones | Customer Success |  |
@@ -1469,8 +1470,8 @@
 | Sylvia Kuyel | Customer Success Engineer |  |
 | Sylvie Cosgrove | Head of Information Technology |  |
 | Sze Chuen Tan | Systems Reliability Engineer | https://twitter.com/sctan |
-| Sébastien Pahl | Systems Reliability Engineer |  |
 | Sébastien Pahl | Systems Reliability Engineer | |
+| Sébastien Pahl | Systems Reliability Engineer |  |
 | Taj Bhat | Employee |  |
 | Talea Seyed | Customer Success |  |
 | Talha Paracha | Intern | |
