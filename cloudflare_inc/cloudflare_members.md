@@ -208,6 +208,7 @@
 | Ashley M. Lewis | Employee |  |
 | Ashley McClain | Events |  |
 | Ashley Williams | Employee | ashley666ashley@gmail.com |
+| Ash Mathur | Employee | |
 | Aubrey Evans-Trawick | Employee | |
 | Aurora Lian Zhang | Supply Chain Operations Analyst | |
 | Austin Cherry | Cloudflare |  |
@@ -273,8 +274,8 @@
 | Brian Mgrdichian | Solutions Engineer |  |
 | Brian Mitchell | Support Engineer |  |
 | Brian Parks | Employee | |
-| Brittany Byers Fritsch | Product Manager |  |
 | Brittany Brown | Public Relations Associate | https://twitter.com/brittanymbrown |
+| Brittany Byers Fritsch | Product Manager |  |
 | Brittany Martell-Harris | Accountant |  |
 | Brittany Thai | Account Executive |  |
 | Brooke Kumar | Portfolio Manager | |
@@ -746,10 +747,10 @@
 | Joaquin Madruga | Engineering Director |  |
 | Jocelyn Woolbright | Policy Analyst |  |
 | Jodie Holland | Security and Performance |  |
-| Joe Sullivan | Chief Security Officer | "Joseph Sullivan", "Joseph Edmund Sullivan"<br>https://twitter.com/joesu11ivan<br>https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice |
 | Joe Astroth | Enterprise Sales |  |
 | Joe Mocquant | Software Engineer |  |
 | Joery Van Druten | Marketing |  |
+| Joe Sullivan | Chief Security Officer | "Joseph Sullivan", "Joseph Edmund Sullivan"<br>https://twitter.com/joesu11ivan<br>https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice |
 | Joey Aranez | Customer Development, Austin | |
 | John Adams | Senior UX Designer |  |
 | John Arndt | Customer Development |  |
@@ -895,8 +896,8 @@
 | Kornel Lesinski | Performance Engineer |  |
 | Kostas Topaloudis | Data Center Deployment Engineer |  |
 | Ko Stoffelen | Employee |  |
-| Kris Krzysztof Kwiatkowski | Employee |  |
 | Krishna Zulkarnain | Employee |  |
+| Kris Krzysztof Kwiatkowski | Employee |  |
 | Kristar Ham | Sales Manager | |
 | Kristian Freeman | Developer | https://twitter.com/imkmf<br>https://www.signalnerve.com/<br>https://github.com/signalnerve<br>kristian@kristianfreeman.com<br>k@bytesized.xyz |
 | Kristina Miguel | Backend Systems Engineer | |
@@ -1147,8 +1148,8 @@
 | Nimisha Saxena | Security Program Manager | |
 | Nina Serr | Employee | |
 | Nina Wang | Head of Tax |  |
-| Nitin Bantwal Rao | Special Projects | nitin.rao@sloan.mit.edu<br>https://twitter.com/NitinBRao<br>https://leverageddabbler.com/<br>http://www.linkedin.com/in/nitinrao<br>http://www.facebook.com/nitin.rao |
 | Nitin Bantwal Rao | Head of Global Infrastructure | |
+| Nitin Bantwal Rao | Special Projects | nitin.rao@sloan.mit.edu<br>https://twitter.com/NitinBRao<br>https://leverageddabbler.com/<br>http://www.linkedin.com/in/nitinrao<br>http://www.facebook.com/nitin.rao |
 | Noah Garrett Wallach | Network Engineer |  |
 | Noah Neuman | Enterprise Account Executive |  |
 | Norm Slaught | Customer Development |  |
@@ -1176,10 +1177,10 @@
 | Parker Schramm | Account Executive | |
 | Pascal Henskes | Employee | |
 | Pasha Kravtsov | Support Engineer |  |
-| Patrick R. Donahue | Director of Product Management | https://twitter.com/prdonahue<br>pat@cloudflare.com<br>https://github.com/prdonahue<br>https://blog.prdonahue.com/<br>https://www.zoominfo.com/p/Patrick-Donahue/1468312385 |
 | Patrick Day | Employee | |
 | Patrick Lu | Web Engineer |  |
 | Patrick Meenan | Employee | https://twitter.com/patmeenan |
+| Patrick R. Donahue | Director of Product Management | https://twitter.com/prdonahue<br>pat@cloudflare.com<br>https://github.com/prdonahue<br>https://blog.prdonahue.com/<br>https://www.zoominfo.com/p/Patrick-Donahue/1468312385 |
 | Patrick R. Donahue | Product Manager |  |
 | Patrik Fuhrmann | Software Engineer |  |
 | Patryk Szczyglowski | Systems Engineer | Szczygłowski<br>patryk@patryk.net<br>https://twitter.com/epatryk<br>https://blog.patryk.net/<br>https://gitlab.com/epatryk<br>https://www.linkedin.com/in/patryk-szczyglowski/<br>https://github.com/patryk |
@@ -1236,8 +1237,8 @@
 | Rachele Gyorffy | Customer Success Engineer |  |
 | Rachel Gonzalez | Executive Assistant |  |
 | Radina Mihaleva | Partnerships and Business Development |  |
-| Rafael Rafi Cohn-Gruenwald | Security Intern |  |
 | Rafael Carabano | Customer Success | |
+| Rafael Rafi Cohn-Gruenwald | Security Intern |  |
 | Rahul Arun Singh | Product Marketing, Security |  |
 | Rahul Deshmukh | Product Marketing |  |
 | Rahul Mahajan | Product Manager Partnerships |  |
