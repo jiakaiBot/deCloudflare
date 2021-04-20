@@ -454,6 +454,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- That page is also erroring for me with a Cloudflare error page. This is a major incident that seems to be affecting your network settings ([forrestblount](https://twitter.com/forrestblount/status/1384549996561797122))
 - eta for resuming service? gateway timeout error ? CloudFlare Ray ID: 642fc3d0245d3b09 ([omercier](https://twitter.com/omercier/status/1384545889339863046))
 - Pelo amor de Deus, Não faz sentido ter o Cloudflare com captcha na api do GraphQL se vocês não vão tratar isso no front e vão pipocar mil erros de 403 pro usuário no console. Não consigo logar de forma nenhuma em nenhum dispositivo por causa disso. ([douglas_oaraujo](https://twitter.com/douglas_oaraujo/status/1379564383278407681))
 - MitM is not enough for JS, though. The options are browser or thin client and browser-in-proxy a la Mighty or Cloudflare (but not just a blocking MitM proxy, a full transcoding proxy browser). ([brendaneich](https://twitter.com/BrendanEich/status/1346394687079215110))
