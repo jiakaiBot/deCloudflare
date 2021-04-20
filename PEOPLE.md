@@ -454,6 +454,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I think this is a normal error because I see it during the day and when I refresh the site this error goes away ([ms_sarabandi](https://twitter.com/MS_Sarabandi/status/1384238043415023629))
 - Since when did cloudflare error 1020 become an sqli. You okay bruh ? 🤔🤔🤔 ([cireumayn111](https://twitter.com/cireumayn111/status/1383865875615281155))
 - Same result. Turning on my VPN fixes it for now, wonder why I'm blacklisted on cloudflare 😭 ([jackbracken](https://twitter.com/JackBracken/status/1383806403257638914))
 - Having to solve a CAPTCHA to view your API key when you're already logged in to your account with MFA active has to be one of the most ridiculous bits of security theater that Cloudflare has. Like, fuck off with that noise 🙄 ([sindarina](https://twitter.com/sindarina/status/1383380110238121989))
@@ -2066,6 +2067,11 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Because of stupid admins using Cloudflare I'm unable to use Minifluxx to read their RSS feed 🤬 ([lemming](https://chaos.social/@lemming/106093111435969969))
+- You are not alone on that. When it happens to an anonymous user, legal recourse requires self-doxing, which is a shame. But non-anonymous victims of Cloudflare's blog spam should sue CF in small claims court, if they reside in a US state that has anti-spam laws. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106092842171085977))
+- gets worse.Isn't ReclaimTheNetDotOrg a f$king Cloudflare site, also? ([dsfgs](https://activism.openworlds.info/@dsfgs/106080932475511547))
+- 45 office uses Cloudflare as well.For that matter NAS uses Cloudflare. ([mhjohnson](https://noagendasocial.com/@mhjohnson/106093164121290402))
+- Mike Lindell is using CLOUDFLARE for his new "$10MM" FrankSpeech.comNow am I missing something here or is that crazy? ([commandlinekid](https://noagendasocial.com/@commandlinekid/106093139313455072))
 - Very sad to learn that RIPE are now using Cloudflare. Yet another critical piece of infrastructure is under the control of a US company, and thus the US govt.I voiced my objection when I was asked for feedback and am told it is an emergency response to DDoS attacks, but they are considering keeping it in place. Cloudflare can now issue TLS certs on behalf of RIPE.Cloudflare can and do have outages, and the last one was ([dentangle](https://chaos.social/@dentangle/106029153024488971))
 - Can someone give me an alternative to Cloudflare for DDoS protection? ([joerebelloharley](https://tilde.zone/@joerebelloharley/106018769569370126))
 - If your website requires JavaScript or to fill out a CAPTCHA in order for me to view static text on an html page, you will not get my click-through. Also, fuck CloudFlare. All hail the waybackmachine! ([toiletpaper](https://shitposter.club/objects/3ff8caaf-0fe9-4f96-8d7b-bc253ffc1ea3))
