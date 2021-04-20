@@ -454,6 +454,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Pelo amor de Deus, Não faz sentido ter o Cloudflare com captcha na api do GraphQL se vocês não vão tratar isso no front e vão pipocar mil erros de 403 pro usuário no console. Não consigo logar de forma nenhuma em nenhum dispositivo por causa disso. ([douglas_oaraujo](https://twitter.com/douglas_oaraujo/status/1379564383278407681))
+- MitM is not enough for JS, though. The options are browser or thin client and browser-in-proxy a la Mighty or Cloudflare (but not just a blocking MitM proxy, a full transcoding proxy browser). ([brendaneich](https://twitter.com/BrendanEich/status/1346394687079215110))
+- Ja der Dienst von Cloudflare basiert auf MITM. Aber wo ist der Datenschutztechnische Unterschied zu einem Shared Webspace bei Strato, IONOS oder GoDaddy. Sehr typischer Lösungsansatz um eine Website zu betreiben. Und die bekommen auch den Traffic im Klartext ([th3_cr0wl3r](https://twitter.com/th3_cr0wl3r/status/1317409829665804288))
 - I think this is a normal error because I see it during the day and when I refresh the site this error goes away ([ms_sarabandi](https://twitter.com/MS_Sarabandi/status/1384238043415023629))
 - Since when did cloudflare error 1020 become an sqli. You okay bruh ? 🤔🤔🤔 ([cireumayn111](https://twitter.com/cireumayn111/status/1383865875615281155))
 - Same result. Turning on my VPN fixes it for now, wonder why I'm blacklisted on cloudflare 😭 ([jackbracken](https://twitter.com/JackBracken/status/1383806403257638914))
@@ -2067,6 +2070,12 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I switched my main domain name over to njalla and I&apos;m happy to be on the path toward becoming cloudflare free. It&apos;s quite cost prohibitive though, so I&apos;m definitely rethinking the quantity of domains that I own. Probably for the best that I shimmy things down anyway. Three domain names will cost $60/year, which is crazy, but worth it to support a much needed project :) dns registrar domains ([kvvpa](https://mastodon.social/@kvvpa/106095066092843919))
+- + for for rejecting green(washing) status of Cloudflare/Amazon hosted sites ([miklo](https://fosstodon.org/@miklo/106094987699078073))
+- なんかCloudflareが不安定になったっぽいような挙動だった ([mohemohe](https://mstdn.plusminus.io/@mohemohe/106067124209819215))
+- Ich habe jetzt mal Blokada 5 installiert (ohne Account) und in der Android Anzeige steht jetzt "Aktiv - Schutz: Mittel - Cloudflare".Was soll den das bedeuten und wie werde ich da Cloudflare wieder los? ([favstarmafia](https://social.anoxinon.de/@favstarmafia/106046678515340208))
+- Vivimos en un mundo que dice fomentar la automatización, pero cuando los usuarios automatizamos parte de nuestra actividad en internet para recuperar parte de nuestra soberania digital nos meten el puto cloudflare ray. ([sergiotarxz](https://pleroma.aspie.freemyip.com/objects/cefaa30b-6842-40bf-a762-5990209b5d35))
+- Wir sollten dabei auch die Nutzung des US amerikanischen MITM Proxy Cloudflare nicht vergessen. ;)Empfehlung des Hauses: ([purelinux](https://social.tchncs.de/@purelinux/106030293067296833))
 - Because of stupid admins using Cloudflare I'm unable to use Minifluxx to read their RSS feed 🤬 ([lemming](https://chaos.social/@lemming/106093111435969969))
 - You are not alone on that. When it happens to an anonymous user, legal recourse requires self-doxing, which is a shame. But non-anonymous victims of Cloudflare's blog spam should sue CF in small claims court, if they reside in a US state that has anti-spam laws. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106092842171085977))
 - gets worse.Isn't ReclaimTheNetDotOrg a f$king Cloudflare site, also? ([dsfgs](https://activism.openworlds.info/@dsfgs/106080932475511547))
