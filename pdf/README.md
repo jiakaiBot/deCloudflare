@@ -15,7 +15,7 @@
 
 -----
 
-| &#128441; | &#128441; |
+| &#128441; | &#128366; |
 |  ---  |  ---  |
 | 2004 | [Punishing the Innocent along with the Guilty The Economics of Individual versus Group Punishment](2004-Punishing_the_Innocent_along_with_the_Guilty_The_Economics_of_Individual_versus_Group_Punishment.pdf) |
 | 2004 | [Tor The Second-Generation Onion Router](2004-Tor_The_Second-Generation_Onion_Router.pdf) |
