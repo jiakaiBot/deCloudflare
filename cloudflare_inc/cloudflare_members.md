@@ -64,7 +64,7 @@
 | Akshata Mohan | Data Scientist | |
 | Alaina Kretchmer | Customer Advocacy | |
 | Alan Braithwaite | Systems Engineer |  |
-| Alayzain (Zain) Rizavi | Customer Development |  |
+| Alayzain Zain Rizavi | Customer Development |  |
 | Albert Moore | Employee |  |
 | Albert Strasheim | Systems Engineer |  |
 | Albert Zhao | Employee | |
@@ -195,10 +195,9 @@
 | Armando Faz | Cryptography Engineer | https://twitter.com/armfazh<br>armfazh@cloudflare.com |
 | Arman Rye | Solutions Engineer |  |
 | Arthur Fabre | Systems Engineer |  |
-| Arun (Rahul) Singh | Product Marketing, Security | |
+| Arun Rahul Singh | Product Marketing, Security | |
 | Arun Rex | Employee |  |
-| Arvind Singh (Mickey) | Global Sales Enablement | |
-| Arvind Singh | Global Sales Enablement |  |
+| Arvind Singh | Global Sales Enablement | "Arvind Singh Mickey" |
 | Arwa Ginwala | Solutions Engineer |  |
 | Ashcon Partovi | Employee |  |
 | Ash DSouza | Strategy and Operations |  |
@@ -210,8 +209,7 @@
 | Ashley McClain | Events |  |
 | Ashley Williams | Employee | ashley666ashley@gmail.com |
 | Aubrey Evans-Trawick | Employee | |
-| Aurora (Lian) Zhang | Supply Chain Operations Analyst | |
-| Aurora Lian Zhang | Supply Chain Operations Analyst |  |
+| Aurora Lian Zhang | Supply Chain Operations Analyst | |
 | Austin Cherry | Cloudflare |  |
 | Austin McKinley | Systems Engineer | https://www.zoominfo.com/p/Austin-Mckinley/-2055432569 |
 | Austin Stanford | Employee |  |
@@ -275,7 +273,7 @@
 | Brian Mgrdichian | Solutions Engineer |  |
 | Brian Mitchell | Support Engineer |  |
 | Brian Parks | Employee | |
-| Brittany (Byers) Fritsch | Product Manager |  |
+| Brittany Byers Fritsch | Product Manager |  |
 | Brittany Brown | Public Relations Associate | https://twitter.com/brittanymbrown |
 | Brittany Martell-Harris | Accountant |  |
 | Brittany Thai | Account Executive |  |
@@ -314,7 +312,7 @@
 | Charles Ng | Production Engineering | |
 | Charlie Andrews | Systems Engineer |  |
 | Chase Robinson | Security Compliance Analyst |  |
-| Cheyanna (Chy) Sarmento | Campaign Manager, Brand Team |  |
+| Cheyanna Chy Sarmento | Campaign Manager, Brand Team |  |
 | Chloe Chang | Employee |  |
 | Chloe Medosch | Customer Success Manager |  |
 | Chris Adam | Solutions Engineer |  |
@@ -402,8 +400,7 @@
 | Danielle Vanzura | Employee |  |
 | Daniel Morsing | Systems Engineer |  |
 | Daniel Polaske | Employee |  |
-| Daniel Stinson(-Diess) | Security Engineer | https://twitter.com/shellcromancer |
-| Daniel Stinson-Diess | Security Engineer | |
+| Daniel Stinson-Diess | Security Engineer | https://twitter.com/shellcromancer |
 | Daniel Weidman | Engineering Manager |  |
 | Daniel Wesonga | Customer Development |  |
 | Dani Grant | Product Manager |  |
@@ -521,11 +518,9 @@
 | Erin Walk | Policy Analyst |  |
 | Erwin van der Koogh | Melbourne | https://au.linkedin.com/in/evanderkoogh |
 | Ethan Park | Product Counsel | |
-| Etienne (Étienne) Labaume | Support Engineer | https://twitter.com/etlabaume |
-| Etienne Labaume | Support Engineer, London | |
+| Etienne Labaume | Support Engineer, London | (Étienne)<br>https://twitter.com/etlabaume |
 | Eva Hoyer | Head of Supply Chain |  |
-| Evan J. Johnson | Systems Engineer | |
-| Evan J Johnson | Security Engineer | evan@cloudflare.com<br>e@ejj.io<br>https://twitter.com/ejcx_<br>https://ejj.io/<br>https://github.com/ejcx |
+| Evan J Johnson | Security Engineer | "Evan J. Johnson"<br>evan@cloudflare.com<br>e@ejj.io<br>https://twitter.com/ejcx_<br>https://ejj.io/<br>https://github.com/ejcx |
 | Ewa Klepaczewska | Employee |  |
 | Fabienne Semeria | Systems Engineer |  |
 | Fai Varinthorn | Singapore |  |
@@ -551,7 +546,7 @@
 | Furkan Yilmaz | Web Engineer |  |
 | Gabriela Alexandra Moldovan | Employee |  |
 | Gabriel da Silva | Employee |  |
-| Gabriele (Gabbi) Fisher | Systems Engineer, Crypto Team |  |
+| Gabriele Gabbi Fisher | Systems Engineer, Crypto Team |  |
 | Gabriel Gabor | Employee | |
 | Gagan Kumar | Employee |  |
 | Garret Brown | Technical Support Engineer |  |
@@ -645,8 +640,7 @@
 | Jacob Zollinger | Security Compliance | |
 | Jacqueline Keith | Security Strategy and Policy | |
 | Jacqueline Lim | Team Coordinator, Singapore |  |
-| Jade (Q.) Wang | Developer Relations | https://twitter.com/qiqing<br>https://opencollective.com/jadewang<br>http://blog.jadism.com/ |
-| Jade Q. Wang | Developer Relations | |
+| Jade Q. Wang | Developer Relations | https://twitter.com/qiqing<br>https://opencollective.com/jadewang<br>http://blog.jadism.com/ |
 | Jaime Cochran | Security Analyst |  |
 | Jaime Sparr | Visual Designer |  |
 | Jake Anderson | Head of Marketing |  |
@@ -659,8 +653,7 @@
 | Jake Sinkey | Support Engineer |  |
 | Jake Volpe | Employee | |
 | Jakub Sitnicki | Employee | jakub@cloudflare.com<br>http://codecave.cc/<br>https://twitter.com/jkbs0<br>https://github.com/jsitnicki |
-| James (A.) Allworth | Head of Innovation | jaa@mac.com<br>https://twitter.com/jamesallworth<br>https://www.jamesallworth.com/<br>https://www.linkedin.com/in/jamesallworth<br>https://www.instagram.com/hype7/ |
-| James A. Allworth | Head of Innovation | |
+| James A. Allworth | Head of Innovation | jaa@mac.com<br>https://twitter.com/jamesallworth<br>https://www.jamesallworth.com/<br>https://www.linkedin.com/in/jamesallworth<br>https://www.instagram.com/hype7/ |
 | James Askham | Solutions Engineer |  |
 | James Ball | Solutions Engineer |  |
 | James Berry | Customer Success Manager |  |
@@ -753,7 +746,7 @@
 | Joaquin Madruga | Engineering Director |  |
 | Jocelyn Woolbright | Policy Analyst |  |
 | Jodie Holland | Security and Performance |  |
-| Joe (Joseph Edmund) Sullivan | Chief Security Officer | "Joseph Sullivan"<br>https://twitter.com/joesu11ivan<br>https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice |
+| Joe Sullivan | Chief Security Officer | "Joseph Sullivan", "Joseph Edmund Sullivan"<br>https://twitter.com/joesu11ivan<br>https://www.justice.gov/usao-ndca/pr/former-chief-security-officer-uber-charged-obstruction-justice |
 | Joe Astroth | Enterprise Sales |  |
 | Joe Mocquant | Software Engineer |  |
 | Joery Van Druten | Marketing |  |
@@ -803,8 +796,7 @@
 | Joyce Ottignon | Information Technology Team | |
 | João Paulo | Employee |  |
 | J Salvador | Employee |  |
-| Juan M.(Miguel) Rodriguez | IT | https://twitter.com/juanmirodriguez<br>https://www.linkedin.com/in/jrodriguezestevez<br>https://blog.cloudflare.com/why-i-am-joining-cloudflare-as-its-first-cio/ |
-| Juan M. Rodriguez | Chief Information Officer | |
+| Juan M. Rodriguez | IT | M as "Miguel"<br>https://twitter.com/juanmirodriguez<br>https://www.linkedin.com/in/jrodriguezestevez<br>https://blog.cloudflare.com/why-i-am-joining-cloudflare-as-its-first-cio/ |
 | Judy Ann Abbgy | Stock Plan Manager |  |
 | Judy Cheong | Recruiting Programs |  |
 | Judy Emma | Travel Manager |  |
@@ -850,7 +842,7 @@
 | Karl Henrik Smith | Business Development |  |
 | Kartika Mulyo | Regional Sales Lead | |
 | Kas Perch | Developer | https://twitter.com/nodebotanist<br>https://twitch.tv/nodebotanist |
-| Kassian (Kas) Perch | Developer, Austin |  |
+| Kassian Kas Perch | Developer, Austin |  |
 | Kate Delaney | Operations Engineer |  |
 | Kate Fleming | Customer Success, Singapore |  |
 | Kate Lockhart | Project Manager Security |  |
@@ -903,7 +895,7 @@
 | Kornel Lesinski | Performance Engineer |  |
 | Kostas Topaloudis | Data Center Deployment Engineer |  |
 | Ko Stoffelen | Employee |  |
-| Kris (Krzysztof) Kwiatkowski | Employee |  |
+| Kris Krzysztof Kwiatkowski | Employee |  |
 | Krishna Zulkarnain | Employee |  |
 | Kristar Ham | Sales Manager | |
 | Kristian Freeman | Developer | https://twitter.com/imkmf<br>https://www.signalnerve.com/<br>https://github.com/signalnerve<br>kristian@kristianfreeman.com<br>k@bytesized.xyz |
@@ -977,7 +969,7 @@
 | Makoto Nishihara | Solutions Engineer. Singapore |  |
 | Malavika Balachandran Tadeusz | Product Manager | https://twitter.com/malavikabala<br>https://www.malavikabala.com/<br>https://www.linkedin.com/in/malavika-balachandran-6a313035<br>https://medium.com/@malavikabalatdz<br>https://github.com/malavikabala<br>http://instagram.com/malavikabalatdz |
 | Malcolm Bouza | Accountant |  |
-| Malgorzata Pack (Kacprzak) | Support Operations Engineer |  |
+| Malgorzata Pack Kacprzak | Support Operations Engineer |  |
 | Malgorzata Pikies | Employee | |
 | Man Ching | Employee |  |
 | Mandy Chi | Customer Success | |
@@ -1083,7 +1075,6 @@
 | Michelle Hagan | Employee |  |
 | Michelle Mattern | Employee | |
 | Michelle Tang | Marketing Operations |  |
-| Michelle Zatlyn | Employee | |
 | Mickie Betz | Systems Engineer | https://twitter.com/AllBetzAreOff<br>https://www.linkedin.com/in/mickiebetz |
 | Miguel de Moura | Systems Engineer |  |
 | Miguel Mones | Customer Success |  |
@@ -1097,8 +1088,7 @@
 | Mike Pool | Global Alliance Manager |  |
 | Millie Chan | Front End Engineer |  |
 | Minh Bui | Pricing Strategist |  |
-| Mircea (-Valeriu) Ulinic | Network Engineer | ping@mirceaulinic.net<br>mulinic@digitalocean.com<br>https://twitter.com/mirceaulinic<br>https://mirceaulinic.net/<br>https://github.com/mirceaulinic<br>https://linkedin.com/in/mirceaulinic<br>GPG: A17C1D1C37DAFF75E41041383EFF87F6091B4B29 |
-| Mircea-Valeriu Ulinic | Network Engineer, London | |
+| Mircea-Valeriu Ulinic | Network Engineer, London | ping@mirceaulinic.net<br>mulinic@digitalocean.com<br>https://twitter.com/mirceaulinic<br>https://mirceaulinic.net/<br>https://github.com/mirceaulinic<br>https://linkedin.com/in/mirceaulinic<br>GPG: A17C1D1C37DAFF75E41041383EFF87F6091B4B29 |
 | Misha Girshfeld | Customer Success Engineer |  |
 | Misha Yalavarthy | Security Engineer | |
 | Mitul Limbachiya | Employee |  |
@@ -1157,7 +1147,7 @@
 | Nimisha Saxena | Security Program Manager | |
 | Nina Serr | Employee | |
 | Nina Wang | Head of Tax |  |
-| Nitin (Bantwal) Rao | Special Projects | nitin.rao@sloan.mit.edu<br>https://twitter.com/NitinBRao<br>https://leverageddabbler.com/<br>http://www.linkedin.com/in/nitinrao<br>http://www.facebook.com/nitin.rao |
+| Nitin Bantwal Rao | Special Projects | nitin.rao@sloan.mit.edu<br>https://twitter.com/NitinBRao<br>https://leverageddabbler.com/<br>http://www.linkedin.com/in/nitinrao<br>http://www.facebook.com/nitin.rao |
 | Nitin Bantwal Rao | Head of Global Infrastructure | |
 | Noah Garrett Wallach | Network Engineer |  |
 | Noah Neuman | Enterprise Account Executive |  |
@@ -1186,13 +1176,13 @@
 | Parker Schramm | Account Executive | |
 | Pascal Henskes | Employee | |
 | Pasha Kravtsov | Support Engineer |  |
-| Patrick (R.) Donahue | Director of Product Management | https://twitter.com/prdonahue<br>pat@cloudflare.com<br>https://github.com/prdonahue<br>https://blog.prdonahue.com/<br>https://www.zoominfo.com/p/Patrick-Donahue/1468312385 |
+| Patrick R. Donahue | Director of Product Management | https://twitter.com/prdonahue<br>pat@cloudflare.com<br>https://github.com/prdonahue<br>https://blog.prdonahue.com/<br>https://www.zoominfo.com/p/Patrick-Donahue/1468312385 |
 | Patrick Day | Employee | |
 | Patrick Lu | Web Engineer |  |
 | Patrick Meenan | Employee | https://twitter.com/patmeenan |
 | Patrick R. Donahue | Product Manager |  |
 | Patrik Fuhrmann | Software Engineer |  |
-| Patryk Szczyglowski (Szczygłowski) | Systems Engineer | patryk@patryk.net<br>https://twitter.com/epatryk<br>https://blog.patryk.net/<br>https://gitlab.com/epatryk<br>https://www.linkedin.com/in/patryk-szczyglowski/<br>https://github.com/patryk |
+| Patryk Szczyglowski | Systems Engineer | Szczygłowski<br>patryk@patryk.net<br>https://twitter.com/epatryk<br>https://blog.patryk.net/<br>https://gitlab.com/epatryk<br>https://www.linkedin.com/in/patryk-szczyglowski/<br>https://github.com/patryk |
 | Paul Bauer | Platform Engineer | |
 | Paul Cesar | Marketing |  |
 | Paul Southwell | Enterprise Sales |  |
@@ -1246,9 +1236,9 @@
 | Rachele Gyorffy | Customer Success Engineer |  |
 | Rachel Gonzalez | Executive Assistant |  |
 | Radina Mihaleva | Partnerships and Business Development |  |
-| Rafael (Rafi) Cohn-Gruenwald | Security Intern |  |
+| Rafael Rafi Cohn-Gruenwald | Security Intern |  |
 | Rafael Carabano | Customer Success | |
-| Rahul (Arun) Singh | Product Marketing, Security |  |
+| Rahul Arun Singh | Product Marketing, Security |  |
 | Rahul Deshmukh | Product Marketing |  |
 | Rahul Mahajan | Product Manager Partnerships |  |
 | Rajdeep Kaur | Software Developer, London | |
@@ -1515,7 +1505,7 @@
 | Timothy Orchard | Account Executive |  |
 | Timothy Polich | Systems Engineer |  |
 | Tim Ruffles | Systems Engineer |  |
-| Tingting (Teresa) Huang | Strategy and Development |  |
+| Tingting Teresa Huang | Strategy and Development |  |
 | Tobias Rohrle | Solutions Engineer |  |
 | Todd Coachman | Business Development | |
 | Tom Arnfeld | Systems Engineer | https://twitter.com/tarnfeld<br>http://tarnfeld.com/<br>http://uk.linkedin.com/in/tarnfeld/<br>https://github.com/tarnfeld |
@@ -1584,8 +1574,7 @@
 | Warren Nelson | Systems Engineer |  |
 | Warren Rickards | Customer Success |  |
 | Warren Robins | EMEA Customer Development |  |
-| Watson (B.) Ladd | Crypto Team | watson@cloudflare.com<br>https://twitter.com/WatsonLadd<br>https://kc2kdm.com/<br>https://github.com/wbl |
-| Watson B. Ladd | Crypto Team | |
+| Watson B. Ladd | Crypto Team | watson@cloudflare.com<br>https://twitter.com/WatsonLadd<br>https://kc2kdm.com/<br>https://github.com/wbl |
 | Welly Tandiono | Solutions Engineer |  |
 | Wendy Chu | Export Director | |
 | Wenz Xing | Special Projects Intern |  |
@@ -1608,7 +1597,7 @@
 | Xingang Wang | Systems Engineer |  |
 | Xin Meng | Solutions Engineer, Singapore |  |
 | Xu Haitao | Account Executive |  |
-| Xuzhe (Quincy) Zhuang | Technical Support Engineer |  |
+| Xuzhe Quincy Zhuang | Technical Support Engineer |  |
 | Yaely Knebel | Customer Success Engineer |  |
 | Yana Chen | Customer Success |  |
 | Yan Zhai | Systems Engineer |  |
@@ -1620,7 +1609,7 @@
 | Young Park | Employee |  |
 | Yuchen Wu | Systems Engineer | yuchenw@cs.cmu.edu<br>5000 Forbes Ave, Pittsburgh, USA, 15213 |
 | Yuet Wai | Employee |  |
-| Yunfei Luo (Adam) | Channel Account Manager |  |
+| Yunfei Luo Adam | Channel Account Manager |  |
 | Yun Ting Tan | Business Development |  |
 | Yuri Takano | Business Development, Singapore |  |
 | Zac Arellano | Software Engineer | |
@@ -1652,7 +1641,7 @@
 | Chris Joel | https://twitter.com/0xcda7a |
 | Conley Read | https://twitter.com/conleyread |
 | Eldridge Alexander | https://twitter.com/magiceldridge |
-| Elenitsa (Eli) Staykova | https://twitter.com/EliStaykova |
+| Elenitsa Eli Staykova | https://twitter.com/EliStaykova |
 | Gilberto Bertin | gilberto@isovalent.com<br>https://twitter.com/akajibi<br>https://github.com/jibi |
 | Jimmy Crutchfield | https://twitter.com/crutchfieldj |
 | John B. Roberts | https://twitter.com/pencoyd<br>https://clock.pencoyd.com/  |
