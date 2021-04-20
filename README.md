@@ -8,3 +8,6 @@
 ---
 
 - [Permesilo / License](LICENSE.md)
+
+
+<a rel="me" href="https://mamot.fr/@bonTravail"></a>
