@@ -454,6 +454,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- eta for resuming service? gateway timeout error ? CloudFlare Ray ID: 642fc3d0245d3b09 ([omercier](https://twitter.com/omercier/status/1384545889339863046))
 - Pelo amor de Deus, Não faz sentido ter o Cloudflare com captcha na api do GraphQL se vocês não vão tratar isso no front e vão pipocar mil erros de 403 pro usuário no console. Não consigo logar de forma nenhuma em nenhum dispositivo por causa disso. ([douglas_oaraujo](https://twitter.com/douglas_oaraujo/status/1379564383278407681))
 - MitM is not enough for JS, though. The options are browser or thin client and browser-in-proxy a la Mighty or Cloudflare (but not just a blocking MitM proxy, a full transcoding proxy browser). ([brendaneich](https://twitter.com/BrendanEich/status/1346394687079215110))
 - Ja der Dienst von Cloudflare basiert auf MITM. Aber wo ist der Datenschutztechnische Unterschied zu einem Shared Webspace bei Strato, IONOS oder GoDaddy. Sehr typischer Lösungsansatz um eine Website zu betreiben. Und die bekommen auch den Traffic im Klartext ([th3_cr0wl3r](https://twitter.com/th3_cr0wl3r/status/1317409829665804288))
