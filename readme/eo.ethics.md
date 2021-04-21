@@ -18,7 +18,7 @@
 <details>
 <summary>_klaku min_
 
-## CloudFlare spitas homojn
+## CloudFlare sendu nedeziratajn retpoŝtojn
 </summary>
 
 
