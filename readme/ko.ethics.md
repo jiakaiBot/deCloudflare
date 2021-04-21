@@ -308,18 +308,18 @@ Cloudflare 계정 삭제는 어려운 수준입니다.
 ---
 
 <details>
-<summary>_klaku min_
+<summary>클릭 해주세요
 
-## Mi nuligis abonon kaj ricevis tro multajn retpoŝtojn
+## 구독 취소, 이메일의 맹렬함이 있습니다
 </summary>
 
 
-La uzanto nuligis sian 'Cloudflare stream' abonon kaj li ricevas retpoŝtajn memorigilojn ĉiutage por rememorigi lin pri nuligita abono.
-Ne estas malaprobita butono. Kiel vi ĉesas ĉi tiun frenezon?
+사용자는 스트림 가입을 취소했으며 이제는 이제 이메일 알림을 받아서 취소 된 가입에 대해 알려줍니다.
+탈퇴 버튼이 없습니다. 이 정차를 어떻게 만들 수 있습니까?
 
 ![](../image/barrageemailcancelsubscription.jpg)
 
-Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn enhavojn forigi.
+CloudFlare는이 사용자에게 지원에 연락하여 모든 내용을 삭제할 것을 요청했습니다.
 
 - [t](https://web.archive.org/web/20210412165334/https://twitter.com/JohnHaldson/status/1381651569247088650)
 
