@@ -308,18 +308,18 @@ Puoi "fidarti" di questo?
 ---
 
 <details>
-<summary>_klaku min_
+<summary>cliccami
 
-## Mi nuligis abonon kaj ricevis tro multajn retpoŝtojn
+## Abbonamento annullato, ottenuto la raffica di e-mail
 </summary>
 
 
-La uzanto nuligis sian 'Cloudflare stream' abonon kaj li ricevas retpoŝtajn memorigilojn ĉiutage por rememorigi lin pri nuligita abono.
-Ne estas malaprobita butono. Kiel vi ĉesas ĉi tiun frenezon?
+L'utente ha annullato il suo abbonamento in streaming e ora riceve promemoria per e-mail ogni giorno per ricordargli l'abbonamento annullato.
+Non c'è un pulsante di annullamento dell'iscrizione. Come fai a fare questa fermata?
 
 ![](../image/barrageemailcancelsubscription.jpg)
 
-Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn enhavojn forigi.
+CloudFlare ha detto a questo utente di contattare il supporto e chiedere a tutti i tuoi contenuti da eliminare.
 
 - [t](https://web.archive.org/web/20210412165334/https://twitter.com/JohnHaldson/status/1381651569247088650)
 
