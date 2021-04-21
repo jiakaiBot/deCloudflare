@@ -307,6 +307,26 @@
 
 ---
 
+<details>
+<summary>{%clickme%}
+
+## {%ethx11n0000%}
+</summary>
+
+
+{%ethx11n0001%}
+{%ethx11n0002%}
+
+![](../image/cfviopl_notdel.jpg)
+
+{%ethx11n0003%}
+
+- [t](https://web.archive.org/web/20210412165334/https://twitter.com/JohnHaldson/status/1381651569247088650)
+
+</details>
+
+---
+
 ## {%other1nfo%}
 
 - [Joseph Sullivan (Joe Sullivan)](../cloudflare_inc/cloudflare_members.md) ([Cloudflare CSO](https://twitter.com/eastdakota/status/1296522269313785862))
