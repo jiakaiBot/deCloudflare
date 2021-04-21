@@ -308,18 +308,18 @@ Kannst du dem "vertrauen"?
 ---
 
 <details>
-<summary>_klaku min_
+<summary>Klick mich
 
-## Mi nuligis abonon kaj ricevis tro multajn retpoŝtojn
+## Abgebrochenes Abonnement, bekam Barrage von E-Mails
 </summary>
 
 
-La uzanto nuligis sian 'Cloudflare stream' abonon kaj li ricevas retpoŝtajn memorigilojn ĉiutage por rememorigi lin pri nuligita abono.
-Ne estas malaprobita butono. Kiel vi ĉesas ĉi tiun frenezon?
+Der Benutzer stornierte sein Stream-Abonnement und nun bekommt er jeden Tag E-Mail-Erinnerungen, um ihn an das stornierte Abonnement zu erinnern.
+Es gibt keine Sicherungsknopf. Wie machst du diesen Halt?
 
 ![](../image/barrageemailcancelsubscription.jpg)
 
-Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn enhavojn forigi.
+CloudFlare hat diesem Benutzer mitgeteilt, den Support zu kontaktieren und alle Ihre Inhalte zu bitten, die gelöscht werden soll.
 
 - [t](https://web.archive.org/web/20210412165334/https://twitter.com/JohnHaldson/status/1381651569247088650)
 
