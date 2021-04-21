@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-04-21: [Distributed Web Gateway](https://www.cloudflarestatus.com/incidents/fw25q1t7mplk)
 - 2021-04-20: [Increased HTTP 500 Errors in Lisbon and Toronto](https://www.cloudflarestatus.com/incidents/b8g7jbq70hzd)
 - 2021-04-20: [Customer Impacting Issue with SZX](https://www.cloudflarestatus.com/incidents/mw14qc5m4yq7)
 - 2021-04-19: [Retro: Elevated number of 522 errors in BOM](https://www.cloudflarestatus.com/incidents/zv7z928b3vpk)
