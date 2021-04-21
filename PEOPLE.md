@@ -454,6 +454,16 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Any ETA on fixing your site? I tried signing up a million times last night, just kept resolving to a cloudflare error. Now I have an email claiming I'm registered, but it won't let me log in. I've been trying since last night. ([mikalg](https://twitter.com/MIKALg/status/1384656564821413888))
+- I'm getting several CloudFlare error messages on frankspeech. First a 504, then a 521, and now a 520. ([opstellar](https://twitter.com/opstellar/status/1384139069555306498))
+- Moving our websites off actually made them faster for most of our visitors, contrary to their marketing. In addition, it eliminated the "man in the middle'", which helps us to better protect visitor privacy. Next up: Building an anycast network using our own IP space. ([ardewes](https://twitter.com/ardewes/status/1372126027732946947))
+- 4) Tout l'avis du CE respose sur le stockage chez AWS. Mais rien ne mentionne notre prestataire préféré de Man-in-the-Middle as a Service (Cloudflare). Il y a aussi un accord de non transfert qui a été conclu ? Et eux en plus, ils voient le traffic en clair... ([gloupin](https://twitter.com/gloupin/status/1370454343053414409))
+- gab is down. It's gone. Gab is behind the man-in-the-middle surveillance network Cloudflare and that service is responding to gab's domain with a message saying "The web server is not returning a connection. As a result, the web page is not displaying." Local power outage? ([bergvikjohnny](https://twitter.com/BergvikJohnny/status/1362973513611632641))
+- Gab needs to stop using CloudFlare. It's a man-in-the-middle that is run by the see-eye-aaaaaa ([flywritenow](https://twitter.com/FlyWriteNow/status/1348821134519648258))
+- Wow! Scary! What’s the impact of an invisible job done by a man-in-the-middle service provider??!😳 I actually did bump into pop ups by Cloudflare not knowing what was going on! Needless to say that Cloudflare has to take on responsibility!!! ([louisgeee](https://twitter.com/LouisGeee/status/1348259657966628872))
+- I mean tbf cloudflare itself is a man in the middle ([dark_kirb](https://twitter.com/dark_kirb/status/1347790983585558528))
+- MITM by Cloudflare. How about making a TRULY SECURE tipline? ([dxgl_org](https://twitter.com/dxgl_org/status/1347661850352242691))
+- Cloudflare in general is of course completely unacceptable for being a massive mitm proxy. ([christophe0o](https://twitter.com/christophe0o/status/1341424937630900225))
 - That page is also erroring for me with a Cloudflare error page. This is a major incident that seems to be affecting your network settings ([forrestblount](https://twitter.com/forrestblount/status/1384549996561797122))
 - eta for resuming service? gateway timeout error ? CloudFlare Ray ID: 642fc3d0245d3b09 ([omercier](https://twitter.com/omercier/status/1384545889339863046))
 - Pelo amor de Deus, Não faz sentido ter o Cloudflare com captcha na api do GraphQL se vocês não vão tratar isso no front e vão pipocar mil erros de 403 pro usuário no console. Não consigo logar de forma nenhuma em nenhum dispositivo por causa disso. ([douglas_oaraujo](https://twitter.com/douglas_oaraujo/status/1379564383278407681))
