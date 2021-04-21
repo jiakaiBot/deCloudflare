@@ -308,18 +308,18 @@ Cloudflare не знала слова «удалить».
 ---
 
 <details>
-<summary>_klaku min_
+<summary>нажми на меня
 
-## Mi nuligis abonon kaj ricevis tro multajn retpoŝtojn
+## Отменил подписку, получил заграждение электронных писем
 </summary>
 
 
-La uzanto nuligis sian 'Cloudflare stream' abonon kaj li ricevas retpoŝtajn memorigilojn ĉiutage por rememorigi lin pri nuligita abono.
-Ne estas malaprobita butono. Kiel vi ĉesas ĉi tiun frenezon?
+Пользователь отменил свою подписку по потоку, и теперь он получает напоминания по электронной почте каждый день, чтобы напомнить ему о аннулированной подписке.
+Нет кнопки отписки. Как вы делаете эту остановку?
 
 ![](../image/barrageemailcancelsubscription.jpg)
 
-Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn enhavojn forigi.
+CloudFlare рассказал этого пользователя обратиться к поддержке и задать все ваше содержимое для удаления.
 
 - [t](https://web.archive.org/web/20210412165334/https://twitter.com/JohnHaldson/status/1381651569247088650)
 
