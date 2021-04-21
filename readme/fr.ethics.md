@@ -308,18 +308,18 @@ Pouvez-vous «faire confiance» à cela?
 ---
 
 <details>
-<summary>_klaku min_
+<summary>clique moi
 
-## Mi nuligis abonon kaj ricevis tro multajn retpoŝtojn
+## Abonnement annulé, obtenu barrage de courriels
 </summary>
 
 
-La uzanto nuligis sian 'Cloudflare stream' abonon kaj li ricevas retpoŝtajn memorigilojn ĉiutage por rememorigi lin pri nuligita abono.
-Ne estas malaprobita butono. Kiel vi ĉesas ĉi tiun frenezon?
+L'utilisateur a annulé son abonnement à flux et il reçoit actuellement des rappels par courrier électronique tous les jours pour lui rappeler l'abonnement annulé.
+Il n'y a pas de bouton de désinscription. Comment faites-vous cet arrêt?
 
 ![](../image/barrageemailcancelsubscription.jpg)
 
-Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn enhavojn forigi.
+Cloudflare a dit à cet utilisateur de contacter le support et de demander que tout votre contenu soit supprimé.
 
 - [t](https://web.archive.org/web/20210412165334/https://twitter.com/JohnHaldson/status/1381651569247088650)
 
