@@ -308,18 +308,18 @@ Bạn có thể "tin tưởng" vào điều này?
 ---
 
 <details>
-<summary>_klaku min_
+<summary>nhấp vào đây
 
-## Mi nuligis abonon kaj ricevis tro multajn retpoŝtojn
+## Đăng ký hủy bỏ, có bị chặn của email
 </summary>
 
 
-La uzanto nuligis sian 'Cloudflare stream' abonon kaj li ricevas retpoŝtajn memorigilojn ĉiutage por rememorigi lin pri nuligita abono.
-Ne estas malaprobita butono. Kiel vi ĉesas ĉi tiun frenezon?
+Người dùng đã hủy đăng ký luồng của mình và bây giờ anh ta nhận được email nhắc nhở mỗi ngày để nhắc nhở anh ta về việc hủy đăng ký.
+Không có nút hủy đăng ký. Làm thế nào để bạn thực hiện điểm dừng này?
 
 ![](../image/barrageemailcancelsubscription.jpg)
 
-Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn enhavojn forigi.
+Cloudflare nói với người dùng này liên hệ với bộ phận hỗ trợ và yêu cầu tất cả nội dung của bạn bị xóa.
 
 - [t](https://web.archive.org/web/20210412165334/https://twitter.com/JohnHaldson/status/1381651569247088650)
 
