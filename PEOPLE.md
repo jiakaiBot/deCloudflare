@@ -454,6 +454,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- is your website down? I'm getting an error message - Error 1001 Ray ID: 6437674acef6ce8b • 2021-04-21 14:46:43 UTC DNS resolution error Cloudflare is currently unable to resolve your requested domain ([michaelturner](https://twitter.com/michaelturner/status/1384882186374066179))
 - Did the website get DMCA'd? Getting 502 Cloudflare error. Hope everything is well ([deost8003](https://twitter.com/Deost8003/status/1384831041114832899))
 - Any ETA on fixing your site? I tried signing up a million times last night, just kept resolving to a cloudflare error. Now I have an email claiming I'm registered, but it won't let me log in. I've been trying since last night. ([mikalg](https://twitter.com/MIKALg/status/1384656564821413888))
 - I'm getting several CloudFlare error messages on frankspeech. First a 504, then a 521, and now a 520. ([opstellar](https://twitter.com/opstellar/status/1384139069555306498))
