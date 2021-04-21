@@ -538,8 +538,8 @@
 | Florence Chan | Legal Operations Manager |  |
 | Flor Roxas Nuas | Customer Development |  |
 | Frances Liu | Employee |  |
-| Francisco Ponce de León | Customer Success |  |
 | Francisco Ponce de León | Customer Success | |
+| Francisco Ponce de León | Customer Success |  |
 | Frankie Hui | Employee |  |
 | Frank Taylor | Solutions Engineer |  |
 | Frieda Strachan | Team Coordinator |  |
@@ -1300,6 +1300,7 @@
 | Rohan Oswal | Big Data Engineer | |
 | Rohit Agarwal | Systems Engineer |  |
 | Rommy Tosana | Support Engineer, Singapore |  |
+| Rory Malone | Employee | |
 | Roshni Hundel | Recruiting Coordinator |  |
 | Rosie Parket | Paralegal |  |
 | Ross Guarino | Systems Engineer | https://twitter.com/0xRLG<br>https://rlg.io/<br>ross@rlg.io<br>https://linkedin.com/in/rlguarino<br>https://github.com/rlguarino |
@@ -1540,8 +1541,8 @@
 | Usman Muzaffar | VP of Engineering |  |
 | Uzma Ali | Business Development |  |
 | Vaishnavi Iyengar | Employee | |
-| Valentine Décamps | Customer Success Manager |  |
 | Valentine Décamps | Customer Success Manager | |
+| Valentine Décamps | Customer Success Manager |  |
 | Valerie Sung | Employee | |
 | Val Vesa | Community Manager | https://instagram.com/adspedia<br>https://twitter.com/adspedia |
 | Vanessa Royle | Public Relations | https://twitter.com/vcroyle |
