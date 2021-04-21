@@ -308,18 +308,18 @@ Bisakah Anda "mempercayai" ini?
 ---
 
 <details>
-<summary>_klaku min_
+<summary>klik saya
 
-## Mi nuligis abonon kaj ricevis tro multajn retpoŝtojn
+## Batalkan berlangganan, mendapat rentetan email
 </summary>
 
 
-La uzanto nuligis sian 'Cloudflare stream' abonon kaj li ricevas retpoŝtajn memorigilojn ĉiutage por rememorigi lin pri nuligita abono.
-Ne estas malaprobita butono. Kiel vi ĉesas ĉi tiun frenezon?
+Pengguna membatalkan langganan alirannya dan sekarang dia mendapat pengingat email setiap hari untuk mengingatkannya tentang langganan yang dibatalkan.
+Tidak ada tombol berhenti berlangganan. Bagaimana Anda membuat ini berhenti?
 
 ![](../image/barrageemailcancelsubscription.jpg)
 
-Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn enhavojn forigi.
+CloudFlare memberi tahu pengguna ini untuk menghubungi dukungan dan meminta semua konten Anda untuk dihapus.
 
 - [t](https://web.archive.org/web/20210412165334/https://twitter.com/JohnHaldson/status/1381651569247088650)
 
