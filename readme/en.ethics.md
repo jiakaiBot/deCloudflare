@@ -296,18 +296,18 @@ Can you "trust" this?
 ---
 
 <details>
-<summary>_klaku min_
+<summary>_click me_
 
-## Mi nuligis abonon kaj ricevis tro multajn retpoŝtojn
+## Cancelled subscription, got barrage of emails
 </summary>
 
 
-La uzanto nuligis sian 'Cloudflare stream' abonon kaj li ricevas retpoŝtajn memorigilojn ĉiutage por rememorigi lin pri nuligita abono.
-Ne estas malaprobita butono. Kiel vi ĉesas ĉi tiun frenezon?
+The user cancelled his stream subscription and now he gets email reminders every day to remind him about cancelled subscription.
+There is no unsubscribe button. How do you make this stop?
 
 ![](../image/barrageemailcancelsubscription.jpg)
 
-Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn enhavojn forigi.
+Cloudflare told this user to contact support and ask all your contents to be deleted.
 
 - [t](https://web.archive.org/web/20210412165334/https://twitter.com/JohnHaldson/status/1381651569247088650)
 
