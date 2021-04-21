@@ -2082,6 +2082,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Next website RSS unavailable for RSS-Reader: lolnein comics. Thanks cloudflare Why is there nobody at Cloudflare bringing the idea up that feeds should be less restrictive by default? ([lemming](https://chaos.social/@lemming/106101921586938623))
 - chg dot org, moveon, & actionnetwork are all Tor-blocking Cloudflare sites. This is what Cloudflare impeding democracy looks like. It gives a "one more step" page and shows a broken CAPTCHA ([resist1984](https://social.privacytools.io/@resist1984/106018779179419354))
 - I don't sign petitions on Cloudflare sites. I can't even read it. But I might sign it if it were on a site like openpetition.org. ([resist1984](https://social.privacytools.io/@resist1984/106018735693132453))
 - And Visa is even more reckless than Mastercard, as in exposes your card to CloudFlare, who can link that to ~30% of what CF sees in your web traffic (your identity under a microscope). So that's also a catch22. And the thing is, they aren't offering the opt-out b/c they want to. A law is forcing them to. The trap they're using likely puts them in violation of the law. ([batalanto](https://todon.nl/@batalanto/105986349939062443))
