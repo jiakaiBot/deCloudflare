@@ -308,18 +308,18 @@ Cloudflareアカウントの削除は難しいレベルです。
 ---
 
 <details>
-<summary>_klaku min_
+<summary>私をクリックしてください
 
-## Mi nuligis abonon kaj ricevis tro multajn retpoŝtojn
+## 購読をキャンセルし、Eメールの弾幕を得ました
 </summary>
 
 
-La uzanto nuligis sian 'Cloudflare stream' abonon kaj li ricevas retpoŝtajn memorigilojn ĉiutage por rememorigi lin pri nuligita abono.
-Ne estas malaprobita butono. Kiel vi ĉesas ĉi tiun frenezon?
+ユーザーは彼のストリーム購読をキャンセルし、今、彼は毎日彼にキャンセルされた購読について思い出させるように電子メールの思い出を得る。
+未登録ボタンはありません。 どうやってこの停止をしますか？
 
 ![](../image/barrageemailcancelsubscription.jpg)
 
-Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn enhavojn forigi.
+CloudFlareはこのユーザーにサポートに連絡して削除されるすべての内容を依頼するように言った。
 
 - [t](https://web.archive.org/web/20210412165334/https://twitter.com/JohnHaldson/status/1381651569247088650)
 
