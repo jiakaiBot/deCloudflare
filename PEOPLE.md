@@ -454,6 +454,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Did the website get DMCA'd? Getting 502 Cloudflare error. Hope everything is well ([deost8003](https://twitter.com/Deost8003/status/1384831041114832899))
 - Any ETA on fixing your site? I tried signing up a million times last night, just kept resolving to a cloudflare error. Now I have an email claiming I'm registered, but it won't let me log in. I've been trying since last night. ([mikalg](https://twitter.com/MIKALg/status/1384656564821413888))
 - I'm getting several CloudFlare error messages on frankspeech. First a 504, then a 521, and now a 520. ([opstellar](https://twitter.com/opstellar/status/1384139069555306498))
 - Moving our websites off actually made them faster for most of our visitors, contrary to their marketing. In addition, it eliminated the "man in the middle'", which helps us to better protect visitor privacy. Next up: Building an anycast network using our own IP space. ([ardewes](https://twitter.com/ardewes/status/1372126027732946947))
