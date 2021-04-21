@@ -308,18 +308,18 @@ Poți „avea încredere” în asta?
 ---
 
 <details>
-<summary>_klaku min_
+<summary>faceți clic pe mine
 
-## Mi nuligis abonon kaj ricevis tro multajn retpoŝtojn
+## Abonament anulat, a primit barajul de e-mailuri
 </summary>
 
 
-La uzanto nuligis sian 'Cloudflare stream' abonon kaj li ricevas retpoŝtajn memorigilojn ĉiutage por rememorigi lin pri nuligita abono.
-Ne estas malaprobita butono. Kiel vi ĉesas ĉi tiun frenezon?
+Utilizatorul a anulat abonamentul la flux și acum primește mementouri prin e-mail în fiecare zi pentru a-i reaminti despre abonamentul anulat.
+Nu există niciun buton de dezabonare. Cum faci această oprire?
 
 ![](../image/barrageemailcancelsubscription.jpg)
 
-Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn enhavojn forigi.
+CloudFlare a spus utilizatorului acestui utilizator să contacteze suportul și să ceară toate conținutul dvs. să fie șters.
 
 - [t](https://web.archive.org/web/20210412165334/https://twitter.com/JohnHaldson/status/1381651569247088650)
 
