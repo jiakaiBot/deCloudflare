@@ -317,7 +317,7 @@
 {%ethx11n0001%}
 {%ethx11n0002%}
 
-![](../image/cfviopl_notdel.jpg)
+![](../image/barrageemailcancelsubscription.jpg)
 
 {%ethx11n0003%}
 
