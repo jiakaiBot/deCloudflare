@@ -100,6 +100,10 @@ ethx10n0013	Wait several days.
 ethx10n0014	Cloudflare staff will ask for your confirmation and the reason why you have decided to leave Cloudflare.
 ethx10n0015	Send a reply again.
 ethx10n0016	You will get a message: We have successfully deleted your account
+ethx11n0000	Cancelled subscription, got barrage of emails
+ethx11n0001	The user cancelled his stream subscription and now he gets email reminders every day to remind him about cancelled subscription.
+ethx11n0002	There is no unsubscribe button. How do you make this stop?
+ethx11n0003	Cloudflare told this user to contact support and ask all your contents to be deleted.
 other1nfo	Other information
 pleasenext	Please continue to next page
 uactionmd	What you can do to resist Cloudflare?
