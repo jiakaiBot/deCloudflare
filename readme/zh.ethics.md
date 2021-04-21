@@ -308,18 +308,18 @@ Cloudflare不了解“删除”一词。
 ---
 
 <details>
-<summary>_klaku min_
+<summary>点击我
 
-## Mi nuligis abonon kaj ricevis tro multajn retpoŝtojn
+## 已取消订阅，获得了电子邮件的阻碍
 </summary>
 
 
-La uzanto nuligis sian 'Cloudflare stream' abonon kaj li ricevas retpoŝtajn memorigilojn ĉiutage por rememorigi lin pri nuligita abono.
-Ne estas malaprobita butono. Kiel vi ĉesas ĉi tiun frenezon?
+用户取消了他的流订阅，现在他每天都会收到电子邮件提醒，以提醒他取消订阅。
+没有取消订阅按钮。 你怎么做这个停止？
 
 ![](../image/barrageemailcancelsubscription.jpg)
 
-Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn enhavojn forigi.
+CloudFlare告诉本用户联系支持并询问要删除的所有内容。
 
 - [t](https://web.archive.org/web/20210412165334/https://twitter.com/JohnHaldson/status/1381651569247088650)
 
