@@ -5,7 +5,6 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
-- 2021-04-21: [Cloudflare is investigating an issue preventing the submission of abuse reports.](https://www.cloudflarestatus.com/incidents/08h0jlpxyg2h)
 - 2021-04-20: [Increased HTTP 500 Errors in Lisbon and Toronto](https://www.cloudflarestatus.com/incidents/b8g7jbq70hzd)
 - 2021-04-20: [Customer Impacting Issue with SZX](https://www.cloudflarestatus.com/incidents/mw14qc5m4yq7)
 - 2021-04-19: [Retro: Elevated number of 522 errors in BOM](https://www.cloudflarestatus.com/incidents/zv7z928b3vpk)
