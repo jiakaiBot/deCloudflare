@@ -287,18 +287,18 @@ Cloudflare खाता हटाना कठिन स्तर है।
 ---
 
 <details>
-<summary>_klaku min_
+<summary>मुझे क्लिक करें
 
-## Mi nuligis abonon kaj ricevis tro multajn retpoŝtojn
+## रद्द की गई सदस्यता, ईमेल का बैराज मिला
 </summary>
 
 
-La uzanto nuligis sian 'Cloudflare stream' abonon kaj li ricevas retpoŝtajn memorigilojn ĉiutage por rememorigi lin pri nuligita abono.
-Ne estas malaprobita butono. Kiel vi ĉesas ĉi tiun frenezon?
+उपयोगकर्ता ने अपनी स्ट्रीम सदस्यता रद्द कर दी और अब उन्हें रद्द सदस्यता के बारे में याद दिलाने के लिए हर दिन ईमेल अनुस्मारक प्राप्त हो जाता है।
+कोई सदस्यता समाप्त बटन नहीं है। आप इस स्टॉप को कैसे बनाते हैं?
 
 ![](../image/barrageemailcancelsubscription.jpg)
 
-Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn enhavojn forigi.
+क्लाउडफ्लेयर ने इस उपयोगकर्ता को समर्थन से संपर्क करने और अपनी सभी सामग्री को हटाने के लिए कहा।
 
 - [t](https://web.archive.org/web/20210412165334/https://twitter.com/JohnHaldson/status/1381651569247088650)
 
