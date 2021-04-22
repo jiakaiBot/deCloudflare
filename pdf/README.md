@@ -58,6 +58,7 @@
 | 2018 | [The Death of Transit and the Future Internet](2018-The_Death_of_Transit_and_the_Future_Internet.pdf) |
 | 2019 | [A First Look at References from the Dark to Surface Web World](2019-A_First_Look_at_References_from_the_Dark_to_Surface_Web_World.pdf) |
 | 2019 | [Analyzing Chinas Blocking of Unpublished Tor Bridges](2019-Analyzing_Chinas_Blocking_of_Unpublished_Tor_Bridges.pdf) |
+| 2019 | [Something Dark INVESTIGATING IN THE DARK WEB](2019-Something_Dark_INVESTIGATING_IN_THE_DARK_WEB) |
 | 2019 | [The Great Cloudwall](2019-The_Great_Cloudwall.pdf) |
 | 2019 | [Thirteen Years of Tor Attacks](2019-Thirteen_Years_of_Tor_Attacks.pdf) |
 | 2019 | [Tor Censorship Arms Race](2019-Tor_Censorship_Arms_Race.pdf) |
@@ -69,4 +70,3 @@
 | 2020 | [Website Fingerprinting with Website Oracles](2020-Website_Fingerprinting_with_Website_Oracles.pdf) |
 | 2020 | [Why We Still Cant Browse in Peace On the Uniqueness and Reidentifiability of Web Browsing Histories](2020-Why_We_Still_Cant_Browse_in_Peace_On_the_Uniqueness_and_Reidentifiability_of_Web_Browsing_Histories.pdf) |
 | 2021 | [How Gamification Affects Software Developers Cautionary Evidence from a Natural Experiment on GitHub](2021-How_Gamification_Affects_Software_Developers_Cautionary_Evidence_from_a_Natural_Experiment_on_GitHub.pdf) |
-
