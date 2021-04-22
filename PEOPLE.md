@@ -454,6 +454,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Hello what’s going on with your web? I’ve been trying to log on all day and it keeps saying host error - message from - cloudflare please help! ([tar0baap](https://twitter.com/tar0baap/status/1385013028370800644))
+- same here, looks like they're hitting a cloudflare rate limit at the moment (429 error code) "detail":"event rejected due to rate limit" ([speediedan](https://twitter.com/speediedan/status/1384923813662576640))
 - Claims to be privacy conscious, but I am unable to privately surf the web with something like Tor or a VPN as CloudFlare uses them as well. ([alexklman](https://twitter.com/AlexKLMan/status/1384969591911325707))
 - is your website down? I'm getting an error message - Error 1001 Ray ID: 6437674acef6ce8b • 2021-04-21 14:46:43 UTC DNS resolution error Cloudflare is currently unable to resolve your requested domain ([michaelturner](https://twitter.com/michaelturner/status/1384882186374066179))
 - Did the website get DMCA'd? Getting 502 Cloudflare error. Hope everything is well ([deost8003](https://twitter.com/Deost8003/status/1384831041114832899))
@@ -2085,6 +2087,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- What DNS provider do you use and why? I use DNS Watch by default as it's preset in Pihole and my modem. I was originally drawn to Cloudflare for its promises of privacy and no censorship, but I've since noticed all the bad press. I'm interested in OpenDNS and LibreDNS but it would be good to read some kind of in-depth comparison if one is available. networking homenetwork FOSS ([syntax](https://social.privacytools.io/@syntax/106104567019673305))
 - Next website RSS unavailable for RSS-Reader: lolnein comics. Thanks cloudflare Why is there nobody at Cloudflare bringing the idea up that feeds should be less restrictive by default? ([lemming](https://chaos.social/@lemming/106101921586938623))
 - chg dot org, moveon, & actionnetwork are all Tor-blocking Cloudflare sites. This is what Cloudflare impeding democracy looks like. It gives a "one more step" page and shows a broken CAPTCHA ([resist1984](https://social.privacytools.io/@resist1984/106018779179419354))
 - I don't sign petitions on Cloudflare sites. I can't even read it. But I might sign it if it were on a site like openpetition.org. ([resist1984](https://social.privacytools.io/@resist1984/106018735693132453))
