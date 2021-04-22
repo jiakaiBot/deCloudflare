@@ -117,7 +117,7 @@ temporary and non-destructive of the artifacts.
 This is just a statement of Codeberg's interpretation of law.  Note
 that Codeberg does not accuse dCF of this, as doing so would be libel
 against dCF.  So it's unclear what purpose this statement serves other
-than to imply an accusation without stating it.  Such weasel wording
+than to imply an accusation without stating it.  Such [weasel wording](https://en.wikipedia.org/wiki/Weasel_word)
 is designed to *deceive* the public while dodging legal accountability.
 
 > - Considering reports we received, a significant number of claims and
