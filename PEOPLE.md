@@ -2102,6 +2102,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- in this case the site you were trying to access should be avoided anyway. alternativeto.net is a Tor-blocking Cloudflare site. We need an alternative to alternativeto.net :) ([resist1984](https://social.privacytools.io/@resist1984/106110132925701737))
 - What DNS provider do you use and why? I use DNS Watch by default as it's preset in Pihole and my modem. I was originally drawn to Cloudflare for its promises of privacy and no censorship, but I've since noticed all the bad press. I'm interested in OpenDNS and LibreDNS but it would be good to read some kind of in-depth comparison if one is available. networking homenetwork FOSS ([syntax](https://social.privacytools.io/@syntax/106104567019673305))
 - Next website RSS unavailable for RSS-Reader: lolnein comics. Thanks cloudflare Why is there nobody at Cloudflare bringing the idea up that feeds should be less restrictive by default? ([lemming](https://chaos.social/@lemming/106101921586938623))
 - chg dot org, moveon, & actionnetwork are all Tor-blocking Cloudflare sites. This is what Cloudflare impeding democracy looks like. It gives a "one more step" page and shows a broken CAPTCHA ([resist1984](https://social.privacytools.io/@resist1984/106018779179419354))
