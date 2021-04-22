@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-04-26: [Upcoming Datacenter Upgrades](https://www.cloudflarestatus.com/incidents/2x9z8j94mdyx)
 - 2021-04-21: [Distributed Web Gateway](https://www.cloudflarestatus.com/incidents/fw25q1t7mplk)
 - 2021-04-20: [Increased HTTP 500 Errors in Lisbon and Toronto](https://www.cloudflarestatus.com/incidents/b8g7jbq70hzd)
 - 2021-04-20: [Customer Impacting Issue with SZX](https://www.cloudflarestatus.com/incidents/mw14qc5m4yq7)
