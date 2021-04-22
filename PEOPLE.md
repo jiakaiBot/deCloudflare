@@ -454,6 +454,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- custom dashboards are cool until everyone is getting cloudflare error when the bots restocks ([dk041011](https://twitter.com/dk041011/status/1385028215736049667))
 - Hello what’s going on with your web? I’ve been trying to log on all day and it keeps saying host error - message from - cloudflare please help! ([tar0baap](https://twitter.com/tar0baap/status/1385013028370800644))
 - same here, looks like they're hitting a cloudflare rate limit at the moment (429 error code) "detail":"event rejected due to rate limit" ([speediedan](https://twitter.com/speediedan/status/1384923813662576640))
 - Claims to be privacy conscious, but I am unable to privately surf the web with something like Tor or a VPN as CloudFlare uses them as well. ([alexklman](https://twitter.com/AlexKLMan/status/1384969591911325707))
