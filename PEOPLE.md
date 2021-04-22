@@ -454,6 +454,19 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- happy to check - sounds like a cloudflare flag. can you send me or clientservice@blockfi.com a screen shot? ([blockfizac](https://twitter.com/BlockFiZac/status/1384484659040555008))
+- Are you experiencing issues with Pages? Our pages site has been down with 500 errors for over 12 hours. ([miltzi](https://twitter.com/Miltzi/status/1384754087787483137))
+- This doesn't work you team never reply because of this bug... ([ryanuk90](https://twitter.com/RyanUK90/status/1384155707319062528))
+- Well for now I have moved all my domains to another provider. ([jordanairwave](https://twitter.com/jordanairwave/status/1383128825278652418))
+- Could you check your DM? I want to report and issue humanly possible way. PS: raising a ticket forces me to choose a website, this is related to your website, not mine. ([m_uysl](https://twitter.com/m_uysl/status/1383074253206130695))
+- I need to speak to someone about being locked out of my account but all your "contact support" options require me to log in first. Do you have an email or chat that can be used by people who cannot log in? ([gd_edrob](https://twitter.com/GD_EdRob/status/1382988812217901056))
+- 2FA emails don't seem to be coming through. They’re not in spam, and am receiving other emails fine ([armstrong](https://twitter.com/Armstrong/status/1382840439162687491))
+- hi support. located in taiwan. when previewing any app, it loads forever and doesnt show. the app content. this happens on any apps on the app store. can you help solve this? ([oritzvielli](https://twitter.com/oritzvielli/status/1382569417687502848))
+- I have sent a ticket. No response. It's now the second day that my sites are unusable due to your DNS. ([nicholas_duncan](https://twitter.com/Nicholas_Duncan/status/1382563034300870657))
+- There's a major issue with your service on our account currently. When routing our sites through cloudflare our sites are almost unusable. When disabling the proxy, sites behave as normal. ([nicholas_duncan](https://twitter.com/Nicholas_Duncan/status/1382253803571978244))
+- Can anybody please reply my ticket 2132190? It’s been almost 24 hours. ([rfischmann](https://twitter.com/rfischmann/status/1382253003453956098))
+- Too late. I've wasted 6 hours of business time. You don't make it easy, so how much time do you expect people to invest in order to report something that they have no power over. 6 hrs was my limit, you'll have to find your own issues out. The public are fed up being fobbed off! ([bedstag](https://twitter.com/bedstag/status/1381924733772566529))
+- your email notifications page is the worst kind of anti-pattern. Do I click the checkmark to NOT receive updates? Or click it to accept getting updates? does "Cloudflare may not send me emails" mean that I shouldn't get ANY emails? or is it missing "in" at the end ([deefdragon](https://twitter.com/Deefdragon/status/1381623604564090880))
 - The Cloudflare App is easy to identify the hacker when your using Microsoft because when you want to create a account the hacked becomes your admin by adding his verisign certificate to your vpn not allowing you coverage or allows you to sign in with verification code and domain ([simplygolden881](https://twitter.com/Simplygolden881/status/1385200886457114624))
 - custom dashboards are cool until everyone is getting cloudflare error when the bots restocks ([dk041011](https://twitter.com/dk041011/status/1385028215736049667))
 - Hello what’s going on with your web? I’ve been trying to log on all day and it keeps saying host error - message from - cloudflare please help! ([tar0baap](https://twitter.com/tar0baap/status/1385013028370800644))
