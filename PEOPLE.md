@@ -454,6 +454,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- The Cloudflare App is easy to identify the hacker when your using Microsoft because when you want to create a account the hacked becomes your admin by adding his verisign certificate to your vpn not allowing you coverage or allows you to sign in with verification code and domain ([simplygolden881](https://twitter.com/Simplygolden881/status/1385200886457114624))
 - custom dashboards are cool until everyone is getting cloudflare error when the bots restocks ([dk041011](https://twitter.com/dk041011/status/1385028215736049667))
 - Hello what’s going on with your web? I’ve been trying to log on all day and it keeps saying host error - message from - cloudflare please help! ([tar0baap](https://twitter.com/tar0baap/status/1385013028370800644))
 - same here, looks like they're hitting a cloudflare rate limit at the moment (429 error code) "detail":"event rejected due to rate limit" ([speediedan](https://twitter.com/speediedan/status/1384923813662576640))
