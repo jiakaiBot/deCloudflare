@@ -2,7 +2,7 @@
 
 Ili helpas kompanian cenzuron kaj amasan gvatadon.
 
-![](../image/chinaphone.jpg)
+[![](../image/chinaphone.jpg)](https://web.archive.org/web/20210331202030/https://www.lawfareblog.com/beijings-new-national-intelligence-law-defense-offense)
 
 Bonvolu vidi [INSTRUCTION.md](../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
 
