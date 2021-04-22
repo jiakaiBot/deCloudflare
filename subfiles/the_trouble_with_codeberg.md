@@ -1,21 +1,21 @@
 # Codeberg's Attack on Transparency and on Cloudflare Opposition
 
-Codeberg hosted the [Crimeflare](http://crimeflare.eu.org)'s `Cloudflare-Tor` (CFT) project.
+Codeberg hosted the [Crimeflare](http://crimeflare.eu.org)'s `Cloudflare-Tor` project.
 In April 2021, Codeberg took down the project alleging libel.
 
 
-## What the Cloudflare-Tor (CFT) project is
+## What the deCloudflare project is
 
-The CFT project is a non-profit charitable effort to
+The [deCloudflare project](http://crimeflare.eu.org) ("dCF", formerly "Cloudflare-Tor") is a non-profit charitable effort to
 promote decentralization, network neutrality, and privacy with
 [Cloudflare](../README.md) (a top adversary of that cause) as the core focus.
-CFT project provides a variety of free software tools to help protect the
+dCF project provides a variety of free software tools to help protect the
 general public from Cloudflare.
 An important component of protecting the community from Cloudflare is 
 documenting websites that subject people to the harms of Cloudflare by 
 maintaining a [massive list](../cloudflare_users/domains) of websites to avoid.
 
-Unlike other tech giant adversaries to the CFT cause such as [GAFAM](https://en.wikipedia.org/wiki/GAFAM)
+Unlike other tech giant adversaries to the dCF cause such as [GAFAM](https://en.wikipedia.org/wiki/GAFAM)
 (Google, Amazon, Facebook, Apple and Microsoft), Cloudflare operates
 surreptitiously and largely unknown to the general public, despite
 having access to ~20-30%+ of the world's web traffic and 80%+ of CDN
@@ -29,7 +29,7 @@ Some privacy and ethical advice sites like "Switching Software"
 actually *recommend* Cloudflare sites to those who entrust them to
 give advice pursuant to their own stated purpose.
 
-The problem is so [rampant](../PEOPLE.md) that it became important for the CFT
+The problem is so [rampant](../PEOPLE.md) that it became important for the dCF
 project's tracking of the Cloudflare problem to start keeping track of
 organizations and the pseudo-anonymous aliases of representatives who
 were spotted publicly promoting Cloudflare.
@@ -39,7 +39,7 @@ were spotted publicly promoting Cloudflare.
 
 After someone
 [on Codeberg's staff](https://web.archive.org/web/20210414001524/https://codeberg.org/shadow/SpywareWatchdog/issues/77#issuecomment-188105)
-was added to the Cloudflare supporter list, Codeberg shut down the CFT
+was added to the Cloudflare supporter list, Codeberg shut down the dCF
 project and issued
 [this statement](https://web.archive.org/web/20210414001651/https://codeberg.org/Codeberg/Community/issues/423#issuecomment-187783)
 to contributors, and posted
@@ -53,11 +53,11 @@ allegedly in response to complaints.
 > social media identities,
 
 Calling it a "`target list`" entails a presumption of *how* the list is
-used.  For example, if a threat actor wants to join the CFT project to
-gain access to our internal operations, it is not CFT targeting them
-but rather CFT *avoiding* being targeted by their adversary.  CFT has
+used.  For example, if a threat actor wants to join the dCF project to
+gain access to our internal operations, it is not dCF targeting them
+but rather dCF *avoiding* being targeted by their adversary.  dCF has
 been attacked several times and sometimes at the hands of insiders who
-gained trust by posing as those who support the CFT cause.
+gained trust by posing as those who support the dCF cause.
 
 Transparency is essential in exposing the corporate bias behind the
 information and advice you are getting.  For example, a forum for talk
@@ -73,8 +73,8 @@ Are forums hosted in Germany really forced to operate
 non-transparently and conceal such conflicts of interest from the
 public?  *Unlikely*.
 
-For Codeberg to allege CFT tracks "`personal data`" with social media
-identities is perversely deceptive.  CFT did not track personal data
+For Codeberg to allege dCF tracks "`personal data`" with social media
+identities is perversely deceptive.  dCF did not track personal data
 or dox any social media identities.  The social media identities were
 listed and only *public* data was shared -- data that is already
 public on platforms like Twitter.  Personally identifiable information
@@ -115,15 +115,15 @@ temporary and non-destructive of the artifacts.
 > privacy violation and leaking proprietary information.
 
 This is just a statement of Codeberg's interpretation of law.  Note
-that Codeberg does not accuse CFT of this, as doing so would be libel
-against CFT.  So it's unclear what purpose this statement serves other
+that Codeberg does not accuse dCF of this, as doing so would be libel
+against dCF.  So it's unclear what purpose this statement serves other
 than to imply an accusation without stating it.  Such weasel wording
 is designed to *deceive* the public while dodging legal accountability.
 
 > - Considering reports we received, a significant number of claims and
 > statements were factually false.
 
-CFT has received only **one** complaint.  It involved one social media
+dCF has received only **one** complaint.  It involved one social media
 alias that was listed and it turned out to be a misunderstanding
 surrounding the word "`support`".  The listed party claimed to not
 personally condone Cloudflare and thus claimed to not be a Cloudflare
@@ -173,18 +173,18 @@ Once you share your information publicly, you can't control them anymore.
 > their social media accounts and allegedly blamed as Cloudflare
 > supporters without an evidence
 
-CFT was *never asked* for evidence.  Only *one complaint* was received.
+dCF was *never asked* for evidence.  Only *one complaint* was received.
 It was investigated and evidence was *provided* to the subject.
 
 > We started a discussion with the maintainers of this repository and
 > asked to remove these sensitive information, that are apparently for
 > **shaming** people (**defamation**),
 
-CFT did not "`shame`" or "`defame`" anyone, and no evidence was given to
+dCF did not "`shame`" or "`defame`" anyone, and no evidence was given to
 that effect.  Codeberg admitted earlier that their assumption is that
 a list of Cloudflare supporters inherently shames people.  Yet the
 list is objective.  It's for the reader to decide if the list is of
-shame or of pride.  No value judgment was expressed by the CFT
+shame or of pride.  No value judgment was expressed by the dCF
 project.
 
 > According to GDPR, we are obligued to remove sensitive user
@@ -205,16 +205,16 @@ processing of such anonymous information, including for statistical or
 research purposes.
 ```
 
-CFT's [Cloudflare supporter list](../cloudflare_users/cloudflare_supporter.md) did not contain real names; only
+dCF's [Cloudflare supporter list](../cloudflare_users/cloudflare_supporter.md) did not contain real names; only
 pseudoanonymous aliases.
 
 The listed alias of the subject who complained did not use an alias
 formed like "*firstName_lastName*", or any form that could reasonably
 identify a natural individual person.
 
-The sole complaint CFT received lead to an investigation that found
+The sole complaint dCF received lead to an investigation that found
 the data **accurate**.  Even though the GDPR right to be forgotten does
-not have force in that case, it was *removed* anyway and therefore CFT
+not have force in that case, it was *removed* anyway and therefore dCF
 was (and remains) in compliance with the GDPR right to be forgotten.
 
 Yet Codeberg still removed the project *despite* immediate compliance.
@@ -231,20 +231,20 @@ their employees, so it's already *public* information.
 > Cloudflare-supporters, but critical opponents of this company, and
 > thus could not even imagine a reason for being listed there.
 
-CFT only received *one* complaint regarding *one* individual.  CFT has
+dCF only received *one* complaint regarding *one* individual.  dCF has
 *continously* been in GDPR compliance at *all times*.  Codeberg destroyed
 the repository anyway.
 
 "`Support`" comes in many forms.  You can support Cloudflare by
 praising it, or you can support Cloudflare through actions (which may
-even be unwitting to the supporter).  In the one case that CFT
+even be unwitting to the supporter).  In the one case that dCF
 investigated, the subject's understanding narrowly assumed "support"
 was limited to philosophical praise.
 
 > We can not accept anyone attacking and threatening us and our users
 > (or anyone for that matter), or inciting others to do so.
 
-This is weasel wording, as directly accusing CFT of attacking or
+This is weasel wording, as directly accusing dCF of attacking or
 threatening Cloudflare supporters would constitute libel on the part
 of Codeberg.  So they try to *imply* it.  These claims can only be
 ignored in the absence of evidence.
