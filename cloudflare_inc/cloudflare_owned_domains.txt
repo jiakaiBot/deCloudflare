@@ -24,6 +24,7 @@ cloudflaressl.com
 cloudflarestatus.com
 cloudflaresupport.com
 cloudflarewarp.com
+cloudflareworkers.com
 encryptedsni.com
 mycloudflare.com
 one.one
