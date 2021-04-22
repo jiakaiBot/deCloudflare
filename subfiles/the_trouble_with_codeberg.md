@@ -1,6 +1,6 @@
 # Codeberg's Attack on Transparency and on Cloudflare Opposition
 
-Codeberg hosted the [Crimeflare](http://crimeflare.eu.org)'s `Cloudflare-Tor` project.
+[Codeberg.org](https://web.archive.org/web/20210216153536/https://blog.codeberg.org/codebergorg-launched.html) hosted the [Crimeflare](http://crimeflare.eu.org)'s `Cloudflare-Tor` project.
 In April 2021, Codeberg took down the project alleging libel.
 
 
