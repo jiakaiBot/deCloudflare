@@ -170,6 +170,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [Your thoughts on CloudFlare](https://lemmy.ml/post/61492)
 - [Cloudflare ... Yeah, I know the Tor country, it's located in the Onion continent](https://www.reddit.com/r/softwaregore/comments/mlv97r/cloudflare_yeah_i_know_the_tor_country_its/)
 - [Can I bypass Cloudflare?](https://www.reddit.com/r/TOR/comments/m4zfbo/can_i_bypass_cloudflare/)
 - [linuxreviews.org Cloudflare](https://linuxreviews.org/Cloudflare)
