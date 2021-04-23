@@ -2104,6 +2104,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I am usure if it is a good style to operate element website which is a decentralized solution behind a very strong centralizing cloudflare service. The matrix site is free of this centralize hard stuff for the net. ([kmj](https://mastodon.ctseuro.com/@kmj/106115095366141235))
 - How can we call regular companies not to use cloudflare or not to ban tor exit nodes if entities which claim that they are super privacy oriented use this word only because of its hype.Session - getsession.org - cloudflare.pinephone - they confirmed that privacy is only a nice byproduct(sic!). You cannot use tor to sign up in their forum. You cannot connect to their IRC using tor.We are just Don Quixotes. Saaaad.@session ([br0m3x](https://social.weho.st/@Br0m3x/106114249620091706))
 - in this case the site you were trying to access should be avoided anyway. alternativeto.net is a Tor-blocking Cloudflare site. We need an alternative to alternativeto.net :) ([resist1984](https://social.privacytools.io/@resist1984/106110132925701737))
 - What DNS provider do you use and why? I use DNS Watch by default as it's preset in Pihole and my modem. I was originally drawn to Cloudflare for its promises of privacy and no censorship, but I've since noticed all the bad press. I'm interested in OpenDNS and LibreDNS but it would be good to read some kind of in-depth comparison if one is available. networking homenetwork FOSS ([syntax](https://social.privacytools.io/@syntax/106104567019673305))
