@@ -454,6 +454,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- can someone tell me if there is an issue with accessing the site? I keep getting a host error on cloudflare and cant get back on. ([jessecapes](https://twitter.com/JesseCapes/status/1385404884091121665))
 - Is there a way to allow requests from a origin IP to bypass the bot fight firewall, like you can for free with WAF? Or is that a premium tier feature of super bot fight? ([exiva](https://twitter.com/exiva/status/1385339035955175425))
 - happy to check - sounds like a cloudflare flag. can you send me or clientservice@blockfi.com a screen shot? ([blockfizac](https://twitter.com/BlockFiZac/status/1384484659040555008))
 - Are you experiencing issues with Pages? Our pages site has been down with 500 errors for over 12 hours. ([miltzi](https://twitter.com/Miltzi/status/1384754087787483137))
