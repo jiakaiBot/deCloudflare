@@ -357,7 +357,7 @@ If `the owner` moved away from `cloudflare` **completely**, you are welcome to a
 
 1. Open "`Is MITM?`" webpage.
 
-2. Input `gitlab.com` and click `Scan`.
+2. Input domain name and click `Scan`.
 
 3. Click `test` for detailed scan.
 
