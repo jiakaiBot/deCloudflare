@@ -2111,6 +2111,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- the most fun ive had with for is going through kf thread and everybody was is posting just archive.md links and not original links and that shitty site has cloudflare or something and it requires to complete google captcha Every Damn Time i wanna look at archive ([kk](https://pl.sadx.moe/objects/2923cadf-f62e-45f4-b810-e4db7f5e27e6))
 - I am usure if it is a good style to operate element website which is a decentralized solution behind a very strong centralizing cloudflare service. The matrix site is free of this centralize hard stuff for the net. ([kmj](https://mastodon.ctseuro.com/@kmj/106115095366141235))
 - How can we call regular companies not to use cloudflare or not to ban tor exit nodes if entities which claim that they are super privacy oriented use this word only because of its hype.Session - getsession.org - cloudflare.pinephone - they confirmed that privacy is only a nice byproduct(sic!). You cannot use tor to sign up in their forum. You cannot connect to their IRC using tor.We are just Don Quixotes. Saaaad.@session ([br0m3x](https://social.weho.st/@Br0m3x/106114249620091706))
 - in this case the site you were trying to access should be avoided anyway. alternativeto.net is a Tor-blocking Cloudflare site. We need an alternative to alternativeto.net :) ([resist1984](https://social.privacytools.io/@resist1984/106110132925701737))
