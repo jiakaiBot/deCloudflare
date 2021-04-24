@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Tout ce qui est censuré reparait sur Tor : surprenant ? je ne crois pas! Votre méthode n'est pas de vous attaquer au problème mais de le déplacer, et ça ne marchera jamais avec les technologies qui existent actuellement!!! ([xyz80364672](https://twitter.com/xyz80364672/status/1385883097896570883))
 - How would I get around the tool hitting a captcha verification? Got this happening on a client site. And probably cloudflare. ([iqseo](https://twitter.com/iqseo/status/1379718196245241858))
 - They have the site behind cloudflare, you’d need a VPN to get around it, a free one for mobile phones is called “Betternet” but yh the time it takes to turn it on and go back to the site might take too long...better to just wait...stock supply is normalizing ([oh_uriahs](https://twitter.com/oh_uriahs/status/1385608914734047232))
 - Vous allez les poursuivre même s'ils se font héberger en inde ou au Bangladesh aussi ? Et sur Tor, vous allez faire comment ? Si cloudfare commence à faire de la censure, alors ils perdent facilement 30% de tous leurs sites donc bon ... pas très rentable pour eux!!! ([xyz80364672](https://twitter.com/xyz80364672/status/1385576207681564673))
