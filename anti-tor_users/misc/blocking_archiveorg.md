@@ -1,7 +1,10 @@
-## Opting out from the Internet Archive's Wayback Machine
+## Opted out from the Internet Archive's Wayback Machine
 
 
 These sites are opted themselves out from the Wayback Machine.
+
+[![](../../image/__archiveorg.jpg)](https://web.archive.org/web/20210311125435/https://help.archive.org/hc/en-us/articles/360004651732-Using-The-Wayback-Machine)
+
 
 [//]: # (do not edit this line; FREEDOM)
 
