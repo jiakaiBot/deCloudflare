@@ -457,6 +457,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Your new cloudflare system is awful. Half of the time it kicks over to an error page. It's especially bad if you use any kind of VPN. ([ryansha22000](https://twitter.com/ryansha22000/status/1385841692754989058))
+- ya well. when in the middle of an event, a running page with a few videos suddenly starts showing a policy violation error. u basically have lost a customer. ([anindyar](https://twitter.com/anindyar/status/1385751637709492225))
 - Tout ce qui est censuré reparait sur Tor : surprenant ? je ne crois pas! Votre méthode n'est pas de vous attaquer au problème mais de le déplacer, et ça ne marchera jamais avec les technologies qui existent actuellement!!! ([xyz80364672](https://twitter.com/xyz80364672/status/1385883097896570883))
 - How would I get around the tool hitting a captcha verification? Got this happening on a client site. And probably cloudflare. ([iqseo](https://twitter.com/iqseo/status/1379718196245241858))
 - They have the site behind cloudflare, you’d need a VPN to get around it, a free one for mobile phones is called “Betternet” but yh the time it takes to turn it on and go back to the site might take too long...better to just wait...stock supply is normalizing ([oh_uriahs](https://twitter.com/oh_uriahs/status/1385608914734047232))
