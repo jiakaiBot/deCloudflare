@@ -456,6 +456,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- How would I get around the tool hitting a captcha verification? Got this happening on a client site. And probably cloudflare. ([iqseo](https://twitter.com/iqseo/status/1379718196245241858))
+- They have the site behind cloudflare, you’d need a VPN to get around it, a free one for mobile phones is called “Betternet” but yh the time it takes to turn it on and go back to the site might take too long...better to just wait...stock supply is normalizing ([oh_uriahs](https://twitter.com/oh_uriahs/status/1385608914734047232))
+- Vous allez les poursuivre même s'ils se font héberger en inde ou au Bangladesh aussi ? Et sur Tor, vous allez faire comment ? Si cloudfare commence à faire de la censure, alors ils perdent facilement 30% de tous leurs sites donc bon ... pas très rentable pour eux!!! ([xyz80364672](https://twitter.com/xyz80364672/status/1385576207681564673))
 - Some users still seem to be unable to access the admin dashboard and are receiving a 520 error code. Still not sure what is causing this, but I'm investigating with our service provider, ([keygen_sh](https://twitter.com/keygen_sh/status/1385700171061755906))
 - Local govt webpage timing out with a CloudFlare error. greeeat. yay cloud. :| ([contraryguy](https://twitter.com/contraryguy/status/1385644701114589189))
 - can someone tell me if there is an issue with accessing the site? I keep getting a host error on cloudflare and cant get back on. ([jessecapes](https://twitter.com/JesseCapes/status/1385404884091121665))
