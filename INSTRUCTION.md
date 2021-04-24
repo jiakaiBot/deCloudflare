@@ -140,11 +140,11 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 | [/fqdn/attd.txt](anti-tor_users/fqdn/attd.txt)     | **Block Tor access** Split files, Everything (FQDN)     |
 | [/fqdn/attd.json](anti-tor_users/fqdn/attd.json)     | **Block Tor access** Split files, Everything (JSON)     |
 | [/misc/hostility.md](anti-tor_users/misc/hostility.md) | **Does NOT block Tor access** Domain and Comment |
-| [/misc/blocking_archiveorg.md](anti-tor_users/misc/blocking_archiveorg.md) | Domains which blocking/excluding/opt-out from [Internet Archive Wayback Machine](https://web.archive.org) |
+| [/misc/blocking_archiveorg.md](anti-tor_users/misc/blocking_archiveorg.md) | Domains which opt-out from [Internet Archive Wayback Machine](https://web.archive.org) |
 
 
 ```
-About "blocking_archiveorg.txt"
+About "blocking_archiveorg.md"
 
 Some Tor users are sharing Archive.org(IA) link as a replacement of Cloudflared link.
 However there are websites which blocks IA.
