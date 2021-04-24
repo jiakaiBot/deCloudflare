@@ -139,8 +139,8 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 | -------- | -------- |
 | [/fqdn/attd.txt](anti-tor_users/fqdn/attd.txt)     | **Block Tor access** Split files, Everything (FQDN)     |
 | [/fqdn/attd.json](anti-tor_users/fqdn/attd.json)     | **Block Tor access** Split files, Everything (JSON)     |
-| [hostility.md](anti-tor_users/hostility.md) | **Does NOT block Tor access** Domain and Comment |
-| [/misc/blocking_archiveorg.txt](anti-tor_users/misc/blocking_archiveorg.txt) | Domains which blocking/excluding/opt-out from [Internet Archive Wayback Machine](https://web.archive.org) |
+| [/misc/hostility.md](anti-tor_users/misc/hostility.md) | **Does NOT block Tor access** Domain and Comment |
+| [/misc/blocking_archiveorg.md](anti-tor_users/misc/blocking_archiveorg.md) | Domains which blocking/excluding/opt-out from [Internet Archive Wayback Machine](https://web.archive.org) |
 
 
 ```
