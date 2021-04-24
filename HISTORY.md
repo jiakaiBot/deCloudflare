@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-04-24: [Increased HTTP 522 Errors in Milan, Italy - (MXP)](https://www.cloudflarestatus.com/incidents/p9cr779vv2mb)
 - 2021-04-23: [Issues enabling DNSSEC](https://www.cloudflarestatus.com/incidents/mq6nqh4vk4qm)
 - 2021-04-21: [Distributed Web Gateway](https://www.cloudflarestatus.com/incidents/fw25q1t7mplk)
 - 2021-04-20: [Increased HTTP 500 Errors in Lisbon and Toronto](https://www.cloudflarestatus.com/incidents/b8g7jbq70hzd)
