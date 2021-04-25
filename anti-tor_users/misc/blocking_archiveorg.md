@@ -5,7 +5,7 @@ Some Tor users are sharing Archive.org link as a replacement of Cloudflared link
 However there are websites which opted themselves out from the Wayback Machine.
 
 
-![](../image/iaorg_sorry.jpg)
+![](../../image/iaorg_sorry.jpg)
 
 
 [![](../../image/__archiveorg.jpg)](https://web.archive.org/web/20210311125435/https://help.archive.org/hc/en-us/articles/360004651732-Using-The-Wayback-Machine)
