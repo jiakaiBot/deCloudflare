@@ -43,7 +43,7 @@ There are many ways to detect it:
 - Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "_Attention Required! Cloudflare_" or "_Checking your browser_" webpage.
 - Use "[Is MITM?](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_qdb.php)" webpage.
-- Search [cloudflare domain list](cloudflare_users/domains/). Karma's ["Find Cloudflare Domains" API](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/api/is_cf.php)
+- Search [cloudflare domain list](cloudflare_users/domains/).
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
 ```
@@ -143,16 +143,9 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 | [/misc/blocking_archiveorg.md](anti-tor_users/misc/blocking_archiveorg.md) | Domains which opt-out from [Internet Archive Wayback Machine](https://web.archive.org) |
 
 
-```
-About "blocking_archiveorg.md"
-
-Some Tor users are sharing Archive.org(IA) link as a replacement of Cloudflared link.
-However there are websites which blocks IA.
-```
-
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
 - Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will tell you which link rejected Tor visitor.
-- Search [anti-tor fqdn list](anti-tor_users/fqdn/). Karma's ["Find Anti-Tor FQDN" API](http://nomdjgwjvyvlvmkolbyp3rocn2ld7fnlidlt2jjyotn3qqsvzs2gmuyd.onion/api/is_at.php)
+- Search [anti-tor fqdn list](anti-tor_users/fqdn/).
 
 ![](image/tor_nontor_diff.jpg)
 
