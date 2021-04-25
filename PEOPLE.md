@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I'm getting a Cloudflare error trying to load their site so I think this is a Pateron issue but I'll check it again in a few minutes ([bernielomaxceo](https://twitter.com/BernieLomaxCEO/status/1386467989856264194))
 - Your new cloudflare system is awful. Half of the time it kicks over to an error page. It's especially bad if you use any kind of VPN. ([ryansha22000](https://twitter.com/ryansha22000/status/1385841692754989058))
 - ya well. when in the middle of an event, a running page with a few videos suddenly starts showing a policy violation error. u basically have lost a customer. ([anindyar](https://twitter.com/anindyar/status/1385751637709492225))
 - Tout ce qui est censuré reparait sur Tor : surprenant ? je ne crois pas! Votre méthode n'est pas de vous attaquer au problème mais de le déplacer, et ça ne marchera jamais avec les technologies qui existent actuellement!!! ([xyz80364672](https://twitter.com/xyz80364672/status/1385883097896570883))
