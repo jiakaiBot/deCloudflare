@@ -17,4 +17,4 @@ Site owners might have also requested that their sites be excluded from the Wayb
 
 | Site Domain | Detect |
 | ----- | ----- |
-| example.domainname | 2021/01 |
+| www.quora.com | 2021/04 |
