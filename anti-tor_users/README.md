@@ -2,7 +2,9 @@
 
 Ne bloku nin!
 
-![](../image/wearetrulysorry.jpg)
+| 🖼 | 🖼 |
+| --- | --- |
+| ![](../image/wearetrulysorry.jpg) | ![](../image/whousetor.jpg) |
 
 Bonvolu vidi [INSTRUCTION.md](../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
 
