@@ -19,4 +19,4 @@ See [INSTRUCTION.md](../INSTRUCTION.md) for file purpose and format specificatio
 -----
 
 "Tor users are human too" - _Anonymous_
-"Any person who takes a strong stand on something risks pushback. Even when there are no legal considerations, social pressure can be a strong deterrent against doing the right thing." -- [Oliver Bensson](https://www.orangewebsite.com/articles/privacy-on-the-internet-is-essential/)
+"True privacy can give people the ability to say what they want and minimize the risk of social as well as legal consequences." -- [Oliver Bensson](https://www.orangewebsite.com/articles/privacy-on-the-internet-is-essential/)
