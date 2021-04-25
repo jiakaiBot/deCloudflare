@@ -16,7 +16,7 @@
 
 
 # Forigu sin el la Wayback-maŝino de la Interreta Arkivo
-Iuj Tor-uzantoj dividas arkivan ligon kiel anstataŭigo de ligilo kiu rilatas al Cloudflare.
+Iuj Tor-uzantoj dividas [arkivan ligon](https://web.archive.org/) kiel anstataŭigo de ligilo kiu rilatas al Cloudflare.
 Tamen ekzistas retejoj kiuj forigis sin de la Wayback-maŝino.
 
 ![](../../image/iaorg_sorry.jpg)
@@ -40,7 +40,7 @@ Tamen ekzistas retejoj kiuj forigis sin de la Wayback-maŝino.
 
 
 # Opted out from the Internet Archive's Wayback Machine
-Some Tor users are sharing Archive.org link as a replacement of link which are related to Cloudflare.
+Some Tor users are sharing [archive.org](https://web.archive.org/) link as a replacement of link which are related to Cloudflare.
 However there are websites which opted themselves out from the Wayback Machine.
 - "Why isn't the site I'm looking for in the archive?"
   - "Site owners might have requested that their sites be excluded from the Wayback Machine."
