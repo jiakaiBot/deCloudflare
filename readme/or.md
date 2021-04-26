@@ -89,6 +89,7 @@
 
 **ଅଧିକ ସୂଚନା**
 * [Myth Catalog](../subfiles/myth_catalog.md)
+* [How many % of top 1,000 most visited sites(2010) are using Cloudflare today?](../subfiles/google_ad_planner_top_1000_sites.md)
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * ଡାଉନଲୋଡ୍ କରନ୍ତୁ |: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * CC0 ସାମଗ୍ରୀର କପିରାଇଟ୍ ଉଲ୍ଲଂଘନ ହେତୁ ମୂଳ ଇବୁକ୍ (ePUB) BookRix GmbH ଦ୍ୱାରା ଡିଲିଟ ହୋଇଗଲା |
