@@ -89,6 +89,7 @@ Is e an ath-reic seo liosta de làraich-lìn a tha air cùl “The Great Cloudwa
 
 **Barrachd fiosrachaidh**
 * [Myth Catalog](../subfiles/myth_catalog.md)
+* [How many % of top 1,000 most visited sites(2010) are using Cloudflare today?](../subfiles/google_ad_planner_top_1000_sites.md)
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Luchdaich sìos: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Chaidh an eBook tùsail (ePUB) a dhubhadh às le BookRix GmbH mar thoradh air briseadh dlighe-sgrìobhaidh air stuth CC0
