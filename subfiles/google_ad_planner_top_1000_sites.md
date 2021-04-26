@@ -1,4 +1,4 @@
-## How many % of top 1,000 most visited sites(2010) are using Cloudflare?
+## How many % of top 1,000 most visited sites(2010) are using Cloudflare today?
 
 In the year 2010, Google released [Ad Planner 1000 list](https://web.archive.org/web/20201127063211/https://adwords.googleblog.com/2010/05/new-ad-planner-features-ad-planner-1000.html).
 
@@ -2019,7 +2019,7 @@ The [Ad Planner](https://web.archive.org/web/20201106232900/https://support.goog
 
 As of April 2021, most sites are still online.
 
-Q. **How many % of top 1,000 most visited sites(2010) are using Cloudflare?**
+Question: **How many % of top 1,000 most visited sites(2010) are using Cloudflare?**
 
 A.
 
