@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-04-26: [Network Performance Issues in Mumbai, India area.](https://www.cloudflarestatus.com/incidents/rqgwbms5kgx9)
 - 2021-04-26: [Increased HTTP 520 Errors](https://www.cloudflarestatus.com/incidents/8sgqpncp8qvy)
 - 2021-04-24: [Increased HTTP 522 Errors in Milan, Italy - (MXP)](https://www.cloudflarestatus.com/incidents/p9cr779vv2mb)
 - 2021-04-23: [Issues enabling DNSSEC](https://www.cloudflarestatus.com/incidents/mq6nqh4vk4qm)
