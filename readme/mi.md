@@ -89,6 +89,7 @@ Ko tenei kohinga tetahi raarangi o nga paetukutuku kei muri i te "The Cloudwall 
 
 **He maha atu nga korero**
 * [Myth Catalog](../subfiles/myth_catalog.md)
+* [How many % of top 1,000 most visited sites(2010) are using Cloudflare today?](../subfiles/google_ad_planner_top_1000_sites.md)
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Tikiake: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Ko te eBook taketake (ePUB) i mukua e BookRix GmbH na te whanaketanga o te mana pupuri o te rauemi CC0
