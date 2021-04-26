@@ -260,7 +260,7 @@ need more adaptations for Windows and other platforms.
 
 1. copy `"$HOME"/.ssh/id_rsa_mrsnowden.pub` to clipboard
 1. git.example > settings > SSH/GPG Keys > add key (paste from clipboard)
-1. $ `firefox https://git.example/crimeflare/cloudflare-tor`
+1. $ `firefox https://git.example/deCloudflare/deCloudflare`
 1. fork it (top right corner)
 1. go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
 1. anonymously download your fork: $ `git clone git@mrsnowden:you/cloudflare-tor.git`
@@ -273,7 +273,7 @@ need more adaptations for Windows and other platforms.
         url = git@mrsnowden:snowden/cloudflare-tor.git
      	fetch = +refs/heads/*:refs/remotes/origin/*
 [remote "upstream"]
-        url = git@mrsnowden:crimeflare/cloudflare-tor.git
+        url = git@mrsnowden:deCloudflare/deCloudflare.git
      	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
@@ -286,7 +286,7 @@ need more adaptations for Windows and other platforms.
 1. if yes: `$ git add . -u`
 1. $ `git commit -m 'description of first change'`
 1. $ `git push origin master`
-1. $ `firefox https://git.example/crimeflare/cloudflare-tor`
+1. $ `firefox https://git.example/deCloudflare/deCloudflare`
 1. make a new pull request
 
 &nbsp;
