@@ -1032,5 +1032,5 @@ Question: **How many % of top 1,000 most visited sites(2010) are using Cloudflar
 -----
 
 # 21.56%
-### of top 1,000 most visited sites are using Cloudflare.
+### of top most visited sites are using Cloudflare.
 
