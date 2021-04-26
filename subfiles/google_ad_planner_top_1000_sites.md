@@ -1022,7 +1022,15 @@ As of April 2021, most sites are still online.
 
 Question: **How many % of top 1,000 most visited sites(2010) are using Cloudflare?**
 
-A.
+
+| Type | Count |
+| --- | --- | 
+| Dead site | 54 |
+| Cloudflare site | 204 |
+| Normal site | 742 |
+
+
+# 21.56% of top 1,000 most visited sites are using Cloudflare.
 
 
 
