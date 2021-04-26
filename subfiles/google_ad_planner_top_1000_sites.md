@@ -1,6 +1,17 @@
-# 
+## How many % of top 1,000 most visited sites(2010) are using Cloudflare?
 
+In the year 2010, Google released [Ad Planner 1000 list](https://web.archive.org/web/20201127063211/https://adwords.googleblog.com/2010/05/new-ad-planner-features-ad-planner-1000.html).
 
+```
+Ad Planner Top 1,000 Most Visited Sites
+One of these new key releases is the Ad Planner 1000 list, a list of the top 1,000 global sites on the web by unique users as measured by Ad Planner. Published monthly, this list details the number of unique visitors, number of page views, and reach for each of the sites included. It’s a great way to quickly reference the most popular sites on the web.
+
+The Ad Planner 1000 list is another step in the evolution of Ad Planner in providing reliable traffic and audience information for websites. In conjunction with it, the Google Content Network just released an Ad Planner 1,000 targeting feature. We hope that the combination of these two features helps provide you with more actionable data to use in your display ad campaigns.
+```
+
+The [Ad Planner](https://web.archive.org/web/20201106232900/https://support.google.com/adplanner/answer/3310841) was discontinued. Below is the last list data.
+
+* This list was made for Google's advertisement service and Google did not list their service such as `google.com`.
 
 | Rank | Site | Category | Unique Visitors (users) | Page Views |
 | --- | --- | --- | --- | --- |
@@ -2004,4 +2015,13 @@
 | 998 | zedge.net |  | 3,900,000 | 210,000,000 |
 | 999 | canalblog.com |  | 3,900,000 | 98,000,000 |
 | 1000 | trialpay.com | Merchant Services, Payment Systems | 3,800,000 | 28,000,000 |
+
+
+As of April 2021, most sites are still online.
+
+Q. **How many % of top 1,000 most visited sites(2010) are using Cloudflare?**
+
+A.
+
+
 
