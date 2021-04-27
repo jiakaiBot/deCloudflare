@@ -1,4 +1,4 @@
-## How to help translate cloudflare-tor
+## How to help translate deCloudflare
 
 
 - "_(en|eo)(|.ethics|.action).md_" are _base files_.
@@ -8,10 +8,11 @@
 
 ### _zz_.md's translation is horrible. How can I fix this?
 
-**Please** do not edit _zz_.md directly. It may be overwritten.
+
+You can edit _zz_.md directly, but it may be overwritten.
 
 
-1. [Fork](http://crimeflare.eu.org/) cloudflare-tor.
+1. [Fork](http://crimeflare.eu.org/) deCloudflare.
 
 2. Copy `/readme/translateData/TEMPLATE.main.tab` to `/readme/translateData/override/zz.main.tab`.
   - cp /readme/translateData/TEMPLATE.main.tab /readme/translateData/override/_zz_.main.tab
@@ -36,7 +37,7 @@
 If you help us, more people around the world who speaks your language can learn about the problems of CloudFlare.
 
 
-### Can I add my name/link/cat pic to translation file as "credit"?
+### Can I add my name/link to translation file as "credit"?
 
 Sure. Tell us about it when creating a pull request.
   - e.g `zz by Your_Name, Other_EditName`
