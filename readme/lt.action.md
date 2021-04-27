@@ -154,7 +154,7 @@ Jei „Cloudflare“ nutekina jūsų informaciją arba neleidžia prisijungti pr
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Norite daugiau klientų? Jūs žinote, ką daryti. Užuomina yra „virš linijos“.
-  - [Sveiki, parašėte „Mes rimtai žiūrime į jūsų privatumą“, bet gavau „Klaida 403 draudžiamas anoniminis tarpinis serveris neleidžiamas“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kodėl blokuojate „Tor Or VPN“? [Ir kodėl blokuojate laikinus el. Laiškus?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Sveiki, parašėte „Mes rimtai žiūrime į jūsų privatumą“, bet gavau „Klaida 403 draudžiamas anoniminis tarpinis serveris neleidžiamas“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kodėl blokuojate „Tor Or VPN“? Ir kodėl blokuojate laikinus el. Laiškus?
 
 ![](../image/anonexist.jpg)
 
