@@ -154,7 +154,7 @@ Om Cloudflare läcker din information eller inte låter dig ansluta till våra s
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Vill du ha fler kunder? Du vet vad som ska göras. Tips är "över linjen".
-  - [Hej, du skrev "Vi tar din integritet på allvar" men jag fick "Fel 403 Förbjuden anonym proxy ej tillåten".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Varför blockerar du Tor eller VPN? [Och varför blockerar du tillfälliga e-postmeddelanden?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Hej, du skrev "Vi tar din integritet på allvar" men jag fick "Fel 403 Förbjuden anonym proxy ej tillåten".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Varför blockerar du Tor eller VPN? Och varför blockerar du tillfälliga e-postmeddelanden?
 
 ![](../image/anonexist.jpg)
 
