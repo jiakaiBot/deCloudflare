@@ -131,7 +131,7 @@
 
 * [这是一些PDF / ePUB可供阅读。](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
