@@ -14,7 +14,8 @@ If you want to create an issue but do not want to create an account you can send
 
 Example:
 ```
-Hello @deCloudflare how are you? blah blah...
+Hello @deCloudflare how are you?
+blah blah...
 ```
 
 Warning: Spam, attack, unrelated-to-this-project messages will be ignored.
