@@ -154,7 +154,7 @@ AFAIK, אתר אפס עשה זאת. האם תסמכו עליהם?
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - רוצים עוד לקוחות? אתה יודע מה לעשות. רמז הוא "מעל קו".
-  - [שלום, כתבת "אנחנו לוקחים את הפרטיות שלך ברצינות" אבל קיבלתי את "שגיאה 403 פרוקסי אנונימי אסור אסור".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) מדוע אתה חוסם את Tor Or VPN? [ולמה אתה חוסם מיילים זמניים?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [שלום, כתבת "אנחנו לוקחים את הפרטיות שלך ברצינות" אבל קיבלתי את "שגיאה 403 פרוקסי אנונימי אסור אסור".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) מדוע אתה חוסם את Tor Or VPN? ולמה אתה חוסם מיילים זמניים?
 
 ![](../image/anonexist.jpg)
 
