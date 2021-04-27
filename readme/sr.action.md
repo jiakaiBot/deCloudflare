@@ -154,7 +154,7 @@ http://crimeflare.eu.org
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Желите више купаца? Знате шта да радите. Наговештај је „изнад црте“.
-  - [Здраво, написали сте „Озбиљно схватамо вашу приватност“, али добио сам „Грешка 403 Забрањени анонимни прокси није дозвољен“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Зашто блокирате Тор или ВПН? [А зашто блокирате привремене имејлове?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Здраво, написали сте „Озбиљно схватамо вашу приватност“, али добио сам „Грешка 403 Забрањени анонимни прокси није дозвољен“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Зашто блокирате Тор или ВПН? А зашто блокирате привремене имејлове?
 
 ![](../image/anonexist.jpg)
 
