@@ -154,7 +154,7 @@ AFAIK ، نۆل تور بېكەت بۇنى قىلىدۇ. ئۇلارغا ئىشى
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - تېخىمۇ كۆپ خېرىدار خالامسىز؟ نېمە قىلىشنى بىلىسىز. بېشارەت «قۇرنىڭ ئۈستىدە».
-  - [ياخشىمۇسىز ، سىز «شەخسىي مەخپىيەتلىكىڭىزگە ئەستايىدىل مۇئامىلە قىلىمىز» دەپ يازدىڭىز ، ئەمما «خاتالىق 403 چەكلەنگەن نامسىز ۋاكالەتچى رۇخسەت قىلىنمىدى».](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) نېمىشقا Tor ياكى VPN نى توسۇۋالىسىز؟ [نېمىشقا ۋاقىتلىق ئېلېكترونلۇق خەتلەرنى توسىسىز؟](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [ياخشىمۇسىز ، سىز «شەخسىي مەخپىيەتلىكىڭىزگە ئەستايىدىل مۇئامىلە قىلىمىز» دەپ يازدىڭىز ، ئەمما «خاتالىق 403 چەكلەنگەن نامسىز ۋاكالەتچى رۇخسەت قىلىنمىدى».](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) نېمىشقا Tor ياكى VPN نى توسۇۋالىسىز؟ نېمىشقا ۋاقىتلىق ئېلېكترونلۇق خەتلەرنى توسىسىز؟
 
 ![](../image/anonexist.jpg)
 
