@@ -129,7 +129,7 @@ To skladišče je seznam spletnih mest, ki stojijo za "Great Cloudwall" in bloki
 
 * [Tukaj je prebrati nekaj PDF / ePUB.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
