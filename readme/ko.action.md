@@ -154,7 +154,7 @@ Cloudflare가 귀하의 정보를 유출하거나 귀하가 당사 서버에 연
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - 더 많은 고객을 원하십니까? 넌 뭘해야 할 지 알 잖아. 힌트는 "선 위"입니다.
-  - [안녕하세요, "우리는 귀하의 개인 정보를 중요하게 생각합니다"라고 썼지 만 "오류 403 금지 된 익명 프록시가 허용되지 않음"이 발생했습니다.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Tor 또는 VPN을 차단하는 이유는 무엇입니까? [임시 이메일을 차단하는 이유는 무엇입니까?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [안녕하세요, "우리는 귀하의 개인 정보를 중요하게 생각합니다"라고 썼지 만 "오류 403 금지 된 익명 프록시가 허용되지 않음"이 발생했습니다.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Tor 또는 VPN을 차단하는 이유는 무엇입니까? 임시 이메일을 차단하는 이유는 무엇입니까?
 
 ![](../image/anonexist.jpg)
 
