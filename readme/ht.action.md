@@ -154,7 +154,7 @@ Si Cloudflare koule enfòmasyon ou oswa ou pa pral kite ou konekte ak serveurs n
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Vle plis kliyan? Ou konnen kisa w dwe fè. Sijesyon se "pi wo a liy".
-  - [Bonjou, ou te ekri "Nou pran vi prive ou oserye" men mwen te resevwa "Erè 403 Entèdi Anonim Proxy pa pèmèt".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Poukisa ou bloke Tor Oswa VPN? [Epi poukisa ou bloke Imèl tanporè?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Bonjou, ou te ekri "Nou pran vi prive ou oserye" men mwen te resevwa "Erè 403 Entèdi Anonim Proxy pa pèmèt".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Poukisa ou bloke Tor Oswa VPN? Epi poukisa ou bloke Imèl tanporè?
 
 ![](../image/anonexist.jpg)
 
