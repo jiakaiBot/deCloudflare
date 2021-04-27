@@ -154,7 +154,7 @@ AFAIK ، وب سایت صفر این کار را انجام می دهد. آیا 
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - مشتری بیشتری می خواهید؟ شما می دانید چه باید بکنید. اشاره "بالای خط" است.
-  - [سلام ، شما نوشتید "ما حریم خصوصی شما را جدی می گیریم" اما من "خطای 403 پروکسی ناشناس ممنوع مجاز نیست" را دریافت کردم.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) چرا Tor یا VPN را مسدود می کنید؟ [و چرا ایمیل های موقت را مسدود می کنید؟](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [سلام ، شما نوشتید "ما حریم خصوصی شما را جدی می گیریم" اما من "خطای 403 پروکسی ناشناس ممنوع مجاز نیست" را دریافت کردم.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) چرا Tor یا VPN را مسدود می کنید؟ و چرا ایمیل های موقت را مسدود می کنید؟
 
 ![](../image/anonexist.jpg)
 
