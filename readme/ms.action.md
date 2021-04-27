@@ -154,7 +154,7 @@ Sekiranya Cloudflare membocorkan maklumat anda atau tidak membenarkan anda menya
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Mahukan lebih ramai pelanggan? Anda tahu apa yang perlu dibuat. Petunjuk adalah "garis atas".
-  - [Helo, anda menulis "Kami memandang serius privasi anda" tetapi saya mendapat "Ralat 403 Proksi Tanpa Nama Dilarang Tidak Dibolehkan".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Mengapa anda menyekat Tor Atau VPN? [Dan mengapa anda menyekat e-mel sementara?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Helo, anda menulis "Kami memandang serius privasi anda" tetapi saya mendapat "Ralat 403 Proksi Tanpa Nama Dilarang Tidak Dibolehkan".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Mengapa anda menyekat Tor Atau VPN? Dan mengapa anda menyekat e-mel sementara?
 
 ![](../image/anonexist.jpg)
 
