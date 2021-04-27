@@ -154,7 +154,7 @@ Hvis Cloudflare lekker informasjonen din eller ikke lar deg koble til serverne v
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Vil du ha flere kunder? Du vet hva du skal gjøre. Hint er "over linjen".
-  - [Hei, du skrev "Vi tar personvernet ditt seriøst", men jeg fikk "Feil 403 Forbidden Anonymous Proxy Not Tillatt".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Hvorfor blokkerer du Tor Or VPN? [Og hvorfor blokkerer du midlertidige e-poster?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Hei, du skrev "Vi tar personvernet ditt seriøst", men jeg fikk "Feil 403 Forbidden Anonymous Proxy Not Tillatt".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Hvorfor blokkerer du Tor Or VPN? Og hvorfor blokkerer du midlertidige e-poster?
 
 ![](../image/anonexist.jpg)
 
