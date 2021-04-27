@@ -154,7 +154,7 @@ Jekk Cloudflare jnixxi l-informazzjoni tiegħek jew ma jħallikx tikkonnettja ma
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Trid aktar klijenti? Int taf x'għandek tagħmel. Ħjiel huwa "fuq il-linja".
-  - [Hello, ktibt "Aħna nieħdu l-privatezza tiegħek bis-serjetà" imma sibt "Żball 403 Projbit Anonimu Projbit Mhux Permess".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Għaliex qed timblokka Tor Jew VPN? [U għaliex qed timblokka emails temporanji?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Hello, ktibt "Aħna nieħdu l-privatezza tiegħek bis-serjetà" imma sibt "Żball 403 Projbit Anonimu Projbit Mhux Permess".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Għaliex qed timblokka Tor Jew VPN? U għaliex qed timblokka emails temporanji?
 
 ![](../image/anonexist.jpg)
 
