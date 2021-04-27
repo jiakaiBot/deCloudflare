@@ -154,7 +154,7 @@ Cloudflareがあなたの情報を漏らしたり、あなたが私たちのサ�
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - より多くの顧客が欲しいですか？ あなたは何をするべきか知っています。 ヒントは「境界線より上」です。
-  - [こんにちは、あなたは「私たちはあなたのプライバシーを真剣に受け止めています」と書きましたが、私は「エラー403 Forbidden Anonymous ProxyNotAllowed」を受け取りました。](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) なぜTorまたはVPNをブロックしているのですか？ [そして、なぜあなたは一時的な電子メールをブロックしているのですか？](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [こんにちは、あなたは「私たちはあなたのプライバシーを真剣に受け止めています」と書きましたが、私は「エラー403 Forbidden Anonymous ProxyNotAllowed」を受け取りました。](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) なぜTorまたはVPNをブロックしているのですか？ そして、なぜあなたは一時的な電子メールをブロックしているのですか？
 
 ![](../image/anonexist.jpg)
 
