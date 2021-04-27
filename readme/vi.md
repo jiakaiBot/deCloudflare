@@ -129,7 +129,7 @@ Kho lưu trữ này là danh sách các trang web đứng sau "Bức tường m�
 
 * [Đây là một số PDF / ePUB để đọc.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
