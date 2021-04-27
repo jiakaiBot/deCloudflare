@@ -154,7 +154,7 @@ Niba Cloudflare imennye amakuru yawe cyangwa ntizakwemerera guhuza na seriveri z
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Urashaka abakiriya benshi? Uzi icyo gukora. Ibitekerezo ni "hejuru y'umurongo".
-  - [Mwaramutse, wanditse ngo "Dufatana uburemere ubuzima bwawe bwite" ariko nabonye "Ikosa 403 Byabujijwe Proxy Anonymous Proxy".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kuki uhagarika Tor Cyangwa VPN? [Kandi kuki uhagarika imeri zigihe gito?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Mwaramutse, wanditse ngo "Dufatana uburemere ubuzima bwawe bwite" ariko nabonye "Ikosa 403 Byabujijwe Proxy Anonymous Proxy".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kuki uhagarika Tor Cyangwa VPN? Kandi kuki uhagarika imeri zigihe gito?
 
 ![](../image/anonexist.jpg)
 
