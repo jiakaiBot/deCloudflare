@@ -154,7 +154,7 @@ AFAIK, ნულოვანი ვებსაიტი ამას აკე�
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - მეტი მომხმარებელი გინდა? თქვენ იცით რა უნდა გააკეთოთ. მინიშნება არის "ხაზის ზემოთ".
-  - [გამარჯობა, თქვენ დაწერეთ "ჩვენ სერიოზულად ვეკიდებით თქვენს კონფიდენციალურობას", მაგრამ მე მივიღე "შეცდომა 403 აკრძალული ანონიმური მარიონეტული არ არის დაშვებული".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) რატომ დაბლოკავთ Tor- ს ან VPN- ს? [და რატომ იბლოკება დროებითი ელ.ფოსტა?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [გამარჯობა, თქვენ დაწერეთ "ჩვენ სერიოზულად ვეკიდებით თქვენს კონფიდენციალურობას", მაგრამ მე მივიღე "შეცდომა 403 აკრძალული ანონიმური მარიონეტული არ არის დაშვებული".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) რატომ დაბლოკავთ Tor- ს ან VPN- ს? და რატომ იბლოკება დროებითი ელ.ფოსტა?
 
 ![](../image/anonexist.jpg)
 
