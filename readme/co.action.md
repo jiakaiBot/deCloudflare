@@ -154,7 +154,7 @@ Se Cloudflare perde e vostre informazioni o ùn vi lascia micca cunnessione à i
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Vulete più clienti? Sapete chì fà. L'indicazione hè "sopra a linea".
-  - [Salutu, avete scrittu "Pigliamu a vostra privacy seriamente" ma aghju "Errore 403 Prohibitu Anonimu Proxy Ùn Permessu".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Perchè blocchi Tor Or VPN? [E perchè bloccate e mail temporanee?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Salutu, avete scrittu "Pigliamu a vostra privacy seriamente" ma aghju "Errore 403 Prohibitu Anonimu Proxy Ùn Permessu".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Perchè blocchi Tor Or VPN? E perchè bloccate e mail temporanee?
 
 ![](../image/anonexist.jpg)
 
