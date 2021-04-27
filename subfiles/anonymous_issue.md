@@ -15,6 +15,10 @@ Example:
 Hello @deCloudflare how are you? blah blah...
 ```
 
+Warning:
+- Spam, attack, unrelated-to-this-project messages will be ignored.
+
+
 3. Wait until you get a _favourite_ from deCloudflare.
 
 4. (Optional) You can now delete your toot or account.
