@@ -154,7 +154,7 @@ Ger Cloudflare agahdariya we diweşîne an nahêle hûn bi serveratên me ve wer
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Zêdetir xerîdar dixwazin? Hûn dizanin çi bikin. Hint "jorê rêzê" ye.
-  - [Silav, we nivîsand "Em nehîniya we cidî digirin" lê min "Çewtiya 403 Nûkerê Anonîm Qedexe Destûr Nabe" girt.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Hûn çima Tor Or VPN asteng dikin? [Why çima hûn e-nameyên demkî asteng dikin?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Silav, we nivîsand "Em nehîniya we cidî digirin" lê min "Çewtiya 403 Nûkerê Anonîm Qedexe Destûr Nabe" girt.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Hûn çima Tor Or VPN asteng dikin? Why çima hûn e-nameyên demkî asteng dikin?
 
 ![](../image/anonexist.jpg)
 
