@@ -154,7 +154,7 @@ Ikiwa Cloudflare inavuja habari yako au haitakuruhusu uunganishe kwenye seva zet
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Unataka wateja zaidi? Unajua cha kufanya. Kidokezo ni "juu ya mstari".
-  - [Halo, uliandika "Tunachukulia faragha yako kwa umakini" lakini nilipata "Kosa 403 Wakala Usiyoruhusiwa Wakala Asiyeruhusiwa".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kwa nini unazuia Tor Au VPN? [Na kwanini unazuia barua pepe za muda mfupi?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Halo, uliandika "Tunachukulia faragha yako kwa umakini" lakini nilipata "Kosa 403 Wakala Usiyoruhusiwa Wakala Asiyeruhusiwa".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kwa nini unazuia Tor Au VPN? Na kwanini unazuia barua pepe za muda mfupi?
 
 ![](../image/anonexist.jpg)
 
