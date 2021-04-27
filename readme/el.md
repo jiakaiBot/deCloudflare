@@ -129,7 +129,7 @@
 
 * [Εδώ μπορείτε να διαβάσετε μερικά PDF / ePUB.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
