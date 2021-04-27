@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-04-27: [Network Performance Issues in Mumbai, India area.](https://www.cloudflarestatus.com/incidents/qqpy816xd2b3)
 - 2021-04-26: [Degraded Performance Issues in Mumbai.](https://www.cloudflarestatus.com/incidents/dkh7j5hb0zsn)
 - 2021-04-26: [Network Performance Issues in Mumbai, India area.](https://www.cloudflarestatus.com/incidents/rqgwbms5kgx9)
 - 2021-04-26: [Increased HTTP 520 Errors](https://www.cloudflarestatus.com/incidents/8sgqpncp8qvy)
