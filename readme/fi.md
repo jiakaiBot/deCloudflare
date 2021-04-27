@@ -129,7 +129,7 @@ Tämä säilytystila on luettelo verkkosivustoista, jotka ovat "Suuren pilvasein
 
 * [Tässä on joitain luettavia PDF / ePUB-tiedostoja.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
