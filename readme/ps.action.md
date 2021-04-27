@@ -154,7 +154,7 @@ AFAIK ، صفر ویب پا thisه دا کار کوي. ایا تاسو به په
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - نور پیرودونکي غواړئ؟ تاسو پوهیږئ چې څه وکړئ. اشاره "د کرښې پورته" ده.
-  - [سلام ، تاسو لیکلي "موږ ستاسو محرمیت جدي نیسو" مګر ما "غلطي 403 منع شوی نامعلوم پراکسي اجازه نلري".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ولې تاسو تور یا VPN بنده کوئ؟ [او ولې موقتي بریښنالیکونه بلاک کوئ؟](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [سلام ، تاسو لیکلي "موږ ستاسو محرمیت جدي نیسو" مګر ما "غلطي 403 منع شوی نامعلوم پراکسي اجازه نلري".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ولې تاسو تور یا VPN بنده کوئ؟ او ولې موقتي بریښنالیکونه بلاک کوئ؟
 
 ![](../image/anonexist.jpg)
 
