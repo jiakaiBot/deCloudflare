@@ -154,7 +154,7 @@ Ma leigeas Cloudflare am fiosrachadh agad a-mach no nach leig e leat ceangal ris
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ag iarraidh barrachd luchd-ceannach? Tha fios agad dè a nì thu. Tha sanas "os cionn na loidhne".
-  - [Halo, sgrìobh thu “Tha sinn a’ toirt aire mhòr do dhìomhaireachd ”ach fhuair mi“ Error 403 Forbidden Anonymous Proxy Not Allowed ”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Carson a tha thu a ’bacadh Tor Or VPN? [Agus carson a tha thu a ’cur bacadh air puist-d sealach?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Halo, sgrìobh thu “Tha sinn a’ toirt aire mhòr do dhìomhaireachd ”ach fhuair mi“ Error 403 Forbidden Anonymous Proxy Not Allowed ”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Carson a tha thu a ’bacadh Tor Or VPN? Agus carson a tha thu a ’cur bacadh air puist-d sealach?
 
 ![](../image/anonexist.jpg)
 
