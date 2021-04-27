@@ -154,7 +154,7 @@ Dacă Cloudflare vă scurge informațiile sau nu vă permite să vă conectați 
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Vrei mai mulți clienți? Știi ce să faci. Sugestia este „deasupra liniei”.
-  - [Bună ziua, ați scris „Vă luăm în serios confidențialitatea”, dar am primit „Eroarea 403 Prohibit Anonim Proxy nu este permis”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) De ce blochezi Tor Or VPN? [Și de ce blocați e-mailurile temporare?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Bună ziua, ați scris „Vă luăm în serios confidențialitatea”, dar am primit „Eroarea 403 Prohibit Anonim Proxy nu este permis”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) De ce blochezi Tor Or VPN? Și de ce blocați e-mailurile temporare?
 
 ![](../image/anonexist.jpg)
 
