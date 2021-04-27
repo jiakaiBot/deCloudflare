@@ -129,7 +129,7 @@
 
 * [Энд PDF / ePUB-г уншина уу.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
