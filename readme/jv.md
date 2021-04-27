@@ -129,7 +129,7 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Great Cloudwal
 
 * [Mangkene sawetara PDF / ePUB supaya bisa diwaca.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
