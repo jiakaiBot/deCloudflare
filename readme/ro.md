@@ -129,7 +129,7 @@ Acest depozit este o listă de site-uri web care se află în spatele „Marelui
 
 * [Iată câteva documente PDF / ePUB pentru citit.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
