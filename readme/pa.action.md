@@ -154,7 +154,7 @@ http://crimeflare.eu.org
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - ਹੋਰ ਗਾਹਕ ਚਾਹੁੰਦੇ ਹੋ? ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਕੀ ਕਰਨਾ ਹੈ. ਸੰਕੇਤ "ਲਾਈਨ ਦੇ ਉੱਪਰ" ਹੈ.
-  - [ਹੈਲੋ, ਤੁਸੀਂ ਲਿਖਿਆ ਹੈ "ਅਸੀਂ ਤੁਹਾਡੀ ਗੋਪਨੀਯਤਾ ਨੂੰ ਗੰਭੀਰਤਾ ਨਾਲ ਲੈਂਦੇ ਹਾਂ" ਪਰ ਮੈਨੂੰ "ਗਲਤੀ 403 ਵਰਜਿਤ ਅਗਿਆਤ ਪਰਾਕਸੀ ਦੀ ਇਜ਼ਾਜ਼ਤ ਨਹੀਂ" ਮਿਲੀ.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ਤੁਸੀਂ ਟੋਰ ਜਾਂ ਵੀਪੀਐਨ ਨੂੰ ਕਿਉਂ ਰੋਕ ਰਹੇ ਹੋ? [ਅਤੇ ਤੁਸੀਂ ਆਰਜ਼ੀ ਈਮੇਲਾਂ ਨੂੰ ਕਿਉਂ ਰੋਕ ਰਹੇ ਹੋ?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [ਹੈਲੋ, ਤੁਸੀਂ ਲਿਖਿਆ ਹੈ "ਅਸੀਂ ਤੁਹਾਡੀ ਗੋਪਨੀਯਤਾ ਨੂੰ ਗੰਭੀਰਤਾ ਨਾਲ ਲੈਂਦੇ ਹਾਂ" ਪਰ ਮੈਨੂੰ "ਗਲਤੀ 403 ਵਰਜਿਤ ਅਗਿਆਤ ਪਰਾਕਸੀ ਦੀ ਇਜ਼ਾਜ਼ਤ ਨਹੀਂ" ਮਿਲੀ.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ਤੁਸੀਂ ਟੋਰ ਜਾਂ ਵੀਪੀਐਨ ਨੂੰ ਕਿਉਂ ਰੋਕ ਰਹੇ ਹੋ? ਅਤੇ ਤੁਸੀਂ ਆਰਜ਼ੀ ਈਮੇਲਾਂ ਨੂੰ ਕਿਉਂ ਰੋਕ ਰਹੇ ਹੋ?
 
 ![](../image/anonexist.jpg)
 
