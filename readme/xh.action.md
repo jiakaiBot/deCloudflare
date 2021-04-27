@@ -154,7 +154,7 @@ Ukuba i-Cloudflare ivuza ulwazi lwakho okanye ayikuvumeli ukuba uqhagamshele kwi
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ngaba ufuna abathengi abaninzi? Uyayazi into omawuyenze. Icebo "lingaphezulu komgca".
-  - [Molo, ubhale "Sithatha imfihlo yakho ngokungathí sina" kodwa ndifumene "Impazamo 403 engavumelekanga iProxy engavumelekanga".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kutheni uvimba iTor Or VPN? [Kwaye kutheni uvimba ii-imeyile zethutyana?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Molo, ubhale "Sithatha imfihlo yakho ngokungathí sina" kodwa ndifumene "Impazamo 403 engavumelekanga iProxy engavumelekanga".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kutheni uvimba iTor Or VPN? Kwaye kutheni uvimba ii-imeyile zethutyana?
 
 ![](../image/anonexist.jpg)
 
