@@ -154,7 +154,7 @@ Inā kulu ʻo Cloudflare i kāu ʻike a ʻaʻole hoʻi e ʻae iā ʻoe e hoʻohu
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Makemake i nā mea kūʻai aku hou aku? ʻIke ʻoe i ka mea e hana ai. ʻO Hint ka "laina ma luna".
-  - [Aloha, ua kākau ʻoe "Lawe mākou i kāu pilikino" akā ua loaʻa iaʻu "Kuʻia 403 Forbidden Anonymous Proxy Not Alllled".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) No ke aha ʻoe e ālai nei iā Tor or VPN? [A no ke aha ʻoe e keʻakeʻa nei i nā leka uila?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Aloha, ua kākau ʻoe "Lawe mākou i kāu pilikino" akā ua loaʻa iaʻu "Kuʻia 403 Forbidden Anonymous Proxy Not Alllled".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) No ke aha ʻoe e ālai nei iā Tor or VPN? A no ke aha ʻoe e keʻakeʻa nei i nā leka uila?
 
 ![](../image/anonexist.jpg)
 
