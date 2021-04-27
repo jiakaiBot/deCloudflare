@@ -154,7 +154,7 @@ AFAIK ، صفر ویب سائٹ یہ کام کرتی ہے۔ کیا آپ ان پ�
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - مزید صارفین چاہتے ہیں؟ آپ جانتے ہیں کہ کیا کرنا ہے۔ اشارہ "اوپر کی لکیر" ہے۔
-  - [ہیلو ، آپ نے "ہم آپ کی رازداری کو سنجیدگی سے لیتے ہیں" لکھا ہے لیکن مجھے "غلطی 403 حرام گمنام پراکسی اجازت نہیں" مل گئی۔](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) آپ ٹور یا وی پی این کو کیوں مسدود کررہے ہیں؟ [اور آپ عارضی ای میل کو کیوں مسدود کررہے ہیں؟](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [ہیلو ، آپ نے "ہم آپ کی رازداری کو سنجیدگی سے لیتے ہیں" لکھا ہے لیکن مجھے "غلطی 403 حرام گمنام پراکسی اجازت نہیں" مل گئی۔](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) آپ ٹور یا وی پی این کو کیوں مسدود کررہے ہیں؟ اور آپ عارضی ای میل کو کیوں مسدود کررہے ہیں؟
 
 ![](../image/anonexist.jpg)
 
