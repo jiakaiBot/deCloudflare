@@ -154,7 +154,7 @@ Raha mamoaka ny mombamomba anao i Cloudflare na tsy mamela anao hifandray amin'i
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Te hanana mpanjifa bebe kokoa? Fantatrao izay hatao. Ny tondro dia "ambony andalana".
-  - [Salama, ianao no nanoratra hoe "Raisinay am-pahatsorana ny fiainanao manokana" fa nahazo "Error 403 Proka tsy fantatra anarana tsy voarara" aho.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Fa maninona no sakananao ny Tor na VPN? [Ary maninona no manakana ny mailaka vonjimaika ianao?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Salama, ianao no nanoratra hoe "Raisinay am-pahatsorana ny fiainanao manokana" fa nahazo "Error 403 Proka tsy fantatra anarana tsy voarara" aho.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Fa maninona no sakananao ny Tor na VPN? Ary maninona no manakana ny mailaka vonjimaika ianao?
 
 ![](../image/anonexist.jpg)
 
