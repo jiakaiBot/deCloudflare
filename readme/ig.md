@@ -129,7 +129,7 @@ Ebe a bụ ndepụta nke weebụsaịtị dị n'azụ "The Great Cloudwall", na
 
 * [Nke a bụ ụfọdụ PDF / ePUB iji gụọ.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
