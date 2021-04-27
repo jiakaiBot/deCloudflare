@@ -129,7 +129,7 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "The Great Cloudwal
 
 * [Hei e puer PDF / ePUB fir ze liesen.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
