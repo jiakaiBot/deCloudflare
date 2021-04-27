@@ -154,7 +154,7 @@ Hvis Cloudflare lækker dine oplysninger eller ikke lader dig oprette forbindels
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Vil du have flere kunder? Du ved hvad du skal gøre. Tip er "over linjen".
-  - [Hej, du skrev "Vi tager dit privatliv alvorligt", men jeg fik "Fejl 403 Forbudt anonym proxy ikke tilladt".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Hvorfor blokerer du Tor eller VPN? [Og hvorfor blokerer du midlertidige e-mails?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Hej, du skrev "Vi tager dit privatliv alvorligt", men jeg fik "Fejl 403 Forbudt anonym proxy ikke tilladt".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Hvorfor blokerer du Tor eller VPN? Og hvorfor blokerer du midlertidige e-mails?
 
 ![](../image/anonexist.jpg)
 
