@@ -1373,6 +1373,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrngHongTuyn1@twitter.com](https://twitter.com/TrngHongTuyn1/status/1383998170615599109) | moral (advertise Cloudflare) |
 | [TrnGing4@twitter.com](https://twitter.com/TrnGing4/status/1377981126396944384) | moral (advertise CloudFlare) |
 | [Trnginh10@twitter.com](https://twitter.com/Trnginh10/status/1378251062927257600) | moral (advertise CloudFlare) |
+| [TrngPhm89696771@twitter.com](https://twitter.com/TrngPhm89696771/status/1387145888053690373) | moral (advertise Cloudflare) |
 | [TrnHngLy18@twitter.com](https://twitter.com/TrnHngLy18/status/1385581701514940417) | moral (advertise Cloudflare) |
 | [TrnMinh79580772@twitter.com](https://twitter.com/TrnMinh79580772/status/1385958792408440838) | moral (advertise Cloudflare) |
 | [trongkimtran@twitter.com](https://twitter.com/trongkimtran/status/1376771803389915136) | moral (advertise CloudFlare) |
