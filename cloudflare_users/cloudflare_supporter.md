@@ -810,6 +810,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mrgaurav77@twitter.com](https://twitter.com/Mrgaurav77/status/1381519817983864832) | moral (advertise Cloudflare) |
 | [Mrkhant30760085@twitter.com](https://twitter.com/Mrkhant30760085/status/1382709425580908546) | moral (advertise Cloudflare) |
 | [MRMGAMERZ1@twitter.com](https://twitter.com/MRMGAMERZ1/status/1384850356396601344) | moral (advertise Cloudflare) |
+| [MrSp0t@twitter.com](https://twitter.com/MrSp0t/status/1386835114705911810) | moral (advertise Cloudflare) |
 | [MrStrangeBD@twitter.com](https://twitter.com/MrStrangeBD/status/1385590266598359042) | moral (advertise Cloudflare) |
 | [Mr_Serius86@twitter.com](https://twitter.com/Mr_Serius86/status/1385063841919225857) | moral (advertise Cloudflare) |
 | [Mr_ThuraSoe@twitter.com](https://twitter.com/Mr_ThuraSoe/status/1382001533592608770) | moral (advertise Cloudflare) |
