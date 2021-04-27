@@ -154,7 +154,7 @@ Haddii Cloudflare ay daadato macluumaadkaaga ama aysan kuu oggolaan doonin inaad
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ma rabtaa macaamiil badan? Waad ogtahay waxa la sameeyo. Tilmaamku waa "khadka sare".
-  - [Waad salaaman tahay, waxaad qortay "Waxaan u qaadaneynaa arimahaaga gaarka ah si dhab ah" laakiin waxaan helay "Error 403 Rexy Anonymous Proxy Lama ogola".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Maxaad u xireysaa Tor Or VPN? [Oo maxaad u xannibaysaa emayllada ku meel gaarka ah?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Waad salaaman tahay, waxaad qortay "Waxaan u qaadaneynaa arimahaaga gaarka ah si dhab ah" laakiin waxaan helay "Error 403 Rexy Anonymous Proxy Lama ogola".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Maxaad u xireysaa Tor Or VPN? Oo maxaad u xannibaysaa emayllada ku meel gaarka ah?
 
 ![](../image/anonexist.jpg)
 
