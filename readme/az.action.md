@@ -154,7 +154,7 @@ Cloudflare məlumatlarınızı sızdırsa və ya serverlərimizə qoşulmağın�
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Daha çox müştəri istəyirsiniz? Sən nə edəcəyini bilirsən. İpucu "yuxarıdakı sətir" dir.
-  - [Salam, "Məxfiliyinizi ciddiyə alırıq" yazmısınız, amma "Səhv 403 Qadağan Anonim Proxy-yə icazə verilmir" yazısını aldım.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Tor Or VPN-i niyə bloklayırsınız? [Və niyə müvəqqəti e-poçtları bloklayırsınız?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Salam, "Məxfiliyinizi ciddiyə alırıq" yazmısınız, amma "Səhv 403 Qadağan Anonim Proxy-yə icazə verilmir" yazısını aldım.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Tor Or VPN-i niyə bloklayırsınız? Və niyə müvəqqəti e-poçtları bloklayırsınız?
 
 ![](../image/anonexist.jpg)
 
