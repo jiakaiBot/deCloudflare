@@ -154,7 +154,7 @@ Prav tako se strinjate, da boste svoje podatke delili z Cloudflare in se strinja
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Želite več strank? Veš kaj storiti. Namig je "nad črto".
-  - [Pozdravljeni, napisali ste »Vašo zasebnost jemljemo resno«, vendar sem dobil »Napaka 403 Prepovedani anonimni posredniški strežnik ni dovoljen«.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Zakaj blokirate Tor ali VPN? [In zakaj blokirate začasna e-poštna sporočila?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Pozdravljeni, napisali ste »Vašo zasebnost jemljemo resno«, vendar sem dobil »Napaka 403 Prepovedani anonimni posredniški strežnik ni dovoljen«.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Zakaj blokirate Tor ali VPN? In zakaj blokirate začasna e-poštna sporočila?
 
 ![](../image/anonexist.jpg)
 
