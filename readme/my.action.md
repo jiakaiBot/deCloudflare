@@ -154,7 +154,7 @@ Cloudflare သည်သင်၏သတင်းအချက်အလက်မျ
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - ဖောက်သည်များထပ်လိုချင်ပါသလား။ ဘာလုပ်ရမှန်းမသိဘူး အရိပ်အမြွက်သည် "အထက်မျဉ်း" ဖြစ်သည်။
-  - [မင်္ဂလာပါ၊ သင်သည်သင်၏ပုဂ္ဂိုလ်ရေးလုံခြုံမှုကိုအလေးအနက်ထားသည်ဟုသင်ရေးသားခဲ့သော်လည်းကျွန်ုပ်သည် "Error 403 Forbidden Anonymous Proxy Not Allowed" ရရှိခဲ့သည်။](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ဘာလို့ Tor or VPN ကိုဘာကြောင့်ပိတ်ဆို့တာလဲ [အဘယ်ကြောင့်သင်ယာယီအီးမေးလ်များကိုပိတ်ဆို့ထားသနည်း](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [မင်္ဂလာပါ၊ သင်သည်သင်၏ပုဂ္ဂိုလ်ရေးလုံခြုံမှုကိုအလေးအနက်ထားသည်ဟုသင်ရေးသားခဲ့သော်လည်းကျွန်ုပ်သည် "Error 403 Forbidden Anonymous Proxy Not Allowed" ရရှိခဲ့သည်။](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) ဘာလို့ Tor or VPN ကိုဘာကြောင့်ပိတ်ဆို့တာလဲ အဘယ်ကြောင့်သင်ယာယီအီးမေးလ်များကိုပိတ်ဆို့ထားသနည်း
 
 ![](../image/anonexist.jpg)
 
