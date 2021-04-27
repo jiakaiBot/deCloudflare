@@ -154,7 +154,7 @@ AFAIK, nol web sahypasy muny edýär. Olara ynanarsyňyzmy?
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Has köp müşderi isleýärsiňizmi? Näme etmelidigiňizi bilýärsiňiz. Maslahat "ýokarda".
-  - [Salam, "Şahsy durmuşyňyza çynlakaý çemeleşýäris" diýip ýazdyňyz, ýöne "403 Error 403 Gadagan Anonim Proksi rugsat berilmedi" aldym.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Näme üçin Tor ýa-da VPN-i bloklaýarsyňyz? [Näme üçin wagtlaýyn e-poçtalary petikleýärsiňiz?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Salam, "Şahsy durmuşyňyza çynlakaý çemeleşýäris" diýip ýazdyňyz, ýöne "403 Error 403 Gadagan Anonim Proksi rugsat berilmedi" aldym.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Näme üçin Tor ýa-da VPN-i bloklaýarsyňyz? Näme üçin wagtlaýyn e-poçtalary petikleýärsiňiz?
 
 ![](../image/anonexist.jpg)
 
