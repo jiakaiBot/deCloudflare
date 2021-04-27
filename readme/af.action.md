@@ -154,7 +154,7 @@ As Cloudflare u inligting lek of u nie toelaat om met ons bedieners te verbind n
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Wil u meer klante hê? Jy weet wat om te doen. Wenk is "bo lyn".
-  - [Hallo, u het geskryf "Ons neem u privaatheid ernstig op", maar ek het "Fout 403 Verbode anonieme volmag nie toegelaat nie".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Waarom blokkeer jy Tor Or VPN? [En waarom blokkeer u tydelike e-pos?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Hallo, u het geskryf "Ons neem u privaatheid ernstig op", maar ek het "Fout 403 Verbode anonieme volmag nie toegelaat nie".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Waarom blokkeer jy Tor Or VPN? En waarom blokkeer u tydelike e-pos?
 
 ![](../image/anonexist.jpg)
 
