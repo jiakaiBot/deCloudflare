@@ -154,7 +154,7 @@ AFAIK, μηδενικός ιστότοπος το κάνει αυτό. Θα το
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Θέλετε περισσότερους πελάτες; Ξέρετε τι πρέπει να κάνετε. Η υπόδειξη είναι "πάνω από τη γραμμή".
-  - [Γεια σας, γράψατε "Λαμβάνουμε σοβαρά υπόψη το απόρρητό σας", αλλά έχω "Σφάλμα 403 Απαγορευμένο ανώνυμο πληρεξούσιο"](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Γιατί αποκλείετε το Tor Or VPN; [Και γιατί αποκλείετε προσωρινά μηνύματα ηλεκτρονικού ταχυδρομείου;](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Γεια σας, γράψατε "Λαμβάνουμε σοβαρά υπόψη το απόρρητό σας", αλλά έχω "Σφάλμα 403 Απαγορευμένο ανώνυμο πληρεξούσιο"](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Γιατί αποκλείετε το Tor Or VPN; Και γιατί αποκλείετε προσωρινά μηνύματα ηλεκτρονικού ταχυδρομείου;
 
 ![](../image/anonexist.jpg)
 
