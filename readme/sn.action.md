@@ -154,7 +154,7 @@ Kana Cloudflare ichiburitsa ruzivo rwako kana isingakuregi iwe ubatanidze kumase
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Unoda vamwe vatengi? Unoziva zvekuita. Hint iri "pamusoro pemutsara".
-  - [Mhoroi, iwe wakanyora "Tinotora zvakavanzika zvako zvakanyanya" asi ini ndakawana "Kanganiso 403 Yakarambidzwa Anosazivikanwa Proxy Haibvumirwe".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Sei uchivharira Tor Kana VPN? [Uye nei uchivharira maemail enguva pfupi?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Mhoroi, iwe wakanyora "Tinotora zvakavanzika zvako zvakanyanya" asi ini ndakawana "Kanganiso 403 Yakarambidzwa Anosazivikanwa Proxy Haibvumirwe".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Sei uchivharira Tor Kana VPN? Uye nei uchivharira maemail enguva pfupi?
 
 ![](../image/anonexist.jpg)
 
