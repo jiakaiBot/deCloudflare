@@ -154,7 +154,7 @@ http://crimeflare.eu.org
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - {%actnl0043%} {%actnl0047%} {%actnl0048%}
-  - [{%actnl0100%}](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) {%actnl0101%} [{%actnl0102%}](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [{%actnl0100%}](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) {%actnl0101%} {%actnl0102%}
 
 ![](../image/anonexist.jpg)
 
