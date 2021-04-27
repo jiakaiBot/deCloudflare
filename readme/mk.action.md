@@ -154,7 +154,7 @@ Cloudflare имаат своја политика за приватност.
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Сакате повеќе клиенти? Знаете што да правите. Совет е „над линијата“.
-  - [Здраво, напишавте „Ние сериозно ја сфаќаме вашата приватност“, но добив „Грешка 403 Забранетиот анонимен прокси не е дозволен“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Зошто го блокирате Tor Or VPN? [И зошто блокирате привремени е-пошта?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Здраво, напишавте „Ние сериозно ја сфаќаме вашата приватност“, но добив „Грешка 403 Забранетиот анонимен прокси не е дозволен“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Зошто го блокирате Tor Or VPN? И зошто блокирате привремени е-пошта?
 
 ![](../image/anonexist.jpg)
 
