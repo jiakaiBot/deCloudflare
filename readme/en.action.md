@@ -153,7 +153,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Want more customers? You know what to do. Hint is "above line".
-  - [Hello, you wrote "We take your privacy seriously" but I got "Error 403 Forbidden Anonymous Proxy Not Allowed".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Why are you blocking Tor Or VPN? [And why are you blocking temporary emails?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Hello, you wrote "We take your privacy seriously" but I got "Error 403 Forbidden Anonymous Proxy Not Allowed".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Why are you blocking Tor Or VPN? And why are you blocking temporary emails?
 
 ![](../image/anonexist.jpg)
 
