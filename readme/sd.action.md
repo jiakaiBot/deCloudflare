@@ -154,7 +154,7 @@ AFAIK ، صفر ويب سائيٽ هي ڪر. ڇا توهان انهن تي اع�
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - وڌيڪ گراهڪن چاهيو؟ توهان کي خبر آهي ته ڇا ڪرڻو آهي. اشارو ”مٿان لڪير“ آهي.
-  - [هيلو ، توهان لکيو ”اسان توهان جي رازداري کي سنجيده وٺون ٿا“ پر مون کي ”غلطي 403 منع ٿيل گمنام پراکسي جي اجازت ناهي“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) توهان ٽور يا وي پي اين کي ڇو بلاڪ ڪري رهيا آهيو؟ [۽ توهان عارضي اي ميلن کي ڇو بلاڪ ڪري رهيا آهيو؟](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [هيلو ، توهان لکيو ”اسان توهان جي رازداري کي سنجيده وٺون ٿا“ پر مون کي ”غلطي 403 منع ٿيل گمنام پراکسي جي اجازت ناهي“.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) توهان ٽور يا وي پي اين کي ڇو بلاڪ ڪري رهيا آهيو؟ ۽ توهان عارضي اي ميلن کي ڇو بلاڪ ڪري رهيا آهيو؟
 
 ![](../image/anonexist.jpg)
 
