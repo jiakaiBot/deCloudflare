@@ -154,7 +154,7 @@ Cloudflare-k zure informazioa filtratzen badu edo gure zerbitzariekin konektatze
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Bezero gehiago nahi al dituzu? Badakizu zer egin. Iradokizuna "lerroaren gainetik" dago.
-  - [Kaixo, "Zure pribatutasuna seriotasunez hartzen dugu" idatzi duzu, baina "403 Errorea debekatutako proxy anonimoak ez dira onartzen" jaso dut.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Zergatik blokeatzen duzu Tor Or VPN? [Eta zergatik blokeatzen dituzu aldi baterako mezu elektronikoak?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Kaixo, "Zure pribatutasuna seriotasunez hartzen dugu" idatzi duzu, baina "403 Errorea debekatutako proxy anonimoak ez dira onartzen" jaso dut.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Zergatik blokeatzen duzu Tor Or VPN? Eta zergatik blokeatzen dituzu aldi baterako mezu elektronikoak?
 
 ![](../image/anonexist.jpg)
 
