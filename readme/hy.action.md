@@ -154,7 +154,7 @@ AFAIK, զրո կայք դա անում է: Կվստահե՞ք նրանց:
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Moreանկանում եք ավելի շատ հաճախորդներ Գիտեք ինչ անել: Ակնարկը «գծից վեր է»:
-  - [Ողջույն, դուք գրել եք «Մենք լուրջ ենք վերաբերվում ձեր գաղտնիությանը», բայց ես ստացել եմ «Սխալ 403 արգելված անանուն վստահված անձը չի թույլատրվում»:](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Ինչու եք արգելափակում Tor Or VPN- ը: [Եվ ինչու՞ եք արգելափակում ժամանակավոր նամակները:](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Ողջույն, դուք գրել եք «Մենք լուրջ ենք վերաբերվում ձեր գաղտնիությանը», բայց ես ստացել եմ «Սխալ 403 արգելված անանուն վստահված անձը չի թույլատրվում»:](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Ինչու եք արգելափակում Tor Or VPN- ը: Եվ ինչու՞ եք արգելափակում ժամանակավոր նամակները:
 
 ![](../image/anonexist.jpg)
 
