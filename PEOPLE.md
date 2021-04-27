@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- fix your god damn servers and cloudflare, the captcha wasn't working, your site always gets DDoSed, just do something, the UX is worse than central banking ([aiautodidactic](https://twitter.com/AiAutodidactic/status/1387031299693625348))
 - Odio cuando Cloudflare te impide acceder a un sitio, ya sea porque estás usando VPN o TOR ([backmota](https://twitter.com/backmota/status/1386388715824553986))
 - Wenn du was anonymes machen willst, dann schützt du deinen Server mit NGINX Konfigurationen nach außen und exposed ihn über TOR. Cloudflare kannst du vergessen, falls du etwas im Cleanweb machen willst :D Da hat sogar die deutsche Polizei eine Auskunftmöglichkeit ([garkolym](https://twitter.com/garkolym/status/1386286682417287170))
 - I have no idea how both & are down at the same time, while the Canva website shows that service is unavailable, in the case of Crello I see Error 520 from 😓 ([jayadityaproto](https://twitter.com/jayadityaproto/status/1386655528349171717))
