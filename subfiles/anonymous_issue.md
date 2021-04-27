@@ -10,7 +10,7 @@ If you want to create an issue but do not want to create an account you can send
 
 1. Create or Login to any Mastodon account.
 
-2. Just send a message to [this deCloudflare account](https://mamot.fr/@deCloudflare).
+2. Just send a public/private/direct message to [this deCloudflare account](https://mamot.fr/@deCloudflare).
 
 Example:
 ```
