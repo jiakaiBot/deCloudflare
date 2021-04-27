@@ -154,7 +154,7 @@ Si Cloudflare divulgue vos informations ou ne vous permet pas de vous connecter 
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Vous voulez plus de clients? Vous savez ce qu'il faut faire. L'indice est "au-dessus de la ligne".
-  - [Bonjour, vous avez écrit "Nous prenons votre vie privée au sérieux" mais j'ai eu "Erreur 403 Proxy anonyme interdit non autorisé".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Pourquoi bloquez-vous Tor ou VPN? [Et pourquoi bloquez-vous les e-mails temporaires?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Bonjour, vous avez écrit "Nous prenons votre vie privée au sérieux" mais j'ai eu "Erreur 403 Proxy anonyme interdit non autorisé".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Pourquoi bloquez-vous Tor ou VPN? Et pourquoi bloquez-vous les e-mails temporaires?
 
 ![](../image/anonexist.jpg)
 
