@@ -154,7 +154,7 @@ Os yw Cloudflare yn gollwng eich gwybodaeth neu na fydd yn gadael ichi gysylltu 
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Am gael mwy o gwsmeriaid? Rydych chi'n gwybod beth i'w wneud. Mae awgrym "uwchben y llinell".
-  - [Helo, fe ysgrifennoch chi "Rydyn ni'n cymryd eich preifatrwydd o ddifrif" ond cefais "Gwall 403 Dirprwy Dirprwy Dienw Heb ei Ganiatáu".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Pam ydych chi'n blocio Tor Neu VPN? [A pham ydych chi'n blocio e-byst dros dro?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Helo, fe ysgrifennoch chi "Rydyn ni'n cymryd eich preifatrwydd o ddifrif" ond cefais "Gwall 403 Dirprwy Dirprwy Dienw Heb ei Ganiatáu".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Pam ydych chi'n blocio Tor Neu VPN? A pham ydych chi'n blocio e-byst dros dro?
 
 ![](../image/anonexist.jpg)
 
