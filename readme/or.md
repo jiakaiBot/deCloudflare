@@ -129,7 +129,7 @@
 
 * [ପ read ିବାକୁ ଏଠାରେ କିଛି PDF / ePUB ଅଛି |](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
