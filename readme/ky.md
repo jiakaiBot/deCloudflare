@@ -129,7 +129,7 @@
 
 * [Бул жерде окуу үчүн бир нече PDF / ePUB бар.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
