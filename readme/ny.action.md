@@ -154,7 +154,7 @@ Ngati Cloudflare atulutsa zambiri zanu kapena sangakuloleni kuti mulumikizane nd
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Mukufuna makasitomala ambiri? Mukudziwa choti muchite. Malangizo ndi "pamwambapa".
-  - [Moni, mudalemba kuti "Timatenga chinsinsi chanu mozama" koma ndidapeza "Zolakwitsa 403 Proxy Yoletsedwa Osadziwika Osaloledwa".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Chifukwa chiyani muletsa Tor Or VPN? [Ndipo bwanji mukutseka maimelo osakhalitsa?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Moni, mudalemba kuti "Timatenga chinsinsi chanu mozama" koma ndidapeza "Zolakwitsa 403 Proxy Yoletsedwa Osadziwika Osaloledwa".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Chifukwa chiyani muletsa Tor Or VPN? Ndipo bwanji mukutseka maimelo osakhalitsa?
 
 ![](../image/anonexist.jpg)
 
