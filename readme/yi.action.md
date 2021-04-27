@@ -154,7 +154,7 @@ AFAIK, נול וועבזייטל טאָן דאָס. וועט איר צוטרוי
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - וועלן מער קאַסטאַמערז? איר וויסן וואָס צו טאָן. אָנצוהערעניש איז "אויבן שורה".
-  - [העלא, איר האָט געשריבן "מיר נעמען דיין פּריוואַטקייט עמעס" אָבער איך גאַט "טעות 403 פאַרבאָטן אַנאָנימע באַנוצערס פּראַקסי ניט ערלויבט".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) פארוואס בלאקירט איר Tor Or VPN? [און פארוואס בלאקירט איר צייטווייליגע אימעילס?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [העלא, איר האָט געשריבן "מיר נעמען דיין פּריוואַטקייט עמעס" אָבער איך גאַט "טעות 403 פאַרבאָטן אַנאָנימע באַנוצערס פּראַקסי ניט ערלויבט".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) פארוואס בלאקירט איר Tor Or VPN? און פארוואס בלאקירט איר צייטווייליגע אימעילס?
 
 ![](../image/anonexist.jpg)
 
