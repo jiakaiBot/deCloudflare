@@ -131,7 +131,7 @@
 
 * [در اینجا چند PDF / ePUB برای خواندن آورده شده است.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
