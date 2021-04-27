@@ -154,7 +154,7 @@ Ti Cloudflare jo alaye rẹ tabi kii yoo jẹ ki o sopọ si awọn olupin wa, k
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ṣe o fẹ awọn alabara diẹ sii? O mọ kini lati ṣe. Ofiri ni "ila laini".
-  - [Kaabo, o kọwe “A gba ikọkọ rẹ ni isẹ” ṣugbọn Mo ni “Aṣiṣe 403 Alailowaya aṣoju alailorukọ ti a ko gba laaye”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kini idi ti o fi n dina Tor Tabi VPN? [Ati pe kilode ti o fi npa awọn imeeli igba diẹ?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Kaabo, o kọwe “A gba ikọkọ rẹ ni isẹ” ṣugbọn Mo ni “Aṣiṣe 403 Alailowaya aṣoju alailorukọ ti a ko gba laaye”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Kini idi ti o fi n dina Tor Tabi VPN? Ati pe kilode ti o fi npa awọn imeeli igba diẹ?
 
 ![](../image/anonexist.jpg)
 
