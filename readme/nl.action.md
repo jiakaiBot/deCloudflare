@@ -154,7 +154,7 @@ Als Cloudflare uw informatie lekt of u geen verbinding met onze servers laat mak
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Wilt u meer klanten? Je weet wat je moet doen. Hint is "boven regel".
-  - [Hallo, je schreef "We nemen je privacy serieus", maar ik kreeg "Fout 403 Verboden anonieme proxy niet toegestaan".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Waarom blokkeer je Tor of VPN? [En waarom blokkeer je tijdelijke e-mails?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Hallo, je schreef "We nemen je privacy serieus", maar ik kreeg "Fout 403 Verboden anonieme proxy niet toegestaan".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Waarom blokkeer je Tor of VPN? En waarom blokkeer je tijdelijke e-mails?
 
 ![](../image/anonexist.jpg)
 
