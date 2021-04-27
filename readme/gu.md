@@ -129,7 +129,7 @@
 
 * [વાંચવા માટે અહીં કેટલીક પીડીએફ / ઇપબ છે.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
