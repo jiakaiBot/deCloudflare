@@ -129,7 +129,7 @@ To repozytorium to lista stron internetowych, które stoją za „Wielką zapor�
 
 * [Oto kilka plików PDF / ePUB do przeczytania.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
