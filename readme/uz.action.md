@@ -154,7 +154,7 @@ Agar Cloudflare sizning ma'lumotlaringizni oshkor qilsa yoki bizning serverlarim
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ko'proq mijozlarni xohlaysizmi? Siz nima qilishni bilasiz. Maslahat "yuqoridagi satr" dir.
-  - [Salom, siz "Biz sizning shaxsiy hayotingizga jiddiy yondashamiz" deb yozgan edingiz, lekin menda "Xato 403 Taqiqlangan Anonim proksi-serverga ruxsat berilmagan" bor.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Nima uchun Tor yoki VPN-ni bloklayapsiz? [Va nega vaqtinchalik elektron pochta xabarlarini bloklamoqdasiz?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Salom, siz "Biz sizning shaxsiy hayotingizga jiddiy yondashamiz" deb yozgan edingiz, lekin menda "Xato 403 Taqiqlangan Anonim proksi-serverga ruxsat berilmagan" bor.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Nima uchun Tor yoki VPN-ni bloklayapsiz? Va nega vaqtinchalik elektron pochta xabarlarini bloklamoqdasiz?
 
 ![](../image/anonexist.jpg)
 
