@@ -154,7 +154,7 @@ Cloudflare bilgilerinizi sızdırırsa veya sunucularımıza bağlanmanıza izin
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Daha fazla müşteri mi istiyorsunuz? Ne yapacağını biliyorsun. İpucu "çizginin üstünde" dir.
-  - [Merhaba, "Gizliliğinizi ciddiye alıyoruz" yazdınız ama "403 Yasaklı Anonim Proxy'ye İzin Verilmiyor" hatası aldım.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Tor veya VPN'i neden engelliyorsunuz? [Ve neden geçici e-postaları engelliyorsunuz?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Merhaba, "Gizliliğinizi ciddiye alıyoruz" yazdınız ama "403 Yasaklı Anonim Proxy'ye İzin Verilmiyor" hatası aldım.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Tor veya VPN'i neden engelliyorsunuz? Ve neden geçici e-postaları engelliyorsunuz?
 
 ![](../image/anonexist.jpg)
 
