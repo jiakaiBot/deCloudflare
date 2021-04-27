@@ -129,7 +129,7 @@
 
 * [Ось деякі PDF / ePUB для читання.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
