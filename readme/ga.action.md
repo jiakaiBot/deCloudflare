@@ -154,7 +154,7 @@ Má sceitheann Cloudflare do chuid faisnéise nó mura ligfidh sé duit ceangal 
 | ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Ag iarraidh níos mó custaiméirí? Tá a fhios agat cad atá le déanamh. Tá leid "os cionn na líne".
-  - [Dia duit, scríobh tú “Glacaimid go dáiríre le do phríobháideacht” ach fuair mé “Earráid 403 Proxy Toirmiscthe Gan Ainm Gan Cead”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Cén fáth a bhfuil tú ag cur bac ar Tor Nó VPN? [Agus cén fáth a bhfuil tú ag cur bac ar ríomhphoist shealadacha?](http://523kpawzkarw3j6afz2elxfs4h3hfclomkcmbjs6kaimo4lokympi6yd.onion/)
+  - [Dia duit, scríobh tú “Glacaimid go dáiríre le do phríobháideacht” ach fuair mé “Earráid 403 Proxy Toirmiscthe Gan Ainm Gan Cead”.](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Cén fáth a bhfuil tú ag cur bac ar Tor Nó VPN? Agus cén fáth a bhfuil tú ag cur bac ar ríomhphoist shealadacha?
 
 ![](../image/anonexist.jpg)
 
