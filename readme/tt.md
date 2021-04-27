@@ -129,7 +129,7 @@
 
 * [Менә берничә PDF / ePUB укырга.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
