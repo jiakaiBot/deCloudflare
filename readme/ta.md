@@ -129,7 +129,7 @@
 
 * [படிக்க சில PDF / ePUB இங்கே.](../pdf/)
 
-* [Help translate cloudflare-tor](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/instructions.md)
 
 
 ---
