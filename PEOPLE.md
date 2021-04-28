@@ -457,6 +457,13 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Your website is problematic players have been receiving continuous cloudflare error for 6 days. Naturally, staking revenues have dropped, please correct it immediately. $win ([rsr_king_](https://twitter.com/rsr_king_/status/1387152030083559428))
+- Thats great and all but the site doesn't work on multiple browsers. Cloudflare handshake issues or site wont load. If it does give all sorts of error messages and windrops doesn't load. Anyone got solutions? ([chillyslacker](https://twitter.com/chillyslacker/status/1387042065540816908))
+- our customers are experiencing 520 error pages for apps on heroku proxied by cloudflare. Any know issues on your end currently? ([mrtn_jacobs](https://twitter.com/Mrtn_Jacobs/status/1386596933846831107))
+- garbage user experience, got DDoSed, captcha from cloudflare wasn't working, site down, countless users unhappy and angry, pool was filed when it started working and you call that a success? ([aiautodidactic](https://twitter.com/AiAutodidactic/status/1387033167106822144))
+- Yep, it’s in latest version. Have already submitted my feedback with debug information. Many users face same problem you can see that in Indian App Store feedback comments ([aravindanp11](https://twitter.com/AravindanP11/status/1387100472931016705))
+- If you don't give a way to unsubscribe from your "SERVICE-RELATED EMAIL", I'm gonna send all your emails to a black hole and no one will be happy. ([diffalot](https://twitter.com/diffalot/status/1387097165835640835))
+- I filed out that form over a month ago and never heard back. Grr ([jzone90](https://twitter.com/jzone90/status/1387073756632272897))
 - fix your god damn servers and cloudflare, the captcha wasn't working, your site always gets DDoSed, just do something, the UX is worse than central banking ([aiautodidactic](https://twitter.com/AiAutodidactic/status/1387031299693625348))
 - Odio cuando Cloudflare te impide acceder a un sitio, ya sea porque estás usando VPN o TOR ([backmota](https://twitter.com/backmota/status/1386388715824553986))
 - Wenn du was anonymes machen willst, dann schützt du deinen Server mit NGINX Konfigurationen nach außen und exposed ihn über TOR. Cloudflare kannst du vergessen, falls du etwas im Cleanweb machen willst :D Da hat sogar die deutsche Polizei eine Auskunftmöglichkeit ([garkolym](https://twitter.com/garkolym/status/1386286682417287170))
