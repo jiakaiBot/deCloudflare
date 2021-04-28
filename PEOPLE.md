@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I'm sure you probably know about this already. But any eta on when the forums will be up again? Keep getting cloudflare error 522 ([roboboit](https://twitter.com/RoboBoit/status/1387465321276006402))
 - Your website is problematic players have been receiving continuous cloudflare error for 6 days. Naturally, staking revenues have dropped, please correct it immediately. $win ([rsr_king_](https://twitter.com/rsr_king_/status/1387152030083559428))
 - Thats great and all but the site doesn't work on multiple browsers. Cloudflare handshake issues or site wont load. If it does give all sorts of error messages and windrops doesn't load. Anyone got solutions? ([chillyslacker](https://twitter.com/chillyslacker/status/1387042065540816908))
 - our customers are experiencing 520 error pages for apps on heroku proxied by cloudflare. Any know issues on your end currently? ([mrtn_jacobs](https://twitter.com/Mrtn_Jacobs/status/1386596933846831107))
