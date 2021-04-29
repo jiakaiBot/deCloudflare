@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- FYI, page rules aren't updating. Specifically, 'cache everything' rules. I activate for a new part of my site: caching says 'DYNAMIC'. I deactivate a page rule already in place and then purge... I keep getting 'HIT' after it's done the initial pull. ([unclejaysus](https://twitter.com/UncleJaysus/status/1387803731245285378))
 - hi, I can't access my and other .rbind.io websites (error 526 - Frankfurt server and other € cities as well. Less intense problem in the USA), but the certificate seems to be up to date. ([aindinoise](https://twitter.com/aindinoise/status/1387713418036228097))
 - Apparently their really really crappy "Parental Controls" which don't stay disabled when you disable them, are DNS based. So I've just gone back to sitting on the VPN all the time... Apparently it's not smart enough to cock-block my VPN traffic (Thankfully) ([wild1145](https://twitter.com/Wild1145/status/1387508531167956992))
 - I'm sure you probably know about this already. But any eta on when the forums will be up again? Keep getting cloudflare error 522 ([roboboit](https://twitter.com/RoboBoit/status/1387465321276006402))
