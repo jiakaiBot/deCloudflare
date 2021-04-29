@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-04-29: [Network Performance Issues in Bogotá and Medellín](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6xd7zv5hl5ww)
 - 2021-04-29: [Page Rule Propagation Delay](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/m8ktfvkknbq9)
 - 2021-04-28: [Initial Load Balancing Purchases showing error](https://www.cloudflarestatus.com/incidents/dmky9xqtt2fj)
 - 2021-04-28: [Distributed Web Gateway](https://www.cloudflarestatus.com/incidents/c3nxskjd4ypm)
