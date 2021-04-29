@@ -309,6 +309,7 @@ Do not create new issue or we will close it as duplicate.
 | [CreeperpowerS@twitter.com](https://twitter.com/CreeperpowerS/status/1370279626443001861) | moral (advertise CloudFlare) |
 | [crosiderr@twitter.com](https://twitter.com/crosiderr/status/1379494464545243136) | moral (advertise Cloudflare) |
 | [crxckyt@twitter.com](https://twitter.com/crxckyt/status/1385437055799418882) | moral (advertise Cloudflare) |
+| [Crypto202014@twitter.com](https://twitter.com/Crypto202014/status/1387859463168659457) | moral (advertise Cloudflare) |
 | [CryptoRishabh@twitter.com](https://twitter.com/CryptoRishabh/status/1373489721876213762) | moral (advertise CloudFlare) |
 | [cu23806218@twitter.com](https://twitter.com/cu23806218/status/1380930066876534784) | moral (advertise Cloudflare) |
 | [cubdomain@twitter.com](https://twitter.com/cubdomain/status/1369941924308656128) | moral (advertise CloudFlare) |
@@ -440,6 +441,7 @@ Do not create new issue or we will close it as duplicate.
 | [Gaurav33875221@twitter.com](https://twitter.com/Gaurav33875221/status/1387072373430521865) | moral (advertise Cloudflare) |
 | [gemstoneslover@twitter.com](https://twitter.com/gemstoneslover/status/1376813245416173571) | moral (advertise CloudFlare) |
 | [GeneralGosu@twitter.com](https://twitter.com/GeneralGosu/status/1387508776429780993) | moral (advertise Cloudflare) |
+| [Gggaaaaa5@twitter.com](https://twitter.com/Gggaaaaa5/status/1387836659631202304) | moral (advertise Cloudflare) |
 | [ghilani_ahmed@twitter.com](https://twitter.com/ghilani_ahmed/status/1378273270873657345) | moral (advertise CloudFlare) |
 | [GhostOfATown@twitter.com](https://twitter.com/GhostOfATown/status/1370596077007732737) | moral (advertise CloudFlare) |
 | [GhulamJaved@twitter.com](https://twitter.com/GhulamJaved/status/1380050148135378944) | moral (advertise Cloudflare) |
