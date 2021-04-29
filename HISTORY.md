@@ -6,10 +6,7 @@ Here's Cloudflare incidents.
 
 
 - 2021-04-29: [Network Performance Issues in Bogotá and Medellín](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6xd7zv5hl5ww)
-- 2021-04-29: [Page Rule Propagation Delay](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/m8ktfvkknbq9)
-- 2021-04-28: [Initial Load Balancing Purchases showing error](https://www.cloudflarestatus.com/incidents/dmky9xqtt2fj)
 - 2021-04-28: [Distributed Web Gateway](https://www.cloudflarestatus.com/incidents/c3nxskjd4ypm)
-- 2021-04-28: [IP Geolocation Inaccuracies](https://www.cloudflarestatus.com/incidents/k51w2868d8hz)
 - 2021-04-28: [Network Performance Issues in São Paulo and Rio de Janeiro](https://www.cloudflarestatus.com/incidents/wrmr2jpcfc6l)
 - 2021-04-27: [Network Performance Issues in Mumbai, India area.](https://www.cloudflarestatus.com/incidents/qqpy816xd2b3)
 - 2021-04-26: [Degraded Performance Issues in Mumbai.](https://www.cloudflarestatus.com/incidents/dkh7j5hb0zsn)
