@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-04-30: [Distributed Web Gateway Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wvnbyw9vc2ft)
 - 2021-04-29: [Network Performance Issues in Bogotá and Medellín](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6xd7zv5hl5ww)
 - 2021-04-28: [Distributed Web Gateway](https://www.cloudflarestatus.com/incidents/c3nxskjd4ypm)
 - 2021-04-28: [Network Performance Issues in São Paulo and Rio de Janeiro](https://www.cloudflarestatus.com/incidents/wrmr2jpcfc6l)
