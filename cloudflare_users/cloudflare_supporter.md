@@ -152,8 +152,10 @@ Do not create new issue or we will close it as duplicate.
 | [armininjast@twitter.com](https://twitter.com/armininjast/status/1378059899234619401) | moral (advertise CloudFlare) |
 | [ArNarMan1@twitter.com](https://twitter.com/ArNarMan1/status/1385786749037678593) | moral (advertise Cloudflare) |
 | [arno_dev@twitter.com](https://twitter.com/arno_dev/status/1387071791252840450) | moral (advertise Cloudflare) |
+| [ArsaKaveh@twitter.com](https://twitter.com/ArsaKaveh/status/1387953460109271041) | moral (advertise Cloudflare) |
 | [ArShin48050365@twitter.com](https://twitter.com/ArShin48050365/status/1383422252864065541) | moral (advertise Cloudflare) |
 | [ArteImmaginePh3@twitter.com](https://twitter.com/ArteImmaginePh3/status/1370471352373772291) | moral (advertise CloudFlare) |
+| [ArunAR46303075@twitter.com](https://twitter.com/ArunAR46303075/status/1387955082105290754) | moral (advertise Cloudflare) |
 | [arvind_sh0108@twitter.com](https://twitter.com/arvind_sh0108/status/1386913767473090570) | moral (advertise Cloudflare) |
 | [arvinvxiii@twitter.com](https://twitter.com/arvinvxiii/status/1377549061314772998) | moral (advertise CloudFlare) |
 | [arzzen@twitter.com](https://twitter.com/arzzen/status/1384955314991210496) | moral (advertise Cloudflare) |
@@ -205,6 +207,7 @@ Do not create new issue or we will close it as duplicate.
 | [banglinhnguyen@twitter.com](https://twitter.com/banglinhnguyen/status/1385284850098196481) | moral (advertise Cloudflare) |
 | [Bangnguyen2201@twitter.com](https://twitter.com/Bangnguyen2201/status/1386894236579024898) | moral (advertise Cloudflare) |
 | [bao85639159@twitter.com](https://twitter.com/bao85639159/status/1379009039988748289) | moral (advertise Cloudflare) |
+| [baovanhu012345@twitter.com](https://twitter.com/baovanhu012345/status/1387935168267096068) | moral (advertise Cloudflare) |
 | [barbadoslive@twitter.com](https://twitter.com/barbadoslive/status/1370835424571179012) | moral (advertise CloudFlare) |
 | [BashaBa71391325@twitter.com](https://twitter.com/BashaBa71391325/status/1384809106226106371) | moral (advertise Cloudflare) |
 | [Bbin23638730@twitter.com](https://twitter.com/Bbin23638730/status/1386172036981006336) | moral (advertise Cloudflare) |
