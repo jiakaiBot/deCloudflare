@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Why does it no longer offer anonymity? Was it after changes were made before an update just before Operation Onymous, or the scripts that were running when set not to. If people log in with their details, their cover is blown. Most sites block Tor or give captchas. ([feelitworking](https://twitter.com/FeelitWorking/status/1388666066038046723))
 - i get a cloudflare error pretty much every damn day on that site but it's got the best subs, the other sites have old fan translations with GLARING watermarks ([dreamerszeal](https://twitter.com/dreamerszeal/status/1388539756212940802))
 - FYI, page rules aren't updating. Specifically, 'cache everything' rules. I activate for a new part of my site: caching says 'DYNAMIC'. I deactivate a page rule already in place and then purge... I keep getting 'HIT' after it's done the initial pull. ([unclejaysus](https://twitter.com/UncleJaysus/status/1387803731245285378))
 - hi, I can't access my and other .rbind.io websites (error 526 - Frankfurt server and other € cities as well. Less intense problem in the USA), but the certificate seems to be up to date. ([aindinoise](https://twitter.com/aindinoise/status/1387713418036228097))
