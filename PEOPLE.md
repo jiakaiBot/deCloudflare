@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Cloudflare captcha is the ultimate test of patience. ([femi__williams](https://twitter.com/femi__williams/status/1389131193149444096))
 - hey man, just trying to access ur website and it looks down (cloudflare 523 error); is that expected? ([napveg](https://twitter.com/NapVeg/status/1389031756699815938))
 - Why does it no longer offer anonymity? Was it after changes were made before an update just before Operation Onymous, or the scripts that were running when set not to. If people log in with their details, their cover is blown. Most sites block Tor or give captchas. ([feelitworking](https://twitter.com/FeelitWorking/status/1388666066038046723))
 - i get a cloudflare error pretty much every damn day on that site but it's got the best subs, the other sites have old fan translations with GLARING watermarks ([dreamerszeal](https://twitter.com/dreamerszeal/status/1388539756212940802))
