@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Yup. Exactly my thought. I'm getting a Cloudflare error after a long pause with trying to log in. ([kevinjjuliano](https://twitter.com/KevinJJuliano/status/1389686098176184320))
 - Having space mood, but pages give cloudflare 1020 error when trying to login for latest version. ([tuomashaarala](https://twitter.com/TuomasHaarala/status/1389647799801765888))
 - I'm getting a Cloudflare Error 520 atm. Any idea what's going on? ([zk_student](https://twitter.com/zk_student/status/1389532631029600261))
 - Cloudflare captcha is the ultimate test of patience. ([femi__williams](https://twitter.com/femi__williams/status/1389131193149444096))
