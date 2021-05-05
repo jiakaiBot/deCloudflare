@@ -457,6 +457,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- They have cloudflare enabled and violating rate limits results in an error from cloudflare. I tried polling the APIs 1-2 days back. ([pratham33185732](https://twitter.com/Pratham33185732/status/1390019274752749568))
+- Oh yeah this is probably worse than it was when people on private discords and cook ribs by past cloudflare by using a Hong Kong VPN, and the stock went out with in 30 seconds ([htaapp66](https://twitter.com/htaapp66/status/1390040223732563969))
 - And how should I control whats happening on your servers that you dont collect my data? I cant trust Cloudflare. In my opinion cloudflare is more dangerous than e.g. Google or FB because its literally EVERYWHERE. ([huhncares](https://twitter.com/huhncares/status/1388128860961656840))
 - what’s going on guys? All of a sudden CloudFlare is not letting me access my own site(geofenced to exclude China) because it thinks my IP is from China. It is NOT from China, it is from India. AS18209 is my provider. ([loadingacchedin](https://twitter.com/loadingacchedin/status/1387455386404331523))
 - Por acaso até consegue. A cloudflare basicamente faz MITM ao tráfego. Eles terminam o SSL no lado deles e depois é que se ligam à origin. ([joaocruzsilva](https://twitter.com/joaocruzsilva/status/1388558814484520961))
