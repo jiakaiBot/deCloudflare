@@ -457,6 +457,11 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- And how should I control whats happening on your servers that you dont collect my data? I cant trust Cloudflare. In my opinion cloudflare is more dangerous than e.g. Google or FB because its literally EVERYWHERE. ([huhncares](https://twitter.com/huhncares/status/1388128860961656840))
+- what’s going on guys? All of a sudden CloudFlare is not letting me access my own site(geofenced to exclude China) because it thinks my IP is from China. It is NOT from China, it is from India. AS18209 is my provider. ([loadingacchedin](https://twitter.com/loadingacchedin/status/1387455386404331523))
+- Por acaso até consegue. A cloudflare basicamente faz MITM ao tráfego. Eles terminam o SSL no lado deles e depois é que se ligam à origin. ([joaocruzsilva](https://twitter.com/joaocruzsilva/status/1388558814484520961))
+- When you get a card added to cart at the zotacstore and cloudflare throws an error going to check out and your mouse wears out trying to buy a card. ([volksdrvr](https://twitter.com/volksdrvr/status/1389775217296171016))
+- Error 1020 Acceso denegado: Causas habituales Las reglas de firewall de un cliente de Cloudflare bloquean a un cliente o navegador.😉 ([mudito37664890](https://twitter.com/mudito37664890/status/1388460120049430528))
 - I'm getting error 522 in our different servers, which are completely isolated on different providers, is something related to Cloudflare maintenance? Please help! ([mlopezdiaz](https://twitter.com/mlopezdiaz/status/1389755051997073408))
 - Yup. Exactly my thought. I'm getting a Cloudflare error after a long pause with trying to log in. ([kevinjjuliano](https://twitter.com/KevinJJuliano/status/1389686098176184320))
 - Having space mood, but pages give cloudflare 1020 error when trying to login for latest version. ([tuomashaarala](https://twitter.com/TuomasHaarala/status/1389647799801765888))
