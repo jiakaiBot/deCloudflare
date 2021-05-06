@@ -16,7 +16,14 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 ```
 
 
-Here's a list of public Fediverse (Mastodon, Pleroma, etc) services.
+Here's a list of public Fediverse services.
+
+
+<details>
+<summary>_click me_
+
+## Mastodon, Pleroma, etc
+</summary>
 
 | Site | Cloudflared |
 | --- | --- |
@@ -1256,6 +1263,8 @@ Here's a list of public Fediverse (Mastodon, Pleroma, etc) services.
 | zettelkasten.social | No |
 | zh-cn.toots.social | Yes |
 | ziroh.be | No |
+
+</details>
 
 
 -----
