@@ -110,6 +110,7 @@ Here's a list of public Fediverse services.
 | bonn.social | No |
 | booktoot.club | No |
 | bookwor.ms | No |
+| botsin.space | No |
 | brighteon.social | Yes |
 | bruder.space | No |
 | bsd.moe | No |
@@ -132,6 +133,7 @@ Here's a list of public Fediverse services.
 | cawfee.club | No |
 | cdrom.tokyo | No |
 | chabant.social | No |
+| chaos.social | No |
 | chaosphere.hostdon.jp | No |
 | chirpi.de | No |
 | chitter.xyz | No |
@@ -405,6 +407,7 @@ Here's a list of public Fediverse services.
 | lazyatom.social | No |
 | lc.imexile.moe | Yes |
 | lediver.se | No |
+| legal.social | No |
 | lesbiab.space | No |
 | lesbianschool.com | No |
 | letsalllovela.in | Yes |
@@ -425,6 +428,7 @@ Here's a list of public Fediverse services.
 | linuxrocks.online | No |
 | literatur.social | No |
 | livers.jp | No |
+| loma.ml | No |
 | lor.sh | Yes |
 | lord.sh | Yes |
 | lou.lt | Yes |
@@ -1089,6 +1093,7 @@ Here's a list of public Fediverse services.
 | speakfree.world | No |
 | spinster.xyz | Yes |
 | springbo.cc | No |
+| squeet.me | No |
 | st.foresdon.jp | No |
 | stare.pro | No |
 | status.dissidence.ovh | No |
@@ -1135,6 +1140,7 @@ Here's a list of public Fediverse services.
 | tomitodon.huideyeren.info | No |
 | too.tl | Yes |
 | toot.aquilenet.fr | No |
+| toot.berlin | No |
 | toot.blue | No |
 | toot.cafe | No |
 | toot.cat | No |
@@ -1272,7 +1278,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 279 |
-| Normal | 957 |
+| Normal | 963 |
 
 
-### 22.6% of public Fediverse services are using Cloudflare.
+### 22.5% of public Fediverse services are using Cloudflare.
