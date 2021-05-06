@@ -226,4 +226,4 @@ Here's a list of public git services.
 | Normal site | 160 |
 
 
-### 18.3% of public git services are using Cloudflare.
+### 18.4% of public git services are using Cloudflare.
