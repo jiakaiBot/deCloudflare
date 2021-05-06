@@ -16,6 +16,7 @@ Your cloudflare-domain collection is yours.
 ```
 
 
+- Looking for `Palemoon`? [Block Cloudflare Requests (Palemoon)](../tool/block_cloudflare_requests_pm)
 - [Code](https://git.nogafam.es/deCloudflare/deCloudflare/src/branch/master/addons/code/bcma)
 - Download add-on
   - From Gitea: [FirefoxESR](https://git.nogafam.es/deCloudflare/deCloudflare/raw/branch/master/addons/releases/bcma.xpi) / [Chromium / Edge](https://git.nogafam.es/deCloudflare/deCloudflare/raw/branch/master/addons/releases/bcma.crx)
