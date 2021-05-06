@@ -18,193 +18,212 @@ and deployment pipeline features, using an open-source license, developed by Git
 
 Here's a list of public git services.
 
-| Site |
-| --- |
-| auth.doeber.nl |
-| authoritah.io |
-| authoritah.net |
-| bitbucket.org |
-| black.uber.space |
-| ccr.calibrate.be |
-| ceregatti.com |
-| code.antopie.org |
-| code.habd.as |
-| code.ita-prog.pl |
-| codeberg.org |
-| codelens.dev |
-| de.edumat.io |
-| dev.lovelyhq.com |
-| dev.sum7.eu |
-| devheroes.codes |
-| doc-user.qware.tech |
-| erj4.uk |
-| framagit.org |
-| g.plsnotracking.com |
-| gameinfuser.com |
-| git.53hor.net |
-| git.acloud.one |
-| git.activitypub.dev |
-| git.alles.cx |
-| git.artezio.net |
-| git.augendre.info |
-| git.b-ehlers.de |
-| git.chasekidder.com |
-| git.chenguanzhou.com |
-| git.cyberjinh.fr |
-| git.data.coop |
-| git.devuan.org |
-| git.disroot.org |
-| git.dmxcontrol-projects.org |
-| git.ecoservice24.de |
-| git.educate.center |
-| git.fcloud.ovh |
-| git.feneas.org |
-| git.fsfe.org |
-| git.gaiaservice.fr |
-| git.geekservice.de |
-| git.govtop.cn |
-| git.hardenedbsd.org |
-| git.hiitsdevin.dev |
-| git.hnmediatech.com |
-| git.honeypot.im |
-| git.iamthefij.com |
-| git.imrc.kist.re.kr |
-| git.internal.services.oscarchou.com |
-| git.it-neuhauser.de |
-| git.ita-ausbildung.de |
-| git.ixarea.com |
-| git.jami.net |
-| git.jeddunk.xyz |
-| git.kiwifarms.net |
-| git.kknos.uber.space |
-| git.kwarde.com |
-| git.mafiasi.de |
-| git.minicloud.xyz |
-| git.mitchellhansen.info |
-| git.mutuellegsmc.fr |
-| git.nixnet.services |
-| git.nogafam.es |
-| git.obicloud.net |
-| git.openprivacy.ca |
-| git.oroques.dev |
-| git.ovs.aktivbank-factoring.de |
-| git.paintingofapples.com |
-| git.passageenseine.fr |
-| git.plsnotracking.com |
-| git.plspnkt.uber.space |
-| git.polytech-services-nancy.fr |
-| git.radio.clubs.etsit.upm.es |
-| git.rbcommunity.info |
-| git.regar42.fr |
-| git.riper.fr |
-| git.rootevolution.clients.goautomate.ai |
-| git.safemobile.org |
-| git.sangraha.xyz |
-| git.sdf.org |
-| git.service.liminalytics.com |
-| git.service.wobcom.consulting |
-| git.services.fbbgg.hs-woe.de |
-| git.services.filesperhour.de |
-| git.services.randers.dk |
-| git.shaiya.net |
-| git.shivering-isles.com |
-| git.slashdev.space |
-| git.teknik.io |
-| git.the-mcloud.ml |
-| git.tilize.me |
-| git.timshome.page |
-| git.user7er0.duckdns.org |
-| git.usercode.de |
-| git.vpn.ddkfm.de |
-| git.vvn.space |
-| git.wappler.systems |
-| git.web.net |
-| git.webpro.ltd |
-| git.websecure.pt |
-| git.whitestores-services.co.uk |
-| git.work-tracker.net |
-| git.x-service.be |
-| git.xintesa.com |
-| git.xtechnology.org |
-| git.zero-knowledge.org |
-| gitdab.com |
-| gitea-edumedia.evolix.org |
-| gitea.basealt.ru |
-| gitea.cauchyma.uber.space |
-| gitea.citizen4.eu |
-| gitea.cloudchainsecurity.com |
-| gitea.danghr.com |
-| gitea.datahoarding.agency |
-| gitea.ddkand.com |
-| gitea.deliverik.com |
-| gitea.dservice.software.ennit.de |
-| gitea.dynvpn.de |
-| gitea.educate.center |
-| gitea.evolix.org |
-| gitea.fablabchemnitz.de |
-| gitea.gernot-payer.de |
-| gitea.iitdh.ac.in |
-| gitea.it |
-| gitea.kaaaxcreators.de |
-| gitea.knockturnmc.com |
-| gitea.marcopacs.com |
-| gitea.moonside.games |
-| gitea.narbonne-accessoires.fr |
-| gitea.onl.yum-pay.com |
-| gitea.pep.foundation |
-| gitea.planet-casio.com |
-| gitea.planthree.net |
-| gitea.service.jsoude.net |
-| gitea.service.niedersachsen.dev |
-| gitea.services.decentm.com |
-| gitea.shuishan.net.cn |
-| gitea.stubbe.rocks |
-| gitea.thebrokenrail.com |
-| gitea.tobias-huebner.org |
-| gitea.xinje.cc |
-| gitee.com |
-| github.com |
-| github.dbalegends.com |
-| github.tjshosting.com |
-| gitlab.com |
-| gitlab.freedesktop.org |
-| gitlab.gnome.org |
-| gitlab.tails.boum.org |
-| gitlab.torproject.org |
-| inpro.informatik.uni-freiburg.de |
-| intra.git.insite.gov.on.ca |
-| kolaente.dev |
-| launchpad.net |
-| libregit.org |
-| linvyang.com |
-| msg.hoppinglife.com |
-| opendev.org |
-| ovh-1.lucasst.work |
-| printservice.ntgmbh.de |
-| rbcommunity.info |
-| scm.octopost.eu |
-| source.puri.sm |
-| source.small-tech.org |
-| sourceforge.net |
-| sr.ht |
-| support.dev.procad.pl |
-| terk.uber.space |
-| thematrix.bw.edu |
-| tracker.adverpost.com |
-| tracker.sagosec.com |
-| try.gitea.io |
-| update.ycms.pw |
-| vmi528339.contaboserver.net |
-| www.bitfork.net |
-| www.git.govindgnana.com |
-| www.github.dbalegends.com |
+| Site | Cloudflared |
+| --- | --- |
+| auth.doeber.nl | No |
+| authoritah.io | No |
+| authoritah.net | No |
+| bitbucket.org | No |
+| black.uber.space | No |
+| ccr.calibrate.be | No |
+| ceregatti.com | No |
+| code.antopie.org | No |
+| code.crosse.org | Yes |
+| code.habd.as | No |
+| code.ita-prog.pl | No |
+| code.lag.net | No |
+| codeberg.org | No |
+| codelens.dev | Yes |
+| de.edumat.io | No |
+| dev.lovelyhq.com | No |
+| dev.sum7.eu | No |
+| devheroes.codes | Yes |
+| doc-user.qware.tech | No |
+| drone.tildegit.org | No |
+| erj4.uk | No |
+| finallycoffee.eu | No |
+| framagit.org | No |
+| g.plsnotracking.com | No |
+| gameinfuser.com | No |
+| git.53hor.net | No |
+| git.acloud.one | Yes |
+| git.activitypub.dev | No |
+| git.aite.xyz | No |
+| git.alles.cx | No |
+| git.artezio.net | No |
+| git.augendre.info | No |
+| git.b-ehlers.de | No |
+| git.bsmg.dev | Yes |
+| git.chasekidder.com | Yes |
+| git.chenguanzhou.com | No |
+| git.cyberjinh.fr | No |
+| git.data.coop | No |
+| git.devuan.org | No |
+| git.disroot.org | No |
+| git.dmxcontrol-projects.org | No |
+| git.ecoservice24.de | Yes |
+| git.educate.center | No |
+| git.fcloud.ovh | No |
+| git.feneas.org | No |
+| git.finallycoffee.eu | No |
+| git.fsfe.org | No |
+| git.gaiaservice.fr | No |
+| git.geekservice.de | No |
+| git.govtop.cn | No |
+| git.hardenedbsd.org | Yes |
+| git.hiitsdevin.dev | Yes |
+| git.hnmediatech.com | No |
+| git.honeypot.im | No |
+| git.iamthefij.com | Yes |
+| git.imrc.kist.re.kr | No |
+| git.internal.services.oscarchou.com | No |
+| git.it-neuhauser.de | No |
+| git.ita-ausbildung.de | No |
+| git.ixarea.com | No |
+| git.jami.net | No |
+| git.jeddunk.xyz | No |
+| git.joinplu.me | No |
+| git.kageru.moe | No |
+| git.kaki87.net | No |
+| git.kiwifarms.net | Yes |
+| git.kknos.uber.space | No |
+| git.klingt.net | No |
+| git.koesters.xyz | No |
+| git.kwarde.com | No |
+| git.lighttpd.net | No |
+| git.mafiasi.de | No |
+| git.minicloud.xyz | Yes |
+| git.mitchellhansen.info | No |
+| git.mutuellegsmc.fr | No |
+| git.nixnet.services | No |
+| git.nogafam.es | No |
+| git.obicloud.net | Yes |
+| git.openprivacy.ca | No |
+| git.oroques.dev | No |
+| git.ovs.aktivbank-factoring.de | No |
+| git.paintingofapples.com | No |
+| git.passageenseine.fr | No |
+| git.plsnotracking.com | No |
+| git.plspnkt.uber.space | No |
+| git.polytech-services-nancy.fr | No |
+| git.pyrocko.org | No |
+| git.radio.clubs.etsit.upm.es | No |
+| git.rbcommunity.info | Yes |
+| git.regar42.fr | No |
+| git.riper.fr | No |
+| git.rootevolution.clients.goautomate.ai | No |
+| git.safemobile.org | No |
+| git.sangraha.xyz | No |
+| git.sdf.org | No |
+| git.service.liminalytics.com | No |
+| git.service.wobcom.consulting | No |
+| git.services.fbbgg.hs-woe.de | No |
+| git.services.filesperhour.de | No |
+| git.services.randers.dk | No |
+| git.shaiya.net | Yes |
+| git.shivering-isles.com | Yes |
+| git.slashdev.space | No |
+| git.teknik.io | Yes |
+| git.the-mcloud.ml | Yes |
+| git.tilize.me | No |
+| git.timshome.page | No |
+| git.tldp.org | No |
+| git.user7er0.duckdns.org | Yes |
+| git.usercode.de | No |
+| git.vpn.ddkfm.de | Yes |
+| git.vvn.space | No |
+| git.wappler.systems | No |
+| git.web.net | No |
+| git.webpro.ltd | No |
+| git.websecure.pt | Yes |
+| git.whitestores-services.co.uk | No |
+| git.work-tracker.net | No |
+| git.x-service.be | No |
+| git.xintesa.com | Yes |
+| git.xtechnology.org | No |
+| git.zero-knowledge.org | No |
+| gitdab.com | Yes |
+| gitea-edumedia.evolix.org | No |
+| gitea.basealt.ru | No |
+| gitea.cauchyma.uber.space | No |
+| gitea.citizen4.eu | No |
+| gitea.cloudchainsecurity.com | No |
+| gitea.danghr.com | No |
+| gitea.datahoarding.agency | No |
+| gitea.ddkand.com | No |
+| gitea.deliverik.com | No |
+| gitea.dservice.software.ennit.de | No |
+| gitea.dynvpn.de | No |
+| gitea.educate.center | No |
+| gitea.evolix.org | No |
+| gitea.fablabchemnitz.de | No |
+| gitea.gernot-payer.de | No |
+| gitea.iitdh.ac.in | No |
+| gitea.it | Yes |
+| gitea.kaaaxcreators.de | Yes |
+| gitea.knockturnmc.com | No |
+| gitea.marcopacs.com | No |
+| gitea.moonside.games | No |
+| gitea.narbonne-accessoires.fr | No |
+| gitea.onl.yum-pay.com | No |
+| gitea.pep.foundation | No |
+| gitea.planet-casio.com | No |
+| gitea.planthree.net | No |
+| gitea.service.jsoude.net | No |
+| gitea.service.niedersachsen.dev | No |
+| gitea.services.decentm.com | Yes |
+| gitea.shuishan.net.cn | No |
+| gitea.stubbe.rocks | No |
+| gitea.thebrokenrail.com | No |
+| gitea.tobias-huebner.org | No |
+| gitea.xinje.cc | No |
+| gitee.com | No |
+| github.com | No |
+| github.dbalegends.com | Yes |
+| github.tjshosting.com | Yes |
+| gitlab.com | Yes |
+| gitlab.freedesktop.org | No |
+| gitlab.gnome.org | No |
+| gitlab.tails.boum.org | No |
+| gitlab.torproject.org | No |
+| inpro.informatik.uni-freiburg.de | No |
+| intra.git.insite.gov.on.ca | No |
+| kolaente.dev | Yes |
+| kylie.cs.tu-dortmund.de | No |
+| launchpad.net | No |
+| libregit.org | Yes |
+| linvyang.com | No |
+| msg.hoppinglife.com | No |
+| opendev.org | No |
+| ovh-1.lucasst.work | No |
+| printservice.ntgmbh.de | No |
+| rbcommunity.info | Yes |
+| scm.octopost.eu | Yes |
+| source.puri.sm | No |
+| source.small-tech.org | No |
+| sourceforge.net | No |
+| sr.ht | No |
+| support.dev.procad.pl | No |
+| terk.uber.space | No |
+| thematrix.bw.edu | No |
+| tildegit.org | No |
+| tracker.adverpost.com | No |
+| tracker.sagosec.com | No |
+| try.gitea.io | Yes |
+| update.ycms.pw | No |
+| vmi528339.contaboserver.net | Yes |
+| www.bitfork.net | No |
+| www.git.govindgnana.com | No |
+| www.github.dbalegends.com | Yes |
+| www.hendrik-fichtenberger.de | No |
+
 
 -----
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare site | 34 |
-| Normal site | 144 |
+| Cloudflare site | 36 |
+| Normal site | 160 |
 
 
-### 19.1% of public git services are using Cloudflare.
+### 18.3% of public git services are using Cloudflare.
