@@ -27,7 +27,6 @@ Here's a list of public git services.
 | black.uber.space |
 | ccr.calibrate.be |
 | ceregatti.com |
-| cipher.assumingdirectcontrol.com |
 | code.antopie.org |
 | code.habd.as |
 | code.ita-prog.pl |
@@ -39,9 +38,7 @@ Here's a list of public git services.
 | devheroes.codes |
 | doc-user.qware.tech |
 | erj4.uk |
-| facturation.roskoding.fr |
 | framagit.org |
-| g.osteam.win |
 | g.plsnotracking.com |
 | gameinfuser.com |
 | git.53hor.net |
@@ -176,51 +173,38 @@ Here's a list of public git services.
 | gitlab.torproject.org |
 | inpro.informatik.uni-freiburg.de |
 | intra.git.insite.gov.on.ca |
-| jcis.site |
 | kolaente.dev |
 | launchpad.net |
 | libregit.org |
 | linvyang.com |
 | msg.hoppinglife.com |
-| name.greycortex.com |
 | opendev.org |
 | ovh-1.lucasst.work |
-| postadmin.anaut-ua.com |
 | printservice.ntgmbh.de |
 | rbcommunity.info |
 | scm.octopost.eu |
-| service.kultur.uni-hamburg.de |
-| shopwebservice.sthinkai.com |
 | source.puri.sm |
 | source.small-tech.org |
 | sourceforge.net |
 | sr.ht |
 | support.dev.procad.pl |
 | terk.uber.space |
-| test-restore.gitea.fixxati.org |
-| test.cauchyma.uber.space |
 | thematrix.bw.edu |
 | tracker.adverpost.com |
 | tracker.sagosec.com |
 | try.gitea.io |
-| ui.govtop.cn |
 | update.ycms.pw |
 | vmi528339.contaboserver.net |
-| vpn.chasekidder.com |
-| vpn.miki725.net |
-| vpn.uginnet.com |
 | www.bitfork.net |
 | www.git.govindgnana.com |
 | www.github.dbalegends.com |
-| www.github.ngolam.xyz |
-| www.rubicon.govindgnana.com |
 
 -----
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare site | 38 |
-| Normal site | 156 |
+| Cloudflare site | 34 |
+| Normal site | 144 |
 
 
-### 19.6% of public git services are using Cloudflare.
+### 19.1% of public git services are using Cloudflare.
