@@ -88,8 +88,7 @@ Toto úložisko je zoznam webových stránok, ktoré sú za „Veľkou cloudovou
 
 
 **Viac informácií**
-* [Myth Catalog](../subfiles/myth_catalog.md)
-* [How many % of top 1,000 most visited sites(2010) are using Cloudflare today?](../subfiles/google_ad_planner_top_1000_sites.md)
+* [deCloudflare Subfiles](../subfiles/README.md)
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Stiahnuť ▼: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Spoločnosť BookRix GmbH odstránila pôvodnú eKnihu (ePUB) z dôvodu porušenia autorských práv na materiál CC0
@@ -98,7 +97,6 @@ Toto úložisko je zoznam webových stránok, ktoré sú za „Veľkou cloudovou
   * Lístok bol toľkokrát vandalizovaný.
   * [Vypúšťa sa projekt Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Pozri lístok 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Posledný archívny lístok 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Shared on Mastodon](../subfiles/shared_on_mastodon.md), [Shared on Twitter](../subfiles/shared_on_twitter.md)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 
