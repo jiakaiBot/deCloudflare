@@ -88,8 +88,7 @@
 
 
 **थप जानकारी**
-* [Myth Catalog](../subfiles/myth_catalog.md)
-* [How many % of top 1,000 most visited sites(2010) are using Cloudflare today?](../subfiles/google_ad_planner_top_1000_sites.md)
+* [deCloudflare Subfiles](../subfiles/README.md)
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * डाउनलोड गर्नुहोस्: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * मूल eBook (ePUB) BookRix GmbH द्वारा CC0 सामग्रीको प्रतिलिपि अधिकार उल्लge्घनको कारण हटाइएको थियो।
@@ -98,7 +97,6 @@
   * टिकट धेरै पटक तोडफोड गरियो।
   * [टोर प्रोजेक्ट द्वारा हटाइएको।](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [टिकट 1 34१75। हेर्नुहोस्।](https://trac.torproject.org/projects/tor/ticket/34175)
   * [अन्तिम संग्रह टिकट २353535१।](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Shared on Mastodon](../subfiles/shared_on_mastodon.md), [Shared on Twitter](../subfiles/shared_on_twitter.md)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 
