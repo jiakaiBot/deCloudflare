@@ -88,8 +88,7 @@ Este repositório é uma lista de sites que estão por trás do "The Great Cloud
 
 
 **Mais Informações**
-* [Myth Catalog](../subfiles/myth_catalog.md)
-* [How many % of top 1,000 most visited sites(2010) are using Cloudflare today?](../subfiles/google_ad_planner_top_1000_sites.md)
+* [deCloudflare Subfiles](../subfiles/README.md)
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Baixar: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * O e-book original (ePUB) foi excluído pela BookRix GmbH devido à violação de direitos autorais do material CC0
@@ -98,7 +97,6 @@ Este repositório é uma lista de sites que estão por trás do "The Great Cloud
   * O ingresso foi vandalizado várias vezes.
   * [Excluído pelo Projeto Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Veja o bilhete 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Último tíquete de arquivo 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Shared on Mastodon](../subfiles/shared_on_mastodon.md), [Shared on Twitter](../subfiles/shared_on_twitter.md)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 
