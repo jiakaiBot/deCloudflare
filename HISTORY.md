@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-05-06: [Elevated number of 522 errors in MIA Miami Florida](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3jk139l178h8)
 - 2021-05-06: [Delay in audit logs](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4d6w1w0ms062)
 - 2021-05-04: [Network Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ct6nps84wll3)
 - 2021-04-30: [Distributed Web Gateway Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wvnbyw9vc2ft)
