@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Same, big mess. And Knownhost forums return the same 520 Cloudflare error. ([photodesign](https://twitter.com/photodesign/status/1390386379822039040))
 - You are wrong. Cloudflare is not offering an on-premise solutions. More general note: Cloudflare does provide ability to customize captcha page (among others) in paid plans, but it does not change the captcha mechanism used (hCaptcha). The one from the screenshot is not hCaptcha. ([epatryk](https://twitter.com/epatryk/status/1390320510286827521))
 - For the second time in the last three weeks my website is almost unusable due to cloudflare 520 errors. It has been consistently happening for 12 hours now. Webhost claim the problem lies with you. Any feedback? :) ([robson1lee](https://twitter.com/Robson1Lee/status/1390318165599662082))
 - Chances are you're running a VPN or something else which flags your IP to the Cloudflare protecting the government website. Not a lot of people need access to citizen specific web pages on Iraqi domains, hence the locked down nature to protect the websites from attack ([iraqbasic](https://twitter.com/IraqBasic/status/1390294780391804929))
