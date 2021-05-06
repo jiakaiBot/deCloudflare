@@ -16,7 +16,7 @@ and deployment pipeline features, using an open-source license, developed by Git
 ```
 
 
-Here's a list of public git services.
+Here's a list of public Git services.
 
 
 <details>
@@ -231,8 +231,8 @@ Here's a list of public git services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare site | 36 |
-| Normal site | 160 |
+| Cloudflare | 36 |
+| Normal | 160 |
 
 
-### 18.4% of public git services are using Cloudflare.
+### 18.4% of public Git services are using Cloudflare.
