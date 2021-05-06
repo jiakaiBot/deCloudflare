@@ -18,6 +18,13 @@ and deployment pipeline features, using an open-source license, developed by Git
 
 Here's a list of public git services.
 
+
+<details>
+<summary>_click me_
+
+## Gitea, Gitlab, etc
+</summary>
+
 | Site | Cloudflared |
 | --- | --- |
 | auth.doeber.nl | No |
@@ -216,6 +223,8 @@ Here's a list of public git services.
 | www.git.govindgnana.com | No |
 | www.github.dbalegends.com | Yes |
 | www.hendrik-fichtenberger.de | No |
+
+</details>
 
 
 -----
