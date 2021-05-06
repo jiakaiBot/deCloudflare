@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- why do you keep putting me into these redirect loops for your DDoS protection? It's just me and my hands operating a browser. Happened twice in the last couple of weeks on two different sites. ([icymidnight](https://twitter.com/IcyMidnight/status/1390166121337163777))
 - Fucking assholes Zotac RTX3090 in my cart and their horse shit website does that stupid fucking cloudflare 522 error. FUCK YOU ([asharksbuthole](https://twitter.com/ASharksButhole/status/1390042166152646656))
 - They have cloudflare enabled and violating rate limits results in an error from cloudflare. I tried polling the APIs 1-2 days back. ([pratham33185732](https://twitter.com/Pratham33185732/status/1390019274752749568))
 - Oh yeah this is probably worse than it was when people on private discords and cook ribs by past cloudflare by using a Hong Kong VPN, and the stock went out with in 30 seconds ([htaapp66](https://twitter.com/htaapp66/status/1390040223732563969))
