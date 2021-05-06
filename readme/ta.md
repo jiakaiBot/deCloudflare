@@ -88,8 +88,7 @@
 
 
 **மேலும் தகவல்**
-* [Myth Catalog](../subfiles/myth_catalog.md)
-* [How many % of top 1,000 most visited sites(2010) are using Cloudflare today?](../subfiles/google_ad_planner_top_1000_sites.md)
+* [deCloudflare Subfiles](../subfiles/README.md)
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * பதிவிறக்க Tamil: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * CC0 பொருளின் பதிப்புரிமை மீறல் காரணமாக அசல் மின்புத்தகம் (ePUB) BookRix GmbH ஆல் நீக்கப்பட்டது
@@ -98,7 +97,6 @@
   * டிக்கெட் பல முறை அழிக்கப்பட்டது.
   * [டோர் திட்டத்தால் நீக்கப்பட்டது.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [டிக்கெட் 34175 ஐக் காண்க.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [கடைசி காப்பக டிக்கெட் 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
-* [Shared on Mastodon](../subfiles/shared_on_mastodon.md), [Shared on Twitter](../subfiles/shared_on_twitter.md)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 
