@@ -44,7 +44,7 @@ We might create a guide for some self-hosting basics which don't require Cloudfl
 ## Why X is not included
 | X       | Reason |
 | ------- | ------ |
-| Cloudflare Argo | Uses Cloudflare. |
+| Cloudflare Tunnel | Uses Cloudflare. |
 | DDoS-GUARD | just like CloudFlare. |
 | Gitlab pages      | GitLab is now Cloudflared |
 | Imperva | Uses Cloudflare. |
