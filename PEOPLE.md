@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- friendly note: the website URL in your bio isn't https and gives me a Cloudflare error page. ([lenberg](https://twitter.com/lenberg/status/1390585711380807684))
 - 2151075 is the case number. Unfortunately, after 9 hours of waiting, your tech tested the wrong URL, found no problem and told me it didn't exist. I trust you to provide service essential to my livelihood, yet even when proof is provided 2X your team won't take responsibility 🤔 ([don_crowther](https://twitter.com/Don_Crowther/status/1390501521180315649))
 - Same, big mess. And Knownhost forums return the same 520 Cloudflare error. ([photodesign](https://twitter.com/photodesign/status/1390386379822039040))
 - You are wrong. Cloudflare is not offering an on-premise solutions. More general note: Cloudflare does provide ability to customize captcha page (among others) in paid plans, but it does not change the captcha mechanism used (hCaptcha). The one from the screenshot is not hCaptcha. ([epatryk](https://twitter.com/epatryk/status/1390320510286827521))
