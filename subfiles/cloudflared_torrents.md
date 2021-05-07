@@ -34,20 +34,143 @@ Here's a list of public Torrent and Tracker services.
 ## Torrent
 </summary>
 
-- [Top 10 Most Popular Torrent Sites of 2020](https://web.archive.org/web/20210427222841/https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2020-200105/) & [Top 10 Most Popular Torrent Sites of 2021](https://web.archive.org/web/20210506020609/https://torrentfreak.com/top-torrent-sites-2021-210103/)
+- From
+  - [Top 10 Most Popular Torrent Sites of 2020](https://web.archive.org/web/20210427222841/https://torrentfreak.com/top-10-most-popular-torrent-sites-of-2020-200105/)
+  - [Top 10 Most Popular Torrent Sites of 2021](https://web.archive.org/web/20210506020609/https://torrentfreak.com/top-torrent-sites-2021-210103/)
+  - [24 Best Torrent Sites in April 2021](https://web.archive.org/web/20210413095523/https://troypoint.com/best-torrent-sites/)
+  - [the best list of torrent sites](https://web.archive.org/web/20210303164503/https://torrentsites.com/)
+- Above sites are 'protected' by Cloudflare.
+
 
 | Site | Cloudflared |
 | --- | --- |
 | 1337x.to | Yes |
+| 2torrentz.net | Yes |
+| academictorrents.com | Yes |
+| alt-torrent.com | Yes |
+| anidex.info | Yes |
+| anime-sharing.com | Yes |
+| animebytes.tv | Yes |
+| animekaizoku.com | Yes |
+| animetorrents.me | Yes |
+| animetosho.org | No |
+| arenabg.com | No |
+| audiobookbay.nl | No |
+| baconbits.org | No |
+| badasstorrents.com | Yes |
+| baibako.tv | No |
+| bakabt.me | Yes |
+| bibliotik.me | Yes |
+| bitnova.info | Yes |
+| bitspyder.net | No |
+| broadcasthe.net | Yes |
+| btdig.com | Yes |
+| crotorrents.com | Yes |
+| dirtytorrents.com | No |
+| ebookee.com | No |
+| elite-tracker.net | No |
+| ethor.net | Yes |
+| ettvtorrents.com | Yes |
+| extratorrent.si | Yes |
+| extratorrents.it | Yes |
 | eztv.re | Yes |
+| fast-torrent.ru | Yes |
 | fitgirl-repacks.site | Yes |
+| gazellegames.net | No |
+| glodls.to | Yes |
+| hd-space.org | Yes |
+| hdbits.org | No |
+| hdreactor.club | No |
+| horriblesubs.info | Yes |
+| ibit.to | Yes |
+| idope.se | Yes |
+| ilcorsaronero.link | Yes |
+| immortalseed.me | No |
+| isohunts.to | Yes |
+| katcr.to | Yes |
+| kinozal.tv | Yes |
+| libgen.is | No |
+| limetorrents.cyou | Yes |
+| manybooks.net | Yes |
+| masters-tb.com | Yes |
+| mma-torrents.com | No |
+| monova.org | Yes |
 | nyaa.si | No |
+| otorrents.com | No |
+| passthepopcorn.me | Yes |
+| pirateiro.com | Yes |
+| pt.hd4fans.org | Yes |
 | rarbg.to | No |
+| redacted.ch | No |
+| riperam.org | No |
+| rutracker.org | Yes |
+| snowfl.com | Yes |
+| subsplease.org | Yes |
+| t3nnis.tv | No |
 | tamilrockers.ws | Yes |
+| telechargerjeuxtorrent.com | Yes |
 | thepiratebay.org | Yes |
+| torrends.to | Yes |
 | torrentgalaxy.to | Yes |
+| torrentseeker.com | Yes |
 | torrentz2.is | Yes |
+| torrentzeu.org | No |
+| totheglory.im | Yes |
+| tp.m-team.cc | Yes |
+| tracker.cztorrent.net | Yes |
+| turktorrent.us | Yes |
+| tv-vault.me | Yes |
+| watchsomuch.com | Yes |
+| www.anime-ultime.net | No |
+| www.anirena.com | Yes |
+| www.bigfangroup.org | Yes |
+| www.bittorrent.am | No |
+| www.books-share.com | No |
+| www.bookyards.com | Yes |
+| www.cinemageddon.net | Yes |
+| www.demonoid.is | Yes |
+| www.divxtotal.ch | Yes |
+| www.elitetorrent.com | Yes |
+| www.feedbooks.com | No |
+| www.filebase.ws | Yes |
+| www.freebookspot.club | No |
+| www.freetechbooks.com | No |
+| www.ggbases.com | Yes |
+| www.gtdb.to | Yes |
+| www.gutenberg.org | No |
+| www.hdarea.co | Yes |
+| www.iptorrents.com | Yes |
 | www.limetorrents.info | Yes |
+| www.linkomanija.net | No |
+| www.magnetdl.com | Yes |
+| www.mejortorrento.com | Yes |
+| www.montorrent.com | Yes |
+| www.myanonamouse.net | No |
+| www.p2pbg.com | No |
+| www.partis.si | Yes |
+| www.pdfbooksworld.com | No |
+| www.planetebook.com | Yes |
+| www.publicdomaintorrents.info | No |
+| www.scenetime.com | Yes |
+| www.shanaproject.com | Yes |
+| www.skidrowreloaded.com | Yes |
+| www.skytorrents.to | Yes |
+| www.smashwords.com | No |
+| www.tokyotosho.info | Yes |
+| www.toorgle.com | Yes |
+| www.torlock2.com | Yes |
+| www.toros.co | Yes |
+| www.torrent9.site | Yes |
+| www.torrentdownload.info | Yes |
+| www.torrentdownloads.me | Yes |
+| www.torrentfunk.com | Yes |
+| www.torrenting.com | Yes |
+| www.torrentleech.org | Yes |
+| www.xspeeds.eu | Yes |
+| www.xtorx.com | No |
+| www4.01torrent.net | Yes |
+| www4.yggtorrent.li | Yes |
+| yourbittorrent.com | Yes |
 | yts.mx | Yes |
 | zooqle.com | Yes |
 
@@ -276,8 +399,8 @@ Here's a list of public Torrent and Tracker services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 10 |
-| Normal | 2 |
+| Cloudflare | 93 |
+| Normal | 36 |
 
 
 - Tracker
@@ -288,5 +411,10 @@ Here's a list of public Torrent and Tracker services.
 | Normal | 115 |
 
 
-### 83.3% of public Torrent sites are using Cloudflare.
+### 72.1% of public Torrent sites are using Cloudflare.
 ### 43.3% of public Tracker services are using Cloudflare.
+
+
+Some Cloudflared site owners are using additional 'protection' to protect themselves from legal pressure.
+
+![](../image/cloudflare_with_ddosguard.jpg)
