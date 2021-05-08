@@ -35,10 +35,12 @@ Here's a list of public Git services.
 | ccr.calibrate.be | No |
 | ceregatti.com | No |
 | code.antopie.org | No |
+| code.briarproject.org | No |
 | code.crosse.org | Yes |
 | code.habd.as | No |
 | code.ita-prog.pl | No |
 | code.lag.net | No |
+| code.netlandish.com | No |
 | codeberg.org | No |
 | codelens.dev | Yes |
 | de.edumat.io | No |
@@ -232,7 +234,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 36 |
-| Normal | 160 |
+| Normal | 162 |
 
 
-### 18.4% of public Git services are using Cloudflare.
+### 18.2% of public Git services are using Cloudflare.
