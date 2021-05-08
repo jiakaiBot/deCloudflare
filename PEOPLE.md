@@ -457,6 +457,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- is discord not working anymore why are nothing loading error 502 cloudflare messages failed to load? Discord ([vafarien](https://twitter.com/Vafarien/status/1390819335065661440))
+- I cannot reach your website, only get to the cloudflare check and then Error 522. Anyone else have that problem? ([firespirit66](https://twitter.com/Firespirit66/status/1390800997841358850))
 - friendly note: the website URL in your bio isn't https and gives me a Cloudflare error page. ([lenberg](https://twitter.com/lenberg/status/1390585711380807684))
 - 2151075 is the case number. Unfortunately, after 9 hours of waiting, your tech tested the wrong URL, found no problem and told me it didn't exist. I trust you to provide service essential to my livelihood, yet even when proof is provided 2X your team won't take responsibility 🤔 ([don_crowther](https://twitter.com/Don_Crowther/status/1390501521180315649))
 - Same, big mess. And Knownhost forums return the same 520 Cloudflare error. ([photodesign](https://twitter.com/photodesign/status/1390386379822039040))
