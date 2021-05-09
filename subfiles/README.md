@@ -16,6 +16,13 @@
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
+- ???????
+  - [WIP Do Not Touch// Africa](wip_____africa.md)
+  - [WIP Do Not Touch// Asia](wip_____asia.md)
+  - [WIP Do Not Touch// Europe](wip_____europe.md)
+  - [WIP Do Not Touch// Oceania](wip_____oceania.md)
+  - [WIP Do Not Touch// North America](wip_____northAmerica.md)
+  - [WIP Do Not Touch// South America](wip_____southAmerica.md)
 - [Change default DNS provider of Firefox](change-firefox-dns.md)
 - [How to use Chromium with Tor](chromium_tor.md)
 - [Cloudflare Alternatives](cloudflare-alternatives.md)
