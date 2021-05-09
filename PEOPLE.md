@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Web server is returning an unknown error There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed. Ray ID: 64c2c1040cb2ddxf Your IP address: 18x. xxx .x.x4 Error reference number: 520 Cloudflare Location: SG ([mikhadesinner](https://twitter.com/mikhadesinner/status/1391251183054905345))
 - Getting "The Cloudflare Dashboard is temporarily unavailable" whenever I try to log in. It's been happening intermittently for a few days, but now it's constant. Help? ([matthoneycutt](https://twitter.com/matthoneycutt/status/1391171030954225668))
 - is discord not working anymore why are nothing loading error 502 cloudflare messages failed to load? Discord ([vafarien](https://twitter.com/Vafarien/status/1390819335065661440))
 - I cannot reach your website, only get to the cloudflare check and then Error 522. Anyone else have that problem? ([firespirit66](https://twitter.com/Firespirit66/status/1390800997841358850))
