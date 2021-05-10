@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I'm getting cloudflare 502 bad gateway error and suddenly bunch of stuff is broken: indiehackers, npm, some other websites. Seems like 1/3 of internet broke at once. ([neeadev](https://twitter.com/neeadev/status/1391577102303076353))
 - Web server is returning an unknown error There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed. Ray ID: 64c2c1040cb2ddxf Your IP address: 18x. xxx .x.x4 Error reference number: 520 Cloudflare Location: SG ([mikhadesinner](https://twitter.com/mikhadesinner/status/1391251183054905345))
 - Getting "The Cloudflare Dashboard is temporarily unavailable" whenever I try to log in. It's been happening intermittently for a few days, but now it's constant. Help? ([matthoneycutt](https://twitter.com/matthoneycutt/status/1391171030954225668))
 - is discord not working anymore why are nothing loading error 502 cloudflare messages failed to load? Discord ([vafarien](https://twitter.com/Vafarien/status/1390819335065661440))
