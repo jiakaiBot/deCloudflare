@@ -241,6 +241,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aung86435206@twitter.com](https://twitter.com/Aung86435206/status/1389580022202073089) | moral (advertise Cloudflare) |
 | [aung86612890@twitter.com](https://twitter.com/aung86612890/status/1388291708618637314) | moral (advertise Cloudflare) |
 | [aung90449662@twitter.com](https://twitter.com/aung90449662/status/1377462661927952388) | moral (advertise CloudFlare) |
+| [AungAun31111011@twitter.com](https://twitter.com/AungAun31111011/status/1391761560809340932) | moral (advertise Cloudflare) |
 | [aungaung_japan@twitter.com](https://twitter.com/aungaung_japan/status/1383842558443278340) | moral (advertise Cloudflare) |
 | [AungBho94928121@twitter.com](https://twitter.com/AungBho94928121/status/1391397801884454920) | moral (advertise Cloudflare) |
 | [AungDanaTun2@twitter.com](https://twitter.com/AungDanaTun2/status/1379761574773059593) | moral (advertise Cloudflare) |
@@ -394,6 +395,7 @@ Do not create new issue or we will close it as duplicate.
 | [Blackpysc2@twitter.com](https://twitter.com/Blackpysc2/status/1385634687595417604) | moral (advertise Cloudflare) |
 | [blacksh04937800@twitter.com](https://twitter.com/blacksh04937800/status/1390972744284610561) | moral (advertise Cloudflare) |
 | [BlackSo24069048@twitter.com](https://twitter.com/BlackSo24069048/status/1379285961800998918) | moral (advertise Cloudflare) |
+| [Blood81903194@twitter.com](https://twitter.com/Blood81903194/status/1391762333274411010) | moral (advertise Cloudflare) |
 | [bluenote_18@twitter.com](https://twitter.com/bluenote_18/status/1380066714130386945) | moral (advertise Cloudflare) |
 | [blues_tuan@twitter.com](https://twitter.com/blues_tuan/status/1379313198956830723) | moral (advertise Cloudflare) |
 | [Bngock5@twitter.com](https://twitter.com/Bngock5/status/1382020407981535234) | moral (advertise Cloudflare) |
@@ -474,6 +476,7 @@ Do not create new issue or we will close it as duplicate.
 | [CherryJas1@twitter.com](https://twitter.com/CherryJas1/status/1390217382711414784) | moral (advertise Cloudflare) |
 | [ChestrTuan@twitter.com](https://twitter.com/ChestrTuan/status/1384504491978858503) | moral (advertise Cloudflare) |
 | [ChibHarshu@twitter.com](https://twitter.com/ChibHarshu/status/1381475450476634114) | moral (advertise Cloudflare) |
+| [Chichi14461653@twitter.com](https://twitter.com/Chichi14461653/status/1391758724201541633) | moral (advertise Cloudflare) |
 | [Chit12127394@twitter.com](https://twitter.com/Chit12127394/status/1377063466050056192) | moral (advertise CloudFlare) |
 | [ChitHtw24401859@twitter.com](https://twitter.com/ChitHtw24401859/status/1390946660096696322) | moral (advertise Cloudflare) |
 | [ChitKaungHtetA2@twitter.com](https://twitter.com/ChitKaungHtetA2/status/1391425005188177926) | moral (advertise Cloudflare) |
@@ -749,6 +752,7 @@ Do not create new issue or we will close it as duplicate.
 | [GodOfOwls@twitter.com](https://twitter.com/GodOfOwls/status/1376620972552417282) | moral (advertise Cloudflare) |
 | [Godson51861788@twitter.com](https://twitter.com/Godson51861788/status/1391118380443258883) | moral (advertise Cloudflare) |
 | [GoldenT73523612@twitter.com](https://twitter.com/GoldenT73523612/status/1387635147965485061) | moral (advertise Cloudflare) |
+| [Gone07481288@twitter.com](https://twitter.com/Gone07481288/status/1391760753254813700) | moral (advertise Cloudflare) |
 | [GOODBOY97725961@twitter.com](https://twitter.com/GOODBOY97725961/status/1384905237190922246) | moral (advertise Cloudflare) |
 | [GoodTwins3@twitter.com](https://twitter.com/GoodTwins3/status/1379579295392264196) | moral (advertise Cloudflare) |
 | [GoonerDat@twitter.com](https://twitter.com/GoonerDat/status/1383745932093583360) | moral (advertise Cloudflare) |
@@ -823,6 +827,7 @@ Do not create new issue or we will close it as duplicate.
 | [Heinmin64577969@twitter.com](https://twitter.com/Heinmin64577969/status/1390188897401860096) | moral (advertise Cloudflare) |
 | [HeinNandaAung5@twitter.com](https://twitter.com/HeinNandaAung5/status/1376730030630301699) | moral (advertise CloudFlare) |
 | [HeinPhy80055643@twitter.com](https://twitter.com/HeinPhy80055643/status/1379332657931120644) | moral (advertise Cloudflare) |
+| [Heinsis2@twitter.com](https://twitter.com/Heinsis2/status/1391762316417400839) | moral (advertise Cloudflare) |
 | [HeinSoe72451237@twitter.com](https://twitter.com/HeinSoe72451237/status/1390013521241415684) | moral (advertise Cloudflare) |
 | [HeinWaiShan1@twitter.com](https://twitter.com/HeinWaiShan1/status/1391278872906268676) | moral (advertise Cloudflare) |
 | [HeinYar55341926@twitter.com](https://twitter.com/HeinYar55341926/status/1390189938117812227) | moral (advertise Cloudflare) |
@@ -1013,6 +1018,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ivansai6@twitter.com](https://twitter.com/Ivansai6/status/1390643649617092618) | moral (advertise Cloudflare) |
 | [Ivynguyen98@twitter.com](https://twitter.com/Ivynguyen98/status/1381083176244707328) | moral (advertise Cloudflare) |
 | [iz3__0@twitter.com](https://twitter.com/iz3__0/status/1387606202457149440) | moral (advertise Cloudflare) |
+| [IZZY08644619@twitter.com](https://twitter.com/IZZY08644619/status/1391758790807097348) | moral (advertise Cloudflare) |
 | [I_AmmMmmR_@twitter.com](https://twitter.com/I_AmmMmmR_/status/1387297373798506498) | moral (advertise Cloudflare) |
 | [I_LOVE_ANIMEEWW@twitter.com](https://twitter.com/I_LOVE_ANIMEEWW/status/1387312451251621889) | moral (advertise Cloudflare) |
 | [jackck76316576@twitter.com](https://twitter.com/jackck76316576/status/1381264209636327426) | moral (advertise Cloudflare) |
@@ -1235,6 +1241,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoKhit9@twitter.com](https://twitter.com/KoKhit9/status/1390702857016332288) | moral (advertise Cloudflare) |
 | [KoKo36610539@twitter.com](https://twitter.com/KoKo36610539/status/1390247000612933635) | moral (advertise Cloudflare) |
 | [Koko70033372@twitter.com](https://twitter.com/Koko70033372/status/1391089986230013957) | moral (advertise Cloudflare) |
+| [KoKo84252611@twitter.com](https://twitter.com/KoKo84252611/status/1391761054347190276) | moral (advertise Cloudflare) |
 | [Koko90472024@twitter.com](https://twitter.com/Koko90472024/status/1391090168950530050) | moral (advertise Cloudflare) |
 | [KoKo98456976@twitter.com](https://twitter.com/KoKo98456976/status/1390911086681939969) | moral (advertise Cloudflare) |
 | [Kokoaun73042909@twitter.com](https://twitter.com/Kokoaun73042909/status/1391218442188034048) | moral (advertise Cloudflare) |
@@ -1303,6 +1310,7 @@ Do not create new issue or we will close it as duplicate.
 | [kyawkyawthuwin1@twitter.com](https://twitter.com/kyawkyawthuwin1/status/1390577017842589697) | moral (advertise Cloudflare) |
 | [kyawlinoo2008@twitter.com](https://twitter.com/kyawlinoo2008/status/1377158030924476421) | moral (advertise CloudFlare) |
 | [KyawMgMgOo5@twitter.com](https://twitter.com/KyawMgMgOo5/status/1390038216791584770) | moral (advertise Cloudflare) |
+| [Kyawmin29666991@twitter.com](https://twitter.com/Kyawmin29666991/status/1391760494780891136) | moral (advertise Cloudflare) |
 | [KyawMin54443674@twitter.com](https://twitter.com/KyawMin54443674/status/1391248604673843205) | moral (advertise Cloudflare) |
 | [KyawMyi28621248@twitter.com](https://twitter.com/KyawMyi28621248/status/1390705263708016641) | moral (advertise Cloudflare) |
 | [kyawmyo64906260@twitter.com](https://twitter.com/kyawmyo64906260/status/1390673188594491395) | moral (advertise Cloudflare) |
@@ -1318,6 +1326,7 @@ Do not create new issue or we will close it as duplicate.
 | [KyawThu37534456@twitter.com](https://twitter.com/KyawThu37534456/status/1391638304664158211) | moral (advertise Cloudflare) |
 | [KyawThu95641524@twitter.com](https://twitter.com/KyawThu95641524/status/1391304600511254534) | moral (advertise Cloudflare) |
 | [kyawwaiyanlatt@twitter.com](https://twitter.com/kyawwaiyanlatt/status/1380381835994095617) | moral (advertise Cloudflare) |
+| [KyawYeL44983602@twitter.com](https://twitter.com/KyawYeL44983602/status/1391759079383527428) | moral (advertise Cloudflare) |
 | [KyawYeL80440084@twitter.com](https://twitter.com/KyawYeL80440084/status/1387333690557009925) | moral (advertise Cloudflare) |
 | [Kyawzaw40523860@twitter.com](https://twitter.com/Kyawzaw40523860/status/1390116144045035521) | moral (advertise Cloudflare) |
 | [KyawZay77278853@twitter.com](https://twitter.com/KyawZay77278853/status/1389502978609065984) | moral (advertise Cloudflare) |
@@ -1429,6 +1438,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lynn58120382@twitter.com](https://twitter.com/Lynn58120382/status/1378280012542017537) | moral (advertise CloudFlare) |
 | [Lz2xNRf8Qci6g2T@twitter.com](https://twitter.com/Lz2xNRf8Qci6g2T/status/1387813114490458114) | moral (advertise Cloudflare) |
 | [LzDMSCMW3x0r9Q1@twitter.com](https://twitter.com/LzDMSCMW3x0r9Q1/status/1386623171395129350) | moral (advertise Cloudflare) |
+| [LzOda2C5XThlwU9@twitter.com](https://twitter.com/LzOda2C5XThlwU9/status/1391759390017941504) | moral (advertise Cloudflare) |
 | [m1lo20@twitter.com](https://twitter.com/m1lo20/status/1391605926424109056) | moral (advertise Cloudflare) |
 | [m414gold12@twitter.com](https://twitter.com/m414gold12/status/1379624576355688448) | moral (advertise Cloudflare) |
 | [m42383619@twitter.com](https://twitter.com/m42383619/status/1389585140200861700) | moral (advertise Cloudflare) |
@@ -1969,6 +1979,7 @@ Do not create new issue or we will close it as duplicate.
 | [phwaysan1@twitter.com](https://twitter.com/phwaysan1/status/1377088458615881729) | moral (advertise CloudFlare) |
 | [Phyo12025227@twitter.com](https://twitter.com/Phyo12025227/status/1391062303940898819) | moral (advertise Cloudflare) |
 | [Phyoe36666963@twitter.com](https://twitter.com/Phyoe36666963/status/1390214701418569729) | moral (advertise Cloudflare) |
+| [PhyoLwi36366379@twitter.com](https://twitter.com/PhyoLwi36366379/status/1391761778086866945) | moral (advertise Cloudflare) |
 | [PhyoMaung71196@twitter.com](https://twitter.com/PhyoMaung71196/status/1390725910618279939) | moral (advertise Cloudflare) |
 | [PhyoMinThetPain@twitter.com](https://twitter.com/PhyoMinThetPain/status/1390612822921400321) | moral (advertise Cloudflare) |
 | [PhyoPai28342623@twitter.com](https://twitter.com/PhyoPai28342623/status/1390944127420833794) | moral (advertise Cloudflare) |
@@ -2456,6 +2467,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thichbucu51@twitter.com](https://twitter.com/Thichbucu51/status/1386468559073669122) | moral (advertise Cloudflare) |
 | [Thien51800662@twitter.com](https://twitter.com/Thien51800662/status/1383463127044399105) | moral (advertise Cloudflare) |
 | [Thien55886244@twitter.com](https://twitter.com/Thien55886244/status/1377669194137759745) | moral (advertise CloudFlare) |
+| [Thierie9@twitter.com](https://twitter.com/Thierie9/status/1391758445947228161) | moral (advertise Cloudflare) |
 | [Thihaau33552175@twitter.com](https://twitter.com/Thihaau33552175/status/1390217617965649929) | moral (advertise Cloudflare) |
 | [ThihaHtoo1992@twitter.com](https://twitter.com/ThihaHtoo1992/status/1391336986561056773) | moral (advertise Cloudflare) |
 | [ThihaKy30619088@twitter.com](https://twitter.com/ThihaKy30619088/status/1390976224973910020) | moral (advertise Cloudflare) |
