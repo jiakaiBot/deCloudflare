@@ -9,4 +9,5 @@
 
 - [Historio / History](HISTORY.md)
 - [Permesilo / License](LICENSE.md)
+- [Donate to deCloudflare](HELP.md)
 
