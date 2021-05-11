@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I said "When you get a screen with a pretty error message that's the DNS protection." I.e. Cloudflare error messages vs something from nginx ([calvinfroedge](https://twitter.com/calvinfroedge/status/1392186078510133251))
 - Fucking assholes Zotac RTX3090 in my cart and their horse shit website does that stupid fucking cloudflare 522 error. FUCK YOU ([fakejoebiden46](https://twitter.com/FakeJoeBiden46/status/1390042166152646656))
 - I always get a "Error 1020" error from cloudflare trying to visit your website. Does the website still excist? ([annewindr](https://twitter.com/AnneWindR/status/1392096513451565059))
 - 🤦🏻 You’re trying to tell ME how encryption works?! 🤣 Cloudflare sits in the middle. They are the man-in-the-middle. ([kyleolbert](https://twitter.com/KyleOlbert/status/1329635689512710144))
