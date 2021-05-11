@@ -7,5 +7,6 @@
 
 ---
 
+- [Historio / History](HISTORY.md)
 - [Permesilo / License](LICENSE.md)
 
