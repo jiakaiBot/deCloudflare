@@ -138,7 +138,6 @@ Ni scias pri la ekzisto de falsaj kontoj, kiuj anstataŭas niajn oficialajn kana
 Ni neniam demandas vian nomon.
 Ni neniam demandas vian identecon.
 Ni neniam demandas vian lokon.
-Ni neniam petas vian donacon.
 Ni neniam petas vian recenzon.
 Ni neniam petas vin sekvi en sociaj amaskomunikiloj.
 Ni neniam demandas vian interkonan retejon.**
