@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I always get a "Error 1020" error from cloudflare trying to visit your website. Does the website still excist? ([annewindr](https://twitter.com/AnneWindR/status/1392096513451565059))
 - 🤦🏻 You’re trying to tell ME how encryption works?! 🤣 Cloudflare sits in the middle. They are the man-in-the-middle. ([kyleolbert](https://twitter.com/KyleOlbert/status/1329635689512710144))
 - … never warned us Cloudflare was routing election data over its CDN — certainly subject to inspection/retention — ostensibly to prevent DDoS attacks. Sure, nobody got DDoS'd. But it's not beyond the realm of possibility they MITM'd/reverse proxied votes … ([kyleolbert](https://twitter.com/KyleOlbert/status/1329592805426159616))
 - Pest eller kolera. Cloudflare er problematisk bla med hvordan de kontrollerer ssl sertifikater og i praksis er man in the middle. ([espenantonsen](https://twitter.com/EspenAntonsen/status/1311988088286175232))
