@@ -1,17 +1,5 @@
-### Donating to deCloudflare
+# Sorry.
 
-~~~Please consider donation if you like this project. ~~~
-
-~~~Your donation will be used to help us maintain our projects like [this one](https://dns.crimeflare.eu.org/). ~~~
-
-~~~If you like to have your name listed here as donator please create a Pull Request.~~~
-
-
-- ~~~Bitcoin~~~
-  - `THERE IS NOTHING HERE MOVE ALONG`
-
-
-# Thank you. Bye.
-
-
-# ABORT
+[This page is not available. 
+This page is deprecated and will be removed in near future. 
+Thank you for your time for looking at this file. ](https://git.nogafam.es/deCloudflare/deCloudflare/pulls/16#issuecomment-35)
