@@ -457,6 +457,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- 🤦🏻 You’re trying to tell ME how encryption works?! 🤣 Cloudflare sits in the middle. They are the man-in-the-middle. ([kyleolbert](https://twitter.com/KyleOlbert/status/1329635689512710144))
+- … never warned us Cloudflare was routing election data over its CDN — certainly subject to inspection/retention — ostensibly to prevent DDoS attacks. Sure, nobody got DDoS'd. But it's not beyond the realm of possibility they MITM'd/reverse proxied votes … ([kyleolbert](https://twitter.com/KyleOlbert/status/1329592805426159616))
+- Pest eller kolera. Cloudflare er problematisk bla med hvordan de kontrollerer ssl sertifikater og i praksis er man in the middle. ([espenantonsen](https://twitter.com/EspenAntonsen/status/1311988088286175232))
 - I'm getting cloudflare 502 bad gateway error and suddenly bunch of stuff is broken: indiehackers, npm, some other websites. Seems like 1/3 of internet broke at once. ([neeadev](https://twitter.com/neeadev/status/1391577102303076353))
 - Web server is returning an unknown error There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed. Ray ID: 64c2c1040cb2ddxf Your IP address: 18x. xxx .x.x4 Error reference number: 520 Cloudflare Location: SG ([mikhadesinner](https://twitter.com/mikhadesinner/status/1391251183054905345))
 - Getting "The Cloudflare Dashboard is temporarily unavailable" whenever I try to log in. It's been happening intermittently for a few days, but now it's constant. Help? ([matthoneycutt](https://twitter.com/matthoneycutt/status/1391171030954225668))
