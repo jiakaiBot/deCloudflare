@@ -477,8 +477,7 @@
 | Doria Eve | Employee |  |
 | Doug Kramer | Employee | |
 | Douglas Anwar | Web Security |  |
-| Douglas James Kramer | General Counsel | |
-| Douglas Kramer | General Counsel |  |
+| Douglas Kramer | General Counsel | "Douglas James Kramer"<br>doug@cloudflare.com |
 | Dragos Bogdan | Product Marketing Manager |  |
 | Drew Dowling | Full Stack Engineer |  |
 | Drew Herron | Brand Designer |  |
@@ -1303,7 +1302,7 @@
 | Rohan Oswal | Big Data Engineer | |
 | Rohit Agarwal | Systems Engineer |  |
 | Rommy Tosana | Support Engineer, Singapore |  |
-| Rory Malone | Employee | |
+| Rory Malone | London Employee | |
 | Roshni Hundel | Recruiting Coordinator |  |
 | Rosie Parket | Paralegal |  |
 | Ross Guarino | Systems Engineer | https://twitter.com/0xRLG<br>https://rlg.io/<br>ross@rlg.io<br>https://linkedin.com/in/rlguarino<br>https://github.com/rlguarino |
