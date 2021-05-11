@@ -144,7 +144,6 @@ We know about the existence of fake accounts impersonating our official channels
 We never ask your name. 
 We never ask your identity. 
 We never ask your location. 
-We never ask your donation. 
 We never ask your review. 
 We never ask you to follow on social media. 
 We never ask your social media.**
