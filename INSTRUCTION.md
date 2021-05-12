@@ -203,13 +203,15 @@ If you're not blocking Tor users, you will be removed automatically.
 
 A or B will be enough. Thank you for your contribution.
 
+
 > Type A: Push to git
 
-1. Log in to this website.
+1. Log in to [this website](http://crimeflare.eu.org).
   - If you're Tor user, we recommend 'type B'.
 2. Click "*Fork*" button.  (top-left corner)
 3. Edit `text` file.  (you don't have to edit JSON file)
-4. Click *Double-arrow* button to create a *new pull request*.
+4. Create a *new pull request*.
+
 
 > Type B: Just scan the FQDN
 
