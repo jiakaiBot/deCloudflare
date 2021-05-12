@@ -140,6 +140,7 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 | [/fqdn/attd.txt](anti-tor_users/fqdn/attd.txt)     | **Block Tor access** Split files, Everything (FQDN)     |
 | [/fqdn/attd.json](anti-tor_users/fqdn/attd.json)     | **Block Tor access** Split files, Everything (JSON)     |
 | [/fqdn/antiarchive.txt](anti-tor_users/fqdn/antiarchive.txt) | [Opted out](anti-tor_users/fqdn/README.md) from Internet Archive Wayback Machine (FQDN) |
+| [/fqdn/antiarchive.json](anti-tor_users/fqdn/antiarchive.json) | [Opted out](anti-tor_users/fqdn/README.md) from Internet Archive Wayback Machine (JSON) |
 | [/misc/hostility.md](anti-tor_users/misc/hostility.md) | **Does NOT block Tor access** Domain and Comment |
 
 
@@ -206,8 +207,8 @@ A or B will be enough. Thank you for your contribution.
 
 1. Log in to this website.
   - If you're Tor user, we recommend 'type B'.
-2. Click "*Fork*" button. (top-left corner)
-3. Edit text file.
+2. Click "*Fork*" button.  (top-left corner)
+3. Edit `text` file.  (you don't have to edit JSON file)
 4. Click *Double-arrow* button to create a *new pull request*.
 
 > Type B: Just scan the FQDN
@@ -221,6 +222,8 @@ A or B will be enough. Thank you for your contribution.
   - Use "_Is it blocking Tor?_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 (API URL)is_antitor.php?f=www.cloudflare.com`
   - Or: Use add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)"
+- Anti-Archive
+  - N/A (Use type A for now)
 
 <br>
 Your contribution will be pushed to git automatically.
