@@ -16,6 +16,15 @@
 
 
 # Forigu sin el la Wayback-maŝino de la Interreta Arkivo
+
+
+[//]: # (do not edit me; start)
+
+## _null_ FQDN
+
+[//]: # (do not edit me; end)
+
+
 Iuj Tor-uzantoj dividas [arkivan ligon](https://web.archive.org/) kiel anstataŭigo de ligilo kiu rilatas al Cloudflare.
 Tamen ekzistas retejoj kiuj forigis sin de la Wayback-maŝino.
 
