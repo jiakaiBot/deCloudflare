@@ -114,6 +114,7 @@ Here's a list of public Git services.
 | git.passageenseine.fr | No |
 | git.plsnotracking.com | No |
 | git.plspnkt.uber.space | No |
+| git.pofilo.fr | No |
 | git.polytech-services-nancy.fr | No |
 | git.pyrocko.org | No |
 | git.radio.clubs.etsit.upm.es | No |
@@ -234,7 +235,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 36 |
-| Normal | 162 |
+| Normal | 163 |
 
 
-### 18.2% of public Git services are using Cloudflare.
+### 18.1% of public Git services are using Cloudflare.
