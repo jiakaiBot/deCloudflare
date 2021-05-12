@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-05-12: [Cloudflare Pages Intermittent Build Failures](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ngmzl23qwzpw)
 - 2021-05-11: [1.1.1.1 for Families DoH Connectivity Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wsxjrx35wqnr)
 - 2021-05-10: [Elevated number of 522 errors in LHR, London](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pwy4ncdyljwt)
 - 2021-05-10: [Network Performance Issues in Atlanta, GA, United States - (ATL)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/27b5g91ymk3s)
