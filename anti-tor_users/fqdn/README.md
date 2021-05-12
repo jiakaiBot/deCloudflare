@@ -49,6 +49,7 @@ Tamen ekzistas retejoj kiuj forigis sin de la Wayback-maŝino.
 
 
 # Opted out from the Internet Archive's Wayback Machine
+
 Some Tor users are sharing [archive.org](https://web.archive.org/) link as a replacement of link which are related to Cloudflare.
 However there are websites which opted themselves out from the Wayback Machine.
 - "Why isn't the site I'm looking for in the archive?"
