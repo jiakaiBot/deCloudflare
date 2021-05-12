@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- يعني اي query مسموح بالنسبة لهم بيعدي واذا لا ما بتطلع نتائج .. خلصنا من man in the middle attack طلع لنا company in the middle attack ([faisal_z3em](https://twitter.com/Faisal_z3em/status/1321671026502213632))
 - Is it zerotrust if we have to trust Cloudflare to use it? You've changed the threat model and become the threat. I'm just fascinated by how much of your stuff amounts to voluntary submission to man-in-the-middle attacks packaged as products. I use your stuff in places, but 🤯 ([gabrielbauman](https://twitter.com/GabrielBauman/status/1316760648613728259))
 - Cloudflare ist doch eigentlich ein gigantischer man in the middle oder? 🧐 ([nesewebel](https://twitter.com/Nesewebel/status/1273170573582127109))
 - Source? MITM attacks are done on unencrypted sites. SSL/TLS is there to protect against man in the middle. I just took a crypto class LOL. ([iansoohoo](https://twitter.com/IanSooHoo/status/1272648954996350976))
