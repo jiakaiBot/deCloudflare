@@ -457,6 +457,11 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Is it zerotrust if we have to trust Cloudflare to use it? You've changed the threat model and become the threat. I'm just fascinated by how much of your stuff amounts to voluntary submission to man-in-the-middle attacks packaged as products. I use your stuff in places, but 🤯 ([gabrielbauman](https://twitter.com/GabrielBauman/status/1316760648613728259))
+- Cloudflare ist doch eigentlich ein gigantischer man in the middle oder? 🧐 ([nesewebel](https://twitter.com/Nesewebel/status/1273170573582127109))
+- Source? MITM attacks are done on unencrypted sites. SSL/TLS is there to protect against man in the middle. I just took a crypto class LOL. ([iansoohoo](https://twitter.com/IanSooHoo/status/1272648954996350976))
+- I never understood why the man in the middle was always Eve Is this a trans thing? ([smartcryptology](https://twitter.com/SmartCryptology/status/1271495371802509312))
+- We have a problem,please hold on Bad gateway The web server reported a bad gateway error. Ray ID: 64e1f1872a4423f8 Your IP address: 172.93.165.101 Error reference number: 502 Cloudflare Location: Hong Kong ????? ([dngng11610288](https://twitter.com/dngng11610288/status/1392381933112291330))
 - I said "When you get a screen with a pretty error message that's the DNS protection." I.e. Cloudflare error messages vs something from nginx ([calvinfroedge](https://twitter.com/calvinfroedge/status/1392186078510133251))
 - Fucking assholes Zotac RTX3090 in my cart and their horse shit website does that stupid fucking cloudflare 522 error. FUCK YOU ([fakejoebiden46](https://twitter.com/FakeJoeBiden46/status/1390042166152646656))
 - I always get a "Error 1020" error from cloudflare trying to visit your website. Does the website still excist? ([annewindr](https://twitter.com/AnneWindR/status/1392096513451565059))
