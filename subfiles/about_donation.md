@@ -1,7 +1,6 @@
 ### Donating to deCloudflare
 
 Please consider donation if you like this project. 
-
 Your donation will be used to help us maintain our projects.
 
 
