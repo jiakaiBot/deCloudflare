@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- That's a Cloudflare error. Looks like they banned your IP. Did you do something naughty? ([bertelschmitt](https://twitter.com/BertelSchmitt/status/1392847840515280900))
 - Right, so Cloudflare still gets to MITM the DNS traffic and if Cloudflare goes down, you go down. I'm glad you're considering other options. One of the main reasons for using a non-Cloudflare DNS provider is fighting against the single point of failure that is Cloudflare. ([joinmastodon](https://twitter.com/joinmastodon/status/1284508852797546498))
 - يعني اي query مسموح بالنسبة لهم بيعدي واذا لا ما بتطلع نتائج .. خلصنا من man in the middle attack طلع لنا company in the middle attack ([faisal_z3em](https://twitter.com/Faisal_z3em/status/1321671026502213632))
 - Is it zerotrust if we have to trust Cloudflare to use it? You've changed the threat model and become the threat. I'm just fascinated by how much of your stuff amounts to voluntary submission to man-in-the-middle attacks packaged as products. I use your stuff in places, but 🤯 ([gabrielbauman](https://twitter.com/GabrielBauman/status/1316760648613728259))
