@@ -1,4 +1,4 @@
-# Kontraŭ-Tor uzantoj FQDN-listo [ℹ](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/list_dbat.php)
+# Kontraŭ-Tor uzantoj FQDN-listo
 
 
 [//]: # (do not edit me; start)
