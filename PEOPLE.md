@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- For me the statistics are WAY LOW! "32 seconds" I spend 3 minutes filling out captchas on a good day. "1 captcha every 10 days." Try 10 captchas every day. But point taken! It's awesome you're trying something new. ([thesrcrr](https://twitter.com/TheSrcRr/status/1392912605396705280))
 - Still breaking for me :( 520 cloudflare error ([_schism15](https://twitter.com/_schism15/status/1392866376142888966))
 - not a bug, the Spanish government unironically blocked Twitch's sourcing server, we can't access the content because the server is blocked lmao Note: It appears to be a DNS block, therefore, simply switching to Cloudflare or Google DNS servers fixes the error. ([codingneko](https://twitter.com/codingneko/status/1392855522282545153))
 - That's correct. This is ONLY to prove there is a human there. So the human touches/taps the key/device/phone and they don't have to solve a CAPTCHA. Then they go to the next step, to create an account/login/post etc. ([nickbraak](https://twitter.com/NickBraak/status/1392894899100520454))
