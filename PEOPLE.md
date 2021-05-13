@@ -457,6 +457,11 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Still breaking for me :( 520 cloudflare error ([_schism15](https://twitter.com/_schism15/status/1392866376142888966))
+- not a bug, the Spanish government unironically blocked Twitch's sourcing server, we can't access the content because the server is blocked lmao Note: It appears to be a DNS block, therefore, simply switching to Cloudflare or Google DNS servers fixes the error. ([codingneko](https://twitter.com/codingneko/status/1392855522282545153))
+- That's correct. This is ONLY to prove there is a human there. So the human touches/taps the key/device/phone and they don't have to solve a CAPTCHA. Then they go to the next step, to create an account/login/post etc. ([nickbraak](https://twitter.com/NickBraak/status/1392894899100520454))
+- Good question. This is a time-saving alternative to manually having to solve CAPTCHA questions to prove there is a person there and not a bot/script/process. It's not for ID verification, which security keys are generally used for. ([nickbraak](https://twitter.com/NickBraak/status/1392883302768517122))
+- So let's make thing more crap, and complicated, so that we get rid of captcha? This does not solve the bot problem, and does not help disabled people either. ([herrjemand](https://twitter.com/herrjemand/status/1392867746015322112))
 - That's a Cloudflare error. Looks like they banned your IP. Did you do something naughty? ([bertelschmitt](https://twitter.com/BertelSchmitt/status/1392847840515280900))
 - Right, so Cloudflare still gets to MITM the DNS traffic and if Cloudflare goes down, you go down. I'm glad you're considering other options. One of the main reasons for using a non-Cloudflare DNS provider is fighting against the single point of failure that is Cloudflare. ([joinmastodon](https://twitter.com/joinmastodon/status/1284508852797546498))
 - يعني اي query مسموح بالنسبة لهم بيعدي واذا لا ما بتطلع نتائج .. خلصنا من man in the middle attack طلع لنا company in the middle attack ([faisal_z3em](https://twitter.com/Faisal_z3em/status/1321671026502213632))
