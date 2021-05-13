@@ -6,7 +6,7 @@ Your donation will be used to help us maintain our projects.
 
 
 <details>
-<summary>
+<summary> _click me_
 
 ## by Bitcoin
 </summary>
