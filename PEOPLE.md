@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Keep getting a Cloudflare error page (error 524) trying to manage a domain as I'm migrating the site to a new host. In a time crunch here so timing is really bad... I can log into the account, can't get to the domain's manage page. ([pixelyzed](https://twitter.com/pixelyzed/status/1393212142996836356))
 - Title: Why Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a bad idea 💬: Would it be possible to make something like this for sites that support JS? Just using the browser plug-in, and the rest of the apps. ([hncynic](https://twitter.com/hncynic/status/1393178600434700290))
 - This is a disaster. It is not achieving anything at the expense of something unnecessary. Please abort. Not everything is meant to be solved. 10 second CAPTCHA is fine we nailed it already. We waste a lot more on other stuff. ([mrrobot268](https://twitter.com/MrRobot268/status/1393140059478454279))
 - For me the statistics are WAY LOW! "32 seconds" I spend 3 minutes filling out captchas on a good day. "1 captcha every 10 days." Try 10 captchas every day. But point taken! It's awesome you're trying something new. ([thesrcrr](https://twitter.com/TheSrcRr/status/1392912605396705280))
