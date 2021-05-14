@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-05-14: [HTTP 500 errors for Image Resizing for certain JPEG images with EXIF metadata](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lbg823p4xqj1)
 - 2021-05-12: [Cloudflare Pages Intermittent Build Failures](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ngmzl23qwzpw)
 - 2021-05-11: [1.1.1.1 for Families DoH Connectivity Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wsxjrx35wqnr)
 - 2021-05-10: [Elevated number of 522 errors in LHR, London](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pwy4ncdyljwt)
