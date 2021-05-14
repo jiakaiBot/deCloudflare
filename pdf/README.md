@@ -8,10 +8,12 @@
 | 2004 | [Tor The Second-Generation Onion Router](2004-Tor_The_Second-Generation_Onion_Router.pdf) |
 | 2006 | [Practical Onion Hacking Finding the real address of Tor clients](2006-Practical_Onion_Hacking_Finding_the_real_address_of_Tor_clients.pdf) |
 | 2006 | [UK NISCC Telecommunications Resilience](2006-UK_NISCC_Telecommunications_Resilience.pdf) |
+| 2008 | [Robust De-anonymization of Large Sparse Datasets](2008-Robust_De-anonymization_of_Large_Sparse_Datasets.pdf) |
 | 2008 | [Shining Light in Dark Places Understanding the Tor Network](2008-Shining_Light_in_Dark_Places_Understanding_the_Tor_Network.pdf) |
 | 2010 | [Digging into Anonymous Traffic deep analysis of the Tor anonymizing network](2010-Digging_into_Anonymous_Traffic_deep_analysis_of_the_Tor_anonymizing_network.pdf) |
 | 2012 | [Biometric Alternatives to CAPTCHA Exploring Accessible Interface](2012-Biometric_Alternatives_to_CAPTCHA_Exploring_Accessible_Interface.pdf) |
 | 2012 | [TorScan Tracing Long-lived Connections and Differential Scanning Attacks](2012-TorScan_Tracing_Long-lived_Connections_and_Differential_Scanning_Attacks.pdf) |
+| 2013 | [Matching Known Patients to Health Records in Washington State Data](2013-Matching_Known_Patients_to_Health_Records_in_Washington_State_Data.pdf) |
 | 2013 | [Trawling for Tor Hidden Services Detection Measurement Deanonymization](2013-Trawling_for_Tor_Hidden_Services_Detection_Measurement_Deanonymization.pdf) |
 | 2013 | [Users Get Routed Traffic Correlation on Tor by Realistic Adversaries](2013-Users_Get_Routed_Traffic_Correlation_on_Tor_by_Realistic_Adversaries.pdf) |
 | 2014 | [EU WP216 Article 29 Data Protection Working Party](2014-euWP216_Article_29_Data_Protection_Working_Party.pdf) |
@@ -45,6 +47,7 @@
 | 2018 | [The Death of Transit and the Future Internet](2018-The_Death_of_Transit_and_the_Future_Internet.pdf) |
 | 2019 | [A First Look at References from the Dark to Surface Web World](2019-A_First_Look_at_References_from_the_Dark_to_Surface_Web_World.pdf) |
 | 2019 | [Analyzing Chinas Blocking of Unpublished Tor Bridges](2019-Analyzing_Chinas_Blocking_of_Unpublished_Tor_Bridges.pdf) |
+| 2019 | [Estimating the success of re-identifications in incomplete datasets using generative models](2019-Estimating_the_success_of_re-identifications_in_incomplete_datasets_using_generative_models.pdf) |
 | 2019 | [Something Dark INVESTIGATING IN THE DARK WEB](2019-Something_Dark_INVESTIGATING_IN_THE_DARK_WEB.pdf) |
 | 2019 | [The Great Cloudwall](2019-The_Great_Cloudwall.pdf) |
 | 2019 | [Thirteen Years of Tor Attacks](2019-Thirteen_Years_of_Tor_Attacks.pdf) |
