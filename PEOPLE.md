@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Title: Why Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a bad idea 💬: Would it be possible to make something like this for sites that support JS? Just using the browser plug-in, and the rest of the apps. ([hncynic](https://twitter.com/hncynic/status/1393178600434700290))
 - This is a disaster. It is not achieving anything at the expense of something unnecessary. Please abort. Not everything is meant to be solved. 10 second CAPTCHA is fine we nailed it already. We waste a lot more on other stuff. ([mrrobot268](https://twitter.com/MrRobot268/status/1393140059478454279))
 - For me the statistics are WAY LOW! "32 seconds" I spend 3 minutes filling out captchas on a good day. "1 captcha every 10 days." Try 10 captchas every day. But point taken! It's awesome you're trying something new. ([thesrcrr](https://twitter.com/TheSrcRr/status/1392912605396705280))
 - Still breaking for me :( 520 cloudflare error ([_schism15](https://twitter.com/_schism15/status/1392866376142888966))
