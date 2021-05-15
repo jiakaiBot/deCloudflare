@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Site seems to be down. Error 522 from Cloudflare. isitdown style sites report it down as well. ([snikis](https://twitter.com/snikis/status/1393661805768101888))
 - مو بصورة مباشرة لكن للمواقع والخدمات والبروتوكويات الغير مؤمنة، يقدرون يسوون man in the middle attack ويتجسسون على معلوماتك ايضا. ([ahmadh](https://twitter.com/ahmadh/status/1290730330744381441))
 - Keep getting a Cloudflare error page (error 524) trying to manage a domain as I'm migrating the site to a new host. In a time crunch here so timing is really bad... I can log into the account, can't get to the domain's manage page. ([pixelyzed](https://twitter.com/pixelyzed/status/1393212142996836356))
 - Title: Why Cloudflare’s CAPTCHA replacement with FIDO2/WebAuthn is a bad idea 💬: Would it be possible to make something like this for sites that support JS? Just using the browser plug-in, and the rest of the apps. ([hncynic](https://twitter.com/hncynic/status/1393178600434700290))
