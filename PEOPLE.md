@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- maybe this is the cure for your captcha nightmare stories? 🤷‍♂️😂😂 ([deviorobert](https://twitter.com/deviorobert/status/1393925920701001737))
 - Most of these only work if the site was first not behind Cloudflare and previous DNS records have origin IP saved. Otherwise, there’s no other way to bypass at the moment. I’ve tried other methods including passing CAPTCHA challenge auth cookie. Was something else I missed? ([sploitable](https://twitter.com/Sploitable/status/1393776722839965697))
 - Error 1020 Ray ID: 650006c4e8b274d3 •2021-05-15 23:08:07 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 650006c4e8b274d3Your IP: 186.50.162.144Performance & security by Cloudflare ([pragmaticouy](https://twitter.com/Pragmaticouy/status/1393705252214480896))
 - Site seems to be down. Error 522 from Cloudflare. isitdown style sites report it down as well. ([snikis](https://twitter.com/snikis/status/1393661805768101888))
