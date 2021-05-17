@@ -323,6 +323,7 @@
 | Chris Broglie | Web Services Engineer |  |
 | Chris Chua | Customer Success Manager, Singapore |  |
 | Chris Conanan | Business Development |  |
+| Chris De La Garza | Employee | |
 | Chris Howells | Systems Reliability Engineer |  |
 | Chris Jones | Financial Planning |  |
 | Chris Kenney | Partner Sales Manager, Austin |  |
@@ -1464,8 +1465,8 @@
 | Sylvia Kuyel | Customer Success Engineer |  |
 | Sylvie Cosgrove | Head of Information Technology |  |
 | Sze Chuen Tan | Systems Reliability Engineer | https://twitter.com/sctan |
-| Sébastien Pahl | Systems Reliability Engineer | |
 | Sébastien Pahl | Systems Reliability Engineer |  |
+| Sébastien Pahl | Systems Reliability Engineer | |
 | Taj Bhat | Employee |  |
 | Talea Seyed | Customer Success |  |
 | Talha Paracha | Intern | |
