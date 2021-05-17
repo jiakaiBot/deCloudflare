@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Cool, par contre reponse CLOUDFLAREERROR500SBOX Access denied This website is using a security service to protect itself from online attacks au bout de 10 minutes. 😧 ([vfds54vf5d3s4vf](https://twitter.com/vfds54vf5d3s4vf/status/1394268718918770691))
 - Cloudflare Blocks the Belllife Website. Error 1020 I cant enter the website. I would Like to. Please help ([danielweiss07](https://twitter.com/danielweiss07/status/1394130281414766596))
 - maybe this is the cure for your captcha nightmare stories? 🤷‍♂️😂😂 ([deviorobert](https://twitter.com/deviorobert/status/1393925920701001737))
 - Most of these only work if the site was first not behind Cloudflare and previous DNS records have origin IP saved. Otherwise, there’s no other way to bypass at the moment. I’ve tried other methods including passing CAPTCHA challenge auth cookie. Was something else I missed? ([sploitable](https://twitter.com/Sploitable/status/1393776722839965697))
