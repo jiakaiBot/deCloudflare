@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Cloudflare has announced a plan to do CAPTCHAs utilizing U2F devices. This effectively automates and removes captcha solving jobs hurting a valuable industry and a great resource for machine learning datasets. ([j0nathan42](https://twitter.com/j0nathan42/status/1394340753959100416))
 - Looked at your other post and it made more sense to me today, I think we're working with the same idea, I'm just leveraging cloudflare/captcha for my proof of human where you suggest using straight up PoW ([das_connor](https://twitter.com/das_connor/status/1394323885206736896))
 - anyone else in the NY region getting the cloudflare error message? ([noe_drums](https://twitter.com/noe_drums/status/1394306165857787908))
 - Cool, par contre reponse CLOUDFLAREERROR500SBOX Access denied This website is using a security service to protect itself from online attacks au bout de 10 minutes. 😧 ([vfds54vf5d3s4vf](https://twitter.com/vfds54vf5d3s4vf/status/1394268718918770691))
