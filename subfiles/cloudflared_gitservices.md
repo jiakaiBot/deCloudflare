@@ -67,6 +67,7 @@ Here's a list of public Git services.
 | git.chenguanzhou.com | No |
 | git.cyberjinh.fr | No |
 | git.data.coop | No |
+| git.deuchnord.fr | No |
 | git.devuan.org | No |
 | git.disroot.org | No |
 | git.dmxcontrol-projects.org | No |
@@ -235,7 +236,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 36 |
-| Normal | 163 |
+| Normal | 164 |
 
 
-### 18.1% of public Git services are using Cloudflare.
+### 18% of public Git services are using Cloudflare.
