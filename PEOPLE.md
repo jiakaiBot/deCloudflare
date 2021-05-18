@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- so will you add bot protection/captcha/cloudflare ? its impossible to buy certain items, all your website sells to is scalpers who resell for 3x more on ebay. nobody else gets a chance, at all. ([dandandan0123](https://twitter.com/dandandan0123/status/1394484151441629187))
 - And about 90% are on the Cloudflare captcha for me. (thanks to constantly using VPN's) ([justanthonylee](https://twitter.com/justanthonylee/status/1394414877653966848))
 - Very glad to see this! Getting rid of Captcha's, and in a privacy-sensitive way. Nice. ([tjplas](https://twitter.com/TJPlas/status/1394388201721057282))
 - Cloudflare has announced a plan to do CAPTCHAs utilizing U2F devices. This effectively automates and removes captcha solving jobs hurting a valuable industry and a great resource for machine learning datasets. ([j0nathan42](https://twitter.com/j0nathan42/status/1394340753959100416))
