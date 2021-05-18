@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- The captcha sucks. Totally stopped visiting a bunch of sites because of it. ([samrussellnz](https://twitter.com/samrussellnz/status/1394543825675329536))
 - so will you add bot protection/captcha/cloudflare ? its impossible to buy certain items, all your website sells to is scalpers who resell for 3x more on ebay. nobody else gets a chance, at all. ([dandandan0123](https://twitter.com/dandandan0123/status/1394484151441629187))
 - And about 90% are on the Cloudflare captcha for me. (thanks to constantly using VPN's) ([justanthonylee](https://twitter.com/justanthonylee/status/1394414877653966848))
 - Very glad to see this! Getting rid of Captcha's, and in a privacy-sensitive way. Nice. ([tjplas](https://twitter.com/TJPlas/status/1394388201721057282))
