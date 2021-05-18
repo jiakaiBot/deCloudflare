@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- And about 90% are on the Cloudflare captcha for me. (thanks to constantly using VPN's) ([justanthonylee](https://twitter.com/justanthonylee/status/1394414877653966848))
 - Very glad to see this! Getting rid of Captcha's, and in a privacy-sensitive way. Nice. ([tjplas](https://twitter.com/TJPlas/status/1394388201721057282))
 - Cloudflare has announced a plan to do CAPTCHAs utilizing U2F devices. This effectively automates and removes captcha solving jobs hurting a valuable industry and a great resource for machine learning datasets. ([j0nathan42](https://twitter.com/j0nathan42/status/1394340753959100416))
 - Looked at your other post and it made more sense to me today, I think we're working with the same idea, I'm just leveraging cloudflare/captcha for my proof of human where you suggest using straight up PoW ([das_connor](https://twitter.com/das_connor/status/1394323885206736896))
