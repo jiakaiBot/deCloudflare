@@ -299,6 +299,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungAun81972747@twitter.com](https://twitter.com/AungAun81972747/status/1394153734389727234) | moral (advertise Cloudflare) |
 | [aungaung_japan@twitter.com](https://twitter.com/aungaung_japan/status/1383842558443278340) | moral (advertise Cloudflare) |
 | [AungBho94928121@twitter.com](https://twitter.com/AungBho94928121/status/1391397801884454920) | moral (advertise Cloudflare) |
+| [AungBoB83357547@twitter.com](https://twitter.com/AungBoB83357547/status/1394788523736145920) | moral (advertise Cloudflare) |
 | [AungBonePyae4@twitter.com](https://twitter.com/AungBonePyae4/status/1393481502210412544) | moral (advertise Cloudflare) |
 | [AungDanaTun2@twitter.com](https://twitter.com/AungDanaTun2/status/1379761574773059593) | moral (advertise Cloudflare) |
 | [AungGyi40415481@twitter.com](https://twitter.com/AungGyi40415481/status/1394439578891833352) | moral (advertise Cloudflare) |
@@ -1440,6 +1441,7 @@ Do not create new issue or we will close it as duplicate.
 | [JokerssJoker@twitter.com](https://twitter.com/JokerssJoker/status/1391006544184057859) | moral (advertise Cloudflare) |
 | [joki91564607@twitter.com](https://twitter.com/joki91564607/status/1382441461719924740) | moral (advertise Cloudflare) |
 | [Jone_war@twitter.com](https://twitter.com/Jone_war/status/1390029390478680067) | moral (advertise Cloudflare) |
+| [jonhnyStand@twitter.com](https://twitter.com/jonhnyStand/status/1394783199503421442) | moral (advertise Cloudflare) |
 | [JonhSon57874482@twitter.com](https://twitter.com/JonhSon57874482/status/1384145288537927685) | moral (advertise Cloudflare) |
 | [JoonCathy@twitter.com](https://twitter.com/JoonCathy/status/1391688136925712391) | moral (advertise Cloudflare) |
 | [josephillips@twitter.com](https://twitter.com/josephillips/status/1378443854110687236) | moral (advertise Cloudflare) |
