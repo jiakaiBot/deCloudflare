@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-05-19: [Possible Network Congestion in Mumbai, India area.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pkcqpwdvqwg4)
 - 2021-05-18: [DNS Queries Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qk2x3w1rr14v)
 - 2021-05-18: [Cloudflare 1.1.1.1 Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9fs0xpvty9k9)
 - 2021-05-14: [HTTP 500 errors for Image Resizing for certain JPEG images with EXIF metadata](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lbg823p4xqj1)
