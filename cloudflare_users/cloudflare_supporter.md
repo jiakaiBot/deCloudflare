@@ -3703,6 +3703,7 @@ Do not create new issue or we will close it as duplicate.
 | [vettijoe@twitter.com](https://twitter.com/vettijoe/status/1390939641025466371) | moral (advertise Cloudflare) |
 | [VeVe69904456@twitter.com](https://twitter.com/VeVe69904456/status/1390967162878283780) | moral (advertise Cloudflare) |
 | [vgchat@twitter.com](https://twitter.com/vgchat/status/1392263921013252103) | moral (advertise Cloudflare) |
+| [viem_tru@twitter.com](https://twitter.com/viem_tru/status/1395102795670327296) | moral (advertise Cloudflare) |
 | [Viet2008@twitter.com](https://twitter.com/Viet2008/status/1385497309346033664) | moral (advertise Cloudflare) |
 | [Viet99519457@twitter.com](https://twitter.com/Viet99519457/status/1385786793413386240) | moral (advertise Cloudflare) |
 | [vijayankit@twitter.com](https://twitter.com/vijayankit/status/1374979677970857987) | moral (advertise Cloudflare) |
