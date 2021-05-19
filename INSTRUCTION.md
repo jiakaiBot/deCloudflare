@@ -137,13 +137,13 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 | List name | Description |
 | -------- | -------- |
 | [/domains/attd.txt](anti-tor_users/domains/attd.txt)<br>[/domains/attd.json](anti-tor_users/domains/attd.json)     | Block Tor access (FQDN) |
-| [/domains/antiarchive.txt](anti-tor_users/domains/antiarchive.txt)<br>[/domains/antiarchive.json](anti-tor_users/domains/antiarchive.json) | [Opted out](anti-tor_users/fqdn/README.md) from Internet Archive Wayback Machine (base domain) |
+| [/domains/antiarchive.txt](anti-tor_users/domains/antiarchive.txt)<br>[/domains/antiarchive.json](anti-tor_users/domains/antiarchive.json) | [Opted out](anti-tor_users/domains/README.md) from Internet Archive Wayback Machine (base domain) |
 | [/misc/hostility.md](anti-tor_users/misc/hostility.md) | **Does NOT block Tor access** Domain and Comment |
 
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
 - Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will tell you which link rejected Tor visitor.
-- Search [anti-tor fqdn list](anti-tor_users/fqdn/). ~Karma's ["Find Anti-Tor FQDN" API](http://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.onion/a/is_at.php)~ **WILL BE FIXED**
+- Search [anti-tor fqdn list](anti-tor_users/domains/). ~Karma's ["Find Anti-Tor FQDN" API](http://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.onion/a/is_at.php)~ **WILL BE FIXED**
 
 ![](image/tor_nontor_diff.jpg)
 
