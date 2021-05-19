@@ -457,6 +457,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I need your help I can't connect to your website because of cloudflare Error 1020. Idk what i do wrong, but i find it sad bacause of i was folowing the GHB but now i can't. ([nekro44063152](https://twitter.com/NeKro44063152/status/1394986787186122757))
 - Will this apply to Tor Browser as well? That's the context in which CAPTCHAs are the most frequent and most annoying. ([botondballo](https://twitter.com/BotondBallo/status/1394716329018540035))
 - Everytime I am trying to trade buy and sell, I am getting an error unable to connect to zebpay server. Looks like your cloudflare WAF is misleading this or your backend servers are down. Please check this ASAP. zebpayDown ([akashmagrawal](https://twitter.com/akashmagrawal/status/1394568416833400833))
 - The captcha sucks. Totally stopped visiting a bunch of sites because of it. ([samrussellnz](https://twitter.com/samrussellnz/status/1394543825675329536))
