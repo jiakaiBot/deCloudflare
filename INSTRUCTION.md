@@ -15,8 +15,7 @@
 
 | List name | Description |
 | -------- | -------- |
-| [/domains/cloudflare_?.txt](cloudflare_users/domains)     | Split files (base domain)     |
-| [/domains/cloudflare_?.json](cloudflare_users/domains)     | Split files (JSON format)     |
+| [/domains/cloudflare_?.txt](cloudflare_users/domains)<br>[/domains/cloudflare_?.json](cloudflare_users/domains)     | Split files (base domain)     |
 | [ex_cloudflare_users.md](cloudflare_users/ex_cloudflare_users.md)     | Domains which used Cloudflare in the past, not anymore     |
 | [cloudflare_supporter.md](cloudflare_users/cloudflare_supporter.md) | who is supporting, endorsing, loving, or defending Cloudflare |
 
@@ -137,10 +136,8 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 
 | List name | Description |
 | -------- | -------- |
-| [/fqdn/attd.txt](anti-tor_users/fqdn/attd.txt)     | **Block Tor access** Split files, Everything (FQDN)     |
-| [/fqdn/attd.json](anti-tor_users/fqdn/attd.json)     | **Block Tor access** Split files, Everything (JSON)     |
-| [/fqdn/antiarchive.txt](anti-tor_users/fqdn/antiarchive.txt) | [Opted out](anti-tor_users/fqdn/README.md) from Internet Archive Wayback Machine (FQDN) |
-| [/fqdn/antiarchive.json](anti-tor_users/fqdn/antiarchive.json) | [Opted out](anti-tor_users/fqdn/README.md) from Internet Archive Wayback Machine (JSON) |
+| [/domains/attd.txt](anti-tor_users/domains/attd.txt)<br>[/domains/attd.json](anti-tor_users/domains/attd.json)     | Block Tor access (FQDN) |
+| [/domains/antiarchive.txt](anti-tor_users/domains/antiarchive.txt)<br>[/domains/antiarchive.json](anti-tor_users/domains/antiarchive.json) | [Opted out](anti-tor_users/fqdn/README.md) from Internet Archive Wayback Machine (base domain) |
 | [/misc/hostility.md](anti-tor_users/misc/hostility.md) | **Does NOT block Tor access** Domain and Comment |
 
 
