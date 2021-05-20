@@ -51,6 +51,7 @@ Here's a list of public Git services.
 | drone.tildegit.org | No |
 | erj4.uk | No |
 | finallycoffee.eu | No |
+| forge.chapril.org | No |
 | framagit.org | No |
 | g.plsnotracking.com | No |
 | gameinfuser.com | No |
@@ -236,7 +237,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 36 |
-| Normal | 164 |
+| Normal | 165 |
 
 
 ### 18% of public Git services are using Cloudflare.
