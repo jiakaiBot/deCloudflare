@@ -42,7 +42,7 @@ There are many ways to detect it:
 - Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "_Attention Required! Cloudflare_" or "_Checking your browser_" webpage.
 - Use "[Is MITM?](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_qdb.php)" webpage.
-- Search [cloudflare domain list](cloudflare_users/domains/). ~Karma's ["Find Cloudflare Domains" API](http://xxxxxxxxxxxxxxxxxxxxxxxxx.onion/a/is_cf.php)~ **WILL BE FIXED**
+- Search [cloudflare domain list](cloudflare_users/domains/). Karma's ["Find Cloudflare Domains" API](http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/a/is_cf.php)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
 ```
@@ -143,7 +143,7 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
 - Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will tell you which link rejected Tor visitor.
-- Search [anti-tor fqdn list](anti-tor_users/domains/). ~Karma's ["Find Anti-Tor FQDN" API](http://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.onion/a/is_at.php)~ **WILL BE FIXED**
+- Search [anti-tor fqdn list](anti-tor_users/domains/). Karma's ["Find Anti-Tor FQDN" API](http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/a/is_at.php)
 
 ![](image/tor_nontor_diff.jpg)
 
@@ -342,7 +342,7 @@ cf-cache-status: HIT
 expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
 alt-svc: h2="cflare******.onion:443"; ma=86400; persist=1
 server: cloudflare
-cf-ray: XXXXXXXXXXX-YYY
+cf-ray: ***
 
 ```
 
