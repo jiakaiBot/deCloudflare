@@ -12,12 +12,15 @@
 | 2008 | [Shining Light in Dark Places Understanding the Tor Network](2008-Shining_Light_in_Dark_Places_Understanding_the_Tor_Network.pdf) |
 | 2010 | [Digging into Anonymous Traffic deep analysis of the Tor anonymizing network](2010-Digging_into_Anonymous_Traffic_deep_analysis_of_the_Tor_anonymizing_network.pdf) |
 | 2012 | [Biometric Alternatives to CAPTCHA Exploring Accessible Interface](2012-Biometric_Alternatives_to_CAPTCHA_Exploring_Accessible_Interface.pdf) |
+| 2012 | [SWEET Serving the Web by Exploiting Email Tunnels](2012-SWEET_Serving_the_Web_by_Exploiting_Email_Tunnels.pdf) |
 | 2012 | [TorScan Tracing Long-lived Connections and Differential Scanning Attacks](2012-TorScan_Tracing_Long-lived_Connections_and_Differential_Scanning_Attacks.pdf) |
 | 2013 | [Matching Known Patients to Health Records in Washington State Data](2013-Matching_Known_Patients_to_Health_Records_in_Washington_State_Data.pdf) |
+| 2013 | [Towards a Censorship Analyser for Tor](2013-Towards_a_Censorship_Analyser_for_Tor.pdf) |
 | 2013 | [Trawling for Tor Hidden Services Detection Measurement Deanonymization](2013-Trawling_for_Tor_Hidden_Services_Detection_Measurement_Deanonymization.pdf) |
 | 2013 | [Users Get Routed Traffic Correlation on Tor by Realistic Adversaries](2013-Users_Get_Routed_Traffic_Correlation_on_Tor_by_Realistic_Adversaries.pdf) |
 | 2014 | [EU WP216 Article 29 Data Protection Working Party](2014-euWP216_Article_29_Data_Protection_Working_Party.pdf) |
 | 2014 | [Effective Attacks and Provable Defenses for Website Fingerprinting](2014-Effective_Attacks_and_Provable_Defenses_for_Website_Fingerprinting.pdf) |
+| 2014 | [Enhancing Censorship Resistance in the Tor Anonymity Network](2014-Enhancing_Censorship_Resistance_in_the_Tor_Anonymity_Network.pdf) |
 | 2014 | [Identity Theft Threat and Mitigations](2014-Identity_Theft_Threat_and_Mitigations.pdf) |
 | 2014 | [InTeRneT SpyIng In SAn FRAnCISCo](2014-InTeRneT_SpyIng_In_SAn_FRAnCISCo.pdf) |
 | 2014 | [Practical Attacks Against The I2P Network](2014-Practical_Attacks_Against_The_I2P_Network.pdf) |
@@ -39,6 +42,7 @@
 | 2017 | [Analysis of Fingerprinting Techniques for Tor Hidden Services](2017-Analysis_of_Fingerprinting_Techniques_for_Tor_Hidden_Services.pdf) |
 | 2017 | [DHS FBI Playpen](2017-DHS_FBI_Playpen.pdf) |
 | 2017 | [The Security Impact of HTTPS Interception](2017-The_Security_Impact_of_HTTPS_Interception.pdf) |
+| 2017 | [Tor's Usability for Censorship Circumvention](2017-Tor's_Usability_for_Censorship_Circumvention.pdf) |
 | 2017 | [USCourtCase 16 3976](2017-USCourtCase_16_3976.pdf) |
 | 2017 | [Website Fingerprinting Defenses at the Application Layer](2017-Website_Fingerprinting_Defenses_at_the_Application_Layer.pdf) |
 | 2018 | [403 Forbidden A Global View of CDN Geoblocking](2018-403_Forbidden_A_Global_View_of_CDN_Geoblocking.pdf) |
@@ -61,3 +65,4 @@
 | 2020 | [Website Fingerprinting with Website Oracles](2020-Website_Fingerprinting_with_Website_Oracles.pdf) |
 | 2020 | [Why We Still Cant Browse in Peace On the Uniqueness and Reidentifiability of Web Browsing Histories](2020-Why_We_Still_Cant_Browse_in_Peace_On_the_Uniqueness_and_Reidentifiability_of_Web_Browsing_Histories.pdf) |
 | 2021 | [How Gamification Affects Software Developers Cautionary Evidence from a Natural Experiment on GitHub](2021-How_Gamification_Affects_Software_Developers_Cautionary_Evidence_from_a_Natural_Experiment_on_GitHub.pdf) |
+
