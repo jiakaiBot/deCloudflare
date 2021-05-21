@@ -459,6 +459,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Has Topps changed their bot protection settings? Not getting captcha today even when the cloudflare or whatever it is detection page comes up ([cardpurchaser](https://twitter.com/CardPurchaser/status/1395762051562315788))
 - Trying out sometimes getting a 521 error, but not all the time. Seems to be associated to some cloudflare servers. ([gbphilipsutton](https://twitter.com/GBPhilipSutton/status/1395338532810641411))
 - I need your help I can't connect to your website because of cloudflare Error 1020. Idk what i do wrong, but i find it sad bacause of i was folowing the GHB but now i can't. ([nekro44063152](https://twitter.com/NeKro44063152/status/1394986787186122757))
 - Will this apply to Tor Browser as well? That's the context in which CAPTCHAs are the most frequent and most annoying. ([botondballo](https://twitter.com/BotondBallo/status/1394716329018540035))
