@@ -9,3 +9,8 @@
 
 - [Historio / History](HISTORY.md)
 - [Permesilo / License](LICENSE.md)
+
+
+### Feel free to participate!
+
+- [Create Anonymous Issue](http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/anonissue/dcf/)
