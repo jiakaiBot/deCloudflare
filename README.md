@@ -8,7 +8,7 @@
 ---
 
 - [Historio](HISTORY.md)
-- [Permesilo](LICENSE.md)
 
+- [Permesilo](LICENSE.md)
 
 - [Aldoni vian mesaĝon anonime](http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/anonissue/dcf/)
