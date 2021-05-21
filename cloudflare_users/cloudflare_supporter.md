@@ -1020,6 +1020,7 @@ Do not create new issue or we will close it as duplicate.
 | [FUTUREBIRD5@twitter.com](https://twitter.com/FUTUREBIRD5/status/1380072593953185792) | moral (advertise Cloudflare) |
 | [futureboss17@twitter.com](https://twitter.com/futureboss17/status/1377955125222772738) | moral (advertise CloudFlare) |
 | [fuxklif@twitter.com](https://twitter.com/fuxklif/status/1377696833498050565) | moral (advertise CloudFlare) |
+| [FXhkv@twitter.com](https://twitter.com/FXhkv/status/1395869051964985347) | moral (advertise Cloudflare) |
 | [FZLawAssociates@twitter.com](https://twitter.com/FZLawAssociates/status/1392177594183860226) | moral (advertise Cloudflare) |
 | [fz_law@twitter.com](https://twitter.com/fz_law/status/1392177594183860226) | moral (advertise Cloudflare) |
 | [G191433996@twitter.com](https://twitter.com/G191433996/status/1393383252304572419) | moral (advertise Cloudflare) |
@@ -3093,6 +3094,7 @@ Do not create new issue or we will close it as duplicate.
 | [reallif81930874@twitter.com](https://twitter.com/reallif81930874/status/1392978030725722115) | moral (advertise Cloudflare) |
 | [Realscenephoto1@twitter.com](https://twitter.com/Realscenephoto1/status/1379524143440396288) | moral (advertise Cloudflare) |
 | [Rebel46022752@twitter.com](https://twitter.com/Rebel46022752/status/1394979060628000772) | moral (advertise Cloudflare) |
+| [RedditLs@twitter.com](https://twitter.com/RedditLs/status/1395856406474014720) | moral (advertise Cloudflare) |
 | [RedLove76797072@twitter.com](https://twitter.com/RedLove76797072/status/1392876523711987715) | moral (advertise Cloudflare) |
 | [ReickyKunn@twitter.com](https://twitter.com/ReickyKunn/status/1386282466671947788) | moral (advertise Cloudflare) |
 | [RentWithPets@twitter.com](https://twitter.com/RentWithPets/status/1379263041309564929) | moral (advertise Cloudflare) |
