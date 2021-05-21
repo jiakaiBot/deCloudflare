@@ -21,6 +21,7 @@
 | 2014 | [Identity Theft Threat and Mitigations](2014-Identity_Theft_Threat_and_Mitigations.pdf) |
 | 2014 | [InTeRneT SpyIng In SAn FRAnCISCo](2014-InTeRneT_SpyIng_In_SAn_FRAnCISCo.pdf) |
 | 2014 | [Practical Attacks Against The I2P Network](2014-Practical_Attacks_Against_The_I2P_Network.pdf) |
+| 2014 | [The Origin and Reception of Martin Niemöller's Quotation First they came for the communists](2014-The_Origin_and_Reception_of_Martin_Niemöller's_Quotation_First_they_came_for_the_communists.pdf) |
 | 2014 | [When HTTPS Meets CDN](2014-When_HTTPS_Meets_CDN.pdf) |
 | 2015 | [Dual EC A Standardized Back Door](2015-Dual_EC_A_Standardized_Back_Door.pdf) |
 | 2015 | [HHRG-114-FA18-Transcript](2015-HHRG-114-FA18-Transcript.pdf) |
