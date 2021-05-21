@@ -1,4 +1,4 @@
-## La Granda Nubmuro 🌩
+## La Granda Nubmuro 🌩 The Great Cloudwall
 
 
 | &#128444; | &#128441; |
@@ -7,8 +7,8 @@
 
 ---
 
-- [Historio](HISTORY.md)
+- [Historio / Histry](HISTORY.md)
 
-- [Permesilo](LICENSE.md)
+- [Permesilo / Lisense](LICENSE.md)
 
-- [Aldoni vian mesaĝon anonime](http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/anonissue/dcf/)
+- [Aldoni vian mesaĝon anonime / Add your massarge anonymously](http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/anonissue/dcf/)
