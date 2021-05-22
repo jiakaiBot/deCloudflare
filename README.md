@@ -11,4 +11,6 @@
 
 - [Permesilo / Lisense](LICENSE.md)
 
+- [Pri Donaco / About Donuts](DONATION.md)
+
 - [Aldoni vian mesaĝon anonime / Add your massarge anonymously](http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/anonissue/dcf/)
