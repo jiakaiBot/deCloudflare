@@ -1602,6 +1602,7 @@
 | Xingang Wang | Systems Engineer |  |
 | Xin Meng | Solutions Engineer, Singapore |  |
 | Xu Haitao | Account Executive |  |
+| Zaidoon Abd Al Hadi | Employee |  |
 | Xuzhe Quincy Zhuang | Technical Support Engineer |  |
 | Yaely Knebel | Customer Success Engineer |  |
 | Yana Chen | Customer Success |  |
