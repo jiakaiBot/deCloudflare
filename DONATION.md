@@ -6,7 +6,7 @@ Your donation will be used to help us maintain our projects.
 
 
 <details>
-<summary> _Click here to Donate_</summary>
+<summary> Click here to Donate</summary>
 
 ```
 -----BEGIN PGP MESSAGE-----
