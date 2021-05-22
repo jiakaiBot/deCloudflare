@@ -1,13 +1,14 @@
 ### Donating to deCloudflare
 
 Please consider donation if you like this project. 
+
 Your donation will be used to help us maintain our projects.
 
 
 <details>
-<summary> _click me_
+<summary>
 
-## by Bitcoin
+ _Click here to Donate_
 </summary>
 
 ```
