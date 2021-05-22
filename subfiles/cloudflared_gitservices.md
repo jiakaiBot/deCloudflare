@@ -29,7 +29,6 @@ Here's a list of public Git services.
 | --- | --- |
 | auth.doeber.nl | No |
 | authoritah.io | No |
-| authoritah.net | No |
 | bitbucket.org | No |
 | black.uber.space | No |
 | ccr.calibrate.be | No |
@@ -196,6 +195,7 @@ Here's a list of public Git services.
 | gitlab.com | Yes |
 | gitlab.freedesktop.org | No |
 | gitlab.gnome.org | No |
+| gitlab.matrix.org | Yes |
 | gitlab.tails.boum.org | No |
 | gitlab.torproject.org | No |
 | inpro.informatik.uni-freiburg.de | No |
@@ -217,7 +217,6 @@ Here's a list of public Git services.
 | sr.ht | No |
 | support.dev.procad.pl | No |
 | terk.uber.space | No |
-| thematrix.bw.edu | No |
 | tildegit.org | No |
 | tracker.adverpost.com | No |
 | tracker.sagosec.com | No |
@@ -236,8 +235,8 @@ Here's a list of public Git services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 36 |
-| Normal | 165 |
+| Cloudflare | 37 |
+| Normal | 163 |
 
 
-### 18% of public Git services are using Cloudflare.
+### 18.5% of public Git services are using Cloudflare.
