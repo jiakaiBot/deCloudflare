@@ -459,6 +459,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- Hi, is your website okay? Having trouble with submissions, getting a Cloudflare error after every attempt. ([geeknik](https://twitter.com/geeknik/status/1396169297077149698))
 - Hey do you have an IP range that we should whitelist so that you can access the trade history/orderbook API without captcha getting in the way? blcokfolio support rocks ([cryptodabbler](https://twitter.com/CryptoDabbler/status/1396095664044576768))
 - your website is down Bad gateway The web server reported a bad gateway error. Ray ID: 65302426a Error reference number: 502 Cloudflare Location: Newark ([noahhhhgoooolld](https://twitter.com/noahhhhGOOOOLLd/status/1395822416337719300))
 - your website is down: Web server is returning an unknown error There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed. ([noahhhhgoooolld](https://twitter.com/noahhhhGOOOOLLd/status/1395820863442853892))
