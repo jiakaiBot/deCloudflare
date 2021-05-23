@@ -382,7 +382,7 @@
 | Dalton Cherry | Solutions Engineer |  |
 | Damian Dulanovic | Employee |  |
 | Damian Parker | Employee |  |
-| Damon Billian | Community Evangelist |  |
+| Damon Billian | Community Evangelist | http://www.crimeflare.org:82/damon.html |
 | Dana Cohen | People Team Business Partner |  |
 | Dana Ng | Business Development |  |
 | Dan Brittingham | Sales Operations |  |
