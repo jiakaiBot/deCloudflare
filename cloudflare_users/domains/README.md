@@ -8,6 +8,8 @@
 [//]: # (do not edit me; end)
 
 
+![](../../image/eggsinbasket.jpg)
+
 - Bonvolu vidi [INSTRUCTION.md](../../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
 - [is_listed_cf(), is_cloudflare_cached()](../../tool/example.json.is_cloudflare.php)
 
