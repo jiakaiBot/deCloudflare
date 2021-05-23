@@ -3330,6 +3330,7 @@ Do not create new issue or we will close it as duplicate.
 | [ScarLat99299837@twitter.com](https://twitter.com/ScarLat99299837/status/1394957887026434051) | moral (advertise Cloudflare) |
 | [Sciz0r1@twitter.com](https://twitter.com/Sciz0r1/status/1384091634455900161) | moral (advertise Cloudflare) |
 | [Scrimzy_@twitter.com](https://twitter.com/Scrimzy_/status/1380087112993632257) | moral (advertise Cloudflare) |
+| [sdemanett@twitter.com](https://twitter.com/sdemanett/status/1396239812076638208) | moral (advertise Cloudflare) |
 | [seaxvr@twitter.com](https://twitter.com/seaxvr/status/1386420536742268928) | moral (advertise Cloudflare) |
 | [seekingforligh1@twitter.com](https://twitter.com/seekingforligh1/status/1390488497924894726) | moral (advertise Cloudflare) |
 | [SeethaAravind1@twitter.com](https://twitter.com/SeethaAravind1/status/1386943954227138570) | moral (advertise Cloudflare) |
