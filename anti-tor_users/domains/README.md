@@ -28,7 +28,9 @@
 Iuj Tor-uzantoj dividas [arkivan ligon](https://web.archive.org/) kiel anstataŭigo de ligilo kiu rilatas al Cloudflare.
 Tamen ekzistas retejoj kiuj forigis sin de la Wayback-maŝino.
 
-![](../../image/iaorg_sorry.jpg)
+| &#128444; | &#128444; |
+|  ---  |  ---  |
+| ![](../../image/iaorg_sorry.jpg) | ![](../../image/iaorg_sforbid.jpg) |
 
 [![](../../image/__archiveorg.jpg)](https://web.archive.org/web/20210311125435/https://help.archive.org/hc/en-us/articles/360004651732-Using-The-Wayback-Machine)
 
