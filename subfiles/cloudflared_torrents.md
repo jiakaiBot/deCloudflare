@@ -411,10 +411,13 @@ Here's a list of public Torrent and Tracker services.
 | Normal | 115 |
 
 
+![](../image/warez.jpg)
+
+
 ### 72.1% of public Torrent sites are using Cloudflare.
 ### 43.3% of public Tracker services are using Cloudflare.
 
 
-Some Cloudflared site owners are using additional 'protection' to protect themselves from legal pressure.
+Some Cloudflared site owners are using additional _protection_ to protect themselves from legal pressure.
 
 ![](../image/cloudflare_with_ddosguard.jpg)
