@@ -459,6 +459,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- There seems to be an issue with your service. All my websites hosted on different providers are experiencing SSL handshake failure errors. It doesn't seem to be an isolated incident as other people on twitter seem to be facing the same issue. Can you help? ([fragpic](https://twitter.com/fragpic/status/1396527439644303361))
+- Error 1020 Ray ID: 65404630ce965f20 • 2021-05-23 18:16:14 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 65404630ce965f20 • Your IP: 151.253.161.114 • P ([muhamma21114668](https://twitter.com/Muhamma21114668/status/1396531380700450816))
 - I’m not really sure about this though. What would prevent those large solving farms to buy a large number of used keys and offer services to solve this type of captcha too. 🤔 ([sdglhm](https://twitter.com/sdglhm/status/1396450858838106124))
 - Hi, is your website okay? Having trouble with submissions, getting a Cloudflare error after every attempt. ([geeknik](https://twitter.com/geeknik/status/1396169297077149698))
 - Hey do you have an IP range that we should whitelist so that you can access the trade history/orderbook API without captcha getting in the way? blcokfolio support rocks ([cryptodabbler](https://twitter.com/CryptoDabbler/status/1396095664044576768))
