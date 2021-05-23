@@ -198,7 +198,8 @@ If you're not blocking Tor users, you will be removed automatically.
 </summary>
 
 
-A or B will be enough. Thank you for your contribution.
+A or B will be enough. (or C if you can't)
+Thank you for your contribution.
 
 
 > Type A: Push to git
@@ -206,7 +207,7 @@ A or B will be enough. Thank you for your contribution.
 1. Log in to [this website](http://crimeflare.eu.org).
   - If you're Tor user, we recommend 'type B'.
 2. Click "*Fork*" button.  (top-left corner)
-3. Edit `text` file.  (you don't have to edit JSON file)
+3. Edit `text` file.  (_you don't have to edit JSON file_)
 4. Create a *new pull request*.
 
 
@@ -224,6 +225,12 @@ Your contribution will be pushed to git automatically.
   - Or: Use add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)"
 - Anti-Archive
   - N/A (Use type A for now)
+
+
+> Type C: Create an Issue
+
+Create an Issue and let us know about the change you want to make.
+You can [contribute anonymously](README.md).
 
 
 </details>
