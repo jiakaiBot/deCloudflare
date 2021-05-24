@@ -29,10 +29,9 @@ Iuj Tor-uzantoj dividas [arkivan ligon](https://web.archive.org/) kiel anstataŭ
 Tamen ekzistas retejoj kiuj forigis sin de la Wayback-maŝino.
 Iuj el ili blokas la IP-adreson de Interreta Arkivo sur ilia serviloj.
 
-| &#128444; | &#128444; | &#128444; |
+| Mem-for-elekto | HTTP 403 Malpermesita | Blokado de IP-adreso |
 |  ---  |  ---  |  ---  |
 | ![](../../image/iaorg_sorry.jpg) | ![](../../image/iaorg_sforbid.jpg) | ![](../../image/iaorg_sipblock.jpg) |
-| Mem-for-elekto | HTTP 403 Malpermesita | Blokado de IP-adreso |
 
 [![](../../image/__archiveorg.jpg)](https://web.archive.org/web/20210311125435/https://help.archive.org/hc/en-us/articles/360004651732-Using-The-Wayback-Machine)
 
