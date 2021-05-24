@@ -27,10 +27,12 @@
 
 Iuj Tor-uzantoj dividas [arkivan ligon](https://web.archive.org/) kiel anstataŭigo de ligilo kiu rilatas al Cloudflare.
 Tamen ekzistas retejoj kiuj forigis sin de la Wayback-maŝino.
+Iuj el ili blokas la IP-adreson de Interreta Arkivo sur ilia serviloj.
 
-| &#128444; | &#128444; |
-|  ---  |  ---  |
-| ![](../../image/iaorg_sorry.jpg) | ![](../../image/iaorg_sforbid.jpg) |
+| &#128444; | &#128444; | &#128444; |
+|  ---  |  ---  |  ---  |
+| ![](../../image/iaorg_sorry.jpg) | ![](../../image/iaorg_sforbid.jpg) | ![](../../image/iaorg_sipblock.jpg) |
+| Mem-for-elekto | HTTP 403 Malpermesita | Blokado de IP-adreso |
 
 [![](../../image/__archiveorg.jpg)](https://web.archive.org/web/20210311125435/https://help.archive.org/hc/en-us/articles/360004651732-Using-The-Wayback-Machine)
 
@@ -54,6 +56,8 @@ Tamen ekzistas retejoj kiuj forigis sin de la Wayback-maŝino.
 
 Some Tor users are sharing [archive.org](https://web.archive.org/) link as a replacement of link which are related to Cloudflare.
 However there are websites which opted themselves out from the Wayback Machine.
+Some of them block Internet Archive's IP address on their servers.
+
 - "Why isn't the site I'm looking for in the archive?"
   - "Site owners might have requested that their sites be excluded from the Wayback Machine."
 - See [INSTRUCTION.md](../../INSTRUCTION.md) for file purpose and format specifications.
