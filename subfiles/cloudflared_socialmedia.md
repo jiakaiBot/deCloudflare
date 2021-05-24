@@ -1,4 +1,4 @@
-## How many % of public social medias are using Cloudflare?
+## How many % of public social media are using Cloudflare?
 
 
 Below is a list of most popular social networks / social media apps worldwide.
