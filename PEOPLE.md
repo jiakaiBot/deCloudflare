@@ -459,6 +459,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- And this new cloudflare captcha is inacceptable - anyhow must the greed of this platform have an end and this fucking cloudflare is my stop for dutchycorp until they took that shit away ([edwinrehfeld](https://twitter.com/EdwinRehfeld/status/1396697451084591106))
+- The next panel destroying with it´s greed the trust of the user!! Dutchycorp Autofaucet!! The new cloudflare captcha is inacceptable for me they have a stupid bird in their head - immediately stop and btake this fuck from my list ([edwinrehfeld](https://twitter.com/EdwinRehfeld/status/1396696424222502912))
 - REMOVE CAPTCHA PAGE CLOUDFLARE AND VPN SOFTWARES MAKE YOUR VPN SERVICES FASTER AND FREE!!!!!!!!!!!!! I DONT WANNA SEE THIS SCREEN IN MY CREATION!!! EVERYTIME WHEN I OPEN ANY PAGE USING ANY VPN SOFTWARE!! OR MAKE IT JUST REDIRECT AND FINISH OPEN THE WEBPAGE!!! ([jeanmichael0010](https://twitter.com/JeanMichael0010/status/1396604184787623938))
 - There seems to be an issue with your service. All my websites hosted on different providers are experiencing SSL handshake failure errors. It doesn't seem to be an isolated incident as other people on twitter seem to be facing the same issue. Can you help? ([fragpic](https://twitter.com/fragpic/status/1396527439644303361))
 - Error 1020 Ray ID: 65404630ce965f20 • 2021-05-23 18:16:14 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 65404630ce965f20 • Your IP: 151.253.161.114 • P ([muhamma21114668](https://twitter.com/Muhamma21114668/status/1396531380700450816))
