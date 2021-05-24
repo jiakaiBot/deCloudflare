@@ -12,7 +12,7 @@
   - [How many % of public Fediverse services are using Cloudflare?](cloudflared_fediverse.md)
   - [How many % of public Git services are using Cloudflare?](cloudflared_gitservices.md)
   - [How many % of public Torrent services are using Cloudflare?](cloudflared_torrents.md)
-  - [??????????// WIP](wip.md)
+  - [How many % of public social media are using Cloudflare?](cloudflared_socialmedia.md)
   - [??????????// WIP](wip.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
