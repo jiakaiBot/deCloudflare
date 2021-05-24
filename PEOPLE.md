@@ -459,6 +459,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- REMOVE CAPTCHA PAGE CLOUDFLARE AND VPN SOFTWARES MAKE YOUR VPN SERVICES FASTER AND FREE!!!!!!!!!!!!! I DONT WANNA SEE THIS SCREEN IN MY CREATION!!! EVERYTIME WHEN I OPEN ANY PAGE USING ANY VPN SOFTWARE!! OR MAKE IT JUST REDIRECT AND FINISH OPEN THE WEBPAGE!!! ([jeanmichael0010](https://twitter.com/JeanMichael0010/status/1396604184787623938))
 - There seems to be an issue with your service. All my websites hosted on different providers are experiencing SSL handshake failure errors. It doesn't seem to be an isolated incident as other people on twitter seem to be facing the same issue. Can you help? ([fragpic](https://twitter.com/fragpic/status/1396527439644303361))
 - Error 1020 Ray ID: 65404630ce965f20 • 2021-05-23 18:16:14 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 65404630ce965f20 • Your IP: 151.253.161.114 • P ([muhamma21114668](https://twitter.com/Muhamma21114668/status/1396531380700450816))
 - I’m not really sure about this though. What would prevent those large solving farms to buy a large number of used keys and offer services to solve this type of captcha too. 🤔 ([sdglhm](https://twitter.com/sdglhm/status/1396450858838106124))
