@@ -1,7 +1,7 @@
 ## How many % of public social media are using Cloudflare?
 
 
-Below is a list of most popular social networks / social media apps worldwide.
+Below is a list of social networks/social media apps worldwide.
 
 
 <details>
@@ -378,4 +378,4 @@ Below is a list of most popular social networks / social media apps worldwide.
 | Normal | 222 |
 
 
-### 37.3% of public social medias are using Cloudflare.
+### 37.3% of public social networks/social media are using Cloudflare.
