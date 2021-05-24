@@ -459,6 +459,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- I have reported the same site for usually lots of my content too, impossible to list all on the form but hopefully gives you an idea. ([debzlouiseblog](https://twitter.com/DebzLouiseBlog/status/1396857194348486660))
 - And this new cloudflare captcha is inacceptable - anyhow must the greed of this platform have an end and this fucking cloudflare is my stop for dutchycorp until they took that shit away ([edwinrehfeld](https://twitter.com/EdwinRehfeld/status/1396697451084591106))
 - The next panel destroying with it´s greed the trust of the user!! Dutchycorp Autofaucet!! The new cloudflare captcha is inacceptable for me they have a stupid bird in their head - immediately stop and btake this fuck from my list ([edwinrehfeld](https://twitter.com/EdwinRehfeld/status/1396696424222502912))
 - REMOVE CAPTCHA PAGE CLOUDFLARE AND VPN SOFTWARES MAKE YOUR VPN SERVICES FASTER AND FREE!!!!!!!!!!!!! I DONT WANNA SEE THIS SCREEN IN MY CREATION!!! EVERYTIME WHEN I OPEN ANY PAGE USING ANY VPN SOFTWARE!! OR MAKE IT JUST REDIRECT AND FINISH OPEN THE WEBPAGE!!! ([jeanmichael0010](https://twitter.com/JeanMichael0010/status/1396604184787623938))
