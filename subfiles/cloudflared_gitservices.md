@@ -237,7 +237,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 37 |
-| Normal | 163 |
+| Normal | 164 |
 
 
 ### 18.5% of public Git services are using Cloudflare.
