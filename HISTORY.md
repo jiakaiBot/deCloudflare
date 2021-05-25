@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-05-25: [Network Performance Issues in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ds5yfzp84zh7)
 - 2021-05-24: [Distributed Web Gateway](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/psp1l248n6bk)
 - 2021-05-23: [Increased HTTP 525 Errors in Chennai, India area.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hlbqj7dc9dnn)
 - 2021-05-19: [Increased Level of DNS Query Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hmnnzb3wsm2z)
