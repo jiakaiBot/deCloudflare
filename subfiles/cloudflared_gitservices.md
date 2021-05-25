@@ -103,9 +103,11 @@ Here's a list of public Git services.
 | git.kwarde.com | No |
 | git.lighttpd.net | No |
 | git.mafiasi.de | No |
+| git.mentality.rip | No |
 | git.minicloud.xyz | Yes |
 | git.mitchellhansen.info | No |
 | git.mutuellegsmc.fr | No |
+| git.myceliandre.fr | No |
 | git.nixnet.services | No |
 | git.nogafam.es | No |
 | git.obicloud.net | Yes |
@@ -237,7 +239,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 37 |
-| Normal | 164 |
+| Normal | 166 |
 
 
-### 18.5% of public Git services are using Cloudflare.
+### 18.2% of public Git services are using Cloudflare.
