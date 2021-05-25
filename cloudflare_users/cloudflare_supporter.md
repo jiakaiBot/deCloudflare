@@ -2413,6 +2413,7 @@ Do not create new issue or we will close it as duplicate.
 | [MichaelJGant1@twitter.com](https://twitter.com/MichaelJGant1/status/1388453082317606914) | moral (advertise Cloudflare) |
 | [MichaelUdyRajD@twitter.com](https://twitter.com/MichaelUdyRajD/status/1378052380533563393) | moral (advertise CloudFlare) |
 | [MichaelWanzer5@twitter.com](https://twitter.com/MichaelWanzer5/status/1388810880150691845) | moral (advertise Cloudflare) |
+| [michael_scharen@twitter.com](https://twitter.com/michael_scharen/status/1397316913139634176) | moral (advertise Cloudflare) |
 | [MichealKyaw8@twitter.com](https://twitter.com/MichealKyaw8/status/1395744480884518914) | moral (advertise Cloudflare) |
 | [Midnigh30262555@twitter.com](https://twitter.com/Midnigh30262555/status/1384919574668267520) | moral (advertise Cloudflare) |
 | [migratingstream@twitter.com](https://twitter.com/migratingstream/status/1393409904086425600) | moral (advertise Cloudflare) |
