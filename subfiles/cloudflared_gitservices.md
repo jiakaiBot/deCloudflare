@@ -74,6 +74,7 @@ Here's a list of public Git services.
 | git.ecoservice24.de | Yes |
 | git.educate.center | No |
 | git.fcloud.ovh | No |
+| git.fdn.fr | No |
 | git.feneas.org | No |
 | git.finallycoffee.eu | No |
 | git.fsfe.org | No |
