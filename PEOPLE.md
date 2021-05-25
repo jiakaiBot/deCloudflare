@@ -459,6 +459,15 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 
+- so are you eventually going to ban every IP block belonging to VPN providers? is that your long term goal? ([notsurex](https://twitter.com/notsurex/status/1395799565303828481))
+- Please get rid of Cloudflare - it put up a CAPTCHA when I tried to log in. Sure you need a third party decrypting users' logins? ([dxgl_org](https://twitter.com/dxgl_org/status/1395852948702384135))
+- today didn't even show me their shitty CAPTCHA, they just time out trying... fucking assholes ([samrussellnz](https://twitter.com/samrussellnz/status/1394767087613132809))
+- Captcha is 💩wasting my time with your low resolution photos and hieroglyphs. ([robertson784](https://twitter.com/Robertson784/status/1394730299817345024))
+- Is Airtel broadband sniffing and intercepting traffic routed through I am getting frequent SSL handshake error on all websites that use SSL. I don't have this issue with Jio. ([muraharimp](https://twitter.com/muraharimp/status/1396572656632156160))
+- From yesterday all popular websites backed by facing SSL handshake failed error on frequent basis. ([natanrayz](https://twitter.com/natanrayz/status/1396538037983596548))
+- Cloudflare all my website have SSL handshake error "Error 525" SSL Its not host issue, as all websites are hosted with different hosting sites also with different panels/panel less. Anybody have same SSL issue with cloud-flare? ([ayyappancs](https://twitter.com/ayyappancs/status/1395829253308960770))
+- HTTP 530 - CloudFlare Origin DNS Error で 5分 くらい落ちてた ([potch_rune](https://twitter.com/potch_rune/status/1395282189583978496))
+- I think your service is not working. I am getting "SSL handshake failed." Ray ID: 6515573312bbd286 Error reference number: 525 ([mgfldesigner](https://twitter.com/mgfldesigner/status/1394643091571814402))
 - I have reported the same site for usually lots of my content too, impossible to list all on the form but hopefully gives you an idea. ([debzlouiseblog](https://twitter.com/DebzLouiseBlog/status/1396857194348486660))
 - And this new cloudflare captcha is inacceptable - anyhow must the greed of this platform have an end and this fucking cloudflare is my stop for dutchycorp until they took that shit away ([edwinrehfeld](https://twitter.com/EdwinRehfeld/status/1396697451084591106))
 - The next panel destroying with it´s greed the trust of the user!! Dutchycorp Autofaucet!! The new cloudflare captcha is inacceptable for me they have a stupid bird in their head - immediately stop and btake this fuck from my list ([edwinrehfeld](https://twitter.com/EdwinRehfeld/status/1396696424222502912))
