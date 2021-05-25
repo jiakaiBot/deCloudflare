@@ -24,7 +24,7 @@
 
 use vars qw($VERSION %IRSSI);
 
-$VERSION = "20210301";
+$VERSION = "20210501";
 %IRSSI   = (
 
     #	Special thanks to: "eo, tsaavik"
@@ -228,7 +228,7 @@ sub GotUrl {
                     deb("$target Asking API about $fqdn");
                     $answer = '';
                     $url =
-                      'https://api.sercxi.eu.org/_/ismitm.php?f='
+                      'http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is_cf.php?f='
                       . $fqdn;
                     $browser = LWP::UserAgent->new;
                     $browser->agent("Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/78.0");
