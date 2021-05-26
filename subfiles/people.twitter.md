@@ -10,7 +10,6 @@
 
 
 - FYI I am getting a Cloudflare error 1005. Website is blocking my ASN number. ([louisvilledad](https://twitter.com/LouisvilleDad/status/1397268106049998850))
-- FYI I am getting a Cloudflare error 1005. Website is blocking my ASN number. ([louisvilledad](https://twitter.com/LouisvilleDad/status/1397268106049998850))
 - so are you eventually going to ban every IP block belonging to VPN providers? is that your long term goal? ([notsurex](https://twitter.com/notsurex/status/1395799565303828481))
 - Please get rid of Cloudflare - it put up a CAPTCHA when I tried to log in. Sure you need a third party decrypting users' logins? ([dxgl_org](https://twitter.com/dxgl_org/status/1395852948702384135))
 - today didn't even show me their shitty CAPTCHA, they just time out trying... fucking assholes ([samrussellnz](https://twitter.com/samrussellnz/status/1394767087613132809))
