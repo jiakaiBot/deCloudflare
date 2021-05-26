@@ -1,3 +1,6 @@
+- Screenshot provided by [@NoGoolag](https://t.me/NoGoolag), [@privacytoday](https://t.me/privacytoday), etc
+
+
 | &#128444; | &#128444; | &#128444; | &#128444; |
 | --- | --- | --- | --- |
 | ![](0be13101e79fcb5e90c7e949c234040e.jpg) | ![](0ff5d6441c53720c194af7e61fbd89ac.jpg) | ![](f029fcf244af884f6628decb7b15a8a9.jpg) | ![](f6144c62db17a84c3bbd4d4f3eda8067.jpg) |
