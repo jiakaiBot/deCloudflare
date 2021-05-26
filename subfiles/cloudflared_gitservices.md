@@ -230,6 +230,16 @@ Here's a list of public Git services.
 | www.git.govindgnana.com | No |
 | www.github.dbalegends.com | Yes |
 | www.hendrik-fichtenberger.de | No |
+| git.elkood.com | Yes |
+| git.freezer.life | Yes |
+| git.sqdsh.top | Yes |
+| git.eeqj.de | No |
+| git.etud.insa-toulouse.fr | No |
+| git.guildofwriters.org | No |
+| git.larlet.fr | No |
+| git.webhosting.rug.nl | No |
+| gitea-s2i2s.isti.cnr.it | No |
+| gitea.ladnet.net | No |
 
 </details>
 
@@ -238,8 +248,8 @@ Here's a list of public Git services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 37 |
-| Normal | 166 |
+| Cloudflare | 40 |
+| Normal | 173 |
 
 
-### 18.2% of public Git services are using Cloudflare.
+### 18.8% of public Git services are using Cloudflare.
