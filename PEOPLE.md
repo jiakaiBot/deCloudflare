@@ -444,8 +444,11 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 ------
 
-## Twitter
+## xTwitter
 - ↳ [Twitter](subfiles/people.twitter.md)
+
+## Mastodon
+- ↳ [Mastodon](subfiles/people.mastodon.md)
 
 ## Telegram
 - ↳ [Telegram](image/telegram/README.md)
