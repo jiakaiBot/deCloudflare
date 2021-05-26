@@ -3812,6 +3812,7 @@ Here's a list of public Fediverse services.
 | social.kaitaia.life | Yes |
 | social.kartoffelcheetah.eu | No |
 | social.katyucha.ovh | No |
+| social.kennyqin.com | No |
 | social.kindbook.us | No |
 | social.kithop.ca | No |
 | social.kitty.systems | No |
@@ -4811,7 +4812,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 879 |
-| Normal | 3896 |
+| Normal | 3897 |
 
 
 ### 18.4% of public Fediverse services are using Cloudflare.
