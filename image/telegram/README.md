@@ -1,5 +1,3 @@
-<details><summary> &#128444; </summary>
-
 | &#128444; | &#128444; | &#128444; | &#128444; |
 | --- | --- | --- | --- |
 | ![](0be13101e79fcb5e90c7e949c234040e.jpg) | ![](0ff5d6441c53720c194af7e61fbd89ac.jpg) | ![](f029fcf244af884f6628decb7b15a8a9.jpg) | ![](f6144c62db17a84c3bbd4d4f3eda8067.jpg) |
@@ -8,5 +6,3 @@
 | ![](320b8067457ce8c47838c4a07fad670b.jpg) | ![](668c1ba0df11d5d8ef81b24e767ea3f7.jpg) | ![](12134212fc9821e514a94888f3e2c902.jpg) | ![](a1e84595157d8ddc3985536878f53877.jpg) |
 | ![](adf85b43581e1f68d4466c28e2c5c5fc.jpg) | ![](c81238387627b4bfd3dcd60f56d41626.jpg) | ![](cade80ec63cf119d8052cd5a8def2b3a.jpg) | ![](df2dc65af0ac66dcc68b3bfa9338bde3.jpg) |
 | ![](fe185b082ea67a734859b4ece650c4a5.jpg) |  |  |  |
-
-</details>
