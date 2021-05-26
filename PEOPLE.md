@@ -50,7 +50,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 <details>
 <summary>_click me_
 
-### News
+## News
 </summary>
 
 
@@ -89,7 +89,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 <details>
 <summary>_click me_
 
-### Blog
+## Blog
 </summary>
 
 
@@ -165,7 +165,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 <details>
 <summary>_click me_
 
-### Forum / Wiki
+## Forum / Wiki
 </summary>
 
 
@@ -340,7 +340,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 <details>
 <summary>_click me_
 
-### Microsoft GitHub / Gitea / GitLab
+## Microsoft GitHub / Gitea / GitLab
 </summary>
 
 
@@ -447,7 +447,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 <details>
 <summary>_click me_
 
-### Twitter
+## Twitter
 </summary>
 
 
@@ -2214,7 +2214,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 <details>
 <summary>_click me_
 
-### Mastodon
+## Mastodon
 </summary>
 
 
@@ -2466,7 +2466,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 -----
 
 
-### Telegram
+## Telegram
 - ↳ [Telegram](image/telegram/README.md)
 
 ---
