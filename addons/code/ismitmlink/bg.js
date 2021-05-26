@@ -2,7 +2,7 @@ let localUse = -1,
 	localDB = [],
 	timr, memcache = {},
 	forcePurge = false,
-	apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/ismitm.php';
+	apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/is_mitm.php';
 function get_realdomain(w) {
 	let wa = w.split('.');
 	let wa_l = wa.length;
@@ -1178,13 +1178,13 @@ browser.storage.local.get(['lastU', 'lastV', 'ldb', 'opd', 'cep']).then(g => {
 	}
 	switch (g.cep) {
 		case '1':
-			apiurl = 'https://api.sercxi.eu.org/_/ismitm.php';
+			apiurl = 'https://api.sercxi.eu.org/_/is_mitm.php';
 			break;
 		case '2':
 			apiurl = 'http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is_cf.php';
 			break;
 		default:
-			apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/ismitm.php';
+			apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/is_mitm.php';
 			break;
 	}
 	localDB = JSON.parse(g.ldb || '[]');
@@ -1349,13 +1349,13 @@ browser.runtime.onMessage.addListener((requests, sender, sendResponse) => {
 					browser.storage.local.set({
 						'cep': '0'
 					});
-					apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/ismitm.php';
+					apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/is_mitm.php';
 					break;
 				case 'urltype,1':
 					browser.storage.local.set({
 						'cep': '1'
 					});
-					apiurl = 'https://api.sercxi.eu.org/_/ismitm.php';
+					apiurl = 'https://api.sercxi.eu.org/_/is_mitm.php';
 					break;
 				case 'urltype,2':
 					browser.storage.local.set({
