@@ -12,6 +12,8 @@
 - FYI I am getting a Cloudflare error 1005. Website is blocking my ASN number. ([louisvilledad](https://twitter.com/LouisvilleDad/status/1397268106049998850))
 - so are you eventually going to ban every IP block belonging to VPN providers? is that your long term goal? ([notsurex](https://twitter.com/notsurex/status/1395799565303828481))
 
+- Please get rid of Cloudflare - it put up a CAPTCHA when I tried to log in. Sure you need a third party decrypting users' logins? ([dxgl_org](https://twitter.com/dxgl_org/status/1395852948702384135))
+- Cloudflare warning you for MITM attacks is actually the funniest thing ever ([__eater__](https://twitter.com/__eater__/status/1394628364388929539))
 - Can check Cloudflare docs. Error 1025 is rate limiting because of plan limitations. Error 1200 is rate limiting because there are still too many requests pending from the origin server. In this case it's because the origin server is too overloaded, not because of plan limitations ([paultantk](https://twitter.com/paultantk/status/1397436618991050752))
 - The CORS issue is probably caused by cloudflare error layer (rate limit error).. nothing much to do with the the backend code itself as we can see some people managed to load the date ppv/date listing at one point. ([eimihar](https://twitter.com/eimihar/status/1397433924150722561))
 - Cloudflare error? Come on seriusly. I am volunteer myself to help on this. ([jompijalan](https://twitter.com/jompijalan/status/1397423696109735936))
