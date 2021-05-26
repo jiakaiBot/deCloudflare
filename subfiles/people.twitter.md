@@ -12,6 +12,8 @@
 - FYI I am getting a Cloudflare error 1005. Website is blocking my ASN number. ([louisvilledad](https://twitter.com/LouisvilleDad/status/1397268106049998850))
 - so are you eventually going to ban every IP block belonging to VPN providers? is that your long term goal? ([notsurex](https://twitter.com/notsurex/status/1395799565303828481))
 
+- 70mil is way too much for such error. The Cloudflare can’t even handle the access surge. API are not configured properly. Editing code on the live server? Come on la. Only noobs does that. ([measaura](https://twitter.com/measaura/status/1397590233911201797))
+- hCaptcha is rejecting the Accessibility Cookies and forcing impossible captchas left and right despite reports. PLEASE use something that isn't Captcha (like maybe Google Account + Authy combo) to validate users or add proper accessibility. ([tsukiyomaru0](https://twitter.com/Tsukiyomaru0/status/1397582172563849226))
 - Please get rid of Cloudflare - it put up a CAPTCHA when I tried to log in. Sure you need a third party decrypting users' logins? ([dxgl_org](https://twitter.com/dxgl_org/status/1395852948702384135))
 - Cloudflare warning you for MITM attacks is actually the funniest thing ever ([__eater__](https://twitter.com/__eater__/status/1394628364388929539))
 - Can check Cloudflare docs. Error 1025 is rate limiting because of plan limitations. Error 1200 is rate limiting because there are still too many requests pending from the origin server. In this case it's because the origin server is too overloaded, not because of plan limitations ([paultantk](https://twitter.com/paultantk/status/1397436618991050752))
