@@ -84,7 +84,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 </details>
 
-------
+-----
 
 <details>
 <summary>_click me_
@@ -160,7 +160,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 </details>
 
-------
+-----
 
 <details>
 <summary>_click me_
@@ -335,7 +335,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 </details>
 
-------
+-----
 
 <details>
 <summary>_click me_
@@ -442,9 +442,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 </details>
 
-------
+-----
 
-## xTwitter
+## Twitter
 - ↳ [Twitter](subfiles/people.twitter.md)
 
 ## Mastodon
@@ -453,7 +453,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 ## Telegram
 - ↳ [Telegram](image/telegram/README.md)
 
----
+-----
 
 
 ## Still defending Cloudflare after all you've read?
