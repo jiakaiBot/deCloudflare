@@ -8,7 +8,7 @@
 | 🖼 | 🖼 | 🖼 |
 | --- | --- | --- |
 | ![](image/people.jpg) | ![](image/cfblockbothuman.jpg) | ![](image/pillory.jpg) |
-| ![](image/eastdakota_1273277839102656515.jpg)<br>![](image/cloudflareoutage-2020.jpg) | ![](image/omsnote.jpg) | ![](image/omsstream.jpg) |
+| ![](image/blockedbymatthewprince2.jpg) | ![](image/omsnote.jpg) | ![](image/omsstream.jpg) |
 
 
 ```
@@ -41,9 +41,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 ---
 
-| 🖼 | 🖼 |
-| --- | --- |
-| ![](image/butitsdown.jpg) | ![](image/cloudflareinternalerror.jpg)<br>![](image/2020_07_cloudflaredown.jpg) |
+| 🖼 | 🖼 | 🖼 |
+| --- | --- | --- |
+| ![](image/butitsdown.jpg) | ![](image/cloudflareinternalerror.jpg)<br>![](image/2020_07_cloudflaredown.jpg) | ![](image/cloudflareoutage-2020.jpg) |
 
 ---
 
