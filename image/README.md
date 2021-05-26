@@ -1,3 +1,7 @@
+- &#128444; [Telegram](telegram/)
+- &#128444; [Meme](meme/)
+
+
 <details><summary> &#128444; </summary>
 
 | &#128444; | &#128444; | &#128444; | &#128444; |
