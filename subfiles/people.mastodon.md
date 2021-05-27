@@ -2,9 +2,7 @@
 
 ## Mastodon
 
-> TOO MANY to list here. It is IMPOSSIBLE to list them all! [See for yourself](https://mastodon/search?q=cloudflare&f=live). (Too many to read)
-
-
+> TOO MANY to list here. It is IMPOSSIBLE to list them all! See for yourself. (Too many to read)
 
 
 
