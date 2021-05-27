@@ -78,7 +78,8 @@ Si no quiere ser acosado, asaltado, golpeado o asesinado, es mejor que se manten
 | --- | --- |
 | ![](../image/cfdox_what.jpg) | ![](../image/cfdox_swat.jpg) |
 | ![](../image/cfdox_kill.jpg) | ![](../image/cfdox_threat.jpg) |
-| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg)<br>![](../image/cfdox_ex2.jpg) |
+| ![](../image/cfdox_dox.jpg) | ![](../image/cfdox_ex1.jpg) |
+| ![](../image/cfabuseform.jpg) | ![](../image/cfdox_ex2.jpg) |
 
 </details>
 
