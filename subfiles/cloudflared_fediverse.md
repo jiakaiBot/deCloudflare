@@ -4815,7 +4815,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 879 |
-| Normal | 3899 |
+| Normal | 3900 |
 
 
 ### 18.4% of public Fediverse services are using Cloudflare.
