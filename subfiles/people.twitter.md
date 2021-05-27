@@ -7,6 +7,7 @@
 
 
 
+- yup this one. and cloudflare response as a normal HTML page and wihtout cors. even CF has CORS, the front end wont be able to read the message also as they didnt do error handling for that. ([ooijiyoung](https://twitter.com/ooijiyoung/status/1397745031230889985))
 - isu CORS tu hanya 'side effect' kpd mslh lain, mungkin org bkn infra/dev nampak error ni. Most of it related to redirected url daripada response yg triggered by cloudflare. Main issue still related dgn rate-limiting tadi. ([meorajrul](https://twitter.com/meorajrul/status/1397597919335702537))
 - Please explain how you guys dev this website? No need to argue with AZ one for yesterday , your API is totally down for whole hour when some of them lucky until can register without Cloudflare Rate Limiting and your API Server Error 429 / 503 / CORS Policy ([sleong123](https://twitter.com/SLeong123/status/1397706657962991617))
 - 70mil is way too much for such error. The Cloudflare can’t even handle the access surge. API are not configured properly. Editing code on the live server? Come on la. Only noobs does that. ([measaura](https://twitter.com/measaura/status/1397590233911201797))
