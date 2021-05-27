@@ -1246,6 +1246,7 @@ Here's a list of public Fediverse services.
 | helpchangethe.world | No |
 | hemmer.land | No |
 | henshaw.social | Yes |
+| hentai.baby | No |
 | hentai.press | Yes |
 | herbo.groupement-interet-citoyen.org | No |
 | herboriste.portaesgnos.org | No |
@@ -3010,6 +3011,7 @@ Here's a list of public Fediverse services.
 | pl.vinzv.space | No |
 | pl.wizards.zone | No |
 | pl.wowana.me | No |
+| pl.wysteriary.art | No |
 | pla.social | No |
 | planet.chrisbeckstrom.com | No |
 | planet.moe | Yes |
@@ -4707,6 +4709,7 @@ Here's a list of public Fediverse services.
 | wuppo.allowed.org | No |
 | wurm.host | No |
 | www.berkeleynoise.com | No |
+| www.bigguys.club | No |
 | www.blimps.xyz | Yes |
 | www.canberrasocial.net | No |
 | www.devporto.com | No |
@@ -4812,7 +4815,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 879 |
-| Normal | 3897 |
+| Normal | 3899 |
 
 
 ### 18.4% of public Fediverse services are using Cloudflare.
