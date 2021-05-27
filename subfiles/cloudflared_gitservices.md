@@ -87,6 +87,7 @@ Here's a list of public Git services.
 | git.fdn.fr | No |
 | git.feneas.org | No |
 | git.finallycoffee.eu | No |
+| git.finmechanics.com | No |
 | git.freezer.life | Yes |
 | git.fsfe.org | No |
 | git.gaiaservice.fr | No |
@@ -115,6 +116,7 @@ Here's a list of public Git services.
 | git.klingt.net | No |
 | git.koesters.xyz | No |
 | git.kwarde.com | No |
+| git.laquadrature.net | No |
 | git.larlet.fr | No |
 | git.lighttpd.net | No |
 | git.madfire.net | No |
@@ -159,6 +161,7 @@ Here's a list of public Git services.
 | git.shivering-isles.com | Yes |
 | git.slashdev.space | No |
 | git.sqdsh.top | Yes |
+| git.tchncs.de | No |
 | git.teknik.io | Yes |
 | git.the-mcloud.ml | Yes |
 | git.tilize.me | No |
@@ -225,9 +228,15 @@ Here's a list of public Git services.
 | gitlab.com | Yes |
 | gitlab.freedesktop.org | No |
 | gitlab.gnome.org | No |
+| gitlab.gwdg.de | No |
+| gitlab.linphone.org | No |
 | gitlab.matrix.org | Yes |
+| gitlab.meridian.cs.dal.ca | No |
+| gitlab.nic.cz | No |
+| gitlab.pagedmedia.org | No |
 | gitlab.tails.boum.org | No |
 | gitlab.torproject.org | No |
+| gitlia.univ-avignon.fr | No |
 | gittea.dev | Yes |
 | inpro.informatik.uni-freiburg.de | No |
 | intra.git.insite.gov.on.ca | No |
@@ -259,6 +268,7 @@ Here's a list of public Git services.
 | update.ycms.pw | No |
 | vmi528339.contaboserver.net | Yes |
 | www.bitfork.net | No |
+| www.cs.ucf.edu | Yes |
 | www.git.govindgnana.com | No |
 | www.github.dbalegends.com | Yes |
 | www.hendrik-fichtenberger.de | No |
@@ -270,8 +280,8 @@ Here's a list of public Git services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 48 |
-| Normal | 187 |
+| Cloudflare | 49 |
+| Normal | 196 |
 
 
-### 20.4% of public Git services are using Cloudflare.
+### 20% of public Git services are using Cloudflare.
