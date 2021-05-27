@@ -7,6 +7,9 @@
 
 
 
+- Please explain how you guys dev this website? No need to argue with AZ one for yesterday , your API is totally down for whole hour when some of them lucky until can register without Cloudflare Rate Limiting and your API Server Error 429 / 503 / CORS Policy ([sleong123](https://twitter.com/SLeong123/status/1397706657962991617))
+- 70mil is way too much for such error. The Cloudflare can’t even handle the access surge. API are not configured properly. Editing code on the live server? Come on la. Only noobs does that. ([measaura](https://twitter.com/measaura/status/1397590233911201797))
+- hCaptcha is rejecting the Accessibility Cookies and forcing impossible captchas left and right despite reports. PLEASE use something that isn't Captcha (like maybe Google Account + Authy combo) to validate users or add proper accessibility. ([tsukiyomaru0](https://twitter.com/Tsukiyomaru0/status/1397582172563849226))
 - the internet used to be a fun place until Cloudflare started tracking Tor exit nodes... a darknet site protected by cloudflare that is also blocking tor traffic is stupidly counterintuitive ([nat_sharma](https://twitter.com/nat_sharma/status/1397615833237626887))
 - I keep getting an error on your website. I went on yesterday and it said there was maintenance, now it just says ddos cloudflare or something ([waluigispal](https://twitter.com/waluigispal/status/1397614088247812097))
 - so are you eventually going to ban every IP block belonging to VPN providers? is that your long term goal? ([notsurex](https://twitter.com/notsurex/status/1395799565303828481))
