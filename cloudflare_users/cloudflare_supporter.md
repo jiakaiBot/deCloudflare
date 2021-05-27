@@ -1631,6 +1631,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jeongperth@twitter.com](https://twitter.com/Jeongperth/status/1384190962499416071) | moral (advertise Cloudflare) |
 | [JeonHnin@twitter.com](https://twitter.com/JeonHnin/status/1396070462728204289) | moral (advertise Cloudflare) |
 | [jeremyfhall@twitter.com](https://twitter.com/jeremyfhall/status/1379201437767499777) | moral (advertise Cloudflare) |
+| [jeremymcdonell@twitter.com](https://twitter.com/jeremymcdonell/status/1397803423475503107) | moral (advertise Cloudflare) |
 | [JeromeR42358233@twitter.com](https://twitter.com/JeromeR42358233/status/1386974016896790531) | moral (advertise Cloudflare) |
 | [JesseREzung@twitter.com](https://twitter.com/JesseREzung/status/1384211301686136836) | moral (advertise Cloudflare) |
 | [jesse_sihenherg@twitter.com](https://twitter.com/jesse_sihenherg/status/1387006183018352643) | moral (advertise Cloudflare) |
