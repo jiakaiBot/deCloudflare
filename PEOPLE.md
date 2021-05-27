@@ -172,6 +172,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 - [Please, stop using Cloudflare on help.archive.org.](https://archive.org/post/1114639/please-stop-using-cloudflare-on-helparchiveorg)
 - [Your thoughts on CloudFlare](https://lemmy.ml/post/61492)
 - [Cloudflare ... Yeah, I know the Tor country, it's located in the Onion continent](https://www.reddit.com/r/softwaregore/comments/mlv97r/cloudflare_yeah_i_know_the_tor_country_its/)
+- [I now have a cloudflare watermark stuck on my client](https://www.reddit.com/r/Warthunder/comments/ln5nya/i_now_have_a_cloudflare_watermark_stuck_on_my/)
+- [Mushroom game brought to you by cloudflare.](https://www.reddit.com/r/Maplestory/comments/jy453w/mushroom_game_brought_to_you_by_cloudflare/)
 - [Can I bypass Cloudflare?](https://www.reddit.com/r/TOR/comments/m4zfbo/can_i_bypass_cloudflare/)
 - [linuxreviews.org Cloudflare](https://linuxreviews.org/Cloudflare)
 - ["When you fetch a page from a website that is served from CloudFlare, Javascript has been injected on-the-fly into that page by CloudFlare, and they also plant a cookie that brands your browser with a globally-unique ID."](https://www.reddit.com/r/privacy/comments/jd6dys/when_you_fetch_a_page_from_a_website_that_is/)
