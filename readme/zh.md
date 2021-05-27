@@ -53,7 +53,7 @@
 |  Cloudflare还提供称为“ Cloudflare Warp”的免费VPN服务。如果使用它，则所有智能手机（或计算机）连接都将发送到Cloudflare服务器。Cloudflare可以知道您阅读了哪个网站，发表了哪些评论，与谁进行了交谈等。您自愿将所有信息提供给Cloudflare。如果您认为“您在开玩笑吗？ Cloudflare是安全的。”那么您需要了解VPN的工作原理。 | ![](../image/howvpnwork.jpg) |
 |  Cloudflare表示，他们的VPN服务可让您快速上网。但是VPN使您的Internet连接速度比现有连接速度慢。 | ![](../image/notfastervpn.jpg) |
 |  您可能已经知道PRISM丑闻。AT＆T确实允许NSA复制所有互联网数据以进行监视。 | ![](../image/prismattnsa.jpg) |
-|  假设您在国家安全局（NSA）工作，并且想要每个公民的互联网个人资料。您知道他们中的大多数人都盲目地信任Cloudflare并使用它-仅一个集中式网关-代理其公司服务器连接（SSH / RDP），个人网站，聊天网站，论坛网站，银行网站，保险网站，搜索引擎，秘密成员仅限网站，拍卖网站，购物，视频网站，NSFW网站和非法网站。您还知道他们将Cloudflare的DNS服务（“ 1.1.1.1”）和VPN服务（“ Cloudflare Warp”）用于“安全！快点！更好！”互联网体验。将它们与用户的IP地址，浏览器指纹，Cookie和RAY-ID结合使用，将有助于建立目标的在线个人资料。 | ![](../image/edw_snow.jpg)<br>![](../image/peopledonotthink.jpg) |
+|  假设您在国家安全局（NSA）工作，并且想要每个公民的互联网个人资料。您知道他们中的大多数人都盲目地信任Cloudflare并使用它-仅一个集中式网关-代理其公司服务器连接（SSH / RDP），个人网站，聊天网站，论坛网站，银行网站，保险网站，搜索引擎，秘密成员仅限网站，拍卖网站，购物，视频网站，[游戏网站](../image/README.md)，NSFW网站和非法网站。您还知道他们将Cloudflare的DNS服务（“ 1.1.1.1”）和VPN服务（“ Cloudflare Warp”）用于“安全！快点！更好！”互联网体验。将它们与用户的IP地址，浏览器指纹，Cookie和RAY-ID结合使用，将有助于建立目标的在线个人资料。 | ![](../image/edw_snow.jpg)<br>![](../image/peopledonotthink.jpg) |
 |  您需要他们的数据。你会怎么做？ | ![](../image/nsaslide_prismcorp.gif) |
 |  **Cloudflare是一个蜜罐。** | ![](../image/honeypot.gif) |
 |  **免费给大家蜂蜜。一些附加的字符串。** | ![](../image/iminurtls.jpg) |
