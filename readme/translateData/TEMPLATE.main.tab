@@ -95,7 +95,7 @@ mainx0n00088	But VPN make your internet connection slower than your existing con
 mainx0n00089	You might already know about the PRISM scandal.
 mainx0n00090	It is true that AT&T lets NSA to copy all internet data for surveillance.
 mainx0n00091	Let's say you're working at the NSA, and you want every citizen's internet profile. 
-mainx0n00092	You know most of them are blindly trusting Cloudflare and using it - only one centralized gateway - to proxy their company server connection(SSH/RDP), personal website, chat website, forum website, bank website, insurance website, search engine, secret member-only website, auction website, shopping, video website, NSFW website, and illegal website.
+mainx0n00092	You know most of them are blindly trusting Cloudflare and using it - only one centralized gateway - to proxy their company server connection(SSH/RDP), personal website, chat website, forum website, bank website, insurance website, search engine, secret member-only website, auction website, shopping, video website, game website, NSFW website, and illegal website.
 mainx0n00093	You also know they use Cloudflare's DNS service ("1.1.1.1") and VPN service ("Cloudflare Warp") for "Secure! Faster! Better!" internet experience.
 mainx0n00094	Combining them with user's IP address, browser fingerprint, cookies and RAY-ID will be useful to build target's online profile.
 mainx0n00095	You want their data. What will you do?
