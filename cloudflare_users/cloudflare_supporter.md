@@ -2754,6 +2754,7 @@ Do not create new issue or we will close it as duplicate.
 | [MyoZawHtun15@twitter.com](https://twitter.com/MyoZawHtun15/status/1390732993837223941) | moral (advertise Cloudflare) |
 | [myozawko098193@twitter.com](https://twitter.com/myozawko098193/status/1394574929228705792) | moral (advertise Cloudflare) |
 | [MysticBlack3@twitter.com](https://twitter.com/MysticBlack3/status/1393044999248523265) | moral (advertise Cloudflare) |
+| [mytel89854584@twitter.com](https://twitter.com/mytel89854584/status/1398011330947321857) | moral (advertise Cloudflare) |
 | [MYYEWINNAING1@twitter.com](https://twitter.com/MYYEWINNAING1/status/1393142382233784321) | moral (advertise Cloudflare) |
 | [MyyJ18@twitter.com](https://twitter.com/MyyJ18/status/1396981851286212612) | moral (advertise Cloudflare) |
 | [M_alamin95@twitter.com](https://twitter.com/M_alamin95/status/1376986669270847497) | moral (advertise CloudFlare) |
