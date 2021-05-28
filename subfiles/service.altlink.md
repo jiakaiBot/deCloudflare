@@ -1,7 +1,9 @@
 # Alternative Link
 
-
 - ↳ [Shared on Mastodon](shared_on_mastodon.md)
+
+
+![](image/meme/meme_all_the_cloudflare_websites.jpg)
 
 
 This is `opt-in` service.
@@ -21,7 +23,7 @@ This is `opt-in` service.
 
 > Unsubscribe
 
-1. Just `block` AL's account on your side.
+1. Just `mute` or `block` AL's account on your side.
 
 
 ---
