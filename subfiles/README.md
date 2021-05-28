@@ -27,6 +27,7 @@
 - [PEOPLE.md](../PEOPLE.md)
   - [Twitter](people.twitter.md)
   - [Mastodon](people.mastodon.md)
+- [Alternative Link](service.altlink.md)
 - [Change default DNS provider of Firefox](change-firefox-dns.md)
 - [How to use Chromium with Tor](chromium_tor.md)
 - [Cloudflare Alternatives](cloudflare-alternatives.md)
