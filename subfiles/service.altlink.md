@@ -7,7 +7,6 @@
 
 
 This is `opt-in` service.
-**Read** carefully.
 
 
 > Subscribe
@@ -23,12 +22,14 @@ This is `opt-in` service.
 
 > Unsubscribe
 
-1. Just `mute` or `block` AL's account on your side.
+1. Just `block` or `mute` AL's account on your side.
 
 
 ---
 
-Mastodon servers are controlled by third party.
-Let us know if above account is censored by aggressive Cloudflare supporters.
+- Mastodon servers are controlled by third party.
+  - Let us know if above account is censored by aggressive Cloudflare supporters.
+- AL don't read direct messages. e.g. `@AL hey read me`
+  - If you have something to say, create new Issue for public discussion.
 
 <a rel="me" href="https://mamot.fr/@altlink"></a>
