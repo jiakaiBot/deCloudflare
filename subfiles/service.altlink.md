@@ -3,7 +3,7 @@
 - ↳ [Shared on Mastodon](shared_on_mastodon.md)
 
 
-![](image/meme/meme_all_the_cloudflare_websites.jpg)
+![](../image/meme/meme_all_the_cloudflare_websites.jpg)
 
 
 This is `opt-in` service.
