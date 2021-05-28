@@ -252,6 +252,7 @@ Here's a list of public Git services.
 | rbcommunity.info | Yes |
 | repo.palemoon.org | Yes |
 | robur.site | Yes |
+| schlomp.space | No |
 | scm.octopost.eu | Yes |
 | source.puri.sm | No |
 | source.small-tech.org | No |
@@ -281,7 +282,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 49 |
-| Normal | 196 |
+| Normal | 197 |
 
 
 ### 20% of public Git services are using Cloudflare.
