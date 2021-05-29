@@ -7,6 +7,10 @@
 
 
 
+- The PrivacyPass you both recommend so much is not working with me. I can't redeem them at all! ([tsukiyomaru0](https://twitter.com/Tsukiyomaru0/status/1397907757508952064))
+- It's either a 520 Cloudflare error page or a plain white 500 error page. ([stl1988s](https://twitter.com/Stl1988S/status/1398361858327953415))
+- E621 is behind a CloudFlare CAPTCHA now you nerd. ([andrewmontagne](https://twitter.com/AndrewMontagne/status/1398123233975676928))
+- cloudflare's bullshit CAPTCHA page is stupid and I hate it It's trying really hard to imply I've got "malware" because I don't allow its javascript STOP IT. ([yakkoj](https://twitter.com/yakkoj/status/1397773853145841665))
 - yup this one. and cloudflare response as a normal HTML page and wihtout cors. even CF has CORS, the front end wont be able to read the message also as they didnt do error handling for that. ([ooijiyoung](https://twitter.com/ooijiyoung/status/1397745031230889985))
 - isu CORS tu hanya 'side effect' kpd mslh lain, mungkin org bkn infra/dev nampak error ni. Most of it related to redirected url daripada response yg triggered by cloudflare. Main issue still related dgn rate-limiting tadi. ([meorajrul](https://twitter.com/meorajrul/status/1397597919335702537))
 - Please explain how you guys dev this website? No need to argue with AZ one for yesterday , your API is totally down for whole hour when some of them lucky until can register without Cloudflare Rate Limiting and your API Server Error 429 / 503 / CORS Policy ([sleong123](https://twitter.com/SLeong123/status/1397706657962991617))
