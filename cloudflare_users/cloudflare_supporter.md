@@ -4062,6 +4062,7 @@ Do not create new issue or we will close it as duplicate.
 | [TarunSi95532912@twitter.com](https://twitter.com/TarunSi95532912/status/1392912934389440512) | moral (advertise Cloudflare) |
 | [TaTa21079240@twitter.com](https://twitter.com/TaTa21079240/status/1392294482998022144) | moral (advertise Cloudflare) |
 | [Tate93701388@twitter.com](https://twitter.com/Tate93701388/status/1380071951213850625) | moral (advertise Cloudflare) |
+| [TattooNghia@twitter.com](https://twitter.com/TattooNghia/status/1399085631028879360) | moral (advertise Cloudflare) |
 | [Tax40813778@twitter.com](https://twitter.com/Tax40813778/status/1388201141821796353) | moral (advertise Cloudflare) |
 | [Taygyi6@twitter.com](https://twitter.com/Taygyi6/status/1392528044842094594) | moral (advertise Cloudflare) |
 | [taymon_khanh@twitter.com](https://twitter.com/taymon_khanh/status/1388779801020747778) | moral (advertise Cloudflare) |
