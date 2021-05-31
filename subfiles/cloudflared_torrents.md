@@ -67,6 +67,7 @@ Here's a list of public Torrent and Tracker services.
 | btdig.com | Yes |
 | crotorrents.com | Yes |
 | dirtytorrents.com | No |
+| dodi-repacks.site | Yes |
 | ebookee.com | No |
 | elite-tracker.net | No |
 | ethor.net | Yes |
@@ -84,8 +85,10 @@ Here's a list of public Torrent and Tracker services.
 | horriblesubs.info | Yes |
 | ibit.to | Yes |
 | idope.se | Yes |
+| igg-games.com | Yes |
 | ilcorsaronero.link | Yes |
 | immortalseed.me | No |
+| iptorrents.me | Yes |
 | isohunts.to | Yes |
 | katcr.to | Yes |
 | kinozal.tv | Yes |
@@ -173,6 +176,7 @@ Here's a list of public Torrent and Tracker services.
 | yourbittorrent.com | Yes |
 | yts.mx | Yes |
 | zooqle.com | Yes |
+| zooqlemovies.xyz | Yes |
 
 </details>
 
@@ -399,7 +403,7 @@ Here's a list of public Torrent and Tracker services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 93 |
+| Cloudflare | 97 |
 | Normal | 36 |
 
 
@@ -414,7 +418,7 @@ Here's a list of public Torrent and Tracker services.
 ![](../image/warez.jpg)
 
 
-### 72.1% of public Torrent sites are using Cloudflare.
+### 72.9% of public Torrent sites are using Cloudflare.
 ### 43.3% of public Tracker services are using Cloudflare.
 
 
