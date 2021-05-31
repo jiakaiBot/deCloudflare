@@ -2603,6 +2603,7 @@ Do not create new issue or we will close it as duplicate.
 | [meooccho012@twitter.com](https://twitter.com/meooccho012/status/1399385570594365446) | moral (advertise Cloudflare) |
 | [meran0maruf@twitter.com](https://twitter.com/meran0maruf/status/1397979741173469186) | moral (advertise Cloudflare) |
 | [MercuryKIInG91@twitter.com](https://twitter.com/MercuryKIInG91/status/1398250256794624005) | moral (advertise Cloudflare) |
+| [mertcangokgoz@twitter.com](https://twitter.com/mertcangokgoz/status/1399434909039611907) | moral (advertise Cloudflare) |
 | [Mest42062509@twitter.com](https://twitter.com/Mest42062509/status/1392776692976951300) | moral (advertise Cloudflare) |
 | [MeVlezz@twitter.com](https://twitter.com/MeVlezz/status/1396832967700271116) | moral (advertise Cloudflare) |
 | [me_mmzu@twitter.com](https://twitter.com/me_mmzu/status/1393107449863839744) | moral (advertise Cloudflare) |
