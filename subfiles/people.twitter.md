@@ -7,6 +7,8 @@
 
 
 
+- Wait is this related to me getting a cloudflare error 1020? ([sada_8180](https://twitter.com/Sada_8180/status/1399117736362446850))
+- The site is down for me since last night and getting an error about cloudflare. ([marketergraham](https://twitter.com/MarketerGraham/status/1399033948013924353))
 - The PrivacyPass you both recommend so much is not working with me. I can't redeem them at all! ([tsukiyomaru0](https://twitter.com/Tsukiyomaru0/status/1397907757508952064))
 - It's either a 520 Cloudflare error page or a plain white 500 error page. ([stl1988s](https://twitter.com/Stl1988S/status/1398361858327953415))
 - E621 is behind a CloudFlare CAPTCHA now you nerd. ([andrewmontagne](https://twitter.com/AndrewMontagne/status/1398123233975676928))
