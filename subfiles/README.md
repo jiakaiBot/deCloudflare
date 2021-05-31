@@ -13,6 +13,7 @@
   - [How many % of public Git services are using Cloudflare?](cloudflared_gitservices.md)
   - [How many % of public Torrent services are using Cloudflare?](cloudflared_torrents.md)
   - [How many % of public social media are using Cloudflare?](cloudflared_socialmedia.md)
+  - [How many % of online video platforms are using Cloudflare?](cloudflared_videoplatform.md)
   - [??????????// WIP](wip.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
