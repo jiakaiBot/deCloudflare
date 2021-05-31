@@ -3,7 +3,7 @@
 
 - [Online video platform](https://en.wikipedia.org/wiki/Online_video_platform)
 ```
-An online video platform (OVP for short), provided by a video hosting service, enables users to
+An online video platform, provided by a video hosting service, enables users to
 upload, convert, store and play back video content on the Internet, often via a structured,
 large-scale system that may generate revenue.
 Users generally will upload video content via the hosting service's website, mobile or
