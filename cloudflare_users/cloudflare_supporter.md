@@ -833,6 +833,7 @@ Do not create new issue or we will close it as duplicate.
 | [cong242000@twitter.com](https://twitter.com/cong242000/status/1383487920498040838) | moral (advertise Cloudflare) |
 | [Conquera99@twitter.com](https://twitter.com/Conquera99/status/1391184679240273923) | moral (advertise Cloudflare) |
 | [consultingby_b@twitter.com](https://twitter.com/consultingby_b/status/1382897455247851520) | moral (advertise Cloudflare) |
+| [CoolMax002ish@twitter.com](https://twitter.com/CoolMax002ish/status/1399164860928245763) | moral (advertise Cloudflare) |
 | [CopyImage12@twitter.com](https://twitter.com/CopyImage12/status/1388503829142851588) | moral (advertise Cloudflare) |
 | [Corona3331@twitter.com](https://twitter.com/Corona3331/status/1394599782153342976) | moral (advertise Cloudflare) |
 | [COZMO60004167@twitter.com](https://twitter.com/COZMO60004167/status/1397139228597817345) | moral (advertise Cloudflare) |
