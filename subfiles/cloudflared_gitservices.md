@@ -62,14 +62,17 @@ Here's a list of public Git services.
 | git.aite.xyz | No |
 | git.alles.cx | No |
 | git.artezio.net | No |
+| git.aslcontrol.com | No |
 | git.augendre.info | No |
 | git.b-ehlers.de | No |
 | git.barbel.synology.me | No |
+| git.bitlair.nl | No |
 | git.bn4t.me | Yes |
 | git.bsmg.dev | Yes |
 | git.charlesreid1.com | No |
 | git.chasekidder.com | Yes |
 | git.chenguanzhou.com | No |
+| git.control-design.pl | No |
 | git.cslabs.clarkson.edu | No |
 | git.cyberjinh.fr | No |
 | git.data.coop | No |
@@ -99,6 +102,7 @@ Here's a list of public Git services.
 | git.hnmediatech.com | No |
 | git.honeypot.im | No |
 | git.hopol.cn | No |
+| git.hush.is | Yes |
 | git.hya.sk | No |
 | git.iamthefij.com | Yes |
 | git.imrc.kist.re.kr | No |
@@ -125,6 +129,7 @@ Here's a list of public Git services.
 | git.marvid.fr | No |
 | git.mentality.rip | No |
 | git.mganczarczyk.pl | Yes |
+| git.mind-tracker.com | No |
 | git.minicloud.xyz | Yes |
 | git.mitchellhansen.info | No |
 | git.mutuellegsmc.fr | No |
@@ -167,6 +172,7 @@ Here's a list of public Git services.
 | git.tilize.me | No |
 | git.timshome.page | No |
 | git.tldp.org | No |
+| git.trackcars.org | No |
 | git.user7er0.duckdns.org | Yes |
 | git.usercode.de | No |
 | git.vpn.ddkfm.de | Yes |
@@ -182,6 +188,7 @@ Here's a list of public Git services.
 | git.xintesa.com | Yes |
 | git.xtechnology.org | No |
 | git.zero-knowledge.org | No |
+| git.zmctrack.net | No |
 | gitdab.com | Yes |
 | gitea-edumedia.evolix.org | No |
 | gitea-s2i2s.isti.cnr.it | No |
@@ -189,6 +196,7 @@ Here's a list of public Git services.
 | gitea.cauchyma.uber.space | No |
 | gitea.citizen4.eu | No |
 | gitea.cloudchainsecurity.com | No |
+| gitea.connexion.software | No |
 | gitea.danghr.com | No |
 | gitea.datahoarding.agency | No |
 | gitea.ddkand.com | No |
@@ -281,8 +289,8 @@ Here's a list of public Git services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 49 |
-| Normal | 197 |
+| Cloudflare | 50 |
+| Normal | 204 |
 
 
-### 20% of public Git services are using Cloudflare.
+### 19.7% of public Git services are using Cloudflare.
