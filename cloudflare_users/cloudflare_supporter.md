@@ -3317,6 +3317,7 @@ Do not create new issue or we will close it as duplicate.
 | [PaingTh77598832@twitter.com](https://twitter.com/PaingTh77598832/status/1394999586486317058) | moral (advertise Cloudflare) |
 | [paingthuyaaung4@twitter.com](https://twitter.com/paingthuyaaung4/status/1391851858046582789) | moral (advertise Cloudflare) |
 | [pai_gao@twitter.com](https://twitter.com/pai_gao/status/1391217520967786497) | moral (advertise Cloudflare) |
+| [pakalupapitol@twitter.com](https://twitter.com/pakalupapitol/status/1399651143311974404) | moral (advertise Cloudflare) |
 | [palon37@twitter.com](https://twitter.com/palon37/status/1389877275751968776) | moral (advertise Cloudflare) |
 | [Panda40839281@twitter.com](https://twitter.com/Panda40839281/status/1395319635742969858) | moral (advertise Cloudflare) |
 | [pandarmyetwon@twitter.com](https://twitter.com/pandarmyetwon/status/1390219250040594432) | moral (advertise Cloudflare) |
@@ -3464,6 +3465,7 @@ Do not create new issue or we will close it as duplicate.
 | [PoePoe76729284@twitter.com](https://twitter.com/PoePoe76729284/status/1393026229096222724) | moral (advertise Cloudflare) |
 | [poetrasingkep@twitter.com](https://twitter.com/poetrasingkep/status/1378024363211988993) | moral (advertise CloudFlare) |
 | [poezijasustine@twitter.com](https://twitter.com/poezijasustine/status/1395370368530010113) | moral (advertise Cloudflare) |
+| [PojiRasip@twitter.com](https://twitter.com/PojiRasip/status/1399647808789966856) | moral (advertise Cloudflare) |
 | [pokefan_t2rox@twitter.com](https://twitter.com/pokefan_t2rox/status/1386785778693332994) | moral (advertise Cloudflare) |
 | [Pokemon98119112@twitter.com](https://twitter.com/Pokemon98119112/status/1398447530921267202) | moral (advertise Cloudflare) |
 | [Pongsak25990264@twitter.com](https://twitter.com/Pongsak25990264/status/1390733516778864640) | moral (advertise Cloudflare) |
