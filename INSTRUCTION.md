@@ -50,6 +50,15 @@ emsisoft.com.		21599	IN	NS	bella.ns.cloudflare.com.
 emsisoft.com.		21599	IN	NS	dom.ns.cloudflare.com.
 ```
 
+Cloudflare [Custom Name Server](https://web.archive.org/web/20210511180344/https://support.cloudflare.com/hc/en-us/articles/200169006-Setting-up-Custom-Nameservers-at-Cloudflare)
+```
+bitcoinmagazine.com.	21599	IN	NS	btc.ns.bitcoinmagazine.com.
+bitcoinmagazine.com.	21599	IN	NS	xbt.ns.bitcoinmagazine.com.
+
+btc.ns.bitcoinmagazine.com. 899	IN	A	162.159.8.190 --> 162.159.8.0/24 (CF)
+xbt.ns.bitcoinmagazine.com. 899	IN	A	162.159.9.117 --> 162.159.9.0/24 (CF)
+```
+
 - Dig "[A record](https://www.digwebinterface.com/?hostnames=dev.qubes-os.org&type=A&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the FQDN, then [check the IP's owner](https://ipinfo.io/104.18.228.122).
 
 ```
