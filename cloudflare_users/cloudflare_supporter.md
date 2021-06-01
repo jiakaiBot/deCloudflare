@@ -1766,6 +1766,7 @@ Do not create new issue or we will close it as duplicate.
 | [jaysonm76681877@twitter.com](https://twitter.com/jaysonm76681877/status/1376793641474260994) | moral (advertise CloudFlare) |
 | [jayywavvyyyy@twitter.com](https://twitter.com/jayywavvyyyy/status/1379843985175310341) | moral (advertise Cloudflare) |
 | [JC7IaJ1c3VB4wU6@twitter.com](https://twitter.com/JC7IaJ1c3VB4wU6/status/1394992890561146885) | moral (advertise Cloudflare) |
+| [jcampos2208@twitter.com](https://twitter.com/jcampos2208/status/1399856800208404486) | moral (advertise Cloudflare) |
 | [JDbelem1@twitter.com](https://twitter.com/JDbelem1/status/1384610630917922817) | moral (advertise Cloudflare) |
 | [jdr_drich@twitter.com](https://twitter.com/jdr_drich/status/1380677922877448194) | moral (advertise Cloudflare) |
 | [JE2DlAAd0UBr2Rw@twitter.com](https://twitter.com/JE2DlAAd0UBr2Rw/status/1384138729485324291) | moral (advertise Cloudflare) |
