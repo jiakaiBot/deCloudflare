@@ -7,6 +7,10 @@
 
 
 
+- For whatever reason and I don't know why. has blocked my IP. So I literally can't access most of the internet without a error 1020 page. ([shaquilleray](https://twitter.com/ShaquilleRay/status/1399279534273273857))
+- I'm getting Error 1020: Access denied CloudFlare. I think my IP is banned now? May I get some assistance please? ([joelbur68244936](https://twitter.com/JoelBur68244936/status/1399181230957072385))
+- lmao that site throws a cloudflare error and a sketchy cert, I'm leaning towards them being a second group that also doesn't know what they're doing ([twinkofswords](https://twitter.com/twinkofswords/status/1399083885846204422))
+- Yeah that was my thought too but has looking into the yubikeys because of the captcha thing was experimenting if you had a yibikey ([leemallon](https://twitter.com/leemallon/status/1399400475364139009))
 - Wait is this related to me getting a cloudflare error 1020? ([sada_8180](https://twitter.com/Sada_8180/status/1399117736362446850))
 - The site is down for me since last night and getting an error about cloudflare. ([marketergraham](https://twitter.com/MarketerGraham/status/1399033948013924353))
 - The PrivacyPass you both recommend so much is not working with me. I can't redeem them at all! ([tsukiyomaru0](https://twitter.com/Tsukiyomaru0/status/1397907757508952064))
