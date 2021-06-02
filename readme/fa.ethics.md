@@ -320,6 +320,7 @@ Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn en
 
 ## لطفا به صفحه بعدی ادامه دهید:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](fa.action.md)
 
+![](../image/censor_cloudflare_blogcomment.jpg)
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
 
