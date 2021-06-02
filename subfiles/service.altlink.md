@@ -15,6 +15,8 @@ This is `opt-in` service.
 
 2. AL will accept your follow request and follow back you.
   - If you're locking your account, please accept AL's follow request otherwise AL can't read your toots.
+  - If you're marking your account as `Bot`, AL will not take action.
+    - Please create Issue or notify us that your action is not automated. (opt-in by human)
 
 3. When you post Cloudflared link, AL will send `direct` message to you with information.
 
