@@ -320,6 +320,7 @@ Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn en
 
 ## مهرباني وکړئ بل پا toې ته دوام ورکړئ:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](ps.action.md)
 
+![](../image/censor_cloudflare_blogcomment.jpg)
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
 
