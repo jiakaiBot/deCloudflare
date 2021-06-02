@@ -11,15 +11,15 @@
 
 | :) | Name | Title | Else |
 | --- | --- | --- | --- |
-|  | Carl Ledbetter | Pelion Venture Partners |  |
-|  | Katrin Suder | Director |  |
-|  | Lee Holloway | founder | https://twitter.com/icqheretic |
-|  | Maria Eitel | Director | https://www.linkedin.com/in/maria-eitel-78baa868 |
-|  | Mark Anderson | Director |  |
-|  | Matthew Prince | CEO | https://twitter.com/eastdakota<br>matthew@cloudflare.com |
-|  | Michelle Zatlyn | founder | https://twitter.com/zatlyn<br>https://www.linkedin.com/in/michellezatlyn |
-|  | Scott Sandell | New Enterprise Associates |  |
-|  | Stan Meresman | Director | https://www.linkedin.com/in/stanmeresman<br>stan@meresman.com<br>http://meresman.com/ |
+| ![](../image/gang/20f17f8e8bebbd5913dd78c2da1951e8.jpg) | Carl Ledbetter | Pelion Venture Partners |  |
+| ![](../image/gang/2298a488bdf4629a56c86bd55367886b.jpg) | Katrin Suder | Director |  |
+| ![](../image/gang/ab15209b4a0aaa0dfe16cd6afc551770.jpg) | Lee Holloway | founder | https://twitter.com/icqheretic |
+| ![](../image/gang/9492061da8a0a59b9da301852e3b5665.jpg) | Maria Eitel | Director | https://www.linkedin.com/in/maria-eitel-78baa868 |
+| ![](../image/gang/163a21be42a512c89322fd46b3c03300.jpg) | Mark Anderson | Director |  |
+| ![](../image/gang/154f2ec6f175845f9fc7706341cbbaba.jpg) | Matthew Prince | CEO | https://twitter.com/eastdakota<br>matthew@cloudflare.com |
+| ![](../image/gang/8ee50872f3d5a657749c3d73d8bb249d.jpg) | Michelle Zatlyn | founder | https://twitter.com/zatlyn<br>https://www.linkedin.com/in/michellezatlyn |
+| ![](../image/gang/f8119cadc0c2013dcb0c13956d163ec7.jpg) | Scott Sandell | New Enterprise Associates |  |
+| ![](../image/gang/e71dc4b328a9bc17c63de7f7e2720dd2.jpg) | Stan Meresman | Director | https://www.linkedin.com/in/stanmeresman<br>stan@meresman.com<br>http://meresman.com/ |
 
 
 ## Employee
