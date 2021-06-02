@@ -340,5 +340,6 @@ Cloudflare nói với người dùng này liên hệ với bộ phận hỗ tr�
 
 ## Vui lòng tiếp tục sang trang tiếp theo:   [Bạn có thể làm gì để chống lại CloudFlare?](vi.action.md)
 
+![](../image/censor_cloudflare_blogcomment.jpg)
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
