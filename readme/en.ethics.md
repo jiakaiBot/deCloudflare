@@ -332,5 +332,6 @@ under Uber's "bug bounty" program.
 
 ## Please continue to next page:   "[What you can do to resist Cloudflare?](en.action.md)
 
+![](../image/censor_cloudflare_blogcomment.jpg)
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
