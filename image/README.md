@@ -48,6 +48,6 @@
 | ![](eggsinbasket.jpg) | ![](fuck_cloudflare_1gen.png) | ![](fuck_cloudflare_1gen_2.png) | ![](down_dash_cloudflare_com.jpg) |
 | ![](cfabuseform.jpg) | ![](cfd_game_maplestory.jpg) | ![](cfd_game_warthunder.jpg) | ![](twitterban_cloudflare.jpg) |
 | ![](twitterban_ErwinVanDerKoogh.jpg) | ![](twitterban_Patrick_Donahue.jpg) | ![](twitterban_ErwinVanDerKoogh2.jpg) | ![](twitterban_Matthew_Prince.jpg) |
-| ![](twitterban_John_Graham-Cumming.jpg) | ![](twitterban_John_Graham-Cumming2.jpg) |  |  |
+| ![](twitterban_John_Graham-Cumming.jpg) | ![](twitterban_John_Graham-Cumming2.jpg) | ![](censor_cloudflare_blogcomment.jpg) | ![](cfd_game_worldofwarcraft.jpg) |
 
 </details>
