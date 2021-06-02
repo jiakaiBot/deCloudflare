@@ -318,5 +318,6 @@ Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn en
 
 ## Da fatan za a ci gaba zuwa shafi na gaba:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](ha.action.md)
 
+![](../image/censor_cloudflare_blogcomment.jpg)
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
