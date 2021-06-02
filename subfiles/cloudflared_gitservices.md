@@ -127,6 +127,7 @@ Here's a list of public Git services.
 | git.madi-wka.club | Yes |
 | git.mafiasi.de | No |
 | git.marvid.fr | No |
+| git.mastodont.cat | No |
 | git.mentality.rip | No |
 | git.mganczarczyk.pl | Yes |
 | git.mind-tracker.com | No |
@@ -165,6 +166,7 @@ Here's a list of public Git services.
 | git.shaiya.net | Yes |
 | git.shivering-isles.com | Yes |
 | git.slashdev.space | No |
+| git.sp-codes.de | No |
 | git.sqdsh.top | Yes |
 | git.tchncs.de | No |
 | git.teknik.io | Yes |
@@ -290,7 +292,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 50 |
-| Normal | 204 |
+| Normal | 206 |
 
 
-### 19.7% of public Git services are using Cloudflare.
+### 19.5% of public Git services are using Cloudflare.
