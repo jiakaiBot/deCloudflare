@@ -340,5 +340,6 @@ CloudFlareはこのユーザーにサポートに連絡して削除されるす�
 
 ## 次のページに進んでください:   [CloudFlareに抵抗するために何をすることができますか？](ja.action.md)
 
+![](../image/censor_cloudflare_blogcomment.jpg)
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
