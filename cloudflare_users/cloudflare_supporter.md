@@ -638,6 +638,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bin11022@twitter.com](https://twitter.com/Bin11022/status/1397241104777596931) | moral (advertise Cloudflare) |
 | [Binayak_thulung@twitter.com](https://twitter.com/Binayak_thulung/status/1395953392862773248) | moral (advertise Cloudflare) |
 | [Bintran79870499@twitter.com](https://twitter.com/Bintran79870499/status/1394896382146670593) | moral (advertise Cloudflare) |
+| [bin_deal@twitter.com](https://twitter.com/bin_deal/status/1399889567050784769) | moral (advertise Cloudflare) |
 | [Bipin7Giri@twitter.com](https://twitter.com/Bipin7Giri/status/1398300434133962752) | moral (advertise Cloudflare) |
 | [biraj_ghimire@twitter.com](https://twitter.com/biraj_ghimire/status/1380395174375817227) | moral (advertise Cloudflare) |
 | [Birb_the14th@twitter.com](https://twitter.com/Birb_the14th/status/1381938622270672898) | moral (advertise Cloudflare) |
