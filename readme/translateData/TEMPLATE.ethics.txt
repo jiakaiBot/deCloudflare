@@ -340,5 +340,6 @@
 
 ## {%pleasenext%}:   [{%uactionmd%}](zz.action.md)
 
+![](../image/censor_cloudflare_blogcomment.jpg)
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
