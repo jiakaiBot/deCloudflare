@@ -340,5 +340,6 @@ CloudFlare hat diesem Benutzer mitgeteilt, den Support zu kontaktieren und alle 
 
 ## Bitte fahren Sie mit der nächsten Seite fort:   [Was können Sie tun, um gegen CloudFlare zu widerstehen?](de.action.md)
 
+![](../image/censor_cloudflare_blogcomment.jpg)
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
