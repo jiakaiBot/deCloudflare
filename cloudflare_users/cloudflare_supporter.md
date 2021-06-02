@@ -1301,6 +1301,7 @@ Do not create new issue or we will close it as duplicate.
 | [gutyuk@twitter.com](https://twitter.com/gutyuk/status/1379825750707146758) | moral (advertise Cloudflare) |
 | [Guy54327691@twitter.com](https://twitter.com/Guy54327691/status/1393410122550943747) | moral (advertise Cloudflare) |
 | [GUYME18@twitter.com](https://twitter.com/GUYME18/status/1397404263890919430) | moral (advertise Cloudflare) |
+| [GValdesP@twitter.com](https://twitter.com/GValdesP/status/1399910630812008448) | moral (advertise Cloudflare) |
 | [GXG77233574@twitter.com](https://twitter.com/GXG77233574/status/1396194788949458944) | moral (advertise Cloudflare) |
 | [Gyan_91@twitter.com](https://twitter.com/Gyan_91/status/1396643664840085505) | moral (advertise Cloudflare) |
 | [GyieHtet@twitter.com](https://twitter.com/GyieHtet/status/1397953751764422658) | moral (advertise Cloudflare) |
