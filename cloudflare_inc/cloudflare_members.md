@@ -612,7 +612,7 @@
 | Henry Andrews | Systems Engineer |  |
 | Henry de Valence | Engineer |  |
 | Henry Heinemann | Business Development | https://twitter.com/HenryHeinemann<br>https://be.linkedin.com/in/henry-heinemann-b97bb973 |
-| Henry Marble | Business Development |  |
+| Henry Marble | Business Development | https://www.linkedin.com/in/henry-marble |
 | Higinio Ochoa | Application Security Engineer |  |
 | Hiren Panchasara | Systems Engineer |  |
 | Hiroki Isomura | Regional Sales Manager, Japan |  |
