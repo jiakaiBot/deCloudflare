@@ -1184,6 +1184,7 @@
 | Pascal Henskes | Employee | |
 | Pasha Kravtsov | Support Engineer |  |
 | Patrick Day | Employee | |
+| Patrick Donahue | Director of Product Management | https://twitter.com/prdonahue |
 | Patrick Lu | Web Engineer |  |
 | Patrick Meenan | Employee | https://twitter.com/patmeenan |
 | Patrick R. Donahue | Director of Product Management | https://twitter.com/prdonahue<br>pat@cloudflare.com<br>https://github.com/prdonahue<br>https://blog.prdonahue.com/<br>https://www.zoominfo.com/p/Patrick-Donahue/1468312385 |
