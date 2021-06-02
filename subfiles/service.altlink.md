@@ -19,7 +19,7 @@ This is `opt-in` service.
     - Please create Issue or notify us that your action is not automated. (opt-in by human)
 
 3. When you post Cloudflared link, AL will send `direct` message to you with information.
-
+  - `Boosts` will be ignored.
 
 
 > Unsubscribe
