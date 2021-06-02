@@ -340,5 +340,6 @@ CloudFlare ha detto a questo utente di contattare il supporto e chiedere a tutti
 
 ## Si prega di passare alla pagina successiva:   [Cosa puoi fare per resistere contro il cloudflare?](it.action.md)
 
+![](../image/censor_cloudflare_blogcomment.jpg)
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
