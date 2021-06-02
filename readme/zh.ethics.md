@@ -340,5 +340,6 @@ CloudFlare告诉本用户联系支持并询问要删除的所有内容。
 
 ## 请继续下一页:   [你能做些什么来抵抗CloudFlare？](zh.action.md)
 
+![](../image/censor_cloudflare_blogcomment.jpg)
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
