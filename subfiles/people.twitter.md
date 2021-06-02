@@ -7,6 +7,8 @@
 
 
 
+- I can't access your API documentation on any browser our device. SSL error. If I try to access it with http I get a cloudflare error. Can you help? Can you link me to a pdf? ([digitaljoeco](https://twitter.com/DigitalJoeCo/status/1399753729407062018))
+- Ford, BMW lead Solid Power’s $130M Series B round html headtitle525 Origin SSL Handshake Error/title/head body bgcolor="white" centerh1525 Origin SSL Handshake Error/h1/center hrcentercloudflare-nginx/center /body /html ([typewriternews](https://twitter.com/typewriternews/status/1399572667125092352))
 - For whatever reason and I don't know why. has blocked my IP. So I literally can't access most of the internet without a error 1020 page. ([shaquilleray](https://twitter.com/ShaquilleRay/status/1399279534273273857))
 - I'm getting Error 1020: Access denied CloudFlare. I think my IP is banned now? May I get some assistance please? ([joelbur68244936](https://twitter.com/JoelBur68244936/status/1399181230957072385))
 - lmao that site throws a cloudflare error and a sketchy cert, I'm leaning towards them being a second group that also doesn't know what they're doing ([twinkofswords](https://twitter.com/twinkofswords/status/1399083885846204422))
