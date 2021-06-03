@@ -29,6 +29,15 @@
 
 | :) | Name | Title | Else |
 | --- | --- | --- | --- |
+| ![](../image/gang/3c8ac4c448d7dc38f48da73a4a4660fc.jpg) | Darth SriBear | Employee |  |
+| ![](../image/gang/4c98a47c053b5c03ca445c16692fca71.jpg) | Huey Min Wong | Office Specialist |  |
+| ![](../image/gang/7d91ae600977be4dd585515badc0a470.jpg) | Arun Rex | Employee |  |
+| ![](../image/gang/21bd3848e6c0d9ced327741587bb4e2a.jpg) | Jun Ho | Employee |  |
+| ![](../image/gang/5522f16d3d4b28f7843c7093be7ae93c.jpg) | Rommy Tosana | Support Engineer, Singapore |  |
+| ![](../image/gang/b6d120ec5044312ea7867d724dccf162.jpg) | Yun Ting Tan | Business Development |  |
+| ![](../image/gang/cdedde1d2d3f99c0fbff559ea7f8b446.jpg) | Gurjinder Singh | Employee |  |
+| ![](../image/gang/cff45d6557eeeb743a8ab68230536fde.jpg) | Karl Henrik Smith | Business Development |  |
+| ![](../image/gang/d41a8b1d31297c4f6e0011273ca345c7.jpg) | Yin Yue | Employee |  |
 |  | Aakash Shah | Data Center Administrator |  |
 |  | Aamir Thoker | Employee |  |
 |  | Aanchal Gupta | Sales Operations |  |
@@ -201,7 +210,6 @@
 |  | Arman Rye | Solutions Engineer |  |
 |  | Arthur Fabre | Systems Engineer |  |
 |  | Arun Rahul Singh | Product Marketing, Security | |
-| ![](../image/gang/7d91ae600977be4dd585515badc0a470.jpg) | Arun Rex | Employee |  |
 |  | Arvind Singh | Global Sales Enablement | "Arvind Singh Mickey" |
 |  | Arwa Ginwala | Solutions Engineer |  |
 |  | Ashcon Partovi | Employee |  |
@@ -415,7 +423,6 @@
 |  | Dao Quang Minh | Employee |  |
 |  | Darren Remington | Employee | |
 |  | Darryl Cody Vida | Front Desk | |
-| ![](../image/gang/3c8ac4c448d7dc38f48da73a4a4660fc.jpg) | Darth SriBear | Employee |  |
 |  | Darwin D. Wu | Employee |  |
 |  | Dastagiri Reddy | Data Engineer |  |
 |  | Dave Jewell | Employee |  |
@@ -591,7 +598,6 @@
 |  | Gui Alencar | Solutions Engineer LATAM |  |
 |  | Guido Jiménez | Plumbing Automation, London | |
 |  | Guido Jiménez | Plumbing Automation |  |
-| ![](../image/gang/cdedde1d2d3f99c0fbff559ea7f8b446.jpg) | Gurjinder Singh | Employee |  |
 |  | Gwyneth Jones | Team Coordinator |  |
 |  | Hady Mendez | Employee |  |
 |  | Halley Kish | Customer Success Manager |  |
@@ -618,7 +624,6 @@
 |  | Hiroki Isomura | Regional Sales Manager, Japan |  |
 |  | Hitendra Katariya | Sales Operations |  |
 |  | Howard Huang | BDR |  |
-| ![](../image/gang/4c98a47c053b5c03ca445c16692fca71.jpg) | Huey Min Wong | Office Specialist |  |
 |  | Hugh Whan | Employee |  |
 |  | Hugo Venegas | Employee |  |
 |  | Humberto Moreira | Solutions Engineer |  |
@@ -823,7 +828,6 @@
 |  | Julio Pescador | Sales Operations |  |
 |  | Junade Ali | Engineer | https://twitter.com/icyapril<br>mjsa@junade.com<br>https://www.junade.com/ |
 |  | Junho Choi | Protocol Team | https://www.twitter.com/junhochoi<br>Previously co-founder of Neumob, CTO of CDNetworks, Web Data Bank<br>https://www.saturnsoft.net/<br>https://github.com/junhochoi<br>junho@cloudflare.com |
-| ![](../image/gang/21bd3848e6c0d9ced327741587bb4e2a.jpg) | Jun Ho | Employee |  |
 |  | Junyi Lim | Customer Development |  |
 |  | Justen Lin | Regional Sales | |
 |  | Justina Wong | Technical Support Engineer, Lisbon | |
@@ -846,7 +850,6 @@
 |  | Kari Linder | Designer | https://twitter.com/kkblinder<br>https://dribbble.com/karilinder |
 |  | Karim Dik | Employee |  |
 |  | Karl Ehr | Head of Technical Operations |  |
-| ![](../image/gang/cff45d6557eeeb743a8ab68230536fde.jpg) | Karl Henrik Smith | Business Development |  |
 |  | Kartika Mulyo | Regional Sales Lead | |
 |  | Kas Perch | Developer | https://twitter.com/nodebotanist<br>https://twitch.tv/nodebotanist |
 |  | Kassian Kas Perch | Developer, Austin |  |
@@ -1007,6 +1010,7 @@
 |  | Marshall Montana | Employee |  |
 |  | Marshall Portwood | Enterprise Account Executive |  |
 |  | Martijn Gonlag | Support Engineer |  |
+|  | Martin Hauskrecht | Employee | |
 |  | Martin J. Levy | Network Strategy | martin.levy@gmail.com<br>https://www.facebook.com/people/Martin-J-Levy/506131573<br>https://mahtin.com/<br>https://twitter.com/mahtin<br>PGP: 7EA139C40C1C842F9D41AAF94A34925D05172859 |
 |  | Martin Marks | Systems Engineer |  |
 |  | Marty Strong | Technical Support Engineer |  |
@@ -1306,7 +1310,6 @@
 |  | Roger Tam | Employee |  |
 |  | Rohan Oswal | Big Data Engineer | |
 |  | Rohit Agarwal | Systems Engineer |  |
-| ![](../image/gang/5522f16d3d4b28f7843c7093be7ae93c.jpg) | Rommy Tosana | Support Engineer, Singapore |  |
 |  | Rory Malone | London Employee | |
 |  | Roshni Hundel | Recruiting Coordinator |  |
 |  | Rosie Parket | Paralegal |  |
@@ -1606,7 +1609,6 @@
 |  | Xingang Wang | Systems Engineer |  |
 |  | Xin Meng | Solutions Engineer, Singapore |  |
 |  | Xu Haitao | Account Executive |  |
-|  | Zaidoon Abd Al Hadi | Employee |  |
 |  | Xuzhe Quincy Zhuang | Technical Support Engineer |  |
 |  | Yaely Knebel | Customer Success Engineer |  |
 |  | Yana Chen | Customer Success |  |
@@ -1615,12 +1617,10 @@
 |  | Yevgen Safronov | Web Engineer |  |
 |  | Yew Yong | Employee |  |
 |  | Yien Wu | Relationship Manager |  |
-| ![](../image/gang/d41a8b1d31297c4f6e0011273ca345c7.jpg) | Yin Yue | Employee |  |
 |  | Young Park | Employee |  |
 |  | Yuchen Wu | Systems Engineer | yuchenw@cs.cmu.edu<br>5000 Forbes Ave, Pittsburgh, USA, 15213 |
 |  | Yuet Wai | Employee |  |
 |  | Yunfei Luo Adam | Channel Account Manager |  |
-| ![](../image/gang/b6d120ec5044312ea7867d724dccf162.jpg) | Yun Ting Tan | Business Development |  |
 |  | Yuri Takano | Business Development, Singapore |  |
 |  | Zac Arellano | Software Engineer | |
 |  | Zachary Roy | Employee |  |
@@ -1628,6 +1628,7 @@
 |  | Zack Bloom | Employee | https://twitter.com/zackbloom<br>https://github.com/zackbloom<br>zackbloom@gmail.com |
 |  | Zack Proser | Web Engineer |  |
 |  | Zaid Farooqui | Product Manager |  |
+|  | Zaidoon Abd Al Hadi | Employee |  |
 |  | Zak Cutner | Employee | |
 |  | Zanoni Harris | IT Operations |  |
 |  | Zeeshan Parkar | Network Engineer |  |
