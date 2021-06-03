@@ -232,6 +232,7 @@ Do not create new issue or we will close it as duplicate.
 | [ali__haidaricr7@twitter.com](https://twitter.com/ali__haidaricr7/status/1390791981010460673) | moral (advertise Cloudflare) |
 | [AllanMartin@twitter.com](https://twitter.com/AllanMartin/status/1399519289372295168) | moral (advertise Cloudflare) |
 | [Allis98048947@twitter.com](https://twitter.com/Allis98048947/status/1396348863519371272) | moral (advertise Cloudflare) |
+| [AlmakLimited@twitter.com](https://twitter.com/AlmakLimited/status/1400534263007678464) | moral (advertise Cloudflare) |
 | [almohanad_7rb@twitter.com](https://twitter.com/almohanad_7rb/status/1396993015231750147) | moral (advertise Cloudflare) |
 | [Almosmn8@twitter.com](https://twitter.com/Almosmn8/status/1398362732534112256) | moral (advertise Cloudflare) |
 | [AlsamiDr@twitter.com](https://twitter.com/AlsamiDr/status/1390431366794432516) | moral (advertise Cloudflare) |
