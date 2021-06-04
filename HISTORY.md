@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-06-02: [DNS Scan is slow when onboarding zone](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g74fyq010tnp)
 - 2021-06-02: [Network Performance Issues in EWR/Newark, New Jersey](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zbzjv8sm3g94)
 - 2021-06-01: [Possible Network Congestion in Hong Kong](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xryvrkwdk35n)
 - 2021-05-31: [Possible Network Congestion in Kathmandu, Nepal - (KTM), New Delhi, India - (DEL) and Chennai, India - (MAA).](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/73znp80cmvmx)
