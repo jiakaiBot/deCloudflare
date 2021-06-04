@@ -5148,6 +5148,7 @@ Do not create new issue or we will close it as duplicate.
 | [zawpain51983158@twitter.com](https://twitter.com/zawpain51983158/status/1391699694292586498) | moral (advertise Cloudflare) |
 | [ZawThihaNaung3@twitter.com](https://twitter.com/ZawThihaNaung3/status/1397912907975860228) | moral (advertise Cloudflare) |
 | [zawwin12708716@twitter.com](https://twitter.com/zawwin12708716/status/1397568534096580608) | moral (advertise Cloudflare) |
+| [ZawYTun2@twitter.com](https://twitter.com/ZawYTun2/status/1400909978806886400) | moral (advertise Cloudflare) |
 | [ZawZaw07429483@twitter.com](https://twitter.com/ZawZaw07429483/status/1390910030816235522) | moral (advertise Cloudflare) |
 | [ZawZaw10216039@twitter.com](https://twitter.com/ZawZaw10216039/status/1391458719528099849) | moral (advertise Cloudflare) |
 | [ZawZaw28528635@twitter.com](https://twitter.com/ZawZaw28528635/status/1385114651684347912) | moral (advertise Cloudflare) |
