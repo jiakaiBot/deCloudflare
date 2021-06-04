@@ -7,6 +7,8 @@
 
 
 
+- That's a good thing. Tcl did self harm when they jailed all the docs in Cloudflare. Fuck that language. I use it, but I actually won't share my Tcl code publicly because the asshats made the docs exclusive. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106337561231889923))
+- Why do us Cloudflare?Blatantly trying to rustle my jimmies. ([mxtthxw](https://mastodon.online/@mxtthxw/106336665604365037))
 - Liberapay puts some quite untrustworthy entities in the loop who make it more privacy abusing than going direct from bank to bank. LP only gives you anonymity to the recipient (who is usually the only entity you trust with your PII). Cryptocurrency is a great option if you can work out how to actually get some of it privately without Cloudflare in the loop. ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/106325489106351883))
 - indeed it's a hypocrisy for Matrix to use Cloudflare. It's the reason I don't use Matrix. Cloudflare has taken roughly ~30% of the web so far, and most of the world has no idea. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106290479632794650))
 - I can not understand why FOSS decentralizing Projects hides behind cloudflare helping a centralizing service to get market shares. wanted to checkout pixelfed but impossible to visit the projects site. this does not give me a good feeling, so currently no listing for pixelfed at . ([kmj](https://mastodon.ctseuro.com/@kmj/106271305313956903))
