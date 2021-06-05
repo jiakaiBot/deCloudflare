@@ -1288,6 +1288,7 @@ Do not create new issue or we will close it as duplicate.
 | [GAGANDE95206340@twitter.com](https://twitter.com/GAGANDE95206340/status/1398149233992036353) | moral (advertise Cloudflare) |
 | [gaijingen@twitter.com](https://twitter.com/gaijingen/status/1400023426157346821) | moral (advertise Cloudflare) |
 | [gajendr13692528@twitter.com](https://twitter.com/gajendr13692528/status/1392386664115314689) | moral (advertise Cloudflare) |
+| [GalAviel97@twitter.com](https://twitter.com/GalAviel97/status/1401309736314810368) | moral (advertise Cloudflare) |
 | [Galaxyindiagam2@twitter.com](https://twitter.com/Galaxyindiagam2/status/1401178297300668420) | moral (advertise Cloudflare) |
 | [Game080941@twitter.com](https://twitter.com/Game080941/status/1396440640028692489) | moral (advertise Cloudflare) |
 | [Gameski65226328@twitter.com](https://twitter.com/Gameski65226328/status/1394977499864576006) | moral (advertise Cloudflare) |
