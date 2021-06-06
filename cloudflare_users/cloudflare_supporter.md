@@ -2022,6 +2022,7 @@ Do not create new issue or we will close it as duplicate.
 | [KartikT93021170@twitter.com](https://twitter.com/KartikT93021170/status/1378252832911060993) | moral (advertise CloudFlare) |
 | [Kartoz12@twitter.com](https://twitter.com/Kartoz12/status/1393136545595498496) | moral (advertise Cloudflare) |
 | [Kasimkh32639710@twitter.com](https://twitter.com/Kasimkh32639710/status/1377682614291623936) | moral (advertise CloudFlare) |
+| [kasote_umesh@twitter.com](https://twitter.com/kasote_umesh/status/1401374822593007631) | moral (advertise Cloudflare) |
 | [KateNguyn20@twitter.com](https://twitter.com/KateNguyn20/status/1380191904990588929) | moral (advertise Cloudflare) |
 | [KatiePieterse4@twitter.com](https://twitter.com/KatiePieterse4/status/1400893992628375557) | moral (advertise Cloudflare) |
 | [Kaung72075076@twitter.com](https://twitter.com/Kaung72075076/status/1390673137629638656) | moral (advertise Cloudflare) |
