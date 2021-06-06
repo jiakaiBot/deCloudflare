@@ -396,6 +396,7 @@ james.ns.cloudflare.com
 jamie.ns.cloudflare.com
 janet.ns.cloudflare.com
 jarred.ns.cloudflare.com
+jask.ns.cloudflare.com
 jasmine.ns.cloudflare.com
 jason.ns.cloudflare.com
 jasper.ns.cloudflare.com
