@@ -2482,6 +2482,7 @@ Do not create new issue or we will close it as duplicate.
 | [lawking93270162@twitter.com](https://twitter.com/lawking93270162/status/1396827738179309569) | moral (advertise Cloudflare) |
 | [lay20119@twitter.com](https://twitter.com/lay20119/status/1385248872059052034) | moral (advertise Cloudflare) |
 | [Lay40367122Lay@twitter.com](https://twitter.com/Lay40367122Lay/status/1396118122755620869) | moral (advertise Cloudflare) |
+| [Layaung20553541@twitter.com](https://twitter.com/Layaung20553541/status/1401449252383907840) | moral (advertise Cloudflare) |
 | [layaungyint@twitter.com](https://twitter.com/layaungyint/status/1392358416769634306) | moral (advertise Cloudflare) |
 | [LayMishall@twitter.com](https://twitter.com/LayMishall/status/1396312091112452098) | moral (advertise Cloudflare) |
 | [laymon227097444@twitter.com](https://twitter.com/laymon227097444/status/1379339770548027393) | moral (advertise Cloudflare) |
@@ -2874,6 +2875,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinKyawSwar19@twitter.com](https://twitter.com/MinKyawSwar19/status/1390077571228860424) | moral (advertise Cloudflare) |
 | [MinKyawThant6@twitter.com](https://twitter.com/MinKyawThant6/status/1391276200442482689) | moral (advertise Cloudflare) |
 | [minlae3@twitter.com](https://twitter.com/minlae3/status/1391187488752902144) | moral (advertise Cloudflare) |
+| [MinMin03070295@twitter.com](https://twitter.com/MinMin03070295/status/1401439004151537665) | moral (advertise Cloudflare) |
 | [MinMin1704@twitter.com](https://twitter.com/MinMin1704/status/1401211852323844102) | moral (advertise Cloudflare) |
 | [Minmin25104082@twitter.com](https://twitter.com/Minmin25104082/status/1392618463194136576) | moral (advertise Cloudflare) |
 | [minmin58550309@twitter.com](https://twitter.com/minmin58550309/status/1395164506968367108) | moral (advertise Cloudflare) |
