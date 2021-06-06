@@ -302,6 +302,7 @@ Do not create new issue or we will close it as duplicate.
 | [Anhhoan35581072@twitter.com](https://twitter.com/Anhhoan35581072/status/1383844166002614275) | moral (advertise Cloudflare) |
 | [AnhKhan49996728@twitter.com](https://twitter.com/AnhKhan49996728/status/1392903615111565312) | moral (advertise Cloudflare) |
 | [AnHo82952495@twitter.com](https://twitter.com/AnHo82952495/status/1386687049063821317) | moral (advertise Cloudflare) |
+| [anhthoxam74@twitter.com](https://twitter.com/anhthoxam74/status/1401508553123237891) | moral (advertise Cloudflare) |
 | [AnikethDevadiga@twitter.com](https://twitter.com/AnikethDevadiga/status/1393885775305928706) | moral (advertise Cloudflare) |
 | [AniketR19914841@twitter.com](https://twitter.com/AniketR19914841/status/1384569411630026752) | moral (advertise Cloudflare) |
 | [Anikets98739334@twitter.com](https://twitter.com/Anikets98739334/status/1393038098561331200) | moral (advertise Cloudflare) |
@@ -4925,6 +4926,7 @@ Do not create new issue or we will close it as duplicate.
 | [VNSPnet@twitter.com](https://twitter.com/VNSPnet/status/1388806930890592258) | moral (advertise Cloudflare) |
 | [VnTnh53728960@twitter.com](https://twitter.com/VnTnh53728960/status/1378052859594383363) | moral (advertise CloudFlare) |
 | [VN_Ricefield@twitter.com](https://twitter.com/VN_Ricefield/status/1387816206636240897) | moral (advertise Cloudflare) |
+| [Voduytin2@twitter.com](https://twitter.com/Voduytin2/status/1401510533958832136) | moral (advertise Cloudflare) |
 | [VoMinhThong16@twitter.com](https://twitter.com/VoMinhThong16/status/1400363078391275520) | moral (advertise Cloudflare) |
 | [vovsoft@twitter.com](https://twitter.com/vovsoft/status/1391116990501298178) | moral (advertise Cloudflare) |
 | [VoxziB@twitter.com](https://twitter.com/VoxziB/status/1380772820624412673) | moral (advertise Cloudflare) |
