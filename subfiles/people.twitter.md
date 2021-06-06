@@ -7,6 +7,14 @@
 
 
 
+- I hate being the product rather than the customer. When you are the product a company doesn't feel any need to provide customer service. ([combat_medic](https://twitter.com/combat_medic/status/1400909757666369539))
+- Yes they are now :) but were down just now. I will try to email you direct next time because by the time I got passed your Captcha on login (5 minutes) they were up. ([amityweb](https://twitter.com/amityweb/status/1400399598041063427))
+- The link gives me an error: 403 Forbidden cloudflare ([stuffbybez](https://twitter.com/stuffByBez/status/1400766794642735110))
+- Your site down? The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed. Ray ID: 659829e99d5ce614 Your IP address: xx Error reference number: 522 Cloudflare Location: London ([colinsunderland](https://twitter.com/colinsunderland/status/1400396787165323265))
+- The site may have a Cloudflare CAPTCHA prompt temporarily. I'm trying to balance my server load for a few minutes. ([ksitetv](https://twitter.com/KSiteTV/status/1400862400186929156))
+- Any ETA? I'm getting a captcha 100% of the time from Cloudflare using your API. I gave it 24 hours without any API calls and it still does it. Your contact form on submit gets blocked by Cloudflare too. ([lg_skinner](https://twitter.com/LG_Skinner/status/1400542838178430982))
+- é so comigo q todo site da cloudflare q eu to tentando entrar ta pedindo captcha? ([silvedic](https://twitter.com/Silvedic/status/1400492229786013716))
+- OMG!! Cloudflare Captcha here Cloudflare Captcha there Cloudflare Captcha everywhere !! ([dozyyawn](https://twitter.com/Dozyyawn/status/1400456711484313604))
 - Wellicht dat jullie dan ook eens het IPv6 probleem wat al minstens een jaar speelt op kunnen lossen. De site is gewoon niet bereikbaar als je IPv6 hebt, doordat er wel een DNS-entry is, maar geen werkende site. Altijd een error van Cloudflare. ([jeroenroos](https://twitter.com/jeroenroos/status/1400099235543015438))
 - Regular Bots can’t pass the Captcha.. sometimes it’s a CDN like Cloudflare from where bots easily penetrate the website ([vinjin9](https://twitter.com/VinJin9/status/1399933957639081991))
 - I can't access your API documentation on any browser our device. SSL error. If I try to access it with http I get a cloudflare error. Can you help? Can you link me to a pdf? ([digitaljoeco](https://twitter.com/DigitalJoeCo/status/1399753729407062018))
