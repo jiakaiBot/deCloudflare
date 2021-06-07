@@ -2560,6 +2560,7 @@ Do not create new issue or we will close it as duplicate.
 | [Leo67452617@twitter.com](https://twitter.com/Leo67452617/status/1392773215638917121) | moral (advertise Cloudflare) |
 | [leomdracula@twitter.com](https://twitter.com/leomdracula/status/1392060299260284930) | moral (advertise Cloudflare) |
 | [LerbonR@twitter.com](https://twitter.com/LerbonR/status/1401222654883893254) | moral (advertise Cloudflare) |
+| [levelbest@twitter.com](https://twitter.com/levelbest/status/1402010072595800066) | moral (advertise Cloudflare) |
 | [LeVietH08159054@twitter.com](https://twitter.com/LeVietH08159054/status/1377052679713660933) | moral (advertise CloudFlare) |
 | [LewisLi02673279@twitter.com](https://twitter.com/LewisLi02673279/status/1389147021542559747) | moral (advertise Cloudflare) |
 | [lexuyen63400696@twitter.com](https://twitter.com/lexuyen63400696/status/1394090281981468673) | moral (advertise Cloudflare) |
