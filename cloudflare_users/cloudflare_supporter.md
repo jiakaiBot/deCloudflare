@@ -4534,6 +4534,7 @@ Do not create new issue or we will close it as duplicate.
 | [tdat868@twitter.com](https://twitter.com/tdat868/status/1396835443618897922) | moral (advertise Cloudflare) |
 | [Team98750688@twitter.com](https://twitter.com/Team98750688/status/1385933279514173448) | moral (advertise Cloudflare) |
 | [Teammmmmmmmm3@twitter.com](https://twitter.com/Teammmmmmmmm3/status/1398780432074743810) | moral (advertise Cloudflare) |
+| [TecharoApp@twitter.com](https://twitter.com/TecharoApp/status/1401984338472931330) | moral (advertise Cloudflare) |
 | [TechRedneck901@twitter.com](https://twitter.com/TechRedneck901/status/1396056226329505794) | moral (advertise Cloudflare) |
 | [TechTailor@twitter.com](https://twitter.com/TechTailor/status/1381152232410816514) | moral (advertise Cloudflare) |
 | [Teddy2100@twitter.com](https://twitter.com/Teddy2100/status/1379049599210512384) | moral (advertise Cloudflare) |
