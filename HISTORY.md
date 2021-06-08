@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-06-07: [Network Performance Issues in Paris, FR (CDG)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4hkhqkb59vlf)
 - 2021-06-04: [Increased HTTP 522 Errors in Athens, Greece](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/j2kngxpzcvpd)
 - 2021-06-02: [DNS Scan is slow when onboarding zone](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g74fyq010tnp)
 - 2021-06-02: [Network Performance Issues in EWR/Newark, New Jersey](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zbzjv8sm3g94)
