@@ -7,6 +7,10 @@
 
 
 
+- Up for me. Might be cloudflare issue. Make sure to complete captcha if it asks. ([n0tton](https://twitter.com/n0tton/status/1401984616093806592))
+- Any update on this? Still getting CAPTCHA from cloudflare on API ([kubacech](https://twitter.com/kubacech/status/1401915472849817607))
+- Because I use Cloudflare to check your browser before accessing Beta Profiles, you will see this error message. For now, I have disabled the feature from Cloudflare and everything is back to normal. Let me know if you have successfully downloaded tvOS 15 profile. ([betaprofiles](https://twitter.com/BetaProfiles/status/1402005155235581964))
+- Exactly the same issue, VPS is getting an error & the client area is giving the 504 gateway error ([carryon90s](https://twitter.com/CarryOn90s/status/1401825112412798979))
 - I hate being the product rather than the customer. When you are the product a company doesn't feel any need to provide customer service. ([combat_medic](https://twitter.com/combat_medic/status/1400909757666369539))
 - Yes they are now :) but were down just now. I will try to email you direct next time because by the time I got passed your Captcha on login (5 minutes) they were up. ([amityweb](https://twitter.com/amityweb/status/1400399598041063427))
 - The link gives me an error: 403 Forbidden cloudflare ([stuffbybez](https://twitter.com/stuffByBez/status/1400766794642735110))
