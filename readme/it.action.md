@@ -412,7 +412,7 @@ Pertanto si consiglia solo la tabella sopra. Nient'altro.
 
 - Parla agli altri intorno a te dei pericoli di Cloudflare.
 
-- [Aiutaci a migliorare questo repository.](http://crimeflare.eu.org).
+- [Aiutaci a migliorare questo repository.](http://crimeflare.eu.org)
   - Entrambe le liste, gli argomenti contro e i dettagli.
 
 - [Documenta e rendi molto pubblico dove le cose vanno storte con Cloudflare (e società simili), assicurandoti di menzionare questo repository quando lo fai](http://crimeflare.eu.org) :)
