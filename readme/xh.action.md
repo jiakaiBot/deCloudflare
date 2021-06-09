@@ -412,7 +412,7 @@ Ke ngoko sicebisa ngaphezulu kwetafile kuphela. Ayikho enye.
 
 - Xelela abanye abakungqongileyo malunga neengozi zeCloudflare.
 
-- [Nceda ukuphucula oku kugcinwa.](http://crimeflare.eu.org).
+- [Nceda ukuphucula oku kugcinwa.](http://crimeflare.eu.org)
   - Zombini ezi zintlu, iimpikiswano ezichasene nayo kunye neenkcukacha.
 
 - [Uxwebhu kwaye wenze esidlangalaleni apho izinto zihamba gwenxa ngeCloudflare (kunye neenkampani ezifanayo), uqiniseke ngokukhankanya le ndawo yokugcina xa usenza njalo](http://crimeflare.eu.org) :)
