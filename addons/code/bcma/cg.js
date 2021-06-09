@@ -54,6 +54,9 @@ document.addEventListener('DOMContentLoaded', () => {
 		}
 	});
 	document.getElementById('aus').addEventListener('click', function () {
+		if (!/^http(|s):\/\/([a-z0-9.-]{4,})\/(.*)%%(U|E)RL%%/.test(document.getElementById('vau').value)) {
+			document.getElementById('vau').value = '';
+		}
 		browser.runtime.sendMessage(['au', document.getElementById('vau').value]);
 	});
 	document.getElementById('exp').addEventListener('click', () => {

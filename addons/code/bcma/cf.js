@@ -1198,7 +1198,7 @@ browser.webRequest.onHeadersReceived.addListener(function (wr) {
 		if (my_action == 4) {
 			tell_me(my_nfo_alu, trans['eo']['cflrmi'], trans['eo']['redir'] + wr_hostname);
 			return {
-				redirectUrl: my_customurl.replace('%%URL%%', wr.url)
+				redirectUrl: my_customurl.replace('%%URL%%', wr.url).replace('%%ERL%%', encodeURIComponent(wr.url))
 			};
 		}
 	}
@@ -1259,7 +1259,7 @@ browser.webRequest.onBeforeRequest.addListener(function (wr) {
 		if (my_action == 4) {
 			tell_me(my_nfo_alu, trans['eo']['cflrmi'], trans['eo']['redir'] + wr_hostname);
 			return {
-				redirectUrl: my_customurl.replace('%%URL%%', wr.url)
+				redirectUrl: my_customurl.replace('%%URL%%', wr.url).replace('%%ERL%%', encodeURIComponent(wr.url))
 			};
 		}
 	}
@@ -1341,7 +1341,7 @@ browser.runtime.onMessage.addListener(function (a, b, c) {
 		});
 	}
 	if (a[0] == 'au') {
-		my_customurl = (/^http(|s):\/\/([a-z0-9.-]{4,})\/(.*)%%URL%%(.*)$/.test(a[1])) ? a[1] : def_customurl;
+		my_customurl = (/^http(|s):\/\/([a-z0-9.-]{4,})\/(.*)%%(U|E)RL%%/.test(a[1])) ? a[1] : def_customurl;
 		browser.storage.local.set({
 			'customurl': my_customurl
 		});
