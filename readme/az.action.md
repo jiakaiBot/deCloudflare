@@ -412,7 +412,7 @@ Bu səbəbdən yalnız yuxarıdakı cədvəli tövsiyə edirik. Başqa heçnə.
 
 - Ətrafınızdakılara Cloudflare təhlükələri barədə danışın.
 
-- [Bu deposu yaxşılaşdırmağa kömək edin.](http://crimeflare.eu.org).
+- [Bu deposu yaxşılaşdırmağa kömək edin.](http://crimeflare.eu.org)
   - Həm siyahılar, həm ona qarşı olan mübahisələr, həm də detallar.
 
 - [Cloudflare (və bənzər şirkətlər) ilə əlaqəli işlərin səhv olduğu yerləri sənədləşdirin və ictimaiyyətə təqdim edin, bunu etdiyiniz zaman bu deposu qeyd etməyinizə əmin olun](http://crimeflare.eu.org) :)
