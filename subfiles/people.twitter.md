@@ -7,6 +7,19 @@
 
 
 
+- eu n sei e tipo uma lista de ips que sao "maliciosos" coisa do tipo pq eu to tendo um problema aparecendo captcha da cloudflare toda vez qaue vou acessar certos sites, eu pesquisei e possivelmente e relacionado a uma blacklist la ([chlcomoreno](https://twitter.com/CHlCOMORENO/status/1402295126219763713))
+- Cloudflare had an outage a few months ago, Amazon had one last year. It’s not that uncommon. My point was that process and human error appears to be the root cause more often than hardware failure. All the redundancy in the world didn’t prevent this outage. ([ocshree](https://twitter.com/ocshree/status/1402347835031314432))
+- I'm unabls to access website Keeps giving error Error 1020 Ray ID: 65c36093db213193 • 2021-06-08 16:08:09 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 65c36093db213193 Your IP: 103.58.155.32 ([amintamboli](https://twitter.com/amintamboli/status/1402297015111876621))
+- we seem to have lost access to . Down due to the Cloudflare issues? Getting a 500 error. ([dtkahn](https://twitter.com/DTKahn/status/1402292581862719499))
+- I tried to read the link and got a Cloudflare error which is just the chef's kiss ([masiebaby2](https://twitter.com/masiebaby2/status/1402291341632155648))
+- Got a Cloudflare 'access denied' error when I tried to read this. Hope isn't experiencing a DDoS. ([blurvirus](https://twitter.com/blurvirus/status/1402266671302250502))
+- i get this error on a lot more pages, maybe its a cloudflare outage or something? ([atemerino](https://twitter.com/Atemerino/status/1402217446484873217))
+- This wound up being a Cloudflare DNS error (since I don't use the EE DNS. Factory reset of the router solved the issue ([sinisterpixelp](https://twitter.com/SinisterPixeLP/status/1402215130168020997))
+- Fastly, a massive CDN (like cloudflare) is having an outage which is breaking a shit ton of big sites (if you saw a varnish error, blame fastly) ([the1jaren](https://twitter.com/The1Jaren/status/1402208924930134017))
+- Technically, If they were determined they could have put the functionality just like Tor tab in Brave for example , or as it is using cloudflare oblivious DNS. But it would mean their business would get jeopardised. ([realhamed](https://twitter.com/realhamed/status/1402367739562504203))
+- Update: used a VPN to bypass the cloudflare maintenance in Canada so we in! 🧠🧠🧠 ([turtlemania7](https://twitter.com/TurtleMania7/status/1402293210282659853))
+- I'm not referring at how they sold it to you, but the actual implementation lol. If you think two jumps inside cloudflare are anything even close to tor then I can't help with that. ([gondurson](https://twitter.com/gondurson/status/1402203304495665155))
+- Dear I'm already used to your infinity bugs and incompetent support. I started using VPN after you denied access to my country through Cloudflare security. Now you have broken item bundles... 😐 NFT NFTs NFTCommunity OpenSeaNFT opensea ([0x6347](https://twitter.com/0x6347/status/1402190172968697860))
 - Up for me. Might be cloudflare issue. Make sure to complete captcha if it asks. ([n0tton](https://twitter.com/n0tton/status/1401984616093806592))
 - Any update on this? Still getting CAPTCHA from cloudflare on API ([kubacech](https://twitter.com/kubacech/status/1401915472849817607))
 - Because I use Cloudflare to check your browser before accessing Beta Profiles, you will see this error message. For now, I have disabled the feature from Cloudflare and everything is back to normal. Let me know if you have successfully downloaded tvOS 15 profile. ([betaprofiles](https://twitter.com/BetaProfiles/status/1402005155235581964))
