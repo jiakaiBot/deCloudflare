@@ -5,6 +5,8 @@ We processed their report after downloading it in June 2021.
 
 Here is the result.
 
+![](../image/smellslikebs.gif)
+
 
 ### Domains
 
@@ -28,6 +30,11 @@ Here is the result.
 ### 30.15% of copyright removal requests are related to Cloudflare domains.
 
 Repeat infringers loves Cloudflare.
+
+
+| &#128444; | &#128444; | &#128444; |
+| --- | --- | --- |
+| ![](../image/jamie_tomasello.gif) | ![](../image/dmca9justin.gif) | ![](../image/cfeu2018.gif) |
 
 
 Related: [How many % of public Torrent services are using Cloudflare?](cloudflared_torrents.md)
