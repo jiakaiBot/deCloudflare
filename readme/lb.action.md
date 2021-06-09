@@ -412,7 +412,7 @@ Dofir recommandéiere mir nëmmen uewen Dësch. Näischt anescht.
 
 - Sot anerer ronderëm Iech iwwer d'Gefore vu Cloudflare.
 
-- [Hëlleft dëst Repository ze verbesseren.](http://crimeflare.eu.org).
+- [Hëlleft dëst Repository ze verbesseren.](http://crimeflare.eu.org)
   - Souwuel d'Lëschten, d'Argumenter dogéint an d'Detailer.
 
 - [Dokumentéiert a maacht ganz ëffentlech wou d'Saache mat Cloudflare (an ähnleche Firmen) falsch lafen, a gitt sécher dëst Repository ze ernimmen wann Dir dat maacht](http://crimeflare.eu.org) :)
