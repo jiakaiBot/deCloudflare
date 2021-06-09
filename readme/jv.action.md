@@ -412,7 +412,7 @@ Mula, disaranake mung tabel ing ndhuwur. Ora liya.
 
 - Kandhani wong liya ing sekitar sampeyan babagan bebaya Cloudflare.
 
-- [Mbantu ngapikake repositori iki.](http://crimeflare.eu.org).
+- [Mbantu ngapikake repositori iki.](http://crimeflare.eu.org)
   - Loro-lorone dhaptar, bantahan nglawan lan rinciane.
 
 - [Dokumentasi lan publikake manawa ana kesalahan ing Cloudflare (lan perusahaan sing padha), priksa manawa bakal kasebut repositori kasebut nalika sampeyan nindakake](http://crimeflare.eu.org) :)
