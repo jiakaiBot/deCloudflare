@@ -7,6 +7,7 @@
 
 
 
+- ist down und das hat Auswirkungen auf Deddit, GitHub, PayPal, Amazon & Co., So viel zum dezental'em Internet, die eigentlichen Schaltzentralen und Gatekeeper sind u.a. die CDN Netzwerke wie eben erwähnte fastly oder CloudFlare.Eng. ([kubikpixel](https://chaos.social/@kubikpixel/106374946000819862))
 - That's a good thing. Tcl did self harm when they jailed all the docs in Cloudflare. Fuck that language. I use it, but I actually won't share my Tcl code publicly because the asshats made the docs exclusive. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106337561231889923))
 - Why do us Cloudflare?Blatantly trying to rustle my jimmies. ([mxtthxw](https://mastodon.online/@mxtthxw/106336665604365037))
 - Liberapay puts some quite untrustworthy entities in the loop who make it more privacy abusing than going direct from bank to bank. LP only gives you anonymity to the recipient (who is usually the only entity you trust with your PII). Cryptocurrency is a great option if you can work out how to actually get some of it privately without Cloudflare in the loop. ([aktivismoestasmialuo](https://activism.openworlds.info/@aktivismoEstasMiaLuo/106325489106351883))
