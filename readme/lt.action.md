@@ -412,7 +412,7 @@ Todėl mes rekomenduojame tik aukščiau pateiktą lentelę. Nieko daugiau.
 
 - Papasakokite kitiems aplinkiniams apie „Cloudflare“ pavojus.
 
-- [Padėkite patobulinti šią saugyklą.](http://crimeflare.eu.org).
+- [Padėkite patobulinti šią saugyklą.](http://crimeflare.eu.org)
   - Tiek sąrašai, tiek argumentai prieš jį, tiek detalės.
 
 - [Dokumentuokite ir viešinkite, kur „Cloudflare“ (ir panašiose įmonėse) vyksta blogai, kai tai darote, būtinai paminėkite šią saugyklą](http://crimeflare.eu.org) :)
