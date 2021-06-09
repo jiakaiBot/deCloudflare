@@ -412,7 +412,7 @@ Derfor anbefaler vi bare tabellen ovenfor. Ingenting annet.
 
 - Fortell andre rundt deg om farene ved Cloudflare.
 
-- [Bidra til å forbedre dette depotet.](http://crimeflare.eu.org).
+- [Bidra til å forbedre dette depotet.](http://crimeflare.eu.org)
   - Både listene, argumentene mot det og detaljene.
 
 - [Dokumenter og gjør veldig offentlig der det går galt med Cloudflare (og lignende selskaper), og sørg for å nevne dette depotet når du gjør det](http://crimeflare.eu.org) :)
