@@ -1296,6 +1296,7 @@ Do not create new issue or we will close it as duplicate.
 | [FidoDid92657838@twitter.com](https://twitter.com/FidoDid92657838/status/1380034979485257731) | moral (advertise Cloudflare) |
 | [fifa606@twitter.com](https://twitter.com/fifa606/status/1400210766922387458) | moral (advertise Cloudflare) |
 | [FighterMintar@twitter.com](https://twitter.com/FighterMintar/status/1390671761302179844) | moral (advertise Cloudflare) |
+| [FigureParental@twitter.com](https://twitter.com/FigureParental/status/1402621728266674183) | moral (advertise Cloudflare) |
 | [finn476@twitter.com](https://twitter.com/finn476/status/1379428259914424329) | moral (advertise Cloudflare) |
 | [FireGam99404905@twitter.com](https://twitter.com/FireGam99404905/status/1399726131842977792) | moral (advertise Cloudflare) |
 | [fjpkagami@twitter.com](https://twitter.com/fjpkagami/status/1392923842880831488) | moral (advertise Cloudflare) |
