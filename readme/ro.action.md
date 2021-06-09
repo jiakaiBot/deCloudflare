@@ -412,7 +412,7 @@ Prin urmare, vă recomandăm numai tabelul de mai sus. Nimic altceva.
 
 - Spuneți altora din jurul vostru despre pericolele Cloudflare.
 
-- [Ajutați la îmbunătățirea acestui depozit.](http://crimeflare.eu.org).
+- [Ajutați la îmbunătățirea acestui depozit.](http://crimeflare.eu.org)
   - Atât listele, argumentele împotriva ei, cât și detaliile.
 
 - [Documentați-vă și faceți foarte public locul în care lucrurile merg prost cu Cloudflare (și companii similare), asigurându-vă că menționați acest depozit atunci când faceți acest lucru](http://crimeflare.eu.org) :)
