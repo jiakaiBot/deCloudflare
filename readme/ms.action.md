@@ -412,7 +412,7 @@ Oleh itu, kami mencadangkan jadual di atas sahaja. Tiada lagi.
 
 - Beritahu orang lain di sekeliling anda mengenai bahaya Cloudflare.
 
-- [Bantu memperbaiki repositori ini.](http://crimeflare.eu.org).
+- [Bantu memperbaiki repositori ini.](http://crimeflare.eu.org)
   - Kedua-dua senarai, hujah menentangnya dan perinciannya.
 
 - [Mendokumentasikan dan menjadikannya sangat umum di mana masalah berlaku dengan Cloudflare (dan syarikat serupa), pastikan untuk menyebut repositori ini apabila anda melakukannya](http://crimeflare.eu.org) :)
