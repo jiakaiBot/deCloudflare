@@ -412,7 +412,7 @@ Daarom raden we alleen bovenstaande tabel aan. Niks anders.
 
 - Vertel anderen om je heen over de gevaren van Cloudflare.
 
-- [Help mee deze repository te verbeteren.](http://crimeflare.eu.org).
+- [Help mee deze repository te verbeteren.](http://crimeflare.eu.org)
   - Zowel de lijsten, de argumenten ertegen als de details.
 
 - [Documenteer en maak zeer openbaar waar dingen mis gaan met Cloudflare (en vergelijkbare bedrijven), en zorg ervoor dat u deze repository vermeldt wanneer u dit doet](http://crimeflare.eu.org) :)
