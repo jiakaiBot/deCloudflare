@@ -412,7 +412,7 @@ Noho izany dia manoro hevitra ny ambony latabatra ihany izahay. Tsy misy zavatra
 
 - Lazao amin'ny hafa manodidina anao ny loza ateraky ny Cloudflare.
 
-- [Ampio hatsaraina ity tahiry ity.](http://crimeflare.eu.org).
+- [Ampio hatsaraina ity tahiry ity.](http://crimeflare.eu.org)
   - Samy ny lisitra, ny tohan-kevitra manohitra azy ary ny antsipiriany.
 
 - [Raketo an-tsoratra ary ataovy imasom-bahoaka ny zavatra tsy mety ataon'ny Cloudflare (sy ny orinasa mitovy aminy), alao antoka fa voatonona ity tahiry ity rehefa manao izany ianao](http://crimeflare.eu.org) :)
