@@ -411,7 +411,7 @@ Therefore we recommend above table only. Nothing else.
 
 - Tell others around you about the dangers of Cloudflare.
 
-- [Help improve this repository.](http://crimeflare.eu.org).
+- [Help improve this repository.](http://crimeflare.eu.org)
   - Both the lists, the arguments against it and the details.
 
 - [Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention this repository when you do so](http://crimeflare.eu.org) :)
