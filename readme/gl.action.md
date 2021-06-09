@@ -412,7 +412,7 @@ Polo tanto, recomendamos só a táboa anterior. Nada máis.
 
 - Fale aos demais dos seus arredores sobre os perigos de Cloudflare.
 
-- [Axude a mellorar este repositorio.](http://crimeflare.eu.org).
+- [Axude a mellorar este repositorio.](http://crimeflare.eu.org)
   - Tanto as listas, os argumentos en contra e os detalles.
 
 - [Documenta e fai moi público onde as cousas van mal con Cloudflare (e empresas similares), asegurándose de mencionar este repositorio cando o fas](http://crimeflare.eu.org) :)
