@@ -412,7 +412,7 @@ Tungod niini girekomenda namon sa lamesa ra sa taas. Wala’y lain.
 
 - Sultihi ang uban sa imong palibut bahin sa mga katalagman sa Cloudflare.
 
-- [Tabang nga mapaayo kini nga tipiganan.](http://crimeflare.eu.org).
+- [Tabang nga mapaayo kini nga tipiganan.](http://crimeflare.eu.org)
   - Parehas nga mga lista, mga lantugi kontra niini ug mga detalye.
 
 - [Pagdokumento ug paghimo sa publiko kaayo kung diin ang mga butang sayup sa Cloudflare (ug parehas nga mga kompanya), siguruha nga hisgutan kini nga tipiganan kung buhaton nimo kini](http://crimeflare.eu.org) :)
