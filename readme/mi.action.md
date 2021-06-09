@@ -412,7 +412,7 @@ Na reira ka taunakihia e matou i runga ake nei te teepu. Kaore he mea ke atu.
 
 - Korero atu ki etahi atu i to taha e pa ana ki nga raru o Cloudflare.
 
-- [Awhina ki te whakapai ake i tenei whare putunga.](http://crimeflare.eu.org).
+- [Awhina ki te whakapai ake i tenei whare putunga.](http://crimeflare.eu.org)
   - Ko nga raarangi e rua, nga tohenga whakahee me nga taipitopito.
 
 - [Tuhia me te tuku korero ki te iwi whanui ka he nga mahi o Cloudflare (me nga kamupene rite), kia mahara ki te whakahua i tenei putunga ka mahi ana koe](http://crimeflare.eu.org) :)
