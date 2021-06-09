@@ -412,7 +412,7 @@ Mar sin tha sinn a ’moladh gu h-àrd clàr a-mhàin. Chan eil dad eile.
 
 - Inns dha daoine eile mun cuairt ort mu na cunnartan a tha ann an Cloudflare.
 
-- [Cuidich gus an stòr-dàta seo a leasachadh.](http://crimeflare.eu.org).
+- [Cuidich gus an stòr-dàta seo a leasachadh.](http://crimeflare.eu.org)
   - An dà chuid na liostaichean, na h-argamaidean na aghaidh agus mion-fhiosrachadh.
 
 - [Dèan sgrìobhainnean agus dèan gu math poblach far a bheil cùisean a ’dol ceàrr le Cloudflare (agus companaidhean coltach ris), a’ dèanamh cinnteach gun toir thu iomradh air an taigh-tasgaidh seo nuair a nì thu sin](http://crimeflare.eu.org) :)
