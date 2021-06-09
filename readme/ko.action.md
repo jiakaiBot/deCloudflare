@@ -412,7 +412,7 @@ die();
 
 - 주변 사람들에게 Cloudflare의 위험성에 대해 이야기하십시오.
 
-- [이 저장소를 개선하도록 도와주세요.](http://crimeflare.eu.org).
+- [이 저장소를 개선하도록 도와주세요.](http://crimeflare.eu.org)
   - 목록, 그것에 대한 주장 및 세부 사항.
 
 - [Cloudflare (및 유사 회사)에서 문제가 발생한 부분을 문서화하고 매우 공개하고 그렇게 할 때이 저장소를 언급해야합니다.](http://crimeflare.eu.org) :)
