@@ -804,7 +804,7 @@ The following is a list of banks & financial institutions in America.
 
 ### By Country
 
-| Name | Cloudflared | Normal | % |
+| Name | Cloudflared | Normal | CF % |
 | --- | --- | --- | --- |
 | Argentina | 1 | 15 | 6.25% |
 | Bahamas | 2 | 5 | 28.57% |
