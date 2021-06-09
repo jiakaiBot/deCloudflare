@@ -412,7 +412,7 @@ die();
 
 - 告訴周圍的人有關Cloudflare的危險。
 
-- [幫助改進此存儲庫。](http://crimeflare.eu.org).
+- [幫助改進此存儲庫。](http://crimeflare.eu.org)
   - 這兩個列表，針對它的參數和詳細信息。
 
 - [記錄並公開披露Cloudflare（及類似公司）出現問題的地方，並確保在這樣做時提及此存儲庫](http://crimeflare.eu.org) :)
