@@ -412,7 +412,7 @@ Naizvozvo tinokurudzira pamusoro petafura chete. Hapana chimwe.
 
 - Udza vamwe vakakukomberedza nezve njodzi dzeCloudflare.
 
-- [Batsira kuvandudza iyi repository.](http://crimeflare.eu.org).
+- [Batsira kuvandudza iyi repository.](http://crimeflare.eu.org)
   - Ese ari maviri rondedzero, nharo dzinopesana neiri uye iwo ruzivo
 
 - [Nyora uye ita pachena kwazvo kana zvinhu zvikashata neCloudflare (uye makambani akafanana), kuve nechokwadi chekutaura ichi chinzvimbo kana iwe uchidaro](http://crimeflare.eu.org) :)
