@@ -412,7 +412,7 @@ Se poutèt sa nou rekòmande anwo tab la sèlman. Anyen ankò.
 
 - Di lòt moun bò kote ou sou danje ki genyen nan Cloudflare.
 
-- [Ede amelyore repozitwa sa a.](http://crimeflare.eu.org).
+- [Ede amelyore repozitwa sa a.](http://crimeflare.eu.org)
   - Tou de lis yo, agiman yo kont li ak detay yo.
 
 - [Dokimante epi fè trè piblik kote bagay yo ale mal ak Cloudflare (ak konpayi ki sanble), asire w ke ou mansyone repozitwa sa a lè ou fè sa](http://crimeflare.eu.org) :)
