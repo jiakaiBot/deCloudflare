@@ -412,7 +412,7 @@ Shuning uchun biz faqat yuqoridagi jadvalni tavsiya qilamiz. Boshqa hech narsa.
 
 - Cloudflare zarari haqida atrofingizdagi boshqalarga ayting.
 
-- [Ushbu omborni yaxshilashga yordam bering.](http://crimeflare.eu.org).
+- [Ushbu omborni yaxshilashga yordam bering.](http://crimeflare.eu.org)
   - Ikkala ro'yxat, unga qarshi dalillar va tafsilotlar.
 
 - [Cloudflare (va shunga o'xshash kompaniyalar) bilan bog'liq muammolar bo'lgan joylarni hujjatlashtiring va ommaga e'lon qiling, buni amalga oshirishda ushbu omborni eslatib qo'ying.](http://crimeflare.eu.org) :)
