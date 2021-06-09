@@ -412,7 +412,7 @@ Daarom beveel ons slegs die bostaande tabel aan. Niks anders nie.
 
 - Vertel ander om u van die gevare van Cloudflare.
 
-- [Help om hierdie bewaarplek te verbeter.](http://crimeflare.eu.org).
+- [Help om hierdie bewaarplek te verbeter.](http://crimeflare.eu.org)
   - Beide die lyste, die argumente daarteen en die besonderhede.
 
 - [Dokumenteer en maak baie openbaar waar dinge verkeerd gaan met Cloudflare (en soortgelyke ondernemings), en maak seker dat u hierdie bewaarplek noem as u dit doen](http://crimeflare.eu.org) :)
