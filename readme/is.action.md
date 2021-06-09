@@ -412,7 +412,7 @@ Við skulum tala um friðhelgi annars hugbúnaðar.
 
 - Segðu öðrum í kringum þig um hættuna sem fylgir Cloudflare.
 
-- [Hjálpaðu til við að bæta þessa geymslu.](http://crimeflare.eu.org).
+- [Hjálpaðu til við að bæta þessa geymslu.](http://crimeflare.eu.org)
   - Bæði listarnir, rökin gegn því og smáatriðin.
 
 - [Skjalaðu og gerðu mjög opinber þar sem hlutirnir fara úrskeiðis með Cloudflare (og svipuð fyrirtæki) og vertu viss um að nefna þessa geymslu þegar þú gerir það](http://crimeflare.eu.org) :)
