@@ -208,7 +208,7 @@ The following is a list of banks & financial institutions in Oceania.
 
 ### By Country
 
-| Name | Cloudflared | Normal | % |
+| Name | Cloudflared | Normal | CF % |
 | --- | --- | --- | --- |
 | Australia | 24 | 45 | 34.78% |
 | Fiji | 3 | 2 | 60% |
