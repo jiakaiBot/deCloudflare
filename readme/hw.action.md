@@ -412,7 +412,7 @@ No laila mākou e paipai aku nei ma ka papa ʻaina wale nō. ʻAʻohe mea ʻē a
 
 - E haʻi i nā poʻe ʻē aʻe a puni iā ​​ʻoe e pili ana i nā makaʻi o Cloudflare.
 
-- [Kōkua i ka hoʻomaikaʻi ʻana i kēia waihona.](http://crimeflare.eu.org).
+- [Kōkua i ka hoʻomaikaʻi ʻana i kēia waihona.](http://crimeflare.eu.org)
   - ʻO nā papa inoa ʻelua, nā paio e kūʻē iā ia a me nā kikoʻī.
 
 - [Palapala a e hoʻolaha ākea loa kahi e hewa ai nā mea me Cloudflare (a me nā ʻoihana like), e hōʻoia ana e ʻōlelo i kēia waihona ke hana ʻoe pēlā](http://crimeflare.eu.org) :)
