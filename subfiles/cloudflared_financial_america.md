@@ -800,6 +800,7 @@ The following is a list of banks & financial institutions in America.
 
 </details>
 
+---
 
 ### By Country
 
