@@ -412,7 +412,7 @@ Kwa hivyo tunapendekeza juu ya meza tu. Hakuna kingine.
 
 - Waambie wengine karibu na wewe juu ya hatari za Cloudflare.
 
-- [Saidia kuboresha hifadhi hii.](http://crimeflare.eu.org).
+- [Saidia kuboresha hifadhi hii.](http://crimeflare.eu.org)
   - Orodha zote mbili, hoja dhidi yake na maelezo.
 
 - [Andika na uweke hadharani mahali mambo yanapoharibika na Cloudflare (na kampuni zinazofanana), hakikisha kutaja hazina hii unapofanya hivyo](http://crimeflare.eu.org) :)
