@@ -412,7 +412,7 @@ die();
 
 - 告诉周围的人有关Cloudflare的危险。
 
-- [帮助改进此存储库。](http://crimeflare.eu.org).
+- [帮助改进此存储库。](http://crimeflare.eu.org)
   - 这两个列表，反对它的参数和详细信息。
 
 - [记录并公开披露Cloudflare（及类似公司）出现问题的地方，并确保在这样做时提及此存储库](http://crimeflare.eu.org) :)
