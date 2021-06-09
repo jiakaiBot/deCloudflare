@@ -412,7 +412,7 @@ Ji ber vê yekê em tenê maseya jorîn pêşniyar dikin. Tiştek din.
 
 - Li ser xetereyên Cloudflare ji yên dora xwe re vebêjin.
 
-- [Alîkariya baştirkirina vê embarê bikin.](http://crimeflare.eu.org).
+- [Alîkariya baştirkirina vê embarê bikin.](http://crimeflare.eu.org)
   - Hem navnîş, hem argumanên li dijî wê hem jî hûrgulî.
 
 - [Li ku derê bi Cloudflare (û pargîdaniyên wekhev re) xelet diçin bi belge bikin û pir eşkere bikin, dema ku hûn wusa bikin ewle bikin ku hûn behsa vê embarê bikin](http://crimeflare.eu.org) :)
