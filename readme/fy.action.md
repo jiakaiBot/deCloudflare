@@ -412,7 +412,7 @@ Dêrom advisearje wy allinich boppesteande tabel. Neat oars.
 
 - Fertel oaren om jo hinne oer de gefaren fan Cloudflare.
 
-- [Help dizze repository te ferbetterjen.](http://crimeflare.eu.org).
+- [Help dizze repository te ferbetterjen.](http://crimeflare.eu.org)
   - Sawol de listen, de arguminten derop en de details.
 
 - [Dokumintearje en meitsje hiel iepenbier wêr't dingen ferkeard gean mei Cloudflare (en ferlykbere bedriuwen), soargje derfoar dat dit repository neamd wurdt as jo dat dogge](http://crimeflare.eu.org) :)
