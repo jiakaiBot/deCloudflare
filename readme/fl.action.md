@@ -412,7 +412,7 @@ Samakatuwid inirerekumenda lamang namin sa itaas ng talahanayan. Walang iba.
 
 - Sabihin sa iba sa paligid mo ang tungkol sa mga panganib ng Cloudflare.
 
-- [Tulungan pagbutihin ang repository na ito.](http://crimeflare.eu.org).
+- [Tulungan pagbutihin ang repository na ito.](http://crimeflare.eu.org)
   - Parehong mga listahan, ang mga argumento laban dito at ang mga detalye.
 
 - [Dokumento at gawing pampubliko kung saan nagkakamali ang mga bagay sa Cloudflare (at mga katulad na kumpanya), tinitiyak na banggitin ang repository na ito kapag ginawa mo ito](http://crimeflare.eu.org) :)
