@@ -412,7 +412,7 @@ Stoga preporučujemo samo gornju tablicu. Ništa više.
 
 - Recite drugima oko sebe o opasnostima Cloudflarea.
 
-- [Pomozite poboljšati ovo spremište.](http://crimeflare.eu.org).
+- [Pomozite poboljšati ovo spremište.](http://crimeflare.eu.org)
   - I popisi, argumenti protiv i detalji.
 
 - [Dokumentirajte i javno objavite gdje stvari krenu po zlu s Cloudflareom (i sličnim tvrtkama), obavezno spomenite ovo spremište kad to učinite](http://crimeflare.eu.org) :)
