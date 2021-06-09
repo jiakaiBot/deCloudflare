@@ -412,7 +412,7 @@ Preto odporúčame iba vyššie uvedenú tabuľku. Nič viac.
 
 - Povedzte ostatným vo svojom okolí o nebezpečenstvách Cloudflare.
 
-- [Pomôžte vylepšiť toto úložisko.](http://crimeflare.eu.org).
+- [Pomôžte vylepšiť toto úložisko.](http://crimeflare.eu.org)
   - Zoznamy, argumenty proti nej, aj podrobnosti.
 
 - [Dokumentujte a zverejňujte informácie o tom, kde sa s Cloudflare (a podobnými spoločnosťami) zle, nezabudnite spomenúť toto úložisko, keď tak urobíte](http://crimeflare.eu.org) :)
