@@ -15,16 +15,15 @@
   - [How many % of public social media are using Cloudflare?](cloudflared_socialmedia.md)
   - [How many % of online video platforms are using Cloudflare?](cloudflared_videoplatform.md)
   - [??????????// WIP](wip.md)
+  - How many % of banks & financial institutions are using Cloudflare?
+    - [Africa](cloudflared_financial_africa.md)
+    - [America](cloudflared_financial_america.md)
+    - [Asia](cloudflared_financial_asia.md)
+    - [Europe](cloudflared_financial_europe.md)
+    - [Oceania](cloudflared_financial_oceania.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
-- ???????
-  - [WIP Do Not Touch// Africa](wip_____africa.md)
-  - [WIP Do Not Touch// Asia](wip_____asia.md)
-  - [WIP Do Not Touch// Europe](wip_____europe.md)
-  - [WIP Do Not Touch// Oceania](wip_____oceania.md)
-  - [WIP Do Not Touch// North America](wip_____northAmerica.md)
-  - [WIP Do Not Touch// South America](wip_____southAmerica.md)
 - [PEOPLE.md](../PEOPLE.md)
   - [Twitter](people.twitter.md)
   - [Mastodon](people.mastodon.md)
