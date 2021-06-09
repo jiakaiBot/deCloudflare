@@ -412,7 +412,7 @@ Ya mere, anyị nwere ike ikwu n'elu table naanị. Ọ dịghị ihe ọzọ.
 
 - Gwa ndị ọzọ nọ gị gburugburu gbasara ihe egwu dị na Cloudflare.
 
-- [Nyere aka melite ebe nchekwa a.](http://crimeflare.eu.org).
+- [Nyere aka melite ebe nchekwa a.](http://crimeflare.eu.org)
   - Ma ndepụta, arụmụka megide ya na nkọwa.
 
 - [Akwụkwọ ma mee ka ọha na eze mara ebe ihe na-ezighị ezi na Cloudflare (yana ụlọ ọrụ ndị yiri ya), na-ejide n'aka ịkọwa nchekwa a mgbe ị mere ya](http://crimeflare.eu.org) :)
