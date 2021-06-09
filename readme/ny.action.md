@@ -412,7 +412,7 @@ Chifukwa chake timalimbikitsa pamwambapa tebulo lokha. Palibe china.
 
 - Uzani ena okuzungulirani za kuwopsa kwa Cloudflare.
 
-- [Thandizani kukonza malowa.](http://crimeflare.eu.org).
+- [Thandizani kukonza malowa.](http://crimeflare.eu.org)
   - Mndandanda wonsewo, zotsutsana ndi izi komanso tsatanetsatane.
 
 - [Lembani ndikudziwitsa pagulu pomwe zinthu sizili bwino ndi Cloudflare (ndi makampani ena ofanana), onetsetsani kuti mwatchula malo awa mukamachita izi](http://crimeflare.eu.org) :)
