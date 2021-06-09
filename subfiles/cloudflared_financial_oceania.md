@@ -204,6 +204,7 @@ The following is a list of banks & financial institutions in Oceania.
 
 </details>
 
+---
 
 ### By Country
 
