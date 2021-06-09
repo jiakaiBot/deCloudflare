@@ -2497,7 +2497,7 @@ The following is a list of banks & financial institutions in Asia.
 
 ### By Country
 
-| Name | Cloudflared | Normal | % |
+| Name | Cloudflared | Normal | CF % |
 | --- | --- | --- | --- |
 | Afghanistan | 1 | 6 | 14.29% |
 | Armenia | 3 | 15 | 16.67% |
