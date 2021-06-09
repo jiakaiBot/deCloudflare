@@ -412,7 +412,7 @@ Dlatego zalecamy tylko powyższą tabelę. Nic więcej.
 
 - Opowiedz innym wokół siebie o niebezpieczeństwach związanych z Cloudflare.
 
-- [Pomóż ulepszyć to repozytorium.](http://crimeflare.eu.org).
+- [Pomóż ulepszyć to repozytorium.](http://crimeflare.eu.org)
   - Obie listy, argumenty przeciwko niej i szczegóły.
 
 - [Dokumentuj i upublicznij, gdzie sprawy idą nie tak z Cloudflare (i podobnymi firmami), pamiętaj, aby wspomnieć o tym repozytorium, kiedy to zrobisz](http://crimeflare.eu.org) :)
