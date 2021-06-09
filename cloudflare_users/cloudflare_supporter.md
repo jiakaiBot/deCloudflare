@@ -1291,6 +1291,7 @@ Do not create new issue or we will close it as duplicate.
 | [Fazian47524484@twitter.com](https://twitter.com/Fazian47524484/status/1400881570408394753) | moral (advertise Cloudflare) |
 | [FbworlNews@twitter.com](https://twitter.com/FbworlNews/status/1401094204743372800) | moral (advertise Cloudflare) |
 | [Fearles81577944@twitter.com](https://twitter.com/Fearles81577944/status/1393607641335668737) | moral (advertise Cloudflare) |
+| [fening12@twitter.com](https://twitter.com/fening12/status/1402708446680535042) | moral (advertise Cloudflare) |
 | [Ferona44304373@twitter.com](https://twitter.com/Ferona44304373/status/1394530832367370240) | moral (advertise Cloudflare) |
 | [FgdWings@twitter.com](https://twitter.com/FgdWings/status/1384199323253035010) | moral (advertise Cloudflare) |
 | [FidoDid92657838@twitter.com](https://twitter.com/FidoDid92657838/status/1380034979485257731) | moral (advertise Cloudflare) |
@@ -1546,6 +1547,7 @@ Do not create new issue or we will close it as duplicate.
 | [Henry77117660@twitter.com](https://twitter.com/Henry77117660/status/1396763828671500291) | moral (advertise Cloudflare) |
 | [HentaiC93845172@twitter.com](https://twitter.com/HentaiC93845172/status/1384877257177583619) | moral (advertise Cloudflare) |
 | [HereticCrusader@twitter.com](https://twitter.com/HereticCrusader/status/1383727868123832321) | moral (advertise Cloudflare) |
+| [Herijoko16@twitter.com](https://twitter.com/Herijoko16/status/1402705618562027526) | moral (advertise Cloudflare) |
 | [Hero41258950@twitter.com](https://twitter.com/Hero41258950/status/1394528251637211136) | moral (advertise Cloudflare) |
 | [hexafusion@twitter.com](https://twitter.com/hexafusion/status/1380335734419156992) | moral (advertise Cloudflare) |
 | [hey_rey25@twitter.com](https://twitter.com/hey_rey25/status/1397246777603104779) | moral (advertise Cloudflare) |
