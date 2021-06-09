@@ -412,7 +412,7 @@ Yog li peb pom zoo kom cov lus saum toj no nkaus xwb. Tsis muaj dab tsi ntxiv.
 
 - Qhia lwm tus nyob ib ncig ntawm koj txog kev phom sij ntawm Cloudflare.
 
-- [Pab txhim kho cov chaw cia khoom no.](http://crimeflare.eu.org).
+- [Pab txhim kho cov chaw cia khoom no.](http://crimeflare.eu.org)
   - Ob daim npe, qhov sib cav tawm tsam nws thiab cov ntsiab lus.
 
 - [Cov ntaub ntawv thiab ua rau pej xeem muaj qhov twg tsis ncaj ncees lawm nrog Cloudflare (thiab cov tuam txhab zoo sib xws), nco ntsoov hais txog lub chaw ntim khoom no thaum koj ua](http://crimeflare.eu.org) :)
