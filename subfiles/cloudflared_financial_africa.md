@@ -1299,6 +1299,7 @@ The following is a list of banks & financial institutions in Africa.
 
 </details>
 
+---
 
 ### By Country
 
