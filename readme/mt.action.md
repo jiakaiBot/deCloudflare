@@ -412,7 +412,7 @@ Għalhekk nirrakkomandaw hawn fuq it-tabella biss. Xejn iktar.
 
 - Għid lil ħaddieħor madwarek dwar il-perikli ta 'Cloudflare.
 
-- [Għin biex ittejjeb dan ir-repożitorju.](http://crimeflare.eu.org).
+- [Għin biex ittejjeb dan ir-repożitorju.](http://crimeflare.eu.org)
   - Kemm il-listi, l-argumenti kontriha u d-dettalji.
 
 - [Iddokumenta u għamel pubbliku ħafna fejn l-affarijiet imorru ħażin ma 'Cloudflare (u kumpaniji simili), u kun żgur li ssemmi dan ir-repożitorju meta tagħmel hekk](http://crimeflare.eu.org) :)
