@@ -1303,7 +1303,7 @@ The following is a list of banks & financial institutions in Africa.
 
 ### By Country
 
-| Name | Cloudflared | Normal | % |
+| Name | Cloudflared | Normal | CF % |
 | --- | --- | --- | --- |
 | Algeria | 2 | 5 | 28.57% |
 | Angola | 1 | 5 | 16.67% |
