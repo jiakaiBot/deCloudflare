@@ -412,7 +412,7 @@ O le mea lea matou te fautua atu luga naʻo le laulau. E leai se isi mea
 
 - Taʻu i isi o siomia oe e uiga i le matautia o Cloudflare.
 
-- [Fesoasoani e faʻaleleia lenei fale teu oloa.](http://crimeflare.eu.org).
+- [Fesoasoani e faʻaleleia lenei fale teu oloa.](http://crimeflare.eu.org)
   - O lisi uma, o finauga faʻasaga ia te ia ma faʻamatalaga.
 
 - [Faʻamaumauga ma faʻalauiloa lautele pe a oʻo ni mea e sese ma Cloudflare (ma kamupani tali tutusa), ia mautinoa e taʻua lenei fale teu oloa pe a e faia.](http://crimeflare.eu.org) :)
