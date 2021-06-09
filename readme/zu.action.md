@@ -412,7 +412,7 @@ Ngakho-ke sincoma itafula elingenhla kuphela. Akukho okunye.
 
 - Tshela abanye abaseduze kwakho ngobungozi be-Cloudflare.
 
-- [Siza ukuthuthukisa lokhu kugcinwa.](http://crimeflare.eu.org).
+- [Siza ukuthuthukisa lokhu kugcinwa.](http://crimeflare.eu.org)
   - Kokubili uhlu, izimpikiswano eziphikisana nalo nemininingwane.
 
 - [Bhala futhi wenze esidlangalaleni lapho izinto zingahambi kahle khona nge-Cloudflare (nezinkampani ezifanayo), uqiniseke ukuthi uyasho leli khosombe lapho wenza kanjalo](http://crimeflare.eu.org) :)
