@@ -412,7 +412,7 @@ Bu nedenle, yalnızca yukarıdaki tabloyu öneriyoruz. Başka hiçbir şey.
 
 - Çevrenizdeki diğer kişilere Cloudflare'nin tehlikeleri hakkında bilgi verin.
 
-- [Bu depoyu geliştirmeye yardımcı olun.](http://crimeflare.eu.org).
+- [Bu depoyu geliştirmeye yardımcı olun.](http://crimeflare.eu.org)
   - Hem listeler, hem ona karşı çıkan argümanlar hem de ayrıntılar.
 
 - [Cloudflare (ve benzeri şirketler) ile işlerin ters gittiği yerleri belgeleyin ve herkese açık hale getirin, bunu yaparken bu depodan bahsettiğinizden emin olun.](http://crimeflare.eu.org) :)
