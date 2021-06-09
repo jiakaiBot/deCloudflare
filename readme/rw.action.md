@@ -412,7 +412,7 @@ Kubwibyo turasaba hejuru kumeza gusa. Ntakindi.
 
 - Bwira abandi hafi yawe ububi bwa Cloudflare.
 
-- [Fasha kunoza ububiko.](http://crimeflare.eu.org).
+- [Fasha kunoza ububiko.](http://crimeflare.eu.org)
   - Urutonde rwombi, impaka zirwanya nibisobanuro birambuye.
 
 - [Inyandiko kandi utangaze cyane aho ibintu bitagenda neza na Cloudflare (nibindi bigo bisa), urebe neza ko uvuga ububiko iyo ubikoze](http://crimeflare.eu.org) :)
