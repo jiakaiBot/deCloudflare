@@ -412,7 +412,7 @@ Kituna kami nyarankeun tabel di luhur waé. Teu aya anu sanés.
 
 - Wartoskeun ka batur sakuriling anjeun ngeunaan bahaya Cloudflare.
 
-- [Bantosan ningkatkeun gudang ieu.](http://crimeflare.eu.org).
+- [Bantosan ningkatkeun gudang ieu.](http://crimeflare.eu.org)
   - Boh daptar, argumén ngalawan éta sareng detilna.
 
 - [Dokumén sareng umumkeun pisan dimana aya masalah sareng Cloudflare (sareng perusahaan anu sami), pastikeun disebatkeun Repository ieu nalika anjeun ngalakukeunana](http://crimeflare.eu.org) :)
