@@ -13,8 +13,8 @@ Here is the result.
 
 | Type | % |
 | --- | --- |
-| Cloudflare | 211,578 |
-| Normal | 2,694,195 |
+| Cloudflare | 211,578 (7.28%) |
+| Normal | 2,694,195 (92.72%) |
 | Total | 2,905,773 |
 
 
@@ -22,8 +22,8 @@ Here is the result.
 
 | Type | % |
 | --- | --- |
-| Cloudflare | 94,743,275 |
-| Normal | 219,456,507 |
+| Cloudflare | 94,743,275 (30.15%) |
+| Normal | 219,456,507 (69.85%) |
 | Total | 314,199,782 |
 
 
@@ -131,6 +131,8 @@ Here is the result.
 | beemp3.com | 117,458 | No |
 | limetorrents.zone | 117,426 | Yes |
 | mp3clan.net | 117,089 | No |
+
+### 62% of top 100 reported domains are using Cloudflare.
 
 
 ---
