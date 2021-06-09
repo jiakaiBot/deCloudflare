@@ -1274,6 +1274,7 @@ Do not create new issue or we will close it as duplicate.
 | [fabioespinosa@twitter.com](https://twitter.com/fabioespinosa/status/1389759727110918152) | moral (advertise Cloudflare) |
 | [faighenzho@twitter.com](https://twitter.com/faighenzho/status/1382412226925973506) | moral (advertise Cloudflare) |
 | [FaisalHossine@twitter.com](https://twitter.com/FaisalHossine/status/1386253418218491905) | moral (advertise Cloudflare) |
+| [faithholler@twitter.com](https://twitter.com/faithholler/status/1402484525519810562) | moral (advertise Cloudflare) |
 | [FaizaanKahn@twitter.com](https://twitter.com/FaizaanKahn/status/1390946598117515265) | moral (advertise Cloudflare) |
 | [FaizalKhanbb@twitter.com](https://twitter.com/FaizalKhanbb/status/1379243028213284867) | moral (advertise Cloudflare) |
 | [Faizie15@twitter.com](https://twitter.com/Faizie15/status/1383424428604755975) | moral (advertise Cloudflare) |
