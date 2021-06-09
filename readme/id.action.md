@@ -412,7 +412,7 @@ Oleh karena itu kami merekomendasikan tabel di atas saja. Tidak ada lagi.
 
 - Beri tahu orang lain di sekitar Anda tentang bahaya Cloudflare.
 
-- [Bantu perbaiki repositori ini.](http://crimeflare.eu.org).
+- [Bantu perbaiki repositori ini.](http://crimeflare.eu.org)
   - Baik daftar, argumen yang menentangnya, dan detailnya.
 
 - [Dokumentasikan dan publikasikan di mana ada yang salah dengan Cloudflare (dan perusahaan serupa), pastikan untuk menyebutkan repositori ini ketika Anda melakukannya](http://crimeflare.eu.org) :)
