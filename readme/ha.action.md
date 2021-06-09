@@ -412,7 +412,7 @@ Saboda haka muna bada shawarar sama da tebur kawai. Babu wani abu kuma.
 
 - Faɗa wa wasu da ke kusa da ku game da haɗarin Cloudflare.
 
-- [Taimaka inganta wannan ma'ajiyar.](http://crimeflare.eu.org).
+- [Taimaka inganta wannan ma'ajiyar.](http://crimeflare.eu.org)
   - Dukansu jerin sunayen, muhawara game da shi da cikakkun bayanai.
 
 - [Yi rubutu da bayyana jama'a inda abubuwa ke tafiya ba daidai ba tare da Cloudflare (da kamfanoni makamantan su), tabbatar da ambaton wannan ma'ajiyar lokacin da kuke yin hakan](http://crimeflare.eu.org) :)
