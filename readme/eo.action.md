@@ -412,7 +412,7 @@ Sekve ni rekomendas nur supre tabelon. Nenio alia.
 
 - Rakontu al aliaj ĉirkaŭ vi pri la danĝeroj de Cloudflare.
 
-- [Helpu plibonigi ĉi tiun deponejon.](http://crimeflare.eu.org).
+- [Helpu plibonigi ĉi tiun deponejon.](http://crimeflare.eu.org)
   - Kaj la listoj, la argumentoj kontraŭ ĝi kaj la detaloj.
 
 - [Dokumentu kaj faru tre publika, kie aferoj fuŝas kun Cloudflare (kaj similaj kompanioj), certigante mencii ĉi tiun deponejon kiam vi faras tion](http://crimeflare.eu.org) :)
