@@ -412,7 +412,7 @@ Sidaa darteed waxaan kugula talineynaa miiska kor ku xusan oo keliya. Wax kale m
 
 - U sheeg dadka kale ee kugu hareeraysan khataraha Cloudflare.
 
-- [Caawi hagaajinta keydkaan.](http://crimeflare.eu.org).
+- [Caawi hagaajinta keydkaan.](http://crimeflare.eu.org)
   - Labada liisba, doodaha ka dhanka ah iyo faahfaahinta.
 
 - [Diiwaangeli oo aad u muuji dadweynaha halka ay wax ka khaldan yihiin Cloudflare (iyo shirkadaha la midka ah), hubinta inaad sheegto bakhaarkan markaad sidaas sameyso](http://crimeflare.eu.org) :)
