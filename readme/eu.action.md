@@ -412,7 +412,7 @@ Hori dela eta, goiko taulan soilik gomendatzen dugu. Beste ezer ez.
 
 - Kontatu ingurukoei Cloudflare-ren arriskuak.
 
-- [Lagundu biltegi hau hobetzen.](http://crimeflare.eu.org).
+- [Lagundu biltegi hau hobetzen.](http://crimeflare.eu.org)
   - Bai zerrendak, bai horren aurkako argudioak eta xehetasunak.
 
 - [Dokumentatu eta oso publiko egin gauzak gaizki doazenez Cloudflare-rekin (eta antzeko enpresekin), ziurtatu biltegi hau aipatzen duzula hori egiten duzunean](http://crimeflare.eu.org) :)
