@@ -412,7 +412,7 @@ Siksi suosittelemme vain yllä olevaa taulukkoa. Ei mitään muuta.
 
 - Kerro muille ympärilläsi Cloudflaren vaaroista.
 
-- [Auta parantamaan tätä arkistoa.](http://crimeflare.eu.org).
+- [Auta parantamaan tätä arkistoa.](http://crimeflare.eu.org)
   - Sekä luettelot, sitä vastaan ​​esitetyt perustelut että yksityiskohdat.
 
 - [Dokumentoi ja julkaise hyvin, jos Cloudflaren (ja vastaavien yritysten) kanssa menee pieleen, ja muista mainita tämä arkisto, kun teet niin](http://crimeflare.eu.org) :)
