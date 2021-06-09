@@ -425,3 +425,6 @@ Here's a list of public Torrent and Tracker services.
 Some Cloudflared site owners are using additional _protection_ to protect themselves from legal pressure.
 
 ![](../image/cloudflare_with_ddosguard.jpg)
+
+
+- ↳ [Cloudflare attracts "repeat infringers"](repeat_infringers_love_cloudflare.md)
