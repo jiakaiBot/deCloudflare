@@ -412,7 +412,7 @@ Ezért csak a fenti táblázatban ajánljuk. Semmi más.
 
 - Mondja el a maga körül másoknak a Cloudflare veszélyeit.
 
-- [Segítsen javítani ezt az adattárat.](http://crimeflare.eu.org).
+- [Segítsen javítani ezt az adattárat.](http://crimeflare.eu.org)
   - A felsorolások, az ellene szóló érvek és a részletek egyaránt.
 
 - [Dokumentáljon és tegyen nyilvánossá, ahol a Cloudflare (és hasonló cégek) rosszul alakulnak, feltétlenül említse meg ezt a tárat, amikor ezt teszi](http://crimeflare.eu.org) :)
