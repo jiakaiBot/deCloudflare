@@ -1605,7 +1605,7 @@ The following is a list of banks & financial institutions in Europe.
 
 ### By Country
 
-| Name | Cloudflared | Normal | % |
+| Name | Cloudflared | Normal | CF % |
 | --- | --- | --- | --- |
 | Aland | 0 | 1 | 0% |
 | Albania | 5 | 12 | 29.41% |
