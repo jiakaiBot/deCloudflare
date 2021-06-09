@@ -412,7 +412,7 @@ Dunque cunsigliemu solu a tavula sopra. Nunda altru.
 
 - Dì à l'altri intornu à voi nantu à i periculi di Cloudflare.
 
-- [Aiutate à migliurà stu repositoriu.](http://crimeflare.eu.org).
+- [Aiutate à migliurà stu repositoriu.](http://crimeflare.eu.org)
   - Sia e liste, l'argumenti contru è i dettagli.
 
 - [Documentate è fate assai publicu induve e cose vanu male cù Cloudflare (è cumpagnie simili), assicurenduvi di menziunà stu repositoriu quandu fate cusì](http://crimeflare.eu.org) :)
