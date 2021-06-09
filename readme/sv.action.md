@@ -412,7 +412,7 @@ Därför rekommenderar vi endast ovanstående tabell. Inget annat.
 
 - Berätta för andra runt dig om farorna med Cloudflare.
 
-- [Hjälp till att förbättra detta arkiv.](http://crimeflare.eu.org).
+- [Hjälp till att förbättra detta arkiv.](http://crimeflare.eu.org)
   - Både listorna, argumenten mot det och detaljerna.
 
 - [Dokumentera och gör mycket offentligt där saker går fel med Cloudflare (och liknande företag), se till att nämna detta förvar när du gör det](http://crimeflare.eu.org) :)
