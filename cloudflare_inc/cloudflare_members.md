@@ -685,7 +685,7 @@
 |  | Jamie Ede | Technical Support |  |
 |  | Jamie Herre | Employee |  |
 |  | Jamie Robinson | Sales Operations |  |
-|  | Jamie Tomasello | Policy and Investigation |  |
+|  | Jamie Tomasello | Policy and Investigation | ![](../image/jamie_tomasello.gif) |
 |  | Janae Frischer | Recruiting |  |
 |  | Janette Camacho | Employee |  |
 |  | Janette Leyva | Employee |  |
