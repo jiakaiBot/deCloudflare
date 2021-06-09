@@ -412,7 +412,7 @@ Felly rydym yn argymell uchod y tabl yn unig. Dim byd arall.
 
 - Dywedwch wrth eraill o'ch cwmpas am beryglon Cloudflare.
 
-- [Helpwch i wella'r ystorfa hon.](http://crimeflare.eu.org).
+- [Helpwch i wella'r ystorfa hon.](http://crimeflare.eu.org)
   - Y rhestrau, y dadleuon yn ei erbyn a'r manylion.
 
 - [Dogfennu a gwneud yn gyhoeddus iawn lle mae pethau'n mynd o chwith gyda Cloudflare (a chwmnïau tebyg), gan sicrhau eich bod yn sôn am yr ystorfa hon pan fyddwch chi'n gwneud hynny](http://crimeflare.eu.org) :)
