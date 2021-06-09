@@ -412,7 +412,7 @@ Derfor anbefaler vi kun ovenstående tabel. Intet andet.
 
 - Fortæl andre omkring dig om farerne ved Cloudflare.
 
-- [Hjælp med at forbedre dette lager.](http://crimeflare.eu.org).
+- [Hjælp med at forbedre dette lager.](http://crimeflare.eu.org)
   - Både listerne, argumenterne imod det og detaljerne.
 
 - [Dokumenter og gør meget offentligt, hvor ting går galt med Cloudflare (og lignende virksomheder), og sørg for at nævne dette lager, når du gør det](http://crimeflare.eu.org) :)
