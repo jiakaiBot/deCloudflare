@@ -412,7 +412,7 @@ Tāpēc mēs iesakām tikai iepriekš minēto tabulu. Nekas cits.
 
 - Pastāstiet citiem apkārtējiem par Cloudflare bīstamību.
 
-- [Palīdziet uzlabot šo krātuvi.](http://crimeflare.eu.org).
+- [Palīdziet uzlabot šo krātuvi.](http://crimeflare.eu.org)
   - Gan saraksti, argumenti pret to, gan detaļas.
 
 - [Dokumentējiet un publiskojiet, kur ar Cloudflare (un līdzīgiem uzņēmumiem) notiek nepareizi, to darot, noteikti miniet šo krātuvi](http://crimeflare.eu.org) :)
