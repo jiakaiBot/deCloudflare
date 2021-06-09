@@ -33,6 +33,7 @@
 - [PEOPLE.md](../PEOPLE.md)
   - [Twitter](people.twitter.md)
   - [Mastodon](people.mastodon.md)
+- [Cloudflare attracts "repeat infringers"](repeat_infringers_love_cloudflare.md)
 - [Alternative Link](service.altlink.md)
 - [Change default DNS provider of Firefox](change-firefox-dns.md)
 - [How to use Chromium with Tor](chromium_tor.md)
