@@ -590,6 +590,7 @@ Do not create new issue or we will close it as duplicate.
 | [azim56828133@twitter.com](https://twitter.com/azim56828133/status/1377551649372258306) | moral (advertise CloudFlare) |
 | [azinfosys@twitter.com](https://twitter.com/azinfosys/status/1392180712137236480) | moral (advertise Cloudflare) |
 | [AzinMahan@twitter.com](https://twitter.com/AzinMahan/status/1383158824387813377) | moral (advertise Cloudflare) |
+| [AzizulmollaA@twitter.com](https://twitter.com/AzizulmollaA/status/1402408516640415745) | moral (advertise Cloudflare) |
 | [Azomee4@twitter.com](https://twitter.com/Azomee4/status/1399035804614279170) | moral (advertise Cloudflare) |
 | [AzuanBk79@twitter.com](https://twitter.com/AzuanBk79/status/1388558394940743684) | moral (advertise Cloudflare) |
 | [AzyOppa@twitter.com](https://twitter.com/AzyOppa/status/1389876605426671616) | moral (advertise Cloudflare) |
