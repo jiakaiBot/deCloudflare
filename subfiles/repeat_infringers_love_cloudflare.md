@@ -1,6 +1,7 @@
 # Cloudflare attracts "repeat infringers"
 
 Google is publishing [Transparency Report](https://transparencyreport.google.com/copyright/overview) regarding copyright removal requests.
+
 We processed their report after downloading it in June 2021.
 
 Here is the result.
