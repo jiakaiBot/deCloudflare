@@ -412,7 +412,7 @@ Beýleki programma üpjünçiliginiň gizlinligi barada gürleşeliň.
 
 - “Cloudflare” -iň howplary barada töweregiňizdäki başgalara aýdyň.
 
-- [Bu ammary gowulandyrmaga kömek ediň.](http://crimeflare.eu.org).
+- [Bu ammary gowulandyrmaga kömek ediň.](http://crimeflare.eu.org)
   - Sanawlaryň ikisi, oňa garşy argumentler we jikme-jiklikler.
 
 - [“Cloudflare” (we şuňa meňzeş kompaniýalar) bilen näsazlyklaryň ýüze çykan ýerinde resminama beriň we köpçülige ýetiriň, bu ammary ýatda saklaň.](http://crimeflare.eu.org) :)
