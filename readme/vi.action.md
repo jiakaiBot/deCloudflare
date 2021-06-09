@@ -412,7 +412,7 @@ Do đó, chúng tôi chỉ đề xuất bảng trên. Không có gì khác.
 
 - Nói với những người xung quanh bạn về sự nguy hiểm của Cloudflare.
 
-- [Giúp cải thiện kho lưu trữ này.](http://crimeflare.eu.org).
+- [Giúp cải thiện kho lưu trữ này.](http://crimeflare.eu.org)
   - Cả danh sách, các lập luận chống lại nó và các chi tiết.
 
 - [Ghi lại tài liệu và công khai những nơi có vấn đề xảy ra với Cloudflare (và các công ty tương tự), đảm bảo đề cập đến kho lưu trữ này khi bạn làm như vậy](http://crimeflare.eu.org) :)
