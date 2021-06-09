@@ -412,7 +412,7 @@ Ka hona re khothaletsa tafole e kaholimo feela. Ha ho letho le leng.
 
 - Bolella ba bang haufi le uena ka likotsi tsa Cloudflare.
 
-- [Thusa ho ntlafatsa polokelo ena.](http://crimeflare.eu.org).
+- [Thusa ho ntlafatsa polokelo ena.](http://crimeflare.eu.org)
   - Manane ka bobeli, mabaka a khahlano le eona le lintlha.
 
 - [Ngola 'me u phatlalatse phatlalatsa moo lintho li sa tsamaeeng hantle ka Cloudflare (le lik'hamphani tse tšoanang), ho etsa bonnete ba hore u bua ka polokelo ena ha u etsa joalo.](http://crimeflare.eu.org) :)
