@@ -412,7 +412,7 @@ Seetõttu soovitame ainult ülaltoodud tabelit. Mitte midagi muud.
 
 - Rääkige teistele ümbritsevatest Cloudflare'i ohtudest.
 
-- [Aidake seda hoidlat paremaks muuta.](http://crimeflare.eu.org).
+- [Aidake seda hoidlat paremaks muuta.](http://crimeflare.eu.org)
   - Nii nimekirjad, argumendid selle vastu kui ka üksikasjad.
 
 - [Dokumenteerige ja tehke väga avalikuks, kui Cloudflare'iga (ja sarnaste ettevõtetega) läheb valesti, mainides seda tehes kindlasti ka seda hoidlat](http://crimeflare.eu.org) :)
