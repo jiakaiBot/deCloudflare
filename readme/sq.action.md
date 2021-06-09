@@ -412,7 +412,7 @@ Prandaj ne rekomandojmë vetëm mbi tabelën. Asgje tjeter.
 
 - Tregoni të tjerëve rreth jush për rreziqet e Cloudflare.
 
-- [Ndihmoni në përmirësimin e kësaj depoje.](http://crimeflare.eu.org).
+- [Ndihmoni në përmirësimin e kësaj depoje.](http://crimeflare.eu.org)
   - Të dy listat, argumentet kundër tij dhe detajet.
 
 - [Dokumentoni dhe bëni shumë publik se ku gjërat shkojnë keq me Cloudflare (dhe kompani të ngjashme), duke u siguruar që të përmendni këtë depo kur e bëni këtë](http://crimeflare.eu.org) :)
