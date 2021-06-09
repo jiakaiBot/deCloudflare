@@ -412,7 +412,7 @@ Per tant, recomanem només la taula anterior. Res més.
 
 - Expliqueu als altres que us envolten els perills de Cloudflare.
 
-- [Ajudeu a millorar aquest dipòsit.](http://crimeflare.eu.org).
+- [Ajudeu a millorar aquest dipòsit.](http://crimeflare.eu.org)
   - Tant les llistes, els arguments en contra com els detalls.
 
 - [Documentar i fer molt públic on les coses van malament amb Cloudflare (i empreses similars), assegurant-se d'esmentar aquest dipòsit quan ho faci](http://crimeflare.eu.org) :)
