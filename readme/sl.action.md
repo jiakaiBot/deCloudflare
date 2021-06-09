@@ -412,7 +412,7 @@ Zato priporočamo samo zgornjo tabelo. Nič drugega.
 
 - Povejte drugim okoli sebe o nevarnostih Cloudflareja.
 
-- [Pomagajte izboljšati to skladišče.](http://crimeflare.eu.org).
+- [Pomagajte izboljšati to skladišče.](http://crimeflare.eu.org)
   - Tako seznami, argumenti proti temu kot podrobnosti.
 
 - [Dokumentirajte in zelo javno objavite, če gre s Cloudflarejem (in podobnimi podjetji) narobe, pri tem obvezno omenite to skladišče.](http://crimeflare.eu.org) :)
