@@ -412,7 +412,7 @@ Par conséquent, nous recommandons uniquement le tableau ci-dessus. Rien d'autre
 
 - Parlez aux autres autour de vous des dangers de Cloudflare.
 
-- [Aidez à améliorer ce référentiel.](http://crimeflare.eu.org).
+- [Aidez à améliorer ce référentiel.](http://crimeflare.eu.org)
   - Les listes, les arguments contre et les détails.
 
 - [Documentez et rendez très public les problèmes liés à Cloudflare (et aux entreprises similaires), en veillant à mentionner ce référentiel lorsque vous le faites](http://crimeflare.eu.org) :)
