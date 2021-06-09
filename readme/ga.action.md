@@ -412,7 +412,7 @@ Dá bhrí sin molaimid thuas tábla amháin. Tada eile.
 
 - Inis do dhaoine eile mórthimpeall ort faoi na contúirtí a bhaineann le Cloudflare.
 
-- [Cuidigh leis an stór seo a fheabhsú.](http://crimeflare.eu.org).
+- [Cuidigh leis an stór seo a fheabhsú.](http://crimeflare.eu.org)
   - Tá na liostaí, na hargóintí ina choinne agus na sonraí araon.
 
 - [Déan doiciméadú agus déan an-phoiblí nuair a théann rudaí mícheart le Cloudflare (agus cuideachtaí dá samhail), agus déan cinnte an stór seo a lua nuair a dhéanann tú amhlaidh](http://crimeflare.eu.org) :)
