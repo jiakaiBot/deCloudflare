@@ -412,7 +412,7 @@ die();
 
 - {%actnl0152%}
 
-- [{%actnl0153%}](http://crimeflare.eu.org).
+- [{%actnl0153%}](http://crimeflare.eu.org)
   - {%actnl0154%}
 
 - [{%actnl0155%}](http://crimeflare.eu.org) :)
