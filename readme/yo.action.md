@@ -412,7 +412,7 @@ Nitorina a ṣe iṣeduro loke tabili nikan. Ko si nkankan mo.
 
 - Sọ fun awọn miiran ni ayika rẹ nipa awọn eewu Cloudflare.
 
-- [Ṣe iranlọwọ imudarasi ibi ipamọ yii.](http://crimeflare.eu.org).
+- [Ṣe iranlọwọ imudarasi ibi ipamọ yii.](http://crimeflare.eu.org)
   - Mejeeji awọn atokọ, awọn ariyanjiyan lodi si rẹ ati awọn alaye.
 
 - [Iwe ati ṣe gbangba pupọ nibiti awọn nkan ṣe aṣiṣe pẹlu Cloudflare (ati awọn ile-iṣẹ iru), rii daju lati darukọ ibi ipamọ yii nigbati o ba ṣe bẹ](http://crimeflare.eu.org) :)
