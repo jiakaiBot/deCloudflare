@@ -4349,6 +4349,7 @@ Do not create new issue or we will close it as duplicate.
 | [SheinThuAung7@twitter.com](https://twitter.com/SheinThuAung7/status/1390427892497063936) | moral (advertise Cloudflare) |
 | [SheinThuKyaw@twitter.com](https://twitter.com/SheinThuKyaw/status/1392848524912386050) | moral (advertise Cloudflare) |
 | [shelattube@twitter.com](https://twitter.com/shelattube/status/1394830069550485507) | moral (advertise Cloudflare) |
+| [SherifMKhattab1@twitter.com](https://twitter.com/SherifMKhattab1/status/1403105134972837893) | moral (advertise Cloudflare) |
 | [shhrwin@twitter.com](https://twitter.com/shhrwin/status/1380867620811857922) | moral (advertise Cloudflare) |
 | [Shin59257259@twitter.com](https://twitter.com/Shin59257259/status/1402899703218409476) | moral (advertise Cloudflare) |
 | [Shine06080277@twitter.com](https://twitter.com/Shine06080277/status/1394963875414659082) | moral (advertise Cloudflare) |
