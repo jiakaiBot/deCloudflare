@@ -7,6 +7,8 @@
 
 
 
+- The data plane just does what it's told to do. The control plane just communicates what it's told to by a human/machine. And the source of most outages (70-75%) according to the Uptime institute is ... human error. ([lmacvittie](https://twitter.com/lmacvittie/status/1402619928461594624))
+- At least CloudFlare shows a proper diagnostic error message when it goes down instead of 503ing. ([glogeex](https://twitter.com/glogeex/status/1402510533908078593))
 - eu n sei e tipo uma lista de ips que sao "maliciosos" coisa do tipo pq eu to tendo um problema aparecendo captcha da cloudflare toda vez qaue vou acessar certos sites, eu pesquisei e possivelmente e relacionado a uma blacklist la ([chlcomoreno](https://twitter.com/CHlCOMORENO/status/1402295126219763713))
 - Cloudflare had an outage a few months ago, Amazon had one last year. It’s not that uncommon. My point was that process and human error appears to be the root cause more often than hardware failure. All the redundancy in the world didn’t prevent this outage. ([ocshree](https://twitter.com/ocshree/status/1402347835031314432))
 - I'm unabls to access website Keeps giving error Error 1020 Ray ID: 65c36093db213193 • 2021-06-08 16:08:09 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 65c36093db213193 Your IP: 103.58.155.32 ([amintamboli](https://twitter.com/amintamboli/status/1402297015111876621))
