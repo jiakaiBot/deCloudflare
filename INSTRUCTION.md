@@ -103,7 +103,9 @@ Are you sure? *Remove* it from /split/ list and *add* to "[ex_cloudflare_users.m
 
 | List name | Description |
 | -------- | -------- |
-| [/cidr_data/?.txt](not_cloudflare/cidr_data/)     |  CIDR, ASN, NS    |
+| [/ASN/?.txt](not_cloudflare/ASN/)     |  ASN    |
+| [/CIDR/?.txt](not_cloudflare/CIDR/)     |  CIDR    |
+| [/NS/?.txt](not_cloudflare/NS/)     |  NS    |
 
 ```
 CDN_Code
