@@ -114,7 +114,7 @@ Z2 Akamai
 Z4 Imperva
 Z5 Google
 Z6 Microsoft
-Z7 INAP
+Z7 INAP & SingleHop
 Z8 Sucuri
 Z9 Fastly
 ```
