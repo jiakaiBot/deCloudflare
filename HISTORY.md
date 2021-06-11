@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-06-10: [Network Performance Issues in Chicago, Atlanta, and Dallas](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1yzvw7471qd5)
 - 2021-06-08: [Network Performance Issues in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0b8p5mpnn92g)
 - 2021-06-08: [Network Performance Issues in Toronto and Lisbon](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2hnqwq90dlrk)
 - 2021-06-08: [Network Connectivity Issues in Dallas-Fort Worth Area.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/106kblg0x3rm)
