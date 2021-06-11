@@ -1,4 +1,4 @@
-## How many % of Fortune 1000 companies are using Cloudflare today?
+## How many % of Fortune 1000 companies are using Cloudflare?
 
 - [Fortune 1000](https://en.wikipedia.org/wiki/Fortune_1000)
 
