@@ -9,7 +9,7 @@
 - Cloudflared
   - [How many % of top 1,000 most visited sites(2010) are using Cloudflare today?](cloudflared_top1000-2010-google.md)
   - [How many % of top 1,000 most visited sites(2019) are using Cloudflare today?](cloudflared_top1000-2019-alexa.md)
-  - [How many % of Fortune 1000 companies are using Cloudflare?](subfiles/cloudflared_fortune1000.md)
+  - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared_fortune1000.md)
   - How many % of banks & financial institutions are using Cloudflare?
     - [Africa](cloudflared_financial_africa.md)
     - [America](cloudflared_financial_america.md)
