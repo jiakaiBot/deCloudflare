@@ -115,6 +115,7 @@ Here's a list of public Git services.
 | git.joinplu.me | No |
 | git.kageru.moe | No |
 | git.kaki87.net | No |
+| git.kalli.st | No |
 | git.kiwifarms.net | Yes |
 | git.kknos.uber.space | No |
 | git.klingt.net | No |
@@ -293,7 +294,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 50 |
-| Normal | 207 |
+| Normal | 208 |
 
 
-### 19.5% of public Git services are using Cloudflare.
+### 19.4% of public Git services are using Cloudflare.
