@@ -7,6 +7,7 @@
 
 
 
+- There has to be a better way to solicit donations from those who don't want to be tracked or have their data exploited than to send donors to privacy abusing sites in the very same post. All of those options are privacy abusing except (perhaps) bunq.me. PayPal: shares data w/600+ companies; patreon, liberapay, opencollective: all tor-hostile Cloudflare sites; ko-fi: blocks Tor. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106369463181760974))
 - Aparentemente, quem solicitar um pedido de agendamento para vacinação contra o COVID-19, terá de partilhar (uma vez mais) os seus dados pessoais com a Cloudflare. ([privacylx](https://social.privacytools.io/@PrivacyLX/106389113761332276))
 - ist down und das hat Auswirkungen auf Deddit, GitHub, PayPal, Amazon & Co., So viel zum dezental'em Internet, die eigentlichen Schaltzentralen und Gatekeeper sind u.a. die CDN Netzwerke wie eben erwähnte fastly oder CloudFlare.Eng. ([kubikpixel](https://chaos.social/@kubikpixel/106374946000819862))
 - That's a good thing. Tcl did self harm when they jailed all the docs in Cloudflare. Fuck that language. I use it, but I actually won't share my Tcl code publicly because the asshats made the docs exclusive. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106337561231889923))
