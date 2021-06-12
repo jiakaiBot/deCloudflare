@@ -1,9 +1,7 @@
 # Alternative Link
 
 
-| &#128444; | &#128441; |
-|  ---  |  ---  |
-|  ![](../image/altlink_sample.jpg) |![](../image/meme/meme_all_the_cloudflare_websites.jpg)<br>![](../image/meme/meme_human_or_robot.jpg) |
+![](../image/altlink_sample.jpg)
 
 
 This is `opt-in` service.
