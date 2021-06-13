@@ -88,6 +88,7 @@ ashton.ns.cloudflare.com
 aspen.ns.cloudflare.com
 athena.ns.cloudflare.com
 audrey.ns.cloudflare.com
+august.ns.cloudflare.com
 augustus.ns.cloudflare.com
 aurora.ns.cloudflare.com
 austin.ns.cloudflare.com
