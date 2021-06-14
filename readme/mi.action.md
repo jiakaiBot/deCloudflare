@@ -388,7 +388,7 @@ Na reira ka taunakihia e matou i runga ake nei te teepu. Kaore he mea ke atu.
 
 - [Mena kei te hiahia koe ki te whakamahi i te DNS kore-ISP, whakaarohia te whakamahi i te ratonga OpenNIC Tier2 DNS, tetahi atu ranei o nga ratonga DNS kore-Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Poraka Cloudflare me DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Poraka Cloudflare me DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Ka taea e koe te whakamahi i te Tor hei taumira DNS. [Mena kaore koe i te tohunga Tor, paatai ​​konei.](https://tor.stackexchange.com/)
 
