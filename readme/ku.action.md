@@ -388,7 +388,7 @@ Ji ber vê yekê em tenê maseya jorîn pêşniyar dikin. Tiştek din.
 
 - [Heke hûn dixwazin DNS-ne-ISP bikar bînin, karanîna karûbarê OpenNIC Tier2 DNS-an an karûbarên DNS-yên ne-Cloudflare bifikirin.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare bi DNS asteng bikin. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Cloudflare bi DNS asteng bikin. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Hûn dikarin Tor wekî çareserkerê DNS bikar bînin. [Heke hûn ne pisporê Tor in, li vir pirsê bikin.](https://tor.stackexchange.com/)
 
