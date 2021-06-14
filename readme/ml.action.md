@@ -388,7 +388,7 @@ die();
 
 - [നിങ്ങൾ ISP ഇതര DNS ഉപയോഗിക്കാൻ ആഗ്രഹിക്കുന്നുവെങ്കിൽ, OpenNIC Tier2 DNS സേവനമോ ക്ലൗഡ്ഫ്ലെയർ ഇതര DNS സേവനങ്ങളോ ഉപയോഗിക്കുന്നത് പരിഗണിക്കുക.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS ഉപയോഗിച്ച് ക്ലൗഡ്ഫ്ലെയർ തടയുക. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS ഉപയോഗിച്ച് ക്ലൗഡ്ഫ്ലെയർ തടയുക. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - നിങ്ങൾക്ക് ടോർ ഡിഎൻഎസ് റിസോൾവറായി ഉപയോഗിക്കാം. [നിങ്ങൾ ടോർ വിദഗ്ദ്ധനല്ലെങ്കിൽ, ഇവിടെ ചോദ്യം ചോദിക്കുക.](https://tor.stackexchange.com/)
 
