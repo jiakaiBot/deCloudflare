@@ -388,7 +388,7 @@ die();
 
 - [သင်သည် ISP မဟုတ်သော DNS ကိုအသုံးပြုလိုပါက OpenNIC Tier2 DNS ဝန်ဆောင်မှုသို့မဟုတ် Cloudflare မဟုတ်သော DNS ၀ န်ဆောင်မှုတစ်ခုခုကိုအသုံးပြုရန်စဉ်းစားပါ။](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS ဖြင့် Cloudflare ကိုပိတ်ပါ။ [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS ဖြင့် Cloudflare ကိုပိတ်ပါ။ [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - သင် Tor ကို DNS resolver အဖြစ်အသုံးပြုနိုင်သည်။ [သင် Tor ကျွမ်းကျင်သူမဟုတ်ပါကဤနေရာတွင်မေးခွန်းမေးပါ။](https://tor.stackexchange.com/)
 
