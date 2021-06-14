@@ -388,7 +388,7 @@ Todėl mes rekomenduojame tik aukščiau pateiktą lentelę. Nieko daugiau.
 
 - [Jei norite naudoti ne ISP DNS, apsvarstykite galimybę naudoti „OpenNIC Tier2“ DNS paslaugą arba bet kurią iš „Cloudflare“ DNS paslaugų.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokuokite „Cloudflare“ naudodami DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Blokuokite „Cloudflare“ naudodami DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - „Tor“ galite naudoti kaip DNS sprendiklį. [Jei nesate „Tor“ ekspertas, užduokite klausimą čia.](https://tor.stackexchange.com/)
 
