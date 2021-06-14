@@ -388,7 +388,7 @@ Stoga preporučujemo samo gornju tablicu. Ništa drugo.
 
 - [Ako želite koristiti DNS koji nije ISP, razmislite o upotrebi OpenNIC Tier2 DNS usluge ili bilo koje DNS usluge koja nije Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokirajte Cloudflare pomoću DNS-a. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Blokirajte Cloudflare pomoću DNS-a. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Tor možete koristiti kao DNS rješivač. [Ako niste stručnjak za Tor, postavite pitanje ovdje.](https://tor.stackexchange.com/)
 
