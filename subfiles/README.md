@@ -6,6 +6,9 @@
   - [Will these links block Tor user?](about.isat.md)
   - [Are links vulnerable to MITM attack?](about.ismm.md)
   - [Which website rejected me?](about.urjm.md)
+- Service
+  - [Ss](service.sercxi.md)
+  - [Alternative Link](service.altlink.md)
 - Cloudflared
   - [How many % of top 1,000 most visited sites(2010) are using Cloudflare today?](cloudflared_top1000-2010-google.md)
   - [How many % of top 1,000 most visited sites(2019) are using Cloudflare today?](cloudflared_top1000-2019-alexa.md)
@@ -35,7 +38,6 @@
   - [Twitter](people.twitter.md)
   - [Mastodon](people.mastodon.md)
 - [Cloudflare attracts "repeat infringers"](repeat_infringers_love_cloudflare.md)
-- [Alternative Link](service.altlink.md)
 - [Change default DNS provider of Firefox](change-firefox-dns.md)
 - [How to use Chromium with Tor](chromium_tor.md)
 - [Cloudflare Alternatives](cloudflare-alternatives.md)
