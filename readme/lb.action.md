@@ -388,7 +388,7 @@ Dofir recommandéiere mir nëmmen uewen Dësch. Näischt anescht.
 
 - [Wann Dir Net-ISP DNS benotze wëllt, denkt un d'OpenNIC Tier2 DNS Service oder ee vun net Cloudflare DNS Servicer ze benotzen.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Block Cloudflare mat DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Block Cloudflare mat DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Dir kënnt Tor als DNS Resolver benotzen. [Wann Dir keen Tor Expert sidd, frot hei d'Fro.](https://tor.stackexchange.com/)
 
