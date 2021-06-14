@@ -388,7 +388,7 @@ die();
 
 - [ਜੇ ਤੁਸੀਂ ਨਾਨ-ਆਈਐਸਪੀ ਡੀਐਨਐਸ ਵਰਤਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਓਪਨਨਿਕ ਟੀਅਰ 2 ਡੀਐਨਐਸ ਸੇਵਾ ਜਾਂ ਕਿਸੇ ਵੀ ਗੈਰ-ਕਲਾ Cloudਡਫਲੇਅਰ ਡੀਐਨਐਸ ਸੇਵਾਵਾਂ ਦੀ ਵਰਤੋਂ ਕਰਨ 'ਤੇ ਵਿਚਾਰ ਕਰੋ.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS ਨਾਲ ਕਲਾਉਡਫਲੇਅਰ ਰੋਕੋ. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS ਨਾਲ ਕਲਾਉਡਫਲੇਅਰ ਰੋਕੋ. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - ਤੁਸੀਂ ਟੋਰ ਨੂੰ ਡੀਐਨਐਸ ਰੈਜ਼ੋਲਵਰ ਵਜੋਂ ਵਰਤ ਸਕਦੇ ਹੋ. [ਜੇ ਤੁਸੀਂ ਟੋਰ ਮਾਹਰ ਨਹੀਂ ਹੋ, ਤਾਂ ਇੱਥੇ ਪ੍ਰਸ਼ਨ ਪੁੱਛੋ.](https://tor.stackexchange.com/)
 
