@@ -388,7 +388,7 @@ die();
 
 - [Хэрэв та ISP бус DNS ашиглахыг хүсвэл OpenNIC Tier2 DNS үйлчилгээ эсвэл Cloudflare бус DNS үйлчилгээг ашиглах талаар бодож үзээрэй.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare-ийг DNS ашиглан блоклох. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Cloudflare-ийг DNS ашиглан блоклох. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Та Tor-г DNS шийдэл болгон ашиглаж болно. [Хэрэв та Tor мэргэжилтэн биш бол эндээс асуулт асуугаарай.](https://tor.stackexchange.com/)
 
