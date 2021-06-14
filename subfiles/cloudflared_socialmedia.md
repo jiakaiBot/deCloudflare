@@ -175,6 +175,7 @@ Below is a list of social networks/social media apps worldwide.
 | Kik | https://www.kik.com/ | Yes |
 | Kiwibox | https://www.kiwibox.com/ | No |
 | KizlarSoruyor | https://www.kizlarsoruyor.com/ | Yes |
+| Koo | https://www.kooapp.com/ | Yes |
 | Koofers | https://www.koofers.com/ | No |
 | Kroogi | https://kroogi.com/ | No |
 | Kuaishou | https://www.kuaishou.com/ | No |
@@ -374,8 +375,8 @@ Below is a list of social networks/social media apps worldwide.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 132 |
+| Cloudflare | 133 |
 | Normal | 222 |
 
 
-### 37.3% of public social networks/social media are using Cloudflare.
+### 37.5% of public social networks/social media are using Cloudflare.
