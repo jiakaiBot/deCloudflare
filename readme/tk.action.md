@@ -388,7 +388,7 @@ Beýleki programma üpjünçiliginiň gizlinligi barada gürleşeliň.
 
 - [ISP däl DNS ulanmak isleseňiz, OpenNIC Tier2 DNS hyzmatyny ýa-da Cloudflare däl DNS hyzmatlaryny ulanmagy göz öňünde tutuň.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - “Cloudflare” -ni DNS bilen bloklaň. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - “Cloudflare” -ni DNS bilen bloklaň. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Tor-ny DNS çözüji hökmünde ulanyp bilersiňiz. [Tor hünärmeni däl bolsaňyz, şu ýerde sorag beriň.](https://tor.stackexchange.com/)
 
