@@ -388,7 +388,7 @@ die();
 
 - [หากคุณต้องการใช้ DNS ที่ไม่ใช่ ISP ให้ลองใช้บริการ OpenNIC Tier2 DNS หรือบริการ DNS ที่ไม่ใช่ Cloudflare](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - บล็อก Cloudflare ด้วย DNS [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - บล็อก Cloudflare ด้วย DNS [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - คุณสามารถใช้ Tor เป็นตัวแก้ไข DNS [หากคุณไม่ใช่ผู้เชี่ยวชาญของ Tor โปรดถามคำถามที่นี่](https://tor.stackexchange.com/)
 
