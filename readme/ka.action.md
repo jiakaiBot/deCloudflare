@@ -388,7 +388,7 @@ die();
 
 - [თუ გსურთ გამოიყენოთ არა ISP DNS, გაითვალისწინეთ OpenNIC Tier2 DNS სერვისის ან Cloudflare ნებისმიერი DNS სერვისის გამოყენება.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare- ის დაბლოკვა DNS- ით. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Cloudflare- ის დაბლოკვა DNS- ით. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - შეგიძლიათ გამოიყენოთ Tor როგორც DNS გადაჭრის. [თუ Tor- ის ექსპერტი არ ხართ, დასვით კითხვა აქ.](https://tor.stackexchange.com/)
 
