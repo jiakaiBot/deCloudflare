@@ -388,7 +388,7 @@ Oleh itu, kami mencadangkan jadual di atas sahaja. Tiada lagi.
 
 - [Sekiranya anda ingin menggunakan DNS bukan ISP, pertimbangkan untuk menggunakan perkhidmatan DNS OpenNIC Tier2 atau perkhidmatan DNS bukan Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Sekat Cloudflare dengan DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Sekat Cloudflare dengan DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Anda boleh menggunakan Tor sebagai pemecah DNS. [Sekiranya anda bukan pakar Tor, tanyakan soalan di sini.](https://tor.stackexchange.com/)
 
