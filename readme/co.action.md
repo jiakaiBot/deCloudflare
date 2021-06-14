@@ -388,7 +388,7 @@ Dunque cunsigliemu solu a tavula sopra. Nunda altru.
 
 - [Se vulete usà DNS chì ùn sò micca ISP, pensate à aduprà u serviziu DNS OpenNIC Tier2 o qualsiasi serviziu DNS non Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Bluccà Cloudflare cù DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Bluccà Cloudflare cù DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Pudete aduprà Tor cum'è risolutore DNS. [Se ùn site micca espertu di Tor, fate una domanda quì.](https://tor.stackexchange.com/)
 
