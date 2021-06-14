@@ -388,7 +388,7 @@ die();
 
 - [비 ISP DNS를 사용하려면 OpenNIC Tier2 DNS 서비스 또는 비 Cloudflare DNS 서비스 사용을 고려하십시오.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS로 Cloudflare를 차단합니다. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS로 Cloudflare를 차단합니다. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Tor를 DNS 해석기로 사용할 수 있습니다. [Tor 전문가가 아니라면 여기에서 질문하십시오.](https://tor.stackexchange.com/)
 
