@@ -388,7 +388,7 @@ Kituna kami nyarankeun tabel di luhur waé. Teu aya anu sanés.
 
 - [Upami anjeun hoyong nganggo non-ISP DNS, pertimbangkeun nganggo jasa OpenNIC Tier2 DNS atanapi jasa DNS sanés Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blok Cloudflare nganggo DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Blok Cloudflare nganggo DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Anjeun tiasa nganggo Tor salaku DNS resolver. [Upami anjeun sanés ahli Tor, naroskeun patarosan di dieu.](https://tor.stackexchange.com/)
 
