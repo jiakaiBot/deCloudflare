@@ -388,7 +388,7 @@ Chifukwa chake timalimbikitsa pamwambapa tebulo lokha. Palibe china.
 
 - [Ngati mukufuna kugwiritsa ntchito omwe si ISP DNS, ganizirani kugwiritsa ntchito ntchito ya OpenNIC Tier2 DNS kapena ntchito iliyonse yomwe si Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Dulani Cloudflare ndi DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Dulani Cloudflare ndi DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Mutha kugwiritsa ntchito Tor ngati DNS resolutionver. [Ngati simuli katswiri wa Tor, funsani funso apa.](https://tor.stackexchange.com/)
 
