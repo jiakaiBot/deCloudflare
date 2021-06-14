@@ -388,7 +388,7 @@ Għalhekk nirrakkomandaw hawn fuq it-tabella biss. Xejn iktar.
 
 - [Jekk tixtieq tuża DNS mhux ISP, ikkunsidra li tuża s-servizz DNS OpenNIC Tier2 jew kwalunkwe servizz DNS mhux Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Imblokka Cloudflare bid-DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Imblokka Cloudflare bid-DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Tista 'tuża Tor bħala resolver DNS. [Jekk m'intix espert tat-Tor, staqsi hawnhekk.](https://tor.stackexchange.com/)
 
