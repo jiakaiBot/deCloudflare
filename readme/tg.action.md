@@ -388,7 +388,7 @@ die();
 
 - [Агар шумо хоҳед, ки DNS-и ғайримасъули интернетро истифода баред, дар бораи истифодаи хадамоти OpenNIC Tier2 DNS ё ягон хидмати ғайри Cloudflare DNS фикр кунед.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Бастани Cloudflare бо DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Бастани Cloudflare бо DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Шумо метавонед Tor -ро ҳамчун ҳалкунандаи DNS истифода баред. [Агар шумо коршиноси Tor набошед, дар ин ҷо савол диҳед.](https://tor.stackexchange.com/)
 
