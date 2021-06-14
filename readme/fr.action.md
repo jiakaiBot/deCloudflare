@@ -388,7 +388,7 @@ Par conséquent, nous recommandons uniquement le tableau ci-dessus. Rien d'autre
 
 - [Si vous souhaitez utiliser un DNS non-FAI, envisagez d'utiliser le service DNS OpenNIC Tier2 ou l'un des services DNS non-Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Bloquez Cloudflare avec DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Bloquez Cloudflare avec DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Vous pouvez utiliser Tor comme résolveur DNS. [Si vous n'êtes pas un expert de Tor, posez la question ici.](https://tor.stackexchange.com/)
 
