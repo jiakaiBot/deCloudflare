@@ -388,7 +388,7 @@ Nitorina a ṣe iṣeduro loke tabili nikan. Ko si nkankan mo.
 
 - [Ti o ba fẹ lati lo DNS ti kii ṣe ISP, ronu nipa lilo iṣẹ OpenNIC Tier2 DNS tabi eyikeyi awọn iṣẹ DNS ti kii ṣe Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Dina Cloudflare pẹlu DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Dina Cloudflare pẹlu DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - O le lo Tor bi ipinnu DNS. [Ti o ko ba ṣe amoye Tor, beere ibeere nibi.](https://tor.stackexchange.com/)
 
