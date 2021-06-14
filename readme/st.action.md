@@ -388,7 +388,7 @@ Ka hona re khothaletsa tafole e kaholimo feela. Ha ho letho le leng.
 
 - [Haeba u ka rata ho sebelisa DNS eo e seng ea ISP, nahana ka ho sebelisa ts'ebeletso ea OpenNIC Tier2 DNS kapa efe kapa efe ea litšebeletso tse seng tsa Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Thibela Cloudflare ka DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Thibela Cloudflare ka DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - U ka sebelisa Tor joalo ka tharollo ea DNS. [Haeba ha u setsebi sa Tor, botsa potso mona.](https://tor.stackexchange.com/)
 
