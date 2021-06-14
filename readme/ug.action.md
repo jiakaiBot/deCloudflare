@@ -388,7 +388,7 @@ die();
 
 - [ئەگەر ISP بولمىغان DNS نى ئىشلەتمەكچى بولسىڭىز ، OpenNIC Tier2 DNS مۇلازىمىتىنى ياكى Cloudflare بولمىغان DNS مۇلازىمىتىنى ئىشلىتىشنى ئويلاڭ.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS ئارقىلىق Cloudflare نى توسۇڭ. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS ئارقىلىق Cloudflare نى توسۇڭ. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Tor نى DNS ھەل قىلغۇچ ئورنىدا ئىشلىتەلەيسىز. [ئەگەر سىز تور مۇتەخەسسىسى ئەمەس بولسىڭىز ، بۇ يەردىن سوئال سوراڭ.](https://tor.stackexchange.com/)
 
