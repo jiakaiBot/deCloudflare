@@ -388,7 +388,7 @@ O le mea lea matou te fautua atu luga naʻo le laulau. E leai se isi mea
 
 - [Afai e te manaʻo e faʻaaoga le-ISP DNS, mafaufau e faʻaaoga le OpenNIC Tier2 DNS tautua poʻo seisi o auaunaga e leʻo le Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Poloka Cloudflare ma DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Poloka Cloudflare ma DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - E mafai ona e faʻaaogaina Tor e pei o le DNS resolver. [Afai e te le o Tor poto, fesili fesili iinei.](https://tor.stackexchange.com/)
 
