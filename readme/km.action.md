@@ -388,7 +388,7 @@ die();
 
 - [ប្រសិនបើអ្នកចង់ប្រើ DNS ដែលមិនមែនជា ISP សូមពិចារណាប្រើសេវាកម្ម DNS OpenNIC Tier2 DNS ឬសេវាកម្ម DNS ដែលមិនមែនជា Cloudflare ។](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - រារាំង Cloudflare ជាមួយ DNS ។ [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - រារាំង Cloudflare ជាមួយ DNS ។ [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - អ្នកអាចប្រើ Tor ជាអ្នកដោះស្រាយ DNS ។ [ប្រសិនបើអ្នកមិនមែនជាអ្នកជំនាញ Tor សូមសួរសំណួរនៅទីនេះ។](https://tor.stackexchange.com/)
 
