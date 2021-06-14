@@ -388,7 +388,7 @@ Preto odporúčame iba vyššie uvedenú tabuľku. Nič viac.
 
 - [Ak by ste chceli používať DNS, ktoré nie sú od ISP, zvážte použitie služby DNS OpenNIC Tier2 alebo ktorejkoľvek zo služieb DNS iných ako Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokujte Cloudflare pomocou DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Blokujte Cloudflare pomocou DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Tor môžete použiť ako prekladač DNS. [Ak nie ste odborníkom na Tor, opýtajte sa tu.](https://tor.stackexchange.com/)
 
