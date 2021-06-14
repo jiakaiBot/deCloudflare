@@ -388,7 +388,7 @@ Siksi suosittelemme vain yllä olevaa taulukkoa. Ei mitään muuta.
 
 - [Jos haluat käyttää muuta kuin ISP-DNS: ää, harkitse OpenNIC Tier2 DNS -palvelun tai muun kuin Cloudflare DNS -palvelun käyttöä.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Estä Cloudflare DNS: llä. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Estä Cloudflare DNS: llä. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Voit käyttää Toria DNS-ratkaisijana. [Jos et ole Tor-asiantuntija, esitä kysymys täällä.](https://tor.stackexchange.com/)
 
