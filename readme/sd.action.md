@@ -388,7 +388,7 @@ die();
 
 - [جيڪڏهن توهان Non-ISP DNS استعمال ڪرڻ چاهيندا ، OpenNIC Tier2 DNS سروس استعمال ڪرڻ تي غور ڪريو يا ڪنهن غير Cloudflare DNS سروسز کي.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare کي ڊي اين ايس سان بلاڪ ڪيو. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Cloudflare کي ڊي اين ايس سان بلاڪ ڪيو. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - توھان ٽور استعمال ڪري سگھوٿا ڊي اين ايس رليور طور. [جيڪڏهن توهان ٽور ماهر نه آهيو ، هتي سوال پڇو.](https://tor.stackexchange.com/)
 
