@@ -388,7 +388,7 @@ Bu səbəbdən yalnız yuxarıdakı cədvəli tövsiyə edirik. Başqa heçnə.
 
 - [ISP olmayan DNS istifadə etmək istəyirsinizsə, OpenNIC Tier2 DNS xidmətindən və ya Cloudflare olmayan DNS xidmətlərindən istifadə etməyi düşünün.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare'ı DNS ilə bloklayın. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Cloudflare'ı DNS ilə bloklayın. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Toru DNS həll edici olaraq istifadə edə bilərsiniz. [Tor mütəxəssisi deyilsinizsə, burada sual verin.](https://tor.stackexchange.com/)
 
