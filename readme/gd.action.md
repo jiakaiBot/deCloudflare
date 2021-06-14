@@ -388,7 +388,7 @@ Mar sin tha sinn a ’moladh gu h-àrd clàr a-mhàin. Chan eil dad eile.
 
 - [Ma tha thu airson DNS neo-ISP a chleachdadh, smaoinich air a bhith a ’cleachdadh seirbheis OpenNIC Tier2 DNS no gin de sheirbheisean DNS neo-Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cuir bacadh air Cloudflare le DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Cuir bacadh air Cloudflare le DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Faodaidh tu Tor a chleachdadh mar resolver DNS. [Mura h-eil thu nad eòlaiche Tor, faighnich ceist an seo.](https://tor.stackexchange.com/)
 
