@@ -388,7 +388,7 @@ Sidaa darteed waxaan kugula talineynaa miiska kor ku xusan oo keliya. Wax kale m
 
 - [Haddii aad jeclaan lahayd inaad isticmaasho DNS aan ISP ahayn, tixgeli adeegsiga adeegga OpenNIC Tier2 DNS ama mid ka mid ah adeegyada aan Cloudflare DNS ahayn.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Ka jooji Cloudflare leh DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Ka jooji Cloudflare leh DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Waxaad u isticmaali kartaa Tor sida xalliyaha DNS. [Haddii aadan aheyn khabiir Tor, halkaan weydii su'aal.](https://tor.stackexchange.com/)
 
