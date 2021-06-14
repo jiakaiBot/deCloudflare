@@ -388,7 +388,7 @@ No laila mākou e paipai aku nei ma ka papa ʻaina wale nō. ʻAʻohe mea ʻē a
 
 - [Inā makemake ʻoe e hoʻohana i ka ʻole ISP DNS, e noʻonoʻo e hoʻohana i ka lawelawe ʻo OpenNIC Tier2 DNS a i ʻole kekahi o nā lawelawe DNS ʻole Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - E ālai ʻo Cloudflare me DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - E ālai ʻo Cloudflare me DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Hiki iā ʻoe ke hoʻohana iā Tor ma ke ʻano he DNS resolver. [Inā ʻaʻole ʻoe he loea Tor, e nīnau i ka nīnau ma aneʻi.](https://tor.stackexchange.com/)
 
