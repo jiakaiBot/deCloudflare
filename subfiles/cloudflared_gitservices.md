@@ -76,6 +76,7 @@ Here's a list of public Git services.
 | git.chenguanzhou.com | No |
 | git.control-design.pl | No |
 | git.cslabs.clarkson.edu | No |
+| git.cubetiqs.com | No |
 | git.cyberjinh.fr | No |
 | git.data.coop | No |
 | git.defectink.com | No |
@@ -127,6 +128,7 @@ Here's a list of public Git services.
 | git.laquadrature.net | No |
 | git.larlet.fr | No |
 | git.lighttpd.net | No |
+| git.loranger.xyz | No |
 | git.madfire.net | No |
 | git.madi-wka.club | Yes |
 | git.mafiasi.de | No |
@@ -151,6 +153,7 @@ Here's a list of public Git services.
 | git.plspnkt.uber.space | No |
 | git.pofilo.fr | No |
 | git.polytech-services-nancy.fr | No |
+| git.posti.io | No |
 | git.pyrocko.org | No |
 | git.radio.clubs.etsit.upm.es | No |
 | git.rbcommunity.info | Yes |
@@ -193,6 +196,7 @@ Here's a list of public Git services.
 | git.work-tracker.net | No |
 | git.x-service.be | No |
 | git.xintesa.com | Yes |
+| git.xobs.io | No |
 | git.xtechnology.org | No |
 | git.zero-knowledge.org | No |
 | git.zmctrack.net | No |
@@ -299,7 +303,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 51 |
-| Normal | 212 |
+| Normal | 216 |
 
 
-### 19.4% of public Git services are using Cloudflare.
+### 19.1% of public Git services are using Cloudflare.
