@@ -388,7 +388,7 @@ die();
 
 - [اگر می خواهید از DNS غیر ISP استفاده کنید ، استفاده از سرویس OpenNIC Tier2 DNS یا هر یک از سرویس های DNS غیر Cloudflare را در نظر بگیرید.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare را با DNS مسدود کنید. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Cloudflare را با DNS مسدود کنید. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - می توانید از Tor به عنوان DNS Resolution استفاده کنید. [اگر متخصص Tor نیستید ، در اینجا س askال کنید.](https://tor.stackexchange.com/)
 
