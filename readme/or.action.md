@@ -388,7 +388,7 @@ die();
 
 - [ଯଦି ଆପଣ ଅଣ- ISP DNS ବ୍ୟବହାର କରିବାକୁ ଚାହାଁନ୍ତି, ତେବେ OpenNIC Tier2 DNS ସେବା କିମ୍ବା କ any ଣସି କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ DNS ସେବା ବ୍ୟବହାର କରିବାକୁ ଚିନ୍ତା କରନ୍ତୁ |](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS ସହିତ କ୍ଲାଉଡ୍ ଫ୍ଲାର୍କୁ ଅବରୋଧ କରନ୍ତୁ | [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS ସହିତ କ୍ଲାଉଡ୍ ଫ୍ଲାର୍କୁ ଅବରୋଧ କରନ୍ତୁ | [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - ଆପଣ Tor କୁ DNS ରିଜୋଲଭର ଭାବରେ ବ୍ୟବହାର କରିପାରିବେ | [ଯଦି ତୁମେ ଟୋର ବିଶେଷଜ୍ଞ ନୁହଁ, ଏଠାରେ ପ୍ରଶ୍ନ ପଚାର |](https://tor.stackexchange.com/)
 
