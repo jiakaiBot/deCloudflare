@@ -388,7 +388,7 @@ Ezért csak a fenti táblázatban ajánljuk. Semmi más.
 
 - [Ha nem ISP DNS-t szeretne használni, fontolja meg az OpenNIC Tier2 DNS szolgáltatás vagy bármely nem Cloudflare DNS szolgáltatás használatát.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokkolja a Cloudflare-t DNS-sel. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Blokkolja a Cloudflare-t DNS-sel. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Használhatja a Tor-t DNS-feloldóként. [Ha Ön nem Tor szakértő, tegyen fel kérdést itt.](https://tor.stackexchange.com/)
 
