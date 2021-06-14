@@ -388,7 +388,7 @@ Do đó, chúng tôi chỉ đề xuất bảng trên. Không có gì khác.
 
 - [Nếu bạn muốn sử dụng DNS không phải ISP, hãy cân nhắc sử dụng dịch vụ DNS OpenNIC Tier2 hoặc bất kỳ dịch vụ DNS nào không phải của Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Chặn Cloudflare bằng DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Chặn Cloudflare bằng DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Bạn có thể sử dụng Tor làm trình phân giải DNS. [Nếu bạn không phải là chuyên gia về Tor, hãy đặt câu hỏi tại đây.](https://tor.stackexchange.com/)
 
