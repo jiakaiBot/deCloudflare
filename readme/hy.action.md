@@ -388,7 +388,7 @@ die();
 
 - [Եթե ​​ցանկանում եք օգտագործել ոչ ISP DNS, հաշվի առեք OpenNIC Tier2 DNS ծառայությունը կամ որևէ այլ Cloudflare DNS ծառայություն:](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Արգելափակել Cloudflare- ը DNS- ով: [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Արգելափակել Cloudflare- ը DNS- ով: [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Դուք կարող եք օգտագործել Tor- ը որպես DNS լուծիչ: [Եթե ​​Tor- ի փորձագետ չեք, հարց տվեք այստեղ:](https://tor.stackexchange.com/)
 
