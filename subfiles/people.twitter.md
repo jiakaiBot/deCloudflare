@@ -7,6 +7,12 @@
 
 
 
+- hi, is your website down? I'm trying to book tickets but have been getting CloudFlare 'access denied' error 1020 all morning 😢 ([charliehrysmith](https://twitter.com/charliehrysmith/status/1404024210687672323))
+- Your website appears to be down with a Cloudflare Error 1020 cloudflaredown odeondown ([theatrecrafts](https://twitter.com/theatrecrafts/status/1403719965841276928))
+- 2/2 so I hit refresh enough to get back onto the site, the 3070 I had in my cart is out of stock. Oh, and the entire time I have to hit refresh every time I click something cause of the stupid Cloudflare error. Thanks for nothing ([ahobopanda](https://twitter.com/AHoboPanda/status/1403518296285143041))
+- Are there issues with the website right now? Out of nowhere I am getting asked to complete a Cloudflare Captcha but no matter how many times I do it, it simply reloads over and over. ([thebaum64](https://twitter.com/thebaum64/status/1403906976480890882))
+- hi team, Since 7th June I started observing issues while logging into the cloudflare account. I am not able to recover the account. Tried all the relevant options available to recover. Can you please help me with it. I am not receiving a single recovery mail. ([ardhendu1508](https://twitter.com/ardhendu1508/status/1403615558587731970))
+- You can try setting your browser DNS resolver to cloudflare to bypass this. Or a VPN like Proton's free tier. Free the science :) ([atomicnicos](https://twitter.com/AtomicNicos/status/1404099677658796037))
 - It shouldn't be down, but we've gotten some reports of users getting a blank page in some regions. We think this is a cloudflare issue so investigating now. In the meantime, I think trying on a different device or with vpn may work. ([connextnetwork](https://twitter.com/ConnextNetwork/status/1403391276695838732))
 - I guess that confirms Cloudflare as one of the 3rd party partners (that was my guess after the ODoH work). How it is toggled on/off? Can you tie specific apps to use it (like VPN with jumping through some hoops) ([mediumfidelity](https://twitter.com/MediumFidelity/status/1403178615710306306))
 - Love your software, but have been getting a Cloudflare Error 523 trying to download the latest .23 update for about the last week. Please help! ([benfro6](https://twitter.com/benfro6/status/1403470671016046596))
