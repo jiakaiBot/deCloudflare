@@ -34,7 +34,7 @@
 |  每天都有许多人和软件被Cloudflare阻止。 | ![](../image/omsnote.jpg) |
 |  Cloudflare困扰着全球许多人。查看列表，并考虑在您的站点上采用Cloudflare是否对用户体验有利。 |  ![](../image/omsstream.jpg) |
 |  如果您无法做自己想做的事，互联网的目的是什么？如果大多数访问您网站的人无法加载网页，他们只会寻找其他页面。您可能没有积极地阻止任何访问者，但是Cloudflare的默认防火墙非常严格，足以阻止很多人。 | ![](../image/omsdroid.jpg)<br>![](../image/omsappl.jpg) |
-|  如果不启用Javascript和Cookies，就无法解决验证码。Cloudflare正在使用它们制作浏览器签名来标识您。Cloudflare需要知道您的身份，以决定您是否有资格继续浏览该网站。 | ![](../image/cferr1010bsig.jpg) |
+|  如果不启用Javascript和Cookies，就无法解决验证码。Cloudflare正在使用它们制作浏览器签名来标识您。Cloudflare需要知道您的身份，以决定您是否有资格继续浏览该网站。 | ![](../image/cferr1010bsig.jpg)<br>![](../image/omsredjs.jpg) |
 |  Tor用户和VPN用户也是Cloudflare的受害者。这两种解决方案正被许多因国家/地区/公司/网络政策而无法提供未经审查的互联网服务的人使用，或者希望添加额外的层来保护其隐私的人使用这两种解决方案。Cloudflare正无耻地攻击那些人，迫使他们关闭其代理解决方案。 | ![](../image/banvpn2.jpg) |
 |  如果您直到现在仍未尝试使用Tor，建议您下载Tor浏览器并访问您喜欢的网站。我们建议您不要登录银行网站或政府网页，否则它们会标记您的帐户。对那些网站使用VPN。 | ![](../image/banvpn.jpg) |
 |  您可能要说“ Tor是非法的！ Tor用户是犯罪分子！ Tor不好！”。您可能会从电视上了解到Tor，说Tor可用于浏览暗网并交易枪支，毒品或色情色情。尽管上面的陈述是正确的，有很多市场网站可以购买此类物品，但这些网站也经常出现在clearnet上。  | ![](../image/whousetor.jpg) |
