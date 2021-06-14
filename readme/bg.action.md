@@ -388,7 +388,7 @@ die();
 
 - [Ако искате да използвате DNS, която не е ISP, помислете дали да не използвате OpenNIC Tier2 DNS услуга или някоя от DNS услуги, които не са в Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Блокирайте Cloudflare с DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Блокирайте Cloudflare с DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Можете да използвате Tor като DNS преобразувател. [Ако не сте експерт на Tor, задайте въпрос тук.](https://tor.stackexchange.com/)
 
