@@ -388,7 +388,7 @@ Daarom beveel ons slegs die bostaande tabel aan. Niks anders nie.
 
 - [As u nie-ISP-DNS wil gebruik, oorweeg dit om OpenNIC Tier2 DNS-dienste of enige van die nie-Cloudflare DNS-dienste te gebruik.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokkeer Cloudflare met DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Blokkeer Cloudflare met DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - U kan Tor as DNS-resolver gebruik. [As u nie 'n kundige Tor is nie, kan u die vraag hier vra.](https://tor.stackexchange.com/)
 
