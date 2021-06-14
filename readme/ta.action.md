@@ -388,7 +388,7 @@ die();
 
 - [நீங்கள் ISP அல்லாத DNS ஐப் பயன்படுத்த விரும்பினால், OpenNIC Tier2 DNS சேவையைப் பயன்படுத்தவும் அல்லது Cloudflare அல்லாத DNS சேவைகளைப் பயன்படுத்தவும்.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - டி.என்.எஸ் உடன் கிளவுட்ஃப்ளேரைத் தடு. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - டி.என்.எஸ் உடன் கிளவுட்ஃப்ளேரைத் தடு. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - நீங்கள் டோரை டிஎன்எஸ் தீர்வாகப் பயன்படுத்தலாம். [நீங்கள் டோர் நிபுணர் இல்லையென்றால், இங்கே கேள்வி கேளுங்கள்.](https://tor.stackexchange.com/)
 
