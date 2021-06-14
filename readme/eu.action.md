@@ -388,7 +388,7 @@ Hori dela eta, goiko taulan soilik gomendatzen dugu. Beste ezer ez.
 
 - [ISP ez diren DNSak erabili nahi badituzu, pentsa ezazu OpenNIC Tier2 DNS zerbitzua edo Cloudflare ez den DNS zerbitzuren bat erabiltzea.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokeatu Cloudflare DNSarekin. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Blokeatu Cloudflare DNSarekin. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Tor DNS ebazle gisa erabil dezakezu. [Tor aditua ez bazara, egin galdera hemen.](https://tor.stackexchange.com/)
 
