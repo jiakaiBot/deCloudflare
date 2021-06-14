@@ -388,7 +388,7 @@ die();
 
 - [إذا كنت ترغب في استخدام DNS غير مزود بخدمة الإنترنت ، ففكر في استخدام خدمة OpenNIC Tier2 DNS أو أي من خدمات DNS غير Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - حظر Cloudflare مع DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - حظر Cloudflare مع DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - يمكنك استخدام Tor كمحلل DNS. [إذا لم تكن خبيرًا في Tor ، اطرح سؤالاً هنا.](https://tor.stackexchange.com/)
 
