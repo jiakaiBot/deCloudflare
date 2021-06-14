@@ -388,7 +388,7 @@ Se poutèt sa nou rekòmande anwo tab la sèlman. Anyen ankò.
 
 - [Si ou ta renmen itilize ki pa ISP dns, konsidere lè l sèvi avèk OpenNIC Tier2 sèvis dns oswa nenpòt nan sèvis dns ki pa Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Bloke Cloudflare ak dns. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Bloke Cloudflare ak dns. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Ou ka itilize Tor kòm rezolveur dns. [Si ou pa ekspè Tor, poze kesyon isit la.](https://tor.stackexchange.com/)
 
