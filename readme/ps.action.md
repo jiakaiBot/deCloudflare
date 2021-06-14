@@ -388,7 +388,7 @@ die();
 
 - [که تاسو غواړئ غیر ISP DNS وکاروئ ، نو د OpenNIC Tier2 DNS خدمت یا د غیر کلاوډ فلیر DNS خدماتو څخه کار واخلئ.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - کلاوډ فلایر د DNS سره بند کړئ. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - کلاوډ فلایر د DNS سره بند کړئ. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - تاسو کولی شئ تور د DNS حل کونکي په توګه وکاروئ. [که تاسو د تور ماهر نه یاست ، پوښتنه دلته وکړئ.](https://tor.stackexchange.com/)
 
