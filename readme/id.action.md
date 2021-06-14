@@ -388,7 +388,7 @@ Oleh karena itu kami merekomendasikan tabel di atas saja. Tidak ada lagi.
 
 - [Jika Anda ingin menggunakan DNS non-ISP, pertimbangkan untuk menggunakan layanan DNS OpenNIC Tier2 atau layanan DNS non-Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokir Cloudflare dengan DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Blokir Cloudflare dengan DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Anda dapat menggunakan Tor sebagai pemecah DNS. [Jika Anda bukan ahli Tor, ajukan pertanyaan di sini.](https://tor.stackexchange.com/)
 
