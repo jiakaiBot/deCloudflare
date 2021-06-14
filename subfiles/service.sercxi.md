@@ -1,4 +1,4 @@
-# Ss (Sercxi)
+# Ss (Serĉi)
 
 
 ![](../image/ss-sercxi.png)
