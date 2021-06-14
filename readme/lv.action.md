@@ -388,7 +388,7 @@ Tāpēc mēs iesakām tikai iepriekš minēto tabulu. Nekas cits.
 
 - [Ja vēlaties izmantot DNS, kas nav ISP, apsveriet iespēju izmantot OpenNIC Tier2 DNS pakalpojumu vai jebkuru citu no Cloudflare DNS pakalpojumiem.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Bloķējiet Cloudflare ar DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Bloķējiet Cloudflare ar DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Jūs varat izmantot Tor kā DNS risinātāju. [Ja neesat Tor eksperts, uzdodiet jautājumu šeit.](https://tor.stackexchange.com/)
 
