@@ -388,7 +388,7 @@ Saboda haka muna bada shawarar sama da tebur kawai. Babu wani abu kuma.
 
 - [Idan kuna son yin amfani da DNS ɗin da ba ISP ba, la'akari da amfani da OpenNIC Tier2 DNS sabis ko wani sabis na ba Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Block Cloudflare tare da DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Block Cloudflare tare da DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Kuna iya amfani da Tor azaman mai warware DNS. [Idan baku da masaniyar Tor, yi tambaya anan.](https://tor.stackexchange.com/)
 
