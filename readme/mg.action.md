@@ -388,7 +388,7 @@ Noho izany dia manoro hevitra ny ambony latabatra ihany izahay. Tsy misy zavatra
 
 - [Raha te hampiasa DNS tsy ISP ianao, dia ampiasao ny serivisy OpenNIC Tier2 DNS na ny serivisy tsy Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Sakano ny Cloudflare miaraka amin'ny DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Sakano ny Cloudflare miaraka amin'ny DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Azonao atao ny mampiasa Tor ho resolver DNS. [Raha tsy manam-pahaizana Tor ianao dia mametraha fanontaniana eto.](https://tor.stackexchange.com/)
 
