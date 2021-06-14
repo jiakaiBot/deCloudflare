@@ -388,7 +388,7 @@ Shuning uchun biz faqat yuqoridagi jadvalni tavsiya qilamiz. Boshqa hech narsa.
 
 - [Agar siz Internet-provayder bo'lmagan DNS-dan foydalanishni xohlasangiz, OpenNIC Tier2 DNS xizmati yoki Cloudflare-ga tegishli bo'lmagan DNS-xizmatlaridan foydalanishni o'ylang.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare-ni DNS bilan bloklash. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Cloudflare-ni DNS bilan bloklash. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Siz Tor-dan DNS-rezolyutsiya sifatida foydalanishingiz mumkin. [Agar siz Tor mutaxassisi bo'lmasangiz, bu erda savol bering.](https://tor.stackexchange.com/)
 
