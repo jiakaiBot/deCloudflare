@@ -388,7 +388,7 @@ die();
 
 - [אם ברצונך להשתמש ב- DNS שאינו ISP, שקול להשתמש בשירות DNS OpenNIC Tier2 או בשירותי DNS שאינם CloudFlare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - חסום את Cloudflare באמצעות DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - חסום את Cloudflare באמצעות DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - אתה יכול להשתמש ב- Tor כמפתן DNS. [אם אתה לא מומחה לטור, שאל כאן שאלה.](https://tor.stackexchange.com/)
 
