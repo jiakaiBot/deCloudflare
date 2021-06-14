@@ -388,7 +388,7 @@ Seetõttu soovitame ainult ülaltoodud tabelit. Mitte midagi muud.
 
 - [Kui soovite kasutada ISP-välist DNS-i, kaaluge OpenNIC Tier2 DNS-teenuse või mõne muu Cloudflare'i DNS-teenuse kasutamist.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokeerige Cloudflare DNS-iga. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Blokeerige Cloudflare DNS-iga. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Tori saate kasutada DNS-i lahendajana. [Kui te pole Tori ekspert, esitage siin küsimus.](https://tor.stackexchange.com/)
 
