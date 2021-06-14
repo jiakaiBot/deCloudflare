@@ -388,7 +388,7 @@ Yog li peb pom zoo kom cov lus saum toj no nkaus xwb. Tsis muaj dab tsi ntxiv.
 
 - [Yog tias koj xav siv qhov tsis yog ISP DNS, xav txog kev siv OpenNIC Tier2 DNS kev pabcuam lossis lwm tus tsis-Cloudflare DNS kev pabcuam.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Thaiv Cloudflare nrog DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Thaiv Cloudflare nrog DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Koj tuaj yeem siv Tor ua DNS daws teeb meem. [Yog tias koj tsis yog Tor tus kws tshaj lij, nug nqe lus nug ntawm no.](https://tor.stackexchange.com/)
 
