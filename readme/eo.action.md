@@ -388,7 +388,7 @@ Sekve ni rekomendas nur supre tabelon. Nenio alia.
 
 - [Se vi ŝatus uzi ne-ISP-DNS, pripensu uzi OpenNIC-Tier2-DNS-servon aŭ iujn ajn ne-Cloudflare-DNS-servojn.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Bloku Cloudflare per DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Bloku Cloudflare per DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Vi povas uzi Tor kiel DNS-solvilo. [Se vi ne estas sperta pri Tor, demandu ĉi tie.](https://tor.stackexchange.com/)
 
