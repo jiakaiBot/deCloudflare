@@ -388,7 +388,7 @@ Ya mere, anyị nwere ike ikwu n'elu table naanị. Ọ dịghị ihe ọzọ.
 
 - [Ọ bụrụ na ịchọrọ iji ndị na-abụghị ISP DNS, tụlee iji ọrụ OpenNIC Tier2 DNS ma ọ bụ nke ọ bụla na-abụghị Cloudflare DNS ọrụ.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Gbochie Cloudflare na DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Gbochie Cloudflare na DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - You nwere ike iji Tor dị ka mkpebi DNS. [Ọ bụrụ na ị bụghị ọkachamara Tor, jụọ ajụjụ ebe a.](https://tor.stackexchange.com/)
 
