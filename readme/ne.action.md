@@ -388,7 +388,7 @@ die();
 
 - [यदि तपाईं गैर- ISP DNS प्रयोग गर्न चाहानुहुन्छ भने, OpenNIC Tier2 DNS सेवा वा कुनै पनि गैर-क्लाउडफ्लेयर DNS सेवाहरूको प्रयोग गर्ने बारे विचार गर्नुहोस्।](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS का साथ क्लाउडफ्लेयर रोक्नुहोस्। [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS का साथ क्लाउडफ्लेयर रोक्नुहोस्। [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - तपाईं टोरलाई DNS रिजल्भरको रूपमा प्रयोग गर्न सक्नुहुनेछ। [यदि तपाईं टोर विशेषज्ञ हुनुहुन्न भने, यहाँ प्रश्न सोध्नुहोस्।](https://tor.stackexchange.com/)
 
