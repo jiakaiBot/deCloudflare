@@ -388,7 +388,7 @@ die();
 
 - [మీరు ISP కాని DNS ను ఉపయోగించాలనుకుంటే, OpenNIC టైర్ 2 DNS సేవ లేదా క్లౌడ్ఫ్లేర్ కాని DNS సేవలను ఉపయోగించడాన్ని పరిగణించండి.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS తో క్లౌడ్‌ఫ్లేర్‌ను బ్లాక్ చేయండి. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS తో క్లౌడ్‌ఫ్లేర్‌ను బ్లాక్ చేయండి. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - మీరు టోర్ను DNS పరిష్కారంగా ఉపయోగించవచ్చు. [మీరు టోర్ నిపుణుడు కాకపోతే, ఇక్కడ ప్రశ్న అడగండి.](https://tor.stackexchange.com/)
 
