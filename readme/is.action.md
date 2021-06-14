@@ -388,7 +388,7 @@ Við skulum tala um friðhelgi annars hugbúnaðar.
 
 - [Ef þú vilt nota DNS sem ekki er ISP skaltu íhuga að nota OpenNIC Tier2 DNS þjónustu eða einhverja DNS þjónustu sem ekki er Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Lokaðu fyrir Cloudflare með DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Lokaðu fyrir Cloudflare með DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Þú getur notað Tor sem DNS upplausn. [Ef þú ert ekki Tor sérfræðingur skaltu spyrja hér.](https://tor.stackexchange.com/)
 
