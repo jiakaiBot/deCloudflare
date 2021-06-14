@@ -388,7 +388,7 @@ die();
 
 - [ຖ້າທ່ານຕ້ອງການໃຊ້ DNS ທີ່ບໍ່ແມ່ນ ISP, ພິຈາລະນາໃຊ້ບໍລິການ DNS OpenNIC Tier2 DNS ຫຼືບໍລິການ DNS ທີ່ບໍ່ແມ່ນ Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - ຕັນ Cloudflare ກັບ DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - ຕັນ Cloudflare ກັບ DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - ທ່ານສາມາດໃຊ້ Tor ເປັນຕົວແກ້ໄຂບັນຫາ DNS. [ຖ້າທ່ານບໍ່ແມ່ນຜູ້ຊ່ຽວຊານ Tor, ຖາມ ຄຳ ຖາມຢູ່ນີ້.](https://tor.stackexchange.com/)
 
