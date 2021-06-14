@@ -388,7 +388,7 @@ die();
 
 - [आपण नॉन-आयएसपी डीएनएस वापरू इच्छित असल्यास ओपनएनआयसी टीयर 2 डीएनएस सेवा किंवा क्लाउडफ्लेअर नॉन-डी सेवा वापरण्याचा विचार करा.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - डीएनएससह क्लाउडफ्लेअर अवरोधित करा. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - डीएनएससह क्लाउडफ्लेअर अवरोधित करा. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - आपण डीआरएस निराकरणकर्ता म्हणून टॉर वापरू शकता. [आपण टोर तज्ञ नसल्यास येथे प्रश्न विचारा.](https://tor.stackexchange.com/)
 
