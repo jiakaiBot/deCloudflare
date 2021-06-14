@@ -388,7 +388,7 @@ Ngakho-ke sincoma itafula elingenhla kuphela. Akukho okunye.
 
 - [Uma ungathanda ukusebenzisa i-non-ISP DNS, cabanga ukusebenzisa insiza ye-OpenNIC Tier2 DNS noma yiziphi izinsizakalo ezingezona eze-Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Vimba i-Cloudflare nge-DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Vimba i-Cloudflare nge-DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Ungasebenzisa iTor njengesisombululo se-DNS. [Uma ungeyena uchwepheshe weTor, buza umbuzo lapha.](https://tor.stackexchange.com/)
 
