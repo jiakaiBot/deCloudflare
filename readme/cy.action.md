@@ -388,7 +388,7 @@ Felly rydym yn argymell uchod y tabl yn unig. Dim byd arall.
 
 - [Os hoffech chi ddefnyddio DNS nad yw'n ISP, ystyriwch ddefnyddio gwasanaeth DNS Haen 2 OpenNIC neu unrhyw un o wasanaethau DNS nad ydynt yn Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blociwch Cloudflare gyda DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Blociwch Cloudflare gyda DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Gallwch ddefnyddio Tor fel ail-gloi DNS. [Os nad ydych chi'n arbenigwr Tor, gofynnwch gwestiwn yma.](https://tor.stackexchange.com/)
 
