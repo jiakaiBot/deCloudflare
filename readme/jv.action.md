@@ -388,7 +388,7 @@ Mula, disaranake mung tabel ing ndhuwur. Ora liya.
 
 - [Yen sampeyan pengin nggunakake DNS non-ISP, coba gunakake layanan OpenNIC Tier2 DNS utawa layanan DNS non-Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokir Cloudflare nganggo DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Blokir Cloudflare nganggo DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Sampeyan bisa nggunakake Tor minangka resolusi DNS. [Yen sampeyan dudu ahli Tor, takon ing kene.](https://tor.stackexchange.com/)
 
