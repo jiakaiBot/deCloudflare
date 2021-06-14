@@ -15,10 +15,3 @@ The current Ss logo resembles an umbrella. Developers said that they want to pro
 
 
 ![](../image/ssprotect.jpg)
-
-
-
-| Link | URL |
-| --- | --- |
-| Onion (Tor only) | https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ |
-| Clearnet (clearnet only) | https://sercxi.eu.org/ |
