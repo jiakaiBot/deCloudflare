@@ -388,7 +388,7 @@ die();
 
 - [Әгәр сез ISP булмаган DNS кулланырга телисез икән, OpenNIC Tier2 DNS сервисын яки Cloudflare булмаган DNS хезмәтләрен кулланырга уйлагыз.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS белән Cloudflare блоклагыз. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS белән Cloudflare блоклагыз. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Сез Torны DNS резолюциясе итеп куллана аласыз. [Әгәр дә сез Тор белгече түгел икән, монда сорау бирегез.](https://tor.stackexchange.com/)
 
