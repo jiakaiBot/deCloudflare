@@ -27,6 +27,7 @@ Here's a list of public Git services.
 
 | Site | Cloudflared |
 | --- | --- |
+| 0xacab.org | No |
 | allthe.codes | No |
 | auth.doeber.nl | No |
 | authoritah.io | No |
@@ -34,6 +35,7 @@ Here's a list of public Git services.
 | black.uber.space | No |
 | ccr.calibrate.be | No |
 | ceregatti.com | No |
+| chaos.expert | No |
 | code.antopie.org | No |
 | code.briarproject.org | No |
 | code.crosse.org | Yes |
@@ -91,6 +93,7 @@ Here's a list of public Git services.
 | git.feneas.org | No |
 | git.finallycoffee.eu | No |
 | git.finmechanics.com | No |
+| git.fosscommunity.in | No |
 | git.freezer.life | Yes |
 | git.fsfe.org | No |
 | git.gaiaservice.fr | No |
@@ -234,9 +237,11 @@ Here's a list of public Git services.
 | gitea.unknown.name | No |
 | gitea.xinje.cc | No |
 | gitee.com | No |
+| gitgud.io | Yes |
 | github.com | No |
 | github.dbalegends.com | Yes |
 | github.tjshosting.com | Yes |
+| gitlab.coko.foundation | No |
 | gitlab.com | Yes |
 | gitlab.freedesktop.org | No |
 | gitlab.gnome.org | No |
@@ -293,8 +298,8 @@ Here's a list of public Git services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 50 |
-| Normal | 208 |
+| Cloudflare | 51 |
+| Normal | 212 |
 
 
 ### 19.4% of public Git services are using Cloudflare.
