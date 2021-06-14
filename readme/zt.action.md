@@ -388,7 +388,7 @@ die();
 
 - [如果要使用非ISP DNS，請考慮使用OpenNIC Tier2 DNS服務或任何非Cloudflare DNS服務。](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - 使用DNS阻止Cloudflare。 [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - 使用DNS阻止Cloudflare。 [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - 您可以將Tor用作DNS解析器。 [如果您不是Tor專家，請在此處提問。](https://tor.stackexchange.com/)
 
