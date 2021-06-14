@@ -388,7 +388,7 @@ die();
 
 - [Эгер сиз ISP эмес DNS кызматын колдонгуңуз келсе, OpenNIC Tier2 DNS кызматын же Cloudflare эмес DNS кызматтарын пайдаланууну карап көрүңүз.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS менен Cloudflare бөгөттөө. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS менен Cloudflare бөгөттөө. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Сиз DNS чечүүчү катары Tor колдоно аласыз. [Эгер сиз Tor адиси болбосоңуз, ушул жерден суроо бериңиз.](https://tor.stackexchange.com/)
 
