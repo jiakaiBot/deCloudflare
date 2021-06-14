@@ -388,7 +388,7 @@ die();
 
 - [Якщо ви хочете використовувати DNS, що не є провайдером, розгляньте можливість використання служби DNS OpenNIC Tier2 або будь-якої іншої DNS-служби, що не є Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Заблокуйте Cloudflare за допомогою DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Заблокуйте Cloudflare за допомогою DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Ви можете використовувати Tor як вирішувач DNS. [Якщо ви не фахівець Tor, задайте питання тут.](https://tor.stackexchange.com/)
 
