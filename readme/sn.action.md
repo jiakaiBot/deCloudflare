@@ -388,7 +388,7 @@ Naizvozvo tinokurudzira pamusoro petafura chete. Hapana chimwe.
 
 - [Kana iwe uchida kushandisa isiri-ISP DNS, funga kushandisa OpenNIC Tier2 DNS sevhisi kana chero yeisina-Cloudflare DNS masevhisi.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Bvisa Cloudflare neDNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Bvisa Cloudflare neDNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Unogona kushandisa Tor seDNS resolution. [Kana usiri nyanzvi yeTor, bvunza mubvunzo pano.](https://tor.stackexchange.com/)
 
