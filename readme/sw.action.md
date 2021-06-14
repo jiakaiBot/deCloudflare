@@ -388,7 +388,7 @@ Kwa hivyo tunapendekeza juu ya meza tu. Hakuna kingine.
 
 - [Ikiwa ungependa kutumia DNS isiyo ya ISP, fikiria kutumia huduma ya OpenNIC Tier2 DNS au huduma yoyote isiyo ya Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Zuia Cloudflare na DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Zuia Cloudflare na DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Unaweza kutumia Tor kama suluhisho la DNS. [Ikiwa wewe si mtaalam wa Tor, uliza swali hapa.](https://tor.stackexchange.com/)
 
