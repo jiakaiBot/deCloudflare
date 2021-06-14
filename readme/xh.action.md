@@ -388,7 +388,7 @@ Ke ngoko sicebisa ngaphezulu kwetafile kuphela. Ayikho enye.
 
 - [Ukuba ungathanda ukusebenzisa i-non-ISP DNS, cinga ukusebenzisa i-OpenNIC Tier2 DNS inkonzo okanye naziphi na iinkonzo ezingezizo ze-Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Vimba i-Cloudflare nge-DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Vimba i-Cloudflare nge-DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Ungasebenzisa iTor njengesisombululo se-DNS. [Ukuba awuyongcali yeTor, buza umbuzo apha.](https://tor.stackexchange.com/)
 
