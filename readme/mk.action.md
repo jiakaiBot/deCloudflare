@@ -388,7 +388,7 @@ die();
 
 - [Ако сакате да користите не-ISP DNS, размислете за користење на OpenNIC Tier2 DNS услуга или која било од не-Cloudflare DNS услуги.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Блокирајте Cloudflare со DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Блокирајте Cloudflare со DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Можете да го користите Tor како резолутор на DNS. [Ако не сте експерт за Тор, поставете прашање тука.](https://tor.stackexchange.com/)
 
