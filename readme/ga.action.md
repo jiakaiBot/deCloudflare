@@ -388,7 +388,7 @@ Dá bhrí sin molaimid thuas tábla amháin. Tada eile.
 
 - [Más mian leat DNS neamh-ISP a úsáid, smaoinigh ar sheirbhís OpenNIC Tier2 DNS nó aon cheann de sheirbhísí DNS neamh-Cloudflare a úsáid.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Bloc Cloudflare le DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Bloc Cloudflare le DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Is féidir leat Tor a úsáid mar athscríobh DNS. [Mura saineolaí Tor tú, cuir ceist anseo.](https://tor.stackexchange.com/)
 
