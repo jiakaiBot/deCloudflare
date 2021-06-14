@@ -388,7 +388,7 @@ die();
 
 - [非ISPDNSを使用する場合は、OpenNIC Tier2DNSサービスまたは非CloudflareDNSサービスの使用を検討してください。](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNSでCloudflareをブロックします。 [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNSでCloudflareをブロックします。 [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - TorをDNSリゾルバーとして使用できます。 [Torの専門家でない場合は、ここで質問してください。](https://tor.stackexchange.com/)
 
