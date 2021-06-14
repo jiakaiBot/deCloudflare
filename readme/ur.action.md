@@ -388,7 +388,7 @@ die();
 
 - [اگر آپ نان آئی ایس پی ڈی این ایس کو استعمال کرنا چاہتے ہیں تو ، اوپننیک ٹائر 2 ڈی این ایس سروس یا نان-کلاؤڈ فلایر ڈی این ایس خدمات میں سے کسی کو استعمال کرنے پر غور کریں۔](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS کے ساتھ کلاؤڈ فلایر کو مسدود کریں۔ [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS کے ساتھ کلاؤڈ فلایر کو مسدود کریں۔ [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - آپ Tor کو بطور DNS حل کرنے والا استعمال کرسکتے ہیں۔ [اگر آپ ٹور کے ماہر نہیں ہیں تو ، یہاں سوال پوچھیں۔](https://tor.stackexchange.com/)
 
