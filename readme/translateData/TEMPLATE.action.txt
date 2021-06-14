@@ -388,7 +388,7 @@ die();
 
 - [{%actnl0143%}](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - {%actnl0144%} [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - {%actnl0144%} [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - {%actnl0145%} [{%actnl0146%}](https://tor.stackexchange.com/)
 
