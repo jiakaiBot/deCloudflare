@@ -388,7 +388,7 @@ die();
 
 - [જો તમે નોન-આઇએસપી ડીએનએસનો ઉપયોગ કરવા માંગતા હો, તો ઓપનનિક ટિયર 2 ડીએનએસ સેવા અથવા નોન-ક્લાઉડફ્લેર ડીએનએસ સેવાઓનો ઉપયોગ કરવાનું ધ્યાનમાં લો.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS સાથે ક્લાઉડફ્લેયર અવરોધિત કરો. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS સાથે ક્લાઉડફ્લેયર અવરોધિત કરો. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - તમે ટોરનો ઉપયોગ DNS રિઝોલવર તરીકે કરી શકો છો. [જો તમે ટોર નિષ્ણાત નથી, તો અહીં સવાલ પૂછો.](https://tor.stackexchange.com/)
 
