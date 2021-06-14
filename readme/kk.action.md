@@ -388,7 +388,7 @@ die();
 
 - [Егер сіз ISP емес DNS пайдаланғыңыз келсе, OpenNIC Tier2 DNS қызметін немесе Cloudflare емес кез келген DNS қызметтерін пайдаланыңыз.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare-ді DNS көмегімен блоктаңыз. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Cloudflare-ді DNS көмегімен блоктаңыз. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Торды DNS шешуші ретінде пайдалануға болады. [Егер сіз Tor маманы болмасаңыз, мына жерден сұрақ қойыңыз.](https://tor.stackexchange.com/)
 
