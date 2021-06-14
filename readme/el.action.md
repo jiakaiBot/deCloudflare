@@ -388,7 +388,7 @@ die();
 
 - [Εάν θέλετε να χρησιμοποιήσετε DNS χωρίς ISP, σκεφτείτε το ενδεχόμενο να χρησιμοποιήσετε την υπηρεσία DNS OpenNIC Tier2 ή οποιαδήποτε από τις υπηρεσίες DNS που δεν είναι Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Αποκλεισμός Cloudflare με DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Αποκλεισμός Cloudflare με DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Μπορείτε να χρησιμοποιήσετε το Tor ως πρόγραμμα επίλυσης DNS. [Εάν δεν είστε ειδικός του Tor, κάντε την ερώτηση εδώ.](https://tor.stackexchange.com/)
 
