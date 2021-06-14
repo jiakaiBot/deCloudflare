@@ -388,7 +388,7 @@ die();
 
 - [אויב איר ווילט צו נוצן ניט-יספּ דנס, באַטראַכטן ניצן OpenNIC Tier2 דנס סערוויס אָדער קיין פון ניט-קלאָודפלאַרע דנס באַדינונגס.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - פאַרשפּאַרן קלאָודפלאַרע מיט דנס. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - פאַרשפּאַרן קלאָודפלאַרע מיט דנס. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - איר קענען נוצן Tor ווי דנס רעסאָלווער. [אויב איר זענט נישט Tor מומחה, פרעגן קשיא דאָ.](https://tor.stackexchange.com/)
 
