@@ -388,7 +388,7 @@ die();
 
 - [አይ.ኤስ.አይ.ፒ.ኤን.ኤን.ን መጠቀም ከፈለጉ የ OpenNIC Tier2 ዲ ኤን ኤስ አገልግሎትን ወይም ማንኛውንም የደመና-ፍላር የዲ ኤን ኤስ አገልግሎቶችን ለመጠቀም ያስቡ ፡፡](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudslare ን በዲ ኤን ኤስ አግድ ፡፡ [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Cloudslare ን በዲ ኤን ኤስ አግድ ፡፡ [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - ቶርን እንደ ዲ ኤን ኤስ መፍቻ መጠቀም ይችላሉ ፡፡ [የቶር ባለሙያ ካልሆኑ እዚህ ይጠይቁ ፡፡](https://tor.stackexchange.com/)
 
