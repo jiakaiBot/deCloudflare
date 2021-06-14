@@ -388,7 +388,7 @@ Tungod niini girekomenda namon sa lamesa ra sa taas. Wala’y lain.
 
 - [Kung gusto nimo gamiton ang dili ISP DNS, ikonsiderar ang paggamit sa serbisyo nga OpenNIC Tier2 DNS o bisan unsang mga serbisyo nga dili Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - I-block ang Cloudflare gamit ang DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - I-block ang Cloudflare gamit ang DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Mahimo nimong gamiton ang Tor ingon resolver sa DNS. [Kung dili ka eksperto sa Tor, pangutana dinhi.](https://tor.stackexchange.com/)
 
