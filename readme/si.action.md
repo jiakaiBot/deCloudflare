@@ -388,7 +388,7 @@ die();
 
 - [ඔබ ISP නොවන DNS භාවිතා කිරීමට කැමති නම්, OpenNIC Tier2 DNS සේවාව හෝ Cloudflare නොවන DNS සේවාවන් භාවිතා කිරීම ගැන සලකා බලන්න.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS සමඟ Cloudflare අවහිර කරන්න. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS සමඟ Cloudflare අවහිර කරන්න. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - ඔබට ටෝර් ඩීඑන්එස් විසදුම ලෙස භාවිතා කළ හැකිය. [ඔබ ටෝර් විශේෂ expert යෙක් නොවේ නම්, මෙහි ප්‍රශ්නයක් අසන්න.](https://tor.stackexchange.com/)
 
