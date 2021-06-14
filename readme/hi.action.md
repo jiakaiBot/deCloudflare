@@ -388,7 +388,7 @@ die();
 
 - [यदि आप गैर-आईएसपी DNS का उपयोग करना चाहते हैं, तो OpenNIC Tier2 DNS सेवा या किसी भी गैर-क्लाउडफ़ेयर DNS सेवाओं का उपयोग करने पर विचार करें।](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS के साथ Cloudflare को ब्लॉक करें। [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - DNS के साथ Cloudflare को ब्लॉक करें। [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - आप टॉर को DNS रिज़ॉल्वर के रूप में उपयोग कर सकते हैं। [यदि आप टो विशेषज्ञ नहीं हैं, तो यहां सवाल पूछें।](https://tor.stackexchange.com/)
 
