@@ -388,7 +388,7 @@ Kubwibyo turasaba hejuru kumeza gusa. Ntakindi.
 
 - [Niba ushaka gukoresha DNS itari ISP, tekereza gukoresha serivise ya OpenNIC Tier2 DNS cyangwa serivisi iyo ari yo yose itari Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Hagarika Cloudflare hamwe na DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Hagarika Cloudflare hamwe na DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Urashobora gukoresha Tor nkumuti wa DNS. [Niba utari umuhanga wa Tor, baza ikibazo hano.](https://tor.stackexchange.com/)
 
