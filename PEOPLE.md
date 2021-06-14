@@ -437,6 +437,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 - [Wire, Please stop using CloudFlare](https://github.com/wireapp/wire-webapp/issues/5716)
 - [What do you think about Cloudflare? PTIO](https://github.com/privacytoolsIO/privacytools.io/issues/374)
 - [What do you think about Cloudflare? PRISM](https://github.com/prism-break/prism-break/issues/1843)
+- [Issue 1139: cloudflare: Cloudflare Reverse Proxies are Dumping Uninitialized Memory](https://bugs.chromium.org/p/project-zero/issues/detail?id=1139)
+- [Cloudflare Reverse Proxies Are Dumping Uninitialized Memory](https://news.ycombinator.com/item?id=13718752)
 - [let's talk about our little buddy cloudflare](https://github.com/ghacksuserjs/ghacks-user.js/issues/310), [Thorin-Oakenpants](https://github.com/Thorin-Oakenpants)
 - [API is currently always returning a 503 error triggered, the Cloudflare protection](https://github.com/ICObench/data-api/issues/7), [TiesdeKok](https://github.com/TiesdeKok)
 - [Add an option to stop trusting Cloudflare certificate](https://github.com/mozilla-mobile/focus-android/issues/1743), [StopMITMInternational](https://github.com/StopMITMInternational)
