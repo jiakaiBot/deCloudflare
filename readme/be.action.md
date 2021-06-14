@@ -388,7 +388,7 @@ die();
 
 - [Калі вы хочаце выкарыстоўваць DNS, які не з'яўляецца правайдэрам Інтэрнэту, разгледзіце магчымасць выкарыстання DN-службы OpenNIC Tier2 альбо любой DNS-службы, якая не з'яўляецца Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Блакуйце Cloudflare з DNS. [Crimeflare DNS](https://dns.crimeflare.eu.org/)
+  - Блакуйце Cloudflare з DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
 
 - Вы можаце выкарыстоўваць Tor як разгадчык DNS. [Калі вы не эксперт Tor, задайце пытанне тут.](https://tor.stackexchange.com/)
 
