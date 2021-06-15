@@ -1245,6 +1245,7 @@ Do not create new issue or we will close it as duplicate.
 | [EcchiTien@twitter.com](https://twitter.com/EcchiTien/status/1380172764078768128) | moral (advertise Cloudflare) |
 | [ECcrasci@twitter.com](https://twitter.com/ECcrasci/status/1376228756952469505) | moral (advertise CloudFlare) |
 | [Eddie086666@twitter.com](https://twitter.com/Eddie086666/status/1391423420689047565) | moral (advertise Cloudflare) |
+| [edgaredm08@twitter.com](https://twitter.com/edgaredm08/status/1404677014619971587) | moral (advertise Cloudflare) |
 | [edgeday@twitter.com](https://twitter.com/edgeday/status/1382916112199782404) | moral (advertise Cloudflare) |
 | [editing_hero@twitter.com](https://twitter.com/editing_hero/status/1370248075189448711) | moral (advertise CloudFlare) |
 | [edm_thien@twitter.com](https://twitter.com/edm_thien/status/1400004176311046144) | moral (advertise Cloudflare) |
