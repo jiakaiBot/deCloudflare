@@ -29,6 +29,7 @@
   - [How many % of fast food restaurants are using Cloudflare?](cloudflared_fastfood.md)
   - [How many % of adverts and trackers are using Cloudflare?](cloudflared_adverts.md)
   - [How many % of pornographic domains are using Cloudflare?](cloudflared_pornography.md)
+  - [How many % of disposable email domains are using Cloudflare?](cloudflared_disposable_email.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
