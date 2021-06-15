@@ -15,3 +15,20 @@ The current Ss logo resembles an umbrella. Developers said that they want to pro
 
 
 ![](../image/ssprotect.jpg)
+
+
+
+### About _.onion_ certificate warning
+
+Tor Browser user may see this warning on first visit.
+
+```
+Warning: Potential Security Risk Ahead
+
+Tor Browser detected a potential security threat and did not continue.
+Someone could be trying to impersonate the site and you should not continue.
+```
+
+You can ignore this warning because onion service is [already encrypted](https://community.torproject.org/onion-services/overview/).
+There are multiple reasons to use HTTPS over Tor.
+At the moment the only way to get a _trusted_ SSL certificate for a .onion domain is to buy an EV (extended validation) certificate.
