@@ -1,4 +1,4 @@
-## {{{WIP}}} How many % of pornographic domains are using Cloudflare?
+## How many % of pornographic domains are using Cloudflare?
 
 
 We downloaded the pornhosts list from [here](https://github.com/Clefspeare13/pornhosts/blob/master/0.0.0.0/hosts).
@@ -7,8 +7,8 @@ Here's the result.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | xxx |
-| Normal | xxx |
+| Cloudflare | 2,046 |
+| Normal | 4,746 |
 
 
-### xx.x% of pornographic domains are using Cloudflare.
+### 30.1% of pornographic domains are using Cloudflare.
