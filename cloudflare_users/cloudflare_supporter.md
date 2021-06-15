@@ -1982,6 +1982,7 @@ Do not create new issue or we will close it as duplicate.
 | [itsmeruelvt@twitter.com](https://twitter.com/itsmeruelvt/status/1394999358026780680) | moral (advertise Cloudflare) |
 | [ItsSimplyBelle@twitter.com](https://twitter.com/ItsSimplyBelle/status/1397995563812073476) | moral (advertise Cloudflare) |
 | [ITSystemsAdmin@twitter.com](https://twitter.com/ITSystemsAdmin/status/1373030532469112834) | moral (advertise CloudFlare) |
+| [its_bimbima@twitter.com](https://twitter.com/its_bimbima/status/1404597353076596737) | moral (advertise Cloudflare) |
 | [iturle_lilery@twitter.com](https://twitter.com/iturle_lilery/status/1384847338875801608) | moral (advertise Cloudflare) |
 | [itx3010@twitter.com](https://twitter.com/itx3010/status/1382043714714021893) | moral (advertise Cloudflare) |
 | [itzSenPaiii@twitter.com](https://twitter.com/itzSenPaiii/status/1382434870757109763) | moral (advertise Cloudflare) |
