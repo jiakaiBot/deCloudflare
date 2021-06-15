@@ -1957,6 +1957,7 @@ Do not create new issue or we will close it as duplicate.
 | [Inspirit_134340@twitter.com](https://twitter.com/Inspirit_134340/status/1384521918397632517) | moral (advertise Cloudflare) |
 | [inunglon@twitter.com](https://twitter.com/inunglon/status/1381237487075356678) | moral (advertise Cloudflare) |
 | [Inutoto1@twitter.com](https://twitter.com/Inutoto1/status/1378980389822230529) | moral (advertise Cloudflare) |
+| [in_fluk@twitter.com](https://twitter.com/in_fluk/status/1404661393949876226) | moral (advertise Cloudflare) |
 | [iqbalbirrul@twitter.com](https://twitter.com/iqbalbirrul/status/1401703605950828548) | moral (advertise Cloudflare) |
 | [irafaj_ila@twitter.com](https://twitter.com/irafaj_ila/status/1402692024067936260) | moral (advertise Cloudflare) |
 | [Irfankh04933214@twitter.com](https://twitter.com/Irfankh04933214/status/1398707064839548929) | moral (advertise Cloudflare) |
@@ -2099,6 +2100,7 @@ Do not create new issue or we will close it as duplicate.
 | [jlamp_235@twitter.com](https://twitter.com/jlamp_235/status/1382663818568814597) | moral (advertise Cloudflare) |
 | [JLSosaJr@twitter.com](https://twitter.com/JLSosaJr/status/1382253002765991940) | moral (advertise Cloudflare) |
 | [jmconfuzeus@twitter.com](https://twitter.com/jmconfuzeus/status/1378625177022423040) | moral (advertise Cloudflare) |
+| [JN0GIN@twitter.com](https://twitter.com/JN0GIN/status/1404648361060413441) | moral (advertise Cloudflare) |
 | [Jobin99546177@twitter.com](https://twitter.com/Jobin99546177/status/1401628047825059841) | moral (advertise Cloudflare) |
 | [jocker263199@twitter.com](https://twitter.com/jocker263199/status/1396118797484953605) | moral (advertise Cloudflare) |
 | [JoE67626197@twitter.com](https://twitter.com/JoE67626197/status/1385257563546034176) | moral (advertise Cloudflare) |
@@ -3670,6 +3672,7 @@ Do not create new issue or we will close it as duplicate.
 | [nipos@github.com](https://github.com/nipos) | moral (vandalism on Wiki & called CFT as "anti-cloudflare rant shit") |
 | [nipos@social.avareborn.de](https://social.avareborn.de/@nipos) | moral (see nipos@github.com) |
 | [Nira85437917@twitter.com](https://twitter.com/Nira85437917/status/1402295950945759237) | moral (advertise Cloudflare) |
+| [Nirajso81165014@twitter.com](https://twitter.com/Nirajso81165014/status/1404662618174869507) | moral (advertise Cloudflare) |
 | [NischalSkanda@twitter.com](https://twitter.com/NischalSkanda/status/1399634499730763778) | moral (advertise Cloudflare) |
 | [nishadhossein@twitter.com](https://twitter.com/nishadhossein/status/1385312938945257473) | moral (advertise Cloudflare) |
 | [nishanthguntu@twitter.com](https://twitter.com/nishanthguntu/status/1378004004580458496) | moral (advertise CloudFlare) |
