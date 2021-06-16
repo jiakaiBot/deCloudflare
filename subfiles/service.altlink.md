@@ -32,6 +32,7 @@ This is `opt-in` service.
   - Let us know if above account is censored by aggressive Cloudflare supporters.
 - AL don't read direct messages. e.g. `@AL hey read me`
   - If you have something to say, create new Issue for public discussion.
+- ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
 - ↳ [Shared on Mastodon](shared_on_mastodon.md)
 
 <a rel="me" href="https://mamot.fr/@altlink"></a>
