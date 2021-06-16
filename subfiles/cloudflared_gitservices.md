@@ -184,6 +184,7 @@ Here's a list of public Git services.
 | git.timshome.page | No |
 | git.tldp.org | No |
 | git.trackcars.org | No |
+| git.tt-rss.org | Yes |
 | git.user7er0.duckdns.org | Yes |
 | git.usercode.de | No |
 | git.vpn.ddkfm.de | Yes |
@@ -304,7 +305,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 52 |
-| Normal | 216 |
+| Normal | 217 |
 
 
-### 19.4% of public Git services are using Cloudflare.
+### 19.3% of public Git services are using Cloudflare.
