@@ -349,6 +349,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 - [getting cloudflare page](https://github.com/zhkrb/cloudflare-scrape-Android/issues/26)
 - [Cloudflare blocking scraping](https://github.com/leoncvlt/blinkist-scraper/issues/46)
+- [Are you using Gitea behind CloudFlare?](https://github.com/go-gitea/gitea/pull/14098)
 - [Application was being blocked by cloudflare](https://github.com/Supergamer5465/Helix-Raid-Tool/pull/2)
 - [Detect Cloudflare blocking and return an error](https://github.com/pqml/prismarine-tokens/issues/6)
 - [Blocked in websites using cloudflares](https://github.com/guardianproject/orbot/issues/429)
