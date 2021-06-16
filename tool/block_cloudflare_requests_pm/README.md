@@ -1,4 +1,4 @@
-## Block Cloudflare Requests
+## Block Cloudflare Requests (Palemoon)
 
 `Cancel requests to Cloudflare sites`
 
