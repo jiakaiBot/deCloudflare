@@ -7,6 +7,15 @@
 
 
 
+- All servers are with Linode in London, I don't know if something between your network and Linode London went down. ([amityweb](https://twitter.com/amityweb/status/1400399871912419336))
+- lol wat. Ich bin mit meinem Account bei Crunchyroll angemeldet, und CloudFlare gibt mir trotzdem ein Captcha... Schau ich wirklich so viel Anime in letzter Zeit? ([sigmasternchen](https://twitter.com/sigmasternchen/status/1403476232789016577))
+- I had 300 domain. All are behind cloudflare's captcha😔😔 It takes 4 attempts for verification😭😭😭 ([mechboy_](https://twitter.com/mechboy_/status/1400838412605681664))
+- Oh hoy! why cant i open Support tickets to report players? I get 403 Cloudflare error... ([fiskevikingen](https://twitter.com/FiskeVikingen/status/1403754430273556480))
+- Shopify is out of service? Getting error- 503 Service Temporarily Unavailable cloudflare-nginx ShopifyUnite ([shopboxdeals](https://twitter.com/shopboxdeals/status/1403395058620157952))
+- Same, 503 Cloudflare error for everything including trying to download an old product report link via email. 503 on storefront & admin. ([joshcharlemagne](https://twitter.com/JoshCharlemagne/status/1403383616630099969))
+- So everyone touts being safe online. Use a VPN, they say… But it seems like all these companies that you would think want you to be secure, block your VPN with things such as Cloudflare. ([nurvdamage](https://twitter.com/NurvDamage/status/1404808636636053515))
+- Yes, it seems the VPN I use has raised security red flags for many sites I've tried to visit. ([david__moser](https://twitter.com/david__moser/status/1404425072119410691))
+- CloudFlare ofrece un servicio excelente a un precio inigualable. Pero... cómo? Por que en vez de con plata pagás con tu privacidad: les das un MITM a tus servidores. No gracias. ([notgoogled](https://twitter.com/NotGoogled/status/1403128128709578753))
 - Cloudflare believes that there are better ways than CAPTCHA to prove that you are human online. ([trumpsystems](https://twitter.com/TrumpSystems/status/1404808669112541192))
 - As Cloudflare I want to.. Use hCaptcha for my anti-bot product So.. The captcha will be broken all the time or, in best case, will be asking you to match some garbage images of boats, which are even worse than reCaptcha's, multiple times in a row, claiming you solved it wrong ([sominemo](https://twitter.com/sominemo/status/1404351296736538627))
 - As a - website creator I want to.. - set a Cloudflare captcha on my website So.. - people on shared IPs with low reputation will be asked to solve a captcha every time on every single website multiple times a day before even accessing content ([sominemo](https://twitter.com/sominemo/status/1404350309443514368))
