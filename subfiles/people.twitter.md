@@ -7,6 +7,14 @@
 
 
 
+- Cloudflare believes that there are better ways than CAPTCHA to prove that you are human online. ([trumpsystems](https://twitter.com/TrumpSystems/status/1404808669112541192))
+- As Cloudflare I want to.. Use hCaptcha for my anti-bot product So.. The captcha will be broken all the time or, in best case, will be asking you to match some garbage images of boats, which are even worse than reCaptcha's, multiple times in a row, claiming you solved it wrong ([sominemo](https://twitter.com/sominemo/status/1404351296736538627))
+- As a - website creator I want to.. - set a Cloudflare captcha on my website So.. - people on shared IPs with low reputation will be asked to solve a captcha every time on every single website multiple times a day before even accessing content ([sominemo](https://twitter.com/sominemo/status/1404350309443514368))
+- eu n sei e tipo uma lista de ips que sao "maliciosos" coisa do tipo pq eu to tendo um problema aparecendo captcha da cloudflare toda vez qaue vou acessar certos sites, eu pesquisei e possivelmente e relacionado a uma blacklist la ([crystlcstles](https://twitter.com/crystlcstles/status/1402295126219763713))
+- Cloudflare down in Australia? A client's website is not accessible unless bypass Cloudflare proxy. ([liewcf](https://twitter.com/liewcf/status/1404528839477186563))
+- 梅雨入り html headtitle525 Origin SSL Handshake Error/title/head body bgcolor="white" centerh1525 Origin SSL Handshake Error/h1/center hrcentercloudflare-nginx/center /body /html ([isshin_housing](https://twitter.com/isshin_housing/status/1404612703541350400))
+- yes. website returns cloudflare 522 error. turn off cloudflare proxy and the website is working fine. ([liewcf](https://twitter.com/liewcf/status/1404524550860132352))
+- Hey getting a 504 error from cloudflare for your site. ([medic642](https://twitter.com/medic642/status/1404458070177103873))
 - hi, is your website down? I'm trying to book tickets but have been getting CloudFlare 'access denied' error 1020 all morning 😢 ([charliehrysmith](https://twitter.com/charliehrysmith/status/1404024210687672323))
 - Your website appears to be down with a Cloudflare Error 1020 cloudflaredown odeondown ([theatrecrafts](https://twitter.com/theatrecrafts/status/1403719965841276928))
 - 2/2 so I hit refresh enough to get back onto the site, the 3070 I had in my cart is out of stock. Oh, and the entire time I have to hit refresh every time I click something cause of the stupid Cloudflare error. Thanks for nothing ([ahobopanda](https://twitter.com/AHoboPanda/status/1403518296285143041))
