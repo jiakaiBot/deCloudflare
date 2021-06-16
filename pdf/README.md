@@ -6,6 +6,7 @@
 |  ---  |  ---  |
 | 2004 | [Punishing the Innocent along with the Guilty The Economics of Individual versus Group Punishment](2004-Punishing_the_Innocent_along_with_the_Guilty_The_Economics_of_Individual_versus_Group_Punishment.pdf) |
 | 2004 | [Tor The Second-Generation Onion Router](2004-Tor_The_Second-Generation_Onion_Router.pdf) |
+| 2006 | [Locating Hidden Servers](2006-Locating_Hidden_Servers.pdf) |
 | 2006 | [Practical Onion Hacking Finding the real address of Tor clients](2006-Practical_Onion_Hacking_Finding_the_real_address_of_Tor_clients.pdf) |
 | 2006 | [UK NISCC Telecommunications Resilience](2006-UK_NISCC_Telecommunications_Resilience.pdf) |
 | 2008 | [Robust De-anonymization of Large Sparse Datasets](2008-Robust_De-anonymization_of_Large_Sparse_Datasets.pdf) |
@@ -47,6 +48,7 @@
 | 2017 | [Website Fingerprinting Defenses at the Application Layer](2017-Website_Fingerprinting_Defenses_at_the_Application_Layer.pdf) |
 | 2018 | [403 Forbidden A Global View of CDN Geoblocking](2018-403_Forbidden_A_Global_View_of_CDN_Geoblocking.pdf) |
 | 2018 | [Cloud Security Basics](2018-Cloud_Security_Basics.pdf) |
+| 2018 | [DeepCorr Strong Flow Correlation Attacks on Tor Using Deep Learning](2018-DeepCorr_Strong_Flow_Correlation_Attacks_on_Tor_Using_Deep_Learning.pdf) |
 | 2018 | [Dropping on the Edge Flexibility and Traffic Confirmation in Onion Routing Protocols](2018-Dropping_on_the_Edge_Flexibility_and_Traffic_Confirmation_in_Onion_Routing_Protocols.pdf) |
 | 2018 | [EUROPEAN COMMISSION STAFF WORKING DOCUMENT Counterfeit and Piracy Watch List](2018-EUROPEAN_COMMISSION_STAFF_WORKING_DOCUMENT_Counterfeit_and_Piracy_Watch_List.pdf) |
 | 2018 | [Robust Website Fingerprinting Through the Cache Occupancy Channel](2018-Robust_Website_Fingerprinting_Through_the_Cache_Occupancy_Channel.pdf) |
