@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare results are irrelevant to privacy seekers. There is plenty of choice for privacy-ambivilous users (Google, DuckDuckGo, Bing, Yahoo DDG is falsely positioned). Filtering CF sites doesn't need a site index, just CIDRs. Ss filters out CF sites just fine, and that's basically a garage operation on a shoestring budget. ([resist1984](https://social.privacytools.io/@resist1984/106415749894529474))
 - There has to be a better way to solicit donations from those who don't want to be tracked or have their data exploited than to send donors to privacy abusing sites in the very same post. All of those options are privacy abusing except (perhaps) bunq.me. PayPal: shares data w/600+ companies; patreon, liberapay, opencollective: all tor-hostile Cloudflare sites; ko-fi: blocks Tor. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106369463181760974))
 - Aparentemente, quem solicitar um pedido de agendamento para vacinação contra o COVID-19, terá de partilhar (uma vez mais) os seus dados pessoais com a Cloudflare. ([privacylx](https://social.privacytools.io/@PrivacyLX/106389113761332276))
 - ist down und das hat Auswirkungen auf Deddit, GitHub, PayPal, Amazon & Co., So viel zum dezental'em Internet, die eigentlichen Schaltzentralen und Gatekeeper sind u.a. die CDN Netzwerke wie eben erwähnte fastly oder CloudFlare.Eng. ([kubikpixel](https://chaos.social/@kubikpixel/106374946000819862))
