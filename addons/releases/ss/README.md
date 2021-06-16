@@ -1,3 +1,5 @@
+- For more information please go to Sercxi.
+
 ```
 MIT License
 
