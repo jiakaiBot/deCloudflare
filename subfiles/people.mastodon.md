@@ -7,6 +7,8 @@
 
 
 
+- InternetArchive has been down most of the day now. For Tor users who refuse to connect to Cloudflare sites that means ~34% of the web is unreachable. ([resist1984](https://social.privacytools.io/@resist1984/106416671893542340))
+- At the very least, the free world is well outside of the jailed walled-garden of Cloudflare ("CF"). ([resist1984](https://social.privacytools.io/@resist1984/106415974049430218))
 - There has to be a better way to solicit donations from those who don't want to be tracked or have their data exploited than to send donors to privacy abusing sites in the very same post. All of those options are privacy abusing except (perhaps) bunq.me. PayPal: shares data w/600+ companies; patreon, liberapay, opencollective: all tor-hostile Cloudflare sites; ko-fi: blocks Tor. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106369463181760974))
 - Aparentemente, quem solicitar um pedido de agendamento para vacinação contra o COVID-19, terá de partilhar (uma vez mais) os seus dados pessoais com a Cloudflare. ([privacylx](https://social.privacytools.io/@PrivacyLX/106389113761332276))
 - ist down und das hat Auswirkungen auf Deddit, GitHub, PayPal, Amazon & Co., So viel zum dezental'em Internet, die eigentlichen Schaltzentralen und Gatekeeper sind u.a. die CDN Netzwerke wie eben erwähnte fastly oder CloudFlare.Eng. ([kubikpixel](https://chaos.social/@kubikpixel/106374946000819862))
