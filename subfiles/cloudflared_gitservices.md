@@ -27,7 +27,6 @@ Here's a list of public Git services.
 
 | Site | Cloudflared |
 | --- | --- |
-| git.ironbug.org | No |
 | 0xacab.org | No |
 | allthe.codes | No |
 | auth.doeber.nl | No |
@@ -112,6 +111,7 @@ Here's a list of public Git services.
 | git.iamthefij.com | Yes |
 | git.imrc.kist.re.kr | No |
 | git.internal.services.oscarchou.com | No |
+| git.ironbug.org | No |
 | git.it-neuhauser.de | No |
 | git.ita-ausbildung.de | No |
 | git.ixarea.com | No |
