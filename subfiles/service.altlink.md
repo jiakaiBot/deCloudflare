@@ -23,7 +23,8 @@ This is `opt-in` service.
 > Unsubscribe
 
 1. Just `block` or `mute` AL's account on your side.
-  - Optionally, unfollow AL account. AL will unfollow you in the future.
+  - AL do not attempt to re-follow you.
+  - If you've changed your mind and want to subscribe(opt-in) again, `unfollow` AL and `follow` again.
 
 
 ---
