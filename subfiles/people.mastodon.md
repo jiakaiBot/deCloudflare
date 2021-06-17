@@ -7,6 +7,7 @@
 
 
 
+- It's disturbing that the FrightfulFive excludes Cloudflare. It's easy to give up Apple & Google compared to CF. A boycott on CF would mean giving up the right to vote for Americans in 10% of the country. How many other tech giants stand in the way of something as basic and essential as voting in elections? ([resist1984](https://social.privacytools.io/@resist1984/106422851350267117))
 - InternetArchive has been down most of the day now. For Tor users who refuse to connect to Cloudflare sites that means ~34% of the web is unreachable. ([resist1984](https://social.privacytools.io/@resist1984/106416671893542340))
 - At the very least, the free world is well outside of the jailed walled-garden of Cloudflare ("CF"). ([resist1984](https://social.privacytools.io/@resist1984/106415974049430218))
 - Aparentemente, quem solicitar um pedido de agendamento para vacinação contra o COVID-19, terá de partilhar (uma vez mais) os seus dados pessoais com a Cloudflare. ([privacylx](https://social.privacytools.io/@PrivacyLX/106389113761332276))
