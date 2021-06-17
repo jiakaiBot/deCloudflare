@@ -7,6 +7,9 @@
 
 
 
+- getting Internal server error when trying to load DNS records. All good? cloudflare ([husainbasrawala](https://twitter.com/husainbasrawala/status/1405144121170436099))
+- my website is down. I can't get signed in on your website. "Error 523 occurs when Cloudflare cannot contact your origin web server. This typically occurs when a network device between Cloudflare and the origin web server doesn’t have a route to the origin’s IP address. ([thatsusanw](https://twitter.com/thatSusanW/status/1405234136353214473))
+- Check your DNS Settings. A 523 error means that Cloudflare could not reach your host web server. The most common cause is that your DNS settings are incorrect. Contact your hosting provider to confirm your origin IP and then make sure the correct IP is listed. ([cj_reed](https://twitter.com/CJ_Reed/status/1405123015831179265))
 - All servers are with Linode in London, I don't know if something between your network and Linode London went down. ([amityweb](https://twitter.com/amityweb/status/1400399871912419336))
 - lol wat. Ich bin mit meinem Account bei Crunchyroll angemeldet, und CloudFlare gibt mir trotzdem ein Captcha... Schau ich wirklich so viel Anime in letzter Zeit? ([sigmasternchen](https://twitter.com/sigmasternchen/status/1403476232789016577))
 - I had 300 domain. All are behind cloudflare's captcha😔😔 It takes 4 attempts for verification😭😭😭 ([mechboy_](https://twitter.com/mechboy_/status/1400838412605681664))
