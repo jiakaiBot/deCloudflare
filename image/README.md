@@ -3,7 +3,6 @@
 
 ---
 
-<details><summary> &#128444; </summary>
 
 | &#128444; | &#128444; | &#128444; | &#128444; |
 | --- | --- | --- | --- |
@@ -53,4 +52,3 @@
 | ![](altlink_sample.jpg) | ![](ss-sercxi.png) | ![](dnsset-doh.jpg) | ![](dnsset-dot.jpg) |
 | ![](omsredjs.jpg) |  |  |  |
 
-</details>
