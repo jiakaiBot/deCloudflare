@@ -3,6 +3,12 @@
 - ↳ [Cloudflare supporters](../cloudflare_users/cloudflare_supporter.md)
 
 
+In early 2013, Cloudflare deleted the surnames from their "_our gang_" page.
+
+Are they ashamed? Or paranoid?
+
+Or is this merely a case of simple modesty?
+
 ![](../image/modestemployees.jpg)
 
 
@@ -40,7 +46,7 @@
 | Alexandra Modiana | Employee | ![](../image/gang/60d0ff8992b7a2f945419c1bd44c29d5193d3668.jpg) |
 | Prudhvi Ratna | Employee | ![](../image/gang/e3d12662aba221cda24b8bd270c26989ce7c1470.jpg) |
 | Yuet Wai | Employee | ![](../image/gang/5b5d23e7c3d852c19d4e00fe15412625bb252488.jpg) |
-| John Charles | Employee | ![](../image/gang/36fee77c1b0ac385b16e5fd9c05658c92076ed2e.jpg) |
+| John Charles | Employee |  |
 | Flora Lee | Employee | ![](../image/gang/e61a09f44fe965433dc2a36bea1ba0e4e969b214.jpg) |
 | Petre Gabriel | Employee | ![](../image/gang/9c6c26d1c4f32e325f5ba257e54e375a111f8063.jpg) |
 | Kia Liang | Employee | ![](../image/gang/a5c06aaffa4b7d2356714110fa0e801fc6f140a8.jpg) |
