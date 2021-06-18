@@ -1018,6 +1018,7 @@
 |  | Mary Mac Williams | Event Coordinator |  |
 |  | Masa Aoba | Head of Cloudflare office in Japan | |
 |  | Mat Henley | Director of Security |  |
+|  | Mathew Jacob | Employee | |
 |  | Matt Alberts | Employee |  |
 |  | Matt Allie | Solutions Engineer |  |
 |  | Matt Alonso | Developer Experience Team Intern |  |
