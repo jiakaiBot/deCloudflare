@@ -7,6 +7,7 @@
 
 
 
+- I'm having a problem. when I open Discord, it says "Error 1105, You've requested a page on a website that is on the Cloudflare network. this page could not be rendered due to a temporary fault." please fix this. ([quiter44](https://twitter.com/quiter44/status/1405552294079471616))
 - getting Internal server error when trying to load DNS records. All good? cloudflare ([husainbasrawala](https://twitter.com/husainbasrawala/status/1405144121170436099))
 - my website is down. I can't get signed in on your website. "Error 523 occurs when Cloudflare cannot contact your origin web server. This typically occurs when a network device between Cloudflare and the origin web server doesn’t have a route to the origin’s IP address. ([thatsusanw](https://twitter.com/thatSusanW/status/1405234136353214473))
 - Check your DNS Settings. A 523 error means that Cloudflare could not reach your host web server. The most common cause is that your DNS settings are incorrect. Contact your hosting provider to confirm your origin IP and then make sure the correct IP is listed. ([cj_reed](https://twitter.com/CJ_Reed/status/1405123015831179265))
