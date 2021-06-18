@@ -18,6 +18,8 @@ This is `opt-in` service.
 
 3. When you post Cloudflared link, AL will send `direct` message to you with information.
   - `Boosts` will be ignored.
+  - Direct messages older than 7 days will be deleted.
+    - There is no good reason to keep old toots online.
 
 
 > Unsubscribe
