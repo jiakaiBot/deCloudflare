@@ -18,7 +18,7 @@
 | Mark Anderson | Director | ![](../image/gang/163a21be42a512c89322fd46b3c03300.jpg) |
 | Matthew Prince | CEO | ![](../image/gang/154f2ec6f175845f9fc7706341cbbaba.jpg)<br>https://twitter.com/eastdakota<br>matthew@cloudflare.com |
 | Michelle Zatlyn | founder | ![](../image/gang/8ee50872f3d5a657749c3d73d8bb249d.jpg)<br>https://twitter.com/zatlyn<br>https://www.linkedin.com/in/michellezatlyn |
-| Scott Sandell | ![](../image/gang/f8119cadc0c2013dcb0c13956d163ec7.jpg)<br>New Enterprise Associates |  |
+| Scott Sandell | New Enterprise Associates | ![](../image/gang/f8119cadc0c2013dcb0c13956d163ec7.jpg) |
 | Stan Meresman | Director | ![](../image/gang/e71dc4b328a9bc17c63de7f7e2720dd2.jpg)<br>https://www.linkedin.com/in/stanmeresman<br>stan@meresman.com<br>http://meresman.com/ |
 
 
@@ -29,6 +29,44 @@
 
 | Name | Title | Else |
 | --- | --- | --- |
+| Pei Ching | Employee | ![](../image/gang/b5d168c6e7d60fae34ea9dbc701ab581607fc72f.jpg) |
+| Prem Raj | Employee | ![](../image/gang/dca35f58036e3aa9f000f7d17c3700d85217ffea.jpg) |
+| Ravi Kiran | Employee | ![](../image/gang/3aa8ee9b57d9cf1a1a81fae807554044c00fea94.jpg) |
+| Ulrik Aurelius Alaric Theonestus | Employee | ![](../image/gang/f7c7d0e6601e6840ec4c23b7864d92bd2f4eb81a.jpg) |
+| Jon Patrick | Employee | ![](../image/gang/e49d72260aafb811384e578882d1fff6464e6ada.jpg) |
+| Ekaterina Alexandrovna | Employee | ![](../image/gang/d2b905dabf6bd7645d48587c6fa3b23454b0c60a.jpg) |
+| J Salvador | Employee | ![](../image/gang/89b1eb233f72e255a397220e71d33b3045ed4c9c.jpg) |
+| Sze Chuen | Employee | ![](../image/gang/570a7008a610c8c2124d162cc08b0ed387c1f505.jpg) |
+| Alexandra Modiana | Employee | ![](../image/gang/60d0ff8992b7a2f945419c1bd44c29d5193d3668.jpg) |
+| Prudhvi Ratna | Employee | ![](../image/gang/e3d12662aba221cda24b8bd270c26989ce7c1470.jpg) |
+| Yuet Wai | Employee | ![](../image/gang/5b5d23e7c3d852c19d4e00fe15412625bb252488.jpg) |
+| John Charles | Employee | ![](../image/gang/36fee77c1b0ac385b16e5fd9c05658c92076ed2e.jpg) |
+| Flora Lee | Employee | ![](../image/gang/e61a09f44fe965433dc2a36bea1ba0e4e969b214.jpg) |
+| Petre Gabriel | Employee | ![](../image/gang/9c6c26d1c4f32e325f5ba257e54e375a111f8063.jpg) |
+| Kia Liang | Employee | ![](../image/gang/a5c06aaffa4b7d2356714110fa0e801fc6f140a8.jpg) |
+| Yew Yong | Employee | ![](../image/gang/4001607033ed137ca6e6b8d31774909b2bd38965.jpg) |
+| Marco Antonio Dias | Employee | ![](../image/gang/e899523ea1794e4433fc5eefc7af6fad64ff6bc2.jpg) |
+| Naimisha Yadav | Employee | ![](../image/gang/d018c0289bd91f7c3670d1c75f97341ce64bcf3a.jpg) |
+| João Paulo | Employee | ![](../image/gang/5ffb266a78364fd00f62d330f721ed199bd7c930.jpg) |
+| Julie Agnes | Employee | ![](../image/gang/a610b496525289da49457fc9662e9dc1de20956a.jpg) |
+| Oscar Kurniawan | Employee | ![](../image/gang/cfd2295bda1162decff0eaa115f0d0c689f86373.jpg) |
+| Shrenik Jayendra | Employee | ![](../image/gang/12b20a2f2f1e84c400c60890572803986c9feb5d.jpg) |
+| Doria Eve | Employee | ![](../image/gang/041c4ce25f93e4d4d7a9f0c8c8ead28872f4422c.jpg) |
+| Jianyi Kenny | Employee | ![](../image/gang/8a4be5b6d4596449e5de2c0f3a147673ce528361.jpg) |
+| Kalyan Sai | Employee | ![](../image/gang/bfcf90fcaaa69ce936940e92eddacd7d56b5fcae.jpg) |
+| Julien Yohan Jean | Employee | ![](../image/gang/bf1604dcab1e8977a1eddc474669559af286330a.jpg) |
+| Naga Pavan | Employee | ![](../image/gang/4859f92612f919f3296a9fd5066b6aa0199420f1.jpg) |
+| Rodrigo de Souza | Employee | ![](../image/gang/c46ff3cb8142a06f9357dad048949d4d249d6b0b.jpg) |
+| Maria Sofia | Employee | ![](../image/gang/267a7930551c4931b5d92accb641411d7ad01e4a.jpg) |
+| Windy Faith | Employee | ![](../image/gang/d4112965faac26e2f4ad198fc55ba3a0324fcb53.jpg) |
+| Weronika Maria | Employee | ![](../image/gang/163c0d17218e98403d2205e9fc6817b08aac1959.jpg) |
+| Ga Sil | Employee | ![](../image/gang/884adc54511590134eb34b26d85659954e3c94a8.jpg) |
+| Dharani Teja | Employee | ![](../image/gang/0cc759add6cfbce85ad3b560beb196296c31eadf.jpg) |
+| Bhanu Teja | Employee | ![](../image/gang/feaaa8aac436357964329af581babe87d87d443c.jpg) |
+| Putri Emas | Employee | ![](../image/gang/8f828046ae756f61b24bbcaead7984d6f74ac5c4.jpg) |
+| Venkat Chaithanya | Employee | ![](../image/gang/8f9c66f7e64c2d124b413561b0a52ac24a66d1e1.jpg) |
+| Sups (so͞ops) | Employee | ![](../image/gang/4fe6d50777e23199e524c74d556fb7df288d4ccb.jpg) |
+| Riddhi Milind | Employee | ![](../image/gang/939b597d9e5a94ed89200e6e2a459d8326c1dce5.jpg) |
 | Darth SriBear | Employee | ![](../image/gang/3c8ac4c448d7dc38f48da73a4a4660fc.jpg) |
 | Huey Min Wong | Office Specialist | ![](../image/gang/4c98a47c053b5c03ca445c16692fca71.jpg) |
 | Arun Rex | Employee | ![](../image/gang/7d91ae600977be4dd585515badc0a470.jpg) |
