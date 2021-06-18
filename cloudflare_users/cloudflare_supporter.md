@@ -675,6 +675,7 @@ Do not create new issue or we will close it as duplicate.
 | [BashaBa71391325@twitter.com](https://twitter.com/BashaBa71391325/status/1384809106226106371) | moral (advertise Cloudflare) |
 | [basra_rests@twitter.com](https://twitter.com/basra_rests/status/1392994649862774784) | moral (advertise Cloudflare) |
 | [Basuki_null@twitter.com](https://twitter.com/Basuki_null/status/1394215228364115970) | moral (advertise Cloudflare) |
+| [bay_yellk@twitter.com](https://twitter.com/bay_yellk/status/1405940589284233220) | moral (advertise Cloudflare) |
 | [ba_gyee@twitter.com](https://twitter.com/ba_gyee/status/1393872315771850752) | moral (advertise Cloudflare) |
 | [bbbbba911@twitter.com](https://twitter.com/bbbbba911/status/1402935512663535618) | moral (advertise Cloudflare) |
 | [Bbin23638730@twitter.com](https://twitter.com/Bbin23638730/status/1386172036981006336) | moral (advertise Cloudflare) |
