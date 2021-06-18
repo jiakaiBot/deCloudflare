@@ -5,6 +5,8 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-06-17: [Lisbon and Toronto datacenters increase in errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1yz6wmypbmb9)
+- 2021-06-17: [Increased HTTP 522 Errors in Bangalore, Kolkata, Mumbai, and Nagpur, India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b0k69dy2dwkh)
 - 2021-06-16: [Elevated number of 502 errors in KIX Osaka](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qj2z5n6r8x3b)
 - 2021-06-16: [Network Performance Issues in Ashburn](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pm47ddqr9spc)
 - 2021-06-10: [Load Balancer Notification Email Delivery Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mn1pn7115t8z)
