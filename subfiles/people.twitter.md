@@ -7,6 +7,10 @@
 
 
 
+- I'm getting an error from Cloudflare saying that your website is down ([mcarson75](https://twitter.com/mcarson75/status/1406331451319144451))
+- Looks like a cloudflare error if they use cloudflare because LHR seems to indicate the London datacentre ([nickevansdev](https://twitter.com/nickevansdev/status/1405815997135790083))
+- So python-requests kept getting the Cloudflare CAPTCHA page, but repeating the exact same request over a custom TCP connection was allowed through. Turns out urllib3 sets OPNOTICKET in its SSLContext, and the Cloudflare bot protection system Does Not Like that. ([gray69798502](https://twitter.com/gray69798502/status/1405828423923154946))
+- According to data from Cloudflare, we spend about 500 years of our lives every day proving that we are not a robot. CAPTCHA has been with us for many years and we haven't come up with anything better at the moment Innovations technology ([biszop15](https://twitter.com/biszop15/status/1405784480745394176))
 - I'm having a problem. when I open Discord, it says "Error 1105, You've requested a page on a website that is on the Cloudflare network. this page could not be rendered due to a temporary fault." please fix this. ([quiter44](https://twitter.com/quiter44/status/1405552294079471616))
 - getting Internal server error when trying to load DNS records. All good? cloudflare ([husainbasrawala](https://twitter.com/husainbasrawala/status/1405144121170436099))
 - my website is down. I can't get signed in on your website. "Error 523 occurs when Cloudflare cannot contact your origin web server. This typically occurs when a network device between Cloudflare and the origin web server doesn’t have a route to the origin’s IP address. ([thatsusanw](https://twitter.com/thatSusanW/status/1405234136353214473))
