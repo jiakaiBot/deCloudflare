@@ -4,7 +4,7 @@
 ![](../image/ss-sercxi.png)
 
 
-**Ss** (other name "_Serĉi_" (_Sercxi_)), previously called _[Searxes](https://web.archive.org/web/20210614033612/https://en.wikipedia.org/w/index.php?title=Searx&oldid=906373508)_, is a search engine website for [Tor](https://www.torproject.org/) users.
+**Ss** (other name "_Serĉi_" (_Sercxi_)), previously called _[Searxes](https://web.archive.org/web/20210614033612/https://en.wikipedia.org/w/index.php?title=Searx&oldid=906373508)_, is the **world's first** deCloudflare search engine website for [Tor](https://www.torproject.org/) users.
 Some people think about [Schutzstaffel](https://en.wikipedia.org/wiki/SS) on first sight but do not get confused; the second letter s is lowercase.
 
 It is fed by quality sources and rank down CloudFlare sites to bottom by default, thus you avoid the risk and inconvenience of having [MITM traps](../README.md) littered throughout search results.
