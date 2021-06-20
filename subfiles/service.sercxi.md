@@ -4,10 +4,10 @@
 ![](../image/ss-sercxi.png)
 
 
-**Ss** (other name "_Serĉi_" (_Sercxi_)), previously called _[Searxes](https://web.archive.org/web/20210614033612/https://en.wikipedia.org/w/index.php?title=Searx&oldid=906373508)_, is the **world's first** deCloudflare search engine website for [Tor](https://www.torproject.org/) users.
-Some people think about [Schutzstaffel](https://en.wikipedia.org/wiki/SS) on first sight but do not get confused; the second letter s is lowercase.
+**Ss** (other name "_Serĉi_" (_Sercxi_)), previously called _[Searxes](https://web.archive.org/web/20210614033612/https://en.wikipedia.org/w/index.php?title=Searx&oldid=906373508)_, is the **world's first anti-cloudflare search engine** website for [Tor](https://www.torproject.org/) users and clearnet users.
+Some people think about [Schutzstaffel](https://en.wikipedia.org/wiki/SS) on first sight but do not get confused; the second letter s is _lowercase_ taken from previous name.
 
-It is fed by quality sources and rank down CloudFlare sites to bottom by default, thus you avoid the risk and inconvenience of having [MITM traps](../README.md) littered throughout search results.
+It is fed by quality sources and rank down Cloudflare sites to bottom by default, thus you avoid the risk and inconvenience of having [MITM traps](../README.md) littered throughout search results.
 You can also open a cached version of the page by clicking the icon of the search result.
 There are many options to choose from for example disabling Cloudflare ranking and rank down known Tor-hostile sites.
 
