@@ -88,7 +88,7 @@
 
 
 **ပိုမိုသိရှိလိုပါက**
-* [deCloudflare Subfiles](../subfiles/README.md)
+* **[deCloudflare Subfiles](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * ဒေါင်းလုပ်: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * မူရင်း eBook (ePUB) ကို CCR ပစ္စည်းမူပိုင်ခွင့်ချိုးဖောက်မှုကြောင့် BookRix GmbH မှဖျက်သိမ်းခဲ့သည်
