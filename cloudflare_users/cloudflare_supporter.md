@@ -6007,6 +6007,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZinWaiH22097818@twitter.com](https://twitter.com/ZinWaiH22097818/status/1395097275282583552) | moral (advertise Cloudflare) |
 | [zinwint81269674@twitter.com](https://twitter.com/zinwint81269674/status/1390122051743076353) | moral (advertise Cloudflare) |
 | [Zinzin69715752@twitter.com](https://twitter.com/Zinzin69715752/status/1377848670075428867) | moral (advertise CloudFlare) |
+| [zitterbewegung@twitter.com](https://twitter.com/zitterbewegung/status/1406711241708556290) | moral (advertise Cloudflare) |
 | [ZiZee92495418@twitter.com](https://twitter.com/ZiZee92495418/status/1390372034241175556) | moral (advertise Cloudflare) |
 | [ZiZu063040@twitter.com](https://twitter.com/ZiZu063040/status/1396780443609886724) | moral (advertise Cloudflare) |
 | [ZJenghpang@twitter.com](https://twitter.com/ZJenghpang/status/1392524591159922689) | moral (advertise Cloudflare) |
