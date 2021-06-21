@@ -88,7 +88,7 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "The Great Cloudwal
 
 
 **Più infurmazione**
-* [deCloudflare Subfiles](../subfiles/README.md)
+* **[deCloudflare Subfiles](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Scaricà: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook originale (ePUB) hè stata eliminata da BookRix GmbH per via di violazione di copyright di materiale CC0
