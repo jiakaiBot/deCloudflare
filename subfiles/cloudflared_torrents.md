@@ -138,13 +138,28 @@ Here's a list of public Torrent and Tracker services.
 | monova.org | Yes |
 | montorrent.com | Yes |
 | myanonamouse.net | No |
+| mypiratebay.best | No |
+| mypiratebay.club | Yes |
+| mypiratebay.co | Yes |
+| mypiratebay.fun | No |
+| mypiratebay.life | No |
+| mypiratebay.me | Yes |
+| mypiratebay.net | Yes |
+| mypiratebay.wtf | Yes |
 | nyaa.si | No |
+| openpirate.cc | Yes |
+| openpirate.org | Yes |
 | otorrents.com | No |
 | p2pbg.com | No |
 | partis.si | Yes |
 | passthepopcorn.me | Yes |
 | pdfbooksworld.com | No |
+| piratebay.icu | Yes |
+| piratebay.life | Yes |
+| piratebay.tech | Yes |
 | pirateiro.com | Yes |
+| pirateproxy.ink | Yes |
+| pirateproxy.surf | Yes |
 | planetebook.com | Yes |
 | publicdomaintorrents.info | No |
 | rarbg.to | No |
@@ -193,6 +208,10 @@ Here's a list of public Torrent and Tracker services.
 | torrentz2.is | Yes |
 | torrentzeu.org | No |
 | totheglory.im | Yes |
+| tpb.bike | Yes |
+| tpb.cool | Yes |
+| tpb.email | Yes |
+| tpb.red | Yes |
 | turktorrent.us | Yes |
 | tv-vault.me | Yes |
 | watchsomuch.com | Yes |
@@ -429,8 +448,8 @@ Here's a list of public Torrent and Tracker services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 122 |
-| Normal | 37 |
+| Cloudflare | 138 |
+| Normal | 40 |
 
 
 - Tracker
@@ -444,7 +463,7 @@ Here's a list of public Torrent and Tracker services.
 ![](../image/warez.jpg)
 
 
-### 76.7% of public Torrent sites are using Cloudflare.
+### 77.5% of public Torrent sites are using Cloudflare.
 ### 43.3% of public Tracker services are using Cloudflare.
 
 
