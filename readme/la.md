@@ -88,7 +88,7 @@ Et hoc promptuario est, quae post tergum album of websites "Magna et Cloudwall",
 
 
 **Informationes plurimae**
-* [deCloudflare Subfiles](../subfiles/README.md)
+* **[deCloudflare Subfiles](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * download: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Et originali Paperback (ePUB) was deleted by BookRix GmbH ex materia CC0 iacturam pati
