@@ -88,7 +88,7 @@ Este repositório é uma lista de sites que estão por trás do "The Great Cloud
 
 
 **Mais Informações**
-* [deCloudflare Subfiles](../subfiles/README.md)
+* **[deCloudflare Subfiles](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Baixar: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * O e-book original (ePUB) foi excluído pela BookRix GmbH devido à violação de direitos autorais do material CC0
