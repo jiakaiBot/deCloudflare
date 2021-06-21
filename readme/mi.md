@@ -88,7 +88,7 @@ Ko tenei kohinga tetahi raarangi o nga paetukutuku kei muri i te "The Cloudwall 
 
 
 **He maha atu nga korero**
-* [deCloudflare Subfiles](../subfiles/README.md)
+* **[deCloudflare Subfiles](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Tikiake: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Ko te eBook taketake (ePUB) i mukua e BookRix GmbH na te whanaketanga o te mana pupuri o te rauemi CC0
