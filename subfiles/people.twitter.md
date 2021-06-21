@@ -7,6 +7,9 @@
 
 
 
+- Dear if I can't see a website from your captcha crap, just because I use trackerblocking in my browser, maybe that website wasn't important. You should either just close your business or figure out something better. It's not the first time when this happens. ([christianbute](https://twitter.com/christianbute/status/1406526505044393985))
+- Error 1020 Ray ID: 6627970e6eee06a2 • 2021-06-20 20:01:37 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 6627970e6eee06a2 • Your IP: 37.120.235.212 • Performance & security by Cloudflare ([robtampa](https://twitter.com/RobTampa/status/1406704324194058240))
+- I'm getting errors trying to access the dashboard. Looks like an overaggressive firewall. Your forums suggest people have been having problems for weeks. (error code: 1020, Ray ID: 66211bdd5cdc1760, Server ID: FL386F21) cc: ([steindavidb](https://twitter.com/steindavidb/status/1406419342875635713))
 - I'm getting an error from Cloudflare saying that your website is down ([mcarson75](https://twitter.com/mcarson75/status/1406331451319144451))
 - Looks like a cloudflare error if they use cloudflare because LHR seems to indicate the London datacentre ([nickevansdev](https://twitter.com/nickevansdev/status/1405815997135790083))
 - So python-requests kept getting the Cloudflare CAPTCHA page, but repeating the exact same request over a custom TCP connection was allowed through. Turns out urllib3 sets OPNOTICKET in its SSLContext, and the Cloudflare bot protection system Does Not Like that. ([gray69798502](https://twitter.com/gray69798502/status/1405828423923154946))
