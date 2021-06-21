@@ -49,6 +49,6 @@
 | ![](twitterban_ErwinVanDerKoogh.jpg) | ![](twitterban_Patrick_Donahue.jpg) | ![](twitterban_ErwinVanDerKoogh2.jpg) | ![](twitterban_Matthew_Prince.jpg) |
 | ![](twitterban_John_Graham-Cumming.jpg) | ![](twitterban_John_Graham-Cumming2.jpg) | ![](censor_cloudflare_blogcomment.jpg) | ![](cfd_game_worldofwarcraft.jpg) |
 | ![](cfeu2018.gif) | ![](dmca9justin.gif) | ![](jamie_tomasello.gif) | ![](smellslikebs.gif) |
-| ![](altlink_sample.jpg) | ![](ss-sercxi.png) | ![](dnsset-doh.jpg) | ![](dnsset-dot.jpg) |
+| ![](altlink_sample.jpg) | ![](cfinside_etcher.jpg) | ![](dnsset-doh.jpg) | ![](dnsset-dot.jpg) |
 | ![](omsredjs.jpg) |  |  |  |
 
