@@ -88,7 +88,7 @@ Ushbu ombor Tor foydalanuvchilari va boshqa CDN-larni blokirovka qiladigan "Grea
 
 
 **Qo'shimcha ma'lumot**
-* [deCloudflare Subfiles](../subfiles/README.md)
+* **[deCloudflare Subfiles](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Yuklash: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Original elektron kitob (ePUB) CCR materialining mualliflik huquqining buzilishi sababli BookRix GmbH tomonidan o'chirilgan
