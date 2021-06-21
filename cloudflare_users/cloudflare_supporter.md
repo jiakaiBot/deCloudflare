@@ -711,6 +711,7 @@ Do not create new issue or we will close it as duplicate.
 | [bero14776379@twitter.com](https://twitter.com/bero14776379/status/1386763874045677568) | moral (advertise Cloudflare) |
 | [Beyonce01487842@twitter.com](https://twitter.com/Beyonce01487842/status/1382345074642542599) | moral (advertise Cloudflare) |
 | [beyou2021@twitter.com](https://twitter.com/beyou2021/status/1396901974851862528) | moral (advertise Cloudflare) |
+| [BforeAi@twitter.com](https://twitter.com/BforeAi/status/1407094270700498944) | moral (advertise Cloudflare) |
 | [Bfresh420Lord@twitter.com](https://twitter.com/Bfresh420Lord/status/1378988801695965187) | moral (advertise Cloudflare) |
 | [BGomez77@twitter.com](https://twitter.com/BGomez77/status/1377795873955049472) | moral (advertise CloudFlare) |
 | [BGSG45998073@twitter.com](https://twitter.com/BGSG45998073/status/1396751243352084487) | moral (advertise Cloudflare) |
