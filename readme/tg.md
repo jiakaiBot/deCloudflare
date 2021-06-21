@@ -88,7 +88,7 @@
 
 
 **Маълумоти бештар**
-* [deCloudflare Subfiles](../subfiles/README.md)
+* **[deCloudflare Subfiles](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Зеркашӣ кунед: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Китобчаи аслӣ (ePUB) аз ҷониби BookRix GmbH бо сабаби вайронкунии ҳуқуқи муаллифии маводи CC0 нобуд карда шуд
