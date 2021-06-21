@@ -88,7 +88,7 @@ Bokosi ili ndi mndandanda wa masamba omwe ali kumbuyo kwa "The Cloudwall", akuts
 
 
 **Zambiri**
-* [deCloudflare Subfiles](../subfiles/README.md)
+* **[deCloudflare Subfiles](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Tsitsani: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook yoyambilira (ePUB) idachotsedwa ndi BookRix GmbH chifukwa chophwanya malamulo okhudzana ndi CC0
