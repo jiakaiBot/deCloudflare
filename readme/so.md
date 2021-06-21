@@ -88,7 +88,7 @@ Kaydkan waa liisaska bogagga internetka ee ka dambeeya "The Cloud Cloud", oo xan
 
 
 **Macluumaad Dheeraad ah**
-* [deCloudflare Subfiles](../subfiles/README.md)
+* **[deCloudflare Subfiles](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Soo dejiso: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Ebook-ga asalka ahaa (ePUB) waxaa tirtiray BookRix GmbH sababtuna tahay ku xadgudubka xuquuqda daabacaada ee waxyaabaha loo yaqaan CC0
