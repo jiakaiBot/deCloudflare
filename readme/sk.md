@@ -88,7 +88,7 @@ Toto úložisko je zoznam webových stránok, ktoré sú za „Veľkou cloudovou
 
 
 **Viac informácií**
-* [deCloudflare Subfiles](../subfiles/README.md)
+* **[deCloudflare Subfiles](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Stiahnuť ▼: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Spoločnosť BookRix GmbH odstránila pôvodnú eKnihu (ePUB) z dôvodu porušenia autorských práv na materiál CC0
