@@ -173,4 +173,4 @@ Em tu carî ji medyaya civakî ya we dipirsin.**
 
 ![](../image/eastdakota_1273277839102656515.jpg)
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg)  [🖼 Poster](../image/poster)
