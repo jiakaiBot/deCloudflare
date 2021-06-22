@@ -175,7 +175,7 @@ We יודע על קיומם של חשבונות מזויפים המתחזים ל
 
 ![](../image/eastdakota_1273277839102656515.jpg)
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg)  [🖼 Poster](../image/poster)
 
 
 </div>
