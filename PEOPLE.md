@@ -96,6 +96,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 (Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
 
 
+- [Don't Trust CloudFlare](https://write.pixie.town/thufie/dont-trust-cloudflare)
 - [blocking cloudflare IP-range be like](https://hacktivis.me/articles/blocking%20cloudflare%20IP-range%20be%20like)
 - [Unrevokable SSL Certificates - Isn’t this sounding pretty corrupt?  Yes.](https://worldofmatthew.com/post/cloudflare-ssl/)
 - [New CDN for media files](https://masto.host/new-cdn-for-media-files/)
