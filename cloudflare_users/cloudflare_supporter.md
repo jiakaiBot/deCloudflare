@@ -4407,6 +4407,7 @@ Do not create new issue or we will close it as duplicate.
 | [RishiKu66@twitter.com](https://twitter.com/RishiKu66/status/1392000250408144899) | moral (advertise Cloudflare) |
 | [Rittipo80704084@twitter.com](https://twitter.com/Rittipo80704084/status/1403266234083282945) | moral (advertise Cloudflare) |
 | [RitupanBorah12@twitter.com](https://twitter.com/RitupanBorah12/status/1390775684285403137) | moral (advertise Cloudflare) |
+| [rival_finance@twitter.com](https://twitter.com/rival_finance/status/1407415777687490571) | moral (advertise Cloudflare) |
 | [Rizky29300508@twitter.com](https://twitter.com/Rizky29300508/status/1401428946789429249) | moral (advertise Cloudflare) |
 | [rjack55@twitter.com](https://twitter.com/rjack55/status/1379577118527524865) | moral (advertise Cloudflare) |
 | [Rkar43290101@twitter.com](https://twitter.com/Rkar43290101/status/1398468325034713091) | moral (advertise Cloudflare) |
