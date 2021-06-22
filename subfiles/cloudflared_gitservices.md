@@ -150,6 +150,7 @@ Here's a list of public Git services.
 | git.ovs.aktivbank-factoring.de | No |
 | git.paintingofapples.com | No |
 | git.passageenseine.fr | No |
+| git.pixie.town | No |
 | git.plsnotracking.com | No |
 | git.plspnkt.uber.space | No |
 | git.pofilo.fr | No |
@@ -305,7 +306,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 52 |
-| Normal | 217 |
+| Normal | 218 |
 
 
 ### 19.3% of public Git services are using Cloudflare.
