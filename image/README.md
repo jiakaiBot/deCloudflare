@@ -1,5 +1,8 @@
 - &#128444; [Telegram](telegram/)
 - &#128444; [Meme](meme/)
+- Poster
+  - [Type A](poster/typeA.jpg)
+  - [Type B](poster/typeB.jpg)
 
 ---
 
