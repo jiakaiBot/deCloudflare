@@ -7,6 +7,14 @@
 
 
 
+- Today, I attempt to disable the Cloudflare security features on WP Mainline to see if that is the cause of the mysterious JSON error in the block editor. ([wpmainline](https://twitter.com/WPMainline/status/1407079633284177925))
+- Gajadi deh, lupa ni web pake cloudflare. Pantesan tembak langsung ke API nya error 503 😂 ([sarjanacuddle](https://twitter.com/sarjanacuddle/status/1407050377422311427))
+- Two e-commerce websites are down with an Error 522 Code. Host error. Help needed please. No mention of an outage on your website. ([allya07849478](https://twitter.com/AllyA07849478/status/1406961708674031617))
+- Im about to pay someone to solve my 500 POST error on cloudflare ([jadetycoon](https://twitter.com/JadeTycoon/status/1406827428102782976))
+- Yeah, still working on it. Got some Domain problems. Sorry. You getting a Cloudflare error? ([thegolddipper](https://twitter.com/TheGoldDipper/status/1406796729349984260))
+- Possibly a gateway timeout from their backend api server, therefore cloudflare giving you one of their random error ids rather than human friendly error message ([nickevansdev](https://twitter.com/nickevansdev/status/1405816688554262529))
+- Parece que habilitaron captcha de Cloudflare. ([tecnodragon](https://twitter.com/Tecnodragon/status/1405932766156492803))
+- I've been trying to pass CAPTCHA but It seems all my selected images are wrong and I never get through this wall ([naveen_kashyapp](https://twitter.com/naveen_kashyapp/status/1405106934621954051))
 - Dear if I can't see a website from your captcha crap, just because I use trackerblocking in my browser, maybe that website wasn't important. You should either just close your business or figure out something better. It's not the first time when this happens. ([christianbute](https://twitter.com/christianbute/status/1406526505044393985))
 - Error 1020 Ray ID: 6627970e6eee06a2 • 2021-06-20 20:01:37 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 6627970e6eee06a2 • Your IP: 37.120.235.212 • Performance & security by Cloudflare ([robtampa](https://twitter.com/RobTampa/status/1406704324194058240))
 - I'm getting errors trying to access the dashboard. Looks like an overaggressive firewall. Your forums suggest people have been having problems for weeks. (error code: 1020, Ray ID: 66211bdd5cdc1760, Server ID: FL386F21) cc: ([steindavidb](https://twitter.com/steindavidb/status/1406419342875635713))
