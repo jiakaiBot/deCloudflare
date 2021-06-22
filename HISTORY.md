@@ -5,6 +5,10 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-06-22: [Network Performance Issues in Toronto, Lisbon, and Kuala Lumpur](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3vjrkv69sv0t)
+- 2021-06-21: [Authoritative DNS lookup problems for some Free plan zones](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/z7kv10wzkjnw)
+- 2021-06-21: [Network Performance Issues in Chicago and São Paulo](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tvw8yc4ds2d1)
+- 2021-06-21: [Customer Impacting Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2xds4lyzjzm7)
 - 2021-06-17: [Lisbon and Toronto datacenters increase in errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1yz6wmypbmb9)
 - 2021-06-17: [Increased HTTP 522 Errors in Bangalore, Kolkata, Mumbai, and Nagpur, India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b0k69dy2dwkh)
 - 2021-06-16: [Elevated number of 502 errors in KIX Osaka](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qj2z5n6r8x3b)
