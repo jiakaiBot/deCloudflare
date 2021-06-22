@@ -173,4 +173,4 @@ Nunca pedimos aos teus medios de comunicación social.**
 
 ![](../image/eastdakota_1273277839102656515.jpg)
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg)  [🖼 Poster](../image/poster)
