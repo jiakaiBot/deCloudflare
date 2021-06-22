@@ -173,4 +173,4 @@ Twitter, Facebook, Patreon, OpenCollective, Villages 등과 같은 공식 채널
 
 ![](../image/eastdakota_1273277839102656515.jpg)
 
-![](../image/stopcf.jpg)
+![](../image/stopcf.jpg)  [🖼 Poster](../image/poster)
