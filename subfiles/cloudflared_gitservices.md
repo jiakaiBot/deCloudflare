@@ -160,6 +160,7 @@ Here's a list of public Git services.
 | git.radio.clubs.etsit.upm.es | No |
 | git.rbcommunity.info | Yes |
 | git.reclaimfutures.org | No |
+| git.redxen.eu | No |
 | git.regar42.fr | No |
 | git.riper.fr | No |
 | git.rootevolution.clients.goautomate.ai | No |
@@ -306,7 +307,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 52 |
-| Normal | 218 |
+| Normal | 219 |
 
 
-### 19.3% of public Git services are using Cloudflare.
+### 19.2% of public Git services are using Cloudflare.
