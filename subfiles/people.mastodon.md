@@ -7,6 +7,7 @@
 
 
 
+- Libera.chat is using Microsoft to host their website and their web-irc gateway uses Cloudflare's exclusive corporate walled garden, configured to block Tor and push hCAPTCHA ([resist1984](https://social.privacytools.io/@resist1984/106461974011143181))
 - A project with a privacy mission that tries to get people to use a Cloudflare service has an inherent integrity & trust problem. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106449419715706784))
 - I wonder if Matthew James Seidel, who seems to oppose central & singular corporate access to data and power over it, as well as surveillanceCapitism, knows that his article is in Cloudflare's walled garden. Strypey: I suggest following ([resist1984](https://social.privacytools.io/@resist1984/106423892077310044))
 - It's disturbing that the FrightfulFive excludes Cloudflare. It's easy to give up Apple & Google compared to CF. A boycott on CF would mean giving up the right to vote for Americans in 10% of the country. How many other tech giants stand in the way of something as basic and essential as voting in elections? ([resist1984](https://social.privacytools.io/@resist1984/106422851350267117))
