@@ -7,6 +7,12 @@
 
 
 
+- me: checks price of something on website "wait, wasn't it less than that an hour ago? are they bumping prices up based on tracking data?" me: opens tor to check cloudflare: "LOL AS IF, enjoy this 'hang on while we verify your browser' redirect loop for the next 10 minutes" ([gsuberland](https://twitter.com/gsuberland/status/1407356850199216135))
+- Update v1312 - fixed system RAM memory information in RigDetails - fixed GPU fan showing more than 100% values - added cloudflare error message handling ([simpleminingnet](https://twitter.com/SimpleMiningNet/status/1408749648030978054))
+- seems to have big issues all my website went down with http2 error protocol ([syst3m_failure](https://twitter.com/Syst3m_failure/status/1408560526037196800))
+- my site is getting a 522 error when visitors try to access it (it goes through Cloudflare). can you help? ([tubeszb](https://twitter.com/TubesZb/status/1407768161630527491))
+- I tried it again to get some better insights on the error, because to my surpise minting went through without having the full transfer in place because of the cloudflare prob ... I have not enough knowledge on the code, but my impression is that we miss some err handling here ([teriell](https://twitter.com/Teriell/status/1407436579107491843))
+- Hi there we're having trouble adding a payment method for Cloudflare Teams. We've tried different cards. Same message: "An error occured while saving your payment method, try again." ([theciroma](https://twitter.com/TheCiroma/status/1407401859640397829))
 - Today, I attempt to disable the Cloudflare security features on WP Mainline to see if that is the cause of the mysterious JSON error in the block editor. ([wpmainline](https://twitter.com/WPMainline/status/1407079633284177925))
 - Gajadi deh, lupa ni web pake cloudflare. Pantesan tembak langsung ke API nya error 503 😂 ([sarjanacuddle](https://twitter.com/sarjanacuddle/status/1407050377422311427))
 - Two e-commerce websites are down with an Error 522 Code. Host error. Help needed please. No mention of an outage on your website. ([allya07849478](https://twitter.com/AllyA07849478/status/1406961708674031617))
