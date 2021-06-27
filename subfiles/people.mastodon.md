@@ -7,6 +7,7 @@
 
 
 
+- that petition is only reachable on a restricted access Cloudflare website. It's really not worth it to promote the kind of exclusive selective democracy that changeDotOrg pushes. It's anti-democratic. BTW NaturalNews, your website has the same problem. I can't see your article. Perhaps rightly so, I don't get the impression your articles good quality anyway. ([resist1984](https://social.privacytools.io/@resist1984/106471400224908958))
 - Libera.chat is using Microsoft to host their website and their web-irc gateway uses Cloudflare's exclusive corporate walled garden, configured to block Tor and push hCAPTCHA ([resist1984](https://social.privacytools.io/@resist1984/106461974011143181))
 - A project with a privacy mission that tries to get people to use a Cloudflare service has an inherent integrity & trust problem. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/106449419715706784))
 - I wonder if Matthew James Seidel, who seems to oppose central & singular corporate access to data and power over it, as well as surveillanceCapitism, knows that his article is in Cloudflare's walled garden. Strypey: I suggest following ([resist1984](https://social.privacytools.io/@resist1984/106423892077310044))
