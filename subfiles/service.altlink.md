@@ -26,7 +26,7 @@ This is `opt-in` service.
 
 1. Just `block` or `mute` AL's account on your side.
   - AL do not attempt to re-follow you.
-  - If you've changed your mind and want to subscribe(opt-in) again, `unfollow` AL and `follow` again.
+  - If you've changed your mind and want to subscribe(opt-in) again, `unblock`, `unfollow` AL and `follow` again.
 
 
 ---
@@ -34,7 +34,8 @@ This is `opt-in` service.
 - Mastodon servers are controlled by third party.
   - Let us know if above account is censored by aggressive Cloudflare supporters.
 - AL don't read direct messages. e.g. `@AL hey read me`
-  - If you have something to say, create new Issue for public discussion.
+  - It will reply to basic questions in case you did not read this documentation.
+  - If you have something to say, you are welcome to create new Issue for public discussion.
 - ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
 - ↳ [Shared on Mastodon](shared_on_mastodon.md)
 
