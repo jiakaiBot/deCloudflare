@@ -287,6 +287,7 @@ Here's a list of public Git services.
 | terk.uber.space | No |
 | thematrix.bw.edu | No |
 | tildegit.org | No |
+| salsa.debian.org | No |
 | tracker.adverpost.com | No |
 | tracker.sagosec.com | No |
 | try.gitea.io | Yes |
@@ -307,7 +308,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 52 |
-| Normal | 219 |
+| Normal | 220 |
 
 
-### 19.2% of public Git services are using Cloudflare.
+### 19.1% of public Git services are using Cloudflare.
