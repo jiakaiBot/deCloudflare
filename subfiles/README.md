@@ -32,7 +32,7 @@
   - [How many % of disposable email domains are using Cloudflare?](cloudflared_disposable_email.md)
   - [How many % of VPN services are using Cloudflare?](cloudflared_vpnservice.md)
   - [How many % of URL Shortener services are using Cloudflare?](cloudflared_urlshortening.md)
-  - [aaaaaaaaaaaaaaaaaaaaWIPaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa](wipppppppppppppppppppppppppp.md)
+  - [How many % of Bitcoin Exchange sites are using Cloudflare?](cloudflared_bitcoinexchange.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
