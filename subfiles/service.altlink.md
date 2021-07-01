@@ -10,7 +10,7 @@ This is `opt-in` service.
 > Subscribe
 
 1. Follow [Alternative Link (AL)](https://mamot.fr/@altlink).
-  - Some trigger-happy instances such as `mastodon.social` is blocking altlink.
+  - Some trigger-happy instances such as `mastodon.social` are blocking altlink.
 
 2. AL will accept your follow request and follow back you.
   - If you're locking your account, please accept AL's follow request otherwise AL can't read your toots.
