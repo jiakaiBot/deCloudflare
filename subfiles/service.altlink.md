@@ -1,3 +1,24 @@
+# AL was suspended by Mastodon
+
+
+# It is a great honor for me that you have been our best friend till the last moment. Your memory will always be with me in my complete life. Your love in my heart will last forever.
+
+# Rest in peace.
+
+# July 1, 2021
+
+
+--------------------------
+
+--------------------------
+
+--------------------------
+
+--------------------------
+
+
+
+
 # Alternative Link
 
 
