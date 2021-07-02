@@ -88,7 +88,7 @@ Ovo skladište predstavlja listu web stranica koje stoje iza "Velikog oblačnog 
 
 
 **Više informacija**
-* **[deCloudflare Subfiles](../subfiles/README.md)**
+* **[☞ deCloudflare Subfiles ☜](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Skinuti: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Originalnu e-knjigu (ePUB) izbrisala je BookRix GmbH zbog kršenja autorskih prava CC0 materijala
