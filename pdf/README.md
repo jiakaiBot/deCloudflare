@@ -1,4 +1,3 @@
-
 ![](../image/bookstack.jpg)
 
 
@@ -20,13 +19,13 @@
 | 2013 | [Trawling for Tor Hidden Services Detection Measurement Deanonymization](2013-Trawling_for_Tor_Hidden_Services_Detection_Measurement_Deanonymization.pdf) |
 | 2013 | [Users Get Routed Traffic Correlation on Tor by Realistic Adversaries](2013-Users_Get_Routed_Traffic_Correlation_on_Tor_by_Realistic_Adversaries.pdf) |
 | 2014 | [EU WP216 Article 29 Data Protection Working Party](2014-euWP216_Article_29_Data_Protection_Working_Party.pdf) |
-| 2014 | [The Sniper Attack Anonymously Deanonymizing and Disabling the Tor Network](2014-The_Sniper_Attack_Anonymously_Deanonymizing_and_Disabling_the_Tor_Network.pdf) |
 | 2014 | [Effective Attacks and Provable Defenses for Website Fingerprinting](2014-Effective_Attacks_and_Provable_Defenses_for_Website_Fingerprinting.pdf) |
 | 2014 | [Enhancing Censorship Resistance in the Tor Anonymity Network](2014-Enhancing_Censorship_Resistance_in_the_Tor_Anonymity_Network.pdf) |
 | 2014 | [Identity Theft Threat and Mitigations](2014-Identity_Theft_Threat_and_Mitigations.pdf) |
 | 2014 | [InTeRneT SpyIng In SAn FRAnCISCo](2014-InTeRneT_SpyIng_In_SAn_FRAnCISCo.pdf) |
 | 2014 | [Practical Attacks Against The I2P Network](2014-Practical_Attacks_Against_The_I2P_Network.pdf) |
 | 2014 | [The Origin and Reception of Martin Niemöller's Quotation First they came for the communists](2014-The_Origin_and_Reception_of_Martin_Niemöller's_Quotation_First_they_came_for_the_communists.pdf) |
+| 2014 | [The Sniper Attack Anonymously Deanonymizing and Disabling the Tor Network](2014-The_Sniper_Attack_Anonymously_Deanonymizing_and_Disabling_the_Tor_Network.pdf) |
 | 2014 | [When HTTPS Meets CDN](2014-When_HTTPS_Meets_CDN.pdf) |
 | 2015 | [Dual EC A Standardized Back Door](2015-Dual_EC_A_Standardized_Back_Door.pdf) |
 | 2015 | [HHRG-114-FA18-Transcript](2015-HHRG-114-FA18-Transcript.pdf) |
