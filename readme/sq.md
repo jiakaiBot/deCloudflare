@@ -88,7 +88,7 @@ Kjo depo është një listë e faqeve të internetit që janë pas "The Great Cl
 
 
 **Më shumë informacion**
-* **[deCloudflare Subfiles](../subfiles/README.md)**
+* **[☞ deCloudflare Subfiles ☜](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Shkarko: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * EBook origjinal (ePUB) u fshi nga BookRix GmbH për shkak të shkeljes së të drejtave të autorit të materialit CC0
