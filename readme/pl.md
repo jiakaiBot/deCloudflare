@@ -88,7 +88,7 @@ To repozytorium to lista stron internetowych, które stoją za „Wielką zapor�
 
 
 **Więcej informacji**
-* **[deCloudflare Subfiles](../subfiles/README.md)**
+* **[☞ deCloudflare Subfiles ☜](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Pobieranie: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * Oryginalny eBook (ePUB) został usunięty przez BookRix GmbH z powodu naruszenia praw autorskich do materiału CC0
