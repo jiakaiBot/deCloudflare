@@ -88,7 +88,7 @@
 
 
 **अधिक जानकारी**
-* **[deCloudflare Subfiles](../subfiles/README.md)**
+* **[☞ deCloudflare Subfiles ☜](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * डाउनलोड: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * CC0 सामग्री के कॉपीराइट उल्लंघन के कारण मूल eBook (ePUB) को BookRix GmbH द्वारा हटा दिया गया था
