@@ -5,7 +5,6 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
-- 2021-07-01: [New WAF events logged under wrong category](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5tjx95y2c78w)
 - 2021-06-30: [Cloudflare Community Site login issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f91pg20hctfk)
 - 2021-06-29: [Retro - Elevated number of 504 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xr4b8bk7tyjf)
 - 2021-06-22: [Network Performance Issues in Toronto, Lisbon, and Kuala Lumpur](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3vjrkv69sv0t)
