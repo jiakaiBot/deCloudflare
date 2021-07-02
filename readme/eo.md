@@ -89,7 +89,7 @@
 
 
 **Pli da informo**
-* **[deCloudflare Subfiles](../subfiles/README.md)**
+* **[☞ deCloudflare Subfiles ☜](../subfiles/README.md)**
 * [La Granda Nubo](../pdf/2019-Jeff_Cliff_Book1.txt) de [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Elŝutu kiel: PDF [ĉi tie](../pdf/2019-The_Great_Cloudwall.pdf), ePUB [ĉi tie](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * `BookRix GmbH` estis forigita de la originala eBook (ePUB) pro malobservo de kopirajto de CC0-materialo
