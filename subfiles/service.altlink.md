@@ -30,6 +30,67 @@ This is `opt-in` service.
   - If you've changed your mind and want to subscribe(opt-in) again, `unblock`, `unfollow` AL and `follow` again.
 
 
+> Settings
+
+You can configure AL via `direct message`.
+
+- 1: Do not message me same domain again for a day.
+  - Default is `off`.
+  - By default AL will notify you each time when you post _cf-example.com_. Turning this settings _on_ will silence second post for 24 hours.
+- 2: Message me onionsite if available.
+  - Default is `off`.
+  - If you turn _on_ this settings AL will notify you with onionsite link. Note that AL will also notify you for non-cloudflare sites when onion is available.
+- 3: Count my links and send me monthly report.
+  - Default is `off`.
+  - If you turn _on_ this settings AL will simply count how many links you shared publicly. Note that this might have duplicates. (because we DO NOT save what you shared)
+- 4: Set my preferred language to "??". 
+  - Default is `unset`.
+  - If you tell AL your language, AL will try to use your language.
+  - Available Languages are below.
+    - de el en eo es fr hi ja kk ko ky ru zh
+- 5: Show my current preferences.
+  - No settings option.
+
+
+```
+set N V
+```
+
+- N is above numbers.
+- V is value.
+  - for number 1 to 3:
+    - _one of_: y n yes no true false 1 0 on off
+  - for number 4:
+    - _one of_: available languages (see above)
+  - for number 5:
+    - none (see below example)
+- You can mix uppercase if you want.
+  - `sEt 1 TRuE` is same as `set 1 true`
+
+
+Here's an example.
+
+- Speak Russian. Enable onion. Report please.
+```
+@AL
+set 4 ru
+set 2 1
+set 3 on
+```
+
+- What is my current settings?
+```
+@AL
+set 5
+```
+
+- Turn 1 on and show settings.
+```
+@AL set 1 yes
+set 5
+```
+
+
 ---
 
 - Mastodon servers are controlled by third party.
