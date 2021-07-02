@@ -88,7 +88,7 @@ Dan ir-repożitorju huwa lista ta 'websajts li huma wara "Il-Great Cloudwall", l
 
 
 **Iktar informazzjoni**
-* **[deCloudflare Subfiles](../subfiles/README.md)**
+* **[☞ deCloudflare Subfiles ☜](../subfiles/README.md)**
 * [The Great Cloudwall](../pdf/2019-Jeff_Cliff_Book1.txt), [Mr. Jeff Cliff](https://shitposter.club/users/jeffcliff)
   * Niżżel: [PDF](../pdf/2019-The_Great_Cloudwall.pdf), [ePUB](../pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub)
   * L-eBook oriġinali (ePUB) ġie mħassar minn BookRix GmbH minħabba ksur tad-drittijiet tal-awtur ta 'materjal CC0
