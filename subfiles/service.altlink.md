@@ -43,10 +43,11 @@ You can configure AL via `direct message`.
 - 3: Count my links and send me monthly report.
   - Default is `off`.
   - If you turn _on_ this settings AL will simply count how many links you shared publicly. Note that this might have duplicates. (because we DO NOT save what you shared)
+  - If you change this settings counter will reset to 0.
 - 4: Set my preferred language to "??". 
-  - Default is `unset`.
-  - If you tell AL your language, AL will try to use your language.
-  - Available Languages are below.
+  - Default is unset.
+  - If you tell AL your language, AL will always use your language.
+  - Available languages are below.
     - de el en eo es fr hi ja kk ko ky ru zh
 - 5: Show my current preferences.
   - No settings option.
