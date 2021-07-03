@@ -2063,8 +2063,6 @@ ns-996.awsdns-60.net
 ns-997.awsdns-60.net
 ns-998.awsdns-60.net
 ns-999.awsdns-60.net
-ns-cloud-e1.googledomains.com.ns-1128.awsdns-13.org
-ns-cloud-e2.googledomains.com.ns-280.awsdns-35.com
 ns1308.awsdns-35.org
 ns1583.awsdns-05.co.uk
 ns382.awsdns-47.com
