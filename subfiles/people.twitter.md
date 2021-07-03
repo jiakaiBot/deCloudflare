@@ -7,6 +7,11 @@
 
 
 
+- The problem was between Cloudflare and NYC/Newark Datacenters. Disabling CF worked One more time CF error :/ ([gabriel03986586](https://twitter.com/Gabriel03986586/status/1410944988184252419))
+- There are occasional 522 error when visiting the site using cloudflare Tokyo transit, if you encounter this just reload the page until it disappear, or use vpn to change location. ([animixplay](https://twitter.com/AniMixPlay/status/1410568471881011201))
+- Do I have any friends at CloudFlare lurking around? Seeing something odd that I can't explain and is almost certainly user error. ([quinnypig](https://twitter.com/QuinnyPig/status/1410050224177876994))
+- Hey Marius I am getting a Cloudflare error when I try to access the link. ([jamesoregan](https://twitter.com/jamesoregan/status/1409516449136267265))
+- Greetings. For weeks now I'm unable to visit the site due to a Error 1020 from Cloudflare. That's restricted just to the store, every other site on the domain is still accessible. What's going on? Is that a geolock of some sort? ([vinnycordeiro](https://twitter.com/vinnycordeiro/status/1409299360416940035))
 - me: checks price of something on website "wait, wasn't it less than that an hour ago? are they bumping prices up based on tracking data?" me: opens tor to check cloudflare: "LOL AS IF, enjoy this 'hang on while we verify your browser' redirect loop for the next 10 minutes" ([gsuberland](https://twitter.com/gsuberland/status/1407356850199216135))
 - Update v1312 - fixed system RAM memory information in RigDetails - fixed GPU fan showing more than 100% values - added cloudflare error message handling ([simpleminingnet](https://twitter.com/SimpleMiningNet/status/1408749648030978054))
 - seems to have big issues all my website went down with http2 error protocol ([syst3m_failure](https://twitter.com/Syst3m_failure/status/1408560526037196800))
