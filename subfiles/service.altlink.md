@@ -138,7 +138,7 @@ set N V
 
 Here's an example.
 
-- Speak Russian. Enable onion. Report please.
+- Speak Russian. Enable onion. Monthly Report please.
 ```
 @AL
 set 4 ru
