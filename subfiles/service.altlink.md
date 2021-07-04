@@ -19,7 +19,7 @@ This is `opt-in` service.
 
 3. When you post Cloudflared link, AL will send `direct` message to you with information.
   - `Boosts` will be ignored.
-  - Direct messages older than 7 days will be deleted.
+  - Direct messages older than 3 days will be deleted.
     - There is no good reason to keep old toots online.
 
 
@@ -48,8 +48,6 @@ You can configure AL via `direct message`.
   - Default is unset.
     - AL will use language based on your toot.
   - If you tell AL your language, AL will speak your language.
-  - Available languages are below.
-    - de el en eo es fr hi ja kk ko ky ru zh
 - 5: Show my current preferences.
   - No settings option.
 
@@ -63,11 +61,79 @@ set N V
   - for number 1 to 3:
     - _one of_: y n yes no true false 1 0 on off
   - for number 4:
-    - _one of_: available languages (see above)
+    - _one of_: _cc_ (see below)
   - for number 5:
     - none (see below example)
 - You can mix uppercase if you want.
   - `sEt 1 TRuE` is same as `set 1 true`
+
+
+| _cc_ | ? |
+| -- | -- |
+| af | Afrikaans |
+| ar | العربية |
+| bg | Български |
+| bn | বাংলা |
+| ca | Català |
+| co | Corsu |
+| cs | Čeština |
+| cy | Cymraeg |
+| da | Dansk |
+| de | Deutsch |
+| el | Ελληνικά |
+| en | English |
+| eo | Esperanto |
+| es | Español |
+| et | Eesti |
+| eu | Euskara |
+| fa | فارسی |
+| fi | Suomi |
+| fr | Français |
+| ga | Gaeilge |
+| gd | Gàidhlig |
+| gl | Galego |
+| he | עברית |
+| hi | हिन्दी |
+| hr | Hrvatski |
+| hu | Magyar |
+| hy | Հայերեն |
+| id | Bahasa Indonesia |
+| is | Íslenska |
+| it | Italiano |
+| ja | 日本語 |
+| ka | ქართული |
+| kk | Қазақша |
+| kn | ಕನ್ನಡ |
+| ko | 한국어 |
+| ku | سۆرانی |
+| ky | Кыргызча |
+| lt | Lietuvių |
+| lv | Latviešu |
+| mk | Македонски |
+| ml | മലയാളം |
+| mr | मराठी |
+| ms | Bahasa Melayu |
+| nl | Nederlands |
+| no | Norsk |
+| pl | Polski |
+| pt | Português |
+| ro | Română |
+| ru | Русский |
+| si | සිංහල |
+| sk | Slovenčina |
+| sl | Slovenščina |
+| sq | Shqip |
+| sr | Српски |
+| sv | Svenska |
+| ta | தமிழ் |
+| te | తెలుగు |
+| th | ไทย |
+| tr | Türkçe |
+| uk | Українська |
+| ur | اُردُو |
+| vi | Tiếng Việt |
+| zh | 汉语 |
+| zt | 漢語 |
 
 
 Here's an example.
