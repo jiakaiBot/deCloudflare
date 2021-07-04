@@ -727,6 +727,7 @@ ns1.gsydm1006.siteground.biz
 ns1.gsydm1007.siteground.biz
 ns1.gsydm1008.siteground.biz
 ns1.gsydm1009.siteground.biz
+ns1.gsydm1020.siteground.biz
 ns1.gsydm2.siteground.biz
 ns1.guk1.siteground.eu
 ns1.guk1000.siteground.eu
@@ -2338,6 +2339,7 @@ ns2.gsydm1006.siteground.biz
 ns2.gsydm1007.siteground.biz
 ns2.gsydm1008.siteground.biz
 ns2.gsydm1009.siteground.biz
+ns2.gsydm1020.siteground.biz
 ns2.gsydm2.siteground.biz
 ns2.guk1.siteground.eu
 ns2.guk1000.siteground.eu
