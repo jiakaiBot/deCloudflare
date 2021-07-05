@@ -43,7 +43,7 @@ You can configure AL via `direct message`.
   - If you turn _on_ this settings AL will notify you with onionsite link. Note that AL will also notify you for non-cloudflare sites when onion is available.
 - 3: Count my links and send me report monthly.
   - Default is `off`.
-  - If you turn _on_ this settings AL will simply count how many links you shared publicly. Note that this count will have duplicates because we never save what you shared.
+  - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we never save what you shared.
   - If you change this settings counter will reset to 0.
 - 4: Set my preferred language to "??". 
   - Default is unset.
