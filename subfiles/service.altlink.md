@@ -44,9 +44,9 @@ You can configure AL via `direct message`.
 - 3: Count my links and send me report monthly.
   - Default is `off`.
   - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we never save what you shared.
-  - If you change this settings counter will reset to 0.
-- 4: Set my preferred language to "??". 
-  - Default is unset.
+  - If you change this settings _or_ each month has passed counter will reset to 0.
+- 4: Set my preferred language to ??. 
+  - Default is _unset_.
     - AL will use language based on your toot.
   - If you tell AL your language, AL will speak your language.
 - 5: Show my current preferences.
@@ -164,7 +164,7 @@ set 5
 
 - Mastodon servers are controlled by third party.
   - Let us know if above account is censored by aggressive Cloudflare supporters.
-- AL don't read direct messages. e.g. `@AL hey read me`
+- AL don't read direct messages. e.g. `@AL @OtherUser hey read me`
   - It will reply to basic questions in case you did not read this documentation.
   - If you have something to say, you are welcome to create new Issue for public discussion.
 - ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
