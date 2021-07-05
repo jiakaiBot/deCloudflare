@@ -7,6 +7,12 @@
 
 
 
+- Is it me or is something wrong with your website? No images are loading & Cloudflare captcha keeps coming! ([9heavenin](https://twitter.com/9HeavenIn/status/1411793568188882946))
+- Hi David - the page you're seeing is a Cloudflare CAPTCHA challenge. This may show if browsing from a private Safari window. Can you try to access the site outside of Safe Browsing? We've also passed this information along to our team to look into this on our end. ([linode](https://twitter.com/linode/status/1411129004606857216))
+- ใครเข้าหน้าเว็บได้ แต่พอทำรายการ แล้วไปต่อไม่ได้นะ ทำตามนี้ ถ้ากดปุ๊บเด้งปั๊บรัวๆ ให้รีเน็ตเปลี่ยน IP ก่อน เพราะมันติด Cloudflare Captcha (ถ้าติดอีก ก็ทำเหมือนเดิม) แต่ห้าม ออก Browser นั้นเด็ดขาด เพราะจะต้องต่อคิวใหม่ ข้อมูลเทคนิคดูด้านใน เกษมราษฎร์ โมเดอร์นา ([tae9800](https://twitter.com/tae9800/status/1410810534925111297))
+- It's really frustrating that I have to get through a Captcha process to login to your site - Any idea why? May be tied in with when I moved to (not sure) but it's frustrating enough for you to lose my business... ([pwatsonuk](https://twitter.com/pwatsonuk/status/1409977896165416967))
+- Hi team, We can not use your site we tried with different devices and browsers and it seems that you set up firewall rule inside cloudflare to block AWS servers traffic. Can you check with your IT team and add our vpn IP 3.9.222.101 into whitelisted IP address. ([rim58543944](https://twitter.com/Rim58543944/status/1410264808507723784))
+- Dear I do not want DoH, fucking ever. I do not want Pocket, fucking ever. I do not want your VPN. I do not want picture-in-picture controls. Fucking shit, I have my own DNS server, why the fuck would I trust cloudflare? Just make a version of the Tor browser but not ([xztpqkuy](https://twitter.com/XztPQkuY/status/1409662354644639754))
 - The problem was between Cloudflare and NYC/Newark Datacenters. Disabling CF worked One more time CF error :/ ([gabriel03986586](https://twitter.com/Gabriel03986586/status/1410944988184252419))
 - There are occasional 522 error when visiting the site using cloudflare Tokyo transit, if you encounter this just reload the page until it disappear, or use vpn to change location. ([animixplay](https://twitter.com/AniMixPlay/status/1410568471881011201))
 - Do I have any friends at CloudFlare lurking around? Seeing something odd that I can't explain and is almost certainly user error. ([quinnypig](https://twitter.com/QuinnyPig/status/1410050224177876994))
