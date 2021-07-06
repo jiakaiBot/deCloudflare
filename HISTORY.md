@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-07-05: [Regional Services degraded in Chicago area](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/z9d51k0tgxkf)
 - 2021-07-02: [Increased HTTP 522 Errors in Osaka Japan region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6rsy3bsyv82y)
 - 2021-06-29: [Retro - Elevated number of 504 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xr4b8bk7tyjf)
 - 2021-06-22: [Network Performance Issues in Toronto, Lisbon, and Kuala Lumpur](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3vjrkv69sv0t)
