@@ -7,6 +7,8 @@
 
 
 
+- Error 1020 Ray ID: 66a1eea01c594e98 • 2021-07-05 16:22:26 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 66a1eea01c594e98 • Your IP: 94.100.151.17 • Performance & security by Cloudflare ([cekemlimanu](https://twitter.com/cekemlimanu/status/1412084717671878664))
+- I tried going to the site earlier today, but got a Cloudflare error. Will try again later tonight as this sounds a bit interesting... ([wb8979](https://twitter.com/wb8979/status/1411827826635022337))
 - Is it me or is something wrong with your website? No images are loading & Cloudflare captcha keeps coming! ([9heavenin](https://twitter.com/9HeavenIn/status/1411793568188882946))
 - Hi David - the page you're seeing is a Cloudflare CAPTCHA challenge. This may show if browsing from a private Safari window. Can you try to access the site outside of Safe Browsing? We've also passed this information along to our team to look into this on our end. ([linode](https://twitter.com/linode/status/1411129004606857216))
 - ใครเข้าหน้าเว็บได้ แต่พอทำรายการ แล้วไปต่อไม่ได้นะ ทำตามนี้ ถ้ากดปุ๊บเด้งปั๊บรัวๆ ให้รีเน็ตเปลี่ยน IP ก่อน เพราะมันติด Cloudflare Captcha (ถ้าติดอีก ก็ทำเหมือนเดิม) แต่ห้าม ออก Browser นั้นเด็ดขาด เพราะจะต้องต่อคิวใหม่ ข้อมูลเทคนิคดูด้านใน เกษมราษฎร์ โมเดอร์นา ([tae9800](https://twitter.com/tae9800/status/1410810534925111297))
