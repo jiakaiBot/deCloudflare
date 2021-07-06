@@ -950,6 +950,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chichi14461653@twitter.com](https://twitter.com/Chichi14461653/status/1391758724201541633) | moral (advertise Cloudflare) |
 | [childnoir209@twitter.com](https://twitter.com/childnoir209/status/1401223493463670791) | moral (advertise Cloudflare) |
 | [ChinThn89636027@twitter.com](https://twitter.com/ChinThn89636027/status/1393032346870247426) | moral (advertise Cloudflare) |
+| [chiragnayyar@twitter.com](https://twitter.com/chiragnayyar/status/1411690100874903554) | moral (advertise) |
 | [ChiragTalil@twitter.com](https://twitter.com/ChiragTalil/status/1392845070194286592) | moral (advertise Cloudflare) |
 | [Chit12127394@twitter.com](https://twitter.com/Chit12127394/status/1377063466050056192) | moral (advertise CloudFlare) |
 | [chithtunzaw@twitter.com](https://twitter.com/chithtunzaw/status/1394130268122984452) | moral (advertise Cloudflare) |
