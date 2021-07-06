@@ -786,6 +786,7 @@ Here's a list of public Fediverse services.
 | eunivers.social | No |
 | eupublic.social | No |
 | evangelisch.video | No |
+| eveningzoo.club | No |
 | eventideparlour.masto.host | No |
 | events.friend.camp | No |
 | events.nixnet.services | No |
@@ -3115,6 +3116,7 @@ Here's a list of public Fediverse services.
 | pleroma.liveunix.org | No |
 | pleroma.lokean.org | No |
 | pleroma.lord.re | No |
+| pleroma.lord.re | No |
 | pleroma.macsnet.cz | No |
 | pleroma.marud.fr | No |
 | pleroma.marussy.com | No |
@@ -4815,7 +4817,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 879 |
-| Normal | 3900 |
+| Normal | 3902 |
 
 
 ### 18.4% of public Fediverse services are using Cloudflare.
