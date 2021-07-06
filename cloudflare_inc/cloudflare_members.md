@@ -752,7 +752,7 @@ Or is this merely a case of simple modesty?
 | Jesse Li | Employee |  |
 | Jesse Sapakie | Revenue Accountant |  |
 | Jessica Cardenas | Employee |  |
-| Jessica Iyer | Business Development | [🖼](../image/gang/Jessica_Iyer.jpg) |
+| Jessica Iyer | Business Development | [🖼](../image/gang/Jessica_Iyer.JPG) |
 | Jessica Rosenberg | Marketing Design | jessicarosenb@gmail.com<br>https://twitter.com/jessperate<br>http://www.hellomynameisjess.com/<br>https://www.facebook.com/4800723<br>https://medium.com/@jessperate<br>https://www.linkedin.com/in/jessicarosenb |
 | Jet Mariscal | Employee | [🖼](../image/gang/Jet_Mariscal.jpg) |
 | Jiale Zhi | Systems Engineer |  |
