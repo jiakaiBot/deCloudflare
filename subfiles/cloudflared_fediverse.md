@@ -3116,7 +3116,6 @@ Here's a list of public Fediverse services.
 | pleroma.liveunix.org | No |
 | pleroma.lokean.org | No |
 | pleroma.lord.re | No |
-| pleroma.lord.re | No |
 | pleroma.macsnet.cz | No |
 | pleroma.marud.fr | No |
 | pleroma.marussy.com | No |
@@ -4817,7 +4816,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 879 |
-| Normal | 3902 |
+| Normal | 3901 |
 
 
 ### 18.4% of public Fediverse services are using Cloudflare.
