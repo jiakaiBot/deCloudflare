@@ -213,7 +213,7 @@ Or is this merely a case of simple modesty?
 | Arun Rex | Employee | [🖼](../image/gang/7d91ae600977be4dd585515badc0a470.jpg) |
 | Arun Singh | Employee | [🖼](../image/gang/Arun_Singh.jpg) |
 | Arvind Singh | Global Sales Enablement | "Arvind Singh Mickey" |
-| Arwa Ginwala | Solutions Engineer |  |
+| Arwa Ginwala | Solutions Engineer | [🖼](../image/gang/Arwa_Ginwala.jpg) |
 | Ash DSouza | Strategy and Operations |  |
 | Ash Mathur | Employee | [🖼](../image/gang/Ash_Mathur.jpg) |
 | Ashcon Partovi | Employee | [🖼](../image/gang/Ashcon_Partovi.jpg) |
@@ -665,7 +665,7 @@ Or is this merely a case of simple modesty?
 | Jacob Zollinger | Security Compliance | [🖼](../image/gang/Jacob_Zollinger.jpg) |
 | Jacqueline Keith | Security Strategy and Policy | [🖼](../image/gang/Jacqueline_Keith.jpg) |
 | Jacqueline Lim | Team Coordinator, Singapore |  |
-| Jade Q. Wang | Developer Relations | https://twitter.com/qiqing<br>https://opencollective.com/jadewang<br>http://blog.jadism.com/ |
+| Jade Q. Wang | Developer Relations | [🖼](../image/gang/Jade_Q_Wang.jpg)<br>https://twitter.com/qiqing<br>https://opencollective.com/jadewang<br>http://blog.jadism.com/ |
 | Jaime Cochran | Security Analyst |  |
 | Jaime Sparr | Visual Designer |  |
 | Jake Anderson | Head of Marketing |  |
@@ -752,7 +752,7 @@ Or is this merely a case of simple modesty?
 | Jesse Li | Employee |  |
 | Jesse Sapakie | Revenue Accountant |  |
 | Jessica Cardenas | Employee |  |
-| Jessica Iyer | Business Development |  |
+| Jessica Iyer | Business Development | [🖼](../image/gang/Jessica_Iyer.jpg) |
 | Jessica Rosenberg | Marketing Design | jessicarosenb@gmail.com<br>https://twitter.com/jessperate<br>http://www.hellomynameisjess.com/<br>https://www.facebook.com/4800723<br>https://medium.com/@jessperate<br>https://www.linkedin.com/in/jessicarosenb |
 | Jet Mariscal | Employee | [🖼](../image/gang/Jet_Mariscal.jpg) |
 | Jiale Zhi | Systems Engineer |  |
