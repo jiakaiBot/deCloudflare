@@ -7,6 +7,8 @@
 
 
 
+- Lol, imagine this being something you complain about. "Oh no, I encountered a cloudflare captcha.." ([gigworkertrends](https://twitter.com/GigWorkerTrends/status/1412124325394718722))
+- You will sell a lot more if you can stop blocking consumers and not even offering to CAPTCHA ([scoleclough](https://twitter.com/SColeclough/status/1412038845235961858))
 - Error 1020 Ray ID: 66a1eea01c594e98 • 2021-07-05 16:22:26 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 66a1eea01c594e98 • Your IP: 94.100.151.17 • Performance & security by Cloudflare ([cekemlimanu](https://twitter.com/cekemlimanu/status/1412084717671878664))
 - I tried going to the site earlier today, but got a Cloudflare error. Will try again later tonight as this sounds a bit interesting... ([wb8979](https://twitter.com/wb8979/status/1411827826635022337))
 - Is it me or is something wrong with your website? No images are loading & Cloudflare captcha keeps coming! ([9heavenin](https://twitter.com/9HeavenIn/status/1411793568188882946))
