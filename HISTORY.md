@@ -104,7 +104,7 @@ Here's Cloudflare incidents.
 
 - **Censorship**: Codeberg.org silently deleted `cloudflare-tor` and all related forks from codeberg.org without joining the discussion.
   - [Codeberg's Attack on Transparency and on Cloudflare Opposition](subfiles/the_trouble_with_codeberg.md)
-- **Please**, try not to link to git directly. Link to URL forwarder, `http://crimeflare.eu.org` instead.
+- **Please, try not to link to git directly**. **Link to URL forwarder**, `http://crimeflare.eu.org` instead.
 
 *2021.03.28*
 
