@@ -63,7 +63,7 @@ set N V
 
 - N is above numbers.
 - V is value.
-  - for number 1 to 3:
+  - for number 1 to 3, 6:
     - _one of_: y n yes no true false 1 0 on off
   - for number 4:
     - _one of_: _cc_ (see below)
@@ -153,8 +153,7 @@ set 3 on
 
 - What is my current settings?
 ```
-@AL
-set 5
+@AL set 5
 ```
 
 - Turn 1 on and show settings.
