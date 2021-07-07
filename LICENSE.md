@@ -1,8 +1,8 @@
-# Crimeflare #deCloudflare
+# [Crimeflare #deCloudflare](http://crimeflare.eu.org)
 
 `http://crimeflare.eu.org`
 
-- **Beware of modified mirrors.**
+- **Beware of modified mirror sites.**
 - **Please try to link to above URL instead of git. ([Why](HISTORY.md))**
 
 
