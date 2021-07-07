@@ -18,7 +18,7 @@ This is `opt-in` service.
     - Try to follow again within 24 hours. (opt-in by human)
   - If there is a network instability and AL failed to follow back you: please unfollow and follow again. This will trigger follow-back.
 
-3. When you post Cloudflared link, AL will send `direct` message to you with information.
+3. When you share Cloudflared link, AL will send `direct` message to you with information.
   - `Boosts` will be ignored.
   - Direct messages older than 3 days will be deleted.
     - There is no good reason to keep old toots online.
