@@ -37,7 +37,7 @@ You can configure AL via `direct message`.
 
 - 1: Do not message me same domain again for a day.
   - Default is `off`.
-  - By default AL will notify you each time when you post _cf-example.com_. Turning this settings _on_ will silence second post for 24 hours.
+  - By default AL will notify you each time when you share _cloudflaresite.example_. Turning this settings _on_ will silence second post for 24 hours.
 - 2: Message me onionsite if available.
   - Default is `off`.
   - If you turn _on_ this settings AL will notify you with onionsite link. Note that AL will also notify you for non-cloudflare sites when onion is available.
@@ -49,8 +49,12 @@ You can configure AL via `direct message`.
   - Default is _unset_.
     - AL will use language based on your toot.
   - If you tell AL your language, AL will speak your language.
+    - Need other language? Create an issue.
 - 5: Show my current preferences.
   - No settings option.
+- 6: Ignore boosted toots.
+  - Default is `off`.
+  - By default AL will notify you when you boost(retweet) other user's post which has Cloudflare link.
 
 
 ```
