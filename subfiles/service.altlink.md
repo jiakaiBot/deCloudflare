@@ -19,7 +19,6 @@ This is `opt-in` service.
   - If there is a network instability and AL failed to follow back you: please unfollow and follow again. This will trigger follow-back.
 
 3. When you share Cloudflared link, AL will send `direct` message to you with information.
-  - `Boosts` will be ignored.
   - Direct messages older than 3 days will be deleted.
     - There is no good reason to keep old toots online.
       - [Should I Delete My Tweets?](https://www.wired.com/story/the-know-it-alls-should-i-delete-my-tweets/)
