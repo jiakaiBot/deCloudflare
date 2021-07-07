@@ -128,6 +128,7 @@ Here's a list of public Git services.
 | git.kwarde.com | No |
 | git.laquadrature.net | No |
 | git.larlet.fr | No |
+| git.leglock.me | No |
 | git.lighttpd.net | No |
 | git.loranger.xyz | No |
 | git.madfire.net | No |
@@ -277,6 +278,7 @@ Here's a list of public Git services.
 | rbcommunity.info | Yes |
 | repo.palemoon.org | Yes |
 | robur.site | Yes |
+| salsa.debian.org | No |
 | schlomp.space | No |
 | scm.octopost.eu | Yes |
 | source.puri.sm | No |
@@ -287,7 +289,6 @@ Here's a list of public Git services.
 | terk.uber.space | No |
 | thematrix.bw.edu | No |
 | tildegit.org | No |
-| salsa.debian.org | No |
 | tracker.adverpost.com | No |
 | tracker.sagosec.com | No |
 | try.gitea.io | Yes |
@@ -308,7 +309,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 52 |
-| Normal | 220 |
+| Normal | 221 |
 
 
 ### 19.1% of public Git services are using Cloudflare.
