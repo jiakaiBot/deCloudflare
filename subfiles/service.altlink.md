@@ -22,6 +22,7 @@ This is `opt-in` service.
   - `Boosts` will be ignored.
   - Direct messages older than 3 days will be deleted.
     - There is no good reason to keep old toots online.
+      - [Should I Delete My Tweets?](https://www.wired.com/story/the-know-it-alls-should-i-delete-my-tweets/)
 
 
 > Unsubscribe
