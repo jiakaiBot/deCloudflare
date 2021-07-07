@@ -3,7 +3,7 @@
 `http://crimeflare.eu.org`
 
 - **Beware of modified mirror sites.**
-- **Please try to link to above URL instead of git. ([Why](HISTORY.md))**
+- **Please try to link to above URL instead of git. ([Why](HISTORY.md#other))**
 
 
 -----
