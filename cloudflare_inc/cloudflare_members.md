@@ -1596,6 +1596,7 @@ Or is this merely a case of simple modesty?
 | Venkat Chaithanya | Employee | [🖼](../image/gang/8f9c66f7e64c2d124b413561b0a52ac24a66d1e1.jpg) |
 | Venkat Viswanathan | Employee |  |
 | Vera Tsai | Taiwan Sales Manager |  |
+| Kevin White | Employee | https://twitter.com/Knowledge0417 |
 | Vicky Shrestha | Systems Engineer |  |
 | Victoria Bernard | Customer Support, Austin | https://twitter.com/exvuma<br>https://victoriabernard.com/<br>https://www.linkedin.com/in/msvee22<br>[🖼](../image/gang/Victoria_Bernard.jpg) |
 | Victoria Simons | Growth Marketing Manager |  |
