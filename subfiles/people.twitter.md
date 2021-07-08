@@ -7,6 +7,7 @@
 
 
 
+- I believe the topic was rather that DoH doesn't fix the privacy issue. You move the (dis)trust from your own ISP to some external party (usually Cloudflare) and their upstream. Same thing with VPN. You move the monitoring capabilities from your ISP to the VPN provider. ([dezestijn](https://twitter.com/DezeStijn/status/1412667780730699777))
 - Lol, imagine this being something you complain about. "Oh no, I encountered a cloudflare captcha.." ([gigworkertrends](https://twitter.com/GigWorkerTrends/status/1412124325394718722))
 - You will sell a lot more if you can stop blocking consumers and not even offering to CAPTCHA ([scoleclough](https://twitter.com/SColeclough/status/1412038845235961858))
 - Error 1020 Ray ID: 66a1eea01c594e98 • 2021-07-05 16:22:26 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 66a1eea01c594e98 • Your IP: 94.100.151.17 • Performance & security by Cloudflare ([cekemlimanu](https://twitter.com/cekemlimanu/status/1412084717671878664))
