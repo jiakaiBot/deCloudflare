@@ -6,6 +6,7 @@
   - [Top 100 - Shared any links](shared_on_mastodon.md#top-100-shared-any-links)
   - [Top 100 - Shared Cloudflare links](shared_on_mastodon.md#top-100-shared-cloudflare-links)
   - [About Mastodon Users](shared_on_mastodon.md#about-mastodon-users)
+- **The latest one can be found [here](cloudflared_shared_mastodon.md)**
 
 ----
 
