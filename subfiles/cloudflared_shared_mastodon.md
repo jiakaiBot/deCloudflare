@@ -1,4 +1,4 @@
-## How many % of links people shared on Mastodon are using Cloudflare?
+## How many % of links people publicly shared on Mastodon are using Cloudflare?
 
 
 - [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software))
@@ -46,9 +46,10 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 - Mastodon users shared *1,234,567* links in total.
   - *234,567* links are Cloudflare links. (*12.3*%)
-- There are *234,567* users who shared any links.
-  - There are *123,456* users who never shared Cloudflare links. (*12.3*%)
+- There are *234,567* users who shared ANY links.
   - On average one mastodon user share *1.1* links.
+  - There are *123,456* users who ONLY shared Cloudflare links. (*12.3*%)
+  - There are *123,456* users who NEVER shared Cloudflare links. (*12.3*%)
 
 [//]: # (do not edit this line end)
 
