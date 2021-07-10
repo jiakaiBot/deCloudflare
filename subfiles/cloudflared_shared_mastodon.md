@@ -16,6 +16,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 ----
 
+### ( From `2021-0X-0X` To `2021-0Y-0Y` )
 
 ### Top 100 - Shared Any links
 
@@ -45,7 +46,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 - Mastodon users shared *1,234,567* links in total.
   - *234,567* links are Cloudflare links. (*12.3*%)
-- In this year, there are *234,567* users who shared any links.
+- There are *234,567* users who shared any links.
   - There are *123,456* users who never shared Cloudflare links. (*12.3*%)
   - On average one mastodon user share *1.1* links.
 
