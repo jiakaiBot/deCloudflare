@@ -43,7 +43,7 @@ You can configure AL via `direct message`.
   - If you turn _on_ this settings AL will notify you with onionsite link. Note that AL will also notify you for non-cloudflare sites when onion is available.
 - 3: Count my links and send me report monthly.
   - Default is `off`.
-  - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we never save what you shared.
+  - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we never save (& don't care) what you shared.
   - If you change this settings _or_ each month has passed counter will reset to 0.
 - 4: Set my preferred language to ??. 
   - Default is _unset_.
@@ -170,6 +170,6 @@ set 5
 - AL don't read direct messages. e.g. `@AL @OtherUser hey read me`
   - If you have something to say, you are welcome to create new Issue for public discussion.
 - ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
-- ↳ [Shared on Mastodon](shared_on_mastodon.md)
+- ↳ [How many % of links people shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
 
 <a rel="me" href="https://mamot.fr/@altlink"></a>
