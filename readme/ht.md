@@ -99,6 +99,7 @@ Repozitwa sa a se yon lis sou sit entènèt ki dèyè "Great Cloudwall la", blok
   * [Tikè achiv dènye 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
+* [CloudFlare rap sheet](https://git.disroot.org/cyberMonk/liberethos_paradigm/src/branch/master/rap_sheets/cloudflare.md)
 
 ![](../image/watcloudflare.jpg)
 
