@@ -22,7 +22,7 @@
     - [Europe](cloudflared_financial_europe.md)
     - [Oceania](cloudflared_financial_oceania.md)
   - [How many % of public Fediverse services are using Cloudflare?](cloudflared_fediverse.md)
-  - [How many % of links people shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
+  - [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
   - [How many % of public Git services are using Cloudflare?](cloudflared_gitservices.md)
   - [How many % of public Torrent services are using Cloudflare?](cloudflared_torrents.md)
   - [How many % of public social media are using Cloudflare?](cloudflared_socialmedia.md)
