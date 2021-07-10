@@ -170,6 +170,6 @@ set 5
 - AL don't read direct messages. e.g. `@AL @OtherUser hey read me`
   - If you have something to say, you are welcome to create new Issue for public discussion.
 - ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
-- ↳ [How many % of links people shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
+- ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
 
 <a rel="me" href="https://mamot.fr/@altlink"></a>
