@@ -97,6 +97,7 @@ Do not create new issue or we will close it as duplicate.
 | [a9NTUKB7O8ga7Op@twitter](https://twitter.com/a9NTUKB7O8ga7Op/status/1397954196964470789) | advertise |
 | [Aaaddd44789627@twitter](https://twitter.com/Aaaddd44789627/status/1383457672859512841) | advertise |
 | [Aadamansar@twitter](https://twitter.com/Aadamansar/status/1378087373884465152) | advertise |
+| [Aaditya_K_@twitter](https://twitter.com/Aaditya_K_/status/1413572050547986434) | advertise |
 | [Aakash80458085@twitter](https://twitter.com/Aakash80458085/status/1394934419350118403) | advertise |
 | [Aamin49982113@twitter](https://twitter.com/Aamin49982113/status/1400366091235254283) | advertise |
 | [AamirKh41043592@twitter](https://twitter.com/AamirKh41043592/status/1398311906373365762) | advertise |
@@ -1104,6 +1105,7 @@ Do not create new issue or we will close it as duplicate.
 | [DANIELBINOJ321@twitter](https://twitter.com/DANIELBINOJ321/status/1386653209582735363) | advertise |
 | [danielbolkvadze@twitter](https://twitter.com/danielbolkvadze/status/1397978166929461251) | advertise |
 | [DanielCR93@twitter](https://twitter.com/DanielCR93/status/1377617766539218951) | advertise |
+| [Danielwisdo3@twitter](https://twitter.com/Danielwisdo3/status/1413526421994188806) | advertise |
 | [daniel_Zmdy@twitter](https://twitter.com/daniel_Zmdy/status/1389817835430449152) | advertise |
 | [dAniO500gucci50@twitter](https://twitter.com/dAniO500gucci50/status/1392152995455021061) | advertise |
 | [DannySiregar4@twitter](https://twitter.com/DannySiregar4/status/1386713728511479810) | advertise |
@@ -1464,6 +1466,7 @@ Do not create new issue or we will close it as duplicate.
 | [FoodSokla@twitter](https://twitter.com/FoodSokla/status/1403218484138442754) | advertise |
 | [foreveraloneami@twitter](https://twitter.com/foreveraloneami/status/1382509367673561088) | advertise |
 | [ForidUd69936856@twitter](https://twitter.com/ForidUd69936856/status/1402253597501362182) | advertise |
+| [Forms_Ge@twitter](https://twitter.com/Forms_Ge/status/1413774450676453384) | advertise |
 | [freak_bharath@twitter](https://twitter.com/freak_bharath/status/1398311217605738496) | advertise |
 | [FreddyKaung@twitter](https://twitter.com/FreddyKaung/status/1396197482086813701) | advertise |
 | [freehawk@twitter](https://twitter.com/freehawk/status/1383933154059190273) | advertise |
@@ -5623,6 +5626,7 @@ Do not create new issue or we will close it as duplicate.
 | [vettijoe@twitter](https://twitter.com/vettijoe/status/1390939641025466371) | advertise |
 | [VeVe69904456@twitter](https://twitter.com/VeVe69904456/status/1390967162878283780) | advertise |
 | [vgchat@twitter](https://twitter.com/vgchat/status/1392263921013252103) | advertise |
+| [vhgamer2006@twitter](https://twitter.com/vhgamer2006/status/1413728432861585411) | advertise |
 | [vian_kio@twitter](https://twitter.com/vian_kio/status/1404827196846317571) | advertise |
 | [viem_tru@twitter](https://twitter.com/viem_tru/status/1395102795670327296) | advertise |
 | [Viet2008@twitter](https://twitter.com/Viet2008/status/1385497309346033664) | advertise |
