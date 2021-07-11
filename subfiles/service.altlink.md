@@ -15,11 +15,11 @@ This is `opt-in` service.
 2. AL will accept your follow request and follow back you.
   - If you're locking your account, please accept AL's follow request otherwise AL can't read your toots.
   - If you're marking your account as `Bot`, AL will reject your request and send you a message.
-    - Try to follow again within 24 hours. (opt-in by human)
+    - Try to follow again within *24* hours. (opt-in by human)
   - If there is a network instability and AL failed to follow back you: please unfollow and follow again. This will trigger follow-back.
 
 3. When you share Cloudflared link, AL will send `direct` message to you with information.
-  - Direct messages older than 3 days will be deleted.
+  - Direct messages older than *1* day will be deleted.
     - There is no good reason to keep old toots online.
       - [Should I Delete My Tweets?](https://www.wired.com/story/the-know-it-alls-should-i-delete-my-tweets/)
 
