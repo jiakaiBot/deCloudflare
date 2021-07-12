@@ -5044,6 +5044,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sylla19072446@twitter](https://twitter.com/Sylla19072446/status/1392059309698265088) | advertise |
 | [synram981@twitter](https://twitter.com/synram981/status/1390825351383699459) | advertise |
 | [sysdotini@twitter](https://twitter.com/sysdotini/status/1373351911060078592) | advertise |
+| [systemctl_ryoto@twitter](https://twitter.com/systemctl_ryoto/status/1414265903361925124) | advertise |
 | [SystemXeevi@twitter](https://twitter.com/SystemXeevi/status/1377851545409122304) | advertise |
 | [sYuMon777@twitter](https://twitter.com/sYuMon777/status/1399606526541668357) | advertise |
 | [sy_angelyuna@twitter](https://twitter.com/sy_angelyuna/status/1377173738085474307) | advertise |
