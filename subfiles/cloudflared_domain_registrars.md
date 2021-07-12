@@ -130,7 +130,7 @@ The following is a list of domain name registrars.
 | Claimeddomains, LLC | https://www.claimeddomains.com/ | No |
 | Click Registrar, LLC dba publicdomainregistry.com | https://publicdomainregistry.com/ | Yes |
 | Cloud Yuqu LLC | https://www.diymysite.com/ | No |
-| CloudFlare, Inc. | https://www.cloudflare.com/ | No |
+| CloudFlare, Inc. | https://www.cloudflare.com/ | Yes |
 | Cocosislandsdomains, LLC | https://www.cocosislandsdomains.cc/ | No |
 | Columbiadomains, LLC | https://www.columbiadomains.net/ | No |
 | Combell NV | https://www.combell.com/ | No |
@@ -480,6 +480,7 @@ The following is a list of domain name registrars.
 | Nics Telekomunikasyon A.S. | https://www.nicproxy.com/ | No |
 | Nimzo 98, LLC | https://www.nimzo98.com/ | No |
 | Niuedomains, LLC | https://www.niuedomains.nu/ | No |
+| Njalla | https://njal.la/ | No |
 | Nom-iq Ltd. dba COM LAUDE | https://www.comlaude.com/ | Yes |
 | Nominalia Internet SL | https://www.nominalia.com/ | No |
 | Nominet Registrar Services Limited | https://www.nominetregistrar.co.uk/ | Yes |
@@ -707,8 +708,8 @@ The following is a list of domain name registrars.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 98 |
+| Cloudflare | 99 |
 | Normal | 589 |
 
 
-### 14.3% of Domain name registrars are using Cloudflare.
+### 14.4% of Domain name registrars are using Cloudflare.
