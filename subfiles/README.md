@@ -34,8 +34,9 @@
   - [How many % of VPN services are using Cloudflare?](cloudflared_vpnservice.md)
   - [How many % of URL Shortener services are using Cloudflare?](cloudflared_urlshortening.md)
   - [How many % of Bitcoin Exchange sites are using Cloudflare?](cloudflared_bitcoinexchange.md)
-  - [xxxxxxxx T B A xxxxxxxxxx](cloudflared_xxxxxxxxxxxxxx.md)
-  - [xxxxxxxx T B A xxxxxxxxxx](cloudflared_xxxxxxxxxxxxxx.md)
+  - [How many % of XMPP domains are using Cloudflare?](cloudflared_xmpp_domains.md)
+  - [How many % of File hosting services are using Cloudflare?](cloudflared_filehosting.md)
+  - [How many % of Domain name registrars are using Cloudflare?](cloudflared_domain_registrars.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
