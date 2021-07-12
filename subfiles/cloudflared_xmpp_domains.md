@@ -1,7 +1,7 @@
 ## How many % of XMPP domains are using Cloudflare?
 
 
-- [File hosting service](https://en.wikipedia.org/wiki/XMPP)
+- [XMPP](https://en.wikipedia.org/wiki/XMPP)
 ```
 Extensible Messaging and Presence Protocol (XMPP, originally named Jabber) is an open communication protocol 
 designed for instant messaging (IM), presence information, and contact list maintenance.
