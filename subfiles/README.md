@@ -37,6 +37,7 @@
   - [How many % of URL Shortener services are using Cloudflare?](cloudflared_urlshortening.md)
   - [How many % of VPN services are using Cloudflare?](cloudflared_vpnservice.md)
   - [How many % of Domain name registrars are using Cloudflare?](cloudflared_domain_registrars.md)
+  - [How many % of Mozilla's Root CAs are using Cloudflare?](cloudflared_mozilla_rootca.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
