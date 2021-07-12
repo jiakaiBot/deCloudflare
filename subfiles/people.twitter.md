@@ -7,6 +7,9 @@
 
 
 
+- Using a service that appears to use Cloudflare. Intermittently the route will change and the service drops out, then 30mins-3hours later it changes back. Any idea why? Seems to route me to Syd, AUS from Perth, AUS. This is ISP independent. ([pantonious](https://twitter.com/pantonious/status/1414172503233110021))
+- Web server is returning an unknown error There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed. Ray ID: 66d325dfdbbe53fe Your IP : Error reference number: 520 Cloudflare Location: London ([regchan](https://twitter.com/regchan/status/1414249448989933568))
+- has a really really fast VPN service. Now, allow me to choose the country/location I want to connect to and I will pay for it. ([gaichuhie](https://twitter.com/gaichuhie/status/1414325380857597955))
 - Every time I see a javascript-requiring cloudflare MiTM page I get mad about the current state of the internet ([dustyweb](https://twitter.com/dustyweb/status/1413221353654734850))
 - hi I’m trying to create an account but it’s coming up with a Cloudflare error message? Is the website down? ([seb_cheetham](https://twitter.com/seb_cheetham/status/1413060755491069958))
 - I believe the topic was rather that DoH doesn't fix the privacy issue. You move the (dis)trust from your own ISP to some external party (usually Cloudflare) and their upstream. Same thing with VPN. You move the monitoring capabilities from your ISP to the VPN provider. ([dezestijn](https://twitter.com/DezeStijn/status/1412667780730699777))
