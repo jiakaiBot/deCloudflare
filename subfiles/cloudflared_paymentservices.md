@@ -47,7 +47,6 @@ The following is a list of payment service providers.
 | IP Payments | https://www.ippayments.com/ | No |
 | Ingenico | https://www.ingenico.com/ | Yes |
 | Klarna | https://www.klarna.com/ | No |
-| LINE Pay | https://linepaycorp.com/ | No |
 | LINE Pay | https://pay.line.me/ | No |
 | M-Pesa | https://www.vodafone.com/ | Yes |
 | Merpay | https://about.mercari.com/ | No |
@@ -105,7 +104,7 @@ The following is a list of payment service providers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 30 |
-| Normal | 54 |
+| Normal | 53 |
 
 
-### 35.7% of payment service providers are using Cloudflare.
+### 36.1% of payment service providers are using Cloudflare.
