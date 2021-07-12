@@ -22,6 +22,7 @@
     - [Europe](cloudflared_financial_europe.md)
     - [Oceania](cloudflared_financial_oceania.md)
   - [How many % of Bitcoin Exchange sites are using Cloudflare?](cloudflared_bitcoinexchange.md)
+  - [How many % of payment service providers are using Cloudflare?](cloudflared_paymentservices.md)
   - [How many % of public Fediverse services are using Cloudflare?](cloudflared_fediverse.md)
   - [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
   - [How many % of public Git services are using Cloudflare?](cloudflared_gitservices.md)
