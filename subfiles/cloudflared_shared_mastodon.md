@@ -16,7 +16,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 ----
 
-### ( From `2021-07-13` to `2021-07-13` )
+### ( From `Alpha` to `Omega` )
 
 ### Top 100 - Shared Any links
 
@@ -49,6 +49,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
   - Above number include toots which has no link.
 - Now let's focus on Mastodon toots which has links.
 
+![](../image/bully.jpg)
 
 - Mastodon users shared *267* links in total.
   - *78* links are Cloudflare links. (*29.2*%)
