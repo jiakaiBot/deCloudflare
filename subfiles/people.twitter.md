@@ -7,6 +7,13 @@
 
 
 
+- MarketingTwitter anyone having trouble with Canva not loading atm? I can’t download anything and getting an error message from Cloudflare. ([alineeim](https://twitter.com/alineeim/status/1414573932766715908))
+- 12 hours and still no form. DNS error on CloudFlare ([boldranet](https://twitter.com/boldranet/status/1414544212570292225))
+- I'm trying to log into WPEngine to investigate why Cloudflare are reporting errors for my clients' site, and I got a 520 error for the login page. Status page says all's good at WPE though? ([bekah_mcdonald](https://twitter.com/bekah_mcdonald/status/1414515358191529984))
+- Seems that when I perform the query from a few address ranges I'll get an 'Error 1020' from cloudflare; for some reason from tor, of all services, the query is not being filtered... :x ([m0rb](https://twitter.com/m0rb/status/1413349732005654530))
+- The JSON error is back and I'm triggering Cloudflare again lol. But at least this time we know where to look and take care of it. ([wpmainline](https://twitter.com/WPMainline/status/1412536190906023939))
+- Tous les services qui utilisent un front/edge (Cloudflare, CloudFront, CDN,...) cassent le HTTPS et sont des potentiels points de collecte. De véritables MitM. ([a_ferron](https://twitter.com/a_ferron/status/1400380694027816963))
+- I'm still experiencing Packet loss when using Cloudflare Dns. Google DNS works fine. no packet loss when using Googles DNS. ([kenneybear](https://twitter.com/KenneyBear/status/1409967204460814342))
 - Using a service that appears to use Cloudflare. Intermittently the route will change and the service drops out, then 30mins-3hours later it changes back. Any idea why? Seems to route me to Syd, AUS from Perth, AUS. This is ISP independent. ([pantonious](https://twitter.com/pantonious/status/1414172503233110021))
 - Web server is returning an unknown error There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed. Ray ID: 66d325dfdbbe53fe Your IP : Error reference number: 520 Cloudflare Location: London ([regchan](https://twitter.com/regchan/status/1414249448989933568))
 - has a really really fast VPN service. Now, allow me to choose the country/location I want to connect to and I will pay for it. ([gaichuhie](https://twitter.com/gaichuhie/status/1414325380857597955))
