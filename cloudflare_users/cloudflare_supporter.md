@@ -4790,6 +4790,7 @@ Do not create new issue or we will close it as duplicate.
 | [shoguniphicus@twitter](https://twitter.com/shoguniphicus/status/1387414142043058177) | advertise |
 | [shoonLaPyae4@twitter](https://twitter.com/shoonLaPyae4/status/1389818843208589315) | advertise |
 | [shootme_b@twitter](https://twitter.com/shootme_b/status/1382897397764923393) | advertise |
+| [Shop100B@twitter](https://twitter.com/Shop100B/status/1414421885320761347) | advertise |
 | [shotlike142@twitter](https://twitter.com/shotlike142/status/1404801868325392385) | advertise |
 | [ShreyaPatra20@twitter](https://twitter.com/ShreyaPatra20/status/1395317321221120003) | advertise |
 | [Shrinikethan5@twitter](https://twitter.com/Shrinikethan5/status/1386901853493858304) | advertise |
