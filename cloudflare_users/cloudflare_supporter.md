@@ -2067,6 +2067,7 @@ Do not create new issue or we will close it as duplicate.
 | [infectedmann@twitter](https://twitter.com/infectedmann/status/1388156292125143044) | advertise |
 | [InfoDigi3@twitter](https://twitter.com/InfoDigi3/status/1393209236088229896) | advertise |
 | [InfoSpaltron@twitter](https://twitter.com/InfoSpaltron/status/1380787310346825730) | advertise |
+| [Infoteka_24@twitter](https://twitter.com/Infoteka_24/status/1414674132596400130) | advertise |
 | [IngyinK57955372@twitter](https://twitter.com/IngyinK57955372/status/1395191457548472320) | advertise |
 | [INotCoreUser1@twitter](https://twitter.com/INotCoreUser1/status/1392768420135981059) | advertise |
 | [inoxtinta123@twitter](https://twitter.com/inoxtinta123/status/1383637274684903438) | advertise |
