@@ -7,6 +7,7 @@
 
 
 
+- Mano fui tentar resolver os b.o do launcher do lol n abrir agora to tomando captcha da cloudflare em quase todo site que eu abro alguém me mate-me ([eradanlol](https://twitter.com/Eradanlol/status/1414985308890873857))
 - MarketingTwitter anyone having trouble with Canva not loading atm? I can’t download anything and getting an error message from Cloudflare. ([alineeim](https://twitter.com/alineeim/status/1414573932766715908))
 - 12 hours and still no form. DNS error on CloudFlare ([boldranet](https://twitter.com/boldranet/status/1414544212570292225))
 - I'm trying to log into WPEngine to investigate why Cloudflare are reporting errors for my clients' site, and I got a 520 error for the login page. Status page says all's good at WPE though? ([bekah_mcdonald](https://twitter.com/bekah_mcdonald/status/1414515358191529984))
