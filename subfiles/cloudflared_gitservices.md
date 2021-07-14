@@ -158,6 +158,7 @@ Here's a list of public Git services.
 | git.polytech-services-nancy.fr | No |
 | git.posti.io | No |
 | git.pyrocko.org | No |
+| git.qoto.org | No |
 | git.radio.clubs.etsit.upm.es | No |
 | git.rbcommunity.info | Yes |
 | git.reclaimfutures.org | No |
@@ -309,7 +310,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 52 |
-| Normal | 221 |
+| Normal | 222 |
 
 
-### 19.1% of public Git services are using Cloudflare.
+### 19.0% of public Git services are using Cloudflare.
