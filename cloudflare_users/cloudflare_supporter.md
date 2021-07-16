@@ -882,6 +882,7 @@ Do not create new issue or we will close it as duplicate.
 | [byunlamin04@twitter](https://twitter.com/byunlamin04/status/1389980476031569923) | advertise |
 | [c09643643@twitter](https://twitter.com/c09643643/status/1385578671075840001) | advertise |
 | [c95405246@twitter](https://twitter.com/c95405246/status/1397498966304980999) | advertise |
+| [cabbage0102@twitter](https://twitter.com/cabbage0102/status/1415316191942299651) | advertise |
 | [Caesar24749342@twitter](https://twitter.com/Caesar24749342/status/1381276732813058049) | advertise |
 | [calicomin99@twitter](https://twitter.com/calicomin99/status/1395979320401620992) | advertise |
 | [callmebyurnam18@twitter](https://twitter.com/callmebyurnam18/status/1401480809123508227) | advertise |
@@ -2303,6 +2304,7 @@ Do not create new issue or we will close it as duplicate.
 | [K70263621@twitter](https://twitter.com/K70263621/status/1391000632845344774) | advertise |
 | [k98785618@twitter](https://twitter.com/k98785618/status/1390366313500008449) | advertise |
 | [ka50822655@twitter](https://twitter.com/ka50822655/status/1399136806856060928) | advertise |
+| [KabeersNetwork@twitter](https://twitter.com/KabeersNetwork/status/1415380733221392388) | advertise |
 | [KACHA35541338@twitter](https://twitter.com/KACHA35541338/status/1402959497266556928) | advertise |
 | [KAI10505564@twitter](https://twitter.com/KAI10505564/status/1391967142015164417) | advertise |
 | [Kaif88678916@twitter](https://twitter.com/Kaif88678916/status/1378248726020456451) | advertise |
@@ -4725,6 +4727,7 @@ Do not create new issue or we will close it as duplicate.
 | [sgclabglass@twitter](https://twitter.com/sgclabglass/status/1391577319232335872) | advertise |
 | [SGhosting3@twitter](https://twitter.com/SGhosting3/status/1395637273262116866) | advertise |
 | [sh1mc@twitter](https://twitter.com/sh1mc/status/1401972658242084864) | advertise |
+| [sha3rawi33@twitter](https://twitter.com/sha3rawi33/status/1415611299602501632) | advertise |
 | [Shabpare4@twitter](https://twitter.com/Shabpare4/status/1398453177666711558) | advertise |
 | [Shadman38414210@twitter](https://twitter.com/Shadman38414210/status/1386715055601840135) | advertise |
 | [Shadow28370711@twitter](https://twitter.com/Shadow28370711/status/1398972532217188355) | advertise |
