@@ -1144,6 +1144,7 @@ Or is this merely a case of simple modesty?
 | Nancy Gao | Employee | [🖼](../image/gang/Nancy_Gao.jpg) |
 | Nandini Jayarajan | Employee |  |
 | Natalie Valdes | Team Coordinator |  |
+| Natasha Wissmann | Employee | |
 | Nate Asp | Customer Development |  |
 | Nauzer Gotla | Vice President, Internal Audit |  |
 | Naveen Singh | Solutions Engineer |  |
