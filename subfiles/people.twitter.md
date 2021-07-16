@@ -7,6 +7,12 @@
 
 
 
+- Cloudflare is in the business of providing security services to hate sites, such as Kiwifarms. They are ultimately MiTM as a service and have created an unnecessary single point of failure for a lot of major, otherwise independent internet properties. Drop them. ([naiagoesawoo](https://twitter.com/naiagoesawoo/status/1415090179233050624))
+- Weird, I’ve seen a seemingly random Cloudflare error pages across five very sites this evening. Each time a reload clears the problem. ([mhat](https://twitter.com/mhat/status/1415154967871057920))
+- Your site is being blocked to users by in error, can you post direct links to sites people can use? Why is Cloudflare blocking all your content from sites posted on ? I can send screenshots if you want. I do actually want things from so quite annoying. ([feelitworking](https://twitter.com/FeelitWorking/status/1415111925273436162))
+- Access to all the sites in the MSE Tips emails are currently being blocked by . You need to speak to them as they are effectively blocking your users, limiting traffic and business for advertisers in error. ([feelitworking](https://twitter.com/FeelitWorking/status/1415109098580946953))
+- It was more a snarky comment that every site I visited today that was Cloudflare hosted had me do captcha first. Every time. ([brindy](https://twitter.com/brindy/status/1415804469959331845))
+- Hey where do I send the invoice for my time spent training your Captcha AI? ([brindy](https://twitter.com/brindy/status/1415648542736138241))
 - Mano fui tentar resolver os b.o do launcher do lol n abrir agora to tomando captcha da cloudflare em quase todo site que eu abro alguém me mate-me ([eradanlol](https://twitter.com/Eradanlol/status/1414985308890873857))
 - MarketingTwitter anyone having trouble with Canva not loading atm? I can’t download anything and getting an error message from Cloudflare. ([alineeim](https://twitter.com/alineeim/status/1414573932766715908))
 - 12 hours and still no form. DNS error on CloudFlare ([boldranet](https://twitter.com/boldranet/status/1414544212570292225))
