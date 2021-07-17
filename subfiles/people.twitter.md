@@ -7,6 +7,10 @@
 
 
 
+- Behalve dat Carrier Grade NAT praktisch gezien als een VPN maskeert, daarnaast wordt de source port nog steeds niet standaard opgeslagen in logging. Bij onhandig gebruik van Cloudflare is de info ook weg etc. Los van de actieve maatregelen van de gebruiker. ([idafanatic](https://twitter.com/idafanatic/status/1415920857025761284))
+- Help! I'm on a newer Alienware laptop that I am getting Error 1020 access denied on several websites I used to visit all the time! I have gone through so many things and still getting this. ([mommyjenna](https://twitter.com/MommyJenna/status/1415132475001614338))
+- hey, you guys aware that your DNS service is having issues with some online games, like Apex Legends from ? After changing DNS service I can now play the game, something that hasn't been possible for over a week. ([thelostswede](https://twitter.com/TheLostSwede/status/1414896627433701377))
+- I just can't use Wasabi （哇傻逼）with . error We encountered an internal error. Please retry the operation again later. Panic in userserver request from 81.211.146.11:36386: runtime error: slice bounds out of range :5 with length 4 ([v2ph2](https://twitter.com/V2ph2/status/1415909102719430657))
 - Cloudflare is in the business of providing security services to hate sites, such as Kiwifarms. They are ultimately MiTM as a service and have created an unnecessary single point of failure for a lot of major, otherwise independent internet properties. Drop them. ([naiagoesawoo](https://twitter.com/naiagoesawoo/status/1415090179233050624))
 - Weird, I’ve seen a seemingly random Cloudflare error pages across five very sites this evening. Each time a reload clears the problem. ([mhat](https://twitter.com/mhat/status/1415154967871057920))
 - Your site is being blocked to users by in error, can you post direct links to sites people can use? Why is Cloudflare blocking all your content from sites posted on ? I can send screenshots if you want. I do actually want things from so quite annoying. ([feelitworking](https://twitter.com/FeelitWorking/status/1415111925273436162))
