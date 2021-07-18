@@ -7,6 +7,10 @@
 
 
 
+- can you please update the status website on the current outage ? Gateway time-out The web server reported a gateway time-out error. Ray ID: 67041b7cdeea0493 Your IP address: 92.154.105.63 Error reference number: 504 Cloudflare Location: Paris ([verybadgeekshop](https://twitter.com/verybadgeekshop/status/1416403125729116167))
+- WTF Cloudflare constantly pops 525 error from about 1 or 2 weeks ago The website we're running works fine in the past years, and it just suddenly gives http 525 most of the time WTF just happened Cloudflare? ([tzwcard](https://twitter.com/tzwcard/status/1415258869308166147))
+- Direct link to site? The one you posted is being blocked to users by in error. you need to ask them to stop blocking sites companies are paying you to advertise. People can't see the offers. Your links do not work, each one is blocked! ([feelitworking](https://twitter.com/FeelitWorking/status/1415113227344678917))
+- Please unblock Cuban IP addresses. It is maybe a Cloudflare issue but cubans can only play using VPN. ([drlorente97](https://twitter.com/drlorente97/status/1416395455630557188))
 - Behalve dat Carrier Grade NAT praktisch gezien als een VPN maskeert, daarnaast wordt de source port nog steeds niet standaard opgeslagen in logging. Bij onhandig gebruik van Cloudflare is de info ook weg etc. Los van de actieve maatregelen van de gebruiker. ([idafanatic](https://twitter.com/idafanatic/status/1415920857025761284))
 - Help! I'm on a newer Alienware laptop that I am getting Error 1020 access denied on several websites I used to visit all the time! I have gone through so many things and still getting this. ([mommyjenna](https://twitter.com/MommyJenna/status/1415132475001614338))
 - hey, you guys aware that your DNS service is having issues with some online games, like Apex Legends from ? After changing DNS service I can now play the game, something that hasn't been possible for over a week. ([thelostswede](https://twitter.com/TheLostSwede/status/1414896627433701377))
