@@ -7,6 +7,7 @@
 
 
 
+- Some of your articles make it clear that you're aware of Tor, and yet you pimp ReadTheDocs, a privacy-abusing & exclusive Tor-hostile service that forces those who want to access documentation into Cloudflare's walled-garden. Plz consider reversing that. Plz tell your readers that Cloudflare is socially harmful & write your guide to show people how to avoid RTD. ([resist1984](https://social.privacytools.io/@resist1984/106596045466887566))
 - A down moment does not count as "breaking the Internet". But when a CDN's policy causes it to non-stop deny service to various classes of users, like Cloudflare does, that is most certainly "breaking the Internet". Now get the spotlight off Fastly and put it back on Cloudflare where it belongs. ([resist1984](https://social.privacytools.io/@resist1984/106564470267665771))
 - I've heard someone complain that they get Cloudflare CAPTCHAs all over the place b/c of being behind CGNAT, so I assumed it was everyone. Perhaps it only happens if someone in your IP pool runs a bot on CF sites. It would be interesting to have some statistics on this. ([resist1984](https://social.privacytools.io/@resist1984/106540159094379036))
 - I really appreciate all your feedback. I'm trying to get an idea of Cloudflare's impact beyond Tor & apparently ppl in Russia, Serbia, Poland, Germany, Austria, Italy, Spain, Philippines, & India all must be getting CAPTCHA at an unbearable frequency due to CGNAT, correct? ([resist1984](https://social.privacytools.io/@resist1984/106539623255475244))
