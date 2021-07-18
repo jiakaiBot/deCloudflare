@@ -10,6 +10,7 @@ a1-106.akam.net
 a1-107.akam.net
 a1-108.akam.net
 a1-109.akam.net
+a1-11.akam.net
 a1-110.akam.net
 a1-111.akam.net
 a1-112.akam.net
@@ -484,6 +485,7 @@ ns1-50.akam.net
 ns1-52.akam.net
 ns1-56.akam.net
 ns1-57.akam.net
+ns1-6.akam.net
 ns1-61.akam.net
 ns1-62.akam.net
 ns1-63.akam.net
