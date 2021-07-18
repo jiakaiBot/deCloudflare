@@ -151,6 +151,7 @@ Do not create new issue or we will close it as duplicate.
 | [Adlinek@twitter](https://twitter.com/Adlinek/status/1386212969223122947) | advertise |
 | [adock12345@twitter](https://twitter.com/adock12345/status/1382531067207421953) | advertise |
 | [adora3021@twitter](https://twitter.com/adora3021/status/1390581418401484801) | advertise |
+| [AdsbtcClick@twitter](https://twitter.com/AdsbtcClick/status/1412393199323299843) | advertise |
 | [adspedia@twitter](https://twitter.com/adspedia/status/1394396121141743623) | advertise |
 | [adtyekputr@twitter](https://twitter.com/adtyekputr/status/1383066237186363395) | advertise |
 | [adxdxa@twitter](https://twitter.com/adxdxa/status/1378400549658357760) | advertise |
@@ -1437,6 +1438,7 @@ Do not create new issue or we will close it as duplicate.
 | [farithaidil75@twitter](https://twitter.com/farithaidil75/status/1395571970440253440) | advertise |
 | [farooq_furkhan@twitter](https://twitter.com/farooq_furkhan/status/1406526860792455169) | advertise |
 | [Farzin19576702@twitter](https://twitter.com/Farzin19576702/status/1391834415785861120) | advertise |
+| [faucetbch@twitter](https://twitter.com/faucetbch/status/1416471725643075589) | advertise |
 | [Fauzan85586001@twitter](https://twitter.com/Fauzan85586001/status/1403997313991811072) | advertise |
 | [Fazian47524484@twitter](https://twitter.com/Fazian47524484/status/1400881570408394753) | advertise |
 | [FbworlNews@twitter](https://twitter.com/FbworlNews/status/1401094204743372800) | advertise |
@@ -2013,8 +2015,10 @@ Do not create new issue or we will close it as duplicate.
 | [i9zc4IQ1VoYEKF0@twitter](https://twitter.com/i9zc4IQ1VoYEKF0/status/1384246450146533391) | advertise |
 | [iamakash_2004@twitter](https://twitter.com/iamakash_2004/status/1383364300618690561) | advertise |
 | [iamAkib1@twitter](https://twitter.com/iamAkib1/status/1384753030789091333) | advertise |
+| [iAmarMustafa@twitter](https://twitter.com/iAmarMustafa/status/1416429223472898049) | advertise |
 | [iamdenmau@twitter](https://twitter.com/iamdenmau/status/1401795231058739200) | advertise |
 | [iamdevil_op@twitter](https://twitter.com/iamdevil_op/status/1382620485733654528) | advertise |
+| [IamErMao@twitter](https://twitter.com/IamErMao/status/1416080738076614664) | advertise |
 | [IamEthan3030@twitter](https://twitter.com/IamEthan3030/status/1390610688234590208) | advertise |
 | [iamjamiilkhan@twitter](https://twitter.com/iamjamiilkhan/status/1394134655419523073) | advertise |
 | [iamkakashi1252@twitter](https://twitter.com/iamkakashi1252/status/1386984066084343813) | advertise |
