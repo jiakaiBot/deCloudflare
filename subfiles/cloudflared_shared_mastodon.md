@@ -17,7 +17,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 ----
 
-### ( From `2021-07-17` to `2021-07-17` )
+### ( From `2021-07-17` to `2021-07-18` )
 
 ### Top 10 - Shared Any links
 
@@ -25,16 +25,16 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Mastodon User | Links |
 | --- | --- | --- |
-| 1 | freax@anonsys.net | 13 |
-| 2 | earthquake@social.yl.ms | 10 |
-| 3 | archlinux@pokemon.men | 8 |
-| 4 | ponypics@equestria.social | 8 |
-| 5 | birbs@neckbeard.xyz | 7 |
-| 6 | golem@squeet.me | 6 |
-| 7 | snoro@mastodon.social | 6 |
-| 8 | stux@mstdn.social | 6 |
-| 9 | lemonde@newsbots.eu | 5 |
-| 10 | reuters_worldnews@newsbots.eu | 4 |
+| 1 | covid_stats@mastodon.cloud | 104 |
+| 2 | birbs@neckbeard.xyz | 89 |
+| 3 | mauthausengusen@qua.name | 80 |
+| 4 | hn50@social.lansky.name | 71 |
+| 5 | todayilearned@botsin.space | 70 |
+| 6 | archlinux@pokemon.men | 66 |
+| 7 | eldesconcierto@opensocial.at | 65 |
+| 8 | hntooter@mastodon.social | 64 |
+| 9 | reuters_worldnews@newsbots.eu | 58 |
+| 10 | vtvcanal8@mastodon.social | 54 |
 
 [//]: # (do not edit this line end)
 
@@ -45,16 +45,16 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Mastodon User | Links |
 | --- | --- | --- |
-| 1 | birbs@neckbeard.xyz | 7 |
-| 2 | stux@mstdn.social | 4 |
-| 3 | freax@anonsys.net | 4 |
-| 4 | bbcpersiannewsbot@aleph.land | 3 |
-| 5 | snoro@mastodon.social | 3 |
-| 6 | hnbot@botsin.space | 2 |
-| 7 | nilocram@framapiaf.org | 2 |
-| 8 | ponypics@equestria.social | 2 |
-| 9 | hn100@botsin.space | 2 |
-| 10 | neoresistant@mamot.fr | 2 |
+| 1 | covid_stats@mastodon.cloud | 104 |
+| 2 | birbs@neckbeard.xyz | 89 |
+| 3 | hn50@social.lansky.name | 48 |
+| 4 | hn100@social.lansky.name | 32 |
+| 5 | elpuntavui@mastodont.cat | 26 |
+| 6 | hntooter@mastodon.social | 25 |
+| 7 | hn100@botsin.space | 24 |
+| 8 | naturalnews@brighteon.social | 23 |
+| 9 | darulharb@social.quodverum.com | 21 |
+| 10 | blendernation@botsin.space | 20 |
 
 [//]: # (do not edit this line end)
 
@@ -64,22 +64,22 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 [//]: # (do not edit this line start; t3)
 
 
-- Mastodon users posted *841* public toots. (about *841* toots per day)
+- Mastodon users posted *11,671* public toots. (about *11671* toots per day)
   - Above number include toots which has no link.
 - Now let's focus on *Mastodon toots which has links*.
 
 ![](../image/bully.jpg)
 
-- Mastodon users shared *310* links in total.
-  - *70* links are Cloudflare links. (*22.6*%)
-- There are *165* users who shared ANY links.
-  - On average one mastodon user shared *1.9* links. (about *1.9* links per day)
-  - There are *34* users who ONLY shared Cloudflare links. (*20.6*%)
-  - There are *118* users who NEVER shared Cloudflare links. (*71.5*%)
+- Mastodon users shared *4,417* links in total.
+  - *1,174* links are Cloudflare links. (*26.6*%)
+- There are *1,115* users who shared ANY links.
+  - On average one mastodon user shared *4* links. (about *4* links per day)
+  - There are *188* users who ONLY shared Cloudflare links. (*16.9*%)
+  - There are *779* users who NEVER shared Cloudflare links. (*69.9*%)
 
 tl;dr
-### *28.5%* of Mastodon users who shared link shared Cloudflare links.
-### *22.6%* of shared links are Cloudflare links.
+### *30.1%* of Mastodon users who shared link shared Cloudflare links.
+### *26.6%* of shared links are Cloudflare links.
 
 [//]: # (do not edit this line end)
 
