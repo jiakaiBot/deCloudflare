@@ -25,7 +25,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Mastodon User | Links |
 | --- | --- | --- |
-| 1 | birbs@neckbeard.xyz | 216 |
+| 1 | birbs@neckbeard.xyz | 217 |
 | 2 | covid_stats@mastodon.cloud | 204 |
 | 3 | mauthausengusen@qua.name | 178 |
 | 4 | hn50@social.lansky.name | 173 |
@@ -45,7 +45,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Mastodon User | Links |
 | --- | --- | --- |
-| 1 | birbs@neckbeard.xyz | 216 |
+| 1 | birbs@neckbeard.xyz | 217 |
 | 2 | covid_stats@mastodon.cloud | 204 |
 | 3 | hn50@social.lansky.name | 120 |
 | 4 | hn100@social.lansky.name | 85 |
@@ -81,8 +81,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 34 | redfrog@mamot.fr | 15 |
 | 35 | hundriverwidow@social.quodverum.com | 15 |
 | 36 | interlignes@newsbots.eu | 15 |
-| 37 | androidpolice@mstdn.social | 13 |
-| 38 | mediapart@mastodon.online | 13 |
+| 37 | mediapart@mastodon.online | 14 |
+| 38 | androidpolice@mstdn.social | 13 |
 | 39 | blenderdomain@botsin.space | 13 |
 | 40 | artbot@botsin.space | 12 |
 | 41 | info_activism@mastodon.cc | 12 |
@@ -154,18 +154,18 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 [//]: # (do not edit this line start; t3)
 
 
-- Mastodon users posted *28,004* public toots. (about *14002* toots per day)
+- Mastodon users posted *28,018* public toots. (about *14009* toots per day)
   - Above number include toots which has no link.
 - Now let's focus on *Mastodon toots which has links*.
 
 ![](../image/bully.jpg)
 
-- Mastodon users shared *10,616* links in total.
-  - *2,827* links are Cloudflare links. (*26.6*%)
-- There are *2,027* users who shared ANY links.
+- Mastodon users shared *10,622* links in total.
+  - *2,830* links are Cloudflare links. (*26.6*%)
+- There are *2,029* users who shared ANY links.
   - On average one mastodon user shared *5.2* links. (about *2.6* links per day)
-  - There are *294* users who ONLY shared Cloudflare links. (*14.5*%)
-  - There are *1,395* users who NEVER shared Cloudflare links. (*68.8*%)
+  - There are *295* users who ONLY shared Cloudflare links. (*14.5*%)
+  - There are *1,396* users who NEVER shared Cloudflare links. (*68.8*%)
 
 tl;dr
 ### *31.2%* of Mastodon users who shared link shared Cloudflare links.
