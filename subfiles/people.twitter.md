@@ -7,6 +7,11 @@
 
 
 
+- Getting a CloudFlare error trying to open a support ticket? ([commanderb](https://twitter.com/CommanderB/status/1416808773788835842))
+- Oh, a few weeks ago I had a script that was calling Etherscan API (with a newly minted API key) and it kept being redirected to cloudflare's captcha page. "Yes, genius, of course I am a bot." wasn't an option... ([rlullis](https://twitter.com/rlullis/status/1415667781752659970))
+- could you change how frequently cloudflare does the really annoying captcha thing? ([daparkvid](https://twitter.com/daparkvid/status/1414962215099174925))
+- Your network is experiencing a lot of issues. Please check this. Status page does not seem to reflect true status at all. :( ([ignorant5year](https://twitter.com/ignorant5year/status/1415855542078083075))
+- Putting the site behind Cloudflare means they get all data in plain text since they MITM traffic. They would have IPs of everyone downloading Bitcoin Core ([_emilbergdahl](https://twitter.com/_emilbergdahl/status/1416491171094880266))
 - can you please update the status website on the current outage ? Gateway time-out The web server reported a gateway time-out error. Ray ID: 67041b7cdeea0493 Your IP address: 92.154.105.63 Error reference number: 504 Cloudflare Location: Paris ([verybadgeekshop](https://twitter.com/verybadgeekshop/status/1416403125729116167))
 - WTF Cloudflare constantly pops 525 error from about 1 or 2 weeks ago The website we're running works fine in the past years, and it just suddenly gives http 525 most of the time WTF just happened Cloudflare? ([tzwcard](https://twitter.com/tzwcard/status/1415258869308166147))
 - Direct link to site? The one you posted is being blocked to users by in error. you need to ask them to stop blocking sites companies are paying you to advertise. People can't see the offers. Your links do not work, each one is blocked! ([feelitworking](https://twitter.com/FeelitWorking/status/1415113227344678917))
