@@ -54,6 +54,7 @@ Here's a list of public Git services.
 | drone.tildegit.org | No |
 | erj4.uk | No |
 | finallycoffee.eu | No |
+| forge.april.org | No |
 | forge.chapril.org | No |
 | framagit.org | No |
 | g.plsnotracking.com | No |
@@ -62,6 +63,7 @@ Here's a list of public Git services.
 | git.acloud.one | Yes |
 | git.activitypub.dev | No |
 | git.aite.xyz | No |
+| git.alexwennerberg.com | No |
 | git.alles.cx | No |
 | git.artezio.net | No |
 | git.aslcontrol.com | No |
@@ -310,7 +312,7 @@ Here's a list of public Git services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 52 |
-| Normal | 222 |
+| Normal | 224 |
 
 
-### 19.0% of public Git services are using Cloudflare.
+### 18.8% of public Git services are using Cloudflare.
