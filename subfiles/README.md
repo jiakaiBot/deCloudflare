@@ -8,6 +8,7 @@
   - [Which website rejected me?](about.urjm.md)
 - Service
   - [Public DNS](service.publicdns.md)
+  - [IAList](https://ialist.crimeflare.eu.org)
   - [Alternative Link](service.altlink.md)
   - [Ss](service.sercxi.md)
 - Cloudflared
