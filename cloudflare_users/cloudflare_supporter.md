@@ -322,6 +322,7 @@ Do not create new issue or we will close it as duplicate.
 | [AndrewNguyn7@twitter](https://twitter.com/AndrewNguyn7/status/1398873098959560708) | advertise |
 | [AndrewYagami51@twitter](https://twitter.com/AndrewYagami51/status/1390187834758156293) | advertise |
 | [andriannp@twitter](https://twitter.com/andriannp/status/1401023261085814787) | advertise |
+| [androidwdlka@twitter](https://twitter.com/androidwdlka/status/1416445074230161412) | advertise |
 | [Andy007Yt@twitter](https://twitter.com/Andy007Yt/status/1407395648492670977) | advertise |
 | [Angel64305780@twitter](https://twitter.com/Angel64305780/status/1390191404953997312) | advertise |
 | [AngelaSneed14@twitter](https://twitter.com/AngelaSneed14/status/1377523632595931143) | advertise |
@@ -2054,6 +2055,7 @@ Do not create new issue or we will close it as duplicate.
 | [Imiss2302@twitter](https://twitter.com/Imiss2302/status/1404120201159798790) | advertise |
 | [Immortalgod13@twitter](https://twitter.com/Immortalgod13/status/1391123421203820546) | advertise |
 | [ImmotalMy@twitter](https://twitter.com/ImmotalMy/status/1403607300137492481) | advertise |
+| [ImmTelecom@twitter](https://twitter.com/ImmTelecom/status/1416853736949878786) | advertise |
 | [ImranKh71814473@twitter](https://twitter.com/ImranKh71814473/status/1387290263626731523) | advertise |
 | [ImranOveek@twitter](https://twitter.com/ImranOveek/status/1392932554303369216) | advertise |
 | [IMRANSM3@twitter](https://twitter.com/IMRANSM3/status/1376860023729446913) | advertise |
@@ -2231,6 +2233,7 @@ Do not create new issue or we will close it as duplicate.
 | [jlamp_235@twitter](https://twitter.com/jlamp_235/status/1382663818568814597) | advertise |
 | [JLSosaJr@twitter](https://twitter.com/JLSosaJr/status/1382253002765991940) | advertise |
 | [jmconfuzeus@twitter](https://twitter.com/jmconfuzeus/status/1378625177022423040) | advertise |
+| [jmexclusives@twitter](https://twitter.com/jmexclusives/status/1416631625841053697) | advertise |
 | [JN0GIN@twitter](https://twitter.com/JN0GIN/status/1404648361060413441) | advertise |
 | [Jobin99546177@twitter](https://twitter.com/Jobin99546177/status/1401628047825059841) | advertise |
 | [jocker263199@twitter](https://twitter.com/jocker263199/status/1396118797484953605) | advertise |
@@ -4395,6 +4398,7 @@ Do not create new issue or we will close it as duplicate.
 | [qwqFizzy@twitter](https://twitter.com/qwqFizzy/status/1406575544418770946) | advertise |
 | [qxip@twitter](https://twitter.com/qxip/status/1370122122450853893) | advertise |
 | [qxpuSskf3TL3PLD@twitter](https://twitter.com/qxpuSskf3TL3PLD/status/1376947809757372416) | advertise |
+| [q_dome@twitter](https://twitter.com/q_dome/status/1416897207383494660) | advertise |
 | [Ra36279199@twitter](https://twitter.com/Ra36279199/status/1395644864587501569) | advertise |
 | [racycars@twitter](https://twitter.com/racycars/status/1394606713827778561) | advertise |
 | [radpaluszak@twitter](https://twitter.com/radpaluszak/status/1398323773435265028) | advertise |
