@@ -148,6 +148,7 @@ Or is this merely a case of simple modesty?
 | Andres H. Pimentel | Gtm Research & Development |  |
 | Andres Mariscal | Data Scientist |  |
 | Andrew A. Schafer | Writer |  |
+| Andrew DeMaria | Employee | |
 | Andrew Fitch | Developer | https://twitter.com/fitchaj<br>[🖼](../image/gang/Andrew_Fitch.jpg) |
 | Andrew Galloni | Front End Engineer | [🖼](../image/gang/Andrew_Galloni.jpg) |
 | Andrew Geiser | Account Executive |  |
