@@ -1013,7 +1013,7 @@ Here's `NS details` of all registered domains. (_ICANN / July 20 2021_)
 
 
 - `.com` `.net` `.org` are the most registered domains.
-- **4.18%**% of registered domains are using Cloudflare nameserver.
+- **4.18**% of registered domains are using Cloudflare nameserver.
 
 
 What about other nameservers?
