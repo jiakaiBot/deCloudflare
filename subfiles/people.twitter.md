@@ -7,6 +7,9 @@
 
 
 
+- So python-requests kept getting the Cloudflare CAPTCHA page, but repeating the exact same request over a custom TCP connection was allowed through. Turns out urllib3 sets OPNOTICKET in its SSLContext, and the Cloudflare bot protection system Does Not Like that. ([gray9782](https://twitter.com/gray9782/status/1405828423923154946))
+- Dear Bryce, We in Iran can't play without VPN. And apparently, VPNs make it harder to connect (Due to server restrictions by Cloudflare). Can you be the voice of the voiceless? With love and respect ([eshahshahani](https://twitter.com/eshahshahani/status/1416978761216561153))
+- Who said social media clout was useless again? ([uwwgo](https://twitter.com/uwwgo/status/1417167725991010304))
 - Getting a CloudFlare error trying to open a support ticket? ([commanderb](https://twitter.com/CommanderB/status/1416808773788835842))
 - Oh, a few weeks ago I had a script that was calling Etherscan API (with a newly minted API key) and it kept being redirected to cloudflare's captcha page. "Yes, genius, of course I am a bot." wasn't an option... ([rlullis](https://twitter.com/rlullis/status/1415667781752659970))
 - could you change how frequently cloudflare does the really annoying captcha thing? ([daparkvid](https://twitter.com/daparkvid/status/1414962215099174925))
