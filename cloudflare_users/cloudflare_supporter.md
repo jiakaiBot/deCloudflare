@@ -416,6 +416,7 @@ Do not create new issue or we will close it as duplicate.
 | [ArShin48050365@twitter](https://twitter.com/ArShin48050365/status/1383422252864065541) | advertise |
 | [Arsian84722563@twitter](https://twitter.com/Arsian84722563/status/1392123750821208068) | advertise |
 | [ArteImmaginePh3@twitter](https://twitter.com/ArteImmaginePh3/status/1370471352373772291) | advertise |
+| [artem_shar@twitter](https://twitter.com/artem_shar/status/1417034537343782916) | advertise |
 | [ArThaNae1@twitter](https://twitter.com/ArThaNae1/status/1391247931856982016) | advertise |
 | [Arulnithish777@twitter](https://twitter.com/Arulnithish777/status/1391730535290925057) | advertise |
 | [ArunAR46303075@twitter](https://twitter.com/ArunAR46303075/status/1387955082105290754) | advertise |
@@ -2142,6 +2143,7 @@ Do not create new issue or we will close it as duplicate.
 | [JaldipVala@twitter](https://twitter.com/JaldipVala/status/1391695726564962304) | advertise |
 | [Jam3YGN@twitter](https://twitter.com/Jam3YGN/status/1390702777521696769) | advertise |
 | [Jamaine33344511@twitter](https://twitter.com/Jamaine33344511/status/1388277841964457986) | advertise |
+| [JamalKaksouri@twitter](https://twitter.com/JamalKaksouri/status/1417143011771928581) | advertise |
 | [JameHaru@twitter](https://twitter.com/JameHaru/status/1381285784913727492) | advertise |
 | [james64885116@twitter](https://twitter.com/james64885116/status/1405101182339620865) | advertise |
 | [James86583236@twitter](https://twitter.com/James86583236/status/1390817774163791872) | advertise |
@@ -5767,6 +5769,7 @@ Do not create new issue or we will close it as duplicate.
 | [Wasisdas6@twitter](https://twitter.com/Wasisdas6/status/1398700969160896519) | advertise |
 | [watermelaa@twitter](https://twitter.com/watermelaa/status/1379361436393041922) | advertise |
 | [wathanminbo@twitter](https://twitter.com/wathanminbo/status/1394217050822909952) | advertise |
+| [websamrat@twitter](https://twitter.com/websamrat/status/1417114848085696515) | advertise |
 | [Weed36471988@twitter](https://twitter.com/Weed36471988/status/1385586093697880071) | advertise |
 | [weirdo7822@twitter](https://twitter.com/weirdo7822/status/1390378835703599106) | advertise |
 | [weixinhan@twitter](https://twitter.com/weixinhan/status/1385103220226236416) | advertise |
