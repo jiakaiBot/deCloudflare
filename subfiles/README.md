@@ -8,6 +8,7 @@
   - [Which website rejected me?](about.urjm.md)
 - Service
   - [Public DNS](service.publicdns.md)
+  - [Clearnet Onion](https://clearnetonion.eu.org)
   - [IAList](https://ialist.crimeflare.eu.org)
   - [Alternative Link](service.altlink.md)
   - [Ss](service.sercxi.md)
