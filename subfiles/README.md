@@ -9,6 +9,7 @@
 - Service
   - [Public DNS](service.publicdns.md)
   - [Clearnet Onion](https://clearnetonion.eu.org)
+  - [Mastodon Find](https://toot.crimeflare.eu.org), ("[Find Mastodon Toots & Accounts](../tool/mastodonfind/README.md)")
   - [IAList](https://ialist.crimeflare.eu.org)
   - [Alternative Link](service.altlink.md)
   - [Ss](service.sercxi.md)
