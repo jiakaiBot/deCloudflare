@@ -32,12 +32,10 @@ The following is a list of URL shortener services.
 | 2ya.com | Yes |
 | 301.run | No |
 | 4ks.net | No |
-| 4url.cc | No |
 | 6url.com | No |
 | 7.ly | No |
 | 999.sh | No |
 | 9en.us | No |
-| a.gg | No |
 | a.ll.st | No |
 | a.nf | Yes |
 | a2a.me | Yes |
@@ -52,24 +50,19 @@ The following is a list of URL shortener services.
 | adf.ly | Yes |
 | adflav.com | No |
 | adfoc.us | Yes |
-| adjix.com | No |
 | adlock.in | No |
 | adnld.com | Yes |
 | adshrink.it | Yes |
 | adurl.biz | Yes |
-| ah.pe | No |
 | ai6.net | No |
 | aka.gr | Yes |
 | al.ly | Yes |
 | alturl.com | Yes |
 | ar.gy | No |
-| arseh.at | No |
 | articleshrine.com | No |
-| asso.in | No |
 | at.cmt.com | No |
 | at5.us | Yes |
 | atu.ca | No |
-| awe.sm | No |
 | azon.biz | No |
 | b.link | No |
 | b1t.io | Yes |
@@ -559,7 +552,7 @@ The following is a list of URL shortener services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 129 |
-| Normal | 410 |
+| Normal | 403 |
 
 
-### 23.9% of URL Shortener services are using Cloudflare.
+### 24.2% of URL Shortener services are using Cloudflare.
