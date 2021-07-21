@@ -4972,6 +4972,7 @@ Do not create new issue or we will close it as duplicate.
 | [ssbs36576411@twitter](https://twitter.com/ssbs36576411/status/1399095335973265418) | advertise |
 | [SSuiteSoftware@twitter](https://twitter.com/SSuiteSoftware/status/1372875712240230400) | advertise |
 | [STA54946378@twitter](https://twitter.com/STA54946378/status/1394890464516399107) | advertise |
+| [stamp_app@twitter](https://twitter.com/stamp_app/status/1417450714490605568) | advertise |
 | [starpratama@twitter](https://twitter.com/starpratama/status/1409534516167806978) | moral (advertise) |
 | [starwalker89@twitter](https://twitter.com/starwalker89/status/1391244115917033478) | advertise |
 | [StefanJack9@twitter](https://twitter.com/StefanJack9/status/1400858676550725637) | advertise |
