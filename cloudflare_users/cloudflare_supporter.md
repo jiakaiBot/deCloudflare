@@ -5463,6 +5463,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tri26055498@twitter](https://twitter.com/Tri26055498/status/1396165681427611653) | advertise |
 | [TribeEphraim@twitter](https://twitter.com/TribeEphraim/status/1378124350625173505) | advertise |
 | [TrickyKunn@twitter](https://twitter.com/TrickyKunn/status/1379848256000122880) | advertise |
+| [triknesiacom@twitter](https://twitter.com/triknesiacom/status/1417953851982766080) | advertise |
 | [Trinhh72838000@twitter](https://twitter.com/Trinhh72838000/status/1404848776213254147) | advertise |
 | [Trinhti04009131@twitter](https://twitter.com/Trinhti04009131/status/1389575782020763658) | advertise |
 | [TriPmt199x@twitter](https://twitter.com/TriPmt199x/status/1382502746528522244) | advertise |
