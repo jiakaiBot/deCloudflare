@@ -1,6 +1,6 @@
 - &#128444; [Telegram](telegram/)
 - &#128444; [Meme](meme/)
-- [image/\*.\* list]() (warning: heavy)
+- [image/\*.\* list](images.md) (warning: heavy)
 - Poster
   - What did you do to stop CloudFlare? [Type A](poster/typeA.jpg), [Type B](poster/typeB.jpg)
   - Years of CloudFlare [x1](poster/cfyears.jpg), [x4](poster/cfyears_x4.jpg)
