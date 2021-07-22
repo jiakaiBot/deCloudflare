@@ -170,6 +170,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [Unable to issue certificate because acme API is behind CloudFlare](https://community.letsencrypt.org/t/unable-to-issue-certificate-because-acme-api-is-behind-cloudflare/156269)
 - [fch.bet is behind CloudFlare](https://web.archive.org/web/https://frchan.bet/int/res/2905.html)
 - [Why does GL-inet promote it](https://forum.gl-inet.com/t/cloudflare/15825)
 - [Please, stop using Cloudflare on help.archive.org.](https://archive.org/post/1114639/please-stop-using-cloudflare-on-helparchiveorg)
