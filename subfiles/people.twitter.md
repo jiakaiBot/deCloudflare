@@ -7,6 +7,8 @@
 
 
 
+- I can't access the site. I get Cloudflare Error 1020. Not sure how I triggered the firewall. ([narumashii](https://twitter.com/Narumashii/status/1417638658509873153))
+- your website under a DDOS or something? Cloudflare turned up checking my browser then I get a page error. ([murphtothesky](https://twitter.com/murphtothesky/status/1417453446295429123))
 - So python-requests kept getting the Cloudflare CAPTCHA page, but repeating the exact same request over a custom TCP connection was allowed through. Turns out urllib3 sets OPNOTICKET in its SSLContext, and the Cloudflare bot protection system Does Not Like that. ([gray9782](https://twitter.com/gray9782/status/1405828423923154946))
 - Dear Bryce, We in Iran can't play without VPN. And apparently, VPNs make it harder to connect (Due to server restrictions by Cloudflare). Can you be the voice of the voiceless? With love and respect ([eshahshahani](https://twitter.com/eshahshahani/status/1416978761216561153))
 - Who said social media clout was useless again? ([uwwgo](https://twitter.com/uwwgo/status/1417167725991010304))
