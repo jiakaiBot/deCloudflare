@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-07-20: [Distributed Web Gateway increased level of 404 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/n6tfxccx39gq)
 - 2021-07-15: [Network Performance Issues in multiple datacenters](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w1vg6t8j05wm)
 - 2021-07-12: [Network Performance Issues in London, UK area.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2rkyw681jwfz)
 - 2021-07-08: [Degraded Network Performance in Baghdad, IQ](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bm61nvv44j3r)
