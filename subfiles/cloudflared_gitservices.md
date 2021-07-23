@@ -115,7 +115,6 @@ Here's a list of public Git services.
 | git.hardenedbsd.org | Yes |
 | git.hiitsdevin.dev | Yes |
 | git.hnmediatech.com | No |
-| git.honeypot.im | No |
 | git.hopol.cn | No |
 | git.hush.is | Yes |
 | git.hya.sk | No |
@@ -133,6 +132,7 @@ Here's a list of public Git services.
 | git.kageru.moe | No |
 | git.kaki87.net | No |
 | git.kalli.st | No |
+| git.kernel.org | No |
 | git.kfintech.com | No |
 | git.kiwifarms.net | Yes |
 | git.kknos.uber.space | No |
