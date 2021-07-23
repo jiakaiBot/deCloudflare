@@ -105,6 +105,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 - [Cloudflare outage and the risk in today's Internet](https://www.garron.blog/posts/cloudflare-outage.html)
 - [Turns out half the internet has a Single-Point-of-Failure called “Cloudflare”](https://easydns.com/blog/2020/07/20/turns-out-half-the-internet-has-a-single-point-of-failure-called-cloudflare/)
 - [Cloudflare and why it's bad](https://ella.wantscuddl.es/b/cloudflare)
+- [Piracy’s scofflaws – All roads lead through Cloudflare?](http://www.voxindie.org/cloudflare-helps-piracy-websites-hide-illegal-activities/)
 - [Vous vous souvenez de l'époque où DARPA avait conçu internet de manière à ce qu'il continue de fonctionner même quand un noeud du réseau est tombé ?](https://sebsauvage.net/links/?GSB_Fg)
 - [Die zentralisierung des Internets](https://blog.bka.li/~/JustForFun/cloudflare/)
 - [Is Cloudflare safe yet?](https://iscloudflaresafeyet.com)
