@@ -170,8 +170,8 @@ set 5
 
 - Mastodon servers are controlled by third party.
   - Let us know if above account is censored by aggressive Cloudflare supporters.
-- You can @AL to create an Issue without git account.
-  - Public @mentions and some keywords will be ignored to prevent spam. Please send `private` or `direct` messages.
+- You can \@AL to create an Issue without git account.
+  - Public \@mentions and some keywords will be ignored to prevent spam. Please send `private` or `direct` messages.
   - e.g. ```@altlink the domain example.com is cloudflared```
 - ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
 - ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
