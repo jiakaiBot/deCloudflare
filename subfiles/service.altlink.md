@@ -19,7 +19,7 @@ This is `opt-in` service.
   - If there is a network instability and AL failed to follow back you: please unfollow and follow again. This will trigger follow-back.
 
 3. When you share Cloudflared link, AL will send `direct` message to you with information.
-  - Direct messages older than *2* hours will be deleted.
+  - Direct messages older than *1* day will be deleted.
     - There is no good reason to keep old toots online.
       - [Should I Delete My Tweets?](https://www.wired.com/story/the-know-it-alls-should-i-delete-my-tweets/)
 
@@ -170,9 +170,9 @@ set 5
 
 - Mastodon servers are controlled by third party.
   - Let us know if above account is censored by aggressive Cloudflare supporters.
-- You can \@AL to create an Issue without git account.
-  - Public \@mentions and some keywords will be ignored to prevent spam. Please send `private` or `direct` messages.
-  - e.g. ```@altlink the domain example.com is cloudflared```
+- You can `@altlink` to create an Issue without git account.
+  - Multiple \@mentions (e.g. `@altlink @otheruser1 @otherbot2 blah blah`) and some keywords will be ignored to prevent spam. Please send `private` or `direct` messages.
+  - e.g. `@altlink the domain example.com is cloudflared`
 - ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
 - ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
 
