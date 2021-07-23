@@ -28,11 +28,13 @@ Here's a list of public Git services.
 | Site | Cloudflared |
 | --- | --- |
 | 0xacab.org | No |
+| accusolutions.dev | Yes |
 | allthe.codes | No |
 | auth.doeber.nl | No |
 | authoritah.io | No |
 | bitbucket.org | No |
 | black.uber.space | No |
+| build.conesphere.com | No |
 | ccr.calibrate.be | No |
 | ceregatti.com | No |
 | chaos.expert | No |
@@ -44,6 +46,7 @@ Here's a list of public Git services.
 | code.jnf.me | Yes |
 | code.lag.net | No |
 | code.netlandish.com | No |
+| code.videolan.org | No |
 | codeberg.org | No |
 | codelens.dev | Yes |
 | de.edumat.io | No |
@@ -76,6 +79,7 @@ Here's a list of public Git services.
 | git.charlesreid1.com | No |
 | git.chasekidder.com | Yes |
 | git.chenguanzhou.com | No |
+| git.conesphere.cloud | No |
 | git.control-design.pl | No |
 | git.cslabs.clarkson.edu | No |
 | git.cubetiqs.com | No |
@@ -89,15 +93,20 @@ Here's a list of public Git services.
 | git.ecoservice24.de | Yes |
 | git.educate.center | No |
 | git.eeqj.de | No |
+| git.eie.ucr.ac.cr | No |
 | git.elkood.com | Yes |
+| git.essendi.com.br | No |
 | git.etud.insa-toulouse.fr | No |
 | git.fcloud.ovh | No |
 | git.fdn.fr | No |
 | git.feneas.org | No |
 | git.finallycoffee.eu | No |
 | git.finmechanics.com | No |
+| git.firecaster.com | No |
 | git.fosscommunity.in | No |
+| git.framed.be | No |
 | git.freezer.life | Yes |
+| git.froggi.es | Yes |
 | git.fsfe.org | No |
 | git.gaiaservice.fr | No |
 | git.geekservice.de | No |
@@ -112,6 +121,7 @@ Here's a list of public Git services.
 | git.hya.sk | No |
 | git.iamthefij.com | Yes |
 | git.imrc.kist.re.kr | No |
+| git.inter-iot.eu | No |
 | git.internal.services.oscarchou.com | No |
 | git.ironbug.org | No |
 | git.it-neuhauser.de | No |
@@ -123,6 +133,7 @@ Here's a list of public Git services.
 | git.kageru.moe | No |
 | git.kaki87.net | No |
 | git.kalli.st | No |
+| git.kfintech.com | No |
 | git.kiwifarms.net | Yes |
 | git.kknos.uber.space | No |
 | git.klingt.net | No |
@@ -147,12 +158,16 @@ Here's a list of public Git services.
 | git.myceliandre.fr | No |
 | git.nixnet.services | No |
 | git.nogafam.es | No |
+| git.nssm.cc | No |
 | git.obicloud.net | Yes |
 | git.openprivacy.ca | No |
+| git.organizedvillainy.com | No |
 | git.oroques.dev | No |
 | git.ovs.aktivbank-factoring.de | No |
 | git.paintingofapples.com | No |
+| git.paioz.com | No |
 | git.passageenseine.fr | No |
+| git.phpgao.com | Yes |
 | git.pixie.town | No |
 | git.plsnotracking.com | No |
 | git.plspnkt.uber.space | No |
@@ -161,11 +176,15 @@ Here's a list of public Git services.
 | git.posti.io | No |
 | git.pyrocko.org | No |
 | git.qoto.org | No |
+| git.qrz.is | No |
 | git.radio.clubs.etsit.upm.es | No |
+| git.randomchars.net | Yes |
+| git.rayda.ir | No |
 | git.rbcommunity.info | Yes |
 | git.reclaimfutures.org | No |
 | git.redxen.eu | No |
 | git.regar42.fr | No |
+| git.rip | No |
 | git.riper.fr | No |
 | git.rootevolution.clients.goautomate.ai | No |
 | git.rys.io | No |
@@ -180,16 +199,21 @@ Here's a list of public Git services.
 | git.services.randers.dk | No |
 | git.shaiya.net | Yes |
 | git.shivering-isles.com | Yes |
+| git.shutuptrackers.com | Yes |
 | git.slashdev.space | No |
 | git.sp-codes.de | No |
 | git.sqdsh.top | Yes |
+| git.stuxhost.com | No |
+| git.synz.io | No |
 | git.tchncs.de | No |
 | git.teknik.io | Yes |
 | git.the-mcloud.ml | Yes |
 | git.tilize.me | No |
 | git.timshome.page | No |
 | git.tldp.org | No |
+| git.toaruos.org | No |
 | git.trackcars.org | No |
+| git.troplo.com | Yes |
 | git.tt-rss.org | Yes |
 | git.user7er0.duckdns.org | Yes |
 | git.usercode.de | No |
@@ -201,6 +225,7 @@ Here's a list of public Git services.
 | git.webpro.ltd | No |
 | git.websecure.pt | Yes |
 | git.whitestores-services.co.uk | No |
+| git.winxaito.com | No |
 | git.work-tracker.net | No |
 | git.x-service.be | No |
 | git.xintesa.com | Yes |
@@ -216,6 +241,7 @@ Here's a list of public Git services.
 | gitea.citizen4.eu | No |
 | gitea.cloudchainsecurity.com | No |
 | gitea.connexion.software | No |
+| gitea.cslabs.clarkson.edu | No |
 | gitea.danghr.com | No |
 | gitea.datahoarding.agency | No |
 | gitea.ddkand.com | No |
@@ -253,8 +279,10 @@ Here's a list of public Git services.
 | github.com | No |
 | github.dbalegends.com | Yes |
 | github.tjshosting.com | Yes |
+| gitlab.cern.ch | No |
 | gitlab.coko.foundation | No |
 | gitlab.com | Yes |
+| gitlab.constantvzw.org | No |
 | gitlab.freedesktop.org | No |
 | gitlab.gnome.org | No |
 | gitlab.gwdg.de | No |
@@ -262,6 +290,7 @@ Here's a list of public Git services.
 | gitlab.matrix.org | Yes |
 | gitlab.meridian.cs.dal.ca | No |
 | gitlab.nic.cz | No |
+| gitlab.opencode.net | No |
 | gitlab.pagedmedia.org | No |
 | gitlab.tails.boum.org | No |
 | gitlab.torproject.org | No |
@@ -277,17 +306,20 @@ Here's a list of public Git services.
 | msg.hoppinglife.com | No |
 | opendev.org | No |
 | ovh-1.lucasst.work | No |
+| polarworks.dev | No |
 | printservice.ntgmbh.de | No |
 | rbcommunity.info | Yes |
 | repo.palemoon.org | Yes |
 | robur.site | Yes |
 | salsa.debian.org | No |
+| santander-one-app.ciber.es | No |
 | schlomp.space | No |
 | scm.octopost.eu | Yes |
 | source.puri.sm | No |
 | source.small-tech.org | No |
 | sourceforge.net | No |
 | sr.ht | No |
+| support.cubewise.com | No |
 | support.dev.procad.pl | No |
 | terk.uber.space | No |
 | thematrix.bw.edu | No |
@@ -295,9 +327,11 @@ Here's a list of public Git services.
 | tracker.adverpost.com | No |
 | tracker.sagosec.com | No |
 | try.gitea.io | Yes |
+| turdhub.com | No |
 | unite.openworlds.info | No |
 | update.ycms.pw | No |
 | vmi528339.contaboserver.net | Yes |
+| weeaboo.software | No |
 | www.bitfork.net | No |
 | www.cs.ucf.edu | Yes |
 | www.git.govindgnana.com | No |
@@ -311,8 +345,8 @@ Here's a list of public Git services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 52 |
-| Normal | 224 |
+| Cloudflare | 58 |
+| Normal | 252 |
 
 
-### 18.8% of public Git services are using Cloudflare.
+### 18.7% of public Git services are using Cloudflare.
