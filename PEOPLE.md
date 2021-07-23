@@ -184,6 +184,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 - [Tor connectiong being MITMED by Cloudflare](https://www.reddit.com/r/tails/comments/ip0gg6/tor_connectiong_being_mitmed_by_cloudflare/)
 - [Cloudflare now controls a large portion of the internet with it's MiTM-style DDOS protection.](https://www.reddit.com/r/privacy/comments/iddxb2/are_we_seriously_going_to_live_in_a_googleowned/)
 - [Cloudflare fail - a dry run to closing down the internet?](https://www.reddit.com/r/conspiracyNOPOL/comments/ijk28z/cloudflare_fail_a_dry_run_to_closing_down_the/)
+- [gab.com is on Cloudflare](https://www.reddit.com/r/CloudFlare/comments/kuiolw/gabcom_is_on_cloudflare/gisqk65/)
 - [Dozens of Websites, Apps Go Down in Major Cloudflare Outage](https://www.reddit.com/user/joshwho/comments/ijkfqv/dozens_of_websites_apps_go_down_in_major/)
 - [For everyone who needs drivers during the MSI website downtime.](https://www.reddit.com/r/MSI_Gaming/comments/iji1pk/for_everyone_who_needs_drivers_during_the_msi/)
 - [That can't be good. Anyone else with this issue?](https://www.reddit.com/r/CloudFlare/comments/c89hu5/that_cant_be_good_anyone_else_with_this_issue/)
@@ -467,7 +468,6 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 ## Still defending Cloudflare after all you've read?
 
-[//]: # (don't touch this line!! c l o u d f l a r e)
 
 | 🖼 | 🖼 |
 | --- | --- |
