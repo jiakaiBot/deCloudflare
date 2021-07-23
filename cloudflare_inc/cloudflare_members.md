@@ -730,6 +730,7 @@ Or is this merely a case of simple modesty?
 | Jeffrey Lin | Software Engineer |  |
 | Jeffrey Pollock | Customer Success Engineer |  |
 | Jeffrey Tang | Distributed Systems Engineer | [🖼](../image/gang/Jeffrey_Tang.jpg) |
+| Jen Kim | Employee | |
 | Jennifer Koo | Employee |  |
 | Jennifer Taylor | Head of Product |  |
 | Jen Norvelle | Finance |  |
@@ -1554,6 +1555,7 @@ Or is this merely a case of simple modesty?
 | Timothy Fong | Product Manager |  |
 | Timothy Orchard | Account Executive |  |
 | Timothy Polich | Systems Engineer |  |
+| Tim Polich | Employee | |
 | Tim Ruffles | Systems Engineer |  |
 | Tingting Teresa Huang | Strategy and Development |  |
 | Tobias Rohrle | Solutions Engineer |  |
