@@ -19,7 +19,7 @@ This is `opt-in` service.
   - If there is a network instability and AL failed to follow back you: please unfollow and follow again. This will trigger follow-back.
 
 3. When you share Cloudflared link, AL will send `direct` message to you with information.
-  - Direct messages older than *1* day will be deleted.
+  - Direct messages older than *6* hours will be deleted.
     - There is no good reason to keep old toots online.
       - [Should I Delete My Tweets?](https://www.wired.com/story/the-know-it-alls-should-i-delete-my-tweets/)
 
@@ -38,9 +38,6 @@ You can configure AL via `direct message`.
 - 1: Do not message me same domain again for a day.
   - Default is `off`.
   - By default AL will notify you each time when you share _cloudflaresite.example_. Turning this settings _on_ will silence second post for 24 hours.
-- 2: Message me onionsite if available.
-  - Default is `off`.
-  - If you turn _on_ this settings AL will notify you with onionsite link. Note that AL will also notify you for non-cloudflare sites when onion is available.
 - 3: Count my links and send me report monthly.
   - Default is `off`.
   - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we never save (& don't care) what you shared.
