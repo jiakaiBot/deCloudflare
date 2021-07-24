@@ -1,6 +1,10 @@
 ![](../image/bookstack.jpg)
 
 
+- *Disclaimer*: This page contains external links to third party websites. These sites are subject to the liability of the respective website operators.
+
+---
+
 - Add-ons
   - [Block Cloudflare MITM Attack](about.bcma.md)
   - [Will these links block Tor user?](about.isat.md)
