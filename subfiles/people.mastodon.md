@@ -7,6 +7,8 @@
 
 
 
+- A few years ago, Cloudflare went down... a few months ago, Fastly went down... today, Akamai went down...God, I love how people are just not learning anything from the past :^)I'm just gonna say it...The next major web outage will be caused by either CloudFront, cdnjs or JSDelivr. ([finlaydag33k](https://social.linux.pizza/@finlaydag33k/106625375403375846))
+- I guess literally nobody learned from the CloudFlare outage? Akamai outage ([alamantus](https://cybre.space/@Alamantus/106625284388497789))
 - BTW, it's rather revolting that CBInsights wrote a 23-page report on FacialRecognition, but then they deny access to the report unless you supply them with an email address through their Cloudflare site. So in order to read about privacy abuses, you must allow them to invade your privacy. ([resist1984](https://social.privacytools.io/@resist1984/106607795724189351))
 - Another way to look at this: for every privacy-abusing walled-garden Cloudflare URL that appears among high ranking results, there is a privacy respecting result further down w/more merit that is denied visibility, which is more relevent to users who value privacy. Elevating Cloudflare sites to the top is not countering censorship-- it's just censoring something different. ([resist1984](https://social.privacytools.io/@resist1984/106602899808080752))
 - The flaw in your premise is the assumption that it's possible to visit a Cloudflare site without harming privacy. When you give traffic to a CF site, you inherently undermine privacy by feeding privacy abusers, normie or not, defensive tools or not. When you support a privacy abuser, you are deciding for everyone that the abusive site is worthy of existence. ([resist1984](https://social.privacytools.io/@resist1984/106602603375567450))
