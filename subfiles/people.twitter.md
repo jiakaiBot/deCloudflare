@@ -7,6 +7,14 @@
 
 
 
+- 12. If Mike’s team was able to crack TLS then we will have a major problem for anybody who uses the internet. There are man-in-the-middle techniques which could grab packets thought to be end-to-end encrypted but very few groups are in position to do so. (see: nsa, cloudflare) ([iamsaid_i](https://twitter.com/Iamsaid_I/status/1418560896943722496))
+- Il existe des techniques man-in-the-middle qui pourraient récupérer des paquets considérés comme chiffrés de bout en bout, mais très peu de groupes sont en mesure de le faire. (voir : nsa, cloudflare, etc.). ([stopdsnow1](https://twitter.com/stopDSnow1/status/1418514831133626380))
+- I can not able to access your home page. It gives DNS error via cloudflare... It same for weeks. Please fix the issue. ([saionjisekai5](https://twitter.com/SaionjiSekai5/status/1418606200216764419))
+- Hej, strular er app och hemsida sen några dagar tillbaka? Vill boka biljetter men får error 1020 via Cloudflare. ([veidit](https://twitter.com/Veidit/status/1418518812710801410))
+- Your login form is broken. It tells me to enable cookies but I already have them enabled. I also had to use devtools to see that cloudflare error because the UI doesn't show anything ([phillijw](https://twitter.com/phillijw/status/1418285258139705351))
+- For some reason it just says cloudflare error. I checked my wifi nothing was wrong, I tried different extensions and reinstalling the app but that only brought back some of the extensions. Manga freak, mangahub and manga park still do not work ([samdrgn72](https://twitter.com/SAmdrgn72/status/1418229488970764288))
+- As far as I could see it’s some websites protected by In addition it’s a pain to disable the VPN, when trying to use I‘m only using the "quick connect" feature, connecting to the servers in Switzerland. ([mrpreimers](https://twitter.com/MrPReimers/status/1418123588570386434))
+- Steam and PSN are or were both down. Guess what? It's a DNS issue. Fuck services like Cloudflare or Akamai! They always screw up everybody's fun time. If not with an outage or captcha crap, they find a way. They ALWAYS find a way. ([christianbute](https://twitter.com/christianbute/status/1418470674969018372))
 - I can't access the site. I get Cloudflare Error 1020. Not sure how I triggered the firewall. ([narumashii](https://twitter.com/Narumashii/status/1417638658509873153))
 - your website under a DDOS or something? Cloudflare turned up checking my browser then I get a page error. ([murphtothesky](https://twitter.com/murphtothesky/status/1417453446295429123))
 - So python-requests kept getting the Cloudflare CAPTCHA page, but repeating the exact same request over a custom TCP connection was allowed through. Turns out urllib3 sets OPNOTICKET in its SSLContext, and the Cloudflare bot protection system Does Not Like that. ([gray9782](https://twitter.com/gray9782/status/1405828423923154946))
