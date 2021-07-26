@@ -7,6 +7,7 @@
 
 
 
+- Error 1020 Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID:Performance & security by Cloudflare Why does this say this I was just trying to get to the site pls help ([3comfymochi](https://twitter.com/3Comfymochi/status/1419227943935434756))
 - hey, is there some other way to bypass hcaptcha? I cant change isp due to monopoly. Is there some form of login or user tagging that would prevent hcaptcha from getting retriggered? cause I have to complete it every time I try to enter a new website. ([klol53](https://twitter.com/klol53/status/1418478411907883010))
 - I am trying to access but I keep getting error 1020… how do I fix this please? ([meganminogue](https://twitter.com/MeganMinogue/status/1418333780222398464))
 - 12. If Mike’s team was able to crack TLS then we will have a major problem for anybody who uses the internet. There are man-in-the-middle techniques which could grab packets thought to be end-to-end encrypted but very few groups are in position to do so. (see: nsa, cloudflare) ([iamsaid_i](https://twitter.com/Iamsaid_I/status/1418560896943722496))
