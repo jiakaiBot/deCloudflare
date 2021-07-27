@@ -9,14 +9,14 @@ This is `opt-in` service.
 
 > A little history
 
-Once upon a time there was a bot named "_CloudflareLink_" which was created by Anonymous.
+Once upon a time there was a bot named "_[CloudflareLink](https://social.privacytools.io/@cloudflarelink/with_replies)_" which was created by Anonymous.
 It replied to many users who shared CF links publicly.
 
 Not many people reacted it positively.
-They got annoyed and Mastodon server owner was pressured by their spam reports.
+They got annoyed and Mastodon server owner was pressured by their "spam" reports.
 One of Mastodon server owner once [said](../tool/mastodonwch#some-public-reaction), "_your little protest bot is making people upset, and i'm worried it might cause people to defederate from the instance, please tone it down_."
 
-For the record "_CloudflareLink_" was moved to other Mastodon servers and banned quickly by _3_ Mastodon services until the Anonymous decided to given up for good.
+For the record "_CloudflareLink_" was moved to other Mastodon servers 3 times and banned 2 times by _2_ Mastodon services until the Anonymous decided to given up for good.
 
 The main difference of AltLink is `opt-in`.
 Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.md) never receive notification until they have a good heart and follow AL.
