@@ -7,6 +7,9 @@
 
 
 
+- That IP is not blacklisted by any major list providers. However as it’s geo located in London that might be a red flag. But you can easily configure Cloudflare to challenge with a captcha if you are suspicious of an attack, rather than outright blocking sometimes legit users ([alanlawlor](https://twitter.com/alanlawlor/status/1419916460261056551))
+- When I try to use the link you sent me, cloudflare blocks me and I get the error: What happened This website is using a security service to protect itself from online attacks. Below that it lists a cloudflare ray ID and then Your IP w/ a weird looking number with letters too. ([mara_writes_](https://twitter.com/mara_writes_/status/1420058096848629769))
+- thx, but the advice given is that i need to contact the site owner and let them know that I received the Access denied error and ask them to check their Firewall Rules hmm 🤔 ([bart](https://twitter.com/bart/status/1419624636321607682))
 - Error 1020 Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID:Performance & security by Cloudflare Why does this say this I was just trying to get to the site pls help ([3comfymochi](https://twitter.com/3Comfymochi/status/1419227943935434756))
 - hey, is there some other way to bypass hcaptcha? I cant change isp due to monopoly. Is there some form of login or user tagging that would prevent hcaptcha from getting retriggered? cause I have to complete it every time I try to enter a new website. ([klol53](https://twitter.com/klol53/status/1418478411907883010))
 - I am trying to access but I keep getting error 1020… how do I fix this please? ([meganminogue](https://twitter.com/MeganMinogue/status/1418333780222398464))
