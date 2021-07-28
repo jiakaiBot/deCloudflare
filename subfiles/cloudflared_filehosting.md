@@ -14,20 +14,24 @@ The following is a list of file hosting services.
 | Site | Cloudflared |
 | --- | --- |
 | 0x0.st | No |
+| 1fichier.com | No |
 | 4shared.com | No |
 | alfafile.net | No |
 | anonfile.com | Yes |
 | anonfiles.com | Yes |
 | anonymfiles.com | No |
 | appsenjoy.com | No |
+| archive.org | Yes |
 | bayfiles.com | Yes |
 | borgbackup.org | Yes |
+| clicknupload.co | Yes |
 | cloudme.com | No |
 | cockfile.com | Yes |
 | cutedrive.com | Yes |
 | dailyuploads.net | Yes |
 | ddownload.com | Yes |
 | disk.yandex.com | No |
+| doodrive.com | Yes |
 | dotup.org | Yes |
 | douploads.net | Yes |
 | drive.google.com | No |
@@ -57,34 +61,44 @@ The following is a list of file hosting services.
 | jumpshare.com | No |
 | k2s.cc | Yes |
 | katfile.com | Yes |
+| krakenfiles.com | Yes |
 | letsupload.cc | Yes |
+| letsupload.io | No |
 | media-uploader.work | Yes |
 | mediafire.com | Yes |
 | mega.io | No |
 | mega.nz | No |
+| mirrorace.com | Yes |
 | mirrorace.org | Yes |
 | mixcloud.com | Yes |
+| mixdrop.co | Yes |
 | multiup.org | Yes |
+| my.mixtape.moe | Yes |
 | nitroflare.com | Yes |
 | okurin.bitpark.co.jp | No |
 | onedrive.com | No |
 | pan.baidu.com | Yes |
+| pixeldrain.com | No |
 | rapidgator.net | No |
 | safenote.co | No |
 | sdrop.jp | No |
+| sendfile.su | No |
 | share.riseup.net | No |
 | solidfiles.com | No |
 | soundcloud.com | Yes |
 | sugarsync.com | No |
 | takefile.link | Yes |
 | transfer.sh | No |
+| transfernow.net | Yes |
 | tresorit.com | Yes |
 | turbobit.net | Yes |
+| tusfiles.com | Yes |
 | ufile.io | Yes |
 | up-4ever.org | Yes |
 | up300.net | No |
 | upload.ac | Yes |
 | upload.disroot.org | No |
+| uploadbuzz.cc | Yes |
 | uploaded.net | Yes |
 | uploader.jp | Yes |
 | uploader.xzy.pw | Yes |
@@ -108,10 +122,13 @@ The following is a list of file hosting services.
 | www.filemail.com | No |
 | www.filestack.com | Yes |
 | www.mediafire.com | Yes |
+| www.mirrored.to | No |
 | www.multcloud.com | Yes |
 | www.securesafe.com | No |
+| www.sendspace.com | Yes |
 | www.tencent.com | No |
 | www.titanfile.com | No |
+| www.zippyshare.com | No |
 | zippyshare.com | No |
 
 
@@ -119,8 +136,8 @@ The following is a list of file hosting services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 55 |
-| Normal | 45 |
+| Cloudflare | 66 |
+| Normal | 51 |
 
 
-### 55% of File hosting services are using Cloudflare.
+### 56.4% of File hosting services are using Cloudflare.
