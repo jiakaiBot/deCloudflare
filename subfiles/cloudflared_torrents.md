@@ -279,6 +279,8 @@ Here's a list of public Torrent and Tracker services.
 | 5rt.tace.ru | Yes |
 | 6ahddutb1ucc3cp.ru | No |
 | 6rt.tace.ru | Yes |
+| 9.rarbg.me | No |
+| 9.rarbg.to | No |
 | admin.videoenpoche.info | No |
 | agusiq-torrents.pl | No |
 | anidex.moe | Yes |
@@ -303,6 +305,7 @@ Here's a list of public Torrent and Tracker services.
 | cdn-2.gamecoast.org | Yes |
 | code2chicken.nl | No |
 | concen.org | No |
+| coppersurfer.tk | No |
 | cutiegirl.ru | No |
 | daveking.com | No |
 | discord.heihachi.pw | Yes |
@@ -352,6 +355,7 @@ Here's a list of public Torrent and Tracker services.
 | public.tracker.vraphim.com | No |
 | retracker.bashtel.ru | No |
 | retracker.gorcomnet.ru | No |
+| retracker.ip.ncnet.ru | No |
 | retracker.krs-ix.ru | No |
 | retracker.lanta-net.ru | No |
 | retracker.mgts.by | No |
@@ -433,6 +437,7 @@ Here's a list of public Torrent and Tracker services.
 | tracker.openbittorrent.com | No |
 | tracker.opentrackr.org | No |
 | tracker.parrotsec.org | Yes |
+| tracker.pirateparty.gr | No |
 | tracker.renfei.net | Yes |
 | tracker.shkinev.me | No |
 | tracker.sigterm.xyz | No |
@@ -450,6 +455,7 @@ Here's a list of public Torrent and Tracker services.
 | tracker.vraphim.com | No |
 | tracker.yoshi210.com | No |
 | tracker.zemoj.com | Yes |
+| tracker.zer0day.to | No |
 | tracker.zerobytes.xyz | Yes |
 | tracker0.ufibox.com | Yes |
 | tracker1.bt.moack.co.kr | No |
@@ -496,14 +502,14 @@ Here's a list of public Torrent and Tracker services.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 88 |
-| Normal | 115 |
+| Normal | 121 |
 
 
 ![](../image/warez.jpg)
 
 
 ### 77.4% of public Torrent sites are using Cloudflare.
-### 43.3% of public Tracker services are using Cloudflare.
+### 42.1% of public Tracker services are using Cloudflare.
 
 
 Some Cloudflared site owners are using additional _protection_ to protect themselves from legal pressure.
