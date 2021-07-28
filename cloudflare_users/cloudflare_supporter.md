@@ -2112,6 +2112,7 @@ Do not create new issue or we will close it as duplicate.
 | [itonahoribe805@twitter](https://twitter.com/itonahoribe805/status/1383768213138247689) | advertise |
 | [ItsJotaro@twitter](https://twitter.com/ItsJotaro/status/1405093781813096450) | advertise |
 | [itsktylurv@twitter](https://twitter.com/itsktylurv/status/1377993015273222151) | advertise |
+| [itsmebirdi@twitter](https://twitter.com/itsmebirdi/status/1419853658661945348) | advertise |
 | [itsmeruelvt@twitter](https://twitter.com/itsmeruelvt/status/1394999358026780680) | advertise |
 | [ItsSimplyBelle@twitter](https://twitter.com/ItsSimplyBelle/status/1397995563812073476) | advertise |
 | [ITSystemsAdmin@twitter](https://twitter.com/ITSystemsAdmin/status/1373030532469112834) | advertise |
@@ -2457,6 +2458,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kham6Kham@twitter](https://twitter.com/Kham6Kham/status/1399420183794511873) | advertise |
 | [kham_jom@twitter](https://twitter.com/kham_jom/status/1393166289229680642) | advertise |
 | [Khan47348261@twitter](https://twitter.com/Khan47348261/status/1392902188859592711) | advertise |
+| [KHANDAKARMOHIU1@twitter](https://twitter.com/KHANDAKARMOHIU1/status/1420094099755917313) | advertise |
 | [KhandSudhan@twitter](https://twitter.com/KhandSudhan/status/1388397386687553536) | advertise |
 | [Khang12622998@twitter](https://twitter.com/Khang12622998/status/1380197991022141443) | advertise |
 | [Khang53389073@twitter](https://twitter.com/Khang53389073/status/1403611878761242626) | advertise |
