@@ -48,6 +48,8 @@ Here's a list of public Torrent and Tracker services.
 | 1337x.to | Yes |
 | 2torrentz.net | Yes |
 | academictorrents.com | Yes |
+| agfy.co | Yes |
+| alltorrents.co | Yes |
 | alt-torrent.com | Yes |
 | anidex.info | Yes |
 | anime-sharing.com | Yes |
@@ -73,6 +75,9 @@ Here's a list of public Torrent and Tracker services.
 | broadcasthe.net | Yes |
 | btdig.com | Yes |
 | cinemageddon.net | Yes |
+| cracked-games.org | Yes |
+| crackhub.site | Yes |
+| crackingpatching.com | Yes |
 | crotorrents.com | Yes |
 | cztorrent.net | Yes |
 | demonoid.is | Yes |
@@ -80,6 +85,7 @@ Here's a list of public Torrent and Tracker services.
 | divxtotal.ch | Yes |
 | dodi-repacks.site | Yes |
 | ebookee.com | No |
+| elamigos.site | Yes |
 | elite-tracker.net | No |
 | elitetorrent.com | Yes |
 | ethor.net | Yes |
@@ -90,13 +96,21 @@ Here's a list of public Torrent and Tracker services.
 | extratorrents.it | Yes |
 | eztv.re | Yes |
 | fast-torrent.ru | Yes |
+| fearlessrevolution.com | Yes |
 | feedbooks.com | No |
 | filebase.ws | Yes |
 | fitgirl-repacks.site | Yes |
+| flingtrainer.com | Yes |
 | freebookspot.club | No |
 | freetechbooks.com | No |
+| g4u.to | No |
+| gamecopyworld.com | Yes |
+| gamesdrive.net | Yes |
+| gamesforyou.co | Yes |
 | gazellegames.net | No |
+| getgamez.net | Yes |
 | ggbases.com | Yes |
+| gload.to | Yes |
 | glodls.to | Yes |
 | gtdb.to | Yes |
 | gutenberg.org | No |
@@ -114,12 +128,15 @@ Here's a list of public Torrent and Tracker services.
 | iptorrents.com | Yes |
 | iptorrents.me | Yes |
 | isohunts.to | Yes |
+| kaoskrew.org | No |
+| kapitalsin.com | No |
 | katcr.to | Yes |
 | kickasstorrent.cr | Yes |
 | kickasstorrent.link | Yes |
 | kickasstorrents.ee | No |
 | kickasstorrents.to | Yes |
 | kinozal.tv | Yes |
+| leechinghell.pw | No |
 | libgen.is | No |
 | limetorrents.cc | Yes |
 | limetorrents.co | Yes |
@@ -132,7 +149,9 @@ Here's a list of public Torrent and Tracker services.
 | m-team.cc | Yes |
 | magnetdl.com | Yes |
 | manybooks.net | Yes |
+| masquerade.site | Yes |
 | masters-tb.com | Yes |
+| megagames.com | No |
 | mejortorrento.com | Yes |
 | mma-torrents.com | No |
 | monova.org | Yes |
@@ -146,13 +165,21 @@ Here's a list of public Torrent and Tracker services.
 | mypiratebay.me | Yes |
 | mypiratebay.net | Yes |
 | mypiratebay.wtf | Yes |
+| nosteamgames.ro | No |
 | nyaa.si | No |
+| oceanofgames.com | No |
+| old-games.ru | No |
+| oldgamesdownload.com | Yes |
+| online-fix.me | Yes |
 | openpirate.cc | Yes |
 | openpirate.org | Yes |
 | otorrents.com | No |
+| otxataba.net | Yes |
+| ovagames.com | Yes |
 | p2pbg.com | No |
 | partis.si | Yes |
 | passthepopcorn.me | Yes |
+| pcgamestorrents.com | Yes |
 | pdfbooksworld.com | No |
 | piratebay.icu | Yes |
 | piratebay.life | Yes |
@@ -164,19 +191,29 @@ Here's a list of public Torrent and Tracker services.
 | publicdomaintorrents.info | No |
 | rarbg.to | No |
 | redacted.ch | No |
+| repack.info | Yes |
+| rg-mechanics.org | Yes |
 | riperam.org | No |
+| rlsbb.ru | Yes |
+| rustorka.com | Yes |
+| rutor.info | Yes |
 | rutracker.org | Yes |
 | scenetime.com | Yes |
+| scnlog.me | Yes |
 | seedpeer.eu | Yes |
 | seedpeer.me | Yes |
+| seven-gamers.com | Yes |
 | shanaproject.com | Yes |
 | skidrowreloaded.com | Yes |
 | skytorrents.to | Yes |
 | smashwords.com | No |
 | snowfl.com | Yes |
+| steamcracked.co | Yes |
+| steamhub.co | No |
 | subsplease.org | Yes |
 | t3nnis.tv | No |
 | tamilrockers.ws | Yes |
+| tapochek.net | Yes |
 | telechargerjeuxtorrent.com | Yes |
 | thepiratebay.org | Yes |
 | tokyotosho.info | Yes |
@@ -207,6 +244,7 @@ Here's a list of public Torrent and Tracker services.
 | torrentz2.eu | Yes |
 | torrentz2.is | Yes |
 | torrentzeu.org | No |
+| torrminatorr.com | Yes |
 | totheglory.im | Yes |
 | tpb.bike | Yes |
 | tpb.cool | Yes |
@@ -215,6 +253,7 @@ Here's a list of public Torrent and Tracker services.
 | turktorrent.us | Yes |
 | tv-vault.me | Yes |
 | watchsomuch.com | Yes |
+| xatab-repack.com | Yes |
 | xspeeds.eu | Yes |
 | xtorx.com | No |
 | yggtorrent.li | Yes |
@@ -448,8 +487,8 @@ Here's a list of public Torrent and Tracker services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 138 |
-| Normal | 40 |
+| Cloudflare | 168 |
+| Normal | 49 |
 
 
 - Tracker
@@ -463,7 +502,7 @@ Here's a list of public Torrent and Tracker services.
 ![](../image/warez.jpg)
 
 
-### 77.5% of public Torrent sites are using Cloudflare.
+### 77.4% of public Torrent sites are using Cloudflare.
 ### 43.3% of public Tracker services are using Cloudflare.
 
 
