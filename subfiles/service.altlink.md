@@ -16,7 +16,7 @@ Not many people reacted it positively.
 They got annoyed and Mastodon server owner was pressured by their "spam" reports.
 One of Mastodon server owner once [said](../tool/mastodonwch#some-public-reaction), "_your little protest bot is making people upset, and i'm worried it might cause people to defederate from the instance, please tone it down_."
 
-For the record "_CloudflareLink_" was moved to other Mastodon servers 3 times and banned 2 times by _2_ Mastodon services until the Anonymous decided to given up for good.
+For the record "_CloudflareLink_" was moved to other Mastodon servers 3 times and banned 2 times by 2 Mastodon services until the Anonymous decided to given up for good.
 
 The main difference of AltLink is `opt-in`.
 Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.md) never receive notification until they have a good heart and follow AL.
@@ -34,7 +34,7 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
   - If there is a network instability and AL failed to follow back you: please unfollow and follow again. This will trigger follow-back.
 
 3. When you share Cloudflared link, AL will send `direct` message to you with information.
-  - Direct messages older than *6* hours will be deleted.
+  - Direct messages older than *4* hours will be deleted.
     - There is no good reason to keep old toots online.
       - [Should I Delete My Tweets?](https://www.wired.com/story/the-know-it-alls-should-i-delete-my-tweets/)
 
