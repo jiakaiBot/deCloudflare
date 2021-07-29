@@ -10,7 +10,7 @@ Some people think about [Schutzstaffel](https://en.wikipedia.org/wiki/SS) on fir
 
 It is fed by quality sources and rank down Cloudflare sites to bottom by default, thus you avoid the risk and inconvenience of having [MITM traps](../README.md) littered throughout search results.
 You can also open a cached version of the page by clicking the icon of the search result.
-There are many options to choose from for example disabling Cloudflare ranking and rank down known [Tor-hostile](../anti-tor_users/domains) sites.
+There are many options to choose from for example disabling Cloudflare ranking and rank down known [Tor-hostile](../anti-tor_users/domains) sites. Ss is also providing public API service for developers and also Lynx-site for text-base browser users.
 
 The current Ss logo resembles an umbrella. Developers said that they want to provide an _umbrella_ to protect people safe against heavy _rain_ caused by the _cloud_.
 
