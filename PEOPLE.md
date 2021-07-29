@@ -121,6 +121,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 - [Cloudflare considered harmful](https://www.devever.net/~hl/cloudflare)
 - [Cloudflare’s WARP ‘VPN’ isn’t private nor safe; Don’t use it](https://blog.kareldonk.com/cloudflares-warp-vpn-isnt-private-nor-safe-dont-use-it/), [Karel Donk](https://blog.kareldonk.com/)
 - [Does Cloudflare help my WordPress site?](https://seravo.com/blog/does-cloudflare-help-my-wordpress-site/), [Seravo](https://seravo.com/)
+- [Who Gets to Decide Who Has a Voice Online?](https://nymag.com/intelligencer/2017/08/cloudflare-and-the-debate-over-content-neutrality.html)
 - [Say no to Cloudflare](https://robinwils.surge.sh/categories/articles/say-no-to-cloudflare/), [Robin Wils](https://robinwils.surge.sh/contact/)
 - [Why You Don’t Use Cloudflare…](https://www.focowphelp.com/2017/03/why-you-dont-use-cloudflare/)
 - [Don’t use Cloudflare CDN: build in speed quality instead.](http://pagepipe.com/cloudflare-doesnt-guarantee-consistent-load-times/)
