@@ -36,7 +36,7 @@
   - [How many % of public Torrent services are using Cloudflare?](cloudflared_torrents.md)
   - [How many % of public social media are using Cloudflare?](cloudflared_socialmedia.md)
   - [How many % of online video platforms are using Cloudflare?](cloudflared_videoplatform.md)
-  - [How many % of File hosting services are using Cloudflare?](cloudflared_filehosting.md)
+  - [How many % of File hosting / File sharing services are using Cloudflare?](cloudflared_filehosting.md)
   - [How many % of fast food restaurants are using Cloudflare?](cloudflared_fastfood.md)
   - [How many % of adverts and trackers are using Cloudflare?](cloudflared_adverts.md)
   - [How many % of pornographic domains are using Cloudflare?](cloudflared_pornography.md)
