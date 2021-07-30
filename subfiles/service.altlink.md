@@ -186,6 +186,7 @@ set 5
   - Multiple \@mentions (e.g. `@altlink @otheruser1 @otherbot2 blah blah`) and some keywords will be ignored to prevent spam. Please send `private` or `direct` messages.
   - e.g. `@altlink the domain example.com is cloudflared`
 - ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
+- ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared_fediverse.md)
 - ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
 
 <a rel="me" href="https://mamot.fr/@altlink"></a>
