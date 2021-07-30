@@ -340,6 +340,9 @@ CloudFlare告訴本用戶聯繫支持並詢問要刪除的所有內容。
 
 ## 請繼續下一頁:   [你能做些什麼來抵抗CloudFlare？](zt.action.md)
 
-![](../image/censor_cloudflare_blogcomment.jpg)
+|  🖼  |  🖼 |
+| --- | --- |
+| ![](../image/cfcommunity_ban.jpg) | ![](../image/censor_cloudflare_blogcomment.jpg) |
+
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
