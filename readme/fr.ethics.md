@@ -340,6 +340,9 @@ Cloudflare a dit à cet utilisateur de contacter le support et de demander que t
 
 ## Veuillez continuer à la page suivante:   [Que pouvez-vous faire pour résister à Cloudflare?](fr.action.md)
 
-![](../image/censor_cloudflare_blogcomment.jpg)
+|  🖼  |  🖼 |
+| --- | --- |
+| ![](../image/cfcommunity_ban.jpg) | ![](../image/censor_cloudflare_blogcomment.jpg) |
+
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
