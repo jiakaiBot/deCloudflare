@@ -340,6 +340,9 @@ CloudFlare memberi tahu pengguna ini untuk menghubungi dukungan dan meminta semu
 
 ## Silakan lanjutkan ke halaman berikutnya:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](id.action.md)
 
-![](../image/censor_cloudflare_blogcomment.jpg)
+|  🖼  |  🖼 |
+| --- | --- |
+| ![](../image/cfcommunity_ban.jpg) | ![](../image/censor_cloudflare_blogcomment.jpg) |
+
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
