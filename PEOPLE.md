@@ -54,6 +54,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [Cloudflare's inaccessible browser contradicts the company's mission](https://mwcampbell.github.io/cloudflare-browser-isolation-letter/)
 - [Major internet outage: Dozens of websites and apps were down](https://edition.cnn.com/2020/08/30/tech/internet-outage-cloudflare/index.html)
 - [Произошел сбой работы интернет сервисов по всему миру](https://www.securitylab.ru/news/511577.php)
 - [Cloudflare suffered data leak; exposing 3 million IP addresses: Ukraine](https://www.hackread.com/cloudflare-data-leak-expose-ip-addresses-ukraine/)
@@ -159,6 +160,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [Cloudflare's inaccessible browser contradicts the company's mission a11y browsers](https://lobste.rs/s/epyspp)
 - [Iranian government is censoring sites with Universal SSL (CloudFlare Inc ECC CA-2)](https://community.cloudflare.com/t/iranian-government-is-censoring-sites-with-universal-ssl-cloudflare-inc-ecc-ca-2/110989)
 - [“parler.com” does not resolve off of CloudFlare’s public DNS servers](https://community.cloudflare.com/t/parler-com-does-not-resolve-off-of-cloudflares-public-dns-servers/245452)
 - [Why is Cloudflare Supporting Child Pornography Sites?](https://community.cloudflare.com/t/why-is-cloudflare-supporting-child-pornography-sites/171583)
