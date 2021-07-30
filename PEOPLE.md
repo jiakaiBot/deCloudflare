@@ -50,7 +50,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 <details>
 <summary>_click me_
 
-## News
+## News / Blog
 </summary>
 
 
@@ -81,21 +81,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 - [Everything You Need to Know About Cloudbleed, the Latest Internet Security Disaster](https://gizmodo.com/everything-you-need-to-know-about-cloudbleed-the-lates-1792710616), [Adam Clark Estes](https://kinja.com/ace)
 - [Why Cloudflare Let an Extremist Stronghold Burn](https://www.wired.com/story/free-speech-issue-cloudflare/), [Steven Johnson](https://www.wired.com/author/steven-johnson/)
 - [Private crypto keys are accessible to Heartbleed hackers, new data shows](https://arstechnica.com/information-technology/2014/04/private-crypto-keys-are-accessible-to-heartbleed-hackers-new-data-shows/), [Megan Geuss](https://arstechnica.com/author/megan-geuss/)
-
-</details>
-
------
-
-<details>
-<summary>_click me_
-
-## Blog
-</summary>
-
-
-(Just don't add Medium.com articles. It's Cloudflared. Whether the content is good or not doesn't matter.)
-
-
+- [The Terrifying Power of Internet Censors](https://www.nytimes.com/2017/09/13/opinion/cloudflare-daily-stormer-charlottesville.html)
 - [HTTPS非対応サイトはもういらない！Cloudflareの危険性とデメリット](https://anime-tip.com/jamkun/wordpress/6984/)
 - [Don't Trust CloudFlare](https://write.pixie.town/thufie/dont-trust-cloudflare)
 - [blocking cloudflare IP-range be like](https://hacktivis.me/articles/blocking%20cloudflare%20IP-range%20be%20like)
@@ -173,6 +159,10 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [Iranian government is censoring sites with Universal SSL (CloudFlare Inc ECC CA-2)](https://community.cloudflare.com/t/iranian-government-is-censoring-sites-with-universal-ssl-cloudflare-inc-ecc-ca-2/110989)
+- [“parler.com” does not resolve off of CloudFlare’s public DNS servers](https://community.cloudflare.com/t/parler-com-does-not-resolve-off-of-cloudflares-public-dns-servers/245452)
+- [Why is Cloudflare Supporting Child Pornography Sites?](https://community.cloudflare.com/t/why-is-cloudflare-supporting-child-pornography-sites/171583)
+- [Point Proven](https://community.cloudflare.com/t/point-proven/55490)
 - [Unable to issue certificate because acme API is behind CloudFlare](https://community.letsencrypt.org/t/unable-to-issue-certificate-because-acme-api-is-behind-cloudflare/156269)
 - [Blocked by cloudflare?](https://community.letsencrypt.org/t/blocked-by-cloudflare/153545)
 - [CloudFlare is blocking our requests, can you plese whitelist us?](https://community.letsencrypt.org/t/cloudflare-is-blocking-our-requests-can-you-plese-whitelist-us/136297)
