@@ -340,6 +340,9 @@ CloudFlare는이 사용자에게 지원에 연락하여 모든 내용을 삭제�
 
 ## 다음 페이지를 계속하십시오:   [Cloudflare에 대한 저항하기 위해 무엇을 할 수 있습니까?](ko.action.md)
 
-![](../image/censor_cloudflare_blogcomment.jpg)
+|  🖼  |  🖼 |
+| --- | --- |
+| ![](../image/cfcommunity_ban.jpg) | ![](../image/censor_cloudflare_blogcomment.jpg) |
+
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
