@@ -347,6 +347,10 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 
 
 - [getting cloudflare page](https://github.com/zhkrb/cloudflare-scrape-Android/issues/26)
+- [Cloudflare somehow detects and blocks httransform](https://github.com/9seconds/httransform/issues/26)
+- [Block by CORS on Cloudflare](https://github.com/FriendlyCaptcha/friendly-challenge/issues/47)
+- [Cloudflare blocking user-agent](https://github.com/ok24601/etoro-api/issues/44)
+- [netdata installer blocked due to CloudFlare Captcha](https://github.com/netdata/netdata/issues/11185)
 - [Cloudflare blocking scraping](https://github.com/leoncvlt/blinkist-scraper/issues/46)
 - [Are you using Gitea behind CloudFlare?](https://github.com/go-gitea/gitea/pull/14098)
 - [Application was being blocked by cloudflare](https://github.com/Supergamer5465/Helix-Raid-Tool/pull/2)
