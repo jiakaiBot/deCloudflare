@@ -343,6 +343,9 @@ Sullivan provis kovri Uber-datumon rompon pagante $100,000 per la programo cimre
 
 ## Bonvolu daŭrigi al sekva paĝo:   "[Kion vi povas fari por rezisti kontraŭ Cloudflare?](eo.action.md)
 
-![](../image/censor_cloudflare_blogcomment.jpg)
+|  🖼  |  🖼 |
+| --- | --- |
+| ![](../image/cfcommunity_ban.jpg) | ![](../image/censor_cloudflare_blogcomment.jpg) |
+
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
