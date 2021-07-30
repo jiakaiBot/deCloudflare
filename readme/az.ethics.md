@@ -318,6 +318,9 @@ Cloudflare diris al ĉi tiu uzanto kontakti subtenteamo kaj peti ĉiujn viajn en
 
 ## Xahiş edirəm növbəti səhifəyə davam edin:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](az.action.md)
 
-![](../image/censor_cloudflare_blogcomment.jpg)
+|  🖼  |  🖼 |
+| --- | --- |
+| ![](../image/cfcommunity_ban.jpg) | ![](../image/censor_cloudflare_blogcomment.jpg) |
+
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
