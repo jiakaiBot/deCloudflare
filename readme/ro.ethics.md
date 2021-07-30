@@ -340,6 +340,9 @@ CloudFlare a spus utilizatorului acestui utilizator să contacteze suportul și 
 
 ## Vă rugăm să continuați la pagina următoare:   [Kion vi povas fari por rezisti kontraŭ Cloudflare?](ro.action.md)
 
-![](../image/censor_cloudflare_blogcomment.jpg)
+|  🖼  |  🖼 |
+| --- | --- |
+| ![](../image/cfcommunity_ban.jpg) | ![](../image/censor_cloudflare_blogcomment.jpg) |
+
 ![](../image/freemoldybread.jpg)
 ![](../image/cfisnotanoption.jpg)
