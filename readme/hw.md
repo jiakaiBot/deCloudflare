@@ -128,7 +128,7 @@
 
 * [Eia kekahi PDF / ePUB e heluhelu.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
