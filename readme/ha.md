@@ -128,7 +128,7 @@ Wannan wurin ajiyar kaya akwai jerin rukunin yanar gizon da ke bayan "Babban Clo
 
 * [Ga wasu PDF / ePUB don karantawa.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
