@@ -128,7 +128,7 @@
 
 * [ಓದಲು ಕೆಲವು ಪಿಡಿಎಫ್ / ಇಪಬ್ ಇಲ್ಲಿದೆ.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
