@@ -128,7 +128,7 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
 
 * [Hier ist ein PDF / ePUB zum Lesen.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
