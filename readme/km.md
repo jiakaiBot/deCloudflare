@@ -128,7 +128,7 @@
 
 * [នេះជាឯកសារ PDF / ePUB មួយចំនួនដើម្បីអាន។](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
