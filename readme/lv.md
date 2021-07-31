@@ -128,7 +128,7 @@
 
 * [Šeit ir daži lasāmie PDF / ePUB.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
