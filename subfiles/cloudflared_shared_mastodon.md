@@ -26,8 +26,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | # | Mastodon User | Links |
 | --- | --- | --- |
 | 1 | itnewsbot@schleuss.online | 2,758 |
-| 2 | birbs@neckbeard.xyz | 1,756 |
-| 3 | hn50@social.lansky.name | 1,588 |
+| 2 | birbs@neckbeard.xyz | 1,757 |
+| 3 | hn50@social.lansky.name | 1,590 |
 | 4 | mauthausengusen@qua.name | 1,515 |
 | 5 | covid_stats@mastodon.cloud | 1,410 |
 | 6 | archlinux@pokemon.men | 1,408 |
@@ -45,9 +45,9 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Mastodon User | Links |
 | --- | --- | --- |
-| 1 | birbs@neckbeard.xyz | 1,756 |
+| 1 | birbs@neckbeard.xyz | 1,757 |
 | 2 | covid_stats@mastodon.cloud | 1,410 |
-| 3 | hn50@social.lansky.name | 1,080 |
+| 3 | hn50@social.lansky.name | 1,081 |
 | 4 | itnewsbot@schleuss.online | 992 |
 | 5 | elpuntavui@mastodont.cat | 954 |
 | 6 | hn100@social.lansky.name | 720 |
@@ -154,14 +154,14 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 [//]: # (do not edit this line start; t3)
 
 
-- Mastodon users posted *244,990* public toots. (about *17499.3* toots per day)
+- Mastodon users posted *245,012* public toots. (about *17500.9* toots per day)
   - Above number include toots which has no link.
 - Now let's focus on *Mastodon toots which has links*.
 
 ![](../image/bully.jpg)
 
-- Mastodon users shared *102,490* links in total.
-  - *25,605* links are Cloudflare links. (*25*%)
+- Mastodon users shared *102,495* links in total.
+  - *25,607* links are Cloudflare links. (*25*%)
 - There are *6,898* users who shared ANY links.
   - On average one mastodon user shared *14.9* links. (about *1.1* links per day)
   - There are *824* users who ONLY shared Cloudflare links. (*11.9*%)
