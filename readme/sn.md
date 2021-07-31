@@ -128,7 +128,7 @@ Iyi repository runyorwa rwemawebhusaiti ari kumashure kwe "Iyo huru Cloudwall", 
 
 * [Heano mamwe maPDP / ePUB ekuverenga.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
