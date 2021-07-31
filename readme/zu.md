@@ -128,7 +128,7 @@ Lokhu kugcina uhlu lwamawebhusayithi angemuva kwe- "The Cloudwall" enkulu, evimb
 
 * [Nayi iPDP / ePUB okufanele uyifunde.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
