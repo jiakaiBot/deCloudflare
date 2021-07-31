@@ -17,7 +17,7 @@ Crimeflare #deCloudflare http://crimeflare.eu.org
 * `/pdf/*` -- Nekonata (Vi povas trovi ekzempleron ĉie. Dankon al aŭtoroj.)
 * `/tool/block_cloudflare_mitm_fx/*` -- [MIT](tool/block_cloudflare_mitm_fx/LICENSE.md)
 * `/tool/block_cloudflare_requests_pm/*` -- [MIT](tool/block_cloudflare_requests_pm/LICENSE)
-* `/subfiles/the_trouble_with_codeberg.md` -- [GNU AGPL](http://www.gnu.org/licenses/agpl-3.0.txt)
+* `/subfiles/(the_trouble_with_codeberg.md|rapsheet.cloudflare.md)` -- [GNU AGPL](http://www.gnu.org/licenses/agpl-3.0.txt)
 * Alio -- [CC BY 4.0](https://web.archive.org/web/https://creativecommons.org/licenses/by/4.0/)
 
 
@@ -35,7 +35,7 @@ Kontribuantoj, kiuj anonime [kontribuis](HISTORY.md) (inkluzive en [CryptoParty]
 * `/pdf/*` -- Unknown (You can find a copy everywhere. Thanks to authors)
 * `/tool/block_cloudflare_mitm_fx/*` -- [MIT](tool/block_cloudflare_mitm_fx/LICENSE.md)
 * `/tool/block_cloudflare_requests_pm/*` -- [MIT](tool/block_cloudflare_requests_pm/LICENSE)
-* `/subfiles/the_trouble_with_codeberg.md` -- [GNU AGPL](http://www.gnu.org/licenses/agpl-3.0.txt)
+* `/subfiles/(the_trouble_with_codeberg.md|rapsheet.cloudflare.md)` -- [GNU AGPL](http://www.gnu.org/licenses/agpl-3.0.txt)
 * Else -- [CC BY 4.0](https://web.archive.org/web/https://creativecommons.org/licenses/by/4.0/)
 
 
