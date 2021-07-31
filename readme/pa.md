@@ -128,7 +128,7 @@
 
 * [ਇੱਥੇ ਕੁਝ PDF / ePUB ਨੂੰ ਪੜ੍ਹਨ ਲਈ ਦਿੱਤਾ ਗਿਆ ਹੈ.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
