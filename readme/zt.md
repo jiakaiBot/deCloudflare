@@ -16,7 +16,7 @@
 | --- | --- |
 |  “偉大的雲牆”是美國公司Cloudflare Inc.。它提供CDN（內容交付網絡）服務，DDoS緩解，互聯網安全和分佈式DNS（域名服務器）服務。  |  ![](../image/cloudflaredearuser.jpg) |
 |  Cloudflare是世界上最大的MITM代理（反向代理）。Cloudflare擁有超過80％的CDN市場份額，並且Cloudflare用戶的數量每天都在增長。他們已將其網絡擴展到100多個國家。Cloudflare提供的網絡訪問量超過Twitter，Amazon，Apple，Instagram，Bing和Wikipedia的總和。Cloudflare提供免費計劃，許多人正在使用它，而不是正確配置其服務器。他們用隱私代替便利。  |  ![](../image/cfmarketshare.jpg)  |
-|  Cloudflare位於您和原始網絡服務器之間，就像邊境巡邏員一樣。您無法連接到所選目的地。您正在連接到Cloudflare，所有信息都將被解密並即時傳遞。 |  ![](../image/border_patrol.jpg)  |
+|  Cloudflare位於您和原始網絡服務器之間，就像邊境巡邏員一樣。您無法連接到所選目的地。您正在連接到Cloudflare，所有信息都將被解密並即時傳遞。 Cloudflaro havas tutmondan vidon en la trafikon de la interreto kaj ili observas la trafikon fluanta al kaj de ili kontinue. |  ![](../image/border_patrol.jpg)  |
 |  原始網絡服務器管理員允許代理Cloudflare決定誰可以訪問其“網絡媒體資源”並定義“限制區域”。  |  ![](../image/usershoulddecide.jpg)  |
 |  看一看正確的圖像。您會認為Cloudflare只會阻止壞人。您會認為Cloudflare始終在線（永遠不會宕機）。您會認為合法的機器人和爬蟲可以將您的網站編入索引。  |  ![](../image/howcfwork.jpg)  |
 |  但是，這些都不是真的。Cloudflare無緣無故地封鎖了無辜的人們。Cloudflare可能會崩潰。Cloudflare阻止合法機器人。  |  ![](../image/cfdowncfcom.jpg)  |
