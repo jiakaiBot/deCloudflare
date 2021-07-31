@@ -14,7 +14,7 @@
 | --- | --- |
 |  “The Great Cloudwall”은 미국 회사 인 Cloudflare Inc.입니다.CDN (Content Delivery Network) 서비스, DDoS 완화, 인터넷 보안, 분산 DNS (도메인 이름 서버) 서비스를 제공하고 있습니다.  |  ![](../image/cloudflaredearuser.jpg) |
 |  Cloudflare는 세계에서 가장 큰 MITM 프록시 (역방향 프록시)입니다.Cloudflare는 CDN 시장 점유율의 80 % 이상을 소유하고 있으며 Cloudflare 사용자 수는 매일 증가하고 있습니다.그들은 네트워크를 100 개 이상의 국가로 확장했습니다.Cloudflare는 Twitter, Amazon, Apple, Instagram, Bing 및 Wikipedia를 합친 것보다 더 많은 웹 트래픽을 제공합니다.Cloudflare는 무료 요금제를 제공하고 있으며 많은 사람들이 서버를 올바르게 구성하는 대신 사용하고 있습니다.그들은 편의보다 프라이버시를 교환했습니다.  |  ![](../image/cfmarketshare.jpg)  |
-|  Cloudflare는 사용자와 원본 웹 서버 사이에 위치하며 국경 순찰 요원처럼 작동합니다.선택한 목적지에 연결할 수 없습니다.Cloudflare에 연결 중이며 모든 정보가 해독되고 즉시 전달됩니다. |  ![](../image/border_patrol.jpg)  |
+|  Cloudflare는 사용자와 원본 웹 서버 사이에 위치하며 국경 순찰 요원처럼 작동합니다.선택한 목적지에 연결할 수 없습니다.Cloudflare에 연결 중이며 모든 정보가 해독되고 즉시 전달됩니다. Cloudflaro havas tutmondan vidon en la trafikon de la interreto kaj ili observas la trafikon fluanta al kaj de ili kontinue. |  ![](../image/border_patrol.jpg)  |
 |  원본 웹 서버 관리자는 에이전트 (Cloudflare)가 "웹 속성"에 액세스 할 수있는 사람을 결정하고 "제한 영역"을 정의하도록 허용했습니다.  |  ![](../image/usershoulddecide.jpg)  |
 |  올바른 이미지를 살펴보십시오.Cloudflare가 나쁜 사람 만 차단한다고 생각할 것입니다.Cloudflare가 항상 온라인이라고 생각할 것입니다 (절대 중단되지 않음).합법적 인 봇과 크롤러가 웹 사이트의 색인을 생성 할 수 있다고 생각할 것입니다.  |  ![](../image/howcfwork.jpg)  |
 |  그러나 그것은 전혀 사실이 아닙니다.Cloudflare는 이유없이 무고한 사람들을 차단하고 있습니다.Cloudflare가 다운 될 수 있습니다.Cloudflare는 합법적 인 봇을 차단합니다.  |  ![](../image/cfdowncfcom.jpg)  |
