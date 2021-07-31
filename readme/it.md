@@ -128,7 +128,7 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 
 * [Ecco alcuni PDF / ePUB da leggere.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
