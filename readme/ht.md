@@ -128,7 +128,7 @@ Repozitwa sa a se yon lis sou sit entènèt ki dèyè "Great Cloudwall la", blok
 
 * [Men kèk PDF / ePUB pou li.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
