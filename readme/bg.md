@@ -128,7 +128,7 @@
 
 * [Ето малко PDF / ePUB за четене.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
