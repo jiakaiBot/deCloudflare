@@ -128,7 +128,7 @@ Kaydkan waa liisaska bogagga internetka ee ka dambeeya "The Cloud Cloud", oo xan
 
 * [Waa tan qaar PDF / ePUB ah si aad wax u aqriso.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
