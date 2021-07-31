@@ -44,5 +44,5 @@
 | ![](twitterban_John_Graham-Cumming.jpg) | ![](twitterban_John_Graham-Cumming2.jpg) | ![](censor_cloudflare_blogcomment.jpg) | ![](cfd_game_worldofwarcraft.jpg) |
 | ![](cfeu2018.gif) | ![](dmca9justin.gif) | ![](jamie_tomasello.gif) | ![](smellslikebs.gif) |
 | ![](altlink_sample.jpg) | ![](cfinside_etcher.jpg) | ![](dnsset-doh.jpg) | ![](dnsset-dot.jpg) |
-| ![](omsredjs.jpg) | ![](cfdown_2021-07-02.jpg) | ![](cfcommunity_ban.jpg) |  |
+| ![](omsredjs.jpg) | ![](cfdown_2021-07-02.jpg) | ![](cfcommunity_ban.jpg) | ![](green_vehicles_cloudflare.jpg) |
 
