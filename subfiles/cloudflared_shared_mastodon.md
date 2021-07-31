@@ -25,13 +25,13 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Mastodon User | Links |
 | --- | --- | --- |
-| 1 | itnewsbot@schleuss.online | 2,758 |
+| 1 | itnewsbot@schleuss.online | 2,759 |
 | 2 | birbs@neckbeard.xyz | 1,757 |
 | 3 | hn50@social.lansky.name | 1,590 |
 | 4 | mauthausengusen@qua.name | 1,515 |
 | 5 | covid_stats@mastodon.cloud | 1,410 |
 | 6 | archlinux@pokemon.men | 1,408 |
-| 7 | nowthisnews@newsbots.eu | 1,396 |
+| 7 | nowthisnews@newsbots.eu | 1,397 |
 | 8 | reuters_worldnews@newsbots.eu | 1,202 |
 | 9 | hntooter@mastodon.social | 1,139 |
 | 10 | hackernews@die-partei.social | 1,103 |
@@ -54,14 +54,14 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 7 | hn100@botsin.space | 600 |
 | 8 | hackernews@die-partei.social | 446 |
 | 9 | hntooter@mastodon.social | 415 |
-| 10 | naturalnews@brighteon.social | 382 |
+| 10 | naturalnews@brighteon.social | 383 |
 | 11 | johndolph@brighteon.social | 372 |
 | 12 | darulharb@social.quodverum.com | 340 |
 | 13 | ponypics@equestria.social | 313 |
 | 14 | alternet@newsbots.eu | 313 |
 | 15 | hnbot@botsin.space | 301 |
-| 16 | bbcpersiannewsbot@aleph.land | 254 |
-| 17 | btc@framapiaf.org | 240 |
+| 16 | bbcpersiannewsbot@aleph.land | 255 |
+| 17 | btc@framapiaf.org | 242 |
 | 18 | mauthausengusen@qua.name | 235 |
 | 19 | gradientbot@botsin.space | 230 |
 | 20 | androidpolice@mstdn.social | 225 |
@@ -69,7 +69,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 22 | freax@anonsys.net | 211 |
 | 23 | blendernation@botsin.space | 200 |
 | 24 | kelly_naproducr@noagendasocial.com | 197 |
-| 25 | ethereum@framapiaf.org | 187 |
+| 25 | ethereum@framapiaf.org | 189 |
 | 26 | ckstechnologynews@mastodon.social | 184 |
 | 27 | thepressproject@libretooth.gr | 182 |
 | 28 | youngblood@social.quodverum.com | 176 |
@@ -154,18 +154,18 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 [//]: # (do not edit this line start; t3)
 
 
-- Mastodon users posted *245,012* public toots. (about *17500.9* toots per day)
+- Mastodon users posted *245,087* public toots. (about *17506.2* toots per day)
   - Above number include toots which has no link.
 - Now let's focus on *Mastodon toots which has links*.
 
 ![](../image/bully.jpg)
 
-- Mastodon users shared *102,495* links in total.
-  - *25,607* links are Cloudflare links. (*25*%)
-- There are *6,898* users who shared ANY links.
+- Mastodon users shared *102,523* links in total.
+  - *25,613* links are Cloudflare links. (*25*%)
+- There are *6,899* users who shared ANY links.
   - On average one mastodon user shared *14.9* links. (about *1.1* links per day)
   - There are *824* users who ONLY shared Cloudflare links. (*11.9*%)
-  - There are *4,136* users who NEVER shared Cloudflare links. (*60*%)
+  - There are *4,137* users who NEVER shared Cloudflare links. (*60*%)
 
 tl;dr
 ### *40%* of Mastodon users who shared link shared Cloudflare links.
