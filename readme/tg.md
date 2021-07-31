@@ -128,7 +128,7 @@
 
 * [Дар ин ҷо якчанд PDF / ePUB барои хондан аст.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
