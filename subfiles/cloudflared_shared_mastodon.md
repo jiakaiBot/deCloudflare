@@ -25,16 +25,16 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Mastodon User | Links |
 | --- | --- | --- |
-| 1 | itnewsbot@schleuss.online | 2,757 |
-| 2 | birbs@neckbeard.xyz | 1,753 |
+| 1 | itnewsbot@schleuss.online | 2,758 |
+| 2 | birbs@neckbeard.xyz | 1,756 |
 | 3 | hn50@social.lansky.name | 1,588 |
 | 4 | mauthausengusen@qua.name | 1,515 |
 | 5 | covid_stats@mastodon.cloud | 1,410 |
-| 6 | archlinux@pokemon.men | 1,407 |
-| 7 | nowthisnews@newsbots.eu | 1,392 |
-| 8 | reuters_worldnews@newsbots.eu | 1,198 |
-| 9 | hntooter@mastodon.social | 1,138 |
-| 10 | hackernews@die-partei.social | 1,099 |
+| 6 | archlinux@pokemon.men | 1,408 |
+| 7 | nowthisnews@newsbots.eu | 1,396 |
+| 8 | reuters_worldnews@newsbots.eu | 1,202 |
+| 9 | hntooter@mastodon.social | 1,139 |
+| 10 | hackernews@die-partei.social | 1,103 |
 
 [//]: # (do not edit this line end)
 
@@ -45,22 +45,22 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Mastodon User | Links |
 | --- | --- | --- |
-| 1 | birbs@neckbeard.xyz | 1,753 |
+| 1 | birbs@neckbeard.xyz | 1,756 |
 | 2 | covid_stats@mastodon.cloud | 1,410 |
 | 3 | hn50@social.lansky.name | 1,080 |
 | 4 | itnewsbot@schleuss.online | 992 |
 | 5 | elpuntavui@mastodont.cat | 954 |
-| 6 | hn100@social.lansky.name | 719 |
-| 7 | hn100@botsin.space | 599 |
-| 8 | hackernews@die-partei.social | 444 |
-| 9 | hntooter@mastodon.social | 414 |
-| 10 | naturalnews@brighteon.social | 381 |
+| 6 | hn100@social.lansky.name | 720 |
+| 7 | hn100@botsin.space | 600 |
+| 8 | hackernews@die-partei.social | 446 |
+| 9 | hntooter@mastodon.social | 415 |
+| 10 | naturalnews@brighteon.social | 382 |
 | 11 | johndolph@brighteon.social | 372 |
 | 12 | darulharb@social.quodverum.com | 340 |
-| 13 | ponypics@equestria.social | 312 |
-| 14 | alternet@newsbots.eu | 312 |
-| 15 | hnbot@botsin.space | 299 |
-| 16 | bbcpersiannewsbot@aleph.land | 253 |
+| 13 | ponypics@equestria.social | 313 |
+| 14 | alternet@newsbots.eu | 313 |
+| 15 | hnbot@botsin.space | 301 |
+| 16 | bbcpersiannewsbot@aleph.land | 254 |
 | 17 | btc@framapiaf.org | 240 |
 | 18 | mauthausengusen@qua.name | 235 |
 | 19 | gradientbot@botsin.space | 230 |
@@ -95,8 +95,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 48 | itsecbot@schleuss.online | 86 |
 | 49 | nextinpact@gs.leftic.club | 83 |
 | 50 | redfrog@mamot.fr | 73 |
-| 51 | info_activism@mastodon.cc | 71 |
-| 52 | cgarison@noagendasocial.com | 71 |
+| 51 | cgarison@noagendasocial.com | 72 |
+| 52 | info_activism@mastodon.cc | 71 |
 | 53 | zennblack@itmslaves.com | 70 |
 | 54 | hhra@botsin.space | 69 |
 | 55 | lobsters@botsin.space | 68 |
@@ -111,7 +111,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 64 | uptowngirl2008@social.quodverum.com | 55 |
 | 65 | jacquesurbanska@mastodon.xyz | 55 |
 | 66 | neoresistant@mamot.fr | 55 |
-| 67 | hn500@social.lansky.name | 53 |
+| 67 | hn500@social.lansky.name | 54 |
 | 68 | gustavinobevilacqua@mastodon.cisti.org | 52 |
 | 69 | outraspalavras@newsbots.eu | 50 |
 | 70 | noagendashownoteslinks@noagendasocial.com | 48 |
@@ -154,21 +154,21 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 [//]: # (do not edit this line start; t3)
 
 
-- Mastodon users posted *244,672* public toots. (about *17476.6* toots per day)
+- Mastodon users posted *244,990* public toots. (about *17499.3* toots per day)
   - Above number include toots which has no link.
 - Now let's focus on *Mastodon toots which has links*.
 
 ![](../image/bully.jpg)
 
-- Mastodon users shared *102,393* links in total.
-  - *25,582* links are Cloudflare links. (*25*%)
-- There are *6,893* users who shared ANY links.
+- Mastodon users shared *102,490* links in total.
+  - *25,605* links are Cloudflare links. (*25*%)
+- There are *6,898* users who shared ANY links.
   - On average one mastodon user shared *14.9* links. (about *1.1* links per day)
-  - There are *823* users who ONLY shared Cloudflare links. (*11.9*%)
-  - There are *4,132* users who NEVER shared Cloudflare links. (*59.9*%)
+  - There are *824* users who ONLY shared Cloudflare links. (*11.9*%)
+  - There are *4,136* users who NEVER shared Cloudflare links. (*60*%)
 
 tl;dr
-### *40.1%* of Mastodon users who shared link shared Cloudflare links.
+### *40%* of Mastodon users who shared link shared Cloudflare links.
 ### *25%* of shared links are Cloudflare links.
 
 [//]: # (do not edit this line end)
