@@ -128,7 +128,7 @@ Olu luhlu luluhlu lwewebhusayithi ezingasemva "kweyona Cloudwall", ezithintela a
 
 * [Nantsi enye yePDF / ePUB ekufuneka uyifunde.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
