@@ -1,68 +1,54 @@
-[RAP-pp]: <paypal.md>
-[//]: # (to do: incorporate or reference https://write.pixie.town/thufie/dont-trust-cloudflare)
-[//]: # (https://git.disroot.org/cyberMonk/liberethos_paradigm/src/branch/master/rap_sheets/paypal.md)
-
-[//]: # (interesting flip-flopping loop when trying to visit dl.acm.org via archive.org from curl)
-
-[//]: # (- is 36.2% (English) of first search result of Google *)
-[//]: # (- is 28.7% (Non-English) of first search result of Google *)
-[//]: # (- used by 29% of top 200 Github developers)
-[//]: # (- gain 6898.43 new domain users per day **)
-[//]: # (- has high false positive each day (cloudflare-tor PEOPLE.md))
-
-[//]: # (* February 2021, on average)
-[//]: # (** average of 2 months, 2021)
-
+[RAP-pp]: <https://git.disroot.org/cyberMonk/liberethos_paradigm/src/branch/master/paypal.md>
 [1]: http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem
-[2]: <https://web.archive.org/web/20190402175900/cypherpunk.is/2015/04/02/why-cloudflare-is-probably-a-honeypot> "using mirror to avoid CloudFlare"
-[3]: <https://web.archive.org/web/20210122201542/psono.com/security> "using mirror to avoid CloudFlare"
-[4]: https://blog.torproject.org/trouble-cloudflare
-[5]: https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm
-[6]: https://people.torproject.org/~lunar/20160331-CloudFlare_Fact_Sheet.pdf
+[2]: https://web.archive.org/web/20190402175900/cypherpunk.is/2015/04/02/why-cloudflare-is-probably-a-honeypot
+[3]: https://web.archive.org/web/20210122201542/psono.com/security
+[4]: https://web.archive.org/web/https://blog.torproject.org/trouble-cloudflare
+[5]: https://web.archive.org/web/https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm
+[6]: https://git.nogafam.es/deCloudflare/deCloudflare/raw/branch/master/pdf/2016-CloudFlare_Fact_Sheet.pdf
 [7]: https://old.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/ejxmmhq
 [8]: https://www.nbcnews.com/news/us-news/trump-signs-measure-let-isps-sell-your-data-without-consent-n742316
-[9]: <https://web.archive.org/web/20200704235401/www.datayoshi.com/offer/595856/data-scientist-cloudflare> "using mirror because job posting came down"
+[9]: https://web.archive.org/web/20200704235401/www.datayoshi.com/offer/595856/data-scientist-cloudflare
 [10]: https://shkspr.mobi/blog/2019/11/can-you-trust-cloudflare-with-your-personal-data
-[11]: <http://web.archive.org/web/20200526092506/blog.nem.ec/2020/05/24/ebay-port-scanning> "using mirror to avoid CloudFlare"
-[12]: <https://web.archive.org/web/20210315204019/docs.hcaptcha.com/faq> "using mirror to avoid CloudFlare"
+[11]: http://web.archive.org/web/20200526092506/blog.nem.ec/2020/05/24/ebay-port-scanning
+[12]: https://web.archive.org/web/20210315204019/docs.hcaptcha.com/faq
 [13]: https://www.schneier.com/blog/archives/2018/03/the_600_compani.html
-[14]: <https://web.archive.org/web/20190203014215/www.fcc.gov/about-fcc/advisory-committees/general/open-internet-advisory-committee> "using mirror due to Tor hostility"
-[15]: https://people.torproject.org/~lunar/20160331-CloudFlare_Fact_Sheet.pdf#page=6
+[14]: https://web.archive.org/web/20190203014215/www.fcc.gov/about-fcc/advisory-committees/general/open-internet-advisory-committee
+[15]: https://git.nogafam.es/deCloudflare/deCloudflare/raw/branch/master/pdf/2016-CloudFlare_Fact_Sheet.pdf#page=6
 [16]: https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
-[17]: https://nitter.net/RVWssb/status/1293371696418889730#m
+[17]: https://twitter.com/RVWssb/status/1293371696418889730
 [18]: https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html
 [19]: https://mypointexactly.wordpress.com/2009/07/21/group-punishment-ineffective-unethical
 [20]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.296.9155&rep=rep1&type=pdf
-[21]: <https://web.archive.org/web/ebooks.proquest.com> "using mirror to avoid CloudFlare, but mirror link is broken!"
-[22]: http://ruc.dk
+[21]: <https://web.archive.org/web/https://ebooks.proquest.com> "using mirror to avoid CloudFlare, but ebooks.proquest.com is denying IA"
+[22]: http://ruc.dk/
 [23]: http://www.ala.org/advocacy/intfreedom/librarybill
 [24]: http://www.ala.org/advocacy/intfreedom/freedomreadstatement
 [25]: http://www.ala.org/tools/ethics
 [26]: http://www.ala.org/advocacy/privacy/encryption
 [27]: http://www.ala.org/advocacy/privacy/guidelines/vendors
 [28]: https://www.scott-a-s.com/acm-digital-library-should-remain-open
-[29]: <https://web.archive.org/web/20210310024945/dl.acm.org/doi/10.1145/3319535.3354198> "using mirror to avoid CloudFlare"
-[30]: https://people.torproject.org/~lunar/20160331-CloudFlare_Fact_Sheet.pdf#page=2
-[31]: https://nitter.net/phyzonloop/status/1178836176985366529
+[29]: https://web.archive.org/web/20210310024945/dl.acm.org/doi/10.1145/3319535.3354198
+[30]: https://git.nogafam.es/deCloudflare/deCloudflare/raw/branch/master/pdf/2016-CloudFlare_Fact_Sheet.pdf#page=2
+[31]: https://twitter.com/phyzonloop/status/1178836176985366529
 [32]: http://www.aptivate.org/webguidelines/Images.html
 [33]: https://web.archive.org/web/20201128114348/www.cloudflare.com/insights
-[34]: <https://web.archive.org/web/20180926003344/https://blog.cloudflare.com/cloudflare-onion-service/#why-should-i-trust-cloudflare> "using mirror to avoid CloudFlare"
-[35]: https://people.torproject.org/~lunar/20160331-CloudFlare_Fact_Sheet.pdf#page=4
-[36]: https://nitter.net/eastdakota/status/1273277839102656515
+[34]: https://web.archive.org/web/20180926003344/https://blog.cloudflare.com/cloudflare-onion-service/#why-should-i-trust-cloudflare
+[35]: https://git.nogafam.es/deCloudflare/deCloudflare/raw/branch/master/pdf/2016-CloudFlare_Fact_Sheet.pdf#page=4
+[36]: https://twitter.com/eastdakota/status/1273277839102656515
 [37]: https://en.wikipedia.org/wiki/Schadenfreude
-[38]: https://nitter.net/thexpaw/status/1108424723233419264
-[39]: <https://www.bloomberg.com/news/articles/2021-03-09/hackers-expose-tesla-jails-in-breach-of-150-000-security-cams> "popups (better link needed)"
-[40]: <https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about> "using mirror to avoid CloudFlare"
+[38]: https://twitter.com/thexpaw/status/1108424723233419264
+[39]: https://www.bloomberg.com/news/articles/2021-03-09/hackers-expose-tesla-jails-in-breach-of-150-000-security-cams
+[40]: https://web.archive.org/web/20191112033605/https://opencollective.com/cloudflarecollective#section-about
 [41]: https://www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5
 [41-cache]: https://web.archive.org/web/20171024040313/www.businessinsider.com/cloudflare-ceo-suggests-people-who-report-online-abuse-use-fake-names-2017-5
 [42]: https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis
-[43]: <https://web.archive.org/web/20210226152834/boingboing.net/2015/01/19/invasion-boards-set-out-to-rui.html> "using mirror to avoid CloudFlare"
+[43]: https://web.archive.org/web/20210226152834/boingboing.net/2015/01/19/invasion-boards-set-out-to-rui.html
 [brennan]: https://web.archive.org/web/20150112121911/twitter.com/infinitechan/status/554613394813120513
-[TrademarkTroll]: <https://web.archive.org/web/20210120103517/www.cloudflare.com/learning/cloud/what-is-a-cloud-firewall> "using mirror to avoid CloudFlare"
+[TrademarkTroll]: https://web.archive.org/web/20210120103517/www.cloudflare.com/learning/cloud/what-is-a-cloud-firewall
 [cloudFW]: https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall
-[rbi]: <https://web.archive.org/web/20210323130327/blog.cloudflare.com/browser-isolation-for-teams-of-all-sizes> "using mirror to avoid CloudFlare"
-[rbiDiscrimination]: <https://toot.cafe/@matt/105939502971295092> "warning: Amazon link"
-[RBIzeroTrust]: <https://web.archive.org/web/20210323130454/https://blog.cloudflare.com/cloudflare-and-remote-browser-isolation> "using mirror to avoid CloudFlare"
+[rbi]: https://web.archive.org/web/20210323130327/blog.cloudflare.com/browser-isolation-for-teams-of-all-sizes
+[rbiDiscrimination]: https://toot.cafe/@matt/105939502971295092
+[RBIzeroTrust]: https://web.archive.org/web/20210323130454/https://blog.cloudflare.com/cloudflare-and-remote-browser-isolation
 [unescoEDU1950]: http://portal.unesco.org/en/ev.php-URL_ID=12074&URL_DO=DO_TOPIC&URL_SECTION=201.html
 [unescoEDU1960]: http://portal.unesco.org/en/ev.php-URL_ID=12949&URL_DO=DO_TOPIC&URL_SECTION=201.html
 [unescoEDU2003]: http://portal.unesco.org/en/ev.php-URL_ID=17721&URL_DO=DO_TOPIC&URL_SECTION=201.html
@@ -70,13 +56,18 @@
 [unescoEDU2019]: http://portal.unesco.org/en/ev.php-URL_ID=49556&URL_DO=DO_TOPIC&URL_SECTION=201.html
 [unescoG16]: https://en.unesco.org/themes/access-information
 [unescoEDUhr]: https://en.unesco.org/themes/education
-[dcfstats]: https://git.nogafam.es/deCloudflare/deCloudflare/src/branch/master/subfiles/google_ad_planner_top_1000_sites.md
+[dcfstats]: https://git.nogafam.es/deCloudflare/deCloudflare/src/branch/master/subfiles/cloudflared_top1000-2010-google.md
 [gfd]: https://static.fsf.org/nosvn/directory/fdl-1.3-standalone.html
 [freedom0]: https://lists.gnu.org/archive/html/directory-discuss/2017-02/msg00000.html
 
+
+
 # CloudFlare
 
-CloudFlare is a vigilante extremist organization that takes the decentralized web and centralizes it under one corporate power who dictates terms in the world's largest walled-garden. A very large portion of the web (16.7%+) were once freely open to all but are now controlled and monitored by a single central authority who decides for everyone who may access what web content. This does serious damage to net neutrality, privacy, and has immediate serious consequences:
+CloudFlare is a vigilante extremist organization that takes the decentralized web and centralizes it under one corporate power who dictates terms in the world's largest walled-garden.
+A large portion of the web were once freely open to all but are now controlled and monitored by a single central authority who decides for everyone who may access what web content.
+This does serious damage to net neutrality, privacy, and has immediate serious consequences:
+
 
 1. CloudFlare mounts mutlifaceted attacks on **privacy**
     1. CloudFlare is a [man-in-the-middle][2] who [sees all traffic][1] including usernames, unhashed passwords, and financial data within the HTTPS tunnel.  This is done surreptitiously.  They admit to it on [one document][33] in the course of a sales pitch while on other documents they say zero trust is needed.
@@ -88,7 +79,7 @@ CloudFlare is a vigilante extremist organization that takes the decentralized we
     1. ISPs collect data on their own customers and exploit it for profit in the US.  Under Obama it became illegal for an ISP to sell data collected on their customers without express consent. Trump [reversed][8] Obama's policy in 2017. In the absence of legal protections, Tor serves as a technical protection from ISP snooping.  CloudFlare's attack on Tor users facilitates privacy abuse by ISPs.
     1. The gratis service also raises the question about how CF is monetizing all that data that's exposed to them (which every CF user carelessly increases). They do not disclose to the public how they monetize that data, but what CF cannot hide is that they [seek to hire][9] a machine learning data scientist with *big data* expertise for their marketing department.
     1. A CF customer who became increasingly concerned with CF's unchecked power deleted their account.  Two months after CF confirmed that the account was deleted, the customer [received an email][10] from CF, proving the account had not been deleted.
-    1. CF imposes execution of javascript, and javascript cannot be generally trusted. E.g., eBay has [been caught][11] sending javascript that snoops on their own customers by port scanning the LAN and reporting back to eBay.  Streetwise users disable j/s.  Yet it's impossible to solve CF's CAPTCHA with j/s disabled.  So people are forced into vulnerability by CloudFlare (who has proven to be untrustworthy).
+    1. CF imposes execution of javascript, and javascript cannot be generally trusted. E.g., eBay has [been caught][11] sending javascript that snoops on their own customers by port scanning the LAN and reporting back to eBay.  Streetwise users disable Javascript.  Yet it's impossible to solve CF's CAPTCHA with Javascript disabled.  So people are forced into vulnerability by CloudFlare (who has proven to be untrustworthy).
     1. When a user solves a CAPTCHA, CF is [paid][12] a cash reward via Paypal, a [privacy abuser][RAP-pp] who shares customer data with [600 companies][13].
 1. CloudFlare takes away **software freedom**
     1. CF imposes CAPTCHAs that require the user to execute non-free javascript.
@@ -133,7 +124,7 @@ CloudFlare is a vigilante extremist organization that takes the decentralized we
            of the commons*.
 1. CloudFlare is detrimental to **availability**
     1. The CAPTCHAs are often broken.
-        1. E.g.1: some browsers that block j/s always report errors communicating with the captcha server on all CF-pushed CAPTCHAs
+        1. E.g.1: some browsers that block Javascript always report errors communicating with the captcha server on all CF-pushed CAPTCHAs
         1. E.g.2: the CAPTCHA server itself refuses to give the puzzle saying there is too much activity.
     1. The CAPTCHAs are often unsolvable.
         1. E.g.1: the CAPTCHA puzzle is broken by ambiguity (is one pixel in a grid cell of a pole holding a street sign considered a street sign?)
@@ -190,13 +181,13 @@ CloudFlare is a vigilante extremist organization that takes the decentralized we
 1. CloudFlare is a burden on the **environment**
     1. Images account for the [most significant][32] burden on Internet bandwidth and power consumption as a result.  Naturally the most ecological web users are those who do not download images (robots, users of text browsers, and users who disable image retrieval).  Because robots tend not to download images, anti-robot algorithms target all image-free sessions as robotic.  CloudFlare consequently attacks the most ecological users on the web.
     1. CF forces transmission of copious bandwidth-wasting images in order to supply CAPTCHAs.
-    1. hCAPTCHA uses 4 levels of nested javascript.  So users with j/s disabled are often forced to reload the CAPTCHA page 4 times just to see the puzzle.
+    1. hCAPTCHA uses 4 levels of nested javascript.  So users with Javascript disabled are often forced to reload the CAPTCHA page 4 times just to see the puzzle.
     1. Even with all javascript loaded and executed to the extent needed to support the CAPTCHA, the CAPTCHA server itself often refuses to serve a puzzle due to a blown traffic threshold for an IP address.  When the CAPTCHA fails to render or when a human user fails to solve the CAPTCHA, all the energy spent reaching the point of denial is to a total loss.  Whether the user continues to reattempt or they give up, the energy waste is a loss for all parties and a detriment to the environment ultimately for no benefit.
 1. CloudFlare **stifles innovation** and culture.  Robots are a crucial component to innovation.  CF's attack on robots means people can't even use wget to download files.  As a consequence, mp3 files (for example) can only be downloaded one at a time by manually clicking on each file.  An immeasurably broad range of innovations depend on robots to provide capabilities that are not economically viable with manual labor.  Many robotic innovations are created for the sole purpose of improving the usability of user interfaces that are either poorly designed for all users or the design overlooks the needs of some users.
 1. **False statements, deceptive practices, and poor character of CloudFlare**
     1. No transparency: as Cloudflare performs a DoS attack on Tor users they obviously do not inform web owners. Web owners are usually unaware that legitimate patrons are being blocked from accessing their site. These businesses are all damaged so that one business can profit.
     1. CloudFlare has [hijacked][TrademarkTroll] the name of a tool that protects user *from* CloudFlare: [Cloud Firewall][cloudFW].  Cloud Firewall is a browser add-on that helps users block CloudFlare sites that they visit inadvertently.  CloudFlare recently created a product of their own that uses the same name.  Web searches for "Cloud Firewall" fill the first page of results with links to their corporate product, and with the browser add-on buried.
-    1. False errors are displayed when j/s is disabled.
+    1. False errors are displayed when Javascript is disabled.
     1. CloudFlare [deceives][1] website visitors into believing their connection is secure (HTTPS & browser padlock) when in fact the user is MitMd.
     1. CloudFlare has been caught making false statements to the public. CF said in their [FaQ][34]: "*Why should I trust Cloudflare? You don’t need to. The Cloudflare Onion Service presents the exact same certificate that we would have used for direct requests to our servers,*" the first part of which is incorrect. CloudFlare sees all traffic traversing their servers in the clear, regardless of how secure the tunnel to them is. So of course CloudFlare requires your trust. The second statement about certificates is non-sequitur and irrelevant to the question of trust.  This is a pattern.  CloudFlare [claims][RBIzeroTrust] browser isolation *"is a zero-trust approach"*, then proceeds to advertise their *remote* browser isolation service, which gives CloudFlare a view of everything the user accesses and sees on their browser window, including sessions to non-CloudFlare websites.  They repeatedly [spread][rbi] the "Zero Trust web browsing" lie without being held accountable by *truth in advertizing* laws.
     1. CloudFlare [deceives][35] users about what the problem is, causing users to blame Tor or their browser. CloudFlare suggests to Tor users who reach the CAPTCHA "If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware."
