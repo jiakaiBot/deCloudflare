@@ -128,7 +128,7 @@
 
 * [পড়ার জন্য এখানে কিছু পিডিএফ / ইপাব রয়েছে।](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
