@@ -128,7 +128,7 @@ Ce référentiel est une liste de sites Web derrière "The Great Cloudwall", blo
 
 * [Voici quelques PDF / ePUB à lire.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
