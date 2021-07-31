@@ -128,7 +128,7 @@
 
 * [דאָ איז עטלעכע PDF / ePUB צו לייענען.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
