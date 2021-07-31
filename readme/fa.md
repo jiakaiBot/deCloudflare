@@ -130,7 +130,7 @@
 
 * [در اینجا چند PDF / ePUB برای خواندن آورده شده است.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
