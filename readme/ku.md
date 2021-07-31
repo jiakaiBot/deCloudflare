@@ -128,7 +128,7 @@ Vê repoya navnîşek malperên ku li paş "The Cloudwall mezin" in, rawestandin
 
 * [Li vir çend PDF / ePUB heye ku hûn bixwînin.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
