@@ -49,10 +49,13 @@ Here's a list of public Git services.
 | code.videolan.org | No |
 | codeberg.org | No |
 | codelens.dev | Yes |
+| cybre.tech | No |
+| daviddaily.dev | Yes |
 | de.edumat.io | No |
 | dev.lovelyhq.com | No |
 | dev.sum7.eu | No |
 | devheroes.codes | Yes |
+| dhrhub.com | No |
 | doc-user.qware.tech | No |
 | drone.tildegit.org | No |
 | erj4.uk | No |
@@ -63,6 +66,7 @@ Here's a list of public Git services.
 | g.plsnotracking.com | No |
 | gameinfuser.com | No |
 | git.53hor.net | No |
+| git.acaziasoft.com | No |
 | git.acloud.one | Yes |
 | git.activitypub.dev | No |
 | git.aite.xyz | No |
@@ -79,8 +83,10 @@ Here's a list of public Git services.
 | git.charlesreid1.com | No |
 | git.chasekidder.com | Yes |
 | git.chenguanzhou.com | No |
+| git.chenx221.cyou | Yes |
 | git.conesphere.cloud | No |
 | git.control-design.pl | No |
+| git.cschnitz.eu | No |
 | git.cslabs.clarkson.edu | No |
 | git.cubetiqs.com | No |
 | git.cyberjinh.fr | No |
@@ -116,6 +122,7 @@ Here's a list of public Git services.
 | git.hiitsdevin.dev | Yes |
 | git.hnmediatech.com | No |
 | git.hopol.cn | No |
+| git.hot-chilli.net | No |
 | git.hush.is | Yes |
 | git.hya.sk | No |
 | git.iamthefij.com | Yes |
@@ -186,6 +193,7 @@ Here's a list of public Git services.
 | git.regar42.fr | No |
 | git.rip | No |
 | git.riper.fr | No |
+| git.robbyzambito.me | No |
 | git.rootevolution.clients.goautomate.ai | No |
 | git.rys.io | No |
 | git.safemobile.org | No |
@@ -200,6 +208,7 @@ Here's a list of public Git services.
 | git.shaiya.net | Yes |
 | git.shivering-isles.com | Yes |
 | git.shutuptrackers.com | Yes |
+| git.sindominio.net | No |
 | git.slashdev.space | No |
 | git.sp-codes.de | No |
 | git.sqdsh.top | Yes |
@@ -246,13 +255,16 @@ Here's a list of public Git services.
 | gitea.datahoarding.agency | No |
 | gitea.ddkand.com | No |
 | gitea.deliverik.com | No |
+| gitea.dev.centos.org | No |
 | gitea.dservice.software.ennit.de | No |
+| gitea.dyne.org | No |
 | gitea.dynvpn.de | No |
 | gitea.educate.center | No |
 | gitea.evolix.org | No |
 | gitea.fablabchemnitz.de | No |
 | gitea.gernot-payer.de | No |
 | gitea.iitdh.ac.in | No |
+| gitea.imust.org | No |
 | gitea.it | Yes |
 | gitea.kaaaxcreators.de | Yes |
 | gitea.knockturnmc.com | No |
@@ -270,11 +282,14 @@ Here's a list of public Git services.
 | gitea.services.decentm.com | Yes |
 | gitea.shuishan.net.cn | No |
 | gitea.stubbe.rocks | No |
+| gitea.swu-acm.cn | No |
 | gitea.thebrokenrail.com | No |
 | gitea.tobias-huebner.org | No |
 | gitea.unknown.name | No |
 | gitea.xinje.cc | No |
 | gitee.com | No |
+| gitera.cn | No |
+| gitgit.it | No |
 | gitgud.io | Yes |
 | github.com | No |
 | github.dbalegends.com | Yes |
@@ -298,6 +313,7 @@ Here's a list of public Git services.
 | gittea.dev | Yes |
 | inpro.informatik.uni-freiburg.de | No |
 | intra.git.insite.gov.on.ca | No |
+| invent.kde.org | Yes |
 | kolaente.dev | Yes |
 | kylie.cs.tu-dortmund.de | No |
 | launchpad.net | No |
@@ -327,6 +343,7 @@ Here's a list of public Git services.
 | tracker.adverpost.com | No |
 | tracker.sagosec.com | No |
 | try.gitea.io | Yes |
+| tulpa.dev | Yes |
 | turdhub.com | No |
 | unite.openworlds.info | No |
 | update.ycms.pw | No |
@@ -345,8 +362,8 @@ Here's a list of public Git services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 58 |
-| Normal | 252 |
+| Cloudflare | 62 |
+| Normal | 265 |
 
 
-### 18.7% of public Git services are using Cloudflare.
+### 19% of public Git services are using Cloudflare.
