@@ -128,7 +128,7 @@ Deze repository is een lijst met websites die achter "The Great Cloudwall" staan
 
 * [Hier is wat PDF / ePUB om te lezen.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
