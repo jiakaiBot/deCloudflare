@@ -128,7 +128,7 @@
 
 * [هتي پڙهڻ لاءِ ڪجهه پي ڊي ايف / اي پي يو بي جوڙيا ويا آهن.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
