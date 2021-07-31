@@ -128,7 +128,7 @@ Kjo depo është një listë e faqeve të internetit që janë pas "The Great Cl
 
 * [Këtu keni disa PDF / ePUB për të lexuar.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
