@@ -128,7 +128,7 @@
 
 * [මෙන්න කියවීමට PDF / ePUB කිහිපයක්.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
