@@ -17,7 +17,7 @@
 
 ### Why should I help you?
 
-If you help us, more people around the world who speaks your language can learn about the problems of CloudFlare.
+More people around the world who speaks your language can learn about the problems of CloudFlare.
 
 
 ### Can I add my name/link to translation file as "credit"?
