@@ -7,6 +7,7 @@
 
 
 
+- well they've obviously pirated Cloudflare's block page, which they wield against Tor users, so it's the same problem. It's a Tor-hostile walled-garden. ([resist1984](https://social.privacytools.io/@resist1984/106660251961822091))
 - A few years ago, Cloudflare went down... a few months ago, Fastly went down... today, Akamai went down...God, I love how people are just not learning anything from the past :^)I'm just gonna say it...The next major web outage will be caused by either CloudFront, cdnjs or JSDelivr. ([finlaydag33k](https://social.linux.pizza/@finlaydag33k/106625375403375846))
 - I guess literally nobody learned from the CloudFlare outage? Akamai outage ([alamantus](https://cybre.space/@Alamantus/106625284388497789))
 - BTW, it's rather revolting that CBInsights wrote a 23-page report on FacialRecognition, but then they deny access to the report unless you supply them with an email address through their Cloudflare site. So in order to read about privacy abuses, you must allow them to invade your privacy. ([resist1984](https://social.privacytools.io/@resist1984/106607795724189351))
