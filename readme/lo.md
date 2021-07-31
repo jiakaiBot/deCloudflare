@@ -128,7 +128,7 @@
 
 * [ນີ້ແມ່ນບາງເອກະສານ PDF / ePUB ເພື່ອອ່ານ.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
