@@ -128,7 +128,7 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de "The Gr
 
 * [Seo roinnt PDF / ePUB le léamh.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
