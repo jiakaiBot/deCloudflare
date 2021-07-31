@@ -128,7 +128,7 @@ Toto úložiště je seznam webových stránek, které jsou za „Velkým cloude
 
 * [Zde je několik PDF / ePUB ke čtení.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
