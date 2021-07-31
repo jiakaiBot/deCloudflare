@@ -128,7 +128,7 @@ See hoidla on loetelu veebisaitidest, mis asuvad "Suure pilvaseina" taga, blokee
 
 * [Siit saate lugeda mõnda PDF / ePUB-i.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
