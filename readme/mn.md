@@ -128,7 +128,7 @@
 
 * [Энд PDF / ePUB-г уншина уу.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
