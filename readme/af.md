@@ -128,7 +128,7 @@ Hierdie bewaarplek is 'n lys van webwerwe wat agter "The Great Cloudwall" staan,
 
 * [Hier is 'n paar PDF / ePUB om te lees.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
