@@ -15,6 +15,7 @@ mainx0n00008	They traded privacy over convenience.
 mainx0n00009	Cloudflare sits between you and origin webserver, acting like a border patrol agent.
 mainx0n00010	You are not able to connect to your chosen destination.
 mainx0n00011	You are connecting to Cloudflare and all your information is being decrypted and handed over on the fly.
+mainx0n10011	Cloudflare has a global view into the traffic of the Internet and they observe the traffic flowing to and from them continuously.
 mainx0n00012	The origin webserver administrator allowed the agent - Cloudflare - to decide who can access to their "web property" and define "restricted area".
 mainx0n00013	Take a look at the right image.
 mainx0n00014	You will think Cloudflare block only bad guys.
