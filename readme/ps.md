@@ -130,7 +130,7 @@
 
 * [دلته د لوستلو لپاره ځینې PDF / ePUB دی.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
