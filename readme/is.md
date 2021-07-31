@@ -128,7 +128,7 @@
 
 * [Hérna er einhver PDF / ePUB til að lesa.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
