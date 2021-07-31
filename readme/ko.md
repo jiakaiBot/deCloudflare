@@ -128,7 +128,7 @@
 
 * [다음은 읽을 수있는 PDF / ePUB입니다.](../pdf/)
 
-* [Help translate deCloudflare](translateData/instructions.md)
+* [Help translate deCloudflare](translateData/)
 
 
 ---
