@@ -7,6 +7,9 @@
 
 
 
+- To avoid confusion, this is an unofficial bot. This doesn't mean saucenao no longer works with Pixiv, it does. I don't know what dedicated methods they use to avoid cloudflare's bot detection, but the method the Twitter bot uses gets frequently captcha blocked by Pixiv. ([saucenaopls](https://twitter.com/saucenaopls/status/1420947558009118726))
+- I had to make an account just for this. Whenever I attemt to do my download instructions for my flight, I get a cloudflare error any time halo waypoint has to be loaded. Please help. ([dont_ut](https://twitter.com/dont_ut/status/1421294197995446277))
+- Hello ! I am having trouble connecting to the support site. Upon loading the page, it displays a Cloudflare Error 1001 "DNS Resolution Error". I am in Portland and did not have issues connecting prior to today. ([r_cadezone](https://twitter.com/R_CADEZONE/status/1421291978847707141))
 - That IP is not blacklisted by any major list providers. However as it’s geo located in London that might be a red flag. But you can easily configure Cloudflare to challenge with a captcha if you are suspicious of an attack, rather than outright blocking sometimes legit users ([alanlawlor](https://twitter.com/alanlawlor/status/1419916460261056551))
 - When I try to use the link you sent me, cloudflare blocks me and I get the error: What happened This website is using a security service to protect itself from online attacks. Below that it lists a cloudflare ray ID and then Your IP w/ a weird looking number with letters too. ([mara_writes_](https://twitter.com/mara_writes_/status/1420058096848629769))
 - thx, but the advice given is that i need to contact the site owner and let them know that I received the Access denied error and ask them to check their Firewall Rules hmm 🤔 ([bart](https://twitter.com/bart/status/1419624636321607682))
