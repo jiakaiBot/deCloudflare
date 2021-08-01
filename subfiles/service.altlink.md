@@ -34,7 +34,7 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
   - If there is a network instability and AL failed to follow back you: please unfollow and follow again. This will trigger follow-back.
 
 3. When you share Cloudflared link, AL will send `direct` message to you with information.
-  - Direct messages older than *4* hours will be deleted.
+  - Direct messages older than *3* hours will be deleted.
     - There is no good reason to keep old toots online.
       - [Should I Delete My Tweets?](https://www.wired.com/story/the-know-it-alls-should-i-delete-my-tweets/)
 
