@@ -63,7 +63,7 @@
 
 
 
-# Cloudflare
+# Cloudflare Rap Sheet
 
 Cloudflare is a vigilante extremist organization that takes the decentralized web and centralizes it under one corporate power who dictates terms in the world's largest walled-garden.
 A large portion of the web were once freely open to all but are now controlled and monitored by a single central authority who decides for everyone who may access what web content.
