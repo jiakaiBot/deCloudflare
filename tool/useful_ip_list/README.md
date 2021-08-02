@@ -2,6 +2,6 @@
 
 - [vps.txt](vps.txt): Known VPS/Hosting. This doesn't include known VPN IP ranges (so you won't piss off VPN users)
   - For Amazon go to `not_cloudflare`.
-  - **If you got blocked as legit VPN user don't hestitate to create an issue**!
+  - **If you got blocked as legit VPN user don't hestitate to create an issue and tell which CIDR is the problem**!!
 - [facebook.txt](facebook.txt): Facebook
 - [tornodes.txt](tornodes.txt): Tor Relay Servers IP list
