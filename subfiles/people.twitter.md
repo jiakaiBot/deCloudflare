@@ -7,6 +7,7 @@
 
 
 
+- Send me Cloudflare Ray ID and I will see why you caught in a captcha loop. Typically bad ip rep causes a cloudflare captcha ([nixcraft](https://twitter.com/nixcraft/status/1421746824935735303))
 - To avoid confusion, this is an unofficial bot. This doesn't mean saucenao no longer works with Pixiv, it does. I don't know what dedicated methods they use to avoid cloudflare's bot detection, but the method the Twitter bot uses gets frequently captcha blocked by Pixiv. ([saucenaopls](https://twitter.com/saucenaopls/status/1420947558009118726))
 - I had to make an account just for this. Whenever I attemt to do my download instructions for my flight, I get a cloudflare error any time halo waypoint has to be loaded. Please help. ([dont_ut](https://twitter.com/dont_ut/status/1421294197995446277))
 - Hello ! I am having trouble connecting to the support site. Upon loading the page, it displays a Cloudflare Error 1001 "DNS Resolution Error". I am in Portland and did not have issues connecting prior to today. ([r_cadezone](https://twitter.com/R_CADEZONE/status/1421291978847707141))
