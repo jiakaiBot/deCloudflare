@@ -5,6 +5,12 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-08-01: [Network Performance Issues in Data Centers near California](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zhbq9zw0sh6b)
+- 2021-07-30: [Increased HTTP 522 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cd8f8wp46m03)
+- 2021-07-29: [Cloudflare Edge Side Code (ESC) Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6j8htcqxvj1k)
+- 2021-07-29: [Network Performance Issues in Singapore](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/04982rd61q5r)
+- 2021-07-28: [Customer Impacting Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f2f5s9jvc6j9)
+- 2021-07-27: [Network Performance Issues in France](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/v1cryfwspn9k)
 - 2021-07-25: [Possible Network Congestion in Atlanta](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fhyqtxslvkws)
 - 2021-07-24: [Distributed Web Gateway](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/m88hvpg4qq76)
 - 2021-07-22: [Network Performance Issues in Dallas region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vgnnrm7g1w0k)
