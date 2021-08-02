@@ -152,17 +152,16 @@ set N V
 | uk | Українська |
 | ur | اُردُو |
 | vi | Tiếng Việt |
-| zh | 汉语 |
-| zt | 漢語 |
+| zh | 简体 |
+| zt | 繁體 |
 
 
 Here's an example.
 
-- Speak Russian. Enable onion. Monthly Report please.
+- Speak Русский. Monthly Report please.
 ```
 @AL
 set 4 ru
-set 2 1
 set 3 on
 ```
 
