@@ -128,6 +128,8 @@
 
 * [Бул жерде окуу үчүн бир нече PDF / ePUB бар.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
