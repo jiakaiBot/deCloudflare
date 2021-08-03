@@ -128,6 +128,8 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 
 * [Narito ang ilang mga PDF / ePUB upang mabasa.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
