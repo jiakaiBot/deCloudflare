@@ -128,6 +128,8 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "The Great Cloudwal
 
 * [Hei e puer PDF / ePUB fir ze liesen.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
