@@ -128,6 +128,8 @@ Este repositorio é unha lista de sitios web que están detrás de "The Great Cl
 
 * [Aquí tes algúns PDF / ePUB para ler.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
