@@ -128,6 +128,8 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
 
 * [Hier ist ein PDF / ePUB zum Lesen.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
