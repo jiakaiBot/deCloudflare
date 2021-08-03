@@ -7,6 +7,10 @@
 
 
 
+- based, i finally got all domains both professional and personal that i had on cloudflare on multiple accounts i, we and all my properties are free from the centralized menace :cloudflaretrash: ([graf](https://poa.st/objects/daebddcb-618e-4dfb-ae65-bfe911c80c21))
+- based, i finally got all domains both professional and personal that i had on cloudflare on multiple accounts off cloudflare i, we and all my properties are free from the centralized menace :cloudflaretrash: ([graf](https://poa.st/objects/440672c8-a67d-4934-82dc-18730bc87df6))
+- 📣 Cloudflared Domainbahai.orgof course it is bahai greatcloudwall ([jeffcliff](https://shitposter.club/objects/16783a3c-9f1f-4b7a-b5cf-cd4896d6547d))
+- I need to find a better nameserver for my domains but I’m too lazy to transfer the records elsewhere (made that mistake during my brief relationship with :cloudflaretrash:) ([samtherapy](https://fedi.samtherapy.net/objects/b21faeda-8f88-489c-bddd-9f136b78b07e))
 - 👉Cloudflare CDN.js bug introduced critical vulnerability to websites👉The US government flags COVID misinfo for Facebook👉Trading Big Tech shares while regulating them has made Nancy Pelosi $ 70,000,000 USD… this and more in Axis of Easy ([axisofeasy](https://nojack.easydns.ca/@axisofeasy/106618618192393194))
 - Imagine if Akamai, CloudFlare, and AWS all went down at the same time. ([nivex](https://octodon.social/@nivex/106625224473970115))
 - I guess literally nobody learned from the CloudFlare outage? Akamai outage ([alamantus](https://cybre.space/@Alamantus/106625284388497789))
