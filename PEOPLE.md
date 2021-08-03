@@ -54,6 +54,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [Cloudflare Vulnerability Enabled Compromise of 12% of All Websites](https://blog.ericom.com/cloudflare-vulnerability-enabled-compromise-of-12-of-all-websites/)
 - [Cloudflare's inaccessible browser contradicts the company's mission](https://mwcampbell.github.io/cloudflare-browser-isolation-letter/)
 - [Major internet outage: Dozens of websites and apps were down](https://edition.cnn.com/2020/08/30/tech/internet-outage-cloudflare/index.html)
 - [Произошел сбой работы интернет сервисов по всему миру](https://www.securitylab.ru/news/511577.php)
