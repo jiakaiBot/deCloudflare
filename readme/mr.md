@@ -128,6 +128,8 @@
 
 * [वाचण्यासाठी येथे काही पीडीएफ / ईपब दिले आहेत.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
