@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare Is the Malware. cloudflareIsTheMalware privacy cyberSecurity cyberInsecurity MITM cMITM blockCloudflare blockMark ([dsfgs](https://activism.openworlds.info/@dsfgs/106694450097597899))
 - just like TorProject censors people in IRC who criticize TorBrowser in tor, there are also ops in tor-offtopic who censor those who disclose the fact that Tor Project is silently removing information that&apos;s critical of Cloudflare from their website. ([resist1984](https://social.privacytools.io/@resist1984/106670752037370555))
 - if you still work for cloudflare after 8chan and kwfms and their inaccessible bullshit browser you better have a damn good reason tbh ([tindall](https://cybre.space/@tindall/106681906053016472))
 - lol why does the movie theatre chain need to use cloudflare ddos protection ([georgespolitzer](https://monads.online/@georgespolitzer/106683177025675694))
