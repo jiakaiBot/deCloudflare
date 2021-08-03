@@ -128,6 +128,8 @@ Detta förvar är en lista över webbplatser som ligger bakom "The Great Cloudwa
 
 * [Här är lite PDF / ePUB att läsa.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
