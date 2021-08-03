@@ -128,6 +128,8 @@ Aquest dipòsit és una llista de llocs web que hi ha al darrere de "The Great C
 
 * [A continuació, es descriuen alguns PDF / ePUB.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
