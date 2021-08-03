@@ -128,6 +128,8 @@ Ovo spremište je popis web stranica koje stoje iza "Velikog oblačnog zida", a 
 
 * [Evo nekoliko PDF / ePUB-a za čitanje.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
