@@ -129,7 +129,7 @@
 
 * Jen iuj [PDF/ePUB](../pdf/) por legi.
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+* Bonvolu [konsideri donacon](../DONATION.md) se vi ŝatas ĉi tiun projekton.
 
 
 ---
