@@ -128,6 +128,8 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "The Great Cloudwall", ga
 
 * [Dyma ychydig o PDF / ePUB i'w ddarllen.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
