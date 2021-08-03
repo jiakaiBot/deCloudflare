@@ -128,6 +128,8 @@ Et hoc promptuario est, quae post tergum album of websites "Magna et Cloudwall",
 
 * [Ecce quibusdam PDF / ePUB legere.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
