@@ -128,6 +128,8 @@
 
 * [นี่คือ PDF / ePUB ที่จะอ่าน](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
