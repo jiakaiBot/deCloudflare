@@ -128,6 +128,8 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "The Great Cloudwa
 
 * [Ity misy PDF / ePUB hamaky.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
