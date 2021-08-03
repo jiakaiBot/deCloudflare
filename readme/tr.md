@@ -128,6 +128,8 @@ Bu depo, Tor kullanıcılarını ve diğer CDN'leri engelleyen "The Great Cloudw
 
 * [İşte okumak için bazı PDF / ePUB.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
