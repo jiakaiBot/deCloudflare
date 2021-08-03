@@ -128,6 +128,8 @@
 
 * [דאָ איז עטלעכע PDF / ePUB צו לייענען.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
