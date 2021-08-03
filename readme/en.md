@@ -135,6 +135,8 @@ This repository is a list of websites that are behind "The Great Cloudwall", blo
 
 * [Here's some PDF/ePUB to read.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 
 ---
 
