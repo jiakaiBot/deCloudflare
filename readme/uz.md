@@ -128,6 +128,8 @@ Ushbu ombor Tor foydalanuvchilari va boshqa CDN-larni blokirovka qiladigan "Grea
 
 * [O'qish uchun bir nechta PDF / ePUB.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
