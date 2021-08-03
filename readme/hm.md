@@ -128,6 +128,8 @@ Qhov chaw cia no yog ib daim ntawv teev npe ntawm lub vev xaib uas nyob tom qab 
 
 * [Nov yog qee qhov PDF / ePUB los nyeem.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
