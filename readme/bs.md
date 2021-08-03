@@ -128,6 +128,8 @@ Ovo skladište predstavlja listu web stranica koje stoje iza "Velikog oblačnog 
 
 * [Evo nekih PDF / ePUB-a za čitanje.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
