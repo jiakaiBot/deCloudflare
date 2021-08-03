@@ -25,7 +25,12 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
 > Subscribe
 
 1. Follow [Alternative Link (AL)](https://mamot.fr/@altlink).
-  - Some trigger-happy instances such as `mastodon.social` are blocking altlink.
+  - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking altlink.
+
+| 🖼 | 🖼 |
+| -- | -- |
+| ![](../image/ban_altlink_mastodon.social.jpg) | ![](../image/ban_altlink_eldritch.cafe.jpg) |
+
 
 2. AL will accept your follow request and follow back you.
   - If you're locking your account, please accept AL's follow request otherwise AL can't read your toots.
@@ -115,7 +120,7 @@ set 5
 - Mastodon servers are controlled by third party.
   - Let us know if above account is censored by aggressive Cloudflare supporters.
 - You can `@altlink` to create an Issue without git account.
-  - Multiple \@mentions (e.g. `@altlink @otheruser1 @otherbot2 blah blah`) and some keywords will be ignored to prevent spam. Please send `private` or `direct` messages.
+  - Multiple \@mentions (e.g. `@altlink @otheruser1 @otherbot2 blah blah`) or some keywords will be ignored to prevent spam. Please send `private` or `direct` messages.
   - e.g. `@altlink the domain example.com is cloudflared`
 - ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
 - ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared_fediverse.md)
