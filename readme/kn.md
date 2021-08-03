@@ -128,6 +128,8 @@
 
 * [ಓದಲು ಕೆಲವು ಪಿಡಿಎಫ್ / ಇಪಬ್ ಇಲ್ಲಿದೆ.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
