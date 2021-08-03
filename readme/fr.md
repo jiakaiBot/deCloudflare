@@ -128,6 +128,8 @@ Ce référentiel est une liste de sites Web derrière "The Great Cloudwall", blo
 
 * [Voici quelques PDF / ePUB à lire.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
