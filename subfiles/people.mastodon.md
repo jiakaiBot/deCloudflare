@@ -7,6 +7,10 @@
 
 
 
+- 👉Cloudflare CDN.js bug introduced critical vulnerability to websites👉The US government flags COVID misinfo for Facebook👉Trading Big Tech shares while regulating them has made Nancy Pelosi $ 70,000,000 USD… this and more in Axis of Easy ([axisofeasy](https://nojack.easydns.ca/@axisofeasy/106618618192393194))
+- Imagine if Akamai, CloudFlare, and AWS all went down at the same time. ([nivex](https://octodon.social/@nivex/106625224473970115))
+- I guess literally nobody learned from the CloudFlare outage? Akamai outage ([alamantus](https://cybre.space/@Alamantus/106625284388497789))
+- Wow cloudflare have bitchute as a client? Haven&apos;t they learnt already? ([abeorch](https://mastodon.technology/@abeorch/106632506624695588))
 - well they've obviously pirated Cloudflare's block page, which they wield against Tor users, so it's the same problem. It's a Tor-hostile walled-garden. ([resist1984](https://social.privacytools.io/@resist1984/106660251961822091))
 - A few years ago, Cloudflare went down... a few months ago, Fastly went down... today, Akamai went down...God, I love how people are just not learning anything from the past :^)I'm just gonna say it...The next major web outage will be caused by either CloudFront, cdnjs or JSDelivr. ([finlaydag33k](https://social.linux.pizza/@finlaydag33k/106625375403375846))
 - I guess literally nobody learned from the CloudFlare outage? Akamai outage ([alamantus](https://cybre.space/@Alamantus/106625284388497789))
