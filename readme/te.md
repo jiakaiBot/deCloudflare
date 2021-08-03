@@ -128,6 +128,8 @@
 
 * [చదవడానికి ఇక్కడ కొన్ని PDF / ePUB ఉంది.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
