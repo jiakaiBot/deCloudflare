@@ -128,6 +128,8 @@
 
 * [Hérna er einhver PDF / ePUB til að lesa.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
