@@ -128,6 +128,8 @@ Ang kini nga repositoryo usa ka lista sa mga website nga sa luyo sa "The Great C
 
 * [Niini ang pila ka PDF / ePUB nga mabasa.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
