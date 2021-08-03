@@ -128,6 +128,8 @@
 
 * [Ево неких ПДФ / еПУБ-а за читање.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
