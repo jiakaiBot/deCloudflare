@@ -128,6 +128,8 @@ Tämä säilytystila on luettelo verkkosivustoista, jotka ovat "Suuren pilvasein
 
 * [Tässä on joitain luettavia PDF / ePUB-tiedostoja.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
