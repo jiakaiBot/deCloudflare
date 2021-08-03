@@ -128,6 +128,8 @@ Ez a lerakat azon webhelyek listája, amelyek a "Nagy felhőfal" mögött állna
 
 * [Itt van néhány olvasható PDF / ePUB.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
