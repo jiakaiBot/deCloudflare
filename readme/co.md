@@ -128,6 +128,8 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "The Great Cloudwal
 
 * [Eccu alcuni PDF / ePUB per leghje.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
