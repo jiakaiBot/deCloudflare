@@ -129,6 +129,8 @@
 
 * Jen iuj [PDF/ePUB](../pdf/) por legi.
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 
 ---
 
