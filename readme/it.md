@@ -128,6 +128,8 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 
 * [Ecco alcuni PDF / ePUB da leggere.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
