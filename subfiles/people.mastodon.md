@@ -7,6 +7,10 @@
 
 
 
+- just like TorProject censors people in IRC who criticize TorBrowser in tor, there are also ops in tor-offtopic who censor those who disclose the fact that Tor Project is silently removing information that&apos;s critical of Cloudflare from their website. ([resist1984](https://social.privacytools.io/@resist1984/106670752037370555))
+- if you still work for cloudflare after 8chan and kwfms and their inaccessible bullshit browser you better have a damn good reason tbh ([tindall](https://cybre.space/@tindall/106681906053016472))
+- lol why does the movie theatre chain need to use cloudflare ddos protection ([georgespolitzer](https://monads.online/@georgespolitzer/106683177025675694))
+- "Cloudflare recently disclosed a vulnerability that could have resulted in successful cyberattacks on the millions of websites (12.7% of ALL websites to be precise) that rely on JavaScript and CSS libraries found on cdnjs, an open-source content delivery network (CDN) hosted by the CDN service cloudflare javascript security ([br0m3x](https://social.weho.st/@Br0m3x/106690788768787770))
 - based, i finally got all domains both professional and personal that i had on cloudflare on multiple accounts i, we and all my properties are free from the centralized menace :cloudflaretrash: ([graf](https://poa.st/objects/daebddcb-618e-4dfb-ae65-bfe911c80c21))
 - based, i finally got all domains both professional and personal that i had on cloudflare on multiple accounts off cloudflare i, we and all my properties are free from the centralized menace :cloudflaretrash: ([graf](https://poa.st/objects/440672c8-a67d-4934-82dc-18730bc87df6))
 - 📣 Cloudflared Domainbahai.orgof course it is bahai greatcloudwall ([jeffcliff](https://shitposter.club/objects/16783a3c-9f1f-4b7a-b5cf-cd4896d6547d))
