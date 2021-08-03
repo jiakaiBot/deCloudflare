@@ -128,6 +128,8 @@ Repositori ini adalah senarai laman web yang berada di belakang "The Great Cloud
 
 * [Berikut adalah beberapa PDF / ePUB untuk dibaca.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
