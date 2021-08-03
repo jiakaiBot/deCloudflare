@@ -128,6 +128,8 @@ Dan ir-repożitorju huwa lista ta 'websajts li huma wara "Il-Great Cloudwall", l
 
 * [Hawn xi PDF / ePUB biex taqra.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
