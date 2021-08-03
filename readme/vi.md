@@ -128,6 +128,8 @@ Kho lưu trữ này là danh sách các trang web đứng sau "Bức tường m�
 
 * [Đây là một số PDF / ePUB để đọc.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
