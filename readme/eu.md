@@ -128,6 +128,8 @@ Biltegi hau "The Great Cloudwall" atzean dauden webguneen zerrenda da, Tor erabi
 
 * [Hona hemen PDF / ePUB batzuk irakurtzeko.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
