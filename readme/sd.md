@@ -128,6 +128,8 @@
 
 * [هتي پڙهڻ لاءِ ڪجهه پي ڊي ايف / اي پي يو بي جوڙيا ويا آهن.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
