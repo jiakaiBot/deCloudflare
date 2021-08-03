@@ -128,6 +128,8 @@ Bokosi ili ndi mndandanda wa masamba omwe ali kumbuyo kwa "The Cloudwall", akuts
 
 * [Nayi PDF / ePUB yoti muwerenge.](../pdf/)
 
+* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
+
 * [Help translate deCloudflare](translateData/)
 
 
