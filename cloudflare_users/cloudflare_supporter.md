@@ -835,6 +835,7 @@ Do not create new issue or we will close it as duplicate.
 | [borislee0227@twitter](https://twitter.com/borislee0227/status/1413173842244104192) | moral (advertise) |
 | [Boswam6@twitter](https://twitter.com/Boswam6/status/1377681051472916482) | advertise |
 | [BoTayZar7@twitter](https://twitter.com/BoTayZar7/status/1391301779636195330) | advertise |
+| [botonevsky@twitter](https://twitter.com/botonevsky/status/1422888231247486977) | advertise |
 | [bot_420_@twitter](https://twitter.com/bot_420_/status/1395910085289955335) | advertise |
 | [BoV80033132@twitter](https://twitter.com/BoV80033132/status/1382811439103025152) | advertise |
 | [boy02645952@twitter](https://twitter.com/boy02645952/status/1392895197541847045) | advertise |
