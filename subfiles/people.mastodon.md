@@ -7,6 +7,7 @@
 
 
 
+- Does anyone know a good DNS provider that isn’t cloudflare or google? I can’t remember what I used at the last place ([s0](https://cathode.church/@s0/106700997180237403))
 - Robots have a bad rap, unjustly so - due to popular misconceptions, and this has enabled Cloudflare to grow and oppress /humans/. ([resist1984](https://social.privacytools.io/@resist1984/106698291709265391))
 - Cloudflare Is the Malware. cloudflareIsTheMalware privacy cyberSecurity cyberInsecurity MITM cMITM blockCloudflare blockMark ([dsfgs](https://activism.openworlds.info/@dsfgs/106694450097597899))
 - just like TorProject censors people in IRC who criticize TorBrowser in tor, there are also ops in tor-offtopic who censor those who disclose the fact that Tor Project is silently removing information that&apos;s critical of Cloudflare from their website. ([resist1984](https://social.privacytools.io/@resist1984/106670752037370555))
