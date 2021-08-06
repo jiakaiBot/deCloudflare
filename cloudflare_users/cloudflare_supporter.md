@@ -43,6 +43,7 @@ Do not create new issue or we will close it as duplicate.
 | [1juxtaposition@twitter](https://twitter.com/1juxtaposition/status/1397618611083165697) | advertise |
 | [1KK4cfjGlKNknLy@twitter](https://twitter.com/1KK4cfjGlKNknLy/status/1378992221077168128) | advertise |
 | [1of1Bluts374@twitter](https://twitter.com/1of1Bluts374/status/1383862555945291781) | advertise |
+| [1xSlotvn@twitter](https://twitter.com/1xSlotvn/status/1419205739466280960) | advertise |
 | [1yearandhalf@twitter](https://twitter.com/1yearandhalf/status/1380825438105317390) | advertise |
 | [2DOkAuz5FGdyO5u@twitter](https://twitter.com/2DOkAuz5FGdyO5u/status/1390639905290792967) | advertise |
 | [2k3Aesthetics@twitter](https://twitter.com/2k3Aesthetics/status/1391304277319053327) | advertise |
@@ -158,6 +159,7 @@ Do not create new issue or we will close it as duplicate.
 | [adxdxa@twitter](https://twitter.com/adxdxa/status/1378400549658357760) | advertise |
 | [adz66150286@twitter](https://twitter.com/adz66150286/status/1389621700745056256) | advertise |
 | [aebob@twitter](https://twitter.com/aebob/status/1383247993155903496) | advertise |
+| [aed048@twitter](https://twitter.com/aed048/status/1423165022642098177) | advertise |
 | [AeidraMoe@twitter](https://twitter.com/AeidraMoe/status/1392122365429964802) | advertise |
 | [aeiou2224@twitter](https://twitter.com/aeiou2224/status/1398335303782305795) | advertise |
 | [Aekari95@twitter](https://twitter.com/Aekari95/status/1390406061140549633) | advertise |
@@ -1387,6 +1389,7 @@ Do not create new issue or we will close it as duplicate.
 | [EMadhavi3@twitter](https://twitter.com/EMadhavi3/status/1392409666294935553) | advertise |
 | [Email69400101@twitter](https://twitter.com/Email69400101/status/1405570403200684046) | advertise |
 | [Emily326696461@twitter](https://twitter.com/Emily326696461/status/1389534601618460673) | advertise |
+| [emlo40Official@twitter](https://twitter.com/emlo40Official/status/1423392503223439376) | advertise |
 | [EmmanuelEdudzi2@twitter](https://twitter.com/EmmanuelEdudzi2/status/1377972822757232642) | advertise |
 | [emmaphoo95@twitter](https://twitter.com/emmaphoo95/status/1389822312602427394) | advertise |
 | [Emoji41570993@twitter](https://twitter.com/Emoji41570993/status/1389852391550377986) | advertise |
@@ -4928,6 +4931,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sn07852953@twitter](https://twitter.com/Sn07852953/status/1386022348285890560) | advertise |
 | [sn48891210@twitter](https://twitter.com/sn48891210/status/1385648532909039618) | advertise |
 | [sn58893213@twitter](https://twitter.com/sn58893213/status/1380081314502610946) | advertise |
+| [SnailDOS@twitter](https://twitter.com/SnailDOS/status/1423436038203076610) | advertise |
 | [Snake88578323@twitter](https://twitter.com/Snake88578323/status/1395017607909044230) | advertise |
 | [Snakyacidkiss@twitter](https://twitter.com/Snakyacidkiss/status/1389092757881249793) | advertise |
 | [Snap69015522@twitter](https://twitter.com/Snap69015522/status/1393834272092409860) | advertise |
