@@ -7,6 +7,9 @@
 
 
 
+- Is it possible to fix this feature in Tor mode? Many sites don't seem to work with it, especially if they use Cloudflare. ([ideafaktory](https://twitter.com/ideafaktory/status/1423359529153073156))
+- I use Tor Browser for Android as my default browser and so I get shown a lot of Captchas. I have no idea whether a fire engine counts as a truck or not and it is incredibly frustrating. ([owenblacker](https://twitter.com/owenblacker/status/1423003169047601153))
+- web keep giving me cloudflare error 1020 since months ago and I have no idea how to contact them. magnificent. ([miyuriscarlet](https://twitter.com/MiyuriScarlet/status/1423403009527087107))
 - Error 1020 Ray ID: 6798ae65b9c5c447 • 2021-08-04 15:04:58 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 6798ae65b9c5c447 Your IP: 188.65.242.219 Performance & security by Cloudflare 😀🤘🤣 ([sergius73846256](https://twitter.com/Sergius73846256/status/1422936870254678022))
 - Error 1020 Ray ID: 6798655848bc76ad • 2021-08-04 14:15:06 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 6798655848bc76ad Your IP: 188.65.242.247 Performance & security by Cloudflare(с) 🤘👇😇 ([sergius73846256](https://twitter.com/Sergius73846256/status/1422925228641034242))
 - It seems BenchApp is down. Getting a Cloudflare error. I sent an email to support. ([andrewdavis](https://twitter.com/andrewdavis/status/1422787151842795520))
