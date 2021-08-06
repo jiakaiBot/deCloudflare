@@ -7,6 +7,8 @@
 
 
 
+- When people have truely had enough of BigTech. That is when they will drop a literal bomb on a western city and point elsewhere.The bomb will likely be cyber — Cloudflare origins. They may even point at bitcoiners. Labelling them as traitors etc.Why.We don't believe people appreciate how far their investments will pummet. Those in power will want to blame something else for the collapse. They did last year with covid — we all saw that. ([dsfgs](https://activism.openworlds.info/@dsfgs/106707380630797531))
+- mobian on pinephone/etc/systemd/resolved.confSuggested DNS servers:1st place - cloudflare2nd place - googleIs it the proper way in FOSS?@mobian ([br0m3x](https://social.weho.st/@Br0m3x/106709924294776169))
 - Does anyone know a good DNS provider that isn’t cloudflare or google? I can’t remember what I used at the last place ([s0](https://cathode.church/@s0/106700997180237403))
 - Robots have a bad rap, unjustly so - due to popular misconceptions, and this has enabled Cloudflare to grow and oppress /humans/. ([resist1984](https://social.privacytools.io/@resist1984/106698291709265391))
 - Cloudflare Is the Malware. cloudflareIsTheMalware privacy cyberSecurity cyberInsecurity MITM cMITM blockCloudflare blockMark ([dsfgs](https://activism.openworlds.info/@dsfgs/106694450097597899))
