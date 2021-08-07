@@ -32,7 +32,7 @@
   - [How many % of Bitcoin Exchange sites are using Cloudflare?](cloudflared_bitcoinexchange.md)
   - [How many % of payment service providers are using Cloudflare?](cloudflared_paymentservices.md)
   - [How many % of public Fediverse services are using Cloudflare?](cloudflared_fediverse.md)
-  - [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
+    - [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
   - [How many % of public Git services are using Cloudflare?](cloudflared_gitservices.md)
   - [How many % of public Torrent services are using Cloudflare?](cloudflared_torrents.md)
   - [How many % of public social media are using Cloudflare?](cloudflared_socialmedia.md)
@@ -46,6 +46,7 @@
   - [How many % of URL Shortener services are using Cloudflare?](cloudflared_urlshortening.md)
   - [How many % of VPN services are using Cloudflare?](cloudflared_vpnservice.md)
   - [How many % of Domain name registrars are using Cloudflare?](cloudflared_domain_registrars.md)
+  - [How many % of Hosting Providers are using Cloudflare on their site?](cloudflared_hostingprovider.md)
   - [How many % of Mozilla's Root CAs are using Cloudflare?](cloudflared_mozilla_rootca.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
