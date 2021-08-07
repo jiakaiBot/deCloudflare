@@ -931,6 +931,7 @@ Or is this merely a case of simple modesty?
 | Kristian Freeman | Developer | https://twitter.com/imkmf<br>https://www.signalnerve.com/<br>https://github.com/signalnerve<br>kristian@kristianfreeman.com<br>k@bytesized.xyz<br>[🖼](../image/gang/Kristian_Freeman.jpg) |
 | Kristina Miguel | Backend Systems Engineer |  |
 | Kristina Scott | Global Marketing | [🖼](../image/gang/Kristina_Scott.jpg) |
+| Kristina Williams | Employee | |
 | Kristin Hart | Executive Assistant |  |
 | Kristin Tarr | Communications Specialist |  |
 | Kristján Oddsson | Front-end Engineer |  |
