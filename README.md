@@ -7,4 +7,5 @@
 | ![](image/damon_billian.gif) | - [Historio / Histre](HISTORY.md)<br><br>- [Permesilo / Lisense](LICENSE.md)<br><br>- [Pri Donaco / About Donuts](DONATION.md)<br><br>- [Aldoni vian mesaĝon anonime / Add your massarge anonymously](https://mail.crimeflare.eu.org/?send_to=issue)<br><br><br>[![](image/ic/twitter.png)](https://twitter.com/altlinkTW) [![](image/ic/mastodon.png)](https://mamot.fr/@altlink) [![](image/ic/mail.png)](mailto:issue@crimeflare.eu.org) [![](image/ic/tor.png)](https://metrics.torproject.org/rs.html#details/D9347277A0A3185DE0FBAE14376C8A68C563DE01) [![](image/ic/keybase.png)](https://keybase.io/decloudflare)  |
 
 
+
 <a rel="me" href="https://mamot.fr/@altlink"></a>
