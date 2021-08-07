@@ -1,7 +1,7 @@
 ## How many % of Hosting Providers are using Cloudflare on their site?
 
 
-- [URL shortening](https://en.wikipedia.org/wiki/Web_hosting_service)
+- [Hosting Provider](https://en.wikipedia.org/wiki/Web_hosting_service)
 ```
 A web hosting service (often shortened to web host) is a type of Internet hosting service 
 that allows individuals and organizations to make their website accessible via the World Wide Web. 
