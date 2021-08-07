@@ -7,6 +7,7 @@
 
 
 
+- brighteon cloudflare failureon one hand adams is smart enough to install mastodon’t.on the other hand he’s still dumb enough to use cloudflare.:blobcatthinking2: ([icedquinn](https://blob.cat/objects/56573c32-0f30-48fe-b8af-1a7320dcd5a8))
 - When people have truely had enough of BigTech. That is when they will drop a literal bomb on a western city and point elsewhere.The bomb will likely be cyber — Cloudflare origins. They may even point at bitcoiners. Labelling them as traitors etc.Why.We don't believe people appreciate how far their investments will pummet. Those in power will want to blame something else for the collapse. They did last year with covid — we all saw that. ([dsfgs](https://activism.openworlds.info/@dsfgs/106707380630797531))
 - mobian on pinephone/etc/systemd/resolved.confSuggested DNS servers:1st place - cloudflare2nd place - googleIs it the proper way in FOSS?@mobian ([br0m3x](https://social.weho.st/@Br0m3x/106709924294776169))
 - Does anyone know a good DNS provider that isn’t cloudflare or google? I can’t remember what I used at the last place ([s0](https://cathode.church/@s0/106700997180237403))
