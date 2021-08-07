@@ -7,6 +7,7 @@
 
 
 
+- any idea when you might include ".co.uk" or ".it" in your awesome registrar service? British and Italians want to come join you! Thanks for the awesome service! ([cr10123](https://twitter.com/cr10123/status/1423631495504220161))
 - Is it possible to fix this feature in Tor mode? Many sites don't seem to work with it, especially if they use Cloudflare. ([ideafaktory](https://twitter.com/ideafaktory/status/1423359529153073156))
 - I use Tor Browser for Android as my default browser and so I get shown a lot of Captchas. I have no idea whether a fire engine counts as a truck or not and it is incredibly frustrating. ([owenblacker](https://twitter.com/owenblacker/status/1423003169047601153))
 - web keep giving me cloudflare error 1020 since months ago and I have no idea how to contact them. magnificent. ([miyuriscarlet](https://twitter.com/MiyuriScarlet/status/1423403009527087107))
