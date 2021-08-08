@@ -145,6 +145,7 @@ a1-230.akam.net
 a1-232.akam.net
 a1-233.akam.net
 a1-234.akam.net
+a1-235.akam.net
 a1-236.akam.net
 a1-237.akam.net
 a1-238.akam.net
@@ -183,6 +184,7 @@ a1-38.akam.net
 a1-4.akam.net
 a1-40.akam.net
 a1-41.akam.net
+a1-42.akam.net
 a1-43.akam.net
 a1-44.akam.net
 a1-45.akam.net
@@ -408,6 +410,8 @@ ns1-177.akam.net
 ns1-179.akam.net
 ns1-18.akam.net
 ns1-181.akam.net
+ns1-182.akam.net
+ns1-183.akam.net
 ns1-185.akam.net
 ns1-188.akam.net
 ns1-189.akam.net
