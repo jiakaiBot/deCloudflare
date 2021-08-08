@@ -17,6 +17,7 @@ We might create a guide for some self-hosting basics which don't require Cloudfl
   - Even simple [ModSecurity](https://www.modsecurity.org/) can save you.
 - Add rate-limit to your nftable(firewall) and server software.
   - Just drop the excessive connection.
+- Blocking [VPS/Hosting IP ranges](../tool/useful_ip_list/) will get rid of your headache.
 
 
 ## Alternatives
