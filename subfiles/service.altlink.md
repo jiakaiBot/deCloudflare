@@ -118,19 +118,19 @@ Here's an example.
 
 - Speak Русский. Monthly Report please.
 ```
-@AL
+@altlink
 set 4 ru
 set 3 on
 ```
 
 - What is my current settings?
 ```
-@AL set 5
+@altlink set 5
 ```
 
 - Turn 1 on and show settings.
 ```
-@AL set 1 yes
+@altlink set 1 yes
 set 5
 ```
 
@@ -139,8 +139,8 @@ set 5
 
 - Mastodon servers are controlled by third party.
   - Let us know if above account is censored by aggressive Cloudflare supporters.
-- You can `@altlink` to create an Issue without git account.
-  - Multiple \@mentions (e.g. `@altlink @otheruser1 @otherbot2 blah blah`) or some keywords will be ignored to prevent spam. Please send `private` or `direct` messages.
+- You can DM `@altlink` to create an Issue without git account.
+  - `Multiple @mentions` (e.g. `@altlink @otheruser1 @otherbot2 blah blah`) or some spam keywords will be ignored to prevent spam. Please send `private` or `direct` messages.
   - e.g. `@altlink the domain example.com is cloudflared`
 - ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
 - ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared_fediverse.md)
