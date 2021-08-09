@@ -7,6 +7,8 @@
 
 
 
+- 我英語わからんCloudflareに書いてること理解不能 ([kanoy](https://misskey.io/notes/8p7my7yp4a))
+- fuck off forever cloudflare ([millihertz](https://oldbytes.space/@millihertz/106728652019112543))
 - Cloudflare が死ぬと、うちもしにます。 ([jadiunr](https://ap.jadiunr.net/@jadiunr/106625457061572927))
 - 先ほどまでビデオのプレビューが出来ない問題が発生してますが、CloudFlareのバグによるものだと思います。現在は復旧しています。 ([aureoleark](https://misskey.io/notes/8okoc7z14t))
 - 先ほどまでビデオのプレビューが出来ない問題が発生していましたが恐らくCloudFlareのバグによるものだと思います。現在は復旧しています。 ([aureoleark](https://misskey.io/notes/8okoi4p0zs))
