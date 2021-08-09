@@ -51,6 +51,26 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
   - If you've changed your mind and want to subscribe(opt-in) again, `unblock`, `unfollow` AL and `follow` again.
 
 
+> "_Is it really CloudFlare!?_" check
+
+Just send `domain name` or `URL` as direct message and AL will answer within 1-2 minutes.
+
+Here's an example.
+
+```
+@altlink blog.emsisoft.com
+```
+
+You can also query multiple at once / mix domain and URLs
+
+```
+@altlink
+en.wikipedia.org
+https://blog.emsisoft.com/wow/
+www.wikimedia.org
+```
+
+
 > Settings
 
 You can configure AL via `direct message`.
