@@ -71,6 +71,24 @@ www.wikimedia.org
 ```
 
 
+> Report a problem / Create an Issue
+
+You can create an Issue without git account. Just send a private or direct message.
+And don't worry,
+
+- `Multiple @mentions`
+```
+@randomUser @altlink @otherUser
+blah blah blah
+```
+
+- Some spam keywords
+
+
+...will be ignored to prevent spam.
+Your username part (before `@`) will be masked to protect your privacy.
+
+
 > Settings
 
 You can configure AL via `direct message`.
@@ -139,9 +157,6 @@ set 5
 
 - Mastodon servers are controlled by third party.
   - Let us know if above account is censored by aggressive Cloudflare supporters.
-- You can DM `@altlink` to create an Issue without git account.
-  - `Multiple @mentions` (e.g. `@altlink @otheruser1 @otherbot2 blah blah`) or some spam keywords will be ignored to prevent spam. Please send `private` or `direct` messages.
-  - e.g. `@altlink the domain example.com is cloudflared`
 - ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
 - ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared_fediverse.md)
 - ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
