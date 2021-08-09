@@ -53,7 +53,7 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
 
 > "_Is it really CloudFlare!?_" check
 
-Just send `domain name` or `URL` as direct message and AL will answer within 1-2 minutes.
+Just send `domain name` or `URL` as direct message and AL will answer within 1 minute.
 
 Here's an example.
 
@@ -76,14 +76,13 @@ www.wikimedia.org
 You can create an Issue without git account. Just send a private or direct message.
 And don't worry,
 
-- `Multiple @mentions`
+- Multiple mentions
 ```
 @randomUser @altlink @otherUser
 blah blah blah
 ```
 
 - Some spam keywords
-
 
 ...will be ignored to prevent spam.
 Your username part (before `@`) will be masked to protect your privacy.
