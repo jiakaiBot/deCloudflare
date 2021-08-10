@@ -12,8 +12,26 @@ This is `opt-in` service.
 Once upon a time there was a bot named "_[CloudflareLink](https://social.privacytools.io/@cloudflarelink/with_replies)_" which was created by Anonymous.
 It replied to many users who shared CF links publicly.
 
-Not many people reacted it positively.
+Not many people reacted it positively. Here is some of them.
+
+- [kemonine@social.holdmybeer.solutions](https://social.holdmybeer.solutions/objects/9479c5be-40df-4ecd-a3fe-0209a9020dfd)
+```
+To the owner of this bot
+
+You should be ashamed.
+
+Quit drive by bro'ing our statuses.
+
+Please fornicate with a pointy stick.
+```
+
+- [Sylvhem@eldritch.cafe](https://eldritch.cafe/@Sylvhem/102701484501099424)
+```
+Pointing to a copy rather than the original document if it's still online is bad practice too. Also, you are a very annoying bot.
+```
+
 They got annoyed and Mastodon server owner was pressured by their "spam" reports.
+
 One of Mastodon server owner once [said](../tool/mastodonwch#some-public-reaction), "_your little protest bot is making people upset, and i'm worried it might cause people to defederate from the instance, please tone it down_."
 
 For the record "_CloudflareLink_" was moved to other Mastodon servers 3 times and banned 2 times by 2 Mastodon services until the Anonymous decided to given up for good.
