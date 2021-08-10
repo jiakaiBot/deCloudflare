@@ -17,11 +17,8 @@ Not many people reacted it positively. Here is some of them.
 - [kemonine@social.holdmybeer.solutions](https://social.holdmybeer.solutions/objects/9479c5be-40df-4ecd-a3fe-0209a9020dfd)
 ```
 To the owner of this bot
-
 You should be ashamed.
-
 Quit drive by bro'ing our statuses.
-
 Please fornicate with a pointy stick.
 ```
 
@@ -64,7 +61,8 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
 
 > Unsubscribe
 
-1. Just `block` or `mute` AL's account **on your side**.
+1. Just `unfollow` AL's account **on your side**.
+  - **AL will unfollow you within an hour**.
   - AL do not attempt to re-follow you.
   - If you've changed your mind and want to subscribe(opt-in) again, `unblock`, `unfollow` AL and `follow` again.
 
