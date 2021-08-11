@@ -7,6 +7,7 @@
 
 
 
+- goddamn cloudflare pisses me off ([sa2tms](https://cybre.space/@sa2tms/106740172117744566))
 - Damnit MintPressNews! You try to be #independentMedia but you go and funnel your website through #Cloudflare, causing pages to be inaccessible. Why don't you ask #whistleblowers to go to Cloudflare HQ and arrange to have their vital bodily fluids drained on the spot? Slug guarding the mint-house. #epicFail #mintPressNews #deleteCloudflare #deleteCloudfront #MitMaaS #mintPressNewsDotCom #bigData ([dsfgs](https://activism.openworlds.info/@dsfgs/106738725378846099))
 - 私はCloudflareと気が合わなくて解約した… ([atsuchan](https://atsuchan.page/@atsuchan/106734978532662501))
 - 最近 misskey.m544.net から kr.akirin.xyz に配信するとCloudflareにブロックされるみたいなのだわ、jsチャレンジになるのだわ。 ([mei23](https://meisskey.one/notes/717b32f42fff4521c7cd7c55))
