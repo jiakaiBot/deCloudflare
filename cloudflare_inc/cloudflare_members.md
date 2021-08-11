@@ -352,6 +352,7 @@ Or is this merely a case of simple modesty?
 | Christian Elmerot | Employee | [🖼](../image/gang/Christian_Elmerot.jpg) |
 | Christian Elsen | Product Manager |  |
 | Christian Paulus | Product Marketing |  |
+| Christian Sparks | Employee | |
 | Christie Draper | Technical Support Engineer |  |
 | Christina Briscoe | Accountant |  |
 | Christina Reip | Employee |  |
@@ -1160,6 +1161,7 @@ Or is this merely a case of simple modesty?
 | Nelson Chen | Customer Development |  |
 | Nena Nguyen | Product Designer |  |
 | Nerio Musa | Support Manager - APAC |  |
+| Nevi Shah | Employee | |
 | Ngassa Youmby | Account Executive |  |
 | Nicholas Allen | Employee |  |
 | Nicholas Comer | Systems Engineer |  |
