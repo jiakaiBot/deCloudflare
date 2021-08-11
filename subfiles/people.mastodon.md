@@ -7,6 +7,10 @@
 
 
 
+- 私はCloudflareと気が合わなくて解約した… ([atsuchan](https://atsuchan.page/@atsuchan/106734978532662501))
+- 最近 misskey.m544.net から kr.akirin.xyz に配信するとCloudflareにブロックされるみたいなのだわ、jsチャレンジになるのだわ。 ([mei23](https://meisskey.one/notes/717b32f42fff4521c7cd7c55))
+- なんかうちのサーバーから配信すると、Cloudflareのbotブロック？か何かに引っかかる疑惑があるのだわ。てゆうかAWSの某リージョンのアドレス帯域自体ダメっぽいのだわ。 ([mei23](https://misskey.m544.net/notes/717b32f77532377bfe020bcb))
+- てゆうかCloudflareでbotブロックするならAP系は除外しとけって感じなのだわこれらを除外してもAPI経由で登録されまくったりはないはずなのだわ/.well-known/webfinger//users//notes/ ([mei23](https://misskey.m544.net/notes/717b33009adcce6d7e887d89))
 - Got blocked from a site by Cloudflare for the first time today :( ([cone](https://merveilles.town/@cone/106734601668483888))
 - ノートの詳細を見に行った先がみすきー.ioさんだとCloudflareからのエラーと何かダイアログが見えてそっ閉じしちゃうんだよね ([zundan](https://mastodon.zunda.ninja/@zundan/106733291414426235))
 - 我英語わからんCloudflareに書いてること理解不能 ([kanoy](https://misskey.io/notes/8p7my7yp4a))
