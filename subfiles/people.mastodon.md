@@ -7,6 +7,7 @@
 
 
 
+- Got blocked from a site by Cloudflare for the first time today :( ([cone](https://merveilles.town/@cone/106734601668483888))
 - ノートの詳細を見に行った先がみすきー.ioさんだとCloudflareからのエラーと何かダイアログが見えてそっ閉じしちゃうんだよね ([zundan](https://mastodon.zunda.ninja/@zundan/106733291414426235))
 - 我英語わからんCloudflareに書いてること理解不能 ([kanoy](https://misskey.io/notes/8p7my7yp4a))
 - fuck off forever cloudflare ([millihertz](https://oldbytes.space/@millihertz/106728652019112543))
