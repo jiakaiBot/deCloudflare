@@ -1125,6 +1125,7 @@ Here's a list of public Fediverse services.
 | friendica.xyz | No |
 | friendicarg.nsupdate.info | No |
 | friendl.y-y.li | No |
+| friends.cafe | Yes |
 | friends.daspr.io | Yes |
 | friends.deko.cloud | No |
 | friends.devinemarsa.com | No |
@@ -1335,6 +1336,7 @@ Here's a list of public Fediverse services.
 | herds.eu | No |
 | herkenhoff.com | No |
 | herzbu.de | No |
+| hexadon.net | No |
 | hey.dou.bet | No |
 | hi.spooky.camp | No |
 | hidden.blue | Yes |
@@ -1366,6 +1368,7 @@ Here's a list of public Fediverse services.
 | homoo.social | No |
 | honey.church | No |
 | honey.town | No |
+| honi.club | No |
 | honk.clouded.monster | No |
 | honk.codevoid.de | No |
 | honk.hmm.st | No |
@@ -1876,6 +1879,7 @@ Here's a list of public Fediverse services.
 | macbeth.cc | No |
 | macgirvin.com | No |
 | machida.yokohama | No |
+| machikadon.online | Yes |
 | machteburch.social | No |
 | maddypa.ws | No |
 | madost.one | Yes |
@@ -2539,6 +2543,7 @@ Here's a list of public Fediverse services.
 | moonbutt.science | Yes |
 | moparisthe.best | No |
 | mordor.social | No |
+| moresci.sale | Yes |
 | morg.i.ng | No |
 | morgenroth.me | No |
 | moriyakidon.mamemo.online | Yes |
@@ -4733,6 +4738,7 @@ Here's a list of public Fediverse services.
 | tv.netwhood.online | No |
 | tvitero.com | No |
 | tweety.icu | No |
+| twiddon.com | Yes |
 | twimblr.xyz | No |
 | twingyeo.kr | Yes |
 | twinja.club | No |
@@ -4762,6 +4768,7 @@ Here's a list of public Fediverse services.
 | ukese.me | No |
 | ulman.social | No |
 | uluka.otsoku.me | Yes |
+| umaskey.net | Yes |
 | unbound.social | No |
 | undead.link | No |
 | under-bank.blue | No |
@@ -5106,8 +5113,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 961 |
-| Normal | 4110 |
+| Cloudflare | 966 |
+| Normal | 4112 |
 
 
 ### 19.0% of public Fediverse services are using Cloudflare.
