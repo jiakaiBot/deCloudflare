@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-08-11: [Elevated 520 errors on Free Zones](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hljt52nzcsnf)
 - 2021-08-07: [Network Performance Issues in SJC](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qqd59t4xyzj2)
 - 2021-08-06: [Increased HTTP 520 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/06dqv1km8f3h)
 - 2021-08-01: [Network Performance Issues in Data Centers near California](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zhbq9zw0sh6b)
