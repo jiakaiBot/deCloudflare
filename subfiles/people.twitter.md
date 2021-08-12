@@ -7,6 +7,16 @@
 
 
 
+- Cloudflare flagged the request to be coming form 'bot' and presented captcha and the requestor did not complete the captcha successfully. I've modified the rules to allow the traffic. (2/2) ([nightlightguy](https://twitter.com/nightlightguy/status/1424938867178627075))
+- Hi guys, how are you? I have a problem, for some reason you have detected my IP as spam or attack and I cannot access my usual pages ([themaugames](https://twitter.com/TheMauGames/status/1425528634677383173))
+- Or tested for a i really not looking to their products taking out to cloudflare your mitm cdn when running ([macmelonmac](https://twitter.com/MacMelonMac/status/1425104156679970834))
+- That is the biggest thing I've been learning. Few years ago I remember first seeing multiple big websites down, "cloudflare error message" ahh whatever. Now $NET up big. Last year, wow these $CELH drinks are popping up and good, stock up big a year later. ([jimmyvinla](https://twitter.com/JimmyVinLa/status/1425557674125520898))
+- Anything wacky going on with your site? I'm trying to log in to download some updates, and keep getting generic error messages, math tests, and a Jetpack message referring to a CloudFlare IP. ([dsxlii](https://twitter.com/dsXLII/status/1425469217671892994))
+- If you get error 1020 by Cloudflare, try again the login. ([dragonarygame](https://twitter.com/DragonaryGame/status/1425462098520330254))
+- Yes and 3 will show a cloudflare error page so you get to refresh another 3 times for free! ([cyim](https://twitter.com/cyim/status/1425245080944787457))
+- "Web server is returning an unknown error There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed" ([daniellipton](https://twitter.com/DanielLipton/status/1425127352024064000))
+- My site is down and has Error 1020 when I try to log in. This started after I enabled CloudFlare. I need cloudflare removed ASAP!!!!!!!!!!!!!!! ([markdeskin](https://twitter.com/MarkDeskin/status/1425067443106496521))
+- Hey since a couple of days I've been having a Cloudflare Error 521 when accessing Portal to submit reviews. Are you aware of the issue? ([neural_](https://twitter.com/Neural_/status/1424363623611240453))
 - Well, I tried again, and Opencritic still is being a pain and won't let me access the portal without a cloudflare error. :( Of all days I REALLY want to get my review out there, too. what's going on, guys? ([seafoamgaming](https://twitter.com/SeafoamGaming/status/1424094362074587143))
 - any idea when you might include ".co.uk" or ".it" in your awesome registrar service? British and Italians want to come join you! Thanks for the awesome service! ([cr10123](https://twitter.com/cr10123/status/1423631495504220161))
 - Is it possible to fix this feature in Tor mode? Many sites don't seem to work with it, especially if they use Cloudflare. ([ideafaktory](https://twitter.com/ideafaktory/status/1423359529153073156))
