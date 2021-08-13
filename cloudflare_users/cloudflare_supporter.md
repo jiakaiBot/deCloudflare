@@ -620,6 +620,7 @@ Do not create new issue or we will close it as duplicate.
 | [AwangAdam@twitter](https://twitter.com/AwangAdam/status/1399563412573540355) | advertise |
 | [Awarene16686090@twitter](https://twitter.com/Awarene16686090/status/1412622734350192643) | moral (advertise) |
 | [awastumpah@twitter](https://twitter.com/awastumpah/status/1402440693377732609) | advertise |
+| [AwesomeFekry@twitter](https://twitter.com/AwesomeFekry/status/1425759860436635650) | advertise |
 | [AWorld2012@twitter](https://twitter.com/AWorld2012/status/1403252237409914880) | advertise |
 | [Awotism@twitter](https://twitter.com/Awotism/status/1400651579120705543) | advertise |
 | [aw_htet@twitter](https://twitter.com/aw_htet/status/1392711448590094336) | advertise |
@@ -4842,6 +4843,7 @@ Do not create new issue or we will close it as duplicate.
 | [ShipStoreco@twitter](https://twitter.com/ShipStoreco/status/1371295374246285313) | advertise |
 | [Shireen21778793@twitter](https://twitter.com/Shireen21778793/status/1404067613232099332) | advertise |
 | [Shirogane1092@twitter](https://twitter.com/Shirogane1092/status/1384817156747972608) | advertise |
+| [shitaro2021@twitter](https://twitter.com/shitaro2021/status/1425783479455813635) | advertise |
 | [shiva68995788@twitter](https://twitter.com/shiva68995788/status/1379824052232130561) | advertise |
 | [SHIVAIN23124937@twitter](https://twitter.com/SHIVAIN23124937/status/1385521694564098048) | advertise |
 | [Shivam37917303@twitter](https://twitter.com/Shivam37917303/status/1392053697094459398) | advertise |
