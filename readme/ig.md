@@ -137,7 +137,7 @@ Ebe a bụ ndepụta nke weebụsaịtị dị n'azụ "The Great Cloudwall", na
 
 ### Banyere akụkọ adịgboroja
 
-We mara banyere ịdị adị nke akụkọ adịgboroja nke na-egosipụta ọwa ozi anyị, ka ọ bụrụ Twitter, Facebook, Patreon, OpenCollective, Village wdg.
+We mara banyere ịdị adị nke akụkọ adịgboroja nke na-egosipụta ọwa ozi anyị, ka ọ bụrụ Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Village wdg.
 **Anyị anaghị ajụ email gị.
 Anyị anaghị ajụ gị aha gị.
 Anyị anaghị ajụ njirimara gị.
