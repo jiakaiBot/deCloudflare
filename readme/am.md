@@ -137,7 +137,7 @@
 
 ### ስለ ሐሰተኛ መለያዎች
 
-የወንጀል አስተላላፊ ኦፊሴላዊ ጣቢያዎቻችንን የሚያስመስሉ የሐሰት መለያዎች መኖር ፣ Twitter ፣ Facebook ፣ Patreon ፣ OpenCollective ፣ Village ወዘተ
+የወንጀል አስተላላፊ ኦፊሴላዊ ጣቢያዎቻችንን የሚያስመስሉ የሐሰት መለያዎች መኖር ፣ Twitter ፣ Facebook ፣ Mastodon, Github, Gitea, Patreon ፣ OpenCollective ፣ Village ወዘተ
 **በጭራሽ ኢሜልዎን አንጠይቅም ፡፡
 በጭራሽ ስምህን አንጠይቅም ፡፡
 ማንነትዎን በጭራሽ አንጠይቅም ፡፡
