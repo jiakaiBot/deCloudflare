@@ -67,6 +67,13 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
   - If you've changed your mind and want to subscribe(opt-in) again, `unblock`, `unfollow` AL and `follow` again.
 
 
+> How to hide _boosted_ toots
+
+If you just want to use `direct message function` and don't want to know other user's voices, just use Mastodon's "_Hide boost_" function like below picture.
+
+![](../image/mastodon_hide_boosts.jpg)
+
+
 > "_Is it really CloudFlare!?_" check
 
 Just send `domain name` or `URL` as direct message and AL will answer within 1 minute.
