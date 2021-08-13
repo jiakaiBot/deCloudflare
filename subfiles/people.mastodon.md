@@ -7,6 +7,8 @@
 
 
 
+- cant even do shit with TOR anymore because you end in cloudflare loop https://twitter.com/DrunkAustrian/status/1424074680458039297 ([omgcloudflare](https://social.kyushojitsu.ca/@omgcloudflare/106747124750338601))
+- "Hi before you use the website please pass 3 captcha because our cloudflare defense" "I no longer wish to use your website" https://twitter.com/RadRaeDX/status/1424141714596503558 ([omgcloudflare](https://social.kyushojitsu.ca/@omgcloudflare/106747125077696963))
 - CLOUDFLARE &amp; Qanon CIA MK-Ultra Control &amp; Censorship Exposed! https://steemit.com/busy/@motherlibertynow/reason-for-cloudflare-blocking-8-chan-qanon-exposed @altlink ([agrandmaster](https://social.kyushojitsu.ca/@Agrandmaster/106746397960825726))
 - &gt;set router to use quad 9 DNS instead of cloudflare &gt;lots of network issues just Stop Happening nice ([durgasoft](https://poa.st/objects/ec94f14e-3098-46b8-bc64-8c7ce6b4a56b))
 - goddamn cloudflare pisses me off ([sa2tms](https://cybre.space/@sa2tms/106740172117744566))
