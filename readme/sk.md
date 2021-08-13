@@ -137,7 +137,7 @@ Toto úložisko je zoznam webových stránok, ktoré sú za „Veľkou cloudovou
 
 ### O falošných účtoch
 
-Kriminalita vie o existencii falošných účtov zosobňujúcich naše oficiálne kanály, či už sú to Twitter, Facebook, Patreon, OpenCollective, Dediny atď.
+Kriminalita vie o existencii falošných účtov zosobňujúcich naše oficiálne kanály, či už sú to Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Dediny atď.
 **Nikdy sa nepýtame na váš e-mail.
 Nikdy sa vás nepýtame na vaše meno.
 Nikdy sa vás nepýtame na vašu totožnosť.
