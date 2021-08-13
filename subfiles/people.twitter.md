@@ -7,6 +7,9 @@
 
 
 
+- Sending photos on discord is broken right now and I tried sending my friend a screenshot of the cloudflare error... ([node1729](https://twitter.com/node1729/status/1425639832219529218))
+- Every captcha sucks, but hCaptcha is the worst ([fzakfeld](https://twitter.com/fzakfeld/status/1425871136257085446))
+- . I was stuck in your "verify you're a human" thingy for 10min with the worst captcha ever, Please seriosuly consider changing this, it's annoying as hell ([fzakfeld](https://twitter.com/fzakfeld/status/1425795150903644167))
 - Cloudflare flagged the request to be coming form 'bot' and presented captcha and the requestor did not complete the captcha successfully. I've modified the rules to allow the traffic. (2/2) ([nightlightguy](https://twitter.com/nightlightguy/status/1424938867178627075))
 - Hi guys, how are you? I have a problem, for some reason you have detected my IP as spam or attack and I cannot access my usual pages ([themaugames](https://twitter.com/TheMauGames/status/1425528634677383173))
 - Or tested for a i really not looking to their products taking out to cloudflare your mitm cdn when running ([macmelonmac](https://twitter.com/MacMelonMac/status/1425104156679970834))
