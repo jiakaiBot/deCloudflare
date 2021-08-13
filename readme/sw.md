@@ -137,7 +137,7 @@ Jalada hili ni orodha ya tovuti ambazo ziko nyuma "Cloudwall Kubwa", zinazuia wa
 
 ### Kuhusu akaunti bandia
 
-Wahalifu wanajua juu ya uwepo wa akaunti bandia zinazoiga chaneli zetu rasmi, iwe ni Twitter, Facebook, Patreon, OpenCollective, Vijiji nk.
+Wahalifu wanajua juu ya uwepo wa akaunti bandia zinazoiga chaneli zetu rasmi, iwe ni Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Vijiji nk.
 **Hatuwahi kuuliza barua pepe yako.
 Hatuwahi kuuliza jina lako.
 Hatuwahi kuuliza kitambulisho chako.
