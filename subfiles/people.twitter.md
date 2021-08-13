@@ -7,6 +7,17 @@
 
 
 
+- Why having API behind cloudflare? I’m having a hard time running my script without getting blocked by cloudflare. ([_melbadry9](https://twitter.com/_melbadry9/status/1425770912389943298))
+- Dear Your DDOS protection thing is incompetent and breaks browser functions on phones. You and other tech companies need to stop forcing actions that only serve you and breaks browsers, tired of the same obnoxious cycle Fix yo’selves! Thanks ([ismitetheice](https://twitter.com/iSmiteTheIce/status/1425671157580242948))
+- I'm seeing more and more sites using Cloudflare as a CDN blocking access from behind NordVPN (not sure if that's common to other VPNs too). ([humantorch](https://twitter.com/humantorch/status/1425124183667879937))
+- dear by inserting RECAPTCHA bs into every request, you're making it very difficult to be on the internet without leaving every kind of tracker tracking me Please stop. ([fux0r](https://twitter.com/fux0r/status/1425039668848906240))
+- send an email to pe@ppy.sh with your IP. you are likely compromised and blocked by cloudflare due to being part of a botnet. ([ppy](https://twitter.com/ppy/status/1424806527794221078))
+- Congratulations! Maybe you can help them figure out how to stop destroying the internet with their support for hate websites like KF 🥳🎉 ([akashacoin](https://twitter.com/AkashaCoin/status/1424762547379458053))
+- Don't want Apple to scan your photos? Then don't upload them to iCloud. Also stop using Google's Gmail, or apps/sites like TikTok, Facebook, Twitter, Instagram, or CDNs like Cloudflare, or hosts like Amazon AWS, they've all been scanning your private content for some years now. ([jasonamartineau](https://twitter.com/jasonamartineau/status/1424471048662097921))
+- maybe those websites use cloudflare - do you think cloudflare could stop serving them or something ([laphatize2](https://twitter.com/laphatize2/status/1423812235420385285))
+- i tried but i get blocked by the waf and none of the public payload to bypass cloudflare work.:( and yes its managed ([jeannasrallahh](https://twitter.com/jeannasrallahh/status/1423479485870055427))
+- 1.) Had similar issues combing Tor and Startpage. 2.) Stop using cloudflare!! ([muenstersec](https://twitter.com/MuensterSec/status/1423361213283586050))
+- VPN client is amazingly fast on my Ubuntu desktop. I sometimes doubt that it is activated.😅 There must be some magic underneath. Good job anyway. ([le_woudar](https://twitter.com/le_woudar/status/1424834989900840964))
 - is hosting book pirating sites and they don't have an email address listed on their website where to file a DMCA complaint. 😒😡 ([ingrid_seymour](https://twitter.com/Ingrid_Seymour/status/1425091271111102467))
 - What is your email address? I need to report a copyright infringement issue. ([ingrid_seymour](https://twitter.com/Ingrid_Seymour/status/1424854283162472451))
 - We have a problem,please hold on A timeout occurred The origin web server timed out responding to this request. Ray ID: 67 Your IP address: Error reference number: 524 Cloudflare Location: Lima ([liamames5](https://twitter.com/LiamAmes5/status/1425475264465756174))
