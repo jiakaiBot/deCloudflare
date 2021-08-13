@@ -45,5 +45,5 @@
 | ![](cfeu2018.gif) | ![](dmca9justin.gif) | ![](jamie_tomasello.gif) | ![](smellslikebs.gif) |
 | ![](altlink_sample.jpg) | ![](cfinside_etcher.jpg) | ![](dnsset-doh.jpg) | ![](dnsset-dot.jpg) |
 | ![](omsredjs.jpg) | ![](cfdown_2021-07-02.jpg) | ![](cfcommunity_ban.jpg) | ![](green_vehicles_cloudflare.jpg) |
-| ![](ban_altlink_eldritch.cafe.jpg) | ![](ban_altlink_mastodon.social.jpg) | - | - |
+| ![](ban_altlink_eldritch.cafe.jpg) | ![](ban_altlink_mastodon.social.jpg) | ![](mastodon_hide_boosts.jpg) | - |
 
