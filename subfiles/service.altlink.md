@@ -69,7 +69,7 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
 
 > How to hide _boosted_ toots
 
-If you just want to use `direct message function` and don't want to know other user's voices, just use Mastodon's "_Hide boost_" function like below picture.
+If you just want to use `direct message function` and don't want to know other [user's voices](../PEOPLE.md), just use Mastodon's "_Hide boost_" function like below picture.
 
 ![](../image/mastodon_hide_boosts.jpg)
 
@@ -96,16 +96,12 @@ www.wikimedia.org
 
 > Report a problem / Create an Issue
 
-You can create an Issue without git account. Just send a private or direct message.
+You can create an Issue without git account. Just send a `private` or `direct` message.
 And don't worry,
 
-- Multiple mentions
-```
-@randomUser @altlink @otherUser
-blah blah blah
-```
-
+- Multiple mentions (e.g. `@randomUser @altlink @otherUser blah blah blah`)
 - Some spam keywords
+- _Public_ message (e.g. `there's a bot called @altlink`)
 
 ...will be ignored to prevent spam.
 Your username part (before `@`) will be masked to protect your privacy.
