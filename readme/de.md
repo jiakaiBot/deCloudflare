@@ -137,7 +137,7 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
 
 ### Über gefälschte Konten
 
-We wissen um die Existenz gefälschter Konten, die sich als unsere offiziellen Kanäle ausgeben, sei es Twitter, Facebook, Patreon, OpenCollective, Villages usw.
+We wissen um die Existenz gefälschter Konten, die sich als unsere offiziellen Kanäle ausgeben, sei es Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Villages usw.
 **Wir fragen niemals nach Ihrer E-Mail.
 Wir fragen nie nach Ihrem Namen.
 Wir fragen niemals nach Ihrer Identität.
