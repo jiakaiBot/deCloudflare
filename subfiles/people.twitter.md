@@ -7,6 +7,10 @@
 
 
 
+- is hosting book pirating sites and they don't have an email address listed on their website where to file a DMCA complaint. 😒😡 ([ingrid_seymour](https://twitter.com/Ingrid_Seymour/status/1425091271111102467))
+- What is your email address? I need to report a copyright infringement issue. ([ingrid_seymour](https://twitter.com/Ingrid_Seymour/status/1424854283162472451))
+- We have a problem,please hold on A timeout occurred The origin web server timed out responding to this request. Ray ID: 67 Your IP address: Error reference number: 524 Cloudflare Location: Lima ([liamames5](https://twitter.com/LiamAmes5/status/1425475264465756174))
+- What's the issue with using Cloudflare? I'm hearing that they're some sort of a 'global MiTM attack' as a service? ([jackyalcine](https://twitter.com/jackyalcine/status/1421616334719262720))
 - Remember kids... is dangerous to your privacy. ;) No, you don't need cookies, javascript, fingerprinting, and no VPN. You're a CDN serving up static content. In other words, get over yourself with that Capcha BS, heh. ([dewaynelehman](https://twitter.com/DewayneLehman/status/1426000984480825354))
 - cant even do shit with TOR anymore because you end in cloudflare loop ([drunkaustrian](https://twitter.com/DrunkAustrian/status/1424074680458039297))
 - Facial recognition vs a captcha click... There are plenty of FR documentaries that hints why this would not end well. ([cryptokike1](https://twitter.com/cryptokike1/status/1425919993615630336))
