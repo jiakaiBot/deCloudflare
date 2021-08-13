@@ -137,7 +137,7 @@ Iyi repository runyorwa rwemawebhusaiti ari kumashure kwe "Iyo huru Cloudwall", 
 
 ### Nezve nhoroondo dzemanyepo
 
-VeCrifflare ziva nezve kuvapo kwenyaya dzekunyepedzera dzinotevedzera zviteshi zvedu zvepamutemo, ngazvive zviri Twitter, Facebook, Patreon, OpenCollective, Mishages etc.
+VeCrifflare ziva nezve kuvapo kwenyaya dzekunyepedzera dzinotevedzera zviteshi zvedu zvepamutemo, ngazvive zviri Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Mishages etc.
 **Hatimbofi takabvunza email yako.
 Hatimbofi takabvunza zita rako.
 Hatimbofi takabvunza zita rako.
