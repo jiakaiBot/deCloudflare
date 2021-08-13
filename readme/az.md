@@ -137,7 +137,7 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Bulud" a
 
 ### Saxta hesablar haqqında
 
-Twitter, Facebook, Patreon, OpenCollective, Kəndlər və s. Kimi rəsmi kanallarımıza aid saxta hesabların mövcudluğunu Krflare bilir.
+Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Kəndlər və s. Kimi rəsmi kanallarımıza aid saxta hesabların mövcudluğunu Krflare bilir.
 **E-poçtunuzu heç vaxt soruşmuruq.
 Heç vaxt adınızı soruşmuruq.
 Heç vaxt kimliyinizi soruşmuruq.
