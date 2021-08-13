@@ -137,7 +137,7 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "The Great Cloudwa
 
 ### Momba ny kaonty sandoka
 
-Fantatry ny We momba ny fisian'ireo kaonty hosoka mampita ny fantsona ofisialy, dia ny Twitter, Facebook, Patreon, OpenCollective, Villages sns.
+Fantatry ny We momba ny fisian'ireo kaonty hosoka mampita ny fantsona ofisialy, dia ny Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Villages sns.
 **Tsy manontany ny mailakao mihitsy izahay.
 Tsy manontany ny anaranao mihitsy izahay.
 Tsy manontany ny momba anao mihitsy izahay.
