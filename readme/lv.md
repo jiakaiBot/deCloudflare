@@ -137,7 +137,7 @@
 
 ### Par viltus kontiem
 
-We zina par viltus kontu esamību, kas uzdodas par mūsu oficiālajiem kanāliem, piemēram, Twitter, Facebook, Patreon, OpenCollective, Villages utt.
+We zina par viltus kontu esamību, kas uzdodas par mūsu oficiālajiem kanāliem, piemēram, Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Villages utt.
 **Mēs nekad nelūdzam jūsu e-pastu.
 Mēs nekad nelūdzam tavu vārdu.
 Mēs nekad nelūdzam jūsu identitāti.
