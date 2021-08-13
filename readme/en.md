@@ -142,7 +142,7 @@ This repository is a list of websites that are behind "The Great Cloudwall", blo
 
 ### About fake accounts
 
-We know about the existence of fake accounts impersonating our official channels, be it Twitter, [Facebook](https://www.fsf.org/facebook), Patreon, OpenCollective, Villages etc.
+We know about the existence of fake accounts impersonating our official channels, be it Twitter, [Facebook](https://www.fsf.org/facebook), Mastodon, Github, Gitea, Patreon, OpenCollective, Villages etc.
 **We never ask your email. 
 We never ask your name. 
 We never ask your identity. 
