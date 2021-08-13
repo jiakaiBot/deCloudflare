@@ -137,7 +137,7 @@ Biltegi hau "The Great Cloudwall" atzean dauden webguneen zerrenda da, Tor erabi
 
 ### Kontu faltsuei buruz
 
-We-k gure kanal ofizialak ordezkatzen dituen kontu faltsuen existentziaren berri izango du, izan Twitter, Facebook, Patreon, OpenCollective, Villages eta abar.
+We-k gure kanal ofizialak ordezkatzen dituen kontu faltsuen existentziaren berri izango du, izan Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Villages eta abar.
 **Ez dugu inoiz zure posta elektronikoa eskatzen.
 Ez diogu inoiz eskatu zure izena.
 Inoiz ez diogu zure identitateari galdetu.
