@@ -137,7 +137,7 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "The Great Cloudwal
 
 ### Circa i cunti falsi
 
-We cunnosce l'esistenza di conti falsi chì impegnanu i nostri canali ufficiali, sia Twitter, Facebook, Patreon, OpenCollective, Villages etc.
+We cunnosce l'esistenza di conti falsi chì impegnanu i nostri canali ufficiali, sia Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Villages etc.
 **Ùn mandemu mai u vostru email.
 Ùn dumandemu mai u vostru nome.
 Ùn mai dumandemu micca a vostra identità.
