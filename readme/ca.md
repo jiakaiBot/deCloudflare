@@ -137,7 +137,7 @@ Aquest dipòsit és una llista de llocs web que hi ha al darrere de "The Great C
 
 ### Quant a comptes falsos
 
-Informeu-vos de l'existència de comptes falsos que substitueixen els nostres canals oficials, ja sigui Twitter, Facebook, Patreon, OpenCollective, Villages, etc.
+Informeu-vos de l'existència de comptes falsos que substitueixen els nostres canals oficials, ja sigui Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Villages, etc.
 **Mai demanem el vostre correu electrònic.
 Mai demanem el vostre nom.
 Mai demanem la vostra identitat.
