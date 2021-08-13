@@ -137,7 +137,7 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "The Great Cloudwall
 
 ### Galp hasaplar hakda
 
-Jenaýat işi, Twitter, Facebook, Patreon, OpenCollective, Oba we ş.m. resmi kanallarymyzy görkezýän galp hasaplaryň bardygyny bilýär.
+Jenaýat işi, Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Oba we ş.m. resmi kanallarymyzy görkezýän galp hasaplaryň bardygyny bilýär.
 **E-poçtaňyzy hiç haçan soramaýarys.
 Biz hiç haçan adyňyzy soramaýarys.
 Hiç haçan şahsyýetiňizi soramaýarys.
