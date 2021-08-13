@@ -137,7 +137,7 @@
 
 ### Um falsa reikninga
 
-We vita um tilvist falsra reikninga sem herma eftir opinberum rásum okkar, hvort sem það er Twitter, Facebook, Patreon, OpenCollective, Villages o.fl.
+We vita um tilvist falsra reikninga sem herma eftir opinberum rásum okkar, hvort sem það er Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Villages o.fl.
 **Við biðjum aldrei um tölvupóstinn þinn.
 Við spyrjum aldrei nafn þitt.
 Við biðjum aldrei um hver þú ert.
