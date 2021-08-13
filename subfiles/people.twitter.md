@@ -7,6 +7,12 @@
 
 
 
+- Remember kids... is dangerous to your privacy. ;) No, you don't need cookies, javascript, fingerprinting, and no VPN. You're a CDN serving up static content. In other words, get over yourself with that Capcha BS, heh. ([dewaynelehman](https://twitter.com/DewayneLehman/status/1426000984480825354))
+- cant even do shit with TOR anymore because you end in cloudflare loop ([drunkaustrian](https://twitter.com/DrunkAustrian/status/1424074680458039297))
+- Facial recognition vs a captcha click... There are plenty of FR documentaries that hints why this would not end well. ([cryptokike1](https://twitter.com/cryptokike1/status/1425919993615630336))
+- "Hi before you use the website please pass 3 captcha because our cloudflare defense" "I no longer wish to use your website" ([radraedx](https://twitter.com/RadRaeDX/status/1424141714596503558))
+- why are you captcha challening those of us who use VPNs? abosolutely ridiculous way to migitage and assume everyone is guilty for using VPNs. glad you do care more about platforming white supremacists than allowing users on VPNs browse your network easily. ([tmjbgc](https://twitter.com/TMJBGC/status/1421161928081039364))
+- is it your normal practice to take payment and then send bot replies to queries and then just ignore further communication? Bloody appalling service. ([sandromendace](https://twitter.com/SandroMendace/status/1423320277325336577))
 - Both dark dot fail and tor dot taxi are behind CloudFlare. Now that's sussy. ([notkoutsie](https://twitter.com/notkoutsie/status/1424774557555118082))
 - Sending photos on discord is broken right now and I tried sending my friend a screenshot of the cloudflare error... ([node1729](https://twitter.com/node1729/status/1425639832219529218))
 - Every captcha sucks, but hCaptcha is the worst ([fzakfeld](https://twitter.com/fzakfeld/status/1425871136257085446))
