@@ -139,7 +139,7 @@
 
 ### 關於假賬戶
 
-我们知道存在伪造的帐户，这些帐户可以伪造我们的官方渠道，例如Twitter，Facebook，Patreon，OpenCollective，Villages等。
+我们知道存在伪造的帐户，这些帐户可以伪造我们的官方渠道，例如Twitter，Facebook，Mastodon, Github, Gitea, Patreon，OpenCollective，Villages等。
 **我們從不詢問您的電子郵件。
 我們從不問您的名字。
 我們從不詢問您的身份。
