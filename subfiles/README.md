@@ -17,7 +17,6 @@
   - [Mastodon Find](https://toot.crimeflare.eu.org), "[Find Mastodon Toots & Accounts](../tool/mastodonfind/README.md)"
   - [IAList](https://ialist.crimeflare.eu.org)
   - [Alternative Link](service.altlink.md)
-  - [Ss](service.sercxi.md)
 - Cloudflared
   - [How many % of top 1,000 most visited sites(2010) are using Cloudflare today?](cloudflared_top1000-2010-google.md)
   - [How many % of top 1,000 most visited sites(2019) are using Cloudflare today?](cloudflared_top1000-2019-alexa.md)
