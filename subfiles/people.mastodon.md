@@ -7,6 +7,7 @@
 
 
 
+- CloudFlareのキャッシュが原因だった・・・ｗ 関数ビルダーも動いたし、結構えぐいなぁあれ。 ([karasu_sue](https://misskey.korako.me/notes/8pdnie5o54))
 - CLOUDFLARE &amp; Qanon CIA MK-Ultra Control &amp; Censorship Exposed! ([agrandmaster](https://social.kyushojitsu.ca/@Agrandmaster/106746397960825726))
 - &gt;set router to use quad 9 DNS instead of cloudflare &gt;lots of network issues just Stop Happening nice ([durgasoft](https://poa.st/objects/ec94f14e-3098-46b8-bc64-8c7ce6b4a56b))
 - goddamn cloudflare pisses me off ([sa2tms](https://cybre.space/@sa2tms/106740172117744566))
