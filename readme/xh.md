@@ -137,7 +137,7 @@ Olu luhlu luluhlu lwewebhusayithi ezingasemva "kweyona Cloudwall", ezithintela a
 
 ### Malunga neeakhawunti ezingeyonyani
 
-Ulwaphulo-mthetho lwazi malunga nobukho beeakhawunti ezingezizo ezilingisa iziteshi zethu ezisemthethweni, nokuba ngaba yi-Twitter, i-Facebook, iPatreon, i-OpenCollective, iilali njl.
+Ulwaphulo-mthetho lwazi malunga nobukho beeakhawunti ezingezizo ezilingisa iziteshi zethu ezisemthethweni, nokuba ngaba yi-Twitter, i-Facebook, iMastodon, Github, Gitea, Patreon, i-OpenCollective, iilali njl.
 **Soze siyibuze i-imeyile yakho.
 Soze sibuze igama lakho.
 Soze sibuze isazisi sakho.
