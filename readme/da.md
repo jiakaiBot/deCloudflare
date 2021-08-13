@@ -137,7 +137,7 @@ Dette depot er en liste over websteder, der ligger bag "The Great Cloudwall", de
 
 ### Om falske konti
 
-We kender til eksistensen af ​​falske konti, der efterligger vores officielle kanaler, det være sig Twitter, Facebook, Patreon, OpenCollective, Landsbyer osv.
+We kender til eksistensen af ​​falske konti, der efterligger vores officielle kanaler, det være sig Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Landsbyer osv.
 **Vi beder aldrig din e-mail.
 Vi beder aldrig dit navn.
 Vi beder aldrig om din identitet.
