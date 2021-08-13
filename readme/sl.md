@@ -137,7 +137,7 @@ To skladišče je seznam spletnih mest, ki stojijo za "Great Cloudwall" in bloki
 
 ### O ponarejenih računih
 
-We ve za obstoj lažnih računov, ki predstavljajo naše uradne kanale, pa naj bodo to Twitter, Facebook, Patreon, OpenCollective, Villageges itd.
+We ve za obstoj lažnih računov, ki predstavljajo naše uradne kanale, pa naj bodo to Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Villageges itd.
 **Nikoli ne prosimo za vašo e-pošto.
 Nikoli ne vprašamo tvojega imena.
 Nikoli ne vprašamo vaše identitete.
