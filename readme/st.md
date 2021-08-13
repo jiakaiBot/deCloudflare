@@ -137,7 +137,7 @@ Sebaka sena sa polokelo ke lenane la liwebosaete tse ka morao ho "The Cloudwall"
 
 ### Mabapi le liak'haonte tsa nnete
 
-Bakuli ba botlokotsebe ba tseba ka boteng ba litlaleho tse seng tsa nnete tse etsisang lits'ebetso tsa rona tsa semmuso, ekaba Twitter, Facebook, Patreon, OpenCollective, Baahi jj.
+Bakuli ba botlokotsebe ba tseba ka boteng ba litlaleho tse seng tsa nnete tse etsisang lits'ebetso tsa rona tsa semmuso, ekaba Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Baahi jj.
 **Ha ho mohla re botsa lengolo-tsoibila la hau.
 Ha ho mohla re botsa lebitso la hau.
 Ha ho mohla re botsa boitsebiso ba hau.
