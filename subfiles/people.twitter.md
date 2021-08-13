@@ -7,6 +7,7 @@
 
 
 
+- Both dark dot fail and tor dot taxi are behind CloudFlare. Now that's sussy. ([notkoutsie](https://twitter.com/notkoutsie/status/1424774557555118082))
 - Sending photos on discord is broken right now and I tried sending my friend a screenshot of the cloudflare error... ([node1729](https://twitter.com/node1729/status/1425639832219529218))
 - Every captcha sucks, but hCaptcha is the worst ([fzakfeld](https://twitter.com/fzakfeld/status/1425871136257085446))
 - . I was stuck in your "verify you're a human" thingy for 10min with the worst captcha ever, Please seriosuly consider changing this, it's annoying as hell ([fzakfeld](https://twitter.com/fzakfeld/status/1425795150903644167))
