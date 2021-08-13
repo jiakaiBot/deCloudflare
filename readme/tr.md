@@ -137,7 +137,7 @@ Bu depo, Tor kullanıcılarını ve diğer CDN'leri engelleyen "The Great Cloudw
 
 ### Sahte hesaplar hakkında
 
-We, Twitter, Facebook, Patreon, OpenCollective, Köyler gibi resmi kanallarımızın kimliğine bürünen sahte hesapların varlığından haberdar.
+We, Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Köyler gibi resmi kanallarımızın kimliğine bürünen sahte hesapların varlığından haberdar.
 **E-postanızı asla sormayız.
 Adını asla sormayız.
 Kimliğinizi asla sormayız.
