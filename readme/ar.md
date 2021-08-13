@@ -139,7 +139,7 @@
 
 ### حول الحسابات المزيفة
 
-تعرف We بوجود حسابات مزيفة تنتحل شخصية قنواتنا الرسمية ، سواء كانت Twitter أو Facebook أو Patreon أو OpenCollective أو Villages وما إلى ذلك.
+تعرف We بوجود حسابات مزيفة تنتحل شخصية قنواتنا الرسمية ، سواء كانت Twitter أو Facebook أو Mastodon, Github, Gitea, Patreon أو OpenCollective أو Villages وما إلى ذلك.
 **نحن لا نطلب البريد الإلكتروني الخاص بك.
 نحن لا نطلب اسمك ابدا
 نحن لا نطلب هويتك أبدا.
