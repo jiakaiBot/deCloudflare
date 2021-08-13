@@ -137,7 +137,7 @@
 
 ### E pili ana i nā waihona hoʻopunipuni
 
-ʻIke ʻo We e pili ana i ka loaʻa ʻana o nā moʻokāki hoʻopunipuni e hoʻohālikelike nei i kā mākou mau kahawai kūhelu, ʻo Twitter, Facebook, Patreon, OpenCollective, Nā Kaiāulu etc.
+ʻIke ʻo We e pili ana i ka loaʻa ʻana o nā moʻokāki hoʻopunipuni e hoʻohālikelike nei i kā mākou mau kahawai kūhelu, ʻo Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Nā Kaiāulu etc.
 **ʻAʻole mākou e nīnau i kāu leka uila.
 ʻAʻole loa mākou e nīnau i kou inoa.
 ʻAʻole loa mākou e nīnau i kou ʻike.
