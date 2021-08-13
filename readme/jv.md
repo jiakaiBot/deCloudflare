@@ -137,7 +137,7 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Great Cloudwal
 
 ### Babagan akun palsu
 
-We ngerti babagan orane akun palsu sing nduwe saluran resmi kita, yaiku Twitter, Facebook, Patreon, OpenCollective, Villages etc.
+We ngerti babagan orane akun palsu sing nduwe saluran resmi kita, yaiku Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Villages etc.
 **Kita ora tau takon email sampeyan.
 Aku ora njaluk jeneng sampeyan.
 Kita ora tau takon babagan identitas.
