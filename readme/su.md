@@ -137,7 +137,7 @@ Repositori ieu mangrupikeun daptar situs wéb anu aya di tukangeun "The Great Cl
 
 ### Ngeunaan akun palsu
 
-We terang ngeunaan ayana akun palsu anu nyababkeun saluran resmi kami, nya éta Twitter, Facebook, Patreon, OpenCollective, Kalayan jsb.
+We terang ngeunaan ayana akun palsu anu nyababkeun saluran resmi kami, nya éta Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Kalayan jsb.
 **Kami henteu pernah naroskeun ka email anjeun.
 Kami henteu kantos naroskeun nami anjeun.
 Kami moal naroskeun idéntitas anjeun.
