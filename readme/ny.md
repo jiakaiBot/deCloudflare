@@ -137,7 +137,7 @@ Bokosi ili ndi mndandanda wa masamba omwe ali kumbuyo kwa "The Cloudwall", akuts
 
 ### About nkhani zabodza
 
-Achifwamba amadziwa za kupezeka kwa nkhani zabodza zomwe zimatsata njira zathu, ngati ndi Twitter, Facebook, Patreon, OpenCollective, Midzi etc.
+Achifwamba amadziwa za kupezeka kwa nkhani zabodza zomwe zimatsata njira zathu, ngati ndi Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Midzi etc.
 **Sitifunsa imelo yanu.
 Sitifunsa dzina lanu.
 Sitifunsa kuti ndinu ndani.
