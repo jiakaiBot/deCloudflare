@@ -137,7 +137,7 @@ Wannan wurin ajiyar kaya akwai jerin rukunin yanar gizon da ke bayan "Babban Clo
 
 ### Game da asusun karya
 
-We sun san game da wanzuwar asusun karya da ke kwaikwayon tashoshinmu na yau da kullun, kasancewar Twitter, Facebook, Patreon, OpenCollective, Village da sauransu.
+We sun san game da wanzuwar asusun karya da ke kwaikwayon tashoshinmu na yau da kullun, kasancewar Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Village da sauransu.
 **Ba mu taɓa tambayar imel ba.
 Ba mu taɓa tambayar sunanka ba.
 Ba za mu taɓa tambayar asalin ku ba.
