@@ -137,7 +137,7 @@ Deze repository is een lijst met websites die achter "The Great Cloudwall" staan
 
 ### Over nepaccounts
 
-We is op de hoogte van het bestaan ​​van nepaccounts die zich voordoen als onze officiële kanalen, of het nu Twitter, Facebook, Patreon, OpenCollective, Villages etc. is.
+We is op de hoogte van het bestaan ​​van nepaccounts die zich voordoen als onze officiële kanalen, of het nu Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Villages etc. is.
 **We vragen nooit uw e-mail.
 We vragen nooit uw naam.
 We vragen nooit uw identiteit.
