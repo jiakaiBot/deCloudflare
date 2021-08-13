@@ -7,6 +7,7 @@
 
 
 
+- Hi not sure if you're aware but I'm getting a 522 error when I try to get onto Sage City (so the connection between Cloudflare and the SC Web Server timed out). Status page shows that it's operational, might just be something to check :) ([cmdrfigrow](https://twitter.com/CMDRFigrow/status/1426171044465979397))
 - Why having API behind cloudflare? I’m having a hard time running my script without getting blocked by cloudflare. ([_melbadry9](https://twitter.com/_melbadry9/status/1425770912389943298))
 - Dear Your DDOS protection thing is incompetent and breaks browser functions on phones. You and other tech companies need to stop forcing actions that only serve you and breaks browsers, tired of the same obnoxious cycle Fix yo’selves! Thanks ([ismitetheice](https://twitter.com/iSmiteTheIce/status/1425671157580242948))
 - I'm seeing more and more sites using Cloudflare as a CDN blocking access from behind NordVPN (not sure if that's common to other VPNs too). ([humantorch](https://twitter.com/humantorch/status/1425124183667879937))
