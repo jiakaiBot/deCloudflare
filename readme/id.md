@@ -137,7 +137,7 @@ Repositori ini adalah daftar situs web yang berada di belakang "The Great Cloudw
 
 ### Tentang akun palsu
 
-We tahu tentang keberadaan akun palsu yang meniru saluran resmi kami, baik itu Twitter, Facebook, Patreon, OpenCollective, Villages, dll.
+We tahu tentang keberadaan akun palsu yang meniru saluran resmi kami, baik itu Twitter, Facebook, Mastodon, Github, Gitea, Patreon, OpenCollective, Villages, dll.
 **Kami tidak pernah meminta email Anda.
 Kami tidak pernah menanyakan nama Anda.
 Kami tidak pernah menanyakan identitas Anda.
