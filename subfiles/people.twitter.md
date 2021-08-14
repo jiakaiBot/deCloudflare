@@ -7,6 +7,7 @@
 
 
 
+- I can't login to the site from any browser, vpn on or off. No matter what, the Cloudflare page reloads and reloads. I can't even submit a ticket b/c no way to log in. I'm kind of lost on how to proceed. ([erileff](https://twitter.com/erileff/status/1426345087177461762))
 - Why is it Cloudflare's job to censor the Internet? Do you really want them to do it? Should Comcast also censor the Internet? ([sambowne](https://twitter.com/sambowne/status/1418803014119280640))
 - If CloudFlare becomes necessary to survive online, then CloudFlare gains the ability to censor the Internet. ([lukedashjr](https://twitter.com/LukeDashjr/status/1416491331631865858))
 - As a victim of child pornography on a site that was protected by Cloudflare, I’d like to speak to you Matthew personally. I would like to further understand your morals & maybe you could understand mine. At this point talking is the only way to see another perspective . ([silenttruthhere](https://twitter.com/silenttruthhere/status/1413901604672188419))
