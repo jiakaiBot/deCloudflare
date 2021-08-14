@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-08-13: [Network Performance Issues in Atlanta, ATL](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wl7mct3rp3wd)
 - 2021-08-12: [Durable Objects timeouts](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/m9v76n2mwt44)
 - 2021-08-12: [Delayed JavaScript challenge passes](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vg1xqf8jkg2m)
 - 2021-08-11: [Elevated 520 errors on Free Zones](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hljt52nzcsnf)
