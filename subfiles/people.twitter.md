@@ -7,6 +7,7 @@
 
 
 
+- Deet's. We don't question Australian internet infrastructure :) In all seriousness tho, CGNAT is dumb. The amount of times I've had to call for a new IP because I end up being blocked by Cloudflare or Google for whatever reason is beyond me. ([shaquilleray](https://twitter.com/ShaquilleRay/status/1426575057652879365))
 - I can't login to the site from any browser, vpn on or off. No matter what, the Cloudflare page reloads and reloads. I can't even submit a ticket b/c no way to log in. I'm kind of lost on how to proceed. ([erileff](https://twitter.com/erileff/status/1426345087177461762))
 - Why is it Cloudflare's job to censor the Internet? Do you really want them to do it? Should Comcast also censor the Internet? ([sambowne](https://twitter.com/sambowne/status/1418803014119280640))
 - If CloudFlare becomes necessary to survive online, then CloudFlare gains the ability to censor the Internet. ([lukedashjr](https://twitter.com/LukeDashjr/status/1416491331631865858))
