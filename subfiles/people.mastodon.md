@@ -7,6 +7,7 @@
 
 
 
+- Debugging cloudflare is actually the worst I just want to make something my family can use :aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa: ([samtherapy](https://fedi.samtherapy.net/objects/85e1dc7f-9745-4f64-b157-97070c4a9b34))
 - Caring about user count sounds like a public instance kind of thing. http://i.imgur.com/jh8UAze.png CloudFlare is IRL Skynet. ([takeshitakenji](https://shitposter.club/objects/df423688-aaf0-490c-ac74-16e090a9263f))
 - CloudFlareのキャッシュが原因だった・・・ｗ 関数ビルダーも動いたし、結構えぐいなぁあれ。 ([karasu_sue](https://misskey.korako.me/notes/8pdnie5o54))
 - CLOUDFLARE &amp; Qanon CIA MK-Ultra Control &amp; Censorship Exposed! ([agrandmaster](https://social.kyushojitsu.ca/@Agrandmaster/106746397960825726))
