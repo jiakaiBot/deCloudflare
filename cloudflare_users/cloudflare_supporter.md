@@ -2443,6 +2443,7 @@ Do not create new issue or we will close it as duplicate.
 | [keinishi729_ds@twitter](https://twitter.com/keinishi729_ds/status/1393902570972717064) | advertise |
 | [Keith61322861@twitter](https://twitter.com/Keith61322861/status/1405019745749852164) | advertise |
 | [keithsnyder@twitter](https://twitter.com/keithsnyder/status/1422259525726445572) | advertise |
+| [kelenrojas@twitter](https://twitter.com/kelenrojas/status/1425974196270768138) | advertise |
 | [KelvinHein07@twitter](https://twitter.com/KelvinHein07/status/1390492994160136194) | advertise |
 | [KelvinK48901926@twitter](https://twitter.com/KelvinK48901926/status/1392420332728852484) | advertise |
 | [Kem23065441@twitter](https://twitter.com/Kem23065441/status/1401916905816870914) | advertise |
@@ -2991,6 +2992,7 @@ Do not create new issue or we will close it as duplicate.
 | [lmvntruong@twitter](https://twitter.com/lmvntruong/status/1380895642462023682) | advertise |
 | [LNhnHong1@twitter](https://twitter.com/LNhnHong1/status/1400851165248585730) | advertise |
 | [Loctran78766971@twitter](https://twitter.com/Loctran78766971/status/1378360177724776450) | advertise |
+| [loftwah@twitter](https://twitter.com/loftwah/status/1426153321882996737) | advertise |
 | [Loi49922234@twitter](https://twitter.com/Loi49922234/status/1384799893655416833) | advertise |
 | [loke_pa@twitter](https://twitter.com/loke_pa/status/1391006736404729860) | advertise |
 | [Loki83104752@twitter](https://twitter.com/Loki83104752/status/1379175461553573897) | advertise |
