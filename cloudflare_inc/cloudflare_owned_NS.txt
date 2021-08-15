@@ -656,6 +656,8 @@ norm.ns.cloudflare.com
 norman.ns.cloudflare.com
 nova.ns.cloudflare.com
 novalee.ns.cloudflare.com
+ns1.bart.ns.cloudflare.com
+ns2.leia.ns.cloudflare.com
 nucum.ns.cloudflare.com
 oaklyn.ns.cloudflare.com
 odin.ns.cloudflare.com
