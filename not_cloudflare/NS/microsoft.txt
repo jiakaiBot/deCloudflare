@@ -39,6 +39,7 @@ ns2-09.azure-dns.net
 ns2-201.azure-dns.net
 ns2-204.azure-dns.net
 ns2-205.azure-dns.net
+ns2-208.azure-dns.net
 ns2-221.azure-dns.net
 ns2-224.azure-dns.net
 ns2-32.azure-dns.net
@@ -63,6 +64,7 @@ ns3-09.azure-dns.org
 ns3-201.azure-dns.org
 ns3-204.azure-dns.org
 ns3-205.azure-dns.org
+ns3-208.azure-dns.org
 ns3-221.azure-dns.org
 ns3-224.azure-dns.org
 ns3-32.azure-dns.org
