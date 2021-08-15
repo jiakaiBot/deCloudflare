@@ -7,6 +7,8 @@
 
 
 
+- 思ったよりカスタム絵文字復活したしCloudFlareのキャッシュだったなこりゃ。、 ([lei202](https://mk.lei202.com/notes/717b4a6289a63458563be932))
+- うおおCloudflareがどうたらとかいう訳のわからん画面が表示されるぜー ([spectrum](https://pawoo.net/@Spectrum/106760848932751077))
 - Debugging cloudflare is actually the worst I just want to make something my family can use :aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa: ([samtherapy](https://fedi.samtherapy.net/objects/85e1dc7f-9745-4f64-b157-97070c4a9b34))
 - Caring about user count sounds like a public instance kind of thing. http://i.imgur.com/jh8UAze.png CloudFlare is IRL Skynet. ([takeshitakenji](https://shitposter.club/objects/df423688-aaf0-490c-ac74-16e090a9263f))
 - CloudFlareのキャッシュが原因だった・・・ｗ 関数ビルダーも動いたし、結構えぐいなぁあれ。 ([karasu_sue](https://misskey.korako.me/notes/8pdnie5o54))
