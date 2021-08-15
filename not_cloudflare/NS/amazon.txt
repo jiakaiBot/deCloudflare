@@ -326,6 +326,7 @@ ns-1266.awsdns-30.org
 ns-1267.awsdns-30.org
 ns-1268.awsdns-30.org
 ns-1269.awsdns-30.org
+ns-127.awsdns-12.org
 ns-127.awsdns-15.com
 ns-1270.awsdns-30.org
 ns-1271.awsdns-30.org
@@ -870,6 +871,7 @@ ns-1755.awsdns-27.co.uk
 ns-1756.awsdns-27.co.uk
 ns-1757.awsdns-27.co.uk
 ns-1758.awsdns-27.co.uk
+ns-1759.awsdns-27.co.ok
 ns-1759.awsdns-27.co.uk
 ns-176.awsdns-22.com
 ns-1760.awsdns-28.co.uk
@@ -2104,6 +2106,7 @@ ns-intl-3882.awsdns-cn-50.cn
 ns-intl-4053.awsdns-cn-61.cn
 ns-intl-440.awsdns-cn-27.com
 ns-intl-465.awsdns-cn-29.com
+ns.755.awsdns-30.net
 ns1308.awsdns-35.org
 ns1583.awsdns-05.co.uk
 ns382.awsdns-47.com
