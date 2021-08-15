@@ -7,6 +7,7 @@
 
 
 
+- После массового перехода на CDN понятие MitM утратило актуальность. Напомни, какая доля мирового HTTPS трафика терминируется и расшифровывается Cloudflare, Amazon и Google? Так что hsts,caa,ds даже обходить не надо, расшифрованный трафик добровольно отдается в Cloudflare и т.д. ([phprus](https://twitter.com/phprus/status/1391039425027747849))
 - Deet's. We don't question Australian internet infrastructure :) In all seriousness tho, CGNAT is dumb. The amount of times I've had to call for a new IP because I end up being blocked by Cloudflare or Google for whatever reason is beyond me. ([shaquilleray](https://twitter.com/ShaquilleRay/status/1426575057652879365))
 - I can't login to the site from any browser, vpn on or off. No matter what, the Cloudflare page reloads and reloads. I can't even submit a ticket b/c no way to log in. I'm kind of lost on how to proceed. ([erileff](https://twitter.com/erileff/status/1426345087177461762))
 - Why is it Cloudflare's job to censor the Internet? Do you really want them to do it? Should Comcast also censor the Internet? ([sambowne](https://twitter.com/sambowne/status/1418803014119280640))
