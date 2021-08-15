@@ -998,6 +998,7 @@ ns1.gsydm1015.siteground.biz
 ns1.gsydm1016.siteground.biz
 ns1.gsydm1017.siteground.biz
 ns1.gsydm1018.siteground.biz
+ns1.gsydm1019.siteground.biz
 ns1.gsydm1020.siteground.biz
 ns1.gsydm1021.siteground.biz
 ns1.gsydm1022.siteground.biz
@@ -2935,6 +2936,7 @@ ns2.gsydm1015.siteground.biz
 ns2.gsydm1016.siteground.biz
 ns2.gsydm1017.siteground.biz
 ns2.gsydm1018.siteground.biz
+ns2.gsydm1019.siteground.biz
 ns2.gsydm1020.siteground.biz
 ns2.gsydm1021.siteground.biz
 ns2.gsydm1022.siteground.biz
