@@ -7,6 +7,7 @@
 
 
 
+- So when Firefox started using Cloudflare DoH by default, without informing or asking users, I couldn't help but be suspicious. Imagine if they used their https web endpoints for DoH, too. There'd be no effective way to block DoH without blocking half the Internet. ([anachronistjohn](https://twitter.com/AnachronistJohn/status/1427031843702906880))
 - is your api down? cant reach it, getting a cloudflare error only on EU routing, can access it with US routing, helpings pls ty ([alexvcsgo](https://twitter.com/alexvcsgo/status/1426878579296591877))
 - Stopping Cloudflare would stop a large number of them. Cloudflare has a physical presence in Manchester, UK, and if the site in question has been accessed then content illegal in the UK is on their servers. ([dxgl_org](https://twitter.com/dxgl_org/status/1426674068053442563))
 - i think quad9 was a good provider, but since they got sued and now need to censor domains here in germany, i have to use other dns services for now. i don't know what cloudflare has done, but since cloudflare is based in america, its the better solution for germans like me. ([mrx1983](https://twitter.com/mrx1983/status/1411050383393361924))
