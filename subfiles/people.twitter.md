@@ -7,6 +7,15 @@
 
 
 
+- Why do I need to allow javascript from cloudflare to click a fucking button? ([schrotthaufen](https://twitter.com/schrotthaufen/status/1426287527103717377))
+- I don't know who the fuck you are, Cloudflare, but anytime your name comes up, it's never good. Whatever it is you do, you certainly do a pretty damn shitty job of it! ([jonnygators](https://twitter.com/JonnyGators/status/1425159213958025222))
+- So, wrapping up: Devs definitely bulk computed certain things The game uses a palette swap, one for each pokemon Color in consoles is weird Fuck CloudFlare ([indrora](https://twitter.com/indrora/status/1423420992978710529))
+- KF in particular has hit a point where they had to start their own ISP (which is blocked from federating with multiple prominent internet nodes) and has been told by every provider besides CloudFlare to fuck off. ([invisibleup](https://twitter.com/InvisibleUp/status/1419022187831300096))
+- No, Cloudflare is just a DNS. I don't use them, I use NextDNS, but for the same reason most people use Cloudflare: My privacy is my right and google etc can fuck off. ([beardedgeek72](https://twitter.com/BeardedGeek72/status/1418886145983795213))
+- Much as I enjoy watching corporate proxy wars, Cloudflare can still absolutely go fuck themselves. I genuinely hope prison time is in the future of their executives for the things they've done to the internet. ([dave_universetf](https://twitter.com/dave_universetf/status/1418731042941267968))
+- For this I used cloudflare's DNS rules to catch all the subdomains that were vulnerable. However, in hindsight, I should have used DNSMadeEasy or something so I didn't have to fuck with the SSL certs so much 🤣 ([mcoetus](https://twitter.com/MCoetus/status/1417604964759789571))
+- Hey you, why you temp banned my cloudflare id ? Stinky ([iang67174822](https://twitter.com/IanG67174822/status/1426991928244064261))
+- Pretty sure they straight-up banned GitHub or Cloudflare traffic or something - this is a page on GitHub pages behind cf ([princess_ravy](https://twitter.com/princess_ravy/status/1426209795107852289))
 - So when Firefox started using Cloudflare DoH by default, without informing or asking users, I couldn't help but be suspicious. Imagine if they used their https web endpoints for DoH, too. There'd be no effective way to block DoH without blocking half the Internet. ([anachronistjohn](https://twitter.com/AnachronistJohn/status/1427031843702906880))
 - is your api down? cant reach it, getting a cloudflare error only on EU routing, can access it with US routing, helpings pls ty ([alexvcsgo](https://twitter.com/alexvcsgo/status/1426878579296591877))
 - Stopping Cloudflare would stop a large number of them. Cloudflare has a physical presence in Manchester, UK, and if the site in question has been accessed then content illegal in the UK is on their servers. ([dxgl_org](https://twitter.com/dxgl_org/status/1426674068053442563))
