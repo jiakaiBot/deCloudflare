@@ -118,7 +118,7 @@
 
 * [다른 사용자의 목소리를 읽고 생각을 작성하십시오.](../PEOPLE.md)
 
-* 뭔가 검색: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=ko) ([clearnet](https://sercxi.eu.org/))
+* 뭔가 검색: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * 도메인 목록 업데이트: [지침 나열](../INSTRUCTION.md).
 
