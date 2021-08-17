@@ -118,7 +118,7 @@ Bu depo, Tor kullanıcılarını ve diğer CDN'leri engelleyen "The Great Cloudw
 
 * [Diğer kullanıcının sesini okuyun ve düşüncelerinizi yazın.](../PEOPLE.md)
 
-* Bir şey ara: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=tr) ([clearnet](https://sercxi.eu.org/))
+* Bir şey ara: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Alan listesini güncelleyin: [Talimatları listeleyin](../INSTRUCTION.md).
 
