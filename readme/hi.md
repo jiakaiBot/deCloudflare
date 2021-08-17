@@ -118,7 +118,7 @@
 
 * [अन्य उपयोगकर्ता की आवाज़ पढ़ें और अपने विचार लिखें।](../PEOPLE.md)
 
-* कुछ खोजो: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=hi) ([clearnet](https://sercxi.eu.org/))
+* कुछ खोजो: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * डोमेन सूची अपडेट करें: [सूची के निर्देश](../INSTRUCTION.md).
 
