@@ -7,6 +7,7 @@
 
 
 
+- (...) It's deprecated now, but there are still cookies Cloudflare injects in order to keep track of you. For example, when you're presented with the 'One more step' screen and pass the Captcha, you're given like 3. It's certainly an effective way of blocking "bad" traffic. (...) ([tomas_hozman](https://twitter.com/tomas_hozman/status/1427669475759955970))
 - Cheerio is an HTML parser library that follows the convenient jQuery syntax to extract elements. I use it for one of the retailers (the other one needs Puppeteer because of CloudFlare blocking me). ([robertbalazsi](https://twitter.com/robertbalazsi/status/1427576655489425436))
 - Why do I need to allow javascript from cloudflare to click a fucking button? ([schrotthaufen](https://twitter.com/schrotthaufen/status/1426287527103717377))
 - I don't know who the fuck you are, Cloudflare, but anytime your name comes up, it's never good. Whatever it is you do, you certainly do a pretty damn shitty job of it! ([jonnygators](https://twitter.com/JonnyGators/status/1425159213958025222))
