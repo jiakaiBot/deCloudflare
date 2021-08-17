@@ -118,7 +118,7 @@ Toto úložiště je seznam webových stránek, které jsou za „Velkým cloude
 
 * [Přečtěte si hlas jiného uživatele a napište své myšlenky.](../PEOPLE.md)
 
-* Hledejte něco: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=cs) ([clearnet](https://sercxi.eu.org/))
+* Hledejte něco: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Aktualizujte seznam domén: [Seznam instrukcí](../INSTRUCTION.md).
 
