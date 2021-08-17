@@ -1159,6 +1159,7 @@ Do not create new issue or we will close it as duplicate.
 | [David71856379@twitter](https://twitter.com/David71856379/status/1383885533009506308) | advertise |
 | [DavidAriat@twitter](https://twitter.com/DavidAriat/status/1389980256929386496) | advertise |
 | [davidchaloupka@twitter](https://twitter.com/davidchaloupka/status/1388404610029826048) | advertise |
+| [davidciamarro@twitter](https://twitter.com/davidciamarro/status/1427460769176768516) | advertise |
 | [DavidDo97030067@twitter](https://twitter.com/DavidDo97030067/status/1398524017527586820) | advertise |
 | [davidjnorris@twitter](https://twitter.com/davidjnorris/status/1412488514130821121) | moral (advertise) |
 | [DavidMa4000@twitter](https://twitter.com/DavidMa4000/status/1387060314919800837) | advertise |
