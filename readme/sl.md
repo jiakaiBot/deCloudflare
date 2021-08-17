@@ -118,7 +118,7 @@ To skladišče je seznam spletnih mest, ki stojijo za "Great Cloudwall" in bloki
 
 * [Preberite drug uporabnikov glas in napišite svoje misli.](../PEOPLE.md)
 
-* Nekaj ​​poiščite: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=sl) ([clearnet](https://sercxi.eu.org/))
+* Nekaj ​​poiščite: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Posodobite seznam domen: [Seznam navodil](../INSTRUCTION.md).
 
