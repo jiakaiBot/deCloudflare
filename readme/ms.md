@@ -118,7 +118,7 @@ Repositori ini adalah senarai laman web yang berada di belakang "The Great Cloud
 
 * [Baca suara pengguna lain dan tuliskan pendapat anda.](../PEOPLE.md)
 
-* Cari sesuatu: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=ms) ([clearnet](https://sercxi.eu.org/))
+* Cari sesuatu: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Kemas kini senarai domain: [Senaraikan arahan](../INSTRUCTION.md).
 
