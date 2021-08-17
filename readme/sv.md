@@ -118,7 +118,7 @@ Detta förvar är en lista över webbplatser som ligger bakom "The Great Cloudwa
 
 * [Läs andra användares röst och skriv dina tankar.](../PEOPLE.md)
 
-* Sök något: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=sv) ([clearnet](https://sercxi.eu.org/))
+* Sök något: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Uppdatera domänlistan: [Lista instruktioner](../INSTRUCTION.md).
 
