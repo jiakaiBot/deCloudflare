@@ -118,7 +118,7 @@ Is e an ath-reic seo liosta de làraich-lìn a tha air cùl “The Great Cloudwa
 
 * [Leugh guth neach-cleachdaidh eile agus sgrìobh do bheachdan.](../PEOPLE.md)
 
-* Rannsaich rudeigin: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=gd) ([clearnet](https://sercxi.eu.org/))
+* Rannsaich rudeigin: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Ùraich an liosta fearainn: [Liostaich stiùireadh](../INSTRUCTION.md).
 
