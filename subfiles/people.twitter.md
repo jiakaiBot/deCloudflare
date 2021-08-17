@@ -7,6 +7,7 @@
 
 
 
+- Cheerio is an HTML parser library that follows the convenient jQuery syntax to extract elements. I use it for one of the retailers (the other one needs Puppeteer because of CloudFlare blocking me). ([robertbalazsi](https://twitter.com/robertbalazsi/status/1427576655489425436))
 - Why do I need to allow javascript from cloudflare to click a fucking button? ([schrotthaufen](https://twitter.com/schrotthaufen/status/1426287527103717377))
 - I don't know who the fuck you are, Cloudflare, but anytime your name comes up, it's never good. Whatever it is you do, you certainly do a pretty damn shitty job of it! ([jonnygators](https://twitter.com/JonnyGators/status/1425159213958025222))
 - So, wrapping up: Devs definitely bulk computed certain things The game uses a palette swap, one for each pokemon Color in consoles is weird Fuck CloudFlare ([indrora](https://twitter.com/indrora/status/1423420992978710529))
