@@ -118,7 +118,7 @@
 
 * [Прочитайте голос іншого користувача та запишіть свої думки.](../PEOPLE.md)
 
-* Шукайте щось: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=uk) ([clearnet](https://sercxi.eu.org/))
+* Шукайте щось: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Оновіть список доменів: [Перелічіть інструкції](../INSTRUCTION.md).
 
