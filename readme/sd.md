@@ -118,7 +118,7 @@
 
 * [ٻين استعمال ڪندڙ جي آواز پڙهو ۽ پنهنجا خيال لکو.](../PEOPLE.md)
 
-* ڪجھ ڳوليو: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=sd) ([clearnet](https://sercxi.eu.org/))
+* ڪجھ ڳوليو: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * ڊومين جي فهرست کي تازو ڪريو: [فهرست هدايتون](../INSTRUCTION.md).
 
