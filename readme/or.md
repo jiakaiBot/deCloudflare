@@ -118,7 +118,7 @@
 
 * [ଅନ୍ୟ ବ୍ୟବହାରକାରୀଙ୍କ ସ୍ୱର ପ Read ଏବଂ ତୁମର ଚିନ୍ତାଧାରା ଲେଖ |](../PEOPLE.md)
 
-* କିଛି ଖୋଜ |: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=or) ([clearnet](https://sercxi.eu.org/))
+* କିଛି ଖୋଜ |: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * ଡୋମେନ୍ ତାଲିକା ଅଦ୍ୟତନ କରନ୍ତୁ |: [ନିର୍ଦ୍ଦେଶାବଳୀ ତାଲିକା କର |](../INSTRUCTION.md).
 
