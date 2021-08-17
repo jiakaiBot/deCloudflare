@@ -118,7 +118,7 @@ Olu luhlu luluhlu lwewebhusayithi ezingasemva "kweyona Cloudwall", ezithintela a
 
 * [Funda izwi lomnye umsebenzisi kwaye ubhale iingcinga zakho.](../PEOPLE.md)
 
-* Khangela into: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=xh) ([clearnet](https://sercxi.eu.org/))
+* Khangela into: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Hlaziya uluhlu lwedomeyini: [Uluhlu lwemiyalelo](../INSTRUCTION.md).
 
