@@ -120,7 +120,7 @@
 
 * [د بل کارونکي غږ ولولئ او خپل افکار ولیکئ.](../PEOPLE.md)
 
-* یو څه وپلټئ: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=ps) ([clearnet](https://sercxi.eu.org/))
+* یو څه وپلټئ: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * د ډومین لیست تازه کړئ: [لارښوونې لیست کړئ](../INSTRUCTION.md).
 
