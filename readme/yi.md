@@ -118,7 +118,7 @@
 
 * [לייענען די קול פון אנדערע באַניצער און שרייַבן דיין געדאנקען.](../PEOPLE.md)
 
-* זוך עפּעס: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=yi) ([clearnet](https://sercxi.eu.org/))
+* זוך עפּעס: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * דערהייַנטיקן די פעלד רשימה: [רשימה ינסטראַקשאַנז](../INSTRUCTION.md).
 
