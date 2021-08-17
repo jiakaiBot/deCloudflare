@@ -120,7 +120,7 @@
 
 * [صدای کاربر دیگر را بخوانید و افکار خود را بنویسید.](../PEOPLE.md)
 
-* جستجوی چیزی: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=fa) ([clearnet](https://sercxi.eu.org/))
+* جستجوی چیزی: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * لیست دامنه را به روز کنید: [دستورالعمل های لیست](../INSTRUCTION.md).
 
