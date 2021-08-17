@@ -118,7 +118,7 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 
 * [Leggi la voce di altri utenti e scrivi i tuoi pensieri.](../PEOPLE.md)
 
-* Cerca qualcosa: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=it) ([clearnet](https://sercxi.eu.org/))
+* Cerca qualcosa: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Aggiorna l'elenco dei domini: [Elenca le istruzioni](../INSTRUCTION.md).
 
