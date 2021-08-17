@@ -118,7 +118,7 @@ To repozytorium to lista stron internetowych, które stoją za „Wielką zapor�
 
 * [Przeczytaj głos innych użytkowników i napisz swoje myśli.](../PEOPLE.md)
 
-* Szukaj czegoś: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=pl) ([clearnet](https://sercxi.eu.org/))
+* Szukaj czegoś: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Zaktualizuj listę domen: [Lista instrukcji](../INSTRUCTION.md).
 
