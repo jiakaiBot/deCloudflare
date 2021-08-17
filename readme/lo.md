@@ -118,7 +118,7 @@
 
 * [ອ່ານສຽງຂອງຜູ້ໃຊ້ຄົນອື່ນແລະຂຽນຄວາມຄິດຂອງທ່ານ.](../PEOPLE.md)
 
-* ຄົ້ນຫາບາງຢ່າງ: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=lo) ([clearnet](https://sercxi.eu.org/))
+* ຄົ້ນຫາບາງຢ່າງ: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * ປັບປຸງລາຍຊື່ໂດເມນ: [ລາຍຊື່ ຄຳ ແນະ ນຳ](../INSTRUCTION.md).
 
