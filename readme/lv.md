@@ -118,7 +118,7 @@
 
 * [Izlasiet cita lietotāja balsi un uzrakstiet savas domas.](../PEOPLE.md)
 
-* Meklē kaut ko: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=lv) ([clearnet](https://sercxi.eu.org/))
+* Meklē kaut ko: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Atjauniniet domēnu sarakstu: [Norādiet instrukcijas](../INSTRUCTION.md).
 
