@@ -118,7 +118,7 @@
 
 * [Perskaitykite kito vartotojo balsą ir parašykite savo mintis.](../PEOPLE.md)
 
-* Ko nors ieškokite: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=lt) ([clearnet](https://sercxi.eu.org/))
+* Ko nors ieškokite: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Atnaujinkite domenų sąrašą: [Išvardykite instrukcijas](../INSTRUCTION.md).
 
