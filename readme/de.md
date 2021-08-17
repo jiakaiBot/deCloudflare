@@ -118,7 +118,7 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
 
 * [Lesen Sie die Stimme anderer Benutzer und schreiben Sie Ihre Gedanken.](../PEOPLE.md)
 
-* Suche etwas: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=de) ([clearnet](https://sercxi.eu.org/))
+* Suche etwas: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Aktualisieren Sie die Domain-Liste: [Anweisungen auflisten](../INSTRUCTION.md).
 
