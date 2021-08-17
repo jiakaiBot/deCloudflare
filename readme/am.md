@@ -118,7 +118,7 @@
 
 * [የሌላ ተጠቃሚን ድምጽ ያንብቡ እና ሀሳቦችዎን ይፃፉ ፡፡](../PEOPLE.md)
 
-* የሆነ ነገር ይፈልጉ: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=am) ([clearnet](https://sercxi.eu.org/))
+* የሆነ ነገር ይፈልጉ: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * የጎራ ዝርዝሩን አዘምን: [መመሪያዎችን ይዘርዝሩ](../INSTRUCTION.md).
 
