@@ -118,7 +118,7 @@
 
 * [Կարդացեք այլ օգտվողի ձայնը և գրեք ձեր մտքերը:](../PEOPLE.md)
 
-* Ինչ-որ բան փնտրեք: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=hy) ([clearnet](https://sercxi.eu.org/))
+* Ինչ-որ բան փնտրեք: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Թարմացրեք տիրույթի ցուցակը: [Listուցադրել հրահանգները](../INSTRUCTION.md).
 
