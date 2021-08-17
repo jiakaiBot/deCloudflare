@@ -120,7 +120,7 @@
 
 * [קרא את הקול של משתמש אחר וכתוב את מחשבותיך.](../PEOPLE.md)
 
-* חפש משהו: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=he) ([clearnet](https://sercxi.eu.org/))
+* חפש משהו: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * עדכן את רשימת הדומיינים: [רשימת הוראות](../INSTRUCTION.md).
 
