@@ -118,7 +118,7 @@
 
 * [E heluhelu i ka leo o ka mea hoʻohana ʻē aʻe a kākau i kou mau manaʻo.](../PEOPLE.md)
 
-* E ʻimi i kekahi mea: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=hw) ([clearnet](https://sercxi.eu.org/))
+* E ʻimi i kekahi mea: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Hoʻohou i ka papa inoa kikowaena: [Papa kuhikuhi kuhikuhi](../INSTRUCTION.md).
 
