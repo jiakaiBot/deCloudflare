@@ -118,7 +118,7 @@ Repositori ieu mangrupikeun daptar situs wéb anu aya di tukangeun "The Great Cl
 
 * [Maca sora pangguna sanés sareng tuliskeun pikiran anjeun.](../PEOPLE.md)
 
-* Milarian hiji hal: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=su) ([clearnet](https://sercxi.eu.org/))
+* Milarian hiji hal: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
 
 * Ngapdét daptar domain: [Daptar paréntah](../INSTRUCTION.md).
 
