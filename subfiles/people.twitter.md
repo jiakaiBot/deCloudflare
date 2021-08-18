@@ -7,6 +7,10 @@
 
 
 
+- Once again Cloudflare being a growing abscess of the internet. I literally had to click on "the trucks" and "the airplanes" 20 times before they believed I'm human. Arseholes, stop fucking up the internet. ([martijnsaly](https://twitter.com/MartijnSaly/status/1427677618711760898))
+- I really wish Cloudflare would stop whining about my super vanilla Ubuntu / Firefox Strict Mode / Mullvad VPN setup ([activefog](https://twitter.com/activefog/status/1427663562038784003))
+- bruh now cloudflare and DNS is going to shit. What in the fuck even is this shitstorm of a week man. ([ceraphkeilah](https://twitter.com/CeraphKeilah/status/1418247186786263041))
+- Ah fuck, Cloudflare fucked the cache for the website so the new update wasn't pushed to the bot. I added a fancy 0 balance indicator. ([yiaytoken](https://twitter.com/yiaytoken/status/1417608874593558532))
 - (...) It's deprecated now, but there are still cookies Cloudflare injects in order to keep track of you. For example, when you're presented with the 'One more step' screen and pass the Captcha, you're given like 3. It's certainly an effective way of blocking "bad" traffic. (...) ([tomas_hozman](https://twitter.com/tomas_hozman/status/1427669475759955970))
 - Cheerio is an HTML parser library that follows the convenient jQuery syntax to extract elements. I use it for one of the retailers (the other one needs Puppeteer because of CloudFlare blocking me). ([robertbalazsi](https://twitter.com/robertbalazsi/status/1427576655489425436))
 - Why do I need to allow javascript from cloudflare to click a fucking button? ([schrotthaufen](https://twitter.com/schrotthaufen/status/1426287527103717377))
