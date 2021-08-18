@@ -7,6 +7,7 @@
 
 
 
+- Hi : are Shopify services effected? We are getting a 502 gateway error (cloudflare). It restored for a short while and is down again. ([zarlashtfaisal](https://twitter.com/ZarlashtFaisal/status/1427991254940504067))
 - Once again Cloudflare being a growing abscess of the internet. I literally had to click on "the trucks" and "the airplanes" 20 times before they believed I'm human. Arseholes, stop fucking up the internet. ([martijnsaly](https://twitter.com/MartijnSaly/status/1427677618711760898))
 - I really wish Cloudflare would stop whining about my super vanilla Ubuntu / Firefox Strict Mode / Mullvad VPN setup ([activefog](https://twitter.com/activefog/status/1427663562038784003))
 - bruh now cloudflare and DNS is going to shit. What in the fuck even is this shitstorm of a week man. ([ceraphkeilah](https://twitter.com/CeraphKeilah/status/1418247186786263041))
