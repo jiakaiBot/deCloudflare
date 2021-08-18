@@ -7,6 +7,7 @@
 
 
 
+- どうやらCloudFlareがJavaScriptコードを弾いてしまうようだ ([cyberrex](https://misskey.io/notes/8pkamf26ox))
 - We are #WallStreet and the MoneyPrinters, circa 1913 we've been supporting #division and both sides of civil discords and war, one &quot;neo-Nazi&quot; at a time. Its been fun to watch you all, now run along and fight amongst yourself some more. #cloudflare #extremistProducer #cloudflareIsTheMalware #neoNazi #Christchurch #4Chan #discord #8kun #stonks #moneyPrinterGoBrr #bitcoinFixesThis ([dsfgs](https://activism.openworlds.info/@dsfgs/106766959152220320))
 - 思ったよりカスタム絵文字復活したしCloudFlareのキャッシュだったなこりゃ。、 ([lei202](https://mk.lei202.com/notes/717b4a6289a63458563be932))
 - うおおCloudflareがどうたらとかいう訳のわからん画面が表示されるぜー ([spectrum](https://pawoo.net/@Spectrum/106760848932751077))
