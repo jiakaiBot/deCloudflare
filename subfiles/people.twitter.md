@@ -7,6 +7,9 @@
 
 
 
+- Probably just cloudflare or whatever other provider fucking up again ([dogeconomy](https://twitter.com/Dogeconomy/status/1418255834153463808))
+- Is this why I suddenly have to keep clicking Captcha pics, here in Brazil? Why does it think I'm a bot? I hold $NET ([misterstringy](https://twitter.com/MisterStringy/status/1428042020430520320))
+- Also doing IP based identity in the wider world.. Think of site backed by Cloudflare - it gets Cloudflare IP. Attacker could also use a Cloudflare IP so now that victim and attacker resolve to same IP, trying to tie identity to the IP sounds really dangerous. ([joonas_fi](https://twitter.com/joonas_fi/status/1428052236974841858))
 - Stop using cloudflare. When you get dodos’d simply buy more server capacity like a real man ([fillialxbt](https://twitter.com/FillialXBT/status/1428049770975830018))
 - Hi : are Shopify services effected? We are getting a 502 gateway error (cloudflare). It restored for a short while and is down again. ([zarlashtfaisal](https://twitter.com/ZarlashtFaisal/status/1427991254940504067))
 - Once again Cloudflare being a growing abscess of the internet. I literally had to click on "the trucks" and "the airplanes" 20 times before they believed I'm human. Arseholes, stop fucking up the internet. ([martijnsaly](https://twitter.com/MartijnSaly/status/1427677618711760898))
