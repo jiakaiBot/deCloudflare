@@ -7,6 +7,7 @@
 
 
 
+- hehehe its ok - its not u - i for some reason decided diagnostic logging on NSG would be great idea for a box that i ask people to fuck with LOL - i do normally put cloudflare on boxes to stop people busting the fek out of things as well ;) ([uk_daniel_card](https://twitter.com/UK_Daniel_Card/status/1428262528346468357))
 - Cloudflare CloudflareHelp According to our own tests, it is certain that Cloudflare does not forward me when accessing websites. I only get a 503 error, but I don't have these problems with another device. Looks like intent and censorship. And websites are available and not 503 ([mari_ehansen](https://twitter.com/mari_ehansen/status/1428186484885139459))
 - Probably just cloudflare or whatever other provider fucking up again ([dogeconomy](https://twitter.com/Dogeconomy/status/1418255834153463808))
 - Is this why I suddenly have to keep clicking Captcha pics, here in Brazil? Why does it think I'm a bot? I hold $NET ([misterstringy](https://twitter.com/MisterStringy/status/1428042020430520320))
