@@ -7,6 +7,7 @@
 
 
 
+- CloudflareHelp Hey, I keep getting "The content length is too large. (Code: 81041)" when trying to make an SMIMEA record. I can't make it shorter, as far as I am aware it needs to feature the full certificate, certificate hash isn't enough. How do I make the record? ([datjocab](https://twitter.com/DatJocab/status/1428312896107388935))
 - hehehe its ok - its not u - i for some reason decided diagnostic logging on NSG would be great idea for a box that i ask people to fuck with LOL - i do normally put cloudflare on boxes to stop people busting the fek out of things as well ;) ([uk_daniel_card](https://twitter.com/UK_Daniel_Card/status/1428262528346468357))
 - Cloudflare CloudflareHelp According to our own tests, it is certain that Cloudflare does not forward me when accessing websites. I only get a 503 error, but I don't have these problems with another device. Looks like intent and censorship. And websites are available and not 503 ([mari_ehansen](https://twitter.com/mari_ehansen/status/1428186484885139459))
 - Probably just cloudflare or whatever other provider fucking up again ([dogeconomy](https://twitter.com/Dogeconomy/status/1418255834153463808))
