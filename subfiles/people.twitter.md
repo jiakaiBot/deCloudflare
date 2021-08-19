@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare CloudflareHelp According to our own tests, it is certain that Cloudflare does not forward me when accessing websites. I only get a 503 error, but I don't have these problems with another device. Looks like intent and censorship. And websites are available and not 503 ([mari_ehansen](https://twitter.com/mari_ehansen/status/1428186484885139459))
 - Probably just cloudflare or whatever other provider fucking up again ([dogeconomy](https://twitter.com/Dogeconomy/status/1418255834153463808))
 - Is this why I suddenly have to keep clicking Captcha pics, here in Brazil? Why does it think I'm a bot? I hold $NET ([misterstringy](https://twitter.com/MisterStringy/status/1428042020430520320))
 - Also doing IP based identity in the wider world.. Think of site backed by Cloudflare - it gets Cloudflare IP. Attacker could also use a Cloudflare IP so now that victim and attacker resolve to same IP, trying to tie identity to the IP sounds really dangerous. ([joonas_fi](https://twitter.com/joonas_fi/status/1428052236974841858))
