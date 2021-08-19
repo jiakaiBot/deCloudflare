@@ -47,6 +47,7 @@ Do not create new issue or we will close it as duplicate.
 | [1yearandhalf@twitter](https://twitter.com/1yearandhalf/status/1380825438105317390) | advertise |
 | [2DOkAuz5FGdyO5u@twitter](https://twitter.com/2DOkAuz5FGdyO5u/status/1390639905290792967) | advertise |
 | [2k3Aesthetics@twitter](https://twitter.com/2k3Aesthetics/status/1391304277319053327) | advertise |
+| [2s7Pztmcyl6so1H@twitter](https://twitter.com/2s7Pztmcyl6so1H/status/1427581936218869760) | advertise |
 | [2sGoTQPUP3lfWL3@twitter](https://twitter.com/2sGoTQPUP3lfWL3/status/1398753821568950276) | advertise |
 | [2worx@twitter](https://twitter.com/2worx/status/1405039139498586112) | advertise |
 | [3labMarahin@twitter](https://twitter.com/3labMarahin/status/1384625738884816897) | advertise |
@@ -444,6 +445,7 @@ Do not create new issue or we will close it as duplicate.
 | [asia_hippo@twitter](https://twitter.com/asia_hippo/status/1407900933732716545) | advertise |
 | [AsifKha44639814@twitter](https://twitter.com/AsifKha44639814/status/1402506001039851522) | advertise |
 | [Ask3w1@twitter](https://twitter.com/Ask3w1/status/1377969969476956165) | advertise |
+| [ASKERONServices@twitter](https://twitter.com/ASKERONServices/status/1428021078119653379) | advertise |
 | [AskKarinSarl@twitter](https://twitter.com/AskKarinSarl/status/1377719226383892480) | advertise |
 | [AskmeArunkc21@twitter](https://twitter.com/AskmeArunkc21/status/1370289301959835651) | advertise |
 | [Asphalt898@twitter](https://twitter.com/Asphalt898/status/1396524639430463489) | advertise |
@@ -986,6 +988,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChitTha97530715@twitter](https://twitter.com/ChitTha97530715/status/1393573791423373312) | advertise |
 | [Chittu30046511@twitter](https://twitter.com/Chittu30046511/status/1390674946443988996) | advertise |
 | [ChitWinKo17@twitter](https://twitter.com/ChitWinKo17/status/1403612539221471233) | advertise |
+| [chiwebmgmt@twitter](https://twitter.com/chiwebmgmt/status/1427620579910299663) | advertise |
 | [ChoMee34586348@twitter](https://twitter.com/ChoMee34586348/status/1390339608395739136) | advertise |
 | [ChoonHtun@twitter](https://twitter.com/ChoonHtun/status/1380902744744062977) | advertise |
 | [Chop_paza@twitter](https://twitter.com/Chop_paza/status/1394814812010422277) | advertise |
@@ -1513,6 +1516,7 @@ Do not create new issue or we will close it as duplicate.
 | [fuxklif@twitter](https://twitter.com/fuxklif/status/1377696833498050565) | advertise |
 | [fv_sestan@twitter](https://twitter.com/fv_sestan/status/1397051138210369538) | advertise |
 | [FXhkv@twitter](https://twitter.com/FXhkv/status/1395869051964985347) | advertise |
+| [fyhao@twitter](https://twitter.com/fyhao/status/1427551252964016135) | advertise |
 | [FZLawAssociates@twitter](https://twitter.com/FZLawAssociates/status/1392177594183860226) | advertise |
 | [fz_law@twitter](https://twitter.com/fz_law/status/1392177594183860226) | advertise |
 | [g02M1Rjo2WJvITL@twitter](https://twitter.com/g02M1Rjo2WJvITL/status/1402969073282027525) | advertise |
@@ -1676,6 +1680,7 @@ Do not create new issue or we will close it as duplicate.
 | [haphunt@twitter](https://twitter.com/haphunt/status/1381492131542405122) | advertise |
 | [Happine06622234@twitter](https://twitter.com/Happine06622234/status/1391106552208101378) | advertise |
 | [Happy69146698@twitter](https://twitter.com/Happy69146698/status/1401924755788161030) | advertise |
+| [happygagarara12@twitter](https://twitter.com/happygagarara12/status/1427587476953042952) | advertise |
 | [haqyyi@twitter](https://twitter.com/haqyyi/status/1394274130329886720) | advertise |
 | [Harinderulakh1@twitter](https://twitter.com/Harinderulakh1/status/1404809733282877442) | advertise |
 | [harisfunny@twitter](https://twitter.com/harisfunny/status/1386696455834984457) | advertise |
@@ -4822,6 +4827,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shatan17600579@twitter](https://twitter.com/Shatan17600579/status/1403215707387482116) | advertise |
 | [shawadin96@twitter](https://twitter.com/shawadin96/status/1393564895409434627) | advertise |
 | [shayanjoun@twitter](https://twitter.com/shayanjoun/status/1381894805509275649) | advertise |
+| [ShayDeeMan@twitter](https://twitter.com/ShayDeeMan/status/1427705148231532549) | advertise |
 | [Shayden87162676@twitter](https://twitter.com/Shayden87162676/status/1388560807433211905) | advertise |
 | [shaziakn@twitter](https://twitter.com/shaziakn/status/1385603154377527297) | advertise |
 | [SheinAung16@twitter](https://twitter.com/SheinAung16/status/1391360533278777348) | advertise |
