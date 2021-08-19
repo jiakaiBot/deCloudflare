@@ -7,6 +7,7 @@
 
 
 
+- Has anyone had any issues getting blocked from websites by CloudFlare, anything I google about how to get around this crap is useless. ([maineman1979](https://twitter.com/MaineMan1979/status/1428438779304497154))
 - Hey guys, right now a lot of users are getting a “Cloudflare error” when trying to log in on pc, how do we fix this? ([alphacyclonev2](https://twitter.com/AlphaCycloneV2/status/1428426167632240643))
 - yo, you got any backend cloudflare issues? error 1105 for cloudflare on launch on desktop lol ([vpuvwv](https://twitter.com/vpuvwv/status/1428423753306943493))
 - CloudflareHelp Hey, I keep getting "The content length is too large. (Code: 81041)" when trying to make an SMIMEA record. I can't make it shorter, as far as I am aware it needs to feature the full certificate, certificate hash isn't enough. How do I make the record? ([datjocab](https://twitter.com/DatJocab/status/1428312896107388935))
