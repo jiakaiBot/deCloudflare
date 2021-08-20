@@ -7,6 +7,7 @@
 
 
 
+- リダイレクト、Cloudflareとアプリケーション側の両方で発動してループしたりする事故よく起きるよね ([noellabo](https://fedibird.com/@noellabo/106780024329896100))
 - aight :flan_popcorn:​ Aug 18, 13:28 UTC Investigating - Cloudflare is aware of, and investigating an issue which might cause some firewall configurations delay at being published. Further detail will be provided as more information becomes available. ([c0debabe](https://hackers.town/@c0debabe/106777578061141236))
 - どうやらCloudFlareがJavaScriptコードを弾いてしまうようだ ([cyberrex](https://misskey.io/notes/8pkamf26ox))
 - We are #WallStreet and the MoneyPrinters, circa 1913 we've been supporting #division and both sides of civil discords and war, one &quot;neo-Nazi&quot; at a time. Its been fun to watch you all, now run along and fight amongst yourself some more. #cloudflare #extremistProducer #cloudflareIsTheMalware #neoNazi #Christchurch #4Chan #discord #8kun #stonks #moneyPrinterGoBrr #bitcoinFixesThis ([dsfgs](https://activism.openworlds.info/@dsfgs/106766959152220320))
