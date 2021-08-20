@@ -7,6 +7,10 @@
 
 
 
+- CloudflareHelp please for the love of god delete all the data for my cloudflare account, it says I cant make an account with my email it says email already in use, but when I sign in it says the email doesn't exist! And when I try to reset password, it just doesn't email me ([user9684](https://twitter.com/User9684/status/1428731464670142473))
+- CloudflareHelp I have a DNS problem but this account does not seem to be active anymore. If it is then notify me. ([biffkins](https://twitter.com/Biffkins/status/1425516151946170373))
+- And why is Cloudflare blocking countries?! ([jshpigler](https://twitter.com/JShpigler/status/1428284867184406529))
+- I keep thinking that CloudFlare is some kind of a weird human subject experiment on Tor users, like how many can be tricked into enabling JS. ([hackerb0t](https://twitter.com/hackerb0t/status/1428499699431051267))
 - OK, this is getting silly now. Checked with Firefox. That Cloudflare Captcha you have installed that's popping up for me all over the web is causing an unresolvable loop! ([ponder65](https://twitter.com/Ponder65/status/1428782955401551877))
 - You don't need headless browsers to avoid Cloudflare's captchas. Here's how: - Open the page in the browser, solve the captcha if needed - Open Dev Tools, grab all request headers from the Network Tab - When scraping, send the headers in the same order ... 👇 ([robertbalazsi](https://twitter.com/robertbalazsi/status/1428648052911443971))
 - I cannot even reach the site. Seems to be blocked on DNS Level for me. Using the Cloudflare "Malware Blocking" DNS. ([tanukibtc](https://twitter.com/TanukiBTC/status/1428574244762439682))
