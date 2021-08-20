@@ -1,10 +1,13 @@
 ## Useful IP List
+### _for your whitelist / blocklist needs_
+
 
 - [vps.txt](vps.txt): Known VPS/Hosting
   - For Amazon go to `not_cloudflare`.
 - [tornodes.txt](tornodes.txt): Tor Relay Servers IP list
 - [facebook.txt](facebook.txt): Facebook
 - [attacker_shodan.txt](attacker_shodan.txt): *.shodan.io IPs
+- [vpn.txt](vpn.txt): Known VPN IP range
 
 
 
