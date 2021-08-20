@@ -7,6 +7,7 @@
 
 
 
+- Wait is Cloudflare just straight-up blocking Tor now? Not even doing the whole captcha shit? ([icewolf](https://meow.social/@IceWolf/106787384205086499))
 - リダイレクト、Cloudflareとアプリケーション側の両方で発動してループしたりする事故よく起きるよね ([noellabo](https://fedibird.com/@noellabo/106780024329896100))
 - aight :flan_popcorn:​ Aug 18, 13:28 UTC Investigating - Cloudflare is aware of, and investigating an issue which might cause some firewall configurations delay at being published. Further detail will be provided as more information becomes available. ([c0debabe](https://hackers.town/@c0debabe/106777578061141236))
 - どうやらCloudFlareがJavaScriptコードを弾いてしまうようだ ([cyberrex](https://misskey.io/notes/8pkamf26ox))
