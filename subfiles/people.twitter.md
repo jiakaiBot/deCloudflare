@@ -7,6 +7,7 @@
 
 
 
+- OK, this is getting silly now. Checked with Firefox. That Cloudflare Captcha you have installed that's popping up for me all over the web is causing an unresolvable loop! ([ponder65](https://twitter.com/Ponder65/status/1428782955401551877))
 - You don't need headless browsers to avoid Cloudflare's captchas. Here's how: - Open the page in the browser, solve the captcha if needed - Open Dev Tools, grab all request headers from the Network Tab - When scraping, send the headers in the same order ... 👇 ([robertbalazsi](https://twitter.com/robertbalazsi/status/1428648052911443971))
 - I cannot even reach the site. Seems to be blocked on DNS Level for me. Using the Cloudflare "Malware Blocking" DNS. ([tanukibtc](https://twitter.com/TanukiBTC/status/1428574244762439682))
 - Oh, truly, I am sure amazon is trembling in its boots over the impending Gab marketplace... ...that will doubtless be hosted on cloudflare, because fuck everything, right? ([spiraldee](https://twitter.com/SpiralDee/status/1428364055928991744))
