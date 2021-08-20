@@ -7,6 +7,7 @@
 
 
 
+- I cannot even reach the site. Seems to be blocked on DNS Level for me. Using the Cloudflare "Malware Blocking" DNS. ([tanukibtc](https://twitter.com/TanukiBTC/status/1428574244762439682))
 - Oh, truly, I am sure amazon is trembling in its boots over the impending Gab marketplace... ...that will doubtless be hosted on cloudflare, because fuck everything, right? ([spiraldee](https://twitter.com/SpiralDee/status/1428364055928991744))
 - I think it was CloudFlare in my region because another site other than medium resulted in that error briefly. ([andrewbrown](https://twitter.com/andrewbrown/status/1428425440054714372))
 - Their profile page is giving that error from time to time, was seeing a Cloudflare DDOS screen a few minutes ago too. ([0xtycoon](https://twitter.com/0xTycoon/status/1428408253679955973))
