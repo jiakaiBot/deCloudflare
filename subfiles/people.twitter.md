@@ -7,6 +7,9 @@
 
 
 
+- Oh, truly, I am sure amazon is trembling in its boots over the impending Gab marketplace... ...that will doubtless be hosted on cloudflare, because fuck everything, right? ([spiraldee](https://twitter.com/SpiralDee/status/1428364055928991744))
+- I think it was CloudFlare in my region because another site other than medium resulted in that error briefly. ([andrewbrown](https://twitter.com/andrewbrown/status/1428425440054714372))
+- Their profile page is giving that error from time to time, was seeing a Cloudflare DDOS screen a few minutes ago too. ([0xtycoon](https://twitter.com/0xTycoon/status/1428408253679955973))
 - Has anyone had any issues getting blocked from websites by CloudFlare, anything I google about how to get around this crap is useless. ([maineman1979](https://twitter.com/MaineMan1979/status/1428438779304497154))
 - Hey guys, right now a lot of users are getting a “Cloudflare error” when trying to log in on pc, how do we fix this? ([alphacyclonev2](https://twitter.com/AlphaCycloneV2/status/1428426167632240643))
 - yo, you got any backend cloudflare issues? error 1105 for cloudflare on launch on desktop lol ([vpuvwv](https://twitter.com/vpuvwv/status/1428423753306943493))
