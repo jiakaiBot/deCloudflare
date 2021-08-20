@@ -7,6 +7,7 @@
 
 
 
+- Re are not fans of everything #China are doing by a long shot, but the #PeoplesParty seem to identify the issues of #monopoly and enforce rules with impactful fines, and block moves that would entrench the #monopoly. It should be noted that China's experimentation with a #CentralBankDigitalCurrency (#CBDC) may threaten this trajectory, but we digress. What can we do to end the #Cloudflare/#Amazon monopoly of #theInternet. Is awareness needed? Would targetted flyers work? #oligopoly #duopoly ([dsfgs](https://activism.openworlds.info/@dsfgs/106788961659734996))
 - Wait is Cloudflare just straight-up blocking Tor now? Not even doing the whole captcha shit? ([icewolf](https://meow.social/@IceWolf/106787384205086499))
 - リダイレクト、Cloudflareとアプリケーション側の両方で発動してループしたりする事故よく起きるよね ([noellabo](https://fedibird.com/@noellabo/106780024329896100))
 - aight :flan_popcorn:​ Aug 18, 13:28 UTC Investigating - Cloudflare is aware of, and investigating an issue which might cause some firewall configurations delay at being published. Further detail will be provided as more information becomes available. ([c0debabe](https://hackers.town/@c0debabe/106777578061141236))
