@@ -7,6 +7,7 @@
 
 
 
+- 2/2 &quot;Sites include govt, banking, social platforms, many domains offered by ISPs, critical infrastructure, and more. &quot;Go here (QR Code) to see if your website is affected. &quot;Stopping DDOS attacks can be done in other ways (see https//switching.software for this and more). &quot;Address this postcard to your local representative (QR) to express your concern. They've allowed the internet to be monopolised by the likes of #Cloudflare and #Amazon. Why? What are they doing to stop it? ([dsfgs](https://activism.openworlds.info/@dsfgs/106789122506892883))
 - Re are not fans of everything #China are doing by a long shot, but the #PeoplesParty seem to identify the issues of #monopoly and enforce rules with impactful fines, and block moves that would entrench the #monopoly. It should be noted that China's experimentation with a #CentralBankDigitalCurrency (#CBDC) may threaten this trajectory, but we digress. What can we do to end the #Cloudflare/#Amazon monopoly of #theInternet. Is awareness needed? Would targetted flyers work? #oligopoly #duopoly ([dsfgs](https://activism.openworlds.info/@dsfgs/106788961659734996))
 - Wait is Cloudflare just straight-up blocking Tor now? Not even doing the whole captcha shit? ([icewolf](https://meow.social/@IceWolf/106787384205086499))
 - リダイレクト、Cloudflareとアプリケーション側の両方で発動してループしたりする事故よく起きるよね ([noellabo](https://fedibird.com/@noellabo/106780024329896100))
