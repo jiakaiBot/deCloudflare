@@ -127,6 +127,7 @@ Or is this merely a case of simple modesty?
 | Alvin Tai | Enterprise Sales |  |
 | Alvis Duong | Employee | alvisduong@gmail.com<br>https://www.linkedin.com/in/alvisduong |
 | Aly Cabral | Product | [🖼](../image/gang/Aly_Cabral.jpg)<br>https://twitter.com/Aly_Cabral |
+| Alyssa Wang | Employee | |
 | Amada Echeverria | Field Marketing & Events |  |
 | Amin Fawzi | Business Development |  |
 | Amir Tahsini | Customer Development |  |
@@ -1128,6 +1129,7 @@ Or is this merely a case of simple modesty?
 | Misha Girshfeld | Customer Success Engineer |  |
 | Misha Yalavarthy | Security Engineer | [🖼](../image/gang/Misha_Yalavarthy.jpg) |
 | Mitul Limbachiya | Employee |  |
+| Mohak Kataria | Employee | |
 | Mohamed ElShal | Employee |  |
 | Mohamed Ibrahim | Support Engineer, Singapore |  |
 | Mohamed Zerri | Channel Account Manager |  |
