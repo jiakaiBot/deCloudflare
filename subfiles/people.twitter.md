@@ -7,6 +7,7 @@
 
 
 
+- Hi, Can you guys fix your Cloudflare servers in the Middle East? The only way I can connect is through a VPN.. ([cryptogsus](https://twitter.com/CryptoGsus/status/1428986392802103296))
 - CloudflareHelp please for the love of god delete all the data for my cloudflare account, it says I cant make an account with my email it says email already in use, but when I sign in it says the email doesn't exist! And when I try to reset password, it just doesn't email me ([user9684](https://twitter.com/User9684/status/1428731464670142473))
 - CloudflareHelp I have a DNS problem but this account does not seem to be active anymore. If it is then notify me. ([biffkins](https://twitter.com/Biffkins/status/1425516151946170373))
 - And why is Cloudflare blocking countries?! ([jshpigler](https://twitter.com/JShpigler/status/1428284867184406529))
