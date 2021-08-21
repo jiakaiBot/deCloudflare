@@ -1617,6 +1617,7 @@ Do not create new issue or we will close it as duplicate.
 | [GrimyTalibandz@twitter](https://twitter.com/GrimyTalibandz/status/1381042857931386888) | advertise |
 | [grizta1@twitter](https://twitter.com/grizta1/status/1404102426567659525) | advertise |
 | [grublabapp@twitter](https://twitter.com/grublabapp/status/1405904308852375553) | advertise |
+| [gsdryfruits@twitter](https://twitter.com/gsdryfruits/status/1428265726851301377) | advertise |
 | [Gudduku58065131@twitter](https://twitter.com/Gudduku58065131/status/1386342053529808900) | advertise |
 | [GuenMidoru@twitter](https://twitter.com/GuenMidoru/status/1398386656160350209) | advertise |
 | [gugu9121997@twitter](https://twitter.com/gugu9121997/status/1395265672091889664) | advertise |
@@ -4775,6 +4776,7 @@ Do not create new issue or we will close it as duplicate.
 | [seinaoesi@twitter](https://twitter.com/seinaoesi/status/1396428134065577990) | advertise |
 | [SeinnLaePhyu3@twitter](https://twitter.com/SeinnLaePhyu3/status/1389588766751215616) | advertise |
 | [seizure_salad__@twitter](https://twitter.com/seizure_salad__/status/1394456452933242886) | advertise |
+| [SelfAda1@twitter](https://twitter.com/SelfAda1/status/1428381024908718083) | advertise |
 | [SEMOSH13@twitter](https://twitter.com/SEMOSH13/status/1380131889999187968) | advertise |
 | [Senat_News@twitter](https://twitter.com/Senat_News/status/1400900293261410304) | advertise |
 | [seng1500@twitter](https://twitter.com/seng1500/status/1391818405162852355) | advertise |
