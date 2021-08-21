@@ -10,8 +10,24 @@
 - [vpn.txt](vpn.txt): Known VPN IP range
 
 
+### vpn.txt includes
 
----
+- Many _shady_ VPN companies does not disclose their IP addresses.
+
+```
+AirVPN
+Firefox VPN
+IVPN
+Mullvad
+PrivateInternetAccess
+Proton VPN
+PureVPN
+TorGuard
+TorGuard SecureConnect
+VPNGate
+trust.zone
+```
+
 
 ### Known VPNs (ASN)
 
