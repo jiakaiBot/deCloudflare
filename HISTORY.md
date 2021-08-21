@@ -5,6 +5,8 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-08-20: [Increased HTTP 502/504 Errors in ISB and LHE](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1pkbxsjxxppz)
+- 2021-08-20: [TLS termination failures for some China customers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wpkb7n8ywr44)
 - 2021-08-19: [Customer Impacting Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/41c3fjyqjnqw)
 - 2021-08-16: [Durable Objects timeouts](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/v4pgw9rbcnpw)
 - 2021-08-13: [Network Performance Issues in Atlanta, ATL](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wl7mct3rp3wd)
