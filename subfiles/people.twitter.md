@@ -7,6 +7,8 @@
 
 
 
+- For some reason Gelbooru got blocked in France. Althrough it's just dns blocked by ISP. You need to use another DNS (like Cloudflare's one) to bypass it. ([tsu_hidden](https://twitter.com/Tsu_hidden/status/1429104884025020426))
+- stay online and stop spitting Cloudflare 524 errors at me for 5 seconds challenge (IMPOSSIBLE) ([leafbro97](https://twitter.com/Leafbro97/status/1429100561836609539))
 - Hi, Can you guys fix your Cloudflare servers in the Middle East? The only way I can connect is through a VPN.. ([cryptogsus](https://twitter.com/CryptoGsus/status/1428986392802103296))
 - CloudflareHelp please for the love of god delete all the data for my cloudflare account, it says I cant make an account with my email it says email already in use, but when I sign in it says the email doesn't exist! And when I try to reset password, it just doesn't email me ([user9684](https://twitter.com/User9684/status/1428731464670142473))
 - CloudflareHelp I have a DNS problem but this account does not seem to be active anymore. If it is then notify me. ([biffkins](https://twitter.com/Biffkins/status/1425516151946170373))
