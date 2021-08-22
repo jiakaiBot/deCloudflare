@@ -230,6 +230,7 @@ ns1.gfram1007.siteground.biz
 ns1.gfram1008.siteground.biz
 ns1.gfram1009.siteground.biz
 ns1.gfram1010.siteground.biz
+ns1.gfram1011.siteground.biz
 ns1.giow1.siteground.us
 ns1.giow10.siteground.us
 ns1.giow1000.siteground.us
@@ -2168,6 +2169,7 @@ ns2.gfram1007.siteground.biz
 ns2.gfram1008.siteground.biz
 ns2.gfram1009.siteground.biz
 ns2.gfram1010.siteground.biz
+ns2.gfram1011.siteground.biz
 ns2.giow1.siteground.us
 ns2.giow10.siteground.us
 ns2.giow1000.siteground.us
