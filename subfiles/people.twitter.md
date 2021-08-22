@@ -7,6 +7,8 @@
 
 
 
+- Check juga jika ada error di side cloudflare, mungkin boleh double check DNS sekali ([_imanhafidz](https://twitter.com/_Imanhafidz/status/1429227232174612490))
+- i really don't like when Cloudflare made IPO and almost no one criticized them for "racial filters" which they implementing as standard for most western websites, blocking even scientific and medical data to other humanity in developing nations. ([stertout](https://twitter.com/stertout/status/1428895416234426368))
 - The weight of the collective wailing & gnashing of teeth seems to have knackered the site: "Web server is returning an unknown error: There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed" ([miss_scatty](https://twitter.com/miss_scatty/status/1429120103958855687))
 - Cloudflare is using the crappiest crap captcha - 2021 and these guys force me to enter 2-page captcha with awful image quality EVERY hecking time I open Cloudflare-protected resource. Ridiculous. Tell about the privacy to my grandma, you just can't afford reCaptcha. ([le_enot](https://twitter.com/le_enot/status/1429117908278554632))
 - For some reason Gelbooru got blocked in France. Althrough it's just dns blocked by ISP. You need to use another DNS (like Cloudflare's one) to bypass it. ([tsu_hidden](https://twitter.com/Tsu_hidden/status/1429104884025020426))
