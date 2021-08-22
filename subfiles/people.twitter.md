@@ -7,6 +7,7 @@
 
 
 
+- They’re hosted on godaddy, no cloudflare or anything. If you are going to try and do anything truly nasty, use TOR and hope they don’t have the exit nodes blocked. The kind of people who run this would absolutely try to prosecute or sue anyone who crashes their shitty site. ([coyoteden](https://twitter.com/CoyoteDen/status/1429515076667650054))
 - This is the worst implementation of any captcha I had to deal with. Two booby-trapped pages of low-res images. As a bonus, it is sometimes stuck in an endless loop. Wife couldn't get to login because of it, Cloudflare proxied sites are inaccessible. craptcha ([myatu](https://twitter.com/myatu/status/1429443986683580417))
 - I've been getting an "Origin is unreachable" cloudflare error trying to visit the site today ([daveliepmann](https://twitter.com/daveliepmann/status/1429433033032077320))
 - I tested our newsletter signup again and it works fine now, so I think the error message was related to Constant Contact's use of Cloudflare. Perhaps someone was trying to DDOS them. ([iprtweets](https://twitter.com/IPRTweets/status/1429282707888959493))
