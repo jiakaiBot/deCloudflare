@@ -7,6 +7,9 @@
 
 
 
+- Waarom een TOR-proxy? Is toch gewoon open data die je binnenhengelt? Zou denken dat je via TOR juist sneller geblokkeerd wordt gezien hoe trigger-happy o.a. Cloudflare er op is. ([joery](https://twitter.com/joery/status/1429504408925114368))
+- Complementando a resposta da proxy, o cloudflare serve tanto como CDN (cache de imagens e js do seu site) serve como um certificado que eles mesmo dão pra gente (evita lets encrypt) tem como bloquear ips específicos, bloquear que a rede tor bata no seu site ... + ([lipekis](https://twitter.com/lipekis/status/1429234699503902730))
+- Why am I getting unhandled error at the bottom of screen? ([dajma00](https://twitter.com/dajma00/status/1429487173179424773))
 - They’re hosted on godaddy, no cloudflare or anything. If you are going to try and do anything truly nasty, use TOR and hope they don’t have the exit nodes blocked. The kind of people who run this would absolutely try to prosecute or sue anyone who crashes their shitty site. ([coyoteden](https://twitter.com/CoyoteDen/status/1429515076667650054))
 - This is the worst implementation of any captcha I had to deal with. Two booby-trapped pages of low-res images. As a bonus, it is sometimes stuck in an endless loop. Wife couldn't get to login because of it, Cloudflare proxied sites are inaccessible. craptcha ([myatu](https://twitter.com/myatu/status/1429443986683580417))
 - I've been getting an "Origin is unreachable" cloudflare error trying to visit the site today ([daveliepmann](https://twitter.com/daveliepmann/status/1429433033032077320))
