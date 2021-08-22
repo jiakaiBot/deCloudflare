@@ -7,6 +7,8 @@
 
 
 
+- I tested our newsletter signup again and it works fine now, so I think the error message was related to Constant Contact's use of Cloudflare. Perhaps someone was trying to DDOS them. ([iprtweets](https://twitter.com/IPRTweets/status/1429282707888959493))
+- Are they sure this was not because their service was unavailable as per usual? Frankly given their track record I wouldn't trust them with such claims, just as I don't exactly believe the "host is down" when I literally just rebooted it to fix the resolv error on their DNS ([tampapowers](https://twitter.com/TampaPowers/status/1429222488920268807))
 - Brutal. Me estoy metiendo. Pero opensea IO me da error 1020 accesos denied. Según cloudflare. :( ([juankstylez](https://twitter.com/juankstylez/status/1429294413835128835))
 - Check juga jika ada error di side cloudflare, mungkin boleh double check DNS sekali ([_imanhafidz](https://twitter.com/_Imanhafidz/status/1429227232174612490))
 - i really don't like when Cloudflare made IPO and almost no one criticized them for "racial filters" which they implementing as standard for most western websites, blocking even scientific and medical data to other humanity in developing nations. ([stertout](https://twitter.com/stertout/status/1428895416234426368))
