@@ -4031,6 +4031,7 @@ Do not create new issue or we will close it as duplicate.
 | [nyonyothetzaw@twitter](https://twitter.com/nyonyothetzaw/status/1378373088727998469) | advertise |
 | [nyto95409750@twitter](https://twitter.com/nyto95409750/status/1380788517941354500) | advertise |
 | [NyuntNyunt11@twitter](https://twitter.com/NyuntNyunt11/status/1396273606288711682) | advertise |
+| [nZinoProperties@twitter](https://twitter.com/nZinoProperties/status/1429140861959430156) | advertise |
 | [n_wuit@twitter](https://twitter.com/n_wuit/status/1376737743619813382) | advertise |
 | [o0Yurpa0o@twitter](https://twitter.com/o0Yurpa0o/status/1381196081145335809) | advertise |
 | [Oai83223657@twitter](https://twitter.com/Oai83223657/status/1398312021532188684) | advertise |
@@ -4042,6 +4043,7 @@ Do not create new issue or we will close it as duplicate.
 | [OdunmbakuAyomi2@twitter](https://twitter.com/OdunmbakuAyomi2/status/1406588138479292416) | advertise |
 | [officialmiplay@twitter](https://twitter.com/officialmiplay/status/1411076180300779530) | moral (advertise) |
 | [OfficialSs34@twitter](https://twitter.com/OfficialSs34/status/1389541392251293705) | advertise |
+| [Official_Aidzyy@twitter](https://twitter.com/Official_Aidzyy/status/1429092121550667785) | advertise |
 | [of_544@twitter](https://twitter.com/of_544/status/1395086316665118720) | advertise |
 | [OhAeri36127137@twitter](https://twitter.com/OhAeri36127137/status/1401014602033414148) | advertise |
 | [OhArthit2@twitter](https://twitter.com/OhArthit2/status/1390821661566324740) | advertise |
@@ -4570,6 +4572,7 @@ Do not create new issue or we will close it as duplicate.
 | [rm_blank_slash@twitter](https://twitter.com/rm_blank_slash/status/1382681666817126402) | advertise |
 | [RobAllen26@twitter](https://twitter.com/RobAllen26/status/1386491535038902276) | advertise |
 | [Robert54332996@twitter](https://twitter.com/Robert54332996/status/1398109501794906119) | advertise |
+| [RobertoGoossens@twitter](https://twitter.com/RobertoGoossens/status/1429012009534824457) | advertise |
 | [Robindivaina@twitter](https://twitter.com/Robindivaina/status/1393566638255984650) | advertise |
 | [RobJPyne@twitter](https://twitter.com/RobJPyne/status/1381766563749982212) | advertise |
 | [Roccorockz2@twitter](https://twitter.com/Roccorockz2/status/1399533964579151876) | advertise |
