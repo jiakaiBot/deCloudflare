@@ -7,6 +7,7 @@
 
 
 
+- &gt;I made all the time by many different things (plus if you want to you can put it behind Cloudflare for that extra bit of proxy) ([samwithouttherapy](https://fedi.samtherapy.net/objects/729bee7d-4089-407b-8203-03f7e978f7f2))
 - CloudflareとかGoogle Domainsみたいなチンカスと比べて非常によろしい ([mohemohe](https://mstdn.plusminus.io/@mohemohe/106793497191682575))
 - Of course, the big difference between the game Monopoly and Cloudflare is the addition of the #data. Your data is fixed, you only have 200 units of data and once they go into someone's #takenPile they can never go into the #soulPile, even if you take back your own data at a later time. Once your data is gone its gone. Most people will want to hold onto there data for as long as possible. But not at the expense of losing all their money and being unable to buy #bases/#servers. ([dsfgs](https://activism.openworlds.info/@dsfgs/106795846761014812))
 - If everything you do with your #cryptocurrency goes through #Cloudflare, then you are more surveilled than you were before! Learn to run a #fullNode and always, always, always use #I2P or #Tor. #runAFullNode #bitcoinExchanges #dontStopLearning #dontStopTeaching #keepLearning #keepTeaching #deleteMonopoly #deleteCloudflare #isThisEnoughAntiCloudflarePostsForOneDay ([dsfgs](https://activism.openworlds.info/@dsfgs/106789324138657586))
