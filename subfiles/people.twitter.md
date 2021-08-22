@@ -7,6 +7,7 @@
 
 
 
+- Brutal. Me estoy metiendo. Pero opensea IO me da error 1020 accesos denied. Según cloudflare. :( ([juankstylez](https://twitter.com/juankstylez/status/1429294413835128835))
 - Check juga jika ada error di side cloudflare, mungkin boleh double check DNS sekali ([_imanhafidz](https://twitter.com/_Imanhafidz/status/1429227232174612490))
 - i really don't like when Cloudflare made IPO and almost no one criticized them for "racial filters" which they implementing as standard for most western websites, blocking even scientific and medical data to other humanity in developing nations. ([stertout](https://twitter.com/stertout/status/1428895416234426368))
 - The weight of the collective wailing & gnashing of teeth seems to have knackered the site: "Web server is returning an unknown error: There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed" ([miss_scatty](https://twitter.com/miss_scatty/status/1429120103958855687))
