@@ -7,6 +7,8 @@
 
 
 
+- This is the worst implementation of any captcha I had to deal with. Two booby-trapped pages of low-res images. As a bonus, it is sometimes stuck in an endless loop. Wife couldn't get to login because of it, Cloudflare proxied sites are inaccessible. craptcha ([myatu](https://twitter.com/myatu/status/1429443986683580417))
+- I've been getting an "Origin is unreachable" cloudflare error trying to visit the site today ([daveliepmann](https://twitter.com/daveliepmann/status/1429433033032077320))
 - I tested our newsletter signup again and it works fine now, so I think the error message was related to Constant Contact's use of Cloudflare. Perhaps someone was trying to DDOS them. ([iprtweets](https://twitter.com/IPRTweets/status/1429282707888959493))
 - Are they sure this was not because their service was unavailable as per usual? Frankly given their track record I wouldn't trust them with such claims, just as I don't exactly believe the "host is down" when I literally just rebooted it to fix the resolv error on their DNS ([tampapowers](https://twitter.com/TampaPowers/status/1429222488920268807))
 - Brutal. Me estoy metiendo. Pero opensea IO me da error 1020 accesos denied. Según cloudflare. :( ([juankstylez](https://twitter.com/juankstylez/status/1429294413835128835))
