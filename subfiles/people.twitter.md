@@ -7,6 +7,8 @@
 
 
 
+- ya lo se, es un error de lo mas comun cuando se envia un certificado que no es y en este caso es error de cloudflare al enviar un certificado firmado para su sitio web pero no para stardeos ([srrapero720](https://twitter.com/SrRapero720/status/1429884216225980421))
+- HI there, IM trying to log into my account and I have a "We are having difficulty loading this page. This can happen when the network server times out. The web server reported a bad gateway error. Error reference number: 502 Cloudflare Location: London" ([stephen_carp](https://twitter.com/stephen_carp/status/1429874862034665477))
 - Poipiku is down? I'm getting a CloudFlare error ([lady_noremon](https://twitter.com/Lady_Noremon/status/1429597243242340352))
 - Waarom een TOR-proxy? Is toch gewoon open data die je binnenhengelt? Zou denken dat je via TOR juist sneller geblokkeerd wordt gezien hoe trigger-happy o.a. Cloudflare er op is. ([joery](https://twitter.com/joery/status/1429504408925114368))
 - Complementando a resposta da proxy, o cloudflare serve tanto como CDN (cache de imagens e js do seu site) serve como um certificado que eles mesmo dão pra gente (evita lets encrypt) tem como bloquear ips específicos, bloquear que a rede tor bata no seu site ... + ([lipekis](https://twitter.com/lipekis/status/1429234699503902730))
