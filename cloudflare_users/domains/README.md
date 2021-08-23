@@ -1,4 +1,4 @@
-# Domajna listo de uzantoj de Cloudflare [ℹ](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/list_dbcf.php)
+# Domajna listo de uzantoj de Cloudflare
 
 
 [//]: # (do not edit me; start)
