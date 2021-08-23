@@ -36,6 +36,7 @@ Me pehea e aukati ai i a Cloudflare me te kore e whakahohe i a Cloudflare?
 | --- | --- |
 | ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
 | ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
+| ![](../image/cfspam04.jpg) | ![](../image/cfspam05.jpg) |
 
 </details>
 
