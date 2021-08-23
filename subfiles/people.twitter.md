@@ -7,6 +7,7 @@
 
 
 
+- Poipiku is down? I'm getting a CloudFlare error ([lady_noremon](https://twitter.com/Lady_Noremon/status/1429597243242340352))
 - Waarom een TOR-proxy? Is toch gewoon open data die je binnenhengelt? Zou denken dat je via TOR juist sneller geblokkeerd wordt gezien hoe trigger-happy o.a. Cloudflare er op is. ([joery](https://twitter.com/joery/status/1429504408925114368))
 - Complementando a resposta da proxy, o cloudflare serve tanto como CDN (cache de imagens e js do seu site) serve como um certificado que eles mesmo dão pra gente (evita lets encrypt) tem como bloquear ips específicos, bloquear que a rede tor bata no seu site ... + ([lipekis](https://twitter.com/lipekis/status/1429234699503902730))
 - Why am I getting unhandled error at the bottom of screen? ([dajma00](https://twitter.com/dajma00/status/1429487173179424773))
