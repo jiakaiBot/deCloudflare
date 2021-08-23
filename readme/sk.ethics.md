@@ -36,6 +36,7 @@ Ako môžeme zastaviť Cloudflare bez aktivovania Cloudflare?
 | --- | --- |
 | ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
 | ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
+| ![](../image/cfspam04.jpg) | ![](../image/cfspam05.jpg) |
 
 </details>
 
