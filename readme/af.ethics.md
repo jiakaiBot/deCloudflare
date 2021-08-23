@@ -36,6 +36,7 @@ Hoe kan ons Cloudflare stop sonder om Cloudflare te aktiveer?
 | --- | --- |
 | ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
 | ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
+| ![](../image/cfspam04.jpg) | ![](../image/cfspam05.jpg) |
 
 </details>
 
