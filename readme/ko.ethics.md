@@ -36,6 +36,7 @@ Cloudflare를 활성화하지 않고 Cloudflare를 중지하려면 어떻게해�
 | --- | --- |
 | ![](../image/cfspam01.jpg) | ![](../image/cfspam03.jpg) |
 | ![](../image/cfspam02.jpg) | ![](../image/cfspambrittany.jpg)<br>![](../image/cfspamtwtr.jpg) |
+| ![](../image/cfspam04.jpg) | ![](../image/cfspam05.jpg) |
 
 </details>
 
