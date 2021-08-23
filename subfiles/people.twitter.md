@@ -7,6 +7,8 @@
 
 
 
+- um ... ... I'm getting an "Access Denied" Error 1020 ( Cloudflare Ray ID: 683761d6a9cb1843 ) when I try to open your pages. ? Anything I should know about? ([pfpdaily](https://twitter.com/pfpdaily/status/1429916572911538176))
+- CloudflareHelp You sure do love deliberately delaying replies to emails dont you!? MY SITE IS NOT WORKING BECAUSE YOUR SSL CERTIFICATE IS NOT VALID! FIX NOW! ([thomasdohlman](https://twitter.com/ThomasDohlman/status/1429756845141409793))
 - ya lo se, es un error de lo mas comun cuando se envia un certificado que no es y en este caso es error de cloudflare al enviar un certificado firmado para su sitio web pero no para stardeos ([srrapero720](https://twitter.com/SrRapero720/status/1429884216225980421))
 - HI there, IM trying to log into my account and I have a "We are having difficulty loading this page. This can happen when the network server times out. The web server reported a bad gateway error. Error reference number: 502 Cloudflare Location: London" ([stephen_carp](https://twitter.com/stephen_carp/status/1429874862034665477))
 - Poipiku is down? I'm getting a CloudFlare error ([lady_noremon](https://twitter.com/Lady_Noremon/status/1429597243242340352))
