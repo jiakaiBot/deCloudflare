@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare Mitigated Record-Setting 17.2 Million RPS DDoS Attack Security and web performance services provider Cloudflare says it identified and mitigated what appears to be the largest volumetric distributed denial-of-service (DDoS) attack to date, which peaked at 17.2 million requests-per-second (RPS). read more ([cyberecho](https://hubzilla.cyberwald.com/item/dd177a68-af9d-5638-917e-a1eaf2849210))
 - &gt;I made all the time by many different things (plus if you want to you can put it behind Cloudflare for that extra bit of proxy) ([samwithouttherapy](https://fedi.samtherapy.net/objects/729bee7d-4089-407b-8203-03f7e978f7f2))
 - CloudflareとかGoogle Domainsみたいなチンカスと比べて非常によろしい ([mohemohe](https://mstdn.plusminus.io/@mohemohe/106793497191682575))
 - Of course, the big difference between the game Monopoly and Cloudflare is the addition of the #data. Your data is fixed, you only have 200 units of data and once they go into someone's #takenPile they can never go into the #soulPile, even if you take back your own data at a later time. Once your data is gone its gone. Most people will want to hold onto there data for as long as possible. But not at the expense of losing all their money and being unable to buy #bases/#servers. ([dsfgs](https://activism.openworlds.info/@dsfgs/106795846761014812))
