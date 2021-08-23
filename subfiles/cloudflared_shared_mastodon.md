@@ -26,15 +26,15 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | # | Mastodon User | Links |
 | --- | --- | --- |
 | 1 | itnewsbot@schleuss.online | 6,437 |
-| 2 | hn50@social.lansky.name | 4,176 |
-| 3 | nowthisnews@newsbots.eu | 3,702 |
+| 2 | hn50@social.lansky.name | 4,180 |
+| 3 | nowthisnews@newsbots.eu | 3,703 |
 | 4 | covid_stats@mastodon.cloud | 3,659 |
-| 5 | archlinux@pokemon.men | 3,361 |
+| 5 | archlinux@pokemon.men | 3,365 |
 | 6 | birbs@neckbeard.xyz | 3,242 |
-| 7 | reuters_worldnews@newsbots.eu | 3,217 |
+| 7 | reuters_worldnews@newsbots.eu | 3,221 |
 | 8 | hntooter@mastodon.social | 3,042 |
 | 9 | hackernews@die-partei.social | 2,931 |
-| 10 | ponypics@equestria.social | 2,856 |
+| 10 | ponypics@equestria.social | 2,860 |
 
 [//]: # (do not edit this line end)
 
@@ -47,21 +47,21 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | --- | --- | --- |
 | 1 | covid_stats@mastodon.cloud | 3,659 |
 | 2 | birbs@neckbeard.xyz | 3,242 |
-| 3 | hn50@social.lansky.name | 2,840 |
+| 3 | hn50@social.lansky.name | 2,843 |
 | 4 | elpuntavui@mastodont.cat | 2,406 |
 | 5 | itnewsbot@schleuss.online | 2,307 |
-| 6 | hn100@social.lansky.name | 1,824 |
-| 7 | hn100@botsin.space | 1,518 |
+| 6 | hn100@social.lansky.name | 1,827 |
+| 7 | hn100@botsin.space | 1,520 |
 | 8 | hackernews@die-partei.social | 1,192 |
 | 9 | hntooter@mastodon.social | 1,114 |
 | 10 | naturalnews@brighteon.social | 1,019 |
 | 11 | darulharb@social.quodverum.com | 965 |
 | 12 | johndolph@brighteon.social | 889 |
-| 13 | ponypics@equestria.social | 823 |
-| 14 | alternet@newsbots.eu | 809 |
+| 13 | ponypics@equestria.social | 824 |
+| 14 | alternet@newsbots.eu | 810 |
 | 15 | hnbot@botsin.space | 807 |
 | 16 | bbcpersiannewsbot@aleph.land | 759 |
-| 17 | gradientbot@botsin.space | 724 |
+| 17 | gradientbot@botsin.space | 725 |
 | 18 | btc@framapiaf.org | 653 |
 | 19 | thepressproject@libretooth.gr | 602 |
 | 20 | hn250@social.lansky.name | 552 |
@@ -69,13 +69,13 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 22 | ethereum@framapiaf.org | 511 |
 | 23 | freax@anonsys.net | 467 |
 | 24 | youngblood@social.quodverum.com | 444 |
-| 25 | blendernation@botsin.space | 425 |
+| 25 | blendernation@botsin.space | 426 |
 | 26 | jleimer@brighteon.social | 393 |
 | 27 | ckstechnologynews@mastodon.social | 392 |
 | 28 | tilderadio@tilde.zone | 387 |
 | 29 | kelly_naproducr@noagendasocial.com | 378 |
 | 30 | enigmatico@fedi.absturztau.be | 358 |
-| 31 | arzachel@mastodon.derveni.org | 314 |
+| 31 | arzachel@mastodon.derveni.org | 316 |
 | 32 | snoro@mastodon.social | 311 |
 | 33 | interlignes@newsbots.eu | 308 |
 | 34 | todayilearned@botsin.space | 307 |
@@ -95,9 +95,9 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 48 | info_activism@mastodon.cc | 194 |
 | 49 | hundriverwidow@social.quodverum.com | 188 |
 | 50 | mediapart@mastodon.social | 186 |
-| 51 | baron_rotterdam@noagendasocial.com | 178 |
-| 52 | martintero2@redliberal.com | 177 |
-| 53 | hhra@botsin.space | 177 |
+| 51 | hhra@botsin.space | 178 |
+| 52 | baron_rotterdam@noagendasocial.com | 178 |
+| 53 | martintero2@redliberal.com | 177 |
 | 54 | lobsters@botsin.space | 172 |
 | 55 | itsecbot@schleuss.online | 167 |
 | 56 | klaatu@noagendasocial.com | 165 |
@@ -121,8 +121,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 74 | gustavinobevilacqua@mastodon.cisti.org | 110 |
 | 75 | christopheherbet@mastodon.top | 109 |
 | 76 | alternatives_economiques@social.jesuislibre.net | 106 |
-| 77 | pzmyers@octodon.social | 104 |
-| 78 | poserindex@social.quodverum.com | 104 |
+| 77 | poserindex@social.quodverum.com | 104 |
+| 78 | pzmyers@octodon.social | 104 |
 | 79 | hermesgabriel@todon.nl | 101 |
 | 80 | trittriton@shelter.moe | 99 |
 | 81 | maeve@girlcock.club | 99 |
@@ -130,8 +130,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 83 | nachocarreras@mastodon.la | 96 |
 | 84 | masterblaster@social.quodverum.com | 95 |
 | 85 | benborges@mastodon.social | 92 |
-| 86 | thehackernews@social.tchncs.de | 91 |
-| 87 | 1iceloops123@shitposter.club | 91 |
+| 86 | 1iceloops123@shitposter.club | 91 |
+| 87 | thehackernews@social.tchncs.de | 91 |
 | 88 | fantomas@framapiaf.org | 90 |
 | 89 | pg_jk@mastodon.top | 89 |
 | 90 | lupyuen@qoto.org | 88 |
@@ -139,8 +139,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 92 | foneguy89@noagendasocial.com | 83 |
 | 93 | frumble@chaos.social | 82 |
 | 94 | noagendashownoteslinks@noagendasocial.com | 79 |
-| 95 | shadowman311@poa.st | 77 |
-| 96 | strawberryfieldsforever@koyu.space | 77 |
+| 95 | strawberryfieldsforever@koyu.space | 77 |
+| 96 | shadowman311@poa.st | 77 |
 | 97 | chris@noagendasocial.com | 74 |
 | 98 | infoactu@mamot.fr | 72 |
 | 99 | legorafi@botsin.space | 72 |
@@ -154,18 +154,18 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 [//]: # (do not edit this line start; t3)
 
 
-- Mastodon users posted *639,996* public toots. (about *17297.2* toots per day)
+- Mastodon users posted *640,414* public toots. (about *17308.5* toots per day)
   - Above number include toots which has no link.
 - Now let's focus on *Mastodon toots which has links*.
 
 ![](../image/bully.jpg)
 
-- Mastodon users shared *255,893* links in total.
-  - *64,093* links are Cloudflare links. (*25*%)
-- There are *10,755* users who shared ANY links.
+- Mastodon users shared *256,005* links in total.
+  - *64,117* links are Cloudflare links. (*25*%)
+- There are *10,759* users who shared ANY links.
   - On average one mastodon user shared *23.8* links. (about *0.6* links per day)
-  - There are *1,128* users who ONLY shared Cloudflare links. (*10.5*%)
-  - There are *6,017* users who NEVER shared Cloudflare links. (*55.9*%)
+  - There are *1,129* users who ONLY shared Cloudflare links. (*10.5*%)
+  - There are *6,019* users who NEVER shared Cloudflare links. (*55.9*%)
 
 tl;dr
 ### *44.1%* of Mastodon users who shared link shared Cloudflare links.
