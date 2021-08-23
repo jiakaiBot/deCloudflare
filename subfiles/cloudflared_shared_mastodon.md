@@ -54,7 +54,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 7 | hn100@botsin.space | 1,520 |
 | 8 | hackernews@die-partei.social | 1,192 |
 | 9 | hntooter@mastodon.social | 1,114 |
-| 10 | naturalnews@brighteon.social | 1,019 |
+| 10 | naturalnews@brighteon.social | 1,020 |
 | 11 | darulharb@social.quodverum.com | 965 |
 | 12 | johndolph@brighteon.social | 889 |
 | 13 | ponypics@equestria.social | 824 |
@@ -62,11 +62,11 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 15 | hnbot@botsin.space | 807 |
 | 16 | bbcpersiannewsbot@aleph.land | 759 |
 | 17 | gradientbot@botsin.space | 725 |
-| 18 | btc@framapiaf.org | 653 |
+| 18 | btc@framapiaf.org | 656 |
 | 19 | thepressproject@libretooth.gr | 602 |
 | 20 | hn250@social.lansky.name | 552 |
-| 21 | androidpolice@mstdn.social | 511 |
-| 22 | ethereum@framapiaf.org | 511 |
+| 21 | ethereum@framapiaf.org | 513 |
+| 22 | androidpolice@mstdn.social | 511 |
 | 23 | freax@anonsys.net | 467 |
 | 24 | youngblood@social.quodverum.com | 444 |
 | 25 | blendernation@botsin.space | 426 |
@@ -75,7 +75,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 28 | tilderadio@tilde.zone | 387 |
 | 29 | kelly_naproducr@noagendasocial.com | 378 |
 | 30 | enigmatico@fedi.absturztau.be | 358 |
-| 31 | arzachel@mastodon.derveni.org | 316 |
+| 31 | arzachel@mastodon.derveni.org | 318 |
 | 32 | snoro@mastodon.social | 311 |
 | 33 | interlignes@newsbots.eu | 308 |
 | 34 | todayilearned@botsin.space | 307 |
@@ -154,18 +154,18 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 [//]: # (do not edit this line start; t3)
 
 
-- Mastodon users posted *640,414* public toots. (about *17308.5* toots per day)
+- Mastodon users posted *640,486* public toots. (about *17310.4* toots per day)
   - Above number include toots which has no link.
 - Now let's focus on *Mastodon toots which has links*.
 
 ![](../image/bully.jpg)
 
-- Mastodon users shared *256,005* links in total.
-  - *64,117* links are Cloudflare links. (*25*%)
-- There are *10,759* users who shared ANY links.
+- Mastodon users shared *256,031* links in total.
+  - *64,126* links are Cloudflare links. (*25*%)
+- There are *10,760* users who shared ANY links.
   - On average one mastodon user shared *23.8* links. (about *0.6* links per day)
   - There are *1,129* users who ONLY shared Cloudflare links. (*10.5*%)
-  - There are *6,019* users who NEVER shared Cloudflare links. (*55.9*%)
+  - There are *6,020* users who NEVER shared Cloudflare links. (*55.9*%)
 
 tl;dr
 ### *44.1%* of Mastodon users who shared link shared Cloudflare links.
