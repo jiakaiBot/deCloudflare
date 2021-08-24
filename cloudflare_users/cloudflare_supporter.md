@@ -6296,6 +6296,7 @@ Do not create new issue or we will close it as duplicate.
 | [_awexx@twitter](https://twitter.com/_awexx/status/1390211288136040448) | advertise |
 | [_DepvaOTP_@twitter](https://twitter.com/_DepvaOTP_/status/1399004303788888067) | advertise |
 | [_htet1@twitter](https://twitter.com/_htet1/status/1390121428360433672) | advertise |
+| [_kokt@twitter](https://twitter.com/_kokt/status/1429677155252727809) | advertise |
 | [_kuzannn@twitter](https://twitter.com/_kuzannn/status/1378391986449752067) | advertise |
 | [_M4nifest0_@twitter](https://twitter.com/_M4nifest0_/status/1395630834611281920) | advertise |
 | [_myorin_@twitter](https://twitter.com/_myorin_/status/1402254526619348992) | advertise |
