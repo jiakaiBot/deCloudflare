@@ -7,6 +7,7 @@
 
 
 
+- An SSL Handshake Failure or Error 525 means that the server and browser were unable to establish a secure connection. This can happen for a variety of reasons. Generally, an Error 525 means that the SSL handshake between a domain using Cloudflare and the origin web server failed. ([malesela_sela](https://twitter.com/malesela_sela/status/1430038962601701389))
 - um ... ... I'm getting an "Access Denied" Error 1020 ( Cloudflare Ray ID: 683761d6a9cb1843 ) when I try to open your pages. ? Anything I should know about? ([pfpdaily](https://twitter.com/pfpdaily/status/1429916572911538176))
 - CloudflareHelp You sure do love deliberately delaying replies to emails dont you!? MY SITE IS NOT WORKING BECAUSE YOUR SSL CERTIFICATE IS NOT VALID! FIX NOW! ([thomasdohlman](https://twitter.com/ThomasDohlman/status/1429756845141409793))
 - ya lo se, es un error de lo mas comun cuando se envia un certificado que no es y en este caso es error de cloudflare al enviar un certificado firmado para su sitio web pero no para stardeos ([srrapero720](https://twitter.com/SrRapero720/status/1429884216225980421))
