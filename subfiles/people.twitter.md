@@ -7,6 +7,7 @@
 
 
 
+- In addition to Cloudflare making it literally impossible to get to websites behind its professional pseudo-MITM infrastructure when using some browsers through Tor, it's also apparently censoring certain pages of some sites and pretending it's a DNS error. ([apotheon](https://twitter.com/apotheon/status/1430620714038489090))
 - Does anyone else upload NFTs on OpenSeaNFT get blocked by their CloudFlare protection? It seems to be triggered at random and blocks me from accessing the platform for hours, no matter what browser I use. ([maineman1979](https://twitter.com/MaineMan1979/status/1430188093261467656))
 - Cloudflare keeps saying it's a server error... 💔 heartbrocken ([sparkxiiii](https://twitter.com/SPARKXIIII/status/1430301130966269953))
 - If you’re self-hosting services and using CloudFlare, block the country named “Tor”. You’ll thank me later. ([technotimlive](https://twitter.com/TechnoTimLive/status/1430305355045777415))
