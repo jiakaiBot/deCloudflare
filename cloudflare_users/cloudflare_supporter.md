@@ -2244,6 +2244,7 @@ Do not create new issue or we will close it as duplicate.
 | [JHoonbabe@twitter](https://twitter.com/JHoonbabe/status/1390549372186730498) | advertise |
 | [jHxLav8ObDrTdrc@twitter](https://twitter.com/jHxLav8ObDrTdrc/status/1401749357381120000) | advertise |
 | [jiiahani@twitter](https://twitter.com/jiiahani/status/1399603047244853249) | advertise |
+| [JiiSaaduddin@twitter](https://twitter.com/JiiSaaduddin/status/1429958660575293466) | advertise |
 | [Jiminie1995bts@twitter](https://twitter.com/Jiminie1995bts/status/1398512785294647297) | advertise |
 | [jimmi_pranami@twitter](https://twitter.com/jimmi_pranami/status/1384443003415134214) | advertise |
 | [jimmy90319098@twitter](https://twitter.com/jimmy90319098/status/1394347856098566146) | advertise |
@@ -5025,6 +5026,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sourav80746656@twitter](https://twitter.com/Sourav80746656/status/1394838874027827203) | advertise |
 | [SouravMore88@twitter](https://twitter.com/SouravMore88/status/1393449579295563778) | advertise |
 | [Sourbhana6Love@twitter](https://twitter.com/Sourbhana6Love/status/1390882630782971904) | advertise |
+| [sourcedconsult@twitter](https://twitter.com/sourcedconsult/status/1430102117591633920) | advertise |
 | [soyalkoirala60@twitter](https://twitter.com/soyalkoirala60/status/1394193049689812994) | advertise |
 | [SoYoon997847@twitter](https://twitter.com/SoYoon997847/status/1391096734575521795) | advertise |
 | [sozeehh@twitter](https://twitter.com/sozeehh/status/1406383374797885442) | advertise |
