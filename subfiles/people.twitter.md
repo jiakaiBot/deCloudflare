@@ -7,6 +7,9 @@
 
 
 
+- Does anyone else upload NFTs on OpenSeaNFT get blocked by their CloudFlare protection? It seems to be triggered at random and blocks me from accessing the platform for hours, no matter what browser I use. ([maineman1979](https://twitter.com/MaineMan1979/status/1430188093261467656))
+- Cloudflare keeps saying it's a server error... 💔 heartbrocken ([sparkxiiii](https://twitter.com/SPARKXIIII/status/1430301130966269953))
+- If you’re self-hosting services and using CloudFlare, block the country named “Tor”. You’ll thank me later. ([technotimlive](https://twitter.com/TechnoTimLive/status/1430305355045777415))
 - An SSL Handshake Failure or Error 525 means that the server and browser were unable to establish a secure connection. This can happen for a variety of reasons. Generally, an Error 525 means that the SSL handshake between a domain using Cloudflare and the origin web server failed. ([malesela_sela](https://twitter.com/malesela_sela/status/1430038962601701389))
 - um ... ... I'm getting an "Access Denied" Error 1020 ( Cloudflare Ray ID: 683761d6a9cb1843 ) when I try to open your pages. ? Anything I should know about? ([pfpdaily](https://twitter.com/pfpdaily/status/1429916572911538176))
 - CloudflareHelp You sure do love deliberately delaying replies to emails dont you!? MY SITE IS NOT WORKING BECAUSE YOUR SSL CERTIFICATE IS NOT VALID! FIX NOW! ([thomasdohlman](https://twitter.com/ThomasDohlman/status/1429756845141409793))
