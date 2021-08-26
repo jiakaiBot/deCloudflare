@@ -7,6 +7,7 @@
 
 
 
+- ตอนแรกนึกว่า Pleroma มีปัญหา อ๋อป่าว API Call ติด Cloudflare :blobfacepalm: ([sukino](https://norze.world/objects/6f40b5d5-dc18-4ec9-ac9a-cf0549cfd8b7))
 - Cloudflare 使ってないのに Cloudflare からメールが飛んでくるのはどうして ([aquarla](https://iwatedon.net/@aquarla/106809438957651367))
 - Cloudflare Mitigated Record-Setting 17.2 Million RPS DDoS Attack Security and web performance services provider Cloudflare says it identified and mitigated what appears to be the largest volumetric distributed denial-of-service (DDoS) attack to date, which peaked at 17.2 million requests-per-second (RPS). read more ([cyberecho](https://hubzilla.cyberwald.com/item/dd177a68-af9d-5638-917e-a1eaf2849210))
 - &gt;I made all the time by many different things (plus if you want to you can put it behind Cloudflare for that extra bit of proxy) ([samwithouttherapy](https://fedi.samtherapy.net/objects/729bee7d-4089-407b-8203-03f7e978f7f2))
