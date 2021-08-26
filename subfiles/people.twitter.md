@@ -7,6 +7,7 @@
 
 
 
+- Yes, because it is not counted as an average Tor Browser user. ([kushaldas](https://twitter.com/kushaldas/status/1430746473877188608))
 - El cloudflare de no em deixa veure el seu lloc quan estic connectat a Tor. Doncs ja ho miraré un altre dia. ([pakoelmetralla](https://twitter.com/pakoelmetralla/status/1430594968910012426))
 - What is the purpose of IPFS frontend, if the API is behind cloudflare? Any time a Tor user calls your API, he may be presented with captcha. This effectively bans Tor users. If you ban Tor users and use offchain servers, you can track or be forced to track everyone. No privacy. ([paulmillr](https://twitter.com/paulmillr/status/1430585457029517316))
 - Have you tried using Tor with your site? It doesn’t work correctly because you’re using like ten other sites which block Tor / cloudflare that blocks Tor ([paulmillr](https://twitter.com/paulmillr/status/1430551788688642048))
