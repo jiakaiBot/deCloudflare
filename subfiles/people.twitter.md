@@ -7,6 +7,7 @@
 
 
 
+- They're all getting blocked by Cloudflare (and have been for a long time) so I don't understand why it's still happening ([syfaro](https://twitter.com/Syfaro/status/1430988398001545220))
 - CloudflareHelp Help, looks like cloudflare has banned my IP. (home user) Can't access most sites and on some sites the Ray ID keeps looping. :( ([varun_daniel](https://twitter.com/Varun_Daniel/status/1430924169462484992))
 - Yes, because it is not counted as an average Tor Browser user. ([kushaldas](https://twitter.com/kushaldas/status/1430746473877188608))
 - El cloudflare de no em deixa veure el seu lloc quan estic connectat a Tor. Doncs ja ho miraré un altre dia. ([pakoelmetralla](https://twitter.com/pakoelmetralla/status/1430594968910012426))
