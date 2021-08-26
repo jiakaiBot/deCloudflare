@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-08-25: [Issues with Account Membership Invites](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qj4x8p0r9h63)
 - 2021-08-24: [Increased HTTP 5xx Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bgfwxcrydqq3)
 - 2021-08-24: [Network Performance Issues in TPE](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1j0grfznfsgl)
 - 2021-08-20: [Increased HTTP 502/504 Errors in ISB and LHE](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1pkbxsjxxppz)
