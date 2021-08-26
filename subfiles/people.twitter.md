@@ -7,6 +7,14 @@
 
 
 
+- El cloudflare de no em deixa veure el seu lloc quan estic connectat a Tor. Doncs ja ho miraré un altre dia. ([pakoelmetralla](https://twitter.com/pakoelmetralla/status/1430594968910012426))
+- What is the purpose of IPFS frontend, if the API is behind cloudflare? Any time a Tor user calls your API, he may be presented with captcha. This effectively bans Tor users. If you ban Tor users and use offchain servers, you can track or be forced to track everyone. No privacy. ([paulmillr](https://twitter.com/paulmillr/status/1430585457029517316))
+- Have you tried using Tor with your site? It doesn’t work correctly because you’re using like ten other sites which block Tor / cloudflare that blocks Tor ([paulmillr](https://twitter.com/paulmillr/status/1430551788688642048))
+- itu cuma cache doang, cache yg d simpan otomatis sama cloudflare. Aslinya memang host semprot offline, jadi mau pake VPN atau apapun y tetep aja cuma liat bekas/jejak forumnya doang.. ([nlimbarda](https://twitter.com/NLimbarda/status/1430166632492580869))
+- Block desde el proveedor de hosting (Puede ser una nube que bloquea por defecto las IP cubanas) Si saliera el 1009 es cloudflare hecho a posta... En fin, siempre VPN 👍 ([erichgarciacruz](https://twitter.com/ErichGarciaCruz/status/1429862752185692163))
+- God damn it. Cloudflare is a stupid, awful piece of shit and I wish it would burn to the ground. Fuck you, Cloudflare. ([apotheon](https://twitter.com/apotheon/status/1430619718499532802))
+- Hey, website unavailable for quite some time now. Ray ID: 68489f28625cffe0 Error reference number: 502 Cloudflare Location: POP: undef ([deivedux](https://twitter.com/Deivedux/status/1430674783260356611))
+- Показывает заглушку CloudFlare с Error 522: Host Error. Больше похоже на проблемы с самим сайтом. ([ulovnalimov](https://twitter.com/UlovNalimov/status/1429883177317851149))
 - Cloudflare is blocking me from getting on websites I regularly use...now how to fix it. ([mommyjenna](https://twitter.com/MommyJenna/status/1430624123923877895))
 - In addition to Cloudflare making it literally impossible to get to websites behind its professional pseudo-MITM infrastructure when using some browsers through Tor, it's also apparently censoring certain pages of some sites and pretending it's a DNS error. ([apotheon](https://twitter.com/apotheon/status/1430620714038489090))
 - Does anyone else upload NFTs on OpenSeaNFT get blocked by their CloudFlare protection? It seems to be triggered at random and blocks me from accessing the platform for hours, no matter what browser I use. ([maineman1979](https://twitter.com/MaineMan1979/status/1430188093261467656))
