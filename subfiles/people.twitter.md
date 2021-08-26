@@ -7,6 +7,8 @@
 
 
 
+- Actually, pretty much website dev 101. Using a CDN, cloudflare and simple captcha could have stopped the bot. Dan tried flying before he was ready. It’s obvious he operation isn’t ready. I does happen, but this isn’t the way you want to find out that you aren’t ready. ([observingcrypto](https://twitter.com/observingcrypto/status/1431018536315523073))
+- Fucking cloudflare screwing up my redesign by caching the CSS LMAO ([plt_abbie](https://twitter.com/plt_abbie/status/1431028885764849665))
 - They're all getting blocked by Cloudflare (and have been for a long time) so I don't understand why it's still happening ([syfaro](https://twitter.com/Syfaro/status/1430988398001545220))
 - CloudflareHelp Help, looks like cloudflare has banned my IP. (home user) Can't access most sites and on some sites the Ray ID keeps looping. :( ([varun_daniel](https://twitter.com/Varun_Daniel/status/1430924169462484992))
 - Yes, because it is not counted as an average Tor Browser user. ([kushaldas](https://twitter.com/kushaldas/status/1430746473877188608))
