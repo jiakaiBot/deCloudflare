@@ -1080,6 +1080,7 @@ Or is this merely a case of simple modesty?
 | Meghan Weinreich | Demand Generation | https://twitter.com/MegWeinreich |
 | Meg He | Employee |  |
 | Melissa Henderson | IT Support Technician |  |
+| Meyer Zinn | Employee | |
 | Mia Hardy-Thompson | Business Development |  |
 | Mia Wang | Special Projects |  |
 | Micah Smurthwaite | Customer Development | https://twitter.com/Smurda |
