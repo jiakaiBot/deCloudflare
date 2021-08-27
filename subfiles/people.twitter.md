@@ -7,6 +7,8 @@
 
 
 
+- Ray ID: 6848f7e362a50225 Error reference number: 502 Cloudflare Location: Zurich ([yakdoggames](https://twitter.com/YakDogGames/status/1430689927688294400))
+- I don't know :) When do you get that error? ([j_aa_p](https://twitter.com/J_aa_p/status/1429488624953876487))
 - Actually, pretty much website dev 101. Using a CDN, cloudflare and simple captcha could have stopped the bot. Dan tried flying before he was ready. It’s obvious he operation isn’t ready. I does happen, but this isn’t the way you want to find out that you aren’t ready. ([observingcrypto](https://twitter.com/observingcrypto/status/1431018536315523073))
 - Fucking cloudflare screwing up my redesign by caching the CSS LMAO ([plt_abbie](https://twitter.com/plt_abbie/status/1431028885764849665))
 - They're all getting blocked by Cloudflare (and have been for a long time) so I don't understand why it's still happening ([syfaro](https://twitter.com/Syfaro/status/1430988398001545220))
