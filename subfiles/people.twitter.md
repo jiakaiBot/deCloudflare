@@ -7,6 +7,7 @@
 
 
 
+- lmao. I registered 2 new domains and Cloudflare couldn't see that they Had been registered so I ran a while loop to keep trying....and now the two domains are banned from Cloudflare temporarily ([acar321](https://twitter.com/acar321/status/1431059045717213185))
 - Ray ID: 6848f7e362a50225 Error reference number: 502 Cloudflare Location: Zurich ([yakdoggames](https://twitter.com/YakDogGames/status/1430689927688294400))
 - I don't know :) When do you get that error? ([j_aa_p](https://twitter.com/J_aa_p/status/1429488624953876487))
 - Actually, pretty much website dev 101. Using a CDN, cloudflare and simple captcha could have stopped the bot. Dan tried flying before he was ready. It’s obvious he operation isn’t ready. I does happen, but this isn’t the way you want to find out that you aren’t ready. ([observingcrypto](https://twitter.com/observingcrypto/status/1431018536315523073))
