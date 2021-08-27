@@ -7,6 +7,16 @@
 
 
 
+- Cloudflare not blocking me anymore your site still down though. ([deadpixels16](https://twitter.com/DeadPixels16/status/1431345543389884420))
+- And I got banned from the site after choosing 40 planes. Nice work ([bambatavideo](https://twitter.com/bambatavideo/status/1431345527623454726))
+- Thank you. Please make sure everyone is unblocked. I also got blocked :(( ([shaktimankafan9](https://twitter.com/ShaktimanKaFan9/status/1431340174915428353))
+- Cloudflare might be blocking your users but that doesn't explain the http 500 response from your server. My guess is you tried to save on infrastructure and didn't even bother to allocate enough resources. ([aurimasmatiekus](https://twitter.com/AurimasMatiekus/status/1431340070393495563))
+- and how come everyone got blocked but degen ape tweeting that they got fucking 886 badgers???? Cheating much? ([thycryptoknight](https://twitter.com/ThyCryptoKnight/status/1431339680780460041))
+- Lol. In kaiju no one could hard refresh. Now everyone beat the shit out of ctrl+f5 and blocked by cloudflare. ([twthemant](https://twitter.com/twthemant/status/1431339578686783490))
+- I'm literally shaking right now. I received a notification that I bought the badgers & my SOL is gone but the site blocked me... I don't know what to do. I moved all the way from Australia to the USA so I could have the best connection when getting one of these prized badgers. ([satoshis_mom](https://twitter.com/Satoshis_Mom/status/1431339427784237063))
+- I can’t verify myself in discord, I make the captcha and says error… BRUH ([g0ldb0yk1ng](https://twitter.com/G0LDB0YK1NG/status/1431337843482312712))
+- Yes these failed launches are using cloudflare already, but we're seeing Apache error pages here. If you're going to insist on hosting yourself at least use something more suitable for this job like nginx... ([john__rees](https://twitter.com/john__rees/status/1431335893835599876))
+- Boycott this collection fuck that im not minting one now ([626_willyttv](https://twitter.com/626_willyTTV/status/1431339411925524483))
 - lmao. I registered 2 new domains and Cloudflare couldn't see that they Had been registered so I ran a while loop to keep trying....and now the two domains are banned from Cloudflare temporarily ([acar321](https://twitter.com/acar321/status/1431059045717213185))
 - Ray ID: 6848f7e362a50225 Error reference number: 502 Cloudflare Location: Zurich ([yakdoggames](https://twitter.com/YakDogGames/status/1430689927688294400))
 - I don't know :) When do you get that error? ([j_aa_p](https://twitter.com/J_aa_p/status/1429488624953876487))
