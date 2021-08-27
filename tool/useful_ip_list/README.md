@@ -19,11 +19,13 @@ AirVPN
 Firefox VPN
 IVPN
 Mullvad
+NordVPN
 PrivateInternetAccess
 Proton VPN
 PureVPN
 TorGuard
 TorGuard SecureConnect
+Tunnelbear
 VPNGate
 trust.zone
 ```
