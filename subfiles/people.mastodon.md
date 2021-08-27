@@ -7,6 +7,7 @@
 
 
 
+- No idea who Cloudflare is picking up … the Plausible Analytics number is likely the accurate number. ([moondeer](https://mastodon.online/@moondeer/106829231085003211))
 - キャッシュの削除だけした あとwebブラウザでみると繰り返し出てくる ​:cloudflare:​のひっかかるメッセージ出てこなければいいのに​:blobcatfrowning:​ ([su](https://sunisky.club/notes/8pwljh2khg))
 - All global timeline posts from spin site are showing broken images. When I click through to the post it is showing this attention required crap from cloudflare. So now cloudflare is blocking content from timelines? #cloudflare #cloudflaresucks #broken #fediverse #activitypub ([akahardy](https://cliq.social/notes/8px0eyiu4e))
 - ตอนแรกนึกว่า Pleroma มีปัญหา อ๋อป่าว API Call ติด Cloudflare :blobfacepalm: ([sukino](https://norze.world/objects/6f40b5d5-dc18-4ec9-ac9a-cf0549cfd8b7))
