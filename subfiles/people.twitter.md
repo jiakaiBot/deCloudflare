@@ -7,6 +7,7 @@
 
 
 
+- I repeat ... we have a 521 ... 521 ... cloudflares everywhere .... we´re down .... we´re down ... urghhs ... we´re blocked maybe ... ([darkmangar](https://twitter.com/DarkMangar/status/1431352672112848899))
 - Cloudflare not blocking me anymore your site still down though. ([deadpixels16](https://twitter.com/DeadPixels16/status/1431345543389884420))
 - And I got banned from the site after choosing 40 planes. Nice work ([bambatavideo](https://twitter.com/bambatavideo/status/1431345527623454726))
 - Thank you. Please make sure everyone is unblocked. I also got blocked :(( ([shaktimankafan9](https://twitter.com/ShaktimanKaFan9/status/1431340174915428353))
