@@ -7,6 +7,12 @@
 
 
 
+- Dude the whole thing is a scam, I heard they we going to do it again in 24 hours, and what do ya know, they are all minted already. Fucking shame ([dafaqgoingon](https://twitter.com/DafaqGoingOn/status/1431381732910059523))
+- Yes please I have been receiving this error msg 🙏 ([bilalabdallaoui](https://twitter.com/BilalAbdallaoui/status/1431337602607632395))
+- You might want to postpone at this point with it being 1hr behind and people already blocking time out for this. ([hopisaurus](https://twitter.com/Hopisaurus/status/1431344282363961344))
+- Cloudflare why are you blocking this bag????????? ([joelchadd1](https://twitter.com/JoelChadd1/status/1431342438887706629))
+- I am blocked again.. i think the site will be back up.. but there will be nothing to mint 😂 .. ([satoshi_lll](https://twitter.com/Satoshi_lll/status/1431340689879670785))
+- Whats happening I am Blocked..Not able to mint ([robin_gautam16](https://twitter.com/Robin_Gautam16/status/1431340534287634434))
 - was the worst nft drop I took part so far. Webserver down. Users blocked by Cloudflare. Changed Mint address. That was unprofessional, should have been postponed... ([darkmangar](https://twitter.com/DarkMangar/status/1431366724604071948))
 - I repeat ... we have a 521 ... 521 ... cloudflares everywhere .... we´re down .... we´re down ... urghhs ... we´re blocked maybe ... ([darkmangar](https://twitter.com/DarkMangar/status/1431352672112848899))
 - Cloudflare not blocking me anymore your site still down though. ([deadpixels16](https://twitter.com/DeadPixels16/status/1431345543389884420))
