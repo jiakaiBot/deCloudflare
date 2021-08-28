@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-08-27: [Network Performance Issues in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2lz8r5cwyg37)
 - 2021-08-24: [Increased HTTP 5xx Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bgfwxcrydqq3)
 - 2021-08-24: [Network Performance Issues in TPE](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1j0grfznfsgl)
 - 2021-08-20: [Increased HTTP 502/504 Errors in ISB and LHE](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1pkbxsjxxppz)
