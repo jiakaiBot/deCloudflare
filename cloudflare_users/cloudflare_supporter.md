@@ -137,6 +137,7 @@ Do not create new issue or we will close it as duplicate.
 | [AceCork@twitter](https://twitter.com/AceCork/status/1385313787452985349) | advertise |
 | [Achalkishore1@twitter](https://twitter.com/Achalkishore1/status/1386981518464090113) | advertise |
 | [AChanMay4@twitter](https://twitter.com/AChanMay4/status/1400031938719760385) | advertise |
+| [acharyaramg@twitter](https://twitter.com/acharyaramg/status/1425424841985777669) | advertise |
 | [Acharya_Ramji@twitter](https://twitter.com/Acharya_Ramji/status/1425424841985777669) | advertise |
 | [achmadrizki899@twitter](https://twitter.com/achmadrizki899/status/1385266311555477505) | advertise |
 | [Acid37504104@twitter](https://twitter.com/Acid37504104/status/1401849438776152064) | advertise |
@@ -4378,6 +4379,7 @@ Do not create new issue or we will close it as duplicate.
 | [PrinceO58314621@twitter](https://twitter.com/PrinceO58314621/status/1389548044304195585) | advertise |
 | [PRINCES14446848@twitter](https://twitter.com/PRINCES14446848/status/1377862676450213888) | advertise |
 | [PrinceS49644369@twitter](https://twitter.com/PrinceS49644369/status/1386440942069026818) | advertise |
+| [privatedatesvip@twitter](https://twitter.com/privatedatesvip/status/1431480497364946944) | advertise |
 | [Profess56387660@twitter](https://twitter.com/Profess56387660/status/1401752121599401985) | advertise |
 | [ProfTakeruHiga@twitter](https://twitter.com/ProfTakeruHiga/status/1388474623214243842) | advertise |
 | [prro85545495@twitter](https://twitter.com/prro85545495/status/1401352105886056457) | advertise |
@@ -6030,6 +6032,7 @@ Do not create new issue or we will close it as duplicate.
 | [YaungKoe@twitter](https://twitter.com/YaungKoe/status/1390402620833951745) | advertise |
 | [yAw12eeee@twitter](https://twitter.com/yAw12eeee/status/1400854581752393735) | advertise |
 | [YAwad7@twitter](https://twitter.com/YAwad7/status/1380723783540084737) | advertise |
+| [yay_cat_@twitter](https://twitter.com/yay_cat_/status/1431521757995970560) | advertise |
 | [Yazar76810526@twitter](https://twitter.com/Yazar76810526/status/1392062593620058114) | advertise |
 | [YBehniafar@twitter](https://twitter.com/YBehniafar/status/1401249032958263297) | advertise |
 | [YcSQYLmX56wkzI3@twitter](https://twitter.com/YcSQYLmX56wkzI3/status/1404774248778973186) | advertise |
