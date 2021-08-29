@@ -7,6 +7,7 @@
 
 
 
+- Can someone please explain it to me like I’m fucking stupid why the Cloudflare thing hasn’t been fixed? ([lynnshelbyl](https://twitter.com/LynnShelbyL/status/1431733916654874627))
 - Dude the whole thing is a scam, I heard they we going to do it again in 24 hours, and what do ya know, they are all minted already. Fucking shame ([dafaqgoingon](https://twitter.com/DafaqGoingOn/status/1431381732910059523))
 - Yes please I have been receiving this error msg 🙏 ([bilalabdallaoui](https://twitter.com/BilalAbdallaoui/status/1431337602607632395))
 - You might want to postpone at this point with it being 1hr behind and people already blocking time out for this. ([hopisaurus](https://twitter.com/Hopisaurus/status/1431344282363961344))
