@@ -7,6 +7,10 @@
 
 
 
+- 404 error cloudflare blocked you On the right track? ([cosmonautc](https://twitter.com/CosmonautC/status/1432078425024520197))
+- Justo estoy aprendiendo eso esta tarde pero no lo consigo. Encuentro la IP de origen pero no puedo inyectar xss porque me da error 1003 Cloudflare. ([rickdeckard23](https://twitter.com/rickdeckard23/status/1432110863830368258))
+- CloudflareHelp is telling everyone their servers hosted by you crashed today, is this true? Seems suspicious. ([elliaivyworld](https://twitter.com/elliaivyworld/status/1431789943706238976))
+- or people that literally closed the door of their own fucking store lmao ([7omcrypto](https://twitter.com/7omCrypto/status/1431341723557453826))
 - I have deployed an app on playstore directly. It was never hosted on cloudflare or any other servers. Also when servers can't handle too many requests, they throw 500 error messages and won't crash easily. ([cryptogeekus](https://twitter.com/cryptogeekus/status/1432069789757816832))
 - 0/2 on drops today. First reschedule drop. Then have a shitshow of a launch that apparently sounds near sold out, yet I could never even get past the 520 cloudflare error before they decided to pull the site. Solana NFTdrops ([tradermillz](https://twitter.com/TraderMillz/status/1432015546636197888))
 - Can someone please explain it to me like I’m fucking stupid why the Cloudflare thing hasn’t been fixed? ([lynnshelbyl](https://twitter.com/LynnShelbyL/status/1431733916654874627))
