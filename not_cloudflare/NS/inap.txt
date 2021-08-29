@@ -1,3 +1,4 @@
+gnld1017.siteground.eu
 ns1.am1.siteground.biz
 ns1.am10.siteground.biz
 ns1.am11.siteground.biz
@@ -705,6 +706,7 @@ ns1.giowm1309.siteground.biz
 ns1.giowm1310.siteground.biz
 ns1.giowm1311.siteground.biz
 ns1.giowm1312.siteground.biz
+ns1.giowm1313.siteground.biz
 ns1.giowm2.siteground.biz
 ns1.giowm3.siteground.biz
 ns1.giowm4.siteground.biz
@@ -2644,6 +2646,7 @@ ns2.giowm1309.siteground.biz
 ns2.giowm1310.siteground.biz
 ns2.giowm1311.siteground.biz
 ns2.giowm1312.siteground.biz
+ns2.giowm1313.siteground.biz
 ns2.giowm2.siteground.biz
 ns2.giowm3.siteground.biz
 ns2.giowm4.siteground.biz
