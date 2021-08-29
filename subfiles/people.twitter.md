@@ -7,6 +7,7 @@
 
 
 
+- I have deployed an app on playstore directly. It was never hosted on cloudflare or any other servers. Also when servers can't handle too many requests, they throw 500 error messages and won't crash easily. ([cryptogeekus](https://twitter.com/cryptogeekus/status/1432069789757816832))
 - 0/2 on drops today. First reschedule drop. Then have a shitshow of a launch that apparently sounds near sold out, yet I could never even get past the 520 cloudflare error before they decided to pull the site. Solana NFTdrops ([tradermillz](https://twitter.com/TraderMillz/status/1432015546636197888))
 - Can someone please explain it to me like I’m fucking stupid why the Cloudflare thing hasn’t been fixed? ([lynnshelbyl](https://twitter.com/LynnShelbyL/status/1431733916654874627))
 - Dude the whole thing is a scam, I heard they we going to do it again in 24 hours, and what do ya know, they are all minted already. Fucking shame ([dafaqgoingon](https://twitter.com/DafaqGoingOn/status/1431381732910059523))
