@@ -7,6 +7,7 @@
 
 
 
+- Hello! If you find you may have been blocked by Cloudflare, please try clearing your cache & cookies. If that does not help, please try using a different browser. Best Regards, LocalBitcoins ([localbitcoins](https://twitter.com/LocalBitcoins/status/1432250723614535684))
 - 404 error cloudflare blocked you On the right track? ([cosmonautc](https://twitter.com/CosmonautC/status/1432078425024520197))
 - Justo estoy aprendiendo eso esta tarde pero no lo consigo. Encuentro la IP de origen pero no puedo inyectar xss porque me da error 1003 Cloudflare. ([rickdeckard23](https://twitter.com/rickdeckard23/status/1432110863830368258))
 - CloudflareHelp is telling everyone their servers hosted by you crashed today, is this true? Seems suspicious. ([elliaivyworld](https://twitter.com/elliaivyworld/status/1431789943706238976))
