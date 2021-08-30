@@ -354,6 +354,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnikethDevadiga@twitter](https://twitter.com/AnikethDevadiga/status/1393885775305928706) | advertise |
 | [AniketR19914841@twitter](https://twitter.com/AniketR19914841/status/1384569411630026752) | advertise |
 | [Anikets98739334@twitter](https://twitter.com/Anikets98739334/status/1393038098561331200) | advertise |
+| [animalfromspace@twitter](https://twitter.com/animalfromspace/status/1432007469442772996) | advertise |
 | [AnimeAM65466760@twitter](https://twitter.com/AnimeAM65466760/status/1404816257203929088) | advertise |
 | [animeindy_com@twitter](https://twitter.com/animeindy_com/status/1391468430616797187) | advertise |
 | [Anisapondan@twitter](https://twitter.com/Anisapondan/status/1403055432973701122) | advertise |
@@ -728,6 +729,7 @@ Do not create new issue or we will close it as duplicate.
 | [behzad59870464@twitter](https://twitter.com/behzad59870464/status/1387742506230632453) | advertise |
 | [BeingAshfaque@twitter](https://twitter.com/BeingAshfaque/status/1404517154683121664) | advertise |
 | [Beingvickey1@twitter](https://twitter.com/Beingvickey1/status/1395697777737408512) | advertise |
+| [bejiitas_wrath@twitter](https://twitter.com/bejiitas_wrath/status/1432068322820980736) | advertise |
 | [Belike80356400@twitter](https://twitter.com/Belike80356400/status/1382720613421248512) | advertise |
 | [Beliver211@twitter](https://twitter.com/Beliver211/status/1380121212756520961) | advertise |
 | [BellaMayKhine29@twitter](https://twitter.com/BellaMayKhine29/status/1390363855436468224) | advertise |
@@ -1097,6 +1099,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cyb3r1no@twitter](https://twitter.com/Cyb3r1no/status/1394706481459703812) | advertise |
 | [Cyberga32484625@twitter](https://twitter.com/Cyberga32484625/status/1393421007205978117) | advertise |
 | [CyenFinch@twitter](https://twitter.com/CyenFinch/status/1394179759978934272) | advertise |
+| [CynthiaWeirr_MK@twitter](https://twitter.com/CynthiaWeirr_MK/status/1431973396359811076) | advertise |
 | [cyy_nancy@twitter](https://twitter.com/cyy_nancy/status/1393253162547482626) | advertise |
 | [CyZGaUQMPNlTV1p@twitter](https://twitter.com/CyZGaUQMPNlTV1p/status/1396484819941347336) | advertise |
 | [d7W2kx2ukyk0FhC@twitter](https://twitter.com/d7W2kx2ukyk0FhC/status/1395120949343760384) | advertise |
@@ -2068,6 +2071,7 @@ Do not create new issue or we will close it as duplicate.
 | [iamrchivn@twitter](https://twitter.com/iamrchivn/status/1398608880762908672) | advertise |
 | [Iam_Shelby07@twitter](https://twitter.com/Iam_Shelby07/status/1397996796887044096) | advertise |
 | [iam_souvkdey@twitter](https://twitter.com/iam_souvkdey/status/1389676257105747970) | advertise |
+| [iam_takagi2@twitter](https://twitter.com/iam_takagi2/status/1429834806557245443) | advertise |
 | [Iangian55082152@twitter](https://twitter.com/Iangian55082152/status/1405725196271579140) | advertise |
 | [iba4executeluvr@twitter](https://twitter.com/iba4executeluvr/status/1400376306659954694) | advertise |
 | [ibad_laskar@twitter](https://twitter.com/ibad_laskar/status/1412459869290958851) | moral (advertise) |
@@ -2967,6 +2971,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lin123He@twitter](https://twitter.com/Lin123He/status/1394868986932654080) | advertise |
 | [Lin12335892663@twitter](https://twitter.com/Lin12335892663/status/1392413770782183427) | advertise |
 | [LinCBs2@twitter](https://twitter.com/LinCBs2/status/1408086534041964545) | advertise |
+| [Lineetcom@twitter](https://twitter.com/Lineetcom/status/1432080628141289475) | advertise |
 | [LineNetizen@twitter](https://twitter.com/LineNetizen/status/1410440237751308289) | moral (advertise) |
 | [LinGyi90627876@twitter](https://twitter.com/LinGyi90627876/status/1392445960488374274) | advertise |
 | [linhhne1011@twitter](https://twitter.com/linhhne1011/status/1387590658991349760) | advertise |
@@ -5753,6 +5758,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vignesh27019944@twitter](https://twitter.com/Vignesh27019944/status/1401042149781639171) | advertise |
 | [vijayankit@twitter](https://twitter.com/vijayankit/status/1374979677970857987) | advertise |
 | [VIJAYPVijay3@twitter](https://twitter.com/VIJAYPVijay3/status/1384091966749642754) | advertise |
+| [vikartianatra@twitter](https://twitter.com/vikartianatra/status/1432041628311633932) | advertise |
 | [Vikash21323126@twitter](https://twitter.com/Vikash21323126/status/1397484619818094592) | advertise |
 | [Vikram80941153@twitter](https://twitter.com/Vikram80941153/status/1396502759730388993) | advertise |
 | [villas2@twitter](https://twitter.com/villas2/status/1411462670532943876) | moral (advertise) |
