@@ -7,6 +7,7 @@
 
 
 
+- So, I decided to block websites that use #cloudflare. I didn't block them all, but here's what it looks like right now😂 ([twann](https://fosstodon.org/@twann/106847117365180735))
 - If #privatised infrastructure gets #hacked, #managment would need to be replaced and the #infrastructure should be returned to public hands, or get broken up. Similar to how #banks collapsing or creating extreme instability should be dealt with. What do you think? #socialCost #cyberThreat #cyberSecurity #deleteCloudflare #deleteAmazon #aws #cloudflare #amazon #MITM #MitMaaS ([dsfgs](https://activism.openworlds.info/@dsfgs/106831436324329476))
 - Oh no... CSS-Tricks uses Cloudflare! ([spirit56](https://fosstodon.org/@spirit56/106831195523992630))
 - No idea who Cloudflare is picking up … the Plausible Analytics number is likely the accurate number. ([moondeer](https://mastodon.online/@moondeer/106829231085003211))
