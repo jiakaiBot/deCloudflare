@@ -7,6 +7,11 @@
 
 
 
+- I've been having a similar issue. Just a cloudflare crash error. Even the help page has the same error and this happened just after I added the BMAC Discord bot to my server. Any ideas on what's going on? ([avulcanhello](https://twitter.com/AVulcanHello/status/1432448069723987968))
+- Yup, looks rare But seriously, it's from the BoldBadgers disasted launch yesterday, we were supposed to mint NFTs instead we got to mint Cloudflare error screens and wrong link on the homepage 😆 ([___deandree](https://twitter.com/___deandree/status/1431521433767776256))
+- You don’t need Cloudflare when you use Netlify already offer what Cloudflare does, and more. If your site is not on Netlify, perhaps consider using it for your one stop solution for hosting, SSL, DDoS protection, DNS load balancing, and continuous deployments. ([edun_omatseye](https://twitter.com/edun_omatseye/status/1432330690910203910))
+- Website is under DDoS attack and cloudflare is not helping us. We are trying to ask cloudflare to do their job and stop the DDoS ([bakabt](https://twitter.com/BakaBT/status/1432298136626675713))
+- BoldBadger sale was on 5AM, and I stayed awake till 7AM. But cloudflare kept blocking me, and I wasn't able to mint any. I skipped work for nothing ([tytyty7777](https://twitter.com/tytyty7777/status/1432135569291694081))
 - Ray ID: 687020450d36d2dc Error being blocked by Cloudflare, they said contact you. ([jordanfe8](https://twitter.com/JordanFe8/status/1432412166745899008))
 - it was down for a little while due to a cloudflare error! ([glitchshift](https://twitter.com/glitchshift/status/1432401491013234689))
 - Hello! If you find you may have been blocked by Cloudflare, please try clearing your cache & cookies. If that does not help, please try using a different browser. Best Regards, LocalBitcoins ([localbitcoins](https://twitter.com/LocalBitcoins/status/1432250723614535684))
