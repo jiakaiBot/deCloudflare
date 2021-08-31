@@ -15,19 +15,47 @@
 - Many _shady_ VPN companies does not disclose their IP addresses.
 
 ```
-AirVPN
-Firefox VPN
-IVPN
-Mullvad
-NordVPN
-PrivateInternetAccess
-Proton VPN
-PureVPN
-TorGuard
-TorGuard SecureConnect
-Tunnelbear
-VPNGate
+airvpn
+blackbox
+btguard
+bulletvpn
+celonet
+cyberghost
+expressvpn
+firefox vpn
+hideme
+hidemyass
+ibvpn
+ipvanish
+ivpn
+limevpn
+mullvad
+nordvpn
+perfectprivacy
+privateinternetaccess
+privatevpn
+proton vpn
+proxpn
+purevpn
+ra4wvpn
+safervpn
+smartdnsproxy
+spyoffvpn
+surfshark
+tigervpn
+torguard
+totalvpn
 trust.zone
+tunnelbear
+vanishedvpn
+vpnac
+vpngate
+vpnht
+vpnsecure
+vpnunlimited
+vyprvpn
+windscribe
+witopia
 ```
 
 
