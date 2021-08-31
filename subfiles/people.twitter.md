@@ -7,6 +7,13 @@
 
 
 
+- fuck Cloudflare and their endless captcha's for tor users. ([uzi_ur](https://twitter.com/uzi_ur/status/1432712834744528907))
+- cloudflareでVPNかましたらリロ周回安定したな・・・。ipV6と相性悪いとは言うが、これで多少は落ち着くか。 ([papan0152](https://twitter.com/papan0152/status/1432706388262858754))
+- I think he means the ones that sold out in less than 5 mins. Got solbears drama free, stayed up till midnight for rox and aurory and got nothing but blocked from cloudflare. Yeah it’s been trash but what I’ve got has been epic. Seems like webhosting issues not blockchain issues ([based_bxtkk](https://twitter.com/based_bxtkk/status/1432830699078225920))
+- Almost certainly most of the responses had status code of 403 instead of 5xx, as cloudflare kicked in and blocked you from making requests, as you made too many of them in short time span. Also, in request headers there is info, if returned page was returned from cache or server. ([kamilo1625](https://twitter.com/kamilo1625/status/1432484995717812230))
+- cloudflare is a fucking joke. and stop yelling fudder about everything. they clearly didn't have the server capacity to even handle some links to the app stores. not to mention they decided to launch swap now too which makes no sense. have fun being blocked. ([yolzog](https://twitter.com/yolzog/status/1432177941992153089))
+- if you are wondering why you lost my business today. You can thank Cloudflare with their endless reloading of page with message "Please wait" when I tried to login. ([uzi_ur](https://twitter.com/uzi_ur/status/1432797678505644037))
+- CloudflareHelp I need your help removing a blog from your platform that has just lifted my posts and is republishing with no reference to me or where they came from. ([ciarnac](https://twitter.com/CiarnaC/status/1432710665551106049))
 - I've been having a similar issue. Just a cloudflare crash error. Even the help page has the same error and this happened just after I added the BMAC Discord bot to my server. Any ideas on what's going on? ([avulcanhello](https://twitter.com/AVulcanHello/status/1432448069723987968))
 - Yup, looks rare But seriously, it's from the BoldBadgers disasted launch yesterday, we were supposed to mint NFTs instead we got to mint Cloudflare error screens and wrong link on the homepage 😆 ([___deandree](https://twitter.com/___deandree/status/1431521433767776256))
 - You don’t need Cloudflare when you use Netlify already offer what Cloudflare does, and more. If your site is not on Netlify, perhaps consider using it for your one stop solution for hosting, SSL, DDoS protection, DNS load balancing, and continuous deployments. ([edun_omatseye](https://twitter.com/edun_omatseye/status/1432330690910203910))
