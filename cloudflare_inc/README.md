@@ -9,6 +9,7 @@ Kontraŭ-homa gvatada & cenzura kompanio.
 | ![](../image/blockedbymatthewprince2.jpg) | ![](../image/blockedbymatthewprince.jpg) | ![](../image/blockedbymatthewprince3.jpg) |
 | ![](../image/blockedbyjustin.jpg) | ![](../image/twitterban_Patrick_Donahue.jpg) | ![](../image/twitterban_ErwinVanDerKoogh.jpg) |
 | ![](../image/twitterban_ErwinVanDerKoogh2.jpg) | ![](../image/twitterban_John_Graham-Cumming.jpg) | ![](../image/twitterban_John_Graham-Cumming2.jpg) |
+| ![](../image/blockedbymatthewprince4.jpg) | ![](../image/twitter_cloudflare_hide_reply.jpg) | - |
 
 
 Bonvolu vidi [INSTRUCTION.md](../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
