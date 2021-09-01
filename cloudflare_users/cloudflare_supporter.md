@@ -1516,6 +1516,7 @@ Do not create new issue or we will close it as duplicate.
 | [Freesty92893100@twitter](https://twitter.com/Freesty92893100/status/1398106800356937731) | advertise |
 | [Frhan67_@twitter](https://twitter.com/Frhan67_/status/1381961620218277890) | advertise |
 | [friesdan@twitter](https://twitter.com/friesdan/status/1411038385263714304) | moral (advertise) |
+| [frshzrnmln@twitter](https://twitter.com/frshzrnmln/status/1432737386945933319) | advertise |
 | [FuckThong8@twitter](https://twitter.com/FuckThong8/status/1389450074309099521) | advertise |
 | [Fullmoo48883890@twitter](https://twitter.com/Fullmoo48883890/status/1392352133417078793) | advertise |
 | [fullOspace@twitter](https://twitter.com/fullOspace/status/1378241319634493443) | advertise |
