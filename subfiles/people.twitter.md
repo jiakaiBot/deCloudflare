@@ -7,6 +7,10 @@
 
 
 
+- Separate bug report: I tried to use a Tailscale private IP for an Apollo instance and Apollo Studio threw up. (CloudFlare actually blocked the loading of Studio due to the presence of a private IP!) ([dweekly](https://twitter.com/dweekly/status/1432940735909801988))
+- To end this off as it were: - pointed out meta-tags, which is a nicer, cleaner and more efficient method, but parallel processing tripped Cloudflare's DOS mitigation and IP banned me, lol. I'll test more lightly another day. Apologies :D ([atomicnicos](https://twitter.com/AtomicNicos/status/1432828554295840776))
+- CloudflareHelp getting error 520 from cloudflare. Site is down due to cloudflare. Please assist ([vikrantdhumale](https://twitter.com/Vikrantdhumale/status/1433116564962770948))
+- CloudflareHelp Intel, Microsoft, Windows, Samsung and others ALL give quicker support than Cloudflare. ([watfordlondon](https://twitter.com/WatfordLondon/status/1433130744180785158))
 - fuck Cloudflare and their endless captcha's for tor users. ([uzi_ur](https://twitter.com/uzi_ur/status/1432712834744528907))
 - cloudflareでVPNかましたらリロ周回安定したな・・・。ipV6と相性悪いとは言うが、これで多少は落ち着くか。 ([papan0152](https://twitter.com/papan0152/status/1432706388262858754))
 - I think he means the ones that sold out in less than 5 mins. Got solbears drama free, stayed up till midnight for rox and aurory and got nothing but blocked from cloudflare. Yeah it’s been trash but what I’ve got has been epic. Seems like webhosting issues not blockchain issues ([based_bxtkk](https://twitter.com/based_bxtkk/status/1432830699078225920))
