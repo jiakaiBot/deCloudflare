@@ -7,6 +7,7 @@
 
 
 
+- Can't access the article. Error 1020 Ray ID: 688912f16f8421e2 • 2021-09-02 19:16:39 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 688912f16f8421e2•Your IP: 193.36.224.172 • ([inblackhawks](https://twitter.com/InBlackhawks/status/1433509526750257153))
 - Hello! If you find you may have been blocked by Cloudflare, please try clearing your cache & cookies. If that does not help, please try using a different browser. Best Regards, LocalBitcoins ([localbitcoins](https://twitter.com/LocalBitcoins/status/1433327781644050436))
 - I'm trying to use Let's Encrypt on Digital Ocean with Cloudfare via Certbot --nginx. Cert is created, but I'm getting a 525 error on Cloudflare. Anyone has experience on making this work? Would love some help. ([zellwk](https://twitter.com/zellwk/status/1433267368860389377))
 - Separate bug report: I tried to use a Tailscale private IP for an Apollo instance and Apollo Studio threw up. (CloudFlare actually blocked the loading of Studio due to the presence of a private IP!) ([dweekly](https://twitter.com/dweekly/status/1432940735909801988))
