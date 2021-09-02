@@ -7,6 +7,9 @@
 
 
 
+- If you're offering an LNURL endpoint, i.e., you host a Lightning Address service, please make sure that your service is reachable via Tor to accept payments for everyone in the Lightning Network! I heard that Cloudflare proxies doesn't like Tor, so ditch them if you use them. ([calllllllllle](https://twitter.com/calllllllllle/status/1433357781419974656))
+- This might not be Cloudflare, this might be the owner of the site itself being overzealous. That is how I read the error message anyway... Lots of admins think it is their job to have opinions about cipher suites. A lot of them are wrong. ([herrabre](https://twitter.com/HerraBRE/status/1433373829481500674))
+- I'm using Firefox 90, released less than two months ago, and cloudflare just flat out refuses. Who the fuck is being served by this? ([beeronice](https://twitter.com/beeronice/status/1433367948736012289))
 - Can't access the article. Error 1020 Ray ID: 688912f16f8421e2 • 2021-09-02 19:16:39 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 688912f16f8421e2•Your IP: 193.36.224.172 • ([inblackhawks](https://twitter.com/InBlackhawks/status/1433509526750257153))
 - Hello! If you find you may have been blocked by Cloudflare, please try clearing your cache & cookies. If that does not help, please try using a different browser. Best Regards, LocalBitcoins ([localbitcoins](https://twitter.com/LocalBitcoins/status/1433327781644050436))
 - I'm trying to use Let's Encrypt on Digital Ocean with Cloudfare via Certbot --nginx. Cert is created, but I'm getting a 525 error on Cloudflare. Anyone has experience on making this work? Would love some help. ([zellwk](https://twitter.com/zellwk/status/1433267368860389377))
