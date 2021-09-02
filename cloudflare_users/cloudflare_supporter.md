@@ -360,6 +360,7 @@ Do not create new issue or we will close it as duplicate.
 | [Anisapondan@twitter](https://twitter.com/Anisapondan/status/1403055432973701122) | advertise |
 | [AnjuNay08054863@twitter](https://twitter.com/AnjuNay08054863/status/1389219256353509379) | advertise |
 | [AnKhnh70622558@twitter](https://twitter.com/AnKhnh70622558/status/1400381605508640768) | advertise |
+| [anldrms@twitter](https://twitter.com/anldrms/status/1433171383429763075) | advertise |
 | [anmakecoin@twitter](https://twitter.com/anmakecoin/status/1394305496354488320) | advertise |
 | [Anmoldeep1509@twitter](https://twitter.com/Anmoldeep1509/status/1391494005494489090) | advertise |
 | [AnmolSi50957466@twitter](https://twitter.com/AnmolSi50957466/status/1400006594683981824) | advertise |
@@ -1480,6 +1481,7 @@ Do not create new issue or we will close it as duplicate.
 | [Fazian47524484@twitter](https://twitter.com/Fazian47524484/status/1400881570408394753) | advertise |
 | [FbworlNews@twitter](https://twitter.com/FbworlNews/status/1401094204743372800) | advertise |
 | [Fearles81577944@twitter](https://twitter.com/Fearles81577944/status/1393607641335668737) | advertise |
+| [fellow_doge@twitter](https://twitter.com/fellow_doge/status/1433053978875600900) | advertise |
 | [fening12@twitter](https://twitter.com/fening12/status/1402708446680535042) | advertise |
 | [Ferona44304373@twitter](https://twitter.com/Ferona44304373/status/1394530832367370240) | advertise |
 | [fFqiA9FWfwFWC05@twitter](https://twitter.com/fFqiA9FWfwFWC05/status/1404315971750227969) | advertise |
