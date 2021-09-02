@@ -7,6 +7,7 @@
 
 
 
+- I'm trying to use Let's Encrypt on Digital Ocean with Cloudfare via Certbot --nginx. Cert is created, but I'm getting a 525 error on Cloudflare. Anyone has experience on making this work? Would love some help. ([zellwk](https://twitter.com/zellwk/status/1433267368860389377))
 - Separate bug report: I tried to use a Tailscale private IP for an Apollo instance and Apollo Studio threw up. (CloudFlare actually blocked the loading of Studio due to the presence of a private IP!) ([dweekly](https://twitter.com/dweekly/status/1432940735909801988))
 - To end this off as it were: - pointed out meta-tags, which is a nicer, cleaner and more efficient method, but parallel processing tripped Cloudflare's DOS mitigation and IP banned me, lol. I'll test more lightly another day. Apologies :D ([atomicnicos](https://twitter.com/AtomicNicos/status/1432828554295840776))
 - CloudflareHelp getting error 520 from cloudflare. Site is down due to cloudflare. Please assist ([vikrantdhumale](https://twitter.com/Vikrantdhumale/status/1433116564962770948))
