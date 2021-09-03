@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare is irritating me now 🙁 At first, I used their DNS service to reduce the impact of DDOS service, it did that well. But, rarely in 2-3 months, their redirects don't work and my site visitors get a 520 Error 😵‍💫 There is no issue with hosting, CloudflareHelp 😑 ([99promitsaha](https://twitter.com/99promitsaha/status/1433634991326613505))
 - it was down for a little while due to a cloudflare error! ([whiteforests](https://twitter.com/whiteforests/status/1432401491013234689))
 - If you're offering an LNURL endpoint, i.e., you host a Lightning Address service, please make sure that your service is reachable via Tor to accept payments for everyone in the Lightning Network! I heard that Cloudflare proxies doesn't like Tor, so ditch them if you use them. ([calllllllllle](https://twitter.com/calllllllllle/status/1433357781419974656))
 - This might not be Cloudflare, this might be the owner of the site itself being overzealous. That is how I read the error message anyway... Lots of admins think it is their job to have opinions about cipher suites. A lot of them are wrong. ([herrabre](https://twitter.com/HerraBRE/status/1433373829481500674))
