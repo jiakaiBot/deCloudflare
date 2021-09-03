@@ -7,6 +7,10 @@
 
 
 
+- Wish we could make Cloudflare to not block Tor exit nodes. What kind of behavior is that?! Cyber discrimination. ([calllllllllle](https://twitter.com/calllllllllle/status/1433719346887643137))
+- You support one of the largest hate sites on the internet that harbors pedophiles, racist and hate speech ~ Cc: ([thegameisovesa](https://twitter.com/thegameisovesa/status/1433763980611313669))
+- So apparently psychopathic, vaush clone demonmama did a stream today crying about kiwifarms and told people to contact cloudflare to remove them and has deleted the stream lmao what a massive pussy ([lvaush](https://twitter.com/LVaush/status/1414851386035032072))
+- Never censor hate speech again What in the living fuck????? ([mendinso](https://twitter.com/Mendinso/status/1409578429889101830))
 - It returns 1020 error, which indicates that Cloudflare firewall rule is violated. It seems that anti-DDoS protection also blocks their API access. ([coinwink](https://twitter.com/Coinwink/status/1432420749361418246))
 - CloudflareHelp no one is assisting. Please assist ([vikrantdhumale](https://twitter.com/Vikrantdhumale/status/1433439335731236866))
 - I have submitted a report and hope you will be able to stop this from happening. ([ciarnac](https://twitter.com/CiarnaC/status/1432722674401296395))
