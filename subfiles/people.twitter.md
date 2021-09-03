@@ -7,6 +7,7 @@
 
 
 
+- It returns 1020 error, which indicates that Cloudflare firewall rule is violated. It seems that anti-DDoS protection also blocks their API access. ([coinwink](https://twitter.com/Coinwink/status/1432420749361418246))
 - CloudflareHelp no one is assisting. Please assist ([vikrantdhumale](https://twitter.com/Vikrantdhumale/status/1433439335731236866))
 - I have submitted a report and hope you will be able to stop this from happening. ([ciarnac](https://twitter.com/CiarnaC/status/1432722674401296395))
 - CloudflareHelp having a weird issue, when I use you (1.1.1.1) as primary DNS Spotify is slow as shit. When I switch to Google DNS the issues are resolved? What would be a nice approach to troubleshoot this? ([vvandaal](https://twitter.com/vvandaal/status/1432664601368440833))
