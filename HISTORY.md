@@ -5,6 +5,9 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-09-02: [Network Performance Issues in IAD](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/348xy9nbhvc4)
+- 2021-09-02: [Issues in Vancouver Data Center](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w06hyzyv89z6)
+- 2021-09-02: [Increase of 1029 Error Code](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/06736yx445l4)
 - 2021-08-28: [Increased number of 5xx errors in Taipei](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5h89gpdbjtqm)
 - 2021-08-27: [Network Performance Issues in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2lz8r5cwyg37)
 - 2021-08-24: [Increased HTTP 5xx Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bgfwxcrydqq3)
