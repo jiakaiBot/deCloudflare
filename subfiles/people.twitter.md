@@ -7,6 +7,10 @@
 
 
 
+- Investigate why you support …racism, pedophilia and hate speech! All money is not good money. ([thegameisovesa](https://twitter.com/thegameisovesa/status/1433764142729605122))
+- it takes activating tor to notice that every single page on the internet uses cloudflare ([ainhoa1fan](https://twitter.com/Ainhoa1Fan/status/1434161357939695618))
+- Please note that some anti-DDoS measures like Cloudflare block incoming requests from Tor. Could cause problems with LNURL/LNAddr ([calllllllllle](https://twitter.com/calllllllllle/status/1433789536283279362))
+- why is it the default public IP is picking up the IPv6. It is band in cloudflare. arghhh must use VPN always. ([jackieohyeah](https://twitter.com/JackieOhYeah/status/1433705007036047365))
 - Wish we could make Cloudflare to not block Tor exit nodes. What kind of behavior is that?! Cyber discrimination. ([calllllllllle](https://twitter.com/calllllllllle/status/1433719346887643137))
 - You support one of the largest hate sites on the internet that harbors pedophiles, racist and hate speech ~ Cc: ([thegameisovesa](https://twitter.com/thegameisovesa/status/1433763980611313669))
 - So apparently psychopathic, vaush clone demonmama did a stream today crying about kiwifarms and told people to contact cloudflare to remove them and has deleted the stream lmao what a massive pussy ([lvaush](https://twitter.com/LVaush/status/1414851386035032072))
