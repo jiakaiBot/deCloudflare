@@ -7,6 +7,10 @@
 
 
 
+- Thinking about leaving Cloudflare. How easy is it to find the ISP of someone using CF anyway? ([verita84](https://rage.lol/objects/4b227507-dce0-4b6e-9922-12742360c971))
+- it takes activating tor to notice that every single page on the internet uses cloudflare ([dendy](https://awoo.fai.su/objects/329b96da-4938-4b3c-8265-aebc62a7b61a))
+- We are cloudflare-free now @xman103 @xman452 ([verita84](https://rage.lol/objects/07a7a4e0-3ea2-4480-aa57-50d859ee0cc5))
+- https://web.archive.org/web/https://dl.acm.org/doi/pdf/10.1145/3266291 #greatcloudwall - free link above ([jeffcliff](https://shitposter.club/objects/fd8633cd-9011-47e8-b5e1-1b31b903a02a))
 - Watch #ElSalvador adopt #bitcoin via and wallet, that appears to have been produced in the #USA by #BillGates' and #Microsoft's #LightningLabs just makes us feel somewhat uneasy. Is anyone else queasy? If we lived in ElSalvador we'd move our $30 worth of the #cryptocurrency off the #ChivoWallet at the very first opportunity. We hope this is possible. (not finance advice) #notYourKeysNotYourBitcoin #bitcoinExchanges #cloudflare #cyber #surveillance #useI2P #useTor ([dsfgs](https://activism.openworlds.info/@dsfgs/106859874425164196))
 - Watching #ElSalvador adopt #bitcoin via a wallet that appears to have been produced in the #USA by #BillGates' and #Microsoft's #LightningLabs just makes us feel somewhat uneasy. Is anyone else queasy? If we lived in ElSalvador we'd move our $30 worth of the #cryptocurrency off the #ChivoWallet at the very first opportunity. We hope this is possible. (not finance advice) #notYourKeysNotYourBitcoin #bitcoinExchanges #cloudflare #cyber #surveillance #useI2P #useTor ([dsfgs](https://activism.openworlds.info/@dsfgs/106859884996399581))
 - Cloudflare are not just a Man-in-the Middle Attack as a Service (#MitMaaS)… They are a Central Point of MitMaaS Failure. ([dsfgs](https://activism.openworlds.info/@dsfgs/106851413474491758))
