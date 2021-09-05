@@ -3491,6 +3491,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mohan77793395@twitter](https://twitter.com/Mohan77793395/status/1392786277183803396) | advertise |
 | [mohdsam47534112@twitter](https://twitter.com/mohdsam47534112/status/1377652969630433284) | advertise |
 | [MohdSoh63651909@twitter](https://twitter.com/MohdSoh63651909/status/1395901137224536065) | advertise |
+| [mohhamedsanosey@twitter](https://twitter.com/mohhamedsanosey/status/1434116716469030921) | advertise |
 | [MohMoh08333940@twitter](https://twitter.com/MohMoh08333940/status/1391065381360574468) | advertise |
 | [mohsin84638488@twitter](https://twitter.com/mohsin84638488/status/1390823225731387398) | advertise |
 | [Moin38890593@twitter](https://twitter.com/Moin38890593/status/1396688841537253378) | advertise |
@@ -5371,6 +5372,7 @@ Do not create new issue or we will close it as duplicate.
 | [They03464315@twitter](https://twitter.com/They03464315/status/1399744810345324544) | advertise |
 | [the_ayo_ifedapo@twitter](https://twitter.com/the_ayo_ifedapo/status/1402141427564519424) | advertise |
 | [The_Krishna__@twitter](https://twitter.com/The_Krishna__/status/1395310239184949250) | advertise |
+| [the_rhap5ody@twitter](https://twitter.com/the_rhap5ody/status/1434141931500568576) | advertise |
 | [The_Web_Pro@twitter](https://twitter.com/The_Web_Pro/status/1430360803530747906) | advertise |
 | [Thi75786207@twitter](https://twitter.com/Thi75786207/status/1394687203301724161) | advertise |
 | [ThiBNgc1@twitter](https://twitter.com/ThiBNgc1/status/1402423485163442178) | advertise |
