@@ -111,6 +111,7 @@ a1-198.akam.net
 a1-199.akam.net
 a1-2.akam.net
 a1-20.akam.net
+a1-201.akam.net
 a1-202.akam.net
 a1-203.akam.net
 a1-204.akam.net
@@ -248,6 +249,7 @@ a1-96.akam.net
 a1-97.akam.net
 a1-98.akam.net
 a1-99.akam.net
+a1.160.akam.net
 a10-64.akam.net
 a10-65.akam.net
 a10-66.akam.net
