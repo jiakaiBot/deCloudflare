@@ -1674,6 +1674,7 @@ Do not create new issue or we will close it as duplicate.
 | [halykun@twitter](https://twitter.com/halykun/status/1400355687041933314) | advertise |
 | [HamdanMatNor18@twitter](https://twitter.com/HamdanMatNor18/status/1393666177692360705) | advertise |
 | [Hami_HamaSaed@twitter](https://twitter.com/Hami_HamaSaed/status/1376832495468081156) | advertise |
+| [HamJin123@twitter](https://twitter.com/HamJin123/status/1434402038339624962) | advertise |
 | [Hammad9860@twitter](https://twitter.com/Hammad9860/status/1380102081596559360) | advertise |
 | [hana66669@twitter](https://twitter.com/hana66669/status/1379180701921148929) | advertise |
 | [haNguyn90737580@twitter](https://twitter.com/haNguyn90737580/status/1378411206134796289) | advertise |
@@ -1768,6 +1769,7 @@ Do not create new issue or we will close it as duplicate.
 | [Heinzaw61930006@twitter](https://twitter.com/Heinzaw61930006/status/1401220832207147010) | advertise |
 | [HeinZaw62666182@twitter](https://twitter.com/HeinZaw62666182/status/1395115005196914691) | advertise |
 | [HellishDani@twitter](https://twitter.com/HellishDani/status/1377383208828903427) | advertise |
+| [hellodk01@twitter](https://twitter.com/hellodk01/status/1434560473626730498) | advertise |
 | [HEMANTH74907800@twitter](https://twitter.com/HEMANTH74907800/status/1393162174189604870) | advertise |
 | [HEMANTN09968572@twitter](https://twitter.com/HEMANTN09968572/status/1396999578172284928) | advertise |
 | [hendrouu_@twitter](https://twitter.com/hendrouu_/status/1398767068497862657) | advertise |
