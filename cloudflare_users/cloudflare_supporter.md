@@ -2309,6 +2309,7 @@ Do not create new issue or we will close it as duplicate.
 | [Johnson26816196@twitter](https://twitter.com/Johnson26816196/status/1397785719502827520) | advertise |
 | [JohnSto93368906@twitter](https://twitter.com/JohnSto93368906/status/1394195513751183360) | advertise |
 | [johnymyanmar@twitter](https://twitter.com/johnymyanmar/status/1379032540548227077) | advertise |
+| [johnzoet@twitter](https://twitter.com/johnzoet/status/1434773645113454599) | advertise |
 | [JOJO45155090@twitter](https://twitter.com/JOJO45155090/status/1397488359216459779) | advertise |
 | [JOKER1571988@twitter](https://twitter.com/JOKER1571988/status/1393477206425407488) | advertise |
 | [Joker79019437@twitter](https://twitter.com/Joker79019437/status/1392657725725700101) | advertise |
@@ -3317,6 +3318,7 @@ Do not create new issue or we will close it as duplicate.
 | [MhanZaw2@twitter](https://twitter.com/MhanZaw2/status/1391188415077515264) | advertise |
 | [MhizRalz@twitter](https://twitter.com/MhizRalz/status/1401142653413171201) | advertise |
 | [mhmdagha6@twitter](https://twitter.com/mhmdagha6/status/1391303370112110593) | advertise |
+| [mhmmuneef@twitter](https://twitter.com/mhmmuneef/status/1434865010694569987) | advertise |
 | [mhns1824@twitter](https://twitter.com/mhns1824/status/1391902191628079107) | advertise |
 | [Mi60252365@twitter](https://twitter.com/Mi60252365/status/1391274283339423744) | advertise |
 | [Miasng2012@twitter](https://twitter.com/Miasng2012/status/1398618997755498496) | advertise |
@@ -5657,6 +5659,7 @@ Do not create new issue or we will close it as duplicate.
 | [TurnKeyMSP@twitter](https://twitter.com/TurnKeyMSP/status/1402797639482187776) | advertise |
 | [Tusayssy456@twitter](https://twitter.com/Tusayssy456/status/1403396450986336262) | advertise |
 | [Tushar_Kapila@twitter](https://twitter.com/Tushar_Kapila/status/1426600905642631175) | advertise |
+| [tuyennguyen2906@twitter](https://twitter.com/tuyennguyen2906/status/1434738541506924547) | advertise |
 | [TuynNgu65141795@twitter](https://twitter.com/TuynNgu65141795/status/1399803170520371204) | advertise |
 | [twaltar13@twitter](https://twitter.com/twaltar13/status/1394881598194024449) | advertise |
 | [TwalTar82309915@twitter](https://twitter.com/TwalTar82309915/status/1393447482672046085) | advertise |
