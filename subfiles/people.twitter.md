@@ -7,6 +7,14 @@
 
 
 
+- I can't get on your website at the moment, I keep seeing a Cloudflare 522 error page ([jdbevan](https://twitter.com/jdbevan/status/1435319815841931272))
+- And oh look the site linked in the tweet is returning a cloudflare error how nice ([riverteiglin1](https://twitter.com/riverteiglin1/status/1435053159416619009))
+- It may just be overloaded, if you're getting a Cloudflare error ([zoeyorkwrites](https://twitter.com/ZoeYorkWrites/status/1434254091564331010))
+- Amazing how a ‘privacy project’ doesn’t think to make their website SSL. Whitepaper link hits a cloudflare 524 error rather than loading the info you’re asking for. JFC 🤷‍♂️ ([shitcorns](https://twitter.com/shitcorns/status/1434180372082962434))
+- Just wen to look at your site and you've a Cloudflare DNS error ([respeak_uk](https://twitter.com/respeak_uk/status/1434141436975493124))
+- hi. I've subscribed to warp+ unlimited. Supposedly, I'm getting a better fast internet. But why does it became otherwise? The connection became worst ([ezzthedon](https://twitter.com/ezzthedon/status/1434169567341735938))
+- Dear Cloudflare : I am NOT a robot so stop treating me like one. Yes, I know is a bunch of 🤬 but that's the company not the customers that have no other options. ([teddyv827](https://twitter.com/TeddyV827/status/1435072955445350405))
+- Cloudflare please could I ask if you are blocking any websites for sky broadband in the WS11 postcode area of Cannock Staffordshire by any chance? ([enzostafford113](https://twitter.com/enzostafford113/status/1434560588412293131))
 - Дайте публичност на фиаското с ел. преброяване, . През нощта като се е броил беше ОК, сега е абсолютно неизползваем. Cloudflare вече дава и host error. Колко милиона са отишли за това? Недопустимо. ([bgdaemon](https://twitter.com/BGDaemon/status/1435154473513635841))
 - 1. Untuk akses reddit, vimeo, dan bbrp kali koneksi biznet malah lebih lancar pake vpn 2. Dari grup fb 3. Cloudflare 1.1.1.1/WARP. Bisa gratis dan bayar cuma 14k/bulan bisa share account jg ([antitimun](https://twitter.com/antitimun/status/1434468751278149633))
 - Investigate why you support …racism, pedophilia and hate speech! All money is not good money. ([thegameisovesa](https://twitter.com/thegameisovesa/status/1433764142729605122))
