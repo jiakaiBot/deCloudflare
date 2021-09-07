@@ -7,6 +7,7 @@
 
 
 
+- Дайте публичност на фиаското с ел. преброяване, . През нощта като се е броил беше ОК, сега е абсолютно неизползваем. Cloudflare вече дава и host error. Колко милиона са отишли за това? Недопустимо. ([bgdaemon](https://twitter.com/BGDaemon/status/1435154473513635841))
 - 1. Untuk akses reddit, vimeo, dan bbrp kali koneksi biznet malah lebih lancar pake vpn 2. Dari grup fb 3. Cloudflare 1.1.1.1/WARP. Bisa gratis dan bayar cuma 14k/bulan bisa share account jg ([antitimun](https://twitter.com/antitimun/status/1434468751278149633))
 - Investigate why you support …racism, pedophilia and hate speech! All money is not good money. ([thegameisovesa](https://twitter.com/thegameisovesa/status/1433764142729605122))
 - it takes activating tor to notice that every single page on the internet uses cloudflare ([ainhoa1fan](https://twitter.com/Ainhoa1Fan/status/1434161357939695618))
