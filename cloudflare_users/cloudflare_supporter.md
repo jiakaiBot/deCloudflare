@@ -1593,6 +1593,7 @@ Do not create new issue or we will close it as duplicate.
 | [GLsaisai@twitter](https://twitter.com/GLsaisai/status/1394137969024401410) | advertise |
 | [GnaneswarM2@twitter](https://twitter.com/GnaneswarM2/status/1387579999209725956) | advertise |
 | [GnaneswarNaidu3@twitter](https://twitter.com/GnaneswarNaidu3/status/1397087799518449669) | advertise |
+| [go4webdev@twitter](https://twitter.com/go4webdev/status/1435122836037849095) | advertise |
 | [Gocome4@twitter](https://twitter.com/Gocome4/status/1383405538411614214) | advertise |
 | [godjezus1469@twitter](https://twitter.com/godjezus1469/status/1404302568566657024) | advertise |
 | [GodOfOwls@twitter](https://twitter.com/GodOfOwls/status/1376620972552417282) | advertise |
@@ -1871,6 +1872,7 @@ Do not create new issue or we will close it as duplicate.
 | [HoangTu16363707@twitter](https://twitter.com/HoangTu16363707/status/1401776708282306560) | advertise |
 | [hoangvyne@twitter](https://twitter.com/hoangvyne/status/1398588025840357383) | advertise |
 | [hoang_cong97@twitter](https://twitter.com/hoang_cong97/status/1404311923965841414) | advertise |
+| [hoang_van_tan@twitter](https://twitter.com/hoang_van_tan/status/1435097973856235528) | advertise |
 | [hoanmai12@twitter](https://twitter.com/hoanmai12/status/1412886519476408320) | moral (advertise) |
 | [HocineKing11@twitter](https://twitter.com/HocineKing11/status/1381610773919760385) | advertise |
 | [Hoesmakemecry69@twitter](https://twitter.com/Hoesmakemecry69/status/1400413921446563844) | advertise |
@@ -3950,6 +3952,7 @@ Do not create new issue or we will close it as duplicate.
 | [NilarSo52519800@twitter](https://twitter.com/NilarSo52519800/status/1394584973143851009) | advertise |
 | [nima_jalilzadeh@twitter](https://twitter.com/nima_jalilzadeh/status/1383908849791340555) | advertise |
 | [Nimesh04922409@twitter](https://twitter.com/Nimesh04922409/status/1401428764907642883) | advertise |
+| [nimmneun@twitter](https://twitter.com/nimmneun/status/1435175570288087048) | advertise |
 | [Nimooo22663652@twitter](https://twitter.com/Nimooo22663652/status/1383878514911322115) | advertise |
 | [NiNiWinSwe1@twitter](https://twitter.com/NiNiWinSwe1/status/1381950121617682433) | advertise |
 | [Ninja87682819@twitter](https://twitter.com/Ninja87682819/status/1402986987829665794) | advertise |
