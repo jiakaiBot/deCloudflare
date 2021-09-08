@@ -5,6 +5,8 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-09-08: [Performance issue with public resolver 1.1.1.1 in San Jose, CA and Newark, NJ](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fw6dsckcb9cr)
+- 2021-09-07: [Network Performance Issues in San Jose, United States](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5fcyf35r5tyv)
 - 2021-09-02: [Network Performance Issues in IAD](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/348xy9nbhvc4)
 - 2021-09-02: [Issues in Vancouver Data Center](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w06hyzyv89z6)
 - 2021-09-02: [Increase of 1029 Error Code](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/06736yx445l4)
