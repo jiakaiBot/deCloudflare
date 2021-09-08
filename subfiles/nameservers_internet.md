@@ -2070,3 +2070,4 @@ Below is top 1,000 domains used for nameservers.
 - Cloudflare ranked 3rd in the list.
 - Amazon AWS is using different domains for their customers. If we sum them up Amazon will rank 8th. (1.83%)
 - Only 0.32% of domain owners are using their domain for authoritative name server.
+
