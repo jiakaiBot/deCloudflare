@@ -866,6 +866,7 @@ Do not create new issue or we will close it as duplicate.
 | [BrandynCoder@twitter](https://twitter.com/BrandynCoder/status/1397638007931510784) | advertise |
 | [Brangau82455780@twitter](https://twitter.com/Brangau82455780/status/1397565904204877825) | advertise |
 | [Braumy77@twitter](https://twitter.com/Braumy77/status/1406588080098889734) | advertise |
+| [brendan8c@twitter](https://twitter.com/brendan8c/status/1435666779188174850) | advertise |
 | [BrianAlaway@twitter](https://twitter.com/BrianAlaway/status/1411048803336138754) | moral (advertise) |
 | [bright_wyne@twitter](https://twitter.com/bright_wyne/status/1391849321524436992) | advertise |
 | [BrillanteAndrei@twitter](https://twitter.com/BrillanteAndrei/status/1386016310790873088) | advertise |
@@ -3818,6 +3819,7 @@ Do not create new issue or we will close it as duplicate.
 | [NerdClump@twitter](https://twitter.com/NerdClump/status/1385680403738947585) | advertise |
 | [NerdJunction@twitter](https://twitter.com/NerdJunction/status/1379503700805361668) | advertise |
 | [Net89M@twitter](https://twitter.com/Net89M/status/1389576494750392322) | advertise |
+| [netwizsolutions@twitter](https://twitter.com/netwizsolutions/status/1435732778264453125) | advertise |
 | [NetworkThreats@twitter](https://twitter.com/NetworkThreats/status/1384218165878530052) | advertise |
 | [Never87346438@twitter](https://twitter.com/Never87346438/status/1392124512888496128) | advertise |
 | [NeverGi40238045@twitter](https://twitter.com/NeverGi40238045/status/1390975560411586560) | advertise |
