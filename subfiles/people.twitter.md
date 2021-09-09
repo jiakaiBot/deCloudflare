@@ -7,6 +7,10 @@
 
 
 
+- Try going there, the image is what I got. Like it's got a redirect? I know Vanwatech is their "CloudFlare" equivalent. So it's like when CouldFlare is blocking a site, I think? Might be something else happening, not sure. But it's unreachable, at least for me. ([teethliberty](https://twitter.com/TeethLiberty/status/1434816539920830465))
+- Seeing this as well, tricky for people because Cloudflare’s error message shows up but this is on ([chase_observes](https://twitter.com/Chase_Observes/status/1435674597567782917))
+- なんかcloudflareのcaptchaが導入されてるサイトで「One more step」の無限ループでアクセスできない現象が発生してる 頭おかしなるで ([nnn1590](https://twitter.com/nnn1590/status/1435600334655606796))
+- Fuck kucoin and fuck cloudflare. If you can't handle peak loads, you have no business running an exchange ([thrakazog](https://twitter.com/thrakazog/status/1435279972017393665))
 - I can't get on your website at the moment, I keep seeing a Cloudflare 522 error page ([jdbevan](https://twitter.com/jdbevan/status/1435319815841931272))
 - And oh look the site linked in the tweet is returning a cloudflare error how nice ([riverteiglin1](https://twitter.com/riverteiglin1/status/1435053159416619009))
 - It may just be overloaded, if you're getting a Cloudflare error ([zoeyorkwrites](https://twitter.com/ZoeYorkWrites/status/1434254091564331010))
