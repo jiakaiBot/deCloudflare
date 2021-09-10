@@ -7,6 +7,10 @@
 
 
 
+- every time I visit the website I'm blocked by cloudflare (error 1020). Tried different browsers already. Can you assist? ([smsuurmeijer](https://twitter.com/SMSuurmeijer/status/1436088109494583300))
+- Introduced to Anja's 10wk challenge this morning access to the course is barred Error 1014 Ray ID: 68a6598f39b265d1 •2021-09-06 08:32:58 UTC CNAME Cross-User Banned The host is configured as a CNAME across accounts on Cloudflare, is prohibited by security policy ([stephensbubble1](https://twitter.com/Stephensbubble1/status/1434798256731607045))
+- 1er lien sans espace "Our website is currently undergoing maintenance and will be back online shortly ! Gateway time-out The web server reported a gateway time-out error Ray ID: 68bffdcc0ed93328 Your IP address: 93.23.17.103 Error reference number: 504 Cloudflare Location: Paris" ([marilynechenuet](https://twitter.com/MarilyneChenuet/status/1435925100092612609))
+- oh is this why i cant get onto your site right now? cause of the ddos attacks? im gettin the cloudflare 520 error :o ([kariishere](https://twitter.com/KariIsHere/status/1435747461394358274))
 - Try going there, the image is what I got. Like it's got a redirect? I know Vanwatech is their "CloudFlare" equivalent. So it's like when CouldFlare is blocking a site, I think? Might be something else happening, not sure. But it's unreachable, at least for me. ([teethliberty](https://twitter.com/TeethLiberty/status/1434816539920830465))
 - Seeing this as well, tricky for people because Cloudflare’s error message shows up but this is on ([chase_observes](https://twitter.com/Chase_Observes/status/1435674597567782917))
 - なんかcloudflareのcaptchaが導入されてるサイトで「One more step」の無限ループでアクセスできない現象が発生してる 頭おかしなるで ([nnn1590](https://twitter.com/nnn1590/status/1435600334655606796))
