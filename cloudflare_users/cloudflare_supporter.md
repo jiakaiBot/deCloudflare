@@ -865,9 +865,11 @@ Do not create new issue or we will close it as duplicate.
 | [bram0511@twitter](https://twitter.com/bram0511/status/1418608038819233793) | advertise |
 | [BrandynCoder@twitter](https://twitter.com/BrandynCoder/status/1397638007931510784) | advertise |
 | [Brangau82455780@twitter](https://twitter.com/Brangau82455780/status/1397565904204877825) | advertise |
+| [BraudinLaya@twitter](https://twitter.com/BraudinLaya/status/1435781941845008393) | advertise |
 | [Braumy77@twitter](https://twitter.com/Braumy77/status/1406588080098889734) | advertise |
 | [brendan8c@twitter](https://twitter.com/brendan8c/status/1435666779188174850) | advertise |
 | [BrianAlaway@twitter](https://twitter.com/BrianAlaway/status/1411048803336138754) | moral (advertise) |
+| [BrightonHoney@twitter](https://twitter.com/BrightonHoney/status/1436108216656670724) | advertise |
 | [bright_wyne@twitter](https://twitter.com/bright_wyne/status/1391849321524436992) | advertise |
 | [BrillanteAndrei@twitter](https://twitter.com/BrillanteAndrei/status/1386016310790873088) | advertise |
 | [Brownboi777@twitter](https://twitter.com/Brownboi777/status/1397100254122561536) | advertise |
@@ -1276,6 +1278,7 @@ Do not create new issue or we will close it as duplicate.
 | [dogukantansuk@twitter](https://twitter.com/dogukantansuk/status/1400714321055858689) | advertise |
 | [Dohuy49780349@twitter](https://twitter.com/Dohuy49780349/status/1376800199079694336) | advertise |
 | [doimatphonui@twitter](https://twitter.com/doimatphonui/status/1387455212168749061) | advertise |
+| [Dojnaz@twitter](https://twitter.com/Dojnaz/status/1431346378647773187) | advertise |
 | [Doli18316877@twitter](https://twitter.com/Doli18316877/status/1394684058098049024) | advertise |
 | [DominicDeepan@twitter](https://twitter.com/DominicDeepan/status/1420647774509432835) | advertise |
 | [donaldliuT@twitter](https://twitter.com/donaldliuT/status/1390745327217516544) | advertise |
@@ -1596,6 +1599,7 @@ Do not create new issue or we will close it as duplicate.
 | [GnaneswarNaidu3@twitter](https://twitter.com/GnaneswarNaidu3/status/1397087799518449669) | advertise |
 | [go4webdev@twitter](https://twitter.com/go4webdev/status/1435122836037849095) | advertise |
 | [Gocome4@twitter](https://twitter.com/Gocome4/status/1383405538411614214) | advertise |
+| [godet_fr3akz@twitter](https://twitter.com/godet_fr3akz/status/1435927245130846214) | advertise |
 | [godjezus1469@twitter](https://twitter.com/godjezus1469/status/1404302568566657024) | advertise |
 | [GodOfOwls@twitter](https://twitter.com/GodOfOwls/status/1376620972552417282) | advertise |
 | [Godson51861788@twitter](https://twitter.com/Godson51861788/status/1391118380443258883) | advertise |
@@ -5066,6 +5070,7 @@ Do not create new issue or we will close it as duplicate.
 | [SparrowsHawk1@twitter](https://twitter.com/SparrowsHawk1/status/1395590998135242757) | advertise |
 | [Sparsh7_cr@twitter](https://twitter.com/Sparsh7_cr/status/1395302496545828874) | advertise |
 | [SpinDatReckhard@twitter](https://twitter.com/SpinDatReckhard/status/1403347991340228617) | advertise |
+| [splcher@twitter](https://twitter.com/splcher/status/1436080593775718400) | advertise |
 | [sporshojitsaha@twitter](https://twitter.com/sporshojitsaha/status/1404116014535647233) | advertise |
 | [SPSYST3MS@twitter](https://twitter.com/SPSYST3MS/status/1393572067426148354) | advertise |
 | [spt_cp@twitter](https://twitter.com/spt_cp/status/1377690834888364032) | advertise |
@@ -5253,6 +5258,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThagyanMoe10@twitter](https://twitter.com/ThagyanMoe10/status/1390577424597884928) | advertise |
 | [thai974@twitter](https://twitter.com/thai974/status/1395950743304105990) | advertise |
 | [Thaihoa64783980@twitter](https://twitter.com/Thaihoa64783980/status/1395317406193504256) | advertise |
+| [ThailandLong@twitter](https://twitter.com/ThailandLong/status/1435912413778354177) | advertise |
 | [ThaiThongVN@twitter](https://twitter.com/ThaiThongVN/status/1380756646738026498) | advertise |
 | [thaituanmax@twitter](https://twitter.com/thaituanmax/status/1384901240501510146) | advertise |
 | [thakurdhiraj83@twitter](https://twitter.com/thakurdhiraj83/status/1399987258845908994) | advertise |
