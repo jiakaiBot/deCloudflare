@@ -7,6 +7,7 @@
 
 
 
+- Literally every site is a CloudFlare one! 😬 looks like! so, this bot, @altlink upon following it, will notify you if you post a link to a website that uses CloudFlare! 😐 #cloudflare ([strawberryfieldsforever](https://koyu.space/@strawberryfieldsforever/106896519162662389))
 - 考えたけど、アレックス・ジョーンズ氏は本当に何処でもからBANされたら、どうしてinfowars.comとbanned.videoはcloudflareを使えるの？ :kangaerunowaeasy: ([technicalsuwako](https://social.076.ne.jp/objects/95919c69-8dab-41dd-bbc5-3b536e9a9488))
 - Cybersec folks! Want some OPINIONS. Imperva vs Cloudflare for upstream caching/WAF ([rgegriff](https://mastodon.lol/@rgegriff/106890987061574360))
 - Thinking about leaving Cloudflare. How easy is it to find the ISP of someone using CF anyway? ([verita84](https://rage.lol/objects/4b227507-dce0-4b6e-9922-12742360c971))
