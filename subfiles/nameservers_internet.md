@@ -8,7 +8,7 @@ The most important function of DNS servers is the translation (resolution) of hu
 ```
 
 
-Here's `NS details` of all registered domains. (_ICANN / September 2 2021_)
+Here's `NS details` of all registered domains. ([ICANN](https://en.wikipedia.org/wiki/ICANN) / September 2 2021)
 
 
 | TLD | Total Domains | Cloudflare NS | Amazon NS | Google NS | Microsoft NS |
@@ -1051,7 +1051,7 @@ Here's `NS details` of all registered domains. (_ICANN / September 2 2021_)
 
 
 - `.com` `.net` `.org` are the most registered domains.
-- **4.34**% of registered domains are using Cloudflare nameserver.
+- **4.34**% of total registered domains are using Cloudflare nameserver.
 
 
 What about other nameservers?
