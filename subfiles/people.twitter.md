@@ -7,6 +7,11 @@
 
 
 
+- trying to understand why it's so difficult to get a Cloudflare rep to speak to about very niche problems just for 5 minutes. ([trust_mpofu](https://twitter.com/Trust_Mpofu/status/1435945365220388873))
+- Yes, you are able to save bandwidth because cloudflare annoyed your customers with endless captchas. You probably also lost 50% of sales. It's a win win situation. ([uzi_ur](https://twitter.com/uzi_ur/status/1436376854399623175))
+- Yes, the config here seems far less ridiculous than whatever Cloudflare have configured. I routinely fail 80% of CF captcha challenges. ([nickstenning](https://twitter.com/nickstenning/status/1436229170774880258))
+- is it working for you? metrograph site gives me a cloudflare error rn ([zumicroom](https://twitter.com/zumicroom/status/1436118021181952003))
+- If you're the website owner please contact support, if you're not the website owner please let the website know you're encountering this error message. ([xxdesmus](https://twitter.com/xxdesmus/status/1435675191846133761))
 - every time I visit the website I'm blocked by cloudflare (error 1020). Tried different browsers already. Can you assist? ([smsuurmeijer](https://twitter.com/SMSuurmeijer/status/1436088109494583300))
 - Introduced to Anja's 10wk challenge this morning access to the course is barred Error 1014 Ray ID: 68a6598f39b265d1 •2021-09-06 08:32:58 UTC CNAME Cross-User Banned The host is configured as a CNAME across accounts on Cloudflare, is prohibited by security policy ([stephensbubble1](https://twitter.com/Stephensbubble1/status/1434798256731607045))
 - 1er lien sans espace "Our website is currently undergoing maintenance and will be back online shortly ! Gateway time-out The web server reported a gateway time-out error Ray ID: 68bffdcc0ed93328 Your IP address: 93.23.17.103 Error reference number: 504 Cloudflare Location: Paris" ([marilynechenuet](https://twitter.com/MarilyneChenuet/status/1435925100092612609))
