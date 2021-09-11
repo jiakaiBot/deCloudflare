@@ -2231,6 +2231,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jay30127613@twitter](https://twitter.com/Jay30127613/status/1395037131072958468) | advertise |
 | [jayakabajay@twitter](https://twitter.com/jayakabajay/status/1383184413496733699) | advertise |
 | [jayanthchatrat3@twitter](https://twitter.com/jayanthchatrat3/status/1387800496887406592) | advertise |
+| [JaydipParikh@twitter](https://twitter.com/JaydipParikh/status/1436327356516356096) | advertise |
 | [jayismyeveryth1@twitter](https://twitter.com/jayismyeveryth1/status/1389247638545911810) | advertise |
 | [JaySoh13@twitter](https://twitter.com/JaySoh13/status/1390786934335705092) | advertise |
 | [jaysonm76681877@twitter](https://twitter.com/jaysonm76681877/status/1376793641474260994) | advertise |
@@ -5901,6 +5902,7 @@ Do not create new issue or we will close it as duplicate.
 | [watermelaa@twitter](https://twitter.com/watermelaa/status/1379361436393041922) | advertise |
 | [wathanminbo@twitter](https://twitter.com/wathanminbo/status/1394217050822909952) | advertise |
 | [websamrat@twitter](https://twitter.com/websamrat/status/1417114848085696515) | advertise |
+| [websolapp@twitter](https://twitter.com/websolapp/status/1436377910638792712) | advertise |
 | [Weed36471988@twitter](https://twitter.com/Weed36471988/status/1385586093697880071) | advertise |
 | [weirdo7822@twitter](https://twitter.com/weirdo7822/status/1390378835703599106) | advertise |
 | [weixinhan@twitter](https://twitter.com/weixinhan/status/1385103220226236416) | advertise |
