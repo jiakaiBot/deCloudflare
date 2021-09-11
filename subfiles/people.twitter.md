@@ -7,6 +7,7 @@
 
 
 
+- Yeah, that was happening to me yesterday morning early. The same thing - got a Cloudflare error message. ([metacurity](https://twitter.com/Metacurity/status/1436555001795592192))
 - If your project was based on exploiting others then it was obviously flawed. You didn't think it was wrong until CloudFlare blocked you? Unfortunately you aren't the only one who this was referring to. This behaviour is quite harmful and seriously challenges our sustainability. ([alpe123_cr](https://twitter.com/Alpe123_CR/status/1436424600741728259))
 - Well I think it'd have to be done at the router level as switching to cellular fixes it on his phone. I was thinking some cloudflare thing must be blocking them but our API is on AWS and not using cloudflare like our front ends do. ([jmitch](https://twitter.com/jmitch/status/1435686800748695558))
 - trying to understand why it's so difficult to get a Cloudflare rep to speak to about very niche problems just for 5 minutes. ([trust_mpofu](https://twitter.com/Trust_Mpofu/status/1435945365220388873))
