@@ -7,6 +7,7 @@
 
 
 
+- Are you aware of many of us using Godaddy, Cloudflare and WordPress are having 520 error since 2 week ago and we don't know how to resolve it? ([baioni](https://twitter.com/Baioni/status/1436661873500467212))
 - Tried adding SeryBot to my Twitch channel and I get a Cloudflare error when trying to authorize it to work lmao ([ronaaltana](https://twitter.com/RonaAltana/status/1436722239458664450))
 - Are you aware of many of us using Godaddy, Cloudflare and WordPress are having 520 error since 2 week ago and we don't know how to resolve it? ([baioni](https://twitter.com/Baioni/status/1436662064760737792))
 - I’ve check on SkyscraperCity Forum The following urls is: ?cfchlcaptchatk=pmd5IRJKqH51r9qoBVjzTB89NXUDHbxVuNk5Jv6wIweTmM-1631319625-0-gqNtZGzNAyWjcnBszQml It’s a result The Cloudflare keeps Captcha when accesing site. ([fadil_original](https://twitter.com/Fadil_Original/status/1436485211370389504))
