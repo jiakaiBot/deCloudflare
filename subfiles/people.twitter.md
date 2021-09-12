@@ -7,6 +7,9 @@
 
 
 
+- Tried adding SeryBot to my Twitch channel and I get a Cloudflare error when trying to authorize it to work lmao ([ronaaltana](https://twitter.com/RonaAltana/status/1436722239458664450))
+- Are you aware of many of us using Godaddy, Cloudflare and WordPress are having 520 error since 2 week ago and we don't know how to resolve it? ([baioni](https://twitter.com/Baioni/status/1436662064760737792))
+- I’ve check on SkyscraperCity Forum The following urls is: ?cfchlcaptchatk=pmd5IRJKqH51r9qoBVjzTB89NXUDHbxVuNk5Jv6wIweTmM-1631319625-0-gqNtZGzNAyWjcnBszQml It’s a result The Cloudflare keeps Captcha when accesing site. ([fadil_original](https://twitter.com/Fadil_Original/status/1436485211370389504))
 - Tried that too as well as my vpn which cloudflare seemed to be blocking oh well I guess pokemon doesn’t want my money ([ess0h](https://twitter.com/ess0h/status/1435767888598634499))
 - OK, why the fuck is every site hosted by Cloudflare constantly keep asking and checking for CAPTCHA?! It's fucking annoying as shit to be constantly checked every fucking time you go to a new page. ([thealkaris](https://twitter.com/TheAlkaris/status/1436787697800998912))
 - Is Cloudflare training up its own AI or something that it needs to keep constantly checking and asking for CAPTCHA? ([thealkaris](https://twitter.com/TheAlkaris/status/1436788310798598149))
