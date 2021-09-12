@@ -7,6 +7,11 @@
 
 
 
+- Tried that too as well as my vpn which cloudflare seemed to be blocking oh well I guess pokemon doesn’t want my money ([ess0h](https://twitter.com/ess0h/status/1435767888598634499))
+- OK, why the fuck is every site hosted by Cloudflare constantly keep asking and checking for CAPTCHA?! It's fucking annoying as shit to be constantly checked every fucking time you go to a new page. ([thealkaris](https://twitter.com/TheAlkaris/status/1436787697800998912))
+- Is Cloudflare training up its own AI or something that it needs to keep constantly checking and asking for CAPTCHA? ([thealkaris](https://twitter.com/TheAlkaris/status/1436788310798598149))
+- But, Cloudflare make a promise to remove Captcha Challenge. In the real life Cloudflare still not removing the Captcha Challenge. This is a lie & bad promise… i’m dissapointed. 😕 ([fadil_original](https://twitter.com/Fadil_Original/status/1436485572625793026))
+- It’s still up. Cloudflare captcha first then slowly loads. ([andrew_dickson](https://twitter.com/andrew_dickson/status/1436432110965886977))
 - whats going on right now?. Page is not loading. I'm getting a Cloudflare Error 522 ([titoosoriano](https://twitter.com/titoosoriano/status/1436862592786567168))
 - Yeah, that was happening to me yesterday morning early. The same thing - got a Cloudflare error message. ([metacurity](https://twitter.com/Metacurity/status/1436555001795592192))
 - If your project was based on exploiting others then it was obviously flawed. You didn't think it was wrong until CloudFlare blocked you? Unfortunately you aren't the only one who this was referring to. This behaviour is quite harmful and seriously challenges our sustainability. ([alpe123_cr](https://twitter.com/Alpe123_CR/status/1436424600741728259))
