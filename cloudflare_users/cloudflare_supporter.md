@@ -146,6 +146,7 @@ Do not create new issue or we will close it as duplicate.
 | [activism.openworlds.info](https://activism.openworlds.info/) | by muting account status without warning & showed hostility |
 | [AD38414298@twitter](https://twitter.com/AD38414298/status/1392533228871770114) | advertise |
 | [AdamHakeemi18@twitter](https://twitter.com/AdamHakeemi18/status/1396117339007979526) | advertise |
+| [adathorium@twitter](https://twitter.com/adathorium/status/1436389816573194240) | advertise |
 | [addi_jade@twitter](https://twitter.com/addi_jade/status/1391607833645371393) | advertise |
 | [adel81764908@twitter](https://twitter.com/adel81764908/status/1377549585057423363) | advertise |
 | [adelxsaidx@twitter](https://twitter.com/adelxsaidx/status/1380592782633545734) | advertise |
@@ -1812,6 +1813,7 @@ Do not create new issue or we will close it as duplicate.
 | [HiKoLay02842035@twitter](https://twitter.com/HiKoLay02842035/status/1390312387903852552) | advertise |
 | [Himank66270084@twitter](https://twitter.com/Himank66270084/status/1395830583175958529) | advertise |
 | [Himashi53980738@twitter](https://twitter.com/Himashi53980738/status/1383701341957103616) | advertise |
+| [HindiBuddy@twitter](https://twitter.com/HindiBuddy/status/1436514354585747459) | advertise |
 | [Hing49094553@twitter](https://twitter.com/Hing49094553/status/1403161998183985162) | advertise |
 | [Hing59514415@twitter](https://twitter.com/Hing59514415/status/1388181905875423234) | advertise |
 | [Hing64416706@twitter](https://twitter.com/Hing64416706/status/1387995214791335939) | advertise |
@@ -3237,6 +3239,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mayada89190021@twitter](https://twitter.com/Mayada89190021/status/1383269107038973959) | advertise |
 | [Mayank24478272@twitter](https://twitter.com/Mayank24478272/status/1402188873757716481) | advertise |
 | [mayankk69628949@twitter](https://twitter.com/mayankk69628949/status/1384387592955723776) | advertise |
+| [mayatravelsin@twitter](https://twitter.com/mayatravelsin/status/1436231344875474977) | advertise |
 | [MaybackBert5@twitter](https://twitter.com/MaybackBert5/status/1394706332561903619) | advertise |
 | [Maybell78540744@twitter](https://twitter.com/Maybell78540744/status/1404475992970723330) | advertise |
 | [MayD136@twitter](https://twitter.com/MayD136/status/1385135460016476170) | advertise |
