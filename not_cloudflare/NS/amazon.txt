@@ -303,6 +303,7 @@ ns-1231.awsdns-25.org
 ns-1232.awsdns-26.org
 ns-1233.awsdns-26.org
 ns-1234.awsdns-26.org
+ns-1234.awsdns-61.org
 ns-1235.awsdns-26.org
 ns-1236.awsdns-26.org
 ns-1237.awsdns-26.org
@@ -353,6 +354,7 @@ ns-1276.awsdns-31.org
 ns-1277.awsdns-31.org
 ns-1278.awsdns-31.org
 ns-128.awsdns-16.com
+ns-128.awsdns-49.co.uk
 ns-1281.awsdns-32.org
 ns-1282.awsdns-32.org
 ns-1283.awsdns-32.org
@@ -789,6 +791,7 @@ ns-1663.awsdns-15.co.uk
 ns-1664.awsdns-16.co.uk
 ns-1665.awsdns-16.co.uk
 ns-1666.awsdns-16.co.uk
+ns-1666.awsdns-39.co.uk
 ns-1667.awsdns-16.co.uk
 ns-1668.awsdns-16.co.uk
 ns-1669.awsdns-16.co.uk
@@ -1293,6 +1296,7 @@ ns-261.awsdns-32.com
 ns-262.awsdns-32.com
 ns-263.awsdns-32.com
 ns-264.awsdns-33.com
+ns-264.awsdns-54.com
 ns-265.awsdns-33.com
 ns-266.awsdns-33.com
 ns-267.awsdns-33.com
@@ -1767,6 +1771,7 @@ ns-669.awsdns-19.net
 ns-67.awsdns-08.com
 ns-670.awsdns-19.net
 ns-671.awsdns-19.net
+ns-671.awsdns-20.net
 ns-672.awsdns-20.net
 ns-673.awsdns-20.net
 ns-674.awsdns-20.net
@@ -2092,6 +2097,7 @@ ns-961.awsdns-56.net
 ns-962.awsdns-56.net
 ns-963.awsdns-56.net
 ns-964.awsdns-56.net
+ns-965.awsdns-22.net
 ns-965.awsdns-56.net
 ns-966.awsdns-56.net
 ns-967.awsdns-56.net
@@ -2118,6 +2124,7 @@ ns-984.awsdns-59.net
 ns-985.awsdns-59.net
 ns-986.awsdns-59.net
 ns-987.awsdns-59.net
+ns-9879.awsdns-09.co.uk
 ns-988.awsdns-59.net
 ns-989.awsdns-59.net
 ns-99.awsdns-12.com
