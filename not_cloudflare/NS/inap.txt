@@ -1093,6 +1093,7 @@ ns1.gukm1044.siteground.biz
 ns1.gukm1045.siteground.biz
 ns1.gukm1046.siteground.biz
 ns1.gukm1047.siteground.biz
+ns1.gukm1048.siteground.biz
 ns1.gukm1049.siteground.biz
 ns1.gukm1050.siteground.biz
 ns1.gukm2.siteground.biz
@@ -3036,6 +3037,7 @@ ns2.gukm1044.siteground.biz
 ns2.gukm1045.siteground.biz
 ns2.gukm1046.siteground.biz
 ns2.gukm1047.siteground.biz
+ns2.gukm1048.siteground.biz
 ns2.gukm1049.siteground.biz
 ns2.gukm1050.siteground.biz
 ns2.gukm2.siteground.biz
