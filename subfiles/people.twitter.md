@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare VPN - самое простое, классное и при этом бесплатное приложение имхо. Вбить в гугле 1.1.1.1, перейти по ссылке, установить приложение cloudflare, включить. Всё. Обходит и блокировки, и замедления. Ссылка на всякий случай еще раз здесь: ([kak_idea](https://twitter.com/kak_idea/status/1437433399325696003))
 - I think Cloudflare is blocking people thinks ddos ([1coinpool](https://twitter.com/1CoinPool/status/1437039658261639182))
 - I see a cloudflare captcha page and I go "oh the site's down right now I'll try later" and close it ([mraofnull](https://twitter.com/mraofNULL/status/1437131677516673024))
 - Can someone please explain it to me like I’m fucking stupid why the Cloudflare thing hasn’t been fixed? ([shelbythesaint](https://twitter.com/ShelbyTheSaint/status/1431733916654874627))
