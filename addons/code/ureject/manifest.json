@@ -1,39 +1,39 @@
 {
-   "manifest_version": 2,
-   "name": "Kiu retejo malakceptis min?",
-   "description": "Via retejo malakceptis min, sed mi scias ke mi fartos bone.",
-   "version": "1.0.5.4",
-   "homepage_url": "http://crimeflare.eu.org/",
-   "author": "Crimeflare #Addon",
-   "permissions": [
-      "storage",
-      "webRequest",
-      "<all_urls>"
-   ],
-   "icons": {
+  "manifest_version": 2,
+  "name": "Kiu retejo malakceptis min?",
+  "description": "Via retejo malakceptis min, sed mi scias ke mi fartos bone.",
+  "version": "1.0.6",
+  "homepage_url": "http://crimeflare.eu.org/",
+  "author": "Crimeflare",
+  "permissions": [
+    "storage",
+    "webRequest",
+    "<all_urls>"
+  ],
+  "icons": {
+    "72": "icons/72.png"
+  },
+  "background": {
+    "scripts": [
+      "bg.js"
+    ]
+  },
+  "options_ui": {
+    "browser_style": false,
+    "open_in_tab": true,
+    "page": "log.html"
+  },
+  "browser_action": {
+    "browser_style": true,
+    "default_icon": {
       "72": "icons/72.png"
-   },
-   "background": {
-      "scripts": [
-         "bg.js"
-      ]
-   },
-   "options_ui": {
-      "browser_style": false,
-      "open_in_tab": true,
-      "page": "log.html"
-   },
-   "browser_action": {
-      "browser_style": true,
-      "default_icon": {
-         "72": "icons/72.png"
-      }
-   },
-   "applications": {
-      "gecko": {
-         "id": "urejectme@searxes.eu.org",
-         "strict_min_version": "78.0",
-         "update_url": "https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/addon.php?for=ureject"
-      }
-   }
+    }
+  },
+  "applications": {
+    "gecko": {
+      "id": "urejectme@searxes.eu.org",
+      "strict_min_version": "78.0",
+      "update_url": "https://api.sercxi.eu.org/_/addon.php?for=ureject"
+    }
+  }
 }

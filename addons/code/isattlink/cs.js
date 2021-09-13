@@ -1,4 +1,4 @@
-if (document.body && !['sercxi.eu.org', 'api.sercxi.eu.org', 'ansero.eu.org'].includes(location.hostname) && !location.hostname.endsWith('.onion')) {
+if (document.body && !/((sercxi|ansero|crimeflare|clearnetonion)\.eu\.org|\.onion)$/.test(location.hostname)) {
 	let cs = (function () {
 		let s = document.createElement('style');
 		document.head.appendChild(s);
@@ -1067,7 +1067,7 @@ if (document.body && !['sercxi.eu.org', 'api.sercxi.eu.org', 'ansero.eu.org'].in
 			return wa[1] + '.' + wa[0];
 		}
 		let bdom = get_realdomain(location.hostname),
-			asked = ['', 'sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion', 'sercxi.eu.org', 'api.sercxi.eu.org', 'ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion', 'ansero.eu.org', 'addons.mozilla.org', 'addons.thunderbird.net', 'web.archive.org', 't.co'];
+			asked = ['', 'addons.mozilla.org', 'addons.thunderbird.net', 'web.archive.org', 'twitter.com','t.co','youtube.com','youtu.be'];
 		if (g.ign1 == 'y') {
 			asked.push(location.hostname);
 		}
@@ -1081,7 +1081,7 @@ if (document.body && !['sercxi.eu.org', 'api.sercxi.eu.org', 'ansero.eu.org'].in
 					a.dataset.iatt = aF;
 					if (!asked.includes(aF)) {
 						asked.push(aF);
-						if (!/^(.*)\.(wikipedia\.org|onion|i2p|invalid|test|local|localhost|([0-9]{1,3})|bbs|chan|cyb|dyn|geek|gopher|indy|libre|neo|null|o|oss|oz|parody|pirate|bit|lib|coin|emc|bazar|fur)$/.test(aF) && get_realdomain(aF) != bdom && aF.length >= 4) {
+						if (!/\.(eu\.org|onion|i2p|invalid|test|local|localhost|([0-9]{1,3})|bbs|chan|cyb|dyn|geek|gopher|indy|libre|neo|null|o|oss|oz|parody|pirate|bit|lib|coin|emc|bazar|fur)$/.test(aF) && get_realdomain(aF) != bdom && aF.length >= 4) {
 							unknown.push(aF);
 						}
 					}

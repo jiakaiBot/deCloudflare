@@ -13,22 +13,30 @@ document.addEventListener('DOMContentLoaded', () => {
 				document.getElementById('ut0').checked = false;
 				document.getElementById('ut1').checked = true;
 				document.getElementById('ut2').checked = false;
+				document.getElementById('ut3').checked = false;
 				break;
 			case '2':
 				document.getElementById('ut0').checked = false;
 				document.getElementById('ut1').checked = false;
 				document.getElementById('ut2').checked = true;
+				document.getElementById('ut3').checked = false;
+				break;
+			case '3':
+				document.getElementById('ut0').checked = false;
+				document.getElementById('ut1').checked = false;
+				document.getElementById('ut2').checked = false;
+				document.getElementById('ut3').checked = true;
 				break;
 			default:
 				document.getElementById('ut0').checked = true;
 				document.getElementById('ut1').checked = false;
 				document.getElementById('ut2').checked = false;
+				document.getElementById('ut3').checked = false;
 				break;
 		}
 		let ul = g.mul || 'eo';
 		document.getElementById('apinfo0').href = 'https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=' + ul + '#!op=info/api';
 		document.getElementById('apinfo1').href = 'https://sercxi.eu.org/?ul=' + ul + '#!op=info/api';
-		document.getElementById('apinfo2').href = 'http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is_cf.php';
 		fetch('i18n/' + ul + '.json', {
 			method: 'GET'
 		}).then(j => j.json()).then(j => {
@@ -105,6 +113,11 @@ document.getElementById('ut1').addEventListener('click', () => {
 });
 document.getElementById('ut2').addEventListener('click', () => {
 	browser.runtime.sendMessage('urltype,2').then(() => {
+		location.reload();
+	});
+});
+document.getElementById('ut3').addEventListener('click', () => {
+	browser.runtime.sendMessage('urltype,3').then(() => {
 		location.reload();
 	});
 });

@@ -12,14 +12,6 @@ let my_cf_collection = [],
 	my_xcs_a1 = false,
 	my_xcs_a2 = false,
 	my_nfo_lang = 'eo';
-const trans = {
-	'eo': {
-		'detemi': 'Minaco Detektita',
-		'cflrmi': 'Cloudflare Detektita',
-		'virus': "Atentivelo: Severa\nAgo: Blokita\nDomajno: ",
-		'redir': "Redirektu al alternativa URL.\n\nDomajno: "
-	}
-};
 function get_realdomain(w) {
 	let wa = w.split('.');
 	let wa_l = wa.length;
@@ -1105,14 +1097,14 @@ function update_icon(tid, url) {
 	});
 	return;
 }
-function tell_me(ok, mgT, mgD) {
+function notify_me(ok, hn) {
 	if (ok) {
 		browser.notifications.clear(infobox);
 		browser.notifications.create(infobox, {
 			'type': 'basic',
 			'iconUrl': browser.runtime.getURL('icons/cf_1.png'),
-			'title': mgT + '  [' + ((new Date()).toLocaleString()) + ']',
-			'message': mgD
+			'title': 'Cloudflare!  [' + ((new Date()).toLocaleString()) + ']',
+			'message': hn
 		});
 	}
 }
@@ -1178,7 +1170,7 @@ browser.webRequest.onHeadersReceived.addListener(function (wr) {
 		}
 		console.log('BCMA: Block Cloudflare RH', wr_hostname);
 		if (my_action == 0 || my_action == 1) {
-			tell_me(my_nfo_cfd, trans['eo']['detemi'], trans['eo']['virus'] + wr_hostname);
+			notify_me(my_nfo_cfd, wr_hostname);
 			if (wr.type == 'image') {
 				return {
 					redirectUrl: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQBCgAAACwAAAAAAQABAAACAkQBADs='
@@ -1190,13 +1182,13 @@ browser.webRequest.onHeadersReceived.addListener(function (wr) {
 			}
 		}
 		if (my_action == 2) {
-			tell_me(my_nfo_alu, trans['eo']['cflrmi'], trans['eo']['redir'] + wr_hostname);
+			notify_me(my_nfo_alu, wr_hostname);
 			return {
 				redirectUrl: 'https://web.archive.org/web/' + wr.url
 			};
 		}
 		if (my_action == 4) {
-			tell_me(my_nfo_alu, trans['eo']['cflrmi'], trans['eo']['redir'] + wr_hostname);
+			notify_me(my_nfo_alu, wr_hostname);
 			return {
 				redirectUrl: my_customurl.replace('%%URL%%', wr.url).replace('%%ERL%%', encodeURIComponent(wr.url))
 			};
@@ -1239,7 +1231,7 @@ browser.webRequest.onBeforeRequest.addListener(function (wr) {
 	if (cf_is) {
 		console.log('BCMA: Block Cloudflare BR', wr_hostname);
 		if (my_action == 0 || my_action == 1) {
-			tell_me(my_nfo_cfd, trans['eo']['detemi'], trans['eo']['virus'] + wr_hostname);
+			notify_me(my_nfo_cfd, wr_hostname);
 			if (wr.type == 'image') {
 				return {
 					redirectUrl: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQBCgAAACwAAAAAAQABAAACAkQBADs='
@@ -1251,13 +1243,13 @@ browser.webRequest.onBeforeRequest.addListener(function (wr) {
 			}
 		}
 		if (my_action == 2) {
-			tell_me(my_nfo_alu, trans['eo']['cflrmi'], trans['eo']['redir'] + wr_hostname);
+			notify_me(my_nfo_alu, wr_hostname);
 			return {
 				redirectUrl: 'https://web.archive.org/web/' + wr.url
 			};
 		}
 		if (my_action == 4) {
-			tell_me(my_nfo_alu, trans['eo']['cflrmi'], trans['eo']['redir'] + wr_hostname);
+			notify_me(my_nfo_alu, wr_hostname);
 			return {
 				redirectUrl: my_customurl.replace('%%URL%%', wr.url).replace('%%ERL%%', encodeURIComponent(wr.url))
 			};

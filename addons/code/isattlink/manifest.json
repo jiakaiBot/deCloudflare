@@ -1,43 +1,43 @@
 {
-   "manifest_version": 2,
-   "name": "Ĉu ĉi tiuj ligoj blokos Tor-uzanton?",
-   "description": "Skanu FQDN uzante la API",
-   "version": "1.0.4.6",
-   "homepage_url": "http://crimeflare.eu.org/",
-   "author": "Crimeflare #Addon",
-   "permissions": [
-      "storage",
-      "unlimitedStorage"
-   ],
-   "icons": {
-      "72": "icons/72.png"
-   },
-   "background": {
-      "scripts": [
-         "bg.js"
-      ]
-   },
-   "content_scripts": [
-      {
-         "matches": [
-            "http://*/*",
-            "https://*/*"
-         ],
-         "js": [
-            "cs.js"
-         ],
-         "run_at": "document_end"
-      }
-   ],
-   "options_ui": {
-      "browser_style": true,
-      "page": "cfg.html"
-   },
-   "applications": {
-      "gecko": {
-         "id": "torwatch@searxes.eu.org",
-         "strict_min_version": "78.0",
-         "update_url": "https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/addon.php?for=isattlink"
-      }
-   }
+  "manifest_version": 2,
+  "name": "\u0108u \u0109i tiuj ligoj blokos Tor-uzanton?",
+  "description": "Skanu FQDN uzante la API",
+  "version": "1.0.5",
+  "homepage_url": "http://crimeflare.eu.org/",
+  "author": "Crimeflare",
+  "permissions": [
+    "storage",
+    "unlimitedStorage"
+  ],
+  "icons": {
+    "72": "icons/72.png"
+  },
+  "background": {
+    "scripts": [
+      "bg.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "cs.js"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "options_ui": {
+    "browser_style": true,
+    "page": "cfg.html"
+  },
+  "applications": {
+    "gecko": {
+      "id": "torwatch@searxes.eu.org",
+      "strict_min_version": "78.0",
+      "update_url": "https://api.sercxi.eu.org/_/addon.php?for=isattlink"
+    }
+  }
 }

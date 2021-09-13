@@ -2,7 +2,7 @@ let localUse = -1,
 	localDB = [],
 	timr, memcache = {},
 	forcePurge = false,
-	apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/is_mitm.php';
+	apiurl = 'https://0.0.0.0/';
 function get_realdomain(w) {
 	let wa = w.split('.');
 	let wa_l = wa.length;
@@ -1141,7 +1141,7 @@ function forget_cache() {
 			'alt': (g.alt == 'y' ? 'y' : 'n')
 		});
 		browser.storage.local.set({
-			'cep': (g.cep != undefined ? g.cep : '2')
+			'cep': (g.cep != undefined ? g.cep : '3')
 		});
 		browser.storage.local.set({
 			'mul': (g.mul != undefined ? g.mul : 'eo')
@@ -1183,6 +1183,9 @@ browser.storage.local.get(['lastU', 'lastV', 'ldb', 'opd', 'cep']).then(g => {
 		case '2':
 			apiurl = 'http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is_cf.php';
 			break;
+		case '3':
+			apiurl = 'https://karma.clearnetonion.eu.org/api/is_cf.php';
+			break;
 		default:
 			apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/is_mitm.php';
 			break;
@@ -1209,7 +1212,7 @@ browser.storage.local.get(['lastU', 'lastV', 'ldb', 'opd', 'cep']).then(g => {
 					'alt': (g.alt == 'y' ? 'y' : 'n')
 				});
 				browser.storage.local.set({
-					'cep': (g.cep != undefined ? g.cep : '2')
+					'cep': (g.cep != undefined ? g.cep : '3')
 				});
 				browser.storage.local.set({
 					'mul': (g.mul != undefined ? g.mul : 'eo')
@@ -1252,7 +1255,7 @@ browser.storage.local.get(['lastU', 'lastV', 'ldb', 'opd', 'cep']).then(g => {
 				'alt': (g.alt == 'y' ? 'y' : 'n')
 			});
 			browser.storage.local.set({
-				'cep': (g.cep != undefined ? g.cep : '2')
+				'cep': (g.cep != undefined ? g.cep : '3')
 			});
 			browser.storage.local.set({
 				'mul': (g.mul != undefined ? g.mul : 'eo')
@@ -1362,6 +1365,12 @@ browser.runtime.onMessage.addListener((requests, sender, sendResponse) => {
 						'cep': '2'
 					});
 					apiurl = 'http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is_cf.php';
+					break;
+				case 'urltype,3':
+					browser.storage.local.set({
+						'cep': '3'
+					});
+					apiurl = 'https://karma.clearnetonion.eu.org/api/is_cf.php';
 					break;
 			}
 			return;
