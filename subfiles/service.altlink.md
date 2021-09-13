@@ -39,7 +39,7 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
 
 > Subscribe
 
-1. Follow [Alternative Link (AL)](https://mamot.fr/@altlink).
+1. Follow [Alternative Link (AL)](http://altlink.crimeflare.eu.org/).
   - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking altlink.
 
 | 🖼 | 🖼 |
