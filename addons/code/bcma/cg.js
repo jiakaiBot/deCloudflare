@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
 				x.innerText = j[x.getAttribute('transk')];
 			});
 		});
-		document.getElementById('toolim').href = 'https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_qdb.php?ul=' + r[5];
+		document.getElementById('toolim').href = 'https://sercxi.eu.org/ss/tool_qdb.php?ul=' + r[5];
 		document.getElementById('t').value = JSON.parse(r[0]).join("\n");
 		document.getElementById('g').value = JSON.parse(r[1]).join("\n");
 		document.getElementById('vau').value = r[3];
