@@ -1,45 +1,45 @@
 {
-   "manifest_version": 2,
-   "name": "Ĉu ligoj estas vundeblaj al MITM-atako?",
-   "description": "Skanu FQDN uzante la API",
-   "version": "1.0.23.6",
-   "homepage_url": "http://crimeflare.eu.org/",
-   "author": "Crimeflare #Addon",
-   "permissions": [
-      "storage",
-      "unlimitedStorage",
-      "webRequest",
-      "<all_urls>"
-   ],
-   "icons": {
-      "72": "icons/72.png"
-   },
-   "background": {
-      "scripts": [
-         "bg.js"
-      ]
-   },
-   "content_scripts": [
-      {
-         "matches": [
-            "http://*/*",
-            "https://*/*"
-         ],
-         "js": [
-            "cs.js"
-         ],
-         "run_at": "document_end"
-      }
-   ],
-   "options_ui": {
-      "browser_style": true,
-      "page": "cfg.html"
-   },
-   "applications": {
-      "gecko": {
-         "id": "ismitmlink@searxes.danwin1210.me",
-         "strict_min_version": "78.0",
-         "update_url": "https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/addon.php?for=ismitmlink"
-      }
-   }
+  "manifest_version": 2,
+  "name": "\u0108u ligoj estas vundeblaj al MITM-atako?",
+  "description": "Skanu FQDN uzante la API",
+  "version": "1.0.24",
+  "homepage_url": "http://crimeflare.eu.org/",
+  "author": "Crimeflare",
+  "permissions": [
+    "storage",
+    "unlimitedStorage",
+    "webRequest",
+    "<all_urls>"
+  ],
+  "icons": {
+    "72": "icons/72.png"
+  },
+  "background": {
+    "scripts": [
+      "bg.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "cs.js"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "options_ui": {
+    "browser_style": true,
+    "page": "cfg.html"
+  },
+  "applications": {
+    "gecko": {
+      "id": "ismitmlink@searxes.danwin1210.me",
+      "strict_min_version": "78.0",
+      "update_url": "https://api.sercxi.eu.org/_/addon.php?for=ismitmlink"
+    }
+  }
 }
