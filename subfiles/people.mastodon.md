@@ -7,6 +7,8 @@
 
 
 
+- @omgcloudflare Oh no! Which #Pokemon servers are #Cloudflare? Do #Nintendo use Cloudflare for something? ([dsfgs](https://activism.openworlds.info/@dsfgs/106916576742807388))
+- I am now routed back at NRT and KIX. Guess they fixed something. But somehow Argo has been automatically disabled... Well not like I need it anyway. Will keep it off now that Cloudflare tunnels are free. ([benoit](https://toots.benpro.fr/@benoit/106918412600209866))
 - Apple mail clients are going to proxy images pretty soon for emails with HTML contents (opt-out apparently). I hope you like Cloudflare. 😏 ([oz](https://mastodon.social/@oz/106908814866822217))
 - Literally every site is a CloudFlare one! 😬 looks like! so, this bot, @altlink upon following it, will notify you if you post a link to a website that uses CloudFlare! 😐 #cloudflare ([strawberryfieldsforever](https://koyu.space/@strawberryfieldsforever/106896519162662389))
 - 考えたけど、アレックス・ジョーンズ氏は本当に何処でもからBANされたら、どうしてinfowars.comとbanned.videoはcloudflareを使えるの？ :kangaerunowaeasy: ([technicalsuwako](https://social.076.ne.jp/objects/95919c69-8dab-41dd-bbc5-3b536e9a9488))
