@@ -1242,6 +1242,7 @@ Do not create new issue or we will close it as duplicate.
 | [DickWhimsy@twitter](https://twitter.com/DickWhimsy/status/1384051581373468672) | advertise |
 | [diellidemjaha@twitter](https://twitter.com/diellidemjaha/status/1394616412086341633) | advertise |
 | [digcinema@twitter](https://twitter.com/digcinema/status/1402343666174201857) | advertise |
+| [DigitalSoftwar9@twitter](https://twitter.com/DigitalSoftwar9/status/1437033725141860357) | advertise |
 | [digital_pig@twitter](https://twitter.com/digital_pig/status/1384777161383432192) | advertise |
 | [DileepaMV@twitter](https://twitter.com/DileepaMV/status/1372732617934606344) | advertise |
 | [DileepD87691922@twitter](https://twitter.com/DileepD87691922/status/1395573825618661380) | advertise |
