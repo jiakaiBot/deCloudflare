@@ -7,6 +7,9 @@
 
 
 
+- I think Cloudflare is blocking people thinks ddos ([1coinpool](https://twitter.com/1CoinPool/status/1437039658261639182))
+- I see a cloudflare captcha page and I go "oh the site's down right now I'll try later" and close it ([mraofnull](https://twitter.com/mraofNULL/status/1437131677516673024))
+- Can someone please explain it to me like I’m fucking stupid why the Cloudflare thing hasn’t been fixed? ([shelbythesaint](https://twitter.com/ShelbyTheSaint/status/1431733916654874627))
 - Are you aware of many of us using Godaddy, Cloudflare and WordPress are having 520 error since 2 week ago and we don't know how to resolve it? ([baioni](https://twitter.com/Baioni/status/1436661873500467212))
 - Tried adding SeryBot to my Twitch channel and I get a Cloudflare error when trying to authorize it to work lmao ([ronaaltana](https://twitter.com/RonaAltana/status/1436722239458664450))
 - Are you aware of many of us using Godaddy, Cloudflare and WordPress are having 520 error since 2 week ago and we don't know how to resolve it? ([baioni](https://twitter.com/Baioni/status/1436662064760737792))
