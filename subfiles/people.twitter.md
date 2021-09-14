@@ -7,6 +7,7 @@
 
 
 
+- hey. You host a fishing site. Dm me for a link ([gmlandrey](https://twitter.com/gmlandrey/status/1437804161194725376))
 - Fuck your cloudflare bs scanuk always fail to get one because of that ([bandobit](https://twitter.com/bandobit/status/1437372320415424513))
 - I'm blocked from the website by a cloudflare notification. Hard to work without my db! ([rebmoti](https://twitter.com/rebmoti/status/1437420474955337735))
 - Cloudflare VPN - самое простое, классное и при этом бесплатное приложение имхо. Вбить в гугле 1.1.1.1, перейти по ссылке, установить приложение cloudflare, включить. Всё. Обходит и блокировки, и замедления. Ссылка на всякий случай еще раз здесь: ([kak_idea](https://twitter.com/kak_idea/status/1437433399325696003))
