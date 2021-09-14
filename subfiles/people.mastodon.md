@@ -7,6 +7,8 @@
 
 
 
+- Will they blame it on the bitcoin when #Cloudflare takes down #theInternet? #oligarchy #internet #forcedNews #blameItOnTheBitcoin ([dsfgs](https://activism.openworlds.info/@dsfgs/106921809473220527))
+- I just wanted to sign up for one of those meal delivery box services because I got a coupon code in the mail. It gave me a Cloudflare error, and did not allow me to sign up. That makes me leery of using it anyway, since Cloudflare is well known for previously hosting 8chan, and as far as I know still supports Kiwifarms? Anyway I tried another one and their sign up page just showed a constant spinning circle and never advanced past it. What the fuck is wrong with these companies? ([the_t](https://glaceon.social/@The_T/106925543938230003))
 - @omgcloudflare Oh no! Which #Pokemon servers are #Cloudflare? Do #Nintendo use Cloudflare for something? ([dsfgs](https://activism.openworlds.info/@dsfgs/106916576742807388))
 - I am now routed back at NRT and KIX. Guess they fixed something. But somehow Argo has been automatically disabled... Well not like I need it anyway. Will keep it off now that Cloudflare tunnels are free. ([benoit](https://toots.benpro.fr/@benoit/106918412600209866))
 - Apple mail clients are going to proxy images pretty soon for emails with HTML contents (opt-out apparently). I hope you like Cloudflare. 😏 ([oz](https://mastodon.social/@oz/106908814866822217))
