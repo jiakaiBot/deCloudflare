@@ -5,6 +5,10 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-09-14: [Degraded performance issue with Rocket Loader in China](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vf1mpchyfdh9)
+- 2021-09-14: [Blank Pages being displayed for some customers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g02v9d87951d)
+- 2021-09-14: [Issue with Specific Set-Cookie headers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/30ptcb3b0s2w)
+- 2021-09-13: [Elevated number of 5xx errors in Sydney](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xwxg18f4xbxn)
 - 2021-09-10: [Customer Impacting Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/x0qjdl930y06)
 - 2021-09-08: [Performance issue with public resolver 1.1.1.1 in San Jose, CA and Newark, NJ](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fw6dsckcb9cr)
 - 2021-09-07: [Network Performance Issues in San Jose, United States](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5fcyf35r5tyv)
