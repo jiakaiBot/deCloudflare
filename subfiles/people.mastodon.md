@@ -7,6 +7,9 @@
 
 
 
+- What stops #Cloudflare from making purchases on #cryptoExchanges they control, assuming the #moneyPrinter? Is it just ethics or could they be waiting for something. For example, when #bitcoinAdoption is at its peak and there's a lot of peoples' #savings on #onlineExchanges? Are they waiting for an order from #Biden to seize crypto on #exchanges? That is, an #FDR-style #confiscation, but of #bitcoin rather than #gold being taken? Almost all #bitcoin exchanges are Cloudflare. ([dsfgs](https://activism.openworlds.info/@dsfgs/106929997106106242))
+- (2) this site uses CloudFlare, by the way! :blobcatgiggle:​ ([strawberryfieldsforever](https://koyu.space/@strawberryfieldsforever/106930422706188331))
+- (2) this site uses CloudFlare, by the way! :blobcatgiggle:​ 👆 ([strawberryfieldsforever](https://koyu.space/@strawberryfieldsforever/106930423578806995))
 - Will they blame it on the bitcoin when #Cloudflare takes down #theInternet? #oligarchy #internet #forcedNews #blameItOnTheBitcoin ([dsfgs](https://activism.openworlds.info/@dsfgs/106921809473220527))
 - I just wanted to sign up for one of those meal delivery box services because I got a coupon code in the mail. It gave me a Cloudflare error, and did not allow me to sign up. That makes me leery of using it anyway, since Cloudflare is well known for previously hosting 8chan, and as far as I know still supports Kiwifarms? Anyway I tried another one and their sign up page just showed a constant spinning circle and never advanced past it. What the fuck is wrong with these companies? ([the_t](https://glaceon.social/@The_T/106925543938230003))
 - @omgcloudflare Oh no! Which #Pokemon servers are #Cloudflare? Do #Nintendo use Cloudflare for something? ([dsfgs](https://activism.openworlds.info/@dsfgs/106916576742807388))
