@@ -6,7 +6,7 @@
 
 **[Ss](https://sercxi.eu.org)** (pronounce /ɛsɛs/; other name "_Serĉi_" (_Sercxi_), pronounce /ˈsert͡ʃi/), previously called _[Searxes](https://web.archive.org/web/20210614033612/https://en.wikipedia.org/w/index.php?title=Searx&oldid=906373508)_, is the **world's first anti-cloudflare search engine** website for [Tor](https://www.torproject.org/) users and [clearnet](https://en.wikipedia.org/wiki/Clearnet_(networking)) users, operating since year [2016](https://addons.thunderbird.net/en-us/firefox/addon/searxes/).
 
-Some people think about [Schutzstaffel](https://en.wikipedia.org/wiki/SS) on first sight but do not get confused; the second letter s is _lowercase_ taken from previous name.
+Some people may think about [Schutzstaffel](https://en.wikipedia.org/wiki/SS) on first sight but do not get confused; the second letter s is _lowercase_ taken from previous name.
 
 It is fed by quality sources and rank down Cloudflare sites to bottom by default, thus you avoid the risk and inconvenience of having [MITM traps](../README.md) littered throughout search results.
 You can also open a cached version of the page by clicking the icon of the search result.
