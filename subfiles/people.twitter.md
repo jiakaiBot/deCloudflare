@@ -7,6 +7,7 @@
 
 
 
+- is your service currently down? Connections aren’t reliable and your service status page is giving an error at the host side of things (Cloudflare results). Some services seem to be working but not all. I’m using NBN ([craig_zimmerman](https://twitter.com/Craig_Zimmerman/status/1438104495762788359))
 - Weird cloudflare rules are blocking us from reviewing their site. I'm not on my work Amazon VPN which a lot of companies block, but just normal COX connection. ([jasoncarpentier](https://twitter.com/JasonCarpentier/status/1437484039758299136))
 - hey. You host a fishing site. Dm me for a link ([gmlandrey](https://twitter.com/gmlandrey/status/1437804161194725376))
 - Fuck your cloudflare bs scanuk always fail to get one because of that ([bandobit](https://twitter.com/bandobit/status/1437372320415424513))
