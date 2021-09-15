@@ -7,6 +7,8 @@
 
 
 
+- I've been using IPVanish for quite a while. They were doing a deal was like $35/yr, and it was well worth the money. I've only used their Windows and Linux (CLI) clients, and have not once had an issue outside of Cloudflare blocking my IP. ([crunkcomputing](https://twitter.com/CrunkComputing/status/1438218990074007556))
+- Cloudflare CloudFlare - when you start use hcaptcha - the Internet has gotten much worse. My site is broken (site is available but assets are not) and no way how to enter captcha, because no way for user to solve worst ever captcha on site's assets ([insulatingtape](https://twitter.com/insulatingtape/status/1437409547824599043))
 - is your service currently down? Connections aren’t reliable and your service status page is giving an error at the host side of things (Cloudflare results). Some services seem to be working but not all. I’m using NBN ([craig_zimmerman](https://twitter.com/Craig_Zimmerman/status/1438104495762788359))
 - Weird cloudflare rules are blocking us from reviewing their site. I'm not on my work Amazon VPN which a lot of companies block, but just normal COX connection. ([jasoncarpentier](https://twitter.com/JasonCarpentier/status/1437484039758299136))
 - hey. You host a fishing site. Dm me for a link ([gmlandrey](https://twitter.com/gmlandrey/status/1437804161194725376))
