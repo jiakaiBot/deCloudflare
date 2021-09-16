@@ -298,6 +298,7 @@ Do not create new issue or we will close it as duplicate.
 | [amarandosw@twitter](https://twitter.com/amarandosw/status/1379324477650006018) | advertise |
 | [AmeenSh33976888@twitter](https://twitter.com/AmeenSh33976888/status/1381514867606089731) | advertise |
 | [ameenulhassanm1@twitter](https://twitter.com/ameenulhassanm1/status/1378228638353555457) | advertise |
+| [amekiri13@twitter](https://twitter.com/amekiri13/status/1437975591152611329) | advertise |
 | [AmeliaNyeint@twitter](https://twitter.com/AmeliaNyeint/status/1398295090909499397) | advertise |
 | [amir55087591@twitter](https://twitter.com/amir55087591/status/1399965313156804610) | advertise |
 | [amirchitgaran@twitter](https://twitter.com/amirchitgaran/status/1384197111500083214) | advertise |
@@ -1308,6 +1309,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dreambo12373748@twitter](https://twitter.com/Dreambo12373748/status/1393571818338877444) | advertise |
 | [DrGingex@twitter](https://twitter.com/DrGingex/status/1390552908379295749) | advertise |
 | [drkblog@twitter](https://twitter.com/drkblog/status/1430874637882339336) | advertise |
+| [drkbugs@twitter](https://twitter.com/drkbugs/status/1430874637882339336) | advertise |
 | [DRMRAWAL2@twitter](https://twitter.com/DRMRAWAL2/status/1403661034573885441) | advertise |
 | [drn1m4@twitter](https://twitter.com/drn1m4/status/1404462803528949762) | advertise |
 | [Drop20Rain@twitter](https://twitter.com/Drop20Rain/status/1396304228126183429) | advertise |
@@ -6281,6 +6283,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zeus41349153@twitter](https://twitter.com/Zeus41349153/status/1389858739851833346) | advertise |
 | [Zeven31589075@twitter](https://twitter.com/Zeven31589075/status/1391820184063647747) | advertise |
 | [ze_nier@twitter](https://twitter.com/ze_nier/status/1389247984110510083) | advertise |
+| [zGed001@twitter](https://twitter.com/zGed001/status/1438183713917988865) | advertise |
 | [zhan2958@twitter](https://twitter.com/zhan2958/status/1394117965734420482) | advertise |
 | [ZhangJueJue1@twitter](https://twitter.com/ZhangJueJue1/status/1383633631164260360) | advertise |
 | [Zhu_Apiral@twitter](https://twitter.com/Zhu_Apiral/status/1380403857822474240) | advertise |
