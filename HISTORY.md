@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-09-16: [Customers using Geo Key Manager may experience intermittent TLS termination in our San Jose, CA, Hong Kong, and Tokyo, JP locations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/77xbnfbkxfyj)
 - 2021-09-16: [AMP Real URL returning 5xx errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5kdgm0qy2qfp)
 - 2021-09-14: [Degraded performance issue with Rocket Loader in China](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vf1mpchyfdh9)
 - 2021-09-14: [Blank Pages being displayed for some customers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g02v9d87951d)
