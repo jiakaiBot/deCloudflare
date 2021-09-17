@@ -1528,6 +1528,7 @@ Do not create new issue or we will close it as duplicate.
 | [Freesty92893100@twitter](https://twitter.com/Freesty92893100/status/1398106800356937731) | advertise |
 | [Frhan67_@twitter](https://twitter.com/Frhan67_/status/1381961620218277890) | advertise |
 | [friesdan@twitter](https://twitter.com/friesdan/status/1411038385263714304) | moral (advertise) |
+| [frontware@twitter](https://twitter.com/frontware/status/1438345369256038400) | advertise |
 | [frshzrnmln@twitter](https://twitter.com/frshzrnmln/status/1432737386945933319) | advertise |
 | [FuckThong8@twitter](https://twitter.com/FuckThong8/status/1389450074309099521) | advertise |
 | [Fullmoo48883890@twitter](https://twitter.com/Fullmoo48883890/status/1392352133417078793) | advertise |
@@ -5208,6 +5209,7 @@ Do not create new issue or we will close it as duplicate.
 | [TamNguy02203080@twitter](https://twitter.com/TamNguy02203080/status/1389605980724359172) | advertise |
 | [Tan45474667@twitter](https://twitter.com/Tan45474667/status/1388679876987654149) | advertise |
 | [TAnh28750081@twitter](https://twitter.com/TAnh28750081/status/1394338740173115399) | advertise |
+| [TanyaBones@twitter](https://twitter.com/TanyaBones/status/1438527093273473036) | advertise |
 | [taraktungdung@twitter](https://twitter.com/taraktungdung/status/1397948304810418179) | advertise |
 | [Tarek69654012@twitter](https://twitter.com/Tarek69654012/status/1399075228454686720) | advertise |
 | [TarekAdra@twitter](https://twitter.com/TarekAdra/status/1382504134100811778) | advertise |
