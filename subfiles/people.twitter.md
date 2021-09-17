@@ -7,6 +7,7 @@
 
 
 
+- Please fix cloudflare receiving 404 error upon completion in major Mobile wallet app ([rorowear](https://twitter.com/rorowear/status/1438135628017790977))
 - Was set to full, I just changed it to Flex (strange, Flex is what I normally use). Think that was it? ([ronrule](https://twitter.com/ronrule/status/1438552281700605953))
 - PIA & Express always questionable. I used to use: 1. Home-hosted a few VPNs 2. 3. 4. Other providers I cannot remember 5. Outline + TOR on 6. I use various Cloudflare Teams and WARP for everything - lightning-fast TOR access ([maxfalstein](https://twitter.com/MaXFalstein/status/1438528871473713152))
 - I've been using IPVanish for quite a while. They were doing a deal was like $35/yr, and it was well worth the money. I've only used their Windows and Linux (CLI) clients, and have not once had an issue outside of Cloudflare blocking my IP. ([crunkcomputing](https://twitter.com/CrunkComputing/status/1438218990074007556))
