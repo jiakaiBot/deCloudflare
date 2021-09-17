@@ -7,6 +7,7 @@
 
 
 
+- getting really tired of the cloudflare endless refresh loops ([shmibs](https://tomo.airen-no-jikken.icu/objects/cf9c602f-669e-4c15-b97f-1888ae3f5632))
 - What stops #Cloudflare from making purchases on #cryptoExchanges they control, assuming the #moneyPrinter? Is it just ethics or could they be waiting for something. For example, when #bitcoinAdoption is at its peak and there's a lot of peoples' #savings on #onlineExchanges? Are they waiting for an order from #Biden to seize crypto on #exchanges? That is, an #FDR-style #confiscation, but of #bitcoin rather than #gold being taken? Almost all #bitcoin exchanges are Cloudflare. ([dsfgs](https://activism.openworlds.info/@dsfgs/106929997106106242))
 - (2) this site uses CloudFlare, by the way! :blobcatgiggle:​ ([strawberryfieldsforever](https://koyu.space/@strawberryfieldsforever/106930422706188331))
 - (2) this site uses CloudFlare, by the way! :blobcatgiggle:​ 👆 ([strawberryfieldsforever](https://koyu.space/@strawberryfieldsforever/106930423578806995))
