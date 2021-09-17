@@ -7,6 +7,12 @@
 
 
 
+- your site seems to be unavailable from Russia entirely (Origin DNS error 1016 Ray ID: 69036c30c8ac358f while accessing home page and just no response from internal pages) and Cloudflare presents infinite Captchas when opening from Tor. Is it normal? Any suggestions? ([arech8](https://twitter.com/Arech8/status/1438891816561123335))
+- Dear Cloudflare, your CAPTCHA suck. Sincerely, a developer who hates to look at low res pics of planes, buses, stairs, bikes... ([itsberkelium](https://twitter.com/itsberkelium/status/1438863525003370504))
+- I get a "result snot found error" instead... something is buggy ;) ([vsmferrari](https://twitter.com/vsmferrari/status/1438501278053589005))
+- I'd trouble loading this page in Tor browser, but now it works fine, maybe your cloudflare settings dislike some Tor exit nodes. ([jeffburdges](https://twitter.com/jeffburdges/status/1438733196418486275))
+- hey why I cant use with chrome on 11AM UTC to 4AM but works fine on firefox? ([shadowy_cod3r](https://twitter.com/shadowy_cod3r/status/1438766252881809413))
+- Hi - this isn't an operating system thing (I'm on a desktop using a browser), your CloudFlare setup is blocking my IP from accessing your site and app at all. ([cirrux](https://twitter.com/cirrux/status/1438144326748495877))
 - Is it just me or are captcha getting really hard? Especially the Cloudflare ones make me feel non-human. 😑 cloudflare captcha security ([_dark_binary_](https://twitter.com/_dark_binary_/status/1438736924131266561))
 - Please fix cloudflare receiving 404 error upon completion in major Mobile wallet app ([rorowear](https://twitter.com/rorowear/status/1438135628017790977))
 - Was set to full, I just changed it to Flex (strange, Flex is what I normally use). Think that was it? ([ronrule](https://twitter.com/ronrule/status/1438552281700605953))
