@@ -7,6 +7,7 @@
 
 
 
+- Yep. It’s throwing up a Cloudflare host error. ([polettidan](https://twitter.com/polettidan/status/1439252961511854090))
 - your site seems to be unavailable from Russia entirely (Origin DNS error 1016 Ray ID: 69036c30c8ac358f while accessing home page and just no response from internal pages) and Cloudflare presents infinite Captchas when opening from Tor. Is it normal? Any suggestions? ([arech8](https://twitter.com/Arech8/status/1438891816561123335))
 - Dear Cloudflare, your CAPTCHA suck. Sincerely, a developer who hates to look at low res pics of planes, buses, stairs, bikes... ([itsberkelium](https://twitter.com/itsberkelium/status/1438863525003370504))
 - I get a "result snot found error" instead... something is buggy ;) ([vsmferrari](https://twitter.com/vsmferrari/status/1438501278053589005))
