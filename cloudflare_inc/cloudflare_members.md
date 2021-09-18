@@ -1522,6 +1522,7 @@ Or is this merely a case of simple modesty?
 | Talea Seyed | Customer Success | [🖼](../image/gang/Talea_Seyed.jpg) |
 | Talha Paracha | Intern |  |
 | Taly Slachevsky | Support Engineer |  |
+| Tanner Ryan | Employee | |
 | Tanvi Agrawal | Business Development |  |
 | Tanya Paige | Recruiting |  |
 | Tanya Verma | Employee | [🖼](../image/gang/Tanya_Verma.jpg) |
@@ -1604,6 +1605,7 @@ Or is this merely a case of simple modesty?
 | Vanessa Royle | Public Relations | https://twitter.com/vcroyle |
 | Varun Mehta | Employee |  |
 | Vasco Asturiano | Front End Engineer | [🖼](../image/gang/Vasco_Asturiano.jpg)<br>vastur@gmail.com<br>https://twitter.com/vastur<br>https://github.com/vasturiano |
+| Vasileios Giotsas | Employee | |
 | Vasti Porter | Front Desk |  |
 | Venkat Chaithanya | Employee | [🖼](../image/gang/8f9c66f7e64c2d124b413561b0a52ac24a66d1e1.jpg) |
 | Venkat Viswanathan | Employee |  |
