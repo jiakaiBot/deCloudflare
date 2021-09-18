@@ -1110,6 +1110,7 @@ Do not create new issue or we will close it as duplicate.
 | [CynthiaWeirr_MK@twitter](https://twitter.com/CynthiaWeirr_MK/status/1431973396359811076) | advertise |
 | [cyy_nancy@twitter](https://twitter.com/cyy_nancy/status/1393253162547482626) | advertise |
 | [CyZGaUQMPNlTV1p@twitter](https://twitter.com/CyZGaUQMPNlTV1p/status/1396484819941347336) | advertise |
+| [c_ming_@twitter](https://twitter.com/c_ming_/status/1438859741480902661) | advertise |
 | [d7W2kx2ukyk0FhC@twitter](https://twitter.com/d7W2kx2ukyk0FhC/status/1395120949343760384) | advertise |
 | [d40aldo@twitter](https://twitter.com/d40aldo/status/1422681010123247620) | advertise |
 | [DaBestxone@twitter](https://twitter.com/DaBestxone/status/1395588482571980800) | advertise |
@@ -1289,6 +1290,7 @@ Do not create new issue or we will close it as duplicate.
 | [DonColeone14@twitter](https://twitter.com/DonColeone14/status/1399383393515839493) | advertise |
 | [DONGame51021087@twitter](https://twitter.com/DONGame51021087/status/1388107888640487424) | advertise |
 | [dongdon16656059@twitter](https://twitter.com/dongdon16656059/status/1386890742702895106) | advertise |
+| [dongta1983bk@twitter](https://twitter.com/dongta1983bk/status/1438900220939550725) | advertise |
 | [DongZhi1992@twitter](https://twitter.com/DongZhi1992/status/1401825155169456129) | advertise |
 | [donkey_th@twitter](https://twitter.com/donkey_th/status/1404873847786987523) | advertise |
 | [DonLVn2@twitter](https://twitter.com/DonLVn2/status/1378897523100712963) | advertise |
@@ -3286,6 +3288,7 @@ Do not create new issue or we will close it as duplicate.
 | [MdyBboy@twitter](https://twitter.com/MdyBboy/status/1390850990161629184) | advertise |
 | [MdyHFBottom42@twitter](https://twitter.com/MdyHFBottom42/status/1397154163105009669) | advertise |
 | [Me3nDDbGmrDw9Lw@twitter](https://twitter.com/Me3nDDbGmrDw9Lw/status/1407391634812293121) | advertise |
+| [med61883332@twitter](https://twitter.com/med61883332/status/1439010726480420871) | advertise |
 | [MeeMee71555616@twitter](https://twitter.com/MeeMee71555616/status/1395746751051558919) | advertise |
 | [MeeMeeAye1@twitter](https://twitter.com/MeeMeeAye1/status/1395916457137958913) | advertise |
 | [meenge27@twitter](https://twitter.com/meenge27/status/1405096545372966915) | advertise |
