@@ -7,6 +7,7 @@
 
 
 
+- They are adding Cloudflare. That protection adds blocking access to certain criteria (such as countries, blocks of IP addresses and so on). It takes a bit of tweaking once installed to ensure proper people can get in. You block everyone and then start opening up. Give them time. ([mshultise](https://twitter.com/MShultise/status/1439296764066942978))
 - Yep. It’s throwing up a Cloudflare host error. ([polettidan](https://twitter.com/polettidan/status/1439252961511854090))
 - your site seems to be unavailable from Russia entirely (Origin DNS error 1016 Ray ID: 69036c30c8ac358f while accessing home page and just no response from internal pages) and Cloudflare presents infinite Captchas when opening from Tor. Is it normal? Any suggestions? ([arech8](https://twitter.com/Arech8/status/1438891816561123335))
 - Dear Cloudflare, your CAPTCHA suck. Sincerely, a developer who hates to look at low res pics of planes, buses, stairs, bikes... ([itsberkelium](https://twitter.com/itsberkelium/status/1438863525003370504))
