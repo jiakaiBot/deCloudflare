@@ -873,6 +873,7 @@ ns1.gnldm1082.siteground.biz
 ns1.gnldm1083.siteground.biz
 ns1.gnldm1084.siteground.biz
 ns1.gnldm1085.siteground.biz
+ns1.gnldm1086.siteground.biz
 ns1.gnldm1087.siteground.biz
 ns1.gnldm2.siteground.biz
 ns1.gnldm3.siteground.biz
@@ -2817,6 +2818,7 @@ ns2.gnldm1082.siteground.biz
 ns2.gnldm1083.siteground.biz
 ns2.gnldm1084.siteground.biz
 ns2.gnldm1085.siteground.biz
+ns2.gnldm1086.siteground.biz
 ns2.gnldm1087.siteground.biz
 ns2.gnldm2.siteground.biz
 ns2.gnldm3.siteground.biz
