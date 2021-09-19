@@ -746,6 +746,7 @@ Do not create new issue or we will close it as duplicate.
 | [BerLin04760239@twitter](https://twitter.com/BerLin04760239/status/1391006813512888322) | advertise |
 | [berma_o@twitter](https://twitter.com/berma_o/status/1392514849402392579) | advertise |
 | [bero14776379@twitter](https://twitter.com/bero14776379/status/1386763874045677568) | advertise |
+| [bert_rell@twitter](https://twitter.com/bert_rell/status/1439350935457722368) | advertise |
 | [Beyonce01487842@twitter](https://twitter.com/Beyonce01487842/status/1382345074642542599) | advertise |
 | [beyou2021@twitter](https://twitter.com/beyou2021/status/1396901974851862528) | advertise |
 | [BforeAi@twitter](https://twitter.com/BforeAi/status/1407094270700498944) | advertise |
@@ -875,6 +876,7 @@ Do not create new issue or we will close it as duplicate.
 | [BrightonHoney@twitter](https://twitter.com/BrightonHoney/status/1436108216656670724) | advertise |
 | [bright_wyne@twitter](https://twitter.com/bright_wyne/status/1391849321524436992) | advertise |
 | [BrillanteAndrei@twitter](https://twitter.com/BrillanteAndrei/status/1386016310790873088) | advertise |
+| [BrownBagPK@twitter](https://twitter.com/BrownBagPK/status/1439317014099730448) | advertise |
 | [Brownboi777@twitter](https://twitter.com/Brownboi777/status/1397100254122561536) | advertise |
 | [Bruce17288015@twitter](https://twitter.com/Bruce17288015/status/1390644008020418560) | advertise |
 | [Bruce26504010@twitter](https://twitter.com/Bruce26504010/status/1390251989444009991) | advertise |
@@ -1159,6 +1161,7 @@ Do not create new issue or we will close it as duplicate.
 | [Darlingthaw@twitter](https://twitter.com/Darlingthaw/status/1400112566580310016) | advertise |
 | [darlslow@twitter](https://twitter.com/darlslow/status/1387923986911154179) | advertise |
 | [darmametta@twitter](https://twitter.com/darmametta/status/1388727313919922179) | advertise |
+| [DarrenNathans@twitter](https://twitter.com/DarrenNathans/status/1439219446069936132) | advertise |
 | [dasith_vidanage@twitter](https://twitter.com/dasith_vidanage/status/1386590411515305984) | advertise |
 | [Dat53629469@twitter](https://twitter.com/Dat53629469/status/1394189886190542848) | advertise |
 | [Dat70675278@twitter](https://twitter.com/Dat70675278/status/1403938942710214661) | advertise |
@@ -3998,6 +4001,7 @@ Do not create new issue or we will close it as duplicate.
 | [NnguyenUy@twitter](https://twitter.com/NnguyenUy/status/1389091092331597824) | advertise |
 | [NnmhBgoMy@twitter](https://twitter.com/NnmhBgoMy/status/1398200094818668546) | advertise |
 | [NoBanId2@twitter](https://twitter.com/NoBanId2/status/1395574170683985928) | advertise |
+| [Nobel_Chow@twitter](https://twitter.com/Nobel_Chow/status/1439072225466847241) | advertise |
 | [nobinafurio2k@twitter](https://twitter.com/nobinafurio2k/status/1396555230838415361) | advertise |
 | [nobitacute1234@twitter](https://twitter.com/nobitacute1234/status/1401232376559067144) | advertise |
 | [noe28956578@twitter](https://twitter.com/noe28956578/status/1391961386540945410) | advertise |
@@ -4465,6 +4469,7 @@ Do not create new issue or we will close it as duplicate.
 | [PyayPhone@twitter](https://twitter.com/PyayPhone/status/1392556724943425536) | advertise |
 | [PyingSist@twitter](https://twitter.com/PyingSist/status/1386888669491982340) | advertise |
 | [PyTeaDis@twitter](https://twitter.com/PyTeaDis/status/1403714156851646466) | advertise |
+| [p_bhands@twitter](https://twitter.com/p_bhands/status/1439221468508925954) | advertise |
 | [P___NOO@twitter](https://twitter.com/P___NOO/status/1389947952836218884) | advertise |
 | [qalifhilmi@twitter](https://twitter.com/qalifhilmi/status/1394339624986681344) | advertise |
 | [qbar65081251@twitter](https://twitter.com/qbar65081251/status/1400029689020702721) | advertise |
