@@ -7,6 +7,10 @@
 
 
 
+- Pls get the Iceborne set builder back online, It still shows some Cloudflare SSL error, thx. ([shawndsilva97](https://twitter.com/shawndsilva97/status/1437376163312111625))
+- I’ve been waiting from 7:45AM GMT time to buy the latest Stitch Crashes Disney and I’ve now been blocked by CloudFlare. I have tried on three different devices! shopDisneySupport stitchcrashesdisney ([mel_politics](https://twitter.com/mel_politics/status/1439133915961253889))
+- sort your website out. Cloudflare is blocking everybody because the virtual queue refreshes so many times.🤦🏻‍♂️ ([ilovefluffy](https://twitter.com/ilovefluffy/status/1439130448081326083))
+- why is an IP owned by you (172.70.143.86) trying to log into my WordPress site? It's made 12 attempts to log in as admin ([dostalcody](https://twitter.com/DostalCody/status/1439286485044408321))
 - They are adding Cloudflare. That protection adds blocking access to certain criteria (such as countries, blocks of IP addresses and so on). It takes a bit of tweaking once installed to ensure proper people can get in. You block everyone and then start opening up. Give them time. ([mshultise](https://twitter.com/MShultise/status/1439296764066942978))
 - Yep. It’s throwing up a Cloudflare host error. ([polettidan](https://twitter.com/polettidan/status/1439252961511854090))
 - your site seems to be unavailable from Russia entirely (Origin DNS error 1016 Ray ID: 69036c30c8ac358f while accessing home page and just no response from internal pages) and Cloudflare presents infinite Captchas when opening from Tor. Is it normal? Any suggestions? ([arech8](https://twitter.com/Arech8/status/1438891816561123335))
