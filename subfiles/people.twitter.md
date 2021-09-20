@@ -7,6 +7,10 @@
 
 
 
+- How does a domain owner who doesn't use Cloudflare nor have DNS pointed at Cloudflare contact Cloudflare in order to remove conflicting DNS records on Cloudflare's system. Have a 10 day old ticket, still no idea how to get those DNS records removed. ([austinginder](https://twitter.com/austinginder/status/1437542438772559874))
+- Took more than 10 minutes for the workers from 2captcha to solve the captcha in the cloudflare form. We will be implementing a warning alert for when the api is offline because of it. ([checkleaked](https://twitter.com/checkleaked/status/1440037772606140421))
+- This has been an issue for about the past month in India. Currently, BHARTI Airtel Ltd. is blocking some IP addresses from CloudFlare which my site uses. I'm going to try some things and see if it solves though. ([leekduckreplies](https://twitter.com/LeekDuckReplies/status/1439888039304744960))
+- Cloudflare and Sucuri both do, they have GeoIP/anonymous proxy blocking Please get CloudFlare involve or if you can't handle it --usually these type of issues either you resolve in 2 hrs max or you get security consultant involve plz!! ([1bosh007](https://twitter.com/1Bosh007/status/1439039295768121344))
 - Pls get the Iceborne set builder back online, It still shows some Cloudflare SSL error, thx. ([shawndsilva97](https://twitter.com/shawndsilva97/status/1437376163312111625))
 - I’ve been waiting from 7:45AM GMT time to buy the latest Stitch Crashes Disney and I’ve now been blocked by CloudFlare. I have tried on three different devices! shopDisneySupport stitchcrashesdisney ([mel_politics](https://twitter.com/mel_politics/status/1439133915961253889))
 - sort your website out. Cloudflare is blocking everybody because the virtual queue refreshes so many times.🤦🏻‍♂️ ([ilovefluffy](https://twitter.com/ilovefluffy/status/1439130448081326083))
