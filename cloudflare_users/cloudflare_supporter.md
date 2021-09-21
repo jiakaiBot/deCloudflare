@@ -6343,6 +6343,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZiZu063040@twitter](https://twitter.com/ZiZu063040/status/1396780443609886724) | advertise |
 | [ZJenghpang@twitter](https://twitter.com/ZJenghpang/status/1392524591159922689) | advertise |
 | [ZLinnhtun@twitter](https://twitter.com/ZLinnhtun/status/1394069238357184512) | advertise |
+| [zlitzinger93@twitter](https://twitter.com/zlitzinger93/status/1440029318382510083) | advertise |
 | [ZMA13729972@twitter](https://twitter.com/ZMA13729972/status/1390879781315514371) | advertise |
 | [ZMaroo31@twitter](https://twitter.com/ZMaroo31/status/1394525495367196674) | advertise |
 | [Znaiag96@twitter](https://twitter.com/Znaiag96/status/1384906789829873666) | advertise |
