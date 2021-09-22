@@ -7,6 +7,14 @@
 
 
 
+- Could you please stop with the Cloudflare it getting annoying. ([kman08336098](https://twitter.com/Kman08336098/status/1440720867852390406))
+- The Cloudflare proxy is blocking any edits to fax virtual faxes or faxing abilities ([mattynealo](https://twitter.com/mattynealo/status/1440640308182614021))
+- Problems? Can't even reach your site as I'm getting a cloudflare access denied message and says my IP is banned. ([chrithor](https://twitter.com/ChriThor/status/1440386242168823811))
+- how do I get past cloudflare that doesn't even show the Captcha Box 😩 ([ctrlsth](https://twitter.com/ctrlsth/status/1440470513915084805))
+- Error 1020 Ray ID: 691b22f5faa93c7c • 2021-09-20 12:42:56 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 691b22f5faa93c7c Your IP: 8.210.213.230 Performance & security by Cloudflare ([kingking8882](https://twitter.com/kingking8882/status/1439933186042056707))
+- does tunnelbear not work in Turkey? I’m a customer for almost 2 years now, on holiday in Turkey and can’t load tunnelbear whatsoever. When I use tor to load your website I had to do 19 Cloudflare captchas. ([jellevliet](https://twitter.com/jellevliet/status/1440693558357282826))
+- As a Linux user, Cloudflare can kiss my fucking ass. ([sleeplessval](https://twitter.com/sleeplessval/status/1440771247948763136))
+- Any other tech company would have sorted this out. Proxies, Load Balancers --actually using fucking cloudflare--. Fuck. DDoS attacks are nothing new, if you don't know how to mitigate them why the fuck are you even in the industry. Fucking amateur hour over here. ([fong_hj](https://twitter.com/fong_hj/status/1440671601041633292))
 - We have. Aren't getting the answers we need, that's why I directed toward known Cloudflare leaders. We have breaking changes that were forced upon us and we are requesting that certain behaviors be changed to work as they did before. Support doesn't have that power ([clintavo](https://twitter.com/clintavo/status/1440685568388599810))
 - Hm, I keep getting a Cloudflare error page when I try to load this. ([rodneylives](https://twitter.com/rodneylives/status/1440227764162813956))
 - Poor is getting absolutely beaten down by a DDoS attack. But Cloudflare's CAPTCHA pages are incredibly frustrating so I hope the attack ends soon because I can't log in until the CAPTCHA pages go away. ([oowm](https://twitter.com/oowm/status/1439966896250494977))
