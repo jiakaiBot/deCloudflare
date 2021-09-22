@@ -7,6 +7,7 @@
 
 
 
+- We have. Aren't getting the answers we need, that's why I directed toward known Cloudflare leaders. We have breaking changes that were forced upon us and we are requesting that certain behaviors be changed to work as they did before. Support doesn't have that power ([clintavo](https://twitter.com/clintavo/status/1440685568388599810))
 - Hm, I keep getting a Cloudflare error page when I try to load this. ([rodneylives](https://twitter.com/rodneylives/status/1440227764162813956))
 - Poor is getting absolutely beaten down by a DDoS attack. But Cloudflare's CAPTCHA pages are incredibly frustrating so I hope the attack ends soon because I can't log in until the CAPTCHA pages go away. ([oowm](https://twitter.com/oowm/status/1439966896250494977))
 - CLOUDFLARE CAN YOU STOP SUCKING FOR LIKE 5 MINUTES ([sailorsoapbox](https://twitter.com/SailorSoapbox/status/1440377889136930818))
