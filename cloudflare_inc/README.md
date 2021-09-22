@@ -1,4 +1,4 @@
-# Cloudflare, inc.
+# Cloudflare, Inc.
 
 Kontraŭ-homa gvatada & cenzura kompanio.
 
