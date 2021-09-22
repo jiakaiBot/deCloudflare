@@ -7,6 +7,10 @@
 
 
 
+- Hm, I keep getting a Cloudflare error page when I try to load this. ([rodneylives](https://twitter.com/rodneylives/status/1440227764162813956))
+- Poor is getting absolutely beaten down by a DDoS attack. But Cloudflare's CAPTCHA pages are incredibly frustrating so I hope the attack ends soon because I can't log in until the CAPTCHA pages go away. ([oowm](https://twitter.com/oowm/status/1439966896250494977))
+- CLOUDFLARE CAN YOU STOP SUCKING FOR LIKE 5 MINUTES ([sailorsoapbox](https://twitter.com/SailorSoapbox/status/1440377889136930818))
+- I wasn't able to mint the blue chip on opensea due to some cloudflare issue, is there away of going about the stuff when time I experience that coz I'm fucking hate myself for missing the blue chips free mint. This your free mint will really turn people into millionaire ([michtos001](https://twitter.com/Michtos001/status/1439412448302407683))
 - Please. Do not host your LNURL / LN Address service behind Cloudflare. You will lock out all services that use Tor and they won't be able to transact with you. Support Tor 🧅❤️ ([calllllllllle](https://twitter.com/calllllllllle/status/1440326831333265414))
 - How does a domain owner who doesn't use Cloudflare nor have DNS pointed at Cloudflare contact Cloudflare in order to remove conflicting DNS records on Cloudflare's system. Have a 10 day old ticket, still no idea how to get those DNS records removed. ([austinginder](https://twitter.com/austinginder/status/1437542438772559874))
 - Took more than 10 minutes for the workers from 2captcha to solve the captcha in the cloudflare form. We will be implementing a warning alert for when the api is offline because of it. ([checkleaked](https://twitter.com/checkleaked/status/1440037772606140421))
