@@ -1108,6 +1108,7 @@ Do not create new issue or we will close it as duplicate.
 | [cYAsVengeance@twitter](https://twitter.com/cYAsVengeance/status/1386961394793336832) | advertise |
 | [Cyb3r1no@twitter](https://twitter.com/Cyb3r1no/status/1394706481459703812) | advertise |
 | [Cyberga32484625@twitter](https://twitter.com/Cyberga32484625/status/1393421007205978117) | advertise |
+| [CyberwealthP@twitter](https://twitter.com/CyberwealthP/status/1440298836857999362) | advertise |
 | [CyenFinch@twitter](https://twitter.com/CyenFinch/status/1394179759978934272) | advertise |
 | [CynthiaWeirr_MK@twitter](https://twitter.com/CynthiaWeirr_MK/status/1431973396359811076) | advertise |
 | [cyy_nancy@twitter](https://twitter.com/cyy_nancy/status/1393253162547482626) | advertise |
@@ -3450,6 +3451,7 @@ Do not create new issue or we will close it as duplicate.
 | [MiracleAkporode@twitter](https://twitter.com/MiracleAkporode/status/1404854944746950659) | advertise |
 | [Mirakhiil@twitter](https://twitter.com/Mirakhiil/status/1377110594734628870) | advertise |
 | [mirzazaid92@twitter](https://twitter.com/mirzazaid92/status/1420450058961567744) | advertise |
+| [mishyisafishy@twitter](https://twitter.com/mishyisafishy/status/1440141603750899716) | advertise |
 | [MissHaileysGirl@twitter](https://twitter.com/MissHaileysGirl/status/1392297883303563264) | advertise |
 | [miss_hatce@twitter](https://twitter.com/miss_hatce/status/1398657543245864966) | advertise |
 | [Mistah_Random@twitter](https://twitter.com/Mistah_Random/status/1402645157070127113) | advertise |
@@ -4104,6 +4106,7 @@ Do not create new issue or we will close it as duplicate.
 | [of_544@twitter](https://twitter.com/of_544/status/1395086316665118720) | advertise |
 | [OhAeri36127137@twitter](https://twitter.com/OhAeri36127137/status/1401014602033414148) | advertise |
 | [OhArthit2@twitter](https://twitter.com/OhArthit2/status/1390821661566324740) | advertise |
+| [ohmygod57@twitter](https://twitter.com/ohmygod57/status/1440233141122207747) | advertise |
 | [ohS9Rnf3KUWfAVm@twitter](https://twitter.com/ohS9Rnf3KUWfAVm/status/1392515160221364225) | advertise |
 | [ohsewu@twitter](https://twitter.com/ohsewu/status/1390553814147559425) | advertise |
 | [Okami54259404@twitter](https://twitter.com/Okami54259404/status/1391062217710129154) | advertise |
