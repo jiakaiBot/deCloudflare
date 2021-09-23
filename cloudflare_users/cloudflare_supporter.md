@@ -3465,6 +3465,7 @@ Do not create new issue or we will close it as duplicate.
 | [mkhyunie@twitter](https://twitter.com/mkhyunie/status/1402262464369250316) | advertise |
 | [mkk01612638@twitter](https://twitter.com/mkk01612638/status/1391092816718139395) | advertise |
 | [MKTOT3@twitter](https://twitter.com/MKTOT3/status/1391092948767371265) | advertise |
+| [mkwsra@twitter](https://twitter.com/mkwsra/status/1440805231105695746) | advertise |
 | [MMARMY98815463@twitter](https://twitter.com/MMARMY98815463/status/1383095144606441473) | advertise |
 | [mmfootballmm@twitter](https://twitter.com/mmfootballmm/status/1380215958082441218) | advertise |
 | [MMK22797499@twitter](https://twitter.com/MMK22797499/status/1391278481300938752) | advertise |
@@ -3596,6 +3597,7 @@ Do not create new issue or we will close it as duplicate.
 | [MrYeMinTun1@twitter](https://twitter.com/MrYeMinTun1/status/1394660706490806274) | advertise |
 | [Mrzawmyooo1@twitter](https://twitter.com/Mrzawmyooo1/status/1393509214518005764) | advertise |
 | [MrZero51744009@twitter](https://twitter.com/MrZero51744009/status/1394291132293521421) | advertise |
+| [mr_dominguez_89@twitter](https://twitter.com/mr_dominguez_89/status/1437832776573759492) | advertise |
 | [mr_lover574@twitter](https://twitter.com/mr_lover574/status/1394097023486410752) | advertise |
 | [Mr_Serius86@twitter](https://twitter.com/Mr_Serius86/status/1385063841919225857) | advertise |
 | [Mr_Teerasuk@twitter](https://twitter.com/Mr_Teerasuk/status/1394916839864430594) | advertise |
@@ -5950,6 +5952,7 @@ Do not create new issue or we will close it as duplicate.
 | [win4_zin@twitter](https://twitter.com/win4_zin/status/1385173217396940806) | advertise |
 | [win55818@twitter](https://twitter.com/win55818/status/1398542432480886787) | advertise |
 | [WinBo30180694@twitter](https://twitter.com/WinBo30180694/status/1390247886076579840) | advertise |
+| [WinchWebsites@twitter](https://twitter.com/WinchWebsites/status/1440532786725605386) | advertise |
 | [windyhen@twitter](https://twitter.com/windyhen/status/1389081253962338309) | advertise |
 | [winhear15139223@twitter](https://twitter.com/winhear15139223/status/1393369104241725443) | advertise |
 | [WinHtetMon1@twitter](https://twitter.com/WinHtetMon1/status/1392151277052698631) | advertise |
