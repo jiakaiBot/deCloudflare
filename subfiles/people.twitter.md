@@ -7,6 +7,11 @@
 
 
 
+- Someone is using my public email address to sign up for an account, seen this reported by others as well. ([sethmlarson](https://twitter.com/sethmlarson/status/1441050872113471495))
+- Got Error 520 Cloudflare ‘Website is showing an unknown error’ showing on iPad and iPhone so can’t access site. ([ladyofamanor](https://twitter.com/LadyOfAManor/status/1440955187502456832))
+- For 4 days my website has been down and still is not resolved after contacting support. Cloudflare cdn has issues connecting to bluehost servers and I been receiving error 521 since September 15 ([jayvil4](https://twitter.com/jayvil4/status/1439742444652793859))
+- Unfortunately, I was also blocked by Cloudflare for scraping OS and had to resolve to using OpenSea API for getting the floor price instead. You can actually now get it from the OpenSea Single Asset API! ([_solazy](https://twitter.com/_solazy/status/1441160888401100813))
+- Well I'd look it up. You're focussing on LE for some reason but there are many offer basic DV. You can pay more for EV or OV but that doesn't stop an attacker doing DV later. ([bettyvschmartz](https://twitter.com/bettyvschmartz/status/1440976976014086144))
 - Could you please stop with the Cloudflare it getting annoying. ([kman08336098](https://twitter.com/Kman08336098/status/1440720867852390406))
 - The Cloudflare proxy is blocking any edits to fax virtual faxes or faxing abilities ([mattynealo](https://twitter.com/mattynealo/status/1440640308182614021))
 - Problems? Can't even reach your site as I'm getting a cloudflare access denied message and says my IP is banned. ([chrithor](https://twitter.com/ChriThor/status/1440386242168823811))
