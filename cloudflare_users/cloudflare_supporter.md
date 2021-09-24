@@ -246,6 +246,7 @@ Do not create new issue or we will close it as duplicate.
 | [alaSrjWD6XgiUtA@twitter](https://twitter.com/alaSrjWD6XgiUtA/status/1384166341989466114) | advertise |
 | [alattkung10@twitter](https://twitter.com/alattkung10/status/1390579083508019201) | advertise |
 | [Albert88Lim@twitter](https://twitter.com/Albert88Lim/status/1400923426244546562) | advertise |
+| [albNo273@twitter](https://twitter.com/albNo273/status/1440877956709040136) | advertise |
 | [aldoscar_oscar@twitter](https://twitter.com/aldoscar_oscar/status/1377318204477964290) | advertise |
 | [Ales19412051@twitter](https://twitter.com/Ales19412051/status/1407593618949345287) | advertise |
 | [alex14387982@twitter](https://twitter.com/alex14387982/status/1389461110391144448) | advertise |
@@ -2360,6 +2361,7 @@ Do not create new issue or we will close it as duplicate.
 | [Joshua36202734@twitter](https://twitter.com/Joshua36202734/status/1388884857653137415) | advertise |
 | [JpMatuto@twitter](https://twitter.com/JpMatuto/status/1388240079810973699) | advertise |
 | [JSongtakri@twitter](https://twitter.com/JSongtakri/status/1380804099340439556) | advertise |
+| [JTdoodler@twitter](https://twitter.com/JTdoodler/status/1441130159227252738) | advertise |
 | [JulianaXlie@twitter](https://twitter.com/JulianaXlie/status/1392063889697697799) | advertise |
 | [JulieMmtm12@twitter](https://twitter.com/JulieMmtm12/status/1383610725751427076) | advertise |
 | [Julliannay@twitter](https://twitter.com/Julliannay/status/1386969993019940867) | advertise |
@@ -4705,6 +4707,7 @@ Do not create new issue or we will close it as duplicate.
 | [sadiqful_@twitter](https://twitter.com/sadiqful_/status/1404839930405195781) | advertise |
 | [SAdonain@twitter](https://twitter.com/SAdonain/status/1381530629565648902) | advertise |
 | [sad_sakib@twitter](https://twitter.com/sad_sakib/status/1388885692059590658) | advertise |
+| [SaeedAshifAhmed@twitter](https://twitter.com/SaeedAshifAhmed/status/1440904537758318601) | advertise |
 | [Sagar40471368@twitter](https://twitter.com/Sagar40471368/status/1394306315283959815) | advertise |
 | [SagrJony@twitter](https://twitter.com/SagrJony/status/1378421082592575491) | advertise |
 | [sahilbagde20@twitter](https://twitter.com/sahilbagde20/status/1391423702001012740) | advertise |
