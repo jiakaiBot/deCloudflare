@@ -7,6 +7,7 @@
 
 
 
+- Everything down again. It's looking like you changed your DNS away from CloudFlare back to those stupid ass Switchvox servers, are you fucking serious? ([rculver91](https://twitter.com/rculver91/status/1441418932771082246))
 - Hi - I'm getting the Cloudflare server error message so can't access the site, any idea why this is? ([lauraalbins](https://twitter.com/LauraAlbins/status/1441305751411060741))
 - Someone is using my public email address to sign up for an account, seen this reported by others as well. ([sethmlarson](https://twitter.com/sethmlarson/status/1441050872113471495))
 - Got Error 520 Cloudflare ‘Website is showing an unknown error’ showing on iPad and iPhone so can’t access site. ([ladyofamanor](https://twitter.com/LadyOfAManor/status/1440955187502456832))
