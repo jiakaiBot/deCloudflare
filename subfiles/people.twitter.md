@@ -7,6 +7,7 @@
 
 
 
+- Just tried an other search.. still using VPN. "DDoS protection by Cloudflare Ray ID: 693f903c79c85349" Cloudflare is worthless. ([paulp1232](https://twitter.com/paulp1232/status/1441536103798882306))
 - Can't log in on Android app. Can only log in on browser on PC. Asks for 2-factor every login, despite 'Remember Device'. Using chrome on android gives a certificate error. Other people are getting this. Might be a cloudflare issue. ([madhoneygames](https://twitter.com/MadHoneyGames/status/1441434386382024704))
 - Everything down again. It's looking like you changed your DNS away from CloudFlare back to those stupid ass Switchvox servers, are you fucking serious? ([rculver91](https://twitter.com/rculver91/status/1441418932771082246))
 - Hi - I'm getting the Cloudflare server error message so can't access the site, any idea why this is? ([lauraalbins](https://twitter.com/LauraAlbins/status/1441305751411060741))
