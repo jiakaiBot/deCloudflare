@@ -7,6 +7,7 @@
 
 
 
+- It seems somebody (not me) just tried to use my email address to create an account with you. Can that be traced in any way? ([fmork](https://twitter.com/fmork/status/1441828694889320448))
 - I actually did. Then I got blocked by sites that used cloudflare. So I removed it. ([dangeredwolf](https://twitter.com/dangeredwolf/status/1441721962531672071))
 - Can someone please explain it to me like I’m fucking stupid why the Cloudflare thing hasn’t been fixed? ([twodayoldtuna](https://twitter.com/TwoDayOldTuna/status/1431733916654874627))
 - I'm unable to access your website and web app in India. Do you have any notice of being blocked here? ISP is ACT Fibernet and I've tried using Cloudflare and Google DNS for resolution. Works when I'm connected to VPN. ([twittadhee](https://twitter.com/TwittaDhee/status/1441444336151896070))
