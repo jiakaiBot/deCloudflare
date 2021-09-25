@@ -7,6 +7,7 @@
 
 
 
+- It is not "another", just the same nonstop dDoS attack. When you add capacity to your systems, volume of bad traffic will adjust automatically to the new level. CloudFlare could stop it. I am not sure if 15 new servers will be capable to deliver service for 80K users on Monday. ([sergipolischuk](https://twitter.com/sergipolischuk/status/1441847458280075267))
 - It seems somebody (not me) just tried to use my email address to create an account with you. Can that be traced in any way? ([fmork](https://twitter.com/fmork/status/1441828694889320448))
 - I actually did. Then I got blocked by sites that used cloudflare. So I removed it. ([dangeredwolf](https://twitter.com/dangeredwolf/status/1441721962531672071))
 - Can someone please explain it to me like I’m fucking stupid why the Cloudflare thing hasn’t been fixed? ([twodayoldtuna](https://twitter.com/TwoDayOldTuna/status/1431733916654874627))
