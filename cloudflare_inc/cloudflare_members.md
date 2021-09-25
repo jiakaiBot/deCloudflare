@@ -820,6 +820,7 @@ Or is this merely a case of simple modesty?
 | Joshua Johnson | Software Engineering Intern, Austin | [🖼](../image/gang/Joshua_Johnson.jpg) |
 | Joshua Kroll | Systems Engineer |  |
 | Joshua Liebow-Feeser | Information Security Engineer |  |
+| Joshua Nelson | Employee | |
 | Joshua Watts | Business Development |  |
 | Jovi Zhangwei | Systems Engineer |  |
 | Joyce Ottignon | Information Technology Team |  |
@@ -1080,6 +1081,7 @@ Or is this merely a case of simple modesty?
 | Meghan Weinreich | Demand Generation | https://twitter.com/MegWeinreich |
 | Meg He | Employee |  |
 | Melissa Henderson | IT Support Technician |  |
+| Mengqi Chen | Employee | |
 | Meyer Zinn | Employee | |
 | Mia Hardy-Thompson | Business Development |  |
 | Mia Wang | Special Projects |  |
@@ -1551,6 +1553,7 @@ Or is this merely a case of simple modesty?
 | Thom Chiovoloni | Systems engineer | chiovolonit@gmail.com<br>https://shift.click/<br>https://twitter.com/at_tcsc<br>https://github.com/thomcc |
 | Thom Henneberger | Employee |  |
 | Thom Wiggers | Employee | [🖼](../image/gang/Thom_Wiggers.jpg) |
+| Ticiane Takami | Employee | |
 | Tiffany Moeller | Software Engineer |  |
 | Tiffany Odeka | Events |  |
 | Tiffany Tai | Sales Operations and Strategy |  |
