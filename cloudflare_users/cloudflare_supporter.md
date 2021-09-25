@@ -2287,6 +2287,7 @@ Do not create new issue or we will close it as duplicate.
 | [jHxLav8ObDrTdrc@twitter](https://twitter.com/jHxLav8ObDrTdrc/status/1401749357381120000) | advertise |
 | [jiiahani@twitter](https://twitter.com/jiiahani/status/1399603047244853249) | advertise |
 | [JiiSaaduddin@twitter](https://twitter.com/JiiSaaduddin/status/1429958660575293466) | advertise |
+| [jimfinch@twitter](https://twitter.com/jimfinch/status/1441444567342014465) | advertise |
 | [Jiminie1995bts@twitter](https://twitter.com/Jiminie1995bts/status/1398512785294647297) | advertise |
 | [jimmi_pranami@twitter](https://twitter.com/jimmi_pranami/status/1384443003415134214) | advertise |
 | [jimmy90319098@twitter](https://twitter.com/jimmy90319098/status/1394347856098566146) | advertise |
@@ -4025,6 +4026,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nora05282397@twitter](https://twitter.com/Nora05282397/status/1390740645157900291) | advertise |
 | [norhidayuzinon@twitter](https://twitter.com/norhidayuzinon/status/1385720279872253954) | advertise |
 | [NOsheeennn@twitter](https://twitter.com/NOsheeennn/status/1394946949963415555) | advertise |
+| [notausername18@twitter](https://twitter.com/notausername18/status/1441310591574970375) | advertise |
 | [Note42243223@twitter](https://twitter.com/Note42243223/status/1389304584317845504) | advertise |
 | [nothingbreaks23@twitter](https://twitter.com/nothingbreaks23/status/1408086476252925953) | advertise |
 | [notwaytoomuch@twitter](https://twitter.com/notwaytoomuch/status/1396359332447485953) | advertise |
@@ -4579,6 +4581,7 @@ Do not create new issue or we will close it as duplicate.
 | [rc_aung@twitter](https://twitter.com/rc_aung/status/1400450996766052360) | advertise |
 | [rdkqft@twitter](https://twitter.com/rdkqft/status/1380426512503959558) | advertise |
 | [RealAnasAhmed11@twitter](https://twitter.com/RealAnasAhmed11/status/1407410579015307269) | advertise |
+| [RealDNewsMag@twitter](https://twitter.com/RealDNewsMag/status/1441466401781211137) | advertise |
 | [RealFaizAhmed1@twitter](https://twitter.com/RealFaizAhmed1/status/1402941244456775687) | advertise |
 | [RealFTG2@twitter](https://twitter.com/RealFTG2/status/1425143438551490564) | advertise |
 | [reallif81930874@twitter](https://twitter.com/reallif81930874/status/1392978030725722115) | advertise |
