@@ -372,6 +372,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnnSali18@twitter](https://twitter.com/AnnSali18/status/1404425553235517443) | advertise |
 | [AnoshGeddam@twitter](https://twitter.com/AnoshGeddam/status/1393448106365095939) | advertise |
 | [AnoYgHIk7Sh8m44@twitter](https://twitter.com/AnoYgHIk7Sh8m44/status/1403077953395716097) | advertise |
+| [anshulkmr01@twitter](https://twitter.com/anshulkmr01/status/1441856756288606209) | advertise |
 | [AntohinShulov@twitter](https://twitter.com/AntohinShulov/status/1392227012136239105) | advertise |
 | [antphyo@twitter](https://twitter.com/antphyo/status/1390723036710457346) | advertise |
 | [anuj78203509@twitter](https://twitter.com/anuj78203509/status/1392001208076754947) | advertise |
@@ -809,6 +810,7 @@ Do not create new issue or we will close it as duplicate.
 | [bladeandsuol@twitter](https://twitter.com/bladeandsuol/status/1396102958832521221) | advertise |
 | [BLAKKCASTRO305@twitter](https://twitter.com/BLAKKCASTRO305/status/1437928671680020480) | advertise |
 | [BlankT17406721@twitter](https://twitter.com/BlankT17406721/status/1400500648261476354) | advertise |
+| [BlazinHosting@twitter](https://twitter.com/BlazinHosting/status/1441631102351859713) | advertise |
 | [Blckk15@twitter](https://twitter.com/Blckk15/status/1398931957610733570) | advertise |
 | [blDzaWlaMzOsZTk@twitter](https://twitter.com/blDzaWlaMzOsZTk/status/1394644787274215426) | advertise |
 | [BlessingsKango@twitter](https://twitter.com/BlessingsKango/status/1396632406770262025) | advertise |
