@@ -7,6 +7,7 @@
 
 
 
+- Can't even access your website. Giving me cloudflare Error 1020. ([shavamng](https://twitter.com/shavamng/status/1442024790320041984))
 - Bro you got banned from aws and cloudflare because you were saying too many racial slurs and was becoming white nationalism/white supremacist cesspool. You guys also stormed the fucking capitol on camera and then blamed antifa. You get what you fucking deserve. 😂😂😂😂 ([reggiekeller_](https://twitter.com/ReggieKeller_/status/1441995000393306113))
 - Which I do - or rather don't. But with an MITM- Proxy that inserts ads, I can't guaratee that... ([k3vk4](https://twitter.com/k3vk4/status/1235484816533004290))
 - stop telling storeowners to use Cloudflare for SSL! they changed something on their end & now storenvy stores using them for SSL are screwed!!! They won't answer support tickets unless you upgrade to their business account-- END your relationship with shitty CLOUDFLARE ([andthentherewe8](https://twitter.com/andthentherewe8/status/1441872644672950276))
