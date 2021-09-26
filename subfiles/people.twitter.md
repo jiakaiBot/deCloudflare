@@ -7,6 +7,7 @@
 
 
 
+- Which I do - or rather don't. But with an MITM- Proxy that inserts ads, I can't guaratee that... ([k3vk4](https://twitter.com/k3vk4/status/1235484816533004290))
 - stop telling storeowners to use Cloudflare for SSL! they changed something on their end & now storenvy stores using them for SSL are screwed!!! They won't answer support tickets unless you upgrade to their business account-- END your relationship with shitty CLOUDFLARE ([andthentherewe8](https://twitter.com/andthentherewe8/status/1441872644672950276))
 - Seems like you live to troll Cloudflare :) I’ll stop if you stop ([foreverfloydian](https://twitter.com/foreverfloydian/status/1441781691379376128))
 - Bogus CloudFlare captcha should be replaced by MFA solution. ([iroutenetworks](https://twitter.com/iroutenetworks/status/1441598086892048387))
