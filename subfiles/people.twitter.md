@@ -7,6 +7,11 @@
 
 
 
+- stop telling storeowners to use Cloudflare for SSL! they changed something on their end & now storenvy stores using them for SSL are screwed!!! They won't answer support tickets unless you upgrade to their business account-- END your relationship with shitty CLOUDFLARE ([andthentherewe8](https://twitter.com/andthentherewe8/status/1441872644672950276))
+- Seems like you live to troll Cloudflare :) I’ll stop if you stop ([foreverfloydian](https://twitter.com/foreverfloydian/status/1441781691379376128))
+- Bogus CloudFlare captcha should be replaced by MFA solution. ([iroutenetworks](https://twitter.com/iroutenetworks/status/1441598086892048387))
+- So that was a lie... All forwards added through denver02 is down... cloudflare showing Error 524 intermittently when trying to access admin portal. Provide carrier level forwarding. ([stratis30179934](https://twitter.com/StratIS30179934/status/1441439753941905408))
+- Cloudflare Extremely unimpressed with your support. We've been experiencing a CF SSL error since Sep 13. We're on the Pro plan. If we're lucky we get a reply in 24 hours, but now it's been radio silence for 3 days. All of this while many customers can't connect. ([cdmckay](https://twitter.com/cdmckay/status/1440237936960671744))
 - It is not "another", just the same nonstop dDoS attack. When you add capacity to your systems, volume of bad traffic will adjust automatically to the new level. CloudFlare could stop it. I am not sure if 15 new servers will be capable to deliver service for 80K users on Monday. ([sergipolischuk](https://twitter.com/sergipolischuk/status/1441847458280075267))
 - It seems somebody (not me) just tried to use my email address to create an account with you. Can that be traced in any way? ([fmork](https://twitter.com/fmork/status/1441828694889320448))
 - I actually did. Then I got blocked by sites that used cloudflare. So I removed it. ([dangeredwolf](https://twitter.com/dangeredwolf/status/1441721962531672071))
