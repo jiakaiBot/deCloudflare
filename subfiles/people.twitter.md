@@ -7,6 +7,7 @@
 
 
 
+- Yup! Most take IPFS hashes but like,,,, those are centralised around Cloudflare so... fucking lol. ([alexandriapublc](https://twitter.com/alexandriapublc/status/1442562070067785730))
 - I reported some abuse to you. How long does it normally take to respond? ([ctcharlton](https://twitter.com/ctcharlton/status/1442519167169536009))
 - Yeah this was fucking great. Took about 2 minutes as my host handles most of it. 🤟🏻 ([willkennard](https://twitter.com/WillKennard/status/1439697585543974930))
 - This is a specific error from CloudFlare, denying you access. It may have falsely detected you as a potential threat, or, like me, clicked airplanes instead of trucks. ([voyp_us](https://twitter.com/voyp_us/status/1441936874260467716))
