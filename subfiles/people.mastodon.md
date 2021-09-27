@@ -7,6 +7,8 @@
 
 
 
+- So, apparently someone was trying to make use of one of my email addresses this morning, I got an unsolicited email from #Cloudflare asking me to confirm my email address. Is it worth telling cloudflare, or would I be wasting my time? Obviously not going to click on the link in the email, and I've moved it into spam, out the way. ([photonqyv](https://mastodon.xyz/@PhotonQyv/106997278702087252))
+- Also the part where they never seem to talk about #Cloudflare for some reason. Golly, why might that be? #MitMaaS #cyberThreat ([dsfgs](https://activism.openworlds.info/@dsfgs/107000647308693071))
 - …Its gotta be a #Russian website!&quot; &quot;And yet #Cloudflare.&quot; You can #deleteCloudflare by checking the Network tab in your browser when visiting a new site. You can also block Cloudflare at your router/#firewall. #astroturf #fakeGrassroots #andYetCloudflare ([dsfgs](https://activism.openworlds.info/@dsfgs/106987015245593750))
 - The fruits of the human labor does not go to the laborer, but instead hCAPTCHA pays CloudFlare a cash reward. Consequently the laborers benefit their oppressor. ？？？ 我是不信hCaptcha会付钱给CF的。CF这体量起码（起码！！！）得开个hCaptcha企业账号，而企业账号hCaptcha是不会按使用次数给予赏金的。 ([orca](https://nya.one/notes/8qu8yc4272))
 - @session? This instant messenger seems to be a joke, or at least its website, first that the website basically uses cloudflare, what the service claims(P2P and E2E), stop being real claims. The service itself does not seem to be bad, but cloudflare spoils everything where it goes! #session #harmful ([kurb42](https://fosstodon.org/@kurb42/106960769338256010))
