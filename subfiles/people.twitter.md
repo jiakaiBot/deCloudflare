@@ -7,6 +7,9 @@
 
 
 
+- Yeah this was fucking great. Took about 2 minutes as my host handles most of it. 🤟🏻 ([willkennard](https://twitter.com/WillKennard/status/1439697585543974930))
+- This is a specific error from CloudFlare, denying you access. It may have falsely detected you as a potential threat, or, like me, clicked airplanes instead of trucks. ([voyp_us](https://twitter.com/voyp_us/status/1441936874260467716))
+- Couple of options. You can initiate a password reset and take control of the account, or you can also email support at cloudflare dot com from the email address that was used and ask for the account to be deleted. ([yank](https://twitter.com/Yank/status/1441969844576948224))
 - Can't even access your website. Giving me cloudflare Error 1020. ([shavamng](https://twitter.com/shavamng/status/1442024790320041984))
 - Bro you got banned from aws and cloudflare because you were saying too many racial slurs and was becoming white nationalism/white supremacist cesspool. You guys also stormed the fucking capitol on camera and then blamed antifa. You get what you fucking deserve. 😂😂😂😂 ([reggiekeller_](https://twitter.com/ReggieKeller_/status/1441995000393306113))
 - Which I do - or rather don't. But with an MITM- Proxy that inserts ads, I can't guaratee that... ([k3vk4](https://twitter.com/k3vk4/status/1235484816533004290))
