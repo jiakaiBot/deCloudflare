@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare запустила два новых инструмента для обеспечения безопасности электронной почты: Компания Cloudflare широко известна своими решениями в сфере сетевой безопасности. Среди её продуктов — средства защиты от DDoS-атак и мобильный VPN-сервис. Теперь компания запускает… ([bolyhighscameoy](https://twitter.com/bolyhighscameoy/status/1442940065517228032))
 - Cloudflare Seeing sub 10Mbps speeds between Cloudflare SYD Edge -- Origin servers in USA (SFO). Nothing on the CF status page.. Any ideas? ([frznmatt](https://twitter.com/frznmatt/status/1442861708515545091))
 - Прихожу. Прокся это не очень, рекомендую закрывать телефон VPN-ом. 1) Cloudflare WARP. Примерно 130р/мес за 5 устройств. Скорость большая, посадок в работе нет. ([amatol](https://twitter.com/amatol/status/1442749919203414019))
 - Yup! Most take IPFS hashes but like,,,, those are centralised around Cloudflare so... fucking lol. ([alexandriapublc](https://twitter.com/alexandriapublc/status/1442562070067785730))
