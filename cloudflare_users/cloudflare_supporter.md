@@ -2151,6 +2151,7 @@ Do not create new issue or we will close it as duplicate.
 | [INDRA2952@twitter](https://twitter.com/INDRA2952/status/1390746500385296384) | advertise |
 | [infectedmann@twitter](https://twitter.com/infectedmann/status/1388156292125143044) | advertise |
 | [InfoDigi3@twitter](https://twitter.com/InfoDigi3/status/1393209236088229896) | advertise |
+| [infodokta@twitter](https://twitter.com/infodokta/status/1442376530567516160) | advertise |
 | [InfoSpaltron@twitter](https://twitter.com/InfoSpaltron/status/1380787310346825730) | advertise |
 | [Infoteka_24@twitter](https://twitter.com/Infoteka_24/status/1414674132596400130) | advertise |
 | [IngyinK57955372@twitter](https://twitter.com/IngyinK57955372/status/1395191457548472320) | advertise |
@@ -4451,6 +4452,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pubglovar16@twitter](https://twitter.com/Pubglovar16/status/1385165974412816384) | advertise |
 | [PubRicardo@twitter](https://twitter.com/PubRicardo/status/1398443571536146435) | advertise |
 | [Pucuk15146444@twitter](https://twitter.com/Pucuk15146444/status/1395245832069210115) | advertise |
+| [PUJIANTO@twitter](https://twitter.com/PUJIANTO/status/1442524922501160971) | advertise |
 | [PuLu30355961@twitter](https://twitter.com/PuLu30355961/status/1389410310419664902) | advertise |
 | [Pumpkin76122016@twitter](https://twitter.com/Pumpkin76122016/status/1404432604934205444) | advertise |
 | [PUNISHE56843209@twitter](https://twitter.com/PUNISHE56843209/status/1387023915801747463) | advertise |
