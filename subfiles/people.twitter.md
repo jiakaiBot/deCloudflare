@@ -7,6 +7,7 @@
 
 
 
+- Прихожу. Прокся это не очень, рекомендую закрывать телефон VPN-ом. 1) Cloudflare WARP. Примерно 130р/мес за 5 устройств. Скорость большая, посадок в работе нет. ([amatol](https://twitter.com/amatol/status/1442749919203414019))
 - Yup! Most take IPFS hashes but like,,,, those are centralised around Cloudflare so... fucking lol. ([alexandriapublc](https://twitter.com/alexandriapublc/status/1442562070067785730))
 - I reported some abuse to you. How long does it normally take to respond? ([ctcharlton](https://twitter.com/ctcharlton/status/1442519167169536009))
 - Yeah this was fucking great. Took about 2 minutes as my host handles most of it. 🤟🏻 ([willkennard](https://twitter.com/WillKennard/status/1439697585543974930))
