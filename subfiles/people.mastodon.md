@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare is bad. Anyone has questions about why Goldman Sachs $GS was added to the ¨malicious overinflated caps¨, see: https://thetrichordist.com/2019/02/26/cloudflare-the-bad-the-worse-and-the-criminal-goldmansachs-ustreasury-ofac/ ([indie](https://kolektiva.social/@indie/107009098563571752))
 - So, apparently someone was trying to make use of one of my email addresses this morning, I got an unsolicited email from #Cloudflare asking me to confirm my email address. Is it worth telling cloudflare, or would I be wasting my time? Obviously not going to click on the link in the email, and I've moved it into spam, out the way. ([photonqyv](https://mastodon.xyz/@PhotonQyv/106997278702087252))
 - Also the part where they never seem to talk about #Cloudflare for some reason. Golly, why might that be? #MitMaaS #cyberThreat ([dsfgs](https://activism.openworlds.info/@dsfgs/107000647308693071))
 - …Its gotta be a #Russian website!&quot; &quot;And yet #Cloudflare.&quot; You can #deleteCloudflare by checking the Network tab in your browser when visiting a new site. You can also block Cloudflare at your router/#firewall. #astroturf #fakeGrassroots #andYetCloudflare ([dsfgs](https://activism.openworlds.info/@dsfgs/106987015245593750))
