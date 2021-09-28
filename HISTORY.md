@@ -5,6 +5,8 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-09-27: [Customer Impacting Issue at MIA - Miami Datacenter](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q0sm1cjqlp0s)
+- 2021-09-27: [Network Performance Issues in Miami](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9fvxp234jcwx)
 - 2021-09-21: [Investigating Network Issues in Europe](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vj7t58gmcfxj)
 - 2021-09-17: [Network Performance Issues in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2tyl9s3vrlsn)
 - 2021-09-16: [Customers using Geo Key Manager may experience intermittent TLS termination in our San Jose, CA, Hong Kong, and Tokyo, JP locations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/77xbnfbkxfyj)
