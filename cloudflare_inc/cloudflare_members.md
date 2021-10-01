@@ -533,6 +533,7 @@ Or is this merely a case of simple modesty?
 | Erfi Anugrah | Solutions Engineer |  |
 | Erica Fox | Public Policy |  |
 | Eric Anderson | Employee |  |
+| Eric Brown | Employee | |
 | Eric Gau | Business Development |  |
 | Eric Liu | Technical Program Manager |  |
 | Eric Lugo | Support Engineer |  |
