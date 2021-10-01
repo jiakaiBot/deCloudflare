@@ -7,6 +7,12 @@
 
 
 
+- So so ein cloudflare-Zertifikat für MITM? Hmmm, was könnte da wohl schief gehen ... ([bofh_dj4n90](https://twitter.com/BOfH_Dj4n90/status/1290730051378524174))
+- white/blacklist - allow/denylist master/slave - primary/replica master - main man-in-the-middle - monster-in-the-middle (credit: Cloudflare-Crypto) ([cjpatton_](https://twitter.com/cjpatton_/status/1271471788774625285))
+- Using certs from Cloudflare, helps SEO, prevents MITM, and no spoofing. Helps with folks who use HTTPS everywhere (the extension). Also, tbh, I kinda sorta have an obsession for that green lock symbol... ([gokulsrinivas23](https://twitter.com/GokulSrinivas23/status/1262440548293439489))
+- Really disappointed Mozilla are handing Cloudflare MiTM access to most of their users DNS queries without asking for permission. ([justinrwlynn](https://twitter.com/justinrwlynn/status/1232463876676931585))
+- What can we do to prevent denial of service attack's or remedy man in the middle ? Mobile wireless data service providers are not helpful. ([markjaubrey](https://twitter.com/Markjaubrey/status/1105755314819866624))
+- but cloudflare’s warp dns isn’t blocked lol guess i’ll use that ([4kloli](https://twitter.com/4kloli/status/1443928361743564814))
 - We banned certain countries through cloudflare We didn't have the time to manage the ip addresses and rules in a more nuanced manner But I just implemented something that'll challenge suspected bot traffic ([bkh_leung](https://twitter.com/bkh_leung/status/1443910294309310467))
 - Hi, I have a domain which is currently blocked by Cloudflare Family DNS for malicious reasons. It's an ecommerce website running over the last 4 years, How do I get it off the blocklist and where can I file a false positive complain? ([jineshshah1995](https://twitter.com/JineshShah1995/status/1443892422241443843))
 - We have reports since early in the morning for delays & 522 errors for sites served by your Athens, GR node. Can you please have a look? ([fevangelou](https://twitter.com/fevangelou/status/1443845119841611808))
