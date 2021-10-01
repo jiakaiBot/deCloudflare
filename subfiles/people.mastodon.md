@@ -7,6 +7,7 @@
 
 
 
+- Ich hatte meine Anfrage schon längst wieder vergessen, da kontaktierte mich eben doch tatsächlich eine #Datenschutzbeauftragte von #Anexia. #Google #reCAPTCHA wurde verbannt und gegen #Friedlycaptcha ersetzt. Eine ordnungsgemäße Erwähnung in der #Datenschutzerklärung wurde ergänzt. Lobenswert! An sich freue ich mich da gerade echt drüber - aber Friendlycaptcha nutzt #Cloudflare... wie gewonnen, so zeronnen. Ich habe Anexia darauf hingewiesen. :/ /cc @kuketzblog ([purelinux](https://social.tchncs.de/@purelinux/107026313497411180))
 - Tiens, le morceau #DoH de Firefox se retrouve dans Thunderbird 91. Pour l'instant, c'est le mode 0 qui est configuré (DoH désactivé mais peut-être modifié par Mozilla). Donc TB sera possiblement (et sans doute en premier lieu dans certaines régions type US) configuré par défaut pour donner encore plus à manger à CloudFlare. Le bout d'interface pour paramétrer le bidule est présent. ([shaft](https://mamot.fr/@Shaft/107017480830598492))
 - Is every single #bank in #Australia now served by Cloudflare? Its sure looking that way. And given that we refuse to use #Cloudflare, we thus consider ourselves #unbanked. Save for maybe some #bitcoin. The #warOnBitcoiners (we mean #savers) is not subtle. #neoFeudalism #usOccupation #homeToRoost #usOwned ([dsfgs](https://activism.openworlds.info/@dsfgs/107020081923181750))
 - 自鯖は…Cloudflare Dedicated SSL Certificate with Custom Hostnames ([mohemohe](https://mstdn.plusminus.io/@mohemohe/107020554120574836))
