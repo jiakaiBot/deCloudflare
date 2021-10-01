@@ -7,6 +7,7 @@
 
 
 
+- This issue of the DFA website and their Cloudflare service not being able to connect persisted from until Thursday evening. Sometimes, I'd be allowed "in" to the front page -- meaning I'd pass the "not a bot" check. But then I'd get a 520 error. ([c5](https://twitter.com/c5/status/1443798378106679297))
 - Cloudflare запустила два новых инструмента для обеспечения безопасности электронной почты: Компания Cloudflare широко известна своими решениями в сфере сетевой безопасности. Среди её продуктов — средства защиты от DDoS-атак и мобильный VPN-сервис. Теперь компания запускает… ([bolyhighscameoy](https://twitter.com/bolyhighscameoy/status/1442940065517228032))
 - Cloudflare Seeing sub 10Mbps speeds between Cloudflare SYD Edge -- Origin servers in USA (SFO). Nothing on the CF status page.. Any ideas? ([frznmatt](https://twitter.com/frznmatt/status/1442861708515545091))
 - Прихожу. Прокся это не очень, рекомендую закрывать телефон VPN-ом. 1) Cloudflare WARP. Примерно 130р/мес за 5 устройств. Скорость большая, посадок в работе нет. ([amatol](https://twitter.com/amatol/status/1442749919203414019))
