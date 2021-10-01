@@ -7,6 +7,10 @@
 
 
 
+- i am going to put cloudflare in conk creat gimme the minecraft mod ass :puyogun:​ ([orichalcumcosmonaut](https://types.pl/@orichalcumcosmonaut/107009621811899122))
+- fuck cloudflare, fuck icannn and fuck all corporate control of the internet ([rachelrosen](https://types.pl/@rachelrosen/107009651010990356))
+- What if there existed a company that is likely to learn how much you have in the #bank and which #homes and or #land that you are looking at moving into? Does anyone else see the intense danger here, especially if there was some kind of #dataBreach? Anyway, that company is #Cloudflare. #bigTech #wallStreet #debtSlavery #bigData #cyberThreat #bankerCrimes #crimeAgainstHumanity #malware #tooBigToExist #virus #cloudflareIsTheMalware ([dsfgs](https://activism.openworlds.info/@dsfgs/107012348595911135))
+- @finster Ist doch alles schön verteilt auf Server von #google, #amazon und #cloudflare . Unverständnlich, dass es Probleme gibt. ;) ([marco](https://social.tchncs.de/@marco/107013375910286820))
 - Cloudflare is bad. Anyone has questions about why Goldman Sachs $GS was added to the ¨malicious overinflated caps¨, see: https://thetrichordist.com/2019/02/26/cloudflare-the-bad-the-worse-and-the-criminal-goldmansachs-ustreasury-ofac/ ([indie](https://kolektiva.social/@indie/107009098563571752))
 - So, apparently someone was trying to make use of one of my email addresses this morning, I got an unsolicited email from #Cloudflare asking me to confirm my email address. Is it worth telling cloudflare, or would I be wasting my time? Obviously not going to click on the link in the email, and I've moved it into spam, out the way. ([photonqyv](https://mastodon.xyz/@PhotonQyv/106997278702087252))
 - Also the part where they never seem to talk about #Cloudflare for some reason. Golly, why might that be? #MitMaaS #cyberThreat ([dsfgs](https://activism.openworlds.info/@dsfgs/107000647308693071))
