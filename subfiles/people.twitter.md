@@ -7,6 +7,12 @@
 
 
 
+- เข้า cloudflare dashboard แล้ว error 500 เลย ไม่รู้ทำ dark mode หรือ go dark ([awkwin](https://twitter.com/awkwin/status/1443789849014648838))
+- .replit It was a cloudflare, free and then when they say DL Number, they have meant the DD. So no, it isn't fucking obvious. ALSO, the DD is a valid n ([averagebotfan](https://twitter.com/AverageBotFan/status/1442455705668276228))
+- Wow, seven years ago. Maybe it's time to deprecate Flexible and Full SSL so HTTPS via Cloudflare is fully secured and not susceptible to MITM on the path to the origin. ([r1ch_tl](https://twitter.com/R1CH_TL/status/1389707459938357250))
+- Before this, you'd have to send middle boxes, firewalls, VPN gear, MPLS connectivity, the whole kitchen sink to the new location. But you migrated to Cloudflare for Teams and the rest of the CF1 suite, why should you need to do this? ([tubes__](https://twitter.com/tubes__/status/1443200638981001220))
+- Cloudflare Warp VPN removes 127.0.0.1/8 route after disconnecting, welp ([karnauskas](https://twitter.com/karnauskas/status/1442078914268991493))
+- can you accept vpn service fee as oxt? safe and fast ı love you oxt orchidprotocol $oxt ([hakantaccc](https://twitter.com/hakantaccc/status/1441117278511067147))
 - Holy fuck captcha's are the spawn of satan. At my 8th try right now trying to do a Cloudflare captcha while trying to register for something important and they wont fucking let me in because I "cant recognize a train". I hope the inventor of the captcha feels real proud now. ([holly_hacker_](https://twitter.com/HoLLy_HaCKeR_/status/1442921146484097024))
 - yeah. it's a useful feature if your ISP's DNS servers are untrustworthy and you don't know of any good, fast alternatives. but why the fuck did they default it to CloudFlare of all places :-/ ([cybercrimemlm](https://twitter.com/cybercrimemlm/status/1442679902944342018))
 - Gamebanana is gonna be Gonebanana if you don't fucking secure your site. ([seleverdude10](https://twitter.com/SeleverDude10/status/1435693510573887498))
