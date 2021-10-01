@@ -678,6 +678,7 @@ Do not create new issue or we will close it as duplicate.
 | [baburaj74061287@twitter](https://twitter.com/baburaj74061287/status/1402296311227977730) | advertise |
 | [Babyblu82224449@twitter](https://twitter.com/Babyblu82224449/status/1387554058714566656) | advertise |
 | [BabyWhite999@twitter](https://twitter.com/BabyWhite999/status/1406167535825920001) | advertise |
+| [Backbone666@twitter](https://twitter.com/Backbone666/status/1443331603523067905) | advertise |
 | [BAD12360259569@twitter](https://twitter.com/BAD12360259569/status/1391860164081315842) | advertise |
 | [BadBoy00778@twitter](https://twitter.com/BadBoy00778/status/1389854805863002112) | advertise |
 | [BadBoy29317463@twitter](https://twitter.com/BadBoy29317463/status/1390079278641934339) | advertise |
@@ -1220,6 +1221,7 @@ Do not create new issue or we will close it as duplicate.
 | [deepkolan@twitter](https://twitter.com/deepkolan/status/1402145948864638978) | advertise |
 | [DeerwindNlh@twitter](https://twitter.com/DeerwindNlh/status/1378232168657326080) | advertise |
 | [DefAbandonware@twitter](https://twitter.com/DefAbandonware/status/1418440485081784320) | advertise |
+| [DegenPilled@twitter](https://twitter.com/DegenPilled/status/1442737756753514497) | advertise |
 | [DelucioJoseph@twitter](https://twitter.com/DelucioJoseph/status/1393744512422498304) | advertise |
 | [Demon95990507@twitter](https://twitter.com/Demon95990507/status/1393209524639604739) | advertise |
 | [DemonFighter17@twitter](https://twitter.com/DemonFighter17/status/1379994239073976325) | advertise |
@@ -3455,6 +3457,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinThuR23558567@twitter](https://twitter.com/MinThuR23558567/status/1390021934943924224) | advertise |
 | [MinTun38677756@twitter](https://twitter.com/MinTun38677756/status/1398261715318439937) | advertise |
 | [MinTun69880451@twitter](https://twitter.com/MinTun69880451/status/1389979636822466563) | advertise |
+| [MINVEST18@twitter](https://twitter.com/MINVEST18/status/1443423830459011078) | advertise |
 | [MinZinAung1@twitter](https://twitter.com/MinZinAung1/status/1391329935558471686) | advertise |
 | [Mio93515060@twitter](https://twitter.com/Mio93515060/status/1395794442238316550) | advertise |
 | [MiracleAkporode@twitter](https://twitter.com/MiracleAkporode/status/1404854944746950659) | advertise |
@@ -6396,6 +6399,7 @@ Do not create new issue or we will close it as duplicate.
 | [_M4nifest0_@twitter](https://twitter.com/_M4nifest0_/status/1395630834611281920) | advertise |
 | [_myorin_@twitter](https://twitter.com/_myorin_/status/1402254526619348992) | advertise |
 | [_namu1224@twitter](https://twitter.com/_namu1224/status/1389877230029795329) | advertise |
+| [_omnaidu_@twitter](https://twitter.com/_omnaidu_/status/1443110765746003968) | advertise |
 | [_rikisan@twitter](https://twitter.com/_rikisan/status/1389050815122481155) | advertise |
 | [_UmmuUmairah_@twitter](https://twitter.com/_UmmuUmairah_/status/1394222981342060544) | advertise |
 | [_YoonminIsKii_@twitter](https://twitter.com/_YoonminIsKii_/status/1395181543241523205) | advertise |
