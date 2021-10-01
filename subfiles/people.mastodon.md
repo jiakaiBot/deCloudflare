@@ -7,6 +7,7 @@
 
 
 
+- &gt;cloudflare single-handedly making the web hell to use with tor ([mia](https://disqordia.space/objects/1da61511-b216-460c-90a0-e3550d312add))
 - Web 1.0: Decentralized. Every company hosted their own email servers, sites, DNS, etc. Web 2.0: Centralized. Controlled by Google, Facebook, Amazon, Slack, CloudFlare and others. Web 3.0: Decentralized again? I doubt the web2.0 owners will allow it without a fight. ([dcid](https://noc.social/@dcid/107027252485126188))
 - Ich hatte meine Anfrage schon längst wieder vergessen, da kontaktierte mich eben doch tatsächlich eine #Datenschutzbeauftragte von #Anexia. #Google #reCAPTCHA wurde verbannt und gegen #Friedlycaptcha ersetzt. Eine ordnungsgemäße Erwähnung in der #Datenschutzerklärung wurde ergänzt. Lobenswert! An sich freue ich mich da gerade echt drüber - aber Friendlycaptcha nutzt #Cloudflare... wie gewonnen, so zeronnen. Ich habe Anexia darauf hingewiesen. :/ /cc @kuketzblog ([purelinux](https://social.tchncs.de/@purelinux/107026313497411180))
 - Tiens, le morceau #DoH de Firefox se retrouve dans Thunderbird 91. Pour l'instant, c'est le mode 0 qui est configuré (DoH désactivé mais peut-être modifié par Mozilla). Donc TB sera possiblement (et sans doute en premier lieu dans certaines régions type US) configuré par défaut pour donner encore plus à manger à CloudFlare. Le bout d'interface pour paramétrer le bidule est présent. ([shaft](https://mamot.fr/@Shaft/107017480830598492))
