@@ -7,6 +7,7 @@
 
 
 
+- Although, I suspect you use the thing where Cloudflare doesn't MITM - the "less effective" protection thing ([1kescher](https://twitter.com/1kescher/status/1372249052222472192))
 - เข้า cloudflare dashboard แล้ว error 500 เลย ไม่รู้ทำ dark mode หรือ go dark ([awkwin](https://twitter.com/awkwin/status/1443789849014648838))
 - .replit It was a cloudflare, free and then when they say DL Number, they have meant the DD. So no, it isn't fucking obvious. ALSO, the DD is a valid n ([averagebotfan](https://twitter.com/AverageBotFan/status/1442455705668276228))
 - Wow, seven years ago. Maybe it's time to deprecate Flexible and Full SSL so HTTPS via Cloudflare is fully secured and not susceptible to MITM on the path to the origin. ([r1ch_tl](https://twitter.com/R1CH_TL/status/1389707459938357250))
