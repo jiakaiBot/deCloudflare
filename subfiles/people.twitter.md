@@ -7,6 +7,8 @@
 
 
 
+- Hi, I have a domain which is currently blocked by Cloudflare Family DNS for malicious reasons. It's an ecommerce website running over the last 4 years, How do I get it off the blocklist and where can I file a false positive complain? ([jineshshah1995](https://twitter.com/JineshShah1995/status/1443892422241443843))
+- We have reports since early in the morning for delays & 522 errors for sites served by your Athens, GR node. Can you please have a look? ([fevangelou](https://twitter.com/fevangelou/status/1443845119841611808))
 - Cloudflare now also doing an MITM on your mail... yay... ([finlaydag33k](https://twitter.com/finlaydag33k/status/1443876418245517312))
 - Although, I suspect you use the thing where Cloudflare doesn't MITM - the "less effective" protection thing ([1kescher](https://twitter.com/1kescher/status/1372249052222472192))
 - เข้า cloudflare dashboard แล้ว error 500 เลย ไม่รู้ทำ dark mode หรือ go dark ([awkwin](https://twitter.com/awkwin/status/1443789849014648838))
