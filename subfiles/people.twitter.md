@@ -7,6 +7,7 @@
 
 
 
+- Can't even bid when your website is down. It's been down for 2 days now. Dsn error cloudflare. When are you coming back? ([ericswife1776](https://twitter.com/Ericswife1776/status/1444340131985506310))
 - Perth's Cloudflare PoP is having issues right now. try using a VPN to connect elsewhere ([mtoto_lekgwathi](https://twitter.com/mtoto_lekgwathi/status/1444320090434928645))
 - Yes, it's Cloudflare's PoP in Perth, you should try using a VPN to connect to somewhere else ([mtoto_lekgwathi](https://twitter.com/mtoto_lekgwathi/status/1444319817662537733))
 - Captchas at Cloudflare are flawed, I had to spend 30 minutes to login into my account from my Linux laptop. It just endlessly redirects you to a captcha to guess busses, yachts and when you succeed asks you to do the same again and again until you open OBS... ([ivanchepurnyi](https://twitter.com/IvanChepurnyi/status/1444318293473603591))
