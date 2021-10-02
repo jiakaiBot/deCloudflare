@@ -7,6 +7,7 @@
 
 
 
+- I also noticed that Firefox uses Cloudflare by default for DNS over HTTPS, but offers NextDNS as an option, so I swapped that. ([sergeantcat](https://mk.pusang-ina-mo.ooo/notes/8rdjimwn4s))
 - AUSSIES BEWARE: When you visit #IGA .com.au you're not going to your local #IGASupermarket! You're connecting to #Cloudflare. That US-based company that serves Qanon, Gab, 4Chan, and in the process of taking #theInternet private alongside Amazon. Speaking of #Amazon, they (and US-Israeli-based #Cloudinary) serve IGA's images + the site has #Facebook #trackers and leaks to #Google. Finally, #MetcashGiftCards is Cloudflare-served too. &quot;#IndependentGrocers&quot; they say?! #igaShop ([dsfgs](https://activism.openworlds.info/@dsfgs/107031881376195257))
 - Dear, if you want me to read your blog, don't make me solving 3 hcaptchas by cloudflare. The close button is only one click away. I'm sure your shitty blog doesn't need cloudflare protection. Thanks ([andredo](https://chaos.social/@andredo/107031030507027413))
 - &gt;cloudflare single-handedly making the web hell to use with tor ([mia](https://disqordia.space/objects/1da61511-b216-460c-90a0-e3550d312add))
