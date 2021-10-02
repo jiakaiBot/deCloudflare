@@ -7,6 +7,9 @@
 
 
 
+- Perth's Cloudflare PoP is having issues right now. try using a VPN to connect elsewhere ([mtoto_lekgwathi](https://twitter.com/mtoto_lekgwathi/status/1444320090434928645))
+- Yes, it's Cloudflare's PoP in Perth, you should try using a VPN to connect to somewhere else ([mtoto_lekgwathi](https://twitter.com/mtoto_lekgwathi/status/1444319817662537733))
+- Captchas at Cloudflare are flawed, I had to spend 30 minutes to login into my account from my Linux laptop. It just endlessly redirects you to a captcha to guess busses, yachts and when you succeed asks you to do the same again and again until you open OBS... ([ivanchepurnyi](https://twitter.com/IvanChepurnyi/status/1444318293473603591))
 - the 502 is actually from cloudflare, their PER pop is having issues right now. Might want to VPN somewhere else ([mtoto_lekgwathi](https://twitter.com/mtoto_lekgwathi/status/1444313678212317190))
 - Oh iya, malah kalau Zoom juga bener2 gabisa kalau di hapeku yang kartunya by.U ini, kudu pakai cloudflare, orang IT kantorku aja ampe heran wkwk Kirain aku aja yang error, ternyata ada yang senasib juga wkwk ([aprizalicious](https://twitter.com/aprizalicious/status/1444223121628692480))
 - Good for AWS that the areas they already cover are practically endless and probably still expanding as fast as Cloudflare's lol ([alessi0p](https://twitter.com/alessi0p/status/1444221576015224832))
