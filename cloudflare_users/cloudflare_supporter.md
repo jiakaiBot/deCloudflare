@@ -322,6 +322,7 @@ Do not create new issue or we will close it as duplicate.
 | [an080904@twitter](https://twitter.com/an080904/status/1399258898603724802) | advertise |
 | [AN230347@twitter](https://twitter.com/AN230347/status/1401881366468333571) | advertise |
 | [An17672258@twitter](https://twitter.com/An17672258/status/1404797446702698502) | advertise |
+| [anadeau@twitter](https://twitter.com/anadeau/status/1443984356448550916) | advertise |
 | [Anan29081@twitter](https://twitter.com/Anan29081/status/1400126368101244931) | advertise |
 | [Ananthu94431440@twitter](https://twitter.com/Ananthu94431440/status/1381601689925414916) | advertise |
 | [anas639623@twitter](https://twitter.com/anas639623/status/1380424790897483776) | advertise |
@@ -1257,6 +1258,7 @@ Do not create new issue or we will close it as duplicate.
 | [diellidemjaha@twitter](https://twitter.com/diellidemjaha/status/1394616412086341633) | advertise |
 | [digcinema@twitter](https://twitter.com/digcinema/status/1402343666174201857) | advertise |
 | [DigitalSoftwar9@twitter](https://twitter.com/DigitalSoftwar9/status/1437033725141860357) | advertise |
+| [digital_khabar@twitter](https://twitter.com/digital_khabar/status/1443868273901146114) | advertise |
 | [digital_pig@twitter](https://twitter.com/digital_pig/status/1384777161383432192) | advertise |
 | [DileepaMV@twitter](https://twitter.com/DileepaMV/status/1372732617934606344) | advertise |
 | [DileepD87691922@twitter](https://twitter.com/DileepD87691922/status/1395573825618661380) | advertise |
