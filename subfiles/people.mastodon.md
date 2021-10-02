@@ -7,6 +7,7 @@
 
 
 
+- AUSSIES BEWARE: When you visit #IGA .com.au you're not going to your local #IGASupermarket! You're connecting to #Cloudflare. That US-based company that serves Qanon, Gab, 4Chan, and in the process of taking #theInternet private alongside Amazon. Speaking of #Amazon, they (and US-Israeli-based #Cloudinary) serve IGA's images + the site has #Facebook #trackers and leaks to #Google. Finally, #MetcashGiftCards is Cloudflare-served too. &quot;#IndependentGrocers&quot; they say?! #igaShop ([dsfgs](https://activism.openworlds.info/@dsfgs/107031881376195257))
 - Dear, if you want me to read your blog, don't make me solving 3 hcaptchas by cloudflare. The close button is only one click away. I'm sure your shitty blog doesn't need cloudflare protection. Thanks ([andredo](https://chaos.social/@andredo/107031030507027413))
 - &gt;cloudflare single-handedly making the web hell to use with tor ([mia](https://disqordia.space/objects/1da61511-b216-460c-90a0-e3550d312add))
 - Web 1.0: Decentralized. Every company hosted their own email servers, sites, DNS, etc. Web 2.0: Centralized. Controlled by Google, Facebook, Amazon, Slack, CloudFlare and others. Web 3.0: Decentralized again? I doubt the web2.0 owners will allow it without a fight. ([dcid](https://noc.social/@dcid/107027252485126188))
