@@ -7,6 +7,7 @@
 
 
 
+- Dear, if you want me to read your blog, don't make me solving 3 hcaptchas by cloudflare. The close button is only one click away. I'm sure your shitty blog doesn't need cloudflare protection. Thanks ([andredo](https://chaos.social/@andredo/107031030507027413))
 - &gt;cloudflare single-handedly making the web hell to use with tor ([mia](https://disqordia.space/objects/1da61511-b216-460c-90a0-e3550d312add))
 - Web 1.0: Decentralized. Every company hosted their own email servers, sites, DNS, etc. Web 2.0: Centralized. Controlled by Google, Facebook, Amazon, Slack, CloudFlare and others. Web 3.0: Decentralized again? I doubt the web2.0 owners will allow it without a fight. ([dcid](https://noc.social/@dcid/107027252485126188))
 - Ich hatte meine Anfrage schon längst wieder vergessen, da kontaktierte mich eben doch tatsächlich eine #Datenschutzbeauftragte von #Anexia. #Google #reCAPTCHA wurde verbannt und gegen #Friedlycaptcha ersetzt. Eine ordnungsgemäße Erwähnung in der #Datenschutzerklärung wurde ergänzt. Lobenswert! An sich freue ich mich da gerade echt drüber - aber Friendlycaptcha nutzt #Cloudflare... wie gewonnen, so zeronnen. Ich habe Anexia darauf hingewiesen. :/ /cc @kuketzblog ([purelinux](https://social.tchncs.de/@purelinux/107026313497411180))
