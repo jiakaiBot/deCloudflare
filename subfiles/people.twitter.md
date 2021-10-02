@@ -7,6 +7,7 @@
 
 
 
+- I also use cloudflare as a vpn service for open networks. No need for region unlocking for me. So there needs to be a case use for going for the extra. Seems like authenticator already does the work 1password does apart from create passwords. ([jesuiscanard](https://twitter.com/jesuiscanard/status/1444370441099939845))
 - Can't even bid when your website is down. It's been down for 2 days now. Dsn error cloudflare. When are you coming back? ([ericswife1776](https://twitter.com/Ericswife1776/status/1444340131985506310))
 - Perth's Cloudflare PoP is having issues right now. try using a VPN to connect elsewhere ([mtoto_lekgwathi](https://twitter.com/mtoto_lekgwathi/status/1444320090434928645))
 - Yes, it's Cloudflare's PoP in Perth, you should try using a VPN to connect to somewhere else ([mtoto_lekgwathi](https://twitter.com/mtoto_lekgwathi/status/1444319817662537733))
