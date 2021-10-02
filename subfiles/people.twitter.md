@@ -7,6 +7,7 @@
 
 
 
+- the 502 is actually from cloudflare, their PER pop is having issues right now. Might want to VPN somewhere else ([mtoto_lekgwathi](https://twitter.com/mtoto_lekgwathi/status/1444313678212317190))
 - Oh iya, malah kalau Zoom juga bener2 gabisa kalau di hapeku yang kartunya by.U ini, kudu pakai cloudflare, orang IT kantorku aja ampe heran wkwk Kirain aku aja yang error, ternyata ada yang senasib juga wkwk ([aprizalicious](https://twitter.com/aprizalicious/status/1444223121628692480))
 - Good for AWS that the areas they already cover are practically endless and probably still expanding as fast as Cloudflare's lol ([alessi0p](https://twitter.com/alessi0p/status/1444221576015224832))
 - How exactly do you expect them to stop people from doing something independent of their system? It's like asking Cloudflare to stop DDOS when it's literally designed to mitigate it at best. ([ladyattis](https://twitter.com/ladyattis/status/1444056547991109639))
