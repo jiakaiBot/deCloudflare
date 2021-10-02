@@ -7,6 +7,8 @@
 
 
 
+- Oh iya, malah kalau Zoom juga bener2 gabisa kalau di hapeku yang kartunya by.U ini, kudu pakai cloudflare, orang IT kantorku aja ampe heran wkwk Kirain aku aja yang error, ternyata ada yang senasib juga wkwk ([aprizalicious](https://twitter.com/aprizalicious/status/1444223121628692480))
+- Good for AWS that the areas they already cover are practically endless and probably still expanding as fast as Cloudflare's lol ([alessi0p](https://twitter.com/alessi0p/status/1444221576015224832))
 - How exactly do you expect them to stop people from doing something independent of their system? It's like asking Cloudflare to stop DDOS when it's literally designed to mitigate it at best. ([ladyattis](https://twitter.com/ladyattis/status/1444056547991109639))
 - Omg can you please stop enabling and encouraging this wasteful fantasy of a decentralized web. You certainly shouldn’t talk about it as if it was predestined, that’s evangelism and propaganda, and not founded in rational thoughts on the topic. ([mortenmertner](https://twitter.com/mortenmertner/status/1443969228852371459))
 - I love invisible products. These products solve a particular problem super well and then poof 💨, I rarely think about it again. (VPN), (private browsing), Cloudflare (DDOS protection) are super good examples for this. ([anaptfox](https://twitter.com/anaptfox/status/1444040730192793602))
