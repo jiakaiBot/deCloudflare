@@ -7,6 +7,7 @@
 
 
 
+- We may've been too hard on #4Chan, #8Chan and #8kun. The reason we've been so hard on them is they helped create the #Christchurch massacre, don't federate, have prevented #Tor users from posting images, and hide behind #Cloudflare (so when they cross the line their service is not negatively effected). Having said that we understand why they might not be able to permit random Tor image uploads. In all fairness, we hope they ditch Cloudflare and try to be an open, #federating, Tor/I2P service. ([dsfgs](https://activism.openworlds.info/@dsfgs/107037786220140376))
 - I would love to not use Google Cloud services at all but I cannot find a managed DNS provider that offers DNSSEC and DANE besides cloudflare ([dubu](https://social.tofu.kim/objects/577ade5a-81ae-4dfe-bde5-ee2ac1e14f3e))
 - I recommend everyone who knows how to do basic setup for stuff like CloudFlare, nginx, a firewall, fail2ban, and so on just try installing Pleroma and connecting it to a few relays you can find with Google Fu. I found it easier to configure than PHP forum software I had to set up in the darker times. ([collappsar](https://fediverse-lite.com/objects/ff6bfc4d-faa7-4850-b4b5-e548360fcf24))
 - I also noticed that Firefox uses Cloudflare by default for DNS over HTTPS, but offers NextDNS as an option, so I swapped that. ([sergeantcat](https://mk.pusang-ina-mo.ooo/notes/8rdjimwn4s))
