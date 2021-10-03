@@ -7,6 +7,10 @@
 
 
 
+- Could you please stop with the Cloudflare it's annoying! ([kman08336098](https://twitter.com/Kman08336098/status/1444769282731118592))
+- Censorship and jurisdiction. Local cops could not comprehend getting a warrant to cloudflare just to see dns requests. And no MITM either. ([jurbed](https://twitter.com/jurbed/status/1307397860498038790))
+- Note this still allows someone to MitM the plaintext connection between cloudflare and your server. Users still ought to verify the destination address of the pledge, when signing their contribution. ([marklundeberg](https://twitter.com/MarkLundeberg/status/1296372293321408512))
+- Sterk antwoord. Je bent niet de enige ICT'er in de wereld he. Cloudflare is gebaseerd op MITM onder Amerikaanse wetgeving. ([de_lockdown](https://twitter.com/de_lockdown/status/1295282672797982726))
 - I dearly LOVE Cloudflare services & price points. Might I ask that you look again at Super Bot Fight Mode? Awesome concept but it blocks cron jobs, scans, & from sending via SES, which makes it unusable for us. 😰😭 ([tompearson](https://twitter.com/tompearson/status/1444749811727671299))
 - Yeah that's why. You may see the block, if telus is blocking yet, if you use the telus default DNS (you'd have to remove cloudflare DNS to test). ([fancrtcprofling](https://twitter.com/fanCRTCProfling/status/1444742547855876100))
 - I had to stop blocking CloudFlare's IP temporarily because fucking bots trying to login as my leet name - You bots clearly know you can't type escape characters in the field because they will get sanitized right? ([hibachi1337](https://twitter.com/hibachi1337/status/1444687983127326723))
