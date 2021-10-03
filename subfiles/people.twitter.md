@@ -7,6 +7,8 @@
 
 
 
+- I had to stop blocking CloudFlare's IP temporarily because fucking bots trying to login as my leet name - You bots clearly know you can't type escape characters in the field because they will get sanitized right? ([hibachi1337](https://twitter.com/hibachi1337/status/1444687983127326723))
+- Exactly, on a specific page that is protected by a captcha, Cloudflare and all the other typical shenanigans. ([nftmakerio](https://twitter.com/nftmakerio/status/1444723810029215752))
 - Pas besoin de vpn, il suffit de changer les dns (par ceux de cloudflare par exemple). ([freedommaner](https://twitter.com/freedommaner/status/1444655594284126209))
 - Then come along web browsers that we can't MITM, we can't see DNS traffic for and we can't see the SNI. Literally the only thing we have left is the IP address, which probably points at Cloudflare. And this is the problem that schools are facing. 6/ ([nexusukorg](https://twitter.com/NexusUKOrg/status/1440049377217630208))
 - can someone help me with a domain name? We’re looking to purchase a domain that seems to be owned or operated by Cloudflare and would like more info. ([sbluth](https://twitter.com/sbluth/status/1444408805207461889))
