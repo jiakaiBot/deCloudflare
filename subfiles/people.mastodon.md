@@ -7,6 +7,8 @@
 
 
 
+- I would love to not use Google Cloud services at all but I cannot find a managed DNS provider that offers DNSSEC and DANE besides cloudflare ([dubu](https://social.tofu.kim/objects/577ade5a-81ae-4dfe-bde5-ee2ac1e14f3e))
+- I recommend everyone who knows how to do basic setup for stuff like CloudFlare, nginx, a firewall, fail2ban, and so on just try installing Pleroma and connecting it to a few relays you can find with Google Fu. I found it easier to configure than PHP forum software I had to set up in the darker times. ([collappsar](https://fediverse-lite.com/objects/ff6bfc4d-faa7-4850-b4b5-e548360fcf24))
 - I also noticed that Firefox uses Cloudflare by default for DNS over HTTPS, but offers NextDNS as an option, so I swapped that. ([sergeantcat](https://mk.pusang-ina-mo.ooo/notes/8rdjimwn4s))
 - AUSSIES BEWARE: When you visit #IGA .com.au you're not going to your local #IGASupermarket! You're connecting to #Cloudflare. That US-based company that serves Qanon, Gab, 4Chan, and in the process of taking #theInternet private alongside Amazon. Speaking of #Amazon, they (and US-Israeli-based #Cloudinary) serve IGA's images + the site has #Facebook #trackers and leaks to #Google. Finally, #MetcashGiftCards is Cloudflare-served too. &quot;#IndependentGrocers&quot; they say?! #igaShop ([dsfgs](https://activism.openworlds.info/@dsfgs/107031881376195257))
 - Dear, if you want me to read your blog, don't make me solving 3 hcaptchas by cloudflare. The close button is only one click away. I'm sure your shitty blog doesn't need cloudflare protection. Thanks ([andredo](https://chaos.social/@andredo/107031030507027413))
