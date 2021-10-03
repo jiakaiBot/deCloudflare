@@ -7,6 +7,8 @@
 
 
 
+- I dearly LOVE Cloudflare services & price points. Might I ask that you look again at Super Bot Fight Mode? Awesome concept but it blocks cron jobs, scans, & from sending via SES, which makes it unusable for us. 😰😭 ([tompearson](https://twitter.com/tompearson/status/1444749811727671299))
+- Yeah that's why. You may see the block, if telus is blocking yet, if you use the telus default DNS (you'd have to remove cloudflare DNS to test). ([fancrtcprofling](https://twitter.com/fanCRTCProfling/status/1444742547855876100))
 - I had to stop blocking CloudFlare's IP temporarily because fucking bots trying to login as my leet name - You bots clearly know you can't type escape characters in the field because they will get sanitized right? ([hibachi1337](https://twitter.com/hibachi1337/status/1444687983127326723))
 - Exactly, on a specific page that is protected by a captcha, Cloudflare and all the other typical shenanigans. ([nftmakerio](https://twitter.com/nftmakerio/status/1444723810029215752))
 - Pas besoin de vpn, il suffit de changer les dns (par ceux de cloudflare par exemple). ([freedommaner](https://twitter.com/freedommaner/status/1444655594284126209))
