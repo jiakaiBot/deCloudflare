@@ -7,6 +7,7 @@
 
 
 
+- Pas besoin de vpn, il suffit de changer les dns (par ceux de cloudflare par exemple). ([freedommaner](https://twitter.com/freedommaner/status/1444655594284126209))
 - Then come along web browsers that we can't MITM, we can't see DNS traffic for and we can't see the SNI. Literally the only thing we have left is the IP address, which probably points at Cloudflare. And this is the problem that schools are facing. 6/ ([nexusukorg](https://twitter.com/NexusUKOrg/status/1440049377217630208))
 - can someone help me with a domain name? We’re looking to purchase a domain that seems to be owned or operated by Cloudflare and would like more info. ([sbluth](https://twitter.com/sbluth/status/1444408805207461889))
 - Cloudflare, I am a user of the MoonBitcoins page and I have been working with it for a while. When trying to enter I get the message: "Error 1020, Ray ID: 69865ff668792251 • 2021-10-03 13:04:11 UTC Access denied" Please check my activity logs to see that I´m not a threat and ([vivianotamendi](https://twitter.com/vivianotamendi/status/1444649968220921856))
