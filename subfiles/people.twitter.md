@@ -7,6 +7,14 @@
 
 
 
+- Then come along web browsers that we can't MITM, we can't see DNS traffic for and we can't see the SNI. Literally the only thing we have left is the IP address, which probably points at Cloudflare. And this is the problem that schools are facing. 6/ ([nexusukorg](https://twitter.com/NexusUKOrg/status/1440049377217630208))
+- can someone help me with a domain name? We’re looking to purchase a domain that seems to be owned or operated by Cloudflare and would like more info. ([sbluth](https://twitter.com/sbluth/status/1444408805207461889))
+- Cloudflare, I am a user of the MoonBitcoins page and I have been working with it for a while. When trying to enter I get the message: "Error 1020, Ray ID: 69865ff668792251 • 2021-10-03 13:04:11 UTC Access denied" Please check my activity logs to see that I´m not a threat and ([vivianotamendi](https://twitter.com/vivianotamendi/status/1444649968220921856))
+- Error 1020 Ray ID: 69860781ec7b6ead •2021-10-03 12:03:48 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 69860781ec7b6eadYour IP: 106.193.165.143Performance & security by Cloudflare ([farhanindian_](https://twitter.com/farhanIndian_/status/1444634493881491456))
+- dashboard loading super slow and then getting cloudflare error screen ([datjetsonfranco](https://twitter.com/datjetsonfranco/status/1444453400985456642))
+- Pake DNS cloudflare untuk set CNAME (dengan status PROXIED) sekaligus manfaatin free SSLnya. Trus for unknown reason, data yang di submit lewat form, malah "berubah" dan bikin error. 🥲 Ini lah penyebab lembur malam ini. ([mrongdedy](https://twitter.com/MrOngDedy/status/1443250524078313475))
+- getting stuck on the cloudflare redirect screen when using tor. Was able to access through vpn. Buy would rather use tor. Any ideas? ([cunningfucker](https://twitter.com/CunningFucker/status/1444427194223132674))
+- Как вариант, это конечно не настоящий vpn, но можно использовать базовый warp от cloudflare в приложении 1.1.1.1 работает как icloud private relay ([skripnik_a](https://twitter.com/Skripnik_A/status/1443208704103419908))
 - I also use cloudflare as a vpn service for open networks. No need for region unlocking for me. So there needs to be a case use for going for the extra. Seems like authenticator already does the work 1password does apart from create passwords. ([jesuiscanard](https://twitter.com/jesuiscanard/status/1444370441099939845))
 - Can't even bid when your website is down. It's been down for 2 days now. Dsn error cloudflare. When are you coming back? ([ericswife1776](https://twitter.com/Ericswife1776/status/1444340131985506310))
 - Perth's Cloudflare PoP is having issues right now. try using a VPN to connect elsewhere ([mtoto_lekgwathi](https://twitter.com/mtoto_lekgwathi/status/1444320090434928645))
