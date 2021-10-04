@@ -7,6 +7,7 @@
 
 
 
+- Great talk thanks! If I've got 1.1.1.1 set on host for DNS lookups, how does this minimize DNS MITM attacks in practice? I imagine this reduces the risk surface area to CloudFlare DNS servers being compromised, with no upstream fwding to intercept. Race condition still possible? ([cyber_arcana](https://twitter.com/cyber_arcana/status/1284414766337810433))
 - Gotta love when MitMaaS fails in 1) being a MitM 2) working aaS ([ed_geraghty](https://twitter.com/Ed_Geraghty/status/1293546293860671490))
 - Er fólk virkilega að nota cloudflare og googledns sem sína preferred dns? bara.... WHY? Meira að segja heima hjá mér er ég með TVO DNS servera - á sitthvorum platformnum bara til að vera viss... og þeir tala við rótarserverana, ekki upstream - because mitm DNS shaping. ([totitolvukall](https://twitter.com/totitolvukall/status/1284418270876110848))
 - Thats very true. At the same time most companies do not have Google/Cloudflare or any nationstate that could use their data in their threatmodel. And to be honest most shouldnt include those into their model. Or am i missing a way to extract the data? (except mitm obv.) ([rikvduijn](https://twitter.com/rikvduijn/status/1275011640002568193))
