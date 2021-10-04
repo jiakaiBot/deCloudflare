@@ -7,6 +7,15 @@
 
 
 
+- Gotta love when MitMaaS fails in 1) being a MitM 2) working aaS ([ed_geraghty](https://twitter.com/Ed_Geraghty/status/1293546293860671490))
+- Er fólk virkilega að nota cloudflare og googledns sem sína preferred dns? bara.... WHY? Meira að segja heima hjá mér er ég með TVO DNS servera - á sitthvorum platformnum bara til að vera viss... og þeir tala við rótarserverana, ekki upstream - because mitm DNS shaping. ([totitolvukall](https://twitter.com/totitolvukall/status/1284418270876110848))
+- Thats very true. At the same time most companies do not have Google/Cloudflare or any nationstate that could use their data in their threatmodel. And to be honest most shouldnt include those into their model. Or am i missing a way to extract the data? (except mitm obv.) ([rikvduijn](https://twitter.com/rikvduijn/status/1275011640002568193))
+- Het maakt eigenlijk niet uit welke DNS je gebruikt. opendns, cloudflare enz encrypteren hun dns, zodat bv "the man in the middle attack" veel moeilijker is, en je privacy vergroot. ([polr](https://twitter.com/polr/status/1271488620583686144))
+- Cloudflare What's wrong with man in the middle exactly? ([kravietz_](https://twitter.com/kravietz_/status/1271477028122959873))
+- and here you have Cloudflare :D MitM for $$$ ([peter_jnsn](https://twitter.com/peter_jnsn/status/1251904846611075074))
+- network. (Torproject is not vocal about this because DDG paid $25k to the Tor project) Privacy: All CloudFlare sites are MitM'd by design. ([fab_ringo](https://twitter.com/fab_ringo/status/1247439004615577600))
+- Jeg ved ikke hvad der er at fortrække, jeg tror trods alt det er bedre at CloudFlare data-miner din trafik end at du bliver underlagt statens man-in-the-middle-attack. Den tekniske diskussion overdøver imo. det virkelige problem, nemlig at ... ([mikjaer](https://twitter.com/mikjaer/status/1246433702479122434))
+- How long is the wait time to enable Automatic Signed Exchanges? I'd love to try this as i'm struggling to get a good LCP for mobile devices. ([ollie_ryman](https://twitter.com/ollie_ryman/status/1444953706844282888))
 - cloudflare DNS error when trying to access your website. ([kevinbreen](https://twitter.com/kevinbreen/status/1444951210537140226))
 - WARP+ by cloudflare, gabisa select lokasi vpn nya tapi lebih murah ([iampamungkaski](https://twitter.com/iampamungkaski/status/1444865794693742592))
 - Could you please stop with the Cloudflare it's annoying! ([kman08336098](https://twitter.com/Kman08336098/status/1444769282731118592))
