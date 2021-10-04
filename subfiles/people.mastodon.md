@@ -7,6 +7,10 @@
 
 
 
+- See what happens when you use CENTRALIZED social medias like FAKEbook!?! Now, unlike coprorate software, the Fediverse is impervious to- Cloudflare dies O-oh no!!!!!! ([chaosskeleton](https://necropolis.online/@ChaosSkeleton/107045218755445972))
+- Cloudflare is being DDoSed by everyone in the world thanks to Facebook using 1.1.1.1 A lot of sites seem to be having issues because of how massive Facebook is, and how many people are mentally attached to it. ([inference](https://mastodon.inferencium.net/@inference/107045424126749050))
+- Cloudflare is being DDoSed by everyone in the world thanks to them using 1.1.1.1. A lot of sites seem to be having DNS issues because of how massive Facebook is, and how many people are mentally attached to it. ([inference](https://mastodon.inferencium.net/@inference/107045473531314979))
+- Hoping for Cloudflare to be the next to bomb out boys ([mrsaturday](https://shitposter.club/objects/da12e059-f566-44db-8ad8-18f2cc12cc93))
 - Apparemment, la panne de Facebook Inc. affecte les gros résolveurs publics (les Google Public DNS et autres CloudFlare Public DNS) : les humains et surtout les programmes essayant massivement d'avoir les IPs de FB et donc générant un afflux de requêtes supplémentaires. Pas de soucis pour le Unbound de @DNS_Shaftinc, qui ne voit pas d'afflux particulier et qui se tourne les pouces comme d'hab 😎 ([shaft](https://mamot.fr/@Shaft/107045162221164590))
 - facebook: is down cloudflare: slammed by facebook dns request spam fediverse: ([fristi](https://mk.toast.cafe/notes/8rgokhevmw))
 - CLOUDFLARE A IR ABAIXO, VAMOS LÁ CARALHOOOOOOOO! AGORA É A BOTNET A MORRER! ([lisbonjoker](https://pleroma.pt/objects/c07ff3a5-2470-46b9-bf1b-9a9236e238cc))
