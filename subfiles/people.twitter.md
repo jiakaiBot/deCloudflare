@@ -7,6 +7,22 @@
 
 
 
+- No, your contact form does NOT work. I tried on 3 different browsers, with extensions, content blockers etc. on and off, same result. It's definitely broken. ([viralideas](https://twitter.com/viralideas/status/1445089600188387336))
+- And ramenporn's account has been deleted. Either Facebook's admins/lawyers/swat team came after them, or they were afraid of being doxxed. ([goodkingelliot](https://twitter.com/GoodKingElliot/status/1445093272830058496))
+- And the world is a better place already. Dane Knecht, Senior VP of web security firm Cloudflare, says the FB Border Gateway Protocol (BGP) routes, used by networks to deliver internet traffic, have been 'withdrawn from the internet.' May have been stolen/deleted = epic hacking. ([lile_sosanna](https://twitter.com/Lile_sosanna/status/1445089051221143561))
+- The fact they just deleted all the posts tells you what you need to know. ([flangey](https://twitter.com/flangey/status/1445084366636560384))
+- Yes, what i heard that they have a DNS error... Facebook, Instagram and Whatsapp down... Also some Cloud Tools e.g. AWS replied Cloudflare ([placeformodels](https://twitter.com/PlaceforModels/status/1445084375549423634))
+- A claro deu pau no DNS fornecido pela operadora, fiz uma rápida troca pelo cloudflare e a conexão ficou normal.. ou seja os DNS locais estão totalmente ou parcialmente off-line, fica dando error ao acessar diversos sites. ([allysonflb](https://twitter.com/allysonflb/status/1445083347064168463))
+- are you guys having server issues. I haven’t been able to access website since Thursday last week. Get error code 1016 from cloudflare ([edking16726001](https://twitter.com/EdKing16726001/status/1445082093181153296))
+- For us it's over ten million reports and the complete opposite - the traffic won't stop! ([damndhruv](https://twitter.com/damndhruv/status/1445102638090100745))
+- Cloudflare, please stop blocking legitimate Xfinity provided IP addresses! You are preventing people from accessing sites. ([dwallens](https://twitter.com/dwallens/status/1445094160697073682))
+- Stop blaming devs. It was the manager that forgot to renew the domain or the cloudflare subscription. 😂 ([umarr](https://twitter.com/Umarr/status/1445088968752734210))
+- Gotta stop using Cloudflare to host their websites ([newscreature](https://twitter.com/NewsCreature/status/1445076102150512642))
+- If you trust Cloudflare more than your own ISP.... sure, I guess use DoH. But then, you also need to be VPN'ing all your traffic, and trusting said VPN provider (I have to find one that is trustworthy), or all your efforts are ultimately pointless. ([nuintari](https://twitter.com/nuintari/status/1445086955600023569))
+- facebook Cloudflarestatus shows an outage, Facebook tor site isn't working too, so the tor site is somehow behind Cloudflare? ([forshish](https://twitter.com/forshish/status/1445055145440649219))
+- Host your fucking dns records on Cloudflare mate. ([amarjadhao](https://twitter.com/AmarJadhao/status/1445099395737788420))
+- What the fuck do DOS attacks have to do with this incident? ([0xcap](https://twitter.com/0xCAP/status/1445085376121606162))
+- "Cloudflare senior vice president Dane Knecht notes that Facebook’s border gateway protocol routes — BGP helps networks pick the best path to deliver internet traffic — have been “withdrawn from the internet.”" well that's fucking awesome ([palvaro](https://twitter.com/palvaro/status/1445068036151517185))
 - Isso acontece às vezes sem o usuário precisar fazer nada, pq o próprio serviço já usa CloudFlare Mas dá pra forçar isso também usando a VPN deles, Cloudflare Warp, o que ajuda a reduzir o ping às vezes tipo um noping só que de graça HUHEAAJIEJIAJDOF ([plfracassi_](https://twitter.com/plfracassi_/status/1445037400745521156))
 - Great talk thanks! If I've got 1.1.1.1 set on host for DNS lookups, how does this minimize DNS MITM attacks in practice? I imagine this reduces the risk surface area to CloudFlare DNS servers being compromised, with no upstream fwding to intercept. Race condition still possible? ([cyber_arcana](https://twitter.com/cyber_arcana/status/1284414766337810433))
 - Gotta love when MitMaaS fails in 1) being a MitM 2) working aaS ([ed_geraghty](https://twitter.com/Ed_Geraghty/status/1293546293860671490))
