@@ -7,6 +7,8 @@
 
 
 
+- CLOUDFLARE A IR ABAIXO, VAMOS LÁ CARALHOOOOOOOO! AGORA É A BOTNET A MORRER! ([lisbonjoker](https://pleroma.pt/objects/c07ff3a5-2470-46b9-bf1b-9a9236e238cc))
+- Du coup, tous les smartphones et ordinateurs du monde sont entrain de DDOS les DNS google, cloudflare, etc... Provoquant un ralentissement généralisé de l'internet. ([john_livingston](https://mamot.fr/@John_Livingston/107044916743337791))
 - something wrong with cloudflare? or some other service that hosts half the web? ([mia](https://disqordia.space/objects/d80d762f-66f8-4a03-b3e0-54291b5a0ae5))
 - CLOUDFLARE damnit i thought it was called firecloud or something ([schappi](https://mk.toast.cafe/notes/8rgk9xjwic))
 - Looks at Facebook being down Do Cloudflare next. ([socketwench](https://hackers.town/@socketwench/107044378003108701))
