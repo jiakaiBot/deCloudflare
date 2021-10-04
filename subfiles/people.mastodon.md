@@ -7,6 +7,7 @@
 
 
 
+- ah yes, the one company that i trust to know their shit about having technical issues and going down, cloudflare ([novimatrem](https://meow.social/@novimatrem/107045622935157323))
 - See what happens when you use CENTRALIZED social medias like FAKEbook!?! Now, unlike coprorate software, the Fediverse is impervious to- Cloudflare dies O-oh no!!!!!! ([chaosskeleton](https://necropolis.online/@ChaosSkeleton/107045218755445972))
 - Cloudflare is being DDoSed by everyone in the world thanks to Facebook using 1.1.1.1 A lot of sites seem to be having issues because of how massive Facebook is, and how many people are mentally attached to it. ([inference](https://mastodon.inferencium.net/@inference/107045424126749050))
 - Cloudflare is being DDoSed by everyone in the world thanks to them using 1.1.1.1. A lot of sites seem to be having DNS issues because of how massive Facebook is, and how many people are mentally attached to it. ([inference](https://mastodon.inferencium.net/@inference/107045473531314979))
