@@ -7,6 +7,7 @@
 
 
 
+- cloudflare DNS error when trying to access your website. ([kevinbreen](https://twitter.com/kevinbreen/status/1444951210537140226))
 - WARP+ by cloudflare, gabisa select lokasi vpn nya tapi lebih murah ([iampamungkaski](https://twitter.com/iampamungkaski/status/1444865794693742592))
 - Could you please stop with the Cloudflare it's annoying! ([kman08336098](https://twitter.com/Kman08336098/status/1444769282731118592))
 - Censorship and jurisdiction. Local cops could not comprehend getting a warrant to cloudflare just to see dns requests. And no MITM either. ([jurbed](https://twitter.com/jurbed/status/1307397860498038790))
