@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-10-02: [Connectivity issues in SJC](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/00h3gyrp8mj0)
 - 2021-09-29: [Network Performance Issues in SIN](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fk8zhwbqhvh6)
 - 2021-09-29: [Issues with the Cloudflare APO for WordPress Plugin](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1yd0vtw8xnns)
 - 2021-09-27: [Customer Impacting Issue at MIA - Miami Datacenter](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q0sm1cjqlp0s)
