@@ -7,6 +7,8 @@
 
 
 
+- Apparemment, la panne de Facebook Inc. affecte les gros résolveurs publics (les Google Public DNS et autres CloudFlare Public DNS) : les humains et surtout les programmes essayant massivement d'avoir les IPs de FB et donc générant un afflux de requêtes supplémentaires. Pas de soucis pour le Unbound de @DNS_Shaftinc, qui ne voit pas d'afflux particulier et qui se tourne les pouces comme d'hab 😎 ([shaft](https://mamot.fr/@Shaft/107045162221164590))
+- facebook: is down cloudflare: slammed by facebook dns request spam fediverse: ([fristi](https://mk.toast.cafe/notes/8rgokhevmw))
 - CLOUDFLARE A IR ABAIXO, VAMOS LÁ CARALHOOOOOOOO! AGORA É A BOTNET A MORRER! ([lisbonjoker](https://pleroma.pt/objects/c07ff3a5-2470-46b9-bf1b-9a9236e238cc))
 - Du coup, tous les smartphones et ordinateurs du monde sont entrain de DDOS les DNS google, cloudflare, etc... Provoquant un ralentissement généralisé de l'internet. ([john_livingston](https://mamot.fr/@John_Livingston/107044916743337791))
 - something wrong with cloudflare? or some other service that hosts half the web? ([mia](https://disqordia.space/objects/d80d762f-66f8-4a03-b3e0-54291b5a0ae5))
