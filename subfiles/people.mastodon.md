@@ -7,6 +7,7 @@
 
 
 
+- Looks at Facebook being down Do Cloudflare next. ([socketwench](https://hackers.town/@socketwench/107044378003108701))
 - one of the airplane resale sites my flight sim buddy and i stalk too-expensive planes on for fun has been down for a few days cloudflare frontend says it can't resolve the dns, which is .... not good? ah well, have to fantasize about spending money i don't have on another airplane resale site ;) ([brion](https://mastodon.technology/@brion/107038458376413496))
 - We may've been too hard on #4Chan, #8Chan and #8kun. The reason we've been so hard on them is they helped create the #Christchurch massacre, don't federate, have prevented #Tor users from posting images, and hide behind #Cloudflare (so when they cross the line their service is not negatively effected). Having said that we understand why they might not be able to permit random Tor image uploads. In all fairness, we hope they ditch Cloudflare and try to be an open, #federating, Tor/I2P service. ([dsfgs](https://activism.openworlds.info/@dsfgs/107037786220140376))
 - I would love to not use Google Cloud services at all but I cannot find a managed DNS provider that offers DNSSEC and DANE besides cloudflare ([dubu](https://social.tofu.kim/objects/577ade5a-81ae-4dfe-bde5-ee2ac1e14f3e))
