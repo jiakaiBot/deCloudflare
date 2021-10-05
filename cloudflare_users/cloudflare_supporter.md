@@ -3542,6 +3542,7 @@ Do not create new issue or we will close it as duplicate.
 | [mohdsam47534112@twitter](https://twitter.com/mohdsam47534112/status/1377652969630433284) | advertise |
 | [MohdSoh63651909@twitter](https://twitter.com/MohdSoh63651909/status/1395901137224536065) | advertise |
 | [mohhamedsanosey@twitter](https://twitter.com/mohhamedsanosey/status/1434116716469030921) | advertise |
+| [mohibbur95@twitter](https://twitter.com/mohibbur95/status/1444960885051572225) | advertise |
 | [MohMoh08333940@twitter](https://twitter.com/MohMoh08333940/status/1391065381360574468) | advertise |
 | [mohsin84638488@twitter](https://twitter.com/mohsin84638488/status/1390823225731387398) | advertise |
 | [Moin38890593@twitter](https://twitter.com/Moin38890593/status/1396688841537253378) | advertise |
@@ -5958,6 +5959,7 @@ Do not create new issue or we will close it as duplicate.
 | [Weed36471988@twitter](https://twitter.com/Weed36471988/status/1385586093697880071) | advertise |
 | [weirdo7822@twitter](https://twitter.com/weirdo7822/status/1390378835703599106) | advertise |
 | [weixinhan@twitter](https://twitter.com/weixinhan/status/1385103220226236416) | advertise |
+| [WELINGTONROQUE2@twitter](https://twitter.com/WELINGTONROQUE2/status/1445061282508464130) | advertise |
 | [wesvalderama@twitter](https://twitter.com/wesvalderama/status/1386386480717729792) | advertise |
 | [WH1SbAtn0BPa5UI@twitter](https://twitter.com/WH1SbAtn0BPa5UI/status/1377862606266961924) | advertise |
 | [whatthe88888@twitter](https://twitter.com/whatthe88888/status/1385148573516402694) | advertise |
@@ -6411,6 +6413,7 @@ Do not create new issue or we will close it as duplicate.
 | [_UmmuUmairah_@twitter](https://twitter.com/_UmmuUmairah_/status/1394222981342060544) | advertise |
 | [_YoonminIsKii_@twitter](https://twitter.com/_YoonminIsKii_/status/1395181543241523205) | advertise |
 | [__JARVlS__@twitter](https://twitter.com/__JARVlS__/status/1399612611314950144) | advertise |
+| [__romanenko@twitter](https://twitter.com/__romanenko/status/1445082921421918210) | advertise |
 | [__Th3J0k3r__@twitter](https://twitter.com/__Th3J0k3r__/status/1389701604677390343) | advertise |
 
 </details>
