@@ -7,6 +7,7 @@
 
 
 
+- So it seems my new DNS setup is just barely on the edge of being good enough to work; Cloudflare and Google DNS seem to be able to resolve it, but Verizon's ISP DNS and others I've tried doesn't. I think the ISP servers are timing out before they can finish resolving, whereas the MITMNet servers are either fast or close enough to finish resolving in time. ([alexbuzzbee](https://fosstodon.org/@alexbuzzbee/107049179222676298))
 - 実質無料で使える Hosting Service の比較や使い分けの紹介 2021 (Firebase Hosting, Cloudflare Pages, Vercel, Netlify, GitHub Pages, Amplify, CloudRun) | blog.ojisan.io ([onodai145](https://misskey.omhnc.net/notes/8rgybdgudc))
 - my website has never used cloudflare and it works fine ([walruslifestyle](https://octodon.social/@walruslifestyle/107045978583305969))
 - ah yes, the one company that i trust to know their shit about having technical issues and going down, cloudflare ([novimatrem](https://meow.social/@novimatrem/107045622935157323))
