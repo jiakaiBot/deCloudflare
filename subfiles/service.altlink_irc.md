@@ -4,6 +4,7 @@
 - If you don't know what Altlink is [click here](service.altlink.md).
 - You can find `altlink_xxx` only on:
 
+
 | Server | Channel |
 | -- | -- |
 | http://techrights.org/ IRC | #techrights |
