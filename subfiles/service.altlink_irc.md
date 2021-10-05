@@ -5,6 +5,7 @@
 - You can find `altlink_xxx` only on:
 
 | Server | Channel |
+| -- | -- |
 | http://techrights.org/ IRC | #techrights |
 | https://www.torproject.org/ IRC | #tor |
 
