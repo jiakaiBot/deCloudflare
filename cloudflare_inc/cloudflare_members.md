@@ -742,6 +742,7 @@ Or is this merely a case of simple modesty?
 | Jenny Gong | Employee |  |
 | Jensen Hussey | Web Developer |  |
 | Jensen Kuras | Programmer | jensen@cloudflare.com<br>https://twitter.com/jensechu<br>https://www.instagram.com/accounts/sin.jen/ |
+| Jen Taylor | Employee | |
 | Jeppe Toustrup | Systems Reliability Engineer |  |
 | Jeremy Bernick | Intern |  |
 | Jeremy L. Pugh | Employee |  |
@@ -1450,6 +1451,7 @@ Or is this merely a case of simple modesty?
 | Sieh Johnson | Full Stack Software |  |
 | Sierra Dasso | Account Executive |  |
 | Sierra Molina | Recruiting Operations Manager |  |
+| Simona Pop | Employee | |
 | Simon Moore | Support Engineer |  |
 | Simon Steiner | Product Partnerships Lead | [🖼](../image/gang/Simon_Steiner.jpg) |
 | Simon Wijckmans | Solutions Engineer |  |
@@ -1645,6 +1647,7 @@ Or is this merely a case of simple modesty?
 | Wendy Chu | Export Director |  |
 | Wenz Xing | Special Projects Intern |  |
 | Weronika Maria | Employee | [🖼](../image/gang/163c0d17218e98403d2205e9fc6817b08aac1959.jpg) |
+| Wesley Evans | Employee | |
 | Wesley Shi | Systems Engineer |  |
 | Wesley Soeters | Account Executive | https://twitter.com/WesleySoeters |
 | Will Buckner | Systems Engineer |  |
