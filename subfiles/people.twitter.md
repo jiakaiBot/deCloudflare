@@ -7,6 +7,8 @@
 
 
 
+- I'm locked out of my account by cloudflare and have been for over a day now. This seems like an outage that is only affecting some users. Can you comment on this error 1020 issue? ([tmlutas](https://twitter.com/TMLutas/status/1445449130369716224))
+- No, I try to point out the problem. Maybe they solve it creative something like race queue. I don't have time for other jobs, but I can make some advice. (And yes I use product portal for that, but they just use old Cloudflare captcha.) ([zedrunbotspec](https://twitter.com/ZedRunBotSpec/status/1445444727151620098))
 - They become the victim instead of the perpetrator. It's is fascinating hypothesis but the cause was so epically lame at the same time, it seems hard to believe it was deliberate. ([askwpgirl](https://twitter.com/askwpgirl/status/1445432029001048066))
 - If you use undetectedchromedriver, selenium and proxy for solving cloudflare captcha you have some bot. Like was in my channel description. ([zedrunbotspec](https://twitter.com/ZedRunBotSpec/status/1445419594479554574))
 - The only way to be "so certain, so fast" that "there was no malicious activity behind this outage" is if no human was involved anywhere. Also, Cloudflare offered to bail FB out and get them quickly back online to stop the $13 million / hour hemorrhage. Why refuse CF's offer? ([svpndotcom](https://twitter.com/svpndotcom/status/1445417224131469314))
