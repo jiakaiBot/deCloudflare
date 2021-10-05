@@ -7,6 +7,8 @@
 
 
 
+- Gracias por compartir Amigo Cloud, el incidente bien explicado por CloudFlare. Queda pendiente la Causa Raíz (error interno) que Facebook, nunca explicará. ([aaronbm2021](https://twitter.com/aaronbm2021/status/1445377287206187016))
+- 🌍⚡ "Cloudflare senior vice president Dane Knecht notes that Facebook’s border gateway protocol routes — BGP helps networks pick the best path to deliver internet traffic — have been “withdrawn from the internet.”" well that's fucking awesome ([luisffierro](https://twitter.com/luisffierro/status/1445378531043815424))
 - when will the website be working again? Cloudflare is blocking us all. rollercoin ([stogie_era](https://twitter.com/Stogie_era/status/1445373769363623939))
 - Experimented with Cloudflare CDN the other day. It definitely slowed down my sites when accessed from the same region as my servers. Also, something about them playing the MiTM made me uncomfortable. ([saurabhg](https://twitter.com/saurabhg/status/1312527539449937923))
 - Yeah, and even that can be ymmv I'm in education, and we have some low income families who access our services over TLS 1.0/1.1 for various reasons. We're not a target for mitm, I'm not worried serving static content. Also fronting with Cloudflare which adds other capabilities. ([nathanmcnulty](https://twitter.com/NathanMcNulty/status/1294761722398425088))
