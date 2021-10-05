@@ -7,6 +7,12 @@
 
 
 
+- I'm guessing they went to the other platform I deleted long ago, Nextdoor 😸 ([boba_tea_catan](https://twitter.com/Boba_Tea_Catan/status/1445164387874918403))
+- Gordis deja de consumir la primera estupidez que miras Internet, cloudflare ya informo que sus tablas BGP fueron borradas y fue un error interno pues no se detecta ataques. ([restrep_1](https://twitter.com/Restrep_1/status/1445169760048660484))
+- Yea, in addition many apps don't implement a Backoff policy to handle retries, so your server becomes flooded with millions of requests from the same client that always gets the same error in response... it's going to be a tough day for the network stabilize all services again ([arielgmachado](https://twitter.com/ArielGMachado/status/1445166524768083968))
+- JohnCumming Cloudflare: issues appear to be stemming from a configuration error that saw “a large number of changes” take place to Facebook’s border gateway protocol BGP the underlying protocol which determines how traffic is physically routed and peered across the internet. ([ilatif](https://twitter.com/ilatif/status/1445135681467072513))
+- Cloudflare, tweeted FB issues appear to be stemming from a configuration error which saw “a large number of changes” take place to Facebook’s border gateway protocol (BGP) – the underlying protocol which determines how traffic is physically routed and peered across the internet ([marcjohanssen](https://twitter.com/MarcJohanssen/status/1445109932584538119))
+- I dare them to try to fuck with Cloudflare. I bet $100 to everyone on Twitter that nobody can touch that company. ([lightninglegend](https://twitter.com/LightningLegend/status/1445165687022833667))
 - So, someone deleted large sections of the routing. That doesn't mean Facebook is just down, from the looks of it. That means Facebook is gone. is crazy mind blowing 🤯 ([alsa_eth](https://twitter.com/alsa_eth/status/1445150358414794757))
 - You manage Sandhills Publishing no? Where were you when they were out all weekend? It was your companies named on the DNS error ([matt_hands](https://twitter.com/Matt_Hands/status/1445163681449451521))
 - Good article. Even for an IT idiot as myself, I can gather at least the breadth of this. FB is back now, but not fully functional. Clicking on my notifications brings up an error message. ([cking613](https://twitter.com/Cking613/status/1445157400588206083))
