@@ -7,6 +7,10 @@
 
 
 
+- CloudFlare has a great explanation which is basically, "someone deleted the BGP record for DNS." Can't imagine how that could happen without some "help" from the inside. Wonder who didn't show up for work today at FB? ([steamrob42](https://twitter.com/steamrob42/status/1445188363057836038))
+- fucking roskomnadzor and cloudflare! why the fuck should I come from the Netherlands to grab an album of my favorite music? fuck off your authorities! 🏴‍☠️ isengard blackmetal høstmørke ([cybertechno88](https://twitter.com/cybertechno88/status/1445180370249568260))
+- Seems like a significant blast radius of DNS server advertisements we're in same prefix. Otherwise we are looking at larger error. ([cryptozugzwang](https://twitter.com/CryptoZugzwang/status/1445192854633078787))
+- no it was a misconfiguration error plain and simple CloudFlare said it was, just very coincidental when it happened. if you understand how an intranet works, by the same error they couldnt resolve the internal network as well. could have scrubbed the database live. Lost billions ([forrestbmac](https://twitter.com/forrestbmac/status/1445180347868753926))
 - I'm guessing they went to the other platform I deleted long ago, Nextdoor 😸 ([boba_tea_catan](https://twitter.com/Boba_Tea_Catan/status/1445164387874918403))
 - Gordis deja de consumir la primera estupidez que miras Internet, cloudflare ya informo que sus tablas BGP fueron borradas y fue un error interno pues no se detecta ataques. ([restrep_1](https://twitter.com/Restrep_1/status/1445169760048660484))
 - Yea, in addition many apps don't implement a Backoff policy to handle retries, so your server becomes flooded with millions of requests from the same client that always gets the same error in response... it's going to be a tough day for the network stabilize all services again ([arielgmachado](https://twitter.com/ArielGMachado/status/1445166524768083968))
