@@ -7,6 +7,8 @@
 
 
 
+- The issue probably stemmed from a misconfiguration of Facebook's servers, which didn't let users connect to its sites. The problem was compounded when apps (and users) got error messages and kept trying to reconnect, sparking a "tsunami" of traffic, according to Cloudflare… ([telebusiness](https://twitter.com/telebusiness/status/1445322175083388936))
+- Yes, very helpful. Look forward to learning what happened within FB. Odds are human error rather than human malice. But either way the outage should put policy makers on notice that “going digital” is by no means a risk-free option. ([zcobb](https://twitter.com/zcobb/status/1445321991142232067))
 - Glad I saw this summary from Cloudflare about last night's facebookdown so I can stop doing my own. It has better pictures too. fragileworld facebookoutage ([peterahayes_pah](https://twitter.com/PeterAHayes_pah/status/1445293625236152325))
 - Reflected XSS - Cloudflare Bypass Normal payload ";alert(1)// ( 403 Blocked By Cloudflare ) Bypass ";(a=alert,b=1,a(b))// ( 200 OK ) xss bugbounty bugbountytip bugbountytips cloudflarebypass ([m_lathof](https://twitter.com/m_lathof/status/1445277654073020420))
 - This article is so fucking self-congratulatory it makes me sick ([ddrt](https://twitter.com/ddrt/status/1445247923835465729))
