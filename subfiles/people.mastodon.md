@@ -7,6 +7,7 @@
 
 
 
+- 実質無料で使える Hosting Service の比較や使い分けの紹介 2021 (Firebase Hosting, Cloudflare Pages, Vercel, Netlify, GitHub Pages, Amplify, CloudRun) | blog.ojisan.io ([onodai145](https://misskey.omhnc.net/notes/8rgybdgudc))
 - my website has never used cloudflare and it works fine ([walruslifestyle](https://octodon.social/@walruslifestyle/107045978583305969))
 - ah yes, the one company that i trust to know their shit about having technical issues and going down, cloudflare ([novimatrem](https://meow.social/@novimatrem/107045622935157323))
 - See what happens when you use CENTRALIZED social medias like FAKEbook!?! Now, unlike coprorate software, the Fediverse is impervious to- Cloudflare dies O-oh no!!!!!! ([chaosskeleton](https://necropolis.online/@ChaosSkeleton/107045218755445972))
