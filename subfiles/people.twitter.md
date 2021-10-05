@@ -7,6 +7,11 @@
 
 
 
+- Error humano al dejar de anunciar vía eBGP, paso al edge BGP y todo internet (routers) convergen por ese cambio. No creo que solo fué la 1.1.1.1, sino toda una clase o gran parte de la misma. El edge BGP tiene todas las rutas de internet sumarizadas, incluida las de facebook ([jfmirror](https://twitter.com/jfmirror/status/1445400382528802819))
+- Yeah, I forgot "human error" and "glitch in the Matrix". Oh, and of course "Morten fell over a cable." 😅 ([rschu](https://twitter.com/rschu/status/1445397373627379729))
+- The web didn't break Google just did a rookie mistake and forgot to renew some certs. However,cloudflare or Google going down would break the internet.Cloudflare gone down before and that lead to a fuck ton of the internet being inaccessible bc every1 relies on ddos protection ([sambagams](https://twitter.com/SamBaGaMs/status/1445396959020339205))
+- Oh, you’re not taking about my “stop gouging on a couple of billing dimensions” style of consulting. The only future I try to predict is the cloud bill. ([quinnypig](https://twitter.com/QuinnyPig/status/1445403636901814294))
+- Well explained still wonder what happened in their network that caused to stop advertising their route to public DNS. ([ankit_enrique](https://twitter.com/ankit_enrique/status/1445390598689722376))
 - Gracias por compartir Amigo Cloud, el incidente bien explicado por CloudFlare. Queda pendiente la Causa Raíz (error interno) que Facebook, nunca explicará. ([aaronbm2021](https://twitter.com/aaronbm2021/status/1445377287206187016))
 - 🌍⚡ "Cloudflare senior vice president Dane Knecht notes that Facebook’s border gateway protocol routes — BGP helps networks pick the best path to deliver internet traffic — have been “withdrawn from the internet.”" well that's fucking awesome ([luisffierro](https://twitter.com/luisffierro/status/1445378531043815424))
 - when will the website be working again? Cloudflare is blocking us all. rollercoin ([stogie_era](https://twitter.com/Stogie_era/status/1445373769363623939))
