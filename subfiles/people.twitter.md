@@ -7,6 +7,7 @@
 
 
 
+- when will the website be working again? Cloudflare is blocking us all. rollercoin ([stogie_era](https://twitter.com/Stogie_era/status/1445373769363623939))
 - Experimented with Cloudflare CDN the other day. It definitely slowed down my sites when accessed from the same region as my servers. Also, something about them playing the MiTM made me uncomfortable. ([saurabhg](https://twitter.com/saurabhg/status/1312527539449937923))
 - Yeah, and even that can be ymmv I'm in education, and we have some low income families who access our services over TLS 1.0/1.1 for various reasons. We're not a target for mitm, I'm not worried serving static content. Also fronting with Cloudflare which adds other capabilities. ([nathanmcnulty](https://twitter.com/NathanMcNulty/status/1294761722398425088))
 - Alternativ 1.1.1.1 und 1.0.0.1 sind die von Cloudflare. Angeblich der Schnellste, und anonymste. Wobei das evtl Augenwischerei ist. Habe momentan Twitter Probleme mitm Pixel im WLAN. Bilder laden teilweise nicht, Videos dann wiederum schon. Ganz kurios. ([bibloki](https://twitter.com/bibloki/status/1239330948229062664))
