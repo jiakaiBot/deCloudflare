@@ -7,6 +7,7 @@
 
 
 
+- Before looking out for Facebook try looking out for the ordinary American online shopper and stop doing business with Chinese Scam Artists... ([tom_strapp](https://twitter.com/tom_strapp/status/1445206430731186176))
 - CloudFlare has a great explanation which is basically, "someone deleted the BGP record for DNS." Can't imagine how that could happen without some "help" from the inside. Wonder who didn't show up for work today at FB? ([steamrob42](https://twitter.com/steamrob42/status/1445188363057836038))
 - fucking roskomnadzor and cloudflare! why the fuck should I come from the Netherlands to grab an album of my favorite music? fuck off your authorities! 🏴‍☠️ isengard blackmetal høstmørke ([cybertechno88](https://twitter.com/cybertechno88/status/1445180370249568260))
 - Seems like a significant blast radius of DNS server advertisements we're in same prefix. Otherwise we are looking at larger error. ([cryptozugzwang](https://twitter.com/CryptoZugzwang/status/1445192854633078787))
