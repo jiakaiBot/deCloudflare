@@ -7,6 +7,7 @@
 
 
 
+- They become the victim instead of the perpetrator. It's is fascinating hypothesis but the cause was so epically lame at the same time, it seems hard to believe it was deliberate. ([askwpgirl](https://twitter.com/askwpgirl/status/1445432029001048066))
 - If you use undetectedchromedriver, selenium and proxy for solving cloudflare captcha you have some bot. Like was in my channel description. ([zedrunbotspec](https://twitter.com/ZedRunBotSpec/status/1445419594479554574))
 - The only way to be "so certain, so fast" that "there was no malicious activity behind this outage" is if no human was involved anywhere. Also, Cloudflare offered to bail FB out and get them quickly back online to stop the $13 million / hour hemorrhage. Why refuse CF's offer? ([svpndotcom](https://twitter.com/svpndotcom/status/1445417224131469314))
 - Error humano al dejar de anunciar vía eBGP, paso al edge BGP y todo internet (routers) convergen por ese cambio. No creo que solo fué la 1.1.1.1, sino toda una clase o gran parte de la misma. El edge BGP tiene todas las rutas de internet sumarizadas, incluida las de facebook ([jfmirror](https://twitter.com/jfmirror/status/1445400382528802819))
