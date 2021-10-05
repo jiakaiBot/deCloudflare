@@ -10,8 +10,8 @@
 
 | Server | Channel |
 | -- | -- |
-| http://techrights.org/ IRC | #techrights |
-| https://www.torproject.org/ IRC | #tor |
+| http://techrights.org/ IRC | #techrights #boycottnovell-social |
+| https://www.torproject.org/ IRC | #tor #tor-dev |
 
 
 - Feel free to suggest other server/channels.
