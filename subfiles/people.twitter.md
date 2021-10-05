@@ -7,6 +7,9 @@
 
 
 
+- except...hungerrush is down too. error and then cloudflare 502 every time i try to place an order ([big_top_energy](https://twitter.com/big_top_energy/status/1445462425893945350))
+- so i had to fix the cloudflare gateway cert to then be able to see the blocked message ([iphigenie](https://twitter.com/iphigenie/status/1445451821523234819))
+- Hey Cloudflare super bot fight mode is awesome, but you gotta give us the ability to bypass it. I find myself turning it off frequently b/c our automated tasks are getting blocked. ([spdean](https://twitter.com/spdean/status/1445451802619494413))
 - I'm locked out of my account by cloudflare and have been for over a day now. This seems like an outage that is only affecting some users. Can you comment on this error 1020 issue? ([tmlutas](https://twitter.com/TMLutas/status/1445449130369716224))
 - No, I try to point out the problem. Maybe they solve it creative something like race queue. I don't have time for other jobs, but I can make some advice. (And yes I use product portal for that, but they just use old Cloudflare captcha.) ([zedrunbotspec](https://twitter.com/ZedRunBotSpec/status/1445444727151620098))
 - They become the victim instead of the perpetrator. It's is fascinating hypothesis but the cause was so epically lame at the same time, it seems hard to believe it was deliberate. ([askwpgirl](https://twitter.com/askwpgirl/status/1445432029001048066))
