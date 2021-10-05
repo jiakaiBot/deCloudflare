@@ -7,6 +7,8 @@
 
 
 
+- If you use undetectedchromedriver, selenium and proxy for solving cloudflare captcha you have some bot. Like was in my channel description. ([zedrunbotspec](https://twitter.com/ZedRunBotSpec/status/1445419594479554574))
+- The only way to be "so certain, so fast" that "there was no malicious activity behind this outage" is if no human was involved anywhere. Also, Cloudflare offered to bail FB out and get them quickly back online to stop the $13 million / hour hemorrhage. Why refuse CF's offer? ([svpndotcom](https://twitter.com/svpndotcom/status/1445417224131469314))
 - Error humano al dejar de anunciar vía eBGP, paso al edge BGP y todo internet (routers) convergen por ese cambio. No creo que solo fué la 1.1.1.1, sino toda una clase o gran parte de la misma. El edge BGP tiene todas las rutas de internet sumarizadas, incluida las de facebook ([jfmirror](https://twitter.com/jfmirror/status/1445400382528802819))
 - Yeah, I forgot "human error" and "glitch in the Matrix". Oh, and of course "Morten fell over a cable." 😅 ([rschu](https://twitter.com/rschu/status/1445397373627379729))
 - The web didn't break Google just did a rookie mistake and forgot to renew some certs. However,cloudflare or Google going down would break the internet.Cloudflare gone down before and that lead to a fuck ton of the internet being inaccessible bc every1 relies on ddos protection ([sambagams](https://twitter.com/SamBaGaMs/status/1445396959020339205))
