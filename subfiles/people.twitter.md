@@ -7,6 +7,13 @@
 
 
 
+- Glad I saw this summary from Cloudflare about last night's facebookdown so I can stop doing my own. It has better pictures too. fragileworld facebookoutage ([peterahayes_pah](https://twitter.com/PeterAHayes_pah/status/1445293625236152325))
+- Reflected XSS - Cloudflare Bypass Normal payload ";alert(1)// ( 403 Blocked By Cloudflare ) Bypass ";(a=alert,b=1,a(b))// ( 200 OK ) xss bugbounty bugbountytip bugbountytips cloudflarebypass ([m_lathof](https://twitter.com/m_lathof/status/1445277654073020420))
+- This article is so fucking self-congratulatory it makes me sick ([ddrt](https://twitter.com/ddrt/status/1445247923835465729))
+- „… end-users also won't take an error for an answer and start reloading the pages, or killing and relaunching their apps, sometimes also aggressively.“ 😉 Good one! ([ceetter](https://twitter.com/Ceetter/status/1445276948301815809))
+- "end-users also won't take an error for an answer and start reloading the pages, or killing and relaunching their apps, sometimes also aggressively." Cloudflare on the Facebook outage ([lexplt](https://twitter.com/lexplt/status/1445274996625055755))
+- Sure thing, an error caused us to push some settings to Cloudflare (a cloud provider we use) which resulted in the short outage. The error has been identified and we're taking multiple steps to ensure it doesn't happen again. ([sharesiesnz](https://twitter.com/SharesiesNZ/status/1445237590311981057))
+- Not always though. There are definite DoS attacks against BGP out there which I would be sorely disappointed if fb feel victim to. ([kcjefff](https://twitter.com/kcjefff/status/1445226428329598976))
 - As the Trump's election gets closer and closer, The New York Times / Washington Post will probably become extremely anxious, and put pressure on ISPs like Comcast / Verizon, or Cloudflare, to censor alternative platforms like Parler. ([gosoraproject](https://twitter.com/GosoraProject/status/1445209559400812551))
 - Before looking out for Facebook try looking out for the ordinary American online shopper and stop doing business with Chinese Scam Artists... ([tom_strapp](https://twitter.com/tom_strapp/status/1445206430731186176))
 - CloudFlare has a great explanation which is basically, "someone deleted the BGP record for DNS." Can't imagine how that could happen without some "help" from the inside. Wonder who didn't show up for work today at FB? ([steamrob42](https://twitter.com/steamrob42/status/1445188363057836038))
