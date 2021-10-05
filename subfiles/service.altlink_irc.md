@@ -12,4 +12,4 @@
 
 
 - Feel free to suggest other server/channels.
-- You can create an Issue without git account. Just send a private message.
+- You can create an Issue without git account. Just send a private message to `altlink_xxx`.
