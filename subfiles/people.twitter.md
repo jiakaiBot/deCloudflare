@@ -7,6 +7,7 @@
 
 
 
+- Fuck tech monopolies I can't get into nitropanel because cloudflare has too much traffic so my server is down ([hasrock36](https://twitter.com/hasrock36/status/1445849783491436548))
 - Cloudflare, sometimes stop me from visiting a website even when it is available and never apologised for it. 😂 ([i_relish_code](https://twitter.com/i_relish_code/status/1445795825628553216))
 - just download cloudflare wasp and tun the vpn on essy low ping ([sweatyleaks](https://twitter.com/SweatyLeaks/status/1445751989279678478))
 - useless! Error 1020 Ray ID: 699f29621bd8f321 • 2021-10-06 13:15:59 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: ([mxj61](https://twitter.com/MxJ61/status/1445739765140103169))
