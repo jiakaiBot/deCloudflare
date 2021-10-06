@@ -7,6 +7,14 @@
 
 
 
+- when are you going to enable ECH (encrypted client hello)? 2021 is almost over, please. ([iokernel](https://twitter.com/IOKernel/status/1445558366252646407))
+- - Google captcha is your friend. - Check on Cloudflare if it comes from certain countries or IP and block it. - Ask for email validation. ([saasryan](https://twitter.com/SaasRyan/status/1445597535599353861))
+- hi, I need some help please I Actived the cloudflare in my site wordpress and now is with 501 error ([botequin](https://twitter.com/botequin/status/1445505975838928901))
+- I'm still salty about DoH. Fuck Mozilla, and fuck Cloudflare for pushing it. ([da_667](https://twitter.com/da_667/status/1445490562547609606))
+- I wonder more about the cloud providers like AWS, azure, Cloudflare, etc. Take those out and a lot of the Internet would stop ([serraotweets](https://twitter.com/serraotweets/status/1445536490952429574))
+- New routers + Pi 4-based pi-hole + Cloudflare DNS = faster, more stable internet access with network-wide ad blocking at home. ([jjtanner](https://twitter.com/jjtanner/status/1445533869403357193))
+- This is 1.1.1.1's VNP icon . It usually appears when you turn on the VPN on your smartphone ([cuongn98](https://twitter.com/CuongN98/status/1445581414250864645))
+- All of our IPs? I've never had any issues accessing Cloudflare websites, except maybe some extra CAPTCHAs here and there, and I'm always connected to the VPN. ([cryptostorm_is](https://twitter.com/cryptostorm_is/status/1445543157588893710))
 - except...hungerrush is down too. error and then cloudflare 502 every time i try to place an order ([big_top_energy](https://twitter.com/big_top_energy/status/1445462425893945350))
 - so i had to fix the cloudflare gateway cert to then be able to see the blocked message ([iphigenie](https://twitter.com/iphigenie/status/1445451821523234819))
 - Hey Cloudflare super bot fight mode is awesome, but you gotta give us the ability to bypass it. I find myself turning it off frequently b/c our automated tasks are getting blocked. ([spdean](https://twitter.com/spdean/status/1445451802619494413))
