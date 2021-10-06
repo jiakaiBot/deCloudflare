@@ -7,6 +7,8 @@
 
 
 
+- Cloudflare R2 Storageには期待しているんだけど転送料無料に秒間1桁のアクセスの場合なって感じの但し書きがあるのが気になる ([hota](https://mstdn.maud.io/@hota/107056154694839515))
+- みうぱよPayでCloudflare Pro ([mohemohe](https://mstdn.plusminus.io/@mohemohe/107056222660547904))
 - "Please turn on JavaScript and reload the page. Powered by CloudFlare." How about… go fuck yourself ([hector](https://explosion.party/objects/f066c83b-52b2-4ece-9166-d1f463498c51))
 - ​:cloudflare:​ くりゃーどふりゃー！！！ ([marunai](https://misskey.io/notes/8rj3r9t6iq))
 - ​:cloudflare:​ $x2くりゃーどふりゃー！！！ ([marunai](https://misskey.io/notes/8rj3reyc54))
