@@ -7,6 +7,8 @@
 
 
 
+- Your IPs are blocked by cloudflare in 109 websites ([volcanism_5422](https://twitter.com/volcanism_5422/status/1445540277632917507))
+- Error 1020 Ray ID: 699de8ccfc123260 •2021-10-06 09:37:08 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 699de8ccfc123260Your IP: 92.222.10.12Performance & security... ([swai_leonce](https://twitter.com/swai_leonce/status/1445693641708564486))
 - Sent a DM - thank you for the swift response. ([fevangelou](https://twitter.com/fevangelou/status/1443856603086737408))
 - Your IP 104.16.187.40 hosting location API is down. ([talal_al_ahmed](https://twitter.com/Talal_Al_Ahmed/status/1443298790656589825))
 - I'll take Cloudflare fuck ups for 500, please. ([effinfilms](https://twitter.com/EffinFilms/status/1445085134122803204))
