@@ -7,15 +7,9 @@
 
 
 
-- Cloudflare R2 Storageには期待しているんだけど転送料無料に秒間1桁のアクセスの場合なって感じの但し書きがあるのが気になる ([hota](https://mstdn.maud.io/@hota/107056154694839515))
-- みうぱよPayでCloudflare Pro ([mohemohe](https://mstdn.plusminus.io/@mohemohe/107056222660547904))
 - "Please turn on JavaScript and reload the page. Powered by CloudFlare." How about… go fuck yourself ([hector](https://explosion.party/objects/f066c83b-52b2-4ece-9166-d1f463498c51))
-- ​:cloudflare:​ くりゃーどふりゃー！！！ ([marunai](https://misskey.io/notes/8rj3r9t6iq))
-- ​:cloudflare:​ $x2くりゃーどふりゃー！！！ ([marunai](https://misskey.io/notes/8rj3reyc54))
-- ​:cloudflare:​がめっちゃ​:soundcloud:​に見える ([wasabeep_music](https://misskey.io/notes/8rj3shf5cg))
 - This last link I just posted: (Another cloudflared domain - behind the great Cloudflare Wall of China, unfortunately!). ([agrandmaster](https://social.kyushojitsu.ca/@Agrandmaster/107052859893111906))
 - So it seems my new DNS setup is just barely on the edge of being good enough to work; Cloudflare and Google DNS seem to be able to resolve it, but Verizon's ISP DNS and others I've tried doesn't. I think the ISP servers are timing out before they can finish resolving, whereas the MITMNet servers are either fast or close enough to finish resolving in time. ([alexbuzzbee](https://fosstodon.org/@alexbuzzbee/107049179222676298))
-- 実質無料で使える Hosting Service の比較や使い分けの紹介 2021 (Firebase Hosting, Cloudflare Pages, Vercel, Netlify, GitHub Pages, Amplify, CloudRun) | blog.ojisan.io ([onodai145](https://misskey.omhnc.net/notes/8rgybdgudc))
 - my website has never used cloudflare and it works fine ([walruslifestyle](https://octodon.social/@walruslifestyle/107045978583305969))
 - ah yes, the one company that i trust to know their shit about having technical issues and going down, cloudflare ([novimatrem](https://meow.social/@novimatrem/107045622935157323))
 - See what happens when you use CENTRALIZED social medias like FAKEbook!?! Now, unlike coprorate software, the Fediverse is impervious to- Cloudflare dies O-oh no!!!!!! ([chaosskeleton](https://necropolis.online/@ChaosSkeleton/107045218755445972))
