@@ -7,6 +7,8 @@
 
 
 
+- just download cloudflare wasp and tun the vpn on essy low ping ([sweatyleaks](https://twitter.com/SweatyLeaks/status/1445751989279678478))
+- useless! Error 1020 Ray ID: 699f29621bd8f321 • 2021-10-06 13:15:59 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: ([mxj61](https://twitter.com/MxJ61/status/1445739765140103169))
 - Your IPs are blocked by cloudflare in 109 websites ([volcanism_5422](https://twitter.com/volcanism_5422/status/1445540277632917507))
 - Error 1020 Ray ID: 699de8ccfc123260 •2021-10-06 09:37:08 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 699de8ccfc123260Your IP: 92.222.10.12Performance & security... ([swai_leonce](https://twitter.com/swai_leonce/status/1445693641708564486))
 - Sent a DM - thank you for the swift response. ([fevangelou](https://twitter.com/fevangelou/status/1443856603086737408))
