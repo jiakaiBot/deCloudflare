@@ -7,6 +7,7 @@
 
 
 
+- "Please turn on JavaScript and reload the page. Powered by CloudFlare." How about… go fuck yourself ([hector](https://explosion.party/objects/f066c83b-52b2-4ece-9166-d1f463498c51))
 - ​:cloudflare:​ くりゃーどふりゃー！！！ ([marunai](https://misskey.io/notes/8rj3r9t6iq))
 - ​:cloudflare:​ $x2くりゃーどふりゃー！！！ ([marunai](https://misskey.io/notes/8rj3reyc54))
 - ​:cloudflare:​がめっちゃ​:soundcloud:​に見える ([wasabeep_music](https://misskey.io/notes/8rj3shf5cg))
