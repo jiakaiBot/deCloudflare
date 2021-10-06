@@ -7,6 +7,9 @@
 
 
 
+- ​:cloudflare:​ くりゃーどふりゃー！！！ ([marunai](https://misskey.io/notes/8rj3r9t6iq))
+- ​:cloudflare:​ $x2くりゃーどふりゃー！！！ ([marunai](https://misskey.io/notes/8rj3reyc54))
+- ​:cloudflare:​がめっちゃ​:soundcloud:​に見える ([wasabeep_music](https://misskey.io/notes/8rj3shf5cg))
 - This last link I just posted: (Another cloudflared domain - behind the great Cloudflare Wall of China, unfortunately!). ([agrandmaster](https://social.kyushojitsu.ca/@Agrandmaster/107052859893111906))
 - So it seems my new DNS setup is just barely on the edge of being good enough to work; Cloudflare and Google DNS seem to be able to resolve it, but Verizon's ISP DNS and others I've tried doesn't. I think the ISP servers are timing out before they can finish resolving, whereas the MITMNet servers are either fast or close enough to finish resolving in time. ([alexbuzzbee](https://fosstodon.org/@alexbuzzbee/107049179222676298))
 - 実質無料で使える Hosting Service の比較や使い分けの紹介 2021 (Firebase Hosting, Cloudflare Pages, Vercel, Netlify, GitHub Pages, Amplify, CloudRun) | blog.ojisan.io ([onodai145](https://misskey.omhnc.net/notes/8rgybdgudc))
