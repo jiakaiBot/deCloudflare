@@ -7,6 +7,10 @@
 
 
 
+- Sent a DM - thank you for the swift response. ([fevangelou](https://twitter.com/fevangelou/status/1443856603086737408))
+- Your IP 104.16.187.40 hosting location API is down. ([talal_al_ahmed](https://twitter.com/Talal_Al_Ahmed/status/1443298790656589825))
+- I'll take Cloudflare fuck ups for 500, please. ([effinfilms](https://twitter.com/EffinFilms/status/1445085134122803204))
+- Cloudflare please fix your captcha system ([detonieth](https://twitter.com/detonieth/status/1445235779941318660))
 - when are you going to enable ECH (encrypted client hello)? 2021 is almost over, please. ([iokernel](https://twitter.com/IOKernel/status/1445558366252646407))
 - - Google captcha is your friend. - Check on Cloudflare if it comes from certain countries or IP and block it. - Ask for email validation. ([saasryan](https://twitter.com/SaasRyan/status/1445597535599353861))
 - hi, I need some help please I Actived the cloudflare in my site wordpress and now is with 501 error ([botequin](https://twitter.com/botequin/status/1445505975838928901))
