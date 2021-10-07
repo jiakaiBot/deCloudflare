@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare trying to log into our dashboard and it's an endless login loop. Something broken? ([iamgerardthomas](https://twitter.com/iamgerardthomas/status/1446238119347437571))
 - There's now a different error message about Cloudflare..? ([hobgoblintc_](https://twitter.com/hobgoblintc_/status/1446169819854876682))
 - If you see an error, note that most errors mean the page falls back to normal search result behavior (as if no SXG were present). ([twifkak](https://twitter.com/twifkak/status/1446165333945950226))
 - Fuck you I just wanted Lafayette and its sold out during to Cloudflare being a shit host of your line ([watervaporeon](https://twitter.com/watervaporeon/status/1446154071115636741))
