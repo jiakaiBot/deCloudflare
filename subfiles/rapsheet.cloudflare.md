@@ -4,7 +4,7 @@
 [3]: https://web.archive.org/web/20210122201542/psono.com/security
 [4]: https://web.archive.org/web/https://blog.torproject.org/trouble-cloudflare
 [5]: https://web.archive.org/web/https://cryptome.org/2016/07/cloudflare-de-anons-tor.htm
-[6]: https://git.nogafam.es/deCloudflare/deCloudflare/raw/branch/master/pdf/2016-CloudFlare_Fact_Sheet.pdf
+[6]: https://git.disroot.org/dCF/deCloudflare/raw/branch/master/pdf/2016-CloudFlare_Fact_Sheet.pdf
 [7]: https://old.reddit.com/r/privacy/comments/b8dptl/another_landmark_day_in_the_war_to_control/ejxmmhq
 [8]: https://www.nbcnews.com/news/us-news/trump-signs-measure-let-isps-sell-your-data-without-consent-n742316
 [9]: https://web.archive.org/web/20200704235401/www.datayoshi.com/offer/595856/data-scientist-cloudflare
@@ -13,7 +13,7 @@
 [12]: https://web.archive.org/web/20210315204019/docs.hcaptcha.com/faq
 [13]: https://www.schneier.com/blog/archives/2018/03/the_600_compani.html
 [14]: https://web.archive.org/web/20190203014215/www.fcc.gov/about-fcc/advisory-committees/general/open-internet-advisory-committee
-[15]: https://git.nogafam.es/deCloudflare/deCloudflare/raw/branch/master/pdf/2016-CloudFlare_Fact_Sheet.pdf#page=6
+[15]: https://git.disroot.org/dCF/deCloudflare/raw/branch/master/pdf/2016-CloudFlare_Fact_Sheet.pdf#page=6
 [16]: https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
 [17]: https://twitter.com/RVWssb/status/1293371696418889730
 [18]: https://www.nytimes.com/2018/02/16/opinion/sunday/tyranny-convenience.html
@@ -28,12 +28,12 @@
 [27]: http://www.ala.org/advocacy/privacy/guidelines/vendors
 [28]: https://www.scott-a-s.com/acm-digital-library-should-remain-open
 [29]: https://web.archive.org/web/20210310024945/dl.acm.org/doi/10.1145/3319535.3354198
-[30]: https://git.nogafam.es/deCloudflare/deCloudflare/raw/branch/master/pdf/2016-CloudFlare_Fact_Sheet.pdf#page=2
+[30]: https://git.disroot.org/dCF/deCloudflare/raw/branch/master/pdf/2016-CloudFlare_Fact_Sheet.pdf#page=2
 [31]: https://twitter.com/phyzonloop/status/1178836176985366529
 [32]: http://www.aptivate.org/webguidelines/Images.html
 [33]: https://web.archive.org/web/20201128114348/www.cloudflare.com/insights
 [34]: https://web.archive.org/web/20180926003344/https://blog.cloudflare.com/cloudflare-onion-service/#why-should-i-trust-cloudflare
-[35]: https://git.nogafam.es/deCloudflare/deCloudflare/raw/branch/master/pdf/2016-CloudFlare_Fact_Sheet.pdf#page=4
+[35]: https://git.disroot.org/dCF/deCloudflare/raw/branch/master/pdf/2016-CloudFlare_Fact_Sheet.pdf#page=4
 [36]: https://twitter.com/eastdakota/status/1273277839102656515
 [37]: https://en.wikipedia.org/wiki/Schadenfreude
 [38]: https://twitter.com/thexpaw/status/1108424723233419264
@@ -56,10 +56,10 @@
 [unescoEDU2019]: http://portal.unesco.org/en/ev.php-URL_ID=49556&URL_DO=DO_TOPIC&URL_SECTION=201.html
 [unescoG16]: https://en.unesco.org/themes/access-information
 [unescoEDUhr]: https://en.unesco.org/themes/education
-[dcfstats]: https://git.nogafam.es/deCloudflare/deCloudflare/src/branch/master/subfiles/cloudflared_top1000-2010-google.md
+[dcfstats]: https://git.disroot.org/dCF/deCloudflare/src/branch/master/subfiles/cloudflared_top1000-2010-google.md
 [gfd]: https://static.fsf.org/nosvn/directory/fdl-1.3-standalone.html
 [freedom0]: https://lists.gnu.org/archive/html/directory-discuss/2017-02/msg00000.html
-[dcf-cfcount]: https://git.nogafam.es/deCloudflare/deCloudflare/src/branch/master/cloudflare_users/domains/README.md
+[dcf-cfcount]: https://git.disroot.org/dCF/deCloudflare/src/branch/master/cloudflare_users/domains/README.md
 
 
 
