@@ -315,7 +315,7 @@ The following is a list of XMPP services.
 | xmpp.international | No |
 | xmpp.is | Yes |
 | xmpp.jp | No |
-| xmpp.nogafam.es | No |
+| xmpp.disroot.org | No |
 | xmpp.org | No |
 | xmpp.rs | No |
 | xmpp.ru.net | No |
