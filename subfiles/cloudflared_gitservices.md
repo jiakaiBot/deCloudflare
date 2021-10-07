@@ -164,7 +164,7 @@ Here's a list of public Git services.
 | git.mutuellegsmc.fr | No |
 | git.myceliandre.fr | No |
 | git.nixnet.services | No |
-| git.nogafam.es | No |
+| git.disroot.org | No |
 | git.nssm.cc | No |
 | git.obicloud.net | Yes |
 | git.openprivacy.ca | No |
