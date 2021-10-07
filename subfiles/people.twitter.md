@@ -7,6 +7,9 @@
 
 
 
+- Fuck you I just wanted Lafayette and its sold out during to Cloudflare being a shit host of your line ([watervaporeon](https://twitter.com/watervaporeon/status/1446154071115636741))
+- whoever uses Cloudflare and bans AS6939 just because people use HE for IPv6 are fucking idiots just my grouchy-ass opinion, of course NO I won't disable IPv6 for this or change ISPs to get IPv6 ([yakkoj](https://twitter.com/yakkoj/status/1446145963492585472))
+- How can i get my PC unbaned, its now bin 2 weeks that i cannot accass any cloudflare protected site, not even the dashboard sometimes. Cookies cleard, browser reinstalled, new public IP. Other PCs of my home network work fine. ([bolverblitz](https://twitter.com/BolverBlitz/status/1446155990026629121))
 - Cloudflare and other platforms do this as they check for spoofing (they match against known Google IPs for example) :-) You can see by using the Google mobile friendly test or URL Inspection they won't be blocking G/Bing tho. But for crawling, you'll need to use a different UA. ([screamingfrog](https://twitter.com/screamingfrog/status/1446075756258398215))
 - Powerwashed my Chromebook this morning, but now will not login due to Cloudflare blocking. Maybe time to switch back to ? ([sean_bolton](https://twitter.com/sean_bolton/status/1446021850799169537))
 - Will the website be fix? Cloudflare is blocking all of us. Get it fix! rollercoin ([stogie_era](https://twitter.com/Stogie_era/status/1445961955391557634))
