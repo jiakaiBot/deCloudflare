@@ -5,6 +5,9 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-10-06: [Elevated number of 502 errors in Atlanta](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pf997gr8gx6b)
+- 2021-10-05: [Network Performance Issues in Johannesburg](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5qsnxy4twm4q)
+- 2021-10-05: [Connectivity issues in Auckland, New Zealand(AKL)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0bx9v8nd8l46)
 - 2021-10-04: [Increased HTTP 502 Errors in Sweden](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gl180wj85xcp)
 - 2021-10-02: [Connectivity issues in SJC](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/00h3gyrp8mj0)
 - 2021-09-29: [Network Performance Issues in SIN](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fk8zhwbqhvh6)
