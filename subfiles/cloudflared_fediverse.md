@@ -1972,7 +1972,7 @@ Here's a list of public Fediverse services.
 | masto.mtcrew.org | No |
 | masto.ninja | No |
 | masto.nixnet.xyz | No |
-| masto.nogafam.es | No |
+| masto.disroot.org | No |
 | masto.noho.st | No |
 | masto.oncletom.io | No |
 | masto.one | Yes |
