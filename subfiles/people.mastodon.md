@@ -7,6 +7,8 @@
 
 
 
+- infoleg.gob.ar worked fine for consulting the body of law. They migrated it to argentina.gob.ar and bonked it all. cloudflare on top. Not my gov ([chuculate](https://pleroma.skyshanty.xyz/objects/3d842bfa-97bf-4d03-9341-1a76f6808cb2))
+- what IS this week my dudes seriously whose network is it. is it aws. cloudflare? akamai? ebay is down, so is genshin, discord... ([halcy](https://icosahedron.website/@halcy/107061189921843560))
 - I FUCKING hate cloudflare. I did not change my IP or my browser. Stop trapping me in these checks forever. I was using the site fine earlier today. FUCK OFF. ([brad](https://weeaboo.space/objects/203e719d-9fa6-4e47-8d95-f96a00dffc13))
 - "Please turn on JavaScript and reload the page. Powered by CloudFlare." How about… go fuck yourself ([hector](https://explosion.party/objects/f066c83b-52b2-4ece-9166-d1f463498c51))
 - This last link I just posted: (Another cloudflared domain - behind the great Cloudflare Wall of China, unfortunately!). ([agrandmaster](https://social.kyushojitsu.ca/@Agrandmaster/107052859893111906))
