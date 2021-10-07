@@ -7,6 +7,7 @@
 
 
 
+- I FUCKING hate cloudflare. I did not change my IP or my browser. Stop trapping me in these checks forever. I was using the site fine earlier today. FUCK OFF. ([brad](https://weeaboo.space/objects/203e719d-9fa6-4e47-8d95-f96a00dffc13))
 - "Please turn on JavaScript and reload the page. Powered by CloudFlare." How about… go fuck yourself ([hector](https://explosion.party/objects/f066c83b-52b2-4ece-9166-d1f463498c51))
 - This last link I just posted: (Another cloudflared domain - behind the great Cloudflare Wall of China, unfortunately!). ([agrandmaster](https://social.kyushojitsu.ca/@Agrandmaster/107052859893111906))
 - So it seems my new DNS setup is just barely on the edge of being good enough to work; Cloudflare and Google DNS seem to be able to resolve it, but Verizon's ISP DNS and others I've tried doesn't. I think the ISP servers are timing out before they can finish resolving, whereas the MITMNet servers are either fast or close enough to finish resolving in time. ([alexbuzzbee](https://fosstodon.org/@alexbuzzbee/107049179222676298))
