@@ -7,6 +7,7 @@
 
 
 
+- Will the website be fix? Cloudflare is blocking all of us. Get it fix! rollercoin ([stogie_era](https://twitter.com/Stogie_era/status/1445961955391557634))
 - Fuck tech monopolies I can't get into nitropanel because cloudflare has too much traffic so my server is down ([hasrock36](https://twitter.com/hasrock36/status/1445849783491436548))
 - Cloudflare, sometimes stop me from visiting a website even when it is available and never apologised for it. 😂 ([i_relish_code](https://twitter.com/i_relish_code/status/1445795825628553216))
 - just download cloudflare wasp and tun the vpn on essy low ping ([sweatyleaks](https://twitter.com/SweatyLeaks/status/1445751989279678478))
