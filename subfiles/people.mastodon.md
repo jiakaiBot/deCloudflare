@@ -7,6 +7,7 @@
 
 
 
+- How are they gonna implement the dreaded “internet Id” when you spaghetti tranny code niggers can’t even keep cloudflare from blowing up four times a month ([bigduck](https://poa.st/objects/bc8e0366-4216-40e9-9982-a353348dd5da))
 - infoleg.gob.ar worked fine for consulting the body of law. They migrated it to argentina.gob.ar and bonked it all. cloudflare on top. Not my gov ([chuculate](https://pleroma.skyshanty.xyz/objects/3d842bfa-97bf-4d03-9341-1a76f6808cb2))
 - what IS this week my dudes seriously whose network is it. is it aws. cloudflare? akamai? ebay is down, so is genshin, discord... ([halcy](https://icosahedron.website/@halcy/107061189921843560))
 - I FUCKING hate cloudflare. I did not change my IP or my browser. Stop trapping me in these checks forever. I was using the site fine earlier today. FUCK OFF. ([brad](https://weeaboo.space/objects/203e719d-9fa6-4e47-8d95-f96a00dffc13))
