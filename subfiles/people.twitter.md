@@ -7,6 +7,8 @@
 
 
 
+- There's now a different error message about Cloudflare..? ([hobgoblintc_](https://twitter.com/hobgoblintc_/status/1446169819854876682))
+- If you see an error, note that most errors mean the page falls back to normal search result behavior (as if no SXG were present). ([twifkak](https://twitter.com/twifkak/status/1446165333945950226))
 - Fuck you I just wanted Lafayette and its sold out during to Cloudflare being a shit host of your line ([watervaporeon](https://twitter.com/watervaporeon/status/1446154071115636741))
 - whoever uses Cloudflare and bans AS6939 just because people use HE for IPv6 are fucking idiots just my grouchy-ass opinion, of course NO I won't disable IPv6 for this or change ISPs to get IPv6 ([yakkoj](https://twitter.com/yakkoj/status/1446145963492585472))
 - How can i get my PC unbaned, its now bin 2 weeks that i cannot accass any cloudflare protected site, not even the dashboard sometimes. Cookies cleard, browser reinstalled, new public IP. Other PCs of my home network work fine. ([bolverblitz](https://twitter.com/BolverBlitz/status/1446155990026629121))
