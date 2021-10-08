@@ -7,6 +7,7 @@
 
 
 
+- Opensea is having issues rn. Cloudflare gave me a host down error about 30 mins ago ([trustyturds](https://twitter.com/TRUSTYTURDS/status/1446292376406962181))
 - Cloudflare trying to log into our dashboard and it's an endless login loop. Something broken? ([iamgerardthomas](https://twitter.com/iamgerardthomas/status/1446238119347437571))
 - There's now a different error message about Cloudflare..? ([hobgoblintc_](https://twitter.com/hobgoblintc_/status/1446169819854876682))
 - If you see an error, note that most errors mean the page falls back to normal search result behavior (as if no SXG were present). ([twifkak](https://twitter.com/twifkak/status/1446165333945950226))
