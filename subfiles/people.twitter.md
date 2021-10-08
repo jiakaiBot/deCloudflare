@@ -7,6 +7,10 @@
 
 
 
+- It rejects the form on the basis of the URL. Which as you can see uses your NS. And now I’ve notified you here as well. ([tomroyal](https://twitter.com/tomroyal/status/1446468075683975178))
+- I can't, as your form won't accept the URL. ([tomroyal](https://twitter.com/tomroyal/status/1446431228857573380))
+- Every time I clicked any link in my WP Admin Dashboard I got a Cloudflare error message that the site was offline and Try for Live again. Each time I clicked it WP Admin Dashboard was live. ([jamesbliss](https://twitter.com/JamesBliss/status/1446607903427895299))
+- The cloudflare for polybucks still causes a 404 error on Mobile dapp browsers. I have to go to the main bsc buckswap first then go back to polybucks. Get it fixed! It is infuriating. ([rorowear](https://twitter.com/rorowear/status/1446463541217660932))
 - Opensea is having issues rn. Cloudflare gave me a host down error about 30 mins ago ([trustyturds](https://twitter.com/TRUSTYTURDS/status/1446292376406962181))
 - Cloudflare trying to log into our dashboard and it's an endless login loop. Something broken? ([iamgerardthomas](https://twitter.com/iamgerardthomas/status/1446238119347437571))
 - There's now a different error message about Cloudflare..? ([hobgoblintc_](https://twitter.com/hobgoblintc_/status/1446169819854876682))
