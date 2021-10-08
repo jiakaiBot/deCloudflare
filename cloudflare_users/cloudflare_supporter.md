@@ -750,6 +750,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bellza21946419@twitter](https://twitter.com/Bellza21946419/status/1392868933590425600) | advertise |
 | [Ben70564935@twitter](https://twitter.com/Ben70564935/status/1379879154590441474) | advertise |
 | [ben90569807@twitter](https://twitter.com/ben90569807/status/1388718512915378178) | advertise |
+| [benny_sutton@twitter](https://twitter.com/benny_sutton/status/1446103619627991040) | advertise |
 | [BepariAyush@twitter](https://twitter.com/BepariAyush/status/1399298472340197379) | advertise |
 | [BeRapbigg@twitter](https://twitter.com/BeRapbigg/status/1391120239299989504) | advertise |
 | [BerbPeerapong@twitter](https://twitter.com/BerbPeerapong/status/1381544457246437380) | advertise |
@@ -1115,6 +1116,7 @@ Do not create new issue or we will close it as duplicate.
 | [cuongtr55309221@twitter](https://twitter.com/cuongtr55309221/status/1399068157692694529) | advertise |
 | [cupidcuteman@twitter](https://twitter.com/cupidcuteman/status/1398102057890959362) | advertise |
 | [Curse_boi_yt@twitter](https://twitter.com/Curse_boi_yt/status/1388709730705494017) | advertise |
+| [cutur1news@twitter](https://twitter.com/cutur1news/status/1446167201657114628) | advertise |
 | [Cvd882@twitter](https://twitter.com/Cvd882/status/1383582186859753481) | advertise |
 | [cwizhar@twitter](https://twitter.com/cwizhar/status/1388022395164774401) | advertise |
 | [cYAsVengeance@twitter](https://twitter.com/cYAsVengeance/status/1386961394793336832) | advertise |
@@ -1527,6 +1529,7 @@ Do not create new issue or we will close it as duplicate.
 | [FighterMintar@twitter](https://twitter.com/FighterMintar/status/1390671761302179844) | advertise |
 | [FigureParental@twitter](https://twitter.com/FigureParental/status/1402621728266674183) | advertise |
 | [fikiimaulana@twitter](https://twitter.com/fikiimaulana/status/1420208000560549888) | advertise |
+| [FileProInfo1@twitter](https://twitter.com/FileProInfo1/status/1446057279657218050) | advertise |
 | [finn476@twitter](https://twitter.com/finn476/status/1379428259914424329) | advertise |
 | [FireGam99404905@twitter](https://twitter.com/FireGam99404905/status/1399726131842977792) | advertise |
 | [fjpkagami@twitter](https://twitter.com/fjpkagami/status/1392923842880831488) | advertise |
@@ -4657,6 +4660,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rittipo80704084@twitter](https://twitter.com/Rittipo80704084/status/1403266234083282945) | advertise |
 | [RitupanBorah12@twitter](https://twitter.com/RitupanBorah12/status/1390775684285403137) | advertise |
 | [rival_finance@twitter](https://twitter.com/rival_finance/status/1407415777687490571) | advertise |
+| [riy1991@twitter](https://twitter.com/riy1991/status/1446042626642173953) | advertise |
 | [Rizky29300508@twitter](https://twitter.com/Rizky29300508/status/1401428946789429249) | advertise |
 | [rjack55@twitter](https://twitter.com/rjack55/status/1379577118527524865) | advertise |
 | [Rkar43290101@twitter](https://twitter.com/Rkar43290101/status/1398468325034713091) | advertise |
@@ -5903,6 +5907,7 @@ Do not create new issue or we will close it as duplicate.
 | [w88cuavinh@twitter](https://twitter.com/w88cuavinh/status/1380719088431816714) | advertise |
 | [w88vietnamfc@twitter](https://twitter.com/w88vietnamfc/status/1380719088431816714) | advertise |
 | [w88youde1@twitter](https://twitter.com/w88youde1/status/1380719088431816714) | advertise |
+| [Wa1Walker@twitter](https://twitter.com/Wa1Walker/status/1446154662491693062) | advertise |
 | [waawawalala@twitter](https://twitter.com/waawawalala/status/1393040426983059462) | advertise |
 | [Wadawn15@twitter](https://twitter.com/Wadawn15/status/1396809468005036034) | advertise |
 | [Waelelsayed56@twitter](https://twitter.com/Waelelsayed56/status/1397011445435469824) | advertise |
