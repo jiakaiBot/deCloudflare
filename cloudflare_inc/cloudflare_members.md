@@ -1228,6 +1228,7 @@ Or is this merely a case of simple modesty?
 | Patrick Donahue | Director of Product Management | https://twitter.com/prdonahue |
 | Patrick Lu | Web Engineer |  |
 | Patrick Meenan | Employee | https://twitter.com/patmeenan |
+| Patrick Nemeroff | Employee | |
 | Patrick R. Donahue | Director of Product Management | https://twitter.com/prdonahue<br>pat@cloudflare.com<br>https://github.com/prdonahue<br>https://blog.prdonahue.com/<br>https://www.zoominfo.com/p/Patrick-Donahue/1468312385<br>[🖼](../image/gang/Patrick_R._Donahue.jpg) |
 | Patrik Fuhrmann | Software Engineer |  |
 | Patryk Szczyglowski | Systems Engineer | Szczygłowski<br>patryk@patryk.net<br>https://twitter.com/epatryk<br>https://blog.patryk.net/<br>https://gitlab.com/epatryk<br>https://www.linkedin.com/in/patryk-szczyglowski/<br>https://github.com/patryk |
