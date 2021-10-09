@@ -1374,6 +1374,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dya72255408@twitter](https://twitter.com/Dya72255408/status/1406552108002840576) | advertise |
 | [DyamannaPojari@twitter](https://twitter.com/DyamannaPojari/status/1398619196183875593) | advertise |
 | [DylanPhan14@twitter](https://twitter.com/DylanPhan14/status/1379077937966710798) | advertise |
+| [DySay4@twitter](https://twitter.com/DySay4/status/1446314593387642884) | advertise |
 | [Dzony791@twitter](https://twitter.com/Dzony791/status/1393946883966578692) | advertise |
 | [dzuhrimohd88@twitter](https://twitter.com/dzuhrimohd88/status/1386173313165062145) | advertise |
 | [dzulhelmi@twitter](https://twitter.com/dzulhelmi/status/1431272526898888705) | advertise |
@@ -3217,6 +3218,7 @@ Do not create new issue or we will close it as duplicate.
 | [ManSem_95@twitter](https://twitter.com/ManSem_95/status/1391726222770458627) | advertise |
 | [Mansoor81118164@twitter](https://twitter.com/Mansoor81118164/status/1400092367953154053) | advertise |
 | [mansport4647@twitter](https://twitter.com/mansport4647/status/1382071713043603463) | advertise |
+| [manueltcl@twitter](https://twitter.com/manueltcl/status/1446279919022092292) | advertise |
 | [manveerkhubber2@twitter](https://twitter.com/manveerkhubber2/status/1396747736863559680) | advertise |
 | [MaPhyuPhyuWin2@twitter](https://twitter.com/MaPhyuPhyuWin2/status/1395061790921433088) | advertise |
 | [Mapkmaster@twitter](https://twitter.com/Mapkmaster/status/1387092246756007941) | advertise |
