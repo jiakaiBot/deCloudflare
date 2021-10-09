@@ -7,6 +7,7 @@
 
 
 
+- Found a flaw in Cloudflare design - login page errors out & to contact support you have to log in first. No way to communicate about login problems (not user/pw related). Page error: API Request Failed: POST /api/v4/login (403) ([sebastianmealer](https://twitter.com/sebastianmealer/status/1446896929955217408))
 - Already did, hopes are up because I woke up to AWS Bill ([marxvolt](https://twitter.com/marxvolt/status/1446835423762960384))
 - It rejects the form on the basis of the URL. Which as you can see uses your NS. And now I’ve notified you here as well. ([tomroyal](https://twitter.com/tomroyal/status/1446468075683975178))
 - I can't, as your form won't accept the URL. ([tomroyal](https://twitter.com/tomroyal/status/1446431228857573380))
