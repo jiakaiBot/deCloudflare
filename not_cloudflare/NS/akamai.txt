@@ -353,6 +353,7 @@ eur7.akam.net
 ns-127.akam.net
 ns1-1.akam.net
 ns1-100.akam.net
+ns1-101.akam.net
 ns1-102.akam.net
 ns1-104.akam.net
 ns1-105.akam.net
