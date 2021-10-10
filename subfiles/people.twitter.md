@@ -7,6 +7,7 @@
 
 
 
+- Hello Cloudflare & been trying to reach you out all week I have had no response. I want to purchase one of your plans but I need clarification first. If I could get one of your sales/technical reps kindly reach out on this email adress; evamwanzo@gmail.com ([amwanzoo](https://twitter.com/Amwanzoo/status/1447128811703783424))
 - Hello Cloudflare , been trying to reach you out all week I have had no response. I want to purchase one of your plans but I need clarification first. If I could get one of your sales/technical reps kindly reach out on these email adresse; evamwanzo@gmail.com ([amwanzoo](https://twitter.com/Amwanzoo/status/1447126563762413568))
 - Next stop, Cloudflare’s Access Denied at 1020. ([ozbob](https://twitter.com/ozbob/status/1447038417188134917))
 - In response to censorship circumvention, Turkmenistan blocked all DoH servers, Cloudflare, AWS, Google Cloud and many other hosting providers. Most external services don't work. This a major and unique InternetShutDown, but no one is talking about it. /cc KeepitOn ([vinifortuna](https://twitter.com/vinifortuna/status/1446513149390241794))
