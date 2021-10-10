@@ -980,6 +980,7 @@ ns-1827.awsdns-36.co.uk
 ns-1828.awsdns-36.co.uk
 ns-1829.awsdns-36.co.uk
 ns-183.awsdns-22.com
+ns-183.awsdns-cn-11.com
 ns-1830.awsdns-36.co.uk
 ns-1831.awsdns-36.co.uk
 ns-1832.awsdns-37.co.uk
@@ -1319,6 +1320,7 @@ ns-2787.awsdns-cn-46.biz
 ns-279.awsdns-34.com
 ns-28.awsdns-03.com
 ns-280.awsdns-35.com
+ns-2804.awsdns-cn-47.biz
 ns-281.awsdns-35.com
 ns-282.awsdns-35.com
 ns-283.awsdns-35.com
