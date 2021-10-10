@@ -115,5 +115,7 @@ ns4-38.azure-dns.info
 ns4-42.azure-dns.info
 ns5-06.azure-dns.dev
 ns5-38.azure-dns.com
+ns6-38.azure-dns.net
+ns7-38.azure-dns.org
 s1-07.azure-dns.com
 sep.gob.mxns3-04.azure-dns.org
