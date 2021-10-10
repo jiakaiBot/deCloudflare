@@ -680,6 +680,7 @@ Do not create new issue or we will close it as duplicate.
 | [B0t51@twitter](https://twitter.com/B0t51/status/1390031961192734720) | advertise |
 | [BabaDeviant@twitter](https://twitter.com/BabaDeviant/status/1390391826134282246) | advertise |
 | [babayagaofIndia@twitter](https://twitter.com/babayagaofIndia/status/1394759766845444101) | advertise |
+| [BABU32660605@twitter](https://twitter.com/BABU32660605/status/1446809782824751110) | advertise |
 | [baburaj74061287@twitter](https://twitter.com/baburaj74061287/status/1402296311227977730) | advertise |
 | [Babyblu82224449@twitter](https://twitter.com/Babyblu82224449/status/1387554058714566656) | advertise |
 | [BabyWhite999@twitter](https://twitter.com/BabyWhite999/status/1406167535825920001) | advertise |
@@ -4963,6 +4964,7 @@ Do not create new issue or we will close it as duplicate.
 | [shinnthant19@twitter](https://twitter.com/shinnthant19/status/1389878958464782339) | advertise |
 | [shinthan5@twitter](https://twitter.com/shinthan5/status/1390100611190824961) | advertise |
 | [shinthantkyaw2@twitter](https://twitter.com/shinthantkyaw2/status/1385186521293025281) | advertise |
+| [shinyarceuspro@twitter](https://twitter.com/shinyarceuspro/status/1446970189086478337) | advertise |
 | [Shin_jihyun17@twitter](https://twitter.com/Shin_jihyun17/status/1391958578169212934) | advertise |
 | [shipman_craig@twitter](https://twitter.com/shipman_craig/status/1386674129693196291) | advertise |
 | [ShipStoreco@twitter](https://twitter.com/ShipStoreco/status/1371295374246285313) | advertise |
@@ -5428,6 +5430,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thepeac18406311@twitter](https://twitter.com/Thepeac18406311/status/1391305173528682496) | advertise |
 | [theprincessxena@twitter](https://twitter.com/theprincessxena/status/1382886673055416325) | advertise |
 | [therealgeorge@twitter](https://twitter.com/therealgeorge/status/1399077136720334851) | advertise |
+| [therealjokerk@twitter](https://twitter.com/therealjokerk/status/1446952055176892416) | advertise |
 | [therealmthree@twitter](https://twitter.com/therealmthree/status/1394930520664907792) | advertise |
 | [ThetHmu94758677@twitter](https://twitter.com/ThetHmu94758677/status/1393511419195232258) | advertise |
 | [ThetHta38752469@twitter](https://twitter.com/ThetHta38752469/status/1399628436117725187) | advertise |
