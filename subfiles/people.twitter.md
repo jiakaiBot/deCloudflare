@@ -7,6 +7,7 @@
 
 
 
+- Apperently they blocked VPNs Server (Including Cloudflare's WARP) so we can't have a full functioning Quota rather than "Education Centered" ([sen2402_](https://twitter.com/sen2402_/status/1447250025675821061))
 - Hello Cloudflare & been trying to reach you out all week I have had no response. I want to purchase one of your plans but I need clarification first. If I could get one of your sales/technical reps kindly reach out on this email adress; evamwanzo@gmail.com ([amwanzoo](https://twitter.com/Amwanzoo/status/1447128811703783424))
 - Hello Cloudflare , been trying to reach you out all week I have had no response. I want to purchase one of your plans but I need clarification first. If I could get one of your sales/technical reps kindly reach out on these email adresse; evamwanzo@gmail.com ([amwanzoo](https://twitter.com/Amwanzoo/status/1447126563762413568))
 - Next stop, Cloudflare’s Access Denied at 1020. ([ozbob](https://twitter.com/ozbob/status/1447038417188134917))
