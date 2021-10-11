@@ -3104,6 +3104,7 @@ Do not create new issue or we will close it as duplicate.
 | [Loveyou57911593@twitter](https://twitter.com/Loveyou57911593/status/1382721327207907341) | advertise |
 | [lowkey_jimenez@twitter](https://twitter.com/lowkey_jimenez/status/1399129185591779328) | advertise |
 | [Lquci14@twitter](https://twitter.com/Lquci14/status/1401547370786000896) | advertise |
+| [LRSNLP@twitter](https://twitter.com/LRSNLP/status/1447211176006459399) | advertise |
 | [LThinn1212@twitter](https://twitter.com/LThinn1212/status/1386337771938222084) | advertise |
 | [lthphngtrm5@twitter](https://twitter.com/lthphngtrm5/status/1394172756917293058) | advertise |
 | [LTrungT21684251@twitter](https://twitter.com/LTrungT21684251/status/1382949410984714244) | advertise |
@@ -4011,6 +4012,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nikhil47320517@twitter](https://twitter.com/Nikhil47320517/status/1380806296295907328) | advertise |
 | [NikhilS67789197@twitter](https://twitter.com/NikhilS67789197/status/1400026495444086785) | advertise |
 | [NikhilS76692989@twitter](https://twitter.com/NikhilS76692989/status/1386257034522218501) | advertise |
+| [NikhilSPawar4@twitter](https://twitter.com/NikhilSPawar4/status/1447058829020069891) | advertise |
 | [NiladriAsh@twitter](https://twitter.com/NiladriAsh/status/1395822333944684544) | advertise |
 | [NilarSo52519800@twitter](https://twitter.com/NilarSo52519800/status/1394584973143851009) | advertise |
 | [nima_jalilzadeh@twitter](https://twitter.com/nima_jalilzadeh/status/1383908849791340555) | advertise |
@@ -5303,6 +5305,7 @@ Do not create new issue or we will close it as duplicate.
 | [TecharoApp@twitter](https://twitter.com/TecharoApp/status/1401984338472931330) | advertise |
 | [TechRedneck901@twitter](https://twitter.com/TechRedneck901/status/1396056226329505794) | advertise |
 | [TechTailor@twitter](https://twitter.com/TechTailor/status/1381152232410816514) | advertise |
+| [techtweetlive@twitter](https://twitter.com/techtweetlive/status/1447213119869050886) | advertise |
 | [Teddy2100@twitter](https://twitter.com/Teddy2100/status/1379049599210512384) | advertise |
 | [teegrpm2@twitter](https://twitter.com/teegrpm2/status/1397899934540566532) | advertise |
 | [teera00pai@twitter](https://twitter.com/teera00pai/status/1402357610175631361) | advertise |
@@ -5660,6 +5663,7 @@ Do not create new issue or we will close it as duplicate.
 | [Trinhh72838000@twitter](https://twitter.com/Trinhh72838000/status/1404848776213254147) | advertise |
 | [Trinhti04009131@twitter](https://twitter.com/Trinhti04009131/status/1389575782020763658) | advertise |
 | [TriPmt199x@twitter](https://twitter.com/TriPmt199x/status/1382502746528522244) | advertise |
+| [TrissieTheHusky@twitter](https://twitter.com/TrissieTheHusky/status/1447053384914247682) | advertise |
 | [Tristan11917357@twitter](https://twitter.com/Tristan11917357/status/1386201834537340929) | advertise |
 | [Triu48585495@twitter](https://twitter.com/Triu48585495/status/1397062708571242496) | advertise |
 | [TrkanLukas@twitter](https://twitter.com/TrkanLukas/status/1383167217907478531) | advertise |
