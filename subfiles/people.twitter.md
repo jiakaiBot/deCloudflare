@@ -7,6 +7,7 @@
 
 
 
+- I am getting a cloudflare "access denied" error everytime I try to access your site. Is it because I am trying to access it from the US? ([theshanemason](https://twitter.com/theshanemason/status/1447642396070604804))
 - Fixed the parsing logic, everything runs fine on localhost. But the Digital Ocean droplet gets a Cloudflare captcha now🤔 Thinking of ways to solve this... ([pie_tre](https://twitter.com/pie_tre/status/1447621413318299658))
 - Cloudflare Don't you think that asking captcha after 1 single password failure is quite excessive? ([colevr](https://twitter.com/colevr/status/1447526744966184963))
 - Realizing that Solanart's cloudflare protection is making my scraper solve a CAPTCHA -- will look into a permanent fix tomorrow. ([avinashj_](https://twitter.com/avinashj_/status/1447489543960027137))
