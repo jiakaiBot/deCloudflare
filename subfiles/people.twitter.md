@@ -7,6 +7,7 @@
 
 
 
+- Fixed the parsing logic, everything runs fine on localhost. But the Digital Ocean droplet gets a Cloudflare captcha now🤔 Thinking of ways to solve this... ([pie_tre](https://twitter.com/pie_tre/status/1447621413318299658))
 - Cloudflare Don't you think that asking captcha after 1 single password failure is quite excessive? ([colevr](https://twitter.com/colevr/status/1447526744966184963))
 - Realizing that Solanart's cloudflare protection is making my scraper solve a CAPTCHA -- will look into a permanent fix tomorrow. ([avinashj_](https://twitter.com/avinashj_/status/1447489543960027137))
 - Yeah, still more accurate than Cloudflare's image selections according to objects captcha (currently in SkyscraperCity was hit by Cloudflare's attack every one day forever) ([firzafp](https://twitter.com/firzafp/status/1447363048243548162))
