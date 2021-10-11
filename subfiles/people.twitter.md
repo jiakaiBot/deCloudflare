@@ -7,6 +7,7 @@
 
 
 
+- Yeah, still more accurate than Cloudflare's image selections according to objects captcha (currently in SkyscraperCity was hit by Cloudflare's attack every one day forever) ([firzafp](https://twitter.com/firzafp/status/1447363048243548162))
 - Still getting the cloudflare error page on all three browsers. sorry- ([musciguy](https://twitter.com/musciguy/status/1447319594863980551))
 - captcha from cloudflare make me lazy visit coingecko. 😭 ([snguyscrypto](https://twitter.com/SNGuysCrypto/status/1447268523361935360))
 - Apperently they blocked VPNs Server (Including Cloudflare's WARP) so we can't have a full functioning Quota rather than "Education Centered" ([sen2402_](https://twitter.com/sen2402_/status/1447250025675821061))
