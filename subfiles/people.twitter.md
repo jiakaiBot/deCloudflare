@@ -7,6 +7,10 @@
 
 
 
+- Cloudflare are there any known issues with access to cloudflare reverseproxied websites from users in Russia? Seems to have started approximately 30 minutes ago and still there. ([rainbowderpyyay](https://twitter.com/RainbowDerpyYaY/status/1446154175528804358))
+- Hey, so i have noticed when i use 1.1.1.1 on my phone, it is awesome for everything except Whatsapp. It makes my msgs take maybe 200-500ms slower than without it. It gives me the spin wheel then delivers. Is this expected behaviour or should this not be the case? ([justasking4know](https://twitter.com/justasking4know/status/1446131372276420612))
+- We saw huge growth of the Outline VPN in Turkmenistan in 2020, but on January 31, 2021, we started losing our users. I wonder how that aligns with the aggressive blocking of clouds and hosting providers. ([vinifortuna](https://twitter.com/vinifortuna/status/1447648395900985348))
+- Hi those requests can be safely ignored/blocked. No spec yet; it's a WIP feature. That said, I don't think you should even be getting these requests, let alone hammered with them. I'm sorry. I'll disable the fetches until we can fix the triggering logic. ([twifkak](https://twitter.com/twifkak/status/1446853287383212033))
 - I am getting a cloudflare "access denied" error everytime I try to access your site. Is it because I am trying to access it from the US? ([theshanemason](https://twitter.com/theshanemason/status/1447642396070604804))
 - Fixed the parsing logic, everything runs fine on localhost. But the Digital Ocean droplet gets a Cloudflare captcha now🤔 Thinking of ways to solve this... ([pie_tre](https://twitter.com/pie_tre/status/1447621413318299658))
 - Cloudflare Don't you think that asking captcha after 1 single password failure is quite excessive? ([colevr](https://twitter.com/colevr/status/1447526744966184963))
