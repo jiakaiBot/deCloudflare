@@ -7,6 +7,7 @@
 
 
 
+- When #Cloudflare ultimately goes down, they will blame #China and #Bitcoiners. It will be then they the #civilWar will begin with true veracity. They will watch the mayhem unfold via #drone with popcorn in hand, while enjoying relative safety and comfort of their organic #island oasis. This #purge will be televised. But we won't see it. We know this because if it weren't true the #legacyMedia would be permitted to talk about Cloudflare. The weapons used against #ThePeople cannot be discussed. ([dsfgs](https://activism.openworlds.info/@dsfgs/107087969932105964))
 - Please Cloudflare do tell us what the best #NFT are. #moneyLaundering #art #riggedSystem #deleteCloudflare #financialisation #howVeryKeynesian #moneyPrinterGoDrr ([dsfgs](https://activism.openworlds.info/@dsfgs/107081901632691012))
 - 📣 Cloudflared Domain cdc.gov ffs well this should be common knowledge anyway ([jeffcliff](https://shitposter.club/objects/439e816a-fb4d-44b9-8722-348e8d2010b0))
 - How are they gonna implement the dreaded “internet Id” when you spaghetti tranny code niggers can’t even keep cloudflare from blowing up four times a month ([bigduck](https://poa.st/objects/bc8e0366-4216-40e9-9982-a353348dd5da))
