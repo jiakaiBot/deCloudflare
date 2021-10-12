@@ -7,6 +7,7 @@
 
 
 
+- Has anyone else using a VPN noticed a massive uptick in Cloudflare reCAPTCHA walls recently? Want to visit DEXTools? Click all the images of fire hydrants. Buying somethng from Overclockers? All of the boats please. VPN privacy ([the_iconoclast1](https://twitter.com/the_iconoclast1/status/1447987001660170243))
 - was down a bit, anyone else has codepinIsDown Cloudflare error 502 Me:💻🥲 Everyone else: 😪🛌 DEVCommunity frontenddev uxdesign uidesign webdesigner webdev ([whimsyniche](https://twitter.com/whimsyniche/status/1446033557932105735))
 - Oh fuck 😅 steps = exercism. I meant to say I follow his steps by doing exercism tasks. ([hexmint](https://twitter.com/hexmint/status/1447525243040399360))
 - Cloudflare tried something similar, when Near passed away. They didn't respond, though; at all, so Netflix is fucking up already. ([icze4r](https://twitter.com/icze4r/status/1447741847137366021))
