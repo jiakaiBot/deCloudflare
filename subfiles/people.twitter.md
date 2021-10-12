@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare tried something similar, when Near passed away. They didn't respond, though; at all, so Netflix is fucking up already. ([icze4r](https://twitter.com/icze4r/status/1447741847137366021))
 - Cloudflare are there any known issues with access to cloudflare reverseproxied websites from users in Russia? Seems to have started approximately 30 minutes ago and still there. ([rainbowderpyyay](https://twitter.com/RainbowDerpyYaY/status/1446154175528804358))
 - Hey, so i have noticed when i use 1.1.1.1 on my phone, it is awesome for everything except Whatsapp. It makes my msgs take maybe 200-500ms slower than without it. It gives me the spin wheel then delivers. Is this expected behaviour or should this not be the case? ([justasking4know](https://twitter.com/justasking4know/status/1446131372276420612))
 - We saw huge growth of the Outline VPN in Turkmenistan in 2020, but on January 31, 2021, we started losing our users. I wonder how that aligns with the aggressive blocking of clouds and hosting providers. ([vinifortuna](https://twitter.com/vinifortuna/status/1447648395900985348))
