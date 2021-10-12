@@ -7,6 +7,7 @@
 
 
 
+- was down a bit, anyone else has codepinIsDown Cloudflare error 502 Me:💻🥲 Everyone else: 😪🛌 DEVCommunity frontenddev uxdesign uidesign webdesigner webdev ([whimsyniche](https://twitter.com/whimsyniche/status/1446033557932105735))
 - Oh fuck 😅 steps = exercism. I meant to say I follow his steps by doing exercism tasks. ([hexmint](https://twitter.com/hexmint/status/1447525243040399360))
 - Cloudflare tried something similar, when Near passed away. They didn't respond, though; at all, so Netflix is fucking up already. ([icze4r](https://twitter.com/icze4r/status/1447741847137366021))
 - Cloudflare are there any known issues with access to cloudflare reverseproxied websites from users in Russia? Seems to have started approximately 30 minutes ago and still there. ([rainbowderpyyay](https://twitter.com/RainbowDerpyYaY/status/1446154175528804358))
