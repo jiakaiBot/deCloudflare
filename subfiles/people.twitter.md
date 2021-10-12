@@ -7,6 +7,7 @@
 
 
 
+- Hi why are you blocking Cloudflare DNS on your Internet? Other than websites directed by you cannot be blocking services! Please look into it and fix it. ([atechfreak](https://twitter.com/atechfreak/status/1448015290248302593))
 - Has anyone else using a VPN noticed a massive uptick in Cloudflare reCAPTCHA walls recently? Want to visit DEXTools? Click all the images of fire hydrants. Buying somethng from Overclockers? All of the boats please. VPN privacy ([the_iconoclast1](https://twitter.com/the_iconoclast1/status/1447987001660170243))
 - was down a bit, anyone else has codepinIsDown Cloudflare error 502 Me:💻🥲 Everyone else: 😪🛌 DEVCommunity frontenddev uxdesign uidesign webdesigner webdev ([whimsyniche](https://twitter.com/whimsyniche/status/1446033557932105735))
 - Oh fuck 😅 steps = exercism. I meant to say I follow his steps by doing exercism tasks. ([hexmint](https://twitter.com/hexmint/status/1447525243040399360))
