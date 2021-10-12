@@ -7,6 +7,7 @@
 
 
 
+- DID YOU KNOW: Australia's #banks are served by the same US Corporation that serves #closedSilo websites that breed #extremist #antiChina content. This is fine. #understandingCloudflare #australia #auspol #christchurch #thisIsFine #cloudflare ([dsfgs](https://activism.openworlds.info/@dsfgs/107088063905687998))
 - When #Cloudflare ultimately goes down, they will blame #China and #Bitcoiners. It will be then they the #civilWar will begin with true veracity. They will watch the mayhem unfold via #drone with popcorn in hand, while enjoying relative safety and comfort of their organic #island oasis. This #purge will be televised. But we won't see it. We know this because if it weren't true the #legacyMedia would be permitted to talk about Cloudflare. The weapons used against #ThePeople cannot be discussed. ([dsfgs](https://activism.openworlds.info/@dsfgs/107087969932105964))
 - Please Cloudflare do tell us what the best #NFT are. #moneyLaundering #art #riggedSystem #deleteCloudflare #financialisation #howVeryKeynesian #moneyPrinterGoDrr ([dsfgs](https://activism.openworlds.info/@dsfgs/107081901632691012))
 - 📣 Cloudflared Domain cdc.gov ffs well this should be common knowledge anyway ([jeffcliff](https://shitposter.club/objects/439e816a-fb4d-44b9-8722-348e8d2010b0))
