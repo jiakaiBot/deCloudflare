@@ -1554,6 +1554,7 @@ Or is this merely a case of simple modesty?
 | Thomas Lefebvre | Employee | [🖼](../image/gang/Thomas_Lefebvre.jpg) |
 | Thomas Litten | Account Executive |  |
 | Thomas Mann | Customer Success, London |  |
+| Thomas Ristenpart | Employee | |
 | Thomas Seifert | Chief Financial Officer |  |
 | Thomas Vissers | Employee | [🖼](../image/gang/Thomas_Vissers.jpg) |
 | Thom Chiovoloni | Systems engineer | chiovolonit@gmail.com<br>https://shift.click/<br>https://twitter.com/at_tcsc<br>https://github.com/thomcc |
