@@ -7,6 +7,8 @@
 
 
 
+- Ah ok. Works for me and this error is mostly related to cloudflare blocking your IP address. ([0xnight](https://twitter.com/0xNight/status/1448348812418838529))
+- I'm getting cloudflare error message when trying to access FTX desktop site, and my orders aren't going thru ([virtuecapital_](https://twitter.com/virtuecapital_/status/1448339728902787073))
 - One of the things I missed working at Cloudflare is that there are a lot of security freaks around. I'm usually the one always concerning about security at other places but it felt great when I'm not the one to say "stop fucking doing that!" for once. ([67darwin](https://twitter.com/67darwin/status/1448302375257587714))
 - Cloudflare any future plans to release a dedicated VPN service to go up aganist NORD and Express. You're service is amazing I think you should. ([crueiassassin](https://twitter.com/CrueIAssassin/status/1448286657246121987))
 - I thought this was disappointing too, blocked applicant from Africans from applying for their jobs using cloudflare, I felt bad, what name is Africans giving itself at the world stage, that I'm not aware of ? This is really bad. ([cinchblocksam](https://twitter.com/Cinchblocksam/status/1448233074135867399))
