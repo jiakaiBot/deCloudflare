@@ -7,6 +7,7 @@
 
 
 
+- Check your DNS Settings. A 523 error means that Cloudflare could not reach your host web server. The most common cause is that your DNS settings are incorrect. ([bottledsodas](https://twitter.com/BottledSodas/status/1448207287537995776))
 - I consider Cloudflare to be pretty hypocritical on the subject of MITM - they themselves are a MITM proxy working on behalf of the content supplier, but are dead set against MITM proxies working on behalf of the content consumer. ([nexusukorg](https://twitter.com/NexusUKOrg/status/1448193341947002882))
 - GitHub: give your source to Microsoft and make collaborators agree to those ToS Cloudflare: give your markup to a massive internet censor trying to centralize the net I see ethical issues with this setup too ([toastal](https://twitter.com/toastal/status/1448108113995894787))
 - Hi why are you blocking Cloudflare DNS on your Internet? Other than websites directed by you cannot be blocking services! Please look into it and fix it. ([atechfreak](https://twitter.com/atechfreak/status/1448015290248302593))
