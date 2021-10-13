@@ -1,9 +1,6 @@
 # Public DNS
 
 
-https://dns.crimeflare.eu.org/
-
-
 > About this service
 
 - No logs. No statistics. No collection. Plain simple DNS!
