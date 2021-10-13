@@ -1579,6 +1579,7 @@ Do not create new issue or we will close it as duplicate.
 | [g02M1Rjo2WJvITL@twitter](https://twitter.com/g02M1Rjo2WJvITL/status/1402969073282027525) | advertise |
 | [g7Vsqme2nATL3G6@twitter](https://twitter.com/g7Vsqme2nATL3G6/status/1400850162675716096) | advertise |
 | [G191433996@twitter](https://twitter.com/G191433996/status/1393383252304572419) | advertise |
+| [gabes_hub@twitter](https://twitter.com/gabes_hub/status/1448032264940630023) | advertise |
 | [gad17@twitter](https://twitter.com/gad17/status/1386581003356065793) | advertise |
 | [GAGANDE95206340@twitter](https://twitter.com/GAGANDE95206340/status/1398149233992036353) | advertise |
 | [gaijingen@twitter](https://twitter.com/gaijingen/status/1400023426157346821) | advertise |
@@ -4802,6 +4803,7 @@ Do not create new issue or we will close it as duplicate.
 | [salinar_thin@twitter](https://twitter.com/salinar_thin/status/1397760041281671170) | advertise |
 | [sallavati@twitter](https://twitter.com/sallavati/status/1395967454065610757) | advertise |
 | [salmank46948405@twitter](https://twitter.com/salmank46948405/status/1382572667207888898) | advertise |
+| [Salman_8778@twitter](https://twitter.com/Salman_8778/status/1447987374500171777) | advertise |
 | [Sam13116820@twitter](https://twitter.com/Sam13116820/status/1389851288922333188) | advertise |
 | [sam18606211@twitter](https://twitter.com/sam18606211/status/1387734057543294976) | advertise |
 | [Sam47778402@twitter](https://twitter.com/Sam47778402/status/1396123062047625221) | advertise |
