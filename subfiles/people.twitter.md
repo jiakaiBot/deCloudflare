@@ -7,6 +7,7 @@
 
 
 
+- One of the things I missed working at Cloudflare is that there are a lot of security freaks around. I'm usually the one always concerning about security at other places but it felt great when I'm not the one to say "stop fucking doing that!" for once. ([67darwin](https://twitter.com/67darwin/status/1448302375257587714))
 - Cloudflare any future plans to release a dedicated VPN service to go up aganist NORD and Express. You're service is amazing I think you should. ([crueiassassin](https://twitter.com/CrueIAssassin/status/1448286657246121987))
 - I thought this was disappointing too, blocked applicant from Africans from applying for their jobs using cloudflare, I felt bad, what name is Africans giving itself at the world stage, that I'm not aware of ? This is really bad. ([cinchblocksam](https://twitter.com/Cinchblocksam/status/1448233074135867399))
 - Check your DNS Settings. A 523 error means that Cloudflare could not reach your host web server. The most common cause is that your DNS settings are incorrect. ([bottledsodas](https://twitter.com/BottledSodas/status/1448207287537995776))
