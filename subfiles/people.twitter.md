@@ -7,6 +7,8 @@
 
 
 
+- I don't quite get it. Isn't ODoH just a DNS proxy? That can be blocked as well. ([vinifortuna](https://twitter.com/vinifortuna/status/1448673387950264321))
+- Why is Cloudflare blocking incoming requests to Jira Align? ([sparxmith_](https://twitter.com/Sparxmith_/status/1448668461677387782))
 - Couple of minutes later, we're back. Was that a CloudFlare asset throwing that error message? ([bernardsheppard](https://twitter.com/BernardSheppard/status/1448477177259827201))
 - Trying to Proxy traffic from a Cloudflare site and I'm simply just getting a 403 Forbidden error... Hm... ([epiclper](https://twitter.com/EpicLPer/status/1448323066925309957))
 - From the user's perspective, is it acceptable to have "you allow Cloudflare to MITM most of your traffic, or no (most of the) internet for you"? ([nexusukorg](https://twitter.com/NexusUKOrg/status/1448201603757092869))
