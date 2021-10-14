@@ -42,6 +42,7 @@ This add-on never send other information.
 
 [4] Public API services
 	You can select which API service you want to use.
+	Additionally you can self-host API yourself. (See "API" below)
 
 ```
 
