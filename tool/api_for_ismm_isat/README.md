@@ -8,7 +8,7 @@
 ```
 
 
-### 1a. Set up API for `Ĉu ligoj estas vundeblaj al MITM-atako?`(isMM) add-on
+### 1a. Set up API for `Ĉu ligoj estas vundeblaj al MITM-atako?`(isMM)
 
 1. Copy [ismm.php](ismm.php) to your website directory.<br>
     e.g. `/api/ismm.php`
@@ -20,7 +20,7 @@
     e.g. `http://localhost/api/ismm.php`
 
 
-### 1b. Set up API for `Ĉu ĉi tiuj ligoj blokos Tor-uzanton?`(isAT) add-on
+### 1b. Set up API for `Ĉu ĉi tiuj ligoj blokos Tor-uzanton?`(isAT)
 
 1. Copy [isat.php](isat.php) to your website directory.<br>
     e.g. `/api/isat.php`
