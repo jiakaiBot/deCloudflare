@@ -7,6 +7,7 @@
 
 
 
+- Couple of minutes later, we're back. Was that a CloudFlare asset throwing that error message? ([bernardsheppard](https://twitter.com/BernardSheppard/status/1448477177259827201))
 - Trying to Proxy traffic from a Cloudflare site and I'm simply just getting a 403 Forbidden error... Hm... ([epiclper](https://twitter.com/EpicLPer/status/1448323066925309957))
 - From the user's perspective, is it acceptable to have "you allow Cloudflare to MITM most of your traffic, or no (most of the) internet for you"? ([nexusukorg](https://twitter.com/NexusUKOrg/status/1448201603757092869))
 - I'm specifically talking about a situation where the user has authorised the MITM at their end. And if you think the average website owner has any more idea about the internals of Cloudflare than the average user has about a middlebox they have authorised... well :) ([nexusukorg](https://twitter.com/NexusUKOrg/status/1448201325695709185))
