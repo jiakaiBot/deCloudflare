@@ -1,41 +1,18 @@
 document.addEventListener('DOMContentLoaded', () => {
-	browser.storage.local.get(['ign1', 'obs', 'dbg', 'alt', 'mul', 'opd', 'cep']).then(g => {
+	browser.storage.local.get(['ign1', 'obs', 'dbg', 'alt', 'mul', 'opd', 'cep', 'aep']).then(g => {
 		document.getElementById('ign1').checked = (g.ign1 == 'y') ? true : false;
 		document.getElementById('obs').checked = (g.obs == 'y') ? true : false;
 		document.getElementById('dbg').checked = (g.dbg == 'y') ? true : false;
 		document.getElementById('alt').checked = (g.alt == 'y') ? true : false;
 		document.getElementById('opon').checked = (g.opd != 'n') ? true : false;
 		document.getElementById('opoff').checked = (g.opd == 'n') ? true : false;
-		switch (g.cep) {
-			case '1':
-				document.getElementById('ut0').checked = false;
-				document.getElementById('ut1').checked = true;
-				document.getElementById('ut2').checked = false;
-				document.getElementById('ut3').checked = false;
-				break;
-			case '2':
-				document.getElementById('ut0').checked = false;
-				document.getElementById('ut1').checked = false;
-				document.getElementById('ut2').checked = true;
-				document.getElementById('ut3').checked = false;
-				break;
-			case '3':
-				document.getElementById('ut0').checked = false;
-				document.getElementById('ut1').checked = false;
-				document.getElementById('ut2').checked = false;
-				document.getElementById('ut3').checked = true;
-				break;
-			default:
-				document.getElementById('ut0').checked = true;
-				document.getElementById('ut1').checked = false;
-				document.getElementById('ut2').checked = false;
-				document.getElementById('ut3').checked = false;
-				break;
-		}
-		let ul = g.mul || 'eo';
-		document.getElementById('apinfo0').href = 'https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/?ul=' + ul + '#!op=info/api';
-		document.getElementById('apinfo1').href = 'https://sercxi.eu.org/?ul=' + ul + '#!op=info/api';
-		fetch('i18n/' + ul + '.json', {
+		document.getElementById('ut3').checked = (g.cep || 3) == 3 ? true : false;
+		document.getElementById('ut0').checked = g.cep < 1 ? true : false;
+		document.getElementById('ut1').checked = g.cep == 1 ? true : false;
+		document.getElementById('ut2').checked = g.cep == 2 ? true : false;
+		document.getElementById('ut9').checked = g.cep == 9 ? true : false;
+		document.getElementById('ut9x').value = (g.aep == undefined || g.aep == 'https://karma.clearnetonion.eu.org/api/is_at.php') ? '' : g.aep;
+		fetch('i18n/' + (g.mul || 'eo') + '.json', {
 			method: 'GET'
 		}).then(j => j.json()).then(j => {
 			document.querySelectorAll('span[tek]').forEach(x => {
@@ -109,6 +86,14 @@ document.getElementById('ut3').addEventListener('click', () => {
 		location.reload();
 	});
 });
+document.getElementById('ut9').addEventListener('click', () => {
+	browser.runtime.sendMessage('urltype,9').then(() => {
+		location.reload();
+	});
+});
+document.getElementById('ut9x').addEventListener('change', () => {
+	browser.runtime.sendMessage('customaep,' + document.getElementById('ut9x').value).then(() => {});
+});
 document.getElementById('sms').addEventListener('click', () => {
 	document.getElementById('smsa').style.display = 'none';
 	browser.storage.local.get().then(g => {
@@ -116,7 +101,7 @@ document.getElementById('sms').addEventListener('click', () => {
 			iN = 0,
 			iT, tmp, akd = [];
 		Object.keys(g).forEach(a => {
-			if (!['ign1', 'obs', 'dbg', 'alt', 'lastU', 'lastV', 'cep', 'mul', 'opd', 'ldb'].includes(a) && (g[a] == 'y' || g[a] == 'n')) {
+			if (!['ign1', 'obs', 'dbg', 'alt', 'lastU', 'lastV', 'cep', 'mul', 'opd', 'ldb', 'aep'].includes(a) && (g[a] == 'y' || g[a] == 'n')) {
 				if (!akd.includes(a)) {
 					akd.push(a);
 					if (g[a] == 'y') {
