@@ -7,6 +7,7 @@
 
 
 
+- it does not change the fact that mozilla has made deals to funnel DNS traffic to cloudflare, and that they have started to operate VPN grifting operations. Brendan Eich is no longer there since 2014. he is not forcing the MoCo/MoFo boards to make bad decisions. ([ariadneconill](https://twitter.com/ariadneconill/status/1448718371869052929))
 - I don't quite get it. Isn't ODoH just a DNS proxy? That can be blocked as well. ([vinifortuna](https://twitter.com/vinifortuna/status/1448673387950264321))
 - Why is Cloudflare blocking incoming requests to Jira Align? ([sparxmith_](https://twitter.com/Sparxmith_/status/1448668461677387782))
 - Couple of minutes later, we're back. Was that a CloudFlare asset throwing that error message? ([bernardsheppard](https://twitter.com/BernardSheppard/status/1448477177259827201))
