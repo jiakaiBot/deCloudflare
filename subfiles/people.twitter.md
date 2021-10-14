@@ -7,6 +7,12 @@
 
 
 
+- Trying to Proxy traffic from a Cloudflare site and I'm simply just getting a 403 Forbidden error... Hm... ([epiclper](https://twitter.com/EpicLPer/status/1448323066925309957))
+- From the user's perspective, is it acceptable to have "you allow Cloudflare to MITM most of your traffic, or no (most of the) internet for you"? ([nexusukorg](https://twitter.com/NexusUKOrg/status/1448201603757092869))
+- I'm specifically talking about a situation where the user has authorised the MITM at their end. And if you think the average website owner has any more idea about the internals of Cloudflare than the average user has about a middlebox they have authorised... well :) ([nexusukorg](https://twitter.com/NexusUKOrg/status/1448201325695709185))
+- The big difference - to me - is that the content producer has trusted cloudflare as a supplier and knows and expects their traffic to be treated that way. The end user hasn’t agreed to - and doesn’t have knowledge of - MITM type equipment that may be intercepting them. ([rsmck](https://twitter.com/rsmck/status/1448199105650507782))
+- I'm afraid I still find the lack of consultation pretty troubling. And separately, cloudflare's position on MITM proxies is very hypocritical. ([nexusukorg](https://twitter.com/NexusUKOrg/status/1448187859022778368))
+- Are there currently dashboard login issues? Both business & personal accounts are failing logins with 'invalid user' errors or kicking me back to the login screen after entering the correct MFA code (with no errors). ([moparfinch](https://twitter.com/MoparFinch/status/1448430465535279105))
 - Ah ok. Works for me and this error is mostly related to cloudflare blocking your IP address. ([0xnight](https://twitter.com/0xNight/status/1448348812418838529))
 - I'm getting cloudflare error message when trying to access FTX desktop site, and my orders aren't going thru ([virtuecapital_](https://twitter.com/virtuecapital_/status/1448339728902787073))
 - One of the things I missed working at Cloudflare is that there are a lot of security freaks around. I'm usually the one always concerning about security at other places but it felt great when I'm not the one to say "stop fucking doing that!" for once. ([67darwin](https://twitter.com/67darwin/status/1448302375257587714))
