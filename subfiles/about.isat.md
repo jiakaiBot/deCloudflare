@@ -34,10 +34,12 @@ This add-on never send other information.
 
 [3] Public API services
 	You can select which API service you want to use.
+	Additionally you can self-host API yourself. (See "API" below)
 
 ```
 
 
 - [Code](https://git.disroot.org/dCF/deCloudflare/src/branch/master/addons/code/isattlink)
+- [API Self-host Guide](../tool/api_for_ismm_isat/)
 - Download add-on
   - From Gitea: [FirefoxESR](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/isat.xpi) / [Chromium / Edge](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/isat.crx)
