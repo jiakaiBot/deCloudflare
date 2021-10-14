@@ -7,6 +7,7 @@
 
 
 
+- even the guy who litterally invented dns hate cloudflare ​:praise:​ ([stellar](https://mk.absturztau.be/notes/8rt5la3c6y))
 - you know iptorrents is a normie site because they use cloudflare ([vaartis](https://pl.kotobank.ch/objects/6ecdb336-3b56-49ae-ab74-cb37bd30327f))
 - DID YOU KNOW: Australia's #banks are served by the same US Corporation that serves #closedSilo websites that breed #extremist #antiChina content. This is fine. #understandingCloudflare #australia #auspol #christchurch #thisIsFine #cloudflare ([dsfgs](https://activism.openworlds.info/@dsfgs/107088063905687998))
 - When #Cloudflare ultimately goes down, they will blame #China and #Bitcoiners. It will be then they the #civilWar will begin with true veracity. They will watch the mayhem unfold via #drone with popcorn in hand, while enjoying relative safety and comfort of their organic #island oasis. This #purge will be televised. But we won't see it. We know this because if it weren't true the #legacyMedia would be permitted to talk about Cloudflare. The weapons used against #ThePeople cannot be discussed. ([dsfgs](https://activism.openworlds.info/@dsfgs/107087969932105964))
