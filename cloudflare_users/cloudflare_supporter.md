@@ -1245,6 +1245,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dersy73935011@twitter](https://twitter.com/Dersy73935011/status/1389827449349763072) | advertise |
 | [Desaste64491060@twitter](https://twitter.com/Desaste64491060/status/1383753625101500417) | advertise |
 | [desertdog99@twitter](https://twitter.com/desertdog99/status/1405382173734014983) | advertise |
+| [detikepri@twitter](https://twitter.com/detikepri/status/1448139774171103239) | advertise |
 | [DeukGu2@twitter](https://twitter.com/DeukGu2/status/1394341921418620935) | advertise |
 | [DevendraRThaku1@twitter](https://twitter.com/DevendraRThaku1/status/1394640565875052546) | advertise |
 | [devi1ish@twitter](https://twitter.com/devi1ish/status/1379733715467796480) | advertise |
@@ -2984,6 +2985,7 @@ Do not create new issue or we will close it as duplicate.
 | [LBnBon1@twitter](https://twitter.com/LBnBon1/status/1380896958659747846) | advertise |
 | [Lc58646640@twitter](https://twitter.com/Lc58646640/status/1401490112408481792) | advertise |
 | [Lc85060257@twitter](https://twitter.com/Lc85060257/status/1395364834762321921) | advertise |
+| [lcavallaro91@twitter](https://twitter.com/lcavallaro91/status/1448364966403354633) | advertise |
 | [Lcngt13@twitter](https://twitter.com/Lcngt13/status/1403354053824815106) | advertise |
 | [ldl251@twitter](https://twitter.com/ldl251/status/1388190381745971201) | advertise |
 | [leanhton1@twitter](https://twitter.com/leanhton1/status/1400838495875174401) | advertise |
