@@ -7,6 +7,7 @@
 
 
 
+- Poor local spice shop got themselves DDoS’d when preorders for their spice advent calendar went live this morning. Now there’s only a Cloudflare failure page. ([futzle](https://aus.social/@futzle/107097094489810980))
 - even the guy who litterally invented dns hate cloudflare ​:praise:​ ([stellar](https://mk.absturztau.be/notes/8rt5la3c6y))
 - you know iptorrents is a normie site because they use cloudflare ([vaartis](https://pl.kotobank.ch/objects/6ecdb336-3b56-49ae-ab74-cb37bd30327f))
 - DID YOU KNOW: Australia's #banks are served by the same US Corporation that serves #closedSilo websites that breed #extremist #antiChina content. This is fine. #understandingCloudflare #australia #auspol #christchurch #thisIsFine #cloudflare ([dsfgs](https://activism.openworlds.info/@dsfgs/107088063905687998))
