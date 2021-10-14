@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "\u0108u ligoj estas vundeblaj al MITM-atako?",
   "description": "Skanu FQDN uzante la API",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "homepage_url": "http://crimeflare.eu.org/",
   "author": "Crimeflare",
   "permissions": [

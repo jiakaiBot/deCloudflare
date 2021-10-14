@@ -1,8 +1,15 @@
+const apiPublic = [
+	'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/is_mitm.php',
+	'https://api.sercxi.eu.org/_/is_mitm.php',
+	'http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is_cf.php',
+	'https://karma.clearnetonion.eu.org/api/is_cf.php'
+];
 let localUse = -1,
 	localDB = [],
 	timr, memcache = {},
 	forcePurge = false,
-	apiurl = 'https://0.0.0.0/';
+	apiurl = 'https://0.0.0.0/',
+	customAEP = apiPublic[3];
 function get_realdomain(w) {
 	let wa = w.split('.');
 	let wa_l = wa.length;
@@ -1121,122 +1128,9 @@ function i_know_you(f) {
 		});
 	});
 }
-function forget_cache() {
-	browser.storage.local.get(['ign1', 'ign2', 'obs', 'dbg', 'alt', 'cep', 'mul', 'opd', 'ldb']).then(g => {
-		browser.storage.local.clear();
-		memcache = {};
-		browser.storage.local.set({
-			'ign1': (g.ign1 == 'y' ? 'y' : 'n')
-		});
-		browser.storage.local.set({
-			'ign2': (g.ign2 == 'y' ? 'y' : 'n')
-		});
-		browser.storage.local.set({
-			'obs': (g.obs == 'y' ? 'y' : 'n')
-		});
-		browser.storage.local.set({
-			'dbg': (g.dbg == 'y' ? 'y' : 'n')
-		});
-		browser.storage.local.set({
-			'alt': (g.alt == 'y' ? 'y' : 'n')
-		});
-		browser.storage.local.set({
-			'cep': (g.cep != undefined ? g.cep : '3')
-		});
-		browser.storage.local.set({
-			'mul': (g.mul != undefined ? g.mul : 'eo')
-		});
-		browser.storage.local.set({
-			'opd': (g.opd != undefined ? g.opd : 'y')
-		});
-		browser.storage.local.set({
-			'ldb': (g.ldb != undefined ? g.ldb : '[]')
-		});
-		browser.storage.local.set({
-			'lastU': Math.round((new Date()).getTime() / 1000)
-		});
-		browser.storage.local.set({
-			'lastV': (browser.runtime.getManifest()).version
-		});
-	});
-	clearTimeout(timr);
-	timr = setTimeout(function () {
-		forget_cache();
-	}, 1814400000);
-}
-browser.storage.local.get(['lastU', 'lastV', 'ldb', 'opd', 'cep']).then(g => {
-	switch (g.opd) {
-		case 'n':
-			localUse = 1;
-			break;
-		case 'l':
-			localUse = 2;
-			break;
-		default:
-			localUse = -1;
-			break;
-	}
-	switch (g.cep) {
-		case '1':
-			apiurl = 'https://api.sercxi.eu.org/_/is_mitm.php';
-			break;
-		case '2':
-			apiurl = 'http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is_cf.php';
-			break;
-		case '3':
-			apiurl = 'https://karma.clearnetonion.eu.org/api/is_cf.php';
-			break;
-		default:
-			apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/is_mitm.php';
-			break;
-	}
-	localDB = JSON.parse(g.ldb || '[]');
-	if (g.lastU) {
-		if (Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 1814400) {
-			browser.storage.local.get(['ign1', 'ign2', 'obs', 'dbg', 'alt', 'cep', 'mul', 'opd', 'ldb']).then(g => {
-				browser.storage.local.clear();
-				memcache = {};
-				browser.storage.local.set({
-					'ign1': (g.ign1 == 'y' ? 'y' : 'n')
-				});
-				browser.storage.local.set({
-					'ign2': (g.ign2 == 'y' ? 'y' : 'n')
-				});
-				browser.storage.local.set({
-					'obs': (g.obs == 'y' ? 'y' : 'n')
-				});
-				browser.storage.local.set({
-					'dbg': (g.dbg == 'y' ? 'y' : 'n')
-				});
-				browser.storage.local.set({
-					'alt': (g.alt == 'y' ? 'y' : 'n')
-				});
-				browser.storage.local.set({
-					'cep': (g.cep != undefined ? g.cep : '3')
-				});
-				browser.storage.local.set({
-					'mul': (g.mul != undefined ? g.mul : 'eo')
-				});
-				browser.storage.local.set({
-					'opd': (g.opd != undefined ? g.opd : 'y')
-				});
-				browser.storage.local.set({
-					'ldb': (g.ldb != undefined ? g.ldb : '[]')
-				});
-				browser.storage.local.set({
-					'lastU': Math.round((new Date()).getTime() / 1000)
-				});
-			});
-		}
-	} else {
-		browser.storage.local.set({
-			'lastU': Math.round((new Date()).getTime() / 1000)
-		});
-	}
-	let nowVer = (browser.runtime.getManifest()).version;
-	if (g.lastV != nowVer || forcePurge) {
-		console.log('Updated', nowVer);
-		browser.storage.local.get(['ign1', 'ign2', 'obs', 'dbg', 'alt', 'cep', 'mul', 'opd', 'ldb']).then(g => {
+function forget_cache(x) {
+	if (x) {
+		browser.storage.local.get(['ign1', 'ign2', 'obs', 'dbg', 'alt', 'cep', 'mul', 'opd', 'ldb', 'aep']).then(g => {
 			browser.storage.local.clear();
 			memcache = {};
 			browser.storage.local.set({
@@ -1258,6 +1152,9 @@ browser.storage.local.get(['lastU', 'lastV', 'ldb', 'opd', 'cep']).then(g => {
 				'cep': (g.cep != undefined ? g.cep : '3')
 			});
 			browser.storage.local.set({
+				'aep': (g.aep != undefined ? g.aep : apiPublic[3])
+			});
+			browser.storage.local.set({
 				'mul': (g.mul != undefined ? g.mul : 'eo')
 			});
 			browser.storage.local.set({
@@ -1274,9 +1171,31 @@ browser.storage.local.get(['lastU', 'lastV', 'ldb', 'opd', 'cep']).then(g => {
 			});
 		});
 	}
+	clearTimeout(timr);
 	timr = setTimeout(function () {
-		forget_cache();
+		forget_cache(true);
 	}, 1814400000);
+}
+browser.storage.local.get(['lastU', 'lastV', 'ldb', 'opd', 'cep', 'aep']).then(g => {
+	switch (g.opd) {
+		case 'n':
+			localUse = 1;
+			break;
+		case 'l':
+			localUse = 2;
+			break;
+		default:
+			localUse = -1;
+			break;
+	}
+	localDB = JSON.parse(g.ldb || '[]');
+	customAEP = (g.cep == 9 && g.aep) ? g.aep : apiPublic[3];
+	apiurl = (g.cep == 9) ? customAEP : apiPublic[(g.cep || 3)];
+	if (g.lastU == undefined || Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 1814400 || g.lastV != (browser.runtime.getManifest()).version || forcePurge) {
+		forget_cache(true);
+	} else {
+		forget_cache(false);
+	}
 });
 browser.webRequest.onResponseStarted.addListener(r => {
 	if (localUse == 2) {
@@ -1309,7 +1228,23 @@ browser.webRequest.onResponseStarted.addListener(r => {
 browser.runtime.onMessage.addListener((requests, sender, sendResponse) => {
 	if (requests) {
 		if (requests === 'clear') {
-			forget_cache();
+			forget_cache(true);
+			return;
+		}
+		if (requests.indexOf('customaep,') === 0) {
+			requests = requests.replace('customaep,', '');
+			if (!/^http(|s):\/\/(.+)\/(.+)/.test(requests)) {
+				requests = apiPublic[3];
+			}
+			browser.storage.local.set({
+				'aep': requests
+			});
+			customAEP = requests;
+			browser.storage.local.get(['cep']).then(g => {
+				if (g.cep == 9) {
+					apiurl = customAEP;
+				}
+			});
 			return;
 		}
 		if (requests.indexOf('dbmode,') === 0) {
@@ -1352,25 +1287,31 @@ browser.runtime.onMessage.addListener((requests, sender, sendResponse) => {
 					browser.storage.local.set({
 						'cep': '0'
 					});
-					apiurl = 'https://api.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/_/is_mitm.php';
+					apiurl = apiPublic[0];
 					break;
 				case 'urltype,1':
 					browser.storage.local.set({
 						'cep': '1'
 					});
-					apiurl = 'https://api.sercxi.eu.org/_/is_mitm.php';
+					apiurl = apiPublic[1];
 					break;
 				case 'urltype,2':
 					browser.storage.local.set({
 						'cep': '2'
 					});
-					apiurl = 'http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is_cf.php';
+					apiurl = apiPublic[2];
 					break;
 				case 'urltype,3':
 					browser.storage.local.set({
 						'cep': '3'
 					});
-					apiurl = 'https://karma.clearnetonion.eu.org/api/is_cf.php';
+					apiurl = apiPublic[3];
+					break;
+				case 'urltype,9':
+					browser.storage.local.set({
+						'cep': '9'
+					});
+					apiurl = customAEP;
 					break;
 			}
 			return;
