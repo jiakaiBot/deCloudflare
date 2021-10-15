@@ -7,6 +7,7 @@
 
 
 
+- &gt;cloudflare tunnels absolutely disgusting ([nick](https://freespeechextremist.com/objects/6ec46db5-3162-45c9-97f1-7d201bc77cff))
 - I just open some tabs to easy change between domains @Cloudflare@twitter.com ([djprmf](https://mastodon.social/@DJPRMF/107106348376023945))
 - We found an #EU website served by #Cloudflare and peppered with Google and Microsoft #trackers. Oh dear. ([dsfgs](https://activism.openworlds.info/@dsfgs/107105405751055191))
 - Is there an authentic website to purchase bitcoins which is not hosting trackers and is not on cloudflare? #askfedi #askfediverse #bitcoin #cryptocurrency #privacy ([garow](https://noc.social/@garow/107097723375343757))
