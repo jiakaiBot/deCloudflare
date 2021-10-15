@@ -7,6 +7,7 @@
 
 
 
+- We found an #EU website served by #Cloudflare and peppered with Google and Microsoft #trackers. Oh dear. ([dsfgs](https://activism.openworlds.info/@dsfgs/107105405751055191))
 - Is there an authentic website to purchase bitcoins which is not hosting trackers and is not on cloudflare? #askfedi #askfediverse #bitcoin #cryptocurrency #privacy ([garow](https://noc.social/@garow/107097723375343757))
 - Poor local spice shop got themselves DDoS’d when preorders for their spice advent calendar went live this morning. Now there’s only a Cloudflare failure page. ([futzle](https://aus.social/@futzle/107097094489810980))
 - even the guy who litterally invented dns hate cloudflare ​:praise:​ ([stellar](https://mk.absturztau.be/notes/8rt5la3c6y))
