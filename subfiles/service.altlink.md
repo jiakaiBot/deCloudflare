@@ -146,6 +146,7 @@ set N V
   - for number 4:
     - _one of_: _cc_ (see [/README.md](../README.md))
     - e.g. `es Español` -> `es`
+    - [**Improve translation**](../tool/trans.altlink.txt)
   - for number 5:
     - none (see below example)
 - You can mix uppercase if you want.
