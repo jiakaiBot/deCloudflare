@@ -5,6 +5,7 @@ Here's Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-10-14: [Network Performance Issues in the Ashburn, VA datacenter](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bw6g14w5b01f)
 - 2021-10-12: [Network Performance Issues in Prague](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6psc5m2gfbyz)
 - 2021-10-08: [Cloudflare Apps: issues with javascript bundles loading](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jp605vkschz4)
 - 2021-10-06: [Elevated number of 502 errors in Atlanta](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pf997gr8gx6b)
