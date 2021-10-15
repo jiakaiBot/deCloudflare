@@ -7,6 +7,7 @@
 
 
 
+- Keep calm ..talk ..they can help you with your disabled ..suspended ..locked banned..hacked account recovered👍 . ([deaththedragon2](https://twitter.com/Deaththedragon2/status/1448998650357567489))
 - I did get a CloudFlare 520 error one of the times, but it seems to be infinitely loading for now. ([adrianpenguin1](https://twitter.com/adrianpenguin1/status/1448886743571206146))
 - in the morning, I suddenly received an email from cloudflare,6 high-value domain names I registered all deleted without any remind in advace, worth 3-5bitcoins each domain, 4/6 I re-registered back through other channels,but there are two high-value domain names ([leixiaobo](https://twitter.com/leixiaobo/status/1448821409929596929))
 - it does not change the fact that mozilla has made deals to funnel DNS traffic to cloudflare, and that they have started to operate VPN grifting operations. Brendan Eich is no longer there since 2014. he is not forcing the MoCo/MoFo boards to make bad decisions. ([ariadneconill](https://twitter.com/ariadneconill/status/1448718371869052929))
