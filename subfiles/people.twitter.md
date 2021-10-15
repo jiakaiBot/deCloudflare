@@ -7,6 +7,9 @@
 
 
 
+- Fuck that. Cloudflare needs to be transparent with the identity of infringers' hosts whenever ANY IP owners asks for it.. otherwise, (which is the only reason they got away with their bullshit in this case) They don’t always do that.. ([snarky_crafter](https://twitter.com/Snarky_Crafter/status/1449123590792691717))
+- Cloudflare, fuck these jobless dickheads that do this ([saastactic](https://twitter.com/SaasTactic/status/1445361477607559170))
+- You must be fucking retarded here kid...... Look what Cloudflare just tweeted. 😌 ([pinkypeaker](https://twitter.com/PinkyPeaker/status/1445136396998565892))
 - With the mention that you're putting all your trust on cloudflare, who are a man-in-the-middle in this case. I'm not saying it's not ok in certain scenarios, but users/site-owners must be made aware that cloudflare is decrypting/modifying/re-encrypting their traffic. ([danutz_plusplus](https://twitter.com/danutz_plusplus/status/1011957669408792578))
 - Error 1020 Ray ID: 69e98e3b6a9e15c3 • 2021-10-15 13:57:16 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 69e98e3b6a9e15c3 ([kashkashhome](https://twitter.com/KashKashhome/status/1449011650439352336))
 - Keep calm ..talk ..they can help you with your disabled ..suspended ..locked banned..hacked account recovered👍 . ([deaththedragon2](https://twitter.com/Deaththedragon2/status/1448998650357567489))
