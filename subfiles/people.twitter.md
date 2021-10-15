@@ -7,6 +7,8 @@
 
 
 
+- With the mention that you're putting all your trust on cloudflare, who are a man-in-the-middle in this case. I'm not saying it's not ok in certain scenarios, but users/site-owners must be made aware that cloudflare is decrypting/modifying/re-encrypting their traffic. ([danutz_plusplus](https://twitter.com/danutz_plusplus/status/1011957669408792578))
+- Error 1020 Ray ID: 69e98e3b6a9e15c3 • 2021-10-15 13:57:16 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 69e98e3b6a9e15c3 ([kashkashhome](https://twitter.com/KashKashhome/status/1449011650439352336))
 - Keep calm ..talk ..they can help you with your disabled ..suspended ..locked banned..hacked account recovered👍 . ([deaththedragon2](https://twitter.com/Deaththedragon2/status/1448998650357567489))
 - I did get a CloudFlare 520 error one of the times, but it seems to be infinitely loading for now. ([adrianpenguin1](https://twitter.com/adrianpenguin1/status/1448886743571206146))
 - in the morning, I suddenly received an email from cloudflare,6 high-value domain names I registered all deleted without any remind in advace, worth 3-5bitcoins each domain, 4/6 I re-registered back through other channels,but there are two high-value domain names ([leixiaobo](https://twitter.com/leixiaobo/status/1448821409929596929))
