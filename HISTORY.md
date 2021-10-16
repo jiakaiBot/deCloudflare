@@ -1,6 +1,6 @@
 ## Cloudflare incidents
 
-Here's Cloudflare incidents.
+Here's some of Cloudflare incidents.
 
 [//]: # (do not edit me; start)
 
