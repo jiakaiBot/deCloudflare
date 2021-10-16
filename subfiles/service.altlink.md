@@ -116,6 +116,9 @@ You can configure AL via `direct message`.
 - 1: Do not message me same domain again for a day.
   - Default is `off`.
   - By default AL will notify you each time when you share _cloudflaresite.example_. Turning this settings _on_ will silence second post for 24 hours.
+- 2: XXXXXXXX(   W I P  )XXXXXXXX
+  - Default is `off`.
+  - XXXXXXXX(   W I P  )XXXXXXXX
 - 3: Count my links and send me report monthly.
   - Default is `off`.
   - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we never save (& don't care) what you shared.
