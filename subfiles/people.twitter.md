@@ -7,6 +7,7 @@
 
 
 
+- Hello bro I just wanted to update you about the above issue. I just figured it out that the issue was because of Cloudflare. Seems they are blocking Bingbot. I paused it and now Bing is able to fetch or crawl my website URLs. ([mr_govindsingh](https://twitter.com/mr_govindsingh/status/1449315182291812354))
 - 早上我突然收到了cloudflare的邮件，我注册的几个高价值域名在没有接到任何提前告知情况下， 突然被cloudflare 单方面全部deleted，域名每个价值都在3-5bitcoins，其中的四个域名我通过其他的渠道重新注册回来，但还有2个高价值域名我可能永远也拿不回来了. Cloudflare ([redditswap](https://twitter.com/redditswap/status/1448837038233374720))
 - Fuck that. Cloudflare needs to be transparent with the identity of infringers' hosts whenever ANY IP owners asks for it.. otherwise, (which is the only reason they got away with their bullshit in this case) They don’t always do that.. ([snarky_crafter](https://twitter.com/Snarky_Crafter/status/1449123590792691717))
 - Cloudflare, fuck these jobless dickheads that do this ([saastactic](https://twitter.com/SaasTactic/status/1445361477607559170))
