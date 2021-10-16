@@ -4818,6 +4818,7 @@ Do not create new issue or we will close it as duplicate.
 | [sampath_binura@twitter](https://twitter.com/sampath_binura/status/1402497203533385728) | advertise |
 | [samsam36495863@twitter](https://twitter.com/samsam36495863/status/1380863072726876163) | advertise |
 | [samuelibk@twitter](https://twitter.com/samuelibk/status/1404790587375730688) | advertise |
+| [SamyoFox@twitter](https://twitter.com/SamyoFox/status/1445761137534930952) | advertise |
 | [Sam_Arun_94@twitter](https://twitter.com/Sam_Arun_94/status/1388760215282065413) | advertise |
 | [Sandar52132535@twitter](https://twitter.com/Sandar52132535/status/1394888826120638468) | advertise |
 | [SandarS54620286@twitter](https://twitter.com/SandarS54620286/status/1384767444019867648) | advertise |
@@ -5324,6 +5325,7 @@ Do not create new issue or we will close it as duplicate.
 | [Teleostsilk6@twitter](https://twitter.com/Teleostsilk6/status/1399736474254336000) | advertise |
 | [TelePunk7@twitter](https://twitter.com/TelePunk7/status/1385439878578458628) | advertise |
 | [telitabisok@twitter](https://twitter.com/telitabisok/status/1392907252755931139) | advertise |
+| [tembofxai@twitter](https://twitter.com/tembofxai/status/1448912721869787148) | advertise |
 | [TenoTaren@twitter](https://twitter.com/TenoTaren/status/1388771312672280576) | advertise |
 | [TensingNightco@twitter](https://twitter.com/TensingNightco/status/1378194588838424582) | advertise |
 | [TetTunLin1@twitter](https://twitter.com/TetTunLin1/status/1389947825602002945) | advertise |
