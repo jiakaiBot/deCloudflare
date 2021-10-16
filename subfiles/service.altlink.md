@@ -36,7 +36,6 @@ For the record "_CloudflareLink_" was moved to other Mastodon servers 3 times an
 The main difference of AltLink is `opt-in`.
 Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.md) never receive notification until they have a good heart and follow AL.
 
-- ↳ [Altlink IRC](service.altlink_irc.md)
 
 
 > Subscribe
@@ -181,6 +180,7 @@ set 5
 
 - Mastodon servers are controlled by third party.
   - Let us know if above account is censored by aggressive Cloudflare supporters.
+- ↳ [Altlink IRC Service](service.altlink_irc.md)
 - ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
 - ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared_fediverse.md)
 - ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
