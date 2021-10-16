@@ -55,7 +55,7 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
   - If there is a network instability and AL failed to follow back you: please unfollow and follow again. This will trigger follow-back.
 
 3. When you share Cloudflared link, AL will send `direct` message to you with information.
-  - Direct messages older than *1* day will be deleted.
+  - Direct messages older than *12* hours will be deleted.
     - There is no good reason to keep old toots online.
       - [Should I Delete My Tweets?](https://www.wired.com/story/the-know-it-alls-should-i-delete-my-tweets/)
 
@@ -120,7 +120,7 @@ You can configure AL via `direct message`.
   - XXXXXXXX(   W I P  )XXXXXXXX
 - 3: Count my links and send me report monthly.
   - Default is `off`.
-  - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we never save (& don't care) what you shared.
+  - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we **never** save (& don't care) what you shared.
   - If you change this settings _or_ each month has passed counter will reset to 0.
 - 4: Set my preferred language to ??. 
   - Default is _unset_.
