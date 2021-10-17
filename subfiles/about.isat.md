@@ -20,7 +20,7 @@ This add-on never send other information.
 [1] How to use offline database
 	1. Open add-on's option page and select "Use Offline Local Database".
 	2. Click "Database" link.
-	3. Create a new text file[2] (or download text file from stop_cloudflare)
+	3. Create a new text file[2] (or download text file from git)
 	4. Click "Import Database" and select your text file.
 	5. Wait until the message appear.
 
