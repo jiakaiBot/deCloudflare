@@ -7,6 +7,7 @@
 
 
 
+- can you look at this ticket 2277071? waiting for a response since 5 days - website is down, and this ticket is for a PRO site! ([o365digital](https://twitter.com/O365digital/status/1449752216479297537))
 - Sqlmap is a bad choice. 1 if only 1 ip blocking firewall kicks you your banned from all sites that uses that firewall ( cloudflare, akamai ) and sqlmap can't see the difference between blocked or bot blocked. So every response would be a 403 or a empty 200 response. ([bl4ckh4ck5](https://twitter.com/bl4ckh4ck5/status/1449700181092470787))
 - Hello bro I just wanted to update you about the above issue. I just figured it out that the issue was because of Cloudflare. Seems they are blocking Bingbot. I paused it and now Bing is able to fetch or crawl my website URLs. ([mr_govindsingh](https://twitter.com/mr_govindsingh/status/1449315182291812354))
 - 早上我突然收到了cloudflare的邮件，我注册的几个高价值域名在没有接到任何提前告知情况下， 突然被cloudflare 单方面全部deleted，域名每个价值都在3-5bitcoins，其中的四个域名我通过其他的渠道重新注册回来，但还有2个高价值域名我可能永远也拿不回来了. Cloudflare ([redditswap](https://twitter.com/redditswap/status/1448837038233374720))
