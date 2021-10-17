@@ -94,6 +94,7 @@ Or is this merely a case of simple modesty?
 | Alexandra Modiana | Employee | [🖼](../image/gang/60d0ff8992b7a2f945419c1bd44c29d5193d3668.jpg) |
 | Alexandra Moraru | Delivery Manager |  |
 | Alex Chan | Employee |  |
+| Alex Chen | Employee | |
 | Alex Cruz Farmer | Product Manager for Security | [🖼](../image/gang/Alex_Cruz_Farmer.jpg)<br>https://twitter.com/alexcf |
 | Alex Davidson | Employee | [🖼](../image/gang/Alex_Davidson.jpg) |
 | Alex Dyner | Head of Special Projects | [🖼](../image/gang/Alex_Dyner.jpg) |
@@ -1158,6 +1159,7 @@ Or is this merely a case of simple modesty?
 | Natalie Valdes | Team Coordinator |  |
 | Natasha Wissmann | Employee | |
 | Nate Asp | Customer Development |  |
+| Nate Sales | Employee | |
 | Nauzer Gotla | Vice President, Internal Audit |  |
 | Naveen Singh | Solutions Engineer |  |
 | Naya Posotidou | IT Operations Engineer |  |
@@ -1616,6 +1618,7 @@ Or is this merely a case of simple modesty?
 | Varun Mehta | Employee |  |
 | Vasco Asturiano | Front End Engineer | [🖼](../image/gang/Vasco_Asturiano.jpg)<br>vastur@gmail.com<br>https://twitter.com/vastur<br>https://github.com/vasturiano |
 | Vasileios Giotsas | Employee | |
+| Vasilis Giotsas | Employee | |
 | Vasti Porter | Front Desk |  |
 | Venkat Chaithanya | Employee | [🖼](../image/gang/8f9c66f7e64c2d124b413561b0a52ac24a66d1e1.jpg) |
 | Venkat Viswanathan | Employee |  |
