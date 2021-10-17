@@ -10,7 +10,7 @@
 You′ve found something on the internet.
 Are these links or images vulnerable to MITM attack or not?
  
-This add-on is using[1] Ss′ Public[4] API to scan[3] FQDN.
+This add-on is using[1] public[4] API to scan[3] FQDN.
 	e.g. https://ekzemplo.com/page.html → "ekzemplo.com"
 
 This add-on never send other information.
@@ -42,7 +42,7 @@ This add-on never send other information.
 
 [4] Public API services
 	You can select which API service you want to use.
-	Additionally you can self-host API yourself. (See "API" below)
+	Additionally you can self-host and use your own API.
 
 ```
 
