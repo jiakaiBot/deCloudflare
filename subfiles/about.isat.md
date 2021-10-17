@@ -10,7 +10,7 @@
 You′ve found something on the internet.
 Are these links blocking Tor users or not?
  
-This add-on is using[1] Ss′ Public[3] API to scan FQDN.
+This add-on is using[1] public[3] API to scan FQDN.
 	e.g. https://ekzemplo.com/page.html → "ekzemplo.com"
 
 This add-on never send other information.
@@ -34,7 +34,7 @@ This add-on never send other information.
 
 [3] Public API services
 	You can select which API service you want to use.
-	Additionally you can self-host API yourself. (See "API" below)
+	Additionally you can self-host and use your own API.
 
 ```
 
