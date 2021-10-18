@@ -120,7 +120,7 @@
 
 * [اقرأ صوت المستخدم الآخر واكتب أفكارك.](../PEOPLE.md)
 
-* ابحث عن شيء ما: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* ابحث عن شيء ما: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * قم بتحديث قائمة المجال: [قائمة التعليمات](../INSTRUCTION.md).
 
