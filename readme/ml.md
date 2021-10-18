@@ -118,7 +118,7 @@
 
 * [മറ്റ് ഉപയോക്താവിന്റെ ശബ്‌ദം വായിച്ച് നിങ്ങളുടെ ചിന്തകൾ എഴുതുക.](../PEOPLE.md)
 
-* എന്തെങ്കിലും തിരയുക: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* എന്തെങ്കിലും തിരയുക: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * ഡൊമെയ്ൻ പട്ടിക അപ്ഡേറ്റ് ചെയ്യുക: [നിർദ്ദേശങ്ങൾ പട്ടികപ്പെടുത്തുക](../INSTRUCTION.md).
 
