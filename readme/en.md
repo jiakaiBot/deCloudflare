@@ -125,7 +125,7 @@ This repository is a list of websites that are behind "The Great Cloudwall", blo
 
 * [Read other user's voice and write your thoughts.](../PEOPLE.md)
 
-* Search something: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Search something: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Update the domain list: [List instructions](../INSTRUCTION.md).
 
