@@ -118,7 +118,7 @@ O lenei fale teu oloa o se lisi o uepisaite o loʻo i tua o le "The Great Cloudw
 
 * [Faitau le isi leo faʻaaoga ma tusi ou manatu.](../PEOPLE.md)
 
-* Saili se mea: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Saili se mea: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Faafou le lisi lisi: [Lisi faatonuga](../INSTRUCTION.md).
 
