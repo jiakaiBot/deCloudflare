@@ -7,6 +7,7 @@
 
 
 
+- cloudflare gets randomness from lava lamps, I get randomness from cumshots in pornos ([thatchers_piss_slut](https://hellsite.site/@thatchers_piss_slut/107120903618707311))
 - CloudFlare Pagesあたりに引っ掛けとこ ([genbuwolf](https://mstdn.jp/@genbuwolf/107112995100845059))
 - &gt;cloudflare tunnels absolutely disgusting ([nick](https://freespeechextremist.com/objects/6ec46db5-3162-45c9-97f1-7d201bc77cff))
 - I just open some tabs to easy change between domains @Cloudflare@twitter.com ([djprmf](https://mastodon.social/@DJPRMF/107106348376023945))
