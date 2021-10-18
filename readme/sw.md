@@ -118,7 +118,7 @@ Jalada hili ni orodha ya tovuti ambazo ziko nyuma "Cloudwall Kubwa", zinazuia wa
 
 * [Soma sauti ya mtumiaji mwingine na uandike mawazo yako.](../PEOPLE.md)
 
-* Tafuta kitu: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Tafuta kitu: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Sasisha orodha ya kikoa: [Maagizo ya orodha](../INSTRUCTION.md).
 
