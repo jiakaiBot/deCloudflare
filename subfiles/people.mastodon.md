@@ -7,8 +7,6 @@
 
 
 
-- Investigating ways around CloudFlare. There are a couple. ([moon](https://shitposter.club/objects/56d594a0-8828-4a45-bf0b-ed16dc583f7a))
-- AWS is playing Chess. Cloudflare is playing Go www.swyx.io/cloudflare-go/ ([freax](https://anonsys.net/display/bf69967c-1561-6dd6-4fb2-aa6382958278))
 - In #Belgium the #itsMe identification service is invading everything.. #bank accounts, government-citizen messaging, #Covid19 #CST, etc. ItsMe is a fucking #Cloudflare site! So I won't be touching it. So far there are always ItsMe alternatives but the day there isn’t will be a disaster ([expat](https://mamot.fr/@expat/107121904527008653))
 - &gt;cloudflare tunnels absolutely disgusting ([nick](https://freespeechextremist.com/objects/6ec46db5-3162-45c9-97f1-7d201bc77cff))
 - I just open some tabs to easy change between domains @Cloudflare@twitter.com ([djprmf](https://mastodon.social/@DJPRMF/107106348376023945))
