@@ -7,6 +7,7 @@
 
 
 
+- you r right. At some point it close the conncection curl: (92) HTTP/2 stream 0 was not closed cleanly: INTERNALERROR (err 2) ([albertlacambra](https://twitter.com/albertlacambra/status/1449838349162778626))
 - It bypass CloudFlare, not a browser. Browsers usually do not block javascript code, except Google Chrome in Cross-Origin blocking JS dialogs. ([rodoassis](https://twitter.com/rodoassis/status/1450194882061127687))
 - Search Engine Monopoly needs to be crushed and Microsoft won't stop improving their search engine until they compete with Google. ([imran_amjad](https://twitter.com/imran_amjad/status/1450143046314741775))
 - i can't access your site, cloudflare is blocking ([cardanocrow](https://twitter.com/CardanoCrow/status/1450142324575584256))
