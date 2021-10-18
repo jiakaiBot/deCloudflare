@@ -118,7 +118,7 @@
 
 * [他のユーザーの声を読んで、あなたの考えを書いてください。](../PEOPLE.md)
 
-* 何かを検索する: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* 何かを検索する: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * ドメインリストを更新する: [リストの説明](../INSTRUCTION.md).
 
