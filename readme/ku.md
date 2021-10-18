@@ -118,7 +118,7 @@ Vê repoya navnîşek malperên ku li paş "The Cloudwall mezin" in, rawestandin
 
 * [Dengê bikarhênerê din bixwînin û ramanên xwe binivîsin.](../PEOPLE.md)
 
-* Li tiştek bigerin: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Li tiştek bigerin: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Navnîşa domainê nûve bikin: [Rêbernameyên navnîş bikin](../INSTRUCTION.md).
 
