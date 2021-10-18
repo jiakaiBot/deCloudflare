@@ -118,7 +118,7 @@ Kjo depo është një listë e faqeve të internetit që janë pas "The Great Cl
 
 * [Lexoni zërin e përdoruesit të tjerë dhe shkruani mendimet tuaja.](../PEOPLE.md)
 
-* Kërkoni diçka: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Kërkoni diçka: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Përditësoni listën e domenit: [Listoni udhëzimet](../INSTRUCTION.md).
 
