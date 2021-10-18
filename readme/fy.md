@@ -118,7 +118,7 @@ Dit repository is in list fan websides dy't efter "The Great Cloudwall" steane, 
 
 * [Lês de stim fan oare brûker en skriuw jo gedachten.](../PEOPLE.md)
 
-* Sykje wat: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Sykje wat: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Update de domeinnamme: [List ynstruksjes](../INSTRUCTION.md).
 
