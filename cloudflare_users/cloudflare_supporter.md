@@ -468,6 +468,7 @@ Do not create new issue or we will close it as duplicate.
 | [athlity7@twitter](https://twitter.com/athlity7/status/1393870645558083584) | advertise |
 | [ATK0081@twitter](https://twitter.com/ATK0081/status/1390943410333241346) | advertise |
 | [AtlasFNM_@twitter](https://twitter.com/AtlasFNM_/status/1389023296939651074) | advertise |
+| [atomstudy_com@twitter](https://twitter.com/atomstudy_com/status/1449689471675355136) | advertise |
 | [AttaAtt05399049@twitter](https://twitter.com/AttaAtt05399049/status/1386699730898456579) | advertise |
 | [attab0yyy@twitter](https://twitter.com/attab0yyy/status/1383128080818970624) | advertise |
 | [augthu@twitter](https://twitter.com/augthu/status/1400836583994007554) | advertise |
@@ -2523,6 +2524,7 @@ Do not create new issue or we will close it as duplicate.
 | [kay_myanmar@twitter](https://twitter.com/kay_myanmar/status/1393508293016915969) | advertise |
 | [kazirakib300@twitter](https://twitter.com/kazirakib300/status/1397569237024075785) | advertise |
 | [KazutoShizuku@twitter](https://twitter.com/KazutoShizuku/status/1402737153205886977) | advertise |
+| [kd2qqv@twitter](https://twitter.com/kd2qqv/status/1449891246479130625) | advertise |
 | [Kdah6FO5yD5H0UH@twitter](https://twitter.com/Kdah6FO5yD5H0UH/status/1383204544495063041) | advertise |
 | [KeenenJohannes@twitter](https://twitter.com/KeenenJohannes/status/1396513112229138434) | advertise |
 | [KeepGodFirst92@twitter](https://twitter.com/KeepGodFirst92/status/1396552670861746176) | advertise |
@@ -6147,6 +6149,7 @@ Do not create new issue or we will close it as duplicate.
 | [yash44828366@twitter](https://twitter.com/yash44828366/status/1394641996401176580) | advertise |
 | [yashhhh04@twitter](https://twitter.com/yashhhh04/status/1378478478022991874) | advertise |
 | [yashhshd@twitter](https://twitter.com/yashhshd/status/1403777236600119299) | advertise |
+| [yasinozvar@twitter](https://twitter.com/yasinozvar/status/1449656098777088000) | advertise |
 | [YasinUmur@twitter](https://twitter.com/YasinUmur/status/1411232485376245760) | moral (advertise) |
 | [yasunrik@twitter](https://twitter.com/yasunrik/status/1410258132769525760) | moral (advertise) |
 | [Yate315142663@twitter](https://twitter.com/Yate315142663/status/1385109096999706629) | advertise |
