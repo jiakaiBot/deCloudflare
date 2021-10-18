@@ -118,7 +118,7 @@ Iyi repository runyorwa rwemawebhusaiti ari kumashure kwe "Iyo huru Cloudwall", 
 
 * [Verenga izwi remumwe mushandisi uye nyora zvaunofunga.](../PEOPLE.md)
 
-* Tsvaga chimwe chinhu: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Tsvaga chimwe chinhu: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Gadziridza chinyorwa chinyorwa: [Rondedzero mirayiridzo](../INSTRUCTION.md).
 
