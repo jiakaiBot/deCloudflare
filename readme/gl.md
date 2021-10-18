@@ -118,7 +118,7 @@ Este repositorio é unha lista de sitios web que están detrás de "The Great Cl
 
 * [Lea a voz doutro usuario e escribe os teus pensamentos.](../PEOPLE.md)
 
-* Busca algo: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Busca algo: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Actualiza a lista de dominios: [Lista de instrucións](../INSTRUCTION.md).
 
