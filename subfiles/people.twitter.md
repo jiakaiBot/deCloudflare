@@ -7,6 +7,7 @@
 
 
 
+- Someone submitted it to cloudflare and now the payload blocked 🥲 ([haxor31337](https://twitter.com/haxor31337/status/1450122888741146629))
 - No worries. You might want to update the library to reflect the actual "caught" error which would make debugging this easier. At the moment, it just assumes crypto isn't valid because the function fails - but doesn't actually tell you the real reason. Cheers! ([paul_reviews](https://twitter.com/Paul_Reviews/status/1450103224875298824))
 - Support have no idea what they are on about. That's a CloudFlare firewall block to reduce malicious attacks, your IP address has triggered one of the filters and you've been blocked. If you have a dynamic IP then change your IP, use a different IP or instead use a VPN or proxy ([reubenrs3](https://twitter.com/ReubenRS3/status/1450101737893728258))
 - Well, it's fixed... and you'll never guess how I fixed it! Moved the import line from global to onFetch, so it only invokes the test code during an actual request. If you try to test the same code at any other time, CF throws a "some operations can only be called... " error! ([paul_reviews](https://twitter.com/Paul_Reviews/status/1450073873072930822))
