@@ -7,6 +7,7 @@
 
 
 
+- It bypass CloudFlare, not a browser. Browsers usually do not block javascript code, except Google Chrome in Cross-Origin blocking JS dialogs. ([rodoassis](https://twitter.com/rodoassis/status/1450194882061127687))
 - Search Engine Monopoly needs to be crushed and Microsoft won't stop improving their search engine until they compete with Google. ([imran_amjad](https://twitter.com/imran_amjad/status/1450143046314741775))
 - i can't access your site, cloudflare is blocking ([cardanocrow](https://twitter.com/CardanoCrow/status/1450142324575584256))
 - Someone submitted it to cloudflare and now the payload blocked 🥲 ([haxor31337](https://twitter.com/haxor31337/status/1450122888741146629))
