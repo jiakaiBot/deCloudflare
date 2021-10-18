@@ -119,7 +119,7 @@
 
 * Bonvolu legi [la voĉon de alia uzanto](../PEOPLE.md) kaj skribu viajn pensojn.
 
-* Serĉi ion sur [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([klara retejo](https://ansero.eu.org/)) aŭ [Ss \#Serĉi](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([klara retejo](https://sercxi.eu.org/)).
+* Serĉi ion sur [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Bonvolu ĝisdatigi la domajnan liston: [Enlistigi instrukciojn](../INSTRUCTION.md).
 
