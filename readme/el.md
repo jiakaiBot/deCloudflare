@@ -118,7 +118,7 @@
 
 * [Διαβάστε τη φωνή του άλλου χρήστη και γράψτε τις σκέψεις σας.](../PEOPLE.md)
 
-* Αναζητήστε κάτι: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Αναζητήστε κάτι: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Ενημερώστε τη λίστα τομέων: [Λίστα λιστών](../INSTRUCTION.md).
 
