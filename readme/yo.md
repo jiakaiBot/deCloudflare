@@ -118,7 +118,7 @@ Ibi ipamọ yii jẹ atokọ ti awọn oju opo wẹẹbu ti o wa lẹhin "The Cl
 
 * [Ka ohun olulo olumulo miiran ki o kọ awọn ero rẹ.](../PEOPLE.md)
 
-* Wa nkan: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Wa nkan: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Ṣe imudojuiwọn akojọ ìkápá naa: [Awọn ilana atokọ](../INSTRUCTION.md).
 
