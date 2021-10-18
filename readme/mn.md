@@ -118,7 +118,7 @@
 
 * [Хэрэглэгчийн бусад дууг уншаад бодлоо бичээрэй.](../PEOPLE.md)
 
-* Ямар нэг зүйл хайх: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Ямар нэг зүйл хайх: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Домэйн жагсаалтыг шинэчлэх: [Зааврыг жагсаах](../INSTRUCTION.md).
 
