@@ -118,7 +118,7 @@
 
 * [წაიკითხეთ სხვა მომხმარებლის ხმა და დაწერეთ თქვენი აზრები.](../PEOPLE.md)
 
-* მოძებნეთ რამე: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* მოძებნეთ რამე: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * განაახლეთ დომენის სია: [ჩამოთვალეთ ინსტრუქციები](../INSTRUCTION.md).
 
