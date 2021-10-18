@@ -118,7 +118,7 @@
 
 * [பிற பயனரின் குரலைப் படித்து உங்கள் எண்ணங்களை எழுதுங்கள்.](../PEOPLE.md)
 
-* ஏதாவது தேடுங்கள்: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* ஏதாவது தேடுங்கள்: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * டொமைன் பட்டியலைப் புதுப்பிக்கவும்: [பட்டியல் வழிமுறைகள்](../INSTRUCTION.md).
 
