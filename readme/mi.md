@@ -118,7 +118,7 @@ Ko tenei kohinga tetahi raarangi o nga paetukutuku kei muri i te "The Cloudwall 
 
 * [Panuihia te reo o tetahi atu kaiwhakamahi ka tuhi i o whakaaro.](../PEOPLE.md)
 
-* Rapua tetahi mea: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Rapua tetahi mea: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Whakahoutia te raarangi rohe: [Tuhia nga tohutohu](../INSTRUCTION.md).
 
