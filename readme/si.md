@@ -118,7 +118,7 @@
 
 * [වෙනත් පරිශීලකයාගේ කටහ read කියවා ඔබේ අදහස් ලියන්න.](../PEOPLE.md)
 
-* යමක් සොයන්න: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* යමක් සොයන්න: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * වසම් ලැයිස්තුව යාවත්කාලීන කරන්න: [ලැයිස්තු උපදෙස්](../INSTRUCTION.md).
 
