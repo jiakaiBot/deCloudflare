@@ -118,7 +118,7 @@
 
 * [ಇತರ ಬಳಕೆದಾರರ ಧ್ವನಿಯನ್ನು ಓದಿ ಮತ್ತು ನಿಮ್ಮ ಆಲೋಚನೆಗಳನ್ನು ಬರೆಯಿರಿ.](../PEOPLE.md)
 
-* ಏನನ್ನಾದರೂ ಹುಡುಕಿ: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* ಏನನ್ನಾದರೂ ಹುಡುಕಿ: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * ಡೊಮೇನ್ ಪಟ್ಟಿಯನ್ನು ನವೀಕರಿಸಿ: [ಸೂಚನೆಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ](../INSTRUCTION.md).
 
