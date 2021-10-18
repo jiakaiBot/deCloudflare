@@ -118,7 +118,7 @@ Bokosi ili ndi mndandanda wa masamba omwe ali kumbuyo kwa "The Cloudwall", akuts
 
 * [Werengani mawu a ogwiritsa ntchito ena ndikulemba malingaliro anu.](../PEOPLE.md)
 
-* Sakani kena kake: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Sakani kena kake: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Sinthani mndandanda wamtundu: [Malangizo mndandanda](../INSTRUCTION.md).
 
