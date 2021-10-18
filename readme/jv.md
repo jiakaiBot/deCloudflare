@@ -118,7 +118,7 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Great Cloudwal
 
 * [Waca swara pangguna liyane lan tulisake pikirane.](../PEOPLE.md)
 
-* Nggoleki soko: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Nggoleki soko: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Nganyari dhaptar domain: [Dhaptar pandhuan](../INSTRUCTION.md).
 
