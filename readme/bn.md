@@ -118,7 +118,7 @@
 
 * [অন্য ব্যবহারকারীর ভয়েস পড়ুন এবং আপনার চিন্তাভাবনা লিখুন।](../PEOPLE.md)
 
-* কিছু অনুসন্ধান করুন: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* কিছু অনুসন্ধান করুন: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * ডোমেন তালিকা আপডেট করুন: [নির্দেশাবলী তালিকা](../INSTRUCTION.md).
 
