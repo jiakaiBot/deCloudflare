@@ -7,6 +7,7 @@
 
 
 
+- In #Belgium the #itsMe identification service is invading everything.. #bank accounts, government-citizen messaging, #Covid19 #CST, etc. ItsMe is a fucking #Cloudflare site! So I won't be touching it. So far there are always ItsMe alternatives but the day there isn’t will be a disaster ([expat](https://mamot.fr/@expat/107121904527008653))
 - cloudflare gets randomness from lava lamps, I get randomness from cumshots in pornos ([thatchers_piss_slut](https://hellsite.site/@thatchers_piss_slut/107120903618707311))
 - CloudFlare Pagesあたりに引っ掛けとこ ([genbuwolf](https://mstdn.jp/@genbuwolf/107112995100845059))
 - &gt;cloudflare tunnels absolutely disgusting ([nick](https://freespeechextremist.com/objects/6ec46db5-3162-45c9-97f1-7d201bc77cff))
