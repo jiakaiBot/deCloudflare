@@ -118,7 +118,7 @@
 
 * [ఇతర వినియోగదారు గొంతు చదవండి మరియు మీ ఆలోచనలను రాయండి.](../PEOPLE.md)
 
-* ఏదైనా శోధించండి: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* ఏదైనా శోధించండి: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * డొమైన్ జాబితాను నవీకరించండి: [సూచనలను జాబితా చేయండి](../INSTRUCTION.md).
 
