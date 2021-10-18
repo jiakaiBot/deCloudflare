@@ -118,7 +118,7 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de "The Gr
 
 * [Léigh guth úsáideora eile agus scríobh do chuid smaointe.](../PEOPLE.md)
 
-* Cuardaigh rud éigin: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Cuardaigh rud éigin: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Nuashonraigh an liosta fearainn: [Liostaigh treoracha](../INSTRUCTION.md).
 
