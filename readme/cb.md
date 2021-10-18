@@ -118,7 +118,7 @@ Ang kini nga repositoryo usa ka lista sa mga website nga sa luyo sa "The Great C
 
 * [Basaha ang tingog sa ubang tiggamit ug isulat ang imong mga hunahuna.](../PEOPLE.md)
 
-* Pagpangita usa ka butang: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Pagpangita usa ka butang: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Pag-update sa lista sa domain: [Ilista ang mga panudlo](../INSTRUCTION.md).
 
