@@ -118,7 +118,7 @@ Wannan wurin ajiyar kaya akwai jerin rukunin yanar gizon da ke bayan "Babban Clo
 
 * [Karanta muryar sauran mai amfani ka rubuta tunanin ka.](../PEOPLE.md)
 
-* Nemi wani abu: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Nemi wani abu: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Sabunta jerin yanki: [Jerin umarnin](../INSTRUCTION.md).
 
