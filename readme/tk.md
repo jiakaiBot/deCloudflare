@@ -118,7 +118,7 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "The Great Cloudwall
 
 * [Beýleki ulanyjynyň sesini okaň we pikirleriňizi ýazyň.](../PEOPLE.md)
 
-* Bir zady gözläň: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Bir zady gözläň: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Domen sanawyny täzeläň: [Görkezmeleri sanaň](../INSTRUCTION.md).
 
