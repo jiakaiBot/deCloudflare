@@ -7,6 +7,9 @@
 
 
 
+- That's essentially what it's doing now. It makes sense to test on import (I'd have designed it the same way)... the issue is the misleading error. Yes, a CSPRNG isn't available - but as a result of the error it threw before (unique to CF). ([paul_reviews](https://twitter.com/Paul_Reviews/status/1450105574817992712))
+- Fuck cloudflare and error 1020. Can I have another internet please, one that's not broken? ([alf239](https://twitter.com/alf239/status/1449992572991152131))
+- Waiting for a response from your team on ticket 2276499. Can you please help expedite? ([anant_garg](https://twitter.com/anant_garg/status/1447613491813122049))
 - you r right. At some point it close the conncection curl: (92) HTTP/2 stream 0 was not closed cleanly: INTERNALERROR (err 2) ([albertlacambra](https://twitter.com/albertlacambra/status/1449838349162778626))
 - It bypass CloudFlare, not a browser. Browsers usually do not block javascript code, except Google Chrome in Cross-Origin blocking JS dialogs. ([rodoassis](https://twitter.com/rodoassis/status/1450194882061127687))
 - Search Engine Monopoly needs to be crushed and Microsoft won't stop improving their search engine until they compete with Google. ([imran_amjad](https://twitter.com/imran_amjad/status/1450143046314741775))
