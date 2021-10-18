@@ -118,7 +118,7 @@ Kho lưu trữ này là danh sách các trang web đứng sau "Bức tường m�
 
 * [Đọc giọng nói của người dùng khác và viết suy nghĩ của bạn.](../PEOPLE.md)
 
-* Tìm kiếm thứ gì đó: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Tìm kiếm thứ gì đó: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Cập nhật danh sách miền: [Liệt kê hướng dẫn](../INSTRUCTION.md).
 
