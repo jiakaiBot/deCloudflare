@@ -118,7 +118,7 @@ Ovo spremište je popis web stranica koje stoje iza "Velikog oblačnog zida", a 
 
 * [Pročitajte glas drugog korisnika i napišite svoje misli.](../PEOPLE.md)
 
-* Pretražite nešto: [Ansero](https://ansero.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://ansero.eu.org/)), [Ss \#Search](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) ([clearnet](https://sercxi.eu.org/))
+* Pretražite nešto: [Ss Serĉi](../subfiles/service.sercxi.md)
 
 * Ažurirajte popis domena: [Popis uputa](../INSTRUCTION.md).
 
