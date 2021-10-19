@@ -135,6 +135,9 @@ You can configure AL via `direct message`.
 - 7: Use alternative provider.
   - Default is `off`.
   - If you turn _on_ this settings AL will use [IAList](README.md) service.
+- 8: XXXXXXXXXXXX( W I P )XXXXXXXXXXXXXXXX
+  - Default is `off`.
+  - If you turn _on_ this settings AL will tell you XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
 
 
 ```
@@ -143,7 +146,7 @@ set N V
 
 - N is above numbers.
 - V is value.
-  - for number 1 to 3, 6 to 7:
+  - for number 1 to 3, 6 to 8:
     - _one of_: y n yes no true false 1 0 on off
   - for number 4:
     - _one of_: _cc_ (see [/README.md](../README.md))
