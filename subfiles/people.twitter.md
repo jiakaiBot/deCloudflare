@@ -7,6 +7,7 @@
 
 
 
+- According to your TLD Policies page, .me should be available today, but it's not. ([spekkio](https://twitter.com/spekkio/status/1450499950853435393))
 - Got a tip the OS being slow issue is caused by Cloudflare blocking certain ISPs. Change your VPN to US and you're good to go. ([crypto_rodo](https://twitter.com/crypto_rodo/status/1450452408220389379))
 - Cloudflare can you help me and some more people blocked from ([kootjekoo](https://twitter.com/Kootjekoo/status/1450357820315078656))
 - That's essentially what it's doing now. It makes sense to test on import (I'd have designed it the same way)... the issue is the misleading error. Yes, a CSPRNG isn't available - but as a result of the error it threw before (unique to CF). ([paul_reviews](https://twitter.com/Paul_Reviews/status/1450105574817992712))
