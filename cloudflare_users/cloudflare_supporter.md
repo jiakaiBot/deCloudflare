@@ -4739,6 +4739,7 @@ Do not create new issue or we will close it as duplicate.
 | [RunStopRestoreX@twitter](https://twitter.com/RunStopRestoreX/status/1381973526350073856) | advertise |
 | [Rushike85904039@twitter](https://twitter.com/Rushike85904039/status/1381637780657168384) | advertise |
 | [rushimovaliya@twitter](https://twitter.com/rushimovaliya/status/1400114095857094659) | advertise |
+| [ruslan_ferrales@twitter](https://twitter.com/ruslan_ferrales/status/1450044589293834242) | advertise |
 | [ruteesh2@twitter](https://twitter.com/ruteesh2/status/1387396067554205699) | advertise |
 | [ryan171197@twitter](https://twitter.com/ryan171197/status/1396728837900099589) | advertise |
 | [RyanLee28594985@twitter](https://twitter.com/RyanLee28594985/status/1378844547619254273) | advertise |
@@ -5173,6 +5174,7 @@ Do not create new issue or we will close it as duplicate.
 | [StefanJack9@twitter](https://twitter.com/StefanJack9/status/1400858676550725637) | advertise |
 | [Steferine4eva@twitter](https://twitter.com/Steferine4eva/status/1377275017172373506) | advertise |
 | [StellaMunPanKo1@twitter](https://twitter.com/StellaMunPanKo1/status/1378959444080349184) | advertise |
+| [stepanic@twitter](https://twitter.com/stepanic/status/1450021187392843776) | advertise |
 | [stephanosverent@twitter](https://twitter.com/stephanosverent/status/1412531696264781824) | moral (advertise) |
 | [stephen_talla@twitter](https://twitter.com/stephen_talla/status/1392849291710849035) | advertise |
 | [Steve13279142@twitter](https://twitter.com/Steve13279142/status/1387094740437377025) | advertise |
@@ -5656,6 +5658,7 @@ Do not create new issue or we will close it as duplicate.
 | [ToPeKsz@twitter](https://twitter.com/ToPeKsz/status/1385308280893841409) | advertise |
 | [TopMan84177559@twitter](https://twitter.com/TopMan84177559/status/1380097459976736769) | advertise |
 | [torproject.org](https://www.torproject.org/) | [HISTORY.md](../HISTORY.md), [README.md](README.md) |
+| [Torrekie@twitter](https://twitter.com/Torrekie/status/1449973586664595458) | advertise |
 | [torzen6@twitter](https://twitter.com/torzen6/status/1400998635785973761) | advertise |
 | [touchybaot73@twitter](https://twitter.com/touchybaot73/status/1388281470821625861) | advertise |
 | [ToxicGa33583045@twitter](https://twitter.com/ToxicGa33583045/status/1394645532132487169) | advertise |
@@ -6087,6 +6090,7 @@ Do not create new issue or we will close it as duplicate.
 | [XjwlXx@twitter](https://twitter.com/XjwlXx/status/1403028809415266306) | advertise |
 | [xmanhbun@twitter](https://twitter.com/xmanhbun/status/1397539419356221441) | advertise |
 | [XmzFc@twitter](https://twitter.com/XmzFc/status/1390881317877735427) | advertise |
+| [xpyc_tum@twitter](https://twitter.com/xpyc_tum/status/1450210490920095747) | advertise |
 | [XR389680978@twitter](https://twitter.com/XR389680978/status/1402950109134876673) | advertise |
 | [XRay12539891@twitter](https://twitter.com/XRay12539891/status/1395074993768304647) | advertise |
 | [xrayrose176@twitter](https://twitter.com/xrayrose176/status/1379845552997724163) | advertise |
