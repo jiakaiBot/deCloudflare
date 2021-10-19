@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare can you help me and some more people blocked from ([kootjekoo](https://twitter.com/Kootjekoo/status/1450357820315078656))
 - That's essentially what it's doing now. It makes sense to test on import (I'd have designed it the same way)... the issue is the misleading error. Yes, a CSPRNG isn't available - but as a result of the error it threw before (unique to CF). ([paul_reviews](https://twitter.com/Paul_Reviews/status/1450105574817992712))
 - Fuck cloudflare and error 1020. Can I have another internet please, one that's not broken? ([alf239](https://twitter.com/alf239/status/1449992572991152131))
 - Waiting for a response from your team on ticket 2276499. Can you please help expedite? ([anant_garg](https://twitter.com/anant_garg/status/1447613491813122049))
