@@ -1331,6 +1331,7 @@ Do not create new issue or we will close it as duplicate.
 | [downloadervide0@twitter](https://twitter.com/downloadervide0/status/1439647584012881920) | advertise |
 | [Doya48669093@twitter](https://twitter.com/Doya48669093/status/1396780661181190144) | advertise |
 | [DpJocker@twitter](https://twitter.com/DpJocker/status/1383704630396284931) | advertise |
+| [dr0iz2@twitter](https://twitter.com/dr0iz2/status/1450296026137567232) | advertise |
 | [DragonTechIT@twitter](https://twitter.com/DragonTechIT/status/1437804344682893321) | advertise |
 | [drAhlawy@twitter](https://twitter.com/drAhlawy/status/1389690659188191234) | advertise |
 | [DrAPSone@twitter](https://twitter.com/DrAPSone/status/1388524225166602240) | advertise |
@@ -3397,6 +3398,7 @@ Do not create new issue or we will close it as duplicate.
 | [michael_scharen@twitter](https://twitter.com/michael_scharen/status/1397316913139634176) | advertise |
 | [MichealKyaw8@twitter](https://twitter.com/MichealKyaw8/status/1395744480884518914) | advertise |
 | [MichelGracia8@twitter](https://twitter.com/MichelGracia8/status/1402891533121032193) | advertise |
+| [Micro_mate@twitter](https://twitter.com/Micro_mate/status/1450530749770354692) | advertise |
 | [Midnigh30262555@twitter](https://twitter.com/Midnigh30262555/status/1384919574668267520) | advertise |
 | [migratingstream@twitter](https://twitter.com/migratingstream/status/1393409904086425600) | advertise |
 | [MikasaMino@twitter](https://twitter.com/MikasaMino/status/1387209691172728832) | advertise |
