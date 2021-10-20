@@ -7,6 +7,7 @@
 
 
 
+- What if #deepState actors have been moving from one non-Cloudflared #bank to another, commiting #crimes and #atrocities as they go until all #banks belong to #Cloudflare? #extortion #atrocityStories #falseFlag #allBanksAreBelongToUs #AML #KYC #financialInstitution #centralBanks #cloudflareIsTheMalware #whyBitcoinCore ([dsfgs](https://activism.openworlds.info/@dsfgs/107133755387713163))
 - please... stop using cloudflare on your instances... ([mia](https://disqordia.space/objects/32e822e5-7160-41a3-acfd-6103bb77659a))
 - In #Belgium the #itsMe identification service is invading everything.. #bank accounts, government-citizen messaging, #Covid19 #CST, etc. ItsMe is a fucking #Cloudflare site! So I won't be touching it. So far there are always ItsMe alternatives but the day there isn’t will be a disaster ([expat](https://mamot.fr/@expat/107121904527008653))
 - &gt;cloudflare tunnels absolutely disgusting ([nick](https://freespeechextremist.com/objects/6ec46db5-3162-45c9-97f1-7d201bc77cff))
