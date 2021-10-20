@@ -52,8 +52,8 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
   - If you're locking your account, please accept AL's follow request otherwise AL can't read your toots.
   - If you're marking your account as `Bot`, AL will reject your request and send you a message.
     - Try to follow again within *24* hours. (opt-in by human)
-  - **If** there is a network instability and AL failed to follow back you after 1 hour:
-    - Please unfollow, wait 1 hour, and follow again.
+  - **If** there is a network instability and AL failed to follow back you **after 1 hour**:
+    - Please `unfollow`, `wait 1 hour`, and `follow` again.
 
 3. When you share Cloudflared link, AL will send `direct` message to you with information.
   - Direct messages older than *12* hours will be deleted.
