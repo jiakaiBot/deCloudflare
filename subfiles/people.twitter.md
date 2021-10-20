@@ -7,6 +7,7 @@
 
 
 
+- Closed down the mint site, deleted & purged DNS records from Cloudflare, and prevent the attacker from stealing from more people. 297 Fake Ninjas got minted will all be soon replaced/refunded. Near 100 were real.. Announcements soon ly fam. Namaste❤️‍🔥 ([nobuninjas](https://twitter.com/NobuNinjas/status/1450696262991421440))
 - Cloudflare seems to be blocking IPs from the EU. The site just times out.. ([bulcoder](https://twitter.com/BulCoder/status/1450518581733728261))
 - According to your TLD Policies page, .me should be available today, but it's not. ([spekkio](https://twitter.com/spekkio/status/1450499950853435393))
 - Got a tip the OS being slow issue is caused by Cloudflare blocking certain ISPs. Change your VPN to US and you're good to go. ([crypto_rodo](https://twitter.com/crypto_rodo/status/1450452408220389379))
