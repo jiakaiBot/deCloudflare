@@ -113,7 +113,7 @@ You can configure AL via `direct message`.
 
 - 1: Do not message me same domain again for a day.
   - Default is `off`.
-  - By default AL will notify you each time when you share _cloudflaresite.example_. Turning this settings _on_ will silence second post for 24 hours.
+  - By default AL will notify you each time when you share _inaccessible_ link. Turning this settings _on_ will silence second post for 24 hours.
 - 2: XXXXXXXX(   W I P  )XXXXXXXX
   - Default is `off`.
   - XXXXXXXX(   W I P  )XXXXXXXX
@@ -134,9 +134,10 @@ You can configure AL via `direct message`.
 - 7: Use alternative provider.
   - Default is `off`.
   - If you turn _on_ this settings AL will use [IAList](README.md) service.
-- 8: XXXXXXXXXXXX( W I P )XXXXXXXXXXXXXXXX
+- 8: Notify me if the link is known [Anti-Tor](../anti-tor_users/domains) link.
   - Default is `off`.
-  - If you turn _on_ this settings AL will tell you XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
+  - If you turn _on_ this settings AL will notify you when you share links that block Tor users.
+    - "_Hey website.com why are you blocking Tor!?_"
 
 
 ```
