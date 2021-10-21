@@ -7,6 +7,7 @@
 
 
 
+- just a reminder that in more advanced campaigns against your assets, geo blocking tends to be a short term bandaid strategy, as the spread of botnets today would make attackers shift to other geos/sources without much effort ([fserto](https://twitter.com/fserto/status/1450989470824615937))
 - Having a app behind Cloudflare Access seems to produce an "Invalid configuration" error in Vercel's domains list. Any clue why or idea how to fix? ([cruggdev](https://twitter.com/cruggdev/status/1450872593674907659))
 - Are you blocking outbound connections to Cloudflare or just incoming? Id imagine its hard to access much of the web if you cant access cloudflare as theyve stealth become the world's mitm proxy. ([k0rb1nda11as](https://twitter.com/K0rb1nDa11as/status/1450843745079939088))
 - " Some of these tactics included using DNS based command-and-control (C2) that mimicked Amazon AWS DNS traffic" I have blocked most cloud based services including Cloudfront and Cloudflare on my home network and only allow connections if absolutely necessary... ([ronnie35967255](https://twitter.com/ronnie35967255/status/1450841332042252295))
