@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare can I speak to a real person? my IP is denied or rate limmited on all the sites that use Cloudflare for some reason I think you think I'm using a VPN or something I'm just trying to get this fixed so if someone could help me that would be great. ([theheromc](https://twitter.com/TheHeroMC/status/1451308819775098880))
 - Sometimes the hosting-provider or cloudflare has some regional issues. If you have a vpn client available, try changing region. ([mjoaris](https://twitter.com/mjoaris/status/1451230002855485445))
 - Yeah it failed for me for past ~30 min or so. Was giving me a local Cloudflare error rather than ACS itself but maybe broader ([ndchiappini](https://twitter.com/ndchiappini/status/1451196260480733195))
 - You started blocking Cloudflare IP’s at five minute intervals, knowing this would affect Vercel customers. Not sure why you wouldn’t update us. Surely you can put yourself in our shoes and realize this is not the way to keep business. Call someone at Cloudflare. ([austinkhale](https://twitter.com/austinkhale/status/1451055614998691845))
