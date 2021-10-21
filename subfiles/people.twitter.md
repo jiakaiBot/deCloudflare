@@ -7,6 +7,7 @@
 
 
 
+- You started blocking Cloudflare IP’s at five minute intervals, knowing this would affect Vercel customers. Not sure why you wouldn’t update us. Surely you can put yourself in our shoes and realize this is not the way to keep business. Call someone at Cloudflare. ([austinkhale](https://twitter.com/austinkhale/status/1451055614998691845))
 - Hi CloudFlare, I'm curious if you have an extensive debugging tool to analyze a 520 error? Somewhere you get an error code with such a call, so where can I see it? ([aarclay](https://twitter.com/aarclay/status/1450696541774221318))
 - Cloudflare who do I have to email/contact to stop being harassed by your sales staff despite never signing up to any of your services? ([yuvrajhanspal](https://twitter.com/yuvrajhanspal/status/1451011266265321475))
 - just a reminder that in more advanced campaigns against your assets, geo blocking tends to be a short term bandaid strategy, as the spread of botnets today would make attackers shift to other geos/sources without much effort ([fserto](https://twitter.com/fserto/status/1450989470824615937))
