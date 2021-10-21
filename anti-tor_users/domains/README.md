@@ -38,7 +38,6 @@ Iuj el ili blokas la IP-adreson de Interreta Arkivo sur ilia serviloj.
 - "Kial ne estas la retejo, kiun mi serĉas en la arkivo?"
   - "Retejaj posedantoj eble petis, ke iliaj retejoj estu ekskluditaj de la Wayback-Maŝino."
 - Bonvolu vidi [INSTRUCTION.md](../../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
-- Ilo: [Karma::iarchive](http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/iarchive/)
 
 
 -----
@@ -61,7 +60,6 @@ Some of them block Internet Archive's IP address on their servers.
 - "Why isn't the site I'm looking for in the archive?"
   - "Site owners might have requested that their sites be excluded from the Wayback Machine."
 - See [INSTRUCTION.md](../../INSTRUCTION.md) for file purpose and format specifications.
-- Tool: [Karma::iarchive](http://im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/iarchive/)
 
 
 -----
