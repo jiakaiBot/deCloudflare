@@ -7,6 +7,7 @@
 
 
 
+- Sometimes the hosting-provider or cloudflare has some regional issues. If you have a vpn client available, try changing region. ([mjoaris](https://twitter.com/mjoaris/status/1451230002855485445))
 - Yeah it failed for me for past ~30 min or so. Was giving me a local Cloudflare error rather than ACS itself but maybe broader ([ndchiappini](https://twitter.com/ndchiappini/status/1451196260480733195))
 - You started blocking Cloudflare IP’s at five minute intervals, knowing this would affect Vercel customers. Not sure why you wouldn’t update us. Surely you can put yourself in our shoes and realize this is not the way to keep business. Call someone at Cloudflare. ([austinkhale](https://twitter.com/austinkhale/status/1451055614998691845))
 - Hi CloudFlare, I'm curious if you have an extensive debugging tool to analyze a 520 error? Somewhere you get an error code with such a call, so where can I see it? ([aarclay](https://twitter.com/aarclay/status/1450696541774221318))
