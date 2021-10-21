@@ -7,6 +7,7 @@
 
 
 
+- It's been 0 days since I was harassed by #Cloudflare for doing nothing wrong. ([grishka](https://mastodon.social/@grishka/107135157756507415))
 - jesus fuck cloudflare’s pissing me off ([lapin](https://varishangout.net/objects/a6bac1a3-a8f5-4787-b1b3-10b1539c66e0))
 - What if #deepState actors have been moving from one non-Cloudflared #bank to another, commiting #crimes and #atrocities as they go until all #banks belong to #Cloudflare? #extortion #atrocityStories #falseFlag #allBanksAreBelongToUs #AML #KYC #financialInstitution #centralBanks #cloudflareIsTheMalware #whyBitcoinCore ([dsfgs](https://activism.openworlds.info/@dsfgs/107133755387713163))
 - please... stop using cloudflare on your instances... ([mia](https://disqordia.space/objects/32e822e5-7160-41a3-acfd-6103bb77659a))
