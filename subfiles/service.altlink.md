@@ -96,11 +96,10 @@ www.wikimedia.org
 
 > Report a problem / Create an Issue
 
-You can create an Issue without git account. Just send a `private` or `direct` message.
+You can create an Issue without git account. Just send a `direct` message.
 And don't worry,
 
 - Multiple mentions (e.g. `@randomUser @altlink @otherUser blah blah blah`)
-- Some spam keywords
 - _Public_ message (e.g. `there's a bot called @altlink`)
 
 ...will be ignored to prevent spam.
