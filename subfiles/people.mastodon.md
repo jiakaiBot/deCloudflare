@@ -7,6 +7,7 @@
 
 
 
+- Just spent an hour debugging my peertube streaming set up, turns out I was using Cloudflare proxying instead of direct DNS, and Cloudflare doesn’t proxy RTMP… :blobcatoutage: ([uoya](https://soykaf.org/objects/4896adff-97a5-49b4-baf6-779d50be677a))
 - It's been 0 days since I was harassed by #Cloudflare for doing nothing wrong. ([grishka](https://mastodon.social/@grishka/107135157756507415))
 - jesus fuck cloudflare’s pissing me off ([lapin](https://varishangout.net/objects/a6bac1a3-a8f5-4787-b1b3-10b1539c66e0))
 - What if #deepState actors have been moving from one non-Cloudflared #bank to another, commiting #crimes and #atrocities as they go until all #banks belong to #Cloudflare? #extortion #atrocityStories #falseFlag #allBanksAreBelongToUs #AML #KYC #financialInstitution #centralBanks #cloudflareIsTheMalware #whyBitcoinCore ([dsfgs](https://activism.openworlds.info/@dsfgs/107133755387713163))
