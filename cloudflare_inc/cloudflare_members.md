@@ -324,6 +324,7 @@ Or is this merely a case of simple modesty?
 | Catherine Flagler | Recruiter |  |
 | Cathy Hsu | Employee |  |
 | Cavin Kindsvogel | Product Strategy Manager |  |
+| Cefan Daniel Rubin | Employee | |
 | Celso Martinho | Director Of Engineering in Lisbon | celso@cloudflare.com<br>hello@celso.io<br>https://celso.io/<br>https://www.linkedin.com/in/yizheng-huang<br>https://github.com/celso |
 | Chaat Butsunturn | Customer Development |  |
 | Chad Schaefer | Customer Development |  |
@@ -558,6 +559,7 @@ Or is this merely a case of simple modesty?
 | Felipe B. Flores | Customer Success Manager |  |
 | Felipe Tribaldos | Customer Development | https://twitter.com/ftribaldos<br>https://tribaldos.com/ |
 | Felix Hanau | Employee | [🖼](../image/gang/Felix_Hanau.jpg) |
+| Fernando Serto | Employee | |
 | Filipp Nisenzoun | Employee | [🖼](../image/gang/Filipp_Nisenzoun.jpg) |
 | Filippo Valsorda | Employee | https://twitter.com/filosottile<br>https://github.com/FiloSottile<br>filippo@cloudflare.com |
 | Flaviu Lang | Account Executive |  |
@@ -645,6 +647,7 @@ Or is this merely a case of simple modesty?
 | Hunter Blanks | Employee |  |
 | Hyojeong Sue Lim | Customer Development |  |
 | Ian Applegate | Systems Engineer |  |
+| Ian McQuoid | Employee | |
 | Ian Pye | Analytics Engineer |  |
 | Ian Spivey | Engineering Manager | ispivey@cloudflare.com<br>https://twitter.com/ispivey<br>https://ianspivey.com/<br>https://github.com/ispivey |
 | Ian Tolond | Employee |  |
@@ -1030,6 +1033,7 @@ Or is this merely a case of simple modesty?
 | Mariella Luger | Marketing Manager EMEA |  |
 | Marina Harper | HR Administrator |  |
 | Marina Jeon | Demand Generation Specialist |  |
+| Marina Sanusi | Employee | |
 | Mark Garfield | VP of Finance |  |
 | Mark Pashmfouroush | System Engineer | mark@markpash.me<br>https://stackoverflow.com/users/5111029/mark-pashmfouroush<br>https://github.com/MarkPash<br>https://bio.markpash.me/<br>https://keybase.io/markpash |
 | Mark Steyn | Front End Engineer |  |
@@ -1500,6 +1504,7 @@ Or is this merely a case of simple modesty?
 | Stewart Peugh | People Systems & Analytics |  |
 | Stuart Nesbitt | Employee |  |
 | Subhashni Balakrishnan | Systems Engineer |  |
+| Sudarsan Reddy | Employee | |
 | Sudheesh Singanamalla | Employee | [🖼](../image/gang/Sudheesh_Singanamalla.jpg) |
 | Sue H.J. Lim | Customer Development, Singapore |  |
 | Suleman Ahmad | Intern |  |
@@ -1537,6 +1542,7 @@ Or is this merely a case of simple modesty?
 | Tanya Paige | Recruiting |  |
 | Tanya Verma | Employee | [🖼](../image/gang/Tanya_Verma.jpg) |
 | Tara Vancil | Systems Engineer, Austin |  |
+| Tara Whalen | Employee | |
 | Tatiana Bradley | Cryptography Intern | [🖼](../image/gang/Tatiana_Bradley.jpg) |
 | Taylor Galusha | Legal Intern |  |
 | Taylor Lemmon | Account Executive |  |
