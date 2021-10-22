@@ -7,6 +7,10 @@
 
 
 
+- Hello, I am in the Netherlands too, I used browsec to circumvent the problem by connecting to a VPN in US. The problem is not completely solved I still cannot list new nfts, but I can do everything else. It is probably a problem of CloudFlare and not OpenSea ([celsius62346897](https://twitter.com/Celsius62346897/status/1450411726999011334))
+- Our firewall at Vercel had detected a large DDoS attack coming from CF and have blocked CF IPs at 5 minutes intervals. CF IPs are pooled and shared so it is affecting some Vercel deployments behind CF proxy. ([_wli](https://twitter.com/_wli/status/1451066075890667520))
+- i really fucking hate the cloudflare captcha bullshit. how can nerds do this to one another?!!! ([acursedfemme](https://twitter.com/acursedfemme/status/1451337306728583173))
+- CloudflareSTUS Cloudflare Unable to make updates to billing information. Red banner at bottom "Error communicating with the billing system." ([ricktheartist](https://twitter.com/ricktheartist/status/1451335231852716032))
 - Cloudflare can I speak to a real person? my IP is denied or rate limmited on all the sites that use Cloudflare for some reason I think you think I'm using a VPN or something I'm just trying to get this fixed so if someone could help me that would be great. ([theheromc](https://twitter.com/TheHeroMC/status/1451308819775098880))
 - Sometimes the hosting-provider or cloudflare has some regional issues. If you have a vpn client available, try changing region. ([mjoaris](https://twitter.com/mjoaris/status/1451230002855485445))
 - Yeah it failed for me for past ~30 min or so. Was giving me a local Cloudflare error rather than ACS itself but maybe broader ([ndchiappini](https://twitter.com/ndchiappini/status/1451196260480733195))
