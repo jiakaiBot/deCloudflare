@@ -25,7 +25,7 @@ Man-in-the-middle attack is a serious offense.
 If you′re using Cloudflare on your website, you won′t get first rank.
 You shouldn′t use it if you value visitor′s privacy.
 ```
--- [Ss](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
+-- [Ss](https://sercxi.eu.org/)
 
 
 ```
@@ -161,6 +161,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [privacy.resistFingerprinting makes Cloudflare DDoS protection loop forever](https://bugzilla.mozilla.org/show_bug.cgi?id=1735193)
 - [Firefox resistFingerprinting vs. Cloudflare challenge](https://community.cloudflare.com/t/firefox-resistfingerprinting-vs-cloudflare-challenge/306354)
 - [You need to boycott CloudFlare](https://news.slashdot.org/comments.pl?sid=19613219&cid=61723657)
 - [Cloudflare's inaccessible browser contradicts the company's mission a11y browsers](https://lobste.rs/s/epyspp)
