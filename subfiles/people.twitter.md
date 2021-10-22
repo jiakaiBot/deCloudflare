@@ -7,6 +7,9 @@
 
 
 
+- Any plans to add registering/transferring .gg domains? It’s something I’ve been waiting on for a while. ([bloxogg](https://twitter.com/BLOXOgg/status/1451449339151331363))
+- Error 404. Cloudflare server ok Your browser is ok The website you're looking for seems to be down or offline ([mixedbyrayza](https://twitter.com/mixedbyRayza/status/1451459712361369603))
+- Please fix cloudflare host error in swiggy ([thetechotech](https://twitter.com/TheTechotech/status/1451447823505915904))
 - Hello! If you find you may have been blocked by Cloudflare, please try clearing your cache & cookies. If that does not help, please try using a different browser. Best Regards, Elias at LocalBitcoins ([localbitcoins](https://twitter.com/LocalBitcoins/status/1451440404591697920))
 - Is there any way to use Vapor with an existing Cloudflare account for DNS? Getting "Error 1014: CNAME Cross-User Banned" when CNAME'ing our domain to the Vapor hostname ([corey_mcmahon](https://twitter.com/corey_mcmahon/status/1451409943114829825))
 - Hello, I am in the Netherlands too, I used browsec to circumvent the problem by connecting to a VPN in US. The problem is not completely solved I still cannot list new nfts, but I can do everything else. It is probably a problem of CloudFlare and not OpenSea ([celsius62346897](https://twitter.com/Celsius62346897/status/1450411726999011334))
