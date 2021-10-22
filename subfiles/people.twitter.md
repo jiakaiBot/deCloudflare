@@ -7,6 +7,7 @@
 
 
 
+- Issue resolved after a cache clear. That was odd. ([mersch_ross](https://twitter.com/mersch_ross/status/1451548652552470545))
 - Cloudflare seems to have established a powerful firewall of some sort blocking any non-residential IP addresses recently from access to websites hosted on their cloud services (mainly American websites). Are you aware of this and working on a solution? ([shervinsafineh](https://twitter.com/shervinsafineh/status/1451499585713618945))
 - Any plans to add registering/transferring .gg domains? It’s something I’ve been waiting on for a while. ([bloxogg](https://twitter.com/BLOXOgg/status/1451449339151331363))
 - Error 404. Cloudflare server ok Your browser is ok The website you're looking for seems to be down or offline ([mixedbyrayza](https://twitter.com/mixedbyRayza/status/1451459712361369603))
