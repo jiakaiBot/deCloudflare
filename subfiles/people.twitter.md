@@ -7,6 +7,7 @@
 
 
 
+- Hello! If you find you may have been blocked by Cloudflare, please try clearing your cache & cookies. If that does not help, please try using a different browser. Best Regards, Elias at LocalBitcoins ([localbitcoins](https://twitter.com/LocalBitcoins/status/1451440404591697920))
 - Is there any way to use Vapor with an existing Cloudflare account for DNS? Getting "Error 1014: CNAME Cross-User Banned" when CNAME'ing our domain to the Vapor hostname ([corey_mcmahon](https://twitter.com/corey_mcmahon/status/1451409943114829825))
 - Hello, I am in the Netherlands too, I used browsec to circumvent the problem by connecting to a VPN in US. The problem is not completely solved I still cannot list new nfts, but I can do everything else. It is probably a problem of CloudFlare and not OpenSea ([celsius62346897](https://twitter.com/Celsius62346897/status/1450411726999011334))
 - Our firewall at Vercel had detected a large DDoS attack coming from CF and have blocked CF IPs at 5 minutes intervals. CF IPs are pooled and shared so it is affecting some Vercel deployments behind CF proxy. ([_wli](https://twitter.com/_wli/status/1451066075890667520))
