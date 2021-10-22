@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare has helped me save 122 GB in the last month. 5,222,594 SSL requests served in the last month! 642 malicious requests blocked or challenged in the last month cloudflare ([griffins](https://twitter.com/griffins/status/1451393828435345414))
 - Hello, I am in the Netherlands too, I used browsec to circumvent the problem by connecting to a VPN in US. The problem is not completely solved I still cannot list new nfts, but I can do everything else. It is probably a problem of CloudFlare and not OpenSea ([celsius62346897](https://twitter.com/Celsius62346897/status/1450411726999011334))
 - Our firewall at Vercel had detected a large DDoS attack coming from CF and have blocked CF IPs at 5 minutes intervals. CF IPs are pooled and shared so it is affecting some Vercel deployments behind CF proxy. ([_wli](https://twitter.com/_wli/status/1451066075890667520))
 - i really fucking hate the cloudflare captcha bullshit. how can nerds do this to one another?!!! ([acursedfemme](https://twitter.com/acursedfemme/status/1451337306728583173))
