@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-10-22: [Increased HTTP 522 Errors in South America](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b09fvs6kq6d6)
 - 2021-10-20: [Elevated number of 502 errors in PDX](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kdlyny7s9sjw)
 - 2021-10-14: [Network Performance Issues in the Ashburn, VA datacenter](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bw6g14w5b01f)
 - 2021-10-12: [Network Performance Issues in Prague](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6psc5m2gfbyz)
