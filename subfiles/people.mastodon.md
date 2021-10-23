@@ -7,6 +7,7 @@
 
 
 
+- Okay after a week with Plausible Analytics and knowing previous rough stats because I proxied my traffic thru Cloudflare for a while I can now safely conclude that JS based Analytics are impossible with my audience. I am kind of sad that I can't use Plausible because it is a really nice way to do privacy friendly Analytics but on the other hand I am a bit proud that I have the readers I do. Thinking about possibly using the ELK stack with NGINX logs but I have yet to take a closer look at that. ([gamey](https://fosstodon.org/@gamey/107151967556628666))
 - Did you know that everyday is International #Cloudflare Awareness Day? Visit too #financial websites you use in #TorBrowser, after pressing Ctrl+Shift+E to get up the network tab. If the HTTP response from the server says Cloudflare, congratulations. You have the best reason to find a new service. #ICAD # banks #deleteCloudflare ([dsfgs](https://activism.openworlds.info/@dsfgs/107146116657430526))
 - Just spent an hour debugging my peertube streaming set up, turns out I was using Cloudflare proxying instead of direct DNS, and Cloudflare doesn’t proxy RTMP… :blobcatoutage: ([uoya](https://soykaf.org/objects/4896adff-97a5-49b4-baf6-779d50be677a))
 - It's been 0 days since I was harassed by #Cloudflare for doing nothing wrong. ([grishka](https://mastodon.social/@grishka/107135157756507415))
