@@ -7,6 +7,8 @@
 
 
 
+- Cloudflare blocked 99 bad requests from hitting my website in the last 30 days. cloudflare ([gkarogo](https://twitter.com/gKarogo/status/1451838232740646914))
+- I actually fuck up quite a bit. Yesterday I moved a purchased site to a new host & switched DNS, only to find that the zip they sent was corrupt & only contained 1/10th of the files. Loads of 404s, switched DNS back but bc we both used Cloudflare, I killed the site for 4 hours! ([iannuttall](https://twitter.com/iannuttall/status/1451838443483451394))
 - using a reverse proxy behind a reverse proxy is so fucking cursed (nodejs + nginx + cloudflare) ([phis0n](https://twitter.com/phis0n/status/1451794157995921413))
 - After a bit of thought, I've removed both Google Analytics and Cloudflare Web Analytics from my website, because they don't fucking hold a candle to just the access logs I have access to ([icze4r](https://twitter.com/icze4r/status/1451593563255541764))
 - Anyone can be a trader. A bad one. Just hold and sit tight, yes it will come down, but who the fuck knows when. This run from 109 to 180 I've only seen in UPST (it went up 100% in one day LOL) and I made the dumb mistake of selling after that. Not doing it again. ([pedromarinho94](https://twitter.com/pedromarinho94/status/1451607385844375561))
