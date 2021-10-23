@@ -7,6 +7,7 @@
 
 
 
+- using a reverse proxy behind a reverse proxy is so fucking cursed (nodejs + nginx + cloudflare) ([phis0n](https://twitter.com/phis0n/status/1451794157995921413))
 - After a bit of thought, I've removed both Google Analytics and Cloudflare Web Analytics from my website, because they don't fucking hold a candle to just the access logs I have access to ([icze4r](https://twitter.com/icze4r/status/1451593563255541764))
 - Anyone can be a trader. A bad one. Just hold and sit tight, yes it will come down, but who the fuck knows when. This run from 109 to 180 I've only seen in UPST (it went up 100% in one day LOL) and I made the dumb mistake of selling after that. Not doing it again. ([pedromarinho94](https://twitter.com/pedromarinho94/status/1451607385844375561))
 - Issue resolved after a cache clear. That was odd. ([mersch_ross](https://twitter.com/mersch_ross/status/1451548652552470545))
