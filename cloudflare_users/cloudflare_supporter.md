@@ -1248,6 +1248,7 @@ Do not create new issue or we will close it as duplicate.
 | [desertdog99@twitter](https://twitter.com/desertdog99/status/1405382173734014983) | advertise |
 | [detikepri@twitter](https://twitter.com/detikepri/status/1448139774171103239) | advertise |
 | [DeukGu2@twitter](https://twitter.com/DeukGu2/status/1394341921418620935) | advertise |
+| [DevArtSoftCo@twitter](https://twitter.com/DevArtSoftCo/status/1451451931713359878) | advertise |
 | [DevendraRThaku1@twitter](https://twitter.com/DevendraRThaku1/status/1394640565875052546) | advertise |
 | [devi1ish@twitter](https://twitter.com/devi1ish/status/1379733715467796480) | advertise |
 | [DeviChooki@twitter](https://twitter.com/DeviChooki/status/1395196879302914048) | advertise |
@@ -1681,6 +1682,7 @@ Do not create new issue or we will close it as duplicate.
 | [grekgrok@twitter](https://twitter.com/grekgrok/status/1400089932262088707) | advertise |
 | [Grewal74166785@twitter](https://twitter.com/Grewal74166785/status/1405490752663261186) | advertise |
 | [GreySlitaz@twitter](https://twitter.com/GreySlitaz/status/1393006277333331976) | advertise |
+| [griffins@twitter](https://twitter.com/griffins/status/1451393828435345414) | advertise |
 | [GrimyTalibandz@twitter](https://twitter.com/GrimyTalibandz/status/1381042857931386888) | advertise |
 | [grizta1@twitter](https://twitter.com/grizta1/status/1404102426567659525) | advertise |
 | [grublabapp@twitter](https://twitter.com/grublabapp/status/1405904308852375553) | advertise |
@@ -6277,6 +6279,7 @@ Do not create new issue or we will close it as duplicate.
 | [YSHRIVASTWA@twitter](https://twitter.com/YSHRIVASTWA/status/1400026519267725312) | advertise |
 | [YThu999@twitter](https://twitter.com/YThu999/status/1378320350136655872) | advertise |
 | [ytPGamerX@twitter](https://twitter.com/ytPGamerX/status/1425139212152500224) | advertise |
+| [yubian_meiwu@twitter](https://twitter.com/yubian_meiwu/status/1451610756370161665) | advertise |
 | [yuenbeihai@twitter](https://twitter.com/yuenbeihai/status/1376673572677021699) | advertise |
 | [YueYue05673762@twitter](https://twitter.com/YueYue05673762/status/1391670328879951872) | advertise |
 | [Yuki92777462@twitter](https://twitter.com/Yuki92777462/status/1389853033761165326) | advertise |
