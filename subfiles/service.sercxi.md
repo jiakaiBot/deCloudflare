@@ -4,7 +4,7 @@
 ![](../image/ss-sercxi.png)
 
 
-**[Ss](https://sercxi.eu.org)** (pronounce /ɛsɛs/; other name "_Serĉi_" (_Sercxi_), pronounce /ˈsert͡ʃi/), previously called _[Searxes](https://web.archive.org/web/20210614033612/https://en.wikipedia.org/w/index.php?title=Searx&oldid=906373508)_, is the **world's first anti-cloudflare search engine** website for [Tor users](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) and [clearnet users](https://en.wikipedia.org/wiki/Clearnet_(networking)), operating since [year 2016](https://addons.thunderbird.net/en-us/firefox/addon/searxes/).
+**[Ss](https://sercxi.eu.org)** (pronounce /ɛsɛs/; other name "_Serĉi_" (_Sercxi_), pronounce /ˈsert͡ʃi/), previously called _[Searxes](https://web.archive.org/web/20210614033612/https://en.wikipedia.org/w/index.php?title=Searx&oldid=906373508)_, is the **world's first anti-cloudflare search engine** website for [**Tor users**](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) and [clearnet users](https://en.wikipedia.org/wiki/Clearnet_(networking)), operating since [year 2016](https://addons.thunderbird.net/en-us/firefox/addon/searxes/).
 
 Some people may think about [Schutzstaffel](https://en.wikipedia.org/wiki/SS) on first sight but do not get confused; the second letter s is _lowercase_ taken from previous name.
 
