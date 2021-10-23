@@ -7,7 +7,7 @@
 This is `opt-in` service.
 
 
-> A little history
+### A little history
 
 Once upon a time there was a bot named "_[CloudflareLink](https://social.privacytools.io/@cloudflarelink/with_replies)_" which was created by Anonymous.
 It replied to many users who shared CF links publicly.
@@ -38,7 +38,7 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
 
 
 
-> Subscribe
+### How to Subscribe
 
 1. Follow [Alternative Link (AL)](https://mamot.fr/@altlink).
   - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking altlink.
@@ -59,7 +59,7 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
       - [Should I Delete My Tweets?](https://www.wired.com/story/the-know-it-alls-should-i-delete-my-tweets/)
 
 
-> Unsubscribe
+### How to Unsubscribe
 
 1. Just `unfollow` AL's account **on your side**.
   - **AL will unfollow you within an hour**.
@@ -67,14 +67,14 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
   - If you've changed your mind and want to subscribe(opt-in) again, `unblock`, `unfollow` AL and `follow` again.
 
 
-> How to hide _boosted_ toots
+### How to hide _boosted_ toots
 
 If you just want to use `direct message function` and don't want to know other [user's voices](../PEOPLE.md), just use Mastodon's "_Hide boost_" function like below picture.
 
 ![](../image/mastodon_hide_boosts.jpg)
 
 
-> "_Is it really CloudFlare!?_" check
+### "_Is it really CloudFlare!?_" check
 
 Just send `domain name` or `URL` as direct message and AL will answer within 1 minute.
 
@@ -94,7 +94,7 @@ www.wikimedia.org
 ```
 
 
-> Report a problem / Create an Issue
+### Report a problem / Create an Issue
 
 You can create an Issue without git account. Just send a `direct` message.
 And don't worry,
@@ -106,16 +106,18 @@ And don't worry,
 Your username part (before `@`) will be masked to protect your privacy.
 
 
-> Settings
+### Settings
 
 You can configure AL via `direct message`.
 
 - 1: Do not message me same domain again for a day.
   - Default is `off`.
   - By default AL will notify you each time when you share _inaccessible_ link. Turning this settings _on_ will silence second post for 24 hours.
-- 2: XXXXXXXX(   W I P  )XXXXXXXX
+- 2: Suggest other non-Cloudflare alternative sites when available.
   - Default is `off`.
-  - XXXXXXXX(   W I P  )XXXXXXXX
+  - Let's say you boost or post Cloudflared news site. AL will suggest similar websites related to your URL within 1 minute. Note that AL might suggest you inaccurate result.
+    - AL will not suggest anything to you if your account is `Bot`.
+    - You can use this service `only once per 4 minutes` (this is to prevent attack from Mastodon)
 - 3: Count my links and send me report monthly.
   - Default is `off`.
   - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we **never** save (& don't care) what you shared.
