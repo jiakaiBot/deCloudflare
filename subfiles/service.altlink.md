@@ -113,11 +113,11 @@ You can configure AL via `direct message`.
 - 1: Do not message me same domain again for a day.
   - Default is `off`.
   - By default AL will notify you each time when you share _inaccessible_ link. Turning this settings _on_ will silence second post for 24 hours.
-- 2: Suggest other non-Cloudflare alternative sites when available.
+- 2: Suggest other non-Cloudflare alternative sites _when available_.
   - Default is `off`.
-  - Let's say you boost or post Cloudflared news site. AL will suggest similar websites related to your URL within 1 minute. Note that AL might suggest you inaccurate result.
-    - AL will not suggest anything to you if your account is `Bot`.
-    - You can use this service `only once per 4 minutes` (this is to prevent attack from Mastodon)
+  - Let's say you boost or post Cloudflared news site. AL will suggest similar websites related to your URL within 1 minute. Note that AL might suggest inaccurate result.
+    - AL will not suggest anything if your account is `Bot`.
+    - You can use this service `only once per 4 minutes` (to prevent attack from Mastodon)
 - 3: Count my links and send me report monthly.
   - Default is `off`.
   - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we **never** save (& don't care) what you shared.
