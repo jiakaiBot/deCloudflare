@@ -76,7 +76,7 @@ If you just want to use `direct message function` and don't want to know other [
 
 ### "_Is it really CloudFlare!?_" check
 
-Just send `domain name` or `URL` as direct message and AL will answer within 1 minute.
+Just send `domain name` or `URL` as `direct message` and AL will answer within 1 minute.
 
 Here's an example.
 
