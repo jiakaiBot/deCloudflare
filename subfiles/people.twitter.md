@@ -7,6 +7,7 @@
 
 
 
+- So prince protects them personally? Really disingenuous of you. Why not just ask what u need instead of attacking him personally? You don’t even name the SITES!! What are the name of the sites? Ask them to stop offering security!! ([kweriousgeorge](https://twitter.com/kweriousgeorge/status/1452317596217450498))
 - Hi i need someone to help me please after updating my free avg to full paid, which includes a VPN, I can no longer access your website because of cloudflare, even after removing the VPN, I get stuck in a captcha loop. I can't even access the support from your website. ([mskazza](https://twitter.com/MsKazza/status/1451901657718087682))
 - After a bit of thought, I've removed both Google Analytics and Cloudflare Web Analytics from my website, because they don't fucking hold a candle to just the access logs I have access to ([icze4r](https://twitter.com/icze4r/status/1451593563255541764))
 - Anyone can be a trader. A bad one. Just hold and sit tight, yes it will come down, but who the fuck knows when. This run from 109 to 180 I've only seen in UPST (it went up 100% in one day LOL) and I made the dumb mistake of selling after that. Not doing it again. ([pedromarinho94](https://twitter.com/pedromarinho94/status/1451607385844375561))
