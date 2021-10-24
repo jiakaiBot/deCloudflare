@@ -971,6 +971,7 @@ ns1.gsgpm1043.siteground.biz
 ns1.gsgpm1044.siteground.biz
 ns1.gsgpm1045.siteground.biz
 ns1.gsgpm1046.siteground.biz
+ns1.gsgpm1048.siteground.biz
 ns1.gsgpm2.siteground.biz
 ns1.gsgpm3.siteground.biz
 ns1.gsgpm4.siteground.biz
@@ -2916,6 +2917,7 @@ ns2.gsgpm1043.siteground.biz
 ns2.gsgpm1044.siteground.biz
 ns2.gsgpm1045.siteground.biz
 ns2.gsgpm1046.siteground.biz
+ns2.gsgpm1048.siteground.biz
 ns2.gsgpm2.siteground.biz
 ns2.gsgpm3.siteground.biz
 ns2.gsgpm4.siteground.biz
