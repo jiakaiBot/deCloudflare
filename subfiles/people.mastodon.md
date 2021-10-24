@@ -7,6 +7,7 @@
 
 
 
+- Do not strive to achieve anything meaningful – #Cloudflare is watching.&quot; #cloudflareIsWatching ([dsfgs](https://activism.openworlds.info/@dsfgs/107158241670791427))
 - Poll: Should the 'Block Cloudflare MITM Attack' (#BCMA) Firefox #addon be a part of #TorBrowser by default? Explain. If so, should the default behaviour be to warn the user that they are about to access a #Cloudflare site? Should it stop there, or warn users about all known #BigTech #surveillance, eg. #amazon, #google etc? #massSurveillance #deleteCloudflare #TorProject ([dsfgs](https://activism.openworlds.info/@dsfgs/107157433164115981))
 - ok this shit is pissing me off it’s been a continous problem for days. i dont know if it’s cloudflare or danbooru itself being an ass the images just won’t load. something about cross origin request being blocked that i’m very certain i had nothing to do with. ([lapin](https://varishangout.net/objects/b5040e3e-e249-45c9-ab52-1ca94acc8b07))
 - Okay after a week with Plausible Analytics and knowing previous rough stats because I proxied my traffic thru Cloudflare for a while I can now safely conclude that JS based Analytics are impossible with my audience. I am kind of sad that I can't use Plausible because it is a really nice way to do privacy friendly Analytics but on the other hand I am a bit proud that I have the readers I do. Thinking about possibly using the ELK stack with NGINX logs but I have yet to take a closer look at that. ([gamey](https://fosstodon.org/@gamey/107151967556628666))
