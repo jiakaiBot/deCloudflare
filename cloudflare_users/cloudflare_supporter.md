@@ -1576,6 +1576,7 @@ Do not create new issue or we will close it as duplicate.
 | [Furymdy@twitter](https://twitter.com/Furymdy/status/1380487672875999234) | advertise |
 | [FUTUREBIRD5@twitter](https://twitter.com/FUTUREBIRD5/status/1380072593953185792) | advertise |
 | [futureboss17@twitter](https://twitter.com/futureboss17/status/1377955125222772738) | advertise |
+| [fuvrkn@twitter](https://twitter.com/fuvrkn/status/1452251677625626636) | advertise |
 | [fuxklif@twitter](https://twitter.com/fuxklif/status/1377696833498050565) | advertise |
 | [fv_sestan@twitter](https://twitter.com/fv_sestan/status/1397051138210369538) | advertise |
 | [FXhkv@twitter](https://twitter.com/FXhkv/status/1395869051964985347) | advertise |
@@ -3236,6 +3237,7 @@ Do not create new issue or we will close it as duplicate.
 | [mansport4647@twitter](https://twitter.com/mansport4647/status/1382071713043603463) | advertise |
 | [manueltcl@twitter](https://twitter.com/manueltcl/status/1446279919022092292) | advertise |
 | [manveerkhubber2@twitter](https://twitter.com/manveerkhubber2/status/1396747736863559680) | advertise |
+| [manwiththelens@twitter](https://twitter.com/manwiththelens/status/1452280682613444608) | advertise |
 | [MaPhyuPhyuWin2@twitter](https://twitter.com/MaPhyuPhyuWin2/status/1395061790921433088) | advertise |
 | [Mapkmaster@twitter](https://twitter.com/Mapkmaster/status/1387092246756007941) | advertise |
 | [marblerosee@twitter](https://twitter.com/marblerosee/status/1394172478780411906) | advertise |
