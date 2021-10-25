@@ -7,6 +7,7 @@
 
 
 
+- annoying 1014 cloudflare error. Pls ensure CNAME/DNS updated on cf dash. ([mynewtweet](https://twitter.com/MyNewTweet/status/1452571768380555267))
 - And stop using cloudflare! It's not able designed to handle the massive amount of hits you get with a launch.. It's whole purpose is to slow down hits so you can't be hit by a DDOS attack. ([yrtria](https://twitter.com/yrtria/status/1452472976981512195))
 - So prince protects them personally? Really disingenuous of you. Why not just ask what u need instead of attacking him personally? You don’t even name the SITES!! What are the name of the sites? Ask them to stop offering security!! ([kweriousgeorge](https://twitter.com/kweriousgeorge/status/1452317596217450498))
 - Hi i need someone to help me please after updating my free avg to full paid, which includes a VPN, I can no longer access your website because of cloudflare, even after removing the VPN, I get stuck in a captcha loop. I can't even access the support from your website. ([mskazza](https://twitter.com/MsKazza/status/1451901657718087682))
