@@ -1,7 +1,9 @@
 # Alternative Link
 
 
-![](../image/altlink_sample.jpg)
+| 🖼 | 🖼 |
+| -- | -- |
+| ![](../image/altlink_sample.jpg) | ![](../image/altlink_suggest.jpg) |
 
 
 This is `opt-in` service.
