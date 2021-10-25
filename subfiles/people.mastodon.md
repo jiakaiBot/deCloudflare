@@ -7,6 +7,7 @@
 
 
 
+- Last we heard, #HTML is for #website content and #CSS and webBrowsers are almost exclusively for #layout and #presentation. Are #centralPlanners in the US getting other ideas? (Also related are #HTTPResponses or #IPAddresses for learning whether a site is #Cloudflare) ([dsfgs](https://activism.openworlds.info/@dsfgs/107160388154625522))
 - Do not strive to achieve anything meaningful – #Cloudflare is watching.&quot; #cloudflareIsWatching ([dsfgs](https://activism.openworlds.info/@dsfgs/107158241670791427))
 - Poll: Should the 'Block Cloudflare MITM Attack' (#BCMA) Firefox #addon be a part of #TorBrowser by default? Explain. If so, should the default behaviour be to warn the user that they are about to access a #Cloudflare site? Should it stop there, or warn users about all known #BigTech #surveillance, eg. #amazon, #google etc? #massSurveillance #deleteCloudflare #TorProject ([dsfgs](https://activism.openworlds.info/@dsfgs/107157433164115981))
 - ok this shit is pissing me off it’s been a continous problem for days. i dont know if it’s cloudflare or danbooru itself being an ass the images just won’t load. something about cross origin request being blocked that i’m very certain i had nothing to do with. ([lapin](https://varishangout.net/objects/b5040e3e-e249-45c9-ab52-1ca94acc8b07))
