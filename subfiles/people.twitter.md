@@ -7,6 +7,7 @@
 
 
 
+- Per CloudFlare, this error indicates, "A 522 error happens when a TCP connection to the web server could not be established. This typically happens when Cloudflare requests to the origin (your webserver) get blocked. When this happens, you’ll see “ERRCONNECTIONTIMEDOUT”." ([63kk01](https://twitter.com/63kk01/status/1452620351461003264))
 - annoying 1014 cloudflare error. Pls ensure CNAME/DNS updated on cf dash. ([mynewtweet](https://twitter.com/MyNewTweet/status/1452571768380555267))
 - And stop using cloudflare! It's not able designed to handle the massive amount of hits you get with a launch.. It's whole purpose is to slow down hits so you can't be hit by a DDOS attack. ([yrtria](https://twitter.com/yrtria/status/1452472976981512195))
 - So prince protects them personally? Really disingenuous of you. Why not just ask what u need instead of attacking him personally? You don’t even name the SITES!! What are the name of the sites? Ask them to stop offering security!! ([kweriousgeorge](https://twitter.com/kweriousgeorge/status/1452317596217450498))
