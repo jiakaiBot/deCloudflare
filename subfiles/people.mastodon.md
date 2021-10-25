@@ -7,6 +7,7 @@
 
 
 
+- There is so much great work out there do to. But then you realise #Cloudflare can just destroy any attempt to do great work — it can even destroy a young, healthy athlete. Its sad to learn that #TorProject are hostile to people who speak up against Cloudflare. When we say #grants are slightly #toxic this is the type of thing we mean. Its pretty obvious that Cloudflare have #infiltrated #GuardianProject, and compromised them in some way. Long live #I2P. #HSv2 #HSv3 #extortion #nym #lochaNet ([dsfgs](https://activism.openworlds.info/@dsfgs/107160581484032560))
 - Last we heard, #HTML is for #website content and #CSS and webBrowsers are almost exclusively for #layout and #presentation. Are #centralPlanners in the US getting other ideas? (Also related are #HTTPResponses or #IPAddresses for learning whether a site is #Cloudflare) ([dsfgs](https://activism.openworlds.info/@dsfgs/107160388154625522))
 - Do not strive to achieve anything meaningful – #Cloudflare is watching.&quot; #cloudflareIsWatching ([dsfgs](https://activism.openworlds.info/@dsfgs/107158241670791427))
 - Poll: Should the 'Block Cloudflare MITM Attack' (#BCMA) Firefox #addon be a part of #TorBrowser by default? Explain. If so, should the default behaviour be to warn the user that they are about to access a #Cloudflare site? Should it stop there, or warn users about all known #BigTech #surveillance, eg. #amazon, #google etc? #massSurveillance #deleteCloudflare #TorProject ([dsfgs](https://activism.openworlds.info/@dsfgs/107157433164115981))
