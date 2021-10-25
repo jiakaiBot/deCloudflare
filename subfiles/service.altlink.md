@@ -115,14 +115,14 @@ You can configure AL via `direct message`.
   - By default AL will notify you each time when you share _inaccessible_ link. Turning this settings _on_ will silence second post for 24 hours.
 - 2: Suggest other non-Cloudflare alternative sites _when available_.
   - Default is `off`.
-    - **Test Stage**: `Boosted Toots` is `on`.
+    - **Test Stage**: Currently this is `on` until October.
   - Let's say you boost or post Cloudflared news site. AL will suggest some similar websites related to your URL within 1 minute. Note that AL might suggest inaccurate result.
     - AL will not suggest anything if your account is `Bot`.
-    - Rate-Limit: AL will suggest `only once per 3 minutes`. For example you post:
+    - Rate-Limit: AL will suggest `only once per 2 minutes`. For example you post:
       - 10:**00** `http://example.com/article-a.html` (AL will suggest)
-      - 10:01 `http://example.net/article-b.html` (_will be ignored_)
-      - 10:02 `http://example.org/article-c.html` (_will be ignored_)
-      - 10:**04** `http://example.uk/article-d.html` (AL will suggest)
+      - 10:**01** `http://example.net/article-b.html` (_will be ignored_)
+      - 10:**02** `http://example.org/article-c.html` (AL will suggest)
+      - 10:**03** `http://example.uk/article-d.html` (_will be ignored_)
 - 3: Count my links and send me report monthly.
   - Default is `off`.
   - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we **never** save (& don't care) what you shared.
