@@ -7,11 +7,9 @@
 
 
 
-- That non standard API is implemented by Cloudflare, and also Vercel Edge Functions. Also all error messages I tested are exactly the same, and Vercel Edge Functions has all the same URL parsing bugs as CFW. For example new ([lcasdev](https://twitter.com/lcasdev/status/1453072842111787026))
 - Your recently updated Cloudflare rules are blocking RSS readers from being able to read your new releases feed :( ([defaced](https://twitter.com/defaced/status/1453072378850947076))
 - Your web platform is down. I'm getting Cloudflare error messages. You should...um...fix that please. ([libtechconfess](https://twitter.com/LibTechConfess/status/1453027521457426438))
 - Same issue here. three different accounts cannot logon ([geneschrempf](https://twitter.com/geneschrempf/status/1453023454312210433))
-- "fully self hosting" im cheating because im using cloudflare to protect my ip but you know what i cant afford to have some random fuck decide they want to ddos my site and therefore my ability to connect to the internet so. ([murrzbow](https://twitter.com/murrzbow/status/1453014442128646147))
 - my gosh Cloudflare bot protection is so bad! you are blocking google on sitemap.xml everything is so wrong there... ([ditorojuanf](https://twitter.com/ditorojuanf/status/1452601784950722560))
 - The bot protection was good but it started blocking payment confirmation request from my processor ([bhattraisagar](https://twitter.com/bhattraisagar/status/1451729622429622274))
 - 2) Cookies might be coming from akamai/cloudflare. These vendors are usually the reason you are seeing the Captcha nonsense. And this goes into 3. ([redpillx2](https://twitter.com/redpillx2/status/1452704982751395840))
