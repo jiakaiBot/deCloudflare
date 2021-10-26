@@ -7,6 +7,8 @@
 
 
 
+- That non standard API is implemented by Cloudflare, and also Vercel Edge Functions. Also all error messages I tested are exactly the same, and Vercel Edge Functions has all the same URL parsing bugs as CFW. For example new ([lcasdev](https://twitter.com/lcasdev/status/1453072842111787026))
+- Your recently updated Cloudflare rules are blocking RSS readers from being able to read your new releases feed :( ([defaced](https://twitter.com/defaced/status/1453072378850947076))
 - Your web platform is down. I'm getting Cloudflare error messages. You should...um...fix that please. ([libtechconfess](https://twitter.com/LibTechConfess/status/1453027521457426438))
 - Same issue here. three different accounts cannot logon ([geneschrempf](https://twitter.com/geneschrempf/status/1453023454312210433))
 - "fully self hosting" im cheating because im using cloudflare to protect my ip but you know what i cant afford to have some random fuck decide they want to ddos my site and therefore my ability to connect to the internet so. ([murrzbow](https://twitter.com/murrzbow/status/1453014442128646147))
