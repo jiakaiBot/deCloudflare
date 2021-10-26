@@ -7,6 +7,7 @@
 
 
 
+- "fully self hosting" im cheating because im using cloudflare to protect my ip but you know what i cant afford to have some random fuck decide they want to ddos my site and therefore my ability to connect to the internet so. ([murrzbow](https://twitter.com/murrzbow/status/1453014442128646147))
 - my gosh Cloudflare bot protection is so bad! you are blocking google on sitemap.xml everything is so wrong there... ([ditorojuanf](https://twitter.com/ditorojuanf/status/1452601784950722560))
 - The bot protection was good but it started blocking payment confirmation request from my processor ([bhattraisagar](https://twitter.com/bhattraisagar/status/1451729622429622274))
 - 2) Cookies might be coming from akamai/cloudflare. These vendors are usually the reason you are seeing the Captcha nonsense. And this goes into 3. ([redpillx2](https://twitter.com/redpillx2/status/1452704982751395840))
