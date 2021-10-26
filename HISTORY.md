@@ -5,6 +5,11 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-10-25: [Possible Network Congestion in Brussels](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rh66zvf2ynsz)
+- 2021-10-25: [Cloudflare RPKI Toolkit service issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/h8lhkgzsd7q4)
+- 2021-10-25: [Elevated number of 5xx errors in Dallas (DFW)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/30v5nn8v893x)
+- 2021-10-25: [Korea Telecom issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cmfbpgmbb6jz)
+- 2021-10-25: [Increased latency in Seattle, (SEA)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/p2zrz4m006k3)
 - 2021-10-23: [Miami, FL, United States - (MIA) is experienced degraded network connectivity](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wdyf0bx8rvsq)
 - 2021-10-22: [Increased HTTP 522 Errors in South America](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b09fvs6kq6d6)
 - 2021-10-20: [Elevated number of 502 errors in PDX](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kdlyny7s9sjw)
