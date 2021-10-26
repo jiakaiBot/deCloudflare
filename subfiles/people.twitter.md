@@ -7,6 +7,8 @@
 
 
 
+- my gosh Cloudflare bot protection is so bad! you are blocking google on sitemap.xml everything is so wrong there... ([ditorojuanf](https://twitter.com/ditorojuanf/status/1452601784950722560))
+- The bot protection was good but it started blocking payment confirmation request from my processor ([bhattraisagar](https://twitter.com/bhattraisagar/status/1451729622429622274))
 - 2) Cookies might be coming from akamai/cloudflare. These vendors are usually the reason you are seeing the Captcha nonsense. And this goes into 3. ([redpillx2](https://twitter.com/redpillx2/status/1452704982751395840))
 - Cloudflare blocking our IP address. Have had a ticket in for 11 days trying to get it whitelisted. Pinged the ticket 3 times and no response. ([corrdawg](https://twitter.com/Corrdawg/status/1452655981163433988))
 - Per CloudFlare, this error indicates, "A 522 error happens when a TCP connection to the web server could not be established. This typically happens when Cloudflare requests to the origin (your webserver) get blocked. When this happens, you’ll see “ERRCONNECTIONTIMEDOUT”." ([63kk01](https://twitter.com/63kk01/status/1452620351461003264))
