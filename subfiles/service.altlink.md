@@ -121,11 +121,7 @@ You can configure AL via `direct message`.
     - If you turn _on_ this settings AL will help you find alternative better links for your normal toots.
   - Let's say you boost or post Cloudflared news site. AL will suggest some similar websites related to your URL within 1 minute. Note that AL might suggest inaccurate result.
     - AL will not suggest anything if your account is `Bot`.
-    - Rate-Limit: AL will suggest `only once per 2 minutes`. For example you post:
-      - 10:**00** `http://example.com/article-a.html` (AL will suggest)
-      - 10:**01** `http://example.net/article-b.html` (_will be ignored_)
-      - 10:**02** `http://example.org/article-c.html` (AL will suggest)
-      - 10:**03** `http://example.uk/article-d.html` (_will be ignored_)
+    - Rate-Limit: AL will suggest `only once per 1 minute`.
 - 3: Count my links and send me report monthly.
   - Default is `off`.
   - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we **never** save (& don't care) what you shared.
