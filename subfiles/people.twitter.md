@@ -7,6 +7,11 @@
 
 
 
+- Kok suka tiba-tiba error gitu sih sinkronisasi hosting sama Cloudflare? Saya gak ngerubah apapun selama 3 bulan lebih.....?! Tiba-tiba error 522. Alamat visitor kabur. ([igniel](https://twitter.com/igniel/status/1452546412999184386))
+- Ay dios te superas cada vez más. Estas diciendo tu que yo me refería al captcha, porque ahí no pone que yo me refiera a eso, en la foto se ve la web de protección que funciona mediante cloudflare. ([ailakks](https://twitter.com/Ailakks/status/1452238633319215109))
+- No me refiero al captcha, me refiero a la protección. La página en si está alojada en cloudflare. ([ailakks](https://twitter.com/Ailakks/status/1452237275862114309))
+- Comunidad, nos gustaría informarle que el problema del '' error 1200 '' no es del juego sino de Cloudflare, algunos jugadores se están bloqueando debido a pestañas, pestañas múltiples y recarga excesiva en la misma página ... Atentamente, Equipo Block Farm Club ([blockfarmclub_](https://twitter.com/BlockFarmClub_/status/1452160728224444416))
+- Clean cookies, cache, open private tab, activate VPN e intenta de nuevo. Cosas de CloudFlare, que se pone intenso. ([lugodev](https://twitter.com/lugodev/status/1452521543620182025))
 - Twitter desktop fucking up. Tsla stupid action. Sold 2 of 16 dkng calls and 1 of 6 5 chwy in total. Added in 2 cloudflare puts $185 friday exp total. ([mkt_gunslinger](https://twitter.com/MKT_Gunslinger/status/1453023429611819011))
 - why do people who use Cloudflare mitm apparently do not care that their site email redacted doesn't work? ([nf3xn](https://twitter.com/nf3xn/status/1453117053569732610))
 - Your recently updated Cloudflare rules are blocking RSS readers from being able to read your new releases feed :( ([defaced](https://twitter.com/defaced/status/1453072378850947076))
