@@ -7,6 +7,8 @@
 
 
 
+- Twitter desktop fucking up. Tsla stupid action. Sold 2 of 16 dkng calls and 1 of 6 5 chwy in total. Added in 2 cloudflare puts $185 friday exp total. ([mkt_gunslinger](https://twitter.com/MKT_Gunslinger/status/1453023429611819011))
+- why do people who use Cloudflare mitm apparently do not care that their site email redacted doesn't work? ([nf3xn](https://twitter.com/nf3xn/status/1453117053569732610))
 - Your recently updated Cloudflare rules are blocking RSS readers from being able to read your new releases feed :( ([defaced](https://twitter.com/defaced/status/1453072378850947076))
 - Your web platform is down. I'm getting Cloudflare error messages. You should...um...fix that please. ([libtechconfess](https://twitter.com/LibTechConfess/status/1453027521457426438))
 - Same issue here. three different accounts cannot logon ([geneschrempf](https://twitter.com/geneschrempf/status/1453023454312210433))
