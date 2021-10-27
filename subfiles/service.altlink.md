@@ -116,8 +116,9 @@ You can configure AL via `direct message`.
   - Default is `off`.
   - By default AL will notify you each time when you share _inaccessible_ link. Turning this settings _on_ will silence second post for 24 hours.
 - 2: Suggest other non-Cloudflare alternative sites _when available_.
-  - Default is `off`.
-    - **Test Stage**: Currently this is `on` until October.
+  - Default is `off` for normal toot and `on` for boosted toot.
+    - If you boost Cloudflare link you are putting your friends at risk. Thus, `on` by default.
+    - If you turn _on_ this settings AL will help you find alternative better links for your normal toots.
   - Let's say you boost or post Cloudflared news site. AL will suggest some similar websites related to your URL within 1 minute. Note that AL might suggest inaccurate result.
     - AL will not suggest anything if your account is `Bot`.
     - Rate-Limit: AL will suggest `only once per 2 minutes`. For example you post:
