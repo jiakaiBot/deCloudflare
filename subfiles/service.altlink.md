@@ -56,7 +56,7 @@ Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.m
     - Please `unfollow`, `wait 1 hour`, and `follow` again.
 
 3. When you share Cloudflared link, AL will send `direct` message to you with information.
-  - Direct messages older than *12* hours will be deleted.
+  - Direct messages older than *24* hours will be deleted.
     - There is no good reason to keep old toots online.
       - [Should I Delete My Tweets?](https://www.wired.com/story/the-know-it-alls-should-i-delete-my-tweets/)
 
@@ -117,7 +117,7 @@ You can configure AL via `direct message`.
   - By default AL will notify you each time when you share _inaccessible_ link. Turning this settings _on_ will silence second post for 24 hours.
 - 2: Suggest other non-Cloudflare alternative sites _when available_.
   - Default is `off` for normal toot and `on` for boosted toot.
-    - If you boost Cloudflare link you are putting your followers [at risk](../README.md). Thus, `on` by default.
+    - If you `boost` Cloudflare link you are putting your followers [at risk](../README.md). Thus, `on` by default.
     - If you turn _on_ this settings AL will help you find alternative better links for your normal toots.
   - Let's say you boost or post Cloudflared news site. AL will suggest some similar websites related to your URL within 1 minute. Note that AL might suggest inaccurate result.
     - AL will not suggest anything if your account is `Bot`.
