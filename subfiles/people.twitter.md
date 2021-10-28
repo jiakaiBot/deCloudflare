@@ -7,6 +7,10 @@
 
 
 
+- Cloudflare Should a server return HTTP 429 or 520 when blocking requests from a malicious/DDoS CF-Connecting-IP? Your documentation is not clear/contradictory on what HTTP response code causes a challenge and what causes a DDoS detection & blocking. Did it change recently? ([rainbowderpyyay](https://twitter.com/RainbowDerpyYaY/status/1453848338835681291))
+- Ive been thinking of making one of those sites to shame companies that do this. Cloudflare for one is particularly frustrating. I will not stop calling them out on it. ([neilhanlon](https://twitter.com/NeilHanlon/status/1453719619303141382))
+- Don't put yourself in a position where a stripe/aws/cloudflare/etc. outage makes your CI pipeline grind to a halt! It may catch some errors early, but it means you risk making the worst scenarios even worse. Nobody wants to be blocked from pushing an emergency fix. ([mattbasta](https://twitter.com/mattbasta/status/1453569362913333253))
+- Are you guys having an issue with your cloudflare setup? I keep getting 504 error... ([charlespeck](https://twitter.com/charlespeck/status/1453829048761729030))
 - hi guys! your website is not accessible :( !!! Cloudflare error! ([riseandswim](https://twitter.com/riseandswim/status/1453738435961765898))
 - heheh... issit? ops... err... basically, i traced an IP from his (cloudflare blocked) screenshot using keycdn...and his IP seems to be from Nigeria. not 100% sure is a scam... but i'd say is 90% chance. just ignore that guy now ([kctang](https://twitter.com/kctang/status/1453596218945200129))
 - This is happening to me as well. Cannot login to Cloudflare at all. Constant 500 error when trying to enter 2 factor code. ([doiftrue](https://twitter.com/doiftrue/status/1453540746322132992))
