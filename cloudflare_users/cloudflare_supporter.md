@@ -300,6 +300,7 @@ Do not create new issue or we will close it as duplicate.
 | [AmanYad62817265@twitter](https://twitter.com/AmanYad62817265/status/1395775965280694274) | advertise |
 | [Amara35146318@twitter](https://twitter.com/Amara35146318/status/1396799727178375172) | advertise |
 | [amarandosw@twitter](https://twitter.com/amarandosw/status/1379324477650006018) | advertise |
+| [AmauryTheFox@twitter](https://twitter.com/AmauryTheFox/status/1453488337977704456) | advertise |
 | [AmeenSh33976888@twitter](https://twitter.com/AmeenSh33976888/status/1381514867606089731) | advertise |
 | [ameenulhassanm1@twitter](https://twitter.com/ameenulhassanm1/status/1378228638353555457) | advertise |
 | [amekiri13@twitter](https://twitter.com/amekiri13/status/1437975591152611329) | advertise |
@@ -1065,6 +1066,7 @@ Do not create new issue or we will close it as duplicate.
 | [CngNguy78789456@twitter](https://twitter.com/CngNguy78789456/status/1398669757096726528) | advertise |
 | [codeberg.org](https://www.codeberg.org/) | [HISTORY.md](../HISTORY.md) |
 | [codysaylor@twitter](https://twitter.com/codysaylor/status/1392677823454879756) | advertise |
+| [CoinDescount@twitter](https://twitter.com/CoinDescount/status/1453401719711350791) | advertise |
 | [CoiPhuocHiep@twitter](https://twitter.com/CoiPhuocHiep/status/1389075825308409857) | advertise |
 | [cojurmyface@twitter](https://twitter.com/cojurmyface/status/1402883595283304450) | advertise |
 | [coklukcom@twitter](https://twitter.com/coklukcom/status/1391147771911094274) | advertise |
@@ -1530,6 +1532,7 @@ Do not create new issue or we will close it as duplicate.
 | [Fearles81577944@twitter](https://twitter.com/Fearles81577944/status/1393607641335668737) | advertise |
 | [fellow_doge@twitter](https://twitter.com/fellow_doge/status/1433053978875600900) | advertise |
 | [fening12@twitter](https://twitter.com/fening12/status/1402708446680535042) | advertise |
+| [FenySoft@twitter](https://twitter.com/FenySoft/status/1453328924063240196) | advertise |
 | [Ferona44304373@twitter](https://twitter.com/Ferona44304373/status/1394530832367370240) | advertise |
 | [fFqiA9FWfwFWC05@twitter](https://twitter.com/fFqiA9FWfwFWC05/status/1404315971750227969) | advertise |
 | [FgdWings@twitter](https://twitter.com/FgdWings/status/1384199323253035010) | advertise |
@@ -2819,6 +2822,7 @@ Do not create new issue or we will close it as duplicate.
 | [KrissanaSai@twitter](https://twitter.com/KrissanaSai/status/1393903786775744513) | advertise |
 | [KristHtet@twitter](https://twitter.com/KristHtet/status/1393150746619564032) | advertise |
 | [Kritsad21025299@twitter](https://twitter.com/Kritsad21025299/status/1386895170054938630) | advertise |
+| [Kroniktotabuan@twitter](https://twitter.com/Kroniktotabuan/status/1453156761532203009) | advertise |
 | [krunalp30106666@twitter](https://twitter.com/krunalp30106666/status/1402387067271667713) | advertise |
 | [ksate0@twitter](https://twitter.com/ksate0/status/1379112018817376258) | advertise |
 | [kshs63527911@twitter](https://twitter.com/kshs63527911/status/1405392559107629059) | advertise |
@@ -5308,6 +5312,7 @@ Do not create new issue or we will close it as duplicate.
 | [TaTa21079240@twitter](https://twitter.com/TaTa21079240/status/1392294482998022144) | advertise |
 | [Tate93701388@twitter](https://twitter.com/Tate93701388/status/1380071951213850625) | advertise |
 | [TattooNghia@twitter](https://twitter.com/TattooNghia/status/1399085631028879360) | advertise |
+| [TatumGaming@twitter](https://twitter.com/TatumGaming/status/1448827518337888257) | advertise |
 | [Tax40813778@twitter](https://twitter.com/Tax40813778/status/1388201141821796353) | advertise |
 | [Taygyi6@twitter](https://twitter.com/Taygyi6/status/1392528044842094594) | advertise |
 | [taymon_khanh@twitter](https://twitter.com/taymon_khanh/status/1388779801020747778) | advertise |
