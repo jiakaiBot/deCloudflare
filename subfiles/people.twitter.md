@@ -7,6 +7,7 @@
 
 
 
+- heheh... issit? ops... err... basically, i traced an IP from his (cloudflare blocked) screenshot using keycdn...and his IP seems to be from Nigeria. not 100% sure is a scam... but i'd say is 90% chance. just ignore that guy now ([kctang](https://twitter.com/kctang/status/1453596218945200129))
 - This is happening to me as well. Cannot login to Cloudflare at all. Constant 500 error when trying to enter 2 factor code. ([doiftrue](https://twitter.com/doiftrue/status/1453540746322132992))
 - 😂😂😂 fucking cloudflare. I have no idea how to fix a 504 error, I'm just not certain hosts do either. ([ryanthemaddev](https://twitter.com/ryanthemaddev/status/1453232641663279109))
 - Kok suka tiba-tiba error gitu sih sinkronisasi hosting sama Cloudflare? Saya gak ngerubah apapun selama 3 bulan lebih.....?! Tiba-tiba error 522. Alamat visitor kabur. ([igniel](https://twitter.com/igniel/status/1452546412999184386))
