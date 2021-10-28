@@ -7,6 +7,7 @@
 
 
 
+- 😂😂😂 fucking cloudflare. I have no idea how to fix a 504 error, I'm just not certain hosts do either. ([ryanthemaddev](https://twitter.com/ryanthemaddev/status/1453232641663279109))
 - Kok suka tiba-tiba error gitu sih sinkronisasi hosting sama Cloudflare? Saya gak ngerubah apapun selama 3 bulan lebih.....?! Tiba-tiba error 522. Alamat visitor kabur. ([igniel](https://twitter.com/igniel/status/1452546412999184386))
 - Ay dios te superas cada vez más. Estas diciendo tu que yo me refería al captcha, porque ahí no pone que yo me refiera a eso, en la foto se ve la web de protección que funciona mediante cloudflare. ([ailakks](https://twitter.com/Ailakks/status/1452238633319215109))
 - No me refiero al captcha, me refiero a la protección. La página en si está alojada en cloudflare. ([ailakks](https://twitter.com/Ailakks/status/1452237275862114309))
