@@ -7,6 +7,7 @@
 
 
 
+- Im honestly tired of this fix the fucking website PSA: try using CloudFlare. RobloxDown ([truthdestiny2](https://twitter.com/TruthDestiny2/status/1454057042164035592))
 - Opensea uses cloudflare 👍 I’m always getting error messages lol ([mjuzefowicz](https://twitter.com/MJuzefowicz/status/1453973822864965632))
 - But, this is the most important question, even Cloudflare and Tor Connections total 11 minutes. ([thefearlessidea](https://twitter.com/thefearlessidea/status/1453979879519789057))
 - Cloudflare Should a server return HTTP 429 or 520 when blocking requests from a malicious/DDoS CF-Connecting-IP? Your documentation is not clear/contradictory on what HTTP response code causes a challenge and what causes a DDoS detection & blocking. Did it change recently? ([rainbowderpyyay](https://twitter.com/RainbowDerpyYaY/status/1453848338835681291))
