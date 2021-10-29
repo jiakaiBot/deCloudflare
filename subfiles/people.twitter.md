@@ -7,6 +7,8 @@
 
 
 
+- When I say your domain I mean IP address so the error is your end and as you use cloudflare as a supplier the fault is with your supplier. I point the domain at one of my servers it would work fine. ([ninjamonk](https://twitter.com/ninjamonk/status/1454203819475226624))
+- Cloudflare reports 30,000+ uniques a month (before I started advertising: just passive people coming in) My server reports 29,000 or thereabouts. Google? FUCKING 100. I think everybody else is blocking the Google Analytics thing, while the other two are unblockable. Useless ([icze4r](https://twitter.com/icze4r/status/1454169534852734982))
 - Im honestly tired of this fix the fucking website PSA: try using CloudFlare. RobloxDown ([truthdestiny2](https://twitter.com/TruthDestiny2/status/1454057042164035592))
 - Opensea uses cloudflare 👍 I’m always getting error messages lol ([mjuzefowicz](https://twitter.com/MJuzefowicz/status/1453973822864965632))
 - But, this is the most important question, even Cloudflare and Tor Connections total 11 minutes. ([thefearlessidea](https://twitter.com/thefearlessidea/status/1453979879519789057))
