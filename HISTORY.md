@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-10-28: [Network Performance Issues in Miami, FL, US](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ktt7vwdnc2wf)
 - 2021-10-27: [503 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r7s219mgt5w7)
 - 2021-10-25: [Possible Network Congestion in Brussels](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rh66zvf2ynsz)
 - 2021-10-25: [Elevated number of 5xx errors in Dallas (DFW)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/30v5nn8v893x)
