@@ -604,6 +604,7 @@ Or is this merely a case of simple modesty?
 | Gloria Marcu | Support Engineer |  |
 | Grace Lin | Special Projects |  |
 | Grant Humphreys | Business Development |  |
+| Greg Brimble | Employee | |
 | Greg Cohn | Customer Success Engineer |  |
 | Greg Kracik | Customer Success Engineer |  |
 | Greg Lee Coleman | Systems Engineer |  |
