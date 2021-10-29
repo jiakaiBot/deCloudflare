@@ -7,6 +7,8 @@
 
 
 
+- Opensea uses cloudflare 👍 I’m always getting error messages lol ([mjuzefowicz](https://twitter.com/MJuzefowicz/status/1453973822864965632))
+- But, this is the most important question, even Cloudflare and Tor Connections total 11 minutes. ([thefearlessidea](https://twitter.com/thefearlessidea/status/1453979879519789057))
 - Cloudflare Should a server return HTTP 429 or 520 when blocking requests from a malicious/DDoS CF-Connecting-IP? Your documentation is not clear/contradictory on what HTTP response code causes a challenge and what causes a DDoS detection & blocking. Did it change recently? ([rainbowderpyyay](https://twitter.com/RainbowDerpyYaY/status/1453848338835681291))
 - Ive been thinking of making one of those sites to shame companies that do this. Cloudflare for one is particularly frustrating. I will not stop calling them out on it. ([neilhanlon](https://twitter.com/NeilHanlon/status/1453719619303141382))
 - Don't put yourself in a position where a stripe/aws/cloudflare/etc. outage makes your CI pipeline grind to a halt! It may catch some errors early, but it means you risk making the worst scenarios even worse. Nobody wants to be blocked from pushing an emergency fix. ([mattbasta](https://twitter.com/mattbasta/status/1453569362913333253))
