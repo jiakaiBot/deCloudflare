@@ -7,6 +7,7 @@
 
 
 
+- I keep having issues with the Cloudflare/Captcha stuff, especially on my 3DS. It either won't load or just keeps refreshing the same thing again and again, every stinking day. I can't even log in or read stories now! Is there anything you or I can do to fix this? ([smijes08](https://twitter.com/Smijes08/status/1454490530281410572))
 - When I say your domain I mean IP address so the error is your end and as you use cloudflare as a supplier the fault is with your supplier. I point the domain at one of my servers it would work fine. ([ninjamonk](https://twitter.com/ninjamonk/status/1454203819475226624))
 - Cloudflare reports 30,000+ uniques a month (before I started advertising: just passive people coming in) My server reports 29,000 or thereabouts. Google? FUCKING 100. I think everybody else is blocking the Google Analytics thing, while the other two are unblockable. Useless ([icze4r](https://twitter.com/icze4r/status/1454169534852734982))
 - Im honestly tired of this fix the fucking website PSA: try using CloudFlare. RobloxDown ([truthdestiny2](https://twitter.com/TruthDestiny2/status/1454057042164035592))
