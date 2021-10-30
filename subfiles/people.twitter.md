@@ -7,6 +7,7 @@
 
 
 
+- DDOS/Cloudflare protection and captcha wasn't even completed in less than 10 seconds. 🤔 ([yesthatteach](https://twitter.com/YesThatTeach/status/1454558862296686592))
 - My browser was blocked by cloudflare. I’m now receiving 403 error codes and unable to go to your website. ([shmaff](https://twitter.com/Shmaff/status/1454508092515889153))
 - I keep having issues with the Cloudflare/Captcha stuff, especially on my 3DS. It either won't load or just keeps refreshing the same thing again and again, every stinking day. I can't even log in or read stories now! Is there anything you or I can do to fix this? ([smijes08](https://twitter.com/Smijes08/status/1454490530281410572))
 - When I say your domain I mean IP address so the error is your end and as you use cloudflare as a supplier the fault is with your supplier. I point the domain at one of my servers it would work fine. ([ninjamonk](https://twitter.com/ninjamonk/status/1454203819475226624))
