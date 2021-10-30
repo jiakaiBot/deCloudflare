@@ -397,6 +397,7 @@ Do not create new issue or we will close it as duplicate.
 | [APhyuYaung10@twitter](https://twitter.com/APhyuYaung10/status/1381663498736963589) | advertise |
 | [apollon8825@twitter](https://twitter.com/apollon8825/status/1389773014586347524) | advertise |
 | [Apple77742684@twitter](https://twitter.com/Apple77742684/status/1398675272526745603) | advertise |
+| [Aqeel_AT@twitter](https://twitter.com/Aqeel_AT/status/1453733826006433807) | advertise |
 | [Aqibmah82111102@twitter](https://twitter.com/Aqibmah82111102/status/1399669775844974595) | advertise |
 | [AquibKh23876904@twitter](https://twitter.com/AquibKh23876904/status/1381641582856785922) | advertise |
 | [ara77225203@twitter](https://twitter.com/ara77225203/status/1379100535165345798) | advertise |
@@ -2330,6 +2331,7 @@ Do not create new issue or we will close it as duplicate.
 | [JiiSaaduddin@twitter](https://twitter.com/JiiSaaduddin/status/1429958660575293466) | advertise |
 | [jimfinch@twitter](https://twitter.com/jimfinch/status/1441444567342014465) | advertise |
 | [Jiminie1995bts@twitter](https://twitter.com/Jiminie1995bts/status/1398512785294647297) | advertise |
+| [JimKladis@twitter](https://twitter.com/JimKladis/status/1453746612778508291) | advertise |
 | [jimmi_pranami@twitter](https://twitter.com/jimmi_pranami/status/1384443003415134214) | advertise |
 | [jimmy90319098@twitter](https://twitter.com/jimmy90319098/status/1394347856098566146) | advertise |
 | [Jim_Hawkins_1@twitter](https://twitter.com/Jim_Hawkins_1/status/1404288453064359936) | advertise |
@@ -4155,6 +4157,7 @@ Do not create new issue or we will close it as duplicate.
 | [nyto95409750@twitter](https://twitter.com/nyto95409750/status/1380788517941354500) | advertise |
 | [NyuntNyunt11@twitter](https://twitter.com/NyuntNyunt11/status/1396273606288711682) | advertise |
 | [nZinoProperties@twitter](https://twitter.com/nZinoProperties/status/1429140861959430156) | advertise |
+| [n_a_b_e_t_a_s_o@twitter](https://twitter.com/n_a_b_e_t_a_s_o/status/1454036622844911619) | advertise |
 | [n_wuit@twitter](https://twitter.com/n_wuit/status/1376737743619813382) | advertise |
 | [o0Yurpa0o@twitter](https://twitter.com/o0Yurpa0o/status/1381196081145335809) | advertise |
 | [Oai83223657@twitter](https://twitter.com/Oai83223657/status/1398312021532188684) | advertise |
