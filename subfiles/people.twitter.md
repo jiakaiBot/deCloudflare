@@ -7,6 +7,7 @@
 
 
 
+- Some country outside of U.S have the issue wallet not showing 0 balance eventhough the transaction history appear, i personally from Indonesia and having the same issue, im being told by some Mod to use 1111 VPN by cloudflare and it works amazing. I hope next update will fix it. ([brotherdan92](https://twitter.com/brotherdan92/status/1454725224180510720))
 - Ive had this issue for a very long time. Retyping multiple wallet keys is starting to become extremely frustrating. I assumed brave browser was just doing brave things. But Im not connected on ANY of my browers. Any idea how I can stop that from happening? UserError ? ([joker42356](https://twitter.com/joker42356/status/1454663908682260484))
 - Cloudflare just fucked up and cached one of my images wrong, so it wouldn't even load. The fuck? ([icze4r](https://twitter.com/icze4r/status/1454654376728014849))
 - DDOS/Cloudflare protection and captcha wasn't even completed in less than 10 seconds. 🤔 ([yesthatteach](https://twitter.com/YesThatTeach/status/1454558862296686592))
