@@ -7,6 +7,8 @@
 
 
 
+- Ive had this issue for a very long time. Retyping multiple wallet keys is starting to become extremely frustrating. I assumed brave browser was just doing brave things. But Im not connected on ANY of my browers. Any idea how I can stop that from happening? UserError ? ([joker42356](https://twitter.com/joker42356/status/1454663908682260484))
+- Cloudflare just fucked up and cached one of my images wrong, so it wouldn't even load. The fuck? ([icze4r](https://twitter.com/icze4r/status/1454654376728014849))
 - DDOS/Cloudflare protection and captcha wasn't even completed in less than 10 seconds. 🤔 ([yesthatteach](https://twitter.com/YesThatTeach/status/1454558862296686592))
 - My browser was blocked by cloudflare. I’m now receiving 403 error codes and unable to go to your website. ([shmaff](https://twitter.com/Shmaff/status/1454508092515889153))
 - I keep having issues with the Cloudflare/Captcha stuff, especially on my 3DS. It either won't load or just keeps refreshing the same thing again and again, every stinking day. I can't even log in or read stories now! Is there anything you or I can do to fix this? ([smijes08](https://twitter.com/Smijes08/status/1454490530281410572))
