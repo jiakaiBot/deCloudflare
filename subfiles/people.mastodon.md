@@ -7,6 +7,7 @@
 
 
 
+- hm, cloudflare seems to really fucking hate my IP for some weird reason ([deletescape](https://notbird.site/@deletescape/107198343635529842))
 - Going through #Cloudflare is the new #starfish. Don't perform, dear #bank, just siphon #customerData to us, we'll print the rest. What if good #banks don't go through Cloudflare, but use #renewableEnergy to secure #bitcoin and other #currencies that are actually worth something and we paide pay them in transaction fees. #deleteCloudflare #cyberThreat #cyberWar #MITMAAS #singlePointFailure #cyberAttack #Australia #finance #whyBitcoinCoin ([dsfgs](https://activism.openworlds.info/@dsfgs/107183745246898426))
 - Probably around ~90% of my local tree service companies are using #Cloudflare for their websites. They've all unwittingly lost the opportunity to bid on a job that I have for them. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/107168905161603260))
 - There is so much great work out there do to. But then you realise #Cloudflare can just destroy any attempt to do great work — it can even destroy a young, healthy athlete. Its sad to learn that #TorProject are hostile to people who speak up against Cloudflare. When we say #grants are slightly #toxic this is the type of thing we mean. Its pretty obvious that Cloudflare have #infiltrated #GuardianProject, and compromised them in some way. Long live #I2P. #HSv2 #HSv3 #extortion #nym #lochaNet ([dsfgs](https://activism.openworlds.info/@dsfgs/107160581484032560))
