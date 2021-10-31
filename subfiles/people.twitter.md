@@ -7,6 +7,7 @@
 
 
 
+- It's a real one, i did so some checking for ensuring kreek was safe and it seems he didn't turn on his vpn so unfortunately it could of been that cloudflare detects the real ip. ([playerjovey](https://twitter.com/PlayerJovey/status/1454852427564285956))
 - You should do something about the Cloudflare error page, KreekCraft's IP got leaked because of that. ([7ce_a](https://twitter.com/7ce_a/status/1454815832173907972))
 - is the platform experiencing an outage? We're getting a CloudFlare error when loading ([brandonbernicky](https://twitter.com/brandonbernicky/status/1454812625263542272))
 - Would you feel comfortable forecasting Cloudflare’s 2025 margin or 2030 margin? We know trees can’t grow to the sky, at some point all businesses stop growing. I’d argue margin is the most sensitive unknown. ([valuations_](https://twitter.com/Valuations_/status/1454802759614533639))
