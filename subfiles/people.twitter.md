@@ -7,6 +7,7 @@
 
 
 
+- Would you feel comfortable forecasting Cloudflare’s 2025 margin or 2030 margin? We know trees can’t grow to the sky, at some point all businesses stop growing. I’d argue margin is the most sensitive unknown. ([valuations_](https://twitter.com/Valuations_/status/1454802759614533639))
 - Some country outside of U.S have the issue wallet not showing 0 balance eventhough the transaction history appear, i personally from Indonesia and having the same issue, im being told by some Mod to use 1111 VPN by cloudflare and it works amazing. I hope next update will fix it. ([brotherdan92](https://twitter.com/brotherdan92/status/1454725224180510720))
 - Ive had this issue for a very long time. Retyping multiple wallet keys is starting to become extremely frustrating. I assumed brave browser was just doing brave things. But Im not connected on ANY of my browers. Any idea how I can stop that from happening? UserError ? ([joker42356](https://twitter.com/joker42356/status/1454663908682260484))
 - Cloudflare just fucked up and cached one of my images wrong, so it wouldn't even load. The fuck? ([icze4r](https://twitter.com/icze4r/status/1454654376728014849))
