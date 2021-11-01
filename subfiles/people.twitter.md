@@ -7,11 +7,7 @@
 
 
 
-- fwiw pagerduty is fucking horrible (pardon my french) and the only reason i have it on my phone is so appsignal can make it shake if we're on fire :) ([skrebbel](https://twitter.com/skrebbel/status/1455273104301756416))
-- More security tips - Make sure you have a captcha on all of your signup and login pages. - Setup API rate limits on your API, even if you are using Cloudflare. - Setup Datadog or some other monitoring service. Make sure to check the logs regularly in case you miss something ([saassavant](https://twitter.com/SaasSavant/status/1455213065553670144))
 - he leaked his ip on the cloudflare stream, good he deleted the stream ([komy38](https://twitter.com/Komy38/status/1454832986579476481))
-- Cloudflare, perhaps? We had a problem with bots submitting contact forms but it turned out they all came from Tor, and it was pretty easy to write a Cloudflare firewall rule to block POSTs from them. ([dimitris](https://twitter.com/Dimitris/status/1454944686418898946))
-- Cloudflare I cannot edit my Primary billing information It keeps saying there is too much activity and that I need to submit a captcha with the form ([macvelli](https://twitter.com/macvelli/status/1454901398680784896))
 - A recap of what happened with KreekCraft: He starts a third stream about Roblox being down, blah blah blah. After basically doing nothing for some time he decides to register on Brick Hill. After he "registers" it returns Cloudflare error screen. At the bottom it says his IP. 1/2 ([0deathstoday](https://twitter.com/0DeathsToday/status/1454819232869462018))
 - .PavitraGolchha .replit It was a cloudflare rule I put in place long ago, all I know is that has no idea what the fuck are white house and then when t ([averagebotfan](https://twitter.com/AverageBotFan/status/1453265594283929604))
 - It's a real one, i did so some checking for ensuring kreek was safe and it seems he didn't turn on his vpn so unfortunately it could of been that cloudflare detects the real ip. ([playerjovey](https://twitter.com/PlayerJovey/status/1454852427564285956))
