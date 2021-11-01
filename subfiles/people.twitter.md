@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare do you have a public IPFS gateway that doesn’t get captcha/rate limited? I’m using cloudflare-ipfs but keep getting limited. ([mxchl](https://twitter.com/mxchl/status/1455284294415388676))
 - he leaked his ip on the cloudflare stream, good he deleted the stream ([komy38](https://twitter.com/Komy38/status/1454832986579476481))
 - A recap of what happened with KreekCraft: He starts a third stream about Roblox being down, blah blah blah. After basically doing nothing for some time he decides to register on Brick Hill. After he "registers" it returns Cloudflare error screen. At the bottom it says his IP. 1/2 ([0deathstoday](https://twitter.com/0DeathsToday/status/1454819232869462018))
 - .PavitraGolchha .replit It was a cloudflare rule I put in place long ago, all I know is that has no idea what the fuck are white house and then when t ([averagebotfan](https://twitter.com/AverageBotFan/status/1453265594283929604))
