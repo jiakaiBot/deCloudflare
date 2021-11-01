@@ -16,7 +16,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 ```
 
 
-Here's a list of public Fediverse services.
+- Here's a list of public Fediverse services.
+  - Inactive servers (e.g. No toots sent for 1 month) are not listed.
 
 
 <details>
@@ -2679,7 +2680,6 @@ Here's a list of public Fediverse services.
 | zotadel.net | No |
 | zottmann.org | Yes |
 | zotum.net | No |
-
 
 </details>
 
