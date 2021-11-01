@@ -7,6 +7,7 @@
 
 
 
+- fwiw pagerduty is fucking horrible (pardon my french) and the only reason i have it on my phone is so appsignal can make it shake if we're on fire :) ([skrebbel](https://twitter.com/skrebbel/status/1455273104301756416))
 - More security tips - Make sure you have a captcha on all of your signup and login pages. - Setup API rate limits on your API, even if you are using Cloudflare. - Setup Datadog or some other monitoring service. Make sure to check the logs regularly in case you miss something ([saassavant](https://twitter.com/SaasSavant/status/1455213065553670144))
 - he leaked his ip on the cloudflare stream, good he deleted the stream ([komy38](https://twitter.com/Komy38/status/1454832986579476481))
 - Cloudflare, perhaps? We had a problem with bots submitting contact forms but it turned out they all came from Tor, and it was pretty easy to write a Cloudflare firewall rule to block POSTs from them. ([dimitris](https://twitter.com/Dimitris/status/1454944686418898946))
