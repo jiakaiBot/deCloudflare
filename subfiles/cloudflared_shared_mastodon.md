@@ -177,3 +177,5 @@ tl;dr
 ----
 
 ![](../image/mastodoncf.jpg)
+
+<a rel="me" href="https://indieweb.social/@cat"></a>
