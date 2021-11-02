@@ -9,10 +9,10 @@ large number of independently run Mastodon nodes (known as "instances"), each wi
 its own code of conduct, terms of service, privacy options, and moderation policies.
 ```
 
-
-- [Top 10 - Shared Any links](cloudflared_shared_mastodon.md#top-10-shared-any-links)
-- [Top 100 - Shared Cloudflare links](cloudflared_shared_mastodon.md#top-100-shared-cloudflare-links)
-- [About Mastodon Users](cloudflared_shared_mastodon.md#about-mastodon-users)
+- Contents
+  - [Top 10 - Shared Any links](cloudflared_shared_mastodon.md#top-10-shared-any-links)
+  - [Top 100 - Shared Cloudflare links](cloudflared_shared_mastodon.md#top-100-shared-cloudflare-links)
+  - [About Mastodon Users](cloudflared_shared_mastodon.md#about-mastodon-users)
 - ↳ Previous: [Shared on Mastodon](shared_on_mastodon.md)
 - ↳ **Stop Sharing Cloudflare Links**! Follow [Alternative Link](service.altlink.md)
 
