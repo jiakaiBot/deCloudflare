@@ -889,6 +889,7 @@ Do not create new issue or we will close it as duplicate.
 | [BraudinLaya@twitter](https://twitter.com/BraudinLaya/status/1435781941845008393) | advertise |
 | [Braumy77@twitter](https://twitter.com/Braumy77/status/1406588080098889734) | advertise |
 | [brendan8c@twitter](https://twitter.com/brendan8c/status/1435666779188174850) | advertise |
+| [BrettSlaski@twitter](https://twitter.com/BrettSlaski/status/1454647204342288385) | advertise |
 | [BrianAlaway@twitter](https://twitter.com/BrianAlaway/status/1411048803336138754) | moral (advertise) |
 | [BrightonHoney@twitter](https://twitter.com/BrightonHoney/status/1436108216656670724) | advertise |
 | [bright_wyne@twitter](https://twitter.com/bright_wyne/status/1391849321524436992) | advertise |
@@ -902,6 +903,7 @@ Do not create new issue or we will close it as duplicate.
 | [BryceGerhardt7@twitter](https://twitter.com/BryceGerhardt7/status/1377248264886513668) | advertise |
 | [Bscx_Lantern@twitter](https://twitter.com/Bscx_Lantern/status/1378913835088670726) | advertise |
 | [BsGRpWQ4ziBC59R@twitter](https://twitter.com/BsGRpWQ4ziBC59R/status/1392991093143179268) | advertise |
+| [bskcuba@twitter](https://twitter.com/bskcuba/status/1454572245322452994) | advertise |
 | [Bt02081@twitter](https://twitter.com/Bt02081/status/1386309894651858952) | advertise |
 | [BTH15677533@twitter](https://twitter.com/BTH15677533/status/1381843579342004226) | advertise |
 | [btotherkingsto1@twitter](https://twitter.com/btotherkingsto1/status/1401106451863535616) | advertise |
@@ -1452,6 +1454,7 @@ Do not create new issue or we will close it as duplicate.
 | [ElizabethGogou@twitter](https://twitter.com/ElizabethGogou/status/1377578555954110465) | advertise |
 | [EllaLaw24194722@twitter](https://twitter.com/EllaLaw24194722/status/1383291450025148418) | advertise |
 | [Elliot24649070@twitter](https://twitter.com/Elliot24649070/status/1390939917404966912) | advertise |
+| [ellonmast@twitter](https://twitter.com/ellonmast/status/1452884018328899589) | advertise |
 | [elmy_lenert@twitter](https://twitter.com/elmy_lenert/status/1380440740644286465) | advertise |
 | [elpapilo96@twitter](https://twitter.com/elpapilo96/status/1400973663575457794) | advertise |
 | [elsashweyee@twitter](https://twitter.com/elsashweyee/status/1389796841860964354) | advertise |
@@ -3046,6 +3049,7 @@ Do not create new issue or we will close it as duplicate.
 | [LiddleBRM@twitter](https://twitter.com/LiddleBRM/status/1405115490016456707) | advertise |
 | [lifeisfinishing@twitter](https://twitter.com/lifeisfinishing/status/1385066796705886217) | advertise |
 | [lightkiki11998@twitter](https://twitter.com/lightkiki11998/status/1397082213011791876) | advertise |
+| [likasit2007@twitter](https://twitter.com/likasit2007/status/1455188973991575552) | advertise |
 | [lil33volt@twitter](https://twitter.com/lil33volt/status/1387519800742658048) | advertise |
 | [Lillii412@twitter](https://twitter.com/Lillii412/status/1395707127176458243) | advertise |
 | [LiLy19600218@twitter](https://twitter.com/LiLy19600218/status/1394904381653356544) | advertise |
@@ -3080,6 +3084,7 @@ Do not create new issue or we will close it as duplicate.
 | [linthetpaingltp@twitter](https://twitter.com/linthetpaingltp/status/1390244063987830784) | advertise |
 | [linthitmyowin@twitter](https://twitter.com/linthitmyowin/status/1395258884621668354) | advertise |
 | [Lin_Jaiant@twitter](https://twitter.com/Lin_Jaiant/status/1377974149759475712) | advertise |
+| [LiquiditySwap@twitter](https://twitter.com/LiquiditySwap/status/1455310349893308420) | advertise |
 | [liran7771@twitter](https://twitter.com/liran7771/status/1379709126905901061) | advertise |
 | [literallyksmk@twitter](https://twitter.com/literallyksmk/status/1398613079546605570) | advertise |
 | [littleb41455848@twitter](https://twitter.com/littleb41455848/status/1391813235620257792) | advertise |
@@ -4238,6 +4243,7 @@ Do not create new issue or we will close it as duplicate.
 | [overhaulkk@twitter](https://twitter.com/overhaulkk/status/1401149473162596354) | advertise |
 | [Ow16954845@twitter](https://twitter.com/Ow16954845/status/1399700429651447811) | advertise |
 | [Owen92335115@twitter](https://twitter.com/Owen92335115/status/1377489036877524995) | advertise |
+| [OwenQuinlan7@twitter](https://twitter.com/OwenQuinlan7/status/1455207262725623809) | advertise |
 | [oWLwnVwlgpuBYA4@twitter](https://twitter.com/oWLwnVwlgpuBYA4/status/1395168889152094211) | advertise |
 | [OwO_233_TAT@twitter](https://twitter.com/OwO_233_TAT/status/1418924757710376960) | advertise |
 | [owuru@twitter](https://twitter.com/owuru/status/1370256834062381056) | advertise |
@@ -4444,6 +4450,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pmmv9@twitter](https://twitter.com/Pmmv9/status/1395317642685190147) | advertise |
 | [PNKPND1@twitter](https://twitter.com/PNKPND1/status/1408101550552199170) | advertise |
 | [Pntien3@twitter](https://twitter.com/Pntien3/status/1383675689711198219) | advertise |
+| [po0_0chen@twitter](https://twitter.com/po0_0chen/status/1455057369247858688) | advertise |
 | [PoeChitEi2@twitter](https://twitter.com/PoeChitEi2/status/1405041271559753729) | advertise |
 | [PoePoe76729284@twitter](https://twitter.com/PoePoe76729284/status/1393026229096222724) | advertise |
 | [poetrasingkep@twitter](https://twitter.com/poetrasingkep/status/1378024363211988993) | advertise |
@@ -5854,6 +5861,7 @@ Do not create new issue or we will close it as duplicate.
 | [Uzino3@twitter](https://twitter.com/Uzino3/status/1401284260795863041) | advertise |
 | [uzormbakwem@twitter](https://twitter.com/uzormbakwem/status/1401281508636184576) | advertise |
 | [Uzumaki19799215@twitter](https://twitter.com/Uzumaki19799215/status/1404393913063034884) | advertise |
+| [u_c_space@twitter](https://twitter.com/u_c_space/status/1454812053697355782) | advertise |
 | [V22280324@twitter](https://twitter.com/V22280324/status/1396806272322736136) | advertise |
 | [V25022000@twitter](https://twitter.com/V25022000/status/1376914512725479429) | advertise |
 | [ValidMojo@twitter](https://twitter.com/ValidMojo/status/1385009257830096898) | advertise |
