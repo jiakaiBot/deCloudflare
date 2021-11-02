@@ -28,6 +28,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Site | Cloudflared |
 | --- | --- |
+| 0wo.ooo | No |
 | 0x3c.pl | Yes |
 | 1m.cutls.com | Yes |
 | 1o1.io | No |
@@ -1040,6 +1041,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mast.eu.org | No |
 | mast.linuxgamecast.com | Yes |
 | mast.moe | No |
+| mast.mulliken.net | Yes |
 | mast.republicofmayhem.xyz | Yes |
 | mast.wholemars.com | Yes |
 | mastchan.org | No |
@@ -1266,6 +1268,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.uy | No |
 | mastodon.vierkantor.com | No |
 | mastodon.wihel.de | Yes |
+| mastodon.wivodaim.net | No |
 | mastodon.xy-space.de | No |
 | mastodon.xyz | No |
 | mastodon.yantou.co | Yes |
@@ -1559,6 +1562,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | newsocial.tech | Yes |
 | ni.hil.ist | No |
 | nightly.fedibird.com | Yes |
+| niscii.xyz | No |
 | nitiasa.com | Yes |
 | nitro.horse | No |
 | nitrokey.com | No |
@@ -1824,6 +1828,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | point.community | Yes |
 | pokemon.mastportal.info | No |
 | pokemon.men | Yes |
+| pol.social | No |
 | poliverso.org | No |
 | polonkai.eu | No |
 | poly.cybre.city | No |
@@ -1885,6 +1890,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | r3pek.org | No |
 | ra-phi.ch | No |
 | radiosocial.de | No |
+| rafting.io | No |
 | rage.lol | No |
 | rage.love | No |
 | raggedfeathers.com | No |
@@ -1927,6 +1933,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | roleplayers.bub.org | No |
 | rollenspiel.group | No |
 | rollenspiel.social | No |
+| rpi.limited.systems | No |
 | rpvortex.online | No |
 | ru.social | No |
 | rubber.social | No |
@@ -1934,6 +1941,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ruhr.social | No |
 | russtodon.ru | Yes |
 | rustedneuron.com | No |
+| s.cameronheard.com | No |
 | s.knusper-land.de | Yes |
 | s.lono.space | Yes |
 | s.ovalerio.net | Yes |
@@ -2086,6 +2094,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.bitcast.info | No |
 | social.bitcoiner.guide | No |
 | social.bobcall.me | No |
+| social.boiledscript.com | No |
 | social.bund.de | No |
 | social.c-r-t.tk | Yes |
 | social.caa-ins.org | No |
@@ -2184,6 +2193,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.lainon.life | No |
 | social.lansky.name | No |
 | social.laserbeam.productions | No |
+| social.liberta.vip | No |
 | social.libre.fi | No |
 | social.linux.pizza | No |
 | social.logilab.org | No |
@@ -2261,6 +2271,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.simcu.com | No |
 | social.skewed.de | No |
 | social.skiqqy.xyz | No |
+| social.skrep.eu | No |
 | social.skrep.in | No |
 | social.slat.org | No |
 | social.snopyta.org | No |
@@ -2475,6 +2486,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toot.thoughtworks.com | Yes |
 | toot.wales | No |
 | toot.yukimochi.jp | No |
+| tooter.conman.co.za | No |
 | tooter.social | No |
 | tooting.ch | No |
 | tooting.intensifi.es | No |
@@ -2525,6 +2537,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | types.pl | No |
 | typo.science | Yes |
 | tzcafe.com | Yes |
+| u.johnconway.art | Yes |
 | uberspace.social | No |
 | ubuntu.buzz | No |
 | udon.red | No |
@@ -2540,6 +2553,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | umastodon.net | No |
 | ummmmmm.ahhhhhh.social | No |
 | unbound.social | No |
+| unclealbie.com | No |
 | under-bank.blue | No |
 | underground-side-kochira-kotonoha.xyz | No |
 | unexpected.singleuser.club | No |
@@ -2669,6 +2683,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | yumehaki.club | No |
 | yumisskey.net | No |
 | yysk.icu | No |
+| z.fedipen.xyz | No |
 | z.macgirvin.com | No |
 | z0ne.social | Yes |
 | zap-integrat.ion.ovh | No |
@@ -2692,8 +2707,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 493 |
-| Normal | 2,162 |
+| Cloudflare | 495 |
+| Normal | 2,175 |
 
 
-### 18.6% of public Fediverse services are using Cloudflare.
+### 18.5% of public Fediverse services are using Cloudflare.
