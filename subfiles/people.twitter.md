@@ -7,6 +7,7 @@
 
 
 
+- Another day of mediating access to content to my campus community due to this ridiculous ongoing Cloudflare error. Into at least week two of this situation. When you paywall your content to the point of it becoming inaccessible, it is a financial liability. ([jillemery](https://twitter.com/jillemery/status/1455570405888987139))
 - 11 hours later, and CloudFlare is still blocking me from reading anything... Do something please. ([ryhatch](https://twitter.com/RyHatch/status/1455406165739909120))
 - Cloudflare do you have a public IPFS gateway that doesn’t get captcha/rate limited? I’m using cloudflare-ipfs but keep getting limited. ([mxchl](https://twitter.com/mxchl/status/1455284294415388676))
 - he leaked his ip on the cloudflare stream, good he deleted the stream ([komy38](https://twitter.com/Komy38/status/1454832986579476481))
