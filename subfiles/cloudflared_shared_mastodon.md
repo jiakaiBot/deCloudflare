@@ -14,6 +14,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 - [Top 100 - Shared Cloudflare links](cloudflared_shared_mastodon.md#top-100-shared-cloudflare-links)
 - [About Mastodon Users](cloudflared_shared_mastodon.md#about-mastodon-users)
 - ↳ Previous: [Shared on Mastodon](shared_on_mastodon.md)
+- ↳ **Stop Sharing Cloudflare Links**! Follow [Alternative Link](service.altlink.md)
 
 ----
 
