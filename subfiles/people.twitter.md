@@ -7,6 +7,7 @@
 
 
 
+- If I try to access the story, I get a cloudflare error. This is being purposely blocked I would think. ([topimp21](https://twitter.com/topimp21/status/1455872085054693382))
 - Holy fuck, tienen un servidor expuesto, el que hostea los videos, sin protección de cloudflare y lo acaban de anunciar ellos mismos. Este... ([eldut5](https://twitter.com/eldut5/status/1455766677786972162))
 - An authorised MITM is not an attack. Terminating SSL on a reverse proxy is not uncommon. Worried about Cloudflare having a peek? That's a pretty unreasonable concern. ([matthew87536271](https://twitter.com/Matthew87536271/status/1455718985287102464))
 - Getting blocked by cloudflare when I try to check my reflections. Any issues with that? ([jordonpierce15](https://twitter.com/JordonPierce15/status/1455658421135585282))
