@@ -7,6 +7,7 @@
 
 
 
+- @ScottMortimer not a good site.. that’s a #Cloudflare site. Ironic considering SSH is generally for streetwise users. ([bojkotimalbona](https://infosec.exchange/@bojkotiMalbona/107209157915654487))
 - hm, cloudflare seems to really fucking hate my IP for some weird reason ([deletescape](https://notbird.site/@deletescape/107198343635529842))
 - Going through #Cloudflare is the new #starfish. Don't perform, dear #bank, just siphon #customerData to us, we'll print the rest. What if good #banks don't go through Cloudflare, but use #renewableEnergy to secure #bitcoin and other #currencies that are actually worth something and we paide pay them in transaction fees. #deleteCloudflare #cyberThreat #cyberWar #MITMAAS #singlePointFailure #cyberAttack #Australia #finance #whyBitcoinCoin ([dsfgs](https://activism.openworlds.info/@dsfgs/107183745246898426))
 - Probably around ~90% of my local tree service companies are using #Cloudflare for their websites. They've all unwittingly lost the opportunity to bid on a job that I have for them. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/107168905161603260))
