@@ -18,7 +18,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 ----
 
-### ( From `2021-10-01` to `2021-11-02` )
+### ( From `2021-10-01` to `2021-11-03` )
 
 ### Top 10 - Shared Any links
 
@@ -26,16 +26,16 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Mastodon User | Links |
 | --- | --- | --- |
-| 1 | itnewsbot@schleuss.online | 5,760 |
-| 2 | technews@aspiechattr.me | 5,110 |
-| 3 | hn50@social.lansky.name | 3,851 |
-| 4 | nowthisnews@newsbots.eu | 3,584 |
-| 5 | reuters_worldnews@newsbots.eu | 3,042 |
-| 6 | todayilearned@botsin.space | 2,777 |
-| 7 | hackernews@die-partei.social | 2,698 |
-| 8 | elpuntavui@mastodont.cat | 2,663 |
-| 9 | ponypics@equestria.social | 2,662 |
-| 10 | covid_stats@mastodon.cloud | 2,656 |
+| 1 | itnewsbot@schleuss.online | 5,995 |
+| 2 | technews@aspiechattr.me | 5,291 |
+| 3 | hn50@social.lansky.name | 3,985 |
+| 4 | nowthisnews@newsbots.eu | 3,720 |
+| 5 | reuters_worldnews@newsbots.eu | 3,136 |
+| 6 | todayilearned@botsin.space | 2,849 |
+| 7 | hackernews@die-partei.social | 2,770 |
+| 8 | elpuntavui@mastodont.cat | 2,768 |
+| 9 | ponypics@equestria.social | 2,764 |
+| 10 | covid_stats@mastodon.cloud | 2,759 |
 
 [//]: # (do not edit this line end)
 
@@ -46,106 +46,106 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Mastodon User | Links |
 | --- | --- | --- |
-| 1 | covid_stats@mastodon.cloud | 2,656 |
-| 2 | technews@aspiechattr.me | 2,649 |
-| 3 | hn50@social.lansky.name | 2,623 |
-| 4 | elpuntavui@mastodont.cat | 2,376 |
-| 5 | itnewsbot@schleuss.online | 2,353 |
-| 6 | hn100@social.lansky.name | 1,727 |
-| 7 | hn100@botsin.space | 1,451 |
-| 8 | telesur_es@newsbots.eu | 1,138 |
-| 9 | hackernews@die-partei.social | 1,096 |
-| 10 | naturalnews@brighteon.social | 1,000 |
-| 11 | lemonde@newsbots.eu | 904 |
-| 12 | johndolph@brighteon.social | 819 |
-| 13 | ponypics@equestria.social | 809 |
-| 14 | alternet@newsbots.eu | 770 |
-| 15 | hnbot@botsin.space | 766 |
-| 16 | bbcpersiannewsbot@aleph.land | 742 |
-| 17 | youngblood@social.quodverum.com | 697 |
-| 18 | btc@framapiaf.org | 633 |
-| 19 | thepressproject@libretooth.gr | 622 |
-| 20 | freax@anonsys.net | 574 |
-| 21 | teargasbreakfast@social.quodverum.com | 570 |
-| 22 | hn250@social.lansky.name | 555 |
-| 23 | gradientbot@botsin.space | 547 |
-| 24 | euwatch@newsbots.eu | 513 |
-| 25 | ckstechnologynews@mastodon.social | 505 |
-| 26 | ethereum@framapiaf.org | 496 |
-| 27 | blendernation@botsin.space | 494 |
-| 28 | nextinpact@gs.leftic.club | 464 |
-| 29 | mediapart@mastodon.social | 444 |
-| 30 | androidpolice@mstdn.social | 437 |
-| 31 | jleimer@brighteon.social | 406 |
-| 32 | reporterre@gs.leftic.club | 362 |
-| 33 | arzachel@mastodon.derveni.org | 358 |
-| 34 | benzogaga33@mamot.fr | 353 |
-| 35 | todayilearned@botsin.space | 316 |
-| 36 | enigmatico@fedi.absturztau.be | 273 |
-| 37 | thenewoil@freeradical.zone | 256 |
-| 38 | journalducoin@mastodon.social | 250 |
-| 39 | artbot@botsin.space | 247 |
-| 40 | noagendashownoteslinks@noagendasocial.com | 246 |
-| 41 | teddythebest@framapiaf.org | 237 |
-| 42 | snoro@mastodon.social | 230 |
-| 43 | redfrog@mamot.fr | 219 |
-| 44 | thenation@newsbots.eu | 216 |
-| 45 | tilderadio@tilde.zone | 215 |
-| 46 | susaninva@social.quodverum.com | 212 |
-| 47 | pluralistic@mamot.fr | 197 |
-| 48 | bitcoinmagazine@bitcoinhackers.org | 196 |
-| 49 | reporterre@mamot.fr | 177 |
-| 50 | thecanary@newsbots.eu | 173 |
-| 51 | redwhitebluedude@social.quodverum.com | 170 |
-| 52 | makoto@precure.ml | 170 |
-| 53 | itsecbot@schleuss.online | 169 |
-| 54 | anarchistfederation@kolektiva.social | 166 |
-| 55 | micodebot@mamot.fr | 163 |
-| 56 | hj@shigusegubu.club | 163 |
-| 57 | kelly_naproducr@noagendasocial.com | 159 |
-| 58 | lobsters@botsin.space | 157 |
-| 59 | lobsters@newsbots.eu | 155 |
-| 60 | hhra@botsin.space | 155 |
-| 61 | darulharb@social.quodverum.com | 153 |
-| 62 | blenderdomain@botsin.space | 152 |
-| 63 | stridermcperson@noagendasocial.com | 145 |
-| 64 | lescrises@gs.leftic.club | 144 |
-| 65 | se7en@freespeechextremist.com | 140 |
-| 66 | masterblaster@social.quodverum.com | 139 |
-| 67 | neoresistant@mamot.fr | 136 |
-| 68 | hermesgabriel@todon.nl | 134 |
-| 69 | trittriton@shelter.moe | 132 |
+| 1 | covid_stats@mastodon.cloud | 2,759 |
+| 2 | technews@aspiechattr.me | 2,746 |
+| 3 | hn50@social.lansky.name | 2,720 |
+| 4 | elpuntavui@mastodont.cat | 2,472 |
+| 5 | itnewsbot@schleuss.online | 2,461 |
+| 6 | hn100@social.lansky.name | 1,792 |
+| 7 | hn100@botsin.space | 1,504 |
+| 8 | telesur_es@newsbots.eu | 1,171 |
+| 9 | hackernews@die-partei.social | 1,130 |
+| 10 | naturalnews@brighteon.social | 1,031 |
+| 11 | lemonde@newsbots.eu | 970 |
+| 12 | johndolph@brighteon.social | 849 |
+| 13 | ponypics@equestria.social | 833 |
+| 14 | alternet@newsbots.eu | 795 |
+| 15 | hnbot@botsin.space | 790 |
+| 16 | bbcpersiannewsbot@aleph.land | 763 |
+| 17 | youngblood@social.quodverum.com | 719 |
+| 18 | thepressproject@libretooth.gr | 653 |
+| 19 | btc@framapiaf.org | 651 |
+| 20 | freax@anonsys.net | 596 |
+| 21 | teargasbreakfast@social.quodverum.com | 592 |
+| 22 | hn250@social.lansky.name | 585 |
+| 23 | gradientbot@botsin.space | 572 |
+| 24 | ckstechnologynews@mastodon.social | 537 |
+| 25 | euwatch@newsbots.eu | 533 |
+| 26 | ethereum@framapiaf.org | 512 |
+| 27 | blendernation@botsin.space | 512 |
+| 28 | nextinpact@gs.leftic.club | 476 |
+| 29 | mediapart@mastodon.social | 459 |
+| 30 | androidpolice@mstdn.social | 445 |
+| 31 | jleimer@brighteon.social | 420 |
+| 32 | reporterre@gs.leftic.club | 378 |
+| 33 | benzogaga33@mamot.fr | 370 |
+| 34 | arzachel@mastodon.derveni.org | 359 |
+| 35 | todayilearned@botsin.space | 322 |
+| 36 | enigmatico@fedi.absturztau.be | 280 |
+| 37 | thenewoil@freeradical.zone | 268 |
+| 38 | journalducoin@mastodon.social | 262 |
+| 39 | artbot@botsin.space | 255 |
+| 40 | snoro@mastodon.social | 247 |
+| 41 | teddythebest@framapiaf.org | 247 |
+| 42 | noagendashownoteslinks@noagendasocial.com | 246 |
+| 43 | thenation@newsbots.eu | 226 |
+| 44 | redfrog@mamot.fr | 226 |
+| 45 | tilderadio@tilde.zone | 222 |
+| 46 | susaninva@social.quodverum.com | 219 |
+| 47 | bitcoinmagazine@bitcoinhackers.org | 203 |
+| 48 | pluralistic@mamot.fr | 197 |
+| 49 | reporterre@mamot.fr | 182 |
+| 50 | hj@shigusegubu.club | 177 |
+| 51 | thecanary@newsbots.eu | 176 |
+| 52 | makoto@precure.ml | 176 |
+| 53 | itsecbot@schleuss.online | 175 |
+| 54 | anarchistfederation@kolektiva.social | 173 |
+| 55 | redwhitebluedude@social.quodverum.com | 172 |
+| 56 | lobsters@botsin.space | 166 |
+| 57 | lobsters@newsbots.eu | 164 |
+| 58 | micodebot@mamot.fr | 164 |
+| 59 | hhra@botsin.space | 161 |
+| 60 | kelly_naproducr@noagendasocial.com | 160 |
+| 61 | blenderdomain@botsin.space | 160 |
+| 62 | darulharb@social.quodverum.com | 153 |
+| 63 | lescrises@gs.leftic.club | 146 |
+| 64 | stridermcperson@noagendasocial.com | 146 |
+| 65 | trittriton@shelter.moe | 143 |
+| 66 | se7en@freespeechextremist.com | 142 |
+| 67 | neoresistant@mamot.fr | 141 |
+| 68 | masterblaster@social.quodverum.com | 141 |
+| 69 | hermesgabriel@todon.nl | 135 |
 | 70 | obiolsfriendica@libranet.de | 131 |
-| 71 | nachocarreras@mastodon.la | 127 |
-| 72 | geekland@mastodon.social | 126 |
-| 73 | hn500@social.lansky.name | 125 |
-| 74 | infoactu@mamot.fr | 122 |
-| 75 | elnacionalcat_bot@newsbots.eu | 121 |
-| 76 | jafo@social.quodverum.com | 121 |
-| 77 | info_activism@mastodon.cc | 120 |
-| 78 | zennblack@itmslaves.com | 118 |
-| 79 | hacktivists@hispagatos.space | 113 |
-| 80 | venom@nanao.cybtex.fr | 112 |
-| 81 | alternatives_economiques@social.jesuislibre.net | 111 |
-| 82 | pzmyers@octodon.social | 111 |
-| 83 | dabnotu@mastodon.art | 108 |
-| 84 | foneguy89@noagendasocial.com | 102 |
-| 85 | humansarefree@brighteon.social | 102 |
-| 86 | outraspalavras@newsbots.eu | 99 |
-| 87 | ferranmartin@mastodon.social | 98 |
-| 88 | klaatu@noagendasocial.com | 97 |
-| 89 | benborges@mastodon.social | 95 |
-| 90 | cryptobot@aspiechattr.me | 94 |
-| 91 | thefreethoughtproject@masthead.social | 91 |
+| 71 | hn500@social.lansky.name | 131 |
+| 72 | nachocarreras@mastodon.la | 129 |
+| 73 | geekland@mastodon.social | 129 |
+| 74 | infoactu@mamot.fr | 126 |
+| 75 | info_activism@mastodon.cc | 125 |
+| 76 | elnacionalcat_bot@newsbots.eu | 124 |
+| 77 | jafo@social.quodverum.com | 121 |
+| 78 | hacktivists@hispagatos.space | 121 |
+| 79 | zennblack@itmslaves.com | 118 |
+| 80 | alternatives_economiques@social.jesuislibre.net | 115 |
+| 81 | dabnotu@mastodon.art | 114 |
+| 82 | pzmyers@octodon.social | 114 |
+| 83 | venom@nanao.cybtex.fr | 112 |
+| 84 | humansarefree@brighteon.social | 108 |
+| 85 | foneguy89@noagendasocial.com | 102 |
+| 86 | ferranmartin@mastodon.social | 101 |
+| 87 | outraspalavras@newsbots.eu | 99 |
+| 88 | benborges@mastodon.social | 98 |
+| 89 | klaatu@noagendasocial.com | 98 |
+| 90 | cryptobot@aspiechattr.me | 97 |
+| 91 | thefreethoughtproject@masthead.social | 93 |
 | 92 | arielanderssen@kinkyelephant.com | 91 |
 | 93 | cupnacional@xarxa.cloud | 89 |
-| 94 | lilithsaintcrow@raggedfeathers.com | 86 |
-| 95 | citoyenchouette@mastodon.social | 86 |
-| 96 | naciodigital_bot@newsbots.eu | 86 |
-| 97 | saltinbank@mamot.fr | 85 |
-| 98 | johndolph@noagendasocial.com | 81 |
-| 99 | fantomas@mastodon.top | 81 |
-| 100 | wwwcdorg@mamot.fr | 80 |
+| 94 | naciodigital_bot@newsbots.eu | 88 |
+| 95 | lilithsaintcrow@raggedfeathers.com | 88 |
+| 96 | citoyenchouette@mastodon.social | 86 |
+| 97 | wwwcdorg@mamot.fr | 86 |
+| 98 | saltinbank@mamot.fr | 85 |
+| 99 | johndolph@noagendasocial.com | 84 |
+| 100 | bumi@todon.nl | 84 |
 
 [//]: # (do not edit this line end)
 
@@ -155,22 +155,22 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 [//]: # (do not edit this line start; t3)
 
 
-- Mastodon users posted *564,823* public toots. (about *17650.7* toots per day)
+- Mastodon users posted *583,383* public toots. (about *17678.3* toots per day)
   - Above number include toots which has no link.
 - Now let's focus on *Mastodon toots which has links*.
 
 ![](../image/bully.jpg)
 
-- Mastodon users shared *240,629* links in total.
-  - *62,172* links are Cloudflare links. (*25.8*%)
-- There are *10,085* users who shared ANY links.
-  - On average one mastodon user shared *23.9* links. (about *0.7* links per day)
-  - There are *1,075* users who ONLY shared Cloudflare links. (*10.7*%)
-  - There are *5,741* users who NEVER shared Cloudflare links. (*56.9*%)
+- Mastodon users shared *249,222* links in total.
+  - *64,713* links are Cloudflare links. (*26*%)
+- There are *10,383* users who shared ANY links.
+  - On average one mastodon user shared *24* links. (about *0.7* links per day)
+  - There are *1,217* users who ONLY shared Cloudflare links. (*11.7*%)
+  - There are *5,795* users who NEVER shared Cloudflare links. (*55.8*%)
 
 tl;dr
-### *43.1%* of Mastodon users who shared link shared Cloudflare links.
-### *25.8%* of shared links are Cloudflare links.
+### *44.2%* of Mastodon users who shared link shared Cloudflare links.
+### *26%* of shared links are Cloudflare links.
 
 [//]: # (do not edit this line end)
 
