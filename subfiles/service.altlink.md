@@ -152,9 +152,9 @@ set N V
 - N is above numbers.
 - V is value.
   - for number 1 to 3, 6 to 8:
-    - _one of_: y n yes no true false 1 0 on off
+    - _one of_: `yes` `no` `true` `false` `on` `off`
   - for number 4:
-    - _one of_: _cc_ (see [/README.md](../README.md))
+    - _one of_: `cc` (2 letter. see [/README.md](../README.md))
     - e.g. `es Español` -> `es`
     - [**Improve translation**](../tool/trans.altlink.txt)
   - for number 5:
