@@ -9,6 +9,11 @@ large number of independently run Mastodon nodes (known as "instances"), each wi
 its own code of conduct, terms of service, privacy options, and moderation policies.
 ```
 
+# ===================================
+# Total Reconstruction in progress
+# Check Back Later For Better Results
+# ===================================
+
 - Contents
   - [Top 10 - Shared Any links](cloudflared_shared_mastodon.md#top-10-shared-any-links)
   - [Top 100 - Shared Cloudflare links](cloudflared_shared_mastodon.md#top-100-shared-cloudflare-links)
@@ -178,5 +183,3 @@ tl;dr
 ----
 
 ![](../image/mastodoncf.jpg)
-
-<a rel="me" href="https://indieweb.social/@cat"></a>
