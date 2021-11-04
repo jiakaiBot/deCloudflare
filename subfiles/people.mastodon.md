@@ -7,6 +7,8 @@
 
 
 
+- yes I see you have come out as.... anti... cloudflare... you will be a valuable comrade ([foggy](https://monads.online/@foggy/107215021572595812))
+- biggest nerd voice in the world: "I migrated off of cloudflare. Everybody has to play a part." ([foggy](https://monads.online/@foggy/107215043715168324))
 - @ScottMortimer not a good site.. that’s a #Cloudflare site. Ironic considering SSH is generally for streetwise users. ([bojkotimalbona](https://infosec.exchange/@bojkotiMalbona/107209157915654487))
 - hm, cloudflare seems to really fucking hate my IP for some weird reason ([deletescape](https://notbird.site/@deletescape/107198343635529842))
 - Going through #Cloudflare is the new #starfish. Don't perform, dear #bank, just siphon #customerData to us, we'll print the rest. What if good #banks don't go through Cloudflare, but use #renewableEnergy to secure #bitcoin and other #currencies that are actually worth something and we paide pay them in transaction fees. #deleteCloudflare #cyberThreat #cyberWar #MITMAAS #singlePointFailure #cyberAttack #Australia #finance #whyBitcoinCoin ([dsfgs](https://activism.openworlds.info/@dsfgs/107183745246898426))
