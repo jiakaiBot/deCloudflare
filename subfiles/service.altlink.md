@@ -125,6 +125,7 @@ You can configure AL via `direct message`.
 - 3: Count my links and send me report monthly.
   - Default is `off`.
   - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we **never** save (& don't care) what you shared.
+    - AL will not send a report if you did not post any links (share 0 links) for a month. (e.g. you have returned to Twitter and stopped using Mastodon)
   - If you change this settings _or_ each month has passed counter will reset to 0.
 - 4: Set my preferred language to ??. 
   - Default is _unset_.
