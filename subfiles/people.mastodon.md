@@ -7,6 +7,7 @@
 
 
 
+- it seems all websites that rely on cloudflare are down for me all are showing a host site error ([codythedragonrude](https://linuxrocks.online/@codythedragonrude/107218790157363530))
 - yes I see you have come out as.... anti... cloudflare... you will be a valuable comrade ([foggy](https://monads.online/@foggy/107215021572595812))
 - biggest nerd voice in the world: "I migrated off of cloudflare. Everybody has to play a part." ([foggy](https://monads.online/@foggy/107215043715168324))
 - @ScottMortimer not a good site.. that’s a #Cloudflare site. Ironic considering SSH is generally for streetwise users. ([bojkotimalbona](https://infosec.exchange/@bojkotiMalbona/107209157915654487))
