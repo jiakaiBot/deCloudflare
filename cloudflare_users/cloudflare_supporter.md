@@ -3413,6 +3413,7 @@ Do not create new issue or we will close it as duplicate.
 | [Michael17887442@twitter](https://twitter.com/Michael17887442/status/1394202950143258625) | advertise |
 | [Michael33737581@twitter](https://twitter.com/Michael33737581/status/1407397526357954562) | advertise |
 | [MichaelJGant1@twitter](https://twitter.com/MichaelJGant1/status/1388453082317606914) | advertise |
+| [MichaelTlayt@twitter](https://twitter.com/MichaelTlayt/status/1455463683639943170) | advertise |
 | [MichaelUdyRajD@twitter](https://twitter.com/MichaelUdyRajD/status/1378052380533563393) | advertise |
 | [MichaelWanzer5@twitter](https://twitter.com/MichaelWanzer5/status/1388810880150691845) | advertise |
 | [michael_scharen@twitter](https://twitter.com/michael_scharen/status/1397316913139634176) | advertise |
@@ -4982,6 +4983,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shashik19575790@twitter](https://twitter.com/Shashik19575790/status/1384458463896477698) | advertise |
 | [Shatan17600579@twitter](https://twitter.com/Shatan17600579/status/1403215707387482116) | advertise |
 | [shawadin96@twitter](https://twitter.com/shawadin96/status/1393564895409434627) | advertise |
+| [shawnjvandiver@twitter](https://twitter.com/shawnjvandiver/status/1455368726748954625) | advertise |
 | [shayanjoun@twitter](https://twitter.com/shayanjoun/status/1381894805509275649) | advertise |
 | [ShayDeeMan@twitter](https://twitter.com/ShayDeeMan/status/1427705148231532549) | advertise |
 | [Shayden87162676@twitter](https://twitter.com/Shayden87162676/status/1388560807433211905) | advertise |
@@ -5341,6 +5343,7 @@ Do not create new issue or we will close it as duplicate.
 | [tdahao241@twitter](https://twitter.com/tdahao241/status/1398680889601581057) | advertise |
 | [tdat868@twitter](https://twitter.com/tdat868/status/1396835443618897922) | advertise |
 | [Team98750688@twitter](https://twitter.com/Team98750688/status/1385933279514173448) | advertise |
+| [TeamAZSoftware@twitter](https://twitter.com/TeamAZSoftware/status/1455916086197727233) | advertise |
 | [Teammmmmmmmm3@twitter](https://twitter.com/Teammmmmmmmm3/status/1398780432074743810) | advertise |
 | [tech97519794@twitter](https://twitter.com/tech97519794/status/1406477104200310788) | advertise |
 | [TecharoApp@twitter](https://twitter.com/TecharoApp/status/1401984338472931330) | advertise |
@@ -6090,6 +6093,7 @@ Do not create new issue or we will close it as duplicate.
 | [wolfbeast@github.com](https://github.com/wolfbeast) | [README.md](README.md) |
 | [wongwong9586@twitter](https://twitter.com/wongwong9586/status/1391297275255681025) | advertise |
 | [Wooddadda13@twitter](https://twitter.com/Wooddadda13/status/1393045087119056898) | advertise |
+| [WoolongsC@twitter](https://twitter.com/WoolongsC/status/1455335970610589696) | advertise |
 | [woseokproperty@twitter](https://twitter.com/woseokproperty/status/1390282007041626116) | advertise |
 | [WriteLonger@twitter](https://twitter.com/WriteLonger/status/1379361846314950658) | advertise |
 | [wrongxbleed@twitter](https://twitter.com/wrongxbleed/status/1380588171436597249) | advertise |
