@@ -478,6 +478,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.club | No |
 | fedi.fancycade.xyz | No |
 | fedi.farm | No |
+| fedi.fit | No |
 | fedi.fullstuck.net | No |
 | fedi.jmizzle.com | No |
 | fedi.kate.land | No |
@@ -601,6 +602,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | furries.world | No |
 | furrylife.online | Yes |
 | futen.work | No |
+| fuzz.network | No |
 | fuzzy.systems | No |
 | fv.cottongin.xyz | Yes |
 | g0v.social | No |
@@ -758,6 +760,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hypno.church | No |
 | i.misskey.love | No |
 | iam.lydi.as | No |
+| ibb.info | No |
 | icedlatte.chat | No |
 | icedtux.no | No |
 | ichiji.social | No |
@@ -842,6 +845,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kancolle.social | No |
 | kanina.be | No |
 | kanoa.de | No |
+| kapocs.urbalazs.hu | No |
 | kaskjer.space | No |
 | kasma.cyou | No |
 | kawaii.kitsune.cafe | No |
@@ -854,6 +858,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kerkour.com | Yes |
 | keybored.me | No |
 | kfem.cat | No |
+| khajiit.tech | Yes |
 | khat.komitea.fi | No |
 | khiar.net | Yes |
 | khp.ignorelist.com | No |
@@ -1138,6 +1143,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.hk | Yes |
 | mastodon.home.15cm.net | Yes |
 | mastodon.honeypot.im | No |
+| mastodon.hoppinglife.com | No |
 | mastodon.hugopoi.net | No |
 | mastodon.humanistische-union.de | No |
 | mastodon.hydrosaas.com | Yes |
@@ -1203,6 +1209,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.nu | No |
 | mastodon.nz | No |
 | mastodon.nzoss.nz | No |
+| mastodon.oe74.net | No |
 | mastodon.oeru.org | No |
 | mastodon.oi7.de | No |
 | mastodon.onepointzero.com | Yes |
@@ -1705,6 +1712,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pl.lain.bar | No |
 | pl.mastodont.cat | No |
 | pl.nikotile.xyz | Yes |
+| pl.poo.li | No |
 | pl.pube.tk | No |
 | pl.qorg11.net | No |
 | pl.remote-shell.net | No |
@@ -1861,6 +1869,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | proyectozero.org | Yes |
 | prsm.space | No |
 | pub.pm | No |
+| pub.yovko.net | Yes |
 | pullopen.xyz | Yes |
 | puntarella.party | No |
 | puppo.space | No |
@@ -1941,6 +1950,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | s.chars.jp | Yes |
 | s.knusper-land.de | Yes |
 | s.lono.space | Yes |
+| s.lx.ddnss.org | No |
 | s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | s10y.eu | No |
@@ -1990,6 +2000,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | shigusegubu.club | No |
 | shiina.cafe | No |
 | shin.pp.ua | No |
+| shiro.dog | No |
 | shitpisscum.mooo.com | No |
 | shitpost.poridge.club | No |
 | shitposter.club | No |
@@ -2056,6 +2067,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.abraum.de | No |
 | social.adamasnemesis.com | No |
 | social.adlerweb.info | No |
+| social.afontaine.dev | No |
 | social.alesan.io | No |
 | social.alternativebit.fr | No |
 | social.alyve.be | No |
@@ -2172,6 +2184,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.jesuislibre.net | No |
 | social.jfischer.org | No |
 | social.joschu.ch | No |
+| social.josephschneider.net | No |
 | social.k1ppl.com | Yes |
 | social.kabi.tk | No |
 | social.kaitaia.life | Yes |
@@ -2346,6 +2359,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | soykaf.org | Yes |
 | sp.kub2091.ru | No |
 | spank.ws | No |
+| spanner.works | No |
 | spectres.space | No |
 | spheres.solarnight.net | No |
 | spinster.xyz | Yes |
@@ -2364,6 +2378,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | stereophonic.space | No |
 | stoneartprod.xyz | No |
 | stonerkitty.monster | No |
+| stoopid.club | No |
 | strelizia.net | No |
 | sts.lqt.moe | No |
 | stubn.hallertau.social | No |
@@ -2606,6 +2621,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | volt.cafe | No |
 | voring.me | No |
 | vostain.net | No |
+| vrij.social | Yes |
 | vrparty.social | Yes |
 | vucica.net | No |
 | vulpine.club | Yes |
@@ -2709,8 +2725,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 493 |
-| Normal | 2,179 |
+| Cloudflare | 496 |
+| Normal | 2,192 |
 
 
 ### 18.5% of public Fediverse services are using Cloudflare.
