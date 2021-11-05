@@ -11,6 +11,7 @@ You′ve found something on the internet.
 Are these links blocking Tor users or not?
  
 This add-on is using[1] public[3] API to scan FQDN.
+WE DO NOT COLLECT THIS DATA.
 	e.g. https://ekzemplo.com/page.html → "ekzemplo.com"
 
 This add-on never send other information.
