@@ -84,6 +84,11 @@ its own code of conduct, terms of service, privacy options, and moderation polic
   - There are *5,903* users who NEVER shared Cloudflare links. (*55*%)
 - Inside *620,723* public toots,
   - There are *32,157* base domains. (e.g. both `www.youtube.com` `m.youtube.com` will be treated as `youtube.com`)
+    - There are *2,222* Cloudflared domains. (*77*%)
+
+
+## *55*% of links shared on Mastodon are Cloudflared.
+## *77*% of Mastodon users shared Cloudflare link.
 
 
 [//]: # (do not edit this line end)
