@@ -7,6 +7,7 @@
 
 
 
+- Once again cloudflare is blocking people from accessing stories for hours at a time and now we can only login when we review or favorite a story. Fix the bugs or lose a lot a viewers, who will migrate to other fiction sites, which would be a shame. ([ryhatch](https://twitter.com/RyHatch/status/1455946125912035332))
 - Just as a note, the abuse page asks you to fill out a form on a link on the page - Neither the link nor the form is on the page, we can go no further than reading the page ([coolpercussion](https://twitter.com/CoolPercussion/status/1456273456710905861))
 - I need to speak to a HUMAN BEING about a COPYRIGHT INFRINGEMENT and not a stupid bot. Have someone contact me ASAP!! ([kimatliah](https://twitter.com/KimAtLiah/status/1456243492104163336))
 - Help with DirBuster while using Cloudflare? I set the rate limit to 10 every 10 seconds, blocked all the countries that are not mine on Cloudflare Firewall rules, and the cloudflare firewall is still blocking all these requests comming from DirBuster but it still makes my si… ([cybrxx0](https://twitter.com/CybrXx0/status/1456274979214053376))
