@@ -7,6 +7,7 @@
 
 
 
+- So iCloud private relay is running on CloudFlare and uses the your closest geological location. Not really a VPN ([erfaan](https://twitter.com/erfaan/status/1456472991894749188))
 - I keep getting access denied Error code 1020 from Cloudflare when accessing your website, None of the solutions I've tried have worked. Any help? ([tylerwi77370915](https://twitter.com/TylerWi77370915/status/1456435098753150995))
 - Once again cloudflare is blocking people from accessing stories for hours at a time and now we can only login when we review or favorite a story. Fix the bugs or lose a lot a viewers, who will migrate to other fiction sites, which would be a shame. ([ryhatch](https://twitter.com/RyHatch/status/1455946125912035332))
 - Just as a note, the abuse page asks you to fill out a form on a link on the page - Neither the link nor the form is on the page, we can go no further than reading the page ([coolpercussion](https://twitter.com/CoolPercussion/status/1456273456710905861))
