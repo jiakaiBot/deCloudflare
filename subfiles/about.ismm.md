@@ -11,6 +11,7 @@ You′ve found something on the internet.
 Are these links or images vulnerable to MITM attack or not?
  
 This add-on is using[1] public[4] API to scan[3] FQDN.
+WE DO NOT COLLECT THIS DATA.
 	e.g. https://ekzemplo.com/page.html → "ekzemplo.com"
 
 This add-on never send other information.
