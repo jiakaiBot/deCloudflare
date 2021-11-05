@@ -1345,3 +1345,10 @@ browser.runtime.onMessage.addListener((requests, sender, sendResponse) => {
 	}
 	return;
 });
+browser.runtime.onInstalled.addListener(g => {
+	if (g.reason == 'install') {
+		browser.tabs.create({
+			url: 'http://about-ismm.go.crimeflare.eu.org/'
+		});
+	}
+});
