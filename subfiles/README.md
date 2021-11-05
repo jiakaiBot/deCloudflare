@@ -14,7 +14,6 @@
   - [Public DNS](service.publicdns.md)
   - [Clearnet Onion](https://clearnetonion.eu.org)
   - [Crimeflare Mail](https://mail.crimeflare.eu.org)
-  - [Mastodon Find](https://toot.crimeflare.eu.org), "[Find Mastodon Toots & Accounts](../tool/mastodonfind/README.md)"
   - [IAList](https://ialist.crimeflare.eu.org)
   - [Alternative Link](service.altlink.md)
 - Cloudflared
