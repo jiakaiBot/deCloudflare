@@ -7,6 +7,7 @@
 
 
 
+- Funniest quote on #theInternet ever: &quot;Cloudflare is on a mission to help build a better internet.&quot; #ownGoal #parody #cloudflare #dotCon #dotCons #trustUs #ItsFree #MITMAAS #cloudflareIsTheMalware #internetCancer ([dsfgs](https://activism.openworlds.info/@dsfgs/107224867596100158))
 - @CryptoBot Unfortunately, the popular #cryptocurrency news site, #CoinTelegraph is #Cloudflare. Are you able to explain the story in greater detail here? ([dsfgs](https://activism.openworlds.info/@dsfgs/107223716195930029))
 - It amazes us that people (and #bankers) actually trust #Cloudflare, #AmazonCloudfront and #Akamai to surveil all their #website traffic… …because #DDoS, and &quot;Its FREE&quot;. When has, &quot;its a FREE service&quot; ever worked out for the millions of users that adopt it? Someone rename the #stockMarket to #ClownFare, pls. Its a #ClownCarShow. #kakistocracy #banks #australia #itsFree #blockDotCons #blockCloudflare #blockCAGEFAM ([dsfgs](https://activism.openworlds.info/@dsfgs/107220162200107433))
 - it seems all websites that rely on cloudflare are down for me all are showing a host site error ([codythedragonrude](https://linuxrocks.online/@codythedragonrude/107218790157363530))
