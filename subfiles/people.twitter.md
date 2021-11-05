@@ -7,6 +7,7 @@
 
 
 
+- FYI, UI folks: Off-campus users can’t download PDFs from Wiley because their Cloudflare service is experiencing high activity. Users can try printing to PDF or accessing with VPN. ([janui_librarian](https://twitter.com/JanUI_Librarian/status/1456680188109012995))
 - So iCloud private relay is running on CloudFlare and uses the your closest geological location. Not really a VPN ([erfaan](https://twitter.com/erfaan/status/1456472991894749188))
 - I keep getting access denied Error code 1020 from Cloudflare when accessing your website, None of the solutions I've tried have worked. Any help? ([tylerwi77370915](https://twitter.com/TylerWi77370915/status/1456435098753150995))
 - Once again cloudflare is blocking people from accessing stories for hours at a time and now we can only login when we review or favorite a story. Fix the bugs or lose a lot a viewers, who will migrate to other fiction sites, which would be a shame. ([ryhatch](https://twitter.com/RyHatch/status/1455946125912035332))
