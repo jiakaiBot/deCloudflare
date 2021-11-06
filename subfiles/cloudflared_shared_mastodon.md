@@ -24,11 +24,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 ----
 
 
-<details>
-<summary>_click me_
-
 ### Top 10 - Shared Any links
-</summary>
 
 [//]: # (do not edit this line start; t1)
 
@@ -47,14 +43,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 [//]: # (do not edit this line end)
 
-</details>
-
-
-<details>
-<summary>_click me_
 
 ### Top 100 - Shared Cloudflare links
-</summary>
 
 [//]: # (do not edit this line start; t2)
 
@@ -163,14 +153,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 [//]: # (do not edit this line end)
 
-</details>
-
-
-<details>
-<summary>_click me_
 
 ### Top 100 - Most Shared Domains
-</summary>
 
 [//]: # (do not edit this line start; t3)
 
@@ -279,42 +263,24 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 [//]: # (do not edit this line end)
 
-</details>
-
-
-<details>
-<summary>_click me_
 
 ### Mastodon - Top 10 Most Used Language
-</summary>
 
 [//]: # (do not edit this line start; t6)
 
 
 [//]: # (do not edit this line end)
 
-</details>
-
-
-<details>
-<summary>_click me_
 
 ### Mastodon - Top 10 Most Used Servers
-</summary>
 
 [//]: # (do not edit this line start; t7)
 
 
 [//]: # (do not edit this line end)
 
-</details>
-
-
-<details>
-<summary>_click me_
 
 ### Summary
-</summary>
 
 [//]: # (do not edit this line start; t5)
 
@@ -344,8 +310,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 ## *23.2*% of shared links are Cloudflared.
 
 [//]: # (do not edit this line end)
-
-</details>
 
 
 ----
