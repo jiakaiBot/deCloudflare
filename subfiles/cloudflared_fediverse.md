@@ -1,5 +1,11 @@
-## How many % of links people publicly shared on Mastodon are using Cloudflare?
+## How many % of public Fediverse services are using Cloudflare?
 
+
+- [Fediverse](https://en.wikipedia.org/wiki/Fediverse)
+```
+The Fediverse is an ensemble of interconnected servers that are used for social networking, 
+but which, while independently hosted, can communicate with each other.
+```
 
 - [Mastodon](https://en.wikipedia.org/wiki/Mastodon_(software))
 ```
@@ -10,314 +16,2681 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 ```
 
 
-- Here's a statistic of public Mastodon toots.
-  - Inactive accounts (e.g. No toots sent for 1 month) are not listed.
-- Contents
-  - [Top 10 - Shared Any links](cloudflared_shared_mastodon.md#top-10-shared-any-links)
-  - [Top 100 - Shared Cloudflare links](cloudflared_shared_mastodon.md#top-100-shared-cloudflare-links)
-  - [Top 100 - Most Shared Domains](cloudflared_shared_mastodon.md#top-100-most-shared-domains)
-  - [About Mastodon Users](cloudflared_shared_mastodon.md#about-mastodon-users)
-- ↳ **Stop Sharing Cloudflare Links**! Follow [Alternative Link](service.altlink.md)
-
-----
+- Here's a list of public Fediverse services.
+  - Inactive servers (e.g. No toots sent for 1 month) are not listed.
 
 
 <details>
 <summary>_click me_
 
-### Top 10 - Shared Any links
+## Mastodon, Pleroma, etc
 </summary>
 
-[//]: # (do not edit this line start; t1)
+| Site | Cloudflared |
+| --- | --- |
+| 0wo.ooo | No |
+| 0x3c.pl | Yes |
+| 1m.cutls.com | Yes |
+| 1o1.io | No |
+| 2c.taoetc.org | No |
+| 2m.cutls.com | Yes |
+| 2mb.social | Yes |
+| 2nd.slum.cloud | Yes |
+| 2to2.xyz | No |
+| 3dots.lv | No |
+| 4estate.media | No |
+| 7.62x54r.ru | No |
+| 9kb.me | No |
+| 13bells.com | No |
+| 44.ci | Yes |
+| 404.inexist.club | Yes |
+| 433.world | No |
+| 438punk.house | No |
+| 448c.net | No |
+| 774.masto.host | No |
+| 1234.as | Yes |
+| 1929.com | No |
+| 7144.party | No |
+| 60228.dev | Yes |
+| 79120.tours | Yes |
+| 101010.pl | No |
+| a-room-ones-own.me | No |
+| a.nti.social | No |
+| a.rathersafe.space | No |
+| a2mi.social | No |
+| aachen.social | No |
+| aana.site | No |
+| abdl.link | Yes |
+| abhlach.ie | No |
+| abolition.town | No |
+| abyss.fun | Yes |
+| abyss.observer | No |
+| acg.mn | Yes |
+| achi.masto.host | No |
+| activism.openworlds.info | No |
+| adney.land | No |
+| agora.echelon.pl | No |
+| ahhhhhh.social | No |
+| ahlers.xyz | No |
+| aidoru.cafe | No |
+| aipi.social | No |
+| aircrew.rocks | No |
+| ajin.la | No |
+| akko.kalasarn.se | No |
+| alcyon.twilightparadox.com | No |
+| aleph.land | No |
+| alfazema.club | No |
+| alirezahayati.com | No |
+| alive.bar | Yes |
+| allpro.social | No |
+| allships.run | Yes |
+| alltomorrows.party | No |
+| alonecomplex.xyz | Yes |
+| alongtheray.social | Yes |
+| altelectron.org.uk | No |
+| amefur.asia | No |
+| amicale.net | No |
+| anarchism.space | No |
+| angrytoday.com | No |
+| ani.work | Yes |
+| animal-crossing.mastportal.info | No |
+| anime.website | No |
+| annaclemens.io | Yes |
+| anonsys.net | No |
+| antabaka.me | No |
+| anticapitalist.party | Yes |
+| anticitoyen.fr.nf | No |
+| antinetzwerk.de | No |
+| antisocial.science | No |
+| ap.jadiunr.net | Yes |
+| ap.ketsuben.red | No |
+| apeiron.aire.ml | No |
+| appdot.net | No |
+| ar.akarinext.org | Yes |
+| arcade.ooo | Yes |
+| area51.tinfoil-hat.net | No |
+| area893.org | No |
+| arkham.cafe | No |
+| arktos.social | No |
+| art-software.fr | No |
+| artoot.xyz | No |
+| arugula.social | No |
+| asimon.org | No |
+| asocial.grimstack.xyz | Yes |
+| aspiechattr.me | No |
+| assortedflotsam.com | No |
+| atsuchan.page | No |
+| aus.social | No |
+| ausglam.space | No |
+| autonomous.zone | No |
+| avantwhatever.org | No |
+| awes.one | Yes |
+| awoo.chown.me | No |
+| awoo.fai.su | No |
+| awoo.space | No |
+| b.z0ne.social | Yes |
+| b612.me | Yes |
+| backtoroot.xyz | No |
+| badgay.net | No |
+| balkan.fedive.rs | No |
+| banana.dog | Yes |
+| bananachips.club | No |
+| bangdream.space | Yes |
+| bangdream.tokyo | No |
+| banjo.town | No |
+| bantu.social | No |
+| baraag.net | Yes |
+| barcamp.social | No |
+| barcelona.social | No |
+| barkshark.xyz | No |
+| barrett.dog | No |
+| basedship.xyz | Yes |
+| battleangels.net | No |
+| bayfur.club | No |
+| bbbdn.jp | No |
+| bbs.kawa-kun.com | No |
+| bdx.town | No |
+| beach.city | No |
+| bear.community | No |
+| bearvideo.win | Yes |
+| beebear.party | Yes |
+| beefyboys.club | Yes |
+| beepboop.one | No |
+| benzo.fans | No |
+| best-friends.chat | No |
+| bgme.me | Yes |
+| bidule.menf.in | No |
+| bigshoulders.city | No |
+| bikeshed.party | No |
+| bildung.social | No |
+| bilincakisi.com | Yes |
+| bimmer.social | No |
+| biplus.date | Yes |
+| birb.site | No |
+| birb.social | No |
+| birb.space | No |
+| birdity.club | No |
+| birds.garden | No |
+| biscuit.town | No |
+| bitcoinhackers.org | Yes |
+| bitcoinlizard.net | No |
+| bittube.social | No |
+| biwakodon.com | No |
+| bla.chymera.eu | No |
+| blessedgeeks.org | No |
+| blimey.social | No |
+| blimps.xyz | Yes |
+| blob.cat | No |
+| blob.coffee | No |
+| blockriot.com | No |
+| blovice.bahnhof.cz | No |
+| blue.skye.cx | No |
+| boing.world | No |
+| boitam.eu | No |
+| bologna.one | No |
+| bong.social | No |
+| bonn.social | No |
+| bookwor.ms | No |
+| boseburo.ddns.net | No |
+| bots.franssen.xyz | No |
+| bots.monado.ren | Yes |
+| botsin.space | No |
+| bourbonbyte.com | No |
+| bouvardia.icu | Yes |
+| braydmedia.de | No |
+| brighteon.social | Yes |
+| brilliantdilletants.masto.host | No |
+| brokenmirror.cc | No |
+| bruder.space | No |
+| bsd.network | No |
+| bub.cat | No |
+| budsbots.com | No |
+| bumpto.space | Yes |
+| bungle.online | No |
+| bunne.garden | No |
+| bunny.blue | No |
+| bunny.cafe | No |
+| bunt.social | No |
+| burn.capital | No |
+| burner.zone | No |
+| busshi.moe | No |
+| bussy.monster | No |
+| buta.moe | Yes |
+| buttplug.zone | No |
+| butts.team | No |
+| c.im | Yes |
+| c4.social | No |
+| cafe.diagonalley.club | No |
+| calculate.social | No |
+| campaign.openworlds.info | No |
+| campduffel.social | No |
+| canada.masto.host | No |
+| candypolis.app | No |
+| canerduh.ca | No |
+| cantos.social | No |
+| capybara.social | No |
+| cassone.social | No |
+| castlecannon.house | No |
+| castopod.chaouane.xyz | No |
+| casually.cat | No |
+| cat.cattube.org | No |
+| cat.family | No |
+| catdon.life | No |
+| catgirl.life | No |
+| catgram.jp | Yes |
+| cathode.church | No |
+| cave.mancave.de | No |
+| caw.ai | No |
+| cawfee.club | No |
+| cb.janusworx.com | No |
+| cbcmelbourne.life | No |
+| cdrom.tokyo | No |
+| chabant.social | No |
+| chablis.social | No |
+| chaos.social | No |
+| chaosphere.hostdon.jp | No |
+| charlestown.social | No |
+| chat.brainbaking.com | No |
+| chat.noelle.codes | No |
+| chickenfan.club | No |
+| childpawn.shop | No |
+| chilemasto.casa | No |
+| chillout.chat | Yes |
+| chin-co-ne.co | No |
+| chinwag.org | Yes |
+| chitter.xyz | No |
+| chokecherry.cc | Yes |
+| cipioshouse.xyz | Yes |
+| clacks.link | No |
+| claristdon.link | No |
+| climatejustice.global | No |
+| climatejustice.social | No |
+| cliq.social | No |
+| cloudisland.nz | No |
+| club.darknight-coffee.eu | No |
+| club.elephantus.moe | Yes |
+| club.mrzan.xyz | Yes |
+| clubcyberia.co | No |
+| cmx.ee | No |
+| co.misskey.io | Yes |
+| coales.co | No |
+| cobaltkiss.blue | Yes |
+| cocaine.moe | No |
+| cocoronavi.com | Yes |
+| cocoronavi.net | Yes |
+| code4lib.social | No |
+| coletivos.org | No |
+| collapsitarian.io | No |
+| colorid.es | Yes |
+| comicscamp.club | No |
+| comm.network | No |
+| comm.serenitytoo.com | No |
+| communicating.cypherpunk.observer | No |
+| communick.com | Yes |
+| community-patriots.social | No |
+| computerfairi.es | Yes |
+| computerfox.xyz | No |
+| conesphere.social | No |
+| connect.takebackourtech.org | No |
+| conoha.cf | No |
+| contra.privacyhub.xyz | Yes |
+| contrapointsfan.club | No |
+| convenient.email | No |
+| coolbowties.xyz | No |
+| coon.town | Yes |
+| corginet.duckdns.org | No |
+| cornerof.world | No |
+| cornichon.me | No |
+| corrupteddreams.com | No |
+| cosmos.social | Yes |
+| counter.fedi.live | No |
+| critter.camp | No |
+| crowsnest.libre.audio | No |
+| crypt.lol | No |
+| ctu.cx | No |
+| cuban.social | No |
+| cum.desupost.soy | No |
+| curmudgeon.cafe | No |
+| cute.is | No |
+| cute.science | No |
+| cuties.social | No |
+| cybar.club | Yes |
+| cybert-media.net | No |
+| cyberverse.bar | No |
+| cybre.space | No |
+| cybre.town | No |
+| cybt.de | No |
+| cypher.social | No |
+| cyrenesavage.com | No |
+| d.c-cha.cc | No |
+| d.map-le.net | No |
+| dads.cool | No |
+| daedal.io | No |
+| dain.moe | Yes |
+| dallas.lu | Yes |
+| dannythe.site | No |
+| darkest-timeline.com | No |
+| darmstadt.social | Yes |
+| darui.work | No |
+| deadinsi.de | Yes |
+| deadredterm.ddns.net | No |
+| debiru.xyz | Yes |
+| debula.ml | Yes |
+| decentralised.social | No |
+| decept.org | No |
+| delaeuforia.com | Yes |
+| delirium.masto.host | No |
+| democracy.town | No |
+| demon.social | No |
+| deprecastan.com | No |
+| detroitriotcity.com | No |
+| dev-friendica.mrpetovan.com | No |
+| dev.mis.b-shock.org | No |
+| devil-children-alitaso.com | Yes |
+| devin.masto.host | No |
+| dhub.social | No |
+| diaspodon.fr | No |
+| dica.interfel.de | No |
+| dice.camp | No |
+| diceyslafayette.r-o-o-t.net | No |
+| die-partei.social | No |
+| digforfire.org | No |
+| digineko.net | No |
+| digipres.club | No |
+| digitalcourage.social | No |
+| digitan.ga | No |
+| dindon.one | No |
+| dingdash.com | No |
+| dis-le.de | No |
+| discussion.studio | No |
+| disqordia.space | No |
+| distrotoot.com | No |
+| dither.ddns.net | No |
+| dizl.de | No |
+| djanzu.tokyo | No |
+| djsumdog.com | No |
+| dlyang.tk | No |
+| dobbs.town | No |
+| dog.estate | No |
+| don.bitma.st | No |
+| don.m2hq.net | No |
+| don.mamemo.online | Yes |
+| don.mfz.jp | No |
+| don.nzws.me | Yes |
+| don.taprix.org | No |
+| don.yasi2.com | Yes |
+| donotban.com | No |
+| donotsta.re | Yes |
+| donphan.social | Yes |
+| dook.business | No |
+| douban.city | Yes |
+| douchi.space | No |
+| dprj.xyz | No |
+| dragon-fly.club | Yes |
+| dragon.style | No |
+| dragonfleye.io | No |
+| dragonscave.space | No |
+| drdr.club | Yes |
+| dresden.network | No |
+| drizzle-damp.net | No |
+| dsocialize.net | Yes |
+| dtp-mstdn.jp | Yes |
+| dudu.best | Yes |
+| dumpkin.monster | Yes |
+| dustinwilson.com | No |
+| dynlinux.io | No |
+| eagleandserpent.club | No |
+| easy.saramara.ai | No |
+| eattherich.club | No |
+| eay.social | No |
+| ecoli.pink | No |
+| econresearch.org | Yes |
+| ecosteader.com | No |
+| edolas.world | No |
+| efdn.club | No |
+| egirls.gay | No |
+| eicker.news | No |
+| eigenmagic.net | Yes |
+| eihei.net | Yes |
+| eldritch.cafe | No |
+| elefant.onetwoxu.de | No |
+| elefant.social | No |
+| elekk.xyz | Yes |
+| eletusk.club | No |
+| elle.systems | No |
+| elsmussols.net | No |
+| elves.forsale | No |
+| elysian.city | No |
+| emacsen.net | No |
+| embassy.social | No |
+| embracing.space | Yes |
+| empty.cafe | No |
+| en.osm.town | No |
+| engineered.space | No |
+| enitor.xyz | No |
+| ente.fun | No |
+| env.sqdsh.top | Yes |
+| ephemeral.glitch.social | No |
+| epicureanworldview.com | No |
+| epicyon.libreserver.org | No |
+| equestria.social | No |
+| erm67.dynu.net | No |
+| ertona.net | No |
+| esperanto.masto.host | No |
+| estrogen.network | Yes |
+| etiketi.de | No |
+| eupublic.social | No |
+| eveningzoo.club | No |
+| everything.happens.horse | No |
+| eweg.be | No |
+| exozy.me | No |
+| expired.mentality.rip | No |
+| explosion.party | No |
+| f.3ischn.de | No |
+| f.freinetz.ch | No |
+| f.jymuoyu.com | Yes |
+| f.praschnig.com | No |
+| f.prvcy.eu | No |
+| fair-verhandeln.de | No |
+| faithcollapsing.com | No |
+| fandom.garden | No |
+| fandom.ink | Yes |
+| fanfare.horse | No |
+| fb.paulgeanta.com | No |
+| fed.abski.pl | No |
+| fed.fab.industries | No |
+| fed.hvn.network | Yes |
+| fed.im | No |
+| fed.sonnenmulde.at | No |
+| fed.thecyberdeck.xyz | No |
+| feder8.me | No |
+| federate.hopto.org | No |
+| federated.glacier.dog | No |
+| federation.p1k3.com | No |
+| fedi.9til.de | No |
+| fedi.absturztau.be | No |
+| fedi.ajl.io | No |
+| fedi.anarchy.moe | No |
+| fedi.circuitlocution.com | No |
+| fedi.club | No |
+| fedi.fancycade.xyz | No |
+| fedi.farm | No |
+| fedi.fit | No |
+| fedi.fullstuck.net | No |
+| fedi.jmizzle.com | No |
+| fedi.kate.land | No |
+| fedi.lewactwo.pl | No |
+| fedi.mint.lgbt | No |
+| fedi.n0id.space | No |
+| fedi.nekojanai.xyz | No |
+| fedi.neon.moe | No |
+| fedi.nullob.si | Yes |
+| fedi.sabatino.pro | No |
+| fedi.scd31.com | No |
+| fedi.site | Yes |
+| fedi.skladka.net | No |
+| fedi.tesaguri.club | No |
+| fedi.underscore.world | No |
+| fedi.xaloc.space | No |
+| fedi.xerz.one | No |
+| fedi.z0ne.moe | Yes |
+| fedibird.com | Yes |
+| fedilove.cyou | Yes |
+| fediscience.org | No |
+| fediver.se | No |
+| fedivers.net | No |
+| fediverse-lite.com | Yes |
+| fediverse.keithzg.ca | No |
+| fediverse.pl | Yes |
+| fediverse.xavin.net | No |
+| feedbeat.me | No |
+| felesitas.cloud | No |
+| fellies.social | No |
+| fem.social | No |
+| fet.bar | No |
+| feuerwehr.social | No |
+| ffxiv-mastodon.com | Yes |
+| fikaverse.club | No |
+| fimidi.com | No |
+| fine-net.site | No |
+| firebird.zone | No |
+| fivest.one | Yes |
+| fla.red | No |
+| flanintheface.com | No |
+| flausch.social | No |
+| flokinet.social | No |
+| florianjensen.com | No |
+| floss.social | No |
+| flower.afn.social | No |
+| floyds.io | Yes |
+| fluf.club | No |
+| fluff.land | No |
+| flumph.masto.host | No |
+| fnordon.de | No |
+| fnya.ggtea.org | No |
+| foresdon.jp | No |
+| forumanalogue.fr | No |
+| fosstodon.org | No |
+| four-nine.club | No |
+| fox.masto.host | No |
+| foxes.life | No |
+| framapiaf.org | No |
+| freak.university | No |
+| free.gluten.space | No |
+| freeatlantis.com | No |
+| freecumextremist.com | No |
+| freedom.horse | No |
+| freeframe.masto.host | No |
+| freeradical.zone | No |
+| freesocial.co | No |
+| freesoftwareextremist.com | No |
+| freespeech.group | No |
+| freespeechextremist.com | No |
+| freethinkers.lgbt | No |
+| freewheel.social | No |
+| freiburg.social | No |
+| freindal.hallertau.social | No |
+| frennet.link | Yes |
+| freunde.ma-nic.de | No |
+| friend.camp | No |
+| friendface.fail | No |
+| friendica.a-zwenkau.de | No |
+| friendica.art3mis.de | No |
+| friendica.astatu.berlin | No |
+| friendica.bachgau.social | No |
+| friendica.chilemasto.casa | No |
+| friendica.djan-gicquel.fr | No |
+| friendica.ellih.eu | No |
+| friendica.ennimedia.de | No |
+| friendica.eskimo.com | No |
+| friendica.feneas.org | No |
+| friendica.gidikroon.eu | No |
+| friendica.hashy-net.de | No |
+| friendica.hellquist.eu | Yes |
+| friendica.hubup.pro | Yes |
+| friendica.ingram-braun.net | No |
+| friendica.ironbug.org | No |
+| friendica.mrpetovan.com | No |
+| friendica.org | No |
+| friendica.produnis.de | No |
+| friendica.utzer.de | No |
+| friendica.valvin.fr | No |
+| friendica.vrije-mens.org | No |
+| friendica.xyz | No |
+| friendicarg.nsupdate.info | No |
+| friends.cafe | Yes |
+| friends.deko.cloud | No |
+| friends.devinemarsa.com | No |
+| friends.nogafam.es | No |
+| friendsyu.me | No |
+| friskypaws.social | Yes |
+| frogmob.life | No |
+| frootmig.net | No |
+| froth.zone | No |
+| froyo.masto.host | No |
+| fukeaka.ink | No |
+| fulda.social | No |
+| fumi.39.gy | No |
+| functional.cafe | Yes |
+| furries.world | No |
+| furrylife.online | Yes |
+| futen.work | No |
+| fuzz.network | No |
+| fuzzy.systems | No |
+| fv.cottongin.xyz | Yes |
+| g0v.social | No |
+| gameliberty.club | No |
+| gamelinks007.net | No |
+| gamemaking.social | No |
+| gamerr.cyou | No |
+| gamingjp.org | No |
+| gaychina.com | Yes |
+| gayhorse.club | No |
+| gayrobot.club | No |
+| gazette.live | No |
+| gearlandia.haus | Yes |
+| gececibaykus.com | No |
+| geekcompass.com | Yes |
+| geeknews.chat | No |
+| geekstream.org | No |
+| genau.qwertqwefsday.eu | No |
+| genitalia.observer | No |
+| geno.social | No |
+| gensokyo.social | No |
+| gensokyo.town | Yes |
+| gensoukyou.jp.net | No |
+| gentoo.live | Yes |
+| georgi.family | No |
+| getindor.com | No |
+| ghost.cafe | No |
+| gingadon.com | Yes |
+| giobu.cyou | Yes |
+| girevik.su | No |
+| girlcock.club | No |
+| gl.sftblw.moe | Yes |
+| glaceon.social | No |
+| glammr.us | No |
+| glaros.xyz | No |
+| glasgow.social | No |
+| gleasonator.com | Yes |
+| glindr.org | Yes |
+| glitch.social | No |
+| glitch.taks.garden | No |
+| glitchcity.cc | No |
+| glitterkitten.co.uk | No |
+| glowers.club | No |
+| gn-tronics.dev | No |
+| gnubox.org | No |
+| gnusocial.net | No |
+| go5.dev | Yes |
+| goblin.camp | No |
+| gochisou.dev | No |
+| gochisou.photo | No |
+| godforsaken.website | No |
+| goggles.social | No |
+| gomastodon.cz | Yes |
+| gorf.pub | No |
+| gorone.xyz | Yes |
+| gould.cx | Yes |
+| goyim.app | No |
+| gp.tsukimi.club | Yes |
+| gravure.club | No |
+| graz.social | No |
+| greenish.red | Yes |
+| groundpolis.app | No |
+| groups.qoto.org | No |
+| gruene.social | No |
+| grumpys.online | Yes |
+| gs.leftic.club | No |
+| guineapig.party | No |
+| gulp.cafe | No |
+| gyutte.site | Yes |
+| h.kher.nl | No |
+| h.kokuda.org | No |
+| h5q.net | Yes |
+| habets.dev | No |
+| habitat.zelle.one | No |
+| hackers.town | No |
+| hakodon.cf | No |
+| hakorena.hostdon.ne.jp | Yes |
+| hallsofamenti.io | Yes |
+| handholding.gay | No |
+| handicapped.tk | No |
+| handon.club | Yes |
+| happylittle.cloudns.cc | No |
+| happytobehe.re | No |
+| harpsica.net | No |
+| haskell.social | Yes |
+| hates.company | No |
+| hatesli.me | No |
+| hawara.hallertau.social | No |
+| hax0rbana.social | No |
+| hayu.sh | No |
+| hedgehog.pub | Yes |
+| heidel.berg.social | No |
+| heislandmine.work | No |
+| hell.social | No |
+| helladoge.com | Yes |
+| hello.2heng.xin | Yes |
+| hellsite.site | No |
+| henshaw.social | Yes |
+| hereiszyn.com | No |
+| hessen.social | No |
+| hexadon.net | No |
+| hi.moe.tips | Yes |
+| hidamari.apartments | No |
+| high.cat | No |
+| hikoukidon.jp | No |
+| himk.am | Yes |
+| hingst.net | No |
+| hispabot.myvnc.com | No |
+| hispagatos.space | No |
+| hitchhiker.social | No |
+| hodlr.one | No |
+| hofra.rocks | No |
+| hokutodon.co | No |
+| hom.ph | No |
+| homo.dev | No |
+| homoo.social | No |
+| honi.club | No |
+| horche.demkontinuum.de | No |
+| hostsharing.coop | No |
+| hostux.social | No |
+| hota.hirachon.otakan.jp | No |
+| houseofloy.net | No |
+| hub.13ad.de | No |
+| hub.alangraham.de | No |
+| hub.bessonnica.org | Yes |
+| hub.cats-home.net | No |
+| hub.disroot.org | No |
+| hub.hayfidelity.de | No |
+| hub.hubzilla.de | No |
+| hub.libranet.de | No |
+| hub.mancave.de | No |
+| hub.mtf.party | Yes |
+| hub.netzgemeinde.eu | No |
+| hub.ourcommoncloud.social | No |
+| hub.pericles.hu | No |
+| hub.sakuragawa.moe | Yes |
+| hub.somaton.com | No |
+| hub.thechangebook.org | No |
+| hub.tschlotfeldt.de | No |
+| hub.volse.no | No |
+| hubzil.la | No |
+| hubzilla.com.br | No |
+| hubzilla.cyberwald.com | No |
+| hubzilla.dark-alexandr.net | No |
+| hubzilla.eu | No |
+| hubzilla.fkn-systems.de | No |
+| hubzilla.irgendwo.social | No |
+| hubzilla.konzurovski.net | No |
+| hubzilla.l-p-d.org | No |
+| hugh.buzz | No |
+| hulvr.com | No |
+| hunk.city | No |
+| husk.site | No |
+| hyan.ink | Yes |
+| hypno.church | No |
+| i.misskey.love | No |
+| iam.lydi.as | No |
+| ibb.info | No |
+| icedlatte.chat | No |
+| icedtux.no | No |
+| ichiji.social | No |
+| icosahedron.website | No |
+| iddqd.social | No |
+| idf.social | No |
+| idiomdrottning.org | No |
+| idlethumbs.social | No |
+| idolheaven.org | No |
+| ieji.de | No |
+| ifrit.gaia.ff14-mstdn.xyz | No |
+| ifwo.eu | No |
+| ihatebeinga.live | Yes |
+| ika.queloud.net | No |
+| ikbenpiraat.nl | No |
+| ilias.church | No |
+| ilja.space | No |
+| im-in.space | No |
+| im.allmendenetz.de | No |
+| im.sb | No |
+| im.thymrios.com | No |
+| imaginair.es | No |
+| imastodon.net | No |
+| imastodon.org | No |
+| imd.social | No |
+| impeccable.social | No |
+| inari.click | Yes |
+| inari.opencocon.org | No |
+| indiefedi.party | No |
+| indieweb.social | No |
+| infosec.exchange | No |
+| inherently.digital | No |
+| insoumis.social | No |
+| intahnet.co.uk | Yes |
+| interact.bluecore.net | No |
+| interfaith.masto.host | No |
+| internetstuff.xyz | No |
+| io.pace.rip | No |
+| ioc.exchange | No |
+| ipolska.pl | No |
+| ippandon.hopto.org | No |
+| is-he.re | No |
+| is-heckin.gay | Yes |
+| is.a.qute.dog | No |
+| is.aaronbsmith.com | No |
+| is.badat.dev | No |
+| is.nota.live | No |
+| isidai.com | No |
+| itabashi.0j0.jp | No |
+| itmgitmo.com | No |
+| itmslaves.com | No |
+| itsybitsysissy.eu | No |
+| iwatedon.net | No |
+| iyasaretai.pw | No |
+| j.ioi-xd.net | Yes |
+| jabberwocky.moe | Yes |
+| jacksplace.dk | No |
+| jade.moe | No |
+| jako.social | Yes |
+| jasette.facil.services | No |
+| jauntygoat.net | No |
+| jawns.club | No |
+| jepsen.io | No |
+| jergefelt.se | No |
+| jigglypuff.club | No |
+| jit.social | No |
+| jitakurack.chotto.moe | No |
+| jmm.kr | Yes |
+| jonleibowitz.social | Yes |
+| jorts.horse | No |
+| jrgnsn.social | No |
+| jubi.life | No |
+| juju.house | No |
+| jumanji.co | No |
+| junkhub.org | No |
+| justicewarrior.social | Yes |
+| jv-net.digital | No |
+| k-shiigi-136.masto.host | No |
+| k.lapy.link | Yes |
+| kagamisskey.com | Yes |
+| kakeraverse.xyz | No |
+| kancolle.social | No |
+| kanina.be | No |
+| kanoa.de | No |
+| kapocs.urbalazs.hu | No |
+| kasma.cyou | No |
+| kawaii.kitsune.cafe | No |
+| kawen.space | No |
+| kayii.goe.land | No |
+| kazv.moe | No |
+| kcl.academy | No |
+| kcmo.social | No |
+| kemonodon.club | No |
+| kerkour.com | Yes |
+| keybored.me | No |
+| kfem.cat | No |
+| khajiit.tech | Yes |
+| khat.komitea.fi | No |
+| khiar.net | Yes |
+| khp.ignorelist.com | No |
+| kicou.info | No |
+| kif.rocks | No |
+| kind.social | No |
+| kindred.haus | No |
+| kinky.business | Yes |
+| kinkyelephant.com | No |
+| kira-sei.com | Yes |
+| kirakiratter.com | Yes |
+| kirapower.ichigo-hoshimiya.com | No |
+| kirche.social | No |
+| kirishima.cloud | No |
+| kiritan.work | Yes |
+| kisslolis.moe | No |
+| kith.kitchen | No |
+| kitty.social | Yes |
+| kitty.town | No |
+| kiwifarms.cc | Yes |
+| kohrville.net | No |
+| kokonect.link | No |
+| kolektiva.social | Yes |
+| kollegin.eu | No |
+| kompost.cz | No |
+| kopiti.am | Yes |
+| koreadon.com | No |
+| kosmos.social | No |
+| kottman.xyz | No |
+| koyu.space | Yes |
+| kpop.social | Yes |
+| kr.akirin.xyz | Yes |
+| krefeld.life | No |
+| kurage.cc | No |
+| la-verite-vaincra.nohost.me | No |
+| lagemeet.duckdns.org | No |
+| lain.com | No |
+| lainchan.gay | No |
+| landofkittens.social | Yes |
+| langmerah.net | No |
+| laserdisc.party | No |
+| laviadililith.social | No |
+| layer8.space | No |
+| layer13.p7.co.nz | No |
+| lazybear.social | No |
+| lbry.world | Yes |
+| leaf.node9.org | No |
+| leafposter.club | No |
+| leanbay.box.phasebulk.cloudns.nz | No |
+| lediver.se | No |
+| legal.social | No |
+| lejaua6.club | No |
+| lemuspeschel.com | Yes |
+| lermer.nl | No |
+| lesbiab.space | No |
+| lesbian.solutions | No |
+| lesbianschool.com | No |
+| letsalllovela.in | Yes |
+| letsrulethe.world | No |
+| letus.inspiredlife.fun | Yes |
+| lewactwo.pl | No |
+| lewd.pm | No |
+| lewd.town | No |
+| lgbt.im | No |
+| lgbt.io | No |
+| lhub.social | No |
+| libera.tokyo | No |
+| liberal.city | No |
+| liberdon.com | Yes |
+| libereco.social | No |
+| libertalia.world | No |
+| libertynode.net | No |
+| libertywoof.com | No |
+| libranet.de | No |
+| librem.one | No |
+| librenet.co.za | No |
+| libretooth.gr | No |
+| librosphere.fr | No |
+| life.fvktv.me | No |
+| ligma.pro | Yes |
+| likeable.space | No |
+| liker.social | Yes |
+| lily.network | No |
+| linernotes.club | No |
+| links.potsda.mn | No |
+| linuxrocks.online | No |
+| literatur.social | No |
+| litterae.social | No |
+| liveplatform.ca | No |
+| lizards.live | No |
+| loci.onl | No |
+| loli.pizza | Yes |
+| loma.ml | No |
+| london.fetish.church | No |
+| lonely.town | No |
+| lor.sh | Yes |
+| lou.lt | Yes |
+| loutre.info | No |
+| loveforlandlords.com | No |
+| loves.pizza | No |
+| lowkey.party | No |
+| lsngl.us | No |
+| lubar.me | Yes |
+| ludosphere.fr | No |
+| lufimianet.jp | No |
+| lugnasad.eu | No |
+| lumpen.work | No |
+| luna.vg | No |
+| lunai.re | No |
+| m-i.im | Yes |
+| m.anirloli.dev | Yes |
+| m.aqr.af | No |
+| m.bonzoesc.net | Yes |
+| m.brokep.com | No |
+| m.cmx.im | Yes |
+| m.divita.eu | No |
+| m.dogcraft.cn | No |
+| m.dogcraft.top | Yes |
+| m.eula.dev | No |
+| m.fal.moe | No |
+| m.g3l.org | No |
+| m.hitorino.moe | Yes |
+| m.jinwei.me | Yes |
+| m.kirishima.cloud | No |
+| m.kretschmann.social | No |
+| m.kuko.hamburg | No |
+| m.moec.top | No |
+| m.moriya.faith | No |
+| m.mtlynch.io | No |
+| m.nebula.moe | Yes |
+| m.nintendojo.fr | No |
+| m.rse43.com | Yes |
+| m.sprovoost.nl | No |
+| m.thibau.lt | No |
+| m.tkw.fm | No |
+| m.upsilo.net | Yes |
+| m.uuu.moe | No |
+| m.wulingate.com | Yes |
+| m.yihao.moe | Yes |
+| m6n.onsen.tech | Yes |
+| ma.fono.jp | No |
+| ma.strangeworld.jp | No |
+| macgirvin.com | No |
+| machida.yokohama | No |
+| machikadon.online | Yes |
+| machteburch.social | No |
+| maddypa.ws | No |
+| madost.one | Yes |
+| magicalgirl.party | No |
+| magicalmirro.red | Yes |
+| magnificentbeardsfan.club | No |
+| maho.app | No |
+| mainburg.hallertau.social | No |
+| majestic.monster | No |
+| majors.social | No |
+| maki.chiba.tw | No |
+| makito.me | Yes |
+| malu.today | No |
+| maly.io | No |
+| mammouth.inframed.net | No |
+| mamot.fr | No |
+| mania.systems | No |
+| manowar.social | No |
+| mao.mastodonhub.com | No |
+| marf.space | No |
+| margio.in | No |
+| markusklein.cc | No |
+| mas.gordons.gen.nz | No |
+| mas.to | No |
+| mas.tsr.net.br | Yes |
+| masochi.st | No |
+| mast.aaron.place | No |
+| mast.eu.org | No |
+| mast.linuxgamecast.com | Yes |
+| mast.moe | No |
+| mast.mulliken.net | Yes |
+| mast.republicofmayhem.xyz | Yes |
+| mast.wholemars.com | Yes |
+| mastadano.com | No |
+| mastchan.org | No |
+| mastd.racing | No |
+| masthead.social | Yes |
+| mastio.nl | No |
+| masto.1146.nohost.me | No |
+| masto.asonix.dog | No |
+| masto.beer | No |
+| masto.bobbybasement.noho.st | No |
+| masto.dashten.dev | No |
+| masto.donte.com.br | Yes |
+| masto.evelynyap.com | No |
+| masto.gaming.pizza | No |
+| masto.mtcrew.org | No |
+| masto.ninja | No |
+| masto.nogafam.es | No |
+| masto.oncletom.io | No |
+| masto.pt | Yes |
+| masto.rocks | No |
+| masto.therealblue.de | No |
+| masto.timapple.com | No |
+| masto.werefox.dev | No |
+| masto.yaeghs.net | No |
+| mastodon.3fx.ch | No |
+| mastodon.1984.cz | No |
+| mastodon.acc.sunet.se | No |
+| mastodon.acc.umu.se | No |
+| mastodon.acerbo.me | No |
+| mastodon.alexandrebadalo.pt | No |
+| mastodon.alienlebarge.ch | No |
+| mastodon.ar.al | No |
+| mastodon.arch-linux.cz | No |
+| mastodon.art | No |
+| mastodon.astrr.ru | Yes |
+| mastodon.atikoro.net | No |
+| mastodon.aventer.biz | No |
+| mastodon.b3by3.com | Yes |
+| mastodon.bachgau.social | No |
+| mastodon.bayern | Yes |
+| mastodon.bida.im | No |
+| mastodon.bits-und-baeume.org | No |
+| mastodon.blake-hofer.net | No |
+| mastodon.brodi.space | No |
+| mastodon.cardina1.red | No |
+| mastodon.care-tags.org | No |
+| mastodon.cc | No |
+| mastodon.cemea.org | No |
+| mastodon.cf | No |
+| mastodon.cgx.me | No |
+| mastodon.chotto.moe | No |
+| mastodon.chrisbol.nl | No |
+| mastodon.chriswiegman.com | Yes |
+| mastodon.cipherbliss.com | No |
+| mastodon.cisti.org | No |
+| mastodon.cloud | Yes |
+| mastodon.codingfield.com | No |
+| mastodon.coffee | No |
+| mastodon.com.br | No |
+| mastodon.cosmicanimal.jp | No |
+| mastodon.crazynewworld.net | Yes |
+| mastodon.ctseuro.com | No |
+| mastodon.darkou.fr | No |
+| mastodon.dbatley.com | No |
+| mastodon.derveni.org | No |
+| mastodon.design | No |
+| mastodon.desmu.fr | No |
+| mastodon.duncanhart.com | No |
+| mastodon.earth | No |
+| mastodon.ecnelises.com | No |
+| mastodon.edufor.me | No |
+| mastodon.ef67daisuki.club | No |
+| mastodon.ehret.me | No |
+| mastodon.eliotberriot.com | No |
+| mastodon.elte.hu | No |
+| mastodon.eole.education | No |
+| mastodon.ericlathrop.com | No |
+| mastodon.esmevane.com | No |
+| mastodon.ethibox.fr | No |
+| mastodon.eus | No |
+| mastodon.exp0.ml | No |
+| mastodon.explore-visions.com | No |
+| mastodon.falktx.com | No |
+| mastodon.fedi.bzh | No |
+| mastodon.fedi.quebec | No |
+| mastodon.fidonet.io | Yes |
+| mastodon.fosslife.org | No |
+| mastodon.freifunk-minden.de | No |
+| mastodon.gamedev.place | No |
+| mastodon.gargantia.fr | No |
+| mastodon.glibre.org | No |
+| mastodon.gougere.fr | No |
+| mastodon.green | No |
+| mastodon.greenpeace.ch | Yes |
+| mastodon.grin.hu | No |
+| mastodon.gurubert.de | No |
+| mastodon.hk | Yes |
+| mastodon.home.15cm.net | Yes |
+| mastodon.honeypot.im | No |
+| mastodon.hoppinglife.com | No |
+| mastodon.hugopoi.net | No |
+| mastodon.humanistische-union.de | No |
+| mastodon.hydrosaas.com | Yes |
+| mastodon.hypnoguys.com | No |
+| mastodon.icu | No |
+| mastodon.ie | No |
+| mastodon.im | No |
+| mastodon.immae.eu | No |
+| mastodon.in.th | No |
+| mastodon.indie.host | No |
+| mastodon.infra.de | No |
+| mastodon.init-c.de | No |
+| mastodon.irgendwo.social | No |
+| mastodon.iriseden.eu | No |
+| mastodon.jalgi.eus | No |
+| mastodon.jpages.eu | No |
+| mastodon.juggler.jp | No |
+| mastodon.kaiserflur.de | No |
+| mastodon.kitchen | No |
+| mastodon.ktachibana.party | Yes |
+| mastodon.kxn4t.tech | No |
+| mastodon.la | Yes |
+| mastodon.lang-mfr.de | No |
+| mastodon.laurakalbag.com | No |
+| mastodon.leipzigesports.de | No |
+| mastodon.lelesius.eu | No |
+| mastodon.lertsenem.com | No |
+| mastodon.lhin.space | No |
+| mastodon.libre-entreprise.com | No |
+| mastodon.librelabucm.org | Yes |
+| mastodon.linuxbox.ninja | No |
+| mastodon.lol | Yes |
+| mastodon.lrdf.fr | No |
+| mastodon.lt | No |
+| mastodon.lukem.net | Yes |
+| mastodon.macsnet.cz | No |
+| mastodon.madrid | No |
+| mastodon.maho-do.jp | No |
+| mastodon.man-ya.asia | No |
+| mastodon.matcha-soft.com | No |
+| mastodon.matrix.org | Yes |
+| mastodon.maxvolu.me | No |
+| mastodon.me.uk | Yes |
+| mastodon.mensoif.cf | No |
+| mastodon.mg | No |
+| mastodon.mim-libre.fr | No |
+| mastodon.mit.edu | Yes |
+| mastodon.ml | No |
+| mastodon.motcha.tech | Yes |
+| mastodon.muage.org | No |
+| mastodon.multimob.be | No |
+| mastodon.mxhdr.net | No |
+| mastodon.mynameisivan.ru | Yes |
+| mastodon.naii.io | No |
+| mastodon.natrinicle.com | No |
+| mastodon.neilzone.co.uk | No |
+| mastodon.netheredge.com | No |
+| mastodon.nl | No |
+| mastodon.noraworld.com | No |
+| mastodon.nu | No |
+| mastodon.nz | No |
+| mastodon.nzoss.nz | No |
+| mastodon.oe74.net | No |
+| mastodon.oeru.org | No |
+| mastodon.oi7.de | No |
+| mastodon.onepointzero.com | Yes |
+| mastodon.online | No |
+| mastodon.opencloud.lu | No |
+| mastodon.opportunis.me | No |
+| mastodon.orani.co | No |
+| mastodon.org.uk | No |
+| mastodon.parleur.net | No |
+| mastodon.partecipa.digital | No |
+| mastodon.partipirate.org | No |
+| mastodon.peterbabic.dev | No |
+| mastodon.pirateparty.be | No |
+| mastodon.pirati.cz | Yes |
+| mastodon.poggersinc.com | No |
+| mastodon.postmoderns.info | No |
+| mastodon.potager.org | No |
+| mastodon.potproject.net | No |
+| mastodon.ppcis.org | No |
+| mastodon.quantumindigo.org | Yes |
+| mastodon.radio | No |
+| mastodon.radiosonline.cloud | No |
+| mastodon.roflcopter.fr | No |
+| mastodon.ropable.com | Yes |
+| mastodon.rousset.nom.fr | No |
+| mastodon.sandwich.net | No |
+| mastodon.sardo.work | Yes |
+| mastodon.satoshishop.de | No |
+| mastodon.savvy.ch | No |
+| mastodon.sbs | No |
+| mastodon.scot | No |
+| mastodon.sdf.org | No |
+| mastodon.se | No |
+| mastodon.sk | No |
+| mastodon.slightlycyberpunk.com | No |
+| mastodon.social | No |
+| mastodon.someotherguy.xyz | No |
+| mastodon.starshipchangeling.net | No |
+| mastodon.stefofficiel.me | No |
+| mastodon.technology | No |
+| mastodon.tedomum.net | No |
+| mastodon.tetaneutral.net | No |
+| mastodon.thewarrens.name | No |
+| mastodon.tiennot.net | No |
+| mastodon.toeushimwk.work | No |
+| mastodon.tojo.tokyo | No |
+| mastodon.tokyo | No |
+| mastodon.toni.im | No |
+| mastodon.top | Yes |
+| mastodon.transneptune.net | No |
+| mastodon.triggerphra.se | No |
+| mastodon.tux.ovh | No |
+| mastodon.twilight-creation.com | No |
+| mastodon.underworld.fr | No |
+| mastodon.uno | Yes |
+| mastodon.utwente.nl | No |
+| mastodon.uy | No |
+| mastodon.vierkantor.com | No |
+| mastodon.wihel.de | Yes |
+| mastodon.wivodaim.net | No |
+| mastodon.xyz | No |
+| mastodon.yantou.co | Yes |
+| mastodon.yyyyy.world | No |
+| mastodon.z27.ch | No |
+| mastodon.zaclys.com | No |
+| mastodon.zapashcanon.fr | No |
+| mastodon.zergy.net | No |
+| mastodon.zeteo.me | No |
+| mastodon.zunda.ninja | No |
+| mastodont.cat | No |
+| mastodontech.de | No |
+| mastodontti.fi | No |
+| mastodooooooon.xyz | No |
+| mastodos.com | No |
+| mastofant.de | No |
+| mastouille.fr | No |
+| mathstodon.xyz | No |
+| mathtod.online | No |
+| matitodon.com | No |
+| matthewgall.chat | Yes |
+| mauch.social | No |
+| mcd.dk | No |
+| mcnamarii.town | No |
+| mctetsudou.net | No |
+| md.ggtea.org | No |
+| md.korako.me | Yes |
+| md.net-p.org | No |
+| md.xps2.net | Yes |
+| mdn.hinaloe.net | No |
+| me.ns.ci | Yes |
+| me.paperneko.moe | Yes |
+| medievalist.masto.host | No |
+| meemu.org | No |
+| megalodon.tokyo | No |
+| meganekeesu.tokyo | No |
+| meinungsschubla.de | No |
+| meisskey.blue | Yes |
+| meisskey.one | Yes |
+| melilot.icu | No |
+| mellified.men | No |
+| mellow.town | No |
+| mellow.zone | No |
+| melmc.nohost.me | No |
+| melonbread.dev | No |
+| member.thenobody.club | No |
+| memo-village.com | No |
+| mental.social | No |
+| mentalhealth.social | No |
+| meow.social | No |
+| meow.zarchbox.fr | No |
+| merveilles.town | No |
+| metalhead.club | No |
+| metu.life | No |
+| mewl.me | Yes |
+| mhp.singleuser.club | No |
+| mhz.social | No |
+| mi.7ka.org | No |
+| mi.les-requin.net | No |
+| mi.maikaze.moe | Yes |
+| mi.siotter.xyz | No |
+| mi.tkw.fm | No |
+| micro.mkp.ca | No |
+| microhive.net | No |
+| midnightride.rs | No |
+| milkey.homes | Yes |
+| mindset.rage.lol | No |
+| minidisc.tokyo | No |
+| miniwa.moe | No |
+| minohdon.jp | No |
+| misc.name | No |
+| misky.rikunagiweb.jp | No |
+| miss-myhouse-key.net | Yes |
+| misskey-exp.cyberrex.jp | Yes |
+| misskey.amoonrabbit.reisen | No |
+| misskey.assaultli.ly | Yes |
+| misskey.biribiri.dev | No |
+| misskey.bubbletea.dev | No |
+| misskey.de | No |
+| misskey.dev | Yes |
+| misskey.fr | No |
+| misskey.goochiegoo.net | No |
+| misskey.gothloli.club | No |
+| misskey.id | No |
+| misskey.io | Yes |
+| misskey.korako.me | Yes |
+| misskey.koyu.space | Yes |
+| misskey.kurume-nct.com | No |
+| misskey.m86.work | Yes |
+| misskey.m544.net | Yes |
+| misskey.noellabo.jp | Yes |
+| misskey.omhnc.net | Yes |
+| misskey.open-w.net | Yes |
+| misskey.ruste.red | No |
+| misskey.sc3.fun | Yes |
+| misskey.seediqbale.xyz | No |
+| misskey.t-asa2000.net | No |
+| misskey.tech | Yes |
+| misskey.to | No |
+| misskey.traction.jp | No |
+| misskey.weebcouncil.online | No |
+| misskey.xianon.net | Yes |
+| mistodon.cloud | No |
+| misty.digitalesparadies.de | No |
+| miwkey.miwpayou0808.info | Yes |
+| miyon.miyon.org | Yes |
+| mk.absturztau.be | No |
+| mk.arumoon.ru | No |
+| mk.catgirlsfor.science | Yes |
+| mk.comfysnug.space | No |
+| mk.fedi.tech | No |
+| mk.himbeer.me | Yes |
+| mk.hime.moe | No |
+| mk.iaia.moe | No |
+| mk.lei202.com | Yes |
+| mk.lightnovel-dungeon.de | No |
+| mk.mozcmozc.club | No |
+| mk.niscii.xyz | No |
+| mk.nixnet.social | No |
+| mk.outerheaven.club | No |
+| mk.paritybit.ca | No |
+| mk.pusang-ina-mo.ooo | No |
+| mk.samtherapy.xyz | Yes |
+| mk.striker.net.eu.org | No |
+| mk.toast.cafe | No |
+| mk.toyoko.in | Yes |
+| mk.udongein.reisen | No |
+| mk.vibbe.xyz | No |
+| mk.vulpes.one | No |
+| mk.wataame.cafe | No |
+| mk.wolfie.pw | No |
+| mky.aqualitore-lily.com | Yes |
+| mo-na.space | No |
+| moc.d-x-b.com | No |
+| moe.cat | No |
+| mofmof.coffee | No |
+| mograph.social | No |
+| momo.mame.moe | Yes |
+| monado.ren | Yes |
+| monads.online | No |
+| mond-basis.eu | No |
+| monsterfuckers.online | No |
+| moonbeam.town | No |
+| moresci.sale | Yes |
+| movsw.0x0.st | No |
+| moytura.org | No |
+| mrnd.xyz | No |
+| ms.kvche.ch | No |
+| ms.neko.bar | No |
+| msk.minetaro12.com | Yes |
+| msk.seppuku.club | Yes |
+| mspsocial.net | No |
+| mst.canor.kr | Yes |
+| mst.nanaaki.com | No |
+| mst.vsta.org | No |
+| mst3k.interlinked.me | No |
+| mstd.dansmonorage.blue | No |
+| mstdn-amadeus.tech | Yes |
+| mstdn-bike.net | No |
+| mstdn-jp.site | No |
+| mstdn.a-tak.com | No |
+| mstdn.anqou.net | Yes |
+| mstdn.asterism.xyz | Yes |
+| mstdn.b-shock.org | No |
+| mstdn.barippi.com | No |
+| mstdn.beer | No |
+| mstdn.bmw-and-more.info | No |
+| mstdn.chitose.org | No |
+| mstdn.cloud.themaymeow.com | Yes |
+| mstdn.cuezakuisgodofthe.world | No |
+| mstdn.delmulin.com | No |
+| mstdn.dgm.pw | No |
+| mstdn.es | Yes |
+| mstdn.f72u.net | Yes |
+| mstdn.ffnet.work | No |
+| mstdn.fr | No |
+| mstdn.fujii-yuji.net | No |
+| mstdn.fuyumori.net | No |
+| mstdn.glorificatio.org | No |
+| mstdn.gunma.jp | Yes |
+| mstdn.guru | No |
+| mstdn.haun.jp | No |
+| mstdn.hitoxu.com | No |
+| mstdn.hiyuki2578.net | Yes |
+| mstdn.hokkaido.jp | No |
+| mstdn.home.neso.tech | No |
+| mstdn.hostdon.jp | No |
+| mstdn.ht164.jp | No |
+| mstdn.hyogo.jp | No |
+| mstdn.ikebuku.ro | Yes |
+| mstdn.io | Yes |
+| mstdn.itsnero.com | No |
+| mstdn.jnsk.info | Yes |
+| mstdn.jp | Yes |
+| mstdn.kanagu.info | Yes |
+| mstdn.kemono-friends.info | Yes |
+| mstdn.kessai-otaku.club | Yes |
+| mstdn.klamath.jp | No |
+| mstdn.kuriuzu.tk | Yes |
+| mstdn.kurosuke.org | No |
+| mstdn.lalafell.org | No |
+| mstdn.love | Yes |
+| mstdn.maud.io | Yes |
+| mstdn.mell0w-5phere.net | No |
+| mstdn.mimikun.jp | Yes |
+| mstdn.mini4wd-engineer.com | No |
+| mstdn.misosi.ru | Yes |
+| mstdn.moe | Yes |
+| mstdn.mx | Yes |
+| mstdn.nekonote.cc | No |
+| mstdn.nere9.help | No |
+| mstdn.netwhood.online | No |
+| mstdn.nicolog.jp | No |
+| mstdn.nielniel.net | No |
+| mstdn.omisosiru.net | No |
+| mstdn.one | Yes |
+| mstdn.osaka | No |
+| mstdn.pepepper.cf | Yes |
+| mstdn.plusminus.io | Yes |
+| mstdn.poyo.me | No |
+| mstdn.prfm.jp | No |
+| mstdn.progressiv.dev | No |
+| mstdn.res.ac | No |
+| mstdn.rinsuki.net | Yes |
+| mstdn.ryanak.xyz | Yes |
+| mstdn.schoolidol.club | No |
+| mstdn.social | No |
+| mstdn.sublimer.me | Yes |
+| mstdn.superspeed-fall.com | No |
+| mstdn.tamag.org | No |
+| mstdn.toad-in-the-hole.net | No |
+| mstdn.tokyocameraclub.com | No |
+| mstdn.tomokiwakimoto.com | No |
+| mstdn.unasuke.com | No |
+| mstdn.vodka | No |
+| mstdn.wildtree.jp | No |
+| mstdn.wiper.dev | No |
+| mstdn.wtsnjp.com | No |
+| mstdn.y-zu.org | Yes |
+| mstdn.yaesu-eas.tokyo | No |
+| mstdn.yakitamago.info | No |
+| mthie.net | No |
+| mu.zaitcev.nu | No |
+| muenchen.social | No |
+| muenster.im | No |
+| muknown.jp | No |
+| mulmeyun.church | Yes |
+| musicdn.jp | No |
+| mustardon.tokyo | No |
+| mutual.tls.zone | Yes |
+| mxvol.xyz | No |
+| my.elven.pw | No |
+| my.privacymatters.pro | No |
+| my0.net | No |
+| myasstodon.xyz | No |
+| mycrowd.ca | No |
+| mythago.space | No |
+| mytoot.net | No |
+| mzn-potatochips.me | No |
+| nacq.me | No |
+| nagoyadon.jp | Yes |
+| nanao.cybtex.fr | No |
+| nangang.travnewmatic.com | Yes |
+| nasface.cz | No |
+| natsu.page | No |
+| natter.wtf | No |
+| nayukana.info | No |
+| ne.akarinext.org | Yes |
+| nebbia.fail | No |
+| neckbeard.xyz | No |
+| necropolis.online | No |
+| neenster.org | Yes |
+| neet.church | No |
+| neighborli.xyz | No |
+| neko.ci | Yes |
+| nekocave.xyz | Yes |
+| nekojita.moe | No |
+| nekomimi.yokohama | Yes |
+| nekoyama.masto.host | No |
+| nemushee.net | Yes |
+| neo.gyara.moe | Yes |
+| nerd.town | No |
+| nerdculture.de | No |
+| nerdica.net | No |
+| netzsphaere.xyz | No |
+| neue.city | No |
+| news.psylodrumean.fr | No |
+| newsbots.eu | No |
+| newskey.cc | Yes |
+| newsocial.tech | Yes |
+| ni.hil.ist | No |
+| nightly.fedibird.com | Yes |
+| niscii.xyz | No |
+| nitiasa.com | Yes |
+| nitrokey.com | No |
+| nixeneko.info | No |
+| nixnet.social | No |
+| nnia.space | Yes |
+| noagendasocial.com | Yes |
+| noagendasocialist.com | No |
+| nobigtech.es | No |
+| noc.social | No |
+| node.chrishannah.me | No |
+| node9.org | No |
+| noeldemartin.social | No |
+| nofan.xyz | Yes |
+| noize.guru | No |
+| nojack.easydns.ca | No |
+| nojob.jp | No |
+| nolineage.com | No |
+| non-designer.studio | Yes |
+| nonbiridon.hostdon.ne.jp | Yes |
+| nonexiste.net | No |
+| noovi.org | No |
+| norden.social | No |
+| nordgedanken.dev | No |
+| noridon.hostdon.ne.jp | Yes |
+| norrebro.space | No |
+| norze.world | Yes |
+| not.acu.lt | No |
+| notbird.site | No |
+| notherweb.com | No |
+| notnow.dev | No |
+| nrkn.fr | No |
+| nrw.social | No |
+| ns.auction | No |
+| nuklear.family | No |
+| nulled.pink | Yes |
+| nvdc.eu | No |
+| nya.lemonade.moe | Yes |
+| nya.one | Yes |
+| nya.social | No |
+| nyaaa.jeder.pl | No |
+| nyan.nekoea.red | No |
+| nycr.social | Yes |
+| nymwars.org | No |
+| o3o.ca | Yes |
+| obapom.work | No |
+| obese.cat | No |
+| oc.todon.fr | No |
+| occitanie.social | No |
+| occm.masto.host | No |
+| occult-zuki.com | No |
+| occult.institute | No |
+| ocf.masto.host | No |
+| octodon.social | No |
+| odakyu.app | Yes |
+| ofuton.io | No |
+| okadon.masto.host | No |
+| oldbytes.space | No |
+| olds.town | No |
+| ondergrond.org | Yes |
+| one.telmina.com | No |
+| oninawa.masto.host | No |
+| online-hangout.com | No |
+| onlycasino.legal | Yes |
+| oo.tc | No |
+| oour.org | No |
+| openbiblio.social | No |
+| opensocial.at | No |
+| oran.ski | No |
+| oransns.com | No |
+| orbitalstation.one | No |
+| orctavern.pub | No |
+| orenoshiro.site | No |
+| osa.tepewu.pl | No |
+| oslo.town | No |
+| osna.social | No |
+| ostatus.ikeji.ma | No |
+| otogamer.me | No |
+| otoya.space | Yes |
+| oulipo.social | No |
+| ourempty.pub | No |
+| ourvillage.news | Yes |
+| outerheaven.club | No |
+| ozhika.me | No |
+| p.mr64.net | No |
+| p.node.pk | Yes |
+| p.rhinoworks.info | No |
+| p.tkw.fm | No |
+| p1.a9z.dev | Yes |
+| p3.macgirvin.com | No |
+| pachyder.me | No |
+| pagan.plus | No |
+| palepanda.club | No |
+| panthermoderns.org | No |
+| pao.moe | Yes |
+| pao.namakajiri.net | No |
+| pars.ee | No |
+| patch.cx | No |
+| patchouli.today | Yes |
+| patchwork.link | No |
+| pawoo.net | No |
+| paws.moe | No |
+| paxation.info | No |
+| paypig.org | Yes |
+| pcgamer.social | Yes |
+| pdx.social | No |
+| penguicon.social | No |
+| persadon.com | No |
+| pesso.al | No |
+| petertodd.org | No |
+| petronel.info | No |
+| pettingzoo.co | No |
+| pforzelona.club | No |
+| philos.fkn-systems.de | No |
+| photodn.net | No |
+| photog.social | No |
+| phpc.social | No |
+| picosize.misskey.moe | No |
+| pieville.net | Yes |
+| piggo.space | Yes |
+| ping.the-planet.space | No |
+| pinkorange.red | Yes |
+| piou.ark.lu | No |
+| pipou.academy | No |
+| pirate.chat | Yes |
+| pirati.ca | No |
+| pixelart.moe | No |
+| pixellife.app | No |
+| pixie.town | No |
+| pl.ajin.la | No |
+| pl.anon-kenkai.com | No |
+| pl.craftplacer.moe | No |
+| pl.cutiemiku.tk | No |
+| pl.devfs.xyz | No |
+| pl.dira.cc | No |
+| pl.eragon.re | No |
+| pl.eternawings.com | Yes |
+| pl.fediverse.express | No |
+| pl.firechicken.net | No |
+| pl.gamers.exposed | No |
+| pl.gnu.moe | No |
+| pl.jugregator.org | No |
+| pl.kotobank.ch | No |
+| pl.kpherox.dev | No |
+| pl.lain.bar | No |
+| pl.mastodont.cat | No |
+| pl.nikotile.xyz | Yes |
+| pl.poo.li | No |
+| pl.pube.tk | No |
+| pl.qorg11.net | No |
+| pl.remote-shell.net | No |
+| pl.rokoucha.net | Yes |
+| pl.sadx.moe | No |
+| pl.savant.so | No |
+| pl.secretsealing.club | No |
+| pl.seikowo.tk | No |
+| pl.slash.cl | No |
+| pl.smoothbrain.top | No |
+| pl.spiderden.net | Yes |
+| pl.telteltel.com | No |
+| pl.thj.no | No |
+| pl.tsukuyomi.dev | Yes |
+| pl.valkyrie.world | No |
+| planet.chrisbeckstrom.com | No |
+| planet.moe | Yes |
+| plasticmodels.tokyo | No |
+| plaza.remolino.town | No |
+| plaza.vaporpolis.net | No |
+| pleasant.land | No |
+| pleasehug.me | No |
+| pler.garrison.beer | No |
+| pler.gtx.dynu.net | No |
+| plerodatech.fr | No |
+| pleroma-in.ouda.space | No |
+| pleroma.1d4.us | Yes |
+| pleroma.8777.ch | No |
+| pleroma.amoonrabbit.reisen | No |
+| pleroma.antoineve.me | No |
+| pleroma.aspie.freemyip.com | No |
+| pleroma.atsuchan.page | No |
+| pleroma.atyh.cc | No |
+| pleroma.betamax65.de | No |
+| pleroma.breizh.pm | No |
+| pleroma.cats-home.net | No |
+| pleroma.chagratt.site | No |
+| pleroma.chez-papy-daarky.ovh | No |
+| pleroma.cloud | No |
+| pleroma.crowesnest.io | No |
+| pleroma.cybervalley.org | No |
+| pleroma.dark-alexandr.net | No |
+| pleroma.debian.social | No |
+| pleroma.doserver.duckdns.org | No |
+| pleroma.elinvention.ovh | No |
+| pleroma.elyat.im | No |
+| pleroma.envs.net | No |
+| pleroma.flussence.eu | No |
+| pleroma.foucry.net | No |
+| pleroma.foxfam.club | No |
+| pleroma.gaos.org | No |
+| pleroma.gdgd.jp.net | Yes |
+| pleroma.getimiskon.xyz | No |
+| pleroma.gidikroon.eu | No |
+| pleroma.glueoh.com | No |
+| pleroma.in.th | No |
+| pleroma.inferencium.net | No |
+| pleroma.inumbra.xyz | No |
+| pleroma.io | No |
+| pleroma.iselfhost.com | No |
+| pleroma.jezra.net | No |
+| pleroma.karjalazet.se | No |
+| pleroma.kemonine.info | Yes |
+| pleroma.langmerah.net | No |
+| pleroma.ledoian.cz | No |
+| pleroma.lesateliersphv.net | No |
+| pleroma.libretux.com | No |
+| pleroma.lord.re | No |
+| pleroma.marud.fr | No |
+| pleroma.marussy.com | No |
+| pleroma.memiks.fr | No |
+| pleroma.microkod.xyz | Yes |
+| pleroma.miguelcr.me | No |
+| pleroma.miria.love | No |
+| pleroma.mitra.social | No |
+| pleroma.mnko.info | No |
+| pleroma.moth.monster | No |
+| pleroma.neuromante.net | No |
+| pleroma.nfld.uk | No |
+| pleroma.nobodyhasthe.biz | No |
+| pleroma.noellabo.jp | Yes |
+| pleroma.nthomas20.net | No |
+| pleroma.otter.sh | No |
+| pleroma.p4g.club | Yes |
+| pleroma.panoptikum.io | No |
+| pleroma.pibvt.net | Yes |
+| pleroma.pixificial.xyz | No |
+| pleroma.popolon.org | No |
+| pleroma.poslovitch.fr | No |
+| pleroma.potatoxel.org | No |
+| pleroma.pt | No |
+| pleroma.runfox.tk | No |
+| pleroma.ryusei.dev | No |
+| pleroma.shunderdo.me | No |
+| pleroma.skeptikon.fr | No |
+| pleroma.skyshanty.xyz | No |
+| pleroma.sluga.xyz | No |
+| pleroma.soykaf.com | No |
+| pleroma.stream | No |
+| pleroma.stuebinm.eu | No |
+| pleroma.swab.dev | Yes |
+| pleroma.unigiri.net | No |
+| pleroma.wafflec.one | No |
+| pleroma.wakuwakup.net | Yes |
+| pleroma.xmanifesto.club | No |
+| plshug.me | No |
+| plural.cafe | No |
+| plush.city | No |
+| plustodon.net | Yes |
+| pm.ernix.jp | No |
+| poa.st | Yes |
+| pod.ryey.icu | No |
+| podcastindex.social | No |
+| podlibre.social | No |
+| podnutz.us | Yes |
+| point.community | Yes |
+| pokemon.mastportal.info | No |
+| pokemon.men | Yes |
+| pol.social | No |
+| poliverso.org | No |
+| polonkai.eu | No |
+| poly.cybre.city | No |
+| polyglot.city | No |
+| pomdon.work | No |
+| pone.social | No |
+| pony.social | Yes |
+| poofion.com | No |
+| popon.pptdn.jp | No |
+| porkmeeting.masto.host | No |
+| pornanime.club | No |
+| post.hillenius.net | No |
+| post.lurk.org | No |
+| posting.lolicon.rocks | No |
+| potate.space | No |
+| pouet.april.org | No |
+| pouet.chapril.org | No |
+| pouet.couchet.org | No |
+| pouet.it | No |
+| pouet.panglossoft.fr | No |
+| pounced-on.me | No |
+| pouque.net | No |
+| ppl.town | No |
+| pqc.io | No |
+| pr0mised.life | Yes |
+| precure.ml | No |
+| prieb.social | No |
+| programming.socks.town | No |
+| prolinos.social | No |
+| proprietary.lol | No |
+| propulse.club | No |
+| proyectozero.org | Yes |
+| prsm.space | No |
+| pub.pm | No |
+| pub.yovko.net | Yes |
+| pullopen.xyz | Yes |
+| puntarella.party | No |
+| puppo.space | No |
+| puppy.cafe | No |
+| puz.fun | No |
+| qdon.space | Yes |
+| qiitadon.com | No |
+| qoto.org | No |
+| quarteredcircle.net | No |
+| queer.af | No |
+| queer.garden | No |
+| queer.hacktivis.me | No |
+| queer.haus | No |
+| queer.party | No |
+| queer.town | No |
+| queerdorks.club | No |
+| queerhackers.social | Yes |
+| quietplace.xyz | No |
+| quietude.space | No |
+| quip.social | No |
+| quitter.pl | No |
+| r-kara.de | No |
+| r3pek.org | No |
+| radiosocial.de | No |
+| rafting.io | No |
+| rage.lol | No |
+| rage.love | No |
+| raggedfeathers.com | No |
+| raildon.online | No |
+| rairarai.hostdon.ne.jp | Yes |
+| rakket.app | No |
+| ranran.tw | No |
+| raptol.net | No |
+| rarf.zone | No |
+| raru.re | No |
+| rats-at.work | No |
+| rcsocial.net | Yes |
+| real-escape.jp | Yes |
+| realabc.masto.host | No |
+| realize.be | No |
+| rebelbase.site | No |
+| reco.shrieker.net | No |
+| recurse.social | No |
+| redliberal.com | No |
+| redroo.ml | No |
+| redwombat.social | Yes |
+| refi64.com | No |
+| remerge.net | No |
+| restore.serenitytoo.com | No |
+| retro.social | No |
+| rettiwtkcuf.social | No |
+| rezo.mig5.net | No |
+| rhabarberbarbara.bar | Yes |
+| ribeiro.social | No |
+| ridixy.com | Yes |
+| rigcz.club | No |
+| rinne.masto.host | No |
+| rivals.space | Yes |
+| river.group.lt | Yes |
+| rizomatica.org | No |
+| rodina-sucha.cz | No |
+| roidesbulgares.rocks | No |
+| roleplayers.bub.org | No |
+| rollenspiel.group | No |
+| rollenspiel.social | No |
+| rpi.limited.systems | No |
+| rpvortex.online | No |
+| ru.social | No |
+| rubber.social | No |
+| ruby.social | No |
+| ruhr.social | No |
+| russtodon.ru | Yes |
+| rustedneuron.com | No |
+| s.cameronheard.com | No |
+| s.chars.jp | Yes |
+| s.knusper-land.de | Yes |
+| s.lono.space | Yes |
+| s.lx.ddnss.org | No |
+| s.ovalerio.net | Yes |
+| s.zholnay.name | No |
+| s10y.eu | No |
+| sabbat.hexe.net | No |
+| sad.cab | No |
+| salesforce.social | No |
+| salon.fika.moe | No |
+| san-junipero.gimme-sympathy.org | No |
+| sandbox.skoji.jp | No |
+| sanguinem.space | No |
+| sarcasm.stream | No |
+| saturno.com.ve | No |
+| satzfetzen.de | No |
+| sauropods.win | No |
+| sayit.world | No |
+| sbpk.fr | Yes |
+| scalie.business | No |
+| scalie.club | No |
+| schelling.pt | No |
+| schleuss.online | No |
+| scholar.social | No |
+| scicomm.xyz | No |
+| scintilla.social | No |
+| scl.clttr.info | No |
+| scl.zmb.cm | No |
+| scoopgang.social | No |
+| scy.name | No |
+| sdfn-01.ninjawedding.org | No |
+| seacow.social | No |
+| seaofog.com | Yes |
+| seaswallow.me | No |
+| sect.sunbutt.faith | No |
+| seizemeans.com | No |
+| selenian.space | No |
+| selfy.army | No |
+| sementerrori.st | No |
+| semisol.net | No |
+| semper.social | Yes |
+| sendero.social | No |
+| sergal.org | Yes |
+| sf.social | No |
+| sfba.social | No |
+| shadowverdon.info | No |
+| shelter.moe | No |
+| shelter.social | Yes |
+| shigusegubu.club | No |
+| shiina.cafe | No |
+| shin.pp.ua | No |
+| shiro.dog | No |
+| shitpisscum.mooo.com | No |
+| shitpost.poridge.club | No |
+| shitposter.club | No |
+| shivering-isles.com | Yes |
+| shpposter.club | No |
+| shrike.club | No |
+| sierra.fedi.live | No |
+| signs.codes | No |
+| silk.tofu.kim | Yes |
+| silkhe.art | Yes |
+| simkey.net | Yes |
+| sirius1228.space | Yes |
+| sitedethib.com | No |
+| skeleton.cool | No |
+| skoops.social | No |
+| skorpil.cz | No |
+| skrivel.se | No |
+| skull.website | No |
+| skunk.agency | No |
+| skyjake.fi | No |
+| slashine.onl | Yes |
+| sleeping.town | No |
+| sleepy.cafe | No |
+| sleepygremlin.online | No |
+| slime.global | No |
+| slippy.xyz | Yes |
+| slothy.win | Yes |
+| smallcamp.art | No |
+| smeap.com | No |
+| smores.town | No |
+| sms.cybik.moe | Yes |
+| sn.angry.im | Yes |
+| snabelen.no | No |
+| snack.social | No |
+| snacka.uluntu.se | No |
+| snaggletooth.life | No |
+| sneak.berlin | Yes |
+| sneakerwave.net | No |
+| sneed.social | No |
+| snooter.space | No |
+| snowdon.jp | No |
+| sns-sakura.jp | No |
+| soc.7thmagic.net | No |
+| soc.citizen4.eu | No |
+| soc.emelyne.eu | No |
+| soc.foxarmy.org | No |
+| soc.funnygirl.wtf | No |
+| soc.kakun.jp | No |
+| soc.kouett.net.eu.org | No |
+| soc.luciferi.st | No |
+| soc.nemo.click | No |
+| soc.nhg.moe | No |
+| soc.phreedom.club | No |
+| soc.punktrash.club | Yes |
+| soc.safebook.space | No |
+| soc.schuerz.at | No |
+| soc.texto-plano.xyz | No |
+| soc.webair.xyz | No |
+| socel.net | No |
+| social.0ko.me | No |
+| social.076.ne.jp | No |
+| social.4f9e1738.ignorelist.com | No |
+| social.481516.xyz | Yes |
+| social.abraum.de | No |
+| social.adamasnemesis.com | No |
+| social.adlerweb.info | No |
+| social.afontaine.dev | No |
+| social.alesan.io | No |
+| social.alternativebit.fr | No |
+| social.alyve.be | No |
+| social.anartist.org | No |
+| social.ancreport.com | No |
+| social.anon-groups.de | No |
+| social.anotherlooser.eu | No |
+| social.anoxinon.de | No |
+| social.antifa.gmbh | No |
+| social.anufrij.de | No |
+| social.apreslanu.it | No |
+| social.ariona.fr | No |
+| social.atridad.dev | No |
+| social.autonomy.earth | No |
+| social.avery.cafe | No |
+| social.azkware.net | No |
+| social.azure.icu | Yes |
+| social.b10m.net | No |
+| social.barany.at | No |
+| social.basementcomputer.site | No |
+| social.bau-ha.us | No |
+| social.beachcom.org | No |
+| social.beckmeyer.us | No |
+| social.beepboop.ga | No |
+| social.berzs.xyz | No |
+| social.bim.land | No |
+| social.binarydad.com | No |
+| social.biologianaweb.com.br | No |
+| social.bitcast.info | No |
+| social.bitcoiner.guide | No |
+| social.bobcall.me | No |
+| social.boiledscript.com | No |
+| social.bund.de | No |
+| social.c-r-t.tk | Yes |
+| social.caa-ins.org | No |
+| social.canony.xyz | No |
+| social.centreforthestudyof.net | No |
+| social.chatterboxtown.us | No |
+| social.chilliet.eu | No |
+| social.city-of-glass.net | No |
+| social.cizmar.net | No |
+| social.cloudron.io | No |
+| social.cologne | No |
+| social.coop | Yes |
+| social.creatureofthehill.com | No |
+| social.cryptography.dog | No |
+| social.cyannyan.com | Yes |
+| social.cybre.city | No |
+| social.da-am.com | Yes |
+| social.danksquad.org | No |
+| social.darks.fr | No |
+| social.dc6jgk.de | No |
+| social.deadsuperhero.com | No |
+| social.demonix.fr | No |
+| social.dev-wiki.de | No |
+| social.device5.co.uk | No |
+| social.diekershoff.de | No |
+| social.diskseven.com | No |
+| social.diva.exchange | No |
+| social.doghub.eu | No |
+| social.doma.dev | No |
+| social.drastical.tech | Yes |
+| social.dropbear.xyz | Yes |
+| social.dryusdan.fr | No |
+| social.dsmouse.net | No |
+| social.emisocks.com | No |
+| social.epenguin.com | Yes |
+| social.epyisageek.net | No |
+| social.ewb.io | No |
+| social.fanyx.xyz | No |
+| social.fbxl.net | No |
+| social.fedcast.ch | No |
+| social.fedinet.de | No |
+| social.fetziverse.de | No |
+| social.feurious.com | No |
+| social.finkhaeuser.de | No |
+| social.firc.de | No |
+| social.fluffel.io | No |
+| social.foldr.nl | No |
+| social.fpsource.info | No |
+| social.franssen.xyz | No |
+| social.freetalklive.com | No |
+| social.fym.moe | Yes |
+| social.garwood.io | No |
+| social.gemnoc.ca | No |
+| social.generallyrubbish.net.au | No |
+| social.gl-como.it | No |
+| social.globalpirates.net | No |
+| social.grimneko.de | No |
+| social.grml.de | No |
+| social.hamachpil.net | No |
+| social.handholding.io | Yes |
+| social.hannebrook.info | No |
+| social.hemmnet.de | No |
+| social.hendrixgames.com | No |
+| social.henzi.org | No |
+| social.here.blue | No |
+| social.homunyan.com | No |
+| social.hostpath.de | No |
+| social.icynet.eu | No |
+| social.ignifi.me | No |
+| social.ignis.link | No |
+| social.igwigg.space | No |
+| social.illegalpornography.com | No |
+| social.imirhil.fr | No |
+| social.inex.rocks | No |
+| social.interhop.org | No |
+| social.ir5.eu | No |
+| social.ironboundsoftware.com | Yes |
+| social.irrwitz.com | No |
+| social.isharacomix.org | No |
+| social.isurf.ca | No |
+| social.jesuislibre.net | No |
+| social.jfischer.org | No |
+| social.joschu.ch | No |
+| social.josephschneider.net | No |
+| social.k1ppl.com | Yes |
+| social.kabi.tk | No |
+| social.kaitaia.life | Yes |
+| social.kartoffelcheetah.eu | No |
+| social.kennyqin.com | No |
+| social.kindbook.us | No |
+| social.kinl.gq | No |
+| social.kithop.ca | No |
+| social.ksite.de | No |
+| social.kuester7.com | No |
+| social.kyushojitsu.ca | No |
+| social.lacoloc.cafe | No |
+| social.lainon.life | No |
+| social.lansky.name | No |
+| social.laserbeam.productions | No |
+| social.liberta.vip | No |
+| social.libre.fi | No |
+| social.linux.pizza | No |
+| social.logilab.org | No |
+| social.loranger.xyz | No |
+| social.lovingexpressions.net | No |
+| social.lsnet.eu | No |
+| social.ltch.fr | No |
+| social.lukepreston.xyz | No |
+| social.lxsameer.com | Yes |
+| social.main-angler.de | No |
+| social.masto.host | No |
+| social.medusmedia.com | No |
+| social.meissa-gmbh.de | No |
+| social.memo-village.com | No |
+| social.metadata.moe | Yes |
+| social.metakaos.space | No |
+| social.mezzo.moe | No |
+| social.mieth.net | No |
+| social.mikutter.hachune.net | No |
+| social.minable.xyz | No |
+| social.mjd.id.au | No |
+| social.mochi.academy | No |
+| social.mofu2charger-listenradio.net | No |
+| social.mootech.eu | No |
+| social.nah.re | No |
+| social.namok.be | No |
+| social.net.ua | No |
+| social.nevira.net | No |
+| social.nfld.uk | No |
+| social.nicolas-constant.com | No |
+| social.nipponalba.scot | No |
+| social.nofftopia.com | Yes |
+| social.nomagic.uk | No |
+| social.nyerm.com | No |
+| social.odayacres.farm | Yes |
+| social.okoyono.de | No |
+| social.opendesktop.org | No |
+| social.opennerds.org | No |
+| social.ordinal.garden | No |
+| social.outsourcedmath.com | No |
+| social.outv.im | Yes |
+| social.paladyn.org | No |
+| social.pcwideopen.com | No |
+| social.penguinability.net | No |
+| social.pinkduck.xyz | No |
+| social.pmj.rocks | No |
+| social.politicaconciencia.org | No |
+| social.polymerwitch.com | No |
+| social.ppmx.org | No |
+| social.prepedia.org | No |
+| social.primeos.dev | No |
+| social.protocol7.co | No |
+| social.pyngu.com | No |
+| social.qaq.wiki | Yes |
+| social.qownnotes.org | Yes |
+| social.quodverum.com | No |
+| social.radio.af | No |
+| social.realnephestate.xyz | No |
+| social.rebellion.global | No |
+| social.regenpfeifer.net | No |
+| social.remnantrisingnow.com | No |
+| social.rights.ninja | Yes |
+| social.rmrs.nl | No |
+| social.roeckoe.be | No |
+| social.rousselie.name | No |
+| social.ruby2sday.net | No |
+| social.rustysoft.de | No |
+| social.s.dhusch.de | No |
+| social.saarland | No |
+| social.sakamoto.gq | No |
+| social.schiessle.org | No |
+| social.scribblers.club | No |
+| social.scriptjunkie.us | No |
+| social.seattle.wa.us | No |
+| social.secret-wg.org | No |
+| social.servus.at | No |
+| social.shadowfacts.net | Yes |
+| social.shadowkat.net | No |
+| social.shiftyeyed.net | No |
+| social.simcu.com | No |
+| social.skewed.de | No |
+| social.skiqqy.xyz | No |
+| social.skrep.eu | No |
+| social.skrep.in | No |
+| social.slat.org | No |
+| social.snopyta.org | No |
+| social.snowcode.ovh | No |
+| social.softmetz.de | No |
+| social.solibre.de | No |
+| social.sp-codes.de | No |
+| social.spacebear.ee | No |
+| social.ssbx.dev | No |
+| social.stephane-klein.info | Yes |
+| social.stracknet.com | No |
+| social.sunnypup.io | No |
+| social.tadzik.net | No |
+| social.taker.fr | No |
+| social.targaryen.house | No |
+| social.tchncs.de | No |
+| social.tcit.fr | No |
+| social.techn1k.de | No |
+| social.teci.world | No |
+| social.thecrow.uk | No |
+| social.thiskurt.me | No |
+| social.tmprs.net | No |
+| social.tofu.kim | Yes |
+| social.tonholzpixel.de | No |
+| social.touha.me | No |
+| social.tourmentine.com | No |
+| social.travisshears.xyz | No |
+| social.troll.academy | No |
+| social.trom.tf | No |
+| social.tromdienste.de | No |
+| social.ttree.ch | Yes |
+| social.tulsa.ok.us | No |
+| social.tumelum.de | No |
+| social.ufeff.club | No |
+| social.undeadnetwork.de | No |
+| social.unturf.com | No |
+| social.unx.pw | No |
+| social.up.edu.ph | Yes |
+| social.urspringer.de | No |
+| social.veganact.org.au | No |
+| social.vestimento.fashion | No |
+| social.weho.st | No |
+| social.wildeboer.net | No |
+| social.winter.ink | No |
+| social.woefdram.nl | No |
+| social.wolfe.casa | No |
+| social.wxcafe.net | No |
+| social.x220.co.uk | No |
+| social.xenofem.me | No |
+| social.xthemage.net | No |
+| social.yakshed.org | No |
+| social.yl.ms | No |
+| social.yonix.eu | No |
+| social.yunota.nohost.me | No |
+| social.zdx.fr | No |
+| sociala.me | No |
+| sociale.network | No |
+| socialtruth.social | No |
+| society.kalli.st | No |
+| society.oftrolls.com | No |
+| sociopak.com | No |
+| socks.pinnoto.org | No |
+| socnet.supes.com | No |
+| solagg.com | Yes |
+| solarpunk.moe | No |
+| soloamigos.xyz | No |
+| sometimes.when.computer | No |
+| sonomu.club | No |
+| sorcie.re | No |
+| sotong.cloud | No |
+| soulice.moe | No |
+| soundcafe.nl | No |
+| soykaf.org | Yes |
+| sp.kub2091.ru | No |
+| spank.ws | No |
+| spanner.works | No |
+| spectres.space | No |
+| spheres.solarnight.net | No |
+| spinster.xyz | Yes |
+| spiral.sh | No |
+| springbo.cc | No |
+| squ.alid.pw | No |
+| squeet.me | No |
+| stadion.masto.host | No |
+| stardew.city | No |
+| starflower.space | No |
+| starship.coffee | No |
+| status.p1ng0ut.social | No |
+| status.plomlompom.com | No |
+| stellaria.network | Yes |
+| stereodon.social | No |
+| stereophonic.space | No |
+| stoneartprod.xyz | No |
+| stonerkitty.monster | No |
+| stoopid.club | No |
+| strelizia.net | No |
+| sts.lqt.moe | No |
+| stubn.hallertau.social | No |
+| su.siberia.work | No |
+| sua.anarkis.net | No |
+| subversive.zone | No |
+| sukebeneko.com | No |
+| sully.site | No |
+| sumanko.ml | Yes |
+| summoners-riftodon.jp | No |
+| sunbeam.city | No |
+| sunisky.club | Yes |
+| surfin.dog | No |
+| sushi.ski | Yes |
+| swampfoxden.com | No |
+| swingset.social | No |
+| swiss-chaos.social | No |
+| switter.at | No |
+| syasai.club | No |
+| systerserver.town | No |
+| syui.cf | Yes |
+| t.aqn.jp | No |
+| t.basspistol.org | No |
+| tablegame.mstdn.cloud | No |
+| tabletop.social | No |
+| tacobelllabs.net | No |
+| tailswish.industries | No |
+| taiyaki.online | No |
+| takeko.monster | Yes |
+| takumi.fun | No |
+| talkabout.cf | No |
+| taruntarun.net | Yes |
+| tassaron.com | No |
+| taur.zone | No |
+| tbh.ihatebeinga.live | Yes |
+| tc.nz | No |
+| team1.rocks | No |
+| tears.intherain.club | No |
+| tebukuro.xyz | No |
+| tech.lgbt | No |
+| techlover.eu | No |
+| techporn.club | No |
+| tekkadon.manimani.cc | No |
+| telescope.garden | No |
+| tenforward.social | No |
+| tennis.masto.host | No |
+| tentacle.social | No |
+| test.thesan.space | No |
+| tfl.net.pl | No |
+| the-box.work | No |
+| the-pit.uk | No |
+| the.goofs.space | No |
+| the.vermonters.club | No |
+| the9thcircle.club | No |
+| thebag.social | No |
+| thechairman.info | No |
+| thecitadel.social | No |
+| thefire.work | Yes |
+| thejoyo.com | No |
+| theres.life | No |
+| theroom.social | No |
+| thesan.space | No |
+| thesenate.cc | No |
+| thesnakepostoffice.online | No |
+| thewell.ml | No |
+| thicc.horse | No |
+| this.mouse.rocks | No |
+| thraeryn.net | No |
+| thx.one | Yes |
+| ti.akirin.xyz | Yes |
+| tilde.zone | No |
+| ting.cm | No |
+| tiny.tilde.website | No |
+| tmkis.social | No |
+| todon.eu | No |
+| todon.nl | No |
+| togart.de | No |
+| together.chaoyu.us | No |
+| toki.social | No |
+| tomatoa.club | No |
+| tomo.airen-no-jikken.icu | No |
+| tooot.im | No |
+| toot-lab.reclaim.technology | No |
+| toot.a-lec.org | No |
+| toot.aquilenet.fr | No |
+| toot.berlin | No |
+| toot.blue | No |
+| toot.cafe | No |
+| toot.cat | No |
+| toot.fedilab.app | No |
+| toot.gnous.eu | No |
+| toot.host | No |
+| toot.icyphox.sh | No |
+| toot.io | No |
+| toot.jeena.net | No |
+| toot.koeln | No |
+| toot.krinetzki.de | Yes |
+| toot.kuba-orlik.name | No |
+| toot.liw.fi | No |
+| toot.lqdev.tech | No |
+| toot.martyn.berlin | No |
+| toot.matereal.eu | No |
+| toot.moi.lc | No |
+| toot.morikka.me | No |
+| toot.party | No |
+| toot.phseiff.com | No |
+| toot.plus.yt | Yes |
+| toot.portes-imaginaire.org | No |
+| toot.rainbow-100.com | No |
+| toot.s1gm4.eu | No |
+| toot.si | No |
+| toot.site | Yes |
+| toot.snowgoons.ro | Yes |
+| toot.tantalum.life | Yes |
+| toot.thedoodleproject.net | No |
+| toot.thoughtworks.com | Yes |
+| toot.wales | No |
+| toot.yukimochi.jp | No |
+| tooter.conman.co.za | No |
+| tooter.social | No |
+| tooting.ch | No |
+| tooting.intensifi.es | No |
+| toots.anivar.in | Yes |
+| toots.benpro.fr | Yes |
+| toots.dgplug.org | No |
+| toots.legohousein.space | No |
+| toots.social | Yes |
+| tootsfrom.ahabitual.dev | No |
+| toottoot.de | No |
+| tooxy.cz | No |
+| toppickz.com | No |
+| torlaz.online | No |
+| torti8.hostdon.ne.jp | Yes |
+| touha.me | No |
+| touhou.party | No |
+| towns.gay | No |
+| trailblazer.social | No |
+| trails.floor9.com | No |
+| trans.fm | No |
+| transient.garden | No |
+| transmom.love | No |
+| travel-friends.chat | No |
+| travelpandas.fr | No |
+| triangletoot.party | No |
+| tristram.uber.space | No |
+| troet.cafe | No |
+| trollian.space | No |
+| trpg.cloud | No |
+| trunk.mad-scientist.club | No |
+| tryliberty.org | No |
+| tsia.de | No |
+| turbo.chat | No |
+| turkum.site | No |
+| tutut.delire.party | No |
+| tuusin.misono-ya.info | No |
+| tvitero.com | No |
+| twatter.catvibers.me | Yes |
+| twiddon.com | No |
+| twingyeo.kr | Yes |
+| twinkaga.in | No |
+| twista.283.cloud | Yes |
+| twit.social | No |
+| twitter.1d4.us | Yes |
+| txs.es | No |
+| txwb.org | No |
+| tymoon.eu | Yes |
+| types.pl | No |
+| typo.science | Yes |
+| tzcafe.com | Yes |
+| u.johnconway.art | Yes |
+| uberspace.social | No |
+| ubuntu.buzz | No |
+| udon.red | No |
+| udongein.xyz | No |
+| uelfte.club | No |
+| uhouho.xyz | Yes |
+| ukadon.shillest.net | No |
+| uksocial.net | No |
+| uluka.otsoku.me | No |
+| um.lugarzinho.top | No |
+| uma.milkey.homes | Yes |
+| umaskey.net | Yes |
+| umastodon.net | No |
+| ummmmmm.ahhhhhh.social | No |
+| unbound.social | No |
+| unclealbie.com | No |
+| under-bank.blue | No |
+| underground-side-kochira-kotonoha.xyz | No |
+| unexpected.singleuser.club | No |
+| unextro.net | No |
+| unholy-lair.69.mu | No |
+| unimatrix0.is | No |
+| uniquam.herokuapp.com | No |
+| unkomaker.hostdon.ne.jp | Yes |
+| unkworks.net | No |
+| unnerv.jp | No |
+| uno.today | Yes |
+| unstable.icu | No |
+| unstoppablecode.org | No |
+| upallnight.minnix.dev | No |
+| urgenthelp.in | No |
+| ursal.zone | No |
+| urvogel.club | No |
+| ussr.win | No |
+| utodon.jp | No |
+| utopia.cool | No |
+| uuuu.bigguys.club | No |
+| uwu.social | Yes |
+| uwu.town | Yes |
+| v-insanity.com | No |
+| v.st | No |
+| v2.nyoki.club | No |
+| v2.tamx.tk | Yes |
+| vance.land | No |
+| vanderwarker.social | Yes |
+| vandrare.page | No |
+| vantil.refchat.net | No |
+| vapers.jp | No |
+| varishangout.net | Yes |
+| veenus.art | No |
+| venera.social | No |
+| verified.af | No |
+| vernunftzentrum.de | No |
+| veronaxxx.masto.host | No |
+| vibeogame.online | No |
+| vici0.us | No |
+| violoncello.ch | No |
+| vis.social | No |
+| vnil.de | No |
+| vocabar.net | No |
+| vocalodon.net | No |
+| vocalounge.cafe | No |
+| voi.social | No |
+| void.brechanegra.net | No |
+| volt.cafe | No |
+| voring.me | No |
+| vostain.net | No |
+| vrij.social | Yes |
+| vrparty.social | Yes |
+| vucica.net | No |
+| vulpine.club | Yes |
+| w3c.social | No |
+| waha.work | No |
+| waifuism.life | No |
+| wake.st | No |
+| walkman.social | No |
+| wall.demouliere.eu | No |
+| wallflowersocial.club | No |
+| wandering.shop | No |
+| wandzeitung.xyz | No |
+| warm.rocks | No |
+| washingtonbeach.online | No |
+| watadon.com | No |
+| we.1being.org | No |
+| weeaboo.space | No |
+| weirder.earth | No |
+| welldn.net | No |
+| welsea.site | Yes |
+| werebeast.io | No |
+| wetdry.world | No |
+| whinge.town | No |
+| whitespashe.uk | No |
+| wien.rocks | No |
+| wife.town | No |
+| wiggle.website | No |
+| wintermute.fr.to | No |
+| wireless.cat6.network | Yes |
+| witches.live | No |
+| witches.social | No |
+| wizzzard.online | No |
+| wndp.cloud | Yes |
+| wokka.be | No |
+| woof.group | No |
+| workaholic.cloud | No |
+| worst-friends.chat | Yes |
+| wp-social.net | No |
+| wpbuilds.social | Yes |
+| wreck.rocks | No |
+| wrestle.town | No |
+| writing.exchange | No |
+| wue.social | No |
+| wug.fun | Yes |
+| wuppo.allowed.org | No |
+| www.13ad.de | No |
+| www.i-kaohsiung.com | No |
+| www.librepunk.club | No |
+| www.mstddntfdn.online | Yes |
+| www.nekotodon.com | No |
+| wxw.cat | No |
+| wxw.moe | Yes |
+| x0f.org | No |
+| x0r.be | Yes |
+| xarxa.cloud | No |
+| xarxamontgri.masto.host | No |
+| xgix.net | Yes |
+| xiii.ch | No |
+| xindejiayuan.com | No |
+| xoxo.zone | Yes |
+| xxx.azyobuzi.net | No |
+| xyzzy.link | No |
+| yakumo.foundation | Yes |
+| yamagadon.com | No |
+| yggdrasil.social | No |
+| ygo.pub | Yes |
+| yiff.life | Yes |
+| yip.gay | No |
+| ykzts.technology | No |
+| yokai.cafe | No |
+| youdabomb.social | No |
+| youdeserve.space | No |
+| youjo.love | No |
+| your.sensor.community | No |
+| yukari.cafe | Yes |
+| yumehaki.club | No |
+| yumisskey.net | No |
+| yys.ink | No |
+| yysk.icu | No |
+| z.fedipen.xyz | No |
+| z.macgirvin.com | No |
+| z0ne.social | Yes |
+| zap-integrat.ion.ovh | No |
+| zap.dog | No |
+| zecircle.xyz | No |
+| zeka.cloud | Yes |
+| zenyasai.g-fukurowl.club | No |
+| zer0.click | No |
+| zhub.link | No |
+| zoinks.one | No |
+| zone.liolok.com | Yes |
+| zotadel.net | No |
+| zottmann.org | Yes |
+| zotum.net | No |
 
-| # | Mastodon User | Links |
-| --- | --- | --- |
-| 1 | obapom@pawoo.net | 11,653 |
-| 2 | UnitooWebRadio@botsin.space | 11,291 |
-| 3 | amb_noticias@botsin.space | 9,302 |
-| 4 | Femrevvnr@mastodon.social | 7,693 |
-| 5 | libridaleggere@mastodon.cloud | 5,671 |
-| 6 | gitcomteam@mastodon.social | 4,528 |
-| 7 | TechNews@aspiechattr.me | 4,515 |
-| 8 | joukyunews@mstdn.jp | 4,462 |
-| 9 | itnewsbot@schleuss.online | 4,457 |
-| 10 | newpom@pomdon.work | 4,397 |
-
-[//]: # (do not edit this line end)
 
 </details>
 
 
-<details>
-<summary>_click me_
+-----
 
-### Top 100 - Shared Cloudflare links
-</summary>
-
-[//]: # (do not edit this line start; t2)
-
-| # | Mastodon User | Links |
-| --- | --- | --- |
-| 1 | amb_noticias@botsin.space | 9,298 |
-| 2 | joukyunews@mstdn.jp | 4,462 |
-| 3 | obapom@pawoo.net | 4,408 |
-| 4 | publico_bot@newsbots.eu | 4,230 |
-| 5 | CryptoBot@aspiechattr.me | 2,984 |
-| 6 | covid_stats@mastodon.cloud | 2,639 |
-| 7 | hn50@social.lansky.name | 2,452 |
-| 8 | elnacionalcat_bot@newsbots.eu | 2,420 |
-| 9 | hnbot@me.ns.ci | 2,316 |
-| 10 | TechNews@aspiechattr.me | 2,116 |
-| 11 | elpuntavui@mastodont.cat | 2,089 |
-| 12 | lemonde@newsbots.eu | 1,978 |
-| 13 | thaitechfeed@mastodon.in.th | 1,713 |
-| 14 | hn100@social.lansky.name | 1,618 |
-| 15 | itnewsbot@schleuss.online | 1,516 |
-| 16 | hn100@botsin.space | 1,499 |
-| 17 | DDMEXICO@mastodon.social | 1,257 |
-| 18 | KurumiBot@b.z0ne.social | 1,230 |
-| 19 | army@propulse.club | 1,052 |
-| 20 | hackernews@die-partei.social | 1,033 |
-| 21 | SinonBot@b.z0ne.social | 1,018 |
-| 22 | AraAraBot@freecumextremist.com | 967 |
-| 23 | NaturalNews@brighteon.social | 912 |
-| 24 | SweetPony@equestria.social | 911 |
-| 25 | telesur_es@newsbots.eu | 895 |
-| 26 | gamesense@mastodon.social | 820 |
-| 27 | PonyPics@equestria.social | 817 |
-| 28 | EUwatch@newsbots.eu | 810 |
-| 29 | techcrunch@chaosphere.hostdon.jp | 801 |
-| 30 | epochtimes_jp_bot@www.i-kaohsiung.com | 760 |
-| 31 | hnbot@botsin.space | 756 |
-| 32 | naciodigital_bot@newsbots.eu | 750 |
-| 33 | mauthausengusen@slippy.xyz | 713 |
-| 34 | misaka86@pawoo.net | 709 |
-| 35 | Wn00Japan@pawoo.net | 691 |
-| 36 | johndolph@noagendasocial.com | 658 |
-| 37 | johndolph@brighteon.social | 656 |
-| 38 | GradientBot@botsin.space | 655 |
-| 39 | thepressproject@libretooth.gr | 653 |
-| 40 | PolBegov@newsbots.eu | 644 |
-| 41 | shietka@mastodon.social | 635 |
-| 42 | ithome@hello.2heng.xin | 630 |
-| 43 | gigazine@chaosphere.hostdon.jp | 624 |
-| 44 | CKsTechnologyNews@mastodon.social | 594 |
-| 45 | coverart@botsin.space | 593 |
-| 46 | Stripey@botsin.space | 583 |
-| 47 | FOXNews_LatestHeadlines@noc.social | 580 |
-| 48 | hugbot@neckbeard.xyz | 574 |
-| 49 | BBCPersianNewsBot@aleph.land | 571 |
-| 50 | theregister@bots.franssen.xyz | 551 |
-| 51 | tugatech@mastodon.social | 531 |
-| 52 | hn250@social.lansky.name | 528 |
-| 53 | deviantdomme@switter.at | 494 |
-| 54 | HunDriverWidow@freeatlantis.com | 485 |
-| 55 | blendernation@botsin.space | 485 |
-| 56 | AlexJones@brighteon.social | 468 |
-| 57 | politico_eu_bot@newsbots.eu | 465 |
-| 58 | Mediapart@mastodon.social | 458 |
-| 59 | cnet@chaosphere.hostdon.jp | 458 |
-| 60 | intengineering@botsin.space | 453 |
-| 61 | androidpolice@mstdn.social | 449 |
-| 62 | YoungBlood@social.quodverum.com | 448 |
-| 63 | meteo_galicia@botsin.space | 412 |
-| 64 | counterpunch@newsbots.eu | 395 |
-| 65 | zdnet@chaosphere.hostdon.jp | 384 |
-| 66 | thepigeonexpress@mastodon.social | 384 |
-| 67 | TearGasBreakfast@social.quodverum.com | 384 |
-| 68 | benzogaga33@mamot.fr | 384 |
-| 69 | MonaBot@neckbeard.xyz | 375 |
-| 70 | sourcreampringles_SoundCloud@botsin.space | 368 |
-| 71 | JesseStone@freeatlantis.com | 361 |
-| 72 | nextinpact@gs.leftic.club | 356 |
-| 73 | travel@social.beachcom.org | 340 |
-| 74 | automaton@chaosphere.hostdon.jp | 331 |
-| 75 | libridaleggere@mastodon.cloud | 330 |
-| 76 | todayilearned@botsin.space | 318 |
-| 77 | gayburg@mastodon.uno | 315 |
-| 78 | metoo@botsin.space | 311 |
-| 79 | sourcreampringles_SoundCloud@noagendasocial.com | 308 |
-| 80 | gironanoticies@mastodon.social | 308 |
-| 81 | TeslaNews@aspiechattr.me | 299 |
-| 82 | percival40@mastodon.social | 287 |
-| 83 | thenewoil@freeradical.zone | 283 |
-| 84 | ogatarin@pawoo.net | 283 |
-| 85 | arzachel@mastodon.derveni.org | 280 |
-| 86 | rss@social.xthemage.net | 278 |
-| 87 | gwb@social.beachcom.org | 278 |
-| 88 | twngo@g0v.social | 277 |
-| 89 | CNN_politics_feed@noc.social | 276 |
-| 90 | CDTChinese@newsbots.eu | 275 |
-| 91 | redfrog@mamot.fr | 273 |
-| 92 | Hornybot@neckbeard.xyz | 269 |
-| 93 | HebrideanHecate@spinster.xyz | 268 |
-| 94 | Snoro@mastodon.social | 264 |
-| 95 | Journalducoin@mastodon.social | 260 |
-| 96 | TeddyTheBest@framapiaf.org | 255 |
-| 97 | thematterco@mastodon.in.th | 254 |
-| 98 | Ladies_DE@kollegin.eu | 252 |
-| 99 | OnionPoliticsBot@liberdon.com | 251 |
-| 100 | YuzuRyo61@misskey.io | 245 |
-
-[//]: # (do not edit this line end)
-
-</details>
+| Type | Count |
+| --- | --- | 
+| Cloudflare | 495 |
+| Normal | 2,157 |
 
 
-<details>
-<summary>_click me_
-
-### Top 100 - Most Shared Domains
-</summary>
-
-[//]: # (do not edit this line start; t3)
-
-| # | Domain | Cloudflare | Count |
-| --- | --- | --- | --- |
-| 1 | twitter.com |   | 69,031 |
-| 2 | t.co |   | 59,728 |
-| 3 | youtube.com |   | 19,599 |
-| 4 | youtu.be |   | 16,143 |
-| 5 | unitoo.it |   | 11,839 |
-| 6 | yahoo.co.jp |   | 11,205 |
-| 7 | tinyurl.com | 🌩 | 9,479 |
-| 8 | pixiv.net | 🌩 | 8,874 |
-| 9 | ycombinator.com | 🌩 | 7,222 |
-| 10 | weibo.com |   | 6,688 |
-| 11 | github.com |   | 5,860 |
-| 12 | nhk.or.jp |   | 5,850 |
-| 13 | newsbots.eu |   | 5,681 |
-| 14 | bit.ly |   | 4,995 |
-| 15 | libridaleggereassolutamente.com |   | 4,773 |
-| 16 | joukyunews.com | 🌩 | 4,407 |
-| 17 | google.com |   | 4,230 |
-| 18 | itmedia.co.jp |   | 4,144 |
-| 19 | spotify.com |   | 3,965 |
-| 20 | publico.es | 🌩 | 3,714 |
-| 21 | amazon.co.jp |   | 3,675 |
-| 22 | wikipedia.org |   | 3,360 |
-| 23 | natalie.mu |   | 3,354 |
-| 24 | 4gamer.net |   | 3,321 |
-| 25 | ddating.fun | 🌩 | 3,210 |
-| 26 | rthk.hk |   | 3,191 |
-| 27 | redd.it |   | 3,170 |
-| 28 | blogspot.com |   | 2,885 |
-| 29 | shindanmaker.com |   | 2,844 |
-| 30 | indianexpress.com |   | 2,800 |
-| 31 | nitter.net |   | 2,655 |
-| 32 | lemonde.fr | 🌩 | 2,621 |
-| 33 | chouti.com |   | 2,599 |
-| 34 | yanoagenda.com | 🌩 | 2,591 |
-| 35 | elnacional.cat | 🌩 | 2,414 |
-| 36 | svt.se |   | 2,364 |
-| 37 | impress.co.jp |   | 2,347 |
-| 38 | theverge.com |   | 2,299 |
-| 39 | gitcom.org |   | 2,204 |
-| 40 | tryst.link |   | 2,190 |
-| 41 | elpuntavui.cat | 🌩 | 2,094 |
-| 42 | mantan-web.jp |   | 2,058 |
-| 43 | talsperrenleitzentrale-ruhr.de |   | 1,984 |
-| 44 | dw.com |   | 1,963 |
-| 45 | sos112.si |   | 1,927 |
-| 46 | bund.de |   | 1,914 |
-| 47 | elperiodico.cat |   | 1,809 |
-| 48 | mk-mode.com |   | 1,805 |
-| 49 | ift.tt |   | 1,798 |
-| 50 | bbc.co.uk |   | 1,761 |
-| 51 | tribuneindia.com |   | 1,709 |
-| 52 | twitch.tv |   | 1,694 |
-| 53 | a-legend.net |   | 1,680 |
-| 54 | buff.ly |   | 1,678 |
-| 55 | derpibooru.org | 🌩 | 1,643 |
-| 56 | tagesschau.de |   | 1,639 |
-| 57 | arxiv.org |   | 1,596 |
-| 58 | srf.ch |   | 1,559 |
-| 59 | imgur.com | 🌩 | 1,558 |
-| 60 | togetter.com |   | 1,537 |
-| 61 | famitsu.com |   | 1,476 |
-| 62 | kenh14.vn |   | 1,462 |
-| 63 | wordpress.com |   | 1,441 |
-| 64 | reddit.com |   | 1,413 |
-| 65 | misskey.io | 🌩 | 1,375 |
-| 66 | theguardian.com |   | 1,301 |
-| 67 | diariodemexico.com | 🌩 | 1,256 |
-| 68 | cadenaser.com |   | 1,256 |
-| 69 | medicaldialogues.in |   | 1,200 |
-| 70 | jvn.jp |   | 1,189 |
-| 71 | archive.org |   | 1,188 |
-| 72 | vtv.gob.ve |   | 1,166 |
-| 73 | gentedigital.es |   | 1,161 |
-| 74 | t.me |   | 1,158 |
-| 75 | tumblr.com |   | 1,152 |
-| 76 | cnet.com | 🌩 | 1,142 |
-| 77 | bbc.com | 🌩 | 1,138 |
-| 78 | fanbox.cc |   | 1,131 |
-| 79 | reut.rs |   | 1,097 |
-| 80 | gigazine.net | 🌩 | 1,094 |
-| 81 | metalarea.org |   | 1,091 |
-| 82 | soundcloud.com | 🌩 | 1,088 |
-| 83 | aljazeera.com |   | 1,088 |
-| 84 | nist.gov |   | 1,081 |
-| 85 | asoko.ga |   | 1,077 |
-| 86 | instagram.com |   | 1,066 |
-| 87 | entabe.jp |   | 1,043 |
-| 88 | topwar.ru | 🌩 | 1,042 |
-| 89 | hackaday.com |   | 1,037 |
-| 90 | liberation.fr |   | 1,034 |
-| 91 | telesurtv.net |   | 1,030 |
-| 92 | humanite.fr |   | 1,007 |
-| 93 | substack.com | 🌩 | 1,006 |
-| 94 | golem.de |   | 982 |
-| 95 | gizmodo.jp |   | 973 |
-| 96 | lokalklick.eu |   | 972 |
-| 97 | naturalnews.com | 🌩 | 969 |
-| 98 | rfi.fr |   | 963 |
-| 99 | techcrunch.com | 🌩 | 957 |
-| 100 | nos.nl |   | 948 |
-
-[//]: # (do not edit this line end)
-
-</details>
-
-
-<details>
-<summary>_click me_
-
-### About Mastodon Users
-</summary>
-
-[//]: # (do not edit this line start; t5)
-
-
-- *50,250* Mastodon users posted *2,812,243* public toots.
-  - Above number include toots which has no link.
-    - About *90,718* toots/day by all users, *1.8* toots/day per user
-- Now let's focus on *Mastodon toots which has any links*.
-
-![](../image/bully.jpg)
-
-- *24,623* Mastodon users posted *623,141* public toots contains 703,475 links. (about *1.1* links/toot)
-  - About *49*% of total Mastodon users shared any links.
-    - About *51*% of total Mastodon users _does not_ share a link.
-  - About *22.2*% of total Mastodon toots contains a link.
-- Inside *24,623* Mastodon users,
-  - There are *3,523* users who ONLY shared Cloudflare links. (*14.3*%)
-  - There are *13,428* users who NEVER shared Cloudflare links. (*54.5*%)
-- Inside *623,141* public toots,
-  - There are *32,133* base domains. ("_base_": both `www.youtube.com` `m.youtube.com` will be treated as `youtube.com`)
-- Inside *703,475* links,
-  - There are *163,547* Cloudflare links. (*23.2*%)
-
-
-
-## *22.3*% of Mastodon users shared Cloudflare link.
-## *23.2*% of shared links are Cloudflared.
-
-[//]: # (do not edit this line end)
-
-</details>
-
-
-----
-
-![](../image/mastodoncf.jpg)
+### 18.7% of public Fediverse services are using Cloudflare.
