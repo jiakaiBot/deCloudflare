@@ -16,8 +16,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
   - [Top 10 - Shared Any links](cloudflared_shared_mastodon.md#top-10-shared-any-links)
   - [Top 100 - Shared Cloudflare links](cloudflared_shared_mastodon.md#top-100-shared-cloudflare-links)
   - [Top 100 - Most Shared Domains](cloudflared_shared_mastodon.md#top-100-most-shared-domains)
-  - [Mastodon - Top 10 Most Used Language](cloudflared_shared_mastodon.md#top-10-most-used-language)
-  - [Mastodon - Top 10 Most Used Servers](cloudflared_shared_mastodon.md#top-10-most-used-servers)
+  - [Mastodon - Top 10 Most Used Language](cloudflared_shared_mastodon.md#mastodon-top-10-most-used-language)
+  - [Mastodon - Top 10 Most Used Servers](cloudflared_shared_mastodon.md#mastodon-top-10-most-used-servers)
   - [Summary](cloudflared_shared_mastodon.md#summary)
 - ↳ **Stop Sharing Cloudflare Links**! Follow [Alternative Link](service.altlink.md)
 
