@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-11-05: [Customer Impacting Issue in the Mumbai Datacenter](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/v53bzp6ph909)
+- 2021-11-05: [errors on blog.cloudflare.com](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1v5m7ccxvmgr)
 - 2021-11-02: [Network Performance Issues in Ashburn](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xlx9th9m36vt)
 - 2021-10-28: [Network Performance Issues in Miami, FL, US](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ktt7vwdnc2wf)
 - 2021-10-27: [503 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r7s219mgt5w7)
