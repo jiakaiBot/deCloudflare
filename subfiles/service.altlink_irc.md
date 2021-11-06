@@ -5,7 +5,7 @@
 
 
 - If you don't know what Altlink is [click here](service.altlink.md).
-- You can find `altlink_xxx` only on:
+- You can find `altlink_xxx` **only** on:
 
 
 | Server | Channel |
@@ -14,4 +14,5 @@
 
 
 - Feel free to suggest other server/channels.
-- You can create an Issue without git account. Just send a private message to `altlink_xxx`.
+- You can create an Issue without git account.
+  - Just send a private message _or_ mention `altlink_xxx`.
