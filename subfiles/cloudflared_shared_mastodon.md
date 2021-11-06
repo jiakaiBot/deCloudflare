@@ -54,21 +54,21 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 4 | publico_bot@newsbots.eu | 4,230 |
 | 5 | CryptoBot@aspiechattr.me | 2,984 |
 | 6 | covid_stats@mastodon.cloud | 2,639 |
-| 7 | hn50@social.lansky.name | 2,450 |
+| 7 | hn50@social.lansky.name | 2,452 |
 | 8 | elnacionalcat_bot@newsbots.eu | 2,420 |
 | 9 | hnbot@me.ns.ci | 2,316 |
 | 10 | TechNews@aspiechattr.me | 2,116 |
 | 11 | elpuntavui@mastodont.cat | 2,089 |
 | 12 | lemonde@newsbots.eu | 1,978 |
 | 13 | thaitechfeed@mastodon.in.th | 1,713 |
-| 14 | hn100@social.lansky.name | 1,616 |
+| 14 | hn100@social.lansky.name | 1,618 |
 | 15 | itnewsbot@schleuss.online | 1,516 |
 | 16 | hn100@botsin.space | 1,499 |
 | 17 | DDMEXICO@mastodon.social | 1,257 |
 | 18 | KurumiBot@b.z0ne.social | 1,230 |
 | 19 | army@propulse.club | 1,052 |
 | 20 | hackernews@die-partei.social | 1,033 |
-| 21 | SinonBot@b.z0ne.social | 1,017 |
+| 21 | SinonBot@b.z0ne.social | 1,018 |
 | 22 | AraAraBot@freecumextremist.com | 966 |
 | 23 | NaturalNews@brighteon.social | 912 |
 | 24 | SweetPony@equestria.social | 910 |
@@ -101,12 +101,12 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 51 | tugatech@mastodon.social | 531 |
 | 52 | hn250@social.lansky.name | 528 |
 | 53 | deviantdomme@switter.at | 494 |
-| 54 | blendernation@botsin.space | 485 |
-| 55 | HunDriverWidow@freeatlantis.com | 484 |
+| 54 | HunDriverWidow@freeatlantis.com | 485 |
+| 55 | blendernation@botsin.space | 485 |
 | 56 | AlexJones@brighteon.social | 468 |
 | 57 | politico_eu_bot@newsbots.eu | 465 |
 | 58 | Mediapart@mastodon.social | 458 |
-| 59 | cnet@chaosphere.hostdon.jp | 456 |
+| 59 | cnet@chaosphere.hostdon.jp | 457 |
 | 60 | intengineering@botsin.space | 453 |
 | 61 | androidpolice@mstdn.social | 449 |
 | 62 | YoungBlood@social.quodverum.com | 448 |
@@ -158,16 +158,16 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Domain | Cloudflare | Count |
 | --- | --- | --- | --- |
-| 1 | twitter.com |   | 69,017 |
-| 2 | t.co |   | 59,688 |
+| 1 | twitter.com |   | 69,020 |
+| 2 | t.co |   | 59,708 |
 | 3 | youtube.com |   | 19,597 |
-| 4 | youtu.be |   | 16,138 |
+| 4 | youtu.be |   | 16,139 |
 | 5 | unitoo.it |   | 11,834 |
-| 6 | yahoo.co.jp |   | 11,200 |
+| 6 | yahoo.co.jp |   | 11,201 |
 | 7 | tinyurl.com | 🌩 | 9,479 |
-| 8 | pixiv.net | 🌩 | 8,872 |
-| 9 | ycombinator.com | 🌩 | 7,220 |
-| 10 | weibo.com |   | 6,687 |
+| 8 | pixiv.net | 🌩 | 8,873 |
+| 9 | ycombinator.com | 🌩 | 7,222 |
+| 10 | weibo.com |   | 6,688 |
 | 11 | github.com |   | 5,859 |
 | 12 | nhk.or.jp |   | 5,850 |
 | 13 | newsbots.eu |   | 5,679 |
@@ -184,7 +184,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 24 | 4gamer.net |   | 3,321 |
 | 25 | ddating.fun | 🌩 | 3,208 |
 | 26 | rthk.hk |   | 3,191 |
-| 27 | redd.it |   | 3,169 |
+| 27 | redd.it |   | 3,170 |
 | 28 | blogspot.com |   | 2,884 |
 | 29 | shindanmaker.com |   | 2,844 |
 | 30 | indianexpress.com |   | 2,799 |
@@ -201,15 +201,15 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 41 | elpuntavui.cat | 🌩 | 2,094 |
 | 42 | mantan-web.jp |   | 2,057 |
 | 43 | talsperrenleitzentrale-ruhr.de |   | 1,984 |
-| 44 | dw.com |   | 1,962 |
+| 44 | dw.com |   | 1,963 |
 | 45 | sos112.si |   | 1,927 |
 | 46 | bund.de |   | 1,914 |
 | 47 | elperiodico.cat |   | 1,809 |
 | 48 | mk-mode.com |   | 1,805 |
 | 49 | ift.tt |   | 1,796 |
 | 50 | bbc.co.uk |   | 1,760 |
-| 51 | tribuneindia.com |   | 1,708 |
-| 52 | twitch.tv |   | 1,693 |
+| 51 | tribuneindia.com |   | 1,709 |
+| 52 | twitch.tv |   | 1,694 |
 | 53 | a-legend.net |   | 1,680 |
 | 54 | buff.ly |   | 1,678 |
 | 55 | derpibooru.org | 🌩 | 1,641 |
@@ -222,7 +222,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 62 | kenh14.vn |   | 1,462 |
 | 63 | wordpress.com |   | 1,441 |
 | 64 | reddit.com |   | 1,413 |
-| 65 | misskey.io | 🌩 | 1,372 |
+| 65 | misskey.io | 🌩 | 1,374 |
 | 66 | theguardian.com |   | 1,301 |
 | 67 | cadenaser.com |   | 1,256 |
 | 68 | diariodemexico.com | 🌩 | 1,256 |
@@ -233,14 +233,14 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 73 | gentedigital.es |   | 1,161 |
 | 74 | t.me |   | 1,158 |
 | 75 | tumblr.com |   | 1,152 |
-| 76 | cnet.com | 🌩 | 1,140 |
+| 76 | cnet.com | 🌩 | 1,141 |
 | 77 | bbc.com | 🌩 | 1,138 |
 | 78 | fanbox.cc |   | 1,129 |
 | 79 | reut.rs |   | 1,097 |
 | 80 | gigazine.net | 🌩 | 1,094 |
 | 81 | metalarea.org |   | 1,091 |
-| 82 | soundcloud.com | 🌩 | 1,088 |
-| 83 | aljazeera.com |   | 1,088 |
+| 82 | aljazeera.com |   | 1,088 |
+| 83 | soundcloud.com | 🌩 | 1,088 |
 | 84 | nist.gov |   | 1,081 |
 | 85 | asoko.ga |   | 1,077 |
 | 86 | instagram.com |   | 1,066 |
@@ -248,11 +248,11 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 88 | topwar.ru | 🌩 | 1,042 |
 | 89 | hackaday.com |   | 1,036 |
 | 90 | liberation.fr |   | 1,034 |
-| 91 | telesurtv.net |   | 1,029 |
+| 91 | telesurtv.net |   | 1,030 |
 | 92 | humanite.fr |   | 1,007 |
 | 93 | substack.com | 🌩 | 1,005 |
 | 94 | golem.de |   | 982 |
-| 95 | gizmodo.jp |   | 972 |
+| 95 | gizmodo.jp |   | 973 |
 | 96 | lokalklick.eu |   | 972 |
 | 97 | naturalnews.com | 🌩 | 969 |
 | 98 | rfi.fr |   | 963 |
@@ -267,28 +267,28 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 [//]: # (do not edit this line start; t5)
 
 
-- *50,241* Mastodon users posted *2,811,332* public toots. (about *90,688* toots/day)
+- *50,243* Mastodon users posted *2,811,629* public toots. (about *90697.7* toots/day)
   - Above number include toots which has no link.
 - Now let's focus on *Mastodon toots which has any links*.
 
 ![](../image/bully.jpg)
 
-- *24,615* Mastodon users posted *622,941* public toots contains 703,274 links. (about *1.1* toots/day)
+- *24,618* Mastodon users posted *623,028* public toots contains 703,339 links. (about *1.1* links/toot)
   - About *49*% of total Mastodon users shared any links.
     - About *51*% of total Mastodon users _does not_ share a link.
-  - About *22*% of total Mastodon toots contains a link.
-- Inside *24,615* Mastodon users,
-  - There are *3,518* users who ONLY shared Cloudflare links. (*14.3*%)
+  - About *22.2*% of total Mastodon toots contains a link.
+- Inside *24,618* Mastodon users,
+  - There are *3,521* users who ONLY shared Cloudflare links. (*14.3*%)
   - There are *13,425* users who NEVER shared Cloudflare links. (*54.5*%)
-- Inside *622,941* public toots,
-  - There are *32,125* base domains. ("_base_": both `www.youtube.com` `m.youtube.com` will be treated as `youtube.com`)
-- Inside *703,274* links,
-  - There are *163,508* Cloudflare links. (*23.2*%)
+- Inside *623,028* public toots,
+  - There are *32,128* base domains. ("_base_": both `www.youtube.com` `m.youtube.com` will be treated as `youtube.com`)
+- Inside *703,339* links,
+  - There are *163,522* Cloudflare links. (*23.2*%)
 
 
 
-## *22*% of Mastodon users shared Cloudflare link.
-## *23*% of shared links are Cloudflared.
+## *22.3*% of Mastodon users shared Cloudflare link.
+## *23.2*% of shared links are Cloudflared.
 
 [//]: # (do not edit this line end)
 
