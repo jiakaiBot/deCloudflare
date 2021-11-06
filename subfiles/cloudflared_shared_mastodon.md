@@ -18,7 +18,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
   - [Top 10 - Shared Any links](cloudflared_shared_mastodon.md#top-10-shared-any-links)
   - [Top 100 - Shared Cloudflare links](cloudflared_shared_mastodon.md#top-100-shared-cloudflare-links)
   - [Top 100 - Most Shared Domains](cloudflared_shared_mastodon.md#top-100-most-shared-domains)
-  - [Top 100 - Most Shared Domains by TLD](cloudflared_shared_mastodon.md#top-100-most-shared-domains-by-tld)
   - [About Mastodon Users](cloudflared_shared_mastodon.md#about-mastodon-users)
 - ↳ Previous: [Shared on Mastodon](shared_on_mastodon.md)
 - ↳ **Stop Sharing Cloudflare Links**! Follow [Alternative Link](service.altlink.md)
@@ -51,16 +50,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 [//]: # (do not edit this line start; t3)
 
 | # | Domain | Count |
-| --- | --- | --- |
-
-[//]: # (do not edit this line end)
-
-
-### Top 5 - Most Shared Domains by TLD
-
-[//]: # (do not edit this line start; t4)
-
-| # | TLD | Count |
 | --- | --- | --- |
 
 [//]: # (do not edit this line end)
