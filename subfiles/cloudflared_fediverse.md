@@ -105,7 +105,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ap.jadiunr.net | Yes |
 | ap.ketsuben.red | No |
 | apeiron.aire.ml | No |
-| app.kenhbit.com | Yes |
 | appdot.net | No |
 | ar.akarinext.org | Yes |
 | arcade.ooo | Yes |
@@ -150,7 +149,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bayfur.club | No |
 | bbbdn.jp | No |
 | bbs.kawa-kun.com | No |
-| bbs.plaureano.com | No |
 | bdx.town | No |
 | beach.city | No |
 | bear.community | No |
@@ -164,7 +162,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bidule.menf.in | No |
 | bigshoulders.city | No |
 | bikeshed.party | No |
-| bilbaodendak.social | No |
 | bildung.social | No |
 | bilincakisi.com | Yes |
 | bimmer.social | No |
@@ -175,7 +172,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | birdity.club | No |
 | birds.garden | No |
 | biscuit.town | No |
-| bitacadie.com | No |
 | bitcoinhackers.org | Yes |
 | bitcoinlizard.net | No |
 | bittube.social | No |
@@ -187,7 +183,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | blob.cat | No |
 | blob.coffee | No |
 | blockriot.com | No |
-| blog.serverok.pl | No |
 | blovice.bahnhof.cz | No |
 | blue.skye.cx | No |
 | boing.world | No |
@@ -197,7 +192,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bonn.social | No |
 | bookwor.ms | No |
 | boseburo.ddns.net | No |
-| bostonmusic.online | No |
 | bots.franssen.xyz | No |
 | bots.monado.ren | Yes |
 | botsin.space | No |
@@ -219,7 +213,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bunt.social | No |
 | burn.capital | No |
 | burner.zone | No |
-| burymein.black | No |
 | busshi.moe | No |
 | bussy.monster | No |
 | buta.moe | Yes |
@@ -243,9 +236,11 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cat.cattube.org | No |
 | cat.family | No |
 | catdon.life | No |
+| catgirl.life | No |
 | catgram.jp | Yes |
 | cathode.church | No |
 | cave.mancave.de | No |
+| caw.ai | No |
 | cawfee.club | No |
 | cb.janusworx.com | No |
 | cbcmelbourne.life | No |
@@ -257,7 +252,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | charlestown.social | No |
 | chat.brainbaking.com | No |
 | chat.noelle.codes | No |
-| chemnitz.social | No |
 | chickenfan.club | No |
 | childpawn.shop | No |
 | chilemasto.casa | No |
@@ -265,6 +259,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | chin-co-ne.co | No |
 | chinwag.org | Yes |
 | chitter.xyz | No |
+| chokecherry.cc | Yes |
 | cipioshouse.xyz | Yes |
 | clacks.link | No |
 | claristdon.link | No |
@@ -309,7 +304,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | corrupteddreams.com | No |
 | cosmos.social | Yes |
 | counter.fedi.live | No |
-| crissdepauvre.com | No |
 | critter.camp | No |
 | crowsnest.libre.audio | No |
 | crypt.lol | No |
@@ -322,6 +316,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cuties.social | No |
 | cybar.club | Yes |
 | cybert-media.net | No |
+| cyberverse.bar | No |
 | cybre.space | No |
 | cybre.town | No |
 | cybt.de | No |
@@ -349,6 +344,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | demon.social | No |
 | deprecastan.com | No |
 | detroitriotcity.com | No |
+| dev-friendica.mrpetovan.com | No |
+| dev.mis.b-shock.org | No |
 | devil-children-alitaso.com | Yes |
 | devin.masto.host | No |
 | dhub.social | No |
@@ -532,7 +529,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fnordon.de | No |
 | fnya.ggtea.org | No |
 | foresdon.jp | No |
-| forum.friendi.ca | No |
 | forumanalogue.fr | No |
 | fosstodon.org | No |
 | four-nine.club | No |
@@ -545,11 +541,9 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | freecumextremist.com | No |
 | freedom.horse | No |
 | freeframe.masto.host | No |
-| freehub.space | No |
 | freeradical.zone | No |
 | freesocial.co | No |
 | freesoftwareextremist.com | No |
-| freespeech.firedragonstudios.com | No |
 | freespeech.group | No |
 | freespeechextremist.com | No |
 | freethinkers.lgbt | No |
@@ -578,7 +572,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | friendica.ironbug.org | No |
 | friendica.mrpetovan.com | No |
 | friendica.org | No |
-| friendica.philipp.info | No |
 | friendica.produnis.de | No |
 | friendica.utzer.de | No |
 | friendica.valvin.fr | No |
@@ -634,6 +627,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | giobu.cyou | Yes |
 | girevik.su | No |
 | girlcock.club | No |
+| gl.sftblw.moe | Yes |
 | glaceon.social | No |
 | glammr.us | No |
 | glaros.xyz | No |
@@ -729,7 +723,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hub.bessonnica.org | Yes |
 | hub.cats-home.net | No |
 | hub.disroot.org | No |
-| hub.elemac.fr | No |
 | hub.hayfidelity.de | No |
 | hub.hubzilla.de | No |
 | hub.libranet.de | No |
@@ -764,7 +757,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | icedlatte.chat | No |
 | icedtux.no | No |
 | ichiji.social | No |
-| icioulaba.tk | No |
 | icosahedron.website | No |
 | iddqd.social | No |
 | idf.social | No |
@@ -782,6 +774,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | im-in.space | No |
 | im.allmendenetz.de | No |
 | im.sb | No |
+| im.thymrios.com | No |
 | imaginair.es | No |
 | imastodon.net | No |
 | imastodon.org | No |
@@ -822,13 +815,13 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | jako.social | Yes |
 | jasette.facil.services | No |
 | jauntygoat.net | No |
-| javisst.space | No |
 | jawns.club | No |
 | jepsen.io | No |
 | jergefelt.se | No |
 | jigglypuff.club | No |
 | jit.social | No |
 | jitakurack.chotto.moe | No |
+| jmm.kr | Yes |
 | jonleibowitz.social | Yes |
 | jorts.horse | No |
 | jrgnsn.social | No |
@@ -846,7 +839,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kanina.be | No |
 | kanoa.de | No |
 | kapocs.urbalazs.hu | No |
-| kaskjer.space | No |
 | kasma.cyou | No |
 | kawaii.kitsune.cafe | No |
 | kawen.space | No |
@@ -879,7 +871,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kitty.social | Yes |
 | kitty.town | No |
 | kiwifarms.cc | Yes |
-| kms.sasuga.xyz | No |
 | kohrville.net | No |
 | kokonect.link | No |
 | kolektiva.social | Yes |
@@ -895,7 +886,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | krefeld.life | No |
 | kurage.cc | No |
 | la-verite-vaincra.nohost.me | No |
-| labonneheure.ch | No |
 | lagemeet.duckdns.org | No |
 | lain.com | No |
 | lainchan.gay | No |
@@ -911,7 +901,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | leafposter.club | No |
 | leanbay.box.phasebulk.cloudns.nz | No |
 | lediver.se | No |
-| leftofliberal.duckdns.org | No |
 | legal.social | No |
 | lejaua6.club | No |
 | lemuspeschel.com | Yes |
@@ -947,7 +936,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | lily.network | No |
 | linernotes.club | No |
 | links.potsda.mn | No |
-| linuxhotel.social | No |
 | linuxrocks.online | No |
 | literatur.social | No |
 | litterae.social | No |
@@ -964,7 +952,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | loveforlandlords.com | No |
 | loves.pizza | No |
 | lowkey.party | No |
-| lrtg.cf | No |
 | lsngl.us | No |
 | lubar.me | Yes |
 | ludosphere.fr | No |
@@ -1017,15 +1004,14 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | magnificentbeardsfan.club | No |
 | maho.app | No |
 | mainburg.hallertau.social | No |
-| majak.de | No |
 | majestic.monster | No |
 | majors.social | No |
+| maki.chiba.tw | No |
 | makito.me | Yes |
 | malu.today | No |
 | maly.io | No |
 | mammouth.inframed.net | No |
 | mamot.fr | No |
-| manheim.info | No |
 | mania.systems | No |
 | manowar.social | No |
 | mao.mastodonhub.com | No |
@@ -1066,7 +1052,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | masto.timapple.com | No |
 | masto.werefox.dev | No |
 | masto.yaeghs.net | No |
-| mastodol.jp | No |
 | mastodon.3fx.ch | No |
 | mastodon.1984.cz | No |
 | mastodon.acc.sunet.se | No |
@@ -1074,7 +1059,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.acerbo.me | No |
 | mastodon.alexandrebadalo.pt | No |
 | mastodon.alienlebarge.ch | No |
-| mastodon.anzui.dev | No |
 | mastodon.ar.al | No |
 | mastodon.arch-linux.cz | No |
 | mastodon.art | No |
@@ -1154,7 +1138,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.immae.eu | No |
 | mastodon.in.th | No |
 | mastodon.indie.host | No |
-| mastodon.inferencium.net | No |
 | mastodon.infra.de | No |
 | mastodon.init-c.de | No |
 | mastodon.irgendwo.social | No |
@@ -1163,9 +1146,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.jpages.eu | No |
 | mastodon.juggler.jp | No |
 | mastodon.kaiserflur.de | No |
-| mastodon.kitamurakz.com | No |
 | mastodon.kitchen | No |
-| mastodon.kleph.eu | No |
 | mastodon.ktachibana.party | Yes |
 | mastodon.kxn4t.tech | No |
 | mastodon.la | Yes |
@@ -1362,7 +1343,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | misskey.noellabo.jp | Yes |
 | misskey.omhnc.net | Yes |
 | misskey.open-w.net | Yes |
-| misskey.osyakasyama.me | No |
 | misskey.ruste.red | No |
 | misskey.sc3.fun | Yes |
 | misskey.seediqbale.xyz | No |
@@ -1387,6 +1367,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.lei202.com | Yes |
 | mk.lightnovel-dungeon.de | No |
 | mk.mozcmozc.club | No |
+| mk.niscii.xyz | No |
 | mk.nixnet.social | No |
 | mk.outerheaven.club | No |
 | mk.paritybit.ca | No |
@@ -1451,7 +1432,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.gunma.jp | Yes |
 | mstdn.guru | No |
 | mstdn.haun.jp | No |
-| mstdn.helios.red | Yes |
 | mstdn.hitoxu.com | No |
 | mstdn.hiyuki2578.net | Yes |
 | mstdn.hokkaido.jp | No |
@@ -1477,7 +1457,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.mimikun.jp | Yes |
 | mstdn.mini4wd-engineer.com | No |
 | mstdn.misosi.ru | Yes |
-| mstdn.miyacorata.net | Yes |
 | mstdn.moe | Yes |
 | mstdn.mx | Yes |
 | mstdn.nekonote.cc | No |
@@ -1501,7 +1480,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.sublimer.me | Yes |
 | mstdn.superspeed-fall.com | No |
 | mstdn.tamag.org | No |
-| mstdn.tharyrok.eu | No |
 | mstdn.toad-in-the-hole.net | No |
 | mstdn.tokyocameraclub.com | No |
 | mstdn.tomokiwakimoto.com | No |
@@ -1533,7 +1511,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mzn-potatochips.me | No |
 | nacq.me | No |
 | nagoyadon.jp | Yes |
-| nakamoto.social | Yes |
 | nanao.cybtex.fr | No |
 | nangang.travnewmatic.com | Yes |
 | nasface.cz | No |
@@ -1567,7 +1544,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | nightly.fedibird.com | Yes |
 | niscii.xyz | No |
 | nitiasa.com | Yes |
-| nitro.horse | No |
 | nitrokey.com | No |
 | nixeneko.info | No |
 | nixnet.social | No |
@@ -1584,6 +1560,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | nojack.easydns.ca | No |
 | nojob.jp | No |
 | nolineage.com | No |
+| non-designer.studio | Yes |
 | nonbiridon.hostdon.ne.jp | Yes |
 | nonexiste.net | No |
 | noovi.org | No |
@@ -1659,7 +1636,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pagan.plus | No |
 | palepanda.club | No |
 | panthermoderns.org | No |
-| pantherx.social | No |
 | pao.moe | Yes |
 | pao.namakajiri.net | No |
 | pars.ee | No |
@@ -1693,6 +1669,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pirate.chat | Yes |
 | pirati.ca | No |
 | pixelart.moe | No |
+| pixellife.app | No |
 | pixie.town | No |
 | pl.ajin.la | No |
 | pl.anon-kenkai.com | No |
@@ -1776,7 +1753,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.jezra.net | No |
 | pleroma.karjalazet.se | No |
 | pleroma.kemonine.info | Yes |
-| pleroma.kitsunemimi.club | No |
 | pleroma.langmerah.net | No |
 | pleroma.ledoian.cz | No |
 | pleroma.lesateliersphv.net | No |
@@ -1859,9 +1835,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pqc.io | No |
 | pr0mised.life | Yes |
 | precure.ml | No |
-| pret.life | No |
 | prieb.social | No |
-| programist.ro | Yes |
 | programming.socks.town | No |
 | prolinos.social | No |
 | proprietary.lol | No |
@@ -1886,14 +1860,13 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | queer.party | No |
 | queer.town | No |
 | queerdorks.club | No |
+| queerhackers.social | Yes |
 | quietplace.xyz | No |
 | quietude.space | No |
 | quip.social | No |
 | quitter.pl | No |
-| quixotic.info | No |
 | r-kara.de | No |
 | r3pek.org | No |
-| ra-phi.ch | No |
 | radiosocial.de | No |
 | rafting.io | No |
 | rage.lol | No |
@@ -1914,7 +1887,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | rebelbase.site | No |
 | reco.shrieker.net | No |
 | recurse.social | No |
-| red.tiliches.net | No |
 | redliberal.com | No |
 | redroo.ml | No |
 | redwombat.social | Yes |
@@ -1923,7 +1895,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | restore.serenitytoo.com | No |
 | retro.social | No |
 | rettiwtkcuf.social | No |
-| reve.land | Yes |
 | rezo.mig5.net | No |
 | rhabarberbarbara.bar | Yes |
 | ribeiro.social | No |
@@ -1970,7 +1941,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | scalie.business | No |
 | scalie.club | No |
 | schelling.pt | No |
-| schizoid.tech | No |
 | schleuss.online | No |
 | scholar.social | No |
 | scicomm.xyz | No |
@@ -2158,7 +2128,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.globalpirates.net | No |
 | social.grimneko.de | No |
 | social.grml.de | No |
-| social.hackerfraternity.org | No |
 | social.hamachpil.net | No |
 | social.handholding.io | Yes |
 | social.hannebrook.info | No |
@@ -2305,7 +2274,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.teci.world | No |
 | social.thecrow.uk | No |
 | social.thiskurt.me | No |
-| social.timespiral.co.jp | No |
 | social.tmprs.net | No |
 | social.tofu.kim | Yes |
 | social.tonholzpixel.de | No |
@@ -2315,6 +2283,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.troll.academy | No |
 | social.trom.tf | No |
 | social.tromdienste.de | No |
+| social.ttree.ch | Yes |
 | social.tulsa.ok.us | No |
 | social.tumelum.de | No |
 | social.ufeff.club | No |
@@ -2390,7 +2359,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sumanko.ml | Yes |
 | summoners-riftodon.jp | No |
 | sunbeam.city | No |
-| sundaylight.space | Yes |
 | sunisky.club | Yes |
 | surfin.dog | No |
 | sushi.ski | Yes |
@@ -2403,7 +2371,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | syui.cf | Yes |
 | t.aqn.jp | No |
 | t.basspistol.org | No |
-| t.cly.wtf | Yes |
 | tablegame.mstdn.cloud | No |
 | tabletop.social | No |
 | tacobelllabs.net | No |
@@ -2433,7 +2400,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | the-box.work | No |
 | the-pit.uk | No |
 | the.goofs.space | No |
-| the.others.social | No |
 | the.vermonters.club | No |
 | the9thcircle.club | No |
 | thebag.social | No |
@@ -2452,7 +2418,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | thraeryn.net | No |
 | thx.one | Yes |
 | ti.akirin.xyz | Yes |
-| tiksi.net | No |
 | tilde.zone | No |
 | ting.cm | No |
 | tiny.tilde.website | No |
@@ -2477,7 +2442,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toot.host | No |
 | toot.icyphox.sh | No |
 | toot.io | No |
-| toot.jasonscheirer.com | No |
 | toot.jeena.net | No |
 | toot.koeln | No |
 | toot.krinetzki.de | Yes |
@@ -2490,6 +2454,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toot.morikka.me | No |
 | toot.party | No |
 | toot.phseiff.com | No |
+| toot.plus.yt | Yes |
 | toot.portes-imaginaire.org | No |
 | toot.rainbow-100.com | No |
 | toot.s1gm4.eu | No |
@@ -2596,7 +2561,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | v.st | No |
 | v2.nyoki.club | No |
 | v2.tamx.tk | Yes |
-| vaderkin.masto.host | No |
 | vance.land | No |
 | vanderwarker.social | Yes |
 | vandrare.page | No |
@@ -2725,8 +2689,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 496 |
-| Normal | 2,192 |
+| Cloudflare | 495 |
+| Normal | 2,157 |
 
 
-### 18.5% of public Fediverse services are using Cloudflare.
+### 18.7% of public Fediverse services are using Cloudflare.
