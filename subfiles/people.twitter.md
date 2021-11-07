@@ -7,6 +7,7 @@
 
 
 
+- Christ you’re thick. I recommend you talk to any pen-tester who will tell you that once that layer of encryption is removed — which they do — MITM’ing subsequent layers is trivial, i.e., unless they handshake (public key, etc.) was communicated out-of-band. ([kiraolbert](https://twitter.com/KiraOlbert/status/1329642529646653441))
 - Cloudflare How do we stop Cloudflare randomly deleting settings every couple of months…getting frustrating… ([mahdishariff](https://twitter.com/MahdiShariff/status/1457308056715472900))
 - so i cant use a custom domain on gitlab pages unless i move off of cloudflare because gitlab is complaining about lack of intermediary certs when i provide them and i cant use the lets encrypt option (that keeps enabling itself after the intermediary error) ([0xe00aa](https://twitter.com/0xe00aa/status/1457189055716892675))
 - because then cloudflare treats all requests, http or https, as https, leading to infinite redirects fucking hate this shit ([0xe00aa](https://twitter.com/0xe00aa/status/1457189057067356165))
