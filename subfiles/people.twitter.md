@@ -7,6 +7,7 @@
 
 
 
+- Boycott Cloudflare until they get Freenom domains working again and stop lying about the issue. ([dascalescu_r](https://twitter.com/DASCALESCU_R/status/1457401000050970625))
 - Boycott Cloudflare until they get Freenom domains working again and stop lying about the issue. ([rickyzoom2](https://twitter.com/RickyZoom2/status/1457392263689035776))
 - Christ you’re thick. I recommend you talk to any pen-tester who will tell you that once that layer of encryption is removed — which they do — MITM’ing subsequent layers is trivial, i.e., unless they handshake (public key, etc.) was communicated out-of-band. ([kiraolbert](https://twitter.com/KiraOlbert/status/1329642529646653441))
 - Cloudflare How do we stop Cloudflare randomly deleting settings every couple of months…getting frustrating… ([mahdishariff](https://twitter.com/MahdiShariff/status/1457308056715472900))
