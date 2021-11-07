@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare How do we stop Cloudflare randomly deleting settings every couple of months…getting frustrating… ([mahdishariff](https://twitter.com/MahdiShariff/status/1457308056715472900))
 - so i cant use a custom domain on gitlab pages unless i move off of cloudflare because gitlab is complaining about lack of intermediary certs when i provide them and i cant use the lets encrypt option (that keeps enabling itself after the intermediary error) ([0xe00aa](https://twitter.com/0xe00aa/status/1457189055716892675))
 - because then cloudflare treats all requests, http or https, as https, leading to infinite redirects fucking hate this shit ([0xe00aa](https://twitter.com/0xe00aa/status/1457189057067356165))
 - If BLM doesn’t stop hacking my bank account, I’m going to post all their transactions and let the FBI track down your IP addresses by the time of the transactions. VPNs are easily shattered and so is CloudFlare. ([ccalbazana](https://twitter.com/CCalbazana/status/1457144574732685312))
