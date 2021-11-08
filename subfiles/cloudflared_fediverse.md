@@ -42,7 +42,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 7.62x54r.ru | No |
 | 9kb.me | No |
 | 13bells.com | No |
-| 44.ci | Yes |
 | 404.inexist.club | Yes |
 | 433.world | No |
 | 438punk.house | No |
@@ -132,6 +131,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | b.z0ne.social | Yes |
 | b612.me | Yes |
 | backtoroot.xyz | No |
+| backyard.cloud | No |
 | badgay.net | No |
 | balkan.fedive.rs | No |
 | banana.dog | Yes |
@@ -841,6 +841,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kazv.moe | No |
 | kcl.academy | No |
 | kcmo.social | No |
+| kemoner-don.tokyo | No |
 | kemonodon.club | No |
 | kerkour.com | Yes |
 | key.erica.moe | No |
@@ -881,6 +882,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kr.akirin.xyz | Yes |
 | krefeld.life | No |
 | kurage.cc | No |
+| kuroharu.hostdon.ne.jp | Yes |
 | la-verite-vaincra.nohost.me | No |
 | lagemeet.duckdns.org | No |
 | lain.com | No |
@@ -1153,6 +1155,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.ladn.org | No |
 | mastodon.lang-mfr.de | No |
 | mastodon.laurakalbag.com | No |
+| mastodon.lcavallaro.com | Yes |
 | mastodon.leipzigesports.de | No |
 | mastodon.lelesius.eu | No |
 | mastodon.lertsenem.com | No |
@@ -1188,7 +1191,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.netheredge.com | No |
 | mastodon.nl | No |
 | mastodon.noraworld.com | No |
-| mastodon.nu | No |
 | mastodon.nz | No |
 | mastodon.nzoss.nz | No |
 | mastodon.oe74.net | No |
@@ -1230,6 +1232,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.someotherguy.xyz | No |
 | mastodon.starshipchangeling.net | No |
 | mastodon.stefofficiel.me | No |
+| mastodon.suinot.org | No |
 | mastodon.technology | No |
 | mastodon.tedomum.net | No |
 | mastodon.tetaneutral.net | No |
@@ -1345,6 +1348,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | misskey.noellabo.jp | Yes |
 | misskey.omhnc.net | Yes |
 | misskey.open-w.net | Yes |
+| misskey.osyakasyama.me | No |
 | misskey.ruste.red | No |
 | misskey.sc3.fun | Yes |
 | misskey.seediqbale.xyz | No |
@@ -1630,13 +1634,13 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | otoya.space | Yes |
 | oulipo.social | No |
 | ourempty.pub | No |
-| ourvillage.news | Yes |
 | outerheaven.club | No |
 | ozhika.me | No |
 | p.mr64.net | No |
 | p.node.pk | Yes |
 | p.rhinoworks.info | No |
 | p.tkw.fm | No |
+| p.x61.uk | No |
 | p1.a9z.dev | Yes |
 | p3.macgirvin.com | No |
 | pachyder.me | No |
@@ -1762,7 +1766,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.lord.re | No |
 | pleroma.marud.fr | No |
 | pleroma.marussy.com | No |
-| pleroma.memiks.fr | No |
 | pleroma.microkod.xyz | Yes |
 | pleroma.miguelcr.me | No |
 | pleroma.miria.love | No |
@@ -1879,7 +1882,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | rakket.app | No |
 | ranran.tw | No |
 | raptol.net | No |
-| rarf.zone | No |
 | raru.re | No |
 | rats-at.work | No |
 | rcsocial.net | Yes |
@@ -2101,6 +2103,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.diekershoff.de | No |
 | social.diskseven.com | No |
 | social.diva.exchange | No |
+| social.dnitza.com | Yes |
 | social.doghub.eu | No |
 | social.doma.dev | No |
 | social.drastical.tech | Yes |
@@ -2111,6 +2114,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.epenguin.com | Yes |
 | social.epyisageek.net | No |
 | social.ewb.io | No |
+| social.exclaimindustries.net | No |
 | social.fanyx.xyz | No |
 | social.fbxl.net | No |
 | social.fedcast.ch | No |
@@ -2118,7 +2122,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.fetziverse.de | No |
 | social.feurious.com | No |
 | social.finkhaeuser.de | No |
-| social.firc.de | No |
 | social.fluffel.io | No |
 | social.foldr.nl | No |
 | social.fpsource.info | No |
@@ -2337,7 +2340,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | spheres.solarnight.net | No |
 | spinster.xyz | Yes |
 | spiral.sh | No |
-| springbo.cc | No |
 | squ.alid.pw | No |
 | squad.town | No |
 | squeet.me | No |
@@ -2461,7 +2463,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toot.plus.yt | Yes |
 | toot.portes-imaginaire.org | No |
 | toot.rainbow-100.com | No |
-| toot.s1gm4.eu | No |
 | toot.si | No |
 | toot.site | Yes |
 | toot.snowgoons.ro | Yes |
@@ -2694,8 +2695,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 495 |
+| Cloudflare | 496 |
 | Normal | 2,162 |
 
 
-### 18.6% of public Fediverse services are using Cloudflare.
+### 18.7% of public Fediverse services are using Cloudflare.
