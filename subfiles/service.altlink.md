@@ -132,8 +132,6 @@ You can configure AL via `direct message`.
     - AL will use language based on your toot.
   - If you tell AL your language, AL will speak your language.
     - Need other language? Create an issue.
-- 5: Show my current preferences.
-  - No settings option.
 - 6: Ignore boosted toots.
   - Default is `off`.
   - By default AL will notify you when you boost(retweet) other user's post which has Cloudflare link.
@@ -158,8 +156,6 @@ set N V
     - _one of_: `cc` (2 letter. see [/README.md](../README.md))
     - e.g. `es Español` -> `es`
     - [**Improve translation**](../tool/trans.altlink.txt)
-  - for number 5:
-    - none (see below example)
 - You can mix uppercase if you want.
   - `sEt 1 TRuE` is same as `set 1 true`
 
@@ -171,17 +167,6 @@ Here's an example.
 @altlink
 set 4 ru
 set 3 on
-```
-
-- What is my current settings?
-```
-@altlink set 5
-```
-
-- Turn 1 on and show settings.
-```
-@altlink set 1 yes
-set 5
 ```
 
 
