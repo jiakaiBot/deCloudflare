@@ -7,6 +7,7 @@
 
 
 
+- Reddit had a cloudflare issue and now Binance is. What the heck is going on? ([dassauerkraut](https://goyim.app/objects/ab2951a2-e7b0-405e-bd81-9aa21f135455))
 - Built a serverless Google Fonts proxy for my websites using Cloudflare, the loading speed seems good even when accessing it from China 😋 ([fei1yang](https://mastodon.xyz/@Fei1Yang/107240662077303220))
 - @info_activism An article on “Who Controls the Internet?” and not a single mention of #Cloudflare. WTF.. wake up Bert Hubert and get your shit together. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/107236679731601429))
 - That's a nice website with #dotCon trackers you have there. #andItsCloudflare #andItsGoogle #andItsAmazon #andItsFacebook #dotCons #trackers #webDev ([dsfgs](https://activism.openworlds.info/@dsfgs/107234391631467606))
