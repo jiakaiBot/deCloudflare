@@ -10,4 +10,3 @@
 
 
 <a rel="me" href="https://mamot.fr/@altlink"></a>
-<a rel="me" href="https://social.kyushojitsu.ca/@omgcloudflare"></a>
