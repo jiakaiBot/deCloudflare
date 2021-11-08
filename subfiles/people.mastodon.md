@@ -7,6 +7,7 @@
 
 
 
+- In #America, MitM attack does not stop you… . . . Instead, we are told #MitM attack helps build a better internet. (Use hashtag (#)cloudflareTest to check your favourite websites) #gullible #internetAttack #cloudflare #amazon #akamai #grift #complexityTheatre #ISPs #wallStreet #theft #extortion #reverseProxy #deleteCloudflare #deleteAmazon #thatsNotHowTheInternetIsSupposedToWork ([dsfgs](https://activism.openworlds.info/@dsfgs/107243828406473831))
 - Reddit had a cloudflare issue and now Binance is. What the heck is going on? ([dassauerkraut](https://goyim.app/objects/ab2951a2-e7b0-405e-bd81-9aa21f135455))
 - Built a serverless Google Fonts proxy for my websites using Cloudflare, the loading speed seems good even when accessing it from China 😋 ([fei1yang](https://mastodon.xyz/@Fei1Yang/107240662077303220))
 - @info_activism An article on “Who Controls the Internet?” and not a single mention of #Cloudflare. WTF.. wake up Bert Hubert and get your shit together. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/107236679731601429))
