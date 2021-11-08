@@ -7,6 +7,7 @@
 
 
 
+- ok, now an ssl error but I think that may be on cloudflare because cloudflare is configed correctly it's just propagating still ([alantheblank](https://twitter.com/AlanTheBlank/status/1457740840244322308))
 - cloudflare is becoming the next google, pushing captcha everywhere you go. annoying. ([noaddrmode](https://twitter.com/noaddrmode/status/1457633758887043075))
 - Getting blocked by cloudflare when I try to check my reflections. Any issues with that? ([jordon_pierce15](https://twitter.com/jordon_pierce15/status/1455658421135585282))
 - Boycott Cloudflare until they get Freenom domains working again and stop lying about the issue. ([dascalescu_r](https://twitter.com/DASCALESCU_R/status/1457401000050970625))
