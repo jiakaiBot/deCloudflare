@@ -435,6 +435,7 @@ Do not create new issue or we will close it as duplicate.
 | [around_thenon@twitter](https://twitter.com/around_thenon/status/1398421956651716608) | advertise |
 | [arrhai21@twitter](https://twitter.com/arrhai21/status/1393450615628435458) | advertise |
 | [ARROW41821591@twitter](https://twitter.com/ARROW41821591/status/1391638652766232577) | advertise |
+| [arryanggaputra@twitter](https://twitter.com/arryanggaputra/status/1456791655630061571) | advertise |
 | [arr_htun@twitter](https://twitter.com/arr_htun/status/1390092486530404352) | advertise |
 | [arr_khun@twitter](https://twitter.com/arr_khun/status/1394691552241274882) | advertise |
 | [ArsaKaveh@twitter](https://twitter.com/ArsaKaveh/status/1387953460109271041) | advertise |
@@ -3202,6 +3203,7 @@ Do not create new issue or we will close it as duplicate.
 | [lxoGAe65bqku3EE@twitter](https://twitter.com/lxoGAe65bqku3EE/status/1404383606592589832) | advertise |
 | [lXprEdg9GGBVa9C@twitter](https://twitter.com/lXprEdg9GGBVa9C/status/1391466180410449921) | advertise |
 | [Lyd37537266@twitter](https://twitter.com/Lyd37537266/status/1401480607310376964) | advertise |
+| [LyfemoreNews@twitter](https://twitter.com/LyfemoreNews/status/1457223435814383618) | advertise |
 | [lynk_nvulinh38@twitter](https://twitter.com/lynk_nvulinh38/status/1399004664025149440) | advertise |
 | [Lynn30610357@twitter](https://twitter.com/Lynn30610357/status/1390640308719964165) | advertise |
 | [Lynn58120382@twitter](https://twitter.com/Lynn58120382/status/1378280012542017537) | advertise |
@@ -3317,6 +3319,7 @@ Do not create new issue or we will close it as duplicate.
 | [MaungNa96729834@twitter](https://twitter.com/MaungNa96729834/status/1389918010371043333) | advertise |
 | [MaungSann8@twitter](https://twitter.com/MaungSann8/status/1394691190990286854) | advertise |
 | [maung_point@twitter](https://twitter.com/maung_point/status/1391606588671086592) | advertise |
+| [mawmet@twitter](https://twitter.com/mawmet/status/1457094348479291394) | advertise |
 | [Max80893001@twitter](https://twitter.com/Max80893001/status/1387188885130813450) | advertise |
 | [maximum_speed1@twitter](https://twitter.com/maximum_speed1/status/1400619592158953478) | advertise |
 | [Maxz081@twitter](https://twitter.com/Maxz081/status/1384668008048513026) | advertise |
@@ -3465,6 +3468,7 @@ Do not create new issue or we will close it as duplicate.
 | [Minhhuy04361859@twitter](https://twitter.com/Minhhuy04361859/status/1393420564950179846) | advertise |
 | [Minhmin35799702@twitter](https://twitter.com/Minhmin35799702/status/1401567287354662914) | advertise |
 | [MinhNh63727820@twitter](https://twitter.com/MinhNh63727820/status/1387453341836341250) | advertise |
+| [minhquydesign@twitter](https://twitter.com/minhquydesign/status/1457461282580357136) | advertise |
 | [minhruoi000@twitter](https://twitter.com/minhruoi000/status/1402955958708445191) | advertise |
 | [MinhTha51596170@twitter](https://twitter.com/MinhTha51596170/status/1401317096131153923) | advertise |
 | [MinhThn31469819@twitter](https://twitter.com/MinhThn31469819/status/1402977418592231424) | advertise |
@@ -4345,6 +4349,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhatNgu75533287@twitter](https://twitter.com/PhatNgu75533287/status/1394214535414751232) | advertise |
 | [phat_soc@twitter](https://twitter.com/phat_soc/status/1381112315865485314) | advertise |
 | [Phc35455556@twitter](https://twitter.com/Phc35455556/status/1403747366549606404) | advertise |
+| [Phenomytian@twitter](https://twitter.com/Phenomytian/status/1457220077695094788) | advertise |
 | [PheThitZaw@twitter](https://twitter.com/PheThitZaw/status/1402660507362861060) | advertise |
 | [PhHong20@twitter](https://twitter.com/PhHong20/status/1389017688685498370) | advertise |
 | [PhillipXin@twitter](https://twitter.com/PhillipXin/status/1378201985539772416) | advertise |
@@ -5073,6 +5078,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sirajahmed69@twitter](https://twitter.com/Sirajahmed69/status/1400194012313579520) | advertise |
 | [Sirajut35984037@twitter](https://twitter.com/Sirajut35984037/status/1380354972638871555) | advertise |
 | [Sirchon1@twitter](https://twitter.com/Sirchon1/status/1394696468250824706) | advertise |
+| [sirius3615@twitter](https://twitter.com/sirius3615/status/1457002043852443656) | advertise |
 | [SiroNhan@twitter](https://twitter.com/SiroNhan/status/1386972641706184713) | advertise |
 | [SiSi66647106@twitter](https://twitter.com/SiSi66647106/status/1395267199011463170) | advertise |
 | [SiThu31071195@twitter](https://twitter.com/SiThu31071195/status/1392198744779730946) | advertise |
@@ -5961,6 +5967,7 @@ Do not create new issue or we will close it as duplicate.
 | [vovsoft@twitter](https://twitter.com/vovsoft/status/1391116990501298178) | advertise |
 | [VoxziB@twitter](https://twitter.com/VoxziB/status/1380772820624412673) | advertise |
 | [vrankyrule@twitter](https://twitter.com/vrankyrule/status/1386668245902512138) | advertise |
+| [VSkarleas@twitter](https://twitter.com/VSkarleas/status/1456937424660094982) | advertise |
 | [VtbKo@twitter](https://twitter.com/VtbKo/status/1395561904467185664) | advertise |
 | [vu1408@twitter](https://twitter.com/vu1408/status/1377882512286867460) | advertise |
 | [VuAtu1996@twitter](https://twitter.com/VuAtu1996/status/1392296243791994880) | advertise |
@@ -6110,6 +6117,7 @@ Do not create new issue or we will close it as duplicate.
 | [Wooddadda13@twitter](https://twitter.com/Wooddadda13/status/1393045087119056898) | advertise |
 | [WoolongsC@twitter](https://twitter.com/WoolongsC/status/1455335970610589696) | advertise |
 | [woseokproperty@twitter](https://twitter.com/woseokproperty/status/1390282007041626116) | advertise |
+| [Wp_Xube@twitter](https://twitter.com/Wp_Xube/status/1457203444847038465) | advertise |
 | [WriteLonger@twitter](https://twitter.com/WriteLonger/status/1379361846314950658) | advertise |
 | [wrongxbleed@twitter](https://twitter.com/wrongxbleed/status/1380588171436597249) | advertise |
 | [Wrp79316944@twitter](https://twitter.com/Wrp79316944/status/1405499749663268865) | advertise |
