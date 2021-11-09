@@ -7,6 +7,7 @@
 
 
 
+- If there was a way to anycast address a cjdns IP or an onion address at a cloudflare level of scale (not just Enterprise onion toolkit), for an API endpoint (content can be torrented) that'd be awesome. Best thing I can think of is private Tor addresses for handfuls of customers ([whitingdev](https://twitter.com/whitingdev/status/1457886665410764806))
 - i swear i spend more time clicking images of buses and boats than actually using the websites implementing Cloudflare 's awful captcha screening process. ([neilhanlon](https://twitter.com/NeilHanlon/status/1457873669536026625))
 - Though they are totally awesome, could make a feature to allow us to upload bind9 formatted zones for the DNS. Domains only has bind9 export, not import. Cloudflare has bind9 import/export, but they are a MiTM. I've had to run a bind9 server on my Vultr. Hate APIs ([hashborgir](https://twitter.com/HashBorgir/status/1457802142366912515))
 - ok, now an ssl error but I think that may be on cloudflare because cloudflare is configed correctly it's just propagating still ([alantheblank](https://twitter.com/AlanTheBlank/status/1457740840244322308))
