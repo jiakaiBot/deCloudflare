@@ -7,6 +7,7 @@
 
 
 
+- Tried issuing it from the command line, and got this error about not "specifying a Cloudflare api key". Now I need a Cloudflare account to get an SSL cert for a domain? So I now have to deal with 2 extra orgs ( and Cloudflare) to get a simple SSL cert? Madness! ([finide](https://twitter.com/finide/status/1458152264712036354))
 - its just a cloudflare error for some users, funds are safu. should be back up any time. ([thegualla](https://twitter.com/TheGualla/status/1457985917977780234))
 - Web page is being blocked. Some sort of Cloudflare failure. ([algernon_sydney](https://twitter.com/Algernon_Sydney/status/1457873197580230658))
 - If there was a way to anycast address a cjdns IP or an onion address at a cloudflare level of scale (not just Enterprise onion toolkit), for an API endpoint (content can be torrented) that'd be awesome. Best thing I can think of is private Tor addresses for handfuls of customers ([whitingdev](https://twitter.com/whitingdev/status/1457886665410764806))
