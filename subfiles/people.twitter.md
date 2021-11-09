@@ -7,6 +7,7 @@
 
 
 
+- its just a cloudflare error for some users, funds are safu. should be back up any time. ([thegualla](https://twitter.com/TheGualla/status/1457985917977780234))
 - Web page is being blocked. Some sort of Cloudflare failure. ([algernon_sydney](https://twitter.com/Algernon_Sydney/status/1457873197580230658))
 - If there was a way to anycast address a cjdns IP or an onion address at a cloudflare level of scale (not just Enterprise onion toolkit), for an API endpoint (content can be torrented) that'd be awesome. Best thing I can think of is private Tor addresses for handfuls of customers ([whitingdev](https://twitter.com/whitingdev/status/1457886665410764806))
 - i swear i spend more time clicking images of buses and boats than actually using the websites implementing Cloudflare 's awful captcha screening process. ([neilhanlon](https://twitter.com/NeilHanlon/status/1457873669536026625))
