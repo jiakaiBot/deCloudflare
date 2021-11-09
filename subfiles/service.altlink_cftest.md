@@ -28,7 +28,8 @@ This is simplified version of [AltLink's "Is it really CloudFlare!?" check](serv
 - #checkcloudflare
 - #isitcloudflare
 - #isthiscloudflare
-- #iscloudflared   (_NOT #iscloudflar**e**_)
+- #iscloudflare
+- #iscloudflared
 
 
 ### Example
