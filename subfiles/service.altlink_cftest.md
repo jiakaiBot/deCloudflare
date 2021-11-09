@@ -15,6 +15,7 @@ This is identical to [AltLink's "Is it really CloudFlare!?" check](service.altli
 | For | Followers only | All users |
 | Trigger | Direct Message | Hashtag |
 | Reply | Direct Message | Public Message |
+| Speed | Immediate (<1m) | Stacked (4m) |
 
 
 ### Hashtags
