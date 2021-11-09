@@ -213,6 +213,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bunt.social | No |
 | burn.capital | No |
 | burner.zone | No |
+| burymein.black | No |
 | busshi.moe | No |
 | bussy.monster | No |
 | buta.moe | Yes |
@@ -888,7 +889,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | lain.com | No |
 | lainchan.gay | No |
 | landofkittens.social | Yes |
-| langmerah.net | No |
 | laserdisc.party | No |
 | lasersword.club | No |
 | laviadililith.social | No |
@@ -918,6 +918,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | lhub.social | No |
 | libera.tokyo | No |
 | liberal.city | No |
+| liberalism.masto.host | No |
 | liberdon.com | Yes |
 | libereco.social | No |
 | libertalia.world | No |
@@ -982,7 +983,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.mtlynch.io | No |
 | m.nebula.moe | Yes |
 | m.nintendojo.fr | No |
-| m.rse43.com | Yes |
 | m.sprovoost.nl | No |
 | m.thibau.lt | No |
 | m.tkw.fm | No |
@@ -993,7 +993,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m6n.onsen.tech | Yes |
 | ma.fono.jp | No |
 | ma.strangeworld.jp | No |
-| macgirvin.com | No |
 | machida.yokohama | No |
 | machikadon.online | Yes |
 | machteburch.social | No |
@@ -1113,6 +1112,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.exp0.ml | No |
 | mastodon.explore-visions.com | No |
 | mastodon.falktx.com | No |
+| mastodon.fam-ribbers.com | No |
 | mastodon.fedi.bzh | No |
 | mastodon.fedi.quebec | No |
 | mastodon.fidonet.io | Yes |
@@ -1200,6 +1200,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.online | No |
 | mastodon.opencloud.lu | No |
 | mastodon.opportunis.me | No |
+| mastodon.orani.co | No |
 | mastodon.org.uk | No |
 | mastodon.parleur.net | No |
 | mastodon.partecipa.digital | No |
@@ -2055,6 +2056,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.anufrij.de | No |
 | social.apreslanu.it | No |
 | social.ariona.fr | No |
+| social.as | No |
 | social.ashwalker.net | No |
 | social.atridad.dev | No |
 | social.autonomy.earth | No |
@@ -2202,6 +2204,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.mootech.eu | No |
 | social.nah.re | No |
 | social.namok.be | No |
+| social.nekover.se | Yes |
 | social.net.ua | No |
 | social.nevira.net | No |
 | social.nfld.uk | No |
@@ -2271,6 +2274,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.stephane-klein.info | Yes |
 | social.stracknet.com | No |
 | social.sunnypup.io | No |
+| social.surfnet.space | No |
 | social.tadzik.net | No |
 | social.taker.fr | No |
 | social.targaryen.house | No |
@@ -2594,7 +2598,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | vrparty.social | Yes |
 | vucica.net | No |
 | vulpine.club | Yes |
-| w3c.social | No |
 | waha.work | No |
 | waifuism.life | No |
 | wake.st | No |
@@ -2696,7 +2699,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 496 |
-| Normal | 2,162 |
+| Normal | 2,165 |
 
 
-### 18.7% of public Fediverse services are using Cloudflare.
+### 18.6% of public Fediverse services are using Cloudflare.
