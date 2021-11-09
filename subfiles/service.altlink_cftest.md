@@ -16,6 +16,7 @@ When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) Clo
 | -- | -- | -- |
 | For | Followers only | All users |
 | Trigger | Direct Message | Hashtag |
+| Accept | `URL`, `Domain` | `URL` only |
 | Reply | Direct Message | Public Message |
 | Speed | Immediate (<1m) | Stacked (4m) |
 
