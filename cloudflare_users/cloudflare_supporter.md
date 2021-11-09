@@ -953,6 +953,7 @@ Do not create new issue or we will close it as duplicate.
 | [CapantSolent@twitter](https://twitter.com/CapantSolent/status/1392202368616476678) | advertise |
 | [CarnifeX_6@twitter](https://twitter.com/CarnifeX_6/status/1386411324230361090) | advertise |
 | [carolinawxauth@twitter](https://twitter.com/carolinawxauth/status/1396641317728440328) | advertise |
+| [casaindigo@twitter](https://twitter.com/casaindigo/status/1457706371248427018) | advertise |
 | [CassFrancisco5@twitter](https://twitter.com/CassFrancisco5/status/1401267140737392641) | advertise |
 | [cassidysm@twitter](https://twitter.com/cassidysm/status/1404071235500314630) | advertise |
 | [catchme07@twitter](https://twitter.com/catchme07/status/1373180238264291334) | advertise |
@@ -6144,6 +6145,7 @@ Do not create new issue or we will close it as duplicate.
 | [XeroGravity16@twitter](https://twitter.com/XeroGravity16/status/1402320760954228736) | advertise |
 | [xetrisolta@twitter](https://twitter.com/xetrisolta/status/1386306457964924931) | advertise |
 | [XFG3B@twitter](https://twitter.com/XFG3B/status/1382990065660358658) | advertise |
+| [XHs@twitter](https://twitter.com/XHs/status/1457943621861199874) | advertise |
 | [xiaomao85622541@twitter](https://twitter.com/xiaomao85622541/status/1391819655287689221) | advertise |
 | [XiaoWu92722924@twitter](https://twitter.com/XiaoWu92722924/status/1379035666818990082) | advertise |
 | [Xing14851@twitter](https://twitter.com/Xing14851/status/1390482855403220994) | advertise |
@@ -6335,6 +6337,7 @@ Do not create new issue or we will close it as duplicate.
 | [YueYue05673762@twitter](https://twitter.com/YueYue05673762/status/1391670328879951872) | advertise |
 | [Yuki92777462@twitter](https://twitter.com/Yuki92777462/status/1389853033761165326) | advertise |
 | [Yusi138338331@twitter](https://twitter.com/Yusi138338331/status/1390642830310141952) | advertise |
+| [YusTweet@twitter](https://twitter.com/YusTweet/status/1457884814300770305) | advertise |
 | [yuyachit2@twitter](https://twitter.com/yuyachit2/status/1407168318889357326) | advertise |
 | [YWanasan@twitter](https://twitter.com/YWanasan/status/1392054647393636360) | advertise |
 | [YYairBB@twitter](https://twitter.com/YYairBB/status/1377950035653066758) | advertise |
