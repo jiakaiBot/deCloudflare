@@ -35,6 +35,7 @@ When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) Clo
 - #iscloudflared
 - #netfreedomtest
 - #mitmtest
+- #internetfreedomtest
 
 
 ### Example
