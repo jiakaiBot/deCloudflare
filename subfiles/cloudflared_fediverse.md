@@ -178,6 +178,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bittube.social | No |
 | biwakodon.com | No |
 | bla.chymera.eu | No |
+| blabber.rocks | No |
 | blessedgeeks.org | No |
 | blimey.social | No |
 | blimps.xyz | Yes |
@@ -245,6 +246,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cb.janusworx.com | No |
 | cbcmelbourne.life | No |
 | cdrom.tokyo | No |
+| chabant.social | No |
 | chablis.social | No |
 | chaos.social | No |
 | chaosphere.hostdon.jp | No |
@@ -391,8 +393,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | drdr.club | Yes |
 | dresden.network | No |
 | drizzle-damp.net | No |
-| dsocialize.net | Yes |
 | dtp-mstdn.jp | Yes |
+| duckchat.me | No |
 | dudu.best | Yes |
 | dumpkin.monster | Yes |
 | dustinwilson.com | No |
@@ -432,6 +434,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | epicureanworldview.com | No |
 | epicyon.libreserver.org | No |
 | equestria.social | No |
+| erica.moe | No |
 | erm67.dynu.net | No |
 | ertona.net | No |
 | esperanto.masto.host | No |
@@ -539,6 +542,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | freecumextremist.com | No |
 | freedom.horse | No |
 | freeframe.masto.host | No |
+| freehub.space | No |
 | freeradical.zone | No |
 | freesocial.co | No |
 | freesoftwareextremist.com | No |
@@ -647,6 +651,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | godforsaken.website | No |
 | goggles.social | No |
 | gomastodon.cz | Yes |
+| goodass.dog | No |
 | gorf.pub | No |
 | gorone.xyz | Yes |
 | gould.cx | Yes |
@@ -722,6 +727,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hub.bessonnica.org | Yes |
 | hub.cats-home.net | No |
 | hub.disroot.org | No |
+| hub.elemac.fr | No |
 | hub.hayfidelity.de | No |
 | hub.hubzilla.de | No |
 | hub.libranet.de | No |
@@ -798,6 +804,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | is.aaronbsmith.com | No |
 | is.badat.dev | No |
 | is.nota.live | No |
+| isesh.com | No |
 | itabashi.0j0.jp | No |
 | itmgitmo.com | No |
 | itmslaves.com | No |
@@ -815,7 +822,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | jepsen.io | No |
 | jergefelt.se | No |
 | jigglypuff.club | No |
-| jit.social | No |
 | jitakurack.chotto.moe | No |
 | jmm.kr | Yes |
 | jonleibowitz.social | Yes |
@@ -1191,6 +1197,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.netheredge.com | No |
 | mastodon.nl | No |
 | mastodon.noraworld.com | No |
+| mastodon.nu | No |
 | mastodon.nz | No |
 | mastodon.nzoss.nz | No |
 | mastodon.oe74.net | No |
@@ -1507,7 +1514,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | muenster.im | No |
 | muknown.jp | No |
 | mulmeyun.church | Yes |
-| musicdn.jp | No |
 | mustardon.tokyo | No |
 | mutual.tls.zone | Yes |
 | mxvol.xyz | No |
@@ -1900,6 +1906,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | restore.serenitytoo.com | No |
 | retro.social | No |
 | rettiwtkcuf.social | No |
+| reve.land | Yes |
 | rezo.mig5.net | No |
 | rhabarberbarbara.bar | Yes |
 | ribeiro.social | No |
@@ -1911,7 +1918,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | rizomatica.org | No |
 | rodina-sucha.cz | No |
 | roidesbulgares.rocks | No |
-| roleplayers.bub.org | No |
 | rollenspiel.group | No |
 | rollenspiel.social | No |
 | rpi.limited.systems | No |
@@ -2126,7 +2132,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.finkhaeuser.de | No |
 | social.fluffel.io | No |
 | social.foldr.nl | No |
-| social.fpsource.info | No |
 | social.franssen.xyz | No |
 | social.freetalklive.com | No |
 | social.fym.moe | Yes |
@@ -2258,6 +2263,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.servus.at | No |
 | social.shadowfacts.net | Yes |
 | social.shadowkat.net | No |
+| social.shadyvalley.net | No |
 | social.shiftyeyed.net | No |
 | social.simcu.com | No |
 | social.skewed.de | No |
@@ -2449,6 +2455,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toot.cat | No |
 | toot.fedilab.app | No |
 | toot.gnous.eu | No |
+| toot.hoec3.de | No |
 | toot.host | No |
 | toot.icyphox.sh | No |
 | toot.io | No |
@@ -2584,6 +2591,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | vibeogame.online | No |
 | vici0.us | No |
 | violoncello.ch | No |
+| virtual-kaf.fun | Yes |
 | vis.social | No |
 | vnil.de | No |
 | vocabar.net | No |
@@ -2686,6 +2694,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | zer0.click | No |
 | zhub.link | No |
 | zoinks.one | No |
+| zombienet.org | No |
 | zotadel.net | No |
 | zottmann.org | Yes |
 | zotum.net | No |
@@ -2698,8 +2707,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 496 |
-| Normal | 2,165 |
+| Cloudflare | 497 |
+| Normal | 2,173 |
 
 
 ### 18.6% of public Fediverse services are using Cloudflare.
