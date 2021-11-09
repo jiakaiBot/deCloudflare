@@ -31,15 +31,14 @@ When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) Clo
 - #checkcloudflare
 - #isitcloudflare
 - #isthiscloudflare
-- #iscloudflare
-- #iscloudflared
-- #netfreedomtest
 - #mitmtest
+- #netfreedomtest
 - #internetfreedomtest
 
 
 ### Example
 
+- Hashtag with URL
 ```
 Which pizza is the best!? #isThisCloudFlare
 https://www.dominos.com/
