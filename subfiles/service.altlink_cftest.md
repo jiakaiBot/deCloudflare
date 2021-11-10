@@ -5,7 +5,7 @@
 
 When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) CloudflareTest will tell you whether your link is Cloudflared or not.
 
-- This is simplified version of [AltLink's "Is it really CloudFlare!?" check](service.altlink.md#_is-it-really-cloudflare-_-check).
+- This is **simplified** version of [AltLink's "Is it really CloudFlare!?" check](service.altlink.md#_is-it-really-cloudflare-_-check).
 - Similar to AltLink, public messages older than *24* hours will be deleted.
 
 
@@ -19,6 +19,7 @@ When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) Clo
 | Accept | `URL`, `Domain` | `URL` only |
 | Reply | Direct Message | Public Message |
 | Speed | Immediate (<1m) | Stacked (4m) |
+| Result | Detailed (Retest) | **Simplified** (Y/N) |
 
 
 ### Hashtags
