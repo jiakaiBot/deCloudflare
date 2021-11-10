@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-11-10: [Elevated number of 5xx errors in Canada](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lt5dccm2gptz)
+- 2021-11-10: [Elevated number of 5xx errors in LHR](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q1kjnbty3t3y)
 - 2021-11-07: [Connectivity Issues in Warsaw, Poland (WAW)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gnnz85xf5tdn)
 - 2021-11-05: [Customer Impacting Issue in the Mumbai Datacenter](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/v53bzp6ph909)
 - 2021-11-02: [Network Performance Issues in Ashburn](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xlx9th9m36vt)
