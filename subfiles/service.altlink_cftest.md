@@ -57,7 +57,4 @@ Hey I can't read it! #InternetFreedomTest
 ```
 
 
-
-
-
 <a rel="me" href="https://social.kyushojitsu.ca/@cloudflaretest"></a>
