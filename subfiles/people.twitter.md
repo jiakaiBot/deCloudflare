@@ -7,6 +7,7 @@
 
 
 
+- Wow Cloudflare seems to have pissed itself, and I can't even reliably check to see if it is a cloudflare issue or an ISP deciding "Fuck Cloudflare today" issue because a lot of the sites that check stability status run on Cloudflare themselves. What a joke ([pokemongod777](https://twitter.com/PokemonGod777/status/1458303582332198912))
 - Hey Cloudflare I've got two users claiming they're getting requests to prove they're not robots and no way to pass the captcha, seems to go away when I put site in dev mode on CF. Suggestions? ([pocketables](https://twitter.com/pocketables/status/1458217627881549834))
 - Tried issuing it from the command line, and got this error about not "specifying a Cloudflare api key". Now I need a Cloudflare account to get an SSL cert for a domain? So I now have to deal with 2 extra orgs ( and Cloudflare) to get a simple SSL cert? Madness! ([finide](https://twitter.com/finide/status/1458152264712036354))
 - its just a cloudflare error for some users, funds are safu. should be back up any time. ([thegualla](https://twitter.com/TheGualla/status/1457985917977780234))
