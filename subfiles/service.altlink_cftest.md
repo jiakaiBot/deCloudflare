@@ -43,7 +43,7 @@ When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) Clo
 
 - Input
 
-dear_human:
+_dear_human_:
 ```
 Homemade Pizza #isThisCloudFlare
 https://www.tasteofhome.com/recipes/homemade-pizza/
@@ -63,13 +63,13 @@ allrecipes.com: 👍
 
 - Input
 
-top_user:
+_top_user_:
 ```
 Let's go to this party!
 https://greatparty.cloudflaredexample.site/
 ```
 
-replied_user:
+_replied_user_:
 ```
 @top_user
 Hey I can't read it! #InternetFreedomTest
