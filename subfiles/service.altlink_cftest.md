@@ -6,7 +6,7 @@
 When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) CloudflareTest will tell you whether your link is Cloudflared or not.
 
 - This is **simplified** version of [AltLink's "Is it really CloudFlare!?" check](service.altlink.md#_is-it-really-cloudflare-_-check).
-  - Mastodon won't share your hashtagged toot if your account is new or not followed by anyone. If you need reliable answer use AltLink instead.
+  - Mastodon won't share your hashtagged toot if your account is new or not followed by anyone. If you need _reliable_ answer use AltLink instead.
 - Similar to AltLink, public messages older than *24* hours will be deleted.
 
 
@@ -39,23 +39,41 @@ When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) Clo
 
 ### Example of usage
 
-- Hashtag with URL
+> Hashtag with URL
+
+- Input
 ```
-Which pizza is the best!? #isThisCloudFlare
-https://www.dominos.com/
-http://www.pizzahut.com/
-https://www.papajohns.com/
+Homemade Pizza #isThisCloudFlare
+https://www.tasteofhome.com/recipes/homemade-pizza/
+https://www.allrecipes.com/article/topping-and-baking-pizza/
 ```
 
-- Hashtag above toot (e.g. other user's toot)
+- Output
+```
+@dear_human
+tasteofhome.com: 🌩
+allrecipes.com: 👍
+```
+
+
+> Hashtag above toot (e.g. other user's toot)
+
+- Input
 ```
 Let's go to this party!
-https://greatparty.cloudflared.site/
+https://greatparty.cloudflaredexample.site/
 ```
 ```
 @top_user
 Hey I can't read it! #InternetFreedomTest
 ```
+
+- Output
+```
+@replied_user @top_user
+cloudflaredexample.site: 🌩
+```
+
 
 
 <a rel="me" href="https://social.kyushojitsu.ca/@cloudflaretest"></a>
