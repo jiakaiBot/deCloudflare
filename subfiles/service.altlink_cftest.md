@@ -36,7 +36,7 @@ When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) Clo
 - #internetfreedomtest
 
 
-### Example
+### Example of usage
 
 - Hashtag with URL
 ```
@@ -45,5 +45,19 @@ https://www.dominos.com/
 http://www.pizzahut.com/
 https://www.papajohns.com/
 ```
+
+- Hashtag above toot (e.g. other user's toot)
+```
+Let's go to this party!
+https://greatparty.cloudflared.site/
+```
+```
+@top_user
+Hey I can't read it! #InternetFreedomTest
+```
+
+
+
+
 
 <a rel="me" href="https://social.kyushojitsu.ca/@cloudflaretest"></a>
