@@ -1191,6 +1191,7 @@ Or is this merely a case of simple modesty?
 | Nick Sullivan | Employee | [🖼](../image/gang/Nick_Sullivan.jpg)<br>https://twitter.com/grittygrease<br>nick@cloudflare.com |
 | Nick Toulson | Account Executive |  |
 | Nick Wondra | Systems Engineer |  |
+| Nick Wood | Employee | |
 | Nicky Semenza | Software Engineer |  |
 | Nicole Ellis | Office Coordinator |  |
 | Nidhi Mishra | Solutions Engineer APAC |  |
@@ -1416,6 +1417,7 @@ Or is this merely a case of simple modesty?
 | Sarah Lewis Cortes | Privacy Compliance |  |
 | Sarah Meyer | Customer Development, London |  |
 | Saran Chandran | Regional Head |  |
+| Satyen Desai | Employee | |
 | Scott Flesch | SLED Sales |  |
 | Scott Jones | LMS Administrator / eLearning Developer |  |
 | Scott Olivares | Conversion Rate Optimization Lead |  |
