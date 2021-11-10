@@ -7,6 +7,7 @@
 
 
 
+- update: picking good exit nodes did not help fuck cloudflare, fuck rg ([energeticmuon](https://mastodon.social/@energeticmuon/107254240225341431))
 - &gt;you have to enable javascript to run this application &gt;website is cloudflared &gt;.dev the holy trinity ([qorg](https://pl.qorg11.net/objects/8eba2670-fe81-4b47-baee-31bb43ddf9a5))
 - @coolboymew They are posting an image. This means they are not using Tor while using the #Cloudflare #honeypot. They might soon be mysteriously caught in their hobby of challenging the #rentseeker class. ([dsfgs](https://activism.openworlds.info/@dsfgs/107248457920751549))
 - In #America, MitM attack does not stop you… . . . Instead, we are told #MitM attack helps build a better internet. (Use hashtag (#)cloudflareTest to check your favourite websites) #gullible #internetAttack #cloudflare #amazon #akamai #grift #complexityTheatre #ISPs #wallStreet #theft #extortion #reverseProxy #deleteCloudflare #deleteAmazon #thatsNotHowTheInternetIsSupposedToWork ([dsfgs](https://activism.openworlds.info/@dsfgs/107243828406473831))
