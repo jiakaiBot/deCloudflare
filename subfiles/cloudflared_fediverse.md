@@ -185,6 +185,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | blockriot.com | No |
 | blovice.bahnhof.cz | No |
 | blue.skye.cx | No |
+| bobek.cz | No |
 | boing.world | No |
 | boitam.eu | No |
 | bologna.one | No |
@@ -246,7 +247,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cbcmelbourne.life | No |
 | cdrom.tokyo | No |
 | chabant.social | No |
-| chablis.social | No |
 | chaos.social | No |
 | chaosphere.hostdon.jp | No |
 | charlestown.social | No |
@@ -415,6 +415,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | elefant.social | No |
 | elekk.xyz | Yes |
 | eletusk.club | No |
+| elict.net | No |
 | elle.systems | No |
 | elsmussols.net | No |
 | elves.forsale | No |
@@ -543,6 +544,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | freeradical.zone | No |
 | freesocial.co | No |
 | freesoftwareextremist.com | No |
+| freespeech.firedragonstudios.com | No |
 | freespeech.group | No |
 | freespeechextremist.com | No |
 | freethinkers.lgbt | No |
@@ -814,6 +816,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | jacksplace.dk | No |
 | jade.moe | No |
 | jako.social | Yes |
+| janogdon.net | No |
 | jasette.facil.services | No |
 | jauntygoat.net | No |
 | jawns.club | No |
@@ -885,6 +888,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kpop.social | Yes |
 | kr.akirin.xyz | Yes |
 | krefeld.life | No |
+| krokodil.se | No |
 | kurage.cc | No |
 | kuroharu.hostdon.ne.jp | Yes |
 | la-verite-vaincra.nohost.me | No |
@@ -986,6 +990,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.mtlynch.io | No |
 | m.nebula.moe | Yes |
 | m.nintendojo.fr | No |
+| m.sirousa.me | No |
 | m.sprovoost.nl | No |
 | m.thibau.lt | No |
 | m.tkw.fm | No |
@@ -1055,6 +1060,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | masto.timapple.com | No |
 | masto.werefox.dev | No |
 | masto.yaeghs.net | No |
+| mastodol.jp | No |
 | mastodon.3fx.ch | No |
 | mastodon.1984.cz | No |
 | mastodon.acc.sunet.se | No |
@@ -1093,7 +1099,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.cosmicanimal.jp | No |
 | mastodon.crazynewworld.net | Yes |
 | mastodon.ctseuro.com | No |
-| mastodon.darkou.fr | No |
 | mastodon.dbatley.com | No |
 | mastodon.derveni.org | No |
 | mastodon.design | No |
@@ -1111,6 +1116,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.esmevane.com | No |
 | mastodon.ethibox.fr | No |
 | mastodon.eus | No |
+| mastodon.evolix.org | No |
 | mastodon.exp0.ml | No |
 | mastodon.explore-visions.com | No |
 | mastodon.falktx.com | No |
@@ -1515,6 +1521,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | muenster.im | No |
 | muknown.jp | No |
 | mulmeyun.church | Yes |
+| musicdn.jp | No |
 | mustardon.tokyo | No |
 | mutual.tls.zone | Yes |
 | mxvol.xyz | No |
@@ -1644,6 +1651,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ourempty.pub | No |
 | outerheaven.club | No |
 | ozhika.me | No |
+| p.ashiato45.net | No |
 | p.mr64.net | No |
 | p.node.pk | Yes |
 | p.rhinoworks.info | No |
@@ -2126,6 +2134,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.ewb.io | No |
 | social.exclaimindustries.net | No |
 | social.fanyx.xyz | No |
+| social.farend.co.jp | No |
 | social.fbxl.net | No |
 | social.fedcast.ch | No |
 | social.fedinet.de | No |
@@ -2663,6 +2672,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | xarxa.cloud | No |
 | xarxamontgri.masto.host | No |
 | xgix.net | Yes |
+| xice.org | Yes |
 | xiii.ch | No |
 | xindejiayuan.com | No |
 | xoxo.zone | Yes |
@@ -2710,8 +2720,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 497 |
-| Normal | 2,176 |
+| Cloudflare | 498 |
+| Normal | 2,185 |
 
 
 ### 18.6% of public Fediverse services are using Cloudflare.
