@@ -42,6 +42,8 @@ When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) Clo
 > Hashtag with URL
 
 - Input
+
+dear_human:
 ```
 Homemade Pizza #isThisCloudFlare
 https://www.tasteofhome.com/recipes/homemade-pizza/
@@ -49,6 +51,7 @@ https://www.allrecipes.com/article/topping-and-baking-pizza/
 ```
 
 - Output
+
 ```
 @dear_human
 tasteofhome.com: 🌩
@@ -59,16 +62,21 @@ allrecipes.com: 👍
 > Hashtag above toot (e.g. other user's toot)
 
 - Input
+
+top_user:
 ```
 Let's go to this party!
 https://greatparty.cloudflaredexample.site/
 ```
+
+replied_user:
 ```
 @top_user
 Hey I can't read it! #InternetFreedomTest
 ```
 
 - Output
+
 ```
 @replied_user @top_user
 cloudflaredexample.site: 🌩
