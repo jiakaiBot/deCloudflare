@@ -7,6 +7,8 @@
 
 
 
+- Web page is being blocked. Some sort of Cloudflare failure. ([algernon_sydney](https://twitter.com/Algernon_Sydney/status/1457873197580230658))
+- Something is wrong with your payment processing. Getting errors about payment method not found. ([krisroadruck](https://twitter.com/KrisRoadruck/status/1458782922694184968))
 - Cloudflare Checkpoint Syndrome is the phenomenal of these websites who has been securely hosted by Cloudflare to protect of these dangerous and making visitors frustate always because of Captcha. ([firzafp](https://twitter.com/firzafp/status/1458733596198334472))
 - Sigh. Grocery store is using cloudflare to prevent me from fetching search results programmatically. Okay, I'll shop somewhere that lets me set up an email alert when the thing I want goes on sale instead then. Fuck you. ([lraszewski](https://twitter.com/lraszewski/status/1458581336088842242))
 - I can't download papers since Cloudflare DDoS protection keeps blocking my request to download PDF versions of papers. I'm accessing Taylor & Francis via my university. ([stefan34288442](https://twitter.com/Stefan34288442/status/1458711200410312708))
