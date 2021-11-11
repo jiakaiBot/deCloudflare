@@ -4197,6 +4197,7 @@ Do not create new issue or we will close it as duplicate.
 | [OfficialSs34@twitter](https://twitter.com/OfficialSs34/status/1389541392251293705) | advertise |
 | [Official_Aidzyy@twitter](https://twitter.com/Official_Aidzyy/status/1429092121550667785) | advertise |
 | [of_544@twitter](https://twitter.com/of_544/status/1395086316665118720) | advertise |
+| [OG_PvP_@twitter](https://twitter.com/OG_PvP_/status/1458513520115474437) | advertise |
 | [OhAeri36127137@twitter](https://twitter.com/OhAeri36127137/status/1401014602033414148) | advertise |
 | [OhArthit2@twitter](https://twitter.com/OhArthit2/status/1390821661566324740) | advertise |
 | [ohmygod57@twitter](https://twitter.com/ohmygod57/status/1440233141122207747) | advertise |
@@ -4943,6 +4944,7 @@ Do not create new issue or we will close it as duplicate.
 | [scammers01@twitter](https://twitter.com/scammers01/status/1407249306667544576) | advertise |
 | [ScarLat99299837@twitter](https://twitter.com/ScarLat99299837/status/1394957887026434051) | advertise |
 | [Sciz0r1@twitter](https://twitter.com/Sciz0r1/status/1384091634455900161) | advertise |
+| [sclathrop@twitter](https://twitter.com/sclathrop/status/1458423494719459332) | advertise |
 | [Scrimzy_@twitter](https://twitter.com/Scrimzy_/status/1380087112993632257) | advertise |
 | [sdemanett@twitter](https://twitter.com/sdemanett/status/1396239812076638208) | advertise |
 | [seaxvr@twitter](https://twitter.com/seaxvr/status/1386420536742268928) | advertise |
