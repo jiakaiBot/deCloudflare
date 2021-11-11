@@ -7,6 +7,11 @@
 
 
 
+- Was it a cloudflare captcha? My guess is they have there DNS pointed there. This happens sometimes. Especially if your ISP changes your IP. ([rsaminer](https://twitter.com/RSAminer/status/1458242362338156545))
+- Hey Cloudflare I've got two users claiming they're getting requests to prove they're not robots and no way to pass the captcha, seems to go away when I put site in dev mode on CF. Suggestions? ([pocketables](https://twitter.com/pocketables/status/1458217627881549834))
+- Tried issuing it from the command line, and got this error about not "specifying a Cloudflare api key". Now I need a Cloudflare account to get an SSL cert for a domain? So I now have to deal with 2 extra orgs ( and Cloudflare) to get a simple SSL cert? Madness! ([finide](https://twitter.com/finide/status/1458152264712036354))
+- its just a cloudflare error for some users, funds are safu. should be back up any time. ([thegualla](https://twitter.com/TheGualla/status/1457985917977780234))
+- i was in this enterprise saas captcha loop and there were these planes, buses and boats and i was reminded that i had been avoiding a career in railroad management ([bangpound](https://twitter.com/bangpound/status/1457883104610246658))
 - I would fucking lose my mind if that was the case, I was just complaining about a Cloudflare blip that I couldn't even check if it was an ISP issue because all the "Is it down" checkers are themselves cloudflare based ([pokemongod777](https://twitter.com/PokemonGod777/status/1458305725080477701))
 - Wow Cloudflare seems to have pissed itself, and I can't even reliably check to see if it is a cloudflare issue or an ISP deciding "Fuck Cloudflare today" issue because a lot of the sites that check stability status run on Cloudflare themselves. What a joke ([pokemongod777](https://twitter.com/PokemonGod777/status/1458303582332198912))
 - If there was a way to anycast address a cjdns IP or an onion address at a cloudflare level of scale (not just Enterprise onion toolkit), for an API endpoint (content can be torrented) that'd be awesome. Best thing I can think of is private Tor addresses for handfuls of customers ([whitingdev](https://twitter.com/whitingdev/status/1457886665410764806))
