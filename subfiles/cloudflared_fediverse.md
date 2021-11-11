@@ -129,6 +129,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | awoo.space | No |
 | b.z0ne.social | Yes |
 | b612.me | Yes |
+| babymetal.party | No |
 | backtoroot.xyz | No |
 | backyard.cloud | No |
 | badgay.net | No |
@@ -365,6 +366,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | disqordia.space | No |
 | distrotoot.com | No |
 | dither.ddns.net | No |
+| dixies.land | No |
 | dizl.de | No |
 | djanzu.tokyo | No |
 | djsumdog.com | No |
@@ -389,6 +391,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | dragon.style | No |
 | dragonfleye.io | No |
 | dragonscave.space | No |
+| dramaless.co.uk | No |
 | drdr.club | Yes |
 | dresden.network | No |
 | drizzle-damp.net | No |
@@ -752,7 +755,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hubzilla.fkn-systems.de | No |
 | hubzilla.irgendwo.social | No |
 | hubzilla.konzurovski.net | No |
-| hubzilla.l-p-d.org | No |
 | hugh.buzz | No |
 | hulvr.com | No |
 | hunk.city | No |
@@ -786,7 +788,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | imastodon.net | No |
 | imastodon.org | No |
 | imd.social | No |
-| impeccable.social | No |
 | inari.click | Yes |
 | inari.opencocon.org | No |
 | indiefedi.party | No |
@@ -978,6 +979,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.aqr.af | No |
 | m.bonzoesc.net | Yes |
 | m.brokep.com | No |
+| m.chars.jp | Yes |
 | m.cmx.im | Yes |
 | m.divita.eu | No |
 | m.dogcraft.cn | No |
@@ -1146,7 +1148,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.honeypot.im | No |
 | mastodon.hoppinglife.com | No |
 | mastodon.hugopoi.net | No |
-| mastodon.humanistische-union.de | No |
 | mastodon.hydrosaas.com | Yes |
 | mastodon.hypnoguys.com | No |
 | mastodon.icu | No |
@@ -1250,6 +1251,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.starshipchangeling.net | No |
 | mastodon.stefofficiel.me | No |
 | mastodon.suinot.org | No |
+| mastodon.tardis.pw | No |
 | mastodon.technology | No |
 | mastodon.tedomum.net | No |
 | mastodon.tetaneutral.net | No |
@@ -2610,6 +2612,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | veronaxxx.masto.host | No |
 | vibeogame.online | No |
 | vici0.us | No |
+| vilni.space | No |
 | violoncello.ch | No |
 | virtual-kaf.fun | Yes |
 | vis.social | No |
@@ -2731,8 +2734,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 504 |
-| Normal | 2,190 |
+| Cloudflare | 505 |
+| Normal | 2,192 |
 
 
 ### 18.7% of public Fediverse services are using Cloudflare.
