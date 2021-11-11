@@ -7,6 +7,7 @@
 
 
 
+- @Blort @twann @biguenique #Matrix has a #Cloudflare website which is a big red flag. It immediately calls into the question the competency and ethics of that project. #Snikket looks more on the ball. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/107260202192990500))
 - Finally managed to get a proper portainer + traefik set-up! Now I can put all my little silly web stuff nicely routed by cloudflare and inside their little dockers! Funny I see them as my toys ([goodvibes](https://todon.nl/@goodvibes/107258917775261785))
 - update: picking good exit nodes did not help fuck cloudflare, fuck rg ([energeticmuon](https://mastodon.social/@energeticmuon/107254240225341431))
 - &gt;you have to enable javascript to run this application &gt;website is cloudflared &gt;.dev the holy trinity ([qorg](https://pl.qorg11.net/objects/8eba2670-fe81-4b47-baee-31bb43ddf9a5))
