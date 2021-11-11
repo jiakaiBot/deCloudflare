@@ -11,4 +11,5 @@
 
 <a rel="me" href="https://mamot.fr/@altlink"></a>
 <a rel="me" href="https://social.kyushojitsu.ca/@cloudflaretest"></a>
+<a rel="me" href="https://social.kyushojitsu.ca/@cloudflarebird"></a>
 <a rel="me" href="https://fedibird.com/@cloudflarebird"></a>
