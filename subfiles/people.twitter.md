@@ -7,6 +7,11 @@
 
 
 
+- I am the victim of Cloudflare's buffer on SkyscraperCity (since August 2021 to present) Say about HTTPS isnt perfect tho, but buffered by Cloudflare is totally angry permanently til its normal ([firzafp](https://twitter.com/firzafp/status/1457282115318341635))
+- I can't download papers since Cloudflare DDoS protection keeps blocking my request to download PDF versions of papers. I'm accessing Taylor & Francis via my university. ([stefan34288442](https://twitter.com/Stefan34288442/status/1458711200410312708))
+- Cloudflare Can you stop using LetsEncrypt certificates? Undeniable that it has made a very significant contribution to the popularization of https. However, many visitors still use Win7 or older Android, they will not be able to access websites that use LE certificates. Thx. ([cryptoidc](https://twitter.com/cryptoidc/status/1458705600305451014))
+- Sigh. Grocery store is using cloudflare to prevent me from fetching search results programmatically. Okay, I'll shop somewhere that lets me set up an email alert when the thing I want goes on sale instead then. Fuck you. ([lraszewski](https://twitter.com/lraszewski/status/1458581336088842242))
+- Fuck you and your horrible customer service ([pennysordie](https://twitter.com/pennysordie/status/1458092920154767370))
 - Was it a cloudflare captcha? My guess is they have there DNS pointed there. This happens sometimes. Especially if your ISP changes your IP. ([rsaminer](https://twitter.com/RSAminer/status/1458242362338156545))
 - Hey Cloudflare I've got two users claiming they're getting requests to prove they're not robots and no way to pass the captcha, seems to go away when I put site in dev mode on CF. Suggestions? ([pocketables](https://twitter.com/pocketables/status/1458217627881549834))
 - Tried issuing it from the command line, and got this error about not "specifying a Cloudflare api key". Now I need a Cloudflare account to get an SSL cert for a domain? So I now have to deal with 2 extra orgs ( and Cloudflare) to get a simple SSL cert? Madness! ([finide](https://twitter.com/finide/status/1458152264712036354))
