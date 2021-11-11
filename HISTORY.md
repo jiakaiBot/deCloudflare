@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-11-11: [Network Performance Issues in Seattle, United States](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pz6v9dbnps8t)
 - 2021-11-10: [Distributed Web Gateway](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xr0ryg87gcts)
 - 2021-11-10: [Elevated number of 5xx errors in Canada](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lt5dccm2gptz)
 - 2021-11-10: [Elevated number of 5xx errors in LHR](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q1kjnbty3t3y)
