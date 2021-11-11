@@ -7,7 +7,6 @@ When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) Clo
 
 - This is **simplified** version of [AltLink's "Is it really CloudFlare!?" check](service.altlink.md#_is-it-really-cloudflare-_-check).
   - Mastodon won't share your hashtagged toot if your account is new or not followed by anyone. If you need _reliable_ answer use AltLink instead.
-- Similar to AltLink, public messages older than *24* hours will be deleted.
 
 
 
@@ -16,10 +15,10 @@ When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) Clo
 | ? | [AltLink](service.altlink.md) | CloudflareTest |
 | -- | -- | -- |
 | For | Followers only | All users |
-| Trigger | Direct Message | Hashtag |
+| Trigger | Direct Message | **Hashtag** |
 | Accept | `URL`, `Domain` | `URL` only |
-| Reply | Direct Message | Public Message |
-| Speed | Immediate (<1m) | Stacked (4m) |
+| Reply | Direct Message | **Public** Message |
+| Speed | Immediate (<1m) | **Stacked** (4m) |
 | Result | Detailed (Retest) | **Simplified** (Y/N) |
 
 
