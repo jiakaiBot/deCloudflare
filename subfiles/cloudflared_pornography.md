@@ -1,7 +1,7 @@
 ## How many % of pornographic domains are using Cloudflare?
 
 
-We downloaded the pornhosts list from [here](https://mypdns.org/my-privacy-dns/porn-records/-/raw/master/submit_here/adult.mypdns.cloud/wildcard.list).
+We downloaded the pornhosts list from [here](https://mypdns.org/clefspeare13/pornhosts/-/raw/master/download_here/0.0.0.0/hosts) and filter out duplicates.
 Here's the result.
 
 
