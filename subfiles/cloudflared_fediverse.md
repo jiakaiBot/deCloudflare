@@ -298,6 +298,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | contrapointsfan.club | No |
 | convenient.email | No |
 | coolbowties.xyz | No |
+| cordelia.nlpaige.me | No |
 | corginet.duckdns.org | No |
 | cornerof.world | No |
 | cornichon.me | No |
@@ -353,7 +354,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | diaspodon.fr | No |
 | dica.interfel.de | No |
 | dice.camp | No |
-| diceyslafayette.r-o-o-t.net | No |
 | die-partei.social | No |
 | digforfire.org | No |
 | digineko.net | No |
@@ -375,6 +375,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | dobbs.town | No |
 | dog.estate | No |
 | don.bitma.st | No |
+| don.gomasy.jp | Yes |
 | don.m2hq.net | No |
 | don.mamemo.online | Yes |
 | don.mfz.jp | No |
@@ -411,6 +412,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | econresearch.org | Yes |
 | ecosteader.com | No |
 | edolas.world | No |
+| edutictac.gq | No |
 | efdn.club | No |
 | egirls.gay | No |
 | eicker.news | No |
@@ -1064,6 +1066,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | masto.oncletom.io | No |
 | masto.pt | Yes |
 | masto.rocks | No |
+| masto.sahilister.in | No |
 | masto.therealblue.de | No |
 | masto.timapple.com | No |
 | masto.werefox.dev | No |
@@ -1136,6 +1139,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.freifunk-minden.de | No |
 | mastodon.gamedev.place | No |
 | mastodon.gargantia.fr | No |
+| mastodon.gerkenator.com | No |
 | mastodon.glibre.org | No |
 | mastodon.gougere.fr | No |
 | mastodon.green | No |
@@ -1248,6 +1252,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.se | No |
 | mastodon.sk | No |
 | mastodon.slightlycyberpunk.com | No |
+| mastodon.sngsk.info | No |
 | mastodon.social | No |
 | mastodon.someotherguy.xyz | No |
 | mastodon.starshipchangeling.net | No |
@@ -1481,7 +1486,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.kemono-friends.info | Yes |
 | mstdn.kessai-otaku.club | Yes |
 | mstdn.klamath.jp | No |
-| mstdn.kuriuzu.tk | Yes |
 | mstdn.kurosuke.org | No |
 | mstdn.lalafell.org | No |
 | mstdn.love | Yes |
@@ -1646,6 +1650,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | oran.ski | No |
 | oransns.com | No |
 | orbitalstation.one | No |
+| orbsafe.masto.host | No |
 | orctavern.pub | No |
 | orenoshiro.site | No |
 | orz.uno | Yes |
@@ -1898,7 +1903,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | quip.social | No |
 | quitter.pl | No |
 | r-kara.de | No |
-| r3pek.org | No |
 | radiosocial.de | No |
 | rafting.io | No |
 | rage.lol | No |
@@ -1954,6 +1958,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | s.knusper-land.de | Yes |
 | s.lono.space | Yes |
 | s.lx.ddnss.org | No |
+| s.neguse.net | No |
 | s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | s10y.eu | No |
@@ -1980,6 +1985,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | scicomm.xyz | No |
 | scintilla.social | No |
 | scl.clttr.info | No |
+| scl.zmb.cm | No |
 | scoopgang.social | No |
 | scy.name | No |
 | sdfn-01.ninjawedding.org | No |
@@ -2434,6 +2440,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tenforward.social | No |
 | tennis.masto.host | No |
 | tentacle.social | No |
+| teslam.in | Yes |
 | testingmstdn.abcang.net | No |
 | tfl.net.pl | No |
 | tha.closed.social | Yes |
@@ -2737,8 +2744,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 505 |
-| Normal | 2,195 |
+| Cloudflare | 506 |
+| Normal | 2,201 |
 
 
 ### 18.7% of public Fediverse services are using Cloudflare.
