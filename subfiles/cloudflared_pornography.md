@@ -7,19 +7,22 @@ Here's the result.
 
 [//]: # (start replacement)
 
-- Top 5 TLDs
 
+- Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| xxx | xxx_pending_resync |
+| com | 5,598 |
+| net | 530 |
+| org | 165 |
+| pro | 100 |
+| tv | 98 |
 
 
 - Cloudflare %
-
 | Type | Count |
 | --- | --- |
-| Cloudflare | xxx_pending_resync |
-| Normal | xxx |
+| Cloudflare | 2,642 |
+| Normal | 4,984 |
 
 
-### xxx% of pornographic domains are using Cloudflare.
+### 34.6% of pornographic domains are using Cloudflare.
