@@ -7,6 +7,8 @@
 
 
 
+- Hi we are an Aussie bank that believes in community. Here's some stuff you can buy for #Christmas. A lot is made using #slaveConditions overseas. But we put a coloured person on the front page so its cool. Right? Oh our banking website goes through Cloudflare too — because f&amp;ck you. #virtueSignalling #pinkWashing #moneyPrinterGoDrr #bankerCrimes #whyBitcoinCore ([dsfgs](https://activism.openworlds.info/@dsfgs/107262891113254140))
+- If your business uses #cloudflare please stop it. LOL ([pj](https://bitcoinhackers.org/@pj/107265910250272583))
 - @Blort @twann @biguenique #Matrix has a #Cloudflare website which is a big red flag. It immediately calls into the question the competency and ethics of that project. #Snikket looks more on the ball. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/107260202192990500))
 - Finally managed to get a proper portainer + traefik set-up! Now I can put all my little silly web stuff nicely routed by cloudflare and inside their little dockers! Funny I see them as my toys ([goodvibes](https://todon.nl/@goodvibes/107258917775261785))
 - update: picking good exit nodes did not help fuck cloudflare, fuck rg ([energeticmuon](https://mastodon.social/@energeticmuon/107254240225341431))
