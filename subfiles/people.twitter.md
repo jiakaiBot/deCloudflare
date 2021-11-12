@@ -7,6 +7,7 @@
 
 
 
+- Those following the Siteground saga, please help! I know they’ve just implemented a fix, but I’d just moved dns to Cloudflare successfully but now get a ‘redirect error’ when trying to index, is this something I can fix easily, or should I move back to SG and hope it is fixed? ([gregstr26](https://twitter.com/gregstr26/status/1459130164961493022))
 - Web page is being blocked. Some sort of Cloudflare failure. ([algernon_sydney](https://twitter.com/Algernon_Sydney/status/1457873197580230658))
 - Something is wrong with your payment processing. Getting errors about payment method not found. ([krisroadruck](https://twitter.com/KrisRoadruck/status/1458782922694184968))
 - Cloudflare Checkpoint Syndrome is the phenomenal of these websites who has been securely hosted by Cloudflare to protect of these dangerous and making visitors frustate always because of Captcha. ([firzafp](https://twitter.com/firzafp/status/1458733596198334472))
