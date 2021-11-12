@@ -1161,6 +1161,7 @@ Do not create new issue or we will close it as duplicate.
 | [DananjayaDesha5@twitter](https://twitter.com/DananjayaDesha5/status/1403390628495433735) | advertise |
 | [Danbaba21@twitter](https://twitter.com/Danbaba21/status/1401231353824358402) | advertise |
 | [dancirmedia@twitter](https://twitter.com/dancirmedia/status/1439483459437674500) | advertise |
+| [DanericNetwork@twitter](https://twitter.com/DanericNetwork/status/1458866827128459276) | advertise |
 | [dangcapvippro@twitter](https://twitter.com/dangcapvippro/status/1406569993819496448) | advertise |
 | [dangduystyles@twitter](https://twitter.com/dangduystyles/status/1388645342208401409) | advertise |
 | [danggeun265@twitter](https://twitter.com/danggeun265/status/1389594670494228487) | advertise |
@@ -1267,6 +1268,7 @@ Do not create new issue or we will close it as duplicate.
 | [DeviChooki@twitter](https://twitter.com/DeviChooki/status/1395196879302914048) | advertise |
 | [devik89518310@twitter](https://twitter.com/devik89518310/status/1395808959634706433) | advertise |
 | [devilmyo@twitter](https://twitter.com/devilmyo/status/1392724039504781312) | advertise |
+| [DevilRelentless@twitter](https://twitter.com/DevilRelentless/status/1458868886812577821) | advertise |
 | [DeViL_jOkER7@twitter](https://twitter.com/DeViL_jOkER7/status/1386035714664456193) | advertise |
 | [devrajgujjar54@twitter](https://twitter.com/devrajgujjar54/status/1385292357449527296) | advertise |
 | [DeYeJa2@twitter](https://twitter.com/DeYeJa2/status/1392927369686523905) | advertise |
