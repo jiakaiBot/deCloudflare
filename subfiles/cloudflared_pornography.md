@@ -5,6 +5,17 @@ We downloaded the pornhosts list from [here](https://mypdns.org/my-privacy-dns/p
 Here's the result.
 
 
+[//]: # (start replacement)
+
+- Top 5 TLDs
+
+| TLD | Count |
+| --- | --- |
+| xxx | xxx_pending_resync |
+
+
+- Cloudflare %
+
 | Type | Count |
 | --- | --- |
 | Cloudflare | xxx_pending_resync |
