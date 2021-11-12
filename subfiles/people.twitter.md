@@ -7,6 +7,7 @@
 
 
 
+- 1. Create free CloudFlare account; 2. Add your website, double check SG server ip; 3. Point domain to new CF servers; 4. Check urls in GSC (in 20 minutes you will see changes); 5. If you see redirect error change CF ssl to “full”; 6. Once url are fully detected ask for indexing ([francescofantu](https://twitter.com/FrancescoFantu/status/1458950569553453058))
 - 1. Create free CloudFlare account; 2. Add your website, double check SG server ip; 3. Point domain to new CF servers; 4. Check urls in GSC (in 20 minutes you will see changes); 5. If you see redirect error change CF ssl to “full”; 6. Once url are fully detected ask for indexing ([francescofantu](https://twitter.com/FrancescoFantu/status/1458950671416373251))
 - 1. Create free CloudFlare account; 2. Add your website, double check SG server ip; 3. Point domain to new CF servers; 4. Check urls in GSC (in 20 minutes you will see changes); 5. If you see redirect error change CF ssl to “full”; 6. Once url are fully detected ask for indexing ([francescofantu](https://twitter.com/FrancescoFantu/status/1458949063836057601))
 - Web page is being blocked. Some sort of Cloudflare failure. ([algernon_sydney](https://twitter.com/Algernon_Sydney/status/1457873197580230658))
