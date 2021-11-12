@@ -40,7 +40,6 @@ purevpn
 ra4wvpn
 safervpn
 smartdnsproxy
-spyoffvpn
 surfshark
 tigervpn
 torguard
