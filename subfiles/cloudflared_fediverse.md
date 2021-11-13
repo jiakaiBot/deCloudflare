@@ -36,7 +36,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 2mb.social | Yes |
 | 2nd.slum.cloud | Yes |
 | 2to2.xyz | No |
-| 3dots.lv | No |
 | 4estate.media | No |
 | 7.62x54r.ru | No |
 | 9kb.me | No |
@@ -225,6 +224,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | c.im | Yes |
 | c4.social | No |
 | cafe.diagonalley.club | No |
+| caffeinated.social | Yes |
 | calculate.social | No |
 | campaign.openworlds.info | No |
 | campduffel.social | No |
@@ -377,6 +377,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | dobbs.town | No |
 | dog.estate | No |
 | don.bitma.st | No |
+| don.crakac.com | No |
 | don.gomasy.jp | Yes |
 | don.m2hq.net | No |
 | don.mamemo.online | Yes |
@@ -469,6 +470,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fandom.ink | Yes |
 | fanfare.horse | No |
 | fb.paulgeanta.com | No |
+| fearness.org | No |
 | fed.fab.industries | No |
 | fed.hvn.network | Yes |
 | fed.im | No |
@@ -619,6 +621,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gaychina.com | Yes |
 | gayhorse.club | No |
 | gayrobot.club | No |
+| gaze.live-on.net | No |
 | gazette.live | No |
 | gearlandia.haus | Yes |
 | gececibaykus.com | No |
@@ -670,6 +673,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gp.tsukimi.club | Yes |
 | gravure.club | No |
 | graz.social | No |
+| greatjustice.net | No |
 | greenish.red | Yes |
 | groundpolis.app | No |
 | groups.qoto.org | No |
@@ -971,7 +975,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | lou.lt | Yes |
 | loutre.info | No |
 | loveforlandlords.com | No |
-| lowkey.party | No |
 | lsngl.us | No |
 | lubar.me | Yes |
 | ludosphere.fr | No |
@@ -997,7 +1000,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.jinwei.me | Yes |
 | m.kirishima.cloud | No |
 | m.kretschmann.social | No |
-| m.kuko.hamburg | No |
 | m.moec.top | No |
 | m.moriya.faith | No |
 | m.mtlynch.io | No |
@@ -1451,6 +1453,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn-bike.net | No |
 | mstdn-jp.site | No |
 | mstdn.a-tak.com | No |
+| mstdn.alicia.ne.jp | No |
 | mstdn.anqou.net | Yes |
 | mstdn.asterism.xyz | Yes |
 | mstdn.b-shock.org | No |
@@ -1925,7 +1928,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | rcsocial.net | Yes |
 | real-escape.jp | Yes |
 | realabc.masto.host | No |
-| realize.be | No |
 | rebelbase.site | No |
 | reco.shrieker.net | No |
 | recurse.social | No |
@@ -2091,6 +2093,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.anon-groups.de | No |
 | social.anotherlooser.eu | No |
 | social.anoxinon.de | No |
+| social.anthro.cc | No |
 | social.antifa.gmbh | No |
 | social.anufrij.de | No |
 | social.apreslanu.it | No |
@@ -2125,7 +2128,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.chatterboxtown.us | No |
 | social.chilliet.eu | No |
 | social.city-of-glass.net | No |
-| social.cizmar.net | No |
 | social.cloudron.io | No |
 | social.cologne | No |
 | social.coop | Yes |
@@ -2217,6 +2219,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.lainon.life | No |
 | social.lansky.name | No |
 | social.laserbeam.productions | No |
+| social.levelxstudios.org | No |
 | social.liberta.vip | No |
 | social.libre.fi | No |
 | social.linux.pizza | No |
@@ -2276,6 +2279,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.qownnotes.org | Yes |
 | social.quodverum.com | No |
 | social.radio.af | No |
+| social.rat.cafe | No |
 | social.realnephestate.xyz | No |
 | social.rebellion.global | No |
 | social.regenpfeifer.net | No |
@@ -2368,7 +2372,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | socnet.supes.com | No |
 | solagg.com | Yes |
 | solarpunk.moe | No |
-| soloamigos.xyz | No |
 | some.eipystyilman.beer | No |
 | sometimes.when.computer | No |
 | sonomu.club | No |
@@ -2414,6 +2417,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sunisky.club | Yes |
 | surfin.dog | No |
 | sushi.ski | Yes |
+| svrdn.drillion.net | No |
 | swampfoxden.com | No |
 | swingset.social | No |
 | swiss-chaos.social | No |
@@ -2749,8 +2753,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 509 |
-| Normal | 2,203 |
+| Cloudflare | 510 |
+| Normal | 2,206 |
 
 
 ### 18.8% of public Fediverse services are using Cloudflare.
