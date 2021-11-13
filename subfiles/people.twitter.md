@@ -7,6 +7,7 @@
 
 
 
+- This fukin gay was scared f me and banned from his fukin SkidForums lol. Its original IP is 185.252.215.184 lurkin behind cloudflare. Now say in SB to hack ur fukin forum bitch. U jus copied RF, LOL. ([haxonghost](https://twitter.com/HaxonGhost/status/1459632935603249157))
 - 早上我突然收到了cloudflare的邮件，我注册的几个高价值域名在没有接到任何提前告知情况下， 突然被cloudflare 单方面全部deleted，域名每个价值都在3-5bitcoins，其中的四个域名我通过其他的渠道重新注册回来，但还有2个高价值域名我可能永远也拿不回来了. Cloudflare ([finalfantasy_io](https://twitter.com/finalfantasy_io/status/1448837038233374720))
 - Yep, literally said this in this tweet. It was me who was reporting Cloudflare as a fix yesterday. This is a new issue completely separate from the Google crawl error from this week. ([ichangedmyname](https://twitter.com/ichangedmyname/status/1459343581437739011))
 - Those following the Siteground saga, please help! I know they’ve just implemented a fix, but I’d just moved dns to Cloudflare successfully but now get a ‘redirect error’ when trying to index, is this something I can fix easily, or should I move back to SG and hope it is fixed? ([gregstr26](https://twitter.com/gregstr26/status/1459130164961493022))
