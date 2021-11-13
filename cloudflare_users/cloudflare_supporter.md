@@ -264,6 +264,7 @@ Do not create new issue or we will close it as duplicate.
 | [ALEXAND69307319@twitter](https://twitter.com/ALEXAND69307319/status/1380037455068471297) | advertise |
 | [alexdolbun@twitter](https://twitter.com/alexdolbun/status/1410279652116029443) | moral (advertise) |
 | [AlexNik14448676@twitter](https://twitter.com/AlexNik14448676/status/1404016449262284806) | advertise |
+| [alexroyce315@twitter](https://twitter.com/alexroyce315/status/1459396293596352513) | advertise |
 | [AlexTam64594150@twitter](https://twitter.com/AlexTam64594150/status/1399762018429673475) | advertise |
 | [Alexthegod0day@twitter](https://twitter.com/Alexthegod0day/status/1384346054011744258) | advertise |
 | [AlfatihAbdalla@twitter](https://twitter.com/AlfatihAbdalla/status/1442078849823563780) | advertise |
@@ -1118,6 +1119,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cu11164319@twitter](https://twitter.com/Cu11164319/status/1394557603087216642) | advertise |
 | [cu23806218@twitter](https://twitter.com/cu23806218/status/1380930066876534784) | advertise |
 | [cubdomain@twitter](https://twitter.com/cubdomain/status/1369941924308656128) | advertise |
+| [cucongcan@twitter](https://twitter.com/cucongcan/status/1459360460432556032) | advertise |
 | [cucqiridze2008@twitter](https://twitter.com/cucqiridze2008/status/1398249494425309187) | advertise |
 | [culyk666@twitter](https://twitter.com/culyk666/status/1400159126915715074) | advertise |
 | [cunconxinh008@twitter](https://twitter.com/cunconxinh008/status/1398304448074555394) | advertise |
@@ -4334,6 +4336,7 @@ Do not create new issue or we will close it as duplicate.
 | [peageruk@twitter](https://twitter.com/peageruk/status/1383275946296299520) | advertise |
 | [PedroLuisPrinc5@twitter](https://twitter.com/PedroLuisPrinc5/status/1406316703324254208) | advertise |
 | [PeenoiT@twitter](https://twitter.com/PeenoiT/status/1385082860080488452) | advertise |
+| [PeepoHost@twitter](https://twitter.com/PeepoHost/status/1459384527177101316) | advertise |
 | [Pein1911@twitter](https://twitter.com/Pein1911/status/1405534619005374468) | advertise |
 | [Pekhun1@twitter](https://twitter.com/Pekhun1/status/1389460278643871744) | advertise |
 | [pemburu_eth@twitter](https://twitter.com/pemburu_eth/status/1389253559103856644) | advertise |
