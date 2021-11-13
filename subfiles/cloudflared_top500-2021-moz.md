@@ -519,10 +519,10 @@ As of November 2021, most sites are still online.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare site | xxxxxxxxxxx |
-| Normal site | xxxxxxxxxxxxxxx |
+| Cloudflare site | 177 |
+| Normal site | 323 |
 
 -----
 
-# xx.x%
+# 35.4%
 ### of top most popular sites are using Cloudflare.
