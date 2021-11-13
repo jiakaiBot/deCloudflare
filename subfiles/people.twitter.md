@@ -7,6 +7,7 @@
 
 
 
+- Yep, literally said this in this tweet. It was me who was reporting Cloudflare as a fix yesterday. This is a new issue completely separate from the Google crawl error from this week. ([ichangedmyname](https://twitter.com/ichangedmyname/status/1459343581437739011))
 - Those following the Siteground saga, please help! I know they’ve just implemented a fix, but I’d just moved dns to Cloudflare successfully but now get a ‘redirect error’ when trying to index, is this something I can fix easily, or should I move back to SG and hope it is fixed? ([gregstr26](https://twitter.com/gregstr26/status/1459130164961493022))
 - Web page is being blocked. Some sort of Cloudflare failure. ([algernon_sydney](https://twitter.com/Algernon_Sydney/status/1457873197580230658))
 - Something is wrong with your payment processing. Getting errors about payment method not found. ([krisroadruck](https://twitter.com/KrisRoadruck/status/1458782922694184968))
