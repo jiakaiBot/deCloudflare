@@ -144,6 +144,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | barcelona.social | No |
 | barkshark.xyz | No |
 | barrett.dog | No |
+| based.social | Yes |
 | basedship.xyz | Yes |
 | battleangels.net | No |
 | bayfur.club | No |
@@ -247,6 +248,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cb.janusworx.com | No |
 | cbcmelbourne.life | No |
 | cdrom.tokyo | No |
+| cdstm.ch | No |
 | chabant.social | No |
 | chaos.social | No |
 | chaosphere.hostdon.jp | No |
@@ -309,8 +311,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | crowsnest.libre.audio | No |
 | crypt.lol | No |
 | ctu.cx | No |
-| cuban.social | Yes |
 | cum.desupost.soy | No |
+| cunny.finance | No |
 | curmudgeon.cafe | No |
 | cute.is | No |
 | cute.science | No |
@@ -457,6 +459,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | explosion.party | No |
 | f.3ischn.de | No |
 | f.freinetz.ch | No |
+| f.haeder.net | No |
 | f.jymuoyu.com | Yes |
 | f.praschnig.com | No |
 | f.prvcy.eu | No |
@@ -1195,7 +1198,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.man-ya.asia | No |
 | mastodon.matcha-soft.com | No |
 | mastodon.matrix.org | Yes |
-| mastodon.maxvolu.me | No |
 | mastodon.me.uk | Yes |
 | mastodon.mensoif.cf | No |
 | mastodon.mg | No |
@@ -1210,6 +1212,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.naii.io | No |
 | mastodon.natrinicle.com | No |
 | mastodon.neilzone.co.uk | No |
+| mastodon.nekocat.info | No |
 | mastodon.netheredge.com | No |
 | mastodon.nl | No |
 | mastodon.noraworld.com | No |
@@ -1306,7 +1309,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mcd.dk | No |
 | mcnamarii.town | No |
 | mctetsudou.net | No |
-| md.ggtea.org | No |
 | md.korako.me | Yes |
 | md.net-p.org | No |
 | md.xps2.net | Yes |
@@ -1380,6 +1382,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | misskey.omhnc.net | Yes |
 | misskey.open-w.net | Yes |
 | misskey.osyakasyama.me | No |
+| misskey.ranranhome.info | No |
 | misskey.ruste.red | No |
 | misskey.sc3.fun | Yes |
 | misskey.seediqbale.xyz | No |
@@ -1473,6 +1476,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.hitoxu.com | No |
 | mstdn.hiyuki2578.net | Yes |
 | mstdn.hokkaido.jp | No |
+| mstdn.hokkaidosm.net | No |
 | mstdn.home.neso.tech | No |
 | mstdn.hostdon.jp | No |
 | mstdn.ht164.jp | No |
@@ -1704,7 +1708,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | piggo.space | Yes |
 | ping.the-planet.space | No |
 | pinkorange.red | Yes |
-| piou.ark.lu | No |
 | pipou.academy | No |
 | pirate.chat | Yes |
 | pirati.ca | No |
@@ -1771,6 +1774,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.dark-alexandr.net | No |
 | pleroma.debian.social | No |
 | pleroma.doserver.duckdns.org | No |
+| pleroma.dragonborn.app | No |
 | pleroma.eientei.org | No |
 | pleroma.elinvention.ovh | No |
 | pleroma.elyat.im | No |
@@ -1790,6 +1794,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.jezra.net | No |
 | pleroma.karjalazet.se | No |
 | pleroma.kemonine.info | Yes |
+| pleroma.kitsunemimi.club | No |
 | pleroma.langmerah.net | No |
 | pleroma.ledoian.cz | No |
 | pleroma.lesateliersphv.net | No |
@@ -1797,6 +1802,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.lord.re | No |
 | pleroma.marud.fr | No |
 | pleroma.marussy.com | No |
+| pleroma.mass-trespass.uk | Yes |
 | pleroma.microkod.xyz | Yes |
 | pleroma.miguelcr.me | No |
 | pleroma.miria.love | No |
@@ -1864,7 +1870,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pouet.couchet.org | No |
 | pouet.it | No |
 | pouet.mickaelgillot.xyz | No |
-| pouet.panglossoft.fr | No |
 | pounced-on.me | No |
 | pouque.net | No |
 | ppl.town | No |
@@ -1879,6 +1884,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | propulse.club | No |
 | proyectozero.org | Yes |
 | prsm.space | No |
+| psyopshop.com | No |
 | pub.pm | No |
 | pub.yovko.net | Yes |
 | pullopen.xyz | Yes |
@@ -1915,6 +1921,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | raptol.net | No |
 | raru.re | No |
 | rats-at.work | No |
+| rawr.thefurrytiger.net | Yes |
 | rcsocial.net | Yes |
 | real-escape.jp | Yes |
 | realabc.masto.host | No |
@@ -1963,7 +1970,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | s.zholnay.name | No |
 | s10y.eu | No |
 | sabbat.hexe.net | No |
-| sad.cab | No |
 | saigyouji.cyou | Yes |
 | salesforce.social | No |
 | salon.fika.moe | No |
@@ -2239,6 +2245,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.mootech.eu | No |
 | social.nah.re | No |
 | social.namok.be | No |
+| social.ndn.digital | Yes |
 | social.nekover.se | Yes |
 | social.net.ua | No |
 | social.nevira.net | No |
@@ -2537,7 +2544,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | trans.fm | No |
 | transient.garden | No |
 | transmom.love | No |
-| travel-friends.chat | No |
 | travelpandas.fr | No |
 | triangletoot.party | No |
 | tristram.uber.space | No |
@@ -2586,7 +2592,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | under-bank.blue | No |
 | underground-side-kochira-kotonoha.xyz | No |
 | unexpected.singleuser.club | No |
-| unextro.net | No |
 | unholy-lair.69.mu | No |
 | unimatrix0.is | No |
 | unkomaker.hostdon.ne.jp | Yes |
@@ -2744,8 +2749,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 506 |
-| Normal | 2,201 |
+| Cloudflare | 509 |
+| Normal | 2,203 |
 
 
-### 18.7% of public Fediverse services are using Cloudflare.
+### 18.8% of public Fediverse services are using Cloudflare.
