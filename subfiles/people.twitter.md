@@ -7,6 +7,7 @@
 
 
 
+- Well I tracked him back to Sophia Bulgaria where he had hacked into one of Cloudflare's servers. Filed a local PD report, an FBI IC3, & notified Cloudflare's Admin folks. Spoke with the Spec. Agent in charge. Don't think he knew who he was fucking w/. ([tentacle_pup](https://twitter.com/tentacle_pup/status/1459666097070911488))
 - This fukin gay was scared f me and banned from his fukin SkidForums lol. Its original IP is 185.252.215.184 lurkin behind cloudflare. Now say in SB to hack ur fukin forum bitch. U jus copied RF, LOL. ([haxonghost](https://twitter.com/HaxonGhost/status/1459632935603249157))
 - 早上我突然收到了cloudflare的邮件，我注册的几个高价值域名在没有接到任何提前告知情况下， 突然被cloudflare 单方面全部deleted，域名每个价值都在3-5bitcoins，其中的四个域名我通过其他的渠道重新注册回来，但还有2个高价值域名我可能永远也拿不回来了. Cloudflare ([finalfantasy_io](https://twitter.com/finalfantasy_io/status/1448837038233374720))
 - Yep, literally said this in this tweet. It was me who was reporting Cloudflare as a fix yesterday. This is a new issue completely separate from the Google crawl error from this week. ([ichangedmyname](https://twitter.com/ichangedmyname/status/1459343581437739011))
