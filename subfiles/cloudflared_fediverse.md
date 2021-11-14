@@ -304,7 +304,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | corginet.duckdns.org | No |
 | cornerof.world | No |
 | cornichon.me | No |
-| corrupteddreams.com | No |
 | cosmos.social | Yes |
 | counter.fedi.live | No |
 | critter.camp | No |
@@ -787,7 +786,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ifwo.eu | No |
 | ihatebeinga.live | Yes |
 | ika.queloud.net | No |
-| ikbenpiraat.nl | No |
 | ilias.church | No |
 | ilja.space | No |
 | im-in.space | No |
@@ -843,7 +841,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | jmm.kr | Yes |
 | jonleibowitz.social | Yes |
 | jorts.horse | No |
-| jrgnsn.social | No |
 | jubi.life | No |
 | juju.house | No |
 | jumanji.co | No |
@@ -857,6 +854,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kanina.be | No |
 | kanoa.de | No |
 | kapocs.urbalazs.hu | No |
+| karagedon.com | No |
 | kasma.cyou | No |
 | kawaii.kitsune.cafe | No |
 | kawen.space | No |
@@ -964,6 +962,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | linuxrocks.online | No |
 | literatur.social | No |
 | litterae.social | No |
+| live4you.one | Yes |
 | liveplatform.ca | No |
 | lizards.live | No |
 | loci.onl | No |
@@ -1056,7 +1055,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastchan.org | No |
 | mastd.racing | No |
 | masthead.social | Yes |
-| mastio.nl | No |
 | masto.1146.nohost.me | No |
 | masto.asonix.dog | No |
 | masto.beer | No |
@@ -1252,6 +1250,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.satoshishop.de | No |
 | mastodon.savvy.ch | No |
 | mastodon.sbs | No |
+| mastodon.schoentoon.com | No |
 | mastodon.scot | No |
 | mastodon.sdf.org | No |
 | mastodon.se | No |
@@ -1651,7 +1650,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | onlinegemein.de | No |
 | onlycasino.legal | Yes |
 | oo.tc | No |
-| oour.org | No |
 | openbiblio.social | No |
 | opensocial.at | No |
 | oran.ski | No |
@@ -1839,6 +1837,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.wakuwakup.net | Yes |
 | pleroma.wolfie.pw | No |
 | pleroma.xmanifesto.club | No |
+| plrm.lunarviews.net | No |
 | plshug.me | No |
 | plural.cafe | No |
 | plush.city | No |
@@ -1975,7 +1974,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | saigyouji.cyou | Yes |
 | salesforce.social | No |
 | salon.fika.moe | No |
-| san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
 | sanguinem.space | No |
 | sarcasm.stream | No |
@@ -2133,7 +2131,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.coop | Yes |
 | social.creatureofthehill.com | No |
 | social.cryptography.dog | No |
-| social.cyannyan.com | Yes |
 | social.cybre.city | No |
 | social.da-am.com | Yes |
 | social.danksquad.org | No |
@@ -2370,6 +2367,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sociopak.com | No |
 | socks.pinnoto.org | No |
 | socnet.supes.com | No |
+| softgirl.online | No |
 | solagg.com | Yes |
 | solarpunk.moe | No |
 | some.eipystyilman.beer | No |
@@ -2754,7 +2752,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 510 |
-| Normal | 2,206 |
+| Normal | 2,204 |
 
 
 ### 18.8% of public Fediverse services are using Cloudflare.
