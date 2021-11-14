@@ -5150,6 +5150,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sn07852953@twitter](https://twitter.com/Sn07852953/status/1386022348285890560) | advertise |
 | [sn48891210@twitter](https://twitter.com/sn48891210/status/1385648532909039618) | advertise |
 | [sn58893213@twitter](https://twitter.com/sn58893213/status/1380081314502610946) | advertise |
+| [snackpackwayne@twitter](https://twitter.com/snackpackwayne/status/1459543560332746758) | advertise |
 | [SnailDOS@twitter](https://twitter.com/SnailDOS/status/1423436038203076610) | advertise |
 | [Snake88578323@twitter](https://twitter.com/Snake88578323/status/1395017607909044230) | advertise |
 | [Snakyacidkiss@twitter](https://twitter.com/Snakyacidkiss/status/1389092757881249793) | advertise |
