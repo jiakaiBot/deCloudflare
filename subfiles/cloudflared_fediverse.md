@@ -172,6 +172,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | birdity.club | No |
 | birds.garden | No |
 | biscuit.town | No |
+| bitacadie.com | No |
 | bitcoinhackers.org | Yes |
 | bitcoinlizard.net | No |
 | bittube.social | No |
@@ -265,6 +266,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | chirpi.de | No |
 | chitter.xyz | No |
 | chokecherry.cc | Yes |
+| chungus.cc | No |
 | cipioshouse.xyz | Yes |
 | clacks.link | No |
 | claristdon.link | No |
@@ -407,7 +409,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | dustinwilson.com | No |
 | dyketwitter.masto.host | No |
 | dynlinux.io | No |
-| eagleandserpent.club | No |
 | easy.saramara.ai | No |
 | eattherich.club | No |
 | eay.social | No |
@@ -792,7 +793,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ilja.space | No |
 | im-in.space | No |
 | im.allmendenetz.de | No |
-| im.sb | No |
 | im.thymrios.com | No |
 | imaginair.es | No |
 | imastodon.net | No |
@@ -851,6 +851,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | jv-net.digital | No |
 | k-shiigi-136.masto.host | No |
 | k.lapy.link | Yes |
+| kafuka.me | No |
 | kagamisskey.com | Yes |
 | kancolle.social | No |
 | kanina.be | No |
@@ -1060,7 +1061,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | masto.1146.nohost.me | No |
 | masto.asonix.dog | No |
 | masto.beer | No |
-| masto.bobbybasement.noho.st | No |
 | masto.dashten.dev | No |
 | masto.donte.com.br | Yes |
 | masto.evelynyap.com | No |
@@ -1115,6 +1115,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.cosmicanimal.jp | No |
 | mastodon.crazynewworld.net | Yes |
 | mastodon.ctseuro.com | No |
+| mastodon.darkou.fr | No |
 | mastodon.dbatley.com | No |
 | mastodon.derveni.org | No |
 | mastodon.design | No |
@@ -1216,7 +1217,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.natrinicle.com | No |
 | mastodon.neilzone.co.uk | No |
 | mastodon.nekocat.info | No |
-| mastodon.netheredge.com | No |
 | mastodon.nl | No |
 | mastodon.noraworld.com | No |
 | mastodon.nu | No |
@@ -1502,7 +1502,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.mell0w-5phere.net | No |
 | mstdn.mimikun.jp | Yes |
 | mstdn.mini4wd-engineer.com | No |
-| mstdn.misoni.me | No |
+| mstdn.misoni.me | Yes |
 | mstdn.misosi.ru | Yes |
 | mstdn.moe | Yes |
 | mstdn.mx | Yes |
@@ -1635,7 +1635,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | obese.cat | No |
 | oc.todon.fr | No |
 | occitanie.social | No |
-| occm.masto.host | No |
 | occult-zuki.com | No |
 | occult.institute | No |
 | ocf.masto.host | No |
@@ -1702,6 +1701,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | petronel.info | No |
 | pettingzoo.co | No |
 | pforzelona.club | No |
+| pgp.cool | Yes |
 | philos.fkn-systems.de | No |
 | photodn.net | No |
 | photog.social | No |
@@ -1870,7 +1870,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | potate.space | No |
 | pouet.april.org | No |
 | pouet.chapril.org | No |
-| pouet.couchet.org | No |
 | pouet.it | No |
 | pouet.mickaelgillot.xyz | No |
 | pounced-on.me | No |
@@ -1902,7 +1901,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | quarteredcircle.net | No |
 | queer.af | No |
 | queer.garden | No |
-| queer.hacktivis.me | No |
 | queer.haus | No |
 | queer.party | No |
 | queerdorks.club | No |
@@ -1923,6 +1921,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ranran.tw | No |
 | raptol.net | No |
 | raru.re | No |
+| raspidon.mamemo.online | Yes |
 | rats-at.work | No |
 | rawr.thefurrytiger.net | Yes |
 | rcsocial.net | Yes |
@@ -1958,6 +1957,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | rpvortex.online | No |
 | ru.social | No |
 | rubber.social | No |
+| rubi.gd | Yes |
 | ruby.social | No |
 | ruhr.social | No |
 | russtodon.ru | Yes |
@@ -2015,7 +2015,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | shelter.moe | No |
 | shigusegubu.club | No |
 | shiina.cafe | No |
-| shin.pp.ua | No |
 | shiro.dog | No |
 | shitpisscum.mooo.com | No |
 | shitpost.poridge.club | No |
@@ -2105,7 +2104,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.azure.icu | Yes |
 | social.b10m.net | No |
 | social.barany.at | No |
-| social.basementcomputer.site | No |
 | social.bau-ha.us | No |
 | social.beachcom.org | No |
 | social.beckmeyer.us | No |
@@ -2209,6 +2207,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.kindbook.us | No |
 | social.kinl.gq | No |
 | social.kithop.ca | No |
+| social.ksite.de | No |
 | social.kuester7.com | No |
 | social.kyushojitsu.ca | No |
 | social.lacoloc.cafe | No |
@@ -2243,7 +2242,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.mofu2charger-listenradio.net | No |
 | social.mootech.eu | No |
 | social.nah.re | No |
-| social.namok.be | No |
 | social.ndn.digital | Yes |
 | social.nekover.se | Yes |
 | social.net.ua | No |
@@ -2747,8 +2745,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 511 |
-| Normal | 2,199 |
+| Cloudflare | 515 |
+| Normal | 2,193 |
 
 
-### 18.9% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
