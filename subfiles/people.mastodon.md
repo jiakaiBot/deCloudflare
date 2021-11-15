@@ -7,6 +7,7 @@
 
 
 
+- oh a related note we now use cloudflare at work ([fristi](https://mk.toast.cafe/notes/8t4gwqt762))
 - CloudFlareかと思うじゃん？ サンノゼからpingしてみたら海外と東京を結ぶIXで問題が起きてた ([cyberrex_v2](https://misskey.io/notes/8t41azoqvr))
 - まだCloudFlareの問題の可能性も否定しきれてない。Linodeの問題がでてきた。Wasabiは健全な可能性が高い。ネットワーク関係で何かが起こっている可能性が大 ([mamemomonga](https://momo.mame.moe/@mamemomonga/107280424921231605))
 - そうそう、LinodeでWasabiにcurlしたら詰まる。なのでCloudFlareの可能性は低い ([mamemomonga](https://momo.mame.moe/@mamemomonga/107280451970226747))
