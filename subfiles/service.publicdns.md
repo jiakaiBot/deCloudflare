@@ -6,9 +6,9 @@
 - No logs. No statistics. No collection. Plain simple DNS!
 - Block sites using Cloudflare.
   - DNS will return empty result if the answer IP is Cloudflare.
-- Block adverts, trackers, adware, malware sites.
+- Block [adverts, trackers, adware, malware](https://github.com/StevenBlack/hosts/) sites.
 - Randomly pick good DNS root servers.
-- Block DNS-rebind attack.
+- Block [DNS-rebind](https://en.wikipedia.org/wiki/DNS_rebinding) attack.
 
 
 | Type | Value | Example |
