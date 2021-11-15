@@ -7,6 +7,9 @@
 
 
 
+- CloudFlareかと思うじゃん？ サンノゼからpingしてみたら海外と東京を結ぶIXで問題が起きてた ([cyberrex_v2](https://misskey.io/notes/8t41azoqvr))
+- まだCloudFlareの問題の可能性も否定しきれてない。Linodeの問題がでてきた。Wasabiは健全な可能性が高い。ネットワーク関係で何かが起こっている可能性が大 ([mamemomonga](https://momo.mame.moe/@mamemomonga/107280424921231605))
+- そうそう、LinodeでWasabiにcurlしたら詰まる。なのでCloudFlareの可能性は低い ([mamemomonga](https://momo.mame.moe/@mamemomonga/107280451970226747))
 - あ〜、CloudFlareは大丈夫か、やっぱWasabi?? ([mamemomonga](https://momo.mame.moe/@mamemomonga/107280166309645512))
 - At #Bunnings Warehouse we value your… oh piss off, we send all your data to #Cloudflare. …and don't contact our &quot;#PrivacyTeam&quot; to have your data removed from our system. Not only will we abuse you. We won't remove your data because &quot;your data belongs to you&quot; so &quot;we&quot; can't remove it from #ourServers. #yourDataBelongsToYou #abuseOfProcess #language #semantics #doublespeak #Orwellian #1984world #privacy #MITMAttack #MITMaaS #unethical #australia #bunningsWarehouse ([dsfgs](https://activism.openworlds.info/@dsfgs/107280216493492611))
 - CloudFlareのサービス一覧とかドキュメント読んでて思ったけど本当に極端にゴママヨ多い ([thinaticsystem](https://honi.club/notes/8t3q2vvi8w))
