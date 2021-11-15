@@ -7,6 +7,19 @@
 
 
 
+- 絵文字類、Cloudflareでキャッシュが効いてないっぽい ([frfr](https://sushi.ski/notes/8ry6074vg2))
+- なんとなくなんかTimeoutとか吐いてCloudFlareがやっていった気がする ([mewl](https://mewl.me/notes/817cc06c93cb0888b86d5e53))
+- nginxなりCloudFlareなりでのアップロードサイズ制限に引っかかるファイルはこれでアップロードが可能 ([mewl](https://mewl.me/notes/817cc6a69a32eb41f8308b4e))
+- さくらインターネットのドメインサービスから登録している3つのドメインを他に移管中。comドメインはcloudflareが更新料年8ドルらしいのでそっちへ。 ([popn_ja](https://popon.pptdn.jp/@popn_ja/107200892406966370))
+- CloudFlareご機嫌斜めだなー ([highemerly](https://handon.club/@highemerly/107253269269691759))
+- server:cloudflareになって死ぬほどイライラしてる #bot ([juniper](https://ap.jadiunr.net/@juniper/107253688027120058))
+- @karasu_sue lm.korako.me が不安定な感じですね。 Cloudflare由来だと思うのですが、認証で522が返ってきたりします。 ([pooza](https://mstdn.b-shock.org/@pooza/107261329005265789))
+- うーーん CloudFlare調子悪すぎんな ([highemerly](https://handon.club/@highemerly/107264548707386202))
+- tor、i2p等：プライバシーは大切だ、特に今の時代で（onion・eepnet、PHP、軽いネット、フェディバース、XMPP、ドメインは不要、SSL証明書は不要、無政府、モネロ…） 一般ネット：あほくさ（クラウドフレア、javascript、グーグル、フェイクブック、ユーチューブ、ドメイン登録は必須、SSL証明書は必須、デジタル監視、ディスコード、zoom、ドージコイン…） ([technicalsuwako](https://social.076.ne.jp/objects/495bec4a-8e7b-42f7-9242-cd841810c1a1))
+- やるならCloudFlare？の設定で ([cyberrex_v2](https://misskey.io/notes/8t3but8dw8))
+- cloudflareを使ったhttps化、邪道感がすごいある ([kpherox](https://pl.kpherox.dev/objects/08b243b5-429e-43d1-be23-54bce43c1b78))
+- やっぱCloudFlare情けないな ([thinaticsystem](https://honi.club/notes/8t3nez2yyh))
+- 人類クラウドフレアにたよりがち ([s_ptf](https://misskey.omhnc.net/notes/8t3ng0a9i1))
 - Hi we are an Aussie bank that believes in community. Here's some stuff you can buy for #Christmas. A lot is made using #slaveConditions overseas. But we put a coloured person on the front page so its cool. Right? Oh our banking website goes through Cloudflare too — because f&amp;ck you. #virtueSignalling #pinkWashing #moneyPrinterGoDrr #bankerCrimes #whyBitcoinCore ([dsfgs](https://activism.openworlds.info/@dsfgs/107262891113254140))
 - If your business uses #cloudflare please stop it. LOL ([pj](https://bitcoinhackers.org/@pj/107265910250272583))
 - @Blort @twann @biguenique #Matrix has a #Cloudflare website which is a big red flag. It immediately calls into the question the competency and ethics of that project. #Snikket looks more on the ball. ([koherecowatchdog](https://freeradical.zone/@koherecoWatchdog/107260202192990500))
