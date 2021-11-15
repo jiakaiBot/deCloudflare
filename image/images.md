@@ -45,6 +45,6 @@
 | ![](cfeu2018.gif) | ![](dmca9justin.gif) | ![](jamie_tomasello.gif) | ![](smellslikebs.gif) |
 | ![](altlink_sample.jpg) | ![](cfinside_etcher.jpg) | ![](dnsset-doh.jpg) | ![](dnsset-dot.jpg) |
 | ![](omsredjs.jpg) | ![](cfdown_2021-07-02.jpg) | ![](cfcommunity_ban.jpg) | ![](green_vehicles_cloudflare.jpg) |
-| ![](ban_altlink_eldritch.cafe.jpg) | ![](ban_altlink_mastodon.social.jpg) | ![](mastodon_hide_boosts.jpg) | ![](covflare.jpg) |
+| ![](ban_altlink_eldritch.cafe.jpg) | ![](ban_altlink_mastodon.social.jpg) | ![](altlink_suggest.jpg) | ![](covflare.jpg) |
 | ![](cfspam04.jpg) | ![](cfspam05.jpg) | ![](blockedbymatthewprince4.jpg) | ![](twitter_cloudflare_hide_reply.jpg) |
-| ![](altlink_sample_irc.jpg) | ![](altlink_suggest.jpg) | - | - |
+| ![](altlink_sample_irc.jpg) | - | - | - |
