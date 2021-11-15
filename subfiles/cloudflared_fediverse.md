@@ -59,6 +59,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | aana.site | No |
 | abdl.link | Yes |
 | abhlach.ie | No |
+| abolition.online | No |
 | abolition.town | No |
 | abyss.fun | Yes |
 | abyss.observer | No |
@@ -102,6 +103,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ap.ketsuben.red | No |
 | apeiron.aire.ml | No |
 | appdot.net | No |
+| applin.club | No |
 | ar.akarinext.org | Yes |
 | arcade.ooo | Yes |
 | area51.tinfoil-hat.net | No |
@@ -269,7 +271,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | chungus.cc | No |
 | cipioshouse.xyz | Yes |
 | clacks.link | No |
-| claristdon.link | No |
 | climatejustice.global | No |
 | climatejustice.social | No |
 | cliq.social | No |
@@ -344,7 +345,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | decentralised.social | No |
 | decept.org | No |
 | delaeuforia.com | Yes |
-| delirium.masto.host | No |
 | democracy.town | No |
 | demon.social | No |
 | descentraliza.me | No |
@@ -487,6 +487,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.anarchy.moe | No |
 | fedi.circuitlocution.com | No |
 | fedi.club | No |
+| fedi.fai.st | No |
 | fedi.fancycade.xyz | No |
 | fedi.fit | No |
 | fedi.fullstuck.net | No |
@@ -716,6 +717,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hellsite.site | No |
 | henshaw.social | Yes |
 | hereiszyn.com | No |
+| heresy.cc | No |
 | hessen.social | No |
 | hexadon.net | No |
 | hi.moe.tips | Yes |
@@ -925,6 +927,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | leafposter.club | No |
 | leanbay.box.phasebulk.cloudns.nz | No |
 | lediver.se | No |
+| leftofliberal.duckdns.org | No |
 | legal.social | No |
 | lejaua6.club | No |
 | lemuspeschel.com | Yes |
@@ -941,6 +944,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | lgbt.im | No |
 | lgbt.io | No |
 | lhub.social | No |
+| lia.fail | No |
 | libera.tokyo | No |
 | liberal.city | No |
 | liberalism.masto.host | No |
@@ -1088,7 +1092,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.arch-linux.cz | No |
 | mastodon.art | No |
 | mastodon.astrr.ru | Yes |
-| mastodon.atikoro.net | No |
 | mastodon.aventer.biz | No |
 | mastodon.b3by3.com | Yes |
 | mastodon.bachgau.social | No |
@@ -1355,6 +1358,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | microhive.net | No |
 | midnightride.rs | No |
 | mikumikudance.cloud | Yes |
+| milker.cafe | No |
 | milkey.homes | Yes |
 | mindset.rage.lol | No |
 | minidisc.tokyo | No |
@@ -1425,6 +1429,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.vibbe.xyz | No |
 | mk.vulpes.one | No |
 | mk.wataame.cafe | No |
+| mk.wolfie.pw | No |
 | mo-na.space | No |
 | moc.d-x-b.com | No |
 | moe.cat | No |
@@ -1520,6 +1525,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.progressiv.dev | No |
 | mstdn.res.ac | No |
 | mstdn.rinsuki.net | Yes |
+| mstdn.ropo.jp | No |
 | mstdn.ryanak.xyz | Yes |
 | mstdn.schoolidol.club | No |
 | mstdn.social | No |
@@ -1624,6 +1630,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | nuklear.family | No |
 | nulled.pink | Yes |
 | nvdc.eu | No |
+| nya.coffee | Yes |
 | nya.lemonade.moe | Yes |
 | nya.one | Yes |
 | nya.social | No |
@@ -1650,6 +1657,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | online-hangout.com | No |
 | onlinegemein.de | No |
 | onlycasino.legal | Yes |
+| onsen-musume.fun | Yes |
 | oo.tc | No |
 | openbiblio.social | No |
 | opensocial.at | No |
@@ -1875,7 +1883,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pounced-on.me | No |
 | pouque.net | No |
 | ppl.town | No |
-| pqc.io | No |
 | pr0mised.life | Yes |
 | precure.ml | No |
 | prieb.social | No |
@@ -2122,7 +2129,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.canony.xyz | No |
 | social.centreforthestudyof.net | No |
 | social.chatterboxtown.us | No |
-| social.chilliet.eu | No |
 | social.city-of-glass.net | No |
 | social.cloudron.io | No |
 | social.cologne | No |
@@ -2322,7 +2328,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.thecrow.uk | No |
 | social.thiskurt.me | No |
 | social.tmprs.net | No |
-| social.tofu.kim | Yes |
 | social.tonholzpixel.de | No |
 | social.touha.me | No |
 | social.tourmentine.com | No |
@@ -2745,8 +2750,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 515 |
-| Normal | 2,193 |
+| Cloudflare | 516 |
+| Normal | 2,197 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
