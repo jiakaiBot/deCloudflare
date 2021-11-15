@@ -34,6 +34,7 @@ When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) Clo
 - #isthiscloudflare
 - #mitmtest
 - #internetfreedomtest
+- #walledgarden
 
 
 ### Example of usage
