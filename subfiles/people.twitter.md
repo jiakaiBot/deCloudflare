@@ -7,6 +7,7 @@
 
 
 
+- というかHTTPステータス520「Web Server Returned an Unknown Error」って初めてみたんですがCloudflare系のエラーなのね。 ([asrlab](https://twitter.com/asrlab/status/1460086303307939840))
 - So if i just screenshot before the names before i deleted and put in the cloudflare ones i can just put it back? I’ve left thinking they’ve fixed it and just need a feed a few hours but i’m not convinced they have fixed it! ([sarah_go_green](https://twitter.com/sarah_go_green/status/1459198867531079694))
 - You can profit off of providing a decentralized & open platform, that was pretty damn tricky (if not outright impossible) with the old ways. 2 - You don't own domains nowadays. ICANN, or IP giants like CloudFlare, can censor you if they choose to. ([siredspace](https://twitter.com/SiredSpace/status/1458271650101739522))
 - Et les performances du site aussi :/ C'est blindé de captcha cloudflare partout, la session qui se déconnecte en moins de 10 minutes etc ... Avec également le % de profit calculé sur la somme finale et non sur la somme dépensée. ([mattetlefric](https://twitter.com/MattEtLeFric/status/1459648752914939904))
