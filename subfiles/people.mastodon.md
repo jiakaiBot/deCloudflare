@@ -7,6 +7,7 @@
 
 
 
+- あ〜、CloudFlareは大丈夫か、やっぱWasabi?? ([mamemomonga](https://momo.mame.moe/@mamemomonga/107280166309645512))
 - At #Bunnings Warehouse we value your… oh piss off, we send all your data to #Cloudflare. …and don't contact our &quot;#PrivacyTeam&quot; to have your data removed from our system. Not only will we abuse you. We won't remove your data because &quot;your data belongs to you&quot; so &quot;we&quot; can't remove it from #ourServers. #yourDataBelongsToYou #abuseOfProcess #language #semantics #doublespeak #Orwellian #1984world #privacy #MITMAttack #MITMaaS #unethical #australia #bunningsWarehouse ([dsfgs](https://activism.openworlds.info/@dsfgs/107280216493492611))
 - CloudFlareのサービス一覧とかドキュメント読んでて思ったけど本当に極端にゴママヨ多い ([thinaticsystem](https://honi.club/notes/8t3q2vvi8w))
 - 絵文字類、Cloudflareでキャッシュが効いてないっぽい ([frfr](https://sushi.ski/notes/8ry6074vg2))
