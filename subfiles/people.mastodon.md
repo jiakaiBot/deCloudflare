@@ -7,6 +7,7 @@
 
 
 
+- CloudFlareのサービス一覧とかドキュメント読んでて思ったけど本当に極端にゴママヨ多い ([thinaticsystem](https://honi.club/notes/8t3q2vvi8w))
 - 絵文字類、Cloudflareでキャッシュが効いてないっぽい ([frfr](https://sushi.ski/notes/8ry6074vg2))
 - なんとなくなんかTimeoutとか吐いてCloudFlareがやっていった気がする ([mewl](https://mewl.me/notes/817cc06c93cb0888b86d5e53))
 - nginxなりCloudFlareなりでのアップロードサイズ制限に引っかかるファイルはこれでアップロードが可能 ([mewl](https://mewl.me/notes/817cc6a69a32eb41f8308b4e))
