@@ -7,6 +7,9 @@
 
 
 
+- 1/2 you don’t need an enterprise subscription to submit a bot to be verified. the list is for bot owners whose automated calls are getting blocked by our BM systems (and is traffic our users typically want to reach their applications). if your calls are being blocked by sites ([prdonahue](https://twitter.com/prdonahue/status/1460106273916080132))
+- that's a specific flag for use within firewall rules, but the verified bot list works automatically in super bot fight mode (non-enterprise). can you open a support ticket with details/reproducible error and DM me the ticket ? ([prdonahue](https://twitter.com/prdonahue/status/1460107443023851523))
+- Sounds good - right now if I try to use the blogging stuff it freezes for like 5 minutes then gives me a cloudflare error.... :( ([markymarg2](https://twitter.com/MarkyMarg2/status/1458222729459486724))
 - というかHTTPステータス520「Web Server Returned an Unknown Error」って初めてみたんですがCloudflare系のエラーなのね。 ([asrlab](https://twitter.com/asrlab/status/1460086303307939840))
 - So if i just screenshot before the names before i deleted and put in the cloudflare ones i can just put it back? I’ve left thinking they’ve fixed it and just need a feed a few hours but i’m not convinced they have fixed it! ([sarah_go_green](https://twitter.com/sarah_go_green/status/1459198867531079694))
 - You can profit off of providing a decentralized & open platform, that was pretty damn tricky (if not outright impossible) with the old ways. 2 - You don't own domains nowadays. ICANN, or IP giants like CloudFlare, can censor you if they choose to. ([siredspace](https://twitter.com/SiredSpace/status/1458271650101739522))
