@@ -1233,6 +1233,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dazai06731634@twitter](https://twitter.com/Dazai06731634/status/1394310699132891138) | advertise |
 | [Dazai_yebo@twitter](https://twitter.com/Dazai_yebo/status/1404095489629380611) | advertise |
 | [db739dc8697c4fd@twitter](https://twitter.com/db739dc8697c4fd/status/1376869447944695812) | advertise |
+| [Dcralph_@twitter](https://twitter.com/Dcralph_/status/1460151745284243460) | advertise |
 | [dcrimyz@twitter](https://twitter.com/dcrimyz/status/1399029992374239233) | advertise |
 | [ddkatsios@twitter](https://twitter.com/ddkatsios/status/1398632489028104192) | advertise |
 | [De6Bi@twitter](https://twitter.com/De6Bi/status/1401432705661693956) | advertise |
@@ -1556,6 +1557,7 @@ Do not create new issue or we will close it as duplicate.
 | [fidextech@twitter](https://twitter.com/fidextech/status/1429168336949194760) | advertise |
 | [FidoDid92657838@twitter](https://twitter.com/FidoDid92657838/status/1380034979485257731) | advertise |
 | [fifa606@twitter](https://twitter.com/fifa606/status/1400210766922387458) | advertise |
+| [FightCensorsh1p@twitter](https://twitter.com/FightCensorsh1p/status/1460200334027071491) | advertise |
 | [FighterMintar@twitter](https://twitter.com/FighterMintar/status/1390671761302179844) | advertise |
 | [FigureParental@twitter](https://twitter.com/FigureParental/status/1402621728266674183) | advertise |
 | [fikiimaulana@twitter](https://twitter.com/fikiimaulana/status/1420208000560549888) | advertise |
