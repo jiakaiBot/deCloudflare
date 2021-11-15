@@ -1255,6 +1255,7 @@ Do not create new issue or we will close it as duplicate.
 | [Demon95990507@twitter](https://twitter.com/Demon95990507/status/1393209524639604739) | advertise |
 | [DemonFighter17@twitter](https://twitter.com/DemonFighter17/status/1379994239073976325) | advertise |
 | [Deniel15604448@twitter](https://twitter.com/Deniel15604448/status/1393749914736234498) | advertise |
+| [dennis_mcodhis@twitter](https://twitter.com/dennis_mcodhis/status/1459941166514950159) | advertise |
 | [Deon24535935@twitter](https://twitter.com/Deon24535935/status/1399325913121177601) | advertise |
 | [DepRed7@twitter](https://twitter.com/DepRed7/status/1395675931356766212) | advertise |
 | [Deril93219597@twitter](https://twitter.com/Deril93219597/status/1385613158123900931) | advertise |
@@ -3292,6 +3293,7 @@ Do not create new issue or we will close it as duplicate.
 | [MarioSt40@twitter](https://twitter.com/MarioSt40/status/1393686702082772993) | advertise |
 | [mariphue@twitter](https://twitter.com/mariphue/status/1391398318329188354) | advertise |
 | [MarkarMark@twitter](https://twitter.com/MarkarMark/status/1401620432868941824) | advertise |
+| [markaseddon@twitter](https://twitter.com/markaseddon/status/1459934492236333063) | advertise |
 | [MarketingNmu@twitter](https://twitter.com/MarketingNmu/status/1422534916932132876) | advertise |
 | [MarketYourBizAg@twitter](https://twitter.com/MarketYourBizAg/status/1389379097118183428) | advertise |
 | [Marky37711385@twitter](https://twitter.com/Marky37711385/status/1401925640610369539) | advertise |
@@ -5951,6 +5953,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vikash21323126@twitter](https://twitter.com/Vikash21323126/status/1397484619818094592) | advertise |
 | [Vikram80941153@twitter](https://twitter.com/Vikram80941153/status/1396502759730388993) | advertise |
 | [villas2@twitter](https://twitter.com/villas2/status/1411462670532943876) | moral (advertise) |
+| [VinceAgwada@twitter](https://twitter.com/VinceAgwada/status/1459889193476263939) | advertise |
 | [Vincent38099573@twitter](https://twitter.com/Vincent38099573/status/1381281485987061768) | advertise |
 | [vinhngu79083341@twitter](https://twitter.com/vinhngu79083341/status/1386229081218306048) | advertise |
 | [VinhPhu11882452@twitter](https://twitter.com/VinhPhu11882452/status/1399627549534310401) | advertise |
