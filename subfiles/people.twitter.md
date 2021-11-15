@@ -7,6 +7,8 @@
 
 
 
+- Any idea what's going on there? Site's been inaccessible for about a week, now. Is Cloudflare blocking our access? ([frankpa88333108](https://twitter.com/FrankPa88333108/status/1460335696238026763))
+- yeah, the cloudflare links throws either a 524 or 429 error ([platocrat](https://twitter.com/platocrat/status/1460337384248152067))
 - If I open my account it’s Error I try to open but they said time out ([captainopare](https://twitter.com/CaptainOpare/status/1460249219848155140))
 - 1/2 you don’t need an enterprise subscription to submit a bot to be verified. the list is for bot owners whose automated calls are getting blocked by our BM systems (and is traffic our users typically want to reach their applications). if your calls are being blocked by sites ([prdonahue](https://twitter.com/prdonahue/status/1460106273916080132))
 - that's a specific flag for use within firewall rules, but the verified bot list works automatically in super bot fight mode (non-enterprise). can you open a support ticket with details/reproducible error and DM me the ticket ? ([prdonahue](https://twitter.com/prdonahue/status/1460107443023851523))
