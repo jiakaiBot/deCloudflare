@@ -7,6 +7,8 @@
 
 
 
+- Cloudflare went down. "CloudFlare is becoming a huge single point of failure for the Internet." reddit post deleted though ([s1lverfox](https://twitter.com/s1lverFoX/status/1460697380135882752))
+- It seems like the attackers have moved from Telnyx to Iristel. This won't stop till everyone is behind CloudFlare. ([dovid](https://twitter.com/Dovid/status/1460400835297517569))
 - can you please turn off the captcha cloudflare check for your website PLEASE!!!! It doesn't work correctly, and I have to try the stupid thing 50 times before it lets me in ([ignat980](https://twitter.com/Ignat980/status/1460715902899474436))
 - Long story, but Cloudflare was blocking legitimate traffic with significant implications. ([mragucci](https://twitter.com/mragucci/status/1460696503136182283))
 - I wish that Cloudflare documentation would not be such a pita to read. For example, what do the different sensitivity levels "high", "medium" and "low" mean for the managed ruleset (eg HTTP error rate is above the sensitivity level)???? Or why does CF ignore HTTP 429 responses? ([rainbowderpyyay](https://twitter.com/RainbowDerpyYaY/status/1460671862380322817))
