@@ -7,6 +7,9 @@
 
 
 
+- cloudflare down again we should stop using big website that use cloudflare ([the_oio](https://twitter.com/The_oio/status/1460667924616777737))
+- nevermind FUCK THISJOKE DOESNT WORK I THOUGHT IT WAS CLOUDFLARE ([elisttm](https://twitter.com/elisttm/status/1460667706764664838))
+- The fuck fr? Alright bro global outage v2 LETS GOO ([alter_shaz](https://twitter.com/Alter_Shaz/status/1460667672463822854))
 - It’s redirecting every image on our host to your blocked page. ([ryanseanbadger](https://twitter.com/ryanseanbadger/status/1460602649036738560))
 - Could well be. Cultaholic uses Cloudflare so Error 523 would be traffic (or the server crashed) but in general, a Error 500 would be a PHP error and since Cultaholic uses WordPress, it's more than likely a plugin or theme. (Generally the former) ([padraigfahy](https://twitter.com/PadraigFahy/status/1460545369931198465))
 - Hi. Please refresh thebpage and carry on as normal. This is a CloudFlare warning that simply states there was a temp error connecting. But a simple refresh should resolve this ([zap_splat](https://twitter.com/zap_splat/status/1460399206720585729))
