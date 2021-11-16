@@ -7,6 +7,8 @@
 
 
 
+- I wish that Cloudflare documentation would not be such a pita to read. For example, what do the different sensitivity levels "high", "medium" and "low" mean for the managed ruleset (eg HTTP error rate is above the sensitivity level)???? Or why does CF ignore HTTP 429 responses? ([rainbowderpyyay](https://twitter.com/RainbowDerpyYaY/status/1460671862380322817))
+- No they dont. This is normal that it shows google because of their dns setup. If the dns service (for example cloudflare) cant find the host, it shows google dns error or google page by default ([2tapprince](https://twitter.com/2TapPrince/status/1460671515368820743))
 - cloudflare down again we should stop using big website that use cloudflare ([the_oio](https://twitter.com/The_oio/status/1460667924616777737))
 - nevermind FUCK THISJOKE DOESNT WORK I THOUGHT IT WAS CLOUDFLARE ([elisttm](https://twitter.com/elisttm/status/1460667706764664838))
 - The fuck fr? Alright bro global outage v2 LETS GOO ([alter_shaz](https://twitter.com/Alter_Shaz/status/1460667672463822854))
