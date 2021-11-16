@@ -7,6 +7,7 @@
 
 
 
+- server:cloudflareになっていますでしょうか？」&lt;任意の学問&gt;「お済みでしょうか？」... #bot ([juniper](https://ap.jadiunr.net/@juniper/107285443452942996))
 - 素朴な疑問だけどmastodonとかでnginx使ってるけどCloudfrontやCloudFlareのOrigin設定じゃだめなんか？ ([aws](https://fedibird.com/@AWS/107284313072355051))
 - oh a related note we now use cloudflare at work ([fristi](https://mk.toast.cafe/notes/8t4gwqt762))
 - CloudFlareかと思うじゃん？ サンノゼからpingしてみたら海外と東京を結ぶIXで問題が起きてた ([cyberrex_v2](https://misskey.io/notes/8t41azoqvr))
