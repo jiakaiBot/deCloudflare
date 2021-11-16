@@ -7,6 +7,7 @@
 
 
 
+- Hi. Please refresh thebpage and carry on as normal. This is a CloudFlare warning that simply states there was a temp error connecting. But a simple refresh should resolve this ([zap_splat](https://twitter.com/zap_splat/status/1460399206720585729))
 - Any idea what's going on there? Site's been inaccessible for about a week, now. Is Cloudflare blocking our access? ([frankpa88333108](https://twitter.com/FrankPa88333108/status/1460335696238026763))
 - yeah, the cloudflare links throws either a 524 or 429 error ([platocrat](https://twitter.com/platocrat/status/1460337384248152067))
 - If I open my account it’s Error I try to open but they said time out ([captainopare](https://twitter.com/CaptainOpare/status/1460249219848155140))
