@@ -375,6 +375,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | djsumdog.com | No |
 | dlyang.tk | No |
 | dobbs.town | No |
+| docker.masto.pt | Yes |
 | dog.estate | No |
 | don.bitma.st | No |
 | don.crakac.com | No |
@@ -504,7 +505,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.tesaguri.club | No |
 | fedi.underscore.world | No |
 | fedi.xerz.one | No |
-| fedi.z0ne.moe | Yes |
 | fedibird.com | Yes |
 | fedilove.cyou | Yes |
 | fediscience.org | No |
@@ -585,7 +585,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | friendica.ingram-braun.net | No |
 | friendica.ironbug.org | No |
 | friendica.mrpetovan.com | No |
-| friendica.org | No |
 | friendica.produnis.de | No |
 | friendica.utzer.de | No |
 | friendica.valvin.fr | No |
@@ -1033,6 +1032,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mahalle.li | No |
 | maho.app | No |
 | mainburg.hallertau.social | No |
+| majestic.monster | No |
 | majors.social | No |
 | maki.chiba.tw | No |
 | makito.me | Yes |
@@ -1068,7 +1068,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | masto.dashten.dev | No |
 | masto.donte.com.br | Yes |
 | masto.evelynyap.com | No |
-| masto.gaming.pizza | No |
 | masto.mtcrew.org | No |
 | masto.ninja | No |
 | masto.nogafam.es | No |
@@ -1263,7 +1262,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.sk | No |
 | mastodon.sngsk.info | No |
 | mastodon.social | No |
-| mastodon.someotherguy.xyz | No |
 | mastodon.starshipchangeling.net | No |
 | mastodon.stefofficiel.me | No |
 | mastodon.suinot.org | No |
@@ -1370,6 +1368,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | misskey.ai | No |
 | misskey.amoonrabbit.reisen | No |
 | misskey.assaultli.ly | Yes |
+| misskey.belligerence.club | No |
 | misskey.biribiri.dev | No |
 | misskey.bubbletea.dev | No |
 | misskey.de | No |
@@ -1600,7 +1599,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | nixnet.social | No |
 | nnia.space | Yes |
 | noagendasocial.com | Yes |
-| noagendasocialist.com | No |
 | nobigtech.es | No |
 | noc.social | No |
 | node.chrishannah.me | No |
@@ -1615,7 +1613,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | nonexiste.net | No |
 | noovi.org | No |
 | norden.social | No |
-| nordgedanken.dev | No |
 | noridon.hostdon.ne.jp | Yes |
 | norrebro.space | No |
 | norze.world | Yes |
@@ -1690,6 +1687,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pagan.plus | No |
 | palepanda.club | No |
 | panthermoderns.org | No |
+| pantherx.social | No |
 | pao.moe | Yes |
 | pao.namakajiri.net | No |
 | pars.ee | No |
@@ -1731,6 +1729,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pl.devfs.xyz | No |
 | pl.dira.cc | No |
 | pl.eragon.re | No |
+| pl.escapism.work | Yes |
 | pl.eternawings.com | Yes |
 | pl.fediverse.express | No |
 | pl.firechicken.net | No |
@@ -1852,6 +1851,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pm.ernix.jp | No |
 | poa.st | Yes |
 | pod.ryey.icu | No |
+| pod.yargl.com | No |
 | podcastindex.social | No |
 | podlibre.social | No |
 | podnutz.us | Yes |
@@ -2713,6 +2713,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ygo.pub | Yes |
 | yiff.life | Yes |
 | ykzts.technology | No |
+| yoghurthair.club | No |
 | yokai.cafe | No |
 | youdabomb.social | No |
 | youdeserve.space | No |
@@ -2749,8 +2750,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 516 |
+| Cloudflare | 517 |
 | Normal | 2,196 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 19.1% of public Fediverse services are using Cloudflare.
