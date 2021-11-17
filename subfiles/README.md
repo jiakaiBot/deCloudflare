@@ -36,6 +36,7 @@
     - [Asia / Middle East](cloudflared_newspaper_asia.md)
     - [Europe](cloudflared_newspaper_europe.md)
     - [Oceania](cloudflared_newspaper_oceania.md)
+  - [How many % of XXXXXXXXX__T__B__A__XXXXXXXXXXXXXXXXXXX are using Cloudflare?](xxxxxxxxxxxxxxxxxxxxxxxx.md)
   - [How many % of Bitcoin Exchange sites are using Cloudflare?](cloudflared_bitcoinexchange.md)
   - [How many % of payment service providers are using Cloudflare?](cloudflared_paymentservices.md)
   - [How many % of public Fediverse services are using Cloudflare?](cloudflared_fediverse.md)
