@@ -7,6 +7,7 @@
 
 
 
+- CloudFlareの開発モード、反映30秒くらいかかるっぽい ([thinaticsystem](https://honi.club/notes/8t7c0tvgyb))
 - All major popular donation platforms - Patreon, OpenCollective, LiberaPay, Tipeee, Donorbox - use Cloudflare. The true unavoidable part of online life 🧛 (for international donations at least). ([lightone](https://mastodon.xyz/@lightone/107292876201887025))
 - EFF is a &quot;partner&quot; of #Cloudflare, folks. Act accordingly. #electronicFrontierFoundation #EFF #unholyAlliances ([dsfgs](https://activism.openworlds.info/@dsfgs/107285882501719465))
 - server:cloudflareになっていますでしょうか？」&lt;任意の学問&gt;「お済みでしょうか？」... #bot ([juniper](https://ap.jadiunr.net/@juniper/107285443452942996))
