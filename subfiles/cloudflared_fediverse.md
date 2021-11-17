@@ -39,7 +39,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 4estate.media | No |
 | 7.62x54r.ru | No |
 | 9kb.me | No |
-| 13bells.com | No |
 | 404.inexist.club | Yes |
 | 433.world | No |
 | 438punk.house | No |
@@ -48,9 +47,9 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 1234.as | Yes |
 | 7144.party | No |
 | 60228.dev | Yes |
-| 79120.tours | Yes |
 | 101010.pl | No |
 | a-room-ones-own.me | No |
+| a.nom.pl | No |
 | a.nti.social | No |
 | a.rathersafe.space | No |
 | a2mi.social | No |
@@ -439,6 +438,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | engineered.space | No |
 | enitor.xyz | No |
 | ente.fun | No |
+| entomophagy.world | No |
 | env.sqdsh.top | Yes |
 | ephemeral.glitch.social | No |
 | epicureanworldview.com | No |
@@ -698,7 +698,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | handon.club | Yes |
 | happylittle.cloudns.cc | No |
 | happytobehe.re | No |
-| harpsica.net | No |
 | haskell.social | Yes |
 | hates.company | No |
 | hatesli.me | No |
@@ -777,6 +776,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | icedlatte.chat | No |
 | icedtux.no | No |
 | ichiji.social | No |
+| icioulaba.tk | No |
 | icosahedron.website | No |
 | iddqd.social | No |
 | idf.social | No |
@@ -981,6 +981,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | lou.lt | Yes |
 | loutre.info | No |
 | loveforlandlords.com | No |
+| loves.pizza | No |
 | lsngl.us | No |
 | lubar.me | Yes |
 | ludosphere.fr | No |
@@ -1046,6 +1047,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | marf.space | No |
 | margio.in | No |
 | markusklein.cc | No |
+| mas.atmx.ca | No |
 | mas.gordons.gen.nz | No |
 | mas.to | No |
 | mas.tsr.net.br | Yes |
@@ -1111,6 +1113,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.chriswiegman.com | Yes |
 | mastodon.cipherbliss.com | No |
 | mastodon.cisti.org | No |
+| mastodon.city | No |
 | mastodon.cloud | Yes |
 | mastodon.codingfield.com | No |
 | mastodon.coffee | No |
@@ -1139,6 +1142,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.evolix.org | No |
 | mastodon.exp0.ml | No |
 | mastodon.explore-visions.com | No |
+| mastodon.f-si.org | No |
 | mastodon.falktx.com | No |
 | mastodon.fam-ribbers.com | No |
 | mastodon.fedi.bzh | No |
@@ -1248,6 +1252,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.quantumindigo.org | Yes |
 | mastodon.radio | No |
 | mastodon.radiosonline.cloud | No |
+| mastodon.randomroad.social | No |
 | mastodon.roflcopter.fr | No |
 | mastodon.ropable.com | Yes |
 | mastodon.rousset.nom.fr | No |
@@ -1269,6 +1274,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.tardis.pw | No |
 | mastodon.technology | No |
 | mastodon.tedomum.net | No |
+| mastodon.tekdmn.me | No |
 | mastodon.tetaneutral.net | No |
 | mastodon.thewarrens.name | No |
 | mastodon.tiennot.net | No |
@@ -1539,7 +1545,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.unasuke.com | No |
 | mstdn.vodka | No |
 | mstdn.wildtree.jp | No |
-| mstdn.wiper.dev | No |
 | mstdn.wtsnjp.com | No |
 | mstdn.y-zu.org | Yes |
 | mstdn.yaesu-eas.tokyo | No |
@@ -1892,6 +1897,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | proyectozero.org | Yes |
 | prsm.space | No |
 | psyopshop.com | No |
+| pub.piecewise.im | No |
 | pub.pm | No |
 | pub.yovko.net | Yes |
 | pullopen.xyz | Yes |
@@ -2408,6 +2414,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | su.siberia.work | No |
 | sua.anarkis.net | No |
 | subversive.zone | No |
+| sukebeneko.com | No |
 | sully.site | No |
 | sumanko.ml | Yes |
 | summoners-riftodon.jp | No |
@@ -2651,6 +2658,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | wake.st | No |
 | walkman.social | No |
 | wallflowersocial.club | No |
+| wandel.social | No |
 | wandering.shop | No |
 | wandzeitung.xyz | No |
 | warm.rocks | No |
@@ -2665,7 +2673,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | werebeast.io | No |
 | wetdry.world | No |
 | whinge.town | No |
-| whitespashe.uk | No |
 | wien.rocks | No |
 | wife.town | No |
 | wiggle.website | No |
@@ -2750,8 +2757,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 517 |
-| Normal | 2,196 |
+| Cloudflare | 516 |
+| Normal | 2,204 |
 
 
-### 19.1% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
