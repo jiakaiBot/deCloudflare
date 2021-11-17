@@ -30,7 +30,7 @@
     - [Asia](cloudflared_financial_asia.md)
     - [Europe](cloudflared_financial_europe.md)
     - [Oceania](cloudflared_financial_oceania.md)
-  - How many % of XXXXXXX__T__B__A__XXXXXXXXX are using Cloudflare?
+  - How many % of online newspapers are using Cloudflare?
     - [Africa](cloudflared_newspaper_africa.md)
     - [America / Caribbean](cloudflared_newspaper_america.md)
     - [Asia / Middle East](cloudflared_newspaper_asia.md)
