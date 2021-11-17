@@ -7,6 +7,8 @@
 
 
 
+- Cloudflare復帰させてみたわ、自宅鯖にプロキシさせるために ([atsu1125](https://misskey.io/notes/8t7d7cmhxr))
+- Cloudflareの思い出はhttpのみしかサポートしていなレンタルサーバーを無理やりcf通してセキュアなサイトを装ったなどがあります。 ([vpnuser](https://misskey.io/notes/8t7d9actmd))
 - CloudFlareの開発モード、反映30秒くらいかかるっぽい ([thinaticsystem](https://honi.club/notes/8t7c0tvgyb))
 - All major popular donation platforms - Patreon, OpenCollective, LiberaPay, Tipeee, Donorbox - use Cloudflare. The true unavoidable part of online life 🧛 (for international donations at least). ([lightone](https://mastodon.xyz/@lightone/107292876201887025))
 - EFF is a &quot;partner&quot; of #Cloudflare, folks. Act accordingly. #electronicFrontierFoundation #EFF #unholyAlliances ([dsfgs](https://activism.openworlds.info/@dsfgs/107285882501719465))
