@@ -120,7 +120,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | augsburg.social | No |
 | aus.social | No |
 | ausglam.space | No |
-| autonomous.zone | No |
 | avantwhatever.org | No |
 | awes.one | Yes |
 | awoo.chown.me | No |
@@ -179,6 +178,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | biwakodon.com | No |
 | bla.chymera.eu | No |
 | blabber.rocks | No |
+| blackjackandhookers.net | No |
 | blessedgeeks.org | No |
 | blimey.social | No |
 | blimps.xyz | Yes |
@@ -296,6 +296,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | computerfairi.es | Yes |
 | computerfox.xyz | No |
 | conesphere.social | No |
+| connect.takebackourtech.org | No |
 | conoha.cf | No |
 | contra.privacyhub.xyz | Yes |
 | contrapointsfan.club | No |
@@ -350,7 +351,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | detroitriotcity.com | No |
 | dev-friendica.mrpetovan.com | No |
 | dev.mis.b-shock.org | No |
-| devil-children-alitaso.com | Yes |
 | devin.masto.host | No |
 | dhub.social | No |
 | diaspodon.fr | No |
@@ -480,6 +480,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | feder8.me | No |
 | federate.hopto.org | No |
 | federated.glacier.dog | No |
+| federation.krowverse.services | No |
 | federation.p1k3.com | No |
 | fedi.9til.de | No |
 | fedi.absturztau.be | No |
@@ -544,7 +545,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | forumanalogue.fr | No |
 | fosstodon.org | No |
 | four-nine.club | No |
-| fox.masto.host | No |
 | foxes.life | No |
 | framapiaf.org | No |
 | freak.university | No |
@@ -627,7 +627,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gececibaykus.com | No |
 | geekcompass.com | Yes |
 | geeknews.chat | No |
-| geekstream.org | No |
 | genau.qwertqwefsday.eu | No |
 | genitalia.observer | No |
 | geno.social | No |
@@ -758,6 +757,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hub.somaton.com | No |
 | hub.thechangebook.org | No |
 | hub.tschlotfeldt.de | No |
+| hub.vilarejo.pro.br | No |
 | hub.volse.no | No |
 | hubzil.la | No |
 | hubzilla.com.br | No |
@@ -1094,6 +1094,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.aventer.biz | No |
 | mastodon.b3by3.com | Yes |
 | mastodon.bachgau.social | No |
+| mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
 | mastodon.bida.im | No |
 | mastodon.bits-und-baeume.org | No |
@@ -1429,6 +1430,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.vulpes.one | No |
 | mk.wataame.cafe | No |
 | mk.wolfie.pw | No |
+| mky.aqualitore-lily.com | Yes |
 | mo-na.space | No |
 | moc.d-x-b.com | No |
 | moe.cat | No |
@@ -1818,7 +1820,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.mnko.info | No |
 | pleroma.moth.monster | No |
 | pleroma.neuromante.net | No |
-| pleroma.nfld.uk | No |
 | pleroma.nobodyhasthe.biz | No |
 | pleroma.noellabo.jp | Yes |
 | pleroma.nthomas20.net | No |
@@ -1977,6 +1978,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | sabbat.hexe.net | No |
+| sackheads.social | No |
 | saigyouji.cyou | Yes |
 | salesforce.social | No |
 | salon.fika.moe | No |
@@ -2594,7 +2596,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | underground-side-kochira-kotonoha.xyz | No |
 | unexpected.singleuser.club | No |
 | unholy-lair.69.mu | No |
-| unimatrix0.is | No |
 | unkomaker.hostdon.ne.jp | Yes |
 | unkworks.net | No |
 | unnerv.jp | No |
@@ -2649,7 +2650,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | waifuism.life | No |
 | wake.st | No |
 | walkman.social | No |
-| wall.demouliere.eu | No |
 | wallflowersocial.club | No |
 | wandering.shop | No |
 | wandzeitung.xyz | No |
