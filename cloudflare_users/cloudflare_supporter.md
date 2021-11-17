@@ -2088,6 +2088,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hu14897893@twitter](https://twitter.com/Hu14897893/status/1398806690561073153) | advertise |
 | [hu37837656@twitter](https://twitter.com/hu37837656/status/1399604713822199816) | advertise |
 | [Hu39861196@twitter](https://twitter.com/Hu39861196/status/1379384044216057857) | advertise |
+| [huaiyii@twitter](https://twitter.com/huaiyii/status/1460603270154518528) | advertise |
 | [huangrongyar@twitter](https://twitter.com/huangrongyar/status/1404046641166917639) | advertise |
 | [Huanjo3@twitter](https://twitter.com/Huanjo3/status/1398972316227305483) | advertise |
 | [HuaweiY55388310@twitter](https://twitter.com/HuaweiY55388310/status/1396889296347402242) | advertise |
@@ -4208,6 +4209,7 @@ Do not create new issue or we will close it as duplicate.
 | [OfficialSs34@twitter](https://twitter.com/OfficialSs34/status/1389541392251293705) | advertise |
 | [Official_Aidzyy@twitter](https://twitter.com/Official_Aidzyy/status/1429092121550667785) | advertise |
 | [of_544@twitter](https://twitter.com/of_544/status/1395086316665118720) | advertise |
+| [ogrekevin@twitter](https://twitter.com/ogrekevin/status/1460589005171535883) | advertise |
 | [OG_PvP_@twitter](https://twitter.com/OG_PvP_/status/1458513520115474437) | advertise |
 | [OhAeri36127137@twitter](https://twitter.com/OhAeri36127137/status/1401014602033414148) | advertise |
 | [OhArthit2@twitter](https://twitter.com/OhArthit2/status/1390821661566324740) | advertise |
