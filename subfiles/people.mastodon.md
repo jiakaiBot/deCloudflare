@@ -7,6 +7,7 @@
 
 
 
+- Fun fact: if you have a malformed useragent cloudflare will fucking hate you ([abloo](https://fedi.absturztau.be/objects/4aeb6a53-f86b-46db-80a2-790e79010c3b))
 - Cloudflare復帰させてみたわ、自宅鯖にプロキシさせるために ([atsu1125](https://misskey.io/notes/8t7d7cmhxr))
 - Cloudflareの思い出はhttpのみしかサポートしていなレンタルサーバーを無理やりcf通してセキュアなサイトを装ったなどがあります。 ([vpnuser](https://misskey.io/notes/8t7d9actmd))
 - CloudFlareの開発モード、反映30秒くらいかかるっぽい ([thinaticsystem](https://honi.club/notes/8t7c0tvgyb))
