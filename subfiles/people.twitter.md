@@ -7,6 +7,10 @@
 
 
 
+- Some of our team have spent the morning upgrading our infrastructure to better block attacks to our client's sites. A great example is XML RPC attacks, now getting blocked straight away on the server firewall and in Cloudflare. wordpress sysadmin devops ([vatu](https://twitter.com/vatu/status/1460960225075335170))
+- Lol, a government blocking illegal things... ([electrospaces](https://twitter.com/electrospaces/status/1459902691505754113))
+- Discord, Spotify and Snapchat are having a fucking bruh moment (probably cloudflare again lol) ([lunaforeverr](https://twitter.com/LunaForeverr/status/1460667714419240969))
+- site cant load keep getting cloudflare error ([westie_will](https://twitter.com/westie_will/status/1460970134852485125))
 - Use VPN. I recommend Nord, someone on Axie Discord told me that Cloudflare is blocking some IP's. ([dontyouworryfam](https://twitter.com/dontyouworryfam/status/1460901031047405570))
 - Cloudflare went down. "CloudFlare is becoming a huge single point of failure for the Internet." reddit post deleted though ([s1lverfox](https://twitter.com/s1lverFoX/status/1460697380135882752))
 - It seems like the attackers have moved from Telnyx to Iristel. This won't stop till everyone is behind CloudFlare. ([dovid](https://twitter.com/Dovid/status/1460400835297517569))
