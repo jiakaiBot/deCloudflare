@@ -7,6 +7,7 @@
 
 
 
+- Dear your LNURL endpoint doesn't seem to like requests over Tor :( Cloudflare much? 😭 ([lightningtipb0t](https://twitter.com/LightningTipB0t/status/1461048766425935878))
 - I was trying to understand if Argo Level Cachin was free with the Free Plan or do I need to pay extra to deploy it? ([nico_caldo](https://twitter.com/nico_caldo/status/1460986121333133314))
 - Some of our team have spent the morning upgrading our infrastructure to better block attacks to our client's sites. A great example is XML RPC attacks, now getting blocked straight away on the server firewall and in Cloudflare. wordpress sysadmin devops ([vatu](https://twitter.com/vatu/status/1460960225075335170))
 - Lol, a government blocking illegal things... ([electrospaces](https://twitter.com/electrospaces/status/1459902691505754113))
