@@ -773,6 +773,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hyan.ink | Yes |
 | hypno.church | No |
 | i.misskey.love | No |
+| iamastodon.gifu.jp | No |
 | ibaillanos.social | No |
 | ibb.info | No |
 | icedlatte.chat | No |
@@ -1328,6 +1329,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | md.xps2.net | Yes |
 | mdn.hinaloe.net | No |
 | me.ns.ci | Yes |
+| me.oer.me | No |
 | me.paperneko.moe | Yes |
 | medievalist.masto.host | No |
 | meemu.org | No |
@@ -1462,7 +1464,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | msk.seppuku.club | Yes |
 | mspsocial.net | No |
 | mst.canor.kr | Yes |
-| mst.nanaaki.com | No |
 | mst.vsta.org | No |
 | mst3k.interlinked.me | No |
 | mstd.dansmonorage.blue | No |
@@ -1678,6 +1679,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | osa.tepewu.pl | No |
 | oslo.town | No |
 | osna.social | No |
+| ostatus.ikeji.ma | No |
 | otogamer.me | No |
 | otoya.space | Yes |
 | oulipo.social | No |
@@ -1853,6 +1855,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.wakuwakup.net | Yes |
 | pleroma.wolfie.pw | No |
 | pleroma.xmanifesto.club | No |
+| pleroma.zenwillow.website | No |
 | plrm.lunarviews.net | No |
 | plural.cafe | No |
 | plush.city | No |
@@ -2080,6 +2083,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | soc.citizen4.eu | No |
 | soc.emelyne.eu | No |
 | soc.feilimatrisen.net | No |
+| soc.foxarmy.org | No |
 | soc.funnygirl.wtf | No |
 | soc.kakun.jp | No |
 | soc.kouett.net.eu.org | No |
@@ -2186,7 +2190,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.freetalklive.com | No |
 | social.fym.moe | Yes |
 | social.garwood.io | No |
-| social.gemnoc.ca | No |
 | social.generallyrubbish.net.au | No |
 | social.gl-como.it | No |
 | social.globalpirates.net | No |
@@ -2251,7 +2254,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.meissa-gmbh.de | No |
 | social.memo-village.com | No |
 | social.metadata.moe | Yes |
-| social.metakaos.space | No |
 | social.mezzo.moe | No |
 | social.mieth.net | No |
 | social.mikutter.hachune.net | No |
@@ -2487,6 +2489,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | thraeryn.net | No |
 | thx.one | Yes |
 | ti.akirin.xyz | Yes |
+| tiksi.net | No |
 | tilde.zone | No |
 | ting.cm | No |
 | tiny.tilde.website | No |
@@ -2616,7 +2619,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | unstable.icu | No |
 | unstoppablecode.org | No |
 | upallnight.minnix.dev | No |
-| urgenthelp.in | No |
 | ursal.zone | No |
 | urvogel.club | No |
 | ussr.win | No |
@@ -2722,6 +2724,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | xyzzy.link | No |
 | yakumo.foundation | Yes |
 | yamagadon.com | No |
+| yeahnahcunt.club | No |
 | yggdrasil.social | No |
 | ygo.pub | Yes |
 | yiff.life | Yes |
@@ -2764,7 +2767,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 517 |
-| Normal | 2,209 |
+| Normal | 2,212 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 18.9% of public Fediverse services are using Cloudflare.
