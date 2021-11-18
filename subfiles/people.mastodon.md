@@ -7,6 +7,7 @@
 
 
 
+- いやちがうんよ、もともとお名前.comのネームサーバーで利用していたんだけど、名前解決しなくなったから、Cloudflareにうつしたのよ、でもそうしたらDNSSECの問題でやっぱだめだねってなって、今お名前.comに戻してる、振り出しに戻った ([atsuchan](https://atsuchan.page/@atsuchan/107298206393299849))
 - 昨日の20時くらいまではお名前のネームサーバーを利用していて、そこが2日ほど名前解決すら機能しておらず、21時にCloudflareを再び使うように設定すると名前解決のエラーからSSLエラーに変わった、でCloudflareのエッジ証明書がいつまでも設定されない状況 ([atsuchan](https://atsuchan.page/@atsuchan/107297578188739314))
 - CloudflareのSSLのハイブリットとかフルとかはもう確認してて、その場合はそもそもエラーの種類が変わる ([atsuchan](https://atsuchan.page/@atsuchan/107297408517471896))
 - Cloudflare Origin CAでフル(Strict)にすれば全部解決なのですが… ([thinaticsystem](https://honi.club/notes/8t8ci4pezv))
