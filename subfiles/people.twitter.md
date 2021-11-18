@@ -7,6 +7,7 @@
 
 
 
+- Bhai plz koi bata do why tf did cloudflare stop working im legit pissed ([spraykingthe1](https://twitter.com/spraykingthe1/status/1461190897442295814))
 - This is impressive, even more because it's all logged. it's not like they blocked directly on XDP (maybe only if they are just l3/l4) but these logs are about L7, Right? cloudflare and clickhouse rocks! ([renatocron](https://twitter.com/renatocron/status/1461117558455734278))
 - It essentially makes them a man in the middle, they're able to decrypt & see the traffic flow in plaint-text, they establish another SSL connection to the origin web-server. Say theoretically it was NSA sponsored it'd be the perfect man-in-the-middle point would it not? ([ashleycawley](https://twitter.com/ashleycawley/status/1461084808436715523))
 - What mechanism? As you say, they systematically MiTM your traffic. What better way to circumvent the advent of ubiquitous transport security? ([penfolddavid](https://twitter.com/PenfoldDavid/status/1461086118259138564))
