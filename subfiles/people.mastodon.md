@@ -7,6 +7,8 @@
 
 
 
+- CloudflareのSSLのハイブリットとかフルとかはもう確認してて、その場合はそもそもエラーの種類が変わる ([atsuchan](https://atsuchan.page/@atsuchan/107297408517471896))
+- Cloudflare Origin CAでフル(Strict)にすれば全部解決なのですが… ([thinaticsystem](https://honi.club/notes/8t8ci4pezv))
 - Fun fact: if you have a malformed useragent cloudflare will fucking hate you ([abloo](https://fedi.absturztau.be/objects/4aeb6a53-f86b-46db-80a2-790e79010c3b))
 - Cloudflare復帰させてみたわ、自宅鯖にプロキシさせるために ([atsu1125](https://misskey.io/notes/8t7d7cmhxr))
 - Cloudflareの思い出はhttpのみしかサポートしていなレンタルサーバーを無理やりcf通してセキュアなサイトを装ったなどがあります。 ([vpnuser](https://misskey.io/notes/8t7d9actmd))
