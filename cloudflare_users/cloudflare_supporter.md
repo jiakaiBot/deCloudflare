@@ -260,6 +260,7 @@ Do not create new issue or we will close it as duplicate.
 | [Alex78580770@twitter](https://twitter.com/Alex78580770/status/1390372410612928512) | advertise |
 | [Alex680885890@twitter](https://twitter.com/Alex680885890/status/1392545167828156421) | advertise |
 | [Alex718912862@twitter](https://twitter.com/Alex718912862/status/1400832088442425351) | advertise |
+| [AlexaCodes@twitter](https://twitter.com/AlexaCodes/status/1461281945833275394) | advertise |
 | [ALEXAND07389780@twitter](https://twitter.com/ALEXAND07389780/status/1380908807614685187) | advertise |
 | [ALEXAND69307319@twitter](https://twitter.com/ALEXAND69307319/status/1380037455068471297) | advertise |
 | [alexdolbun@twitter](https://twitter.com/alexdolbun/status/1410279652116029443) | moral (advertise) |
@@ -1852,6 +1853,7 @@ Do not create new issue or we will close it as duplicate.
 | [HeinZaw62666182@twitter](https://twitter.com/HeinZaw62666182/status/1395115005196914691) | advertise |
 | [HellishDani@twitter](https://twitter.com/HellishDani/status/1377383208828903427) | advertise |
 | [hellodk01@twitter](https://twitter.com/hellodk01/status/1434560473626730498) | advertise |
+| [helu_sky@twitter](https://twitter.com/helu_sky/status/1461265952608194566) | advertise |
 | [HEMANTH74907800@twitter](https://twitter.com/HEMANTH74907800/status/1393162174189604870) | advertise |
 | [HEMANTN09968572@twitter](https://twitter.com/HEMANTN09968572/status/1396999578172284928) | advertise |
 | [hendrouu_@twitter](https://twitter.com/hendrouu_/status/1398767068497862657) | advertise |
@@ -3407,6 +3409,7 @@ Do not create new issue or we will close it as duplicate.
 | [mertcangokgoz@twitter](https://twitter.com/mertcangokgoz/status/1399434909039611907) | advertise |
 | [MES31_82@twitter](https://twitter.com/MES31_82/status/1401340927495581698) | advertise |
 | [Mest42062509@twitter](https://twitter.com/Mest42062509/status/1392776692976951300) | advertise |
+| [metoporizo@twitter](https://twitter.com/metoporizo/status/1461211384482611201) | advertise |
 | [MeVlezz@twitter](https://twitter.com/MeVlezz/status/1396832967700271116) | advertise |
 | [me_mmzu@twitter](https://twitter.com/me_mmzu/status/1393107449863839744) | advertise |
 | [mfarish_khan@twitter](https://twitter.com/mfarish_khan/status/1387547342132310017) | advertise |
@@ -4854,6 +4857,7 @@ Do not create new issue or we will close it as duplicate.
 | [SaiMyo31199838@twitter](https://twitter.com/SaiMyo31199838/status/1385122850672046082) | advertise |
 | [Saimyominoo9@twitter](https://twitter.com/Saimyominoo9/status/1392334950616248321) | advertise |
 | [SaingNann@twitter](https://twitter.com/SaingNann/status/1391063083049697283) | advertise |
+| [saira_akira@twitter](https://twitter.com/saira_akira/status/1460944302092156929) | advertise |
 | [SaiSai11662949@twitter](https://twitter.com/SaiSai11662949/status/1394175130662621190) | advertise |
 | [SaiSai48711519@twitter](https://twitter.com/SaiSai48711519/status/1402425490279866371) | advertise |
 | [SaiSai57206673@twitter](https://twitter.com/SaiSai57206673/status/1391999758303043588) | advertise |
