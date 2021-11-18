@@ -7,6 +7,8 @@
 
 
 
+- This is impressive, even more because it's all logged. it's not like they blocked directly on XDP (maybe only if they are just l3/l4) but these logs are about L7, Right? cloudflare and clickhouse rocks! ([renatocron](https://twitter.com/renatocron/status/1461117558455734278))
+- It essentially makes them a man in the middle, they're able to decrypt & see the traffic flow in plaint-text, they establish another SSL connection to the origin web-server. Say theoretically it was NSA sponsored it'd be the perfect man-in-the-middle point would it not? ([ashleycawley](https://twitter.com/ashleycawley/status/1461084808436715523))
 - What mechanism? As you say, they systematically MiTM your traffic. What better way to circumvent the advent of ubiquitous transport security? ([penfolddavid](https://twitter.com/PenfoldDavid/status/1461086118259138564))
 - Dear your LNURL endpoint doesn't seem to like requests over Tor :( Cloudflare much? 😭 ([lightningtipb0t](https://twitter.com/LightningTipB0t/status/1461048766425935878))
 - I was trying to understand if Argo Level Cachin was free with the Free Plan or do I need to pay extra to deploy it? ([nico_caldo](https://twitter.com/nico_caldo/status/1460986121333133314))
