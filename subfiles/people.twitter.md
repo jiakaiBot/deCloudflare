@@ -7,6 +7,7 @@
 
 
 
+- And the fact Cloudflare has been allowed to front crazy Jihadi sites etc is proof enough in my book that they're used as an NSA MiTM. ([penfolddavid](https://twitter.com/PenfoldDavid/status/1461327361224450051))
 - Hi , I have updated your page too many times and my IP got blocked by cloudflare. Do you plan to handle that better in the future? Unfortunately, that's why I couldn't buy any flat punks. 😟 ([_bitcoin_pirate](https://twitter.com/_Bitcoin_Pirate/status/1461252401864794116))
 - Bhai plz koi bata do why tf did cloudflare stop working im legit pissed ([spraykingthe1](https://twitter.com/spraykingthe1/status/1461190897442295814))
 - This is impressive, even more because it's all logged. it's not like they blocked directly on XDP (maybe only if they are just l3/l4) but these logs are about L7, Right? cloudflare and clickhouse rocks! ([renatocron](https://twitter.com/renatocron/status/1461117558455734278))
