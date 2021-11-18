@@ -7,6 +7,7 @@
 
 
 
+- 昨日の20時くらいまではお名前のネームサーバーを利用していて、そこが2日ほど名前解決すら機能しておらず、21時にCloudflareを再び使うように設定すると名前解決のエラーからSSLエラーに変わった、でCloudflareのエッジ証明書がいつまでも設定されない状況 ([atsuchan](https://atsuchan.page/@atsuchan/107297578188739314))
 - CloudflareのSSLのハイブリットとかフルとかはもう確認してて、その場合はそもそもエラーの種類が変わる ([atsuchan](https://atsuchan.page/@atsuchan/107297408517471896))
 - Cloudflare Origin CAでフル(Strict)にすれば全部解決なのですが… ([thinaticsystem](https://honi.club/notes/8t8ci4pezv))
 - Fun fact: if you have a malformed useragent cloudflare will fucking hate you ([abloo](https://fedi.absturztau.be/objects/4aeb6a53-f86b-46db-80a2-790e79010c3b))
