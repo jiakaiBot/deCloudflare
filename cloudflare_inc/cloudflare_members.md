@@ -253,6 +253,7 @@ Or is this merely a case of simple modesty?
 | Ben Peera | Employee |  |
 | Ben Ritter | Networking | https://twitter.com/BenNetworks<br>https://www.linkedin.com/in/benritter |
 | Ben Solomon | Product Management Intern | [🖼](../image/gang/Ben_Solomon.jpg) |
+| Ben Yule | Employee | |
 | Bethany Sonefeld | Product Designer | [🖼](../image/gang/Bethany_Sonefeld.jpg)<br>https://twitter.com/bsonefeld |
 | Beth Sautter | Account Executive |  |
 | Beth Watson | Employee |  |
@@ -280,6 +281,7 @@ Or is this merely a case of simple modesty?
 | Brandon Huang | Business Development |  |
 | Brandon Lacanaria | Business Development |  |
 | Brandon Nelson | Employee | https://github.com/bnelz |
+| Brendan Coll | Employee | |
 | Brendan McMillion | Engineer | [🖼](../image/gang/Brendan_McMillion.jpg)<br>brendan@cloudflare.com<br>brendanmcmillion@gmail.com<br>https://github.com/Bren2010<br>https://blog.bren2010.io/<br>https://twitter.com/BrenTwentyTen |
 | Brent Coco | Trainer |  |
 | Brett Erilane | Operations Engineer |  |
@@ -694,6 +696,7 @@ Or is this merely a case of simple modesty?
 | James Greene | Web Engineer |  |
 | James Jaconetti | Employee |  |
 | James Kyle | Front End Engineer |  |
+| James M Snell | Employee | |
 | James Munson | Systems Reliability Engineer |  |
 | James O'Gorman | Systems Reliability Engineer |  |
 | Jameson Sundell | Support Engineer |  |
@@ -803,6 +806,7 @@ Or is this merely a case of simple modesty?
 | Jonathan Ganz | Application Security Engineer |  |
 | Jonathan Gascoyne | Customer Development |  |
 | Jonathan Hoyland | Employee |  |
+| Jonathan Kuperman | Employee | |
 | Jonathan Lebeau | Customer Development |  |
 | Jonathan McElroy | Customer Success Engineer |  |
 | Jonathan Rolfe | Operations and Strategy |  |
@@ -1516,6 +1520,7 @@ Or is this merely a case of simple modesty?
 | Suman Talukdar | Sales Manager, India | https://twitter.com/stswww |
 | Sumit Bahl | Product Marketing Manager |  |
 | Sung Park | Employee | [🖼](../image/gang/Sung_Park.jpg) |
+| Sunil Pai | Employee | |
 | Sunil Rathode | Big Data Engineer |  |
 | Sunny Au | Employee |  |
 | Suphanat Chunhapanya | Crypto Team |  |
