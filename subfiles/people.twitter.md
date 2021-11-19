@@ -7,6 +7,7 @@
 
 
 
+- Dear if you must bind your website to tracking beacons on cloudflare, then design your services so they don't break when schools filter out the tracking. Better yet, since you are marketing to schools, with minors accessing your content, stop this tracking. ([jefflouwmuse](https://twitter.com/JeffLouwMuse/status/1461688517185187842))
 - They do use Cloudflare. Maybe the crawler was blocked by CF and CF uses dotnet? ([kwaazaar](https://twitter.com/kwaazaar/status/1461639163380445186))
 - Oops, I guess we weren't so genius... Gateway time-out The web server reported a gateway time-out error. Ray ID: 6b05f05dca45c64f Your IP address: redacted Error reference number: 504 Cloudflare Location: Minneapolis ([csrowell](https://twitter.com/csrowell/status/1461518980053618691))
 - There’s vastly more people around the globe using their free tier for their CDN etc. than paying customers. Its not conspiratorial its common sense; make a global online service where you handle traffic (MITM) & is so alluring that it gets adopted in every country. ([ashleycawley](https://twitter.com/ashleycawley/status/1461102539366178819))
