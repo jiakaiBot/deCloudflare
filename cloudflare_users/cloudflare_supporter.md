@@ -769,6 +769,7 @@ Do not create new issue or we will close it as duplicate.
 | [bert_rell@twitter](https://twitter.com/bert_rell/status/1439350935457722368) | advertise |
 | [Beyonce01487842@twitter](https://twitter.com/Beyonce01487842/status/1382345074642542599) | advertise |
 | [beyou2021@twitter](https://twitter.com/beyou2021/status/1396901974851862528) | advertise |
+| [bezelman@twitter](https://twitter.com/bezelman/status/1461563287628255235) | advertise |
 | [BforeAi@twitter](https://twitter.com/BforeAi/status/1407094270700498944) | advertise |
 | [Bfresh420Lord@twitter](https://twitter.com/Bfresh420Lord/status/1378988801695965187) | advertise |
 | [BGomez77@twitter](https://twitter.com/BGomez77/status/1377795873955049472) | advertise |
@@ -3437,6 +3438,7 @@ Do not create new issue or we will close it as duplicate.
 | [MhamadD09414766@twitter](https://twitter.com/MhamadD09414766/status/1397134470042505224) | advertise |
 | [mhandearsaini@twitter](https://twitter.com/mhandearsaini/status/1391731657158250496) | advertise |
 | [MhanZaw2@twitter](https://twitter.com/MhanZaw2/status/1391188415077515264) | advertise |
+| [mhd020306263@twitter](https://twitter.com/mhd020306263/status/1461392488489488387) | advertise |
 | [MhizRalz@twitter](https://twitter.com/MhizRalz/status/1401142653413171201) | advertise |
 | [mhmdagha6@twitter](https://twitter.com/mhmdagha6/status/1391303370112110593) | advertise |
 | [mhmmuneef@twitter](https://twitter.com/mhmmuneef/status/1434865010694569987) | advertise |
