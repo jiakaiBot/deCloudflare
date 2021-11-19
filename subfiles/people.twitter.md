@@ -7,6 +7,8 @@
 
 
 
+- I'm finding more and more sites that block access from non-ISP IP addresses or that use CloudFlare who block 'troublesome' addresses which is are problems when using any VPN service - I'm concerned that as this becomes more widespread the internet will become less private. ([dilbertdave](https://twitter.com/DilbertDave/status/1461757268345643014))
+- Not to alarm you but if the Cloudflare captcha is happening a lot you might have a virus on your computer, this was happening to me but then I reformatted my hard drive and it stopped happening ([morgankbell](https://twitter.com/morgankbell/status/1461745131220979712))
 - Dear if you must bind your website to tracking beacons on cloudflare, then design your services so they don't break when schools filter out the tracking. Better yet, since you are marketing to schools, with minors accessing your content, stop this tracking. ([jefflouwmuse](https://twitter.com/JeffLouwMuse/status/1461688517185187842))
 - They do use Cloudflare. Maybe the crawler was blocked by CF and CF uses dotnet? ([kwaazaar](https://twitter.com/kwaazaar/status/1461639163380445186))
 - Oops, I guess we weren't so genius... Gateway time-out The web server reported a gateway time-out error. Ray ID: 6b05f05dca45c64f Your IP address: redacted Error reference number: 504 Cloudflare Location: Minneapolis ([csrowell](https://twitter.com/csrowell/status/1461518980053618691))
