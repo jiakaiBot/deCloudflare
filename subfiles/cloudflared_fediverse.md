@@ -288,10 +288,10 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | colorid.es | Yes |
 | comicscamp.club | No |
 | comm.network | No |
-| comm.serenitytoo.com | No |
 | communicating.cypherpunk.observer | No |
 | communick.com | Yes |
 | community-patriots.social | No |
+| completelysafe.download | No |
 | computerfairi.es | Yes |
 | computerfox.xyz | No |
 | conesphere.social | No |
@@ -311,7 +311,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | critter.camp | No |
 | crowsnest.libre.audio | No |
 | crypt.lol | No |
-| ctu.cx | No |
 | cum.desupost.soy | No |
 | cunny.finance | No |
 | curmudgeon.cafe | No |
@@ -428,7 +427,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | eletusk.club | No |
 | elict.net | No |
 | elle.systems | No |
-| elsmussols.net | No |
 | elves.forsale | No |
 | elysian.city | No |
 | emacsen.net | No |
@@ -471,7 +469,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fandom.garden | No |
 | fandom.ink | Yes |
 | fanfare.horse | No |
-| fb.paulgeanta.com | No |
 | fearness.org | No |
 | fed.fab.industries | No |
 | fed.hvn.network | Yes |
@@ -499,7 +496,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.mint.lgbt | No |
 | fedi.n0id.space | No |
 | fedi.nekojanai.xyz | No |
-| fedi.neon.moe | No |
 | fedi.nullob.si | Yes |
 | fedi.sabatino.pro | No |
 | fedi.scd31.com | No |
@@ -581,7 +577,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | friendica.eskimo.com | No |
 | friendica.feneas.org | No |
 | friendica.gidikroon.eu | No |
-| friendica.hashy-net.de | No |
 | friendica.hellquist.eu | Yes |
 | friendica.hubup.pro | Yes |
 | friendica.ingram-braun.net | No |
@@ -1091,7 +1086,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.acc.sunet.se | No |
 | mastodon.acc.umu.se | No |
 | mastodon.acerbo.me | No |
-| mastodon.alexandrebadalo.pt | No |
 | mastodon.alienlebarge.ch | No |
 | mastodon.ar.al | No |
 | mastodon.arch-linux.cz | No |
@@ -1125,6 +1119,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.cosmicanimal.jp | No |
 | mastodon.crazynewworld.net | Yes |
 | mastodon.ctseuro.com | No |
+| mastodon.dalaomai.cn | No |
 | mastodon.darkou.fr | No |
 | mastodon.dbatley.com | No |
 | mastodon.derveni.org | No |
@@ -1309,12 +1304,14 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.zergy.net | No |
 | mastodon.zeteo.me | No |
 | mastodon.zunda.ninja | No |
+| mastodon2.juggler.jp | No |
 | mastodont.cat | No |
 | mastodontech.de | No |
 | mastodontti.fi | No |
 | mastodooooooon.xyz | No |
 | mastodos.com | No |
 | mastofant.de | No |
+| mastonaut.com | No |
 | mastouille.fr | No |
 | mathstodon.xyz | No |
 | mathtod.online | No |
@@ -1367,6 +1364,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | micro.mkp.ca | No |
 | microhive.net | No |
 | midnightride.rs | No |
+| mikumiku3.masto.host | No |
 | mikumikudance.cloud | Yes |
 | milker.cafe | No |
 | milkey.homes | Yes |
@@ -1549,6 +1547,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.unasuke.com | No |
 | mstdn.vodka | No |
 | mstdn.wildtree.jp | No |
+| mstdn.wiper.dev | No |
 | mstdn.wtsnjp.com | No |
 | mstdn.y-zu.org | Yes |
 | mstdn.yaesu-eas.tokyo | No |
@@ -1659,6 +1658,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | okadon.masto.host | No |
 | oldbytes.space | No |
 | olds.town | No |
+| omochi.xyz | No |
 | ondergrond.org | Yes |
 | one.telmina.com | No |
 | oninawa.masto.host | No |
@@ -1777,7 +1777,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleasehug.me | No |
 | pler.garrison.beer | No |
 | pler.gtx.dynu.net | No |
-| plerodatech.fr | No |
 | pleroma-in.ouda.space | No |
 | pleroma.1d4.us | Yes |
 | pleroma.8777.ch | No |
@@ -1814,7 +1813,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.iselfhost.com | No |
 | pleroma.jezra.net | No |
 | pleroma.karjalazet.se | No |
-| pleroma.kemonine.info | Yes |
 | pleroma.kitsunemimi.club | No |
 | pleroma.langmerah.net | No |
 | pleroma.ledoian.cz | No |
@@ -1842,6 +1840,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.pt | No |
 | pleroma.runfox.tk | No |
 | pleroma.ryusei.dev | No |
+| pleroma.salastil.com | Yes |
 | pleroma.shunderdo.me | No |
 | pleroma.skeptikon.fr | No |
 | pleroma.skyshanty.xyz | No |
@@ -1991,6 +1990,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | s.lx.ddnss.org | No |
 | s.neguse.net | No |
 | s.ovalerio.net | Yes |
+| s.xd0.de | No |
 | s.zholnay.name | No |
 | sabbat.hexe.net | No |
 | sackheads.social | No |
@@ -2130,7 +2130,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.barany.at | No |
 | social.bau-ha.us | No |
 | social.beachcom.org | No |
-| social.beckmeyer.us | No |
 | social.beepboop.ga | No |
 | social.berzs.xyz | No |
 | social.bim.land | No |
@@ -2177,6 +2176,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.epyisageek.net | No |
 | social.ewb.io | No |
 | social.exclaimindustries.net | No |
+| social.eyluldogruel.com | No |
 | social.farend.co.jp | No |
 | social.fbxl.net | No |
 | social.fedcast.ch | No |
@@ -2378,6 +2378,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.zdx.fr | No |
 | sociala.me | No |
 | sociale.network | No |
+| socialpub.inso.ovh | No |
 | socialtruth.social | No |
 | society.oftrolls.com | No |
 | sociopak.com | No |
@@ -2574,7 +2575,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tryliberty.org | No |
 | tsia.de | No |
 | turbo.chat | No |
-| turkum.site | No |
 | tutut.delire.party | No |
 | tuusin.misono-ya.info | No |
 | tvitero.com | No |
