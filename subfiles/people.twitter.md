@@ -7,6 +7,7 @@
 
 
 
+- Oops, I guess we weren't so genius... Gateway time-out The web server reported a gateway time-out error. Ray ID: 6b05f05dca45c64f Your IP address: redacted Error reference number: 504 Cloudflare Location: Minneapolis ([csrowell](https://twitter.com/csrowell/status/1461518980053618691))
 - There’s vastly more people around the globe using their free tier for their CDN etc. than paying customers. Its not conspiratorial its common sense; make a global online service where you handle traffic (MITM) & is so alluring that it gets adopted in every country. ([ashleycawley](https://twitter.com/ashleycawley/status/1461102539366178819))
 - It’s not blocked, it’s rate limited. But if I did block it then yeah, CF would need to store that! ([troyhunt](https://twitter.com/troyhunt/status/1461452265793810434))
 - It’s quite hard to do anything when you have blocked ALL image traffic. Even our own logo is replaced with a cloudflare abuse image when we “orange cloud” our traffic… so yes the service is very much impacted ([ryanseanbadger](https://twitter.com/ryanseanbadger/status/1461199487871840258))
