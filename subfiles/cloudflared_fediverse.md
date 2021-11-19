@@ -128,7 +128,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | b.z0ne.social | Yes |
 | b612.me | Yes |
 | babymetal.party | No |
-| backtoroot.xyz | No |
 | backyard.cloud | No |
 | badgay.net | No |
 | balkan.fedive.rs | No |
@@ -796,7 +795,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | imastodon.net | No |
 | imastodon.org | No |
 | imd.social | No |
-| inari.click | Yes |
 | inari.opencocon.org | No |
 | indiefedi.party | No |
 | indieweb.social | No |
@@ -857,7 +855,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kanoa.de | No |
 | kapocs.urbalazs.hu | No |
 | karagedon.com | No |
-| kasma.cyou | No |
 | kawaii.kitsune.cafe | No |
 | kawen.space | No |
 | kayii.goe.land | No |
@@ -1099,7 +1096,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.bida.im | No |
 | mastodon.bits-und-baeume.org | No |
 | mastodon.blake-hofer.net | No |
-| mastodon.brodi.space | No |
 | mastodon.cardina1.red | No |
 | mastodon.care-tags.org | No |
 | mastodon.cc | No |
@@ -1179,6 +1175,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.irgendwo.social | No |
 | mastodon.iriseden.eu | No |
 | mastodon.jalgi.eus | No |
+| mastodon.jemverse.xyz | Yes |
 | mastodon.jpages.eu | No |
 | mastodon.juggler.jp | No |
 | mastodon.kaiserflur.de | No |
@@ -1343,7 +1340,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | melmc.nohost.me | No |
 | melonbread.dev | No |
 | member.thenobody.club | No |
-| memo-village.com | No |
 | mental.social | No |
 | mentalhealth.social | No |
 | meow.social | No |
@@ -1956,7 +1952,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | redwombat.social | Yes |
 | refi64.com | No |
 | remerge.net | No |
-| restore.serenitytoo.com | No |
 | retro.social | No |
 | rettiwtkcuf.social | No |
 | reve.land | Yes |
@@ -2312,6 +2307,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.scriptjunkie.us | No |
 | social.seattle.wa.us | No |
 | social.secret-wg.org | No |
+| social.securetown.top | No |
 | social.servus.at | No |
 | social.shadowfacts.net | Yes |
 | social.shadowkat.net | No |
@@ -2488,7 +2484,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | thicc.horse | No |
 | this.mouse.rocks | No |
 | thraeryn.net | No |
-| thx.one | Yes |
 | ti.akirin.xyz | Yes |
 | tiksi.net | No |
 | tilde.zone | No |
@@ -2766,8 +2761,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 517 |
-| Normal | 2,212 |
+| Cloudflare | 516 |
+| Normal | 2,208 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
