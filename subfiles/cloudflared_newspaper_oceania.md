@@ -47,8 +47,8 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | 4BC Radio | https://www.4bc.com.au/ | No |
 | 4BH Radio | https://www.4bh.com.au/ | No |
 | 6PR Radio | https://www.6pr.com.au/ | No |
-| 9wave | https://www.9wave.info/ | No |
 | 96fm Radio | https://www.96fm.com.au/ | No |
+| 9wave | https://www.9wave.info/ | No |
 | ABC News | https://www.abc.net.au/ | Yes |
 | Advertiser | https://www.macarthuradvertiser.com.au/ | No |
 | Al-Furat | https://www.furatnews.com/ | No |
@@ -120,6 +120,7 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | Country News | https://www.countrynews.com.au/ | Yes |
 | Cowra Community News | https://www.cowracommunitynews.com/ | No |
 | Cowra Guardian | https://www.cowraguardian.com.au/ | No |
+| Cricket | https://www.cricket.com.au/ | Yes |
 | Crookwell Gazette | https://www.crookwellgazette.com.au/ | No |
 | Daily Liberal | https://www.dailyliberal.com.au/ | No |
 | Daily Mercury | https://www.dailymercury.com.au/ | No |
@@ -144,13 +145,14 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | Geelong Advertiser | https://www.geelongadvertiser.com.au/ | No |
 | Geelong Indy | https://geelongindy.com.au/ | No |
 | Gippsland Times | https://www.gippslandtimes.com.au/ | No |
+| Gizmodo | https://www.gizmodo.com.au/ | Yes |
 | Glasshouse & Laleny Country News | https://www.gcnews.com.au/ | No |
 | Glen Innes Examiner | https://www.gleninnesexaminer.com.au/ | No |
 | Gloucester Advocate | https://www.gloucesteradvocate.com.au/ | No |
 | Goondiwindi Argus | https://www.goondiwindiargus.com.au/ | No |
 | Goulburn Post | https://www.goulburnpost.com.au/ | No |
-| Greater Dandenong Weeklye | https://www.greaterdandenongweekly.com.au/ | No |
 | Great Lakes Advocate | https://www.greatlakesadvocate.com.au/ | No |
+| Greater Dandenong Weeklye | https://www.greaterdandenongweekly.com.au/ | No |
 | Greek Community Tribune | https://www.greektribune.com.au/ | No |
 | Green Left Weekly | https://www.greenleft.org.au/ | No |
 | Grenfell Record | https://www.grenfellrecord.com.au/ | No |
@@ -181,8 +183,8 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | Korean News | https://koreandaily.wordpress.com/ | No |
 | Kyabram Free Press | https://www.kyfreepress.com.au/ | Yes |
 | Lake News | https://www.lakenews.com.au/ | Yes |
-| Lakes Mail | https://www.lakesmail.com.au/ | No |
 | Lake Times | https://www.laketimes.com.au/ | No |
+| Lakes Mail | https://www.lakesmail.com.au/ | No |
 | Latrobe Valley Express | https://www.latrobevalleyexpress.com.au/ | No |
 | Launceston Examiner | https://www.examiner.com.au/ | No |
 | Lismore Echo | https://www.echonews.com.au/ | No |
@@ -190,6 +192,7 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | Liverpool City Champion | https://www.liverpoolchampion.com.au/ | No |
 | Local Government Focus | https://www.lgfocus.com.au/ | Yes |
 | Macedon Ranges Weekly | https://www.macedonrangesweekly.com.au/ | No |
+| MacroBusiness | https://www.macrobusiness.com.au/ | Yes |
 | Magnetic Times | https://www.magnetictimes.com/ | No |
 | Magyar Élet / Hungarian Life | https://www.magyarelet.net/ | No |
 | Mandurah Mail | https://www.mandurahmail.com.au/ | No |
@@ -210,7 +213,6 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | Middle East Times International | https://www.mideast-times.com/ | No |
 | Midland Express | https://www.midlandexpress.com.au/ | No |
 | Milton Ulladulla/Sussex Inlet Times | https://www.ulladullatimes.com.au/ | No |
-| mnnews.today | https://www.mnnews.today/ | No |
 | Monash Weekly | https://www.monashweekly.com.au/ | No |
 | Moonee Valley Weekly | https://www.mooneevalleyweekly.com.au/ | No |
 | Moree Champion | https://www.moreechampion.com.au/ | No |
@@ -224,24 +226,25 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | Navtarang | https://navtarang.com.au/ | No |
 | Neos Kosmos | https://neoskosmos.com/ | Yes |
 | Newman Mail Online | https://newmanmail.com.au/ | No |
-| News-Mail | https://www.news-mail.com.au/ | No |
 | News In Brisbane | https://www.newsinbrisbane.com.au/ | No |
 | News In Sydney | https://www.newsinsydney.com.au/ | No |
+| News-Mail | https://www.news-mail.com.au/ | No |
 | Noosa News | https://www.noosanews.com.au/ | No |
 | Noosa Today | https://noosatoday.com.au/ | No |
+| North Queensland Register | https://www.northqueenslandregister.com.au/ | No |
 | Northcote Leader | https://www.northcoteleader.com.au/ | No |
 | Northern Argus | https://www.northernargus.com.au/ | No |
 | Northern Midlands News | https://www.northernmidlandsnews.com.au/ | No |
 | Northern Territory News | https://www.ntnews.com.au/ | No |
 | Northern Valleys News | https://nvnews.com.au/ | No |
 | Northern Weekly | https://www.northernweekly.com.au/ | No |
-| North Queensland Register | https://www.northqueenslandregister.com.au/ | No |
 | Nyngan Observer | https://www.nynganobserver.com.au/ | No |
 | Oberon Review | https://www.oberonreview.com.au/ | No |
 | Ocean Grove Voice | https://oceangrovevoice.com.au/ | No |
 | Online Opinion | https://www.onlineopinion.com.au/ | No |
 | Out In Perth News | https://www.outinperth.com/ | Yes |
 | Ovens & Murray Advertiser | https://omadvertiser.com.au/ | Yes |
+| PSNews | https://www.psnews.com.au/ | Yes |
 | Pak Times | https://www.paktimes.com.au/ | No |
 | Parkes Champion-Post | https://www.parkeschampionpost.com.au/ | No |
 | Peninsula News | https://www.peninsulanews.asn.au/ | No |
@@ -258,13 +261,12 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | Port Macquarie News | https://www.portnews.com.au/ | No |
 | Port Stephens Examiner | https://www.portstephensexaminer.com.au/ | No |
 | Post Newspapers | https://www.postnewspapers.com.au/ | No |
-| PSNews | https://www.psnews.com.au/ | Yes |
 | QN | https://www.qnews.com.au/ | Yes |
 | Queensland Country Life | https://www.queenslandcountrylife.com.au/ | No |
+| RHSG News | https://www.rhsgnews.com.au/ | No |
 | Real Estate News | https://www.realestatereview.com.au/ | No |
 | Redcliffe City News | https://www.redcliffecity.com.au/ | No |
 | Redland City Bulletin | https://www.redlandcitybulletin.com.au/ | No |
-| RHSG News | https://www.rhsgnews.com.au/ | No |
 | Riverina Leader | https://www.riverinaleader.com.au/ | No |
 | Riverine Herald | https://www.riverineherald.com.au/ | Yes |
 | Roxby Downs Sun | https://www.roxbydownssun.com.au/ | No |
@@ -273,11 +275,11 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | Socialist Worker | https://www.iso.org.au/ | No |
 | South Asia Times | https://www.southasiatimes.com.au/ | No |
 | South Coast Register | https://www.southcoastregister.com.au/ | No |
+| South West Advertiser | https://www.southwestadvertiser.com.au/ | No |
 | Southern Cross | https://www.juneesoutherncross.com.au/ | No |
 | Southern Free Times | https://freetimes.com.au/ | No |
 | Southern Highland News | https://www.southernhighlandnews.com.au/ | No |
 | Southern Weekly | https://www.southernweekly.com.au/ | No |
-| South West Advertiser | https://www.southwestadvertiser.com.au/ | No |
 | Star | https://www.stmarysstar.com.au/ | No |
 | Stock & Land | https://www.stockandland.com.au/ | No |
 | Stock Journal | https://www.stockjournal.com.au/ | No |
@@ -298,10 +300,10 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | The Ararat Advertiser | https://www.araratadvertiser.com.au/ | No |
 | The Area News | https://www.areanews.com.au/ | No |
 | The Armidale Independent | https://www.armidaleindependent.com.au/ | No |
+| The Australia Times | https://www.theaustraliatimes.com/ | No |
 | The Australian Chinese Daily News Network | https://www.chinese.net.au/ | No |
 | The Australian Jewish News | https://www.jewishnews.net.au/ | Yes |
 | The Australian | https://www.theaustralian.com.au/ | No |
-| The Australia Times | https://www.theaustraliatimes.com/ | No |
 | The Avon Valley Advocate | https://www.avonadvocate.com.au/ | No |
 | The Border Mail | https://www.bordermail.com.au/ | No |
 | The Border Watch | https://www.borderwatch.com.au/ | No |
@@ -313,8 +315,8 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | The City Weekly | https://www.thecityweekly.com.au/ | No |
 | The Coffs Coast Advocate | https://www.coffscoastadvocate.com.au/ | No |
 | The Condobolin Argus | https://www.condobolinargus.com.au/ | No |
-| The Courier-Mail | https://www.thecouriermail.news.com.au/ | No |
 | The Courier | https://www.thecourier.com.au/ | No |
+| The Courier-Mail | https://www.thecouriermail.news.com.au/ | No |
 | The Cygnet & Channel Classifieds | https://www.southbus.com.au/ | No |
 | The Daily Advertiser | https://www.dailyadvertiser.com.au/ | No |
 | The Daily Telegraph | https://www.dailytelegraph.com.au/ | No |
@@ -346,12 +348,12 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | The Murray Valley Standard | https://www.murrayvalleystandard.com.au/ | No |
 | The Naracoorte Herald | https://www.naracoorteherald.com.au/ | No |
 | The Newcastle Herald | https://www.newcastleherald.com.au/ | No |
-| The Newsport Daily | https://www.thenewsport.com.au/ | No |
 | The News Weekender | https://www.newsweekender.com.au/ | No |
+| The Newsport Daily | https://www.thenewsport.com.au/ | No |
+| The North West Star | https://www.northweststar.com.au/ | No |
 | The Northern Daily Leader | https://www.northerndailyleader.com.au/ | No |
 | The Northern Star | https://www.northernstar.com.au/ | No |
 | The Northern Times | https://www.thenortherntimes.com.au/ | No |
-| The North West Star | https://www.northweststar.com.au/ | No |
 | The Plains Producer | https://www.plainsproducer.com.au/ | No |
 | The Port Paper | https://www.portpaper.com/ | Yes |
 | The Post | https://www.newcastlepost.com.au/ | No |
@@ -368,10 +370,10 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | The Standard | https://www.standard.net.au/ | No |
 | The Star | https://www.newcastlestar.com.au/ | No |
 | The Stawell Times-News | https://www.stawelltimes.com.au/ | No |
+| The Sun | https://www.parramattasun.com.au/ | No |
 | The Sun-Herald | https://www.sunherald.com.au/ | No |
 | The Sunshine Coast Daily | https://www.sunshinecoastdaily.com.au/ | No |
 | The Sunshine Coast News | https://www.sunshinecoastnews.com.au/ | No |
-| The Sun | https://www.parramattasun.com.au/ | No |
 | The Surf Coast Times | https://surfcoasttimes.com.au/ | No |
 | The Sydney Morning Herald | https://www.smh.com.au/ | No |
 | The Telegraph | https://www.seymourtelegraph.com.au/ | Yes |
@@ -390,9 +392,9 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | Thursday Magnet | https://www.edenmagnet.com.au/ | No |
 | Torres News | https://www.torresnews.com.au/ | No |
 | Town & Country Magazine | https://www.townandcountrymagazine.com.au/ | No |
+| VUN | https://vietucnews.net/ | Yes |
 | Viet Times | https://vtimes.com.au/ | No |
 | View News | https://viewnews.com.au/ | No |
-| VUN | https://vietucnews.net/ | Yes |
 | WA Business News | https://www.wabusinessnews.com.au/ | No |
 | Walcha News | https://www.walchanewsonline.com.au/ | No |
 | Waracknabeal Herald | https://www.warrackherald.com.au/ | Yes |
@@ -413,6 +415,7 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | Workers Online | https://workers.labor.net.au/ | Yes |
 | Yass Tribune | https://www.yasstribune.com.au/ | No |
 | Yorke Peninsula Country Times | https://www.ypct.com.au/ | No |
+| mnnews.today | https://www.mnnews.today/ | No |
 
 </details>
 
@@ -828,7 +831,7 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 | --- | --- | --- | --- |
 | American samoa | 1 | 1 | 50% |
 | Antarctica | 0 | 3 | 0% |
-| Australia | 40 | 331 | 10.78% |
+| Australia | 43 | 331 | 11.5% |
 | Cook islands | 0 | 2 | 0% |
 | Fiji | 0 | 5 | 0% |
 | French polynesia | 1 | 2 | 33.33% |
@@ -856,11 +859,11 @@ The following is a [list](https://onlinenewspapers.com/) of online newspapers in
 
 | Type | Site Count | Owner Count |
 | --- | --- | --- |
-| Cloudflare | 64 | 60 |
+| Cloudflare | 67 | 63 |
 | Normal | 443 | 441 |
-| Total | 507 | 501 |
+| Total | 510 | 504 |
 
 
-### 12.62% of online newspapers sites are using Cloudflare.
-### 11.98% of online newspaper corporations in Oceania are using Cloudflare.
+### 13.14% of online newspapers sites are using Cloudflare.
+### 12.5% of online newspaper corporations in Oceania are using Cloudflare.
 
