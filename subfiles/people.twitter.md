@@ -7,6 +7,9 @@
 
 
 
+- There’s vastly more people around the globe using their free tier for their CDN etc. than paying customers. Its not conspiratorial its common sense; make a global online service where you handle traffic (MITM) & is so alluring that it gets adopted in every country. ([ashleycawley](https://twitter.com/ashleycawley/status/1461102539366178819))
+- It’s not blocked, it’s rate limited. But if I did block it then yeah, CF would need to store that! ([troyhunt](https://twitter.com/troyhunt/status/1461452265793810434))
+- It’s quite hard to do anything when you have blocked ALL image traffic. Even our own logo is replaced with a cloudflare abuse image when we “orange cloud” our traffic… so yes the service is very much impacted ([ryanseanbadger](https://twitter.com/ryanseanbadger/status/1461199487871840258))
 - And the fact Cloudflare has been allowed to front crazy Jihadi sites etc is proof enough in my book that they're used as an NSA MiTM. ([penfolddavid](https://twitter.com/PenfoldDavid/status/1461327361224450051))
 - Hi , I have updated your page too many times and my IP got blocked by cloudflare. Do you plan to handle that better in the future? Unfortunately, that's why I couldn't buy any flat punks. 😟 ([_bitcoin_pirate](https://twitter.com/_Bitcoin_Pirate/status/1461252401864794116))
 - Bhai plz koi bata do why tf did cloudflare stop working im legit pissed ([spraykingthe1](https://twitter.com/spraykingthe1/status/1461190897442295814))
