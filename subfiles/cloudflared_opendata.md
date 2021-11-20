@@ -330,4 +330,4 @@ The following is a list of Open Data sites.
 | Normal | 258 |
 
 
-### 16% of Open data sites are using Cloudflare.
+### 16% of Open Data sites are using Cloudflare.
