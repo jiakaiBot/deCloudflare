@@ -19,12 +19,12 @@
     - [#CloudflareTest](service.altlink_cftest.md)
 - Cloudflared
   - How many % of top most visited sites?
-    - [How many % of top 1,000 most visited sites(2010) are using Cloudflare?](cloudflared_top1000-2010-google.md) _Google_
-    - [How many % of top 10,000 most popular domains(2014) are using Cloudflare?](cloudflared_top10000-2014-opendns.md) _OpenDNS_
-    - [How many % of top 1,000 most visited sites(2019) are using Cloudflare?](cloudflared_top1000-2019-alexa.md) _Alexa_
-    - [How many % of top 100,000 WordPress sites(2020) are using Cloudflare?](cloudflared_top100000-2020-wordpress.md) _Wordpress_
-    - [How many % of top 500 most popular sites(2021) are using Cloudflare?](cloudflared_top500-2021-moz.md) _Moz_
-    - [How many % of top 1 million most visited sites(2021) are using Cloudflare?](cloudflared_top1m-2021-alexa.md) _Alexa_
+    - [How many % of top 1,000 most visited sites(2010) are using Cloudflare?](cloudflared/top1000-2010-google.md) _Google_
+    - [How many % of top 10,000 most popular domains(2014) are using Cloudflare?](cloudflared/top10000-2014-opendns.md) _OpenDNS_
+    - [How many % of top 1,000 most visited sites(2019) are using Cloudflare?](cloudflared/top1000-2019-alexa.md) _Alexa_
+    - [How many % of top 100,000 WordPress sites(2020) are using Cloudflare?](cloudflared/top100000-2020-wordpress.md) _Wordpress_
+    - [How many % of top 500 most popular sites(2021) are using Cloudflare?](cloudflared/top500-2021-moz.md) _Moz_
+    - [How many % of top 1 million most visited sites(2021) are using Cloudflare?](cloudflared/top1m-2021-alexa.md) _Alexa_
   - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared_fortune1000.md)
   - How many % of banks & financial institutions are using Cloudflare?
     - [Africa](cloudflared_financial_africa.md)
