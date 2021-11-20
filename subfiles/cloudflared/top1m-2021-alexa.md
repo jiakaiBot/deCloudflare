@@ -5,7 +5,7 @@
   - The current list contains [612,880 domains](http://s3.amazonaws.com/alexa-static/top-1m.csv.zip).
 
 
-Here's the result.!!!
+Here's the result.
 
 
 | Type | Count |
