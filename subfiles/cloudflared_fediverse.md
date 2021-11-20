@@ -174,6 +174,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bitcoinlizard.net | No |
 | bittube.social | No |
 | biwakodon.com | No |
+| bla.chymera.eu | No |
 | blabber.rocks | No |
 | blackjackandhookers.net | No |
 | blessedgeeks.org | No |
@@ -181,6 +182,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | blimps.xyz | Yes |
 | blob.cat | No |
 | blockriot.com | No |
+| blog.serverok.pl | No |
 | blovice.bahnhof.cz | No |
 | blue.skye.cx | No |
 | bobek.cz | No |
@@ -237,7 +239,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | castopod.chaouane.xyz | No |
 | casually.cat | No |
 | cat.family | No |
-| catdon.life | No |
 | catgirl.life | No |
 | catgram.jp | Yes |
 | cathode.church | No |
@@ -329,7 +330,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | d.map-le.net | No |
 | dads.cool | No |
 | daedal.io | No |
-| dain.moe | Yes |
 | dallas.lu | Yes |
 | dannythe.site | No |
 | darkest-timeline.com | No |
@@ -535,6 +535,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | floyds.io | Yes |
 | fluf.club | No |
 | fluff.land | No |
+| flumph.masto.host | No |
+| fm2.0x42.ch | No |
 | fnordon.de | No |
 | fnya.ggtea.org | No |
 | foresdon.jp | No |
@@ -758,7 +760,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hubzilla.dark-alexandr.net | No |
 | hubzilla.eu | No |
 | hubzilla.fkn-systems.de | No |
-| hubzilla.konzurovski.net | No |
 | hugh.buzz | No |
 | hulvr.com | No |
 | hunk.city | No |
@@ -1680,6 +1681,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | oulipo.social | No |
 | ourempty.pub | No |
 | outerheaven.club | No |
+| owlper.ch | No |
 | ozhika.me | No |
 | p.ashiato45.net | No |
 | p.mr64.net | No |
@@ -2166,6 +2168,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.emisocks.com | No |
 | social.epenguin.com | Yes |
 | social.epyisageek.net | No |
+| social.esadhar.net | No |
 | social.ewb.io | No |
 | social.exclaimindustries.net | No |
 | social.eyluldogruel.com | No |
@@ -2261,7 +2264,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.net.ua | No |
 | social.nevira.net | No |
 | social.nfld.uk | No |
-| social.nipponalba.scot | No |
 | social.nofftopia.com | Yes |
 | social.nomagic.uk | No |
 | social.nyerm.com | No |
@@ -2758,8 +2760,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 515 |
-| Normal | 2,206 |
+| Cloudflare | 514 |
+| Normal | 2,209 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
