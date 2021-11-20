@@ -27,11 +27,11 @@
     - [How many % of top 1 million most visited sites(2021) are using Cloudflare?](cloudflared/top1m-2021-alexa.md) _Alexa_
   - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared_fortune1000.md)
   - How many % of banks & financial institutions are using Cloudflare?
-    - [Africa](cloudflared_financial_africa.md)
-    - [America](cloudflared_financial_america.md)
-    - [Asia](cloudflared_financial_asia.md)
-    - [Europe](cloudflared_financial_europe.md)
-    - [Oceania](cloudflared_financial_oceania.md)
+    - [Africa](cloudflared/financial_africa.md)
+    - [America](cloudflared/financial_america.md)
+    - [Asia](cloudflared/financial_asia.md)
+    - [Europe](cloudflared/financial_europe.md)
+    - [Oceania](cloudflared/financial_oceania.md)
   - How many % of online newspapers are using Cloudflare?
     - [Africa](cloudflared_newspaper_africa.md)
     - [America / Caribbean](cloudflared_newspaper_america.md)
