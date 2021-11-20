@@ -1,4 +1,4 @@
-## How many % of Open data sites are using Cloudflare?
+## How many % of Open Data sites are using Cloudflare?
 
 
 - [Open Government](https://www.data.gov/open-gov/)
@@ -8,7 +8,7 @@ for economic development, and informs decision making in both the private and pu
 ```
 
 
-The following is a list of open data sites.
+The following is a list of Open Data sites.
 
 
 | Name | URL | Type | Cloudflared |
