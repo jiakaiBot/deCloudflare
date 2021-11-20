@@ -7,6 +7,7 @@
 
 
 
+- I have reported a blog on your platform for lifting my blog posts & have heard nothing from you. Today they posted my very personal post about my dad’s death. Please get this blog taken down. ([ciarnac](https://twitter.com/CiarnaC/status/1462025035808444420))
 - omg, amazing again, you just don't stop 😂 ([leomp1208](https://twitter.com/leomp1208/status/1461341575846395910))
 - I'm finding more and more sites that block access from non-ISP IP addresses or that use CloudFlare who block 'troublesome' addresses which is are problems when using any VPN service - I'm concerned that as this becomes more widespread the internet will become less private. ([dilbertdave](https://twitter.com/DilbertDave/status/1461757268345643014))
 - Not to alarm you but if the Cloudflare captcha is happening a lot you might have a virus on your computer, this was happening to me but then I reformatted my hard drive and it stopped happening ([morgankbell](https://twitter.com/morgankbell/status/1461745131220979712))
