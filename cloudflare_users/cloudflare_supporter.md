@@ -4691,6 +4691,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ravikum76334611@twitter](https://twitter.com/Ravikum76334611/status/1387351894058672133) | advertise |
 | [RaviMou75142746@twitter](https://twitter.com/RaviMou75142746/status/1384902921561706501) | advertise |
 | [RaviNam55980590@twitter](https://twitter.com/RaviNam55980590/status/1410996392063946753) | moral (advertise) |
+| [rayklanderman@twitter](https://twitter.com/rayklanderman/status/1461680590873317377) | advertise |
 | [Raymond09739398@twitter](https://twitter.com/Raymond09739398/status/1379876402128822276) | advertise |
 | [Razaini9@twitter](https://twitter.com/Razaini9/status/1391507226221682690) | advertise |
 | [ra_pha_elo@twitter](https://twitter.com/ra_pha_elo/status/1389335112563757058) | advertise |
@@ -5531,6 +5532,7 @@ Do not create new issue or we will close it as duplicate.
 | [therealgeorge@twitter](https://twitter.com/therealgeorge/status/1399077136720334851) | advertise |
 | [therealjokerk@twitter](https://twitter.com/therealjokerk/status/1446952055176892416) | advertise |
 | [therealmthree@twitter](https://twitter.com/therealmthree/status/1394930520664907792) | advertise |
+| [thesniperxjohn@twitter](https://twitter.com/thesniperxjohn/status/1461961789550194691) | advertise |
 | [ThetHmu94758677@twitter](https://twitter.com/ThetHmu94758677/status/1393511419195232258) | advertise |
 | [ThetHta38752469@twitter](https://twitter.com/ThetHta38752469/status/1399628436117725187) | advertise |
 | [ThetLwi70439087@twitter](https://twitter.com/ThetLwi70439087/status/1391395771916775440) | advertise |
