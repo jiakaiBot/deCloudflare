@@ -57,6 +57,7 @@
   - [How many % of Hosting Providers are using Cloudflare on their site?](cloudflared_hostingprovider.md)
   - [How many % of Mozilla's Root CAs are using Cloudflare?](cloudflared_mozilla_rootca.md)
   - [How many % of Open Data sites are using Cloudflare?](cloudflared_opendata.md)
+  - [How many % of University and College websites in the United States are using Cloudflare?](cloudflared_usa_college_university.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
