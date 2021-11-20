@@ -56,6 +56,7 @@
   - [How many % of Domain name registrars are using Cloudflare?](cloudflared_domain_registrars.md)
   - [How many % of Hosting Providers are using Cloudflare on their site?](cloudflared_hostingprovider.md)
   - [How many % of Mozilla's Root CAs are using Cloudflare?](cloudflared_mozilla_rootca.md)
+  - [How many % of Open Data sites are using Cloudflare?](cloudflared_opendata.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
