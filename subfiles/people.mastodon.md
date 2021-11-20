@@ -7,6 +7,8 @@
 
 
 
+- So the #StapleCenter in #LosAngeles is set to be renamed the #CloudflareCenter (–we mean #CryptoDotComCenter). How nice. (Don't forget to send all you banking data to #Cloudflare, folks) #cloudflareIsTheMalware #cryptoDotCon #cloudflareIsTheVirus #cryptoDotCom #crypto #boycottCloudflare #bitcoin #blockCloudflareMITMAttack #whyBitcoinCore #whyI2P ([dsfgs](https://activism.openworlds.info/@dsfgs/107304037857113539))
+- So the #StapleCenter in Los Angeles is set to be renamed the #CloudflareCenter (–we mean #CryptoDotComCenter). How nice. (Don't forget to send all you #banking data to #Cloudflare, folks) #cloudflareIsTheMalware #cryptoDotCon #cloudflareIsTheVirus #cryptoDotCom #crypto #boycottCloudflare #bitcoin #losAngeles #massSurveillance #surveillance #privacy #digitalWallet #blockCloudflareMITMAttack #whyBitcoinCore #whyI2P ([dsfgs](https://activism.openworlds.info/@dsfgs/107304060835283757))
 - kanagawa.jpがgTLDってことも実は既知ではあったの…しかも数ヶ月前はCloudflareを利用していたの… ([atsuchan](https://atsuchan.page/@atsuchan/107298227062862999))
 - いやちがうんよ、もともとお名前.comのネームサーバーで利用していたんだけど、名前解決しなくなったから、Cloudflareにうつしたのよ、でもそうしたらDNSSECの問題でやっぱだめだねってなって、今お名前.comに戻してる、振り出しに戻った ([atsuchan](https://atsuchan.page/@atsuchan/107298206393299849))
 - 昨日の20時くらいまではお名前のネームサーバーを利用していて、そこが2日ほど名前解決すら機能しておらず、21時にCloudflareを再び使うように設定すると名前解決のエラーからSSLエラーに変わった、でCloudflareのエッジ証明書がいつまでも設定されない状況 ([atsuchan](https://atsuchan.page/@atsuchan/107297578188739314))
