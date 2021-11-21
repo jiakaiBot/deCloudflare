@@ -168,7 +168,7 @@ set 3 on
   - Let us know if above account is censored by aggressive Cloudflare supporters.
 - ↳ [Altlink IRC Service](service.altlink_irc.md)
 - ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
-- ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared_fediverse.md)
-- ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared_shared_mastodon.md)
+- ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared/fediverse.md)
+- ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared/shared_mastodon.md)
 
 <a rel="me" href="https://mamot.fr/@altlink"></a>
