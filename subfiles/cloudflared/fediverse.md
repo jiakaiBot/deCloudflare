@@ -123,7 +123,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ausglam.space | No |
 | avantwhatever.org | No |
 | awes.one | Yes |
-| awoo.chown.me | No |
 | awoo.fai.su | No |
 | awoo.space | No |
 | b.z0ne.social | Yes |
@@ -1368,6 +1367,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | miniwa.moe | No |
 | minohdon.jp | No |
 | misc.name | No |
+| misk.hoshisaki-h.com | No |
 | misky.rikunagiweb.jp | No |
 | miss-myhouse-key.net | Yes |
 | misskey-exp.cyberrex.jp | Yes |
@@ -1809,7 +1809,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.kitsunemimi.club | No |
 | pleroma.langmerah.net | No |
 | pleroma.ledoian.cz | No |
-| pleroma.lesateliersphv.net | No |
 | pleroma.libretux.com | No |
 | pleroma.lord.re | No |
 | pleroma.marud.fr | No |
@@ -1990,6 +1989,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | saigyouji.cyou | Yes |
 | salesforce.social | No |
 | salon.fika.moe | No |
+| san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
 | sanguinem.space | No |
 | sarcasm.stream | No |
@@ -2602,7 +2602,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | under-bank.blue | No |
 | underground-side-kochira-kotonoha.xyz | No |
 | unexpected.singleuser.club | No |
-| unholy-lair.69.mu | No |
 | unkomaker.hostdon.ne.jp | Yes |
 | unkworks.net | No |
 | unnerv.jp | No |
@@ -2759,7 +2758,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 514 |
-| Normal | 2,207 |
+| Normal | 2,206 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
