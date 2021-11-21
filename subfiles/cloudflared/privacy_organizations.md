@@ -15,7 +15,6 @@ The following is a [list](https://en.wikipedia.org/wiki/Category:Privacy_organiz
 | Canadian Internet Policy and Public Interest Clinic | www.cippic.ca | No |
 | Center for Democracy and Technology | cdt.org | Yes |
 | Computers, Freedom and Privacy Conference | www.cfp.org | No |
-| CrimeFlare | crimeflare.com | No |
 | Czech Pirate Party | www.pirati.cz | Yes |
 | Data Security Council of India | www.dsci.in | No |
 | Digital Rights Ireland | en.wikipedia.org | No |
@@ -64,7 +63,7 @@ The following is a [list](https://en.wikipedia.org/wiki/Category:Privacy_organiz
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 11 |
-| Normal | 40 |
+| Normal | 39 |
 
 
-### 21.6% of Privacy organizations are using Cloudflare.
+### 22% of Privacy organizations are using Cloudflare.
