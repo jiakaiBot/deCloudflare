@@ -1,7 +1,7 @@
 ## How many % of gambling domains are using Cloudflare?
 
 
-We downloaded the pornhosts list from [here](https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts) and filter out duplicates.
+We downloaded the gambling list from [here](https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts) and filter out duplicates.
 Here's the result.
 
 
