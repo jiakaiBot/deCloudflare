@@ -7,6 +7,7 @@
 
 
 
+- WARNING: Sharing a link to a #Cloudflare, or #Amazon-served website means we may not interact with it, even if it may have merit, unless it has a warning that the site violates a #humanRight of #privacy and undermines #democracy. Same with sharing a #Reuters link — eg. they block Tor users. ([dsfgs](https://activism.openworlds.info/@dsfgs/107315116892062943))
 - (balux orgをCloudflare Registrarで取得した。問題なければここにいろいろ設置していく。自作言語その他の名称も全部Baluxにしてしまおう。まずはGiteaを建てようかと思う。それとCloudflare + B2 Storageも試したいな……)Oo｡(′◡‵　　　 ([tomoaki3478](https://mstdn.res.ac/@tomoaki3478/107312392205651481))
 - # cloudflared tunnel run honi的なやつを自動でやるようにしないと簡単に締め出される ([thinaticsystem](https://honi.club/notes/8tbcv02yxd))
 - Cloudflareのアドレスだけ許可して他は弾く奴でしょ 極めて安全かも ([omhnc](https://honi.club/notes/8tb7vjhm2e))
