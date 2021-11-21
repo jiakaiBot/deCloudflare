@@ -1,3 +1,4 @@
+10-64.akam.net
 a1-1.akam.net
 a1-10.akam.net
 a1-100.akam.net
@@ -335,6 +336,7 @@ a9-67.akam.net
 adns1.akam.net
 adns3.akam.net
 al-135.akam.net
+asai3.akam.net
 asia1.akam.net
 asia2.akam.net
 asia3.akam.net
@@ -429,6 +431,7 @@ ns1-191.akam.net
 ns1-193.akam.net
 ns1-194.akam.net
 ns1-195.akam.net
+ns1-197.akam.net
 ns1-198.akam.net
 ns1-199.akam.net
 ns1-2.akam.net
@@ -446,6 +449,7 @@ ns1-210.akam.net
 ns1-211.akam.net
 ns1-212.akam.net
 ns1-213.akam.net
+ns1-214.akam.net
 ns1-215.akam.net
 ns1-216.akam.net
 ns1-217.akam.net
