@@ -37,6 +37,11 @@
     - [Asia / Middle East](cloudflared/newspaper_asia.md)
     - [Europe](cloudflared/newspaper_europe.md)
     - [Oceania](cloudflared/newspaper_oceania.md)
+  - How many % of University and College websites are using Cloudflare?
+    - [United States](cloudflared/collegeuniversity_usa.md)
+    - [xxxxxxxxxxxx](xxxxxxxxxxxxxxxxx)
+    - [xxxxxxxxxxxx](xxxxxxxxxxxxxxxxx)
+    - [xxxxxxxxxxxx](xxxxxxxxxxxxxxxxx)
   - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared/fortune1000.md)
   - [How many % of online magazines are using Cloudflare?](cloudflared/magazine.md)
   - [How many % of Bitcoin Exchange sites are using Cloudflare?](cloudflared/bitcoinexchange.md)
@@ -61,7 +66,6 @@
   - [How many % of Hosting Providers are using Cloudflare on their site?](cloudflared/hostingprovider.md)
   - [How many % of Mozilla's Root CAs are using Cloudflare?](cloudflared/mozilla_rootca.md)
   - [How many % of Open Data sites are using Cloudflare?](cloudflared/opendata.md)
-  - [How many % of University and College websites in the United States are using Cloudflare?](cloudflared/usa_college_university.md)
   - [How many % of Privacy organizations are using Cloudflare?](cloudflared/privacy_organizations.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
