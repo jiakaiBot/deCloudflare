@@ -13,13 +13,13 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 - Here's a statistic of public Mastodon toots.
   - Inactive accounts (e.g. No toots sent for 1 month) are not listed.
 - Contents
-  - [Top 10 - Shared Any links](cloudflared_shared_mastodon.md#top-10-shared-any-links)
-  - [Top 100 - Shared Cloudflare links](cloudflared_shared_mastodon.md#top-100-shared-cloudflare-links)
-  - [Top 100 - Most Shared Domains](cloudflared_shared_mastodon.md#top-100-most-shared-domains)
-  - [Mastodon - Top 10 Most Used Language](cloudflared_shared_mastodon.md#mastodon-top-10-most-used-language)
-  - [Mastodon - Top 10 Most Used Servers](cloudflared_shared_mastodon.md#mastodon-top-10-most-used-servers)
-  - [Summary](cloudflared_shared_mastodon.md#summary)
-- ↳ **Stop Sharing Cloudflare Links**! Follow [Alternative Link](service.altlink.md)
+  - [Top 10 - Shared Any links](shared_mastodon.md#top-10-shared-any-links)
+  - [Top 100 - Shared Cloudflare links](shared_mastodon.md#top-100-shared-cloudflare-links)
+  - [Top 100 - Most Shared Domains](shared_mastodon.md#top-100-most-shared-domains)
+  - [Mastodon - Top 10 Most Used Language](shared_mastodon.md#mastodon-top-10-most-used-language)
+  - [Mastodon - Top 10 Most Used Servers](shared_mastodon.md#mastodon-top-10-most-used-servers)
+  - [Summary](shared_mastodon.md#summary)
+- ↳ **Stop Sharing Cloudflare Links**! Follow [Alternative Link](../service.altlink.md)
 
 ----
 
@@ -314,7 +314,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
     - About *91,157* toots/day by all users, *1.7* toots/day per user
 - Now let's focus on *Mastodon toots which has any links*.
 
-![](../image/bully.jpg)
+![](../../image/bully.jpg)
 
 - *24,869* Mastodon users posted *639,065* public toots contains 1,036,133 links. (about *1.6* links/toot)
   - About *47.5*% of total Mastodon users shared any links.
@@ -338,4 +338,4 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 ----
 
-![](../image/mastodoncf.jpg)
+![](../../image/mastodoncf.jpg)
