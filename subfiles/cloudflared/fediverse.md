@@ -624,7 +624,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gearlandia.haus | Yes |
 | gececibaykus.com | No |
 | geekcompass.com | Yes |
-| geeknews.chat | No |
 | genau.qwertqwefsday.eu | No |
 | genitalia.observer | No |
 | geno.social | No |
@@ -1018,7 +1017,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m6n.onsen.tech | Yes |
 | ma.fono.jp | No |
 | ma.strangeworld.jp | No |
-| machida.yokohama | No |
 | machikadon.online | Yes |
 | machteburch.social | No |
 | maddypa.ws | No |
@@ -1842,7 +1840,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.swab.dev | Yes |
 | pleroma.unigiri.net | No |
 | pleroma.wafflec.one | No |
-| pleroma.wakuwakup.net | Yes |
 | pleroma.wolfie.pw | No |
 | pleroma.xmanifesto.club | No |
 | pleroma.zenwillow.website | No |
@@ -2300,6 +2297,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.saarland | No |
 | social.sakamoto.gq | No |
 | social.schiessle.org | No |
+| social.scholzbande.de | No |
 | social.scribblers.club | No |
 | social.scriptjunkie.us | No |
 | social.seattle.wa.us | No |
@@ -2456,7 +2454,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tekkadon.manimani.cc | No |
 | telescope.garden | No |
 | tenforward.social | No |
-| tennis.masto.host | No |
 | tentacle.social | No |
 | teslam.in | Yes |
 | testingmstdn.abcang.net | No |
@@ -2757,8 +2754,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 514 |
-| Normal | 2,206 |
+| Cloudflare | 513 |
+| Normal | 2,204 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
