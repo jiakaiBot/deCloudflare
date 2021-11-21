@@ -15,7 +15,7 @@ The following is a [list](https://en.wikipedia.org/wiki/Category:Privacy_organiz
 | Canadian Internet Policy and Public Interest Clinic | www.cippic.ca | No |
 | Center for Democracy and Technology | cdt.org | Yes |
 | Computers, Freedom and Privacy Conference | www.cfp.org | No |
-| CrimeFlare | crimeflare.eu.org | No |
+| CrimeFlare | crimeflare.com | No |
 | Czech Pirate Party | www.pirati.cz | Yes |
 | Data Security Council of India | www.dsci.in | No |
 | Digital Rights Ireland | en.wikipedia.org | No |
