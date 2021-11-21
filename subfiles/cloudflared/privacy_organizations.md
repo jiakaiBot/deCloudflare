@@ -17,7 +17,7 @@ The following is a [list](https://en.wikipedia.org/wiki/Category:Privacy_organiz
 | Computers, Freedom and Privacy Conference | www.cfp.org | No |
 | Czech Pirate Party | www.pirati.cz | Yes |
 | Data Security Council of India | www.dsci.in | No |
-| Digital Rights Ireland | en.wikipedia.org | No |
+| Digital Rights Ireland | www.digitalrights.ie | No |
 | Digital Rights Watch | digitalrightswatch.org.au | No |
 | Digitalcourage | www.digitalcourage.de | No |
 | Digitale Gesellschaft | digitalegesellschaft.de | No |
