@@ -582,6 +582,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | friendica.hubup.pro | Yes |
 | friendica.ingram-braun.net | No |
 | friendica.ironbug.org | No |
+| friendica.jb-net.us | No |
 | friendica.mrpetovan.com | No |
 | friendica.produnis.de | No |
 | friendica.utzer.de | No |
@@ -651,8 +652,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | glitch.tar.black | No |
 | glitchcity.cc | No |
 | glitterkitten.co.uk | No |
+| globalwarming.fun | No |
 | gn-tronics.dev | No |
-| gnubox.org | No |
 | gnusocial.net | No |
 | go5.dev | Yes |
 | goblin.camp | No |
@@ -698,7 +699,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | haskell.social | Yes |
 | hates.company | No |
 | hatesli.me | No |
-| hawara.hallertau.social | No |
 | hax0rbana.social | No |
 | hayu.sh | No |
 | hedgehog.pub | Yes |
@@ -890,7 +890,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kiwifarms.cc | Yes |
 | kms.sasuga.xyz | No |
 | knotenpunkt-alpen.de | No |
-| kohrville.net | No |
 | kokonect.link | No |
 | kolektiva.social | Yes |
 | kollegin.eu | No |
@@ -904,6 +903,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kr.akirin.xyz | Yes |
 | krefeld.life | No |
 | krokodil.se | No |
+| kuddel.greentrawler.space | No |
 | kuluary.c44.pl | No |
 | kurage.cc | No |
 | kuroharu.hostdon.ne.jp | Yes |
@@ -1414,7 +1414,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.catgirlsfor.science | Yes |
 | mk.comfysnug.space | No |
 | mk.fedi.tech | No |
-| mk.himbeer.me | Yes |
 | mk.hime.moe | No |
 | mk.iaia.moe | No |
 | mk.lei202.com | Yes |
@@ -1606,7 +1605,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | noagendasocialist.com | No |
 | nobigtech.es | No |
 | noc.social | No |
-| node.chrishannah.me | No |
 | node9.org | No |
 | nofan.xyz | Yes |
 | noize.guru | No |
@@ -1747,7 +1745,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pl.jugregator.org | No |
 | pl.kotobank.ch | No |
 | pl.kpherox.dev | No |
-| pl.lain.bar | No |
 | pl.mastodont.cat | No |
 | pl.nikotile.xyz | Yes |
 | pl.nudie.social | No |
@@ -1889,6 +1886,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ppl.town | No |
 | pr0mised.life | Yes |
 | precure.ml | No |
+| pret.life | No |
 | pritter.work | No |
 | programming.socks.town | No |
 | prolinos.social | No |
@@ -2048,6 +2046,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | skoops.social | No |
 | skorpil.cz | No |
 | skrivel.se | No |
+| skrt.social | No |
 | skull.website | No |
 | skunk.agency | No |
 | skyjake.fi | No |
@@ -2152,7 +2151,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.daspr.io | Yes |
 | social.dc6jgk.de | No |
 | social.deadsuperhero.com | No |
-| social.demonix.fr | No |
 | social.dev-wiki.de | No |
 | social.device5.co.uk | No |
 | social.diekershoff.de | No |
@@ -2207,7 +2205,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.imirhil.fr | No |
 | social.inex.rocks | No |
 | social.interhop.org | No |
-| social.ir5.eu | No |
 | social.ironboundsoftware.com | Yes |
 | social.irrwitz.com | No |
 | social.isharacomix.org | No |
@@ -2489,7 +2486,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tilde.zone | No |
 | ting.cm | No |
 | tiny.tilde.website | No |
-| tmkis.social | No |
 | todon.eu | No |
 | todon.nl | No |
 | togart.de | No |
@@ -2554,7 +2550,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | touhou.party | No |
 | towns.gay | No |
 | trailblazer.social | No |
-| trails.floor9.com | No |
 | trainsgende.red | No |
 | trans.fm | No |
 | transient.garden | No |
@@ -2570,6 +2565,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tryliberty.org | No |
 | tsia.de | No |
 | turbo.chat | No |
+| turkum.site | No |
 | tutut.delire.party | No |
 | tuusin.misono-ya.info | No |
 | tvitero.com | No |
@@ -2659,6 +2655,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | waifuism.life | No |
 | wake.st | No |
 | walkman.social | No |
+| wall.demouliere.eu | No |
 | wallflowersocial.club | No |
 | wandel.social | No |
 | wandering.shop | No |
@@ -2718,6 +2715,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | xyzzy.link | No |
 | yakumo.foundation | Yes |
 | yamagadon.com | No |
+| yamaken.jp | Yes |
 | yeahnahcunt.club | No |
 | yggdrasil.social | No |
 | ygo.pub | Yes |
@@ -2761,7 +2759,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 514 |
-| Normal | 2,209 |
+| Normal | 2,207 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
