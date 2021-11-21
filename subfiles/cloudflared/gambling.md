@@ -11,18 +11,18 @@ Here's the result.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| com | 5,659 |
-| net | 536 |
-| org | 168 |
-| pro | 100 |
-| tv | 99 |
+| com | 935 |
+| eu | 47 |
+| net | 40 |
+| ag | 38 |
+| uk | 32 |
 
 
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 2,665 |
-| Normal | 5,047 |
+| Cloudflare | 464 |
+| Normal | 843 |
 
 
-### 34.6% of gambling domains are using Cloudflare.
+### 35.5% of gambling domains are using Cloudflare.
