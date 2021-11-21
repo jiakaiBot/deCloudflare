@@ -7,6 +7,7 @@
 
 
 
+- (balux orgをCloudflare Registrarで取得した。問題なければここにいろいろ設置していく。自作言語その他の名称も全部Baluxにしてしまおう。まずはGiteaを建てようかと思う。それとCloudflare + B2 Storageも試したいな……)Oo｡(′◡‵　　　 ([tomoaki3478](https://mstdn.res.ac/@tomoaki3478/107312392205651481))
 - # cloudflared tunnel run honi的なやつを自動でやるようにしないと簡単に締め出される ([thinaticsystem](https://honi.club/notes/8tbcv02yxd))
 - Cloudflareのアドレスだけ許可して他は弾く奴でしょ 極めて安全かも ([omhnc](https://honi.club/notes/8tb7vjhm2e))
 - So the #StapleCenter in #LosAngeles is set to be renamed the #CloudflareCenter (–we mean #CryptoDotComCenter). How nice. (Don't forget to send all you banking data to #Cloudflare, folks) #cloudflareIsTheMalware #cryptoDotCon #cloudflareIsTheVirus #cryptoDotCom #crypto #boycottCloudflare #bitcoin #blockCloudflareMITMAttack #whyBitcoinCore #whyI2P ([dsfgs](https://activism.openworlds.info/@dsfgs/107304037857113539))
