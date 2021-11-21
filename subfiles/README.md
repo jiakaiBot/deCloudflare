@@ -25,7 +25,6 @@
     - [How many % of top 100,000 WordPress sites(2020) are using Cloudflare?](cloudflared/top100000-2020-wordpress.md) _Wordpress_
     - [How many % of top 500 most popular sites(2021) are using Cloudflare?](cloudflared/top500-2021-moz.md) _Moz_
     - [How many % of top 1 million most visited sites(2021) are using Cloudflare?](cloudflared/top1m-2021-alexa.md) _Alexa_
-  - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared_fortune1000.md)
   - How many % of banks & financial institutions are using Cloudflare?
     - [Africa](cloudflared/financial_africa.md)
     - [America](cloudflared/financial_america.md)
@@ -33,11 +32,12 @@
     - [Europe](cloudflared/financial_europe.md)
     - [Oceania](cloudflared/financial_oceania.md)
   - How many % of online newspapers are using Cloudflare?
-    - [Africa](cloudflared_newspaper_africa.md)
-    - [America / Caribbean](cloudflared_newspaper_america.md)
-    - [Asia / Middle East](cloudflared_newspaper_asia.md)
-    - [Europe](cloudflared_newspaper_europe.md)
-    - [Oceania](cloudflared_newspaper_oceania.md)
+    - [Africa](cloudflared/newspaper_africa.md)
+    - [America / Caribbean](cloudflared/newspaper_america.md)
+    - [Asia / Middle East](cloudflared/newspaper_asia.md)
+    - [Europe](cloudflared/newspaper_europe.md)
+    - [Oceania](cloudflared/newspaper_oceania.md)
+  - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared_fortune1000.md)
   - [How many % of online magazines are using Cloudflare?](cloudflared_magazine.md)
   - [How many % of Bitcoin Exchange sites are using Cloudflare?](cloudflared_bitcoinexchange.md)
   - [How many % of payment service providers are using Cloudflare?](cloudflared_paymentservices.md)
