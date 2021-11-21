@@ -7,6 +7,7 @@
 
 
 
+- 几天前遇到 Cloudflare Page 构建时克隆代码遇到 "Failed: an internal error occurred" 的错误，后来发现是改了主题忘了改 .gitmodules导致的 让人摸不着头脑的报错日志 ([eson000](https://twitter.com/eson000/status/1462223575637581824))
 - I have reported a blog on your platform for lifting my blog posts & have heard nothing from you. Today they posted my very personal post about my dad’s death. Please get this blog taken down. ([ciarnac](https://twitter.com/CiarnaC/status/1462025035808444420))
 - omg, amazing again, you just don't stop 😂 ([leomp1208](https://twitter.com/leomp1208/status/1461341575846395910))
 - I'm finding more and more sites that block access from non-ISP IP addresses or that use CloudFlare who block 'troublesome' addresses which is are problems when using any VPN service - I'm concerned that as this becomes more widespread the internet will become less private. ([dilbertdave](https://twitter.com/DilbertDave/status/1461757268345643014))
