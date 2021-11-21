@@ -1212,6 +1212,7 @@ Or is this merely a case of simple modesty?
 | Noah Garrett Wallach | Network Engineer |  |
 | Noah Neuman | Enterprise Account Executive |  |
 | Norm Slaught | Customer Development |  |
+| Obinna Ekwuno | Employee | |
 | Olafur Gudmundsson | Systems Engineer |  |
 | Olafur Guodmundsson | Systems Engineer | https://twitter.com/OGudm<br>https://www.linkedin.com/in/olafur-gudmundsson-6a88716<br>https://github.com/ogud |
 | Olga Skobeleva | Solutions Engineer |  |
@@ -1428,6 +1429,7 @@ Or is this merely a case of simple modesty?
 | Scott Olivares | Conversion Rate Optimization Lead |  |
 | Scott Pearson | Technical Support Engineer |  |
 | Scott Tomtania | Head of Recruitment | https://twitter.com/TALENTWIZ |
+| Sean Brant | Employee | |
 | Sean Thompson | Account Executive |  |
 | Sebastian Benz | Employee | [🖼](../image/gang/Sebastian_Benz.jpg) |
 | Sebastian McKenzie | JavaScript Engineer |  |
