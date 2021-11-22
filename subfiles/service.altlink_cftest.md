@@ -3,7 +3,7 @@
 
 ### About #CloudflareTest
 
-When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) CloudflareTest will tell you whether your link is Cloudflared or not.
+When you post a `URL` with hashtag `CloudflareTest` (or other hashtag below) _or_ someone replied to your toot with a hashtag, CloudflareTest will tell you whether your link is Cloudflared or not.
 
 - This is **simplified** version of [AltLink's "Is it really CloudFlare!?" check](service.altlink.md#_is-it-really-cloudflare-_-check).
   - Mastodon won't share your hashtagged toot if your account is new or not followed by anyone. If you need _reliable_ answer use AltLink instead.
