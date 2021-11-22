@@ -7,6 +7,7 @@
 
 
 
+- WARNING: Sharing a link to a #Cloudflare, or #Amazon-served website means we may not interact with it, even if it may have merit, unless it has a warning that the site violates a #humanRight of #privacy and undermines #democracy. Same with sharing a #Reuters link — eg. they block Tor users. ([dsfgs](https://activism.openworlds.info/@dsfgs/107315116892062943))
 - あれ、Cloudflare Registrarやすなった？ .io が30ドルなっとる ([hota](https://mstdn.maud.io/@hota/107317290765930552))
 - 21/11/22 03:15 - na2na_chang​:twitter: 今日触れたもの Misskey nginx awsのIAM S3 ドメイン取得とDNSレコード サブドメイン Cloudflare #pom ([yomipom](https://pomdon.work/@yomipom/107316417575733748))
 - WARNING: Sharing a link to a #Cloudflare, or #Amazon-served website means we may not interact with it, even if it may have merit, unless it has a warning that the site violates a #humanRight of #privacy and undermines #democracy. Same with sharing a #Reuters link — eg. they block Tor users. ([dsfgs](https://activism.openworlds.info/@dsfgs/107315116892062943))
