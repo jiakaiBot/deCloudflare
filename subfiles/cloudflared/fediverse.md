@@ -381,6 +381,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | don.m2hq.net | No |
 | don.mamemo.online | Yes |
 | don.mfz.jp | No |
+| don.neso.tech | No |
 | don.nzws.me | Yes |
 | don.taprix.org | No |
 | don.yasi2.com | Yes |
@@ -495,6 +496,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.mint.lgbt | No |
 | fedi.n0id.space | No |
 | fedi.nekojanai.xyz | No |
+| fedi.neon.moe | No |
 | fedi.nullob.si | Yes |
 | fedi.sabatino.pro | No |
 | fedi.scd31.com | No |
@@ -778,6 +780,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | idiomdrottning.org | No |
 | idlethumbs.social | No |
 | idolheaven.org | No |
+| idontwant.social | No |
 | ieji.de | No |
 | ifrit.gaia.ff14-mstdn.xyz | No |
 | ifwo.eu | No |
@@ -973,6 +976,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | loma.ml | No |
 | london.fetish.church | No |
 | lonely.town | No |
+| lono.space | Yes |
 | lor.sh | Yes |
 | lou.lt | Yes |
 | loutre.info | No |
@@ -1351,7 +1355,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mhz.social | No |
 | mi.7ka.org | No |
 | mi.les-requin.net | No |
-| mi.maikaze.moe | Yes |
 | mi.siotter.xyz | No |
 | mi.tkw.fm | No |
 | micro.mkp.ca | No |
@@ -1522,7 +1525,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.osaka | No |
 | mstdn.plusminus.io | Yes |
 | mstdn.poyo.me | No |
-| mstdn.prfm.jp | No |
 | mstdn.progressiv.dev | No |
 | mstdn.res.ac | No |
 | mstdn.rinsuki.net | Yes |
@@ -1735,7 +1737,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pl.eragon.re | No |
 | pl.escapism.work | Yes |
 | pl.eternawings.com | Yes |
-| pl.fediverse.express | No |
 | pl.firechicken.net | No |
 | pl.gamers.exposed | No |
 | pl.gnu.moe | No |
@@ -1933,6 +1934,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | raspidon.mamemo.online | Yes |
 | rats-at.work | No |
 | rawr.thefurrytiger.net | Yes |
+| raygungothic.xyz | No |
 | rcsocial.net | Yes |
 | real-escape.jp | Yes |
 | realabc.masto.host | No |
@@ -1957,6 +1959,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | rivals.space | Yes |
 | river.group.lt | Yes |
 | rizomatica.org | No |
+| rn.akarinext.org | Yes |
 | rodina-sucha.cz | No |
 | roidesbulgares.rocks | No |
 | rollenspiel.group | No |
@@ -2023,6 +2026,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sfba.social | No |
 | shadowverdon.info | No |
 | share.elouworld.org | No |
+| sheikah.online | No |
 | shelter.moe | No |
 | shigusegubu.club | No |
 | shiina.cafe | No |
@@ -2041,6 +2045,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sitedethib.com | No |
 | skeleton.cool | No |
 | ski.na2na.website | No |
+| skippers-bin.com | Yes |
 | skoops.social | No |
 | skorpil.cz | No |
 | skrivel.se | No |
@@ -2194,7 +2199,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.henzi.org | No |
 | social.here.blue | No |
 | social.homunyan.com | No |
-| social.hostpath.de | No |
 | social.icynet.eu | No |
 | social.ignifi.me | No |
 | social.ignis.link | No |
@@ -2254,6 +2258,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.mootech.eu | No |
 | social.mrcol.es | No |
 | social.nah.re | No |
+| social.namok.be | No |
 | social.ndn.digital | Yes |
 | social.nekover.se | Yes |
 | social.net.ua | No |
@@ -2757,8 +2762,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 515 |
-| Normal | 2,205 |
+| Cloudflare | 517 |
+| Normal | 2,208 |
 
 
-### 18.9% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
