@@ -46,6 +46,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 448c.net | No |
 | 774.masto.host | No |
 | 1234.as | Yes |
+| 2137.social | No |
 | 7144.party | No |
 | 60228.dev | Yes |
 | 101010.pl | No |
@@ -72,6 +73,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | aipi.social | No |
 | aircrew.rocks | No |
 | ajin.la | No |
+| akari-network.jp | No |
 | akko.kalasarn.se | No |
 | alcyon.twilightparadox.com | No |
 | aleph.land | No |
@@ -204,7 +206,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | brokenmirror.cc | No |
 | bruder.space | No |
 | bsd.network | No |
-| bub.cat | No |
 | budsbots.com | No |
 | bumpto.space | Yes |
 | bungle.online | No |
@@ -314,7 +315,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cum.desupost.soy | No |
 | cunny.finance | No |
 | curmudgeon.cafe | No |
-| cute.is | No |
 | cute.science | No |
 | cuties.social | No |
 | cybar.club | Yes |
@@ -652,6 +652,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | glitterkitten.co.uk | No |
 | globalwarming.fun | No |
 | gn-tronics.dev | No |
+| gnubox.org | No |
 | gnusocial.net | No |
 | go5.dev | Yes |
 | goblin.camp | No |
@@ -782,6 +783,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ifwo.eu | No |
 | ihatebeinga.live | Yes |
 | ika.queloud.net | No |
+| ikbenpiraat.nl | No |
 | ilias.church | No |
 | ilja.space | No |
 | im-in.space | No |
@@ -868,7 +870,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | khajiit.tech | Yes |
 | khat.komitea.fi | No |
 | khiar.net | Yes |
-| khp.ignorelist.com | No |
+| khp.ignorelist.com | Yes |
 | kicou.info | No |
 | kif.rocks | No |
 | kind.social | No |
@@ -931,7 +933,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | lesbianschool.com | No |
 | letsalllovela.in | Yes |
 | letsrulethe.world | No |
-| letus.inspiredlife.fun | Yes |
 | lewactwo.pl | No |
 | lewd.pm | No |
 | lewd.town | No |
@@ -1185,7 +1186,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.lang-mfr.de | No |
 | mastodon.laurakalbag.com | No |
 | mastodon.lcavallaro.com | Yes |
-| mastodon.leipzigesports.de | No |
+| mastodon.leipzigesports.de | Yes |
 | mastodon.lelesius.eu | No |
 | mastodon.lertsenem.com | No |
 | mastodon.lhin.space | No |
@@ -1711,7 +1712,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pettingzoo.co | No |
 | pforzelona.club | No |
 | pgp.cool | Yes |
-| philos.fkn-systems.de | No |
 | photodn.net | No |
 | photog.social | No |
 | phpc.social | No |
@@ -1758,6 +1758,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pl.spiderden.net | Yes |
 | pl.telteltel.com | No |
 | pl.thj.no | No |
+| pl.tkammer.de | No |
 | pl.tsukuyomi.dev | Yes |
 | pl.uwu.is | No |
 | pl.valkyrie.world | No |
@@ -1825,7 +1826,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.pixificial.xyz | No |
 | pleroma.popolon.org | No |
 | pleroma.poslovitch.fr | No |
-| pleroma.potatoxel.org | No |
 | pleroma.pt | No |
 | pleroma.runfox.tk | No |
 | pleroma.ryusei.dev | No |
@@ -2040,6 +2040,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sirius1228.space | Yes |
 | sitedethib.com | No |
 | skeleton.cool | No |
+| ski.na2na.website | No |
 | skoops.social | No |
 | skorpil.cz | No |
 | skrivel.se | No |
@@ -2090,7 +2091,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | socel.net | No |
 | social.0ko.me | No |
 | social.076.ne.jp | No |
-| social.4f9e1738.ignorelist.com | No |
+| social.4f9e1738.ignorelist.com | Yes |
 | social.481516.xyz | Yes |
 | social.abraum.de | No |
 | social.adamasnemesis.com | No |
@@ -2260,6 +2261,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.nfld.uk | No |
 | social.nofftopia.com | Yes |
 | social.nomagic.uk | No |
+| social.nothingness.rocks | No |
 | social.nyerm.com | No |
 | social.odayacres.farm | Yes |
 | social.okoyono.de | No |
@@ -2354,6 +2356,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.veganact.org.au | No |
 | social.vestimento.fashion | No |
 | social.weho.st | No |
+| social.wien.rocks | No |
 | social.wildeboer.net | No |
 | social.winter.ink | No |
 | social.woefdram.nl | No |
@@ -2452,6 +2455,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | techlover.eu | No |
 | techporn.club | No |
 | tekkadon.manimani.cc | No |
+| tekton.network | No |
 | telescope.garden | No |
 | tenforward.social | No |
 | tentacle.social | No |
@@ -2593,7 +2597,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | uma.milkey.homes | Yes |
 | umaskey.net | Yes |
 | umastodon.net | No |
-| ummmmmm.ahhhhhh.social | No |
 | unbound.social | No |
 | unclealbie.com | No |
 | under-bank.blue | No |
@@ -2621,13 +2624,13 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | vanderwarker.social | Yes |
 | vandrare.page | No |
 | vantil.refchat.net | No |
-| vapers.jp | No |
 | varishangout.net | Yes |
 | veenus.art | No |
 | venera.social | No |
 | verified.af | No |
 | vernunftzentrum.de | No |
 | veronaxxx.masto.host | No |
+| verr.cc | No |
 | vibeogame.online | No |
 | vici0.us | No |
 | vilni.space | No |
@@ -2754,8 +2757,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 513 |
-| Normal | 2,204 |
+| Cloudflare | 515 |
+| Normal | 2,205 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
