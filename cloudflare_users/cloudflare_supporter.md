@@ -1463,6 +1463,7 @@ Do not create new issue or we will close it as duplicate.
 | [elara_kin@twitter](https://twitter.com/elara_kin/status/1395797258030002177) | advertise |
 | [ELEVEN86464120@twitter](https://twitter.com/ELEVEN86464120/status/1398547337459367936) | advertise |
 | [EliasDallas1@twitter](https://twitter.com/EliasDallas1/status/1395655946844532745) | advertise |
+| [eliehannouch8@twitter](https://twitter.com/eliehannouch8/status/1462754171195699210) | advertise |
 | [elihwyma@twitter](https://twitter.com/elihwyma/status/1380322325841772545) | advertise |
 | [elina_nns@twitter](https://twitter.com/elina_nns/status/1392283353135599624) | advertise |
 | [Eliseioprea2@twitter](https://twitter.com/Eliseioprea2/status/1399391669372522498) | advertise |
@@ -1643,6 +1644,7 @@ Do not create new issue or we will close it as duplicate.
 | [gemstoneslover@twitter](https://twitter.com/gemstoneslover/status/1376813245416173571) | advertise |
 | [GeneralGosu@twitter](https://twitter.com/GeneralGosu/status/1387508776429780993) | advertise |
 | [Genius44697566@twitter](https://twitter.com/Genius44697566/status/1389792896690253824) | advertise |
+| [geolffrey_mena@twitter](https://twitter.com/geolffrey_mena/status/1462463345290797060) | advertise |
 | [georgegijo@twitter](https://twitter.com/georgegijo/status/1389736443904331778) | advertise |
 | [Geoxis_co@twitter](https://twitter.com/Geoxis_co/status/1442723657147506693) | advertise |
 | [Gggaaaaa5@twitter](https://twitter.com/Gggaaaaa5/status/1387836659631202304) | advertise |
@@ -6370,6 +6372,7 @@ Do not create new issue or we will close it as duplicate.
 | [yuenbeihai@twitter](https://twitter.com/yuenbeihai/status/1376673572677021699) | advertise |
 | [YueYue05673762@twitter](https://twitter.com/YueYue05673762/status/1391670328879951872) | advertise |
 | [Yuki92777462@twitter](https://twitter.com/Yuki92777462/status/1389853033761165326) | advertise |
+| [YunuSedatAydin@twitter](https://twitter.com/YunuSedatAydin/status/1462456581250072590) | advertise |
 | [Yusi138338331@twitter](https://twitter.com/Yusi138338331/status/1390642830310141952) | advertise |
 | [YusTweet@twitter](https://twitter.com/YusTweet/status/1457884814300770305) | advertise |
 | [yuyachit2@twitter](https://twitter.com/yuyachit2/status/1407168318889357326) | advertise |
