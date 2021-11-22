@@ -7,6 +7,7 @@
 
 
 
+- MAS.TO users seem to be using some annoying bot that posts emojis at u if you post a link that has cloudflare trackers and it always tags a random a count with you when it replies and i dont know what it means but it looks really fucked up and bad ([geesehoward](https://monads.online/@geesehoward/107321285721237245))
 - Issues fixed: Status site now has SSL and is proxied through Cloudflare. Info site no longer looks out of place. Added security HTTP headers to info site. ([falconsocialnetwork](https://mstdn.social/@falconsocialnetwork/107318902692788628))
 - Hi we are an Aussie bank that believes in community. Here's some stuff you can buy for #Christmas. A lot is made using #slaveConditions overseas. But we put a coloured person on the front page so its cool. Right? Oh our banking website goes through Cloudflare too — because f&amp;ck you. #virtueSignalling #pinkWashing #moneyPrinterGoDrr #bankerCrimes #whyBitcoinCore ([dsfgs](https://activism.openworlds.info/@dsfgs/107262891113254140))
 - If your business uses #cloudflare please stop it. LOL ([pj](https://bitcoinhackers.org/@pj/107265910250272583))
