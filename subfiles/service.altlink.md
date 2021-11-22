@@ -36,7 +36,7 @@ One of Mastodon server owner once [said](../tool/mastodonwch#some-public-reactio
 For the record "_CloudflareLink_" was moved to other Mastodon servers 3 times and banned 2 times by 2 Mastodon services until the Anonymous decided to given up for good.
 
 The main difference of AltLink is `opt-in`.
-Those people who [share Cloudflare links casually](cloudflared_shared_mastodon.md) never receive notification until they have a good heart and follow AL.
+Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.md) never receive notification until they have a good heart and follow AL.
 
 
 
