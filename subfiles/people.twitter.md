@@ -7,6 +7,7 @@
 
 
 
+- Did I tell you all advertise having an error rate of 20-25%...I'm guessing you're missing and humbling imo. It was a cloudflare. ([averagebotfan](https://twitter.com/AverageBotFan/status/1463010372475133953))
 - 3:59 PM You sent I am visiting the UK from the USA and I cannot access the site I get Access denied Error 1020 which I believe is a cloudflare issue. How can I resolve this? I need to pay my premium. ([ionedev](https://twitter.com/ionedev/status/1462813417971105801))
 - Paranoia, apparently, combined with a concern that Cloudflare is a massive man in the middle. (The counterpoint to that: Cloudflare also makes websites more accessible.) There is also a concern that it shuts some people out of certain websites based on their global location. ([shortformernie](https://twitter.com/ShortFormErnie/status/1462829492758528001))
 - Mastodon is a competing social network that is OSS. There is a contingent on Cloudflare that has raised some weird privacy issues about the service and are trying to pitch the idea that it’s a massive MITM project that censors the internet ([shortformernie](https://twitter.com/ShortFormErnie/status/1462807855552241665))
