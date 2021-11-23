@@ -84,4 +84,4 @@ cloudflaredexample.site: 🌩
 
 
 
-<a rel="me" href="https://social.kyushojitsu.ca/@cloudflaretest"></a>
+<a rel="me" href="https://botsin.space/@cloudflaretest"></a>
