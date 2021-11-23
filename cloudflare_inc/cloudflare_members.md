@@ -311,6 +311,7 @@ Or is this merely a case of simple modesty?
 | Calvin Scherle | Solutions Engineer |  |
 | Candice Madruga Knoll | Customer Success Manager, LATAM |  |
 | Carl Garcia | Account Executive |  |
+| Carlos Azevedo | Employee | |
 | Carlos Rodrigues | Lisbon |  |
 | Carlos Silva | Sales Director LATAM |  |
 | Carly Bothe | Finance Project Manager |  |
@@ -1001,6 +1002,7 @@ Or is this merely a case of simple modesty?
 | Luisa Gobbo | Marketing and Events |  |
 | Luis Vasallo | Business Development |  |
 | Lukasz Mierzwa | Systems Reliability Engineer, London |  |
+| Luke Edwards | Employee | |
 | Luke Overend | Support Engineer |  |
 | Luke Valenta | Cryptography Engineer | [🖼](../image/gang/Luke_Valenta.jpg) |
 | Lyn Hines | Technical Support Engineer |  |
