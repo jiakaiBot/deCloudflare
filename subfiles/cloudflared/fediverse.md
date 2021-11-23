@@ -86,6 +86,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | alonecomplex.xyz | Yes |
 | alongtheray.social | Yes |
 | altelectron.org.uk | No |
+| alvogue.com | No |
 | amefur.asia | No |
 | amicale.net | No |
 | anarchism.space | No |
@@ -267,6 +268,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | chungus.cc | No |
 | cipioshouse.xyz | Yes |
 | clacks.link | No |
+| claris.cf | No |
 | climatejustice.global | No |
 | climatejustice.social | No |
 | cliq.social | No |
@@ -497,7 +499,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.nekojanai.xyz | No |
 | fedi.neon.moe | No |
 | fedi.nullob.si | Yes |
-| fedi.sabatino.pro | No |
 | fedi.scd31.com | No |
 | fedi.skladka.net | No |
 | fedi.tesaguri.club | No |
@@ -923,7 +924,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | lbry.world | Yes |
 | leaf.node9.org | No |
 | leafposter.club | No |
-| leanbay.box.phasebulk.cloudns.nz | No |
 | lediver.se | No |
 | leftofliberal.duckdns.org | No |
 | legal.social | No |
@@ -1032,7 +1032,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | maho.app | No |
 | mainburg.hallertau.social | No |
 | majestic.monster | No |
-| majors.social | No |
 | maki.chiba.tw | No |
 | makito.me | Yes |
 | malu.today | No |
@@ -1215,7 +1214,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.muage.org | No |
 | mastodon.multimob.be | No |
 | mastodon.mxhdr.net | No |
-| mastodon.mynameisivan.ru | Yes |
 | mastodon.naii.io | No |
 | mastodon.natrinicle.com | No |
 | mastodon.neilzone.co.uk | No |
@@ -1244,7 +1242,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.postmoderns.info | No |
 | mastodon.potager.org | No |
 | mastodon.potproject.net | No |
-| mastodon.ppcis.org | No |
 | mastodon.quantumindigo.org | Yes |
 | mastodon.radio | No |
 | mastodon.radiosonline.cloud | No |
@@ -1427,6 +1424,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.outerheaven.club | No |
 | mk.paritybit.ca | No |
 | mk.pusang-ina-mo.ooo | No |
+| mk.shc.kanagawa.jp | No |
 | mk.striker.net.eu.org | No |
 | mk.toast.cafe | No |
 | mk.toyoko.in | Yes |
@@ -1695,7 +1693,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | panthermoderns.org | No |
 | pantherx.social | No |
 | pao.moe | Yes |
-| pao.namakajiri.net | No |
 | pars.ee | No |
 | patch.cx | No |
 | patchouli.today | Yes |
@@ -1821,7 +1818,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.nobodyhasthe.biz | No |
 | pleroma.noellabo.jp | Yes |
 | pleroma.nthomas20.net | No |
-| pleroma.otter.sh | No |
 | pleroma.p4g.club | Yes |
 | pleroma.pixificial.xyz | No |
 | pleroma.popolon.org | No |
@@ -2065,6 +2061,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | smores.town | No |
 | sms.cybik.moe | Yes |
 | sn.angry.im | Yes |
+| sn.nekojita.moe | No |
 | snabelen.no | No |
 | snack.social | No |
 | snacka.uluntu.se | No |
@@ -2169,6 +2166,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.epenguin.com | Yes |
 | social.epyisageek.net | No |
 | social.esadhar.net | No |
+| social.eutychia.org | No |
 | social.ewb.io | No |
 | social.exclaimindustries.net | No |
 | social.eyluldogruel.com | No |
@@ -2181,7 +2179,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.finkhaeuser.de | No |
 | social.fluffel.io | No |
 | social.foldr.nl | No |
-| social.franssen.xyz | No |
 | social.freetalklive.com | No |
 | social.fym.moe | Yes |
 | social.garwood.io | No |
@@ -2193,7 +2190,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.hamachpil.net | No |
 | social.handholding.io | Yes |
 | social.hannebrook.info | No |
-| social.hemmnet.de | No |
 | social.hendrixgames.com | No |
 | social.henzi.org | No |
 | social.here.blue | No |
@@ -2206,7 +2202,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.inex.rocks | No |
 | social.interhop.org | No |
 | social.ironboundsoftware.com | Yes |
-| social.irrwitz.com | No |
 | social.isharacomix.org | No |
 | social.isurf.ca | No |
 | social.jesuislibre.net | No |
@@ -2339,7 +2334,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.thiskurt.me | No |
 | social.tmprs.net | No |
 | social.tonholzpixel.de | No |
-| social.touha.me | No |
 | social.tourmentine.com | No |
 | social.travisshears.xyz | No |
 | social.troll.academy | No |
@@ -2539,7 +2533,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toots.anivar.in | Yes |
 | toots.benpro.fr | Yes |
 | toots.dgplug.org | No |
-| toots.legohousein.space | No |
 | toots.social | Yes |
 | tootsfrom.ahabitual.dev | No |
 | toottoot.de | No |
@@ -2758,8 +2751,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 519 |
-| Normal | 2,202 |
+| Cloudflare | 518 |
+| Normal | 2,196 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
