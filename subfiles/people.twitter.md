@@ -7,6 +7,7 @@
 
 
 
+- opensea is as broken as I've ever seen it rn the floor option just returns random items and 'cloudflare' error is occuring regular these fckers got $100m funding in June, VC backed, and executing fcking HORRIBLY coinbase will kill em ([bastardghosts](https://twitter.com/BastardGhosts/status/1463195624673796104))
 - Our business Kens Auto Spares is being blocked by CloudFlare Family DNS service. Lots of our customers are complaining that they can't access our website and its losing us business! Remove us - our site is safe!! ([kens_auto_spare](https://twitter.com/Kens_Auto_Spare/status/1463162626112950280))
 - My thought process was: If they let you configure this in the STS settings, it could confuse users if it can be overwritten (vice/versa) in the Transform Rules. That said, error could be clearer if that is the case. ([seanhood](https://twitter.com/SeanHood/status/1463091206813016066))
 - Did I tell you all advertise having an error rate of 20-25%...I'm guessing you're missing and humbling imo. It was a cloudflare. ([averagebotfan](https://twitter.com/AverageBotFan/status/1463010372475133953))
