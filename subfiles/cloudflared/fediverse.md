@@ -347,7 +347,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | descentraliza.me | No |
 | desu.social | No |
 | detroitriotcity.com | No |
-| dev-friendica.mrpetovan.com | No |
 | dev.mis.b-shock.org | No |
 | devin.masto.host | No |
 | dhub.social | No |
@@ -1266,6 +1265,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.sngsk.info | No |
 | mastodon.social | No |
 | mastodon.starshipchangeling.net | No |
+| mastodon.start9labs.com | Yes |
 | mastodon.stefofficiel.me | No |
 | mastodon.suinot.org | No |
 | mastodon.tardis.pw | No |
@@ -1683,7 +1683,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | owlper.ch | No |
 | ozhika.me | No |
 | p.ashiato45.net | No |
-| p.mr64.net | No |
 | p.node.pk | Yes |
 | p.oshiteku.app | No |
 | p.rhinoworks.info | No |
@@ -1871,6 +1870,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | porkmeeting.masto.host | No |
 | pornanime.club | No |
 | post.hillenius.net | No |
+| post.letsdecentralize.org | No |
 | post.lurk.org | No |
 | posting.lolicon.rocks | No |
 | potate.space | No |
@@ -1917,7 +1917,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | quietude.space | No |
 | quip.social | No |
 | quitter.pl | No |
-| r-kara.de | No |
 | r3pek.org | No |
 | ra-phi.ch | No |
 | radiosocial.de | No |
@@ -2028,6 +2027,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | share.elouworld.org | No |
 | sheikah.online | No |
 | shelter.moe | No |
+| shelter.social | Yes |
 | shigusegubu.club | No |
 | shiina.cafe | No |
 | shiro.dog | No |
@@ -2093,6 +2093,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | soc.schuerz.at | No |
 | soc.texto-plano.xyz | No |
 | soc.webair.xyz | No |
+| soc.zom.bi | No |
 | socel.net | No |
 | social.0ko.me | No |
 | social.076.ne.jp | No |
@@ -2140,7 +2141,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.campusgemeinde.de | No |
 | social.canony.xyz | No |
 | social.centreforthestudyof.net | No |
-| social.chatterboxtown.us | No |
 | social.city-of-glass.net | No |
 | social.cloudron.io | No |
 | social.cologne | No |
@@ -2158,7 +2158,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.device5.co.uk | No |
 | social.diekershoff.de | No |
 | social.diskseven.com | No |
-| social.diva.exchange | No |
 | social.dnitza.com | Yes |
 | social.doghub.eu | No |
 | social.doma.dev | No |
@@ -2199,7 +2198,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.henzi.org | No |
 | social.here.blue | No |
 | social.homunyan.com | No |
-| social.icynet.eu | No |
 | social.ignifi.me | No |
 | social.ignis.link | No |
 | social.igwigg.space | No |
@@ -2267,7 +2265,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.nofftopia.com | Yes |
 | social.nomagic.uk | No |
 | social.nothingness.rocks | No |
-| social.nyerm.com | No |
 | social.odayacres.farm | Yes |
 | social.okoyono.de | No |
 | social.opendesktop.org | No |
@@ -2378,7 +2375,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sociala.me | No |
 | sociale.network | No |
 | socialpub.inso.ovh | No |
-| socialtruth.social | No |
 | society.oftrolls.com | No |
 | sociopak.com | No |
 | socks.pinnoto.org | No |
@@ -2762,8 +2758,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 517 |
-| Normal | 2,208 |
+| Cloudflare | 519 |
+| Normal | 2,202 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 19.1% of public Fediverse services are using Cloudflare.
