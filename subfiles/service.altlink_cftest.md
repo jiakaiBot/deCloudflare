@@ -75,7 +75,7 @@ https://greatparty.cloudflaredexample.site/
 _replied_user_:
 ```
 @top_user
-Hey I can't read it! #InternetFreedomTest
+Hey I can't read it! #cloudflareTest
 ```
 
 - Output
