@@ -104,7 +104,10 @@ www.wikimedia.org
 ### CloudFlareTest it!
 
 You can call AltLink into your **public** **discussion** to test `above user's URL`. 
-All you have to do is hit `Reply` button and add the word `cloudflaretest` (case does not matter)
+All you have to do is hit `Reply` button and 
+- Include user `altlink`
+- Add the word `cloudflaretest` (case does not matter)
+
 AL will answer within 1 minute.
 
 - This is a simple `Yes`/`No` test.
@@ -119,7 +122,7 @@ Check my new blog! https://oh.my.god/
 ```
 you reply:
 ```
-Hey @mad_dog, your blog need to do cloudflareTest.
+Hey @mad_dog, your blog need to do cloudflareTest. @altlink
 ```
 
 
