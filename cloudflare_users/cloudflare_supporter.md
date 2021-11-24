@@ -96,6 +96,9 @@ Do not create new issue or we will close it as duplicate.
 | [137743@twitter](https://twitter.com/137743/status/1393045054239830025) | advertise |
 | [280552f43478454@twitter](https://twitter.com/280552f43478454/status/1399573181753696256) | advertise |
 | [404091phyophyo@twitter](https://twitter.com/404091phyophyo/status/1392052650422652930) | advertise |
+| [@muffinista@botsin.space](https://botsin.space/@muffinista) | Mastodon: account suspension (botsin.space) |
+| [@muffinista@cybre.space](https://cybre.space/@muffinista) | Mastodon: account suspension (botsin.space) |
+| [@tchambers@indieweb.social](https://indieweb.social/@tchambers) | Mastodon: account suspension (black cat) |
 | [A7mad_GH_@twitter](https://twitter.com/A7mad_GH_/status/1386898761620893697) | advertise |
 | [a9NTUKB7O8ga7Op@twitter](https://twitter.com/a9NTUKB7O8ga7Op/status/1397954196964470789) | advertise |
 | [Aaaddd44789627@twitter](https://twitter.com/Aaaddd44789627/status/1383457672859512841) | advertise |
@@ -702,6 +705,7 @@ Do not create new issue or we will close it as duplicate.
 | [baebaesaja666@twitter](https://twitter.com/baebaesaja666/status/1398980440476708868) | advertise |
 | [BaggyB7@twitter](https://twitter.com/BaggyB7/status/1389914222096576513) | advertise |
 | [BaGyiYe1@twitter](https://twitter.com/BaGyiYe1/status/1395180902947381253) | advertise |
+| [Bailgaadi_Pilot@twitter](https://twitter.com/Bailgaadi_Pilot/status/1463419001954914306) | advertise |
 | [baimint_minmint@twitter](https://twitter.com/baimint_minmint/status/1393478992653553665) | advertise |
 | [Bakaoniichansa1@twitter](https://twitter.com/Bakaoniichansa1/status/1396393413541437443) | advertise |
 | [Baki64515168@twitter](https://twitter.com/Baki64515168/status/1403351148342480897) | advertise |
@@ -4358,6 +4362,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pekhun1@twitter](https://twitter.com/Pekhun1/status/1389460278643871744) | advertise |
 | [pemburu_eth@twitter](https://twitter.com/pemburu_eth/status/1389253559103856644) | advertise |
 | [pemon66928575@twitter](https://twitter.com/pemon66928575/status/1378993033799036928) | advertise |
+| [PenngXiao@twitter](https://twitter.com/PenngXiao/status/1463457139419086849) | advertise |
 | [Peony36051095@twitter](https://twitter.com/Peony36051095/status/1392475002579030018) | advertise |
 | [Perseidon1@twitter](https://twitter.com/Perseidon1/status/1379686285061713923) | advertise |
 | [Peter61736815@twitter](https://twitter.com/Peter61736815/status/1394440894862880774) | advertise |
@@ -6564,8 +6569,5 @@ Do not create new issue or we will close it as duplicate.
 | [__JARVlS__@twitter](https://twitter.com/__JARVlS__/status/1399612611314950144) | advertise |
 | [__romanenko@twitter](https://twitter.com/__romanenko/status/1445082921421918210) | advertise |
 | [__Th3J0k3r__@twitter](https://twitter.com/__Th3J0k3r__/status/1389701604677390343) | advertise |
-| [@muffinista@botsin.space](https://botsin.space/@muffinista) | Mastodon: account suspension (botsin.space) |
-| [@muffinista@cybre.space](https://cybre.space/@muffinista) | Mastodon: account suspension (botsin.space) |
-| [@tchambers@indieweb.social](https://indieweb.social/@tchambers) | Mastodon: account suspension (black cat) |
 
 </details>
