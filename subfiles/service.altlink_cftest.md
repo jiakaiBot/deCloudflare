@@ -3,7 +3,7 @@
 
 ### About #CloudflareTest
 
-When you post a `URL` **with** hashtag `CloudflareTest` _or_ someone replied to your toot **with** a hashtag, CloudflareTest will tell you whether your link is Cloudflared or not.
+When you post a `URL` **with** hashtag `CloudflareTest` ~~_or_ someone replied to your toot **with** a hashtag,~~ CloudflareTest will tell you whether your link is Cloudflared or not.
 
 - This is **simplified** version of [AltLink's "Is it really CloudFlare!?" check](service.altlink.md#_is-it-really-cloudflare-_-check).
   - Mastodon won't share your hashtagged toot if your account is new or not followed by anyone. If you need _reliable_ answer use AltLink instead.
@@ -61,30 +61,3 @@ tasteofhome.com: 🌩
 allrecipes.com: 👍
 ```
 
-
-> Hashtag above toot (e.g. other user's toot)
-
-- Input
-
-_top_user_:
-```
-Let's go to this party!
-https://greatparty.cloudflaredexample.site/
-```
-
-_replied_user_:
-```
-@top_user
-Hey I can't read it! #cloudflareTest
-```
-
-- Output
-
-```
-@replied_user @top_user
-cloudflaredexample.site: 🌩
-```
-
-
-
-<a rel="me" href="https://botsin.space/@cloudflaretest"></a>
