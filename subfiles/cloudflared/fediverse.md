@@ -32,6 +32,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 0x3c.pl | Yes |
 | 1in1.net | Yes |
 | 1o1.io | No |
+| 1tp.dpost.jp | No |
 | 2c.taoetc.org | No |
 | 2m.cutls.com | Yes |
 | 2mb.social | Yes |
@@ -333,7 +334,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | daedal.io | No |
 | dallas.lu | Yes |
 | dannythe.site | No |
-| darkest-timeline.com | No |
 | darmstadt.social | Yes |
 | darui.work | No |
 | deadinsi.de | Yes |
@@ -343,6 +343,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | decentralised.social | No |
 | decept.org | No |
 | delaeuforia.com | Yes |
+| delirium.masto.host | No |
 | democracy.town | No |
 | demon.social | No |
 | deprecastan.com | No |
@@ -429,6 +430,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | eletusk.club | No |
 | elict.net | No |
 | elle.systems | No |
+| elsmussols.net | No |
 | elves.forsale | No |
 | elysian.city | No |
 | emacsen.net | No |
@@ -503,6 +505,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.skladka.net | No |
 | fedi.tesaguri.club | No |
 | fedi.underscore.world | No |
+| fedi.xaloc.space | No |
 | fedi.xerz.one | No |
 | fedibird.com | Yes |
 | fedilove.cyou | Yes |
@@ -566,6 +569,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | frennet.link | Yes |
 | freunde.ma-nic.de | No |
 | friend.camp | No |
+| friend.geoffray-levasseur.org | No |
 | friendface.fail | No |
 | friendica.a-zwenkau.de | No |
 | friendica.art3mis.de | No |
@@ -697,7 +701,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | handon.club | Yes |
 | happylittle.cloudns.cc | No |
 | happytobehe.re | No |
-| haskell.social | Yes |
 | hates.company | No |
 | hatesli.me | No |
 | hax0rbana.social | No |
@@ -1114,6 +1117,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.com.br | No |
 | mastodon.cosmicanimal.jp | No |
 | mastodon.crazynewworld.net | Yes |
+| mastodon.crossfamilyweb.com | No |
 | mastodon.ctseuro.com | No |
 | mastodon.dalaomai.cn | No |
 | mastodon.darkou.fr | No |
@@ -1215,7 +1219,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.multimob.be | No |
 | mastodon.mxhdr.net | No |
 | mastodon.naii.io | No |
-| mastodon.natrinicle.com | No |
 | mastodon.neilzone.co.uk | No |
 | mastodon.nekocat.info | No |
 | mastodon.nl | No |
@@ -1553,7 +1556,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | musicdn.jp | No |
 | mustardon.tokyo | No |
 | mutual.tls.zone | Yes |
-| mxvol.xyz | No |
 | my.elven.pw | No |
 | my.privacymatters.pro | No |
 | my0.net | No |
@@ -1660,6 +1662,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | onlyfeds.cc | Yes |
 | onsen-musume.fun | Yes |
 | oo.tc | No |
+| oour.org | No |
 | openbiblio.social | No |
 | opensocial.at | No |
 | oran.ski | No |
@@ -1740,6 +1743,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pl.jugregator.org | No |
 | pl.kotobank.ch | No |
 | pl.kpherox.dev | No |
+| pl.longyap.social | No |
 | pl.mastodont.cat | No |
 | pl.nikotile.xyz | Yes |
 | pl.nudie.social | No |
@@ -1792,7 +1796,9 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.flussence.eu | No |
 | pleroma.foucry.net | No |
 | pleroma.foxfam.club | No |
+| pleroma.gaos.org | No |
 | pleroma.gdgd.jp.net | Yes |
+| pleroma.gegeweb.eu | No |
 | pleroma.getimiskon.xyz | No |
 | pleroma.glueoh.com | No |
 | pleroma.in.th | No |
@@ -1805,6 +1811,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.kitsunemimi.club | No |
 | pleroma.langmerah.net | No |
 | pleroma.ledoian.cz | No |
+| pleroma.les-requin.net | No |
 | pleroma.libretux.com | No |
 | pleroma.lord.re | No |
 | pleroma.marud.fr | No |
@@ -1872,6 +1879,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | potate.space | No |
 | pouet.april.org | No |
 | pouet.chapril.org | No |
+| pouet.grossard.fr | No |
 | pouet.it | No |
 | pouet.mickaelgillot.xyz | No |
 | pounced-on.me | No |
@@ -1905,6 +1913,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | quarteredcircle.net | No |
 | queer.af | No |
 | queer.garden | No |
+| queer.hacktivis.me | No |
 | queer.haus | No |
 | queer.party | No |
 | queerdorks.club | No |
@@ -2175,7 +2184,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.fedcast.ch | No |
 | social.fedinet.de | No |
 | social.fetziverse.de | No |
-| social.feurious.com | No |
 | social.finkhaeuser.de | No |
 | social.fluffel.io | No |
 | social.foldr.nl | No |
@@ -2257,6 +2265,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.net.ua | No |
 | social.nevira.net | No |
 | social.nfld.uk | No |
+| social.nicolas-constant.com | No |
 | social.nofftopia.com | Yes |
 | social.nomagic.uk | No |
 | social.nothingness.rocks | No |
@@ -2363,7 +2372,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.xthemage.net | No |
 | social.yakshed.org | No |
 | social.yl.ms | No |
-| social.yonix.eu | No |
 | social.yunota.nohost.me | No |
 | social.zdx.fr | No |
 | sociala.me | No |
@@ -2587,7 +2595,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ukadon.shillest.net | No |
 | uksocial.net | No |
 | uluka.otsoku.me | No |
-| um.lugarzinho.top | No |
 | uma.milkey.homes | Yes |
 | umaskey.net | Yes |
 | umastodon.net | No |
@@ -2751,8 +2758,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 518 |
-| Normal | 2,196 |
+| Cloudflare | 517 |
+| Normal | 2,204 |
 
 
-### 19.1% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
