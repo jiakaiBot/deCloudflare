@@ -103,7 +103,7 @@ www.wikimedia.org
 
 ### CloudFlareTest it!
 
-You can call AltLink into your **public** **discussion** to check `above user's URL`. 
+You can call AltLink into your **public** **discussion** to test `above user's URL`. 
 All you have to do is hit `Reply` button and add the word `cloudflaretest` (case does not matter)
 
 - AL will answer within 1 minute.
