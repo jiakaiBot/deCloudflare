@@ -9,6 +9,18 @@
 This is `opt-in` service.
 
 
+- Contents
+  - [A little history](service.altlink.md#a-little-history)
+  - [How to Subscribe](service.altlink.md#how-to-subscribe)
+  - [How to Unsubscribe](service.altlink.md#how-to-unsubscribe)
+  - ["Is it really CloudFlare!?" check](service.altlink.md#_is-it-really-cloudflare-_-check)
+  - [CloudFlareTest it!]()
+  - [Report a problem / Create an Issue](service.altlink.md#report-a-problem-create-an-issue)
+  - [Settings](service.altlink.md#settings)
+
+
+----
+
 ### A little history
 
 Once upon a time there was a bot named "_[CloudflareLink](https://social.privacytools.io/@cloudflarelink/with_replies)_" which was created by Anonymous.
@@ -86,6 +98,26 @@ You can also query multiple at once / mix domain and URLs
 en.wikipedia.org
 https://blog.emsisoft.com/wow/
 www.wikimedia.org
+```
+
+
+### CloudFlareTest it!
+
+You can call AltLink into your discussion to check above user's URL. 
+All you have to do is add the word `cloudflaretest` (case does not matter)
+
+- AL will answer within 1 minute.
+  - To prevent abuse you can call AL only once per minute.
+
+Here's an example.
+
+- @mad_dog
+```
+Check my new blog! https://oh.my.god/
+```
+- @you
+```
+Hey @mad_dog, your blog need to do cloudflaretest.
 ```
 
 
