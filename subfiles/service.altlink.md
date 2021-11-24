@@ -9,6 +9,18 @@
 This is `opt-in` service.
 
 
+- Contents
+  - [A little history](service.altlink.md#a-little-history)
+  - [How to Subscribe](service.altlink.md#how-to-subscribe)
+  - [How to Unsubscribe](service.altlink.md#how-to-unsubscribe)
+  - ["Is it really CloudFlare!?" check](service.altlink.md#_is-it-really-cloudflare-_-check)
+  - [CloudFlareTest it!](service.altlink.md#cloudflaretest-it)
+  - [Report a problem / Create an Issue](service.altlink.md#report-a-problem-create-an-issue)
+  - [Settings](service.altlink.md#settings)
+
+
+----
+
 ### A little history
 
 Once upon a time there was a bot named "_[CloudflareLink](https://social.privacytools.io/@cloudflarelink/with_replies)_" which was created by Anonymous.
@@ -89,9 +101,29 @@ www.wikimedia.org
 ```
 
 
+### CloudFlareTest it!
+
+You can call AltLink into your **public** discussion to check above user's URL. 
+All you have to do is hit `Reply` button and add the word `cloudflaretest` (case does not matter)
+
+- AL will answer within 1 minute.
+  - To prevent abuse you can call AL only once per minute.
+
+Here's an example.
+
+mad_dog wrote:
+```
+Check my new blog! https://oh.my.god/
+```
+you reply:
+```
+Hey @mad_dog, your blog need to do cloudflareTest.
+```
+
+
 ### Report a problem / Create an Issue
 
-You can create an Issue without git account. Just send a `direct` message.
+You can create an Issue without git account. Just send a **direct** message.
 And don't worry,
 
 - Multiple mentions (e.g. `@randomUser @altlink @otherUser blah blah blah`)
