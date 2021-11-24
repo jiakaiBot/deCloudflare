@@ -105,10 +105,8 @@ www.wikimedia.org
 
 You can call AltLink into your **public** **discussion** to test `above user's URL`. 
 All you have to do is hit `Reply` button and add the word `cloudflaretest` (case does not matter)
+AL will answer within 1 minute.
 
-- AL will answer within 1 minute.
-  - To prevent abuse you can call AL only once per minute.
-    - If you call multiple times only the last request will be processed.
 - This is a simple `Yes`/`No` test.
   - If you need detailed check use above one instead.
 
