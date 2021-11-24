@@ -314,7 +314,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
     - About *91,663* toots/day by all users, *1.7* toots/day per user
 - Now let's focus on *Mastodon toots which has any links*.
 
-![](../image/bully.jpg)
+![](../../image/bully.jpg)
 
 - *24,877* Mastodon users posted *640,342* public toots contains 1,092,379 links. (about *1.7* links/toot)
   - About *47.3*% of total Mastodon users shared any links.
