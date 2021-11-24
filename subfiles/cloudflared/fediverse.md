@@ -157,6 +157,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | beebear.party | Yes |
 | beefyboys.club | Yes |
 | beepboop.one | No |
+| benzo.fans | No |
 | best-friends.chat | No |
 | bgme.me | Yes |
 | bidule.menf.in | No |
@@ -638,7 +639,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gensoukyou.jp.net | No |
 | gentoo.live | Yes |
 | georgi.family | No |
-| getindor.com | No |
 | ghost.cafe | No |
 | gingadon.com | Yes |
 | giobu.cyou | Yes |
@@ -688,7 +688,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gyutte.site | Yes |
 | h.kher.nl | No |
 | h.kokuda.org | No |
-| h5q.net | Yes |
 | habets.dev | No |
 | habitat.zelle.one | No |
 | hackers.town | No |
@@ -712,6 +711,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | helladoge.com | Yes |
 | hello.2heng.xin | Yes |
 | hellsite.site | No |
+| henshaw.org | No |
 | henshaw.social | Yes |
 | hereiszyn.com | No |
 | heresy.cc | No |
@@ -969,7 +969,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | linuxlab.sh | Yes |
 | linuxrocks.online | No |
 | literatur.social | No |
-| litterae.social | No |
 | live4you.one | Yes |
 | liveplatform.ca | No |
 | lizards.live | No |
@@ -1250,7 +1249,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.radiosonline.cloud | No |
 | mastodon.randomroad.social | No |
 | mastodon.roflcopter.fr | No |
-| mastodon.ropable.com | Yes |
 | mastodon.rousset.nom.fr | No |
 | mastodon.sandwich.net | No |
 | mastodon.sardo.work | Yes |
@@ -1535,6 +1533,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.social | No |
 | mstdn.sublimer.me | Yes |
 | mstdn.superspeed-fall.com | No |
+| mstdn.taiha.net | No |
 | mstdn.tamag.org | No |
 | mstdn.toad-in-the-hole.net | No |
 | mstdn.tokyocameraclub.com | No |
@@ -1589,6 +1588,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | nerd.town | No |
 | nerdculture.de | No |
 | nerdica.net | No |
+| net4sw.com | No |
 | netzsphaere.xyz | No |
 | newsbots.eu | No |
 | newskey.cc | Yes |
@@ -2081,6 +2081,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | snooter.space | No |
 | snowdon.jp | No |
 | sns-sakura.jp | No |
+| snug.moe | No |
 | soc.7thmagic.net | No |
 | soc.citizen4.eu | No |
 | soc.emelyne.eu | No |
@@ -2651,6 +2652,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | vrparty.social | Yes |
 | vucica.net | No |
 | vulpine.club | Yes |
+| waha.desupost.soy | No |
 | waha.work | No |
 | waifuism.life | No |
 | wake.st | No |
@@ -2758,8 +2760,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 517 |
-| Normal | 2,204 |
+| Cloudflare | 515 |
+| Normal | 2,208 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 18.9% of public Fediverse services are using Cloudflare.
