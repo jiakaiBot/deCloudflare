@@ -192,6 +192,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bobek.cz | No |
 | boing.world | No |
 | boitam.eu | No |
+| boltcutter.network | Yes |
 | bong.social | No |
 | bonn.social | No |
 | booba.bar | No |
@@ -217,7 +218,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bunny.cafe | No |
 | bunt.social | No |
 | burn.capital | No |
-| burner.zone | No |
 | burymein.black | No |
 | busshi.moe | No |
 | bussy.monster | No |
@@ -657,6 +657,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | glitchcity.cc | No |
 | glitterkitten.co.uk | No |
 | globalwarming.fun | No |
+| glowers.club | No |
 | gn-tronics.dev | No |
 | gnubox.org | No |
 | gnusocial.net | No |
@@ -809,7 +810,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | insoumis.social | No |
 | intahnet.co.uk | Yes |
 | interact.bluecore.net | No |
-| interfaith.masto.host | No |
 | internetstuff.xyz | No |
 | io.pace.rip | No |
 | ioc.exchange | No |
@@ -958,7 +958,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | librenet.co.za | No |
 | libretooth.gr | No |
 | librosphere.fr | No |
-| life.fvktv.me | No |
 | ligma.pro | Yes |
 | likeable.space | No |
 | liker.social | Yes |
@@ -1205,7 +1204,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.lukem.net | Yes |
 | mastodon.macsnet.cz | No |
 | mastodon.madrid | No |
-| mastodon.man-ya.asia | No |
 | mastodon.matcha-soft.com | No |
 | mastodon.matrix.org | Yes |
 | mastodon.me.uk | Yes |
@@ -1547,6 +1545,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.y-zu.org | Yes |
 | mstdn.yaesu-eas.tokyo | No |
 | mstdn.yakitamago.info | No |
+| mstdn.zakuac.com | No |
+| mt.shc.kanagawa.jp | No |
 | mthie.net | No |
 | mu.zaitcev.nu | No |
 | muenchen.social | No |
@@ -1643,6 +1643,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | o3o.ca | Yes |
 | obapom.work | No |
 | obese.cat | No |
+| obkkszd.club | Yes |
 | oc.todon.fr | No |
 | occitanie.social | No |
 | occult-zuki.com | No |
@@ -1766,6 +1767,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pl.tsukuyomi.dev | Yes |
 | pl.uwu.is | No |
 | pl.valkyrie.world | No |
+| pl.zombiecats.run | No |
 | planet.chrisbeckstrom.com | No |
 | planet.moe | Yes |
 | plasticmodels.tokyo | No |
@@ -1888,7 +1890,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pouet.mickaelgillot.xyz | No |
 | pounced-on.me | No |
 | pouque.net | No |
-| ppl.town | No |
 | pr0mised.life | Yes |
 | precure.ml | No |
 | pret.life | No |
@@ -1920,6 +1921,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | queer.hacktivis.me | No |
 | queer.haus | No |
 | queer.party | No |
+| queer.town | No |
 | queerdorks.club | No |
 | queerhackers.social | Yes |
 | quietplace.xyz | No |
@@ -2247,6 +2249,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.lxsameer.com | Yes |
 | social.main-angler.de | No |
 | social.masto.host | No |
+| social.matej-lach.me | No |
 | social.medusmedia.com | No |
 | social.meissa-gmbh.de | No |
 | social.memo-village.com | No |
@@ -2326,7 +2329,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.snowcode.ovh | No |
 | social.solibre.de | No |
 | social.sp-codes.de | No |
-| social.spacebear.ee | No |
 | social.ssbx.dev | No |
 | social.stephane-klein.info | Yes |
 | social.stracknet.com | No |
@@ -2490,6 +2492,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tilde.zone | No |
 | ting.cm | No |
 | tiny.tilde.website | No |
+| tkmb.tokyo | No |
 | todon.eu | No |
 | todon.nl | No |
 | togart.de | No |
@@ -2759,8 +2762,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 513 |
-| Normal | 2,209 |
+| Cloudflare | 515 |
+| Normal | 2,210 |
 
 
-### 18.8% of public Fediverse services are using Cloudflare.
+### 18.9% of public Fediverse services are using Cloudflare.
