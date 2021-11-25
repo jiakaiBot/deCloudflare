@@ -3196,6 +3196,7 @@ Do not create new issue or we will close it as duplicate.
 | [luiskun11@twitter](https://twitter.com/luiskun11/status/1389777969627820032) | advertise |
 | [LuizGerrards@twitter](https://twitter.com/LuizGerrards/status/1398476334255333379) | advertise |
 | [LukaMamrikishv1@twitter](https://twitter.com/LukaMamrikishv1/status/1401226185032540164) | advertise |
+| [LukeParkerDev@twitter](https://twitter.com/LukeParkerDev/status/1463643178242752515) | advertise |
 | [LuLay33753810@twitter](https://twitter.com/LuLay33753810/status/1391572999329882112) | advertise |
 | [LuMin67718407@twitter](https://twitter.com/LuMin67718407/status/1394701176998817792) | advertise |
 | [Lun34192472@twitter](https://twitter.com/Lun34192472/status/1398103398453440512) | advertise |
