@@ -6381,6 +6381,7 @@ Do not create new issue or we will close it as duplicate.
 | [YunuSedatAydin@twitter](https://twitter.com/YunuSedatAydin/status/1462456581250072590) | advertise |
 | [Yusi138338331@twitter](https://twitter.com/Yusi138338331/status/1390642830310141952) | advertise |
 | [YusTweet@twitter](https://twitter.com/YusTweet/status/1457884814300770305) | advertise |
+| [Yuu_09180@twitter](https://twitter.com/Yuu_09180/status/1463762592560648196) | advertise |
 | [yuyachit2@twitter](https://twitter.com/yuyachit2/status/1407168318889357326) | advertise |
 | [YWanasan@twitter](https://twitter.com/YWanasan/status/1392054647393636360) | advertise |
 | [YYairBB@twitter](https://twitter.com/YYairBB/status/1377950035653066758) | advertise |
