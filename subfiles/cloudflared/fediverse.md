@@ -969,6 +969,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | linuxlab.sh | Yes |
 | linuxrocks.online | No |
 | literatur.social | No |
+| litterae.social | No |
 | live4you.one | Yes |
 | liveplatform.ca | No |
 | lizards.live | No |
@@ -1298,7 +1299,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.zaclys.com | No |
 | mastodon.zapashcanon.fr | No |
 | mastodon.zergy.net | No |
-| mastodon.zeteo.me | No |
 | mastodon.zunda.ninja | No |
 | mastodon2.juggler.jp | No |
 | mastodont.cat | No |
@@ -1413,6 +1413,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.arumoon.ru | No |
 | mk.catgirlsfor.science | Yes |
 | mk.comfysnug.space | No |
+| mk.cybre.ninja | No |
 | mk.fedi.tech | No |
 | mk.hime.moe | No |
 | mk.iaia.moe | No |
@@ -1607,6 +1608,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | nobigtech.es | No |
 | noc.social | No |
 | node9.org | No |
+| noeldemartin.social | No |
 | nofan.xyz | Yes |
 | noize.guru | No |
 | nojack.easydns.ca | No |
@@ -1681,6 +1683,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | oulipo.social | No |
 | ourempty.pub | No |
 | outerheaven.club | No |
+| oval.cc | No |
 | owlper.ch | No |
 | ozhika.me | No |
 | p.ashiato45.net | No |
@@ -1789,6 +1792,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.debian.social | No |
 | pleroma.doserver.duckdns.org | No |
 | pleroma.dragonborn.app | No |
+| pleroma.echolib.re | No |
 | pleroma.eientei.org | No |
 | pleroma.elinvention.ovh | No |
 | pleroma.elyat.im | No |
@@ -2139,7 +2143,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.bim.land | No |
 | social.binarydad.com | No |
 | social.biologianaweb.com.br | No |
-| social.bitcast.info | No |
 | social.bobcall.me | No |
 | social.boiledscript.com | No |
 | social.bund.de | No |
@@ -2219,7 +2222,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.josephschneider.net | No |
 | social.k1ppl.com | Yes |
 | social.kabi.tk | No |
-| social.kaitaia.life | Yes |
 | social.kartoffelcheetah.eu | No |
 | social.kennyqin.com | No |
 | social.kindbook.us | No |
@@ -2228,7 +2230,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.ksite.de | No |
 | social.kuester7.com | No |
 | social.kyushojitsu.ca | No |
-| social.lacoloc.cafe | No |
 | social.lainon.life | No |
 | social.lansky.name | No |
 | social.laserbeam.productions | No |
@@ -2286,7 +2287,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.polymerwitch.com | No |
 | social.prepedia.org | No |
 | social.primeos.dev | No |
-| social.protocol7.co | No |
 | social.pyngu.com | No |
 | social.qaq.wiki | Yes |
 | social.qownnotes.org | Yes |
@@ -2299,7 +2299,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.rights.ninja | Yes |
 | social.roeckoe.be | No |
 | social.rooty.fr | No |
-| social.rousselie.name | No |
 | social.ruby2sday.net | Yes |
 | social.rustysoft.de | No |
 | social.s.dhusch.de | No |
@@ -2606,6 +2605,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | unexpected.singleuser.club | No |
 | unkomaker.hostdon.ne.jp | Yes |
 | unkworks.net | No |
+| unmensch.xyz | No |
 | unnerv.jp | No |
 | uno.today | Yes |
 | unstable.icu | No |
@@ -2749,7 +2749,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | zombienet.org | No |
 | zone.liolok.com | Yes |
 | zotadel.net | No |
-| zottmann.org | Yes |
 | zotum.net | No |
 
 
@@ -2760,8 +2759,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 515 |
-| Normal | 2,208 |
+| Cloudflare | 513 |
+| Normal | 2,209 |
 
 
-### 18.9% of public Fediverse services are using Cloudflare.
+### 18.8% of public Fediverse services are using Cloudflare.
