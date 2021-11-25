@@ -7,6 +7,7 @@
 
 
 
+- The only way I can get on website is if I click on link on you guys Twitter account. If I try to connect to website any other way I get that error message. I am only having this problem with your website. Right now not a issue for me, but I can't be the only one that had problem. ([theodorelallen](https://twitter.com/TheodoreLAllen/status/1463758791816712200))
 - In my case if i give any special characters like /, its blocking it ...Is there any tips for it ([menakche](https://twitter.com/menakche/status/1463735419242102787))
 - Okie dokie everyone the website update will be put on hold and in the meantime I will be uploading the film to my YouTube channel you may ask why is that? the DDOS attacks are still going on against my website cloudflare is blocking it but I don't want to chance it Stay tuned ([jkileyofficial](https://twitter.com/JKileyOfficial/status/1463429406190452739))
 - We are creating a DNS daemon that supports ICANN domains & our TLD offerings, & compensates nodes in $DWEB. We plan on taking this solution to major DNS providers like GoDaddy, Cloudflare, Google, ISPs, etc. We have blocked .eth and other TLDs offered so there are no conflicts. ([decentra_web](https://twitter.com/decentra_web/status/1463282208433528834))
