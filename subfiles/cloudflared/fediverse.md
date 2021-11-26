@@ -165,7 +165,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bimmer.social | No |
 | biplus.date | Yes |
 | birb.site | No |
-| birb.social | No |
 | birb.space | No |
 | birdity.club | No |
 | birds.garden | No |
@@ -307,7 +306,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cornerof.world | No |
 | cornichon.me | No |
 | corrupteddreams.com | No |
-| cosmos.social | Yes |
 | counter.fedi.live | No |
 | critter.camp | No |
 | crowsnest.libre.audio | No |
@@ -336,7 +334,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | deadinsi.de | Yes |
 | deadredterm.ddns.net | No |
 | debiru.xyz | Yes |
-| debula.ml | Yes |
 | decentralised.social | No |
 | decept.org | No |
 | delaeuforia.com | Yes |
@@ -474,7 +471,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fed.hvn.network | Yes |
 | fed.im | No |
 | fed.sonnenmulde.at | No |
-| fed.thecyberdeck.xyz | No |
 | feder8.me | No |
 | federate.hopto.org | No |
 | federated.glacier.dog | No |
@@ -602,7 +598,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | frogmob.life | No |
 | frootmig.net | No |
 | froth.zone | No |
-| froyo.masto.host | No |
 | fulda.social | No |
 | fumi.39.gy | No |
 | functional.cafe | Yes |
@@ -860,6 +855,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kazv.moe | No |
 | kcl.academy | No |
 | kcmo.social | No |
+| kele.one | No |
 | kemoner-don.tokyo | No |
 | kemonodon.club | No |
 | kerkour.com | Yes |
@@ -1779,7 +1775,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.breizh.pm | No |
 | pleroma.chagratt.site | No |
 | pleroma.chez-papy-daarky.ovh | No |
-| pleroma.cloud | No |
 | pleroma.crowesnest.io | No |
 | pleroma.cybervalley.org | No |
 | pleroma.dark-alexandr.net | No |
@@ -2554,7 +2549,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | transient.garden | No |
 | transmom.love | No |
 | travelpandas.fr | No |
-| triangletoot.party | No |
 | tristram.uber.space | No |
 | troet.cafe | No |
 | troll.cafe | No |
@@ -2744,6 +2738,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | zombienet.org | No |
 | zone.liolok.com | Yes |
 | zotadel.net | No |
+| zottmann.org | Yes |
 | zotum.net | No |
 
 
@@ -2754,8 +2749,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 516 |
-| Normal | 2,201 |
+| Cloudflare | 515 |
+| Normal | 2,197 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
