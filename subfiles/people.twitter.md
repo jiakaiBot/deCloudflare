@@ -7,6 +7,7 @@
 
 
 
+- Error 1020 Access denied ってなんだ Cloudflareがブロック..? ([shunpi25](https://twitter.com/shunpi25/status/1464092895888166922))
 - Having some issues with and Cloudflare throwing a 525 error. Let's wait and see some more hours ([stasoni](https://twitter.com/Stasoni/status/1463994939063349250))
 - The only way I can get on website is if I click on link on you guys Twitter account. If I try to connect to website any other way I get that error message. I am only having this problem with your website. Right now not a issue for me, but I can't be the only one that had problem. ([theodorelallen](https://twitter.com/TheodoreLAllen/status/1463758791816712200))
 - In my case if i give any special characters like /, its blocking it ...Is there any tips for it ([menakche](https://twitter.com/menakche/status/1463735419242102787))
