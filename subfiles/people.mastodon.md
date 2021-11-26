@@ -7,6 +7,7 @@
 
 
 
+- the existence of cloudflare is very dangerous for the internet and it should be broken up ([kate](https://shrike.club/@kate/107345837168887446))
 - We've all been taught that for every buyer their must be a seller, right? Well not exactly. Enter a #cartel. If a cartel serves almost every single online #bitcoinExchange, as does #Cloudflare, then at the very least they can #frontRun trades. Beyond that they can do a range of things at key moments to manipulate prices that would make true #priceDiscovery far more difficult — maybe impossible. #priceManipulation #cloudflareIsTheMalware #microTransactions #algorithmicTrading ([dsfgs](https://activism.openworlds.info/@dsfgs/107344361395802940))
 - I really like cloudflare but the fact they put so much effort into preventing me from cURLing a website is super annoying. I used to have a cli PL/EN dictionary I'd parse with pup and now it's stuck on some captcha 😫 ([hq1](https://fosstodon.org/@hq1/107341536979417133))
 - So the vanguards of progressivism, like #TheIntercept, are telling us #inflation is good for us. But for the average person, who doesn't play on the #stockMarket at high levels (think #insideTrading levels), inflation is really, really not good. Never has been. Its a sign the #economy is growing in the way spending printed #counterFiat cash is. It's #fakeGrowth and #illegal when we do it. (TheIntercept and #TheYoungTurks are served by Cloudflare. #TheGuardian and #TheConversation by #Amazon) ([dsfgs](https://activism.openworlds.info/@dsfgs/107332768250357874))
