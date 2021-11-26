@@ -144,7 +144,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | baraag.net | Yes |
 | barcamp.social | No |
 | barcelona.social | No |
-| barkshark.xyz | No |
 | barrett.dog | No |
 | based.social | Yes |
 | battleangels.net | No |
@@ -239,7 +238,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | capybara.social | No |
 | cassone.social | No |
 | castlecannon.house | No |
-| castopod.chaouane.xyz | No |
 | casually.cat | No |
 | cat.family | No |
 | catgirl.life | No |
@@ -366,7 +364,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | dindon.one | No |
 | dingdash.com | No |
 | dis-le.de | No |
-| discussion.studio | No |
 | disqordia.space | No |
 | distrotoot.com | No |
 | dither.ddns.net | No |
@@ -606,7 +603,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | frootmig.net | No |
 | froth.zone | No |
 | froyo.masto.host | No |
-| fukeaka.ink | No |
 | fulda.social | No |
 | fumi.39.gy | No |
 | functional.cafe | Yes |
@@ -880,7 +876,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kicou.info | No |
 | kif.rocks | No |
 | kind.social | No |
-| kindred.haus | No |
 | kinky.business | Yes |
 | kinkyelephant.com | No |
 | kira-sei.com | Yes |
@@ -1112,7 +1107,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.city | No |
 | mastodon.cloud | Yes |
 | mastodon.codingfield.com | No |
-| mastodon.coffee | No |
 | mastodon.com.br | No |
 | mastodon.cosmicanimal.jp | No |
 | mastodon.crazynewworld.net | Yes |
@@ -1189,7 +1183,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.la | Yes |
 | mastodon.ladn.org | No |
 | mastodon.lang-mfr.de | No |
-| mastodon.laurakalbag.com | No |
 | mastodon.lcavallaro.com | Yes |
 | mastodon.leipzigesports.de | Yes |
 | mastodon.lelesius.eu | No |
@@ -1212,6 +1205,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.mim-libre.fr | No |
 | mastodon.mit.edu | Yes |
 | mastodon.ml | No |
+| mastodon.morgiano.it | No |
 | mastodon.motcha.tech | Yes |
 | mastodon.muage.org | No |
 | mastodon.multimob.be | No |
@@ -1417,6 +1411,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.iaia.moe | No |
 | mk.lei202.com | Yes |
 | mk.lightnovel-dungeon.de | No |
+| mk.longyap.social | No |
 | mk.mozcmozc.club | No |
 | mk.muy.moe | Yes |
 | mk.niscii.xyz | Yes |
@@ -1639,6 +1634,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | nya.social | No |
 | nyaaa.jeder.pl | No |
 | nyan.nekoea.red | No |
+| nyan.network | No |
 | nymwars.org | No |
 | o3o.ca | Yes |
 | obapom.work | No |
@@ -1828,6 +1824,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.mnko.info | No |
 | pleroma.moth.monster | No |
 | pleroma.neuromante.net | No |
+| pleroma.nindanaoto.dev | No |
 | pleroma.nobodyhasthe.biz | No |
 | pleroma.noellabo.jp | Yes |
 | pleroma.nthomas20.net | No |
@@ -1912,6 +1909,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | puz.fun | No |
 | puzzled.cc | No |
 | pythondevs.social | No |
+| pztrn.online | No |
 | qdon.space | Yes |
 | qiitadon.com | No |
 | qoto.org | No |
@@ -2005,7 +2003,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sarcasm.stream | No |
 | saturno.com.ve | No |
 | satzfetzen.de | No |
-| sauropods.win | No |
 | sayit.world | No |
 | sbpk.fr | Yes |
 | scalie.business | No |
@@ -2182,6 +2179,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.epyisageek.net | No |
 | social.esadhar.net | No |
 | social.eutychia.org | No |
+| social.evilma.id | No |
 | social.ewb.io | No |
 | social.exclaimindustries.net | No |
 | social.eyluldogruel.com | No |
@@ -2619,7 +2617,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ussr.win | No |
 | utodon.jp | No |
 | utopia.cool | No |
-| uuuu.bigguys.club | No |
 | uwu.social | Yes |
 | v-insanity.com | No |
 | v.st | No |
@@ -2763,7 +2760,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 515 |
-| Normal | 2,210 |
+| Normal | 2,207 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
