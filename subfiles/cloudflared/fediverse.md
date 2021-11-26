@@ -410,6 +410,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | easy.saramara.ai | No |
 | eattherich.club | No |
 | eay.social | No |
+| ebano.social | Yes |
 | ecoli.pink | No |
 | econresearch.org | Yes |
 | ecosteader.com | No |
@@ -698,7 +699,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | happylittle.cloudns.cc | No |
 | happytobehe.re | No |
 | hates.company | No |
-| hatesli.me | No |
 | hax0rbana.social | No |
 | hayu.sh | No |
 | hedgehog.pub | Yes |
@@ -770,7 +770,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | iamastodon.gifu.jp | No |
 | ibaillanos.social | No |
 | ibb.info | No |
-| icedlatte.chat | No |
 | icedtux.no | No |
 | ichiji.social | No |
 | icioulaba.tk | No |
@@ -1418,7 +1417,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.nixnet.social | No |
 | mk.outerheaven.club | No |
 | mk.paritybit.ca | No |
-| mk.pusang-ina-mo.ooo | No |
 | mk.shc.kanagawa.jp | No |
 | mk.striker.net.eu.org | No |
 | mk.toast.cafe | No |
@@ -2759,8 +2757,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 515 |
-| Normal | 2,207 |
+| Cloudflare | 516 |
+| Normal | 2,204 |
 
 
-### 18.9% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
