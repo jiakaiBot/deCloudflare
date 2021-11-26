@@ -4156,6 +4156,7 @@ Do not create new issue or we will close it as duplicate.
 | [NTTin0937341938@twitter](https://twitter.com/NTTin0937341938/status/1384567050543063040) | advertise |
 | [Nuam30225369@twitter](https://twitter.com/Nuam30225369/status/1394706534412820501) | advertise |
 | [numaannabi567@twitter](https://twitter.com/numaannabi567/status/1388518044591288324) | advertise |
+| [numanrki@twitter](https://twitter.com/numanrki/status/1464252068147904565) | advertise |
 | [Numbguy8@twitter](https://twitter.com/Numbguy8/status/1381264993270689793) | advertise |
 | [nunglon69@twitter](https://twitter.com/nunglon69/status/1394141657029771267) | advertise |
 | [nunu07478979@twitter](https://twitter.com/nunu07478979/status/1403025110508789761) | advertise |
@@ -6117,6 +6118,7 @@ Do not create new issue or we will close it as duplicate.
 | [William19073051@twitter](https://twitter.com/William19073051/status/1380260553881497607) | advertise |
 | [William59676471@twitter](https://twitter.com/William59676471/status/1390854991309467649) | advertise |
 | [wills143jt@twitter](https://twitter.com/wills143jt/status/1402910570215477249) | advertise |
+| [wills_wire@twitter](https://twitter.com/wills_wire/status/1464226826859995139) | advertise |
 | [win4_zin@twitter](https://twitter.com/win4_zin/status/1385173217396940806) | advertise |
 | [win55818@twitter](https://twitter.com/win55818/status/1398542432480886787) | advertise |
 | [WinBo30180694@twitter](https://twitter.com/WinBo30180694/status/1390247886076579840) | advertise |
