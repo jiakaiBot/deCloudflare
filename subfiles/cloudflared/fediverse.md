@@ -117,7 +117,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | artoot.xyz | No |
 | arugula.social | No |
 | asimon.org | No |
-| asocial.grimstack.xyz | Yes |
 | aspiechattr.me | No |
 | assortedflotsam.com | No |
 | atsuchan.page | No |
@@ -134,7 +133,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | babymetal.party | No |
 | backyard.cloud | No |
 | badgay.net | No |
-| balkan.fedive.rs | No |
 | banana.dog | Yes |
 | bananachips.club | No |
 | bangdream.space | Yes |
@@ -506,6 +504,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.underscore.world | No |
 | fedi.xaloc.space | No |
 | fedi.xerz.one | No |
+| fedi.z0ne.moe | Yes |
 | fedibird.com | Yes |
 | fedilove.cyou | Yes |
 | fediscience.org | No |
@@ -629,7 +628,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gececibaykus.com | No |
 | geekcompass.com | Yes |
 | genau.qwertqwefsday.eu | No |
-| genitalia.observer | No |
 | geno.social | No |
 | gensokyo.social | No |
 | gensokyo.town | Yes |
@@ -1092,6 +1090,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.bida.im | No |
 | mastodon.bits-und-baeume.org | No |
 | mastodon.blake-hofer.net | No |
+| mastodon.buzhangjiuzhou.com | Yes |
 | mastodon.cardina1.red | No |
 | mastodon.care-tags.org | No |
 | mastodon.cc | No |
@@ -1375,7 +1374,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | misskey.id | No |
 | misskey.io | Yes |
 | misskey.korako.me | Yes |
-| misskey.koyu.space | Yes |
 | misskey.kurume-nct.com | No |
 | misskey.levome-dol.com | No |
 | misskey.m86.work | Yes |
@@ -2092,7 +2090,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | soc.kakun.jp | No |
 | soc.kouett.net.eu.org | No |
 | soc.luciferi.st | No |
-| soc.nemo.click | No |
 | soc.nhg.moe | No |
 | soc.phreedom.club | No |
 | soc.punktrash.club | Yes |
@@ -2758,7 +2755,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 516 |
-| Normal | 2,204 |
+| Normal | 2,201 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
