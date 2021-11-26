@@ -7,6 +7,7 @@
 
 
 
+- Momentan keine bestellung möglich - Cloudflare error ..... Was ist da los? ([mrgan_matej](https://twitter.com/mrgan_matej/status/1464259411095044096))
 - Website is as bad as US mint for Black Friday sales. I had two doorbusters in my cart and it crashed, internal server error, cloudflare errors, etc. Really disappointed to lose these. ([pquaglia](https://twitter.com/pquaglia/status/1464221090692190210))
 - to know how the fuck are white house and the like. The thing is that is recording to cloudflare. ([averagebotfan](https://twitter.com/AverageBotFan/status/1464170292264292366))
 - Error 1020 Access denied ってなんだ Cloudflareがブロック..? ([shunpi25](https://twitter.com/shunpi25/status/1464092895888166922))
