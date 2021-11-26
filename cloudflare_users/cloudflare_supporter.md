@@ -2473,6 +2473,7 @@ Do not create new issue or we will close it as duplicate.
 | [JyTrung@twitter](https://twitter.com/JyTrung/status/1397760199260196864) | advertise |
 | [K04975245@twitter](https://twitter.com/K04975245/status/1395085262732943361) | advertise |
 | [K2DR7HtBoIKC1g1@twitter](https://twitter.com/K2DR7HtBoIKC1g1/status/1378253350177677312) | advertise |
+| [k4slam@twitter](https://twitter.com/k4slam/status/1463970945727664128) | advertise |
 | [k4thekiller@twitter](https://twitter.com/k4thekiller/status/1394625998658830340) | advertise |
 | [K70263621@twitter](https://twitter.com/K70263621/status/1391000632845344774) | advertise |
 | [k98785618@twitter](https://twitter.com/k98785618/status/1390366313500008449) | advertise |
