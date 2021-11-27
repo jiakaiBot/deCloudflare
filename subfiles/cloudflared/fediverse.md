@@ -206,6 +206,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | brokenmirror.cc | No |
 | bruder.space | No |
 | bsd.network | No |
+| bub.cat | No |
 | budsbots.com | No |
 | bumpto.space | Yes |
 | bungle.online | No |
@@ -575,7 +576,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | friendica.ellih.eu | No |
 | friendica.ennimedia.de | No |
 | friendica.eskimo.com | No |
-| friendica.feneas.org | No |
 | friendica.gidikroon.eu | No |
 | friendica.hellquist.eu | Yes |
 | friendica.hubup.pro | Yes |
@@ -829,7 +829,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | jergefelt.se | No |
 | jigglypuff.club | No |
 | jit.social | No |
-| jitakurack.chotto.moe | No |
 | jmm.kr | Yes |
 | jonleibowitz.social | Yes |
 | jorts.horse | No |
@@ -1661,6 +1660,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | orbitalstation.one | No |
 | orbsafe.masto.host | No |
 | orctavern.pub | No |
+| orebro.online | No |
 | orenoshiro.site | No |
 | orz.uno | Yes |
 | osa.tepewu.pl | No |
@@ -2440,7 +2440,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tassaron.com | No |
 | taur.zone | No |
 | tbh.ihatebeinga.live | Yes |
-| tc.nz | No |
 | team1.rocks | No |
 | tears.intherain.club | No |
 | tebukuro.xyz | No |
@@ -2750,7 +2749,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 515 |
-| Normal | 2,197 |
+| Normal | 2,196 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
