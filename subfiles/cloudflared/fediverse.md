@@ -603,7 +603,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fulda.social | No |
 | fumi.39.gy | No |
 | functional.cafe | Yes |
-| furries.world | No |
 | furrylife.online | Yes |
 | futen.work | No |
 | fuzz.network | No |
@@ -765,7 +764,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | iamastodon.gifu.jp | No |
 | ibaillanos.social | No |
 | ibb.info | No |
-| icedtux.no | No |
 | ichiji.social | No |
 | icioulaba.tk | No |
 | icosahedron.website | No |
@@ -995,6 +993,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.fal.moe | No |
 | m.g3l.org | No |
 | m.hitorino.moe | Yes |
+| m.hoshisaki-h.com | No |
 | m.jinwei.me | Yes |
 | m.kirishima.cloud | No |
 | m.kretschmann.social | No |
@@ -1403,7 +1402,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.comfysnug.space | No |
 | mk.cybre.ninja | No |
 | mk.fedi.tech | No |
-| mk.hime.moe | No |
 | mk.iaia.moe | No |
 | mk.lei202.com | Yes |
 | mk.lightnovel-dungeon.de | No |
@@ -1433,6 +1431,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | monado.ren | Yes |
 | monads.online | No |
 | mond-basis.eu | No |
+| monocles.social | No |
 | monsterfuckers.online | No |
 | moonbeam.town | No |
 | moresci.sale | Yes |
@@ -1477,7 +1476,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.guru | No |
 | mstdn.haun.jp | No |
 | mstdn.hitoxu.com | No |
-| mstdn.hiyuki2578.net | Yes |
 | mstdn.hokkaido.jp | No |
 | mstdn.hokkaidosm.net | No |
 | mstdn.home.neso.tech | No |
@@ -1789,6 +1787,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.elinvention.ovh | No |
 | pleroma.elyat.im | No |
 | pleroma.envs.net | No |
+| pleroma.estwald.icu | No |
 | pleroma.flussence.eu | No |
 | pleroma.foucry.net | No |
 | pleroma.foxfam.club | No |
@@ -1964,7 +1963,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | rn.akarinext.org | Yes |
 | rodina-sucha.cz | No |
 | roidesbulgares.rocks | No |
-| rollenspiel.group | No |
 | rollenspiel.social | No |
 | rpi.limited.systems | No |
 | rpvortex.online | No |
@@ -2350,7 +2348,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.unx.pw | No |
 | social.up.edu.ph | Yes |
 | social.urspringer.de | No |
-| social.veganact.org.au | No |
 | social.vestimento.fashion | No |
 | social.weho.st | No |
 | social.wien.rocks | No |
@@ -2595,6 +2592,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | under-bank.blue | No |
 | underground-side-kochira-kotonoha.xyz | No |
 | unexpected.singleuser.club | No |
+| unipar.online | No |
 | unkomaker.hostdon.ne.jp | Yes |
 | unkworks.net | No |
 | unmensch.xyz | No |
@@ -2749,8 +2747,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 517 |
-| Normal | 2,195 |
+| Cloudflare | 516 |
+| Normal | 2,194 |
 
 
-### 19.1% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
