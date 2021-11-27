@@ -7,6 +7,7 @@
 
 
 
+- Github … Das Cloudflare der OpenSource Projekte 🙄 ([kromonos](https://social.snopyta.org/@kromonos/107351482001855147))
 - hot take: if it hides behind &quot;cloudflare&quot; MitMaaS, torblocks or geoblocks, paywalls or otherwise discriminates while pretending to have a public URI it does not deserve to be called a public website. ([quincy](https://chaos.social/@quincy/107350223156609484))
 - the existence of cloudflare is very dangerous for the internet and it should be broken up ([kate](https://shrike.club/@kate/107345837168887446))
 - We've all been taught that for every buyer their must be a seller, right? Well not exactly. Enter a #cartel. If a cartel serves almost every single online #bitcoinExchange, as does #Cloudflare, then at the very least they can #frontRun trades. Beyond that they can do a range of things at key moments to manipulate prices that would make true #priceDiscovery far more difficult — maybe impossible. #priceManipulation #cloudflareIsTheMalware #microTransactions #algorithmicTrading ([dsfgs](https://activism.openworlds.info/@dsfgs/107344361395802940))
