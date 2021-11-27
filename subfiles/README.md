@@ -16,6 +16,9 @@
   - [Crimeflare Mail](https://mail.crimeflare.eu.org)
   - [IAList](https://ialist.crimeflare.eu.org)
   - [Alternative Link](service.altlink.md)
+- Cloudflare Alternatives
+  - [Cloudflare Alternatives](cloudflare-alternatives.md)
+  - [Cloudflare DNS Alternatives](alternatives.domaindns.md)
 - Cloudflared
   - How many % of top most visited sites?
     - [How many % of top 1,000 most visited sites(2010) are using Cloudflare?](cloudflared/top1000-2010-google.md) _Google_
@@ -77,6 +80,5 @@
 - [Cloudflare attracts "repeat infringers"](repeat_infringers_love_cloudflare.md)
 - [Change default DNS provider of Firefox](change-firefox-dns.md)
 - [How to use Chromium with Tor](chromium_tor.md)
-- [Cloudflare Alternatives](cloudflare-alternatives.md)
 - [Myth Catalog](myth_catalog.md)
 - [The trouble with Codeberg](the_trouble_with_codeberg.md)
