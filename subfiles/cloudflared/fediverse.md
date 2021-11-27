@@ -308,6 +308,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cornichon.me | No |
 | corrupteddreams.com | No |
 | counter.fedi.live | No |
+| crazylab.online | No |
 | critter.camp | No |
 | crowsnest.libre.audio | No |
 | crypt.lol | No |
@@ -472,6 +473,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fed.hvn.network | Yes |
 | fed.im | No |
 | fed.sonnenmulde.at | No |
+| fed.thecyberdeck.xyz | No |
 | feder8.me | No |
 | federate.hopto.org | No |
 | federated.glacier.dog | No |
@@ -979,6 +981,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | luna.vg | No |
 | lunai.re | No |
 | m-i.im | Yes |
+| m.aki-null.net | Yes |
 | m.anirloli.dev | Yes |
 | m.aqr.af | No |
 | m.bonzoesc.net | Yes |
@@ -1193,6 +1196,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.matcha-soft.com | No |
 | mastodon.matrix.org | Yes |
 | mastodon.me.uk | Yes |
+| mastodon.mechanicalmischief.com | No |
 | mastodon.mensoif.cf | No |
 | mastodon.mg | No |
 | mastodon.mim-libre.fr | No |
@@ -1520,7 +1524,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.superspeed-fall.com | No |
 | mstdn.taiha.net | No |
 | mstdn.tamag.org | No |
-| mstdn.toad-in-the-hole.net | No |
 | mstdn.tokyocameraclub.com | No |
 | mstdn.tomokiwakimoto.com | No |
 | mstdn.unasuke.com | No |
@@ -2076,7 +2079,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | snowdon.jp | No |
 | sns-sakura.jp | No |
 | snug.moe | No |
-| soc.7thmagic.net | No |
 | soc.citizen4.eu | No |
 | soc.emelyne.eu | No |
 | soc.feilimatrisen.net | No |
@@ -2415,6 +2417,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sumanko.ml | Yes |
 | summoners-riftodon.jp | No |
 | sunbeam.city | No |
+| sundaylight.space | Yes |
 | sunisky.club | Yes |
 | surfin.dog | No |
 | sushi.ski | Yes |
@@ -2651,7 +2654,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | wandering.shop | No |
 | wandzeitung.xyz | No |
 | warm.rocks | No |
-| washingtonbeach.online | No |
 | watadon.com | No |
 | we.1being.org | No |
 | weeaboo.space | No |
@@ -2699,7 +2701,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | xgix.net | Yes |
 | xice.org | Yes |
 | xiii.ch | No |
-| xindejiayuan.com | No |
 | xoxo.zone | Yes |
 | xxx.azyobuzi.net | No |
 | xyzzy.link | No |
@@ -2748,8 +2749,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 515 |
-| Normal | 2,196 |
+| Cloudflare | 517 |
+| Normal | 2,195 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 19.1% of public Fediverse services are using Cloudflare.
