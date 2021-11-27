@@ -17,8 +17,8 @@
   - [IAList](https://ialist.crimeflare.eu.org)
   - [Alternative Link](service.altlink.md)
 - Cloudflare Alternatives
-  - [Cloudflare Alternatives](cloudflare-alternatives.md)
-  - [Cloudflare DNS Alternatives](alternatives.domaindns.md)
+  - [Cloudflare Alternatives](alternative.cloudflare.md)
+  - [Cloudflare DNS Alternatives](alternative.domaindns.md)
 - Cloudflared
   - How many % of top most visited sites?
     - [How many % of top 1,000 most visited sites(2010) are using Cloudflare?](cloudflared/top1000-2010-google.md) _Google_
