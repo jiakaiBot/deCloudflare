@@ -7,6 +7,7 @@
 
 
 
+- The ultimate error is "Firefox can’t establish a connection to the server at ([itsjohannawren](https://twitter.com/ItsJohannaWren/status/1464466461682855947))
 - This is what happens when a server outage happens to NFTs... Or someone unplugs the wrong fucking box They are not secure. These millions of $$ spent on NFTs are currently hosted with single points of failure, whether they tell you that or not. Waiting for "but cloudflare" lol ([escape1979uk](https://twitter.com/escape1979uk/status/1464385684697980928))
 - Momentan keine bestellung möglich - Cloudflare error ..... Was ist da los? ([mrgan_matej](https://twitter.com/mrgan_matej/status/1464259411095044096))
 - Website is as bad as US mint for Black Friday sales. I had two doorbusters in my cart and it crashed, internal server error, cloudflare errors, etc. Really disappointed to lose these. ([pquaglia](https://twitter.com/pquaglia/status/1464221090692190210))
