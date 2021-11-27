@@ -7,6 +7,7 @@
 
 
 
+- I can't actually read the article, because I'm blocked by Cloudflare. 🤷🏻 ([termycornall](https://twitter.com/TermyCornall/status/1464582270971351040))
 - The ultimate error is "Firefox can’t establish a connection to the server at ([itsjohannawren](https://twitter.com/ItsJohannaWren/status/1464466461682855947))
 - This is what happens when a server outage happens to NFTs... Or someone unplugs the wrong fucking box They are not secure. These millions of $$ spent on NFTs are currently hosted with single points of failure, whether they tell you that or not. Waiting for "but cloudflare" lol ([escape1979uk](https://twitter.com/escape1979uk/status/1464385684697980928))
 - Momentan keine bestellung möglich - Cloudflare error ..... Was ist da los? ([mrgan_matej](https://twitter.com/mrgan_matej/status/1464259411095044096))
