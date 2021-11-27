@@ -7,6 +7,8 @@
 
 
 
+- Even though I deactivated and deleted my site off of cloudflare, I keep getting an error when I activate the CDN with my new host. They had me contact cloudflare to remove any old DNS settings - still waiting ([thekathyava](https://twitter.com/thekathyava/status/1464636733300039681))
+- I'm getting errors trying to log into your website on multiple browsers, are there any issues on your end? Error says everything is fine up until it tries to connect to your website. Browser and Cloudflare is fine but the Host is giving me errors. ([xmarsipan](https://twitter.com/xMarsipan/status/1464627241271402505))
 - I can't actually read the article, because I'm blocked by Cloudflare. 🤷🏻 ([termycornall](https://twitter.com/TermyCornall/status/1464582270971351040))
 - The ultimate error is "Firefox can’t establish a connection to the server at ([itsjohannawren](https://twitter.com/ItsJohannaWren/status/1464466461682855947))
 - This is what happens when a server outage happens to NFTs... Or someone unplugs the wrong fucking box They are not secure. These millions of $$ spent on NFTs are currently hosted with single points of failure, whether they tell you that or not. Waiting for "but cloudflare" lol ([escape1979uk](https://twitter.com/escape1979uk/status/1464385684697980928))
