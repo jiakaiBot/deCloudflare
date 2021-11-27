@@ -11,11 +11,11 @@ This page is for `domain owner` who like to move away from CloudFlare DNS.
 | [Dyn.com](https://dyn.com/dns/) | - | Paid |
 | [Hetzner DNS](https://docs.hetzner.com/dns-console/dns/general/dns-overview/) | - | ? |
 | [Hurricane Electric Free DNS](https://dns.he.net/) | - | Free |
-| [Selectel DNS](https://selectel.ru/en/services/additional/dns/) | - | ? |
 
 
 ## Why X is not included
 | X       | Reason |
 | ------- | ------ |
 | [Namecheap DNS](https://www.namecheap.com/domains/freedns/) | Using Cloudflare & defended Cloudflare while discussion on Twitter. |
+| [Selectel DNS](https://selectel.ru/en/services/additional/dns/) | Using Cloudflare |
 
