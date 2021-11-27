@@ -170,9 +170,10 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 - Do you need HTTPS certificate? Use "Let's Encrypt" or just buy it from CA company.
 
 - Do you need DNS server? Can't set up your own server? How about them: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin delete your account if you use TOR)](https://freedns.afraid.org/)
+  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
 
 - Looking for hosting service? Free only? How about them: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatives to Cloudflare](../subfiles/cloudflare-alternatives.md)
+  - [Alternatives to Cloudflare](../subfiles/alternative.cloudflare.md)
 
 - Are you using "cloudflare-ipfs.com"? [Do you know Cloudflare IPFS is bad?](../PEOPLE.md)
 
@@ -422,7 +423,7 @@ Therefore we recommend above table only. Nothing else.
 
 - Where appropriate, link to these groups on this repository - this can be a place for coordinating working together as groups.
 
-- [Start a coop that can provide a meaningful non corporate alternative to Cloudflare.](../subfiles/cloudflare-alternatives.md)
+- [Start a coop that can provide a meaningful non corporate alternative to Cloudflare.](../subfiles/alternative.cloudflare.md)
 
 - Let us know of any alternatives to help at least provide multiple layered defence against Cloudflare.
 
