@@ -7,6 +7,7 @@
 
 
 
+- Yes, but that doesn’t seem to be the case. After I blocked the source IP address on CloudFlare, the requests have stopped. ([debsuryorg](https://twitter.com/debsuryorg/status/1464678282738155535))
 - Even though I deactivated and deleted my site off of cloudflare, I keep getting an error when I activate the CDN with my new host. They had me contact cloudflare to remove any old DNS settings - still waiting ([thekathyava](https://twitter.com/thekathyava/status/1464636733300039681))
 - I'm getting errors trying to log into your website on multiple browsers, are there any issues on your end? Error says everything is fine up until it tries to connect to your website. Browser and Cloudflare is fine but the Host is giving me errors. ([xmarsipan](https://twitter.com/xMarsipan/status/1464627241271402505))
 - I can't actually read the article, because I'm blocked by Cloudflare. 🤷🏻 ([termycornall](https://twitter.com/TermyCornall/status/1464582270971351040))
