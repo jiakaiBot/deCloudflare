@@ -287,6 +287,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | coletivos.org | No |
 | collapsitarian.io | No |
 | colorid.es | Yes |
+| comfyboy.club | No |
 | comicscamp.club | No |
 | comm.network | No |
 | communicating.cypherpunk.observer | No |
@@ -491,7 +492,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.fullstuck.net | No |
 | fedi.jmizzle.com | No |
 | fedi.kate.land | No |
-| fedi.lewactwo.pl | No |
 | fedi.mint.lgbt | No |
 | fedi.n0id.space | No |
 | fedi.nekojanai.xyz | No |
@@ -598,7 +598,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | friendsyu.me | No |
 | friskypaws.social | Yes |
 | frogmob.life | No |
-| frootmig.net | No |
 | froth.zone | No |
 | fulda.social | No |
 | fumi.39.gy | No |
@@ -779,7 +778,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ihatebeinga.live | Yes |
 | ika.queloud.net | No |
 | ikbenpiraat.nl | No |
-| ilias.church | No |
 | ilja.space | No |
 | im-in.space | No |
 | im.allmendenetz.de | No |
@@ -848,6 +846,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kanoa.de | No |
 | kapocs.urbalazs.hu | No |
 | karagedon.com | No |
+| kasma.cyou | No |
 | kawaii.kitsune.cafe | No |
 | kawen.space | No |
 | kayii.goe.land | No |
@@ -1323,7 +1322,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | melilot.icu | No |
 | mellified.men | No |
 | mellow.town | No |
-| mellow.zone | No |
 | melmc.nohost.me | No |
 | melonbread.dev | No |
 | member.thenobody.club | No |
@@ -1397,6 +1395,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | miwkey.miwpayou0808.info | Yes |
 | miyon.miyon.org | Yes |
 | mk.absturztau.be | No |
+| mk.aqr.af | No |
 | mk.arumoon.ru | No |
 | mk.catgirlsfor.science | Yes |
 | mk.comfysnug.space | No |
@@ -1768,7 +1767,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma-in.ouda.space | No |
 | pleroma.1d4.us | Yes |
 | pleroma.8777.ch | No |
-| pleroma.antoineve.me | No |
 | pleroma.aspie.freemyip.com | No |
 | pleroma.atsuchan.page | No |
 | pleroma.atyh.cc | No |
@@ -2140,6 +2138,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.campusgemeinde.de | No |
 | social.canony.xyz | No |
 | social.centreforthestudyof.net | No |
+| social.chilliet.eu | No |
 | social.city-of-glass.net | No |
 | social.cloudron.io | No |
 | social.cologne | No |
@@ -2242,6 +2241,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.meissa-gmbh.de | No |
 | social.memo-village.com | No |
 | social.metadata.moe | Yes |
+| social.metakaos.space | No |
 | social.mezzo.moe | No |
 | social.mieth.net | No |
 | social.mikutter.hachune.net | No |
