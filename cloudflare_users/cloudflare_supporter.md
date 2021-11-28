@@ -2395,6 +2395,7 @@ Do not create new issue or we will close it as duplicate.
 | [JKrystal68@twitter](https://twitter.com/JKrystal68/status/1391640481583353858) | advertise |
 | [jlamp_235@twitter](https://twitter.com/jlamp_235/status/1382663818568814597) | advertise |
 | [JLSosaJr@twitter](https://twitter.com/JLSosaJr/status/1382253002765991940) | advertise |
+| [jmacsecurity@twitter](https://twitter.com/jmacsecurity/status/1464711566985732103) | advertise |
 | [jmconfuzeus@twitter](https://twitter.com/jmconfuzeus/status/1378625177022423040) | advertise |
 | [jmexclusives@twitter](https://twitter.com/jmexclusives/status/1416631625841053697) | advertise |
 | [JN0GIN@twitter](https://twitter.com/JN0GIN/status/1404648361060413441) | advertise |
