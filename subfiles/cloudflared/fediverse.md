@@ -124,7 +124,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | aus.social | No |
 | ausglam.space | No |
 | avantwhatever.org | No |
-| awes.one | Yes |
 | awoo.fai.su | No |
 | awoo.space | No |
 | b.z0ne.social | Yes |
@@ -540,6 +539,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fnordon.de | No |
 | fnya.ggtea.org | No |
 | foresdon.jp | No |
+| forum.friendi.ca | No |
 | forumanalogue.fr | No |
 | fosstodon.org | No |
 | four-nine.club | No |
@@ -633,6 +633,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ghost.cafe | No |
 | gingadon.com | Yes |
 | giobu.cyou | Yes |
+| girak.net | No |
 | girevik.su | No |
 | girlcock.club | No |
 | gl.sftblw.moe | Yes |
@@ -734,6 +735,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hub.art3mis.de | No |
 | hub.bessonnica.org | Yes |
 | hub.cats-home.net | No |
+| hub.debenny.de | No |
 | hub.disroot.org | No |
 | hub.elemac.fr | No |
 | hub.hayfidelity.de | No |
@@ -877,7 +879,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kirche.social | No |
 | kirishima.cloud | No |
 | kiritan.work | Yes |
-| kisslolis.moe | No |
 | kith.kitchen | No |
 | kitty.social | Yes |
 | kitty.town | No |
@@ -1160,7 +1161,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.icu | No |
 | mastodon.ie | No |
 | mastodon.im | No |
-| mastodon.immae.eu | No |
 | mastodon.in.th | No |
 | mastodon.indie.host | No |
 | mastodon.infra.de | No |
@@ -1302,7 +1302,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mathtod.online | No |
 | matitodon.com | No |
 | matthewgall.chat | Yes |
-| mauch.social | No |
 | mcd.dk | No |
 | mcnamarii.town | No |
 | md.korako.me | Yes |
@@ -1366,6 +1365,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | misskey.de | No |
 | misskey.dev | Yes |
 | misskey.fr | No |
+| misskey.girak.net | No |
 | misskey.goochiegoo.net | No |
 | misskey.gothloli.club | No |
 | misskey.id | No |
@@ -1378,7 +1378,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | misskey.noellabo.jp | Yes |
 | misskey.nokotaro.work | Yes |
 | misskey.omhnc.net | Yes |
-| misskey.open-w.net | Yes |
 | misskey.osyakasyama.me | No |
 | misskey.ranranhome.info | No |
 | misskey.ruste.red | No |
@@ -1769,7 +1768,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.1d4.us | Yes |
 | pleroma.8777.ch | No |
 | pleroma.antoineve.me | No |
-| pleroma.aspie.freemyip.com | No |
+| pleroma.aspie.freemyip.com | Yes |
 | pleroma.atsuchan.page | No |
 | pleroma.atyh.cc | No |
 | pleroma.betamax65.de | No |
@@ -1960,9 +1959,11 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | rivals.space | Yes |
 | river.group.lt | Yes |
 | rizomatica.org | No |
+| rkor.info | No |
 | rn.akarinext.org | Yes |
 | rodina-sucha.cz | No |
 | roidesbulgares.rocks | No |
+| roleplayers.bub.org | No |
 | rollenspiel.social | No |
 | rpi.limited.systems | No |
 | rpvortex.online | No |
@@ -2044,7 +2045,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sirius1228.space | Yes |
 | sitedethib.com | No |
 | skeleton.cool | No |
-| ski.na2na.website | No |
+| ski.na2na.website | Yes |
 | skippers-bin.com | Yes |
 | skoops.social | No |
 | skorpil.cz | No |
@@ -2237,6 +2238,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.lukepreston.xyz | No |
 | social.lxsameer.com | Yes |
 | social.main-angler.de | No |
+| social.masked.cloud | No |
 | social.masto.host | No |
 | social.matej-lach.me | No |
 | social.medusmedia.com | No |
@@ -2585,7 +2587,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | uelfte.club | No |
 | uhouho.xyz | Yes |
 | ukadon.shillest.net | No |
-| uksocial.net | No |
 | uluka.otsoku.me | No |
 | uma.milkey.homes | Yes |
 | umaskey.net | Yes |
@@ -2751,7 +2752,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 517 |
-| Normal | 2,196 |
+| Normal | 2,197 |
 
 
-### 19.1% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
