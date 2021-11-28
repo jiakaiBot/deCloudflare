@@ -308,6 +308,7 @@ ns-1234.awsdns-61.org
 ns-1235.awsdns-26.org
 ns-1236.awsdns-26.org
 ns-1237.awsdns-26.org
+ns-1237.awsdns-cn-13.net
 ns-1238.awsdns-26.org
 ns-1239.awsdns-26.org
 ns-124.awsdns-15.com
@@ -537,6 +538,7 @@ ns-1436.awsdns-51.org
 ns-1437.awsdns-51.org
 ns-1438.awsdns-51.org
 ns-1439.awsdns-51.org
+ns-1439.awsdns-cn-25.net
 ns-144.awsdns-18.com
 ns-1440.awsdns-52.org
 ns-1441.awsdns-52.org
@@ -705,6 +707,7 @@ ns-1586.awsdns-06.co.uk
 ns-1587.awsdns-06.co.uk
 ns-1588.awsdns-06.co.uk
 ns-1589.awsdns-06.co.uk
+ns-1589.awsdns-cn-35.net
 ns-159.awsdns-19.com
 ns-1590.awsdns-06.co.uk
 ns-1591.awsdns-06.co.uk
@@ -777,6 +780,7 @@ ns-1647.awsdns-13.co.uk
 ns-1648.awsdns-14.co.uk
 ns-1649.awsdns-14.co.uk
 ns-165.awsdns-20.com
+ns-165.awsdns-cn-10.com
 ns-1650.awsdns-14.co.uk
 ns-1651.awsdns-14.co.uk
 ns-1652.awsdns-14.co.uk
@@ -786,7 +790,6 @@ ns-1655.awsdns-14.co.uk
 ns-1656.awsdns-15.co.uk
 ns-1657.awsdns-15.co.uk
 ns-1658.awsdns-15.co.uk
-ns-1658.awsdns-15.co.uk.ns-43.awsdns-05.com.ns-1193.awsdns-21.org.ns-1009.awsdns-62.net
 ns-1659.awsdns-15.co.uk
 ns-166.awsdns-20.com
 ns-1660.awsdns-15.co.uk
@@ -1063,6 +1066,7 @@ ns-1895.awsdns-44.co.uk
 ns-1896.awsdns-45.co.uk
 ns-1897.awsdns-45.co.uk
 ns-1898.awsdns-45.co.uk
+ns-1898.awsdns-cn-54.net
 ns-1899.awsdns-45.co.uk
 ns-19.awsdns-02.com
 ns-190.awsdns-23.com
@@ -1280,6 +1284,7 @@ ns-236.awsdns-29.com
 ns-2363.awsdns-cn-19.biz
 ns-237.awsdns-29.com
 ns-238.awsdns-29.com
+ns-2384.awsdns-cn-21.biz
 ns-239.awsdns-29.com
 ns-2390.awsdns-cn-21.biz
 ns-24.awsdns-03.com
@@ -1338,6 +1343,7 @@ ns-282.awsdns-35.com
 ns-283.awsdns-35.com
 ns-284.awsdns-35.com
 ns-285.awsdns-35.com
+ns-2852.awsdns-cn-50.biz
 ns-286.awsdns-35.com
 ns-287.awsdns-35.com
 ns-2872.awsdns-cn-51.biz
@@ -1362,10 +1368,12 @@ ns-3.awsdns-cn-00.com
 ns-30.awsdns-03.com
 ns-300.awsdns-37.com
 ns-301.awsdns-37.com
+ns-3017.awsdns-cn-60.biz
 ns-302.awsdns-37.com
 ns-3022.awsdns-cn-60.biz
 ns-303.awsdns-37.com
 ns-3031.awsdns-cn-61.biz
+ns-3034.awsdns-cn-61.biz
 ns-304.awsdns-38.com
 ns-305.awsdns-38.com
 ns-306.awsdns-38.com
@@ -1376,6 +1384,7 @@ ns-31.awsdns-03.com
 ns-310.awsdns-38.com
 ns-311.awsdns-38.com
 ns-312.awsdns-39.com
+ns-3126.awsdns-cn-03.cn
 ns-313.awsdns-39.com
 ns-314.awsdns-39.com
 ns-315.awsdns-39.com
@@ -1453,6 +1462,7 @@ ns-373.awsdns-46.com
 ns-374.awsdns-46.com
 ns-375.awsdns-46.com
 ns-376.awsdns-47.com
+ns-3762.awsdns-cn-43.cn
 ns-377.awsdns-47.com
 ns-378.awsdns-47.com
 ns-378.awsdns-cn-23.com
@@ -1467,7 +1477,9 @@ ns-384.awsdns-48.com
 ns-385.awsdns-48.com
 ns-3858.awsdns-cn-49.cn
 ns-386.awsdns-48.com
+ns-3865.awsdns-cn-49.cn
 ns-387.awsdns-48.com
+ns-3871.awsdns-cn-49.cn
 ns-3879.awsdns-cn-50.cn
 ns-388.awsdns-48.com
 ns-3882.awsdns-cn-50.cn
@@ -1517,6 +1529,7 @@ ns-42.awsdns-05.com
 ns-420.awsdns-52.com
 ns-421.awsdns-52.com
 ns-422.awsdns-52.com
+ns-422.awsdns-cn-26.com
 ns-423.awsdns-52.com
 ns-424.awsdns-53.com
 ns-425.awsdns-53.com
@@ -1862,6 +1875,7 @@ ns-720.awsdns-26.net
 ns-721.awsdns-26.net
 ns-722.awsdns-26.net
 ns-723.awsdns-26.net
+ns-723.awsdns-cn-45.com
 ns-724.awsdns-26.net
 ns-725.awsdns-26.net
 ns-726.awsdns-26.net
@@ -1960,6 +1974,7 @@ ns-81.awsdns-10.com
 ns-810.awsdns-37.net
 ns-811.awsdns-37.net
 ns-812.awsdns-37.net
+ns-812.awsdns-cn-50.com
 ns-813.awsdns-37.net
 ns-814.awsdns-37.net
 ns-815.awsdns-37.net
@@ -2175,17 +2190,22 @@ ns-999.awsdns-60.net
 ns-does-not-exist.awsdns-17.com
 ns-intl-102.awsdns-cn-06.com
 ns-intl-154.awsdns-cn-09.com
+ns-intl-165.awsdns-cn-10.com
 ns-intl-199.awsdns-cn-12.com
 ns-intl-3.awsdns-cn-00.com
+ns-intl-3126.awsdns-cn-03.cn
 ns-intl-3218.awsdns-cn-09.cn
 ns-intl-3269.awsdns-cn-12.cn
 ns-intl-3371.awsdns-cn-18.cn
 ns-intl-3452.awsdns-cn-23.cn
 ns-intl-3640.awsdns-cn-35.cn
 ns-intl-3706.awsdns-cn-39.cn
+ns-intl-3762.awsdns-cn-43.cn
 ns-intl-378.awsdns-cn-23.com
 ns-intl-3834.awsdns-cn-47.cn
 ns-intl-3858.awsdns-cn-49.cn
+ns-intl-3865.awsdns-cn-49.cn
+ns-intl-3871.awsdns-cn-49.cn
 ns-intl-3879.awsdns-cn-50.cn
 ns-intl-3882.awsdns-cn-50.cn
 ns-intl-3914.awsdns-cn-52.cn
@@ -2194,6 +2214,7 @@ ns-intl-3952.awsdns-cn-55.cn
 ns-intl-4004.awsdns-cn-58.cn
 ns-intl-4053.awsdns-cn-61.cn
 ns-intl-4059.awsdns-cn-61.cn
+ns-intl-422.awsdns-cn-26.com
 ns-intl-429.awsdns-cn-26.com
 ns-intl-440.awsdns-cn-27.com
 ns-intl-465.awsdns-cn-29.com
@@ -2201,7 +2222,9 @@ ns-intl-478.awsdns-cn-29.com
 ns-intl-560.awsdns-cn-35.com
 ns-intl-608.awsdns-cn-38.com
 ns-intl-669.awsdns-cn-41.com
+ns-intl-723.awsdns-cn-45.com
 ns-intl-754.awsdns-cn-47.com
+ns-intl-812.awsdns-cn-50.com
 ns-intl-875.awsdns-cn-54.com
 ns-intl-940.awsdns-cn-58.com
 ns-intl-98.awsdns-cn-06.com
