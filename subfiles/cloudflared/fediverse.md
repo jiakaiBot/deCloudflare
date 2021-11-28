@@ -70,7 +70,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | agora.echelon.pl | No |
 | ahhhhhh.social | No |
 | ahlers.xyz | No |
-| aidoru.cafe | No |
 | aipi.social | No |
 | aircrew.rocks | No |
 | ajin.la | No |
@@ -336,7 +335,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | darui.work | No |
 | deadinsi.de | Yes |
 | deadredterm.ddns.net | No |
-| debiru.xyz | Yes |
 | decentralised.social | No |
 | decept.org | No |
 | delaeuforia.com | Yes |
@@ -362,6 +360,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | dindon.one | No |
 | dingdash.com | No |
 | dis-le.de | No |
+| disobey.net | No |
 | disqordia.space | No |
 | distrotoot.com | No |
 | dither.ddns.net | No |
@@ -560,6 +559,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | freespeech.group | No |
 | freespeechextremist.com | No |
 | freethinkers.lgbt | No |
+| freewahaextremist.wtf | No |
 | freewheel.social | No |
 | freiburg.social | No |
 | freindal.hallertau.social | No |
@@ -599,6 +599,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | friskypaws.social | Yes |
 | frogmob.life | No |
 | froth.zone | No |
+| fsmi.social | Yes |
 | fulda.social | No |
 | fumi.39.gy | No |
 | functional.cafe | Yes |
@@ -728,6 +729,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hostux.social | No |
 | hota.hirachon.otakan.jp | No |
 | houseofloy.net | Yes |
+| huaren.social | No |
 | hub.13ad.de | No |
 | hub.art3mis.de | No |
 | hub.bessonnica.org | Yes |
@@ -899,6 +901,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kuluary.c44.pl | No |
 | kurage.cc | No |
 | kuroharu.hostdon.ne.jp | Yes |
+| kys.moe | Yes |
 | la-verite-vaincra.nohost.me | No |
 | lagemeet.duckdns.org | No |
 | lain.com | No |
@@ -1048,7 +1051,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mast.verya.pe | No |
 | mast.wholemars.com | Yes |
 | mastadano.com | No |
-| mastchan.org | No |
 | mastd.racing | No |
 | masthead.social | Yes |
 | masto.1146.nohost.me | No |
@@ -1303,7 +1305,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mauch.social | No |
 | mcd.dk | No |
 | mcnamarii.town | No |
-| mctetsudou.net | No |
 | md.korako.me | Yes |
 | md.net-p.org | No |
 | md.xps2.net | Yes |
@@ -1767,6 +1768,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma-in.ouda.space | No |
 | pleroma.1d4.us | Yes |
 | pleroma.8777.ch | No |
+| pleroma.antoineve.me | No |
 | pleroma.aspie.freemyip.com | No |
 | pleroma.atsuchan.page | No |
 | pleroma.atyh.cc | No |
@@ -2507,6 +2509,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toot.kuba-orlik.name | No |
 | toot.liw.fi | No |
 | toot.lqdev.tech | No |
+| toot.mantyke.icu | No |
 | toot.martyn.berlin | No |
 | toot.matereal.eu | No |
 | toot.moi.lc | No |
@@ -2747,8 +2750,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 516 |
-| Normal | 2,194 |
+| Cloudflare | 517 |
+| Normal | 2,196 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 19.1% of public Fediverse services are using Cloudflare.
