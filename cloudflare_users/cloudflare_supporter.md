@@ -4082,6 +4082,7 @@ Do not create new issue or we will close it as duplicate.
 | [NhtTrng53285558@twitter](https://twitter.com/NhtTrng53285558/status/1400998350191620096) | advertise |
 | [nhuthaoo0308@twitter](https://twitter.com/nhuthaoo0308/status/1386713288566661123) | advertise |
 | [nichith11@twitter](https://twitter.com/nichith11/status/1391815897422045185) | advertise |
+| [NicholasBruneau@twitter](https://twitter.com/NicholasBruneau/status/1464751618642034688) | advertise |
 | [Nick49172888@twitter](https://twitter.com/Nick49172888/status/1380676591949205508) | advertise |
 | [nicknitro09@twitter](https://twitter.com/nicknitro09/status/1381362588001402894) | advertise |
 | [nickwarters@twitter](https://twitter.com/nickwarters/status/1407441318511513605) | advertise |
@@ -5284,6 +5285,7 @@ Do not create new issue or we will close it as duplicate.
 | [Strawbe73005938@twitter](https://twitter.com/Strawbe73005938/status/1402151516396351488) | advertise |
 | [Streetlawyer11@twitter](https://twitter.com/Streetlawyer11/status/1393088374794190850) | advertise |
 | [stun71@twitter](https://twitter.com/stun71/status/1389220264244776963) | advertise |
+| [suabahasa@twitter](https://twitter.com/suabahasa/status/1464808940600893445) | advertise |
 | [SuatuoiB@twitter](https://twitter.com/SuatuoiB/status/1394638045916237831) | advertise |
 | [SUBEZYETI@twitter](https://twitter.com/SUBEZYETI/status/1403026281130643459) | advertise |
 | [Subhamdm@twitter](https://twitter.com/Subhamdm/status/1401919030034714630) | advertise |
