@@ -7,6 +7,7 @@
 
 
 
+- .endlessfluff .swellanimations There were more common and vice versa. Would be able to use cloudflare. ([averagebotfan](https://twitter.com/AverageBotFan/status/1465438702172352525))
 - Unable to access Gun broker’s website. Constant 502 bad gateway error. This has been happening for over an hour! ([2tired_2care](https://twitter.com/2tired_2care/status/1460065088786911235))
 - Cloudflare is blocking my requests (Browser, Postman, Python requests library). Any idea how to get around that? ([brianalexand_r](https://twitter.com/brianalexand_r/status/1464856659210080257))
 - Yes, but that doesn’t seem to be the case. After I blocked the source IP address on CloudFlare, the requests have stopped. ([debsuryorg](https://twitter.com/debsuryorg/status/1464678282738155535))
