@@ -141,7 +141,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | barcelona.social | No |
 | barrett.dog | No |
 | based.social | Yes |
-| battleangels.net | No |
 | bbbdn.jp | No |
 | bbs.kawa-kun.com | No |
 | bdx.town | No |
@@ -826,6 +825,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | jawns.club | No |
 | jepsen.io | No |
 | jergefelt.se | No |
+| jibun.club | No |
 | jigglypuff.club | No |
 | jit.social | No |
 | jmm.kr | Yes |
@@ -1178,7 +1178,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.lang-mfr.de | No |
 | mastodon.lcavallaro.com | Yes |
 | mastodon.leipzigesports.de | Yes |
-| mastodon.lelesius.eu | No |
 | mastodon.lertsenem.com | No |
 | mastodon.lhin.space | No |
 | mastodon.libre-entreprise.com | No |
@@ -1301,6 +1300,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | matthewgall.chat | Yes |
 | mcd.dk | No |
 | mcnamarii.town | No |
+| mctetsudou.net | No |
 | md.korako.me | Yes |
 | md.net-p.org | No |
 | md.xps2.net | Yes |
@@ -1349,6 +1349,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | minidisc.tokyo | No |
 | miniwa.moe | No |
 | minohdon.jp | No |
+| mis.syusyu.cloudns.nz | No |
 | misc.name | No |
 | misk.hoshisaki-h.com | No |
 | misky.rikunagiweb.jp | No |
@@ -1415,7 +1416,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.udongein.reisen | No |
 | mk.vibbe.xyz | No |
 | mk.vulpes.one | No |
-| mk.wataame.cafe | No |
 | mk.wolfie.pw | No |
 | mky.aqualitore-lily.com | Yes |
 | mo-na.space | No |
@@ -1441,6 +1441,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | msk.seppuku.club | Yes |
 | mspsocial.net | No |
 | mst.canor.kr | Yes |
+| mst.nanaaki.com | No |
 | mst.vsta.org | No |
 | mst3k.interlinked.me | No |
 | mstd.dansmonorage.blue | No |
@@ -1852,6 +1853,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | point.community | Yes |
 | pokemon.mastportal.info | No |
 | pokemon.men | Yes |
+| pokorny.ca | Yes |
 | pol.social | No |
 | poliverso.org | No |
 | polonkai.eu | No |
@@ -2305,7 +2307,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.shadowfacts.net | Yes |
 | social.shadowkat.net | No |
 | social.shadyvalley.net | No |
-| social.shiftyeyed.net | No |
 | social.simcu.com | No |
 | social.skewed.de | No |
 | social.skiqqy.xyz | No |
@@ -2627,7 +2628,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | virtual-kaf.fun | Yes |
 | vis.social | No |
 | vnil.de | No |
-| vocabar.net | No |
 | vocalodon.net | No |
 | vocalounge.cafe | No |
 | voi.social | No |
@@ -2744,8 +2744,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 516 |
-| Normal | 2,191 |
+| Cloudflare | 517 |
+| Normal | 2,190 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
