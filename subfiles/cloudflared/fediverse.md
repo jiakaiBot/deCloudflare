@@ -77,6 +77,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | alcyon.twilightparadox.com | No |
 | aleph.land | No |
 | alfazema.club | No |
+| algufr.com | No |
 | alirezahayati.com | No |
 | alive.bar | Yes |
 | allpro.social | No |
@@ -325,6 +326,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | d.map-le.net | No |
 | dads.cool | No |
 | daedal.io | No |
+| dain.moe | Yes |
 | dallas.lu | Yes |
 | dannythe.site | No |
 | darmstadt.social | Yes |
@@ -912,7 +914,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | layer13.p7.co.nz | No |
 | lazybear.social | No |
 | lbry.world | Yes |
-| leaf.node9.org | No |
 | leafposter.club | No |
 | lediver.se | No |
 | leftofliberal.duckdns.org | No |
@@ -997,7 +998,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.jinwei.me | Yes |
 | m.kirishima.cloud | No |
 | m.kretschmann.social | No |
-| m.moec.top | No |
 | m.mtlynch.io | No |
 | m.nebula.moe | Yes |
 | m.nintendojo.fr | No |
@@ -1056,6 +1056,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | masto.beer | No |
 | masto.donte.com.br | Yes |
 | masto.evelynyap.com | No |
+| masto.krashboyz.org | No |
 | masto.mtcrew.org | No |
 | masto.ninja | No |
 | masto.nogafam.es | No |
@@ -1111,7 +1112,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.dbatley.com | No |
 | mastodon.derveni.org | No |
 | mastodon.design | No |
-| mastodon.desmu.fr | No |
 | mastodon.duncanhart.com | No |
 | mastodon.earth | No |
 | mastodon.ecnelises.com | No |
@@ -1550,6 +1550,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mzn-potatochips.me | No |
 | nacq.me | No |
 | nagoyadon.jp | Yes |
+| nakamoto.social | Yes |
 | nanao.cybtex.fr | No |
 | nangang.travnewmatic.com | Yes |
 | nasface.cz | No |
@@ -2145,6 +2146,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.coop | Yes |
 | social.creatureofthehill.com | No |
 | social.cryptography.dog | No |
+| social.ctrlz.es | No |
 | social.cybre.city | No |
 | social.da-am.com | Yes |
 | social.danksquad.org | No |
@@ -2183,6 +2185,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.freetalklive.com | No |
 | social.fym.moe | Yes |
 | social.garwood.io | No |
+| social.gemnoc.ca | No |
 | social.generallyrubbish.net.au | No |
 | social.gl-como.it | No |
 | social.globalpirates.net | No |
@@ -2194,6 +2197,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.hendrixgames.com | No |
 | social.henzi.org | No |
 | social.here.blue | No |
+| social.hoga.fr | No |
 | social.homunyan.com | No |
 | social.ignifi.me | No |
 | social.ignis.link | No |
@@ -2537,6 +2541,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tooxy.cz | No |
 | topic-master.com | No |
 | toppickz.com | No |
+| topteeth.xyz | No |
 | torlaz.online | No |
 | torti8.hostdon.ne.jp | Yes |
 | touha.me | No |
@@ -2548,7 +2553,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | transient.garden | No |
 | transmom.love | No |
 | travelpandas.fr | No |
-| tristram.uber.space | No |
 | troet.cafe | No |
 | troll.cafe | No |
 | trollian.space | No |
@@ -2744,8 +2748,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 517 |
-| Normal | 2,190 |
+| Cloudflare | 519 |
+| Normal | 2,192 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
