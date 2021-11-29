@@ -27,6 +27,7 @@
     - [How many % of top 100,000 WordPress sites(2020) are using Cloudflare?](cloudflared/top100000-2020-wordpress.md) _Wordpress_
     - [How many % of top 500 most popular sites(2021) are using Cloudflare?](cloudflared/top500-2021-moz.md) _Moz_
     - [How many % of top 1 million most visited sites(2021) are using Cloudflare?](cloudflared/top1m-2021-alexa.md) _Alexa_
+    - [How many % of top 1 million most visited sites(2021) are using Cloudflare?](cloudflared/top1m-2021-cisco.md) _Cisco_
   - How many % of banks & financial institutions are using Cloudflare?
     - [Africa](cloudflared/financial_africa.md)
     - [America](cloudflared/financial_america.md)
@@ -40,7 +41,7 @@
     - [Europe](cloudflared/newspaper_europe.md)
     - [Oceania](cloudflared/newspaper_oceania.md)
   - How many % of University and College websites are using Cloudflare?
-    - [United States](cloudflared/collegeuniversity_usa.md)
+    - [United States](cloudflared/collegeuniversity_usa.md) **_DEPRECATED_**
     - [xxxxxxxxxxxx](xxxxxxxxxxxxxxxxx)
     - [xxxxxxxxxxxx](xxxxxxxxxxxxxxxxx)
     - [xxxxxxxxxxxx](xxxxxxxxxxxxxxxxx)
@@ -61,6 +62,7 @@
   - [How many % of gambling domains are using Cloudflare?](cloudflared/gambling.md)
   - [How many % of fake news outlets are using Cloudflare?](cloudflared/fakenews.md)
   - [How many % of disposable email domains are using Cloudflare?](cloudflared/disposable_email.md)
+  - [How many % of email (email exchanged between Gmail) domains are using Cloudflare?](cloudflared/gmail_email_domains.md)
   - [How many % of XMPP domains are using Cloudflare?](cloudflared/xmpp_domains.md)
   - [How many % of URL Shortener services are using Cloudflare?](cloudflared/urlshortening.md)
   - [How many % of VPN services are using Cloudflare?](cloudflared/vpnservice.md)
