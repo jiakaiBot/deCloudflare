@@ -39,7 +39,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 2nd.slum.cloud | Yes |
 | 2to2.xyz | No |
 | 4estate.media | No |
-| 7.62x54r.ru | No |
 | 9kb.me | No |
 | 404.inexist.club | Yes |
 | 433.world | No |
@@ -228,7 +227,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | campduffel.social | No |
 | canada.masto.host | No |
 | candypolis.app | No |
-| canerduh.ca | No |
 | cantos.social | No |
 | caonima.wtf | No |
 | capybara.social | No |
@@ -506,7 +504,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedilove.cyou | Yes |
 | fediscience.org | No |
 | fediver.se | No |
-| fedivers.net | No |
 | fediverse-lite.com | Yes |
 | fediverse.keithzg.ca | No |
 | fediverse.pl | Yes |
@@ -1909,7 +1906,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | queer.af | No |
 | queer.garden | No |
 | queer.hacktivis.me | No |
-| queer.haus | No |
 | queer.party | No |
 | queer.town | No |
 | queerdorks.club | No |
@@ -2016,7 +2012,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | seaswallow.me | No |
 | sect.sunbutt.faith | No |
 | seizemeans.com | No |
-| selenian.space | No |
 | selfy.army | No |
 | sementerrori.st | No |
 | semisol.net | No |
@@ -2395,7 +2390,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | squad.town | No |
 | squeet.me | No |
 | stadion.masto.host | No |
-| stardew.city | No |
 | starflower.space | No |
 | starship.coffee | No |
 | status.p1ng0ut.social | No |
@@ -2642,7 +2636,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | voring.me | No |
 | vostain.net | No |
 | vrij.social | Yes |
-| vrparty.social | Yes |
 | vucica.net | No |
 | vulpine.club | Yes |
 | waha.desupost.soy | No |
@@ -2751,8 +2744,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 517 |
-| Normal | 2,197 |
+| Cloudflare | 516 |
+| Normal | 2,191 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 19.1% of public Fediverse services are using Cloudflare.
