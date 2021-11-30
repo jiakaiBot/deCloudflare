@@ -249,7 +249,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | chaosphere.hostdon.jp | No |
 | charlestown.social | No |
 | chat.brainbaking.com | No |
-| chat.noelle.codes | No |
 | chickenfan.club | No |
 | childpawn.shop | No |
 | chilemasto.casa | No |
@@ -295,6 +294,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | conesphere.social | No |
 | connect.takebackourtech.org | No |
 | conoha.cf | No |
+| contacthi.org | No |
 | contra.privacyhub.xyz | Yes |
 | contrapointsfan.club | No |
 | convenient.email | No |
@@ -488,7 +488,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.fit | No |
 | fedi.fullstuck.net | No |
 | fedi.jmizzle.com | No |
-| fedi.kate.land | No |
 | fedi.mint.lgbt | No |
 | fedi.n0id.space | No |
 | fedi.nekojanai.xyz | No |
@@ -725,6 +724,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | homo.dev | No |
 | homoo.social | No |
 | honi.club | No |
+| honkwerx.tech | No |
 | horche.demkontinuum.de | No |
 | hostsharing.coop | No |
 | hostux.social | No |
@@ -1725,6 +1725,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pixie.town | No |
 | pl.ajin.la | No |
 | pl.anon-kenkai.com | No |
+| pl.comfysnug.space | No |
 | pl.craftplacer.moe | No |
 | pl.cutiemiku.tk | No |
 | pl.devfs.xyz | No |
@@ -2445,6 +2446,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tassaron.com | No |
 | taur.zone | No |
 | tbh.ihatebeinga.live | Yes |
+| tc.nz | No |
 | team1.rocks | No |
 | tears.intherain.club | No |
 | tebukuro.xyz | No |
@@ -2668,7 +2670,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | whinge.town | No |
 | wien.rocks | No |
 | wife.town | No |
-| wiggle.website | No |
 | wintermute.fr.to | No |
 | wirebug.ch | No |
 | wireless.cat6.network | Yes |
@@ -2752,7 +2753,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 519 |
-| Normal | 2,195 |
+| Normal | 2,196 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
