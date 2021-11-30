@@ -7,6 +7,7 @@
 
 
 
+- site dead = contract dead = ethereum down don't you get it? please turn on cloudflare for ethereum and stop these ddosers can the devs do something?!?!?! ([paymentloop](https://twitter.com/PaymentLoop/status/1465487590598103041))
 - There's a classic interface you can change to, that was giving me a cloudflare error but now it's working for the moment. ([justinmoore_747](https://twitter.com/JustinMoore_747/status/1465482067467071492))
 - for the past month or so cloudflare's been fucking with my ffn links, and I can't figure out how to stop it. It's seriously annoying. 😤 ([crischalcedony](https://twitter.com/CrisChalcedony/status/1462924909026316292))
 - Hello! We are seeing the 522 error Intermittently, sometimes content on our sites is presented, other times it is not. We’ve made no changes and bypassing cloudflare presents us with out content. Any ideas? ([sirideeeeee](https://twitter.com/sirideeeeee/status/1465283486646951938))
