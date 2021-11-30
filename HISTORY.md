@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-11-30: [Network Performance Issues in Atlanta, GA, United States](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7tmqv7ly3g3w)
 - 2021-11-26: [Customer Impacting Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wwznzm48txw8)
 - 2021-11-20: [Network timeouts from TELKOMSEL ASN Indonesia](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/t402rnz3pg9m)
 - 2021-11-13: [SSH authentication issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hjg98q5rx7bh)
