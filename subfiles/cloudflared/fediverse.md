@@ -259,7 +259,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | chitter.xyz | No |
 | chokecherry.cc | Yes |
 | chungus.cc | No |
-| cipioshouse.xyz | Yes |
 | clacks.link | No |
 | claris.cf | No |
 | climatejustice.global | No |
@@ -314,7 +313,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | curmudgeon.cafe | No |
 | cute.science | No |
 | cuties.social | No |
-| cybar.club | Yes |
 | cybert-media.net | No |
 | cyberverse.bar | No |
 | cybre.space | No |
@@ -613,7 +611,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gamemaking.social | No |
 | gamerr.cyou | No |
 | gamingjp.org | No |
-| gaychina.com | Yes |
 | gayhorse.club | No |
 | gayrobot.club | No |
 | gaze.live-on.net | No |
@@ -1031,6 +1028,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | maly.io | No |
 | mammouth.inframed.net | No |
 | mamot.fr | No |
+| manheim.info | No |
 | mania.systems | No |
 | manowar.social | No |
 | mao.mastodonhub.com | No |
@@ -1115,6 +1113,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.dbatley.com | No |
 | mastodon.derveni.org | No |
 | mastodon.design | No |
+| mastodon.desmu.fr | No |
 | mastodon.duncanhart.com | No |
 | mastodon.earth | No |
 | mastodon.ecnelises.com | No |
@@ -1130,7 +1129,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.eus | No |
 | mastodon.evolix.org | No |
 | mastodon.exp0.ml | No |
-| mastodon.explore-visions.com | No |
 | mastodon.f-si.org | No |
 | mastodon.falktx.com | No |
 | mastodon.fam-ribbers.com | No |
@@ -1303,6 +1301,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mcd.dk | No |
 | mcnamarii.town | No |
 | mctetsudou.net | No |
+| md.ggtea.org | No |
 | md.korako.me | Yes |
 | md.net-p.org | No |
 | md.xps2.net | Yes |
@@ -1730,7 +1729,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pl.cutiemiku.tk | No |
 | pl.devfs.xyz | No |
 | pl.dira.cc | No |
-| pl.eragon.re | No |
 | pl.escapism.work | Yes |
 | pl.eternawings.com | Yes |
 | pl.firechicken.net | No |
@@ -2127,7 +2125,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.azkware.net | No |
 | social.azure.icu | Yes |
 | social.b10m.net | No |
-| social.barany.at | No |
 | social.bau-ha.us | No |
 | social.beachcom.org | No |
 | social.beepboop.ga | No |
@@ -2299,6 +2296,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.rights.ninja | Yes |
 | social.roeckoe.be | No |
 | social.rooty.fr | No |
+| social.rousselie.name | No |
 | social.ruby2sday.net | Yes |
 | social.rustysoft.de | No |
 | social.s.dhusch.de | No |
@@ -2752,8 +2750,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 519 |
-| Normal | 2,196 |
+| Cloudflare | 516 |
+| Normal | 2,197 |
 
 
-### 19.1% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
