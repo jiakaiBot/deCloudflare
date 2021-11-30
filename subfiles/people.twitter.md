@@ -7,6 +7,14 @@
 
 
 
+- for the past month or so cloudflare's been fucking with my ffn links, and I can't figure out how to stop it. It's seriously annoying. 😤 ([crischalcedony](https://twitter.com/CrisChalcedony/status/1462924909026316292))
+- Hello! We are seeing the 522 error Intermittently, sometimes content on our sites is presented, other times it is not. We’ve made no changes and bypassing cloudflare presents us with out content. Any ideas? ([sirideeeeee](https://twitter.com/sirideeeeee/status/1465283486646951938))
+- You’re also blocking my bank messages…and I don’t know who you are and how you found my data?? ([figvilleusa](https://twitter.com/FigVilleUSA/status/1463283713358266371))
+- Can't stop checking my site to see if it's working. Had to completely remove all Cloudflare and CDN just so I can point it to my new host without errors. ([thekathyava](https://twitter.com/thekathyava/status/1464452852969922567))
+- Seems you got blacklisted by Cloudflare. I know a few ip addresses got blocked for spam yesterday. If you dm me last 3 numbers of IP i can check/unblock. ([chrtrio](https://twitter.com/chrtrio/status/1462980728501768197))
+- Why don't you guys suggest a country that the VPN would work ([theodorelallen](https://twitter.com/TheodoreLAllen/status/1463563069792083972))
+- Getting a cloudflare error when I try and access from my hotspot, any ideas? ([nathanlfc1996](https://twitter.com/NathanLFC1996/status/1464607808687591431))
+- Just tested and it works fine for me. Are you still seeing the error? Can you DM me a screenshot with some details? ([yank](https://twitter.com/Yank/status/1463346274254528519))
 - .endlessfluff .swellanimations There were more common and vice versa. Would be able to use cloudflare. ([averagebotfan](https://twitter.com/AverageBotFan/status/1465438702172352525))
 - Unable to access Gun broker’s website. Constant 502 bad gateway error. This has been happening for over an hour! ([2tired_2care](https://twitter.com/2tired_2care/status/1460065088786911235))
 - Cloudflare is blocking my requests (Browser, Postman, Python requests library). Any idea how to get around that? ([brianalexand_r](https://twitter.com/brianalexand_r/status/1464856659210080257))
