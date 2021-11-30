@@ -217,4 +217,4 @@ CloudFlare is a vigilante extremist organization that takes the decentralized we
 [//]: # (if any US k-12 schools use Proquest, then it should also me mentioned that this is a [FERPA]https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html violation b/c 3rd party vendors legally cannot further expose a student's PII to yet another 3rd party; scriborder should perhaps be spotlighted)
 
 ---
-by [humanacollaborator](https://git.sdf.org/humanacollaborator). [License](https://www.gnu.org/licenses/agpl-3.0.txt)
+by [cyberMonk](https://git.disroot.org/cyberMonk). [License](https://www.gnu.org/licenses/agpl-3.0.txt)
