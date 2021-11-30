@@ -598,6 +598,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | frogmob.life | No |
 | froth.zone | No |
 | fsmi.social | Yes |
+| fud.nu | No |
 | fulda.social | No |
 | fumi.39.gy | No |
 | functional.cafe | Yes |
@@ -694,6 +695,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hates.company | No |
 | hax0rbana.social | No |
 | hayu.sh | No |
+| headmat.es | No |
 | hedgehog.pub | Yes |
 | heidel.berg.social | No |
 | heislandmine.work | No |
@@ -1075,6 +1077,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.acc.umu.se | No |
 | mastodon.acerbo.me | No |
 | mastodon.alienlebarge.ch | No |
+| mastodon.anzui.dev | No |
 | mastodon.ar.al | No |
 | mastodon.arch-linux.cz | No |
 | mastodon.art | No |
@@ -1186,7 +1189,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.lol | Yes |
 | mastodon.lrdf.fr | No |
 | mastodon.lt | No |
-| mastodon.lukem.net | Yes |
 | mastodon.macsnet.cz | No |
 | mastodon.madrid | No |
 | mastodon.matcha-soft.com | No |
@@ -1328,6 +1330,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | meow.zarchbox.fr | No |
 | meru-golang.jp | No |
 | merveilles.town | No |
+| mesa-mas.ml | No |
 | metalhead.club | No |
 | metu.life | No |
 | mewl.me | Yes |
@@ -1417,6 +1420,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.vibbe.xyz | No |
 | mk.vulpes.one | No |
 | mk.wolfie.pw | No |
+| mk.yuru.studio | Yes |
 | mky.aqualitore-lily.com | Yes |
 | mo-na.space | No |
 | moc.d-x-b.com | No |
@@ -1496,6 +1500,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.mini4wd-engineer.com | No |
 | mstdn.misoni.me | Yes |
 | mstdn.misosi.ru | Yes |
+| mstdn.miyacorata.net | Yes |
 | mstdn.moe | Yes |
 | mstdn.mx | Yes |
 | mstdn.nekonote.cc | No |
@@ -1834,7 +1839,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.soykaf.com | No |
 | pleroma.stream | No |
 | pleroma.stuebinm.eu | No |
-| pleroma.swab.dev | Yes |
 | pleroma.unigiri.net | No |
 | pleroma.wafflec.one | No |
 | pleroma.wolfie.pw | No |
@@ -2067,7 +2071,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sn.nekojita.moe | No |
 | snabelen.no | No |
 | snack.social | No |
-| snacka.uluntu.se | No |
 | snaggletooth.life | No |
 | sneak.berlin | Yes |
 | sneakerwave.net | No |
@@ -2300,7 +2303,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.s.dhusch.de | No |
 | social.saarland | No |
 | social.sakamoto.gq | No |
-| social.schiessle.org | No |
 | social.scholzbande.de | No |
 | social.scribblers.club | No |
 | social.scriptjunkie.us | No |
@@ -2318,7 +2320,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.skrep.in | No |
 | social.slat.org | No |
 | social.snopyta.org | No |
-| social.snowcode.ovh | No |
 | social.solibre.de | No |
 | social.sp-codes.de | No |
 | social.ssbx.dev | No |
@@ -2399,6 +2400,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | starship.coffee | No |
 | status.p1ng0ut.social | No |
 | status.plomlompom.com | No |
+| steffes.dev | No |
 | stellaria.network | Yes |
 | stereodon.social | No |
 | stereophonic.space | No |
@@ -2499,6 +2501,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toot.cafe | No |
 | toot.cat | No |
 | toot.fedilab.app | No |
+| toot.forth.works | No |
 | toot.gnous.eu | No |
 | toot.hoec3.de | No |
 | toot.host | No |
@@ -2749,7 +2752,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 519 |
-| Normal | 2,192 |
+| Normal | 2,195 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
