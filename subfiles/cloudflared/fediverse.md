@@ -116,6 +116,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | artoot.xyz | No |
 | arugula.social | No |
 | asimon.org | No |
+| asocial.grimstack.xyz | Yes |
 | aspiechattr.me | No |
 | assortedflotsam.com | No |
 | atsuchan.page | No |
@@ -221,6 +222,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | butts.team | No |
 | c.im | Yes |
 | c4.social | No |
+| cachapa.moe | No |
 | cafe.diagonalley.club | No |
 | caffeinated.social | Yes |
 | calculate.social | No |
@@ -676,7 +678,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gyutte.site | Yes |
 | h.kher.nl | No |
 | h.kokuda.org | No |
-| habets.dev | No |
+| h3xtacy.party | No |
 | habitat.zelle.one | No |
 | hackers.town | No |
 | hakodon.cf | No |
@@ -2015,7 +2017,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sdfn-01.ninjawedding.org | No |
 | seacow.social | No |
 | seaofog.com | Yes |
-| seaswallow.me | No |
 | sect.sunbutt.faith | No |
 | seizemeans.com | No |
 | selfy.army | No |
@@ -2750,7 +2751,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 516 |
+| Cloudflare | 517 |
 | Normal | 2,197 |
 
 
