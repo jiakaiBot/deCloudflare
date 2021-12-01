@@ -7,6 +7,7 @@
 
 
 
+- Worst NFT Drop I've ever seen. Poorly set up Cloudflare, Italy and Ukraine users are accessing website VPN, I suppose some other countries affected as well. Considering the hype the website load should have been tested. Thousand updates and not tested NFT minting. No words🤷‍♂️ ([btcvld](https://twitter.com/btcvld/status/1466010587876442112))
 - hey i just got a new pc. How do i download the launcher when blocked by cloudflare stuff ([cj_8295](https://twitter.com/CJ_8295/status/1465871286018711555))
 - It doesn't matter, if you have 30 different connections coming from one VPN server, it's literally the same thing as if you used your own IP in the first place. They just block simultaneous connections from a single IP. Services like Cloudflare do it all the time to prevent DDOS. ([c4m0o](https://twitter.com/c4m0o/status/1465800029168361474))
 - 8080 = redirect 8443 = Error 522 "Connection timed out", "You": "Browser":"Working" , "Tokyo": "Cloudflare":"Working" , "Host":"Error" ([taiki_desuyo](https://twitter.com/Taiki_desuyo/status/1465570481960931330))
