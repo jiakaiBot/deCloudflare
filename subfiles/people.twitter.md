@@ -7,6 +7,7 @@
 
 
 
+- It doesn't matter, if you have 30 different connections coming from one VPN server, it's literally the same thing as if you used your own IP in the first place. They just block simultaneous connections from a single IP. Services like Cloudflare do it all the time to prevent DDOS. ([c4m0o](https://twitter.com/c4m0o/status/1465800029168361474))
 - 8080 = redirect 8443 = Error 522 "Connection timed out", "You": "Browser":"Working" , "Tokyo": "Cloudflare":"Working" , "Host":"Error" ([taiki_desuyo](https://twitter.com/Taiki_desuyo/status/1465570481960931330))
 - site dead = contract dead = ethereum down don't you get it? please turn on cloudflare for ethereum and stop these ddosers can the devs do something?!?!?! ([paymentloop](https://twitter.com/PaymentLoop/status/1465487590598103041))
 - There's a classic interface you can change to, that was giving me a cloudflare error but now it's working for the moment. ([justinmoore_747](https://twitter.com/JustinMoore_747/status/1465482067467071492))
