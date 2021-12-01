@@ -7,6 +7,7 @@
 
 
 
+- Probably they are using TOR browser. If you are using cloudflare, you can just block TOR browser and all gone. ([turgayyilmaz](https://twitter.com/turgayyilmaz/status/1466130952065884168))
 - This. Having a way to pass the captcha details to an api and being able to verify it would be huge. ([htr_xorth](https://twitter.com/htr_xorth/status/1466088471504773124))
 - Worst NFT Drop I've ever seen. Poorly set up Cloudflare, Italy and Ukraine users are accessing website VPN, I suppose some other countries affected as well. Considering the hype the website load should have been tested. Thousand updates and not tested NFT minting. No words🤷‍♂️ ([btcvld](https://twitter.com/btcvld/status/1466010587876442112))
 - hey i just got a new pc. How do i download the launcher when blocked by cloudflare stuff ([cj_8295](https://twitter.com/CJ_8295/status/1465871286018711555))
