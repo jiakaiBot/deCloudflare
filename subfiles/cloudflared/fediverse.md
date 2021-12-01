@@ -123,6 +123,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | auronplay.social | No |
 | aus.social | No |
 | ausglam.space | No |
+| autrechose.club | No |
 | avantwhatever.org | No |
 | awoo.fai.su | No |
 | awoo.space | No |
@@ -789,6 +790,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | imastodon.org | No |
 | imd.social | No |
 | impeccable.social | No |
+| inari.click | Yes |
 | inari.opencocon.org | No |
 | indiefedi.party | No |
 | indieweb.social | No |
@@ -797,6 +799,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | insoumis.social | No |
 | intahnet.co.uk | Yes |
 | interact.bluecore.net | No |
+| interfaith.masto.host | No |
 | internetstuff.xyz | No |
 | io.pace.rip | No |
 | ioc.exchange | No |
@@ -1081,7 +1084,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.art | No |
 | mastodon.astrr.ru | Yes |
 | mastodon.aventer.biz | No |
-| mastodon.b3by3.com | Yes |
 | mastodon.bachgau.social | No |
 | mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
@@ -1176,9 +1178,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.kxn4t.tech | No |
 | mastodon.la | Yes |
 | mastodon.ladn.org | No |
-| mastodon.lang-mfr.de | No |
 | mastodon.lcavallaro.com | Yes |
-| mastodon.leipzigesports.de | Yes |
 | mastodon.lertsenem.com | No |
 | mastodon.lhin.space | No |
 | mastodon.libre-entreprise.com | No |
@@ -1685,7 +1685,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | p.tkw.fm | No |
 | p.x61.uk | No |
 | p1.a9z.dev | Yes |
-| p3.macgirvin.com | No |
 | pachyder.me | No |
 | pagan.plus | No |
 | panthermoderns.org | No |
@@ -2750,7 +2749,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 516 |
+| Cloudflare | 515 |
 | Normal | 2,197 |
 
 
