@@ -1,4 +1,18 @@
 [RAP-pp]: <paypal.md>
+[//]: # (to do: incorporate or reference https://write.pixie.town/thufie/dont-trust-cloudflare)
+[//]: # (https://git.disroot.org/cyberMonk/liberethos_paradigm/src/branch/master/rap_sheets/paypal.md)
+
+[//]: # (interesting flip-flopping loop when trying to visit dl.acm.org via archive.org from curl)
+
+[//]: # (- is 36.2% (English) of first search result of Google *)
+[//]: # (- is 28.7% (Non-English) of first search result of Google *)
+[//]: # (- used by 29% of top 200 Github developers)
+[//]: # (- gain 6898.43 new domain users per day **)
+[//]: # (- has high false positive each day (cloudflare-tor PEOPLE.md))
+
+[//]: # (* February 2021, on average)
+[//]: # (** average of 2 months, 2021)
+
 [1]: http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem
 [2]: <https://web.archive.org/web/20190402175900/cypherpunk.is/2015/04/02/why-cloudflare-is-probably-a-honeypot> "using mirror to avoid CloudFlare"
 [3]: <https://web.archive.org/web/20210122201542/psono.com/security> "using mirror to avoid CloudFlare"
@@ -56,17 +70,17 @@
 [unescoEDU2019]: http://portal.unesco.org/en/ev.php-URL_ID=49556&URL_DO=DO_TOPIC&URL_SECTION=201.html
 [unescoG16]: https://en.unesco.org/themes/access-information
 [unescoEDUhr]: https://en.unesco.org/themes/education
-[dcfstats]: https://git.disroot.org/dCF/deCloudflare/src/branch/master/subfiles/cloudflared/top1000-2010-google.md
+[dcfstats]: https://git.disroot.org/dCF/deCloudflare/src/branch/master/subfiles/google_ad_planner_top_1000_sites.md
 [gfd]: https://static.fsf.org/nosvn/directory/fdl-1.3-standalone.html
 [freedom0]: https://lists.gnu.org/archive/html/directory-discuss/2017-02/msg00000.html
 [greenwash]: http://web.archive.org/web/20210730102406/blog.cloudflare.com/crawler-hints-how-cloudflare-is-reducing-the-environmental-impact-of-web-searches
 [tarpit]: http://web.archive.org/web/20210730102406/blog.cloudflare.com/crawler-hints-how-cloudflare-is-reducing-the-environmental-impact-of-web-searches
 
-# Cloudflare Rap Sheet
+# CloudFlare
 
 CloudFlare is a vigilante extremist organization that takes the decentralized web and centralizes it under one corporate power who dictates terms in the world's largest walled-garden. A very large portion of the web (16.7%+) were once freely open to all but are now controlled and monitored by a single central authority who decides for everyone who may access what web content. This does serious damage to net neutrality, privacy, and has immediate serious consequences:
 
-1. CloudFlare mounts multifaceted attacks on **privacy**
+1. CloudFlare mounts mutlifaceted attacks on **privacy**
     1. CloudFlare is a [man-in-the-middle][2] who [sees all traffic][1] including usernames, unhashed passwords, and financial data within the HTTPS tunnel.  This is done surreptitiously.  They admit to it on [one document][33] in the course of a sales pitch while on other documents they say zero trust is needed.
         1. CloudFlare sees all traffic to and from the database of the [Psono password manager][3].  Even if Psono has an extra layer of encryption for cloud-stored passwords, CloudFlare still sees the password in the clear when supplied to the service that the user is logging into.  If a user has multiple accounts, CloudFlare is given enough information to associate the accounts together.  If a user uses an IP address for Psono that differs from the IP of the site they're logging into, CloudFlare can additionally associate IPs together to identify a Tor user or VPN user.
     1. Cloudflare has a policy to block all Tor users by default. It's a crude, reckless and unsophisticated (but cheap) way to create the illusion of security. [Collateral damage is high][4]. Privacy takes a global hit because Cloudflare has decided what best suits their business to the detriment of everyone else.  The impact is not only privacy while visiting the CloudFlare site. CloudFlare has proliferated to the point that users opt to abandon Tor entirely because solving 50+ CAPTCHAs every day is wholly impractical.  For a user to be effectively forced to abandon Tor is a colossal loss of privacy.
@@ -76,10 +90,10 @@ CloudFlare is a vigilante extremist organization that takes the decentralized we
     1. ISPs collect data on their own customers and exploit it for profit in the US.  Under Obama it became illegal for an ISP to sell data collected on their customers without express consent. Trump [reversed][8] Obama's policy in 2017. In the absence of legal protections, Tor serves as a technical protection from ISP snooping.  CloudFlare's attack on Tor users facilitates privacy abuse by ISPs.
     1. The gratis service also raises the question about how CF is monetizing all that data that's exposed to them (which every CF user carelessly increases). They do not disclose to the public how they monetize that data, but what CF cannot hide is that they [seek to hire][9] a machine learning data scientist with *big data* expertise for their marketing department.
     1. A CF customer who became increasingly concerned with CF's unchecked power deleted their account.  Two months after CF confirmed that the account was deleted, the customer [received an email][10] from CF, proving the account had not been deleted.
-    1. CF imposes execution of JavaScript, and JavaScript cannot be generally trusted. E.g., eBay has [been caught][11] sending JavaScript that snoops on their own customers by port scanning the LAN and reporting back to eBay.  Streetwise users disable j/s.  Yet it's impossible to solve CF's CAPTCHA with j/s disabled.  So people are forced into vulnerability by CloudFlare (who has proven to be untrustworthy).
+    1. CF imposes execution of Javascript, and Javascript cannot be generally trusted. E.g., eBay has [been caught][11] sending Javascript that snoops on their own customers by port scanning the LAN and reporting back to eBay.  Streetwise users disable Javascript.  Yet it's impossible to solve CF's CAPTCHA with Javascript disabled.  So people are forced into vulnerability by CloudFlare (who has proven to be untrustworthy).
     1. When a user solves a CAPTCHA, CF is [paid][12] a cash reward via Paypal, a [privacy abuser][RAP-pp] who shares customer data with [600 companies][13].
 1. CloudFlare takes away **software freedom**
-    1. CF imposes CAPTCHAs that require the user to execute non-free JavaScript.
+    1. CF imposes CAPTCHAs that require the user to execute non-free Javascript.
         * CF restricts how users may use their software by rendering the web dysfunctional for some browsers.
         * Free software projects that use CF to distribute
           documentation without whitelisting T1 inherently violate the
@@ -122,13 +136,13 @@ CloudFlare is a vigilante extremist organization that takes the decentralized we
            of the commons*.
 1. CloudFlare is detrimental to **availability**
     1. The CAPTCHAs are often broken.
-        1. E.g.1: some browsers that block j/s always report errors communicating with the captcha server on all CF-pushed CAPTCHAs
+        1. E.g.1: some browsers that block Javascript always report errors communicating with the captcha server on all CF-pushed CAPTCHAs
         1. E.g.2: the CAPTCHA server itself refuses to give the puzzle saying there is too much activity.
     1. The CAPTCHAs are often unsolvable.
         1. E.g.1: the CAPTCHA puzzle is broken by ambiguity (is one pixel in a grid cell of a pole holding a street sign considered a street sign?)
         1. E.g.2: the puzzle is expressed in a language the viewer doesn't understand.
     1. The CAPTCHAs block all robots indiscriminately causing collateral damage to beneficial (non-malicious) robots.
-    1. GUI CAPTCHAs deny service to users of text-based web browsers.  E.g. CloudFlare's GUI CAPTCHA breaks `torsocks lynx 'https://www.opensecrets.org'`. CloudFlare effectively dictates that all Tor users must use a GUI browser and in many cases it must also be JavaScript capable.
+    1. GUI CAPTCHAs deny service to users of text-based web browsers.  E.g. CloudFlare's GUI CAPTCHA breaks `torsocks lynx 'https://www.opensecrets.org'`. CloudFlare effectively dictates that all Tor users must use a GUI browser and in many cases it must also be Javascript capable.
     1. CloudFlare uses punitive collective judgement as a consequence of mislabeling Tor traffic.
         1. "[Experts say that group punishment is ineffective, counterproductive, lazy and unethical][19]"
         1. CloudFlare's use of this technique is acutely and perversely abusive because they harm potentially as many as 70,000 users in the course of countering just one single bad actor. And worse, unlike typical uses of collective punishment this is not in the slightest a situation where the other 70,000 have any shred of influence over the one malicious user.
@@ -181,13 +195,13 @@ CloudFlare is a vigilante extremist organization that takes the decentralized we
     1. Cloudflare [tarpits][tarpit] beneficial bots that it incorrectly brands as "malicious".  Cloudflare's tar-pitting technique entails requiring bots to "solve a computationally intensive challenge that will require more of their bot’s CPU".  This obviously means Cloudflare purposefully creates needless busy work that amounts to pure energy waste.
     1. To counter Cloudflares attack on mislabeled beneficial bots, developers are compelled to make their bots act more human.  This means downloading images needlessly, thus increasing the environmental footprint needlessly.
     1. CF forces transmission of copious bandwidth-wasting images in order to supply CAPTCHAs.  When a grid of images is presented for Cloudflare's hCAPTCHA, every grid cell is a separate image that requires a separate individual HTTP request, which culminates into the most costly of CAPTCHAs.
-    1. hCAPTCHA uses 4 levels of nested JavaScript.  So users with j/s disabled are often forced to reload the CAPTCHA page 4 times just to see the puzzle.
-    1. Even with all JavaScript loaded and executed to the extent needed to support the CAPTCHA, the CAPTCHA server itself often refuses to serve a puzzle due to a blown traffic threshold for an IP address.  When the CAPTCHA fails to render or when a human user fails to solve the CAPTCHA, all the energy spent reaching the point of denial is to a total loss.  Whether the user continues to reattempt or they give up, the energy waste is a loss for all parties and a detriment to the environment ultimately for no benefit.
+    1. hCAPTCHA uses 4 levels of nested Javascript.  So users with Javascript disabled are often forced to reload the CAPTCHA page 4 times just to see the puzzle.
+    1. Even with all Javascript loaded and executed to the extent needed to support the CAPTCHA, the CAPTCHA server itself often refuses to serve a puzzle due to a blown traffic threshold for an IP address.  When the CAPTCHA fails to render or when a human user fails to solve the CAPTCHA, all the energy spent reaching the point of denial is to a total loss.  Whether the user continues to reattempt or they give up, the energy waste is a loss for all parties and a detriment to the environment ultimately for no benefit.
 1. CloudFlare **stifles innovation** and culture.  Robots are a crucial component to innovation.  CF's attack on robots means people can't even use wget to download files.  As a consequence, mp3 files (for example) can only be downloaded one at a time by manually clicking on each file.  An immeasurably broad range of innovations depend on robots to provide capabilities that are not economically viable with manual labor.  Many robotic innovations are created for the sole purpose of improving the usability of user interfaces that are either poorly designed for all users or the design overlooks the needs of some users.
 1. **False statements, deceptive practices, and poor character of CloudFlare**
     1. No transparency: as Cloudflare performs a DoS attack on Tor users they obviously do not inform web owners. Web owners are usually unaware that legitimate patrons are being blocked from accessing their site. These businesses are all damaged so that one business can profit.
     1. CloudFlare has [hijacked][TrademarkTroll] the name of a tool that protects user *from* CloudFlare: [Cloud Firewall][cloudFW].  Cloud Firewall is a browser add-on that helps users block CloudFlare sites that they visit inadvertently.  CloudFlare recently created a product of their own that uses the same name.  Web searches for "Cloud Firewall" fill the first page of results with links to their corporate product, and with the browser add-on buried.
-    1. False errors are displayed when j/s is disabled.
+    1. False errors are displayed when Javascript is disabled.
     1. CloudFlare [deceives][1] website visitors into believing their connection is secure (HTTPS & browser padlock) when in fact the user is MitMd.
     1. CloudFlare has been caught making false statements to the public. CF said in their [FaQ][34]: "*Why should I trust Cloudflare? You don’t need to. The Cloudflare Onion Service presents the exact same certificate that we would have used for direct requests to our servers,*" the first part of which is incorrect. CloudFlare sees all traffic traversing their servers in the clear, regardless of how secure the tunnel to them is. So of course CloudFlare requires your trust. The second statement about certificates is non-sequitur and irrelevant to the question of trust.  This is a pattern.  CloudFlare [claims][RBIzeroTrust] browser isolation *"is a zero-trust approach"*, then proceeds to advertise their *remote* browser isolation service, which gives CloudFlare a view of everything the user accesses and sees on their browser window, including sessions to non-CloudFlare websites.  They repeatedly [spread][rbi] the "Zero Trust web browsing" lie without being held accountable by *truth in advertizing* laws.
     1. CloudFlare [deceives][35] users about what the problem is, causing users to blame Tor or their browser. CloudFlare suggests to Tor users who reach the CAPTCHA "If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware."
@@ -201,6 +215,7 @@ CloudFlare is a vigilante extremist organization that takes the decentralized we
     1. CF protected a website that distributed child pornography.  When a whistle blower reported the illegal content to CF, CF actually [doxxed][43] the people who reported it.  CloudFlare revealed the whistle blowers' identities directly to the dubious website owner, who then [published][brennan] their names and email addresses to provoke retaliatory attacks on the whistle blowers!  Instead of apologizing, the CEO (Matthew Prince) said the whistle blowers [should have used fake names][41].
 
 [//]: # (if any US k-12 schools use Proquest, then it should also me mentioned that this is a [FERPA]https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html violation b/c 3rd party vendors legally cannot further expose a student's PII to yet another 3rd party; scriborder should perhaps be spotlighted)
+
 
 ---
 by [cyberMonk](https://git.disroot.org/cyberMonk). [License](https://www.gnu.org/licenses/agpl-3.0.txt)
