@@ -7,6 +7,7 @@
 
 
 
+- A small team is seeking a #characterDesign for a FOSS anti-MITM tool called the #MitiGator. MitiGator (the #MITMGator) can warn people when they use or share a website hosted through #Cloudflare, #Amazon, #Google, #Akamai, or #Azure. A #design #competition for the mascot is expected. The prize: your name or crypto addr on profile #art. The #mascotCharacter is not set in stone. Have a better design/name for the #FOSS tool? Use it! Please boost. ([dsfgs](https://activism.openworlds.info/@dsfgs/107370590946621080))
 - (3/3) - blocking #democracy (#Catalonia, anti-#censorship devs), - quietly sabotaging #deCloudflare, a charitable, #humanitarian project giving the public tools to avoid #Cloudflare, with a dev also suspended. FOSS projects that rely on hostile services put everyone at the whim of the entity and puts those #freeSoftware devs in a position of #hypocrisy. #deleteGithub #microsoftCensorship #softwareQuality #QA #UX #caringIsDeletingGithub ([dsfgs](https://activism.openworlds.info/@dsfgs/107365674723881077))
 - Github … Das Cloudflare der OpenSource Projekte 🙄 ([kromonos](https://social.snopyta.org/@kromonos/107351482001855147))
 - hot take: if it hides behind &quot;cloudflare&quot; MitMaaS, torblocks or geoblocks, paywalls or otherwise discriminates while pretending to have a public URI it does not deserve to be called a public website. ([quincy](https://chaos.social/@quincy/107350223156609484))
