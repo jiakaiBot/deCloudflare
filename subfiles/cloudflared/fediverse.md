@@ -668,7 +668,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | greenish.red | Yes |
 | grindcore.ch | No |
 | groundpolis.app | No |
-| groups.qoto.org | No |
 | gruene.social | No |
 | grumpys.online | Yes |
 | gs.leftic.club | No |
@@ -786,6 +785,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | im.sb | No |
 | im.thymrios.com | No |
 | imaginair.es | No |
+| imastodon.blue | No |
 | imastodon.net | No |
 | imastodon.org | No |
 | imd.social | No |
@@ -1523,6 +1523,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.superspeed-fall.com | No |
 | mstdn.taiha.net | No |
 | mstdn.tamag.org | No |
+| mstdn.tentere.net | Yes |
 | mstdn.tokyocameraclub.com | No |
 | mstdn.tomokiwakimoto.com | No |
 | mstdn.unasuke.com | No |
@@ -1917,7 +1918,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | queerhackers.social | Yes |
 | quietplace.xyz | No |
 | quietude.space | No |
-| quip.social | No |
 | quitter.pl | No |
 | r3pek.org | No |
 | ra-phi.ch | No |
@@ -1966,6 +1966,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | roidesbulgares.rocks | No |
 | roleplayers.bub.org | No |
 | rollenspiel.social | No |
+| romancelandia.club | No |
 | rpi.limited.systems | No |
 | rpvortex.online | No |
 | ru.social | No |
@@ -2395,6 +2396,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | squeet.me | No |
 | stadion.masto.host | No |
 | starflower.space | No |
+| starry.ml | No |
 | starship.coffee | No |
 | status.p1ng0ut.social | No |
 | status.plomlompom.com | No |
@@ -2575,7 +2577,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | twit.social | No |
 | twitter.1d4.us | Yes |
 | txs.es | No |
-| txwb.org | No |
 | tymoon.eu | Yes |
 | types.pl | No |
 | typo.science | Yes |
@@ -2749,7 +2750,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 515 |
+| Cloudflare | 516 |
 | Normal | 2,197 |
 
 
