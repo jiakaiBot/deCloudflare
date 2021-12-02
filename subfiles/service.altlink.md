@@ -142,6 +142,8 @@ Your username part (before `@`) will be masked to protect your privacy.
 
 You can configure AL via `direct message`.
 
+# DEPRECATED - Settings_By_DM is DEPRECATED and will be REPLACED. Please wait!
+
 - 1: Do not message me same domain again for a day.
   - Default is `off`.
   - By default AL will notify you each time when you share _inaccessible_ link. Turning this settings _on_ will silence second post for 24 hours.
