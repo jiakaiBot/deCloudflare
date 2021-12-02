@@ -140,65 +140,7 @@ Your username part (before `@`) will be masked to protect your privacy.
 
 ### Settings
 
-You can configure AL via `direct message`.
-
-# DEPRECATED - Settings_By_DM is DEPRECATED and will be REPLACED. Please wait!
-
-- 1: Do not message me same domain again for a day.
-  - Default is `off`.
-  - By default AL will notify you each time when you share _inaccessible_ link. Turning this settings _on_ will silence second post for 24 hours.
-- 2: Suggest other non-Cloudflare alternative sites _when available_.
-  - Default is `off`.
-    - If you turn _on_ this settings AL will help you find alternative better links for your normal toots.
-  - Let's say you boost or post Cloudflared news site. AL will suggest some similar websites related to your URL within 1 minute. Note that AL might suggest inaccurate result.
-    - AL will not suggest anything if your account is `Bot`.
-    - Rate-Limit: AL will suggest `only once per 1 minute`.
-- 3: Count my links and send me report monthly.
-  - Default is `off`.
-  - If you turn _on_ this settings AL will simply count how many links you shared publicly and how many were Cloudflared. Note that this count will have duplicates because we **never** save (& don't care) what you shared.
-    - AL will not send a report if you did not post any links (share 0 links) for a month. (e.g. you have returned to Twitter and stopped using Mastodon)
-  - If you change this settings _or_ each month has passed counter will reset to 0.
-- 4: Set my preferred language to ??. 
-  - Default is _unset_.
-    - AL will use language based on your toot.
-  - If you tell AL your language, AL will speak your language.
-    - Need other language? Create an issue.
-- 6: Ignore boosted toots.
-  - Default is `off`.
-  - By default AL will notify you when you boost(retweet) other user's post which has Cloudflare link.
-- 7: Use alternative provider.
-  - Default is `off`.
-  - If you turn _on_ this settings AL will use [IAList](README.md) service.
-- 8: Notify me if the link is known [Anti-Tor](../anti-tor_users/domains) link.
-  - Default is `off`.
-  - If you turn _on_ this settings AL will notify you when you share links that block Tor users.
-    - "_Hey website.com why are you blocking Tor!?_"
-
-
-```
-set N V
-```
-
-- N is above numbers.
-- V is value.
-  - for number 1 to 3, 6 to 8:
-    - _one of_: `yes` `no` `true` `false` `on` `off`
-  - for number 4:
-    - _one of_: `cc` (2 letter. see [/README.md](../README.md))
-    - e.g. `es Español` -> `es`
-    - [**Improve translation**](../tool/trans.altlink.txt)
-- You can mix uppercase if you want.
-  - `sEt 1 TRuE` is same as `set 1 true`
-
-
-Here's an example.
-
-- Speak Русский. Monthly Report please.
-```
-@altlink
-set 4 ru
-set 3 on
-```
+You can configure AltLink from [this website](https://ialist.crimeflare.eu.org/altlink/).
 
 
 ---
