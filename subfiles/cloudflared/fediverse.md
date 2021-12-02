@@ -348,7 +348,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | detroitriotcity.com | No |
 | dev.mis.b-shock.org | No |
 | devin.masto.host | No |
-| dhub.social | No |
 | diaspodon.fr | No |
 | dica.interfel.de | No |
 | dice.camp | No |
@@ -369,6 +368,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | dizl.de | No |
 | djanzu.tokyo | No |
 | djsumdog.com | No |
+| dline.xyz | No |
 | dlyang.tk | No |
 | dobbs.town | No |
 | docker.masto.pt | Yes |
@@ -737,6 +737,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hub.bessonnica.org | Yes |
 | hub.cats-home.net | No |
 | hub.debenny.de | No |
+| hub.designor.de | No |
 | hub.disroot.org | No |
 | hub.elemac.fr | No |
 | hub.hayfidelity.de | No |
@@ -1129,6 +1130,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.ehret.me | No |
 | mastodon.eliotberriot.com | No |
 | mastodon.elte.hu | No |
+| mastodon.enkitunes.com | No |
 | mastodon.eole.education | No |
 | mastodon.ericlathrop.com | No |
 | mastodon.esmevane.com | No |
@@ -1394,6 +1396,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | misskey.traction.jp | No |
 | misskey.weebcouncil.online | No |
 | misskey.xianon.net | Yes |
+| misskey.zirconsoft.net | No |
 | mistodon.cloud | No |
 | misty.digitalesparadies.de | No |
 | mitra.social | No |
@@ -2516,6 +2519,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toot.host | No |
 | toot.icyphox.sh | No |
 | toot.io | No |
+| toot.jasonscheirer.com | No |
 | toot.jeena.net | No |
 | toot.koeln | No |
 | toot.krinetzki.de | Yes |
@@ -2644,6 +2648,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | virtual-kaf.fun | Yes |
 | vis.social | No |
 | vnil.de | No |
+| vocabar.net | No |
 | vocalodon.net | No |
 | vocalounge.cafe | No |
 | voi.social | No |
@@ -2760,7 +2765,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 517 |
-| Normal | 2,205 |
+| Normal | 2,210 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
