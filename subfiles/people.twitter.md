@@ -7,6 +7,7 @@
 
 
 
+- Just thought you should know that your Firewall is causing intermittent connectivity issues. I've had a Cloudflare page appear twice with error messages about ports being monitored for attacks. I promise that I'm not a hacker... I just want to buy X-mas presents 🤣 ([jaded_epilogue](https://twitter.com/Jaded_Epilogue/status/1466299319850467335))
 - Probably they are using TOR browser. If you are using cloudflare, you can just block TOR browser and all gone. ([turgayyilmaz](https://twitter.com/turgayyilmaz/status/1466130952065884168))
 - This. Having a way to pass the captcha details to an api and being able to verify it would be huge. ([htr_xorth](https://twitter.com/htr_xorth/status/1466088471504773124))
 - Worst NFT Drop I've ever seen. Poorly set up Cloudflare, Italy and Ukraine users are accessing website VPN, I suppose some other countries affected as well. Considering the hype the website load should have been tested. Thousand updates and not tested NFT minting. No words🤷‍♂️ ([btcvld](https://twitter.com/btcvld/status/1466010587876442112))
