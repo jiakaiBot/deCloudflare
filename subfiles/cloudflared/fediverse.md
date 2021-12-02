@@ -188,6 +188,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bobek.cz | No |
 | boing.world | No |
 | boitam.eu | No |
+| bologna.one | No |
 | boltcutter.network | Yes |
 | bong.social | No |
 | bonn.social | No |
@@ -623,6 +624,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gearlandia.haus | Yes |
 | gececibaykus.com | No |
 | geekcompass.com | Yes |
+| geislingen.net | Yes |
 | genau.qwertqwefsday.eu | No |
 | geno.social | No |
 | gensokyo.social | No |
@@ -991,7 +993,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.anirloli.dev | Yes |
 | m.aqr.af | No |
 | m.bonzoesc.net | Yes |
-| m.brokep.com | No |
 | m.chars.jp | Yes |
 | m.cmx.im | Yes |
 | m.divita.eu | No |
@@ -1465,6 +1466,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.asterism.xyz | Yes |
 | mstdn.b-shock.org | No |
 | mstdn.barippi.com | No |
+| mstdn.base52.net | No |
 | mstdn.beer | No |
 | mstdn.blue.wirednet.jp | No |
 | mstdn.bmw-and-more.info | No |
@@ -1740,6 +1742,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pl.cutiemiku.tk | No |
 | pl.devfs.xyz | No |
 | pl.dira.cc | No |
+| pl.eragon.re | No |
 | pl.escapism.work | Yes |
 | pl.eternawings.com | Yes |
 | pl.firechicken.net | No |
@@ -1862,11 +1865,11 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | plustodon.net | Yes |
 | pm.ernix.jp | No |
 | poa.st | Yes |
-| pod.ryey.icu | No |
 | pod.yargl.com | No |
 | podcastindex.social | No |
 | podlibre.social | No |
 | podnutz.us | Yes |
+| poils.pachyderme.net | No |
 | point.community | Yes |
 | pokemon.mastportal.info | No |
 | pokemon.men | Yes |
@@ -2136,6 +2139,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.azkware.net | No |
 | social.azure.icu | Yes |
 | social.b10m.net | No |
+| social.basementcomputer.site | No |
 | social.bau-ha.us | No |
 | social.beachcom.org | No |
 | social.beepboop.ga | No |
@@ -2239,7 +2243,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.lansky.name | No |
 | social.laserbeam.productions | No |
 | social.levelxstudios.org | No |
-| social.liberta.vip | No |
 | social.libre.fi | No |
 | social.linux.pizza | No |
 | social.linuxine.net | No |
@@ -2305,7 +2308,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.regenpfeifer.net | No |
 | social.remnantrisingnow.com | No |
 | social.rights.ninja | Yes |
-| social.roeckoe.be | No |
 | social.rooty.fr | No |
 | social.rousselie.name | No |
 | social.ruby2sday.net | Yes |
@@ -2568,12 +2570,14 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | trans.fm | No |
 | transient.garden | No |
 | transmom.love | No |
+| travel-friends.chat | No |
 | travelpandas.fr | No |
 | troet.cafe | No |
 | troll.cafe | No |
 | trollian.space | No |
 | trpg.cloud | No |
 | trunk.mad-scientist.club | No |
+| truska.xyz | No |
 | tryliberty.org | No |
 | tsia.de | No |
 | turbo.chat | No |
@@ -2764,8 +2768,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 517 |
-| Normal | 2,210 |
+| Cloudflare | 518 |
+| Normal | 2,213 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
