@@ -1305,6 +1305,7 @@ Do not create new issue or we will close it as duplicate.
 | [DileepaMV@twitter](https://twitter.com/DileepaMV/status/1372732617934606344) | advertise |
 | [DileepD87691922@twitter](https://twitter.com/DileepD87691922/status/1395573825618661380) | advertise |
 | [DilJan15404602@twitter](https://twitter.com/DilJan15404602/status/1394369935506382848) | advertise |
+| [dimasbayusjw@twitter](https://twitter.com/dimasbayusjw/status/1462956408064733186) | advertise |
 | [DimAtmodihardjo@twitter](https://twitter.com/DimAtmodihardjo/status/1404448329673576452) | advertise |
 | [Dimple83590037@twitter](https://twitter.com/Dimple83590037/status/1391730872240463878) | advertise |
 | [Dina98163760@twitter](https://twitter.com/Dina98163760/status/1401385319220580358) | advertise |
@@ -1430,6 +1431,7 @@ Do not create new issue or we will close it as duplicate.
 | [ebrahimbabaeeu@twitter](https://twitter.com/ebrahimbabaeeu/status/1383362619965251590) | advertise |
 | [EcchiTien@twitter](https://twitter.com/EcchiTien/status/1380172764078768128) | advertise |
 | [ECcrasci@twitter](https://twitter.com/ECcrasci/status/1376228756952469505) | advertise |
+| [echebukati@twitter](https://twitter.com/echebukati/status/1466131790603685892) | advertise |
 | [ecl_VB@twitter](https://twitter.com/ecl_VB/status/1431346378647773187) | advertise |
 | [Eddie086666@twitter](https://twitter.com/Eddie086666/status/1391423420689047565) | advertise |
 | [edgaredm08@twitter](https://twitter.com/edgaredm08/status/1404677014619971587) | advertise |
