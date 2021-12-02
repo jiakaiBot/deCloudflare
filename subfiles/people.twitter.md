@@ -7,6 +7,7 @@
 
 
 
+- Welcome Cloudflare to IndexNow! Their Crawler Hints service now supports IndexNow, a new protocol by Bing and that allows websites to notify Search engines whenever content on their website content is created, updated, or deleted. ([jordirib1](https://twitter.com/JordiRib1/status/1466434489219960838))
 - Just thought you should know that your Firewall is causing intermittent connectivity issues. I've had a Cloudflare page appear twice with error messages about ports being monitored for attacks. I promise that I'm not a hacker... I just want to buy X-mas presents 🤣 ([jaded_epilogue](https://twitter.com/Jaded_Epilogue/status/1466299319850467335))
 - Probably they are using TOR browser. If you are using cloudflare, you can just block TOR browser and all gone. ([turgayyilmaz](https://twitter.com/turgayyilmaz/status/1466130952065884168))
 - This. Having a way to pass the captcha details to an api and being able to verify it would be huge. ([htr_xorth](https://twitter.com/htr_xorth/status/1466088471504773124))
