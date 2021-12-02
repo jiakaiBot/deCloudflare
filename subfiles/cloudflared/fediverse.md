@@ -176,6 +176,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bla.chymera.eu | No |
 | blabber.rocks | No |
 | blackjackandhookers.net | No |
+| blanu.net | No |
 | blessedgeeks.org | No |
 | blimey.social | No |
 | blimps.xyz | Yes |
@@ -264,6 +265,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | chungus.cc | No |
 | clacks.link | No |
 | claris.cf | No |
+| claristdon.link | No |
 | climatejustice.global | No |
 | climatejustice.social | No |
 | cliq.social | No |
@@ -1059,6 +1061,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | masto.1146.nohost.me | No |
 | masto.asonix.dog | No |
 | masto.beer | No |
+| masto.bobbybasement.noho.st | No |
 | masto.donte.com.br | Yes |
 | masto.evelynyap.com | No |
 | masto.krashboyz.org | No |
@@ -1469,6 +1472,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.dgm.pw | No |
 | mstdn.es | Yes |
 | mstdn.f72u.net | Yes |
+| mstdn.feilimatrisen.net | No |
 | mstdn.ffnet.work | No |
 | mstdn.fr | No |
 | mstdn.fujii-yuji.net | No |
@@ -1676,12 +1680,14 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | otogamer.me | No |
 | otoya.space | Yes |
 | oulipo.social | No |
+| ounce.zone | No |
 | ourempty.pub | No |
 | outerheaven.club | No |
 | oval.cc | No |
 | owlper.ch | No |
 | ozhika.me | No |
 | p.ashiato45.net | No |
+| p.mr64.net | No |
 | p.node.pk | Yes |
 | p.oshiteku.app | No |
 | p.rhinoworks.info | No |
@@ -1742,6 +1748,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pl.kpherox.dev | No |
 | pl.longyap.social | No |
 | pl.mastodont.cat | No |
+| pl.murky.club | No |
 | pl.nikotile.xyz | Yes |
 | pl.nudie.social | No |
 | pl.poo.li | No |
@@ -1788,6 +1795,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.dragonborn.app | No |
 | pleroma.echolib.re | No |
 | pleroma.eientei.org | No |
+| pleroma.elementality.org | No |
 | pleroma.elinvention.ovh | No |
 | pleroma.elyat.im | No |
 | pleroma.envs.net | No |
@@ -1919,7 +1927,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | queerdorks.club | No |
 | queerhackers.social | Yes |
 | quietplace.xyz | No |
-| quietude.space | No |
 | quitter.pl | No |
 | r3pek.org | No |
 | ra-phi.ch | No |
@@ -2613,6 +2620,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ussr.win | No |
 | utodon.jp | No |
 | utopia.cool | No |
+| utxo.id | No |
 | uwu.social | Yes |
 | v-insanity.com | No |
 | v.st | No |
@@ -2752,7 +2760,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 517 |
-| Normal | 2,197 |
+| Normal | 2,205 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
