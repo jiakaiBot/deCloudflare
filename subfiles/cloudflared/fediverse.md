@@ -73,7 +73,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | aircrew.rocks | No |
 | ajin.la | No |
 | akari-network.jp | No |
-| akko.kalasarn.se | No |
 | alcyon.twilightparadox.com | No |
 | aleph.land | No |
 | alfazema.club | No |
@@ -146,6 +145,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | based.social | Yes |
 | bbbdn.jp | No |
 | bbs.kawa-kun.com | No |
+| bbs.plaureano.com | No |
 | bdx.town | No |
 | beach.city | No |
 | bear.community | No |
@@ -176,6 +176,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bla.chymera.eu | No |
 | blabber.rocks | No |
 | blackjackandhookers.net | No |
+| blah.rako.space | No |
 | blanu.net | No |
 | blessedgeeks.org | No |
 | blimey.social | No |
@@ -310,6 +311,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cornichon.me | No |
 | corrupteddreams.com | No |
 | counter.fedi.live | No |
+| cowfee.org | No |
 | crazylab.online | No |
 | critter.camp | No |
 | crowsnest.libre.audio | No |
@@ -560,6 +562,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | freespeech.group | No |
 | freespeechextremist.com | No |
 | freethinkers.lgbt | No |
+| freetobe.social | No |
 | freewahaextremist.wtf | No |
 | freewheel.social | No |
 | freiburg.social | No |
@@ -762,6 +765,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hubzilla.dark-alexandr.net | No |
 | hubzilla.eu | No |
 | hubzilla.fkn-systems.de | No |
+| hubzilla.konzurovski.net | No |
 | hugh.buzz | No |
 | hulvr.com | No |
 | hunk.city | No |
@@ -995,6 +999,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.bonzoesc.net | Yes |
 | m.chars.jp | Yes |
 | m.cmx.im | Yes |
+| m.costas.dev | No |
 | m.divita.eu | No |
 | m.dogcraft.cn | No |
 | m.dogcraft.top | Yes |
@@ -1275,7 +1280,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.transneptune.net | No |
 | mastodon.triggerphra.se | No |
 | mastodon.tux.ovh | No |
-| mastodon.twilight-creation.com | No |
 | mastodon.underworld.fr | No |
 | mastodon.uno | Yes |
 | mastodon.utwente.nl | No |
@@ -1283,6 +1287,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.vierkantor.com | No |
 | mastodon.white-void.net | No |
 | mastodon.wihel.de | Yes |
+| mastodon.williamrehwinkel.net | No |
 | mastodon.wivodaim.net | No |
 | mastodon.xy-space.de | No |
 | mastodon.xyz | No |
@@ -1419,6 +1424,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.niscii.xyz | Yes |
 | mk.nixnet.social | No |
 | mk.outerheaven.club | No |
+| mk.outoftou.ch | No |
 | mk.paritybit.ca | No |
 | mk.shc.kanagawa.jp | No |
 | mk.striker.net.eu.org | No |
@@ -1982,7 +1988,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | roleplayers.bub.org | No |
 | rollenspiel.social | No |
 | romancelandia.club | No |
-| rpi.limited.systems | No |
 | rpvortex.online | No |
 | ru.social | No |
 | rubber.social | No |
@@ -2059,7 +2064,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | simkey.net | Yes |
 | sirius1228.space | Yes |
 | sitedethib.com | No |
-| skeleton.cool | No |
 | ski.na2na.website | Yes |
 | skippers-bin.com | Yes |
 | skoops.social | No |
@@ -2769,7 +2773,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 518 |
-| Normal | 2,213 |
+| Normal | 2,217 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 18.9% of public Fediverse services are using Cloudflare.
