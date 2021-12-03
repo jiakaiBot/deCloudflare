@@ -17,7 +17,7 @@ This is `opt-in` service.
   - [CloudFlareTest it!](service.altlink.md#cloudflaretest-it)
   - [Report a problem / Create an Issue](service.altlink.md#report-a-problem-create-an-issue)
   - [Settings](service.altlink.md#settings)
-- [Download PNG Logo](https://git.disroot.org/dCF/deCloudflare/commit/9450dfdaf958e36c3a0f8dadfc7ee1269d364de7)
+  - [Download PNG Logo](service.altlink.md#download-png-logo)
 
 
 ----
@@ -142,6 +142,17 @@ Your username part (before `@`) will be masked to protect your privacy.
 ### Settings
 
 You can configure AltLink from [this website](https://mitigator.crimeflare.eu.org/).
+
+
+### Download PNG Logo
+
+For your poster/meme needs.
+
+| 🖼 | 🖼 | 🖼 | 🖼 |
+| -- | -- | -- | -- |
+| ![](../image/mitigator.png) | ![](../image/mitigatorB.png) | - | - |
+| ![](../image/mitigatorC01.png) | ![](../image/mitigatorC02.png) | ![](../image/mitigatorC03.png) | ![](../image/mitigatorC04.png) |
+
 
 
 ---
