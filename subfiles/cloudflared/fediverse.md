@@ -59,7 +59,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | abdl.link | Yes |
 | abhlach.ie | No |
 | abolition.online | No |
-| abolition.town | No |
 | abyss.fun | Yes |
 | abyss.observer | No |
 | acg.mn | Yes |
@@ -207,6 +206,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | brokenmirror.cc | No |
 | bruder.space | No |
 | bsd.network | No |
+| btc21m.net | No |
 | bub.cat | No |
 | budsbots.com | No |
 | bumpto.space | Yes |
@@ -332,7 +332,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | dads.cool | No |
 | daedal.io | No |
 | dain.moe | Yes |
-| dallas.lu | Yes |
 | dannythe.site | No |
 | darmstadt.social | Yes |
 | darui.work | No |
@@ -825,7 +824,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | itabashi.0j0.jp | No |
 | itmgitmo.com | No |
 | itmslaves.com | No |
-| itsybitsysissy.eu | No |
 | iwatedon.net | No |
 | iyasaretai.pw | No |
 | j.ioi-xd.net | Yes |
@@ -850,7 +848,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | jumanji.co | No |
 | junkhub.org | No |
 | justicewarrior.social | Yes |
-| jv-net.digital | No |
 | k-shiigi-136.masto.host | No |
 | k.lapy.link | Yes |
 | kafuka.me | No |
@@ -1445,6 +1442,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | monado.ren | Yes |
 | monads.online | No |
 | mond-basis.eu | No |
+| monkeydiesel.net | No |
 | monocles.social | No |
 | monsterfuckers.online | No |
 | moonbeam.town | No |
@@ -1855,7 +1853,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.ryusei.dev | No |
 | pleroma.salastil.com | Yes |
 | pleroma.shunderdo.me | No |
-| pleroma.skeptikon.fr | No |
 | pleroma.skyshanty.xyz | No |
 | pleroma.sluga.xyz | No |
 | pleroma.soykaf.com | No |
@@ -1884,7 +1881,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pol.social | No |
 | poliverso.org | No |
 | polonkai.eu | No |
-| poly.cybre.city | No |
 | polyglot.city | No |
 | pomdon.work | No |
 | pone.social | No |
@@ -2036,6 +2032,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sdfn-01.ninjawedding.org | No |
 | seacow.social | No |
 | seaofog.com | Yes |
+| seaswallow.me | No |
 | sect.sunbutt.faith | No |
 | seizemeans.com | No |
 | selfy.army | No |
@@ -2224,6 +2221,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.ignis.link | No |
 | social.igwigg.space | No |
 | social.illegalpornography.com | No |
+| social.imal.org | No |
 | social.imirhil.fr | No |
 | social.inex.rocks | No |
 | social.interhop.org | No |
@@ -2762,7 +2760,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | zoinks.one | No |
 | zombienet.org | No |
 | zone.liolok.com | Yes |
-| zotadel.net | No |
 | zottmann.org | Yes |
 | zotum.net | No |
 
@@ -2774,8 +2771,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 518 |
-| Normal | 2,219 |
+| Cloudflare | 517 |
+| Normal | 2,217 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
