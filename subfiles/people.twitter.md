@@ -7,6 +7,7 @@
 
 
 
+- Because if they just decided 'fuck cloudflare' and null routed it, that's hilarious ([da_667](https://twitter.com/da_667/status/1466842589009788932))
 - 7) With respect to Cloudflare - there is 2FA. How the fuck did the hacker get access to an admin API key to inject their own javascript when should have had 2FA setup and if 2FA was setup, how did this hacker gain access? I am baffled. ([convexical](https://twitter.com/convexical/status/1466689338301980672))
 - 5) Eventually the hacker had enough accounts to go after - and decided to execute their attack. 6) Regardless of the outcome - a lot still doesn't make sense. How the fuck does a hacker get access to a website's Cloudflare global CDN API key in the first place? :( ([convexical](https://twitter.com/convexical/status/1466684551158280192))
 - Is there any ETA for a fix that will stop this issue for good? I just woke up right now to a outage at my work because Vercel decided to block Cloudflare's traffic once again. For almost a year now I've been hearing from Vercel that this issue is being worked on. cc Matthew ([arunesh90](https://twitter.com/arunesh90/status/1466690115317678083))
