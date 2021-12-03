@@ -48,5 +48,5 @@
 | ![](ban_altlink_eldritch.cafe.jpg) | ![](ban_altlink_mastodon.social.jpg) | ![](altlink_suggest.jpg) | ![](covflare.jpg) |
 | ![](cfspam04.jpg) | ![](cfspam05.jpg) | ![](blockedbymatthewprince4.jpg) | ![](twitter_cloudflare_hide_reply.jpg) |
 | ![](altlink_sample_irc.jpg) | ![](fbi_on_cloudflare.jpg) | ![](mitigator.png) | ![](mitigatorC01.png) |
-| ![](mitigatorC02.png) | ![](mitigatorC03.png) | ![](mitigatorC04.png) | - |
+| ![](mitigatorC02.png) | ![](mitigatorC03.png) | ![](mitigatorC04.png) | ![](mitigatorB.png) |
 
