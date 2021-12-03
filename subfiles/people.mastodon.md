@@ -7,6 +7,7 @@
 
 
 
+- Driving in San Francisco. Just passed Cloudflare. Apparently the internet archive got hold of a nice church here. If the cloud is a place, it's in San Francisco. ([binyamin](https://mas.to/@binyamin/107381914320252637))
 - Today, a building that host Indonesia Internet eXchange having a fire, and thus causing internet disruption over every corner of data center and ISP in Indonesia. My Misskey instance would probably affected by this. Since its hosted on Indonesia server. Even though i proxied it on Cloudflare, expect a slow down soon in next few days. ([sandycorzeta](https://misskey.id/notes/8tseav11o6))
 - #EU &amp; #Cloudflare And #protonmail as a privacy protector😂 ([br0m3x](https://social.weho.st/@Br0m3x/107372936462154362))
 - A small team is seeking a #characterDesign for a FOSS anti-MITM tool called the #MitiGator. MitiGator (the #MITMGator) can warn people when they use or share a website hosted through #Cloudflare, #Amazon, #Google, #Akamai, or #Azure. A #design #competition for the mascot is expected. The prize: your name or crypto addr on profile #art. The #mascotCharacter is not set in stone. Have a better design/name for the #FOSS tool? Use it! Please boost. ([dsfgs](https://activism.openworlds.info/@dsfgs/107370590946621080))
