@@ -1336,6 +1336,7 @@ Or is this merely a case of simple modesty?
 | Renee Farrell | Infosec Compliance Manager |  |
 | Renee Main | Account Executive |  |
 | Renee Taormina | People Systems |  |
+| Ricardo Baeta | Employee | |
 | Ricardo Catalinas Jiménez | Systems Engineer |  |
 | Ricardo Pacheco | Employee | [🖼](../image/gang/Ricardo_Pacheco.jpg) |
 | Ricardo Reinah | Support Engineer |  |
