@@ -1,4 +1,4 @@
-# Alternative Link
+# Alternative Link (AltLink/MitiGator)
 
 
 | 🖼 | 🖼 |
@@ -141,7 +141,7 @@ Your username part (before `@`) will be masked to protect your privacy.
 
 ### Settings
 
-You can configure AltLink from [this website](https://ialist.crimeflare.eu.org/altlink/).
+You can configure AltLink from [this website](https://mitigator.crimeflare.eu.org/).
 
 
 ---
