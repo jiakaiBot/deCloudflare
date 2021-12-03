@@ -7,6 +7,8 @@
 
 
 
+- But in Web2 you can call Cloudflare and tell them to stop hosting cyberbullying sites like Kiwifarms and if you're lucky they'll refuse to provide DDoS services, or domain hosting (presuming that Cloudflare gives a damn about trans people being bullied to suicide) ([yesiwebto](https://twitter.com/yesiwebto/status/1466572135346819072))
+- There was minimal load on the server side and seems that Cloudflare blocked bunch of users Going forward, we'll reduce the sensitivity settings for Cloudflare The upcoming challenges will take more time & be a bit more complex to make it more enjoyable for everyone ([grayfox48259818](https://twitter.com/GrayFox48259818/status/1466570849616547841))
 - I keep thinking that CloudFlare is some kind of a weird human subject experiment on Tor users, like how many can be tricked into enabling JS. ([hackerb0t](https://twitter.com/hackerb0t/status/1466452403591565320))
 - Welcome Cloudflare to IndexNow! Their Crawler Hints service now supports IndexNow, a new protocol by Bing and that allows websites to notify Search engines whenever content on their website content is created, updated, or deleted. ([jordirib1](https://twitter.com/JordiRib1/status/1466434489219960838))
 - Just thought you should know that your Firewall is causing intermittent connectivity issues. I've had a Cloudflare page appear twice with error messages about ports being monitored for attacks. I promise that I'm not a hacker... I just want to buy X-mas presents 🤣 ([jaded_epilogue](https://twitter.com/Jaded_Epilogue/status/1466299319850467335))
