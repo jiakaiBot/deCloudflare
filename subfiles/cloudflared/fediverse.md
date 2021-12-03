@@ -28,7 +28,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Site | Cloudflared |
 | --- | --- |
-| 0wo.ooo | No |
 | 0x3c.pl | Yes |
 | 1in1.net | Yes |
 | 1o1.io | No |
@@ -901,6 +900,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kolektiva.social | Yes |
 | kollegin.eu | No |
 | kompost.cz | No |
+| konvergo.co.uk | No |
 | kopiti.am | Yes |
 | koreadon.com | No |
 | kosmos.social | No |
@@ -946,6 +946,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | lgbt.io | No |
 | lhub.social | No |
 | lia.fail | No |
+| liber.chocoflan.net | No |
 | libera.tokyo | No |
 | liberal.city | No |
 | liberalism.masto.host | No |
@@ -1184,7 +1185,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.jemverse.xyz | Yes |
 | mastodon.jpages.eu | No |
 | mastodon.juggler.jp | No |
-| mastodon.kaiserflur.de | No |
 | mastodon.kitchen | No |
 | mastodon.kleph.eu | No |
 | mastodon.ktachibana.party | Yes |
@@ -1850,6 +1850,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.popolon.org | No |
 | pleroma.poslovitch.fr | No |
 | pleroma.pt | No |
+| pleroma.rojogato.com | No |
 | pleroma.runfox.tk | No |
 | pleroma.ryusei.dev | No |
 | pleroma.salastil.com | Yes |
@@ -2314,6 +2315,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.rights.ninja | Yes |
 | social.rooty.fr | No |
 | social.rousselie.name | No |
+| social.rt4mn.org | No |
 | social.ruby2sday.net | Yes |
 | social.rustysoft.de | No |
 | social.s.dhusch.de | No |
@@ -2773,7 +2775,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 518 |
-| Normal | 2,217 |
+| Normal | 2,219 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
