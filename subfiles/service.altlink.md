@@ -17,6 +17,7 @@ This is `opt-in` service.
   - [CloudFlareTest it!](service.altlink.md#cloudflaretest-it)
   - [Report a problem / Create an Issue](service.altlink.md#report-a-problem-create-an-issue)
   - [Settings](service.altlink.md#settings)
+- [Download PNG Logo](https://git.disroot.org/dCF/deCloudflare/commit/9450dfdaf958e36c3a0f8dadfc7ee1269d364de7)
 
 
 ----
