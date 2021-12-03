@@ -7,6 +7,9 @@
 
 
 
+- 7) With respect to Cloudflare - there is 2FA. How the fuck did the hacker get access to an admin API key to inject their own javascript when should have had 2FA setup and if 2FA was setup, how did this hacker gain access? I am baffled. ([convexical](https://twitter.com/convexical/status/1466689338301980672))
+- 5) Eventually the hacker had enough accounts to go after - and decided to execute their attack. 6) Regardless of the outcome - a lot still doesn't make sense. How the fuck does a hacker get access to a website's Cloudflare global CDN API key in the first place? :( ([convexical](https://twitter.com/convexical/status/1466684551158280192))
+- Is there any ETA for a fix that will stop this issue for good? I just woke up right now to a outage at my work because Vercel decided to block Cloudflare's traffic once again. For almost a year now I've been hearing from Vercel that this issue is being worked on. cc Matthew ([arunesh90](https://twitter.com/arunesh90/status/1466690115317678083))
 - But in Web2 you can call Cloudflare and tell them to stop hosting cyberbullying sites like Kiwifarms and if you're lucky they'll refuse to provide DDoS services, or domain hosting (presuming that Cloudflare gives a damn about trans people being bullied to suicide) ([yesiwebto](https://twitter.com/yesiwebto/status/1466572135346819072))
 - There was minimal load on the server side and seems that Cloudflare blocked bunch of users Going forward, we'll reduce the sensitivity settings for Cloudflare The upcoming challenges will take more time & be a bit more complex to make it more enjoyable for everyone ([grayfox48259818](https://twitter.com/GrayFox48259818/status/1466570849616547841))
 - I keep thinking that CloudFlare is some kind of a weird human subject experiment on Tor users, like how many can be tricked into enabling JS. ([hackerb0t](https://twitter.com/hackerb0t/status/1466452403591565320))
