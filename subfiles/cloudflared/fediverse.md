@@ -388,6 +388,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | donotsta.re | Yes |
 | donphan.social | Yes |
 | dook.business | No |
+| dorijan.io | No |
 | douban.city | Yes |
 | douchi.space | No |
 | dprj.xyz | No |
@@ -470,6 +471,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fandom.garden | No |
 | fandom.ink | Yes |
 | fanfare.horse | No |
+| fe.disroot.org | No |
 | fearness.org | No |
 | fed.fab.industries | No |
 | fed.hvn.network | Yes |
@@ -1347,6 +1349,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mhz.social | No |
 | mi.7ka.org | No |
 | mi.les-requin.net | No |
+| mi.maikaze.moe | Yes |
 | mi.siotter.xyz | No |
 | mi.tkw.fm | No |
 | micro.mkp.ca | No |
@@ -1421,6 +1424,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.nixnet.social | No |
 | mk.outerheaven.club | No |
 | mk.outoftou.ch | No |
+| mk.outv.im | Yes |
 | mk.paritybit.ca | No |
 | mk.shc.kanagawa.jp | No |
 | mk.striker.net.eu.org | No |
@@ -1585,7 +1589,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | neighborli.xyz | No |
 | neko.ci | Yes |
 | nekocave.xyz | Yes |
-| nekojita.moe | No |
 | nekomimi.yokohama | Yes |
 | nekoyama.masto.host | No |
 | nemushee.net | Yes |
@@ -1841,6 +1844,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.nobodyhasthe.biz | No |
 | pleroma.noellabo.jp | Yes |
 | pleroma.nthomas20.net | No |
+| pleroma.otter.sh | No |
 | pleroma.p4g.club | Yes |
 | pleroma.popolon.org | No |
 | pleroma.poslovitch.fr | No |
@@ -2099,7 +2103,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | soc.feilimatrisen.net | No |
 | soc.foxarmy.org | No |
 | soc.funnygirl.wtf | No |
-| soc.kakun.jp | No |
 | soc.kouett.net.eu.org | No |
 | soc.luciferi.st | No |
 | soc.nhg.moe | No |
@@ -2212,6 +2215,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.hamachpil.net | No |
 | social.handholding.io | Yes |
 | social.hannebrook.info | No |
+| social.heldom.de | No |
 | social.hendrixgames.com | No |
 | social.henzi.org | No |
 | social.here.blue | No |
@@ -2289,7 +2293,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.okoyono.de | No |
 | social.opendesktop.org | No |
 | social.opennerds.org | No |
-| social.ordinal.garden | No |
 | social.outsourcedmath.com | No |
 | social.outv.im | Yes |
 | social.paladyn.org | No |
@@ -2425,6 +2428,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | stonerkitty.monster | No |
 | stoopid.club | No |
 | straylight.expectnomore.net | No |
+| stream.tommi.space | No |
 | strelizia.net | No |
 | sts.lqt.moe | No |
 | stubn.hallertau.social | No |
@@ -2610,16 +2614,15 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | uhouho.xyz | Yes |
 | ukadon.shillest.net | No |
 | uluka.otsoku.me | No |
+| um.lugarzinho.top | No |
 | uma.milkey.homes | Yes |
 | umaskey.net | Yes |
 | umastodon.net | No |
 | unbound.social | No |
-| unclealbie.com | No |
 | under-bank.blue | No |
 | underground-side-kochira-kotonoha.xyz | No |
 | unexpected.singleuser.club | No |
 | unipar.online | No |
-| unkomaker.hostdon.ne.jp | Yes |
 | unkworks.net | No |
 | unmensch.xyz | No |
 | unnerv.jp | No |
@@ -2677,7 +2680,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | wandel.social | No |
 | wandering.shop | No |
 | wandzeitung.xyz | No |
-| warm.rocks | No |
 | watadon.com | No |
 | we.1being.org | No |
 | weeaboo.space | No |
@@ -2745,7 +2747,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | yukari.cafe | Yes |
 | yumehaki.club | No |
 | yumisskey.net | No |
-| yys.ink | No |
 | yysk.icu | No |
 | z.fedipen.xyz | No |
 | z.macgirvin.com | No |
@@ -2772,7 +2773,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 516 |
+| Cloudflare | 517 |
 | Normal | 2,219 |
 
 
