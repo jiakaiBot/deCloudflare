@@ -7,6 +7,8 @@
 
 
 
+- Like somehow Bitcoin already grew the fuck up from a toddler to the fuckery that is the manipulated stock market. Like POOF, measure it the same way… and go! Someone tell these hoz that my Cloudflare stock is worth more than my Apple stock, and that’s just due to nonsense. ([my_fractalmind](https://twitter.com/my_fractalmind/status/1467134880622514181))
+- Don’t get me wrong I appreciate your effort and trust in you. I just say this bridge pretends security where there isn‘t any. As soon as there’re serious services available via hns, a bridge run by some scammers called „secure“ (even confirmed by browser) is a real threat. mitm ([befranz_](https://twitter.com/befranz_/status/1467134430561153028))
 - when Cloudflare shows a capture screen before the site opens it seems to stop mobile Metamask working through the browser. When it doesn't show the wallet works. ([robert53646087](https://twitter.com/Robert53646087/status/1467074506728644609))
 - Because if they just decided 'fuck cloudflare' and null routed it, that's hilarious ([da_667](https://twitter.com/da_667/status/1466842589009788932))
 - 7) With respect to Cloudflare - there is 2FA. How the fuck did the hacker get access to an admin API key to inject their own javascript when should have had 2FA setup and if 2FA was setup, how did this hacker gain access? I am baffled. ([convexical](https://twitter.com/convexical/status/1466689338301980672))
