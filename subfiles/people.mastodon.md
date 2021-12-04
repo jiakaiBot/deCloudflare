@@ -7,6 +7,7 @@
 
 
 
+- Oh and opensea is cloudflared, because why wouldn't it be? ([linux_in_a_bit](https://linuxrocks.online/@Linux_in_a_Bit/107390511054614523))
 - it's pretty cool how cheap backblaze is for cloud storage $5/TB/month. and the download costs that exist can be bypassed by setting up cloudflare ([ralismark](https://fosstodon.org/@ralismark/107388987728981079))
 - Here I mention invidious-us.kavin.rocks which is on cloudflare ([clacke](https://libranet.de/display/0b6b25a8-1461-aafd-722a-745358230933))
 - And then here I ask @altlink to cloudflaretest the parent post ([clacke](https://libranet.de/display/0b6b25a8-2161-aafd-9f3d-62c058332489))
