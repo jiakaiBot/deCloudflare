@@ -623,7 +623,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gaze.live-on.net | No |
 | gazette.live | No |
 | gearlandia.haus | Yes |
-| gececibaykus.com | No |
 | geekcompass.com | Yes |
 | geislingen.net | Yes |
 | genau.qwertqwefsday.eu | No |
@@ -1099,7 +1098,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.bayern | Yes |
 | mastodon.bida.im | No |
 | mastodon.bits-und-baeume.org | No |
-| mastodon.blake-hofer.net | No |
 | mastodon.buzhangjiuzhou.com | Yes |
 | mastodon.cardina1.red | No |
 | mastodon.care-tags.org | No |
@@ -1288,7 +1286,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.wivodaim.net | No |
 | mastodon.xy-space.de | No |
 | mastodon.xyz | No |
-| mastodon.yantou.co | Yes |
 | mastodon.yyyyy.world | No |
 | mastodon.z27.ch | No |
 | mastodon.zaclys.com | No |
@@ -1670,7 +1667,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | onlycasino.legal | Yes |
 | onlyfeds.cc | Yes |
 | onsen-musume.fun | Yes |
-| oo.tc | No |
 | oour.org | No |
 | openbiblio.social | No |
 | opensocial.at | No |
@@ -1718,6 +1714,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | paypig.org | Yes |
 | pcgamer.social | Yes |
 | pdx.social | No |
+| pedo.school | No |
 | penguicon.social | No |
 | persadon.com | No |
 | petertodd.org | No |
@@ -1799,7 +1796,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.chez-papy-daarky.ovh | No |
 | pleroma.crowesnest.io | No |
 | pleroma.cybervalley.org | No |
-| pleroma.dark-alexandr.net | No |
 | pleroma.debian.social | No |
 | pleroma.doserver.duckdns.org | No |
 | pleroma.dragonborn.app | No |
@@ -1844,7 +1840,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.noellabo.jp | Yes |
 | pleroma.nthomas20.net | No |
 | pleroma.p4g.club | Yes |
-| pleroma.pixificial.xyz | No |
 | pleroma.popolon.org | No |
 | pleroma.poslovitch.fr | No |
 | pleroma.pt | No |
@@ -2060,8 +2055,10 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | signs.codes | No |
 | silkhe.art | Yes |
 | simkey.net | Yes |
+| sindicato.social | No |
 | sirius1228.space | Yes |
 | sitedethib.com | No |
+| skeleton.cool | No |
 | ski.na2na.website | Yes |
 | skippers-bin.com | Yes |
 | skoops.social | No |
@@ -2771,8 +2768,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 517 |
-| Normal | 2,217 |
+| Cloudflare | 516 |
+| Normal | 2,215 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
