@@ -7,6 +7,7 @@
 
 
 
+- when Cloudflare shows a capture screen before the site opens it seems to stop mobile Metamask working through the browser. When it doesn't show the wallet works. ([robert53646087](https://twitter.com/Robert53646087/status/1467074506728644609))
 - Because if they just decided 'fuck cloudflare' and null routed it, that's hilarious ([da_667](https://twitter.com/da_667/status/1466842589009788932))
 - 7) With respect to Cloudflare - there is 2FA. How the fuck did the hacker get access to an admin API key to inject their own javascript when should have had 2FA setup and if 2FA was setup, how did this hacker gain access? I am baffled. ([convexical](https://twitter.com/convexical/status/1466689338301980672))
 - 5) Eventually the hacker had enough accounts to go after - and decided to execute their attack. 6) Regardless of the outcome - a lot still doesn't make sense. How the fuck does a hacker get access to a website's Cloudflare global CDN API key in the first place? :( ([convexical](https://twitter.com/convexical/status/1466684551158280192))
