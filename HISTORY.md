@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-12-03: [Distributed Web Gateway](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/651d1q004d92)
 - 2021-12-02: [Issues with Cloudflare Gateway](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0cypgwhs90st)
 - 2021-11-30: [Network Performance Issues in Atlanta, GA, United States](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7tmqv7ly3g3w)
 - 2021-11-26: [Customer Impacting Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wwznzm48txw8)
