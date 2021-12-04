@@ -497,6 +497,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.nekojanai.xyz | No |
 | fedi.neon.moe | No |
 | fedi.nullob.si | Yes |
+| fedi.sabatino.pro | No |
 | fedi.scd31.com | No |
 | fedi.skladka.net | No |
 | fedi.tesaguri.club | No |
@@ -727,6 +728,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | homo.dev | No |
 | homoo.social | No |
 | honi.club | No |
+| honiskey.kmlg.jp | No |
 | honkwerx.tech | No |
 | horche.demkontinuum.de | No |
 | hostsharing.coop | No |
@@ -1008,6 +1010,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.jinwei.me | Yes |
 | m.kirishima.cloud | No |
 | m.kretschmann.social | No |
+| m.moec.top | No |
 | m.mtlynch.io | No |
 | m.nebula.moe | Yes |
 | m.nintendojo.fr | No |
@@ -1256,6 +1259,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.sk | No |
 | mastodon.sngsk.info | No |
 | mastodon.social | No |
+| mastodon.someotherguy.xyz | No |
 | mastodon.starshipchangeling.net | No |
 | mastodon.start9labs.com | Yes |
 | mastodon.stefofficiel.me | No |
@@ -1265,7 +1269,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.tedomum.net | No |
 | mastodon.tekdmn.me | No |
 | mastodon.tetaneutral.net | No |
-| mastodon.thewarrens.name | No |
 | mastodon.tiennot.net | No |
 | mastodon.toeushimwk.work | No |
 | mastodon.tojo.tokyo | No |
@@ -1341,7 +1344,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | metu.life | No |
 | mewl.me | Yes |
 | mewvinerse.masto.host | No |
-| mhp.singleuser.club | No |
 | mhz.social | No |
 | mi.7ka.org | No |
 | mi.les-requin.net | No |
@@ -1890,6 +1892,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | posting.lolicon.rocks | No |
 | potate.space | No |
 | pouet.april.org | No |
+| pouet.ca | No |
 | pouet.chapril.org | No |
 | pouet.grossard.fr | No |
 | pouet.it | No |
@@ -2727,6 +2730,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | yakumo.foundation | Yes |
 | yamagadon.com | No |
 | yamaken.jp | Yes |
+| yancang.lingy.in | No |
 | yeahnahcunt.club | No |
 | yggdrasil.social | No |
 | ygo.pub | Yes |
@@ -2769,7 +2773,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 516 |
-| Normal | 2,215 |
+| Normal | 2,219 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
