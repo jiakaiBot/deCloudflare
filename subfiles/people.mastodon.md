@@ -7,6 +7,7 @@
 
 
 
+- it's pretty cool how cheap backblaze is for cloud storage $5/TB/month. and the download costs that exist can be bypassed by setting up cloudflare ([ralismark](https://fosstodon.org/@ralismark/107388987728981079))
 - Here I mention invidious-us.kavin.rocks which is on cloudflare ([clacke](https://libranet.de/display/0b6b25a8-1461-aafd-722a-745358230933))
 - And then here I ask @altlink to cloudflaretest the parent post ([clacke](https://libranet.de/display/0b6b25a8-2161-aafd-9f3d-62c058332489))
 - @aito If you block Amazon, Cloudflare, Google and Microsoft the internet really gets… leaner. wink ([dsfgs](https://activism.openworlds.info/@dsfgs/107384952414819243))
