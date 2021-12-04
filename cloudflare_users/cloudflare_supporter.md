@@ -1321,6 +1321,7 @@ Do not create new issue or we will close it as duplicate.
 | [DishaDidi3@twitter](https://twitter.com/DishaDidi3/status/1387742143855222790) | advertise |
 | [divy83381142@twitter](https://twitter.com/divy83381142/status/1405595079176196100) | advertise |
 | [DJArun12@twitter](https://twitter.com/DJArun12/status/1387112679576272897) | advertise |
+| [djismgaming@twitter](https://twitter.com/djismgaming/status/1467128896416104457) | advertise |
 | [DJojotay@twitter](https://twitter.com/DJojotay/status/1391966148896313345) | advertise |
 | [Djongov@twitter](https://twitter.com/Djongov/status/1445299786047963138) | advertise |
 | [DJzVanNa@twitter](https://twitter.com/DJzVanNa/status/1384131916484399120) | advertise |
@@ -4727,6 +4728,7 @@ Do not create new issue or we will close it as duplicate.
 | [RealFTG2@twitter](https://twitter.com/RealFTG2/status/1425143438551490564) | advertise |
 | [reallif81930874@twitter](https://twitter.com/reallif81930874/status/1392978030725722115) | advertise |
 | [Realscenephoto1@twitter](https://twitter.com/Realscenephoto1/status/1379524143440396288) | advertise |
+| [realshherr@twitter](https://twitter.com/realshherr/status/1467100098819731457) | advertise |
 | [RealtonyX@twitter](https://twitter.com/RealtonyX/status/1396496712273960961) | advertise |
 | [Rebeccamauni990@twitter](https://twitter.com/Rebeccamauni990/status/1400455125726994442) | advertise |
 | [Rebel46022752@twitter](https://twitter.com/Rebel46022752/status/1394979060628000772) | advertise |
