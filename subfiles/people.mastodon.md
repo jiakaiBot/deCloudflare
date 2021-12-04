@@ -7,6 +7,8 @@
 
 
 
+- Here I mention invidious-us.kavin.rocks which is on cloudflare ([clacke](https://libranet.de/display/0b6b25a8-1461-aafd-722a-745358230933))
+- And then here I ask @altlink to cloudflaretest the parent post ([clacke](https://libranet.de/display/0b6b25a8-2161-aafd-9f3d-62c058332489))
 - @aito If you block Amazon, Cloudflare, Google and Microsoft the internet really gets… leaner. wink ([dsfgs](https://activism.openworlds.info/@dsfgs/107384952414819243))
 - Driving in San Francisco. Just passed Cloudflare. Apparently the internet archive got hold of a nice church here. If the cloud is a place, it's in San Francisco. ([binyamin](https://mas.to/@binyamin/107381914320252637))
 - Today, a building that host Indonesia Internet eXchange having a fire, and thus causing internet disruption over every corner of data center and ISP in Indonesia. My Misskey instance would probably affected by this. Since its hosted on Indonesia server. Even though i proxied it on Cloudflare, expect a slow down soon in next few days. ([sandycorzeta](https://misskey.id/notes/8tseav11o6))
