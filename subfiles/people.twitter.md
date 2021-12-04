@@ -7,6 +7,7 @@
 
 
 
+- It's a fair point that you bring up, I suppose I'll test it :) I suspect no, though. Mainly because Proton and Mullvad's VPN exit's are always heavily scrutinized by Cloudflare and Captcha services as well as on many blacklists. ([notdan](https://twitter.com/notdan/status/1467230904007344131))
 - Like somehow Bitcoin already grew the fuck up from a toddler to the fuckery that is the manipulated stock market. Like POOF, measure it the same way… and go! Someone tell these hoz that my Cloudflare stock is worth more than my Apple stock, and that’s just due to nonsense. ([my_fractalmind](https://twitter.com/my_fractalmind/status/1467134880622514181))
 - Don’t get me wrong I appreciate your effort and trust in you. I just say this bridge pretends security where there isn‘t any. As soon as there’re serious services available via hns, a bridge run by some scammers called „secure“ (even confirmed by browser) is a real threat. mitm ([befranz_](https://twitter.com/befranz_/status/1467134430561153028))
 - when Cloudflare shows a capture screen before the site opens it seems to stop mobile Metamask working through the browser. When it doesn't show the wallet works. ([robert53646087](https://twitter.com/Robert53646087/status/1467074506728644609))
