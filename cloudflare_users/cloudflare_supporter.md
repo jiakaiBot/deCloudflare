@@ -2295,6 +2295,7 @@ Do not create new issue or we will close it as duplicate.
 | [JaeRinKim7@twitter](https://twitter.com/JaeRinKim7/status/1396481821047607300) | advertise |
 | [Jagdish70911049@twitter](https://twitter.com/Jagdish70911049/status/1383679712208199682) | advertise |
 | [JahanTulip@twitter](https://twitter.com/JahanTulip/status/1394853895973720064) | advertise |
+| [Jaiverb4645T@twitter](https://twitter.com/Jaiverb4645T/status/1466842806832361474) | advertise |
 | [jajaja7274@twitter](https://twitter.com/jajaja7274/status/1386795948395929606) | advertise |
 | [Jaka39455443@twitter](https://twitter.com/Jaka39455443/status/1392517048874373121) | advertise |
 | [JakaSem54464388@twitter](https://twitter.com/JakaSem54464388/status/1390018389465178112) | advertise |
@@ -5431,6 +5432,7 @@ Do not create new issue or we will close it as duplicate.
 | [Teddy2100@twitter](https://twitter.com/Teddy2100/status/1379049599210512384) | advertise |
 | [teegrpm2@twitter](https://twitter.com/teegrpm2/status/1397899934540566532) | advertise |
 | [teera00pai@twitter](https://twitter.com/teera00pai/status/1402357610175631361) | advertise |
+| [tegvr@twitter](https://twitter.com/tegvr/status/1466878430239100929) | advertise |
 | [tekakenji@twitter](https://twitter.com/tekakenji/status/1378831679356215296) | advertise |
 | [Tekkenz2@twitter](https://twitter.com/Tekkenz2/status/1400160711297277954) | advertise |
 | [Telehein2@twitter](https://twitter.com/Telehein2/status/1395541369725149187) | advertise |
@@ -5700,6 +5702,7 @@ Do not create new issue or we will close it as duplicate.
 | [tiger_brow@twitter](https://twitter.com/tiger_brow/status/1389978013996097536) | advertise |
 | [Tiii60222842@twitter](https://twitter.com/Tiii60222842/status/1381243276804513796) | advertise |
 | [TikkhaVen@twitter](https://twitter.com/TikkhaVen/status/1390583202595672069) | advertise |
+| [timmlyons@twitter](https://twitter.com/timmlyons/status/1466844861571559431) | advertise |
 | [timothyupai@twitter](https://twitter.com/timothyupai/status/1382488921200750593) | advertise |
 | [TimReckner@twitter](https://twitter.com/TimReckner/status/1380275100797263872) | advertise |
 | [timsmith23@twitter](https://twitter.com/timsmith23/status/1419059313927016451) | advertise |
