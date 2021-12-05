@@ -55,7 +55,7 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 
 ### How to Subscribe
 
-1. Follow [Alternative Link (AL)](https://mamot.fr/@altlink).
+1. Follow [Alternative Link (AL)](https://why.bother/@mitigator).
   - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking altlink.
 
 | 🖼 | 🖼 |
@@ -165,4 +165,4 @@ For your poster/meme needs.
 - ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared/fediverse.md)
 - ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared/shared_mastodon.md)
 
-<a rel="me" href="https://mastodon.ethibox.fr/@mitigator"></a>
+<a rel="me" href="https://why.bother/@mitigator"></a>
