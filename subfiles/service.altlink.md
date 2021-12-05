@@ -165,4 +165,4 @@ For your poster/meme needs.
 - ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared/fediverse.md)
 - ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared/shared_mastodon.md)
 
-<a rel="me" href="https://mamot.fr/@altlink"></a>
+<a rel="me" href="https://mastodon.ethibox.fr/@mitigator"></a>
