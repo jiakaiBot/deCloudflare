@@ -196,6 +196,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | booktoot.club | No |
 | bookwor.ms | No |
 | boseburo.ddns.net | No |
+| botnet.social | No |
 | bots.franssen.xyz | No |
 | bots.monado.ren | Yes |
 | botsin.space | No |
@@ -233,7 +234,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | campduffel.social | No |
 | canada.masto.host | No |
 | candypolis.app | No |
-| cantos.social | No |
 | caonima.wtf | No |
 | capybara.social | No |
 | cassone.social | No |
@@ -247,7 +247,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | caw.ai | No |
 | cawfee.club | No |
 | cb.janusworx.com | No |
-| cbcmelbourne.life | No |
 | cdrom.tokyo | No |
 | cdstm.ch | No |
 | chabant.social | No |
@@ -358,6 +357,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | digineko.net | No |
 | digipres.club | No |
 | digitalcourage.social | No |
+| digitan.cf | No |
 | digitan.ga | No |
 | dindon.one | No |
 | dingdash.com | No |
@@ -377,6 +377,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | dog.estate | No |
 | don.bitma.st | No |
 | don.crakac.com | No |
+| don.fetus.jp | No |
 | don.gomasy.jp | Yes |
 | don.m2hq.net | No |
 | don.mamemo.online | Yes |
@@ -606,13 +607,13 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | frogmob.life | No |
 | froth.zone | No |
 | fsmi.social | Yes |
+| fucking.kaaa.ren | No |
 | fud.nu | No |
 | fulda.social | No |
 | fumi.39.gy | No |
 | functional.cafe | Yes |
 | furrylife.online | Yes |
 | futen.work | No |
-| fuzz.network | No |
 | fuzzy.systems | No |
 | fv.cottongin.xyz | Yes |
 | g0v.social | No |
@@ -625,7 +626,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gayhorse.club | No |
 | gayrobot.club | No |
 | gaze.live-on.net | No |
-| gazette.live | No |
 | gearlandia.haus | Yes |
 | geekcompass.com | Yes |
 | geislingen.net | Yes |
@@ -875,7 +875,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | key.erica.moe | No |
 | keybored.me | No |
 | kfem.cat | No |
-| khajiit.tech | Yes |
 | khat.komitea.fi | No |
 | khiar.net | Yes |
 | khp.ignorelist.com | Yes |
@@ -1761,7 +1760,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pl.murky.club | No |
 | pl.nikotile.xyz | Yes |
 | pl.nudie.social | No |
-| pl.poo.li | No |
 | pl.pube.tk | No |
 | pl.qorg11.net | No |
 | pl.remote-shell.net | No |
@@ -1940,7 +1938,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | r3pek.org | No |
 | ra-phi.ch | No |
 | radiosocial.de | No |
-| rafting.io | No |
 | rage.lol | No |
 | rage.love | No |
 | raggedfeathers.com | No |
@@ -2016,7 +2013,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | saturno.com.ve | No |
 | satzfetzen.de | No |
 | sauropods.win | No |
-| sayit.world | No |
 | sbpk.fr | Yes |
 | scalie.business | No |
 | scalie.club | No |
@@ -2044,6 +2040,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sendero.social | No |
 | sf.social | No |
 | sfba.social | No |
+| sgp.hostdon.ne.jp | Yes |
 | shadowverdon.info | No |
 | share.elouworld.org | No |
 | sheikah.online | No |
@@ -2303,7 +2300,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.prepedia.org | No |
 | social.primeos.dev | No |
 | social.pyngu.com | No |
-| social.qaq.wiki | Yes |
 | social.qownnotes.org | Yes |
 | social.quodverum.com | No |
 | social.rat.cafe | No |
@@ -2768,8 +2764,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 515 |
-| Normal | 2,216 |
+| Cloudflare | 514 |
+| Normal | 2,213 |
 
 
-### 18.9% of public Fediverse services are using Cloudflare.
+### 18.8% of public Fediverse services are using Cloudflare.
