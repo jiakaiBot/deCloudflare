@@ -130,6 +130,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | babymetal.party | No |
 | backyard.cloud | No |
 | badgay.net | No |
+| bae.st | No |
 | banana.dog | Yes |
 | bananachips.club | No |
 | bangdream.space | Yes |
@@ -838,7 +839,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | jasette.facil.services | No |
 | jauntygoat.net | No |
 | jawns.club | No |
-| jepsen.io | No |
 | jergefelt.se | No |
 | jibun.club | No |
 | jigglypuff.club | No |
@@ -1564,7 +1564,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mustardon.tokyo | No |
 | mutual.tls.zone | Yes |
 | my.elven.pw | No |
-| my.privacymatters.pro | No |
 | my0.net | No |
 | myasstodon.xyz | No |
 | mycrowd.ca | No |
@@ -1638,7 +1637,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | nrw.social | No |
 | ns.auction | No |
 | nuklear.family | No |
-| nulled.pink | Yes |
 | nvdc.eu | No |
 | nya.coffee | Yes |
 | nya.lemonade.moe | Yes |
@@ -2017,6 +2015,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sarcasm.stream | No |
 | saturno.com.ve | No |
 | satzfetzen.de | No |
+| sauropods.win | No |
 | sayit.world | No |
 | sbpk.fr | Yes |
 | scalie.business | No |
@@ -2036,6 +2035,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | seaofog.com | Yes |
 | seaswallow.me | No |
 | sect.sunbutt.faith | No |
+| sectorinf.com | No |
 | seizemeans.com | No |
 | selfy.army | No |
 | sementerrori.st | No |
@@ -2126,7 +2126,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.alesan.io | No |
 | social.alternativebit.fr | No |
 | social.alyve.be | No |
-| social.anartist.org | No |
 | social.ancreport.com | No |
 | social.anon-groups.de | No |
 | social.anotherlooser.eu | No |
@@ -2185,7 +2184,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.drastical.tech | Yes |
 | social.dropbear.xyz | Yes |
 | social.dryusdan.fr | No |
-| social.dsmouse.net | No |
 | social.emisocks.com | No |
 | social.epenguin.com | Yes |
 | social.epyisageek.net | No |
@@ -2312,7 +2310,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.realnephestate.xyz | No |
 | social.rebellion.global | No |
 | social.regenpfeifer.net | No |
-| social.remnantrisingnow.com | No |
 | social.rights.ninja | Yes |
 | social.rooty.fr | No |
 | social.rousselie.name | No |
@@ -2334,7 +2331,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.shadyvalley.net | No |
 | social.simcu.com | No |
 | social.skewed.de | No |
-| social.skiqqy.xyz | No |
 | social.skrep.eu | No |
 | social.skrep.in | No |
 | social.slat.org | No |
@@ -2342,7 +2338,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.solibre.de | No |
 | social.sp-codes.de | No |
 | social.ssbx.dev | No |
-| social.stephane-klein.info | Yes |
 | social.stracknet.com | No |
 | social.sunnypup.io | No |
 | social.surfnet.space | No |
@@ -2407,7 +2402,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sp.kub2091.ru | No |
 | spank.ws | No |
 | spanner.works | No |
-| spheres.solarnight.net | No |
 | spinster.xyz | Yes |
 | spiral.sh | No |
 | springbo.cc | No |
@@ -2712,6 +2706,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | wue.social | No |
 | wug.fun | Yes |
 | wuppo.allowed.org | No |
+| www.5dollah.click | No |
 | www.banepo.st | No |
 | www.i-kaohsiung.com | No |
 | www.librepunk.club | No |
@@ -2773,8 +2768,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 517 |
-| Normal | 2,219 |
+| Cloudflare | 515 |
+| Normal | 2,216 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
