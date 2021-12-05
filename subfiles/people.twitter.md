@@ -7,6 +7,7 @@
 
 
 
+- I don't get this. Encoding html entities isn't that hard. Is this just Cloudflare AI learning and blocking your different attacks, but the page owner is not really doing anything to mitigate? 🤔 ([fruchti](https://twitter.com/Fruchti/status/1467448762914197504))
 - i experience the same :( seems like cloudflare blocked our ip address. ([ddmnq_9](https://twitter.com/ddmnq_9/status/1467378682335350785))
 - hello cloudflare, I have a problem with the vpn connection, because the connection is very long and the internet is getting low, please fix it The connection problem is in the southeast asia part Cloudflare the best vpn in the world.!!! :) ([hans5william](https://twitter.com/Hans5William/status/1464856441223663616))
 - Never done saw this URL access error before: " Error 1020 Ray ID: 6b8a4a06ef6982ff • 2021-12-05 03:46:44 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 6b8a4a06ef6982ff •" ([gah](https://twitter.com/gah/status/1467340239106723841))
