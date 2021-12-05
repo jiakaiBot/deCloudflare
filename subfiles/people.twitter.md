@@ -7,6 +7,8 @@
 
 
 
+- i experience the same :( seems like cloudflare blocked our ip address. ([ddmnq_9](https://twitter.com/ddmnq_9/status/1467378682335350785))
+- hello cloudflare, I have a problem with the vpn connection, because the connection is very long and the internet is getting low, please fix it The connection problem is in the southeast asia part Cloudflare the best vpn in the world.!!! :) ([hans5william](https://twitter.com/Hans5William/status/1464856441223663616))
 - Never done saw this URL access error before: " Error 1020 Ray ID: 6b8a4a06ef6982ff • 2021-12-05 03:46:44 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 6b8a4a06ef6982ff •" ([gah](https://twitter.com/gah/status/1467340239106723841))
 - FA's being weird, I go to my sub notifications and I get hit with a CloudFlare error page. o.o ([harleymooney3](https://twitter.com/HarleyMooney3/status/1467257131422212096))
 - It's a fair point that you bring up, I suppose I'll test it :) I suspect no, though. Mainly because Proton and Mullvad's VPN exit's are always heavily scrutinized by Cloudflare and Captcha services as well as on many blacklists. ([notdan](https://twitter.com/notdan/status/1467230904007344131))
