@@ -7,6 +7,7 @@
 
 
 
+- Never done saw this URL access error before: " Error 1020 Ray ID: 6b8a4a06ef6982ff • 2021-12-05 03:46:44 UTC Access denied What happened? This website is using a security service to protect itself from online attacks. Cloudflare Ray ID: 6b8a4a06ef6982ff •" ([gah](https://twitter.com/gah/status/1467340239106723841))
 - FA's being weird, I go to my sub notifications and I get hit with a CloudFlare error page. o.o ([harleymooney3](https://twitter.com/HarleyMooney3/status/1467257131422212096))
 - It's a fair point that you bring up, I suppose I'll test it :) I suspect no, though. Mainly because Proton and Mullvad's VPN exit's are always heavily scrutinized by Cloudflare and Captcha services as well as on many blacklists. ([notdan](https://twitter.com/notdan/status/1467230904007344131))
 - Like somehow Bitcoin already grew the fuck up from a toddler to the fuckery that is the manipulated stock market. Like POOF, measure it the same way… and go! Someone tell these hoz that my Cloudflare stock is worth more than my Apple stock, and that’s just due to nonsense. ([my_fractalmind](https://twitter.com/my_fractalmind/status/1467134880622514181))
