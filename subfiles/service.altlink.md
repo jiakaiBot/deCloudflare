@@ -56,6 +56,7 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 ### How to Subscribe
 
 1. Follow [MitiGator](https://tvitero.com/@mitigator).
+  - [if you do not have Mastodon account](https://tvitero.com/invite/QToZyibB)
   - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking altlink.
 
 | 🖼 | 🖼 |
@@ -89,13 +90,13 @@ Just send `domain name` or `URL` as `direct message` and AL will answer within 1
 Here's an example.
 
 ```
-@altlink blog.emsisoft.com
+@mitigator blog.emsisoft.com
 ```
 
 You can also query multiple at once / mix domain and URLs
 
 ```
-@altlink
+@mitigator
 en.wikipedia.org
 https://blog.emsisoft.com/wow/
 www.wikimedia.org
@@ -124,7 +125,7 @@ Check my new blog! https://oh.my.god/
 ```
 you reply:
 ```
-Hey @mad_dog, your blog need to do cloudflareTest. @altlink
+Hey @mad_dog, your blog need to do cloudflareTest. @mitigator
 ```
 
 
@@ -142,7 +143,7 @@ Your username part (before `@`) will be masked to protect your privacy.
 
 ### Settings
 
-You can configure AltLink from [this website](https://mitigator.crimeflare.eu.org/).
+You can configure mitigator from [this website](https://mitigator.crimeflare.eu.org/).
 
 
 ### Download PNG Logo
