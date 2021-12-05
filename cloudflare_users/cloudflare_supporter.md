@@ -58,6 +58,7 @@ Do not create new issue or we will close it as duplicate.
 | [4DSxDARK1@twitter](https://twitter.com/4DSxDARK1/status/1379416647505616902) | advertise |
 | [4Taff@twitter](https://twitter.com/4Taff/status/1397536462606831617) | advertise |
 | [6October8@twitter](https://twitter.com/6October8/status/1382415935454199815) | advertise |
+| [6PpXPysVDb3lCRH@twitter](https://twitter.com/6PpXPysVDb3lCRH/status/1467321870181494785) | advertise |
 | [7BsevenV7@twitter](https://twitter.com/7BsevenV7/status/1396360385784160256) | advertise |
 | [7RO1IoBvdGllVm3@twitter](https://twitter.com/7RO1IoBvdGllVm3/status/1389878437985198081) | advertise |
 | [9jaonion@twitter](https://twitter.com/9jaonion/status/1401080253670465536) | advertise |
@@ -991,6 +992,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chakkrit_bank24@twitter](https://twitter.com/Chakkrit_bank24/status/1392631487460114436) | advertise |
 | [ChanAye00073908@twitter](https://twitter.com/ChanAye00073908/status/1390488182332874753) | advertise |
 | [CHANBAE21088600@twitter](https://twitter.com/CHANBAE21088600/status/1392122926711836676) | advertise |
+| [Chancha76116896@twitter](https://twitter.com/Chancha76116896/status/1467508424170618888) | advertise |
 | [change68911673@twitter](https://twitter.com/change68911673/status/1389260007728848898) | advertise |
 | [ChanhyuneeEXOL@twitter](https://twitter.com/ChanhyuneeEXOL/status/1394620855611654148) | advertise |
 | [ChanKoKoKyaw5@twitter](https://twitter.com/ChanKoKoKyaw5/status/1402998806296231937) | advertise |
@@ -1038,6 +1040,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chittu30046511@twitter](https://twitter.com/Chittu30046511/status/1390674946443988996) | advertise |
 | [ChitWinKo17@twitter](https://twitter.com/ChitWinKo17/status/1403612539221471233) | advertise |
 | [chiwebmgmt@twitter](https://twitter.com/chiwebmgmt/status/1427620579910299663) | advertise |
+| [chok_thewa@twitter](https://twitter.com/chok_thewa/status/1467504123083833347) | advertise |
 | [ChoMee34586348@twitter](https://twitter.com/ChoMee34586348/status/1390339608395739136) | advertise |
 | [ChoonHtun@twitter](https://twitter.com/ChoonHtun/status/1380902744744062977) | advertise |
 | [Chop_paza@twitter](https://twitter.com/Chop_paza/status/1394814812010422277) | advertise |
@@ -1900,6 +1903,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hihi35128963@twitter](https://twitter.com/Hihi35128963/status/1381297345791287296) | advertise |
 | [hihihuy1999@twitter](https://twitter.com/hihihuy1999/status/1407318195929710602) | advertise |
 | [HiKoLay02842035@twitter](https://twitter.com/HiKoLay02842035/status/1390312387903852552) | advertise |
+| [hillarykharkhar@twitter](https://twitter.com/hillarykharkhar/status/1467483099995025412) | advertise |
 | [Himank66270084@twitter](https://twitter.com/Himank66270084/status/1395830583175958529) | advertise |
 | [Himashi53980738@twitter](https://twitter.com/Himashi53980738/status/1383701341957103616) | advertise |
 | [HindiBuddy@twitter](https://twitter.com/HindiBuddy/status/1436514354585747459) | advertise |
@@ -3316,6 +3320,7 @@ Do not create new issue or we will close it as duplicate.
 | [mario76150407@twitter](https://twitter.com/mario76150407/status/1391276440331636736) | advertise |
 | [MarionEva1@twitter](https://twitter.com/MarionEva1/status/1400098931434954757) | advertise |
 | [MarioOo47028883@twitter](https://twitter.com/MarioOo47028883/status/1383641203468427265) | advertise |
+| [MarioSeq@twitter](https://twitter.com/MarioSeq/status/1467348092831809537) | advertise |
 | [MarioSt40@twitter](https://twitter.com/MarioSt40/status/1393686702082772993) | advertise |
 | [mariphue@twitter](https://twitter.com/mariphue/status/1391398318329188354) | advertise |
 | [MarkarMark@twitter](https://twitter.com/MarkarMark/status/1401620432868941824) | advertise |
@@ -6202,6 +6207,7 @@ Do not create new issue or we will close it as duplicate.
 | [XanhNai@twitter](https://twitter.com/XanhNai/status/1395198843956862977) | advertise |
 | [Xcite27177012@twitter](https://twitter.com/Xcite27177012/status/1399383013616615424) | advertise |
 | [xcvty9@twitter](https://twitter.com/xcvty9/status/1386351924807495682) | advertise |
+| [xdaysgamer@twitter](https://twitter.com/xdaysgamer/status/1467323990880497666) | advertise |
 | [XeinZai@twitter](https://twitter.com/XeinZai/status/1403649773610151943) | advertise |
 | [Xenza17@twitter](https://twitter.com/Xenza17/status/1382411052709724165) | advertise |
 | [XeroGravity16@twitter](https://twitter.com/XeroGravity16/status/1402320760954228736) | advertise |
