@@ -9,5 +9,4 @@
 
 
 
-<a rel="me" href="https://mastodon.ethibox.fr/@mitigator"></a>
-<a rel="me" href="https://botsin.space/@cloudflaretest"></a>
+<a rel="me" href="https://censored.example/@mitigator"></a>
