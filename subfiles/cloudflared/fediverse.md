@@ -64,6 +64,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | acg.mn | Yes |
 | achi.masto.host | No |
 | activism.openworlds.info | No |
+| aeronavis.felesitas.cloud | No |
 | agora.echelon.pl | No |
 | ahhhhhh.social | No |
 | ahlers.xyz | No |
@@ -95,7 +96,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | anonsys.net | No |
 | antabaka.me | No |
 | anticapitalist.party | Yes |
-| anticitoyen.fr.nf | No |
 | antinetzwerk.de | No |
 | antisocial.science | No |
 | ap.jadiunr.net | Yes |
@@ -503,7 +503,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.nullob.si | Yes |
 | fedi.sabatino.pro | No |
 | fedi.scd31.com | No |
-| fedi.skladka.net | No |
 | fedi.tesaguri.club | No |
 | fedi.underscore.world | No |
 | fedi.xaloc.space | No |
@@ -859,7 +858,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kancolle.social | No |
 | kanina.be | No |
 | kanoa.de | No |
-| kapocs.urbalazs.hu | No |
 | karagedon.com | No |
 | kasma.cyou | No |
 | kawaii.kitsune.cafe | No |
@@ -1238,7 +1236,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.peterbabic.dev | No |
 | mastodon.pirateparty.be | No |
 | mastodon.pirati.cz | Yes |
-| mastodon.poggersinc.com | No |
 | mastodon.postmoderns.info | No |
 | mastodon.potager.org | No |
 | mastodon.potproject.net | No |
@@ -1455,6 +1452,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | moytura.org | No |
 | mrnd.xyz | No |
 | ms.neko.bar | No |
+| msk.hoshisaki-h.com | No |
 | msk.minetaro12.com | Yes |
 | msk.seppuku.club | Yes |
 | mspsocial.net | No |
@@ -1534,6 +1532,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.rinsuki.net | Yes |
 | mstdn.ropo.jp | No |
 | mstdn.ryanak.xyz | Yes |
+| mstdn.ryutoto.com | No |
 | mstdn.schoolidol.club | No |
 | mstdn.social | No |
 | mstdn.sublimer.me | Yes |
@@ -2255,7 +2254,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.ltch.fr | No |
 | social.lukepreston.xyz | No |
 | social.lxsameer.com | Yes |
-| social.main-angler.de | No |
 | social.masked.cloud | No |
 | social.masto.host | No |
 | social.matej-lach.me | No |
@@ -2305,7 +2303,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.rat.cafe | No |
 | social.realnephestate.xyz | No |
 | social.rebellion.global | No |
-| social.regenpfeifer.net | No |
 | social.rights.ninja | Yes |
 | social.rooty.fr | No |
 | social.rousselie.name | No |
@@ -2315,6 +2312,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.s.dhusch.de | No |
 | social.saarland | No |
 | social.sakamoto.gq | No |
+| social.sakura.church | No |
 | social.scholzbande.de | No |
 | social.scribblers.club | No |
 | social.scriptjunkie.us | No |
@@ -2765,7 +2763,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 514 |
-| Normal | 2,213 |
+| Normal | 2,211 |
 
 
-### 18.8% of public Fediverse services are using Cloudflare.
+### 18.9% of public Fediverse services are using Cloudflare.
