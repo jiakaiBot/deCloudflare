@@ -206,7 +206,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | brighteon.social | Yes |
 | brilliantdilletants.masto.host | No |
 | brokenmirror.cc | No |
-| bruder.space | No |
 | bsd.network | No |
 | btc21m.net | No |
 | bub.cat | No |
@@ -234,6 +233,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | campduffel.social | No |
 | canada.masto.host | No |
 | candypolis.app | No |
+| cantos.social | No |
 | caonima.wtf | No |
 | capybara.social | No |
 | cassone.social | No |
@@ -766,6 +766,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hubzilla.eu | No |
 | hubzilla.fkn-systems.de | No |
 | hubzilla.konzurovski.net | No |
+| hubzilla.l-p-d.org | No |
 | hugh.buzz | No |
 | hulvr.com | No |
 | hunk.city | No |
@@ -936,7 +937,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | lesbian.solutions | No |
 | lesbianschool.com | No |
 | letsalllovela.in | Yes |
-| letsrulethe.world | No |
 | lewactwo.pl | No |
 | lewd.pm | No |
 | lewd.town | No |
@@ -1562,6 +1562,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | musicdn.jp | No |
 | mustardon.tokyo | No |
 | mutual.tls.zone | Yes |
+| mw.social | No |
 | my.elven.pw | No |
 | my0.net | No |
 | myasstodon.xyz | No |
@@ -1866,6 +1867,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | plustodon.net | Yes |
 | pm.ernix.jp | No |
 | poa.st | Yes |
+| pod.ryey.icu | No |
 | pod.yargl.com | No |
 | podcastindex.social | No |
 | podlibre.social | No |
@@ -2766,7 +2768,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 515 |
-| Normal | 2,213 |
+| Normal | 2,215 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
