@@ -459,7 +459,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | everything.happens.horse | No |
 | evil.social | Yes |
 | eweg.be | No |
-| exozy.me | No |
 | expired.mentality.rip | No |
 | explosion.party | No |
 | f.3ischn.de | No |
@@ -986,6 +985,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | loves.pizza | No |
 | lsngl.us | No |
 | lubar.me | Yes |
+| luckycat.chat | No |
 | ludosphere.fr | No |
 | lufimianet.jp | No |
 | lugnasad.eu | No |
@@ -1223,7 +1223,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.nu | No |
 | mastodon.nz | No |
 | mastodon.nzoss.nz | No |
-| mastodon.oe74.net | No |
 | mastodon.oeru.org | No |
 | mastodon.oi7.de | No |
 | mastodon.onepointzero.com | Yes |
@@ -1900,6 +1899,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pouet.mickaelgillot.xyz | No |
 | pounced-on.me | No |
 | pouque.net | No |
+| ppl.town | No |
 | pr0mised.life | Yes |
 | precure.ml | No |
 | pret.life | No |
@@ -2664,6 +2664,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | waha.work | No |
 | waifuism.life | No |
 | wake.st | No |
+| waldn.net | No |
 | walkman.social | No |
 | wall.demouliere.eu | No |
 | wallflowersocial.club | No |
@@ -2765,7 +2766,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 515 |
-| Normal | 2,212 |
+| Normal | 2,213 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
