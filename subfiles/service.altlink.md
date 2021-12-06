@@ -29,7 +29,7 @@ It replied to many users who shared CF links publicly.
 
 Not many people reacted it positively. Here is some of them.
 
-- [kemonine@social.holdmybeer.solutions](https://social.holdmybeer.solutions/objects/9479c5be-40df-4ecd-a3fe-0209a9020dfd)
+- kemonine@social.holdmybeer.solutions
 ```
 To the owner of this bot
 You should be ashamed.
@@ -37,7 +37,7 @@ Quit drive by bro'ing our statuses.
 Please fornicate with a pointy stick.
 ```
 
-- [Sylvhem@eldritch.cafe](https://eldritch.cafe/@Sylvhem/102701484501099424)
+- Sylvhem@eldritch.cafe
 ```
 Pointing to a copy rather than the original document if it's still online is bad practice too. Also, you are a very annoying bot.
 ```
@@ -56,12 +56,7 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 ### How to Subscribe
 
 1. Follow [MitiGator](https://tvitero.com/@mitigator).
-  - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking altlink.
-
-| 🖼 | 🖼 |
-| -- | -- |
-| ![](../image/ban_altlink_mastodon.social.jpg) | ![](../image/ban_altlink_eldritch.cafe.jpg) |
-
+  - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking Altlink.
 
 2. AL will follow back you **within an hour**.
   - If you're locking your account, please accept AL's follow request otherwise AL can't read your toots.
@@ -106,7 +101,7 @@ www.wikimedia.org
 
 You can call AltLink into your **public** **discussion** to test `above user's URL`. 
 All you have to do is hit `Reply` button and 
-- Include user `altlink`
+- Mention user `@mitigator`
 - Add the word `cloudflaretest` (case does not matter)
 - Send it as **non-direct** toot
 
@@ -130,11 +125,12 @@ Hey @mad_dog, your blog need to do cloudflareTest. @mitigator
 
 ### Report a problem / Create an Issue
 
+(To use this you need to enable `Circle` option)
 You can create an Issue without git account. Just send a **direct** message.
 And don't worry,
 
-- Multiple mentions (e.g. `@randomUser @altlink @otherUser blah blah blah`)
-- _Public_ message (e.g. `there's a bot called @altlink`)
+- Multiple mentions (e.g. `@randomUser @mitigator @otherUser blah blah blah`)
+- _Public_ message (e.g. `there's a bot called @mitigator`)
 
 ...will be ignored to prevent spam.
 Your username part (before `@`) will be masked to protect your privacy.
