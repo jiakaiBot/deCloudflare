@@ -7,6 +7,7 @@
 
 
 
+- would there be a support ticket that i would not have to go to Twitter in order to get it resolved? We are having an issue where the google bot is being blocked by your cloudflare. your guys gave us the most generic answer we could get without even testing! Help! ([ymeiner](https://twitter.com/ymeiner/status/1467906521455603716))
 - WARNING TO ALL KUCOIN USERS! Cloudflare is being weaponized to deny access to the web server Kucoin is knowing taking funds and keeping them when this happens All retail traders are sent to an endless customer service feedback look that gives them literally no resolution ([mark3tsurf3r](https://twitter.com/Mark3tSurf3r/status/1467469875270623238))
 - WARNING TO ALL KUCOIN USERS! Cloudflare is being weaponized to deny access to the web server Kucoin is knowing taking funds and keeping them when this happens All retail traders are sent to an endless customer service feedback look that gives them literally no resolution ([mark3tsurf3r](https://twitter.com/Mark3tSurf3r/status/1467470016245374978))
 - I don't get this. Encoding html entities isn't that hard. Is this just Cloudflare AI learning and blocking your different attacks, but the page owner is not really doing anything to mitigate? 🤔 ([fruchti](https://twitter.com/Fruchti/status/1467448762914197504))
