@@ -56,6 +56,7 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 ### How to Subscribe
 
 1. Follow [MitiGator](https://101010.pl/@MitiGator).
+  - [Don't have Mastodon account](https://101010.pl/invite/sQ7dpmbg)?
   - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking Altlink.
 
 2. AL will follow back you **within an hour**.
