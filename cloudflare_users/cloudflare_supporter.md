@@ -6603,5 +6603,7 @@ Do not create new issue or we will close it as duplicate.
 | [__JARVlS__@twitter](https://twitter.com/__JARVlS__/status/1399612611314950144) | advertise |
 | [__romanenko@twitter](https://twitter.com/__romanenko/status/1445082921421918210) | advertise |
 | [__Th3J0k3r__@twitter](https://twitter.com/__Th3J0k3r__/status/1389701604677390343) | advertise |
+| [Sylvhem@eldritch.cafe](https://eldritch.cafe/@Sylvhem) | attacked activist; see quote |
+| [makis@tvitero.com](https://tvitero.com/@makis) | Banning account silently; Theft of Follower |
 
 </details>
