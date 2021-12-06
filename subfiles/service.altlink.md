@@ -1,4 +1,4 @@
-# Alternative Link (MitiGator/AltLink)
+# Alternative Link (AltLink/MitiGator)
 
 
 | 🖼 | 🖼 |
@@ -55,7 +55,7 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 
 ### How to Subscribe
 
-1. Follow [MitiGator](https://tvitero.com/@mitigator).
+1. Follow [MitiGator](https://101010.pl/@MitiGator).
   - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking Altlink.
 
 2. AL will follow back you **within an hour**.
