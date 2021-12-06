@@ -674,6 +674,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aye_Blin@twitter](https://twitter.com/Aye_Blin/status/1376746566334050306) | advertise |
 | [AyloheH@twitter](https://twitter.com/AyloheH/status/1381527258838540300) | advertise |
 | [AymanAlasri@twitter](https://twitter.com/AymanAlasri/status/1412577314324586500) | moral (advertise) |
+| [Ayman_A_Moaty@twitter](https://twitter.com/Ayman_A_Moaty/status/1467791359272796163) | advertise |
 | [Aymen02497621@twitter](https://twitter.com/Aymen02497621/status/1399714363494256641) | advertise |
 | [AYOE59667058@twitter](https://twitter.com/AYOE59667058/status/1390252205052076033) | advertise |
 | [AyoubAh78106215@twitter](https://twitter.com/AyoubAh78106215/status/1404756207080861696) | advertise |
@@ -1112,6 +1113,7 @@ Do not create new issue or we will close it as duplicate.
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
+| [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
 | [crisnguyen0809@twitter](https://twitter.com/crisnguyen0809/status/1404837227679555591) | advertise |
 | [crosiderr@twitter](https://twitter.com/crosiderr/status/1379494464545243136) | advertise |
 | [Crush82584793@twitter](https://twitter.com/Crush82584793/status/1396107509656481794) | advertise |
@@ -2221,6 +2223,7 @@ Do not create new issue or we will close it as duplicate.
 | [im_anno@twitter](https://twitter.com/im_anno/status/1404447191993753602) | advertise |
 | [im_daisy95@twitter](https://twitter.com/im_daisy95/status/1399945229822615553) | advertise |
 | [im_Waseem_@twitter](https://twitter.com/im_Waseem_/status/1397220155927715842) | advertise |
+| [inainjan@twitter](https://twitter.com/inainjan/status/1467839890289217545) | advertise |
 | [inaniien@twitter](https://twitter.com/inaniien/status/1398798075980914690) | advertise |
 | [inayamahum1@twitter](https://twitter.com/inayamahum1/status/1391876058496917504) | advertise |
 | [inayatsadat3@twitter](https://twitter.com/inayatsadat3/status/1403027629691842575) | advertise |
@@ -4810,6 +4813,7 @@ Do not create new issue or we will close it as duplicate.
 | [rokki100_@twitter](https://twitter.com/rokki100_/status/1407399657932742659) | advertise |
 | [Rolling_Dementi@twitter](https://twitter.com/Rolling_Dementi/status/1390855197258227713) | advertise |
 | [RoMeo29584493@twitter](https://twitter.com/RoMeo29584493/status/1392289318262116352) | advertise |
+| [romeospidey@twitter](https://twitter.com/romeospidey/status/1467674513194299394) | advertise |
 | [RominTumde@twitter](https://twitter.com/RominTumde/status/1392255755034796032) | advertise |
 | [RonitBose13@twitter](https://twitter.com/RonitBose13/status/1428250137445425157) | advertise |
 | [RonnachaiKammu6@twitter](https://twitter.com/RonnachaiKammu6/status/1382350935758807043) | advertise |
