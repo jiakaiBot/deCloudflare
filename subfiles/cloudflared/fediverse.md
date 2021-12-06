@@ -845,6 +845,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | jmm.kr | Yes |
 | jonleibowitz.social | Yes |
 | jorts.horse | No |
+| jrgnsn.social | No |
 | jubi.life | No |
 | juju.house | No |
 | jumanji.co | No |
@@ -855,6 +856,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kafuka.me | No |
 | kagamisskey.com | Yes |
 | kaisin.cc | No |
+| kanatan.club | Yes |
 | kancolle.social | No |
 | kanina.be | No |
 | kanoa.de | No |
@@ -1590,7 +1592,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | nekoyama.masto.host | No |
 | nemushee.net | Yes |
 | neo.gyara.moe | Yes |
-| nerd.town | No |
 | nerdculture.de | No |
 | nerdica.net | No |
 | net4sw.com | No |
@@ -1796,6 +1797,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.chez-papy-daarky.ovh | No |
 | pleroma.crowesnest.io | No |
 | pleroma.cybervalley.org | No |
+| pleroma.dark-alexandr.net | No |
 | pleroma.debian.social | No |
 | pleroma.doserver.duckdns.org | No |
 | pleroma.dragonborn.app | No |
@@ -2229,7 +2231,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.jesuislibre.net | No |
 | social.jfischer.org | No |
 | social.joschu.ch | No |
-| social.josephschneider.net | No |
 | social.k1ppl.com | Yes |
 | social.kabi.tk | No |
 | social.kartoffelcheetah.eu | No |
@@ -2469,6 +2470,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | teslam.in | Yes |
 | testingmstdn.abcang.net | No |
 | tfl.net.pl | No |
+| tfwnogf.nl | No |
 | tha.closed.social | Yes |
 | the-box.work | No |
 | the-pit.uk | No |
@@ -2495,6 +2497,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ting.cm | No |
 | tiny.tilde.website | No |
 | tkmb.tokyo | No |
+| tmkis.social | No |
 | todon.eu | No |
 | todon.nl | No |
 | togart.de | No |
@@ -2516,7 +2519,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toot.hoec3.de | No |
 | toot.host | No |
 | toot.icyphox.sh | No |
-| toot.io | No |
 | toot.jasonscheirer.com | No |
 | toot.jeena.net | No |
 | toot.koeln | No |
@@ -2762,8 +2764,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 514 |
-| Normal | 2,211 |
+| Cloudflare | 515 |
+| Normal | 2,212 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
