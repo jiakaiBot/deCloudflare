@@ -48,6 +48,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 2137.social | No |
 | 7144.party | No |
 | 60228.dev | Yes |
+| 79120.tours | Yes |
 | 101010.pl | No |
 | a-room-ones-own.me | No |
 | a.nom.pl | No |
@@ -168,6 +169,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | birds.garden | No |
 | biscuit.town | No |
 | bitacadie.com | No |
+| bitcoiner.social | No |
 | bitcoinhackers.org | Yes |
 | bitcoinlizard.net | No |
 | bittube.social | No |
@@ -261,7 +263,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | chillout.chat | Yes |
 | chin-co-ne.co | No |
 | chinwag.org | Yes |
-| chirpi.de | No |
 | chitter.xyz | No |
 | chokecherry.cc | Yes |
 | chungus.cc | No |
@@ -431,6 +432,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | eletusk.club | No |
 | elict.net | No |
 | elle.systems | No |
+| elrubius.fans | No |
 | elsmussols.net | No |
 | elves.forsale | No |
 | elysian.city | No |
@@ -506,6 +508,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.underscore.world | No |
 | fedi.xaloc.space | No |
 | fedi.xerz.one | No |
+| fedi.yuka.dev | No |
 | fedi.z0ne.moe | Yes |
 | fedibird.com | Yes |
 | fedilove.cyou | Yes |
@@ -532,7 +535,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | flanintheface.com | No |
 | flausch.social | No |
 | flokinet.social | No |
-| florianjensen.com | No |
 | floss.social | No |
 | flower.afn.social | No |
 | floyds.io | Yes |
@@ -1190,7 +1192,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.ktachibana.party | Yes |
 | mastodon.kxn4t.tech | No |
 | mastodon.la | Yes |
-| mastodon.ladn.org | No |
 | mastodon.lcavallaro.com | Yes |
 | mastodon.lertsenem.com | No |
 | mastodon.lhin.space | No |
@@ -1208,6 +1209,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.mechanicalmischief.com | No |
 | mastodon.mensoif.cf | No |
 | mastodon.mg | No |
+| mastodon.miku2go.com | No |
 | mastodon.mim-libre.fr | No |
 | mastodon.mit.edu | Yes |
 | mastodon.ml | No |
@@ -1296,6 +1298,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.zergy.net | No |
 | mastodon.zunda.ninja | No |
 | mastodon2.juggler.jp | No |
+| mastodonsocial.ru | No |
 | mastodont.cat | No |
 | mastodontech.de | No |
 | mastodontti.fi | No |
@@ -1411,6 +1414,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.catgirlsfor.science | Yes |
 | mk.comfysnug.space | No |
 | mk.cybre.ninja | No |
+| mk.f72u.net | Yes |
 | mk.fedi.tech | No |
 | mk.iaia.moe | No |
 | mk.lei202.com | Yes |
@@ -2578,7 +2582,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | trunk.mad-scientist.club | No |
 | truska.xyz | No |
 | tryliberty.org | No |
-| tsia.de | No |
 | turbo.chat | No |
 | turkum.site | No |
 | tusk.schoollibraries.net | No |
@@ -2767,8 +2770,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 517 |
-| Normal | 2,213 |
+| Cloudflare | 519 |
+| Normal | 2,214 |
 
 
-### 18.9% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
