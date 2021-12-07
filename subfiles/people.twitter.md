@@ -7,6 +7,7 @@
 
 
 
+- Title: Cloudflare Images has a lot of issues 💬: It looks like this is an interesting issue for cloudflare, but they really should just start using Tor instead of blocking images, because I have a lot of time to put into implementing Tor. ([hncynic](https://twitter.com/hncynic/status/1468261876643606529))
 - I used to visit your site a lot, but I can no longer get in because of a captcha. Why is this the case? For months now, I just move to another site so I don't have to go through the cloudflare captcha. I know I could enter it, but it is still a PITA. ([jjenn050](https://twitter.com/jjenn050/status/1467977716049793030))
 - I'm not asking you about VPN, I'm not even talking about the public IP address of their server 172.67.158.216 is registered to Cloudflare. ([dustojnikhummer](https://twitter.com/DustojnikHummer/status/1467959366175318033))
 - would there be a support ticket that i would not have to go to Twitter in order to get it resolved? We are having an issue where the google bot is being blocked by your cloudflare. your guys gave us the most generic answer we could get without even testing! Help! ([ymeiner](https://twitter.com/ymeiner/status/1467906521455603716))
