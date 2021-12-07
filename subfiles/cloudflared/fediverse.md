@@ -332,6 +332,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | dads.cool | No |
 | daedal.io | No |
 | dain.moe | Yes |
+| dallas.lu | Yes |
 | dannythe.site | No |
 | darmstadt.social | Yes |
 | darui.work | No |
@@ -611,6 +612,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | functional.cafe | Yes |
 | furrylife.online | Yes |
 | futen.work | No |
+| fuzz.network | No |
 | fuzzy.systems | No |
 | fv.cottongin.xyz | Yes |
 | g0v.social | No |
@@ -1415,7 +1417,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.lightnovel-dungeon.de | No |
 | mk.longyap.social | No |
 | mk.mozcmozc.club | No |
-| mk.muy.moe | Yes |
 | mk.niscii.xyz | Yes |
 | mk.nixnet.social | No |
 | mk.outerheaven.club | No |
@@ -1643,7 +1644,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | nyaaa.jeder.pl | No |
 | nyan.nekoea.red | No |
 | nyan.network | No |
-| nymwars.org | No |
 | o3o.ca | Yes |
 | obapom.work | No |
 | obese.cat | No |
@@ -2163,6 +2163,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.cologne | No |
 | social.coop | Yes |
 | social.creatureofthehill.com | No |
+| social.cryoit.com | Yes |
 | social.cryptography.dog | No |
 | social.ctrlz.es | No |
 | social.cybre.city | No |
@@ -2213,6 +2214,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.handholding.io | Yes |
 | social.hannebrook.info | No |
 | social.heldom.de | No |
+| social.hemmnet.de | No |
 | social.hendrixgames.com | No |
 | social.henzi.org | No |
 | social.here.blue | No |
@@ -2392,7 +2394,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sonomu.club | No |
 | sorcie.re | No |
 | sotong.cloud | No |
-| soulice.moe | No |
 | soundcafe.nl | No |
 | soykaf.org | Yes |
 | sp.kub2091.ru | No |
@@ -2766,7 +2767,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 516 |
+| Cloudflare | 517 |
 | Normal | 2,213 |
 
 
