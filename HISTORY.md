@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-12-06: [Customer Impacting Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q8chx806qqhl)
 - 2021-12-06: [Elevated number of 530 errors in TPE](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qhr32pv9vnjw)
 - 2021-12-03: [Distributed Web Gateway](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/651d1q004d92)
 - 2021-12-02: [Issues with Cloudflare Gateway](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0cypgwhs90st)
