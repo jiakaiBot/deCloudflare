@@ -140,6 +140,10 @@ Your username part (before `@`) will be masked to protect your privacy.
 ### Settings
 
 You can configure mitigator from [this website](https://mitigator.crimeflare.eu.org/).
+There are 2 ways:
+- Open above website and follow the steps.
+- _Or_ Send `direct` message to mitigator like this: `@mitigator settings`
+  - Other keywords are explained in above website.
 
 
 ### Download PNG Logo
