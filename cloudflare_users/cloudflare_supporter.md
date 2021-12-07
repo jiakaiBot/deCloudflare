@@ -1630,6 +1630,7 @@ Do not create new issue or we will close it as duplicate.
 | [gabes_hub@twitter](https://twitter.com/gabes_hub/status/1448032264940630023) | advertise |
 | [gabriel_rhee@twitter](https://twitter.com/gabriel_rhee/status/1467554077777489920) | advertise |
 | [gad17@twitter](https://twitter.com/gad17/status/1386581003356065793) | advertise |
+| [GadgetRumours@twitter](https://twitter.com/GadgetRumours/status/1467895967248695305) | advertise |
 | [GAGANDE95206340@twitter](https://twitter.com/GAGANDE95206340/status/1398149233992036353) | advertise |
 | [gaijingen@twitter](https://twitter.com/gaijingen/status/1400023426157346821) | advertise |
 | [gajendr13692528@twitter](https://twitter.com/gajendr13692528/status/1392386664115314689) | advertise |
@@ -3286,6 +3287,7 @@ Do not create new issue or we will close it as duplicate.
 | [maiykael@twitter](https://twitter.com/maiykael/status/1402267022659104779) | advertise |
 | [Majid661594081@twitter](https://twitter.com/Majid661594081/status/1401410937631002632) | advertise |
 | [MajorLinux@twitter](https://twitter.com/MajorLinux/status/1378383167695040517) | advertise |
+| [makis@tvitero.com](https://tvitero.com/@makis) | Banning account silently; Theft of Follower |
 | [makoranx@twitter](https://twitter.com/makoranx/status/1381349393161465857) | advertise |
 | [Makuluone@twitter](https://twitter.com/Makuluone/status/1382812175564165126) | advertise |
 | [Mal2Ley@twitter](https://twitter.com/Mal2Ley/status/1379174264494911490) | advertise |
@@ -5376,6 +5378,7 @@ Do not create new issue or we will close it as duplicate.
 | [SyedZab83487198@twitter](https://twitter.com/SyedZab83487198/status/1389502667391528967) | advertise |
 | [syhmyarff_@twitter](https://twitter.com/syhmyarff_/status/1402492585625591816) | advertise |
 | [Sylla19072446@twitter](https://twitter.com/Sylla19072446/status/1392059309698265088) | advertise |
+| [Sylvhem@eldritch.cafe](https://eldritch.cafe/@Sylvhem) | attacked activist; see quote |
 | [synram981@twitter](https://twitter.com/synram981/status/1390825351383699459) | advertise |
 | [sysdotini@twitter](https://twitter.com/sysdotini/status/1373351911060078592) | advertise |
 | [systemctl_ryoto@twitter](https://twitter.com/systemctl_ryoto/status/1414265903361925124) | advertise |
@@ -6603,7 +6606,5 @@ Do not create new issue or we will close it as duplicate.
 | [__JARVlS__@twitter](https://twitter.com/__JARVlS__/status/1399612611314950144) | advertise |
 | [__romanenko@twitter](https://twitter.com/__romanenko/status/1445082921421918210) | advertise |
 | [__Th3J0k3r__@twitter](https://twitter.com/__Th3J0k3r__/status/1389701604677390343) | advertise |
-| [Sylvhem@eldritch.cafe](https://eldritch.cafe/@Sylvhem) | attacked activist; see quote |
-| [makis@tvitero.com](https://tvitero.com/@makis) | Banning account silently; Theft of Follower |
 
 </details>
