@@ -255,6 +255,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | charlestown.social | No |
 | chat.brainbaking.com | No |
 | chickenfan.club | No |
+| childcare.hostdon.ne.jp | Yes |
 | childpawn.shop | No |
 | chilemasto.casa | No |
 | chillout.chat | Yes |
@@ -321,7 +322,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cute.science | No |
 | cuties.social | No |
 | cybert-media.net | No |
-| cyberverse.bar | No |
 | cybre.space | No |
 | cybre.town | No |
 | cybt.de | No |
@@ -406,7 +406,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | duckchat.me | No |
 | dudu.best | Yes |
 | dumpkin.monster | Yes |
-| dustinwilson.com | No |
 | dyketwitter.masto.host | No |
 | dynlinux.io | No |
 | easy.saramara.ai | No |
@@ -1873,7 +1872,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | podlibre.social | No |
 | podnutz.us | Yes |
 | poils.pachyderme.net | No |
-| point.community | Yes |
 | pokemon.mastportal.info | No |
 | pokemon.men | Yes |
 | pokorny.ca | Yes |
@@ -1906,6 +1904,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | precure.ml | No |
 | pret.life | No |
 | pritter.work | No |
+| programist.ro | Yes |
 | programming.socks.town | No |
 | prolinos.social | No |
 | proprietary.lol | No |
@@ -2052,6 +2051,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | shigusegubu.club | No |
 | shiina.cafe | No |
 | shiro.dog | No |
+| shitcoin.land | Yes |
 | shitpisscum.mooo.com | No |
 | shitpost.poridge.club | No |
 | shitposter.club | No |
@@ -2098,7 +2098,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | snowdon.jp | No |
 | sns-sakura.jp | No |
 | snug.moe | No |
-| soc.citizen4.eu | No |
 | soc.emelyne.eu | No |
 | soc.feilimatrisen.net | No |
 | soc.foxarmy.org | No |
@@ -2128,7 +2127,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.alyve.be | No |
 | social.ancreport.com | No |
 | social.anon-groups.de | No |
-| social.anotherlooser.eu | No |
 | social.anoxinon.de | No |
 | social.anthro.cc | No |
 | social.antifa.gmbh | No |
@@ -2206,6 +2204,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.garwood.io | No |
 | social.gemnoc.ca | No |
 | social.generallyrubbish.net.au | No |
+| social.gerotintin.com | No |
 | social.gl-como.it | No |
 | social.globalpirates.net | No |
 | social.grimneko.de | No |
@@ -2535,7 +2534,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toot.morikka.me | No |
 | toot.party | No |
 | toot.phseiff.com | No |
-| toot.plus.yt | Yes |
 | toot.portes-imaginaire.org | No |
 | toot.rainbow-100.com | No |
 | toot.si | No |
@@ -2582,6 +2580,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tsia.de | No |
 | turbo.chat | No |
 | turkum.site | No |
+| tusk.schoollibraries.net | No |
 | tutut.delire.party | No |
 | tuusin.misono-ya.info | No |
 | tvitero.com | No |
@@ -2767,8 +2766,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 515 |
-| Normal | 2,215 |
+| Cloudflare | 516 |
+| Normal | 2,213 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
