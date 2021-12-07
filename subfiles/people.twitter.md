@@ -7,6 +7,10 @@
 
 
 
+- it doesnt since im blocked by cloudflare on your website for some reason :) ([speedihb2k15](https://twitter.com/Speedihb2k15/status/1468321925646667776))
+- Hey i have been trying to get on to Discord for the last 4 hours and i keep getting update failed and when i try to download the newest version of the app on the website i keep getting cloudflare blocked, care to look into it? :) ([speedihb2k15](https://twitter.com/Speedihb2k15/status/1468321209859325954))
+- Hey! If you have a website, it HAS to have SSL. You can't NOT have it in 2021. If I go to and get an error, its not workable! If you don't know how to do certs and can't figure it out, maybe use Cloudflare's proxying to do it... ([spamresource](https://twitter.com/spamresource/status/1468331316634701824))
+- The last few days Cloudflare has lost the plot with it's human testing captcha. It's asked me about 10 times, and each one has multiple screens of images. I'm kind of busy over here, so I don't have time to label your image datasets for you. ([caerdydd](https://twitter.com/caerdydd/status/1468330206788206594))
 - Good response. Although do hope Cloudflare will stop comparing themselves to niche-players. Should stick with fighting AWS and the likes. ([stocksxl](https://twitter.com/stocksxl/status/1468299104270888974))
 - Hello, it has been about 5 days that the DNS server in my region (Mexico) is inoperative. Can you tell me what is happening? The latency has had a considerable increase and it is so stressful that I am thinking of changing provider ([skywisse](https://twitter.com/skywisse/status/1468275069256413188))
 - Title: Cloudflare Images has a lot of issues 💬: It looks like this is an interesting issue for cloudflare, but they really should just start using Tor instead of blocking images, because I have a lot of time to put into implementing Tor. ([hncynic](https://twitter.com/hncynic/status/1468261876643606529))
