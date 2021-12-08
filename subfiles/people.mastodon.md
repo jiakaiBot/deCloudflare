@@ -7,6 +7,7 @@
 
 
 
+- @bojkotiMalbona Yes, we were about to say same. When services snap back against the MitM attack on #theInternet they are adding value to it. Its not a limitation. Its a free education. The same should be done for #Amazon Cloud, #Azure and Oracle. Blocking #Cloudflare is a feature, not a bug. :) #featureNotABug @kev @tdarb @shom ([dsfgs](https://activism.openworlds.info/@dsfgs/107410814621243485))
 - @kev @tdarb @shom One man’s restriction is another man’s freedom in this case. #Cloudflare is an oppressor on a mass scale as they equip a few people to oppress many. Blocking Cloudflare gives more freedom to more people. Like #freesoftware in a sense, as it disempowers points of power concentration &amp; distributes it more evenly giving human beings more options (e.g. the freedom to use Tor). ([bojkotimalbona](https://infosec.exchange/@bojkotiMalbona/107410340442037451))
 - CloudflareでAPI叩いて証明書発行させると結局どれが使われるのか分からんな ([atsuchan](https://atsuchan.page/@atsuchan/107408487745745976))
 - 2500 FOLLOWERS STILL HOSTAGE (but…) We are happy to report that the volunteer #DeCloudflare service, @MitiGator, is back online, warning us when we boost compromised domains. The transition waters are still murky though, given that the admin over at tvitero.com, #makis, continues to be silent on his apparent the hostage of the 2500 approx followers. Let's hope that ends soon. In the meantime, check out @MitiGator the super-helpful #MitM Prevention Alligator. ([dsfgs](https://activism.openworlds.info/@dsfgs/107406638766092332))
