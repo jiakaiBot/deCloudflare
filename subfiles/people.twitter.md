@@ -7,6 +7,8 @@
 
 
 
+- I forget the name but some of the new age VPNs operate that way more or less. Basically logging into VPN for them means advising Cloudflare to trust the IP that just logged in. ([alexhammy209](https://twitter.com/alexhammy209/status/1468674487218409474))
+- It's the first time I see real attempt from nation states to block Tor itself. Cc: Cloudflare ([generalist_lab](https://twitter.com/Generalist_Lab/status/1468669286218670081))
 - Still not fixed; your agent mentions that cloudflare is not hosting our website but a simple check shows that it is. 48 hours down and still no solution! premiumsupport??? ([fvercrae](https://twitter.com/fvercrae/status/1468653325214232579))
 - I am trying to join a webinar by Unreal on your platform, but am getting a 522 error from cloudflare. Any ideas? Have tried using proxies and no dice. ([timesnewboman](https://twitter.com/timesnewboman/status/1468582208306913285))
 - Help you seem to be not working!! I am getting a Cloudflare error on desktop and error on mobile ([dubsmachine](https://twitter.com/DubsMachine/status/1468523272308502538))
