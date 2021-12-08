@@ -7,6 +7,7 @@
 
 
 
+- Ah great, and I thought Cloudflare was blocking me for some reason. ([t3rtium](https://twitter.com/t3rtium/status/1468519032307519497))
 - WTF friggin Cloudflare wont let me access the site... fuck that centralisation point. Doesnt even load the captcha... just hangs on wtf ([mjmoonbow](https://twitter.com/MJMoonbow/status/1468507003056267267))
 - Airtel is extra-judicially blocking websites with no recourse or transparency. That's bad, but it manages to impact users with no relationship to Airtel, so it's harder to point blame. This is on the regulatory authorities in India to fix (TRAI/DoT). ([captn3m0](https://twitter.com/captn3m0/status/1468471958421471235))
 - Is there a way to stop the captcha appearing for legitimate users ([varunkrish](https://twitter.com/varunkrish/status/1468463515618873344))
