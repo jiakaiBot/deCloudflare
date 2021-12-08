@@ -347,6 +347,7 @@ Or is this merely a case of simple modesty?
 | Chris Conanan | Business Development |  |
 | Chris De La Garza | Employee | [🖼](../image/gang/Chris_De_La_Garza.jpg) |
 | Chris Howells | Systems Reliability Engineer |  |
+| Chris J Arges | Employee | |
 | Chris Jones | Financial Planning |  |
 | Chris Kenney | Partner Sales Manager, Austin |  |
 | Chris Merritt | Chief Revenue Officer |  |
@@ -1178,6 +1179,7 @@ Or is this merely a case of simple modesty?
 | Neerav Kumar | Site Reliability Engineer, Singapore |  |
 | Neha Sood | Sales Operations EMEA |  |
 | Neil Levio | Customer Success |  |
+| Neil Patel | Employee | |
 | Nela Collins | Customer Success | https://uk.linkedin.com/in/nelacollins<br>https://twitter.com/NelaCollins |
 | Nelson A. Blengeri | Employee |  |
 | Nelson Chen | Customer Development |  |
