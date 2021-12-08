@@ -7,6 +7,7 @@
 
 
 
+- CloudflareでAPI叩いて証明書発行させると結局どれが使われるのか分からんな ([atsuchan](https://atsuchan.page/@atsuchan/107408487745745976))
 - 2500 FOLLOWERS STILL HOSTAGE (but…) We are happy to report that the volunteer #DeCloudflare service, @MitiGator, is back online, warning us when we boost compromised domains. The transition waters are still murky though, given that the admin over at tvitero.com, #makis, continues to be silent on his apparent the hostage of the 2500 approx followers. Let's hope that ends soon. In the meantime, check out @MitiGator the super-helpful #MitM Prevention Alligator. ([dsfgs](https://activism.openworlds.info/@dsfgs/107406638766092332))
 - How can #TheIntercept's onionsite be down? Isn't The Intercept hosted by #Cloudflare because it is one of four important-to-independant-news sites we need in order to preserve the optics of a #democracy. Crikey!! (Ed:- Um… #Crikey is also served by Cloudflare, you fool) ([dsfgs](https://activism.openworlds.info/@dsfgs/107406413866138477))
 - EVOLVING STORY: There may've been an organised #cyberAttack on the #deCloudflare service, &quot;#altLink&quot;. It recently underwent changes and needed a new instance to change its name to MitiGator. Why the need to change instances? Well, mamot.fr have #closedRegistrations for new accounts. The new, chosen instance may have lured them to gain follower data and/or destroy the service. It could be a case of #chooseYourInstanceWisely, but we are investigating. More soon. #humanError ([dsfgs](https://activism.openworlds.info/@dsfgs/107398410388852473))
