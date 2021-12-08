@@ -1555,6 +1555,7 @@ Do not create new issue or we will close it as duplicate.
 | [Falcon_0098@twitter](https://twitter.com/Falcon_0098/status/1408452830613147649) | advertise |
 | [Fantasy484@twitter](https://twitter.com/Fantasy484/status/1386774424028803075) | advertise |
 | [FarahAsyiqinAb1@twitter](https://twitter.com/FarahAsyiqinAb1/status/1404207551818862593) | advertise |
+| [FareedAmirul2@twitter](https://twitter.com/FareedAmirul2/status/1468342850953768962) | advertise |
 | [FaresX27@twitter](https://twitter.com/FaresX27/status/1399054260785106952) | advertise |
 | [FarhanAacin@twitter](https://twitter.com/FarhanAacin/status/1379323075624202240) | advertise |
 | [fariborzn1@twitter](https://twitter.com/fariborzn1/status/1391848602469814272) | advertise |
@@ -3987,6 +3988,7 @@ Do not create new issue or we will close it as duplicate.
 | [NerdJunction@twitter](https://twitter.com/NerdJunction/status/1379503700805361668) | advertise |
 | [Net89M@twitter](https://twitter.com/Net89M/status/1389576494750392322) | advertise |
 | [netwizsolutions@twitter](https://twitter.com/netwizsolutions/status/1435732778264453125) | advertise |
+| [NetworksTimesUS@twitter](https://twitter.com/NetworksTimesUS/status/1465907575241658368) | advertise |
 | [networks_times@twitter](https://twitter.com/networks_times/status/1465907575241658368) | advertise |
 | [NetworkThreats@twitter](https://twitter.com/NetworkThreats/status/1384218165878530052) | advertise |
 | [Never87346438@twitter](https://twitter.com/Never87346438/status/1392124512888496128) | advertise |
@@ -4979,6 +4981,7 @@ Do not create new issue or we will close it as duplicate.
 | [SarojNa47285916@twitter](https://twitter.com/SarojNa47285916/status/1400432809362149379) | advertise |
 | [sarsminhtutaung@twitter](https://twitter.com/sarsminhtutaung/status/1398554869951131648) | advertise |
 | [SarufAli18@twitter](https://twitter.com/SarufAli18/status/1394965028504223747) | advertise |
+| [Sasahar07718599@twitter](https://twitter.com/Sasahar07718599/status/1468336592720908295) | advertise |
 | [satepoke@twitter](https://twitter.com/satepoke/status/1377922362394431490) | advertise |
 | [SaTheinThanMoe1@twitter](https://twitter.com/SaTheinThanMoe1/status/1391062225561874434) | advertise |
 | [SathiRa75888185@twitter](https://twitter.com/SathiRa75888185/status/1397477512070926336) | advertise |
@@ -6444,6 +6447,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zabujca997@twitter](https://twitter.com/Zabujca997/status/1371397158809784320) | advertise |
 | [Zack09842097@twitter](https://twitter.com/Zack09842097/status/1391663997229752320) | advertise |
 | [Zack_gaming7@twitter](https://twitter.com/Zack_gaming7/status/1377466204097441792) | advertise |
+| [zac_wembley@twitter](https://twitter.com/zac_wembley/status/1468352743207096322) | advertise |
 | [Zaddy308@twitter](https://twitter.com/Zaddy308/status/1389884813088202753) | advertise |
 | [zahedr@twitter](https://twitter.com/zahedr/status/1404344671778742275) | advertise |
 | [zahrafarouq1@twitter](https://twitter.com/zahrafarouq1/status/1401092958972166147) | advertise |
