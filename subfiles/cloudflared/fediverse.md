@@ -328,6 +328,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cybt.de | No |
 | cypher.social | No |
 | cyrenesavage.com | No |
+| cysioland.pl | No |
 | d.c-cha.cc | No |
 | d.map-le.net | No |
 | dads.cool | No |
@@ -408,6 +409,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | duckchat.me | No |
 | dudu.best | Yes |
 | dumpkin.monster | Yes |
+| dustinwilson.com | No |
 | dyketwitter.masto.host | No |
 | dynlinux.io | No |
 | easy.saramara.ai | No |
@@ -522,7 +524,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | felesitas.cloud | No |
 | fellies.social | No |
 | fem.social | No |
-| ferrovipath.es | No |
 | fet.bar | No |
 | feuerwehr.social | No |
 | ffxiv-mastodon.com | Yes |
@@ -619,6 +620,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fv.cottongin.xyz | Yes |
 | g0v.social | No |
 | gadget.inpocket.net | Yes |
+| gallinula.com | No |
 | gameliberty.club | No |
 | gamelinks007.net | No |
 | gamemaking.social | No |
@@ -1306,7 +1308,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodos.com | No |
 | mastofant.de | No |
 | mastonaut.com | No |
-| mastouille.fr | No |
 | mathstodon.xyz | No |
 | mathtod.online | No |
 | matitodon.com | No |
@@ -1416,6 +1417,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.cybre.ninja | No |
 | mk.f72u.net | Yes |
 | mk.fedi.tech | No |
+| mk.himbeer.me | Yes |
 | mk.iaia.moe | No |
 | mk.lei202.com | Yes |
 | mk.lightnovel-dungeon.de | No |
@@ -1477,7 +1479,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mstdn.barippi.com | No |
 | mstdn.base52.net | No |
 | mstdn.beer | No |
-| mstdn.blue.wirednet.jp | No |
 | mstdn.bmw-and-more.info | No |
 | mstdn.chitose.org | No |
 | mstdn.cloud.themaymeow.com | Yes |
@@ -2770,7 +2771,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 519 |
+| Cloudflare | 520 |
 | Normal | 2,214 |
 
 
