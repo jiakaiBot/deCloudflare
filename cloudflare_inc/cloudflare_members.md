@@ -1554,6 +1554,7 @@ Or is this merely a case of simple modesty?
 | Talha Paracha | Intern |  |
 | Taly Slachevsky | Support Engineer |  |
 | Tanner Ryan | Employee | |
+| Tanushree Sharma | Employee | |
 | Tanvi Agrawal | Business Development |  |
 | Tanya Paige | Recruiting |  |
 | Tanya Verma | Employee | [🖼](../image/gang/Tanya_Verma.jpg) |
