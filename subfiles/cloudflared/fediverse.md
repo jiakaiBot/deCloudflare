@@ -700,6 +700,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | handon.club | Yes |
 | happylittle.cloudns.cc | No |
 | happytobehe.re | No |
+| happytoo.cyou | No |
 | hates.company | No |
 | hax0rbana.social | No |
 | hayu.sh | No |
@@ -766,7 +767,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hubzil.la | No |
 | hubzilla.com.br | No |
 | hubzilla.cyberwald.com | No |
-| hubzilla.dark-alexandr.net | No |
 | hubzilla.eu | No |
 | hubzilla.fkn-systems.de | No |
 | hubzilla.konzurovski.net | No |
@@ -1289,7 +1289,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.white-void.net | No |
 | mastodon.wihel.de | Yes |
 | mastodon.williamrehwinkel.net | No |
-| mastodon.wivodaim.net | No |
 | mastodon.xy-space.de | No |
 | mastodon.xyz | No |
 | mastodon.yyyyy.world | No |
@@ -1668,7 +1667,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | one.telmina.com | No |
 | oninawa.masto.host | No |
 | online-hangout.com | No |
-| onlinegemein.de | No |
 | onlycasino.legal | Yes |
 | onlyfeds.cc | Yes |
 | onsen-musume.fun | Yes |
@@ -1935,6 +1933,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | queer.af | No |
 | queer.garden | No |
 | queer.hacktivis.me | No |
+| queer.haus | No |
 | queer.party | No |
 | queer.town | No |
 | queerdorks.club | No |
@@ -1997,7 +1996,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | runstop.org | No |
 | russtodon.ru | Yes |
 | rustedneuron.com | No |
-| s.cameronheard.com | No |
 | s.chars.jp | Yes |
 | s.knusper-land.de | Yes |
 | s.lono.space | Yes |
@@ -2042,7 +2040,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | seizemeans.com | No |
 | selfy.army | No |
 | sementerrori.st | No |
-| semisol.net | No |
 | semper.social | Yes |
 | sendero.social | No |
 | sf.social | No |
@@ -2139,7 +2136,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.apreslanu.it | No |
 | social.ariona.fr | No |
 | social.as | No |
-| social.ashwalker.net | No |
 | social.atridad.dev | No |
 | social.autonomy.earth | No |
 | social.avery.cafe | No |
@@ -2167,6 +2163,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.cloudron.io | No |
 | social.cologne | No |
 | social.coop | Yes |
+| social.cosnomi.com | Yes |
 | social.creatureofthehill.com | No |
 | social.cryoit.com | Yes |
 | social.cryptography.dog | No |
@@ -2226,7 +2223,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.hoga.fr | No |
 | social.homunyan.com | No |
 | social.ignifi.me | No |
-| social.ignis.link | No |
 | social.igwigg.space | No |
 | social.illegalpornography.com | No |
 | social.imal.org | No |
@@ -2317,7 +2313,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.rt4mn.org | No |
 | social.ruby2sday.net | Yes |
 | social.rustysoft.de | No |
-| social.s.dhusch.de | No |
 | social.saarland | No |
 | social.sakamoto.gq | No |
 | social.sakura.church | No |
@@ -2400,6 +2395,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sotong.cloud | No |
 | soundcafe.nl | No |
 | soykaf.org | Yes |
+| soziale.verwirrung.institute | No |
 | sp.kub2091.ru | No |
 | spank.ws | No |
 | spanner.works | No |
@@ -2525,6 +2521,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toot.hoec3.de | No |
 | toot.host | No |
 | toot.icyphox.sh | No |
+| toot.io | No |
 | toot.jasonscheirer.com | No |
 | toot.jeena.net | No |
 | toot.koeln | No |
@@ -2771,8 +2768,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 520 |
-| Normal | 2,214 |
+| Cloudflare | 521 |
+| Normal | 2,210 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 19.1% of public Fediverse services are using Cloudflare.
