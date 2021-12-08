@@ -7,6 +7,8 @@
 
 
 
+- Airtel is extra-judicially blocking websites with no recourse or transparency. That's bad, but it manages to impact users with no relationship to Airtel, so it's harder to point blame. This is on the regulatory authorities in India to fix (TRAI/DoT). ([captn3m0](https://twitter.com/captn3m0/status/1468471958421471235))
+- Is there a way to stop the captcha appearing for legitimate users ([varunkrish](https://twitter.com/varunkrish/status/1468463515618873344))
 - it doesnt since im blocked by cloudflare on your website for some reason :) ([speedihb2k15](https://twitter.com/Speedihb2k15/status/1468321925646667776))
 - Hey i have been trying to get on to Discord for the last 4 hours and i keep getting update failed and when i try to download the newest version of the app on the website i keep getting cloudflare blocked, care to look into it? :) ([speedihb2k15](https://twitter.com/Speedihb2k15/status/1468321209859325954))
 - Hey! If you have a website, it HAS to have SSL. You can't NOT have it in 2021. If I go to and get an error, its not workable! If you don't know how to do certs and can't figure it out, maybe use Cloudflare's proxying to do it... ([spamresource](https://twitter.com/spamresource/status/1468331316634701824))
