@@ -7,6 +7,7 @@
 
 
 
+- Still not fixed; your agent mentions that cloudflare is not hosting our website but a simple check shows that it is. 48 hours down and still no solution! premiumsupport??? ([fvercrae](https://twitter.com/fvercrae/status/1468653325214232579))
 - I am trying to join a webinar by Unreal on your platform, but am getting a 522 error from cloudflare. Any ideas? Have tried using proxies and no dice. ([timesnewboman](https://twitter.com/timesnewboman/status/1468582208306913285))
 - Help you seem to be not working!! I am getting a Cloudflare error on desktop and error on mobile ([dubsmachine](https://twitter.com/DubsMachine/status/1468523272308502538))
 - Ah great, and I thought Cloudflare was blocking me for some reason. ([t3rtium](https://twitter.com/t3rtium/status/1468519032307519497))
