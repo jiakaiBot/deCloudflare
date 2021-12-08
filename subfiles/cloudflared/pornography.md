@@ -11,18 +11,18 @@ Here's the result.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| com | 9,652 |
-| net | 950 |
-| org | 255 |
-| pro | 234 |
-| tv | 182 |
+| com | 8,657 |
+| net | 826 |
+| org | 237 |
+| pro | 177 |
+| tv | 162 |
 
 
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,310 |
-| Normal | 9,525 |
+| Cloudflare | 3,703 |
+| Normal | 8,561 |
 
 
-### 31.2% of pornographic domains are using Cloudflare.
+### 30.2% of pornographic domains are using Cloudflare.
