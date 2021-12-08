@@ -141,7 +141,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | baraag.net | Yes |
 | barcamp.social | No |
 | barcelona.social | No |
-| barrett.dog | No |
 | based.social | Yes |
 | bbbdn.jp | No |
 | bbs.kawa-kun.com | No |
@@ -2039,6 +2038,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | seaswallow.me | No |
 | sect.sunbutt.faith | No |
 | sectorinf.com | No |
+| securecryptomining.com | No |
 | seizemeans.com | No |
 | selfy.army | No |
 | sementerrori.st | No |
@@ -2313,7 +2313,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.realnephestate.xyz | No |
 | social.rebellion.global | No |
 | social.rights.ninja | Yes |
-| social.rooty.fr | No |
 | social.rousselie.name | No |
 | social.rt4mn.org | No |
 | social.ruby2sday.net | Yes |
@@ -2615,6 +2614,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | umaskey.net | Yes |
 | umastodon.net | No |
 | unbound.social | No |
+| unclealbie.com | No |
 | under-bank.blue | No |
 | underground-side-kochira-kotonoha.xyz | No |
 | unexpected.singleuser.club | No |
