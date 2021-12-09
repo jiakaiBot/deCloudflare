@@ -1,14 +1,21 @@
 # CfDomains
 
+CLI tool to look up CF domain list
+
+
 - Linux
 ```
-$ wget https://git.disroot.org/dCF/deCloudflare/src/master/tool/cfdomains/cfdomains.linux -O cfdomains
+$ wget https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.linux -O cfdomains
 $ chmod +x cfdomains
-$ cfdomains
+
+$ cfdomains --dl
+
+$ cfdomains disroot.org
+n
 ```
 
-- [Windows](aaaa!replace!me!)
-- [Mac OS](aaaa!replace!me!)
+- [Windows](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.exe)
+- [Mac OS](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.macos)
 
 
 ----
