@@ -257,7 +257,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | chat.brainbaking.com | No |
 | chickenfan.club | No |
 | childcare.hostdon.ne.jp | Yes |
-| childpawn.shop | No |
 | chilemasto.casa | No |
 | chillout.chat | Yes |
 | chin-co-ne.co | No |
@@ -1332,6 +1331,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | melilot.icu | No |
 | mellified.men | No |
 | mellow.town | No |
+| mellow.zone | No |
 | melmc.nohost.me | No |
 | melonbread.dev | No |
 | member.thenobody.club | No |
@@ -1819,7 +1819,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.glueoh.com | No |
 | pleroma.in.th | No |
 | pleroma.inferencium.net | No |
-| pleroma.inumbra.xyz | No |
 | pleroma.io | No |
 | pleroma.iselfhost.com | No |
 | pleroma.jezra.net | No |
@@ -2249,6 +2248,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.lansky.name | No |
 | social.laserbeam.productions | No |
 | social.levelxstudios.org | No |
+| social.liberta.vip | No |
 | social.libre.fi | No |
 | social.linux.pizza | No |
 | social.linuxine.net | No |
@@ -2646,7 +2646,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | veronaxxx.masto.host | No |
 | verr.cc | No |
 | vibeogame.online | No |
-| vici0.us | No |
 | vilni.space | No |
 | violoncello.ch | No |
 | virtual-kaf.fun | Yes |
@@ -2752,7 +2751,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | zecircle.xyz | No |
 | zeka.cloud | Yes |
 | zenyasai.g-fukurowl.club | No |
-| zer0.click | No |
 | zhub.link | No |
 | zoinks.one | No |
 | zombienet.org | No |
@@ -2769,7 +2767,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 521 |
-| Normal | 2,210 |
+| Normal | 2,208 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
