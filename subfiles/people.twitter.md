@@ -7,6 +7,7 @@
 
 
 
+- Normally this would be true, but Cloudflare has since founding pursued a "content neutral" policy which has led to them providing service for Neo-Nazi hate groups, and incidentally also to blocking DMCA complaints against sites they host. Try Googling "Cloudflare controversy" ([clifton_r](https://twitter.com/clifton_r/status/1469028658555752452))
 - Anyone else experiencing massive errors using the site today? Repeatedly getting the error: "There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed." AcademicTwitter ([doctordws](https://twitter.com/DoctorDWS/status/1468955062751793156))
 - why is every single site using Cloudflare showing the captcha every single time for the past few days? Hating it so much now... makes life so difficult. Very very non-cheeky. ([real_nafis](https://twitter.com/real_nafis/status/1468917891437260804))
 - We agree with this, it's time to put pressure on Cloudflare to stop providing hosting for a site selling stolen art. If you reach out to Cloudflare, let us know how it goes. ([nfttheft](https://twitter.com/NFTtheft/status/1468827621056077828))
