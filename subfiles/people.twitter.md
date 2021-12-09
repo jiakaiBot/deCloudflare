@@ -7,6 +7,7 @@
 
 
 
+- why is every single site using Cloudflare showing the captcha every single time for the past few days? Hating it so much now... makes life so difficult. Very very non-cheeky. ([real_nafis](https://twitter.com/real_nafis/status/1468917891437260804))
 - We agree with this, it's time to put pressure on Cloudflare to stop providing hosting for a site selling stolen art. If you reach out to Cloudflare, let us know how it goes. ([nfttheft](https://twitter.com/NFTtheft/status/1468827621056077828))
 - Microsoft licensing, Intel command center access, Qualcomm satellite açcess, Twitter, Cloudflare, DigiCerts, . 40B investment in five stock firms ,=LDS church.. add land as 3rd largest in nation. =. Proprietary software access and you can't be asked to stop if they don't know ([iaintnolemur](https://twitter.com/iaintnolemur/status/1468819961132949504))
 - after knowing the news about ukraine stuff, kinda think theyre preventing confidential info leaking by blocking tor.... I only skimmed 😅 ([kevinlorence6](https://twitter.com/KevinLorence6/status/1468793848910385155))
