@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-12-09: [Network connectivity issues for users from Telin ISP](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/m9q24118ynfm)
+- 2021-12-09: [Elevated number of 5xx errors in New Delhi, India - (DEL)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ykwpdq88bgrr)
 - 2021-12-06: [Customer Impacting Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q8chx806qqhl)
 - 2021-12-06: [Elevated number of 530 errors in TPE](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qhr32pv9vnjw)
 - 2021-12-03: [Distributed Web Gateway](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/651d1q004d92)
