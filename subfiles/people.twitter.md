@@ -7,6 +7,7 @@
 
 
 
+- after knowing the news about ukraine stuff, kinda think theyre preventing confidential info leaking by blocking tor.... I only skimmed 😅 ([kevinlorence6](https://twitter.com/KevinLorence6/status/1468793848910385155))
 - I forget the name but some of the new age VPNs operate that way more or less. Basically logging into VPN for them means advising Cloudflare to trust the IP that just logged in. ([alexhammy209](https://twitter.com/alexhammy209/status/1468674487218409474))
 - It's the first time I see real attempt from nation states to block Tor itself. Cc: Cloudflare ([generalist_lab](https://twitter.com/Generalist_Lab/status/1468669286218670081))
 - Still not fixed; your agent mentions that cloudflare is not hosting our website but a simple check shows that it is. 48 hours down and still no solution! premiumsupport??? ([fvercrae](https://twitter.com/fvercrae/status/1468653325214232579))
