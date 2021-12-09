@@ -43,7 +43,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 433.world | No |
 | 438punk.house | No |
 | 448c.net | No |
-| 774.masto.host | No |
 | 1234.as | Yes |
 | 2137.social | No |
 | 7144.party | No |
@@ -262,7 +261,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | chin-co-ne.co | No |
 | chinwag.org | Yes |
 | chitter.xyz | No |
-| chokecherry.cc | Yes |
 | chungus.cc | No |
 | clacks.link | No |
 | claris.cf | No |
@@ -592,6 +590,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | friendica.jb-net.us | No |
 | friendica.mrpetovan.com | No |
 | friendica.produnis.de | No |
+| friendica.se1.eu | No |
 | friendica.utzer.de | No |
 | friendica.valvin.fr | No |
 | friendica.vrije-mens.org | No |
@@ -629,6 +628,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gaze.live-on.net | No |
 | gearlandia.haus | Yes |
 | geekcompass.com | Yes |
+| geeknews.chat | No |
 | geislingen.net | Yes |
 | genau.qwertqwefsday.eu | No |
 | geno.social | No |
@@ -767,7 +767,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hubzilla.com.br | No |
 | hubzilla.cyberwald.com | No |
 | hubzilla.eu | No |
-| hubzilla.fkn-systems.de | No |
 | hubzilla.konzurovski.net | No |
 | hubzilla.l-p-d.org | No |
 | hugh.buzz | No |
@@ -1435,6 +1434,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mk.vibbe.xyz | No |
 | mk.vulpes.one | No |
 | mk.wolfie.pw | No |
+| mk.yasi2.com | Yes |
 | mk.yuru.studio | Yes |
 | mky.aqualitore-lily.com | Yes |
 | mo-na.space | No |
@@ -1573,7 +1573,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mythago.space | No |
 | mytoot.net | No |
 | mzn-potatochips.me | No |
-| nacq.me | No |
 | nagoyadon.jp | Yes |
 | nakamoto.social | Yes |
 | nanao.cybtex.fr | No |
@@ -1582,6 +1581,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | natsu.page | No |
 | natter.wtf | No |
 | nayukana.info | No |
+| nca.aqualitore-lily.com | Yes |
 | ne.akarinext.org | Yes |
 | nebbia.fail | No |
 | neckbeard.xyz | No |
@@ -1799,6 +1799,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.cybervalley.org | No |
 | pleroma.dark-alexandr.net | No |
 | pleroma.debian.social | No |
+| pleroma.doingmyp.art | No |
 | pleroma.doserver.duckdns.org | No |
 | pleroma.dragonborn.app | No |
 | pleroma.echolib.re | No |
@@ -1894,6 +1895,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pouet.april.org | No |
 | pouet.ca | No |
 | pouet.chapril.org | No |
+| pouet.couchet.org | No |
 | pouet.grossard.fr | No |
 | pouet.it | No |
 | pouet.mickaelgillot.xyz | No |
@@ -2157,6 +2159,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.canony.xyz | No |
 | social.centreforthestudyof.net | No |
 | social.chilliet.eu | No |
+| social.chinwag.org | Yes |
 | social.city-of-glass.net | No |
 | social.cloudron.io | No |
 | social.cologne | No |
@@ -2177,7 +2180,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.device5.co.uk | No |
 | social.diekershoff.de | No |
 | social.diskseven.com | No |
-| social.dnitza.com | Yes |
 | social.doghub.eu | No |
 | social.doma.dev | No |
 | social.drastical.tech | Yes |
@@ -2470,7 +2472,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tenforward.social | No |
 | tentacle.social | No |
 | teslam.in | Yes |
-| testingmstdn.abcang.net | No |
 | tfl.net.pl | No |
 | tfwnogf.nl | No |
 | tha.closed.social | Yes |
@@ -2662,6 +2663,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | vrij.social | Yes |
 | vucica.net | No |
 | vulpine.club | Yes |
+| w3c.social | No |
 | waha.desupost.soy | No |
 | waha.work | No |
 | waifuism.life | No |
@@ -2690,6 +2692,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | wireless.cat6.network | Yes |
 | witches.live | No |
 | witches.social | No |
+| wizards.blue | No |
 | wizzzard.online | No |
 | wndp.cloud | Yes |
 | wokka.be | No |
@@ -2766,8 +2769,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 521 |
-| Normal | 2,208 |
+| Cloudflare | 522 |
+| Normal | 2,210 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
