@@ -1767,6 +1767,7 @@ Do not create new issue or we will close it as duplicate.
 | [haha69163225@twitter](https://twitter.com/haha69163225/status/1384546554980171787) | advertise |
 | [Haha88526766@twitter](https://twitter.com/Haha88526766/status/1401048178611265544) | advertise |
 | [hahasofunnybruh@twitter](https://twitter.com/hahasofunnybruh/status/1397828172264079362) | advertise |
+| [HailBytes@twitter](https://twitter.com/HailBytes/status/1468726952139886604) | advertise |
 | [Hainhtetaung2@twitter](https://twitter.com/Hainhtetaung2/status/1380588405990428673) | advertise |
 | [HainThaw@twitter](https://twitter.com/HainThaw/status/1391968986783383555) | advertise |
 | [haitensama@twitter](https://twitter.com/haitensama/status/1388050755433603075) | advertise |
@@ -5385,6 +5386,7 @@ Do not create new issue or we will close it as duplicate.
 | [SweYiPhyo1@twitter](https://twitter.com/SweYiPhyo1/status/1397547716910018560) | advertise |
 | [swe_sone@twitter](https://twitter.com/swe_sone/status/1392755306854293506) | advertise |
 | [Syahputra902@twitter](https://twitter.com/Syahputra902/status/1405110962055643136) | advertise |
+| [syahril_akbar32@twitter](https://twitter.com/syahril_akbar32/status/1468464046445785089) | advertise |
 | [syaifullahmaad@twitter](https://twitter.com/syaifullahmaad/status/1385385161131397121) | advertise |
 | [Syanl_SEA@twitter](https://twitter.com/Syanl_SEA/status/1378245568665899009) | advertise |
 | [SyatirahMd@twitter](https://twitter.com/SyatirahMd/status/1393480198738173952) | advertise |
@@ -6015,6 +6017,7 @@ Do not create new issue or we will close it as duplicate.
 | [vgchat@twitter](https://twitter.com/vgchat/status/1392263921013252103) | advertise |
 | [vhgamer2006@twitter](https://twitter.com/vhgamer2006/status/1413728432861585411) | advertise |
 | [vian_kio@twitter](https://twitter.com/vian_kio/status/1404827196846317571) | advertise |
+| [victoraldir@twitter](https://twitter.com/victoraldir/status/1468678725684404231) | advertise |
 | [viem_tru@twitter](https://twitter.com/viem_tru/status/1395102795670327296) | advertise |
 | [Viet2008@twitter](https://twitter.com/Viet2008/status/1385497309346033664) | advertise |
 | [Viet99519457@twitter](https://twitter.com/Viet99519457/status/1385786793413386240) | advertise |
