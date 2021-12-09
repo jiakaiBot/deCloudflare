@@ -7,6 +7,7 @@
 
 
 
+- Wait I just noticed that the #Artix website is behind #Cloudflare 🤮🥶 ([twann](https://fosstodon.org/@twann/107419315043199176))
 - #Ecosia just keeps getting worse and worse. Now they’ve become a #Cloudflare site which is a show stopper for privacy enthusiasts and should be a show stopper from a #climateAction standpoint as well. ([bojkotimalbona](https://infosec.exchange/@bojkotiMalbona/107418616966357895))
 - In light of #AmazonDown, we find it fascinating how alleged journalists can wax on about #AWS being too big and a #SinglePointOfFailure. Then they proceed to literally name the next largest cloud-service providers as being Microsoft and even Oracle! There's a #Cloudflare elephant is in the news room. #forcedNews #fakeNews ([dsfgs](https://activism.openworlds.info/@dsfgs/107418623830421940))
 - @kev @shom @tdarb @dsfgs The number of sites compromized does not in itself come accross as mass oppression to everyone because the most acute oppression from #Cloudflare marginalizes small groups (Tor users, poor users whose ISP assigns them a CGNAT IP, &amp; developers who write bots). But if you agree that surveillance is a form of oppression, then it’s clear that everyone is impacted. ([bojkotimalbona](https://infosec.exchange/@bojkotiMalbona/107412698314739568))
