@@ -7,6 +7,8 @@
 
 
 
+- fb the website has a cloudflare error + i got notis on ([nbaanton](https://twitter.com/NBAAnton/status/1469028769637838852))
+- hmmm, I thought it might be cloudflare security banning your ip., which I guess is still possible. did you recently repeatedly fail a captcha somewhere? ([sansseriffic](https://twitter.com/sansseriffic/status/1469017216624562181))
 - Normally this would be true, but Cloudflare has since founding pursued a "content neutral" policy which has led to them providing service for Neo-Nazi hate groups, and incidentally also to blocking DMCA complaints against sites they host. Try Googling "Cloudflare controversy" ([clifton_r](https://twitter.com/clifton_r/status/1469028658555752452))
 - Anyone else experiencing massive errors using the site today? Repeatedly getting the error: "There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed." AcademicTwitter ([doctordws](https://twitter.com/DoctorDWS/status/1468955062751793156))
 - why is every single site using Cloudflare showing the captcha every single time for the past few days? Hating it so much now... makes life so difficult. Very very non-cheeky. ([real_nafis](https://twitter.com/real_nafis/status/1468917891437260804))
