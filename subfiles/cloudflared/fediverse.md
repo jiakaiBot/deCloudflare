@@ -875,6 +875,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kemoner-don.tokyo | No |
 | kemonodon.club | No |
 | kerkour.com | Yes |
+| kettle.social | No |
 | key.erica.moe | No |
 | keybored.me | No |
 | kfem.cat | No |
@@ -1207,7 +1208,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.matrix.org | Yes |
 | mastodon.me.uk | Yes |
 | mastodon.mechanicalmischief.com | No |
-| mastodon.mensoif.cf | No |
 | mastodon.mg | No |
 | mastodon.miku2go.com | No |
 | mastodon.mim-libre.fr | No |
@@ -1700,7 +1700,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | p.oshiteku.app | No |
 | p.rhinoworks.info | No |
 | p.tkw.fm | No |
-| p.x61.uk | No |
 | p1.a9z.dev | Yes |
 | pachyder.me | No |
 | pagan.plus | No |
@@ -2334,6 +2333,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.snopyta.org | No |
 | social.solibre.de | No |
 | social.sp-codes.de | No |
+| social.spacebear.ee | No |
 | social.ssbx.dev | No |
 | social.stracknet.com | No |
 | social.sunnypup.io | No |
