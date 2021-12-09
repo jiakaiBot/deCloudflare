@@ -7,6 +7,8 @@
 
 
 
+- We agree with this, it's time to put pressure on Cloudflare to stop providing hosting for a site selling stolen art. If you reach out to Cloudflare, let us know how it goes. ([nfttheft](https://twitter.com/NFTtheft/status/1468827621056077828))
+- Microsoft licensing, Intel command center access, Qualcomm satellite açcess, Twitter, Cloudflare, DigiCerts, . 40B investment in five stock firms ,=LDS church.. add land as 3rd largest in nation. =. Proprietary software access and you can't be asked to stop if they don't know ([iaintnolemur](https://twitter.com/iaintnolemur/status/1468819961132949504))
 - after knowing the news about ukraine stuff, kinda think theyre preventing confidential info leaking by blocking tor.... I only skimmed 😅 ([kevinlorence6](https://twitter.com/KevinLorence6/status/1468793848910385155))
 - I forget the name but some of the new age VPNs operate that way more or less. Basically logging into VPN for them means advising Cloudflare to trust the IP that just logged in. ([alexhammy209](https://twitter.com/alexhammy209/status/1468674487218409474))
 - It's the first time I see real attempt from nation states to block Tor itself. Cc: Cloudflare ([generalist_lab](https://twitter.com/Generalist_Lab/status/1468669286218670081))
