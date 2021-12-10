@@ -11,7 +11,6 @@
 ![](../../image/eggsinbasket.jpg)
 
 - Bonvolu vidi [INSTRUCTION.md](../../INSTRUCTION.md) por dosiera celo kaj formato specifoj.
-- [is_listed_cf(), is_cloudflare_cached()](../../tool/example.json.is_cloudflare.php)
 
 
 -----
@@ -19,7 +18,11 @@
 # Cloudflare users domain list
 
 - See [INSTRUCTION.md](../../INSTRUCTION.md) for file purpose and format specifications.
-- [is_listed_cf(), is_cloudflare_cached()](../../tool/example.json.is_cloudflare.php)
+
+
+# Use the list
+  - [is_listed_cf(), is_cloudflare_cached()](../../tool/example.json.is_cloudflare.php)
+  - [CfDomains](../../tool/cfdomains/README.md), CLI tool to look up Cloudflare domain list
 
 
 -----
