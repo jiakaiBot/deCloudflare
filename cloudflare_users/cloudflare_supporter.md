@@ -1594,6 +1594,7 @@ Do not create new issue or we will close it as duplicate.
 | [FlB22659378@twitter](https://twitter.com/FlB22659378/status/1396356630082514944) | advertise |
 | [flDtnyWkEEqOpk9@twitter](https://twitter.com/flDtnyWkEEqOpk9/status/1388450053430202369) | advertise |
 | [Flonerr@twitter](https://twitter.com/Flonerr/status/1390128815595130888) | advertise |
+| [FloServer@twitter](https://twitter.com/FloServer/status/1468999905079443456) | advertise |
 | [FlowerLay55@twitter](https://twitter.com/FlowerLay55/status/1391091959473709058) | advertise |
 | [FlubioStudios@twitter](https://twitter.com/FlubioStudios/status/1408109166472929284) | advertise |
 | [flukeheartz@twitter](https://twitter.com/flukeheartz/status/1402853874264801282) | advertise |
@@ -6349,6 +6350,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yeet17075954@twitter](https://twitter.com/Yeet17075954/status/1395175412569882628) | advertise |
 | [Yee_Yee_99@twitter](https://twitter.com/Yee_Yee_99/status/1394494024170369031) | advertise |
 | [YeGyi71242850@twitter](https://twitter.com/YeGyi71242850/status/1380804076988862469) | advertise |
+| [yehia1Ali@twitter](https://twitter.com/yehia1Ali/status/1468995135224651779) | advertise |
 | [yehteta15677077@twitter](https://twitter.com/yehteta15677077/status/1390553372898467845) | advertise |
 | [YeHtetNaingAun1@twitter](https://twitter.com/YeHtetNaingAun1/status/1392148781613948928) | advertise |
 | [Yehtetwin17@twitter](https://twitter.com/Yehtetwin17/status/1390817506692984832) | advertise |
