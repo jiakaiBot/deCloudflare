@@ -49,7 +49,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | 60228.dev | Yes |
 | 79120.tours | Yes |
 | 101010.pl | No |
-| a-room-ones-own.me | No |
 | a.nom.pl | No |
 | a.nti.social | No |
 | a.rathersafe.space | No |
@@ -78,6 +77,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | algufr.com | No |
 | alirezahayati.com | No |
 | alive.bar | Yes |
+| allnutt.net | No |
 | allpro.social | No |
 | allships.run | Yes |
 | alltomorrows.party | No |
@@ -748,7 +748,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hub.cats-home.net | No |
 | hub.debenny.de | No |
 | hub.designor.de | No |
-| hub.disroot.org | No |
 | hub.hayfidelity.de | No |
 | hub.hubzilla.de | No |
 | hub.libranet.de | No |
@@ -775,9 +774,11 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hyan.ink | Yes |
 | hypno.church | No |
 | i.misskey.love | No |
+| i0.wtf | Yes |
 | iamastodon.gifu.jp | No |
 | ibaillanos.social | No |
 | ibb.info | No |
+| icedtux.no | No |
 | ichiji.social | No |
 | icioulaba.tk | No |
 | icosahedron.website | No |
@@ -1221,7 +1222,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.nekocat.info | No |
 | mastodon.nl | No |
 | mastodon.noraworld.com | No |
-| mastodon.nu | No |
 | mastodon.nz | No |
 | mastodon.nzoss.nz | No |
 | mastodon.oeru.org | No |
@@ -1284,6 +1284,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.white-void.net | No |
 | mastodon.wihel.de | Yes |
 | mastodon.williamrehwinkel.net | No |
+| mastodon.wivodaim.net | No |
 | mastodon.xy-space.de | No |
 | mastodon.xyz | No |
 | mastodon.yyyyy.world | No |
@@ -1815,6 +1816,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.gegeweb.eu | No |
 | pleroma.getimiskon.xyz | No |
 | pleroma.glueoh.com | No |
+| pleroma.guizzyordi.info | No |
 | pleroma.in.th | No |
 | pleroma.inferencium.net | No |
 | pleroma.io | No |
@@ -1968,7 +1970,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | remerge.net | No |
 | retro.social | No |
 | rettiwtkcuf.social | No |
-| reve.land | Yes |
 | rezo.mig5.net | No |
 | rhabarberbarbara.bar | Yes |
 | ribeiro.social | No |
@@ -2132,7 +2133,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.anufrij.de | No |
 | social.apreslanu.it | No |
 | social.ariona.fr | No |
-| social.as | No |
 | social.atridad.dev | No |
 | social.autonomy.earth | No |
 | social.avery.cafe | No |
@@ -2302,6 +2302,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.prepedia.org | No |
 | social.primeos.dev | No |
 | social.pyngu.com | No |
+| social.qaq.wiki | Yes |
 | social.qownnotes.org | Yes |
 | social.quodverum.com | No |
 | social.rat.cafe | No |
@@ -2323,7 +2324,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.servus.at | No |
 | social.shadowfacts.net | Yes |
 | social.shadowkat.net | No |
-| social.shadyvalley.net | No |
 | social.simcu.com | No |
 | social.skewed.de | No |
 | social.skrep.eu | No |
@@ -2409,7 +2409,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | starry.ml | No |
 | starship.coffee | No |
 | status.p1ng0ut.social | No |
-| status.plomlompom.com | No |
 | steffes.dev | No |
 | stellaria.network | Yes |
 | stereodon.social | No |
@@ -2766,8 +2765,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 521 |
-| Normal | 2,208 |
+| Cloudflare | 522 |
+| Normal | 2,206 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
