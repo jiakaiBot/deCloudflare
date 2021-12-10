@@ -1,6 +1,7 @@
 # CfDomains
 
-CLI tool to look up CF domain list
+
+CLI tool to look up Cloudflare domain list
 
 
 - Linux
