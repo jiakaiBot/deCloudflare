@@ -25,7 +25,7 @@ n
 | Version | v1.0.1 |
 | Linux | sha256 098c2bb8e17d84a8e05971a5b9b1eb730264caa4cbf3c65aba2974d129a3c59e |
 | Windows | sha256 c3fb19fa4def2543a7133f41ac3ffc3c80e4028f82e21da1688cfc9ce8f3e72e |
-| Mac OS | sha256 098c2bb8e17d84a8e05971a5b9b1eb730264caa4cbf3c65aba2974d129a3c59e |
+| Mac OS | sha256 fae21f5876df8812c06fec4f764e875812679e062d4eacc01c5f6273e7a7b519 |
 
 
 ----
