@@ -20,11 +20,12 @@ if (fs.existsSync(Fconfig)) {
 	}
 }
 function showUsage() {
-	console.log("\n	\x1b[33mCfDomains\x1b[0m  v1.0.0\n");
+	console.log("\n	\x1b[33mCfDomains\x1b[0m  v1.0.1\n");
 	console.log('\x1b[36mUsage:\x1b[0m');
 	console.log('	cfdomains \x1b[43mexample.com\x1b[0m');
-	console.log('	cfdomains [--dir|--dl|--dl2]');
-	console.log("	cfdomains --report \x1b[43mexample.com\x1b[0m\n");
+	console.log('	cfdomains --dir');
+	console.log('	cfdomains [--dl|--dl2][ |0,1,...,a,b,...z]');
+	console.log("	cfdomains [--report|--delist] \x1b[43mexample.com\x1b[0m\n");
 	console.log('\x1b[36mDetails:\x1b[0m');
 	console.log('	cfdomains \x1b[43mexample.com\x1b[0m');
 	console.log('		return "\x1b[32my\x1b[0m", "\x1b[32mn\x1b[0m", or "\x1b[32me\x1b[0m"');
@@ -35,11 +36,15 @@ function showUsage() {
 	console.log('		Change list directory');
 	console.log('		\x1b[4mCurrent directory\x1b[0m: ' + Dlist + "\n");
 	console.log('	cfdomains --dl|dl2');
+	console.log('	cfdomains --dl|dl2 \x1b[43ma,b,c\x1b[0m');
 	console.log('		\x1b[32mdl\x1b[0m: Download list files from Archive.org');
-	console.log("		\x1b[32mdl2\x1b[0m: Download list files from deCloudflare git\n");
-	console.log('	cfdomains --report \x1b[43mexample.com\x1b[0m');
-	console.log('		Submit unlisted domain to #Karma for analysis');
-	console.log("		\x1b[4mOnly the domain will be submitted. We NEVER record anything else.\x1b[0m\n");
+	console.log('		\x1b[32mdl2\x1b[0m: Download list files from deCloudflare git');
+	console.log("		\x1b[32ma,b,c\x1b[0m: Download only these files (comma-separated)\n");
+	console.log('	cfdomains --report|delist \x1b[43mexample.com\x1b[0m');
+	console.log('		Submit domain to #Karma for analysis');
+	console.log('		\x1b[4mOnly the domain will be submitted\x1b[0m. We NEVER record anything else.');
+	console.log('		\x1b[32mreport\x1b[0m: Report not-yet-listed domain (Cloudflared)');
+	console.log("		\x1b[32mdelist\x1b[0m: Report currently-listed domain (Left Cloudflare)\n");
 	console.log();
 	process.exit();
 }
@@ -113,6 +118,20 @@ async function dlFiles(bu) {
 	}
 	console.log('Downloading lists: ' + bu);
 	let w, names = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
+	let aonly = args[3];
+	if (aonly && aonly.length > 0) {
+		let names1 = [];
+		for (x of aonly.split(',')) {
+			if (names.indexOf(x) > -1) {
+				names1.push(x);
+			}
+		}
+		if (names1.length > 0) {
+			names = names1;
+		} else {
+			forceExit('invalid input');
+		}
+	}
 	shuffle(names);
 	for (x of names) {
 		console.log('Downloading ' + x);
@@ -155,11 +174,11 @@ function queryDom() {
 	}
 	process.exit();
 }
-function reporter(i) {
+function reporter(dom, t) {
 	return new Promise(function (ok, nope) {
 		rq({
 			uri: 'https://karma.clearnetonion.eu.org/api/is_cf.php',
-			body: 'ana=1&f=' + i,
+			body: 'ana=' + t + '&f=' + dom,
 			method: 'POST',
 			headers: {
 				'User-Agent': 'CfDomains',
@@ -177,18 +196,12 @@ function reporter(i) {
 			} catch (e1) {
 				forceExit('Bad Response Error A');
 			}
-			if (b == '[true,true]') {
-				console.log('\x1b[32mResponse\x1b[0m: \x1b[33mNo\x1b[0m, It is already known. (try updating your local copy by --dl)');
-			} else if (b == '[true,false]') {
-				console.log('\x1b[32mResponse\x1b[0m: \x1b[35mYes\x1b[0m. It is not listed in \x1b[4mdelayed\x1b[0m channel at this moment.');
-			} else {
-				forceExit('Bad Response Error B');
-			}
-			ok();
+			console.log('Done!');
+			ok(b);
 		});
 	});
 }
-async function reporters() {
+async function reporters(yn) {
 	let dom = args[3];
 	if (!is_domain(dom)) {
 		showUsage();
@@ -201,10 +214,33 @@ async function reporters() {
 	});
 	data = JSON.parse(data);
 	if (data[dom]) {
-		forceExit('Already exist, no need to report.');
+		if (yn == 'y') {
+			forceExit('Already exist, no need to report.');
+		}
+	} else {
+		if (yn == 'n') {
+			forceExit('Already not listed, no need to report.');
+		}
 	}
 	console.log('Reporting ' + dom);
-	let w = await reporter(dom);
+	let w = await reporter(dom, yn);
+	if (yn == 'y') {
+		if (w == '[true,true]') {
+			console.log('\x1b[32mResponse\x1b[0m: \x1b[33mNo\x1b[0m, It is already known. (try updating your local copy by --dl)');
+		} else if (w == '[true,false]') {
+			console.log('\x1b[32mResponse\x1b[0m: \x1b[35mRequest received\x1b[0m. It is not listed in \x1b[4mdelayed\x1b[0m channel at this moment.');
+		} else {
+			forceExit('Bad Response Error!');
+		}
+	} else {
+		if (w == '[true,false]') {
+			console.log('\x1b[32mResponse\x1b[0m: \x1b[33mNo\x1b[0m, It is not listed. (try updating your local copy by --dl)');
+		} else if (w == '[true,true]') {
+			console.log('\x1b[32mResponse\x1b[0m: \x1b[35mRequest received\x1b[0m. It is listed in \x1b[4mdelayed\x1b[0m channel at this moment.');
+		} else {
+			forceExit('Bad Response Error!');
+		}
+	}
 	process.exit();
 }
 if (args.length <= 2) {
@@ -216,7 +252,9 @@ if (args.length <= 2) {
 } else if (args[2] === '--dl2') {
 	dlFiles('https://git.disroot.org/dCF/deCloudflare/raw/branch/master/cloudflare_users/domains/');
 } else if (args[2] === '--report') {
-	reporters();
+	reporters('y');
+} else if (args[2] === '--delist') {
+	reporters('n');
 } else {
 	queryDom();
 }
