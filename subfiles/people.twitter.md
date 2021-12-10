@@ -7,6 +7,7 @@
 
 
 
+- I will see you pass by then:) A percentage will use Cloudflare, they haven’t blocked you yet? ([pepijnniesten](https://twitter.com/pepijnniesten/status/1469162352444641283))
 - Cloudflare is fucking up. I'm getting API Request Failed: POST /api/v4/login (403) Cannot login. Stupid as shit. ([icze4r](https://twitter.com/icze4r/status/1469136944605147141))
 - fb the website has a cloudflare error + i got notis on ([nbaanton](https://twitter.com/NBAAnton/status/1469028769637838852))
 - hmmm, I thought it might be cloudflare security banning your ip., which I guess is still possible. did you recently repeatedly fail a captcha somewhere? ([sansseriffic](https://twitter.com/sansseriffic/status/1469017216624562181))
