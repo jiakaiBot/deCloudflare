@@ -5,17 +5,14 @@ CLI tool to look up CF domain list
 
 - Linux
 ```
-$ wget https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.linux -O cfdomains
+$ wget https://karma.clearnetonion.eu.org/api/f/cfdomains.linux -O cfdomains
 $ chmod +x cfdomains
 
-$ cfdomains --dl
-
-$ cfdomains disroot.org
-n
+$ ./cfdomains
 ```
 
-- [Windows](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.exe)
-- [Mac OS](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.macos)
+- [Windows](https://karma.clearnetonion.eu.org/api/f/cfdomains.exe)
+- [Mac OS](https://karma.clearnetonion.eu.org/api/f/cfdomains.app)
 
 
 ### Version & Hash
