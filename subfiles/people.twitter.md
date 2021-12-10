@@ -7,6 +7,7 @@
 
 
 
+- Cloudflare is fucking up. I'm getting API Request Failed: POST /api/v4/login (403) Cannot login. Stupid as shit. ([icze4r](https://twitter.com/icze4r/status/1469136944605147141))
 - fb the website has a cloudflare error + i got notis on ([nbaanton](https://twitter.com/NBAAnton/status/1469028769637838852))
 - hmmm, I thought it might be cloudflare security banning your ip., which I guess is still possible. did you recently repeatedly fail a captcha somewhere? ([sansseriffic](https://twitter.com/sansseriffic/status/1469017216624562181))
 - Normally this would be true, but Cloudflare has since founding pursued a "content neutral" policy which has led to them providing service for Neo-Nazi hate groups, and incidentally also to blocking DMCA complaints against sites they host. Try Googling "Cloudflare controversy" ([clifton_r](https://twitter.com/clifton_r/status/1469028658555752452))
