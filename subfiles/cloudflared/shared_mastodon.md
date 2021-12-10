@@ -30,16 +30,16 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Mastodon User | Links |
 | --- | --- | --- |
-| 1 | EUwatch@newsbots.eu | 27,155 |
-| 2 | obapom@pawoo.net | 24,337 |
-| 3 | UnitooWebRadio@botsin.space | 23,745 |
-| 4 | Femrevvnr@mastodon.social | 16,443 |
-| 5 | PolBegov@newsbots.eu | 12,073 |
-| 6 | mauthausengusen@slippy.xyz | 11,808 |
+| 1 | EUwatch@newsbots.eu | 27,488 |
+| 2 | obapom@pawoo.net | 24,474 |
+| 3 | UnitooWebRadio@botsin.space | 23,846 |
+| 4 | Femrevvnr@mastodon.social | 16,519 |
+| 5 | PolBegov@newsbots.eu | 12,249 |
+| 6 | mauthausengusen@slippy.xyz | 11,890 |
 | 7 | amb_noticias@botsin.space | 11,008 |
-| 8 | newpom@pomdon.work | 10,795 |
-| 9 | gitcomteam@mastodon.social | 9,374 |
-| 10 | TechNews@aspiechattr.me | 8,847 |
+| 8 | newpom@pomdon.work | 10,849 |
+| 9 | gitcomteam@mastodon.social | 9,422 |
+| 10 | TechNews@aspiechattr.me | 8,896 |
 
 [//]: # (do not edit this line end)
 
@@ -51,105 +51,105 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | # | Mastodon User | Links |
 | --- | --- | --- |
 | 1 | amb_noticias@botsin.space | 11,004 |
-| 2 | obapom@pawoo.net | 9,375 |
-| 3 | publico_bot@newsbots.eu | 8,799 |
-| 4 | EUwatch@newsbots.eu | 8,285 |
-| 5 | joukyunews@mstdn.jp | 7,332 |
-| 6 | covid_stats@mastodon.cloud | 6,162 |
-| 7 | CryptoBot@aspiechattr.me | 6,128 |
-| 8 | elnacionalcat_bot@newsbots.eu | 5,014 |
-| 9 | hn50@social.lansky.name | 4,945 |
-| 10 | hnbot@me.ns.ci | 4,677 |
-| 11 | elpuntavui@mastodont.cat | 4,364 |
-| 12 | PolBegov@newsbots.eu | 4,173 |
-| 13 | lemonde@newsbots.eu | 4,110 |
-| 14 | TechNews@aspiechattr.me | 4,030 |
-| 15 | thaitechfeed@mastodon.in.th | 3,303 |
-| 16 | hn100@social.lansky.name | 3,270 |
-| 17 | hn100@botsin.space | 3,097 |
-| 18 | DDMEXICO@mastodon.social | 3,022 |
-| 19 | itnewsbot@schleuss.online | 2,890 |
-| 20 | KurumiBot@b.z0ne.social | 2,552 |
-| 21 | mauthausengusen@slippy.xyz | 2,461 |
-| 22 | Ladies_DE@kollegin.eu | 2,336 |
-| 23 | angsuman@mstdn.jp | 2,295 |
-| 24 | army@propulse.club | 2,274 |
-| 25 | SinonBot@b.z0ne.social | 2,128 |
-| 26 | AraAraBot@freecumextremist.com | 2,115 |
-| 27 | hackernews@die-partei.social | 2,096 |
-| 28 | misaka86@pawoo.net | 1,952 |
-| 29 | SweetPony@equestria.social | 1,865 |
-| 30 | NaturalNews@brighteon.social | 1,861 |
-| 31 | telesur_es@newsbots.eu | 1,827 |
-| 32 | PonyPics@equestria.social | 1,678 |
-| 33 | gamesense@mastodon.social | 1,675 |
-| 34 | techcrunch@chaosphere.hostdon.jp | 1,589 |
-| 35 | hnbot@botsin.space | 1,578 |
-| 36 | naciodigital_bot@newsbots.eu | 1,508 |
+| 2 | obapom@pawoo.net | 9,423 |
+| 3 | publico_bot@newsbots.eu | 8,856 |
+| 4 | EUwatch@newsbots.eu | 8,437 |
+| 5 | joukyunews@mstdn.jp | 7,355 |
+| 6 | covid_stats@mastodon.cloud | 6,266 |
+| 7 | CryptoBot@aspiechattr.me | 6,181 |
+| 8 | elnacionalcat_bot@newsbots.eu | 5,061 |
+| 9 | hn50@social.lansky.name | 4,972 |
+| 10 | hnbot@me.ns.ci | 4,708 |
+| 11 | elpuntavui@mastodont.cat | 4,391 |
+| 12 | PolBegov@newsbots.eu | 4,243 |
+| 13 | lemonde@newsbots.eu | 4,142 |
+| 14 | TechNews@aspiechattr.me | 4,057 |
+| 15 | thaitechfeed@mastodon.in.th | 3,320 |
+| 16 | hn100@social.lansky.name | 3,282 |
+| 17 | hn100@botsin.space | 3,105 |
+| 18 | DDMEXICO@mastodon.social | 3,030 |
+| 19 | itnewsbot@schleuss.online | 2,911 |
+| 20 | KurumiBot@b.z0ne.social | 2,562 |
+| 21 | mauthausengusen@slippy.xyz | 2,496 |
+| 22 | Ladies_DE@kollegin.eu | 2,354 |
+| 23 | angsuman@mstdn.jp | 2,322 |
+| 24 | army@propulse.club | 2,288 |
+| 25 | SinonBot@b.z0ne.social | 2,138 |
+| 26 | AraAraBot@freecumextremist.com | 2,127 |
+| 27 | hackernews@die-partei.social | 2,108 |
+| 28 | misaka86@pawoo.net | 1,971 |
+| 29 | SweetPony@equestria.social | 1,873 |
+| 30 | NaturalNews@brighteon.social | 1,870 |
+| 31 | telesur_es@newsbots.eu | 1,833 |
+| 32 | PonyPics@equestria.social | 1,686 |
+| 33 | gamesense@mastodon.social | 1,679 |
+| 34 | techcrunch@chaosphere.hostdon.jp | 1,591 |
+| 35 | hnbot@botsin.space | 1,586 |
+| 36 | naciodigital_bot@newsbots.eu | 1,521 |
 | 37 | shietka@mastodon.social | 1,477 |
-| 38 | GradientBot@botsin.space | 1,459 |
-| 39 | epochtimes_jp_bot@www.i-kaohsiung.com | 1,430 |
-| 40 | Kachelmannwettr@fulda.social | 1,418 |
-| 41 | Stripey@botsin.space | 1,398 |
-| 42 | CKsTechnologyNews@mastodon.social | 1,391 |
-| 43 | ithome@hello.2heng.xin | 1,331 |
-| 44 | gigazine@chaosphere.hostdon.jp | 1,281 |
-| 45 | AlexJones@brighteon.social | 1,239 |
+| 38 | GradientBot@botsin.space | 1,467 |
+| 39 | epochtimes_jp_bot@www.i-kaohsiung.com | 1,447 |
+| 40 | Kachelmannwettr@fulda.social | 1,430 |
+| 41 | Stripey@botsin.space | 1,406 |
+| 42 | CKsTechnologyNews@mastodon.social | 1,405 |
+| 43 | ithome@hello.2heng.xin | 1,333 |
+| 44 | gigazine@chaosphere.hostdon.jp | 1,287 |
+| 45 | AlexJones@brighteon.social | 1,242 |
 | 46 | johndolph@noagendasocial.com | 1,230 |
 | 47 | johndolph@brighteon.social | 1,230 |
-| 48 | thepressproject@libretooth.gr | 1,194 |
-| 49 | blendernation@botsin.space | 1,171 |
-| 50 | BBCPersianNewsBot@aleph.land | 1,141 |
+| 48 | thepressproject@libretooth.gr | 1,213 |
+| 49 | blendernation@botsin.space | 1,176 |
+| 50 | BBCPersianNewsBot@aleph.land | 1,149 |
 | 51 | tugatech@mastodon.social | 1,119 |
 | 52 | Wn00Japan@pawoo.net | 1,052 |
-| 53 | politico_eu_bot@newsbots.eu | 1,026 |
-| 54 | theregister@bots.franssen.xyz | 1,018 |
-| 55 | hn250@social.lansky.name | 1,011 |
-| 56 | FOXNews_LatestHeadlines@noc.social | 1,002 |
-| 57 | Mediapart@mastodon.social | 989 |
-| 58 | androidpolice@mstdn.social | 985 |
-| 59 | beleaks@botsin.space | 976 |
-| 60 | cnet@chaosphere.hostdon.jp | 969 |
-| 61 | buzzfeed@chaosphere.hostdon.jp | 966 |
-| 62 | intengineering@botsin.space | 942 |
+| 53 | politico_eu_bot@newsbots.eu | 1,030 |
+| 54 | theregister@bots.franssen.xyz | 1,025 |
+| 55 | hn250@social.lansky.name | 1,018 |
+| 56 | FOXNews_LatestHeadlines@noc.social | 1,008 |
+| 57 | Mediapart@mastodon.social | 999 |
+| 58 | androidpolice@mstdn.social | 993 |
+| 59 | buzzfeed@chaosphere.hostdon.jp | 981 |
+| 60 | beleaks@botsin.space | 980 |
+| 61 | cnet@chaosphere.hostdon.jp | 970 |
+| 62 | intengineering@botsin.space | 946 |
 | 63 | deviantdomme@switter.at | 901 |
-| 64 | meteo_galicia@botsin.space | 828 |
-| 65 | counterpunch@newsbots.eu | 827 |
-| 66 | benzogaga33@mamot.fr | 798 |
+| 64 | meteo_galicia@botsin.space | 844 |
+| 65 | counterpunch@newsbots.eu | 830 |
+| 66 | benzogaga33@mamot.fr | 808 |
 | 67 | todayilearned@botsin.space | 775 |
-| 68 | sourcreampringles_SoundCloud@botsin.space | 770 |
-| 69 | libridaleggere@mastodon.cloud | 770 |
+| 68 | libridaleggere@mastodon.cloud | 773 |
+| 69 | sourcreampringles_SoundCloud@botsin.space | 770 |
 | 70 | HunDriverWidow@freeatlantis.com | 765 |
-| 71 | thepigeonexpress@mastodon.social | 726 |
-| 72 | automaton@chaosphere.hostdon.jp | 723 |
-| 73 | gayburg@mastodon.uno | 719 |
-| 74 | travel@social.beachcom.org | 718 |
-| 75 | YoungBlood@social.quodverum.com | 714 |
+| 71 | automaton@chaosphere.hostdon.jp | 732 |
+| 72 | travel@social.beachcom.org | 726 |
+| 73 | thepigeonexpress@mastodon.social | 726 |
+| 74 | gayburg@mastodon.uno | 725 |
+| 75 | YoungBlood@social.quodverum.com | 715 |
 | 76 | sourcreampringles_SoundCloud@noagendasocial.com | 707 |
-| 77 | crypto@eicker.news | 692 |
-| 78 | JesseStone@freeatlantis.com | 684 |
-| 79 | twngo@g0v.social | 681 |
-| 80 | gironanoticies@mastodon.social | 677 |
+| 77 | crypto@eicker.news | 700 |
+| 78 | JesseStone@freeatlantis.com | 691 |
+| 79 | gironanoticies@mastodon.social | 686 |
+| 80 | twngo@g0v.social | 685 |
 | 81 | hugbot@neckbeard.xyz | 667 |
-| 82 | HebrideanHecate@spinster.xyz | 652 |
-| 83 | The_Dark_Mangaka@baraag.net | 610 |
-| 84 | nextinpact@gs.leftic.club | 608 |
-| 85 | ogatarin@pawoo.net | 602 |
-| 86 | NationCymru@toot.wales | 588 |
-| 87 | TeslaNews@aspiechattr.me | 585 |
-| 88 | CNN_politics_feed@noc.social | 582 |
-| 89 | fuldanews@fulda.social | 580 |
-| 90 | Snoro@mastodon.social | 577 |
-| 91 | gwb@social.beachcom.org | 569 |
+| 82 | HebrideanHecate@spinster.xyz | 653 |
+| 83 | The_Dark_Mangaka@baraag.net | 637 |
+| 84 | nextinpact@gs.leftic.club | 614 |
+| 85 | ogatarin@pawoo.net | 608 |
+| 86 | NationCymru@toot.wales | 596 |
+| 87 | fuldanews@fulda.social | 592 |
+| 88 | TeslaNews@aspiechattr.me | 589 |
+| 89 | CNN_politics_feed@noc.social | 586 |
+| 90 | Snoro@mastodon.social | 582 |
+| 91 | gwb@social.beachcom.org | 573 |
 | 92 | TearGasBreakfast@social.quodverum.com | 565 |
-| 93 | thenewoil@freeradical.zone | 562 |
-| 94 | Journalducoin@mastodon.social | 550 |
-| 95 | CDTChinese@newsbots.eu | 548 |
-| 96 | arzachel@mastodon.derveni.org | 535 |
-| 97 | lacer2k@mastodon.acerbo.me | 521 |
-| 98 | pluralistic@mamot.fr | 506 |
-| 99 | thematterco@mastodon.in.th | 504 |
-| 100 | artbot@botsin.space | 499 |
+| 93 | thenewoil@freeradical.zone | 564 |
+| 94 | Journalducoin@mastodon.social | 558 |
+| 95 | CDTChinese@newsbots.eu | 552 |
+| 96 | arzachel@mastodon.derveni.org | 536 |
+| 97 | lacer2k@mastodon.acerbo.me | 529 |
+| 98 | thematterco@mastodon.in.th | 510 |
+| 99 | TeddyTheBest@framapiaf.org | 506 |
+| 100 | pluralistic@mamot.fr | 506 |
 
 [//]: # (do not edit this line end)
 
@@ -160,105 +160,105 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Domain | Cloudflare | Count |
 | --- | --- | --- | --- |
-| 1 | twitter.com |   | 69,965 |
-| 2 | t.co |   | 57,448 |
-| 3 | youtube.com |   | 21,806 |
-| 4 | yahoo.co.jp |   | 17,159 |
-| 5 | youtu.be |   | 16,108 |
-| 6 | euractiv.es |   | 15,405 |
-| 7 | unitoo.it |   | 12,039 |
-| 8 | pixiv.net | 🌩 | 8,805 |
-| 9 | nhk.or.jp |   | 8,042 |
-| 10 | ycombinator.com | 🌩 | 7,247 |
-| 11 | weibo.com |   | 6,707 |
-| 12 | github.com |   | 6,157 |
-| 13 | itmedia.co.jp |   | 5,758 |
-| 14 | newsbots.eu |   | 5,720 |
-| 15 | politico.eu | 🌩 | 5,282 |
-| 16 | bit.ly |   | 5,020 |
-| 17 | spotify.com |   | 4,614 |
-| 18 | publico.es | 🌩 | 3,791 |
-| 19 | 4gamer.net |   | 3,391 |
-| 20 | ddating.fun | 🌩 | 3,384 |
-| 21 | blogspot.com |   | 3,376 |
-| 22 | impress.co.jp |   | 3,374 |
-| 23 | shindanmaker.com |   | 3,366 |
-| 24 | wikipedia.org |   | 3,332 |
-| 25 | natalie.mu |   | 3,315 |
-| 26 | lemonde.fr | 🌩 | 3,239 |
-| 27 | redd.it |   | 3,223 |
-| 28 | yanoagenda.com | 🌩 | 3,211 |
-| 29 | indianexpress.com |   | 3,109 |
-| 30 | bund.de |   | 2,962 |
-| 31 | nitter.net |   | 2,935 |
-| 32 | businessam.be | 🌩 | 2,891 |
-| 33 | tagesschau.de |   | 2,789 |
-| 34 | rthk.hk |   | 2,757 |
-| 35 | guideachatgamer.com |   | 2,729 |
-| 36 | chouti.com |   | 2,575 |
-| 37 | jandan.net |   | 2,506 |
-| 38 | joukyunews.com | 🌩 | 2,457 |
-| 39 | elnacional.cat | 🌩 | 2,425 |
-| 40 | svt.se |   | 2,363 |
-| 41 | 1d4.us | 🌩 | 2,328 |
-| 42 | theverge.com |   | 2,213 |
-| 43 | dw.com |   | 2,177 |
-| 44 | gitcom.org |   | 2,172 |
-| 45 | tryst.link |   | 2,122 |
-| 46 | elpuntavui.cat | 🌩 | 2,109 |
-| 47 | reddit.com |   | 2,094 |
-| 48 | ladies.de | 🌩 | 2,058 |
-| 49 | mantan-web.jp |   | 2,023 |
-| 50 | t.me |   | 2,020 |
+| 1 | twitter.com |   | 70,206 |
+| 2 | t.co |   | 57,311 |
+| 3 | youtube.com |   | 21,912 |
+| 4 | yahoo.co.jp |   | 17,250 |
+| 5 | youtu.be |   | 16,153 |
+| 6 | euractiv.es |   | 15,465 |
+| 7 | unitoo.it |   | 12,006 |
+| 8 | pixiv.net | 🌩 | 8,829 |
+| 9 | nhk.or.jp |   | 8,085 |
+| 10 | ycombinator.com | 🌩 | 7,253 |
+| 11 | weibo.com |   | 6,767 |
+| 12 | github.com |   | 6,174 |
+| 13 | itmedia.co.jp |   | 5,777 |
+| 14 | newsbots.eu |   | 5,737 |
+| 15 | politico.eu | 🌩 | 5,310 |
+| 16 | bit.ly |   | 5,045 |
+| 17 | spotify.com |   | 4,744 |
+| 18 | publico.es | 🌩 | 3,781 |
+| 19 | 4gamer.net |   | 3,444 |
+| 20 | blogspot.com |   | 3,418 |
+| 21 | impress.co.jp |   | 3,389 |
+| 22 | ddating.fun | 🌩 | 3,369 |
+| 23 | natalie.mu |   | 3,343 |
+| 24 | wikipedia.org |   | 3,326 |
+| 25 | lemonde.fr | 🌩 | 3,283 |
+| 26 | shindanmaker.com |   | 3,256 |
+| 27 | redd.it |   | 3,234 |
+| 28 | yanoagenda.com | 🌩 | 3,212 |
+| 29 | indianexpress.com |   | 3,111 |
+| 30 | bund.de |   | 3,009 |
+| 31 | nitter.net |   | 2,955 |
+| 32 | businessam.be | 🌩 | 2,945 |
+| 33 | rthk.hk |   | 2,886 |
+| 34 | tagesschau.de |   | 2,806 |
+| 35 | jandan.net |   | 2,653 |
+| 36 | guideachatgamer.com |   | 2,612 |
+| 37 | chouti.com |   | 2,573 |
+| 38 | elnacional.cat | 🌩 | 2,423 |
+| 39 | joukyunews.com | 🌩 | 2,415 |
+| 40 | 1d4.us | 🌩 | 2,366 |
+| 41 | svt.se |   | 2,362 |
+| 42 | theverge.com |   | 2,200 |
+| 43 | dw.com |   | 2,179 |
+| 44 | gitcom.org |   | 2,173 |
+| 45 | tryst.link |   | 2,126 |
+| 46 | reddit.com |   | 2,099 |
+| 47 | elpuntavui.cat | 🌩 | 2,099 |
+| 48 | ladies.de | 🌩 | 2,074 |
+| 49 | mantan-web.jp |   | 2,029 |
+| 50 | t.me |   | 2,002 |
 | 51 | talsperrenleitzentrale-ruhr.de |   | 1,958 |
-| 52 | google.com |   | 1,875 |
-| 53 | ift.tt |   | 1,859 |
-| 54 | imgur.com | 🌩 | 1,858 |
-| 55 | a-legend.net |   | 1,851 |
-| 56 | elperiodico.cat |   | 1,809 |
+| 52 | ift.tt |   | 1,894 |
+| 53 | a-legend.net |   | 1,861 |
+| 54 | imgur.com | 🌩 | 1,853 |
+| 55 | google.com |   | 1,830 |
+| 56 | elperiodico.cat |   | 1,808 |
 | 57 | tribuneindia.com |   | 1,804 |
-| 58 | amazon.co.jp |   | 1,793 |
-| 59 | bbc.co.uk |   | 1,789 |
-| 60 | misskey.io | 🌩 | 1,769 |
-| 61 | sos112.si |   | 1,748 |
-| 62 | twitch.tv |   | 1,734 |
-| 63 | khoinguyen.net.vn |   | 1,705 |
-| 64 | diariodemexico.com | 🌩 | 1,701 |
-| 65 | srf.ch |   | 1,691 |
-| 66 | sushi.ski | 🌩 | 1,681 |
-| 67 | famitsu.com |   | 1,675 |
-| 68 | derpibooru.org | 🌩 | 1,645 |
-| 69 | arxiv.org |   | 1,597 |
-| 70 | buff.ly |   | 1,595 |
-| 71 | togetter.com |   | 1,587 |
-| 72 | cadenaser.com |   | 1,515 |
-| 73 | kenh14.vn |   | 1,496 |
-| 74 | liberation.fr |   | 1,354 |
-| 75 | wordpress.com |   | 1,343 |
-| 76 | medicaldialogues.in |   | 1,335 |
-| 77 | soundcloud.com | 🌩 | 1,298 |
-| 78 | substack.com | 🌩 | 1,287 |
-| 79 | tinyurl.com | 🌩 | 1,221 |
-| 80 | aljazeera.com |   | 1,203 |
-| 81 | theguardian.com |   | 1,190 |
-| 82 | bbc.com | 🌩 | 1,181 |
-| 83 | reut.rs |   | 1,171 |
-| 84 | fdn.fr |   | 1,145 |
-| 85 | vtv.gob.ve |   | 1,139 |
-| 86 | cnet.com | 🌩 | 1,133 |
-| 87 | topwar.ru | 🌩 | 1,132 |
-| 88 | mk-mode.com |   | 1,085 |
-| 89 | gigazine.net | 🌩 | 1,083 |
-| 90 | rheinbahn.de |   | 1,077 |
-| 91 | lokalklick.eu |   | 1,073 |
-| 92 | pussthecat.org |   | 1,057 |
-| 93 | instagram.com |   | 1,039 |
-| 94 | weibo.cn |   | 1,038 |
-| 95 | kachelmannwetter.com | 🌩 | 1,029 |
-| 96 | europa.eu | 🌩 | 1,025 |
-| 97 | parlement-wallon.be |   | 1,023 |
-| 98 | telesurtv.net |   | 1,021 |
-| 99 | gizmodo.jp |   | 1,009 |
+| 58 | bbc.co.uk |   | 1,798 |
+| 59 | misskey.io | 🌩 | 1,770 |
+| 60 | sos112.si |   | 1,756 |
+| 61 | amazon.co.jp |   | 1,737 |
+| 62 | twitch.tv |   | 1,724 |
+| 63 | khoinguyen.net.vn |   | 1,717 |
+| 64 | srf.ch |   | 1,706 |
+| 65 | sushi.ski | 🌩 | 1,683 |
+| 66 | famitsu.com |   | 1,679 |
+| 67 | diariodemexico.com | 🌩 | 1,674 |
+| 68 | derpibooru.org | 🌩 | 1,646 |
+| 69 | arxiv.org |   | 1,596 |
+| 70 | buff.ly |   | 1,588 |
+| 71 | togetter.com |   | 1,585 |
+| 72 | cadenaser.com |   | 1,517 |
+| 73 | kenh14.vn |   | 1,488 |
+| 74 | liberation.fr |   | 1,359 |
+| 75 | wordpress.com |   | 1,339 |
+| 76 | medicaldialogues.in |   | 1,325 |
+| 77 | substack.com | 🌩 | 1,314 |
+| 78 | soundcloud.com | 🌩 | 1,294 |
+| 79 | aljazeera.com |   | 1,202 |
+| 80 | bbc.com | 🌩 | 1,185 |
+| 81 | theguardian.com |   | 1,185 |
+| 82 | reut.rs |   | 1,167 |
+| 83 | fdn.fr |   | 1,156 |
+| 84 | vtv.gob.ve |   | 1,140 |
+| 85 | cnet.com | 🌩 | 1,130 |
+| 86 | topwar.ru | 🌩 | 1,122 |
+| 87 | europa.eu | 🌩 | 1,095 |
+| 88 | gigazine.net | 🌩 | 1,082 |
+| 89 | lokalklick.eu |   | 1,082 |
+| 90 | rheinbahn.de |   | 1,076 |
+| 91 | mk-mode.com |   | 1,076 |
+| 92 | tinyurl.com | 🌩 | 1,055 |
+| 93 | instagram.com |   | 1,047 |
+| 94 | pussthecat.org |   | 1,047 |
+| 95 | parlement-wallon.be |   | 1,039 |
+| 96 | weibo.cn |   | 1,029 |
+| 97 | telesurtv.net |   | 1,022 |
+| 98 | gizmodo.jp |   | 1,007 |
+| 99 | fanbox.cc |   | 1,006 |
 | 100 | entabe.jp |   | 1,005 |
 
 [//]: # (do not edit this line end)
@@ -270,16 +270,16 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Language | Toots |
 | --- | --- | --- |
-| 1 | ja | 1,512,231 |
-| 2 | en | 708,168 |
-| 3 | zh | 266,682 |
-| 4 | de | 117,763 |
-| 5 | es | 97,795 |
-| 6 | fr | 81,908 |
-| 7 | pt | 23,186 |
-| 8 | it | 18,899 |
-| 9 | ru | 16,813 |
-| 10 | ca | 16,593 |
+| 1 | ja | 1,513,252 |
+| 2 | en | 710,313 |
+| 3 | zh | 267,638 |
+| 4 | de | 117,932 |
+| 5 | es | 97,853 |
+| 6 | fr | 82,086 |
+| 7 | pt | 23,067 |
+| 8 | it | 18,892 |
+| 9 | ru | 16,909 |
+| 10 | ca | 16,615 |
 
 [//]: # (do not edit this line end)
 
@@ -290,16 +290,16 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | # | Server | Cloudflare | Toots |
 | --- | --- | --- | --- |
-| 1 | pawoo.net |   | 275,777 |
-| 2 | botsin.space |   | 165,417 |
-| 3 | mastodon.social |   | 160,935 |
-| 4 | best-friends.chat |   | 142,342 |
-| 5 | mstdn.jp | 🌩 | 139,641 |
-| 6 | fedibird.com | 🌩 | 112,046 |
-| 7 | newsbots.eu |   | 83,936 |
-| 8 | imastodon.net |   | 75,477 |
-| 9 | mstdn.kemono-friends.info | 🌩 | 66,329 |
-| 10 | misskey.io | 🌩 | 54,352 |
+| 1 | pawoo.net |   | 275,199 |
+| 2 | botsin.space |   | 165,383 |
+| 3 | mastodon.social |   | 160,911 |
+| 4 | best-friends.chat |   | 142,165 |
+| 5 | mstdn.jp | 🌩 | 139,679 |
+| 6 | fedibird.com | 🌩 | 112,097 |
+| 7 | newsbots.eu |   | 84,355 |
+| 8 | imastodon.net |   | 75,916 |
+| 9 | mstdn.kemono-friends.info | 🌩 | 66,212 |
+| 10 | misskey.io | 🌩 | 54,310 |
 
 [//]: # (do not edit this line end)
 
@@ -309,24 +309,24 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 [//]: # (do not edit this line start; t5)
 
 
-- *54,650* Mastodon users posted *2,990,552* public toots.
+- *54,657* Mastodon users posted *2,995,331* public toots.
   - Above number include toots which has no link.
-    - About *96,469* toots/day by all users, *1.8* toots/day per user
+    - About *96,624* toots/day by all users, *1.8* toots/day per user
 - Now let's focus on *Mastodon toots which has any links*.
 
 ![](../../image/bully.jpg)
 
-- *25,465* Mastodon users posted *705,212* public toots contains 1,481,010 links. (about *2.1* links/toot)
+- *25,468* Mastodon users posted *706,358* public toots contains 1,491,759 links. (about *2.1* links/toot)
   - About *46.6*% of total Mastodon users shared any links.
     - About *53.4*% of total Mastodon users _does not_ share a link.
   - About *23.6*% of total Mastodon toots contains a link.
-- Inside *25,465* Mastodon users,
-  - There are *3,138* users who ONLY shared Cloudflare links. (*12.3*%)
-  - There are *12,264* users who NEVER shared Cloudflare links. (*48.2*%)
-- Inside *705,212* public toots,
-  - There are *33,624* base domains. ("_base_": both `www.youtube.com` `m.youtube.com` will be treated as `youtube.com`)
-- Inside *1,481,010* links,
-  - There are *337,403* Cloudflare links. (*22.8*%)
+- Inside *25,468* Mastodon users,
+  - There are *3,137* users who ONLY shared Cloudflare links. (*12.3*%)
+  - There are *12,255* users who NEVER shared Cloudflare links. (*48.1*%)
+- Inside *706,358* public toots,
+  - There are *33,609* base domains. ("_base_": both `www.youtube.com` `m.youtube.com` will be treated as `youtube.com`)
+- Inside *1,491,759* links,
+  - There are *339,728* Cloudflare links. (*22.8*%)
 
 
 
