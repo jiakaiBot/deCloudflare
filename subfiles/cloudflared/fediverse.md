@@ -195,6 +195,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | booba.bar | No |
 | booktoot.club | No |
 | bookwor.ms | No |
+| boosterfive.com | No |
 | boseburo.ddns.net | No |
 | botnet.social | No |
 | bots.franssen.xyz | No |
@@ -862,6 +863,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kancolle.social | No |
 | kanina.be | No |
 | kanoa.de | No |
+| kansas-city.social | No |
 | karagedon.com | No |
 | kasma.cyou | No |
 | kawaii.kitsune.cafe | No |
@@ -945,12 +947,10 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | lewd.town | No |
 | lgbt.im | No |
 | lgbt.io | No |
-| lhub.social | No |
 | lia.fail | No |
 | liber.chocoflan.net | No |
 | libera.tokyo | No |
 | liberal.city | No |
-| liberalism.masto.host | No |
 | liberdon.com | Yes |
 | libereco.social | No |
 | libertalia.world | No |
@@ -1011,7 +1011,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.g3l.org | No |
 | m.hitorino.moe | Yes |
 | m.hoshisaki-h.com | No |
-| m.jinwei.me | Yes |
 | m.kirishima.cloud | No |
 | m.kretschmann.social | No |
 | m.moec.top | No |
@@ -1231,7 +1230,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.online | No |
 | mastodon.opencloud.lu | No |
 | mastodon.opportunis.me | No |
-| mastodon.orani.co | No |
 | mastodon.org.uk | No |
 | mastodon.parleur.net | No |
 | mastodon.partecipa.digital | No |
@@ -1795,6 +1793,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.breizh.pm | No |
 | pleroma.chagratt.site | No |
 | pleroma.chez-papy-daarky.ovh | No |
+| pleroma.cloud | No |
 | pleroma.crowesnest.io | No |
 | pleroma.cybervalley.org | No |
 | pleroma.dark-alexandr.net | No |
@@ -2127,7 +2126,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.alesan.io | No |
 | social.alternativebit.fr | No |
 | social.alyve.be | No |
-| social.ancreport.com | No |
 | social.anon-groups.de | No |
 | social.anoxinon.de | No |
 | social.anthro.cc | No |
@@ -2312,7 +2310,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.rights.ninja | Yes |
 | social.rousselie.name | No |
 | social.rt4mn.org | No |
-| social.ruby2sday.net | Yes |
 | social.rustysoft.de | No |
 | social.saarland | No |
 | social.sakamoto.gq | No |
@@ -2339,7 +2336,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.ssbx.dev | No |
 | social.stracknet.com | No |
 | social.sunnypup.io | No |
-| social.surfnet.space | No |
 | social.tadzik.net | No |
 | social.taker.fr | No |
 | social.targaryen.house | No |
@@ -2367,6 +2363,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.up.edu.ph | Yes |
 | social.urspringer.de | No |
 | social.vestimento.fashion | No |
+| social.voidptr.org | No |
 | social.weho.st | No |
 | social.wien.rocks | No |
 | social.wildeboer.net | No |
@@ -2445,6 +2442,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | syasai.club | No |
 | systerserver.town | No |
 | syui.cf | Yes |
+| syvita.club | No |
 | t.aqn.jp | No |
 | t.basspistol.org | No |
 | tablegame.mstdn.cloud | No |
@@ -2538,10 +2536,10 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toot.party | No |
 | toot.phseiff.com | No |
 | toot.portes-imaginaire.org | No |
+| toot.pt | No |
 | toot.rainbow-100.com | No |
 | toot.si | No |
 | toot.site | Yes |
-| toot.snowgoons.ro | Yes |
 | toot.tantalum.life | Yes |
 | toot.thedoodleproject.net | No |
 | toot.thoughtworks.com | Yes |
@@ -2769,8 +2767,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 522 |
-| Normal | 2,210 |
+| Cloudflare | 519 |
+| Normal | 2,211 |
 
 
-### 19.1% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
