@@ -308,6 +308,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cornerof.world | No |
 | cornichon.me | No |
 | corrupteddreams.com | No |
+| cosmos.social | Yes |
 | counter.fedi.live | No |
 | cowfee.org | No |
 | crazylab.online | No |
@@ -403,7 +404,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | dresden.network | No |
 | drizzle-damp.net | No |
 | dtp-mstdn.jp | Yes |
-| duckchat.me | No |
 | dudu.best | Yes |
 | dumpkin.monster | Yes |
 | dustinwilson.com | No |
@@ -668,8 +668,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | godforsaken.website | No |
 | goggles.social | No |
 | gomastodon.cz | Yes |
-| goodass.dog | No |
 | gorf.pub | No |
+| gorgon.city | No |
 | gorone.xyz | Yes |
 | gould.cx | Yes |
 | goyim.app | No |
@@ -749,7 +749,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hub.debenny.de | No |
 | hub.designor.de | No |
 | hub.disroot.org | No |
-| hub.elemac.fr | No |
 | hub.hayfidelity.de | No |
 | hub.hubzilla.de | No |
 | hub.libranet.de | No |
@@ -1017,6 +1016,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.mtlynch.io | No |
 | m.nebula.moe | Yes |
 | m.nintendojo.fr | No |
+| m.rthome.me | No |
 | m.sirousa.me | No |
 | m.sprovoost.nl | No |
 | m.thibau.lt | No |
@@ -1269,7 +1269,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.tekdmn.me | No |
 | mastodon.tetaneutral.net | No |
 | mastodon.tiennot.net | No |
-| mastodon.toeushimwk.work | No |
 | mastodon.tojo.tokyo | No |
 | mastodon.tokyo | No |
 | mastodon.toni.im | No |
@@ -1332,6 +1331,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | melmc.nohost.me | No |
 | melonbread.dev | No |
 | member.thenobody.club | No |
+| mengobrol.com | Yes |
 | mental.social | No |
 | mentalhealth.social | No |
 | meow.social | No |
@@ -1709,7 +1709,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | patchouli.today | Yes |
 | patchwork.link | No |
 | pawoo.net | No |
-| paws.moe | No |
 | paxation.info | No |
 | paypig.org | Yes |
 | pcgamer.social | Yes |
@@ -2296,6 +2295,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.pcwideopen.com | No |
 | social.penguinability.net | No |
 | social.pinkduck.xyz | No |
+| social.piperrak.cc | No |
 | social.pmj.rocks | No |
 | social.politicaconciencia.org | No |
 | social.polymerwitch.com | No |
@@ -2517,7 +2517,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | toot.fedilab.app | No |
 | toot.forth.works | No |
 | toot.gnous.eu | No |
-| toot.hoec3.de | No |
 | toot.host | No |
 | toot.icyphox.sh | No |
 | toot.io | No |
@@ -2767,8 +2766,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 519 |
-| Normal | 2,211 |
+| Cloudflare | 521 |
+| Normal | 2,208 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 19.1% of public Fediverse services are using Cloudflare.
