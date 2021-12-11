@@ -7,6 +7,8 @@
 
 
 
+- please solve your cloudflare issue so Indonesia people can access sandbox website again, it's still error 1020... ([kaptencrypto707](https://twitter.com/kaptencrypto707/status/1469379587264024576))
+- What´s going on with your website. I have been blocked by cloudflare and can´t access it anymore ([ailish100](https://twitter.com/Ailish100/status/1469362392450703368))
 - I will see you pass by then:) A percentage will use Cloudflare, they haven’t blocked you yet? ([pepijnniesten](https://twitter.com/pepijnniesten/status/1469162352444641283))
 - Cloudflare is fucking up. I'm getting API Request Failed: POST /api/v4/login (403) Cannot login. Stupid as shit. ([icze4r](https://twitter.com/icze4r/status/1469136944605147141))
 - fb the website has a cloudflare error + i got notis on ([nbaanton](https://twitter.com/NBAAnton/status/1469028769637838852))
