@@ -7,6 +7,7 @@
 
 
 
+- This #Cloudflare site also falsely claims: “The only circumstance in which we may share your information is when cooperating with the Unites States Government as required by law.” Activists: plz complain to the US agency that regulates false advertising. I believe that’s the #FTC. The more letters the FTC receives, the more likely it will have effect. ([bojkotimalbona](https://infosec.exchange/@bojkotiMalbona/107430481586363080))
 - Anyway Cloudflare is blocking the shit out of log4shell attempts so I can sleep easy this weekend ([goat](https://hellsite.site/@goat/107428186716876665))
 - 2 things matter: nicole and burning cloudflare to the ground ([mia](https://disqordia.space/objects/24089734-d8e5-485f-b69d-a9cde5aff3ed))
 - in light of the recent java exploit found i would like to say please lord god above someone kill cloudflare ([mia](https://disqordia.space/objects/b21a7252-03a3-410b-a5f2-9a40476f3a87))
