@@ -7,6 +7,7 @@
 
 
 
+- Any updates on how many requests cloudflared blocked so far for their clients? Im guessing all hackers are just scanning the web right now trying it ([bjorklundvictor](https://twitter.com/BjorklundVictor/status/1469614564278947850))
 - If you're the owner of this website: Check your DNS Settings. A 523 error means that Cloudflare could not reach your host web server. The most common cause is that your DNS settings are incorrect. Please contact your hosting provider to confirm your origin IP and then make sure t ([yeeeesnt](https://twitter.com/yeeeesnt/status/1469477826403475460))
 - please solve your cloudflare issue so Indonesia people can access sandbox website again, it's still error 1020... ([kaptencrypto707](https://twitter.com/kaptencrypto707/status/1469379587264024576))
 - What´s going on with your website. I have been blocked by cloudflare and can´t access it anymore ([ailish100](https://twitter.com/Ailish100/status/1469362392450703368))
