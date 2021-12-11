@@ -92,7 +92,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ani.work | Yes |
 | animal-crossing.mastportal.info | No |
 | anime.website | No |
-| annaclemens.io | Yes |
 | anonsys.net | No |
 | antabaka.me | No |
 | anticapitalist.party | Yes |
@@ -1024,6 +1023,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.mtlynch.io | No |
 | m.nebula.moe | Yes |
 | m.nintendojo.fr | No |
+| m.peach.dog | Yes |
 | m.rthome.me | No |
 | m.sirousa.me | No |
 | m.sprovoost.nl | No |
@@ -1152,7 +1152,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.esmevane.com | No |
 | mastodon.ethibox.fr | No |
 | mastodon.eus | No |
-| mastodon.evolix.org | No |
 | mastodon.exp0.ml | No |
 | mastodon.f-si.org | No |
 | mastodon.falktx.com | No |
@@ -1194,6 +1193,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.jemverse.xyz | Yes |
 | mastodon.jpages.eu | No |
 | mastodon.juggler.jp | No |
+| mastodon.kaiserflur.de | No |
 | mastodon.kitchen | No |
 | mastodon.kleph.eu | No |
 | mastodon.ktachibana.party | Yes |
@@ -1402,7 +1402,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | misskey.seediqbale.xyz | No |
 | misskey.t-asa2000.net | No |
 | misskey.tech | Yes |
-| misskey.to | No |
 | misskey.traction.jp | No |
 | misskey.weebcouncil.online | No |
 | misskey.xianon.net | Yes |
@@ -1671,7 +1670,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ondergrond.org | Yes |
 | one.telmina.com | No |
 | oninawa.masto.host | No |
-| online-hangout.com | No |
 | onlycasino.legal | Yes |
 | onlyfeds.cc | Yes |
 | onsen-musume.fun | Yes |
@@ -2070,6 +2068,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | silkhe.art | Yes |
 | simkey.net | Yes |
 | sindicato.social | No |
+| sir.dhslammer.com | No |
 | sirius1228.space | Yes |
 | sitedethib.com | No |
 | skeleton.cool | No |
@@ -2483,6 +2482,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | the-pit.uk | No |
 | the.goofs.space | No |
 | the.vermonters.club | No |
+| the.xanny.family | No |
 | the9thcircle.club | No |
 | theautisticinvestors.quest | No |
 | thebag.social | No |
@@ -2725,7 +2725,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | xarxa.cloud | No |
 | xarxamontgri.masto.host | No |
 | xgix.net | Yes |
-| xice.org | Yes |
 | xiii.ch | No |
 | xoxo.zone | Yes |
 | xxx.azyobuzi.net | No |
@@ -2773,8 +2772,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 522 |
+| Cloudflare | 521 |
 | Normal | 2,214 |
 
 
-### 19.1% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
