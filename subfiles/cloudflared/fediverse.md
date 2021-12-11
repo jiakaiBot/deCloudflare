@@ -130,6 +130,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | backyard.cloud | No |
 | badgay.net | No |
 | bae.st | No |
+| balkan.fedive.rs | No |
 | banana.dog | Yes |
 | bananachips.club | No |
 | bangdream.space | Yes |
@@ -204,7 +205,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bouvardia.icu | Yes |
 | braydmedia.de | No |
 | brighteon.social | Yes |
-| brilliantdilletants.masto.host | No |
 | brokenmirror.cc | No |
 | bsd.network | No |
 | btc21m.net | No |
@@ -319,7 +319,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cunny.finance | No |
 | curmudgeon.cafe | No |
 | cute.is | No |
-| cute.science | No |
 | cuties.social | No |
 | cybert-media.net | No |
 | cybre.space | No |
@@ -504,6 +503,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.nullob.si | Yes |
 | fedi.sabatino.pro | No |
 | fedi.scd31.com | No |
+| fedi.skladka.net | No |
 | fedi.tesaguri.club | No |
 | fedi.underscore.world | No |
 | fedi.xaloc.space | No |
@@ -673,7 +673,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | gorf.pub | No |
 | gorgon.city | No |
 | gorone.xyz | Yes |
-| gould.cx | Yes |
 | goyim.app | No |
 | gp.tsukimi.club | Yes |
 | gravure.club | No |
@@ -802,7 +801,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | im-in.space | No |
 | im.allmendenetz.de | No |
 | im.sb | No |
-| im.thymrios.com | No |
 | imaginair.es | No |
 | imastodon.blue | No |
 | imastodon.net | No |
@@ -826,7 +824,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ippandon.hopto.org | No |
 | is-he.re | No |
 | is-heckin.gay | Yes |
-| is.a.qute.dog | No |
 | is.aaronbsmith.com | No |
 | is.badat.dev | No |
 | is.nota.live | No |
@@ -924,6 +921,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kuroharu.hostdon.ne.jp | Yes |
 | kys.moe | Yes |
 | la-verite-vaincra.nohost.me | No |
+| labonneheure.ch | No |
 | lagemeet.duckdns.org | No |
 | lain.com | No |
 | lainchan.gay | No |
@@ -1035,6 +1033,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.yihao.moe | Yes |
 | m6n.onsen.tech | Yes |
 | ma.fono.jp | No |
+| ma.kaioken.space | No |
 | ma.strangeworld.jp | No |
 | machikadon.online | Yes |
 | machteburch.social | No |
@@ -1247,6 +1246,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.postmoderns.info | No |
 | mastodon.potager.org | No |
 | mastodon.potproject.net | No |
+| mastodon.ppcis.org | No |
 | mastodon.quantumindigo.org | Yes |
 | mastodon.radio | No |
 | mastodon.radiosonline.cloud | No |
@@ -1751,6 +1751,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pl.eragon.re | No |
 | pl.escapism.work | Yes |
 | pl.eternawings.com | Yes |
+| pl.fediverse.express | No |
 | pl.firechicken.net | No |
 | pl.gamers.exposed | No |
 | pl.gnu.moe | No |
@@ -1848,6 +1849,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.nthomas20.net | No |
 | pleroma.otter.sh | No |
 | pleroma.p4g.club | Yes |
+| pleroma.pixificial.xyz | No |
 | pleroma.popolon.org | No |
 | pleroma.poslovitch.fr | No |
 | pleroma.pt | No |
@@ -1974,6 +1976,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | remerge.net | No |
 | retro.social | No |
 | rettiwtkcuf.social | No |
+| reve.land | Yes |
 | rezo.mig5.net | No |
 | rhabarberbarbara.bar | Yes |
 | ribeiro.social | No |
@@ -2477,7 +2480,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | teslam.in | Yes |
 | tfl.net.pl | No |
 | tfwnogf.nl | No |
-| tha.closed.social | Yes |
 | the-box.work | No |
 | the-pit.uk | No |
 | the.goofs.space | No |
@@ -2597,6 +2599,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | twit.social | No |
 | twitter.1d4.us | Yes |
 | txs.es | No |
+| txwb.org | No |
 | tymoon.eu | Yes |
 | types.pl | No |
 | typo.science | Yes |
@@ -2634,6 +2637,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | utodon.jp | No |
 | utopia.cool | No |
 | utxo.id | No |
+| uuuu.bigguys.club | No |
 | uwu.social | Yes |
 | v-insanity.com | No |
 | v.st | No |
@@ -2772,8 +2776,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 521 |
-| Normal | 2,214 |
+| Cloudflare | 520 |
+| Normal | 2,219 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
