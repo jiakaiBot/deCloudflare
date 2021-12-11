@@ -251,6 +251,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cdrom.tokyo | No |
 | cdstm.ch | No |
 | chabant.social | No |
+| chanyukming.com | Yes |
 | chaos.social | No |
 | chaosphere.hostdon.jp | No |
 | charlestown.social | No |
@@ -318,6 +319,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | cum.desupost.soy | No |
 | cunny.finance | No |
 | curmudgeon.cafe | No |
+| cute.is | No |
 | cute.science | No |
 | cuties.social | No |
 | cybert-media.net | No |
@@ -421,6 +423,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | efdn.club | No |
 | egirls.gay | No |
 | eicker.news | No |
+| eigener.host | No |
 | eigenmagic.net | Yes |
 | eihei.net | Yes |
 | eldritch.cafe | No |
@@ -457,7 +460,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | etiketi.de | No |
 | eupublic.social | No |
 | eveningzoo.club | No |
-| everything.happens.horse | No |
 | evil.social | Yes |
 | eweg.be | No |
 | expired.mentality.rip | No |
@@ -516,6 +518,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fediverse-lite.com | Yes |
 | fediverse.keithzg.ca | No |
 | fediverse.pl | Yes |
+| fediverse.wesnoth.org | No |
 | fediverse.xavin.net | No |
 | feedbeat.me | No |
 | felesitas.cloud | No |
@@ -679,6 +682,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | greatjustice.net | No |
 | greenish.red | Yes |
 | grindcore.ch | No |
+| grml.de | No |
 | groundpolis.app | No |
 | gruene.social | No |
 | grumpys.online | Yes |
@@ -765,6 +769,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hubzil.la | No |
 | hubzilla.com.br | No |
 | hubzilla.cyberwald.com | No |
+| hubzilla.dark-alexandr.net | No |
 | hubzilla.eu | No |
 | hubzilla.konzurovski.net | No |
 | hubzilla.l-p-d.org | No |
@@ -981,6 +986,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | london.fetish.church | No |
 | lonely.town | No |
 | lono.space | Yes |
+| lopp.social | No |
 | lor.sh | Yes |
 | lou.lt | Yes |
 | loutre.info | No |
@@ -1011,6 +1017,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | m.g3l.org | No |
 | m.hitorino.moe | Yes |
 | m.hoshisaki-h.com | No |
+| m.jinwei.me | Yes |
 | m.kirishima.cloud | No |
 | m.kretschmann.social | No |
 | m.moec.top | No |
@@ -1660,7 +1667,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ofuton.io | No |
 | okadon.masto.host | No |
 | oldbytes.space | No |
-| olds.town | No |
 | omochi.xyz | No |
 | ondergrond.org | Yes |
 | one.telmina.com | No |
@@ -1710,6 +1716,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | patchouli.today | Yes |
 | patchwork.link | No |
 | pawoo.net | No |
+| paws.moe | No |
 | paxation.info | No |
 | paypig.org | Yes |
 | pcgamer.social | Yes |
@@ -1962,7 +1969,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | rebelbase.site | No |
 | reco.shrieker.net | No |
 | recurse.social | No |
-| red.tiliches.net | No |
 | redliberal.com | No |
 | redroo.ml | No |
 | redwombat.social | Yes |
@@ -2068,6 +2074,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sitedethib.com | No |
 | skeleton.cool | No |
 | ski.na2na.website | Yes |
+| skinnyver.se | No |
 | skippers-bin.com | Yes |
 | skoops.social | No |
 | skorpil.cz | No |
@@ -2170,7 +2177,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.da-am.com | Yes |
 | social.danksquad.org | No |
 | social.darks.fr | No |
-| social.daspr.io | Yes |
 | social.dc6jgk.de | No |
 | social.deadsuperhero.com | No |
 | social.dev-wiki.de | No |
@@ -2232,7 +2238,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.jesuislibre.net | No |
 | social.jfischer.org | No |
 | social.joschu.ch | No |
-| social.k1ppl.com | Yes |
 | social.kabi.tk | No |
 | social.kartoffelcheetah.eu | No |
 | social.kennyqin.com | No |
@@ -2345,6 +2350,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.teci.world | No |
 | social.thecrow.uk | No |
 | social.thiskurt.me | No |
+| social.timespiral.co.jp | No |
 | social.tmprs.net | No |
 | social.tonholzpixel.de | No |
 | social.tourmentine.com | No |
@@ -2391,6 +2397,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sometimes.when.computer | No |
 | sonomu.club | No |
 | sorcie.re | No |
+| sosial.mengobrol.com | Yes |
 | sotong.cloud | No |
 | soundcafe.nl | No |
 | soykaf.org | Yes |
@@ -2477,6 +2484,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | the.goofs.space | No |
 | the.vermonters.club | No |
 | the9thcircle.club | No |
+| theautisticinvestors.quest | No |
 | thebag.social | No |
 | thechairman.info | No |
 | thecitadel.social | No |
@@ -2582,7 +2590,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tutut.delire.party | No |
 | tuusin.misono-ya.info | No |
 | tvitero.com | No |
-| twatter.catvibers.me | Yes |
 | twiddon.com | No |
 | twingyeo.kr | Yes |
 | twinkaga.in | No |
@@ -2617,6 +2624,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | unmensch.xyz | No |
 | unnerv.jp | No |
 | uno.today | Yes |
+| unperson.us | No |
 | unstable.icu | No |
 | unstoppablecode.org | No |
 | upallnight.minnix.dev | No |
@@ -2766,7 +2774,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 522 |
-| Normal | 2,206 |
+| Normal | 2,214 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
