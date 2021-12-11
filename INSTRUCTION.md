@@ -226,7 +226,8 @@ Thank you for your contribution.
 
 Your contribution will be pushed to git automatically.
 - Cloudflare
-  - Scan FQDN on "[Query Database](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_qdb.php)" webpage.
+  - Use [CfDomains](tool/cfdomains/README.md) report tool.
+  - Or: Scan FQDN on "[Query Database](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_qdb.php)" webpage.
   - Or: Use add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)"
   - Or: Use Ss' "_MITM test_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 -X POST -F 'f=www.emsisoft.com' (API URL)is_mitm.php`
