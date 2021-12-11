@@ -7,6 +7,7 @@
 
 
 
+- 2 things matter: nicole and burning cloudflare to the ground ([mia](https://disqordia.space/objects/24089734-d8e5-485f-b69d-a9cde5aff3ed))
 - in light of the recent java exploit found i would like to say please lord god above someone kill cloudflare ([mia](https://disqordia.space/objects/b21a7252-03a3-410b-a5f2-9a40476f3a87))
 - Wait I just noticed that the #Artix website is behind #Cloudflare 🤮🥶 ([twann](https://fosstodon.org/@twann/107419315043199176))
 - #Ecosia just keeps getting worse and worse. Now they’ve become a #Cloudflare site which is a show stopper for privacy enthusiasts and should be a show stopper from a #climateAction standpoint as well. ([bojkotimalbona](https://infosec.exchange/@bojkotiMalbona/107418616966357895))
