@@ -1698,6 +1698,7 @@ Or is this merely a case of simple modesty?
 | Xu Haitao | Account Executive |  |
 | Xuzhe Quincy Zhuang | Technical Support Engineer |  |
 | Yaely Knebel | Customer Success Engineer |  |
+| Yair Dovrat | Employee | |
 | Yana Chen | Customer Success |  |
 | Yan Zhai | Systems Engineer | [🖼](../image/gang/Yan_Zhai.jpg) |
 | Yeo Kezhong | Enterprise Account Manager |  |
