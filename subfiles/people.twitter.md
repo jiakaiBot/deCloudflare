@@ -7,6 +7,7 @@
 
 
 
+- So now Cloudflare blocking all jndi payloads for log4j. Any character starts with $j is detected by it, and no bypass is able to pass through it ? If any can bypass it share it to the community. ([sherlocksecure](https://twitter.com/sherlocksecure/status/1469847619929206784))
 - Correct me if I’m wrong, but that is the blocked error page no? It appears the WAF works as intended? ([catgirldev](https://twitter.com/CatgirlDev/status/1469799651285118977))
 - My website is hosted in Canada but can be viewed by anyone in the world, yeah.. it could be slower, but you aren't going to get a 'access denied' message from Cloudflare. That's something they've done themselves. They blocked the UK as a country or whitelisted only USA. ([thatprogrammer](https://twitter.com/ThatProgrammer/status/1469676333487824899))
 - Any updates on how many requests cloudflared blocked so far for their clients? Im guessing all hackers are just scanning the web right now trying it ([bjorklundvictor](https://twitter.com/BjorklundVictor/status/1469614564278947850))
