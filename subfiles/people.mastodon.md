@@ -7,6 +7,7 @@
 
 
 
+- @MitiGator post_this Hi Fedizens, you may remember me as #altLink — yelling from the corner of the avatar. In a #Kafkaesque moment of quality frustration I morphed into #MitiGator the #MITM Prevention Alligator. As always, you can follow me and I'll follow you, to let you know when you accidentally toot a dodgy website. DID YOU KNOW I don't just #Cloudflare-warn? Over the next days I'll share some nice things I can do. Together, we can 'snap back' against the #MITMAttack! #foss #fediService ([dsfgs](https://activism.openworlds.info/@dsfgs/107434824184625794))
 - @strypey @dsfgs All the #CAPTCHA that #Cloudflare pushes are a graphical thus significant waste of bandwidth as well. So I suppose #Cloudflare &amp; #permaculture are incompatible from an environmental point of view. ([bojkotimalbona](https://infosec.exchange/@bojkotiMalbona/107433865661728409))
 - @strypey @dsfgs All the #CAPTCHA that #Cloudflare pushes are a graphical (thus significant) waste of bandwidth as well. So I suppose #Cloudflare &amp; #permaculture are incompatible from an environmental point of view. ([bojkotimalbona](https://infosec.exchange/@bojkotiMalbona/107433866830572682))
 - but seriously some big player like cloudflare should step in once and say "by 2023 we will drop ipv4" or something like that ([vib](https://snug.moe/notes/8u6ndrkxug))
