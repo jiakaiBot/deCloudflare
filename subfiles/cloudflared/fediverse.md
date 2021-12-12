@@ -206,7 +206,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | brighteon.social | Yes |
 | brokenmirror.cc | No |
 | bsd.network | No |
-| btc21m.net | No |
+| btc21m.net | Yes |
 | bub.cat | No |
 | bumpto.space | Yes |
 | bungle.online | No |
@@ -349,6 +349,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | desu.social | No |
 | detroitriotcity.com | No |
 | dev.mis.b-shock.org | No |
+| devil-children-alitaso.com | Yes |
 | devin.masto.host | No |
 | diaspodon.fr | No |
 | dica.interfel.de | No |
@@ -724,7 +725,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | high.cat | No |
 | hikoukidon.jp | No |
 | himk.am | Yes |
-| hingst.net | No |
 | hispabot.myvnc.com | No |
 | hispagatos.space | No |
 | hitchhiker.social | No |
@@ -1367,7 +1367,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mis.syusyu.cloudns.nz | No |
 | misc.name | No |
 | misk.hoshisaki-h.com | No |
-| misky.rikunagiweb.jp | No |
+| misky.rikunagiweb.jp | Yes |
 | miss-myhouse-key.net | Yes |
 | misskey-exp.cyberrex.jp | Yes |
 | misskey.ai | No |
@@ -1396,6 +1396,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | misskey.ruste.red | No |
 | misskey.sc3.fun | Yes |
 | misskey.seediqbale.xyz | No |
+| misskey.shinaaamo.com | No |
 | misskey.t-asa2000.net | No |
 | misskey.tech | Yes |
 | misskey.traction.jp | No |
@@ -1600,6 +1601,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | nerdica.net | No |
 | net4sw.com | No |
 | netzsphaere.xyz | No |
+| neue.city | No |
 | newsbots.eu | No |
 | newskey.cc | Yes |
 | newsocial.tech | Yes |
@@ -1679,7 +1681,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | orctavern.pub | No |
 | orebro.online | No |
 | orenoshiro.site | No |
-| orz.uno | Yes |
 | osa.tepewu.pl | No |
 | oslo.town | No |
 | osna.social | No |
@@ -2293,7 +2294,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.opennerds.org | No |
 | social.outsourcedmath.com | No |
 | social.outv.im | Yes |
-| social.paladyn.org | No |
 | social.pcwideopen.com | No |
 | social.penguinability.net | No |
 | social.pinkduck.xyz | No |
@@ -2326,6 +2326,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.servus.at | No |
 | social.shadowfacts.net | Yes |
 | social.shadowkat.net | No |
+| social.silkky.cloud | Yes |
 | social.simcu.com | No |
 | social.skewed.de | No |
 | social.skrep.in | No |
@@ -2692,7 +2693,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | wien.rocks | No |
 | wife.town | No |
 | wintermute.fr.to | No |
-| wirebug.ch | No |
 | wireless.cat6.network | Yes |
 | witches.live | No |
 | witches.social | No |
@@ -2772,8 +2772,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 520 |
-| Normal | 2,215 |
+| Cloudflare | 523 |
+| Normal | 2,212 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 19.1% of public Fediverse services are using Cloudflare.
