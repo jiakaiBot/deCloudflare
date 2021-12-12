@@ -7,6 +7,8 @@
 
 
 
+- @strypey @dsfgs All the #CAPTCHA that #Cloudflare pushes are a graphical thus significant waste of bandwidth as well. So I suppose #Cloudflare &amp; #permaculture are incompatible from an environmental point of view. ([bojkotimalbona](https://infosec.exchange/@bojkotiMalbona/107433865661728409))
+- @strypey @dsfgs All the #CAPTCHA that #Cloudflare pushes are a graphical (thus significant) waste of bandwidth as well. So I suppose #Cloudflare &amp; #permaculture are incompatible from an environmental point of view. ([bojkotimalbona](https://infosec.exchange/@bojkotiMalbona/107433866830572682))
 - but seriously some big player like cloudflare should step in once and say "by 2023 we will drop ipv4" or something like that ([vib](https://snug.moe/notes/8u6ndrkxug))
 - @strypey These #smallDifferences, what would you say they are today? Those who are against authoritarian covid response, and those against the less medically experimented upon? By restricting the frame to #covidResponse it keeps the focus of the #whiteCollar crimes, including the #miscarriagesOfJustice against Assange etc. They are also known to maintain #extremeRight sects, that they can roll out against effective progressives. We suspect #Cloudflare are part of this "support" structure. ([dsfgs](https://activism.openworlds.info/@dsfgs/107433459565119833))
 - How can an oversupply of people be harnessed against itself? Enter #Cloudflare. ([dsfgs](https://activism.openworlds.info/@dsfgs/107433485452584547))
