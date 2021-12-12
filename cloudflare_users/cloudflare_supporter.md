@@ -3174,6 +3174,7 @@ Do not create new issue or we will close it as duplicate.
 | [LinhVn37138107@twitter](https://twitter.com/LinhVn37138107/status/1396196073756971008) | advertise |
 | [linhwidj@twitter](https://twitter.com/linhwidj/status/1397409450781073409) | advertise |
 | [Linker75864405@twitter](https://twitter.com/Linker75864405/status/1394614312363122690) | advertise |
+| [linkgyapp@twitter](https://twitter.com/linkgyapp/status/1469724881122177028) | advertise |
 | [LiNKhan10093566@twitter](https://twitter.com/LiNKhan10093566/status/1391248063642185728) | advertise |
 | [link_porn_xxx@twitter](https://twitter.com/link_porn_xxx/status/1468220158116175873) | advertise |
 | [LinlattN@twitter](https://twitter.com/LinlattN/status/1389301241398824975) | advertise |
