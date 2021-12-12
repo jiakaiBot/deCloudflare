@@ -209,7 +209,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | bsd.network | No |
 | btc21m.net | No |
 | bub.cat | No |
-| budsbots.com | No |
 | bumpto.space | Yes |
 | bungle.online | No |
 | bunne.garden | No |
@@ -241,6 +240,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | casually.cat | No |
 | cat.family | No |
 | catgirl.life | No |
+| catgirl.misskey.lol | No |
 | catgram.jp | Yes |
 | cathode.church | No |
 | cave.mancave.de | No |
@@ -334,6 +334,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | dain.moe | Yes |
 | dallas.lu | Yes |
 | dannythe.site | No |
+| darkesttimeline.social | No |
 | darmstadt.social | Yes |
 | darui.work | No |
 | deadinsi.de | Yes |
@@ -467,7 +468,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | f.haeder.net | No |
 | f.jymuoyu.com | Yes |
 | f.praschnig.com | No |
-| f.prvcy.eu | No |
 | fair-verhandeln.de | No |
 | faithcollapsing.com | No |
 | fandom.garden | No |
@@ -880,7 +880,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kettle.social | No |
 | key.erica.moe | No |
 | keybored.me | No |
-| kfem.cat | No |
 | khat.komitea.fi | No |
 | khiar.net | Yes |
 | khp.ignorelist.com | Yes |
@@ -1077,7 +1076,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | masthead.social | Yes |
 | masto.1146.nohost.me | No |
 | masto.asonix.dog | No |
-| masto.beer | No |
 | masto.bobbybasement.noho.st | No |
 | masto.donte.com.br | Yes |
 | masto.evelynyap.com | No |
@@ -1696,6 +1694,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | outerheaven.club | No |
 | oval.cc | No |
 | owlper.ch | No |
+| ozbustard.social | No |
 | ozhika.me | No |
 | p.ashiato45.net | No |
 | p.mr64.net | No |
@@ -1905,7 +1904,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pouet.couchet.org | No |
 | pouet.grossard.fr | No |
 | pouet.it | No |
-| pouet.mickaelgillot.xyz | No |
 | pounced-on.me | No |
 | pouque.net | No |
 | ppl.town | No |
@@ -2052,7 +2050,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | sfba.social | No |
 | sgp.hostdon.ne.jp | Yes |
 | shadowverdon.info | No |
-| share.elouworld.org | No |
 | sheikah.online | No |
 | shelter.moe | No |
 | shelter.social | Yes |
@@ -2360,6 +2357,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.troll.academy | No |
 | social.trom.tf | No |
 | social.tromdienste.de | No |
+| social.truman.me.uk | No |
 | social.ttree.ch | Yes |
 | social.tulsa.ok.us | No |
 | social.tumelum.de | No |
@@ -2372,6 +2370,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.urspringer.de | No |
 | social.vestimento.fashion | No |
 | social.voidptr.org | No |
+| social.vrutkovs.eu | No |
 | social.weho.st | No |
 | social.wien.rocks | No |
 | social.wildeboer.net | No |
@@ -2580,7 +2579,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | travel-friends.chat | No |
 | travelpandas.fr | No |
 | troet.cafe | No |
-| troll.cafe | No |
 | trollian.space | No |
 | trpg.cloud | No |
 | trunk.mad-scientist.club | No |
@@ -2777,7 +2775,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 520 |
-| Normal | 2,219 |
+| Normal | 2,217 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
