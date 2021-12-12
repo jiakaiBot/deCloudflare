@@ -7,6 +7,10 @@
 
 
 
+- but seriously some big player like cloudflare should step in once and say "by 2023 we will drop ipv4" or something like that ([vib](https://snug.moe/notes/8u6ndrkxug))
+- @strypey These #smallDifferences, what would you say they are today? Those who are against authoritarian covid response, and those against the less medically experimented upon? By restricting the frame to #covidResponse it keeps the focus of the #whiteCollar crimes, including the #miscarriagesOfJustice against Assange etc. They are also known to maintain #extremeRight sects, that they can roll out against effective progressives. We suspect #Cloudflare are part of this "support" structure. ([dsfgs](https://activism.openworlds.info/@dsfgs/107433459565119833))
+- How can an oversupply of people be harnessed against itself? Enter #Cloudflare. ([dsfgs](https://activism.openworlds.info/@dsfgs/107433485452584547))
+- @strypey 2/2 Given the sheer number of extremeRight groups that are under Cloudflare control and such. If you are an effective #progressive, we are quite certain that you can expect to be… disrupted. Its unfortunate but keep your end up. ([dsfgs](https://activism.openworlds.info/@dsfgs/107433521763475748))
 - @dirb Yeah, checking the blockchain ourselves instead of relying on cloudflare. hehe :jcdenton: ([chuculate](https://pleroma.skyshanty.xyz/objects/76fb14b9-a4d3-4daf-9dd9-287f4acb46a1))
 - This #Cloudflare site also falsely claims: “The only circumstance in which we may share your information is when cooperating with the Unites States Government as required by law.” Activists: plz complain to the US agency that regulates false advertising. I believe that’s the #FTC. The more letters the FTC receives, the more likely it will have effect. ([bojkotimalbona](https://infosec.exchange/@bojkotiMalbona/107430481586363080))
 - Anyway Cloudflare is blocking the shit out of log4shell attempts so I can sleep easy this weekend ([goat](https://hellsite.site/@goat/107428186716876665))
