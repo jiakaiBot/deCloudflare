@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-12-12: [Network Performance Issues in Zürich, Switzerland](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2qhb5pwmsgh2)
 - 2021-12-10: [IPFS Gateway Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hrmbfxqxbw05)
 - 2021-12-09: [Network connectivity issues for users from Telin ISP](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/m9q24118ynfm)
 - 2021-12-09: [Elevated number of 5xx errors in New Delhi, India - (DEL)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ykwpdq88bgrr)
