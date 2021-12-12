@@ -126,7 +126,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | awoo.space | No |
 | b.z0ne.social | Yes |
 | b612.me | Yes |
-| babymetal.party | No |
 | backyard.cloud | No |
 | badgay.net | No |
 | bae.st | No |
@@ -895,7 +894,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | kirishima.cloud | No |
 | kiritan.work | Yes |
 | kith.kitchen | No |
-| kitty.social | Yes |
 | kitty.town | No |
 | kiwifarms.cc | Yes |
 | kms.sasuga.xyz | No |
@@ -1042,6 +1040,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | magicalmirro.red | Yes |
 | magnificentbeardsfan.club | No |
 | mahalle.li | No |
+| mahiradon.com | Yes |
 | maho.app | No |
 | mainburg.hallertau.social | No |
 | majestic.monster | No |
@@ -1348,7 +1347,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | metalhead.club | No |
 | metu.life | No |
 | mewl.me | Yes |
-| mewvinerse.masto.host | No |
 | mhz.social | No |
 | mi.7ka.org | No |
 | mi.les-requin.net | No |
@@ -1853,7 +1851,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | pleroma.poslovitch.fr | No |
 | pleroma.pt | No |
 | pleroma.rojogato.com | No |
-| pleroma.runfox.tk | No |
 | pleroma.ryusei.dev | No |
 | pleroma.salastil.com | Yes |
 | pleroma.shunderdo.me | No |
@@ -1948,6 +1945,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | r3pek.org | No |
 | ra-phi.ch | No |
 | radiosocial.de | No |
+| rafting.io | No |
 | rage.lol | No |
 | rage.love | No |
 | raggedfeathers.com | No |
@@ -2330,7 +2328,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.shadowkat.net | No |
 | social.simcu.com | No |
 | social.skewed.de | No |
-| social.skrep.eu | No |
 | social.skrep.in | No |
 | social.slat.org | No |
 | social.snopyta.org | No |
@@ -2348,6 +2345,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.techn1k.de | No |
 | social.teci.world | No |
 | social.thecrow.uk | No |
+| social.thisisjoes.site | No |
 | social.thiskurt.me | No |
 | social.timespiral.co.jp | No |
 | social.tmprs.net | No |
@@ -2775,7 +2773,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 520 |
-| Normal | 2,217 |
+| Normal | 2,215 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
