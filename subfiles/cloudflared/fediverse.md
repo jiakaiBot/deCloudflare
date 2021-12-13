@@ -477,7 +477,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fe.disroot.org | No |
 | fearness.org | No |
 | fed.fab.industries | No |
-| fed.hvn.network | Yes |
 | fed.im | No |
 | fed.sonnenmulde.at | No |
 | fed.thecyberdeck.xyz | No |
@@ -494,7 +493,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fedi.club | No |
 | fedi.fai.st | No |
 | fedi.fancycade.xyz | No |
-| fedi.fit | No |
 | fedi.fullstuck.net | No |
 | fedi.jmizzle.com | No |
 | fedi.mint.lgbt | No |
@@ -947,6 +945,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | lewd.town | No |
 | lgbt.im | No |
 | lgbt.io | No |
+| lhub.social | No |
 | lia.fail | No |
 | liber.chocoflan.net | No |
 | libera.tokyo | No |
@@ -1206,7 +1205,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.lt | No |
 | mastodon.macsnet.cz | No |
 | mastodon.madrid | No |
-| mastodon.matcha-soft.com | No |
 | mastodon.matrix.org | Yes |
 | mastodon.me.uk | Yes |
 | mastodon.mechanicalmischief.com | No |
@@ -1222,7 +1220,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.mxhdr.net | No |
 | mastodon.naii.io | No |
 | mastodon.neilzone.co.uk | No |
-| mastodon.nekocat.info | No |
 | mastodon.nl | No |
 | mastodon.noraworld.com | No |
 | mastodon.nz | No |
@@ -1248,7 +1245,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.radio | No |
 | mastodon.radiosonline.cloud | No |
 | mastodon.randomroad.social | No |
-| mastodon.roflcopter.fr | No |
 | mastodon.rousset.nom.fr | No |
 | mastodon.sandwich.net | No |
 | mastodon.sardo.work | Yes |
@@ -1781,7 +1777,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | planet.chrisbeckstrom.com | No |
 | planet.moe | Yes |
 | plasticmodels.tokyo | No |
-| platt.social | No |
 | plaza.vaporpolis.net | No |
 | pleasehug.me | No |
 | pler.garrison.beer | No |
@@ -2000,7 +1995,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | rustedneuron.com | No |
 | s.chars.jp | Yes |
 | s.knusper-land.de | Yes |
-| s.lono.space | Yes |
 | s.lx.ddnss.org | No |
 | s.ovalerio.net | Yes |
 | s.xd0.de | No |
@@ -2161,7 +2155,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.chilliet.eu | No |
 | social.chinwag.org | Yes |
 | social.city-of-glass.net | No |
-| social.cloudron.io | No |
 | social.cologne | No |
 | social.coop | Yes |
 | social.cosnomi.com | Yes |
@@ -2278,7 +2271,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.mrcol.es | No |
 | social.nah.re | No |
 | social.namok.be | No |
-| social.ndn.digital | Yes |
 | social.nekover.se | Yes |
 | social.net.ua | No |
 | social.nevira.net | No |
@@ -2564,7 +2556,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tootsfrom.ahabitual.dev | No |
 | toottoot.de | No |
 | tooxy.cz | No |
-| topic-master.com | No |
 | toppickz.com | No |
 | topteeth.xyz | No |
 | torlaz.online | No |
@@ -2774,8 +2765,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 520 |
-| Normal | 2,217 |
+| Cloudflare | 517 |
+| Normal | 2,211 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
