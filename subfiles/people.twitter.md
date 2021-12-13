@@ -7,6 +7,7 @@
 
 
 
+- Can't even embed your tweet. fails to save the blogpost then. I suspect CloudFlare is blocking the embedded HTML with the log string in it. ([jessehouwing](https://twitter.com/jessehouwing/status/1470181787146108928))
 - Cloudflare Is there a problem with 2 factor login? I am unable to login and my sites are down. 2 Factor Auth is "failing" all 3 methods. ([ashegeek](https://twitter.com/ashegeek/status/1470126848587833351))
 - Cloudflare - I signed up for the email routing beta - I swear it's still showing "Access Requested" I mean how long will you be withholding the beta. I have one account - that has 6 domains with beta access requested 2 of those domains on that one account got it ([ikhnetworks](https://twitter.com/IkhNetworks/status/1470046299806478339))
 - So now Cloudflare blocking all jndi payloads for log4j. Any character starts with $j is detected by it, and no bypass is able to pass through it ? If any can bypass it share it to the community. ([sherlocksecure](https://twitter.com/sherlocksecure/status/1469847619929206784))
