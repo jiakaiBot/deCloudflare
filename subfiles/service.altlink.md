@@ -61,11 +61,12 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 
 2. AL will follow back you **within an hour**.
   - If you're locking your account, please accept AL's follow request otherwise AL can't read your toots.
+    - If you **do not accept follower request within 15 hours**, your follower status will be resetted.
   - **If** there is a network instability and AL failed to follow back you **after 1 hour**:
     - Please `unfollow`, `wait 1 hour`, and `follow` again.
 
 3. When you share Cloudflared link, AL will send `direct` message to you with information.
-  - Direct messages older than *24* hours will be deleted.
+  - Direct messages older than *1* month will be deleted.
     - There is no good reason to keep old toots online.
       - [Should I Delete My Tweets?](https://www.wired.com/story/the-know-it-alls-should-i-delete-my-tweets/)
 
