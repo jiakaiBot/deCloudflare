@@ -140,6 +140,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | baraag.net | Yes |
 | barcamp.social | No |
 | barcelona.social | No |
+| barrett.dog | No |
 | based.social | Yes |
 | bbbdn.jp | No |
 | bbs.kawa-kun.com | No |
@@ -381,7 +382,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | don.bitma.st | No |
 | don.crakac.com | No |
 | don.fetus.jp | No |
-| don.gomasy.jp | Yes |
 | don.m2hq.net | No |
 | don.mamemo.online | Yes |
 | don.mfz.jp | No |
@@ -648,7 +648,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | girak.net | No |
 | girevik.su | No |
 | girlcock.club | No |
-| gl.sftblw.moe | Yes |
 | glaceon.social | No |
 | glammr.us | No |
 | glaros.xyz | No |
@@ -931,6 +930,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | layer13.p7.co.nz | No |
 | lazybear.social | No |
 | lbry.world | Yes |
+| leaf.node9.org | No |
 | leafposter.club | No |
 | lediver.se | No |
 | leftofliberal.duckdns.org | No |
@@ -1629,6 +1629,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | nonexiste.net | No |
 | noovi.org | No |
 | norden.social | No |
+| nordgedanken.dev | No |
 | noridon.hostdon.ne.jp | Yes |
 | norrebro.space | No |
 | norze.world | Yes |
@@ -1670,13 +1671,13 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | onlycasino.legal | Yes |
 | onlyfeds.cc | Yes |
 | onsen-musume.fun | Yes |
+| oo.tc | No |
 | oour.org | No |
 | openbiblio.social | No |
 | opensocial.at | No |
 | oran.ski | No |
 | oransns.com | No |
 | orbitalstation.one | No |
-| orbsafe.masto.host | No |
 | orctavern.pub | No |
 | orebro.online | No |
 | orenoshiro.site | No |
@@ -2001,7 +2002,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | s.knusper-land.de | Yes |
 | s.lono.space | Yes |
 | s.lx.ddnss.org | No |
-| s.neguse.net | No |
 | s.ovalerio.net | Yes |
 | s.xd0.de | No |
 | s.zholnay.name | No |
@@ -2184,6 +2184,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.drastical.tech | Yes |
 | social.dropbear.xyz | Yes |
 | social.dryusdan.fr | No |
+| social.e-dt.xyz | No |
 | social.emisocks.com | No |
 | social.epenguin.com | Yes |
 | social.epyisageek.net | No |
@@ -2773,8 +2774,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 522 |
-| Normal | 2,214 |
+| Cloudflare | 520 |
+| Normal | 2,217 |
 
 
-### 19.1% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
