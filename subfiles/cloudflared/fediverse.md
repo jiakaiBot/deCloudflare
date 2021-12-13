@@ -122,6 +122,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | ausglam.space | No |
 | autrechose.club | No |
 | avantwhatever.org | No |
+| awoo.fai.st | No |
 | awoo.fai.su | No |
 | awoo.space | No |
 | b.z0ne.social | Yes |
@@ -243,7 +244,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | catgram.jp | Yes |
 | cathode.church | No |
 | cave.mancave.de | No |
-| caw.ai | No |
 | cawfee.club | No |
 | cb.janusworx.com | No |
 | cdrom.tokyo | No |
@@ -262,6 +262,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | chinwag.org | Yes |
 | chitter.xyz | No |
 | chungus.cc | No |
+| cjc4.com | No |
 | clacks.link | No |
 | claris.cf | No |
 | claristdon.link | No |
@@ -515,6 +516,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | fediscience.org | No |
 | fediver.se | No |
 | fediverse-lite.com | Yes |
+| fediverse.bbad.com | No |
 | fediverse.keithzg.ca | No |
 | fediverse.pl | Yes |
 | fediverse.wesnoth.org | No |
@@ -715,7 +717,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | hello.2heng.xin | Yes |
 | hellsite.site | No |
 | henshaw.org | No |
-| henshaw.social | Yes |
 | hereiszyn.com | No |
 | heresy.cc | No |
 | hessen.social | No |
@@ -1191,7 +1192,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.juggler.jp | No |
 | mastodon.kaiserflur.de | No |
 | mastodon.kitchen | No |
-| mastodon.kleph.eu | No |
 | mastodon.ktachibana.party | Yes |
 | mastodon.kxn4t.tech | No |
 | mastodon.la | Yes |
@@ -1275,7 +1275,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | mastodon.tiennot.net | No |
 | mastodon.tojo.tokyo | No |
 | mastodon.tokyo | No |
-| mastodon.toni.im | No |
 | mastodon.top | Yes |
 | mastodon.transneptune.net | No |
 | mastodon.triggerphra.se | No |
@@ -1962,7 +1961,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | raygungothic.xyz | No |
 | rcsocial.net | Yes |
 | real-escape.jp | Yes |
-| realabc.masto.host | No |
 | rebelbase.site | No |
 | reco.shrieker.net | No |
 | recurse.social | No |
@@ -2338,6 +2336,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.ssbx.dev | No |
 | social.stracknet.com | No |
 | social.sunnypup.io | No |
+| social.surfnet.space | No |
 | social.tadzik.net | No |
 | social.taker.fr | No |
 | social.targaryen.house | No |
@@ -2464,6 +2463,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | taur.zone | No |
 | tbh.ihatebeinga.live | Yes |
 | tc.nz | No |
+| tea.codes | No |
 | team1.rocks | No |
 | tears.intherain.club | No |
 | tebukuro.xyz | No |
@@ -2476,6 +2476,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | tenforward.social | No |
 | tentacle.social | No |
 | teslam.in | Yes |
+| test.mitra.social | No |
 | tfl.net.pl | No |
 | tfwnogf.nl | No |
 | the-box.work | No |
@@ -2772,8 +2773,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 523 |
-| Normal | 2,212 |
+| Cloudflare | 522 |
+| Normal | 2,214 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
