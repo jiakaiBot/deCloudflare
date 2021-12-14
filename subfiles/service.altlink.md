@@ -151,6 +151,10 @@ There are 2 ways:
 
 For your poster/meme needs.
 
+MitiGator's profile image shows an orange shield and a cartoon of the mascot character, 𝙈𝙞𝙩𝙞𝙂𝙖𝙩𝙤𝙧, who stands proud as the MITM Prevention Alligator.
+The mascot wears a referee top and red sash across chest. Above the shield is 'MitiGator' in arching, bold, small caps, serif lettering.
+
+
 | 🖼 | 🖼 | 🖼 | 🖼 |
 | -- | -- | -- | -- |
 | ![](../image/mitigator.png) | ![](../image/mitigatorB.png) | - | - |
