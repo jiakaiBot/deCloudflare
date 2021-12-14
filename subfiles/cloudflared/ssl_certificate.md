@@ -15,22 +15,14 @@ Here's the result of last 30 days.
 
 ![](DO_NOT_EDIT_ME_START)
 
-| Date | Issued Certificates | Issued to CF sites | % of total |
+| Date | Issued Certificates | Issued to CF sites | % |
 | --- | --- | --- | --- |
-| JESUS_SYNC_ME | 123456789 | 123456789 | 99% |
-| JESUS_SYNC_ME | 123456789 | 123456789 | 99% |
-| JESUS_SYNC_ME | 123456789 | 123456789 | 99% |
-| JESUS_SYNC_ME | 123456789 | 123456789 | 99% |
-| JESUS_SYNC_ME | 123456789 | 123456789 | 99% |
-| JESUS_SYNC_ME | 123456789 | 123456789 | 99% |
-| JESUS_SYNC_ME | 123456789 | 123456789 | 99% |
-| JESUS_SYNC_ME | 123456789 | 123456789 | 99% |
-| JESUS_SYNC_ME | 123456789 | 123456789 | 99% |
-| JESUS_SYNC_ME | 123456789 | 123456789 | 99% |
-| **Total** | 123456789 | 123456789 | 99% |
+| 2021-12-13 | 11,060,292 | 1,088,995 | 9.8% |
+| **Total** | 11,060,292 | 1,088,995 | 9.8% |
+
 
 ![](DO_NOT_EDIT_ME_END)
 
 
-# 99.9%
+# 9.8%
 ### of certificates are issued to Cloudflare sites.
