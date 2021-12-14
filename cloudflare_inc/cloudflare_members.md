@@ -1323,6 +1323,7 @@ Or is this merely a case of simple modesty?
 | Randy Tibbetts | Enterprise Accounts |  |
 | Ravi Hemnani | Employee |  |
 | Ravi Kiran | Employee | [🖼](../image/gang/3aa8ee9b57d9cf1a1a81fae807554044c00fea94.jpg) |
+| Ravina Singh | Employee | |
 | Ravi Reddi | Demand Generation Manager |  |
 | Ray Bejjani | Systems Engineer |  |
 | Ray Leihe | Marketing Technology & Platform |  |
@@ -1573,6 +1574,7 @@ Or is this merely a case of simple modesty?
 | Thayer Prime | Recruitment Lead |  |
 | Thibault Meunier | Systems Engineer | [🖼](../image/gang/Thibault_Meunier.jpg) |
 | Thomas Beckers | Employee |  |
+| Thomas Calderon | Employee | |
 | Thomas Donnelly | Network Engineer |  |
 | Thomas Dubrawski | Business Development |  |
 | Thomas J. Seifert | Chief Financial Officer |  |
