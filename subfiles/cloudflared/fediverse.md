@@ -141,7 +141,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | barcamp.social | No |
 | barcelona.social | No |
 | barrett.dog | No |
-| based.social | Yes |
 | bbbdn.jp | No |
 | bbs.kawa-kun.com | No |
 | bbs.plaureano.com | No |
@@ -462,6 +461,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | eveningzoo.club | No |
 | evil.social | Yes |
 | eweg.be | No |
+| exozy.me | No |
 | expired.mentality.rip | No |
 | explosion.party | No |
 | f.3ischn.de | No |
@@ -657,6 +657,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | glitch.tar.black | No |
 | glitchcity.cc | No |
 | glitterkitten.co.uk | No |
+| glittersluts.xyz | No |
 | globalwarming.fun | No |
 | glowers.club | No |
 | gn-tronics.dev | No |
@@ -1911,7 +1912,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | propulse.club | No |
 | proyectozero.org | Yes |
 | prsm.space | No |
-| psyopshop.com | No |
 | pub.piecewise.im | No |
 | pub.pm | No |
 | pub.yovko.net | Yes |
@@ -1953,7 +1953,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | raru.re | No |
 | raspidon.mamemo.online | Yes |
 | rats-at.work | No |
-| rawr.thefurrytiger.net | Yes |
 | raygungothic.xyz | No |
 | rcsocial.net | Yes |
 | real-escape.jp | Yes |
@@ -2221,7 +2220,6 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 | social.imal.org | No |
 | social.imirhil.fr | No |
 | social.inex.rocks | No |
-| social.interhop.org | No |
 | social.ironboundsoftware.com | Yes |
 | social.isharacomix.org | No |
 | social.isurf.ca | No |
@@ -2765,8 +2763,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 517 |
+| Cloudflare | 515 |
 | Normal | 2,211 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 18.9% of public Fediverse services are using Cloudflare.
