@@ -443,6 +443,8 @@ Todėl mes rekomenduojame tik aukščiau pateiktą lentelę. Nieko daugiau.
 
 - Galima įsivaizduoti, kad į GNU GPL 4 versiją gali būti įtraukta nuostata neleisti saugoti šaltinio kodo už tokios paslaugos, reikalaujanti visoms GPLv4 ir vėlesnėms programoms, kad bent jau šaltinio kodas būtų pasiekiamas per terpę, kuri nediskriminuoja „Tor“ vartotojų.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
