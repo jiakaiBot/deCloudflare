@@ -443,6 +443,8 @@ Mula, disaranake mung tabel ing ndhuwur. Ora liya.
 
 - Bisa dibayangake manawa GNU GPL versi 4 bisa uga nyakup suplai kanggo nyimpen kode sumber ing sebalik layanan kasebut, mbutuhake kabeh program GPLv4 lan mengko sing paling ora kode sumber bisa diakses liwat media sing ora mbedakake pangguna Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
