@@ -443,6 +443,8 @@ Għalhekk nirrakkomandaw hawn fuq it-tabella biss. Xejn iktar.
 
 - Huwa konċepibbli li l-verżjoni GNU GPL 4 tista 'tinkludi dispożizzjoni kontra l-ħażna tal-kodiċi tas-sors wara servizz bħal dan, li teħtieġ għall-GPLv4 kollha u l-programmi sussegwenti li mill-inqas il-kodiċi tas-sors huwa aċċessibbli permezz ta' mezz li ma jiddiskriminax kontra l-utenti tat-Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
