@@ -443,6 +443,8 @@ Dofir recommandéiere mir nëmmen uewen Dësch. Näischt anescht.
 
 - Et ass denkbar datt d'GNU GPL Versioun 4 eng Bestëmmung enthalen kann fir de Quellcode hannert sou engem Service ze späicheren, fir all GPLv4 a spéider Programmer ze erfuerderen datt op d'mannst de Quellcode iwwer e Medium verfügbar ass dat net Tor Benotzer diskriminéiert.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
