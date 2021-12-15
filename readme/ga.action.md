@@ -443,6 +443,8 @@ Dá bhrí sin molaimid thuas tábla amháin. Tada eile.
 
 - Is féidir a shamhlú go bhféadfadh foráil a bheith i leagan 4 GNU GPL i gcoinne an cód foinse a stóráil taobh thiar de sheirbhís den sórt sin, á cheangal ar gach clár GPLv4 agus níos déanaí go bhfuil an cód foinse inrochtana ar a laghad trí mheán nach ndéanann idirdhealú in aghaidh úsáideoirí Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
