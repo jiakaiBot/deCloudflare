@@ -443,6 +443,8 @@ Seetõttu soovitame ainult ülaltoodud tabelit. Mitte midagi muud.
 
 - On mõeldav, et GNU GPL versioon 4 võib sisaldada sätet sellise teenuse taha lähtekoodi salvestamise kohta, mis nõuab kõigi GPLv4 ja hilisemate programmide jaoks, et vähemalt lähtekood oleks juurdepääsetav andmekandja kaudu, mis ei diskrimineeri Tori kasutajaid.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
