@@ -443,6 +443,8 @@ Kwa hivyo tunapendekeza juu ya meza tu. Hakuna kingine.
 
 - Inawezekana kuwa toleo la 4 la GNU GPL linaweza kujumuisha kifungu dhidi ya kuhifadhi nambari ya chanzo nyuma ya huduma kama hiyo, inayohitaji mipango yote ya GPLv4 na baadaye ambayo angalau nambari ya chanzo inapatikana kupitia njia isiyo na ubaguzi dhidi ya watumiaji wa Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
