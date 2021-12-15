@@ -443,6 +443,8 @@ Nitorina a ṣe iṣeduro loke tabili nikan. Ko si nkankan mo.
 
 - O jẹ ero inu pe ẹya GNU GPL 4 le pẹlu ipese kan lodi si titoju koodu orisun lẹhin iru iṣẹ kan, to nilo fun gbogbo GPLv4 ati awọn eto nigbamii ti o kere ju koodu orisun wa ni wiwọle nipasẹ alabọde ti ko ṣe iyatọ si awọn olumulo Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
