@@ -443,6 +443,8 @@ Mar sin tha sinn a ’moladh gu h-àrd clàr a-mhàin. Chan eil dad eile.
 
 - Tha e comasach gum faodadh an tionndadh 4 GNU GPL a bhith a ’toirt a-steach ullachadh an aghaidh a bhith a’ stòradh còd stòr air cùl seirbheis mar sin, ag iarraidh air a h-uile prògram GPLv4 agus nas fhaide air adhart gum bi co-dhiù an còd stòr ruigsinneach tro mheadhan nach dèan leth-bhreith air luchd-cleachdaidh Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
