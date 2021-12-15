@@ -443,6 +443,8 @@ Dunque cunsigliemu solu a tavula sopra. Nunda altru.
 
 - Si pò pensà chì a versione GNU GPL 4 possa cuntene una pruvisione contr'à l'archiviazione di u còdice sorgente daretu à un tale serviziu, chì richiede per tutti i GPLv4 è prugrammi successivi chì almenu u còdice surghjente sia accessibile per mezu di un mezu chì ùn discrimineghja micca contra l'utilizatori Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
