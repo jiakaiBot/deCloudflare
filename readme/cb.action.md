@@ -443,6 +443,8 @@ Tungod niini girekomenda namon sa lamesa ra sa taas. Wala’y lain.
 
 - Mahunahuna nga ang bersyon sa GNU GPL nga 4 mahimong mag-upod sa usa ka probisyon kontra sa pagtipig sa source code sa luyo sa ingon nga serbisyo, nga nanginahanglan alang sa tanan nga GPLv4 ug sa ulahi nga mga programa nga labing menos ang source code ma-access pinaagi sa usa ka medium nga wala’y pagpihig sa mga ninggamit sa Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
