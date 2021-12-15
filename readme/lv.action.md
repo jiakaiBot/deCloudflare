@@ -443,6 +443,8 @@ Tāpēc mēs iesakām tikai iepriekš minēto tabulu. Nekas cits.
 
 - Var iedomāties, ka GNU GPL 4. versija varētu ietvert noteikumu par avota koda glabāšanu aiz šāda pakalpojuma, pieprasot visām GPLv4 un jaunākām programmām, ka vismaz pirmkodam jābūt pieejamam, izmantojot nesēju, kas nediskriminē Tor lietotājus.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
