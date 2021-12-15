@@ -443,6 +443,8 @@ die();
 
 - የ GNU GPL ስሪት 4 ከእንደዚህ ዓይነት አገልግሎት በስተጀርባ የምንጭ ኮድን ማከማቸት የሚከለክል ድንጋጌን ሊያካትት ይችላል ተብሎ ይታሰባል ፣ ለሁሉም የ “GPLv4” እና ከዚያ በኋላ ላሉት ፕሮግራሞች የሚያስፈልገው ቢያንስ የመረጃ ኮዱ በቶር ተጠቃሚዎች ላይ በማያዳላ መካከለኛ አማካይነት ተደራሽ ነው ፡፡
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
