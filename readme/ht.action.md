@@ -443,6 +443,8 @@ Se poutèt sa nou rekòmande anwo tab la sèlman. Anyen ankò.
 
 - Li posib ke GNU GPL vèsyon 4 a ka gen ladan yon dispozisyon kont estoke kòd sous dèyè tankou yon sèvis, ki egzije pou tout pwogram GPLv4 ak pita ke omwen kòd sous la aksesib atravè yon mwayen ki pa fè diskriminasyon kont itilizatè Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
