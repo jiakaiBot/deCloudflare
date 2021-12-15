@@ -443,6 +443,8 @@ Derfor anbefaler vi kun ovenstående tabel. Intet andet.
 
 - Det kan tænkes, at GNU GPL version 4 kunne omfatte en bestemmelse mod lagring af kildekode bag en sådan tjeneste, der kræver alle GPLv4 og senere programmer, at mindst kildekoden er tilgængelig via et medium, der ikke diskriminerer Tor-brugere.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
