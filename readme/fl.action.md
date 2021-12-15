@@ -443,6 +443,8 @@ Samakatuwid inirerekumenda lamang namin sa itaas ng talahanayan. Walang iba.
 
 - Maisip na ang bersyon ng GNU GPL na 4 ay maaaring magsama ng isang probisyon laban sa pag-iimbak ng source code sa likod ng naturang serbisyo, na nangangailangan para sa lahat ng mga programa ng GPLv4 at kalaunan na maipasok ang mapagkukunang code ay maaaring ma-access sa pamamagitan ng isang daluyan na hindi nagtatangi laban sa mga gumagamit ng Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
