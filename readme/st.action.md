@@ -443,6 +443,8 @@ Ka hona re khothaletsa tafole e kaholimo feela. Ha ho letho le leng.
 
 - Ho ka nahanoa hore mofuta oa GNU GPL 4 o ka kenyelletsa tokisetso khahlano le ho boloka khoutu ea mohloli ka mor'a ts'ebeletso e joalo, e hlokang bakeng sa mananeo ohle a GPLv4 le a morao-rao hore bonyane khoutu ea mohloli e ka fumaneha ka sehare se sa khetholleng basebelisi ba Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
