@@ -443,6 +443,8 @@ Ke ngoko sicebisa ngaphezulu kwetafile kuphela. Ayikho enye.
 
 - Kuyacingelwa ukuba i-GNU GPL inguqulelo yesi-4 inokubandakanya ukubonelelwa kokugcina ikhowudi yemvelaphi ngasemva kwale nkonzo, efuna yonke i-GPLv4 kunye neenkqubo zangoko ubuncinci ukuba ikhowudi yemithombo ifikeleleke ngendlela engacaluliyo kubasebenzisi beTor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
