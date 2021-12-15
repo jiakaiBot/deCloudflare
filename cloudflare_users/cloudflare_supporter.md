@@ -6346,6 +6346,7 @@ Do not create new issue or we will close it as duplicate.
 | [x66619164331@twitter](https://twitter.com/x66619164331/status/1386276834480992256) | advertise |
 | [xanadu000000@twitter](https://twitter.com/xanadu000000/status/1405386980943273984) | advertise |
 | [XanhNai@twitter](https://twitter.com/XanhNai/status/1395198843956862977) | advertise |
+| [xbdm_@twitter](https://twitter.com/xbdm_/status/1471004561791987715) | advertise |
 | [Xcite27177012@twitter](https://twitter.com/Xcite27177012/status/1399383013616615424) | advertise |
 | [xcvty9@twitter](https://twitter.com/xcvty9/status/1386351924807495682) | advertise |
 | [xdaysgamer@twitter](https://twitter.com/xdaysgamer/status/1467323990880497666) | advertise |
