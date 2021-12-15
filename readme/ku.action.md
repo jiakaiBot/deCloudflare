@@ -443,6 +443,8 @@ Ji ber vê yekê em tenê maseya jorîn pêşniyar dikin. Tiştek din.
 
 - Tête fikirîn ku guhertoya 4 a GNU GPL dikare li dijî hilanîna koda çavkaniyê ya li pişta karûbarek wusa, ji bo hemî GPLv4 û bernameyên paşîn hewce bike ku bi kêmî ve koda çavkaniyê bi navgîniyek ku cûdakariyê nade bikarhênerên Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
