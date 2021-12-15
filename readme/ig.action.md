@@ -443,6 +443,8 @@ Ya mere, anyị nwere ike ikwu n'elu table naanị. Ọ dịghị ihe ọzọ.
 
 - O doro anya na ụdị GNU GPL 4 nwere ike ịgụnye ndokwa megide ịchekwa koodu isi n'azụ ụdị ọrụ a, na-achọ ihe niile GPLv4 na mmemme emesịa ma ọ dịkarịa ala enwere ike ịnweta koodu isi site na usoro na-adịghị akpa ókè na ndị ọrụ Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
