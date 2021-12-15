@@ -443,6 +443,8 @@ Daher empfehlen wir nur die obige Tabelle. Nichts anderes.
 
 - Es ist denkbar, dass die GNU GPL Version 4 eine Bestimmung gegen das Speichern von Quellcode hinter einem solchen Dienst enthält, die für alle GPLv4- und späteren Programme erfordert, dass zumindest der Quellcode über ein Medium zugänglich ist, das Tor-Benutzer nicht diskriminiert.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
