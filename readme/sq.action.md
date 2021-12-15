@@ -443,6 +443,8 @@ Prandaj ne rekomandojmë vetëm mbi tabelën. Asgje tjeter.
 
 - Conceshtë e mundshme që versioni 4 i GNU GPL mund të përfshijë një dispozitë kundër ruajtjes së kodit burimor prapa një shërbimi të tillë, që kërkon për të gjitha programet GPLv4 dhe më vonë që të paktën kodi burimor të jetë i arritshëm përmes një mediumi që nuk bën diskriminim ndaj përdoruesve të Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
