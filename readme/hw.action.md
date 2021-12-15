@@ -443,6 +443,8 @@ No laila mākou e paipai aku nei ma ka papa ʻaina wale nō. ʻAʻohe mea ʻē a
 
 - Kuhi ʻia hiki i ka GNU GPL mana 4 ke hoʻopili i kahi hoʻolako e kūʻē i ka mālama ʻana i nā code kumu ma hope o ia lawelawe, e koi ana no nā GPLv4 āpau a me nā papahana ma hope aku e kiʻi ʻia ke code source ma o ka medium i hoʻokae ʻole i nā mea hoʻohana Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
