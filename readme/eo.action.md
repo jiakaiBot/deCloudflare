@@ -443,6 +443,8 @@ Sekve ni rekomendas nur supre tabelon. Nenio alia.
 
 - Penseblas, ke la GNU GPL-versio 4 povus inkluzivi provizon kontraŭ stokado de fontkodo malantaŭ tia servo, postulante por ĉiuj GPLv4 kaj postaj programoj, ke almenaŭ la fontkodo estu alirebla per rimedo, kiu ne diskriminacias kontraŭ Tor-uzantoj.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
