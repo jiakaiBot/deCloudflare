@@ -443,6 +443,8 @@ Stoga preporučujemo samo gornju tablicu. Ništa drugo.
 
 - Zamišljeno je da bi GNU GPL verzija 4 mogla sadržavati odredbu protiv spremanja izvornog koda iza takve usluge, zahtijevajući za sve GPLv4 i kasnije programe da je barem izvornom kodu dostupan putem medija koji ne diskriminira Tor korisnike.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
