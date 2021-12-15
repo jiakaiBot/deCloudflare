@@ -443,6 +443,8 @@ Na reira ka taunakihia e matou i runga ake nei te teepu. Kaore he mea ke atu.
 
 - Ka taea te whakaaro ko te GNU GPL putanga 4 ka ahei te whakauru atu ki te penapena waehere punawai i muri o taua ratonga, e hiahia ana mo nga GPLv4 katoa me nga hotaka o muri mai ka taea te hono atu ki te waehere maataki ma te reo e kore e aukati i nga kaiwhakamahi Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
