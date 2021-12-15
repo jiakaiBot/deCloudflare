@@ -443,6 +443,8 @@ Siksi suosittelemme vain yllä olevaa taulukkoa. Ei mitään muuta.
 
 - On ajateltavissa, että GNU GPL -versio 4 voisi sisältää säännön lähdekoodin tallentamisesta tällaisen palvelun taakse, vaatien kaikille GPLv4- ja myöhemmille ohjelmille, että ainakin lähdekoodiin on pääsy välineellä, joka ei syrji Tor-käyttäjiä.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
