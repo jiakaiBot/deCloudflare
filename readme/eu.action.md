@@ -443,6 +443,8 @@ Hori dela eta, goiko taulan soilik gomendatzen dugu. Beste ezer ez.
 
 - Pentsa daiteke GNU GPL 4. bertsioak zerbitzu horren atzean iturburu kodea gordetzeari buruzko xedapen bat izan dezakeela, GPLv4 eta ondorengo programa guztientzat gutxienez iturburu kodea Tor erabiltzaileak diskriminatzen ez dituen euskarri baten bidez eskuragarria izatea eskatzen duena.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
