@@ -443,6 +443,8 @@ Portanto, recomendamos apenas a tabela acima. Nada mais.
 
 - É concebível que a GNU GPL versão 4 inclua uma cláusula contra o armazenamento de código-fonte por trás de tal serviço, exigindo para todos os programas GPLv4 e posteriores que pelo menos o código-fonte seja acessível através de um meio que não discrimine os usuários do Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
