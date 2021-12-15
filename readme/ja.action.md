@@ -443,6 +443,8 @@ die();
 
 - GNU GPLバージョン4には、そのようなサービスの背後にソースコードを保存することに対する規定が含まれている可能性があり、すべてのGPLv4以降のプログラムでは、少なくともソースコードはTorユーザーを差別しない媒体を介してアクセスできる必要があります。
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
