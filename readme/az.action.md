@@ -443,6 +443,8 @@ Bu səbəbdən yalnız yuxarıdakı cədvəli tövsiyə edirik. Başqa heçnə.
 
 - GNU GPL versiyası 4-ün, belə bir xidmətin arxasında mənbə kodunun saxlanmasına qarşı bir müddəa ehtiva edə biləcəyini düşünmək olar, bütün GPLv4 və sonrakı proqramlar üçün Tor istifadəçilərinə qarşı ayrıseçkilik etməyən bir vasitə ilə ən azı mənbə kodunun əldə edilə bilməsi tələb olunur.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
