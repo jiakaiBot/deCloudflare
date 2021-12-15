@@ -443,6 +443,8 @@ die();
 
 - اهو سمجھڻ جوڳي آهي ته GNU GPL ورجن 4 هڪ اهڙي سروس جي پويان سورس ڪوڊ محفوظ ڪرڻ خلاف رزق شامل ڪري سگهي ٿي ، سڀني GPLv4 ۽ بعد ۾ پروگرامن جي ضرورت آهي ته گهٽ ۾ گهٽ ذريعه ڪوڊ هڪ وچولي ذريعي رسائي ٿئي جيڪا Tor استعمال ڪندڙن سان تعصب نه ڪري.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
