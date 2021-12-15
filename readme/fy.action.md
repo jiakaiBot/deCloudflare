@@ -443,6 +443,8 @@ Dêrom advisearje wy allinich boppesteande tabel. Neat oars.
 
 - It is tinkber dat de GNU GPL ferzje 4 in foarsjenning kin befetsje tsjin it opslaan fan boarnekoade efter sa'n tsjinst, wêrtroch foar alle GPLv4 en lettere programma's nedich binne dat teminsten de boarne koade tagonklik is fia in medium dat Tor-brûkers net ûnderskiedt.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
