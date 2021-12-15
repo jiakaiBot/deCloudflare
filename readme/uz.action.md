@@ -443,6 +443,8 @@ Shuning uchun biz faqat yuqoridagi jadvalni tavsiya qilamiz. Boshqa hech narsa.
 
 - GNU GPL 4-versiyasi manba kodini bunday xizmat orqasida saqlashga qarshi qoidalarni o'z ichiga olishi mumkin, chunki barcha GPLv4 va undan keyingi dasturlar uchun hech bo'lmaganda manba kodiga Tor foydalanuvchilari kamsitilmaydigan vosita orqali kirish mumkin.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
