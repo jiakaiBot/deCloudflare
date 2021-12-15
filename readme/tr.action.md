@@ -443,6 +443,8 @@ Bu nedenle, yalnızca yukarıdaki tabloyu öneriyoruz. Başka hiçbir şey.
 
 - GNU GPL sürüm 4'ün, tüm GPLv4 ve sonraki programlar için en azından kaynak koda Tor kullanıcılarına karşı ayrımcılık yapmayan bir ortam aracılığıyla erişilebilmesini gerektiren bu tür bir hizmetin arkasında kaynak kodu depolamaya karşı bir hüküm içerebileceği düşünülebilir.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
