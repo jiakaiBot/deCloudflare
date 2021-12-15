@@ -443,6 +443,8 @@ Beýleki programma üpjünçiliginiň gizlinligi barada gürleşeliň.
 
 - GNU GPL 4-nji wersiýasynda, ähli GPLv4 we soňraky programmalar üçin Tor ulanyjylaryny kemsitmeýän gurşaw arkaly elýeterli boljak programma üpjünçiligini talap edip, şeýle hyzmatyň aňyrsynda kod saklamaga garşy düzgün bar bolup biler.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
