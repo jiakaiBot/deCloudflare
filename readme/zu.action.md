@@ -443,6 +443,8 @@ Ngakho-ke sincoma itafula elingenhla kuphela. Akukho okunye.
 
 - Kucatshangwa ukuthi inguqulo 4 ye-GNU GPL ingafaka umbandela ophikisana nokugcina ikhodi yomthombo ngemuva kwensizakalo enjalo, edinga zonke izinhlelo ze-GPLv4 nezinhlelo zakamuva ukuthi okungenani ikhodi yomthombo ifinyeleleke ngendlela engenabandlululo kubasebenzisi beTor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
