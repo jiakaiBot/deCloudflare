@@ -443,6 +443,8 @@ Yog li peb pom zoo kom cov lus saum toj no nkaus xwb. Tsis muaj dab tsi ntxiv.
 
 - Nws yog qhov tsis txaus siab tias GNU GPL version 4 tuaj yeem suav nrog cov ntaub ntawv tiv thaiv khaws cia cov cai tom qab cov kev pabcuam, uas yuav tsum tau siv rau txhua qhov GPLv4 thiab tom qab cov kev pabcuam uas tsawg kawg qhov cai tau nkag los ntawm cov khoom nruab nrab uas tsis cais cov neeg siv Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
