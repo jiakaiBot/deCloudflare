@@ -443,6 +443,8 @@ die();
 
 - 可以想像，GNU GPL版本4可能包含禁止將源代碼存儲在此類服務之後的規定，要求所有GPLv4和更高版本的程序至少可以通過不歧視Tor用戶的介質訪問源代碼。
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
