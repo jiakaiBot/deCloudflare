@@ -443,6 +443,8 @@ die();
 
 - מתקבל על הדעת שגרסת 4 של GNU GPL יכולה לכלול הוראה נגד אחסון קוד המקור מאחורי שירות כזה, הדורש עבור כל התוכניות GPLv4 ואילך שלפחות קוד המקור נגיש באמצעות מדיום שאינו מפלה את משתמשי Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
