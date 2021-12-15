@@ -443,6 +443,8 @@ O le mea lea matou te fautua atu luga naʻo le laulau. E leai se isi mea
 
 - E talitonuina o le GNU GPL version 4 e mafai ona aofia ai se aiaiga faʻasaga i le faʻasaoina o le source code i tua atu o sea tautua, manaʻomia mo GPLv4 uma ma polokalame mulimuli ane o le mea e maua ai le code code e auala atu i se auala e le faʻailoga tagata Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
