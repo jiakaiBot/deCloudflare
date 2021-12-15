@@ -443,6 +443,8 @@ Prin urmare, vă recomandăm numai tabelul de mai sus. Nimic altceva.
 
 - Este de conceput că GNU GPL versiunea 4 ar putea include o prevedere împotriva stocării codului sursă în spatele unui astfel de serviciu, necesitând pentru toate programele GPLv4 și ulterioare că cel puțin codul sursă este accesibil printr-un mediu care nu discriminează utilizatorii Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
