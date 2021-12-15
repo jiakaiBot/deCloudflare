@@ -443,6 +443,8 @@ Chifukwa chake timalimbikitsa pamwambapa tebulo lokha. Palibe china.
 
 - Ndizotheka kuti mtundu wa GNU GPL 4 utha kuphatikizira njira yoletsa kusungira kachidindo koyambira pantchito yotere, yomwe ikufuna mapulogalamu onse a GPLv4 komanso pambuyo pake omwe nambala yoyambira ipezeke kudzera pa sing'anga lomwe silisala ogwiritsa ntchito a Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
