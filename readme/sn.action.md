@@ -443,6 +443,8 @@ Naizvozvo tinokurudzira pamusoro petafura chete. Hapana chimwe.
 
 - Zvinofungidzirwa kuti iyo GNU GPL vhezheni yechina inogona kusanganisira chirongwa chinopesana nekuchengetedza kodhi yekodhi kuseri kweshumiro yakadai, inoda kune ese GPLv4 uye epamberi mapurogiramu ayo angangoita kodhi yekodhi anowanikwa kuburikidza nepakati iyo isingasarure vashandisi veTor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
