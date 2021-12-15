@@ -443,6 +443,8 @@ die();
 
 - من المتصور أن الإصدار 4 من GNU GPL يمكن أن يتضمن شرطًا ضد تخزين كود المصدر خلف مثل هذه الخدمة ، مما يتطلب لجميع GPLv4 والبرامج اللاحقة التي يمكن الوصول إلى شفرة المصدر على الأقل عبر وسيط لا يميز ضد مستخدمي Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
