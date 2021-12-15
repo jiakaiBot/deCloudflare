@@ -443,6 +443,8 @@ Dlatego zalecamy tylko powyższą tabelę. Nic więcej.
 
 - Można sobie wyobrazić, że GNU GPL w wersji 4 może zawierać postanowienie zabraniające przechowywania kodu źródłowego za taką usługą, wymagające dla wszystkich programów GPLv4 i późniejszych, aby przynajmniej kod źródłowy był dostępny za pośrednictwem nośnika, który nie dyskryminuje użytkowników Tora.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
