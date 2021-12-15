@@ -443,6 +443,8 @@ Noho izany dia manoro hevitra ny ambony latabatra ihany izahay. Tsy misy zavatra
 
 - Azo eritreretina fa ny GNU GPL kinova faha-4 dia mety ahitana fepetra tsy manangona ny kaody loharano ao ambadiky ny serivisy toy izany, mitaky ny GPLv4 rehetra sy ny programa taty aoriana izay farafaharatsiny mba ahazoana miditra ny kaody loharano amin'ny alàlan'ny fitaovana tsy manavakavaka ireo mpampiasa Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
