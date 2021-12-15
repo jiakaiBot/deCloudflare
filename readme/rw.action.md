@@ -443,6 +443,8 @@ Kubwibyo turasaba hejuru kumeza gusa. Ntakindi.
 
 - Birashoboka ko verisiyo ya 4 ya GNU GPL ishobora kuba ikubiyemo ingingo yo kubika kode yinkomoko inyuma yiyi serivisi, bisaba GPLv4 zose hamwe na porogaramu nyuma yuko byibuze code yinkomoko ishobora kugerwaho hifashishijwe uburyo butavangura abakoresha Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
