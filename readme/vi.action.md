@@ -443,6 +443,8 @@ Do đó, chúng tôi chỉ đề xuất bảng trên. Không có gì khác.
 
 - Có thể hình dung rằng GNU GPL phiên bản 4 có thể bao gồm một điều khoản chống lại việc lưu trữ mã nguồn đằng sau một dịch vụ như vậy, yêu cầu đối với tất cả các chương trình GPLv4 và mới hơn ít nhất mã nguồn có thể truy cập được thông qua một phương tiện không phân biệt đối xử với người dùng Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
