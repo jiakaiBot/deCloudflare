@@ -443,6 +443,8 @@ Ezért csak a fenti táblázatban ajánljuk. Semmi más.
 
 - Elképzelhető, hogy a GNU GPL 4-es verzió tartalmazhat olyan rendelkezést, amely megakadályozza a forráskód tárolását egy ilyen szolgáltatás mögött, megkövetelve minden GPLv4 és későbbi program esetében, hogy legalább a forráskód hozzáférhető legyen egy olyan adathordozón keresztül, amely nem tesz különbséget a Tor felhasználóival szemben.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
