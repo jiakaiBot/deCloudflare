@@ -443,6 +443,8 @@ die();
 
 - GNU GPL 4 версиясе андый хезмәт артында чыганак кодын саклауга каршы барлык GPLv4 һәм соңрак программаларны таләп итә ала, ким дигәндә чыганак коды Tor кулланучыларын аермый торган медиа аша керә ала.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
