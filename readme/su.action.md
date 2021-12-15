@@ -443,6 +443,8 @@ Kituna kami nyarankeun tabel di luhur waé. Teu aya anu sanés.
 
 - Éta panginten yén GNU GPL versi 4 tiasa kalebet bekel ngalawan nyimpen kode sumber di tukangeun jasa sapertos kitu, meryogikeun sadaya program GPLv4 sareng engké anu sahenteuna kode sumber tiasa diaksés ngalangkungan médium anu henteu ngabédakeun pangguna Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
