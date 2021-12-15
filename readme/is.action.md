@@ -443,6 +443,8 @@ Við skulum tala um friðhelgi annars hugbúnaðar.
 
 - Það má hugsa sér að GNU GPL útgáfa 4 geti falið í sér að geyma heimildakóða á bak við slíka þjónustu, þar sem krafist er fyrir öll GPLv4 og síðar forrit sem að minnsta kosti frumkóðinn er aðgengilegur með miðli sem gerir ekki mismunun á Tor notendum.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
