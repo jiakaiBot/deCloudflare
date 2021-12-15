@@ -443,6 +443,8 @@ Oleh itu, kami mencadangkan jadual di atas sahaja. Tiada lagi.
 
 - Boleh dibayangkan bahawa GNU GPL versi 4 dapat merangkumi peruntukan untuk tidak menyimpan kod sumber di sebalik perkhidmatan tersebut, yang memerlukan semua program GPLv4 dan yang lebih baru yang sekurang-kurangnya kod sumber dapat diakses melalui media yang tidak mendiskriminasi pengguna Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
