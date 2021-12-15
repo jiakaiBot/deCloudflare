@@ -443,6 +443,8 @@ Daarom raden we alleen bovenstaande tabel aan. Niks anders.
 
 - Het is denkbaar dat de GNU GPL-versie 4 een voorziening zou kunnen bevatten tegen het opslaan van broncode achter een dergelijke service, waarbij voor alle GPLv4- en latere programma's wordt geëist dat de broncode op zijn minst toegankelijk is via een medium dat Tor-gebruikers niet discrimineert.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
