@@ -443,6 +443,8 @@ Saboda haka muna bada shawarar sama da tebur kawai. Babu wani abu kuma.
 
 - Abun tunani ne cewa GNU GPL version 4 na iya haɗawa da tanadi game da adana lambar tushe a bayan wannan sabis ɗin, ana buƙatar duk GPLv4 da shirye-shirye na gaba waɗanda aƙalla lambar lambar tana samun dama ta hanyar matsakaici wanda baya nuna bambanci ga masu amfani da Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
