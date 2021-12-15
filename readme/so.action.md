@@ -443,6 +443,8 @@ Sidaa darteed waxaan kugula talineynaa miiska kor ku xusan oo keliya. Wax kale m
 
 - Waa macquul in GNU GPL nooca 4 ay ka mid noqon karto qodob ka dhan ah keydinta koodhka ilaha ka dambeeya adeegan, oo looga baahan yahay dhammaan GPLv4 iyo barnaamijyada dambe ee ugu yaraan lambarka isha laga heli karo iyada oo la adeegsanayo warbaahin aan kala sooc lahayn dadka isticmaala Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
