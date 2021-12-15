@@ -442,6 +442,8 @@ Therefore we recommend above table only. Nothing else.
 
 - It's conceivable that the GNU GPL version 4 could include a provision against storing source code behind such a service, requiring for all GPLv4 and later programs that at least the source code is accessible via a medium that does not discriminate against Tor users.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
