@@ -443,6 +443,8 @@ Felly rydym yn argymell uchod y tabl yn unig. Dim byd arall.
 
 - Mae'n bosibl y gallai fersiwn 4 GNU GPL gynnwys darpariaeth yn erbyn storio cod ffynhonnell y tu ôl i wasanaeth o'r fath, gan ei gwneud yn ofynnol i bob rhaglen GPLv4 a rhaglenni diweddarach fod y cod ffynhonnell o leiaf yn hygyrch trwy gyfrwng nad yw'n gwahaniaethu yn erbyn defnyddwyr Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
