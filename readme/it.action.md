@@ -443,6 +443,8 @@ Pertanto si consiglia solo la tabella sopra. Nient'altro.
 
 - È concepibile che la versione 4 della GNU GPL possa includere una disposizione contro la memorizzazione del codice sorgente dietro un tale servizio, richiedendo per tutti i programmi GPLv4 e successivi che almeno il codice sorgente sia accessibile tramite un mezzo che non discrimina gli utenti Tor.
 
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+
 </details>
 
 ------
