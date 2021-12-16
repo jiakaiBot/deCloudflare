@@ -738,6 +738,7 @@ Or is this merely a case of simple modesty?
 | Jean Ryu | Solutions Engineer |  |
 | Jeehoon Kim | Systems Engineer |  |
 | Jeff Collins | Enterprise Sales |  |
+| Jeff Hiner | Employee | |
 | Jeff Nucum | IT Engineer |  |
 | Jeff Pollock | Customer Success Engineer |  |
 | Jeffrey Lin | Software Engineer |  |
@@ -1085,6 +1086,7 @@ Or is this merely a case of simple modesty?
 | Matt Holscher | Sales |  |
 | Matt James Boyle | Engineer |  |
 | Matt Lewis | Employee | [🖼](../image/gang/Matt_Lewis.jpg) |
+| Matt Schulte | Employee | |
 | Matt Wheeler | Employee |  |
 | Matvey Arye | Employee |  |
 | Maurizio Monti | Partnerships |  |
@@ -1214,6 +1216,7 @@ Or is this merely a case of simple modesty?
 | Nitin Bantwal Rao | Head of Global Infrastructure | nitin.rao@sloan.mit.edu<br>https://twitter.com/NitinBRao<br>https://leverageddabbler.com/<br>http://www.linkedin.com/in/nitinrao<br>http://www.facebook.com/nitin.rao |
 | Nitin Rao | Employee | [🖼](../image/gang/Nitin_Rao.jpg) |
 | Noah Garrett Wallach | Network Engineer |  |
+| Noah Maxwell Kennedy | Employee | |
 | Noah Neuman | Enterprise Account Executive |  |
 | Norm Slaught | Customer Development |  |
 | Obinna Ekwuno | Employee | |
