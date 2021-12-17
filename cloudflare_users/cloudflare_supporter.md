@@ -383,6 +383,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnikethDevadiga@twitter](https://twitter.com/AnikethDevadiga/status/1393885775305928706) | advertise |
 | [AniketR19914841@twitter](https://twitter.com/AniketR19914841/status/1384569411630026752) | advertise |
 | [Anikets98739334@twitter](https://twitter.com/Anikets98739334/status/1393038098561331200) | advertise |
+| [anilyeni@twitter](https://twitter.com/anilyeni/status/1471556509691789312) | advertise |
 | [animalfromspace@twitter](https://twitter.com/animalfromspace/status/1432007469442772996) | advertise |
 | [AnimeAM65466760@twitter](https://twitter.com/AnimeAM65466760/status/1404816257203929088) | advertise |
 | [animeindy_com@twitter](https://twitter.com/animeindy_com/status/1391468430616797187) | advertise |
@@ -862,6 +863,7 @@ Do not create new issue or we will close it as duplicate.
 | [BlessingsKango@twitter](https://twitter.com/BlessingsKango/status/1396632406770262025) | advertise |
 | [bless_doegah@twitter](https://twitter.com/bless_doegah/status/1405150928559353862) | advertise |
 | [Blink30428569@twitter](https://twitter.com/Blink30428569/status/1402516667318472706) | advertise |
+| [blobnom@twitter](https://twitter.com/blobnom/status/1471578002098167808) | advertise |
 | [Blood81903194@twitter](https://twitter.com/Blood81903194/status/1391762333274411010) | advertise |
 | [Blue10665653@twitter](https://twitter.com/Blue10665653/status/1395706450995990530) | advertise |
 | [bluechip_india@twitter](https://twitter.com/bluechip_india/status/1468831895370625024) | advertise |
@@ -1059,6 +1061,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChitMoe80814944@twitter](https://twitter.com/ChitMoe80814944/status/1393844615745183750) | advertise |
 | [ChitMyoHnin1@twitter](https://twitter.com/ChitMyoHnin1/status/1394855793992691712) | advertise |
 | [Chitnono1@twitter](https://twitter.com/Chitnono1/status/1391336741294903296) | advertise |
+| [ChitNyiNyiWinn1@twitter](https://twitter.com/ChitNyiNyiWinn1/status/1471566089599406082) | advertise |
 | [ChitOo30619006@twitter](https://twitter.com/ChitOo30619006/status/1401922220226662405) | advertise |
 | [ChitOoLay8@twitter](https://twitter.com/ChitOoLay8/status/1393973628966899713) | advertise |
 | [ChitTha97530715@twitter](https://twitter.com/ChitTha97530715/status/1393573791423373312) | advertise |
@@ -1090,6 +1093,7 @@ Do not create new issue or we will close it as duplicate.
 | [chunchu45871856@twitter](https://twitter.com/chunchu45871856/status/1377650478931042305) | advertise |
 | [ChungNguyensy2@twitter](https://twitter.com/ChungNguyensy2/status/1383061957046067202) | advertise |
 | [chutoaqop@twitter](https://twitter.com/chutoaqop/status/1387045525917114372) | advertise |
+| [cibinlik@twitter](https://twitter.com/cibinlik/status/1471556779930796034) | advertise |
 | [cindy_htwe@twitter](https://twitter.com/cindy_htwe/status/1390406528524447744) | advertise |
 | [Cine_Ward@twitter](https://twitter.com/Cine_Ward/status/1391183622074290178) | advertise |
 | [citasweetieee@twitter](https://twitter.com/citasweetieee/status/1391727785274654725) | advertise |
@@ -1820,6 +1824,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hakin_yemi@twitter](https://twitter.com/Hakin_yemi/status/1400871603760766976) | advertise |
 | [Hakken54481368@twitter](https://twitter.com/Hakken54481368/status/1390639797983612929) | advertise |
 | [Halil_D_@twitter](https://twitter.com/Halil_D_/status/1470702603227090946) | advertise |
+| [Halla27873117@twitter](https://twitter.com/Halla27873117/status/1471612949689159689) | advertise |
 | [halykun@twitter](https://twitter.com/halykun/status/1400355687041933314) | advertise |
 | [HamdanMatNor18@twitter](https://twitter.com/HamdanMatNor18/status/1393666177692360705) | advertise |
 | [Hami_HamaSaed@twitter](https://twitter.com/Hami_HamaSaed/status/1376832495468081156) | advertise |
@@ -4202,6 +4207,7 @@ Do not create new issue or we will close it as duplicate.
 | [NicholasBruneau@twitter](https://twitter.com/NicholasBruneau/status/1464751618642034688) | advertise |
 | [Nick49172888@twitter](https://twitter.com/Nick49172888/status/1380676591949205508) | advertise |
 | [nicknitro09@twitter](https://twitter.com/nicknitro09/status/1381362588001402894) | advertise |
+| [NickOneness@twitter](https://twitter.com/NickOneness/status/1471575647709499393) | advertise |
 | [nickwarters@twitter](https://twitter.com/nickwarters/status/1407441318511513605) | advertise |
 | [nickylay@twitter](https://twitter.com/nickylay/status/1379982002141552642) | advertise |
 | [nidusha6@twitter](https://twitter.com/nidusha6/status/1377278946945990661) | advertise |
@@ -5733,6 +5739,7 @@ Do not create new issue or we will close it as duplicate.
 | [thetzinwin75@twitter](https://twitter.com/thetzinwin75/status/1393828758067417094) | advertise |
 | [thet_lel@twitter](https://twitter.com/thet_lel/status/1389251846519230469) | advertise |
 | [thet_wutt@twitter](https://twitter.com/thet_wutt/status/1398922736026624000) | advertise |
+| [thewyfly@twitter](https://twitter.com/thewyfly/status/1471579386520371200) | advertise |
 | [They03464315@twitter](https://twitter.com/They03464315/status/1399744810345324544) | advertise |
 | [the_ayo_ifedapo@twitter](https://twitter.com/the_ayo_ifedapo/status/1402141427564519424) | advertise |
 | [The_Krishna__@twitter](https://twitter.com/The_Krishna__/status/1395310239184949250) | advertise |
@@ -6570,6 +6577,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yuu_09180@twitter](https://twitter.com/Yuu_09180/status/1463762592560648196) | advertise |
 | [yuyachit2@twitter](https://twitter.com/yuyachit2/status/1407168318889357326) | advertise |
 | [YWanasan@twitter](https://twitter.com/YWanasan/status/1392054647393636360) | advertise |
+| [YxngZaZa69@twitter](https://twitter.com/YxngZaZa69/status/1471604103297994757) | advertise |
 | [YYairBB@twitter](https://twitter.com/YYairBB/status/1377950035653066758) | advertise |
 | [Yyint0071@twitter](https://twitter.com/Yyint0071/status/1390727936060317696) | advertise |
 | [Yyyoshihito1@twitter](https://twitter.com/Yyyoshihito1/status/1401931121340796928) | advertise |
