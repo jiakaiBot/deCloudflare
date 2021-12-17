@@ -78,6 +78,7 @@ Do not create new issue or we will close it as duplicate.
 | [42Joker1986@twitter](https://twitter.com/42Joker1986/status/1401200785082523650) | advertise |
 | [59_nishi@twitter](https://twitter.com/59_nishi/status/1396310715548323842) | advertise |
 | [63FIwW0WqHvus55@twitter](https://twitter.com/63FIwW0WqHvus55/status/1405398057202630657) | advertise |
+| [69Transylvania@twitter](https://twitter.com/69Transylvania/status/1468804258019659779) | advertise |
 | [77_naman@twitter](https://twitter.com/77_naman/status/1379437501786456065) | advertise |
 | [82G3eUUY0BFpiFP@twitter](https://twitter.com/82G3eUUY0BFpiFP/status/1393161725579382784) | advertise |
 | [82Thar@twitter](https://twitter.com/82Thar/status/1386958515932106754) | advertise |
@@ -155,6 +156,7 @@ Do not create new issue or we will close it as duplicate.
 | [acme_subrosea@twitter](https://twitter.com/acme_subrosea/status/1381623108667207685) | advertise |
 | [activeboyz1990@twitter](https://twitter.com/activeboyz1990/status/1377228831694655489) | advertise |
 | [activism.openworlds.info](https://activism.openworlds.info/) | by muting account status without warning & showed hostility |
+| [acu05047849@twitter](https://twitter.com/acu05047849/status/1471678185070755840) | advertise |
 | [AD38414298@twitter](https://twitter.com/AD38414298/status/1392533228871770114) | advertise |
 | [AdamHakeemi18@twitter](https://twitter.com/AdamHakeemi18/status/1396117339007979526) | advertise |
 | [adathorium@twitter](https://twitter.com/adathorium/status/1436389816573194240) | advertise |
@@ -1048,6 +1050,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChibHarshu@twitter](https://twitter.com/ChibHarshu/status/1381475450476634114) | advertise |
 | [Chichi14461653@twitter](https://twitter.com/Chichi14461653/status/1391758724201541633) | advertise |
 | [childnoir209@twitter](https://twitter.com/childnoir209/status/1401223493463670791) | advertise |
+| [chinhvu86729466@twitter](https://twitter.com/chinhvu86729466/status/1471641846996946944) | advertise |
 | [ChinLi90635689@twitter](https://twitter.com/ChinLi90635689/status/1469606069961854976) | advertise |
 | [ChinThn89636027@twitter](https://twitter.com/ChinThn89636027/status/1393032346870247426) | advertise |
 | [chiragnayyar@twitter](https://twitter.com/chiragnayyar/status/1411690100874903554) | moral (advertise) |
@@ -1444,6 +1447,7 @@ Do not create new issue or we will close it as duplicate.
 | [DuyNguy87645607@twitter](https://twitter.com/DuyNguy87645607/status/1399734268423639050) | advertise |
 | [Duynkim8@twitter](https://twitter.com/Duynkim8/status/1408479143067459584) | advertise |
 | [Duytrung31@twitter](https://twitter.com/Duytrung31/status/1388180524573741058) | advertise |
+| [dvgamerr@twitter](https://twitter.com/dvgamerr/status/1471737827750674433) | advertise |
 | [DwiSury295@twitter](https://twitter.com/DwiSury295/status/1402505833909424128) | advertise |
 | [dwVSMRanGGhN32L@twitter](https://twitter.com/dwVSMRanGGhN32L/status/1407242205392117760) | advertise |
 | [Dx1998x@twitter](https://twitter.com/Dx1998x/status/1393091007365984258) | advertise |
@@ -1704,6 +1708,7 @@ Do not create new issue or we will close it as duplicate.
 | [GD47666468@twitter](https://twitter.com/GD47666468/status/1403799656115539971) | advertise |
 | [gdnunites@twitter](https://twitter.com/gdnunites/status/1425544488487899137) | advertise |
 | [Geetharbtr4@twitter](https://twitter.com/Geetharbtr4/status/1391301352949620740) | advertise |
+| [gemnguyen4125@twitter](https://twitter.com/gemnguyen4125/status/1471739773786025987) | advertise |
 | [gemstoneslover@twitter](https://twitter.com/gemstoneslover/status/1376813245416173571) | advertise |
 | [GeneralGosu@twitter](https://twitter.com/GeneralGosu/status/1387508776429780993) | advertise |
 | [Genius44697566@twitter](https://twitter.com/Genius44697566/status/1389792896690253824) | advertise |
@@ -4131,6 +4136,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguyendoantrun1@twitter](https://twitter.com/nguyendoantrun1/status/1397256926929440769) | advertise |
 | [Nguyenh86642977@twitter](https://twitter.com/Nguyenh86642977/status/1397205087664152583) | advertise |
 | [NguyenHaiPr@twitter](https://twitter.com/NguyenHaiPr/status/1388411063662571524) | advertise |
+| [NguyenP04335211@twitter](https://twitter.com/NguyenP04335211/status/1471757635879780356) | advertise |
 | [Nguyenthaonhi22@twitter](https://twitter.com/Nguyenthaonhi22/status/1392620098096037890) | advertise |
 | [nguyentheonam@twitter](https://twitter.com/nguyentheonam/status/1380965409818472450) | advertise |
 | [NguyenTrieuAn4@twitter](https://twitter.com/NguyenTrieuAn4/status/1400460844043948043) | advertise |
