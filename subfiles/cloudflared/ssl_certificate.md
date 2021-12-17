@@ -17,14 +17,15 @@ Here's the result of last 30 days.
 
 | Date | Issued Certificates | Issued to CF sites | % |
 | --- | --- | --- | --- |
+| 2021-12-16 | 12,545,512 | 1,154,561 | 9.2% |
 | 2021-12-15 | 11,483,610 | 1,103,481 | 9.6% |
 | 2021-12-14 | 12,900,399 | 1,321,281 | 10.2% |
 | 2021-12-13 | 11,060,292 | 1,088,995 | 9.8% |
-| **Total** | 35,444,301 | 3,513,757 | 9.9% |
+| **Total** | 47,989,813 | 4,668,318 | 9.7% |
 
 
 ![](DO_NOT_EDIT_ME_END)
 
 
-# 9.9%
+# 9.7%
 ### of certificates are issued to Cloudflare sites.
