@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-12-16: [Cloudflare Latency Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qz5m74q8q0jl)
+- 2021-12-16: [Cloudflare Cache Content Encoding Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cwt1xmk69b7z)
 - 2021-12-12: [Network Performance Issues in Zürich, Switzerland](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2qhb5pwmsgh2)
 - 2021-12-10: [IPFS Gateway Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hrmbfxqxbw05)
 - 2021-12-09: [Network connectivity issues for users from Telin ISP](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/m9q24118ynfm)
