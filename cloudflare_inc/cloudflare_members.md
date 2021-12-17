@@ -1066,6 +1066,7 @@ Or is this merely a case of simple modesty?
 | Matt Allie | Solutions Engineer |  |
 | Matt Alonso | Developer Experience Team Intern |  |
 | Matt Bostock | Systems Reliability Engineer |  |
+| Matt Boyle | Employee | |
 | Matt Cowley | @cdnjs.com Maintainer (on contract), London |  |
 | Matteo Manfredi | Community Leader |  |
 | Matt Golden | Employee |  |
@@ -1175,6 +1176,7 @@ Or is this merely a case of simple modesty?
 | Natasha Wissmann | Employee | |
 | Nate Asp | Customer Development |  |
 | Nate Sales | Employee | |
+| Nathan Disidore | Employee | |
 | Nauzer Gotla | Vice President, Internal Audit |  |
 | Naveen Singh | Solutions Engineer |  |
 | Naya Posotidou | IT Operations Engineer |  |
