@@ -128,7 +128,6 @@ Toto úložisko je zoznam webových stránok, ktoré sú za „Veľkou cloudovou
 
 * [Tu je niekoľko PDF / ePUB, ktoré si môžete prečítať.](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
