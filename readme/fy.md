@@ -128,7 +128,6 @@ Dit repository is in list fan websides dy't efter "The Great Cloudwall" steane, 
 
 * [Hjir is wat PDF / ePUB om te lêzen.](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
