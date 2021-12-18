@@ -128,7 +128,6 @@ See hoidla on loetelu veebisaitidest, mis asuvad "Suure pilvaseina" taga, blokee
 
 * [Siit saate lugeda mõnda PDF / ePUB-i.](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
