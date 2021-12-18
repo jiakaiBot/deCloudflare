@@ -128,7 +128,6 @@
 
 * [මෙන්න කියවීමට PDF / ePUB කිහිපයක්.](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
