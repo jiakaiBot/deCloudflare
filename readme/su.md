@@ -128,7 +128,6 @@ Repositori ieu mangrupikeun daptar situs wéb anu aya di tukangeun "The Great Cl
 
 * [Ieu sababaraha PDF / ePUB pikeun dibaca.](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
