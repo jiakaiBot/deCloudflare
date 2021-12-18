@@ -128,7 +128,6 @@
 
 * [다음은 읽을 수있는 PDF / ePUB입니다.](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
