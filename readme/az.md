@@ -128,7 +128,6 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Bulud" a
 
 * [Burada oxumaq üçün bəzi PDF / ePUB var.](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
