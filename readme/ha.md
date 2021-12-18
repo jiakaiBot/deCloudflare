@@ -128,7 +128,6 @@ Wannan wurin ajiyar kaya akwai jerin rukunin yanar gizon da ke bayan "Babban Clo
 
 * [Ga wasu PDF / ePUB don karantawa.](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
