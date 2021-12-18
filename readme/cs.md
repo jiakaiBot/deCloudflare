@@ -128,7 +128,6 @@ Toto úložiště je seznam webových stránek, které jsou za „Velkým cloude
 
 * [Zde je několik PDF / ePUB ke čtení.](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
