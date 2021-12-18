@@ -45,6 +45,7 @@ Do not create new issue or we will close it as duplicate.
 | [1KK4cfjGlKNknLy@twitter](https://twitter.com/1KK4cfjGlKNknLy/status/1378992221077168128) | advertise |
 | [1of1Bluts374@twitter](https://twitter.com/1of1Bluts374/status/1383862555945291781) | advertise |
 | [1Sellorin@twitter](https://twitter.com/1Sellorin/status/1355427524935823361) | advertise |
+| [1Silver938@twitter](https://twitter.com/1Silver938/status/1471924365763792903) | advertise |
 | [1xSlotvn@twitter](https://twitter.com/1xSlotvn/status/1419205739466280960) | advertise |
 | [1yearandhalf@twitter](https://twitter.com/1yearandhalf/status/1380825438105317390) | advertise |
 | [2DOkAuz5FGdyO5u@twitter](https://twitter.com/2DOkAuz5FGdyO5u/status/1390639905290792967) | advertise |
@@ -1442,6 +1443,7 @@ Do not create new issue or we will close it as duplicate.
 | [Duy00504124@twitter](https://twitter.com/Duy00504124/status/1398218191784976384) | advertise |
 | [Duy91964915@twitter](https://twitter.com/Duy91964915/status/1380695837001412610) | advertise |
 | [Duyanh01561394@twitter](https://twitter.com/Duyanh01561394/status/1379414233411067912) | advertise |
+| [duyduy997@twitter](https://twitter.com/duyduy997/status/1471993390979977217) | advertise |
 | [duyhngNguyn12@twitter](https://twitter.com/duyhngNguyn12/status/1382329274225487874) | advertise |
 | [Duyke5@twitter](https://twitter.com/Duyke5/status/1388182505082155012) | advertise |
 | [DuyNguy87645607@twitter](https://twitter.com/DuyNguy87645607/status/1399734268423639050) | advertise |
