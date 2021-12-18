@@ -130,7 +130,6 @@
 
 * [دلته د لوستلو لپاره ځینې PDF / ePUB دی.](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
