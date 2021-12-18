@@ -128,7 +128,6 @@ Dette depot er en liste over websteder, der ligger bag "The Great Cloudwall", de
 
 * [Her er nogle PDF / ePUB at læse.](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
