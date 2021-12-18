@@ -128,7 +128,6 @@
 
 * [यहाँ कुछ PDF / ePUB को पढ़ना है।](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
