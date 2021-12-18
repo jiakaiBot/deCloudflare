@@ -130,7 +130,6 @@
 
 * [پڑھنے کے لئے کچھ پی ڈی ایف / ای پی یو بی یہ ہے۔](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
