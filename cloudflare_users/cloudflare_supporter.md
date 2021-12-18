@@ -968,6 +968,7 @@ Do not create new issue or we will close it as duplicate.
 | [byambamk@twitter](https://twitter.com/byambamk/status/1390722042400444418) | advertise |
 | [Byarsar2@twitter](https://twitter.com/Byarsar2/status/1391089544322158594) | advertise |
 | [ByKu24674252@twitter](https://twitter.com/ByKu24674252/status/1470865823606587392) | advertise |
+| [Byo_Anago@twitter](https://twitter.com/Byo_Anago/status/1468858493096841221) | advertise |
 | [byunlamin04@twitter](https://twitter.com/byunlamin04/status/1389980476031569923) | advertise |
 | [c09643643@twitter](https://twitter.com/c09643643/status/1385578671075840001) | advertise |
 | [c95405246@twitter](https://twitter.com/c95405246/status/1397498966304980999) | advertise |
@@ -2536,6 +2537,7 @@ Do not create new issue or we will close it as duplicate.
 | [JpMatuto@twitter](https://twitter.com/JpMatuto/status/1388240079810973699) | advertise |
 | [JSongtakri@twitter](https://twitter.com/JSongtakri/status/1380804099340439556) | advertise |
 | [JTdoodler@twitter](https://twitter.com/JTdoodler/status/1441130159227252738) | advertise |
+| [JubearHossan@twitter](https://twitter.com/JubearHossan/status/1472037401329504257) | advertise |
 | [JulianaXlie@twitter](https://twitter.com/JulianaXlie/status/1392063889697697799) | advertise |
 | [JulieMmtm12@twitter](https://twitter.com/JulieMmtm12/status/1383610725751427076) | advertise |
 | [Julliannay@twitter](https://twitter.com/Julliannay/status/1386969993019940867) | advertise |
@@ -4177,6 +4179,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynQu04717393@twitter](https://twitter.com/NguynQu04717393/status/1387780865682407427) | advertise |
 | [NguynQu80970835@twitter](https://twitter.com/NguynQu80970835/status/1407568252444676096) | advertise |
 | [NguynQu84764712@twitter](https://twitter.com/NguynQu84764712/status/1401422400051290117) | advertise |
+| [NguynQu87185006@twitter](https://twitter.com/NguynQu87185006/status/1472224764861108230) | advertise |
 | [NguynSn09007859@twitter](https://twitter.com/NguynSn09007859/status/1393247325682688002) | advertise |
 | [nguynth06161054@twitter](https://twitter.com/nguynth06161054/status/1397593967600967681) | advertise |
 | [NguynTh08766137@twitter](https://twitter.com/NguynTh08766137/status/1386784229594333184) | advertise |
@@ -4255,6 +4258,7 @@ Do not create new issue or we will close it as duplicate.
 | [Niv_mor@twitter](https://twitter.com/Niv_mor/status/1399756042590904325) | advertise |
 | [njang_zau_mun@twitter](https://twitter.com/njang_zau_mun/status/1380180638804832256) | advertise |
 | [NkKee1@twitter](https://twitter.com/NkKee1/status/1379528528073433088) | advertise |
+| [NKNRC39@twitter](https://twitter.com/NKNRC39/status/1472029289855918083) | advertise |
 | [nl840924@twitter](https://twitter.com/nl840924/status/1402307082548695041) | advertise |
 | [NLalrameng@twitter](https://twitter.com/NLalrameng/status/1391066385254584327) | advertise |
 | [Nmt79792355@twitter](https://twitter.com/Nmt79792355/status/1392876210544287744) | advertise |
@@ -4382,6 +4386,7 @@ Do not create new issue or we will close it as duplicate.
 | [OlTunexcon@twitter](https://twitter.com/OlTunexcon/status/1376669048839282690) | advertise |
 | [OluTemMarv@twitter](https://twitter.com/OluTemMarv/status/1401280423750209538) | advertise |
 | [OM4LSpb5a8vEdhu@twitter](https://twitter.com/OM4LSpb5a8vEdhu/status/1395682995693101063) | advertise |
+| [omar44270104@twitter](https://twitter.com/omar44270104/status/1471983815249833990) | advertise |
 | [OmarElgahri@twitter](https://twitter.com/OmarElgahri/status/1430736423838158851) | advertise |
 | [OnaKXnizuxEMYjZ@twitter](https://twitter.com/OnaKXnizuxEMYjZ/status/1389130870578159619) | advertise |
 | [ONELION16@twitter](https://twitter.com/ONELION16/status/1391108225546686464) | advertise |
@@ -5806,6 +5811,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thng11329609@twitter](https://twitter.com/Thng11329609/status/1385624068355858432) | advertise |
 | [Thng19199851@twitter](https://twitter.com/Thng19199851/status/1470784177519960065) | advertise |
 | [ThngAnh90026457@twitter](https://twitter.com/ThngAnh90026457/status/1389297361734692865) | advertise |
+| [thngngu22608045@twitter](https://twitter.com/thngngu22608045/status/1472219741029044227) | advertise |
 | [Thnh12733398@twitter](https://twitter.com/Thnh12733398/status/1394514924429139969) | advertise |
 | [ThnhHinLm1@twitter](https://twitter.com/ThnhHinLm1/status/1397758764904636418) | advertise |
 | [ThnhHip11@twitter](https://twitter.com/ThnhHip11/status/1396278038707335173) | advertise |
@@ -5851,6 +5857,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThuzarT00985996@twitter](https://twitter.com/ThuzarT00985996/status/1394809068502491137) | advertise |
 | [ThuZarW61704898@twitter](https://twitter.com/ThuZarW61704898/status/1390733792663412738) | advertise |
 | [thway_yin@twitter](https://twitter.com/thway_yin/status/1397078843416932362) | advertise |
+| [ThweNuSwe7@twitter](https://twitter.com/ThweNuSwe7/status/1472228009839001606) | advertise |
 | [ThweThw86283263@twitter](https://twitter.com/ThweThw86283263/status/1392055046829842437) | advertise |
 | [thwinphyoeaung@twitter](https://twitter.com/thwinphyoeaung/status/1389850121282625538) | advertise |
 | [thwin_y@twitter](https://twitter.com/thwin_y/status/1392784689874624513) | advertise |
@@ -6685,6 +6692,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zero13050189@twitter](https://twitter.com/Zero13050189/status/1400038923624013837) | advertise |
 | [Zero18004563@twitter](https://twitter.com/Zero18004563/status/1394624752262647812) | advertise |
 | [zerolamon1@twitter](https://twitter.com/zerolamon1/status/1386047123247058950) | advertise |
+| [Zertong19@twitter](https://twitter.com/Zertong19/status/1472010175275941891) | advertise |
 | [zeus410111@twitter](https://twitter.com/zeus410111/status/1470774038922420230) | advertise |
 | [Zeus41349153@twitter](https://twitter.com/Zeus41349153/status/1389858739851833346) | advertise |
 | [Zeven31589075@twitter](https://twitter.com/Zeven31589075/status/1391820184063647747) | advertise |
