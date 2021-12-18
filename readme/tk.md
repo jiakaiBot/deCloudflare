@@ -128,7 +128,6 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "The Great Cloudwall
 
 * [Ine, okamak üçin birnäçe PDF / ePUB.](../pdf/)
 
-* [Por favor considere la donación si le gusta este proyecto.](../DONATION.md)
 
 * [Help translate deCloudflare](translateData/)
 
