@@ -128,8 +128,6 @@
 
 * [{%mainx4n0008%}](../pdf/)
 
-* [{%mainx4n0009%}](../DONATION.md)
-
 * [Help translate deCloudflare](translateData/)
 
 
