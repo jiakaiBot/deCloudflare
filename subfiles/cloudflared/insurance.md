@@ -1,3 +1,24 @@
+
+# !!!!! VERR_DEPRECATION WARNING !!!!!
+# THIS LIST WILL BE UPDATED
+
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+-----
+
+
+
+
+
+
+
 ## How many % of insurance companies are using Cloudflare?
 
 The following is a list of insurance company websites.
