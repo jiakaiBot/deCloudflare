@@ -48,6 +48,7 @@
     - [Oceania](cloudflared/collegeuniversity_oceania.md)
   - [How many % of SSL certificates are issued to Cloudflare sites?](cloudflared/ssl_certificate.md)
   - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared/fortune1000.md)
+  - [How many % of insurance companies are using Cloudflare?](cloudflared/insurance.md)
   - [How many % of online magazines are using Cloudflare?](cloudflared/magazine.md)
   - [How many % of Bitcoin Exchange sites are using Cloudflare?](cloudflared/bitcoinexchange.md)
   - [How many % of payment service providers are using Cloudflare?](cloudflared/paymentservices.md)
