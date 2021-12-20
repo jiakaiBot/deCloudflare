@@ -41,10 +41,11 @@
     - [Europe](cloudflared/newspaper_europe.md)
     - [Oceania](cloudflared/newspaper_oceania.md)
   - How many % of University and College websites are using Cloudflare?
-    - [United States](cloudflared/collegeuniversity_usa.md) **_DEPRECATED_**
-    - [xxxxxxxxxxxx](xxxxxxxxxxxxxxxxx)
-    - [xxxxxxxxxxxx](xxxxxxxxxxxxxxxxx)
-    - [xxxxxxxxxxxx](xxxxxxxxxxxxxxxxx)
+    - [Africa](cloudflared/collegeuniversity_africa.md)
+    - [America](cloudflared/collegeuniversity_america.md)
+    - [Asia](cloudflared/collegeuniversity_asia.md)
+    - [Europe](cloudflared/collegeuniversity_europe.md)
+    - [Oceania](cloudflared/collegeuniversity_oceania.md)
   - [How many % of SSL certificates are issued to Cloudflare sites?](cloudflared/ssl_certificate.md)
   - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared/fortune1000.md)
   - [How many % of online magazines are using Cloudflare?](cloudflared/magazine.md)
