@@ -65,6 +65,7 @@
   - [How many % of gambling domains are using Cloudflare?](cloudflared/gambling.md)
   - [How many % of fake news outlets are using Cloudflare?](cloudflared/fakenews.md)
   - [How many % of phishing domains are using Cloudflare?](cloudflared/phishing.md)
+  - [How many % of malware domains are using Cloudflare?](cloudflared/malware.md)
   - [How many % of disposable email domains are using Cloudflare?](cloudflared/disposable_email.md)
   - [How many % of email (email exchanged between Gmail) domains are using Cloudflare?](cloudflared/gmail_email_domains.md)
   - [How many % of XMPP domains are using Cloudflare?](cloudflared/xmpp_domains.md)
