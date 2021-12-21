@@ -404,6 +404,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnoYgHIk7Sh8m44@twitter](https://twitter.com/AnoYgHIk7Sh8m44/status/1403077953395716097) | advertise |
 | [anshulkmr01@twitter](https://twitter.com/anshulkmr01/status/1441856756288606209) | advertise |
 | [AntohinShulov@twitter](https://twitter.com/AntohinShulov/status/1392227012136239105) | advertise |
+| [AntonioMA_dev@twitter](https://twitter.com/AntonioMA_dev/status/1473047937999683594) | advertise |
 | [antphyo@twitter](https://twitter.com/antphyo/status/1390723036710457346) | advertise |
 | [AntsyBoi@twitter](https://twitter.com/AntsyBoi/status/1456418455498989569) | advertise |
 | [anuj78203509@twitter](https://twitter.com/anuj78203509/status/1392001208076754947) | advertise |
