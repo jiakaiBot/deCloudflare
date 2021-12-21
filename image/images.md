@@ -43,10 +43,10 @@
 | ![](twitterban_ErwinVanDerKoogh.jpg) | ![](twitterban_Patrick_Donahue.jpg) | ![](twitterban_ErwinVanDerKoogh2.jpg) | ![](twitterban_Matthew_Prince.jpg) |
 | ![](twitterban_John_Graham-Cumming.jpg) | ![](twitterban_John_Graham-Cumming2.jpg) | ![](censor_cloudflare_blogcomment.jpg) | ![](cfd_game_worldofwarcraft.jpg) |
 | ![](cfeu2018.gif) | ![](dmca9justin.gif) | ![](jamie_tomasello.gif) | ![](smellslikebs.gif) |
-| ![](altlink_sample.jpg) | ![](cfinside_etcher.jpg) | ![](dnsset-doh.jpg) | ![](dnsset-dot.jpg) |
+| ![](altlink_sample.jpg) | ![](cfinside_etcher.jpg) | ![](dnsset-doh.jpg) | ![](mitigatorC03.png) |
 | ![](omsredjs.jpg) | ![](cfdown_2021-07-02.jpg) | ![](cfcommunity_ban.jpg) | ![](green_vehicles_cloudflare.jpg) |
 | ![](mitigatorC04.png) | ![](mitigatorB.png) | ![](altlink_suggest.jpg) | ![](covflare.jpg) |
 | ![](cfspam04.jpg) | ![](cfspam05.jpg) | ![](blockedbymatthewprince4.jpg) | ![](twitter_cloudflare_hide_reply.jpg) |
 | ![](altlink_sample_irc.jpg) | ![](fbi_on_cloudflare.jpg) | ![](mitigator.png) | ![](mitigatorC01.png) |
-| ![](mitigatorC02.png) | ![](mitigatorC03.png) | - | - |
+| ![](mitigatorC02.png) | - | - | - |
 
