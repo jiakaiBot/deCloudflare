@@ -1,4 +1,4 @@
-## How many % of Hospital websites are using Cloudflare?
+## How many % of Hospitals are using Cloudflare?
 
 The following is a list of Hospital websites.
 
