@@ -10,7 +10,7 @@
 
 | Server | Channel |
 | -- | -- |
-| http://techrights.org/ IRC | #techrights #boycottnovell #boycottnovell-social |
+| http://techrights.org/ IRC | #techrights |
 
 
 - Feel free to suggest other server/channels.
