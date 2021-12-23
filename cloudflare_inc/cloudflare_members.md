@@ -1488,6 +1488,7 @@ Or is this merely a case of simple modesty?
 | Sirisha Gorantala | Data and Analytics |  |
 | Slava Mudry | Database Engineer |  |
 | Snigdha Kulshreshtha | Customer Success |  |
+| Sofia Cardita | Employee | |
 | Sofia Celi | Crypto Team |  |
 | Sofia Farid | Technical Program Manager |  |
 | Sofia Gkazempa | Employee |  |
