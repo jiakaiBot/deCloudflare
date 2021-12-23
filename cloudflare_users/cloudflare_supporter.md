@@ -4215,6 +4215,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguynth06161054@twitter](https://twitter.com/nguynth06161054/status/1397593967600967681) | advertise |
 | [NguynTh08766137@twitter](https://twitter.com/NguynTh08766137/status/1386784229594333184) | advertise |
 | [NguynTh31341123@twitter](https://twitter.com/NguynTh31341123/status/1405558068138496005) | advertise |
+| [NguynTh33426431@twitter](https://twitter.com/NguynTh33426431/status/1473913068606275587) | advertise |
 | [NguynTh53936240@twitter](https://twitter.com/NguynTh53936240/status/1403065974199259141) | advertise |
 | [NguynTh72542449@twitter](https://twitter.com/NguynTh72542449/status/1401213945289994243) | advertise |
 | [NguynTh91319870@twitter](https://twitter.com/NguynTh91319870/status/1406592158447017989) | advertise |
