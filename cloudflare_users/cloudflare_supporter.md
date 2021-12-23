@@ -334,6 +334,7 @@ Do not create new issue or we will close it as duplicate.
 | [amirchitgaran@twitter](https://twitter.com/amirchitgaran/status/1384197111500083214) | advertise |
 | [AmirFusaini@twitter](https://twitter.com/AmirFusaini/status/1399362665416314883) | advertise |
 | [AmirShamaei@twitter](https://twitter.com/AmirShamaei/status/1380125118387589121) | advertise |
+| [AmirullAyob@twitter](https://twitter.com/AmirullAyob/status/1474048815149682689) | advertise |
 | [AmjSuper@twitter](https://twitter.com/AmjSuper/status/1385840633030529026) | advertise |
 | [AmmarNazwad@twitter](https://twitter.com/AmmarNazwad/status/1405512597164548100) | advertise |
 | [AMMOdoe1996@twitter](https://twitter.com/AMMOdoe1996/status/1390674344490110977) | advertise |
@@ -2092,6 +2093,7 @@ Do not create new issue or we will close it as duplicate.
 | [hpaujenaw@twitter](https://twitter.com/hpaujenaw/status/1391368913389334534) | advertise |
 | [Hponethuta1@twitter](https://twitter.com/Hponethuta1/status/1391823975894949890) | advertise |
 | [hp_wai@twitter](https://twitter.com/hp_wai/status/1402151194907222023) | advertise |
+| [HrichikM@twitter](https://twitter.com/HrichikM/status/1473991252827783168) | advertise |
 | [HRVerma90134169@twitter](https://twitter.com/HRVerma90134169/status/1398638317449539588) | advertise |
 | [HSandiel@twitter](https://twitter.com/HSandiel/status/1401853170305966081) | advertise |
 | [HSanwet@twitter](https://twitter.com/HSanwet/status/1394239150555951107) | advertise |
@@ -2339,6 +2341,7 @@ Do not create new issue or we will close it as duplicate.
 | [Invest86LLC@twitter](https://twitter.com/Invest86LLC/status/1419185318775898112) | advertise |
 | [InviolateTree@twitter](https://twitter.com/InviolateTree/status/1462048005889183754) | advertise |
 | [in_fluk@twitter](https://twitter.com/in_fluk/status/1404661393949876226) | advertise |
+| [iOS_Privacy@twitter](https://twitter.com/iOS_Privacy/status/1474026863324504064) | advertise |
 | [iqbalbirrul@twitter](https://twitter.com/iqbalbirrul/status/1401703605950828548) | advertise |
 | [irafaj_ila@twitter](https://twitter.com/irafaj_ila/status/1402692024067936260) | advertise |
 | [Iranjd@twitter](https://twitter.com/Iranjd/status/1448632216834224131) | advertise |
