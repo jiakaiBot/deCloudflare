@@ -2237,6 +2237,7 @@ Do not create new issue or we will close it as duplicate.
 | [huylba123@twitter](https://twitter.com/huylba123/status/1397769207337558023) | advertise |
 | [HuyLe12798601@twitter](https://twitter.com/HuyLe12798601/status/1400069776408338432) | advertise |
 | [HuyNguy96832626@twitter](https://twitter.com/HuyNguy96832626/status/1385249782474567682) | advertise |
+| [huynhduchuy19@twitter](https://twitter.com/huynhduchuy19/status/1473748306748526593) | advertise |
 | [huynhminhvu5232@twitter](https://twitter.com/huynhminhvu5232/status/1399221312921292801) | advertise |
 | [Huynhph7@twitter](https://twitter.com/Huynhph7/status/1387755716631359490) | advertise |
 | [huynn_1806@twitter](https://twitter.com/huynn_1806/status/1392209919424622593) | advertise |
@@ -4166,6 +4167,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguwaheden@twitter](https://twitter.com/nguwaheden/status/1395244958097940481) | advertise |
 | [Nguyen06650053@twitter](https://twitter.com/Nguyen06650053/status/1469787978830548994) | advertise |
 | [Nguyen10855445@twitter](https://twitter.com/Nguyen10855445/status/1386434408933060608) | advertise |
+| [NguyenA29695000@twitter](https://twitter.com/NguyenA29695000/status/1473783098227986433) | advertise |
 | [NguyenAn0506@twitter](https://twitter.com/NguyenAn0506/status/1386294304885248000) | advertise |
 | [NguyenD10705152@twitter](https://twitter.com/NguyenD10705152/status/1405567015402708994) | advertise |
 | [NguyenDJ@twitter](https://twitter.com/NguyenDJ/status/1385868091020648448) | advertise |
