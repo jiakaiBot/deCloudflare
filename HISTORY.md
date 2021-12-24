@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2021-12-24: [Possible Network Congestion in London, UK](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9pfmn7f0p2xm)
+- 2021-12-23: [Network Performance Issues in Islamabad](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/909zg2wbtccr)
 - 2021-12-21: [Network Performance issues in Chennai and Hyderabad, India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/970t26r9lvj4)
 - 2021-12-17: [Network Performance issues - Increased HTTP 5xx Errors in Islamabad, Pakistan](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/l5y868js1qs5)
 - 2021-12-16: [Cloudflare Latency Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qz5m74q8q0jl)
