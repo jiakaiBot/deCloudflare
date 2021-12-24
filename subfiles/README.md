@@ -78,6 +78,9 @@
   - [How many % of Mozilla's Root CAs are using Cloudflare?](cloudflared/mozilla_rootca.md)
   - [How many % of Open Data sites are using Cloudflare?](cloudflared/opendata.md)
   - [How many % of Privacy organizations are using Cloudflare?](cloudflared/privacy_organizations.md)
+- Name Servers on the Internet
+  - [September 9 2021](nameservers/2021-09.md)
+  - [December 24 2021](nameservers/2021-12.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
@@ -85,7 +88,6 @@
   - [Twitter](people.twitter.md)
   - [Mastodon](people.mastodon.md)
 - [About Ss](service.sercxi.md)
-- [Name Servers on the Internet](nameservers_internet.md)
 - [Cloudflare attracts "repeat infringers"](repeat_infringers_love_cloudflare.md)
 - [Change default DNS provider of Firefox](change-firefox-dns.md)
 - [How to use Chromium with Tor](chromium_tor.md)
