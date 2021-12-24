@@ -19,6 +19,8 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 Here's a list of public Fediverse services.
 
 
+[//]: # (start replacement)
+
 <details>
 <summary>_click me_
 
