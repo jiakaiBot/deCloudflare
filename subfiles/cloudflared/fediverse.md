@@ -16,8 +16,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
 ```
 
 
-- Here's a list of public Fediverse services.
-  - Inactive servers (e.g. No toots sent for 1 month) are not listed.
+Here's a list of public Fediverse services.
 
 
 <details>
