@@ -5395,6 +5395,7 @@ Do not create new issue or we will close it as duplicate.
 | [SMinlwin@twitter](https://twitter.com/SMinlwin/status/1395182338967883776) | advertise |
 | [SmithPhyo1@twitter](https://twitter.com/SmithPhyo1/status/1396327329824051209) | advertise |
 | [smmoooooe@twitter](https://twitter.com/smmoooooe/status/1389422042521358337) | advertise |
+| [smplbutcreative@twitter](https://twitter.com/smplbutcreative/status/1474489963903209472) | advertise |
 | [smtkaitou@twitter](https://twitter.com/smtkaitou/status/1395713765975363585) | advertise |
 | [SMZ23449578@twitter](https://twitter.com/SMZ23449578/status/1402810629530873860) | advertise |
 | [Sn07852953@twitter](https://twitter.com/Sn07852953/status/1386022348285890560) | advertise |
