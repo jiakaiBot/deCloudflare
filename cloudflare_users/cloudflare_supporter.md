@@ -4142,6 +4142,7 @@ Do not create new issue or we will close it as duplicate.
 | [newRigger72@twitter](https://twitter.com/newRigger72/status/1397210217872494601) | advertise |
 | [NewsRoo81265004@twitter](https://twitter.com/NewsRoo81265004/status/1405600643323138048) | advertise |
 | [news_scraper@twitter](https://twitter.com/news_scraper/status/1370141469613391875) | advertise |
+| [nftsrt@twitter](https://twitter.com/nftsrt/status/1472866208814964740) | advertise |
 | [Ng17137539@twitter](https://twitter.com/Ng17137539/status/1391247431531077636) | advertise |
 | [NgaHtwe2@twitter](https://twitter.com/NgaHtwe2/status/1389454383495135233) | advertise |
 | [NgalLay22498592@twitter](https://twitter.com/NgalLay22498592/status/1394158283217416194) | advertise |
