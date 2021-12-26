@@ -287,6 +287,7 @@ a2-67.akam.net
 a20-64.akam.net
 a20-65.akam.net
 a20-66.akam.net
+a20-66.akam.neta20-66.akam.net
 a20-67.akam.net
 a22-64.akam.net
 a22-65.akam.net
