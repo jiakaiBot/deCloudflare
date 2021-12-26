@@ -733,6 +733,7 @@ rex.ns.cloudflare.com
 reza.ns.cloudflare.com
 ricardo.ns.cloudflare.com
 rick.ns.cloudflare.com
+ricks.ns.cloudflare.com
 ridge.ns.cloudflare.com
 rihana.ns.cloudflare.com
 rita.ns.cloudflare.com
