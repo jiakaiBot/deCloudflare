@@ -172,6 +172,7 @@ Here's a list of public Fediverse services.
 | crap.today | No |
 | crazylab.online | No |
 | crypt.lol | No |
+| ctw.pw | No |
 | cuties.social | No |
 | cybr.es | No |
 | cybre.space | No |
@@ -286,6 +287,7 @@ Here's a list of public Fediverse services.
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
+| friendicarg.nsupdate.info | No |
 | frogmob.life | No |
 | froth.zone | No |
 | fsmi.social | Yes |
@@ -745,11 +747,11 @@ Here's a list of public Fediverse services.
 | mstdn.b-shock.org | No |
 | mstdn.barippi.com | No |
 | mstdn.beer | No |
+| mstdn.cloud.themaymeow.com | Yes |
 | mstdn.conoha.quine.codes | No |
 | mstdn.cuezakuisgodofthe.world | No |
 | mstdn.cygnan.com | Yes |
 | mstdn.es | Yes |
-| mstdn.f72u.net | Yes |
 | mstdn.fr | No |
 | mstdn.fujii-yuji.net | No |
 | mstdn.glorificatio.org | No |
@@ -987,6 +989,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
+| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -1017,7 +1020,6 @@ Here's a list of public Fediverse services.
 | shigusegubu.club | No |
 | shitcoin.land | Yes |
 | shitter.me | No |
-| sin.tyaku.com | No |
 | sio.masto.host | No |
 | sizedon.com | No |
 | sjtu.closed.social | Yes |
@@ -1255,6 +1257,7 @@ Here's a list of public Fediverse services.
 | tvitero.com | No |
 | tweetrex.co.uk | No |
 | twingyeo.kr | Yes |
+| twinkaga.in | No |
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
@@ -1337,8 +1340,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 250 |
-| Normal | 1,047 |
+| Cloudflare | 251 |
+| Normal | 1,049 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
