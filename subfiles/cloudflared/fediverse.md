@@ -25,8 +25,8 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 158 |
-| com | 123 |
+| social | 159 |
+| com | 124 |
 | net | 101 |
 | org | 75 |
 | jp | 50 |
@@ -215,6 +215,7 @@ Here's a list of public Fediverse services.
 | dynlinux.io | No |
 | earfolds.com | No |
 | eattherich.club | No |
+| eckodon.nohost.me | No |
 | edolas.world | No |
 | ef67.myhome.cx | No |
 | efdn.club | No |
@@ -442,7 +443,7 @@ Here's a list of public Fediverse services.
 | letsalllovela.in | Yes |
 | letsrulethe.world | No |
 | lewd.town | No |
-| lgbt.im | No |
+| lgbt.im | Yes |
 | lgbt.io | No |
 | lhub.social | No |
 | liber.chocoflan.net | No |
@@ -495,7 +496,7 @@ Here's a list of public Fediverse services.
 | maki.chiba.tw | No |
 | malfunctioning.technology | No |
 | malu.today | No |
-| maly.io | No |
+| maly.io | Yes |
 | mammouth.inframed.net | No |
 | mamot.fr | No |
 | mamut.tic-ac.org | No |
@@ -855,7 +856,7 @@ Here's a list of public Fediverse services.
 | noagendasocialist.com | No |
 | nobert.zone | No |
 | noc.social | No |
-| norden.social | No |
+| norden.social | Yes |
 | norrebro.space | No |
 | notbird.site | No |
 | nrw.social | No |
@@ -949,6 +950,7 @@ Here's a list of public Fediverse services.
 | pouet.april.org | No |
 | pouet.chapril.org | No |
 | pouet.couchet.org | No |
+| pouet.it | No |
 | pouet.mickaelgillot.xyz | No |
 | pounced-on.me | No |
 | ppl.town | No |
@@ -989,7 +991,6 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -1020,6 +1021,7 @@ Here's a list of public Fediverse services.
 | shigusegubu.club | No |
 | shitcoin.land | Yes |
 | shitter.me | No |
+| sin.tyaku.com | No |
 | sio.masto.host | No |
 | sizedon.com | No |
 | sjtu.closed.social | Yes |
@@ -1060,7 +1062,7 @@ Here's a list of public Fediverse services.
 | social.computerfox.xyz | No |
 | social.coop | Yes |
 | social.daspr.io | Yes |
-| social.dev-wiki.de | No |
+| social.dev-wiki.de | Yes |
 | social.device5.co.uk | No |
 | social.devopsgenius.com | No |
 | social.diskseven.com | No |
@@ -1146,6 +1148,7 @@ Here's a list of public Fediverse services.
 | society.oftrolls.com | No |
 | sociopak.com | No |
 | socnet.supes.com | No |
+| sophiade.net | No |
 | sosh.network | No |
 | soundcafe.nl | No |
 | sozen.network | No |
@@ -1199,7 +1202,7 @@ Here's a list of public Fediverse services.
 | tilde.zone | No |
 | tiny.tilde.website | No |
 | tkmb.tokyo | No |
-| tmkis.social | No |
+| tmkis.social | Yes |
 | tmp-mstdn.cloud | No |
 | todon.eu | No |
 | todon.nl | No |
@@ -1219,7 +1222,7 @@ Here's a list of public Fediverse services.
 | toot.kif.rocks | No |
 | toot.krinetzki.de | Yes |
 | toot.matereal.eu | No |
-| toot.miningpro362.xyz | No |
+| toot.miningpro362.xyz | Yes |
 | toot.nx-pod.de | No |
 | toot.party | No |
 | toot.portes-imaginaire.org | No |
@@ -1305,6 +1308,7 @@ Here's a list of public Fediverse services.
 | workaholic.cloud | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
@@ -1340,8 +1344,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 251 |
-| Normal | 1,049 |
+| Cloudflare | 256 |
+| Normal | 1,048 |
 
 
-### 19.3% of public Fediverse services are using Cloudflare.
+### 19.6% of public Fediverse services are using Cloudflare.
