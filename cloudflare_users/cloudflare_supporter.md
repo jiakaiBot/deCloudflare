@@ -6226,6 +6226,7 @@ Do not create new issue or we will close it as duplicate.
 | [vazquezjg@twitter](https://twitter.com/vazquezjg/status/1407182928275070976) | advertise |
 | [VBo08841997@twitter](https://twitter.com/VBo08841997/status/1398090624503402497) | advertise |
 | [vcdx71@twitter](https://twitter.com/vcdx71/status/1422627671654158347) | advertise |
+| [Vegans4Trump@twitter](https://twitter.com/Vegans4Trump/status/1475146808309526534) | advertise |
 | [venkats02968750@twitter](https://twitter.com/venkats02968750/status/1402898594030526468) | advertise |
 | [Venn34541103@twitter](https://twitter.com/Venn34541103/status/1397760420249804800) | advertise |
 | [Venus94618205@twitter](https://twitter.com/Venus94618205/status/1394980396618682370) | advertise |
