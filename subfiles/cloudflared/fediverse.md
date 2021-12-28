@@ -25,9 +25,9 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 159 |
-| com | 124 |
-| net | 101 |
+| social | 158 |
+| com | 123 |
+| net | 102 |
 | org | 75 |
 | jp | 50 |
 
@@ -78,7 +78,6 @@ Here's a list of public Fediverse services.
 | anime.website | No |
 | antabaka.me | No |
 | anticapitalist.party | Yes |
-| anticitoyen.fr.nf | No |
 | antisocial.science | No |
 | ap.kios.cc | No |
 | appdot.net | No |
@@ -197,7 +196,6 @@ Here's a list of public Fediverse services.
 | djanzu.tokyo | No |
 | dobbs.town | No |
 | docker.masto.pt | Yes |
-| doll.social | No |
 | don.crakac.com | No |
 | don.gomasy.jp | Yes |
 | don.m2hq.net | No |
@@ -665,7 +663,6 @@ Here's a list of public Fediverse services.
 | mastodon.radicalityincident.com | No |
 | mastodon.radio | No |
 | mastodon.roflcopter.fr | No |
-| mastodon.rosenberg-watt.com | No |
 | mastodon.rousset.nom.fr | No |
 | mastodon.s-yurama.com | No |
 | mastodon.sandwich.net | No |
@@ -991,6 +988,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
+| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -1037,7 +1035,6 @@ Here's a list of public Fediverse services.
 | sneed.social | No |
 | snowdon.jp | No |
 | soc.safebook.space | No |
-| soc.sakrajda.eu | No |
 | socel.net | No |
 | social.0ko.me | No |
 | social.076.ne.jp | No |
@@ -1344,8 +1341,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 256 |
-| Normal | 1,048 |
+| Cloudflare | 257 |
+| Normal | 1,044 |
 
 
-### 19.6% of public Fediverse services are using Cloudflare.
+### 19.8% of public Fediverse services are using Cloudflare.
