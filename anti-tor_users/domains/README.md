@@ -20,7 +20,7 @@
 
 [//]: # (do not edit me; start)
 
-## _47,932_ domajnoj
+## _48,180_ domajnoj
 
 [//]: # (do not edit me; end)
 
