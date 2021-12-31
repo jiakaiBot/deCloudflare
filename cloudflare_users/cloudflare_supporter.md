@@ -840,6 +840,7 @@ Do not create new issue or we will close it as duplicate.
 | [BIlli42767896@twitter](https://twitter.com/BIlli42767896/status/1394538237880782853) | advertise |
 | [Billionairehei1@twitter](https://twitter.com/Billionairehei1/status/1390817006937542658) | advertise |
 | [Billy97547132@twitter](https://twitter.com/Billy97547132/status/1399284703367098369) | advertise |
+| [BillyJavier@twitter](https://twitter.com/BillyJavier/status/1476939824179421188) | advertise |
 | [BiMinhTrung6@twitter](https://twitter.com/BiMinhTrung6/status/1398235044850790408) | advertise |
 | [bimotomo@twitter](https://twitter.com/bimotomo/status/1385639102725255169) | advertise |
 | [Bin11022@twitter](https://twitter.com/Bin11022/status/1397241104777596931) | advertise |
@@ -933,6 +934,7 @@ Do not create new issue or we will close it as duplicate.
 | [Boycake91@twitter](https://twitter.com/Boycake91/status/1394245083864584192) | advertise |
 | [BoyDamD36200800@twitter](https://twitter.com/BoyDamD36200800/status/1404202190533652480) | advertise |
 | [boyhandsome00@twitter](https://twitter.com/boyhandsome00/status/1387752701430140931) | advertise |
+| [boythienvn@twitter](https://twitter.com/boythienvn/status/1476925296439750662) | advertise |
 | [br0sale144@twitter](https://twitter.com/br0sale144/status/1389855026558824451) | advertise |
 | [Bradley99951058@twitter](https://twitter.com/Bradley99951058/status/1473421304304865281) | advertise |
 | [BradlinAung@twitter](https://twitter.com/BradlinAung/status/1380123429391585288) | advertise |
@@ -4604,6 +4606,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhanThiTi1@twitter](https://twitter.com/PhanThiTi1/status/1405723164689108999) | advertise |
 | [phanvandai98@twitter](https://twitter.com/phanvandai98/status/1440374987508965377) | advertise |
 | [phanvanduc9x@twitter](https://twitter.com/phanvanduc9x/status/1396340709095985152) | advertise |
+| [PhanVnN6@twitter](https://twitter.com/PhanVnN6/status/1476930196150226951) | advertise |
 | [Pharm_chocolate@twitter](https://twitter.com/Pharm_chocolate/status/1401267624013668352) | advertise |
 | [PhatLe_2241@twitter](https://twitter.com/PhatLe_2241/status/1400493633120342018) | advertise |
 | [PhatNgu75533287@twitter](https://twitter.com/PhatNgu75533287/status/1394214535414751232) | advertise |
@@ -4773,6 +4776,7 @@ Do not create new issue or we will close it as duplicate.
 | [practiceacc3@twitter](https://twitter.com/practiceacc3/status/1384126713404084224) | advertise |
 | [pranjalsoni_@twitter](https://twitter.com/pranjalsoni_/status/1419024238070038532) | advertise |
 | [Prasant84597643@twitter](https://twitter.com/Prasant84597643/status/1377798977483984896) | advertise |
+| [Prashan72710850@twitter](https://twitter.com/Prashan72710850/status/1476895145886818304) | advertise |
 | [Prashantnrao@twitter](https://twitter.com/Prashantnrao/status/1385898660861448193) | advertise |
 | [pratham_mahadik@twitter](https://twitter.com/pratham_mahadik/status/1404448453678170115) | advertise |
 | [PrathapSingh080@twitter](https://twitter.com/PrathapSingh080/status/1391728889630642179) | advertise |
@@ -5733,6 +5737,7 @@ Do not create new issue or we will close it as duplicate.
 | [thamudayanwe111@twitter](https://twitter.com/thamudayanwe111/status/1398566626904076291) | advertise |
 | [thanalorphanage@twitter](https://twitter.com/thanalorphanage/status/1453937649006174208) | advertise |
 | [thanathon333@twitter](https://twitter.com/thanathon333/status/1389632089910222848) | advertise |
+| [ThanawatS3@twitter](https://twitter.com/ThanawatS3/status/1476701643261448226) | advertise |
 | [ThanDar16085866@twitter](https://twitter.com/ThanDar16085866/status/1403606075044089856) | advertise |
 | [Thandar16869139@twitter](https://twitter.com/Thandar16869139/status/1394663773160415232) | advertise |
 | [thandarwai808@twitter](https://twitter.com/thandarwai808/status/1380527502263689227) | advertise |
@@ -6128,6 +6133,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ttleo13@twitter](https://twitter.com/Ttleo13/status/1382004085373595648) | advertise |
 | [TTsoknyi@twitter](https://twitter.com/TTsoknyi/status/1390252150224166915) | advertise |
 | [Tu95824630@twitter](https://twitter.com/Tu95824630/status/1403925491455709195) | advertise |
+| [tuan00233424@twitter](https://twitter.com/tuan00233424/status/1476923602381332487) | advertise |
 | [tuan15167889@twitter](https://twitter.com/tuan15167889/status/1389304635597283328) | advertise |
 | [tuan66944801@twitter](https://twitter.com/tuan66944801/status/1475119208786632706) | advertise |
 | [Tuan71047153@twitter](https://twitter.com/Tuan71047153/status/1399794026463719424) | advertise |
