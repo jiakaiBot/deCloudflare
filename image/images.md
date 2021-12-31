@@ -48,5 +48,5 @@
 | ![](mitigatorC04.png) | ![](mitigatorB.png) | ![](altlink_suggest.jpg) | ![](covflare.jpg) |
 | ![](cfspam04.jpg) | ![](cfspam05.jpg) | ![](blockedbymatthewprince4.jpg) | ![](twitter_cloudflare_hide_reply.jpg) |
 | ![](altlink_sample_irc.jpg) | ![](fbi_on_cloudflare.jpg) | ![](mitigator.png) | ![](mitigatorC01.png) |
-| ![](mitigatorC02.png) | ![](torproject_ignore_cloudflare-we_pay_no_attention_to_that_elephant.png) | - | - |
+| ![](mitigatorC02.png) | ![](torproject_ignore_cloudflare-we_pay_no_attention_to_that_elephant.png) | ![](what_are_you_hunting_cloudflare.png) | - |
 
