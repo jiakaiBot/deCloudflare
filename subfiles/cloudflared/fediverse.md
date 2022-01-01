@@ -25,10 +25,10 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 158 |
+| social | 159 |
 | com | 121 |
-| net | 101 |
-| org | 74 |
+| net | 103 |
+| org | 72 |
 | jp | 49 |
 
 
@@ -155,13 +155,13 @@ Here's a list of public Fediverse services.
 | chirpi.de | No |
 | chitter.xyz | No |
 | chomp.life | No |
-| chromabits.com | No |
 | cigarcabin.com | No |
 | circus.town | No |
 | clacks.link | No |
 | claris.cf | No |
 | climatejustice.social | No |
 | club.darknight-coffee.org | No |
+| coales.co | No |
 | code4lib.social | No |
 | comicscamp.club | No |
 | comm.cx | Yes |
@@ -243,6 +243,7 @@ Here's a list of public Fediverse services.
 | fandom.ink | Yes |
 | fanfare.horse | No |
 | fearness.org | No |
+| federation.krowverse.services | No |
 | fedi.absturztau.be | No |
 | fedi.garrison.beer | No |
 | fedi.mint.lgbt | No |
@@ -288,7 +289,6 @@ Here's a list of public Fediverse services.
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
-| friendicarg.nsupdate.info | No |
 | frogmob.life | No |
 | froth.zone | No |
 | fsmi.social | Yes |
@@ -402,6 +402,7 @@ Here's a list of public Fediverse services.
 | kancolle.social | No |
 | kanoa.de | No |
 | karass.ideali.sh | No |
+| katasumi.no-monogatari.com | No |
 | kawen.space | No |
 | kazv.moe | No |
 | kcmo.social | No |
@@ -542,6 +543,7 @@ Here's a list of public Fediverse services.
 | mastodon.atikoro.net | No |
 | mastodon.aventer.biz | No |
 | mastodon.bachgau.social | No |
+| mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
 | mastodon.bida.im | No |
@@ -814,7 +816,6 @@ Here's a list of public Fediverse services.
 | mstdn.y-zu.org | Yes |
 | mstdn.yakitamago.info | No |
 | mstdn.yamaken.jp | Yes |
-| mstdn.zoddo.fr | No |
 | mtd.ax9.eu | No |
 | mtg.masto.host | No |
 | muenchen.social | No |
@@ -986,6 +987,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
+| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -1047,7 +1049,6 @@ Here's a list of public Fediverse services.
 | social.bim.land | No |
 | social.binarydad.com | No |
 | social.bobcall.me | No |
-| social.buckket.org | No |
 | social.caa-ins.org | No |
 | social.centreforthestudyof.net | No |
 | social.chinwag.org | Yes |
@@ -1254,8 +1255,8 @@ Here's a list of public Fediverse services.
 | tvitero.com | No |
 | tweetrex.co.uk | No |
 | twingyeo.kr | Yes |
-| twinkaga.in | No |
 | tymoon.eu | Yes |
+| typrout.ml | Yes |
 | tzcafe.com | Yes |
 | uelfte.club | No |
 | ukadon.shillest.net | No |
@@ -1300,6 +1301,7 @@ Here's a list of public Fediverse services.
 | workaholic.cloud | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
@@ -1312,7 +1314,6 @@ Here's a list of public Fediverse services.
 | xarxa.cloud | No |
 | xn--pnibles-bya.xn--transposes-i7a.eu | No |
 | xoxo.zone | Yes |
-| y6.org | No |
 | yakyudon.com | No |
 | yakyudon.net | Yes |
 | yamagadon.com | No |
@@ -1335,8 +1336,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 254 |
-| Normal | 1,041 |
+| Cloudflare | 256 |
+| Normal | 1,040 |
 
 
-### 19.6% of public Fediverse services are using Cloudflare.
+### 19.8% of public Fediverse services are using Cloudflare.
