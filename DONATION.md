@@ -1,4 +1,4 @@
-### Donating to deCloudflare
+### Donating to this project
 
 Please consider donation if you like to keep this alive.
 `All(100%) of Your donation` will be used to help us maintain our VPS.
