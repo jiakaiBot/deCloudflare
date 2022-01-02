@@ -15,11 +15,11 @@ Here's the result.
 
 | Adblock list | Domains Count | Cloudflare | % |
 | --- | --- | --- | --- |
-| [EasyList](https://easylist.to/easylist/easylist.txt) | 24,644 | 6,101 | 24.8% |
-| [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) | 15,983 | 3,479 | 21.8% |
-| [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 41,081 | 6,775 | 16.5% |
+| [EasyList](https://easylist.to/easylist/easylist.txt) | 24,645 | 6,104 | 24.8% |
+| [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) | 15,983 | 3,481 | 21.8% |
+| [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 41,093 | 6,775 | 16.5% |
 | [AdAway](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | 2,177 | 535 | 24.6% |
-| Total | 57,448 | 11,738 | 20.4% |
+| Total | 57,460 | 11,742 | 20.4% |
 
 
 ### 20.4% of adverts and trackers are using Cloudflare.
