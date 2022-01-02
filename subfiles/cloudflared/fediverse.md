@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | social | 159 |
 | com | 121 |
-| net | 103 |
-| org | 72 |
+| net | 101 |
+| org | 73 |
 | jp | 49 |
 
 
@@ -83,7 +83,6 @@ Here's a list of public Fediverse services.
 | ap.kios.cc | No |
 | appdot.net | No |
 | arkham.cafe | No |
-| arkovia.net | No |
 | arktos.social | No |
 | ascraeus.org | No |
 | asonix.dog | No |
@@ -140,7 +139,6 @@ Here's a list of public Fediverse services.
 | c.im | Yes |
 | c2bdon.net | No |
 | cantos.social | No |
-| capitalism.party | No |
 | carnivore.social | Yes |
 | catdon.life | No |
 | catgram.jp | Yes |
@@ -155,17 +153,19 @@ Here's a list of public Fediverse services.
 | chirpi.de | No |
 | chitter.xyz | No |
 | chomp.life | No |
+| chromabits.com | No |
 | cigarcabin.com | No |
 | circus.town | No |
 | clacks.link | No |
 | claris.cf | No |
 | climatejustice.social | No |
+| club.darknight-coffee.eu | No |
 | club.darknight-coffee.org | No |
 | coales.co | No |
 | code4lib.social | No |
 | comicscamp.club | No |
 | comm.cx | Yes |
-| community-patriots.social | No |
+| community-patriots.social | Yes |
 | connect.takebackourtech.org | No |
 | contacthi.org | No |
 | coolmathgam.es | Yes |
@@ -568,7 +568,6 @@ Here's a list of public Fediverse services.
 | mastodon.design | No |
 | mastodon.desmu.fr | No |
 | mastodon.die-partei-reutlingen.de | No |
-| mastodon.dissem.ch | No |
 | mastodon.earth | No |
 | mastodon.ecnelises.com | No |
 | mastodon.edvgarbe.de | No |
@@ -816,6 +815,7 @@ Here's a list of public Fediverse services.
 | mstdn.y-zu.org | Yes |
 | mstdn.yakitamago.info | No |
 | mstdn.yamaken.jp | Yes |
+| mstdn.zoddo.fr | No |
 | mtd.ax9.eu | No |
 | mtg.masto.host | No |
 | muenchen.social | No |
@@ -908,7 +908,6 @@ Here's a list of public Fediverse services.
 | pipes.social | No |
 | pipou.academy | No |
 | pl.ajin.la | No |
-| pl.im-in.space | No |
 | pl.nudie.social | No |
 | pl.veryamt.com | Yes |
 | planet.moe | Yes |
@@ -922,7 +921,6 @@ Here's a list of public Fediverse services.
 | pleroma.chirno.tech | No |
 | pleroma.envs.net | No |
 | pleroma.gdgd.jp.net | Yes |
-| pleroma.libretux.com | No |
 | pleroma.marud.fr | No |
 | pleroma.massivebox.eu.org | No |
 | pleroma.oook.fr | No |
@@ -987,7 +985,6 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -1049,6 +1046,7 @@ Here's a list of public Fediverse services.
 | social.bim.land | No |
 | social.binarydad.com | No |
 | social.bobcall.me | No |
+| social.buckket.org | No |
 | social.caa-ins.org | No |
 | social.centreforthestudyof.net | No |
 | social.chinwag.org | Yes |
@@ -1192,7 +1190,6 @@ Here's a list of public Fediverse services.
 | this.mouse.rocks | No |
 | thraeryn.net | No |
 | thu.closed.social | Yes |
-| thx.one | Yes |
 | tigre-bleu.net | No |
 | tilde.zone | No |
 | tiny.tilde.website | No |
@@ -1255,6 +1252,7 @@ Here's a list of public Fediverse services.
 | tvitero.com | No |
 | tweetrex.co.uk | No |
 | twingyeo.kr | Yes |
+| twinkaga.in | No |
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
@@ -1293,7 +1291,6 @@ Here's a list of public Fediverse services.
 | welt.all.de | No |
 | werebeast.io | No |
 | whitespashe.uk | No |
-| wien.rocks | No |
 | witches.live | No |
 | witchey.club | No |
 | wobscale.social | No |
@@ -1319,7 +1316,6 @@ Here's a list of public Fediverse services.
 | yamagadon.com | No |
 | yeahnahcunt.club | No |
 | yiff.life | Yes |
-| yip.gay | No |
 | ykzts.technology | No |
 | yoghurthair.club | No |
 | yoitsu.moe | Yes |
@@ -1336,8 +1332,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 256 |
-| Normal | 1,040 |
+| Cloudflare | 255 |
+| Normal | 1,037 |
 
 
-### 19.8% of public Fediverse services are using Cloudflare.
+### 19.7% of public Fediverse services are using Cloudflare.
