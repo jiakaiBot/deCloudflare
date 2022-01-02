@@ -2557,6 +2557,7 @@ Do not create new issue or we will close it as duplicate.
 | [Johnson26816196@twitter](https://twitter.com/Johnson26816196/status/1397785719502827520) | advertise |
 | [JohnSto93368906@twitter](https://twitter.com/JohnSto93368906/status/1394195513751183360) | advertise |
 | [JohnWalkerBlac1@twitter](https://twitter.com/JohnWalkerBlac1/status/1475563073557745671) | advertise |
+| [johnwknightIII@twitter](https://twitter.com/johnwknightIII/status/1477359362469339138) | advertise |
 | [johnymyanmar@twitter](https://twitter.com/johnymyanmar/status/1379032540548227077) | advertise |
 | [johnzoet@twitter](https://twitter.com/johnzoet/status/1434773645113454599) | advertise |
 | [JOJO45155090@twitter](https://twitter.com/JOJO45155090/status/1397488359216459779) | advertise |
@@ -3306,6 +3307,7 @@ Do not create new issue or we will close it as duplicate.
 | [LiWei69201004@twitter](https://twitter.com/LiWei69201004/status/1396636978976673793) | advertise |
 | [liximo_tong@twitter](https://twitter.com/liximo_tong/status/1471389167112228864) | advertise |
 | [ljnhbj@twitter](https://twitter.com/ljnhbj/status/1393463319453847559) | advertise |
+| [lk21baeeee@twitter](https://twitter.com/lk21baeeee/status/1477388348054392832) | advertise |
 | [LKDavidHt1@twitter](https://twitter.com/LKDavidHt1/status/1391671487652720640) | advertise |
 | [LKhngNinh2@twitter](https://twitter.com/LKhngNinh2/status/1381900715262550016) | advertise |
 | [lknk_adorebot@twitter](https://twitter.com/lknk_adorebot/status/1390972492995432454) | advertise |
