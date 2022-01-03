@@ -25,9 +25,9 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 159 |
-| com | 121 |
-| net | 101 |
+| social | 157 |
+| com | 119 |
+| net | 100 |
 | org | 73 |
 | jp | 49 |
 
@@ -139,6 +139,7 @@ Here's a list of public Fediverse services.
 | c.im | Yes |
 | c2bdon.net | No |
 | cantos.social | No |
+| capitalism.party | No |
 | carnivore.social | Yes |
 | catdon.life | No |
 | catgram.jp | Yes |
@@ -153,7 +154,6 @@ Here's a list of public Fediverse services.
 | chirpi.de | No |
 | chitter.xyz | No |
 | chomp.life | No |
-| chromabits.com | No |
 | cigarcabin.com | No |
 | circus.town | No |
 | clacks.link | No |
@@ -234,7 +234,6 @@ Here's a list of public Fediverse services.
 | engineered.space | No |
 | entomophagy.world | No |
 | ephemeral.glitch.social | No |
-| equestria.social | No |
 | esquite.mazorca.org | No |
 | eupublic.social | No |
 | eweg.be | No |
@@ -246,6 +245,7 @@ Here's a list of public Fediverse services.
 | federation.krowverse.services | No |
 | fedi.absturztau.be | No |
 | fedi.garrison.beer | No |
+| fedi.mecp.de | No |
 | fedi.mint.lgbt | No |
 | fedi.scd31.com | No |
 | fedi.z0ne.moe | Yes |
@@ -285,7 +285,6 @@ Here's a list of public Fediverse services.
 | freewheel.social | No |
 | frei.social | Yes |
 | freiburg.social | No |
-| freunde.ma-nic.de | No |
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
@@ -476,7 +475,6 @@ Here's a list of public Fediverse services.
 | m.hitorino.moe | Yes |
 | m.hxbus.net | No |
 | m.laitues.net | No |
-| m.loovto.net | No |
 | m.moe.cat | No |
 | m.mtjm.eu | No |
 | m.nintendojo.fr | No |
@@ -568,6 +566,7 @@ Here's a list of public Fediverse services.
 | mastodon.design | No |
 | mastodon.desmu.fr | No |
 | mastodon.die-partei-reutlingen.de | No |
+| mastodon.dissem.ch | No |
 | mastodon.earth | No |
 | mastodon.ecnelises.com | No |
 | mastodon.edvgarbe.de | No |
@@ -592,7 +591,6 @@ Here's a list of public Fediverse services.
 | mastodon.habets.dev | No |
 | mastodon.hk | Yes |
 | mastodon.hugopoi.net | No |
-| mastodon.hydrosaas.com | Yes |
 | mastodon.hypnoguys.com | No |
 | mastodon.icu | No |
 | mastodon.im.sb | No |
@@ -1298,7 +1296,6 @@ Here's a list of public Fediverse services.
 | workaholic.cloud | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
@@ -1332,8 +1329,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 255 |
-| Normal | 1,037 |
+| Cloudflare | 254 |
+| Normal | 1,035 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
