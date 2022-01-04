@@ -25,9 +25,9 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 157 |
-| com | 119 |
-| net | 100 |
+| social | 159 |
+| com | 121 |
+| net | 102 |
 | org | 73 |
 | jp | 49 |
 
@@ -108,6 +108,7 @@ Here's a list of public Fediverse services.
 | bear.community | No |
 | beepboop.one | No |
 | best-friends.chat | No |
+| beudot07.net | No |
 | bgme.me | Yes |
 | bidule.menf.in | No |
 | bigshoulders.city | No |
@@ -139,7 +140,6 @@ Here's a list of public Fediverse services.
 | c.im | Yes |
 | c2bdon.net | No |
 | cantos.social | No |
-| capitalism.party | No |
 | carnivore.social | Yes |
 | catdon.life | No |
 | catgram.jp | Yes |
@@ -154,6 +154,7 @@ Here's a list of public Fediverse services.
 | chirpi.de | No |
 | chitter.xyz | No |
 | chomp.life | No |
+| chromabits.com | No |
 | cigarcabin.com | No |
 | circus.town | No |
 | clacks.link | No |
@@ -178,7 +179,6 @@ Here's a list of public Fediverse services.
 | cybre.space | No |
 | cypher.social | No |
 | d2l.masto.host | No |
-| darkest-timeline.com | No |
 | darmstadt.social | Yes |
 | democracy.town | No |
 | dewp.space | No |
@@ -234,6 +234,7 @@ Here's a list of public Fediverse services.
 | engineered.space | No |
 | entomophagy.world | No |
 | ephemeral.glitch.social | No |
+| equestria.social | No |
 | esquite.mazorca.org | No |
 | eupublic.social | No |
 | eweg.be | No |
@@ -285,9 +286,11 @@ Here's a list of public Fediverse services.
 | freewheel.social | No |
 | frei.social | Yes |
 | freiburg.social | No |
+| freunde.ma-nic.de | No |
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
+| friendicarg.nsupdate.info | No |
 | frogmob.life | No |
 | froth.zone | No |
 | fsmi.social | Yes |
@@ -546,7 +549,6 @@ Here's a list of public Fediverse services.
 | mastodon.bayern | Yes |
 | mastodon.bida.im | No |
 | mastodon.bitbank.cc | Yes |
-| mastodon.brodi.space | No |
 | mastodon.cardina1.red | No |
 | mastodon.cc | No |
 | mastodon.cemea.org | No |
@@ -591,6 +593,7 @@ Here's a list of public Fediverse services.
 | mastodon.habets.dev | No |
 | mastodon.hk | Yes |
 | mastodon.hugopoi.net | No |
+| mastodon.hydrosaas.com | Yes |
 | mastodon.hypnoguys.com | No |
 | mastodon.icu | No |
 | mastodon.im.sb | No |
@@ -662,6 +665,7 @@ Here's a list of public Fediverse services.
 | mastodon.radicalityincident.com | No |
 | mastodon.radio | No |
 | mastodon.roflcopter.fr | No |
+| mastodon.rosenberg-watt.com | No |
 | mastodon.rousset.nom.fr | No |
 | mastodon.s-yurama.com | No |
 | mastodon.sandwich.net | No |
@@ -983,6 +987,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
+| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -1296,6 +1301,7 @@ Here's a list of public Fediverse services.
 | workaholic.cloud | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
@@ -1329,8 +1335,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 254 |
-| Normal | 1,035 |
+| Cloudflare | 256 |
+| Normal | 1,039 |
 
 
-### 19.7% of public Fediverse services are using Cloudflare.
+### 19.8% of public Fediverse services are using Cloudflare.
