@@ -4191,6 +4191,7 @@ Do not create new issue or we will close it as duplicate.
 | [NetworkThreats@twitter](https://twitter.com/NetworkThreats/status/1384218165878530052) | advertise |
 | [Never87346438@twitter](https://twitter.com/Never87346438/status/1392124512888496128) | advertise |
 | [NeverGi40238045@twitter](https://twitter.com/NeverGi40238045/status/1390975560411586560) | advertise |
+| [NevinMathews6@twitter](https://twitter.com/NevinMathews6/status/1478413721361793025) | advertise |
 | [Newbie7749@twitter](https://twitter.com/Newbie7749/status/1381448530682765313) | advertise |
 | [newblogmedia@twitter](https://twitter.com/newblogmedia/status/1384136725732024329) | advertise |
 | [newday20830803@twitter](https://twitter.com/newday20830803/status/1396155259886657536) | advertise |
@@ -6465,6 +6466,7 @@ Do not create new issue or we will close it as duplicate.
 | [Waranglat1@twitter](https://twitter.com/Waranglat1/status/1401063506385018883) | advertise |
 | [WarWar31916729@twitter](https://twitter.com/WarWar31916729/status/1401894009593733129) | advertise |
 | [Wasisdas6@twitter](https://twitter.com/Wasisdas6/status/1398700969160896519) | advertise |
+| [wasmithee@twitter](https://twitter.com/wasmithee/status/1478506638856183813) | advertise |
 | [watermelaa@twitter](https://twitter.com/watermelaa/status/1379361436393041922) | advertise |
 | [wathanminbo@twitter](https://twitter.com/wathanminbo/status/1394217050822909952) | advertise |
 | [WDragon203@twitter](https://twitter.com/WDragon203/status/1416258687266476033) | advertise |
