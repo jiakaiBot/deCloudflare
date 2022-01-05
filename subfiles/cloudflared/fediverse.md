@@ -25,10 +25,10 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 159 |
+| social | 157 |
 | com | 121 |
 | net | 102 |
-| org | 73 |
+| org | 74 |
 | jp | 49 |
 
 
@@ -478,6 +478,7 @@ Here's a list of public Fediverse services.
 | m.hitorino.moe | Yes |
 | m.hxbus.net | No |
 | m.laitues.net | No |
+| m.loovto.net | No |
 | m.moe.cat | No |
 | m.mtjm.eu | No |
 | m.nintendojo.fr | No |
@@ -544,11 +545,11 @@ Here's a list of public Fediverse services.
 | mastodon.atikoro.net | No |
 | mastodon.aventer.biz | No |
 | mastodon.bachgau.social | No |
-| mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
 | mastodon.bida.im | No |
 | mastodon.bitbank.cc | Yes |
+| mastodon.brodi.space | No |
 | mastodon.cardina1.red | No |
 | mastodon.cc | No |
 | mastodon.cemea.org | No |
@@ -922,6 +923,7 @@ Here's a list of public Fediverse services.
 | pleroma.anduin.net | No |
 | pleroma.chirno.tech | No |
 | pleroma.envs.net | No |
+| pleroma.funkymonkey.org | No |
 | pleroma.gdgd.jp.net | Yes |
 | pleroma.marud.fr | No |
 | pleroma.massivebox.eu.org | No |
@@ -1017,6 +1019,7 @@ Here's a list of public Fediverse services.
 | shelter.moe | No |
 | shigusegubu.club | No |
 | shitcoin.land | Yes |
+| shitposter.club | No |
 | shitter.me | No |
 | sin.tyaku.com | No |
 | sio.masto.host | No |
@@ -1031,7 +1034,6 @@ Here's a list of public Fediverse services.
 | snabelen.no | No |
 | snaggletooth.life | No |
 | sneakerwave.net | No |
-| sneed.social | No |
 | snowdon.jp | No |
 | soc.safebook.space | No |
 | socel.net | No |
@@ -1296,7 +1298,6 @@ Here's a list of public Fediverse services.
 | whitespashe.uk | No |
 | witches.live | No |
 | witchey.club | No |
-| wobscale.social | No |
 | wokka.be | No |
 | workaholic.cloud | No |
 | wp-social.net | No |
@@ -1336,7 +1337,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 256 |
-| Normal | 1,039 |
+| Normal | 1,040 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
