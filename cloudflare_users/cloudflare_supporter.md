@@ -1365,6 +1365,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dhiraj12173428@twitter](https://twitter.com/Dhiraj12173428/status/1395206916792410115) | advertise |
 | [dhjdj08517668@twitter](https://twitter.com/dhjdj08517668/status/1387835137375703041) | advertise |
 | [Dhnin6@twitter](https://twitter.com/Dhnin6/status/1395033198439063552) | advertise |
+| [DhravyaShah@twitter](https://twitter.com/DhravyaShah/status/1478652038867087360) | advertise |
 | [DhruvDa03857372@twitter](https://twitter.com/DhruvDa03857372/status/1382320275006615554) | advertise |
 | [Diakinu2@twitter](https://twitter.com/Diakinu2/status/1393010870775468032) | advertise |
 | [DiamondMeeMee1@twitter](https://twitter.com/DiamondMeeMee1/status/1391273427290361858) | advertise |
@@ -1520,6 +1521,7 @@ Do not create new issue or we will close it as duplicate.
 | [echebukati@twitter](https://twitter.com/echebukati/status/1466131790603685892) | advertise |
 | [ecl_VB@twitter](https://twitter.com/ecl_VB/status/1431346378647773187) | advertise |
 | [Eddie086666@twitter](https://twitter.com/Eddie086666/status/1391423420689047565) | advertise |
+| [eddy97_dee7@twitter](https://twitter.com/eddy97_dee7/status/1478756242415710212) | advertise |
 | [edgaredm08@twitter](https://twitter.com/edgaredm08/status/1404677014619971587) | advertise |
 | [edgeday@twitter](https://twitter.com/edgeday/status/1382916112199782404) | advertise |
 | [edgymane@twitter](https://twitter.com/edgymane/status/1423841971265687552) | advertise |
@@ -2851,6 +2853,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhnhDu09670942@twitter](https://twitter.com/KhnhDu09670942/status/1402132265216270339) | advertise |
 | [khnhiyuu@twitter](https://twitter.com/khnhiyuu/status/1391964324885762048) | advertise |
 | [khoacream@twitter](https://twitter.com/khoacream/status/1477881004341985282) | advertise |
+| [khoaito9292@twitter](https://twitter.com/khoaito9292/status/1478745024930086913) | advertise |
 | [KhoaNguynng16@twitter](https://twitter.com/KhoaNguynng16/status/1399519583673847809) | advertise |
 | [khoayellow21022@twitter](https://twitter.com/khoayellow21022/status/1382312494434185216) | advertise |
 | [khoa_lam_st@twitter](https://twitter.com/khoa_lam_st/status/1383550996559798275) | advertise |
@@ -2872,6 +2875,7 @@ Do not create new issue or we will close it as duplicate.
 | [KiemNgu94277978@twitter](https://twitter.com/KiemNgu94277978/status/1468213190345388035) | advertise |
 | [kiendn1999@twitter](https://twitter.com/kiendn1999/status/1397217763370864648) | advertise |
 | [kietnguyen86@twitter](https://twitter.com/kietnguyen86/status/1383825029461254146) | advertise |
+| [Kieu3Kieu@twitter](https://twitter.com/Kieu3Kieu/status/1478741314443575300) | advertise |
 | [kigressofsitez1@twitter](https://twitter.com/kigressofsitez1/status/1402196254411558925) | advertise |
 | [Kii777777@twitter](https://twitter.com/Kii777777/status/1391724934095802370) | advertise |
 | [kikidrilla@twitter](https://twitter.com/kikidrilla/status/1372335070158204930) | advertise |
@@ -2917,6 +2921,7 @@ Do not create new issue or we will close it as duplicate.
 | [KKMyo8@twitter](https://twitter.com/KKMyo8/status/1395565047686995971) | advertise |
 | [KLacey83@twitter](https://twitter.com/KLacey83/status/1401868983159070725) | advertise |
 | [klausblackk@twitter](https://twitter.com/klausblackk/status/1393991709457993728) | advertise |
+| [KlaxonDigital@twitter](https://twitter.com/KlaxonDigital/status/1478738130165510147) | advertise |
 | [klopmp@twitter](https://twitter.com/klopmp/status/1422969764905816068) | advertise |
 | [kmantecM@twitter](https://twitter.com/kmantecM/status/1422478263440396292) | advertise |
 | [KMobydic@twitter](https://twitter.com/KMobydic/status/1398362611859673090) | advertise |
@@ -3354,6 +3359,7 @@ Do not create new issue or we will close it as duplicate.
 | [Long85366984@twitter](https://twitter.com/Long85366984/status/1401922952132583431) | advertise |
 | [Longgg94106580@twitter](https://twitter.com/Longgg94106580/status/1405171698526154758) | advertise |
 | [Longggisme@twitter](https://twitter.com/Longggisme/status/1398005281842335744) | advertise |
+| [longu3t@twitter](https://twitter.com/longu3t/status/1478738046967169026) | advertise |
 | [LoppoZ@twitter](https://twitter.com/LoppoZ/status/1377122374617681922) | advertise |
 | [Loren75832409@twitter](https://twitter.com/Loren75832409/status/1395048080441962505) | advertise |
 | [lorencialord@twitter](https://twitter.com/lorencialord/status/1384901052823113731) | advertise |
@@ -3711,6 +3717,7 @@ Do not create new issue or we will close it as duplicate.
 | [Minhhuy04361859@twitter](https://twitter.com/Minhhuy04361859/status/1393420564950179846) | advertise |
 | [Minhmin35799702@twitter](https://twitter.com/Minhmin35799702/status/1401567287354662914) | advertise |
 | [MinhNh63727820@twitter](https://twitter.com/MinhNh63727820/status/1387453341836341250) | advertise |
+| [Minhon41314491@twitter](https://twitter.com/Minhon41314491/status/1478750521838034944) | advertise |
 | [minhquydesign@twitter](https://twitter.com/minhquydesign/status/1457461282580357136) | advertise |
 | [minhruoi000@twitter](https://twitter.com/minhruoi000/status/1402955958708445191) | advertise |
 | [MinhTha51596170@twitter](https://twitter.com/MinhTha51596170/status/1401317096131153923) | advertise |
@@ -4248,6 +4255,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nguyenh86642977@twitter](https://twitter.com/Nguyenh86642977/status/1397205087664152583) | advertise |
 | [nguyenh94739327@twitter](https://twitter.com/nguyenh94739327/status/1475697233161261056) | advertise |
 | [NguyenHaiPr@twitter](https://twitter.com/NguyenHaiPr/status/1388411063662571524) | advertise |
+| [nguyenkhacanhh@twitter](https://twitter.com/nguyenkhacanhh/status/1478749565364813825) | advertise |
 | [NguyenP04335211@twitter](https://twitter.com/NguyenP04335211/status/1471757635879780356) | advertise |
 | [Nguyenthaonhi22@twitter](https://twitter.com/Nguyenthaonhi22/status/1392620098096037890) | advertise |
 | [nguyentheonam@twitter](https://twitter.com/nguyentheonam/status/1380965409818472450) | advertise |
