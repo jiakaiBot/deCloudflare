@@ -133,12 +133,10 @@ Just ask (send **direct** message to) Mitigator and he will provide some suggest
 
 - This is related to Settings' `Suggest other non-Cloudflare alternative sites when available`.
 
-syntax: `@MitiGator ?keyword_or_URL`
 
+Syntax: `@MitiGator ?keyword_or_URL`
 
-Example:
-
-`@mitigator ?recipe lemonade`
+Example: `@mitigator ?recipe lemonade`
 
 
 You can also put Cloudflared URL like this.
@@ -147,6 +145,15 @@ You can also put Cloudflared URL like this.
 @mitigator
 
 ? https://cflove.myblog.site/cloud_is_internet/
+```
+
+**1** question per toot. Below does **not** work.
+
+```
+@mitigator
+?Windows 11
+?Windows 10
+?Windows 7
 ```
 
 
