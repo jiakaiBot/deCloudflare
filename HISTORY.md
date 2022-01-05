@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-01-05: [Elevated 5xx errors in Portland, OR](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4mm3433wv134)
 - 2021-12-30: [Network Performance Issues in mia01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jdy48ychh8mm)
 - 2021-12-26: [Network Performance Issues in Seattle](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fx3k40p1kt8s)
 - 2021-12-25: [Network Performance issues - Increased HTTP 5xx Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/591h9b09wjhm)
