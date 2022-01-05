@@ -140,10 +140,13 @@ Example:
 
 `@mitigator ?recipe lemonade`
 
+
+You can also put Cloudflared URL like this.
+
 ```
 @mitigator
 
-? https://myblog.site/cloud_is_internet/
+? https://cflove.myblog.site/cloud_is_internet/
 ```
 
 
