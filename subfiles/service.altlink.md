@@ -144,7 +144,7 @@ You can also put Cloudflared URL like this.
 ```
 @mitigator
 
-? https://cflove.myblog.site/cloud_is_internet/
+?https://cflove.myblog.site/cloud_is_internet/
 ```
 
 **1** question per toot. Below does **not** work.
