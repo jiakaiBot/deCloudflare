@@ -15,6 +15,7 @@ This is `opt-in` service.
   - [How to Unsubscribe](service.altlink.md#how-to-unsubscribe)
   - ["Is it really CloudFlare!?" check](service.altlink.md#_is-it-really-cloudflare-_-check)
   - [CloudFlareTest it!](service.altlink.md#cloudflaretest-it)
+  - [Suggest clean alternatives](service.altlink.md#suggest-clean-alternatives)
   - [Report a problem / Create an Issue](service.altlink.md#report-a-problem-create-an-issue)
   - [Settings](service.altlink.md#settings)
   - [Download PNG Logo](service.altlink.md#download-png-logo)
@@ -125,6 +126,27 @@ Hey @mad_dog, your blog need to do cloudflareTest. @mitigator
 ```
 
 
+### Suggest clean alternatives
+
+Let's say you want to tweet about `Lemonade`.
+Just ask (send **direct** message to) Mitigator and he will provide some suggestions.
+
+- This is related to Settings' `Suggest other non-Cloudflare alternative sites when available`.
+
+syntax: `@MitiGator ?keyword_or_URL`
+
+
+Example:
+
+`@mitigator ?recipe lemonade`
+
+```
+@mitigator
+
+? https://myblog.site/cloud_is_internet/
+```
+
+
 ### Report a problem / Create an Issue
 
 (To use this you need to enable `Circle` option)
@@ -143,8 +165,9 @@ Your username part (before `@`) will be masked to protect your privacy.
 You can configure mitigator from [this website](https://mitigator.crimeflare.eu.org/).
 There are 2 ways:
 - Open above website and follow the steps.
-- _Or_ Send _one of_ below keyword as `direct` message to mitigator: e.g. `@mitigator settings`
-  - `???`  `config`  `set`  `settings`
+- _Or_ Send _one of_ below keyword as `direct` message to mitigator.
+  - `cfg`  `conf`  `config`  `set`  `settings`
+    - e.g. `@mitigator Settings`  `@mitigator cfg`
 
 
 ### Download PNG Logo
