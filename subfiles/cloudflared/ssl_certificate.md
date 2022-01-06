@@ -10,7 +10,7 @@ SSL certificates are issued by a trusted `Certificate Authority`(CA).
 
 Do you have any idea how many % of them are issued to Cloudflare sites?
 
-Here's the result of last 30 days.
+Here's the result of last 90 days.
 
 
 ![](DO_NOT_EDIT_ME_START)
