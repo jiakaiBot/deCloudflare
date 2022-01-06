@@ -25,9 +25,9 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 157 |
+| social | 158 |
 | com | 121 |
-| net | 102 |
+| net | 101 |
 | org | 74 |
 | jp | 49 |
 
@@ -140,6 +140,7 @@ Here's a list of public Fediverse services.
 | c.im | Yes |
 | c2bdon.net | No |
 | cantos.social | No |
+| capitalism.party | No |
 | carnivore.social | Yes |
 | catdon.life | No |
 | catgram.jp | Yes |
@@ -290,7 +291,6 @@ Here's a list of public Fediverse services.
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
-| friendicarg.nsupdate.info | No |
 | frogmob.life | No |
 | froth.zone | No |
 | fsmi.social | Yes |
@@ -604,7 +604,6 @@ Here's a list of public Fediverse services.
 | mastodon.infra.de | No |
 | mastodon.iriseden.eu | No |
 | mastodon.iut-larochelle.fr | No |
-| mastodon.izzz.fr | No |
 | mastodon.jalgi.eus | No |
 | mastodon.juggler.jp | No |
 | mastodon.kaonet-fr.net | No |
@@ -861,7 +860,6 @@ Here's a list of public Fediverse services.
 | norrebro.space | No |
 | notbird.site | No |
 | nrw.social | No |
-| nth.io | Yes |
 | nyaa.network | Yes |
 | o3o.ca | Yes |
 | occitanie.social | No |
@@ -917,7 +915,6 @@ Here's a list of public Fediverse services.
 | planetafr0.org | No |
 | plankton.cz | No |
 | plasticmodels.tokyo | No |
-| pleasehug.me | No |
 | pler.gtx.dynu.net | No |
 | pleroma-in.ouda.space | No |
 | pleroma.anduin.net | No |
@@ -968,7 +965,6 @@ Here's a list of public Fediverse services.
 | radiosocial.de | No |
 | raggedfeathers.com | No |
 | ranran.tw | No |
-| raptol.net | No |
 | rcsocial.net | Yes |
 | real-escape.jp | Yes |
 | reclaim.technology | No |
@@ -1034,6 +1030,7 @@ Here's a list of public Fediverse services.
 | snabelen.no | No |
 | snaggletooth.life | No |
 | sneakerwave.net | No |
+| sneed.social | No |
 | snowdon.jp | No |
 | soc.safebook.space | No |
 | socel.net | No |
@@ -1336,8 +1333,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 256 |
-| Normal | 1,040 |
+| Cloudflare | 255 |
+| Normal | 1,038 |
 
 
-### 19.8% of public Fediverse services are using Cloudflare.
+### 19.7% of public Fediverse services are using Cloudflare.
