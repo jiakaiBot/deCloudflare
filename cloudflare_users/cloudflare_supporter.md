@@ -1421,6 +1421,7 @@ Do not create new issue or we will close it as duplicate.
 | [doimatphonui@twitter](https://twitter.com/doimatphonui/status/1387455212168749061) | advertise |
 | [Dojnaz@twitter](https://twitter.com/Dojnaz/status/1431346378647773187) | advertise |
 | [Doli18316877@twitter](https://twitter.com/Doli18316877/status/1394684058098049024) | advertise |
+| [dominic37487702@twitter](https://twitter.com/dominic37487702/status/1479207257279660034) | advertise |
 | [DominicDeepan@twitter](https://twitter.com/DominicDeepan/status/1420647774509432835) | advertise |
 | [donaldliuT@twitter](https://twitter.com/donaldliuT/status/1390745327217516544) | advertise |
 | [DonColeone14@twitter](https://twitter.com/DonColeone14/status/1399383393515839493) | advertise |
