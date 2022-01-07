@@ -25,8 +25,8 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 158 |
-| com | 121 |
+| social | 159 |
+| com | 119 |
 | net | 101 |
 | org | 74 |
 | jp | 49 |
@@ -281,7 +281,7 @@ Here's a list of public Fediverse services.
 | freedom.horse | No |
 | freeframe.masto.host | No |
 | freeradical.zone | No |
-| freesocial.co | No |
+| freesocial.co | Yes |
 | freespeech.firedragonstudios.com | No |
 | freespeechextremist.com | No |
 | freewheel.social | No |
@@ -291,6 +291,7 @@ Here's a list of public Fediverse services.
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
+| friendicarg.nsupdate.info | No |
 | frogmob.life | No |
 | froth.zone | No |
 | fsmi.social | Yes |
@@ -545,11 +546,11 @@ Here's a list of public Fediverse services.
 | mastodon.atikoro.net | No |
 | mastodon.aventer.biz | No |
 | mastodon.bachgau.social | No |
+| mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
 | mastodon.bida.im | No |
 | mastodon.bitbank.cc | Yes |
-| mastodon.brodi.space | No |
 | mastodon.cardina1.red | No |
 | mastodon.cc | No |
 | mastodon.cemea.org | No |
@@ -604,6 +605,7 @@ Here's a list of public Fediverse services.
 | mastodon.infra.de | No |
 | mastodon.iriseden.eu | No |
 | mastodon.iut-larochelle.fr | No |
+| mastodon.izzz.fr | No |
 | mastodon.jalgi.eus | No |
 | mastodon.juggler.jp | No |
 | mastodon.kaonet-fr.net | No |
@@ -617,7 +619,6 @@ Here's a list of public Fediverse services.
 | mastodon.lang-mfr.de | No |
 | mastodon.lat | No |
 | mastodon.lavergne.online | No |
-| mastodon.le-palantir.com | No |
 | mastodon.lermer.nl | No |
 | mastodon.lertsenem.com | No |
 | mastodon.lhin.space | No |
@@ -645,7 +646,6 @@ Here's a list of public Fediverse services.
 | mastodon.niu.ne.jp | No |
 | mastodon.nl | No |
 | mastodon.nogods.be | No |
-| mastodon.noizycat.com | No |
 | mastodon.nu | No |
 | mastodon.nz | No |
 | mastodon.nzoss.nz | No |
@@ -925,7 +925,6 @@ Here's a list of public Fediverse services.
 | pleroma.marud.fr | No |
 | pleroma.massivebox.eu.org | No |
 | pleroma.oook.fr | No |
-| pleroma.otter.sh | No |
 | pleroma.soykaf.com | No |
 | plural.cafe | No |
 | plush.city | No |
@@ -985,7 +984,6 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -1055,7 +1053,6 @@ Here's a list of public Fediverse services.
 | social.coletivos.org | No |
 | social.cologne | No |
 | social.computerfox.xyz | No |
-| social.coop | Yes |
 | social.daspr.io | Yes |
 | social.dev-wiki.de | Yes |
 | social.device5.co.uk | No |
@@ -1269,6 +1266,7 @@ Here's a list of public Fediverse services.
 | unnerv.jp | No |
 | unperson.us | No |
 | unstoppablecode.org | No |
+| upup.social | No |
 | ura-mstdn.com | No |
 | utopia.cool | No |
 | uwu.social | Yes |
@@ -1333,8 +1331,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 255 |
-| Normal | 1,038 |
+| Cloudflare | 254 |
+| Normal | 1,037 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
