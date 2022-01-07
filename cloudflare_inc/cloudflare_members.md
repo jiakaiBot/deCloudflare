@@ -23,7 +23,7 @@ Or is this merely a case of simple modesty?
 | Lee Holloway | founder | https://twitter.com/icqheretic |
 | Maria Eitel | Director | https://www.linkedin.com/in/maria-eitel-78baa868 |
 | Mark Anderson | Director |  |
-| Matthew Prince | CEO | https://twitter.com/eastdakota<br>matthew@cloudflare.com |
+| Matthew Prince | CEO | https://twitter.com/eastdakota<br>matthew@cloudflare.com<br>mprince@gmail.com<br>matthew@projecthoneypot.org |
 | Michelle Zatlyn | founder | https://twitter.com/zatlyn<br>https://www.linkedin.com/in/michellezatlyn |
 | Scott Sandell | New Enterprise Associates |  |
 | Stan Meresman | Director | https://www.linkedin.com/in/stanmeresman<br>stan@meresman.com<br>http://meresman.com/ |
