@@ -2431,6 +2431,7 @@ Do not create new issue or we will close it as duplicate.
 | [ivexalus@twitter](https://twitter.com/ivexalus/status/1397599340592603137) | advertise |
 | [Ivynguyen98@twitter](https://twitter.com/Ivynguyen98/status/1381083176244707328) | advertise |
 | [iyan_saputraaa@twitter](https://twitter.com/iyan_saputraaa/status/1462663065241935876) | advertise |
+| [iyooobv@twitter](https://twitter.com/iyooobv/status/1479321949465559045) | advertise |
 | [iz3__0@twitter](https://twitter.com/iz3__0/status/1387606202457149440) | advertise |
 | [IZZY08644619@twitter](https://twitter.com/IZZY08644619/status/1391758790807097348) | advertise |
 | [I_AmmMmmR_@twitter](https://twitter.com/I_AmmMmmR_/status/1387297373798506498) | advertise |
@@ -2921,6 +2922,7 @@ Do not create new issue or we will close it as duplicate.
 | [KiruiWinston@twitter](https://twitter.com/KiruiWinston/status/1460566327215673348) | advertise |
 | [KishanY38124071@twitter](https://twitter.com/KishanY38124071/status/1386658570142289923) | advertise |
 | [Kit33462985@twitter](https://twitter.com/Kit33462985/status/1401542022276685826) | advertise |
+| [KiteMeeran@twitter](https://twitter.com/KiteMeeran/status/1479318671038181379) | advertise |
 | [kiwanismusic@twitter](https://twitter.com/kiwanismusic/status/1412505917870858240) | moral (advertise) |
 | [Kiyan99307753@twitter](https://twitter.com/Kiyan99307753/status/1382401632080601088) | advertise |
 | [kjmzyxbjh@twitter](https://twitter.com/kjmzyxbjh/status/1393136098226757636) | advertise |
@@ -4807,6 +4809,7 @@ Do not create new issue or we will close it as duplicate.
 | [pokefan_t2rox@twitter](https://twitter.com/pokefan_t2rox/status/1386785778693332994) | advertise |
 | [Pokemon98119112@twitter](https://twitter.com/Pokemon98119112/status/1398447530921267202) | advertise |
 | [PomH6655@twitter](https://twitter.com/PomH6655/status/1472934383862517763) | advertise |
+| [Pond0912@twitter](https://twitter.com/Pond0912/status/1479250773233975297) | advertise |
 | [pongpetxima@twitter](https://twitter.com/pongpetxima/status/1412884176534048769) | moral (advertise) |
 | [Pongsak25990264@twitter](https://twitter.com/Pongsak25990264/status/1390733516778864640) | advertise |
 | [pongtiwat_blue@twitter](https://twitter.com/pongtiwat_blue/status/1399366953886752771) | advertise |
