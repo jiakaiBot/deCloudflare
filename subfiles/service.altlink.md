@@ -128,32 +128,26 @@ Hey @mad_dog, your blog need to do cloudflareTest. @mitigator
 
 ### Suggest clean alternatives
 
-Let's say you want to tweet about `Lemonade`.
 Just ask (send **direct** message to) Mitigator and he will provide some suggestions.
 
 - This is related to Settings' `Suggest other non-Cloudflare alternative sites when available`.
 
 
-Syntax: `@MitiGator ?keyword_or_URL`
+Syntax: `@MitiGator ?URL`
 
-Example: `@mitigator ?recipe lemonade`
-
-
-You can also put Cloudflared URL like this.
+Put Cloudflared URL like this...
 
 ```
-@mitigator
-
-?https://cflove.myblog.site/cloud_is_internet/
+@mitigator ?https://cflove.myblog.site/cloud_is_internet/?blog=true
 ```
 
 **1** question per toot. Below does **not** work.
 
 ```
 @mitigator
-?Windows 11
-? Windows 10
-?Windows 7
+?https://matthew.prince/blog/
+?https://matthewprince.site/
+?https://matthew.prince.name/
 ```
 
 
