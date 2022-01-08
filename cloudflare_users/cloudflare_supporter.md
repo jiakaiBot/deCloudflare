@@ -5660,6 +5660,7 @@ Do not create new issue or we will close it as duplicate.
 | [sukangpower@twitter](https://twitter.com/sukangpower/status/1402945994585624584) | advertise |
 | [Sukhvin17157135@twitter](https://twitter.com/Sukhvin17157135/status/1395434784567009280) | advertise |
 | [SuLatt39725019@twitter](https://twitter.com/SuLatt39725019/status/1390191641210671104) | advertise |
+| [sulochanaeranda@twitter](https://twitter.com/sulochanaeranda/status/1479827028836765705) | advertise |
 | [SulthanPhD@twitter](https://twitter.com/SulthanPhD/status/1386751386067423234) | advertise |
 | [SumedhaBandar10@twitter](https://twitter.com/SumedhaBandar10/status/1405702171849478144) | advertise |
 | [SumitDhangar13@twitter](https://twitter.com/SumitDhangar13/status/1386664848684052484) | advertise |
