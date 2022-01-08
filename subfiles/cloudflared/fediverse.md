@@ -25,9 +25,9 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 159 |
-| com | 119 |
-| net | 101 |
+| social | 158 |
+| com | 120 |
+| net | 102 |
 | org | 74 |
 | jp | 49 |
 
@@ -646,6 +646,7 @@ Here's a list of public Fediverse services.
 | mastodon.niu.ne.jp | No |
 | mastodon.nl | No |
 | mastodon.nogods.be | No |
+| mastodon.noizycat.com | No |
 | mastodon.nu | No |
 | mastodon.nz | No |
 | mastodon.nzoss.nz | No |
@@ -925,6 +926,7 @@ Here's a list of public Fediverse services.
 | pleroma.marud.fr | No |
 | pleroma.massivebox.eu.org | No |
 | pleroma.oook.fr | No |
+| pleroma.otter.sh | No |
 | pleroma.soykaf.com | No |
 | plural.cafe | No |
 | plush.city | No |
@@ -964,6 +966,7 @@ Here's a list of public Fediverse services.
 | radiosocial.de | No |
 | raggedfeathers.com | No |
 | ranran.tw | No |
+| raptol.net | No |
 | rcsocial.net | Yes |
 | real-escape.jp | Yes |
 | reclaim.technology | No |
@@ -1155,7 +1158,6 @@ Here's a list of public Fediverse services.
 | starry.ml | No |
 | stereodon.social | No |
 | stereophonic.space | No |
-| stoneartprod.xyz | No |
 | straylight.expectnomore.net | No |
 | sts.ditatompel.com | Yes |
 | subversive.zone | No |
@@ -1297,7 +1299,6 @@ Here's a list of public Fediverse services.
 | workaholic.cloud | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
@@ -1332,7 +1333,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 254 |
-| Normal | 1,037 |
+| Normal | 1,038 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
