@@ -202,6 +202,7 @@ Do not create new issue or we will close it as duplicate.
 | [AgAg14299411@twitter](https://twitter.com/AgAg14299411/status/1396793253467500544) | advertise |
 | [Agape_val_voce@twitter](https://twitter.com/Agape_val_voce/status/1400940706722689027) | advertise |
 | [Agent_RBLX@twitter](https://twitter.com/Agent_RBLX/status/1383986062100287491) | advertise |
+| [AGhahremani70@twitter](https://twitter.com/AGhahremani70/status/1479589214345908225) | advertise |
 | [agirbt@twitter](https://twitter.com/agirbt/status/1382414897569427458) | advertise |
 | [aGREENinja1@twitter](https://twitter.com/aGREENinja1/status/1398342587027763203) | advertise |
 | [Agriel_arsadel@twitter](https://twitter.com/Agriel_arsadel/status/1407938480601133060) | advertise |
@@ -508,6 +509,7 @@ Do not create new issue or we will close it as duplicate.
 | [AssafJulie@twitter](https://twitter.com/AssafJulie/status/1469918510839181313) | advertise |
 | [Aster21Team@twitter](https://twitter.com/Aster21Team/status/1395622416819179521) | advertise |
 | [AtaAtaei5@twitter](https://twitter.com/AtaAtaei5/status/1471392503802875906) | advertise |
+| [ataqureshi@twitter](https://twitter.com/ataqureshi/status/1479494465177985025) | advertise |
 | [athet25@twitter](https://twitter.com/athet25/status/1390373120943345664) | advertise |
 | [athlity7@twitter](https://twitter.com/athlity7/status/1393870645558083584) | advertise |
 | [ATK0081@twitter](https://twitter.com/ATK0081/status/1390943410333241346) | advertise |
@@ -4100,6 +4102,7 @@ Do not create new issue or we will close it as duplicate.
 | [Najahh_62@twitter](https://twitter.com/Najahh_62/status/1385735535319212034) | advertise |
 | [nalathon8@twitter](https://twitter.com/nalathon8/status/1393174233556021249) | advertise |
 | [nam54142435@twitter](https://twitter.com/nam54142435/status/1377917089734750211) | advertise |
+| [Namanh60435535@twitter](https://twitter.com/Namanh60435535/status/1479523298325131265) | advertise |
 | [NamBlack18@twitter](https://twitter.com/NamBlack18/status/1399076867190059010) | advertise |
 | [namcaokhac@twitter](https://twitter.com/namcaokhac/status/1383549837296082950) | advertise |
 | [NamKhnhNguyn5@twitter](https://twitter.com/NamKhnhNguyn5/status/1383584263686160386) | advertise |
