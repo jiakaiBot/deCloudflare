@@ -141,6 +141,13 @@ Put Cloudflared URL like this...
 @mitigator ?https://cflove.myblog.site/cloud_is_internet/?blog=true
 ```
 
+```
+@mitigator
+
+?https://invite.party/cloudflare_users_only/
+```
+
+
 **1** question per toot. Below does **not** work.
 
 ```
