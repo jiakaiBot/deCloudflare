@@ -67,7 +67,7 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
     - Please `unfollow`, `wait 1 hour`, and `follow` again.
 
 3. When you share Cloudflared link, AL will send `direct` message to you with information.
-  - Direct messages older than *1* day will be deleted.
+  - Non-public messages older than *1* day will be deleted.
     - There is no good reason to keep old toots online.
       - [Should I Delete My Tweets?](https://www.wired.com/story/the-know-it-alls-should-i-delete-my-tweets/)
 
