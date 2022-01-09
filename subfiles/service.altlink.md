@@ -14,7 +14,6 @@ This is `opt-in` service.
   - [How to Subscribe](service.altlink.md#how-to-subscribe)
   - [How to Unsubscribe](service.altlink.md#how-to-unsubscribe)
   - ["Is it really CloudFlare!?" check](service.altlink.md#_is-it-really-cloudflare-_-check)
-  - [CloudFlareTest it!](service.altlink.md#cloudflaretest-it)
   - [Suggest clean alternatives](service.altlink.md#suggest-clean-alternatives)
   - [Report a problem / Create an Issue](service.altlink.md#report-a-problem-create-an-issue)
   - [Settings](service.altlink.md#settings)
@@ -124,8 +123,9 @@ Check my new blog! https://oh.my.god/
 ```
 you reply:
 ```
-Hey @mad_dog, your blog need to do cloudflareTest. @mitigator</s>
+Hey @mad_dog, your blog need to do cloudflareTest. @mitigator
 ```
+</s>
 
 
 ### Suggest clean alternatives
