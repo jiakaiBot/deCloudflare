@@ -55,6 +55,7 @@ Do not create new issue or we will close it as duplicate.
 | [2sGoTQPUP3lfWL3@twitter](https://twitter.com/2sGoTQPUP3lfWL3/status/1398753821568950276) | advertise |
 | [2worx@twitter](https://twitter.com/2worx/status/1405039139498586112) | advertise |
 | [3labMarahin@twitter](https://twitter.com/3labMarahin/status/1384625738884816897) | advertise |
+| [3li7assan2007@twitter](https://twitter.com/3li7assan2007/status/1479946038664441858) | advertise |
 | [3sl14@twitter](https://twitter.com/3sl14/status/1401346605731790850) | advertise |
 | [3u41c@twitter](https://twitter.com/3u41c/status/1388064726077231107) | advertise |
 | [3vOf6h3aXHm22P1@twitter](https://twitter.com/3vOf6h3aXHm22P1/status/1392031999603392513) | advertise |
@@ -1362,6 +1363,7 @@ Do not create new issue or we will close it as duplicate.
 | [devrajgujjar54@twitter](https://twitter.com/devrajgujjar54/status/1385292357449527296) | advertise |
 | [DeYeJa2@twitter](https://twitter.com/DeYeJa2/status/1392927369686523905) | advertise |
 | [deywall@twitter](https://twitter.com/deywall/status/1391105437471232003) | advertise |
+| [DFUnguyen@twitter](https://twitter.com/DFUnguyen/status/1480082669157289985) | advertise |
 | [dhadha_sapkota@twitter](https://twitter.com/dhadha_sapkota/status/1376753394195427332) | advertise |
 | [dhanaraj_mukesh@twitter](https://twitter.com/dhanaraj_mukesh/status/1397963601734881280) | advertise |
 | [dhanishgajjar@twitter](https://twitter.com/dhanishgajjar/status/1404338714147311618) | advertise |
@@ -3344,6 +3346,7 @@ Do not create new issue or we will close it as duplicate.
 | [Little_PoK@twitter](https://twitter.com/Little_PoK/status/1405188466346917889) | advertise |
 | [Live1xSlot@twitter](https://twitter.com/Live1xSlot/status/1419205739466280960) | advertise |
 | [live_techy@twitter](https://twitter.com/live_techy/status/1377628619380510730) | advertise |
+| [Livvux@twitter](https://twitter.com/Livvux/status/1479984215001292801) | advertise |
 | [LiWei69201004@twitter](https://twitter.com/LiWei69201004/status/1396636978976673793) | advertise |
 | [liximo_tong@twitter](https://twitter.com/liximo_tong/status/1471389167112228864) | advertise |
 | [ljnhbj@twitter](https://twitter.com/ljnhbj/status/1393463319453847559) | advertise |
@@ -3351,6 +3354,7 @@ Do not create new issue or we will close it as duplicate.
 | [LKDavidHt1@twitter](https://twitter.com/LKDavidHt1/status/1391671487652720640) | advertise |
 | [LKhngNinh2@twitter](https://twitter.com/LKhngNinh2/status/1381900715262550016) | advertise |
 | [lknk_adorebot@twitter](https://twitter.com/lknk_adorebot/status/1390972492995432454) | advertise |
+| [llama_cadu@twitter](https://twitter.com/llama_cadu/status/1480054499846856710) | advertise |
 | [Lm66613075@twitter](https://twitter.com/Lm66613075/status/1386781095681687555) | advertise |
 | [LMinhNh79435274@twitter](https://twitter.com/LMinhNh79435274/status/1406318506778382336) | advertise |
 | [lmtxxx2@twitter](https://twitter.com/lmtxxx2/status/1470622176097501185) | advertise |
@@ -3763,6 +3767,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinMin1704@twitter](https://twitter.com/MinMin1704/status/1401211852323844102) | advertise |
 | [Minmin25104082@twitter](https://twitter.com/Minmin25104082/status/1392618463194136576) | advertise |
 | [minmin58550309@twitter](https://twitter.com/minmin58550309/status/1395164506968367108) | advertise |
+| [minmintheint2@twitter](https://twitter.com/minmintheint2/status/1479995264324685825) | advertise |
 | [MinMyat83154770@twitter](https://twitter.com/MinMyat83154770/status/1391789189973233664) | advertise |
 | [Minmyatthura19@twitter](https://twitter.com/Minmyatthura19/status/1390214747006455811) | advertise |
 | [Minn03875662@twitter](https://twitter.com/Minn03875662/status/1390384242564075523) | advertise |
@@ -4142,6 +4147,7 @@ Do not create new issue or we will close it as duplicate.
 | [Narendr93556275@twitter](https://twitter.com/Narendr93556275/status/1384445226274594824) | advertise |
 | [narkarsarkie@twitter](https://twitter.com/narkarsarkie/status/1379118031050141697) | advertise |
 | [nas00831184@twitter](https://twitter.com/nas00831184/status/1401008152036790277) | advertise |
+| [nasrumv@twitter](https://twitter.com/nasrumv/status/1480051657769558017) | advertise |
 | [nasrun__@twitter](https://twitter.com/nasrun__/status/1392774223895035905) | advertise |
 | [nasshu2916@twitter](https://twitter.com/nasshu2916/status/1411324259721367558) | moral (advertise) |
 | [Natakonnan@twitter](https://twitter.com/Natakonnan/status/1378146982661779459) | advertise |
@@ -4284,6 +4290,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nguyen_An77@twitter](https://twitter.com/Nguyen_An77/status/1468175808900395010) | advertise |
 | [Nguyn1112@twitter](https://twitter.com/Nguyn1112/status/1380569773612785666) | advertise |
 | [nguyn89811789@twitter](https://twitter.com/nguyn89811789/status/1384054275580448768) | advertise |
+| [NguynAn94854130@twitter](https://twitter.com/NguynAn94854130/status/1480063041450672130) | advertise |
 | [NguynB54934011@twitter](https://twitter.com/NguynB54934011/status/1475702884922630145) | advertise |
 | [NguynBnhKin2@twitter](https://twitter.com/NguynBnhKin2/status/1383131640084398081) | advertise |
 | [Nguync38268732@twitter](https://twitter.com/Nguync38268732/status/1392228757956562944) | advertise |
@@ -6162,6 +6169,7 @@ Do not create new issue or we will close it as duplicate.
 | [TraiDm50811820@twitter](https://twitter.com/TraiDm50811820/status/1398131670214057984) | advertise |
 | [TramNgu43948092@twitter](https://twitter.com/TramNgu43948092/status/1469917328255041536) | advertise |
 | [tranceattic@twitter](https://twitter.com/tranceattic/status/1468814229717274628) | advertise |
+| [trantha16219627@twitter](https://twitter.com/trantha16219627/status/1480025129786564613) | advertise |
 | [tranvan89033780@twitter](https://twitter.com/tranvan89033780/status/1474185476256845826) | advertise |
 | [trappygypsy@twitter](https://twitter.com/trappygypsy/status/1382015075331014664) | advertise |
 | [travelmatebd@twitter](https://twitter.com/travelmatebd/status/1420998094452256769) | advertise |
