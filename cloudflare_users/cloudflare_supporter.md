@@ -6678,6 +6678,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yarzar39492787@twitter](https://twitter.com/Yarzar39492787/status/1390644447025664002) | advertise |
 | [YarzarP32813978@twitter](https://twitter.com/YarzarP32813978/status/1390490550315356164) | advertise |
 | [YarzartunArswim@twitter](https://twitter.com/YarzartunArswim/status/1381963840200470534) | advertise |
+| [Yasar_USLU_@twitter](https://twitter.com/Yasar_USLU_/status/1479886743633600516) | advertise |
 | [yash0444@twitter](https://twitter.com/yash0444/status/1397217640729522186) | advertise |
 | [yash44828366@twitter](https://twitter.com/yash44828366/status/1394641996401176580) | advertise |
 | [yashhhh04@twitter](https://twitter.com/yashhhh04/status/1378478478022991874) | advertise |
