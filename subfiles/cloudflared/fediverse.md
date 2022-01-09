@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 158 |
-| com | 120 |
+| com | 119 |
 | net | 102 |
 | org | 74 |
-| jp | 49 |
+| jp | 48 |
 
 
 - Mastodon, Pleroma, etc
@@ -129,7 +129,6 @@ Here's a list of public Fediverse services.
 | blovice.bahnhof.cz | No |
 | boilingcong.ee | Yes |
 | boltcutter.network | Yes |
-| bona.space | No |
 | bonn.social | No |
 | booktoot.club | No |
 | bookwor.ms | No |
@@ -342,7 +341,6 @@ Here's a list of public Fediverse services.
 | hamradio.social | No |
 | handon.club | Yes |
 | hearthtodon.com | No |
-| hedgehog.pub | Yes |
 | heislandmine.work | No |
 | hello.2heng.xin | Yes |
 | hellsite.site | No |
@@ -701,7 +699,6 @@ Here's a list of public Fediverse services.
 | mastodooooooon.xyz | No |
 | mastodos.com | No |
 | mastofant.de | No |
-| mastonaut.com | No |
 | mastouille.fr | No |
 | matitodon.com | No |
 | matthewgall.chat | Yes |
@@ -763,7 +760,6 @@ Here's a list of public Fediverse services.
 | mstdn.hiyuki2578.net | Yes |
 | mstdn.hokkaido.jp | No |
 | mstdn.hostdon.jp | No |
-| mstdn.ht164.jp | No |
 | mstdn.hyogo.jp | No |
 | mstdn.ikebuku.ro | Yes |
 | mstdn.image-space.info | No |
@@ -793,7 +789,6 @@ Here's a list of public Fediverse services.
 | mstdn.netwhood.online | No |
 | mstdn.nicolog.jp | No |
 | mstdn.okumin.com | No |
-| mstdn.osaka | No |
 | mstdn.otyakai.xyz | Yes |
 | mstdn.plusminus.io | Yes |
 | mstdn.poyo.me | No |
@@ -855,7 +850,6 @@ Here's a list of public Fediverse services.
 | nixnet.social | No |
 | noagendasocial.com | Yes |
 | noagendasocialist.com | No |
-| nobert.zone | No |
 | noc.social | No |
 | norden.social | Yes |
 | norrebro.space | No |
@@ -1125,6 +1119,7 @@ Here's a list of public Fediverse services.
 | social.tilde.team | No |
 | social.timespiral.co.jp | No |
 | social.troll.academy | No |
+| social.trom.tf | No |
 | social.tulsa.ok.us | No |
 | social.typica.us | No |
 | social.uhoreg.ca | Yes |
@@ -1132,7 +1127,6 @@ Here's a list of public Fediverse services.
 | social.up.edu.ph | Yes |
 | social.veganact.org.au | No |
 | social.vikings.net | No |
-| social.weho.st | No |
 | social.wien.rocks | No |
 | social.wxcafe.net | No |
 | social.xthemage.net | No |
@@ -1158,6 +1152,7 @@ Here's a list of public Fediverse services.
 | starry.ml | No |
 | stereodon.social | No |
 | stereophonic.space | No |
+| stoneartprod.xyz | No |
 | straylight.expectnomore.net | No |
 | sts.ditatompel.com | Yes |
 | subversive.zone | No |
@@ -1332,8 +1327,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 254 |
-| Normal | 1,038 |
+| Cloudflare | 253 |
+| Normal | 1,034 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
