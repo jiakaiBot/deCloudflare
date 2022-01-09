@@ -102,7 +102,9 @@ www.wikimedia.org
 
 ### CloudFlareTest it!
 
-You can call AltLink into your **public** **discussion** to test `above user's URL`. 
+**WARNING: THIS OPTION IS DEPRECATED AND WILL BE REMOVED IN THE FUTURE. USE BELOW OPTION INSTEAD.**
+
+<s>You can call AltLink into your **public** **discussion** to test `above user's URL`. 
 All you have to do is hit `Reply` button and 
 - Mention user `@mitigator`
 - Add the word `cloudflaretest` (case does not matter)
@@ -122,7 +124,7 @@ Check my new blog! https://oh.my.god/
 ```
 you reply:
 ```
-Hey @mad_dog, your blog need to do cloudflareTest. @mitigator
+Hey @mad_dog, your blog need to do cloudflareTest. @mitigator</s>
 ```
 
 
@@ -133,7 +135,7 @@ Just ask (send **direct** message to) Mitigator and he will provide some suggest
 - This is related to Settings' `Suggest other non-Cloudflare alternative sites when available`.
 
 
-Syntax: `@MitiGator ?URL`
+Syntax: `@MitiGator ?URL` or `？URL`
 
 Put Cloudflared URL like this...
 
@@ -144,7 +146,7 @@ Put Cloudflared URL like this...
 ```
 @mitigator
 
-?https://invite.party/cloudflare_users_only/
+？https://invite.party/cloudflare_users_only/
 ```
 
 
