@@ -952,6 +952,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bradley99951058@twitter](https://twitter.com/Bradley99951058/status/1473421304304865281) | advertise |
 | [BradlinAung@twitter](https://twitter.com/BradlinAung/status/1380123429391585288) | advertise |
 | [bram0511@twitter](https://twitter.com/bram0511/status/1418608038819233793) | advertise |
+| [branded_iam@twitter](https://twitter.com/branded_iam/status/1480564220122992642) | advertise |
 | [BrandynCoder@twitter](https://twitter.com/BrandynCoder/status/1397638007931510784) | advertise |
 | [Brangau82455780@twitter](https://twitter.com/Brangau82455780/status/1397565904204877825) | advertise |
 | [BraudinLaya@twitter](https://twitter.com/BraudinLaya/status/1435781941845008393) | advertise |
