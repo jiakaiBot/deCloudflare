@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 119 |
 | net | 102 |
 | org | 74 |
-| jp | 48 |
+| jp | 49 |
 
 
 - Mastodon, Pleroma, etc
@@ -91,7 +91,6 @@ Here's a list of public Fediverse services.
 | august-don.site | Yes |
 | auronplay.social | No |
 | ausglam.space | No |
-| austin.community | No |
 | avantwhatever.org | No |
 | awoo.pub | Yes |
 | b612.me | Yes |
@@ -760,6 +759,7 @@ Here's a list of public Fediverse services.
 | mstdn.hiyuki2578.net | Yes |
 | mstdn.hokkaido.jp | No |
 | mstdn.hostdon.jp | No |
+| mstdn.ht164.jp | No |
 | mstdn.hyogo.jp | No |
 | mstdn.ikebuku.ro | Yes |
 | mstdn.image-space.info | No |
@@ -789,6 +789,7 @@ Here's a list of public Fediverse services.
 | mstdn.netwhood.online | No |
 | mstdn.nicolog.jp | No |
 | mstdn.okumin.com | No |
+| mstdn.osaka | No |
 | mstdn.otyakai.xyz | Yes |
 | mstdn.plusminus.io | Yes |
 | mstdn.poyo.me | No |
@@ -1186,6 +1187,7 @@ Here's a list of public Fediverse services.
 | this.mouse.rocks | No |
 | thraeryn.net | No |
 | thu.closed.social | Yes |
+| thx.one | Yes |
 | tigre-bleu.net | No |
 | tilde.zone | No |
 | tiny.tilde.website | No |
@@ -1327,8 +1329,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 253 |
-| Normal | 1,034 |
+| Cloudflare | 254 |
+| Normal | 1,035 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
