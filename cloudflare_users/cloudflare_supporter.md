@@ -1840,6 +1840,7 @@ Do not create new issue or we will close it as duplicate.
 | [Grace11509400@twitter](https://twitter.com/Grace11509400/status/1398512179226189826) | advertise |
 | [Gracema90004826@twitter](https://twitter.com/Gracema90004826/status/1390090100466274306) | advertise |
 | [GraceParree@twitter](https://twitter.com/GraceParree/status/1383247260255801348) | advertise |
+| [GrahameSmith8@twitter](https://twitter.com/GrahameSmith8/status/1480915785505820677) | advertise |
 | [GraysonDick10@twitter](https://twitter.com/GraysonDick10/status/1377270516231233538) | advertise |
 | [GreatLakeHits@twitter](https://twitter.com/GreatLakeHits/status/1377235337714499584) | advertise |
 | [GreatPurchaser@twitter](https://twitter.com/GreatPurchaser/status/1392901780535595008) | advertise |
@@ -2511,6 +2512,7 @@ Do not create new issue or we will close it as duplicate.
 | [JaySoh13@twitter](https://twitter.com/JaySoh13/status/1390786934335705092) | advertise |
 | [jaysonm76681877@twitter](https://twitter.com/jaysonm76681877/status/1376793641474260994) | advertise |
 | [jayywavvyyyy@twitter](https://twitter.com/jayywavvyyyy/status/1379843985175310341) | advertise |
+| [jazzalmao@twitter](https://twitter.com/jazzalmao/status/1480849791936389120) | advertise |
 | [JC7IaJ1c3VB4wU6@twitter](https://twitter.com/JC7IaJ1c3VB4wU6/status/1394992890561146885) | advertise |
 | [jcampos2208@twitter](https://twitter.com/jcampos2208/status/1399856800208404486) | advertise |
 | [JDbelem1@twitter](https://twitter.com/JDbelem1/status/1384610630917922817) | advertise |
