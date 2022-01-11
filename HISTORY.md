@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-01-11: [Network Performance Issues in Madrid, Spain](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f4n5gym5hjqk)
 - 2022-01-09: [Increased response time on Marseille, France region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tz8g7rbc8nnt)
 - 2022-01-07: [Network Performance Issues in Bangalore, BLR](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pn84z57ctc3w)
 - 2022-01-06: [Performance Issues in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1yq3n5z3dpc4)
