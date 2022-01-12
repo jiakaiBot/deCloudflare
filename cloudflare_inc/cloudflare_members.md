@@ -1335,6 +1335,7 @@ Or is this merely a case of simple modesty?
 | Ray Leihe | Marketing Technology & Platform |  |
 | Ray Li | Business Development, Singapore |  |
 | Raymond Maisano | Head of Australia & New Zealand |  |
+| Reagan Russell | Employee | |
 | Rebecca Clayman | Brand Marketing | https://twitter.com/RebeccaClayman<br>https://www.linkedin.com/in/rebecca-clayman-975b333<br>https://www.zoominfo.com/p/Rebecca-Clayman/-950110968 |
 | Rebecca Dunek Graeber | Customer Success Engineer |  |
 | Rebecca Roche | Account Executive |  |
