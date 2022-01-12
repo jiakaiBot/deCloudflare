@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 159 |
-| com | 120 |
-| net | 102 |
+| com | 121 |
+| net | 101 |
 | org | 73 |
 | jp | 49 |
 
@@ -41,7 +41,6 @@ Here's a list of public Fediverse services.
 | 4toot.org | No |
 | 9kb.me | No |
 | 19hundert84.de | No |
-| 39sounds.net | No |
 | 123.social | No |
 | 1234.as | Yes |
 | 2137.social | No |
@@ -85,7 +84,6 @@ Here's a list of public Fediverse services.
 | arkham.cafe | No |
 | arktos.social | No |
 | ascraeus.org | No |
-| asonix.dog | No |
 | aspiechattr.me | No |
 | assortedflotsam.com | No |
 | august-don.site | Yes |
@@ -544,11 +542,11 @@ Here's a list of public Fediverse services.
 | mastodon.atikoro.net | No |
 | mastodon.aventer.biz | No |
 | mastodon.bachgau.social | No |
-| mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
 | mastodon.bida.im | No |
 | mastodon.bitbank.cc | Yes |
+| mastodon.brodi.space | No |
 | mastodon.cardina1.red | No |
 | mastodon.cc | No |
 | mastodon.cemea.org | No |
@@ -630,7 +628,6 @@ Here's a list of public Fediverse services.
 | mastodon.matcha-soft.com | No |
 | mastodon.me.uk | Yes |
 | mastodon.mechanicalmischief.com | No |
-| mastodon.mensoif.cf | No |
 | mastodon.mg | No |
 | mastodon.migennes.net | No |
 | mastodon.mit.edu | Yes |
@@ -858,6 +855,7 @@ Here's a list of public Fediverse services.
 | norrebro.space | No |
 | notbird.site | No |
 | nrw.social | No |
+| nth.io | Yes |
 | nyaa.network | Yes |
 | o3o.ca | Yes |
 | occitanie.social | No |
@@ -985,6 +983,7 @@ Here's a list of public Fediverse services.
 | ruby.social | No |
 | ruhr.social | No |
 | rva.party | No |
+| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -993,7 +992,6 @@ Here's a list of public Fediverse services.
 | sauropods.win | No |
 | sawakai.space | No |
 | scalie.club | No |
-| schleuss.online | No |
 | scholar.social | No |
 | scicomm.xyz | No |
 | scl.zmb.cm | No |
@@ -1055,6 +1053,7 @@ Here's a list of public Fediverse services.
 | social.cologne | No |
 | social.computerfox.xyz | No |
 | social.daspr.io | Yes |
+| social.datalabour.com | No |
 | social.dev-wiki.de | Yes |
 | social.device5.co.uk | No |
 | social.devopsgenius.com | No |
@@ -1131,6 +1130,7 @@ Here's a list of public Fediverse services.
 | social.up.edu.ph | Yes |
 | social.veganact.org.au | No |
 | social.vikings.net | No |
+| social.weho.st | No |
 | social.wien.rocks | No |
 | social.wxcafe.net | No |
 | social.xthemage.net | No |
@@ -1251,7 +1251,6 @@ Here's a list of public Fediverse services.
 | tvitero.com | No |
 | tweetrex.co.uk | No |
 | twingyeo.kr | Yes |
-| twinkaga.in | No |
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
@@ -1331,8 +1330,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 254 |
-| Normal | 1,037 |
+| Cloudflare | 256 |
+| Normal | 1,034 |
 
 
-### 19.7% of public Fediverse services are using Cloudflare.
+### 19.8% of public Fediverse services are using Cloudflare.
