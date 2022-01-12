@@ -3512,10 +3512,12 @@ Do not create new issue or we will close it as duplicate.
 | [maiykael@twitter](https://twitter.com/maiykael/status/1402267022659104779) | advertise |
 | [Majid661594081@twitter](https://twitter.com/Majid661594081/status/1401410937631002632) | advertise |
 | [MajorLinux@twitter](https://twitter.com/MajorLinux/status/1378383167695040517) | advertise |
+| [makeiphone@twitter](https://twitter.com/makeiphone/status/1446381205394321408) | advertise |
 | [makis@tvitero.com](https://tvitero.com/@makis) | Banning account silently; Theft of Follower |
 | [makoranx@twitter](https://twitter.com/makoranx/status/1381349393161465857) | advertise |
 | [Makuluone@twitter](https://twitter.com/Makuluone/status/1382812175564165126) | advertise |
 | [Mal2Ley@twitter](https://twitter.com/Mal2Ley/status/1379174264494911490) | advertise |
+| [MalcolmMellon@twitter](https://twitter.com/MalcolmMellon/status/1480940477180481536) | advertise |
 | [malementari@twitter](https://twitter.com/malementari/status/1389639358957854723) | advertise |
 | [MaliJashwant@twitter](https://twitter.com/MaliJashwant/status/1381653419732074500) | advertise |
 | [MalithKaveesha@twitter](https://twitter.com/MalithKaveesha/status/1398239438782623744) | advertise |
@@ -6179,6 +6181,7 @@ Do not create new issue or we will close it as duplicate.
 | [torzen6@twitter](https://twitter.com/torzen6/status/1400998635785973761) | advertise |
 | [touchybaot73@twitter](https://twitter.com/touchybaot73/status/1388281470821625861) | advertise |
 | [ToxicGa33583045@twitter](https://twitter.com/ToxicGa33583045/status/1394645532132487169) | advertise |
+| [toxicspot_yt@twitter](https://twitter.com/toxicspot_yt/status/1459804440433610753) | advertise |
 | [toxuantien@twitter](https://twitter.com/toxuantien/status/1397212992102670339) | advertise |
 | [TPPK18@twitter](https://twitter.com/TPPK18/status/1447592577562198029) | advertise |
 | [tpt2404@twitter](https://twitter.com/tpt2404/status/1401145723861704709) | advertise |
