@@ -5751,6 +5751,7 @@ Do not create new issue or we will close it as duplicate.
 | [syhmyarff_@twitter](https://twitter.com/syhmyarff_/status/1402492585625591816) | advertise |
 | [Sylla19072446@twitter](https://twitter.com/Sylla19072446/status/1392059309698265088) | advertise |
 | [Sylvhem@eldritch.cafe](https://eldritch.cafe/@Sylvhem) | attacked activist; see quote |
+| [SyndicatedLife@twitter](https://twitter.com/SyndicatedLife/status/1481295106892189696) | advertise |
 | [synram981@twitter](https://twitter.com/synram981/status/1390825351383699459) | advertise |
 | [sysdotini@twitter](https://twitter.com/sysdotini/status/1373351911060078592) | advertise |
 | [systemctl_ryoto@twitter](https://twitter.com/systemctl_ryoto/status/1414265903361925124) | advertise |
