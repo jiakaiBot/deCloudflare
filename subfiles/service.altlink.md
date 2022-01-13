@@ -14,6 +14,7 @@ This is `opt-in` service.
   - [How to Subscribe](service.altlink.md#how-to-subscribe)
   - [How to Unsubscribe](service.altlink.md#how-to-unsubscribe)
   - ["Is it really CloudFlare!?" check](service.altlink.md#_is-it-really-cloudflare-_-check)
+  - [Meme Generator](service.altlink.md#meme-generator)
   - [Suggest clean alternatives](service.altlink.md#suggest-clean-alternatives)
   - [Report a problem / Create an Issue](service.altlink.md#report-a-problem-create-an-issue)
   - [Settings](service.altlink.md#settings)
@@ -99,33 +100,27 @@ www.wikimedia.org
 ```
 
 
-### CloudFlareTest it!
+### Meme Generator
 
-**WARNING: THIS OPTION IS DEPRECATED AND WILL BE REMOVED IN THE FUTURE. USE BELOW OPTION INSTEAD.**
+Want to talk/complain about Cloudflared site in a humerous way?
+Try Meme Generator by sending URL as **direct** message.
 
-<s>You can call AltLink into your **public** **discussion** to test `above user's URL`. 
-All you have to do is hit `Reply` button and 
-- Mention user `@mitigator`
-- Add the word `cloudflaretest` (case does not matter)
-- Send it as **non-direct** toot
-
-AL will answer within 1 minute.
-
-- This is a simple `Yes`/`No` test.
-  - If you need _detailed_ check use above one instead.
+- If you send non-Cloudflared link it will be silently ignored.
 
 
-Here's an example.
+Syntax: `@MitiGator meme URL`
 
-mad_dog wrote:
+Put Cloudflared URL like this...
+
 ```
-Check my new blog! https://oh.my.god/
+@mitigator meme https://cflove.myblog.site/cloud_is_internet/?blog=true
 ```
-you reply:
+
 ```
-Hey @mad_dog, your blog need to do cloudflareTest. @mitigator
+@mitigator
+
+Meme https://invite.party/cloudflare_users_only/
 ```
-</s>
 
 
 ### Suggest clean alternatives
