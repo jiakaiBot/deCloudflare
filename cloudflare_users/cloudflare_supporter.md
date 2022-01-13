@@ -2545,6 +2545,7 @@ Do not create new issue or we will close it as duplicate.
 | [JesvinJ2@twitter](https://twitter.com/JesvinJ2/status/1386613096861495300) | advertise |
 | [jetsada43654039@twitter](https://twitter.com/jetsada43654039/status/1390732178233839617) | advertise |
 | [jewel_maung@twitter](https://twitter.com/jewel_maung/status/1390703603036213248) | advertise |
+| [jgzee@twitter](https://twitter.com/jgzee/status/1481465744227401730) | advertise |
 | [jhnmchlcrpx@twitter](https://twitter.com/jhnmchlcrpx/status/1377245823180804097) | advertise |
 | [Jhon0824@twitter](https://twitter.com/Jhon0824/status/1379091951564247041) | advertise |
 | [JhonSmi72811389@twitter](https://twitter.com/JhonSmi72811389/status/1390912436341854208) | advertise |
