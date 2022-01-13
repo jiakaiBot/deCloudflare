@@ -1348,6 +1348,7 @@ Do not create new issue or we will close it as duplicate.
 | [DemonFighter17@twitter](https://twitter.com/DemonFighter17/status/1379994239073976325) | advertise |
 | [dem_lanh1@twitter](https://twitter.com/dem_lanh1/status/1478372142429655043) | advertise |
 | [Deniel15604448@twitter](https://twitter.com/Deniel15604448/status/1393749914736234498) | advertise |
+| [DennisLibre@twitter](https://twitter.com/DennisLibre/status/1481347302015053827) | advertise |
 | [dennis_mcodhis@twitter](https://twitter.com/dennis_mcodhis/status/1459941166514950159) | advertise |
 | [Deon24535935@twitter](https://twitter.com/Deon24535935/status/1399325913121177601) | advertise |
 | [DepRed7@twitter](https://twitter.com/DepRed7/status/1395675931356766212) | advertise |
