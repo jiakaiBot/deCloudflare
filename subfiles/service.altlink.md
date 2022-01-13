@@ -128,6 +128,7 @@ Meme https://invite.party/cloudflare_users_only/
 Just ask (send **direct** message to) Mitigator and he will provide some suggestions.
 
 - This is related to Settings' `Suggest other non-Cloudflare alternative sites when available`.
+  - If there is a network problem _or_ there is no alternative MG will not reply anything.
 
 
 Syntax: `@MitiGator ?URL` or `？URL`
