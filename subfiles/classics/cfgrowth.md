@@ -401,7 +401,7 @@ Date 	Total domains 	Percent of top 100
 2020-07-13 	12,181,945 	2.973
 2020-07-20 	12,221,082 	2.981
 2020-07-27 	12,253,014 	2.987
-
+```
 
 
 ### Harvard Business School
