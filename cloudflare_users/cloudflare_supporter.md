@@ -2638,6 +2638,7 @@ Do not create new issue or we will close it as duplicate.
 | [Joshua30jmk@twitter](https://twitter.com/Joshua30jmk/status/1378385202347655170) | advertise |
 | [Joshua36202734@twitter](https://twitter.com/Joshua36202734/status/1388884857653137415) | advertise |
 | [JpMatuto@twitter](https://twitter.com/JpMatuto/status/1388240079810973699) | advertise |
+| [jprasanth2006@twitter](https://twitter.com/jprasanth2006/status/1481836188277567488) | advertise |
 | [JSongtakri@twitter](https://twitter.com/JSongtakri/status/1380804099340439556) | advertise |
 | [JTdoodler@twitter](https://twitter.com/JTdoodler/status/1441130159227252738) | advertise |
 | [JubearHossan@twitter](https://twitter.com/JubearHossan/status/1472037401329504257) | advertise |
