@@ -7,7 +7,7 @@
 CloudFlare is a venture-funded startup that routes around Internet abuse by  
 acting as a reverse proxy. They also encourage illegality by allowing hackers,
 DDoSers, cyberbullies, and copyright pirates to hide behind their servers.
-By 2015, CloudFlare was even protecting websites that recruited for ISIS.
+By 2015, CloudFlare was even [protecting websites](isis.md) that recruited for ISIS.
 
 
 - Uncovering bad guys hiding behind CloudFlare
