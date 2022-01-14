@@ -21,7 +21,7 @@ By 2015, CloudFlare was even protecting websites that recruited for ISIS.
 - Where in the world are those CloudFlare domains?
 - The gang at CloudFlare aids and abets cybercriminals
 
-![](marx2.gif)
+![](img/marx2.gif)
 
 - Carders love CloudFlare
 - CloudFlare's growth is not so amazing
