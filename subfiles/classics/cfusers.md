@@ -1,7 +1,7 @@
 # Where in the world are those CloudFlare domains?
 
 
-This site has recorded 2,608,730 direct-connect IP addresses of domains that used CloudFlare's nameservers since August 2012. Some of these domains no longer use CloudFlare, and others have shown various IPs over time. If a domain still uses CloudFlare, our domain search box displays dates when IP information was captured.
+This site has recorded 2,608,730 direct-connect IP addresses of domains that used CloudFlare's nameservers since August 2012. Some of these domains no longer use CloudFlare, and others have shown various IPs over time. If a domain still uses CloudFlare, our [domain search box](cfs.md) displays dates when IP information was captured.
 
 The countries below are preceded by the percentage of the domains in our database that geolocate to that country, based on an IP address lookup. By clicking on this percentage, you get a breakdown of the /24 netblocks of CloudFlare domains for that country, preceded by a count of those domains. Then by clicking on that number, you see the actual domains behind the count.
 
