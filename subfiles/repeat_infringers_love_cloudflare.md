@@ -148,4 +148,4 @@ Repeat infringers loves Cloudflare.
 | ![](../image/jamie_tomasello.gif) | ![](../image/dmca9justin.gif) | ![](../image/cfeu2018.gif) |
 
 
-- ↳ [How many % of public Torrent services are using Cloudflare?](cloudflared_torrents.md)
+- ↳ [How many % of public Torrent services are using Cloudflare?](cloudflared/torrents.md)
