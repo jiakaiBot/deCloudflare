@@ -8,7 +8,7 @@ When we asked Cloudflare why it was 'protecting' ISIS websites, CEO Matthew Prin
 
 We looked at 22 ISIS-related domains that use CloudFlare nameservers, and discovered that half of them are on our list of standard SSL certificates. As any CloudFlare employee could have told CEO Prince, the "standard" certificate requires a Pro account ($20/month) or better. These are not "free" accounts with "universal" certificates.
 
-![](prince5.gif)
+![](img/prince5.gif)
 
 The easiest way for anyone check this out is to enter a domain in our search box. If it's on our SSL list, you will see a link to the SSL data for that domain at the top of our search results.
 
