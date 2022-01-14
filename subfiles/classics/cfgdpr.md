@@ -1,5 +1,4 @@
-# Is CloudFlare affected
-# by the EU's GDPR?
+# Is CloudFlare affected by the EU's GDPR?
 
 > May 25, 2018
 
