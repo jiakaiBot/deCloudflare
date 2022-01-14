@@ -12,7 +12,6 @@ list repeatedly with a huge Internet-of-Things botnet?
 Not many (see footnote).
 
 ```
-
         abby.ns.cloudflare.com 173.245.58.100
         ada.ns.cloudflare.com 173.245.58.54
         adam.ns.cloudflare.com 173.245.59.54
