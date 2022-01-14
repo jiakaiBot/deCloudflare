@@ -20,26 +20,26 @@ DDoSers, cyberbullies, and copyright pirates to hide behind their servers.
 By 2015, CloudFlare was even [protecting websites](isis.md) that recruited for ISIS.
 
 
-- Uncovering bad guys hiding behind CloudFlare
-- Is CloudFlare affected by the EU's GDPR?
-- NYT: CloudFlare protects child-abuse porn sites
-- CloudFlare attracts "repeat infringers"
-- CloudFlare's half-baked SSL
-- Is CloudFlare a honey pot?
-- CloudFlare's wonky nameserver setup
-- Some domains that recently used CloudFlare
-- Where in the world are those CloudFlare domains?
-- The gang at CloudFlare aids and abets cybercriminals
+- [Uncovering bad guys hiding behind CloudFlare](cfs.md)
+- [Is CloudFlare affected by the EU's GDPR?](cfgdpr.md)
+- [NYT: CloudFlare protects child-abuse porn sites](nytporn.txt)
+- [CloudFlare attracts "repeat infringers"](repeats.md)
+- [CloudFlare's half-baked SSL](cfssl.md)
+- [Is CloudFlare a honey pot?](honeypot.md)
+- [CloudFlare's wonky nameserver setup](cfnsdump.md)
+- [Some domains that recently used CloudFlare](cfsites.md)
+- [Where in the world are those CloudFlare domains?](cfusers.md)
+- [The gang at CloudFlare aids and abets cybercriminals](cfgang.md)
 
 ![](img/marx2.gif)
 
-- Carders love CloudFlare
-- CloudFlare's growth is not so amazing
-- CloudFlare seeks riches through anarchy
-- Spamhaus blocks CloudFlare's IP ranges
-- Those laughable CloudFlare terms of service
-- Dear Damon Billian: We're not as stupid as you think!
-- CloudFlare still chummy with ex-cons from LulzSec
+- [Carders love CloudFlare](carders.md)
+- [CloudFlare's growth is not so amazing](cfgrowth.md)
+- [CloudFlare seeks riches through anarchy](twisted.md)
+- [Spamhaus blocks CloudFlare's IP ranges](cfblock.md)
+- [Those laughable CloudFlare terms of service](cfterms.md)
+- [Dear Damon Billian: We're not as stupid as you think!](damon.md)
+- [CloudFlare still chummy with ex-cons from LulzSec](lulzsec2.md)
 
 
 ---
