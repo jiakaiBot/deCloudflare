@@ -25,9 +25,9 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 158 |
-| com | 121 |
-| net | 102 |
+| social | 157 |
+| com | 122 |
+| net | 103 |
 | org | 73 |
 | jp | 49 |
 
@@ -245,6 +245,7 @@ Here's a list of public Fediverse services.
 | fedi.absturztau.be | No |
 | fedi.garrison.beer | No |
 | fedi.mecp.de | No |
+| fedi.mint.lgbt | No |
 | fedi.scd31.com | No |
 | fedi.z0ne.moe | Yes |
 | fedibird.com | Yes |
@@ -442,7 +443,6 @@ Here's a list of public Fediverse services.
 | lewd.town | No |
 | lgbt.im | Yes |
 | lgbt.io | No |
-| lhub.social | No |
 | liber.chocoflan.net | No |
 | liberal.city | No |
 | liberalism.masto.host | No |
@@ -546,7 +546,6 @@ Here's a list of public Fediverse services.
 | mastodon.bayern | Yes |
 | mastodon.bida.im | No |
 | mastodon.bitbank.cc | Yes |
-| mastodon.brodi.space | No |
 | mastodon.cardina1.red | No |
 | mastodon.cc | No |
 | mastodon.cemea.org | No |
@@ -629,6 +628,7 @@ Here's a list of public Fediverse services.
 | mastodon.me.uk | Yes |
 | mastodon.mechanicalmischief.com | No |
 | mastodon.mensoif.cf | No |
+| mastodon.mg | No |
 | mastodon.migennes.net | No |
 | mastodon.mit.edu | Yes |
 | mastodon.ml | No |
@@ -796,7 +796,6 @@ Here's a list of public Fediverse services.
 | mstdn.ropo.jp | No |
 | mstdn.rukin.me | Yes |
 | mstdn.ryanak.xyz | Yes |
-| mstdn.s7t.de | No |
 | mstdn.sastudio.jp | No |
 | mstdn.schoolidol.club | No |
 | mstdn.si | No |
@@ -983,6 +982,7 @@ Here's a list of public Fediverse services.
 | ruby.social | No |
 | ruhr.social | No |
 | rva.party | No |
+| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -1052,6 +1052,7 @@ Here's a list of public Fediverse services.
 | social.coletivos.org | No |
 | social.cologne | No |
 | social.computerfox.xyz | No |
+| social.coop | Yes |
 | social.daspr.io | Yes |
 | social.datalabour.com | No |
 | social.dev-wiki.de | Yes |
@@ -1128,6 +1129,7 @@ Here's a list of public Fediverse services.
 | social.uhoreg.ca | Yes |
 | social.unturf.com | No |
 | social.up.edu.ph | Yes |
+| social.van-hemmen.com | No |
 | social.veganact.org.au | No |
 | social.vikings.net | No |
 | social.weho.st | No |
@@ -1330,8 +1332,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 255 |
+| Cloudflare | 257 |
 | Normal | 1,035 |
 
 
-### 19.8% of public Fediverse services are using Cloudflare.
+### 19.9% of public Fediverse services are using Cloudflare.
