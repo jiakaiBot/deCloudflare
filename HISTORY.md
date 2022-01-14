@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-01-13: [Issues with Browser Isolation](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jbx3wmy7l39m)
 - 2022-01-11: [Increased HTTP 5xx Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hy1p0pjs9pcs)
 - 2022-01-11: [Network Performance Issues in Madrid, Spain](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f4n5gym5hjqk)
 - 2022-01-09: [Increased response time on Marseille, France region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tz8g7rbc8nnt)
