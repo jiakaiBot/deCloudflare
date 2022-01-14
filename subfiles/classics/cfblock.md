@@ -12,15 +12,17 @@ now knows of this 'bulletproof hosting' and is rushing here.
 > July 2012
 
 
-Spamhaus is an international nonprofit organization founded in 1998. On July 11, 2012 they added nearly the entire CloudFlare range of IP addresses to their SBL (Spamhaus Block List). These three entries are labeled "escalation" and include 37,000 addresses. (CloudFlare's own complete list of their IP ranges contained 44,500 IP addresses in July, 2012. Assuming that some of these were for future expansion and presently unused, this meant that Spamhaus had essentially added all of cloudflare.com to their SBL.)
+[Spamhaus](https://web.archive.org/web/20210826103614/http://en.wikipedia.org/wiki/Spamhaus) is an international nonprofit organization founded in 1998. On July 11, 2012 they added nearly the entire CloudFlare range of IP addresses to their SBL (Spamhaus Block List). [These three entries](spamhaus.md) are labeled "escalation" and include 37,000 addresses. (CloudFlare's own complete list of their IP ranges contained 44,500 IP addresses in July, 2012. Assuming that some of these were for future expansion and presently unused, this meant that Spamhaus had essentially added all of cloudflare.com to their SBL.)
 
 This doesn't mean that the domains are unavailable. All it means is that you are less likely to find a CloudFlare-affiliated domain embedded in spam or phishing emails. And if your email address is based on a domain that is protected by CloudFlare, your system administrator might discover that outgoing emails are blocked by upstream providers who use Spamhaus blacklists. There is nothing your sysadmin can do about this except to turn off CloudFlare's service, causing your domain to resolve to a non-CloudFlare IP address.
 
-Matthew Browning Prince, born on 1974-11-13, is the CEO and co-founder of CloudFlare. Thanks to a rich dad, he attended the University of Chicago Law School ('00) and Harvard Business School ('09). Prince taught Internet law and was a specialist in anti-spam laws and phishing investigations. It's a mystery why he joined the Dark Side.
+![](img/prince.jpg)
 
-CloudFlare has not yet borrowed Google's "don't be evil" motto. Perhaps this is because his company was wantonly libertarian and aggressively overhyped right out of the starting gate, so that pretending to embrace probity could prove embarrassing. His thoughts on abuse are pathetic for someone who should know better.
+Matthew Browning Prince, born on 1974-11-13, is the CEO and co-founder of CloudFlare. Thanks to a [rich dad](https://web.archive.org/web/20210826103614/http://web.archive.org/web/20081002173414/http://www.mufranchisee.com/article/453/), he attended the University of Chicago Law School ('00) and Harvard Business School ('09). Prince taught Internet law and was a specialist in anti-spam laws and phishing investigations. It's a mystery why he joined the Dark Side.
 
-See also (Oct 2013):  Phishers using CloudFlare for SSL
+CloudFlare has not yet borrowed Google's "don't be evil" motto. Perhaps this is because his company was wantonly libertarian and aggressively overhyped right out of the starting gate, so that pretending to embrace probity could prove embarrassing. His [thoughts on abuse](https://web.archive.org/web/20210826103614/http://blog.cloudflare.com/thoughts-on-abuse) are pathetic for someone who should know better.
+
+See also (Oct 2013):  [Phishers using CloudFlare for SSL](https://web.archive.org/web/20210826103614/http://news.netcraft.com/archives/2013/10/07/phishers-using-cloudflare-for-ssl.html)
 
 In fact, sysadmins everywhere will feel safer if they block all of CloudFlare's ranges:
 
@@ -41,6 +43,8 @@ In fact, sysadmins everywhere will feel safer if they block all of CloudFlare's 
             198.41.128.0/17   (198.41.128.0 - 198.41.255.255)
             199.27.128.0/21   (199.27.128.0 - 199.27.135.255)
 ```
+
+![](img/cleary2.jpg)
 
 If you are running Linux, you can enter nullroutes for CloudFlare without trying to figure out iptables. We use it on our server because CloudFlare-affiliated cybercriminals have a history of DDoSing us. One of them is named Ryan Cleary and he is in jail now in the UK. He won't get out anytime soon — he pleaded guilty and has also been indicted by a U.S. grand jury. Poor Ryan would feel better if Mr. Prince visited him in jail and offered a little bit of immoral support.
 
@@ -66,13 +70,15 @@ These commands will block access to CloudFlare domains for all traffic to and fr
 
 ### Snake oil for harried webmasters
 
-In 2009, New York Times reported that according to a two-year study, Google accounts for six percent of all Internet traffic worldwide. One year later CloudFlare launched. By early 2012, according to Matthew Prince in Forbes, on any given day 25 percent of the Internet's visitors pass through CloudFlare. Does this mean that CloudFlare handles four times more traffic than Google? They obviously know what they're doing. You cannot go wrong!
+In 2009, [New York Times](https://web.archive.org/web/20210826103614/http://www.nytimes.com/external/readwriteweb/2009/10/13/13readwriteweb-google-accounts-for-6-of-all-internet-traff-90323.html) reported that according to a two-year study, Google accounts for six percent of all Internet traffic worldwide. One year later CloudFlare launched. By early 2012, according to Matthew Prince in [Forbes](https://web.archive.org/web/20210826103614/http://www.forbes.com/sites/eliseackerman/2012/02/29/how-cloudflares-free-ddos-protection-service-is-disrupting-the-multibillion-dollar-computer-security-and-content-delivery-markets), on any given day 25 percent of the Internet's visitors pass through CloudFlare. Does this mean that CloudFlare handles four times more traffic than Google? They obviously know what they're doing. You cannot go wrong!
 
-Matthew Prince made a similar statement on July 18, 2012: "We do more traffic than Amazon, Wikipedia, Twitter, Zynga, AOL, Apple, Bing, eBay, PayPal and Instagram combined," chief executive Matthew Prince told VentureBeat. "We're about half of a Facebook, and this month we'll surpass Yahoo in terms of pageviews and unique visitors."
+![](img/snake3.gif)
 
-Curiously, Mr. Prince changed his tune in August 2013: "Today, approximately four percent of web requests flow through our network." Is CloudFlare slowing down? Not at all. The previous June he told The Economist that he is adding 5,000 customers per day.
+Matthew Prince made a similar statement on July 18, 2012: "We do more traffic than Amazon, Wikipedia, Twitter, Zynga, AOL, Apple, Bing, eBay, PayPal and Instagram combined," chief executive Matthew Prince told [VentureBeat](https://web.archive.org/web/20210826103614/http://venturebeat.com/2012/07/18/cloudflare-amazon-wikipedia-twitter/). "We're about half of a Facebook, and this month we'll surpass Yahoo in terms of pageviews and unique visitors."
 
-If CloudFlare adds 5,000 per day over the course of a year, how does its share of Internet traffic go from 25 percent to 4 percent? Who is more guilty of spreading bullshit — high-tech CEOs, or fanboy publications that print anything they say? (More background on Prince is available here.) 
+Curiously, Mr. Prince changed his tune in [August 2013](https://web.archive.org/web/20210826103614/http://blog.cloudflare.com/cloudflare-and-free-speech): "Today, approximately four percent of web requests flow through our network." Is CloudFlare slowing down? Not at all. The previous June he told [The Economist](https://web.archive.org/web/20210826103614/http://www.economist.com/news/international/21579818-theres-only-so-much-you-can-do-denying-deniers) that he is adding 5,000 customers per day.
+
+If CloudFlare adds 5,000 per day over the course of a year, how does its share of Internet traffic go from 25 percent to 4 percent? Who is more guilty of spreading bullshit — high-tech CEOs, or fanboy publications that print anything they say? (More background on Prince is available [here](honeypot.md).) 
 
 ---
 
