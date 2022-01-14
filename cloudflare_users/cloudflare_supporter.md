@@ -1178,6 +1178,7 @@ Do not create new issue or we will close it as duplicate.
 | [CPaingg@twitter](https://twitter.com/CPaingg/status/1390427967482826754) | advertise |
 | [cqpcoin@twitter](https://twitter.com/cqpcoin/status/1404309296251215872) | advertise |
 | [CrackSree@twitter](https://twitter.com/CrackSree/status/1402815976064700425) | advertise |
+| [CraftPlots@twitter](https://twitter.com/CraftPlots/status/1481687861292326916) | advertise |
 | [Crazyboypro1@twitter](https://twitter.com/Crazyboypro1/status/1377996367499419653) | advertise |
 | [crazygu89542761@twitter](https://twitter.com/crazygu89542761/status/1399720256680124418) | advertise |
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
@@ -4002,6 +4003,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mtwolf17@twitter](https://twitter.com/Mtwolf17/status/1392187273366544384) | advertise |
 | [Muhamma04355643@twitter](https://twitter.com/Muhamma04355643/status/1392484542380875779) | advertise |
 | [Muhamma27131542@twitter](https://twitter.com/Muhamma27131542/status/1400406829562167307) | advertise |
+| [Muhamma69332822@twitter](https://twitter.com/Muhamma69332822/status/1481640385692639239) | advertise |
 | [muhamma95981544@twitter](https://twitter.com/muhamma95981544/status/1383185441332027395) | advertise |
 | [MuhammadSajal_@twitter](https://twitter.com/MuhammadSajal_/status/1401791402246217729) | advertise |
 | [Muhdhakimm1@twitter](https://twitter.com/Muhdhakimm1/status/1398528217070247942) | advertise |
@@ -4663,6 +4665,7 @@ Do not create new issue or we will close it as duplicate.
 | [parthasaha_xyz@twitter](https://twitter.com/parthasaha_xyz/status/1399842469924147201) | advertise |
 | [PARTHIBMONDAL11@twitter](https://twitter.com/PARTHIBMONDAL11/status/1389065445047775234) | advertise |
 | [PasanLaksitha@twitter](https://twitter.com/PasanLaksitha/status/1379474666767572994) | advertise |
+| [pastorray620@twitter](https://twitter.com/pastorray620/status/1481759595219628038) | advertise |
 | [PATELANAS1998@twitter](https://twitter.com/PATELANAS1998/status/1379706213877784576) | advertise |
 | [patrickgoosby1@twitter](https://twitter.com/patrickgoosby1/status/1394439072811307013) | advertise |
 | [PatrickLNorman@twitter](https://twitter.com/PatrickLNorman/status/1378071182319222788) | advertise |
@@ -4929,6 +4932,7 @@ Do not create new issue or we will close it as duplicate.
 | [pwagyi2@twitter](https://twitter.com/pwagyi2/status/1391966858610413575) | advertise |
 | [PwintPhuuWai1@twitter](https://twitter.com/PwintPhuuWai1/status/1391724159202385921) | advertise |
 | [PwintPhyuTun1@twitter](https://twitter.com/PwintPhyuTun1/status/1397559351238266880) | advertise |
+| [pwisetthon@twitter](https://twitter.com/pwisetthon/status/1481573549630697473) | advertise |
 | [pwmarsh@twitter](https://twitter.com/pwmarsh/status/1380107056129118211) | advertise |
 | [PwrHollands@twitter](https://twitter.com/PwrHollands/status/1382420172519186438) | advertise |
 | [PyaeMinPaing4@twitter](https://twitter.com/PyaeMinPaing4/status/1398571550454910980) | advertise |
@@ -5367,6 +5371,7 @@ Do not create new issue or we will close it as duplicate.
 | [seeislam1@twitter](https://twitter.com/seeislam1/status/1404986738712498183) | advertise |
 | [seekingforligh1@twitter](https://twitter.com/seekingforligh1/status/1390488497924894726) | advertise |
 | [SeethaAravind1@twitter](https://twitter.com/SeethaAravind1/status/1386943954227138570) | advertise |
+| [sefarpost@twitter](https://twitter.com/sefarpost/status/1481589801899937793) | advertise |
 | [segelasusultra@twitter](https://twitter.com/segelasusultra/status/1402986195907317760) | advertise |
 | [seiki2216@twitter](https://twitter.com/seiki2216/status/1392526776597766145) | advertise |
 | [seinaoesi@twitter](https://twitter.com/seinaoesi/status/1396428134065577990) | advertise |
