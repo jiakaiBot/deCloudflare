@@ -21,7 +21,7 @@ No, what matters is how many registered domains use CloudFlare for their nameser
 
 [![](img/poem.gif)](repeats.md)
 
-
+```
 Date 	Total domains 	Percent of top 100
 2013-05-06 	462,274 	0.200
 2013-05-13 	472,085 	0.204
