@@ -3754,6 +3754,7 @@ Do not create new issue or we will close it as duplicate.
 | [Minecraftindon6@twitter](https://twitter.com/Minecraftindon6/status/1475411079098355713) | advertise |
 | [Minemu@twitter](https://twitter.com/Minemu/status/1421686937522348036) | advertise |
 | [Minh1717@twitter](https://twitter.com/Minh1717/status/1401879124075892736) | advertise |
+| [minh85912@twitter](https://twitter.com/minh85912/status/1482260480852824065) | advertise |
 | [Minh22002919@twitter](https://twitter.com/Minh22002919/status/1398568502483591168) | advertise |
 | [Minh23535907@twitter](https://twitter.com/Minh23535907/status/1401465681598500871) | advertise |
 | [minh81299480@twitter](https://twitter.com/minh81299480/status/1386326668562685955) | advertise |
@@ -4856,6 +4857,7 @@ Do not create new issue or we will close it as duplicate.
 | [PoePoe76729284@twitter](https://twitter.com/PoePoe76729284/status/1393026229096222724) | advertise |
 | [poetrasingkep@twitter](https://twitter.com/poetrasingkep/status/1378024363211988993) | advertise |
 | [poezijasustine@twitter](https://twitter.com/poezijasustine/status/1395370368530010113) | advertise |
+| [poe_yaung@twitter](https://twitter.com/poe_yaung/status/1482158797007331328) | advertise |
 | [PojiRasip@twitter](https://twitter.com/PojiRasip/status/1399647808789966856) | advertise |
 | [pokefan_t2rox@twitter](https://twitter.com/pokefan_t2rox/status/1386785778693332994) | advertise |
 | [Pokemon98119112@twitter](https://twitter.com/Pokemon98119112/status/1398447530921267202) | advertise |
@@ -6572,6 +6574,7 @@ Do not create new issue or we will close it as duplicate.
 | [websamrat@twitter](https://twitter.com/websamrat/status/1417114848085696515) | advertise |
 | [websolapp@twitter](https://twitter.com/websolapp/status/1436377910638792712) | advertise |
 | [webveko@twitter](https://twitter.com/webveko/status/1469937863273979904) | advertise |
+| [Weduy2Weduy@twitter](https://twitter.com/Weduy2Weduy/status/1482102273207844865) | advertise |
 | [Weed36471988@twitter](https://twitter.com/Weed36471988/status/1385586093697880071) | advertise |
 | [weirdo7822@twitter](https://twitter.com/weirdo7822/status/1390378835703599106) | advertise |
 | [weixinhan@twitter](https://twitter.com/weixinhan/status/1385103220226236416) | advertise |
