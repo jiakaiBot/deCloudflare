@@ -7060,6 +7060,7 @@ Do not create new issue or we will close it as duplicate.
 | [_kokt@twitter](https://twitter.com/_kokt/status/1429677155252727809) | advertise |
 | [_kuzannn@twitter](https://twitter.com/_kuzannn/status/1378391986449752067) | advertise |
 | [_M4nifest0_@twitter](https://twitter.com/_M4nifest0_/status/1395630834611281920) | advertise |
+| [_mayankkashyap@twitter](https://twitter.com/_mayankkashyap/status/1480531480484974597) | advertise |
 | [_mitradibakar@twitter](https://twitter.com/_mitradibakar/status/1470499348614205443) | advertise |
 | [_myorin_@twitter](https://twitter.com/_myorin_/status/1402254526619348992) | advertise |
 | [_namu1224@twitter](https://twitter.com/_namu1224/status/1389877230029795329) | advertise |
