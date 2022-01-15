@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 157 |
-| com | 122 |
-| net | 103 |
+| com | 121 |
+| net | 100 |
 | org | 73 |
 | jp | 49 |
 
@@ -106,7 +106,6 @@ Here's a list of public Fediverse services.
 | bear.community | No |
 | beepboop.one | No |
 | best-friends.chat | No |
-| beudot07.net | No |
 | bgme.me | Yes |
 | bidule.menf.in | No |
 | bigshoulders.city | No |
@@ -247,7 +246,6 @@ Here's a list of public Fediverse services.
 | fedi.mecp.de | No |
 | fedi.mint.lgbt | No |
 | fedi.scd31.com | No |
-| fedi.z0ne.moe | Yes |
 | fedibird.com | Yes |
 | fedivers.net | No |
 | feedbeat.me | No |
@@ -400,7 +398,6 @@ Here's a list of public Fediverse services.
 | kancolle.social | No |
 | kanoa.de | No |
 | karass.ideali.sh | No |
-| katasumi.no-monogatari.com | No |
 | kawen.space | No |
 | kazv.moe | No |
 | kcmo.social | No |
@@ -410,7 +407,6 @@ Here's a list of public Fediverse services.
 | kicou.info | No |
 | kif.rocks | No |
 | kind.social | No |
-| kindred.at | No |
 | kinky.business | Yes |
 | kirakiratter.com | Yes |
 | kirapower.ichigo-hoshimiya.com | No |
@@ -587,7 +583,6 @@ Here's a list of public Fediverse services.
 | mastodon.greenwichmeanti.me | No |
 | mastodon.grin.hu | No |
 | mastodon.gza.jp | No |
-| mastodon.habets.dev | No |
 | mastodon.hk | Yes |
 | mastodon.hugopoi.net | No |
 | mastodon.hydrosaas.com | Yes |
@@ -796,6 +791,7 @@ Here's a list of public Fediverse services.
 | mstdn.ropo.jp | No |
 | mstdn.rukin.me | Yes |
 | mstdn.ryanak.xyz | Yes |
+| mstdn.s7t.de | No |
 | mstdn.sastudio.jp | No |
 | mstdn.schoolidol.club | No |
 | mstdn.si | No |
@@ -982,7 +978,6 @@ Here's a list of public Fediverse services.
 | ruby.social | No |
 | ruhr.social | No |
 | rva.party | No |
-| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -1191,7 +1186,6 @@ Here's a list of public Fediverse services.
 | this.mouse.rocks | No |
 | thraeryn.net | No |
 | thu.closed.social | Yes |
-| tigre-bleu.net | No |
 | tilde.zone | No |
 | tiny.tilde.website | No |
 | tkmb.tokyo | No |
@@ -1332,8 +1326,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 257 |
-| Normal | 1,035 |
+| Cloudflare | 255 |
+| Normal | 1,031 |
 
 
-### 19.9% of public Fediverse services are using Cloudflare.
+### 19.8% of public Fediverse services are using Cloudflare.
