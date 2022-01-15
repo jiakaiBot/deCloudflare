@@ -6477,6 +6477,7 @@ Do not create new issue or we will close it as duplicate.
 | [Voduytin2@twitter](https://twitter.com/Voduytin2/status/1401510533958832136) | advertise |
 | [vokeylee@twitter](https://twitter.com/vokeylee/status/1468226302935142404) | advertise |
 | [VoMinhThong16@twitter](https://twitter.com/VoMinhThong16/status/1400363078391275520) | advertise |
+| [VonWallace@twitter](https://twitter.com/VonWallace/status/1482125539028647940) | advertise |
 | [vovsoft@twitter](https://twitter.com/vovsoft/status/1391116990501298178) | advertise |
 | [VoxziB@twitter](https://twitter.com/VoxziB/status/1380772820624412673) | advertise |
 | [vrankyrule@twitter](https://twitter.com/vrankyrule/status/1386668245902512138) | advertise |
