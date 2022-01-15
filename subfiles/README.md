@@ -93,7 +93,6 @@
   - [Mastodon](people.mastodon.md)
 - [CloudFlare Watch](classics/README.md)
 - [About Ss](service.sercxi.md)
-- [Cloudflare attracts "repeat infringers"](repeat_infringers_love_cloudflare.md)
 - [Change default DNS provider of Firefox](change-firefox-dns.md)
 - [How to use Chromium with Tor](chromium_tor.md)
 - [Myth Catalog](myth_catalog.md)
