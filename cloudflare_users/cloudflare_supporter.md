@@ -1969,6 +1969,7 @@ Do not create new issue or we will close it as duplicate.
 | [HeaddyYoung@twitter](https://twitter.com/HeaddyYoung/status/1393392239280156674) | advertise |
 | [HealthFitnesMa@twitter](https://twitter.com/HealthFitnesMa/status/1379584473650593794) | advertise |
 | [HeartKi08245989@twitter](https://twitter.com/HeartKi08245989/status/1390367647884189696) | advertise |
+| [heck757571@twitter](https://twitter.com/heck757571/status/1482552999931269121) | advertise |
 | [hedi_hawleri@twitter](https://twitter.com/hedi_hawleri/status/1384009917279793161) | advertise |
 | [Hein08961059@twitter](https://twitter.com/Hein08961059/status/1392027647413084162) | advertise |
 | [hein32606125@twitter](https://twitter.com/hein32606125/status/1385263970894770176) | advertise |
