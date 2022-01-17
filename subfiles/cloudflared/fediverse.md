@@ -25,11 +25,11 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 157 |
+| social | 158 |
 | com | 121 |
-| net | 100 |
+| net | 102 |
 | org | 73 |
-| jp | 49 |
+| jp | 48 |
 
 
 - Mastodon, Pleroma, etc
@@ -106,6 +106,7 @@ Here's a list of public Fediverse services.
 | bear.community | No |
 | beepboop.one | No |
 | best-friends.chat | No |
+| beudot07.net | No |
 | bgme.me | Yes |
 | bidule.menf.in | No |
 | bigshoulders.city | No |
@@ -318,6 +319,7 @@ Here's a list of public Fediverse services.
 | glasgow.social | No |
 | glitch.social | No |
 | glitterkitten.co.uk | No |
+| glittersluts.xyz | No |
 | globally.social | No |
 | go5.dev | Yes |
 | gochisou.dev | No |
@@ -407,6 +409,7 @@ Here's a list of public Fediverse services.
 | kicou.info | No |
 | kif.rocks | No |
 | kind.social | No |
+| kindred.at | No |
 | kinky.business | Yes |
 | kirakiratter.com | Yes |
 | kirapower.ichigo-hoshimiya.com | No |
@@ -456,7 +459,6 @@ Here's a list of public Fediverse services.
 | livers.jp | No |
 | lor.sh | Yes |
 | lou.lt | Yes |
-| loves.pizza | No |
 | lsngl.us | No |
 | ludosphere.fr | No |
 | luther.social | No |
@@ -465,7 +467,6 @@ Here's a list of public Fediverse services.
 | m.bonzoesc.net | Yes |
 | m.cmx.im | Yes |
 | m.divita.eu | No |
-| m.fal.moe | No |
 | m.g3l.org | No |
 | m.hitorino.moe | Yes |
 | m.hxbus.net | No |
@@ -583,12 +584,13 @@ Here's a list of public Fediverse services.
 | mastodon.greenwichmeanti.me | No |
 | mastodon.grin.hu | No |
 | mastodon.gza.jp | No |
+| mastodon.habets.dev | No |
 | mastodon.hk | Yes |
 | mastodon.hugopoi.net | No |
 | mastodon.hydrosaas.com | Yes |
 | mastodon.hypnoguys.com | No |
 | mastodon.icu | No |
-| mastodon.im.sb | No |
+| mastodon.im.sb | Yes |
 | mastodon.immae.eu | No |
 | mastodon.in.th | No |
 | mastodon.indoorsman.ee | No |
@@ -606,7 +608,6 @@ Here's a list of public Fediverse services.
 | mastodon.kxn4t.tech | No |
 | mastodon.la | Yes |
 | mastodon.ladn.org | No |
-| mastodon.lang-mfr.de | No |
 | mastodon.lat | No |
 | mastodon.lavergne.online | No |
 | mastodon.lermer.nl | No |
@@ -803,7 +804,6 @@ Here's a list of public Fediverse services.
 | mstdn.tentere.net | Yes |
 | mstdn.tokyocameraclub.com | No |
 | mstdn.vodka | No |
-| mstdn.wildtree.jp | No |
 | mstdn.y-zu.org | Yes |
 | mstdn.yakitamago.info | No |
 | mstdn.yamaken.jp | Yes |
@@ -1032,6 +1032,7 @@ Here's a list of public Fediverse services.
 | social.anon-groups.de | No |
 | social.anoxinon.de | No |
 | social.anthro.cc | No |
+| social.anufrij.de | No |
 | social.apreslanu.it | No |
 | social.art-software.fr | No |
 | social.avareborn.de | Yes |
@@ -1114,6 +1115,7 @@ Here's a list of public Fediverse services.
 | social.tchncs.de | No |
 | social.tcit.fr | No |
 | social.techn1k.de | No |
+| social.tfwnogf.nl | No |
 | social.thisisjoes.site | No |
 | social.tilde.team | No |
 | social.timespiral.co.jp | No |
@@ -1186,6 +1188,7 @@ Here's a list of public Fediverse services.
 | this.mouse.rocks | No |
 | thraeryn.net | No |
 | thu.closed.social | Yes |
+| tigre-bleu.net | No |
 | tilde.zone | No |
 | tiny.tilde.website | No |
 | tkmb.tokyo | No |
@@ -1293,13 +1296,13 @@ Here's a list of public Fediverse services.
 | workaholic.cloud | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
 | www.masto.pt | Yes |
 | www.mstddntfdn.online | Yes |
 | www.nekotodon.com | No |
-| www.sociale.network | No |
 | www.sosial.eu | No |
 | wxw.moe | Yes |
 | xarxa.cloud | No |
@@ -1326,8 +1329,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 255 |
-| Normal | 1,031 |
+| Cloudflare | 256 |
+| Normal | 1,033 |
 
 
-### 19.8% of public Fediverse services are using Cloudflare.
+### 19.9% of public Fediverse services are using Cloudflare.
