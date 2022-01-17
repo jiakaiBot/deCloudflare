@@ -1485,6 +1485,7 @@ Do not create new issue or we will close it as duplicate.
 | [DStepetin@twitter](https://twitter.com/DStepetin/status/1388726848939388931) | advertise |
 | [Dswe77614518@twitter](https://twitter.com/Dswe77614518/status/1393979565475876868) | advertise |
 | [duc22697256@twitter](https://twitter.com/duc22697256/status/1401883188796952579) | advertise |
+| [duckien02@twitter](https://twitter.com/duckien02/status/1482962277364277251) | advertise |
 | [duckyd34707582@twitter](https://twitter.com/duckyd34707582/status/1389283639888732160) | advertise |
 | [duclap1888@twitter](https://twitter.com/duclap1888/status/1386945029084618755) | advertise |
 | [DucMinhVu9@twitter](https://twitter.com/DucMinhVu9/status/1407931928137715714) | advertise |
@@ -3670,6 +3671,7 @@ Do not create new issue or we will close it as duplicate.
 | [Meethal63500839@twitter](https://twitter.com/Meethal63500839/status/1377881374330347521) | advertise |
 | [MeetMusical@twitter](https://twitter.com/MeetMusical/status/1377296990149689347) | advertise |
 | [MegaThree1@twitter](https://twitter.com/MegaThree1/status/1390130191461064704) | advertise |
+| [mehdihollywood1@twitter](https://twitter.com/mehdihollywood1/status/1482830204322078723) | advertise |
 | [mehedibs@twitter](https://twitter.com/mehedibs/status/1447465601509642240) | advertise |
 | [MehrabH95891991@twitter](https://twitter.com/MehrabH95891991/status/1395810158475845632) | advertise |
 | [Mehrabjan123@twitter](https://twitter.com/Mehrabjan123/status/1394097749604409344) | advertise |
@@ -5100,6 +5102,7 @@ Do not create new issue or we will close it as duplicate.
 | [ReickyKunn@twitter](https://twitter.com/ReickyKunn/status/1386282466671947788) | advertise |
 | [relorpubg@twitter](https://twitter.com/relorpubg/status/1402449370822348800) | advertise |
 | [Renee4287@twitter](https://twitter.com/Renee4287/status/1405528162469965828) | advertise |
+| [renify_official@twitter](https://twitter.com/renify_official/status/1464961938492821506) | advertise |
 | [RentWithPets@twitter](https://twitter.com/RentWithPets/status/1379263041309564929) | advertise |
 | [renz89032860@twitter](https://twitter.com/renz89032860/status/1402159320465248256) | advertise |
 | [resistance.social](https://resistance.social/) | by deleting account without warning |
@@ -5634,6 +5637,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sonicbaba7@twitter](https://twitter.com/Sonicbaba7/status/1396189947124764678) | advertise |
 | [Sonicek3@twitter](https://twitter.com/Sonicek3/status/1386002746780766208) | advertise |
 | [sonlu14654722@twitter](https://twitter.com/sonlu14654722/status/1400477010179235842) | advertise |
+| [SonuleSonule1@twitter](https://twitter.com/SonuleSonule1/status/1482956779067940866) | advertise |
 | [SonuneKaustubh@twitter](https://twitter.com/SonuneKaustubh/status/1383286380348940289) | advertise |
 | [SoomTip@twitter](https://twitter.com/SoomTip/status/1399714249832689665) | advertise |
 | [SooThazin@twitter](https://twitter.com/SooThazin/status/1391181323897696257) | advertise |
@@ -6320,6 +6324,7 @@ Do not create new issue or we will close it as duplicate.
 | [TunTunN21907832@twitter](https://twitter.com/TunTunN21907832/status/1392151024073207808) | advertise |
 | [TunTunN70495506@twitter](https://twitter.com/TunTunN70495506/status/1391124153818697728) | advertise |
 | [TunYinmin@twitter](https://twitter.com/TunYinmin/status/1394984491354148864) | advertise |
+| [TuongNg04097548@twitter](https://twitter.com/TuongNg04097548/status/1482973722265145347) | advertise |
 | [TureinKhant@twitter](https://twitter.com/TureinKhant/status/1388471250389983232) | advertise |
 | [TurnKeyMSP@twitter](https://twitter.com/TurnKeyMSP/status/1402797639482187776) | advertise |
 | [Tusayssy456@twitter](https://twitter.com/Tusayssy456/status/1403396450986336262) | advertise |
