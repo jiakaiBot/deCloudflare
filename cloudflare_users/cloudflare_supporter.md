@@ -986,6 +986,7 @@ Do not create new issue or we will close it as duplicate.
 | [Buihuyh06737906@twitter](https://twitter.com/Buihuyh06737906/status/1394529016862756864) | advertise |
 | [bui_loat@twitter](https://twitter.com/bui_loat/status/1395180660642381826) | advertise |
 | [bumrah888@twitter](https://twitter.com/bumrah888/status/1389055956856705024) | advertise |
+| [bunkercoin@twitter](https://twitter.com/bunkercoin/status/1482786162343395328) | advertise |
 | [bunny01627359@twitter](https://twitter.com/bunny01627359/status/1390340286769897475) | advertise |
 | [Bunny257930@twitter](https://twitter.com/Bunny257930/status/1396442714577661956) | advertise |
 | [Bunny43788913@twitter](https://twitter.com/Bunny43788913/status/1376950304982327303) | advertise |
@@ -2919,6 +2920,7 @@ Do not create new issue or we will close it as duplicate.
 | [kikidrilla@twitter](https://twitter.com/kikidrilla/status/1372335070158204930) | advertise |
 | [KiKu68720339@twitter](https://twitter.com/KiKu68720339/status/1390944987152404484) | advertise |
 | [killer2111991@twitter](https://twitter.com/killer2111991/status/1469327399536197633) | advertise |
+| [killfortunes@twitter](https://twitter.com/killfortunes/status/1482820909169795076) | advertise |
 | [kim24_eilie@twitter](https://twitter.com/kim24_eilie/status/1381107528184958981) | advertise |
 | [Kimanh84724453@twitter](https://twitter.com/Kimanh84724453/status/1386380292034682881) | advertise |
 | [kimarmy24@twitter](https://twitter.com/kimarmy24/status/1378000928897298433) | advertise |
@@ -4606,6 +4608,7 @@ Do not create new issue or we will close it as duplicate.
 | [osamaaly90@twitter](https://twitter.com/osamaaly90/status/1405389818499158017) | advertise |
 | [oscarkm@twitter](https://twitter.com/oscarkm/status/1392306941628542978) | advertise |
 | [OscarShih@twitter](https://twitter.com/OscarShih/status/1399771088561659910) | advertise |
+| [oscie57@twitter](https://twitter.com/oscie57/status/1482813140224069634) | advertise |
 | [oshb65@twitter](https://twitter.com/oshb65/status/1385789068424847360) | advertise |
 | [oshinehtet@twitter](https://twitter.com/oshinehtet/status/1390850798490292225) | advertise |
 | [ot7since2017@twitter](https://twitter.com/ot7since2017/status/1379383185210028034) | advertise |
