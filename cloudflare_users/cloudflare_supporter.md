@@ -290,6 +290,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlexaCodes@twitter](https://twitter.com/AlexaCodes/status/1461281945833275394) | advertise |
 | [ALEXAND07389780@twitter](https://twitter.com/ALEXAND07389780/status/1380908807614685187) | advertise |
 | [ALEXAND69307319@twitter](https://twitter.com/ALEXAND69307319/status/1380037455068471297) | advertise |
+| [alexbal@twitter](https://twitter.com/alexbal/status/1483283813492879363) | advertise |
 | [alexchenfeng@twitter](https://twitter.com/alexchenfeng/status/1465564402854207493) | advertise |
 | [alexdolbun@twitter](https://twitter.com/alexdolbun/status/1410279652116029443) | moral (advertise) |
 | [AlexNik14448676@twitter](https://twitter.com/AlexNik14448676/status/1404016449262284806) | advertise |
@@ -1822,6 +1823,7 @@ Do not create new issue or we will close it as duplicate.
 | [GLsaisai@twitter](https://twitter.com/GLsaisai/status/1394137969024401410) | advertise |
 | [GnaneswarM2@twitter](https://twitter.com/GnaneswarM2/status/1387579999209725956) | advertise |
 | [GnaneswarNaidu3@twitter](https://twitter.com/GnaneswarNaidu3/status/1397087799518449669) | advertise |
+| [gndpwnd@twitter](https://twitter.com/gndpwnd/status/1483332664933249026) | advertise |
 | [go4webdev@twitter](https://twitter.com/go4webdev/status/1435122836037849095) | advertise |
 | [Gocome4@twitter](https://twitter.com/Gocome4/status/1383405538411614214) | advertise |
 | [godet_fr3akz@twitter](https://twitter.com/godet_fr3akz/status/1435927245130846214) | advertise |
@@ -6688,6 +6690,7 @@ Do not create new issue or we will close it as duplicate.
 | [XHs@twitter](https://twitter.com/XHs/status/1457943621861199874) | advertise |
 | [xiaomao85622541@twitter](https://twitter.com/xiaomao85622541/status/1391819655287689221) | advertise |
 | [Xiaoqingxxx1@twitter](https://twitter.com/Xiaoqingxxx1/status/1478846246299189248) | advertise |
+| [xiaowanggg@twitter](https://twitter.com/xiaowanggg/status/1483352827732717573) | advertise |
 | [XiaoWu92722924@twitter](https://twitter.com/XiaoWu92722924/status/1379035666818990082) | advertise |
 | [Xing14851@twitter](https://twitter.com/Xing14851/status/1390482855403220994) | advertise |
 | [XixonK@twitter](https://twitter.com/XixonK/status/1388732923772162065) | advertise |
