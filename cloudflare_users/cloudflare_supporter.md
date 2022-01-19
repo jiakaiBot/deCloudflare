@@ -466,6 +466,7 @@ Do not create new issue or we will close it as duplicate.
 | [arlind_rexh@twitter](https://twitter.com/arlind_rexh/status/1383005007486783491) | advertise |
 | [ARM42605072@twitter](https://twitter.com/ARM42605072/status/1402876982652592131) | advertise |
 | [ArmaanIrrfan@twitter](https://twitter.com/ArmaanIrrfan/status/1394254754113495042) | advertise |
+| [armandbdy@twitter](https://twitter.com/armandbdy/status/1483764777642237954) | advertise |
 | [armanjb1@twitter](https://twitter.com/armanjb1/status/1405385667811561475) | advertise |
 | [ArMe69697866@twitter](https://twitter.com/ArMe69697866/status/1376913334377791492) | advertise |
 | [armininjast@twitter](https://twitter.com/armininjast/status/1378059899234619401) | advertise |
@@ -504,6 +505,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ashaq37068397@twitter](https://twitter.com/Ashaq37068397/status/1392123955041820677) | advertise |
 | [Ashfaqlmtiaz@twitter](https://twitter.com/Ashfaqlmtiaz/status/1407297205174620164) | advertise |
 | [AshinNyannar@twitter](https://twitter.com/AshinNyannar/status/1395194731294957568) | advertise |
+| [AshokMA9@twitter](https://twitter.com/AshokMA9/status/1483742175225602051) | advertise |
 | [ashutoshsinghac@twitter](https://twitter.com/ashutoshsinghac/status/1397847733793218560) | advertise |
 | [asia_hippo@twitter](https://twitter.com/asia_hippo/status/1407900933732716545) | advertise |
 | [AsifKha44639814@twitter](https://twitter.com/AsifKha44639814/status/1402506001039851522) | advertise |
@@ -2901,6 +2903,7 @@ Do not create new issue or we will close it as duplicate.
 | [Khnh69694123@twitter](https://twitter.com/Khnh69694123/status/1401708475546099712) | advertise |
 | [KhnhDu09670942@twitter](https://twitter.com/KhnhDu09670942/status/1402132265216270339) | advertise |
 | [khnhiyuu@twitter](https://twitter.com/khnhiyuu/status/1391964324885762048) | advertise |
+| [Khoa56267707@twitter](https://twitter.com/Khoa56267707/status/1483829033565827072) | advertise |
 | [khoacream@twitter](https://twitter.com/khoacream/status/1477881004341985282) | advertise |
 | [khoaito9292@twitter](https://twitter.com/khoaito9292/status/1478745024930086913) | advertise |
 | [KhoaNguynng16@twitter](https://twitter.com/KhoaNguynng16/status/1399519583673847809) | advertise |
@@ -4742,6 +4745,7 @@ Do not create new issue or we will close it as duplicate.
 | [phatnguyenkim@twitter](https://twitter.com/phatnguyenkim/status/1479475998634635265) | advertise |
 | [phat_soc@twitter](https://twitter.com/phat_soc/status/1381112315865485314) | advertise |
 | [Phc35455556@twitter](https://twitter.com/Phc35455556/status/1403747366549606404) | advertise |
+| [PhD_Blood@twitter](https://twitter.com/PhD_Blood/status/1483835015373139968) | advertise |
 | [Phenomytian@twitter](https://twitter.com/Phenomytian/status/1457220077695094788) | advertise |
 | [PheThitZaw@twitter](https://twitter.com/PheThitZaw/status/1402660507362861060) | advertise |
 | [PhHong20@twitter](https://twitter.com/PhHong20/status/1389017688685498370) | advertise |
@@ -6823,6 +6827,7 @@ Do not create new issue or we will close it as duplicate.
 | [YeNaung36755781@twitter](https://twitter.com/YeNaung36755781/status/1394659999893262340) | advertise |
 | [yenge64397545@twitter](https://twitter.com/yenge64397545/status/1390186510939410432) | advertise |
 | [YenVyNguyen7@twitter](https://twitter.com/YenVyNguyen7/status/1395775894686294016) | advertise |
+| [yes_holiday@twitter](https://twitter.com/yes_holiday/status/1483787050377957386) | advertise |
 | [YeThanLwin5@twitter](https://twitter.com/YeThanLwin5/status/1389797806454411265) | advertise |
 | [YeThu07735554@twitter](https://twitter.com/YeThu07735554/status/1393054643865804802) | advertise |
 | [YeThuAu00424841@twitter](https://twitter.com/YeThuAu00424841/status/1395733648507170820) | advertise |
