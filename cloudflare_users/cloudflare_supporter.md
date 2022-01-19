@@ -5395,6 +5395,7 @@ Do not create new issue or we will close it as duplicate.
 | [seeislam1@twitter](https://twitter.com/seeislam1/status/1404986738712498183) | advertise |
 | [seekingforligh1@twitter](https://twitter.com/seekingforligh1/status/1390488497924894726) | advertise |
 | [SeethaAravind1@twitter](https://twitter.com/SeethaAravind1/status/1386943954227138570) | advertise |
+| [seeza_io@twitter](https://twitter.com/seeza_io/status/1483507214774161411) | advertise |
 | [sefarpost@twitter](https://twitter.com/sefarpost/status/1481589801899937793) | advertise |
 | [segelasusultra@twitter](https://twitter.com/segelasusultra/status/1402986195907317760) | advertise |
 | [seiki2216@twitter](https://twitter.com/seiki2216/status/1392526776597766145) | advertise |
