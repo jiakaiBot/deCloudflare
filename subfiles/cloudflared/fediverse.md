@@ -25,11 +25,11 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 157 |
-| com | 121 |
-| net | 102 |
-| org | 73 |
-| jp | 49 |
+| social | 158 |
+| com | 122 |
+| net | 99 |
+| org | 72 |
+| jp | 48 |
 
 
 - Mastodon, Pleroma, etc
@@ -94,6 +94,7 @@ Here's a list of public Fediverse services.
 | awoo.pub | Yes |
 | b612.me | Yes |
 | babymetal.party | No |
+| backyard.cloud | No |
 | balkan.fedive.rs | No |
 | banana.dog | Yes |
 | bangdream.space | Yes |
@@ -399,6 +400,7 @@ Here's a list of public Fediverse services.
 | kancolle.social | No |
 | kanoa.de | No |
 | karass.ideali.sh | No |
+| katasumi.no-monogatari.com | No |
 | kawen.space | No |
 | kazv.moe | No |
 | kcmo.social | No |
@@ -623,7 +625,6 @@ Here's a list of public Fediverse services.
 | mastodon.mechanicalmischief.com | No |
 | mastodon.mensoif.cf | No |
 | mastodon.mg | No |
-| mastodon.migennes.net | No |
 | mastodon.mit.edu | Yes |
 | mastodon.ml | No |
 | mastodon.motcha.tech | Yes |
@@ -976,7 +977,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| s.ovalerio.net | Yes |
+| rva.party | No |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -992,7 +993,6 @@ Here's a list of public Fediverse services.
 | scotland.computer | No |
 | scramble.city | No |
 | screech.social | No |
-| sdfn-01.ninjawedding.org | No |
 | seacow.social | No |
 | seaofog.com | Yes |
 | seizemeans.com | No |
@@ -1035,7 +1035,6 @@ Here's a list of public Fediverse services.
 | social.apreslanu.it | No |
 | social.art-software.fr | No |
 | social.avareborn.de | Yes |
-| social.ballpointcarrot.net | No |
 | social.beepboop.ga | No |
 | social.bim.land | No |
 | social.binarydad.com | No |
@@ -1148,7 +1147,6 @@ Here's a list of public Fediverse services.
 | spanner.works | No |
 | squid.cafe | No |
 | st.curesta.b-shock.org | No |
-| st.foresdon.jp | No |
 | stare.pro | No |
 | starry.ml | No |
 | stereodon.social | No |
@@ -1295,6 +1293,7 @@ Here's a list of public Fediverse services.
 | wokka.be | No |
 | workaholic.cloud | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
@@ -1327,7 +1326,7 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 259 |
+| Cloudflare | 258 |
 | Normal | 1,028 |
 
 
