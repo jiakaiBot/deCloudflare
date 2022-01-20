@@ -5456,6 +5456,7 @@ Do not create new issue or we will close it as duplicate.
 | [ShalomValor@twitter](https://twitter.com/ShalomValor/status/1391398052464762880) | advertise |
 | [shamalesmail@twitter](https://twitter.com/shamalesmail/status/1383397258905849859) | advertise |
 | [shamelessasfuck@twitter](https://twitter.com/shamelessasfuck/status/1390875709166350338) | advertise |
+| [ShaneUmayanga@twitter](https://twitter.com/ShaneUmayanga/status/1484075801041842178) | advertise |
 | [Shanilk40518007@twitter](https://twitter.com/Shanilk40518007/status/1401086959989268482) | advertise |
 | [ShanKoKo10@twitter](https://twitter.com/ShanKoKo10/status/1394641850879725569) | advertise |
 | [ShannonMMitche1@twitter](https://twitter.com/ShannonMMitche1/status/1405702171438555136) | advertise |
@@ -7106,5 +7107,6 @@ Do not create new issue or we will close it as duplicate.
 | [__JARVlS__@twitter](https://twitter.com/__JARVlS__/status/1399612611314950144) | advertise |
 | [__romanenko@twitter](https://twitter.com/__romanenko/status/1445082921421918210) | advertise |
 | [__Th3J0k3r__@twitter](https://twitter.com/__Th3J0k3r__/status/1389701604677390343) | advertise |
+| [_____CHIDI@twitter](https://twitter.com/_____CHIDI/status/1483975163754561541) | advertise |
 
 </details>
