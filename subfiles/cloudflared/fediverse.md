@@ -25,10 +25,10 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 158 |
-| com | 122 |
-| net | 99 |
-| org | 72 |
+| social | 157 |
+| com | 121 |
+| net | 100 |
+| org | 73 |
 | jp | 48 |
 
 
@@ -110,7 +110,6 @@ Here's a list of public Fediverse services.
 | bgme.me | Yes |
 | bidule.menf.in | No |
 | bigshoulders.city | No |
-| bikeshed.party | No |
 | bildung.social | No |
 | bioregional.cascadiafree.space | No |
 | biplus.date | Yes |
@@ -119,7 +118,6 @@ Here's a list of public Fediverse services.
 | biscuit.town | No |
 | bitcoinhackers.org | Yes |
 | bittube.social | No |
-| blahut.tech | Yes |
 | blessedgeeks.social | No |
 | blockriot.com | No |
 | blog.fami.ga | No |
@@ -168,7 +166,6 @@ Here's a list of public Fediverse services.
 | connect.takebackourtech.org | No |
 | contacthi.org | No |
 | coolmathgam.es | Yes |
-| crap.today | No |
 | crazylab.online | No |
 | crypt.lol | No |
 | ctw.pw | No |
@@ -438,7 +435,6 @@ Here's a list of public Fediverse services.
 | lejaua6.club | No |
 | lesbiab.space | No |
 | lesbianschool.com | No |
-| letsalllovela.in | Yes |
 | letsrulethe.world | No |
 | lewd.town | No |
 | lgbt.im | Yes |
@@ -568,12 +564,10 @@ Here's a list of public Fediverse services.
 | mastodon.ecnelises.com | No |
 | mastodon.edvgarbe.de | No |
 | mastodon.eliotberriot.com | No |
-| mastodon.enkitunes.com | No |
 | mastodon.ethibox.fr | No |
 | mastodon.eus | No |
 | mastodon.evolix.org | No |
 | mastodon.exp0.ml | No |
-| mastodon.fedi.quebec | No |
 | mastodon.flossir.org | Yes |
 | mastodon.fosslife.org | No |
 | mastodon.gamedev.place | No |
@@ -585,6 +579,7 @@ Here's a list of public Fediverse services.
 | mastodon.greenwichmeanti.me | No |
 | mastodon.grin.hu | No |
 | mastodon.gza.jp | No |
+| mastodon.habets.dev | No |
 | mastodon.hk | Yes |
 | mastodon.hugopoi.net | No |
 | mastodon.hydrosaas.com | Yes |
@@ -937,7 +932,6 @@ Here's a list of public Fediverse services.
 | pouet.chapril.org | No |
 | pouet.couchet.org | No |
 | pouet.it | No |
-| pouet.mickaelgillot.xyz | No |
 | pounced-on.me | No |
 | ppl.town | No |
 | precure.ml | No |
@@ -993,6 +987,7 @@ Here's a list of public Fediverse services.
 | scotland.computer | No |
 | scramble.city | No |
 | screech.social | No |
+| sdfn-01.ninjawedding.org | No |
 | seacow.social | No |
 | seaofog.com | Yes |
 | seizemeans.com | No |
@@ -1292,8 +1287,8 @@ Here's a list of public Fediverse services.
 | witchey.club | No |
 | wokka.be | No |
 | workaholic.cloud | No |
+| wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
@@ -1326,8 +1321,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 258 |
-| Normal | 1,028 |
+| Cloudflare | 256 |
+| Normal | 1,025 |
 
 
-### 20.1% of public Fediverse services are using Cloudflare.
+### 20% of public Fediverse services are using Cloudflare.
