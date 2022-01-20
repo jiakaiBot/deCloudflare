@@ -2171,6 +2171,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hozifa989@twitter](https://twitter.com/Hozifa989/status/1387553823535902720) | advertise |
 | [hP8GiPsOZOzXk0Z@twitter](https://twitter.com/hP8GiPsOZOzXk0Z/status/1381469862191525895) | advertise |
 | [hpaujenaw@twitter](https://twitter.com/hpaujenaw/status/1391368913389334534) | advertise |
+| [HPKpTV9Bg8nb4F@twitter](https://twitter.com/HPKpTV9Bg8nb4F/status/1484117832816562178) | advertise |
 | [Hponethuta1@twitter](https://twitter.com/Hponethuta1/status/1391823975894949890) | advertise |
 | [hp_wai@twitter](https://twitter.com/hp_wai/status/1402151194907222023) | advertise |
 | [HrichikM@twitter](https://twitter.com/HrichikM/status/1473991252827783168) | advertise |
@@ -4021,6 +4022,7 @@ Do not create new issue or we will close it as duplicate.
 | [mr_thadoehein@twitter](https://twitter.com/mr_thadoehein/status/1387068666768809989) | advertise |
 | [Mr_ThuraSoe@twitter](https://twitter.com/Mr_ThuraSoe/status/1382001533592608770) | advertise |
 | [MSAGaming11@twitter](https://twitter.com/MSAGaming11/status/1400491362475204611) | advertise |
+| [msun_tv@twitter](https://twitter.com/msun_tv/status/1484144302037086209) | advertise |
 | [MSuriko@twitter](https://twitter.com/MSuriko/status/1376898848090583043) | advertise |
 | [mt1234513@twitter](https://twitter.com/mt1234513/status/1393161915141017603) | advertise |
 | [MTAung15@twitter](https://twitter.com/MTAung15/status/1383709367837499396) | advertise |
@@ -4268,6 +4270,7 @@ Do not create new issue or we will close it as duplicate.
 | [ned61103443@twitter](https://twitter.com/ned61103443/status/1401817912399130628) | advertise |
 | [neerajberi01@twitter](https://twitter.com/neerajberi01/status/1407986671929331713) | advertise |
 | [NekoDark2908@twitter](https://twitter.com/NekoDark2908/status/1385441300166569985) | advertise |
+| [nellasilaen@twitter](https://twitter.com/nellasilaen/status/1484124645586571264) | advertise |
 | [nellydion@twitter](https://twitter.com/nellydion/status/1404459985820545035) | advertise |
 | [NeorezzR@twitter](https://twitter.com/NeorezzR/status/1382156523745337347) | advertise |
 | [NerdClump@twitter](https://twitter.com/NerdClump/status/1385680403738947585) | advertise |
@@ -5335,6 +5338,7 @@ Do not create new issue or we will close it as duplicate.
 | [sanjaya32162803@twitter](https://twitter.com/sanjaya32162803/status/1404441851562659845) | advertise |
 | [Sanjeev38649083@twitter](https://twitter.com/Sanjeev38649083/status/1388942454389362693) | advertise |
 | [sankalka@twitter](https://twitter.com/sankalka/status/1408013606495653888) | advertise |
+| [sankalk_@twitter](https://twitter.com/sankalk_/status/1484099761498378246) | advertise |
 | [SanP01083254@twitter](https://twitter.com/SanP01083254/status/1393826598097362949) | advertise |
 | [SanThetHtarOo2@twitter](https://twitter.com/SanThetHtarOo2/status/1384476434291314693) | advertise |
 | [SANThitLwin11@twitter](https://twitter.com/SANThitLwin11/status/1394893204294541315) | advertise |
