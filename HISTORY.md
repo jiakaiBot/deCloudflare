@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-01-20: [Elevated number of 522 errors in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vb01s8c9bqt8)
 - 2022-01-18: [Potential DNS issues for users of a network service provider in Brazil](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/h917zm58vb33)
 - 2022-01-18: [Page Shield issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/p5fwtf049b1c)
 - 2022-01-17: [Potential DNS issues for users of a network service provider in Brazil](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1lm4gkhr80jd)
