@@ -1619,6 +1619,7 @@ Or is this merely a case of simple modesty?
 | Tom Lianza | Engineering Manager | https://twitter.com/tlianza<br>https://www.linkedin.com/in/tlianza<br>btc:1BcB611ZvQ5Qkyeupc87ZFuw9crJ9ZbtcN |
 | Tom Mann | Employee |  |
 | Tommy Larsen | Customer Development |  |
+| Tomonari Sato | Employee | |
 | Tom Paseka | Network Engineer |  |
 | Tom Strickx | Network Software Engineer |  |
 | Tom Walwyn | Employee |  |
@@ -1695,6 +1696,7 @@ Or is this merely a case of simple modesty?
 | William da Cunha | Head of Sales (Americas) |  |
 | William Fisher | Systems Engineer |  |
 | William Robledo | Datacenter Deployments |  |
+| Will Valle | Employee | |
 | Wilson Jackson | Employee |  |
 | Windy Faith | Employee |  |
 | Windy Lim | Employee |  |
