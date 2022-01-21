@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 157 |
-| com | 121 |
+| com | 120 |
 | net | 100 |
 | org | 73 |
 | jp | 48 |
@@ -104,12 +104,12 @@ Here's a list of public Fediverse services.
 | bdx.town | No |
 | beach.city | No |
 | bear.community | No |
-| beepboop.one | No |
 | best-friends.chat | No |
 | beudot07.net | No |
 | bgme.me | Yes |
 | bidule.menf.in | No |
 | bigshoulders.city | No |
+| bikeshed.party | No |
 | bildung.social | No |
 | bioregional.cascadiafree.space | No |
 | biplus.date | Yes |
@@ -118,6 +118,7 @@ Here's a list of public Fediverse services.
 | biscuit.town | No |
 | bitcoinhackers.org | Yes |
 | bittube.social | No |
+| blahut.tech | Yes |
 | blessedgeeks.social | No |
 | blockriot.com | No |
 | blog.fami.ga | No |
@@ -284,7 +285,6 @@ Here's a list of public Fediverse services.
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
-| friendicarg.nsupdate.info | No |
 | frogmob.life | No |
 | froth.zone | No |
 | fsmi.social | Yes |
@@ -407,7 +407,6 @@ Here's a list of public Fediverse services.
 | kicou.info | No |
 | kif.rocks | No |
 | kind.social | No |
-| kindred.at | No |
 | kinky.business | Yes |
 | kirakiratter.com | Yes |
 | kirapower.ichigo-hoshimiya.com | No |
@@ -563,7 +562,6 @@ Here's a list of public Fediverse services.
 | mastodon.earth | No |
 | mastodon.ecnelises.com | No |
 | mastodon.edvgarbe.de | No |
-| mastodon.eliotberriot.com | No |
 | mastodon.ethibox.fr | No |
 | mastodon.eus | No |
 | mastodon.evolix.org | No |
@@ -935,7 +933,6 @@ Here's a list of public Fediverse services.
 | pounced-on.me | No |
 | ppl.town | No |
 | precure.ml | No |
-| pritter.work | No |
 | ps.s10y.eu | No |
 | pso2.club | No |
 | pub.pm | Yes |
@@ -974,6 +971,7 @@ Here's a list of public Fediverse services.
 | rva.party | No |
 | s.zholnay.name | No |
 | salesforce.social | No |
+| salocha.online | No |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
 | sansschatten.com | No |
@@ -1268,7 +1266,6 @@ Here's a list of public Fediverse services.
 | video.pyrignis.fr | No |
 | vis.social | No |
 | vocalodon.net | No |
-| voi.social | No |
 | voring.me | No |
 | vorlon.space | No |
 | vrparty.social | Yes |
@@ -1289,6 +1286,7 @@ Here's a list of public Fediverse services.
 | workaholic.cloud | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
@@ -1321,8 +1319,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 256 |
-| Normal | 1,025 |
+| Cloudflare | 257 |
+| Normal | 1,022 |
 
 
-### 20% of public Fediverse services are using Cloudflare.
+### 20.1% of public Fediverse services are using Cloudflare.
