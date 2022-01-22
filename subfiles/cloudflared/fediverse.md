@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 157 |
-| com | 120 |
-| net | 100 |
+| com | 119 |
+| net | 101 |
 | org | 73 |
 | jp | 48 |
 
@@ -104,6 +104,7 @@ Here's a list of public Fediverse services.
 | bdx.town | No |
 | beach.city | No |
 | bear.community | No |
+| beepboop.one | No |
 | best-friends.chat | No |
 | beudot07.net | No |
 | bgme.me | Yes |
@@ -148,7 +149,6 @@ Here's a list of public Fediverse services.
 | chaosphere.hostdon.jp | No |
 | cheeky.red | No |
 | chillout.chat | Yes |
-| chirpi.de | No |
 | chitter.xyz | No |
 | chomp.life | No |
 | chromabits.com | No |
@@ -272,7 +272,6 @@ Here's a list of public Fediverse services.
 | framapiaf.org | No |
 | free-le.info | No |
 | freeatlantis.com | No |
-| freedom.horse | No |
 | freeframe.masto.host | No |
 | freeradical.zone | No |
 | freesocial.co | Yes |
@@ -285,6 +284,7 @@ Here's a list of public Fediverse services.
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
+| friendicarg.nsupdate.info | No |
 | frogmob.life | No |
 | froth.zone | No |
 | fsmi.social | Yes |
@@ -485,7 +485,6 @@ Here's a list of public Fediverse services.
 | makerdon.org | No |
 | makestuff.club | No |
 | maki.chiba.tw | No |
-| malfunctioning.technology | No |
 | malu.today | No |
 | maly.io | Yes |
 | mammouth.inframed.net | No |
@@ -613,7 +612,6 @@ Here's a list of public Fediverse services.
 | mastodon.macsnet.cz | No |
 | mastodon.madrid | No |
 | mastodon.mania.systems | No |
-| mastodon.matcha-soft.com | No |
 | mastodon.me.uk | Yes |
 | mastodon.mechanicalmischief.com | No |
 | mastodon.mensoif.cf | No |
@@ -864,7 +862,6 @@ Here's a list of public Fediverse services.
 | oransns.com | No |
 | orbsafe.masto.host | No |
 | orenda.social | No |
-| orz.uno | Yes |
 | oslo.town | No |
 | osna.social | No |
 | osomatsu.mastportal.info | No |
@@ -933,6 +930,7 @@ Here's a list of public Fediverse services.
 | pounced-on.me | No |
 | ppl.town | No |
 | precure.ml | No |
+| pritter.work | No |
 | ps.s10y.eu | No |
 | pso2.club | No |
 | pub.pm | Yes |
@@ -968,7 +966,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| rva.party | No |
+| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | salocha.online | No |
@@ -989,7 +987,6 @@ Here's a list of public Fediverse services.
 | seacow.social | No |
 | seaofog.com | Yes |
 | seizemeans.com | No |
-| semisol.net | No |
 | serval.club | No |
 | setl.ist | No |
 | sf.social | No |
@@ -1028,6 +1025,7 @@ Here's a list of public Fediverse services.
 | social.apreslanu.it | No |
 | social.art-software.fr | No |
 | social.avareborn.de | Yes |
+| social.ballpointcarrot.net | No |
 | social.beepboop.ga | No |
 | social.bim.land | No |
 | social.binarydad.com | No |
@@ -1195,7 +1193,6 @@ Here's a list of public Fediverse services.
 | toot-lab.reclaim.technology | No |
 | toot.aquilenet.fr | No |
 | toot.blue | No |
-| toot.cafe | No |
 | toot.cat | No |
 | toot.fedilab.app | No |
 | toot.gnous.eu | No |
@@ -1293,6 +1290,7 @@ Here's a list of public Fediverse services.
 | www.masto.pt | Yes |
 | www.mstddntfdn.online | Yes |
 | www.nekotodon.com | No |
+| www.sociale.network | No |
 | www.sosial.eu | No |
 | wxw.moe | Yes |
 | xarxa.cloud | No |
@@ -1320,7 +1318,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 257 |
-| Normal | 1,022 |
+| Normal | 1,020 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
