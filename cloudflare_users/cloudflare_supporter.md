@@ -2090,6 +2090,7 @@ Do not create new issue or we will close it as duplicate.
 | [hlamyo928_myo@twitter](https://twitter.com/hlamyo928_myo/status/1391208020927942660) | advertise |
 | [HlamyoN49315576@twitter](https://twitter.com/HlamyoN49315576/status/1393081718538530817) | advertise |
 | [HlaSanOo5@twitter](https://twitter.com/HlaSanOo5/status/1391368000352182272) | advertise |
+| [hle780830@twitter](https://twitter.com/hle780830/status/1484898497426227202) | advertise |
 | [HlwanMo80484072@twitter](https://twitter.com/HlwanMo80484072/status/1390191026443325441) | advertise |
 | [hlyine@twitter](https://twitter.com/hlyine/status/1391813441375981571) | advertise |
 | [HMA2421998@twitter](https://twitter.com/HMA2421998/status/1390041016690905088) | advertise |
@@ -3718,6 +3719,7 @@ Do not create new issue or we will close it as duplicate.
 | [MgKAUNGMINSAN1@twitter](https://twitter.com/MgKAUNGMINSAN1/status/1388468024299061249) | advertise |
 | [MgKyawLay20211@twitter](https://twitter.com/MgKyawLay20211/status/1393142033678704641) | advertise |
 | [MgMg05326455@twitter](https://twitter.com/MgMg05326455/status/1391212150182617088) | advertise |
+| [MgMg62363537@twitter](https://twitter.com/MgMg62363537/status/1484801614519336960) | advertise |
 | [MgMg81376148@twitter](https://twitter.com/MgMg81376148/status/1403732741514878983) | advertise |
 | [Mgmg87269206@twitter](https://twitter.com/Mgmg87269206/status/1391808437126787072) | advertise |
 | [MgMg95974216@twitter](https://twitter.com/MgMg95974216/status/1400449109161517056) | advertise |
@@ -3800,6 +3802,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinhTha51596170@twitter](https://twitter.com/MinhTha51596170/status/1401317096131153923) | advertise |
 | [Minhthe0402@twitter](https://twitter.com/Minhthe0402/status/1480456488204533770) | advertise |
 | [MinhThn31469819@twitter](https://twitter.com/MinhThn31469819/status/1402977418592231424) | advertise |
+| [Minhtr20896099@twitter](https://twitter.com/Minhtr20896099/status/1484911090056441856) | advertise |
 | [minhtranquoc001@twitter](https://twitter.com/minhtranquoc001/status/1398548987427266561) | advertise |
 | [Minhtri021196@twitter](https://twitter.com/Minhtri021196/status/1398813787436720129) | advertise |
 | [Minhtri42242744@twitter](https://twitter.com/Minhtri42242744/status/1395034627790700545) | advertise |
@@ -5236,6 +5239,7 @@ Do not create new issue or we will close it as duplicate.
 | [rubyhoangtri@twitter](https://twitter.com/rubyhoangtri/status/1405564911544061954) | advertise |
 | [Ruka09486933@twitter](https://twitter.com/Ruka09486933/status/1406308606983606275) | advertise |
 | [RunStopRestoreX@twitter](https://twitter.com/RunStopRestoreX/status/1381973526350073856) | advertise |
+| [Rupesh69314329@twitter](https://twitter.com/Rupesh69314329/status/1484841043363131393) | advertise |
 | [rurq_official@twitter](https://twitter.com/rurq_official/status/1477737272132915201) | advertise |
 | [Rushike85904039@twitter](https://twitter.com/Rushike85904039/status/1381637780657168384) | advertise |
 | [rushimovaliya@twitter](https://twitter.com/rushimovaliya/status/1400114095857094659) | advertise |
@@ -5347,6 +5351,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sanjeev38649083@twitter](https://twitter.com/Sanjeev38649083/status/1388942454389362693) | advertise |
 | [sankalka@twitter](https://twitter.com/sankalka/status/1408013606495653888) | advertise |
 | [sankalk_@twitter](https://twitter.com/sankalk_/status/1484099761498378246) | advertise |
+| [Sankengja@twitter](https://twitter.com/Sankengja/status/1484904318390407173) | advertise |
 | [SanP01083254@twitter](https://twitter.com/SanP01083254/status/1393826598097362949) | advertise |
 | [SanThetHtarOo2@twitter](https://twitter.com/SanThetHtarOo2/status/1384476434291314693) | advertise |
 | [SANThitLwin11@twitter](https://twitter.com/SANThitLwin11/status/1394893204294541315) | advertise |
@@ -6055,6 +6060,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thien51800662@twitter](https://twitter.com/Thien51800662/status/1383463127044399105) | advertise |
 | [Thien55886244@twitter](https://twitter.com/Thien55886244/status/1377669194137759745) | advertise |
 | [thienbiker@twitter](https://twitter.com/thienbiker/status/1397036078138155011) | advertise |
+| [Thienhoang92@twitter](https://twitter.com/Thienhoang92/status/1484883443943342082) | advertise |
 | [thient_ei@twitter](https://twitter.com/thient_ei/status/1398644633836539907) | advertise |
 | [Thierie9@twitter](https://twitter.com/Thierie9/status/1391758445947228161) | advertise |
 | [ThiHa16740611@twitter](https://twitter.com/ThiHa16740611/status/1394156796235767809) | advertise |
@@ -6329,6 +6335,7 @@ Do not create new issue or we will close it as duplicate.
 | [tuan66944801@twitter](https://twitter.com/tuan66944801/status/1475119208786632706) | advertise |
 | [Tuan71047153@twitter](https://twitter.com/Tuan71047153/status/1399794026463719424) | advertise |
 | [TUAN74461461@twitter](https://twitter.com/TUAN74461461/status/1407565032620056581) | advertise |
+| [TuanAnh00992166@twitter](https://twitter.com/TuanAnh00992166/status/1484853433605967877) | advertise |
 | [TuanAnh84827709@twitter](https://twitter.com/TuanAnh84827709/status/1396374291449479169) | advertise |
 | [TuanHoa92591402@twitter](https://twitter.com/TuanHoa92591402/status/1401178907756220419) | advertise |
 | [tuanit3697@twitter](https://twitter.com/tuanit3697/status/1483194691680337920) | advertise |
