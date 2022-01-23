@@ -267,6 +267,7 @@ a12-64.akam.net
 a12-65.akam.net
 a12-66.akam.net
 a12-67.akam.net
+a13-130.akagtm.org
 a13-64.akam.net
 a13-65.akam.net
 a13-66.akam.net
@@ -355,6 +356,10 @@ asia4.akam.net
 asia9.akam.net
 aus1.akam.net
 aus2.akam.net
+ax0.akamaistream.net
+ax1.akamaistream.net
+ax2.akamaistream.net
+ax3.akamaistream.net
 da4-67.akam.net
 eur1.akam.net
 eur2.akam.net
@@ -552,8 +557,10 @@ ns1-96.akam.net
 ns1-98.akam.net
 ns1-99.akam.net
 ns2-193.akamaitech.net
+ns2-32.akamaistream.net
 ns2-65.akam.net
 ns3-193.akamaitech.net
+ns3-32.akamaistream.net
 ns4-193.akamaitech.net
 ns4-64.akam.net
 ns4-65.akam.net
@@ -564,11 +571,17 @@ ns5-64.akam.net
 ns5-65.akam.net
 ns5-66.akam.net
 ns5-67.akam.net
+ns6-32.akamaistream.net
 ns6-66.akam.net
 ns7-64.akam.net
 ns7-65.akam.net
 ns7-66.akam.net
 ns7-67.akam.net
+p4.akamaistream.net
+p5.akamaistream.net
+p6.akamaistream.net
+p7.akamaistream.net
+p8.akamaistream.net
 usc1.akam.net
 usc2.akam.net
 usc3.akam.net
