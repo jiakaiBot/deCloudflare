@@ -241,6 +241,7 @@ Do not create new issue or we will close it as duplicate.
 | [airashi6@twitter](https://twitter.com/airashi6/status/1396718923974803457) | advertise |
 | [AirsoftAHU@twitter](https://twitter.com/AirsoftAHU/status/1465924954780848128) | advertise |
 | [AiSai74406980@twitter](https://twitter.com/AiSai74406980/status/1395162674292432898) | advertise |
+| [Aitizaz14@twitter](https://twitter.com/Aitizaz14/status/1484956706610233350) | advertise |
 | [ai_l12@twitter](https://twitter.com/ai_l12/status/1397037068493197314) | advertise |
 | [ajamiissa1@twitter](https://twitter.com/ajamiissa1/status/1474108447318851595) | advertise |
 | [Ajay25545679@twitter](https://twitter.com/Ajay25545679/status/1389473937520832515) | advertise |
@@ -2391,6 +2392,7 @@ Do not create new issue or we will close it as duplicate.
 | [ikevin457@twitter](https://twitter.com/ikevin457/status/1377224916789948422) | advertise |
 | [IkhmalFirdaus5@twitter](https://twitter.com/IkhmalFirdaus5/status/1396361732096806913) | advertise |
 | [iKokkii@twitter](https://twitter.com/iKokkii/status/1459160411425718283) | advertise |
+| [ilanhesapcom@twitter](https://twitter.com/ilanhesapcom/status/1485037748864131074) | advertise |
 | [iLngg0111@twitter](https://twitter.com/iLngg0111/status/1379110919066644480) | advertise |
 | [ImanBabazadeh@twitter](https://twitter.com/ImanBabazadeh/status/1388441784775286784) | advertise |
 | [Imanmirakhorli@twitter](https://twitter.com/Imanmirakhorli/status/1409632904510984201) | moral (advertise) |
