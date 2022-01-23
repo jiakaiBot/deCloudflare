@@ -25,8 +25,8 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 157 |
-| com | 119 |
+| social | 158 |
+| com | 122 |
 | net | 101 |
 | org | 73 |
 | jp | 48 |
@@ -272,6 +272,7 @@ Here's a list of public Fediverse services.
 | framapiaf.org | No |
 | free-le.info | No |
 | freeatlantis.com | No |
+| freedom.horse | No |
 | freeframe.masto.host | No |
 | freeradical.zone | No |
 | freesocial.co | Yes |
@@ -606,16 +607,19 @@ Here's a list of public Fediverse services.
 | mastodon.lertsenem.com | No |
 | mastodon.lhin.space | No |
 | mastodon.libre-entreprise.com | No |
+| mastodon.libresilicon.com | No |
 | mastodon.linuxbox.ninja | No |
 | mastodon.lol | Yes |
 | mastodon.lt | No |
 | mastodon.macsnet.cz | No |
 | mastodon.madrid | No |
 | mastodon.mania.systems | No |
+| mastodon.matcha-soft.com | No |
 | mastodon.me.uk | Yes |
 | mastodon.mechanicalmischief.com | No |
 | mastodon.mensoif.cf | No |
 | mastodon.mg | No |
+| mastodon.migennes.net | No |
 | mastodon.mit.edu | Yes |
 | mastodon.ml | No |
 | mastodon.motcha.tech | Yes |
@@ -670,9 +674,9 @@ Here's a list of public Fediverse services.
 | mastodon.uy | No |
 | mastodon.wafflec.one | No |
 | mastodon.world | No |
-| mastodon.xy-space.de | No |
 | mastodon.xyz | No |
 | mastodon.z27.ch | No |
+| mastodon.ziggurat-systems.com | No |
 | mastodon.zunda.ninja | No |
 | mastodont.cat | No |
 | mastodontech.de | No |
@@ -862,6 +866,7 @@ Here's a list of public Fediverse services.
 | oransns.com | No |
 | orbsafe.masto.host | No |
 | orenda.social | No |
+| orz.uno | Yes |
 | oslo.town | No |
 | osna.social | No |
 | osomatsu.mastportal.info | No |
@@ -966,7 +971,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| s.ovalerio.net | Yes |
+| rva.party | No |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | salocha.online | No |
@@ -1193,6 +1198,7 @@ Here's a list of public Fediverse services.
 | toot-lab.reclaim.technology | No |
 | toot.aquilenet.fr | No |
 | toot.blue | No |
+| toot.cafe | No |
 | toot.cat | No |
 | toot.fedilab.app | No |
 | toot.gnous.eu | No |
@@ -1200,7 +1206,6 @@ Here's a list of public Fediverse services.
 | toot.kif.rocks | No |
 | toot.krinetzki.de | Yes |
 | toot.matereal.eu | No |
-| toot.miningpro362.xyz | Yes |
 | toot.nx-pod.de | No |
 | toot.party | No |
 | toot.portes-imaginaire.org | No |
@@ -1279,6 +1284,7 @@ Here's a list of public Fediverse services.
 | whitespashe.uk | No |
 | witches.live | No |
 | witchey.club | No |
+| wobscale.social | No |
 | wokka.be | No |
 | workaholic.cloud | No |
 | wp-social.net | No |
@@ -1317,8 +1323,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 257 |
-| Normal | 1,020 |
+| Cloudflare | 256 |
+| Normal | 1,027 |
 
 
-### 20.1% of public Fediverse services are using Cloudflare.
+### 20% of public Fediverse services are using Cloudflare.
