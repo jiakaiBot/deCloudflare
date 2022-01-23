@@ -1689,6 +1689,7 @@ Do not create new issue or we will close it as duplicate.
 | [Fat_Grizzly@twitter](https://twitter.com/Fat_Grizzly/status/1442666571634130944) | advertise |
 | [faucetbch@twitter](https://twitter.com/faucetbch/status/1416471725643075589) | advertise |
 | [Fauzan85586001@twitter](https://twitter.com/Fauzan85586001/status/1403997313991811072) | advertise |
+| [Fawuioo@twitter](https://twitter.com/Fawuioo/status/1485262753858269188) | advertise |
 | [Fazian47524484@twitter](https://twitter.com/Fazian47524484/status/1400881570408394753) | advertise |
 | [FbworlNews@twitter](https://twitter.com/FbworlNews/status/1401094204743372800) | advertise |
 | [Fearles81577944@twitter](https://twitter.com/Fearles81577944/status/1393607641335668737) | advertise |
@@ -4359,6 +4360,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguyenV70727900@twitter](https://twitter.com/NguyenV70727900/status/1394424771102740480) | advertise |
 | [NguyenVanDac18@twitter](https://twitter.com/NguyenVanDac18/status/1389285628257341441) | advertise |
 | [Nguyen_An77@twitter](https://twitter.com/Nguyen_An77/status/1468175808900395010) | advertise |
+| [Nguyn09830528@twitter](https://twitter.com/Nguyn09830528/status/1485260434756096001) | advertise |
 | [Nguyn1112@twitter](https://twitter.com/Nguyn1112/status/1380569773612785666) | advertise |
 | [nguyn89811789@twitter](https://twitter.com/nguyn89811789/status/1384054275580448768) | advertise |
 | [NguynAn94854130@twitter](https://twitter.com/NguynAn94854130/status/1480063041450672130) | advertise |
@@ -5333,6 +5335,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sam47778402@twitter](https://twitter.com/Sam47778402/status/1396123062047625221) | advertise |
 | [SameerDangi9@twitter](https://twitter.com/SameerDangi9/status/1377450627631095808) | advertise |
 | [SamerTallauze@twitter](https://twitter.com/SamerTallauze/status/1478361206280835081) | advertise |
+| [Samim54823362@twitter](https://twitter.com/Samim54823362/status/1485258949540683778) | advertise |
 | [SamioWol@twitter](https://twitter.com/SamioWol/status/1395796936045649924) | advertise |
 | [SamirSi28964752@twitter](https://twitter.com/SamirSi28964752/status/1388133397294469122) | advertise |
 | [Sammu0108@twitter](https://twitter.com/Sammu0108/status/1379878407597477890) | advertise |
@@ -6169,6 +6172,7 @@ Do not create new issue or we will close it as duplicate.
 | [tienbisbis@twitter](https://twitter.com/tienbisbis/status/1403337680759394311) | advertise |
 | [tiendat09656415@twitter](https://twitter.com/tiendat09656415/status/1393973420639997954) | advertise |
 | [tiennguyen1406@twitter](https://twitter.com/tiennguyen1406/status/1397097755831521281) | advertise |
+| [TienNguyenK@twitter](https://twitter.com/TienNguyenK/status/1485196874739249152) | advertise |
 | [Tienphan95@twitter](https://twitter.com/Tienphan95/status/1472563580013002762) | advertise |
 | [tieudoan208@twitter](https://twitter.com/tieudoan208/status/1420561921158246401) | advertise |
 | [Tieulac87@twitter](https://twitter.com/Tieulac87/status/1384872728449142786) | advertise |
@@ -6211,6 +6215,7 @@ Do not create new issue or we will close it as duplicate.
 | [TMinhTr9@twitter](https://twitter.com/TMinhTr9/status/1402337530033233924) | advertise |
 | [tmlcpl@twitter](https://twitter.com/tmlcpl/status/1386721659806097410) | advertise |
 | [TmNhi04711599@twitter](https://twitter.com/TmNhi04711599/status/1384505716115853314) | advertise |
+| [tmyt@twitter](https://twitter.com/tmyt/status/1485215880183427076) | advertise |
 | [TN17399667@twitter](https://twitter.com/TN17399667/status/1407381111026503691) | advertise |
 | [Tn53238186@twitter](https://twitter.com/Tn53238186/status/1403733922152730627) | advertise |
 | [Tn89965871@twitter](https://twitter.com/Tn89965871/status/1402275670709915655) | advertise |
@@ -6921,6 +6926,7 @@ Do not create new issue or we will close it as duplicate.
 | [YoungHo02960237@twitter](https://twitter.com/YoungHo02960237/status/1391691366099570689) | advertise |
 | [youngmao89@twitter](https://twitter.com/youngmao89/status/1478019085409533955) | advertise |
 | [YourDad50670613@twitter](https://twitter.com/YourDad50670613/status/1404477486487019527) | advertise |
+| [yourname1145@twitter](https://twitter.com/yourname1145/status/1485279023383334919) | advertise |
 | [YouWereTaken_@twitter](https://twitter.com/YouWereTaken_/status/1386969545756213254) | advertise |
 | [yowisayik@twitter](https://twitter.com/yowisayik/status/1396547687055384577) | advertise |
 | [YoYo39889541@twitter](https://twitter.com/YoYo39889541/status/1390220746203361281) | advertise |
