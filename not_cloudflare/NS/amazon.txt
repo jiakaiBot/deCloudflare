@@ -2266,6 +2266,7 @@ ns14.awsdns-01.com
 ns1583.awsdns-05.co.uk
 ns2.awsdns-100.net
 ns382.awsdns-47.com
+ns939.awsdns-53.net
 ns956.awsdns-55.net
 s-1076.awsdns-06.org
 s-1368.awsdns-43.org
