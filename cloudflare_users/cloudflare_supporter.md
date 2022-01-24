@@ -2178,6 +2178,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hozifa989@twitter](https://twitter.com/Hozifa989/status/1387553823535902720) | advertise |
 | [hP8GiPsOZOzXk0Z@twitter](https://twitter.com/hP8GiPsOZOzXk0Z/status/1381469862191525895) | advertise |
 | [hpaujenaw@twitter](https://twitter.com/hpaujenaw/status/1391368913389334534) | advertise |
+| [hpcblogs@twitter](https://twitter.com/hpcblogs/status/1485512592697266179) | advertise |
 | [HPKpTV9Bg8nb4F@twitter](https://twitter.com/HPKpTV9Bg8nb4F/status/1484117832816562178) | advertise |
 | [Hponethuta1@twitter](https://twitter.com/Hponethuta1/status/1391823975894949890) | advertise |
 | [hp_wai@twitter](https://twitter.com/hp_wai/status/1402151194907222023) | advertise |
