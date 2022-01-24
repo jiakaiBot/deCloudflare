@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 158 |
-| com | 122 |
+| com | 121 |
 | net | 101 |
 | org | 73 |
 | jp | 48 |
@@ -129,7 +129,6 @@ Here's a list of public Fediverse services.
 | boltcutter.network | Yes |
 | bonn.social | No |
 | booktoot.club | No |
-| bookwor.ms | No |
 | bruder.space | No |
 | bsd.network | No |
 | bunt.social | No |
@@ -337,7 +336,6 @@ Here's a list of public Fediverse services.
 | handon.club | Yes |
 | hearthtodon.com | No |
 | heislandmine.work | No |
-| hello.2heng.xin | Yes |
 | hellsite.site | No |
 | hessen.social | No |
 | himk.am | Yes |
@@ -674,9 +672,9 @@ Here's a list of public Fediverse services.
 | mastodon.uy | No |
 | mastodon.wafflec.one | No |
 | mastodon.world | No |
+| mastodon.xy-space.de | No |
 | mastodon.xyz | No |
 | mastodon.z27.ch | No |
-| mastodon.ziggurat-systems.com | No |
 | mastodon.zunda.ninja | No |
 | mastodont.cat | No |
 | mastodontech.de | No |
@@ -1031,7 +1029,6 @@ Here's a list of public Fediverse services.
 | social.art-software.fr | No |
 | social.avareborn.de | Yes |
 | social.ballpointcarrot.net | No |
-| social.beepboop.ga | No |
 | social.bim.land | No |
 | social.binarydad.com | No |
 | social.bobcall.me | No |
@@ -1219,7 +1216,6 @@ Here's a list of public Fediverse services.
 | toot.yukimochi.jp | No |
 | tooter.in | No |
 | tooter.social | No |
-| tooting.ch | No |
 | tooting.intensifi.es | No |
 | toots.benpro.fr | Yes |
 | toots.slothy.win | Yes |
@@ -1323,8 +1319,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 256 |
-| Normal | 1,027 |
+| Cloudflare | 255 |
+| Normal | 1,024 |
 
 
-### 20% of public Fediverse services are using Cloudflare.
+### 19.9% of public Fediverse services are using Cloudflare.
