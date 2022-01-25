@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | social | 158 |
 | com | 121 |
 | net | 101 |
-| org | 73 |
+| org | 72 |
 | jp | 48 |
 
 
@@ -148,6 +148,7 @@ Here's a list of public Fediverse services.
 | chaosphere.hostdon.jp | No |
 | cheeky.red | No |
 | chillout.chat | Yes |
+| chirpi.de | No |
 | chitter.xyz | No |
 | chomp.life | No |
 | chromabits.com | No |
@@ -488,7 +489,6 @@ Here's a list of public Fediverse services.
 | maly.io | Yes |
 | mammouth.inframed.net | No |
 | mamot.fr | No |
-| mamut.tic-ac.org | No |
 | manowar.social | No |
 | mao.mastodonhub.com | No |
 | maoh.company | Yes |
@@ -1216,6 +1216,7 @@ Here's a list of public Fediverse services.
 | toot.yukimochi.jp | No |
 | tooter.in | No |
 | tooter.social | No |
+| tooting.ch | No |
 | tooting.intensifi.es | No |
 | toots.benpro.fr | Yes |
 | toots.slothy.win | Yes |
@@ -1320,7 +1321,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 255 |
-| Normal | 1,024 |
+| Normal | 1,025 |
 
 
 ### 19.9% of public Fediverse services are using Cloudflare.
