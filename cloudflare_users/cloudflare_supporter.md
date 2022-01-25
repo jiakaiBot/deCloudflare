@@ -2307,6 +2307,8 @@ Do not create new issue or we will close it as duplicate.
 | [Hun99330190@twitter](https://twitter.com/Hun99330190/status/1401523155382857734) | advertise |
 | [Hung52831637@twitter](https://twitter.com/Hung52831637/status/1399774938542665731) | advertise |
 | [HungDin89400275@twitter](https://twitter.com/HungDin89400275/status/1402315841178259469) | advertise |
+| [Hunggg7d@twitter](https://twitter.com/Hunggg7d/status/1485984559435247618) | advertise |
+| [Hunghun13865970@twitter](https://twitter.com/Hunghun13865970/status/1486000138225131528) | advertise |
 | [HungHuy11921511@twitter](https://twitter.com/HungHuy11921511/status/1477127249556291584) | advertise |
 | [hungk2qh@twitter](https://twitter.com/hungk2qh/status/1402669469009281024) | advertise |
 | [HungMai56616945@twitter](https://twitter.com/HungMai56616945/status/1478139753157455873) | advertise |
@@ -2496,6 +2498,7 @@ Do not create new issue or we will close it as duplicate.
 | [JaafarDafie@twitter](https://twitter.com/JaafarDafie/status/1401898919118790659) | advertise |
 | [jAbdullahMughal@twitter](https://twitter.com/jAbdullahMughal/status/1477590087437279232) | advertise |
 | [JACK63552523@twitter](https://twitter.com/JACK63552523/status/1400836452087255041) | advertise |
+| [JackChung1021@twitter](https://twitter.com/JackChung1021/status/1485991171436736512) | advertise |
 | [jackck76316576@twitter](https://twitter.com/jackck76316576/status/1381264209636327426) | advertise |
 | [Jackjun53391478@twitter](https://twitter.com/Jackjun53391478/status/1399663365056655361) | advertise |
 | [Jackson94034538@twitter](https://twitter.com/Jackson94034538/status/1396744861370355714) | advertise |
@@ -2943,6 +2946,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhunTharZaw1@twitter](https://twitter.com/KhunTharZaw1/status/1389975050887962632) | advertise |
 | [KhusaeniDeni@twitter](https://twitter.com/KhusaeniDeni/status/1393612284992245761) | advertise |
 | [Khushi75673773@twitter](https://twitter.com/Khushi75673773/status/1378980700389396483) | advertise |
+| [khuuvandoan@twitter](https://twitter.com/khuuvandoan/status/1485933839138824193) | advertise |
 | [KhyingMyo@twitter](https://twitter.com/KhyingMyo/status/1396790741024743429) | advertise |
 | [Kiddsart1@twitter](https://twitter.com/Kiddsart1/status/1396560069135945729) | advertise |
 | [KiemNgu94277978@twitter](https://twitter.com/KiemNgu94277978/status/1468213190345388035) | advertise |
@@ -3161,6 +3165,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kyal48869938@twitter](https://twitter.com/Kyal48869938/status/1377577578895044611) | advertise |
 | [KyalSinMinnn@twitter](https://twitter.com/KyalSinMinnn/status/1384030771699011590) | advertise |
 | [KyarJk@twitter](https://twitter.com/KyarJk/status/1391208080990375936) | advertise |
+| [KyautKyi@twitter](https://twitter.com/KyautKyi/status/1485985796914302979) | advertise |
 | [Kyaw741@twitter](https://twitter.com/Kyaw741/status/1396718706407976960) | advertise |
 | [Kyaw57068992@twitter](https://twitter.com/Kyaw57068992/status/1390876089732403205) | advertise |
 | [KyawAgga2@twitter](https://twitter.com/KyawAgga2/status/1390776157273038850) | advertise |
@@ -3376,6 +3381,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lineetcom@twitter](https://twitter.com/Lineetcom/status/1432080628141289475) | advertise |
 | [LineNetizen@twitter](https://twitter.com/LineNetizen/status/1410440237751308289) | moral (advertise) |
 | [LinGyi90627876@twitter](https://twitter.com/LinGyi90627876/status/1392445960488374274) | advertise |
+| [Linh85120294@twitter](https://twitter.com/Linh85120294/status/1485994548753010690) | advertise |
 | [linhhne1011@twitter](https://twitter.com/linhhne1011/status/1387590658991349760) | advertise |
 | [LinhLe31178992@twitter](https://twitter.com/LinhLe31178992/status/1381882539661426689) | advertise |
 | [LinhNgu21248784@twitter](https://twitter.com/LinhNgu21248784/status/1402156612874248194) | advertise |
@@ -6218,6 +6224,7 @@ Do not create new issue or we will close it as duplicate.
 | [TinoRck@twitter](https://twitter.com/TinoRck/status/1398243241040912388) | advertise |
 | [Tintlwi32042117@twitter](https://twitter.com/Tintlwi32042117/status/1390116993383157760) | advertise |
 | [TintTintKhaing1@twitter](https://twitter.com/TintTintKhaing1/status/1400832688911650817) | advertise |
+| [tinvvx@twitter](https://twitter.com/tinvvx/status/1485901022312923139) | advertise |
 | [Tinzar83241699@twitter](https://twitter.com/Tinzar83241699/status/1392923373823356931) | advertise |
 | [TINZAYYARLIN1@twitter](https://twitter.com/TINZAYYARLIN1/status/1378943503011475461) | advertise |
 | [Titatiton3@twitter](https://twitter.com/Titatiton3/status/1383579029635166211) | advertise |
