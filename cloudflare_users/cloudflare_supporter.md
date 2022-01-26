@@ -1570,6 +1570,7 @@ Do not create new issue or we will close it as duplicate.
 | [EdwodAnddey@twitter](https://twitter.com/EdwodAnddey/status/1401553432222212098) | advertise |
 | [ed_meurer@twitter](https://twitter.com/ed_meurer/status/1385639471807336450) | advertise |
 | [Ee03227170@twitter](https://twitter.com/Ee03227170/status/1403594955637985280) | advertise |
+| [effj_kerr@twitter](https://twitter.com/effj_kerr/status/1486100953325522945) | advertise |
 | [EgjjmniTuRFGjDN@twitter](https://twitter.com/EgjjmniTuRFGjDN/status/1472418260402401283) | advertise |
 | [Ehlay01828178@twitter](https://twitter.com/Ehlay01828178/status/1393452793021698048) | advertise |
 | [EhPhlon@twitter](https://twitter.com/EhPhlon/status/1389913127332945920) | advertise |
@@ -3735,6 +3736,7 @@ Do not create new issue or we will close it as duplicate.
 | [MES31_82@twitter](https://twitter.com/MES31_82/status/1401340927495581698) | advertise |
 | [Mest42062509@twitter](https://twitter.com/Mest42062509/status/1392776692976951300) | advertise |
 | [metoporizo@twitter](https://twitter.com/metoporizo/status/1461211384482611201) | advertise |
+| [meu2p@twitter](https://twitter.com/meu2p/status/1486055370800111618) | advertise |
 | [MeVlezz@twitter](https://twitter.com/MeVlezz/status/1396832967700271116) | advertise |
 | [me_mmzu@twitter](https://twitter.com/me_mmzu/status/1393107449863839744) | advertise |
 | [mfarish_khan@twitter](https://twitter.com/mfarish_khan/status/1387547342132310017) | advertise |
