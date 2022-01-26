@@ -25,9 +25,9 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 158 |
-| com | 121 |
-| net | 101 |
+| social | 157 |
+| com | 122 |
+| net | 99 |
 | org | 72 |
 | jp | 48 |
 
@@ -106,7 +106,6 @@ Here's a list of public Fediverse services.
 | bear.community | No |
 | beepboop.one | No |
 | best-friends.chat | No |
-| beudot07.net | No |
 | bgme.me | Yes |
 | bidule.menf.in | No |
 | bigshoulders.city | No |
@@ -169,7 +168,6 @@ Here's a list of public Fediverse services.
 | coolmathgam.es | Yes |
 | crazylab.online | No |
 | crypt.lol | No |
-| ctw.pw | No |
 | cuties.social | No |
 | cybr.es | No |
 | cybre.space | No |
@@ -337,6 +335,7 @@ Here's a list of public Fediverse services.
 | handon.club | Yes |
 | hearthtodon.com | No |
 | heislandmine.work | No |
+| hello.2heng.xin | Yes |
 | hellsite.site | No |
 | hessen.social | No |
 | himk.am | Yes |
@@ -404,6 +403,7 @@ Here's a list of public Fediverse services.
 | kelnet.social | Yes |
 | kemoner-don.tokyo | No |
 | kemonodon.club | No |
+| kfem.cat | No |
 | kicou.info | No |
 | kif.rocks | No |
 | kind.social | No |
@@ -823,6 +823,7 @@ Here's a list of public Fediverse services.
 | nebbia.fail | No |
 | nejiamasi.com | No |
 | nemushee.net | Yes |
+| neoziggurat.com | No |
 | nerdculture.de | No |
 | net4sw.com | No |
 | newsbots.eu | No |
@@ -1005,6 +1006,7 @@ Here's a list of public Fediverse services.
 | sio.masto.host | No |
 | sizedon.com | No |
 | sjtu.closed.social | Yes |
+| skinnyver.se | No |
 | skrivel.se | No |
 | skrt.social | No |
 | slashine.onl | Yes |
@@ -1058,7 +1060,6 @@ Here's a list of public Fediverse services.
 | social.globalpirates.net | No |
 | social.goonj.xyz | Yes |
 | social.gould.cx | Yes |
-| social.grimneko.de | No |
 | social.henzi.org | No |
 | social.hoga.fr | No |
 | social.homunyan.com | No |
@@ -1179,7 +1180,6 @@ Here's a list of public Fediverse services.
 | thraeryn.net | No |
 | thu.closed.social | Yes |
 | thx.one | Yes |
-| tigre-bleu.net | No |
 | tilde.zone | No |
 | tiny.tilde.website | No |
 | tkmb.tokyo | No |
@@ -1286,7 +1286,6 @@ Here's a list of public Fediverse services.
 | workaholic.cloud | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
@@ -1320,8 +1319,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 255 |
-| Normal | 1,025 |
+| Cloudflare | 256 |
+| Normal | 1,023 |
 
 
-### 19.9% of public Fediverse services are using Cloudflare.
+### 20% of public Fediverse services are using Cloudflare.
