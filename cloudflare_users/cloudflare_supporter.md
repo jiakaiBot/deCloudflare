@@ -2303,6 +2303,7 @@ Do not create new issue or we will close it as duplicate.
 | [HuaweiY55388310@twitter](https://twitter.com/HuaweiY55388310/status/1396889296347402242) | advertise |
 | [hucklebberryy@twitter](https://twitter.com/hucklebberryy/status/1396743405867204611) | advertise |
 | [HudaShom@twitter](https://twitter.com/HudaShom/status/1390342722960035840) | advertise |
+| [huebs@twitter](https://twitter.com/huebs/status/1486424384369664001) | advertise |
 | [Huenz2021@twitter](https://twitter.com/Huenz2021/status/1395243727929577476) | advertise |
 | [HugeBananaZZ@twitter](https://twitter.com/HugeBananaZZ/status/1394272864786817028) | advertise |
 | [Hugerightarm@twitter](https://twitter.com/Hugerightarm/status/1378974110311571456) | advertise |
@@ -2726,6 +2727,7 @@ Do not create new issue or we will close it as duplicate.
 | [k4thekiller@twitter](https://twitter.com/k4thekiller/status/1394625998658830340) | advertise |
 | [K70263621@twitter](https://twitter.com/K70263621/status/1391000632845344774) | advertise |
 | [k98785618@twitter](https://twitter.com/k98785618/status/1390366313500008449) | advertise |
+| [ka2n@twitter](https://twitter.com/ka2n/status/1486382746041655302) | advertise |
 | [ka50822655@twitter](https://twitter.com/ka50822655/status/1399136806856060928) | advertise |
 | [KabeersNetwork@twitter](https://twitter.com/KabeersNetwork/status/1415380733221392388) | advertise |
 | [KACHA35541338@twitter](https://twitter.com/KACHA35541338/status/1402959497266556928) | advertise |
