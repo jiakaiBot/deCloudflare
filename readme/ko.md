@@ -51,7 +51,7 @@
 |  Cloudflare는 "Cloudflare Warp"라는 무료 VPN 서비스도 제공합니다.이를 사용하면 모든 스마트 폰 (또는 컴퓨터) 연결이 Cloudflare 서버로 전송됩니다. Cloudflare는 사용자가 읽은 웹 사이트, 게시 한 댓글, 누구와 대화했는지 등을 알 수 있습니다.귀하는 자발적으로 모든 정보를 Cloudflare에 제공합니다.“농담이에요? Cloudflare는 안전합니다. " 그런 다음 VPN 작동 방식을 배워야합니다. | ![](../image/howvpnwork.jpg) |
 |  Cloudflare는 VPN 서비스가 인터넷을 빠르게 만든다고 말했습니다.그러나 VPN은 인터넷 연결을 기존 연결보다 느리게 만듭니다. | ![](../image/notfastervpn.jpg) |
 |  PRISM 스캔들에 대해 이미 알고있을 것입니다.AT & T가 NSA가 감시를 위해 모든 인터넷 데이터를 복사하도록 허용하는 것은 사실입니다. | ![](../image/prismattnsa.jpg) |
-|  NSA에서 일하고 있으며 모든 시민의 인터넷 프로필을 원한다고 가정 해 보겠습니다.대부분의 사람들이 Cloudflare를 맹목적으로 신뢰하고 있으며 하나의 중앙 집중식 게이트웨이 만 사용하여 회사 서버 연결 (SSH / RDP), 개인 웹 사이트, 채팅 웹 사이트, 포럼 웹 사이트, 은행 웹 사이트, 보험 웹 사이트, 검색 엔진, 비밀 회원을 프록시합니다. -전용 웹 사이트, 경매 웹 사이트, 쇼핑, 비디오 웹 사이트, NSFW 웹 사이트 및 불법 웹 사이트.또한 Cloudflare의 DNS 서비스 ( "1.1.1.1") 및 VPN 서비스 ( "Cloudflare Warp")를 사용하여 "Secure! 더 빨리! 보다 나은!" 인터넷 경험.이를 사용자의 IP 주소, 브라우저 지문, 쿠키 및 RAY-ID와 결합하면 대상의 온라인 프로필을 구축하는 데 유용합니다. | ![](../image/edw_snow.jpg)<br>![](../image/peopledonotthink.jpg) |
+|  NSA에서 일하고 있으며 모든 시민의 인터넷 프로필을 원한다고 가정 해 보겠습니다.대부분의 사람들이 Cloudflare를 맹목적으로 신뢰하고 있으며 하나의 중앙 집중식 게이트웨이 만 사용하여 회사 서버 연결 (SSH / RDP), retmesaĝo, 개인 웹 사이트, 채팅 웹 사이트, 포럼 웹 사이트, 은행 웹 사이트, 보험 웹 사이트, 검색 엔진, 비밀 회원을 프록시합니다. -전용 웹 사이트, 경매 웹 사이트, 쇼핑, 비디오 웹 사이트, NSFW 웹 사이트 및 불법 웹 사이트.또한 Cloudflare의 DNS 서비스 ( "1.1.1.1") 및 VPN 서비스 ( "Cloudflare Warp")를 사용하여 "Secure! 더 빨리! 보다 나은!" 인터넷 경험.이를 사용자의 IP 주소, 브라우저 지문, 쿠키 및 RAY-ID와 결합하면 대상의 온라인 프로필을 구축하는 데 유용합니다. | ![](../image/edw_snow.jpg)<br>![](../image/peopledonotthink.jpg) |
 |  당신은 그들의 데이터를 원합니다. 무엇을 하시겠습니까? | ![](../image/nsaslide_prismcorp.gif) |
 |  **Cloudflare는 허니팟입니다.** | ![](../image/honeypot.gif) |
 |  **모두를위한 무료 꿀. 일부 끈이 붙어 있습니다.** | ![](../image/iminurtls.jpg) |
