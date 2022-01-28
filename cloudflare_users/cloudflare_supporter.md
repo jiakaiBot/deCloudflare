@@ -3378,6 +3378,7 @@ Do not create new issue or we will close it as duplicate.
 | [LiciakhuzwayoS@twitter](https://twitter.com/LiciakhuzwayoS/status/1403715246741729284) | advertise |
 | [LiddleBRM@twitter](https://twitter.com/LiddleBRM/status/1405115490016456707) | advertise |
 | [Liem36155@twitter](https://twitter.com/Liem36155/status/1479395801767899137) | advertise |
+| [liem65303490@twitter](https://twitter.com/liem65303490/status/1486855188426080258) | advertise |
 | [lifeisfinishing@twitter](https://twitter.com/lifeisfinishing/status/1385066796705886217) | advertise |
 | [lightkiki11998@twitter](https://twitter.com/lightkiki11998/status/1397082213011791876) | advertise |
 | [likasit2007@twitter](https://twitter.com/likasit2007/status/1455188973991575552) | advertise |
@@ -3604,6 +3605,7 @@ Do not create new issue or we will close it as duplicate.
 | [MandalayThar10@twitter](https://twitter.com/MandalayThar10/status/1391637199444070402) | advertise |
 | [mandiptimsina1@twitter](https://twitter.com/mandiptimsina1/status/1392722380678598656) | advertise |
 | [ManhVi11@twitter](https://twitter.com/ManhVi11/status/1408088812664680453) | advertise |
+| [mani2jeff@twitter](https://twitter.com/mani2jeff/status/1486825496146952192) | advertise |
 | [ManishaBharadw2@twitter](https://twitter.com/ManishaBharadw2/status/1395440002557890562) | advertise |
 | [ManishS14486946@twitter](https://twitter.com/ManishS14486946/status/1376922638216531974) | advertise |
 | [ManSem_95@twitter](https://twitter.com/ManSem_95/status/1391726222770458627) | advertise |
@@ -3623,6 +3625,7 @@ Do not create new issue or we will close it as duplicate.
 | [mardetanhaaa@twitter](https://twitter.com/mardetanhaaa/status/1379735911286595589) | advertise |
 | [MARDONIOCARVAL2@twitter](https://twitter.com/MARDONIOCARVAL2/status/1392268580213993473) | advertise |
 | [Maria65592312@twitter](https://twitter.com/Maria65592312/status/1377526795688239104) | advertise |
+| [MariaBbicJ@twitter](https://twitter.com/MariaBbicJ/status/1486819098294198278) | advertise |
 | [marik4536@twitter](https://twitter.com/marik4536/status/1401198388570312708) | advertise |
 | [Marin65500823@twitter](https://twitter.com/Marin65500823/status/1379100572159143941) | advertise |
 | [Mario48026764@twitter](https://twitter.com/Mario48026764/status/1394761941990600706) | advertise |
@@ -4441,6 +4444,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynTh91319870@twitter](https://twitter.com/NguynTh91319870/status/1406592158447017989) | advertise |
 | [NguynTn10515156@twitter](https://twitter.com/NguynTn10515156/status/1387340058223513607) | advertise |
 | [NguynTn61327840@twitter](https://twitter.com/NguynTn61327840/status/1380795871080538112) | advertise |
+| [NguynTrngCm1@twitter](https://twitter.com/NguynTrngCm1/status/1486667123753885704) | advertise |
 | [NguynTrngPhcHn2@twitter](https://twitter.com/NguynTrngPhcHn2/status/1389292187704119296) | advertise |
 | [NguynTrnhHongA3@twitter](https://twitter.com/NguynTrnhHongA3/status/1401956424331137028) | advertise |
 | [NguynTrnQuanSa1@twitter](https://twitter.com/NguynTrnQuanSa1/status/1377658912007102464) | advertise |
@@ -4755,6 +4759,7 @@ Do not create new issue or we will close it as duplicate.
 | [pastorray620@twitter](https://twitter.com/pastorray620/status/1481759595219628038) | advertise |
 | [PATELANAS1998@twitter](https://twitter.com/PATELANAS1998/status/1379706213877784576) | advertise |
 | [patrickgoosby1@twitter](https://twitter.com/patrickgoosby1/status/1394439072811307013) | advertise |
+| [PatrickHonorez@twitter](https://twitter.com/PatrickHonorez/status/1486822811796750343) | advertise |
 | [PatrickLNorman@twitter](https://twitter.com/PatrickLNorman/status/1378071182319222788) | advertise |
 | [PAtt20022998@twitter](https://twitter.com/PAtt20022998/status/1392449578453008389) | advertise |
 | [PauktawHero@twitter](https://twitter.com/PauktawHero/status/1393646936708636673) | advertise |
@@ -5937,6 +5942,7 @@ Do not create new issue or we will close it as duplicate.
 | [TechTailor@twitter](https://twitter.com/TechTailor/status/1381152232410816514) | advertise |
 | [techtweetlive@twitter](https://twitter.com/techtweetlive/status/1447213119869050886) | advertise |
 | [Teddy2100@twitter](https://twitter.com/Teddy2100/status/1379049599210512384) | advertise |
+| [TedTschopp@twitter](https://twitter.com/TedTschopp/status/1486743304528007169) | advertise |
 | [Ted_Chavez_@twitter](https://twitter.com/Ted_Chavez_/status/1476047426943258625) | advertise |
 | [teegrpm2@twitter](https://twitter.com/teegrpm2/status/1397899934540566532) | advertise |
 | [teera00pai@twitter](https://twitter.com/teera00pai/status/1402357610175631361) | advertise |
