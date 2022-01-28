@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-01-27: [Network Performance Issues in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/nkf38ht3x7gj)
 - 2022-01-27: [Increased HTTP 522 Errors in North America](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7pt2ljqg4jtn)
 - 2022-01-24: [Elevated traffic and blocks relating to  Cloudflare Exposed Credentials Check Ruleset](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8dlh38xrrv9z)
 - 2022-01-24: [Increased HTTP 5XX Errors in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/x1511gkjk5ls)
