@@ -95,6 +95,7 @@ Do not create new issue or we will close it as duplicate.
 | [122Bestem@twitter](https://twitter.com/122Bestem/status/1377934900733440000) | advertise |
 | [139DesignAruba@twitter](https://twitter.com/139DesignAruba/status/1452339823201726477) | advertise |
 | [143_meRebel@twitter](https://twitter.com/143_meRebel/status/1385255133915881476) | advertise |
+| [360Getnews@twitter](https://twitter.com/360Getnews/status/1486933943769526273) | advertise |
 | [366bc204215b404@twitter](https://twitter.com/366bc204215b404/status/1387446414997741571) | advertise |
 | [506_76365@twitter](https://twitter.com/506_76365/status/1400516235436072967) | advertise |
 | [573Glenn_M@twitter](https://twitter.com/573Glenn_M/status/1416400401637781509) | advertise |
