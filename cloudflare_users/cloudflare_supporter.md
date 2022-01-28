@@ -457,6 +457,7 @@ Do not create new issue or we will close it as duplicate.
 | [ARES35088043@twitter](https://twitter.com/ARES35088043/status/1391446589453967360) | advertise |
 | [AriaHarunae@twitter](https://twitter.com/AriaHarunae/status/1405169247542730752) | advertise |
 | [aribkhan2016@twitter](https://twitter.com/aribkhan2016/status/1389475209992835075) | advertise |
+| [AriesGreenApple@twitter](https://twitter.com/AriesGreenApple/status/1487078687598014470) | advertise |
 | [Arieshtut213@twitter](https://twitter.com/Arieshtut213/status/1402336618921578504) | advertise |
 | [ArifinSunny19@twitter](https://twitter.com/ArifinSunny19/status/1389227451742523399) | advertise |
 | [Arjun63261515@twitter](https://twitter.com/Arjun63261515/status/1384863027078565892) | advertise |
@@ -1854,6 +1855,7 @@ Do not create new issue or we will close it as duplicate.
 | [GolamkibriaRony@twitter](https://twitter.com/GolamkibriaRony/status/1404201070306361345) | advertise |
 | [GoldenT73523612@twitter](https://twitter.com/GoldenT73523612/status/1387635147965485061) | advertise |
 | [gomdorilpkth_45@twitter](https://twitter.com/gomdorilpkth_45/status/1406078870617354245) | advertise |
+| [gomgomass@twitter](https://twitter.com/gomgomass/status/1487078737220804614) | advertise |
 | [GomGrear@twitter](https://twitter.com/GomGrear/status/1392932249390047233) | advertise |
 | [Gone07481288@twitter](https://twitter.com/Gone07481288/status/1391760753254813700) | advertise |
 | [gonk_droid101@twitter](https://twitter.com/gonk_droid101/status/1478566792821972992) | advertise |
@@ -2083,6 +2085,7 @@ Do not create new issue or we will close it as duplicate.
 | [hillarykharkhar@twitter](https://twitter.com/hillarykharkhar/status/1467483099995025412) | advertise |
 | [Himank66270084@twitter](https://twitter.com/Himank66270084/status/1395830583175958529) | advertise |
 | [Himashi53980738@twitter](https://twitter.com/Himashi53980738/status/1383701341957103616) | advertise |
+| [HimVX@twitter](https://twitter.com/HimVX/status/1486910604925308936) | advertise |
 | [HindiBuddy@twitter](https://twitter.com/HindiBuddy/status/1436514354585747459) | advertise |
 | [Hing49094553@twitter](https://twitter.com/Hing49094553/status/1403161998183985162) | advertise |
 | [Hing59514415@twitter](https://twitter.com/Hing59514415/status/1388181905875423234) | advertise |
@@ -3826,6 +3829,7 @@ Do not create new issue or we will close it as duplicate.
 | [Minemu@twitter](https://twitter.com/Minemu/status/1421686937522348036) | advertise |
 | [Minh1717@twitter](https://twitter.com/Minh1717/status/1401879124075892736) | advertise |
 | [minh85912@twitter](https://twitter.com/minh85912/status/1482260480852824065) | advertise |
+| [Minh18041999@twitter](https://twitter.com/Minh18041999/status/1487079475368308739) | advertise |
 | [Minh22002919@twitter](https://twitter.com/Minh22002919/status/1398568502483591168) | advertise |
 | [Minh23535907@twitter](https://twitter.com/Minh23535907/status/1401465681598500871) | advertise |
 | [minh81299480@twitter](https://twitter.com/minh81299480/status/1386326668562685955) | advertise |
