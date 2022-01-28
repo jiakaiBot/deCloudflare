@@ -757,6 +757,7 @@ Or is this merely a case of simple modesty?
 | Jen Taylor | Employee | |
 | Jeppe Toustrup | Systems Reliability Engineer |  |
 | Jeremy Bernick | Intern |  |
+| Jeremy Hartman | Employee | |
 | Jeremy L. Pugh | Employee |  |
 | Jeremy Meeks | Support Engineer |  |
 | Jeremy Teale | Operations Engineer |  |
