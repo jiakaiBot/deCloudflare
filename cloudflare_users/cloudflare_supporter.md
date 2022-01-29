@@ -6466,6 +6466,7 @@ Do not create new issue or we will close it as duplicate.
 | [TZ50609073@twitter](https://twitter.com/TZ50609073/status/1386953958619455490) | advertise |
 | [Tzammt3@twitter](https://twitter.com/Tzammt3/status/1391395529301577731) | advertise |
 | [tzaung34@twitter](https://twitter.com/tzaung34/status/1397223038656126984) | advertise |
+| [tzonerun@twitter](https://twitter.com/tzonerun/status/1487111241478856708) | advertise |
 | [t_bui080845@twitter](https://twitter.com/t_bui080845/status/1477782583777792000) | advertise |
 | [t_q_hung21@twitter](https://twitter.com/t_q_hung21/status/1480199838113226755) | advertise |
 | [t_srgty@twitter](https://twitter.com/t_srgty/status/1387020781423525893) | advertise |
