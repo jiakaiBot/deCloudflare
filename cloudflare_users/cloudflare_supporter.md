@@ -140,6 +140,7 @@ Do not create new issue or we will close it as duplicate.
 | [Abdulla98320845@twitter](https://twitter.com/Abdulla98320845/status/1398651100065001482) | advertise |
 | [Abdulla98602648@twitter](https://twitter.com/Abdulla98602648/status/1386907995737493507) | advertise |
 | [AbdullahRafey@twitter](https://twitter.com/AbdullahRafey/status/1380618387605221377) | advertise |
+| [abeautifulmemo@twitter](https://twitter.com/abeautifulmemo/status/1487803606854410250) | advertise |
 | [AbhaySi30964742@twitter](https://twitter.com/AbhaySi30964742/status/1382171140706078722) | advertise |
 | [AbhaySi85772218@twitter](https://twitter.com/AbhaySi85772218/status/1386601025138663427) | advertise |
 | [Abhi75026840@twitter](https://twitter.com/Abhi75026840/status/1384746380585881606) | advertise |
@@ -318,6 +319,7 @@ Do not create new issue or we will close it as duplicate.
 | [AliTekayResmi@twitter](https://twitter.com/AliTekayResmi/status/1420368710490013700) | advertise |
 | [ali__haidaricr7@twitter](https://twitter.com/ali__haidaricr7/status/1390791981010460673) | advertise |
 | [AllanMartin@twitter](https://twitter.com/AllanMartin/status/1399519289372295168) | advertise |
+| [allindialeads@twitter](https://twitter.com/allindialeads/status/1487816693346824194) | advertise |
 | [Allis98048947@twitter](https://twitter.com/Allis98048947/status/1396348863519371272) | advertise |
 | [AlmakLimited@twitter](https://twitter.com/AlmakLimited/status/1400534263007678464) | advertise |
 | [almohanad_7rb@twitter](https://twitter.com/almohanad_7rb/status/1396993015231750147) | advertise |
@@ -1542,6 +1544,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dzony791@twitter](https://twitter.com/Dzony791/status/1393946883966578692) | advertise |
 | [dzuhrimohd88@twitter](https://twitter.com/dzuhrimohd88/status/1386173313165062145) | advertise |
 | [dzulhelmi@twitter](https://twitter.com/dzulhelmi/status/1431272526898888705) | advertise |
+| [DzViet1@twitter](https://twitter.com/DzViet1/status/1487807623369924611) | advertise |
 | [D_Larro@twitter](https://twitter.com/D_Larro/status/1397911729368145920) | advertise |
 | [EagleOneJackBo1@twitter](https://twitter.com/EagleOneJackBo1/status/1394581551501828098) | advertise |
 | [EaidraS@twitter](https://twitter.com/EaidraS/status/1396308018715713536) | advertise |
@@ -1666,6 +1669,7 @@ Do not create new issue or we will close it as duplicate.
 | [ev_nex@twitter](https://twitter.com/ev_nex/status/1460331702165856258) | advertise |
 | [ewanrezwan@twitter](https://twitter.com/ewanrezwan/status/1474876536700346369) | advertise |
 | [eweannnnnnn@twitter](https://twitter.com/eweannnnnnn/status/1383857328894529540) | advertise |
+| [EwhhhMann@twitter](https://twitter.com/EwhhhMann/status/1487783367667957762) | advertise |
 | [exasited@twitter](https://twitter.com/exasited/status/1391785184987553793) | advertise |
 | [Exito51051708@twitter](https://twitter.com/Exito51051708/status/1385425775751401478) | advertise |
 | [exoLchokyithar@twitter](https://twitter.com/exoLchokyithar/status/1383974311803854848) | advertise |
@@ -1735,6 +1739,7 @@ Do not create new issue or we will close it as duplicate.
 | [flushdgrollings@twitter](https://twitter.com/flushdgrollings/status/1380788675882049537) | advertise |
 | [flux_wiz@twitter](https://twitter.com/flux_wiz/status/1460077906772693002) | advertise |
 | [flyerfocus@twitter](https://twitter.com/flyerfocus/status/1382377771473670144) | advertise |
+| [fof15797974@twitter](https://twitter.com/fof15797974/status/1487706959914565632) | advertise |
 | [Foguzz_narak@twitter](https://twitter.com/Foguzz_narak/status/1405488230351347722) | advertise |
 | [followpots@twitter](https://twitter.com/followpots/status/1393134168721162240) | advertise |
 | [fonkon99@twitter](https://twitter.com/fonkon99/status/1396068557625073671) | advertise |
@@ -1943,6 +1948,7 @@ Do not create new issue or we will close it as duplicate.
 | [HamJin123@twitter](https://twitter.com/HamJin123/status/1434402038339624962) | advertise |
 | [Hammad9860@twitter](https://twitter.com/Hammad9860/status/1380102081596559360) | advertise |
 | [HammillGallery@twitter](https://twitter.com/HammillGallery/status/1484213755898597378) | advertise |
+| [hamolll@twitter](https://twitter.com/hamolll/status/1487817397415333888) | advertise |
 | [hana66669@twitter](https://twitter.com/hana66669/status/1379180701921148929) | advertise |
 | [HaNgcThnh1@twitter](https://twitter.com/HaNgcThnh1/status/1474892457380700160) | advertise |
 | [haNguyn90737580@twitter](https://twitter.com/haNguyn90737580/status/1378411206134796289) | advertise |
@@ -3456,6 +3462,7 @@ Do not create new issue or we will close it as duplicate.
 | [LNhnHong1@twitter](https://twitter.com/LNhnHong1/status/1400851165248585730) | advertise |
 | [Loctran78766971@twitter](https://twitter.com/Loctran78766971/status/1378360177724776450) | advertise |
 | [loftwah@twitter](https://twitter.com/loftwah/status/1426153321882996737) | advertise |
+| [LoGame17@twitter](https://twitter.com/LoGame17/status/1487789962942726150) | advertise |
 | [Loi49922234@twitter](https://twitter.com/Loi49922234/status/1384799893655416833) | advertise |
 | [loke_pa@twitter](https://twitter.com/loke_pa/status/1391006736404729860) | advertise |
 | [Loki83104752@twitter](https://twitter.com/Loki83104752/status/1379175461553573897) | advertise |
@@ -6566,6 +6573,7 @@ Do not create new issue or we will close it as duplicate.
 | [VeVe69904456@twitter](https://twitter.com/VeVe69904456/status/1390967162878283780) | advertise |
 | [vgchat@twitter](https://twitter.com/vgchat/status/1392263921013252103) | advertise |
 | [vhgamer2006@twitter](https://twitter.com/vhgamer2006/status/1413728432861585411) | advertise |
+| [vhung7061@twitter](https://twitter.com/vhung7061/status/1487810623673147392) | advertise |
 | [vian_kio@twitter](https://twitter.com/vian_kio/status/1404827196846317571) | advertise |
 | [victoraldir@twitter](https://twitter.com/victoraldir/status/1468678725684404231) | advertise |
 | [VictorC67776723@twitter](https://twitter.com/VictorC67776723/status/1429202585097998336) | advertise |
