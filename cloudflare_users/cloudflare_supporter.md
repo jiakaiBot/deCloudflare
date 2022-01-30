@@ -2480,6 +2480,7 @@ Do not create new issue or we will close it as duplicate.
 | [iSOLATE35789112@twitter](https://twitter.com/iSOLATE35789112/status/1395014452328615942) | advertise |
 | [Israel39164523@twitter](https://twitter.com/Israel39164523/status/1395523885978714112) | advertise |
 | [isrecommended@twitter](https://twitter.com/isrecommended/status/1469222561577943041) | advertise |
+| [IssaAlabri3@twitter](https://twitter.com/IssaAlabri3/status/1487689307519434754) | advertise |
 | [IssariaVen@twitter](https://twitter.com/IssariaVen/status/1400114063779110916) | advertise |
 | [Is_Dia_li@twitter](https://twitter.com/Is_Dia_li/status/1390245219795279878) | advertise |
 | [Itachi10737586@twitter](https://twitter.com/Itachi10737586/status/1389877556866740229) | advertise |
@@ -5373,6 +5374,7 @@ Do not create new issue or we will close it as duplicate.
 | [sajademaalik@twitter](https://twitter.com/sajademaalik/status/1391848383174770689) | advertise |
 | [Sajan15063771@twitter](https://twitter.com/Sajan15063771/status/1385509047818887169) | advertise |
 | [sajbersfera@twitter](https://twitter.com/sajbersfera/status/1412508700791787522) | moral (advertise) |
+| [SajibMamun8@twitter](https://twitter.com/SajibMamun8/status/1487575937243832332) | advertise |
 | [sakoinfograhic@twitter](https://twitter.com/sakoinfograhic/status/1483137800547491840) | advertise |
 | [SakshiC60115393@twitter](https://twitter.com/SakshiC60115393/status/1378061425206194176) | advertise |
 | [SakusaSpray@twitter](https://twitter.com/SakusaSpray/status/1391577820409724932) | advertise |
@@ -5623,6 +5625,7 @@ Do not create new issue or we will close it as duplicate.
 | [simonpoortman1@twitter](https://twitter.com/simonpoortman1/status/1450490875281297408) | advertise |
 | [Simonx671@twitter](https://twitter.com/Simonx671/status/1394388837598629894) | advertise |
 | [SimonYng2@twitter](https://twitter.com/SimonYng2/status/1390340562184667136) | advertise |
+| [SimpleHafiz@twitter](https://twitter.com/SimpleHafiz/status/1487649405586972674) | advertise |
 | [SimranG39906146@twitter](https://twitter.com/SimranG39906146/status/1400837970656067593) | advertise |
 | [simultsop@twitter](https://twitter.com/simultsop/status/1387457851392733190) | advertise |
 | [sincze@twitter](https://twitter.com/sincze/status/1379491017389391876) | advertise |
@@ -5969,6 +5972,7 @@ Do not create new issue or we will close it as duplicate.
 | [TetTunLin1@twitter](https://twitter.com/TetTunLin1/status/1389947825602002945) | advertise |
 | [TextBookly@twitter](https://twitter.com/TextBookly/status/1390763198148714500) | advertise |
 | [tezoxu@twitter](https://twitter.com/tezoxu/status/1411050579233841157) | moral (advertise) |
+| [TfAKASH1@twitter](https://twitter.com/TfAKASH1/status/1487667852999991296) | advertise |
 | [TForestpolice@twitter](https://twitter.com/TForestpolice/status/1400545801324146689) | advertise |
 | [tgah161@twitter](https://twitter.com/tgah161/status/1386024837819207680) | advertise |
 | [tgunr@twitter](https://twitter.com/tgunr/status/1411621018691584002) | moral (advertise) |
@@ -6296,6 +6300,7 @@ Do not create new issue or we will close it as duplicate.
 | [toducduy98@twitter](https://twitter.com/toducduy98/status/1388220524753408000) | advertise |
 | [ToeToeLwin20@twitter](https://twitter.com/ToeToeLwin20/status/1391663332487155717) | advertise |
 | [tofuXOsauce@twitter](https://twitter.com/tofuXOsauce/status/1382184819195486215) | advertise |
+| [Toilaai06720095@twitter](https://twitter.com/Toilaai06720095/status/1487564562400350210) | advertise |
 | [toilaai230yhaoo@twitter](https://twitter.com/toilaai230yhaoo/status/1477506687808327681) | advertise |
 | [ToilaAi72342378@twitter](https://twitter.com/ToilaAi72342378/status/1408481720718954498) | advertise |
 | [toilavominhtri@twitter](https://twitter.com/toilavominhtri/status/1445233277355184130) | advertise |
@@ -6696,6 +6701,7 @@ Do not create new issue or we will close it as duplicate.
 | [WaiZinKoKo2@twitter](https://twitter.com/WaiZinKoKo2/status/1390190890501562369) | advertise |
 | [WangMi87623155@twitter](https://twitter.com/WangMi87623155/status/1392754494258040832) | advertise |
 | [wannakhaingsoe@twitter](https://twitter.com/wannakhaingsoe/status/1390612150054440963) | advertise |
+| [Wantt16@twitter](https://twitter.com/Wantt16/status/1487690284041633792) | advertise |
 | [Wan_One_19@twitter](https://twitter.com/Wan_One_19/status/1398298274910646273) | advertise |
 | [Waqar_kamboh_@twitter](https://twitter.com/Waqar_kamboh_/status/1386042322463469569) | advertise |
 | [Waranglat1@twitter](https://twitter.com/Waranglat1/status/1401063506385018883) | advertise |
