@@ -1192,6 +1192,7 @@ Do not create new issue or we will close it as duplicate.
 | [Conheo93476222@twitter](https://twitter.com/Conheo93476222/status/1400096830415798274) | advertise |
 | [Conquera99@twitter](https://twitter.com/Conquera99/status/1391184679240273923) | advertise |
 | [consultingby_b@twitter](https://twitter.com/consultingby_b/status/1382897455247851520) | advertise |
+| [conter_86@twitter](https://twitter.com/conter_86/status/1488218108754108420) | advertise |
 | [CoolMax002ish@twitter](https://twitter.com/CoolMax002ish/status/1399164860928245763) | advertise |
 | [CopyImage12@twitter](https://twitter.com/CopyImage12/status/1388503829142851588) | advertise |
 | [Corona3331@twitter](https://twitter.com/Corona3331/status/1394599782153342976) | advertise |
