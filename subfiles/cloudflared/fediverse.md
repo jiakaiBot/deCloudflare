@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 156 |
-| com | 121 |
+| com | 120 |
 | net | 102 |
 | org | 73 |
 | jp | 48 |
@@ -241,6 +241,7 @@ Here's a list of public Fediverse services.
 | fedi.absturztau.be | No |
 | fedi.garrison.beer | No |
 | fedi.mecp.de | No |
+| fedi.mint.lgbt | No |
 | fedi.scd31.com | No |
 | fedibird.com | Yes |
 | fedivers.net | No |
@@ -574,7 +575,6 @@ Here's a list of public Fediverse services.
 | mastodon.greenwichmeanti.me | No |
 | mastodon.grin.hu | No |
 | mastodon.gza.jp | No |
-| mastodon.habets.dev | No |
 | mastodon.hk | Yes |
 | mastodon.hugopoi.net | No |
 | mastodon.hydrosaas.com | Yes |
@@ -611,7 +611,6 @@ Here's a list of public Fediverse services.
 | mastodon.macsnet.cz | No |
 | mastodon.madrid | No |
 | mastodon.mania.systems | No |
-| mastodon.matcha-soft.com | No |
 | mastodon.me.uk | Yes |
 | mastodon.mechanicalmischief.com | No |
 | mastodon.mensoif.cf | No |
@@ -725,7 +724,7 @@ Here's a list of public Fediverse services.
 | mst3k.interlinked.me | No |
 | mstd.dansmonorage.blue | No |
 | mstdn-bike.net | No |
-| mstdn-jp.site | No |
+| mstdn-jp.site | Yes |
 | mstdn.anqou.net | Yes |
 | mstdn.b-shock.org | No |
 | mstdn.barippi.com | No |
@@ -914,6 +913,7 @@ Here's a list of public Fediverse services.
 | plural.cafe | No |
 | plush.city | No |
 | plustodon.net | Yes |
+| poa.st | Yes |
 | podcastindex.social | No |
 | podnutz.us | Yes |
 | pokedon.org | No |
@@ -968,6 +968,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
+| rva.party | No |
 | s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
@@ -1277,7 +1278,6 @@ Here's a list of public Fediverse services.
 | waha.work | No |
 | wandering.shop | No |
 | watadon.com | No |
-| weeaboo.space | No |
 | welldn.net | No |
 | welt.all.de | No |
 | werebeast.io | No |
@@ -1293,7 +1293,6 @@ Here's a list of public Fediverse services.
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
 | www.masto.pt | Yes |
-| www.mstddntfdn.online | Yes |
 | www.nekotodon.com | No |
 | www.sociale.network | No |
 | www.sosial.eu | No |
@@ -1321,8 +1320,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 257 |
-| Normal | 1,024 |
+| Cloudflare | 258 |
+| Normal | 1,022 |
 
 
-### 20.1% of public Fediverse services are using Cloudflare.
+### 20.2% of public Fediverse services are using Cloudflare.
