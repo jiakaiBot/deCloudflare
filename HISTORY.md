@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-02-01: [Network Performance Issues in Karachi, Pakistan.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5skthcvwn770)
 - 2022-01-28: [Network connectivity issues in the New York metro area](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/92484s92dqn9)
 - 2022-01-27: [Network Performance Issues in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/nkf38ht3x7gj)
 - 2022-01-27: [Increased HTTP 522 Errors in North America](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7pt2ljqg4jtn)
