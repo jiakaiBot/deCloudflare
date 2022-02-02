@@ -1906,6 +1906,7 @@ Do not create new issue or we will close it as duplicate.
 | [Gupta0115@twitter](https://twitter.com/Gupta0115/status/1380207548276559883) | advertise |
 | [Gurbaks32947013@twitter](https://twitter.com/Gurbaks32947013/status/1407317499503337473) | advertise |
 | [gurbhejs93@twitter](https://twitter.com/gurbhejs93/status/1394584988624953352) | advertise |
+| [gurkanincegul@twitter](https://twitter.com/gurkanincegul/status/1488674232561192963) | advertise |
 | [GuruDhirendra@twitter](https://twitter.com/GuruDhirendra/status/1385626941328302080) | advertise |
 | [Gusion39030259@twitter](https://twitter.com/Gusion39030259/status/1390246534101438472) | advertise |
 | [gutyuk@twitter](https://twitter.com/gutyuk/status/1379825750707146758) | advertise |
@@ -4034,6 +4035,7 @@ Do not create new issue or we will close it as duplicate.
 | [MoonDas41181283@twitter](https://twitter.com/MoonDas41181283/status/1393096654413197315) | advertise |
 | [moonfoxxxxxx@twitter](https://twitter.com/moonfoxxxxxx/status/1401547509189681155) | advertise |
 | [Morgan89660901@twitter](https://twitter.com/Morgan89660901/status/1376646842503602179) | advertise |
+| [morixal@twitter](https://twitter.com/morixal/status/1488785584801959937) | advertise |
 | [moscowchill@twitter](https://twitter.com/moscowchill/status/1432276272298795008) | advertise |
 | [Mostafi19189233@twitter](https://twitter.com/Mostafi19189233/status/1400999191275474945) | advertise |
 | [mothmlkbass@twitter](https://twitter.com/mothmlkbass/status/1488406118099525636) | advertise |
