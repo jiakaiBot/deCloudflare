@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 121 |
 | net | 99 |
 | org | 72 |
-| jp | 48 |
+| jp | 49 |
 
 
 - Mastodon, Pleroma, etc
@@ -153,7 +153,6 @@ Here's a list of public Fediverse services.
 | chromabits.com | No |
 | cigarcabin.com | No |
 | circus.town | No |
-| clacks.link | No |
 | claris.cf | No |
 | climatejustice.social | No |
 | club.darknight-coffee.eu | No |
@@ -198,7 +197,6 @@ Here's a list of public Fediverse services.
 | don.mamemo.online | Yes |
 | don.neso.tech | No |
 | dotgr.id | No |
-| dragon.style | No |
 | dragonscave.space | No |
 | drake.network | No |
 | dramaless.co.uk | No |
@@ -307,7 +305,6 @@ Here's a list of public Fediverse services.
 | gfk.social | No |
 | ggtea.org | No |
 | gingadon.com | Yes |
-| girlcock.club | No |
 | gla.fit | No |
 | glaceon.social | No |
 | glammr.us | No |
@@ -755,7 +752,6 @@ Here's a list of public Fediverse services.
 | mstdn.jp | Yes |
 | mstdn.kanagu.info | Yes |
 | mstdn.kemono-friends.info | Yes |
-| mstdn.kessai-otaku.club | Yes |
 | mstdn.klamath.jp | No |
 | mstdn.lalafell.org | No |
 | mstdn.liliso.com | No |
@@ -778,6 +774,7 @@ Here's a list of public Fediverse services.
 | mstdn.osaka | No |
 | mstdn.otyakai.xyz | Yes |
 | mstdn.plusminus.io | Yes |
+| mstdn.poyo.me | No |
 | mstdn.res.ac | No |
 | mstdn.rinsuki.net | Yes |
 | mstdn.ropo.jp | No |
@@ -969,7 +966,6 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| rva.party | No |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | salocha.online | No |
@@ -1142,6 +1138,7 @@ Here's a list of public Fediverse services.
 | spanner.works | No |
 | squid.cafe | No |
 | st.curesta.b-shock.org | No |
+| st.foresdon.jp | No |
 | stare.pro | No |
 | starry.ml | No |
 | stereodon.social | No |
@@ -1258,7 +1255,6 @@ Here's a list of public Fediverse services.
 | unnerv.jp | No |
 | unperson.us | No |
 | unstoppablecode.org | No |
-| upup.social | No |
 | ura-mstdn.com | No |
 | utopia.cool | No |
 | uwu.social | Yes |
@@ -1290,6 +1286,7 @@ Here's a list of public Fediverse services.
 | workaholic.cloud | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
@@ -1322,8 +1319,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 258 |
-| Normal | 1,024 |
+| Cloudflare | 257 |
+| Normal | 1,022 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
