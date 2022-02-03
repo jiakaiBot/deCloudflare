@@ -938,6 +938,7 @@ Do not create new issue or we will close it as duplicate.
 | [BoKyaw11177314@twitter](https://twitter.com/BoKyaw11177314/status/1396818938550362119) | advertise |
 | [BoLinhNguync1@twitter](https://twitter.com/BoLinhNguync1/status/1475740957421150211) | advertise |
 | [BOLL52898482@twitter](https://twitter.com/BOLL52898482/status/1395812015214632960) | advertise |
+| [BonaErwin@twitter](https://twitter.com/BonaErwin/status/1488978738066771974) | advertise |
 | [BonfireZone@twitter](https://twitter.com/BonfireZone/status/1432302355488329733) | advertise |
 | [bonguyn29688521@twitter](https://twitter.com/bonguyn29688521/status/1402308865257918465) | advertise |
 | [BoNusT_14@twitter](https://twitter.com/BoNusT_14/status/1381775064530513923) | advertise |
@@ -1262,6 +1263,7 @@ Do not create new issue or we will close it as duplicate.
 | [Daene45447688@twitter](https://twitter.com/Daene45447688/status/1398422361183899648) | advertise |
 | [daimonhall@twitter](https://twitter.com/daimonhall/status/1447552421421625345) | advertise |
 | [daisy_hann@twitter](https://twitter.com/daisy_hann/status/1393047426798276608) | advertise |
+| [Dai_XK@twitter](https://twitter.com/Dai_XK/status/1488931866145325058) | advertise |
 | [Dali80188860@twitter](https://twitter.com/Dali80188860/status/1398634697094221825) | advertise |
 | [DAmbur143@twitter](https://twitter.com/DAmbur143/status/1401146045552205828) | advertise |
 | [damhieu9@twitter](https://twitter.com/damhieu9/status/1382137551306121218) | advertise |
@@ -1757,6 +1759,7 @@ Do not create new issue or we will close it as duplicate.
 | [Freesty92893100@twitter](https://twitter.com/Freesty92893100/status/1398106800356937731) | advertise |
 | [Frhan67_@twitter](https://twitter.com/Frhan67_/status/1381961620218277890) | advertise |
 | [friesdan@twitter](https://twitter.com/friesdan/status/1411038385263714304) | moral (advertise) |
+| [frisaq1@twitter](https://twitter.com/frisaq1/status/1488983176630390786) | advertise |
 | [frontware@twitter](https://twitter.com/frontware/status/1438345369256038400) | advertise |
 | [frshzrnmln@twitter](https://twitter.com/frshzrnmln/status/1432737386945933319) | advertise |
 | [FuckThong8@twitter](https://twitter.com/FuckThong8/status/1389450074309099521) | advertise |
@@ -1946,6 +1949,7 @@ Do not create new issue or we will close it as duplicate.
 | [Halla27873117@twitter](https://twitter.com/Halla27873117/status/1471612949689159689) | advertise |
 | [halykun@twitter](https://twitter.com/halykun/status/1400355687041933314) | advertise |
 | [HamdanMatNor18@twitter](https://twitter.com/HamdanMatNor18/status/1393666177692360705) | advertise |
+| [hamidkh41481829@twitter](https://twitter.com/hamidkh41481829/status/1488981351059664900) | advertise |
 | [Hami_HamaSaed@twitter](https://twitter.com/Hami_HamaSaed/status/1376832495468081156) | advertise |
 | [HamJin123@twitter](https://twitter.com/HamJin123/status/1434402038339624962) | advertise |
 | [Hammad9860@twitter](https://twitter.com/Hammad9860/status/1380102081596559360) | advertise |
