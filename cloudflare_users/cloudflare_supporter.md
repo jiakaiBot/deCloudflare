@@ -44,6 +44,7 @@ Do not create new issue or we will close it as duplicate.
 | [1CristalHeart@twitter](https://twitter.com/1CristalHeart/status/1473671613144920067) | advertise |
 | [1juxtaposition@twitter](https://twitter.com/1juxtaposition/status/1397618611083165697) | advertise |
 | [1KK4cfjGlKNknLy@twitter](https://twitter.com/1KK4cfjGlKNknLy/status/1378992221077168128) | advertise |
+| [1nonlylynnp@twitter](https://twitter.com/1nonlylynnp/status/1489403722727936009) | advertise |
 | [1of1Bluts374@twitter](https://twitter.com/1of1Bluts374/status/1383862555945291781) | advertise |
 | [1Sellorin@twitter](https://twitter.com/1Sellorin/status/1355427524935823361) | advertise |
 | [1Silver938@twitter](https://twitter.com/1Silver938/status/1471924365763792903) | advertise |
@@ -2561,6 +2562,7 @@ Do not create new issue or we will close it as duplicate.
 | [James96208841@twitter](https://twitter.com/James96208841/status/1393623179201900544) | advertise |
 | [JamesAutoDude@twitter](https://twitter.com/JamesAutoDude/status/1456424781746630658) | advertise |
 | [JamesBaKyaw2@twitter](https://twitter.com/JamesBaKyaw2/status/1391787887943766016) | advertise |
+| [JamesDanMadeIt@twitter](https://twitter.com/JamesDanMadeIt/status/1489444365412016129) | advertise |
 | [JamesHa60757976@twitter](https://twitter.com/JamesHa60757976/status/1399815122022014981) | advertise |
 | [JameThuya2@twitter](https://twitter.com/JameThuya2/status/1396480198325923841) | advertise |
 | [jame_satapon@twitter](https://twitter.com/jame_satapon/status/1381621249554542595) | advertise |
@@ -5023,6 +5025,7 @@ Do not create new issue or we will close it as duplicate.
 | [PrabhashShukl18@twitter](https://twitter.com/PrabhashShukl18/status/1400007457410142211) | advertise |
 | [PrabhatSanyal@twitter](https://twitter.com/PrabhatSanyal/status/1388383067299991557) | advertise |
 | [Prabhu_DS@twitter](https://twitter.com/Prabhu_DS/status/1477876465425281028) | advertise |
+| [pracas@twitter](https://twitter.com/pracas/status/1489507217745530882) | advertise |
 | [practiceacc3@twitter](https://twitter.com/practiceacc3/status/1384126713404084224) | advertise |
 | [pranjalsoni_@twitter](https://twitter.com/pranjalsoni_/status/1419024238070038532) | advertise |
 | [Prasant84597643@twitter](https://twitter.com/Prasant84597643/status/1377798977483984896) | advertise |
@@ -5663,6 +5666,7 @@ Do not create new issue or we will close it as duplicate.
 | [SiKo24471323@twitter](https://twitter.com/SiKo24471323/status/1378174160694779907) | advertise |
 | [Silent37889316@twitter](https://twitter.com/Silent37889316/status/1393149289711300609) | advertise |
 | [sillyc0ffin@twitter](https://twitter.com/sillyc0ffin/status/1400653906410020876) | advertise |
+| [silumansupra@twitter](https://twitter.com/silumansupra/status/1489505985224151044) | advertise |
 | [Simon199910@twitter](https://twitter.com/Simon199910/status/1391006292823609344) | advertise |
 | [simonpoortman1@twitter](https://twitter.com/simonpoortman1/status/1450490875281297408) | advertise |
 | [Simonx671@twitter](https://twitter.com/Simonx671/status/1394388837598629894) | advertise |
