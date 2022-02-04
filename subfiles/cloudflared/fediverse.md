@@ -25,10 +25,10 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 157 |
-| com | 121 |
+| social | 156 |
+| com | 120 |
 | net | 99 |
-| org | 72 |
+| org | 73 |
 | jp | 49 |
 
 
@@ -89,7 +89,6 @@ Here's a list of public Fediverse services.
 | assortedflotsam.com | No |
 | august-don.site | Yes |
 | auronplay.social | No |
-| ausglam.space | No |
 | avantwhatever.org | No |
 | awoo.pub | Yes |
 | b612.me | Yes |
@@ -139,7 +138,6 @@ Here's a list of public Fediverse services.
 | carnivore.social | Yes |
 | catdon.life | No |
 | catgram.jp | Yes |
-| cathode.church | No |
 | cawfee.club | No |
 | chabant.social | No |
 | chablis.social | No |
@@ -153,6 +151,7 @@ Here's a list of public Fediverse services.
 | chromabits.com | No |
 | cigarcabin.com | No |
 | circus.town | No |
+| clacks.link | No |
 | claris.cf | No |
 | climatejustice.social | No |
 | club.darknight-coffee.eu | No |
@@ -197,6 +196,7 @@ Here's a list of public Fediverse services.
 | don.mamemo.online | Yes |
 | don.neso.tech | No |
 | dotgr.id | No |
+| dragon.style | No |
 | dragonscave.space | No |
 | drake.network | No |
 | dramaless.co.uk | No |
@@ -305,6 +305,7 @@ Here's a list of public Fediverse services.
 | gfk.social | No |
 | ggtea.org | No |
 | gingadon.com | Yes |
+| girlcock.club | No |
 | gla.fit | No |
 | glaceon.social | No |
 | glammr.us | No |
@@ -380,7 +381,6 @@ Here's a list of public Fediverse services.
 | iys.io | Yes |
 | jako.social | Yes |
 | janogdon.net | No |
-| jauntygoat.net | No |
 | jawns.club | No |
 | jenna.masto.host | No |
 | jitakurack.chotto.moe | No |
@@ -436,6 +436,7 @@ Here's a list of public Fediverse services.
 | lewd.town | No |
 | lgbt.im | Yes |
 | lgbt.io | No |
+| liber.chocoflan.net | No |
 | liberal.city | No |
 | liberalism.masto.host | No |
 | liberdon.com | Yes |
@@ -462,7 +463,6 @@ Here's a list of public Fediverse services.
 | m.divita.eu | No |
 | m.g3l.org | No |
 | m.hitorino.moe | Yes |
-| m.hxbus.net | No |
 | m.laitues.net | No |
 | m.loovto.net | No |
 | m.moe.cat | No |
@@ -629,7 +629,6 @@ Here's a list of public Fediverse services.
 | mastodon.nogods.be | No |
 | mastodon.noizycat.com | No |
 | mastodon.nu | No |
-| mastodon.nz | No |
 | mastodon.nzoss.nz | No |
 | mastodon.oeru.org | No |
 | mastodon.oi7.de | No |
@@ -966,6 +965,8 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
+| rva.party | No |
+| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | salocha.online | No |
@@ -1066,6 +1067,7 @@ Here's a list of public Fediverse services.
 | social.jesuislibre.net | No |
 | social.ksite.de | No |
 | social.lescorpsdereve.space | Yes |
+| social.levelxstudios.org | No |
 | social.librem.one | No |
 | social.linux.pizza | No |
 | social.logilab.org | No |
@@ -1086,7 +1088,6 @@ Here's a list of public Fediverse services.
 | social.oupsman.fr | No |
 | social.patapouf.xyz | No |
 | social.politicaconciencia.org | No |
-| social.rastapuls.com | No |
 | social.rooty.fr | No |
 | social.saarland | No |
 | social.seattle.wa.us | No |
@@ -1118,7 +1119,6 @@ Here's a list of public Fediverse services.
 | social.van-hemmen.com | No |
 | social.veganact.org.au | No |
 | social.vikings.net | No |
-| social.weho.st | No |
 | social.wien.rocks | No |
 | social.wxcafe.net | No |
 | social.xthemage.net | No |
@@ -1154,7 +1154,6 @@ Here's a list of public Fediverse services.
 | swiss-chaos.social | No |
 | switter.at | No |
 | switter.nl | No |
-| systerserver.town | No |
 | tabletop.social | No |
 | takumi.fun | No |
 | taote.uk | No |
@@ -1278,7 +1277,6 @@ Here's a list of public Fediverse services.
 | welldn.net | No |
 | welt.all.de | No |
 | werebeast.io | No |
-| whitespashe.uk | No |
 | witches.live | No |
 | witchey.club | No |
 | wobscale.social | No |
@@ -1286,7 +1284,6 @@ Here's a list of public Fediverse services.
 | workaholic.cloud | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
@@ -1319,8 +1316,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 257 |
-| Normal | 1,022 |
+| Cloudflare | 258 |
+| Normal | 1,018 |
 
 
-### 20.1% of public Fediverse services are using Cloudflare.
+### 20.2% of public Fediverse services are using Cloudflare.
