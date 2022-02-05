@@ -1361,6 +1361,7 @@ Do not create new issue or we will close it as duplicate.
 | [De6Bi@twitter](https://twitter.com/De6Bi/status/1401432705661693956) | advertise |
 | [DeanFreer@twitter](https://twitter.com/DeanFreer/status/1382581349039607808) | advertise |
 | [DeanHenderson7@twitter](https://twitter.com/DeanHenderson7/status/1396517667079548928) | advertise |
+| [Deaniocom@twitter](https://twitter.com/Deaniocom/status/1489784169433550848) | advertise |
 | [DeanJackson84@twitter](https://twitter.com/DeanJackson84/status/1456325790740668423) | advertise |
 | [debadri95@twitter](https://twitter.com/debadri95/status/1392537186545790976) | advertise |
 | [DeddyBigreds@twitter](https://twitter.com/DeddyBigreds/status/1400098132445130754) | advertise |
