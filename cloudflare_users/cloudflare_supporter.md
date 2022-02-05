@@ -899,6 +899,7 @@ Do not create new issue or we will close it as duplicate.
 | [Blackpysc2@twitter](https://twitter.com/Blackpysc2/status/1385634687595417604) | advertise |
 | [blacksh04937800@twitter](https://twitter.com/blacksh04937800/status/1390972744284610561) | advertise |
 | [BlackSo24069048@twitter](https://twitter.com/BlackSo24069048/status/1379285961800998918) | advertise |
+| [black_bracken@twitter](https://twitter.com/black_bracken/status/1489708985569607681) | advertise |
 | [Blade54498467@twitter](https://twitter.com/Blade54498467/status/1404463469127254017) | advertise |
 | [bladeandsuol@twitter](https://twitter.com/bladeandsuol/status/1396102958832521221) | advertise |
 | [BLAKKCASTRO305@twitter](https://twitter.com/BLAKKCASTRO305/status/1437928671680020480) | advertise |
@@ -6276,6 +6277,7 @@ Do not create new issue or we will close it as duplicate.
 | [thuvienpdf@twitter](https://twitter.com/thuvienpdf/status/1420008807921426432) | advertise |
 | [thuya69639150@twitter](https://twitter.com/thuya69639150/status/1397246827980800000) | advertise |
 | [Thuya70553078@twitter](https://twitter.com/Thuya70553078/status/1390482599189966853) | advertise |
+| [ThuyaKyawThu9@twitter](https://twitter.com/ThuyaKyawThu9/status/1489718945468715008) | advertise |
 | [ThuYaSwe15@twitter](https://twitter.com/ThuYaSwe15/status/1392331980348399618) | advertise |
 | [ThuYaZa04572367@twitter](https://twitter.com/ThuYaZa04572367/status/1377631395560841220) | advertise |
 | [Thuyaza59130075@twitter](https://twitter.com/Thuyaza59130075/status/1397632478748155904) | advertise |
@@ -6523,6 +6525,7 @@ Do not create new issue or we will close it as duplicate.
 | [Twyla54100915@twitter](https://twitter.com/Twyla54100915/status/1377527323654725636) | advertise |
 | [Tygrin1@twitter](https://twitter.com/Tygrin1/status/1400084109523832847) | advertise |
 | [tylerkb7873@twitter](https://twitter.com/tylerkb7873/status/1484538703309459459) | advertise |
+| [TylerRoblox49@twitter](https://twitter.com/TylerRoblox49/status/1489700451000123392) | advertise |
 | [Tyler_Scafidi@twitter](https://twitter.com/Tyler_Scafidi/status/1419581282544128001) | advertise |
 | [TYOo74606781@twitter](https://twitter.com/TYOo74606781/status/1395431162689081350) | advertise |
 | [Typicalfc@twitter](https://twitter.com/Typicalfc/status/1418490157586554881) | advertise |
