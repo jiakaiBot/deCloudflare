@@ -1752,6 +1752,7 @@ Do not create new issue or we will close it as duplicate.
 | [fof15797974@twitter](https://twitter.com/fof15797974/status/1487706959914565632) | advertise |
 | [Foguzz_narak@twitter](https://twitter.com/Foguzz_narak/status/1405488230351347722) | advertise |
 | [followpots@twitter](https://twitter.com/followpots/status/1393134168721162240) | advertise |
+| [FonDz92@twitter](https://twitter.com/FonDz92/status/1490357052706725895) | advertise |
 | [fonkon99@twitter](https://twitter.com/fonkon99/status/1396068557625073671) | advertise |
 | [FoodSokla@twitter](https://twitter.com/FoodSokla/status/1403218484138442754) | advertise |
 | [foreveraloneami@twitter](https://twitter.com/foreveraloneami/status/1382509367673561088) | advertise |
@@ -5902,6 +5903,7 @@ Do not create new issue or we will close it as duplicate.
 | [SumitDhangar13@twitter](https://twitter.com/SumitDhangar13/status/1386664848684052484) | advertise |
 | [summer080820155@twitter](https://twitter.com/summer080820155/status/1395076684030742534) | advertise |
 | [sumodirjo@twitter](https://twitter.com/sumodirjo/status/1403164349913460738) | advertise |
+| [SuMonKy89060948@twitter](https://twitter.com/SuMonKy89060948/status/1490345389752750082) | advertise |
 | [SuMyatM95509442@twitter](https://twitter.com/SuMyatM95509442/status/1377886575887982594) | advertise |
 | [SUMYATN52810676@twitter](https://twitter.com/SUMYATN52810676/status/1390850467614269443) | advertise |
 | [Sun04138205@twitter](https://twitter.com/Sun04138205/status/1393167415064764417) | advertise |
