@@ -157,6 +157,7 @@ Do not create new issue or we will close it as duplicate.
 | [AboutBenidorm@twitter](https://twitter.com/AboutBenidorm/status/1418722295384879105) | advertise |
 | [ABRAHAM21227313@twitter](https://twitter.com/ABRAHAM21227313/status/1388051088507510794) | advertise |
 | [Abre74180404@twitter](https://twitter.com/Abre74180404/status/1396704011009413120) | advertise |
+| [AccioLaw@twitter](https://twitter.com/AccioLaw/status/1490055581062807553) | advertise |
 | [AceCork@twitter](https://twitter.com/AceCork/status/1385313787452985349) | advertise |
 | [Achalkishore1@twitter](https://twitter.com/Achalkishore1/status/1386981518464090113) | advertise |
 | [AChanMay4@twitter](https://twitter.com/AChanMay4/status/1400031938719760385) | advertise |
@@ -5562,6 +5563,7 @@ Do not create new issue or we will close it as duplicate.
 | [seng56247896@twitter](https://twitter.com/seng56247896/status/1394390113539567617) | advertise |
 | [senpei2000@twitter](https://twitter.com/senpei2000/status/1395706478577602561) | advertise |
 | [SEOforWebsite4@twitter](https://twitter.com/SEOforWebsite4/status/1374211700317032448) | advertise |
+| [SeoMihail@twitter](https://twitter.com/SeoMihail/status/1490084436704215056) | advertise |
 | [seospecialistrk@twitter](https://twitter.com/seospecialistrk/status/1391178243244380164) | advertise |
 | [Sep19810@twitter](https://twitter.com/Sep19810/status/1403778268524806144) | advertise |
 | [Seraphino2021@twitter](https://twitter.com/Seraphino2021/status/1391001738505637893) | advertise |
