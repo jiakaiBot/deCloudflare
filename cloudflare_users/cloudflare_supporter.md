@@ -64,6 +64,7 @@ Do not create new issue or we will close it as duplicate.
 | [4DSxDARK1@twitter](https://twitter.com/4DSxDARK1/status/1379416647505616902) | advertise |
 | [4Taff@twitter](https://twitter.com/4Taff/status/1397536462606831617) | advertise |
 | [5ss_ss4@twitter](https://twitter.com/5ss_ss4/status/1483667377044828160) | advertise |
+| [6lizzys@twitter](https://twitter.com/6lizzys/status/1490561482525855747) | advertise |
 | [6October8@twitter](https://twitter.com/6October8/status/1382415935454199815) | advertise |
 | [6PpXPysVDb3lCRH@twitter](https://twitter.com/6PpXPysVDb3lCRH/status/1467321870181494785) | advertise |
 | [7amahanti@twitter](https://twitter.com/7amahanti/status/1470204452657242114) | advertise |
@@ -436,6 +437,7 @@ Do not create new issue or we will close it as duplicate.
 | [Anurudd46531427@twitter](https://twitter.com/Anurudd46531427/status/1397831327127199744) | advertise |
 | [anushka_wije@twitter](https://twitter.com/anushka_wije/status/1370919655980691461) | advertise |
 | [anusuyashetty12@twitter](https://twitter.com/anusuyashetty12/status/1386658904491261956) | advertise |
+| [an_bitcoin@twitter](https://twitter.com/an_bitcoin/status/1490527352249536514) | advertise |
 | [Ao16112660@twitter](https://twitter.com/Ao16112660/status/1392660296032940032) | advertise |
 | [AoJo42113946@twitter](https://twitter.com/AoJo42113946/status/1388823215775092742) | advertise |
 | [aokarkyaw007@twitter](https://twitter.com/aokarkyaw007/status/1404758206526615560) | advertise |
@@ -444,6 +446,7 @@ Do not create new issue or we will close it as duplicate.
 | [AOneKoKo1@twitter](https://twitter.com/AOneKoKo1/status/1396348320163930112) | advertise |
 | [ap1998106822@twitter](https://twitter.com/ap1998106822/status/1389791514016948225) | advertise |
 | [apa4h@twitter](https://twitter.com/apa4h/status/1379030071202185217) | advertise |
+| [ApAp33062813@twitter](https://twitter.com/ApAp33062813/status/1490578123163054088) | advertise |
 | [APhyuYaung10@twitter](https://twitter.com/APhyuYaung10/status/1381663498736963589) | advertise |
 | [apollon8825@twitter](https://twitter.com/apollon8825/status/1389773014586347524) | advertise |
 | [Apple77742684@twitter](https://twitter.com/Apple77742684/status/1398675272526745603) | advertise |
@@ -1019,6 +1022,7 @@ Do not create new issue or we will close it as duplicate.
 | [BurmaTravelClub@twitter](https://twitter.com/BurmaTravelClub/status/1390846703230541825) | advertise |
 | [BurungHantu1605@github.com](https://github.com/BurungHantu1605) | moral (PR defacement) |
 | [BurungHantu@social.privacytools.io](https://social.privacytools.io/@BurungHantu) | moral (PR defacement) |
+| [ButtersWorldInc@twitter](https://twitter.com/ButtersWorldInc/status/1490553710006587393) | advertise |
 | [BVnNh4@twitter](https://twitter.com/BVnNh4/status/1382221207257354242) | advertise |
 | [BWpzQGeCJgL7bmi@twitter](https://twitter.com/BWpzQGeCJgL7bmi/status/1386781006506516485) | advertise |
 | [byambamk@twitter](https://twitter.com/byambamk/status/1390722042400444418) | advertise |
@@ -3488,6 +3492,7 @@ Do not create new issue or we will close it as duplicate.
 | [LKhngNinh2@twitter](https://twitter.com/LKhngNinh2/status/1381900715262550016) | advertise |
 | [lknk_adorebot@twitter](https://twitter.com/lknk_adorebot/status/1390972492995432454) | advertise |
 | [llama_cadu@twitter](https://twitter.com/llama_cadu/status/1480054499846856710) | advertise |
+| [ll_ofi@twitter](https://twitter.com/ll_ofi/status/1490596081264214016) | advertise |
 | [Lm66613075@twitter](https://twitter.com/Lm66613075/status/1386781095681687555) | advertise |
 | [LMinhNh79435274@twitter](https://twitter.com/LMinhNh79435274/status/1406318506778382336) | advertise |
 | [LmSkyler1@twitter](https://twitter.com/LmSkyler1/status/1480205347851993099) | advertise |
@@ -3513,6 +3518,7 @@ Do not create new issue or we will close it as duplicate.
 | [Longgg94106580@twitter](https://twitter.com/Longgg94106580/status/1405171698526154758) | advertise |
 | [Longggisme@twitter](https://twitter.com/Longggisme/status/1398005281842335744) | advertise |
 | [longu3t@twitter](https://twitter.com/longu3t/status/1478738046967169026) | advertise |
+| [long_trab@twitter](https://twitter.com/long_trab/status/1490557973038452738) | advertise |
 | [LoppoZ@twitter](https://twitter.com/LoppoZ/status/1377122374617681922) | advertise |
 | [lordcurtis@twitter](https://twitter.com/lordcurtis/status/1479481798061027328) | advertise |
 | [Loren75832409@twitter](https://twitter.com/Loren75832409/status/1395048080441962505) | advertise |
@@ -4743,6 +4749,7 @@ Do not create new issue or we will close it as duplicate.
 | [Op17830456@twitter](https://twitter.com/Op17830456/status/1378217756483411968) | advertise |
 | [openprivacy.ca](https://openprivacy.ca/) | by deleting git without warning |
 | [open_teck@twitter](https://twitter.com/open_teck/status/1377209508976594948) | advertise |
+| [OPOKUPRINCE334@twitter](https://twitter.com/OPOKUPRINCE334/status/1490576779198836736) | advertise |
 | [Optimal604@twitter](https://twitter.com/Optimal604/status/1390554059254292481) | advertise |
 | [Optimeast@twitter](https://twitter.com/Optimeast/status/1401416582413307904) | advertise |
 | [Ora33654854@twitter](https://twitter.com/Ora33654854/status/1390769586522443776) | advertise |
@@ -5222,6 +5229,7 @@ Do not create new issue or we will close it as duplicate.
 | [RashidJrn@twitter](https://twitter.com/RashidJrn/status/1393139111981113351) | advertise |
 | [Rasikalink@twitter](https://twitter.com/Rasikalink/status/1430962085832413187) | advertise |
 | [RasoniyaSandeep@twitter](https://twitter.com/RasoniyaSandeep/status/1399271913160155138) | advertise |
+| [rastabike@twitter](https://twitter.com/rastabike/status/1490598250877014019) | advertise |
 | [rathurles@twitter](https://twitter.com/rathurles/status/1392191436976578564) | advertise |
 | [ratthanan578@twitter](https://twitter.com/ratthanan578/status/1389495697649508353) | advertise |
 | [raulc27@twitter](https://twitter.com/raulc27/status/1462220220798582789) | advertise |
