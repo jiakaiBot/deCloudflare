@@ -2733,6 +2733,7 @@ Do not create new issue or we will close it as duplicate.
 | [Joshua36202734@twitter](https://twitter.com/Joshua36202734/status/1388884857653137415) | advertise |
 | [JpMatuto@twitter](https://twitter.com/JpMatuto/status/1388240079810973699) | advertise |
 | [jprasanth2006@twitter](https://twitter.com/jprasanth2006/status/1481836188277567488) | advertise |
+| [Jscns2@twitter](https://twitter.com/Jscns2/status/1490713060692328448) | advertise |
 | [JSongtakri@twitter](https://twitter.com/JSongtakri/status/1380804099340439556) | advertise |
 | [JTdoodler@twitter](https://twitter.com/JTdoodler/status/1441130159227252738) | advertise |
 | [JubearHossan@twitter](https://twitter.com/JubearHossan/status/1472037401329504257) | advertise |
@@ -4441,6 +4442,7 @@ Do not create new issue or we will close it as duplicate.
 | [ngquyn54528746@twitter](https://twitter.com/ngquyn54528746/status/1401564893061423107) | advertise |
 | [NgThL12256552@twitter](https://twitter.com/NgThL12256552/status/1401781008962256900) | advertise |
 | [ngThng40292776@twitter](https://twitter.com/ngThng40292776/status/1403367249797292041) | advertise |
+| [ngubaven1@twitter](https://twitter.com/ngubaven1/status/1490672816022507520) | advertise |
 | [nguthinung@twitter](https://twitter.com/nguthinung/status/1388157982295302145) | advertise |
 | [nguwaheden@twitter](https://twitter.com/nguwaheden/status/1395244958097940481) | advertise |
 | [Nguyen06650053@twitter](https://twitter.com/Nguyen06650053/status/1469787978830548994) | advertise |
@@ -4694,6 +4696,7 @@ Do not create new issue or we will close it as duplicate.
 | [Oai83223657@twitter](https://twitter.com/Oai83223657/status/1398312021532188684) | advertise |
 | [Oakar10272130@twitter](https://twitter.com/Oakar10272130/status/1391927452830683136) | advertise |
 | [OakSoe_95@twitter](https://twitter.com/OakSoe_95/status/1390580036474793988) | advertise |
+| [oBHp4@twitter](https://twitter.com/oBHp4/status/1490716075268665347) | advertise |
 | [obliquum@twitter](https://twitter.com/obliquum/status/1394296794994012163) | advertise |
 | [OButhum@twitter](https://twitter.com/OButhum/status/1393372232093556739) | advertise |
 | [OdariMc@twitter](https://twitter.com/OdariMc/status/1380700664016334848) | advertise |
@@ -5480,6 +5483,7 @@ Do not create new issue or we will close it as duplicate.
 | [San28038087@twitter](https://twitter.com/San28038087/status/1477529662368612354) | advertise |
 | [Sandar52132535@twitter](https://twitter.com/Sandar52132535/status/1394888826120638468) | advertise |
 | [SandarS54620286@twitter](https://twitter.com/SandarS54620286/status/1384767444019867648) | advertise |
+| [sandeep_sudheer@twitter](https://twitter.com/sandeep_sudheer/status/1490635456404668419) | advertise |
 | [SandhyaRane5@twitter](https://twitter.com/SandhyaRane5/status/1394610980940775433) | advertise |
 | [Sang07868631@twitter](https://twitter.com/Sang07868631/status/1379370980750032901) | advertise |
 | [sang22793@twitter](https://twitter.com/sang22793/status/1399137755326672896) | advertise |
