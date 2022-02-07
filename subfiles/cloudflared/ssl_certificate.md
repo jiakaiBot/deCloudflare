@@ -8,7 +8,7 @@ SSL certificates are issued by a trusted `Certificate Authority`(CA).
 | --- | --- |
 | ![](../../image/meme/cloudflare_selfsign.jpg) | ![](../../image/iminurtls.jpg) |
 
-Do you have any idea how many % of them are issued to Cloudflare sites?
+Do you have any idea how many % of them are issued to CloudFlare sites?
 
 
 | Date | Issued Certificates | Issued to CF sites | % |
