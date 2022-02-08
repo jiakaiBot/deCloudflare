@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-02-07: [Zero Trust private routing](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bgw29zml0qsz)
 - 2022-02-03: [Network Performance Issues in Marseille, France](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9kbl5kwq8hgv)
 - 2022-02-01: [Network Performance Issues in Karachi, Pakistan.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5skthcvwn770)
 - 2022-01-28: [Network connectivity issues in the New York metro area](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/92484s92dqn9)
