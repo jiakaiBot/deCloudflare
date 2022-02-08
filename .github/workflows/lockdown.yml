@@ -17,6 +17,6 @@ jobs:
           github-token: ${{ github.token }}
           pr-comment: >
             This repository does not accept pull requests.
-            Please create your PR at http://crimeflare.eu.org
+            Please help us at http://crimeflare.eu.org
           skip-closed-issue-comment: true
           skip-closed-pr-comment: true
