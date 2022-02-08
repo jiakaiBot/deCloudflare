@@ -1034,6 +1034,7 @@ Do not create new issue or we will close it as duplicate.
 | [c95405246@twitter](https://twitter.com/c95405246/status/1397498966304980999) | advertise |
 | [cabbage0102@twitter](https://twitter.com/cabbage0102/status/1415316191942299651) | advertise |
 | [Caesar24749342@twitter](https://twitter.com/Caesar24749342/status/1381276732813058049) | advertise |
+| [caizhenghai@twitter](https://twitter.com/caizhenghai/status/1490892229497733121) | advertise |
 | [calicomin99@twitter](https://twitter.com/calicomin99/status/1395979320401620992) | advertise |
 | [callmebyurnam18@twitter](https://twitter.com/callmebyurnam18/status/1401480809123508227) | advertise |
 | [calmyourtittiez@twitter](https://twitter.com/calmyourtittiez/status/1392510606515658757) | advertise |
@@ -1701,6 +1702,7 @@ Do not create new issue or we will close it as duplicate.
 | [FactNewNetwork@twitter](https://twitter.com/FactNewNetwork/status/1463480582784962560) | advertise |
 | [faighenzho@twitter](https://twitter.com/faighenzho/status/1382412226925973506) | advertise |
 | [FaisalHossine@twitter](https://twitter.com/FaisalHossine/status/1386253418218491905) | advertise |
+| [FaiSky_@twitter](https://twitter.com/FaiSky_/status/1490832227327823872) | advertise |
 | [faithholler@twitter](https://twitter.com/faithholler/status/1402484525519810562) | advertise |
 | [FaizaanKahn@twitter](https://twitter.com/FaizaanKahn/status/1390946598117515265) | advertise |
 | [FaizalKhanbb@twitter](https://twitter.com/FaizalKhanbb/status/1379243028213284867) | advertise |
@@ -1821,6 +1823,7 @@ Do not create new issue or we will close it as duplicate.
 | [GarrettsNetwork@twitter](https://twitter.com/GarrettsNetwork/status/1475938283850973195) | advertise |
 | [Gaurav33875221@twitter](https://twitter.com/Gaurav33875221/status/1387072373430521865) | advertise |
 | [Gaurav___P@twitter](https://twitter.com/Gaurav___P/status/1389646942062321666) | advertise |
+| [gavin_mcdonnell@twitter](https://twitter.com/gavin_mcdonnell/status/1490759245926748162) | advertise |
 | [gaxmed1@twitter](https://twitter.com/gaxmed1/status/1398296021562703874) | advertise |
 | [gaymyanmarboy@twitter](https://twitter.com/gaymyanmarboy/status/1395204364327743489) | advertise |
 | [GaysohbetTurk@twitter](https://twitter.com/GaysohbetTurk/status/1450949056872816640) | advertise |
@@ -2198,6 +2201,7 @@ Do not create new issue or we will close it as duplicate.
 | [holmeszyx@twitter](https://twitter.com/holmeszyx/status/1379404117936893954) | advertise |
 | [homing0922@twitter](https://twitter.com/homing0922/status/1389597408489660421) | advertise |
 | [homkheak@twitter](https://twitter.com/homkheak/status/1392949897683365888) | advertise |
+| [homloveyou@twitter](https://twitter.com/homloveyou/status/1490834810931089411) | advertise |
 | [Hong40127590@twitter](https://twitter.com/Hong40127590/status/1397596489220640774) | advertise |
 | [Hong49711157@twitter](https://twitter.com/Hong49711157/status/1379092889779630082) | advertise |
 | [HongAnh21820534@twitter](https://twitter.com/HongAnh21820534/status/1407925521153859587) | advertise |
@@ -2762,6 +2766,7 @@ Do not create new issue or we will close it as duplicate.
 | [Justin2582003@twitter](https://twitter.com/Justin2582003/status/1396401918914662400) | advertise |
 | [justinchandu1@twitter](https://twitter.com/justinchandu1/status/1377719527098695681) | advertise |
 | [justinkrenek2@twitter](https://twitter.com/justinkrenek2/status/1471386539934502915) | advertise |
+| [justinwjohn@twitter](https://twitter.com/justinwjohn/status/1490784558807011328) | advertise |
 | [justin_t_wesley@twitter](https://twitter.com/justin_t_wesley/status/1451976168446517259) | advertise |
 | [just_twtuser@twitter](https://twitter.com/just_twtuser/status/1396088764192092160) | advertise |
 | [Juxk94@twitter](https://twitter.com/Juxk94/status/1392580129600286730) | advertise |
@@ -2916,6 +2921,7 @@ Do not create new issue or we will close it as duplicate.
 | [keyitme999@twitter](https://twitter.com/keyitme999/status/1488542840011456512) | advertise |
 | [keysiee12@twitter](https://twitter.com/keysiee12/status/1405166173231063044) | advertise |
 | [KgKaLay16@twitter](https://twitter.com/KgKaLay16/status/1401772757898125312) | advertise |
+| [kh6jrm@twitter](https://twitter.com/kh6jrm/status/1490831301485613056) | advertise |
 | [kh76986012@twitter](https://twitter.com/kh76986012/status/1393833121078857735) | advertise |
 | [KhaingCherry2@twitter](https://twitter.com/KhaingCherry2/status/1380042085672349696) | advertise |
 | [KhaingK94885147@twitter](https://twitter.com/KhaingK94885147/status/1389661398599229441) | advertise |
@@ -4996,6 +5002,7 @@ Do not create new issue or we will close it as duplicate.
 | [pin500295@twitter](https://twitter.com/pin500295/status/1405570904269025280) | advertise |
 | [Pineapp43234632@twitter](https://twitter.com/Pineapp43234632/status/1377259907519373322) | advertise |
 | [pinkydinkydoo0@twitter](https://twitter.com/pinkydinkydoo0/status/1386988862241742852) | advertise |
+| [pintusahu49@twitter](https://twitter.com/pintusahu49/status/1490846864597725184) | advertise |
 | [pipe_tin@twitter](https://twitter.com/pipe_tin/status/1394454941666881542) | advertise |
 | [Pipi14325830@twitter](https://twitter.com/Pipi14325830/status/1384741647187992580) | advertise |
 | [Pitokk2@twitter](https://twitter.com/Pitokk2/status/1386209860484669442) | advertise |
@@ -5870,6 +5877,7 @@ Do not create new issue or we will close it as duplicate.
 | [stamp_app@twitter](https://twitter.com/stamp_app/status/1417450714490605568) | advertise |
 | [starpratama@twitter](https://twitter.com/starpratama/status/1409534516167806978) | moral (advertise) |
 | [starwalker89@twitter](https://twitter.com/starwalker89/status/1391244115917033478) | advertise |
+| [Staywitme10@twitter](https://twitter.com/Staywitme10/status/1490936001363021831) | advertise |
 | [StefanJack9@twitter](https://twitter.com/StefanJack9/status/1400858676550725637) | advertise |
 | [Steferine4eva@twitter](https://twitter.com/Steferine4eva/status/1377275017172373506) | advertise |
 | [StellaMunPanKo1@twitter](https://twitter.com/StellaMunPanKo1/status/1378959444080349184) | advertise |
