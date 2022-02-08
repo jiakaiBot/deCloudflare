@@ -94,6 +94,7 @@
 - [CloudFlare Watch](classics/README.md)
 - [About Ss](service.sercxi.md)
 - [Change default DNS provider of Firefox](change-firefox-dns.md)
+- [How to block CloudFlare on Android](block_cloudflare_on_android.md)
 - [How to use Chromium with Tor](chromium_tor.md)
 - [Myth Catalog](myth_catalog.md)
 - [The trouble with Codeberg](the_trouble_with_codeberg.md)
