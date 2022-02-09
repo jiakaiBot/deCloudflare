@@ -327,6 +327,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlmakLimited@twitter](https://twitter.com/AlmakLimited/status/1400534263007678464) | advertise |
 | [almohanad_7rb@twitter](https://twitter.com/almohanad_7rb/status/1396993015231750147) | advertise |
 | [Almosmn8@twitter](https://twitter.com/Almosmn8/status/1398362732534112256) | advertise |
+| [AloneBo61596924@twitter](https://twitter.com/AloneBo61596924/status/1491312904473550848) | advertise |
 | [AlsamiDr@twitter](https://twitter.com/AlsamiDr/status/1390431366794432516) | advertise |
 | [AltafBh79770188@twitter](https://twitter.com/AltafBh79770188/status/1400425714541756416) | advertise |
 | [Altan41272744@twitter](https://twitter.com/Altan41272744/status/1379740295429038083) | advertise |
