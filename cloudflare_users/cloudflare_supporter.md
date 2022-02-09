@@ -2520,6 +2520,7 @@ Do not create new issue or we will close it as duplicate.
 | [isrecommended@twitter](https://twitter.com/isrecommended/status/1469222561577943041) | advertise |
 | [IssaAlabri3@twitter](https://twitter.com/IssaAlabri3/status/1487689307519434754) | advertise |
 | [IssariaVen@twitter](https://twitter.com/IssariaVen/status/1400114063779110916) | advertise |
+| [isumikaga@twitter](https://twitter.com/isumikaga/status/1491420142768918531) | advertise |
 | [Is_Dia_li@twitter](https://twitter.com/Is_Dia_li/status/1390245219795279878) | advertise |
 | [Itachi10737586@twitter](https://twitter.com/Itachi10737586/status/1389877556866740229) | advertise |
 | [Itami971@twitter](https://twitter.com/Itami971/status/1390672676910288896) | advertise |
@@ -3041,6 +3042,7 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6031,6 +6033,7 @@ Do not create new issue or we will close it as duplicate.
 | [TattooNghia@twitter](https://twitter.com/TattooNghia/status/1399085631028879360) | advertise |
 | [TatumGaming@twitter](https://twitter.com/TatumGaming/status/1448827518337888257) | advertise |
 | [Tax40813778@twitter](https://twitter.com/Tax40813778/status/1388201141821796353) | advertise |
+| [taxocrate@twitter](https://twitter.com/taxocrate/status/1491431895590404098) | advertise |
 | [Taygyi6@twitter](https://twitter.com/Taygyi6/status/1392528044842094594) | advertise |
 | [taymon_khanh@twitter](https://twitter.com/taymon_khanh/status/1388779801020747778) | advertise |
 | [TayZ12665178@twitter](https://twitter.com/TayZ12665178/status/1393148042392444933) | advertise |
@@ -6603,6 +6606,7 @@ Do not create new issue or we will close it as duplicate.
 | [UHanHtet1@twitter](https://twitter.com/UHanHtet1/status/1396313963051298818) | advertise |
 | [UHtike_@twitter](https://twitter.com/UHtike_/status/1390057336333426691) | advertise |
 | [uislis@twitter](https://twitter.com/uislis/status/1383408197793325062) | advertise |
+| [ulaknews@twitter](https://twitter.com/ulaknews/status/1491377544330809346) | advertise |
 | [ULay99705792@twitter](https://twitter.com/ULay99705792/status/1394445652147404802) | advertise |
 | [ulaygyi245@twitter](https://twitter.com/ulaygyi245/status/1389821983290892290) | advertise |
 | [UMinthu84921464@twitter](https://twitter.com/UMinthu84921464/status/1381438301366747136) | advertise |
@@ -6669,6 +6673,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vegans4Trump@twitter](https://twitter.com/Vegans4Trump/status/1475146808309526534) | advertise |
 | [venkats02968750@twitter](https://twitter.com/venkats02968750/status/1402898594030526468) | advertise |
 | [Venn34541103@twitter](https://twitter.com/Venn34541103/status/1397760420249804800) | advertise |
+| [Veno55209967@twitter](https://twitter.com/Veno55209967/status/1491422483966468100) | advertise |
 | [Venus94618205@twitter](https://twitter.com/Venus94618205/status/1394980396618682370) | advertise |
 | [VenusKhang@twitter](https://twitter.com/VenusKhang/status/1401099072740626434) | advertise |
 | [Verchel8@twitter](https://twitter.com/Verchel8/status/1395056149972484098) | advertise |
@@ -6856,6 +6861,7 @@ Do not create new issue or we will close it as duplicate.
 | [williamsoe2020@twitter](https://twitter.com/williamsoe2020/status/1486584442055323648) | advertise |
 | [wills143jt@twitter](https://twitter.com/wills143jt/status/1402910570215477249) | advertise |
 | [wills_wire@twitter](https://twitter.com/wills_wire/status/1464226826859995139) | advertise |
+| [wilyourememberr@twitter](https://twitter.com/wilyourememberr/status/1491422233499430914) | advertise |
 | [win4_zin@twitter](https://twitter.com/win4_zin/status/1385173217396940806) | advertise |
 | [win55818@twitter](https://twitter.com/win55818/status/1398542432480886787) | advertise |
 | [WinBo30180694@twitter](https://twitter.com/WinBo30180694/status/1390247886076579840) | advertise |
