@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 157 |
-| com | 121 |
+| com | 122 |
 | net | 101 |
-| org | 73 |
+| org | 72 |
 | jp | 49 |
 
 
@@ -100,6 +100,7 @@ Here's a list of public Fediverse services.
 | bangdream.space | Yes |
 | baraag.net | Yes |
 | barcamp.social | No |
+| bdx.town | No |
 | beach.city | No |
 | bear.community | No |
 | beepboop.one | No |
@@ -267,6 +268,7 @@ Here's a list of public Fediverse services.
 | framapiaf.org | No |
 | free-le.info | No |
 | freeatlantis.com | No |
+| freedom.horse | No |
 | freeframe.masto.host | No |
 | freeradical.zone | No |
 | freesocial.co | Yes |
@@ -587,7 +589,6 @@ Here's a list of public Fediverse services.
 | mastodon.iriseden.eu | No |
 | mastodon.iut-larochelle.fr | No |
 | mastodon.izzz.fr | No |
-| mastodon.jalgi.eus | No |
 | mastodon.juggler.jp | No |
 | mastodon.kaonet-fr.net | No |
 | mastodon.kebree.fr | No |
@@ -819,6 +820,7 @@ Here's a list of public Fediverse services.
 | nebbia.fail | No |
 | nejiamasi.com | No |
 | nemushee.net | Yes |
+| neoziggurat.com | No |
 | nerdculture.de | No |
 | net4sw.com | No |
 | neue.city | No |
@@ -870,6 +872,7 @@ Here's a list of public Fediverse services.
 | ostatus.yoh2.ddo.jp | No |
 | otoya.space | Yes |
 | oulipo.social | No |
+| outdoors.social | No |
 | p.umbriel.fr | No |
 | pachyder.me | No |
 | pachyderm.herokuapp.com | No |
@@ -900,7 +903,6 @@ Here's a list of public Fediverse services.
 | pleroma.anduin.net | No |
 | pleroma.chirno.tech | No |
 | pleroma.envs.net | No |
-| pleroma.funkymonkey.org | No |
 | pleroma.gdgd.jp.net | Yes |
 | pleroma.marud.fr | No |
 | pleroma.massivebox.eu.org | No |
@@ -965,6 +967,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
+| rva.party | No |
 | s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
@@ -1119,6 +1122,7 @@ Here's a list of public Fediverse services.
 | social.van-hemmen.com | No |
 | social.veganact.org.au | No |
 | social.vikings.net | No |
+| social.weho.st | No |
 | social.wien.rocks | No |
 | social.wxcafe.net | No |
 | social.xthemage.net | No |
@@ -1194,6 +1198,7 @@ Here's a list of public Fediverse services.
 | toot-lab.reclaim.technology | No |
 | toot.aquilenet.fr | No |
 | toot.blue | No |
+| toot.cafe | No |
 | toot.cat | No |
 | toot.fedilab.app | No |
 | toot.gnous.eu | No |
@@ -1284,7 +1289,6 @@ Here's a list of public Fediverse services.
 | workaholic.cloud | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
@@ -1318,7 +1322,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 259 |
-| Normal | 1,018 |
+| Normal | 1,022 |
 
 
-### 20.3% of public Fediverse services are using Cloudflare.
+### 20.2% of public Fediverse services are using Cloudflare.
