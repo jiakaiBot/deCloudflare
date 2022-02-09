@@ -2651,6 +2651,7 @@ Do not create new issue or we will close it as duplicate.
 | [JHoonbabe@twitter](https://twitter.com/JHoonbabe/status/1390549372186730498) | advertise |
 | [jHxLav8ObDrTdrc@twitter](https://twitter.com/jHxLav8ObDrTdrc/status/1401749357381120000) | advertise |
 | [Jibin1291@twitter](https://twitter.com/Jibin1291/status/1486566580121079809) | advertise |
+| [jibutare@twitter](https://twitter.com/jibutare/status/1491201904231477248) | advertise |
 | [jiiahani@twitter](https://twitter.com/jiiahani/status/1399603047244853249) | advertise |
 | [JiiSaaduddin@twitter](https://twitter.com/JiiSaaduddin/status/1429958660575293466) | advertise |
 | [jimfinch@twitter](https://twitter.com/jimfinch/status/1441444567342014465) | advertise |
@@ -6109,6 +6110,7 @@ Do not create new issue or we will close it as duplicate.
 | [thanh68833332@twitter](https://twitter.com/thanh68833332/status/1402884885887393795) | advertise |
 | [Thanh95833956@twitter](https://twitter.com/Thanh95833956/status/1403223547883900934) | advertise |
 | [ThanhHn57270279@twitter](https://twitter.com/ThanhHn57270279/status/1391899749683400706) | advertise |
+| [Thanhlo12816342@twitter](https://twitter.com/Thanhlo12816342/status/1491166476782702592) | advertise |
 | [ThanhPh44294737@twitter](https://twitter.com/ThanhPh44294737/status/1383122715314249733) | advertise |
 | [thanhphan012@twitter](https://twitter.com/thanhphan012/status/1402846567653019652) | advertise |
 | [Thanhsa70320755@twitter](https://twitter.com/Thanhsa70320755/status/1402283537303162887) | advertise |
