@@ -25,8 +25,8 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 157 |
-| com | 122 |
+| social | 155 |
+| com | 121 |
 | net | 101 |
 | org | 72 |
 | jp | 49 |
@@ -118,7 +118,6 @@ Here's a list of public Fediverse services.
 | biscuit.town | No |
 | bitcoinhackers.org | Yes |
 | bittube.social | No |
-| blahut.tech | Yes |
 | blessedgeeks.social | No |
 | blockriot.com | No |
 | blog.fami.ga | No |
@@ -600,7 +599,6 @@ Here's a list of public Fediverse services.
 | mastodon.ladn.org | No |
 | mastodon.lat | No |
 | mastodon.lavergne.online | No |
-| mastodon.lermer.nl | No |
 | mastodon.lertsenem.com | No |
 | mastodon.lhin.space | No |
 | mastodon.libre-entreprise.com | No |
@@ -820,7 +818,6 @@ Here's a list of public Fediverse services.
 | nebbia.fail | No |
 | nejiamasi.com | No |
 | nemushee.net | Yes |
-| neoziggurat.com | No |
 | nerdculture.de | No |
 | net4sw.com | No |
 | neue.city | No |
@@ -859,9 +856,7 @@ Here's a list of public Fediverse services.
 | onlyfeds.cc | Yes |
 | onthesecond.com | No |
 | ontological.city | No |
-| openbiblio.social | No |
 | oransns.com | No |
-| orbsafe.masto.host | No |
 | orenda.social | No |
 | orz.uno | Yes |
 | oslo.town | No |
@@ -1270,7 +1265,6 @@ Here's a list of public Fediverse services.
 | voi.social | No |
 | voring.me | No |
 | vorlon.space | No |
-| vrparty.social | Yes |
 | vtubers.social | Yes |
 | vulpine.club | Yes |
 | w3r.jp | No |
@@ -1321,8 +1315,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 259 |
-| Normal | 1,022 |
+| Cloudflare | 257 |
+| Normal | 1,018 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
