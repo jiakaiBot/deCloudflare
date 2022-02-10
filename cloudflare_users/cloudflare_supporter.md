@@ -1891,6 +1891,7 @@ Do not create new issue or we will close it as duplicate.
 | [GOODBOY97725961@twitter](https://twitter.com/GOODBOY97725961/status/1384905237190922246) | advertise |
 | [GoodTwins3@twitter](https://twitter.com/GoodTwins3/status/1379579295392264196) | advertise |
 | [GoonerDat@twitter](https://twitter.com/GoonerDat/status/1383745932093583360) | advertise |
+| [gopichandde@twitter](https://twitter.com/gopichandde/status/1491454298060103680) | advertise |
 | [GopiKri84108993@twitter](https://twitter.com/GopiKri84108993/status/1397557588934463494) | advertise |
 | [gopu0000@twitter](https://twitter.com/gopu0000/status/1373964703701987330) | advertise |
 | [Gord45205715@twitter](https://twitter.com/Gord45205715/status/1389474643371692035) | advertise |
@@ -1945,6 +1946,7 @@ Do not create new issue or we will close it as duplicate.
 | [h29id@twitter](https://twitter.com/h29id/status/1370211563068551170) | advertise |
 | [HabijulKhan8@twitter](https://twitter.com/HabijulKhan8/status/1405041121261080576) | advertise |
 | [hack3r_oneness@twitter](https://twitter.com/hack3r_oneness/status/1399036170223308803) | advertise |
+| [HackersOIHEC@twitter](https://twitter.com/HackersOIHEC/status/1478127124368269317) | advertise |
 | [HackersOmhe@twitter](https://twitter.com/HackersOmhe/status/1478127124368269317) | advertise |
 | [HadiENG97@twitter](https://twitter.com/HadiENG97/status/1398555961468538881) | advertise |
 | [hadifalahi2@twitter](https://twitter.com/hadifalahi2/status/1472753900117794825) | advertise |
@@ -5522,6 +5524,7 @@ Do not create new issue or we will close it as duplicate.
 | [SANTOSH40605886@twitter](https://twitter.com/SANTOSH40605886/status/1386724216775446530) | advertise |
 | [santutunga10@twitter](https://twitter.com/santutunga10/status/1399017643135299586) | advertise |
 | [saomyatpyaesone@twitter](https://twitter.com/saomyatpyaesone/status/1391690727474679810) | advertise |
+| [saplynx@twitter](https://twitter.com/saplynx/status/1491474231598923776) | advertise |
 | [Sara99150841@twitter](https://twitter.com/Sara99150841/status/1379528485287436292) | advertise |
 | [Sarah99688136@twitter](https://twitter.com/Sarah99688136/status/1384901649932636161) | advertise |
 | [sarahshoonlai03@twitter](https://twitter.com/sarahshoonlai03/status/1386665164439793665) | advertise |
