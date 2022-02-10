@@ -383,6 +383,7 @@ Or is this merely a case of simple modesty?
 | Claire Tsai | Global Expansion | https://getglobal.co/claire-tsai-head-of-globalization-cloudflare/ |
 | Clement Schoehn | Employee |  |
 | Cody Koeninger | Employee |  |
+| Cole MacKenzie | Employee | |
 | Colin Douch | Systems Reliability Engineer |  |
 | Colin Lim | Head of Sales, APAC and Japan |  |
 | Colin Murray | Solutions Engineer |  |
