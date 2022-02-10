@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-02-10: [Network Performance Issues in Warsaw, Poland](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qs0rjk6fdy7z)
+- 2022-02-10: [Performance Issues in Warsaw, Poland](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8m61lddlmb2f)
 - 2022-02-08: [Distributed Web Gateway Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gqyhby8vb2xm)
 - 2022-02-08: [Network Performance Issues in Taipei (TPE)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jqmp19y1plf4)
 - 2022-02-08: [Network Performance Issues in Manchester, United Kingdom](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/m0crqjsk0504)
