@@ -2491,6 +2491,7 @@ Do not create new issue or we will close it as duplicate.
 | [infodokta@twitter](https://twitter.com/infodokta/status/1442376530567516160) | advertise |
 | [InfoSpaltron@twitter](https://twitter.com/InfoSpaltron/status/1380787310346825730) | advertise |
 | [Infoteka_24@twitter](https://twitter.com/Infoteka_24/status/1414674132596400130) | advertise |
+| [iNgha512@twitter](https://twitter.com/iNgha512/status/1491795078272421891) | advertise |
 | [IngyinK57955372@twitter](https://twitter.com/IngyinK57955372/status/1395191457548472320) | advertise |
 | [INotCoreUser1@twitter](https://twitter.com/INotCoreUser1/status/1392768420135981059) | advertise |
 | [inoxtinta123@twitter](https://twitter.com/inoxtinta123/status/1383637274684903438) | advertise |
@@ -3027,6 +3028,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kieu3Kieu@twitter](https://twitter.com/Kieu3Kieu/status/1478741314443575300) | advertise |
 | [kigressofsitez1@twitter](https://twitter.com/kigressofsitez1/status/1402196254411558925) | advertise |
 | [Kii777777@twitter](https://twitter.com/Kii777777/status/1391724934095802370) | advertise |
+| [kii_8m@twitter](https://twitter.com/kii_8m/status/1491801916677845005) | advertise |
 | [kikidrilla@twitter](https://twitter.com/kikidrilla/status/1372335070158204930) | advertise |
 | [KiKu68720339@twitter](https://twitter.com/KiKu68720339/status/1390944987152404484) | advertise |
 | [killer2111991@twitter](https://twitter.com/killer2111991/status/1469327399536197633) | advertise |
@@ -6256,6 +6258,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thien55886244@twitter](https://twitter.com/Thien55886244/status/1377669194137759745) | advertise |
 | [thienbiker@twitter](https://twitter.com/thienbiker/status/1397036078138155011) | advertise |
 | [Thienhoang92@twitter](https://twitter.com/Thienhoang92/status/1484883443943342082) | advertise |
+| [thienlong022@twitter](https://twitter.com/thienlong022/status/1491797298233286670) | advertise |
 | [thient_ei@twitter](https://twitter.com/thient_ei/status/1398644633836539907) | advertise |
 | [Thierie9@twitter](https://twitter.com/Thierie9/status/1391758445947228161) | advertise |
 | [ThiHa16740611@twitter](https://twitter.com/ThiHa16740611/status/1394156796235767809) | advertise |
