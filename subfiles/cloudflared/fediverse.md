@@ -25,8 +25,8 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 155 |
-| com | 121 |
+| social | 157 |
+| com | 120 |
 | net | 101 |
 | org | 72 |
 | jp | 49 |
@@ -118,6 +118,7 @@ Here's a list of public Fediverse services.
 | biscuit.town | No |
 | bitcoinhackers.org | Yes |
 | bittube.social | No |
+| blahut.tech | Yes |
 | blessedgeeks.social | No |
 | blockriot.com | No |
 | blog.fami.ga | No |
@@ -149,7 +150,6 @@ Here's a list of public Fediverse services.
 | chirpi.de | No |
 | chitter.xyz | No |
 | chomp.life | No |
-| chromabits.com | No |
 | cigarcabin.com | No |
 | circus.town | No |
 | clacks.link | No |
@@ -277,10 +277,8 @@ Here's a list of public Fediverse services.
 | frei.social | Yes |
 | freiburg.social | No |
 | freunde.ma-nic.de | No |
-| friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
-| friendicarg.nsupdate.info | No |
 | frogmob.life | No |
 | froth.zone | No |
 | fsmi.social | Yes |
@@ -313,6 +311,7 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
+| gmai.com | No |
 | go5.dev | Yes |
 | gochisou.dev | No |
 | gochisou.photo | No |
@@ -588,6 +587,7 @@ Here's a list of public Fediverse services.
 | mastodon.iriseden.eu | No |
 | mastodon.iut-larochelle.fr | No |
 | mastodon.izzz.fr | No |
+| mastodon.jalgi.eus | No |
 | mastodon.juggler.jp | No |
 | mastodon.kaonet-fr.net | No |
 | mastodon.kebree.fr | No |
@@ -599,6 +599,7 @@ Here's a list of public Fediverse services.
 | mastodon.ladn.org | No |
 | mastodon.lat | No |
 | mastodon.lavergne.online | No |
+| mastodon.lermer.nl | No |
 | mastodon.lertsenem.com | No |
 | mastodon.lhin.space | No |
 | mastodon.libre-entreprise.com | No |
@@ -769,7 +770,6 @@ Here's a list of public Fediverse services.
 | mstdn.nere9.help | No |
 | mstdn.netwhood.online | No |
 | mstdn.nicolog.jp | No |
-| mstdn.okumin.com | No |
 | mstdn.osaka | No |
 | mstdn.otyakai.xyz | Yes |
 | mstdn.plusminus.io | Yes |
@@ -807,7 +807,6 @@ Here's a list of public Fediverse services.
 | my.brick.camp | No |
 | my.dirtyhobby.xyz | No |
 | my0.net | No |
-| mysim.online | No |
 | mytoot.de | No |
 | nagoyadon.jp | Yes |
 | nasface.cz | No |
@@ -856,6 +855,7 @@ Here's a list of public Fediverse services.
 | onlyfeds.cc | Yes |
 | onthesecond.com | No |
 | ontological.city | No |
+| openbiblio.social | No |
 | oransns.com | No |
 | orenda.social | No |
 | orz.uno | Yes |
@@ -962,7 +962,6 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| rva.party | No |
 | s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
@@ -981,6 +980,7 @@ Here's a list of public Fediverse services.
 | scramble.city | No |
 | screech.social | No |
 | sdfn-01.ninjawedding.org | No |
+| seacow.social | No |
 | seaofog.com | Yes |
 | seizemeans.com | No |
 | serval.club | No |
@@ -1315,8 +1315,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 257 |
-| Normal | 1,018 |
+| Cloudflare | 258 |
+| Normal | 1,017 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
