@@ -13,8 +13,6 @@ This is `opt-in` service.
   - [A little history](service.altlink.md#a-little-history)
   - [How to Subscribe](service.altlink.md#how-to-subscribe)
   - [How to Unsubscribe](service.altlink.md#how-to-unsubscribe)
-  - ["Is it really CloudFlare!?" check](service.altlink.md#_is-it-really-cloudflare-_-check)
-  - [Meme Generator](service.altlink.md#meme-generator)
   - [Suggest clean alternatives](service.altlink.md#suggest-clean-alternatives)
   - [Report a problem / Create an Issue](service.altlink.md#report-a-problem-create-an-issue)
   - [Settings](service.altlink.md#settings)
@@ -80,49 +78,6 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
   - If you've changed your mind and want to subscribe(opt-in) again, `unblock`, `unfollow` AL and `follow` again.
 
 
-### "_Is it really CloudFlare!?_" check
-
-Just send `domain name` or `URL` as `direct message` and AL will answer within 1 minute.
-
-Here's an example.
-
-```
-@mitigator blog.emsisoft.com
-```
-
-You can also query multiple at once / mix domain and URLs
-
-```
-@mitigator
-en.wikipedia.org
-https://blog.emsisoft.com/wow/
-www.wikimedia.org
-```
-
-
-### Meme Generator
-
-Want to talk/complain about Cloudflared site in a humerous way?
-Try Meme Generator by sending URL as **direct** message.
-
-- If you send non-Cloudflared link it will be silently ignored.
-
-
-Syntax: `@MitiGator meme URL`
-
-Put Cloudflared URL like this...
-
-```
-@mitigator meme https://cflove.myblog.site/cloud_is_internet/?blog=true
-```
-
-```
-@mitigator
-
-Meme https://invite.party/cloudflare_users_only/
-```
-
-
 ### Suggest clean alternatives
 
 Just ask (send **direct** message to) Mitigator and he will provide some suggestions.
@@ -172,11 +127,6 @@ Your username part (before `@`) will be masked to protect your privacy.
 ### Settings
 
 You can configure mitigator from [this website](https://mitigator.crimeflare.eu.org/).
-There are 2 ways:
-- Open above website and follow the steps.
-- _Or_ Send _one of_ below keyword as `direct` message to mitigator.
-  - `cfg`  `conf`  `config`  `set`  `settings`
-    - e.g. `@mitigator Settings`  `@mitigator cfg`
 
 
 ### Download PNG Logo
