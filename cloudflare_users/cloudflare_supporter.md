@@ -528,6 +528,7 @@ Do not create new issue or we will close it as duplicate.
 | [AskKarinSarl@twitter](https://twitter.com/AskKarinSarl/status/1377719226383892480) | advertise |
 | [AskmeArunkc21@twitter](https://twitter.com/AskmeArunkc21/status/1370289301959835651) | advertise |
 | [AspectViam@twitter](https://twitter.com/AspectViam/status/1472388790484287489) | advertise |
+| [asperouzb@twitter](https://twitter.com/asperouzb/status/1492125374825865218) | advertise |
 | [Asphalt898@twitter](https://twitter.com/Asphalt898/status/1396524639430463489) | advertise |
 | [AssafJulie@twitter](https://twitter.com/AssafJulie/status/1469918510839181313) | advertise |
 | [Aster21Team@twitter](https://twitter.com/Aster21Team/status/1395622416819179521) | advertise |
@@ -1967,6 +1968,7 @@ Do not create new issue or we will close it as duplicate.
 | [Haha88526766@twitter](https://twitter.com/Haha88526766/status/1401048178611265544) | advertise |
 | [hahasofunnybruh@twitter](https://twitter.com/hahasofunnybruh/status/1397828172264079362) | advertise |
 | [HailBytes@twitter](https://twitter.com/HailBytes/status/1468726952139886604) | advertise |
+| [Hainguy69851875@twitter](https://twitter.com/Hainguy69851875/status/1492070256122077185) | advertise |
 | [Hainhtetaung2@twitter](https://twitter.com/Hainhtetaung2/status/1380588405990428673) | advertise |
 | [HainThaw@twitter](https://twitter.com/HainThaw/status/1391968986783383555) | advertise |
 | [haitensama@twitter](https://twitter.com/haitensama/status/1388050755433603075) | advertise |
@@ -2084,6 +2086,7 @@ Do not create new issue or we will close it as duplicate.
 | [HeinZaw49743789@twitter](https://twitter.com/HeinZaw49743789/status/1390851064392388611) | advertise |
 | [Heinzaw61930006@twitter](https://twitter.com/Heinzaw61930006/status/1401220832207147010) | advertise |
 | [HeinZaw62666182@twitter](https://twitter.com/HeinZaw62666182/status/1395115005196914691) | advertise |
+| [heinzawwin13@twitter](https://twitter.com/heinzawwin13/status/1492077449466703872) | advertise |
 | [HellishDani@twitter](https://twitter.com/HellishDani/status/1377383208828903427) | advertise |
 | [hellodk01@twitter](https://twitter.com/hellodk01/status/1434560473626730498) | advertise |
 | [helu_sky@twitter](https://twitter.com/helu_sky/status/1461265952608194566) | advertise |
@@ -3363,6 +3366,7 @@ Do not create new issue or we will close it as duplicate.
 | [LabradaSandoval@twitter](https://twitter.com/LabradaSandoval/status/1381051321848102912) | advertise |
 | [LadyBarani@twitter](https://twitter.com/LadyBarani/status/1387925243558248449) | advertise |
 | [ladyknife88@twitter](https://twitter.com/ladyknife88/status/1401229529452990467) | advertise |
+| [LakeNef@twitter](https://twitter.com/LakeNef/status/1492140804873277446) | advertise |
 | [LakshyaGangwar1@twitter](https://twitter.com/LakshyaGangwar1/status/1398001524236644353) | advertise |
 | [lakshya_sarda@twitter](https://twitter.com/lakshya_sarda/status/1406466412927877123) | advertise |
 | [lAli98l@twitter](https://twitter.com/lAli98l/status/1394529136870309889) | advertise |
@@ -5583,6 +5587,7 @@ Do not create new issue or we will close it as duplicate.
 | [SawHanny@twitter](https://twitter.com/SawHanny/status/1382548239065370624) | advertise |
 | [SawHselGal@twitter](https://twitter.com/SawHselGal/status/1393880373847752715) | advertise |
 | [SawHtutLinn6@twitter](https://twitter.com/SawHtutLinn6/status/1396416684945076227) | advertise |
+| [SawHtwe05378505@twitter](https://twitter.com/SawHtwe05378505/status/1492114127409451008) | advertise |
 | [SawmyintO@twitter](https://twitter.com/SawmyintO/status/1389548332943437827) | advertise |
 | [SawNaun69013208@twitter](https://twitter.com/SawNaun69013208/status/1392243678723198978) | advertise |
 | [SawPyaeKhaing2@twitter](https://twitter.com/SawPyaeKhaing2/status/1389941532560486400) | advertise |
@@ -6872,6 +6877,7 @@ Do not create new issue or we will close it as duplicate.
 | [weixinhan@twitter](https://twitter.com/weixinhan/status/1385103220226236416) | advertise |
 | [WELINGTONROQUE2@twitter](https://twitter.com/WELINGTONROQUE2/status/1445061282508464130) | advertise |
 | [wesvalderama@twitter](https://twitter.com/wesvalderama/status/1386386480717729792) | advertise |
+| [we_saas@twitter](https://twitter.com/we_saas/status/1492116460310781952) | advertise |
 | [WH1SbAtn0BPa5UI@twitter](https://twitter.com/WH1SbAtn0BPa5UI/status/1377862606266961924) | advertise |
 | [whatthe88888@twitter](https://twitter.com/whatthe88888/status/1385148573516402694) | advertise |
 | [whatyouneedto@twitter](https://twitter.com/whatyouneedto/status/1410881084057870337) | moral (advertise) |
