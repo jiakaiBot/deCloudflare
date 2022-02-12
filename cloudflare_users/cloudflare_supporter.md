@@ -1511,6 +1511,7 @@ Do not create new issue or we will close it as duplicate.
 | [DrAPSone@twitter](https://twitter.com/DrAPSone/status/1388524225166602240) | advertise |
 | [DrArif74649784@twitter](https://twitter.com/DrArif74649784/status/1473217239528742913) | advertise |
 | [DrAungNgeNgeSo1@twitter](https://twitter.com/DrAungNgeNgeSo1/status/1389918308615421955) | advertise |
+| [drawdemonart@twitter](https://twitter.com/drawdemonart/status/1492288787916857353) | advertise |
 | [DrDisisBack1@twitter](https://twitter.com/DrDisisBack1/status/1398604770924019715) | advertise |
 | [Dreambo12373748@twitter](https://twitter.com/Dreambo12373748/status/1393571818338877444) | advertise |
 | [dreywandowski@twitter](https://twitter.com/dreywandowski/status/1491808990153560066) | advertise |
@@ -1928,6 +1929,7 @@ Do not create new issue or we will close it as duplicate.
 | [grizta1@twitter](https://twitter.com/grizta1/status/1404102426567659525) | advertise |
 | [grublabapp@twitter](https://twitter.com/grublabapp/status/1405904308852375553) | advertise |
 | [gsdryfruits@twitter](https://twitter.com/gsdryfruits/status/1428265726851301377) | advertise |
+| [Gtway2Morocco@twitter](https://twitter.com/Gtway2Morocco/status/1492266825681448960) | advertise |
 | [Gudduku58065131@twitter](https://twitter.com/Gudduku58065131/status/1386342053529808900) | advertise |
 | [GuenMidoru@twitter](https://twitter.com/GuenMidoru/status/1398386656160350209) | advertise |
 | [gugu9121997@twitter](https://twitter.com/gugu9121997/status/1395265672091889664) | advertise |
@@ -3893,6 +3895,7 @@ Do not create new issue or we will close it as duplicate.
 | [Micro_mate@twitter](https://twitter.com/Micro_mate/status/1450530749770354692) | advertise |
 | [Midnigh30262555@twitter](https://twitter.com/Midnigh30262555/status/1384919574668267520) | advertise |
 | [migratingstream@twitter](https://twitter.com/migratingstream/status/1393409904086425600) | advertise |
+| [mikailbayat1252@twitter](https://twitter.com/mikailbayat1252/status/1492272535374680065) | advertise |
 | [MikasaMino@twitter](https://twitter.com/MikasaMino/status/1387209691172728832) | advertise |
 | [Mikeang15546407@twitter](https://twitter.com/Mikeang15546407/status/1391183859216158720) | advertise |
 | [mikeeowino@twitter](https://twitter.com/mikeeowino/status/1375217393354612745) | advertise |
@@ -5308,6 +5311,7 @@ Do not create new issue or we will close it as duplicate.
 | [RedPacketSec@twitter](https://twitter.com/RedPacketSec/status/1400447985213788179) | advertise |
 | [RedVamp_@twitter](https://twitter.com/RedVamp_/status/1484282963722391553) | advertise |
 | [Redzadania@twitter](https://twitter.com/Redzadania/status/1402830172529709057) | advertise |
+| [reedracer@twitter](https://twitter.com/reedracer/status/1492234588948774922) | advertise |
 | [refateusha@twitter](https://twitter.com/refateusha/status/1473025498104041473) | advertise |
 | [ReickyKunn@twitter](https://twitter.com/ReickyKunn/status/1386282466671947788) | advertise |
 | [relorpubg@twitter](https://twitter.com/relorpubg/status/1402449370822348800) | advertise |
