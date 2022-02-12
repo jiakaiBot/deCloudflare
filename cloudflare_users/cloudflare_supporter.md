@@ -536,6 +536,7 @@ Do not create new issue or we will close it as duplicate.
 | [ataqureshi@twitter](https://twitter.com/ataqureshi/status/1479494465177985025) | advertise |
 | [athet25@twitter](https://twitter.com/athet25/status/1390373120943345664) | advertise |
 | [athlity7@twitter](https://twitter.com/athlity7/status/1393870645558083584) | advertise |
+| [athulcity@twitter](https://twitter.com/athulcity/status/1492319903251976197) | advertise |
 | [ATK0081@twitter](https://twitter.com/ATK0081/status/1390943410333241346) | advertise |
 | [AtlasFNM_@twitter](https://twitter.com/AtlasFNM_/status/1389023296939651074) | advertise |
 | [atomstudy_com@twitter](https://twitter.com/atomstudy_com/status/1449689471675355136) | advertise |
@@ -1054,6 +1055,7 @@ Do not create new issue or we will close it as duplicate.
 | [CaoKhChinh2@twitter](https://twitter.com/CaoKhChinh2/status/1377461966738841601) | advertise |
 | [CapantSolent@twitter](https://twitter.com/CapantSolent/status/1392202368616476678) | advertise |
 | [Carlisle_Bean@twitter](https://twitter.com/Carlisle_Bean/status/1478565050663284743) | advertise |
+| [Carlos5marquez@twitter](https://twitter.com/Carlos5marquez/status/1492370637041586176) | advertise |
 | [CarnifeX_6@twitter](https://twitter.com/CarnifeX_6/status/1386411324230361090) | advertise |
 | [carolinawxauth@twitter](https://twitter.com/carolinawxauth/status/1396641317728440328) | advertise |
 | [casaindigo@twitter](https://twitter.com/casaindigo/status/1457706371248427018) | advertise |
@@ -3621,6 +3623,7 @@ Do not create new issue or we will close it as duplicate.
 | [LVhJK2Tw3DHxWP2@twitter](https://twitter.com/LVhJK2Tw3DHxWP2/status/1404115950467620867) | advertise |
 | [lvitanh72337546@twitter](https://twitter.com/lvitanh72337546/status/1401878629563305984) | advertise |
 | [LVnHn19145029@twitter](https://twitter.com/LVnHn19145029/status/1385903591274123268) | advertise |
+| [LVnMinh19740694@twitter](https://twitter.com/LVnMinh19740694/status/1492380049349120000) | advertise |
 | [LVnQuyn47173520@twitter](https://twitter.com/LVnQuyn47173520/status/1398788381463629826) | advertise |
 | [LVnTha2@twitter](https://twitter.com/LVnTha2/status/1396523358544547841) | advertise |
 | [LwinHtet12@twitter](https://twitter.com/LwinHtet12/status/1379829022008348675) | advertise |
