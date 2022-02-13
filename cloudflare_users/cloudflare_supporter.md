@@ -489,6 +489,7 @@ Do not create new issue or we will close it as duplicate.
 | [arno_dev@twitter](https://twitter.com/arno_dev/status/1387071791252840450) | advertise |
 | [around_thenon@twitter](https://twitter.com/around_thenon/status/1398421956651716608) | advertise |
 | [arrhai21@twitter](https://twitter.com/arrhai21/status/1393450615628435458) | advertise |
+| [ArronCarson2@twitter](https://twitter.com/ArronCarson2/status/1492611274093568002) | advertise |
 | [ARROW41821591@twitter](https://twitter.com/ARROW41821591/status/1391638652766232577) | advertise |
 | [arryanggaputra@twitter](https://twitter.com/arryanggaputra/status/1456791655630061571) | advertise |
 | [arr_htun@twitter](https://twitter.com/arr_htun/status/1390092486530404352) | advertise |
@@ -1129,6 +1130,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChinThn89636027@twitter](https://twitter.com/ChinThn89636027/status/1393032346870247426) | advertise |
 | [chiragnayyar@twitter](https://twitter.com/chiragnayyar/status/1411690100874903554) | moral (advertise) |
 | [ChiragTalil@twitter](https://twitter.com/ChiragTalil/status/1392845070194286592) | advertise |
+| [Chirp_nft@twitter](https://twitter.com/Chirp_nft/status/1492614463408775169) | advertise |
 | [Chit12127394@twitter](https://twitter.com/Chit12127394/status/1377063466050056192) | advertise |
 | [chithtunzaw@twitter](https://twitter.com/chithtunzaw/status/1394130268122984452) | advertise |
 | [ChitHtw24401859@twitter](https://twitter.com/ChitHtw24401859/status/1390946660096696322) | advertise |
@@ -1399,6 +1401,7 @@ Do not create new issue or we will close it as duplicate.
 | [dennis_mcodhis@twitter](https://twitter.com/dennis_mcodhis/status/1459941166514950159) | advertise |
 | [Deon24535935@twitter](https://twitter.com/Deon24535935/status/1399325913121177601) | advertise |
 | [DepRed7@twitter](https://twitter.com/DepRed7/status/1395675931356766212) | advertise |
+| [derar60@twitter](https://twitter.com/derar60/status/1492629407839752201) | advertise |
 | [Deril93219597@twitter](https://twitter.com/Deril93219597/status/1385613158123900931) | advertise |
 | [derrickly2@twitter](https://twitter.com/derrickly2/status/1381155764396433409) | advertise |
 | [Dersy73935011@twitter](https://twitter.com/Dersy73935011/status/1389827449349763072) | advertise |
@@ -2833,6 +2836,7 @@ Do not create new issue or we will close it as duplicate.
 | [KamojiSidrai@twitter](https://twitter.com/KamojiSidrai/status/1387253371967471617) | advertise |
 | [kanaan94901823@twitter](https://twitter.com/kanaan94901823/status/1377247977803251712) | advertise |
 | [Kane09375517@twitter](https://twitter.com/Kane09375517/status/1379837150208782336) | advertise |
+| [KangSerox@twitter](https://twitter.com/KangSerox/status/1492632243529187331) | advertise |
 | [kangsingh10@twitter](https://twitter.com/kangsingh10/status/1388737035691696132) | advertise |
 | [kanitsin@twitter](https://twitter.com/kanitsin/status/1395746546499526658) | advertise |
 | [kannadaTechInfo@twitter](https://twitter.com/kannadaTechInfo/status/1383303798777532420) | advertise |
@@ -3087,6 +3091,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kiyan99307753@twitter](https://twitter.com/Kiyan99307753/status/1382401632080601088) | advertise |
 | [kjmzyxbjh@twitter](https://twitter.com/kjmzyxbjh/status/1393136098226757636) | advertise |
 | [KKanK4@twitter](https://twitter.com/KKanK4/status/1395696774984077317) | advertise |
+| [kkbpc_sub@twitter](https://twitter.com/kkbpc_sub/status/1492429642610851841) | advertise |
 | [kkkkarn22@twitter](https://twitter.com/kkkkarn22/status/1390552176229969921) | advertise |
 | [KKMyo8@twitter](https://twitter.com/KKMyo8/status/1395565047686995971) | advertise |
 | [KLacey83@twitter](https://twitter.com/KLacey83/status/1401868983159070725) | advertise |
@@ -5282,6 +5287,7 @@ Do not create new issue or we will close it as duplicate.
 | [RasoniyaSandeep@twitter](https://twitter.com/RasoniyaSandeep/status/1399271913160155138) | advertise |
 | [rastabike@twitter](https://twitter.com/rastabike/status/1490598250877014019) | advertise |
 | [rathurles@twitter](https://twitter.com/rathurles/status/1392191436976578564) | advertise |
+| [Rattaneire@twitter](https://twitter.com/Rattaneire/status/1492437309261852675) | advertise |
 | [ratthanan578@twitter](https://twitter.com/ratthanan578/status/1389495697649508353) | advertise |
 | [raulc27@twitter](https://twitter.com/raulc27/status/1462220220798582789) | advertise |
 | [RaunakK33419847@twitter](https://twitter.com/RaunakK33419847/status/1389548989066919939) | advertise |
@@ -5473,6 +5479,7 @@ Do not create new issue or we will close it as duplicate.
 | [Saifwayy@twitter](https://twitter.com/Saifwayy/status/1382873575758172160) | advertise |
 | [saigonesesuper@twitter](https://twitter.com/saigonesesuper/status/1472907694377816071) | advertise |
 | [saihanhtoo3@twitter](https://twitter.com/saihanhtoo3/status/1384160331337895950) | advertise |
+| [SaihoonK@twitter](https://twitter.com/SaihoonK/status/1492600797846290432) | advertise |
 | [SaiKoKo24824624@twitter](https://twitter.com/SaiKoKo24824624/status/1389685191480811522) | advertise |
 | [SaiKyawHtunLin2@twitter](https://twitter.com/SaiKyawHtunLin2/status/1389980049797963776) | advertise |
 | [SaiLainKham16@twitter](https://twitter.com/SaiLainKham16/status/1392332454531420162) | advertise |
@@ -5719,6 +5726,7 @@ Do not create new issue or we will close it as duplicate.
 | [ShipStoreco@twitter](https://twitter.com/ShipStoreco/status/1371295374246285313) | advertise |
 | [Shireen21778793@twitter](https://twitter.com/Shireen21778793/status/1404067613232099332) | advertise |
 | [Shirogane1092@twitter](https://twitter.com/Shirogane1092/status/1384817156747972608) | advertise |
+| [Shiroizdabezt@twitter](https://twitter.com/Shiroizdabezt/status/1492443603813408768) | advertise |
 | [shitaro2021@twitter](https://twitter.com/shitaro2021/status/1425783479455813635) | advertise |
 | [shiva68995788@twitter](https://twitter.com/shiva68995788/status/1379824052232130561) | advertise |
 | [shiva73839730@twitter](https://twitter.com/shiva73839730/status/1486204658855125001) | advertise |
