@@ -25,10 +25,10 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 156 |
-| com | 121 |
-| net | 100 |
-| org | 71 |
+| social | 157 |
+| com | 120 |
+| net | 101 |
+| org | 72 |
 | jp | 49 |
 
 
@@ -224,7 +224,6 @@ Here's a list of public Fediverse services.
 | eletusk.club | No |
 | elict.net | No |
 | en.osm.town | No |
-| engineered.space | No |
 | entomophagy.world | No |
 | ephemeral.glitch.social | No |
 | equestria.social | No |
@@ -488,6 +487,7 @@ Here's a list of public Fediverse services.
 | maly.io | Yes |
 | mammouth.inframed.net | No |
 | mamot.fr | No |
+| mamut.tic-ac.org | No |
 | manowar.social | No |
 | mao.mastodonhub.com | No |
 | maoh.company | Yes |
@@ -573,7 +573,6 @@ Here's a list of public Fediverse services.
 | mastodon.greenwichmeanti.me | No |
 | mastodon.grin.hu | No |
 | mastodon.gza.jp | No |
-| mastodon.habets.dev | No |
 | mastodon.hk | Yes |
 | mastodon.hugopoi.net | No |
 | mastodon.hydrosaas.com | Yes |
@@ -789,7 +788,6 @@ Here's a list of public Fediverse services.
 | mstdn.superspeed-fall.com | No |
 | mstdn.taiha.net | No |
 | mstdn.tentere.net | Yes |
-| mstdn.tokyocameraclub.com | No |
 | mstdn.vodka | No |
 | mstdn.wildtree.jp | No |
 | mstdn.y-zu.org | Yes |
@@ -842,6 +840,7 @@ Here's a list of public Fediverse services.
 | nth.io | Yes |
 | nyaa.network | Yes |
 | o3o.ca | Yes |
+| occitanie.social | No |
 | ocf.masto.host | No |
 | octodon.social | No |
 | odakyu.app | Yes |
@@ -922,9 +921,7 @@ Here's a list of public Fediverse services.
 | pouet.april.org | No |
 | pouet.chapril.org | No |
 | pouet.couchet.org | No |
-| pouet.it | No |
 | pounced-on.me | No |
-| ppl.town | No |
 | precure.ml | No |
 | pritter.work | No |
 | ps.s10y.eu | No |
@@ -950,6 +947,7 @@ Here's a list of public Fediverse services.
 | redroo.ml | No |
 | retro.social | No |
 | rettiwtkcuf.social | No |
+| rheinland.social | No |
 | rivals.space | Yes |
 | river.group.lt | Yes |
 | rly.wtf | Yes |
@@ -962,6 +960,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
+| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | salocha.online | No |
@@ -1043,7 +1042,6 @@ Here's a list of public Fediverse services.
 | social.diva.exchange | No |
 | social.drastical.tech | Yes |
 | social.dropbear.xyz | Yes |
-| social.dssr.ch | No |
 | social.exan.tech | Yes |
 | social.farend.co.jp | No |
 | social.fbxl.net | No |
@@ -1282,7 +1280,6 @@ Here's a list of public Fediverse services.
 | workaholic.cloud | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.librepunk.club | No |
@@ -1314,8 +1311,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 257 |
-| Normal | 1,017 |
+| Cloudflare | 258 |
+| Normal | 1,013 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.3% of public Fediverse services are using Cloudflare.
