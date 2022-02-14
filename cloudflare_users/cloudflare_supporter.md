@@ -352,6 +352,7 @@ Do not create new issue or we will close it as duplicate.
 | [ameenulhassanm1@twitter](https://twitter.com/ameenulhassanm1/status/1378228638353555457) | advertise |
 | [amekiri13@twitter](https://twitter.com/amekiri13/status/1437975591152611329) | advertise |
 | [AmeliaNyeint@twitter](https://twitter.com/AmeliaNyeint/status/1398295090909499397) | advertise |
+| [Amiirfahad@twitter](https://twitter.com/Amiirfahad/status/1492928600978382856) | advertise |
 | [amir55087591@twitter](https://twitter.com/amir55087591/status/1399965313156804610) | advertise |
 | [amirchitgaran@twitter](https://twitter.com/amirchitgaran/status/1384197111500083214) | advertise |
 | [AmirFusaini@twitter](https://twitter.com/AmirFusaini/status/1399362665416314883) | advertise |
@@ -3889,6 +3890,7 @@ Do not create new issue or we will close it as duplicate.
 | [mhd020306263@twitter](https://twitter.com/mhd020306263/status/1461392488489488387) | advertise |
 | [MhizRalz@twitter](https://twitter.com/MhizRalz/status/1401142653413171201) | advertise |
 | [mhmdagha6@twitter](https://twitter.com/mhmdagha6/status/1391303370112110593) | advertise |
+| [mhmdqay1@twitter](https://twitter.com/mhmdqay1/status/1492953909517856781) | advertise |
 | [mhmmuneef@twitter](https://twitter.com/mhmmuneef/status/1434865010694569987) | advertise |
 | [mhns1824@twitter](https://twitter.com/mhns1824/status/1391902191628079107) | advertise |
 | [Mi60252365@twitter](https://twitter.com/Mi60252365/status/1391274283339423744) | advertise |
@@ -5914,6 +5916,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sourbhana6Love@twitter](https://twitter.com/Sourbhana6Love/status/1390882630782971904) | advertise |
 | [sourcedconsult@twitter](https://twitter.com/sourcedconsult/status/1430102117591633920) | advertise |
 | [soyalkoirala60@twitter](https://twitter.com/soyalkoirala60/status/1394193049689812994) | advertise |
+| [soyandot@twitter](https://twitter.com/soyandot/status/1492984014193446918) | advertise |
 | [SoYoon997847@twitter](https://twitter.com/SoYoon997847/status/1391096734575521795) | advertise |
 | [sozeehh@twitter](https://twitter.com/sozeehh/status/1406383374797885442) | advertise |
 | [sparkgaming77@twitter](https://twitter.com/sparkgaming77/status/1468821079334469634) | advertise |
