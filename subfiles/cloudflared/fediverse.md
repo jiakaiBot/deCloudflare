@@ -25,11 +25,11 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 157 |
+| social | 158 |
 | com | 120 |
-| net | 101 |
+| net | 100 |
 | org | 72 |
-| jp | 49 |
+| jp | 48 |
 
 
 - Mastodon, Pleroma, etc
@@ -53,7 +53,6 @@ Here's a list of public Fediverse services.
 | aana.site | No |
 | abdl.io | No |
 | abdl.link | Yes |
-| abdlbook.com | Yes |
 | abyss.fun | Yes |
 | acg.mn | Yes |
 | activism.openworlds.info | No |
@@ -78,6 +77,7 @@ Here's a list of public Fediverse services.
 | anime.website | No |
 | antabaka.me | No |
 | anticapitalist.party | Yes |
+| anticitoyen.fr.nf | No |
 | antisocial.science | No |
 | ap.kios.cc | No |
 | appdot.net | No |
@@ -224,6 +224,7 @@ Here's a list of public Fediverse services.
 | eletusk.club | No |
 | elict.net | No |
 | en.osm.town | No |
+| engineered.space | No |
 | entomophagy.world | No |
 | ephemeral.glitch.social | No |
 | equestria.social | No |
@@ -238,6 +239,7 @@ Here's a list of public Fediverse services.
 | federation.krowverse.services | No |
 | fedi.absturztau.be | No |
 | fedi.garrison.beer | No |
+| fedi.lewactwo.pl | No |
 | fedi.mecp.de | No |
 | fedi.mint.lgbt | No |
 | fedi.scd31.com | No |
@@ -530,6 +532,7 @@ Here's a list of public Fediverse services.
 | mastodon.astrr.ru | Yes |
 | mastodon.atikoro.net | No |
 | mastodon.aventer.biz | No |
+| mastodon.bachgau.social | No |
 | mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
@@ -573,6 +576,7 @@ Here's a list of public Fediverse services.
 | mastodon.greenwichmeanti.me | No |
 | mastodon.grin.hu | No |
 | mastodon.gza.jp | No |
+| mastodon.habets.dev | No |
 | mastodon.hk | Yes |
 | mastodon.hugopoi.net | No |
 | mastodon.hydrosaas.com | Yes |
@@ -788,6 +792,7 @@ Here's a list of public Fediverse services.
 | mstdn.superspeed-fall.com | No |
 | mstdn.taiha.net | No |
 | mstdn.tentere.net | Yes |
+| mstdn.tokyocameraclub.com | No |
 | mstdn.vodka | No |
 | mstdn.wildtree.jp | No |
 | mstdn.y-zu.org | Yes |
@@ -921,7 +926,9 @@ Here's a list of public Fediverse services.
 | pouet.april.org | No |
 | pouet.chapril.org | No |
 | pouet.couchet.org | No |
+| pouet.it | No |
 | pounced-on.me | No |
+| ppl.town | No |
 | precure.ml | No |
 | pritter.work | No |
 | ps.s10y.eu | No |
@@ -960,7 +967,6 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | salocha.online | No |
@@ -1042,6 +1048,7 @@ Here's a list of public Fediverse services.
 | social.diva.exchange | No |
 | social.drastical.tech | Yes |
 | social.dropbear.xyz | Yes |
+| social.dssr.ch | No |
 | social.exan.tech | Yes |
 | social.farend.co.jp | No |
 | social.fbxl.net | No |
@@ -1247,7 +1254,6 @@ Here's a list of public Fediverse services.
 | unbound.social | No |
 | underground-side-kochira-kotonoha.xyz | No |
 | unipar.online | No |
-| unnerv.jp | No |
 | unperson.us | No |
 | unstoppablecode.org | No |
 | ura-mstdn.com | No |
@@ -1306,13 +1312,14 @@ Here's a list of public Fediverse services.
 | zeka.cloud | Yes |
 | zh-cn.toots.social | Yes |
 | zhub.link | No |
+| ziroh.be | No |
 
 
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 258 |
-| Normal | 1,013 |
+| Cloudflare | 256 |
+| Normal | 1,022 |
 
 
-### 20.3% of public Fediverse services are using Cloudflare.
+### 20% of public Fediverse services are using Cloudflare.
