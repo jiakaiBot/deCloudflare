@@ -271,6 +271,7 @@ Do not create new issue or we will close it as duplicate.
 | [akhilvarma2020@twitter](https://twitter.com/akhilvarma2020/status/1381176091314806785) | advertise |
 | [AkhmalHaziq@twitter](https://twitter.com/AkhmalHaziq/status/1392301139526258694) | advertise |
 | [Akira47150780@twitter](https://twitter.com/Akira47150780/status/1400190504193589260) | advertise |
+| [Akito28238860@twitter](https://twitter.com/Akito28238860/status/1493097617219534849) | advertise |
 | [AKO35197755@twitter](https://twitter.com/AKO35197755/status/1391902794236403713) | advertise |
 | [Akshada44184872@twitter](https://twitter.com/Akshada44184872/status/1389269449371316224) | advertise |
 | [akshai45422138@twitter](https://twitter.com/akshai45422138/status/1386717813822287873) | advertise |
@@ -837,6 +838,7 @@ Do not create new issue or we will close it as duplicate.
 | [BellaMayKhine29@twitter](https://twitter.com/BellaMayKhine29/status/1390363855436468224) | advertise |
 | [Bellasw85986317@twitter](https://twitter.com/Bellasw85986317/status/1403722447166267400) | advertise |
 | [Bellza21946419@twitter](https://twitter.com/Bellza21946419/status/1392868933590425600) | advertise |
+| [ben100124@twitter](https://twitter.com/ben100124/status/1493053254120329216) | advertise |
 | [Ben70564935@twitter](https://twitter.com/Ben70564935/status/1379879154590441474) | advertise |
 | [ben90569807@twitter](https://twitter.com/ben90569807/status/1388718512915378178) | advertise |
 | [benny_sutton@twitter](https://twitter.com/benny_sutton/status/1446103619627991040) | advertise |
@@ -1029,6 +1031,7 @@ Do not create new issue or we will close it as duplicate.
 | [BurmaTravelClub@twitter](https://twitter.com/BurmaTravelClub/status/1390846703230541825) | advertise |
 | [BurungHantu1605@github.com](https://github.com/BurungHantu1605) | moral (PR defacement) |
 | [BurungHantu@social.privacytools.io](https://social.privacytools.io/@BurungHantu) | moral (PR defacement) |
+| [busekuru50@twitter](https://twitter.com/busekuru50/status/1493016091995561988) | advertise |
 | [ButtersWorldInc@twitter](https://twitter.com/ButtersWorldInc/status/1490553710006587393) | advertise |
 | [BVnNh4@twitter](https://twitter.com/BVnNh4/status/1382221207257354242) | advertise |
 | [BWpzQGeCJgL7bmi@twitter](https://twitter.com/BWpzQGeCJgL7bmi/status/1386781006506516485) | advertise |
@@ -3463,6 +3466,7 @@ Do not create new issue or we will close it as duplicate.
 | [lexuyen63400696@twitter](https://twitter.com/lexuyen63400696/status/1394090281981468673) | advertise |
 | [Lgbt76420082@twitter](https://twitter.com/Lgbt76420082/status/1403667374448943106) | advertise |
 | [LHin00071152@twitter](https://twitter.com/LHin00071152/status/1377265697613508612) | advertise |
+| [LHuyHoang7@twitter](https://twitter.com/LHuyHoang7/status/1493011352457125889) | advertise |
 | [Liam24336019@twitter](https://twitter.com/Liam24336019/status/1381329133561655296) | advertise |
 | [liangomezy@twitter](https://twitter.com/liangomezy/status/1390364123444047875) | advertise |
 | [LianLia94105548@twitter](https://twitter.com/LianLia94105548/status/1393727156845305856) | advertise |
@@ -6543,6 +6547,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrngPhm89696771@twitter](https://twitter.com/TrngPhm89696771/status/1387145888053690373) | advertise |
 | [TrngPho36370888@twitter](https://twitter.com/TrngPho36370888/status/1398188611867004930) | advertise |
 | [TrnHngLy18@twitter](https://twitter.com/TrnHngLy18/status/1385581701514940417) | advertise |
+| [trnHnh36775165@twitter](https://twitter.com/trnHnh36775165/status/1493078579277488129) | advertise |
 | [TrnhTrnh300495@twitter](https://twitter.com/TrnhTrnh300495/status/1468838879457210369) | advertise |
 | [TrnHuT10645622@twitter](https://twitter.com/TrnHuT10645622/status/1402307646372204547) | advertise |
 | [TrnMinh23617176@twitter](https://twitter.com/TrnMinh23617176/status/1387825068873371651) | advertise |
