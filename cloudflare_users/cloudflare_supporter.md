@@ -5217,6 +5217,7 @@ Do not create new issue or we will close it as duplicate.
 | [quangan00528037@twitter](https://twitter.com/quangan00528037/status/1380604112140529667) | advertise |
 | [QuangH04331074@twitter](https://twitter.com/QuangH04331074/status/1475730510035189763) | advertise |
 | [QuangHu01378602@twitter](https://twitter.com/QuangHu01378602/status/1380895418322542593) | advertise |
+| [QuangHu25018354@twitter](https://twitter.com/QuangHu25018354/status/1493308714065231872) | advertise |
 | [quangka09@twitter](https://twitter.com/quangka09/status/1391117991790608385) | advertise |
 | [QuangNg40882818@twitter](https://twitter.com/QuangNg40882818/status/1406561229947035654) | advertise |
 | [quangnhat0809@twitter](https://twitter.com/quangnhat0809/status/1379958517851824129) | advertise |
