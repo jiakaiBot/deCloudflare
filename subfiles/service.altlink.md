@@ -70,9 +70,13 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 -------------------------
 -------------------------
 
-# THE
+# Transferred
 
-# END
+# To
+
+# New
+
+# Owners
 
 -------------------------
 -------------------------
