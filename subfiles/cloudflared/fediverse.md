@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 158 |
-| com | 120 |
-| net | 100 |
+| com | 119 |
+| net | 101 |
 | org | 72 |
 | jp | 48 |
 
@@ -51,7 +51,7 @@ Here's a list of public Fediverse services.
 | a2mi.social | No |
 | aachen.social | No |
 | aana.site | No |
-| abdl.io | No |
+| abdl.io | Yes |
 | abdl.link | Yes |
 | abyss.fun | Yes |
 | acg.mn | Yes |
@@ -967,6 +967,8 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
+| rva.party | No |
+| s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
 | salocha.online | No |
@@ -998,7 +1000,6 @@ Here's a list of public Fediverse services.
 | shitcoin.land | Yes |
 | shitposter.club | No |
 | shitter.me | No |
-| sin.tyaku.com | No |
 | sio.masto.host | No |
 | sizedon.com | No |
 | sjtu.closed.social | Yes |
@@ -1318,8 +1319,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 256 |
-| Normal | 1,022 |
+| Cloudflare | 258 |
+| Normal | 1,021 |
 
 
-### 20% of public Fediverse services are using Cloudflare.
+### 20.2% of public Fediverse services are using Cloudflare.
