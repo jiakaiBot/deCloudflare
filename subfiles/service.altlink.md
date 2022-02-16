@@ -233,4 +233,4 @@ The mascot wears a referee top and red sash across chest. Above the shield is 'M
 - ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared/fediverse.md)
 - ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared/shared_mastodon.md)
 
-<a rel="me" href="https://101010.pl/@MitiGator"></a>
+<a rel="me" href="https://mastodon.pirateparty.be/@MitiGator"></a>
