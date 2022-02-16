@@ -25,8 +25,8 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 158 |
-| com | 119 |
+| social | 160 |
+| com | 120 |
 | net | 101 |
 | org | 72 |
 | jp | 48 |
@@ -211,7 +211,6 @@ Here's a list of public Fediverse services.
 | eckodon.nohost.me | No |
 | ecosteader.com | No |
 | edolas.world | No |
-| ef67.myhome.cx | No |
 | efdn.club | No |
 | eigadon.net | Yes |
 | eigenmagic.net | Yes |
@@ -249,6 +248,7 @@ Here's a list of public Fediverse services.
 | felesitas.cloud | No |
 | fellies.social | No |
 | fem.social | No |
+| feuerwehr.social | No |
 | fimidi.com | No |
 | fissionator.com | No |
 | fla.red | No |
@@ -443,6 +443,7 @@ Here's a list of public Fediverse services.
 | liberalism.masto.host | No |
 | liberdon.com | Yes |
 | libertalia.world | No |
+| libertarians.social | No |
 | libertynode.net | No |
 | libertywoof.com | No |
 | libranet.de | No |
@@ -674,6 +675,7 @@ Here's a list of public Fediverse services.
 | mastodon.xy-space.de | No |
 | mastodon.xyz | No |
 | mastodon.z27.ch | No |
+| mastodon.ziggurat-systems.com | No |
 | mastodon.zunda.ninja | No |
 | mastodont.cat | No |
 | mastodontech.de | No |
@@ -967,7 +969,6 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| rva.party | No |
 | s.ovalerio.net | Yes |
 | s.zholnay.name | No |
 | salesforce.social | No |
@@ -1320,7 +1321,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 258 |
-| Normal | 1,021 |
+| Normal | 1,022 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
