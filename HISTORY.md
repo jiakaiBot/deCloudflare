@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-02-16: [Cloudflare is Observing Possible Network Performance Issues in West Coast (USA)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/d4g3q6bqzfnr)
+- 2022-02-15: [Possible Network Congestion Across Multiple Regions](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2trmrmlc504r)
 - 2022-02-15: [Elevated number of 5xx errors in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/76ggr4jwmm44)
 - 2022-02-11: [Increased HTTP 522 Errors in multiple India data centers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/p9056x4kz5sf)
 - 2022-02-10: [Network Performance Issues in Warsaw, Poland](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qs0rjk6fdy7z)
