@@ -2455,6 +2455,7 @@ Do not create new issue or we will close it as duplicate.
 | [iamKAvinash@twitter](https://twitter.com/iamKAvinash/status/1380585343192158210) | advertise |
 | [Iamkingsleyf@twitter](https://twitter.com/Iamkingsleyf/status/1401053471340695552) | advertise |
 | [iamrchivn@twitter](https://twitter.com/iamrchivn/status/1398608880762908672) | advertise |
+| [IamShams16@twitter](https://twitter.com/IamShams16/status/1493845525514309637) | advertise |
 | [Iam_Shelby07@twitter](https://twitter.com/Iam_Shelby07/status/1397996796887044096) | advertise |
 | [iam_souvkdey@twitter](https://twitter.com/iam_souvkdey/status/1389676257105747970) | advertise |
 | [iam_takagi2@twitter](https://twitter.com/iam_takagi2/status/1429834806557245443) | advertise |
@@ -2653,6 +2654,7 @@ Do not create new issue or we will close it as duplicate.
 | [jcampos2208@twitter](https://twitter.com/jcampos2208/status/1399856800208404486) | advertise |
 | [JDbelem1@twitter](https://twitter.com/JDbelem1/status/1384610630917922817) | advertise |
 | [jdjs35017027@twitter](https://twitter.com/jdjs35017027/status/1489619422482337792) | advertise |
+| [jdoshdbz@twitter](https://twitter.com/jdoshdbz/status/1493785041561812995) | advertise |
 | [jdr_drich@twitter](https://twitter.com/jdr_drich/status/1380677922877448194) | advertise |
 | [JE2DlAAd0UBr2Rw@twitter](https://twitter.com/JE2DlAAd0UBr2Rw/status/1384138729485324291) | advertise |
 | [Jeary45857239@twitter](https://twitter.com/Jeary45857239/status/1393838455034195971) | advertise |
@@ -5301,6 +5303,7 @@ Do not create new issue or we will close it as duplicate.
 | [RAMMEHARDAS3@twitter](https://twitter.com/RAMMEHARDAS3/status/1399046837407928320) | advertise |
 | [ramsey_jacquie@twitter](https://twitter.com/ramsey_jacquie/status/1384870814017806336) | advertise |
 | [Ran20182@twitter](https://twitter.com/Ran20182/status/1396105776402370561) | advertise |
+| [Randomguywholol@twitter](https://twitter.com/Randomguywholol/status/1493825084737212417) | advertise |
 | [RanjitM93877397@twitter](https://twitter.com/RanjitM93877397/status/1406581687257997313) | advertise |
 | [Ranked2nd@twitter](https://twitter.com/Ranked2nd/status/1489538382627676160) | advertise |
 | [Rapestate54@twitter](https://twitter.com/Rapestate54/status/1479114971019571203) | advertise |
@@ -6677,6 +6680,7 @@ Do not create new issue or we will close it as duplicate.
 | [u3FTE3PbLVg3trL@twitter](https://twitter.com/u3FTE3PbLVg3trL/status/1377926972689551360) | advertise |
 | [UAungKoLinn3@twitter](https://twitter.com/UAungKoLinn3/status/1390641230938214403) | advertise |
 | [UAZY_mm@twitter](https://twitter.com/UAZY_mm/status/1377727680984969217) | advertise |
+| [uccops@twitter](https://twitter.com/uccops/status/1493791302600650755) | advertise |
 | [UChitKaung2@twitter](https://twitter.com/UChitKaung2/status/1392627087849103360) | advertise |
 | [uCtMoi60822299@twitter](https://twitter.com/uCtMoi60822299/status/1388992504750501890) | advertise |
 | [Uday26880125@twitter](https://twitter.com/Uday26880125/status/1399934947331166213) | advertise |
