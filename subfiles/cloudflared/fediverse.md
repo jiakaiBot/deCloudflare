@@ -25,9 +25,9 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 160 |
-| com | 120 |
-| net | 101 |
+| social | 159 |
+| com | 118 |
+| net | 100 |
 | org | 72 |
 | jp | 48 |
 
@@ -77,7 +77,6 @@ Here's a list of public Fediverse services.
 | anime.website | No |
 | antabaka.me | No |
 | anticapitalist.party | Yes |
-| anticitoyen.fr.nf | No |
 | antisocial.science | No |
 | ap.kios.cc | No |
 | appdot.net | No |
@@ -85,7 +84,6 @@ Here's a list of public Fediverse services.
 | arktos.social | No |
 | ascraeus.org | No |
 | aspiechattr.me | No |
-| assortedflotsam.com | No |
 | august-don.site | Yes |
 | auronplay.social | No |
 | ausglam.space | No |
@@ -117,7 +115,6 @@ Here's a list of public Fediverse services.
 | biscuit.town | No |
 | bitcoinhackers.org | Yes |
 | bittube.social | No |
-| blahut.tech | Yes |
 | blessedgeeks.social | No |
 | blockriot.com | No |
 | blog.fami.ga | No |
@@ -623,7 +620,6 @@ Here's a list of public Fediverse services.
 | mastodon.mit.edu | Yes |
 | mastodon.ml | No |
 | mastodon.motcha.tech | Yes |
-| mastodon.multimob.be | No |
 | mastodon.nekocat.info | No |
 | mastodon.nekomimi.jp | No |
 | mastodon.nestegg.net | No |
@@ -794,7 +790,6 @@ Here's a list of public Fediverse services.
 | mstdn.superspeed-fall.com | No |
 | mstdn.taiha.net | No |
 | mstdn.tentere.net | Yes |
-| mstdn.tokyocameraclub.com | No |
 | mstdn.vodka | No |
 | mstdn.wildtree.jp | No |
 | mstdn.y-zu.org | Yes |
@@ -901,7 +896,6 @@ Here's a list of public Fediverse services.
 | plasticmodels.tokyo | No |
 | pler.gtx.dynu.net | No |
 | pleroma-in.ouda.space | No |
-| pleroma.anduin.net | No |
 | pleroma.chirno.tech | No |
 | pleroma.envs.net | No |
 | pleroma.gdgd.jp.net | Yes |
@@ -1014,7 +1008,6 @@ Here's a list of public Fediverse services.
 | snabelen.no | No |
 | snaggletooth.life | No |
 | sneakerwave.net | No |
-| sneed.social | No |
 | snowdon.jp | No |
 | soc.safebook.space | No |
 | socel.net | No |
@@ -1320,8 +1313,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 258 |
-| Normal | 1,022 |
+| Cloudflare | 257 |
+| Normal | 1,016 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
