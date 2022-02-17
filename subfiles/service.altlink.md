@@ -62,14 +62,11 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
   - If you didn't got any reply make sure you are following MG.
 
 3. When you share Cloudflared link, AL will send `direct` message to you with information.
-  - Non-public messages older than *1* day will be deleted.
-    - There is no good reason to keep old toots online.
-      - [Should I Delete My Tweets?](https://www.wired.com/story/the-know-it-alls-should-i-delete-my-tweets/)
 
 
 ### How to Unsubscribe
 
-1. Just `unfollow` AL's account **on your side**.
+1. Just `unfollow` AL's account.
   - **AL should unfollow you within an hour**.
     - AL do not attempt to re-follow you.
   - If you've changed your mind and want to subscribe(opt-in) again simply `follow` again.
