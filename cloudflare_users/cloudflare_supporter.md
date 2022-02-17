@@ -381,6 +381,7 @@ Do not create new issue or we will close it as duplicate.
 | [Anan29081@twitter](https://twitter.com/Anan29081/status/1400126368101244931) | advertise |
 | [Ananthu94431440@twitter](https://twitter.com/Ananthu94431440/status/1381601689925414916) | advertise |
 | [anas639623@twitter](https://twitter.com/anas639623/status/1380424790897483776) | advertise |
+| [Anasf_Aff@twitter](https://twitter.com/Anasf_Aff/status/1494012847206330368) | advertise |
 | [ANASMuH55@twitter](https://twitter.com/ANASMuH55/status/1387596975906988036) | advertise |
 | [ANASXOSHNAW313@twitter](https://twitter.com/ANASXOSHNAW313/status/1379788726730170368) | advertise |
 | [anas_freeman@twitter](https://twitter.com/anas_freeman/status/1402146891094167556) | advertise |
@@ -1121,6 +1122,7 @@ Do not create new issue or we will close it as duplicate.
 | [Charlon10033677@twitter](https://twitter.com/Charlon10033677/status/1401119173300924418) | advertise |
 | [charounwat@twitter](https://twitter.com/charounwat/status/1402988531568373769) | advertise |
 | [ChaudharyAkku02@twitter](https://twitter.com/ChaudharyAkku02/status/1391810649081008128) | advertise |
+| [chavengtop8272@twitter](https://twitter.com/chavengtop8272/status/1494007057892409344) | advertise |
 | [ChawSuSuKhin4@twitter](https://twitter.com/ChawSuSuKhin4/status/1486586914048151552) | advertise |
 | [CHE43888993@twitter](https://twitter.com/CHE43888993/status/1390611367195942914) | advertise |
 | [cheeryluvly2@twitter](https://twitter.com/cheeryluvly2/status/1401203225659912192) | advertise |
@@ -1214,6 +1216,7 @@ Do not create new issue or we will close it as duplicate.
 | [cojurmyface@twitter](https://twitter.com/cojurmyface/status/1402883595283304450) | advertise |
 | [coklukcom@twitter](https://twitter.com/coklukcom/status/1391147771911094274) | advertise |
 | [Cole64758061@twitter](https://twitter.com/Cole64758061/status/1392292609922527233) | advertise |
+| [coleman89990@twitter](https://twitter.com/coleman89990/status/1494073177273733125) | advertise |
 | [coms4socialcha1@twitter](https://twitter.com/coms4socialcha1/status/1379781588263661581) | advertise |
 | [Concho117@twitter](https://twitter.com/Concho117/status/1403355446610587648) | advertise |
 | [cong242000@twitter](https://twitter.com/cong242000/status/1383487920498040838) | advertise |
@@ -1605,6 +1608,7 @@ Do not create new issue or we will close it as duplicate.
 | [EcchiTien@twitter](https://twitter.com/EcchiTien/status/1380172764078768128) | advertise |
 | [ECcrasci@twitter](https://twitter.com/ECcrasci/status/1376228756952469505) | advertise |
 | [echebukati@twitter](https://twitter.com/echebukati/status/1466131790603685892) | advertise |
+| [EclecticBeaver@twitter](https://twitter.com/EclecticBeaver/status/1494050303074836494) | advertise |
 | [ecl_VB@twitter](https://twitter.com/ecl_VB/status/1431346378647773187) | advertise |
 | [Eddie086666@twitter](https://twitter.com/Eddie086666/status/1391423420689047565) | advertise |
 | [eddy97_dee7@twitter](https://twitter.com/eddy97_dee7/status/1478756242415710212) | advertise |
@@ -2473,6 +2477,7 @@ Do not create new issue or we will close it as duplicate.
 | [ICECRUSH00@twitter](https://twitter.com/ICECRUSH00/status/1472748160779001858) | advertise |
 | [IcekungE@twitter](https://twitter.com/IcekungE/status/1398177118391980033) | advertise |
 | [IceLing9990@twitter](https://twitter.com/IceLing9990/status/1377844062489767937) | advertise |
+| [iClutch4Fart@twitter](https://twitter.com/iClutch4Fart/status/1494032001304870916) | advertise |
 | [IcyHear05989673@twitter](https://twitter.com/IcyHear05989673/status/1394815203041169411) | advertise |
 | [idarerick@twitter](https://twitter.com/idarerick/status/1401141019442249729) | advertise |
 | [ideveloper8@twitter](https://twitter.com/ideveloper8/status/1459107888471941146) | advertise |
@@ -4047,6 +4052,7 @@ Do not create new issue or we will close it as duplicate.
 | [MithunR96567112@twitter](https://twitter.com/MithunR96567112/status/1404521110817759236) | advertise |
 | [MitraDevayan@twitter](https://twitter.com/MitraDevayan/status/1393172749288284160) | advertise |
 | [Mits_Dev@twitter](https://twitter.com/Mits_Dev/status/1392978764636643330) | advertise |
+| [MiuMp8@twitter](https://twitter.com/MiuMp8/status/1494009000975040512) | advertise |
 | [mixms_@twitter](https://twitter.com/mixms_/status/1390638654486372355) | advertise |
 | [mk4serv@twitter](https://twitter.com/mk4serv/status/1430672404968321025) | advertise |
 | [mk60970404@twitter](https://twitter.com/mk60970404/status/1389885832807342083) | advertise |
