@@ -51,98 +51,15 @@ The main difference of AltLink is `opt-in`.
 Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.md) never receive notification until they have a good heart and follow AL.
 
 
-
-
-
-
-
-
-
-
--------------------------
--------------------------
--------------------------
--------------------------
--------------------------
--------------------------
--------------------------
--------------------------
--------------------------
--------------------------
-
-# Transferred
-
-# To
-
-# New
-
-# Owners
-
--------------------------
--------------------------
--------------------------
--------------------------
--------------------------
--------------------------
--------------------------
--------------------------
--------------------------
--------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### How to Subscribe
 
-1. Follow [MitiGator](https://101010.pl/@MitiGator).
-  - [Don't have Mastodon account](https://101010.pl/invite/sQ7dpmbg)?
+1. Follow [MitiGator](https://mastodon.pirateparty.be/@MitiGator).
   - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking Altlink.
 
-2. AL will follow back you **within an hour**.
-  - If you're locking your account, please accept AL's follow request otherwise AL can't read your toots.
-    - If you **do not accept follower request within 15 hours**, your follower status will be resetted.
-  - **If** there is a network instability and AL failed to follow back you **after 1 hour**:
-    - Please `unfollow`, `wait 1 hour`, and `follow` again.
+2. Send `any text` as **direct** message to MitiGator.
+  - And MitiGator will follow back you _instantly_ with intro message.
+    - If you're locking your account, please accept AL's follow request otherwise AL can't read your toots.
+  - If you didn't got any reply make sure you are following MG.
 
 3. When you share Cloudflared link, AL will send `direct` message to you with information.
   - Non-public messages older than *1* day will be deleted.
@@ -153,9 +70,9 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 ### How to Unsubscribe
 
 1. Just `unfollow` AL's account **on your side**.
-  - **AL will unfollow you within an hour**.
-  - AL do not attempt to re-follow you.
-  - If you've changed your mind and want to subscribe(opt-in) again, `unblock`, `unfollow` AL and `follow` again.
+  - **AL should unfollow you within an hour**.
+    - AL do not attempt to re-follow you.
+  - If you've changed your mind and want to subscribe(opt-in) again simply `follow` again.
 
 
 ### Suggest clean alternatives
@@ -193,7 +110,7 @@ Put Cloudflared URL like this...
 
 ### Report a problem / Create an Issue
 
-(To use this you need to enable `Circle` option)
+(To use this you need to enable last option)
 You can create an Issue without git account. Just send a **direct** message.
 And don't worry,
 
