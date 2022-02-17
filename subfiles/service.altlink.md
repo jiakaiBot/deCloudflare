@@ -56,7 +56,7 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 1. Follow [MitiGator](https://mastodon.pirateparty.be/@MitiGator).
   - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking Altlink.
 
-2. Send `any text` as **direct** message to MitiGator.
+2. Send _any text_ as **direct** message to MitiGator. (e.g. `@mitigator hi`)
   - And MitiGator will follow back you _instantly_ with intro message.
     - If you're locking your account, please accept AL's follow request otherwise AL can't read your toots.
   - If you didn't got any reply make sure you are following MG.
