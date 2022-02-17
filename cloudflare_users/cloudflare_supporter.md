@@ -2879,6 +2879,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kasie100000@twitter](https://twitter.com/Kasie100000/status/1493728381715714050) | advertise |
 | [Kasimkh32639710@twitter](https://twitter.com/Kasimkh32639710/status/1377682614291623936) | advertise |
 | [kasote_umesh@twitter](https://twitter.com/kasote_umesh/status/1401374822593007631) | advertise |
+| [KatAmyVega@twitter](https://twitter.com/KatAmyVega/status/1494217427281846276) | advertise |
 | [KateNguyn20@twitter](https://twitter.com/KateNguyn20/status/1380191904990588929) | advertise |
 | [KatiePieterse4@twitter](https://twitter.com/KatiePieterse4/status/1400893992628375557) | advertise |
 | [kaumnen@twitter](https://twitter.com/kaumnen/status/1460612796106911749) | advertise |
@@ -6120,6 +6121,7 @@ Do not create new issue or we will close it as duplicate.
 | [TaTa21079240@twitter](https://twitter.com/TaTa21079240/status/1392294482998022144) | advertise |
 | [Tate93701388@twitter](https://twitter.com/Tate93701388/status/1380071951213850625) | advertise |
 | [TattooNghia@twitter](https://twitter.com/TattooNghia/status/1399085631028879360) | advertise |
+| [tatuiyo@twitter](https://twitter.com/tatuiyo/status/1494144614231846912) | advertise |
 | [TatumGaming@twitter](https://twitter.com/TatumGaming/status/1448827518337888257) | advertise |
 | [Tax40813778@twitter](https://twitter.com/Tax40813778/status/1388201141821796353) | advertise |
 | [taxocrate@twitter](https://twitter.com/taxocrate/status/1491431895590404098) | advertise |
@@ -6629,6 +6631,7 @@ Do not create new issue or we will close it as duplicate.
 | [TuanCuong_24@twitter](https://twitter.com/TuanCuong_24/status/1491066171663466499) | advertise |
 | [TuanHoa92591402@twitter](https://twitter.com/TuanHoa92591402/status/1401178907756220419) | advertise |
 | [tuanit3697@twitter](https://twitter.com/tuanit3697/status/1483194691680337920) | advertise |
+| [tuanland168@twitter](https://twitter.com/tuanland168/status/1494107056051085315) | advertise |
 | [tuanpham0411@twitter](https://twitter.com/tuanpham0411/status/1402953968683163653) | advertise |
 | [tuanteox69@twitter](https://twitter.com/tuanteox69/status/1400828810925199360) | advertise |
 | [Tuikho2@twitter](https://twitter.com/Tuikho2/status/1405925091263741954) | advertise |
