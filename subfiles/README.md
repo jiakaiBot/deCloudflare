@@ -85,6 +85,7 @@
 - Cloudflare attracts "repeat infringers"
   - [June 2021](repeat_infringers/2021-06.md)
   - [January 2022](repeat_infringers/2022-01.md)
+  - [February 2022](repeat_infringers/2022-02.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
