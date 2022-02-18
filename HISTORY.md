@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-02-17: [Increased HTTP 52X Errors - Frankfurt](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/406vh6dgr3yn)
 - 2022-02-17: [Issues with Managed Rulesets](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ksvdnbqqpc2c)
 - 2022-02-16: [Cloudflare is Observing Possible Network Performance Issues in West Coast (USA)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/d4g3q6bqzfnr)
 - 2022-02-15: [Possible Network Congestion Across Multiple Regions](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2trmrmlc504r)
