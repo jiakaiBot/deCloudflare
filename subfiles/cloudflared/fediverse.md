@@ -25,10 +25,10 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 130 |
+| social | 128 |
 | net | 93 |
-| com | 86 |
-| org | 60 |
+| com | 87 |
+| org | 59 |
 | jp | 43 |
 
 
@@ -68,6 +68,7 @@ Here's a list of public Fediverse services.
 | anime.website | No |
 | antabaka.me | No |
 | anticapitalist.party | Yes |
+| anticitoyen.fr.nf | No |
 | antisocial.science | No |
 | ap.kios.cc | No |
 | appdot.net | No |
@@ -206,7 +207,6 @@ Here's a list of public Fediverse services.
 | fedi.absturztau.be | No |
 | fedi.lewactwo.pl | No |
 | fedi.mecp.de | No |
-| fedi.mint.lgbt | No |
 | fedivers.net | No |
 | felesitas.cloud | No |
 | fellies.social | No |
@@ -269,6 +269,7 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
+| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -521,6 +522,7 @@ Here's a list of public Fediverse services.
 | mastodon.migennes.net | No |
 | mastodon.mit.edu | Yes |
 | mastodon.motcha.tech | Yes |
+| mastodon.multimob.be | No |
 | mastodon.nekomimi.jp | No |
 | mastodon.nestegg.net | No |
 | mastodon.nesven.eu | No |
@@ -562,7 +564,6 @@ Here's a list of public Fediverse services.
 | mastodon.underworld.fr | No |
 | mastodon.uno | Yes |
 | mastodon.utwente.nl | No |
-| mastodon.uy | No |
 | mastodon.wafflec.one | No |
 | mastodon.world | No |
 | mastodon.xy-space.de | No |
@@ -816,11 +817,9 @@ Here's a list of public Fediverse services.
 | rivals.space | Yes |
 | rly.wtf | Yes |
 | ro-mastodon.puyo.jp | No |
-| roleplayers.bub.org | No |
 | rollenspiel.social | No |
 | romancelandia.club | No |
 | roughseas.xyz | No |
-| ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
 | rva.party | No |
@@ -950,7 +949,6 @@ Here's a list of public Fediverse services.
 | social.thisisjoes.site | No |
 | social.tilde.team | No |
 | social.troll.academy | No |
-| social.trom.tf | No |
 | social.tulsa.ok.us | No |
 | social.typica.us | No |
 | social.uhoreg.ca | Yes |
@@ -1096,7 +1094,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1127,7 +1124,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 218 |
-| Normal | 868 |
+| Normal | 865 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
