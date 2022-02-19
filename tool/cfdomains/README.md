@@ -20,10 +20,10 @@ $ ./cfdomains
 
 | Name | Value |
 | -- | -- |
-| Version | v1.0.1 |
-| Linux | sha256 098c2bb8e17d84a8e05971a5b9b1eb730264caa4cbf3c65aba2974d129a3c59e |
-| Windows | sha256 c3fb19fa4def2543a7133f41ac3ffc3c80e4028f82e21da1688cfc9ce8f3e72e |
-| Mac OS | sha256 fae21f5876df8812c06fec4f764e875812679e062d4eacc01c5f6273e7a7b519 |
+| Version | v1.0.2 |
+| Linux | sha256 2315366858261ab2e60710538d7d7cf39a091cdeb90d55c601255468028d29c1 |
+| Windows | sha256 e14427741da4f78ffbcaa232313351b519bcb27f46fa01ae58a991195a205eca |
+| Mac OS | sha256 f890211b0a707e8f528e95580480090830b8edb01c9f848a401049129e4e78e6 |
 
 
 ----
@@ -32,6 +32,7 @@ $ ./cfdomains
 Usage:
         cfdomains example.com
         cfdomains --dir
+        cfdomains --proxy
         cfdomains [--dl|--dl2][ |0,1,...,a,b,...z]
         cfdomains [--report|--delist] example.com
 
@@ -46,6 +47,10 @@ Details:
                 Change list directory
                 Current directory: ./cfdomains_Data/
 
+        cfdomains --proxy
+                Set or Unset SOCKS proxy
+                Current SOCKS proxy:
+
         cfdomains --dl|dl2
         cfdomains --dl|dl2 a,b,c
                 dl: Download list files from Archive.org
@@ -53,8 +58,8 @@ Details:
                 a,b,c: Download only these files (comma-separated)
 
         cfdomains --report|delist example.com
-                Submit domain to #Karma for analysis
+                Submit domain to #Karma for automated analysis
                 Only the domain will be submitted. We NEVER record anything else.
-                report: Report not-yet-listed domain (Cloudflared)
+                report: Report not-yet-listed domain (New Cloudflare)
                 delist: Report currently-listed domain (Left Cloudflare)
 ```
