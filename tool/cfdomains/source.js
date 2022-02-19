@@ -1,8 +1,19 @@
 const args = process.argv,
-	fs = require('fs'),
-	rq = require('request');
-const Fconfig = require('os').homedir() + '/.cfdomains.cfg';
-let Dlist = './cfdomains_Data/';
+	fs = require('fs');
+const {
+	Curl,
+	CurlHttpVersion
+} = require('node-libcurl');
+const cur1 = new Curl();
+cur1.setOpt('SSL_VERIFYPEER', false);
+cur1.setOpt('HTTP_VERSION', CurlHttpVersion.V2PriorKnowledge);
+cur1.setOpt('FOLLOWLOCATION', true);
+cur1.setOpt('CONNECTTIMEOUT', 8);
+cur1.setOpt('TIMEOUT', 600);
+const Fconfig = require('os').homedir() + '/.cfdomains.cfg',
+	Fproxy = require('os').homedir() + '/.cfdomains_sox.cfg';
+let Dlist = './cfdomains_Data/',
+	myproxy = '';
 function forceExit(m) {
 	console.log('\x1b[31m%s\x1b[0m', m);
 	process.exit();
@@ -19,11 +30,18 @@ if (fs.existsSync(Fconfig)) {
 		forceExit('List directory is not okay! Fix this by running --dir');
 	}
 }
+if (fs.existsSync(Fproxy)) {
+	myproxy = fs.readFileSync(Fproxy);
+	if (myproxy.indexOf(':') < 6) {
+		myproxy = '';
+	}
+}
 function showUsage() {
-	console.log("\n	\x1b[33mCfDomains\x1b[0m  v1.0.1\n");
+	console.log("\n	\x1b[33mCfDomains\x1b[0m  v1.0.2\n");
 	console.log('\x1b[36mUsage:\x1b[0m');
 	console.log('	cfdomains \x1b[43mexample.com\x1b[0m');
 	console.log('	cfdomains --dir');
+	console.log('	cfdomains --proxy');
 	console.log('	cfdomains [--dl|--dl2][ |0,1,...,a,b,...z]');
 	console.log("	cfdomains [--report|--delist] \x1b[43mexample.com\x1b[0m\n");
 	console.log('\x1b[36mDetails:\x1b[0m');
@@ -35,15 +53,18 @@ function showUsage() {
 	console.log('	cfdomains --dir');
 	console.log('		Change list directory');
 	console.log('		\x1b[4mCurrent directory\x1b[0m: ' + Dlist + "\n");
+	console.log('	cfdomains --proxy');
+	console.log('		Set or Unset SOCKS proxy');
+	console.log('		\x1b[4mCurrent SOCKS proxy\x1b[0m: ' + myproxy + "\n");
 	console.log('	cfdomains --dl|dl2');
 	console.log('	cfdomains --dl|dl2 \x1b[43ma,b,c\x1b[0m');
 	console.log('		\x1b[32mdl\x1b[0m: Download list files from Archive.org');
 	console.log('		\x1b[32mdl2\x1b[0m: Download list files from deCloudflare git');
 	console.log("		\x1b[32ma,b,c\x1b[0m: Download only these files (comma-separated)\n");
 	console.log('	cfdomains --report|delist \x1b[43mexample.com\x1b[0m');
-	console.log('		Submit domain to #Karma for analysis');
+	console.log('		Submit domain to #Karma for automated analysis');
 	console.log('		\x1b[4mOnly the domain will be submitted\x1b[0m. We NEVER record anything else.');
-	console.log('		\x1b[32mreport\x1b[0m: Report not-yet-listed domain (Cloudflared)');
+	console.log('		\x1b[32mreport\x1b[0m: Report not-yet-listed domain (New Cloudflare)');
 	console.log("		\x1b[32mdelist\x1b[0m: Report currently-listed domain (Left Cloudflare)\n");
 	console.log();
 	process.exit();
@@ -52,7 +73,7 @@ function chgLDR() {
 	const rle = require('readline');
 	let rl = rle.createInterface(process.stdin, process.stdout);
 	console.log('Current save directory: ' + Dlist);
-	console.log(' Set empty to use default location.');
+	console.log('Set "empty" to use default location.');
 	rl.question('List save directory: ', (l) => {
 		rl.close();
 		if (l.length > 1 && l !== 'empty') {
@@ -73,18 +94,40 @@ function chgLDR() {
 		process.exit();
 	});
 }
+function chgPROXY() {
+	const rle = require('readline');
+	let rl = rle.createInterface(process.stdin, process.stdout);
+	console.log('Current SOCKS Proxy: ' + myproxy);
+	console.log('Set none to use direct connection.');
+	rl.question('Input SOCKS Proxy [IP:Port]: ', (l) => {
+		rl.close();
+		if (/^([0-9]{1,3})\.([0-9]{1,3})\.([0-9]{1,3})\.([0-9]{1,3})\:([0-9]{1,5})$/.test(l)) {
+			fs.writeFileSync(Fproxy, l);
+		} else {
+			try {
+				fs.unlinkSync(Fproxy);
+			} catch (e) {}
+		}
+		process.exit();
+	});
+}
 function dlFile(bu, i) {
-	return new Promise(function (ok, nope) {
-		rq({
-			uri: bu + 'cloudflare_' + i + '.json',
-			headers: {
-				'User-Agent': ''
-			}
-		}, function (e, r, b) {
-			if (e) {
-				forceExit('Connection Error while downloading list ' + i);
-			}
-			if (r.statusCode != 200) {
+	return new Promise((okay, nope) => {
+		const curl = cur1.dupHandle(false);
+		curl.setOpt('URL', bu + 'cloudflare_' + i + '.json');
+		curl.setOpt('USERAGENT', 'CfDomains');
+		if (myproxy != '') {
+			curl.setOpt('HTTPPROXYTUNNEL', 1);
+			curl.setOpt('PROXY', 'socks5h://' + myproxy + '/');
+		}
+		curl.on('error', (er, ec) => {
+			curl.close();
+			console.log('\x1b[31m%s\x1b[0m', er);
+			forceExit('Connection Error while downloading list ' + i);
+		});
+		curl.on('end', (sc, b) => {
+			curl.close();
+			if (sc != 200) {
 				forceExit('Server error ' + r.statusCode);
 			}
 			try {
@@ -93,8 +136,9 @@ function dlFile(bu, i) {
 				forceExit('Bad Data Error while downloading list ' + i);
 			}
 			fs.writeFileSync(Dlist + i, b);
-			ok();
+			okay();
 		});
+		curl.perform();
 	});
 }
 function shuffle(array) {
@@ -115,6 +159,9 @@ async function dlFiles(bu) {
 	}
 	if (!fs.existsSync(Dlist)) {
 		forceExit('Directory not found!');
+	}
+	if (myproxy == '') {
+		console.log('\x1b[36mNOTICE\x1b[0m: You are not using any proxy.');
 	}
 	console.log('Downloading lists: ' + bu);
 	let w, names = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
@@ -151,7 +198,6 @@ async function dlFiles(bu) {
 			forceExit('Bad data found');
 		}
 	}
-	console.log("Done!\n");
 	process.exit();
 }
 function queryDom() {
@@ -175,30 +221,35 @@ function queryDom() {
 	process.exit();
 }
 function reporter(dom, t) {
-	return new Promise(function (ok, nope) {
-		rq({
-			uri: 'https://karma.clearnetonion.eu.org/api/is_cf.php',
-			body: 'ana=' + t + '&f=' + dom,
-			method: 'POST',
-			headers: {
-				'User-Agent': 'CfDomains',
-				'Content-Type': 'application/x-www-form-urlencoded'
-			}
-		}, function (e, r, b) {
-			if (e) {
-				forceExit('Connection Error');
-			}
-			if (r.statusCode != 404) {
+	return new Promise((okay, nope) => {
+		const curl = cur1.dupHandle(false);
+		curl.setOpt('URL', 'https://karma.clearnetonion.eu.org/api/is_cf.php');
+		curl.setOpt('USERAGENT', 'CfDomains');
+		if (myproxy != '') {
+			curl.setOpt('HTTPPROXYTUNNEL', 1);
+			curl.setOpt('PROXY', 'socks5h://' + myproxy + '/');
+		}
+		curl.setOpt(Curl.option.POST, true);
+		curl.setOpt(Curl.option.POSTFIELDS, 'ana=' + t + '&f=' + dom);
+		curl.on('error', (er, ec) => {
+			curl.close();
+			console.log('\x1b[31m%s\x1b[0m', er);
+			forceExit('Connection Error');
+		});
+		curl.on('end', (sc, b) => {
+			curl.close();
+			if (sc != 404) {
 				forceExit('Server error');
 			}
 			try {
 				JSON.parse(b)
 			} catch (e1) {
-				forceExit('Bad Response Error A');
+				forceExit('Bad Response Error');
 			}
 			console.log('Done!');
-			ok(b);
+			okay(b);
 		});
+		curl.perform();
 	});
 }
 async function reporters(yn) {
@@ -221,6 +272,9 @@ async function reporters(yn) {
 		if (yn == 'n') {
 			forceExit('Already not listed, no need to report.');
 		}
+	}
+	if (myproxy == '') {
+		console.log('\x1b[36mNOTICE\x1b[0m: You are not using any proxy.');
 	}
 	console.log('Reporting ' + dom);
 	let w = await reporter(dom, yn);
@@ -247,6 +301,8 @@ if (args.length <= 2) {
 	showUsage();
 } else if (args[2] === '--dir') {
 	chgLDR();
+} else if (args[2] === '--proxy') {
+	chgPROXY();
 } else if (args[2] === '--dl') {
 	dlFiles('https://archive.org/download/crimeflare/');
 } else if (args[2] === '--dl2') {
