@@ -82,7 +82,7 @@
 - Name Servers on the Internet
   - [September 2021](nameservers/2021-09.md)
   - [December 2021](nameservers/2021-12.md)
-  - [February 2021](nameservers/2022-02.md)
+  - [February 2022](nameservers/2022-02.md)
 - Cloudflare attracts "repeat infringers"
   - [June 2021](repeat_infringers/2021-06.md)
   - [January 2022](repeat_infringers/2022-01.md)
