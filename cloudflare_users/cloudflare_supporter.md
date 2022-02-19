@@ -228,6 +228,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ahmadking5111@twitter](https://twitter.com/Ahmadking5111/status/1400390503879880705) | advertise |
 | [ahmdh4474@twitter](https://twitter.com/ahmdh4474/status/1390763076660736001) | advertise |
 | [AhmedAl87534372@twitter](https://twitter.com/AhmedAl87534372/status/1382167857501503492) | advertise |
+| [AhmedDeaf93@twitter](https://twitter.com/AhmedDeaf93/status/1494968949976571907) | advertise |
 | [AhmedGa90400768@twitter](https://twitter.com/AhmedGa90400768/status/1378080868938493956) | advertise |
 | [AhmedHu05262654@twitter](https://twitter.com/AhmedHu05262654/status/1478283890485653504) | advertise |
 | [Ahmedsa96861316@twitter](https://twitter.com/Ahmedsa96861316/status/1412890312859656192) | moral (advertise) |
@@ -1781,6 +1782,7 @@ Do not create new issue or we will close it as duplicate.
 | [fikiimaulana@twitter](https://twitter.com/fikiimaulana/status/1420208000560549888) | advertise |
 | [FileProInfo1@twitter](https://twitter.com/FileProInfo1/status/1446057279657218050) | advertise |
 | [findmeadevice@twitter](https://twitter.com/findmeadevice/status/1465437487497682955) | advertise |
+| [finmods_com@twitter](https://twitter.com/finmods_com/status/1494976559966572549) | advertise |
 | [finn476@twitter](https://twitter.com/finn476/status/1379428259914424329) | advertise |
 | [FireGam99404905@twitter](https://twitter.com/FireGam99404905/status/1399726131842977792) | advertise |
 | [fjpkagami@twitter](https://twitter.com/fjpkagami/status/1392923842880831488) | advertise |
@@ -3969,6 +3971,7 @@ Do not create new issue or we will close it as duplicate.
 | [Minecraftindon6@twitter](https://twitter.com/Minecraftindon6/status/1475411079098355713) | advertise |
 | [Minemu@twitter](https://twitter.com/Minemu/status/1421686937522348036) | advertise |
 | [Minh1717@twitter](https://twitter.com/Minh1717/status/1401879124075892736) | advertise |
+| [minh2995@twitter](https://twitter.com/minh2995/status/1494965864340537346) | advertise |
 | [minh85912@twitter](https://twitter.com/minh85912/status/1482260480852824065) | advertise |
 | [Minh18041999@twitter](https://twitter.com/Minh18041999/status/1487079475368308739) | advertise |
 | [Minh22002919@twitter](https://twitter.com/Minh22002919/status/1398568502483591168) | advertise |
@@ -5292,6 +5295,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ra36279199@twitter](https://twitter.com/Ra36279199/status/1395644864587501569) | advertise |
 | [racycars@twitter](https://twitter.com/racycars/status/1394606713827778561) | advertise |
 | [radpaluszak@twitter](https://twitter.com/radpaluszak/status/1398323773435265028) | advertise |
+| [radrohamymailc1@twitter](https://twitter.com/radrohamymailc1/status/1494955192973942785) | advertise |
 | [radthebad007@twitter](https://twitter.com/radthebad007/status/1395685973443452929) | advertise |
 | [ragab1234341@twitter](https://twitter.com/ragab1234341/status/1392273173442408448) | advertise |
 | [raghu83283525@twitter](https://twitter.com/raghu83283525/status/1377305204429791233) | advertise |
@@ -6944,6 +6948,7 @@ Do not create new issue or we will close it as duplicate.
 | [wasmithee@twitter](https://twitter.com/wasmithee/status/1478506638856183813) | advertise |
 | [watermelaa@twitter](https://twitter.com/watermelaa/status/1379361436393041922) | advertise |
 | [wathanminbo@twitter](https://twitter.com/wathanminbo/status/1394217050822909952) | advertise |
+| [WBimson999@twitter](https://twitter.com/WBimson999/status/1495052912288018432) | advertise |
 | [WDragon203@twitter](https://twitter.com/WDragon203/status/1416258687266476033) | advertise |
 | [wd_kill@twitter](https://twitter.com/wd_kill/status/1475478794626650123) | advertise |
 | [webdownunder@twitter](https://twitter.com/webdownunder/status/1472764286283833345) | advertise |
