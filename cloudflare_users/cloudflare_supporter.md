@@ -7064,6 +7064,7 @@ Do not create new issue or we will close it as duplicate.
 | [XR389680978@twitter](https://twitter.com/XR389680978/status/1402950109134876673) | advertise |
 | [XRay12539891@twitter](https://twitter.com/XRay12539891/status/1395074993768304647) | advertise |
 | [xrayrose176@twitter](https://twitter.com/xrayrose176/status/1379845552997724163) | advertise |
+| [Xstar97TheNoob@twitter](https://twitter.com/Xstar97TheNoob/status/1494824329586122756) | advertise |
 | [xTrapNover@twitter](https://twitter.com/xTrapNover/status/1394301970169491457) | advertise |
 | [Xtun45371052@twitter](https://twitter.com/Xtun45371052/status/1396529138454781952) | advertise |
 | [xubbers@twitter](https://twitter.com/xubbers/status/1375092922975145988) | advertise |
