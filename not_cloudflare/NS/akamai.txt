@@ -1,4 +1,5 @@
 10-64.akam.net
+16-67.akam.net
 a1-1.akam.net
 a1-10.akam.net
 a1-100.akam.net
