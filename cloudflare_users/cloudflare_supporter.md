@@ -813,6 +813,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bappiro79553221@twitter](https://twitter.com/Bappiro79553221/status/1401836385695277060) | advertise |
 | [bappyrayhan@twitter](https://twitter.com/bappyrayhan/status/1478396344834342913) | advertise |
 | [barbadoslive@twitter](https://twitter.com/barbadoslive/status/1370835424571179012) | advertise |
+| [barbooviolet@twitter](https://twitter.com/barbooviolet/status/1495203666000683010) | advertise |
 | [BaSai44822569@twitter](https://twitter.com/BaSai44822569/status/1390875744100827142) | advertise |
 | [BasavarajShaha4@twitter](https://twitter.com/BasavarajShaha4/status/1392060094108504067) | advertise |
 | [BashaBa71391325@twitter](https://twitter.com/BashaBa71391325/status/1384809106226106371) | advertise |
@@ -3102,8 +3103,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimThanhtung4@twitter](https://twitter.com/KimThanhtung4/status/1471340018555711489) | advertise |
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -4664,6 +4665,7 @@ Do not create new issue or we will close it as duplicate.
 | [NikhilSPawar4@twitter](https://twitter.com/NikhilSPawar4/status/1447058829020069891) | advertise |
 | [NiladriAsh@twitter](https://twitter.com/NiladriAsh/status/1395822333944684544) | advertise |
 | [NilarSo52519800@twitter](https://twitter.com/NilarSo52519800/status/1394584973143851009) | advertise |
+| [NimaNaji@twitter](https://twitter.com/NimaNaji/status/1495309685401993216) | advertise |
 | [nima_jalilzadeh@twitter](https://twitter.com/nima_jalilzadeh/status/1383908849791340555) | advertise |
 | [Nimesh04922409@twitter](https://twitter.com/Nimesh04922409/status/1401428764907642883) | advertise |
 | [nimmneun@twitter](https://twitter.com/nimmneun/status/1435175570288087048) | advertise |
