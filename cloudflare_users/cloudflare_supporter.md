@@ -346,6 +346,7 @@ Do not create new issue or we will close it as duplicate.
 | [amai0722@twitter](https://twitter.com/amai0722/status/1395805952704606208) | advertise |
 | [amalalmadawy@twitter](https://twitter.com/amalalmadawy/status/1398334332322844679) | advertise |
 | [amaljith16@twitter](https://twitter.com/amaljith16/status/1401844314087378950) | advertise |
+| [Aman51457490@twitter](https://twitter.com/Aman51457490/status/1495121007362777088) | advertise |
 | [AmanMalawat3@twitter](https://twitter.com/AmanMalawat3/status/1381140429131943936) | advertise |
 | [AmanYad62817265@twitter](https://twitter.com/AmanYad62817265/status/1395775965280694274) | advertise |
 | [Amara35146318@twitter](https://twitter.com/Amara35146318/status/1396799727178375172) | advertise |
@@ -1821,6 +1822,7 @@ Do not create new issue or we will close it as duplicate.
 | [FuckThong8@twitter](https://twitter.com/FuckThong8/status/1389450074309099521) | advertise |
 | [Fullmoo48883890@twitter](https://twitter.com/Fullmoo48883890/status/1392352133417078793) | advertise |
 | [fullOspace@twitter](https://twitter.com/fullOspace/status/1378241319634493443) | advertise |
+| [FumihikoHatta@twitter](https://twitter.com/FumihikoHatta/status/1495165291273326595) | advertise |
 | [Funcky77200595@twitter](https://twitter.com/Funcky77200595/status/1392335460807155714) | advertise |
 | [fury67804656@twitter](https://twitter.com/fury67804656/status/1399012818767187969) | advertise |
 | [Furymdy@twitter](https://twitter.com/Furymdy/status/1380487672875999234) | advertise |
@@ -5719,6 +5721,7 @@ Do not create new issue or we will close it as duplicate.
 | [SGhosting3@twitter](https://twitter.com/SGhosting3/status/1395637273262116866) | advertise |
 | [sh1mc@twitter](https://twitter.com/sh1mc/status/1401972658242084864) | advertise |
 | [sha3rawi33@twitter](https://twitter.com/sha3rawi33/status/1415611299602501632) | advertise |
+| [shabdonagor@twitter](https://twitter.com/shabdonagor/status/1495104498821636096) | advertise |
 | [Shabpare4@twitter](https://twitter.com/Shabpare4/status/1398453177666711558) | advertise |
 | [Shadman38414210@twitter](https://twitter.com/Shadman38414210/status/1386715055601840135) | advertise |
 | [Shadow28370711@twitter](https://twitter.com/Shadow28370711/status/1398972532217188355) | advertise |
@@ -5754,6 +5757,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shashan45861422@twitter](https://twitter.com/Shashan45861422/status/1401462291397181441) | advertise |
 | [Shashik19575790@twitter](https://twitter.com/Shashik19575790/status/1384458463896477698) | advertise |
 | [Shatan17600579@twitter](https://twitter.com/Shatan17600579/status/1403215707387482116) | advertise |
+| [ShaunVillafana@twitter](https://twitter.com/ShaunVillafana/status/1495117083700387840) | advertise |
 | [shawadin96@twitter](https://twitter.com/shawadin96/status/1393564895409434627) | advertise |
 | [shawnjvandiver@twitter](https://twitter.com/shawnjvandiver/status/1455368726748954625) | advertise |
 | [shayanjoun@twitter](https://twitter.com/shayanjoun/status/1381894805509275649) | advertise |
@@ -5964,6 +5968,7 @@ Do not create new issue or we will close it as duplicate.
 | [sophiemabel69@twitter](https://twitter.com/sophiemabel69/status/1391867304632328197) | advertise |
 | [Sosuke5N@twitter](https://twitter.com/Sosuke5N/status/1393150723941183492) | advertise |
 | [sosunwale@twitter](https://twitter.com/sosunwale/status/1400970212980240394) | advertise |
+| [Soumalyaplayz@twitter](https://twitter.com/Soumalyaplayz/status/1495078297268473858) | advertise |
 | [Soumilsiwach1@twitter](https://twitter.com/Soumilsiwach1/status/1380401647990448130) | advertise |
 | [sound_boxxx@twitter](https://twitter.com/sound_boxxx/status/1411259984680210432) | moral (advertise) |
 | [Sourav80746656@twitter](https://twitter.com/Sourav80746656/status/1394838874027827203) | advertise |
