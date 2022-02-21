@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 128 |
-| net | 91 |
+| net | 93 |
 | com | 88 |
-| org | 59 |
+| org | 60 |
 | jp | 43 |
 
 
@@ -207,6 +207,7 @@ Here's a list of public Fediverse services.
 | fedi.absturztau.be | No |
 | fedi.lewactwo.pl | No |
 | fedi.mecp.de | No |
+| fedi.mint.lgbt | No |
 | fedivers.net | No |
 | felesitas.cloud | No |
 | fellies.social | No |
@@ -286,7 +287,6 @@ Here's a list of public Fediverse services.
 | hello.2heng.xin | Yes |
 | hellsite.site | No |
 | hessen.social | No |
-| hispagatos.space | No |
 | hokutodon.co | No |
 | homoo.social | No |
 | hostsharing.coop | No |
@@ -513,6 +513,7 @@ Here's a list of public Fediverse services.
 | mastodon.lt | No |
 | mastodon.macsnet.cz | No |
 | mastodon.madrid | No |
+| mastodon.mania.systems | No |
 | mastodon.matcha-soft.com | No |
 | mastodon.me.uk | Yes |
 | mastodon.mechanicalmischief.com | No |
@@ -599,7 +600,6 @@ Here's a list of public Fediverse services.
 | mellified.men | No |
 | mental.social | No |
 | meow.social | No |
-| metalhead.club | No |
 | metuba.hostdon.jp | No |
 | mhz.social | No |
 | minohdon.jp | No |
@@ -646,6 +646,7 @@ Here's a list of public Fediverse services.
 | mstdn.liliso.com | No |
 | mstdn.love | Yes |
 | mstdn.maud.io | Yes |
+| mstdn.mell0w-5phere.net | No |
 | mstdn.mini4wd-engineer.com | No |
 | mstdn.misosi.ru | Yes |
 | mstdn.mk39.xyz | No |
@@ -816,12 +817,15 @@ Here's a list of public Fediverse services.
 | rivals.space | Yes |
 | rly.wtf | Yes |
 | ro-mastodon.puyo.jp | No |
+| roleplayers.bub.org | No |
 | rollenspiel.social | No |
 | romancelandia.club | No |
 | roughseas.xyz | No |
+| ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
 | rva.party | No |
+| s.ovalerio.net | Yes |
 | salocha.online | No |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
@@ -1043,7 +1047,6 @@ Here's a list of public Fediverse services.
 | tooting.intensifi.es | No |
 | toots.benpro.fr | Yes |
 | toots.slothy.win | Yes |
-| toots.social | Yes |
 | topic-master.com | No |
 | transmom.love | No |
 | travel-friends.chat | No |
@@ -1125,7 +1128,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 218 |
-| Normal | 866 |
+| Normal | 869 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
