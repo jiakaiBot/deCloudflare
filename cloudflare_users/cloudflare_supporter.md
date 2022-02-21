@@ -2985,6 +2985,7 @@ Do not create new issue or we will close it as duplicate.
 | [kevilhau@twitter](https://twitter.com/kevilhau/status/1381681452455108609) | advertise |
 | [KevinMika7@twitter](https://twitter.com/KevinMika7/status/1387491734066696192) | advertise |
 | [KevinVu184@twitter](https://twitter.com/KevinVu184/status/1462324991106502658) | advertise |
+| [kevin_pirnie@twitter](https://twitter.com/kevin_pirnie/status/1495525303963238400) | advertise |
 | [kevs_a_g@twitter](https://twitter.com/kevs_a_g/status/1469233714022522880) | advertise |
 | [keyboardwah@twitter](https://twitter.com/keyboardwah/status/1457507340639371265) | advertise |
 | [keyitme999@twitter](https://twitter.com/keyitme999/status/1488542840011456512) | advertise |
@@ -5445,6 +5446,7 @@ Do not create new issue or we will close it as duplicate.
 | [RM14428161@twitter](https://twitter.com/RM14428161/status/1394881569219878912) | advertise |
 | [RMFuQ@twitter](https://twitter.com/RMFuQ/status/1376775783755120646) | advertise |
 | [rmljg@twitter](https://twitter.com/rmljg/status/1487435179274637318) | advertise |
+| [RMS_KING24@twitter](https://twitter.com/RMS_KING24/status/1495456762257809408) | advertise |
 | [rm_blank_slash@twitter](https://twitter.com/rm_blank_slash/status/1382681666817126402) | advertise |
 | [RobAllen26@twitter](https://twitter.com/RobAllen26/status/1386491535038902276) | advertise |
 | [Robert54332996@twitter](https://twitter.com/Robert54332996/status/1398109501794906119) | advertise |
@@ -5946,6 +5948,7 @@ Do not create new issue or we will close it as duplicate.
 | [soewinmaung97@twitter](https://twitter.com/soewinmaung97/status/1395057035163541505) | advertise |
 | [SoeYarz80744231@twitter](https://twitter.com/SoeYarz80744231/status/1390279447211741195) | advertise |
 | [soeyumon15@twitter](https://twitter.com/soeyumon15/status/1404333686925840389) | advertise |
+| [softword@twitter](https://twitter.com/softword/status/1495497302441709568) | advertise |
 | [sohail_2668@twitter](https://twitter.com/sohail_2668/status/1379913128268328961) | advertise |
 | [soil35719772@twitter](https://twitter.com/soil35719772/status/1392742661144997890) | advertise |
 | [Sojolah02162432@twitter](https://twitter.com/Sojolah02162432/status/1401944661275545603) | advertise |
