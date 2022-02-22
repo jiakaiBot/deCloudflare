@@ -539,6 +539,7 @@ Do not create new issue or we will close it as duplicate.
 | [ASKERONServices@twitter](https://twitter.com/ASKERONServices/status/1428021078119653379) | advertise |
 | [AskKarinSarl@twitter](https://twitter.com/AskKarinSarl/status/1377719226383892480) | advertise |
 | [AskmeArunkc21@twitter](https://twitter.com/AskmeArunkc21/status/1370289301959835651) | advertise |
+| [AsmrFCB@twitter](https://twitter.com/AsmrFCB/status/1496035260081057794) | advertise |
 | [AspectViam@twitter](https://twitter.com/AspectViam/status/1472388790484287489) | advertise |
 | [asperouzb@twitter](https://twitter.com/asperouzb/status/1492125374825865218) | advertise |
 | [Asphalt898@twitter](https://twitter.com/Asphalt898/status/1396524639430463489) | advertise |
@@ -1541,6 +1542,7 @@ Do not create new issue or we will close it as duplicate.
 | [dr0iz2@twitter](https://twitter.com/dr0iz2/status/1450296026137567232) | advertise |
 | [DragonTechIT@twitter](https://twitter.com/DragonTechIT/status/1437804344682893321) | advertise |
 | [drAhlawy@twitter](https://twitter.com/drAhlawy/status/1389690659188191234) | advertise |
+| [Drake7989@twitter](https://twitter.com/Drake7989/status/1495757039532146691) | advertise |
 | [DrAPSone@twitter](https://twitter.com/DrAPSone/status/1388524225166602240) | advertise |
 | [DrArif74649784@twitter](https://twitter.com/DrArif74649784/status/1473217239528742913) | advertise |
 | [DrAungNgeNgeSo1@twitter](https://twitter.com/DrAungNgeNgeSo1/status/1389918308615421955) | advertise |
@@ -2989,6 +2991,7 @@ Do not create new issue or we will close it as duplicate.
 | [KevinVu184@twitter](https://twitter.com/KevinVu184/status/1462324991106502658) | advertise |
 | [kevin_pirnie@twitter](https://twitter.com/kevin_pirnie/status/1495525303963238400) | advertise |
 | [kevs_a_g@twitter](https://twitter.com/kevs_a_g/status/1469233714022522880) | advertise |
+| [KexyYogesh@twitter](https://twitter.com/KexyYogesh/status/1495990679180570626) | advertise |
 | [keyboardwah@twitter](https://twitter.com/keyboardwah/status/1457507340639371265) | advertise |
 | [keyitme999@twitter](https://twitter.com/keyitme999/status/1488542840011456512) | advertise |
 | [keysiee12@twitter](https://twitter.com/keysiee12/status/1405166173231063044) | advertise |
@@ -3109,8 +3112,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimThanhtung4@twitter](https://twitter.com/KimThanhtung4/status/1471340018555711489) | advertise |
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -3464,6 +3467,7 @@ Do not create new issue or we will close it as duplicate.
 | [laywee3@twitter](https://twitter.com/laywee3/status/1381039752535633923) | advertise |
 | [LBnBon1@twitter](https://twitter.com/LBnBon1/status/1380896958659747846) | advertise |
 | [Lc58646640@twitter](https://twitter.com/Lc58646640/status/1401490112408481792) | advertise |
+| [Lc82727489@twitter](https://twitter.com/Lc82727489/status/1495876686810062848) | advertise |
 | [Lc85060257@twitter](https://twitter.com/Lc85060257/status/1395364834762321921) | advertise |
 | [lcavallaro91@twitter](https://twitter.com/lcavallaro91/status/1448364966403354633) | advertise |
 | [Lcngt13@twitter](https://twitter.com/Lcngt13/status/1403354053824815106) | advertise |
@@ -3857,6 +3861,7 @@ Do not create new issue or we will close it as duplicate.
 | [MayZin85262683@twitter](https://twitter.com/MayZin85262683/status/1384536807824449537) | advertise |
 | [mazainomizu@twitter](https://twitter.com/mazainomizu/status/1430850935652188162) | advertise |
 | [mazoghby@twitter](https://twitter.com/mazoghby/status/1371803600096202756) | advertise |
+| [MB72374335@twitter](https://twitter.com/MB72374335/status/1496020675609645056) | advertise |
 | [MBangbwx@twitter](https://twitter.com/MBangbwx/status/1493618913594253314) | advertise |
 | [MChanngyi@twitter](https://twitter.com/MChanngyi/status/1403022638901985281) | advertise |
 | [MckyawG80477746@twitter](https://twitter.com/MckyawG80477746/status/1402182846521901056) | advertise |
@@ -3867,6 +3872,7 @@ Do not create new issue or we will close it as duplicate.
 | [MdAshra85999828@twitter](https://twitter.com/MdAshra85999828/status/1386984714934886407) | advertise |
 | [MdJuned57137884@twitter](https://twitter.com/MdJuned57137884/status/1378966402720272384) | advertise |
 | [mdk796299@twitter](https://twitter.com/mdk796299/status/1394950846845046794) | advertise |
+| [MdMasud94762486@twitter](https://twitter.com/MdMasud94762486/status/1496017091014832128) | advertise |
 | [mdmsca@twitter](https://twitter.com/mdmsca/status/1389633758509293569) | advertise |
 | [MdNazmu41129198@twitter](https://twitter.com/MdNazmu41129198/status/1385844121915379712) | advertise |
 | [MDng56112137@twitter](https://twitter.com/MDng56112137/status/1396680258359754755) | advertise |
@@ -4451,6 +4457,7 @@ Do not create new issue or we will close it as duplicate.
 | [navidr278@twitter](https://twitter.com/navidr278/status/1486214003441512448) | advertise |
 | [Navnath22377070@twitter](https://twitter.com/Navnath22377070/status/1379500987321184257) | advertise |
 | [NawYamin5@twitter](https://twitter.com/NawYamin5/status/1394208976900739074) | advertise |
+| [nayan1332@twitter](https://twitter.com/nayan1332/status/1495866875267678208) | advertise |
 | [Naychi59081646@twitter](https://twitter.com/Naychi59081646/status/1390612281566789639) | advertise |
 | [NayChi62191591@twitter](https://twitter.com/NayChi62191591/status/1385800652056530947) | advertise |
 | [NayChiAung7@twitter](https://twitter.com/NayChiAung7/status/1402581066209243136) | advertise |
@@ -5041,6 +5048,7 @@ Do not create new issue or we will close it as duplicate.
 | [phonepyaeshn@twitter](https://twitter.com/phonepyaeshn/status/1396732146866262019) | advertise |
 | [phonetezaphyo@twitter](https://twitter.com/phonetezaphyo/status/1390312032361123840) | advertise |
 | [PhongCa70106622@twitter](https://twitter.com/PhongCa70106622/status/1394490447460929543) | advertise |
+| [phongchanog@twitter](https://twitter.com/phongchanog/status/1495811312659857409) | advertise |
 | [phonglol9x@twitter](https://twitter.com/phonglol9x/status/1473306367737827328) | advertise |
 | [PhongNg16713251@twitter](https://twitter.com/PhongNg16713251/status/1381110708708864002) | advertise |
 | [Phongo84768240@twitter](https://twitter.com/Phongo84768240/status/1405929524727005184) | advertise |
@@ -5177,6 +5185,7 @@ Do not create new issue or we will close it as duplicate.
 | [Prasant84597643@twitter](https://twitter.com/Prasant84597643/status/1377798977483984896) | advertise |
 | [Prashan72710850@twitter](https://twitter.com/Prashan72710850/status/1476895145886818304) | advertise |
 | [Prashantnrao@twitter](https://twitter.com/Prashantnrao/status/1385898660861448193) | advertise |
+| [Prasoon87362417@twitter](https://twitter.com/Prasoon87362417/status/1495989264747667460) | advertise |
 | [pratham_mahadik@twitter](https://twitter.com/pratham_mahadik/status/1404448453678170115) | advertise |
 | [PrathapSingh080@twitter](https://twitter.com/PrathapSingh080/status/1391728889630642179) | advertise |
 | [PratikM35193168@twitter](https://twitter.com/PratikM35193168/status/1402122232919326722) | advertise |
@@ -5525,6 +5534,7 @@ Do not create new issue or we will close it as duplicate.
 | [RZayYanHtun31@twitter](https://twitter.com/RZayYanHtun31/status/1392875347658559488) | advertise |
 | [s6my7jk@twitter](https://twitter.com/s6my7jk/status/1398057139667623936) | advertise |
 | [saani65346280@twitter](https://twitter.com/saani65346280/status/1392146734336274433) | advertise |
+| [saashup@twitter](https://twitter.com/saashup/status/1495887293600649216) | advertise |
 | [sabboy99@twitter](https://twitter.com/sabboy99/status/1384536063406796800) | advertise |
 | [SachdevPawar5@twitter](https://twitter.com/SachdevPawar5/status/1401485466873090048) | advertise |
 | [Sachin39662463@twitter](https://twitter.com/Sachin39662463/status/1388022474474889217) | advertise |
@@ -5996,6 +6006,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sparsh7_cr@twitter](https://twitter.com/Sparsh7_cr/status/1395302496545828874) | advertise |
 | [SPdater@twitter](https://twitter.com/SPdater/status/1481116533661528067) | advertise |
 | [SpinDatReckhard@twitter](https://twitter.com/SpinDatReckhard/status/1403347991340228617) | advertise |
+| [SpiritualJay2k@twitter](https://twitter.com/SpiritualJay2k/status/1496013442985123845) | advertise |
 | [splcher@twitter](https://twitter.com/splcher/status/1436080593775718400) | advertise |
 | [sporshojitsaha@twitter](https://twitter.com/sporshojitsaha/status/1404116014535647233) | advertise |
 | [SPSYST3MS@twitter](https://twitter.com/SPSYST3MS/status/1393572067426148354) | advertise |
@@ -6159,6 +6170,7 @@ Do not create new issue or we will close it as duplicate.
 | [TattooNghia@twitter](https://twitter.com/TattooNghia/status/1399085631028879360) | advertise |
 | [tatuiyo@twitter](https://twitter.com/tatuiyo/status/1494144614231846912) | advertise |
 | [TatumGaming@twitter](https://twitter.com/TatumGaming/status/1448827518337888257) | advertise |
+| [TawMi5@twitter](https://twitter.com/TawMi5/status/1495964843840397312) | advertise |
 | [Tax40813778@twitter](https://twitter.com/Tax40813778/status/1388201141821796353) | advertise |
 | [taxocrate@twitter](https://twitter.com/taxocrate/status/1491431895590404098) | advertise |
 | [Taygyi6@twitter](https://twitter.com/Taygyi6/status/1392528044842094594) | advertise |
