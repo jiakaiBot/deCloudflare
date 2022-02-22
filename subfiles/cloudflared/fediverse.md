@@ -25,11 +25,11 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 128 |
+| social | 127 |
 | net | 93 |
-| com | 88 |
+| com | 87 |
 | org | 60 |
-| jp | 43 |
+| jp | 44 |
 
 
 - Mastodon, Pleroma, etc
@@ -119,6 +119,7 @@ Here's a list of public Fediverse services.
 | c.im | Yes |
 | c2bdon.net | No |
 | cantos.social | No |
+| capitalism.party | No |
 | carnivore.social | Yes |
 | catdon.life | No |
 | catgram.jp | Yes |
@@ -239,7 +240,6 @@ Here's a list of public Fediverse services.
 | frei.social | Yes |
 | freiburg.social | No |
 | freunde.ma-nic.de | No |
-| friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
 | friendicarg.nsupdate.info | No |
@@ -287,6 +287,7 @@ Here's a list of public Fediverse services.
 | hello.2heng.xin | Yes |
 | hellsite.site | No |
 | hessen.social | No |
+| hispagatos.space | No |
 | hokutodon.co | No |
 | homoo.social | No |
 | hostsharing.coop | No |
@@ -426,7 +427,6 @@ Here's a list of public Fediverse services.
 | mast.dragon-fly.club | Yes |
 | mast.eu.org | No |
 | mast.moe | No |
-| mastadon.social | No |
 | masthead.social | Yes |
 | masto.donte.com.br | Yes |
 | masto.ninja | No |
@@ -571,7 +571,6 @@ Here's a list of public Fediverse services.
 | mastodon.xy-space.de | No |
 | mastodon.xyz | No |
 | mastodon.z27.ch | No |
-| mastodon.ziggurat-systems.com | No |
 | mastodon.zunda.ninja | No |
 | mastodont.cat | No |
 | mastodontech.de | No |
@@ -727,6 +726,7 @@ Here's a list of public Fediverse services.
 | onlyfeds.cc | Yes |
 | onthesecond.com | No |
 | ontological.city | No |
+| openbiblio.social | No |
 | oransns.com | No |
 | orenda.social | No |
 | orz.uno | Yes |
@@ -821,7 +821,6 @@ Here's a list of public Fediverse services.
 | rollenspiel.social | No |
 | romancelandia.club | No |
 | roughseas.xyz | No |
-| ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
 | rva.party | No |
@@ -908,7 +907,6 @@ Here's a list of public Fediverse services.
 | social.grimneko.de | No |
 | social.henzi.org | No |
 | social.hoga.fr | No |
-| social.homunyan.com | No |
 | social.illegalpornography.com | No |
 | social.integritymo.de | No |
 | social.jesuislibre.net | No |
@@ -1006,6 +1004,7 @@ Here's a list of public Fediverse services.
 | thevillastraylight.com | No |
 | thicc.horse | No |
 | this.mouse.rocks | No |
+| thong.xonumi.com | No |
 | thraeryn.net | No |
 | thu.closed.social | Yes |
 | thx.one | Yes |
@@ -1047,6 +1046,7 @@ Here's a list of public Fediverse services.
 | tooting.intensifi.es | No |
 | toots.benpro.fr | Yes |
 | toots.slothy.win | Yes |
+| toots.social | Yes |
 | topic-master.com | No |
 | transmom.love | No |
 | travel-friends.chat | No |
@@ -1063,7 +1063,6 @@ Here's a list of public Fediverse services.
 | tutut.delire.party | No |
 | tweetrex.co.uk | No |
 | twingyeo.kr | Yes |
-| twinkaga.in | No |
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
@@ -1072,6 +1071,7 @@ Here's a list of public Fediverse services.
 | ulman.social | No |
 | unbound.social | No |
 | unipar.online | No |
+| unnerv.jp | No |
 | unperson.us | No |
 | ura-mstdn.com | No |
 | utopia.cool | No |
@@ -1097,11 +1097,9 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
-| www.mstddntfdn.online | Yes |
 | www.nekotodon.com | No |
 | www.sociale.network | No |
 | www.sosial.eu | No |
@@ -1128,7 +1126,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 218 |
-| Normal | 869 |
+| Normal | 867 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
