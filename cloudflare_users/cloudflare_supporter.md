@@ -804,6 +804,7 @@ Do not create new issue or we will close it as duplicate.
 | [BandOne@twitter](https://twitter.com/BandOne/status/1393843656100958209) | advertise |
 | [BANDULA26426873@twitter](https://twitter.com/BANDULA26426873/status/1382360745992548354) | advertise |
 | [Bangbang300499@twitter](https://twitter.com/Bangbang300499/status/1388872239580291077) | advertise |
+| [BangkongAnak@twitter](https://twitter.com/BangkongAnak/status/1496334562963894274) | advertise |
 | [banglinhnguyen@twitter](https://twitter.com/banglinhnguyen/status/1385284850098196481) | advertise |
 | [Bangnguyen2201@twitter](https://twitter.com/Bangnguyen2201/status/1386894236579024898) | advertise |
 | [Banikau1@twitter](https://twitter.com/Banikau1/status/1395272624633040898) | advertise |
@@ -1180,6 +1181,7 @@ Do not create new issue or we will close it as duplicate.
 | [chrisabraham@twitter](https://twitter.com/chrisabraham/status/1370082263262752772) | advertise |
 | [chrisdonges@twitter](https://twitter.com/chrisdonges/status/1388402516514148354) | advertise |
 | [ChrisLangolf@twitter](https://twitter.com/ChrisLangolf/status/1381675355006730244) | advertise |
+| [ChrisOrillia@twitter](https://twitter.com/ChrisOrillia/status/1496282546929340417) | advertise |
 | [christhelegend@twitter](https://twitter.com/christhelegend/status/1395235876125483010) | advertise |
 | [Christ_moe@twitter](https://twitter.com/Christ_moe/status/1390388000887017475) | advertise |
 | [ChrisWardlow4@twitter](https://twitter.com/ChrisWardlow4/status/1491630522656866310) | advertise |
@@ -2164,6 +2166,7 @@ Do not create new issue or we will close it as duplicate.
 | [hiep82570002@twitter](https://twitter.com/hiep82570002/status/1401914633619795971) | advertise |
 | [Hiepbui8283@twitter](https://twitter.com/Hiepbui8283/status/1474274039455969280) | advertise |
 | [hieple0311@twitter](https://twitter.com/hieple0311/status/1377913030877405184) | advertise |
+| [hiepmm@twitter](https://twitter.com/hiepmm/status/1496310983182417923) | advertise |
 | [Hieu13012000@twitter](https://twitter.com/Hieu13012000/status/1485621855956647938) | advertise |
 | [hieuchaya@twitter](https://twitter.com/hieuchaya/status/1393732166723334144) | advertise |
 | [hieudongbao159@twitter](https://twitter.com/hieudongbao159/status/1400828578749583366) | advertise |
@@ -3766,6 +3769,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mansoor81118164@twitter](https://twitter.com/Mansoor81118164/status/1400092367953154053) | advertise |
 | [mansport4647@twitter](https://twitter.com/mansport4647/status/1382071713043603463) | advertise |
 | [MANTEAU110@twitter](https://twitter.com/MANTEAU110/status/1486579011988107264) | advertise |
+| [Manuel567912971@twitter](https://twitter.com/Manuel567912971/status/1496387468731506690) | advertise |
 | [manueltcl@twitter](https://twitter.com/manueltcl/status/1446279919022092292) | advertise |
 | [manveerkhubber2@twitter](https://twitter.com/manveerkhubber2/status/1396747736863559680) | advertise |
 | [manwiththelens@twitter](https://twitter.com/manwiththelens/status/1452280682613444608) | advertise |
@@ -6084,6 +6088,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sunita35611036@twitter](https://twitter.com/Sunita35611036/status/1471071225229103104) | advertise |
 | [SunK111@twitter](https://twitter.com/SunK111/status/1396399725843152903) | advertise |
 | [sunlay008@twitter](https://twitter.com/sunlay008/status/1395245834372067329) | advertise |
+| [SunnyBh99314504@twitter](https://twitter.com/SunnyBh99314504/status/1496177449138528256) | advertise |
 | [Sunshin69624226@twitter](https://twitter.com/Sunshin69624226/status/1376928070729224194) | advertise |
 | [Sunshin82243540@twitter](https://twitter.com/Sunshin82243540/status/1392120847972798466) | advertise |
 | [SunShin97584842@twitter](https://twitter.com/SunShin97584842/status/1389530061120831489) | advertise |
