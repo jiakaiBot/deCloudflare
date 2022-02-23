@@ -1238,6 +1238,7 @@ Do not create new issue or we will close it as duplicate.
 | [conter_86@twitter](https://twitter.com/conter_86/status/1488218108754108420) | advertise |
 | [CoolMax002ish@twitter](https://twitter.com/CoolMax002ish/status/1399164860928245763) | advertise |
 | [CopyImage12@twitter](https://twitter.com/CopyImage12/status/1388503829142851588) | advertise |
+| [Corona00039226@twitter](https://twitter.com/Corona00039226/status/1496506233670410242) | advertise |
 | [Corona3331@twitter](https://twitter.com/Corona3331/status/1394599782153342976) | advertise |
 | [corpsewify@twitter](https://twitter.com/corpsewify/status/1485684820600844288) | advertise |
 | [COZMO60004167@twitter](https://twitter.com/COZMO60004167/status/1397139228597817345) | advertise |
@@ -3508,6 +3509,7 @@ Do not create new issue or we will close it as duplicate.
 | [LerbonR@twitter](https://twitter.com/LerbonR/status/1401222654883893254) | advertise |
 | [Letis12976524@twitter](https://twitter.com/Letis12976524/status/1408059624025051147) | advertise |
 | [letrung02082000@twitter](https://twitter.com/letrung02082000/status/1472433683210457088) | advertise |
+| [levannguyen1998@twitter](https://twitter.com/levannguyen1998/status/1496429932591054851) | advertise |
 | [levelbest@twitter](https://twitter.com/levelbest/status/1402010072595800066) | advertise |
 | [LeviAck70999374@twitter](https://twitter.com/LeviAck70999374/status/1404337417461518339) | advertise |
 | [LeVietH08159054@twitter](https://twitter.com/LeVietH08159054/status/1377052679713660933) | advertise |
@@ -4375,6 +4377,7 @@ Do not create new issue or we will close it as duplicate.
 | [NAABIL49027157@twitter](https://twitter.com/NAABIL49027157/status/1387326620009074692) | advertise |
 | [nadi_saint@twitter](https://twitter.com/nadi_saint/status/1396088469584105476) | advertise |
 | [Nage58788383@twitter](https://twitter.com/Nage58788383/status/1378017876100096005) | advertise |
+| [Nage9940790406@twitter](https://twitter.com/Nage9940790406/status/1496502930286993410) | advertise |
 | [Nagusame_2@twitter](https://twitter.com/Nagusame_2/status/1404261140360691712) | advertise |
 | [Nail66200931@twitter](https://twitter.com/Nail66200931/status/1382525114101555202) | advertise |
 | [naimarshad@twitter](https://twitter.com/naimarshad/status/1468148957629108228) | advertise |
@@ -5908,6 +5911,7 @@ Do not create new issue or we will close it as duplicate.
 | [SKIZAM11@twitter](https://twitter.com/SKIZAM11/status/1396420437752512512) | advertise |
 | [SkManso30913505@twitter](https://twitter.com/SkManso30913505/status/1383677050020503553) | advertise |
 | [Skofield2121@twitter](https://twitter.com/Skofield2121/status/1377617096805335041) | advertise |
+| [skudhos@twitter](https://twitter.com/skudhos/status/1496418558288539654) | advertise |
 | [sky382436@twitter](https://twitter.com/sky382436/status/1391574749361283072) | advertise |
 | [skyhear27208113@twitter](https://twitter.com/skyhear27208113/status/1392331792523345920) | advertise |
 | [skylay46648379@twitter](https://twitter.com/skylay46648379/status/1393392250948829185) | advertise |
@@ -6532,6 +6536,7 @@ Do not create new issue or we will close it as duplicate.
 | [TintTintKhaing1@twitter](https://twitter.com/TintTintKhaing1/status/1400832688911650817) | advertise |
 | [tinvvx@twitter](https://twitter.com/tinvvx/status/1485901022312923139) | advertise |
 | [Tinzar83241699@twitter](https://twitter.com/Tinzar83241699/status/1392923373823356931) | advertise |
+| [TinZawAung1@twitter](https://twitter.com/TinZawAung1/status/1496424114910867458) | advertise |
 | [TINZAYYARLIN1@twitter](https://twitter.com/TINZAYYARLIN1/status/1378943503011475461) | advertise |
 | [Titatiton3@twitter](https://twitter.com/Titatiton3/status/1383579029635166211) | advertise |
 | [tite_tain@twitter](https://twitter.com/tite_tain/status/1386579845652439040) | advertise |
