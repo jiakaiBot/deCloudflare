@@ -609,6 +609,7 @@ Or is this merely a case of simple modesty?
 | Giuliana DeAngelis | Customer Success Manager |  |
 | Glen Maddern | Employee |  |
 | Gloria Marcu | Support Engineer |  |
+| Goutam Tamvada | Employee | |
 | Grace Lin | Special Projects |  |
 | Grant Humphreys | Business Development |  |
 | Greg Brimble | Employee | |
@@ -1229,6 +1230,7 @@ Or is this merely a case of simple modesty?
 | Olafur Gudmundsson | Systems Engineer |  |
 | Olafur Guodmundsson | Systems Engineer | https://twitter.com/OGudm<br>https://www.linkedin.com/in/olafur-gudmundsson-6a88716<br>https://github.com/ogud |
 | Olga Skobeleva | Solutions Engineer |  |
+| Oliver Cookman | Employee | |
 | Oliver Reimers | Managing Counsel |  |
 | Oliver Yu | Employee |  |
 | Olivia Hsieh | Software Engineer |  |
