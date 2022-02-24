@@ -1098,6 +1098,7 @@ Or is this merely a case of simple modesty?
 | Maurizio Monti | Partnerships |  |
 | Mauro Nogueira | Solutions Engineer |  |
 | Maxime Guerreiro | DoS Mitigations | https://uk.linkedin.com/in/maximeguerreiro<br>https://github.com/PunKeel<br>https://twitter.com/punkeel<br>https://vulnerable.af/ |
+| Maximilian Wilhelm | Employee | |
 | Maxim Matskul | Employee |  |
 | Max Nystrom | Product Manager | https://twitter.com/maxnystrom<br>https://maxnystrom.com/<br>https://github.com/maxnystrom |
 | Maxwell Mitchell | Statistician |  |
