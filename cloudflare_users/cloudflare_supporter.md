@@ -4755,6 +4755,7 @@ Do not create new issue or we will close it as duplicate.
 | [NTTin0937341938@twitter](https://twitter.com/NTTin0937341938/status/1384567050543063040) | advertise |
 | [Nuam30225369@twitter](https://twitter.com/Nuam30225369/status/1394706534412820501) | advertise |
 | [nuaprohero@twitter](https://twitter.com/nuaprohero/status/1477548490184015875) | advertise |
+| [NukesmAn99@twitter](https://twitter.com/NukesmAn99/status/1496611582834585604) | advertise |
 | [numaannabi567@twitter](https://twitter.com/numaannabi567/status/1388518044591288324) | advertise |
 | [numanrki@twitter](https://twitter.com/numanrki/status/1464252068147904565) | advertise |
 | [Numbguy8@twitter](https://twitter.com/Numbguy8/status/1381264993270689793) | advertise |
@@ -6564,6 +6565,7 @@ Do not create new issue or we will close it as duplicate.
 | [TNyient@twitter](https://twitter.com/TNyient/status/1387259629005062145) | advertise |
 | [Toan57454997@twitter](https://twitter.com/Toan57454997/status/1480182943813226498) | advertise |
 | [ToanBBC@twitter](https://twitter.com/ToanBBC/status/1397107077282078722) | advertise |
+| [tobeyy____@twitter](https://twitter.com/tobeyy____/status/1496596667268698112) | advertise |
 | [ToddibooWang@twitter](https://twitter.com/ToddibooWang/status/1393051977341235202) | advertise |
 | [toducduy98@twitter](https://twitter.com/toducduy98/status/1388220524753408000) | advertise |
 | [ToeToeLwin20@twitter](https://twitter.com/ToeToeLwin20/status/1391663332487155717) | advertise |
