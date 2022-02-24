@@ -1317,6 +1317,7 @@ Do not create new issue or we will close it as duplicate.
 | [damienwatts18@twitter](https://twitter.com/damienwatts18/status/1405558548344586245) | advertise |
 | [damik_raw@twitter](https://twitter.com/damik_raw/status/1398632489028104192) | advertise |
 | [Damnimnotyourfr@twitter](https://twitter.com/Damnimnotyourfr/status/1387481683096596481) | advertise |
+| [DamnJayAries@twitter](https://twitter.com/DamnJayAries/status/1496728021616705536) | advertise |
 | [Dan86587411@twitter](https://twitter.com/Dan86587411/status/1381975776128499714) | advertise |
 | [DananjayaDesha5@twitter](https://twitter.com/DananjayaDesha5/status/1403390628495433735) | advertise |
 | [Danbaba21@twitter](https://twitter.com/Danbaba21/status/1401231353824358402) | advertise |
@@ -1810,6 +1811,7 @@ Do not create new issue or we will close it as duplicate.
 | [flyerfocus@twitter](https://twitter.com/flyerfocus/status/1382377771473670144) | advertise |
 | [fof15797974@twitter](https://twitter.com/fof15797974/status/1487706959914565632) | advertise |
 | [Foguzz_narak@twitter](https://twitter.com/Foguzz_narak/status/1405488230351347722) | advertise |
+| [fOL4fO7rcKS2YZL@twitter](https://twitter.com/fOL4fO7rcKS2YZL/status/1496746113683968001) | advertise |
 | [followpots@twitter](https://twitter.com/followpots/status/1393134168721162240) | advertise |
 | [FonDz92@twitter](https://twitter.com/FonDz92/status/1490357052706725895) | advertise |
 | [fonkon99@twitter](https://twitter.com/fonkon99/status/1396068557625073671) | advertise |
@@ -5449,6 +5451,7 @@ Do not create new issue or we will close it as duplicate.
 | [RINO72327156@twitter](https://twitter.com/RINO72327156/status/1395824730016555009) | advertise |
 | [RishiKu66@twitter](https://twitter.com/RishiKu66/status/1392000250408144899) | advertise |
 | [RisingHighPrie1@twitter](https://twitter.com/RisingHighPrie1/status/1478009018245390338) | advertise |
+| [RiteshC71611639@twitter](https://twitter.com/RiteshC71611639/status/1496720405281001480) | advertise |
 | [Rittipo80704084@twitter](https://twitter.com/Rittipo80704084/status/1403266234083282945) | advertise |
 | [RitupanBorah12@twitter](https://twitter.com/RitupanBorah12/status/1390775684285403137) | advertise |
 | [rival_finance@twitter](https://twitter.com/rival_finance/status/1407415777687490571) | advertise |
