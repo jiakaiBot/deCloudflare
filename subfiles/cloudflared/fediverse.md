@@ -25,10 +25,10 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 129 |
-| net | 92 |
+| social | 128 |
+| net | 91 |
 | com | 87 |
-| org | 59 |
+| org | 60 |
 | jp | 44 |
 
 
@@ -248,7 +248,6 @@ Here's a list of public Fediverse services.
 | fsmi.social | Yes |
 | ftb.masto.host | No |
 | fulda.social | No |
-| fumi.39.gy | No |
 | functional.cafe | Yes |
 | g0v.social | No |
 | gadget.inpocket.net | Yes |
@@ -352,7 +351,6 @@ Here's a list of public Fediverse services.
 | kiritan.work | Yes |
 | kith.kitchen | No |
 | kitty.town | No |
-| kolektiva.social | Yes |
 | kopiti.am | Yes |
 | koreadon.com | No |
 | kosmos.social | No |
@@ -371,6 +369,7 @@ Here's a list of public Fediverse services.
 | lesbianschool.com | No |
 | letsalllovela.in | Yes |
 | letsrulethe.world | No |
+| lewactwo.pl | No |
 | lewd.town | No |
 | lgbt.im | Yes |
 | lgbt.io | No |
@@ -396,7 +395,6 @@ Here's a list of public Fediverse services.
 | m.divita.eu | No |
 | m.g3l.org | No |
 | m.hitorino.moe | Yes |
-| m.hxbus.net | No |
 | m.laitues.net | No |
 | m.loovto.net | No |
 | m.moe.cat | No |
@@ -424,6 +422,7 @@ Here's a list of public Fediverse services.
 | mas.home.monsiteinternet.org | No |
 | mas.to | No |
 | mast.aaron.place | No |
+| mast.dragon-fly.club | Yes |
 | mast.eu.org | No |
 | mast.moe | No |
 | masthead.social | Yes |
@@ -455,7 +454,6 @@ Here's a list of public Fediverse services.
 | mastodon.cardina1.red | No |
 | mastodon.cc | No |
 | mastodon.cemea.org | No |
-| mastodon.cgx.me | No |
 | mastodon.chaosfield.at | No |
 | mastodon.cipherbliss.com | No |
 | mastodon.cisti.org | No |
@@ -492,6 +490,7 @@ Here's a list of public Fediverse services.
 | mastodon.infra.de | No |
 | mastodon.iut-larochelle.fr | No |
 | mastodon.izzz.fr | No |
+| mastodon.jalgi.eus | No |
 | mastodon.juggler.jp | No |
 | mastodon.kaonet-fr.net | No |
 | mastodon.kebree.fr | No |
@@ -597,6 +596,7 @@ Here's a list of public Fediverse services.
 | mellified.men | No |
 | mental.social | No |
 | meow.social | No |
+| metalhead.club | No |
 | metuba.hostdon.jp | No |
 | mhz.social | No |
 | minohdon.jp | No |
@@ -639,6 +639,7 @@ Here's a list of public Fediverse services.
 | mstdn.jp | Yes |
 | mstdn.kanagu.info | Yes |
 | mstdn.kemono-friends.info | Yes |
+| mstdn.lalafell.org | No |
 | mstdn.liliso.com | No |
 | mstdn.love | Yes |
 | mstdn.maud.io | Yes |
@@ -653,7 +654,6 @@ Here's a list of public Fediverse services.
 | mstdn.neigepluie.net | No |
 | mstdn.nekonote.cc | No |
 | mstdn.nere9.help | No |
-| mstdn.netwhood.online | No |
 | mstdn.nicolog.jp | No |
 | mstdn.osaka | No |
 | mstdn.otyakai.xyz | Yes |
@@ -822,6 +822,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
+| rva.party | No |
 | s.ovalerio.net | Yes |
 | salocha.online | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -1065,6 +1066,7 @@ Here's a list of public Fediverse services.
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
+| uelfte.club | No |
 | ukadon.shillest.net | No |
 | ulman.social | No |
 | unbound.social | No |
@@ -1126,7 +1128,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 866 |
+| Normal | 868 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.1% of public Fediverse services are using Cloudflare.
