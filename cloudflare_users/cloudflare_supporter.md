@@ -3592,6 +3592,7 @@ Do not create new issue or we will close it as duplicate.
 | [Livvux@twitter](https://twitter.com/Livvux/status/1479984215001292801) | advertise |
 | [LiWei69201004@twitter](https://twitter.com/LiWei69201004/status/1396636978976673793) | advertise |
 | [liximo_tong@twitter](https://twitter.com/liximo_tong/status/1471389167112228864) | advertise |
+| [lizardcircles@twitter](https://twitter.com/lizardcircles/status/1497050920106045451) | advertise |
 | [ljnhbj@twitter](https://twitter.com/ljnhbj/status/1393463319453847559) | advertise |
 | [lk21baeeee@twitter](https://twitter.com/lk21baeeee/status/1477388348054392832) | advertise |
 | [lk21officials@twitter](https://twitter.com/lk21officials/status/1477388348054392832) | advertise |
@@ -6502,10 +6503,12 @@ Do not create new issue or we will close it as duplicate.
 | [thuya69639150@twitter](https://twitter.com/thuya69639150/status/1397246827980800000) | advertise |
 | [Thuya70553078@twitter](https://twitter.com/Thuya70553078/status/1390482599189966853) | advertise |
 | [ThuyaKyawThu9@twitter](https://twitter.com/ThuyaKyawThu9/status/1489718945468715008) | advertise |
+| [ThuYaSo53717110@twitter](https://twitter.com/ThuYaSo53717110/status/1497091834560249856) | advertise |
 | [ThuYaSwe15@twitter](https://twitter.com/ThuYaSwe15/status/1392331980348399618) | advertise |
 | [ThuYaZa04572367@twitter](https://twitter.com/ThuYaZa04572367/status/1377631395560841220) | advertise |
 | [Thuyaza59130075@twitter](https://twitter.com/Thuyaza59130075/status/1397632478748155904) | advertise |
 | [Thuyein48859212@twitter](https://twitter.com/Thuyein48859212/status/1390310267112759296) | advertise |
+| [Thuyen87713172@twitter](https://twitter.com/Thuyen87713172/status/1497078331539288064) | advertise |
 | [ThuzarT00985996@twitter](https://twitter.com/ThuzarT00985996/status/1394809068502491137) | advertise |
 | [ThuZarW61704898@twitter](https://twitter.com/ThuZarW61704898/status/1390733792663412738) | advertise |
 | [thway_yin@twitter](https://twitter.com/thway_yin/status/1397078843416932362) | advertise |
