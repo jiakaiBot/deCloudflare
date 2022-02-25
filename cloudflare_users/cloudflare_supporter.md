@@ -3632,6 +3632,7 @@ Do not create new issue or we will close it as duplicate.
 | [Loren75832409@twitter](https://twitter.com/Loren75832409/status/1395048080441962505) | advertise |
 | [lorencialord@twitter](https://twitter.com/lorencialord/status/1384901052823113731) | advertise |
 | [LouisDang13@twitter](https://twitter.com/LouisDang13/status/1394819629336317955) | advertise |
+| [LouisNguyen307@twitter](https://twitter.com/LouisNguyen307/status/1496998018398056448) | advertise |
 | [Love40519001@twitter](https://twitter.com/Love40519001/status/1393980142456754178) | advertise |
 | [LoveHun27992161@twitter](https://twitter.com/LoveHun27992161/status/1390758715708608513) | advertise |
 | [Loveisneverlos1@twitter](https://twitter.com/Loveisneverlos1/status/1397583492762927105) | advertise |
@@ -5629,6 +5630,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sam13116820@twitter](https://twitter.com/Sam13116820/status/1389851288922333188) | advertise |
 | [sam18606211@twitter](https://twitter.com/sam18606211/status/1387734057543294976) | advertise |
 | [Sam47778402@twitter](https://twitter.com/Sam47778402/status/1396123062047625221) | advertise |
+| [Sambhra31401620@twitter](https://twitter.com/Sambhra31401620/status/1496921994725511199) | advertise |
 | [SameerDangi9@twitter](https://twitter.com/SameerDangi9/status/1377450627631095808) | advertise |
 | [SamerTallauze@twitter](https://twitter.com/SamerTallauze/status/1478361206280835081) | advertise |
 | [Samim54823362@twitter](https://twitter.com/Samim54823362/status/1485258949540683778) | advertise |
@@ -6550,6 +6552,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tinzar83241699@twitter](https://twitter.com/Tinzar83241699/status/1392923373823356931) | advertise |
 | [TinZawAung1@twitter](https://twitter.com/TinZawAung1/status/1496424114910867458) | advertise |
 | [TINZAYYARLIN1@twitter](https://twitter.com/TINZAYYARLIN1/status/1378943503011475461) | advertise |
+| [tin_sci@twitter](https://twitter.com/tin_sci/status/1485901022312923139) | advertise |
 | [Titatiton3@twitter](https://twitter.com/Titatiton3/status/1383579029635166211) | advertise |
 | [tite_tain@twitter](https://twitter.com/tite_tain/status/1386579845652439040) | advertise |
 | [TiuCa31571299@twitter](https://twitter.com/TiuCa31571299/status/1379215328140353539) | advertise |
@@ -6744,6 +6747,7 @@ Do not create new issue or we will close it as duplicate.
 | [TurnKeyMSP@twitter](https://twitter.com/TurnKeyMSP/status/1402797639482187776) | advertise |
 | [Tusayssy456@twitter](https://twitter.com/Tusayssy456/status/1403396450986336262) | advertise |
 | [Tushar_Kapila@twitter](https://twitter.com/Tushar_Kapila/status/1426600905642631175) | advertise |
+| [TutorialAgent@twitter](https://twitter.com/TutorialAgent/status/1496927292336984092) | advertise |
 | [tuyennguyen2906@twitter](https://twitter.com/tuyennguyen2906/status/1434738541506924547) | advertise |
 | [TuynNgu65141795@twitter](https://twitter.com/TuynNgu65141795/status/1399803170520371204) | advertise |
 | [twaltar13@twitter](https://twitter.com/twaltar13/status/1394881598194024449) | advertise |
