@@ -3486,6 +3486,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lc58646640@twitter](https://twitter.com/Lc58646640/status/1401490112408481792) | advertise |
 | [Lc82727489@twitter](https://twitter.com/Lc82727489/status/1495876686810062848) | advertise |
 | [Lc85060257@twitter](https://twitter.com/Lc85060257/status/1395364834762321921) | advertise |
+| [lcan7920@twitter](https://twitter.com/lcan7920/status/1497478955905187841) | advertise |
 | [lcavallaro91@twitter](https://twitter.com/lcavallaro91/status/1448364966403354633) | advertise |
 | [Lcngt13@twitter](https://twitter.com/Lcngt13/status/1403354053824815106) | advertise |
 | [ldl251@twitter](https://twitter.com/ldl251/status/1388190381745971201) | advertise |
@@ -5012,6 +5013,7 @@ Do not create new issue or we will close it as duplicate.
 | [PenngXiao@twitter](https://twitter.com/PenngXiao/status/1463457139419086849) | advertise |
 | [Peony36051095@twitter](https://twitter.com/Peony36051095/status/1392475002579030018) | advertise |
 | [Perseidon1@twitter](https://twitter.com/Perseidon1/status/1379686285061713923) | advertise |
+| [Peter51370@twitter](https://twitter.com/Peter51370/status/1497377571960356864) | advertise |
 | [Peter34529276@twitter](https://twitter.com/Peter34529276/status/1474852867337080843) | advertise |
 | [Peter61736815@twitter](https://twitter.com/Peter61736815/status/1394440894862880774) | advertise |
 | [PeyParrot@twitter](https://twitter.com/PeyParrot/status/1469338531667628035) | advertise |
@@ -6164,6 +6166,7 @@ Do not create new issue or we will close it as duplicate.
 | [syhmyarff_@twitter](https://twitter.com/syhmyarff_/status/1402492585625591816) | advertise |
 | [Sylla19072446@twitter](https://twitter.com/Sylla19072446/status/1392059309698265088) | advertise |
 | [Sylvhem@eldritch.cafe](https://eldritch.cafe/@Sylvhem) | attacked activist; see quote |
+| [synacksec@twitter](https://twitter.com/synacksec/status/1497422146007674883) | advertise |
 | [SyndicatedLife@twitter](https://twitter.com/SyndicatedLife/status/1481295106892189696) | advertise |
 | [synram981@twitter](https://twitter.com/synram981/status/1390825351383699459) | advertise |
 | [sysdotini@twitter](https://twitter.com/sysdotini/status/1373351911060078592) | advertise |
@@ -6404,6 +6407,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThetPhy63109517@twitter](https://twitter.com/ThetPhy63109517/status/1390742016800149504) | advertise |
 | [Thetsumonhtwe1@twitter](https://twitter.com/Thetsumonhtwe1/status/1392000897559924739) | advertise |
 | [ThetSwe78874432@twitter](https://twitter.com/ThetSwe78874432/status/1391637148546306049) | advertise |
+| [theturk001@twitter](https://twitter.com/theturk001/status/1497392785321832449) | advertise |
 | [ThetWaiHein8@twitter](https://twitter.com/ThetWaiHein8/status/1391907801384038402) | advertise |
 | [ThetWaiSoe48199@twitter](https://twitter.com/ThetWaiSoe48199/status/1394874372733603845) | advertise |
 | [ThetZawLatt9@twitter](https://twitter.com/ThetZawLatt9/status/1390379257310887939) | advertise |
