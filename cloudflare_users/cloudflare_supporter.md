@@ -4273,6 +4273,7 @@ Do not create new issue or we will close it as duplicate.
 | [mr_thadoehein@twitter](https://twitter.com/mr_thadoehein/status/1387068666768809989) | advertise |
 | [Mr_ThuraSoe@twitter](https://twitter.com/Mr_ThuraSoe/status/1382001533592608770) | advertise |
 | [MSAGaming11@twitter](https://twitter.com/MSAGaming11/status/1400491362475204611) | advertise |
+| [msq334@twitter](https://twitter.com/msq334/status/1497345657597800451) | advertise |
 | [msun_tv@twitter](https://twitter.com/msun_tv/status/1484144302037086209) | advertise |
 | [MSuriko@twitter](https://twitter.com/MSuriko/status/1376898848090583043) | advertise |
 | [mt1234513@twitter](https://twitter.com/mt1234513/status/1393161915141017603) | advertise |
