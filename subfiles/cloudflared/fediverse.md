@@ -130,6 +130,7 @@ Here's a list of public Fediverse services.
 | chaos.social | No |
 | chaosphere.hostdon.jp | No |
 | cheeky.red | No |
+| chirpi.de | No |
 | chitter.xyz | No |
 | chomp.life | No |
 | chromabits.com | No |
@@ -351,6 +352,7 @@ Here's a list of public Fediverse services.
 | kiritan.work | Yes |
 | kith.kitchen | No |
 | kitty.town | No |
+| kolektiva.social | Yes |
 | kopiti.am | Yes |
 | koreadon.com | No |
 | kosmos.social | No |
@@ -395,6 +397,7 @@ Here's a list of public Fediverse services.
 | m.divita.eu | No |
 | m.g3l.org | No |
 | m.hitorino.moe | Yes |
+| m.hxbus.net | No |
 | m.laitues.net | No |
 | m.loovto.net | No |
 | m.moe.cat | No |
@@ -454,6 +457,7 @@ Here's a list of public Fediverse services.
 | mastodon.cardina1.red | No |
 | mastodon.cc | No |
 | mastodon.cemea.org | No |
+| mastodon.cgx.me | No |
 | mastodon.chaosfield.at | No |
 | mastodon.cipherbliss.com | No |
 | mastodon.cisti.org | No |
@@ -656,11 +660,9 @@ Here's a list of public Fediverse services.
 | mstdn.nere9.help | No |
 | mstdn.nicolog.jp | No |
 | mstdn.osaka | No |
-| mstdn.otyakai.xyz | Yes |
 | mstdn.plusminus.io | Yes |
 | mstdn.poyo.me | No |
 | mstdn.res.ac | No |
-| mstdn.rinsuki.net | Yes |
 | mstdn.ropo.jp | No |
 | mstdn.rukin.me | Yes |
 | mstdn.ryanak.xyz | Yes |
@@ -822,7 +824,6 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| rva.party | No |
 | s.ovalerio.net | Yes |
 | salocha.online | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -860,7 +861,7 @@ Here's a list of public Fediverse services.
 | slime.global | No |
 | smeap.com | No |
 | snabelen.no | No |
-| sneakerwave.net | No |
+| sneakerwave.net | Yes |
 | sneed.social | No |
 | soc.safebook.space | No |
 | socel.net | No |
@@ -1097,7 +1098,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
