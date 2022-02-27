@@ -43,6 +43,7 @@ ns-1004.awsdns-61.net
 ns-1005.awsdns-61.net
 ns-1006.awsdns-61.net
 ns-1007.awsdns-61.net
+ns-1008.awsdns-08.org
 ns-1008.awsdns-62.net
 ns-1009.awsdns-62.net
 ns-101.awsdns-12.com
