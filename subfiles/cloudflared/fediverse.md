@@ -357,7 +357,6 @@ Here's a list of public Fediverse services.
 | koreadon.com | No |
 | kosmos.social | No |
 | kottman.xyz | No |
-| koyu.space | Yes |
 | kpop.social | Yes |
 | krefeld.life | No |
 | kurage.cc | No |
@@ -484,7 +483,6 @@ Here's a list of public Fediverse services.
 | mastodon.gougere.fr | No |
 | mastodon.greenpeace.ch | Yes |
 | mastodon.greenwichmeanti.me | No |
-| mastodon.habets.dev | No |
 | mastodon.hugopoi.net | No |
 | mastodon.hydrosaas.com | Yes |
 | mastodon.icu | No |
@@ -647,7 +645,6 @@ Here's a list of public Fediverse services.
 | mstdn.liliso.com | No |
 | mstdn.love | Yes |
 | mstdn.maud.io | Yes |
-| mstdn.mell0w-5phere.net | No |
 | mstdn.mini4wd-engineer.com | No |
 | mstdn.misosi.ru | Yes |
 | mstdn.mk39.xyz | No |
@@ -660,9 +657,11 @@ Here's a list of public Fediverse services.
 | mstdn.nere9.help | No |
 | mstdn.nicolog.jp | No |
 | mstdn.osaka | No |
+| mstdn.otyakai.xyz | Yes |
 | mstdn.plusminus.io | Yes |
 | mstdn.poyo.me | No |
 | mstdn.res.ac | No |
+| mstdn.rinsuki.net | Yes |
 | mstdn.ropo.jp | No |
 | mstdn.rukin.me | Yes |
 | mstdn.ryanak.xyz | Yes |
@@ -812,7 +811,6 @@ Here's a list of public Fediverse services.
 | red.confederac.io | No |
 | redroo.ml | No |
 | retro.social | No |
-| rettiwtkcuf.social | No |
 | rheinland.social | No |
 | rivals.space | Yes |
 | rly.wtf | Yes |
@@ -824,6 +822,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
+| rva.party | No |
 | s.ovalerio.net | Yes |
 | salocha.online | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -1098,6 +1097,7 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1127,8 +1127,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 219 |
-| Normal | 868 |
+| Cloudflare | 220 |
+| Normal | 867 |
 
 
-### 20.1% of public Fediverse services are using Cloudflare.
+### 20.2% of public Fediverse services are using Cloudflare.
