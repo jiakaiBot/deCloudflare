@@ -292,6 +292,7 @@ Do not create new issue or we will close it as duplicate.
 | [Albert88Lim@twitter](https://twitter.com/Albert88Lim/status/1400923426244546562) | advertise |
 | [albNo273@twitter](https://twitter.com/albNo273/status/1440877956709040136) | advertise |
 | [aldoscar_oscar@twitter](https://twitter.com/aldoscar_oscar/status/1377318204477964290) | advertise |
+| [alecarrington23@twitter](https://twitter.com/alecarrington23/status/1497728572265574403) | advertise |
 | [Ales19412051@twitter](https://twitter.com/Ales19412051/status/1407593618949345287) | advertise |
 | [alex14387982@twitter](https://twitter.com/alex14387982/status/1389461110391144448) | advertise |
 | [Alex18726692@twitter](https://twitter.com/Alex18726692/status/1396832751014137865) | advertise |
@@ -358,6 +359,7 @@ Do not create new issue or we will close it as duplicate.
 | [ameenulhassanm1@twitter](https://twitter.com/ameenulhassanm1/status/1378228638353555457) | advertise |
 | [amekiri13@twitter](https://twitter.com/amekiri13/status/1437975591152611329) | advertise |
 | [AmeliaNyeint@twitter](https://twitter.com/AmeliaNyeint/status/1398295090909499397) | advertise |
+| [Amer71692232@twitter](https://twitter.com/Amer71692232/status/1497751670188490758) | advertise |
 | [Amiirfahad@twitter](https://twitter.com/Amiirfahad/status/1492928600978382856) | advertise |
 | [Amine84851078@twitter](https://twitter.com/Amine84851078/status/1497688175740923906) | advertise |
 | [amir55087591@twitter](https://twitter.com/amir55087591/status/1399965313156804610) | advertise |
@@ -421,6 +423,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnhTun70076204@twitter](https://twitter.com/AnhTun70076204/status/1476175014713970691) | advertise |
 | [AnhTunLHong2@twitter](https://twitter.com/AnhTunLHong2/status/1470739724998352901) | advertise |
 | [ani2nill@twitter](https://twitter.com/ani2nill/status/1444552778748084226) | advertise |
+| [AniateRyan@twitter](https://twitter.com/AniateRyan/status/1497729331958665220) | advertise |
 | [AnikethDevadiga@twitter](https://twitter.com/AnikethDevadiga/status/1393885775305928706) | advertise |
 | [AniketR19914841@twitter](https://twitter.com/AniketR19914841/status/1384569411630026752) | advertise |
 | [Anikets98739334@twitter](https://twitter.com/Anikets98739334/status/1393038098561331200) | advertise |
@@ -1304,6 +1307,7 @@ Do not create new issue or we will close it as duplicate.
 | [cyy_nancy@twitter](https://twitter.com/cyy_nancy/status/1393253162547482626) | advertise |
 | [CyZGaUQMPNlTV1p@twitter](https://twitter.com/CyZGaUQMPNlTV1p/status/1396484819941347336) | advertise |
 | [c_ming_@twitter](https://twitter.com/c_ming_/status/1438859741480902661) | advertise |
+| [d3vinlive@twitter](https://twitter.com/d3vinlive/status/1497799551520022531) | advertise |
 | [d7W2kx2ukyk0FhC@twitter](https://twitter.com/d7W2kx2ukyk0FhC/status/1395120949343760384) | advertise |
 | [d40aldo@twitter](https://twitter.com/d40aldo/status/1422681010123247620) | advertise |
 | [dabanphone@twitter](https://twitter.com/dabanphone/status/1494468838397726727) | advertise |
@@ -2266,6 +2270,7 @@ Do not create new issue or we will close it as duplicate.
 | [hoang_cong97@twitter](https://twitter.com/hoang_cong97/status/1404311923965841414) | advertise |
 | [hoang_van_tan@twitter](https://twitter.com/hoang_van_tan/status/1435097973856235528) | advertise |
 | [hoanmai12@twitter](https://twitter.com/hoanmai12/status/1412886519476408320) | moral (advertise) |
+| [Hoanvu537@twitter](https://twitter.com/Hoanvu537/status/1497800047303733250) | advertise |
 | [hoattruong88@twitter](https://twitter.com/hoattruong88/status/1489996386410000389) | advertise |
 | [HocineKing11@twitter](https://twitter.com/HocineKing11/status/1381610773919760385) | advertise |
 | [Hoesmakemecry69@twitter](https://twitter.com/Hoesmakemecry69/status/1400413921446563844) | advertise |
@@ -2634,6 +2639,7 @@ Do not create new issue or we will close it as duplicate.
 | [JACK63552523@twitter](https://twitter.com/JACK63552523/status/1400836452087255041) | advertise |
 | [JackChung1021@twitter](https://twitter.com/JackChung1021/status/1485991171436736512) | advertise |
 | [jackck76316576@twitter](https://twitter.com/jackck76316576/status/1381264209636327426) | advertise |
+| [jackdan8@twitter](https://twitter.com/jackdan8/status/1497731130438606858) | advertise |
 | [Jackjun53391478@twitter](https://twitter.com/Jackjun53391478/status/1399663365056655361) | advertise |
 | [Jackson94034538@twitter](https://twitter.com/Jackson94034538/status/1396744861370355714) | advertise |
 | [Jacksondwyer99@twitter](https://twitter.com/Jacksondwyer99/status/1381773140376711172) | advertise |
