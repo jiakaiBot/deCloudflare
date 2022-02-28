@@ -3143,8 +3143,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimThanhtung4@twitter](https://twitter.com/KimThanhtung4/status/1471340018555711489) | advertise |
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5969,6 +5969,7 @@ Do not create new issue or we will close it as duplicate.
 | [Slick_Willy_27@twitter](https://twitter.com/Slick_Willy_27/status/1397233774832803846) | advertise |
 | [slipperypussyc1@twitter](https://twitter.com/slipperypussyc1/status/1407232739762270211) | advertise |
 | [slowhanddario@twitter](https://twitter.com/slowhanddario/status/1474627053307768832) | advertise |
+| [SlyTheFloof@twitter](https://twitter.com/SlyTheFloof/status/1498004182393106435) | advertise |
 | [Sm0rezDev@twitter](https://twitter.com/Sm0rezDev/status/1404781284120043522) | advertise |
 | [SMang2121@twitter](https://twitter.com/SMang2121/status/1391809592707870723) | advertise |
 | [smasato_pi@twitter](https://twitter.com/smasato_pi/status/1485080835061858308) | advertise |
@@ -6468,6 +6469,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThihaZa75769722@twitter](https://twitter.com/ThihaZa75769722/status/1386632681107034118) | advertise |
 | [thihhhha@twitter](https://twitter.com/thihhhha/status/1390584029942980612) | advertise |
 | [thikvkdam@twitter](https://twitter.com/thikvkdam/status/1382213762850050049) | advertise |
+| [thimiraonline@twitter](https://twitter.com/thimiraonline/status/1497977191027679234) | advertise |
 | [Thimothy120@twitter](https://twitter.com/Thimothy120/status/1406499058592542721) | advertise |
 | [Thin07609790@twitter](https://twitter.com/Thin07609790/status/1395205017351507968) | advertise |
 | [thin969@twitter](https://twitter.com/thin969/status/1386330762463481857) | advertise |
