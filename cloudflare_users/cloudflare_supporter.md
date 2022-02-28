@@ -1109,6 +1109,7 @@ Do not create new issue or we will close it as duplicate.
 | [cenozoic69@twitter](https://twitter.com/cenozoic69/status/1384936734073532418) | advertise |
 | [Cerise67529246@twitter](https://twitter.com/Cerise67529246/status/1390188271037075458) | advertise |
 | [cerqueira_io@twitter](https://twitter.com/cerqueira_io/status/1380589589463764994) | advertise |
+| [cesar15245284@twitter](https://twitter.com/cesar15245284/status/1498208854332555264) | advertise |
 | [ce_kyaw@twitter](https://twitter.com/ce_kyaw/status/1397158337012113410) | advertise |
 | [chac_vui@twitter](https://twitter.com/chac_vui/status/1393402667586572288) | advertise |
 | [ChadaramGanesh@twitter](https://twitter.com/ChadaramGanesh/status/1377217673478594565) | advertise |
@@ -1309,6 +1310,7 @@ Do not create new issue or we will close it as duplicate.
 | [cyy_nancy@twitter](https://twitter.com/cyy_nancy/status/1393253162547482626) | advertise |
 | [CyZGaUQMPNlTV1p@twitter](https://twitter.com/CyZGaUQMPNlTV1p/status/1396484819941347336) | advertise |
 | [c_ming_@twitter](https://twitter.com/c_ming_/status/1438859741480902661) | advertise |
+| [D3dS3cOfficial@twitter](https://twitter.com/D3dS3cOfficial/status/1498098675351961603) | advertise |
 | [d3vinlive@twitter](https://twitter.com/d3vinlive/status/1497799551520022531) | advertise |
 | [d7W2kx2ukyk0FhC@twitter](https://twitter.com/d7W2kx2ukyk0FhC/status/1395120949343760384) | advertise |
 | [d40aldo@twitter](https://twitter.com/d40aldo/status/1422681010123247620) | advertise |
@@ -1381,6 +1383,7 @@ Do not create new issue or we will close it as duplicate.
 | [DatabaseFault@twitter](https://twitter.com/DatabaseFault/status/1391936951448702978) | advertise |
 | [datblazed1@twitter](https://twitter.com/datblazed1/status/1384399352861315075) | advertise |
 | [DateBoy5@twitter](https://twitter.com/DateBoy5/status/1393474499572535296) | advertise |
+| [DatFriiscoFella@twitter](https://twitter.com/DatFriiscoFella/status/1498121876345790465) | advertise |
 | [Datfro102@twitter](https://twitter.com/Datfro102/status/1494686737360384001) | advertise |
 | [datnguy99682140@twitter](https://twitter.com/datnguy99682140/status/1387181211366268929) | advertise |
 | [dautay19941995@twitter](https://twitter.com/dautay19941995/status/1383798640020312068) | advertise |
@@ -6353,6 +6356,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThantZinOo90@twitter](https://twitter.com/ThantZinOo90/status/1392415741324890113) | advertise |
 | [Thantzinpyae1@twitter](https://twitter.com/Thantzinpyae1/status/1390672609960943616) | advertise |
 | [ThantZinSoe30@twitter](https://twitter.com/ThantZinSoe30/status/1394879818488025090) | advertise |
+| [ThantZinSoee@twitter](https://twitter.com/ThantZinSoee/status/1498156407119843329) | advertise |
 | [ThanWin55558182@twitter](https://twitter.com/ThanWin55558182/status/1394308164141477892) | advertise |
 | [ThanYaw09627696@twitter](https://twitter.com/ThanYaw09627696/status/1390876704411774979) | advertise |
 | [ThanZaw98229990@twitter](https://twitter.com/ThanZaw98229990/status/1390279569702219780) | advertise |
