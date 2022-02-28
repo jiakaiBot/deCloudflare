@@ -25,9 +25,9 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 128 |
-| net | 91 |
-| com | 87 |
+| social | 129 |
+| net | 92 |
+| com | 86 |
 | org | 60 |
 | jp | 44 |
 
@@ -357,6 +357,7 @@ Here's a list of public Fediverse services.
 | koreadon.com | No |
 | kosmos.social | No |
 | kottman.xyz | No |
+| koyu.space | Yes |
 | kpop.social | Yes |
 | krefeld.life | No |
 | kurage.cc | No |
@@ -473,7 +474,6 @@ Here's a list of public Fediverse services.
 | mastodon.die-partei-reutlingen.de | No |
 | mastodon.dissem.ch | No |
 | mastodon.earth | No |
-| mastodon.edvgarbe.de | No |
 | mastodon.ethibox.fr | No |
 | mastodon.eus | No |
 | mastodon.evolix.org | No |
@@ -483,6 +483,7 @@ Here's a list of public Fediverse services.
 | mastodon.gougere.fr | No |
 | mastodon.greenpeace.ch | Yes |
 | mastodon.greenwichmeanti.me | No |
+| mastodon.habets.dev | No |
 | mastodon.hugopoi.net | No |
 | mastodon.hydrosaas.com | Yes |
 | mastodon.icu | No |
@@ -645,6 +646,7 @@ Here's a list of public Fediverse services.
 | mstdn.liliso.com | No |
 | mstdn.love | Yes |
 | mstdn.maud.io | Yes |
+| mstdn.mell0w-5phere.net | No |
 | mstdn.mini4wd-engineer.com | No |
 | mstdn.misosi.ru | Yes |
 | mstdn.mk39.xyz | No |
@@ -811,6 +813,7 @@ Here's a list of public Fediverse services.
 | red.confederac.io | No |
 | redroo.ml | No |
 | retro.social | No |
+| rettiwtkcuf.social | No |
 | rheinland.social | No |
 | rivals.space | Yes |
 | rly.wtf | Yes |
@@ -822,7 +825,6 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| rva.party | No |
 | s.ovalerio.net | Yes |
 | salocha.online | No |
 | san-junipero.gimme-sympathy.org | No |
@@ -867,7 +869,6 @@ Here's a list of public Fediverse services.
 | social.0ko.me | No |
 | social.076.ne.jp | No |
 | social.3rensei.xyz | No |
-| social.4f9e1738.ignorelist.com | Yes |
 | social.anon-groups.de | No |
 | social.anoxinon.de | No |
 | social.anthro.cc | No |
@@ -1128,7 +1129,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 220 |
-| Normal | 867 |
+| Normal | 868 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
