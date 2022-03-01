@@ -3160,6 +3160,7 @@ Do not create new issue or we will close it as duplicate.
 | [King81964381@twitter](https://twitter.com/King81964381/status/1407381247395913731) | advertise |
 | [kingk4888888@twitter](https://twitter.com/kingk4888888/status/1394730960894119937) | advertise |
 | [kingpolat5@twitter](https://twitter.com/kingpolat5/status/1397988631265038339) | advertise |
+| [kingpubg121212@twitter](https://twitter.com/kingpubg121212/status/1498498459980255234) | advertise |
 | [KINGSAM87263995@twitter](https://twitter.com/KINGSAM87263995/status/1400419727210532864) | advertise |
 | [KingStephy2@twitter](https://twitter.com/KingStephy2/status/1398432701095596034) | advertise |
 | [king_defeat@twitter](https://twitter.com/king_defeat/status/1391700999752929282) | advertise |
@@ -5777,6 +5778,7 @@ Do not create new issue or we will close it as duplicate.
 | [sclathrop@twitter](https://twitter.com/sclathrop/status/1458423494719459332) | advertise |
 | [Scrimzy_@twitter](https://twitter.com/Scrimzy_/status/1380087112993632257) | advertise |
 | [sdemanett@twitter](https://twitter.com/sdemanett/status/1396239812076638208) | advertise |
+| [Sean77792242@twitter](https://twitter.com/Sean77792242/status/1498470501093896197) | advertise |
 | [seaxvr@twitter](https://twitter.com/seaxvr/status/1386420536742268928) | advertise |
 | [SebasDeLho@twitter](https://twitter.com/SebasDeLho/status/1458194317458149380) | advertise |
 | [seeislam1@twitter](https://twitter.com/seeislam1/status/1404986738712498183) | advertise |
@@ -5877,6 +5879,7 @@ Do not create new issue or we will close it as duplicate.
 | [shinezzzzzzzz@twitter](https://twitter.com/shinezzzzzzzz/status/1387051830325125131) | advertise |
 | [shinnthant19@twitter](https://twitter.com/shinnthant19/status/1389878958464782339) | advertise |
 | [shinthan5@twitter](https://twitter.com/shinthan5/status/1390100611190824961) | advertise |
+| [ShinThantAung7@twitter](https://twitter.com/ShinThantAung7/status/1498569849961738240) | advertise |
 | [shinthantkyaw2@twitter](https://twitter.com/shinthantkyaw2/status/1385186521293025281) | advertise |
 | [shinyarceuspro@twitter](https://twitter.com/shinyarceuspro/status/1446970189086478337) | advertise |
 | [Shin_jihyun17@twitter](https://twitter.com/Shin_jihyun17/status/1391958578169212934) | advertise |
