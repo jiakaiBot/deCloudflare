@@ -308,6 +308,7 @@ Do not create new issue or we will close it as duplicate.
 | [ALEXAND07389780@twitter](https://twitter.com/ALEXAND07389780/status/1380908807614685187) | advertise |
 | [ALEXAND69307319@twitter](https://twitter.com/ALEXAND69307319/status/1380037455068471297) | advertise |
 | [alexbal@twitter](https://twitter.com/alexbal/status/1483283813492879363) | advertise |
+| [AlexCameronM@twitter](https://twitter.com/AlexCameronM/status/1498914936134807557) | advertise |
 | [alexchenfeng@twitter](https://twitter.com/alexchenfeng/status/1465564402854207493) | advertise |
 | [alexdolbun@twitter](https://twitter.com/alexdolbun/status/1410279652116029443) | moral (advertise) |
 | [AlexNik14448676@twitter](https://twitter.com/AlexNik14448676/status/1404016449262284806) | advertise |
@@ -2216,6 +2217,7 @@ Do not create new issue or we will close it as duplicate.
 | [HiNguyn74792313@twitter](https://twitter.com/HiNguyn74792313/status/1400332809403723779) | advertise |
 | [HiranoKuro@twitter](https://twitter.com/HiranoKuro/status/1388350222598742016) | advertise |
 | [Hiro00129279@twitter](https://twitter.com/Hiro00129279/status/1381635026807181318) | advertise |
+| [hishertweets@twitter](https://twitter.com/hishertweets/status/1498862531997503488) | advertise |
 | [Hiu36827414@twitter](https://twitter.com/Hiu36827414/status/1391153248950644740) | advertise |
 | [Hiu62637495@twitter](https://twitter.com/Hiu62637495/status/1401626342945296385) | advertise |
 | [Hiu86351397@twitter](https://twitter.com/Hiu86351397/status/1380126531834408960) | advertise |
@@ -5608,6 +5610,7 @@ Do not create new issue or we will close it as duplicate.
 | [RyanRully@twitter](https://twitter.com/RyanRully/status/1387743223737585666) | advertise |
 | [RyanSoElectric@twitter](https://twitter.com/RyanSoElectric/status/1386785297183084544) | advertise |
 | [ryder8155cw@twitter](https://twitter.com/ryder8155cw/status/1397635504556937218) | advertise |
+| [RyduTempesta@twitter](https://twitter.com/RyduTempesta/status/1498907656458686470) | advertise |
 | [RyunosukeHaruki@twitter](https://twitter.com/RyunosukeHaruki/status/1390218243734835206) | advertise |
 | [ryuuji_58@twitter](https://twitter.com/ryuuji_58/status/1379328982147997699) | advertise |
 | [RyzhkovIlia@twitter](https://twitter.com/RyzhkovIlia/status/1465766519963631619) | advertise |
@@ -6160,6 +6163,7 @@ Do not create new issue or we will close it as duplicate.
 | [SuLatt39725019@twitter](https://twitter.com/SuLatt39725019/status/1390191641210671104) | advertise |
 | [sulochanaeranda@twitter](https://twitter.com/sulochanaeranda/status/1479827028836765705) | advertise |
 | [SulthanPhD@twitter](https://twitter.com/SulthanPhD/status/1386751386067423234) | advertise |
+| [sumaiya62429086@twitter](https://twitter.com/sumaiya62429086/status/1498860860022075394) | advertise |
 | [SumedhaBandar10@twitter](https://twitter.com/SumedhaBandar10/status/1405702171849478144) | advertise |
 | [SumitDhangar13@twitter](https://twitter.com/SumitDhangar13/status/1386664848684052484) | advertise |
 | [summer080820155@twitter](https://twitter.com/summer080820155/status/1395076684030742534) | advertise |
