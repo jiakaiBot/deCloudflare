@@ -3156,8 +3156,9 @@ Do not create new issue or we will close it as duplicate.
 | [KimThanhtung4@twitter](https://twitter.com/KimThanhtung4/status/1471340018555711489) | advertise |
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5723,6 +5724,7 @@ Do not create new issue or we will close it as duplicate.
 | [SANTOSH40605886@twitter](https://twitter.com/SANTOSH40605886/status/1386724216775446530) | advertise |
 | [santutunga10@twitter](https://twitter.com/santutunga10/status/1399017643135299586) | advertise |
 | [saomyatpyaesone@twitter](https://twitter.com/saomyatpyaesone/status/1391690727474679810) | advertise |
+| [saplabro@twitter](https://twitter.com/saplabro/status/1498779520488587264) | advertise |
 | [saplynx@twitter](https://twitter.com/saplynx/status/1491474231598923776) | advertise |
 | [Sara99150841@twitter](https://twitter.com/Sara99150841/status/1379528485287436292) | advertise |
 | [Sarah99688136@twitter](https://twitter.com/Sarah99688136/status/1384901649932636161) | advertise |
@@ -6018,6 +6020,7 @@ Do not create new issue or we will close it as duplicate.
 | [Snake88578323@twitter](https://twitter.com/Snake88578323/status/1395017607909044230) | advertise |
 | [Snakyacidkiss@twitter](https://twitter.com/Snakyacidkiss/status/1389092757881249793) | advertise |
 | [Snap69015522@twitter](https://twitter.com/Snap69015522/status/1393834272092409860) | advertise |
+| [snavEkelA@twitter](https://twitter.com/snavEkelA/status/1498711363832532994) | advertise |
 | [Sniper5Szn@twitter](https://twitter.com/Sniper5Szn/status/1391481893581844482) | advertise |
 | [Snitchblaster9@twitter](https://twitter.com/Snitchblaster9/status/1396532090141777921) | advertise |
 | [SnNguyn58842118@twitter](https://twitter.com/SnNguyn58842118/status/1383442972981620744) | advertise |
