@@ -40,7 +40,6 @@ This add-on never send other information.
 ```
 
 
-- [Code](https://git.disroot.org/dCF/deCloudflare/src/branch/master/addons/code/isattlink)
 - [API Self-host Guide](../tool/api_for_ismm_isat/)
 - Download add-on
   - From Gitea: [FirefoxESR](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/isat.xpi) / [Chromium / Edge](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/isat.crx)
