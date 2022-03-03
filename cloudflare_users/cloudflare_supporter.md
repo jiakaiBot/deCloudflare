@@ -3164,8 +3164,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -4881,6 +4881,7 @@ Do not create new issue or we will close it as duplicate.
 | [NyoMinHset@twitter](https://twitter.com/NyoMinHset/status/1396414491575922692) | advertise |
 | [NyoNaingaung@twitter](https://twitter.com/NyoNaingaung/status/1395362108888567808) | advertise |
 | [nyonyothetzaw@twitter](https://twitter.com/nyonyothetzaw/status/1378373088727998469) | advertise |
+| [nyootea@twitter](https://twitter.com/nyootea/status/1499213617044291584) | advertise |
 | [nyto95409750@twitter](https://twitter.com/nyto95409750/status/1380788517941354500) | advertise |
 | [NYUNTNAING18@twitter](https://twitter.com/NYUNTNAING18/status/1474943990143197185) | advertise |
 | [NyuntNyunt11@twitter](https://twitter.com/NyuntNyunt11/status/1396273606288711682) | advertise |
