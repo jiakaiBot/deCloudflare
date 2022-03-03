@@ -2643,6 +2643,7 @@ Do not create new issue or we will close it as duplicate.
 | [ItsSimplyBelle@twitter](https://twitter.com/ItsSimplyBelle/status/1397995563812073476) | advertise |
 | [ITSystemsAdmin@twitter](https://twitter.com/ITSystemsAdmin/status/1373030532469112834) | advertise |
 | [its_bimbima@twitter](https://twitter.com/its_bimbima/status/1404597353076596737) | advertise |
+| [ittatwer@twitter](https://twitter.com/ittatwer/status/1499144227867041802) | advertise |
 | [iturle_lilery@twitter](https://twitter.com/iturle_lilery/status/1384847338875801608) | advertise |
 | [itx3010@twitter](https://twitter.com/itx3010/status/1382043714714021893) | advertise |
 | [itzSenPaiii@twitter](https://twitter.com/itzSenPaiii/status/1382434870757109763) | advertise |
@@ -4806,6 +4807,7 @@ Do not create new issue or we will close it as duplicate.
 | [Note42243223@twitter](https://twitter.com/Note42243223/status/1389304584317845504) | advertise |
 | [nothingbreaks23@twitter](https://twitter.com/nothingbreaks23/status/1408086476252925953) | advertise |
 | [notice_com_ng@twitter](https://twitter.com/notice_com_ng/status/1489583630267654145) | advertise |
+| [notifil@twitter](https://twitter.com/notifil/status/1499122092578639884) | advertise |
 | [notwaytoomuch@twitter](https://twitter.com/notwaytoomuch/status/1396359332447485953) | advertise |
 | [NoungN2@twitter](https://twitter.com/NoungN2/status/1392947583866130432) | advertise |
 | [NovemKT@twitter](https://twitter.com/NovemKT/status/1381273128567984133) | advertise |
