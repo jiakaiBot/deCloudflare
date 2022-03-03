@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-03-02: [Customers may be seeing performance issues in YYZ, LIS, BCN](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5wwzf8g5n97v)
 - 2022-03-02: [Service Disruption in Lisbon](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fl470z48j9zn)
 - 2022-03-01: [Issue with BYOIP](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/90bq8tjtjjpf)
 - 2022-02-25: [Images Upload fail with 5xx errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/d7xxccwb1tvy)
