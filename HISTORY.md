@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-03-04: [Network Performance Issues in Chennai, Delhi](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r64033h4bk4s)
 - 2022-03-04: [Network Performance Issues in São Paulo](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4hgxxwdv7jvm)
 - 2022-03-03: [Network Performance Issues in Amsterdam, Netherlands region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y4g0jy1rvzlp)
 - 2022-03-02: [Customers may be seeing performance issues in YYZ, LIS, BCN](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5wwzf8g5n97v)
