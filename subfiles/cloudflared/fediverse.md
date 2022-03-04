@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 129 |
-| net | 93 |
-| com | 87 |
+| net | 92 |
+| com | 86 |
 | org | 60 |
 | jp | 43 |
 
@@ -54,7 +54,6 @@ Here's a list of public Fediverse services.
 | acg.mn | Yes |
 | activism.openworlds.info | No |
 | adney.land | No |
-| aether.re | No |
 | afromunkee.xyz | No |
 | ajin.la | No |
 | aka.my | No |
@@ -499,7 +498,6 @@ Here's a list of public Fediverse services.
 | mastodon.kaonet-fr.net | No |
 | mastodon.kebree.fr | No |
 | mastodon.kleph.eu | No |
-| mastodon.kosebamse.com | No |
 | mastodon.kxn4t.tech | No |
 | mastodon.la | Yes |
 | mastodon.ladn.org | No |
@@ -519,7 +517,6 @@ Here's a list of public Fediverse services.
 | mastodon.me.uk | Yes |
 | mastodon.mechanicalmischief.com | No |
 | mastodon.mensoif.cf | No |
-| mastodon.mg | No |
 | mastodon.migennes.net | No |
 | mastodon.mit.edu | Yes |
 | mastodon.motcha.tech | Yes |
@@ -593,7 +590,6 @@ Here's a list of public Fediverse services.
 | md.os.vu | No |
 | md.xps2.net | Yes |
 | mdn.hinaloe.net | No |
-| me.ns.ci | Yes |
 | medievalist.masto.host | No |
 | meganekeesu.tokyo | No |
 | melb.social | Yes |
@@ -825,8 +821,6 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| rva.party | No |
-| s.ovalerio.net | Yes |
 | salocha.online | No |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
@@ -902,6 +896,7 @@ Here's a list of public Fediverse services.
 | social.fbxl.net | No |
 | social.finkhaeuser.de | No |
 | social.finsec.systems | Yes |
+| social.gl-como.it | No |
 | social.globalpirates.net | No |
 | social.goonj.xyz | Yes |
 | social.gould.cx | Yes |
@@ -1128,8 +1123,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 220 |
-| Normal | 868 |
+| Cloudflare | 218 |
+| Normal | 865 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.1% of public Fediverse services are using Cloudflare.
