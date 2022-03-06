@@ -25,11 +25,11 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 130 |
+| social | 129 |
 | net | 92 |
 | com | 87 |
 | org | 59 |
-| jp | 42 |
+| jp | 43 |
 
 
 - Mastodon, Pleroma, etc
@@ -243,6 +243,7 @@ Here's a list of public Fediverse services.
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
+| friendicarg.nsupdate.info | No |
 | frogmob.life | No |
 | froth.zone | No |
 | fsmi.social | Yes |
@@ -579,7 +580,6 @@ Here's a list of public Fediverse services.
 | mastodos.com | No |
 | mastofant.de | No |
 | mastonaut.com | No |
-| mastouille.fr | No |
 | matitodon.com | No |
 | matthewgall.chat | Yes |
 | mazzo.masto.host | No |
@@ -667,7 +667,6 @@ Here's a list of public Fediverse services.
 | mstdn.ropo.jp | No |
 | mstdn.rukin.me | Yes |
 | mstdn.ryanak.xyz | Yes |
-| mstdn.s7t.de | No |
 | mstdn.sastudio.jp | No |
 | mstdn.schoolidol.club | No |
 | mstdn.si | No |
@@ -675,6 +674,7 @@ Here's a list of public Fediverse services.
 | mstdn.superspeed-fall.com | No |
 | mstdn.tentere.net | Yes |
 | mstdn.tokyocameraclub.com | No |
+| mstdn.wildtree.jp | No |
 | mstdn.y-zu.org | Yes |
 | mstdn.yakitamago.info | No |
 | mstdn.yamaken.jp | Yes |
@@ -819,9 +819,9 @@ Here's a list of public Fediverse services.
 | rollenspiel.social | No |
 | romancelandia.club | No |
 | roughseas.xyz | No |
-| ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
+| s.ovalerio.net | Yes |
 | salocha.online | No |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
@@ -894,9 +894,7 @@ Here's a list of public Fediverse services.
 | social.dssr.ch | No |
 | social.exan.tech | Yes |
 | social.farend.co.jp | No |
-| social.fbxl.net | No |
 | social.finkhaeuser.de | No |
-| social.finsec.systems | Yes |
 | social.gl-como.it | No |
 | social.globalpirates.net | No |
 | social.goonj.xyz | Yes |
@@ -1126,7 +1124,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 866 |
+| Normal | 864 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
