@@ -1119,6 +1119,7 @@ Do not create new issue or we will close it as duplicate.
 | [CelahPkbm@twitter](https://twitter.com/CelahPkbm/status/1468870913512800257) | advertise |
 | [CElectriz@twitter](https://twitter.com/CElectriz/status/1389625288896753664) | advertise |
 | [cenozoic69@twitter](https://twitter.com/cenozoic69/status/1384936734073532418) | advertise |
+| [CentreElites@twitter](https://twitter.com/CentreElites/status/1500457148152786944) | advertise |
 | [Cerise67529246@twitter](https://twitter.com/Cerise67529246/status/1390188271037075458) | advertise |
 | [cerqueira_io@twitter](https://twitter.com/cerqueira_io/status/1380589589463764994) | advertise |
 | [cesar15245284@twitter](https://twitter.com/cesar15245284/status/1498208854332555264) | advertise |
@@ -6067,6 +6068,7 @@ Do not create new issue or we will close it as duplicate.
 | [SnNguyn58842118@twitter](https://twitter.com/SnNguyn58842118/status/1383442972981620744) | advertise |
 | [snowbunnymother@twitter](https://twitter.com/snowbunnymother/status/1399210217276162052) | advertise |
 | [snowy182017@twitter](https://twitter.com/snowy182017/status/1392724631753150467) | advertise |
+| [SnXn39618151@twitter](https://twitter.com/SnXn39618151/status/1500447892665823233) | advertise |
 | [SobireenK@twitter](https://twitter.com/SobireenK/status/1394443082637070340) | advertise |
 | [soeaungnaing23@twitter](https://twitter.com/soeaungnaing23/status/1379767879344656384) | advertise |
 | [SoeGyi14472135@twitter](https://twitter.com/SoeGyi14472135/status/1390251552225566723) | advertise |
