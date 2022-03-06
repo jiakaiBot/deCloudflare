@@ -50,4 +50,4 @@ This add-on never send other information.
 
 - [API Self-host Guide](../tool/api_for_ismm_isat/)
 - Download add-on
-  - From Gitea: [FirefoxESR](https://mypdns.org/dCF/deCloudflare/-/raw/master/addons/releases/ismm.xpi) / [Chromium / Edge](https://mypdns.org/dCF/deCloudflare/-/raw/master/addons/releases/ismm.crx)
+  - From Git: [FirefoxESR](https://mypdns.org/dCF/deCloudflare/-/raw/master/addons/releases/ismm.xpi) / [Chromium / Edge](https://mypdns.org/dCF/deCloudflare/-/raw/master/addons/releases/ismm.crx)
