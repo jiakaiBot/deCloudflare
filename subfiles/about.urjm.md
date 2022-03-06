@@ -19,4 +19,4 @@ Your domain collection is yours.
 
 
 - Download add-on
-  - From Gitea: [FirefoxESR](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/urjm.xpi) / [Chromium / Edge](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/urjm.crx)
+  - From Gitea: [FirefoxESR](https://mypdns.org/dCF/deCloudflare/-/raw/master/addons/releases/urjm.xpi) / [Chromium / Edge](https://mypdns.org/dCF/deCloudflare/-/raw/master/addons/releases/urjm.crx)
