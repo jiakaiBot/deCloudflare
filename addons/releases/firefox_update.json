@@ -9,7 +9,7 @@
             }
           },
           "version": "1.0.6.2",
-          "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/isat.xpi?20f2e8a3a7875daa206fb079a1253ddd9c4452fdb90ac24e2cb42992609b0401",
+          "update_link": "https://mypdns.org/dCF/deCloudflare/-/raw/master/addons/releases/isat.xpi?20f2e8a3a7875daa206fb079a1253ddd9c4452fdb90ac24e2cb42992609b0401",
           "update_hash": "sha256:20f2e8a3a7875daa206fb079a1253ddd9c4452fdb90ac24e2cb42992609b0401"
         }
       ]
@@ -23,7 +23,7 @@
             }
           },
           "version": "1.0.25.2",
-          "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/ismm.xpi?4c1dfeeb615394abc8e113c38c29cd925b6af801b6e12f5c8ff1db4e01fc45e1",
+          "update_link": "https://mypdns.org/dCF/deCloudflare/-/raw/master/addons/releases/ismm.xpi?4c1dfeeb615394abc8e113c38c29cd925b6af801b6e12f5c8ff1db4e01fc45e1",
           "update_hash": "sha256:4c1dfeeb615394abc8e113c38c29cd925b6af801b6e12f5c8ff1db4e01fc45e1"
         }
       ]
@@ -37,7 +37,7 @@
             }
           },
           "version": "1.0.6",
-          "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/urjm.xpi?94e7134b2d129877cdf1c40bc9d9cc447b4fca95b8dcaf6db58cf74ed4c25b2e",
+          "update_link": "https://mypdns.org/dCF/deCloudflare/-/raw/master/addons/releases/urjm.xpi?94e7134b2d129877cdf1c40bc9d9cc447b4fca95b8dcaf6db58cf74ed4c25b2e",
           "update_hash": "sha256:94e7134b2d129877cdf1c40bc9d9cc447b4fca95b8dcaf6db58cf74ed4c25b2e"
         }
       ]
