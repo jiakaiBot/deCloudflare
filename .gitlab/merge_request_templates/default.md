@@ -2,7 +2,7 @@
 [//]: # ( http://crimeflare.eu.org )
 
 
-- **Information about this Pull Request**
+- **Information about this Merge Request**
 
 
 
