@@ -4164,6 +4164,7 @@ Do not create new issue or we will close it as duplicate.
 | [miss_hatce@twitter](https://twitter.com/miss_hatce/status/1398657543245864966) | advertise |
 | [Mistah_Random@twitter](https://twitter.com/Mistah_Random/status/1402645157070127113) | advertise |
 | [mistereyfatter@twitter](https://twitter.com/mistereyfatter/status/1385082858105049091) | advertise |
+| [Mistergethowu@twitter](https://twitter.com/Mistergethowu/status/1500293947641544714) | advertise |
 | [MithunR96567112@twitter](https://twitter.com/MithunR96567112/status/1404521110817759236) | advertise |
 | [MitraDevayan@twitter](https://twitter.com/MitraDevayan/status/1393172749288284160) | advertise |
 | [Mits_Dev@twitter](https://twitter.com/Mits_Dev/status/1392978764636643330) | advertise |
@@ -6034,6 +6035,7 @@ Do not create new issue or we will close it as duplicate.
 | [slianp@twitter](https://twitter.com/slianp/status/1390484980342480897) | advertise |
 | [Slick12302@twitter](https://twitter.com/Slick12302/status/1394545875582558211) | advertise |
 | [Slick_Willy_27@twitter](https://twitter.com/Slick_Willy_27/status/1397233774832803846) | advertise |
+| [slimpotatoboy@twitter](https://twitter.com/slimpotatoboy/status/1500358622161031170) | advertise |
 | [slipperypussyc1@twitter](https://twitter.com/slipperypussyc1/status/1407232739762270211) | advertise |
 | [slowhanddario@twitter](https://twitter.com/slowhanddario/status/1474627053307768832) | advertise |
 | [SlyTheFloof@twitter](https://twitter.com/SlyTheFloof/status/1498004182393106435) | advertise |
@@ -6394,6 +6396,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThanhPh44294737@twitter](https://twitter.com/ThanhPh44294737/status/1383122715314249733) | advertise |
 | [thanhphan012@twitter](https://twitter.com/thanhphan012/status/1402846567653019652) | advertise |
 | [Thanhsa70320755@twitter](https://twitter.com/Thanhsa70320755/status/1402283537303162887) | advertise |
+| [ThanhSn73723394@twitter](https://twitter.com/ThanhSn73723394/status/1500351728549773313) | advertise |
 | [ThanhT45620763@twitter](https://twitter.com/ThanhT45620763/status/1395078115488014338) | advertise |
 | [Thanhtam2246@twitter](https://twitter.com/Thanhtam2246/status/1394689960955891712) | advertise |
 | [Thanhtam13579@twitter](https://twitter.com/Thanhtam13579/status/1381403664896561154) | advertise |
