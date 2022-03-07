@@ -25,8 +25,8 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 129 |
-| net | 92 |
+| social | 128 |
+| net | 91 |
 | com | 87 |
 | org | 59 |
 | jp | 43 |
@@ -46,7 +46,6 @@ Here's a list of public Fediverse services.
 | 7144.party | No |
 | 101010.pl | No |
 | a.nom.pl | No |
-| aachen.social | No |
 | aana.site | No |
 | abdl.io | Yes |
 | abdl.link | Yes |
@@ -200,7 +199,6 @@ Here's a list of public Fediverse services.
 | ephemeral.glitch.social | No |
 | equestria.social | No |
 | eupublic.social | No |
-| explosion.party | No |
 | fairground.moe | No |
 | fandom.ink | Yes |
 | fanfare.horse | No |
@@ -240,7 +238,6 @@ Here's a list of public Fediverse services.
 | frei.social | Yes |
 | freiburg.social | No |
 | freunde.ma-nic.de | No |
-| friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
 | friendicarg.nsupdate.info | No |
@@ -328,6 +325,7 @@ Here's a list of public Fediverse services.
 | jako.social | Yes |
 | janogdon.net | No |
 | jawns.club | No |
+| jitakurack.chotto.moe | No |
 | jonleibowitz.social | Yes |
 | jorts.horse | No |
 | jubi.life | No |
@@ -518,7 +516,6 @@ Here's a list of public Fediverse services.
 | mastodon.matcha-soft.com | No |
 | mastodon.me.uk | Yes |
 | mastodon.mechanicalmischief.com | No |
-| mastodon.mensoif.cf | No |
 | mastodon.mg | No |
 | mastodon.migennes.net | No |
 | mastodon.mit.edu | Yes |
@@ -580,6 +577,7 @@ Here's a list of public Fediverse services.
 | mastodos.com | No |
 | mastofant.de | No |
 | mastonaut.com | No |
+| mastouille.fr | No |
 | matitodon.com | No |
 | matthewgall.chat | Yes |
 | mazzo.masto.host | No |
@@ -667,6 +665,7 @@ Here's a list of public Fediverse services.
 | mstdn.ropo.jp | No |
 | mstdn.rukin.me | Yes |
 | mstdn.ryanak.xyz | Yes |
+| mstdn.s7t.de | No |
 | mstdn.sastudio.jp | No |
 | mstdn.schoolidol.club | No |
 | mstdn.si | No |
@@ -819,9 +818,9 @@ Here's a list of public Fediverse services.
 | rollenspiel.social | No |
 | romancelandia.club | No |
 | roughseas.xyz | No |
+| ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| s.ovalerio.net | Yes |
 | salocha.online | No |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
@@ -968,6 +967,7 @@ Here's a list of public Fediverse services.
 | squid.cafe | No |
 | st.foresdon.jp | No |
 | stare.pro | No |
+| starsky.me | Yes |
 | stereodon.social | No |
 | stereophonic.space | No |
 | stoneartprod.xyz | No |
@@ -1093,7 +1093,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1124,7 +1123,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 864 |
+| Normal | 863 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
