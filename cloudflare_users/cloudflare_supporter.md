@@ -313,6 +313,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlexCameronM@twitter](https://twitter.com/AlexCameronM/status/1498914936134807557) | advertise |
 | [alexchenfeng@twitter](https://twitter.com/alexchenfeng/status/1465564402854207493) | advertise |
 | [alexdolbun@twitter](https://twitter.com/alexdolbun/status/1410279652116029443) | moral (advertise) |
+| [alexleungch@twitter](https://twitter.com/alexleungch/status/1500726449497460738) | advertise |
 | [AlexNik14448676@twitter](https://twitter.com/AlexNik14448676/status/1404016449262284806) | advertise |
 | [alexroyce315@twitter](https://twitter.com/alexroyce315/status/1459396293596352513) | advertise |
 | [AlexTam64594150@twitter](https://twitter.com/AlexTam64594150/status/1399762018429673475) | advertise |
@@ -455,6 +456,7 @@ Do not create new issue or we will close it as duplicate.
 | [anshulkmr01@twitter](https://twitter.com/anshulkmr01/status/1441856756288606209) | advertise |
 | [AntohinShulov@twitter](https://twitter.com/AntohinShulov/status/1392227012136239105) | advertise |
 | [AntonioMA_dev@twitter](https://twitter.com/AntonioMA_dev/status/1473047937999683594) | advertise |
+| [antonyalston@twitter](https://twitter.com/antonyalston/status/1500675516189134856) | advertise |
 | [antphyo@twitter](https://twitter.com/antphyo/status/1390723036710457346) | advertise |
 | [AntsyBoi@twitter](https://twitter.com/AntsyBoi/status/1456418455498989569) | advertise |
 | [anuj78203509@twitter](https://twitter.com/anuj78203509/status/1392001208076754947) | advertise |
@@ -5595,6 +5597,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rohtih17@twitter](https://twitter.com/Rohtih17/status/1388094308218073096) | advertise |
 | [rokki100_@twitter](https://twitter.com/rokki100_/status/1407399657932742659) | advertise |
 | [Rolling_Dementi@twitter](https://twitter.com/Rolling_Dementi/status/1390855197258227713) | advertise |
+| [romancoper@twitter](https://twitter.com/romancoper/status/1500700242341203968) | advertise |
 | [RoMeo29584493@twitter](https://twitter.com/RoMeo29584493/status/1392289318262116352) | advertise |
 | [romeospidey@twitter](https://twitter.com/romeospidey/status/1467674513194299394) | advertise |
 | [RominTumde@twitter](https://twitter.com/RominTumde/status/1392255755034796032) | advertise |
