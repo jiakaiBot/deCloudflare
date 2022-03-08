@@ -19,9 +19,9 @@ $ ./cfdomains
 | Name | Value |
 | -- | -- |
 | Version | v1.0.2.1 |
-| Linux | sha256 24e1e1affecd25839aa699e2ec17037425f153e68d9f6cc0c828231033603f5a |
-| Windows | sha256 a92aa29dd02cf7a373d7574a50734666d9ec242c767ea45058d22b70dcf0db8c |
-| Mac OS | sha256 8299b4854a0f6847107167c9d0af534e4ada83bb0184ddab8f3111adeaa14a55 |
+| Linux | sha256 09dea89e6797fffac45db5a9c5f6f7e08fd71a29ebaac0231954b1f3d343d6ea |
+| Windows | sha256 a3d54e858171b6053d1865eff277cd92c8b9fdd8a0d6c57856cdd139daff1d88 |
+| Mac OS | sha256 a64a810c956f54517489ad69cff57e455d9000138857229434db0da890fceec8 |
 
 
 ----
