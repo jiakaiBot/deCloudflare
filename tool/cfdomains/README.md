@@ -4,26 +4,24 @@
 CLI tool to look up Cloudflare domain list
 
 
-- Linux
+- [Linux](https://mypdns.org/dCF/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.linux?inline=false)
 ```
-$ wget https://karma.clearnetonion.eu.org/api/f/cfdomains.linux -O cfdomains
 $ chmod +x cfdomains
-
 $ ./cfdomains
 ```
 
-- [Windows](https://karma.clearnetonion.eu.org/api/f/cfdomains.exe)
-- [Mac OS](https://karma.clearnetonion.eu.org/api/f/cfdomains.app)
+- [Windows](https://mypdns.org/dCF/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.exe?inline=false)
+- [Mac OS](https://mypdns.org/dCF/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.app?inline=false)
 
 
 ### Version & Hash
 
 | Name | Value |
 | -- | -- |
-| Version | v1.0.2 |
-| Linux | sha256 2315366858261ab2e60710538d7d7cf39a091cdeb90d55c601255468028d29c1 |
-| Windows | sha256 e14427741da4f78ffbcaa232313351b519bcb27f46fa01ae58a991195a205eca |
-| Mac OS | sha256 f890211b0a707e8f528e95580480090830b8edb01c9f848a401049129e4e78e6 |
+| Version | v1.0.2.1 |
+| Linux | sha256 24e1e1affecd25839aa699e2ec17037425f153e68d9f6cc0c828231033603f5a |
+| Windows | sha256 a92aa29dd02cf7a373d7574a50734666d9ec242c767ea45058d22b70dcf0db8c |
+| Mac OS | sha256 8299b4854a0f6847107167c9d0af534e4ada83bb0184ddab8f3111adeaa14a55 |
 
 
 ----
