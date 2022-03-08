@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-03-08: [Customer Impacting Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vwfnp4dt5w4h)
 - 2022-03-07: [RETRO: Issues with viewing Smart Tiered Cache Data](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r2nj0bhpqxxh)
 - 2022-03-04: [Network Performance Issues in Chennai, Delhi](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r64033h4bk4s)
 - 2022-03-04: [Network Performance Issues in São Paulo](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4hgxxwdv7jvm)
