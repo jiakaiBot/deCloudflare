@@ -1392,6 +1392,7 @@ Do not create new issue or we will close it as duplicate.
 | [Darlingthaw@twitter](https://twitter.com/Darlingthaw/status/1400112566580310016) | advertise |
 | [darlslow@twitter](https://twitter.com/darlslow/status/1387923986911154179) | advertise |
 | [darmametta@twitter](https://twitter.com/darmametta/status/1388727313919922179) | advertise |
+| [DaRo_Empire@twitter](https://twitter.com/DaRo_Empire/status/1500996804925702151) | advertise |
 | [DarrenNathans@twitter](https://twitter.com/DarrenNathans/status/1439219446069936132) | advertise |
 | [dasith_vidanage@twitter](https://twitter.com/dasith_vidanage/status/1386590411515305984) | advertise |
 | [Dat53629469@twitter](https://twitter.com/Dat53629469/status/1394189886190542848) | advertise |
@@ -1485,6 +1486,7 @@ Do not create new issue or we will close it as duplicate.
 | [DevilYTBVN@twitter](https://twitter.com/DevilYTBVN/status/1498285245761683460) | advertise |
 | [DeViL_jOkER7@twitter](https://twitter.com/DeViL_jOkER7/status/1386035714664456193) | advertise |
 | [devrajgujjar54@twitter](https://twitter.com/devrajgujjar54/status/1385292357449527296) | advertise |
+| [dev_Songkran@twitter](https://twitter.com/dev_Songkran/status/1501017169001615361) | advertise |
 | [DeYeJa2@twitter](https://twitter.com/DeYeJa2/status/1392927369686523905) | advertise |
 | [deywall@twitter](https://twitter.com/deywall/status/1391105437471232003) | advertise |
 | [DFUnguyen@twitter](https://twitter.com/DFUnguyen/status/1480082669157289985) | advertise |
