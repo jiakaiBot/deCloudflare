@@ -842,6 +842,7 @@ Do not create new issue or we will close it as duplicate.
 | [BaSai44822569@twitter](https://twitter.com/BaSai44822569/status/1390875744100827142) | advertise |
 | [BasavarajShaha4@twitter](https://twitter.com/BasavarajShaha4/status/1392060094108504067) | advertise |
 | [BashaBa71391325@twitter](https://twitter.com/BashaBa71391325/status/1384809106226106371) | advertise |
+| [basiconess@twitter](https://twitter.com/basiconess/status/1501542754723450887) | advertise |
 | [Basix1120@twitter](https://twitter.com/Basix1120/status/1444317697794142211) | advertise |
 | [basra_rests@twitter](https://twitter.com/basra_rests/status/1392994649862774784) | advertise |
 | [Basuki_null@twitter](https://twitter.com/Basuki_null/status/1394215228364115970) | advertise |
@@ -1283,6 +1284,7 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -1865,6 +1867,7 @@ Do not create new issue or we will close it as duplicate.
 | [fouad20092000@twitter](https://twitter.com/fouad20092000/status/1472866649971871744) | advertise |
 | [freak_bharath@twitter](https://twitter.com/freak_bharath/status/1398311217605738496) | advertise |
 | [FreddyKaung@twitter](https://twitter.com/FreddyKaung/status/1396197482086813701) | advertise |
+| [freddyschre@twitter](https://twitter.com/freddyschre/status/1501565599746596867) | advertise |
 | [freehawk@twitter](https://twitter.com/freehawk/status/1383933154059190273) | advertise |
 | [freemcservernet@twitter](https://twitter.com/freemcservernet/status/1447640173626413064) | advertise |
 | [FreeMobileZone@twitter](https://twitter.com/FreeMobileZone/status/1422035788494254082) | advertise |
@@ -2581,6 +2584,7 @@ Do not create new issue or we will close it as duplicate.
 | [ijsf2EvmedCgFOq@twitter](https://twitter.com/ijsf2EvmedCgFOq/status/1377093871902060545) | advertise |
 | [ikevin457@twitter](https://twitter.com/ikevin457/status/1377224916789948422) | advertise |
 | [IkhmalFirdaus5@twitter](https://twitter.com/IkhmalFirdaus5/status/1396361732096806913) | advertise |
+| [IKlinicki@twitter](https://twitter.com/IKlinicki/status/1501579461074075656) | advertise |
 | [iKokkii@twitter](https://twitter.com/iKokkii/status/1459160411425718283) | advertise |
 | [ilanhesapcom@twitter](https://twitter.com/ilanhesapcom/status/1485037748864131074) | advertise |
 | [iLngg0111@twitter](https://twitter.com/iLngg0111/status/1379110919066644480) | advertise |
@@ -3192,8 +3196,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -3911,11 +3915,13 @@ Do not create new issue or we will close it as duplicate.
 | [MasterSpackle@twitter](https://twitter.com/MasterSpackle/status/1387213742241468419) | advertise |
 | [mATAsBokaklIPdM@twitter](https://twitter.com/mATAsBokaklIPdM/status/1394944549911359497) | advertise |
 | [matfitt@twitter](https://twitter.com/matfitt/status/1386357122070310912) | advertise |
+| [MatnXPharis@twitter](https://twitter.com/MatnXPharis/status/1501580663169839109) | advertise |
 | [matrix-org@github.com](https://github.com/matrix-org) | moral (forcefully closed issue) |
 | [matthewseng7@twitter](https://twitter.com/matthewseng7/status/1380512288944259074) | advertise |
 | [matthew_hignite@twitter](https://twitter.com/matthew_hignite/status/1398664024716349440) | advertise |
 | [mattylive_@twitter](https://twitter.com/mattylive_/status/1380773880512532485) | advertise |
 | [matt_from_burma@twitter](https://twitter.com/matt_from_burma/status/1394596702879850497) | advertise |
+| [matt_gamez@twitter](https://twitter.com/matt_gamez/status/1501569176686764036) | advertise |
 | [matviychukvr@twitter](https://twitter.com/matviychukvr/status/1501276821240832001) | advertise |
 | [Maumau0608@twitter](https://twitter.com/Maumau0608/status/1478951748517597184) | advertise |
 | [MaungHeinMinHt1@twitter](https://twitter.com/MaungHeinMinHt1/status/1395023600579616770) | advertise |
@@ -4005,6 +4011,7 @@ Do not create new issue or we will close it as duplicate.
 | [meooccho012@twitter](https://twitter.com/meooccho012/status/1399385570594365446) | advertise |
 | [meran0maruf@twitter](https://twitter.com/meran0maruf/status/1397979741173469186) | advertise |
 | [MercuryKIInG91@twitter](https://twitter.com/MercuryKIInG91/status/1398250256794624005) | advertise |
+| [mergencez@twitter](https://twitter.com/mergencez/status/1501549795122450437) | advertise |
 | [mertcangokgoz@twitter](https://twitter.com/mertcangokgoz/status/1399434909039611907) | advertise |
 | [MES31_82@twitter](https://twitter.com/MES31_82/status/1401340927495581698) | advertise |
 | [Mest42062509@twitter](https://twitter.com/Mest42062509/status/1392776692976951300) | advertise |
@@ -5231,6 +5238,7 @@ Do not create new issue or we will close it as duplicate.
 | [phyowaishan1@twitter](https://twitter.com/phyowaishan1/status/1391210535794868227) | advertise |
 | [Phyozay09547133@twitter](https://twitter.com/Phyozay09547133/status/1475683589660368898) | advertise |
 | [PhyoZin251296@twitter](https://twitter.com/PhyoZin251296/status/1391337117238714371) | advertise |
+| [physicscoding@twitter](https://twitter.com/physicscoding/status/1501578423008964608) | advertise |
 | [Phyu39667564@twitter](https://twitter.com/Phyu39667564/status/1400127649024864261) | advertise |
 | [Phyu45337932@twitter](https://twitter.com/Phyu45337932/status/1393368748380332035) | advertise |
 | [PhyueWai@twitter](https://twitter.com/PhyueWai/status/1379063164214517764) | advertise |
@@ -5451,6 +5459,7 @@ Do not create new issue or we will close it as duplicate.
 | [rahmat3769@twitter](https://twitter.com/rahmat3769/status/1389475547445616644) | advertise |
 | [rahul05ranjan@twitter](https://twitter.com/rahul05ranjan/status/1497685840428146688) | advertise |
 | [rahulkaswa112@twitter](https://twitter.com/rahulkaswa112/status/1391641130710700037) | advertise |
+| [RaidhaRaameen@twitter](https://twitter.com/RaidhaRaameen/status/1501565539751133188) | advertise |
 | [RainClo56642753@twitter](https://twitter.com/RainClo56642753/status/1488097711995850754) | advertise |
 | [RainCome7@twitter](https://twitter.com/RainCome7/status/1495670791698272259) | advertise |
 | [rainepartanen@twitter](https://twitter.com/rainepartanen/status/1391102792476106753) | advertise |
@@ -5548,6 +5557,7 @@ Do not create new issue or we will close it as duplicate.
 | [REX71431061@twitter](https://twitter.com/REX71431061/status/1390019383158734848) | advertise |
 | [Rex96885803@twitter](https://twitter.com/Rex96885803/status/1376859443464302604) | advertise |
 | [rex_clemente@twitter](https://twitter.com/rex_clemente/status/1376875545955209224) | advertise |
+| [rezagolami_98@twitter](https://twitter.com/rezagolami_98/status/1501473867461799936) | advertise |
 | [RezuKyonyu@twitter](https://twitter.com/RezuKyonyu/status/1384584149902651392) | advertise |
 | [rgeekuk@twitter](https://twitter.com/rgeekuk/status/1485614393937256463) | advertise |
 | [RGyi28802950@twitter](https://twitter.com/RGyi28802950/status/1390118757356367874) | advertise |
