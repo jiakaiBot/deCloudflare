@@ -64,6 +64,7 @@ Do not create new issue or we will close it as duplicate.
 | [3vOf6h3aXHm22P1@twitter](https://twitter.com/3vOf6h3aXHm22P1/status/1392031999603392513) | advertise |
 | [4cvji1@twitter](https://twitter.com/4cvji1/status/1468836869941125121) | advertise |
 | [4DSxDARK1@twitter](https://twitter.com/4DSxDARK1/status/1379416647505616902) | advertise |
+| [4minerpool@twitter](https://twitter.com/4minerpool/status/1501760243952685058) | advertise |
 | [4Taff@twitter](https://twitter.com/4Taff/status/1397536462606831617) | advertise |
 | [5ss_ss4@twitter](https://twitter.com/5ss_ss4/status/1483667377044828160) | advertise |
 | [6lizzys@twitter](https://twitter.com/6lizzys/status/1490561482525855747) | advertise |
@@ -1263,6 +1264,7 @@ Do not create new issue or we will close it as duplicate.
 | [cong242000@twitter](https://twitter.com/cong242000/status/1383487920498040838) | advertise |
 | [Conganh78457546@twitter](https://twitter.com/Conganh78457546/status/1497191208829227008) | advertise |
 | [Congtru16@twitter](https://twitter.com/Congtru16/status/1403711950945587200) | advertise |
+| [congtytongluc@twitter](https://twitter.com/congtytongluc/status/1501822389621264385) | advertise |
 | [Conheo93476222@twitter](https://twitter.com/Conheo93476222/status/1400096830415798274) | advertise |
 | [Conquera99@twitter](https://twitter.com/Conquera99/status/1391184679240273923) | advertise |
 | [consultingby_b@twitter](https://twitter.com/consultingby_b/status/1382897455247851520) | advertise |
@@ -1477,6 +1479,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dersy73935011@twitter](https://twitter.com/Dersy73935011/status/1389827449349763072) | advertise |
 | [Desaste64491060@twitter](https://twitter.com/Desaste64491060/status/1383753625101500417) | advertise |
 | [desertdog99@twitter](https://twitter.com/desertdog99/status/1405382173734014983) | advertise |
+| [DesignsShujaa@twitter](https://twitter.com/DesignsShujaa/status/1501718865868300289) | advertise |
 | [detikepri@twitter](https://twitter.com/detikepri/status/1448139774171103239) | advertise |
 | [DeukGu2@twitter](https://twitter.com/DeukGu2/status/1394341921418620935) | advertise |
 | [DevArtSoftCo@twitter](https://twitter.com/DevArtSoftCo/status/1451451931713359878) | advertise |
@@ -2781,6 +2784,7 @@ Do not create new issue or we will close it as duplicate.
 | [jesko14346712@twitter](https://twitter.com/jesko14346712/status/1402518182020063240) | advertise |
 | [JesseREzung@twitter](https://twitter.com/JesseREzung/status/1384211301686136836) | advertise |
 | [jesse_sihenherg@twitter](https://twitter.com/jesse_sihenherg/status/1387006183018352643) | advertise |
+| [Jessica92254548@twitter](https://twitter.com/Jessica92254548/status/1501829716487008256) | advertise |
 | [JesvinJ2@twitter](https://twitter.com/JesvinJ2/status/1386613096861495300) | advertise |
 | [jetsada43654039@twitter](https://twitter.com/jetsada43654039/status/1390732178233839617) | advertise |
 | [jewel_maung@twitter](https://twitter.com/jewel_maung/status/1390703603036213248) | advertise |
@@ -3197,8 +3201,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
