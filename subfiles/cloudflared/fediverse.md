@@ -25,7 +25,7 @@ Here's a list of public Fediverse services.
 - Top 5 TLDs
 | TLD | Count |
 | --- | --- |
-| social | 131 |
+| social | 129 |
 | net | 91 |
 | com | 87 |
 | org | 59 |
@@ -243,6 +243,7 @@ Here's a list of public Fediverse services.
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
+| friendicarg.nsupdate.info | No |
 | frogmob.life | No |
 | froth.zone | No |
 | fsmi.social | Yes |
@@ -376,7 +377,6 @@ Here's a list of public Fediverse services.
 | lgbt.io | No |
 | liber.chocoflan.net | No |
 | liberalism.masto.host | No |
-| libertalia.world | No |
 | libertarians.social | No |
 | libertynode.net | No |
 | libretooth.gr | No |
@@ -451,7 +451,7 @@ Here's a list of public Fediverse services.
 | mastodon.bachgau.social | No |
 | mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
-| mastodon.bayern | Yes |
+| mastodon.bgzashtita.es | No |
 | mastodon.bida.im | No |
 | mastodon.bitbank.cc | Yes |
 | mastodon.cardina1.red | No |
@@ -623,7 +623,6 @@ Here's a list of public Fediverse services.
 | mstdn.cloud.themaymeow.com | Yes |
 | mstdn.conoha.quine.codes | No |
 | mstdn.cygnan.com | Yes |
-| mstdn.es | Yes |
 | mstdn.fr | No |
 | mstdn.fujii-yuji.net | No |
 | mstdn.glorificatio.org | No |
@@ -682,7 +681,6 @@ Here's a list of public Fediverse services.
 | mtd.ax9.eu | No |
 | mtg.masto.host | No |
 | muenchen.social | No |
-| muensterland.social | Yes |
 | mugwort.xyz | No |
 | musicdn.jp | No |
 | mustardon.tokyo | No |
@@ -1061,6 +1059,7 @@ Here's a list of public Fediverse services.
 | tutut.delire.party | No |
 | tweetrex.co.uk | No |
 | twingyeo.kr | Yes |
+| twinkaga.in | No |
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
@@ -1096,7 +1095,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1126,8 +1124,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 221 |
-| Normal | 865 |
+| Cloudflare | 218 |
+| Normal | 866 |
 
 
-### 20.3% of public Fediverse services are using Cloudflare.
+### 20.1% of public Fediverse services are using Cloudflare.
