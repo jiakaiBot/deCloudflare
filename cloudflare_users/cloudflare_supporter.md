@@ -6442,6 +6442,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thanh95833956@twitter](https://twitter.com/Thanh95833956/status/1403223547883900934) | advertise |
 | [ThanhHn57270279@twitter](https://twitter.com/ThanhHn57270279/status/1391899749683400706) | advertise |
 | [Thanhlo12816342@twitter](https://twitter.com/Thanhlo12816342/status/1491166476782702592) | advertise |
+| [Thanhnhan671@twitter](https://twitter.com/Thanhnhan671/status/1502252142484078594) | advertise |
 | [ThanhPh44294737@twitter](https://twitter.com/ThanhPh44294737/status/1383122715314249733) | advertise |
 | [thanhphan012@twitter](https://twitter.com/thanhphan012/status/1402846567653019652) | advertise |
 | [Thanhsa70320755@twitter](https://twitter.com/Thanhsa70320755/status/1402283537303162887) | advertise |
