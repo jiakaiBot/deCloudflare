@@ -1046,6 +1046,7 @@ Or is this merely a case of simple modesty?
 | Marianna Ilagan | Internal Events Coordinator |  |
 | Maria Sofia | Employee |  |
 | Mariella Luger | Marketing Manager EMEA |  |
+| Mari Galicer | Employee | |
 | Marina Harper | HR Administrator |  |
 | Marina Jeon | Demand Generation Specialist |  |
 | Marina Sanusi | Employee | |
@@ -1093,6 +1094,7 @@ Or is this merely a case of simple modesty?
 | Matt James Boyle | Engineer |  |
 | Matt Lewis | Employee |  |
 | Matt Schulte | Employee | |
+| Matt Silverlock | Employee | |
 | Matt Wheeler | Employee |  |
 | Matvey Arye | Employee |  |
 | Maurizio Monti | Partnerships |  |
