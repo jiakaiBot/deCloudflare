@@ -4630,6 +4630,7 @@ Do not create new issue or we will close it as duplicate.
 | [NayZin04331521@twitter](https://twitter.com/NayZin04331521/status/1392442395497697282) | advertise |
 | [Na_AlFayeez@twitter](https://twitter.com/Na_AlFayeez/status/1388195478844674055) | advertise |
 | [Ndahe8@twitter](https://twitter.com/Ndahe8/status/1387121668582117377) | advertise |
+| [NdIosdg@twitter](https://twitter.com/NdIosdg/status/1502104011155324932) | advertise |
 | [nducluongio36@twitter](https://twitter.com/nducluongio36/status/1401614551120900100) | advertise |
 | [nearby_Thailand@twitter](https://twitter.com/nearby_Thailand/status/1375630256543985666) | advertise |
 | [NearlyWithme@twitter](https://twitter.com/NearlyWithme/status/1390914049760661510) | advertise |
@@ -4680,6 +4681,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ngko63049837@twitter](https://twitter.com/Ngko63049837/status/1398150801055535106) | advertise |
 | [ngLm68174472@twitter](https://twitter.com/ngLm68174472/status/1401611353102581760) | advertise |
 | [ngNguyn04734307@twitter](https://twitter.com/ngNguyn04734307/status/1378019479876067330) | advertise |
+| [ngntrunghung136@twitter](https://twitter.com/ngntrunghung136/status/1502081207466881025) | advertise |
 | [NgocLan1711@twitter](https://twitter.com/NgocLan1711/status/1380847220438618116) | advertise |
 | [ngocthang_9577@twitter](https://twitter.com/ngocthang_9577/status/1401800231713345543) | advertise |
 | [NgocUnmei@twitter](https://twitter.com/NgocUnmei/status/1402936171265548289) | advertise |
@@ -6195,6 +6197,7 @@ Do not create new issue or we will close it as duplicate.
 | [SSakirikartheek@twitter](https://twitter.com/SSakirikartheek/status/1382151202616578051) | advertise |
 | [ssamukkura0801@twitter](https://twitter.com/ssamukkura0801/status/1389941110873759748) | advertise |
 | [ssbs36576411@twitter](https://twitter.com/ssbs36576411/status/1399095335973265418) | advertise |
+| [SshuvoFF1@twitter](https://twitter.com/SshuvoFF1/status/1502123888020393985) | advertise |
 | [SSuiteSoftware@twitter](https://twitter.com/SSuiteSoftware/status/1372875712240230400) | advertise |
 | [STA54946378@twitter](https://twitter.com/STA54946378/status/1394890464516399107) | advertise |
 | [stamp_app@twitter](https://twitter.com/stamp_app/status/1417450714490605568) | advertise |
