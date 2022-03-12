@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 129 |
-| net | 91 |
+| net | 92 |
 | com | 87 |
-| org | 59 |
-| jp | 43 |
+| org | 58 |
+| jp | 42 |
 
 
 - Mastodon, Pleroma, etc
@@ -147,7 +147,6 @@ Here's a list of public Fediverse services.
 | comm.cx | Yes |
 | contacthi.org | No |
 | coolmathgam.es | Yes |
-| crypt.lol | No |
 | cuties.social | No |
 | cybr.es | No |
 | cybre.space | No |
@@ -289,7 +288,6 @@ Here's a list of public Fediverse services.
 | hessen.social | No |
 | hispagatos.space | No |
 | hokutodon.co | No |
-| homoo.social | No |
 | hostsharing.coop | No |
 | hostux.social | No |
 | hotmail.com | No |
@@ -322,7 +320,6 @@ Here's a list of public Fediverse services.
 | is.nota.live | No |
 | ischool.social | No |
 | iscute.moe | No |
-| itabashi.0j0.jp | No |
 | iwatedon.net | No |
 | iys.io | Yes |
 | jako.social | Yes |
@@ -377,6 +374,7 @@ Here's a list of public Fediverse services.
 | lgbt.io | No |
 | liber.chocoflan.net | No |
 | liberalism.masto.host | No |
+| libertalia.world | No |
 | libertarians.social | No |
 | libertynode.net | No |
 | libretooth.gr | No |
@@ -405,7 +403,6 @@ Here's a list of public Fediverse services.
 | m.rthome.me | No |
 | m6n.onsen.tech | Yes |
 | ma.fono.jp | No |
-| ma.kaioken.space | No |
 | machida.yokohama | No |
 | magicalgirl.party | No |
 | maho.app | No |
@@ -451,6 +448,7 @@ Here's a list of public Fediverse services.
 | mastodon.bachgau.social | No |
 | mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
+| mastodon.bayern | Yes |
 | mastodon.bgzashtita.es | No |
 | mastodon.bida.im | No |
 | mastodon.bitbank.cc | Yes |
@@ -623,6 +621,7 @@ Here's a list of public Fediverse services.
 | mstdn.cloud.themaymeow.com | Yes |
 | mstdn.conoha.quine.codes | No |
 | mstdn.cygnan.com | Yes |
+| mstdn.es | Yes |
 | mstdn.fr | No |
 | mstdn.fujii-yuji.net | No |
 | mstdn.glorificatio.org | No |
@@ -681,6 +680,7 @@ Here's a list of public Fediverse services.
 | mtd.ax9.eu | No |
 | mtg.masto.host | No |
 | muenchen.social | No |
+| muensterland.social | Yes |
 | mugwort.xyz | No |
 | musicdn.jp | No |
 | mustardon.tokyo | No |
@@ -821,6 +821,8 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
+| rva.party | No |
+| s.ovalerio.net | Yes |
 | salocha.online | No |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
@@ -850,6 +852,7 @@ Here's a list of public Fediverse services.
 | sio.masto.host | No |
 | sizedon.com | No |
 | sjtu.closed.social | Yes |
+| skinnyver.se | No |
 | skrt.social | No |
 | slashine.onl | Yes |
 | sleeping.town | No |
@@ -932,7 +935,6 @@ Here's a list of public Fediverse services.
 | social.shadowfacts.net | Yes |
 | social.simcu.com | No |
 | social.sitedethib.com | No |
-| social.slat.org | No |
 | social.smnz.de | No |
 | social.snopyta.org | No |
 | social.sp-codes.de | No |
@@ -1059,7 +1061,6 @@ Here's a list of public Fediverse services.
 | tutut.delire.party | No |
 | tweetrex.co.uk | No |
 | twingyeo.kr | Yes |
-| twinkaga.in | No |
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
@@ -1124,8 +1125,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 218 |
-| Normal | 866 |
+| Cloudflare | 222 |
+| Normal | 863 |
 
 
-### 20.1% of public Fediverse services are using Cloudflare.
+### 20.5% of public Fediverse services are using Cloudflare.
