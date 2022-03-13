@@ -132,6 +132,7 @@ Do not create new issue or we will close it as duplicate.
 | [aarashaaria@twitter](https://twitter.com/aarashaaria/status/1376873295639949315) | advertise |
 | [AAravindthkumar@twitter](https://twitter.com/AAravindthkumar/status/1396989298654650388) | advertise |
 | [aaron54733902@twitter](https://twitter.com/aaron54733902/status/1400550977971818497) | advertise |
+| [aartibsin@twitter](https://twitter.com/aartibsin/status/1503035800153432070) | advertise |
 | [Aarush82908218@twitter](https://twitter.com/Aarush82908218/status/1383700007111467012) | advertise |
 | [AashirBg@twitter](https://twitter.com/AashirBg/status/1411697775406837764) | moral (advertise) |
 | [AAunghteik@twitter](https://twitter.com/AAunghteik/status/1391426267321442310) | advertise |
@@ -1581,6 +1582,7 @@ Do not create new issue or we will close it as duplicate.
 | [donkey_th@twitter](https://twitter.com/donkey_th/status/1404873847786987523) | advertise |
 | [donlareiei1@twitter](https://twitter.com/donlareiei1/status/1475488737140219904) | advertise |
 | [DonLVn2@twitter](https://twitter.com/DonLVn2/status/1378897523100712963) | advertise |
+| [donofainlo@twitter](https://twitter.com/donofainlo/status/1503039041201184776) | advertise |
 | [dont4getme122@twitter](https://twitter.com/dont4getme122/status/1380527620043890691) | advertise |
 | [Don_Vito7@twitter](https://twitter.com/Don_Vito7/status/1380513878220664834) | advertise |
 | [DopeBiz_@twitter](https://twitter.com/DopeBiz_/status/1473546314529001473) | advertise |
@@ -4889,6 +4891,7 @@ Do not create new issue or we will close it as duplicate.
 | [nppn2611@twitter](https://twitter.com/nppn2611/status/1480784759835873282) | advertise |
 | [NPTReyes@twitter](https://twitter.com/NPTReyes/status/1437249106703904768) | advertise |
 | [NsauPricilla@twitter](https://twitter.com/NsauPricilla/status/1394617886178566144) | advertise |
+| [nsktar@twitter](https://twitter.com/nsktar/status/1502997750501281799) | advertise |
 | [NTHngGm2@twitter](https://twitter.com/NTHngGm2/status/1384163405053927432) | advertise |
 | [ntnclts@twitter](https://twitter.com/ntnclts/status/1386041672128090112) | advertise |
 | [ntsdzz10@twitter](https://twitter.com/ntsdzz10/status/1486551336678088704) | advertise |
@@ -6069,6 +6072,7 @@ Do not create new issue or we will close it as duplicate.
 | [sithusoemech@twitter](https://twitter.com/sithusoemech/status/1394717431545831429) | advertise |
 | [SiThuWai17@twitter](https://twitter.com/SiThuWai17/status/1395532997445644288) | advertise |
 | [SitMinKoKo3@twitter](https://twitter.com/SitMinKoKo3/status/1390787997310742531) | advertise |
+| [sitthiprawiat@twitter](https://twitter.com/sitthiprawiat/status/1503031569908629507) | advertise |
 | [Sittipo00572089@twitter](https://twitter.com/Sittipo00572089/status/1384550250627534849) | advertise |
 | [Sittminkhant10@twitter](https://twitter.com/Sittminkhant10/status/1378287265143742464) | advertise |
 | [SittNai57098834@twitter](https://twitter.com/SittNai57098834/status/1394954816099700736) | advertise |
@@ -6883,6 +6887,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrustedhostingI@twitter](https://twitter.com/TrustedhostingI/status/1424252791506145280) | advertise |
 | [Tsewang73248585@twitter](https://twitter.com/Tsewang73248585/status/1385606825676984327) | advertise |
 | [Tsherin04300710@twitter](https://twitter.com/Tsherin04300710/status/1394306975505129474) | advertise |
+| [tsubu_srs@twitter](https://twitter.com/tsubu_srs/status/1502921073087578112) | advertise |
 | [Tsumidoodle@twitter](https://twitter.com/Tsumidoodle/status/1382636178562633729) | advertise |
 | [TsYu53290383@twitter](https://twitter.com/TsYu53290383/status/1397966327877292036) | advertise |
 | [TtarZzin@twitter](https://twitter.com/TtarZzin/status/1473115853101039618) | advertise |
@@ -6968,6 +6973,7 @@ Do not create new issue or we will close it as duplicate.
 | [UChitKaung2@twitter](https://twitter.com/UChitKaung2/status/1392627087849103360) | advertise |
 | [uCtMoi60822299@twitter](https://twitter.com/uCtMoi60822299/status/1388992504750501890) | advertise |
 | [Uday26880125@twitter](https://twitter.com/Uday26880125/status/1399934947331166213) | advertise |
+| [UdicoSupport@twitter](https://twitter.com/UdicoSupport/status/1502957483500916740) | advertise |
 | [uditmehra631@twitter](https://twitter.com/uditmehra631/status/1395606145041981443) | advertise |
 | [udng83676589@twitter](https://twitter.com/udng83676589/status/1388778273388195844) | advertise |
 | [ufirz825732@twitter](https://twitter.com/ufirz825732/status/1396484531826221057) | advertise |
