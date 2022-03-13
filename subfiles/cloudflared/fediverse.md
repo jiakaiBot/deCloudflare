@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 129 |
-| net | 92 |
-| com | 87 |
-| org | 58 |
-| jp | 42 |
+| net | 90 |
+| com | 88 |
+| org | 59 |
+| jp | 43 |
 
 
 - Mastodon, Pleroma, etc
@@ -147,6 +147,7 @@ Here's a list of public Fediverse services.
 | comm.cx | Yes |
 | contacthi.org | No |
 | coolmathgam.es | Yes |
+| crypt.lol | No |
 | cuties.social | No |
 | cybr.es | No |
 | cybre.space | No |
@@ -207,7 +208,6 @@ Here's a list of public Fediverse services.
 | federation.krowverse.services | No |
 | fedi.absturztau.be | No |
 | fedi.mecp.de | No |
-| fedi.mint.lgbt | No |
 | fedivers.net | No |
 | felesitas.cloud | No |
 | fellies.social | No |
@@ -288,6 +288,7 @@ Here's a list of public Fediverse services.
 | hessen.social | No |
 | hispagatos.space | No |
 | hokutodon.co | No |
+| homoo.social | No |
 | hostsharing.coop | No |
 | hostux.social | No |
 | hotmail.com | No |
@@ -320,6 +321,7 @@ Here's a list of public Fediverse services.
 | is.nota.live | No |
 | ischool.social | No |
 | iscute.moe | No |
+| itabashi.0j0.jp | No |
 | iwatedon.net | No |
 | iys.io | Yes |
 | jako.social | Yes |
@@ -353,7 +355,6 @@ Here's a list of public Fediverse services.
 | kopiti.am | Yes |
 | koreadon.com | No |
 | kosmos.social | No |
-| kottman.xyz | No |
 | koyu.space | Yes |
 | kpop.social | Yes |
 | krefeld.life | No |
@@ -384,7 +385,6 @@ Here's a list of public Fediverse services.
 | literatur.social | No |
 | livers.jp | No |
 | lor.sh | Yes |
-| lou.lt | Yes |
 | lsngl.us | No |
 | ludosphere.fr | No |
 | m-i.im | Yes |
@@ -818,11 +818,8 @@ Here's a list of public Fediverse services.
 | rollenspiel.social | No |
 | romancelandia.club | No |
 | roughseas.xyz | No |
-| ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| rva.party | No |
-| s.ovalerio.net | Yes |
 | salocha.online | No |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
@@ -849,6 +846,7 @@ Here's a list of public Fediverse services.
 | shigusegubu.club | No |
 | shitcoin.land | Yes |
 | shitter.me | No |
+| sin.tyaku.com | No |
 | sio.masto.host | No |
 | sizedon.com | No |
 | sjtu.closed.social | Yes |
@@ -935,6 +933,7 @@ Here's a list of public Fediverse services.
 | social.shadowfacts.net | Yes |
 | social.simcu.com | No |
 | social.sitedethib.com | No |
+| social.slat.org | No |
 | social.smnz.de | No |
 | social.snopyta.org | No |
 | social.sp-codes.de | No |
@@ -955,7 +954,6 @@ Here's a list of public Fediverse services.
 | social.up.edu.ph | Yes |
 | social.van-hemmen.com | No |
 | social.veganact.org.au | No |
-| social.vikings.net | No |
 | social.weho.st | No |
 | social.wxcafe.net | No |
 | social.xthemage.net | No |
@@ -1061,6 +1059,7 @@ Here's a list of public Fediverse services.
 | tutut.delire.party | No |
 | tweetrex.co.uk | No |
 | twingyeo.kr | Yes |
+| twinkaga.in | No |
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
@@ -1125,8 +1124,8 @@ Here's a list of public Fediverse services.
 - Cloudflare %
 | Type | Count |
 | --- | --- |
-| Cloudflare | 222 |
-| Normal | 863 |
+| Cloudflare | 220 |
+| Normal | 864 |
 
 
-### 20.5% of public Fediverse services are using Cloudflare.
+### 20.3% of public Fediverse services are using Cloudflare.
