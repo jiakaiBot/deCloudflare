@@ -2101,6 +2101,7 @@ Do not create new issue or we will close it as duplicate.
 | [hamolll@twitter](https://twitter.com/hamolll/status/1487817397415333888) | advertise |
 | [hana66669@twitter](https://twitter.com/hana66669/status/1379180701921148929) | advertise |
 | [hanaz152@twitter](https://twitter.com/hanaz152/status/1489571828951498755) | advertise |
+| [Handler_0k@twitter](https://twitter.com/Handler_0k/status/1502685102081552388) | advertise |
 | [HaNgcThnh1@twitter](https://twitter.com/HaNgcThnh1/status/1474892457380700160) | advertise |
 | [haNguyn90737580@twitter](https://twitter.com/haNguyn90737580/status/1378411206134796289) | advertise |
 | [HanHlaingMyint1@twitter](https://twitter.com/HanHlaingMyint1/status/1389379591601594369) | advertise |
@@ -6322,6 +6323,7 @@ Do not create new issue or we will close it as duplicate.
 | [sYuMon777@twitter](https://twitter.com/sYuMon777/status/1399606526541668357) | advertise |
 | [sy_angelyuna@twitter](https://twitter.com/sy_angelyuna/status/1377173738085474307) | advertise |
 | [T83532576@twitter](https://twitter.com/T83532576/status/1398708012445962247) | advertise |
+| [ta89151567@twitter](https://twitter.com/ta89151567/status/1502756006052380678) | advertise |
 | [TachaOfficial@twitter](https://twitter.com/TachaOfficial/status/1401122102476947458) | advertise |
 | [Taehyun21314560@twitter](https://twitter.com/Taehyun21314560/status/1394203615284240384) | advertise |
 | [Taejas3@twitter](https://twitter.com/Taejas3/status/1398096510802268160) | advertise |
