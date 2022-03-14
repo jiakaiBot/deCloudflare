@@ -120,8 +120,7 @@ Your username part (before `@`) will be masked to protect your privacy.
 
 ### Settings
 
-You can configure it from [this website](https://mitigator.crimeflare.eu.org/).
-**WARNING: WILL BE CHANGED**
+You can configure it from [this website](https://altlink.crimeflare.eu.org/).
 
 
 ### Download Old PNG Logo
