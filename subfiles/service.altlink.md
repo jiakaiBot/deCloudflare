@@ -1,4 +1,4 @@
-# Alternative Link (AltLink/MitiGator)
+# Alternative Link (AltLink)
 
 
 | 🖼 | 🖼 |
@@ -53,11 +53,11 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 
 ### How to Subscribe
 
-1. Follow [MitiGator](https://mastodon.pirateparty.be/@MitiGator).
+1. Follow the [AltLink Account](https://jesus.help/change.me).
   - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking Altlink.
 
-2. Send _any text_ as **direct** message to MitiGator. (e.g. `@mitigator hi`)
-  - And MitiGator will follow back you _instantly_ with intro message.
+2. Send _any text_ as **direct** message to above account. (e.g. `@accountname hi`)
+  - And it will follow back you _instantly_ with intro message.
     - If you're locking your account, please accept AL's follow request otherwise AL can't read your toots.
   - If you didn't got any reply make sure you are following MG.
 
@@ -74,22 +74,22 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 
 ### Suggest clean alternatives
 
-Just ask (send **direct** message to) Mitigator and he will provide some suggestions.
+Just ask (send **direct** message to) it and he will provide some suggestions.
 
 - This is related to Settings' `Suggest other non-Cloudflare alternative sites when available`.
   - If there is a network problem _or_ there is no alternative MG will not reply anything.
 
 
-Syntax: `@MitiGator ?URL` or `？URL`
+Syntax: `@theaccountname ?URL` or `？URL`
 
 Put Cloudflared URL like this...
 
 ```
-@mitigator ?https://cflove.myblog.site/cloud_is_internet/?blog=true
+@theaccount ?https://cflove.myblog.site/cloud_is_internet/?blog=true
 ```
 
 ```
-@mitigator
+@theaccount
 
 ？https://invite.party/cloudflare_users_only/
 ```
@@ -98,7 +98,7 @@ Put Cloudflared URL like this...
 **1** question per toot. Below does **not** work.
 
 ```
-@mitigator
+@theaccount
 ?https://matthew.prince/blog/
 ?https://matthewprince.site/
 ?https://matthew.prince.name/
@@ -111,8 +111,8 @@ Put Cloudflared URL like this...
 You can create an Issue without git account. Just send a **direct** message.
 And don't worry,
 
-- Multiple mentions (e.g. `@randomUser @mitigator @otherUser blah blah blah`)
-- _Public_ message (e.g. `there's a bot called @mitigator`)
+- Multiple mentions (e.g. `@randomUser @theaccount @otherUser blah blah blah`)
+- _Public_ message (e.g. `there's a bot called @theaccount`)
 
 ...will be ignored to prevent spam.
 Your username part (before `@`) will be masked to protect your privacy.
@@ -120,10 +120,11 @@ Your username part (before `@`) will be masked to protect your privacy.
 
 ### Settings
 
-You can configure mitigator from [this website](https://mitigator.crimeflare.eu.org/).
+You can configure it from [this website](https://mitigator.crimeflare.eu.org/).
+**WARNING: WILL BE CHANGED**
 
 
-### Download PNG Logo
+### Download Old PNG Logo
 
 For your poster/meme needs.
 
@@ -147,4 +148,4 @@ The mascot wears a referee top and red sash across chest. Above the shield is 'M
 - ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared/fediverse.md)
 - ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared/shared_mastodon.md)
 
-<a rel="me" href="https://mastodon.pirateparty.be/@MitiGator"></a>
+<a rel="me" href="https://101010.pl/@cat"></a>
