@@ -58,17 +58,17 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 
 2. Send _any text_ as **direct** message to above account. (e.g. `@accountname hi`)
   - And it will follow back you _instantly_ with intro message.
-    - If you're locking your account, please accept AL's follow request otherwise AL can't read your toots.
-  - If you didn't got any reply make sure you are following MG.
+    - If you're locking your account, please accept it's follow request otherwise it can't read your toots.
+  - If you didn't got any reply make sure you are following it.
 
-3. When you share Cloudflared link, AL will send `direct` message to you with information.
+3. When you share Cloudflared link, it will send `direct` message to you with information.
 
 
 ### How to Unsubscribe
 
-1. Just `unfollow` AL's account.
-  - **AL should unfollow you within an hour**.
-    - AL do not attempt to re-follow you.
+1. Just `unfollow` it's account.
+  - **it should unfollow you within an hour**.
+    - it do not attempt to re-follow you.
   - If you've changed your mind and want to subscribe(opt-in) again simply `follow` again.
 
 
@@ -77,7 +77,7 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 Just ask (send **direct** message to) it and he will provide some suggestions.
 
 - This is related to Settings' `Suggest other non-Cloudflare alternative sites when available`.
-  - If there is a network problem _or_ there is no alternative MG will not reply anything.
+  - If there is a network problem _or_ there is no alternative it will not reply anything.
 
 
 Syntax: `@theaccountname ?URL` or `？URL`
@@ -123,7 +123,7 @@ Your username part (before `@`) will be masked to protect your privacy.
 You can configure it from [this website](https://altlink.crimeflare.eu.org/).
 
 
-### Download Old PNG Logo
+### Download OLD PNG Logo
 
 For your poster/meme needs.
 
