@@ -2754,6 +2754,7 @@ Do not create new issue or we will close it as duplicate.
 | [jamza6024@twitter](https://twitter.com/jamza6024/status/1394436651519119362) | advertise |
 | [JaneBiotic@twitter](https://twitter.com/JaneBiotic/status/1399991547362529280) | advertise |
 | [JaneM64995631@twitter](https://twitter.com/JaneM64995631/status/1398681834393944070) | advertise |
+| [japanh18@twitter](https://twitter.com/japanh18/status/1503593115609088001) | advertise |
 | [Japopi2@twitter](https://twitter.com/Japopi2/status/1399343770743848964) | advertise |
 | [JasanSmit@twitter](https://twitter.com/JasanSmit/status/1392514078766075905) | advertise |
 | [jasavio24275@twitter](https://twitter.com/jasavio24275/status/1378451592488263681) | advertise |
@@ -2932,6 +2933,7 @@ Do not create new issue or we will close it as duplicate.
 | [jungkooksbian@twitter](https://twitter.com/jungkooksbian/status/1384818132716560385) | advertise |
 | [JungTae522008@twitter](https://twitter.com/JungTae522008/status/1383671208579723267) | advertise |
 | [JuniorTun1@twitter](https://twitter.com/JuniorTun1/status/1390213591207350272) | advertise |
+| [junnyfeed@twitter](https://twitter.com/junnyfeed/status/1503640851406327809) | advertise |
 | [junpham23081870@twitter](https://twitter.com/junpham23081870/status/1399221195459883009) | advertise |
 | [JunsukeJR@twitter](https://twitter.com/JunsukeJR/status/1489170829204389888) | advertise |
 | [Juragan99997923@twitter](https://twitter.com/Juragan99997923/status/1387185881321144320) | advertise |
@@ -6377,6 +6379,7 @@ Do not create new issue or we will close it as duplicate.
 | [TarTsau@twitter](https://twitter.com/TarTsau/status/1398216213843496963) | advertise |
 | [TarunKu96104346@twitter](https://twitter.com/TarunKu96104346/status/1395333561054425089) | advertise |
 | [Tarunno7@twitter](https://twitter.com/Tarunno7/status/1499926032266448897) | advertise |
+| [tarunresearches@twitter](https://twitter.com/tarunresearches/status/1503636313068630018) | advertise |
 | [TarunSi95532912@twitter](https://twitter.com/TarunSi95532912/status/1392912934389440512) | advertise |
 | [taskmanager123@twitter](https://twitter.com/taskmanager123/status/1410979197649100801) | moral (advertise) |
 | [TaTa21079240@twitter](https://twitter.com/TaTa21079240/status/1392294482998022144) | advertise |
