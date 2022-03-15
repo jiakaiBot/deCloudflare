@@ -1490,6 +1490,7 @@ Or is this merely a case of simple modesty?
 | Sieh Johnson | Full Stack Software |  |
 | Sierra Dasso | Account Executive |  |
 | Sierra Molina | Recruiting Operations Manager |  |
+| Simona Badoiu | Employee | |
 | Simona Pop | Employee | |
 | Simon Moore | Support Engineer |  |
 | Simon Steiner | Product Partnerships Lead |  |
@@ -1744,6 +1745,7 @@ Or is this merely a case of simple modesty?
 | Zeeshan Parkar | Network Engineer |  |
 | Zein Jaber | Technical Support Engineer |  |
 | Zhengyao Lin | Software Engineer Intern |  |
+| Zhiyuan Zheng | Employee | |
 | Zi Lin | Systems Engineer |  |
 | Zoe Hu | Solutions Engineer |  |
 | Zygimantas Skulteckis | Systems Reliability Engineer |  |
