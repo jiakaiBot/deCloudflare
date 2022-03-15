@@ -3529,6 +3529,7 @@ Do not create new issue or we will close it as duplicate.
 | [kyliesyantiek@twitter](https://twitter.com/kyliesyantiek/status/1497652548404387843) | advertise |
 | [Kylin85353754@twitter](https://twitter.com/Kylin85353754/status/1402676839852568576) | advertise |
 | [Kyousukilalabs@twitter](https://twitter.com/Kyousukilalabs/status/1389630473375158273) | advertise |
+| [kyroskoh5@twitter](https://twitter.com/kyroskoh5/status/1503428687303118849) | advertise |
 | [Kyuayethit2@twitter](https://twitter.com/Kyuayethit2/status/1392326306151354370) | advertise |
 | [KyuKyu24893176@twitter](https://twitter.com/KyuKyu24893176/status/1396055932291862532) | advertise |
 | [KyuThin16@twitter](https://twitter.com/KyuThin16/status/1391667230966906883) | advertise |
