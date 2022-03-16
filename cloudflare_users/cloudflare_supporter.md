@@ -2602,6 +2602,7 @@ Do not create new issue or we will close it as duplicate.
 | [ihatevista@twitter](https://twitter.com/ihatevista/status/1389214706674634754) | advertise |
 | [iheartkurt_@twitter](https://twitter.com/iheartkurt_/status/1468209755705704450) | advertise |
 | [iiimran_@twitter](https://twitter.com/iiimran_/status/1445321399476887553) | advertise |
+| [IilxviA@twitter](https://twitter.com/IilxviA/status/1503980217781694464) | advertise |
 | [iiProxi_@twitter](https://twitter.com/iiProxi_/status/1477722927391027207) | advertise |
 | [iisDusty@twitter](https://twitter.com/iisDusty/status/1481158571735851008) | advertise |
 | [ii_Waka@twitter](https://twitter.com/ii_Waka/status/1498410384713256960) | advertise |
@@ -2884,6 +2885,7 @@ Do not create new issue or we will close it as duplicate.
 | [johnzoet@twitter](https://twitter.com/johnzoet/status/1434773645113454599) | advertise |
 | [JOHN_Wick36@twitter](https://twitter.com/JOHN_Wick36/status/1479098942826905603) | advertise |
 | [JOJO45155090@twitter](https://twitter.com/JOJO45155090/status/1397488359216459779) | advertise |
+| [Joker965507@twitter](https://twitter.com/Joker965507/status/1503978030644948992) | advertise |
 | [JOKER1571988@twitter](https://twitter.com/JOKER1571988/status/1393477206425407488) | advertise |
 | [Joker79019437@twitter](https://twitter.com/Joker79019437/status/1392657725725700101) | advertise |
 | [Joker81299238@twitter](https://twitter.com/Joker81299238/status/1496127550237868033) | advertise |
@@ -4331,6 +4333,7 @@ Do not create new issue or we will close it as duplicate.
 | [Monny14727955@twitter](https://twitter.com/Monny14727955/status/1388962425425203200) | advertise |
 | [monsoon_47@twitter](https://twitter.com/monsoon_47/status/1396553299390763008) | advertise |
 | [Monsterheart15@twitter](https://twitter.com/Monsterheart15/status/1394673115049852932) | advertise |
+| [monsterjeep@twitter](https://twitter.com/monsterjeep/status/1503887952228896769) | advertise |
 | [monteamadison@twitter](https://twitter.com/monteamadison/status/1379055330949275654) | advertise |
 | [MonXtun@twitter](https://twitter.com/MonXtun/status/1390310425531621377) | advertise |
 | [Monzer08634001@twitter](https://twitter.com/Monzer08634001/status/1388894211685052416) | advertise |
@@ -5389,6 +5392,7 @@ Do not create new issue or we will close it as duplicate.
 | [professorRauti@twitter](https://twitter.com/professorRauti/status/1470751563283116038) | advertise |
 | [ProfTakeruHiga@twitter](https://twitter.com/ProfTakeruHiga/status/1388474623214243842) | advertise |
 | [ProgramerDev@twitter](https://twitter.com/ProgramerDev/status/1466576384327700481) | advertise |
+| [ProZar3@twitter](https://twitter.com/ProZar3/status/1503979856882769922) | advertise |
 | [prro85545495@twitter](https://twitter.com/prro85545495/status/1401352105886056457) | advertise |
 | [pskNaidu10@twitter](https://twitter.com/pskNaidu10/status/1391664925471166466) | advertise |
 | [psmuang@twitter](https://twitter.com/psmuang/status/1389858998346649602) | advertise |
@@ -5728,6 +5732,7 @@ Do not create new issue or we will close it as duplicate.
 | [ryuuji_58@twitter](https://twitter.com/ryuuji_58/status/1379328982147997699) | advertise |
 | [RyzhkovIlia@twitter](https://twitter.com/RyzhkovIlia/status/1465766519963631619) | advertise |
 | [RZayYanHtun31@twitter](https://twitter.com/RZayYanHtun31/status/1392875347658559488) | advertise |
+| [R_107571624@twitter](https://twitter.com/R_107571624/status/1503908534076932097) | advertise |
 | [s1mpoverYoi@twitter](https://twitter.com/s1mpoverYoi/status/1500007315440693249) | advertise |
 | [s6my7jk@twitter](https://twitter.com/s6my7jk/status/1398057139667623936) | advertise |
 | [saani65346280@twitter](https://twitter.com/saani65346280/status/1392146734336274433) | advertise |
