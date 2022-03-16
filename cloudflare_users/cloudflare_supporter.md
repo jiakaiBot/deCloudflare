@@ -274,6 +274,7 @@ Do not create new issue or we will close it as duplicate.
 | [Akashpachouri12@twitter](https://twitter.com/Akashpachouri12/status/1386302249949745155) | advertise |
 | [AkatsukiPcat@twitter](https://twitter.com/AkatsukiPcat/status/1399260132291223553) | advertise |
 | [AkbarSoraya@twitter](https://twitter.com/AkbarSoraya/status/1384364220091826176) | advertise |
+| [akchibash_ka@twitter](https://twitter.com/akchibash_ka/status/1504048412341248001) | advertise |
 | [akcreations_hot@twitter](https://twitter.com/akcreations_hot/status/1388050959922724867) | advertise |
 | [Akechiiii@twitter](https://twitter.com/Akechiiii/status/1402238624620449793) | advertise |
 | [AkhilGeddam4@twitter](https://twitter.com/AkhilGeddam4/status/1386608139215147010) | advertise |
@@ -360,6 +361,7 @@ Do not create new issue or we will close it as duplicate.
 | [amalalmadawy@twitter](https://twitter.com/amalalmadawy/status/1398334332322844679) | advertise |
 | [amaljith16@twitter](https://twitter.com/amaljith16/status/1401844314087378950) | advertise |
 | [Aman51457490@twitter](https://twitter.com/Aman51457490/status/1495121007362777088) | advertise |
+| [AmandaL56524716@twitter](https://twitter.com/AmandaL56524716/status/1504008897429975040) | advertise |
 | [AmanMalawat3@twitter](https://twitter.com/AmanMalawat3/status/1381140429131943936) | advertise |
 | [AmanYad62817265@twitter](https://twitter.com/AmanYad62817265/status/1395775965280694274) | advertise |
 | [Amara35146318@twitter](https://twitter.com/Amara35146318/status/1396799727178375172) | advertise |
@@ -417,6 +419,7 @@ Do not create new issue or we will close it as duplicate.
 | [AndyNguyen_9x@twitter](https://twitter.com/AndyNguyen_9x/status/1498588655061192708) | advertise |
 | [Angel64305780@twitter](https://twitter.com/Angel64305780/status/1390191404953997312) | advertise |
 | [AngelaSneed14@twitter](https://twitter.com/AngelaSneed14/status/1377523632595931143) | advertise |
+| [angelinavinnia@twitter](https://twitter.com/angelinavinnia/status/1504127876676866055) | advertise |
 | [AngelMyaChal1@twitter](https://twitter.com/AngelMyaChal1/status/1390486222296911872) | advertise |
 | [AngelOfHype@twitter](https://twitter.com/AngelOfHype/status/1422652703788916744) | advertise |
 | [AngieSngie12@twitter](https://twitter.com/AngieSngie12/status/1395560104699772929) | advertise |
@@ -1553,6 +1556,7 @@ Do not create new issue or we will close it as duplicate.
 | [DJzVanNa@twitter](https://twitter.com/DJzVanNa/status/1384131916484399120) | advertise |
 | [DKSum4@twitter](https://twitter.com/DKSum4/status/1401594633134567426) | advertise |
 | [DL2419@twitter](https://twitter.com/DL2419/status/1389381874758291457) | advertise |
+| [dlcmh@twitter](https://twitter.com/dlcmh/status/1504010502481281024) | advertise |
 | [DLu15867552@twitter](https://twitter.com/DLu15867552/status/1377679501576957955) | advertise |
 | [Dmin87105684@twitter](https://twitter.com/Dmin87105684/status/1395234752056025090) | advertise |
 | [DmNha1@twitter](https://twitter.com/DmNha1/status/1387715689016745989) | advertise |
@@ -1567,6 +1571,7 @@ Do not create new issue or we will close it as duplicate.
 | [doanh67151149@twitter](https://twitter.com/doanh67151149/status/1480783806739070976) | advertise |
 | [Doanman78962511@twitter](https://twitter.com/Doanman78962511/status/1485691320228548608) | advertise |
 | [doatmang3000@twitter](https://twitter.com/doatmang3000/status/1404433092757000194) | advertise |
+| [DoctorVadarWho@twitter](https://twitter.com/DoctorVadarWho/status/1504056932218568704) | advertise |
 | [doggiesflix@twitter](https://twitter.com/doggiesflix/status/1398852820250497030) | advertise |
 | [dogukantansuk@twitter](https://twitter.com/dogukantansuk/status/1400714321055858689) | advertise |
 | [Dohuy49780349@twitter](https://twitter.com/Dohuy49780349/status/1376800199079694336) | advertise |
@@ -1577,6 +1582,7 @@ Do not create new issue or we will close it as duplicate.
 | [dominic37487702@twitter](https://twitter.com/dominic37487702/status/1479207257279660034) | advertise |
 | [DominicDeepan@twitter](https://twitter.com/DominicDeepan/status/1420647774509432835) | advertise |
 | [donaldliuT@twitter](https://twitter.com/donaldliuT/status/1390745327217516544) | advertise |
+| [DonaldRuzek@twitter](https://twitter.com/DonaldRuzek/status/1504097398708125710) | advertise |
 | [DonColeone14@twitter](https://twitter.com/DonColeone14/status/1399383393515839493) | advertise |
 | [DonGamblee@twitter](https://twitter.com/DonGamblee/status/1493600512746340361) | advertise |
 | [DONGame51021087@twitter](https://twitter.com/DONGame51021087/status/1388107888640487424) | advertise |
@@ -2673,6 +2679,7 @@ Do not create new issue or we will close it as duplicate.
 | [IruleMyworld019@twitter](https://twitter.com/IruleMyworld019/status/1394091377072377856) | advertise |
 | [isira_adithya@twitter](https://twitter.com/isira_adithya/status/1373518191394091009) | advertise |
 | [Iskecik2@twitter](https://twitter.com/Iskecik2/status/1403090108589301761) | advertise |
+| [ismaillanigi@twitter](https://twitter.com/ismaillanigi/status/1504047577154854912) | advertise |
 | [Ismail_Ittembe@twitter](https://twitter.com/Ismail_Ittembe/status/1389820303510020099) | advertise |
 | [ISMANIZARMOHDA1@twitter](https://twitter.com/ISMANIZARMOHDA1/status/1380109785874362374) | advertise |
 | [IsniraBasri@twitter](https://twitter.com/IsniraBasri/status/1392202083210698754) | advertise |
@@ -3086,6 +3093,7 @@ Do not create new issue or we will close it as duplicate.
 | [KelvinHein07@twitter](https://twitter.com/KelvinHein07/status/1390492994160136194) | advertise |
 | [KelvinK48901926@twitter](https://twitter.com/KelvinK48901926/status/1392420332728852484) | advertise |
 | [Kem23065441@twitter](https://twitter.com/Kem23065441/status/1401916905816870914) | advertise |
+| [kemonolith@twitter](https://twitter.com/kemonolith/status/1504060235836755969) | advertise |
 | [KemusLabs@twitter](https://twitter.com/KemusLabs/status/1461601036456583171) | advertise |
 | [Ken08753139@twitter](https://twitter.com/Ken08753139/status/1394319640889753600) | advertise |
 | [Ken74226330@twitter](https://twitter.com/Ken74226330/status/1401414699581800455) | advertise |
