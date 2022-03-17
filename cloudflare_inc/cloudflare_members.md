@@ -779,6 +779,7 @@ Or is this merely a case of simple modesty?
 | Jiale Zhi | Systems Engineer |  |
 | Jianyi Kenny | Employee |  |
 | Jill Lewandosky | Employee |  |
+| Jim Berry | Employee | |
 | Jim Gonzales | Employee |  |
 | Jimmy Halim | Network SRE |  |
 | Jimmy Lim | Network Engineer, Singapore |  |
@@ -1176,6 +1177,7 @@ Or is this merely a case of simple modesty?
 | Mru Kodali | Employee | |
 | Murtaza Sajjad | Legal Intern |  |
 | Mustafa Khalifa | Business Development, Singapore |  |
+| Mythili Prabhu | Employee | |
 | Nadin El-Yabroudi | Security Engineer |  |
 | Naga Pavan | Employee |  |
 | Naimisha Yadav | Employee |  |
