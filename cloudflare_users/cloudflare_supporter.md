@@ -795,6 +795,7 @@ Do not create new issue or we will close it as duplicate.
 | [azparrotthead@twitter](https://twitter.com/azparrotthead/status/1486244395502481410) | advertise |
 | [AzuanBk79@twitter](https://twitter.com/AzuanBk79/status/1388558394940743684) | advertise |
 | [AzyOppa@twitter](https://twitter.com/AzyOppa/status/1389876605426671616) | advertise |
+| [Azzam95_@twitter](https://twitter.com/Azzam95_/status/1504244848743833604) | advertise |
 | [b0rzoff@twitter](https://twitter.com/b0rzoff/status/1409774769717792769) | moral (advertise) |
 | [B0t51@twitter](https://twitter.com/B0t51/status/1390031961192734720) | advertise |
 | [BabaDeviant@twitter](https://twitter.com/BabaDeviant/status/1390391826134282246) | advertise |
@@ -1414,6 +1415,7 @@ Do not create new issue or we will close it as duplicate.
 | [darmametta@twitter](https://twitter.com/darmametta/status/1388727313919922179) | advertise |
 | [DaRo_Empire@twitter](https://twitter.com/DaRo_Empire/status/1500996804925702151) | advertise |
 | [DarrenNathans@twitter](https://twitter.com/DarrenNathans/status/1439219446069936132) | advertise |
+| [darthkay0@twitter](https://twitter.com/darthkay0/status/1504205557720403976) | advertise |
 | [dasith_vidanage@twitter](https://twitter.com/dasith_vidanage/status/1386590411515305984) | advertise |
 | [Dat53629469@twitter](https://twitter.com/Dat53629469/status/1394189886190542848) | advertise |
 | [Dat70675278@twitter](https://twitter.com/Dat70675278/status/1403938942710214661) | advertise |
@@ -3908,6 +3910,7 @@ Do not create new issue or we will close it as duplicate.
 | [mani2jeff@twitter](https://twitter.com/mani2jeff/status/1486825496146952192) | advertise |
 | [ManishaBharadw2@twitter](https://twitter.com/ManishaBharadw2/status/1395440002557890562) | advertise |
 | [ManishS14486946@twitter](https://twitter.com/ManishS14486946/status/1376922638216531974) | advertise |
+| [mannhi_1997@twitter](https://twitter.com/mannhi_1997/status/1504187126702768129) | advertise |
 | [ManSem_95@twitter](https://twitter.com/ManSem_95/status/1391726222770458627) | advertise |
 | [Mansoor81118164@twitter](https://twitter.com/Mansoor81118164/status/1400092367953154053) | advertise |
 | [mansport4647@twitter](https://twitter.com/mansport4647/status/1382071713043603463) | advertise |
@@ -5475,6 +5478,7 @@ Do not create new issue or we will close it as duplicate.
 | [quangka09@twitter](https://twitter.com/quangka09/status/1391117991790608385) | advertise |
 | [QuangNg40882818@twitter](https://twitter.com/QuangNg40882818/status/1406561229947035654) | advertise |
 | [quangnhat0809@twitter](https://twitter.com/quangnhat0809/status/1379958517851824129) | advertise |
+| [quangtien93@twitter](https://twitter.com/quangtien93/status/1504243847857008645) | advertise |
 | [Quangtran190988@twitter](https://twitter.com/Quangtran190988/status/1381890326990782465) | advertise |
 | [quangvi23804819@twitter](https://twitter.com/quangvi23804819/status/1392901696733413377) | advertise |
 | [QuantusTecSol@twitter](https://twitter.com/QuantusTecSol/status/1425608252662992896) | advertise |
