@@ -176,6 +176,7 @@ Do not create new issue or we will close it as duplicate.
 | [achmadrizki899@twitter](https://twitter.com/achmadrizki899/status/1385266311555477505) | advertise |
 | [Acid37504104@twitter](https://twitter.com/Acid37504104/status/1401849438776152064) | advertise |
 | [acme_subrosea@twitter](https://twitter.com/acme_subrosea/status/1381623108667207685) | advertise |
+| [actiniumcloud_@twitter](https://twitter.com/actiniumcloud_/status/1504512101678780420) | advertise |
 | [activeboyz1990@twitter](https://twitter.com/activeboyz1990/status/1377228831694655489) | advertise |
 | [activism.openworlds.info](https://activism.openworlds.info/) | by muting account status without warning & showed hostility |
 | [acu05047849@twitter](https://twitter.com/acu05047849/status/1471678185070755840) | advertise |
@@ -1146,6 +1147,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChadwickCway@twitter](https://twitter.com/ChadwickCway/status/1386446568761532416) | advertise |
 | [ChaEunbi3@twitter](https://twitter.com/ChaEunbi3/status/1390013196153462784) | advertise |
 | [Chahali@twitter](https://twitter.com/Chahali/status/1483045454778707971) | advertise |
+| [Chahin303@twitter](https://twitter.com/Chahin303/status/1504562221426298886) | advertise |
 | [chainsa93470930@twitter](https://twitter.com/chainsa93470930/status/1478629139682717696) | advertise |
 | [ChaiwichitJarn3@twitter](https://twitter.com/ChaiwichitJarn3/status/1406515044427259904) | advertise |
 | [Chakkrit_bank24@twitter](https://twitter.com/Chakkrit_bank24/status/1392631487460114436) | advertise |
@@ -4736,6 +4738,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ngonhathuy17@twitter](https://twitter.com/Ngonhathuy17/status/1402444148506988548) | advertise |
 | [NgoQuye89100242@twitter](https://twitter.com/NgoQuye89100242/status/1395052107913330689) | advertise |
 | [NgouangSai@twitter](https://twitter.com/NgouangSai/status/1390725288204460033) | advertise |
+| [NgPhuLoc97hp@twitter](https://twitter.com/NgPhuLoc97hp/status/1504540643850293248) | advertise |
 | [NgQucBn89646771@twitter](https://twitter.com/NgQucBn89646771/status/1396630777383723011) | advertise |
 | [ngquyn54528746@twitter](https://twitter.com/ngquyn54528746/status/1401564893061423107) | advertise |
 | [NgThL12256552@twitter](https://twitter.com/NgThL12256552/status/1401781008962256900) | advertise |
@@ -7392,6 +7395,7 @@ Do not create new issue or we will close it as duplicate.
 | [Xstar97TheNoob@twitter](https://twitter.com/Xstar97TheNoob/status/1494824329586122756) | advertise |
 | [xTrapNover@twitter](https://twitter.com/xTrapNover/status/1394301970169491457) | advertise |
 | [Xtun45371052@twitter](https://twitter.com/Xtun45371052/status/1396529138454781952) | advertise |
+| [Xuanly60441460@twitter](https://twitter.com/Xuanly60441460/status/1504496542375301133) | advertise |
 | [xubbers@twitter](https://twitter.com/xubbers/status/1375092922975145988) | advertise |
 | [xVcLc3U5giDDbYt@twitter](https://twitter.com/xVcLc3U5giDDbYt/status/1397256988959051784) | advertise |
 | [XxBestGanexX@twitter](https://twitter.com/XxBestGanexX/status/1400081132989734914) | advertise |
