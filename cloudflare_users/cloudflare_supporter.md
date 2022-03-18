@@ -3010,6 +3010,7 @@ Do not create new issue or we will close it as duplicate.
 | [kanaan94901823@twitter](https://twitter.com/kanaan94901823/status/1377247977803251712) | advertise |
 | [Kane09375517@twitter](https://twitter.com/Kane09375517/status/1379837150208782336) | advertise |
 | [Kaneki4101@twitter](https://twitter.com/Kaneki4101/status/1503382721556623364) | advertise |
+| [kangketikonlen@twitter](https://twitter.com/kangketikonlen/status/1504624017885474834) | advertise |
 | [KangSerox@twitter](https://twitter.com/KangSerox/status/1492632243529187331) | advertise |
 | [kangsingh10@twitter](https://twitter.com/kangsingh10/status/1388737035691696132) | advertise |
 | [kanitsin@twitter](https://twitter.com/kanitsin/status/1395746546499526658) | advertise |
@@ -4874,6 +4875,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nimesh04922409@twitter](https://twitter.com/Nimesh04922409/status/1401428764907642883) | advertise |
 | [nimmneun@twitter](https://twitter.com/nimmneun/status/1435175570288087048) | advertise |
 | [Nimooo22663652@twitter](https://twitter.com/Nimooo22663652/status/1383878514911322115) | advertise |
+| [Ninhngu01376669@twitter](https://twitter.com/Ninhngu01376669/status/1504717590463401984) | advertise |
 | [NiNiWinSwe1@twitter](https://twitter.com/NiNiWinSwe1/status/1381950121617682433) | advertise |
 | [Ninja87682819@twitter](https://twitter.com/Ninja87682819/status/1402986987829665794) | advertise |
 | [ninjaismyidol12@twitter](https://twitter.com/ninjaismyidol12/status/1375869047657619456) | advertise |
@@ -7551,6 +7553,7 @@ Do not create new issue or we will close it as duplicate.
 | [ynnhi54574877@twitter](https://twitter.com/ynnhi54574877/status/1393622696328531968) | advertise |
 | [YnwSup@twitter](https://twitter.com/YnwSup/status/1403618675697930241) | advertise |
 | [YoegoneA@twitter](https://twitter.com/YoegoneA/status/1390614215132520452) | advertise |
+| [YogeshJ32420022@twitter](https://twitter.com/YogeshJ32420022/status/1504699132937605122) | advertise |
 | [Yogi96022543@twitter](https://twitter.com/Yogi96022543/status/1382241647711379456) | advertise |
 | [YokeSoe16669471@twitter](https://twitter.com/YokeSoe16669471/status/1390762393806852096) | advertise |
 | [YokeXoe@twitter](https://twitter.com/YokeXoe/status/1398959003632160771) | advertise |
