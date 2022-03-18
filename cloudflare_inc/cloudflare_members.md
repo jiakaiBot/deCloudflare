@@ -53,6 +53,7 @@ Or is this merely a case of simple modesty?
 | Abe Carryl | Product | https://twitter.com/mrlincolnlogs |
 | Abhi Das | Employee |  |
 | Abida Ali | Delivery Manager | https://twitter.com/abida_aal |
+| Abraham Adberstein | Employee | |
 | Abraham Shaheen | Security Performance |  |
 | Achiel van der Mandele | Product Manager | achiel@cloudflare.com |
 | Adam Chalmers | Systems Engineer, Austin |  |
@@ -1083,6 +1084,7 @@ Or is this merely a case of simple modesty?
 | Matthew DuBois | Sales Leader |  |
 | Matthew Gall | Trust & Safety Engineer | https://twitter.com/matthewgall<br>mgall@cloudflare.com |
 | Matthew Harrell | Global Head of Channel Sales and Alliances |  |
+| Matthew Inderbitzen | Employee | |
 | Matthew King | Employee |  |
 | Matthew P. Harrell | Channel Sales and Partners |  |
 | Matthew Shimizu | Customer Success |  |
@@ -1351,6 +1353,7 @@ Or is this merely a case of simple modesty?
 | Rebecca Dunek Graeber | Customer Success Engineer |  |
 | Rebecca Roche | Account Executive |  |
 | Rebecca Rogers | Security Compliance Lead |  |
+| Reid Tatoris | Employee | |
 | Renan Dincer | Systems Engineer | renandincer@gmail.com<br>renandincer+hello@gmail.com<br>https://twitter.com/rrnn |
 | Renato Hirata | Employee |  |
 | Renato Yoshio Hirata | Employee |  |
