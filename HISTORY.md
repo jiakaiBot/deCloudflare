@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-03-18: [HTTP timeouts in European locations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8h6zh5dr4y9b)
 - 2022-03-17: [Cloudflare Images Degraded Upload Performance](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/08md6cclxk4g)
 - 2022-03-17: [Cloudflare Images](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kqktswkyynrt)
 - 2022-03-08: [Degraded performance of Load Balancing related requests](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/75509v4081bm)
