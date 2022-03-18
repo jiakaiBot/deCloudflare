@@ -216,6 +216,7 @@ Or is this merely a case of simple modesty?
 | Arun Rahul Singh | Product Marketing, Security |  |
 | Arun Rex | Employee |  |
 | Arun Singh | Employee |  |
+| Arushi Shah | Employee | |
 | Arvind Singh | Global Sales Enablement | "Arvind Singh Mickey" |
 | Arwa Ginwala | Solutions Engineer |  |
 | Ashcon Partovi | Employee |  |
@@ -519,6 +520,7 @@ Or is this merely a case of simple modesty?
 | Edith Germer | Business Development |  |
 | Ed Oledan | Customer Development |  |
 | Edo Royker | Employee |  |
+| Eduardo Gomes | Employee | |
 | Edward Palmer | IT Services Analyst |  |
 | Edward Wang | Employee |  |
 | Ee Ping | Employee |  |
