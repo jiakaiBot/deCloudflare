@@ -417,6 +417,7 @@ Do not create new issue or we will close it as duplicate.
 | [andriannp@twitter](https://twitter.com/andriannp/status/1401023261085814787) | advertise |
 | [androidwdlka@twitter](https://twitter.com/androidwdlka/status/1416445074230161412) | advertise |
 | [Andy007Yt@twitter](https://twitter.com/Andy007Yt/status/1407395648492670977) | advertise |
+| [AndyIsHereBoi@twitter](https://twitter.com/AndyIsHereBoi/status/1504795908923269130) | advertise |
 | [AndyNguyen_9x@twitter](https://twitter.com/AndyNguyen_9x/status/1498588655061192708) | advertise |
 | [Angel64305780@twitter](https://twitter.com/Angel64305780/status/1390191404953997312) | advertise |
 | [AngelaSneed14@twitter](https://twitter.com/AngelaSneed14/status/1377523632595931143) | advertise |
@@ -3772,6 +3773,7 @@ Do not create new issue or we will close it as duplicate.
 | [lorencialord@twitter](https://twitter.com/lorencialord/status/1384901052823113731) | advertise |
 | [LouisDang13@twitter](https://twitter.com/LouisDang13/status/1394819629336317955) | advertise |
 | [LouisNguyen307@twitter](https://twitter.com/LouisNguyen307/status/1496998018398056448) | advertise |
+| [louis_siu@twitter](https://twitter.com/louis_siu/status/1504838925868621832) | advertise |
 | [Love40519001@twitter](https://twitter.com/Love40519001/status/1393980142456754178) | advertise |
 | [LoveHun27992161@twitter](https://twitter.com/LoveHun27992161/status/1390758715708608513) | advertise |
 | [Loveisneverlos1@twitter](https://twitter.com/Loveisneverlos1/status/1397583492762927105) | advertise |
@@ -5746,6 +5748,7 @@ Do not create new issue or we will close it as duplicate.
 | [ruslan_ferrales@twitter](https://twitter.com/ruslan_ferrales/status/1450044589293834242) | advertise |
 | [ruteesh2@twitter](https://twitter.com/ruteesh2/status/1387396067554205699) | advertise |
 | [ryan171197@twitter](https://twitter.com/ryan171197/status/1396728837900099589) | advertise |
+| [RyanDahlberg@twitter](https://twitter.com/RyanDahlberg/status/1504805050249588740) | advertise |
 | [RyanLee28594985@twitter](https://twitter.com/RyanLee28594985/status/1378844547619254273) | advertise |
 | [RyanRully@twitter](https://twitter.com/RyanRully/status/1387743223737585666) | advertise |
 | [RyanSoElectric@twitter](https://twitter.com/RyanSoElectric/status/1386785297183084544) | advertise |
@@ -7347,6 +7350,7 @@ Do not create new issue or we will close it as duplicate.
 | [wL5X7lOTQMmoHiG@twitter](https://twitter.com/wL5X7lOTQMmoHiG/status/1398145990977327104) | advertise |
 | [WMT48027007@twitter](https://twitter.com/WMT48027007/status/1393435090273800195) | advertise |
 | [WobblyWiFi@twitter](https://twitter.com/WobblyWiFi/status/1456571906006650883) | advertise |
+| [Woldworine_DFGM@twitter](https://twitter.com/Woldworine_DFGM/status/1504828252891791377) | advertise |
 | [wolf1986wolf@twitter](https://twitter.com/wolf1986wolf/status/1391812089837236242) | advertise |
 | [wolfbeast@github.com](https://github.com/wolfbeast) | [README.md](README.md) |
 | [wonderbiscut@twitter](https://twitter.com/wonderbiscut/status/1501324875952234497) | advertise |
