@@ -1079,6 +1079,7 @@ Or is this merely a case of simple modesty?
 | Matt Boyle | Employee | |
 | Matt Cowley | @cdnjs.com Maintainer (on contract), London |  |
 | Matteo Manfredi | Community Leader |  |
+| Matt Gallagher | Employee | |
 | Matt Golden | Employee |  |
 | Matthew Bullock | Solutions Engineer |  |
 | Matthew Cottingham | Systems Engineer |  |
@@ -1171,6 +1172,7 @@ Or is this merely a case of simple modesty?
 | Mohamed Zerri | Channel Account Manager |  |
 | Mohd Irtefa | Product, Austin |  |
 | Mohit Bijlani | Customer Development |  |
+| Molly Cinnamon | Employee | |
 | Molly Evans | Employee |  |
 | Mona Hadidi | Customer Success Manager |  |
 | Monicah Kwamboka | Web Engineer |  |
