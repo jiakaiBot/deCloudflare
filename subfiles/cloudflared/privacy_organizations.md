@@ -55,15 +55,15 @@ The following is a [list](https://en.wikipedia.org/wiki/Category:Privacy_organiz
 | StopBadware | www.stopbadware.org | Yes |
 | Trans Atlantic Consumer Dialogue | tacd.org | No |
 | Winston Smith Project | www.winstonsmith.info | No |
-| Woodhull Freedom Foundation | www.woodhullfoundation.org | No |
+| Woodhull Freedom Foundation | www.woodhullfoundation.org | Yes |
 
 
 -----
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 11 |
-| Normal | 39 |
+| Cloudflare | 12 |
+| Normal | 38 |
 
 
-### 22% of Privacy organizations are using Cloudflare.
+### 24% of Privacy organizations are using Cloudflare.
