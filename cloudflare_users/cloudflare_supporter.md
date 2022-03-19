@@ -3928,6 +3928,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mansoor81118164@twitter](https://twitter.com/Mansoor81118164/status/1400092367953154053) | advertise |
 | [mansport4647@twitter](https://twitter.com/mansport4647/status/1382071713043603463) | advertise |
 | [MANTEAU110@twitter](https://twitter.com/MANTEAU110/status/1486579011988107264) | advertise |
+| [manthanrana@twitter](https://twitter.com/manthanrana/status/1505067100888788992) | advertise |
 | [Manuel567912971@twitter](https://twitter.com/Manuel567912971/status/1496387468731506690) | advertise |
 | [manueltcl@twitter](https://twitter.com/manueltcl/status/1446279919022092292) | advertise |
 | [manveerkhubber2@twitter](https://twitter.com/manveerkhubber2/status/1396747736863559680) | advertise |
@@ -5780,6 +5781,7 @@ Do not create new issue or we will close it as duplicate.
 | [SagrJony@twitter](https://twitter.com/SagrJony/status/1378421082592575491) | advertise |
 | [sahilbagde20@twitter](https://twitter.com/sahilbagde20/status/1391423702001012740) | advertise |
 | [SahilGa84383029@twitter](https://twitter.com/SahilGa84383029/status/1393828677977206787) | advertise |
+| [SahilJa22654031@twitter](https://twitter.com/SahilJa22654031/status/1505073147191914496) | advertise |
 | [sahil_ohe@twitter](https://twitter.com/sahil_ohe/status/1398971148776337411) | advertise |
 | [Sai63Ko@twitter](https://twitter.com/Sai63Ko/status/1392869126482264064) | advertise |
 | [Sai48087215@twitter](https://twitter.com/Sai48087215/status/1484539415443943426) | advertise |
