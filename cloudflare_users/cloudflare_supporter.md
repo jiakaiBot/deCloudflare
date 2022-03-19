@@ -296,6 +296,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlanSnape12@twitter](https://twitter.com/AlanSnape12/status/1391169464863916034) | advertise |
 | [alaSrjWD6XgiUtA@twitter](https://twitter.com/alaSrjWD6XgiUtA/status/1384166341989466114) | advertise |
 | [alattkung10@twitter](https://twitter.com/alattkung10/status/1390579083508019201) | advertise |
+| [alazycoder2@twitter](https://twitter.com/alazycoder2/status/1505142769488121867) | advertise |
 | [AlBadi410@twitter](https://twitter.com/AlBadi410/status/1492878165215043590) | advertise |
 | [Albert88Lim@twitter](https://twitter.com/Albert88Lim/status/1400923426244546562) | advertise |
 | [alberto4303@twitter](https://twitter.com/alberto4303/status/1500227402403823623) | advertise |
@@ -1822,6 +1823,7 @@ Do not create new issue or we will close it as duplicate.
 | [fabioespinosa@twitter](https://twitter.com/fabioespinosa/status/1389759727110918152) | advertise |
 | [fabulousgirl95@twitter](https://twitter.com/fabulousgirl95/status/1468780475174973444) | advertise |
 | [FactNewNetwork@twitter](https://twitter.com/FactNewNetwork/status/1463480582784962560) | advertise |
+| [fahedrahmani@twitter](https://twitter.com/fahedrahmani/status/1505209723838214152) | advertise |
 | [faighenzho@twitter](https://twitter.com/faighenzho/status/1382412226925973506) | advertise |
 | [FaisalHossine@twitter](https://twitter.com/FaisalHossine/status/1386253418218491905) | advertise |
 | [FaiSky_@twitter](https://twitter.com/FaiSky_/status/1490832227327823872) | advertise |
@@ -6449,6 +6451,7 @@ Do not create new issue or we will close it as duplicate.
 | [tcitr_chen@twitter](https://twitter.com/tcitr_chen/status/1389172265992916993) | advertise |
 | [tdahao241@twitter](https://twitter.com/tdahao241/status/1398680889601581057) | advertise |
 | [tdat868@twitter](https://twitter.com/tdat868/status/1396835443618897922) | advertise |
+| [tdoongie_tw@twitter](https://twitter.com/tdoongie_tw/status/1505128403728728064) | advertise |
 | [Team98750688@twitter](https://twitter.com/Team98750688/status/1385933279514173448) | advertise |
 | [TeamAZSoftware@twitter](https://twitter.com/TeamAZSoftware/status/1455916086197727233) | advertise |
 | [Teammmmmmmmm3@twitter](https://twitter.com/Teammmmmmmmm3/status/1398780432074743810) | advertise |
