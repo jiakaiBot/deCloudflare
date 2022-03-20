@@ -540,6 +540,7 @@ ns1-61.akam.net
 ns1-62.akam.net
 ns1-63.akam.net
 ns1-65.akam.net
+ns1-66.akam.net
 ns1-67.akam.net
 ns1-68.akam.net
 ns1-69.akam.net
