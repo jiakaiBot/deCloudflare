@@ -288,6 +288,7 @@ Do not create new issue or we will close it as duplicate.
 | [Akshada44184872@twitter](https://twitter.com/Akshada44184872/status/1389269449371316224) | advertise |
 | [akshai45422138@twitter](https://twitter.com/akshai45422138/status/1386717813822287873) | advertise |
 | [Akshay46862774@twitter](https://twitter.com/Akshay46862774/status/1380200466567471106) | advertise |
+| [aksndbdbsbsbsb@twitter](https://twitter.com/aksndbdbsbsbsb/status/1506300462492004355) | advertise |
 | [AKuisorn@twitter](https://twitter.com/AKuisorn/status/1377407076373164032) | advertise |
 | [akunggaterkenal@twitter](https://twitter.com/akunggaterkenal/status/1473630134074691586) | advertise |
 | [ak_shrinivas@twitter](https://twitter.com/ak_shrinivas/status/1404762077311295491) | advertise |
@@ -527,6 +528,7 @@ Do not create new issue or we will close it as duplicate.
 | [ArNarMan1@twitter](https://twitter.com/ArNarMan1/status/1385786749037678593) | advertise |
 | [arno_dev@twitter](https://twitter.com/arno_dev/status/1387071791252840450) | advertise |
 | [around_thenon@twitter](https://twitter.com/around_thenon/status/1398421956651716608) | advertise |
+| [ArrChan62834311@twitter](https://twitter.com/ArrChan62834311/status/1506277878434086920) | advertise |
 | [arrhai21@twitter](https://twitter.com/arrhai21/status/1393450615628435458) | advertise |
 | [ArronCarson2@twitter](https://twitter.com/ArronCarson2/status/1492611274093568002) | advertise |
 | [ARROW41821591@twitter](https://twitter.com/ARROW41821591/status/1391638652766232577) | advertise |
@@ -2003,6 +2005,7 @@ Do not create new issue or we will close it as duplicate.
 | [GiaDat7@twitter](https://twitter.com/GiaDat7/status/1499011433946030084) | advertise |
 | [giang90299930@twitter](https://twitter.com/giang90299930/status/1384561563617484802) | advertise |
 | [Giang96329651@twitter](https://twitter.com/Giang96329651/status/1389920131950604290) | advertise |
+| [giangle120599@twitter](https://twitter.com/giangle120599/status/1506274775722770441) | advertise |
 | [GiangNg50047953@twitter](https://twitter.com/GiangNg50047953/status/1493949501219819522) | advertise |
 | [GiangNguynTrn14@twitter](https://twitter.com/GiangNguynTrn14/status/1397055320958984193) | advertise |
 | [gil6508343915@twitter](https://twitter.com/gil6508343915/status/1505250862767087617) | advertise |
@@ -3283,8 +3286,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -4290,6 +4293,7 @@ Do not create new issue or we will close it as duplicate.
 | [mistereyfatter@twitter](https://twitter.com/mistereyfatter/status/1385082858105049091) | advertise |
 | [Mistergethowu@twitter](https://twitter.com/Mistergethowu/status/1500293947641544714) | advertise |
 | [MithunR96567112@twitter](https://twitter.com/MithunR96567112/status/1404521110817759236) | advertise |
+| [mitne0701@twitter](https://twitter.com/mitne0701/status/1506213301859995650) | advertise |
 | [MitraDevayan@twitter](https://twitter.com/MitraDevayan/status/1393172749288284160) | advertise |
 | [Mits_Dev@twitter](https://twitter.com/Mits_Dev/status/1392978764636643330) | advertise |
 | [MiuMp8@twitter](https://twitter.com/MiuMp8/status/1494009000975040512) | advertise |
