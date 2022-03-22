@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-03-22: [Increased rate of 530 / 1016 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mll6b09gky19)
 - 2022-03-18: [Cloudflare Zero Trust](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/grq0qjh1tnnd)
 - 2022-03-18: [Elevated errors in specific regions](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2wygwgjbxdk1)
 - 2022-03-18: [HTTP timeouts in European locations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8h6zh5dr4y9b)
