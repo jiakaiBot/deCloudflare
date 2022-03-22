@@ -15,7 +15,7 @@
 
 | List name | Description |
 | -------- | -------- |
-| [/domains/cloudflare_?.txt](cloudflare_users/domains)<br>[/domains/cloudflare_?.json](cloudflare_users/domains)     | Split files (base domain)     |
+| [/domains/cloudflare_?.txt](cloudflare_users/domains) | Split files (base domain)     |
 | [ex_cloudflare_users.md](cloudflare_users/ex_cloudflare_users.md)     | Domains which used Cloudflare in the past, not anymore     |
 | [cloudflare_supporter.md](cloudflare_users/cloudflare_supporter.md) | who is supporting, endorsing, loving, or defending Cloudflare |
 
