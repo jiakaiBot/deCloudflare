@@ -148,7 +148,6 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 | List name | Description |
 | -------- | -------- |
 | [/domains/attd.txt](anti-tor_users/domains/attd.txt)<br>[/domains/attd.json](anti-tor_users/domains/attd.json)     | Block Tor access (FQDN) |
-| [/domains/antiarchive.txt](anti-tor_users/domains/antiarchive.txt)<br>[/domains/antiarchive.json](anti-tor_users/domains/antiarchive.json) | [Opted out](anti-tor_users/domains/README.md) from Internet Archive Wayback Machine (base domain) |
 | [/misc/hostility.md](anti-tor_users/misc/hostility.md) | **Does NOT block Tor access** Domain and Comment |
 
 
@@ -209,7 +208,7 @@ If you're not blocking Tor users, you will be removed automatically.
 </summary>
 
 
-A or B will be enough. (or C if you can't)
+A or B will be enough. (or C if you really can't)
 Thank you for your contribution.
 
 
@@ -235,8 +234,6 @@ Your contribution will be pushed to git automatically.
   - Use Ss' "_Is it blocking Tor?_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 -X POST -F 'f=www.emsisoft.com' (API URL)is_antitor.php`
   - Or: Use add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)"
-- Anti-Archive
-  - N/A (Use type A or C for now)
 
 
 > Type C: Create an Issue
