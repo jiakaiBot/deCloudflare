@@ -37,7 +37,7 @@ if (fs.existsSync(Fproxy)) {
 	}
 }
 function showUsage() {
-	console.log("\n	\x1b[33mCfDomains\x1b[0m  v1.0.2.1\n");
+	console.log("\n	\x1b[33mCfDomains\x1b[0m  v1.0.2.2\n");
 	console.log('\x1b[36mUsage:\x1b[0m');
 	console.log('	cfdomains \x1b[43mexample.com\x1b[0m');
 	console.log('	cfdomains --dir');
@@ -306,7 +306,7 @@ if (args.length <= 2) {
 } else if (args[2] === '--dl') {
 	dlFiles('https://archive.org/download/crimeflare/');
 } else if (args[2] === '--dl2') {
-	dlFiles('https://mypdns.org/dCF/deCloudflare/-/raw/master/cloudflare_users/domains/');
+	dlFiles('https://mypdns.org/dCF/deCloudflare/-/raw/master/cloudflare_users/domains/JSON/');
 } else if (args[2] === '--report') {
 	reporters('y');
 } else if (args[2] === '--delist') {
