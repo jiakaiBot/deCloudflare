@@ -3838,6 +3838,7 @@ Do not create new issue or we will close it as duplicate.
 | [LuChKin4@twitter](https://twitter.com/LuChKin4/status/1397782414647197700) | advertise |
 | [Lucian55166513@twitter](https://twitter.com/Lucian55166513/status/1379606759434690561) | advertise |
 | [LuciFar69459201@twitter](https://twitter.com/LuciFar69459201/status/1395041297606402052) | advertise |
+| [LuckieCrab@twitter](https://twitter.com/LuckieCrab/status/1506372420701204487) | advertise |
 | [LUCKY05314962@twitter](https://twitter.com/LUCKY05314962/status/1390492338623959041) | advertise |
 | [Lucky35575557@twitter](https://twitter.com/Lucky35575557/status/1395626189163798528) | advertise |
 | [Lucky87003842@twitter](https://twitter.com/Lucky87003842/status/1382604960861331456) | advertise |
