@@ -6302,6 +6302,7 @@ Do not create new issue or we will close it as duplicate.
 | [soyaaa98@twitter](https://twitter.com/soyaaa98/status/1498657879590461445) | advertise |
 | [soyalkoirala60@twitter](https://twitter.com/soyalkoirala60/status/1394193049689812994) | advertise |
 | [soyandot@twitter](https://twitter.com/soyandot/status/1492984014193446918) | advertise |
+| [soyfrien@twitter](https://twitter.com/soyfrien/status/1506490745779277825) | advertise |
 | [SoYoon997847@twitter](https://twitter.com/SoYoon997847/status/1391096734575521795) | advertise |
 | [sozeehh@twitter](https://twitter.com/sozeehh/status/1406383374797885442) | advertise |
 | [sparkgaming77@twitter](https://twitter.com/sparkgaming77/status/1468821079334469634) | advertise |
@@ -7652,6 +7653,7 @@ Do not create new issue or we will close it as duplicate.
 | [yuenbeihai@twitter](https://twitter.com/yuenbeihai/status/1376673572677021699) | advertise |
 | [YueYue05673762@twitter](https://twitter.com/YueYue05673762/status/1391670328879951872) | advertise |
 | [Yuki92777462@twitter](https://twitter.com/Yuki92777462/status/1389853033761165326) | advertise |
+| [YuksekOrmanMuh@twitter](https://twitter.com/YuksekOrmanMuh/status/1506534378939338752) | advertise |
 | [YunuSedatAydin@twitter](https://twitter.com/YunuSedatAydin/status/1462456581250072590) | advertise |
 | [Yusi138338331@twitter](https://twitter.com/Yusi138338331/status/1390642830310141952) | advertise |
 | [yusoffismail85@twitter](https://twitter.com/yusoffismail85/status/1505928853277253635) | advertise |
