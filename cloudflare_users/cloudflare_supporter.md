@@ -413,6 +413,7 @@ Do not create new issue or we will close it as duplicate.
 | [andiodang77@twitter](https://twitter.com/andiodang77/status/1493927735823319041) | advertise |
 | [AndreDasz@twitter](https://twitter.com/AndreDasz/status/1389889427141390336) | advertise |
 | [Andrew05534631@twitter](https://twitter.com/Andrew05534631/status/1378876163599175687) | advertise |
+| [AndrewChemerys@twitter](https://twitter.com/AndrewChemerys/status/1506671629228781573) | advertise |
 | [andrewcruzantoo@twitter](https://twitter.com/andrewcruzantoo/status/1385876533122801665) | advertise |
 | [AndrewNguyn7@twitter](https://twitter.com/AndrewNguyn7/status/1398873098959560708) | advertise |
 | [AndrewYagami51@twitter](https://twitter.com/AndrewYagami51/status/1390187834758156293) | advertise |
@@ -498,6 +499,7 @@ Do not create new issue or we will close it as duplicate.
 | [arakimk@twitter](https://twitter.com/arakimk/status/1376016585211580424) | advertise |
 | [ArashikunFu@twitter](https://twitter.com/ArashikunFu/status/1385649237879185411) | advertise |
 | [Aratis15@twitter](https://twitter.com/Aratis15/status/1395012633837850631) | advertise |
+| [AraxDen@twitter](https://twitter.com/AraxDen/status/1506691386426355712) | advertise |
 | [ArayaKhanegin@twitter](https://twitter.com/ArayaKhanegin/status/1401630853273325571) | advertise |
 | [ArchitectBum@twitter](https://twitter.com/ArchitectBum/status/1399109700726104064) | advertise |
 | [ArdanHlaing@twitter](https://twitter.com/ArdanHlaing/status/1392334668469612544) | advertise |
@@ -4007,6 +4009,7 @@ Do not create new issue or we will close it as duplicate.
 | [MarufHa0192487@twitter](https://twitter.com/MarufHa0192487/status/1385279046309740547) | advertise |
 | [marvincuche@twitter](https://twitter.com/marvincuche/status/1401058562894356480) | advertise |
 | [marvinseeza@twitter](https://twitter.com/marvinseeza/status/1491055578948706305) | advertise |
+| [maryluketich@twitter](https://twitter.com/maryluketich/status/1506741092196175872) | advertise |
 | [Masamur28695995@twitter](https://twitter.com/Masamur28695995/status/1386620919611752451) | advertise |
 | [MashhadiPourya@twitter](https://twitter.com/MashhadiPourya/status/1388135701003309062) | advertise |
 | [MAshuwj@twitter](https://twitter.com/MAshuwj/status/1394318953523027968) | advertise |
