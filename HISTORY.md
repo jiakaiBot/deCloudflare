@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-03-23: [Issues with enabling Automatic Signed Exchanges and AMP Real URL](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/k7l4h315nhkn)
 - 2022-03-22: [Increased rate of 530 / 1016 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mll6b09gky19)
 - 2022-03-18: [Cloudflare Zero Trust](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/grq0qjh1tnnd)
 - 2022-03-18: [Elevated errors in specific regions](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2wygwgjbxdk1)
