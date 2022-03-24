@@ -206,6 +206,7 @@ Or is this merely a case of simple modesty?
 | Apoorva Wadehra | Solutions Engineer |  |
 | Apoorv Goel | Data Analyst |  |
 | Ardi Judanto | Staff Accountant |  |
+| Arielle Olache | Employee | |
 | Arjunan Rajeswaran | Employee |  |
 | Arlin William | Product Designer, Austin |  |
 | Arman Baratifar | Business Intelligence |  |
@@ -439,6 +440,7 @@ Or is this merely a case of simple modesty?
 | Dani Grant | Product Manager |  |
 | Dan Johns | Employee |  |
 | Dao Quang Minh | Employee |  |
+| Darius Jankauskas | Employee | |
 | Darren Remington | Employee |  |
 | Darryl Cody Vida | Front Desk |  |
 | Darth SriBear | Employee |  |
@@ -1009,6 +1011,7 @@ Or is this merely a case of simple modesty?
 | Lorenz Bauer | Employee |  |
 | Louis Grace | Business Development |  |
 | Louis Poinsignon | Network Engineer | https://twitter.com/lpoinsig |
+| Lucas Ferreira | Employee | |
 | Lucas Pardue | HTTP/2 and QUIC | https://twitter.com/simmervigor<br>admin@lucaspardue.com<br>lucas@cloudflare.com |
 | Luisa Gobbo | Marketing and Events |  |
 | Luis Vasallo | Business Development |  |
