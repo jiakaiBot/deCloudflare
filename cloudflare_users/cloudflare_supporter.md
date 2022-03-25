@@ -4393,6 +4393,7 @@ Do not create new issue or we will close it as duplicate.
 | [Momoko000Momoko@twitter](https://twitter.com/Momoko000Momoko/status/1377583637030268932) | advertise |
 | [MomoKo82785423@twitter](https://twitter.com/MomoKo82785423/status/1392119987079303170) | advertise |
 | [Mon2010E@twitter](https://twitter.com/Mon2010E/status/1394468438664380418) | advertise |
+| [MonaDesigned@twitter](https://twitter.com/MonaDesigned/status/1499144227867041802) | advertise |
 | [Monarch92970805@twitter](https://twitter.com/Monarch92970805/status/1400852799957700616) | advertise |
 | [MonarengT4real@twitter](https://twitter.com/MonarengT4real/status/1382196959067389956) | advertise |
 | [Monchzd82288185@twitter](https://twitter.com/Monchzd82288185/status/1394220655265009665) | advertise |
