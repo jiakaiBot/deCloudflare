@@ -192,6 +192,7 @@ Do not create new issue or we will close it as duplicate.
 | [AdityaP64856529@twitter](https://twitter.com/AdityaP64856529/status/1397106574636711940) | advertise |
 | [adityasawarka16@twitter](https://twitter.com/adityasawarka16/status/1380382240727777286) | advertise |
 | [Adlinek@twitter](https://twitter.com/Adlinek/status/1386212969223122947) | advertise |
+| [AdmMatasa@twitter](https://twitter.com/AdmMatasa/status/1507215006818918404) | advertise |
 | [adock12345@twitter](https://twitter.com/adock12345/status/1382531067207421953) | advertise |
 | [adora3021@twitter](https://twitter.com/adora3021/status/1390581418401484801) | advertise |
 | [AdsbtcClick@twitter](https://twitter.com/AdsbtcClick/status/1412393199323299843) | advertise |
@@ -410,6 +411,7 @@ Do not create new issue or we will close it as duplicate.
 | [ANASXOSHNAW313@twitter](https://twitter.com/ANASXOSHNAW313/status/1379788726730170368) | advertise |
 | [anas_freeman@twitter](https://twitter.com/anas_freeman/status/1402146891094167556) | advertise |
 | [anavaralimited@twitter](https://twitter.com/anavaralimited/status/1389661876397637632) | advertise |
+| [Ana_R2005@twitter](https://twitter.com/Ana_R2005/status/1507169578832605198) | advertise |
 | [andiodang77@twitter](https://twitter.com/andiodang77/status/1493927735823319041) | advertise |
 | [AndreDasz@twitter](https://twitter.com/AndreDasz/status/1389889427141390336) | advertise |
 | [Andrew05534631@twitter](https://twitter.com/Andrew05534631/status/1378876163599175687) | advertise |
@@ -800,6 +802,7 @@ Do not create new issue or we will close it as duplicate.
 | [AzinMahan@twitter](https://twitter.com/AzinMahan/status/1383158824387813377) | advertise |
 | [AzizulmollaA@twitter](https://twitter.com/AzizulmollaA/status/1402408516640415745) | advertise |
 | [Azm29410445@twitter](https://twitter.com/Azm29410445/status/1404842111497691136) | advertise |
+| [AzmanBahari1@twitter](https://twitter.com/AzmanBahari1/status/1507292348580974594) | advertise |
 | [Azomee4@twitter](https://twitter.com/Azomee4/status/1399035804614279170) | advertise |
 | [azparrotthead@twitter](https://twitter.com/azparrotthead/status/1486244395502481410) | advertise |
 | [AzuanBk79@twitter](https://twitter.com/AzuanBk79/status/1388558394940743684) | advertise |
@@ -1639,6 +1642,7 @@ Do not create new issue or we will close it as duplicate.
 | [DrGingex@twitter](https://twitter.com/DrGingex/status/1390552908379295749) | advertise |
 | [drkblog@twitter](https://twitter.com/drkblog/status/1430874637882339336) | advertise |
 | [drkbugs@twitter](https://twitter.com/drkbugs/status/1430874637882339336) | advertise |
+| [drmin2tun@twitter](https://twitter.com/drmin2tun/status/1507160805841989634) | advertise |
 | [DRMRAWAL2@twitter](https://twitter.com/DRMRAWAL2/status/1403661034573885441) | advertise |
 | [drn1m4@twitter](https://twitter.com/drn1m4/status/1404462803528949762) | advertise |
 | [Drop20Rain@twitter](https://twitter.com/Drop20Rain/status/1396304228126183429) | advertise |
@@ -3425,6 +3429,7 @@ Do not create new issue or we will close it as duplicate.
 | [KorakritArdwar1@twitter](https://twitter.com/KorakritArdwar1/status/1377776979336818690) | advertise |
 | [koreamyanmar@twitter](https://twitter.com/koreamyanmar/status/1489118793456812032) | advertise |
 | [KORN17925793@twitter](https://twitter.com/KORN17925793/status/1380954167150223360) | advertise |
+| [KoSai86367960@twitter](https://twitter.com/KoSai86367960/status/1507151880459550720) | advertise |
 | [koSaiChit1@twitter](https://twitter.com/koSaiChit1/status/1400396850474086410) | advertise |
 | [KoSaung10@twitter](https://twitter.com/KoSaung10/status/1393178261761536008) | advertise |
 | [KoSaw54117881@twitter](https://twitter.com/KoSaw54117881/status/1394004082298220544) | advertise |
@@ -7864,6 +7869,7 @@ Do not create new issue or we will close it as duplicate.
 | [_bamin@twitter](https://twitter.com/_bamin/status/1502677212537159682) | advertise |
 | [_DepvaOTP_@twitter](https://twitter.com/_DepvaOTP_/status/1399004303788888067) | advertise |
 | [_htet1@twitter](https://twitter.com/_htet1/status/1390121428360433672) | advertise |
+| [_IvanFlecha@twitter](https://twitter.com/_IvanFlecha/status/1507311637857980417) | advertise |
 | [_kokt@twitter](https://twitter.com/_kokt/status/1429677155252727809) | advertise |
 | [_kuzannn@twitter](https://twitter.com/_kuzannn/status/1378391986449752067) | advertise |
 | [_M4nifest0_@twitter](https://twitter.com/_M4nifest0_/status/1395630834611281920) | advertise |
