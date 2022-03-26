@@ -2890,6 +2890,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jinh73205251@twitter](https://twitter.com/Jinh73205251/status/1407576885748326402) | advertise |
 | [jinkaza80004134@twitter](https://twitter.com/jinkaza80004134/status/1394493531276808195) | advertise |
 | [jinnj15@twitter](https://twitter.com/jinnj15/status/1403723336434126851) | advertise |
+| [Jinx73179066@twitter](https://twitter.com/Jinx73179066/status/1507609251476242432) | advertise |
 | [Jio78386208@twitter](https://twitter.com/Jio78386208/status/1387113117503549442) | advertise |
 | [Jiraz@twitter](https://twitter.com/Jiraz/status/1426445363846672386) | advertise |
 | [Jirou34162843@twitter](https://twitter.com/Jirou34162843/status/1388212806911025154) | advertise |
@@ -3024,6 +3025,7 @@ Do not create new issue or we will close it as duplicate.
 | [ka50822655@twitter](https://twitter.com/ka50822655/status/1399136806856060928) | advertise |
 | [KabeersNetwork@twitter](https://twitter.com/KabeersNetwork/status/1415380733221392388) | advertise |
 | [KACHA35541338@twitter](https://twitter.com/KACHA35541338/status/1402959497266556928) | advertise |
+| [KackleyThomas@twitter](https://twitter.com/KackleyThomas/status/1507557295122792450) | advertise |
 | [kahirul@twitter](https://twitter.com/kahirul/status/1504382402533023745) | advertise |
 | [KAI10505564@twitter](https://twitter.com/KAI10505564/status/1391967142015164417) | advertise |
 | [Kaif88678916@twitter](https://twitter.com/Kaif88678916/status/1378248726020456451) | advertise |
@@ -5641,6 +5643,7 @@ Do not create new issue or we will close it as duplicate.
 | [Randomguywholol@twitter](https://twitter.com/Randomguywholol/status/1493825084737212417) | advertise |
 | [RanjitM93877397@twitter](https://twitter.com/RanjitM93877397/status/1406581687257997313) | advertise |
 | [Ranked2nd@twitter](https://twitter.com/Ranked2nd/status/1489538382627676160) | advertise |
+| [RannaPrado@twitter](https://twitter.com/RannaPrado/status/1507544094003892226) | advertise |
 | [Rapestate54@twitter](https://twitter.com/Rapestate54/status/1479114971019571203) | advertise |
 | [raphend@twitter](https://twitter.com/raphend/status/1480757145477865472) | advertise |
 | [RapYan100@twitter](https://twitter.com/RapYan100/status/1404834104072454147) | advertise |
