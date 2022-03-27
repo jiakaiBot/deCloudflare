@@ -119,7 +119,7 @@
 
 * Bonvolu legi [la voĉon de alia uzanto](../PEOPLE.md) kaj skribu viajn pensojn.
 
-* Serĉi ion sur [Ss Serĉi](../subfiles/service.sercxi.md)
+* Serĉi ion sur [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Bonvolu ĝisdatigi la domajnan liston: [Enlistigi instrukciojn](../INSTRUCTION.md).
 
