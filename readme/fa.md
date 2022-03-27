@@ -120,7 +120,7 @@
 
 * [صدای کاربر دیگر را بخوانید و افکار خود را بنویسید.](../PEOPLE.md)
 
-* جستجوی چیزی: [Ss Serĉi](../subfiles/service.sercxi.md)
+* جستجوی چیزی: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * لیست دامنه را به روز کنید: [دستورالعمل های لیست](../INSTRUCTION.md).
 
