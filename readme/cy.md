@@ -118,7 +118,7 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "The Great Cloudwall", ga
 
 * [Darllenwch lais defnyddiwr arall ac ysgrifennwch eich meddyliau.](../PEOPLE.md)
 
-* Chwilio rhywbeth: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Chwilio rhywbeth: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Diweddarwch y rhestr parthau: [Rhestrwch gyfarwyddiadau](../INSTRUCTION.md).
 
