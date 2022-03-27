@@ -118,7 +118,7 @@ Ebe a bụ ndepụta nke weebụsaịtị dị n'azụ "The Great Cloudwall", na
 
 * [Guo olu onye oru ndi ozo ma dee echiche gi.](../PEOPLE.md)
 
-* Chọọ ihe: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Chọọ ihe: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Melite ngalaba ndepụta: [Ntuziaka ndepụta](../INSTRUCTION.md).
 
