@@ -118,7 +118,7 @@ Hierdie bewaarplek is 'n lys van webwerwe wat agter "The Great Cloudwall" staan,
 
 * [Lees die stem van 'n ander gebruiker en skryf u gedagtes.](../PEOPLE.md)
 
-* Soek iets: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Soek iets: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Dateer die domeinlys op: [Lys instruksies](../INSTRUCTION.md).
 
