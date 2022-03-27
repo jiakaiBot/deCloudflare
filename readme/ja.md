@@ -118,7 +118,7 @@
 
 * [他のユーザーの声を読んで、あなたの考えを書いてください。](../PEOPLE.md)
 
-* 何かを検索する: [Ss Serĉi](../subfiles/service.sercxi.md)
+* 何かを検索する: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * ドメインリストを更新する: [リストの説明](../INSTRUCTION.md).
 
