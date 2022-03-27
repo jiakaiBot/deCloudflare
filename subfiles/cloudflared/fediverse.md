@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 130 |
-| net | 92 |
-| com | 86 |
+| net | 90 |
+| com | 87 |
 | org | 58 |
 | jp | 43 |
 
@@ -195,7 +195,6 @@ Here's a list of public Fediverse services.
 | eletusk.club | No |
 | elict.net | No |
 | en.osm.town | No |
-| engineered.space | No |
 | entomophagy.world | No |
 | ephemeral.glitch.social | No |
 | equestria.social | No |
@@ -765,7 +764,6 @@ Here's a list of public Fediverse services.
 | pleroma.anduin.net | No |
 | pleroma.chirno.tech | No |
 | pleroma.envs.net | No |
-| pleroma.gdgd.jp.net | Yes |
 | pleroma.marud.fr | No |
 | pleroma.oook.fr | No |
 | pleroma.otter.sh | No |
@@ -822,7 +820,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| s.ovalerio.net | Yes |
+| rva.party | No |
 | salocha.online | No |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
@@ -838,6 +836,7 @@ Here's a list of public Fediverse services.
 | screech.social | No |
 | sdfn-01.ninjawedding.org | No |
 | seacow.social | No |
+| seaofog.com | Yes |
 | seizemeans.com | No |
 | serval.club | No |
 | setl.ist | No |
@@ -956,6 +955,7 @@ Here's a list of public Fediverse services.
 | social.van-hemmen.com | No |
 | social.veganact.org.au | No |
 | social.vikings.net | No |
+| social.weho.st | No |
 | social.wxcafe.net | No |
 | social.xthemage.net | No |
 | social.yyy.scot | No |
@@ -970,7 +970,6 @@ Here's a list of public Fediverse services.
 | st.foresdon.jp | No |
 | stare.pro | No |
 | starsky.me | Yes |
-| stereodon.social | No |
 | stereophonic.space | No |
 | stoneartprod.xyz | No |
 | stop.voring.me | No |
@@ -1097,6 +1096,7 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1127,8 +1127,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 221 |
-| Normal | 863 |
+| Cloudflare | 220 |
+| Normal | 864 |
 
 
-### 20.4% of public Fediverse services are using Cloudflare.
+### 20.3% of public Fediverse services are using Cloudflare.
