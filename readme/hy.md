@@ -118,7 +118,7 @@
 
 * [Կարդացեք այլ օգտվողի ձայնը և գրեք ձեր մտքերը:](../PEOPLE.md)
 
-* Ինչ-որ բան փնտրեք: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Ինչ-որ բան փնտրեք: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Թարմացրեք տիրույթի ցուցակը: [Listուցադրել հրահանգները](../INSTRUCTION.md).
 
