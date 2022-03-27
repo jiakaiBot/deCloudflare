@@ -118,7 +118,7 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de "The Gr
 
 * [Léigh guth úsáideora eile agus scríobh do chuid smaointe.](../PEOPLE.md)
 
-* Cuardaigh rud éigin: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Cuardaigh rud éigin: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Nuashonraigh an liosta fearainn: [Liostaigh treoracha](../INSTRUCTION.md).
 
