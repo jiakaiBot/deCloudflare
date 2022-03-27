@@ -120,7 +120,7 @@
 
 * [دوسرے صارف کی آواز پڑھیں اور اپنے خیالات لکھیں۔](../PEOPLE.md)
 
-* کچھ تلاش کریں: [Ss Serĉi](../subfiles/service.sercxi.md)
+* کچھ تلاش کریں: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * ڈومین لسٹ کو اپ ڈیٹ کریں: [ہدایات کی فہرست](../INSTRUCTION.md).
 
