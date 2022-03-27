@@ -118,7 +118,7 @@ To repozytorium to lista stron internetowych, które stoją za „Wielką zapor�
 
 * [Przeczytaj głos innych użytkowników i napisz swoje myśli.](../PEOPLE.md)
 
-* Szukaj czegoś: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Szukaj czegoś: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Zaktualizuj listę domen: [Lista instrukcji](../INSTRUCTION.md).
 
