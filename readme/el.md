@@ -118,7 +118,7 @@
 
 * [Διαβάστε τη φωνή του άλλου χρήστη και γράψτε τις σκέψεις σας.](../PEOPLE.md)
 
-* Αναζητήστε κάτι: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Αναζητήστε κάτι: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Ενημερώστε τη λίστα τομέων: [Λίστα λιστών](../INSTRUCTION.md).
 
