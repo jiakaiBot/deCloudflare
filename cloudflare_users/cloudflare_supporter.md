@@ -2077,6 +2077,7 @@ Do not create new issue or we will close it as duplicate.
 | [GreatLakeHits@twitter](https://twitter.com/GreatLakeHits/status/1377235337714499584) | advertise |
 | [GreatPurchaser@twitter](https://twitter.com/GreatPurchaser/status/1392901780535595008) | advertise |
 | [GreenboyTm@twitter](https://twitter.com/GreenboyTm/status/1390219893262327813) | advertise |
+| [greenmoon55@twitter](https://twitter.com/greenmoon55/status/1507778212234858496) | advertise |
 | [grekgrok@twitter](https://twitter.com/grekgrok/status/1400089932262088707) | advertise |
 | [Grewal74166785@twitter](https://twitter.com/Grewal74166785/status/1405490752663261186) | advertise |
 | [GreySlitaz@twitter](https://twitter.com/GreySlitaz/status/1393006277333331976) | advertise |
@@ -6543,6 +6544,7 @@ Do not create new issue or we will close it as duplicate.
 | [tegvr@twitter](https://twitter.com/tegvr/status/1466878430239100929) | advertise |
 | [tekakenji@twitter](https://twitter.com/tekakenji/status/1378831679356215296) | advertise |
 | [Tekkenz2@twitter](https://twitter.com/Tekkenz2/status/1400160711297277954) | advertise |
+| [tek_kinz@twitter](https://twitter.com/tek_kinz/status/1507790839069777922) | advertise |
 | [Telehein2@twitter](https://twitter.com/Telehein2/status/1395541369725149187) | advertise |
 | [Teleostsilk6@twitter](https://twitter.com/Teleostsilk6/status/1399736474254336000) | advertise |
 | [TelePunk7@twitter](https://twitter.com/TelePunk7/status/1385439878578458628) | advertise |
@@ -6956,6 +6958,7 @@ Do not create new issue or we will close it as duplicate.
 | [TPTT14@twitter](https://twitter.com/TPTT14/status/1380773539427454977) | advertise |
 | [tqb1999@twitter](https://twitter.com/tqb1999/status/1384513333211000833) | advertise |
 | [Tqk06514778@twitter](https://twitter.com/Tqk06514778/status/1400852519878676486) | advertise |
+| [tradeserg@twitter](https://twitter.com/tradeserg/status/1507822829789716481) | advertise |
 | [Trai49328033@twitter](https://twitter.com/Trai49328033/status/1402999939983056899) | advertise |
 | [Traicod03486526@twitter](https://twitter.com/Traicod03486526/status/1400417859872960514) | advertise |
 | [TraiDm50811820@twitter](https://twitter.com/TraiDm50811820/status/1398131670214057984) | advertise |
@@ -7469,6 +7472,7 @@ Do not create new issue or we will close it as duplicate.
 | [xcvty9@twitter](https://twitter.com/xcvty9/status/1386351924807495682) | advertise |
 | [xdaysgamer@twitter](https://twitter.com/xdaysgamer/status/1467323990880497666) | advertise |
 | [XeinZai@twitter](https://twitter.com/XeinZai/status/1403649773610151943) | advertise |
+| [xenyths@twitter](https://twitter.com/xenyths/status/1507834270601068546) | advertise |
 | [Xenza17@twitter](https://twitter.com/Xenza17/status/1382411052709724165) | advertise |
 | [XeroGravity16@twitter](https://twitter.com/XeroGravity16/status/1402320760954228736) | advertise |
 | [xetrisolta@twitter](https://twitter.com/xetrisolta/status/1386306457964924931) | advertise |
