@@ -95,7 +95,7 @@
   - [Twitter](people.twitter.md)
   - [Mastodon](people.mastodon.md)
 - [CloudFlare Watch](classics/README.md)
-- [About Ss](service.sercxi.md)
+- [About Ombrelo](service.ombrelo.md)
 - [Change default DNS provider of Firefox](change-firefox-dns.md)
 - [How to block CloudFlare on Android](block_cloudflare_on_android.md)
 - [How to use Chromium with Tor](chromium_tor.md)
