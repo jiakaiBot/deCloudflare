@@ -118,7 +118,7 @@ Dit repository is in list fan websides dy't efter "The Great Cloudwall" steane, 
 
 * [Lês de stim fan oare brûker en skriuw jo gedachten.](../PEOPLE.md)
 
-* Sykje wat: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Sykje wat: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Update de domeinnamme: [List ynstruksjes](../INSTRUCTION.md).
 
