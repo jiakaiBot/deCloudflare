@@ -118,7 +118,7 @@ Ovo skladište predstavlja listu web stranica koje stoje iza "Velikog oblačnog 
 
 * [Pročitajte glas drugog korisnika i napišite svoje misli.](../PEOPLE.md)
 
-* Pretražite nešto: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Pretražite nešto: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Ažurirajte listu domena: [Lista uputa](../INSTRUCTION.md).
 
