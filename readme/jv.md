@@ -118,7 +118,7 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Great Cloudwal
 
 * [Waca swara pangguna liyane lan tulisake pikirane.](../PEOPLE.md)
 
-* Nggoleki soko: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Nggoleki soko: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Nganyari dhaptar domain: [Dhaptar pandhuan](../INSTRUCTION.md).
 
