@@ -118,7 +118,7 @@
 
 * [Башка кулланучының тавышын укыгыз һәм үз фикерләрегезне языгыз.](../PEOPLE.md)
 
-* Берәр нәрсә эзлә: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Берәр нәрсә эзлә: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Домен исемлеген яңарту: [Күрсәтмәләр](../INSTRUCTION.md).
 
