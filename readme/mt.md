@@ -118,7 +118,7 @@ Dan ir-repożitorju huwa lista ta 'websajts li huma wara "Il-Great Cloudwall", l
 
 * [Aqra leħen ta 'utent ieħor u ikteb il-ħsibijiet tiegħek.](../PEOPLE.md)
 
-* Fittex xi ħaġa: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Fittex xi ħaġa: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Aġġorna l-lista tad-domain: [Elenka l-istruzzjonijiet](../INSTRUCTION.md).
 
