@@ -118,7 +118,7 @@
 
 * [לייענען די קול פון אנדערע באַניצער און שרייַבן דיין געדאנקען.](../PEOPLE.md)
 
-* זוך עפּעס: [Ss Serĉi](../subfiles/service.sercxi.md)
+* זוך עפּעס: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * דערהייַנטיקן די פעלד רשימה: [רשימה ינסטראַקשאַנז](../INSTRUCTION.md).
 
