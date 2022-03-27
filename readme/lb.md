@@ -118,7 +118,7 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "The Great Cloudwal
 
 * [Liest aner Benotzer Stëmm a schreift Är Gedanken.](../PEOPLE.md)
 
-* Sich no eppes: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Sich no eppes: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Update d'Domain Lëscht: [Lëscht Instruktiounen](../INSTRUCTION.md).
 
