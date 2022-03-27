@@ -118,7 +118,7 @@ Et hoc promptuario est, quae post tergum album of websites "Magna et Cloudwall",
 
 * [Legere et scribere aliam vocem tuam cogitationes user scriptor.](../PEOPLE.md)
 
-* aliquid quaerere: [Ss Serĉi](../subfiles/service.sercxi.md)
+* aliquid quaerere: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Album update in domain: [List instructiones](../INSTRUCTION.md).
 
