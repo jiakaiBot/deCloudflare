@@ -118,7 +118,7 @@
 
 * [ਹੋਰ ਉਪਭੋਗਤਾ ਦੀ ਅਵਾਜ਼ ਨੂੰ ਪੜ੍ਹੋ ਅਤੇ ਆਪਣੇ ਵਿਚਾਰ ਲਿਖੋ.](../PEOPLE.md)
 
-* ਕੁਝ ਲੱਭੋ: [Ss Serĉi](../subfiles/service.sercxi.md)
+* ਕੁਝ ਲੱਭੋ: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * ਡੋਮੇਨ ਸੂਚੀ ਨੂੰ ਅਪਡੇਟ ਕਰੋ: [ਨਿਰਦੇਸ਼ ਨਿਰਦੇਸ਼](../INSTRUCTION.md).
 
