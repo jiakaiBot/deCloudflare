@@ -118,7 +118,7 @@
 
 * [អានសំលេងរបស់អ្នកប្រើផ្សេងទៀតហើយសរសេរគំនិតរបស់អ្នក។](../PEOPLE.md)
 
-* ស្វែងរកអ្វីមួយ: [Ss Serĉi](../subfiles/service.sercxi.md)
+* ស្វែងរកអ្វីមួយ: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * ធ្វើបច្ចុប្បន្នភាពបញ្ជីឈ្មោះដែន: [បញ្ជីការណែនាំ](../INSTRUCTION.md).
 
