@@ -118,7 +118,7 @@ Biltegi hau "The Great Cloudwall" atzean dauden webguneen zerrenda da, Tor erabi
 
 * [Irakurri beste erabiltzailearen ahotsa eta idatzi zure pentsamenduak.](../PEOPLE.md)
 
-* Zerbait bilatu: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Zerbait bilatu: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Eguneratu domeinuen zerrenda: [Zerrendatu argibideak](../INSTRUCTION.md).
 
