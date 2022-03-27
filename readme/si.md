@@ -118,7 +118,7 @@
 
 * [වෙනත් පරිශීලකයාගේ කටහ read කියවා ඔබේ අදහස් ලියන්න.](../PEOPLE.md)
 
-* යමක් සොයන්න: [Ss Serĉi](../subfiles/service.sercxi.md)
+* යමක් සොයන්න: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * වසම් ලැයිස්තුව යාවත්කාලීන කරන්න: [ලැයිස්තු උපදෙස්](../INSTRUCTION.md).
 
