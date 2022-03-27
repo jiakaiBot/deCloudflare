@@ -118,7 +118,7 @@
 
 * [ఇతర వినియోగదారు గొంతు చదవండి మరియు మీ ఆలోచనలను రాయండి.](../PEOPLE.md)
 
-* ఏదైనా శోధించండి: [Ss Serĉi](../subfiles/service.sercxi.md)
+* ఏదైనా శోధించండి: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * డొమైన్ జాబితాను నవీకరించండి: [సూచనలను జాబితా చేయండి](../INSTRUCTION.md).
 
