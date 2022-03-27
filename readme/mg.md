@@ -118,7 +118,7 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "The Great Cloudwa
 
 * [Vakio ny feon'ny mpampiasa hafa ary soraty ny hevitrao.](../PEOPLE.md)
 
-* Mikaroka zavatra iray: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Mikaroka zavatra iray: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Hanavao ny lisitry ny sehatra: [Tanisao torolàlana](../INSTRUCTION.md).
 
