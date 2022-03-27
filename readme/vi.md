@@ -118,7 +118,7 @@ Kho lưu trữ này là danh sách các trang web đứng sau "Bức tường m�
 
 * [Đọc giọng nói của người dùng khác và viết suy nghĩ của bạn.](../PEOPLE.md)
 
-* Tìm kiếm thứ gì đó: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Tìm kiếm thứ gì đó: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Cập nhật danh sách miền: [Liệt kê hướng dẫn](../INSTRUCTION.md).
 
