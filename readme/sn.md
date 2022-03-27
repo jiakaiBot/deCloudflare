@@ -118,7 +118,7 @@ Iyi repository runyorwa rwemawebhusaiti ari kumashure kwe "Iyo huru Cloudwall", 
 
 * [Verenga izwi remumwe mushandisi uye nyora zvaunofunga.](../PEOPLE.md)
 
-* Tsvaga chimwe chinhu: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Tsvaga chimwe chinhu: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Gadziridza chinyorwa chinyorwa: [Rondedzero mirayiridzo](../INSTRUCTION.md).
 
