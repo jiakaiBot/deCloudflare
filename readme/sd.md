@@ -118,7 +118,7 @@
 
 * [ٻين استعمال ڪندڙ جي آواز پڙهو ۽ پنهنجا خيال لکو.](../PEOPLE.md)
 
-* ڪجھ ڳوليو: [Ss Serĉi](../subfiles/service.sercxi.md)
+* ڪجھ ڳوليو: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * ڊومين جي فهرست کي تازو ڪريو: [فهرست هدايتون](../INSTRUCTION.md).
 
