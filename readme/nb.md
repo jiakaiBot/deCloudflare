@@ -118,7 +118,7 @@ Dette depotet er en liste over nettsteder som ligger bak "The Great Cloudwall", 
 
 * [Les stemmer fra andre brukere og skriv tankene dine.](../PEOPLE.md)
 
-* Søk på noe: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Søk på noe: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Oppdater domenelisten: [Liste instruksjoner](../INSTRUCTION.md).
 
