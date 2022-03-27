@@ -41,7 +41,7 @@ There are many ways to detect it:
 - Add-on "[Bloku Cloudflaron MITM-Atakon](subfiles/about.bcma.md)" will help your Cloudflare collection.
 - Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "_Attention Required! Cloudflare_" or "_Checking your browser_" webpage.
-- Use "[Query DataBase](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_qdb.php)" webpage.
+- Use "[Query DataBase](subfiles/service.ombrelo.md)" webpage.
 - Search [cloudflare domain list](cloudflare_users/domains/). Karma's ["Find Cloudflare Domains" API](http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is_cf.php)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
@@ -226,7 +226,7 @@ Thank you for your contribution.
 Your contribution will be pushed to git automatically.
 - Cloudflare
   - Use [CfDomains](tool/cfdomains/README.md) report tool.
-  - Or: Scan FQDN on "[Query Database](https://sercxi.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/ss/tool_qdb.php)" webpage.
+  - Or: Scan FQDN on "[Query Database](subfiles/service.ombrelo.md)" webpage.
   - Or: Use add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)"
   - Or: Use Ss' "_MITM test_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 -X POST -F 'f=www.emsisoft.com' (API URL)is_mitm.php`
