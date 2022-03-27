@@ -118,7 +118,7 @@
 
 * [Басқа пайдаланушының дауысын оқып, өз ойларыңызды жазыңыз.](../PEOPLE.md)
 
-* Бірдеңе ізде: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Бірдеңе ізде: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Домен тізімін жаңартыңыз: [Нұсқаулықтарды тізімдеңіз](../INSTRUCTION.md).
 
