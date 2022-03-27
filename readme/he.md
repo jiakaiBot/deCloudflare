@@ -120,7 +120,7 @@
 
 * [קרא את הקול של משתמש אחר וכתוב את מחשבותיך.](../PEOPLE.md)
 
-* חפש משהו: [Ss Serĉi](../subfiles/service.sercxi.md)
+* חפש משהו: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * עדכן את רשימת הדומיינים: [רשימת הוראות](../INSTRUCTION.md).
 
