@@ -120,7 +120,7 @@
 
 * [د بل کارونکي غږ ولولئ او خپل افکار ولیکئ.](../PEOPLE.md)
 
-* یو څه وپلټئ: [Ss Serĉi](../subfiles/service.sercxi.md)
+* یو څه وپلټئ: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * د ډومین لیست تازه کړئ: [لارښوونې لیست کړئ](../INSTRUCTION.md).
 
