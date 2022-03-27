@@ -506,6 +506,7 @@ ns1-239.akam.net
 ns1-24.akam.net
 ns1-240.akam.net
 ns1-242.akam.net
+ns1-243.akam.net
 ns1-244.akam.net
 ns1-245.akam.net
 ns1-248.akam.net
