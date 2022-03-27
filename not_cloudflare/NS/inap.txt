@@ -3894,4 +3894,6 @@ ns2.usm97.siteground.biz
 ns2.usm98.siteground.biz
 ns2.usm99.siteground.biz
 ns3.giowm1123.siteground.biz
+ns3.siteground.net
 ns4.giowm1123.siteground.biz
+ns4.siteground.net
