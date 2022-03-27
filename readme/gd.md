@@ -118,7 +118,7 @@ Is e an ath-reic seo liosta de làraich-lìn a tha air cùl “The Great Cloudwa
 
 * [Leugh guth neach-cleachdaidh eile agus sgrìobh do bheachdan.](../PEOPLE.md)
 
-* Rannsaich rudeigin: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Rannsaich rudeigin: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Ùraich an liosta fearainn: [Liostaich stiùireadh](../INSTRUCTION.md).
 
