@@ -118,7 +118,7 @@
 
 * [અન્ય વપરાશકર્તાનો અવાજ વાંચો અને તમારા વિચારો લખો.](../PEOPLE.md)
 
-* કંઈક શોધો: [Ss Serĉi](../subfiles/service.sercxi.md)
+* કંઈક શોધો: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * ડોમેન સૂચિને અપડેટ કરો: [સૂચનો સૂચિ](../INSTRUCTION.md).
 
