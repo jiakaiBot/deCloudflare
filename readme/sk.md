@@ -118,7 +118,7 @@ Toto úložisko je zoznam webových stránok, ktoré sú za „Veľkou cloudovou
 
 * [Prečítajte si hlas iného používateľa a napíšte svoje myšlienky.](../PEOPLE.md)
 
-* Vyhľadajte niečo: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Vyhľadajte niečo: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Aktualizujte zoznam domén: [Zoznam pokynov](../INSTRUCTION.md).
 
