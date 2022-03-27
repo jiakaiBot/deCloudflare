@@ -118,7 +118,7 @@ Kjo depo është një listë e faqeve të internetit që janë pas "The Great Cl
 
 * [Lexoni zërin e përdoruesit të tjerë dhe shkruani mendimet tuaja.](../PEOPLE.md)
 
-* Kërkoni diçka: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Kërkoni diçka: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Përditësoni listën e domenit: [Listoni udhëzimet](../INSTRUCTION.md).
 
