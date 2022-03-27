@@ -118,7 +118,7 @@ Ang repositoryo na ito ay isang listahan ng mga website na nasa likod ng "The Gr
 
 * [Basahin ang tinig ng ibang gumagamit at isulat ang iyong mga saloobin.](../PEOPLE.md)
 
-* Maghanap ng isang bagay: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Maghanap ng isang bagay: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * I-update ang listahan ng domain: [Ilista ang mga tagubilin](../INSTRUCTION.md).
 
