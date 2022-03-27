@@ -118,7 +118,7 @@
 
 * [Perskaitykite kito vartotojo balsą ir parašykite savo mintis.](../PEOPLE.md)
 
-* Ko nors ieškokite: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Ko nors ieškokite: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Atnaujinkite domenų sąrašą: [Išvardykite instrukcijas](../INSTRUCTION.md).
 
