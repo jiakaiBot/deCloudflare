@@ -118,7 +118,7 @@
 
 * [Чытайце голас іншага карыстальніка і пішыце свае думкі.](../PEOPLE.md)
 
-* Шукаць што-небудзь: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Шукаць што-небудзь: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Абнавіце спіс даменаў: [Пералічыце інструкцыі](../INSTRUCTION.md).
 
