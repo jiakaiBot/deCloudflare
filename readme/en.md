@@ -125,7 +125,7 @@ This repository is a list of websites that are behind "The Great Cloudwall", blo
 
 * [Read other user's voice and write your thoughts.](../PEOPLE.md)
 
-* Search something: [Ss Serĉi](../subfiles/service.sercxi.md)
+* Search something: [Ombrelo](../subfiles/service.ombrelo.md)
 
 * Update the domain list: [List instructions](../INSTRUCTION.md).
 
