@@ -7022,6 +7022,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrnNam82628021@twitter](https://twitter.com/TrnNam82628021/status/1392524051101278209) | advertise |
 | [TrnNhi76522626@twitter](https://twitter.com/TrnNhi76522626/status/1394616157781463040) | advertise |
 | [TrnNhtKhoa16@twitter](https://twitter.com/TrnNhtKhoa16/status/1402293520874938373) | advertise |
+| [TrnQucC46296228@twitter](https://twitter.com/TrnQucC46296228/status/1508448815078338563) | advertise |
 | [TrnQucT52838357@twitter](https://twitter.com/TrnQucT52838357/status/1399704418379984898) | advertise |
 | [TrnThng85707464@twitter](https://twitter.com/TrnThng85707464/status/1404334655038386181) | advertise |
 | [TrnTngQuang2@twitter](https://twitter.com/TrnTngQuang2/status/1404296721090240512) | advertise |
@@ -7063,6 +7064,7 @@ Do not create new issue or we will close it as duplicate.
 | [TuanAnh00992166@twitter](https://twitter.com/TuanAnh00992166/status/1484853433605967877) | advertise |
 | [TuanAnh84827709@twitter](https://twitter.com/TuanAnh84827709/status/1396374291449479169) | advertise |
 | [TuanCuong_24@twitter](https://twitter.com/TuanCuong_24/status/1491066171663466499) | advertise |
+| [TuanDan48@twitter](https://twitter.com/TuanDan48/status/1508407933150765056) | advertise |
 | [TuanHoa92591402@twitter](https://twitter.com/TuanHoa92591402/status/1401178907756220419) | advertise |
 | [tuanit3697@twitter](https://twitter.com/tuanit3697/status/1483194691680337920) | advertise |
 | [tuanland168@twitter](https://twitter.com/tuanland168/status/1494107056051085315) | advertise |
