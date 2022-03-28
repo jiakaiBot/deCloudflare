@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | social | 130 |
 | net | 90 |
-| com | 87 |
+| com | 88 |
 | org | 58 |
 | jp | 43 |
 
@@ -195,6 +195,7 @@ Here's a list of public Fediverse services.
 | eletusk.club | No |
 | elict.net | No |
 | en.osm.town | No |
+| engineered.space | No |
 | entomophagy.world | No |
 | ephemeral.glitch.social | No |
 | equestria.social | No |
@@ -565,7 +566,6 @@ Here's a list of public Fediverse services.
 | mastodon.underworld.fr | No |
 | mastodon.uno | Yes |
 | mastodon.utwente.nl | No |
-| mastodon.uy | No |
 | mastodon.wafflec.one | No |
 | mastodon.world | No |
 | mastodon.xy-space.de | No |
@@ -596,6 +596,7 @@ Here's a list of public Fediverse services.
 | meganekeesu.tokyo | No |
 | melb.social | Yes |
 | mellified.men | No |
+| memetraphouse.com | No |
 | mental.social | No |
 | meow.social | No |
 | metalhead.club | No |
@@ -771,7 +772,6 @@ Here's a list of public Fediverse services.
 | plural.cafe | No |
 | plush.city | No |
 | plustodon.net | Yes |
-| poa.st | Yes |
 | pokedon.org | No |
 | pokemon.mastportal.info | No |
 | pokemon.men | Yes |
@@ -783,7 +783,6 @@ Here's a list of public Fediverse services.
 | pouet.april.org | No |
 | pouet.chapril.org | No |
 | pouet.couchet.org | No |
-| pouet.it | No |
 | pounced-on.me | No |
 | ppl.town | No |
 | precure.ml | No |
@@ -820,7 +819,7 @@ Here's a list of public Fediverse services.
 | ru.social | No |
 | ruby.social | No |
 | ruhr.social | No |
-| rva.party | No |
+| s.ovalerio.net | Yes |
 | salocha.online | No |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
@@ -879,7 +878,6 @@ Here's a list of public Fediverse services.
 | social.bobcall.me | No |
 | social.buckket.org | No |
 | social.chinwag.org | Yes |
-| social.coletivos.org | No |
 | social.cologne | No |
 | social.computerfox.xyz | No |
 | social.coop | Yes |
@@ -902,6 +900,7 @@ Here's a list of public Fediverse services.
 | social.goonj.xyz | Yes |
 | social.gould.cx | Yes |
 | social.grimneko.de | No |
+| social.henzi.org | No |
 | social.hoga.fr | No |
 | social.illegalpornography.com | No |
 | social.integritymo.de | No |
@@ -921,7 +920,6 @@ Here's a list of public Fediverse services.
 | social.mochi.academy | No |
 | social.mofu2charger-listenradio.net | No |
 | social.mootech.eu | No |
-| social.myconan.net | Yes |
 | social.nah.re | No |
 | social.nvdc.ovh | Yes |
 | social.oupsman.fr | No |
@@ -970,6 +968,7 @@ Here's a list of public Fediverse services.
 | st.foresdon.jp | No |
 | stare.pro | No |
 | starsky.me | Yes |
+| stereodon.social | No |
 | stereophonic.space | No |
 | stoneartprod.xyz | No |
 | stop.voring.me | No |
@@ -986,7 +985,6 @@ Here's a list of public Fediverse services.
 | tabletop.social | No |
 | takumi.fun | No |
 | taote.uk | No |
-| tardis.world | No |
 | taruntarun.net | Yes |
 | tech.lgbt | No |
 | tekkadon.manimani.cc | No |
@@ -1025,7 +1023,6 @@ Here's a list of public Fediverse services.
 | toot.io | No |
 | toot.kif.rocks | No |
 | toot.krinetzki.de | Yes |
-| toot.matereal.eu | No |
 | toot.nx-pod.de | No |
 | toot.party | No |
 | toot.portes-imaginaire.org | No |
@@ -1096,7 +1093,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1127,8 +1123,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 220 |
-| Normal | 864 |
+| Cloudflare | 219 |
+| Normal | 861 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
