@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 130 |
-| net | 90 |
+| net | 91 |
 | com | 88 |
-| org | 58 |
+| org | 57 |
 | jp | 43 |
 
 
@@ -207,7 +207,6 @@ Here's a list of public Fediverse services.
 | federation.krowverse.services | No |
 | fedi.absturztau.be | No |
 | fedi.lewactwo.pl | No |
-| fedi.mecp.de | No |
 | fedi.mint.lgbt | No |
 | fedivers.net | No |
 | felesitas.cloud | No |
@@ -253,7 +252,6 @@ Here's a list of public Fediverse services.
 | functional.cafe | Yes |
 | g0v.social | No |
 | gadget.inpocket.net | Yes |
-| gameliberty.club | No |
 | gamelinks007.net | No |
 | gamemaking.social | No |
 | geeknews.chat | No |
@@ -301,7 +299,6 @@ Here's a list of public Fediverse services.
 | hyan.ink | Yes |
 | icosahedron.website | No |
 | idevs.id | Yes |
-| idf.social | No |
 | ieji.de | No |
 | ifrit.gaia.ff14-mstdn.xyz | No |
 | ifwo.eu | No |
@@ -375,6 +372,7 @@ Here's a list of public Fediverse services.
 | lewactwo.pl | No |
 | lewd.town | No |
 | lgbt.im | Yes |
+| lgbt.io | No |
 | liber.chocoflan.net | No |
 | liberalism.masto.host | No |
 | libertalia.world | No |
@@ -429,6 +427,7 @@ Here's a list of public Fediverse services.
 | mast.dragon-fly.club | Yes |
 | mast.eu.org | No |
 | mast.moe | No |
+| master-feed.net | No |
 | masthead.social | Yes |
 | masto.donte.com.br | Yes |
 | masto.ninja | No |
@@ -566,6 +565,7 @@ Here's a list of public Fediverse services.
 | mastodon.underworld.fr | No |
 | mastodon.uno | Yes |
 | mastodon.utwente.nl | No |
+| mastodon.uy | No |
 | mastodon.wafflec.one | No |
 | mastodon.world | No |
 | mastodon.xy-space.de | No |
@@ -772,6 +772,7 @@ Here's a list of public Fediverse services.
 | plural.cafe | No |
 | plush.city | No |
 | plustodon.net | Yes |
+| poa.st | Yes |
 | pokedon.org | No |
 | pokemon.mastportal.info | No |
 | pokemon.men | Yes |
@@ -910,14 +911,12 @@ Here's a list of public Fediverse services.
 | social.levelxstudios.org | No |
 | social.librem.one | No |
 | social.linux.pizza | No |
-| social.logilab.org | No |
 | social.main-angler.de | No |
 | social.masto.host | No |
 | social.matej-lach.me | No |
 | social.mecanis.me | Yes |
 | social.mfraters.net | No |
 | social.mikutter.hachune.net | No |
-| social.mochi.academy | No |
 | social.mofu2charger-listenradio.net | No |
 | social.mootech.eu | No |
 | social.nah.re | No |
@@ -994,7 +993,6 @@ Here's a list of public Fediverse services.
 | tha.closed.social | Yes |
 | the.goofs.space | No |
 | thechairman.info | No |
-| thefire.work | Yes |
 | theres.life | No |
 | thething.ca | No |
 | thevillastraylight.com | No |
@@ -1023,6 +1021,7 @@ Here's a list of public Fediverse services.
 | toot.io | No |
 | toot.kif.rocks | No |
 | toot.krinetzki.de | Yes |
+| toot.matereal.eu | No |
 | toot.nx-pod.de | No |
 | toot.party | No |
 | toot.portes-imaginaire.org | No |
@@ -1048,7 +1047,6 @@ Here's a list of public Fediverse services.
 | treehouse.technopagans.de | No |
 | troet.cafe | No |
 | troll.cafe | No |
-| trpg.cloud | No |
 | trunk.mad-scientist.club | No |
 | tsuki.network | Yes |
 | tt.vvxq.ca | Yes |
@@ -1093,6 +1091,7 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1124,7 +1123,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 861 |
+| Normal | 860 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
