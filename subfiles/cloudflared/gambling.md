@@ -9,6 +9,7 @@ Here's the result.
 
 
 - Top 5 TLDs
+
 | TLD | Count |
 | --- | --- |
 | com | 957 |
@@ -19,6 +20,7 @@ Here's the result.
 
 
 - Cloudflare %
+
 | Type | Count |
 | --- | --- |
 | Cloudflare | 544 |
