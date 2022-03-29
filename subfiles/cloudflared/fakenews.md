@@ -18,6 +18,7 @@ Here's the result.
 
 
 - Top 5 TLDs
+
 | TLD | Count |
 | --- | --- |
 | com | 1,807 |
@@ -28,10 +29,11 @@ Here's the result.
 
 
 - Cloudflare %
+
 | Type | Count |
 | --- | --- |
-| Cloudflare | 522 |
-| Normal | 1,649 |
+| Cloudflare | 526 |
+| Normal | 1,645 |
 
 
-### 24% of fake news outlets are using Cloudflare.
+### 24.2% of fake news outlets are using Cloudflare.
