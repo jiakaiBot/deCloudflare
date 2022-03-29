@@ -216,6 +216,7 @@ Do not create new issue or we will close it as duplicate.
 | [aeub_54321@twitter](https://twitter.com/aeub_54321/status/1389049728319565826) | advertise |
 | [afanden41333637@twitter](https://twitter.com/afanden41333637/status/1394388505267253255) | advertise |
 | [AfaqAhm42741561@twitter](https://twitter.com/AfaqAhm42741561/status/1397649305784262659) | advertise |
+| [AffairsNone@twitter](https://twitter.com/AffairsNone/status/1508646476964151301) | advertise |
 | [Affendi_Ghazali@twitter](https://twitter.com/Affendi_Ghazali/status/1406396046440239105) | advertise |
 | [AfizOmari@twitter](https://twitter.com/AfizOmari/status/1404102260293054466) | advertise |
 | [afrash@twitter](https://twitter.com/afrash/status/1369943509839585281) | advertise |
@@ -4796,6 +4797,7 @@ Do not create new issue or we will close it as duplicate.
 | [newRigger72@twitter](https://twitter.com/newRigger72/status/1397210217872494601) | advertise |
 | [NewsRoo81265004@twitter](https://twitter.com/NewsRoo81265004/status/1405600643323138048) | advertise |
 | [news_scraper@twitter](https://twitter.com/news_scraper/status/1370141469613391875) | advertise |
+| [NFTsMintMarket@twitter](https://twitter.com/NFTsMintMarket/status/1508599297839104003) | advertise |
 | [nftsrt@twitter](https://twitter.com/nftsrt/status/1472866208814964740) | advertise |
 | [Ng17137539@twitter](https://twitter.com/Ng17137539/status/1391247431531077636) | advertise |
 | [NgaHtwe2@twitter](https://twitter.com/NgaHtwe2/status/1389454383495135233) | advertise |
