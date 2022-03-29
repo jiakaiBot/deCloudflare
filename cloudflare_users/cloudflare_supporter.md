@@ -1707,6 +1707,7 @@ Do not create new issue or we will close it as duplicate.
 | [dzuhrimohd88@twitter](https://twitter.com/dzuhrimohd88/status/1386173313165062145) | advertise |
 | [dzulhelmi@twitter](https://twitter.com/dzulhelmi/status/1431272526898888705) | advertise |
 | [DzViet1@twitter](https://twitter.com/DzViet1/status/1487807623369924611) | advertise |
+| [d_dragonz@twitter](https://twitter.com/d_dragonz/status/1508826835844419587) | advertise |
 | [D_Larro@twitter](https://twitter.com/D_Larro/status/1397911729368145920) | advertise |
 | [Ea10213@twitter](https://twitter.com/Ea10213/status/1505663566921220101) | advertise |
 | [EagleOneJackBo1@twitter](https://twitter.com/EagleOneJackBo1/status/1394581551501828098) | advertise |
@@ -4141,6 +4142,7 @@ Do not create new issue or we will close it as duplicate.
 | [mehedibs@twitter](https://twitter.com/mehedibs/status/1447465601509642240) | advertise |
 | [MehrabH95891991@twitter](https://twitter.com/MehrabH95891991/status/1395810158475845632) | advertise |
 | [Mehrabjan123@twitter](https://twitter.com/Mehrabjan123/status/1394097749604409344) | advertise |
+| [mehrdad137100@twitter](https://twitter.com/mehrdad137100/status/1508746993497260037) | advertise |
 | [melekmedia@twitter](https://twitter.com/melekmedia/status/1450818039193104393) | advertise |
 | [melissaaavelaaa@twitter](https://twitter.com/melissaaavelaaa/status/1389163238466756608) | advertise |
 | [MellowSpun@twitter](https://twitter.com/MellowSpun/status/1497652387502297090) | advertise |
@@ -6299,6 +6301,7 @@ Do not create new issue or we will close it as duplicate.
 | [SoelinKaung@twitter](https://twitter.com/SoelinKaung/status/1389016318175694848) | advertise |
 | [SoeMoeA49833906@twitter](https://twitter.com/SoeMoeA49833906/status/1408062162359099396) | advertise |
 | [SoeMoeKhaing4@twitter](https://twitter.com/SoeMoeKhaing4/status/1391426036752011265) | advertise |
+| [soemoewinn2@twitter](https://twitter.com/soemoewinn2/status/1508816042067660800) | advertise |
 | [SoeNain90836555@twitter](https://twitter.com/SoeNain90836555/status/1394202886762995721) | advertise |
 | [soep352@twitter](https://twitter.com/soep352/status/1397064351949877248) | advertise |
 | [SoePain61152147@twitter](https://twitter.com/SoePain61152147/status/1390341263795232774) | advertise |
@@ -7258,6 +7261,7 @@ Do not create new issue or we will close it as duplicate.
 | [VinceAgwada@twitter](https://twitter.com/VinceAgwada/status/1459889193476263939) | advertise |
 | [Vincent38099573@twitter](https://twitter.com/Vincent38099573/status/1381281485987061768) | advertise |
 | [VinhH55904850t@twitter](https://twitter.com/VinhH55904850t/status/1477898812764999681) | advertise |
+| [vinhlcv@twitter](https://twitter.com/vinhlcv/status/1508827801981714432) | advertise |
 | [vinhngu79083341@twitter](https://twitter.com/vinhngu79083341/status/1386229081218306048) | advertise |
 | [VinhPhu11882452@twitter](https://twitter.com/VinhPhu11882452/status/1399627549534310401) | advertise |
 | [VinhSo199935@twitter](https://twitter.com/VinhSo199935/status/1397613155711295489) | advertise |
