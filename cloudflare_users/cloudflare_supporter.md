@@ -3689,6 +3689,7 @@ Do not create new issue or we will close it as duplicate.
 | [LayNyo18@twitter](https://twitter.com/LayNyo18/status/1381887898841059329) | advertise |
 | [laywee3@twitter](https://twitter.com/laywee3/status/1381039752535633923) | advertise |
 | [LBnBon1@twitter](https://twitter.com/LBnBon1/status/1380896958659747846) | advertise |
+| [lby_xnz@twitter](https://twitter.com/lby_xnz/status/1509193784650878976) | advertise |
 | [Lc58646640@twitter](https://twitter.com/Lc58646640/status/1401490112408481792) | advertise |
 | [Lc82727489@twitter](https://twitter.com/Lc82727489/status/1495876686810062848) | advertise |
 | [Lc85060257@twitter](https://twitter.com/Lc85060257/status/1395364834762321921) | advertise |
@@ -5122,6 +5123,7 @@ Do not create new issue or we will close it as duplicate.
 | [OdariMc@twitter](https://twitter.com/OdariMc/status/1380700664016334848) | advertise |
 | [OdunmbakuAyomi2@twitter](https://twitter.com/OdunmbakuAyomi2/status/1406588138479292416) | advertise |
 | [odwelly@twitter](https://twitter.com/odwelly/status/1432723252154089492) | advertise |
+| [OfClicking@twitter](https://twitter.com/OfClicking/status/1509091140884070400) | advertise |
 | [OfficialD3ds3c@twitter](https://twitter.com/OfficialD3ds3c/status/1497239247199293442) | advertise |
 | [officialmiplay@twitter](https://twitter.com/officialmiplay/status/1411076180300779530) | moral (advertise) |
 | [OfficialSs34@twitter](https://twitter.com/OfficialSs34/status/1389541392251293705) | advertise |
@@ -5624,6 +5626,7 @@ Do not create new issue or we will close it as duplicate.
 | [quyetcoi1905@twitter](https://twitter.com/quyetcoi1905/status/1493163304373522433) | advertise |
 | [quylele009@twitter](https://twitter.com/quylele009/status/1400397369024270342) | advertise |
 | [quynhcao366@twitter](https://twitter.com/quynhcao366/status/1401426991669080069) | advertise |
+| [QuynhNg92013000@twitter](https://twitter.com/QuynhNg92013000/status/1509196540719828992) | advertise |
 | [quys94462867@twitter](https://twitter.com/quys94462867/status/1403368037340782606) | advertise |
 | [qwerty08032941@twitter](https://twitter.com/qwerty08032941/status/1473527750153875458) | advertise |
 | [QwertyU10053343@twitter](https://twitter.com/QwertyU10053343/status/1472954485010014218) | advertise |
