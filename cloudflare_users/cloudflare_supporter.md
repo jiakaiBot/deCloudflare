@@ -1343,6 +1343,7 @@ Do not create new issue or we will close it as duplicate.
 | [CryptoNinjaAF@twitter](https://twitter.com/CryptoNinjaAF/status/1400088557633654788) | advertise |
 | [cryptoreview_ai@twitter](https://twitter.com/cryptoreview_ai/status/1418363307807842305) | advertise |
 | [CryptoRishabh@twitter](https://twitter.com/CryptoRishabh/status/1373489721876213762) | advertise |
+| [cryptosmitties@twitter](https://twitter.com/cryptosmitties/status/1508877211843149832) | advertise |
 | [csgozage@twitter](https://twitter.com/csgozage/status/1392900573930803201) | advertise |
 | [cter_s@twitter](https://twitter.com/cter_s/status/1405419425478561794) | advertise |
 | [CThuSoe4@twitter](https://twitter.com/CThuSoe4/status/1393751002122129414) | advertise |
@@ -2868,6 +2869,7 @@ Do not create new issue or we will close it as duplicate.
 | [JefferyQ@twitter](https://twitter.com/JefferyQ/status/1402835144604631043) | advertise |
 | [JeffKizer3@twitter](https://twitter.com/JeffKizer3/status/1404068460817129472) | advertise |
 | [Jegan35143674@twitter](https://twitter.com/Jegan35143674/status/1468224734559191052) | advertise |
+| [jekcham1@twitter](https://twitter.com/jekcham1/status/1508921439944327170) | advertise |
 | [JenifarYasmin7@twitter](https://twitter.com/JenifarYasmin7/status/1404862325505462273) | advertise |
 | [jenjira1958@twitter](https://twitter.com/jenjira1958/status/1386021576714317826) | advertise |
 | [Jeongperth@twitter](https://twitter.com/Jeongperth/status/1384190962499416071) | advertise |
@@ -3301,6 +3303,7 @@ Do not create new issue or we will close it as duplicate.
 | [kikidrilla@twitter](https://twitter.com/kikidrilla/status/1372335070158204930) | advertise |
 | [KiKu68720339@twitter](https://twitter.com/KiKu68720339/status/1390944987152404484) | advertise |
 | [killer2111991@twitter](https://twitter.com/killer2111991/status/1469327399536197633) | advertise |
+| [KillerIcloud@twitter](https://twitter.com/KillerIcloud/status/1508936022624817152) | advertise |
 | [killfortunes@twitter](https://twitter.com/killfortunes/status/1482820909169795076) | advertise |
 | [kim24_eilie@twitter](https://twitter.com/kim24_eilie/status/1381107528184958981) | advertise |
 | [Kimanh84724453@twitter](https://twitter.com/Kimanh84724453/status/1386380292034682881) | advertise |
