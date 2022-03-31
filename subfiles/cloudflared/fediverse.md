@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 129 |
+| social | 128 |
 | net | 91 |
-| com | 87 |
+| com | 86 |
 | org | 59 |
 | jp | 43 |
 
@@ -200,13 +200,13 @@ Here's a list of public Fediverse services.
 | ephemeral.glitch.social | No |
 | equestria.social | No |
 | eupublic.social | No |
-| explosion.party | No |
 | fairground.moe | No |
 | fandom.ink | Yes |
 | fanfare.horse | No |
 | federation.krowverse.services | No |
 | fedi.absturztau.be | No |
 | fedi.lewactwo.pl | No |
+| fedi.mecp.de | No |
 | fedi.mint.lgbt | No |
 | fedivers.net | No |
 | felesitas.cloud | No |
@@ -239,11 +239,11 @@ Here's a list of public Fediverse services.
 | frei.social | Yes |
 | freiburg.social | No |
 | freunde.ma-nic.de | No |
+| friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
 | friendicarg.nsupdate.info | No |
 | frogmob.life | No |
-| froth.zone | No |
 | fsmi.social | Yes |
 | ftb.masto.host | No |
 | fulda.social | No |
@@ -294,6 +294,7 @@ Here's a list of public Fediverse services.
 | hub.mtf.party | Yes |
 | hub.sakuragawa.moe | Yes |
 | hulvr.com | No |
+| hunk.city | No |
 | hyan.ink | Yes |
 | icosahedron.website | No |
 | idevs.id | Yes |
@@ -481,7 +482,6 @@ Here's a list of public Fediverse services.
 | mastodon.greenwichmeanti.me | No |
 | mastodon.habets.dev | No |
 | mastodon.hugopoi.net | No |
-| mastodon.hydrosaas.com | Yes |
 | mastodon.icu | No |
 | mastodon.im.sb | Yes |
 | mastodon.immae.eu | No |
@@ -725,7 +725,6 @@ Here's a list of public Fediverse services.
 | oslo.town | No |
 | osna.social | No |
 | osomatsu.mastportal.info | No |
-| osrc.pw | No |
 | ostatus.lardbucket.org | No |
 | ostatus.yoh2.ddo.jp | No |
 | otoya.space | Yes |
@@ -1090,7 +1089,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1121,8 +1119,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 221 |
-| Normal | 857 |
+| Cloudflare | 220 |
+| Normal | 856 |
 
 
-### 20.5% of public Fediverse services are using Cloudflare.
+### 20.4% of public Fediverse services are using Cloudflare.
