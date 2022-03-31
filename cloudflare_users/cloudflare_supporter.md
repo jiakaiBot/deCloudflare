@@ -577,6 +577,7 @@ Do not create new issue or we will close it as duplicate.
 | [ashutoshsinghac@twitter](https://twitter.com/ashutoshsinghac/status/1397847733793218560) | advertise |
 | [asia_hippo@twitter](https://twitter.com/asia_hippo/status/1407900933732716545) | advertise |
 | [AsifKha44639814@twitter](https://twitter.com/AsifKha44639814/status/1402506001039851522) | advertise |
+| [ASISBusinesses@twitter](https://twitter.com/ASISBusinesses/status/1509318871173505025) | advertise |
 | [Ask3w1@twitter](https://twitter.com/Ask3w1/status/1377969969476956165) | advertise |
 | [ASKERONServices@twitter](https://twitter.com/ASKERONServices/status/1428021078119653379) | advertise |
 | [AskKarinSarl@twitter](https://twitter.com/AskKarinSarl/status/1377719226383892480) | advertise |
