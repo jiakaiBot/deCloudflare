@@ -836,6 +836,7 @@ Or is this merely a case of simple modesty?
 | Jon Patrick | Employee |  |
 | Jon Rankin | Solutions Engineer |  |
 | Jon Rolfe | San Francisco Employee | https://twitter.com/jrolfoid |
+| Jordan Griege | Employee | |
 | Jordan Pritchard | Employee |  |
 | Jorge Verges | Employee |  |
 | Jose Bethancourt | Incoming Software Engineer |  |
