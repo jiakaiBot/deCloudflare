@@ -2133,6 +2133,7 @@ Do not create new issue or we will close it as duplicate.
 | [GyiTaing@twitter](https://twitter.com/GyiTaing/status/1390243847863681025) | advertise |
 | [GyiYan1@twitter](https://twitter.com/GyiYan1/status/1382690804746047494) | advertise |
 | [GypsumH@twitter](https://twitter.com/GypsumH/status/1389476904667783169) | advertise |
+| [g_garces03@twitter](https://twitter.com/g_garces03/status/1509688123894206465) | advertise |
 | [h29id@twitter](https://twitter.com/h29id/status/1370211563068551170) | advertise |
 | [HabijulKhan8@twitter](https://twitter.com/HabijulKhan8/status/1405041121261080576) | advertise |
 | [hack3r_oneness@twitter](https://twitter.com/hack3r_oneness/status/1399036170223308803) | advertise |
