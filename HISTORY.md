@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-04-01: [Increase in 521 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6vhcnvxcc3k2)
 - 2022-04-01: [Elevated rate of 520 errors in some regions](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w8kcl8hnqsyx)
 - 2022-03-30: [Service disruption in San Jose Data Center](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3vf3zlfpdm2y)
 - 2022-03-26: [Elevated request failure rate in (CDG) Paris/France region.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/415d2pml49sp)
