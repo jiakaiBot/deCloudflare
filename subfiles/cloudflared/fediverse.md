@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 128 |
+| social | 130 |
 | net | 90 |
-| com | 87 |
+| com | 86 |
 | org | 60 |
 | jp | 43 |
 
@@ -133,7 +133,6 @@ Here's a list of public Fediverse services.
 | chirpi.de | No |
 | chitter.xyz | No |
 | chomp.life | No |
-| chromabits.com | No |
 | cigarcabin.com | No |
 | clacks.link | No |
 | claris.cf | No |
@@ -375,7 +374,6 @@ Here's a list of public Fediverse services.
 | lewactwo.pl | No |
 | lewd.town | No |
 | lgbt.im | Yes |
-| lgbt.io | No |
 | liberalism.masto.host | No |
 | libertalia.world | No |
 | libertarians.social | No |
@@ -495,6 +493,7 @@ Here's a list of public Fediverse services.
 | mastodon.infra.de | No |
 | mastodon.iut-larochelle.fr | No |
 | mastodon.izzz.fr | No |
+| mastodon.jalgi.eus | No |
 | mastodon.juggler.jp | No |
 | mastodon.kaonet-fr.net | No |
 | mastodon.kebree.fr | No |
@@ -514,7 +513,6 @@ Here's a list of public Fediverse services.
 | mastodon.lt | No |
 | mastodon.macsnet.cz | No |
 | mastodon.madrid | No |
-| mastodon.mania.systems | No |
 | mastodon.matcha-soft.com | No |
 | mastodon.me.uk | Yes |
 | mastodon.mechanicalmischief.com | No |
@@ -537,6 +535,7 @@ Here's a list of public Fediverse services.
 | mastodon.opencloud.lu | No |
 | mastodon.opportunis.me | No |
 | mastodon.org.uk | No |
+| mastodon.owls.io | No |
 | mastodon.parleur.net | No |
 | mastodon.partecipa.digital | No |
 | mastodon.pirateparty.be | No |
@@ -859,6 +858,7 @@ Here's a list of public Fediverse services.
 | sneed.social | No |
 | soc.safebook.space | No |
 | socel.net | No |
+| social.0ko.me | No |
 | social.076.ne.jp | No |
 | social.3rensei.xyz | No |
 | social.4f9e1738.ignorelist.com | Yes |
@@ -1077,6 +1077,7 @@ Here's a list of public Fediverse services.
 | video.pyrignis.fr | No |
 | vis.social | No |
 | vocalodon.net | No |
+| voi.social | No |
 | vorlon.space | No |
 | vtubers.social | Yes |
 | vulpine.club | Yes |
@@ -1092,6 +1093,7 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1123,7 +1125,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 222 |
-| Normal | 857 |
+| Normal | 859 |
 
 
-### 20.6% of public Fediverse services are using Cloudflare.
+### 20.5% of public Fediverse services are using Cloudflare.
