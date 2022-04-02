@@ -2304,6 +2304,7 @@ Do not create new issue or we will close it as duplicate.
 | [hf_mhy@twitter](https://twitter.com/hf_mhy/status/1501914955666231305) | advertise |
 | [hg50277943@twitter](https://twitter.com/hg50277943/status/1383696361980268547) | advertise |
 | [Hh61129726@twitter](https://twitter.com/Hh61129726/status/1394332537971900418) | advertise |
+| [HHammour_Arabic@twitter](https://twitter.com/HHammour_Arabic/status/1510137939019415553) | advertise |
 | [Hheinaungg@twitter](https://twitter.com/Hheinaungg/status/1390089145834377218) | advertise |
 | [Hhhhhhh62531386@twitter](https://twitter.com/Hhhhhhh62531386/status/1390909061810454533) | advertise |
 | [Hhhjhh09136719@twitter](https://twitter.com/Hhhjhh09136719/status/1390578230642438147) | advertise |
@@ -4557,6 +4558,7 @@ Do not create new issue or we will close it as duplicate.
 | [Musa19974@twitter](https://twitter.com/Musa19974/status/1468765690538643461) | advertise |
 | [musicapopcool@twitter](https://twitter.com/musicapopcool/status/1385421045776146432) | advertise |
 | [MusicLo06545061@twitter](https://twitter.com/MusicLo06545061/status/1394900973231898626) | advertise |
+| [MutasimBillahS3@twitter](https://twitter.com/MutasimBillahS3/status/1510162987394699268) | advertise |
 | [MutConsulting@twitter](https://twitter.com/MutConsulting/status/1445848154478350336) | advertise |
 | [MutDean@twitter](https://twitter.com/MutDean/status/1390486451867901961) | advertise |
 | [muthan14383@twitter](https://twitter.com/muthan14383/status/1393563436575989764) | advertise |
@@ -6625,6 +6627,7 @@ Do not create new issue or we will close it as duplicate.
 | [thae_su_881997@twitter](https://twitter.com/thae_su_881997/status/1378291310054895619) | advertise |
 | [ThagyanMoe10@twitter](https://twitter.com/ThagyanMoe10/status/1390577424597884928) | advertise |
 | [thai974@twitter](https://twitter.com/thai974/status/1395950743304105990) | advertise |
+| [thaiduypc@twitter](https://twitter.com/thaiduypc/status/1510154337074688000) | advertise |
 | [Thaihoa64783980@twitter](https://twitter.com/Thaihoa64783980/status/1395317406193504256) | advertise |
 | [thaihuyhx@twitter](https://twitter.com/thaihuyhx/status/1472961240481759232) | advertise |
 | [ThailandLong@twitter](https://twitter.com/ThailandLong/status/1435912413778354177) | advertise |
