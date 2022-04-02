@@ -2833,6 +2833,7 @@ Do not create new issue or we will close it as duplicate.
 | [JamesBaKyaw2@twitter](https://twitter.com/JamesBaKyaw2/status/1391787887943766016) | advertise |
 | [JamesDanMadeIt@twitter](https://twitter.com/JamesDanMadeIt/status/1489444365412016129) | advertise |
 | [JamesHa60757976@twitter](https://twitter.com/JamesHa60757976/status/1399815122022014981) | advertise |
+| [jameslodge@twitter](https://twitter.com/jameslodge/status/1510273773240561666) | advertise |
 | [JameThuya2@twitter](https://twitter.com/JameThuya2/status/1396480198325923841) | advertise |
 | [jame_satapon@twitter](https://twitter.com/jame_satapon/status/1381621249554542595) | advertise |
 | [Jamir95222748@twitter](https://twitter.com/Jamir95222748/status/1389106669594890241) | advertise |
