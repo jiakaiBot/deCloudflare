@@ -249,6 +249,7 @@ Or is this merely a case of simple modesty?
 | Ben Bradley | Employee |  |
 | Ben Burkert | Employee |  |
 | Benedikt Christoph Wolters | Systems Engineer |  |
+| Benedikt Wolters | Employee | |
 | Ben Fathi | Head of Engineering |  |
 | Ben Filreis | Business Development |  |
 | Ben Han | Korea Sales Executive |  |
@@ -650,6 +651,7 @@ Or is this merely a case of simple modesty?
 | Henry Heinemann | Business Development | https://twitter.com/HenryHeinemann<br>https://be.linkedin.com/in/henry-heinemann-b97bb973 |
 | Henry Marble | Business Development | https://www.linkedin.com/in/henry-marble |
 | Higinio Ochoa | Application Security Engineer |  |
+| Himanshu Anand | Employee | |
 | Hiren Panchasara | Systems Engineer |  |
 | Hiroki Isomura | Regional Sales Manager, Japan |  |
 | Hitendra Katariya | Sales Operations |  |
