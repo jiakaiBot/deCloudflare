@@ -4177,6 +4177,7 @@ Do not create new issue or we will close it as duplicate.
 | [mertcangokgoz@twitter](https://twitter.com/mertcangokgoz/status/1399434909039611907) | advertise |
 | [MES31_82@twitter](https://twitter.com/MES31_82/status/1401340927495581698) | advertise |
 | [Mest42062509@twitter](https://twitter.com/Mest42062509/status/1392776692976951300) | advertise |
+| [metafetamarcio@twitter](https://twitter.com/metafetamarcio/status/1510468915306115082) | advertise |
 | [metoporizo@twitter](https://twitter.com/metoporizo/status/1461211384482611201) | advertise |
 | [meu2p@twitter](https://twitter.com/meu2p/status/1486055370800111618) | advertise |
 | [MeVlezz@twitter](https://twitter.com/MeVlezz/status/1396832967700271116) | advertise |
@@ -7147,6 +7148,7 @@ Do not create new issue or we will close it as duplicate.
 | [TutorialAgent@twitter](https://twitter.com/TutorialAgent/status/1496927292336984092) | advertise |
 | [tuyennguyen2906@twitter](https://twitter.com/tuyennguyen2906/status/1434738541506924547) | advertise |
 | [TuynNgu65141795@twitter](https://twitter.com/TuynNgu65141795/status/1399803170520371204) | advertise |
+| [tvtrsteven@twitter](https://twitter.com/tvtrsteven/status/1510619103048118272) | advertise |
 | [twaltar13@twitter](https://twitter.com/twaltar13/status/1394881598194024449) | advertise |
 | [TwalTar82309915@twitter](https://twitter.com/TwalTar82309915/status/1393447482672046085) | advertise |
 | [TwanYawai@twitter](https://twitter.com/TwanYawai/status/1390673643043053568) | advertise |
