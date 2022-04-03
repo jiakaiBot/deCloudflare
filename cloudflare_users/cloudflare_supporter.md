@@ -157,6 +157,7 @@ Do not create new issue or we will close it as duplicate.
 | [Abhi75026840@twitter](https://twitter.com/Abhi75026840/status/1384746380585881606) | advertise |
 | [AbhinavRajkuma6@twitter](https://twitter.com/AbhinavRajkuma6/status/1385890708645548034) | advertise |
 | [ABHISHE37009598@twitter](https://twitter.com/ABHISHE37009598/status/1399403672002457605) | advertise |
+| [abhishekFactory@twitter](https://twitter.com/abhishekFactory/status/1510363217624711170) | advertise |
 | [AbhishekNag27@twitter](https://twitter.com/AbhishekNag27/status/1388448265469714432) | advertise |
 | [abkrimms@twitter](https://twitter.com/abkrimms/status/1456514766554402859) | advertise |
 | [abney77580215@twitter](https://twitter.com/abney77580215/status/1508581283072548873) | advertise |
@@ -1334,8 +1335,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3333,8 +3334,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7199,6 +7200,7 @@ Do not create new issue or we will close it as duplicate.
 | [UNgeLay21962396@twitter](https://twitter.com/UNgeLay21962396/status/1392031101913206784) | advertise |
 | [Unicode200c@twitter](https://twitter.com/Unicode200c/status/1450697239312039939) | advertise |
 | [united88488681@twitter](https://twitter.com/united88488681/status/1394865054521053189) | advertise |
+| [UnmineableCode@twitter](https://twitter.com/UnmineableCode/status/1510333319317176327) | advertise |
 | [UNo29958011@twitter](https://twitter.com/UNo29958011/status/1399227396000149504) | advertise |
 | [Uno74600825@twitter](https://twitter.com/Uno74600825/status/1393655865744363523) | advertise |
 | [unodang@twitter](https://twitter.com/unodang/status/1388950677255168001) | advertise |
@@ -7750,6 +7752,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yuki92777462@twitter](https://twitter.com/Yuki92777462/status/1389853033761165326) | advertise |
 | [YuksekOrmanMuh@twitter](https://twitter.com/YuksekOrmanMuh/status/1506534378939338752) | advertise |
 | [YunuSedatAydin@twitter](https://twitter.com/YunuSedatAydin/status/1462456581250072590) | advertise |
+| [yurimkuznetsov@twitter](https://twitter.com/yurimkuznetsov/status/1510345313567006731) | advertise |
 | [Yusi138338331@twitter](https://twitter.com/Yusi138338331/status/1390642830310141952) | advertise |
 | [yusoffismail85@twitter](https://twitter.com/yusoffismail85/status/1505928853277253635) | advertise |
 | [YusTweet@twitter](https://twitter.com/YusTweet/status/1457884814300770305) | advertise |
