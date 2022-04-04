@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 130 |
+| social | 129 |
 | net | 91 |
 | com | 86 |
 | org | 60 |
@@ -181,7 +181,6 @@ Here's a list of public Fediverse services.
 | dynlinux.io | No |
 | earfolds.com | No |
 | eattherich.club | No |
-| eckodon.nohost.me | No |
 | ecosteader.com | No |
 | edolas.world | No |
 | efdn.club | No |
@@ -191,7 +190,6 @@ Here's a list of public Fediverse services.
 | eldritch.cafe | No |
 | electro.social | No |
 | elefant.social | No |
-| elekk.xyz | Yes |
 | eletusk.club | No |
 | elict.net | No |
 | en.osm.town | No |
@@ -414,6 +412,7 @@ Here's a list of public Fediverse services.
 | makerdon.org | No |
 | makestuff.club | No |
 | malu.today | No |
+| maly.io | Yes |
 | mammouth.inframed.net | No |
 | mamot.fr | No |
 | mamut.tic-ac.org | No |
@@ -508,7 +507,6 @@ Here's a list of public Fediverse services.
 | mastodon.lertsenem.com | No |
 | mastodon.libre-entreprise.com | No |
 | mastodon.libresilicon.com | No |
-| mastodon.linuxbox.ninja | No |
 | mastodon.lol | Yes |
 | mastodon.lt | No |
 | mastodon.macsnet.cz | No |
@@ -819,13 +817,11 @@ Here's a list of public Fediverse services.
 | ruby.social | No |
 | ruhr.social | No |
 | s.ovalerio.net | Yes |
-| salocha.online | Yes |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
 | sansschatten.com | No |
 | sawakai.space | No |
 | scalie.club | No |
-| schleuss.online | No |
 | scholar.social | No |
 | scicomm.xyz | No |
 | scl.zmb.cm | No |
@@ -858,7 +854,6 @@ Here's a list of public Fediverse services.
 | snabelen.no | No |
 | sneakerwave.net | Yes |
 | sneed.social | No |
-| soc.safebook.space | No |
 | socel.net | No |
 | social.0ko.me | No |
 | social.076.ne.jp | No |
@@ -895,6 +890,7 @@ Here's a list of public Fediverse services.
 | social.fbxl.net | No |
 | social.finkhaeuser.de | No |
 | social.finsec.systems | Yes |
+| social.gl-como.it | No |
 | social.globalpirates.net | No |
 | social.goonj.xyz | Yes |
 | social.gould.cx | Yes |
@@ -1080,7 +1076,6 @@ Here's a list of public Fediverse services.
 | vocalodon.net | No |
 | voi.social | No |
 | vorlon.space | No |
-| vtubers.social | Yes |
 | vulpine.club | Yes |
 | w3r.jp | No |
 | wandering.shop | No |
@@ -1125,8 +1120,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 220 |
-| Normal | 862 |
+| Cloudflare | 218 |
+| Normal | 859 |
 
 
-### 20.3% of public Fediverse services are using Cloudflare.
+### 20.2% of public Fediverse services are using Cloudflare.
