@@ -187,6 +187,7 @@ Do not create new issue or we will close it as duplicate.
 | [AD38414298@twitter](https://twitter.com/AD38414298/status/1392533228871770114) | advertise |
 | [AdamHakeemi18@twitter](https://twitter.com/AdamHakeemi18/status/1396117339007979526) | advertise |
 | [adathorium@twitter](https://twitter.com/adathorium/status/1436389816573194240) | advertise |
+| [AddisonReis6@twitter](https://twitter.com/AddisonReis6/status/1510670586166525967) | advertise |
 | [addi_jade@twitter](https://twitter.com/addi_jade/status/1391607833645371393) | advertise |
 | [adel81764908@twitter](https://twitter.com/adel81764908/status/1377549585057423363) | advertise |
 | [adelxsaidx@twitter](https://twitter.com/adelxsaidx/status/1380592782633545734) | advertise |
@@ -3441,6 +3442,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoMinHtetAung49@twitter](https://twitter.com/KoMinHtetAung49/status/1393744141285212160) | advertise |
 | [KominMinKomin1@twitter](https://twitter.com/KominMinKomin1/status/1390750390702919680) | advertise |
 | [komluski@twitter](https://twitter.com/komluski/status/1390761019887263746) | advertise |
+| [komradekookoo@twitter](https://twitter.com/komradekookoo/status/1510714789659561992) | advertise |
 | [KoMyo20213188@twitter](https://twitter.com/KoMyo20213188/status/1391892305657962496) | advertise |
 | [KoMyo21611757@twitter](https://twitter.com/KoMyo21611757/status/1395011142024450054) | advertise |
 | [KoMyo48051671@twitter](https://twitter.com/KoMyo48051671/status/1391428025439322116) | advertise |
@@ -4078,6 +4080,7 @@ Do not create new issue or we will close it as duplicate.
 | [matrix-org@github.com](https://github.com/matrix-org) | moral (forcefully closed issue) |
 | [matthewseng7@twitter](https://twitter.com/matthewseng7/status/1380512288944259074) | advertise |
 | [matthew_hignite@twitter](https://twitter.com/matthew_hignite/status/1398664024716349440) | advertise |
+| [matthijspc@twitter](https://twitter.com/matthijspc/status/1510710656705650692) | advertise |
 | [mattylive_@twitter](https://twitter.com/mattylive_/status/1380773880512532485) | advertise |
 | [matt_from_burma@twitter](https://twitter.com/matt_from_burma/status/1394596702879850497) | advertise |
 | [matt_gamez@twitter](https://twitter.com/matt_gamez/status/1501569176686764036) | advertise |
@@ -5753,6 +5756,7 @@ Do not create new issue or we will close it as duplicate.
 | [renify_official@twitter](https://twitter.com/renify_official/status/1464961938492821506) | advertise |
 | [RentWithPets@twitter](https://twitter.com/RentWithPets/status/1379263041309564929) | advertise |
 | [renz89032860@twitter](https://twitter.com/renz89032860/status/1402159320465248256) | advertise |
+| [resing@twitter](https://twitter.com/resing/status/1510697231724163073) | advertise |
 | [resistance.social](https://resistance.social/) | by deleting account without warning |
 | [resonance9898@twitter](https://twitter.com/resonance9898/status/1386358577158230016) | advertise |
 | [ress997@twitter](https://twitter.com/ress997/status/1380217255267508225) | advertise |
