@@ -3063,6 +3063,7 @@ Do not create new issue or we will close it as duplicate.
 | [ka2n@twitter](https://twitter.com/ka2n/status/1486382746041655302) | advertise |
 | [ka50822655@twitter](https://twitter.com/ka50822655/status/1399136806856060928) | advertise |
 | [KabeersNetwork@twitter](https://twitter.com/KabeersNetwork/status/1415380733221392388) | advertise |
+| [kabirdayma@twitter](https://twitter.com/kabirdayma/status/1511013357842796546) | advertise |
 | [KACHA35541338@twitter](https://twitter.com/KACHA35541338/status/1402959497266556928) | advertise |
 | [KackleyThomas@twitter](https://twitter.com/KackleyThomas/status/1507557295122792450) | advertise |
 | [kahirul@twitter](https://twitter.com/kahirul/status/1504382402533023745) | advertise |
@@ -6496,6 +6497,7 @@ Do not create new issue or we will close it as duplicate.
 | [Suryavazhaa@twitter](https://twitter.com/Suryavazhaa/status/1386593598225846275) | advertise |
 | [suryedan@twitter](https://twitter.com/suryedan/status/1478087369462992896) | advertise |
 | [suryxin@twitter](https://twitter.com/suryxin/status/1401059757780209671) | advertise |
+| [suuccesethiopa@twitter](https://twitter.com/suuccesethiopa/status/1510972073769902082) | advertise |
 | [SuWai57179242@twitter](https://twitter.com/SuWai57179242/status/1390282019108659200) | advertise |
 | [SuYatiAung3@twitter](https://twitter.com/SuYatiAung3/status/1400420448962105350) | advertise |
 | [suzakar@twitter](https://twitter.com/suzakar/status/1397847710045196291) | advertise |
@@ -7093,6 +7095,7 @@ Do not create new issue or we will close it as duplicate.
 | [trunglu87@twitter](https://twitter.com/trunglu87/status/1382700817896116227) | advertise |
 | [TrungNg53294283@twitter](https://twitter.com/TrungNg53294283/status/1378292337483292675) | advertise |
 | [trungnhatt@twitter](https://twitter.com/trungnhatt/status/1393247850465697794) | advertise |
+| [trungtalee@twitter](https://twitter.com/trungtalee/status/1510951582237863939) | advertise |
 | [TrungTinn2@twitter](https://twitter.com/TrungTinn2/status/1396435936490049540) | advertise |
 | [TrunTru48885665@twitter](https://twitter.com/TrunTru48885665/status/1405518457458753536) | advertise |
 | [truongchoechoet@twitter](https://twitter.com/truongchoechoet/status/1489978969927843840) | advertise |
