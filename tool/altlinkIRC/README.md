@@ -1,4 +1,4 @@
-# Alternative Link (IRC)
+# Alternative Link IRC
 
 
 ![](../../image/altlink_sample_irc.jpg)
