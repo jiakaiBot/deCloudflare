@@ -4,7 +4,7 @@
 ![](../image/altlink_sample_irc.jpg)
 
 
-- If you don't know what Altlink is [click here](service.altlink.md).
+- If you don't know what Altlink is [click here](../subfiles/service.altlink.md).
 - You can find `altlink_xxx` **only** on:
 
 
