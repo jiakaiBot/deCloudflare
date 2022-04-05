@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 129 |
-| net | 91 |
+| social | 128 |
+| net | 89 |
 | com | 86 |
 | org | 60 |
 | jp | 43 |
@@ -190,6 +190,7 @@ Here's a list of public Fediverse services.
 | eldritch.cafe | No |
 | electro.social | No |
 | elefant.social | No |
+| elekk.xyz | Yes |
 | eletusk.club | No |
 | elict.net | No |
 | en.osm.town | No |
@@ -207,7 +208,6 @@ Here's a list of public Fediverse services.
 | fedi.lewactwo.pl | No |
 | fedi.mecp.de | No |
 | fedi.mint.lgbt | No |
-| fedivers.net | No |
 | felesitas.cloud | No |
 | fellies.social | No |
 | fem.social | No |
@@ -507,6 +507,7 @@ Here's a list of public Fediverse services.
 | mastodon.lertsenem.com | No |
 | mastodon.libre-entreprise.com | No |
 | mastodon.libresilicon.com | No |
+| mastodon.linuxbox.ninja | No |
 | mastodon.lol | Yes |
 | mastodon.lt | No |
 | mastodon.macsnet.cz | No |
@@ -816,12 +817,12 @@ Here's a list of public Fediverse services.
 | roughseas.xyz | No |
 | ruby.social | No |
 | ruhr.social | No |
-| s.ovalerio.net | Yes |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
 | sansschatten.com | No |
 | sawakai.space | No |
 | scalie.club | No |
+| schleuss.online | No |
 | scholar.social | No |
 | scicomm.xyz | No |
 | scl.zmb.cm | No |
@@ -830,8 +831,8 @@ Here's a list of public Fediverse services.
 | screech.social | No |
 | sdfn-01.ninjawedding.org | No |
 | seacow.social | No |
-| seaofog.com | Yes |
 | seizemeans.com | No |
+| seriphap.com | No |
 | serval.club | No |
 | setl.ist | No |
 | sfba.social | No |
@@ -992,7 +993,6 @@ Here's a list of public Fediverse services.
 | thechairman.info | No |
 | thefire.work | Yes |
 | theres.life | No |
-| thething.ca | No |
 | thevillastraylight.com | No |
 | thicc.horse | No |
 | this.mouse.rocks | No |
@@ -1089,7 +1089,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1120,7 +1119,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 218 |
+| Cloudflare | 217 |
 | Normal | 859 |
 
 
