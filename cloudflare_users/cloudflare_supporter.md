@@ -1626,6 +1626,7 @@ Do not create new issue or we will close it as duplicate.
 | [Doli18316877@twitter](https://twitter.com/Doli18316877/status/1394684058098049024) | advertise |
 | [dominic37487702@twitter](https://twitter.com/dominic37487702/status/1479207257279660034) | advertise |
 | [DominicDeepan@twitter](https://twitter.com/DominicDeepan/status/1420647774509432835) | advertise |
+| [dompeeze@twitter](https://twitter.com/dompeeze/status/1511224654370906113) | advertise |
 | [donaldliuT@twitter](https://twitter.com/donaldliuT/status/1390745327217516544) | advertise |
 | [DonaldRuzek@twitter](https://twitter.com/DonaldRuzek/status/1504097398708125710) | advertise |
 | [DonColeone14@twitter](https://twitter.com/DonColeone14/status/1399383393515839493) | advertise |
@@ -4759,6 +4760,7 @@ Do not create new issue or we will close it as duplicate.
 | [navi03310359@twitter](https://twitter.com/navi03310359/status/1389013302387175424) | advertise |
 | [navidr278@twitter](https://twitter.com/navidr278/status/1486214003441512448) | advertise |
 | [Navnath22377070@twitter](https://twitter.com/Navnath22377070/status/1379500987321184257) | advertise |
+| [Navylover07@twitter](https://twitter.com/Navylover07/status/1511182368102838272) | advertise |
 | [NawYamin5@twitter](https://twitter.com/NawYamin5/status/1394208976900739074) | advertise |
 | [nayan1332@twitter](https://twitter.com/nayan1332/status/1495866875267678208) | advertise |
 | [Naychi59081646@twitter](https://twitter.com/Naychi59081646/status/1390612281566789639) | advertise |
