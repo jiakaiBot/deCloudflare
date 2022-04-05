@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-04-04: [Browser Isolation Services degraded - San Diego, CA, United States](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wm57zbvhfq4d)
 - 2022-04-02: [Network Performance Issues in Sao Paolo, Brasil](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hcgtlm5bkfcw)
 - 2022-04-01: [Increase in 521 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6vhcnvxcc3k2)
 - 2022-04-01: [Elevated rate of 520 errors in some regions](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w8kcl8hnqsyx)
