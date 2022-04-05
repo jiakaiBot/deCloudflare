@@ -5197,6 +5197,7 @@ Do not create new issue or we will close it as duplicate.
 | [OoYanLay13@twitter](https://twitter.com/OoYanLay13/status/1396144264501891072) | advertise |
 | [OoZwe11@twitter](https://twitter.com/OoZwe11/status/1401109080974921731) | advertise |
 | [Op17830456@twitter](https://twitter.com/Op17830456/status/1378217756483411968) | advertise |
+| [openkaiosz@twitter](https://twitter.com/openkaiosz/status/1511127306177110019) | advertise |
 | [openprivacy.ca](https://openprivacy.ca/) | by deleting git without warning |
 | [open_teck@twitter](https://twitter.com/open_teck/status/1377209508976594948) | advertise |
 | [OPOKUPRINCE334@twitter](https://twitter.com/OPOKUPRINCE334/status/1490576779198836736) | advertise |
