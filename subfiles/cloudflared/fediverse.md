@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 128 |
-| net | 89 |
-| com | 86 |
+| social | 127 |
+| net | 90 |
+| com | 87 |
 | org | 60 |
-| jp | 43 |
+| jp | 42 |
 
 
 - Mastodon, Pleroma, etc
@@ -181,6 +181,7 @@ Here's a list of public Fediverse services.
 | dynlinux.io | No |
 | earfolds.com | No |
 | eattherich.club | No |
+| eckodon.nohost.me | No |
 | ecosteader.com | No |
 | edolas.world | No |
 | efdn.club | No |
@@ -206,7 +207,6 @@ Here's a list of public Fediverse services.
 | federation.krowverse.services | No |
 | fedi.absturztau.be | No |
 | fedi.lewactwo.pl | No |
-| fedi.mecp.de | No |
 | fedi.mint.lgbt | No |
 | felesitas.cloud | No |
 | fellies.social | No |
@@ -276,7 +276,6 @@ Here's a list of public Fediverse services.
 | graz.social | No |
 | grurple.org | No |
 | gs.leftic.club | No |
-| gs.yvt.jp | Yes |
 | h.kher.nl | No |
 | hackers.town | No |
 | halki.info | No |
@@ -382,7 +381,6 @@ Here's a list of public Fediverse services.
 | linernotes.club | No |
 | linuxjobs.social | No |
 | linuxrocks.online | No |
-| literatur.social | No |
 | livers.jp | No |
 | lor.sh | Yes |
 | lou.lt | Yes |
@@ -496,6 +494,7 @@ Here's a list of public Fediverse services.
 | mastodon.juggler.jp | No |
 | mastodon.kaonet-fr.net | No |
 | mastodon.kebree.fr | No |
+| mastodon.kigurumi.fans | No |
 | mastodon.kleph.eu | No |
 | mastodon.kosebamse.com | No |
 | mastodon.kxn4t.tech | No |
@@ -817,6 +816,7 @@ Here's a list of public Fediverse services.
 | roughseas.xyz | No |
 | ruby.social | No |
 | ruhr.social | No |
+| s.ovalerio.net | Yes |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
 | sansschatten.com | No |
@@ -831,6 +831,7 @@ Here's a list of public Fediverse services.
 | screech.social | No |
 | sdfn-01.ninjawedding.org | No |
 | seacow.social | No |
+| seaofog.com | Yes |
 | seizemeans.com | No |
 | seriphap.com | No |
 | serval.club | No |
@@ -1119,7 +1120,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 217 |
+| Cloudflare | 218 |
 | Normal | 859 |
 
 
