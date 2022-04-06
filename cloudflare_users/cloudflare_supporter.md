@@ -1552,6 +1552,7 @@ Do not create new issue or we will close it as duplicate.
 | [DeViL_jOkER7@twitter](https://twitter.com/DeViL_jOkER7/status/1386035714664456193) | advertise |
 | [devrajgujjar54@twitter](https://twitter.com/devrajgujjar54/status/1385292357449527296) | advertise |
 | [dev_Songkran@twitter](https://twitter.com/dev_Songkran/status/1501017169001615361) | advertise |
+| [DexterIRAN@twitter](https://twitter.com/DexterIRAN/status/1511339883062824967) | advertise |
 | [DeYeJa2@twitter](https://twitter.com/DeYeJa2/status/1392927369686523905) | advertise |
 | [deywall@twitter](https://twitter.com/deywall/status/1391105437471232003) | advertise |
 | [DFUnguyen@twitter](https://twitter.com/DFUnguyen/status/1480082669157289985) | advertise |
@@ -5742,6 +5743,7 @@ Do not create new issue or we will close it as duplicate.
 | [RealDNewsMag@twitter](https://twitter.com/RealDNewsMag/status/1441466401781211137) | advertise |
 | [RealFaizAhmed1@twitter](https://twitter.com/RealFaizAhmed1/status/1402941244456775687) | advertise |
 | [RealFTG2@twitter](https://twitter.com/RealFTG2/status/1425143438551490564) | advertise |
+| [realKUZNETSOV@twitter](https://twitter.com/realKUZNETSOV/status/1510345313567006731) | advertise |
 | [reallif81930874@twitter](https://twitter.com/reallif81930874/status/1392978030725722115) | advertise |
 | [RealMofrad@twitter](https://twitter.com/RealMofrad/status/1506868521359200259) | advertise |
 | [Realscenephoto1@twitter](https://twitter.com/Realscenephoto1/status/1379524143440396288) | advertise |
@@ -6400,6 +6402,7 @@ Do not create new issue or we will close it as duplicate.
 | [soyfrien@twitter](https://twitter.com/soyfrien/status/1506490745779277825) | advertise |
 | [SoYoon997847@twitter](https://twitter.com/SoYoon997847/status/1391096734575521795) | advertise |
 | [sozeehh@twitter](https://twitter.com/sozeehh/status/1406383374797885442) | advertise |
+| [SpaceVim@twitter](https://twitter.com/SpaceVim/status/1511275416354385922) | advertise |
 | [sparkgaming77@twitter](https://twitter.com/sparkgaming77/status/1468821079334469634) | advertise |
 | [SparrowsHawk1@twitter](https://twitter.com/SparrowsHawk1/status/1395590998135242757) | advertise |
 | [Sparsh7_cr@twitter](https://twitter.com/Sparsh7_cr/status/1395302496545828874) | advertise |
