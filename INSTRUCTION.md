@@ -225,7 +225,7 @@ Thank you for your contribution.
 
 Your contribution will be pushed to git automatically.
 - Cloudflare
-  - Use [CfDomains](tool/cfdomains/README.md) report tool.
+  - **Easiest way**: Use [CfDomains](tool/cfdomains/README.md) report tool.
   - Or: Scan FQDN on "[Query Database](subfiles/service.ombrelo.md)" webpage.
   - Or: Use add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)"
   - Or: Use Ss' "_MITM test_" API.
