@@ -1351,6 +1351,7 @@ Do not create new issue or we will close it as duplicate.
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
 | [crisnguyen0809@twitter](https://twitter.com/crisnguyen0809/status/1404837227679555591) | advertise |
+| [CRONUSISLIVE@twitter](https://twitter.com/CRONUSISLIVE/status/1513956818644783104) | advertise |
 | [crosiderr@twitter](https://twitter.com/crosiderr/status/1379494464545243136) | advertise |
 | [Crush82584793@twitter](https://twitter.com/Crush82584793/status/1396107509656481794) | advertise |
 | [crxckyt@twitter](https://twitter.com/crxckyt/status/1385437055799418882) | advertise |
@@ -3359,8 +3360,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6978,6 +6979,7 @@ Do not create new issue or we will close it as duplicate.
 | [timothyupai@twitter](https://twitter.com/timothyupai/status/1382488921200750593) | advertise |
 | [TimReckner@twitter](https://twitter.com/TimReckner/status/1380275100797263872) | advertise |
 | [timsmith23@twitter](https://twitter.com/timsmith23/status/1419059313927016451) | advertise |
+| [TiM_MacbookPro@twitter](https://twitter.com/TiM_MacbookPro/status/1513933813717643270) | advertise |
 | [Tin33331141@twitter](https://twitter.com/Tin33331141/status/1402133284868354048) | advertise |
 | [Tin97391743@twitter](https://twitter.com/Tin97391743/status/1468848833052372995) | advertise |
 | [tinapham0906@twitter](https://twitter.com/tinapham0906/status/1468973962134646787) | advertise |
@@ -7643,6 +7645,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yai_Sorry@twitter](https://twitter.com/Yai_Sorry/status/1398865762077401095) | advertise |
 | [YaKauk47@twitter](https://twitter.com/YaKauk47/status/1376851886981009412) | advertise |
 | [yakauk_cvrtt2z@twitter](https://twitter.com/yakauk_cvrtt2z/status/1392848631456174086) | advertise |
+| [yakobiatta@twitter](https://twitter.com/yakobiatta/status/1513949512703909896) | advertise |
 | [YAKS07@twitter](https://twitter.com/YAKS07/status/1401583619924283394) | advertise |
 | [yamone_thet@twitter](https://twitter.com/yamone_thet/status/1395595149766397961) | advertise |
 | [YanAungThaw2@twitter](https://twitter.com/YanAungThaw2/status/1389760347205079042) | advertise |
