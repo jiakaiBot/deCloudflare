@@ -120,7 +120,7 @@ Your username part (before `@`) will be masked to protect your privacy.
 
 ### Settings
 
-You can configure it from [this website](https://altlink.crimeflare.eu.org/).
+You can configure it from [this website](http://altlink.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/). (Clearnet is killed due to lack of public interest)
 
 
 ### Download OLD PNG Logo
