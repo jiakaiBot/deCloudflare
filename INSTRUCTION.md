@@ -227,13 +227,11 @@ Your contribution will be pushed to git automatically.
 - Cloudflare
   - **Easiest way**: Use [CfDomains](tool/cfdomains/README.md) report tool.
   - Or: Scan FQDN on "[Query Database](subfiles/service.ombrelo.md)" webpage.
-  - Or: Use add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)"
   - Or: Use "_MITM test_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 -X POST -F 'f=www.emsisoft.com' (API URL)is_mitm.php`
 - Anti-TOR
   - Use "_Is it blocking Tor?_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 -X POST -F 'f=www.emsisoft.com' (API URL)is_antitor.php`
-  - Or: Use add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)"
 
 
 > Type C: Create an Issue
