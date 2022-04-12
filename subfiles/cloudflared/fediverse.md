@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | social | 129 |
 | net | 91 |
-| com | 88 |
+| com | 87 |
 | org | 60 |
-| jp | 43 |
+| jp | 42 |
 
 
 - Mastodon, Pleroma, etc
@@ -241,6 +241,7 @@ Here's a list of public Fediverse services.
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
+| friendicarg.nsupdate.info | No |
 | friendsend.org | No |
 | frogmob.life | No |
 | froth.zone | No |
@@ -268,7 +269,6 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
-| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -299,6 +299,7 @@ Here's a list of public Fediverse services.
 | icosahedron.website | No |
 | idevs.id | Yes |
 | idf.social | No |
+| ieji.de | No |
 | ifrit.gaia.ff14-mstdn.xyz | No |
 | ifwo.eu | No |
 | ika.queloud.net | No |
@@ -650,7 +651,6 @@ Here's a list of public Fediverse services.
 | mstdn.love | Yes |
 | mstdn.maud.io | Yes |
 | mstdn.mini4wd-engineer.com | No |
-| mstdn.misosi.ru | Yes |
 | mstdn.mk39.xyz | No |
 | mstdn.moe | Yes |
 | mstdn.mx | Yes |
@@ -677,7 +677,6 @@ Here's a list of public Fediverse services.
 | mstdn.superspeed-fall.com | No |
 | mstdn.tentere.net | Yes |
 | mstdn.tokyocameraclub.com | No |
-| mstdn.wildtree.jp | No |
 | mstdn.y-zu.org | Yes |
 | mstdn.yakitamago.info | No |
 | mstdn.yamaken.jp | Yes |
@@ -1126,8 +1125,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 221 |
+| Cloudflare | 220 |
 | Normal | 862 |
 
 
-### 20.4% of public Fediverse services are using Cloudflare.
+### 20.3% of public Fediverse services are using Cloudflare.
