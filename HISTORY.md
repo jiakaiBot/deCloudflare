@@ -5,6 +5,10 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-04-07: [Bad requests from imagedelivery.net](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g3lrl2h5cmvn)
+- 2022-04-07: [DNS failing in SEA colo](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4lpsc3zkvv66)
+- 2022-04-06: [Cloudflare Zero Trust: Gateway Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g7sp3s3pdx4m)
+- 2022-04-06: [Network Performance Issues in Amsterdam, Netherlands](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fz3pnxqzngld)
 - 2022-04-04: [Browser Isolation Services degraded - San Diego, CA, United States](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wm57zbvhfq4d)
 - 2022-04-02: [Network Performance Issues in Sao Paolo, Brasil](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hcgtlm5bkfcw)
 - 2022-04-01: [Increase in 521 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6vhcnvxcc3k2)
