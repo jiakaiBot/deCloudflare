@@ -1815,6 +1815,7 @@ Do not create new issue or we will close it as duplicate.
 | [ellonmast@twitter](https://twitter.com/ellonmast/status/1452884018328899589) | advertise |
 | [elmy_lenert@twitter](https://twitter.com/elmy_lenert/status/1380440740644286465) | advertise |
 | [elpapilo96@twitter](https://twitter.com/elpapilo96/status/1400973663575457794) | advertise |
+| [elperiodicodigi@twitter](https://twitter.com/elperiodicodigi/status/1513992177906601995) | advertise |
 | [elsashweyee@twitter](https://twitter.com/elsashweyee/status/1389796841860964354) | advertise |
 | [ElTr72218261@twitter](https://twitter.com/ElTr72218261/status/1390311899552632834) | advertise |
 | [EMadhavi3@twitter](https://twitter.com/EMadhavi3/status/1392409666294935553) | advertise |
@@ -5491,6 +5492,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pitokk2@twitter](https://twitter.com/Pitokk2/status/1386209860484669442) | advertise |
 | [Pixel_CC@twitter](https://twitter.com/Pixel_CC/status/1388533567962058755) | advertise |
 | [Piyushj190@twitter](https://twitter.com/Piyushj190/status/1486487129437851656) | advertise |
+| [PJelodar@twitter](https://twitter.com/PJelodar/status/1514000992555077632) | advertise |
 | [PJi80623432@twitter](https://twitter.com/PJi80623432/status/1388863005861965827) | advertise |
 | [PkG04210203@twitter](https://twitter.com/PkG04210203/status/1378927538693541891) | advertise |
 | [PKumkaewprom@twitter](https://twitter.com/PKumkaewprom/status/1387070626297487361) | advertise |
@@ -6594,6 +6596,7 @@ Do not create new issue or we will close it as duplicate.
 | [TalebAbuGhaith@twitter](https://twitter.com/TalebAbuGhaith/status/1403284520623824903) | advertise |
 | [Tallcock3@twitter](https://twitter.com/Tallcock3/status/1382915646799843331) | advertise |
 | [tamakuku@twitter](https://twitter.com/tamakuku/status/1399404482987925505) | advertise |
+| [tamimalnow21@twitter](https://twitter.com/tamimalnow21/status/1514009136719085576) | advertise |
 | [Tammy524Hunter@twitter](https://twitter.com/Tammy524Hunter/status/1378944389217681408) | advertise |
 | [TamNguy02203080@twitter](https://twitter.com/TamNguy02203080/status/1389605980724359172) | advertise |
 | [Tan45474667@twitter](https://twitter.com/Tan45474667/status/1388679876987654149) | advertise |
