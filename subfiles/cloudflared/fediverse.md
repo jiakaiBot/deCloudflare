@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 129 |
-| net | 91 |
-| com | 87 |
+| net | 90 |
+| com | 88 |
 | org | 60 |
 | jp | 42 |
 
@@ -269,6 +269,7 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
+| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -565,7 +566,6 @@ Here's a list of public Fediverse services.
 | mastodon.thedecentralists.com | No |
 | mastodon.top | Yes |
 | mastodon.transneptune.net | No |
-| mastodon.triggerphra.se | No |
 | mastodon.underworld.fr | No |
 | mastodon.uno | Yes |
 | mastodon.utwente.nl | No |
@@ -820,7 +820,6 @@ Here's a list of public Fediverse services.
 | roughseas.xyz | No |
 | ruby.social | No |
 | ruhr.social | No |
-| s.ovalerio.net | Yes |
 | salocha.online | Yes |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
@@ -845,7 +844,6 @@ Here's a list of public Fediverse services.
 | shadowsocial.org | No |
 | shadowverdon.info | No |
 | shelter.moe | No |
-| shigusegubu.club | No |
 | shitcoin.land | Yes |
 | shitter.me | No |
 | sin.tyaku.com | No |
@@ -1125,8 +1123,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 220 |
-| Normal | 862 |
+| Cloudflare | 219 |
+| Normal | 861 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
