@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 129 |
-| net | 91 |
+| net | 90 |
 | com | 88 |
-| org | 60 |
+| org | 59 |
 | jp | 42 |
 
 
@@ -74,7 +74,6 @@ Here's a list of public Fediverse services.
 | appdot.net | No |
 | arkham.cafe | No |
 | arktos.social | No |
-| ascraeus.org | No |
 | aspiechattr.me | No |
 | assortedflotsam.com | No |
 | august-don.site | Yes |
@@ -241,6 +240,7 @@ Here's a list of public Fediverse services.
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
+| friendicarg.nsupdate.info | No |
 | friendsend.org | No |
 | frogmob.life | No |
 | froth.zone | No |
@@ -332,7 +332,6 @@ Here's a list of public Fediverse services.
 | jubi.life | No |
 | junkhub.org | No |
 | justicewarrior.social | Yes |
-| kamiyacho.net | No |
 | kancolle.social | No |
 | kanoa.de | No |
 | katasumi.no-monogatari.com | No |
@@ -1124,7 +1123,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 861 |
+| Normal | 860 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
