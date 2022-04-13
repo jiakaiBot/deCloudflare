@@ -4739,6 +4739,7 @@ Do not create new issue or we will close it as duplicate.
 | [nanamegg@twitter](https://twitter.com/nanamegg/status/1387985146528284674) | advertise |
 | [Nancy53194983@twitter](https://twitter.com/Nancy53194983/status/1388189197169688578) | advertise |
 | [NandaMinKhant5@twitter](https://twitter.com/NandaMinKhant5/status/1394196814652485632) | advertise |
+| [nandanam12@twitter](https://twitter.com/nandanam12/status/1514061748319694850) | advertise |
 | [nandar4498@twitter](https://twitter.com/nandar4498/status/1390341813383409683) | advertise |
 | [Nandartz15@twitter](https://twitter.com/Nandartz15/status/1392445072860352512) | advertise |
 | [nandha58379893@twitter](https://twitter.com/nandha58379893/status/1376803094453964800) | advertise |
