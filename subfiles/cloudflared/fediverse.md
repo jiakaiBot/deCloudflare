@@ -122,7 +122,6 @@ Here's a list of public Fediverse services.
 | catdon.life | No |
 | catgram.jp | Yes |
 | cathode.church | No |
-| cawfee.club | No |
 | chabant.social | No |
 | chablis.social | No |
 | chaos.social | No |
@@ -241,7 +240,6 @@ Here's a list of public Fediverse services.
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
-| friendicarg.nsupdate.info | No |
 | friendsend.org | No |
 | frogmob.life | No |
 | froth.zone | No |
@@ -299,7 +297,6 @@ Here's a list of public Fediverse services.
 | icosahedron.website | No |
 | idevs.id | Yes |
 | idf.social | No |
-| ieji.de | No |
 | ifrit.gaia.ff14-mstdn.xyz | No |
 | ifwo.eu | No |
 | ika.queloud.net | No |
@@ -555,7 +552,6 @@ Here's a list of public Fediverse services.
 | mastodon.scot | No |
 | mastodon.sergal.org | Yes |
 | mastodon.shantih19.xyz | No |
-| mastodon.sk | No |
 | mastodon.social | No |
 | mastodon.space | No |
 | mastodon.sxpert.org | No |
@@ -874,7 +870,6 @@ Here's a list of public Fediverse services.
 | social.art-software.fr | No |
 | social.avareborn.de | Yes |
 | social.ballpointcarrot.net | No |
-| social.beepboop.ga | No |
 | social.bim.land | No |
 | social.bobcall.me | No |
 | social.buckket.org | No |
@@ -1126,7 +1121,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 863 |
+| Normal | 858 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.3% of public Fediverse services are using Cloudflare.
