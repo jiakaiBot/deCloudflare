@@ -131,6 +131,7 @@ Or is this merely a case of simple modesty?
 | Aly Cabral | Product | https://twitter.com/Aly_Cabral |
 | Alyssa Wang | Employee | |
 | Amada Echeverria | Field Marketing & Events |  |
+| Ameet Naik | Employee | |
 | Amin Fawzi | Business Development |  |
 | Amir Tahsini | Customer Development |  |
 | Amit Lift | Business Development |  |
