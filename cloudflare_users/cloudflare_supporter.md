@@ -2873,6 +2873,7 @@ Do not create new issue or we will close it as duplicate.
 | [jasbirsinghp@twitter](https://twitter.com/jasbirsinghp/status/1403695498486108164) | advertise |
 | [Jaskara21129169@twitter](https://twitter.com/Jaskara21129169/status/1392335292107948033) | advertise |
 | [JasMan13A@twitter](https://twitter.com/JasMan13A/status/1386859462036660225) | advertise |
+| [Jason42610@twitter](https://twitter.com/Jason42610/status/1514156291618267136) | advertise |
 | [Jason54317528@twitter](https://twitter.com/Jason54317528/status/1385199697263054849) | advertise |
 | [JasonkaranikO@twitter](https://twitter.com/JasonkaranikO/status/1505896917921841160) | advertise |
 | [JasonLovesDoggo@twitter](https://twitter.com/JasonLovesDoggo/status/1503187393268097032) | advertise |
@@ -3361,8 +3362,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
