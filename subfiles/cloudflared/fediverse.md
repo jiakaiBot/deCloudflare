@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 91 |
 | com | 87 |
 | org | 60 |
-| jp | 43 |
+| jp | 42 |
 
 
 - Mastodon, Pleroma, etc
@@ -242,7 +242,6 @@ Here's a list of public Fediverse services.
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
-| friendicarg.nsupdate.info | No |
 | friendsend.org | No |
 | frogmob.life | No |
 | froth.zone | No |
@@ -346,7 +345,6 @@ Here's a list of public Fediverse services.
 | kemonodon.club | No |
 | kfem.cat | No |
 | kicou.info | No |
-| kindred.at | No |
 | kirakiratter.com | Yes |
 | kirapower.ichigo-hoshimiya.com | No |
 | kiritan.work | Yes |
@@ -481,7 +479,6 @@ Here's a list of public Fediverse services.
 | mastodon.eus | No |
 | mastodon.evolix.org | No |
 | mastodon.gamedev.place | No |
-| mastodon.gargantia.fr | No |
 | mastodon.geofox.org | Yes |
 | mastodon.gougere.fr | No |
 | mastodon.greenpeace.ch | Yes |
@@ -678,7 +675,6 @@ Here's a list of public Fediverse services.
 | mstdn.superspeed-fall.com | No |
 | mstdn.tentere.net | Yes |
 | mstdn.tokyocameraclub.com | No |
-| mstdn.wildtree.jp | No |
 | mstdn.y-zu.org | Yes |
 | mstdn.yakitamago.info | No |
 | mstdn.yamaken.jp | Yes |
@@ -1127,7 +1123,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 864 |
+| Normal | 860 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.3% of public Fediverse services are using Cloudflare.
