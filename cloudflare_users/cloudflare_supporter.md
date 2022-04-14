@@ -192,6 +192,7 @@ Do not create new issue or we will close it as duplicate.
 | [addi_jade@twitter](https://twitter.com/addi_jade/status/1391607833645371393) | advertise |
 | [adel81764908@twitter](https://twitter.com/adel81764908/status/1377549585057423363) | advertise |
 | [adelxsaidx@twitter](https://twitter.com/adelxsaidx/status/1380592782633545734) | advertise |
+| [Adel_Abdada@twitter](https://twitter.com/Adel_Abdada/status/1514528584110686212) | advertise |
 | [Adeniyi21541202@twitter](https://twitter.com/Adeniyi21541202/status/1378442961571221513) | advertise |
 | [adeyefa_codes@twitter](https://twitter.com/adeyefa_codes/status/1401212097602727941) | advertise |
 | [AdityaGoel014@twitter](https://twitter.com/AdityaGoel014/status/1400512018667380739) | advertise |
