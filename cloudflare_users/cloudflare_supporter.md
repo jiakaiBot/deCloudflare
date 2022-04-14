@@ -7144,6 +7144,7 @@ Do not create new issue or we will close it as duplicate.
 | [trungnhatt@twitter](https://twitter.com/trungnhatt/status/1393247850465697794) | advertise |
 | [trungtalee@twitter](https://twitter.com/trungtalee/status/1510951582237863939) | advertise |
 | [TrungTinn2@twitter](https://twitter.com/TrungTinn2/status/1396435936490049540) | advertise |
+| [TrungVu97820946@twitter](https://twitter.com/TrungVu97820946/status/1514387383353229315) | advertise |
 | [TrunTru48885665@twitter](https://twitter.com/TrunTru48885665/status/1405518457458753536) | advertise |
 | [truongchoechoet@twitter](https://twitter.com/truongchoechoet/status/1489978969927843840) | advertise |
 | [Truongd26939610@twitter](https://twitter.com/Truongd26939610/status/1400501039443361796) | advertise |
