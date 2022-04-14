@@ -1981,6 +1981,7 @@ Do not create new issue or we will close it as duplicate.
 | [fullOspace@twitter](https://twitter.com/fullOspace/status/1378241319634493443) | advertise |
 | [FumihikoHatta@twitter](https://twitter.com/FumihikoHatta/status/1495165291273326595) | advertise |
 | [Funcky77200595@twitter](https://twitter.com/Funcky77200595/status/1392335460807155714) | advertise |
+| [funkybear29@twitter](https://twitter.com/funkybear29/status/1514595662989602821) | advertise |
 | [fury67804656@twitter](https://twitter.com/fury67804656/status/1399012818767187969) | advertise |
 | [Furymdy@twitter](https://twitter.com/Furymdy/status/1380487672875999234) | advertise |
 | [FUTUREBIRD5@twitter](https://twitter.com/FUTUREBIRD5/status/1380072593953185792) | advertise |
@@ -4197,6 +4198,7 @@ Do not create new issue or we will close it as duplicate.
 | [MehrabH95891991@twitter](https://twitter.com/MehrabH95891991/status/1395810158475845632) | advertise |
 | [Mehrabjan123@twitter](https://twitter.com/Mehrabjan123/status/1394097749604409344) | advertise |
 | [mehrdad137100@twitter](https://twitter.com/mehrdad137100/status/1508746993497260037) | advertise |
+| [Mehrsha21508826@twitter](https://twitter.com/Mehrsha21508826/status/1514578153917886470) | advertise |
 | [melekmedia@twitter](https://twitter.com/melekmedia/status/1450818039193104393) | advertise |
 | [melissaaavelaaa@twitter](https://twitter.com/melissaaavelaaa/status/1389163238466756608) | advertise |
 | [MellowSpun@twitter](https://twitter.com/MellowSpun/status/1497652387502297090) | advertise |
@@ -7324,6 +7326,7 @@ Do not create new issue or we will close it as duplicate.
 | [vazquezjg@twitter](https://twitter.com/vazquezjg/status/1407182928275070976) | advertise |
 | [VBo08841997@twitter](https://twitter.com/VBo08841997/status/1398090624503402497) | advertise |
 | [vcdx71@twitter](https://twitter.com/vcdx71/status/1422627671654158347) | advertise |
+| [VEDIKA940234511@twitter](https://twitter.com/VEDIKA940234511/status/1514582258476322817) | advertise |
 | [Vegans4Trump@twitter](https://twitter.com/Vegans4Trump/status/1475146808309526534) | advertise |
 | [venkats02968750@twitter](https://twitter.com/venkats02968750/status/1402898594030526468) | advertise |
 | [Venn34541103@twitter](https://twitter.com/Venn34541103/status/1397760420249804800) | advertise |
