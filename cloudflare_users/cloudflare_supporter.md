@@ -6007,6 +6007,7 @@ Do not create new issue or we will close it as duplicate.
 | [SakshiC60115393@twitter](https://twitter.com/SakshiC60115393/status/1378061425206194176) | advertise |
 | [SakusaSpray@twitter](https://twitter.com/SakusaSpray/status/1391577820409724932) | advertise |
 | [Salaing3@twitter](https://twitter.com/Salaing3/status/1392576860027068417) | advertise |
+| [Saleh28110076@twitter](https://twitter.com/Saleh28110076/status/1514439036139618308) | advertise |
 | [SaleheenKhan1@twitter](https://twitter.com/SaleheenKhan1/status/1476642505684774914) | advertise |
 | [salemyousef3@twitter](https://twitter.com/salemyousef3/status/1370369122010288135) | advertise |
 | [SAlhiall@twitter](https://twitter.com/SAlhiall/status/1477398355424722949) | advertise |
