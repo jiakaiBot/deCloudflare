@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-04-14: [Issues with Zero Trust Device Posture Rules](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f0kt0pnrttry)
 - 2022-04-13: [Cloudflare Page Shield Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/n66fgfspfv2p)
 - 2022-04-12: [Cloudflare Zero Trust: Gateway Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g8mzcm1658kg)
 - 2022-04-07: [Bad requests from imagedelivery.net](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g3lrl2h5cmvn)
