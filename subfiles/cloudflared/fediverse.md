@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 130 |
-| net | 91 |
+| social | 129 |
+| net | 92 |
 | com | 87 |
 | org | 60 |
 | jp | 42 |
@@ -269,7 +269,6 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
-| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -381,6 +380,7 @@ Here's a list of public Fediverse services.
 | libertynode.net | No |
 | libretooth.gr | No |
 | linernotes.club | No |
+| links.potsda.mn | No |
 | linuxjobs.social | No |
 | linuxrocks.online | No |
 | literatur.social | No |
@@ -481,6 +481,7 @@ Here's a list of public Fediverse services.
 | mastodon.eus | No |
 | mastodon.evolix.org | No |
 | mastodon.gamedev.place | No |
+| mastodon.gargantia.fr | No |
 | mastodon.geofox.org | Yes |
 | mastodon.gougere.fr | No |
 | mastodon.greenpeace.ch | Yes |
@@ -499,6 +500,7 @@ Here's a list of public Fediverse services.
 | mastodon.juggler.jp | No |
 | mastodon.kaonet-fr.net | No |
 | mastodon.kebree.fr | No |
+| mastodon.kigurumi.fans | No |
 | mastodon.kleph.eu | No |
 | mastodon.kosebamse.com | No |
 | mastodon.kxn4t.tech | No |
@@ -584,7 +586,6 @@ Here's a list of public Fediverse services.
 | mastouille.fr | No |
 | matitodon.com | No |
 | matthewgall.chat | Yes |
-| mazzo.masto.host | No |
 | mbl.social | No |
 | mcnamarii.town | No |
 | mctetsudou.net | No |
@@ -638,7 +639,6 @@ Here's a list of public Fediverse services.
 | mstdn.ht164.jp | No |
 | mstdn.hyogo.jp | No |
 | mstdn.ikebuku.ro | Yes |
-| mstdn.image-space.info | No |
 | mstdn.io | Yes |
 | mstdn.itmedia.co.jp | No |
 | mstdn.jaws-ug.okinawa | No |
@@ -682,6 +682,7 @@ Here's a list of public Fediverse services.
 | mstdn.zoddo.fr | No |
 | mtd.ax9.eu | No |
 | mtg.masto.host | No |
+| mthie.net | No |
 | muenchen.social | No |
 | muensterland.social | Yes |
 | mugwort.xyz | No |
@@ -838,7 +839,6 @@ Here's a list of public Fediverse services.
 | seaofog.com | Yes |
 | seizemeans.com | No |
 | seriphap.com | No |
-| serval.club | No |
 | setl.ist | No |
 | sfba.social | No |
 | shadowsocial.org | No |
@@ -926,6 +926,7 @@ Here's a list of public Fediverse services.
 | social.oupsman.fr | No |
 | social.patapouf.xyz | No |
 | social.politicaconciencia.org | No |
+| social.rastapuls.com | No |
 | social.saarland | No |
 | social.seattle.wa.us | No |
 | social.shadowfacts.net | Yes |
@@ -1092,7 +1093,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
