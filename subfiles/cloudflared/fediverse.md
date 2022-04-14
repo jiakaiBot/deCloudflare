@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 130 |
-| net | 90 |
-| com | 88 |
+| social | 129 |
+| net | 91 |
+| com | 87 |
 | org | 60 |
-| jp | 42 |
+| jp | 43 |
 
 
 - Mastodon, Pleroma, etc
@@ -270,7 +270,6 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
-| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -285,6 +284,7 @@ Here's a list of public Fediverse services.
 | hearthtodon.com | No |
 | heislandmine.work | No |
 | hello.2heng.xin | Yes |
+| hellomasto.pl | No |
 | hellsite.site | No |
 | hessen.social | No |
 | hispagatos.space | No |
@@ -520,6 +520,7 @@ Here's a list of public Fediverse services.
 | mastodon.matcha-soft.com | No |
 | mastodon.me.uk | Yes |
 | mastodon.mechanicalmischief.com | No |
+| mastodon.mensoif.cf | No |
 | mastodon.mg | No |
 | mastodon.migennes.net | No |
 | mastodon.mit.edu | Yes |
@@ -677,6 +678,7 @@ Here's a list of public Fediverse services.
 | mstdn.superspeed-fall.com | No |
 | mstdn.tentere.net | Yes |
 | mstdn.tokyocameraclub.com | No |
+| mstdn.wildtree.jp | No |
 | mstdn.y-zu.org | Yes |
 | mstdn.yakitamago.info | No |
 | mstdn.yamaken.jp | Yes |
@@ -820,6 +822,7 @@ Here's a list of public Fediverse services.
 | roughseas.xyz | No |
 | ruby.social | No |
 | ruhr.social | No |
+| s.ovalerio.net | Yes |
 | salocha.online | Yes |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
@@ -1093,7 +1096,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1124,8 +1126,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 218 |
-| Normal | 863 |
+| Cloudflare | 219 |
+| Normal | 864 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
