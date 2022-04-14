@@ -5489,6 +5489,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhyuHninKhain17@twitter](https://twitter.com/PhyuHninKhain17/status/1400317417549533184) | advertise |
 | [PhyuLattMyint1@twitter](https://twitter.com/PhyuLattMyint1/status/1404753465872629760) | advertise |
 | [phyusinmyothant@twitter](https://twitter.com/phyusinmyothant/status/1390419304739315712) | advertise |
+| [Piejang06@twitter](https://twitter.com/Piejang06/status/1514667154599075844) | advertise |
 | [pikaibaoooo@twitter](https://twitter.com/pikaibaoooo/status/1405738285477990404) | advertise |
 | [pin500295@twitter](https://twitter.com/pin500295/status/1405570904269025280) | advertise |
 | [Pineapp43234632@twitter](https://twitter.com/Pineapp43234632/status/1377259907519373322) | advertise |
