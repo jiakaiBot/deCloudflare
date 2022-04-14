@@ -1826,6 +1826,7 @@ Do not create new issue or we will close it as duplicate.
 | [EmmanuelEdudzi2@twitter](https://twitter.com/EmmanuelEdudzi2/status/1377972822757232642) | advertise |
 | [emmaphoo95@twitter](https://twitter.com/emmaphoo95/status/1389822312602427394) | advertise |
 | [Emoji41570993@twitter](https://twitter.com/Emoji41570993/status/1389852391550377986) | advertise |
+| [Emonhas03991016@twitter](https://twitter.com/Emonhas03991016/status/1514460456563666945) | advertise |
 | [EmperorOlalekan@twitter](https://twitter.com/EmperorOlalekan/status/1401428934852591618) | advertise |
 | [Emrimo1@twitter](https://twitter.com/Emrimo1/status/1389948010302382088) | advertise |
 | [EmTakhar@twitter](https://twitter.com/EmTakhar/status/1502473533770940419) | advertise |
@@ -3878,6 +3879,7 @@ Do not create new issue or we will close it as duplicate.
 | [lonettwo@twitter](https://twitter.com/lonettwo/status/1380373941923946498) | advertise |
 | [long03012@twitter](https://twitter.com/long03012/status/1403004309734772740) | advertise |
 | [Long05628768@twitter](https://twitter.com/Long05628768/status/1399343799357239298) | advertise |
+| [long5088@twitter](https://twitter.com/long5088/status/1514488211384377347) | advertise |
 | [Long36262712@twitter](https://twitter.com/Long36262712/status/1502562907217100803) | advertise |
 | [Long38978527@twitter](https://twitter.com/Long38978527/status/1393012103389212675) | advertise |
 | [Long85366984@twitter](https://twitter.com/Long85366984/status/1401922952132583431) | advertise |
