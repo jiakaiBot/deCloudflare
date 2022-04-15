@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 130 |
-| net | 90 |
-| com | 88 |
+| social | 129 |
+| net | 91 |
+| com | 87 |
 | org | 60 |
 | jp | 43 |
 
@@ -242,6 +242,7 @@ Here's a list of public Fediverse services.
 | friendica.art3mis.de | No |
 | friendica.astatu.berlin | No |
 | friendica.jb-net.us | No |
+| friendicarg.nsupdate.info | No |
 | friendsend.org | No |
 | frogmob.life | No |
 | froth.zone | No |
@@ -269,7 +270,6 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
-| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -470,6 +470,7 @@ Here's a list of public Fediverse services.
 | mastodon.communick.com | Yes |
 | mastodon.conxtor.com | No |
 | mastodon.cosmicanimal.jp | No |
+| mastodon.cpn.so | Yes |
 | mastodon.crazynewworld.net | Yes |
 | mastodon.ctseuro.com | No |
 | mastodon.design | No |
@@ -824,6 +825,7 @@ Here's a list of public Fediverse services.
 | roughseas.xyz | No |
 | ruby.social | No |
 | ruhr.social | No |
+| s.ovalerio.net | Yes |
 | salocha.online | Yes |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
@@ -1095,7 +1097,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1126,8 +1127,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 218 |
-| Normal | 865 |
+| Cloudflare | 220 |
+| Normal | 864 |
 
 
-### 20.1% of public Fediverse services are using Cloudflare.
+### 20.3% of public Fediverse services are using Cloudflare.
