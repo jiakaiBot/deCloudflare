@@ -1758,6 +1758,7 @@ Or is this merely a case of simple modesty?
 | Zack Proser | Web Engineer |  |
 | Zaid Farooqui | Product Manager |  |
 | Zaidoon Abd Al Hadi | Employee |  |
+| Zaid Zaid | Employee | |
 | Zak Cutner | Employee |  |
 | Zanoni Harris | IT Operations |  |
 | Zeeshan Parkar | Network Engineer |  |
