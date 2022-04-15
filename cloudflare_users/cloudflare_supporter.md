@@ -518,6 +518,7 @@ Do not create new issue or we will close it as duplicate.
 | [ArchitectBum@twitter](https://twitter.com/ArchitectBum/status/1399109700726104064) | advertise |
 | [ArdanHlaing@twitter](https://twitter.com/ArdanHlaing/status/1392334668469612544) | advertise |
 | [aree_mi@twitter](https://twitter.com/aree_mi/status/1395193650611634178) | advertise |
+| [areg_misaghian@twitter](https://twitter.com/areg_misaghian/status/1514814263071698949) | advertise |
 | [ARES35088043@twitter](https://twitter.com/ARES35088043/status/1391446589453967360) | advertise |
 | [AriaHarunae@twitter](https://twitter.com/AriaHarunae/status/1405169247542730752) | advertise |
 | [aribkhan2016@twitter](https://twitter.com/aribkhan2016/status/1389475209992835075) | advertise |
@@ -847,6 +848,7 @@ Do not create new issue or we will close it as duplicate.
 | [baebaesaja666@twitter](https://twitter.com/baebaesaja666/status/1398980440476708868) | advertise |
 | [BaggyB7@twitter](https://twitter.com/BaggyB7/status/1389914222096576513) | advertise |
 | [BaGyiYe1@twitter](https://twitter.com/BaGyiYe1/status/1395180902947381253) | advertise |
+| [bahrkoy@twitter](https://twitter.com/bahrkoy/status/1514873983975497732) | advertise |
 | [Bailgaadi_Pilot@twitter](https://twitter.com/Bailgaadi_Pilot/status/1463419001954914306) | advertise |
 | [baimint_minmint@twitter](https://twitter.com/baimint_minmint/status/1393478992653553665) | advertise |
 | [Bakaoniichansa1@twitter](https://twitter.com/Bakaoniichansa1/status/1396393413541437443) | advertise |
@@ -1346,8 +1348,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3043,6 +3045,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jscns2@twitter](https://twitter.com/Jscns2/status/1490713060692328448) | advertise |
 | [JSongtakri@twitter](https://twitter.com/JSongtakri/status/1380804099340439556) | advertise |
 | [JTdoodler@twitter](https://twitter.com/JTdoodler/status/1441130159227252738) | advertise |
+| [JuanHerna132@twitter](https://twitter.com/JuanHerna132/status/1514846521870589954) | advertise |
 | [JubearHossan@twitter](https://twitter.com/JubearHossan/status/1472037401329504257) | advertise |
 | [juelff00@twitter](https://twitter.com/juelff00/status/1488815821321543685) | advertise |
 | [JulianaXlie@twitter](https://twitter.com/JulianaXlie/status/1392063889697697799) | advertise |
@@ -6926,6 +6929,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThoonThuRa@twitter](https://twitter.com/ThoonThuRa/status/1399420471603519495) | advertise |
 | [ThornTiw@twitter](https://twitter.com/ThornTiw/status/1403023816163352576) | advertise |
 | [thrv34725009@twitter](https://twitter.com/thrv34725009/status/1383448654841667588) | advertise |
+| [Thuan123567@twitter](https://twitter.com/Thuan123567/status/1514877002481737731) | advertise |
 | [ThuanNg52709347@twitter](https://twitter.com/ThuanNg52709347/status/1403081195034841088) | advertise |
 | [Thudanupk1@twitter](https://twitter.com/Thudanupk1/status/1396143299140804609) | advertise |
 | [thugboyzsex@twitter](https://twitter.com/thugboyzsex/status/1474144170021306404) | advertise |
