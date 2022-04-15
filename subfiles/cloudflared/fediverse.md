@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 130 |
+| social | 129 |
 | net | 91 |
-| com | 87 |
+| com | 88 |
 | org | 60 |
-| jp | 42 |
+| jp | 43 |
 
 
 - Mastodon, Pleroma, etc
@@ -64,12 +64,10 @@ Here's a list of public Fediverse services.
 | allpro.social | No |
 | amicale.net | No |
 | anarchism.space | No |
-| ani.work | Yes |
 | animal-crossing.mastportal.info | No |
 | anime.website | No |
 | antabaka.me | No |
 | anticapitalist.party | Yes |
-| anticitoyen.fr.nf | No |
 | antisocial.science | Yes |
 | ap.kios.cc | No |
 | appdot.net | No |
@@ -269,6 +267,7 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
+| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -355,6 +354,7 @@ Here's a list of public Fediverse services.
 | koreadon.com | No |
 | kosmos.social | No |
 | kottman.xyz | No |
+| koyu.space | Yes |
 | kpop.social | Yes |
 | krefeld.life | No |
 | kurage.cc | No |
@@ -480,7 +480,6 @@ Here's a list of public Fediverse services.
 | mastodon.eus | No |
 | mastodon.evolix.org | No |
 | mastodon.gamedev.place | No |
-| mastodon.gargantia.fr | No |
 | mastodon.geofox.org | Yes |
 | mastodon.gougere.fr | No |
 | mastodon.greenpeace.ch | Yes |
@@ -520,6 +519,7 @@ Here's a list of public Fediverse services.
 | mastodon.matcha-soft.com | No |
 | mastodon.me.uk | Yes |
 | mastodon.mechanicalmischief.com | No |
+| mastodon.mensoif.cf | No |
 | mastodon.mg | No |
 | mastodon.migennes.net | No |
 | mastodon.mit.edu | Yes |
@@ -635,6 +635,7 @@ Here's a list of public Fediverse services.
 | mstdn.haun.jp | No |
 | mstdn.hiyuki2578.net | Yes |
 | mstdn.hokkaido.jp | No |
+| mstdn.hostdon.jp | No |
 | mstdn.ht164.jp | No |
 | mstdn.hyogo.jp | No |
 | mstdn.ikebuku.ro | Yes |
@@ -985,6 +986,7 @@ Here's a list of public Fediverse services.
 | switter.nl | No |
 | systerserver.town | No |
 | tabletop.social | No |
+| takumi.fun | No |
 | taote.uk | No |
 | taruntarun.net | Yes |
 | tech.lgbt | No |
@@ -1056,8 +1058,6 @@ Here's a list of public Fediverse services.
 | tusk.schoollibraries.net | No |
 | tutut.delire.party | No |
 | tweetrex.co.uk | No |
-| twingyeo.kr | Yes |
-| twinkaga.in | No |
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
@@ -1093,7 +1093,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1124,8 +1123,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 218 |
+| Cloudflare | 217 |
 | Normal | 863 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.1% of public Fediverse services are using Cloudflare.
