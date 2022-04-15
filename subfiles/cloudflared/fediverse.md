@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 129 |
-| net | 92 |
+| social | 130 |
+| net | 90 |
 | com | 88 |
 | org | 60 |
 | jp | 43 |
@@ -824,7 +824,6 @@ Here's a list of public Fediverse services.
 | roughseas.xyz | No |
 | ruby.social | No |
 | ruhr.social | No |
-| s.ovalerio.net | Yes |
 | salocha.online | Yes |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
@@ -849,6 +848,7 @@ Here's a list of public Fediverse services.
 | shadowsocial.org | No |
 | shadowverdon.info | No |
 | shelter.moe | No |
+| shigusegubu.club | No |
 | shitcoin.land | Yes |
 | shitter.me | No |
 | sin.tyaku.com | No |
@@ -977,7 +977,6 @@ Here's a list of public Fediverse services.
 | stereophonic.space | No |
 | stoneartprod.xyz | No |
 | stop.voring.me | No |
-| straylight.expectnomore.net | No |
 | sts.ditatompel.com | Yes |
 | subversive.zone | No |
 | sumanko.ml | Yes |
@@ -988,7 +987,6 @@ Here's a list of public Fediverse services.
 | switter.nl | No |
 | systerserver.town | No |
 | tabletop.social | No |
-| takumi.fun | No |
 | taote.uk | No |
 | taruntarun.net | Yes |
 | tech.lgbt | No |
@@ -1097,6 +1095,7 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1127,8 +1126,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 219 |
+| Cloudflare | 218 |
 | Normal | 865 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.1% of public Fediverse services are using Cloudflare.
