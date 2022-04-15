@@ -246,6 +246,7 @@ Do not create new issue or we will close it as duplicate.
 | [ahmdh4474@twitter](https://twitter.com/ahmdh4474/status/1390763076660736001) | advertise |
 | [AhmedAl87534372@twitter](https://twitter.com/AhmedAl87534372/status/1382167857501503492) | advertise |
 | [AhmedDeaf93@twitter](https://twitter.com/AhmedDeaf93/status/1494968949976571907) | advertise |
+| [AhmedFaried00@twitter](https://twitter.com/AhmedFaried00/status/1515013817318752262) | advertise |
 | [AhmedGa90400768@twitter](https://twitter.com/AhmedGa90400768/status/1378080868938493956) | advertise |
 | [AhmedHu05262654@twitter](https://twitter.com/AhmedHu05262654/status/1478283890485653504) | advertise |
 | [Ahmedsa96861316@twitter](https://twitter.com/Ahmedsa96861316/status/1412890312859656192) | moral (advertise) |
@@ -3716,6 +3717,7 @@ Do not create new issue or we will close it as duplicate.
 | [LAnh54291713@twitter](https://twitter.com/LAnh54291713/status/1376937564322422788) | advertise |
 | [LAnhQu16@twitter](https://twitter.com/LAnhQu16/status/1386948094760157187) | advertise |
 | [lansu821@twitter](https://twitter.com/lansu821/status/1391871366673092615) | advertise |
+| [LantisZero@twitter](https://twitter.com/LantisZero/status/1515058223388426241) | advertise |
 | [laphongtv79@twitter](https://twitter.com/laphongtv79/status/1488353795520167937) | advertise |
 | [lapis0011@twitter](https://twitter.com/lapis0011/status/1408175514234146816) | advertise |
 | [LaptopsP@twitter](https://twitter.com/LaptopsP/status/1380583685615849474) | advertise |
@@ -5069,6 +5071,7 @@ Do not create new issue or we will close it as duplicate.
 | [NnguyenUy@twitter](https://twitter.com/NnguyenUy/status/1389091092331597824) | advertise |
 | [NnmhBgoMy@twitter](https://twitter.com/NnmhBgoMy/status/1398200094818668546) | advertise |
 | [nnnnn5437@twitter](https://twitter.com/nnnnn5437/status/1507002698205327360) | advertise |
+| [noahhuntersmith@twitter](https://twitter.com/noahhuntersmith/status/1515008532571111424) | advertise |
 | [NoahLiptrap@twitter](https://twitter.com/NoahLiptrap/status/1508131762177654784) | advertise |
 | [NoBanId2@twitter](https://twitter.com/NoBanId2/status/1395574170683985928) | advertise |
 | [Nobel_Chow@twitter](https://twitter.com/Nobel_Chow/status/1439072225466847241) | advertise |
