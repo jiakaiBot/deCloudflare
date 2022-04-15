@@ -90,6 +90,7 @@
   - [January 2022](repeat_infringers/2022-01.md)
   - [February 2022](repeat_infringers/2022-02.md)
   - [March 2022](repeat_infringers/2022-03.md)
+  - [April 2022](repeat_infringers/2022-04.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
