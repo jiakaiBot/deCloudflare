@@ -2645,6 +2645,7 @@ Do not create new issue or we will close it as duplicate.
 | [huylba123@twitter](https://twitter.com/huylba123/status/1397769207337558023) | advertise |
 | [HuyLe12798601@twitter](https://twitter.com/HuyLe12798601/status/1400069776408338432) | advertise |
 | [HuyNguy96832626@twitter](https://twitter.com/HuyNguy96832626/status/1385249782474567682) | advertise |
+| [HuynhAn42298847@twitter](https://twitter.com/HuynhAn42298847/status/1515280044687462402) | advertise |
 | [huynhduchuy19@twitter](https://twitter.com/huynhduchuy19/status/1473748306748526593) | advertise |
 | [huynhminhvu5232@twitter](https://twitter.com/huynhminhvu5232/status/1399221312921292801) | advertise |
 | [Huynhph7@twitter](https://twitter.com/Huynhph7/status/1387755716631359490) | advertise |
