@@ -4,14 +4,14 @@
 CLI tool to look up Cloudflare domain list
 
 
-- [Linux](https://mypdns.org/dCF/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.linux?inline=false)
+- [Linux](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.linux?inline=false)
 ```
 $ chmod +x cfdomains
 $ ./cfdomains
 ```
 
-- [Windows](https://mypdns.org/dCF/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.exe?inline=false)
-- [Mac OS](https://mypdns.org/dCF/deCloudflare/-/raw/master/tool/cfdomains/cfdomains.app?inline=false)
+- [Windows](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.exe?inline=false)
+- [Mac OS](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.app?inline=false)
 
 
 ----
