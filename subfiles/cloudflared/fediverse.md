@@ -749,6 +749,7 @@ Here's a list of public Fediverse services.
 | pantdon.site | No |
 | pao.moe | Yes |
 | pars.ee | No |
+| patriot.online | No |
 | pawoo.net | No |
 | pcgamer.social | Yes |
 | persadon.com | No |
@@ -1128,7 +1129,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 865 |
+| Normal | 866 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
