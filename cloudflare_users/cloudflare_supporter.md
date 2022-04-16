@@ -186,6 +186,7 @@ Do not create new issue or we will close it as duplicate.
 | [activism.openworlds.info](https://activism.openworlds.info/) | by muting account status without warning & showed hostility |
 | [acu05047849@twitter](https://twitter.com/acu05047849/status/1471678185070755840) | advertise |
 | [AD38414298@twitter](https://twitter.com/AD38414298/status/1392533228871770114) | advertise |
+| [Adam39171140@twitter](https://twitter.com/Adam39171140/status/1515414463008104464) | advertise |
 | [AdamHakeemi18@twitter](https://twitter.com/AdamHakeemi18/status/1396117339007979526) | advertise |
 | [adathorium@twitter](https://twitter.com/adathorium/status/1436389816573194240) | advertise |
 | [AddisonReis6@twitter](https://twitter.com/AddisonReis6/status/1510670586166525967) | advertise |
@@ -1349,8 +1350,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3373,8 +3374,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -4854,6 +4855,7 @@ Do not create new issue or we will close it as duplicate.
 | [NekoDark2908@twitter](https://twitter.com/NekoDark2908/status/1385441300166569985) | advertise |
 | [nellasilaen@twitter](https://twitter.com/nellasilaen/status/1484124645586571264) | advertise |
 | [nellydion@twitter](https://twitter.com/nellydion/status/1404459985820545035) | advertise |
+| [NeonArduino@twitter](https://twitter.com/NeonArduino/status/1515397916134977551) | advertise |
 | [NeorezzR@twitter](https://twitter.com/NeorezzR/status/1382156523745337347) | advertise |
 | [NerdClump@twitter](https://twitter.com/NerdClump/status/1385680403738947585) | advertise |
 | [NerdJunction@twitter](https://twitter.com/NerdJunction/status/1379503700805361668) | advertise |
@@ -7070,6 +7072,7 @@ Do not create new issue or we will close it as duplicate.
 | [TommyLy71205879@twitter](https://twitter.com/TommyLy71205879/status/1395683024365264896) | advertise |
 | [tomx900@twitter](https://twitter.com/tomx900/status/1378074552857587713) | advertise |
 | [ton51693387@twitter](https://twitter.com/ton51693387/status/1474890465623171073) | advertise |
+| [tongqualin@twitter](https://twitter.com/tongqualin/status/1515406293833777154) | advertise |
 | [TongTon27759984@twitter](https://twitter.com/TongTon27759984/status/1397107114468790272) | advertise |
 | [toni_raifi@twitter](https://twitter.com/toni_raifi/status/1377735232519086080) | advertise |
 | [TonJason8@twitter](https://twitter.com/TonJason8/status/1389524047067713536) | advertise |
