@@ -3373,8 +3373,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5393,6 +5393,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhD_Blood@twitter](https://twitter.com/PhD_Blood/status/1483835015373139968) | advertise |
 | [Phenomytian@twitter](https://twitter.com/Phenomytian/status/1457220077695094788) | advertise |
 | [PheThitZaw@twitter](https://twitter.com/PheThitZaw/status/1402660507362861060) | advertise |
+| [Phghoang11@twitter](https://twitter.com/Phghoang11/status/1515348519896317953) | advertise |
 | [PhHong20@twitter](https://twitter.com/PhHong20/status/1389017688685498370) | advertise |
 | [PhillipXin@twitter](https://twitter.com/PhillipXin/status/1378201985539772416) | advertise |
 | [PhiLong97356645@twitter](https://twitter.com/PhiLong97356645/status/1384967186071101442) | advertise |
@@ -7363,6 +7364,7 @@ Do not create new issue or we will close it as duplicate.
 | [VictorC67776723@twitter](https://twitter.com/VictorC67776723/status/1429202585097998336) | advertise |
 | [viem_tru@twitter](https://twitter.com/viem_tru/status/1395102795670327296) | advertise |
 | [Viet2008@twitter](https://twitter.com/Viet2008/status/1385497309346033664) | advertise |
+| [viet29667@twitter](https://twitter.com/viet29667/status/1515333253989023744) | advertise |
 | [Viet99519457@twitter](https://twitter.com/Viet99519457/status/1385786793413386240) | advertise |
 | [Vietanhlee07@twitter](https://twitter.com/Vietanhlee07/status/1400153433026433029) | advertise |
 | [viet_baby@twitter](https://twitter.com/viet_baby/status/1404265368147808256) | advertise |
