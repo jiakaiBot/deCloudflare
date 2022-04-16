@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | social | 131 |
 | net | 91 |
-| com | 88 |
+| com | 87 |
 | org | 60 |
 | jp | 43 |
 
@@ -270,7 +270,6 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
-| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -750,7 +749,6 @@ Here's a list of public Fediverse services.
 | pantdon.site | No |
 | pao.moe | Yes |
 | pars.ee | No |
-| patriot.online | No |
 | pawoo.net | No |
 | pcgamer.social | Yes |
 | persadon.com | No |
@@ -1130,7 +1128,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 867 |
+| Normal | 865 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
