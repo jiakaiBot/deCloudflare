@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 130 |
+| social | 131 |
 | net | 91 |
 | com | 88 |
 | org | 60 |
@@ -145,6 +145,7 @@ Here's a list of public Fediverse services.
 | comicscamp.club | No |
 | comm.cx | Yes |
 | contacthi.org | No |
+| convoglio.social | No |
 | coolmathgam.es | Yes |
 | crypt.lol | No |
 | cuties.social | No |
@@ -849,6 +850,7 @@ Here's a list of public Fediverse services.
 | shadowsocial.org | No |
 | shadowverdon.info | No |
 | shelter.moe | No |
+| shigusegubu.club | No |
 | shitcoin.land | Yes |
 | shitter.me | No |
 | sin.tyaku.com | No |
@@ -948,7 +950,6 @@ Here's a list of public Fediverse services.
 | social.techn1k.de | No |
 | social.tfwnogf.nl | No |
 | social.thisisjoes.site | No |
-| social.tilde.team | No |
 | social.troll.academy | No |
 | social.trom.tf | No |
 | social.tulsa.ok.us | No |
@@ -1129,7 +1130,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 866 |
+| Normal | 867 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
