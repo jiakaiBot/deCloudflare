@@ -40,7 +40,6 @@ Here's a list of public Fediverse services.
 | 4estate.media | No |
 | 4toot.org | No |
 | 9kb.me | No |
-| 19hundert84.de | No |
 | 123.social | No |
 | 1234.as | Yes |
 | 1689fellowship.com | Yes |
@@ -488,7 +487,6 @@ Here's a list of public Fediverse services.
 | mastodon.gougere.fr | No |
 | mastodon.greenpeace.ch | Yes |
 | mastodon.greenwichmeanti.me | No |
-| mastodon.habets.dev | No |
 | mastodon.hugopoi.net | No |
 | mastodon.hydrosaas.com | Yes |
 | mastodon.icu | No |
@@ -895,7 +893,6 @@ Here's a list of public Fediverse services.
 | social.diva.exchange | No |
 | social.drastical.tech | Yes |
 | social.dropbear.xyz | Yes |
-| social.dssr.ch | No |
 | social.exan.tech | Yes |
 | social.farend.co.jp | No |
 | social.fbxl.net | No |
@@ -949,6 +946,7 @@ Here's a list of public Fediverse services.
 | social.techn1k.de | No |
 | social.tfwnogf.nl | No |
 | social.thisisjoes.site | No |
+| social.tilde.team | No |
 | social.troll.academy | No |
 | social.trom.tf | No |
 | social.tulsa.ok.us | No |
@@ -1129,7 +1127,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 866 |
+| Normal | 864 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
