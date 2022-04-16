@@ -3545,6 +3545,7 @@ Do not create new issue or we will close it as duplicate.
 | [KristHtet@twitter](https://twitter.com/KristHtet/status/1393150746619564032) | advertise |
 | [Kritsad21025299@twitter](https://twitter.com/Kritsad21025299/status/1386895170054938630) | advertise |
 | [Kroniktotabuan@twitter](https://twitter.com/Kroniktotabuan/status/1453156761532203009) | advertise |
+| [krosty@twitter](https://twitter.com/krosty/status/1515216289207312384) | advertise |
 | [krunalp30106666@twitter](https://twitter.com/krunalp30106666/status/1402387067271667713) | advertise |
 | [KSalout@twitter](https://twitter.com/KSalout/status/1498335781013831686) | advertise |
 | [ksate0@twitter](https://twitter.com/ksate0/status/1379112018817376258) | advertise |
