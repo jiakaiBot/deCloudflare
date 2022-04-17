@@ -416,6 +416,7 @@ ns1-139.akam.net
 ns1-14.akam.net
 ns1-140.akam.net
 ns1-141.akam.net
+ns1-142.akam.net
 ns1-143.akam.net
 ns1-145.akam.net
 ns1-146.akam.net
@@ -516,6 +517,7 @@ ns1-253.akam.net
 ns1-254.akam.net
 ns1-27.akam.net
 ns1-28.akam.net
+ns1-29.akam.net
 ns1-3.akam.net
 ns1-30.akam.net
 ns1-31.akam.net
