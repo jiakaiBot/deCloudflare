@@ -6,6 +6,7 @@
 1983.awsdns-55.co.uk
 487.awsdns-60.com
 659.awsdns-18.net
+7n5-1226.awsdns-25.org
 g-ns-1045.awsdns-18.org
 g-ns-1054.awsdns-27.org
 g-ns-1156.awsdns-04.com
@@ -30,6 +31,7 @@ g-ns-724.awsdns-18.org
 g-ns-733.awsdns-27.org
 g-ns-935.awsdns-39.co.uk
 g-ns-961.awsdns-62.org
+n5-775.awsdns-32.net
 ns-0.awsdns-00.com
 ns-0.awsdns-us-gov-00.com
 ns-1.awsdns-00.com
@@ -2304,7 +2306,11 @@ ns1308.awsdns-35.org
 ns14.awsdns-01.com
 ns1583.awsdns-05.co.uk
 ns2.awsdns-100.net
+ns200.awsdns-45.us
+ns302.awsdns-45.us
 ns382.awsdns-47.com
+ns450.awsdns-45.us
+ns63.awsdns-45.us
 ns939.awsdns-53.net
 ns956.awsdns-55.net
 s-1076.awsdns-06.org
