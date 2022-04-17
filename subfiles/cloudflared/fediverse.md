@@ -887,6 +887,7 @@ Here's a list of public Fediverse services.
 | social.cologne | No |
 | social.computerfox.xyz | No |
 | social.coop | Yes |
+| social.daspr.io | Yes |
 | social.datalabour.com | No |
 | social.dev-wiki.de | Yes |
 | social.device5.co.uk | No |
@@ -1127,8 +1128,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 219 |
+| Cloudflare | 220 |
 | Normal | 865 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.3% of public Fediverse services are using Cloudflare.
