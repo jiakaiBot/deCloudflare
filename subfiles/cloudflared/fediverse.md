@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 131 |
-| net | 91 |
+| net | 92 |
 | com | 88 |
 | org | 59 |
 | jp | 43 |
@@ -88,6 +88,7 @@ Here's a list of public Fediverse services.
 | banana.dog | Yes |
 | bangdream.space | Yes |
 | barcamp.social | No |
+| bdx.town | No |
 | beach.city | No |
 | bear.community | No |
 | beepboop.one | No |
@@ -849,6 +850,7 @@ Here's a list of public Fediverse services.
 | shadowsocial.org | No |
 | shadowverdon.info | No |
 | shelter.moe | No |
+| shigusegubu.club | No |
 | shitcoin.land | Yes |
 | shitter.me | No |
 | sin.tyaku.com | No |
@@ -897,6 +899,7 @@ Here's a list of public Fediverse services.
 | social.dssr.ch | No |
 | social.exan.tech | Yes |
 | social.farend.co.jp | No |
+| social.fbxl.net | No |
 | social.finkhaeuser.de | No |
 | social.gl-como.it | No |
 | social.globalpirates.net | No |
@@ -1060,6 +1063,7 @@ Here's a list of public Fediverse services.
 | tutut.delire.party | No |
 | tweetrex.co.uk | No |
 | twingyeo.kr | Yes |
+| twinkaga.in | No |
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
@@ -1127,7 +1131,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 220 |
-| Normal | 863 |
+| Normal | 867 |
 
 
-### 20.3% of public Fediverse services are using Cloudflare.
+### 20.2% of public Fediverse services are using Cloudflare.
