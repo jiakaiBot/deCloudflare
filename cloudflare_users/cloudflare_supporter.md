@@ -2876,6 +2876,7 @@ Do not create new issue or we will close it as duplicate.
 | [jamza6024@twitter](https://twitter.com/jamza6024/status/1394436651519119362) | advertise |
 | [JaneBiotic@twitter](https://twitter.com/JaneBiotic/status/1399991547362529280) | advertise |
 | [JaneM64995631@twitter](https://twitter.com/JaneM64995631/status/1398681834393944070) | advertise |
+| [janholl39ffs@twitter](https://twitter.com/janholl39ffs/status/1515426068467011593) | advertise |
 | [japanh18@twitter](https://twitter.com/japanh18/status/1503593115609088001) | advertise |
 | [Japopi2@twitter](https://twitter.com/Japopi2/status/1399343770743848964) | advertise |
 | [JasanSmit@twitter](https://twitter.com/JasanSmit/status/1392514078766075905) | advertise |
@@ -4044,6 +4045,7 @@ Do not create new issue or we will close it as duplicate.
 | [malementari@twitter](https://twitter.com/malementari/status/1389639358957854723) | advertise |
 | [MaliJashwant@twitter](https://twitter.com/MaliJashwant/status/1381653419732074500) | advertise |
 | [MalithKaveesha@twitter](https://twitter.com/MalithKaveesha/status/1398239438782623744) | advertise |
+| [mallikiss@twitter](https://twitter.com/mallikiss/status/1515454565197692928) | advertise |
 | [MalluBoii@twitter](https://twitter.com/MalluBoii/status/1386720777110622218) | advertise |
 | [malvprass@twitter](https://twitter.com/malvprass/status/1385256169795588096) | advertise |
 | [malwifati@twitter](https://twitter.com/malwifati/status/1381271570304401408) | advertise |
