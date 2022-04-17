@@ -1,5 +1,5 @@
 # CfDomains
-### v1.0.2.2
+### v1.0.2.3
 
 CLI tool to look up Cloudflare domain list
 
