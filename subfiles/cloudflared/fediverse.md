@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 130 |
+| social | 131 |
 | net | 92 |
 | com | 88 |
 | org | 59 |
@@ -298,6 +298,7 @@ Here's a list of public Fediverse services.
 | hub.mtf.party | Yes |
 | hub.sakuragawa.moe | Yes |
 | hulvr.com | No |
+| hunk.city | No |
 | hyan.ink | Yes |
 | icosahedron.website | No |
 | idevs.id | Yes |
@@ -527,7 +528,6 @@ Here's a list of public Fediverse services.
 | mastodon.migennes.net | No |
 | mastodon.mit.edu | Yes |
 | mastodon.motcha.tech | Yes |
-| mastodon.multimob.be | No |
 | mastodon.nekomimi.jp | No |
 | mastodon.nestegg.net | No |
 | mastodon.nesven.eu | No |
@@ -866,7 +866,6 @@ Here's a list of public Fediverse services.
 | sneakerwave.net | Yes |
 | sneed.social | No |
 | socel.net | No |
-| social.0ko.me | No |
 | social.076.ne.jp | No |
 | social.3rensei.xyz | No |
 | social.4f9e1738.ignorelist.com | Yes |
@@ -1062,7 +1061,6 @@ Here's a list of public Fediverse services.
 | tutut.delire.party | No |
 | tweetrex.co.uk | No |
 | twingyeo.kr | Yes |
-| twinkaga.in | No |
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
@@ -1098,6 +1096,7 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1129,7 +1128,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 220 |
-| Normal | 865 |
+| Normal | 864 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
