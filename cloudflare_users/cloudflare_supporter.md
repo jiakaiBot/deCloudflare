@@ -493,6 +493,7 @@ Do not create new issue or we will close it as duplicate.
 | [anushka_wije@twitter](https://twitter.com/anushka_wije/status/1370919655980691461) | advertise |
 | [anusuyashetty12@twitter](https://twitter.com/anusuyashetty12/status/1386658904491261956) | advertise |
 | [an_bitcoin@twitter](https://twitter.com/an_bitcoin/status/1490527352249536514) | advertise |
+| [an_drewli@twitter](https://twitter.com/an_drewli/status/1515592623741812736) | advertise |
 | [Ao16112660@twitter](https://twitter.com/Ao16112660/status/1392660296032940032) | advertise |
 | [AoJo42113946@twitter](https://twitter.com/AoJo42113946/status/1388823215775092742) | advertise |
 | [aokarkyaw007@twitter](https://twitter.com/aokarkyaw007/status/1404758206526615560) | advertise |
@@ -2213,6 +2214,7 @@ Do not create new issue or we will close it as duplicate.
 | [haNguyn90737580@twitter](https://twitter.com/haNguyn90737580/status/1378411206134796289) | advertise |
 | [HanHlaingMyint1@twitter](https://twitter.com/HanHlaingMyint1/status/1389379591601594369) | advertise |
 | [HanhLe35954517@twitter](https://twitter.com/HanhLe35954517/status/1474412634313138179) | advertise |
+| [Hanhnhi93885752@twitter](https://twitter.com/Hanhnhi93885752/status/1515596390097121286) | advertise |
 | [haniomosh@twitter](https://twitter.com/haniomosh/status/1393657907040952320) | advertise |
 | [hanjingkonteng@twitter](https://twitter.com/hanjingkonteng/status/1404117376740646919) | advertise |
 | [HanJun2047@twitter](https://twitter.com/HanJun2047/status/1385163134193729536) | advertise |
@@ -4940,6 +4942,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguyenV1815512@twitter](https://twitter.com/NguyenV1815512/status/1401810564691611649) | advertise |
 | [NguyenV70727900@twitter](https://twitter.com/NguyenV70727900/status/1394424771102740480) | advertise |
 | [NguyenVanDac18@twitter](https://twitter.com/NguyenVanDac18/status/1389285628257341441) | advertise |
+| [nguyenvu7522@twitter](https://twitter.com/nguyenvu7522/status/1515545378485022721) | advertise |
 | [NguyenY68898354@twitter](https://twitter.com/NguyenY68898354/status/1485639837147623424) | advertise |
 | [Nguyen_An77@twitter](https://twitter.com/Nguyen_An77/status/1468175808900395010) | advertise |
 | [Nguyn09830528@twitter](https://twitter.com/Nguyn09830528/status/1485260434756096001) | advertise |
