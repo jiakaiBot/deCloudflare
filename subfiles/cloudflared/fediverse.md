@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | social | 130 |
 | net | 92 |
-| com | 87 |
+| com | 88 |
 | org | 59 |
 | jp | 43 |
 
@@ -271,6 +271,7 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
+| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -297,7 +298,6 @@ Here's a list of public Fediverse services.
 | hub.mtf.party | Yes |
 | hub.sakuragawa.moe | Yes |
 | hulvr.com | No |
-| hunk.city | No |
 | hyan.ink | Yes |
 | icosahedron.website | No |
 | idevs.id | Yes |
