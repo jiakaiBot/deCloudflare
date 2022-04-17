@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | social | 131 |
 | net | 91 |
-| com | 87 |
+| com | 88 |
 | org | 59 |
 | jp | 43 |
 
@@ -40,6 +40,7 @@ Here's a list of public Fediverse services.
 | 4estate.media | No |
 | 4toot.org | No |
 | 9kb.me | No |
+| 19hundert84.de | No |
 | 123.social | No |
 | 1234.as | Yes |
 | 1689fellowship.com | Yes |
@@ -87,7 +88,6 @@ Here's a list of public Fediverse services.
 | banana.dog | Yes |
 | bangdream.space | Yes |
 | barcamp.social | No |
-| bdx.town | No |
 | beach.city | No |
 | bear.community | No |
 | beepboop.one | No |
@@ -111,6 +111,7 @@ Here's a list of public Fediverse services.
 | boilingcong.ee | Yes |
 | bonn.social | No |
 | booktoot.club | No |
+| braydmedia.de | No |
 | bruder.space | No |
 | bsd.network | No |
 | bunt.social | No |
@@ -200,6 +201,7 @@ Here's a list of public Fediverse services.
 | ephemeral.glitch.social | No |
 | equestria.social | No |
 | eupublic.social | No |
+| explosion.party | No |
 | fairground.moe | No |
 | fandom.ink | Yes |
 | fanfare.horse | No |
@@ -268,6 +270,7 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
+| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -846,7 +849,6 @@ Here's a list of public Fediverse services.
 | shadowsocial.org | No |
 | shadowverdon.info | No |
 | shelter.moe | No |
-| shigusegubu.club | No |
 | shitcoin.land | Yes |
 | shitter.me | No |
 | sin.tyaku.com | No |
@@ -1058,7 +1060,6 @@ Here's a list of public Fediverse services.
 | tutut.delire.party | No |
 | tweetrex.co.uk | No |
 | twingyeo.kr | Yes |
-| twinkaga.in | No |
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
@@ -1126,7 +1127,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 220 |
-| Normal | 862 |
+| Normal | 863 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
