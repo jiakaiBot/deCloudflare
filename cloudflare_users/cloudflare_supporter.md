@@ -1183,6 +1183,7 @@ Do not create new issue or we will close it as duplicate.
 | [celotehsenja3@twitter](https://twitter.com/celotehsenja3/status/1506049300153118720) | advertise |
 | [cenozoic69@twitter](https://twitter.com/cenozoic69/status/1384936734073532418) | advertise |
 | [CentreElites@twitter](https://twitter.com/CentreElites/status/1500457148152786944) | advertise |
+| [cercvadze77777@twitter](https://twitter.com/cercvadze77777/status/1515782320233586691) | advertise |
 | [Cerise67529246@twitter](https://twitter.com/Cerise67529246/status/1390188271037075458) | advertise |
 | [cerqueira_io@twitter](https://twitter.com/cerqueira_io/status/1380589589463764994) | advertise |
 | [cesar15245284@twitter](https://twitter.com/cesar15245284/status/1498208854332555264) | advertise |
@@ -4037,6 +4038,7 @@ Do not create new issue or we will close it as duplicate.
 | [MaiVnTi54764591@twitter](https://twitter.com/MaiVnTi54764591/status/1396340065610059776) | advertise |
 | [maiykael@twitter](https://twitter.com/maiykael/status/1402267022659104779) | advertise |
 | [Majid661594081@twitter](https://twitter.com/Majid661594081/status/1401410937631002632) | advertise |
+| [MajkaSimoni@twitter](https://twitter.com/MajkaSimoni/status/1515750283569246221) | advertise |
 | [MajorLinux@twitter](https://twitter.com/MajorLinux/status/1378383167695040517) | advertise |
 | [makeiphone@twitter](https://twitter.com/makeiphone/status/1446381205394321408) | advertise |
 | [makis@tvitero.com](https://tvitero.com/@makis) | Banning account silently; Theft of Follower |
@@ -5511,6 +5513,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhyuLattMyint1@twitter](https://twitter.com/PhyuLattMyint1/status/1404753465872629760) | advertise |
 | [phyusinmyothant@twitter](https://twitter.com/phyusinmyothant/status/1390419304739315712) | advertise |
 | [Piejang06@twitter](https://twitter.com/Piejang06/status/1514667154599075844) | advertise |
+| [piemadd@twitter](https://twitter.com/piemadd/status/1515694696999366660) | advertise |
 | [pikaibaoooo@twitter](https://twitter.com/pikaibaoooo/status/1405738285477990404) | advertise |
 | [pin500295@twitter](https://twitter.com/pin500295/status/1405570904269025280) | advertise |
 | [Pineapp43234632@twitter](https://twitter.com/Pineapp43234632/status/1377259907519373322) | advertise |
@@ -6481,6 +6484,7 @@ Do not create new issue or we will close it as duplicate.
 | [spt_cp@twitter](https://twitter.com/spt_cp/status/1377690834888364032) | advertise |
 | [Sreejit13700215@twitter](https://twitter.com/Sreejit13700215/status/1388191035029823488) | advertise |
 | [sriyogeshkumar1@twitter](https://twitter.com/sriyogeshkumar1/status/1478380858981638146) | advertise |
+| [srl_donglink@twitter](https://twitter.com/srl_donglink/status/1515773433921310721) | advertise |
 | [ss6edgeaot@twitter](https://twitter.com/ss6edgeaot/status/1387133551456382976) | advertise |
 | [Ssa34135651@twitter](https://twitter.com/Ssa34135651/status/1393496502098546688) | advertise |
 | [SSakirikartheek@twitter](https://twitter.com/SSakirikartheek/status/1382151202616578051) | advertise |
@@ -6599,6 +6603,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sylla19072446@twitter](https://twitter.com/Sylla19072446/status/1392059309698265088) | advertise |
 | [Sylvhem@eldritch.cafe](https://eldritch.cafe/@Sylvhem) | attacked activist; see quote |
 | [synacksec@twitter](https://twitter.com/synacksec/status/1497422146007674883) | advertise |
+| [Sync_Pundit@twitter](https://twitter.com/Sync_Pundit/status/1515749859776675842) | advertise |
 | [SyndicatedLife@twitter](https://twitter.com/SyndicatedLife/status/1481295106892189696) | advertise |
 | [synram981@twitter](https://twitter.com/synram981/status/1390825351383699459) | advertise |
 | [sysdotini@twitter](https://twitter.com/sysdotini/status/1373351911060078592) | advertise |
