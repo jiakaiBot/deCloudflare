@@ -37,7 +37,7 @@ if (fs.existsSync(Fproxy)) {
 	}
 }
 function showUsage() {
-	console.log("\n	\x1b[33mCfDomains\x1b[0m  v1.0.2.2\n");
+	console.log("\n	\x1b[33mCfDomains\x1b[0m  v1.0.2.3\n");
 	console.log('\x1b[36mUsage:\x1b[0m');
 	console.log('	cfdomains \x1b[43mexample.com\x1b[0m');
 	console.log('	cfdomains --dir');
@@ -161,7 +161,7 @@ async function dlFiles(bu) {
 		forceExit('Directory not found!');
 	}
 	if (myproxy == '') {
-		console.log('\x1b[36mNOTICE\x1b[0m: You are not using any proxy.');
+		console.log('\x1b[36mNOTICE\x1b[0m: You are not using Tor.');
 	}
 	console.log('Downloading lists: ' + bu);
 	let w, names = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
@@ -274,13 +274,13 @@ async function reporters(yn) {
 		}
 	}
 	if (myproxy == '') {
-		console.log('\x1b[36mNOTICE\x1b[0m: You are not using any proxy.');
+		console.log('\x1b[36mNOTICE\x1b[0m: You are not using Tor.');
 	}
 	console.log('Reporting ' + dom);
 	let w = await reporter(dom, yn);
 	if (yn == 'y') {
 		if (w == '[true,true]') {
-			console.log('\x1b[32mResponse\x1b[0m: \x1b[33mNo\x1b[0m, It is already known. (try updating your local copy by --dl)');
+			console.log('\x1b[32mResponse\x1b[0m: \x1b[33mNo\x1b[0m, It is already known.');
 		} else if (w == '[true,false]') {
 			console.log('\x1b[32mResponse\x1b[0m: \x1b[35mRequest received\x1b[0m. It is not listed in \x1b[4mdelayed\x1b[0m channel at this moment.');
 		} else {
@@ -288,7 +288,7 @@ async function reporters(yn) {
 		}
 	} else {
 		if (w == '[true,false]') {
-			console.log('\x1b[32mResponse\x1b[0m: \x1b[33mNo\x1b[0m, It is not listed. (try updating your local copy by --dl)');
+			console.log('\x1b[32mResponse\x1b[0m: \x1b[33mNo\x1b[0m, It is not listed.');
 		} else if (w == '[true,true]') {
 			console.log('\x1b[32mResponse\x1b[0m: \x1b[35mRequest received\x1b[0m. It is listed in \x1b[4mdelayed\x1b[0m channel at this moment.');
 		} else {
@@ -306,7 +306,7 @@ if (args.length <= 2) {
 } else if (args[2] === '--dl') {
 	dlFiles('https://archive.org/download/crimeflare/');
 } else if (args[2] === '--dl2') {
-	dlFiles('https://mypdns.org/dCF/deCloudflare/-/raw/master/cloudflare_users/domains/JSON/');
+	dlFiles('https://framagit.org/dCF/deCloudflare/-/raw/master/cloudflare_users/domains/JSON/');
 } else if (args[2] === '--report') {
 	reporters('y');
 } else if (args[2] === '--delist') {
