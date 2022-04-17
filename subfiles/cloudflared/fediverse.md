@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 131 |
+| social | 130 |
 | net | 92 |
-| com | 88 |
+| com | 87 |
 | org | 59 |
 | jp | 43 |
 
@@ -271,7 +271,6 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
-| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -888,7 +887,6 @@ Here's a list of public Fediverse services.
 | social.cologne | No |
 | social.computerfox.xyz | No |
 | social.coop | Yes |
-| social.daspr.io | Yes |
 | social.datalabour.com | No |
 | social.dev-wiki.de | Yes |
 | social.device5.co.uk | No |
@@ -1099,7 +1097,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1130,8 +1127,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 220 |
-| Normal | 867 |
+| Cloudflare | 219 |
+| Normal | 865 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
