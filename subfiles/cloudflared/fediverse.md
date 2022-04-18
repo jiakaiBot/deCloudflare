@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 130 |
-| net | 90 |
+| net | 91 |
 | com | 86 |
 | org | 59 |
 | jp | 43 |
@@ -451,7 +451,6 @@ Here's a list of public Fediverse services.
 | mastodon.astrr.ru | Yes |
 | mastodon.atikoro.net | No |
 | mastodon.aventer.biz | No |
-| mastodon.bachgau.social | No |
 | mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
@@ -919,6 +918,7 @@ Here's a list of public Fediverse services.
 | social.matej-lach.me | No |
 | social.mecanis.me | Yes |
 | social.mfraters.net | No |
+| social.mikutter.hachune.net | No |
 | social.mochi.academy | No |
 | social.mofu2charger-listenradio.net | No |
 | social.mootech.eu | No |
@@ -1058,7 +1058,6 @@ Here's a list of public Fediverse services.
 | tutut.delire.party | No |
 | tweetrex.co.uk | No |
 | twingyeo.kr | Yes |
-| twinkaga.in | No |
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
@@ -1094,6 +1093,7 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
