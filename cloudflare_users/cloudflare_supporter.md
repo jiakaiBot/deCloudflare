@@ -2575,6 +2575,7 @@ Do not create new issue or we will close it as duplicate.
 | [HtoohtetL@twitter](https://twitter.com/HtoohtetL/status/1390968346842173443) | advertise |
 | [HtooHto29422369@twitter](https://twitter.com/HtooHto29422369/status/1391661426314387458) | advertise |
 | [HtooHtooEaint1@twitter](https://twitter.com/HtooHtooEaint1/status/1381534064839061505) | advertise |
+| [htookoko19294@twitter](https://twitter.com/htookoko19294/status/1516005284623556610) | advertise |
 | [HtooLay78708826@twitter](https://twitter.com/HtooLay78708826/status/1393573561705455620) | advertise |
 | [htoomyathtet7@twitter](https://twitter.com/htoomyathtet7/status/1392921670323621888) | advertise |
 | [HtooMyatMoe4@twitter](https://twitter.com/HtooMyatMoe4/status/1393625391223476231) | advertise |
@@ -3252,6 +3253,7 @@ Do not create new issue or we will close it as duplicate.
 | [KeshavBP1@twitter](https://twitter.com/KeshavBP1/status/1380784361436368896) | advertise |
 | [keshavrai@twitter](https://twitter.com/keshavrai/status/1399420764885962763) | advertise |
 | [kevilhau@twitter](https://twitter.com/kevilhau/status/1381681452455108609) | advertise |
+| [KevinCa23673515@twitter](https://twitter.com/KevinCa23673515/status/1515993450872819712) | advertise |
 | [KevinMika7@twitter](https://twitter.com/KevinMika7/status/1387491734066696192) | advertise |
 | [KevinVu184@twitter](https://twitter.com/KevinVu184/status/1462324991106502658) | advertise |
 | [kevin_pirnie@twitter](https://twitter.com/kevin_pirnie/status/1495525303963238400) | advertise |
@@ -8038,6 +8040,7 @@ Do not create new issue or we will close it as duplicate.
 | [zrqofficial@twitter](https://twitter.com/zrqofficial/status/1397715275596800000) | advertise |
 | [zScn4EFpzZCeVzx@twitter](https://twitter.com/zScn4EFpzZCeVzx/status/1383128637285683201) | advertise |
 | [zshell_zi@twitter](https://twitter.com/zshell_zi/status/1489283834311024645) | advertise |
+| [ZStravnik@twitter](https://twitter.com/ZStravnik/status/1515982927552823296) | advertise |
 | [ZueffCoder@twitter](https://twitter.com/ZueffCoder/status/1456673609473314818) | advertise |
 | [ZuHlaingWin2@twitter](https://twitter.com/ZuHlaingWin2/status/1392026289674981378) | advertise |
 | [zulfadlieber@twitter](https://twitter.com/zulfadlieber/status/1404423041573027844) | advertise |
