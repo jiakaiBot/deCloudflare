@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 129 |
+| social | 131 |
 | net | 92 |
-| com | 87 |
+| com | 86 |
 | org | 59 |
 | jp | 43 |
 
@@ -228,6 +228,7 @@ Here's a list of public Fediverse services.
 | forum.friendi.ca | No |
 | fosstodon.org | No |
 | fox.masto.host | No |
+| foxesare.sexy | Yes |
 | fr.got-tty.org | No |
 | fr.osm.social | No |
 | framapiaf.org | No |
@@ -270,7 +271,6 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
-| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -825,7 +825,6 @@ Here's a list of public Fediverse services.
 | ruby.social | No |
 | ruhr.social | No |
 | s.ovalerio.net | Yes |
-| salocha.online | Yes |
 | san-junipero.gimme-sympathy.org | No |
 | sandbox.skoji.jp | No |
 | sansschatten.com | No |
@@ -909,6 +908,7 @@ Here's a list of public Fediverse services.
 | social.illegalpornography.com | No |
 | social.integritymo.de | No |
 | social.jesuislibre.net | No |
+| social.ksite.de | No |
 | social.lescorpsdereve.space | Yes |
 | social.levelxstudios.org | No |
 | social.librem.one | No |
@@ -1044,6 +1044,7 @@ Here's a list of public Fediverse services.
 | tooting.intensifi.es | No |
 | toots.benpro.fr | Yes |
 | toots.slothy.win | Yes |
+| toots.social | Yes |
 | topic-master.com | No |
 | transmom.love | No |
 | travel-friends.chat | No |
@@ -1095,6 +1096,7 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1125,8 +1127,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 217 |
-| Normal | 865 |
+| Cloudflare | 218 |
+| Normal | 866 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
