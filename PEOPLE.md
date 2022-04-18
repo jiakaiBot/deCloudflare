@@ -353,6 +353,11 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [Lies in Privacy Policy & Consider ditching CloudFlare](https://github.com/languagetool-org/languagetool/issues/6556)
+- [Cloudflare blocks API call from command line](https://github.com/aarreedd/uuidtools.com/issues/34)
+- [request blocked by Cloudflare](https://github.com/sjoerd1999/Hotbit_API/issues/1)
+- [Blocked by Cloudflare](https://github.com/oktrifianto/ads.txt-Scraper/issues/1)
+- [Request blocked by CloudFlare](https://github.com/PrismarineJS/mineflayer/issues/2556)
 - [getting cloudflare page](https://github.com/zhkrb/cloudflare-scrape-Android/issues/26)
 - [Cloudflare somehow detects and blocks httransform](https://github.com/9seconds/httransform/issues/26)
 - [Block by CORS on Cloudflare](https://github.com/FriendlyCaptcha/friendly-challenge/issues/47)
