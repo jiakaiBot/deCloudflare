@@ -2397,6 +2397,7 @@ Do not create new issue or we will close it as duplicate.
 | [hmonethawtar@twitter](https://twitter.com/hmonethawtar/status/1391661251399356421) | advertise |
 | [hmoo_yint@twitter](https://twitter.com/hmoo_yint/status/1376867328655167489) | advertise |
 | [HmueWah@twitter](https://twitter.com/HmueWah/status/1390065653806034944) | advertise |
+| [hn40147@twitter](https://twitter.com/hn40147/status/1515949214903111682) | advertise |
 | [Hn53502@twitter](https://twitter.com/Hn53502/status/1500090041405952007) | advertise |
 | [Hng25016334@twitter](https://twitter.com/Hng25016334/status/1404028778926403584) | advertise |
 | [hng49153156@twitter](https://twitter.com/hng49153156/status/1395678619909771266) | advertise |
@@ -3123,6 +3124,7 @@ Do not create new issue or we will close it as duplicate.
 | [kalilinuxtips@twitter](https://twitter.com/kalilinuxtips/status/1411302042220568576) | moral (advertise) |
 | [KallyDev@twitter](https://twitter.com/KallyDev/status/1385031151211798529) | advertise |
 | [kalvados_prod@twitter](https://twitter.com/kalvados_prod/status/1379381156609671170) | advertise |
+| [kamalW72237036@twitter](https://twitter.com/kamalW72237036/status/1515912575694905354) | advertise |
 | [kamelmansouri@twitter](https://twitter.com/kamelmansouri/status/1470652684206321672) | advertise |
 | [kamey258@twitter](https://twitter.com/kamey258/status/1379869168061837313) | advertise |
 | [Kamik0s@twitter](https://twitter.com/Kamik0s/status/1422688620096393219) | advertise |
@@ -5005,6 +5007,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynTrnhHongA3@twitter](https://twitter.com/NguynTrnhHongA3/status/1401956424331137028) | advertise |
 | [NguynTrnQuanSa1@twitter](https://twitter.com/NguynTrnQuanSa1/status/1377658912007102464) | advertise |
 | [Nguynvn32504660@twitter](https://twitter.com/Nguynvn32504660/status/1400969920246996996) | advertise |
+| [Nguynvn62079714@twitter](https://twitter.com/Nguynvn62079714/status/1515947957765689344) | advertise |
 | [NguynVn66653963@twitter](https://twitter.com/NguynVn66653963/status/1377554948997611522) | advertise |
 | [NguynVn96285547@twitter](https://twitter.com/NguynVn96285547/status/1471311673088569348) | advertise |
 | [nguynvusn1@twitter](https://twitter.com/nguynvusn1/status/1395783348346265602) | advertise |
