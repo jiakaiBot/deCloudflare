@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 131 |
-| net | 92 |
-| com | 87 |
+| social | 130 |
+| net | 90 |
+| com | 86 |
 | org | 59 |
 | jp | 43 |
 
@@ -202,6 +202,7 @@ Here's a list of public Fediverse services.
 | ephemeral.glitch.social | No |
 | equestria.social | No |
 | eupublic.social | No |
+| explosion.party | No |
 | fairground.moe | No |
 | fandom.ink | Yes |
 | fanfare.horse | No |
@@ -270,7 +271,6 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
-| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -558,6 +558,7 @@ Here's a list of public Fediverse services.
 | mastodon.scot | No |
 | mastodon.sergal.org | Yes |
 | mastodon.shantih19.xyz | No |
+| mastodon.sk | No |
 | mastodon.social | No |
 | mastodon.space | No |
 | mastodon.sxpert.org | No |
@@ -696,6 +697,7 @@ Here's a list of public Fediverse services.
 | my.brick.camp | No |
 | my.dirtyhobby.xyz | No |
 | my0.net | No |
+| mysim.online | No |
 | mytoot.de | No |
 | nagoyadon.jp | Yes |
 | natudon-fishing.net | No |
@@ -772,7 +774,6 @@ Here's a list of public Fediverse services.
 | pleroma.oook.fr | No |
 | pleroma.otter.sh | No |
 | pleroma.soykaf.com | No |
-| plural.cafe | No |
 | plush.city | No |
 | plustodon.net | Yes |
 | poa.st | Yes |
@@ -918,11 +919,9 @@ Here's a list of public Fediverse services.
 | social.matej-lach.me | No |
 | social.mecanis.me | Yes |
 | social.mfraters.net | No |
-| social.mikutter.hachune.net | No |
 | social.mochi.academy | No |
 | social.mofu2charger-listenradio.net | No |
 | social.mootech.eu | No |
-| social.myconan.net | Yes |
 | social.nah.re | No |
 | social.nvdc.ovh | Yes |
 | social.oupsman.fr | No |
@@ -1095,7 +1094,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1126,8 +1124,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 219 |
-| Normal | 864 |
+| Cloudflare | 218 |
+| Normal | 863 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
