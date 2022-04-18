@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 130 |
+| social | 131 |
 | net | 92 |
-| com | 88 |
+| com | 87 |
 | org | 59 |
 | jp | 43 |
 
@@ -202,7 +202,6 @@ Here's a list of public Fediverse services.
 | ephemeral.glitch.social | No |
 | equestria.social | No |
 | eupublic.social | No |
-| explosion.party | No |
 | fairground.moe | No |
 | fandom.ink | Yes |
 | fanfare.horse | No |
@@ -472,6 +471,7 @@ Here's a list of public Fediverse services.
 | mastodon.communick.com | Yes |
 | mastodon.conxtor.com | No |
 | mastodon.cosmicanimal.jp | No |
+| mastodon.cpn.so | Yes |
 | mastodon.crazynewworld.net | Yes |
 | mastodon.ctseuro.com | No |
 | mastodon.design | No |
@@ -847,6 +847,7 @@ Here's a list of public Fediverse services.
 | shadowsocial.org | No |
 | shadowverdon.info | No |
 | shelter.moe | No |
+| shigusegubu.club | No |
 | shitcoin.land | Yes |
 | shitter.me | No |
 | sin.tyaku.com | No |
@@ -866,7 +867,6 @@ Here's a list of public Fediverse services.
 | social.0ko.me | No |
 | social.076.ne.jp | No |
 | social.3rensei.xyz | No |
-| social.4f9e1738.ignorelist.com | Yes |
 | social.anon-groups.de | No |
 | social.anoxinon.de | No |
 | social.anthro.cc | No |
@@ -1095,6 +1095,7 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1126,7 +1127,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 863 |
+| Normal | 864 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
