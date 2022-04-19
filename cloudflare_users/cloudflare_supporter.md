@@ -1053,6 +1053,7 @@ Do not create new issue or we will close it as duplicate.
 | [boonpraserd@twitter](https://twitter.com/boonpraserd/status/1383968362137411589) | advertise |
 | [BoonsomJack@twitter](https://twitter.com/BoonsomJack/status/1392867374039060485) | advertise |
 | [boonza2546@twitter](https://twitter.com/boonza2546/status/1379747386071773184) | advertise |
+| [BoozelLynn@twitter](https://twitter.com/BoozelLynn/status/1516227858288586757) | advertise |
 | [boquiscarl@twitter](https://twitter.com/boquiscarl/status/1395371406888632326) | advertise |
 | [Borahayyo1@twitter](https://twitter.com/Borahayyo1/status/1399900362568613895) | advertise |
 | [boredartclub@twitter](https://twitter.com/boredartclub/status/1472866208814964740) | advertise |
@@ -2085,6 +2086,7 @@ Do not create new issue or we will close it as duplicate.
 | [GLIZZY49306620@twitter](https://twitter.com/GLIZZY49306620/status/1393570520843493382) | advertise |
 | [global354921@twitter](https://twitter.com/global354921/status/1393984954078400513) | advertise |
 | [GLsaisai@twitter](https://twitter.com/GLsaisai/status/1394137969024401410) | advertise |
+| [GMinzolt@twitter](https://twitter.com/GMinzolt/status/1516134801056575491) | advertise |
 | [gm_dalour@twitter](https://twitter.com/gm_dalour/status/1492016772924702720) | advertise |
 | [GnaneswarM2@twitter](https://twitter.com/GnaneswarM2/status/1387579999209725956) | advertise |
 | [GnaneswarNaidu3@twitter](https://twitter.com/GnaneswarNaidu3/status/1397087799518449669) | advertise |
@@ -3097,6 +3099,7 @@ Do not create new issue or we will close it as duplicate.
 | [jwidovich@twitter](https://twitter.com/jwidovich/status/1439914824306241538) | advertise |
 | [Jwii72693784@twitter](https://twitter.com/Jwii72693784/status/1384720864625664002) | advertise |
 | [JyTrung@twitter](https://twitter.com/JyTrung/status/1397760199260196864) | advertise |
+| [J_Gat@twitter](https://twitter.com/J_Gat/status/1516156671235694598) | advertise |
 | [K04975245@twitter](https://twitter.com/K04975245/status/1395085262732943361) | advertise |
 | [K2DR7HtBoIKC1g1@twitter](https://twitter.com/K2DR7HtBoIKC1g1/status/1378253350177677312) | advertise |
 | [k4slam@twitter](https://twitter.com/k4slam/status/1463970945727664128) | advertise |
@@ -3918,6 +3921,8 @@ Do not create new issue or we will close it as duplicate.
 | [Loren75832409@twitter](https://twitter.com/Loren75832409/status/1395048080441962505) | advertise |
 | [lorencialord@twitter](https://twitter.com/lorencialord/status/1384901052823113731) | advertise |
 | [LorenzoNolberto@twitter](https://twitter.com/LorenzoNolberto/status/1505933975545597956) | advertise |
+| [Loui519@twitter](https://twitter.com/Loui519/status/1516215159811112960) | advertise |
+| [Louie_888Fun@twitter](https://twitter.com/Louie_888Fun/status/1516214532519399425) | advertise |
 | [LouisDang13@twitter](https://twitter.com/LouisDang13/status/1394819629336317955) | advertise |
 | [LouisNguyen307@twitter](https://twitter.com/LouisNguyen307/status/1496998018398056448) | advertise |
 | [louis_siu@twitter](https://twitter.com/louis_siu/status/1504838925868621832) | advertise |
@@ -4875,6 +4880,7 @@ Do not create new issue or we will close it as duplicate.
 | [NerdClump@twitter](https://twitter.com/NerdClump/status/1385680403738947585) | advertise |
 | [NerdJunction@twitter](https://twitter.com/NerdJunction/status/1379503700805361668) | advertise |
 | [Net89M@twitter](https://twitter.com/Net89M/status/1389576494750392322) | advertise |
+| [Netsoe78207270@twitter](https://twitter.com/Netsoe78207270/status/1516136735192727555) | advertise |
 | [netwizsolutions@twitter](https://twitter.com/netwizsolutions/status/1435732778264453125) | advertise |
 | [NetworksTimesUS@twitter](https://twitter.com/NetworksTimesUS/status/1465907575241658368) | advertise |
 | [networks_times@twitter](https://twitter.com/networks_times/status/1465907575241658368) | advertise |
@@ -5720,6 +5726,7 @@ Do not create new issue or we will close it as duplicate.
 | [Quo35259089@twitter](https://twitter.com/Quo35259089/status/1386228152406401024) | advertise |
 | [Quocbao10601948@twitter](https://twitter.com/Quocbao10601948/status/1386125895648219141) | advertise |
 | [quuyentrann@twitter](https://twitter.com/quuyentrann/status/1401784856070090755) | advertise |
+| [quyen77692@twitter](https://twitter.com/quyen77692/status/1516242107316404225) | advertise |
 | [quyetcoi1905@twitter](https://twitter.com/quyetcoi1905/status/1493163304373522433) | advertise |
 | [quylele009@twitter](https://twitter.com/quylele009/status/1400397369024270342) | advertise |
 | [quynhcao366@twitter](https://twitter.com/quynhcao366/status/1401426991669080069) | advertise |
@@ -7652,6 +7659,7 @@ Do not create new issue or we will close it as duplicate.
 | [XeroGravity16@twitter](https://twitter.com/XeroGravity16/status/1402320760954228736) | advertise |
 | [xetrisolta@twitter](https://twitter.com/xetrisolta/status/1386306457964924931) | advertise |
 | [XFG3B@twitter](https://twitter.com/XFG3B/status/1382990065660358658) | advertise |
+| [xfikriarif@twitter](https://twitter.com/xfikriarif/status/1516148640225841152) | advertise |
 | [XHs@twitter](https://twitter.com/XHs/status/1457943621861199874) | advertise |
 | [xiaomao85622541@twitter](https://twitter.com/xiaomao85622541/status/1391819655287689221) | advertise |
 | [Xiaoqingxxx1@twitter](https://twitter.com/Xiaoqingxxx1/status/1478846246299189248) | advertise |
