@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | social | 130 |
 | net | 92 |
-| com | 86 |
+| com | 85 |
 | org | 58 |
 | jp | 43 |
 
@@ -84,7 +84,6 @@ Here's a list of public Fediverse services.
 | b612.me | Yes |
 | babymetal.party | No |
 | backyard.cloud | No |
-| balkan.fedive.rs | No |
 | banana.dog | Yes |
 | bangdream.space | Yes |
 | barcamp.social | No |
@@ -450,6 +449,7 @@ Here's a list of public Fediverse services.
 | mastodon.astrr.ru | Yes |
 | mastodon.atikoro.net | No |
 | mastodon.aventer.biz | No |
+| mastodon.bachgau.social | No |
 | mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
@@ -549,6 +549,7 @@ Here's a list of public Fediverse services.
 | mastodon.radio | No |
 | mastodon.roflcopter.fr | No |
 | mastodon.rosenberg-watt.com | No |
+| mastodon.rousset.nom.fr | No |
 | mastodon.s-yurama.com | No |
 | mastodon.sandwich.net | No |
 | mastodon.sardo.work | Yes |
@@ -847,7 +848,6 @@ Here's a list of public Fediverse services.
 | shadowsocial.org | No |
 | shadowverdon.info | No |
 | shelter.moe | No |
-| shigusegubu.club | No |
 | shitcoin.land | Yes |
 | shitter.me | No |
 | sin.tyaku.com | No |
@@ -876,7 +876,6 @@ Here's a list of public Fediverse services.
 | social.ballpointcarrot.net | No |
 | social.beepboop.ga | No |
 | social.bim.land | No |
-| social.bobcall.me | No |
 | social.buckket.org | No |
 | social.chinwag.org | Yes |
 | social.coletivos.org | No |
@@ -975,7 +974,6 @@ Here's a list of public Fediverse services.
 | stoneartprod.xyz | No |
 | stop.voring.me | No |
 | straylight.expectnomore.net | No |
-| sts.ditatompel.com | Yes |
 | subversive.zone | No |
 | sumanko.ml | Yes |
 | summoners-riftodon.jp | No |
@@ -1094,7 +1092,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1125,8 +1122,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 219 |
-| Normal | 863 |
+| Cloudflare | 218 |
+| Normal | 861 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
