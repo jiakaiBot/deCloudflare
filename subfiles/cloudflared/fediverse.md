@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | social | 130 |
 | net | 92 |
-| com | 87 |
-| org | 59 |
+| com | 86 |
+| org | 58 |
 | jp | 43 |
 
 
@@ -83,6 +83,7 @@ Here's a list of public Fediverse services.
 | awoo.pub | Yes |
 | b612.me | Yes |
 | babymetal.party | No |
+| backyard.cloud | No |
 | balkan.fedive.rs | No |
 | banana.dog | Yes |
 | bangdream.space | Yes |
@@ -270,7 +271,6 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
-| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -418,7 +418,6 @@ Here's a list of public Fediverse services.
 | maly.io | Yes |
 | mammouth.inframed.net | No |
 | mamot.fr | No |
-| mamut.tic-ac.org | No |
 | manowar.social | No |
 | maoh.company | Yes |
 | maron.blue | No |
@@ -451,7 +450,6 @@ Here's a list of public Fediverse services.
 | mastodon.astrr.ru | Yes |
 | mastodon.atikoro.net | No |
 | mastodon.aventer.biz | No |
-| mastodon.bachgau.social | No |
 | mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
@@ -551,7 +549,6 @@ Here's a list of public Fediverse services.
 | mastodon.radio | No |
 | mastodon.roflcopter.fr | No |
 | mastodon.rosenberg-watt.com | No |
-| mastodon.rousset.nom.fr | No |
 | mastodon.s-yurama.com | No |
 | mastodon.sandwich.net | No |
 | mastodon.sardo.work | Yes |
@@ -1097,6 +1094,7 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1128,7 +1126,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 865 |
+| Normal | 863 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
