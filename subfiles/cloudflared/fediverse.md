@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | social | 131 |
 | net | 92 |
-| com | 88 |
+| com | 86 |
 | org | 59 |
-| jp | 43 |
+| jp | 42 |
 
 
 - Mastodon, Pleroma, etc
@@ -44,7 +44,6 @@ Here's a list of public Fediverse services.
 | 123.social | No |
 | 1234.as | Yes |
 | 1689fellowship.com | Yes |
-| 7144.party | No |
 | 101010.pl | No |
 | aachen.social | No |
 | aana.site | No |
@@ -122,7 +121,6 @@ Here's a list of public Fediverse services.
 | capitalism.party | No |
 | carnivore.social | Yes |
 | catdon.life | No |
-| catgram.jp | Yes |
 | cathode.church | No |
 | cawfee.club | No |
 | chabant.social | No |
@@ -271,7 +269,6 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
-| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -871,7 +868,6 @@ Here's a list of public Fediverse services.
 | social.0ko.me | No |
 | social.076.ne.jp | No |
 | social.3rensei.xyz | No |
-| social.4f9e1738.ignorelist.com | Yes |
 | social.anon-groups.de | No |
 | social.anoxinon.de | No |
 | social.anufrij.de | No |
@@ -1130,8 +1126,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 220 |
-| Normal | 867 |
+| Cloudflare | 218 |
+| Normal | 865 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.1% of public Fediverse services are using Cloudflare.
