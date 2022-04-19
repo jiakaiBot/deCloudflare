@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 129 |
+| social | 130 |
 | net | 92 |
-| com | 86 |
+| com | 87 |
 | org | 59 |
-| jp | 42 |
+| jp | 43 |
 
 
 - Mastodon, Pleroma, etc
@@ -83,7 +83,6 @@ Here's a list of public Fediverse services.
 | awoo.pub | Yes |
 | b612.me | Yes |
 | babymetal.party | No |
-| backyard.cloud | No |
 | balkan.fedive.rs | No |
 | banana.dog | Yes |
 | bangdream.space | Yes |
@@ -133,6 +132,7 @@ Here's a list of public Fediverse services.
 | cheeky.red | No |
 | chirpi.de | No |
 | chitter.xyz | No |
+| chomp.life | No |
 | chromabits.com | No |
 | cigarcabin.com | No |
 | clacks.link | No |
@@ -201,6 +201,7 @@ Here's a list of public Fediverse services.
 | ephemeral.glitch.social | No |
 | equestria.social | No |
 | eupublic.social | No |
+| explosion.party | No |
 | fairground.moe | No |
 | fandom.ink | Yes |
 | fanfare.horse | No |
@@ -289,6 +290,7 @@ Here's a list of public Fediverse services.
 | hessen.social | No |
 | hispagatos.space | No |
 | hokutodon.co | No |
+| homoo.social | No |
 | hostsharing.coop | No |
 | hostux.social | No |
 | hotmail.com | No |
@@ -321,6 +323,7 @@ Here's a list of public Fediverse services.
 | is.nota.live | No |
 | ischool.social | No |
 | iscute.moe | No |
+| itabashi.0j0.jp | No |
 | iwatedon.net | No |
 | iys.io | Yes |
 | jako.social | Yes |
@@ -355,6 +358,7 @@ Here's a list of public Fediverse services.
 | koreadon.com | No |
 | kosmos.social | No |
 | kottman.xyz | No |
+| koyu.space | Yes |
 | kpop.social | Yes |
 | krefeld.life | No |
 | kurage.cc | No |
@@ -795,6 +799,7 @@ Here's a list of public Fediverse services.
 | pub.pm | Yes |
 | puntarella.party | No |
 | puz.fun | No |
+| pwet.orion-hub.fr | No |
 | qdon.space | Yes |
 | qoto.org | No |
 | queer.af | No |
@@ -845,6 +850,7 @@ Here's a list of public Fediverse services.
 | shadowsocial.org | No |
 | shadowverdon.info | No |
 | shelter.moe | No |
+| shigusegubu.club | No |
 | shitcoin.land | Yes |
 | shitter.me | No |
 | sin.tyaku.com | No |
@@ -928,6 +934,7 @@ Here's a list of public Fediverse services.
 | social.saarland | No |
 | social.seattle.wa.us | No |
 | social.shadowfacts.net | Yes |
+| social.simcu.com | No |
 | social.sitedethib.com | No |
 | social.slat.org | No |
 | social.smnz.de | No |
@@ -1038,6 +1045,7 @@ Here's a list of public Fediverse services.
 | tooting.intensifi.es | No |
 | toots.benpro.fr | Yes |
 | toots.slothy.win | Yes |
+| toots.social | Yes |
 | topic-master.com | No |
 | transmom.love | No |
 | travel-friends.chat | No |
@@ -1089,7 +1097,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1120,8 +1127,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 217 |
-| Normal | 860 |
+| Cloudflare | 219 |
+| Normal | 865 |
 
 
-### 20.1% of public Fediverse services are using Cloudflare.
+### 20.2% of public Fediverse services are using Cloudflare.
