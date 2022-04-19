@@ -353,6 +353,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [SSL certificate error](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2011)
 - [ERROR 403: Forbidden when running "./btcputil/fetch-params.sh"](https://github.com/BTCPrivate/BitcoinPrivate-legacy/issues/256)
 - [CP don't work if cloudflare is denying access](https://github.com/statamic/cms/issues/5763)
 - [Attention Required! | Cloudflare](https://github.com/dropod/issues/issues/18692)
