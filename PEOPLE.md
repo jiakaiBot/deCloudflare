@@ -355,6 +355,9 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [Feature Work around Cloudflare issues (discussion)](https://github.com/FreshRSS/FreshRSS/issues/4323)
+- [Cloudflare CDN offers expired cert from CN = ssl392509.cloudflaressl.com](https://github.com/Cisco-Talos/clamav/issues/555)
+- [Seemingly invalid error when using an assumed role, with a module, and a private AMI image.](https://github.com/terraform-linters/tflint-ruleset-aws/issues/337)
 - [Cloudflare record update fails](https://github.com/mholt/caddy-dynamicdns/issues/24)
 - [Handle JSON decode error from coingecko temp ban](https://github.com/tellor-io/telliot-feed-examples/issues/170)
 - [Data Undefined - When running locally (403 Forbidden)](https://github.com/dhvitOP/AnimeEZ/issues/3)
