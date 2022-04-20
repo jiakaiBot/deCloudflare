@@ -1733,6 +1733,7 @@ Do not create new issue or we will close it as duplicate.
 | [duyduy997@twitter](https://twitter.com/duyduy997/status/1471993390979977217) | advertise |
 | [duyhngNguyn12@twitter](https://twitter.com/duyhngNguyn12/status/1382329274225487874) | advertise |
 | [Duyke5@twitter](https://twitter.com/Duyke5/status/1388182505082155012) | advertise |
+| [DuyKhoi680029@twitter](https://twitter.com/DuyKhoi680029/status/1516811082567852036) | advertise |
 | [DuyNguy87645607@twitter](https://twitter.com/DuyNguy87645607/status/1399734268423639050) | advertise |
 | [Duynkim8@twitter](https://twitter.com/Duynkim8/status/1408479143067459584) | advertise |
 | [DuyThnh23103428@twitter](https://twitter.com/DuyThnh23103428/status/1515883211372769280) | advertise |
@@ -4345,6 +4346,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinhAnh25122007@twitter](https://twitter.com/MinhAnh25122007/status/1403191817101737988) | advertise |
 | [MinhAnh32753974@twitter](https://twitter.com/MinhAnh32753974/status/1493253864212287488) | advertise |
 | [minhanzaw@twitter](https://twitter.com/minhanzaw/status/1393683652240842753) | advertise |
+| [MinhCh28879428@twitter](https://twitter.com/MinhCh28879428/status/1516803821519147011) | advertise |
 | [MinHein87584396@twitter](https://twitter.com/MinHein87584396/status/1393982797531041798) | advertise |
 | [minhhanchannel@twitter](https://twitter.com/minhhanchannel/status/1468750702725906434) | advertise |
 | [MinhHieuDuong6@twitter](https://twitter.com/MinhHieuDuong6/status/1396642306049024008) | advertise |
@@ -5028,6 +5030,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynTrngPhcHn2@twitter](https://twitter.com/NguynTrngPhcHn2/status/1389292187704119296) | advertise |
 | [NguynTrnhHongA3@twitter](https://twitter.com/NguynTrnhHongA3/status/1401956424331137028) | advertise |
 | [NguynTrnQuanSa1@twitter](https://twitter.com/NguynTrnQuanSa1/status/1377658912007102464) | advertise |
+| [NguynVitTm1@twitter](https://twitter.com/NguynVitTm1/status/1516778185018712067) | advertise |
 | [Nguynvn32504660@twitter](https://twitter.com/Nguynvn32504660/status/1400969920246996996) | advertise |
 | [Nguynvn62079714@twitter](https://twitter.com/Nguynvn62079714/status/1515947957765689344) | advertise |
 | [NguynVn66653963@twitter](https://twitter.com/NguynVn66653963/status/1377554948997611522) | advertise |
@@ -7328,6 +7331,7 @@ Do not create new issue or we will close it as duplicate.
 | [UNay33811485@twitter](https://twitter.com/UNay33811485/status/1391301681929850883) | advertise |
 | [UNayLin21463587@twitter](https://twitter.com/UNayLin21463587/status/1385261437493420044) | advertise |
 | [UncalW@twitter](https://twitter.com/UncalW/status/1396539194676105216) | advertise |
+| [Uncle_Jerold@twitter](https://twitter.com/Uncle_Jerold/status/1516793943060455428) | advertise |
 | [Uncle_Megx@twitter](https://twitter.com/Uncle_Megx/status/1401113870241042432) | advertise |
 | [Underta090909@twitter](https://twitter.com/Underta090909/status/1498388111012753408) | advertise |
 | [UNgeLay21962396@twitter](https://twitter.com/UNgeLay21962396/status/1392031101913206784) | advertise |
