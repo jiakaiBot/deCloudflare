@@ -162,6 +162,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [Suddenly Sickness Feels, Cloudflare, really F-Droid?](https://forum.f-droid.org/t/suddenly-sickness-feels-cloudflare-really-f-droid/17948)
 - [Suggestion to add all Apps which connect to CloudFlare by default](https://forum.f-droid.org/t/suggestion-to-add-all-apps-which-connect-to-cloudflare-by-default/18114)
 - [privacy.resistFingerprinting makes Cloudflare DDoS protection loop forever](https://bugzilla.mozilla.org/show_bug.cgi?id=1735193)
 - [Firefox resistFingerprinting vs. Cloudflare challenge](https://community.cloudflare.com/t/firefox-resistfingerprinting-vs-cloudflare-challenge/306354)
