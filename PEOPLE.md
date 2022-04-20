@@ -355,6 +355,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [Cloudflare record update fails](https://github.com/mholt/caddy-dynamicdns/issues/24)
 - [Handle JSON decode error from coingecko temp ban](https://github.com/tellor-io/telliot-feed-examples/issues/170)
 - [Data Undefined - When running locally (403 Forbidden)](https://github.com/dhvitOP/AnimeEZ/issues/3)
 - [docker is not behaving similar in different machines](https://github.com/FlareSolverr/FlareSolverr/issues/368)
