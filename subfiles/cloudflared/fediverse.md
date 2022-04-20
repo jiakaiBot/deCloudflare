@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 92 |
 | com | 86 |
 | org | 59 |
-| jp | 42 |
+| jp | 43 |
 
 
 - Mastodon, Pleroma, etc
@@ -44,6 +44,7 @@ Here's a list of public Fediverse services.
 | 123.social | No |
 | 1234.as | Yes |
 | 1689fellowship.com | Yes |
+| 7144.party | No |
 | 101010.pl | No |
 | aachen.social | No |
 | aana.site | No |
@@ -121,6 +122,7 @@ Here's a list of public Fediverse services.
 | capitalism.party | No |
 | carnivore.social | Yes |
 | catdon.life | No |
+| catgram.jp | Yes |
 | cathode.church | No |
 | cawfee.club | No |
 | chabant.social | No |
@@ -200,7 +202,6 @@ Here's a list of public Fediverse services.
 | ephemeral.glitch.social | No |
 | equestria.social | No |
 | eupublic.social | No |
-| explosion.party | No |
 | fairground.moe | No |
 | fandom.ink | Yes |
 | fanfare.horse | No |
@@ -269,6 +270,7 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
+| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -487,7 +489,6 @@ Here's a list of public Fediverse services.
 | mastodon.greenpeace.ch | Yes |
 | mastodon.greenwichmeanti.me | No |
 | mastodon.hugopoi.net | No |
-| mastodon.hydrosaas.com | Yes |
 | mastodon.icu | No |
 | mastodon.im.sb | Yes |
 | mastodon.immae.eu | No |
@@ -727,7 +728,6 @@ Here's a list of public Fediverse services.
 | onion.social | Yes |
 | onlyfeds.cc | Yes |
 | onthesecond.com | No |
-| ontological.city | No |
 | openbiblio.social | No |
 | oransns.com | No |
 | orenda.social | No |
