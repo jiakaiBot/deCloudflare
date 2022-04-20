@@ -1,4 +1,4 @@
-- ↳ "[Cloudflare, we have a problem](../PEOPLE.md)"
+- ↳ "[Cloudflare, we have a problem](../../PEOPLE.md)"
 
 ## Mastodon
 
