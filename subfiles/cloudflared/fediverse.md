@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 130 |
+| social | 131 |
 | net | 92 |
-| com | 87 |
+| com | 86 |
 | org | 59 |
 | jp | 43 |
 
@@ -51,7 +51,6 @@ Here's a list of public Fediverse services.
 | abdl.io | Yes |
 | abdl.link | Yes |
 | abyss.fun | Yes |
-| acg.mn | Yes |
 | activism.openworlds.info | No |
 | adney.land | No |
 | aether.re | No |
@@ -450,6 +449,7 @@ Here's a list of public Fediverse services.
 | mastodon.astrr.ru | Yes |
 | mastodon.atikoro.net | No |
 | mastodon.aventer.biz | No |
+| mastodon.bachgau.social | No |
 | mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
@@ -713,7 +713,6 @@ Here's a list of public Fediverse services.
 | nobert.zone | No |
 | noc.social | No |
 | norden.social | Yes |
-| notbird.site | No |
 | nrw.social | No |
 | nth.io | Yes |
 | o3o.ca | Yes |
@@ -789,7 +788,6 @@ Here's a list of public Fediverse services.
 | pouet.it | No |
 | pounced-on.me | No |
 | ppl.town | No |
-| precure.ml | No |
 | pritter.work | No |
 | ps.s10y.eu | No |
 | pso2.club | No |
@@ -868,7 +866,6 @@ Here's a list of public Fediverse services.
 | social.0ko.me | No |
 | social.076.ne.jp | No |
 | social.3rensei.xyz | No |
-| social.4f9e1738.ignorelist.com | Yes |
 | social.anon-groups.de | No |
 | social.anoxinon.de | No |
 | social.anufrij.de | No |
@@ -947,6 +944,7 @@ Here's a list of public Fediverse services.
 | social.techn1k.de | No |
 | social.tfwnogf.nl | No |
 | social.thisisjoes.site | No |
+| social.tilde.team | No |
 | social.troll.academy | No |
 | social.trom.tf | No |
 | social.tulsa.ok.us | No |
@@ -1126,8 +1124,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 219 |
+| Cloudflare | 217 |
 | Normal | 864 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.1% of public Fediverse services are using Cloudflare.
