@@ -1825,6 +1825,7 @@ Do not create new issue or we will close it as duplicate.
 | [eliehannouch8@twitter](https://twitter.com/eliehannouch8/status/1462754171195699210) | advertise |
 | [elihwyma@twitter](https://twitter.com/elihwyma/status/1380322325841772545) | advertise |
 | [elina_nns@twitter](https://twitter.com/elina_nns/status/1392283353135599624) | advertise |
+| [elinotes_com@twitter](https://twitter.com/elinotes_com/status/1516871594278555648) | advertise |
 | [Eliseioprea2@twitter](https://twitter.com/Eliseioprea2/status/1399391669372522498) | advertise |
 | [EliteAce7@twitter](https://twitter.com/EliteAce7/status/1489080806580826112) | advertise |
 | [ELITEPLANETGAM1@twitter](https://twitter.com/ELITEPLANETGAM1/status/1400845458063257601) | advertise |
@@ -2621,6 +2622,7 @@ Do not create new issue or we will close it as duplicate.
 | [HugoHug65874537@twitter](https://twitter.com/HugoHug65874537/status/1402143046758670348) | advertise |
 | [HuiAn65690775@twitter](https://twitter.com/HuiAn65690775/status/1391093920906420226) | advertise |
 | [hulk2022@twitter](https://twitter.com/hulk2022/status/1391569781397114887) | advertise |
+| [HumayraNusaiba@twitter](https://twitter.com/HumayraNusaiba/status/1516846214637305856) | advertise |
 | [Humdi48547568@twitter](https://twitter.com/Humdi48547568/status/1401142880970973185) | advertise |
 | [Hun99330190@twitter](https://twitter.com/Hun99330190/status/1401523155382857734) | advertise |
 | [Hung52831637@twitter](https://twitter.com/Hung52831637/status/1399774938542665731) | advertise |
@@ -3057,6 +3059,7 @@ Do not create new issue or we will close it as duplicate.
 | [jordanblaise39@twitter](https://twitter.com/jordanblaise39/status/1499532521276678146) | advertise |
 | [JosephDey2@twitter](https://twitter.com/JosephDey2/status/1401179924237520896) | advertise |
 | [josephillips@twitter](https://twitter.com/josephillips/status/1378443854110687236) | advertise |
+| [JosephL46729146@twitter](https://twitter.com/JosephL46729146/status/1516840050285289473) | advertise |
 | [josephmooreMM@twitter](https://twitter.com/josephmooreMM/status/1398331678142066689) | advertise |
 | [JoshAlmighty3@twitter](https://twitter.com/JoshAlmighty3/status/1394937423197470729) | advertise |
 | [joshg253@twitter](https://twitter.com/joshg253/status/1489326821866835971) | advertise |
@@ -3255,6 +3258,7 @@ Do not create new issue or we will close it as duplicate.
 | [kenguimond1@twitter](https://twitter.com/kenguimond1/status/1483616511553990656) | advertise |
 | [kenhnhacsan@twitter](https://twitter.com/kenhnhacsan/status/1375658471224320000) | advertise |
 | [KenKawai0@twitter](https://twitter.com/KenKawai0/status/1377570971159126020) | advertise |
+| [kenneth05350139@twitter](https://twitter.com/kenneth05350139/status/1516859886713602048) | advertise |
 | [Kenny40929211@twitter](https://twitter.com/Kenny40929211/status/1390248159071203334) | advertise |
 | [KennyJ93864048@twitter](https://twitter.com/KennyJ93864048/status/1391395724621795332) | advertise |
 | [kennytran8388@twitter](https://twitter.com/kennytran8388/status/1387345563444682752) | advertise |
