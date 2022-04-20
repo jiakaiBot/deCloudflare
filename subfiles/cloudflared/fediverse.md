@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 131 |
+| social | 130 |
 | net | 92 |
 | com | 87 |
 | org | 59 |
@@ -202,6 +202,7 @@ Here's a list of public Fediverse services.
 | ephemeral.glitch.social | No |
 | equestria.social | No |
 | eupublic.social | No |
+| explosion.party | No |
 | fairground.moe | No |
 | fandom.ink | Yes |
 | fanfare.horse | No |
@@ -270,7 +271,6 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
-| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -450,7 +450,6 @@ Here's a list of public Fediverse services.
 | mastodon.astrr.ru | Yes |
 | mastodon.atikoro.net | No |
 | mastodon.aventer.biz | No |
-| mastodon.bachgau.social | No |
 | mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
@@ -470,7 +469,6 @@ Here's a list of public Fediverse services.
 | mastodon.communick.com | Yes |
 | mastodon.conxtor.com | No |
 | mastodon.cosmicanimal.jp | No |
-| mastodon.cpn.so | Yes |
 | mastodon.crazynewworld.net | Yes |
 | mastodon.ctseuro.com | No |
 | mastodon.design | No |
@@ -489,6 +487,7 @@ Here's a list of public Fediverse services.
 | mastodon.greenpeace.ch | Yes |
 | mastodon.greenwichmeanti.me | No |
 | mastodon.hugopoi.net | No |
+| mastodon.hydrosaas.com | Yes |
 | mastodon.icu | No |
 | mastodon.im.sb | Yes |
 | mastodon.immae.eu | No |
@@ -1128,7 +1127,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 219 |
-| Normal | 865 |
+| Normal | 864 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
