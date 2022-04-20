@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | social | 131 |
 | net | 92 |
-| com | 86 |
+| com | 87 |
 | org | 59 |
 | jp | 43 |
 
@@ -728,6 +728,7 @@ Here's a list of public Fediverse services.
 | onion.social | Yes |
 | onlyfeds.cc | Yes |
 | onthesecond.com | No |
+| ontological.city | No |
 | openbiblio.social | No |
 | oransns.com | No |
 | orenda.social | No |
@@ -868,6 +869,7 @@ Here's a list of public Fediverse services.
 | social.0ko.me | No |
 | social.076.ne.jp | No |
 | social.3rensei.xyz | No |
+| social.4f9e1738.ignorelist.com | Yes |
 | social.anon-groups.de | No |
 | social.anoxinon.de | No |
 | social.anufrij.de | No |
@@ -946,7 +948,6 @@ Here's a list of public Fediverse services.
 | social.techn1k.de | No |
 | social.tfwnogf.nl | No |
 | social.thisisjoes.site | No |
-| social.tilde.team | No |
 | social.troll.academy | No |
 | social.trom.tf | No |
 | social.tulsa.ok.us | No |
@@ -1126,8 +1127,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 218 |
+| Cloudflare | 219 |
 | Normal | 865 |
 
 
-### 20.1% of public Fediverse services are using Cloudflare.
+### 20.2% of public Fediverse services are using Cloudflare.
