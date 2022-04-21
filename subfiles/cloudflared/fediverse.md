@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | social | 128 |
-| net | 92 |
-| com | 87 |
+| net | 91 |
+| com | 88 |
 | org | 59 |
-| jp | 42 |
+| jp | 41 |
 
 
 - Mastodon, Pleroma, etc
@@ -58,7 +58,6 @@ Here's a list of public Fediverse services.
 | afromunkee.xyz | No |
 | ajin.la | No |
 | aka.my | No |
-| akko.kalasarn.se | No |
 | aleph.land | No |
 | alive.bar | Yes |
 | allpro.social | No |
@@ -188,7 +187,6 @@ Here's a list of public Fediverse services.
 | edolas.world | No |
 | efdn.club | No |
 | eigadon.net | Yes |
-| eigenmagic.net | Yes |
 | el5.net | Yes |
 | eldritch.cafe | No |
 | electro.social | No |
@@ -201,7 +199,9 @@ Here's a list of public Fediverse services.
 | entomophagy.world | No |
 | ephemeral.glitch.social | No |
 | equestria.social | No |
+| espr.moe | Yes |
 | eupublic.social | No |
+| explosion.party | No |
 | fairground.moe | No |
 | fandom.ink | Yes |
 | fanfare.horse | No |
@@ -270,6 +270,7 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
+| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -495,7 +496,6 @@ Here's a list of public Fediverse services.
 | mastodon.indoorsman.ee | No |
 | mastodon.infra.de | No |
 | mastodon.iut-larochelle.fr | No |
-| mastodon.izzz.fr | No |
 | mastodon.jalgi.eus | No |
 | mastodon.juggler.jp | No |
 | mastodon.kaonet-fr.net | No |
@@ -678,7 +678,6 @@ Here's a list of public Fediverse services.
 | mstdn.superspeed-fall.com | No |
 | mstdn.tentere.net | Yes |
 | mstdn.tokyocameraclub.com | No |
-| mstdn.wildtree.jp | No |
 | mstdn.y-zu.org | Yes |
 | mstdn.yakitamago.info | No |
 | mstdn.yamaken.jp | Yes |
@@ -898,6 +897,7 @@ Here's a list of public Fediverse services.
 | social.farend.co.jp | No |
 | social.fbxl.net | No |
 | social.finkhaeuser.de | No |
+| social.finsec.systems | Yes |
 | social.gl-como.it | No |
 | social.globalpirates.net | No |
 | social.goonj.xyz | Yes |
@@ -1044,7 +1044,6 @@ Here's a list of public Fediverse services.
 | tooting.intensifi.es | No |
 | toots.benpro.fr | Yes |
 | toots.slothy.win | Yes |
-| toots.social | Yes |
 | topic-master.com | No |
 | transmom.love | No |
 | travel-friends.chat | No |
@@ -1119,6 +1118,7 @@ Here's a list of public Fediverse services.
 | yysk.icu | No |
 | zecircle.xyz | No |
 | zeka.cloud | Yes |
+| zh-cn.toots.social | Yes |
 | ziroh.be | No |
 
 
@@ -1126,8 +1126,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 218 |
-| Normal | 865 |
+| Cloudflare | 219 |
+| Normal | 864 |
 
 
-### 20.1% of public Fediverse services are using Cloudflare.
+### 20.2% of public Fediverse services are using Cloudflare.
