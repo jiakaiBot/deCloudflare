@@ -3812,6 +3812,7 @@ Do not create new issue or we will close it as duplicate.
 | [LeoNguy43687409@twitter](https://twitter.com/LeoNguy43687409/status/1404446908416856073) | advertise |
 | [Leophir@twitter](https://twitter.com/Leophir/status/1406188576895819782) | advertise |
 | [LerbonR@twitter](https://twitter.com/LerbonR/status/1401222654883893254) | advertise |
+| [Lesprom_com@twitter](https://twitter.com/Lesprom_com/status/1516889062061260800) | advertise |
 | [Letis12976524@twitter](https://twitter.com/Letis12976524/status/1408059624025051147) | advertise |
 | [letrung02082000@twitter](https://twitter.com/letrung02082000/status/1472433683210457088) | advertise |
 | [levannguyen1998@twitter](https://twitter.com/levannguyen1998/status/1496429932591054851) | advertise |
@@ -5747,6 +5748,7 @@ Do not create new issue or we will close it as duplicate.
 | [QunhTM11@twitter](https://twitter.com/QunhTM11/status/1468241517387173889) | advertise |
 | [Quo35259089@twitter](https://twitter.com/Quo35259089/status/1386228152406401024) | advertise |
 | [Quocbao10601948@twitter](https://twitter.com/Quocbao10601948/status/1386125895648219141) | advertise |
+| [quocthaii168@twitter](https://twitter.com/quocthaii168/status/1516899698329591808) | advertise |
 | [quuyentrann@twitter](https://twitter.com/quuyentrann/status/1401784856070090755) | advertise |
 | [quyen77692@twitter](https://twitter.com/quyen77692/status/1516242107316404225) | advertise |
 | [quyetcoi1905@twitter](https://twitter.com/quyetcoi1905/status/1493163304373522433) | advertise |
