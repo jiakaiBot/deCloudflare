@@ -168,6 +168,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 - [Firefox resistFingerprinting vs. Cloudflare challenge](https://community.cloudflare.com/t/firefox-resistfingerprinting-vs-cloudflare-challenge/306354)
 - [You need to boycott CloudFlare](https://news.slashdot.org/comments.pl?sid=19613219&cid=61723657)
 - [Cloudflare's inaccessible browser contradicts the company's mission a11y browsers](https://lobste.rs/s/epyspp)
+- [Ark Survival evolved Cloudflare issues](https://community.cloudflare.com/t/ark-survival-evolved-cloudflare-issues/257827)
 - [Iranian government is censoring sites with Universal SSL (CloudFlare Inc ECC CA-2)](https://community.cloudflare.com/t/iranian-government-is-censoring-sites-with-universal-ssl-cloudflare-inc-ecc-ca-2/110989)
 - [“parler.com” does not resolve off of CloudFlare’s public DNS servers](https://community.cloudflare.com/t/parler-com-does-not-resolve-off-of-cloudflares-public-dns-servers/245452)
 - [Why is Cloudflare Supporting Child Pornography Sites?](https://community.cloudflare.com/t/why-is-cloudflare-supporting-child-pornography-sites/171583)
