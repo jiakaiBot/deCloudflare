@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 92 |
 | com | 88 |
 | org | 59 |
-| jp | 43 |
+| jp | 42 |
 
 
 - Mastodon, Pleroma, etc
@@ -83,6 +83,7 @@ Here's a list of public Fediverse services.
 | awoo.pub | Yes |
 | b612.me | Yes |
 | babymetal.party | No |
+| backyard.cloud | No |
 | balkan.fedive.rs | No |
 | banana.dog | Yes |
 | bangdream.space | Yes |
@@ -200,7 +201,6 @@ Here's a list of public Fediverse services.
 | entomophagy.world | No |
 | ephemeral.glitch.social | No |
 | equestria.social | No |
-| espr.moe | Yes |
 | eupublic.social | No |
 | explosion.party | No |
 | fairground.moe | No |
@@ -478,6 +478,7 @@ Here's a list of public Fediverse services.
 | mastodon.die-partei-reutlingen.de | No |
 | mastodon.dissem.ch | No |
 | mastodon.earth | No |
+| mastodon.edvgarbe.de | No |
 | mastodon.ethibox.fr | No |
 | mastodon.eus | No |
 | mastodon.evolix.org | No |
@@ -497,7 +498,6 @@ Here's a list of public Fediverse services.
 | mastodon.infra.de | No |
 | mastodon.iut-larochelle.fr | No |
 | mastodon.izzz.fr | No |
-| mastodon.jalgi.eus | No |
 | mastodon.juggler.jp | No |
 | mastodon.kaonet-fr.net | No |
 | mastodon.kebree.fr | No |
@@ -738,7 +738,6 @@ Here's a list of public Fediverse services.
 | osna.social | No |
 | osomatsu.mastportal.info | No |
 | ostatus.lardbucket.org | No |
-| ostatus.yoh2.ddo.jp | No |
 | otoya.space | Yes |
 | p.umbriel.fr | No |
 | pachyder.me | No |
@@ -872,6 +871,7 @@ Here's a list of public Fediverse services.
 | social.4f9e1738.ignorelist.com | Yes |
 | social.anon-groups.de | No |
 | social.anoxinon.de | No |
+| social.anthro.cc | No |
 | social.anufrij.de | No |
 | social.apreslanu.it | No |
 | social.art-software.fr | No |
@@ -1058,7 +1058,6 @@ Here's a list of public Fediverse services.
 | trunk.mad-scientist.club | No |
 | tsuki.network | Yes |
 | tt.vvxq.ca | Yes |
-| turkum.site | No |
 | tusk.schoollibraries.net | No |
 | tutut.delire.party | No |
 | tweetrex.co.uk | No |
@@ -1130,7 +1129,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 221 |
+| Cloudflare | 220 |
 | Normal | 866 |
 
 
