@@ -357,9 +357,6 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 ## Mastodon
 - ↳ [Mastodon](subfiles/people/mastodon.md)
 
-## IRC
-- ↳ [IRC](subfiles/people/irc.md)
-
 ## Telegram
 - ↳ [Telegram](image/telegram/README.md)
 
