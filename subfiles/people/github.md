@@ -13,6 +13,7 @@
 - [Handle JSON decode error from coingecko temp ban](https://github.com/tellor-io/telliot-feed-examples/issues/170)
 - [Data Undefined - When running locally (403 Forbidden)](https://github.com/dhvitOP/AnimeEZ/issues/3)
 - [docker is not behaving similar in different machines](https://github.com/FlareSolverr/FlareSolverr/issues/368)
+- [leave gitlab.com](https://gitlab.com/fdroid/admin/-/issues/159)
 - [SSL certificate error](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2011)
 - [ERROR 403: Forbidden when running "./btcputil/fetch-params.sh"](https://github.com/BTCPrivate/BitcoinPrivate-legacy/issues/256)
 - [CP don't work if cloudflare is denying access](https://github.com/statamic/cms/issues/5763)
