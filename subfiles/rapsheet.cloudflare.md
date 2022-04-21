@@ -4,14 +4,14 @@
 
 [//]: # (interesting flip-flopping loop when trying to visit dl.acm.org via archive.org from curl)
 
-[//]: # (- is 36.2% (English) of first search result of Google *)
-[//]: # (- is 28.7% (Non-English) of first search result of Google *)
-[//]: # (- used by 29% of top 200 Github developers)
-[//]: # (- gain 6898.43 new domain users per day **)
-[//]: # (- has high false positive each day (cloudflare-tor PEOPLE.md))
+[//]: # (→ is 36.2% [English] of first search result of Google ¹)
+[//]: # (→ is 28.7% [Non-English] of first search result of Google ¹)
+[//]: # (→ used by 29% of top 200 Github developers)
+[//]: # (→ gain 6898.43 new domain users per day ²)
+[//]: # (→ has high false positive each day [cloudflare-tor PEOPLE.md])
 
-[//]: # (* February 2021, on average)
-[//]: # (** average of 2 months, 2021)
+[//]: # (¹ February 2021, on average)
+[//]: # (² average of 2 months, 2021)
 
 [1]: http://cryto.net/~joepie91/blog/2016/07/14/cloudflare-we-have-a-problem
 [2]: <https://web.archive.org/web/20190402175900/cypherpunk.is/2015/04/02/why-cloudflare-is-probably-a-honeypot> "using mirror to avoid CloudFlare"
