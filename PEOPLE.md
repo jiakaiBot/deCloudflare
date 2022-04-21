@@ -355,6 +355,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [Cannot read feeds from bundesregierung.de](https://github.com/miniflux/v2/issues/1047)
+- [503 while fetching feed behind CloudFlare; user-agent override makes no difference](https://github.com/miniflux/v2/issues/1332)
 - [Feature Work around Cloudflare issues (discussion)](https://github.com/FreshRSS/FreshRSS/issues/4323)
 - [Cloudflare CDN offers expired cert from CN = ssl392509.cloudflaressl.com](https://github.com/Cisco-Talos/clamav/issues/555)
 - [Seemingly invalid error when using an assumed role, with a module, and a private AMI image.](https://github.com/terraform-linters/tflint-ruleset-aws/issues/337)
