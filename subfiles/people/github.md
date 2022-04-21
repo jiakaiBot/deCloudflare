@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error Code 0.](https://github.com/BobbyWibowo/lolisafe/issues/470)
 - [Feature Work around Cloudflare issues (discussion)](https://github.com/FreshRSS/FreshRSS/issues/4323)
 - [Cannot read feeds from bundesregierung.de](https://github.com/miniflux/v2/issues/1047)
 - [503 while fetching feed behind CloudFlare; user-agent override makes no difference](https://github.com/miniflux/v2/issues/1332)
