@@ -88,7 +88,7 @@ https://plug-mirror.rcac.purdue.edu/fdroid/repo
 https://plug-mirror.rcac.purdue.edu/fdroid/repo/
 ```
 
-Let's remove duplicated and scan them.
+Let's remove duplicates and scan them.
 
 | Type | Count |
 | --- | --- |
