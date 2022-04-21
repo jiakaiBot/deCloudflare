@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 128 |
-| net | 91 |
-| com | 88 |
+| social | 129 |
+| net | 92 |
+| com | 87 |
 | org | 59 |
 | jp | 41 |
 
@@ -58,6 +58,7 @@ Here's a list of public Fediverse services.
 | afromunkee.xyz | No |
 | ajin.la | No |
 | aka.my | No |
+| akko.kalasarn.se | No |
 | aleph.land | No |
 | alive.bar | Yes |
 | allpro.social | No |
@@ -187,6 +188,7 @@ Here's a list of public Fediverse services.
 | edolas.world | No |
 | efdn.club | No |
 | eigadon.net | Yes |
+| eigenmagic.net | Yes |
 | el5.net | Yes |
 | eldritch.cafe | No |
 | electro.social | No |
@@ -270,7 +272,6 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
-| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -496,6 +497,7 @@ Here's a list of public Fediverse services.
 | mastodon.indoorsman.ee | No |
 | mastodon.infra.de | No |
 | mastodon.iut-larochelle.fr | No |
+| mastodon.izzz.fr | No |
 | mastodon.jalgi.eus | No |
 | mastodon.juggler.jp | No |
 | mastodon.kaonet-fr.net | No |
@@ -840,7 +842,6 @@ Here's a list of public Fediverse services.
 | seaofog.com | Yes |
 | seizemeans.com | No |
 | seriphap.com | No |
-| serval.club | No |
 | setl.ist | No |
 | sfba.social | No |
 | shadowsocial.org | No |
@@ -1044,6 +1045,7 @@ Here's a list of public Fediverse services.
 | tooting.intensifi.es | No |
 | toots.benpro.fr | Yes |
 | toots.slothy.win | Yes |
+| toots.social | Yes |
 | topic-master.com | No |
 | transmom.love | No |
 | travel-friends.chat | No |
@@ -1126,8 +1128,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 219 |
+| Cloudflare | 221 |
 | Normal | 864 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.4% of public Fediverse services are using Cloudflare.
