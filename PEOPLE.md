@@ -54,6 +54,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 </summary>
 
 
+- [Cloudflare Stats for 2022: How Many Websites Use Cloudflare?](https://backlinko.com/cloudflare-users)
 - [Richard Stallman on Why Sites With Clownflare (Cloudflare) Harm Freedom and Human Rights](http://techrights.org/2022/03/21/rms-vs-clownflare/)
 - [Cloudflare Vulnerability Enabled Compromise of 12% of All Websites](https://blog.ericom.com/cloudflare-vulnerability-enabled-compromise-of-12-of-all-websites/)
 - [Cloudflare's inaccessible browser contradicts the company's mission](https://mwcampbell.github.io/cloudflare-browser-isolation-letter/)
