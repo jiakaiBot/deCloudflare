@@ -97,7 +97,6 @@
 - [PEOPLE.md](../PEOPLE.md)
   - [Twitter](people/twitter.md)
   - [Mastodon](people/mastodon.md)
-  - [IRC](people/irc.md)
 - [CloudFlare Watch](classics/README.md)
 - [About Ombrelo](service.ombrelo.md)
 - [Change default DNS provider of Firefox](change-firefox-dns.md)
