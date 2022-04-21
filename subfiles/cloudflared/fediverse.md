@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | social | 130 |
 | net | 92 |
-| com | 88 |
+| com | 87 |
 | org | 59 |
 | jp | 42 |
 
@@ -271,7 +271,6 @@ Here's a list of public Fediverse services.
 | glitch.social | No |
 | glitterkitten.co.uk | No |
 | globally.social | No |
-| gmai.com | No |
 | go5.dev | Yes |
 | godforsaken.website | No |
 | grand-duchy.net | No |
@@ -455,7 +454,6 @@ Here's a list of public Fediverse services.
 | mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
-| mastodon.bgzashtita.es | No |
 | mastodon.bida.im | No |
 | mastodon.bitbank.cc | Yes |
 | mastodon.cardina1.red | No |
@@ -498,6 +496,7 @@ Here's a list of public Fediverse services.
 | mastodon.infra.de | No |
 | mastodon.iut-larochelle.fr | No |
 | mastodon.izzz.fr | No |
+| mastodon.jalgi.eus | No |
 | mastodon.juggler.jp | No |
 | mastodon.kaonet-fr.net | No |
 | mastodon.kebree.fr | No |
@@ -899,7 +898,6 @@ Here's a list of public Fediverse services.
 | social.farend.co.jp | No |
 | social.fbxl.net | No |
 | social.finkhaeuser.de | No |
-| social.finsec.systems | Yes |
 | social.gl-como.it | No |
 | social.globalpirates.net | No |
 | social.goonj.xyz | Yes |
@@ -1129,8 +1127,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 220 |
-| Normal | 866 |
+| Cloudflare | 219 |
+| Normal | 865 |
 
 
-### 20.3% of public Fediverse services are using Cloudflare.
+### 20.2% of public Fediverse services are using Cloudflare.
