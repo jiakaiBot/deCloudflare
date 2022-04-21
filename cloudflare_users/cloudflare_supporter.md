@@ -6723,6 +6723,7 @@ Do not create new issue or we will close it as duplicate.
 | [Teammmmmmmmm3@twitter](https://twitter.com/Teammmmmmmmm3/status/1398780432074743810) | advertise |
 | [tech97519794@twitter](https://twitter.com/tech97519794/status/1406477104200310788) | advertise |
 | [TecharoApp@twitter](https://twitter.com/TecharoApp/status/1401984338472931330) | advertise |
+| [technokotsos@twitter](https://twitter.com/technokotsos/status/1517209734704766976) | advertise |
 | [TechRedneck901@twitter](https://twitter.com/TechRedneck901/status/1396056226329505794) | advertise |
 | [TechTailor@twitter](https://twitter.com/TechTailor/status/1381152232410816514) | advertise |
 | [techtweetlive@twitter](https://twitter.com/techtweetlive/status/1447213119869050886) | advertise |
