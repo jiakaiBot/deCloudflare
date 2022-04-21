@@ -1,5 +1,5 @@
 - ↳ "[Cloudflare, we have a problem](../../PEOPLE.md)"
-- [More List](../people/)
+- [**More List**](../people/)
 
 ## Twitter
 
@@ -2761,6 +2761,3 @@
 - Dear Cloudflare users: YOU ARE IDIOTS and I'm not a FUCKING ROBOT. ([AnalSystemist](https://twitter.com/AnalSystemist/status/804437882240901121))
 - Your captcha currently appears to be blocking Tor users. After clicking 'Im not a robot' it always says 'Try again later. Your sending automated queries' ([JungleBoy03](https://twitter.com/JungleBoy03/status/978860372760449025))
 - can you please tell CloudFlare your users are not robots? ([vrde](https://twitter.com/vrde/status/744821179697901568))
-
-
-[//]: # (don't touch this line!! birds)
