@@ -1,107 +1,98 @@
-![](../image/bookstack.jpg)
+## How many % of F-Droid mirror sites are using Cloudflare?
 
 
-- *Disclaimer*: This page contains external links to third party websites. These sites are subject to the liability of the respective website operators.
+F-Droid Mirror-related Issues:
+- https://gitlab.com/fdroid/admin/-/issues?sort=created_date&state=all&label_name[]=mirroring
+```
+https://gitlab.com/fdroid/admin/-/issues/11
+https://gitlab.com/fdroid/admin/-/issues/111
+https://gitlab.com/fdroid/admin/-/issues/12
+https://gitlab.com/fdroid/admin/-/issues/120
+https://gitlab.com/fdroid/admin/-/issues/123
+https://gitlab.com/fdroid/admin/-/issues/126
+https://gitlab.com/fdroid/admin/-/issues/138
+https://gitlab.com/fdroid/admin/-/issues/163
+https://gitlab.com/fdroid/admin/-/issues/168
+https://gitlab.com/fdroid/admin/-/issues/173
+https://gitlab.com/fdroid/admin/-/issues/177
+https://gitlab.com/fdroid/admin/-/issues/178
+https://gitlab.com/fdroid/admin/-/issues/185
+https://gitlab.com/fdroid/admin/-/issues/187
+https://gitlab.com/fdroid/admin/-/issues/191
+https://gitlab.com/fdroid/admin/-/issues/210
+https://gitlab.com/fdroid/admin/-/issues/214
+https://gitlab.com/fdroid/admin/-/issues/229
+https://gitlab.com/fdroid/admin/-/issues/230
+https://gitlab.com/fdroid/admin/-/issues/237
+https://gitlab.com/fdroid/admin/-/issues/238
+https://gitlab.com/fdroid/admin/-/issues/242
+https://gitlab.com/fdroid/admin/-/issues/247
+https://gitlab.com/fdroid/admin/-/issues/256
+https://gitlab.com/fdroid/admin/-/issues/295
+https://gitlab.com/fdroid/admin/-/issues/298
+https://gitlab.com/fdroid/admin/-/issues/303
+https://gitlab.com/fdroid/admin/-/issues/315
+https://gitlab.com/fdroid/admin/-/issues/320
+https://gitlab.com/fdroid/admin/-/issues/73
+https://gitlab.com/fdroid/admin/-/issues/78
+https://gitlab.com/fdroid/admin/-/issues/79
+https://gitlab.com/fdroid/admin/-/issues/88
+```
 
----
+Here is the list of F-Droid repository URLs **from above** + **[this list](https://gitlab.com/fdroid/mirror-monitor/-/raw/master/README.md)**.
+```
+https://bubu1.eu/fdroid/repo
+https://cloudflare.f-droid.org/repo
+https://f-droid.org/repo
+https://fdroid-mirror.calyxinstitute.org/fdroid/repo
+https://fdroid.astra.in.ua/
+https://fdroid.astra.in.ua/fdroid/repo
+https://fdroid.fi-do.io/fdroid/
+https://fdroid.fi-do.io/fdroid/repo
+https://fdroid.garym.co/fdroid/repo
+https://fdroid.swedneck.xyz/fdroid/repo
+https://fdroid.tetaneutral.net/fdroid
+https://fdroid.tetaneutral.net/fdroid/repo
+https://fdroid.tetaneutral.net/repo/
+https://fdroid.zedoary.workers.dev/
+https://fdroid.zw.is/fdroid/
+https://fdroid.zw.is/fdroid/repo/
+https://ftp.agdsn.de/fdroid/repo/
+https://ftp.fau.de/fdroid/
+https://ftp.fau.de/fdroid/repo
+https://ftp.gwdg.de/pub/android/fdroid/repo/
+https://ftp.lysator.liu.se/
+https://ftp.lysator.liu.se/pub/fdroid/repo
+https://ftp.osuosl.org/pub/fdroid/repo
+https://ftp.snt.utwente.nl/pub/software/fdroid/repo/
+https://mirror.cxserv.de/fdroid/repo
+https://mirror.cxserv.de/fdroid/repo/
+https://mirror.cyberbits.eu/fdroid
+https://mirror.cyberbits.eu/fdroid/repo
+https://mirror.freedif.org/fdroid
+https://mirror.freedif.org/fdroid/
+https://mirror.kumi.systems/fdroid/
+https://mirror.kumi.systems/fdroid/repo
+https://mirror.librelabucm.org/fdroid/repo/
+https://mirror.ossplanet.net/
+https://mirror.ossplanet.net/fdroid/repo/
+https://mirror.scd31.com/fdroid/repo
+https://mirror.umd.edu/
+https://mirrors.dotsrc.org/fdroid/repo/
+https://mirrors.kernel.org
+https://mirrors.nju.edu.cn/fdroid/
+https://mirrors.nju.edu.cn/fdroid/repo
+https://mirrors.tuna.tsinghua.edu.cn/fdroid/
+https://mirrors.tuna.tsinghua.edu.cn/fdroid/repo
+https://plug-mirror.rcac.purdue.edu/fdroid/repo
+https://plug-mirror.rcac.purdue.edu/fdroid/repo/
+```
 
-- Add-ons
-  - [Block Cloudflare MITM Attack](about.bcma.md)
-  - [Will these links block Tor user?](about.isat.md)
-  - [Are links vulnerable to MITM attack?](about.ismm.md)
-  - [Which website rejected me?](about.urjm.md)
-- Service
-  - [Public DNS](service.publicdns.md)
-  - [Clearnet Onion](https://clearnetonion.eu.org)
-  - [Crimeflare Mail](https://mail.crimeflare.eu.org)
-  - [IAList](https://ialist.crimeflare.eu.org)
-  - [Alternative Link](service.altlink.md)
-- Cloudflare Alternatives
-  - [Cloudflare Alternatives](alternative.cloudflare.md)
-  - [Cloudflare DNS Alternatives](alternative.domaindns.md)
-- Cloudflared
-  - How many % of top most visited sites?
-    - [How many % of top 1,000 most visited sites(2010) are using Cloudflare?](cloudflared/top1000-2010-google.md) _Google_
-    - [How many % of top 10,000 most popular domains(2014) are using Cloudflare?](cloudflared/top10000-2014-opendns.md) _OpenDNS_
-    - [How many % of top 1,000 most visited sites(2019) are using Cloudflare?](cloudflared/top1000-2019-alexa.md) _Alexa_
-    - [How many % of top 100,000 WordPress sites(2020) are using Cloudflare?](cloudflared/top100000-2020-wordpress.md) _Wordpress_
-    - [How many % of top 500 most popular sites(2021) are using Cloudflare?](cloudflared/top500-2021-moz.md) _Moz_
-    - [How many % of top 1 million most visited sites(2021) are using Cloudflare?](cloudflared/top1m-2021-alexa.md) _Alexa_
-    - [How many % of top 1 million most visited sites(2021) are using Cloudflare?](cloudflared/top1m-2021-cisco.md) _Cisco_
-  - How many % of banks & financial institutions are using Cloudflare?
-    - [Africa](cloudflared/financial_africa.md)
-    - [America](cloudflared/financial_america.md)
-    - [Asia](cloudflared/financial_asia.md)
-    - [Europe](cloudflared/financial_europe.md)
-    - [Oceania](cloudflared/financial_oceania.md)
-  - How many % of online newspapers are using Cloudflare?
-    - [Africa](cloudflared/newspaper_africa.md)
-    - [America / Caribbean](cloudflared/newspaper_america.md)
-    - [Asia / Middle East](cloudflared/newspaper_asia.md)
-    - [Europe](cloudflared/newspaper_europe.md)
-    - [Oceania](cloudflared/newspaper_oceania.md)
-  - How many % of University and College websites are using Cloudflare?
-    - [Africa](cloudflared/collegeuniversity_africa.md)
-    - [America](cloudflared/collegeuniversity_america.md)
-    - [Asia](cloudflared/collegeuniversity_asia.md)
-    - [Europe](cloudflared/collegeuniversity_europe.md)
-    - [Oceania](cloudflared/collegeuniversity_oceania.md)
-  - [How many % of SSL certificates are issued to Cloudflare sites?](cloudflared/ssl_certificate.md)
-  - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared/fortune1000.md)
-  - [How many % of insurance companies are using Cloudflare?](cloudflared/insurance.md)
-  - [How many % of Hospitals are using Cloudflare?](cloudflared/hospital.md)
-  - [How many % of Pharmaceutical companies are using Cloudflare?](cloudflared/pharmaceutical.md)
-  - [How many % of online magazines are using Cloudflare?](cloudflared/magazine.md)
-  - [How many % of Bitcoin Exchange sites are using Cloudflare?](cloudflared/bitcoinexchange.md)
-  - [How many % of payment service providers are using Cloudflare?](cloudflared/paymentservices.md)
-  - [How many % of public Fediverse services are using Cloudflare?](cloudflared/fediverse.md)
-    - [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared/shared_mastodon.md)
-  - [How many % of public Git services are using Cloudflare?](cloudflared/gitservices.md)
-  - [How many % of public Torrent services are using Cloudflare?](cloudflared/torrents.md)
-  - [How many % of public social media are using Cloudflare?](cloudflared/socialmedia.md)
-  - [How many % of online video platforms are using Cloudflare?](cloudflared/videoplatform.md)
-  - [How many % of File hosting / File sharing services are using Cloudflare?](cloudflared/filehosting.md)
-  - [How many % of fast food restaurants are using Cloudflare?](cloudflared/fastfood.md)
-  - [How many % of adverts and trackers are using Cloudflare?](cloudflared/adverts.md)
-  - [How many % of pornographic domains are using Cloudflare?](cloudflared/pornography.md)
-  - [How many % of gambling domains are using Cloudflare?](cloudflared/gambling.md)
-  - [How many % of fake news outlets are using Cloudflare?](cloudflared/fakenews.md)
-  - [How many % of phishing domains are using Cloudflare?](cloudflared/phishing.md)
-  - [How many % of malware domains are using Cloudflare?](cloudflared/malware.md)
-  - [How many % of disposable email domains are using Cloudflare?](cloudflared/disposable_email.md)
-  - [How many % of email (email exchanged between Gmail) domains are using Cloudflare?](cloudflared/gmail_email_domains.md)
-  - [How many % of XMPP domains are using Cloudflare?](cloudflared/xmpp_domains.md)
-  - [How many % of URL Shortener services are using Cloudflare?](cloudflared/urlshortening.md)
-  - [How many % of VPN services are using Cloudflare?](cloudflared/vpnservice.md)
-  - [How many % of Domain name registrars are using Cloudflare?](cloudflared/domain_registrars.md)
-  - [How many % of Hosting Providers are using Cloudflare on their site?](cloudflared/hostingprovider.md)
-  - [How many % of Mozilla's Root CAs are using Cloudflare?](cloudflared/mozilla_rootca.md)
-  - [How many % of Open Data sites are using Cloudflare?](cloudflared/opendata.md)
-  - [How many % of Privacy organizations are using Cloudflare?](cloudflared/privacy_organizations.md)
-  - [How many % of Computer security companies are using Cloudflare?](cloudflared/computer_security.md)
-  - [How many % of F-Droid mirror sites are using Cloudflare?](cloudflared/fdroid_mirrors.md)
-- Name Servers on the Internet
-  - [September 2021](nameservers/2021-09.md)
-  - [December 2021](nameservers/2021-12.md)
-  - [February 2022](nameservers/2022-02.md)
-  - [March 2022](nameservers/2022-03.md)
-  - [April 2022](nameservers/2022-04.md)
-- Cloudflare attracts "repeat infringers"
-  - [June 2021](repeat_infringers/2021-06.md)
-  - [January 2022](repeat_infringers/2022-01.md)
-  - [February 2022](repeat_infringers/2022-02.md)
-  - [March 2022](repeat_infringers/2022-03.md)
-  - [April 2022](repeat_infringers/2022-04.md)
-- Shared on
-  - [Shared on Twitter](shared_on_twitter.md)
-  - [Shared on Mastodon](shared_on_mastodon.md)
-- [PEOPLE.md](../PEOPLE.md)
-  - [Twitter](people/twitter.md)
-  - [Mastodon](people/mastodon.md)
-- [CloudFlare Watch](classics/README.md)
-- [About Ombrelo](service.ombrelo.md)
-- [Change default DNS provider of Firefox](change-firefox-dns.md)
-- [How to block CloudFlare on Android](block_cloudflare_on_android.md)
-- [How to use Chromium with Tor](chromium_tor.md)
-- [Myth Catalog](myth_catalog.md)
-- [The trouble with Codeberg](the_trouble_with_codeberg.md)
+Let's remove duplicates and scan them.
+
+| Type | Count |
+| --- | --- |
+| Cloudflare | 6 |
+| Normal | 23 |
+
+## 21% of F-Droid mirror repository are using CloudFlare.
