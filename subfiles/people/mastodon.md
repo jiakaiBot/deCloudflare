@@ -1,5 +1,5 @@
 - ↳ "[Cloudflare, we have a problem](../../PEOPLE.md)"
-- [More List](../people/)
+- [**More List**](../people/)
 
 ## Mastodon
 
@@ -274,6 +274,3 @@
 - I dream of blocking Cloudflare and ReCaptcha ([Chuculate](https://niu.moe/@Chuculate/101834414084670347))
 - you can't solve a puzzle to prove that you're a human in the new version anymore. if google says you're a bot, then you're a bot. ([leip4Ier](https://infosec.exchange/@leip4Ier/100983839919407633))
 - am i the only one being blocked by Cloudflare before reaching Falkvinge's  article relating NSA , and GNU / Linux systems... i'm puzzled, what am i missing ?  ([hellekin](https://quitter.es/notice/4918810))
-
-
-[//]: # (don't touch this line!! phant)
