@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 130 |
+| social | 128 |
 | net | 92 |
 | com | 87 |
 | org | 59 |
@@ -202,7 +202,6 @@ Here's a list of public Fediverse services.
 | ephemeral.glitch.social | No |
 | equestria.social | No |
 | eupublic.social | No |
-| explosion.party | No |
 | fairground.moe | No |
 | fandom.ink | Yes |
 | fanfare.horse | No |
@@ -454,6 +453,7 @@ Here's a list of public Fediverse services.
 | mastodon.baconpotato.net | No |
 | mastodon.baucum.me | No |
 | mastodon.bayern | Yes |
+| mastodon.bgzashtita.es | No |
 | mastodon.bida.im | No |
 | mastodon.bitbank.cc | Yes |
 | mastodon.cardina1.red | No |
@@ -1056,6 +1056,7 @@ Here's a list of public Fediverse services.
 | trunk.mad-scientist.club | No |
 | tsuki.network | Yes |
 | tt.vvxq.ca | Yes |
+| turkum.site | No |
 | tusk.schoollibraries.net | No |
 | tutut.delire.party | No |
 | tweetrex.co.uk | No |
@@ -1096,7 +1097,6 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
-| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1119,7 +1119,6 @@ Here's a list of public Fediverse services.
 | yysk.icu | No |
 | zecircle.xyz | No |
 | zeka.cloud | Yes |
-| zh-cn.toots.social | Yes |
 | ziroh.be | No |
 
 
@@ -1127,8 +1126,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 219 |
+| Cloudflare | 218 |
 | Normal | 865 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.1% of public Fediverse services are using Cloudflare.
