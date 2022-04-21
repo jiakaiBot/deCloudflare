@@ -83,7 +83,7 @@ Here's a list of public Fediverse services.
 | awoo.pub | Yes |
 | b612.me | Yes |
 | babymetal.party | No |
-| backyard.cloud | No |
+| balkan.fedive.rs | No |
 | banana.dog | Yes |
 | bangdream.space | Yes |
 | barcamp.social | No |
@@ -478,7 +478,6 @@ Here's a list of public Fediverse services.
 | mastodon.die-partei-reutlingen.de | No |
 | mastodon.dissem.ch | No |
 | mastodon.earth | No |
-| mastodon.edvgarbe.de | No |
 | mastodon.ethibox.fr | No |
 | mastodon.eus | No |
 | mastodon.evolix.org | No |
@@ -911,6 +910,7 @@ Here's a list of public Fediverse services.
 | social.illegalpornography.com | No |
 | social.integritymo.de | No |
 | social.jesuislibre.net | No |
+| social.ksite.de | No |
 | social.lescorpsdereve.space | Yes |
 | social.levelxstudios.org | No |
 | social.librem.one | No |
@@ -1058,6 +1058,7 @@ Here's a list of public Fediverse services.
 | trunk.mad-scientist.club | No |
 | tsuki.network | Yes |
 | tt.vvxq.ca | Yes |
+| turkum.site | No |
 | tusk.schoollibraries.net | No |
 | tutut.delire.party | No |
 | tweetrex.co.uk | No |
@@ -1130,7 +1131,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 221 |
-| Normal | 865 |
+| Normal | 866 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
