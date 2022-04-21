@@ -1,45 +1,8 @@
 ## How many % of F-Droid mirror sites are using Cloudflare?
 
 
-F-Droid Mirror-related Issues:
-- https://gitlab.com/fdroid/admin/-/issues?sort=created_date&state=all&label_name[]=mirroring
-```
-https://gitlab.com/fdroid/admin/-/issues/11
-https://gitlab.com/fdroid/admin/-/issues/111
-https://gitlab.com/fdroid/admin/-/issues/12
-https://gitlab.com/fdroid/admin/-/issues/120
-https://gitlab.com/fdroid/admin/-/issues/123
-https://gitlab.com/fdroid/admin/-/issues/126
-https://gitlab.com/fdroid/admin/-/issues/138
-https://gitlab.com/fdroid/admin/-/issues/163
-https://gitlab.com/fdroid/admin/-/issues/168
-https://gitlab.com/fdroid/admin/-/issues/173
-https://gitlab.com/fdroid/admin/-/issues/177
-https://gitlab.com/fdroid/admin/-/issues/178
-https://gitlab.com/fdroid/admin/-/issues/185
-https://gitlab.com/fdroid/admin/-/issues/187
-https://gitlab.com/fdroid/admin/-/issues/191
-https://gitlab.com/fdroid/admin/-/issues/210
-https://gitlab.com/fdroid/admin/-/issues/214
-https://gitlab.com/fdroid/admin/-/issues/229
-https://gitlab.com/fdroid/admin/-/issues/230
-https://gitlab.com/fdroid/admin/-/issues/237
-https://gitlab.com/fdroid/admin/-/issues/238
-https://gitlab.com/fdroid/admin/-/issues/242
-https://gitlab.com/fdroid/admin/-/issues/247
-https://gitlab.com/fdroid/admin/-/issues/256
-https://gitlab.com/fdroid/admin/-/issues/295
-https://gitlab.com/fdroid/admin/-/issues/298
-https://gitlab.com/fdroid/admin/-/issues/303
-https://gitlab.com/fdroid/admin/-/issues/315
-https://gitlab.com/fdroid/admin/-/issues/320
-https://gitlab.com/fdroid/admin/-/issues/73
-https://gitlab.com/fdroid/admin/-/issues/78
-https://gitlab.com/fdroid/admin/-/issues/79
-https://gitlab.com/fdroid/admin/-/issues/88
-```
+Here is the list of F-Droid repository URLs from [Mirror-related issues](https://gitlab.com/fdroid/admin/-/issues?sort=created_date&state=all&label_name[]=mirroring) and [this list](https://gitlab.com/fdroid/mirror-monitor/-/raw/master/README.md).
 
-Here is the list of F-Droid repository URLs **from above** + **[this list](https://gitlab.com/fdroid/mirror-monitor/-/raw/master/README.md)**.
 ```
 https://bubu1.eu/fdroid/repo
 https://cloudflare.f-droid.org/repo
