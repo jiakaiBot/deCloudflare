@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Edge Gateway CF Worker system errors](https://github.com/nftstorage/nftstorage.link/issues/51)
+- [YGG FlareSolverr error : Unexpected error: Error: Protocol error (Network.getCookies): Session closed. Most likely the page has been closed.](https://github.com/FlareSolverr/FlareSolverr/issues/377)
 - [Error Code 0.](https://github.com/BobbyWibowo/lolisafe/issues/470)
 - [Feature Work around Cloudflare issues (discussion)](https://github.com/FreshRSS/FreshRSS/issues/4323)
 - [Cannot read feeds from bundesregierung.de](https://github.com/miniflux/v2/issues/1047)
