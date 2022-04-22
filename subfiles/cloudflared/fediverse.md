@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| social | 129 |
+| social | 130 |
 | net | 92 |
 | com | 88 |
 | org | 59 |
@@ -133,6 +133,7 @@ Here's a list of public Fediverse services.
 | cheeky.red | No |
 | chirpi.de | No |
 | chitter.xyz | No |
+| chomp.life | No |
 | chromabits.com | No |
 | cigarcabin.com | No |
 | clacks.link | No |
@@ -202,6 +203,7 @@ Here's a list of public Fediverse services.
 | equestria.social | No |
 | espr.moe | Yes |
 | eupublic.social | No |
+| explosion.party | No |
 | fairground.moe | No |
 | fandom.ink | Yes |
 | fanfare.horse | No |
@@ -487,6 +489,7 @@ Here's a list of public Fediverse services.
 | mastodon.gougere.fr | No |
 | mastodon.greenpeace.ch | Yes |
 | mastodon.greenwichmeanti.me | No |
+| mastodon.habets.dev | No |
 | mastodon.hugopoi.net | No |
 | mastodon.hydrosaas.com | Yes |
 | mastodon.icu | No |
@@ -1056,12 +1059,10 @@ Here's a list of public Fediverse services.
 | trunk.mad-scientist.club | No |
 | tsuki.network | Yes |
 | tt.vvxq.ca | Yes |
-| turkum.site | No |
 | tusk.schoollibraries.net | No |
 | tutut.delire.party | No |
 | tweetrex.co.uk | No |
 | twingyeo.kr | Yes |
-| twinkaga.in | No |
 | tymoon.eu | Yes |
 | typrout.ml | Yes |
 | tzcafe.com | Yes |
@@ -1097,6 +1098,7 @@ Here's a list of public Fediverse services.
 | wobscale.social | No |
 | wp-social.net | No |
 | writing.exchange | No |
+| wubrg.social | No |
 | wug.fun | Yes |
 | www.blimps.xyz | Yes |
 | www.masto.pt | Yes |
@@ -1128,7 +1130,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 221 |
-| Normal | 863 |
+| Normal | 865 |
 
 
-### 20.4% of public Fediverse services are using Cloudflare.
+### 20.3% of public Fediverse services are using Cloudflare.
