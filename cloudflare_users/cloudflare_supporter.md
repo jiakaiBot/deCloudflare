@@ -5921,6 +5921,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rizkiadisp@twitter](https://twitter.com/Rizkiadisp/status/1457584649840988170) | advertise |
 | [Rizky29300508@twitter](https://twitter.com/Rizky29300508/status/1401428946789429249) | advertise |
 | [rjack55@twitter](https://twitter.com/rjack55/status/1379577118527524865) | advertise |
+| [rjd129@twitter](https://twitter.com/rjd129/status/1517778561981054976) | advertise |
 | [Rkar43290101@twitter](https://twitter.com/Rkar43290101/status/1398468325034713091) | advertise |
 | [Rkarkya84950493@twitter](https://twitter.com/Rkarkya84950493/status/1392355774119038978) | advertise |
 | [rkarphyo137@twitter](https://twitter.com/rkarphyo137/status/1391571859829886977) | advertise |
