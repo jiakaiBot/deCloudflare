@@ -482,6 +482,7 @@ Do not create new issue or we will close it as duplicate.
 | [annein5@twitter](https://twitter.com/annein5/status/1392743216085049346) | advertise |
 | [AnnSali18@twitter](https://twitter.com/AnnSali18/status/1404425553235517443) | advertise |
 | [AnoshGeddam@twitter](https://twitter.com/AnoshGeddam/status/1393448106365095939) | advertise |
+| [anotherkappug@twitter](https://twitter.com/anotherkappug/status/1517655414753705988) | advertise |
 | [AnoYgHIk7Sh8m44@twitter](https://twitter.com/AnoYgHIk7Sh8m44/status/1403077953395716097) | advertise |
 | [anshulkmr01@twitter](https://twitter.com/anshulkmr01/status/1441856756288606209) | advertise |
 | [AntohinShulov@twitter](https://twitter.com/AntohinShulov/status/1392227012136239105) | advertise |
