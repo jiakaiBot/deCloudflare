@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Search: Unpredictable behavior, "classic" search loads in place of instant, or instant search missing filters](https://github.com/Automattic/jetpack/issues/24067)
 - [Edge Gateway CF Worker system errors](https://github.com/nftstorage/nftstorage.link/issues/51)
 - [YGG FlareSolverr error : Unexpected error: Error: Protocol error (Network.getCookies): Session closed. Most likely the page has been closed.](https://github.com/FlareSolverr/FlareSolverr/issues/377)
 - [Error Code 0.](https://github.com/BobbyWibowo/lolisafe/issues/470)
