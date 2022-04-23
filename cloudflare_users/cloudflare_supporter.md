@@ -80,6 +80,7 @@ Do not create new issue or we will close it as duplicate.
 | [9_lose@twitter](https://twitter.com/9_lose/status/1383537124788510722) | advertise |
 | [11BoizChungTinh@twitter](https://twitter.com/11BoizChungTinh/status/1401051583647911936) | advertise |
 | [11Thanh12@twitter](https://twitter.com/11Thanh12/status/1399774221035655168) | advertise |
+| [16thxxxxx@twitter](https://twitter.com/16thxxxxx/status/1517814105855475712) | advertise |
 | [16_kyaw@twitter](https://twitter.com/16_kyaw/status/1393511123639439365) | advertise |
 | [19Naywinaung1@twitter](https://twitter.com/19Naywinaung1/status/1404472645710540803) | advertise |
 | [27Muaon@twitter](https://twitter.com/27Muaon/status/1391459657881772032) | advertise |
@@ -1234,6 +1235,7 @@ Do not create new issue or we will close it as duplicate.
 | [cheeryluvly2@twitter](https://twitter.com/cheeryluvly2/status/1401203225659912192) | advertise |
 | [CHEKUTH66047936@twitter](https://twitter.com/CHEKUTH66047936/status/1401783579168763907) | advertise |
 | [ChenBaiHui1@twitter](https://twitter.com/ChenBaiHui1/status/1391426148903514113) | advertise |
+| [ChendipraveenC@twitter](https://twitter.com/ChendipraveenC/status/1517752295626207232) | advertise |
 | [Cherry7784@twitter](https://twitter.com/Cherry7784/status/1507027917351505923) | advertise |
 | [Cherry68152056@twitter](https://twitter.com/Cherry68152056/status/1390551945379606530) | advertise |
 | [CherryJas1@twitter](https://twitter.com/CherryJas1/status/1390217382711414784) | advertise |
@@ -1283,6 +1285,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChrisOrillia@twitter](https://twitter.com/ChrisOrillia/status/1496282546929340417) | advertise |
 | [christhelegend@twitter](https://twitter.com/christhelegend/status/1395235876125483010) | advertise |
 | [Christ_moe@twitter](https://twitter.com/Christ_moe/status/1390388000887017475) | advertise |
+| [ChrisUXD@twitter](https://twitter.com/ChrisUXD/status/1517824318658514945) | advertise |
 | [ChrisWardlow4@twitter](https://twitter.com/ChrisWardlow4/status/1491630522656866310) | advertise |
 | [Chromepanda37@twitter](https://twitter.com/Chromepanda37/status/1408075106144854022) | advertise |
 | [Chu2131@twitter](https://twitter.com/Chu2131/status/1389883781776039939) | advertise |
@@ -1594,6 +1597,7 @@ Do not create new issue or we will close it as duplicate.
 | [DiamondMeeMee1@twitter](https://twitter.com/DiamondMeeMee1/status/1391273427290361858) | advertise |
 | [DickWhimsy@twitter](https://twitter.com/DickWhimsy/status/1384051581373468672) | advertise |
 | [diellidemjaha@twitter](https://twitter.com/diellidemjaha/status/1394616412086341633) | advertise |
+| [DieTriphel@twitter](https://twitter.com/DieTriphel/status/1517893596443074561) | advertise |
 | [digcinema@twitter](https://twitter.com/digcinema/status/1402343666174201857) | advertise |
 | [DiggajUpadhyay@twitter](https://twitter.com/DiggajUpadhyay/status/1511942797212889089) | advertise |
 | [DigitalSoftwar9@twitter](https://twitter.com/DigitalSoftwar9/status/1437033725141860357) | advertise |
@@ -5059,6 +5063,7 @@ Do not create new issue or we will close it as duplicate.
 | [nhan_dac@twitter](https://twitter.com/nhan_dac/status/1407903659929739268) | advertise |
 | [Nhat64394560@twitter](https://twitter.com/Nhat64394560/status/1385579142603677697) | advertise |
 | [Nhi80570476@twitter](https://twitter.com/Nhi80570476/status/1406305550334271493) | advertise |
+| [NHINNgu31639849@twitter](https://twitter.com/NHINNgu31639849/status/1517937600920973314) | advertise |
 | [Nhitran78912780@twitter](https://twitter.com/Nhitran78912780/status/1378490634315567105) | advertise |
 | [nhnl91670613@twitter](https://twitter.com/nhnl91670613/status/1385662566660145152) | advertise |
 | [nhokdatle6@twitter](https://twitter.com/nhokdatle6/status/1387375449882304512) | advertise |
@@ -7369,6 +7374,7 @@ Do not create new issue or we will close it as duplicate.
 | [UTheinZaw14@twitter](https://twitter.com/UTheinZaw14/status/1390880951077539847) | advertise |
 | [UThuYa19@twitter](https://twitter.com/UThuYa19/status/1398904054097485825) | advertise |
 | [Uttama97890732@twitter](https://twitter.com/Uttama97890732/status/1390025546264809476) | advertise |
+| [UvinduBro@twitter](https://twitter.com/UvinduBro/status/1517900951373611009) | advertise |
 | [UwdieynCentre@twitter](https://twitter.com/UwdieynCentre/status/1398371128700063745) | advertise |
 | [uyen_ntm@twitter](https://twitter.com/uyen_ntm/status/1385006379870527489) | advertise |
 | [UYePhyo1@twitter](https://twitter.com/UYePhyo1/status/1390074171409895427) | advertise |
