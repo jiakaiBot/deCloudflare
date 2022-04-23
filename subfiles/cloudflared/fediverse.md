@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,383 |
-| net | 1,385 |
+| net | 1,386 |
 | org | 988 |
 | social | 963 |
-| de | 783 |
+| de | 784 |
 
 
 - Mastodon, Pleroma, etc
@@ -1941,7 +1941,7 @@ Here's a list of public Fediverse services.
 | brave.to | No |
 | brawner.social | No |
 | braydmedia.de | No |
-| brazencloud.com | Yes |
+| brazencloud.com | No |
 | brazier.dev | Yes |
 | brcal.cz | No |
 | breadfactory.tk | No |
@@ -4666,6 +4666,7 @@ Here's a list of public Fediverse services.
 | fedigram.social | No |
 | fedihub.com | No |
 | fedilab.app | No |
+| fediland.nl | No |
 | fedilove.cyou | Yes |
 | fedimaker.space | No |
 | fedimas.com | Yes |
@@ -5093,6 +5094,7 @@ Here's a list of public Fediverse services.
 | freethinkers.lgbt | No |
 | freetobe.social | No |
 | freetorrent.fr | No |
+| freetreasures.shop | No |
 | freetube.cc | Yes |
 | freetubeapp.io | No |
 | freetubehub.live | Yes |
@@ -7178,6 +7180,7 @@ Here's a list of public Fediverse services.
 | jemp.co | No |
 | jemverse.xyz | Yes |
 | jenkins.cc | No |
+| jenot.info | No |
 | jensdiemer.de | No |
 | jensenen.nl | No |
 | jeppesen.io | No |
@@ -10011,6 +10014,7 @@ Here's a list of public Fediverse services.
 | monmusu.me | No |
 | mono.cafe | Yes |
 | monocles.social | No |
+| monocul.us | Yes |
 | monocursive.com | No |
 | monotremata.xyz | No |
 | monsieur-a.fr | No |
@@ -11589,6 +11593,7 @@ Here's a list of public Fediverse services.
 | ourempty.pub | No |
 | ourislandgeorgia.net | No |
 | ourlittle.space | No |
+| ourmemory.sbs | No |
 | ouroboros.monster | No |
 | oursocialism.today | No |
 | oursquad.rocks | Yes |
@@ -12255,6 +12260,7 @@ Here's a list of public Fediverse services.
 | pmdcollab.org | No |
 | pmhcvn.com | No |
 | pmj.rocks | No |
+| pmlk.net | No |
 | pngcs.de | No |
 | pnn.sh | Yes |
 | pnut.pl | Yes |
@@ -14156,6 +14162,7 @@ Here's a list of public Fediverse services.
 | smilodon.social | No |
 | smithfam.info | No |
 | smnz.de | No |
+| smokymountain.top | No |
 | smolkitty.me | Yes |
 | smolnet.org | No |
 | smoothbrain.top | No |
@@ -15041,6 +15048,7 @@ Here's a list of public Fediverse services.
 | te-st.ru | Yes |
 | tea.codes | No |
 | teacoffee.life | No |
+| teaguild.dev | No |
 | teakettle.social | No |
 | tealpa.ws | No |
 | team-crash.de | No |
@@ -16295,6 +16303,7 @@ Here's a list of public Fediverse services.
 | uvolante.org | No |
 | uwah.moe | Yes |
 | uwan.net | No |
+| uwu.engineering | No |
 | uwu.is | No |
 | uwu.pm | Yes |
 | uwu.social | Yes |
@@ -16665,6 +16674,7 @@ Here's a list of public Fediverse services.
 | warkr.me | No |
 | warlocks.wang | No |
 | warm.rocks | No |
+| warmonger.de | No |
 | warofart.xyz | No |
 | warpnine.de | No |
 | warpzone.es | No |
@@ -17636,7 +17646,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,185 |
-| Normal | 14,407 |
+| Normal | 14,417 |
 
 
 ### 18.1% of public Fediverse services are using Cloudflare.
