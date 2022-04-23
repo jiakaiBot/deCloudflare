@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-04-23: [Network Performance Issues in multiple regions](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sp8qhzyqs7pr)
 - 2022-04-20: [Gateway DNS policies intermittently fail](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/psy924947crg)
 - 2022-04-19: [Network Connectivity issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f8t5rj6jxtrv)
 - 2022-04-19: [Distributed Web - Ethereum Gateway errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1jqtkk38pw0b)
