@@ -1365,8 +1365,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -5945,6 +5945,7 @@ Do not create new issue or we will close it as duplicate.
 | [RM14428161@twitter](https://twitter.com/RM14428161/status/1394881569219878912) | advertise |
 | [RMFuQ@twitter](https://twitter.com/RMFuQ/status/1376775783755120646) | advertise |
 | [rmljg@twitter](https://twitter.com/rmljg/status/1487435179274637318) | advertise |
+| [rmsolomon_@twitter](https://twitter.com/rmsolomon_/status/1518319284304461824) | advertise |
 | [RMS_KING24@twitter](https://twitter.com/RMS_KING24/status/1495456762257809408) | advertise |
 | [rm_blank_slash@twitter](https://twitter.com/rm_blank_slash/status/1382681666817126402) | advertise |
 | [RobAllen26@twitter](https://twitter.com/RobAllen26/status/1386491535038902276) | advertise |
