@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Deploying to Cloudflare Workers | "PrismaClient is unable to be run in the browser"](https://github.com/prisma/prisma/issues/12981)
 - [Testnet 525 error](https://github.com/ProjectOpenSea/opensea-js/issues/486)
 - [Search: Unpredictable behavior, "classic" search loads in place of instant, or instant search missing filters](https://github.com/Automattic/jetpack/issues/24067)
 - [Edge Gateway CF Worker system errors](https://github.com/nftstorage/nftstorage.link/issues/51)
