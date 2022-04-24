@@ -12279,6 +12279,7 @@ Here's a list of public Fediverse services.
 | podlibre.social | No |
 | podlibre.video | No |
 | podnutz.us | Yes |
+| podpro.biz | No |
 | poetic.systems | No |
 | poetry.garden | No |
 | pofilo.fr | No |
@@ -13073,6 +13074,7 @@ Here's a list of public Fediverse services.
 | reseaujaune.com | No |
 | reseaumarseillais.com | No |
 | reseaumilitant.org | No |
+| reservepn.eu | No |
 | resh.ro | Yes |
 | resipsa.social | No |
 | resistance.social | Yes |
@@ -17646,7 +17648,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,185 |
-| Normal | 14,417 |
+| Normal | 14,419 |
 
 
 ### 18.1% of public Fediverse services are using Cloudflare.
