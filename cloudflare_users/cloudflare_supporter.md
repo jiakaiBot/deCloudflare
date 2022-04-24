@@ -1365,8 +1365,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -7283,6 +7283,7 @@ Do not create new issue or we will close it as duplicate.
 | [tunaung27101990@twitter](https://twitter.com/tunaung27101990/status/1392413941335089155) | advertise |
 | [TunBeo3@twitter](https://twitter.com/TunBeo3/status/1406537643005861888) | advertise |
 | [Tung55985050@twitter](https://twitter.com/Tung55985050/status/1401516166896443395) | advertise |
+| [tungduo07351367@twitter](https://twitter.com/tungduo07351367/status/1518231863688843264) | advertise |
 | [tungtroy2122@twitter](https://twitter.com/tungtroy2122/status/1379372249212456963) | advertise |
 | [tungtung411@twitter](https://twitter.com/tungtung411/status/1404120132943712260) | advertise |
 | [TunHmine@twitter](https://twitter.com/TunHmine/status/1391918737368895488) | advertise |
