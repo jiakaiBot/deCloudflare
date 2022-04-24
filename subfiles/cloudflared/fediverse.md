@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,383 |
-| net | 1,386 |
+| com | 2,384 |
+| net | 1,387 |
 | org | 988 |
 | social | 963 |
-| de | 784 |
+| de | 786 |
 
 
 - Mastodon, Pleroma, etc
@@ -195,6 +195,7 @@ Here's a list of public Fediverse services.
 | 3sn.ru | No |
 | 3stadt.com | No |
 | 3t0kb.com | No |
+| 3towers.de | No |
 | 3x1t.eu | No |
 | 3xd.eu | Yes |
 | 403.io | No |
@@ -500,6 +501,7 @@ Here's a list of public Fediverse services.
 | afteryu.me | Yes |
 | afu.social | No |
 | aga.ovh | No |
+| agadius.de | No |
 | agates.io | No |
 | agilemind.blog | No |
 | aglaea.me | No |
@@ -7424,6 +7426,7 @@ Here's a list of public Fediverse services.
 | k0ta.net | No |
 | k1ppl.com | Yes |
 | k2pk.com | Yes |
+| k2s.sk | No |
 | k3i.pw | No |
 | k3tan.com | Yes |
 | k40s.net | Yes |
@@ -7683,6 +7686,7 @@ Here's a list of public Fediverse services.
 | kif.rocks | No |
 | kig.life | No |
 | kigdon.xyz | No |
+| kigurumi.fans | No |
 | kigurumi.fun | No |
 | kiichan.space | No |
 | kijowski.dev | No |
@@ -9682,6 +9686,7 @@ Here's a list of public Fediverse services.
 | michaelbrooks.co.uk | Yes |
 | michaeljdeeb.com | No |
 | michaelpuckett.engineer | Yes |
+| michaelsantillan.com | Yes |
 | michaonline.net | No |
 | michizev.de | Yes |
 | mickaelftw.net | Yes |
@@ -10706,6 +10711,7 @@ Here's a list of public Fediverse services.
 | netzgemeinde.eu | No |
 | netzkombin.at | No |
 | netzkombinat.su | No |
+| netzone.cc | Yes |
 | netzsphaere.xyz | No |
 | netzspielplatz.de | No |
 | netzwerk-gebet.de | No |
@@ -10968,6 +10974,7 @@ Here's a list of public Fediverse services.
 | nokok.net | Yes |
 | nokotaro.com | Yes |
 | nokotaro.work | Yes |
+| noldal.net | No |
 | nolim1t.co | No |
 | nolineage.com | No |
 | nologo.social | No |
@@ -13465,6 +13472,7 @@ Here's a list of public Fediverse services.
 | sakurakazune.org | No |
 | sakurapuare.tech | No |
 | sakurauchi.moe | No |
+| salaam.chat | No |
 | saladisdead.com | Yes |
 | salastil.com | Yes |
 | salecroix.fr | No |
@@ -14261,6 +14269,7 @@ Here's a list of public Fediverse services.
 | socialcs.xyz | No |
 | socialdistancing.dev | No |
 | sociale.network | No |
+| socialfed.nl | No |
 | socialgoblins.club | Yes |
 | socialhome.network | No |
 | socialist.city | No |
@@ -16085,6 +16094,7 @@ Here's a list of public Fediverse services.
 | uhoreg.ca | Yes |
 | uhouho.xyz | Yes |
 | uiae.at | No |
+| uk.to | Yes |
 | ukese.me | No |
 | ukhwah.org | No |
 | ukka.xyz | No |
@@ -17647,8 +17657,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,185 |
-| Normal | 14,419 |
+| Cloudflare | 3,188 |
+| Normal | 14,426 |
 
 
 ### 18.1% of public Fediverse services are using Cloudflare.
