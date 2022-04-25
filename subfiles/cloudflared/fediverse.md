@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,384 |
+| com | 2,386 |
 | net | 1,387 |
 | org | 988 |
 | social | 963 |
-| de | 786 |
+| de | 787 |
 
 
 - Mastodon, Pleroma, etc
@@ -80,6 +80,7 @@ Here's a list of public Fediverse services.
 | 0xff.cafe | No |
 | 1000dollars.info | No |
 | 1001solutions.net | No |
+| 100bureaux.com | No |
 | 100club.social | No |
 | 100flowers.tech | No |
 | 101010.pl | No |
@@ -1018,6 +1019,7 @@ Here's a list of public Fediverse services.
 | artchair.net | No |
 | arthack.nz | No |
 | arthropod.tech | No |
+| arthurhollingsworth.com | No |
 | artica.center | No |
 | articlesofunity.social | No |
 | artifaille.fr | No |
@@ -2174,6 +2176,7 @@ Here's a list of public Fediverse services.
 | canor.kr | Yes |
 | cant.at | No |
 | cantos.social | No |
+| canzan.chat | No |
 | cao4.com | Yes |
 | caonima.wtf | No |
 | cap.moe | Yes |
@@ -3777,6 +3780,7 @@ Here's a list of public Fediverse services.
 | domainepublic.net | No |
 | domdom.tokyo | No |
 | dominicdewolfe.com | No |
+| domov.de | No |
 | domtube.de | No |
 | donabeneko.jp | No |
 | donar.cz | No |
@@ -6305,6 +6309,7 @@ Here's a list of public Fediverse services.
 | hintersphere.com | No |
 | hiphop.horse | No |
 | hippo.ws | No |
+| hirad.it | No |
 | hiromi-mi.jp | Yes |
 | hiroshimastdn.club | No |
 | hiroshimastodon.red | No |
@@ -8305,6 +8310,7 @@ Here's a list of public Fediverse services.
 | lesbiab.town | No |
 | lesbian.energy | Yes |
 | lesbian.solutions | No |
+| lesbianforest.club | No |
 | lesbianschool.com | No |
 | lesch.be | No |
 | lescommuns.org | No |
@@ -8696,6 +8702,7 @@ Here's a list of public Fediverse services.
 | lou.lt | Yes |
 | louderthanten.net | Yes |
 | louis-c-novel.com | Yes |
+| louis.software | Yes |
 | louiscap.io | No |
 | louisematic.site | No |
 | louisoft01.moe | No |
@@ -9932,6 +9939,7 @@ Here's a list of public Fediverse services.
 | mn.ms | No |
 | mn9.de | No |
 | mndet.net | No |
+| mnementh.co.uk | No |
 | mnethome.de | No |
 | mnetic.ch | No |
 | mnetwork.co.kr | Yes |
@@ -17658,8 +17666,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,188 |
-| Normal | 14,427 |
+| Cloudflare | 3,189 |
+| Normal | 14,434 |
 
 
 ### 18.1% of public Fediverse services are using Cloudflare.
