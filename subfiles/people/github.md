@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Trying to search "/socket?random=" gets me blocked](https://github.com/sourcegraph/sourcegraph/issues/34450)
+- [Audit uses of 502 and 504 response status codes](https://github.com/matrix-org/synapse/issues/12540)
+- [yggtorrent (testing) Exception (yggtorrent): ... Only Chrome at revision rlatest is guaranteed to work.](https://github.com/FlareSolverr/FlareSolverr/issues/384)
 - [Can't sign into my discord: Changed password and disabled 2Factor](https://github.com/EionRobb/purple-discord/issues/406)
 - [Deploying to Cloudflare Workers | "PrismaClient is unable to be run in the browser"](https://github.com/prisma/prisma/issues/12981)
 - [Testnet 525 error](https://github.com/ProjectOpenSea/opensea-js/issues/486)
