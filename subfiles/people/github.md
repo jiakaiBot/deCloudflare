@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Switch migration fetcher to CAR](https://github.com/ipfs/go-ipfs/issues/8851)
 - [Trying to search "/socket?random=" gets me blocked](https://github.com/sourcegraph/sourcegraph/issues/34450)
 - [Audit uses of 502 and 504 response status codes](https://github.com/matrix-org/synapse/issues/12540)
 - [yggtorrent (testing) Exception (yggtorrent): ... Only Chrome at revision rlatest is guaranteed to work.](https://github.com/FlareSolverr/FlareSolverr/issues/384)
