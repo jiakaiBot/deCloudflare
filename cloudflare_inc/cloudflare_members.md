@@ -967,6 +967,7 @@ Or is this merely a case of simple modesty?
 | Kristina Miguel | Backend Systems Engineer |  |
 | Kristina Scott | Global Marketing |  |
 | Kristina Williams | Employee | |
+| Kristin Berdan | Employee | |
 | Kristin Hart | Executive Assistant |  |
 | Kristin Tarr | Communications Specialist |  |
 | Kristján Oddsson | Front-end Engineer |  |
@@ -1552,6 +1553,7 @@ Or is this merely a case of simple modesty?
 | Steven Pack | Product Manager |  |
 | Steven Pham | Account Executive |  |
 | Steven Pirnik | Employee |  |
+| Steven Raden | Employee | |
 | Steve Pascucci | Sales Manager |  |
 | Stewart Peugh | People Systems & Analytics |  |
 | Stuart Nesbitt | Employee |  |
