@@ -1918,6 +1918,7 @@ Do not create new issue or we will close it as duplicate.
 | [fahedrahmani@twitter](https://twitter.com/fahedrahmani/status/1505209723838214152) | advertise |
 | [faighenzho@twitter](https://twitter.com/faighenzho/status/1382412226925973506) | advertise |
 | [FaisalHossine@twitter](https://twitter.com/FaisalHossine/status/1386253418218491905) | advertise |
+| [faisal_asif@twitter](https://twitter.com/faisal_asif/status/1518406069764112392) | advertise |
 | [FaiSky_@twitter](https://twitter.com/FaiSky_/status/1490832227327823872) | advertise |
 | [faithholler@twitter](https://twitter.com/faithholler/status/1402484525519810562) | advertise |
 | [FaizaanKahn@twitter](https://twitter.com/FaizaanKahn/status/1390946598117515265) | advertise |
@@ -2673,6 +2674,7 @@ Do not create new issue or we will close it as duplicate.
 | [huybeokute@twitter](https://twitter.com/huybeokute/status/1379461629310509065) | advertise |
 | [huydn12@twitter](https://twitter.com/huydn12/status/1395017615651663873) | advertise |
 | [Huyhoanghuynh05@twitter](https://twitter.com/Huyhoanghuynh05/status/1388289129624981505) | advertise |
+| [huyjunior1@twitter](https://twitter.com/huyjunior1/status/1518422399389413376) | advertise |
 | [HuyL68129865@twitter](https://twitter.com/HuyL68129865/status/1398308580957122564) | advertise |
 | [huylba123@twitter](https://twitter.com/huylba123/status/1397769207337558023) | advertise |
 | [HuyLe12798601@twitter](https://twitter.com/HuyLe12798601/status/1400069776408338432) | advertise |
@@ -2958,6 +2960,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jeongperth@twitter](https://twitter.com/Jeongperth/status/1384190962499416071) | advertise |
 | [JeonHnin@twitter](https://twitter.com/JeonHnin/status/1396070462728204289) | advertise |
 | [jeon_taeguk@twitter](https://twitter.com/jeon_taeguk/status/1398449609018540034) | advertise |
+| [Jeremia96826443@twitter](https://twitter.com/Jeremia96826443/status/1518407784815071233) | advertise |
 | [jeremyfhall@twitter](https://twitter.com/jeremyfhall/status/1379201437767499777) | advertise |
 | [jeremymcdonell@twitter](https://twitter.com/jeremymcdonell/status/1397803423475503107) | advertise |
 | [jerkyjeck@twitter](https://twitter.com/jerkyjeck/status/1404845420530966533) | advertise |
