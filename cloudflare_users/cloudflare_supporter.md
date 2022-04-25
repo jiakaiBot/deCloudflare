@@ -1366,8 +1366,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -5646,6 +5646,7 @@ Do not create new issue or we will close it as duplicate.
 | [Prabhu_DS@twitter](https://twitter.com/Prabhu_DS/status/1477876465425281028) | advertise |
 | [pracas@twitter](https://twitter.com/pracas/status/1489507217745530882) | advertise |
 | [practiceacc3@twitter](https://twitter.com/practiceacc3/status/1384126713404084224) | advertise |
+| [prakash_prajwal@twitter](https://twitter.com/prakash_prajwal/status/1518651138551128064) | advertise |
 | [pranjalsoni_@twitter](https://twitter.com/pranjalsoni_/status/1419024238070038532) | advertise |
 | [Prasant84597643@twitter](https://twitter.com/Prasant84597643/status/1377798977483984896) | advertise |
 | [Prashan72710850@twitter](https://twitter.com/Prashan72710850/status/1476895145886818304) | advertise |
@@ -5787,6 +5788,7 @@ Do not create new issue or we will close it as duplicate.
 | [r0c4p1a@twitter](https://twitter.com/r0c4p1a/status/1489935636815568897) | advertise |
 | [R3DActual@twitter](https://twitter.com/R3DActual/status/1468895846444015617) | advertise |
 | [Ra36279199@twitter](https://twitter.com/Ra36279199/status/1395644864587501569) | advertise |
+| [RaceLifeNet@twitter](https://twitter.com/RaceLifeNet/status/1518636611977809921) | advertise |
 | [racycars@twitter](https://twitter.com/racycars/status/1394606713827778561) | advertise |
 | [radio7toronto@twitter](https://twitter.com/radio7toronto/status/1512422850833133572) | advertise |
 | [radpaluszak@twitter](https://twitter.com/radpaluszak/status/1398323773435265028) | advertise |
