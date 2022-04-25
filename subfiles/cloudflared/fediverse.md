@@ -14207,6 +14207,7 @@ Here's a list of public Fediverse services.
 | sneakycrow.io | Yes |
 | sneakymonkey.io | No |
 | sneed.org.uk | No |
+| sneed.shop | No |
 | sneed.social | No |
 | sneedtube.com | No |
 | snek.uk | No |
@@ -17658,7 +17659,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,188 |
-| Normal | 14,426 |
+| Normal | 14,427 |
 
 
 ### 18.1% of public Fediverse services are using Cloudflare.
