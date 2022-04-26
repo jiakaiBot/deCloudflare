@@ -1366,8 +1366,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3865,6 +3865,7 @@ Do not create new issue or we will close it as duplicate.
 | [LimHtar@twitter](https://twitter.com/LimHtar/status/1379706457453555712) | advertise |
 | [Lin123He@twitter](https://twitter.com/Lin123He/status/1394868986932654080) | advertise |
 | [Lin12335892663@twitter](https://twitter.com/Lin12335892663/status/1392413770782183427) | advertise |
+| [linalintanajib@twitter](https://twitter.com/linalintanajib/status/1518761726728368128) | advertise |
 | [LinCBs2@twitter](https://twitter.com/LinCBs2/status/1408086534041964545) | advertise |
 | [Lineetcom@twitter](https://twitter.com/Lineetcom/status/1432080628141289475) | advertise |
 | [LineNetizen@twitter](https://twitter.com/LineNetizen/status/1410440237751308289) | moral (advertise) |
