@@ -3573,6 +3573,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoThet14724861@twitter](https://twitter.com/KoThet14724861/status/1381254887405670402) | advertise |
 | [KoThike60854887@twitter](https://twitter.com/KoThike60854887/status/1391245268889243650) | advertise |
 | [KoTo02751072@twitter](https://twitter.com/KoTo02751072/status/1394271242681667587) | advertise |
+| [Kotresh_dm@twitter](https://twitter.com/Kotresh_dm/status/1518934578680844289) | advertise |
 | [Kouga_@twitter](https://twitter.com/Kouga_/status/1456585431538036741) | advertise |
 | [KoWine98649484@twitter](https://twitter.com/KoWine98649484/status/1393251277157527565) | advertise |
 | [KowshikChandan@twitter](https://twitter.com/KowshikChandan/status/1383742485051056132) | advertise |
@@ -7135,6 +7136,7 @@ Do not create new issue or we will close it as duplicate.
 | [TngNi93807080@twitter](https://twitter.com/TngNi93807080/status/1380134536034549762) | advertise |
 | [TngSiTQun1@twitter](https://twitter.com/TngSiTQun1/status/1404813196565880836) | advertise |
 | [TnNgha8@twitter](https://twitter.com/TnNgha8/status/1397500016055357440) | advertise |
+| [TnNguyn90524471@twitter](https://twitter.com/TnNguyn90524471/status/1518930560218927104) | advertise |
 | [tntn22096759@twitter](https://twitter.com/tntn22096759/status/1398392845615067138) | advertise |
 | [Tntrn47460351@twitter](https://twitter.com/Tntrn47460351/status/1379142780765675520) | advertise |
 | [TNyient@twitter](https://twitter.com/TNyient/status/1387259629005062145) | advertise |
