@@ -349,6 +349,7 @@ Here's a list of public Fediverse services.
 | aas.wtf | No |
 | aasg.name | No |
 | abandonedsocialnetwork.com | No |
+| abb.ink | Yes |
 | abbotsfurred.ca | No |
 | abcang.net | No |
 | abdl.io | Yes |
@@ -6223,6 +6224,7 @@ Here's a list of public Fediverse services.
 | hendrixgames.com | No |
 | hendry.id | Yes |
 | hengsha.host | No |
+| henrick.me | No |
 | henriksen.is | Yes |
 | henrygarner.im | No |
 | henshaw.org | No |
@@ -7307,6 +7309,7 @@ Here's a list of public Fediverse services.
 | johnn.ie | No |
 | johnruth.me | No |
 | johntrain.org | Yes |
+| joinfediverse.online | No |
 | joinfreedom.tk | No |
 | joinmastodon.com | No |
 | joinmastodon.org | Yes |
@@ -10124,6 +10127,7 @@ Here's a list of public Fediverse services.
 | mosw.work | No |
 | motcha.tech | Yes |
 | moth.monster | No |
+| moth.zone | No |
 | motisn.net | No |
 | motley.club | Yes |
 | motogp.space | No |
@@ -10305,6 +10309,7 @@ Here's a list of public Fediverse services.
 | muenchen.social | No |
 | muenster.im | No |
 | muensterland.social | Yes |
+| muffin.pm | No |
 | muga.xyz | No |
 | mugwort.xyz | No |
 | muhroads.net | No |
@@ -13248,7 +13253,7 @@ Here's a list of public Fediverse services.
 | robonomics.network | No |
 | robot-disco.net | No |
 | robot-house.us | No |
-| robot.rodeo | No |
+| robot.rodeo | Yes |
 | robotbattleaxe.ninja | No |
 | robotham.dev | No |
 | robothive.net | No |
@@ -17691,8 +17696,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,198 |
-| Normal | 14,450 |
+| Cloudflare | 3,200 |
+| Normal | 14,453 |
 
 
 ### 18.1% of public Fediverse services are using Cloudflare.
