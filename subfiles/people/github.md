@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [SSL client connection with SNI fails after keep alive timeout exceeded](https://github.com/pocoproject/poco/issues/3573)
 - [breakfix: Redirect error when auth url and redirect url differs](https://github.com/greenpau/caddy-security/issues/92)
 - [Workers Pages throw on missing node util.types.isKeyObject()](https://github.com/remix-run/remix/issues/2980)
 - [TypeError: Cannot read properties of undefined (reading 'isKeyObject')](https://github.com/stytchauth/stytch-node/issues/120)
