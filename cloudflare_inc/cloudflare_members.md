@@ -1046,6 +1046,7 @@ Or is this merely a case of simple modesty?
 | Manuel Briseno | Employee |  |
 | Manu Sharma | Account Manager |  |
 | Marc Bodmer | Front End Engineer |  |
+| Marcelo Affonso | Employee | |
 | Marcelo Moreira | Site Reliability Engineer |  |
 | Marcie McBride | Customer Development |  |
 | Marc Lamik | Director of Product |  |
@@ -1367,6 +1368,7 @@ Or is this merely a case of simple modesty?
 | Rebecca Dunek Graeber | Customer Success Engineer |  |
 | Rebecca Roche | Account Executive |  |
 | Rebecca Rogers | Security Compliance Lead |  |
+| Rebecca Weekly | Employee | |
 | Reid Tatoris | Employee | |
 | Renan Dincer | Systems Engineer | renandincer@gmail.com<br>renandincer+hello@gmail.com<br>https://twitter.com/rrnn |
 | Renato Hirata | Employee |  |
