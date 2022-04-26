@@ -5,7 +5,7 @@
 
 
 - If you don't know what **Altlink** is [click here](../../subfiles/service.altlink.md).
-- You can find `altlink_xxx` **only** on:
+- You can find it **only** on:
 
 
 | Server | Channel |
@@ -15,5 +15,5 @@
 
 - Feel free to suggest other server/channels.
 - You can create an Issue without git account.
-  - Just send a private message _or_ mention `altlink_xxx`.
+  - Just send a private message to it.
 - [Code](code.php)
