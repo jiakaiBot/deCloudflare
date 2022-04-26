@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [TypeError: Cannot read properties of undefined (reading 'isKeyObject')](https://github.com/stytchauth/stytch-node/issues/120)
 - [Switch migration fetcher to CAR](https://github.com/ipfs/go-ipfs/issues/8851)
 - [Trying to search "/socket?random=" gets me blocked](https://github.com/sourcegraph/sourcegraph/issues/34450)
 - [Audit uses of 502 and 504 response status codes](https://github.com/matrix-org/synapse/issues/12540)
