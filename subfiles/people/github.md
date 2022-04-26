@@ -4,6 +4,10 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot bypass CF](https://github.com/hoaan1995/ZxCDDoS/issues/10)
+- [No Audio on Public Page Player](https://github.com/AzuraCast/AzuraCast/issues/5314)
+- [all sensors are showing as unavailable](https://github.com/Red5d/ha-gasbuddy/issues/1)
+- [Identifier 'React' has already been declared with multiple external libraries](https://github.com/remix-run/remix/issues/2987)
 - [SSL client connection with SNI fails after keep alive timeout exceeded](https://github.com/pocoproject/poco/issues/3573)
 - [breakfix: Redirect error when auth url and redirect url differs](https://github.com/greenpau/caddy-security/issues/92)
 - [Workers Pages throw on missing node util.types.isKeyObject()](https://github.com/remix-run/remix/issues/2980)
