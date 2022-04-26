@@ -1567,6 +1567,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dersy73935011@twitter](https://twitter.com/Dersy73935011/status/1389827449349763072) | advertise |
 | [Desaste64491060@twitter](https://twitter.com/Desaste64491060/status/1383753625101500417) | advertise |
 | [desertdog99@twitter](https://twitter.com/desertdog99/status/1405382173734014983) | advertise |
+| [designjazzltd@twitter](https://twitter.com/designjazzltd/status/1518899539452866561) | advertise |
 | [DesignsShujaa@twitter](https://twitter.com/DesignsShujaa/status/1501718865868300289) | advertise |
 | [detikepri@twitter](https://twitter.com/detikepri/status/1448139774171103239) | advertise |
 | [DeukGu2@twitter](https://twitter.com/DeukGu2/status/1394341921418620935) | advertise |
@@ -1903,6 +1904,7 @@ Do not create new issue or we will close it as duplicate.
 | [eweannnnnnn@twitter](https://twitter.com/eweannnnnnn/status/1383857328894529540) | advertise |
 | [EwhhhMann@twitter](https://twitter.com/EwhhhMann/status/1487783367667957762) | advertise |
 | [exasited@twitter](https://twitter.com/exasited/status/1391785184987553793) | advertise |
+| [exdsay@twitter](https://twitter.com/exdsay/status/1518876527839965184) | advertise |
 | [Exito51051708@twitter](https://twitter.com/Exito51051708/status/1385425775751401478) | advertise |
 | [exoLchokyithar@twitter](https://twitter.com/exoLchokyithar/status/1383974311803854848) | advertise |
 | [EXOSC67901907@twitter](https://twitter.com/EXOSC67901907/status/1399753533700726785) | advertise |
@@ -2006,6 +2008,7 @@ Do not create new issue or we will close it as duplicate.
 | [frontware@twitter](https://twitter.com/frontware/status/1438345369256038400) | advertise |
 | [frshzrnmln@twitter](https://twitter.com/frshzrnmln/status/1432737386945933319) | advertise |
 | [FsoIndustries@twitter](https://twitter.com/FsoIndustries/status/1509979654941204482) | advertise |
+| [fuckhilm@twitter](https://twitter.com/fuckhilm/status/1518916598878261248) | advertise |
 | [FuckThong8@twitter](https://twitter.com/FuckThong8/status/1389450074309099521) | advertise |
 | [Fullmoo48883890@twitter](https://twitter.com/Fullmoo48883890/status/1392352133417078793) | advertise |
 | [fullOspace@twitter](https://twitter.com/fullOspace/status/1378241319634493443) | advertise |
@@ -6752,6 +6755,7 @@ Do not create new issue or we will close it as duplicate.
 | [Teammmmmmmmm3@twitter](https://twitter.com/Teammmmmmmmm3/status/1398780432074743810) | advertise |
 | [tech97519794@twitter](https://twitter.com/tech97519794/status/1406477104200310788) | advertise |
 | [TecharoApp@twitter](https://twitter.com/TecharoApp/status/1401984338472931330) | advertise |
+| [TechEdUS1@twitter](https://twitter.com/TechEdUS1/status/1518902070438465536) | advertise |
 | [technokotsos@twitter](https://twitter.com/technokotsos/status/1517209734704766976) | advertise |
 | [TechRedneck901@twitter](https://twitter.com/TechRedneck901/status/1396056226329505794) | advertise |
 | [TechTailor@twitter](https://twitter.com/TechTailor/status/1381152232410816514) | advertise |
@@ -6840,6 +6844,7 @@ Do not create new issue or we will close it as duplicate.
 | [thantintsan22@twitter](https://twitter.com/thantintsan22/status/1392387639504871428) | advertise |
 | [ThantKyiZaw5@twitter](https://twitter.com/ThantKyiZaw5/status/1393640788291203077) | advertise |
 | [ThantPaingphyo@twitter](https://twitter.com/ThantPaingphyo/status/1391572445358788611) | advertise |
+| [Thantra40370383@twitter](https://twitter.com/Thantra40370383/status/1518668597815820289) | advertise |
 | [ThantRain@twitter](https://twitter.com/ThantRain/status/1394645804594368512) | advertise |
 | [thantsi90584414@twitter](https://twitter.com/thantsi90584414/status/1392328481791373315) | advertise |
 | [thantsin090@twitter](https://twitter.com/thantsin090/status/1408171917857619969) | advertise |
