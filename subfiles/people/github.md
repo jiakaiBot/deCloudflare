@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [breakfix: Redirect error when auth url and redirect url differs](https://github.com/greenpau/caddy-security/issues/92)
+- [Workers Pages throw on missing node util.types.isKeyObject()](https://github.com/remix-run/remix/issues/2980)
 - [TypeError: Cannot read properties of undefined (reading 'isKeyObject')](https://github.com/stytchauth/stytch-node/issues/120)
 - [Switch migration fetcher to CAR](https://github.com/ipfs/go-ipfs/issues/8851)
 - [Trying to search "/socket?random=" gets me blocked](https://github.com/sourcegraph/sourcegraph/issues/34450)
