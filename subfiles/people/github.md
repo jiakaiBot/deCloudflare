@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to bypass cf](https://github.com/HyukIsBack/KARMA-DDoS/issues/22)
 - [Unable to access hub_info on Tor browser](https://github.com/hirosystems/stacks.js/issues/1242)
 - [Cannot bypass CF](https://github.com/hoaan1995/ZxCDDoS/issues/10)
 - [No Audio on Public Page Player](https://github.com/AzuraCast/AzuraCast/issues/5314)
