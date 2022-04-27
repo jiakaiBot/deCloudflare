@@ -1159,6 +1159,7 @@ Do not create new issue or we will close it as duplicate.
 | [cameleondragoon@twitter](https://twitter.com/cameleondragoon/status/1385175092917723138) | advertise |
 | [canadamarket21@twitter](https://twitter.com/canadamarket21/status/1456298106689970178) | advertise |
 | [canarikan98@twitter](https://twitter.com/canarikan98/status/1515519404439740423) | advertise |
+| [Cancel05402207@twitter](https://twitter.com/Cancel05402207/status/1519129324779372544) | advertise |
 | [CANCER77029125@twitter](https://twitter.com/CANCER77029125/status/1392943585926991880) | advertise |
 | [candace138080@twitter](https://twitter.com/candace138080/status/1377660045463187458) | advertise |
 | [candeken@twitter](https://twitter.com/candeken/status/1393475201011130373) | advertise |
@@ -6478,6 +6479,7 @@ Do not create new issue or we will close it as duplicate.
 | [snavEkelA@twitter](https://twitter.com/snavEkelA/status/1498711363832532994) | advertise |
 | [Sniper5Szn@twitter](https://twitter.com/Sniper5Szn/status/1391481893581844482) | advertise |
 | [Snitchblaster9@twitter](https://twitter.com/Snitchblaster9/status/1396532090141777921) | advertise |
+| [SnNguyn070193@twitter](https://twitter.com/SnNguyn070193/status/1519124575921278976) | advertise |
 | [SnNguyn58842118@twitter](https://twitter.com/SnNguyn58842118/status/1383442972981620744) | advertise |
 | [snowbunnymother@twitter](https://twitter.com/snowbunnymother/status/1399210217276162052) | advertise |
 | [snowy182017@twitter](https://twitter.com/snowy182017/status/1392724631753150467) | advertise |
