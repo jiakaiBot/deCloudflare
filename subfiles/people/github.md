@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cloudflare eror code 502](https://github.com/synzen/MonitoRSS-Clone/issues/32)
 - [Failed to bypass cf](https://github.com/HyukIsBack/KARMA-DDoS/issues/22)
 - [Unable to access hub_info on Tor browser](https://github.com/hirosystems/stacks.js/issues/1242)
 - [Cannot bypass CF](https://github.com/hoaan1995/ZxCDDoS/issues/10)
