@@ -2938,6 +2938,7 @@ Do not create new issue or we will close it as duplicate.
 | [JatinSi55636829@twitter](https://twitter.com/JatinSi55636829/status/1398883557947236353) | advertise |
 | [JatxCrypto@twitter](https://twitter.com/JatxCrypto/status/1478944922698977281) | advertise |
 | [jauhari@twitter](https://twitter.com/jauhari/status/1376870621636829186) | advertise |
+| [JavierLandry8@twitter](https://twitter.com/JavierLandry8/status/1519168069108645888) | advertise |
 | [jawadka40403774@twitter](https://twitter.com/jawadka40403774/status/1395731355925979139) | advertise |
 | [Jay27070490@twitter](https://twitter.com/Jay27070490/status/1389147711681622017) | advertise |
 | [Jay30127613@twitter](https://twitter.com/Jay30127613/status/1395037131072958468) | advertise |
