@@ -825,6 +825,7 @@ Do not create new issue or we will close it as duplicate.
 | [AyushTy20433624@twitter](https://twitter.com/AyushTy20433624/status/1387040138648162309) | advertise |
 | [ayymxxn@twitter](https://twitter.com/ayymxxn/status/1400086594636288000) | advertise |
 | [azazino3@twitter](https://twitter.com/azazino3/status/1498426626023075841) | advertise |
+| [azdineaynine@twitter](https://twitter.com/azdineaynine/status/1519320647482101760) | advertise |
 | [azhqe_@twitter](https://twitter.com/azhqe_/status/1509855164542296064) | advertise |
 | [azim56828133@twitter](https://twitter.com/azim56828133/status/1377551649372258306) | advertise |
 | [azinfosys@twitter](https://twitter.com/azinfosys/status/1392180712137236480) | advertise |
@@ -3258,6 +3259,7 @@ Do not create new issue or we will close it as duplicate.
 | [KaylaSonyeondan@twitter](https://twitter.com/KaylaSonyeondan/status/1386362271140483072) | advertise |
 | [KayThinzarNyun1@twitter](https://twitter.com/KayThinzarNyun1/status/1391821821339525123) | advertise |
 | [KayThiWinMyint4@twitter](https://twitter.com/KayThiWinMyint4/status/1392849060084686848) | advertise |
+| [KayThwe12915197@twitter](https://twitter.com/KayThwe12915197/status/1519319457377660931) | advertise |
 | [KayThwe34753566@twitter](https://twitter.com/KayThwe34753566/status/1393573650977247233) | advertise |
 | [KayZinT07546172@twitter](https://twitter.com/KayZinT07546172/status/1396402603928420355) | advertise |
 | [kay_myanmar@twitter](https://twitter.com/kay_myanmar/status/1393508293016915969) | advertise |
@@ -4486,6 +4488,7 @@ Do not create new issue or we will close it as duplicate.
 | [mkk01612638@twitter](https://twitter.com/mkk01612638/status/1391092816718139395) | advertise |
 | [MKTOT3@twitter](https://twitter.com/MKTOT3/status/1391092948767371265) | advertise |
 | [mkwsra@twitter](https://twitter.com/mkwsra/status/1440805231105695746) | advertise |
+| [mlev@twitter](https://twitter.com/mlev/status/1519336801906966528) | advertise |
 | [MMARMY98815463@twitter](https://twitter.com/MMARMY98815463/status/1383095144606441473) | advertise |
 | [mmfootballmm@twitter](https://twitter.com/mmfootballmm/status/1380215958082441218) | advertise |
 | [MMK22797499@twitter](https://twitter.com/MMK22797499/status/1391278481300938752) | advertise |
@@ -7209,6 +7212,7 @@ Do not create new issue or we will close it as duplicate.
 | [TraiDm50811820@twitter](https://twitter.com/TraiDm50811820/status/1398131670214057984) | advertise |
 | [TramNgu43948092@twitter](https://twitter.com/TramNgu43948092/status/1469917328255041536) | advertise |
 | [tranceattic@twitter](https://twitter.com/tranceattic/status/1468814229717274628) | advertise |
+| [trandunghl@twitter](https://twitter.com/trandunghl/status/1519338460704026626) | advertise |
 | [tranhaonam331@twitter](https://twitter.com/tranhaonam331/status/1482005738461757454) | advertise |
 | [trantha16219627@twitter](https://twitter.com/trantha16219627/status/1480025129786564613) | advertise |
 | [trantie92872403@twitter](https://twitter.com/trantie92872403/status/1485623018823258115) | advertise |
