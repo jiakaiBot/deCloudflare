@@ -7521,6 +7521,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vn15227799@twitter](https://twitter.com/Vn15227799/status/1392391757225025538) | advertise |
 | [VNhLinh5@twitter](https://twitter.com/VNhLinh5/status/1477522077796438016) | advertise |
 | [VnLc48599484@twitter](https://twitter.com/VnLc48599484/status/1400390004984016899) | advertise |
+| [VnManucian@twitter](https://twitter.com/VnManucian/status/1519366337750921216) | advertise |
 | [VnPhi94354953@twitter](https://twitter.com/VnPhi94354953/status/1501922833395445762) | advertise |
 | [VNSPnet@twitter](https://twitter.com/VNSPnet/status/1388806930890592258) | advertise |
 | [VnTnh53728960@twitter](https://twitter.com/VnTnh53728960/status/1378052859594383363) | advertise |
