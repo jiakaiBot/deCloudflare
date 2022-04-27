@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [sportscult Cloudflare Error: No challenge selectors found, unable to proceed.](https://github.com/FlareSolverr/FlareSolverr/issues/386)
 - [cloudflare eror code 502](https://github.com/synzen/MonitoRSS-Clone/issues/32)
 - [Failed to bypass cf](https://github.com/HyukIsBack/KARMA-DDoS/issues/22)
 - [Unable to access hub_info on Tor browser](https://github.com/hirosystems/stacks.js/issues/1242)
