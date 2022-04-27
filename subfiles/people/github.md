@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to access hub_info on Tor browser](https://github.com/hirosystems/stacks.js/issues/1242)
 - [Cannot bypass CF](https://github.com/hoaan1995/ZxCDDoS/issues/10)
 - [No Audio on Public Page Player](https://github.com/AzuraCast/AzuraCast/issues/5314)
 - [all sensors are showing as unavailable](https://github.com/Red5d/ha-gasbuddy/issues/1)
