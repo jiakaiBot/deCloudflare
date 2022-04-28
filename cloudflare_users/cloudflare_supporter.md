@@ -6489,6 +6489,7 @@ Do not create new issue or we will close it as duplicate.
 | [snowbunnymother@twitter](https://twitter.com/snowbunnymother/status/1399210217276162052) | advertise |
 | [snowy182017@twitter](https://twitter.com/snowy182017/status/1392724631753150467) | advertise |
 | [SnXn39618151@twitter](https://twitter.com/SnXn39618151/status/1500447892665823233) | advertise |
+| [soangtwt@twitter](https://twitter.com/soangtwt/status/1519443593572020224) | advertise |
 | [SobireenK@twitter](https://twitter.com/SobireenK/status/1394443082637070340) | advertise |
 | [soeaungnaing23@twitter](https://twitter.com/soeaungnaing23/status/1379767879344656384) | advertise |
 | [SoeGyi14472135@twitter](https://twitter.com/SoeGyi14472135/status/1390251552225566723) | advertise |
@@ -7233,6 +7234,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tristan11917357@twitter](https://twitter.com/Tristan11917357/status/1386201834537340929) | advertise |
 | [Triu48585495@twitter](https://twitter.com/Triu48585495/status/1397062708571242496) | advertise |
 | [TrkanLukas@twitter](https://twitter.com/TrkanLukas/status/1383167217907478531) | advertise |
+| [TrncMin97936215@twitter](https://twitter.com/TrncMin97936215/status/1519458517748359168) | advertise |
 | [trndtrader@twitter](https://twitter.com/trndtrader/status/1499022857929637890) | advertise |
 | [Trng994@twitter](https://twitter.com/Trng994/status/1494841748698599425) | advertise |
 | [Trng20818819@twitter](https://twitter.com/Trng20818819/status/1399318695856328706) | advertise |
