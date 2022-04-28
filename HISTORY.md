@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-04-28: [Issue with Email Routing](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pwcjjvnzy8ht)
+- 2022-04-28: [Issue with Cloudflare Zaraz](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/96y65278zrg9)
 - 2022-04-26: [Network Performance Issues in AMS region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/nfkn9z7br6tb)
 - 2022-04-26: [Issue with Invoices](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w3vnt15djdgl)
 - 2022-04-23: [Network Performance Issues in multiple regions](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sp8qhzyqs7pr)
