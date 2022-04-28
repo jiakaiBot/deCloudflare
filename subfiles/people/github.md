@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when converting schema with if / then](https://github.com/openapi-contrib/json-schema-to-openapi-schema/issues/27)
 - [No se puede desacar musica](https://github.com/Shabinder/SpotiFlyer/issues/1319)
 - [Help Retry Data with Bad Proxy](https://github.com/openbullet/OpenBullet2/issues/712)
 - [sportscult Cloudflare Error: No challenge selectors found, unable to proceed.](https://github.com/FlareSolverr/FlareSolverr/issues/386)
