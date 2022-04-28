@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,417 |
 | net | 1,408 |
-| social | 1,001 |
+| social | 1,002 |
 | org | 1,000 |
-| de | 813 |
+| de | 814 |
 
 
 - Mastodon, Pleroma, etc
@@ -1270,6 +1270,7 @@ Here's a list of public Fediverse services.
 | azan.one | Yes |
 | azarakko.net | No |
 | azbulutlu.org | No |
+| azfedi.social | No |
 | azkware.net | No |
 | azuki.cf | No |
 | azumarill.net | No |
@@ -8159,6 +8160,7 @@ Here's a list of public Fediverse services.
 | kurume-nct.com | No |
 | kurup.org | Yes |
 | kurusukono.cc | No |
+| kusako.de | No |
 | kuscheltierdoktor.de | No |
 | kusoneko.moe | No |
 | kuude.re | No |
@@ -17300,7 +17302,7 @@ Here's a list of public Fediverse services.
 | worldbuilding.zone | No |
 | worlddominationplan.com | No |
 | worlddrive.club | No |
-| worldkey.io | No |
+| worldkey.io | Yes |
 | worldofhauru.xyz | No |
 | worldofvids.com | No |
 | worldtravel.photos | No |
@@ -17968,8 +17970,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,273 |
-| Normal | 14,652 |
+| Cloudflare | 3,274 |
+| Normal | 14,653 |
 
 
 ### 18.3% of public Fediverse services are using Cloudflare.
