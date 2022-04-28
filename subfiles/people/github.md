@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Help Retry Data with Bad Proxy](https://github.com/openbullet/OpenBullet2/issues/712)
 - [sportscult Cloudflare Error: No challenge selectors found, unable to proceed.](https://github.com/FlareSolverr/FlareSolverr/issues/386)
 - [cloudflare eror code 502](https://github.com/synzen/MonitoRSS-Clone/issues/32)
 - [Failed to bypass cf](https://github.com/HyukIsBack/KARMA-DDoS/issues/22)
