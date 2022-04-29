@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,432 |
+| com | 2,433 |
 | net | 1,409 |
-| social | 1,009 |
+| social | 1,010 |
 | org | 1,002 |
 | de | 827 |
 
@@ -2654,6 +2654,7 @@ Here's a list of public Fediverse services.
 | climatejustice.social | No |
 | climatejustice.video | Yes |
 | clintmoyer.com | No |
+| clippyco.com | No |
 | cliq.buzz | Yes |
 | cliq.social | No |
 | cliterati.club | Yes |
@@ -7172,6 +7173,7 @@ Here's a list of public Fediverse services.
 | israelmgo.es | No |
 | issizler.club | Yes |
 | issue.network | No |
+| ist.social | No |
 | istheguy.com | No |
 | isthisacope.com | No |
 | istoot.xyz | No |
@@ -15018,6 +15020,7 @@ Here's a list of public Fediverse services.
 | strangled.net | No |
 | stratinator.com | Yes |
 | streamer.cafe | No |
+| streamer.place | No |
 | streamers.social | Yes |
 | streamz.ca | No |
 | streiter.io | No |
@@ -18073,7 +18076,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,301 |
-| Normal | 14,728 |
+| Normal | 14,731 |
 
 
 ### 18.3% of public Fediverse services are using Cloudflare.
