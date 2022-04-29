@@ -1177,6 +1177,7 @@ Or is this merely a case of simple modesty?
 | Misha Girshfeld | Customer Success Engineer |  |
 | Misha Yalavarthy | Security Engineer |  |
 | Mitul Limbachiya | Employee |  |
+| Mitz Amano | Employee | |
 | Mohak Kataria | Employee | |
 | Mohamed ElShal | Employee |  |
 | Mohamed Ibrahim | Support Engineer, Singapore |  |
@@ -1249,6 +1250,7 @@ Or is this merely a case of simple modesty?
 | Noah Maxwell Kennedy | Employee | |
 | Noah Neuman | Enterprise Account Executive |  |
 | Norm Slaught | Customer Development |  |
+| Nuno Diegues | Employee | |
 | Obinna Ekwuno | Employee | |
 | Olafur Gudmundsson | Systems Engineer |  |
 | Olafur Guodmundsson | Systems Engineer | https://twitter.com/OGudm<br>https://www.linkedin.com/in/olafur-gudmundsson-6a88716<br>https://github.com/ogud |
