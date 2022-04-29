@@ -136,6 +136,7 @@ Do not create new issue or we will close it as duplicate.
 | [aarashaaria@twitter](https://twitter.com/aarashaaria/status/1376873295639949315) | advertise |
 | [AAravindthkumar@twitter](https://twitter.com/AAravindthkumar/status/1396989298654650388) | advertise |
 | [aaron54733902@twitter](https://twitter.com/aaron54733902/status/1400550977971818497) | advertise |
+| [aarontexas123@twitter](https://twitter.com/aarontexas123/status/1520027136425226240) | advertise |
 | [aartibsin@twitter](https://twitter.com/aartibsin/status/1503035800153432070) | advertise |
 | [Aarush82908218@twitter](https://twitter.com/Aarush82908218/status/1383700007111467012) | advertise |
 | [AashirBg@twitter](https://twitter.com/AashirBg/status/1411697775406837764) | moral (advertise) |
@@ -1994,6 +1995,7 @@ Do not create new issue or we will close it as duplicate.
 | [flushdgrollings@twitter](https://twitter.com/flushdgrollings/status/1380788675882049537) | advertise |
 | [flux_wiz@twitter](https://twitter.com/flux_wiz/status/1460077906772693002) | advertise |
 | [flyerfocus@twitter](https://twitter.com/flyerfocus/status/1382377771473670144) | advertise |
+| [flythatdude001@twitter](https://twitter.com/flythatdude001/status/1520067790543065089) | advertise |
 | [fof15797974@twitter](https://twitter.com/fof15797974/status/1487706959914565632) | advertise |
 | [Foguzz_narak@twitter](https://twitter.com/Foguzz_narak/status/1405488230351347722) | advertise |
 | [fOL4fO7rcKS2YZL@twitter](https://twitter.com/fOL4fO7rcKS2YZL/status/1496746113683968001) | advertise |
