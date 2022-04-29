@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [SOCKS5 proxy not working v2.2.4](https://github.com/FlareSolverr/FlareSolverr/issues/387)
 - [Nhentai Cloudflare IUAM challenge](https://github.com/mikf/gallery-dl/issues/2537)
 - [Example for Swap CW20 with StableCoin not working](https://github.com/terra-money/docs/issues/325)
 - [Cannot get pool for CW20 from LCDClient Query](https://github.com/terra-money/terra.js/issues/268)
