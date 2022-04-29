@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Nhentai Cloudflare IUAM challenge](https://github.com/mikf/gallery-dl/issues/2537)
 - [Example for Swap CW20 with StableCoin not working](https://github.com/terra-money/docs/issues/325)
 - [Cannot get pool for CW20 from LCDClient Query](https://github.com/terra-money/terra.js/issues/268)
 - [Nuclei Blocked by Cloudflare](https://github.com/projectdiscovery/nuclei/issues/1911)
