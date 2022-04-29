@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot get pool for CW20 from LCDClient Query](https://github.com/terra-money/terra.js/issues/268)
 - [Nuclei Blocked by Cloudflare](https://github.com/projectdiscovery/nuclei/issues/1911)
 - [Error when converting schema with if / then](https://github.com/openapi-contrib/json-schema-to-openapi-schema/issues/27)
 - [No se puede desacar musica](https://github.com/Shabinder/SpotiFlyer/issues/1319)
