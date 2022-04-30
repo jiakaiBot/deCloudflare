@@ -2226,6 +2226,7 @@ Do not create new issue or we will close it as duplicate.
 | [hafidm93@twitter](https://twitter.com/hafidm93/status/1474230698105995275) | advertise |
 | [Hafijpt4@twitter](https://twitter.com/Hafijpt4/status/1492774572365860864) | advertise |
 | [hafizalharris@twitter](https://twitter.com/hafizalharris/status/1478997972897591299) | advertise |
+| [hafovux@twitter](https://twitter.com/hafovux/status/1520300482212020224) | advertise |
 | [Haha40345189@twitter](https://twitter.com/Haha40345189/status/1392928724815732736) | advertise |
 | [haha69163225@twitter](https://twitter.com/haha69163225/status/1384546554980171787) | advertise |
 | [Haha88526766@twitter](https://twitter.com/Haha88526766/status/1401048178611265544) | advertise |
@@ -4780,6 +4781,7 @@ Do not create new issue or we will close it as duplicate.
 | [Myonai2000@twitter](https://twitter.com/Myonai2000/status/1390124500268851203) | advertise |
 | [MyoSanda2@twitter](https://twitter.com/MyoSanda2/status/1392874011722399750) | advertise |
 | [MyoSett12@twitter](https://twitter.com/MyoSett12/status/1389977223403163651) | advertise |
+| [myosotis_r@twitter](https://twitter.com/myosotis_r/status/1520300047099101185) | advertise |
 | [MyoThan41163295@twitter](https://twitter.com/MyoThan41163295/status/1384727783117447172) | advertise |
 | [MyoThet04519795@twitter](https://twitter.com/MyoThet04519795/status/1376759455396716552) | advertise |
 | [MyoThida11@twitter](https://twitter.com/MyoThida11/status/1389682571219456001) | advertise |
@@ -5145,6 +5147,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nimesh04922409@twitter](https://twitter.com/Nimesh04922409/status/1401428764907642883) | advertise |
 | [nimmneun@twitter](https://twitter.com/nimmneun/status/1435175570288087048) | advertise |
 | [Nimooo22663652@twitter](https://twitter.com/Nimooo22663652/status/1383878514911322115) | advertise |
+| [Ningxi369@twitter](https://twitter.com/Ningxi369/status/1520201182278725632) | advertise |
 | [Ninhngu01376669@twitter](https://twitter.com/Ninhngu01376669/status/1504717590463401984) | advertise |
 | [NiNiWinSwe1@twitter](https://twitter.com/NiNiWinSwe1/status/1381950121617682433) | advertise |
 | [Ninja87682819@twitter](https://twitter.com/Ninja87682819/status/1402986987829665794) | advertise |
@@ -5293,6 +5296,7 @@ Do not create new issue or we will close it as duplicate.
 | [obliquum@twitter](https://twitter.com/obliquum/status/1394296794994012163) | advertise |
 | [OButhum@twitter](https://twitter.com/OButhum/status/1393372232093556739) | advertise |
 | [OdariMc@twitter](https://twitter.com/OdariMc/status/1380700664016334848) | advertise |
+| [odragaoverde@twitter](https://twitter.com/odragaoverde/status/1520195893210853377) | advertise |
 | [OdunmbakuAyomi2@twitter](https://twitter.com/OdunmbakuAyomi2/status/1406588138479292416) | advertise |
 | [odwelly@twitter](https://twitter.com/odwelly/status/1432723252154089492) | advertise |
 | [OfClicking@twitter](https://twitter.com/OfClicking/status/1509091140884070400) | advertise |
@@ -5719,6 +5723,7 @@ Do not create new issue or we will close it as duplicate.
 | [ptuananh11@twitter](https://twitter.com/ptuananh11/status/1491584877266751493) | advertise |
 | [Pubg02020@twitter](https://twitter.com/Pubg02020/status/1381904001101299712) | advertise |
 | [Pubg1Anton@twitter](https://twitter.com/Pubg1Anton/status/1406504260418740224) | advertise |
+| [PubgKin74586627@twitter](https://twitter.com/PubgKin74586627/status/1520304008841379841) | advertise |
 | [PubgKing5858@twitter](https://twitter.com/PubgKing5858/status/1387704039211769857) | advertise |
 | [Pubglovar16@twitter](https://twitter.com/Pubglovar16/status/1385165974412816384) | advertise |
 | [PubRicardo@twitter](https://twitter.com/PubRicardo/status/1398443571536146435) | advertise |
@@ -5834,6 +5839,7 @@ Do not create new issue or we will close it as duplicate.
 | [raha46556016@twitter](https://twitter.com/raha46556016/status/1488618706372542470) | advertise |
 | [rahimifafa@twitter](https://twitter.com/rahimifafa/status/1380971241629229064) | advertise |
 | [rahmat3769@twitter](https://twitter.com/rahmat3769/status/1389475547445616644) | advertise |
+| [RahmatRasoly@twitter](https://twitter.com/RahmatRasoly/status/1520311985862320133) | advertise |
 | [rahul05ranjan@twitter](https://twitter.com/rahul05ranjan/status/1497685840428146688) | advertise |
 | [rahulkaswa112@twitter](https://twitter.com/rahulkaswa112/status/1391641130710700037) | advertise |
 | [RaidhaRaameen@twitter](https://twitter.com/RaidhaRaameen/status/1501565539751133188) | advertise |
