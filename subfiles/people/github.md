@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Invalid last_modified header format](https://github.com/Xe/site/issues/463)
 - [Rollup error: Could not load unenv/runtime/proxy-cjs/promises.mjs](https://github.com/unjs/nitro/issues/168)
 - [display "Bad Gateway" when i try to login the webui](https://github.com/jlesage/docker-nginx-proxy-manager/issues/253)
 - [Banned from Lutris.net by Cloudflare - how to unban?](https://github.com/lutris/website/issues/627)
