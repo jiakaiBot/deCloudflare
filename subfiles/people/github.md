@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [display "Bad Gateway" when i try to login the webui](https://github.com/jlesage/docker-nginx-proxy-manager/issues/253)
 - [Banned from Lutris.net by Cloudflare - how to unban?](https://github.com/lutris/website/issues/627)
 - [NHentai Cloudfare Issue](https://github.com/HDoujinDownloader/HDoujinDownloader/issues/117)
 - [/admin returns 422 on login](https://github.com/dani-garcia/vaultwarden/issues/2444)
