@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [NHentai Cloudfare Issue](https://github.com/HDoujinDownloader/HDoujinDownloader/issues/117)
+- [/admin returns 422 on login](https://github.com/dani-garcia/vaultwarden/issues/2444)
 - [SOCKS5 proxy not working v2.2.4](https://github.com/FlareSolverr/FlareSolverr/issues/387)
 - [Nhentai Cloudflare IUAM challenge](https://github.com/mikf/gallery-dl/issues/2537)
 - [Example for Swap CW20 with StableCoin not working](https://github.com/terra-money/docs/issues/325)
