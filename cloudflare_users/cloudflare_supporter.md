@@ -850,6 +850,7 @@ Do not create new issue or we will close it as duplicate.
 | [babayagaofIndia@twitter](https://twitter.com/babayagaofIndia/status/1394759766845444101) | advertise |
 | [BABU32660605@twitter](https://twitter.com/BABU32660605/status/1446809782824751110) | advertise |
 | [baburaj74061287@twitter](https://twitter.com/baburaj74061287/status/1402296311227977730) | advertise |
+| [babushka99@twitter](https://twitter.com/babushka99/status/1520337537998462979) | advertise |
 | [Babyblu82224449@twitter](https://twitter.com/Babyblu82224449/status/1387554058714566656) | advertise |
 | [Babysela1@twitter](https://twitter.com/Babysela1/status/1478028360877948928) | advertise |
 | [BabyWhite999@twitter](https://twitter.com/BabyWhite999/status/1406167535825920001) | advertise |
@@ -2415,6 +2416,7 @@ Do not create new issue or we will close it as duplicate.
 | [HiNguyn74792313@twitter](https://twitter.com/HiNguyn74792313/status/1400332809403723779) | advertise |
 | [HiranoKuro@twitter](https://twitter.com/HiranoKuro/status/1388350222598742016) | advertise |
 | [Hiro00129279@twitter](https://twitter.com/Hiro00129279/status/1381635026807181318) | advertise |
+| [hiro3pc@twitter](https://twitter.com/hiro3pc/status/1520371268859891712) | advertise |
 | [hisham_ali22@twitter](https://twitter.com/hisham_ali22/status/1518615042815668225) | advertise |
 | [hishertweets@twitter](https://twitter.com/hishertweets/status/1498862531997503488) | advertise |
 | [Hiu36827414@twitter](https://twitter.com/Hiu36827414/status/1391153248950644740) | advertise |
