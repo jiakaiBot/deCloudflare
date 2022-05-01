@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error setting up entry Mawaqit for mawaqit_prayer_times](https://github.com/mawaqit/home-assistant/issues/14)
 - [Invalid last_modified header format](https://github.com/Xe/site/issues/463)
 - [Rollup error: Could not load unenv/runtime/proxy-cjs/promises.mjs](https://github.com/unjs/nitro/issues/168)
 - [display "Bad Gateway" when i try to login the webui](https://github.com/jlesage/docker-nginx-proxy-manager/issues/253)
