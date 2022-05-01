@@ -47,6 +47,7 @@ ns2-07.azure-dns.net
 ns2-08.azure-dns.de
 ns2-08.azure-dns.net
 ns2-08.ppe.azure-dns.net
+ns2-09.azure-dns.com
 ns2-09.azure-dns.net
 ns2-09.ppe.azure-dns.net
 ns2-201.azure-dns.net
@@ -78,6 +79,7 @@ ns3-07.azure-dns.org
 ns3-08.azure-dns.de
 ns3-08.azure-dns.org
 ns3-08.ppe.azure-dns.org
+ns3-09.azure-dns.com
 ns3-09.azure-dns.org
 ns3-09.ppe.azure-dns.org
 ns3-201.azure-dns.org
@@ -109,6 +111,7 @@ ns4-08.azure-dns.de
 ns4-08.azure-dns.info
 ns4-08.azure-dns.org
 ns4-08.ppe.azure-dns.info
+ns4-09.azure-dns.com
 ns4-09.azure-dns.info
 ns4-09.ppe.azure-dns.info
 ns4-201.azure-dns.info
