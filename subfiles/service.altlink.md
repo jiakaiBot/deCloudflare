@@ -142,7 +142,6 @@ The mascot wears a referee top and red sash across chest. Above the shield is 'M
 
 - Mastodon servers are controlled by third party.
   - Let us know if above account is censored by aggressive Cloudflare supporters.
-- ↳ [IRC Service](../tool/altlinkIRC/README.md)
 - ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
 - ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared/fediverse.md)
 - ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared/shared_mastodon.md)
