@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Before opening a issue about "No Entries Found" | 在打开一个关于 "没有找到条目 "的问题之前](https://github.com/Dar9586/NClientV2/issues/433)
 - [Error setting up entry Mawaqit for mawaqit_prayer_times](https://github.com/mawaqit/home-assistant/issues/14)
 - [Invalid last_modified header format](https://github.com/Xe/site/issues/463)
 - [Rollup error: Could not load unenv/runtime/proxy-cjs/promises.mjs](https://github.com/unjs/nitro/issues/168)
