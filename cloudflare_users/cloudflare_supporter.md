@@ -3455,8 +3455,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8210,6 +8210,7 @@ Do not create new issue or we will close it as duplicate.
 | [_otkzk_@twitter](https://twitter.com/_otkzk_/status/1488376670256267265) | advertise |
 | [_pyromantic@twitter](https://twitter.com/_pyromantic/status/1479104111106674697) | advertise |
 | [_rikisan@twitter](https://twitter.com/_rikisan/status/1389050815122481155) | advertise |
+| [_rurq@twitter](https://twitter.com/_rurq/status/1521161926012719109) | advertise |
 | [_Sumitha_@twitter](https://twitter.com/_Sumitha_/status/1508090635131420678) | advertise |
 | [_UmmuUmairah_@twitter](https://twitter.com/_UmmuUmairah_/status/1394222981342060544) | advertise |
 | [_YoonminIsKii_@twitter](https://twitter.com/_YoonminIsKii_/status/1395181543241523205) | advertise |
