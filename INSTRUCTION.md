@@ -208,22 +208,24 @@ If you're not blocking Tor users, you will be removed automatically.
 </summary>
 
 
-A or B will be enough. (or C if you really can't)
-Thank you for your contribution.
+A, B, or C will be enough. (or D if you really can't)
+**Thank you for your contribution. You are doing a good job!**
+
+
+> Type A: Use Online Editor
 
 - [Online Editor](http://editdcf.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
 
 
-> Type A: Push to git
+> Type B: Push to git
 
-1. Log in to [this website](http://crimeflare.eu.org).
-  - If you're Tor user, we recommend 'type B'.
+1. Log in to [this website's Git](http://crimeflare.eu.org).
 2. Click "*Fork*" button.  (top-left corner)
 3. Edit `text` file.  (_you don't have to edit JSON file_)
 4. Create a *new pull request*.
 
 
-> Type B: Just scan the FQDN
+> Type C: Just scan the FQDN
 
 Your contribution will be pushed to git automatically.
 - Cloudflare
@@ -236,7 +238,7 @@ Your contribution will be pushed to git automatically.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 -X POST -F 'f=www.emsisoft.com' (API URL)is_antitor.php`
 
 
-> Type C: Create an Issue
+> Type D: Create an Issue
 
 Create an Issue and let us know about the change you want to make.
 You can [contribute anonymously](README.md).
