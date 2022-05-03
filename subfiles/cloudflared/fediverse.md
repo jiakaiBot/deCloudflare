@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,458 |
-| net | 1,428 |
+| com | 2,459 |
+| net | 1,429 |
 | social | 1,044 |
 | org | 1,009 |
 | de | 856 |
@@ -1173,7 +1173,7 @@ Here's a list of public Fediverse services.
 | atomic-zombie-squirrel.tech | No |
 | atomicblon.de | No |
 | atomicfridge.net | No |
-| atomicstar.xyz | No |
+| atomicstar.xyz | Yes |
 | ator.cz | No |
 | atpons.com | No |
 | atravesdelcuento.es | No |
@@ -4095,6 +4095,7 @@ Here's a list of public Fediverse services.
 | dulynoded.online | No |
 | dumango.com | No |
 | dumb.land | No |
+| dumbly.net | No |
 | dumbo.kr | No |
 | dumez.info | No |
 | dummbutz.nl | No |
@@ -6041,6 +6042,7 @@ Here's a list of public Fediverse services.
 | graeber.video | No |
 | graedener.com | Yes |
 | graffen.io | No |
+| grafo.zone | No |
 | grahamc.com | No |
 | grainedutopie.eu | No |
 | gramschladen.de | No |
@@ -9568,7 +9570,7 @@ Here's a list of public Fediverse services.
 | mastodon.co.nz | No |
 | mastodon.co.za | No |
 | mastodon.codes | No |
-| mastodon.coffee | No |
+| mastodon.coffee | Yes |
 | mastodon.com.au | No |
 | mastodon.com.br | No |
 | mastodon.com.pl | Yes |
@@ -13006,6 +13008,7 @@ Here's a list of public Fediverse services.
 | project-imas.cn | No |
 | project.social | No |
 | project47.xyz | No |
+| projectftm.com | No |
 | projectlounge.pw | Yes |
 | projectmakeit.com | No |
 | projectsegfau.lt | Yes |
@@ -18341,8 +18344,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,370 |
-| Normal | 14,928 |
+| Cloudflare | 3,372 |
+| Normal | 14,929 |
 
 
 ### 18.4% of public Fediverse services are using Cloudflare.
