@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [UPLOADED event fires off when the responseCode is 4xx](https://github.com/spoonconsulting/cordova-plugin-background-upload/issues/225)
 - [Before opening a issue about "No Entries Found" | 在打开一个关于 "没有找到条目 "的问题之前](https://github.com/Dar9586/NClientV2/issues/433)
 - [Error setting up entry Mawaqit for mawaqit_prayer_times](https://github.com/mawaqit/home-assistant/issues/14)
 - [Invalid last_modified header format](https://github.com/Xe/site/issues/463)
