@@ -6722,6 +6722,7 @@ Do not create new issue or we will close it as duplicate.
 | [syahril_akbar32@twitter](https://twitter.com/syahril_akbar32/status/1468464046445785089) | advertise |
 | [syaifullahmaad@twitter](https://twitter.com/syaifullahmaad/status/1385385161131397121) | advertise |
 | [Syanl_SEA@twitter](https://twitter.com/Syanl_SEA/status/1378245568665899009) | advertise |
+| [syarifl@twitter](https://twitter.com/syarifl/status/1521397463738839043) | advertise |
 | [SyatirahMd@twitter](https://twitter.com/SyatirahMd/status/1393480198738173952) | advertise |
 | [SyedFah94404165@twitter](https://twitter.com/SyedFah94404165/status/1386268969083019266) | advertise |
 | [syedfazil42@twitter](https://twitter.com/syedfazil42/status/1386576346885758976) | advertise |
