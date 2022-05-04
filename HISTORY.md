@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-05-04: [Network Performance Issues in Atlanta,ATL colo](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tsgjl3jt9h8f)
 - 2022-05-03: [Access OTP Email Delivery Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5f3ybs2gj5q0)
 - 2022-04-28: [Issue with Email Routing](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pwcjjvnzy8ht)
 - 2022-04-28: [Issue with Cloudflare Zaraz](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/96y65278zrg9)
