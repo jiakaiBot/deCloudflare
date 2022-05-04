@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Bypass cloudflare when using proxy](https://github.com/Gbox4/forx/issues/10)
+- [AisInstantSearchSsr make child component life circle trigger twice](https://github.com/algolia/vue-instantsearch/issues/1122)
 - [Remove IP from blacklist](https://github.com/docker/hub-feedback/issues/2231)
 - [acme-client : Cloudflare Zone ID variable](https://github.com/opnsense/plugins/issues/2973)
 - [Fix download for toongod.com](https://github.com/HDoujinDownloader/HDoujinDownloader/issues/118)
