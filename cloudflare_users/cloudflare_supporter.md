@@ -4373,6 +4373,7 @@ Do not create new issue or we will close it as duplicate.
 | [Michael17887442@twitter](https://twitter.com/Michael17887442/status/1394202950143258625) | advertise |
 | [Michael33737581@twitter](https://twitter.com/Michael33737581/status/1407397526357954562) | advertise |
 | [MichaelJGant1@twitter](https://twitter.com/MichaelJGant1/status/1388453082317606914) | advertise |
+| [michaelrocz@twitter](https://twitter.com/michaelrocz/status/1521728615582416896) | advertise |
 | [MichaelTlayt@twitter](https://twitter.com/MichaelTlayt/status/1455463683639943170) | advertise |
 | [MichaelUdyRajD@twitter](https://twitter.com/MichaelUdyRajD/status/1378052380533563393) | advertise |
 | [MichaelWanzer5@twitter](https://twitter.com/MichaelWanzer5/status/1388810880150691845) | advertise |
