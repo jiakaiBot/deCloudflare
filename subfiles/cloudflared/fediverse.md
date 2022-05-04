@@ -13165,6 +13165,7 @@ Here's a list of public Fediverse services.
 | pwnsdx.pw | Yes |
 | px1.link | No |
 | pxil.club | No |
+| pxl.pictures | No |
 | pxlfd.me | Yes |
 | pxlfed.de | No |
 | pxlmo.com | No |
@@ -18390,7 +18391,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,386 |
-| Normal | 14,960 |
+| Normal | 14,961 |
 
 
 ### 18.5% of public Fediverse services are using Cloudflare.
