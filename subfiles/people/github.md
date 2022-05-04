@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Total canvas memory use exceeds the maximum limit (384 MB)](https://github.com/diegomura/react-pdf/issues/1809)
 - [Bypass cloudflare when using proxy](https://github.com/Gbox4/forx/issues/10)
 - [AisInstantSearchSsr make child component life circle trigger twice](https://github.com/algolia/vue-instantsearch/issues/1122)
 - [Remove IP from blacklist](https://github.com/docker/hub-feedback/issues/2231)
