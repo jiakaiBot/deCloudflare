@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Socket operation timed out](https://github.com/NebuTech/NBMiner/issues/805)
 - [feature Custom User-Agent String](https://github.com/securityheaders/securityheaders-bugs/issues/105)
 - [Webp images are generated but only some are served.](https://github.com/yireo/Yireo_Webp2/issues/118)
 - [Echo state is not updated automatically](https://github.com/custom-components/alexa_media_player/issues/1590)
