@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [feature Custom User-Agent String](https://github.com/securityheaders/securityheaders-bugs/issues/105)
+- [Webp images are generated but only some are served.](https://github.com/yireo/Yireo_Webp2/issues/118)
 - [Echo state is not updated automatically](https://github.com/custom-components/alexa_media_player/issues/1590)
 - [Wildcard help needed](https://github.com/greenpau/caddy-security/issues/95)
 - [Total canvas memory use exceeds the maximum limit (384 MB)](https://github.com/diegomura/react-pdf/issues/1809)
