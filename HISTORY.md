@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-05-05: [Customer Impacting Issue - Captcha](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f6cv9cxtfdj2)
 - 2022-05-04: [Interstitial page bypass failing](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mv7ntrsvv2vp)
 - 2022-05-04: [Network Performance Issues in Atlanta,ATL colo](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tsgjl3jt9h8f)
 - 2022-05-03: [Access OTP Email Delivery Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5f3ybs2gj5q0)
