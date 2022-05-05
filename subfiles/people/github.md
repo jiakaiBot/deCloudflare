@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Echo state is not updated automatically](https://github.com/custom-components/alexa_media_player/issues/1590)
 - [Wildcard help needed](https://github.com/greenpau/caddy-security/issues/95)
 - [Total canvas memory use exceeds the maximum limit (384 MB)](https://github.com/diegomura/react-pdf/issues/1809)
 - [Bypass cloudflare when using proxy](https://github.com/Gbox4/forx/issues/10)
