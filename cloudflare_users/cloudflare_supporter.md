@@ -379,6 +379,7 @@ Do not create new issue or we will close it as duplicate.
 | [Alucard61231443@twitter](https://twitter.com/Alucard61231443/status/1407179688439468039) | advertise |
 | [AlvinKigen@twitter](https://twitter.com/AlvinKigen/status/1382025365930016776) | advertise |
 | [Alvinn_Garcia@twitter](https://twitter.com/Alvinn_Garcia/status/1384722685666598914) | advertise |
+| [AlwieWith@twitter](https://twitter.com/AlwieWith/status/1522266243566292993) | advertise |
 | [AM764707853@twitter](https://twitter.com/AM764707853/status/1485010347274743811) | advertise |
 | [amai0722@twitter](https://twitter.com/amai0722/status/1395805952704606208) | advertise |
 | [amalalmadawy@twitter](https://twitter.com/amalalmadawy/status/1398334332322844679) | advertise |
@@ -1708,6 +1709,7 @@ Do not create new issue or we will close it as duplicate.
 | [DovahkiW@twitter](https://twitter.com/DovahkiW/status/1424625036007297024) | advertise |
 | [downloadervide0@twitter](https://twitter.com/downloadervide0/status/1439647584012881920) | advertise |
 | [Doya48669093@twitter](https://twitter.com/Doya48669093/status/1396780661181190144) | advertise |
+| [dozen_of_love@twitter](https://twitter.com/dozen_of_love/status/1518761726728368128) | advertise |
 | [DpJocker@twitter](https://twitter.com/DpJocker/status/1383704630396284931) | advertise |
 | [dr0iz2@twitter](https://twitter.com/dr0iz2/status/1450296026137567232) | advertise |
 | [DragonTechIT@twitter](https://twitter.com/DragonTechIT/status/1437804344682893321) | advertise |
@@ -7613,6 +7615,7 @@ Do not create new issue or we will close it as duplicate.
 | [waawawalala@twitter](https://twitter.com/waawawalala/status/1393040426983059462) | advertise |
 | [Wadawn15@twitter](https://twitter.com/Wadawn15/status/1396809468005036034) | advertise |
 | [Waelelsayed56@twitter](https://twitter.com/Waelelsayed56/status/1397011445435469824) | advertise |
+| [wael_shamsedin@twitter](https://twitter.com/wael_shamsedin/status/1522288287284711427) | advertise |
 | [WahidKh61073340@twitter](https://twitter.com/WahidKh61073340/status/1483196682267463682) | advertise |
 | [WahWahKhaing18@twitter](https://twitter.com/WahWahKhaing18/status/1390549494274551814) | advertise |
 | [wahyu25679098@twitter](https://twitter.com/wahyu25679098/status/1385956756803579907) | advertise |
