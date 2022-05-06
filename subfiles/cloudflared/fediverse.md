@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,471 |
-| net | 1,434 |
+| com | 2,472 |
+| net | 1,435 |
 | social | 1,054 |
 | org | 1,014 |
 | de | 860 |
@@ -761,6 +761,7 @@ Here's a list of public Fediverse services.
 | amie.moe | Yes |
 | amiensweb.fr | No |
 | amifsud.fr | No |
+| amii.moe | Yes |
 | amity.zone | No |
 | amiva.cc | No |
 | amk.ie | Yes |
@@ -1015,7 +1016,7 @@ Here's a list of public Fediverse services.
 | argh.club | No |
 | argia.eus | No |
 | argon.city | Yes |
-| args.in | No |
+| args.in | Yes |
 | arguos.com | Yes |
 | aria.company | No |
 | aria.dog | No |
@@ -1884,7 +1885,7 @@ Here's a list of public Fediverse services.
 | bnolet.me | No |
 | boanus.net | No |
 | boardgames.social | Yes |
-| boba.best | No |
+| boba.best | Yes |
 | boba.zone | No |
 | bobadon.co.uk | No |
 | bobadon.rocks | No |
@@ -4913,7 +4914,7 @@ Here's a list of public Fediverse services.
 | fediverse.partners | No |
 | fediverse.pl | Yes |
 | fediverse.ru | No |
-| fediverse.services | No |
+| fediverse.services | Yes |
 | fediverse.tv | No |
 | fediversekey.com | Yes |
 | fediverso.net | No |
@@ -6882,6 +6883,7 @@ Here's a list of public Fediverse services.
 | hypertextcoffee.com | Yes |
 | hypno.church | No |
 | hypnoguys.com | No |
+| hypnoville.net | No |
 | hypnovir.us | Yes |
 | hyuki.net | Yes |
 | hzrd.us | No |
@@ -8906,6 +8908,7 @@ Here's a list of public Fediverse services.
 | lio.one | No |
 | liolok.com | Yes |
 | lion.land | No |
+| lipanisecurity.com | No |
 | liquichat.com | No |
 | listen.gallery | No |
 | lit.monster | Yes |
@@ -9553,6 +9556,7 @@ Here's a list of public Fediverse services.
 | masthead.social | Yes |
 | masticated.life | No |
 | mastio.nl | No |
+| mastio.xyz | No |
 | mastion.social | No |
 | mastnode.faith | No |
 | masto-sport.us | No |
@@ -9627,6 +9631,7 @@ Here's a list of public Fediverse services.
 | mastodon.com.au | No |
 | mastodon.com.br | No |
 | mastodon.com.pl | Yes |
+| mastodon.com.tr | No |
 | mastodon.com.tw | No |
 | mastodon.computer | No |
 | mastodon.cool | No |
@@ -9675,7 +9680,7 @@ Here's a list of public Fediverse services.
 | mastodon.love | No |
 | mastodon.lt | No |
 | mastodon.ltd | No |
-| mastodon.lu | No |
+| mastodon.lu | Yes |
 | mastodon.madrid | No |
 | mastodon.me.uk | Yes |
 | mastodon.mg | No |
@@ -10031,6 +10036,7 @@ Here's a list of public Fediverse services.
 | meowz.moe | No |
 | mercerist.space | No |
 | merci-la-police.fr | No |
+| mercurial.solar | Yes |
 | mercury.social | No |
 | merkel.social | Yes |
 | merlion.social | Yes |
@@ -11939,7 +11945,7 @@ Here's a list of public Fediverse services.
 | openmandriva.org | No |
 | openmtx.com | Yes |
 | opennerds.org | No |
-| opennms.com | No |
+| opennms.com | Yes |
 | openpsychology.net | No |
 | openshell.no | No |
 | openshiftapps.com | No |
@@ -12971,7 +12977,7 @@ Here's a list of public Fediverse services.
 | pouet.it | No |
 | pouet.me | No |
 | pouet.social | No |
-| pouet.space | No |
+| pouet.space | Yes |
 | pouets.ovh | No |
 | pouhiou.me | No |
 | pouill.eu | No |
@@ -13632,7 +13638,7 @@ Here's a list of public Fediverse services.
 | remote-shell.net | No |
 | remotenode.host | Yes |
 | removelogic.org | No |
-| remram.fr | No |
+| remram.fr | Yes |
 | renard.xyz | No |
 | renardrebelle.fr | No |
 | rencontres-atelier.fr | No |
@@ -18444,8 +18450,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,400 |
-| Normal | 15,001 |
+| Cloudflare | 3,409 |
+| Normal | 14,998 |
 
 
 ### 18.5% of public Fediverse services are using Cloudflare.
