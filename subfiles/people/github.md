@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Provider error during channel opening/closing makes further on-chain operations fail](https://github.com/hoprnet/hoprnet/issues/3799)
+- [Error 403 if accessed through nGinx Reverse Proxy Manager makes viewing media broken](https://github.com/filebrowser/filebrowser/issues/1941)
 - [Fix Rinkeby Cloudflare timeouts](https://github.com/reservoirprotocol/indexer/issues/598)
 - [Can't see log page when use cloudflare in Proxied mode](https://github.com/JustArchiNET/ASF-ui/issues/1567)
 - [Socket operation timed out](https://github.com/NebuTech/NBMiner/issues/805)
