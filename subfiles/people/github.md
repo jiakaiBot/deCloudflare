@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't see log page when use cloudflare in Proxied mode](https://github.com/JustArchiNET/ASF-ui/issues/1567)
 - [Socket operation timed out](https://github.com/NebuTech/NBMiner/issues/805)
 - [feature Custom User-Agent String](https://github.com/securityheaders/securityheaders-bugs/issues/105)
 - [Webp images are generated but only some are served.](https://github.com/yireo/Yireo_Webp2/issues/118)
