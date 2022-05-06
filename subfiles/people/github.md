@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Fix Rinkeby Cloudflare timeouts](https://github.com/reservoirprotocol/indexer/issues/598)
 - [Can't see log page when use cloudflare in Proxied mode](https://github.com/JustArchiNET/ASF-ui/issues/1567)
 - [Socket operation timed out](https://github.com/NebuTech/NBMiner/issues/805)
 - [feature Custom User-Agent String](https://github.com/securityheaders/securityheaders-bugs/issues/105)
