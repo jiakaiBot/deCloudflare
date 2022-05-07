@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [aws-sigv4 is missing the amz-content-sha256 header?](https://github.com/curl/curl/issues/8810)
 - [Cannot change secret type. Secret type is immutable](https://github.com/1Password/onepassword-operator/issues/111)
 - [Provider error during channel opening/closing makes further on-chain operations fail](https://github.com/hoprnet/hoprnet/issues/3799)
 - [Error 403 if accessed through nGinx Reverse Proxy Manager makes viewing media broken](https://github.com/filebrowser/filebrowser/issues/1941)
