@@ -320,6 +320,7 @@ Or is this merely a case of simple modesty?
 | Carlos Azevedo | Employee | |
 | Carlos Rodrigues | Lisbon |  |
 | Carlos Silva | Sales Director LATAM |  |
+| Carlos Torales | Employee | |
 | Carly Bothe | Finance Project Manager |  |
 | Carly Wood | People Team Business Partner, London |  |
 | Caroline Greer | Public Policy |  |
@@ -1202,6 +1203,7 @@ Or is this merely a case of simple modesty?
 | Naimisha Yadav | Employee |  |
 | Nancy Gao | Employee |  |
 | Nandini Jayarajan | Employee |  |
+| Natalie Rogers | Employee | |
 | Natalie Valdes | Team Coordinator |  |
 | Natasha Wissmann | Employee | |
 | Nate Asp | Customer Development |  |
