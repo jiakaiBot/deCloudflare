@@ -1665,6 +1665,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dmin87105684@twitter](https://twitter.com/Dmin87105684/status/1395234752056025090) | advertise |
 | [DmNha1@twitter](https://twitter.com/DmNha1/status/1387715689016745989) | advertise |
 | [dmodgg@twitter](https://twitter.com/dmodgg/status/1400902395882835975) | advertise |
+| [DmokGlass@twitter](https://twitter.com/DmokGlass/status/1522817669421944832) | advertise |
 | [Dn94847228@twitter](https://twitter.com/Dn94847228/status/1401163067711311881) | advertise |
 | [DNames@twitter](https://twitter.com/DNames/status/1491872924390891526) | advertise |
 | [Dng69114608@twitter](https://twitter.com/Dng69114608/status/1469914393320525824) | advertise |
@@ -2545,6 +2546,7 @@ Do not create new issue or we will close it as duplicate.
 | [HOSSEIN27903189@twitter](https://twitter.com/HOSSEIN27903189/status/1384450683731169280) | advertise |
 | [hossen_mun@twitter](https://twitter.com/hossen_mun/status/1521689325104398336) | advertise |
 | [Hostay3@twitter](https://twitter.com/Hostay3/status/1401764886858764288) | advertise |
+| [HotDogAmbulance@twitter](https://twitter.com/HotDogAmbulance/status/1522808672266891270) | advertise |
 | [hotelierindo@twitter](https://twitter.com/hotelierindo/status/1377128938879602688) | advertise |
 | [hotman40929677@twitter](https://twitter.com/hotman40929677/status/1397865773889163266) | advertise |
 | [howmuches@twitter](https://twitter.com/howmuches/status/1512231330775715842) | advertise |
@@ -5743,8 +5745,10 @@ Do not create new issue or we will close it as duplicate.
 | [professorRauti@twitter](https://twitter.com/professorRauti/status/1470751563283116038) | advertise |
 | [ProfTakeruHiga@twitter](https://twitter.com/ProfTakeruHiga/status/1388474623214243842) | advertise |
 | [ProgramerDev@twitter](https://twitter.com/ProgramerDev/status/1466576384327700481) | advertise |
+| [ProteinPink@twitter](https://twitter.com/ProteinPink/status/1522848358548873217) | advertise |
 | [ProZar3@twitter](https://twitter.com/ProZar3/status/1503979856882769922) | advertise |
 | [prro85545495@twitter](https://twitter.com/prro85545495/status/1401352105886056457) | advertise |
+| [psgmoment@twitter](https://twitter.com/psgmoment/status/1522760815094341632) | advertise |
 | [pskNaidu10@twitter](https://twitter.com/pskNaidu10/status/1391664925471166466) | advertise |
 | [psmuang@twitter](https://twitter.com/psmuang/status/1389858998346649602) | advertise |
 | [PSNPro1@twitter](https://twitter.com/PSNPro1/status/1445818562841505797) | advertise |
