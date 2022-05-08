@@ -1386,8 +1386,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -1447,6 +1447,7 @@ Do not create new issue or we will close it as duplicate.
 | [dacoto97@twitter](https://twitter.com/dacoto97/status/1424373152558239746) | advertise |
 | [dad4ui@twitter](https://twitter.com/dad4ui/status/1377643341140033540) | advertise |
 | [daddyxshot@twitter](https://twitter.com/daddyxshot/status/1385804521532579844) | advertise |
+| [DaEnderz@twitter](https://twitter.com/DaEnderz/status/1523352729846185984) | advertise |
 | [Daene45447688@twitter](https://twitter.com/Daene45447688/status/1398422361183899648) | advertise |
 | [daimonhall@twitter](https://twitter.com/daimonhall/status/1447552421421625345) | advertise |
 | [daisy_hann@twitter](https://twitter.com/daisy_hann/status/1393047426798276608) | advertise |
