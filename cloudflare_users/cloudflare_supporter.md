@@ -3474,8 +3474,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -3535,6 +3535,7 @@ Do not create new issue or we will close it as duplicate.
 | [KohtetLwin@twitter](https://twitter.com/KohtetLwin/status/1390673890041503744) | advertise |
 | [KoHtetZawOo1@twitter](https://twitter.com/KoHtetZawOo1/status/1395015158922100737) | advertise |
 | [koHtut80471997@twitter](https://twitter.com/koHtut80471997/status/1393249583065550851) | advertise |
+| [koicanwol@twitter](https://twitter.com/koicanwol/status/1523264151749279749) | advertise |
 | [KoKhit9@twitter](https://twitter.com/KoKhit9/status/1390702857016332288) | advertise |
 | [Koko01940303@twitter](https://twitter.com/Koko01940303/status/1393036325188608000) | advertise |
 | [Koko06717120@twitter](https://twitter.com/Koko06717120/status/1401117550314876928) | advertise |
@@ -7177,6 +7178,7 @@ Do not create new issue or we will close it as duplicate.
 | [TikkhaVen@twitter](https://twitter.com/TikkhaVen/status/1390583202595672069) | advertise |
 | [TiMMaY57798738@twitter](https://twitter.com/TiMMaY57798738/status/1487406924849160192) | advertise |
 | [timmlyons@twitter](https://twitter.com/timmlyons/status/1466844861571559431) | advertise |
+| [timof121@twitter](https://twitter.com/timof121/status/1523252557119905793) | advertise |
 | [timothyupai@twitter](https://twitter.com/timothyupai/status/1382488921200750593) | advertise |
 | [TimReckner@twitter](https://twitter.com/TimReckner/status/1380275100797263872) | advertise |
 | [timsmith23@twitter](https://twitter.com/timsmith23/status/1419059313927016451) | advertise |
