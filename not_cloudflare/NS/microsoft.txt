@@ -32,6 +32,7 @@ ns1-38.azure-dns.com
 ns1-38.azure-dns.info
 ns1-38.azure-dns.net
 ns1-38.azure-dns.org
+ns1-39.azure-dns.com
 ns1-42.azure-dns.com
 ns2-01.azure-dns.net
 ns2-01.ppe.azure-dns.net
@@ -64,6 +65,7 @@ ns2-35.azure-dns.net
 ns2-36.azure-dns.net
 ns2-37.azure-dns.net
 ns2-38.azure-dns.net
+ns2-39.azure-dns.net
 ns2-42.azure-dns.net
 ns22-06.azure-dns.net
 ns3-01.azure-dns.org
@@ -96,6 +98,7 @@ ns3-35.azure-dns.org
 ns3-36.azure-dns.org
 ns3-37.azure-dns.org
 ns3-38.azure-dns.org
+ns3-39.azure-dns.org
 ns3-42.azure-dns.org
 ns4-01.azure-dns.info
 ns4-01.ppe.azure-dns.info
@@ -128,6 +131,7 @@ ns4-35.azure-dns.info
 ns4-36.azure-dns.info
 ns4-37.azure-dns.info
 ns4-38.azure-dns.info
+ns4-39.azure-dns.info
 ns4-42.azure-dns.info
 ns5-06.azure-dns.dev
 ns5-32.azure-dns.com
