@@ -5838,6 +5838,7 @@ Do not create new issue or we will close it as duplicate.
 | [QucVng07260079@twitter](https://twitter.com/QucVng07260079/status/1388357051668119552) | advertise |
 | [queenie_NMT@twitter](https://twitter.com/queenie_NMT/status/1401192961791066114) | advertise |
 | [QueenSuu2@twitter](https://twitter.com/QueenSuu2/status/1394998425016438787) | advertise |
+| [queue2030@twitter](https://twitter.com/queue2030/status/1523226758082084869) | advertise |
 | [quiprr@twitter](https://twitter.com/quiprr/status/1380345039713300480) | advertise |
 | [qun25444692@twitter](https://twitter.com/qun25444692/status/1394885295565197314) | advertise |
 | [Qun61109057@twitter](https://twitter.com/Qun61109057/status/1393196820046569478) | advertise |
@@ -7106,6 +7107,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thoi60256647@twitter](https://twitter.com/Thoi60256647/status/1402575444285657092) | advertise |
 | [thomas71920860@twitter](https://twitter.com/thomas71920860/status/1390879393963134978) | advertise |
 | [thomasselvaraj4@twitter](https://twitter.com/thomasselvaraj4/status/1486340242789470212) | advertise |
+| [ThomasW18140614@twitter](https://twitter.com/ThomasW18140614/status/1523140461493309440) | advertise |
 | [thone20208234@twitter](https://twitter.com/thone20208234/status/1388498430025105408) | advertise |
 | [thongda80417861@twitter](https://twitter.com/thongda80417861/status/1387699659456528386) | advertise |
 | [Thonho338@twitter](https://twitter.com/Thonho338/status/1499041712597245952) | advertise |
