@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [There was a problem initiating the registration process](https://github.com/authelia/authelia/issues/3328)
 - [panic: runtime error: index out of range 0 with length 0](https://github.com/lufeee/execinquery/issues/3)
 - [Clarification on usage with wrangler 2](https://github.com/worker-tools/location-polyfill/issues/1)
 - [Cloudflare 2FA needs 3x fill](https://github.com/keepassxreboot/keepassxc-browser/issues/1622)
