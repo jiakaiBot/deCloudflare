@@ -685,6 +685,7 @@ Or is this merely a case of simple modesty?
 | Jack Melnicoff | Enterprise Field Sales |  |
 | Jacob Evans | Software Engineer, Austin |  |
 | Jacob H. Haven | Systems Engineer |  |
+| Jacob Hands | Employee | |
 | Jacob Vincent | Customer Development |  |
 | Jacob Zollinger | Security Compliance |  |
 | Jacqueline Keith | Security Strategy and Policy |  |
@@ -856,6 +857,7 @@ Or is this merely a case of simple modesty?
 | Joshua Liebow-Feeser | Information Security Engineer |  |
 | Joshua Nelson | Employee | |
 | Joshua Watts | Business Development |  |
+| Josh Wheeler | Employee | |
 | Jovi Zhangwei | Systems Engineer |  |
 | Joyce Ottignon | Information Technology Team |  |
 | João Paulo | Employee |  |
@@ -1514,6 +1516,7 @@ Or is this merely a case of simple modesty?
 | Shrenik Jayendra | Employee |  |
 | Shri Deshpande | Employee |  |
 | Shuxin Yang | Systems Engineer |  |
+| Sid Chatterjee | Employee | |
 | Siddharth Naik | Employee |  |
 | Sieh Johnson | Full Stack Software |  |
 | Sierra Dasso | Account Executive |  |
