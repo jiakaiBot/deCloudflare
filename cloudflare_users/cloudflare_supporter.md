@@ -2995,6 +2995,7 @@ Do not create new issue or we will close it as duplicate.
 | [jcampos2208@twitter](https://twitter.com/jcampos2208/status/1399856800208404486) | advertise |
 | [JDbelem1@twitter](https://twitter.com/JDbelem1/status/1384610630917922817) | advertise |
 | [jdjs35017027@twitter](https://twitter.com/jdjs35017027/status/1489619422482337792) | advertise |
+| [jdmadeitoak@twitter](https://twitter.com/jdmadeitoak/status/1517686348785668097) | advertise |
 | [jdoshdbz@twitter](https://twitter.com/jdoshdbz/status/1493785041561812995) | advertise |
 | [jdr_drich@twitter](https://twitter.com/jdr_drich/status/1380677922877448194) | advertise |
 | [JE2DlAAd0UBr2Rw@twitter](https://twitter.com/JE2DlAAd0UBr2Rw/status/1384138729485324291) | advertise |
