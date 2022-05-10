@@ -35,7 +35,7 @@ Do not create new issue or we will close it as duplicate.
 
 | Evidence URL | Comment |
 | ----- | ----- |
-| [Scott Mortimer @ScottMortimer@infosec.exchange](https://infosec.exchange/@ScottMortimer/108277117754849928) | "Crimeflare is ridiculous and hyperbolic." |
+| [ScottMortimer@infosec.exchange](https://infosec.exchange/@ScottMortimer/108277117754849928) | Scott Mortimer "Crimeflare is ridiculous and hyperbolic." |
 | [0b00d7ff853f434@twitter](https://twitter.com/0b00d7ff853f434/status/1389609817413611520) | advertise |
 | [0xF00DBABE@twitter](https://twitter.com/0xF00DBABE/status/1389288756025376768) | advertise |
 | [0xOverflow@twitter](https://twitter.com/0xOverflow/status/1430323062650642435) | advertise |
