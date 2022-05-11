@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Windows 11 - Downloading All Errors](https://github.com/xtream1101/humblebundle-downloader/issues/67)
 - [There was a problem initiating the registration process](https://github.com/authelia/authelia/issues/3328)
 - [panic: runtime error: index out of range 0 with length 0](https://github.com/lufeee/execinquery/issues/3)
 - [Clarification on usage with wrangler 2](https://github.com/worker-tools/location-polyfill/issues/1)
