@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-05-10: [Issues with 1.1.1.1 public resolver & Gateway DNS in Lisbon and Toronto](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kfts66zpkdp2)
 - 2022-05-09: [Managed headers errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wyyxmylltcv2)
 - 2022-05-08: [Increased HTTP 522 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dxrhzfk03193)
 - 2022-05-05: [Customer Impacting Issue - Captcha](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f6cv9cxtfdj2)
