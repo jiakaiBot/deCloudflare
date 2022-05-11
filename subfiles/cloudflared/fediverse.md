@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,494 |
 | net | 1,445 |
-| social | 1,068 |
+| social | 1,069 |
 | org | 1,021 |
-| de | 878 |
+| de | 880 |
 
 
 - Mastodon, Pleroma, etc
@@ -5281,7 +5281,7 @@ Here's a list of public Fediverse services.
 | fpsource.info | No |
 | fpvogel.com | Yes |
 | fr.cr | Yes |
-| fr.nf | No |
+| fr.nf | Yes |
 | fr.to | Yes |
 | fr13nd5.com | No |
 | fractalco.re | Yes |
@@ -6388,6 +6388,7 @@ Here's a list of public Fediverse services.
 | hamamyu.jp | No |
 | hamastodon.jp | No |
 | hamburger.city | No |
+| hameln.social | No |
 | hamiller.net | No |
 | hammer-and-sickle.net | No |
 | hamradio.social | No |
@@ -6464,7 +6465,7 @@ Here's a list of public Fediverse services.
 | haun.jp | No |
 | hawaii247.social | No |
 | hax.technology | Yes |
-| hax.to | No |
+| hax.to | Yes |
 | hax.xyz | No |
 | hax0rbana.social | No |
 | hax0rz.lol | No |
@@ -9592,7 +9593,7 @@ Here's a list of public Fediverse services.
 | masdoon.com | No |
 | mashed.cloud | Yes |
 | mashek.net | No |
-| mashiro.top | No |
+| mashiro.top | Yes |
 | mashtodon.net | No |
 | mashton.party | No |
 | masi.family | No |
@@ -11214,6 +11215,7 @@ Here's a list of public Fediverse services.
 | nerd.town | No |
 | nerdcave.site | Yes |
 | nerdco.ws | No |
+| nerdcrisis.de | No |
 | nerdculture.de | No |
 | nerddao.xyz | No |
 | nerderium.com | No |
@@ -11280,6 +11282,7 @@ Here's a list of public Fediverse services.
 | netzone.cc | Yes |
 | netzsphaere.xyz | No |
 | netzspielplatz.de | No |
+| netzweh.de | No |
 | netzwerk-gebet.de | No |
 | neue.city | No |
 | neue.social | Yes |
@@ -11455,6 +11458,7 @@ Here's a list of public Fediverse services.
 | nixc.us | No |
 | nixdev.com | No |
 | nixeneko.info | No |
+| nixer.dev | No |
 | nixi.icu | No |
 | nixnerd.cc | Yes |
 | nixnet.services | No |
@@ -13012,6 +13016,7 @@ Here's a list of public Fediverse services.
 | pony.social | Yes |
 | pony.style | Yes |
 | pony.tube | No |
+| ponychord.rocks | No |
 | ponyfrance.net | No |
 | ponytail.in | No |
 | ponyworld.net | No |
@@ -16424,7 +16429,7 @@ Here's a list of public Fediverse services.
 | toastbrot.net | Yes |
 | toaster.sh | No |
 | tobedefined.net | No |
-| tobias-k.de | No |
+| tobias-k.de | Yes |
 | tobiastom.name | No |
 | tobiaswiese.com | No |
 | tobolaski.com | No |
@@ -17631,6 +17636,7 @@ Here's a list of public Fediverse services.
 | weaponvsac.space | No |
 | wearefamily.africa | No |
 | wearefloatinginspace.com | No |
+| wearejust.men | No |
 | weareluck.org | Yes |
 | wearemastodon.com | No |
 | weaselshit.com | No |
@@ -18614,8 +18620,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,461 |
-| Normal | 15,110 |
+| Cloudflare | 3,465 |
+| Normal | 15,112 |
 
 
-### 18.6% of public Fediverse services are using Cloudflare.
+### 18.7% of public Fediverse services are using Cloudflare.
