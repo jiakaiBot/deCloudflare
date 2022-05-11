@@ -1315,6 +1315,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chromepanda37@twitter](https://twitter.com/Chromepanda37/status/1408075106144854022) | advertise |
 | [Chu2131@twitter](https://twitter.com/Chu2131/status/1389883781776039939) | advertise |
 | [chubbyfraddy27@twitter](https://twitter.com/chubbyfraddy27/status/1399261063200321537) | advertise |
+| [CHUCLONG5@twitter](https://twitter.com/CHUCLONG5/status/1524217544256618496) | advertise |
 | [ChueChue2121@twitter](https://twitter.com/ChueChue2121/status/1400941145992011777) | advertise |
 | [ChueGd@twitter](https://twitter.com/ChueGd/status/1390579644244500482) | advertise |
 | [ChueNol@twitter](https://twitter.com/ChueNol/status/1391338286858358788) | advertise |
@@ -4447,6 +4448,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinhHieuDuong6@twitter](https://twitter.com/MinhHieuDuong6/status/1396642306049024008) | advertise |
 | [MinhHiuu3@twitter](https://twitter.com/MinhHiuu3/status/1391486881343303681) | advertise |
 | [Minhhuy04361859@twitter](https://twitter.com/Minhhuy04361859/status/1393420564950179846) | advertise |
+| [Minhhuy351@twitter](https://twitter.com/Minhhuy351/status/1524288351830183936) | advertise |
 | [MinhLQuang1@twitter](https://twitter.com/MinhLQuang1/status/1505475803576147969) | advertise |
 | [Minhmin35799702@twitter](https://twitter.com/Minhmin35799702/status/1401567287354662914) | advertise |
 | [MinhngQuang11@twitter](https://twitter.com/MinhngQuang11/status/1519699390918967296) | advertise |
@@ -5923,6 +5925,7 @@ Do not create new issue or we will close it as duplicate.
 | [ramin3m@twitter](https://twitter.com/ramin3m/status/1377115879884824580) | advertise |
 | [RamkbB@twitter](https://twitter.com/RamkbB/status/1398668307503321088) | advertise |
 | [RAMMEHARDAS3@twitter](https://twitter.com/RAMMEHARDAS3/status/1399046837407928320) | advertise |
+| [RamonIanys@twitter](https://twitter.com/RamonIanys/status/1524013300845092864) | advertise |
 | [ramsey_jacquie@twitter](https://twitter.com/ramsey_jacquie/status/1384870814017806336) | advertise |
 | [Ran20182@twitter](https://twitter.com/Ran20182/status/1396105776402370561) | advertise |
 | [Randomguywholol@twitter](https://twitter.com/Randomguywholol/status/1493825084737212417) | advertise |
@@ -5980,6 +5983,7 @@ Do not create new issue or we will close it as duplicate.
 | [Redzadania@twitter](https://twitter.com/Redzadania/status/1402830172529709057) | advertise |
 | [reedracer@twitter](https://twitter.com/reedracer/status/1492234588948774922) | advertise |
 | [refateusha@twitter](https://twitter.com/refateusha/status/1473025498104041473) | advertise |
+| [regchan@twitter](https://twitter.com/regchan/status/1524281569376182273) | advertise |
 | [ReickyKunn@twitter](https://twitter.com/ReickyKunn/status/1386282466671947788) | advertise |
 | [RekhaDe60415707@twitter](https://twitter.com/RekhaDe60415707/status/1501404745009106945) | advertise |
 | [relorpubg@twitter](https://twitter.com/relorpubg/status/1402449370822348800) | advertise |
@@ -6784,6 +6788,7 @@ Do not create new issue or we will close it as duplicate.
 | [sYuMon777@twitter](https://twitter.com/sYuMon777/status/1399606526541668357) | advertise |
 | [sy_angelyuna@twitter](https://twitter.com/sy_angelyuna/status/1377173738085474307) | advertise |
 | [szexmanias0@twitter](https://twitter.com/szexmanias0/status/1510886009499697159) | advertise |
+| [T31543226@twitter](https://twitter.com/T31543226/status/1524287509496168448) | advertise |
 | [T83532576@twitter](https://twitter.com/T83532576/status/1398708012445962247) | advertise |
 | [ta89151567@twitter](https://twitter.com/ta89151567/status/1502756006052380678) | advertise |
 | [TachaOfficial@twitter](https://twitter.com/TachaOfficial/status/1401122102476947458) | advertise |
@@ -7261,6 +7266,7 @@ Do not create new issue or we will close it as duplicate.
 | [tomdapchai1@twitter](https://twitter.com/tomdapchai1/status/1502501519291129856) | advertise |
 | [Tomi06515448@twitter](https://twitter.com/Tomi06515448/status/1408153839564435461) | advertise |
 | [TommyLy71205879@twitter](https://twitter.com/TommyLy71205879/status/1395683024365264896) | advertise |
+| [tomumame@twitter](https://twitter.com/tomumame/status/1524273785016586240) | advertise |
 | [tomx900@twitter](https://twitter.com/tomx900/status/1378074552857587713) | advertise |
 | [ton51693387@twitter](https://twitter.com/ton51693387/status/1474890465623171073) | advertise |
 | [tongqualin@twitter](https://twitter.com/tongqualin/status/1515406293833777154) | advertise |
