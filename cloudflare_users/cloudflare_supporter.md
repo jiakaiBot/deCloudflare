@@ -35,7 +35,6 @@ Do not create new issue or we will close it as duplicate.
 
 | Evidence URL | Comment |
 | ----- | ----- |
-| [ScottMortimer@infosec.exchange](https://infosec.exchange/@ScottMortimer/108277117754849928) | Scott Mortimer "Crimeflare is ridiculous and hyperbolic." |
 | [0b00d7ff853f434@twitter](https://twitter.com/0b00d7ff853f434/status/1389609817413611520) | advertise |
 | [0xF00DBABE@twitter](https://twitter.com/0xF00DBABE/status/1389288756025376768) | advertise |
 | [0xOverflow@twitter](https://twitter.com/0xOverflow/status/1430323062650642435) | advertise |
@@ -127,6 +126,7 @@ Do not create new issue or we will close it as duplicate.
 | [A7mad_GH_@twitter](https://twitter.com/A7mad_GH_/status/1386898761620893697) | advertise |
 | [a7medmajzob@twitter](https://twitter.com/a7medmajzob/status/1522912225257697280) | advertise |
 | [a9NTUKB7O8ga7Op@twitter](https://twitter.com/a9NTUKB7O8ga7Op/status/1397954196964470789) | advertise |
+| [a99divx@twitter](https://twitter.com/a99divx/status/1524133254185553923) | advertise |
 | [aaaa77754054@twitter](https://twitter.com/aaaa77754054/status/1498669005875576835) | advertise |
 | [Aaaddd44789627@twitter](https://twitter.com/Aaaddd44789627/status/1383457672859512841) | advertise |
 | [Aadamansar@twitter](https://twitter.com/Aadamansar/status/1378087373884465152) | advertise |
@@ -1396,6 +1396,7 @@ Do not create new issue or we will close it as duplicate.
 | [crisnguyen0809@twitter](https://twitter.com/crisnguyen0809/status/1404837227679555591) | advertise |
 | [CRONUSISLIVE@twitter](https://twitter.com/CRONUSISLIVE/status/1513956818644783104) | advertise |
 | [crosiderr@twitter](https://twitter.com/crosiderr/status/1379494464545243136) | advertise |
+| [CrusaderConsta1@twitter](https://twitter.com/CrusaderConsta1/status/1524146353596936192) | advertise |
 | [Crush82584793@twitter](https://twitter.com/Crush82584793/status/1396107509656481794) | advertise |
 | [crxckyt@twitter](https://twitter.com/crxckyt/status/1385437055799418882) | advertise |
 | [Crypto202014@twitter](https://twitter.com/Crypto202014/status/1387859463168659457) | advertise |
@@ -3480,8 +3481,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6313,6 +6314,7 @@ Do not create new issue or we will close it as duplicate.
 | [schoolcheatsapp@twitter](https://twitter.com/schoolcheatsapp/status/1459307051969138688) | advertise |
 | [Sciz0r1@twitter](https://twitter.com/Sciz0r1/status/1384091634455900161) | advertise |
 | [sclathrop@twitter](https://twitter.com/sclathrop/status/1458423494719459332) | advertise |
+| [ScottMortimer@infosec.exchange](https://infosec.exchange/@ScottMortimer/108277117754849928) | Scott Mortimer "Crimeflare is ridiculous and hyperbolic." |
 | [Scrimzy_@twitter](https://twitter.com/Scrimzy_/status/1380087112993632257) | advertise |
 | [sdemanett@twitter](https://twitter.com/sdemanett/status/1396239812076638208) | advertise |
 | [Sean77792242@twitter](https://twitter.com/Sean77792242/status/1498470501093896197) | advertise |
