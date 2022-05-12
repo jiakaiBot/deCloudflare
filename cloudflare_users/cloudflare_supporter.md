@@ -1418,6 +1418,7 @@ Do not create new issue or we will close it as duplicate.
 | [cubo365@twitter](https://twitter.com/cubo365/status/1503076765622841350) | advertise |
 | [cucongcan@twitter](https://twitter.com/cucongcan/status/1459360460432556032) | advertise |
 | [cucqiridze2008@twitter](https://twitter.com/cucqiridze2008/status/1398249494425309187) | advertise |
+| [cullophid@twitter](https://twitter.com/cullophid/status/1524712985377259520) | advertise |
 | [Culone20@twitter](https://twitter.com/Culone20/status/1480791106061160451) | advertise |
 | [culyk666@twitter](https://twitter.com/culyk666/status/1400159126915715074) | advertise |
 | [CumKingdomNet@twitter](https://twitter.com/CumKingdomNet/status/1520375055951462401) | advertise |
