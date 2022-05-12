@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Promtail Cloudflare logpull stops working after a period of time](https://github.com/grafana/loki/issues/6150)
+- [c selenium cloudflare bypass](https://github.com/SeleniumHQ/selenium/issues/10639)
 - [Windows 11 - Downloading All Errors](https://github.com/xtream1101/humblebundle-downloader/issues/67)
 - [There was a problem initiating the registration process](https://github.com/authelia/authelia/issues/3328)
 - [panic: runtime error: index out of range 0 with length 0](https://github.com/lufeee/execinquery/issues/3)
