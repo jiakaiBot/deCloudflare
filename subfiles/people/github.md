@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [524 CloudFlare errors with status code 500 and 503 from API](https://github.com/web3-storage/web3.storage/issues/1315)
 - [serverless-cloudflare-workers plugin can't use '{cf:...}' variable resolution after upgrading to Serverless v3](https://github.com/serverless/serverless/issues/11068)
 - [Unable to list or install any version of node in mac m1 monterey](https://github.com/nvm-sh/nvm/issues/2810)
 - [Promtail Cloudflare logpull stops working after a period of time](https://github.com/grafana/loki/issues/6150)
