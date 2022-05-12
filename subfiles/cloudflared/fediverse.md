@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,495 |
 | net | 1,445 |
-| social | 1,072 |
+| social | 1,073 |
 | org | 1,022 |
-| de | 883 |
+| de | 884 |
 
 
 - Mastodon, Pleroma, etc
@@ -267,6 +267,7 @@ Here's a list of public Fediverse services.
 | 62x54r.ru | No |
 | 64.re | No |
 | 64i.de | Yes |
+| 650thz.de | No |
 | 662607.xyz | No |
 | 666.xxx | No |
 | 67elleboge.club | No |
@@ -3936,7 +3937,7 @@ Here's a list of public Fediverse services.
 | dnlr.org | No |
 | dnlsd.nom.es | No |
 | dns-cloud.net | Yes |
-| dnsabr.com | No |
+| dnsabr.com | Yes |
 | dnsup.net | No |
 | dnyfrs.io | No |
 | dnzm.nl | No |
@@ -4954,6 +4955,7 @@ Here's a list of public Fediverse services.
 | fediverse.club | No |
 | fediverse.cyou | Yes |
 | fediverse.express | No |
+| fediverse.lol | Yes |
 | fediverse.me | No |
 | fediverse.network | No |
 | fediverse.one | No |
@@ -7876,6 +7878,7 @@ Here's a list of public Fediverse services.
 | kaede.ch | Yes |
 | kaede.im | Yes |
 | kafasanati.com | No |
+| kafeneio.social | Yes |
 | kaffeeringe.de | No |
 | kafka.icu | No |
 | kafuka.me | No |
@@ -10854,7 +10857,7 @@ Here's a list of public Fediverse services.
 | multiple-creature.party | No |
 | multisum.info | No |
 | multiversecast.com | No |
-| mumbai.sh | No |
+| mumbai.sh | Yes |
 | munchkins.io | No |
 | mundodesconocido.com | No |
 | mundy.info | No |
@@ -18640,8 +18643,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,470 |
-| Normal | 15,127 |
+| Cloudflare | 3,474 |
+| Normal | 15,126 |
 
 
 ### 18.7% of public Fediverse services are using Cloudflare.
