@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare S3 Error](https://github.com/pterodactyl/panel/issues/4074)
 - [524 CloudFlare errors with status code 500 and 503 from API](https://github.com/web3-storage/web3.storage/issues/1315)
 - [serverless-cloudflare-workers plugin can't use '{cf:...}' variable resolution after upgrading to Serverless v3](https://github.com/serverless/serverless/issues/11068)
 - [Unable to list or install any version of node in mac m1 monterey](https://github.com/nvm-sh/nvm/issues/2810)
