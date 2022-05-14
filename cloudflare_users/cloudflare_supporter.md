@@ -2034,6 +2034,7 @@ Do not create new issue or we will close it as duplicate.
 | [Forms_Ge@twitter](https://twitter.com/Forms_Ge/status/1413774450676453384) | advertise |
 | [fouad20092000@twitter](https://twitter.com/fouad20092000/status/1472866649971871744) | advertise |
 | [four5z@twitter](https://twitter.com/four5z/status/1503760771494391822) | advertise |
+| [FradSer@twitter](https://twitter.com/FradSer/status/1525376068395225088) | advertise |
 | [freak_bharath@twitter](https://twitter.com/freak_bharath/status/1398311217605738496) | advertise |
 | [FreddyKaung@twitter](https://twitter.com/FreddyKaung/status/1396197482086813701) | advertise |
 | [freddyschre@twitter](https://twitter.com/freddyschre/status/1501565599746596867) | advertise |
@@ -3489,8 +3490,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7654,6 +7655,7 @@ Do not create new issue or we will close it as duplicate.
 | [vu_hoang0402@twitter](https://twitter.com/vu_hoang0402/status/1385034905701085188) | advertise |
 | [Vv2072000@twitter](https://twitter.com/Vv2072000/status/1485861824717230083) | advertise |
 | [vxunc9@twitter](https://twitter.com/vxunc9/status/1384036046799736832) | advertise |
+| [vysecurity@twitter](https://twitter.com/vysecurity/status/1525362451516370944) | advertise |
 | [vZHh3za8DnpsEuZ@twitter](https://twitter.com/vZHh3za8DnpsEuZ/status/1394326959975407619) | advertise |
 | [W01fyH@twitter](https://twitter.com/W01fyH/status/1377451953353986053) | advertise |
 | [w88cuavinh@twitter](https://twitter.com/w88cuavinh/status/1380719088431816714) | advertise |
