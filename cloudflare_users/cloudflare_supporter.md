@@ -8282,6 +8282,7 @@ Do not create new issue or we will close it as duplicate.
 | [_rurq@twitter](https://twitter.com/_rurq/status/1521161926012719109) | advertise |
 | [_Sumitha_@twitter](https://twitter.com/_Sumitha_/status/1508090635131420678) | advertise |
 | [_UmmuUmairah_@twitter](https://twitter.com/_UmmuUmairah_/status/1394222981342060544) | advertise |
+| [_VPixx@twitter](https://twitter.com/_VPixx/status/1525433377301532672) | advertise |
 | [_YoonminIsKii_@twitter](https://twitter.com/_YoonminIsKii_/status/1395181543241523205) | advertise |
 | [_zackwu@twitter](https://twitter.com/_zackwu/status/1459165605555179520) | advertise |
 | [__JARVlS__@twitter](https://twitter.com/__JARVlS__/status/1399612611314950144) | advertise |
