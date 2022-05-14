@@ -1296,6 +1296,7 @@ Or is this merely a case of simple modesty?
 | Patryk Szczyglowski | Systems Engineer | Szczygłowski<br>patryk@patryk.net<br>https://twitter.com/epatryk<br>https://blog.patryk.net/<br>https://gitlab.com/epatryk<br>https://www.linkedin.com/in/patryk-szczyglowski/<br>https://github.com/patryk |
 | Paul Bauer | Platform Engineer |  |
 | Paul Cesar | Marketing |  |
+| Paulo Costa | Employee | |
 | Paul Southwell | Enterprise Sales |  |
 | Paul Taulborg | Employee |  |
 | Paul Underwood | Employee |  |
