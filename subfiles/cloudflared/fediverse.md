@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 2,499 |
 | net | 1,446 |
 | social | 1,077 |
-| org | 1,024 |
+| org | 1,025 |
 | de | 886 |
 
 
@@ -6260,6 +6260,7 @@ Here's a list of public Fediverse services.
 | gspot.social | Yes |
 | gsugambit.com | No |
 | gt-mod.site | No |
+| gtk.pw | Yes |
 | gtn-works.com | No |
 | guakamole.org | No |
 | guany.in | No |
@@ -6944,6 +6945,7 @@ Here's a list of public Fediverse services.
 | hw2k.com | No |
 | hwc.brussels | No |
 | hwdon.jp | No |
+| hwl.li | Yes |
 | hxbus.net | No |
 | hxl.io | Yes |
 | hyan.ink | Yes |
@@ -8249,6 +8251,7 @@ Here's a list of public Fediverse services.
 | klamath.jp | No |
 | klardenken.tv | No |
 | klartube.de | No |
+| klattgroup.eu | No |
 | klaus-meyer.net | No |
 | klausurenphase.de | No |
 | klazema.net | No |
@@ -16784,6 +16787,7 @@ Here's a list of public Fediverse services.
 | troback.com | No |
 | troet.cafe | No |
 | troet.club | No |
+| troet.eu | No |
 | troet.space | Yes |
 | troetco.de | No |
 | troll.academy | No |
@@ -18059,6 +18063,7 @@ Here's a list of public Fediverse services.
 | wunderwaffla.vip | Yes |
 | wurm.host | No |
 | wurzelmann.at | No |
+| wusz.org | No |
 | wuthering.online | Yes |
 | wuu.bi | No |
 | wwtube.net | No |
@@ -18685,8 +18690,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,487 |
-| Normal | 15,155 |
+| Cloudflare | 3,489 |
+| Normal | 15,158 |
 
 
 ### 18.7% of public Fediverse services are using Cloudflare.
