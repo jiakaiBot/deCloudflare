@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,499 |
 | net | 1,447 |
-| social | 1,080 |
+| social | 1,081 |
 | org | 1,027 |
-| de | 888 |
+| de | 892 |
 
 
 - Mastodon, Pleroma, etc
@@ -1337,6 +1337,7 @@ Here's a list of public Fediverse services.
 | b-root-force.de | No |
 | b-shock.org | No |
 | b00bl1k.ru | Yes |
+| b0rke.de | No |
 | b0x.me | No |
 | b101.me | No |
 | b10m.net | No |
@@ -5265,6 +5266,7 @@ Here's a list of public Fediverse services.
 | forth.works | No |
 | fortress.promo | No |
 | fortresshill.club | No |
+| fortressofdoom.me | Yes |
 | forty-two.nl | No |
 | forumanalogue.fr | No |
 | forza7.jp | No |
@@ -7156,6 +7158,7 @@ Here's a list of public Fediverse services.
 | impa.me | No |
 | impeccable.social | No |
 | imperial.social | No |
+| improved-madness.de | No |
 | imsorryforsayingpogchampafteryounuttedin.me | No |
 | imthe.party | Yes |
 | imvegan.fyi | Yes |
@@ -7463,6 +7466,7 @@ Here's a list of public Fediverse services.
 | itunix.eu | No |
 | ity.org | No |
 | itzzen.net | No |
+| iu0.win | Yes |
 | iut-larochelle.fr | No |
 | ivancan.com | No |
 | ivanfr.com | No |
@@ -11214,7 +11218,7 @@ Here's a list of public Fediverse services.
 | neko.chat | No |
 | neko.ci | Yes |
 | neko.space | No |
-| neko.st | No |
+| neko.st | Yes |
 | neko33.net | No |
 | nekocat.info | No |
 | nekocave.xyz | Yes |
@@ -12975,6 +12979,7 @@ Here's a list of public Fediverse services.
 | pluser.net | No |
 | plush.army | No |
 | plush.city | No |
+| plushies.social | No |
 | plusminus.io | Yes |
 | plusone.chat | No |
 | plusone.live | No |
@@ -15598,6 +15603,7 @@ Here's a list of public Fediverse services.
 | succubus.town | No |
 | such.social | Yes |
 | such.technology | No |
+| suchtbasis.de | No |
 | sudo.ca | No |
 | sudoshell.xyz | Yes |
 | sudovim.net | No |
@@ -15935,6 +15941,7 @@ Here's a list of public Fediverse services.
 | tassiaart.com | Yes |
 | tastefuldinosaurerotica.com | No |
 | tastypi.social | No |
+| tastytea.de | No |
 | tatapa.org | No |
 | tatchanka.fr | No |
 | tatersocial.com | No |
@@ -17957,7 +17964,7 @@ Here's a list of public Fediverse services.
 | wizzzard.online | No |
 | wjbolles.com | No |
 | wjt.me.uk | No |
-| wkfg.me | No |
+| wkfg.me | Yes |
 | wlabs.de | No |
 | wlw.pw | Yes |
 | wmbn.net | No |
@@ -18711,8 +18718,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,493 |
-| Normal | 15,175 |
+| Cloudflare | 3,497 |
+| Normal | 15,178 |
 
 
 ### 18.7% of public Fediverse services are using Cloudflare.
