@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,501 |
+| com | 2,502 |
 | net | 1,447 |
-| social | 1,084 |
+| social | 1,086 |
 | org | 1,028 |
 | de | 892 |
 
@@ -875,6 +875,7 @@ Here's a list of public Fediverse services.
 | anniqa.com | No |
 | anno79.de | No |
 | annoyingdomain.com | No |
+| annwan.me | No |
 | anomalocaris.link | No |
 | anon-groups.de | No |
 | anon-kenkai.com | No |
@@ -3156,6 +3157,7 @@ Here's a list of public Fediverse services.
 | cruisers.social | No |
 | crunchywatch.uk | No |
 | crux.social | No |
+| crynet.one | No |
 | cryo.jp | Yes |
 | cryoit.com | Yes |
 | crypt.ee | Yes |
@@ -6406,6 +6408,7 @@ Here's a list of public Fediverse services.
 | haha.academy | Yes |
 | hahn.de.com | No |
 | haibala.com | Yes |
+| haijo.eu | No |
 | hairydiode.xyz | No |
 | hairyfupa.com | No |
 | hairylarry.rocks | No |
@@ -7254,6 +7257,7 @@ Here's a list of public Fediverse services.
 | ingress-enl.jp | No |
 | ingsoc.email | No |
 | ingwie.io | Yes |
+| ingwie.me | Yes |
 | inherently.digital | No |
 | inhji.de | No |
 | iniad.dev | No |
@@ -7799,7 +7803,7 @@ Here's a list of public Fediverse services.
 | josephschneider.net | No |
 | josephsen.us | No |
 | josh-erklaert.de | No |
-| joshandryan.net | No |
+| joshandryan.net | Yes |
 | joshdata.me | No |
 | joshglenn.org | No |
 | joshknox.rocks | Yes |
@@ -8765,6 +8769,7 @@ Here's a list of public Fediverse services.
 | lekangouroo.me | No |
 | lekker.page | No |
 | lelux.fi | No |
+| lem.social | No |
 | lem0n.cc | Yes |
 | lemarchand.io | No |
 | lemediatv.fr | No |
@@ -9161,6 +9166,7 @@ Here's a list of public Fediverse services.
 | lolc.at | No |
 | lolcalhost.de | No |
 | lolcow.org | Yes |
+| lolcraft.club | No |
 | loli.estate | No |
 | loli.mk | No |
 | loli.pizza | Yes |
@@ -11233,6 +11239,7 @@ Here's a list of public Fediverse services.
 | neko33.net | No |
 | nekocat.info | No |
 | nekocave.xyz | Yes |
+| nekocross.xyz | Yes |
 | nekoea.red | No |
 | nekohell.eu | Yes |
 | nekojanai.xyz | No |
@@ -12299,7 +12306,7 @@ Here's a list of public Fediverse services.
 | ourempty.pub | No |
 | ourislandgeorgia.net | No |
 | ourlittle.space | No |
-| ourmemory.sbs | No |
+| ourmemory.sbs | Yes |
 | ouroboros.monster | No |
 | oursocialism.today | No |
 | oursquad.rocks | Yes |
@@ -12812,6 +12819,7 @@ Here's a list of public Fediverse services.
 | pira.jp | No |
 | pirata.xyz | No |
 | pirate.chat | Yes |
+| piraten-partei.social | No |
 | piraten.space | No |
 | piratenpartei.koeln | No |
 | pirateparty.be | No |
@@ -15591,7 +15599,6 @@ Here's a list of public Fediverse services.
 | stupid.industries | No |
 | stupid.moe | No |
 | stupidpolis.blog | No |
-| sturtz.cf | No |
 | stuttgart.international | No |
 | stuttgart.social | No |
 | stuxmedia.com | No |
@@ -16788,6 +16795,7 @@ Here's a list of public Fediverse services.
 | treehouse.systems | No |
 | treehouse.town | No |
 | treeofthoughts.net | No |
+| trees.st | No |
 | treeshrew.net | No |
 | treethought.com | No |
 | treffast.no | No |
@@ -17514,6 +17522,7 @@ Here's a list of public Fediverse services.
 | violet.lol | No |
 | violoncello.ch | No |
 | vipgirlfriend.xxx | No |
+| virctuary.com | No |
 | virgulilla.com | No |
 | viridianpatriots.com | No |
 | viridiome.ga | No |
@@ -18738,8 +18747,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,500 |
-| Normal | 15,195 |
+| Cloudflare | 3,504 |
+| Normal | 15,200 |
 
 
 ### 18.7% of public Fediverse services are using Cloudflare.
