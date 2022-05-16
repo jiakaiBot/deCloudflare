@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't access Nhentai](https://github.com/dazedcat19/FMD2/issues/996)
 - [Cloudflare S3 Error](https://github.com/pterodactyl/panel/issues/4074)
 - [524 CloudFlare errors with status code 500 and 503 from API](https://github.com/web3-storage/web3.storage/issues/1315)
 - [serverless-cloudflare-workers plugin can't use '{cf:...}' variable resolution after upgrading to Serverless v3](https://github.com/serverless/serverless/issues/11068)
