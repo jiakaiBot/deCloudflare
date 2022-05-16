@@ -5934,6 +5934,7 @@ Here's a list of public Fediverse services.
 | gigalixirapp.com | No |
 | gigamastodon.com | No |
 | gigantos.net | Yes |
+| giggle.army | No |
 | giggleplex.red | No |
 | gijsgobje.nl | No |
 | gil.is | Yes |
@@ -12005,6 +12006,7 @@ Here's a list of public Fediverse services.
 | oldbytes.space | No |
 | oldcoder.org | No |
 | oldinternet.net | No |
+| oldkid.digital | No |
 | olds.town | No |
 | oldschool.community | No |
 | ole.md | Yes |
@@ -13562,6 +13564,7 @@ Here's a list of public Fediverse services.
 | r4o.jp | No |
 | r53.me | No |
 | r5c3.fr | No |
+| r669.live | No |
 | r88t.net | No |
 | ra-phi.ch | No |
 | raa0121.info | No |
@@ -17043,6 +17046,7 @@ Here's a list of public Fediverse services.
 | u4u.org | No |
 | u53.us | No |
 | u7fa9.org | No |
+| u8.is | No |
 | ualberta.ca | No |
 | ub32.org | No |
 | uber.space | No |
@@ -18735,7 +18739,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,500 |
-| Normal | 15,191 |
+| Normal | 15,195 |
 
 
 ### 18.7% of public Fediverse services are using Cloudflare.
