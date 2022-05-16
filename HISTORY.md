@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-05-16: [Advanced Rate Limiting Rules Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ksmnf8zfxfr1)
 - 2022-05-12: [Increased 5xx errors during 17:01 - 17:21 UTC](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0y5k3xnpg4l1)
 - 2022-05-12: [Cloudflare Zero Trust Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/z70q78fh7dv7)
 - 2022-05-10: [Issues with 1.1.1.1 public resolver & Gateway DNS in Lisbon and Toronto](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kfts66zpkdp2)
