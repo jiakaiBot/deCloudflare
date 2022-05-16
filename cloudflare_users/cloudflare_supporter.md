@@ -1120,6 +1120,7 @@ Do not create new issue or we will close it as duplicate.
 | [bright_wyne@twitter](https://twitter.com/bright_wyne/status/1391849321524436992) | advertise |
 | [BrillanteAndrei@twitter](https://twitter.com/BrillanteAndrei/status/1386016310790873088) | advertise |
 | [BrindleIt@twitter](https://twitter.com/BrindleIt/status/1511705577449267201) | advertise |
+| [Brong_IT@twitter](https://twitter.com/Brong_IT/status/1526195683509796864) | advertise |
 | [BrownBagPK@twitter](https://twitter.com/BrownBagPK/status/1439317014099730448) | advertise |
 | [Brownboi777@twitter](https://twitter.com/Brownboi777/status/1397100254122561536) | advertise |
 | [Bruce17288015@twitter](https://twitter.com/Bruce17288015/status/1390644008020418560) | advertise |
