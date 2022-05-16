@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [test subdomainlerine erişilememesi](https://github.com/BTCTrader/broker-api-docs/issues/465)
+- [demo.statping.com SSL handshake fails](https://github.com/statping/statping/issues/1086)
 - [Can't access Nhentai](https://github.com/dazedcat19/FMD2/issues/996)
 - [Cloudflare S3 Error](https://github.com/pterodactyl/panel/issues/4074)
 - [524 CloudFlare errors with status code 500 and 503 from API](https://github.com/web3-storage/web3.storage/issues/1315)
