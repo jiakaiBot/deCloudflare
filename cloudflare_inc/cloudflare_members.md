@@ -979,6 +979,7 @@ Or is this merely a case of simple modesty?
 | Kristján Oddsson | Front-end Engineer |  |
 | Kruthi Narayana | Technical Expert |  |
 | Kyle Boutette | Systems Engineer |  |
+| Kyle Bowman | Employee | |
 | Kyle Breuleux | Employee |  |
 | Kyle Huang | Operations and Strategy |  |
 | Kyle Hui | Business Development |  |
@@ -1758,6 +1759,7 @@ Or is this merely a case of simple modesty?
 | Yair Dovrat | Employee | |
 | Yana Chen | Customer Success |  |
 | Yan Zhai | Systems Engineer |  |
+| Yasir Jamal | Employee | |
 | Yeo Kezhong | Enterprise Account Manager |  |
 | Yevgen Safronov | Web Engineer |  |
 | Yew Yong | Employee |  |
