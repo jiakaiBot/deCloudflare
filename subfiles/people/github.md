@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [k2xl domain invalid configuration](https://github.com/sspenst/pathology/issues/95)
 - [test subdomainlerine erişilememesi](https://github.com/BTCTrader/broker-api-docs/issues/465)
 - [demo.statping.com SSL handshake fails](https://github.com/statping/statping/issues/1086)
 - [Can't access Nhentai](https://github.com/dazedcat19/FMD2/issues/996)
