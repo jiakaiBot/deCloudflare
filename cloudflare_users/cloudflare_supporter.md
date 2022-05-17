@@ -5379,6 +5379,7 @@ Do not create new issue or we will close it as duplicate.
 | [OhAeri36127137@twitter](https://twitter.com/OhAeri36127137/status/1401014602033414148) | advertise |
 | [OhArthit2@twitter](https://twitter.com/OhArthit2/status/1390821661566324740) | advertise |
 | [ohmygod57@twitter](https://twitter.com/ohmygod57/status/1440233141122207747) | advertise |
+| [ohmymymy27@twitter](https://twitter.com/ohmymymy27/status/1526348936877060096) | advertise |
 | [Ohmz_@twitter](https://twitter.com/Ohmz_/status/1444112907944579075) | advertise |
 | [ohS9Rnf3KUWfAVm@twitter](https://twitter.com/ohS9Rnf3KUWfAVm/status/1392515160221364225) | advertise |
 | [ohsewu@twitter](https://twitter.com/ohsewu/status/1390553814147559425) | advertise |
@@ -6806,6 +6807,7 @@ Do not create new issue or we will close it as duplicate.
 | [synacksec@twitter](https://twitter.com/synacksec/status/1497422146007674883) | advertise |
 | [Sync_Pundit@twitter](https://twitter.com/Sync_Pundit/status/1515749859776675842) | advertise |
 | [SyndicatedLife@twitter](https://twitter.com/SyndicatedLife/status/1481295106892189696) | advertise |
+| [synmediaclub@twitter](https://twitter.com/synmediaclub/status/1520375055951462401) | advertise |
 | [synram981@twitter](https://twitter.com/synram981/status/1390825351383699459) | advertise |
 | [sysdotini@twitter](https://twitter.com/sysdotini/status/1373351911060078592) | advertise |
 | [systemctl_ryoto@twitter](https://twitter.com/systemctl_ryoto/status/1414265903361925124) | advertise |
