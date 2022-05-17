@@ -236,6 +236,7 @@ Do not create new issue or we will close it as duplicate.
 | [AfaqAhm42741561@twitter](https://twitter.com/AfaqAhm42741561/status/1397649305784262659) | advertise |
 | [AffairsNone@twitter](https://twitter.com/AffairsNone/status/1508646476964151301) | advertise |
 | [Affendi_Ghazali@twitter](https://twitter.com/Affendi_Ghazali/status/1406396046440239105) | advertise |
+| [afif___rizki@twitter](https://twitter.com/afif___rizki/status/1526398091141664768) | advertise |
 | [AfizOmari@twitter](https://twitter.com/AfizOmari/status/1404102260293054466) | advertise |
 | [afrash@twitter](https://twitter.com/afrash/status/1369943509839585281) | advertise |
 | [AgAg14299411@twitter](https://twitter.com/AgAg14299411/status/1396793253467500544) | advertise |
@@ -3501,8 +3502,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5465,6 +5466,7 @@ Do not create new issue or we will close it as duplicate.
 | [P9I4Kl23k8Mo7qN@twitter](https://twitter.com/P9I4Kl23k8Mo7qN/status/1385339627096084482) | advertise |
 | [paay0m@twitter](https://twitter.com/paay0m/status/1389945969542828032) | advertise |
 | [Pabo11Shu@twitter](https://twitter.com/Pabo11Shu/status/1390611967920939016) | advertise |
+| [pacoreguenga@twitter](https://twitter.com/pacoreguenga/status/1526355256719945730) | advertise |
 | [PahadSae@twitter](https://twitter.com/PahadSae/status/1399339499348389890) | advertise |
 | [pahimu_ko@twitter](https://twitter.com/pahimu_ko/status/1464961938492821506) | advertise |
 | [Pain94370140@twitter](https://twitter.com/Pain94370140/status/1392426192075034624) | advertise |
@@ -6917,6 +6919,7 @@ Do not create new issue or we will close it as duplicate.
 | [TextBookly@twitter](https://twitter.com/TextBookly/status/1390763198148714500) | advertise |
 | [tezoxu@twitter](https://twitter.com/tezoxu/status/1411050579233841157) | moral (advertise) |
 | [TfAKASH1@twitter](https://twitter.com/TfAKASH1/status/1487667852999991296) | advertise |
+| [tfarl_13@twitter](https://twitter.com/tfarl_13/status/1526401787221114880) | advertise |
 | [TfmGhostreeper@twitter](https://twitter.com/TfmGhostreeper/status/1496150405323108358) | advertise |
 | [TForestpolice@twitter](https://twitter.com/TForestpolice/status/1400545801324146689) | advertise |
 | [tgah161@twitter](https://twitter.com/tgah161/status/1386024837819207680) | advertise |
