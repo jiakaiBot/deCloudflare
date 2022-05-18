@@ -3911,6 +3911,7 @@ Do not create new issue or we will close it as duplicate.
 | [legionleo6862@twitter](https://twitter.com/legionleo6862/status/1390643796421922817) | advertise |
 | [LeHoang90043499@twitter](https://twitter.com/LeHoang90043499/status/1401934476230283266) | advertise |
 | [leirerie@twitter](https://twitter.com/leirerie/status/1477905960329007107) | advertise |
+| [LeKatsukiBakugo@twitter](https://twitter.com/LeKatsukiBakugo/status/1526810432241119238) | advertise |
 | [lelyr13@twitter](https://twitter.com/lelyr13/status/1382216932842110981) | advertise |
 | [LeMinhDai13@twitter](https://twitter.com/LeMinhDai13/status/1490225991356420096) | advertise |
 | [Lenhchi1@twitter](https://twitter.com/Lenhchi1/status/1389640843296792576) | advertise |
@@ -5852,6 +5853,7 @@ Do not create new issue or we will close it as duplicate.
 | [P___NOO@twitter](https://twitter.com/P___NOO/status/1389947952836218884) | advertise |
 | [qalifhilmi@twitter](https://twitter.com/qalifhilmi/status/1394339624986681344) | advertise |
 | [qbar65081251@twitter](https://twitter.com/qbar65081251/status/1400029689020702721) | advertise |
+| [QCvcztU31nUGV3w@twitter](https://twitter.com/QCvcztU31nUGV3w/status/1526739905568821248) | advertise |
 | [qkhai323@twitter](https://twitter.com/qkhai323/status/1478540022487814144) | advertise |
 | [qlufi2@twitter](https://twitter.com/qlufi2/status/1437630069388705796) | advertise |
 | [qmutz@twitter](https://twitter.com/qmutz/status/1383237532054261762) | advertise |
@@ -8102,6 +8104,7 @@ Do not create new issue or we will close it as duplicate.
 | [YueYue05673762@twitter](https://twitter.com/YueYue05673762/status/1391670328879951872) | advertise |
 | [Yuki92777462@twitter](https://twitter.com/Yuki92777462/status/1389853033761165326) | advertise |
 | [YuksekOrmanMuh@twitter](https://twitter.com/YuksekOrmanMuh/status/1506534378939338752) | advertise |
+| [Yulthefreak@twitter](https://twitter.com/Yulthefreak/status/1526775523128524800) | advertise |
 | [YunuSedatAydin@twitter](https://twitter.com/YunuSedatAydin/status/1462456581250072590) | advertise |
 | [yurimkuznetsov@twitter](https://twitter.com/yurimkuznetsov/status/1510345313567006731) | advertise |
 | [Yusi138338331@twitter](https://twitter.com/Yusi138338331/status/1390642830310141952) | advertise |
