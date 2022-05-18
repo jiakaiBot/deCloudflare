@@ -1688,6 +1688,7 @@ Or is this merely a case of simple modesty?
 | Uli Guerra | Data Analyst |  |
 | Ulrik Aurelius Alaric Theonestus | Employee |  |
 | Ulrik Aurelius Alaric | Employee |  |
+| Ulysses Kee | Employee | |
 | Usman Muzaffar | VP of Engineering |  |
 | Uzma Ali | Business Development |  |
 | Vaishnavi Iyengar | Employee |  |
