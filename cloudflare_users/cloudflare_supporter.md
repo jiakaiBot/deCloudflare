@@ -2205,6 +2205,7 @@ Do not create new issue or we will close it as duplicate.
 | [Gracema90004826@twitter](https://twitter.com/Gracema90004826/status/1390090100466274306) | advertise |
 | [GraceParree@twitter](https://twitter.com/GraceParree/status/1383247260255801348) | advertise |
 | [GrahameSmith8@twitter](https://twitter.com/GrahameSmith8/status/1480915785505820677) | advertise |
+| [graphilme@twitter](https://twitter.com/graphilme/status/1526665076924723200) | advertise |
 | [GraysonDick10@twitter](https://twitter.com/GraysonDick10/status/1377270516231233538) | advertise |
 | [GreatLakeHits@twitter](https://twitter.com/GreatLakeHits/status/1377235337714499584) | advertise |
 | [GreatPurchaser@twitter](https://twitter.com/GreatPurchaser/status/1392901780535595008) | advertise |
@@ -3019,6 +3020,7 @@ Do not create new issue or we will close it as duplicate.
 | [JC7IaJ1c3VB4wU6@twitter](https://twitter.com/JC7IaJ1c3VB4wU6/status/1394992890561146885) | advertise |
 | [jcampos2208@twitter](https://twitter.com/jcampos2208/status/1399856800208404486) | advertise |
 | [JDbelem1@twitter](https://twitter.com/JDbelem1/status/1384610630917922817) | advertise |
+| [jdiazfar@twitter](https://twitter.com/jdiazfar/status/1526666559053348866) | advertise |
 | [jdjs35017027@twitter](https://twitter.com/jdjs35017027/status/1489619422482337792) | advertise |
 | [jdmadeitoak@twitter](https://twitter.com/jdmadeitoak/status/1517686348785668097) | advertise |
 | [jdoshdbz@twitter](https://twitter.com/jdoshdbz/status/1493785041561812995) | advertise |
@@ -3867,6 +3869,7 @@ Do not create new issue or we will close it as duplicate.
 | [Latina65648589@twitter](https://twitter.com/Latina65648589/status/1379128051192107014) | advertise |
 | [LattminT@twitter](https://twitter.com/LattminT/status/1395096297296695299) | advertise |
 | [LattYar83488543@twitter](https://twitter.com/LattYar83488543/status/1390551081587859456) | advertise |
+| [Laurabaddie800@twitter](https://twitter.com/Laurabaddie800/status/1526689167081558016) | advertise |
 | [LauriusW@twitter](https://twitter.com/LauriusW/status/1396782819817361408) | advertise |
 | [LawEhMoo2@twitter](https://twitter.com/LawEhMoo2/status/1391000091071160328) | advertise |
 | [lawkagoneyee@twitter](https://twitter.com/lawkagoneyee/status/1394268084593061895) | advertise |
