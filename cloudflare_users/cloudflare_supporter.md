@@ -4666,6 +4666,7 @@ Do not create new issue or we will close it as duplicate.
 | [MonisRajput9@twitter](https://twitter.com/MonisRajput9/status/1386293306460499972) | advertise |
 | [monjure99gmailc@twitter](https://twitter.com/monjure99gmailc/status/1392445521730572296) | advertise |
 | [monkey5th@twitter](https://twitter.com/monkey5th/status/1389194425423724545) | advertise |
+| [Monkey_D_Fuba@twitter](https://twitter.com/Monkey_D_Fuba/status/1526946461011046400) | advertise |
 | [MonnelEspiritu@twitter](https://twitter.com/MonnelEspiritu/status/1466469485112709125) | advertise |
 | [Monny14727955@twitter](https://twitter.com/Monny14727955/status/1388962425425203200) | advertise |
 | [monsoon_47@twitter](https://twitter.com/monsoon_47/status/1396553299390763008) | advertise |
