@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-05-17: [Service disruption in Seoul Data Center](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qy409lntc3fx)
 - 2022-05-16: [Advanced Rate Limiting Rules Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ksmnf8zfxfr1)
 - 2022-05-12: [Increased 5xx errors during 17:01 - 17:21 UTC](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0y5k3xnpg4l1)
 - 2022-05-12: [Cloudflare Zero Trust Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/z70q78fh7dv7)
