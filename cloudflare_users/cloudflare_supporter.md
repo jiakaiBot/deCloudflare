@@ -1140,6 +1140,7 @@ Do not create new issue or we will close it as duplicate.
 | [btotherkingsto1@twitter](https://twitter.com/btotherkingsto1/status/1401106451863535616) | advertise |
 | [BTSARMY95012689@twitter](https://twitter.com/BTSARMY95012689/status/1519832843345485825) | advertise |
 | [BtwSu@twitter](https://twitter.com/BtwSu/status/1398369389783576577) | advertise |
+| [bubyli_uk@twitter](https://twitter.com/bubyli_uk/status/1527321559286751233) | advertise |
 | [buddingdentist@twitter](https://twitter.com/buddingdentist/status/1386687039525953537) | advertise |
 | [BuffCau@twitter](https://twitter.com/BuffCau/status/1378293971282063363) | advertise |
 | [buidai19@twitter](https://twitter.com/buidai19/status/1498335688454205440) | advertise |
@@ -3511,8 +3512,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6853,6 +6854,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tallcock3@twitter](https://twitter.com/Tallcock3/status/1382915646799843331) | advertise |
 | [tamakuku@twitter](https://twitter.com/tamakuku/status/1399404482987925505) | advertise |
 | [tamimalnow21@twitter](https://twitter.com/tamimalnow21/status/1514009136719085576) | advertise |
+| [TamimRupo@twitter](https://twitter.com/TamimRupo/status/1527364413397041153) | advertise |
 | [Tammy524Hunter@twitter](https://twitter.com/Tammy524Hunter/status/1378944389217681408) | advertise |
 | [TamNguy02203080@twitter](https://twitter.com/TamNguy02203080/status/1389605980724359172) | advertise |
 | [Tan45474667@twitter](https://twitter.com/Tan45474667/status/1388679876987654149) | advertise |
