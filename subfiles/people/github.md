@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Rate limitation leads to page broken](https://github.com/Magickbase/ckb-explorer-public-issues/issues/29)
 - [add official subdomains of jsdelivr to external scripts url white list](https://github.com/JasonBarnabe/greasyfork/issues/1064)
 - [Wiki site not working!](https://github.com/Konloch/bytecode-viewer/issues/425)
 - [js/web Inference is Broken in Safari when Cross Origin Isolation is active](https://github.com/microsoft/onnxruntime/issues/11567)
