@@ -2342,6 +2342,7 @@ Do not create new issue or we will close it as duplicate.
 | [HasimiJohan@twitter](https://twitter.com/HasimiJohan/status/1390402399404105728) | advertise |
 | [Hasin62169831@twitter](https://twitter.com/Hasin62169831/status/1380236587443888129) | advertise |
 | [Hasrath18@twitter](https://twitter.com/Hasrath18/status/1398681095860748288) | advertise |
+| [hassan91290216@twitter](https://twitter.com/hassan91290216/status/1527183505817579520) | advertise |
 | [HassanR56423746@twitter](https://twitter.com/HassanR56423746/status/1394591822849003521) | advertise |
 | [Haswand2@twitter](https://twitter.com/Haswand2/status/1378381010832826372) | advertise |
 | [HaTranNguyen4@twitter](https://twitter.com/HaTranNguyen4/status/1474278844894834689) | advertise |
@@ -6188,6 +6189,7 @@ Do not create new issue or we will close it as duplicate.
 | [SAdonain@twitter](https://twitter.com/SAdonain/status/1381530629565648902) | advertise |
 | [sad_sakib@twitter](https://twitter.com/sad_sakib/status/1388885692059590658) | advertise |
 | [SaeedAshifAhmed@twitter](https://twitter.com/SaeedAshifAhmed/status/1440904537758318601) | advertise |
+| [SaepurRamdan@twitter](https://twitter.com/SaepurRamdan/status/1527177130593128449) | advertise |
 | [safadi_tammam@twitter](https://twitter.com/safadi_tammam/status/1470666322010947586) | advertise |
 | [Sagar40471368@twitter](https://twitter.com/Sagar40471368/status/1394306315283959815) | advertise |
 | [SagrJony@twitter](https://twitter.com/SagrJony/status/1378421082592575491) | advertise |
@@ -7201,6 +7203,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThuReinWinMyin2@twitter](https://twitter.com/ThuReinWinMyin2/status/1390487738906943489) | advertise |
 | [Thuriya41078119@twitter](https://twitter.com/Thuriya41078119/status/1390821084421705730) | advertise |
 | [ThuTa84554500@twitter](https://twitter.com/ThuTa84554500/status/1390704445143490562) | advertise |
+| [ThuThuHein11@twitter](https://twitter.com/ThuThuHein11/status/1527190956356751361) | advertise |
 | [ThuThuShinThan2@twitter](https://twitter.com/ThuThuShinThan2/status/1391637182171865092) | advertise |
 | [ThuuHein@twitter](https://twitter.com/ThuuHein/status/1389493743473020929) | advertise |
 | [ThuuPai@twitter](https://twitter.com/ThuuPai/status/1389225307920547843) | advertise |
@@ -7781,6 +7784,7 @@ Do not create new issue or we will close it as duplicate.
 | [webtechexpertz@twitter](https://twitter.com/webtechexpertz/status/1476421030377926665) | advertise |
 | [webtechseos@twitter](https://twitter.com/webtechseos/status/1476421030377926665) | advertise |
 | [webtimez@twitter](https://twitter.com/webtimez/status/1525918440053161985) | advertise |
+| [WebUtilisationp@twitter](https://twitter.com/WebUtilisationp/status/1527158501054853121) | advertise |
 | [webveko@twitter](https://twitter.com/webveko/status/1469937863273979904) | advertise |
 | [Weduy2Weduy@twitter](https://twitter.com/Weduy2Weduy/status/1482102273207844865) | advertise |
 | [Weed36471988@twitter](https://twitter.com/Weed36471988/status/1385586093697880071) | advertise |
