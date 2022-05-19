@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-05-19: [Canary Colo DNS issues at Edge](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/x49jshcfskp5)
 - 2022-05-19: [Issues with Captcha Service](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wwtbj5nwyscj)
 - 2022-05-17: [Service disruption in Seoul Data Center](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qy409lntc3fx)
 - 2022-05-16: [Advanced Rate Limiting Rules Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ksmnf8zfxfr1)
