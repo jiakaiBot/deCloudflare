@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,510 |
+| com | 2,511 |
 | net | 1,451 |
-| social | 1,091 |
+| social | 1,092 |
 | org | 1,030 |
 | de | 892 |
 
@@ -2584,7 +2584,7 @@ Here's a list of public Fediverse services.
 | chi.st | No |
 | chiantos.org | No |
 | chiaroscuro.work | No |
-| chiba.tw | No |
+| chiba.tw | Yes |
 | chibadon.jp | No |
 | chibatsu.net | No |
 | chiccou.net | No |
@@ -2806,7 +2806,7 @@ Here's a list of public Fediverse services.
 | cmdr.social | No |
 | cme-hosting.de | No |
 | cmer.fr | Yes |
-| cmjoyce.com | No |
+| cmjoyce.com | Yes |
 | cmp.is | Yes |
 | cmpwn.com | No |
 | cms.garden | No |
@@ -3156,6 +3156,7 @@ Here's a list of public Fediverse services.
 | crowdedwood.com | No |
 | crowdersoup.com | No |
 | crowesnest.io | No |
+| crowleyclub.com | No |
 | crownet.eu | No |
 | crows.tokyo | No |
 | crqra.com | Yes |
@@ -4978,7 +4979,7 @@ Here's a list of public Fediverse services.
 | feditalk.com | No |
 | fedithese.fr | No |
 | fedithese.net | No |
-| feditrends.live | No |
+| feditrends.live | Yes |
 | feditube.com | No |
 | fediuni.xyz | Yes |
 | fedive.rs | No |
@@ -6805,7 +6806,7 @@ Here's a list of public Fediverse services.
 | holdmybeer.solutions | Yes |
 | holeliquors.com | No |
 | holenet.services | No |
-| holger.net.cn | No |
+| holger.net.cn | Yes |
 | holi.chat | No |
 | hollablog.at | No |
 | hollow.city | No |
@@ -9857,7 +9858,7 @@ Here's a list of public Fediverse services.
 | mastodon.my | No |
 | mastodon.nagoya | Yes |
 | mastodon.nara.jp | No |
-| mastodon.network | No |
+| mastodon.network | Yes |
 | mastodon.nl | No |
 | mastodon.nrw | No |
 | mastodon.nu | No |
@@ -10073,6 +10074,7 @@ Here's a list of public Fediverse services.
 | mckendrick.dev | No |
 | mckerley.net | Yes |
 | mckillop.org | No |
+| mclarty.social | Yes |
 | mcmcgraw.com | No |
 | mcnamarii.town | No |
 | mcncraftodon.site | No |
@@ -12751,7 +12753,7 @@ Here's a list of public Fediverse services.
 | philpin.com | No |
 | phirat.club | No |
 | phiy.me | Yes |
-| phoebeivy.dev | No |
+| phoebeivy.dev | Yes |
 | phoeni.xyz | No |
 | phoenixict.it | No |
 | phoenixproject.group | No |
@@ -14255,7 +14257,7 @@ Here's a list of public Fediverse services.
 | ryona.agency | Yes |
 | rys.io | No |
 | ryuchan.dev | No |
-| ryuryu.tw | No |
+| ryuryu.tw | Yes |
 | ryusei.dev | No |
 | ryutoto.com | Yes |
 | ryza.moe | Yes |
@@ -15488,7 +15490,7 @@ Here's a list of public Fediverse services.
 | staria.club | No |
 | starlit.city | No |
 | starmade.de | No |
-| starnix.network | No |
+| starnix.network | Yes |
 | starrevolution.org | No |
 | starry.ml | No |
 | starrycocoon.ml | No |
@@ -17240,6 +17242,7 @@ Here's a list of public Fediverse services.
 | univdon.com | No |
 | universalstoryengine.com | No |
 | uniwa.gr | No |
+| unix.dog | Yes |
 | unix.lgbt | No |
 | unixcat.net | No |
 | unixcorn.xyz | Yes |
@@ -18788,8 +18791,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,517 |
-| Normal | 15,228 |
+| Cloudflare | 3,527 |
+| Normal | 15,221 |
 
 
 ### 18.8% of public Fediverse services are using Cloudflare.
