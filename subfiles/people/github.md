@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Integration - not able to set passwords using double-quotes](https://github.com/elastic/integrations/issues/3388)
 - [Rate limitation leads to page broken](https://github.com/Magickbase/ckb-explorer-public-issues/issues/29)
 - [add official subdomains of jsdelivr to external scripts url white list](https://github.com/JasonBarnabe/greasyfork/issues/1064)
 - [Wiki site not working!](https://github.com/Konloch/bytecode-viewer/issues/425)
