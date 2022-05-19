@@ -251,6 +251,7 @@ Do not create new issue or we will close it as duplicate.
 | [AGThor1@twitter](https://twitter.com/AGThor1/status/1404460236702842880) | advertise |
 | [Ahbu_Yuan@twitter](https://twitter.com/Ahbu_Yuan/status/1379249818023862275) | advertise |
 | [AhChan13951575@twitter](https://twitter.com/AhChan13951575/status/1395209269830631426) | advertise |
+| [AhDaisama1@twitter](https://twitter.com/AhDaisama1/status/1527067167753064449) | advertise |
 | [ahkoyair@twitter](https://twitter.com/ahkoyair/status/1394640388531490824) | advertise |
 | [AhKyi11@twitter](https://twitter.com/AhKyi11/status/1404362564495024128) | advertise |
 | [AhLeggo@twitter](https://twitter.com/AhLeggo/status/1387395039219785730) | advertise |
@@ -2970,6 +2971,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jam3YGN@twitter](https://twitter.com/Jam3YGN/status/1390702777521696769) | advertise |
 | [JamaalMuse1@twitter](https://twitter.com/JamaalMuse1/status/1505275685123891200) | advertise |
 | [Jamaine33344511@twitter](https://twitter.com/Jamaine33344511/status/1388277841964457986) | advertise |
+| [jamalaali3122@twitter](https://twitter.com/jamalaali3122/status/1527075258087395329) | advertise |
 | [JamalKaksouri@twitter](https://twitter.com/JamalKaksouri/status/1417143011771928581) | advertise |
 | [JameHaru@twitter](https://twitter.com/JameHaru/status/1381285784913727492) | advertise |
 | [JAMES04480083@twitter](https://twitter.com/JAMES04480083/status/1488421619043295232) | advertise |
@@ -3250,6 +3252,7 @@ Do not create new issue or we will close it as duplicate.
 | [KamilMpa@twitter](https://twitter.com/KamilMpa/status/1398203986210025475) | advertise |
 | [KamojiSidrai@twitter](https://twitter.com/KamojiSidrai/status/1387253371967471617) | advertise |
 | [kanaan94901823@twitter](https://twitter.com/kanaan94901823/status/1377247977803251712) | advertise |
+| [Kanchan36627193@twitter](https://twitter.com/Kanchan36627193/status/1527031188317417472) | advertise |
 | [Kane09375517@twitter](https://twitter.com/Kane09375517/status/1379837150208782336) | advertise |
 | [Kaneki4101@twitter](https://twitter.com/Kaneki4101/status/1503382721556623364) | advertise |
 | [kangketikonlen@twitter](https://twitter.com/kangketikonlen/status/1504624017885474834) | advertise |
