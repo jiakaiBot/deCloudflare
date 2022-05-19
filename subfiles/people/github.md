@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [add official subdomains of jsdelivr to external scripts url white list](https://github.com/JasonBarnabe/greasyfork/issues/1064)
+- [Wiki site not working!](https://github.com/Konloch/bytecode-viewer/issues/425)
+- [js/web Inference is Broken in Safari when Cross Origin Isolation is active](https://github.com/microsoft/onnxruntime/issues/11567)
 - [Unable to access resources behind cloudflared.](https://github.com/khuedoan/homelab/issues/61)
 - [Top Level Domain redirect isn't working](https://github.com/EBWiki/EBWiki/issues/4136)
 - [Add IPFS support to ColonyEvents](https://github.com/JoinColony/colonySDK/issues/127)
