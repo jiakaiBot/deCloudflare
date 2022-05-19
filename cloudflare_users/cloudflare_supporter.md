@@ -7864,6 +7864,7 @@ Do not create new issue or we will close it as duplicate.
 | [wongwong9586@twitter](https://twitter.com/wongwong9586/status/1391297275255681025) | advertise |
 | [Wooddadda13@twitter](https://twitter.com/Wooddadda13/status/1393045087119056898) | advertise |
 | [WoolongsC@twitter](https://twitter.com/WoolongsC/status/1455335970610589696) | advertise |
+| [woraperth@twitter](https://twitter.com/woraperth/status/1527100429905334273) | advertise |
 | [woseokproperty@twitter](https://twitter.com/woseokproperty/status/1390282007041626116) | advertise |
 | [Wp_Xube@twitter](https://twitter.com/Wp_Xube/status/1457203444847038465) | advertise |
 | [WriteLonger@twitter](https://twitter.com/WriteLonger/status/1379361846314950658) | advertise |
