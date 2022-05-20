@@ -3123,6 +3123,7 @@ Do not create new issue or we will close it as duplicate.
 | [joem5636@twitter](https://twitter.com/joem5636/status/1503136400769789959) | advertise |
 | [joeysmi02926335@twitter](https://twitter.com/joeysmi02926335/status/1398519469115387904) | advertise |
 | [JoeyVK@twitter](https://twitter.com/JoeyVK/status/1406946607854231554) | advertise |
+| [joe_oliva313@twitter](https://twitter.com/joe_oliva313/status/1527706232349655040) | advertise |
 | [John33334699@twitter](https://twitter.com/John33334699/status/1395178210569162758) | advertise |
 | [John68402311@twitter](https://twitter.com/John68402311/status/1389341242262163460) | advertise |
 | [John96828506@twitter](https://twitter.com/John96828506/status/1390129148262117378) | advertise |
@@ -3457,6 +3458,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhinThe11365170@twitter](https://twitter.com/KhinThe11365170/status/1381255583123132417) | advertise |
 | [khinzaw17885552@twitter](https://twitter.com/khinzaw17885552/status/1390186716355469314) | advertise |
 | [KhinZawNaing7@twitter](https://twitter.com/KhinZawNaing7/status/1392256162871988224) | advertise |
+| [khittayarthar@twitter](https://twitter.com/khittayarthar/status/1527528270908260353) | advertise |
 | [khld7_1@twitter](https://twitter.com/khld7_1/status/1506028214602375169) | advertise |
 | [Khnh45220211@twitter](https://twitter.com/Khnh45220211/status/1404076237434212356) | advertise |
 | [Khnh69694123@twitter](https://twitter.com/Khnh69694123/status/1401708475546099712) | advertise |
@@ -6698,6 +6700,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sparsh7_cr@twitter](https://twitter.com/Sparsh7_cr/status/1395302496545828874) | advertise |
 | [SPdater@twitter](https://twitter.com/SPdater/status/1481116533661528067) | advertise |
 | [SpinDatReckhard@twitter](https://twitter.com/SpinDatReckhard/status/1403347991340228617) | advertise |
+| [SpiritoElMuerte@twitter](https://twitter.com/SpiritoElMuerte/status/1527695286545489920) | advertise |
 | [SpiritualJay2k@twitter](https://twitter.com/SpiritualJay2k/status/1496013442985123845) | advertise |
 | [splcher@twitter](https://twitter.com/splcher/status/1436080593775718400) | advertise |
 | [sporshojitsaha@twitter](https://twitter.com/sporshojitsaha/status/1404116014535647233) | advertise |
