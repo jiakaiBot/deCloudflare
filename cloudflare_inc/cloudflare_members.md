@@ -1732,6 +1732,7 @@ Or is this merely a case of simple modesty?
 | Watson Ladd | Employee |  |
 | Welly Tandiono | Solutions Engineer |  |
 | Wendy Chu | Export Director |  |
+| Wendy Komadina | Employee | |
 | Wenz Xing | Special Projects Intern |  |
 | Weronika Maria | Employee |  |
 | Wesley Evans | Employee | |
