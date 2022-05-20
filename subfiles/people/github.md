@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [949110 triggered when trying to Upload images to Wordpress](https://github.com/coreruleset/coreruleset/issues/2593)
+- [Deno.emit is not a function](https://github.com/skymethod/denoflare/issues/14)
 - [Cloudflare Integration - not able to set passwords using double-quotes](https://github.com/elastic/integrations/issues/3388)
 - [Rate limitation leads to page broken](https://github.com/Magickbase/ckb-explorer-public-issues/issues/29)
 - [add official subdomains of jsdelivr to external scripts url white list](https://github.com/JasonBarnabe/greasyfork/issues/1064)
