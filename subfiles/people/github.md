@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Module not found: Error: Can't resolve 'async_hooks' in /node_modules/@prisma/client/runtime](https://github.com/prisma/prisma/issues/13434)
 - [949110 triggered when trying to Upload images to Wordpress](https://github.com/coreruleset/coreruleset/issues/2593)
 - [Deno.emit is not a function](https://github.com/skymethod/denoflare/issues/14)
 - [Cloudflare Integration - not able to set passwords using double-quotes](https://github.com/elastic/integrations/issues/3388)
