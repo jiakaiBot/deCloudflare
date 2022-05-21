@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,453 |
 | social | 1,094 |
 | org | 1,030 |
-| de | 895 |
+| de | 896 |
 
 
 - Mastodon, Pleroma, etc
@@ -2919,7 +2919,7 @@ Here's a list of public Fediverse services.
 | colorfur.com | No |
 | colorid.es | Yes |
 | colson.re | No |
-| com.de | Yes |
+| com.de | No |
 | comam.es | No |
 | combiner.team | No |
 | comf.blog | No |
@@ -12429,7 +12429,7 @@ Here's a list of public Fediverse services.
 | p-pn.org | No |
 | p-y.ro | Yes |
 | p.lu | Yes |
-| p0.pm | No |
+| p0.pm | Yes |
 | p0wn3d.com | Yes |
 | p1k3.com | No |
 | p1ng0ut.social | No |
@@ -12922,6 +12922,7 @@ Here's a list of public Fediverse services.
 | pixelfed.nl | No |
 | pixelfed.nz | Yes |
 | pixelfed.photos | No |
+| pixelfed.pl | No |
 | pixelfed.pt | No |
 | pixelfed.se | No |
 | pixelfed.social | Yes |
@@ -15130,6 +15131,7 @@ Here's a list of public Fediverse services.
 | snack.social | No |
 | snacka.org | No |
 | snafu.bar | No |
+| snafus.cc | Yes |
 | snafus.io | Yes |
 | snaggletooth.life | No |
 | snake.club | No |
@@ -16495,6 +16497,7 @@ Here's a list of public Fediverse services.
 | thunderirc.net | No |
 | thurk.org | No |
 | thurman.org.uk | No |
+| thurse.de | No |
 | thx.one | Yes |
 | thyme.se | No |
 | thymrios.com | Yes |
@@ -16677,6 +16680,7 @@ Here's a list of public Fediverse services.
 | toon.social | No |
 | toonbook-rewritten.me | No |
 | toontoet.nl | No |
+| toony.club | No |
 | tooot.im | No |
 | toortu.ga | No |
 | toot-bionaut.de | No |
@@ -18830,8 +18834,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,539 |
-| Normal | 15,248 |
+| Cloudflare | 3,540 |
+| Normal | 15,251 |
 
 
 ### 18.8% of public Fediverse services are using Cloudflare.
