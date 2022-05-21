@@ -7502,6 +7502,7 @@ Do not create new issue or we will close it as duplicate.
 | [TurnKeyMSP@twitter](https://twitter.com/TurnKeyMSP/status/1402797639482187776) | advertise |
 | [Tusayssy456@twitter](https://twitter.com/Tusayssy456/status/1403396450986336262) | advertise |
 | [Tushar_Kapila@twitter](https://twitter.com/Tushar_Kapila/status/1426600905642631175) | advertise |
+| [Tusski3@twitter](https://twitter.com/Tusski3/status/1527917118716379136) | advertise |
 | [TutorialAgent@twitter](https://twitter.com/TutorialAgent/status/1496927292336984092) | advertise |
 | [tuyennguyen2906@twitter](https://twitter.com/tuyennguyen2906/status/1434738541506924547) | advertise |
 | [TuynNgu65141795@twitter](https://twitter.com/TuynNgu65141795/status/1399803170520371204) | advertise |
