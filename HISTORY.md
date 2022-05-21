@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-05-20: [Elevated number of 522 errors in Newark, NJ, United States](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1n7tn9lk47ww)
 - 2022-05-20: [Network Performance Issues in Eastern Canada](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/52zpy8pbfkx7)
 - 2022-05-19: [Canary Colo DNS issues at Edge](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/x49jshcfskp5)
 - 2022-05-19: [Issues with Captcha Service](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wwtbj5nwyscj)
