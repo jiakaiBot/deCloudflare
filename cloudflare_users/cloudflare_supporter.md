@@ -2949,6 +2949,7 @@ Do not create new issue or we will close it as duplicate.
 | [IZZY08644619@twitter](https://twitter.com/IZZY08644619/status/1391758790807097348) | advertise |
 | [I_AmmMmmR_@twitter](https://twitter.com/I_AmmMmmR_/status/1387297373798506498) | advertise |
 | [I_LOVE_ANIMEEWW@twitter](https://twitter.com/I_LOVE_ANIMEEWW/status/1387312451251621889) | advertise |
+| [J67831601@twitter](https://twitter.com/J67831601/status/1527803392743047168) | advertise |
 | [JaafarDafie@twitter](https://twitter.com/JaafarDafie/status/1401898919118790659) | advertise |
 | [jAbdullahMughal@twitter](https://twitter.com/jAbdullahMughal/status/1477590087437279232) | advertise |
 | [JACK63552523@twitter](https://twitter.com/JACK63552523/status/1400836452087255041) | advertise |
@@ -3508,6 +3509,7 @@ Do not create new issue or we will close it as duplicate.
 | [kimarmy24@twitter](https://twitter.com/kimarmy24/status/1378000928897298433) | advertise |
 | [KimChi92918716@twitter](https://twitter.com/KimChi92918716/status/1382591961891172354) | advertise |
 | [KimDaEu28711507@twitter](https://twitter.com/KimDaEu28711507/status/1394988993398382596) | advertise |
+| [KimiLov34227418@twitter](https://twitter.com/KimiLov34227418/status/1527786022809255937) | advertise |
 | [KiMin19701070@twitter](https://twitter.com/KiMin19701070/status/1391844228691501058) | advertise |
 | [Kimkung71968826@twitter](https://twitter.com/Kimkung71968826/status/1379758619114106886) | advertise |
 | [KimmieMathias@twitter](https://twitter.com/KimmieMathias/status/1516671948159275010) | advertise |
@@ -3519,8 +3521,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -4549,6 +4551,7 @@ Do not create new issue or we will close it as duplicate.
 | [minswekhaing@twitter](https://twitter.com/minswekhaing/status/1392484581899608070) | advertise |
 | [MinThan15509120@twitter](https://twitter.com/MinThan15509120/status/1392839612305870851) | advertise |
 | [MinThan37195977@twitter](https://twitter.com/MinThan37195977/status/1471388567582621699) | advertise |
+| [MinThan88056513@twitter](https://twitter.com/MinThan88056513/status/1527786744175030272) | advertise |
 | [minthan_tun@twitter](https://twitter.com/minthan_tun/status/1399615695009157120) | advertise |
 | [MinThawKaung5@twitter](https://twitter.com/MinThawKaung5/status/1390673470741045252) | advertise |
 | [minthetpaingoo@twitter](https://twitter.com/minthetpaingoo/status/1391007322336501762) | advertise |
@@ -5474,6 +5477,7 @@ Do not create new issue or we will close it as duplicate.
 | [Overdos61336881@twitter](https://twitter.com/Overdos61336881/status/1389286816906240000) | advertise |
 | [OverHard17@twitter](https://twitter.com/OverHard17/status/1391473374052892676) | advertise |
 | [overhaulkk@twitter](https://twitter.com/overhaulkk/status/1401149473162596354) | advertise |
+| [overthai@twitter](https://twitter.com/overthai/status/1527752253288771584) | advertise |
 | [oviet27@twitter](https://twitter.com/oviet27/status/1475853663264403459) | advertise |
 | [Ow16954845@twitter](https://twitter.com/Ow16954845/status/1399700429651447811) | advertise |
 | [Owen92335115@twitter](https://twitter.com/Owen92335115/status/1377489036877524995) | advertise |
