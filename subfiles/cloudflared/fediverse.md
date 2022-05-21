@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,513 |
 | net | 1,453 |
-| social | 1,094 |
+| social | 1,095 |
 | org | 1,030 |
-| de | 896 |
+| de | 899 |
 
 
 - Mastodon, Pleroma, etc
@@ -2308,6 +2308,7 @@ Here's a list of public Fediverse services.
 | candypolis.app | No |
 | canecreekstudio.org | No |
 | canerduh.ca | No |
+| canevas.eu | No |
 | canglang.me | Yes |
 | canhelpme.com | No |
 | canic.us | No |
@@ -2610,6 +2611,7 @@ Here's a list of public Fediverse services.
 | chimera.website | Yes |
 | chimerae.org | No |
 | chin-co-ne.co | No |
+| china.al | Yes |
 | chinamstdn.com | No |
 | chinapedia.org | No |
 | chinchun.net | Yes |
@@ -4042,6 +4044,7 @@ Here's a list of public Fediverse services.
 | doon.promo | No |
 | dopasoft.com | No |
 | dora.im | Yes |
+| dorf-post.de | No |
 | dorheeme.de | No |
 | dorijan.io | No |
 | dork.dev | No |
@@ -6262,6 +6265,7 @@ Here's a list of public Fediverse services.
 | grimstack.xyz | Yes |
 | grin.hu | No |
 | grindcore.ch | No |
+| grischa.de | No |
 | grishka.me | No |
 | grit.social | No |
 | grml.de | No |
@@ -6312,6 +6316,7 @@ Here's a list of public Fediverse services.
 | gude-elschbach.de | No |
 | gudeleu.de | No |
 | guedel.eu | No |
+| guedes.com.pt | No |
 | guelink.de | Yes |
 | guerilla-economist.eu.org | No |
 | guerredeclasse.fr | No |
@@ -6525,6 +6530,7 @@ Here's a list of public Fediverse services.
 | hatabowyou.club | No |
 | hatawaku.xyz | No |
 | hate-machine.com | No |
+| hate.site | No |
 | hatena.ovh | No |
 | hates.company | No |
 | hates.technology | No |
@@ -7449,6 +7455,7 @@ Here's a list of public Fediverse services.
 | isidai.com | No |
 | iskr.jp | No |
 | islamicate.space | No |
+| island.social | No |
 | islandinthenet.com | Yes |
 | isle.moe | Yes |
 | isleo.space | No |
@@ -7974,6 +7981,7 @@ Here's a list of public Fediverse services.
 | kaiba.ga | No |
 | kaiju.city | No |
 | kaikretschmann.de | No |
+| kainehm.de | No |
 | kaioken.space | No |
 | kaiser.me | No |
 | kaiser.wang | No |
@@ -8701,6 +8709,7 @@ Here's a list of public Fediverse services.
 | lastminute.one | No |
 | lastorder.xyz | Yes |
 | latavernedejohnjohn.fr | No |
+| latex.haus | No |
 | latinos.social | No |
 | latner.us | No |
 | latransition.org | No |
@@ -10311,6 +10320,7 @@ Here's a list of public Fediverse services.
 | mi2428.net | No |
 | miaochann.com | No |
 | miaostay.com | Yes |
+| miaow.gay | No |
 | miasma.space | No |
 | miauuu.de | No |
 | miblog.life | No |
@@ -10780,6 +10790,7 @@ Here's a list of public Fediverse services.
 | mouup.top | Yes |
 | movies.win | No |
 | mowerse.com | Yes |
+| moxxis.space | No |
 | moytura.org | No |
 | moyu.foundation | Yes |
 | mozcmozc.club | No |
@@ -11621,6 +11632,7 @@ Here's a list of public Fediverse services.
 | no-thoccs.cc | No |
 | no-trace.de | No |
 | no.zone | No |
+| no2nd.earth | No |
 | noagenda.social | No |
 | noagendasocial.com | Yes |
 | noagendasocial.nl | No |
@@ -12315,6 +12327,7 @@ Here's a list of public Fediverse services.
 | ostertag.team | No |
 | ostfrie.se | No |
 | osureplayviewer.xyz | No |
+| osvoj.ru | No |
 | osyakasyama.me | No |
 | ot-mangas.com | No |
 | otadon.com | No |
@@ -13231,6 +13244,7 @@ Here's a list of public Fediverse services.
 | potkukelkka.bond | No |
 | poto.cafe | No |
 | potofu.moe | Yes |
+| potp.ro | No |
 | potproject.net | No |
 | potsda.mn | No |
 | potsni.art | No |
@@ -15661,6 +15675,7 @@ Here's a list of public Fediverse services.
 | stsecurity.moe | Yes |
 | stuartbrand.co.uk | No |
 | stuartbutterworth.co.uk | No |
+| studio10b.nyc | Yes |
 | studiosabatino.it | No |
 | stuebinm.eu | No |
 | stuffbets.com | No |
@@ -18700,6 +18715,7 @@ Here's a list of public Fediverse services.
 | zentrumderarbeit.net | No |
 | zenwillow.website | No |
 | zeonet.xyz | No |
+| zepher.dev | Yes |
 | zeppelin.flights | No |
 | zer0.click | No |
 | zer0.live | No |
@@ -18834,8 +18850,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,540 |
-| Normal | 15,251 |
+| Cloudflare | 3,543 |
+| Normal | 15,264 |
 
 
 ### 18.8% of public Fediverse services are using Cloudflare.
