@@ -6938,6 +6938,7 @@ Do not create new issue or we will close it as duplicate.
 | [teegrpm2@twitter](https://twitter.com/teegrpm2/status/1397899934540566532) | advertise |
 | [teera00pai@twitter](https://twitter.com/teera00pai/status/1402357610175631361) | advertise |
 | [tegvr@twitter](https://twitter.com/tegvr/status/1466878430239100929) | advertise |
+| [tej_bo@twitter](https://twitter.com/tej_bo/status/1525166409579483136) | advertise |
 | [tekakenji@twitter](https://twitter.com/tekakenji/status/1378831679356215296) | advertise |
 | [Tekkenz2@twitter](https://twitter.com/Tekkenz2/status/1400160711297277954) | advertise |
 | [tek_kinz@twitter](https://twitter.com/tek_kinz/status/1507790839069777922) | advertise |
