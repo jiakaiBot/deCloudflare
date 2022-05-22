@@ -2196,6 +2196,7 @@ Do not create new issue or we will close it as duplicate.
 | [Good4NM@twitter](https://twitter.com/Good4NM/status/1483567861549441026) | advertise |
 | [GOODBOY97725961@twitter](https://twitter.com/GOODBOY97725961/status/1384905237190922246) | advertise |
 | [GoodTwins3@twitter](https://twitter.com/GoodTwins3/status/1379579295392264196) | advertise |
+| [goomugomuno@twitter](https://twitter.com/goomugomuno/status/1528161739514126336) | advertise |
 | [GoonerDat@twitter](https://twitter.com/GoonerDat/status/1383745932093583360) | advertise |
 | [gopichandde@twitter](https://twitter.com/gopichandde/status/1491454298060103680) | advertise |
 | [GopiKri84108993@twitter](https://twitter.com/GopiKri84108993/status/1397557588934463494) | advertise |
