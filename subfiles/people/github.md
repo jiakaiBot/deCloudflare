@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Got user is not authenticated while execute leetcode-try](https://github.com/kaiwk/leetcode.el/issues/104)
 - [Module not found: Error: Can't resolve 'async_hooks' in /node_modules/@prisma/client/runtime](https://github.com/prisma/prisma/issues/13434)
 - [949110 triggered when trying to Upload images to Wordpress](https://github.com/coreruleset/coreruleset/issues/2593)
 - [Deno.emit is not a function](https://github.com/skymethod/denoflare/issues/14)
