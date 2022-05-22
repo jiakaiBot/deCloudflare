@@ -4972,6 +4972,7 @@ Do not create new issue or we will close it as duplicate.
 | [Narendr93556275@twitter](https://twitter.com/Narendr93556275/status/1384445226274594824) | advertise |
 | [narkarsarkie@twitter](https://twitter.com/narkarsarkie/status/1379118031050141697) | advertise |
 | [nas00831184@twitter](https://twitter.com/nas00831184/status/1401008152036790277) | advertise |
+| [naslunecne@twitter](https://twitter.com/naslunecne/status/1528309796675493888) | advertise |
 | [Nasro66603001@twitter](https://twitter.com/Nasro66603001/status/1519268045352546305) | advertise |
 | [nasrumv@twitter](https://twitter.com/nasrumv/status/1480051657769558017) | advertise |
 | [nasrun__@twitter](https://twitter.com/nasrun__/status/1392774223895035905) | advertise |
