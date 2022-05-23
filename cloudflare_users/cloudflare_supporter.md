@@ -2867,6 +2867,7 @@ Do not create new issue or we will close it as duplicate.
 | [imTyleri@twitter](https://twitter.com/imTyleri/status/1470833408905519107) | advertise |
 | [im_anno@twitter](https://twitter.com/im_anno/status/1404447191993753602) | advertise |
 | [im_daisy95@twitter](https://twitter.com/im_daisy95/status/1399945229822615553) | advertise |
+| [im_kris_0605@twitter](https://twitter.com/im_kris_0605/status/1528677147606405120) | advertise |
 | [im_Waseem_@twitter](https://twitter.com/im_Waseem_/status/1397220155927715842) | advertise |
 | [inainjan@twitter](https://twitter.com/inainjan/status/1467839890289217545) | advertise |
 | [inaniien@twitter](https://twitter.com/inaniien/status/1398798075980914690) | advertise |
