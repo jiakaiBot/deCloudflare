@@ -4374,6 +4374,7 @@ Do not create new issue or we will close it as duplicate.
 | [mdk796299@twitter](https://twitter.com/mdk796299/status/1394950846845046794) | advertise |
 | [MdMasud94762486@twitter](https://twitter.com/MdMasud94762486/status/1496017091014832128) | advertise |
 | [mdmsca@twitter](https://twitter.com/mdmsca/status/1389633758509293569) | advertise |
+| [MdNajmu09996248@twitter](https://twitter.com/MdNajmu09996248/status/1528812074528145408) | advertise |
 | [MdNazmu41129198@twitter](https://twitter.com/MdNazmu41129198/status/1385844121915379712) | advertise |
 | [MDng56112137@twitter](https://twitter.com/MDng56112137/status/1396680258359754755) | advertise |
 | [MdOmarF63620186@twitter](https://twitter.com/MdOmarF63620186/status/1484456292450066432) | advertise |
@@ -7844,6 +7845,7 @@ Do not create new issue or we will close it as duplicate.
 | [WH1SbAtn0BPa5UI@twitter](https://twitter.com/WH1SbAtn0BPa5UI/status/1377862606266961924) | advertise |
 | [whatthe88888@twitter](https://twitter.com/whatthe88888/status/1385148573516402694) | advertise |
 | [whatyouneedto@twitter](https://twitter.com/whatyouneedto/status/1410881084057870337) | moral (advertise) |
+| [whinsche_CF@twitter](https://twitter.com/whinsche_CF/status/1528805265579057152) | advertise |
 | [WhoAmI61449941@twitter](https://twitter.com/WhoAmI61449941/status/1379726183009460224) | advertise |
 | [whoomenreallyis@twitter](https://twitter.com/whoomenreallyis/status/1506157558628855813) | advertise |
 | [WhXRuMfnyHtsfdk@twitter](https://twitter.com/WhXRuMfnyHtsfdk/status/1403069036422856705) | advertise |
