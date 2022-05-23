@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [S3 "Failed to copy: multipart upload failed to upload part" using Cloudflare provider](https://github.com/rclone/rclone/issues/6193)
 - [I think you should create a features for cloudflare](https://github.com/jmir1/aniyomi/issues/596)
 - [Got user is not authenticated while execute leetcode-try](https://github.com/kaiwk/leetcode.el/issues/104)
 - [Module not found: Error: Can't resolve 'async_hooks' in /node_modules/@prisma/client/runtime](https://github.com/prisma/prisma/issues/13434)
