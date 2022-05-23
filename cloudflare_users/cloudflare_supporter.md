@@ -6926,6 +6926,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tb62949256@twitter](https://twitter.com/Tb62949256/status/1395710891614670848) | advertise |
 | [TBvHdw3BHOH4hrD@twitter](https://twitter.com/TBvHdw3BHOH4hrD/status/1384973743081115660) | advertise |
 | [tcitr_chen@twitter](https://twitter.com/tcitr_chen/status/1389172265992916993) | advertise |
+| [TcitTechcom@twitter](https://twitter.com/TcitTechcom/status/1528531003354271744) | advertise |
 | [tdahao241@twitter](https://twitter.com/tdahao241/status/1398680889601581057) | advertise |
 | [tdat868@twitter](https://twitter.com/tdat868/status/1396835443618897922) | advertise |
 | [tdoongie_tw@twitter](https://twitter.com/tdoongie_tw/status/1505128403728728064) | advertise |
