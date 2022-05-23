@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [I think you should create a features for cloudflare](https://github.com/jmir1/aniyomi/issues/596)
 - [Got user is not authenticated while execute leetcode-try](https://github.com/kaiwk/leetcode.el/issues/104)
 - [Module not found: Error: Can't resolve 'async_hooks' in /node_modules/@prisma/client/runtime](https://github.com/prisma/prisma/issues/13434)
 - [949110 triggered when trying to Upload images to Wordpress](https://github.com/coreruleset/coreruleset/issues/2593)
