@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,515 |
-| net | 1,454 |
-| social | 1,097 |
+| com | 2,516 |
+| net | 1,456 |
+| social | 1,098 |
 | org | 1,030 |
-| de | 899 |
+| de | 900 |
 
 
 - Mastodon, Pleroma, etc
@@ -3392,6 +3392,7 @@ Here's a list of public Fediverse services.
 | cyzed.com | No |
 | czarnylas.net | No |
 | czm.io | Yes |
+| d-rine.com | No |
 | d-sak.com | No |
 | d-x-b.com | No |
 | d.foundation | Yes |
@@ -3733,6 +3734,7 @@ Here's a list of public Fediverse services.
 | derriere.maison | No |
 | derserver.me | No |
 | derveni.org | No |
+| derwagrier.de | No |
 | desaparecidos.org.uy | No |
 | descendants.social | No |
 | descentraliza.me | No |
@@ -3882,6 +3884,7 @@ Here's a list of public Fediverse services.
 | dilopiaf.fr | No |
 | dimethyl.xyz | No |
 | dindon.one | No |
+| dinerville.info | No |
 | dingdash.com | No |
 | dingshunyu.top | No |
 | dinobansigan.com | No |
@@ -4132,6 +4135,7 @@ Here's a list of public Fediverse services.
 | dregin.com | Yes |
 | dregnest.net | No |
 | dremtech.fr | No |
+| drensteinfurt.net | No |
 | dreo.io | No |
 | dresden.network | No |
 | drew.life | No |
@@ -4219,6 +4223,7 @@ Here's a list of public Fediverse services.
 | dupon.in | No |
 | dupr.at | No |
 | dupreez.id.au | No |
+| durch.bayern | No |
 | durel.org | No |
 | durieux.family | No |
 | durieux.ovh | No |
@@ -5732,6 +5737,7 @@ Here's a list of public Fediverse services.
 | galenabell.com | No |
 | galenzoski.com | Yes |
 | galileo.news | No |
+| gall.family | Yes |
 | gallinula.com | No |
 | galm.io | No |
 | galooph.com | No |
@@ -6765,6 +6771,7 @@ Here's a list of public Fediverse services.
 | hispanilandia.net | No |
 | hispatodon.club | No |
 | hisso.li | No |
+| histoirescrepues.fr | No |
 | history.lol | No |
 | historyhorde.com | No |
 | hisurga.com | No |
@@ -7391,6 +7398,7 @@ Here's a list of public Fediverse services.
 | introvert.social | Yes |
 | introverts.social | No |
 | intspec.ru | Yes |
+| inubo.ch | No |
 | inumbra.xyz | No |
 | inux39.me | Yes |
 | inventaire.io | No |
@@ -8131,11 +8139,13 @@ Here's a list of public Fediverse services.
 | keenfamily.us | No |
 | keerl-it.com | No |
 | keibadon.com | No |
+| keiji.io | No |
 | keinpfusch.net | No |
 | keio.ac.jp | No |
 | keithjgrant.com | Yes |
 | keithzg.ca | No |
 | keivaun.com | Yes |
+| kek.llc | No |
 | kekkai.net | No |
 | keks.top | No |
 | kekstorm.club | No |
@@ -9597,6 +9607,7 @@ Here's a list of public Fediverse services.
 | makotoworkshop.org | No |
 | makrgroup.com | No |
 | mal.systems | No |
+| malacology.net | Yes |
 | malfunctioning.technology | No |
 | malgranda.net | No |
 | maliach.fr | No |
@@ -9925,6 +9936,7 @@ Here's a list of public Fediverse services.
 | mastodon.sbs | No |
 | mastodon.scot | Yes |
 | mastodon.se | No |
+| mastodon.si | No |
 | mastodon.sk | No |
 | mastodon.social | No |
 | mastodon.space | No |
@@ -11061,6 +11073,7 @@ Here's a list of public Fediverse services.
 | mycloud.site | Yes |
 | myco.social | No |
 | myconan.net | Yes |
+| mycorrhizal.earth | No |
 | mycrowd.ca | No |
 | myd.kyoto.jp | No |
 | myddns.me | No |
@@ -11455,6 +11468,7 @@ Here's a list of public Fediverse services.
 | neuroscience.day | No |
 | neveris.one | No |
 | neverno.one | No |
+| neverwhere.social | Yes |
 | nevira.net | No |
 | new-game.pw | No |
 | newathens.net | No |
@@ -14452,6 +14466,7 @@ Here's a list of public Fediverse services.
 | sansschatten.com | No |
 | santoyo.io | Yes |
 | santsenques.cat | No |
+| sapphic.city | No |
 | sapphic.life | No |
 | sapphos.be | No |
 | sapratza.in | No |
@@ -15240,6 +15255,7 @@ Here's a list of public Fediverse services.
 | social.net.ua | No |
 | social.photo | No |
 | social.saarland | No |
+| social.scot | Yes |
 | social7.xyz | No |
 | sociala.me | No |
 | socialakdeniz.live | No |
@@ -17129,6 +17145,7 @@ Here's a list of public Fediverse services.
 | twittzoneusa.com | No |
 | twofifth.one | No |
 | twoheaded.monster | No |
+| twols.cc | No |
 | twoot.space | No |
 | twooter.me | Yes |
 | twrc.ru | No |
@@ -18691,7 +18708,7 @@ Here's a list of public Fediverse services.
 | zaisu-club.xyz | Yes |
 | zaitcev.nu | No |
 | zaksoup.club | Yes |
-| zaktakespictures.com | No |
+| zaktakespictures.com | Yes |
 | zakwan-khello.de | No |
 | zambito.xyz | No |
 | zamdronie.com | No |
@@ -18865,6 +18882,7 @@ Here's a list of public Fediverse services.
 | zyphyr.de | No |
 | zyz.link | No |
 | zz777.ru | Yes |
+| zzhsuper3.rocks | No |
 | zzz.blue | No |
 | zzzoo.org | No |
 | zzzxxx.xyz | No |
@@ -18874,8 +18892,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,552 |
-| Normal | 15,279 |
+| Cloudflare | 3,557 |
+| Normal | 15,292 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
