@@ -5411,6 +5411,7 @@ Do not create new issue or we will close it as duplicate.
 | [Oakar10272130@twitter](https://twitter.com/Oakar10272130/status/1391927452830683136) | advertise |
 | [OakSoe_95@twitter](https://twitter.com/OakSoe_95/status/1390580036474793988) | advertise |
 | [oBHp4@twitter](https://twitter.com/oBHp4/status/1490716075268665347) | advertise |
+| [ObinnaUkwueze@twitter](https://twitter.com/ObinnaUkwueze/status/1529030306908471296) | advertise |
 | [obliquum@twitter](https://twitter.com/obliquum/status/1394296794994012163) | advertise |
 | [OButhum@twitter](https://twitter.com/OButhum/status/1393372232093556739) | advertise |
 | [OdariMc@twitter](https://twitter.com/OdariMc/status/1380700664016334848) | advertise |
@@ -5439,6 +5440,7 @@ Do not create new issue or we will close it as duplicate.
 | [Oli52355992@twitter](https://twitter.com/Oli52355992/status/1391085527143784456) | advertise |
 | [olianayda@twitter](https://twitter.com/olianayda/status/1410511723560411136) | moral (advertise) |
 | [olimay3101@twitter](https://twitter.com/olimay3101/status/1405386938102603776) | advertise |
+| [oliveira_lands@twitter](https://twitter.com/oliveira_lands/status/1529122385504440321) | advertise |
 | [Ollilio1@twitter](https://twitter.com/Ollilio1/status/1403055178790572033) | advertise |
 | [OlTunexcon@twitter](https://twitter.com/OlTunexcon/status/1376669048839282690) | advertise |
 | [OluTemMarv@twitter](https://twitter.com/OluTemMarv/status/1401280423750209538) | advertise |
