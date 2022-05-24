@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [socks5_outbound 转发 v2ray socks5 inbound 的问题](https://github.com/HyNetwork/hysteria/issues/341)
 - [ReferenceError: Image is not defined](https://github.com/anotherempty/svelte-brick-gallery/issues/1)
 - [Cloudflare static media beacon fetch failed on Firefox](https://github.com/tradingstrategy-ai/frontend/issues/103)
 - [Error message: Could not retrieve all the registered accounts (/accounts returns 401)](https://github.com/Yooooomi/your_spotify/issues/133)
