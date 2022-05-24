@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare static media beacon fetch failed on Firefox](https://github.com/tradingstrategy-ai/frontend/issues/103)
 - [Error message: Could not retrieve all the registered accounts (/accounts returns 401)](https://github.com/Yooooomi/your_spotify/issues/133)
 - [USERSNAP manifest.webmanifest:1 Manifest: Line: 1, column: 1, Syntax error. Content begins <!DOCTYPE html> <!if lt IE 7> <html class="no-js ie6 oldie" lang="en-US"> <!endif> <!if IE 7> <html class="no-js ie7 oldie" lang="en-US"> <...](https://github.com/Joystream/atlas/issues/2736)
 - [S3 "Failed to copy: multipart upload failed to upload part" using Cloudflare provider](https://github.com/rclone/rclone/issues/6193)
