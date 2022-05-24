@@ -246,6 +246,7 @@ Or is this merely a case of simple modesty?
 | Barrett Thies | Employee |  |
 | Barry Fisher | Product Director |  |
 | Barton Pickett | Employee |  |
+| Bashar Bashaireh | Employee | |
 | Bashir Khader | Contracts |  |
 | Bas Westerbaan | cryptographic engineering research |  |
 | Ben Bradley | Employee |  |
