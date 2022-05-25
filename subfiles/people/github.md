@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Retry mechanism doesn't catch CloudFlare 520 error](https://github.com/python-gitlab/python-gitlab/issues/2026)
+- [Meta What's going on with the performance of the website?](https://github.com/pastelsky/bundlephobia/issues/647)
 - [MangaDig: Decryption failed](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/11968)
 - [Cloudflare Workers with PlanetScale db](https://github.com/prisma/prisma/issues/13474)
 - [Example Cloudflare ESModule server cannot be published to Cloudflare.](https://github.com/dotansimha/graphql-yoga/issues/1231)
