@@ -6086,6 +6086,7 @@ Do not create new issue or we will close it as duplicate.
 | [rex_clemente@twitter](https://twitter.com/rex_clemente/status/1376875545955209224) | advertise |
 | [rex_divakar@twitter](https://twitter.com/rex_divakar/status/1506067340165009409) | advertise |
 | [rezagolami_98@twitter](https://twitter.com/rezagolami_98/status/1501473867461799936) | advertise |
+| [RezaulK30725462@twitter](https://twitter.com/RezaulK30725462/status/1529533295041875970) | advertise |
 | [RezuKyonyu@twitter](https://twitter.com/RezuKyonyu/status/1384584149902651392) | advertise |
 | [rgeekuk@twitter](https://twitter.com/rgeekuk/status/1485614393937256463) | advertise |
 | [RGyi28802950@twitter](https://twitter.com/RGyi28802950/status/1390118757356367874) | advertise |
