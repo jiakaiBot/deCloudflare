@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [MangaDig: Decryption failed](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/11968)
 - [Cloudflare Workers with PlanetScale db](https://github.com/prisma/prisma/issues/13474)
 - [Example Cloudflare ESModule server cannot be published to Cloudflare.](https://github.com/dotansimha/graphql-yoga/issues/1231)
 - [socks5_outbound 转发 v2ray socks5 inbound 的问题](https://github.com/HyNetwork/hysteria/issues/341)
