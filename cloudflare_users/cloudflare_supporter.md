@@ -7737,6 +7737,7 @@ Do not create new issue or we will close it as duplicate.
 | [VuLe24596549@twitter](https://twitter.com/VuLe24596549/status/1477302008063283201) | advertise |
 | [vuminh56923521@twitter](https://twitter.com/vuminh56923521/status/1397945170750885895) | advertise |
 | [Vuong18239009@twitter](https://twitter.com/Vuong18239009/status/1389212433655336960) | advertise |
+| [VuonghovuDt@twitter](https://twitter.com/VuonghovuDt/status/1529242139091054592) | advertise |
 | [vuquoc203@twitter](https://twitter.com/vuquoc203/status/1408052147787161601) | advertise |
 | [vuthien46196@twitter](https://twitter.com/vuthien46196/status/1401809290449473539) | advertise |
 | [VuVuiVe10@twitter](https://twitter.com/VuVuiVe10/status/1400107055604592645) | advertise |
