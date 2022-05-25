@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-05-25: [Cloudflare Zero Trust: Gateway Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zwqgq6dx5th1)
 - 2022-05-23: [Network Performance Issues in the Czech Republic](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4p02k37ljlx4)
 - 2022-05-20: [Elevated number of 522 errors in Newark, NJ, United States](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1n7tn9lk47ww)
 - 2022-05-20: [Network Performance Issues in Eastern Canada](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/52zpy8pbfkx7)
