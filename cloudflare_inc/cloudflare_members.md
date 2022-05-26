@@ -956,6 +956,7 @@ Or is this merely a case of simple modesty?
 | Khanh Dao | Tax Manager |  |
 | Kia Liang | Employee |  |
 | Kim Jen | Infrastructure Sourcing |  |
+| Kim Jeske | Employee | |
 | Kim Jin-Woong | Head of Sales |  |
 | Kim Seungjin | Sales Operations |  |
 | Kiran Naidoo | Employee |  |
@@ -1554,6 +1555,7 @@ Or is this merely a case of simple modesty?
 | Stacey Cho | Global Operations |  |
 | Staci Lowe | Employee |  |
 | Stanley Chan | Security Engineer |  |
+| Stanley Chiang | Employee | |
 | Stanley Tan | Solutions Engineer |  |
 | Stefan Henke | Employee |  |
 | Stefan Silasi | Systems Reliability Engineer |  |
