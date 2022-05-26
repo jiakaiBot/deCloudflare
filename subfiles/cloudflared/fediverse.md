@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,518 |
-| net | 1,458 |
+| net | 1,459 |
 | social | 1,099 |
-| org | 1,034 |
-| de | 905 |
+| org | 1,036 |
+| de | 907 |
 
 
 - Mastodon, Pleroma, etc
@@ -610,6 +610,7 @@ Here's a list of public Fediverse services.
 | alacasa.fr | No |
 | alado.space | No |
 | alaeith.com | No |
+| alamaisondulibre.org | No |
 | alamantus.com | No |
 | alanae.net | No |
 | alanapost.net | No |
@@ -1663,6 +1664,7 @@ Here's a list of public Fediverse services.
 | bettina.pw | No |
 | beudot07.net | No |
 | bewegung.jetzt | No |
+| bewilderbeest.net | No |
 | beyblader.top | No |
 | beyermatthias.de | No |
 | beyleyisnot.moe | Yes |
@@ -1735,6 +1737,7 @@ Here's a list of public Fediverse services.
 | binarystar.systems | No |
 | binaryunit.com | No |
 | binatang.nl | No |
+| binbin.eu.org | No |
 | binbou.xyz | No |
 | binchan.xyz | No |
 | bindinggenerations.net | No |
@@ -6022,6 +6025,7 @@ Here's a list of public Fediverse services.
 | gitpod.io | No |
 | givel.fr | No |
 | givelotus.life | No |
+| gjcloak.xyz | No |
 | gjhr.fr | No |
 | gjpower.me | No |
 | gl-como.it | No |
@@ -8861,6 +8865,7 @@ Here's a list of public Fediverse services.
 | lemarchand.io | No |
 | lemediatv.fr | No |
 | lemee.co | No |
+| lemider.me | No |
 | lemma.tk | No |
 | lemmy.ca | No |
 | lemmy.cat | No |
@@ -10125,6 +10130,7 @@ Here's a list of public Fediverse services.
 | maymeow.red | No |
 | mayobus.me | No |
 | mayodon.club | Yes |
+| mayson.us | No |
 | mayvaneday.art | No |
 | mazorca.org | No |
 | mazu.network | No |
@@ -11885,6 +11891,7 @@ Here's a list of public Fediverse services.
 | nrev.org | No |
 | nrk.cloud | No |
 | nrkn.fr | No |
+| nroo.de | No |
 | nrsk.no | No |
 | nrw.social | No |
 | ns.auction | No |
@@ -14805,7 +14812,7 @@ Here's a list of public Fediverse services.
 | sequentialread.com | No |
 | seraimu.me | Yes |
 | serasera.org | No |
-| serbanescu.dk | No |
+| serbanescu.dk | Yes |
 | serenitytoo.com | No |
 | sergal.org | Yes |
 | sergio101.com | No |
@@ -16650,6 +16657,7 @@ Here's a list of public Fediverse services.
 | tinyrobots.pub | No |
 | tinysubversions.com | No |
 | tiotrom.com | No |
+| tippetarius.ru | No |
 | titis.xyz | Yes |
 | titouan.co | No |
 | titoux.info | No |
@@ -17353,6 +17361,7 @@ Here's a list of public Fediverse services.
 | uninform.at | No |
 | uninsane.org | No |
 | unipar.online | No |
+| unipd.it | Yes |
 | unit51.net | No |
 | unite.video | No |
 | unitedstatesofx.com | No |
@@ -18485,6 +18494,7 @@ Here's a list of public Fediverse services.
 | xurxodiz.eu | No |
 | xuv.be | No |
 | xwiki.com | Yes |
+| xxhe.de | No |
 | xxi.bz | No |
 | xxil.cc | Yes |
 | xxivproduction.video | No |
@@ -18926,8 +18936,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,571 |
-| Normal | 15,312 |
+| Cloudflare | 3,573 |
+| Normal | 15,320 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
