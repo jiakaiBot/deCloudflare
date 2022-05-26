@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [doctl sls connect fails on snap](https://github.com/digitalocean/doctl/issues/1171)
 - [Swap managed files and system tasks?](https://github.com/bjw-s/ansible-role-vyos/issues/66)
 - [Yoink download returns 503 Service Temporarily Unavailable error](https://github.com/Rigil-Kent/yoink/issues/1)
 - [Retry mechanism doesn't catch CloudFlare 520 error](https://github.com/python-gitlab/python-gitlab/issues/2026)
