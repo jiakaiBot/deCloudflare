@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Swap managed files and system tasks?](https://github.com/bjw-s/ansible-role-vyos/issues/66)
+- [Yoink download returns 503 Service Temporarily Unavailable error](https://github.com/Rigil-Kent/yoink/issues/1)
 - [Retry mechanism doesn't catch CloudFlare 520 error](https://github.com/python-gitlab/python-gitlab/issues/2026)
 - [Meta What's going on with the performance of the website?](https://github.com/pastelsky/bundlephobia/issues/647)
 - [MangaDig: Decryption failed](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/11968)
