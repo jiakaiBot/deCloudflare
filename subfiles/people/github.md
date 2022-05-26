@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Random Pages Go White](https://github.com/titaniumnetwork-dev/Ultraviolet-Node/issues/45)
+- [Websocket refusing connection](https://github.com/cockpit-project/cockpit/issues/17393)
+- [helm SASL login name rejected: Server configuration error](https://github.com/Mailu/Mailu/issues/2359)
 - [doctl sls connect fails on snap](https://github.com/digitalocean/doctl/issues/1171)
 - [Swap managed files and system tasks?](https://github.com/bjw-s/ansible-role-vyos/issues/66)
 - [Yoink download returns 503 Service Temporarily Unavailable error](https://github.com/Rigil-Kent/yoink/issues/1)
