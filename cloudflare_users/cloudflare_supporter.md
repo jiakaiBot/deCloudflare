@@ -1620,6 +1620,7 @@ Do not create new issue or we will close it as duplicate.
 | [designjazzltd@twitter](https://twitter.com/designjazzltd/status/1518899539452866561) | advertise |
 | [DesignsShujaa@twitter](https://twitter.com/DesignsShujaa/status/1501718865868300289) | advertise |
 | [detikepri@twitter](https://twitter.com/detikepri/status/1448139774171103239) | advertise |
+| [detviler8u8@twitter](https://twitter.com/detviler8u8/status/1529887094285340676) | advertise |
 | [DeukGu2@twitter](https://twitter.com/DeukGu2/status/1394341921418620935) | advertise |
 | [DevArtSoftCo@twitter](https://twitter.com/DevArtSoftCo/status/1451451931713359878) | advertise |
 | [developerstown@twitter](https://twitter.com/developerstown/status/1377104378813812746) | advertise |
@@ -2622,6 +2623,7 @@ Do not create new issue or we will close it as duplicate.
 | [HsuLai11@twitter](https://twitter.com/HsuLai11/status/1390819273321312256) | advertise |
 | [HsuMyat43415676@twitter](https://twitter.com/HsuMyat43415676/status/1394928648008847366) | advertise |
 | [HsuMyat92759112@twitter](https://twitter.com/HsuMyat92759112/status/1484551155619594246) | advertise |
+| [HsuPyae34339643@twitter](https://twitter.com/HsuPyae34339643/status/1529863517695664130) | advertise |
 | [HsuThinMaw1@twitter](https://twitter.com/HsuThinMaw1/status/1392516912526118913) | advertise |
 | [HsuThinzarHtik1@twitter](https://twitter.com/HsuThinzarHtik1/status/1391166434642853890) | advertise |
 | [HsuWaiP68516569@twitter](https://twitter.com/HsuWaiP68516569/status/1396631308953165824) | advertise |
@@ -3127,6 +3129,7 @@ Do not create new issue or we will close it as duplicate.
 | [JkRider11@twitter](https://twitter.com/JkRider11/status/1391918165085462530) | advertise |
 | [JKrystal68@twitter](https://twitter.com/JKrystal68/status/1391640481583353858) | advertise |
 | [jlamp_235@twitter](https://twitter.com/jlamp_235/status/1382663818568814597) | advertise |
+| [JLavitt@twitter](https://twitter.com/JLavitt/status/1529862297031778305) | advertise |
 | [jlOKDjKOzqlRmgx@twitter](https://twitter.com/jlOKDjKOzqlRmgx/status/1504296742992617473) | advertise |
 | [JLSosaJr@twitter](https://twitter.com/JLSosaJr/status/1382253002765991940) | advertise |
 | [jmacsecurity@twitter](https://twitter.com/jmacsecurity/status/1464711566985732103) | advertise |
@@ -5428,6 +5431,7 @@ Do not create new issue or we will close it as duplicate.
 | [OfficialSs34@twitter](https://twitter.com/OfficialSs34/status/1389541392251293705) | advertise |
 | [Official_Aidzyy@twitter](https://twitter.com/Official_Aidzyy/status/1429092121550667785) | advertise |
 | [of_544@twitter](https://twitter.com/of_544/status/1395086316665118720) | advertise |
+| [of_yomi@twitter](https://twitter.com/of_yomi/status/1529872490008170498) | advertise |
 | [ogrekevin@twitter](https://twitter.com/ogrekevin/status/1460589005171535883) | advertise |
 | [OG_PvP_@twitter](https://twitter.com/OG_PvP_/status/1458513520115474437) | advertise |
 | [OhAeri36127137@twitter](https://twitter.com/OhAeri36127137/status/1401014602033414148) | advertise |
