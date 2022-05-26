@@ -4059,6 +4059,7 @@ Do not create new issue or we will close it as duplicate.
 | [lknk_adorebot@twitter](https://twitter.com/lknk_adorebot/status/1390972492995432454) | advertise |
 | [llama_cadu@twitter](https://twitter.com/llama_cadu/status/1480054499846856710) | advertise |
 | [LlcBillionaire@twitter](https://twitter.com/LlcBillionaire/status/1498441224264552455) | advertise |
+| [llteky@twitter](https://twitter.com/llteky/status/1529935561091432453) | advertise |
 | [LluDavil@twitter](https://twitter.com/LluDavil/status/1493158792003207169) | advertise |
 | [ll_ofi@twitter](https://twitter.com/ll_ofi/status/1490596081264214016) | advertise |
 | [Lm66613075@twitter](https://twitter.com/Lm66613075/status/1386781095681687555) | advertise |
@@ -4490,6 +4491,7 @@ Do not create new issue or we will close it as duplicate.
 | [Milk01644073@twitter](https://twitter.com/Milk01644073/status/1401221745932070915) | advertise |
 | [Milk89702035@twitter](https://twitter.com/Milk89702035/status/1388356971800064001) | advertise |
 | [milk_malted@twitter](https://twitter.com/milk_malted/status/1390916527013040130) | advertise |
+| [Milon71388043@twitter](https://twitter.com/Milon71388043/status/1529911403145965568) | advertise |
 | [miltonD63111423@twitter](https://twitter.com/miltonD63111423/status/1385195789354369024) | advertise |
 | [milwdaslwni@twitter](https://twitter.com/milwdaslwni/status/1382945486441742337) | advertise |
 | [mimajharul@twitter](https://twitter.com/mimajharul/status/1399331088237957123) | advertise |
@@ -6061,6 +6063,7 @@ Do not create new issue or we will close it as duplicate.
 | [realshabbir422@twitter](https://twitter.com/realshabbir422/status/1523552177356419072) | advertise |
 | [realshherr@twitter](https://twitter.com/realshherr/status/1467100098819731457) | advertise |
 | [RealtonyX@twitter](https://twitter.com/RealtonyX/status/1396496712273960961) | advertise |
+| [reazdipu@twitter](https://twitter.com/reazdipu/status/1529910524376674304) | advertise |
 | [Rebeccamauni990@twitter](https://twitter.com/Rebeccamauni990/status/1400455125726994442) | advertise |
 | [Rebel46022752@twitter](https://twitter.com/Rebel46022752/status/1394979060628000772) | advertise |
 | [reckitlauncher@twitter](https://twitter.com/reckitlauncher/status/1491610235210919936) | advertise |
