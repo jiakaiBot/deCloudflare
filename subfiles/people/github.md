@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error messages not being parsed correctly](https://github.com/supabase/gotrue-js/issues/289)
 - [Random Pages Go White](https://github.com/titaniumnetwork-dev/Ultraviolet-Node/issues/45)
 - [Websocket refusing connection](https://github.com/cockpit-project/cockpit/issues/17393)
 - [helm SASL login name rejected: Server configuration error](https://github.com/Mailu/Mailu/issues/2359)
