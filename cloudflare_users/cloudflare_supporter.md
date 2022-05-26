@@ -2701,6 +2701,7 @@ Do not create new issue or we will close it as duplicate.
 | [htooyikoo4@twitter](https://twitter.com/htooyikoo4/status/1396563227673186305) | advertise |
 | [https://github.com/cadeyrn](https://github.com/cadeyrn) | Attacking user |
 | [htun16_khin@twitter](https://twitter.com/htun16_khin/status/1473228647968374785) | advertise |
+| [HtunHtu24277187@twitter](https://twitter.com/HtunHtu24277187/status/1529838332683124737) | advertise |
 | [HtunLynnZaw3@twitter](https://twitter.com/HtunLynnZaw3/status/1390581840784896001) | advertise |
 | [HtunNai86088837@twitter](https://twitter.com/HtunNai86088837/status/1390825486352228352) | advertise |
 | [HtunNyein3@twitter](https://twitter.com/HtunNyein3/status/1393004675603910657) | advertise |
@@ -7296,6 +7297,7 @@ Do not create new issue or we will close it as duplicate.
 | [tiggy8x@twitter](https://twitter.com/tiggy8x/status/1485163858755207173) | advertise |
 | [Tiii60222842@twitter](https://twitter.com/Tiii60222842/status/1381243276804513796) | advertise |
 | [TikkhaVen@twitter](https://twitter.com/TikkhaVen/status/1390583202595672069) | advertise |
+| [Timeox2kDev@twitter](https://twitter.com/Timeox2kDev/status/1529840436390420480) | advertise |
 | [TiMMaY57798738@twitter](https://twitter.com/TiMMaY57798738/status/1487406924849160192) | advertise |
 | [timmlyons@twitter](https://twitter.com/timmlyons/status/1466844861571559431) | advertise |
 | [timof121@twitter](https://twitter.com/timof121/status/1523252557119905793) | advertise |
