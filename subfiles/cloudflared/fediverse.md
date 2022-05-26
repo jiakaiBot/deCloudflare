@@ -2983,6 +2983,7 @@ Here's a list of public Fediverse services.
 | computerphile.social | No |
 | comradical.net | Yes |
 | coms.hk | Yes |
+| comune.trento.it | No |
 | comunismo.online | No |
 | con.sh | Yes |
 | conan.ooo | No |
@@ -3399,6 +3400,7 @@ Here's a list of public Fediverse services.
 | cyzed.com | No |
 | czarnylas.net | No |
 | czm.io | Yes |
+| d-fens.systems | No |
 | d-rine.com | No |
 | d-sak.com | No |
 | d-x-b.com | No |
@@ -7238,7 +7240,7 @@ Here's a list of public Fediverse services.
 | imthe.party | Yes |
 | imvegan.fyi | Yes |
 | imveganb.tw | Yes |
-| imyip.net | No |
+| imyip.net | Yes |
 | in-athens.gr | No |
 | in-berlin.de | No |
 | in-de-hand.info | No |
@@ -7962,7 +7964,7 @@ Here's a list of public Fediverse services.
 | jw.be | No |
 | jxmsocial.xyz | No |
 | jymuoyu.com | Yes |
-| jynxd.it | No |
+| jynxd.it | Yes |
 | k-a-i-f.ru | No |
 | k-easti.tk | No |
 | k-moegle.de | No |
@@ -12106,7 +12108,7 @@ Here's a list of public Fediverse services.
 | oiseauroch.fr | No |
 | oit-unofficial.tokyo | No |
 | ojamajo.moe | No |
-| ojitabi.club | No |
+| ojitabi.club | Yes |
 | okadajp.org | No |
 | okaminet.xyz | No |
 | okapi.website | No |
@@ -18924,8 +18926,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,568 |
-| Normal | 15,313 |
+| Cloudflare | 3,571 |
+| Normal | 15,312 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
