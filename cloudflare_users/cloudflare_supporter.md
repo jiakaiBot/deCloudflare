@@ -6967,6 +6967,7 @@ Do not create new issue or we will close it as duplicate.
 | [TecharoApp@twitter](https://twitter.com/TecharoApp/status/1401984338472931330) | advertise |
 | [TechEdUS1@twitter](https://twitter.com/TechEdUS1/status/1518902070438465536) | advertise |
 | [TechLifeApp@twitter](https://twitter.com/TechLifeApp/status/1523592317831053312) | advertise |
+| [technogun1819@twitter](https://twitter.com/technogun1819/status/1530095687236390912) | advertise |
 | [technokotsos@twitter](https://twitter.com/technokotsos/status/1517209734704766976) | advertise |
 | [TechRedneck901@twitter](https://twitter.com/TechRedneck901/status/1396056226329505794) | advertise |
 | [TechTailor@twitter](https://twitter.com/TechTailor/status/1381152232410816514) | advertise |
