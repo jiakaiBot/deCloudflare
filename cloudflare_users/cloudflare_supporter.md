@@ -3617,6 +3617,7 @@ Do not create new issue or we will close it as duplicate.
 | [Koko06717120@twitter](https://twitter.com/Koko06717120/status/1401117550314876928) | advertise |
 | [KoKO09834744@twitter](https://twitter.com/KoKO09834744/status/1478206649005268995) | advertise |
 | [KoKo36610539@twitter](https://twitter.com/KoKo36610539/status/1390247000612933635) | advertise |
+| [Koko45364380@twitter](https://twitter.com/Koko45364380/status/1530182928420184064) | advertise |
 | [KoKo49916185@twitter](https://twitter.com/KoKo49916185/status/1395567909779410949) | advertise |
 | [koko67364703@twitter](https://twitter.com/koko67364703/status/1398127074091618309) | advertise |
 | [Koko70033372@twitter](https://twitter.com/Koko70033372/status/1391089986230013957) | advertise |
@@ -5588,6 +5589,7 @@ Do not create new issue or we will close it as duplicate.
 | [PaulTijin@twitter](https://twitter.com/PaulTijin/status/1516661349212127232) | advertise |
 | [paultonetti@twitter](https://twitter.com/paultonetti/status/1418416919347175425) | advertise |
 | [pavanpwawr@twitter](https://twitter.com/pavanpwawr/status/1389417574878781445) | advertise |
+| [pavelpikta@twitter](https://twitter.com/pavelpikta/status/1530182846081638400) | advertise |
 | [Pawan80838848@twitter](https://twitter.com/Pawan80838848/status/1402921584692658179) | advertise |
 | [Pawanku52981555@twitter](https://twitter.com/Pawanku52981555/status/1392148654803210243) | advertise |
 | [paw_yal@twitter](https://twitter.com/paw_yal/status/1395218852183674882) | advertise |
@@ -7592,6 +7594,7 @@ Do not create new issue or we will close it as duplicate.
 | [UChitKaung2@twitter](https://twitter.com/UChitKaung2/status/1392627087849103360) | advertise |
 | [uCtMoi60822299@twitter](https://twitter.com/uCtMoi60822299/status/1388992504750501890) | advertise |
 | [Uday26880125@twitter](https://twitter.com/Uday26880125/status/1399934947331166213) | advertise |
+| [udaydasss@twitter](https://twitter.com/udaydasss/status/1530172460360175616) | advertise |
 | [UdicoSupport@twitter](https://twitter.com/UdicoSupport/status/1502957483500916740) | advertise |
 | [uditmehra631@twitter](https://twitter.com/uditmehra631/status/1395606145041981443) | advertise |
 | [udng83676589@twitter](https://twitter.com/udng83676589/status/1388778273388195844) | advertise |
@@ -8410,6 +8413,7 @@ Do not create new issue or we will close it as duplicate.
 | [_YoonminIsKii_@twitter](https://twitter.com/_YoonminIsKii_/status/1395181543241523205) | advertise |
 | [_zackwu@twitter](https://twitter.com/_zackwu/status/1459165605555179520) | advertise |
 | [__JARVlS__@twitter](https://twitter.com/__JARVlS__/status/1399612611314950144) | advertise |
+| [__mr_4d_wal__@twitter](https://twitter.com/__mr_4d_wal__/status/1530217611019145216) | advertise |
 | [__romanenko@twitter](https://twitter.com/__romanenko/status/1445082921421918210) | advertise |
 | [__sultan2011@twitter](https://twitter.com/__sultan2011/status/1507724323527790596) | advertise |
 | [__Th3J0k3r__@twitter](https://twitter.com/__Th3J0k3r__/status/1389701604677390343) | advertise |
