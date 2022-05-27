@@ -1775,6 +1775,7 @@ Do not create new issue or we will close it as duplicate.
 | [DStepetin@twitter](https://twitter.com/DStepetin/status/1388726848939388931) | advertise |
 | [Dswe77614518@twitter](https://twitter.com/Dswe77614518/status/1393979565475876868) | advertise |
 | [dtnlong23012002@twitter](https://twitter.com/dtnlong23012002/status/1491855180996186112) | advertise |
+| [duanrongda1@twitter](https://twitter.com/duanrongda1/status/1529983030277746688) | advertise |
 | [duc990@twitter](https://twitter.com/duc990/status/1509610476057284608) | advertise |
 | [duc22697256@twitter](https://twitter.com/duc22697256/status/1401883188796952579) | advertise |
 | [DucHoaiNam@twitter](https://twitter.com/DucHoaiNam/status/1500240220842708992) | advertise |
@@ -3553,6 +3554,7 @@ Do not create new issue or we will close it as duplicate.
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
 | [King81964381@twitter](https://twitter.com/King81964381/status/1407381247395913731) | advertise |
+| [KingAlts2@twitter](https://twitter.com/KingAlts2/status/1529966287962656768) | advertise |
 | [kingcioLaw@twitter](https://twitter.com/kingcioLaw/status/1520393986648965120) | advertise |
 | [kingk4888888@twitter](https://twitter.com/kingk4888888/status/1394730960894119937) | advertise |
 | [kingpolat5@twitter](https://twitter.com/kingpolat5/status/1397988631265038339) | advertise |
