@@ -4790,6 +4790,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mr_HedgeH0g@twitter](https://twitter.com/Mr_HedgeH0g/status/1472736787432755202) | advertise |
 | [mr_lover574@twitter](https://twitter.com/mr_lover574/status/1394097023486410752) | advertise |
 | [Mr_Serius86@twitter](https://twitter.com/Mr_Serius86/status/1385063841919225857) | advertise |
+| [Mr_Splavnik@twitter](https://twitter.com/Mr_Splavnik/status/1530099711960825858) | advertise |
 | [Mr_Teerasuk@twitter](https://twitter.com/Mr_Teerasuk/status/1394916839864430594) | advertise |
 | [mr_thadoehein@twitter](https://twitter.com/mr_thadoehein/status/1387068666768809989) | advertise |
 | [Mr_ThuraSoe@twitter](https://twitter.com/Mr_ThuraSoe/status/1382001533592608770) | advertise |
