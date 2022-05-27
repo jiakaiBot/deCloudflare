@@ -1825,6 +1825,7 @@ Do not create new issue or we will close it as duplicate.
 | [DzViet1@twitter](https://twitter.com/DzViet1/status/1487807623369924611) | advertise |
 | [d_dragonz@twitter](https://twitter.com/d_dragonz/status/1508826835844419587) | advertise |
 | [D_Larro@twitter](https://twitter.com/D_Larro/status/1397911729368145920) | advertise |
+| [EA08937111@twitter](https://twitter.com/EA08937111/status/1530222628421570560) | advertise |
 | [Ea10213@twitter](https://twitter.com/Ea10213/status/1505663566921220101) | advertise |
 | [EagleOneJackBo1@twitter](https://twitter.com/EagleOneJackBo1/status/1394581551501828098) | advertise |
 | [EaidraS@twitter](https://twitter.com/EaidraS/status/1396308018715713536) | advertise |
@@ -3549,8 +3550,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7432,6 +7433,7 @@ Do not create new issue or we will close it as duplicate.
 | [trantha16219627@twitter](https://twitter.com/trantha16219627/status/1480025129786564613) | advertise |
 | [trantie92872403@twitter](https://twitter.com/trantie92872403/status/1485623018823258115) | advertise |
 | [TranTua00316518@twitter](https://twitter.com/TranTua00316518/status/1503265835145904128) | advertise |
+| [TranTuanTico@twitter](https://twitter.com/TranTuanTico/status/1530249051777961985) | advertise |
 | [tranvan89033780@twitter](https://twitter.com/tranvan89033780/status/1474185476256845826) | advertise |
 | [trappygypsy@twitter](https://twitter.com/trappygypsy/status/1382015075331014664) | advertise |
 | [travelmatebd@twitter](https://twitter.com/travelmatebd/status/1420998094452256769) | advertise |
