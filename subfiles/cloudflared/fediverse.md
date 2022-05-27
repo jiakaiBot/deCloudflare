@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,518 |
+| com | 2,519 |
 | net | 1,459 |
 | social | 1,099 |
 | org | 1,036 |
@@ -4089,6 +4089,7 @@ Here's a list of public Fediverse services.
 | dotmiku.com | No |
 | dotopia.dk | No |
 | dotopiacph.org | No |
+| dotsod.com | Yes |
 | dotstar.plus | No |
 | dou.bet | No |
 | dou10s.com | No |
@@ -18936,7 +18937,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,573 |
+| Cloudflare | 3,574 |
 | Normal | 15,320 |
 
 
