@@ -3014,6 +3014,7 @@ Do not create new issue or we will close it as duplicate.
 | [JamesBaKyaw2@twitter](https://twitter.com/JamesBaKyaw2/status/1391787887943766016) | advertise |
 | [JamesDanMadeIt@twitter](https://twitter.com/JamesDanMadeIt/status/1489444365412016129) | advertise |
 | [JamesHa60757976@twitter](https://twitter.com/JamesHa60757976/status/1399815122022014981) | advertise |
+| [JamesKightley@twitter](https://twitter.com/JamesKightley/status/1530279999575564289) | advertise |
 | [jameslodge@twitter](https://twitter.com/jameslodge/status/1510273773240561666) | advertise |
 | [JameThuya2@twitter](https://twitter.com/JameThuya2/status/1396480198325923841) | advertise |
 | [jame_satapon@twitter](https://twitter.com/jame_satapon/status/1381621249554542595) | advertise |
@@ -3550,8 +3551,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
