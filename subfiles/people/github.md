@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Typescript issue with Cloudflare Pages](https://github.com/BuilderIO/qwik/issues/541)
 - [Error messages not being parsed correctly](https://github.com/supabase/gotrue-js/issues/289)
 - [Random Pages Go White](https://github.com/titaniumnetwork-dev/Ultraviolet-Node/issues/45)
 - [Websocket refusing connection](https://github.com/cockpit-project/cockpit/issues/17393)
