@@ -4810,6 +4810,7 @@ Do not create new issue or we will close it as duplicate.
 | [MSuriko@twitter](https://twitter.com/MSuriko/status/1376898848090583043) | advertise |
 | [mt1234513@twitter](https://twitter.com/mt1234513/status/1393161915141017603) | advertise |
 | [MTAung15@twitter](https://twitter.com/MTAung15/status/1383709367837499396) | advertise |
+| [mtNguyn83885894@twitter](https://twitter.com/mtNguyn83885894/status/1530631753244999680) | advertise |
 | [mtoannhh34@twitter](https://twitter.com/mtoannhh34/status/1397481337083207685) | advertise |
 | [MTonypayne@twitter](https://twitter.com/MTonypayne/status/1382704970634559506) | advertise |
 | [MTWC10@twitter](https://twitter.com/MTWC10/status/1406361571312357379) | advertise |
@@ -6837,6 +6838,7 @@ Do not create new issue or we will close it as duplicate.
 | [SulthanPhD@twitter](https://twitter.com/SulthanPhD/status/1386751386067423234) | advertise |
 | [sumaiya62429086@twitter](https://twitter.com/sumaiya62429086/status/1498860860022075394) | advertise |
 | [SumedhaBandar10@twitter](https://twitter.com/SumedhaBandar10/status/1405702171849478144) | advertise |
+| [sumediadotnet@twitter](https://twitter.com/sumediadotnet/status/1530633110299107328) | advertise |
 | [SumitDhangar13@twitter](https://twitter.com/SumitDhangar13/status/1386664848684052484) | advertise |
 | [summer080820155@twitter](https://twitter.com/summer080820155/status/1395076684030742534) | advertise |
 | [sumodirjo@twitter](https://twitter.com/sumodirjo/status/1403164349913460738) | advertise |
