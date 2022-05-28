@@ -6214,6 +6214,7 @@ Here's a list of public Fediverse services.
 | gotosocial.org | Yes |
 | gotosolar.org | No |
 | gots9713.xyz | No |
+| gotterfunken.eu | No |
 | gottessoehne.de | Yes |
 | gottistgut.org | Yes |
 | gouge.re | Yes |
@@ -15294,6 +15295,7 @@ Here's a list of public Fediverse services.
 | social.cologne | Yes |
 | social.com.py | No |
 | social.coop | Yes |
+| social.edu.ci | Yes |
 | social.gent | No |
 | social.gs | Yes |
 | social.im | No |
@@ -18950,8 +18952,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,583 |
-| Normal | 15,324 |
+| Cloudflare | 3,584 |
+| Normal | 15,325 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
