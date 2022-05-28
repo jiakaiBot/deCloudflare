@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Expired/Invalid SSL Certificate?](https://github.com/hello-efficiency-inc/raven-reader/issues/667)
+- [创建 Socks5 代理失败](https://github.com/fscarmen/warp/issues/156)
 - [Cookies and fetch() on servers](https://github.com/wintercg/fetch/issues/6)
 - [Any help on making it run](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/653)
 - [Typescript issue with Cloudflare Pages](https://github.com/BuilderIO/qwik/issues/541)
