@@ -3240,6 +3240,7 @@ Do not create new issue or we will close it as duplicate.
 | [Justin2582003@twitter](https://twitter.com/Justin2582003/status/1396401918914662400) | advertise |
 | [justinchandu1@twitter](https://twitter.com/justinchandu1/status/1377719527098695681) | advertise |
 | [justinkrenek2@twitter](https://twitter.com/justinkrenek2/status/1471386539934502915) | advertise |
+| [justinvawter@twitter](https://twitter.com/justinvawter/status/1530392285401124864) | advertise |
 | [justinwjohn@twitter](https://twitter.com/justinwjohn/status/1490784558807011328) | advertise |
 | [justin_t_wesley@twitter](https://twitter.com/justin_t_wesley/status/1451976168446517259) | advertise |
 | [just_twtuser@twitter](https://twitter.com/just_twtuser/status/1396088764192092160) | advertise |
@@ -7703,6 +7704,7 @@ Do not create new issue or we will close it as duplicate.
 | [viet29667@twitter](https://twitter.com/viet29667/status/1515333253989023744) | advertise |
 | [Viet99519457@twitter](https://twitter.com/Viet99519457/status/1385786793413386240) | advertise |
 | [Vietanhlee07@twitter](https://twitter.com/Vietanhlee07/status/1400153433026433029) | advertise |
+| [vietshin1@twitter](https://twitter.com/vietshin1/status/1530387224453611520) | advertise |
 | [viet_baby@twitter](https://twitter.com/viet_baby/status/1404265368147808256) | advertise |
 | [viet_doan96@twitter](https://twitter.com/viet_doan96/status/1396169993948057601) | advertise |
 | [Vignesh27019944@twitter](https://twitter.com/Vignesh27019944/status/1401042149781639171) | advertise |
