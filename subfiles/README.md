@@ -16,7 +16,7 @@
   - [Crimeflare Mail](https://mail.crimeflare.eu.org)
   - [IAList](https://ialist.crimeflare.eu.org)
   - [Alternative Link](service.altlink.md)
-  - [Local Area](http://localarea.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/)
+  - [Local Area](https://localarea.crimeflare.eu.org)
 - Cloudflare Alternatives
   - [Cloudflare Alternatives](alternative.cloudflare.md)
   - [Cloudflare DNS Alternatives](alternative.domaindns.md)
