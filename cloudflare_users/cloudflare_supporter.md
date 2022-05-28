@@ -4259,6 +4259,7 @@ Do not create new issue or we will close it as duplicate.
 | [MandalayThar10@twitter](https://twitter.com/MandalayThar10/status/1391637199444070402) | advertise |
 | [mandiptimsina1@twitter](https://twitter.com/mandiptimsina1/status/1392722380678598656) | advertise |
 | [Maneesh40605685@twitter](https://twitter.com/Maneesh40605685/status/1497225757105397763) | advertise |
+| [manhhung1944@twitter](https://twitter.com/manhhung1944/status/1530580713309085696) | advertise |
 | [ManhVi11@twitter](https://twitter.com/ManhVi11/status/1408088812664680453) | advertise |
 | [mani2jeff@twitter](https://twitter.com/mani2jeff/status/1486825496146952192) | advertise |
 | [ManishaBharadw2@twitter](https://twitter.com/ManishaBharadw2/status/1395440002557890562) | advertise |
