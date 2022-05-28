@@ -552,6 +552,7 @@ Do not create new issue or we will close it as duplicate.
 | [ArdanHlaing@twitter](https://twitter.com/ArdanHlaing/status/1392334668469612544) | advertise |
 | [aree_mi@twitter](https://twitter.com/aree_mi/status/1395193650611634178) | advertise |
 | [areg_misaghian@twitter](https://twitter.com/areg_misaghian/status/1514814263071698949) | advertise |
+| [aremark95@twitter](https://twitter.com/aremark95/status/1530402062286168064) | advertise |
 | [ARES35088043@twitter](https://twitter.com/ARES35088043/status/1391446589453967360) | advertise |
 | [arestiarr@twitter](https://twitter.com/arestiarr/status/1528766815752466432) | advertise |
 | [AriaHarunae@twitter](https://twitter.com/AriaHarunae/status/1405169247542730752) | advertise |
@@ -4838,6 +4839,7 @@ Do not create new issue or we will close it as duplicate.
 | [MValiauga@twitter](https://twitter.com/MValiauga/status/1391094817564905472) | advertise |
 | [MWbadt@twitter](https://twitter.com/MWbadt/status/1495648127113699328) | advertise |
 | [MweHom15@twitter](https://twitter.com/MweHom15/status/1383300050206396425) | advertise |
+| [MwngXekphph@twitter](https://twitter.com/MwngXekphph/status/1530430407392432129) | advertise |
 | [Mxsports5@twitter](https://twitter.com/Mxsports5/status/1517513472552181761) | advertise |
 | [mxttylive@twitter](https://twitter.com/mxttylive/status/1380773880512532485) | advertise |
 | [my3307@twitter](https://twitter.com/my3307/status/1388073214656405504) | advertise |
