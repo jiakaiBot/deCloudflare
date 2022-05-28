@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,521 |
-| net | 1,459 |
-| social | 1,100 |
-| org | 1,037 |
-| de | 908 |
+| com | 2,522 |
+| net | 1,460 |
+| social | 1,101 |
+| org | 1,039 |
+| de | 910 |
 
 
 - Mastodon, Pleroma, etc
@@ -2312,6 +2312,7 @@ Here's a list of public Fediverse services.
 | camijo.de | No |
 | camixo.com | No |
 | camnet.site | No |
+| campdarling.com | No |
 | campduffel.social | No |
 | campfire.website | Yes |
 | campfollow.life | No |
@@ -2776,6 +2777,7 @@ Here's a list of public Fediverse services.
 | climatejustice.video | Yes |
 | clintmoyer.com | No |
 | clippyco.com | No |
+| cliptube.org | No |
 | cliq.buzz | Yes |
 | cliq.social | No |
 | cliterati.club | Yes |
@@ -3224,6 +3226,7 @@ Here's a list of public Fediverse services.
 | csfg.org.au | Yes |
 | cshire.xyz | No |
 | csic.es | No |
+| csisac.social | No |
 | csos95.com | No |
 | cspray.io | Yes |
 | css-mastodon.ga | No |
@@ -3842,6 +3845,7 @@ Here's a list of public Fediverse services.
 | dialup.express | No |
 | dianaband.info | No |
 | diananatalini.it | No |
+| diani.xyz | No |
 | dias.ie | No |
 | diaspodon.fr | No |
 | diaspolizon.fr | No |
@@ -5301,6 +5305,7 @@ Here's a list of public Fediverse services.
 | foederati.dk | No |
 | foerster-ffm.de | No |
 | fogade.gob.ve | No |
+| foinb.de | Yes |
 | fokken.ninja | No |
 | fokuza.eu | No |
 | foldr.nl | No |
@@ -7836,6 +7841,7 @@ Here's a list of public Fediverse services.
 | johnholdun.com | No |
 | johnn.ie | No |
 | johnruth.me | No |
+| johns-blog.de | No |
 | johntrain.org | Yes |
 | joinfediverse.online | No |
 | joinfreedom.tk | No |
@@ -8087,6 +8093,7 @@ Here's a list of public Fediverse services.
 | kapic.io | No |
 | kapler.family | No |
 | kapoios.com | No |
+| kappapi.rocks | No |
 | kapsi.fi | No |
 | kaptainrio.de | No |
 | kaptains.net | No |
@@ -9585,7 +9592,7 @@ Here's a list of public Fediverse services.
 | magicvampirepirates.com | Yes |
 | magik.me | No |
 | magikarp.fun | No |
-| magitek-telescope.im | No |
+| magitek-telescope.im | Yes |
 | magnetic-ink.dk | No |
 | magnier.io | No |
 | magnificentbeardsfan.club | No |
@@ -11872,6 +11879,7 @@ Here's a list of public Fediverse services.
 | notreal.pw | No |
 | notreally.info | No |
 | notryden.com | No |
+| notso.cloud | Yes |
 | notspam.tk | No |
 | notunremarkable.me | No |
 | notvery.social | No |
@@ -12978,6 +12986,7 @@ Here's a list of public Fediverse services.
 | pirati.cz | Yes |
 | piratica.eu | No |
 | piratskep.pet | No |
+| piriklub.eu | No |
 | pirtube.cz | No |
 | piscolabis.me | No |
 | piss.restaurant | No |
@@ -13165,6 +13174,7 @@ Here's a list of public Fediverse services.
 | pmhcvn.com | No |
 | pmj.rocks | No |
 | pmlk.net | No |
+| pmth.us | No |
 | pngcs.de | No |
 | pnk.solar | No |
 | pnn.sh | Yes |
@@ -14579,6 +14589,7 @@ Here's a list of public Fediverse services.
 | sbw.org | No |
 | sc3.fun | Yes |
 | scaglione.xyz | No |
+| scaldra.net | No |
 | scaleway.com | Yes |
 | scalie.business | No |
 | scalie.club | No |
@@ -15459,6 +15470,7 @@ Here's a list of public Fediverse services.
 | spacebear.ee | No |
 | spacecowboy.cc | No |
 | spacegazebo.com | Yes |
+| spaceint.fr | No |
 | spacejerk.fr | No |
 | spacekittens.ru | No |
 | spaceling.sh | Yes |
@@ -16527,6 +16539,7 @@ Here's a list of public Fediverse services.
 | thetower.xyz | No |
 | theubergroup.org | Yes |
 | theundead.cricket | No |
+| theurbanfarmer.org | No |
 | thevacuumof.space | No |
 | thevalley.social | No |
 | thevideoverse.com | No |
@@ -16945,6 +16958,7 @@ Here's a list of public Fediverse services.
 | trans.town | No |
 | transfur.online | No |
 | transfurrmation.town | Yes |
+| transgression.cafe | No |
 | transient.garden | No |
 | transitieweb.nl | No |
 | transition-waedenswil.ch | No |
@@ -18952,8 +18966,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,584 |
-| Normal | 15,325 |
+| Cloudflare | 3,587 |
+| Normal | 15,336 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
