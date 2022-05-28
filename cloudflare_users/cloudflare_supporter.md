@@ -3234,6 +3234,7 @@ Do not create new issue or we will close it as duplicate.
 | [JunsukeJR@twitter](https://twitter.com/JunsukeJR/status/1489170829204389888) | advertise |
 | [Juragan99997923@twitter](https://twitter.com/Juragan99997923/status/1387185881321144320) | advertise |
 | [jusiccall@twitter](https://twitter.com/jusiccall/status/1392916961172942849) | advertise |
+| [Jusssssssy@twitter](https://twitter.com/Jusssssssy/status/1530509882469883905) | advertise |
 | [Just4nC@twitter](https://twitter.com/Just4nC/status/1389426581840535552) | advertise |
 | [just641days@twitter](https://twitter.com/just641days/status/1392151390168883202) | advertise |
 | [JustAnotherPr10@twitter](https://twitter.com/JustAnotherPr10/status/1373365388000526347) | advertise |
