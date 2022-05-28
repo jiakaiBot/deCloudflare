@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,519 |
+| com | 2,521 |
 | net | 1,459 |
-| social | 1,099 |
-| org | 1,036 |
-| de | 907 |
+| social | 1,100 |
+| org | 1,037 |
+| de | 908 |
 
 
 - Mastodon, Pleroma, etc
@@ -1941,6 +1941,7 @@ Here's a list of public Fediverse services.
 | bofa.lol | Yes |
 | boffosocko.com | No |
 | bofh.social | Yes |
+| bofhers.es | No |
 | bog.life | No |
 | bograham.xyz | No |
 | bogus.ee | No |
@@ -2805,6 +2806,7 @@ Here's a list of public Fediverse services.
 | cloudron.ml | No |
 | cloudsforcatsin.space | Yes |
 | cloudsumu.com | No |
+| cloudtrics.de | No |
 | cloutfla.re | Yes |
 | cloutier.co | No |
 | clov.fr | No |
@@ -3014,7 +3016,7 @@ Here's a list of public Fediverse services.
 | conscious-connection.de | No |
 | consolving.de | No |
 | conspiracyfiles.net | Yes |
-| constellation-mu.se | No |
+| constellation-mu.se | Yes |
 | constructed.space | No |
 | consumium.org | No |
 | contacthi.org | No |
@@ -3445,6 +3447,7 @@ Here's a list of public Fediverse services.
 | dailywebthing.com | No |
 | dain.moe | Yes |
 | daishouri.moe | No |
+| daize.xin | No |
 | daizhige.org | No |
 | dajiaweibo.com | No |
 | dakkaz.net | Yes |
@@ -4907,6 +4910,7 @@ Here's a list of public Fediverse services.
 | farout.social | No |
 | fart.social | No |
 | farted.net | No |
+| farthinghalearms.com | No |
 | farts.club | Yes |
 | fasil.cloud | No |
 | fast-email.link | Yes |
@@ -5115,7 +5119,7 @@ Here's a list of public Fediverse services.
 | fetish.church | No |
 | fetishdon.tk | No |
 | fetishsocial.club | No |
-| fetus.jp | No |
+| fetus.jp | Yes |
 | fetziverse.de | No |
 | feuerwehr.social | No |
 | feuforeve.fr | No |
@@ -5526,6 +5530,7 @@ Here's a list of public Fediverse services.
 | friendlyground.com | No |
 | friendnet.eu | No |
 | friendo.monster | No |
+| friendo.space | Yes |
 | friends.cafe | Yes |
 | friends.casa | No |
 | friends.nico | No |
@@ -5661,7 +5666,7 @@ Here's a list of public Fediverse services.
 | furries.world | No |
 | furry-elephant.news | No |
 | furry.city | No |
-| furry.club | No |
+| furry.club | Yes |
 | furry.engineer | Yes |
 | furry.nz | No |
 | furry.pt | Yes |
@@ -8637,6 +8642,7 @@ Here's a list of public Fediverse services.
 | l-internet.fr | No |
 | l-p-d.org | No |
 | l1f.de | No |
+| l33t.city | Yes |
 | l4.pm | Yes |
 | l4p1n.ch | No |
 | la-demeuree.fr | No |
@@ -8658,6 +8664,7 @@ Here's a list of public Fediverse services.
 | labrat.space | No |
 | labrats.life | No |
 | labyrinth.social | No |
+| lac.one | No |
 | lacajita.es | No |
 | lacasa.ovh | Yes |
 | lacaveatonton.ovh | No |
@@ -8752,6 +8759,7 @@ Here's a list of public Fediverse services.
 | lastminute.one | No |
 | lastorder.xyz | Yes |
 | latavernedejohnjohn.fr | No |
+| latenightblog.com | No |
 | latex.haus | No |
 | latinos.social | No |
 | latner.us | No |
@@ -9063,6 +9071,7 @@ Here's a list of public Fediverse services.
 | lignux.com | Yes |
 | ligthert.net | No |
 | ligueduzbeul.org | No |
+| lijie.org | Yes |
 | likeable.space | No |
 | liker.social | Yes |
 | lile.cl | Yes |
@@ -10347,6 +10356,7 @@ Here's a list of public Fediverse services.
 | mewitoot.de | No |
 | mewl.me | Yes |
 | meww.xyz | No |
+| mexico-pensante.blog | No |
 | mexicosocial.mx | No |
 | mezashi.info | No |
 | mezzo.moe | No |
@@ -12982,6 +12992,7 @@ Here's a list of public Fediverse services.
 | pixeldroid.org | No |
 | pixelfd.com | No |
 | pixelfed.cafe | No |
+| pixelfed.com.br | Yes |
 | pixelfed.cz | Yes |
 | pixelfed.de | No |
 | pixelfed.earth | No |
@@ -16129,6 +16140,7 @@ Here's a list of public Fediverse services.
 | tatapa.org | No |
 | tatchanka.fr | No |
 | tatersocial.com | No |
+| tatha.studio | No |
 | tati.at | No |
 | tatooine.space | No |
 | tatu.la | Yes |
@@ -16824,7 +16836,7 @@ Here's a list of public Fediverse services.
 | toot.shoes | Yes |
 | toot.si | No |
 | toot.site | Yes |
-| toot.social | No |
+| toot.social | Yes |
 | toot.style | No |
 | toot.tools | No |
 | toot.town | No |
@@ -17577,6 +17589,7 @@ Here's a list of public Fediverse services.
 | vasilis.nl | No |
 | vastodon.com | No |
 | vattenkylaren.se | No |
+| vaughan.social | Yes |
 | vaughnhannon.com | No |
 | vault84.de | No |
 | vbrlabs.io | No |
@@ -18937,8 +18950,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,574 |
-| Normal | 15,320 |
+| Cloudflare | 3,583 |
+| Normal | 15,324 |
 
 
-### 18.9% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
