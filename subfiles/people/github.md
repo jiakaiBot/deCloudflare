@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [949110 triggered when trying to Upload images to Wordpress](https://github.com/coreruleset/wordpress-rule-exclusions-plugin/issues/4)
 - [R4S CGI Web 管理访问异常](https://github.com/coolsnowwolf/lede/issues/9447)
 - [Expired/Invalid SSL Certificate?](https://github.com/hello-efficiency-inc/raven-reader/issues/667)
 - [创建 Socks5 代理失败](https://github.com/fscarmen/warp/issues/156)
