@@ -1900,6 +1900,7 @@ Here's a list of public Fediverse services.
 | bloguslibrus.fr | No |
 | blombus.com | No |
 | blossoming.dev | No |
+| blrsc.me | No |
 | blueadair.net | No |
 | blueblueblue.blue | No |
 | bluecore.net | No |
@@ -8857,7 +8858,7 @@ Here's a list of public Fediverse services.
 | leftychan.net | Yes |
 | legadolibre.com.ar | No |
 | legal.social | No |
-| legalloli.net | Yes |
+| legalloli.net | No |
 | legbeard.xyz | No |
 | legfr.social | No |
 | legitimatesounding.com | No |
@@ -10147,7 +10148,7 @@ Here's a list of public Fediverse services.
 | mayfirst.org | No |
 | maymeow.red | No |
 | mayobus.me | No |
-| mayodon.club | Yes |
+| mayodon.club | No |
 | mayson.us | No |
 | mayvaneday.art | No |
 | mazorca.org | No |
@@ -15686,7 +15687,7 @@ Here's a list of public Fediverse services.
 | stephanmaus.de | No |
 | stephenanfield.com | Yes |
 | stephenbasile.com | Yes |
-| stephenking.club | Yes |
+| stephenking.club | No |
 | stephenpieper.net | No |
 | stephenson.cc | No |
 | steppe.club | No |
@@ -17476,7 +17477,7 @@ Here's a list of public Fediverse services.
 | urban-radio.com | No |
 | urbanmind.net | Yes |
 | urbanwildlife.biz | No |
-| ureteralstones.life | Yes |
+| ureteralstones.life | No |
 | urgero.dev | No |
 | urgero.org | No |
 | uri.life | No |
@@ -18578,7 +18579,7 @@ Here's a list of public Fediverse services.
 | yanoagenda.com | Yes |
 | yantene.net | Yes |
 | yantou.co | Yes |
-| yantouer.cn | No |
+| yantouer.cn | Yes |
 | yantouer.com | Yes |
 | yapbreak.fr | No |
 | yapstreams.com | No |
@@ -18966,8 +18967,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,587 |
-| Normal | 15,336 |
+| Cloudflare | 3,584 |
+| Normal | 15,340 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 18.9% of public Fediverse services are using Cloudflare.
