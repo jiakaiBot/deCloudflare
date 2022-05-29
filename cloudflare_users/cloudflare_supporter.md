@@ -6811,6 +6811,7 @@ Do not create new issue or we will close it as duplicate.
 | [Streetlawyer11@twitter](https://twitter.com/Streetlawyer11/status/1393088374794190850) | advertise |
 | [stun71@twitter](https://twitter.com/stun71/status/1389220264244776963) | advertise |
 | [Stuurgurs@twitter](https://twitter.com/Stuurgurs/status/1453710354920452098) | advertise |
+| [su8lime@twitter](https://twitter.com/su8lime/status/1530683753948819456) | advertise |
 | [suabahasa@twitter](https://twitter.com/suabahasa/status/1464808940600893445) | advertise |
 | [SuatuoiB@twitter](https://twitter.com/SuatuoiB/status/1394638045916237831) | advertise |
 | [Sub4Rhys@twitter](https://twitter.com/Sub4Rhys/status/1452716557231079425) | advertise |
