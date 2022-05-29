@@ -6505,6 +6505,7 @@ Do not create new issue or we will close it as duplicate.
 | [shahwal6012@twitter](https://twitter.com/shahwal6012/status/1401074558828826625) | advertise |
 | [Shah_man83@twitter](https://twitter.com/Shah_man83/status/1381646041498329088) | advertise |
 | [shailas317@twitter](https://twitter.com/shailas317/status/1398393908044845057) | advertise |
+| [Shakiba34613353@twitter](https://twitter.com/Shakiba34613353/status/1530881904714878976) | advertise |
 | [ShalomValor@twitter](https://twitter.com/ShalomValor/status/1391398052464762880) | advertise |
 | [shamalesmail@twitter](https://twitter.com/shamalesmail/status/1383397258905849859) | advertise |
 | [shamelessasfuck@twitter](https://twitter.com/shamelessasfuck/status/1390875709166350338) | advertise |
