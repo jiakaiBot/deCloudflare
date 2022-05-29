@@ -3191,6 +3191,7 @@ Do not create new issue or we will close it as duplicate.
 | [jokosegoro86@twitter](https://twitter.com/jokosegoro86/status/1440170771238641672) | advertise |
 | [Jomaung1@twitter](https://twitter.com/Jomaung1/status/1397903092956372992) | advertise |
 | [jonathanbourke@twitter](https://twitter.com/jonathanbourke/status/1473258607886143492) | advertise |
+| [JonDotJames@twitter](https://twitter.com/JonDotJames/status/1531019341130518529) | advertise |
 | [Joner07322692@twitter](https://twitter.com/Joner07322692/status/1397035374258520066) | advertise |
 | [Jone_war@twitter](https://twitter.com/Jone_war/status/1390029390478680067) | advertise |
 | [Jonh44701877@twitter](https://twitter.com/Jonh44701877/status/1401203272602451968) | advertise |
@@ -4105,6 +4106,7 @@ Do not create new issue or we will close it as duplicate.
 | [Long85366984@twitter](https://twitter.com/Long85366984/status/1401922952132583431) | advertise |
 | [Longgg94106580@twitter](https://twitter.com/Longgg94106580/status/1405171698526154758) | advertise |
 | [Longggisme@twitter](https://twitter.com/Longggisme/status/1398005281842335744) | advertise |
+| [longnopro1307@twitter](https://twitter.com/longnopro1307/status/1531023217053249537) | advertise |
 | [longu3t@twitter](https://twitter.com/longu3t/status/1478738046967169026) | advertise |
 | [long_trab@twitter](https://twitter.com/long_trab/status/1490557973038452738) | advertise |
 | [LoppoZ@twitter](https://twitter.com/LoppoZ/status/1377122374617681922) | advertise |
@@ -4282,6 +4284,7 @@ Do not create new issue or we will close it as duplicate.
 | [manueltcl@twitter](https://twitter.com/manueltcl/status/1446279919022092292) | advertise |
 | [manveerkhubber2@twitter](https://twitter.com/manveerkhubber2/status/1396747736863559680) | advertise |
 | [manwiththelens@twitter](https://twitter.com/manwiththelens/status/1452280682613444608) | advertise |
+| [Mapesaofficial1@twitter](https://twitter.com/Mapesaofficial1/status/1530997837554757635) | advertise |
 | [MaPhyuPhyuWin2@twitter](https://twitter.com/MaPhyuPhyuWin2/status/1395061790921433088) | advertise |
 | [Mapkmaster@twitter](https://twitter.com/Mapkmaster/status/1387092246756007941) | advertise |
 | [marblerosee@twitter](https://twitter.com/marblerosee/status/1394172478780411906) | advertise |
