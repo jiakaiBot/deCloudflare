@@ -4274,6 +4274,7 @@ Do not create new issue or we will close it as duplicate.
 | [mannhi_1997@twitter](https://twitter.com/mannhi_1997/status/1504187126702768129) | advertise |
 | [ManSem_95@twitter](https://twitter.com/ManSem_95/status/1391726222770458627) | advertise |
 | [Mansoor81118164@twitter](https://twitter.com/Mansoor81118164/status/1400092367953154053) | advertise |
+| [mansor_malleki4@twitter](https://twitter.com/mansor_malleki4/status/1530961700962373632) | advertise |
 | [mansport4647@twitter](https://twitter.com/mansport4647/status/1382071713043603463) | advertise |
 | [MANTEAU110@twitter](https://twitter.com/MANTEAU110/status/1486579011988107264) | advertise |
 | [manthanrana@twitter](https://twitter.com/manthanrana/status/1505067100888788992) | advertise |
