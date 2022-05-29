@@ -2236,6 +2236,7 @@ Do not create new issue or we will close it as duplicate.
 | [GreatPurchaser@twitter](https://twitter.com/GreatPurchaser/status/1392901780535595008) | advertise |
 | [GreenboyTm@twitter](https://twitter.com/GreenboyTm/status/1390219893262327813) | advertise |
 | [greenmoon55@twitter](https://twitter.com/greenmoon55/status/1507778212234858496) | advertise |
+| [GregoryCollins@twitter](https://twitter.com/GregoryCollins/status/1530717094743920640) | advertise |
 | [grekgrok@twitter](https://twitter.com/grekgrok/status/1400089932262088707) | advertise |
 | [Grewal74166785@twitter](https://twitter.com/Grewal74166785/status/1405490752663261186) | advertise |
 | [GreySlitaz@twitter](https://twitter.com/GreySlitaz/status/1393006277333331976) | advertise |
@@ -3556,8 +3557,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5313,6 +5314,7 @@ Do not create new issue or we will close it as duplicate.
 | [NKNRC39@twitter](https://twitter.com/NKNRC39/status/1472029289855918083) | advertise |
 | [nl840924@twitter](https://twitter.com/nl840924/status/1402307082548695041) | advertise |
 | [NLalrameng@twitter](https://twitter.com/NLalrameng/status/1391066385254584327) | advertise |
+| [nly461636@twitter](https://twitter.com/nly461636/status/1530720462514405376) | advertise |
 | [Nmt79792355@twitter](https://twitter.com/Nmt79792355/status/1392876210544287744) | advertise |
 | [NnguyenUy@twitter](https://twitter.com/NnguyenUy/status/1389091092331597824) | advertise |
 | [NnmhBgoMy@twitter](https://twitter.com/NnmhBgoMy/status/1398200094818668546) | advertise |
@@ -5607,6 +5609,7 @@ Do not create new issue or we will close it as duplicate.
 | [PChadathong@twitter](https://twitter.com/PChadathong/status/1381661981304758273) | advertise |
 | [peageruk@twitter](https://twitter.com/peageruk/status/1383275946296299520) | advertise |
 | [pearler15@twitter](https://twitter.com/pearler15/status/1500015969544155140) | advertise |
+| [pedrogabrielrey@twitter](https://twitter.com/pedrogabrielrey/status/1530707619979186184) | advertise |
 | [PedroLuisPrinc5@twitter](https://twitter.com/PedroLuisPrinc5/status/1406316703324254208) | advertise |
 | [PeenoiT@twitter](https://twitter.com/PeenoiT/status/1385082860080488452) | advertise |
 | [PeepoHost@twitter](https://twitter.com/PeepoHost/status/1459384527177101316) | advertise |
