@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-05-29: [Increased HTTP 522 Errors for IPFS gateway users](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/h2zny77xcv7b)
 - 2022-05-27: [Network Performance Issues in Singapore](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jsjl0lw1q1gd)
 - 2022-05-25: [Cloudflare Zero Trust: Gateway Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rhd84xnr0wnn)
 - 2022-05-25: [Cloudflare Zero Trust: Gateway Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zwqgq6dx5th1)
