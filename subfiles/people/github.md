@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [nhentai 503 service temporarily unavailable becaues of cloudflare challenge](https://github.com/mikf/gallery-dl/issues/2633)
 - [Tests fail on macos CI](https://github.com/cvzi/ScreenshotTile/issues/152)
 - [949110 triggered when trying to Upload images to Wordpress](https://github.com/coreruleset/wordpress-rule-exclusions-plugin/issues/4)
 - [R4S CGI Web 管理访问异常](https://github.com/coolsnowwolf/lede/issues/9447)
