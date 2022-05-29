@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,522 |
+| com | 2,523 |
 | net | 1,460 |
-| social | 1,101 |
+| social | 1,102 |
 | org | 1,039 |
 | de | 910 |
 
@@ -440,7 +440,7 @@ Here's a list of public Fediverse services.
 | activitypub.tk | No |
 | actocom.com | No |
 | actrophp.de | No |
-| acts-sh.pp.ua | Yes |
+| acts-sh.pp.ua | No |
 | acu.lt | No |
 | acurrency.org | No |
 | ad5001.eu | No |
@@ -1427,6 +1427,7 @@ Here's a list of public Fediverse services.
 | balafon.cloud | No |
 | balafon.social | No |
 | balafon.video | No |
+| balbec.xyz | No |
 | baldurbjarnason.com | No |
 | baleafunk.eus | No |
 | ballioljcr.org | No |
@@ -1793,6 +1794,7 @@ Here's a list of public Fediverse services.
 | bitcoinsasquatch.com | No |
 | bitcointv.com | No |
 | bitflip.jetzt | No |
+| bitfudge.com | Yes |
 | bitgrid.net | No |
 | bitma.st | No |
 | bitmast.club | No |
@@ -2149,6 +2151,7 @@ Here's a list of public Fediverse services.
 | bru.su | Yes |
 | bruder.space | No |
 | bruitbruit.com | No |
+| bruixoles.cat | No |
 | bruk.earth | Yes |
 | bruniau.net | No |
 | brunisholz.fr | No |
@@ -3636,7 +3639,6 @@ Here's a list of public Fediverse services.
 | debula.ml | Yes |
 | decaunes.com | No |
 | deccs.de | No |
-| dece.space | No |
 | decentralised.social | No |
 | decentralized.faith | No |
 | decentralizemontreal.org | No |
@@ -3944,6 +3946,7 @@ Here's a list of public Fediverse services.
 | displaced.social | No |
 | disqordia.space | No |
 | disquette.top | No |
+| disquiet.blog | No |
 | disroot.org | No |
 | disruption-protestante.fr | No |
 | disruption.engineer | No |
@@ -4415,6 +4418,7 @@ Here's a list of public Fediverse services.
 | ehret.me | No |
 | ei8fdb.org | No |
 | eibriel.com | No |
+| eick.com | Yes |
 | eicker.news | No |
 | eideo.de | No |
 | eientei.org | No |
@@ -6962,6 +6966,7 @@ Here's a list of public Fediverse services.
 | hovkluster.se | No |
 | howflatisthe.earth | No |
 | howl.moe | Yes |
+| howlr.me | No |
 | howlsoverelpaso.xyz | No |
 | hoyer.xyz | No |
 | hoyle.me.uk | No |
@@ -8990,6 +8995,7 @@ Here's a list of public Fediverse services.
 | lhrtunnel.link | No |
 | lhub.pl | No |
 | lhub.social | No |
+| lhyz.fun | No |
 | lia.fail | No |
 | libarti.com | No |
 | libcore.org | Yes |
@@ -9054,6 +9060,7 @@ Here's a list of public Fediverse services.
 | libresilicon.com | No |
 | libresolutions.network | No |
 | libreti.net | No |
+| libretic.fr | No |
 | libretooth.gr | No |
 | libretube.org | No |
 | libretux.com | No |
@@ -12171,7 +12178,6 @@ Here's a list of public Fediverse services.
 | oleg.kim | No |
 | oless.xyz | No |
 | olifantje.net | No |
-| oliviaappleton.com | No |
 | olivianet.work | No |
 | olliespeople.place | Yes |
 | olry.co | No |
@@ -14027,6 +14033,7 @@ Here's a list of public Fediverse services.
 | replik.xyz | No |
 | reportdb.today | Yes |
 | reppard.com | No |
+| represent.social | No |
 | repro.video | No |
 | reptilehouse.info | Yes |
 | reptileowners.tk | No |
@@ -14420,6 +14427,7 @@ Here's a list of public Fediverse services.
 | sad.cab | No |
 | sad.earth | No |
 | sadgirl.club | No |
+| sadium.ml | No |
 | sadlads.com | Yes |
 | sadlerjw.com | No |
 | sadmansk.com | No |
@@ -14641,6 +14649,7 @@ Here's a list of public Fediverse services.
 | schmarty.net | No |
 | schmic.eu | Yes |
 | schmu.se | No |
+| schmuttermaier.com | No |
 | schnatter.eu | No |
 | schneckenradio.de | No |
 | schneesportlehrer.biz | No |
@@ -16596,7 +16605,6 @@ Here's a list of public Fediverse services.
 | thopex.de | No |
 | thorium.cc | No |
 | thorjhanson.com | No |
-| thorlaksson.com | No |
 | thoughtshrapnel.com | No |
 | thoughtworks.com | Yes |
 | thousand.rocks | No |
@@ -16997,7 +17005,6 @@ Here's a list of public Fediverse services.
 | treeshrew.net | No |
 | treethought.com | No |
 | treffast.no | No |
-| treffler.cloud | Yes |
 | trendless.ca | Yes |
 | tretkowski.de | No |
 | trev.club | Yes |
@@ -18968,7 +18975,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,584 |
-| Normal | 15,340 |
+| Normal | 15,347 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
