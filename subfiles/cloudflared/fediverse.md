@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,523 |
-| net | 1,460 |
-| social | 1,102 |
-| org | 1,039 |
+| com | 2,524 |
+| net | 1,461 |
+| social | 1,104 |
+| org | 1,040 |
 | de | 911 |
 
 
@@ -1186,6 +1186,7 @@ Here's a list of public Fediverse services.
 | ataxya.net | Yes |
 | atchao.info | No |
 | atcurio.com | No |
+| atdot.email | No |
 | atdotatdotat.at | No |
 | ateliershiori.moe | No |
 | atextual.com | No |
@@ -1629,6 +1630,7 @@ Here's a list of public Fediverse services.
 | berezowski.de | No |
 | berg.social | No |
 | berget.nu | No |
+| bergstrasse.social | Yes |
 | berkeley.edu | Yes |
 | berkeleynoise.com | No |
 | berlin.social | No |
@@ -2294,6 +2296,7 @@ Here's a list of public Fediverse services.
 | cafkafk.com | No |
 | caijunyi.cn | No |
 | caijunyi.net | Yes |
+| cailincat.cloud | No |
 | cairobraga.com | No |
 | calavere.me | No |
 | calc.news | Yes |
@@ -3354,6 +3357,7 @@ Here's a list of public Fediverse services.
 | cyberia.icu | No |
 | cyberia.institute | No |
 | cyberia.social | No |
+| cyberia.tokyo | Yes |
 | cyberiacafe.club | No |
 | cyberjinh.fr | No |
 | cybermage.sh | Yes |
@@ -3447,6 +3451,7 @@ Here's a list of public Fediverse services.
 | daemons.it | No |
 | daf.ug | Yes |
 | daft.host | Yes |
+| daggercat.gay | No |
 | daggerpath.com | No |
 | dahlstrand.net | Yes |
 | daichan.club | Yes |
@@ -4238,6 +4243,7 @@ Here's a list of public Fediverse services.
 | dumbo.kr | No |
 | dumez.info | No |
 | dummbutz.nl | No |
+| dummy.cafe | Yes |
 | dumpkin.monster | Yes |
 | duncancmt.com | No |
 | duncanhart.com | No |
@@ -4450,6 +4456,7 @@ Here's a list of public Fediverse services.
 | elao.com | No |
 | elastos.social | Yes |
 | elb.cloud | No |
+| elbblick.org | No |
 | elbmatsch.de | No |
 | elchtransformer.de | No |
 | eldritch.cafe | No |
@@ -4544,6 +4551,7 @@ Here's a list of public Fediverse services.
 | emory.coffee | No |
 | emosei.com | No |
 | emotionalboys.club | Yes |
+| emotor.tours | No |
 | empathiebullshit.de | No |
 | empathytech.net | No |
 | empresszyra.com | No |
@@ -8039,6 +8047,7 @@ Here's a list of public Fediverse services.
 | kaiba.ga | No |
 | kaiju.city | No |
 | kaikretschmann.de | No |
+| kainehm.com | No |
 | kainehm.de | No |
 | kaioken.space | No |
 | kaiser.me | No |
@@ -8754,6 +8763,7 @@ Here's a list of public Fediverse services.
 | lapuacase.info | Yes |
 | lapunta.org | No |
 | lapy.link | Yes |
+| larand.net | No |
 | lardbucket.org | No |
 | larlet.fr | No |
 | larmefamily.com | No |
@@ -11230,6 +11240,7 @@ Here's a list of public Fediverse services.
 | nagoyadon.jp | Yes |
 | nagy.haus | No |
 | nah.re | No |
+| nahe.social | No |
 | nahuelwexd.com | Yes |
 | naia.gay | Yes |
 | naii.io | No |
@@ -13278,6 +13289,7 @@ Here's a list of public Fediverse services.
 | poofion.com | No |
 | pooltoy.club | No |
 | poopy.social | No |
+| poorlifechoices.moe | No |
 | pop-in-don.com | No |
 | pop.zone | No |
 | pop42.net | No |
@@ -17913,6 +17925,7 @@ Here's a list of public Fediverse services.
 | waldn.net | No |
 | waldowski.me | No |
 | waldstepperbu.de | No |
+| wale.run | Yes |
 | walkah.social | Yes |
 | walkaway.social | No |
 | walkaway.space | No |
@@ -18975,8 +18988,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,584 |
-| Normal | 15,348 |
+| Cloudflare | 3,588 |
+| Normal | 15,357 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
