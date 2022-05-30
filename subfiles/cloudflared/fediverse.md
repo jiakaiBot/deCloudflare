@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,460 |
 | social | 1,102 |
 | org | 1,039 |
-| de | 910 |
+| de | 911 |
 
 
 - Mastodon, Pleroma, etc
@@ -800,7 +800,7 @@ Here's a list of public Fediverse services.
 | anarchismus.xyz | No |
 | anarchmusicall.net | No |
 | anarchy.moe | No |
-| anarchy.rocks | Yes |
+| anarchy.rocks | No |
 | anarchy.social | Yes |
 | anarchy.tech | No |
 | anarchy.tube | No |
@@ -1200,7 +1200,7 @@ Here's a list of public Fediverse services.
 | atmx.ca | No |
 | atmy.haus | No |
 | atoh.me | No |
-| atolla.xyz | Yes |
+| atolla.xyz | No |
 | atomatheoria.com | No |
 | atomic-zombie-squirrel.tech | No |
 | atomicblon.de | No |
@@ -3938,7 +3938,7 @@ Here's a list of public Fediverse services.
 | disism.com | Yes |
 | diskofgrain.xyz | No |
 | diskseven.com | No |
-| dislive.me | No |
+| dislive.me | Yes |
 | disney.host | No |
 | disobey.net | No |
 | dispark.org | No |
@@ -4937,6 +4937,7 @@ Here's a list of public Fediverse services.
 | favrep.ch | No |
 | fawx.news | No |
 | fayne.me | No |
+| fbsweb.de | Yes |
 | fbxl.net | No |
 | fc2.page | No |
 | fcourtois.net | No |
@@ -18975,7 +18976,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,584 |
-| Normal | 15,347 |
+| Normal | 15,348 |
 
 
 ### 18.9% of public Fediverse services are using Cloudflare.
