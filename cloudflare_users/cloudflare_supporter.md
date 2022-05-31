@@ -5882,6 +5882,7 @@ Do not create new issue or we will close it as duplicate.
 | [professorRauti@twitter](https://twitter.com/professorRauti/status/1470751563283116038) | advertise |
 | [ProfTakeruHiga@twitter](https://twitter.com/ProfTakeruHiga/status/1388474623214243842) | advertise |
 | [ProgramerDev@twitter](https://twitter.com/ProgramerDev/status/1466576384327700481) | advertise |
+| [ProgrammerRDAI@twitter](https://twitter.com/ProgrammerRDAI/status/1531626215013879810) | advertise |
 | [ProteinPink@twitter](https://twitter.com/ProteinPink/status/1522848358548873217) | advertise |
 | [ProZar3@twitter](https://twitter.com/ProZar3/status/1503979856882769922) | advertise |
 | [prro85545495@twitter](https://twitter.com/prro85545495/status/1401352105886056457) | advertise |
