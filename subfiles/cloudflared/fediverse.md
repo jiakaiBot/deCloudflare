@@ -4189,6 +4189,7 @@ Here's a list of public Fediverse services.
 | dronehost.space | No |
 | dronesocial.me | No |
 | droogers.eu | No |
+| droom.vision | No |
 | dropbear.club | Yes |
 | dropbear.xyz | Yes |
 | drow.be | No |
@@ -5894,7 +5895,7 @@ Here's a list of public Fediverse services.
 | geekstop.se | No |
 | geekstream.org | No |
 | geektox.fun | No |
-| geekvc.jp | No |
+| geekvc.jp | Yes |
 | geeky.af | Yes |
 | geekyboo.com | No |
 | geekyboo.net | No |
@@ -11093,6 +11094,7 @@ Here's a list of public Fediverse services.
 | musicdn.jp | No |
 | musicstudio.pro | No |
 | musictech.space | No |
+| musing.studio | No |
 | musiq.fan | Yes |
 | muskodon.social | Yes |
 | musksocial.com | No |
@@ -13719,7 +13721,7 @@ Here's a list of public Fediverse services.
 | quitter.pw | No |
 | quitter.se | No |
 | quixotic.info | No |
-| quizmo.mn | No |
+| quizmo.mn | Yes |
 | qunagi.net | No |
 | qunaud.xyz | No |
 | qunn.eu | Yes |
@@ -14684,6 +14686,7 @@ Here's a list of public Fediverse services.
 | schuppen.dev | Yes |
 | schuppentier.org | No |
 | schwartzh.com | No |
+| schwartzwelt.xyz | No |
 | schwe.by | Yes |
 | schweigert.dev | Yes |
 | schwend.us | No |
@@ -18046,7 +18049,7 @@ Here's a list of public Fediverse services.
 | weisensee.me | No |
 | weisser-zwerg.dev | No |
 | welldn.net | No |
-| weller.io | No |
+| weller.io | Yes |
 | wellness.so | Yes |
 | wells-family.xyz | No |
 | welltempered.net | No |
@@ -18988,8 +18991,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,588 |
+| Cloudflare | 3,591 |
 | Normal | 15,357 |
 
 
-### 18.9% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
