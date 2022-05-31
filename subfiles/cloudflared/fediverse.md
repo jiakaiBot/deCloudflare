@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,461 |
 | social | 1,104 |
 | org | 1,040 |
-| de | 911 |
+| de | 912 |
 
 
 - Mastodon, Pleroma, etc
@@ -807,6 +807,7 @@ Here's a list of public Fediverse services.
 | anarchy.video | No |
 | anarchydica.net | No |
 | anarchyplanet.org | No |
+| anarela.cyou | No |
 | anarkis.net | No |
 | anartist.org | No |
 | anartist.world | No |
@@ -3346,6 +3347,7 @@ Here's a list of public Fediverse services.
 | cybercity.eu.org | No |
 | cybercrew.site | No |
 | cyberdeck.cf | No |
+| cyberdelia.com.ar | No |
 | cyberdelia.space | No |
 | cyberdruids.club | No |
 | cyberfarmer.xyz | No |
@@ -4722,6 +4724,7 @@ Here's a list of public Fediverse services.
 | ethernia.net | No |
 | ethibox.fr | No |
 | etiketi.de | No |
+| etimon.app | No |
 | etovai.eu | No |
 | etr.ist | No |
 | etwas42.de | No |
@@ -5678,6 +5681,7 @@ Here's a list of public Fediverse services.
 | furankum.ovh | No |
 | furcurry.co | No |
 | furden.co | No |
+| furest.be | No |
 | furf.ag | No |
 | furfag.de | Yes |
 | furred.tv | No |
@@ -6537,7 +6541,7 @@ Here's a list of public Fediverse services.
 | handon.club | Yes |
 | handy.cafe | No |
 | hanf.chat | No |
-| hangup.eu | Yes |
+| hangup.eu | No |
 | hankchizljaw.io | No |
 | hannebrook.info | No |
 | hannover.social | No |
@@ -6879,6 +6883,7 @@ Here's a list of public Fediverse services.
 | hoge.cloud | Yes |
 | hogehuga.com | No |
 | hogh.tk | No |
+| hohn.cloud | No |
 | hoijyun.com | Yes |
 | hokutodon.co | No |
 | hokutodon.com | No |
@@ -7391,6 +7396,7 @@ Here's a list of public Fediverse services.
 | inrupt.net | No |
 | inscope.social | No |
 | insert.moe | Yes |
+| insky.jp | Yes |
 | insm.cf | No |
 | inso.ovh | No |
 | insolente.im | No |
@@ -8758,6 +8764,7 @@ Here's a list of public Fediverse services.
 | lansky.name | No |
 | lanterner.cf | No |
 | lanuevebastarda.es | No |
+| laoda.ge | Yes |
 | lapineige.fr | No |
 | lapo.it | No |
 | lapp-social.com | No |
@@ -10421,6 +10428,7 @@ Here's a list of public Fediverse services.
 | michaonline.net | No |
 | michels.xyz | No |
 | michizev.de | Yes |
+| michu.cloud | No |
 | mickaelftw.net | Yes |
 | mickaelgillot.xyz | No |
 | micro.blog | No |
@@ -16693,6 +16701,7 @@ Here's a list of public Fediverse services.
 | timowens.io | No |
 | timshomepage.net | No |
 | timttmy.co.uk | No |
+| tin.fyi | No |
 | tinax.work | No |
 | tincanphone.club | No |
 | tinerion.me | No |
@@ -17279,6 +17288,7 @@ Here's a list of public Fediverse services.
 | u53.us | No |
 | u7fa9.org | No |
 | u8.is | No |
+| ua-fediland.de | No |
 | ualberta.ca | No |
 | ub32.org | No |
 | uber.space | No |
@@ -18991,8 +19001,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,591 |
-| Normal | 15,357 |
+| Cloudflare | 3,592 |
+| Normal | 15,366 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 18.9% of public Fediverse services are using Cloudflare.
