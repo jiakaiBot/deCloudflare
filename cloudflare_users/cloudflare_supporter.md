@@ -7966,6 +7966,7 @@ Do not create new issue or we will close it as duplicate.
 | [WisdomTav4@twitter](https://twitter.com/WisdomTav4/status/1381666478945136641) | advertise |
 | [wis_ais@twitter](https://twitter.com/wis_ais/status/1393090766000459776) | advertise |
 | [WitchaneeFC@twitter](https://twitter.com/WitchaneeFC/status/1519470393102577664) | advertise |
+| [WitchlyHost@twitter](https://twitter.com/WitchlyHost/status/1531595477376180224) | advertise |
 | [Wizardink553@twitter](https://twitter.com/Wizardink553/status/1494706705057214464) | advertise |
 | [wizkhalifaedgar@twitter](https://twitter.com/wizkhalifaedgar/status/1493223256580624385) | advertise |
 | [wizkiller96@twitter](https://twitter.com/wizkiller96/status/1381748522094051329) | advertise |
