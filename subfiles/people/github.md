@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Replacing 1 with 0](https://github.com/axios/axios/issues/4762)
+- [slug for digitalocean_image rockylinux-8-x64 has changed?](https://github.com/digitalocean/terraform-provider-digitalocean/issues/834)
 - [does this work with Flac? I get errors](https://github.com/HOZHENWAI/Beets-Plugin_VGMdb/issues/1)
 - [cloudflare iuam challenge nhentai '503 Service Temporarily Unavailable'](https://github.com/mikf/gallery-dl/issues/2636)
 - [Public gateway performance](https://github.com/ipfs/go-ipfs/issues/8998)
