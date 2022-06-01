@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Step go get failure](https://github.com/rlynic/filebeat-output-clickhouse/issues/3)
 - [Replacing 1 with 0](https://github.com/axios/axios/issues/4762)
 - [slug for digitalocean_image rockylinux-8-x64 has changed?](https://github.com/digitalocean/terraform-provider-digitalocean/issues/834)
 - [does this work with Flac? I get errors](https://github.com/HOZHENWAI/Beets-Plugin_VGMdb/issues/1)
