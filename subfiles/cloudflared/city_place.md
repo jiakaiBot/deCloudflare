@@ -12522,7 +12522,7 @@ Here is a list of places (within 100 km radius from city center & have website) 
 | Shop | 0 | 174 | 0% |
 | Shop=copyshop | 0 | 7 | 0% |
 | Shopping | 27 | 54 | 33.33% |
-| Shop|clothes | 17 | 0 | 100% |
+| Shop\|clothes | 17 | 0 | 100% |
 | Shower | 93 | 517 | 15.25% |
 | Sign shops | 0 | 4 | 0% |
 | Singing lessons | 0 | 13 | 0% |
@@ -12706,4 +12706,3 @@ Here is a list of places (within 100 km radius from city center & have website) 
 | Ογκολογικό Ιατρείο | 0 | 47 | 0% |
 | شهر مشاغل کودک | 0 | 5 | 0% |
 | **Σ** | 1,050,092 | 10,453,200 | 9.13% |
-
