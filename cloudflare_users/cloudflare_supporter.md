@@ -1818,6 +1818,7 @@ Do not create new issue or we will close it as duplicate.
 | [DuyThnh23103428@twitter](https://twitter.com/DuyThnh23103428/status/1515883211372769280) | advertise |
 | [DuyTran98356663@twitter](https://twitter.com/DuyTran98356663/status/1510911601599447040) | advertise |
 | [Duytrung31@twitter](https://twitter.com/Duytrung31/status/1388180524573741058) | advertise |
+| [duyyhoang102@twitter](https://twitter.com/duyyhoang102/status/1531892044008136704) | advertise |
 | [dvgamerr@twitter](https://twitter.com/dvgamerr/status/1471737827750674433) | advertise |
 | [dwight_wilkes7@twitter](https://twitter.com/dwight_wilkes7/status/1473360659144314880) | advertise |
 | [DwiSury295@twitter](https://twitter.com/DwiSury295/status/1402505833909424128) | advertise |
@@ -3568,8 +3569,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5478,6 +5479,7 @@ Do not create new issue or we will close it as duplicate.
 | [ohsewu@twitter](https://twitter.com/ohsewu/status/1390553814147559425) | advertise |
 | [Okami54259404@twitter](https://twitter.com/Okami54259404/status/1391062217710129154) | advertise |
 | [okayyakko@twitter](https://twitter.com/okayyakko/status/1407936483143524353) | advertise |
+| [okellochristo@twitter](https://twitter.com/okellochristo/status/1531884571842818053) | advertise |
 | [Olala85233012@twitter](https://twitter.com/Olala85233012/status/1389032029568651267) | advertise |
 | [OlangstonS@twitter](https://twitter.com/OlangstonS/status/1380699085989089286) | advertise |
 | [Oli52355992@twitter](https://twitter.com/Oli52355992/status/1391085527143784456) | advertise |
