@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,524 |
 | net | 1,461 |
-| social | 1,105 |
+| social | 1,106 |
 | org | 1,040 |
-| de | 912 |
+| de | 914 |
 
 
 - Mastodon, Pleroma, etc
@@ -49,6 +49,7 @@ Here's a list of public Fediverse services.
 | 0am.jp | No |
 | 0bs.tech | No |
 | 0ch.in | No |
+| 0ch.tv | Yes |
 | 0day.agency | Yes |
 | 0j0.jp | No |
 | 0ko.me | No |
@@ -1073,6 +1074,7 @@ Here's a list of public Fediverse services.
 | aroaminggeek.com | No |
 | arpidon.space | No |
 | arqadium.com | Yes |
+| arroba.pt | No |
 | arso.xyz | No |
 | arstoien.xyz | No |
 | art-software.fr | No |
@@ -2484,7 +2486,7 @@ Here's a list of public Fediverse services.
 | celestek.xyz | Yes |
 | celestialscribe.online | No |
 | celestialspheres.xyz | No |
-| cellardoor.network | No |
+| cellardoor.network | Yes |
 | celti.name | No |
 | cemea.org | No |
 | cene.ovh | Yes |
@@ -4294,6 +4296,7 @@ Here's a list of public Fediverse services.
 | dystopian.space | No |
 | dz4k.com | No |
 | dzek.ru | No |
+| dzerom.space | No |
 | dzindzik.com | Yes |
 | e-code.in | Yes |
 | e-dt.xyz | No |
@@ -4928,6 +4931,7 @@ Here's a list of public Fediverse services.
 | farm.lol | No |
 | farman.tokyo | No |
 | farmlesbian.com | No |
+| farmunity.ca | Yes |
 | farout.social | No |
 | fart.social | No |
 | farted.net | No |
@@ -4949,6 +4953,7 @@ Here's a list of public Fediverse services.
 | favrep.ch | No |
 | fawx.news | No |
 | fayne.me | No |
+| fbender.de | No |
 | fbsweb.de | Yes |
 | fbxl.net | No |
 | fc2.page | No |
@@ -5840,6 +5845,7 @@ Here's a list of public Fediverse services.
 | gated.space | Yes |
 | gath.io | No |
 | gattai.net | No |
+| gatti.ninja | No |
 | gattini.ninja | No |
 | gauchiste.club | No |
 | gautampk.com | Yes |
@@ -6366,6 +6372,7 @@ Here's a list of public Fediverse services.
 | gshift.cf | No |
 | gskapp.live | No |
 | gspirate.club | Yes |
+| gspot.lol | Yes |
 | gspot.social | Yes |
 | gsugambit.com | No |
 | gt-mod.site | No |
@@ -8048,6 +8055,7 @@ Here's a list of public Fediverse services.
 | kagura1050.tk | No |
 | kaguratech.tk | No |
 | kahl-com.de | No |
+| kahppa.social | Yes |
 | kahtlane.place | No |
 | kai-stuht.com | No |
 | kai.moe | No |
@@ -10051,6 +10059,7 @@ Here's a list of public Fediverse services.
 | mastodonring.com | No |
 | mastodonrussia.ru | No |
 | mastodons.city | No |
+| mastodons.de | Yes |
 | mastodons.jp | No |
 | mastodonserver.se | No |
 | mastodonsocial.net | No |
@@ -14287,6 +14296,7 @@ Here's a list of public Fediverse services.
 | root.sx | Yes |
 | rootdc.xyz | No |
 | rootfs.eu | No |
+| rooting.garden | No |
 | rooty.fr | No |
 | ropable.com | Yes |
 | ropo.jp | No |
@@ -15411,6 +15421,7 @@ Here's a list of public Fediverse services.
 | solarpunk.social | No |
 | solarpunkanarchism.org | No |
 | solarpunkcanuck.ca | No |
+| solarpunks.blog | No |
 | solarpunks.social | No |
 | soldyn.net | Yes |
 | soleus.nu | No |
@@ -19003,8 +19014,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,597 |
-| Normal | 15,363 |
+| Cloudflare | 3,603 |
+| Normal | 15,368 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
