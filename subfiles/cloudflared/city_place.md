@@ -1,7 +1,7 @@
 ## How many % of places in each cities are using Cloudflare?
 
 
-Here is a list of places (100 km radius from city center) which are listed in OpenStreetMap.
+Here is a list of places (within 100 km radius from city center & have website) which are listed in OpenStreetMap.
 
 ---
 
