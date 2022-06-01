@@ -71,6 +71,7 @@ Do not create new issue or we will close it as duplicate.
 | [6October8@twitter](https://twitter.com/6October8/status/1382415935454199815) | advertise |
 | [6PpXPysVDb3lCRH@twitter](https://twitter.com/6PpXPysVDb3lCRH/status/1467321870181494785) | advertise |
 | [7amahanti@twitter](https://twitter.com/7amahanti/status/1470204452657242114) | advertise |
+| [7aQuynh@twitter](https://twitter.com/7aQuynh/status/1532060485352583168) | advertise |
 | [7BsevenV7@twitter](https://twitter.com/7BsevenV7/status/1396360385784160256) | advertise |
 | [7nkman@twitter](https://twitter.com/7nkman/status/1478989383877500940) | advertise |
 | [7RO1IoBvdGllVm3@twitter](https://twitter.com/7RO1IoBvdGllVm3/status/1389878437985198081) | advertise |
@@ -3573,8 +3574,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5280,6 +5281,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nhoknho09136811@twitter](https://twitter.com/Nhoknho09136811/status/1389079543579779073) | advertise |
 | [nhp3698@twitter](https://twitter.com/nhp3698/status/1379887451662000129) | advertise |
 | [Nht65648068@twitter](https://twitter.com/Nht65648068/status/1388890386790191111) | advertise |
+| [nhtkhinguyn2@twitter](https://twitter.com/nhtkhinguyn2/status/1532043280997040128) | advertise |
 | [NhtMinh63107265@twitter](https://twitter.com/NhtMinh63107265/status/1489605213203795973) | advertise |
 | [nhtr_ung@twitter](https://twitter.com/nhtr_ung/status/1381240130418130946) | advertise |
 | [NhtTrng53285558@twitter](https://twitter.com/NhtTrng53285558/status/1400998350191620096) | advertise |
