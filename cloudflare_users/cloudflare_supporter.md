@@ -5535,6 +5535,7 @@ Do not create new issue or we will close it as duplicate.
 | [Orange15115578@twitter](https://twitter.com/Orange15115578/status/1400454754145234952) | advertise |
 | [Orange23582707@twitter](https://twitter.com/Orange23582707/status/1390373004798959617) | advertise |
 | [orangesweed@twitter](https://twitter.com/orangesweed/status/1381985172153802752) | advertise |
+| [orientofu@twitter](https://twitter.com/orientofu/status/1532066962540761088) | advertise |
 | [OriginalAydin@twitter](https://twitter.com/OriginalAydin/status/1389601607273254913) | advertise |
 | [orutragolden@twitter](https://twitter.com/orutragolden/status/1391394853343436800) | advertise |
 | [OsaeStephen7@twitter](https://twitter.com/OsaeStephen7/status/1492858553492770819) | advertise |
