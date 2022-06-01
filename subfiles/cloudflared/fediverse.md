@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,524 |
 | net | 1,461 |
-| social | 1,104 |
+| social | 1,105 |
 | org | 1,040 |
 | de | 912 |
 
@@ -7019,7 +7019,7 @@ Here's a list of public Fediverse services.
 | huckle.ch | No |
 | huebner.tk | No |
 | hug.network | No |
-| huggingservers.uk | No |
+| huggingservers.uk | Yes |
 | huggles.club | No |
 | hugh.buzz | No |
 | hugh.run | No |
@@ -8674,6 +8674,7 @@ Here's a list of public Fediverse services.
 | l-p-d.org | No |
 | l1f.de | No |
 | l33t.city | Yes |
+| l33t.link | No |
 | l4.pm | Yes |
 | l4p1n.ch | No |
 | la-demeuree.fr | No |
@@ -12678,7 +12679,7 @@ Here's a list of public Fediverse services.
 | passageenseine.fr | No |
 | passionsofaman.com | No |
 | pasta.ga | No |
-| pasteq.fr | No |
+| pasteq.fr | Yes |
 | pastix.fr | No |
 | pastleo.me | Yes |
 | pasture.moe | No |
@@ -17067,6 +17068,7 @@ Here's a list of public Fediverse services.
 | troet.cafe | No |
 | troet.club | No |
 | troet.eu | No |
+| troet.social | Yes |
 | troet.space | Yes |
 | troetco.de | No |
 | troeterei.de | No |
@@ -18918,7 +18920,7 @@ Here's a list of public Fediverse services.
 | zitter.ca | No |
 | ziuri.me | Yes |
 | zivitas.info | No |
-| zj.ms | No |
+| zj.ms | Yes |
 | zlatko.dev | No |
 | zld.red | No |
 | zlg.space | No |
@@ -19001,8 +19003,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,593 |
-| Normal | 15,365 |
+| Cloudflare | 3,597 |
+| Normal | 15,363 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
