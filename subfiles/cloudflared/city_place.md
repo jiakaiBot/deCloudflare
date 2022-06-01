@@ -56,6 +56,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Tir Pol](geo:34.5952778,61.2669449) | 0 | 1 | 0% |
 | [Yengi Qal`eh](geo:37.4672222,69.6091690) | 0 | 5 | 0% |
 | [Zendeh Jan](geo:34.3455556,61.7316666) | 0 | 1 | 0% |
+| **Σ** | 21 | 155 | 11.93% |
 
 
 </details>
@@ -167,6 +168,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vlore](geo:40.4666667,19.4897213) | 38 | 147 | 20.54% |
 | [Vore](geo:41.3908333,19.6550007) | 44 | 170 | 20.56% |
 | [Xhyre](geo:41.2869444,20.0283337) | 45 | 179 | 20.09% |
+| **Σ** | 3,924 | 16,995 | 18.76% |
 
 
 </details>
@@ -277,6 +279,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Tolga](geo:34.7166667,5.3833332) | 0 | 78 | 0% |
 | [Touggourt](geo:33.1000000,6.0666666) | 0 | 12 | 0% |
 | [`Ain el Hadjel](geo:35.6758333,3.8822222) | 0 | 102 | 0% |
+| **Σ** | 45 | 20,942 | 0.21% |
 
 
 </details>
@@ -296,6 +299,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Sant Julia de Loria](geo:42.4637237,1.4912868) | 85 | 454 | 15.77% |
 | [la Massana](geo:42.5449867,1.5148258) | 82 | 453 | 15.33% |
 | [les Escaldes](geo:42.5072870,1.5341377) | 84 | 463 | 15.36% |
+| **Σ** | 597 | 3,344 | 15.15% |
 
 
 </details>
@@ -322,6 +326,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Namibe](geo:-15.1961111,12.1522226) | 0 | 3 | 0% |
 | [Ondjiva](geo:-17.0666667,15.7333336) | 1 | 0 | 100% |
 | [Soyo](geo:-6.1333333,12.3666668) | 0 | 1 | 0% |
+| **Σ** | 11 | 128 | 7.91% |
 
 
 </details>
@@ -428,6 +433,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Villa Maria](geo:-32.4166667,-63.2500000) | 1 | 102 | 0.97% |
 | [Villa Santa Rita](geo:-34.6147735,-58.4797096) | 100 | 1,647 | 5.72% |
 | [Zarate](geo:-34.0922222,-59.0349998) | 93 | 1,573 | 5.58% |
+| **Σ** | 982 | 17,097 | 5.43% |
 
 
 </details>
@@ -531,6 +537,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Yeranos](geo:40.2080556,45.1861115) | 301 | 700 | 30.07% |
 | [Yerevan](geo:40.1811111,44.5136108) | 307 | 699 | 30.52% |
 | [Zovuni](geo:40.5108333,44.4288902) | 305 | 708 | 30.11% |
+| **Σ** | 23,043 | 56,096 | 29.12% |
 
 
 </details>
@@ -643,6 +650,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Whyalla](geo:-33.0333333,137.5833282) | 1 | 11 | 8.33% |
 | [Wodonga](geo:-36.1166667,146.8833313) | 19 | 76 | 20% |
 | [Wollongong](geo:-34.4333333,150.8833313) | 359 | 1,125 | 24.19% |
+| **Σ** | 14,638 | 43,475 | 25.19% |
 
 
 </details>
@@ -755,6 +763,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Worgl](geo:47.4833333,12.0666666) | 369 | 9,948 | 3.58% |
 | [Zell am See](geo:47.3166667,12.7833328) | 108 | 3,147 | 3.32% |
 | [Zwettl Stift](geo:48.6166667,15.1999998) | 205 | 6,873 | 2.9% |
+| **Σ** | 25,931 | 590,060 | 4.21% |
 
 
 </details>
@@ -866,6 +875,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zardab](geo:40.2183333,47.7083321) | 8 | 12 | 40% |
 | [Zayam](geo:40.8994444,45.8858337) | 18 | 87 | 17.14% |
 | [Zira](geo:40.3636111,50.2902794) | 57 | 179 | 24.15% |
+| **Σ** | 2,393 | 8,432 | 22.11% |
 
 
 </details>
@@ -885,6 +895,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Madinat `Isa](geo:26.1736110,50.5477791) | 26 | 76 | 25.49% |
 | [Manama](geo:26.2361111,50.5830574) | 26 | 76 | 25.49% |
 | [Sitrah](geo:26.1547222,50.6205559) | 26 | 76 | 25.49% |
+| **Σ** | 182 | 532 | 25.49% |
 
 
 </details>
@@ -990,6 +1001,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Thakurgaon](geo:26.0333333,88.4666672) | 4 | 24 | 14.29% |
 | [Tungi](geo:23.8900000,90.4058304) | 22 | 165 | 11.76% |
 | [Tungipara](geo:22.9000000,89.9166641) | 2 | 13 | 13.33% |
+| **Σ** | 696 | 5,246 | 11.71% |
 
 
 </details>
@@ -1012,6 +1024,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Oistins](geo:13.0666667,-59.5333328) | 3 | 25 | 10.71% |
 | [Speightstown](geo:13.2500000,-59.6500015) | 3 | 25 | 10.71% |
 | [The Crane](geo:13.1000000,-59.4500008) | 3 | 25 | 10.71% |
+| **Σ** | 30 | 250 | 10.71% |
 
 
 </details>
@@ -1113,6 +1126,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zhlobin](geo:52.8922222,30.0280552) | 4 | 175 | 2.23% |
 | [Zhodzina](geo:54.0983333,28.3325005) | 52 | 1,124 | 4.42% |
 | [Zhytkavichy](geo:52.2286111,27.8636112) | 2 | 54 | 3.57% |
+| **Σ** | 2,091 | 39,233 | 5.06% |
 
 
 </details>
@@ -1222,6 +1236,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zedelgem](geo:51.1500000,3.1333332) | 683 | 7,238 | 8.62% |
 | [Zottegem](geo:50.8666667,3.8000000) | 962 | 9,229 | 9.44% |
 | [Zwevegem](geo:50.8000000,3.3333333) | 788 | 7,779 | 9.2% |
+| **Σ** | 101,978 | 1,042,008 | 8.91% |
 
 
 </details>
@@ -1242,6 +1257,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [San Ignacio](geo:17.1561111,-89.0713882) | 2 | 15 | 11.76% |
 | [San Pedro](geo:17.9166667,-87.9499969) | 2 | 20 | 9.09% |
 | [Valley of Peace](geo:17.3347222,-88.8347244) | 2 | 17 | 10.53% |
+| **Σ** | 14 | 118 | 10.61% |
 
 
 </details>
@@ -1280,6 +1296,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Savalou](geo:7.9333333,1.9666667) | 0 | 0 | 0% |
 | [Tanguieta](geo:10.6197222,1.2644444) | 0 | 1 | 0% |
 | [Tchaourou](geo:8.8833333,2.5999999) | 0 | 2 | 0% |
+| **Σ** | 14 | 364 | 3.7% |
 
 
 </details>
@@ -1306,6 +1323,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Tashigang](geo:27.3166667,91.5666656) | 1 | 1 | 50% |
 | [Tongsa](geo:27.5166667,90.5000000) | 1 | 6 | 14.29% |
 | [Wamrong](geo:27.0666667,91.5666656) | 1 | 4 | 20% |
+| **Σ** | 16 | 92 | 14.81% |
 
 
 </details>
@@ -1407,6 +1425,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Viloco](geo:-16.9500000,-67.5500031) | 12 | 166 | 6.74% |
 | [Warnes](geo:-17.5000000,-63.1666679) | 2 | 37 | 5.13% |
 | [Yacuiba](geo:-22.0333333,-63.6833344) | 0 | 8 | 0% |
+| **Σ** | 196 | 2,848 | 6.44% |
 
 
 </details>
@@ -1505,6 +1524,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zepce](geo:44.4266667,18.0377769) | 44 | 328 | 11.83% |
 | [Zivinice](geo:44.4494444,18.6497231) | 36 | 286 | 11.18% |
 | [Zvornik](geo:44.3869444,19.1013889) | 33 | 312 | 9.57% |
+| **Σ** | 3,041 | 29,825 | 9.25% |
 
 
 </details>
@@ -1609,6 +1629,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vitoria](geo:-20.3194444,-40.3377762) | 5 | 32 | 13.51% |
 | [Vitoria da Conquista](geo:-14.8661111,-40.8394432) | 0 | 7 | 0% |
 | [Volta Redonda](geo:-22.5230556,-44.1041679) | 41 | 181 | 18.47% |
+| **Σ** | 3,158 | 27,445 | 10.32% |
 
 
 </details>
@@ -1626,6 +1647,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Kuala Belait](geo:4.5833333,114.1833344) | 7 | 40 | 14.89% |
 | [Seria](geo:4.6166667,114.3166656) | 7 | 42 | 14.29% |
 | [Tutong](geo:4.8000000,114.6500015) | 8 | 42 | 16% |
+| **Σ** | 36 | 198 | 15.38% |
 
 
 </details>
@@ -1737,6 +1759,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vratsa](geo:43.2100000,23.5625000) | 290 | 1,177 | 19.77% |
 | [Vurshets](geo:43.1952778,23.2861118) | 284 | 1,170 | 19.53% |
 | [Yambol](geo:42.4833333,26.5000000) | 26 | 136 | 16.05% |
+| **Σ** | 9,957 | 45,333 | 18.01% |
 
 
 </details>
@@ -1769,6 +1792,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Siemreab](geo:13.3666667,103.8499985) | 14 | 117 | 10.69% |
 | [Sisophon](geo:13.5833333,102.9833298) | 15 | 122 | 10.95% |
 | [Ta Khmau](geo:11.4833333,104.9499969) | 20 | 181 | 9.95% |
+| **Σ** | 217 | 1,827 | 10.62% |
 
 
 </details>
@@ -1857,6 +1881,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Wum](geo:6.3833333,10.0666666) | 0 | 2 | 0% |
 | [Yabassi](geo:4.4544444,9.9655552) | 0 | 14 | 0% |
 | [Yaounde](geo:3.8666667,11.5166664) | 0 | 14 | 0% |
+| **Σ** | 2 | 518 | 0.38% |
 
 
 </details>
@@ -1968,6 +1993,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Windsor](geo:42.3000836,-83.0165405) | 312 | 889 | 25.98% |
 | [Winnipeg](geo:49.8843986,-97.1470413) | 52 | 138 | 27.37% |
 | [Woodstock](geo:43.1333947,-80.7497025) | 287 | 1,133 | 20.21% |
+| **Σ** | 21,866 | 85,715 | 20.33% |
 
 
 </details>
@@ -1994,6 +2020,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Tarrafal](geo:15.2833333,-23.7666664) | 0 | 6 | 0% |
 | [Vila da Ribeira Brava](geo:16.6166667,-24.2999992) | 0 | 3 | 0% |
 | [Vila do Maio](geo:15.1333333,-23.2166672) | 0 | 5 | 0% |
+| **Σ** | 0 | 59 | 0% |
 
 
 </details>
@@ -2009,6 +2036,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Dourbali](geo:11.8094444,15.8611107) | 0 | 0 | 0% |
 | [Massaguet](geo:12.4741667,15.4427776) | 0 | 0 | 0% |
 | [Mboursou Lere](geo:9.7666667,14.1499996) | 0 | 1 | 0% |
+| **Σ** | 0 | 1 | 0% |
 
 
 </details>
@@ -2121,6 +2149,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vina del Mar](geo:-33.0229137,-71.5525360) | 44 | 349 | 11.2% |
 | [Yumbel](geo:-37.0833333,-72.5666656) | 3 | 78 | 3.7% |
 | [vina causino](geo:-33.6166667,-70.5833359) | 49 | 382 | 11.37% |
+| **Σ** | 1,349 | 12,986 | 9.41% |
 
 
 </details>
@@ -2204,6 +2233,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zhenjiang](geo:32.2091667,119.4341660) | 0 | 8 | 0% |
 | [Zhuzhou](geo:27.8333333,113.1500015) | 1 | 3 | 25% |
 | [Zibo](geo:36.7905556,118.0633316) | 0 | 2 | 0% |
+| **Σ** | 150 | 3,664 | 3.93% |
 
 
 </details>
@@ -2310,6 +2340,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Yopal](geo:5.3394444,-72.3941650) | 0 | 18 | 0% |
 | [Yumbo](geo:3.5850000,-76.4958344) | 6 | 67 | 8.22% |
 | [Zipaquira](geo:5.0283333,-74.0058365) | 50 | 286 | 14.88% |
+| **Σ** | 1,027 | 7,283 | 12.36% |
 
 
 </details>
@@ -2420,6 +2451,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vouani](geo:-12.2441667,44.3744431) | 0 | 7 | 0% |
 | [Ziroudani](geo:-12.3325000,43.7775002) | 0 | 3 | 0% |
 | [Zivandani](geo:-11.6458333,43.2658348) | 0 | 2 | 0% |
+| **Σ** | 31 | 829 | 3.6% |
 
 
 </details>
@@ -2526,6 +2558,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Turrialba](geo:9.9000000,-83.6833344) | 14 | 174 | 7.45% |
 | [Upala](geo:10.9000000,-85.0333328) | 5 | 27 | 15.63% |
 | [Zarcero](geo:10.1833333,-84.4000015) | 15 | 176 | 7.85% |
+| **Σ** | 1,191 | 13,617 | 8.04% |
 
 
 </details>
@@ -2638,6 +2671,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zagreb - Centar](geo:45.8131276,15.9775333) | 97 | 1,166 | 7.68% |
 | [Zapresic](geo:45.8563889,15.8077774) | 100 | 1,259 | 7.36% |
 | [Zupanja](geo:45.0775000,18.6975002) | 19 | 342 | 5.26% |
+| **Σ** | 5,261 | 72,734 | 6.75% |
 
 
 </details>
@@ -2750,6 +2784,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vinales](geo:22.6163889,-83.7077789) | 0 | 16 | 0% |
 | [Yaguajay](geo:22.3272222,-79.2377777) | 2 | 41 | 4.65% |
 | [Yara](geo:20.2752778,-76.9533310) | 1 | 35 | 2.78% |
+| **Σ** | 238 | 6,950 | 3.31% |
 
 
 </details>
@@ -2862,6 +2897,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Yeri](geo:35.1000000,33.4166679) | 65 | 285 | 18.57% |
 | [Yiolou](geo:34.9166667,32.4666672) | 45 | 184 | 19.65% |
 | [Ypsonas](geo:34.6833333,32.9583321) | 59 | 240 | 19.73% |
+| **Σ** | 5,657 | 24,609 | 18.69% |
 
 
 </details>
@@ -2968,6 +3004,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zatec](geo:50.3271690,13.5457735) | 282 | 7,821 | 3.48% |
 | [Zlin](geo:49.2166667,17.6666660) | 179 | 4,699 | 3.67% |
 | [Znojmo](geo:48.8554987,16.0487976) | 244 | 7,694 | 3.07% |
+| **Σ** | 19,499 | 496,693 | 3.78% |
 
 
 </details>
@@ -3079,6 +3116,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Viborg](geo:56.4531891,9.4020119) | 265 | 2,534 | 9.47% |
 | [Vojens](geo:55.2500000,9.3166666) | 245 | 2,936 | 7.7% |
 | [Vordingborg](geo:55.0080051,11.9105692) | 650 | 4,036 | 13.87% |
+| **Σ** | 43,203 | 319,200 | 11.92% |
 
 
 </details>
@@ -3101,6 +3139,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Tadjoura](geo:11.7852778,42.8844452) | 1 | 13 | 7.14% |
 | [`Ali Sabieh](geo:11.1558333,42.7125015) | 1 | 13 | 7.14% |
 | [`Arta](geo:11.5222222,42.8419456) | 1 | 13 | 7.14% |
+| **Σ** | 9 | 124 | 6.77% |
 
 
 </details>
@@ -3213,6 +3252,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Yantzaza](geo:-3.8277778,-78.7594452) | 2 | 102 | 1.92% |
 | [Zamora](geo:-4.0691667,-78.9566650) | 4 | 103 | 3.74% |
 | [Zaruma](geo:-3.6833333,-79.6166687) | 4 | 144 | 2.7% |
+| **Σ** | 664 | 17,763 | 3.6% |
 
 
 </details>
@@ -3325,6 +3365,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Victoria](geo:13.9500000,-88.6333313) | 28 | 95 | 22.76% |
 | [Zacatecoluca](geo:13.5000000,-88.8666687) | 27 | 96 | 21.95% |
 | [Zaragoza](geo:13.5894444,-89.2888870) | 28 | 98 | 22.22% |
+| **Σ** | 2,304 | 7,997 | 22.37% |
 
 
 </details>
@@ -3354,6 +3395,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Rebola](geo:3.7166667,8.8333330) | 0 | 8 | 0% |
 | [Rio Campo](geo:2.3333333,9.8166666) | 1 | 2 | 33.33% |
 | [Santiago de Baney](geo:3.7000000,8.9166670) | 0 | 14 | 0% |
+| **Σ** | 9 | 41 | 18% |
 
 
 </details>
@@ -3371,6 +3413,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Dekemhare](geo:15.0700000,39.0475006) | 0 | 2 | 0% |
 | [Mendefera](geo:14.8872222,38.8152771) | 0 | 3 | 0% |
 | [Teseney](geo:15.1100000,36.6575012) | 0 | 1 | 0% |
+| **Σ** | 0 | 10 | 0% |
 
 
 </details>
@@ -3483,6 +3526,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vohma](geo:58.6283333,25.5483341) | 12 | 388 | 3% |
 | [Voka](geo:59.3997222,27.5816669) | 2 | 109 | 1.8% |
 | [Voru](geo:57.8338889,27.0194435) | 8 | 261 | 2.97% |
+| **Σ** | 7,299 | 85,110 | 7.9% |
 
 
 </details>
@@ -3567,6 +3611,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Werota](geo:11.9166667,37.7000008) | 0 | 12 | 0% |
 | [Yirga `Alem](geo:6.7500000,38.4166679) | 0 | 10 | 0% |
 | [Ziway](geo:7.9333333,38.7166672) | 0 | 7 | 0% |
+| **Σ** | 45 | 3,537 | 1.26% |
 
 
 </details>
@@ -3581,6 +3626,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | --- | --- | --- | --- |
 | [Nandi](geo:-17.8000000,177.4166718) | 0 | 3 | 0% |
 | [Suva](geo:-18.1333333,178.4166718) | 1 | 8 | 11.11% |
+| **Σ** | 1 | 11 | 8.33% |
 
 
 </details>
@@ -3693,6 +3739,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vihti](geo:60.4166667,24.3333340) | 433 | 3,536 | 10.91% |
 | [Ylivieska](geo:64.0833333,24.5499992) | 16 | 185 | 7.96% |
 | [Ylojarvi](geo:61.5500000,23.6000004) | 101 | 941 | 9.69% |
+| **Σ** | 13,967 | 123,516 | 10.16% |
 
 
 </details>
@@ -3804,6 +3851,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Versailles](geo:48.8000000,2.1333332) | 925 | 6,339 | 12.73% |
 | [Villeurbanne](geo:45.7666667,4.8833332) | 405 | 3,824 | 9.58% |
 | [Vitry-sur-Seine](geo:48.7833333,2.4000001) | 918 | 6,286 | 12.74% |
+| **Σ** | 41,894 | 330,983 | 11.24% |
 
 
 </details>
@@ -3824,6 +3872,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Ndende](geo:-2.3833333,11.3833332) | 0 | 1 | 0% |
 | [Ntoum](geo:0.3833333,9.7833328) | 0 | 7 | 0% |
 | [Tchibanga](geo:-2.8500000,11.0333328) | 0 | 1 | 0% |
+| **Σ** | 1 | 26 | 3.7% |
 
 
 </details>
@@ -3933,6 +3982,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Tuba-Wuli](geo:13.4333333,-14.2500000) | 0 | 2 | 0% |
 | [Wassu](geo:13.6833333,-14.8833332) | 0 | 3 | 0% |
 | [Wellingara Ba](geo:13.4166667,-15.3999996) | 0 | 1 | 0% |
+| **Σ** | 0 | 308 | 0% |
 
 
 </details>
@@ -4018,6 +4068,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zahesi](geo:41.8244444,44.7577782) | 19 | 276 | 6.44% |
 | [Zhinvali](geo:42.1158333,44.7675018) | 18 | 269 | 6.27% |
 | [Zugdidi](geo:42.5122222,41.8691673) | 5 | 119 | 4.03% |
+| **Σ** | 816 | 11,076 | 6.86% |
 
 
 </details>
@@ -4130,6 +4181,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Wuppertal](geo:51.2666667,7.1833334) | 522 | 16,831 | 3.01% |
 | [Wurzburg](geo:49.7877778,9.9361115) | 340 | 10,093 | 3.26% |
 | [Zwickau](geo:50.7333333,12.5000000) | 173 | 5,747 | 2.92% |
+| **Σ** | 41,240 | 1,148,349 | 3.47% |
 
 
 </details>
@@ -4208,6 +4260,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Wenchi](geo:7.7333333,-2.0999999) | 0 | 4 | 0% |
 | [Winneba](geo:5.3333333,-0.6166667) | 5 | 119 | 4.03% |
 | [Yendi](geo:9.4333333,-0.0166667) | 1 | 4 | 20% |
+| **Σ** | 127 | 3,204 | 3.81% |
 
 
 </details>
@@ -4318,6 +4371,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Voula](geo:37.8500000,23.7666664) | 110 | 752 | 12.76% |
 | [Vrilissia](geo:38.0338110,23.8296242) | 107 | 692 | 13.39% |
 | [Xanthi](geo:41.1413889,24.8836117) | 5 | 66 | 7.04% |
+| **Σ** | 7,010 | 43,762 | 13.81% |
 
 
 </details>
@@ -4335,6 +4389,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Hillsborough](geo:12.4833333,-61.4666672) | 0 | 4 | 0% |
 | [Sauteurs](geo:12.2166667,-61.6333351) | 0 | 4 | 0% |
 | [Victoria](geo:12.1902072,-61.7067719) | 0 | 3 | 0% |
+| **Σ** | 0 | 17 | 0% |
 
 
 </details>
@@ -4445,6 +4500,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Villa Canales](geo:14.4813889,-90.5316696) | 11 | 70 | 13.58% |
 | [Villa Nueva](geo:14.5269444,-90.5875015) | 11 | 78 | 12.36% |
 | [Zacapa](geo:14.9666667,-89.5333328) | 2 | 10 | 16.67% |
+| **Σ** | 833 | 6,537 | 11.3% |
 
 
 </details>
@@ -4467,6 +4523,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Rosignol](geo:6.2833333,-57.5333328) | 1 | 4 | 20% |
 | [Skeldon](geo:5.8833333,-57.1333351) | 0 | 5 | 0% |
 | [Vreed en Hoop](geo:6.8075000,-58.1869431) | 1 | 4 | 20% |
+| **Σ** | 9 | 41 | 18% |
 
 
 </details>
@@ -4579,6 +4636,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Torbeck](geo:18.1666667,-73.8119431) | 0 | 3 | 0% |
 | [Trou du Nord](geo:19.6333333,-72.0166702) | 2 | 9 | 18.18% |
 | [Verrettes](geo:19.0500000,-72.4666672) | 5 | 36 | 12.2% |
+| **Σ** | 237 | 1,718 | 12.12% |
 
 
 </details>
@@ -4688,6 +4746,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Villanueva](geo:15.3166667,-88.0000000) | 4 | 15 | 21.05% |
 | [Yoro](geo:15.1333333,-87.1333313) | 2 | 14 | 12.5% |
 | [Zambrano](geo:14.2666667,-87.4000015) | 1 | 16 | 5.88% |
+| **Σ** | 299 | 1,573 | 15.97% |
 
 
 </details>
@@ -4800,6 +4859,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vecses](geo:47.4000000,19.2833328) | 233 | 2,744 | 7.83% |
 | [Veszprem](geo:47.1000000,17.9166660) | 214 | 2,519 | 7.83% |
 | [Zalaegerszeg](geo:46.8400000,16.8438892) | 71 | 1,444 | 4.69% |
+| **Σ** | 14,081 | 192,338 | 6.82% |
 
 
 </details>
@@ -4885,6 +4945,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Torshofn](geo:66.2000000,-15.3333330) | 0 | 12 | 0% |
 | [Vogar](geo:63.9666667,-22.3666668) | 58 | 302 | 16.11% |
 | [Vopnafjordur](geo:65.7500000,-14.8333330) | 0 | 23 | 0% |
+| **Σ** | 1,385 | 8,456 | 14.07% |
 
 
 </details>
@@ -4996,6 +5057,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vijayawada](geo:16.5166667,80.6166687) | 8 | 74 | 9.76% |
 | [Vishakhapatnam](geo:17.7000000,83.3000031) | 5 | 30 | 14.29% |
 | [Warangal](geo:18.0000000,79.5833359) | 2 | 34 | 5.56% |
+| **Σ** | 1,234 | 10,722 | 10.32% |
 
 
 </details>
@@ -5106,6 +5168,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Ungaran](geo:-7.1397222,110.4049988) | 10 | 81 | 10.99% |
 | [Weru](geo:-6.7000000,108.5000000) | 5 | 17 | 22.73% |
 | [Yogyakarta](geo:-7.7827778,110.3608322) | 9 | 80 | 10.11% |
+| **Σ** | 1,266 | 7,214 | 14.93% |
 
 
 </details>
@@ -5215,6 +5278,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zabol](geo:31.0297222,61.4977760) | 0 | 1 | 0% |
 | [Zahedan](geo:29.4977778,60.8727760) | 0 | 2 | 0% |
 | [Zanjan](geo:36.6736000,48.4786987) | 0 | 17 | 0% |
+| **Σ** | 601 | 7,291 | 7.62% |
 
 
 </details>
@@ -5290,6 +5354,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [`Afak](geo:32.0625000,45.2427788) | 98 | 42 | 70% |
 | [`Ali al Gharbi](geo:32.4641667,46.6786118) | 42 | 8 | 84% |
 | [`Anah](geo:34.4666667,41.9308319) | 5 | 0 | 100% |
+| **Σ** | 6,479 | 5,057 | 56.16% |
 
 
 </details>
@@ -5402,6 +5467,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Tra Mhor](geo:52.1623500,-7.1524429) | 210 | 510 | 29.17% |
 | [Tuaim](geo:53.5166667,-8.8500004) | 191 | 363 | 34.48% |
 | [Tullamore](geo:53.2738889,-7.4888887) | 594 | 1,422 | 29.46% |
+| **Σ** | 37,705 | 88,629 | 29.85% |
 
 
 </details>
@@ -5513,6 +5579,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zefat](geo:32.9666667,35.4944458) | 76 | 612 | 11.05% |
 | [`Akko](geo:32.9236111,35.0727768) | 140 | 1,010 | 12.17% |
 | [`Uzeir](geo:32.7944444,35.3319435) | 148 | 1,105 | 11.81% |
+| **Σ** | 14,452 | 113,232 | 11.32% |
 
 
 </details>
@@ -5622,6 +5689,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Verona](geo:45.4341860,10.9977884) | 155 | 2,575 | 5.68% |
 | [Viareggio](geo:43.8735430,10.2557993) | 67 | 1,148 | 5.51% |
 | [Vicenza](geo:45.5572940,11.5408983) | 135 | 2,449 | 5.22% |
+| **Σ** | 8,700 | 154,110 | 5.34% |
 
 
 </details>
@@ -5715,6 +5783,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Wakefield](geo:18.4166667,-77.7166672) | 1 | 18 | 5.26% |
 | [Williamsfield](geo:18.0666667,-77.4666672) | 1 | 42 | 2.33% |
 | [Yallahs](geo:17.8666667,-76.5666656) | 1 | 34 | 2.86% |
+| **Σ** | 73 | 2,696 | 2.64% |
 
 
 </details>
@@ -5827,6 +5896,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Yokohama](geo:35.4500000,139.6499939) | 771 | 5,824 | 11.69% |
 | [Yokosuka](geo:35.2836111,139.6672211) | 765 | 5,760 | 11.72% |
 | [Yono](geo:35.8833333,139.6333313) | 769 | 5,805 | 11.7% |
+| **Σ** | 28,567 | 238,312 | 10.7% |
 
 
 </details>
@@ -5908,6 +5978,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [`Ayn Janna](geo:32.3333333,35.7666664) | 175 | 1,332 | 11.61% |
 | [`Ayy](geo:31.1333333,35.6408348) | 42 | 303 | 12.17% |
 | [`Izra](geo:31.1588889,35.6927795) | 42 | 298 | 12.35% |
+| **Σ** | 6,515 | 48,705 | 11.8% |
 
 
 </details>
@@ -6013,6 +6084,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zhetibay](geo:43.5941667,52.0788879) | 1 | 34 | 2.86% |
 | [Zhezqazghan](geo:47.7833333,67.7666702) | 0 | 8 | 0% |
 | [Zyryanovsk](geo:49.7386111,84.2719421) | 0 | 2 | 0% |
+| **Σ** | 85 | 4,426 | 1.88% |
 
 
 </details>
@@ -6114,6 +6186,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Wote](geo:-1.7833333,37.6333351) | 1 | 3 | 25% |
 | [Wundanyi](geo:-3.4000000,38.3666649) | 0 | 1 | 0% |
 | [Yala](geo:0.1000000,34.5333328) | 3 | 11 | 21.43% |
+| **Σ** | 244 | 1,371 | 15.11% |
 
 
 </details>
@@ -6208,6 +6281,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Yonil](geo:35.9941667,129.3450012) | 1 | 563 | 0.18% |
 | [Yonmu](geo:36.1294444,127.0999985) | 2 | 729 | 0.27% |
 | [Yosu](geo:34.7441667,127.7377777) | 3 | 654 | 0.46% |
+| **Σ** | 454 | 76,282 | 0.59% |
 
 
 </details>
@@ -6238,6 +6312,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Kuwait](geo:29.3697222,47.9783325) | 14 | 60 | 18.92% |
 | [Sabah as Salim](geo:29.2572222,48.0572205) | 13 | 58 | 18.31% |
 | [Salwa](geo:29.2958333,48.0786095) | 13 | 58 | 18.31% |
+| **Σ** | 232 | 1,046 | 18.15% |
 
 
 </details>
@@ -6350,6 +6425,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Viesite](geo:56.3500000,25.5499992) | 27 | 231 | 10.47% |
 | [Vilani](geo:56.5500000,26.9500008) | 6 | 96 | 5.88% |
 | [Zilupe](geo:56.3833333,28.1166668) | 2 | 55 | 3.51% |
+| **Σ** | 4,981 | 34,860 | 12.5% |
 
 
 </details>
@@ -6374,6 +6450,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Tripoli](geo:34.4366667,35.8497238) | 11 | 115 | 8.73% |
 | [Tyre](geo:33.2733333,35.1938896) | 65 | 517 | 11.17% |
 | [Zahle](geo:33.8497222,35.9041672) | 25 | 207 | 10.78% |
+| **Σ** | 374 | 3,236 | 10.36% |
 
 
 </details>
@@ -6391,6 +6468,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Monrovia](geo:6.3105556,-10.8047218) | 0 | 4 | 0% |
 | [Robertsport](geo:6.7533333,-11.3686113) | 0 | 3 | 0% |
 | [Tubmanburg](geo:6.8708333,-10.8172226) | 0 | 4 | 0% |
+| **Σ** | 0 | 19 | 0% |
 
 
 </details>
@@ -6434,6 +6512,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Yafran](geo:32.0630556,12.5269442) | 0 | 9 | 0% |
 | [Zaltan](geo:32.9500000,11.8666668) | 0 | 3 | 0% |
 | [Zuwarah](geo:32.9344444,12.0791664) | 0 | 15 | 0% |
+| **Σ** | 31 | 393 | 7.31% |
 
 
 </details>
@@ -6459,6 +6538,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Triesen](geo:47.1000000,9.5333328) | 599 | 9,994 | 5.65% |
 | [Triesenberg](geo:47.1181539,9.5419693) | 599 | 10,050 | 5.62% |
 | [Vaduz](geo:47.1415115,9.5215416) | 615 | 10,259 | 5.66% |
+| **Σ** | 7,923 | 133,157 | 5.62% |
 
 
 </details>
@@ -6571,6 +6651,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zarasai](geo:55.7333333,26.2500000) | 11 | 157 | 6.55% |
 | [Zemaiciu Naumiestis](geo:55.3591667,21.7022228) | 32 | 181 | 15.02% |
 | [Ziezmariai](geo:54.8000000,24.4500008) | 149 | 777 | 16.09% |
+| **Σ** | 8,555 | 49,645 | 14.7% |
 
 
 </details>
@@ -6683,6 +6764,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Warken](geo:49.8544444,6.0949998) | 184 | 3,405 | 5.13% |
 | [Wasserbillig](geo:49.7100000,6.5002780) | 162 | 3,423 | 4.52% |
 | [Wiltz](geo:49.9688889,5.9319444) | 245 | 4,296 | 5.4% |
+| **Σ** | 18,542 | 296,138 | 5.89% |
 
 
 </details>
@@ -6794,6 +6876,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zhelino](geo:41.9802778,21.0641670) | 30 | 256 | 10.49% |
 | [Zletovo](geo:41.9886111,22.2361107) | 9 | 155 | 5.49% |
 | [Zrnovci](geo:41.8541667,22.4444447) | 8 | 130 | 5.8% |
+| **Σ** | 3,375 | 23,163 | 12.72% |
 
 
 </details>
@@ -6871,6 +6954,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vavatenina](geo:-17.4666667,49.2000008) | 0 | 8 | 0% |
 | [Vohibinany](geo:-17.3500000,49.0333328) | 0 | 9 | 0% |
 | [Vondrozo](geo:-22.8166667,47.2833328) | 0 | 1 | 0% |
+| **Σ** | 13 | 848 | 1.51% |
 
 
 </details>
@@ -6913,6 +6997,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Salima](geo:-13.7833333,34.4333344) | 0 | 18 | 0% |
 | [Thyolo](geo:-16.0666667,35.1333351) | 0 | 8 | 0% |
 | [Zomba](geo:-15.3833333,35.3333321) | 0 | 9 | 0% |
+| **Σ** | 0 | 231 | 0% |
 
 
 </details>
@@ -7024,6 +7109,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Ulu Tiram](geo:1.6000000,103.8166656) | 212 | 914 | 18.83% |
 | [Victoria](geo:5.2766667,115.2416687) | 7 | 38 | 15.56% |
 | [Yong Peng](geo:2.0166667,103.0666656) | 24 | 56 | 30% |
+| **Σ** | 6,410 | 22,033 | 22.54% |
 
 
 </details>
@@ -7052,6 +7138,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Nolhivaranfaru](geo:6.7017755,73.1184769) | 0 | 2 | 0% |
 | [Thinadhoo](geo:0.5333333,72.9333344) | 0 | 0 | 0% |
 | [Ugoofaaru](geo:5.6666667,73.0000000) | 0 | 10 | 0% |
+| **Σ** | 14 | 158 | 8.14% |
 
 
 </details>
@@ -7071,6 +7158,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Kayes Ndi](geo:14.4666667,-11.4333334) | 0 | 1 | 0% |
 | [Kolokani](geo:13.5833333,-8.0333328) | 0 | 2 | 0% |
 | [Koulikoro](geo:12.8661111,-7.5605555) | 0 | 15 | 0% |
+| **Σ** | 0 | 65 | 0% |
 
 
 </details>
@@ -7085,6 +7173,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | --- | --- | --- | --- |
 | [Ine](geo:6.9833333,171.6999969) | 0 | 1 | 0% |
 | [Majuro](geo:7.1000000,171.3833313) | 0 | 1 | 0% |
+| **Σ** | 0 | 2 | 0% |
 
 
 </details>
@@ -7098,6 +7187,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | City | CloudFlare | Non-Cloudflare | CF % |
 | --- | --- | --- | --- |
 | [Nouakchott](geo:18.1194444,-16.0405560) | 2 | 3 | 40% |
+| **Σ** | 2 | 3 | 40% |
 
 
 </details>
@@ -7203,6 +7293,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Triolet](geo:-20.0547222,57.5452766) | 4 | 43 | 8.51% |
 | [Vacoas](geo:-20.2980556,57.4783325) | 4 | 43 | 8.51% |
 | [Verdun](geo:-20.2283333,57.5438881) | 4 | 43 | 8.51% |
+| **Σ** | 372 | 3,999 | 8.51% |
 
 
 </details>
@@ -7315,6 +7406,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zacatecas](geo:22.7755880,-102.5721817) | 0 | 1 | 0% |
 | [Zamora de Hidalgo](geo:19.9833333,-102.2666702) | 2 | 53 | 3.64% |
 | [Zapopan](geo:20.7166667,-103.4000015) | 13 | 191 | 6.37% |
+| **Σ** | 1,768 | 15,402 | 10.3% |
 
 
 </details>
@@ -7330,6 +7422,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Kolonia](geo:6.9638889,158.2083282) | 0 | 1 | 0% |
 | [Nan Uh](geo:6.9502778,158.2711182) | 0 | 1 | 0% |
 | [Palikir](geo:6.9166667,158.1499939) | 0 | 1 | 0% |
+| **Σ** | 0 | 3 | 0% |
 
 
 </details>
@@ -7402,6 +7495,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vatra](geo:47.0738889,28.7350006) | 74 | 968 | 7.1% |
 | [Visniovca](geo:46.3333333,28.4494438) | 64 | 638 | 9.12% |
 | [Vulcanesti](geo:45.6841667,28.4027786) | 14 | 156 | 8.24% |
+| **Σ** | 3,774 | 40,992 | 8.43% |
 
 
 </details>
@@ -7423,6 +7517,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Suhbaatar](geo:50.2313889,106.2077789) | 0 | 1 | 0% |
 | [Tsetserleg](geo:47.4750000,101.4541702) | 0 | 1 | 0% |
 | [Ulaanbaatar](geo:47.9166667,106.9166641) | 31 | 200 | 13.42% |
+| **Σ** | 62 | 414 | 13.03% |
 
 
 </details>
@@ -7505,6 +7600,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zagora](geo:30.3100000,-5.8299999) | 0 | 3 | 0% |
 | [Zaio](geo:34.9300000,-2.7300000) | 1 | 24 | 4% |
 | [mohammed boulaich el habate ksar sghir](geo:35.7000000,-5.6999998) | 29 | 165 | 14.95% |
+| **Σ** | 292 | 2,354 | 11.04% |
 
 
 </details>
@@ -7526,6 +7622,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Matola](geo:-25.9622222,32.4588890) | 1 | 14 | 6.67% |
 | [Maxixe](geo:-23.8597222,35.3472214) | 0 | 4 | 0% |
 | [Pemba](geo:-12.9608333,40.5077782) | 0 | 0 | 0% |
+| **Σ** | 5 | 40 | 11.11% |
 
 
 </details>
@@ -7598,6 +7695,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Wakema](geo:16.6000000,95.1833344) | 2 | 5 | 28.57% |
 | [Yamethin](geo:20.4333333,96.1500015) | 2 | 26 | 7.14% |
 | [Yenangyaung](geo:20.4666667,94.8833313) | 3 | 19 | 13.64% |
+| **Σ** | 605 | 2,460 | 19.74% |
 
 
 </details>
@@ -7648,6 +7746,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Tikapur](geo:28.5000000,81.1333313) | 5 | 15 | 25% |
 | [Tulsipur](geo:28.1333333,82.3000031) | 9 | 35 | 20.45% |
 | [Waling](geo:27.9833333,83.7666702) | 24 | 133 | 15.29% |
+| **Σ** | 646 | 4,079 | 13.67% |
 
 
 </details>
@@ -7758,6 +7857,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zutphen](geo:52.1383330,6.2013888) | 1,154 | 15,171 | 7.07% |
 | [Zwijndrecht](geo:51.8175000,4.6333332) | 1,658 | 17,054 | 8.86% |
 | [Zwolle](geo:52.5125000,6.0944438) | 1,089 | 11,944 | 8.36% |
+| **Σ** | 125,285 | 1,428,266 | 8.06% |
 
 
 </details>
@@ -7870,6 +7970,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Whitianga](geo:-36.8333333,175.6999969) | 102 | 456 | 18.28% |
 | [Winton](geo:-46.1500000,168.3333282) | 4 | 57 | 6.56% |
 | [Woodend](geo:-43.3166667,172.6666718) | 53 | 261 | 16.88% |
+| **Σ** | 3,702 | 17,051 | 17.84% |
 
 
 </details>
@@ -7980,6 +8081,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Villa Sandino](geo:12.0500000,-84.9833298) | 2 | 11 | 15.38% |
 | [Waslala](geo:13.2333333,-85.3833313) | 0 | 17 | 0% |
 | [Wiwili](geo:13.6166667,-85.8333359) | 0 | 17 | 0% |
+| **Σ** | 569 | 5,183 | 9.89% |
 
 
 </details>
@@ -8058,6 +8160,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Uromi](geo:6.7000000,6.3333335) | 0 | 4 | 0% |
 | [Warri](geo:5.5166667,5.7500000) | 0 | 5 | 0% |
 | [Yola](geo:9.2000000,12.4833336) | 0 | 1 | 0% |
+| **Σ** | 16 | 437 | 3.53% |
 
 
 </details>
@@ -8084,6 +8187,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Tahoua](geo:14.8902778,5.2677779) | 1 | 0 | 100% |
 | [Tchin-Tabaradene](geo:15.8869444,5.7766666) | 0 | 1 | 0% |
 | [Zinder](geo:13.8000000,8.9833336) | 0 | 1 | 0% |
+| **Σ** | 4 | 34 | 10.53% |
 
 
 </details>
@@ -8128,6 +8232,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Sungjibaegam](geo:41.2427778,128.7988892) | 0 | 1 | 0% |
 | [Ungsang-nodongjagu](geo:42.3577778,130.4622192) | 0 | 1 | 0% |
 | [Yonan-up](geo:37.9088889,126.1611099) | 11 | 1,028 | 1.06% |
+| **Σ** | 23 | 2,522 | 0.9% |
 
 
 </details>
@@ -8163,6 +8268,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Sur](geo:22.5666667,59.5288887) | 1 | 1 | 50% |
 | [Yanqul](geo:23.5855556,56.5408325) | 0 | 8 | 0% |
 | [`Ibri](geo:23.2257298,56.5157204) | 0 | 4 | 0% |
+| **Σ** | 17 | 384 | 4.24% |
 
 
 </details>
@@ -8271,6 +8377,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Turbat](geo:26.0027778,63.0505562) | 0 | 1 | 0% |
 | [Vihari](geo:30.0333333,72.3499985) | 3 | 6 | 33.33% |
 | [Wazirabad](geo:32.4500000,74.1166687) | 5 | 26 | 16.13% |
+| **Σ** | 360 | 2,289 | 13.59% |
 
 
 </details>
@@ -8294,6 +8401,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Oikull](geo:7.3655556,134.5836182) | 0 | 8 | 0% |
 | [Ollei](geo:7.7172222,134.6122284) | 0 | 8 | 0% |
 | [Ulimang](geo:7.6216667,134.6388855) | 0 | 8 | 0% |
+| **Σ** | 0 | 88 | 0% |
 
 
 </details>
@@ -8402,6 +8510,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vista Alegre](geo:8.9333333,-79.6999969) | 10 | 41 | 19.61% |
 | [Vista Hermosa](geo:8.5333333,-80.3666687) | 2 | 10 | 16.67% |
 | [Volcan](geo:8.7666667,-82.6333313) | 5 | 22 | 18.52% |
+| **Σ** | 563 | 2,462 | 18.61% |
 
 
 </details>
@@ -8427,6 +8536,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Port Moresby](geo:-9.4647222,147.1925049) | 1 | 3 | 25% |
 | [Vanimo](geo:-2.6833333,141.3000031) | 1 | 2 | 33.33% |
 | [Wau](geo:-7.3333333,146.7166595) | 2 | 2 | 50% |
+| **Σ** | 12 | 24 | 33.33% |
 
 
 </details>
@@ -8537,6 +8647,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Ygatimi](geo:-24.0833333,-55.5000000) | 0 | 1 | 0% |
 | [Ypacarai](geo:-25.3833333,-57.2666664) | 5 | 150 | 3.23% |
 | [Yuty](geo:-26.6000000,-56.2500000) | 8 | 101 | 7.34% |
+| **Σ** | 421 | 9,645 | 4.18% |
 
 
 </details>
@@ -8648,6 +8759,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Yurimaguas](geo:-5.9000000,-76.0833359) | 2 | 4 | 33.33% |
 | [Zana](geo:-6.9222222,-79.5841675) | 1 | 8 | 11.11% |
 | [Zarumilla](geo:-3.5030556,-80.2730560) | 1 | 52 | 1.89% |
+| **Σ** | 514 | 4,637 | 9.98% |
 
 
 </details>
@@ -8759,6 +8871,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Valencia](geo:7.9063889,125.0941696) | 3 | 23 | 11.54% |
 | [Victorias City](geo:10.9000000,123.0777740) | 5 | 33 | 13.16% |
 | [Zamboanga](geo:6.9102778,122.0738907) | 0 | 3 | 0% |
+| **Σ** | 5,377 | 26,049 | 17.11% |
 
 
 </details>
@@ -8871,6 +8984,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zgierz](geo:51.8500000,19.4166660) | 47 | 1,109 | 4.07% |
 | [Zielona Gora](geo:51.9333333,15.5000000) | 69 | 1,039 | 6.23% |
 | [Zory](geo:50.0500000,18.7000008) | 232 | 4,719 | 4.69% |
+| **Σ** | 14,988 | 253,484 | 5.58% |
 
 
 </details>
@@ -8982,6 +9096,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vila do Conde](geo:41.3500000,-8.7500000) | 105 | 1,088 | 8.8% |
 | [Vilar de Andorinho](geo:41.1000000,-8.5666666) | 96 | 1,159 | 7.65% |
 | [Viseu](geo:40.6500000,-7.9166665) | 93 | 1,108 | 7.74% |
+| **Σ** | 10,006 | 124,242 | 7.45% |
 
 
 </details>
@@ -9007,6 +9122,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Fuwayrit](geo:26.0216667,51.3669434) | 25 | 102 | 19.69% |
 | [Umm Bab](geo:25.2141667,50.8072205) | 10 | 66 | 13.16% |
 | [Umm Salal Muhammad](geo:25.4169444,51.4038887) | 10 | 66 | 13.16% |
+| **Σ** | 189 | 1,001 | 15.88% |
 
 
 </details>
@@ -9117,6 +9233,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Voluntari](geo:44.4666667,26.1333332) | 69 | 659 | 9.48% |
 | [Vulcan](geo:45.3833333,23.2666664) | 10 | 119 | 7.75% |
 | [Zalau](geo:47.2000000,23.0499992) | 27 | 333 | 7.5% |
+| **Σ** | 2,858 | 30,828 | 8.48% |
 
 
 </details>
@@ -9212,6 +9329,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Yoshkar-Ola](geo:56.6387667,47.8907776) | 17 | 302 | 5.33% |
 | [Zelenograd](geo:55.9825000,37.1813889) | 398 | 4,101 | 8.85% |
 | [Zlatoust](geo:55.1711111,59.6508331) | 1 | 140 | 0.71% |
+| **Σ** | 2,048 | 29,242 | 6.55% |
 
 
 </details>
@@ -9232,6 +9350,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Kingstown](geo:13.1333333,-61.2166672) | 1 | 5 | 16.67% |
 | [Kingstown Park](geo:13.1583333,-61.2350006) | 2 | 6 | 25% |
 | [Port Elizabeth](geo:13.0166667,-61.2333336) | 1 | 5 | 16.67% |
+| **Σ** | 24 | 63 | 27.59% |
 
 
 </details>
@@ -9334,6 +9453,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vaiusu](geo:-13.8166667,-171.7666626) | 2 | 1 | 66.67% |
 | [Vaovai](geo:-14.0166667,-171.6499939) | 2 | 1 | 66.67% |
 | [Vavau](geo:-14.0166667,-171.4833374) | 3 | 1 | 75% |
+| **Σ** | 177 | 89 | 66.54% |
 
 
 </details>
@@ -9347,6 +9467,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | City | CloudFlare | Non-Cloudflare | CF % |
 | --- | --- | --- | --- |
 | [Sao Tome](geo:0.3333333,6.7333331) | 0 | 1 | 0% |
+| **Σ** | 0 | 1 | 0% |
 
 
 </details>
@@ -9395,6 +9516,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Velingara](geo:13.1500000,-14.1166668) | 0 | 2 | 0% |
 | [Warang](geo:14.3734946,-16.9436646) | 2 | 95 | 2.06% |
 | [Ziguinchor](geo:12.5833333,-16.2719440) | 0 | 2 | 0% |
+| **Σ** | 24 | 1,223 | 1.92% |
 
 
 </details>
@@ -9408,6 +9530,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | City | CloudFlare | Non-Cloudflare | CF % |
 | --- | --- | --- | --- |
 | [Victoria](geo:-4.6166667,55.4500008) | 1 | 15 | 6.25% |
+| **Σ** | 1 | 15 | 6.25% |
 
 
 </details>
@@ -9520,6 +9643,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zelezniki](geo:46.2333333,14.1666670) | 97 | 1,648 | 5.56% |
 | [Ziri](geo:46.0422222,14.1072226) | 105 | 1,679 | 5.89% |
 | [Zrece](geo:46.3822222,15.3791666) | 185 | 2,911 | 5.98% |
+| **Σ** | 12,866 | 207,130 | 5.85% |
 
 
 </details>
@@ -9535,6 +9659,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Gizo](geo:-8.1000000,156.8500061) | 0 | 1 | 0% |
 | [Honiara](geo:-9.4333333,159.9499969) | 0 | 1 | 0% |
 | [Tulaghi](geo:-9.1000000,160.1499939) | 0 | 1 | 0% |
+| **Σ** | 0 | 3 | 0% |
 
 
 </details>
@@ -9558,6 +9683,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Qandala](geo:11.4711111,49.8738899) | 0 | 1 | 0% |
 | [Qoryooley](geo:1.7833333,44.5333328) | 0 | 2 | 0% |
 | [Wanlaweyn](geo:2.6166667,44.9000015) | 0 | 2 | 0% |
+| **Σ** | 1 | 23 | 4.17% |
 
 
 </details>
@@ -9668,6 +9794,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Worcester](geo:-33.6500000,19.4333324) | 41 | 219 | 15.77% |
 | [eMbalenhle](geo:-26.5333333,29.0666676) | 3 | 7 | 30% |
 | [eSikhawini](geo:-28.8833333,31.8999996) | 0 | 12 | 0% |
+| **Σ** | 1,320 | 7,361 | 15.21% |
 
 
 </details>
@@ -9777,6 +9904,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vitoria-Gasteiz](geo:42.8500000,-2.6666667) | 320 | 1,033 | 23.65% |
 | [Zamora](geo:41.5000000,-5.7500000) | 86 | 613 | 12.3% |
 | [Zaragoza](geo:41.6560643,-0.8773398) | 41 | 748 | 5.2% |
+| **Σ** | 32,925 | 155,166 | 17.5% |
 
 
 </details>
@@ -9850,6 +9978,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Wattegama](geo:6.8000000,81.5000000) | 1 | 5 | 16.67% |
 | [Weligama](geo:5.9666667,80.4166641) | 2 | 47 | 4.08% |
 | [Welisara](geo:7.0333333,79.9000015) | 12 | 109 | 9.92% |
+| **Σ** | 515 | 5,197 | 9.02% |
 
 
 </details>
@@ -9878,6 +10007,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Wad Madani](geo:14.4000000,33.5333328) | 1 | 0 | 100% |
 | [Wad Rawah](geo:15.1602778,33.1397209) | 3 | 8 | 27.27% |
 | [Yei](geo:4.0913889,30.6786118) | 0 | 3 | 0% |
+| **Σ** | 16 | 43 | 27.12% |
 
 
 </details>
@@ -9902,6 +10032,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Paramaribo](geo:5.8333333,-55.1666679) | 1 | 14 | 6.67% |
 | [Totness](geo:5.8833333,-56.3166656) | 0 | 2 | 0% |
 | [Wageningen](geo:5.7666667,-56.6833344) | 0 | 4 | 0% |
+| **Σ** | 8 | 135 | 5.59% |
 
 
 </details>
@@ -9934,6 +10065,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Sidvokodvo](geo:-26.6166667,31.4500008) | 0 | 4 | 0% |
 | [Siteki](geo:-26.4500000,31.9500008) | 1 | 18 | 5.26% |
 | [Tshaneni](geo:-25.9833333,31.7166672) | 1 | 20 | 4.76% |
+| **Σ** | 3 | 128 | 2.29% |
 
 
 </details>
@@ -10046,6 +10178,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vasterhaninge](geo:59.1166667,18.1000004) | 286 | 2,402 | 10.64% |
 | [Visby](geo:57.6408932,18.2960243) | 0 | 53 | 0% |
 | [Ystad](geo:55.4296588,13.8204145) | 556 | 3,233 | 14.67% |
+| **Σ** | 16,801 | 135,565 | 11.03% |
 
 
 </details>
@@ -10157,6 +10290,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zuerich (Kreis 9) / Altstetten](geo:47.3894555,8.4853287) | 1,317 | 15,006 | 8.07% |
 | [Zug](geo:47.1666667,8.5166664) | 1,304 | 13,858 | 8.6% |
 | [Zurich](geo:47.3666667,8.5500002) | 1,266 | 14,720 | 7.92% |
+| **Σ** | 98,354 | 1,115,027 | 8.11% |
 
 
 </details>
@@ -10244,6 +10378,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Yabrud](geo:33.9666667,36.6666679) | 6 | 78 | 7.14% |
 | [`Afrin](geo:36.5166667,36.8666649) | 3 | 70 | 4.11% |
 | [`Irbin](geo:33.5333333,36.3666649) | 29 | 219 | 11.69% |
+| **Σ** | 817 | 7,091 | 10.33% |
 
 
 </details>
@@ -10317,6 +10452,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Varzob](geo:38.7758333,68.8308334) | 0 | 37 | 0% |
 | [Vorukh](geo:39.8533333,70.5769424) | 0 | 19 | 0% |
 | [Yovan](geo:38.3130556,69.0430527) | 0 | 41 | 0% |
+| **Σ** | 50 | 3,046 | 1.61% |
 
 
 </details>
@@ -10385,6 +10521,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vwawa](geo:-9.1166667,32.9333344) | 0 | 2 | 0% |
 | [Wete](geo:-5.0666667,39.7166672) | 0 | 8 | 0% |
 | [Zanzibar](geo:-6.1639369,39.1979332) | 5 | 57 | 8.06% |
+| **Σ** | 38 | 547 | 6.5% |
 
 
 </details>
@@ -10497,6 +10634,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Wichian Buri](geo:15.6588889,101.1125031) | 1 | 8 | 11.11% |
 | [Yala](geo:6.5427778,101.2836075) | 1 | 11 | 8.33% |
 | [Yaring](geo:6.8616667,101.3649979) | 2 | 15 | 11.76% |
+| **Σ** | 8,182 | 26,192 | 23.8% |
 
 
 </details>
@@ -10530,6 +10668,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Tchamba](geo:9.0333333,1.4166667) | 0 | 1 | 0% |
 | [Tsevie](geo:6.4261111,1.2133332) | 0 | 30 | 0% |
 | [Vogan](geo:6.3333333,1.5333333) | 1 | 32 | 3.03% |
+| **Σ** | 2 | 211 | 0.94% |
 
 
 </details>
@@ -10547,6 +10686,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Nuku`alofa](geo:-21.1333333,-175.1999969) | 0 | 1 | 0% |
 | [Vaini](geo:-21.2000000,-175.1999969) | 0 | 1 | 0% |
 | [`Ohonua](geo:-21.3333333,-174.9499969) | 0 | 1 | 0% |
+| **Σ** | 0 | 5 | 0% |
 
 
 </details>
@@ -10659,6 +10799,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zarzis](geo:33.5000000,11.1166668) | 0 | 1 | 0% |
 | [Zawiyat al Jadidi](geo:36.6500000,10.5833330) | 6 | 91 | 6.19% |
 | [Zouila](geo:35.5005556,11.0605555) | 0 | 23 | 0% |
+| **Σ** | 243 | 3,867 | 5.91% |
 
 
 </details>
@@ -10770,6 +10911,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Viransehir](geo:37.2352778,39.7630539) | 1 | 35 | 2.78% |
 | [Yozgat](geo:39.8200000,34.8044434) | 2 | 14 | 12.5% |
 | [Zonguldak](geo:41.4555556,31.7897224) | 3 | 54 | 5.26% |
+| **Σ** | 1,051 | 10,469 | 9.12% |
 
 
 </details>
@@ -10833,6 +10975,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Sembabule](geo:-0.0772222,31.4566669) | 1 | 11 | 8.33% |
 | [Wakiso](geo:0.4044444,32.4594460) | 37 | 242 | 13.26% |
 | [Wobulenzi](geo:0.7283333,32.5122223) | 37 | 243 | 13.21% |
+| **Σ** | 732 | 4,764 | 13.32% |
 
 
 </details>
@@ -10894,6 +11037,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Zaporizhzhya](geo:47.8166667,35.1833344) | 34 | 211 | 13.88% |
 | [Zhovti Vody](geo:48.3436111,33.5077782) | 98 | 299 | 24.69% |
 | [Zhytomyr](geo:50.2500000,28.6666660) | 37 | 178 | 17.21% |
+| **Σ** | 3,450 | 15,780 | 17.94% |
 
 
 </details>
@@ -11005,6 +11149,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Worcester](geo:52.1893517,-2.2200108) | 550 | 1,998 | 21.59% |
 | [Worthing](geo:50.8114669,-0.3716469) | 1,492 | 5,003 | 22.97% |
 | [York](geo:53.9666667,-1.0833333) | 317 | 1,401 | 18.45% |
+| **Σ** | 75,848 | 271,514 | 21.84% |
 
 
 </details>
@@ -11117,6 +11262,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Washington](geo:38.8951118,-77.0363693) | 1,130 | 2,534 | 30.84% |
 | [West Raleigh](geo:35.7868182,-78.6638947) | 185 | 536 | 25.66% |
 | [Wichita](geo:37.6922361,-97.3375473) | 24 | 82 | 22.64% |
+| **Σ** | 34,602 | 96,211 | 26.45% |
 
 
 </details>
@@ -11219,6 +11365,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vergara](geo:-32.9333333,-53.9500008) | 0 | 10 | 0% |
 | [Vichadero](geo:-31.8000000,-54.7166672) | 0 | 2 | 0% |
 | [Young](geo:-32.6833333,-57.6333351) | 2 | 15 | 11.76% |
+| **Σ** | 932 | 17,054 | 5.18% |
 
 
 </details>
@@ -11232,6 +11379,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | City | CloudFlare | Non-Cloudflare | CF % |
 | --- | --- | --- | --- |
 | [Vatican City State](geo:41.9022,12.4572) | 101 | 1,668 | 5.71% |
+| **Σ** | 101 | 1,668 | 5.71% |
 
 
 </details>
@@ -11324,6 +11472,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Villa Bruzual](geo:9.3327778,-69.1208344) | 1 | 9 | 10% |
 | [Villa de Cura](geo:10.0333333,-67.4833298) | 138 | 1,651 | 7.71% |
 | [Yaritagua](geo:10.0800000,-69.1261139) | 1 | 11 | 8.33% |
+| **Σ** | 3,926 | 47,054 | 7.7% |
 
 
 </details>
@@ -11396,6 +11545,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Vung Tau](geo:10.3500000,107.0666656) | 40 | 188 | 17.54% |
 | [Yen Bai](geo:21.7000000,104.8666687) | 1 | 1 | 50% |
 | [Yen Vinh](geo:18.6666667,105.6666641) | 1 | 4 | 20% |
+| **Σ** | 821 | 5,721 | 12.55% |
 
 
 </details>
@@ -11424,6 +11574,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Yarim](geo:14.2972222,44.3802795) | 0 | 14 | 0% |
 | [Zabid](geo:14.1950000,43.3152771) | 0 | 10 | 0% |
 | [`Adan](geo:12.7794444,45.0366669) | 1 | 20 | 4.76% |
+| **Σ** | 10 | 312 | 3.11% |
 
 
 </details>
@@ -11459,6 +11610,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Nakonde](geo:-9.3333333,32.7666664) | 0 | 2 | 0% |
 | [Ndola](geo:-12.9666667,28.6333332) | 0 | 2 | 0% |
 | [Solwezi](geo:-12.1833333,26.3999996) | 0 | 1 | 0% |
+| **Σ** | 4 | 94 | 4.08% |
 
 
 </details>
@@ -11517,6 +11669,7 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | [Shurugwi](geo:-19.6666667,30.0000000) | 0 | 2 | 0% |
 | [Victoria Falls](geo:-17.9333333,25.8333340) | 0 | 3 | 0% |
 | [Zvishavane District](geo:-20.2500000,30.0833340) | 0 | 1 | 0% |
+| **Σ** | 30 | 378 | 7.35% |
 
 
 </details>
@@ -12552,3 +12705,5 @@ Here is a list of places (100 km radius from city center) which are listed in Op
 | İş bankası atm | 0 | 90 | 0% |
 | Ογκολογικό Ιατρείο | 0 | 47 | 0% |
 | شهر مشاغل کودک | 0 | 5 | 0% |
+| **Σ** | 1,050,092 | 10,453,200 | 9.13% |
+
