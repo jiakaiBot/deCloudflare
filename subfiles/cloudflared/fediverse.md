@@ -9994,7 +9994,7 @@ Here's a list of public Fediverse services.
 | mastodon.pe | No |
 | mastodon.pet | No |
 | mastodon.photography | No |
-| mastodon.pl | No |
+| mastodon.pl | Yes |
 | mastodon.poker | No |
 | mastodon.press | No |
 | mastodon.pro | Yes |
@@ -19001,8 +19001,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,592 |
-| Normal | 15,366 |
+| Cloudflare | 3,593 |
+| Normal | 15,365 |
 
 
-### 18.9% of public Fediverse services are using Cloudflare.
+### 19% of public Fediverse services are using Cloudflare.
