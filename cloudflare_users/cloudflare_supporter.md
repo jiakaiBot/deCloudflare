@@ -1391,6 +1391,7 @@ Do not create new issue or we will close it as duplicate.
 | [Conheo93476222@twitter](https://twitter.com/Conheo93476222/status/1400096830415798274) | advertise |
 | [ConnectTimeOut@twitter](https://twitter.com/ConnectTimeOut/status/1512081926605062156) | advertise |
 | [ConnersHua@twitter](https://twitter.com/ConnersHua/status/1503371931466174465) | advertise |
+| [connordoesdev@twitter](https://twitter.com/connordoesdev/status/1531927162042953728) | advertise |
 | [Conquera99@twitter](https://twitter.com/Conquera99/status/1391184679240273923) | advertise |
 | [consultingby_b@twitter](https://twitter.com/consultingby_b/status/1382897455247851520) | advertise |
 | [conter_86@twitter](https://twitter.com/conter_86/status/1488218108754108420) | advertise |
@@ -2032,6 +2033,7 @@ Do not create new issue or we will close it as duplicate.
 | [fening12@twitter](https://twitter.com/fening12/status/1402708446680535042) | advertise |
 | [FenySoft@twitter](https://twitter.com/FenySoft/status/1453328924063240196) | advertise |
 | [Ferona44304373@twitter](https://twitter.com/Ferona44304373/status/1394530832367370240) | advertise |
+| [FeyisaraFashina@twitter](https://twitter.com/FeyisaraFashina/status/1531939614470152193) | advertise |
 | [ffoochai@twitter](https://twitter.com/ffoochai/status/1376085361219096576) | advertise |
 | [fFqiA9FWfwFWC05@twitter](https://twitter.com/fFqiA9FWfwFWC05/status/1404315971750227969) | advertise |
 | [FgdWings@twitter](https://twitter.com/FgdWings/status/1384199323253035010) | advertise |
@@ -4955,6 +4957,7 @@ Do not create new issue or we will close it as duplicate.
 | [NAABIL49027157@twitter](https://twitter.com/NAABIL49027157/status/1387326620009074692) | advertise |
 | [naamloser@twitter](https://twitter.com/naamloser/status/1503867812963569666) | advertise |
 | [nadi_saint@twitter](https://twitter.com/nadi_saint/status/1396088469584105476) | advertise |
+| [NafisMuzafar@twitter](https://twitter.com/NafisMuzafar/status/1531926492334022656) | advertise |
 | [Nage58788383@twitter](https://twitter.com/Nage58788383/status/1378017876100096005) | advertise |
 | [Nage9940790406@twitter](https://twitter.com/Nage9940790406/status/1496502930286993410) | advertise |
 | [Nagusame_2@twitter](https://twitter.com/Nagusame_2/status/1404261140360691712) | advertise |
