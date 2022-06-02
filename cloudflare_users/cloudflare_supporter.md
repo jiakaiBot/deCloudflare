@@ -3781,6 +3781,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kunn82617248@twitter](https://twitter.com/Kunn82617248/status/1399757357467406339) | advertise |
 | [KuppjL@twitter](https://twitter.com/KuppjL/status/1383683527871328263) | advertise |
 | [kuraKoy05814776@twitter](https://twitter.com/kuraKoy05814776/status/1398928410819317761) | advertise |
+| [kuraz@twitter](https://twitter.com/kuraz/status/1532354386483380224) | advertise |
 | [Kurda_tiktok@twitter](https://twitter.com/Kurda_tiktok/status/1502053221560430593) | advertise |
 | [kurniawanisme@twitter](https://twitter.com/kurniawanisme/status/1386629050039345152) | advertise |
 | [Kushagr17800138@twitter](https://twitter.com/Kushagr17800138/status/1380192960269197324) | advertise |
@@ -3903,6 +3904,7 @@ Do not create new issue or we will close it as duplicate.
 | [KyuKyu24893176@twitter](https://twitter.com/KyuKyu24893176/status/1396055932291862532) | advertise |
 | [KyuThin16@twitter](https://twitter.com/KyuThin16/status/1391667230966906883) | advertise |
 | [Kzzxx2@twitter](https://twitter.com/Kzzxx2/status/1396512309795688451) | advertise |
+| [k_sophos@twitter](https://twitter.com/k_sophos/status/1532337285387239425) | advertise |
 | [L0Sekly@twitter](https://twitter.com/L0Sekly/status/1404786602367340548) | advertise |
 | [L3h3trDwkpgDolm@twitter](https://twitter.com/L3h3trDwkpgDolm/status/1392118903644430347) | advertise |
 | [L29kZkGeFkfoZZH@twitter](https://twitter.com/L29kZkGeFkfoZZH/status/1389853508170518532) | advertise |
