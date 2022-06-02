@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Return a more informative error message when API times out](https://github.com/reservoirprotocol/indexer/issues/798)
 - [Cloudflare R2 Object Storage support](https://github.com/juicedata/juicefs/issues/2155)
 - [Step go get failure](https://github.com/rlynic/filebeat-output-clickhouse/issues/3)
 - [Replacing 1 with 0](https://github.com/axios/axios/issues/4762)
