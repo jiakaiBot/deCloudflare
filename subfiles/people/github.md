@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't log in to admin on Chrome & Safari - possible CloudFlare cookie issue?](https://github.com/medusajs/admin/issues/596)
+- [The Cloudflare Tunnel Route fail to be created during boot time](https://github.com/timoa/terraform-oci-vscode-server/issues/14)
 - [Return a more informative error message when API times out](https://github.com/reservoirprotocol/indexer/issues/798)
 - [Cloudflare R2 Object Storage support](https://github.com/juicedata/juicefs/issues/2155)
 - [Step go get failure](https://github.com/rlynic/filebeat-output-clickhouse/issues/3)
