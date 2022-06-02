@@ -7772,6 +7772,7 @@ Do not create new issue or we will close it as duplicate.
 | [VinNc9@twitter](https://twitter.com/VinNc9/status/1386295089752809472) | advertise |
 | [Vinoth23510941@twitter](https://twitter.com/Vinoth23510941/status/1404749738747088897) | advertise |
 | [VirgilShelton@twitter](https://twitter.com/VirgilShelton/status/1409998073040756738) | moral (advertise) |
+| [virtualtwit@twitter](https://twitter.com/virtualtwit/status/1532222794020581376) | advertise |
 | [Virus49868336@twitter](https://twitter.com/Virus49868336/status/1394191569666723840) | advertise |
 | [VishalB67584671@twitter](https://twitter.com/VishalB67584671/status/1398920445437505542) | advertise |
 | [vishalnyk21@twitter](https://twitter.com/vishalnyk21/status/1404097712178352134) | advertise |
