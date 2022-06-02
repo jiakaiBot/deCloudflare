@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,524 |
 | net | 1,461 |
-| social | 1,106 |
+| social | 1,107 |
 | org | 1,040 |
 | de | 914 |
 
@@ -14010,6 +14010,7 @@ Here's a list of public Fediverse services.
 | redstrings.club | No |
 | redterrorcollective.net | No |
 | redvoice.news | No |
+| redwave.social | No |
 | redwombat.social | Yes |
 | redxen.eu | No |
 | reece.sx | Yes |
@@ -19015,7 +19016,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,603 |
-| Normal | 15,368 |
+| Normal | 15,369 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
