@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,524 |
+| com | 2,525 |
 | net | 1,461 |
-| social | 1,107 |
-| org | 1,040 |
-| de | 914 |
+| social | 1,109 |
+| org | 1,041 |
+| de | 915 |
 
 
 - Mastodon, Pleroma, etc
@@ -2781,6 +2781,7 @@ Here's a list of public Fediverse services.
 | clerks.me | No |
 | clic2000.net | No |
 | click.ba.it | No |
+| climatejustice.events | No |
 | climatejustice.global | No |
 | climatejustice.rocks | No |
 | climatejustice.social | No |
@@ -2920,6 +2921,7 @@ Here's a list of public Fediverse services.
 | cogentleman.com | No |
 | cogito.io | Yes |
 | cogitoergofem.me | Yes |
+| cognitheurge.com | No |
 | cognize.co | No |
 | coinchan.com | No |
 | coisas.dev.br | No |
@@ -4430,6 +4432,7 @@ Here's a list of public Fediverse services.
 | ehret.me | No |
 | ei8fdb.org | No |
 | eibriel.com | No |
+| eichler-bg.de | No |
 | eick.com | Yes |
 | eicker.news | No |
 | eideo.de | No |
@@ -6016,6 +6019,7 @@ Here's a list of public Fediverse services.
 | ghoul.one | No |
 | giammi.org | No |
 | giant.horse | No |
+| gibbens.dev | Yes |
 | gibberfish.org | No |
 | gibble.be | No |
 | gibiris.org | No |
@@ -13018,6 +13022,7 @@ Here's a list of public Fediverse services.
 | piraten-partei.social | No |
 | piraten.space | No |
 | piratenpartei.koeln | No |
+| piratenpartei.social | No |
 | pirateparty.be | No |
 | pirateradio.social | Yes |
 | pirati.ca | No |
@@ -14284,6 +14289,7 @@ Here's a list of public Fediverse services.
 | romaricpascal.com | No |
 | romeorose.xyz | Yes |
 | romlinch.ovh | No |
+| rompe.org | No |
 | ronbronson.com | No |
 | rondoalive.xyz | Yes |
 | rongyi.io | Yes |
@@ -16256,6 +16262,7 @@ Here's a list of public Fediverse services.
 | tec.wtf | No |
 | tecce.club | No |
 | tech-den.xyz | No |
+| tech-savvy.social | No |
 | tech.lgbt | No |
 | techandbeer.social | No |
 | techbio.eu | No |
@@ -16684,6 +16691,7 @@ Here's a list of public Fediverse services.
 | tiggi.es | No |
 | tigvarts.com | No |
 | tigwali.fr | No |
+| tii.space | No |
 | tikeesy.com | No |
 | tikki.cloud | No |
 | tiksi.net | No |
@@ -19015,8 +19023,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,603 |
-| Normal | 15,369 |
+| Cloudflare | 3,604 |
+| Normal | 15,376 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
