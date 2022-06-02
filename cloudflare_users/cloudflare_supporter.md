@@ -1612,6 +1612,7 @@ Do not create new issue or we will close it as duplicate.
 | [deepkolan@twitter](https://twitter.com/deepkolan/status/1402145948864638978) | advertise |
 | [DeerwindNlh@twitter](https://twitter.com/DeerwindNlh/status/1378232168657326080) | advertise |
 | [DefAbandonware@twitter](https://twitter.com/DefAbandonware/status/1418440485081784320) | advertise |
+| [DefPratik@twitter](https://twitter.com/DefPratik/status/1532445074973663232) | advertise |
 | [DegenPilled@twitter](https://twitter.com/DegenPilled/status/1442737756753514497) | advertise |
 | [DelsinPistons@twitter](https://twitter.com/DelsinPistons/status/1420937477930487808) | advertise |
 | [DelucioJoseph@twitter](https://twitter.com/DelucioJoseph/status/1393744512422498304) | advertise |
@@ -3579,8 +3580,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
