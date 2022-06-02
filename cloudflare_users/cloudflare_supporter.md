@@ -5391,6 +5391,7 @@ Do not create new issue or we will close it as duplicate.
 | [NsauPricilla@twitter](https://twitter.com/NsauPricilla/status/1394617886178566144) | advertise |
 | [nsktar@twitter](https://twitter.com/nsktar/status/1502997750501281799) | advertise |
 | [NTHngGm2@twitter](https://twitter.com/NTHngGm2/status/1384163405053927432) | advertise |
+| [NtlCreditMaster@twitter](https://twitter.com/NtlCreditMaster/status/1532374954095923201) | advertise |
 | [ntnclts@twitter](https://twitter.com/ntnclts/status/1386041672128090112) | advertise |
 | [ntsdzz10@twitter](https://twitter.com/ntsdzz10/status/1486551336678088704) | advertise |
 | [NTTin0937341938@twitter](https://twitter.com/NTTin0937341938/status/1384567050543063040) | advertise |
