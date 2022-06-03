@@ -1548,6 +1548,7 @@ Or is this merely a case of simple modesty?
 | Sophie Qiu | Customer Success Manager, Singapore |  |
 | Sophie Yao | Employee |  |
 | Soraya Apollonia Jansen | London |  |
+| Sourov Zaman | Employee | |
 | Spencer Schwandt | Account Executive |  |
 | Sreeni Tellakula | Employee |  |
 | Srikanth N. Rao | Systems Reliability Engineer |  |
@@ -1694,6 +1695,7 @@ Or is this merely a case of simple modesty?
 | Ulysses Kee | Employee | |
 | Usman Muzaffar | VP of Engineering |  |
 | Uzma Ali | Business Development |  |
+| Vaibhav Singhal | Employee | |
 | Vaishnavi Iyengar | Employee |  |
 | Valentine Décamps | Customer Success Manager |  |
 | Valerie Sung | Employee |  |
