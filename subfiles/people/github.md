@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issues handling 404 errors as of 2.9.4](https://github.com/Dar9586/NClientV2/issues/466)
 - [Can't log in to admin on Chrome & Safari - possible CloudFlare cookie issue?](https://github.com/medusajs/admin/issues/596)
 - [The Cloudflare Tunnel Route fail to be created during boot time](https://github.com/timoa/terraform-oci-vscode-server/issues/14)
 - [Return a more informative error message when API times out](https://github.com/reservoirprotocol/indexer/issues/798)
