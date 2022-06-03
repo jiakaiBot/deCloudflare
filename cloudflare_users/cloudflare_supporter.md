@@ -117,6 +117,7 @@ Do not create new issue or we will close it as duplicate.
 | [1991_myat@twitter](https://twitter.com/1991_myat/status/1398253735621578757) | advertise |
 | [1997Gugulay@twitter](https://twitter.com/1997Gugulay/status/1393752001888980996) | advertise |
 | [2002Pls@twitter](https://twitter.com/2002Pls/status/1388923120765919237) | advertise |
+| [5050Tbc@twitter](https://twitter.com/5050Tbc/status/1532708767481090052) | advertise |
 | [8991Alien@twitter](https://twitter.com/8991Alien/status/1390781458797584384) | advertise |
 | [137743@twitter](https://twitter.com/137743/status/1393045054239830025) | advertise |
 | [280552f43478454@twitter](https://twitter.com/280552f43478454/status/1399573181753696256) | advertise |
@@ -1082,6 +1083,7 @@ Do not create new issue or we will close it as duplicate.
 | [Boi14458711@twitter](https://twitter.com/Boi14458711/status/1396739999421304833) | advertise |
 | [Boi77155763@twitter](https://twitter.com/Boi77155763/status/1386913551630041089) | advertise |
 | [Boii24845922@twitter](https://twitter.com/Boii24845922/status/1379438604460552203) | advertise |
+| [Boitrue20@twitter](https://twitter.com/Boitrue20/status/1532752860089286657) | advertise |
 | [boi_meet@twitter](https://twitter.com/boi_meet/status/1516557146820857862) | advertise |
 | [Bok3yB@twitter](https://twitter.com/Bok3yB/status/1396380216612704258) | advertise |
 | [Bok37537531@twitter](https://twitter.com/Bok37537531/status/1393028293297721347) | advertise |
