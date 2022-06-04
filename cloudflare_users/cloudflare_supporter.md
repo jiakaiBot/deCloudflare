@@ -5758,6 +5758,7 @@ Do not create new issue or we will close it as duplicate.
 | [Phoopwintoo12@twitter](https://twitter.com/Phoopwintoo12/status/1392148944772210690) | advertise |
 | [photu98@twitter](https://twitter.com/photu98/status/1479103551590711296) | advertise |
 | [PhPhm40874331@twitter](https://twitter.com/PhPhm40874331/status/1402964200163463173) | advertise |
+| [PhQucTrn3@twitter](https://twitter.com/PhQucTrn3/status/1532955806747852800) | advertise |
 | [phrabhakar@twitter](https://twitter.com/phrabhakar/status/1377811272100540417) | advertise |
 | [Pht78396152@twitter](https://twitter.com/Pht78396152/status/1399739776769556491) | advertise |
 | [PhThnhDanh1@twitter](https://twitter.com/PhThnhDanh1/status/1397954119759847432) | advertise |
