@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,527 |
+| com | 2,528 |
 | net | 1,463 |
 | social | 1,109 |
 | org | 1,044 |
@@ -2987,6 +2987,7 @@ Here's a list of public Fediverse services.
 | communisteslibertaires.org | No |
 | community-patriots.social | Yes |
 | comomo.biz | Yes |
+| comopiensodigo.com | No |
 | compas.news | No |
 | compassion.online | Yes |
 | complete.org | No |
@@ -3304,6 +3305,7 @@ Here's a list of public Fediverse services.
 | cuscuz.in | Yes |
 | cuse.social | No |
 | cusocial.club | No |
+| custodianship.club | No |
 | customvisualdesigns.com | No |
 | customvisualdesigns.comsocial | No |
 | cute.group | No |
@@ -13991,6 +13993,7 @@ Here's a list of public Fediverse services.
 | rebels.rest | No |
 | rebeltoot.com | No |
 | rebeltube.de | No |
+| rebootcyber.xyz | No |
 | rebooted.cc | No |
 | rebtoor.com | Yes |
 | recharge.fm | No |
@@ -19036,7 +19039,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,608 |
-| Normal | 15,384 |
+| Normal | 15,387 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
