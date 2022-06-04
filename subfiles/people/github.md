@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Increase UDP Receive Buffer Size](https://github.com/home-assistant/operating-system/issues/1964)
 - [Invalid JSON - Cloudflare blocking plugin?](https://github.com/fchat-pidgin/fchat-pidgin/issues/192)
 - [I'm using Sveltekit - working perfectly in Netlify but not in CloudFlare Pages](https://github.com/ospfranco/link-preview-js/issues/116)
 - [DGA4132: AGTHP_1.0.3: Extension Installation failed, here LuCI](https://github.com/Ansuel/tch-nginx-gui/issues/1142)
