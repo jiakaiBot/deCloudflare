@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,525 |
-| net | 1,461 |
+| com | 2,527 |
+| net | 1,463 |
 | social | 1,109 |
-| org | 1,041 |
-| de | 915 |
+| org | 1,044 |
+| de | 916 |
 
 
 - Mastodon, Pleroma, etc
@@ -183,7 +183,7 @@ Here's a list of public Fediverse services.
 | 338338.xyz | Yes |
 | 33chan.xyz | No |
 | 346production.jp | No |
-| 39.gy | No |
+| 39.gy | Yes |
 | 39sounds.net | No |
 | 3cat.icu | No |
 | 3cmr.fr | No |
@@ -1138,6 +1138,7 @@ Here's a list of public Fediverse services.
 | asie.pl | No |
 | asimon.org | No |
 | askan.info | No |
+| askk.cc | Yes |
 | asko.blog | No |
 | asko.dev | No |
 | asmodeus.co | No |
@@ -2162,6 +2163,7 @@ Here's a list of public Fediverse services.
 | brunisholz.fr | No |
 | bruno-tatu.com | No |
 | brutsellog.nl | No |
+| brzozow.xyz | No |
 | bs10081.com | Yes |
 | bsb.jp | No |
 | bsc.ovh | No |
@@ -3552,6 +3554,7 @@ Here's a list of public Fediverse services.
 | das-kreative.de | No |
 | das-vergessene-land.de | No |
 | dasasozialenetzwerk.de | Yes |
+| dasbrennen.org | No |
 | dasgelobteland.art | Yes |
 | dashten.dev | No |
 | dashtube.org | No |
@@ -3996,6 +3999,7 @@ Here's a list of public Fediverse services.
 | dizman.org | No |
 | djan-gicquel.fr | No |
 | djanzu.tokyo | No |
+| djiko.net | No |
 | djitter.com | No |
 | djs.social | No |
 | djsumdog.com | No |
@@ -4111,6 +4115,7 @@ Here's a list of public Fediverse services.
 | dotmiku.com | No |
 | dotopia.dk | No |
 | dotopiacph.org | No |
+| dotorg.org | No |
 | dotsod.com | Yes |
 | dotstar.plus | No |
 | dou.bet | No |
@@ -8263,6 +8268,7 @@ Here's a list of public Fediverse services.
 | kevinianbryan.social | No |
 | kevinisageek.org | No |
 | kevinr.fr | No |
+| kevinthomaseagan.com | No |
 | kevq.uk | No |
 | kevread.fr | No |
 | keybird.net | No |
@@ -8724,6 +8730,7 @@ Here's a list of public Fediverse services.
 | lagob.fr | No |
 | lagoonisfun.com | No |
 | lagrottedelours.ovh | No |
+| lagy.org | No |
 | lahfa.fr | No |
 | lahfa.xyz | No |
 | lahijiapps.dev | No |
@@ -9674,6 +9681,7 @@ Here's a list of public Fediverse services.
 | makai.xyz | No |
 | makamaka.me | No |
 | makerdon.org | No |
+| makerforums.info | No |
 | makerz.social | No |
 | makesocialboops.com | No |
 | makestuff.club | No |
@@ -10626,6 +10634,7 @@ Here's a list of public Fediverse services.
 | misskey.art | No |
 | misskey.at | No |
 | misskey.cf | No |
+| misskey.cloud | Yes |
 | misskey.de | No |
 | misskey.design | Yes |
 | misskey.dev | Yes |
@@ -11783,6 +11792,7 @@ Here's a list of public Fediverse services.
 | noctrl.tk | No |
 | nocturlab.fr | No |
 | node.pk | Yes |
+| node001.net | No |
 | node9.org | No |
 | nodevops.com | No |
 | nodocomun.org | No |
@@ -13244,7 +13254,7 @@ Here's a list of public Fediverse services.
 | poetry.garden | No |
 | pofilo.fr | No |
 | pogchamp.xyz | No |
-| pogge.rs | No |
+| pogge.rs | Yes |
 | poggers.lgbt | Yes |
 | poggersinc.com | Yes |
 | point.community | Yes |
@@ -13585,6 +13595,7 @@ Here's a list of public Fediverse services.
 | pulledbits.org | No |
 | pullopen.xyz | Yes |
 | pumba.space | Yes |
+| pumpitbetter.com | No |
 | punchdrunker.org | No |
 | puni.moe | No |
 | punkchords.com | No |
@@ -14268,6 +14279,7 @@ Here's a list of public Fediverse services.
 | rodriguez.paris | No |
 | roeckoe.be | No |
 | roelroscamabbing.nl | No |
+| roerch.de | No |
 | roflcopter.fr | No |
 | roguelabs.tech | No |
 | rohr.org | No |
@@ -19023,8 +19035,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,604 |
-| Normal | 15,376 |
+| Cloudflare | 3,608 |
+| Normal | 15,384 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
