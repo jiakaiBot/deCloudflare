@@ -2896,6 +2896,7 @@ Do not create new issue or we will close it as duplicate.
 | [ilanhesapcom@twitter](https://twitter.com/ilanhesapcom/status/1485037748864131074) | advertise |
 | [iLngg0111@twitter](https://twitter.com/iLngg0111/status/1379110919066644480) | advertise |
 | [iLxlo_@twitter](https://twitter.com/iLxlo_/status/1517757375641440256) | advertise |
+| [im4noone@twitter](https://twitter.com/im4noone/status/1532995716196765696) | advertise |
 | [ImanBabazadeh@twitter](https://twitter.com/ImanBabazadeh/status/1388441784775286784) | advertise |
 | [Imanmirakhorli@twitter](https://twitter.com/Imanmirakhorli/status/1409632904510984201) | moral (advertise) |
 | [imduyhoang@twitter](https://twitter.com/imduyhoang/status/1503398392902582275) | advertise |
@@ -3236,6 +3237,7 @@ Do not create new issue or we will close it as duplicate.
 | [JoshKaley@twitter](https://twitter.com/JoshKaley/status/1400892198606938113) | advertise |
 | [Joshua30jmk@twitter](https://twitter.com/Joshua30jmk/status/1378385202347655170) | advertise |
 | [Joshua36202734@twitter](https://twitter.com/Joshua36202734/status/1388884857653137415) | advertise |
+| [josuamarcelc@twitter](https://twitter.com/josuamarcelc/status/1532977015942709248) | advertise |
 | [JowVmk@twitter](https://twitter.com/JowVmk/status/1500962137484763142) | advertise |
 | [Joyson46833628@twitter](https://twitter.com/Joyson46833628/status/1497231427569872900) | advertise |
 | [JpMatuto@twitter](https://twitter.com/JpMatuto/status/1388240079810973699) | advertise |
