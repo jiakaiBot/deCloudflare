@@ -2588,6 +2588,7 @@ Do not create new issue or we will close it as duplicate.
 | [HoangPhongPham@twitter](https://twitter.com/HoangPhongPham/status/1401924450812010496) | advertise |
 | [HoangPz@twitter](https://twitter.com/HoangPz/status/1486178532715687936) | advertise |
 | [HoangTu16363707@twitter](https://twitter.com/HoangTu16363707/status/1401776708282306560) | advertise |
+| [Hoangtuan2k6@twitter](https://twitter.com/Hoangtuan2k6/status/1533103251155218432) | advertise |
 | [hoangvyne@twitter](https://twitter.com/hoangvyne/status/1398588025840357383) | advertise |
 | [hoang_cong97@twitter](https://twitter.com/hoang_cong97/status/1404311923965841414) | advertise |
 | [hoang_van_tan@twitter](https://twitter.com/hoang_van_tan/status/1435097973856235528) | advertise |
@@ -4550,6 +4551,7 @@ Do not create new issue or we will close it as duplicate.
 | [Milk01644073@twitter](https://twitter.com/Milk01644073/status/1401221745932070915) | advertise |
 | [Milk89702035@twitter](https://twitter.com/Milk89702035/status/1388356971800064001) | advertise |
 | [milk_malted@twitter](https://twitter.com/milk_malted/status/1390916527013040130) | advertise |
+| [milomilo22222@twitter](https://twitter.com/milomilo22222/status/1533100068957753346) | advertise |
 | [Milon71388043@twitter](https://twitter.com/Milon71388043/status/1529911403145965568) | advertise |
 | [miltonD63111423@twitter](https://twitter.com/miltonD63111423/status/1385195789354369024) | advertise |
 | [milwdaslwni@twitter](https://twitter.com/milwdaslwni/status/1382945486441742337) | advertise |
