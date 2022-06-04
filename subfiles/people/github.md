@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Invalid JSON - Cloudflare blocking plugin?](https://github.com/fchat-pidgin/fchat-pidgin/issues/192)
 - [I'm using Sveltekit - working perfectly in Netlify but not in CloudFlare Pages](https://github.com/ospfranco/link-preview-js/issues/116)
 - [DGA4132: AGTHP_1.0.3: Extension Installation failed, here LuCI](https://github.com/Ansuel/tch-nginx-gui/issues/1142)
 - [Issues handling 404 errors as of 2.9.4](https://github.com/Dar9586/NClientV2/issues/466)
