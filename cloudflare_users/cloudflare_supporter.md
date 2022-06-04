@@ -2213,6 +2213,7 @@ Do not create new issue or we will close it as duplicate.
 | [GnaneswarM2@twitter](https://twitter.com/GnaneswarM2/status/1387579999209725956) | advertise |
 | [GnaneswarNaidu3@twitter](https://twitter.com/GnaneswarNaidu3/status/1397087799518449669) | advertise |
 | [gndpwnd@twitter](https://twitter.com/gndpwnd/status/1483332664933249026) | advertise |
+| [GNkulikiyinka@twitter](https://twitter.com/GNkulikiyinka/status/1532895411723292674) | advertise |
 | [go4webdev@twitter](https://twitter.com/go4webdev/status/1435122836037849095) | advertise |
 | [Gocome4@twitter](https://twitter.com/Gocome4/status/1383405538411614214) | advertise |
 | [godet_fr3akz@twitter](https://twitter.com/godet_fr3akz/status/1435927245130846214) | advertise |
