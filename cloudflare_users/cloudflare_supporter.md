@@ -3595,8 +3595,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5839,6 +5839,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pitokk2@twitter](https://twitter.com/Pitokk2/status/1386209860484669442) | advertise |
 | [Pixel_CC@twitter](https://twitter.com/Pixel_CC/status/1388533567962058755) | advertise |
 | [Piyushj190@twitter](https://twitter.com/Piyushj190/status/1486487129437851656) | advertise |
+| [Pi_MineNetwork@twitter](https://twitter.com/Pi_MineNetwork/status/1533138566607360003) | advertise |
 | [PJelodar@twitter](https://twitter.com/PJelodar/status/1514000992555077632) | advertise |
 | [PJi80623432@twitter](https://twitter.com/PJi80623432/status/1388863005861965827) | advertise |
 | [PkG04210203@twitter](https://twitter.com/PkG04210203/status/1378927538693541891) | advertise |
@@ -6372,6 +6373,7 @@ Do not create new issue or we will close it as duplicate.
 | [SaiWaiKyaw2@twitter](https://twitter.com/SaiWaiKyaw2/status/1394310063037190147) | advertise |
 | [SaiWaiY29658739@twitter](https://twitter.com/SaiWaiY29658739/status/1396484201050906629) | advertise |
 | [SaiWunn44556066@twitter](https://twitter.com/SaiWunn44556066/status/1394579547975151617) | advertise |
+| [SaiYanN67587097@twitter](https://twitter.com/SaiYanN67587097/status/1533120502646337536) | advertise |
 | [sai_lu57@twitter](https://twitter.com/sai_lu57/status/1392941626402643969) | advertise |
 | [sai_zeya@twitter](https://twitter.com/sai_zeya/status/1390399367006277632) | advertise |
 | [sajademaalik@twitter](https://twitter.com/sajademaalik/status/1391848383174770689) | advertise |
