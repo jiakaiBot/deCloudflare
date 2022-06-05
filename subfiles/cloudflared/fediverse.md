@@ -11128,6 +11128,7 @@ Here's a list of public Fediverse services.
 | murmf.art | No |
 | murmur.red | No |
 | murraystreet.media | No |
+| musain.cafe | Yes |
 | muses.gallery | Yes |
 | museum.town | No |
 | mushland.xyz | No |
@@ -19050,7 +19051,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,616 |
+| Cloudflare | 3,617 |
 | Normal | 15,391 |
 
 
