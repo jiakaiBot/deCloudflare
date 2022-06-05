@@ -2857,6 +2857,7 @@ Do not create new issue or we will close it as duplicate.
 | [iamrchivn@twitter](https://twitter.com/iamrchivn/status/1398608880762908672) | advertise |
 | [iamsammysd@twitter](https://twitter.com/iamsammysd/status/1531972077925851136) | advertise |
 | [IamShams16@twitter](https://twitter.com/IamShams16/status/1493845525514309637) | advertise |
+| [iam_bigzak@twitter](https://twitter.com/iam_bigzak/status/1533481514423533568) | advertise |
 | [Iam_Shelby07@twitter](https://twitter.com/Iam_Shelby07/status/1397996796887044096) | advertise |
 | [iam_souvkdey@twitter](https://twitter.com/iam_souvkdey/status/1389676257105747970) | advertise |
 | [iam_takagi2@twitter](https://twitter.com/iam_takagi2/status/1429834806557245443) | advertise |
