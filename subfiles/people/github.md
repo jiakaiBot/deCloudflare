@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [More than three embedded WAV files (Audio Blocks) breaks Gutenberg](https://github.com/WordPress/gutenberg/issues/41552)
 - [Increase UDP Receive Buffer Size](https://github.com/home-assistant/operating-system/issues/1964)
 - [Invalid JSON - Cloudflare blocking plugin?](https://github.com/fchat-pidgin/fchat-pidgin/issues/192)
 - [I'm using Sveltekit - working perfectly in Netlify but not in CloudFlare Pages](https://github.com/ospfranco/link-preview-js/issues/116)
