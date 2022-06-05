@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,531 |
-| net | 1,464 |
+| net | 1,465 |
 | social | 1,110 |
 | org | 1,044 |
 | de | 916 |
@@ -786,6 +786,7 @@ Here's a list of public Fediverse services.
 | amosamos.net | No |
 | amplifi.casa | No |
 | amplifie.red | No |
+| amplifyukraine.eu | No |
 | amsterdon.nl | No |
 | amum.al | Yes |
 | amumal.party | No |
@@ -8709,6 +8710,7 @@ Here's a list of public Fediverse services.
 | la-verite-vaincra.com | No |
 | la-web-radio.eu | Yes |
 | la1.jp | No |
+| la10cy.net | No |
 | lab.am | No |
 | lab61.org | No |
 | lablus.com | No |
@@ -19052,7 +19054,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,617 |
-| Normal | 15,391 |
+| Normal | 15,393 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
