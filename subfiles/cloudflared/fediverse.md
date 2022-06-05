@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,528 |
-| net | 1,463 |
-| social | 1,109 |
+| com | 2,531 |
+| net | 1,464 |
+| social | 1,110 |
 | org | 1,044 |
 | de | 916 |
 
@@ -451,6 +451,7 @@ Here's a list of public Fediverse services.
 | adamclaxon.com | No |
 | adamprocter.co.uk | No |
 | adamshouse.io | No |
+| adamtbradley.net | No |
 | adapulawska.org | Yes |
 | adb.sh | No |
 | addajones.com | No |
@@ -1336,6 +1337,7 @@ Here's a list of public Fediverse services.
 | azarakko.net | No |
 | azbulutlu.org | No |
 | azfedi.social | No |
+| azimuth.place | Yes |
 | azkware.net | No |
 | azuki.cf | No |
 | azumarill.net | No |
@@ -2173,6 +2175,7 @@ Here's a list of public Fediverse services.
 | bsdnode.xyz | No |
 | bsmhome.de | No |
 | bsmserverone.net | No |
+| bsnsense.xyz | No |
 | bsrealm.net | No |
 | bstly.de | No |
 | btc.gdn | No |
@@ -2587,6 +2590,7 @@ Here's a list of public Fediverse services.
 | chattr.pub | No |
 | chatu.app | No |
 | chaturbatefriendfinder.com | No |
+| chaunchy.com | No |
 | chaurocks.com | Yes |
 | chb.xyz | No |
 | chbmeyer.de | No |
@@ -2955,7 +2959,7 @@ Here's a list of public Fediverse services.
 | colorfur.com | No |
 | colorid.es | Yes |
 | colson.re | No |
-| com.de | No |
+| com.de | Yes |
 | comam.es | No |
 | combiner.team | No |
 | comf.blog | No |
@@ -3137,7 +3141,7 @@ Here's a list of public Fediverse services.
 | crakila.moe | No |
 | crandol.com | No |
 | crap.today | No |
-| crapaud-fou.org | No |
+| crapaud-fou.org | Yes |
 | crashspace.org | No |
 | crashtodon.net | No |
 | crates.im | No |
@@ -3588,6 +3592,7 @@ Here's a list of public Fediverse services.
 | dav.li | No |
 | dave.moe | No |
 | davewinter.info | No |
+| davidanaxagoras.com | No |
 | davidbankshome.co.uk | No |
 | davidgarywood.com | No |
 | davidlane.io | Yes |
@@ -7507,7 +7512,7 @@ Here's a list of public Fediverse services.
 | irenala.edu.mg | No |
 | irgendlink.de | No |
 | irgendwiejuedisch.com | No |
-| irgendwo.co | No |
+| irgendwo.co | Yes |
 | irgendwo.social | No |
 | iriseden.eu | No |
 | irishstew.org | No |
@@ -7706,6 +7711,7 @@ Here's a list of public Fediverse services.
 | jar.land | No |
 | jascha.wtf | No |
 | jase.social | No |
+| jaseroque.com | Yes |
 | jasforce.com | No |
 | jasmine.lgbt | No |
 | jason.re | Yes |
@@ -8342,7 +8348,7 @@ Here's a list of public Fediverse services.
 | kink.family | No |
 | kink.social | Yes |
 | kink.town | Yes |
-| kinks.wtf | No |
+| kinks.wtf | Yes |
 | kinktroet.social | No |
 | kinky.business | Yes |
 | kinkyelephant.com | No |
@@ -8470,7 +8476,7 @@ Here's a list of public Fediverse services.
 | kochidon.com | No |
 | kockatoo.org | No |
 | kocko.org | No |
-| kodachrome.club | Yes |
+| kodachrome.club | No |
 | kodcast.com | No |
 | kode54.net | Yes |
 | koder-marin.at | No |
@@ -9399,7 +9405,7 @@ Here's a list of public Fediverse services.
 | loudstoffarm.de | No |
 | louis-c-novel.com | Yes |
 | louis.software | Yes |
-| louiscap.io | No |
+| louiscap.io | Yes |
 | louisematic.site | No |
 | louisoft01.moe | No |
 | louiz.org | No |
@@ -9411,6 +9417,7 @@ Here's a list of public Fediverse services.
 | loutre.info | No |
 | louzao.network | Yes |
 | loveforlandlords.com | No |
+| loveisgrief.tk | No |
 | loveisover.me | No |
 | lovelacec.org | No |
 | lovelinus.club | No |
@@ -9554,7 +9561,7 @@ Here's a list of public Fediverse services.
 | lynnesbian.space | No |
 | lynoxus.com | No |
 | lynxie.net | No |
-| lynxpebbles.me | Yes |
+| lynxpebbles.me | No |
 | lyo.social | No |
 | lyoko.social | No |
 | lyokotech.com | No |
@@ -10759,6 +10766,7 @@ Here's a list of public Fediverse services.
 | moeism.me | No |
 | moeller.email | No |
 | moeplebs.online | No |
+| moessingen.social | No |
 | moew.science | Yes |
 | moewa.social | No |
 | mofgao.space | No |
@@ -13610,6 +13618,7 @@ Here's a list of public Fediverse services.
 | puppy.place | No |
 | pups.social | Yes |
 | pupsparkle.nl | Yes |
+| pupu.moe | No |
 | pure-isp.eu | Yes |
 | purelove.icu | No |
 | purexo.mom | No |
@@ -14793,7 +14802,7 @@ Here's a list of public Fediverse services.
 | se1.eu | No |
 | sea-moon.net | No |
 | seacow.social | No |
-| seafish.io | No |
+| seafish.io | Yes |
 | seaflowers.xyz | No |
 | seahorse.sh | No |
 | sealeo.social | No |
@@ -15312,6 +15321,7 @@ Here's a list of public Fediverse services.
 | snakenode.eu | No |
 | snap.as | No |
 | snap.photo | No |
+| snap.st | Yes |
 | snarfed.org | No |
 | snargol.com | No |
 | snarl.de | No |
@@ -15404,6 +15414,7 @@ Here's a list of public Fediverse services.
 | socialnet.tech | No |
 | socialnetwork.ninja | No |
 | socialnotworking.club | Yes |
+| socialpod.me | Yes |
 | socialprivacy.network | No |
 | socialsocial.club | No |
 | socialspace.xyz | No |
@@ -16529,7 +16540,7 @@ Here's a list of public Fediverse services.
 | thekurokuma.net | No |
 | theladners.com | Yes |
 | thelballwiki.gq | No |
-| thele.me | No |
+| thele.me | Yes |
 | theliturgists.com | Yes |
 | thelmgn.com | Yes |
 | thelovebug.org | No |
@@ -17027,7 +17038,7 @@ Here's a list of public Fediverse services.
 | trans.fm | No |
 | trans.town | No |
 | transfur.online | No |
-| transfurrmation.town | Yes |
+| transfurrmation.town | No |
 | transgression.cafe | No |
 | transient.garden | No |
 | transitieweb.nl | No |
@@ -17780,6 +17791,7 @@ Here's a list of public Fediverse services.
 | viid.ga | Yes |
 | vikavo.lt | No |
 | vikings.net | No |
+| vikn.se | No |
 | vikolabs.ga | No |
 | vikshepa.com | No |
 | viktorlindberg.com | No |
@@ -19038,8 +19050,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,608 |
-| Normal | 15,387 |
+| Cloudflare | 3,616 |
+| Normal | 15,391 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
