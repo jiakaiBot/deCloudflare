@@ -3596,8 +3596,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7952,6 +7952,7 @@ Do not create new issue or we will close it as duplicate.
 | [webtechexpertz@twitter](https://twitter.com/webtechexpertz/status/1476421030377926665) | advertise |
 | [webtechseos@twitter](https://twitter.com/webtechseos/status/1476421030377926665) | advertise |
 | [webtimez@twitter](https://twitter.com/webtimez/status/1525918440053161985) | advertise |
+| [webtools247@twitter](https://twitter.com/webtools247/status/1533226069863563265) | advertise |
 | [WebUtilisationp@twitter](https://twitter.com/WebUtilisationp/status/1527158501054853121) | advertise |
 | [webveko@twitter](https://twitter.com/webveko/status/1469937863273979904) | advertise |
 | [Weduy2Weduy@twitter](https://twitter.com/Weduy2Weduy/status/1482102273207844865) | advertise |
