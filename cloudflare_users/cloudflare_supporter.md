@@ -376,6 +376,7 @@ Do not create new issue or we will close it as duplicate.
 | [Alireza47491461@twitter](https://twitter.com/Alireza47491461/status/1384770721897984000) | advertise |
 | [Alireza_mgm@twitter](https://twitter.com/Alireza_mgm/status/1378312020651618304) | advertise |
 | [alishaimrankhan@twitter](https://twitter.com/alishaimrankhan/status/1402248745991884806) | advertise |
+| [alishanca@twitter](https://twitter.com/alishanca/status/1533557059018440705) | advertise |
 | [AliTekayResmi@twitter](https://twitter.com/AliTekayResmi/status/1420368710490013700) | advertise |
 | [ali__haidaricr7@twitter](https://twitter.com/ali__haidaricr7/status/1390791981010460673) | advertise |
 | [AllanMartin@twitter](https://twitter.com/AllanMartin/status/1399519289372295168) | advertise |
