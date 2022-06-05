@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [NHentai Cloudflare breaks downloader/metadata plugins](https://github.com/happypandax/plugins/issues/48)
 - [More than three embedded WAV files (Audio Blocks) breaks Gutenberg](https://github.com/WordPress/gutenberg/issues/41552)
 - [Increase UDP Receive Buffer Size](https://github.com/home-assistant/operating-system/issues/1964)
 - [Invalid JSON - Cloudflare blocking plugin?](https://github.com/fchat-pidgin/fchat-pidgin/issues/192)
