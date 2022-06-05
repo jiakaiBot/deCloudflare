@@ -1808,6 +1808,7 @@ Do not create new issue or we will close it as duplicate.
 | [duclap1888@twitter](https://twitter.com/duclap1888/status/1386945029084618755) | advertise |
 | [DucMinhVu9@twitter](https://twitter.com/DucMinhVu9/status/1407931928137715714) | advertise |
 | [Ducongluat1@twitter](https://twitter.com/Ducongluat1/status/1387339273892876290) | advertise |
+| [DujeGT@twitter](https://twitter.com/DujeGT/status/1533451778255093761) | advertise |
 | [DukedWinchester@twitter](https://twitter.com/DukedWinchester/status/1391277873210662913) | advertise |
 | [dukeyunz@twitter](https://twitter.com/dukeyunz/status/1471327151656153088) | advertise |
 | [DumTay@twitter](https://twitter.com/DumTay/status/1382699009144406017) | advertise |
