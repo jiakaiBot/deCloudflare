@@ -2177,6 +2177,7 @@ Do not create new issue or we will close it as duplicate.
 | [geolffrey_mena@twitter](https://twitter.com/geolffrey_mena/status/1462463345290797060) | advertise |
 | [georgegijo@twitter](https://twitter.com/georgegijo/status/1389736443904331778) | advertise |
 | [Geoxis_co@twitter](https://twitter.com/Geoxis_co/status/1442723657147506693) | advertise |
+| [Germanyme150598@twitter](https://twitter.com/Germanyme150598/status/1533276349946662912) | advertise |
 | [getferdi@twitter](https://twitter.com/getferdi/status/1519038075669827586) | advertise |
 | [ggcc37590384@twitter](https://twitter.com/ggcc37590384/status/1489085811094016005) | advertise |
 | [Gggaaaaa5@twitter](https://twitter.com/Gggaaaaa5/status/1387836659631202304) | advertise |
@@ -3601,8 +3602,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5067,6 +5068,7 @@ Do not create new issue or we will close it as duplicate.
 | [NantapatNott@twitter](https://twitter.com/NantapatNott/status/1486229015237398531) | advertise |
 | [NanThinZarOo3@twitter](https://twitter.com/NanThinZarOo3/status/1391693108195348484) | advertise |
 | [NaoremDojo@twitter](https://twitter.com/NaoremDojo/status/1382449145856851971) | advertise |
+| [nao_qua@twitter](https://twitter.com/nao_qua/status/1533404289648844802) | advertise |
 | [Narendr93556275@twitter](https://twitter.com/Narendr93556275/status/1384445226274594824) | advertise |
 | [narkarsarkie@twitter](https://twitter.com/narkarsarkie/status/1379118031050141697) | advertise |
 | [nas00831184@twitter](https://twitter.com/nas00831184/status/1401008152036790277) | advertise |
