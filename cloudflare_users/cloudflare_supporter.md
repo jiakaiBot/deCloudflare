@@ -2002,6 +2002,7 @@ Do not create new issue or we will close it as duplicate.
 | [eYb4nxGhTncqUwi@twitter](https://twitter.com/eYb4nxGhTncqUwi/status/1387831352553136129) | advertise |
 | [EYGT12@twitter](https://twitter.com/EYGT12/status/1401417134467469317) | advertise |
 | [eyoung2134@twitter](https://twitter.com/eyoung2134/status/1390776289389289473) | advertise |
+| [eyr661@twitter](https://twitter.com/eyr661/status/1533640464523530240) | advertise |
 | [ey_itsalex@twitter](https://twitter.com/ey_itsalex/status/1391091357591166980) | advertise |
 | [Ezlove12345@twitter](https://twitter.com/Ezlove12345/status/1495345866483191808) | advertise |
 | [F1Insider_FB@twitter](https://twitter.com/F1Insider_FB/status/1398202288817250306) | advertise |
