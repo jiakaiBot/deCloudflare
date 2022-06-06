@@ -3603,8 +3603,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -4192,6 +4192,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lucian55166513@twitter](https://twitter.com/Lucian55166513/status/1379606759434690561) | advertise |
 | [luciastgermaine@twitter](https://twitter.com/luciastgermaine/status/1532782556734693379) | advertise |
 | [LuciFar69459201@twitter](https://twitter.com/LuciFar69459201/status/1395041297606402052) | advertise |
+| [luckfu@twitter](https://twitter.com/luckfu/status/1533671872260214784) | advertise |
 | [LuckieCrab@twitter](https://twitter.com/LuckieCrab/status/1506372420701204487) | advertise |
 | [LUCKY05314962@twitter](https://twitter.com/LUCKY05314962/status/1390492338623959041) | advertise |
 | [Lucky35575557@twitter](https://twitter.com/Lucky35575557/status/1395626189163798528) | advertise |
@@ -6507,6 +6508,7 @@ Do not create new issue or we will close it as duplicate.
 | [ScarLat99299837@twitter](https://twitter.com/ScarLat99299837/status/1394957887026434051) | advertise |
 | [scbsun@twitter](https://twitter.com/scbsun/status/1499614417335447554) | advertise |
 | [schoolcheatsapp@twitter](https://twitter.com/schoolcheatsapp/status/1459307051969138688) | advertise |
+| [scifijunk@twitter](https://twitter.com/scifijunk/status/1533669443766734848) | advertise |
 | [Sciz0r1@twitter](https://twitter.com/Sciz0r1/status/1384091634455900161) | advertise |
 | [sclathrop@twitter](https://twitter.com/sclathrop/status/1458423494719459332) | advertise |
 | [ScottMortimer@infosec.exchange](https://infosec.exchange/@ScottMortimer/108277117754849928) | Scott Mortimer "Crimeflare is ridiculous and hyperbolic." |
