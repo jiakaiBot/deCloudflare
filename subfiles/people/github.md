@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [As a user, my repo is not exposed if first and only image push fails](https://github.com/pulp/pulp_container/issues/824)
+- [empty type field is not handled](https://github.com/kube-rs/kopium/issues/73)
 - [Release 4.3.4 - Release Candidate 1 - Ruleset tests](https://github.com/wazuh/wazuh/issues/13740)
 - [NHentai Cloudflare breaks downloader/metadata plugins](https://github.com/happypandax/plugins/issues/48)
 - [More than three embedded WAV files (Audio Blocks) breaks Gutenberg](https://github.com/WordPress/gutenberg/issues/41552)
