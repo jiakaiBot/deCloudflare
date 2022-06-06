@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,531 |
+| com | 2,532 |
 | net | 1,465 |
 | social | 1,110 |
 | org | 1,044 |
@@ -927,6 +927,7 @@ Here's a list of public Fediverse services.
 | antifasocial.club | No |
 | antii.social | No |
 | antinetzwerk.de | No |
+| antiope.link | No |
 | antiorario.it | Yes |
 | antipub.org | No |
 | antiquated.systems | No |
@@ -3490,6 +3491,7 @@ Here's a list of public Fediverse services.
 | damarada.net | No |
 | damaron.net | No |
 | dame.life | No |
+| damienplaysrecords.com | No |
 | damnetwork.nl | No |
 | damnserver.com | No |
 | damnx.net | No |
@@ -13122,6 +13124,7 @@ Here's a list of public Fediverse services.
 | pla1.net | No |
 | place-of-refuge.com | No |
 | plaf.fr | No |
+| plagu.ee | No |
 | plaimi.net | No |
 | plala.jp | No |
 | plamo.social | No |
@@ -19054,7 +19057,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,617 |
-| Normal | 15,393 |
+| Normal | 15,396 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
