@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,532 |
+| com | 2,533 |
 | net | 1,465 |
-| social | 1,110 |
+| social | 1,112 |
 | org | 1,044 |
-| de | 916 |
+| de | 917 |
 
 
 - Mastodon, Pleroma, etc
@@ -325,7 +325,7 @@ Here's a list of public Fediverse services.
 | 9uelle.jp | No |
 | a-apple.net | No |
 | a-db.fr | No |
-| a-kar.in | No |
+| a-kar.in | Yes |
 | a-lec.org | No |
 | a-room-ones-own.me | No |
 | a-tak.com | No |
@@ -1014,7 +1014,7 @@ Here's a list of public Fediverse services.
 | arathe.net | No |
 | arbitrarion.com | No |
 | arbleizez.bzh | No |
-| arc.sh | No |
+| arc.sh | Yes |
 | arcade.ooo | Yes |
 | arcadiaroad.com | No |
 | arcane.town | Yes |
@@ -7233,6 +7233,7 @@ Here's a list of public Fediverse services.
 | igualdad.cf | No |
 | iguanodon.net | No |
 | igwigg.space | No |
+| igyigy.com | No |
 | ihatebeinga.live | Yes |
 | ii.md | No |
 | iim.gay | No |
@@ -15779,6 +15780,7 @@ Here's a list of public Fediverse services.
 | stereo.social | No |
 | stereodon.social | No |
 | stereophonic.space | No |
+| stesan.dev | Yes |
 | stevenbrady.com | No |
 | stevencapellan.de | No |
 | stevenprins.com | Yes |
@@ -15808,6 +15810,7 @@ Here's a list of public Fediverse services.
 | stonerivermountain.com | No |
 | stonerkitty.monster | No |
 | stonestagsa.ga | No |
+| stoney.social | No |
 | stonith.org | No |
 | stoopid.club | No |
 | stop.wtf | No |
@@ -16948,6 +16951,7 @@ Here's a list of public Fediverse services.
 | toot.world | No |
 | toot.ws | Yes |
 | toot.zone | Yes |
+| toot9.de | No |
 | tootafterdark.xyz | Yes |
 | tootcn.com | Yes |
 | toote.rs | No |
@@ -17220,6 +17224,7 @@ Here's a list of public Fediverse services.
 | tulip.blue | No |
 | tulln.social | No |
 | tulsa.ok.us | No |
+| tum.social | Yes |
 | tumelum.de | No |
 | tumocs.eu | No |
 | tuna.today | No |
@@ -18216,6 +18221,7 @@ Here's a list of public Fediverse services.
 | wilde.cloud | No |
 | wildeboer.net | No |
 | wildtree.jp | No |
+| wildwestbookclub.xyz | No |
 | wildwildwestcountry.uk | No |
 | wildwood.town | No |
 | wileepeyote.net | No |
@@ -19056,8 +19062,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,617 |
-| Normal | 15,396 |
+| Cloudflare | 3,621 |
+| Normal | 15,398 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
