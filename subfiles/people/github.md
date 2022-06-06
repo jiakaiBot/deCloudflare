@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Release 4.3.4 - Release Candidate 1 - Ruleset tests](https://github.com/wazuh/wazuh/issues/13740)
 - [NHentai Cloudflare breaks downloader/metadata plugins](https://github.com/happypandax/plugins/issues/48)
 - [More than three embedded WAV files (Audio Blocks) breaks Gutenberg](https://github.com/WordPress/gutenberg/issues/41552)
 - [Increase UDP Receive Buffer Size](https://github.com/home-assistant/operating-system/issues/1964)
