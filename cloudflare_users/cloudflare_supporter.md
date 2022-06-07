@@ -7591,6 +7591,7 @@ Do not create new issue or we will close it as duplicate.
 | [Trungcu5@twitter](https://twitter.com/Trungcu5/status/1473494619824410628) | advertise |
 | [trunglu87@twitter](https://twitter.com/trunglu87/status/1382700817896116227) | advertise |
 | [TrungNg53294283@twitter](https://twitter.com/TrungNg53294283/status/1378292337483292675) | advertise |
+| [TrungNguyen217@twitter](https://twitter.com/TrungNguyen217/status/1534070633914855424) | advertise |
 | [trungnhatt@twitter](https://twitter.com/trungnhatt/status/1393247850465697794) | advertise |
 | [trungtalee@twitter](https://twitter.com/trungtalee/status/1510951582237863939) | advertise |
 | [TrungTinn2@twitter](https://twitter.com/TrungTinn2/status/1396435936490049540) | advertise |
