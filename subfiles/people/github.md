@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [JSON ERROR: Syntax error](https://github.com/woocommerce/wc-api-php/issues/327)
 - [As a user, my repo is not exposed if first and only image push fails](https://github.com/pulp/pulp_container/issues/824)
 - [empty type field is not handled](https://github.com/kube-rs/kopium/issues/73)
 - [Release 4.3.4 - Release Candidate 1 - Ruleset tests](https://github.com/wazuh/wazuh/issues/13740)
