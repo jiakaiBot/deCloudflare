@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,533 |
-| net | 1,465 |
+| net | 1,466 |
 | social | 1,112 |
 | org | 1,044 |
 | de | 917 |
@@ -1559,6 +1559,7 @@ Here's a list of public Fediverse services.
 | bearvideo.win | Yes |
 | bearygoosey.com | No |
 | beastnet.works | No |
+| beatrice.wtf | No |
 | beautrait.com | No |
 | becabeca.eu | No |
 | becauseofprog.fr | No |
@@ -5831,6 +5832,7 @@ Here's a list of public Fediverse services.
 | gamethattune.club | No |
 | gamethattune.com | No |
 | gametoot.org | No |
+| gamez.name | Yes |
 | gaming.pizza | No |
 | gamingjp.org | No |
 | gammon.club | No |
@@ -8218,6 +8220,7 @@ Here's a list of public Fediverse services.
 | kdy.ch | Yes |
 | keane.ml | Yes |
 | keasti.net | Yes |
+| keaton.cool | No |
 | keazilla.net | No |
 | kebot.me | No |
 | kebree.fr | No |
@@ -8609,6 +8612,7 @@ Here's a list of public Fediverse services.
 | kretschmann.social | No |
 | krinchan.com | Yes |
 | krinetzki.de | Yes |
+| kriom.net | No |
 | krkrkr.org | No |
 | krononot.com | Yes |
 | kroo.is | No |
@@ -10559,7 +10563,7 @@ Here's a list of public Fediverse services.
 | mindblast.space | Yes |
 | mindfire.io | No |
 | mindlesstux.com | Yes |
-| mindly.social | No |
+| mindly.social | Yes |
 | mindofjoe.xyz | No |
 | mindpalace.io | No |
 | mindsforge.com | No |
@@ -16938,6 +16942,7 @@ Here's a list of public Fediverse services.
 | toot.pw | No |
 | toot.rip | No |
 | toot.rodeo | No |
+| toot.sg | Yes |
 | toot.sh | Yes |
 | toot.shoes | Yes |
 | toot.si | No |
@@ -18230,6 +18235,7 @@ Here's a list of public Fediverse services.
 | will-nix.de | No |
 | willacy.rocks | No |
 | william.cool | No |
+| williamb78.ovh | Yes |
 | williamedwards.io | No |
 | williamscloud.space | No |
 | willistonschools.org | No |
@@ -18292,6 +18298,7 @@ Here's a list of public Fediverse services.
 | wiz.community | No |
 | wizard.estate | Yes |
 | wizards.blue | No |
+| wizards.business | No |
 | wizards.town | No |
 | wizards.zone | No |
 | wizbos.club | Yes |
@@ -18633,6 +18640,7 @@ Here's a list of public Fediverse services.
 | xxyyzzy.club | No |
 | xy-space.de | No |
 | xy.ag | No |
+| xy2.wiki | No |
 | xyag.space | No |
 | xycloud.fr | No |
 | xyzyx.org | No |
@@ -19063,8 +19071,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,621 |
-| Normal | 15,399 |
+| Cloudflare | 3,625 |
+| Normal | 15,403 |
 
 
-### 19% of public Fediverse services are using Cloudflare.
+### 19.1% of public Fediverse services are using Cloudflare.
