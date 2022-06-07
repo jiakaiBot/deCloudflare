@@ -5142,6 +5142,7 @@ Do not create new issue or we will close it as duplicate.
 | [NayZaw72303730@twitter](https://twitter.com/NayZaw72303730/status/1388769231848812545) | advertise |
 | [NayZawAung9@twitter](https://twitter.com/NayZawAung9/status/1394089583281803265) | advertise |
 | [NayZin04331521@twitter](https://twitter.com/NayZin04331521/status/1392442395497697282) | advertise |
+| [Naziba06@twitter](https://twitter.com/Naziba06/status/1534091968661581825) | advertise |
 | [Na_AlFayeez@twitter](https://twitter.com/Na_AlFayeez/status/1388195478844674055) | advertise |
 | [Ndahe8@twitter](https://twitter.com/Ndahe8/status/1387121668582117377) | advertise |
 | [NdIosdg@twitter](https://twitter.com/NdIosdg/status/1502104011155324932) | advertise |
