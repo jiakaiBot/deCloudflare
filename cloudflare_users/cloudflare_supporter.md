@@ -1624,6 +1624,7 @@ Do not create new issue or we will close it as duplicate.
 | [DefAbandonware@twitter](https://twitter.com/DefAbandonware/status/1418440485081784320) | advertise |
 | [DefPratik@twitter](https://twitter.com/DefPratik/status/1532445074973663232) | advertise |
 | [DegenPilled@twitter](https://twitter.com/DegenPilled/status/1442737756753514497) | advertise |
+| [deivan76@twitter](https://twitter.com/deivan76/status/1534215791637409792) | advertise |
 | [DelsinPistons@twitter](https://twitter.com/DelsinPistons/status/1420937477930487808) | advertise |
 | [DelucioJoseph@twitter](https://twitter.com/DelucioJoseph/status/1393744512422498304) | advertise |
 | [Demon6941@twitter](https://twitter.com/Demon6941/status/1494687786774851592) | advertise |
@@ -2715,6 +2716,7 @@ Do not create new issue or we will close it as duplicate.
 | [Htetsha65045716@twitter](https://twitter.com/Htetsha65045716/status/1391640408430497792) | advertise |
 | [HTETSHI58199439@twitter](https://twitter.com/HTETSHI58199439/status/1394870468960681987) | advertise |
 | [htetshineWA@twitter](https://twitter.com/htetshineWA/status/1392473282738196486) | advertise |
+| [HtetThuAung10@twitter](https://twitter.com/HtetThuAung10/status/1534216447064322048) | advertise |
 | [HtetWai03116234@twitter](https://twitter.com/HtetWai03116234/status/1390404249171894272) | advertise |
 | [HtetWai21124874@twitter](https://twitter.com/HtetWai21124874/status/1392544211145269248) | advertise |
 | [HtetWai46284699@twitter](https://twitter.com/HtetWai46284699/status/1395777681115942912) | advertise |
@@ -3607,8 +3609,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5666,6 +5668,7 @@ Do not create new issue or we will close it as duplicate.
 | [PARTHIBMONDAL11@twitter](https://twitter.com/PARTHIBMONDAL11/status/1389065445047775234) | advertise |
 | [PasanLaksitha@twitter](https://twitter.com/PasanLaksitha/status/1379474666767572994) | advertise |
 | [pastorray620@twitter](https://twitter.com/pastorray620/status/1481759595219628038) | advertise |
+| [patchrowcester@twitter](https://twitter.com/patchrowcester/status/1534210752780898307) | advertise |
 | [PATELANAS1998@twitter](https://twitter.com/PATELANAS1998/status/1379706213877784576) | advertise |
 | [patrickgoosby1@twitter](https://twitter.com/patrickgoosby1/status/1394439072811307013) | advertise |
 | [PatrickHonorez@twitter](https://twitter.com/PatrickHonorez/status/1486822811796750343) | advertise |
@@ -6278,6 +6281,7 @@ Do not create new issue or we will close it as duplicate.
 | [RonitBose13@twitter](https://twitter.com/RonitBose13/status/1428250137445425157) | advertise |
 | [RonnachaiKammu6@twitter](https://twitter.com/RonnachaiKammu6/status/1382350935758807043) | advertise |
 | [RonnieSstore@twitter](https://twitter.com/RonnieSstore/status/1401572362261237764) | advertise |
+| [ronnyinvesting@twitter](https://twitter.com/ronnyinvesting/status/1534207065282949122) | advertise |
 | [rookies87949021@twitter](https://twitter.com/rookies87949021/status/1389072539935076352) | advertise |
 | [roroiraqea@twitter](https://twitter.com/roroiraqea/status/1407298625563136003) | advertise |
 | [Rory10087298@twitter](https://twitter.com/Rory10087298/status/1394270961046753285) | advertise |
