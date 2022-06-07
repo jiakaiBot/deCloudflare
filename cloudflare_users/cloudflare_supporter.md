@@ -2096,6 +2096,7 @@ Do not create new issue or we will close it as duplicate.
 | [fouad20092000@twitter](https://twitter.com/fouad20092000/status/1472866649971871744) | advertise |
 | [four5z@twitter](https://twitter.com/four5z/status/1503760771494391822) | advertise |
 | [FradSer@twitter](https://twitter.com/FradSer/status/1525376068395225088) | advertise |
+| [frankygu@twitter](https://twitter.com/frankygu/status/1533974817438941185) | advertise |
 | [freak_bharath@twitter](https://twitter.com/freak_bharath/status/1398311217605738496) | advertise |
 | [FreddyKaung@twitter](https://twitter.com/FreddyKaung/status/1396197482086813701) | advertise |
 | [freddyschre@twitter](https://twitter.com/freddyschre/status/1501565599746596867) | advertise |
