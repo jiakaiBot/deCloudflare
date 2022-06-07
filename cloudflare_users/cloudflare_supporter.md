@@ -4684,6 +4684,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mistah_Random@twitter](https://twitter.com/Mistah_Random/status/1402645157070127113) | advertise |
 | [mistereyfatter@twitter](https://twitter.com/mistereyfatter/status/1385082858105049091) | advertise |
 | [Mistergethowu@twitter](https://twitter.com/Mistergethowu/status/1500293947641544714) | advertise |
+| [mitaul@twitter](https://twitter.com/mitaul/status/1534177987649839104) | advertise |
 | [MithunR96567112@twitter](https://twitter.com/MithunR96567112/status/1404521110817759236) | advertise |
 | [mitne0701@twitter](https://twitter.com/mitne0701/status/1506213301859995650) | advertise |
 | [MitraDevayan@twitter](https://twitter.com/MitraDevayan/status/1393172749288284160) | advertise |
@@ -6180,6 +6181,7 @@ Do not create new issue or we will close it as duplicate.
 | [regchan@twitter](https://twitter.com/regchan/status/1524281569376182273) | advertise |
 | [ReickyKunn@twitter](https://twitter.com/ReickyKunn/status/1386282466671947788) | advertise |
 | [RekhaDe60415707@twitter](https://twitter.com/RekhaDe60415707/status/1501404745009106945) | advertise |
+| [relaxedswimmer@twitter](https://twitter.com/relaxedswimmer/status/1534181874217537536) | advertise |
 | [relorpubg@twitter](https://twitter.com/relorpubg/status/1402449370822348800) | advertise |
 | [Renee4287@twitter](https://twitter.com/Renee4287/status/1405528162469965828) | advertise |
 | [renify_official@twitter](https://twitter.com/renify_official/status/1464961938492821506) | advertise |
