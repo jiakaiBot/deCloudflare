@@ -177,6 +177,7 @@ Here's a list of public Fediverse services.
 | 2to2.xyz | No |
 | 2xx04.xyz | No |
 | 3.nu | No |
+| 3.srl | No |
 | 300-baud.net | No |
 | 300m.com | No |
 | 334.ovh | Yes |
@@ -19063,7 +19064,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,621 |
-| Normal | 15,398 |
+| Normal | 15,399 |
 
 
 ### 19% of public Fediverse services are using Cloudflare.
