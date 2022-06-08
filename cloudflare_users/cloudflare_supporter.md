@@ -1871,6 +1871,7 @@ Do not create new issue or we will close it as duplicate.
 | [EaintMhuKhin2@twitter](https://twitter.com/EaintMhuKhin2/status/1390885334745899009) | advertise |
 | [Eainzonn@twitter](https://twitter.com/Eainzonn/status/1399198586072551426) | advertise |
 | [Eakruthaicc@twitter](https://twitter.com/Eakruthaicc/status/1468811322716352512) | advertise |
+| [EarlMur88577933@twitter](https://twitter.com/EarlMur88577933/status/1534644631996096515) | advertise |
 | [Earth57933455@twitter](https://twitter.com/Earth57933455/status/1392991054819856384) | advertise |
 | [east_aj@twitter](https://twitter.com/east_aj/status/1402728569550163970) | advertise |
 | [EbadeMohmade@twitter](https://twitter.com/EbadeMohmade/status/1450824249988501504) | advertise |
@@ -4364,6 +4365,7 @@ Do not create new issue or we will close it as duplicate.
 | [Marialuana965@twitter](https://twitter.com/Marialuana965/status/1491082618020179970) | advertise |
 | [marik4536@twitter](https://twitter.com/marik4536/status/1401198388570312708) | advertise |
 | [Marin65500823@twitter](https://twitter.com/Marin65500823/status/1379100572159143941) | advertise |
+| [marina_iusupova@twitter](https://twitter.com/marina_iusupova/status/1534645854098771968) | advertise |
 | [Mario48026764@twitter](https://twitter.com/Mario48026764/status/1394761941990600706) | advertise |
 | [mario73729035@twitter](https://twitter.com/mario73729035/status/1405510423932141576) | advertise |
 | [mario76150407@twitter](https://twitter.com/mario76150407/status/1391276440331636736) | advertise |
