@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [On the worker environment, account page shows error: TypeError: Cannot assign to read only property 'status' of object '<fE>'](https://github.com/Shopify/hydrogen/issues/1488)
 - [Peering with content providers: Cloudflare info outdated](https://github.com/ipfs/ipfs-docs/issues/1170)
 - [JSON ERROR: Syntax error](https://github.com/woocommerce/wc-api-php/issues/327)
 - [As a user, my repo is not exposed if first and only image push fails](https://github.com/pulp/pulp_container/issues/824)
