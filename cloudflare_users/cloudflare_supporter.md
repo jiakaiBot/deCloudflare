@@ -5677,6 +5677,7 @@ Do not create new issue or we will close it as duplicate.
 | [pastorray620@twitter](https://twitter.com/pastorray620/status/1481759595219628038) | advertise |
 | [patchrowcester@twitter](https://twitter.com/patchrowcester/status/1534210752780898307) | advertise |
 | [PATELANAS1998@twitter](https://twitter.com/PATELANAS1998/status/1379706213877784576) | advertise |
+| [Patrici13804952@twitter](https://twitter.com/Patrici13804952/status/1534399090943045632) | advertise |
 | [patrickgoosby1@twitter](https://twitter.com/patrickgoosby1/status/1394439072811307013) | advertise |
 | [PatrickHonorez@twitter](https://twitter.com/PatrickHonorez/status/1486822811796750343) | advertise |
 | [PatrickLNorman@twitter](https://twitter.com/PatrickLNorman/status/1378071182319222788) | advertise |
