@@ -2204,6 +2204,7 @@ Do not create new issue or we will close it as duplicate.
 | [GiaDat7@twitter](https://twitter.com/GiaDat7/status/1499011433946030084) | advertise |
 | [giang90299930@twitter](https://twitter.com/giang90299930/status/1384561563617484802) | advertise |
 | [Giang96329651@twitter](https://twitter.com/Giang96329651/status/1389920131950604290) | advertise |
+| [GiangDV89@twitter](https://twitter.com/GiangDV89/status/1534565393628471296) | advertise |
 | [giangle120599@twitter](https://twitter.com/giangle120599/status/1506274775722770441) | advertise |
 | [GiangNg50047953@twitter](https://twitter.com/GiangNg50047953/status/1493949501219819522) | advertise |
 | [GiangNguynTrn14@twitter](https://twitter.com/GiangNguynTrn14/status/1397055320958984193) | advertise |
@@ -4383,6 +4384,7 @@ Do not create new issue or we will close it as duplicate.
 | [MarlonBatucan1@twitter](https://twitter.com/MarlonBatucan1/status/1490162646934503424) | advertise |
 | [Marna00520720@twitter](https://twitter.com/Marna00520720/status/1395227756800057345) | advertise |
 | [MARPOLLO1122@twitter](https://twitter.com/MARPOLLO1122/status/1396765394719809541) | advertise |
+| [Martinka_Treti_@twitter](https://twitter.com/Martinka_Treti_/status/1534550667435589637) | advertise |
 | [Maru19225266@twitter](https://twitter.com/Maru19225266/status/1399664918794674181) | advertise |
 | [MarufHa0192487@twitter](https://twitter.com/MarufHa0192487/status/1385279046309740547) | advertise |
 | [marvincuche@twitter](https://twitter.com/marvincuche/status/1401058562894356480) | advertise |
