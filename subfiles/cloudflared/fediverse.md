@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,533 |
 | net | 1,466 |
-| social | 1,112 |
+| social | 1,113 |
 | org | 1,044 |
 | de | 917 |
 
@@ -8966,6 +8966,7 @@ Here's a list of public Fediverse services.
 | leo.re.kr | Yes |
 | leobrown.net | No |
 | leonadi.de | Yes |
+| leopard.tube | No |
 | leoprox.icu | No |
 | leos.page | No |
 | leotindall.com | No |
@@ -11824,6 +11825,7 @@ Here's a list of public Fediverse services.
 | noellabo.com | Yes |
 | noellabo.jp | Yes |
 | noelle.codes | No |
+| noexpectations.social | No |
 | nof.st | No |
 | nofan.xyz | Yes |
 | noferini.org | No |
@@ -13630,7 +13632,7 @@ Here's a list of public Fediverse services.
 | puppy.place | No |
 | pups.social | Yes |
 | pupsparkle.nl | Yes |
-| pupu.moe | No |
+| pupu.moe | Yes |
 | pure-isp.eu | Yes |
 | purelove.icu | No |
 | purexo.mom | No |
@@ -19071,8 +19073,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,625 |
-| Normal | 15,403 |
+| Cloudflare | 3,626 |
+| Normal | 15,404 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
