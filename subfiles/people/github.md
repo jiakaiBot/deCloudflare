@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Peering with content providers: Cloudflare info outdated](https://github.com/ipfs/ipfs-docs/issues/1170)
 - [JSON ERROR: Syntax error](https://github.com/woocommerce/wc-api-php/issues/327)
 - [As a user, my repo is not exposed if first and only image push fails](https://github.com/pulp/pulp_container/issues/824)
 - [empty type field is not handled](https://github.com/kube-rs/kopium/issues/73)
