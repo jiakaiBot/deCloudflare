@@ -895,6 +895,7 @@ Do not create new issue or we will close it as duplicate.
 | [Badgamer99999@twitter](https://twitter.com/Badgamer99999/status/1493242034232070144) | advertise |
 | [BadgirlYukiko@twitter](https://twitter.com/BadgirlYukiko/status/1395210039845998594) | advertise |
 | [badluckbillyxo@twitter](https://twitter.com/badluckbillyxo/status/1371850435015884807) | advertise |
+| [BadSkey_UwU@twitter](https://twitter.com/BadSkey_UwU/status/1534625539410886656) | advertise |
 | [baebaesaja666@twitter](https://twitter.com/baebaesaja666/status/1398980440476708868) | advertise |
 | [BaggyB7@twitter](https://twitter.com/BaggyB7/status/1389914222096576513) | advertise |
 | [BaGyiYe1@twitter](https://twitter.com/BaGyiYe1/status/1395180902947381253) | advertise |
