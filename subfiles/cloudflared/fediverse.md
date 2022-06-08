@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,533 |
+| com | 2,534 |
 | net | 1,466 |
-| social | 1,113 |
-| org | 1,044 |
+| social | 1,114 |
+| org | 1,045 |
 | de | 917 |
 
 
@@ -2928,6 +2928,7 @@ Here's a list of public Fediverse services.
 | coffeesurge.com | No |
 | coffein.life | No |
 | cofvevesocial.com | Yes |
+| cogdogblog.com | No |
 | cogentleman.com | No |
 | cogito.io | Yes |
 | cogitoergofem.me | Yes |
@@ -3415,6 +3416,7 @@ Here's a list of public Fediverse services.
 | cybur.nl | No |
 | cycles.network | No |
 | cyclodon.net | No |
+| cygis.cf | No |
 | cygnan.com | Yes |
 | cygnoir.net | No |
 | cyka.cf | No |
@@ -3510,6 +3512,7 @@ Here's a list of public Fediverse services.
 | dandys.space | No |
 | dangeroutside.com | No |
 | dangre.de | No |
+| daniel-schmitt.eu | Yes |
 | danielbierstedt.de | No |
 | danielehniss.de | No |
 | danielgil.page | No |
@@ -3569,6 +3572,7 @@ Here's a list of public Fediverse services.
 | dasgelobteland.art | Yes |
 | dashten.dev | No |
 | dashtube.org | No |
+| dashuo.org | Yes |
 | dasnetzundich.de | Yes |
 | dasoran.net | No |
 | daspr.io | Yes |
@@ -5872,6 +5876,7 @@ Here's a list of public Fediverse services.
 | gautampk.com | Yes |
 | gauzy.fr | No |
 | gaven.social | No |
+| gavinbrown.xyz | Yes |
 | gawlinski.com | No |
 | gawo.ga | No |
 | gay-skater-caster.de | No |
@@ -5948,6 +5953,7 @@ Here's a list of public Fediverse services.
 | gelt.cz | No |
 | gemini.city | No |
 | gemlog.ca | No |
+| gemma.ee | Yes |
 | gemmari.us | No |
 | gemnoc.ca | No |
 | gemuplay.com | No |
@@ -8452,6 +8458,7 @@ Here's a list of public Fediverse services.
 | kloudboy.xyz | No |
 | klzb.top | No |
 | km-connect.org | No |
+| km6g.us | No |
 | kmdkuk.com | No |
 | kmlg.jp | No |
 | kmmtn.com | No |
@@ -8867,6 +8874,7 @@ Here's a list of public Fediverse services.
 | lazycats.xyz | No |
 | lazysquirrel.co.uk | No |
 | lazyteddy.eu | No |
+| lbry.top | No |
 | lbry.world | Yes |
 | lcavallaro.com | Yes |
 | lclsea.icu | No |
@@ -11586,6 +11594,7 @@ Here's a list of public Fediverse services.
 | neurohack.net | No |
 | neuromante.net | No |
 | neuroscience.day | No |
+| never.bid | Yes |
 | neveris.one | No |
 | neverno.one | No |
 | neverwhere.social | Yes |
@@ -16195,6 +16204,7 @@ Here's a list of public Fediverse services.
 | tamag.org | No |
 | tamax.ml | No |
 | tamazgha.space | No |
+| tambay.social | No |
 | tamerz.com | Yes |
 | tamilsangam.social | No |
 | tamilsocial.org | No |
@@ -17553,6 +17563,7 @@ Here's a list of public Fediverse services.
 | unturf.com | No |
 | untwitter.cf | No |
 | unx.pw | No |
+| unzensiert.to | No |
 | uoga.net | No |
 | up.edu.ph | Yes |
 | upchur.ch | No |
@@ -19073,8 +19084,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,626 |
-| Normal | 15,404 |
+| Cloudflare | 3,631 |
+| Normal | 15,410 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
