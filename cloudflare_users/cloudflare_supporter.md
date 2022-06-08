@@ -1396,6 +1396,7 @@ Do not create new issue or we will close it as duplicate.
 | [ComputerMedic2@twitter](https://twitter.com/ComputerMedic2/status/1498349891097137162) | advertise |
 | [coms4socialcha1@twitter](https://twitter.com/coms4socialcha1/status/1379781588263661581) | advertise |
 | [Concho117@twitter](https://twitter.com/Concho117/status/1403355446610587648) | advertise |
+| [condork66@twitter](https://twitter.com/condork66/status/1534384000873156610) | advertise |
 | [cong242000@twitter](https://twitter.com/cong242000/status/1383487920498040838) | advertise |
 | [Conganh78457546@twitter](https://twitter.com/Conganh78457546/status/1497191208829227008) | advertise |
 | [Congtru16@twitter](https://twitter.com/Congtru16/status/1403711950945587200) | advertise |
