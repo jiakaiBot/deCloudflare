@@ -432,6 +432,7 @@ Do not create new issue or we will close it as duplicate.
 | [AMMOdoe1996@twitter](https://twitter.com/AMMOdoe1996/status/1390674344490110977) | advertise |
 | [AmMussolini@twitter](https://twitter.com/AmMussolini/status/1383118744621363202) | advertise |
 | [AmortyH@twitter](https://twitter.com/AmortyH/status/1394286641179611139) | advertise |
+| [Amrex67830492@twitter](https://twitter.com/Amrex67830492/status/1534807798717984768) | advertise |
 | [amritabithi@twitter](https://twitter.com/amritabithi/status/1407655829835108353) | advertise |
 | [AmritTh45067603@twitter](https://twitter.com/AmritTh45067603/status/1396743277219434499) | advertise |
 | [amrit__jaswani@twitter](https://twitter.com/amrit__jaswani/status/1382348879245553665) | advertise |
@@ -3807,6 +3808,7 @@ Do not create new issue or we will close it as duplicate.
 | [KSalout@twitter](https://twitter.com/KSalout/status/1498335781013831686) | advertise |
 | [ksate0@twitter](https://twitter.com/ksate0/status/1379112018817376258) | advertise |
 | [kshs63527911@twitter](https://twitter.com/kshs63527911/status/1405392559107629059) | advertise |
+| [kt94150@twitter](https://twitter.com/kt94150/status/1534798928591302656) | advertise |
 | [KT40199122@twitter](https://twitter.com/KT40199122/status/1404323473300680704) | advertise |
 | [KTS68355553@twitter](https://twitter.com/KTS68355553/status/1390786154723741697) | advertise |
 | [KuashikMakavana@twitter](https://twitter.com/KuashikMakavana/status/1388432783110860802) | advertise |
@@ -4467,6 +4469,7 @@ Do not create new issue or we will close it as duplicate.
 | [MCTone6@twitter](https://twitter.com/MCTone6/status/1396380839529705473) | advertise |
 | [mczebravn@twitter](https://twitter.com/mczebravn/status/1406522515086659587) | advertise |
 | [MDAILKHAN3@twitter](https://twitter.com/MDAILKHAN3/status/1384106744184401921) | advertise |
+| [MDASFAK56887662@twitter](https://twitter.com/MDASFAK56887662/status/1534808935395643392) | advertise |
 | [MdAshra85999828@twitter](https://twitter.com/MdAshra85999828/status/1386984714934886407) | advertise |
 | [MdJuned57137884@twitter](https://twitter.com/MdJuned57137884/status/1378966402720272384) | advertise |
 | [mdk796299@twitter](https://twitter.com/mdk796299/status/1394950846845046794) | advertise |
