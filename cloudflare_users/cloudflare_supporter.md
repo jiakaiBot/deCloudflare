@@ -1415,6 +1415,7 @@ Do not create new issue or we will close it as duplicate.
 | [CopyImage12@twitter](https://twitter.com/CopyImage12/status/1388503829142851588) | advertise |
 | [Corona00039226@twitter](https://twitter.com/Corona00039226/status/1496506233670410242) | advertise |
 | [Corona3331@twitter](https://twitter.com/Corona3331/status/1394599782153342976) | advertise |
+| [corporatethief@twitter](https://twitter.com/corporatethief/status/1534847600037355522) | advertise |
 | [corpsewify@twitter](https://twitter.com/corpsewify/status/1485684820600844288) | advertise |
 | [CorvKaldwin@twitter](https://twitter.com/CorvKaldwin/status/1534162985375395840) | advertise |
 | [cowboylikeMike@twitter](https://twitter.com/cowboylikeMike/status/1531104867036434432) | advertise |
@@ -1431,8 +1432,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -4298,6 +4299,7 @@ Do not create new issue or we will close it as duplicate.
 | [MaEiEiKhine1@twitter](https://twitter.com/MaEiEiKhine1/status/1396386851187924993) | advertise |
 | [magicshoptae1@twitter](https://twitter.com/magicshoptae1/status/1391277628955402244) | advertise |
 | [Magmavalt@twitter](https://twitter.com/Magmavalt/status/1526286649839206400) | advertise |
+| [magnificus_g@twitter](https://twitter.com/magnificus_g/status/1534864691318640641) | advertise |
 | [MAHATOBABu711@twitter](https://twitter.com/MAHATOBABu711/status/1407249433952079875) | advertise |
 | [Mahendra121283@twitter](https://twitter.com/Mahendra121283/status/1396311289949941766) | advertise |
 | [MaheshKaragthi1@twitter](https://twitter.com/MaheshKaragthi1/status/1405041613047418882) | advertise |
