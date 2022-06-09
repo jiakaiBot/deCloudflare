@@ -2474,6 +2474,7 @@ Do not create new issue or we will close it as duplicate.
 | [HeinZaw62666182@twitter](https://twitter.com/HeinZaw62666182/status/1395115005196914691) | advertise |
 | [heinzawwin13@twitter](https://twitter.com/heinzawwin13/status/1492077449466703872) | advertise |
 | [HellishDani@twitter](https://twitter.com/HellishDani/status/1377383208828903427) | advertise |
+| [hello4leaf@twitter](https://twitter.com/hello4leaf/status/1534911210470387713) | advertise |
 | [hellodk01@twitter](https://twitter.com/hellodk01/status/1434560473626730498) | advertise |
 | [hellopixely@twitter](https://twitter.com/hellopixely/status/1504938369469624323) | advertise |
 | [helu_sky@twitter](https://twitter.com/helu_sky/status/1461265952608194566) | advertise |
