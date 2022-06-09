@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,534 |
+| com | 2,535 |
 | net | 1,466 |
-| social | 1,114 |
-| org | 1,045 |
+| social | 1,115 |
+| org | 1,047 |
 | de | 917 |
 
 
@@ -443,6 +443,7 @@ Here's a list of public Fediverse services.
 | actocom.com | No |
 | actrophp.de | No |
 | acts-sh.pp.ua | No |
+| acts17archive.org | No |
 | acu.lt | No |
 | acurrency.org | No |
 | ad5001.eu | No |
@@ -1238,6 +1239,7 @@ Here's a list of public Fediverse services.
 | aucklandia.social | Yes |
 | audax.xyz | Yes |
 | audiochad.xyz | No |
+| audiomix.club | No |
 | audiophile-mastodon.com | No |
 | audiosauti.com | No |
 | audiovisuel-participatif.org | No |
@@ -2182,7 +2184,7 @@ Here's a list of public Fediverse services.
 | bsnsense.xyz | No |
 | bsrealm.net | No |
 | bstly.de | No |
-| btc.gdn | No |
+| btc.gdn | Yes |
 | btc21m.net | Yes |
 | btcmb.org | No |
 | btcpins.com | No |
@@ -12675,6 +12677,7 @@ Here's a list of public Fediverse services.
 | panoptic.onl | Yes |
 | panoptikum.io | No |
 | pansebete.net | No |
+| pantasystem.com | Yes |
 | panthereye.news | Yes |
 | panthermodern.net | No |
 | panthermoderns.org | No |
@@ -14055,6 +14058,7 @@ Here's a list of public Fediverse services.
 | redroo.ml | No |
 | redroot.xyz | No |
 | redrosewriter.com | Yes |
+| redrover.social | Yes |
 | redsnow.io | No |
 | redsqua.re | No |
 | redstrate.com | No |
@@ -17321,6 +17325,7 @@ Here's a list of public Fediverse services.
 | twittolabel.tech | No |
 | twittzoneusa.com | No |
 | twofifth.one | No |
+| twofirstnames.org | Yes |
 | twoheaded.monster | No |
 | twols.cc | No |
 | twoot.space | No |
@@ -18482,7 +18487,7 @@ Here's a list of public Fediverse services.
 | x41.social | No |
 | x5gtrn.com | No |
 | x61.uk | Yes |
-| x91.de | No |
+| x91.de | Yes |
 | xa0.uk | Yes |
 | xabid.com | No |
 | xajh.org | No |
@@ -19085,7 +19090,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,635 |
+| Cloudflare | 3,640 |
 | Normal | 15,407 |
 
 
