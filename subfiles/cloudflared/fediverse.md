@@ -2789,7 +2789,7 @@ Here's a list of public Fediverse services.
 | cleasky.blue | No |
 | cleeb.net | Yes |
 | clerks.me | No |
-| clic2000.net | No |
+| clic2000.net | Yes |
 | click.ba.it | No |
 | climatejustice.events | No |
 | climatejustice.global | No |
@@ -10424,7 +10424,7 @@ Here's a list of public Fediverse services.
 | metasocial.com | No |
 | metawurst.space | No |
 | metaxx.dev | Yes |
-| metaxx.social | No |
+| metaxx.social | Yes |
 | meteo.social | No |
 | meteor.ne.jp | Yes |
 | meteor1.de | No |
@@ -11204,7 +11204,7 @@ Here's a list of public Fediverse services.
 | mycrowd.ca | No |
 | myd.kyoto.jp | No |
 | myddns.me | No |
-| mydns.jp | No |
+| mydns.jp | Yes |
 | myfamilyandfriends.net | No |
 | myfed.space | No |
 | myflog.net | No |
@@ -15211,6 +15211,7 @@ Here's a list of public Fediverse services.
 | sketchy.life | No |
 | skewed.de | No |
 | skiant.net | No |
+| skiddle.id | Yes |
 | skilltoy.site | No |
 | skinheads.co | No |
 | skinheads.network | Yes |
@@ -19084,8 +19085,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,631 |
-| Normal | 15,410 |
+| Cloudflare | 3,635 |
+| Normal | 15,407 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
