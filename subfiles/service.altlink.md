@@ -123,9 +123,11 @@ Your username part (before `@`) will be masked to protect your privacy.
 You can configure it from [this website](http://altlink.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/). (Clearnet is killed due to lack of public interest)
 
 
-### Download OLD PNG Logo
+### Download PNG Logo
 
 For your poster/meme needs.
+
+- Try [Meme Generator](http://altlink.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/meme/)
 
 MitiGator's profile image shows an orange shield and a cartoon of the mascot character, 𝙈𝙞𝙩𝙞𝙂𝙖𝙩𝙤𝙧, who stands proud as the MITM Prevention Alligator.
 The mascot wears a referee top and red sash across chest. Above the shield is 'MitiGator' in arching, bold, small caps, serif lettering.
