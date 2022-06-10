@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can’t turn off preloading of pages](https://github.com/kiwibrowser/src.next/issues/631)
+- [Please support skipFetchSetup for BscscanProvider and EtherscanProvider](https://github.com/ethers-io/ethers.js/issues/3067)
 - [via.placeholder.com is returning 403 when using CURL](https://github.com/FakerPHP/Faker/issues/478)
 - [How to avoid CloudFlare Capcha?](https://github.com/MontFerret/worker/issues/25)
 - [SSL Error when loading Quran API Docs](https://github.com/quran/quran.com-api/issues/560)
