@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Flaresolverr behind proxy](https://github.com/FlareSolverr/FlareSolverr/issues/403)
 - [Can’t turn off preloading of pages](https://github.com/kiwibrowser/src.next/issues/631)
 - [Please support skipFetchSetup for BscscanProvider and EtherscanProvider](https://github.com/ethers-io/ethers.js/issues/3067)
 - [via.placeholder.com is returning 403 when using CURL](https://github.com/FakerPHP/Faker/issues/478)
