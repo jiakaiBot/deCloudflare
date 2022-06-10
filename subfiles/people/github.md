@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [via.placeholder.com is returning 403 when using CURL](https://github.com/FakerPHP/Faker/issues/478)
 - [How to avoid CloudFlare Capcha?](https://github.com/MontFerret/worker/issues/25)
 - [SSL Error when loading Quran API Docs](https://github.com/quran/quran.com-api/issues/560)
 - [On the worker environment, account page shows error: TypeError: Cannot assign to read only property 'status' of object '<fE>'](https://github.com/Shopify/hydrogen/issues/1488)
