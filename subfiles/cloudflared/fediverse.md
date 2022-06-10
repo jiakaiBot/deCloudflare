@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,535 |
+| com | 2,540 |
 | net | 1,466 |
 | social | 1,115 |
-| org | 1,047 |
-| de | 917 |
+| org | 1,048 |
+| de | 919 |
 
 
 - Mastodon, Pleroma, etc
@@ -3239,6 +3239,7 @@ Here's a list of public Fediverse services.
 | cryptography.dog | No |
 | cryptoschizo.club | No |
 | cryptosocial.site | No |
+| cryptotooter.com | No |
 | cryptoworld.is | Yes |
 | cryptstore.cloud | Yes |
 | crystal-lang.social | Yes |
@@ -5789,6 +5790,7 @@ Here's a list of public Fediverse services.
 | gab.best | No |
 | gab.com | Yes |
 | gabble.xyz | No |
+| gabekangas.com | No |
 | gabfed.com | No |
 | gabi.is | No |
 | gabnotes.org | No |
@@ -6945,6 +6947,7 @@ Here's a list of public Fediverse services.
 | homeless.group | Yes |
 | homelinux.net | No |
 | homeplex.tk | No |
+| homeset.de | No |
 | homnomnom.fr | No |
 | homo.dev | No |
 | homo.social | Yes |
@@ -11326,6 +11329,7 @@ Here's a list of public Fediverse services.
 | namachan10777.dev | Yes |
 | namakajiri.net | No |
 | namedkitten.pw | No |
+| namelesscitizen.space | No |
 | nametaketakewo.net | Yes |
 | namok.be | No |
 | namtari.com | Yes |
@@ -12103,6 +12107,7 @@ Here's a list of public Fediverse services.
 | nyarr.dev | No |
 | nyawan.club | No |
 | nycr.social | Yes |
+| nye.lol | No |
 | nyerm.com | No |
 | nylarea.com | No |
 | nymclub.net | No |
@@ -13062,6 +13067,7 @@ Here's a list of public Fediverse services.
 | piperswe.me | Yes |
 | pipes.social | No |
 | pipou.academy | No |
+| piprate.com | No |
 | pira.jp | No |
 | pirata.xyz | No |
 | pirate.chat | Yes |
@@ -13342,7 +13348,9 @@ Here's a list of public Fediverse services.
 | pomdon.top | No |
 | pomdon.work | No |
 | pon.mt | No |
+| pona.la | No |
 | pona.social | No |
+| pondr.nl | No |
 | pondzu.com | No |
 | pone.social | No |
 | ponies.im | No |
@@ -14010,6 +14018,7 @@ Here's a list of public Fediverse services.
 | read-read.net | No |
 | readthefinemanual.net | No |
 | real-escape.jp | Yes |
+| real-ity.com | No |
 | real-life.social | No |
 | realitaetsverlust.rocks | No |
 | realityranch.net | No |
@@ -16018,6 +16027,7 @@ Here's a list of public Fediverse services.
 | suv.id.au | No |
 | suvpen.com | No |
 | suwa3.me | No |
+| suzu.eu.org | No |
 | suzume.life | No |
 | sv7.cc | No |
 | svallee.fr | No |
@@ -16651,6 +16661,7 @@ Here's a list of public Fediverse services.
 | thetower.xyz | No |
 | theubergroup.org | Yes |
 | theundead.cricket | No |
+| theunseen.city | No |
 | theurbanfarmer.org | No |
 | thevacuumof.space | No |
 | thevalley.social | No |
@@ -17472,6 +17483,7 @@ Here's a list of public Fediverse services.
 | unconfigu.red | No |
 | uncontrollablegas.com | No |
 | uncrtn.com | No |
+| undbeidirso.de | No |
 | undead.link | No |
 | undeadnetwork.de | No |
 | undefined.moe | Yes |
@@ -18180,6 +18192,7 @@ Here's a list of public Fediverse services.
 | westring.digital | No |
 | weststar.name | Yes |
 | wetdry.world | No |
+| wetermater.com | No |
 | wetfish.space | Yes |
 | wetofu.top | Yes |
 | wetsnow.com | No |
@@ -19092,7 +19105,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,642 |
-| Normal | 15,406 |
+| Normal | 15,419 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
