@@ -7790,6 +7790,7 @@ Do not create new issue or we will close it as duplicate.
 | [uzairabdul@twitter](https://twitter.com/uzairabdul/status/1393627317201620992) | advertise |
 | [UzairMan@twitter](https://twitter.com/UzairMan/status/1385198515861659649) | advertise |
 | [UZawhtetko@twitter](https://twitter.com/UZawhtetko/status/1391301927909007360) | advertise |
+| [uziblaze@twitter](https://twitter.com/uziblaze/status/1535307533119696896) | advertise |
 | [Uzino3@twitter](https://twitter.com/Uzino3/status/1401284260795863041) | advertise |
 | [uzormbakwem@twitter](https://twitter.com/uzormbakwem/status/1401281508636184576) | advertise |
 | [Uzumaki19799215@twitter](https://twitter.com/Uzumaki19799215/status/1404393913063034884) | advertise |
