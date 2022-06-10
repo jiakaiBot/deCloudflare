@@ -2195,6 +2195,7 @@ Do not create new issue or we will close it as duplicate.
 | [ggcc37590384@twitter](https://twitter.com/ggcc37590384/status/1489085811094016005) | advertise |
 | [Gggaaaaa5@twitter](https://twitter.com/Gggaaaaa5/status/1387836659631202304) | advertise |
 | [GgMg04587862@twitter](https://twitter.com/GgMg04587862/status/1392000179360788480) | advertise |
+| [GgUu18976278@twitter](https://twitter.com/GgUu18976278/status/1535274513042120705) | advertise |
 | [ghano_gh@twitter](https://twitter.com/ghano_gh/status/1403155628667850752) | advertise |
 | [Ghanshy81036106@twitter](https://twitter.com/Ghanshy81036106/status/1391609026148855812) | advertise |
 | [ghan_fkr@twitter](https://twitter.com/ghan_fkr/status/1375931749444677633) | advertise |
@@ -2365,6 +2366,7 @@ Do not create new issue or we will close it as duplicate.
 | [HammillGallery@twitter](https://twitter.com/HammillGallery/status/1484213755898597378) | advertise |
 | [hamolll@twitter](https://twitter.com/hamolll/status/1487817397415333888) | advertise |
 | [hana66669@twitter](https://twitter.com/hana66669/status/1379180701921148929) | advertise |
+| [hanas001@twitter](https://twitter.com/hanas001/status/1535270131479224321) | advertise |
 | [hanaz152@twitter](https://twitter.com/hanaz152/status/1489571828951498755) | advertise |
 | [Handler_0k@twitter](https://twitter.com/Handler_0k/status/1502685102081552388) | advertise |
 | [HaNgcThnh1@twitter](https://twitter.com/HaNgcThnh1/status/1474892457380700160) | advertise |
@@ -6606,6 +6608,7 @@ Do not create new issue or we will close it as duplicate.
 | [ShadowGamerz12@twitter](https://twitter.com/ShadowGamerz12/status/1386981568581824515) | advertise |
 | [ShagunDagar2@twitter](https://twitter.com/ShagunDagar2/status/1395023596439826435) | advertise |
 | [Shahbaz74136829@twitter](https://twitter.com/Shahbaz74136829/status/1405061089155596288) | advertise |
+| [Shahdtae77@twitter](https://twitter.com/Shahdtae77/status/1535227652545597442) | advertise |
 | [shaheerak11@twitter](https://twitter.com/shaheerak11/status/1391217998476693504) | advertise |
 | [Shahery82698385@twitter](https://twitter.com/Shahery82698385/status/1398776101107908609) | advertise |
 | [shahid63353166@twitter](https://twitter.com/shahid63353166/status/1475487826208706563) | advertise |
