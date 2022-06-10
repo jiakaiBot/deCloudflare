@@ -6856,7 +6856,7 @@ Here's a list of public Fediverse services.
 | hispagatos.org | Yes |
 | hispagatos.space | No |
 | hispanilandia.net | No |
-| hispatodon.club | No |
+| hispatodon.club | Yes |
 | hisso.li | No |
 | histoirescrepues.fr | No |
 | history.lol | No |
@@ -8752,6 +8752,7 @@ Here's a list of public Fediverse services.
 | ladisquette.fr | No |
 | ladn.org | No |
 | laeran.pl | Yes |
+| laernorsk.no | No |
 | laevateinn.tk | No |
 | lafermenumerique.com | Yes |
 | lagob.fr | No |
@@ -13830,7 +13831,7 @@ Here's a list of public Fediverse services.
 | r4o.jp | No |
 | r53.me | No |
 | r5c3.fr | No |
-| r669.live | No |
+| r669.live | Yes |
 | r88t.net | No |
 | ra-phi.ch | No |
 | raa0121.info | No |
@@ -19090,8 +19091,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,640 |
-| Normal | 15,407 |
+| Cloudflare | 3,642 |
+| Normal | 15,406 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
