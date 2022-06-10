@@ -53,7 +53,7 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 
 ### How to Subscribe
 
-1. Follow the [AltLink Account](https://101010.pl/@cat). (if you [do not have Mastodon account](https://101010.pl/invite/TDgu3GpQ))
+1. Follow the [AltLink Account](https://101010.pl/@mg). (if you [do not have Mastodon account](https://101010.pl/invite/TDgu3GpQ))
   - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking Altlink.
 
 2. Send _any text_ as **direct** message to above account. (e.g. `@accountname hi`)
@@ -146,4 +146,4 @@ The mascot wears a referee top and red sash across chest. Above the shield is 'M
 - ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared/fediverse.md)
 - ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared/shared_mastodon.md)
 
-<a rel="me" href="https://101010.pl/@cat"></a>
+<a rel="me" href="https://101010.pl/@mg"></a>
