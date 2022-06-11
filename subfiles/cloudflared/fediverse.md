@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,540 |
 | net | 1,466 |
-| social | 1,115 |
-| org | 1,048 |
+| social | 1,116 |
+| org | 1,049 |
 | de | 919 |
 
 
@@ -2605,6 +2605,7 @@ Here's a list of public Fediverse services.
 | cheeky.red | No |
 | cheerful.social | No |
 | cheesebsd.com | No |
+| cheeseburger.social | No |
 | cheesepark.io | No |
 | cheetah85.ovh | No |
 | chef-li.eu | No |
@@ -9546,6 +9547,7 @@ Here's a list of public Fediverse services.
 | lunarviews.net | No |
 | lunasqu.ee | No |
 | lunaticgeek.com | Yes |
+| lunaticsproject.org | No |
 | lunax.dev | Yes |
 | lundgrensjostrom.com | Yes |
 | lundi.am | No |
@@ -19105,7 +19107,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,642 |
-| Normal | 15,419 |
+| Normal | 15,421 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
