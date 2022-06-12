@@ -3628,8 +3628,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6582,6 +6582,7 @@ Do not create new issue or we will close it as duplicate.
 | [Senat_News@twitter](https://twitter.com/Senat_News/status/1400900293261410304) | advertise |
 | [seng1500@twitter](https://twitter.com/seng1500/status/1391818405162852355) | advertise |
 | [seng56247896@twitter](https://twitter.com/seng56247896/status/1394390113539567617) | advertise |
+| [senorganja@twitter](https://twitter.com/senorganja/status/1536000717227450369) | advertise |
 | [Senpai32219852@twitter](https://twitter.com/Senpai32219852/status/1493671781646974982) | advertise |
 | [senpei2000@twitter](https://twitter.com/senpei2000/status/1395706478577602561) | advertise |
 | [SEOforWebsite4@twitter](https://twitter.com/SEOforWebsite4/status/1374211700317032448) | advertise |
