@@ -56,7 +56,7 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 1. Follow the [AltLink Account](https://101010.pl/@mg). (if you [do not have Mastodon account](https://101010.pl/invite/TDgu3GpQ))
   - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking Altlink.
 
-2. Send _any text_ as **direct** message to above account. (e.g. `@accountname hi`)
+2. Send _any text_ as **direct** message to above account. (e.g. `@accountname ok`)
   - And it will follow back you _instantly_ with intro message.
     - If you're locking your account, please accept it's follow request otherwise it can't read your toots.
   - If you didn't got any reply make sure you are following it.
@@ -107,7 +107,9 @@ Put Cloudflared URL like this...
 
 ### Report a problem / Create an Issue
 
-(To use this you need to enable last option)
+- By default any direct message WILL NOT forwarded to issues for spam protection.
+  - You can enable this option by going to `Settings website` and turn on last option.
+
 You can create an Issue without git account. Just send a **direct** message.
 And don't worry,
 
