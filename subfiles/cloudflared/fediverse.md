@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,541 |
-| net | 1,466 |
-| social | 1,116 |
-| org | 1,049 |
+| net | 1,467 |
+| social | 1,117 |
+| org | 1,050 |
 | de | 919 |
 
 
@@ -4446,6 +4446,7 @@ Here's a list of public Fediverse services.
 | efwends.xyz | No |
 | egeg.fun | No |
 | egert.social | No |
+| eggfreckles.org | No |
 | eggp.me | No |
 | eggz.tv | No |
 | egirl.site | Yes |
@@ -7636,6 +7637,7 @@ Here's a list of public Fediverse services.
 | iut-larochelle.fr | No |
 | ivancan.com | No |
 | ivanfr.com | No |
+| ivanmendoza.net | No |
 | ivel.fr | No |
 | ivn.cx | Yes |
 | ivrianochi.com | No |
@@ -9168,7 +9170,7 @@ Here's a list of public Fediverse services.
 | liker.social | Yes |
 | lile.cl | Yes |
 | liliputech.com | No |
-| liliso.com | No |
+| liliso.com | Yes |
 | lilith.im | No |
 | lilledame.nl | No |
 | lillimi.com | No |
@@ -14527,6 +14529,7 @@ Here's a list of public Fediverse services.
 | saadnpq.com | No |
 | sabakan.industries | Yes |
 | sabatino.pro | No |
+| sabertooth.social | No |
 | sabordage.net | No |
 | sabre.social | No |
 | sac.moe | Yes |
@@ -19110,8 +19113,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,644 |
-| Normal | 15,423 |
+| Cloudflare | 3,645 |
+| Normal | 15,425 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
