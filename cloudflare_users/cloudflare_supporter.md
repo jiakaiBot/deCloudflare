@@ -6002,6 +6002,7 @@ Do not create new issue or we will close it as duplicate.
 | [PubgKin74586627@twitter](https://twitter.com/PubgKin74586627/status/1520304008841379841) | advertise |
 | [PubgKing5858@twitter](https://twitter.com/PubgKing5858/status/1387704039211769857) | advertise |
 | [Pubglovar16@twitter](https://twitter.com/Pubglovar16/status/1385165974412816384) | advertise |
+| [PubgmAfghanist1@twitter](https://twitter.com/PubgmAfghanist1/status/1535951408872230913) | advertise |
 | [PubRicardo@twitter](https://twitter.com/PubRicardo/status/1398443571536146435) | advertise |
 | [Pucuk15146444@twitter](https://twitter.com/Pucuk15146444/status/1395245832069210115) | advertise |
 | [PUJIANTO@twitter](https://twitter.com/PUJIANTO/status/1442524922501160971) | advertise |
