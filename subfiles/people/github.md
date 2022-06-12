@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to connect with built-in WebDJ or external software (MIXX)](https://github.com/AzuraCast/AzuraCast/issues/5494)
 - [Flaresolverr behind proxy](https://github.com/FlareSolverr/FlareSolverr/issues/403)
 - [Can’t turn off preloading of pages](https://github.com/kiwibrowser/src.next/issues/631)
 - [Please support skipFetchSetup for BscscanProvider and EtherscanProvider](https://github.com/ethers-io/ethers.js/issues/3067)
