@@ -183,6 +183,7 @@ Do not create new issue or we will close it as duplicate.
 | [AboOmar51183983@twitter](https://twitter.com/AboOmar51183983/status/1403644659516198912) | advertise |
 | [AboutBenidorm@twitter](https://twitter.com/AboutBenidorm/status/1418722295384879105) | advertise |
 | [ABRAHAM21227313@twitter](https://twitter.com/ABRAHAM21227313/status/1388051088507510794) | advertise |
+| [AbrahamHammoude@twitter](https://twitter.com/AbrahamHammoude/status/1535675719103172609) | advertise |
 | [Abre74180404@twitter](https://twitter.com/Abre74180404/status/1396704011009413120) | advertise |
 | [abusolegal@twitter](https://twitter.com/abusolegal/status/1516444548653854724) | advertise |
 | [AccioLaw@twitter](https://twitter.com/AccioLaw/status/1490055581062807553) | advertise |
@@ -266,6 +267,7 @@ Do not create new issue or we will close it as duplicate.
 | [AHMADSHAMSULAZ1@twitter](https://twitter.com/AHMADSHAMSULAZ1/status/1497963741874319360) | advertise |
 | [ahmad_antezar@twitter](https://twitter.com/ahmad_antezar/status/1532609013854109696) | advertise |
 | [ahmdh4474@twitter](https://twitter.com/ahmdh4474/status/1390763076660736001) | advertise |
+| [Ahmed57597025@twitter](https://twitter.com/Ahmed57597025/status/1535713741622370304) | advertise |
 | [AhmedAl87534372@twitter](https://twitter.com/AhmedAl87534372/status/1382167857501503492) | advertise |
 | [AhmedDeaf93@twitter](https://twitter.com/AhmedDeaf93/status/1494968949976571907) | advertise |
 | [AhmedFaried00@twitter](https://twitter.com/AhmedFaried00/status/1515013817318752262) | advertise |
@@ -3925,6 +3927,7 @@ Do not create new issue or we will close it as duplicate.
 | [KyawZay56182339@twitter](https://twitter.com/KyawZay56182339/status/1393281478071521284) | advertise |
 | [KyawZay77278853@twitter](https://twitter.com/KyawZay77278853/status/1389502978609065984) | advertise |
 | [KyawZay77555385@twitter](https://twitter.com/KyawZay77555385/status/1389817106221305856) | advertise |
+| [KyawZayaHtun5@twitter](https://twitter.com/KyawZayaHtun5/status/1535565212950351874) | advertise |
 | [kyawzayar_lwin@twitter](https://twitter.com/kyawzayar_lwin/status/1401922606261968897) | advertise |
 | [KyawZayerTun1@twitter](https://twitter.com/KyawZayerTun1/status/1393881451892985858) | advertise |
 | [kyawzayyaroo10@twitter](https://twitter.com/kyawzayyaroo10/status/1392513882762190853) | advertise |
@@ -4356,6 +4359,7 @@ Do not create new issue or we will close it as duplicate.
 | [MANTEAU110@twitter](https://twitter.com/MANTEAU110/status/1486579011988107264) | advertise |
 | [manthanrana@twitter](https://twitter.com/manthanrana/status/1505067100888788992) | advertise |
 | [Manuel567912971@twitter](https://twitter.com/Manuel567912971/status/1496387468731506690) | advertise |
+| [manuelangelotem@twitter](https://twitter.com/manuelangelotem/status/1535479570513600512) | advertise |
 | [manueltcl@twitter](https://twitter.com/manueltcl/status/1446279919022092292) | advertise |
 | [manveerkhubber2@twitter](https://twitter.com/manveerkhubber2/status/1396747736863559680) | advertise |
 | [manwiththelens@twitter](https://twitter.com/manwiththelens/status/1452280682613444608) | advertise |
@@ -7933,6 +7937,7 @@ Do not create new issue or we will close it as duplicate.
 | [Wadawn15@twitter](https://twitter.com/Wadawn15/status/1396809468005036034) | advertise |
 | [Waelelsayed56@twitter](https://twitter.com/Waelelsayed56/status/1397011445435469824) | advertise |
 | [wael_shamsedin@twitter](https://twitter.com/wael_shamsedin/status/1522288287284711427) | advertise |
+| [Waffle2175@twitter](https://twitter.com/Waffle2175/status/1535801167816577024) | advertise |
 | [wahib0206@twitter](https://twitter.com/wahib0206/status/1522471146721099778) | advertise |
 | [WahidKh61073340@twitter](https://twitter.com/WahidKh61073340/status/1483196682267463682) | advertise |
 | [WahWahKhaing18@twitter](https://twitter.com/WahWahKhaing18/status/1390549494274551814) | advertise |
@@ -8086,6 +8091,7 @@ Do not create new issue or we will close it as duplicate.
 | [wis_ais@twitter](https://twitter.com/wis_ais/status/1393090766000459776) | advertise |
 | [WitchaneeFC@twitter](https://twitter.com/WitchaneeFC/status/1519470393102577664) | advertise |
 | [WitchlyHost@twitter](https://twitter.com/WitchlyHost/status/1531595477376180224) | advertise |
+| [witthaya2015@twitter](https://twitter.com/witthaya2015/status/1535876060289826817) | advertise |
 | [Wizardink553@twitter](https://twitter.com/Wizardink553/status/1494706705057214464) | advertise |
 | [wizkhalifaedgar@twitter](https://twitter.com/wizkhalifaedgar/status/1493223256580624385) | advertise |
 | [wizkiller96@twitter](https://twitter.com/wizkiller96/status/1381748522094051329) | advertise |
