@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,540 |
+| com | 2,541 |
 | net | 1,466 |
 | social | 1,116 |
 | org | 1,049 |
@@ -833,6 +833,7 @@ Here's a list of public Fediverse services.
 | andersen.social | No |
 | andie.club | No |
 | andreasrohner.at | No |
+| andresbilevich.com | No |
 | andresen.mx | No |
 | andrewbarnes.design | No |
 | andrewmichaud.com | No |
@@ -1121,7 +1122,7 @@ Here's a list of public Fediverse services.
 | asafniv.me | No |
 | asal.cloud | No |
 | ascendtoday.link | No |
-| aschwege.me | No |
+| aschwege.me | Yes |
 | ascll.net | No |
 | ascraeus.org | No |
 | aseanbar.camp | No |
@@ -2454,6 +2455,7 @@ Here's a list of public Fediverse services.
 | catgirls.science | Yes |
 | catgirlsfor.science | Yes |
 | catgirlsin.space | No |
+| catgram.co | Yes |
 | catgram.jp | Yes |
 | cathode.church | No |
 | cathoderay.tube | Yes |
@@ -4446,7 +4448,7 @@ Here's a list of public Fediverse services.
 | egert.social | No |
 | eggp.me | No |
 | eggz.tv | No |
-| egirl.site | No |
+| egirl.site | Yes |
 | egirls.gay | No |
 | eglo.ga | No |
 | egotrip.me | No |
@@ -5536,6 +5538,7 @@ Here's a list of public Fediverse services.
 | freewahaextremist.wtf | No |
 | freewheel.social | No |
 | freezepeach.xyz | Yes |
+| frehi.be | No |
 | frei.social | Yes |
 | freiburg.social | No |
 | freifalt.org | No |
@@ -11904,6 +11907,7 @@ Here's a list of public Fediverse services.
 | noodle.social | No |
 | noods.fun | Yes |
 | noon.social | No |
+| noordstar.me | No |
 | noorul.xyz | Yes |
 | noostache.fr | No |
 | noovi.org | No |
@@ -17473,7 +17477,7 @@ Here's a list of public Fediverse services.
 | un-zero-un.net | No |
 | unadon.club | No |
 | unanargeek.xyz | No |
-| unasuke.com | No |
+| unasuke.com | Yes |
 | unattributed.cc | No |
 | unbl.ink | No |
 | unbound.social | No |
@@ -17654,7 +17658,7 @@ Here's a list of public Fediverse services.
 | utopia.cool | No |
 | utopiaeducators.com | No |
 | utopiamachines.com | No |
-| utronium.xyz | Yes |
+| utronium.xyz | No |
 | utter.studio | No |
 | utwente.nl | No |
 | utxo.id | No |
@@ -17665,7 +17669,7 @@ Here's a list of public Fediverse services.
 | uvensys.social | No |
 | uvok.de | No |
 | uvolante.org | No |
-| uwah.moe | Yes |
+| uwah.moe | No |
 | uwan.net | No |
 | uwu.engineering | No |
 | uwu.is | No |
@@ -19106,8 +19110,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,642 |
-| Normal | 15,421 |
+| Cloudflare | 3,644 |
+| Normal | 15,423 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
