@@ -6986,6 +6986,7 @@ Do not create new issue or we will close it as duplicate.
 | [super_zola@twitter](https://twitter.com/super_zola/status/1392056516908179460) | advertise |
 | [Supmate20@twitter](https://twitter.com/Supmate20/status/1404358730683199492) | advertise |
 | [Supplescores@twitter](https://twitter.com/Supplescores/status/1403680949917913092) | advertise |
+| [supportman@twitter](https://twitter.com/supportman/status/1535763295797493760) | advertise |
 | [suraj_choube@twitter](https://twitter.com/suraj_choube/status/1487436176567193602) | advertise |
 | [surbroadcast@twitter](https://twitter.com/surbroadcast/status/1477792731636371464) | advertise |
 | [SURYANS83414456@twitter](https://twitter.com/SURYANS83414456/status/1399272451985461250) | advertise |
