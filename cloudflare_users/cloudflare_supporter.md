@@ -4155,6 +4155,7 @@ Do not create new issue or we will close it as duplicate.
 | [lknk_adorebot@twitter](https://twitter.com/lknk_adorebot/status/1390972492995432454) | advertise |
 | [llama_cadu@twitter](https://twitter.com/llama_cadu/status/1480054499846856710) | advertise |
 | [LlcBillionaire@twitter](https://twitter.com/LlcBillionaire/status/1498441224264552455) | advertise |
+| [lloydkissoon3@twitter](https://twitter.com/lloydkissoon3/status/1536419970590158848) | advertise |
 | [llteky@twitter](https://twitter.com/llteky/status/1529935561091432453) | advertise |
 | [LluDavil@twitter](https://twitter.com/LluDavil/status/1493158792003207169) | advertise |
 | [ll_ofi@twitter](https://twitter.com/ll_ofi/status/1490596081264214016) | advertise |
@@ -5909,6 +5910,7 @@ Do not create new issue or we will close it as duplicate.
 | [pkworlz@twitter](https://twitter.com/pkworlz/status/1475561304786046977) | advertise |
 | [Pl47926009@twitter](https://twitter.com/Pl47926009/status/1395366611989655553) | advertise |
 | [Plan43611745@twitter](https://twitter.com/Plan43611745/status/1399656503079018497) | advertise |
+| [Plang04546316@twitter](https://twitter.com/Plang04546316/status/1536426694986420225) | advertise |
 | [plda24@twitter](https://twitter.com/plda24/status/1394881939765555200) | advertise |
 | [PlHustla@twitter](https://twitter.com/PlHustla/status/1396266245696143361) | advertise |
 | [plnAhResBLcWi30@twitter](https://twitter.com/plnAhResBLcWi30/status/1390338116418891778) | advertise |
