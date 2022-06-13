@@ -4163,6 +4163,7 @@ Do not create new issue or we will close it as duplicate.
 | [LmSkyler1@twitter](https://twitter.com/LmSkyler1/status/1480205347851993099) | advertise |
 | [lmtxxx2@twitter](https://twitter.com/lmtxxx2/status/1470622176097501185) | advertise |
 | [lmvntruong@twitter](https://twitter.com/lmvntruong/status/1380895642462023682) | advertise |
+| [lnguyenduc997@twitter](https://twitter.com/lnguyenduc997/status/1536404693668073472) | advertise |
 | [LNguynXunSn1@twitter](https://twitter.com/LNguynXunSn1/status/1485459472827166721) | advertise |
 | [LNhnHong1@twitter](https://twitter.com/LNhnHong1/status/1400851165248585730) | advertise |
 | [Loctran78766971@twitter](https://twitter.com/Loctran78766971/status/1378360177724776450) | advertise |
