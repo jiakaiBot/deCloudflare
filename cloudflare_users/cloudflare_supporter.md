@@ -927,6 +927,7 @@ Do not create new issue or we will close it as duplicate.
 | [banyaraung528@twitter](https://twitter.com/banyaraung528/status/1392892540995588096) | advertise |
 | [bao85639159@twitter](https://twitter.com/bao85639159/status/1379009039988748289) | advertise |
 | [baogaooo@twitter](https://twitter.com/baogaooo/status/1481173397111738370) | advertise |
+| [Baomilos4@twitter](https://twitter.com/Baomilos4/status/1536315085475328001) | advertise |
 | [baovanhu012345@twitter](https://twitter.com/baovanhu012345/status/1387935168267096068) | advertise |
 | [bao_ruan@twitter](https://twitter.com/bao_ruan/status/1399224252474171393) | advertise |
 | [bapipadhiary123@twitter](https://twitter.com/bapipadhiary123/status/1397088737125756928) | advertise |
@@ -1441,6 +1442,7 @@ Do not create new issue or we will close it as duplicate.
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
 | [crisnguyen0809@twitter](https://twitter.com/crisnguyen0809/status/1404837227679555591) | advertise |
+| [crofflendcoffee@twitter](https://twitter.com/crofflendcoffee/status/1536313341504720896) | advertise |
 | [CRONUSISLIVE@twitter](https://twitter.com/CRONUSISLIVE/status/1513956818644783104) | advertise |
 | [crosiderr@twitter](https://twitter.com/crosiderr/status/1379494464545243136) | advertise |
 | [CrusaderConsta1@twitter](https://twitter.com/CrusaderConsta1/status/1524146353596936192) | advertise |
@@ -8347,6 +8349,7 @@ Do not create new issue or we will close it as duplicate.
 | [YoonYuYuNaing1@twitter](https://twitter.com/YoonYuYuNaing1/status/1390247348425478144) | advertise |
 | [Yooo87662562@twitter](https://twitter.com/Yooo87662562/status/1395544104717586435) | advertise |
 | [YoungHo02960237@twitter](https://twitter.com/YoungHo02960237/status/1391691366099570689) | advertise |
+| [Youngking25555@twitter](https://twitter.com/Youngking25555/status/1536301530193743872) | advertise |
 | [youngmao89@twitter](https://twitter.com/youngmao89/status/1478019085409533955) | advertise |
 | [YourDad50670613@twitter](https://twitter.com/YourDad50670613/status/1404477486487019527) | advertise |
 | [yourname1145@twitter](https://twitter.com/yourname1145/status/1485279023383334919) | advertise |
