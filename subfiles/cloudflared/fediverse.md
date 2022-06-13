@@ -183,7 +183,7 @@ Here's a list of public Fediverse services.
 | 334.ovh | Yes |
 | 338338.xyz | Yes |
 | 33chan.xyz | No |
-| 346production.jp | No |
+| 346production.jp | Yes |
 | 39.gy | Yes |
 | 39sounds.net | No |
 | 3cat.icu | No |
@@ -467,6 +467,7 @@ Here's a list of public Fediverse services.
 | adhoc.group | No |
 | adhoc.systems | No |
 | adhocmusic.com | No |
+| adjutor.xyz | No |
 | adlerweb.info | No |
 | adminit.cz | No |
 | admins.town | No |
@@ -5346,7 +5347,7 @@ Here's a list of public Fediverse services.
 | flying-snail.de | No |
 | flyingcube.tech | No |
 | flytandemeistring.space | No |
-| fm32.com.br | No |
+| fm32.com.br | Yes |
 | fmind.me | No |
 | fmty.cloud | Yes |
 | fnordica.de | No |
@@ -18740,6 +18741,7 @@ Here's a list of public Fediverse services.
 | yasaiseikatsu.net | No |
 | yasi2.com | Yes |
 | yaskey.tokyo | No |
+| yastodon.xyz | Yes |
 | yasudon.jp | No |
 | yatil.net | No |
 | yatno.web.id | No |
@@ -19113,8 +19115,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,645 |
-| Normal | 15,425 |
+| Cloudflare | 3,648 |
+| Normal | 15,424 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
