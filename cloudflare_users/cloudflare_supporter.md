@@ -3397,6 +3397,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kasie100000@twitter](https://twitter.com/Kasie100000/status/1493728381715714050) | advertise |
 | [Kasimkh32639710@twitter](https://twitter.com/Kasimkh32639710/status/1377682614291623936) | advertise |
 | [kasote_umesh@twitter](https://twitter.com/kasote_umesh/status/1401374822593007631) | advertise |
+| [katabame@twitter](https://twitter.com/katabame/status/1536352425363533824) | advertise |
 | [KatAmyVega@twitter](https://twitter.com/KatAmyVega/status/1494217427281846276) | advertise |
 | [kataroudy@twitter](https://twitter.com/kataroudy/status/1512105904472215559) | advertise |
 | [KateNguyn20@twitter](https://twitter.com/KateNguyn20/status/1380191904990588929) | advertise |
