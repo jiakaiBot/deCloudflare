@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,541 |
-| net | 1,467 |
-| social | 1,117 |
+| com | 2,543 |
+| net | 1,468 |
+| social | 1,118 |
 | org | 1,050 |
-| de | 919 |
+| de | 922 |
 
 
 - Mastodon, Pleroma, etc
@@ -278,7 +278,7 @@ Here's a list of public Fediverse services.
 | 68kmentat.com | No |
 | 69.mu | No |
 | 6921.space | No |
-| 6i6.club | Yes |
+| 6i6.club | No |
 | 6paperplanes.net | No |
 | 6q0.net | No |
 | 6wsw9.com | No |
@@ -1504,6 +1504,7 @@ Here's a list of public Fediverse services.
 | bascht.space | No |
 | base52.net | No |
 | based.directory | No |
+| based.quest | Yes |
 | based.social | Yes |
 | basedship.xyz | Yes |
 | baselab.org | No |
@@ -2682,6 +2683,7 @@ Here's a list of public Fediverse services.
 | chokecherry.cc | Yes |
 | chomp.life | No |
 | choochoo.space | No |
+| chor-blog.de | No |
 | chordtoll.com | Yes |
 | chordwiki.org | Yes |
 | chorus.space | No |
@@ -3862,6 +3864,7 @@ Here's a list of public Fediverse services.
 | dexonline.ro | No |
 | deyes.im | No |
 | dezilla.de | No |
+| dffm.de | No |
 | dflatmajor.social | No |
 | dftba.xyz | Yes |
 | dg74.pro | No |
@@ -4160,6 +4163,7 @@ Here's a list of public Fediverse services.
 | doxa.jp | No |
 | dozine.xyz | No |
 | dpc.pw | No |
+| dphin.com | Yes |
 | dpost.jp | No |
 | dprj.xyz | No |
 | dq10.online | Yes |
@@ -5058,6 +5062,7 @@ Here's a list of public Fediverse services.
 | fedifilth.com | No |
 | fedifilth.tk | No |
 | fedifilth.xyz | Yes |
+| fedifit.site | No |
 | fedigram.com | No |
 | fedigram.social | No |
 | fedihub.com | No |
@@ -8212,6 +8217,7 @@ Here's a list of public Fediverse services.
 | kawaii.dev | No |
 | kawaii.social | No |
 | kawaiidelic.space | No |
+| kawaiipunk.xyz | No |
 | kawaiistu.moe | No |
 | kawaiyume.net | No |
 | kawamr.com | No |
@@ -9497,6 +9503,7 @@ Here's a list of public Fediverse services.
 | lt3.co.za | No |
 | ltch.fr | No |
 | ltu.social | No |
+| lu-rp.net | Yes |
 | lua-mu.org | No |
 | lubakiagenda.net | No |
 | lubar.me | Yes |
@@ -10957,6 +10964,7 @@ Here's a list of public Fediverse services.
 | moxxis.space | No |
 | moytura.org | No |
 | moyu.foundation | Yes |
+| moyu.social | Yes |
 | mozcmozc.club | No |
 | moztodon.nl | No |
 | mp-tube.de | No |
@@ -12408,6 +12416,7 @@ Here's a list of public Fediverse services.
 | oppo.camp | No |
 | opportunis.me | No |
 | oppression.systems | No |
+| opprimonational.com | No |
 | opravljam.ga | No |
 | opsecwin.com | Yes |
 | opsnotice.xyz | Yes |
@@ -17866,6 +17875,7 @@ Here's a list of public Fediverse services.
 | vindi.ca | Yes |
 | vinilox.eu | No |
 | vinodjam.com | No |
+| vinyl-41.de | No |
 | vinylor.com | Yes |
 | vinzv.space | No |
 | violet.lol | No |
@@ -19115,8 +19125,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,648 |
-| Normal | 15,424 |
+| Cloudflare | 3,651 |
+| Normal | 15,431 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
