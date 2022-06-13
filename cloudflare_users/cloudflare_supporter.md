@@ -3223,6 +3223,7 @@ Do not create new issue or we will close it as duplicate.
 | [joeautogarage@twitter](https://twitter.com/joeautogarage/status/1497663842184167425) | advertise |
 | [Joel70742388@twitter](https://twitter.com/Joel70742388/status/1388477855760191489) | advertise |
 | [joel_se1@twitter](https://twitter.com/joel_se1/status/1534240792834981889) | advertise |
+| [Joel_Suarez32@twitter](https://twitter.com/Joel_Suarez32/status/1536450398327820288) | advertise |
 | [joem5636@twitter](https://twitter.com/joem5636/status/1503136400769789959) | advertise |
 | [joeysmi02926335@twitter](https://twitter.com/joeysmi02926335/status/1398519469115387904) | advertise |
 | [JoeyVK@twitter](https://twitter.com/JoeyVK/status/1406946607854231554) | advertise |
@@ -4758,6 +4759,7 @@ Do not create new issue or we will close it as duplicate.
 | [moaminsol@twitter](https://twitter.com/moaminsol/status/1389099210008584193) | advertise |
 | [moatasemzreg@twitter](https://twitter.com/moatasemzreg/status/1380864049727037443) | advertise |
 | [moaz26943193@twitter](https://twitter.com/moaz26943193/status/1386781541536210946) | advertise |
+| [mochiimiin2@twitter](https://twitter.com/mochiimiin2/status/1536445206970650625) | advertise |
 | [ModassirShaikha@twitter](https://twitter.com/ModassirShaikha/status/1397247501288226816) | advertise |
 | [Modisemolato1@twitter](https://twitter.com/Modisemolato1/status/1403362595529179142) | advertise |
 | [MoeHtun15@twitter](https://twitter.com/MoeHtun15/status/1393738509442297857) | advertise |
