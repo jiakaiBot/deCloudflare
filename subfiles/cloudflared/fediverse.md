@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,543 |
+| com | 2,545 |
 | net | 1,468 |
 | social | 1,118 |
 | org | 1,050 |
@@ -9577,6 +9577,7 @@ Here's a list of public Fediverse services.
 | lushka.ml | No |
 | lust.works | No |
 | luther.social | No |
+| luttyz.ml | No |
 | lutz.im | No |
 | luuk180.dev | Yes |
 | luvdon.cc | No |
@@ -12669,6 +12670,7 @@ Here's a list of public Fediverse services.
 | pagekite.me | No |
 | pagez.co.uk | No |
 | pah.social | No |
+| paidspeechextremist.com | No |
 | pain.moe | Yes |
 | painkiller.es | No |
 | paintacu.be | No |
@@ -12817,6 +12819,7 @@ Here's a list of public Fediverse services.
 | pdx.social | No |
 | pea.sh | No |
 | peacefrogs.net | No |
+| peacememori.es | No |
 | peach.dog | Yes |
 | peachybat.com | No |
 | peakimage.net | Yes |
@@ -13758,6 +13761,7 @@ Here's a list of public Fediverse services.
 | quantube.win | Yes |
 | quantumheap.net | No |
 | quantumindigo.org | Yes |
+| quaoar.xyz | Yes |
 | quarterbacks.win | Yes |
 | quarteredcircle.net | No |
 | quasi.social | No |
@@ -18211,6 +18215,7 @@ Here's a list of public Fediverse services.
 | westernconnect.org | No |
 | westring.digital | No |
 | weststar.name | Yes |
+| wetalkyoulisten.com | Yes |
 | wetdry.world | No |
 | wetermater.com | No |
 | wetfish.space | Yes |
@@ -18279,6 +18284,7 @@ Here's a list of public Fediverse services.
 | wildcritters.org | No |
 | wilde.cloud | No |
 | wildeboer.net | No |
+| wildsplash.photography | No |
 | wildtree.jp | No |
 | wildwestbookclub.xyz | No |
 | wildwildwestcountry.uk | No |
@@ -19125,8 +19131,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,651 |
-| Normal | 15,431 |
+| Cloudflare | 3,653 |
+| Normal | 15,435 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
