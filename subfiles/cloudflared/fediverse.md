@@ -325,7 +325,7 @@ Here's a list of public Fediverse services.
 | 9til.de | No |
 | 9uelle.jp | No |
 | a-apple.net | No |
-| a-db.fr | No |
+| a-db.fr | Yes |
 | a-kar.in | Yes |
 | a-lec.org | No |
 | a-room-ones-own.me | No |
@@ -8349,6 +8349,7 @@ Here's a list of public Fediverse services.
 | kigurumi.fans | No |
 | kigurumi.fun | No |
 | kiichan.space | No |
+| kiiro.dev | No |
 | kijowski.dev | No |
 | kikes.xyz | No |
 | kikoune.fr | No |
@@ -18787,7 +18788,7 @@ Here's a list of public Fediverse services.
 | yibo.blog | No |
 | yidhra.farm | No |
 | yidian.ga | No |
-| yiff.agency | Yes |
+| yiff.agency | No |
 | yiff.co | Yes |
 | yiff.fyi | No |
 | yiff.life | Yes |
@@ -19132,7 +19133,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,653 |
-| Normal | 15,435 |
+| Normal | 15,436 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
