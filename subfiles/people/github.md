@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [append inbound dokodemo-door won't open the port](https://github.com/XTLS/Xray-core/issues/1109)
 - [Medium posts and 404 error](https://github.com/FlareSolverr/FlareSolverr/issues/405)
 - [Unable to connect with built-in WebDJ or external software (MIXX)](https://github.com/AzuraCast/AzuraCast/issues/5494)
 - [Flaresolverr behind proxy](https://github.com/FlareSolverr/FlareSolverr/issues/403)
