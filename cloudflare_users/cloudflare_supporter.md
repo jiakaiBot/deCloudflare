@@ -173,6 +173,7 @@ Do not create new issue or we will close it as duplicate.
 | [ABHISHE37009598@twitter](https://twitter.com/ABHISHE37009598/status/1399403672002457605) | advertise |
 | [abhishekFactory@twitter](https://twitter.com/abhishekFactory/status/1510363217624711170) | advertise |
 | [AbhishekNag27@twitter](https://twitter.com/AbhishekNag27/status/1388448265469714432) | advertise |
+| [Abhishesh24@twitter](https://twitter.com/Abhishesh24/status/1536930185718956032) | advertise |
 | [abkrimms@twitter](https://twitter.com/abkrimms/status/1456514766554402859) | advertise |
 | [abney77580215@twitter](https://twitter.com/abney77580215/status/1508581283072548873) | advertise |
 | [abodadas123@twitter](https://twitter.com/abodadas123/status/1473682732354084870) | advertise |
@@ -424,6 +425,7 @@ Do not create new issue or we will close it as duplicate.
 | [amirchitgaran@twitter](https://twitter.com/amirchitgaran/status/1384197111500083214) | advertise |
 | [AmirFusaini@twitter](https://twitter.com/AmirFusaini/status/1399362665416314883) | advertise |
 | [Amirh_1991@twitter](https://twitter.com/Amirh_1991/status/1530140150327541762) | advertise |
+| [AmirMansoury@twitter](https://twitter.com/AmirMansoury/status/1536930486601195520) | advertise |
 | [AmirShamaei@twitter](https://twitter.com/AmirShamaei/status/1380125118387589121) | advertise |
 | [AmirullAyob@twitter](https://twitter.com/AmirullAyob/status/1474048815149682689) | advertise |
 | [AmitSin32558267@twitter](https://twitter.com/AmitSin32558267/status/1483704135405142016) | advertise |
@@ -947,6 +949,7 @@ Do not create new issue or we will close it as duplicate.
 | [bay_yellk@twitter](https://twitter.com/bay_yellk/status/1405940589284233220) | advertise |
 | [ba_gyee@twitter](https://twitter.com/ba_gyee/status/1393872315771850752) | advertise |
 | [bbbbba911@twitter](https://twitter.com/bbbbba911/status/1402935512663535618) | advertise |
+| [bbcha11793920@twitter](https://twitter.com/bbcha11793920/status/1536942284989943808) | advertise |
 | [Bbin23638730@twitter](https://twitter.com/Bbin23638730/status/1386172036981006336) | advertise |
 | [BBuZLYHHQ1iEopD@twitter](https://twitter.com/BBuZLYHHQ1iEopD/status/1398583949593518080) | advertise |
 | [Bch85570855@twitter](https://twitter.com/Bch85570855/status/1388307374671228928) | advertise |
@@ -2554,6 +2557,7 @@ Do not create new issue or we will close it as duplicate.
 | [HiYn93232026@twitter](https://twitter.com/HiYn93232026/status/1399208059197526023) | advertise |
 | [HJSIM798@twitter](https://twitter.com/HJSIM798/status/1484356413040508929) | advertise |
 | [Hkk65603236@twitter](https://twitter.com/Hkk65603236/status/1391694154413969412) | advertise |
+| [HKlowss123@twitter](https://twitter.com/HKlowss123/status/1536946816260132864) | advertise |
 | [HK_UFFY@twitter](https://twitter.com/HK_UFFY/status/1534763124024303616) | advertise |
 | [HL70497231@twitter](https://twitter.com/HL70497231/status/1379082920967630851) | advertise |
 | [hlaine_thet@twitter](https://twitter.com/hlaine_thet/status/1389603958210146305) | advertise |
@@ -2601,6 +2605,7 @@ Do not create new issue or we will close it as duplicate.
 | [hninyumaw8@twitter](https://twitter.com/hninyumaw8/status/1400855702441127938) | advertise |
 | [HninYuW82574084@twitter](https://twitter.com/HninYuW82574084/status/1396071591411216388) | advertise |
 | [hNYFxvRiuF94Rng@twitter](https://twitter.com/hNYFxvRiuF94Rng/status/1389943967907663878) | advertise |
+| [hn_f22@twitter](https://twitter.com/hn_f22/status/1536824233799581699) | advertise |
 | [Hoa10043102@twitter](https://twitter.com/Hoa10043102/status/1381035225271046144) | advertise |
 | [Hoa22631939Minh@twitter](https://twitter.com/Hoa22631939Minh/status/1485863462912020488) | advertise |
 | [Hoa74790866@twitter](https://twitter.com/Hoa74790866/status/1533060867063164928) | advertise |
@@ -3290,6 +3295,7 @@ Do not create new issue or we will close it as duplicate.
 | [jrzcinco@twitter](https://twitter.com/jrzcinco/status/1520183037165813760) | advertise |
 | [Jscns2@twitter](https://twitter.com/Jscns2/status/1490713060692328448) | advertise |
 | [JSongtakri@twitter](https://twitter.com/JSongtakri/status/1380804099340439556) | advertise |
+| [jst79@twitter](https://twitter.com/jst79/status/1536882259101290496) | advertise |
 | [JTdoodler@twitter](https://twitter.com/JTdoodler/status/1441130159227252738) | advertise |
 | [JuanHerna132@twitter](https://twitter.com/JuanHerna132/status/1514846521870589954) | advertise |
 | [JubearHossan@twitter](https://twitter.com/JubearHossan/status/1472037401329504257) | advertise |
