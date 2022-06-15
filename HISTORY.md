@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-06-14: [R2 Intermittent 500 HTTP responses](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gb059wk7tgzk)
 - 2022-06-13: [DNS resolution latency in Fuzhou, Kuala Lumpur, Salt Lake City, Lisbon, and Bangalore datacenters](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yxgmbc5wxqbj)
 - 2022-06-10: [Logpush Jobs](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/j14p5cst64f6)
 - 2022-06-07: [Network Performance Issue in Asia Pacific, Middle East, and Africa.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/p8j1k5r437ql)
