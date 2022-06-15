@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,545 |
-| net | 1,468 |
+| net | 1,469 |
 | social | 1,118 |
-| org | 1,051 |
-| de | 923 |
+| org | 1,052 |
+| de | 924 |
 
 
 - Mastodon, Pleroma, etc
@@ -68,6 +68,7 @@ Here's a list of public Fediverse services.
 | 0x0.st | No |
 | 0x0a.network | No |
 | 0x0x.dev | No |
+| 0x10a9b.pw | No |
 | 0x2a.club | No |
 | 0x2b375.moe | No |
 | 0x3c.pl | Yes |
@@ -1664,6 +1665,7 @@ Here's a list of public Fediverse services.
 | besaid.de | No |
 | besetzt.org | No |
 | besirovic.com | No |
+| besofa.de | No |
 | besseling.social | Yes |
 | bessonnica.org | Yes |
 | best-friends.chat | No |
@@ -14850,6 +14852,7 @@ Here's a list of public Fediverse services.
 | scwhost.org | No |
 | scy.name | No |
 | scyldings.com | No |
+| sda1.net | Yes |
 | sdc.su | Yes |
 | sdeu.fr | No |
 | sdf.org | No |
@@ -16303,6 +16306,7 @@ Here's a list of public Fediverse services.
 | tatersocial.com | No |
 | tatha.studio | No |
 | tati.at | No |
+| tatmius.tk | No |
 | tatooine.space | No |
 | tatu.la | Yes |
 | taullo.social | No |
@@ -16895,6 +16899,7 @@ Here's a list of public Fediverse services.
 | toeushimwk.work | No |
 | tofu.city | No |
 | tofu.kim | Yes |
+| tofu.pt | No |
 | tofulab.jp | No |
 | togart.de | No |
 | togethr.party | Yes |
@@ -17747,6 +17752,7 @@ Here's a list of public Fediverse services.
 | vandoeuvre.net | No |
 | vandrare.page | No |
 | vanoix.com | No |
+| vanzunderd.eu | No |
 | vapedon.club | No |
 | vapefam.fun | Yes |
 | vapers.jp | No |
@@ -18000,6 +18006,7 @@ Here's a list of public Fediverse services.
 | vtopia.live | No |
 | vtube.media | No |
 | vtube.space | No |
+| vtuber.eu.org | No |
 | vuc.me | No |
 | vucica.net | No |
 | vulcantv.net | No |
@@ -18439,6 +18446,7 @@ Here's a list of public Fediverse services.
 | worst-friends.chat | Yes |
 | wos.la | Yes |
 | wovensoup.com | No |
+| wovs.tk | No |
 | wowana.me | No |
 | wowsdon.xyz | No |
 | wp-social.net | No |
@@ -19099,6 +19107,7 @@ Here's a list of public Fediverse services.
 | zowi.ee | No |
 | zoz-serv.org | No |
 | zozzle.xyz | No |
+| zr.si | Yes |
 | zrx.one | No |
 | zrythm.org | No |
 | zsemberi.de | No |
@@ -19134,8 +19143,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,654 |
-| Normal | 15,437 |
+| Cloudflare | 3,656 |
+| Normal | 15,444 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
