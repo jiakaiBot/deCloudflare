@@ -5719,6 +5719,7 @@ Do not create new issue or we will close it as duplicate.
 | [PatrickHonorez@twitter](https://twitter.com/PatrickHonorez/status/1486822811796750343) | advertise |
 | [PatrickLNorman@twitter](https://twitter.com/PatrickLNorman/status/1378071182319222788) | advertise |
 | [PAtt20022998@twitter](https://twitter.com/PAtt20022998/status/1392449578453008389) | advertise |
+| [Pattenden_D_D@twitter](https://twitter.com/Pattenden_D_D/status/1536872188074201089) | advertise |
 | [PauktawHero@twitter](https://twitter.com/PauktawHero/status/1393646936708636673) | advertise |
 | [PaulBarwick11@twitter](https://twitter.com/PaulBarwick11/status/1467967262510387200) | advertise |
 | [Paulkessakorn@twitter](https://twitter.com/Paulkessakorn/status/1378247796487114754) | advertise |
