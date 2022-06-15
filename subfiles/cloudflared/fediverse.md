@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 2,545 |
 | net | 1,468 |
 | social | 1,118 |
-| org | 1,050 |
-| de | 922 |
+| org | 1,051 |
+| de | 923 |
 
 
 - Mastodon, Pleroma, etc
@@ -15337,6 +15337,7 @@ Here's a list of public Fediverse services.
 | slumpedoverkeyboarddead.com | Yes |
 | slv-valbonne.fr | No |
 | sm-mstdn.com | No |
+| small-web.org | No |
 | smallbooks.com.tw | No |
 | smallcamp.art | No |
 | smallint.net | No |
@@ -15518,6 +15519,7 @@ Here's a list of public Fediverse services.
 | solarpunkcanuck.ca | No |
 | solarpunks.blog | No |
 | solarpunks.social | No |
+| solchefreu.de | No |
 | soldyn.net | Yes |
 | soleus.nu | No |
 | solhack.com | Yes |
@@ -16944,7 +16946,7 @@ Here's a list of public Fediverse services.
 | toon.social | No |
 | toonbook-rewritten.me | No |
 | toontoet.nl | No |
-| toony.club | No |
+| toony.club | Yes |
 | tooot.im | No |
 | toortu.ga | No |
 | toot-bionaut.de | No |
@@ -19132,8 +19134,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,653 |
-| Normal | 15,436 |
+| Cloudflare | 3,654 |
+| Normal | 15,437 |
 
 
 ### 19.1% of public Fediverse services are using Cloudflare.
