@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cache /sync responses for intermitent connections](https://github.com/decentraland/matrix-playbook/issues/76)
 - [setCookie is not iterable](https://github.com/giorgi-o/SkinPeek/issues/42)
 - [Caused by SSLError(SSLError(1, 'SSL: SSLV3_ALERT_HANDSHAKE_FAILURE sslv3 alert handshake failure](https://github.com/upbit/pixivpy/issues/244)
 - [Matchers negativos no se están reconociendo](https://github.com/iti-ict/kukumo/issues/44)
