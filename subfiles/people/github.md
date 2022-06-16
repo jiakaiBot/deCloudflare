@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [setCookie is not iterable](https://github.com/giorgi-o/SkinPeek/issues/42)
+- [Caused by SSLError(SSLError(1, 'SSL: SSLV3_ALERT_HANDSHAKE_FAILURE sslv3 alert handshake failure](https://github.com/upbit/pixivpy/issues/244)
 - [Matchers negativos no se están reconociendo](https://github.com/iti-ict/kukumo/issues/44)
 - [GitHub OAuth responds with 200 on error](https://github.com/panva/oauth4webapi/issues/16)
 - [append inbound dokodemo-door won't open the port](https://github.com/XTLS/Xray-core/issues/1109)
