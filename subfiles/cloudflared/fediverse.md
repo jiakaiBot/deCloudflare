@@ -3595,7 +3595,7 @@ Here's a list of public Fediverse services.
 | datagirl.xyz | No |
 | datagueule.tv | Yes |
 | datahostr.com | Yes |
-| datalabour.com | No |
+| datalabour.com | Yes |
 | datamol.org | No |
 | datanom.net | No |
 | dataplicity.io | No |
@@ -14757,7 +14757,7 @@ Here's a list of public Fediverse services.
 | schenklradio.de | No |
 | schep.me | Yes |
 | schettler.net | No |
-| schichler.dev | No |
+| schichler.dev | Yes |
 | schieder.me | No |
 | schiessle.org | No |
 | schildt.social | No |
@@ -14868,6 +14868,7 @@ Here's a list of public Fediverse services.
 | seacow.social | No |
 | seafish.io | Yes |
 | seaflowers.xyz | No |
+| seafoam.space | No |
 | seahorse.sh | No |
 | sealeo.social | No |
 | sealion.club | No |
@@ -17244,7 +17245,7 @@ Here's a list of public Fediverse services.
 | tryp.digital | No |
 | tryptophonic.com | No |
 | ts-idg.de | No |
-| tschaba.de | No |
+| tschaba.de | Yes |
 | tschlotfeldt.de | No |
 | tsia.de | No |
 | tsr.cloud | No |
@@ -19143,8 +19144,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,656 |
-| Normal | 15,444 |
+| Cloudflare | 3,659 |
+| Normal | 15,442 |
 
 
-### 19.1% of public Fediverse services are using Cloudflare.
+### 19.2% of public Fediverse services are using Cloudflare.
