@@ -800,6 +800,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungYeKyaw0@twitter](https://twitter.com/AungYeKyaw0/status/1392456273757569028) | advertise |
 | [AungYEKyaw1987@twitter](https://twitter.com/AungYEKyaw1987/status/1479051271956885506) | advertise |
 | [AungYeYintKyaw7@twitter](https://twitter.com/AungYeYintKyaw7/status/1404108228993044481) | advertise |
+| [AungZaw08554849@twitter](https://twitter.com/AungZaw08554849/status/1537369196233117696) | advertise |
 | [AungZaw11643048@twitter](https://twitter.com/AungZaw11643048/status/1478028534568214529) | advertise |
 | [Aungzaw26392868@twitter](https://twitter.com/Aungzaw26392868/status/1391635364394135553) | advertise |
 | [AungZaw39810644@twitter](https://twitter.com/AungZaw39810644/status/1384019489994338304) | advertise |
@@ -1203,6 +1204,7 @@ Do not create new issue or we will close it as duplicate.
 | [BWpzQGeCJgL7bmi@twitter](https://twitter.com/BWpzQGeCJgL7bmi/status/1386781006506516485) | advertise |
 | [byambamk@twitter](https://twitter.com/byambamk/status/1390722042400444418) | advertise |
 | [Byarsar2@twitter](https://twitter.com/Byarsar2/status/1391089544322158594) | advertise |
+| [BYfpyglTtMHPB8s@twitter](https://twitter.com/BYfpyglTtMHPB8s/status/1537369104193290240) | advertise |
 | [ByKu24674252@twitter](https://twitter.com/ByKu24674252/status/1470865823606587392) | advertise |
 | [Byo_Anago@twitter](https://twitter.com/Byo_Anago/status/1468858493096841221) | advertise |
 | [ByT13R@twitter](https://twitter.com/ByT13R/status/1508546695667269637) | advertise |
@@ -4254,6 +4256,7 @@ Do not create new issue or we will close it as duplicate.
 | [Luffy53506801@twitter](https://twitter.com/Luffy53506801/status/1390611648105172994) | advertise |
 | [luhtwe1@twitter](https://twitter.com/luhtwe1/status/1392742065449041922) | advertise |
 | [luisantoniomata@twitter](https://twitter.com/luisantoniomata/status/1377051574493663243) | advertise |
+| [LuisBaker___@twitter](https://twitter.com/LuisBaker___/status/1537373187360661504) | advertise |
 | [luiskun11@twitter](https://twitter.com/luiskun11/status/1389777969627820032) | advertise |
 | [LuizGerrards@twitter](https://twitter.com/LuizGerrards/status/1398476334255333379) | advertise |
 | [LukaMamrikishv1@twitter](https://twitter.com/LukaMamrikishv1/status/1401226185032540164) | advertise |
