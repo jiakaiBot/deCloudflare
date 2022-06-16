@@ -5455,6 +5455,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nobel_Chow@twitter](https://twitter.com/Nobel_Chow/status/1439072225466847241) | advertise |
 | [nobinafurio2k@twitter](https://twitter.com/nobinafurio2k/status/1396555230838415361) | advertise |
 | [nobitacute1234@twitter](https://twitter.com/nobitacute1234/status/1401232376559067144) | advertise |
+| [NoblexOffical@twitter](https://twitter.com/NoblexOffical/status/1537476973332729858) | advertise |
 | [noe28956578@twitter](https://twitter.com/noe28956578/status/1391961386540945410) | advertise |
 | [Noe67713062@twitter](https://twitter.com/Noe67713062/status/1391467359727067137) | advertise |
 | [Noelzarni1@twitter](https://twitter.com/Noelzarni1/status/1412903181542039554) | moral (advertise) |
@@ -7322,6 +7323,7 @@ Do not create new issue or we will close it as duplicate.
 | [therealgeorge@twitter](https://twitter.com/therealgeorge/status/1399077136720334851) | advertise |
 | [therealjokerk@twitter](https://twitter.com/therealjokerk/status/1446952055176892416) | advertise |
 | [therealmthree@twitter](https://twitter.com/therealmthree/status/1394930520664907792) | advertise |
+| [TheRealSpy5@twitter](https://twitter.com/TheRealSpy5/status/1537494687958851585) | advertise |
 | [thesniperxjohn@twitter](https://twitter.com/thesniperxjohn/status/1461961789550194691) | advertise |
 | [thesureshg@twitter](https://twitter.com/thesureshg/status/1497509853434355712) | advertise |
 | [thet02720985@twitter](https://twitter.com/thet02720985/status/1470785543948673047) | advertise |
