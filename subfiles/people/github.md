@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Matchers negativos no se están reconociendo](https://github.com/iti-ict/kukumo/issues/44)
 - [GitHub OAuth responds with 200 on error](https://github.com/panva/oauth4webapi/issues/16)
 - [append inbound dokodemo-door won't open the port](https://github.com/XTLS/Xray-core/issues/1109)
 - [Medium posts and 404 error](https://github.com/FlareSolverr/FlareSolverr/issues/405)
