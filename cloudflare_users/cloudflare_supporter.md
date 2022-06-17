@@ -6362,6 +6362,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rosan37745923@twitter](https://twitter.com/Rosan37745923/status/1403162188567568388) | advertise |
 | [Rose59735746@twitter](https://twitter.com/Rose59735746/status/1518127573334728704) | advertise |
 | [Rose61197392@twitter](https://twitter.com/Rose61197392/status/1395893847650045954) | advertise |
+| [rosebethandrew@twitter](https://twitter.com/rosebethandrew/status/1537865726261862402) | advertise |
 | [Rosemar08830321@twitter](https://twitter.com/Rosemar08830321/status/1400987352139538435) | advertise |
 | [Rosemar42790007@twitter](https://twitter.com/Rosemar42790007/status/1519583643492093952) | advertise |
 | [RoshanR33887835@twitter](https://twitter.com/RoshanR33887835/status/1404842840585228291) | advertise |
