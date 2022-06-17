@@ -2191,6 +2191,7 @@ Do not create new issue or we will close it as duplicate.
 | [gaurav52977211@twitter](https://twitter.com/gaurav52977211/status/1504490723571347457) | advertise |
 | [Gaurav___P@twitter](https://twitter.com/Gaurav___P/status/1389646942062321666) | advertise |
 | [gavin_mcdonnell@twitter](https://twitter.com/gavin_mcdonnell/status/1490759245926748162) | advertise |
+| [Gavlaa79@twitter](https://twitter.com/Gavlaa79/status/1537661772504637443) | advertise |
 | [gaxmed1@twitter](https://twitter.com/gaxmed1/status/1398296021562703874) | advertise |
 | [gaymyanmarboy@twitter](https://twitter.com/gaymyanmarboy/status/1395204364327743489) | advertise |
 | [GaysohbetTurk@twitter](https://twitter.com/GaysohbetTurk/status/1450949056872816640) | advertise |
@@ -5931,6 +5932,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pi_MineNetwork@twitter](https://twitter.com/Pi_MineNetwork/status/1533138566607360003) | advertise |
 | [PJelodar@twitter](https://twitter.com/PJelodar/status/1514000992555077632) | advertise |
 | [PJi80623432@twitter](https://twitter.com/PJi80623432/status/1388863005861965827) | advertise |
+| [pjimni13@twitter](https://twitter.com/pjimni13/status/1537670632296845312) | advertise |
 | [PkG04210203@twitter](https://twitter.com/PkG04210203/status/1378927538693541891) | advertise |
 | [PKumkaewprom@twitter](https://twitter.com/PKumkaewprom/status/1387070626297487361) | advertise |
 | [pkworlz@twitter](https://twitter.com/pkworlz/status/1475561304786046977) | advertise |
