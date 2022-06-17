@@ -2910,6 +2910,7 @@ Here's a list of public Fediverse services.
 | coders.social | No |
 | codesections.com | No |
 | codesocial.org | No |
+| codespace.gay | Yes |
 | codestaff.io | No |
 | codethat.sucks | No |
 | codevoid.de | No |
@@ -7519,7 +7520,7 @@ Here's a list of public Fediverse services.
 | ioer.pw | No |
 | iofoundry.eu | Yes |
 | ioi-xd.net | Yes |
-| ioioioio.io | No |
+| ioioioio.io | Yes |
 | iomm.net | No |
 | iomstdn.tokyo | No |
 | ion.ovh | No |
@@ -18717,7 +18718,7 @@ Here's a list of public Fediverse services.
 | xyzyx.org | No |
 | xyzzy.link | No |
 | xz0.org | Yes |
-| xzqt.xyz | No |
+| xzqt.xyz | Yes |
 | y-bbs.de | No |
 | y-y.li | No |
 | y-zu.org | Yes |
@@ -19144,8 +19145,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,659 |
-| Normal | 15,442 |
+| Cloudflare | 3,662 |
+| Normal | 15,440 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
