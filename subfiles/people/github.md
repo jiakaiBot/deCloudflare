@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Auto-create cert-manager namespace as part of bootstrap install](https://github.com/alex-matthews/home-ops/issues/10)
+- [Unable to run community commands](https://github.com/neillturner/kitchen-ansible/issues/328)
 - [Could not run it on Cloudflare Worker with "ApolloGateway"](https://github.com/apollographql/federation/issues/1918)
 - [Fails to gracefullly swap CNAME for A records.](https://github.com/kubernetes-sigs/external-dns/issues/2820)
 - [Access denied, Error code 1020](https://github.com/lutris/website/issues/630)
