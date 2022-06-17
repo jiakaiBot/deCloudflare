@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Fails to gracefullly swap CNAME for A records.](https://github.com/kubernetes-sigs/external-dns/issues/2820)
 - [Access denied, Error code 1020](https://github.com/lutris/website/issues/630)
 - [Cache /sync responses for intermitent connections](https://github.com/decentraland/matrix-playbook/issues/76)
 - [setCookie is not iterable](https://github.com/giorgi-o/SkinPeek/issues/42)
