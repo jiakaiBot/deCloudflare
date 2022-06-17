@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,545 |
-| net | 1,469 |
-| social | 1,118 |
+| com | 2,546 |
+| net | 1,470 |
+| social | 1,119 |
 | org | 1,052 |
 | de | 924 |
 
@@ -4196,6 +4196,7 @@ Here's a list of public Fediverse services.
 | drastical.tech | Yes |
 | dravidam.net | No |
 | drawk.cab | No |
+| drcassone.social | No |
 | drdr.club | Yes |
 | drdr.work | Yes |
 | dre.casa | No |
@@ -5085,6 +5086,7 @@ Here's a list of public Fediverse services.
 | fedisabled.social | No |
 | fediscience.org | No |
 | fedisnap.com | Yes |
+| fedispace.fr | No |
 | fedispace.ml | No |
 | fedisphere.net | No |
 | fedispot.com | No |
@@ -5693,6 +5695,7 @@ Here's a list of public Fediverse services.
 | fukuoka-mstdn.work | No |
 | fulda.social | No |
 | fulgur.xyz | No |
+| fulin.io | No |
 | fullhosting.eu | No |
 | fullstackgeek.tech | No |
 | fullstuck.net | No |
@@ -6259,6 +6262,7 @@ Here's a list of public Fediverse services.
 | gonta.net | No |
 | goochiegoo.net | Yes |
 | good-dragon.com | No |
+| goodanser.com | No |
 | goodass.dog | No |
 | goodchristian.website | No |
 | goodman-wilson.com | Yes |
@@ -10810,6 +10814,7 @@ Here's a list of public Fediverse services.
 | moec.top | Yes |
 | moeism.me | No |
 | moeller.email | No |
+| moellus.net | No |
 | moeplebs.online | No |
 | moessingen.social | No |
 | moew.science | Yes |
@@ -13612,7 +13617,7 @@ Here's a list of public Fediverse services.
 | prout.social | Yes |
 | provo.lol | No |
 | proxion.de | No |
-| proyectolanuevatierra.com | No |
+| proyectolanuevatierra.com | Yes |
 | proyectozero.org | Yes |
 | prpr.in | No |
 | prsm.space | No |
@@ -19145,8 +19150,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,662 |
-| Normal | 15,440 |
+| Cloudflare | 3,663 |
+| Normal | 15,444 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
