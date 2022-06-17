@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,546 |
+| com | 2,547 |
 | net | 1,470 |
 | social | 1,119 |
-| org | 1,052 |
+| org | 1,055 |
 | de | 924 |
 
 
@@ -2575,6 +2575,7 @@ Here's a list of public Fediverse services.
 | chaotic.social | No |
 | chaoticaredux.com | No |
 | chaoticride.com | No |
+| chaotikum.org | No |
 | chaouane.xyz | No |
 | chaoyu.us | No |
 | chapril.org | No |
@@ -3947,6 +3948,7 @@ Here's a list of public Fediverse services.
 | digitan.ga | No |
 | digityser.org | No |
 | diglateam3.com | No |
+| digor.sh | No |
 | dilavni.com | Yes |
 | dilopiaf.fr | No |
 | dimethyl.xyz | No |
@@ -5457,6 +5459,7 @@ Here's a list of public Fediverse services.
 | framapiaf.org | No |
 | framatube.org | No |
 | framboisier.com | No |
+| framevr.io | No |
 | framily.space | No |
 | fran.cr | No |
 | francecatholique.net | No |
@@ -8174,6 +8177,7 @@ Here's a list of public Fediverse services.
 | kaonikki.tokyo | No |
 | kaosteam.net | No |
 | kaostek.com | No |
+| kaouenn-noz.fr | No |
 | kape.xyz | Yes |
 | kapic.io | No |
 | kapler.family | No |
@@ -8564,6 +8568,7 @@ Here's a list of public Fediverse services.
 | konfederacja.ru | No |
 | kong.international | No |
 | kongaloosh.com | No |
+| kongwoo.icu | Yes |
 | konkat.jp | No |
 | konkon.click | No |
 | konmalehth.org | No |
@@ -9149,6 +9154,7 @@ Here's a list of public Fediverse services.
 | libreprime.me | No |
 | librepunk.club | No |
 | librepush.net | No |
+| librescrum.org | No |
 | libreserver.org | No |
 | libresilicon.com | No |
 | libresolutions.network | No |
@@ -11081,6 +11087,7 @@ Here's a list of public Fediverse services.
 | mstdn.io | Yes |
 | mstdn.jp | Yes |
 | mstdn.kyoto | No |
+| mstdn.life | Yes |
 | mstdn.love | Yes |
 | mstdn.miyazaki.jp | No |
 | mstdn.moe | Yes |
@@ -13314,6 +13321,7 @@ Here's a list of public Fediverse services.
 | poast.tv | Yes |
 | pocka.info | Yes |
 | pod.social | No |
+| podcast.audio | No |
 | podcast.nagoya | No |
 | podcast.style | No |
 | podcastindex.social | No |
@@ -13923,6 +13931,7 @@ Here's a list of public Fediverse services.
 | raggedfeathers.com | No |
 | raghavgururajan.ch | No |
 | raghavgururajan.net | No |
+| ragnate.la | No |
 | ragtag.moe | Yes |
 | raidarou.com | No |
 | rail.chat | No |
@@ -14393,6 +14402,7 @@ Here's a list of public Fediverse services.
 | roosenmaallen.com | No |
 | root.casa | No |
 | root.sx | Yes |
+| rootaccess.org | No |
 | rootdc.xyz | No |
 | rootfs.eu | No |
 | rooting.garden | No |
@@ -15178,6 +15188,7 @@ Here's a list of public Fediverse services.
 | sikke.fi | Yes |
 | sikloud.com | No |
 | sil.sh | No |
+| silat.cloud | No |
 | silba.me | No |
 | silence-project.org | No |
 | silentfoof.rocks | No |
@@ -16336,6 +16347,7 @@ Here's a list of public Fediverse services.
 | tc.nz | No |
 | tchncs.de | No |
 | tchnics.de | No |
+| tchort.institute | No |
 | tcit.fr | No |
 | tcnfy.uk | No |
 | tcp.expert | Yes |
@@ -19037,6 +19049,7 @@ Here's a list of public Fediverse services.
 | zestysoft.com | No |
 | zetamu.club | Yes |
 | zetamu.love | No |
+| zetawing.com | No |
 | zeteo.me | No |
 | zetmus.fr | No |
 | zettas.space | No |
@@ -19150,8 +19163,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,663 |
-| Normal | 15,444 |
+| Cloudflare | 3,665 |
+| Normal | 15,455 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
