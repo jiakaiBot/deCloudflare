@@ -1948,6 +1948,7 @@ Do not create new issue or we will close it as duplicate.
 | [ELEVEN86464120@twitter](https://twitter.com/ELEVEN86464120/status/1398547337459367936) | advertise |
 | [EliasDallas1@twitter](https://twitter.com/EliasDallas1/status/1395655946844532745) | advertise |
 | [eliehannouch8@twitter](https://twitter.com/eliehannouch8/status/1462754171195699210) | advertise |
+| [eliekh05@twitter](https://twitter.com/eliekh05/status/1537787222874791938) | advertise |
 | [elihwyma@twitter](https://twitter.com/elihwyma/status/1380322325841772545) | advertise |
 | [elina_nns@twitter](https://twitter.com/elina_nns/status/1392283353135599624) | advertise |
 | [elinotes_com@twitter](https://twitter.com/elinotes_com/status/1516871594278555648) | advertise |
@@ -1992,6 +1993,7 @@ Do not create new issue or we will close it as duplicate.
 | [Eren41747723@twitter](https://twitter.com/Eren41747723/status/1389218655712448512) | advertise |
 | [ererernest@twitter](https://twitter.com/ererernest/status/1402204151765889025) | advertise |
 | [Ericduo19201253@twitter](https://twitter.com/Ericduo19201253/status/1397342285428232194) | advertise |
+| [Erics87402408@twitter](https://twitter.com/Erics87402408/status/1537793280657989633) | advertise |
 | [EricWarnasch2@twitter](https://twitter.com/EricWarnasch2/status/1501394632424534018) | advertise |
 | [erigomwsn@twitter](https://twitter.com/erigomwsn/status/1393026360788938752) | advertise |
 | [ernielehman@twitter](https://twitter.com/ernielehman/status/1382762709394071555) | advertise |
