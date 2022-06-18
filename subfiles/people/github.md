@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [coder server tunnel taking a long time to startup, then doesn't resolve, or get CloudFlare error](https://github.com/coder/coder/issues/2491)
 - [Sa. 18.06.22. - Lesepult](https://github.com/sy-hnmr/cf-lesepult-kommentar/issues/18)
 - [Auto-create cert-manager namespace as part of bootstrap install](https://github.com/alex-matthews/home-ops/issues/10)
 - [Unable to run community commands](https://github.com/neillturner/kitchen-ansible/issues/328)
