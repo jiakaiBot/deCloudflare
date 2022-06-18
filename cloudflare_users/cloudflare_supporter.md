@@ -70,6 +70,7 @@ Do not create new issue or we will close it as duplicate.
 | [6lizzys@twitter](https://twitter.com/6lizzys/status/1490561482525855747) | advertise |
 | [6October8@twitter](https://twitter.com/6October8/status/1382415935454199815) | advertise |
 | [6PpXPysVDb3lCRH@twitter](https://twitter.com/6PpXPysVDb3lCRH/status/1467321870181494785) | advertise |
+| [6thfloorgrind@twitter](https://twitter.com/6thfloorgrind/status/1538147028831805440) | advertise |
 | [7amahanti@twitter](https://twitter.com/7amahanti/status/1470204452657242114) | advertise |
 | [7aQuynh@twitter](https://twitter.com/7aQuynh/status/1532060485352583168) | advertise |
 | [7BsevenV7@twitter](https://twitter.com/7BsevenV7/status/1396360385784160256) | advertise |
@@ -1446,8 +1447,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3657,8 +3658,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6088,6 +6089,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pyrumar@twitter](https://twitter.com/Pyrumar/status/1450943115171442688) | advertise |
 | [PyTeaDis@twitter](https://twitter.com/PyTeaDis/status/1403714156851646466) | advertise |
 | [p_bhands@twitter](https://twitter.com/p_bhands/status/1439221468508925954) | advertise |
+| [p__d_t@twitter](https://twitter.com/p__d_t/status/1538131850966683648) | advertise |
 | [P___NOO@twitter](https://twitter.com/P___NOO/status/1389947952836218884) | advertise |
 | [qalifhilmi@twitter](https://twitter.com/qalifhilmi/status/1394339624986681344) | advertise |
 | [qbar65081251@twitter](https://twitter.com/qbar65081251/status/1400029689020702721) | advertise |
@@ -7893,6 +7895,7 @@ Do not create new issue or we will close it as duplicate.
 | [VenusKhang@twitter](https://twitter.com/VenusKhang/status/1401099072740626434) | advertise |
 | [Verchel8@twitter](https://twitter.com/Verchel8/status/1395056149972484098) | advertise |
 | [Verheijke@twitter](https://twitter.com/Verheijke/status/1537395365208539137) | advertise |
+| [VeRseS23221477@twitter](https://twitter.com/VeRseS23221477/status/1538116332331278336) | advertise |
 | [VersoeGee@twitter](https://twitter.com/VersoeGee/status/1385038002490019844) | advertise |
 | [VeteranOwned@twitter](https://twitter.com/VeteranOwned/status/1390703239042117632) | advertise |
 | [vettijoe@twitter](https://twitter.com/vettijoe/status/1390939641025466371) | advertise |
