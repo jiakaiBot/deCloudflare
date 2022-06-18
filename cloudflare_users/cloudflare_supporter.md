@@ -6017,6 +6017,7 @@ Do not create new issue or we will close it as duplicate.
 | [prejumass@twitter](https://twitter.com/prejumass/status/1393505472368431105) | advertise |
 | [PresleyPage45@twitter](https://twitter.com/PresleyPage45/status/1383231573999243267) | advertise |
 | [Previa79167164@twitter](https://twitter.com/Previa79167164/status/1394672681098743810) | advertise |
+| [primetechug@twitter](https://twitter.com/primetechug/status/1538085687811088386) | advertise |
 | [Princeferozepur@twitter](https://twitter.com/Princeferozepur/status/1450499964673560579) | advertise |
 | [PrinceLue_sa@twitter](https://twitter.com/PrinceLue_sa/status/1379702164390621185) | advertise |
 | [PrinceO58314621@twitter](https://twitter.com/PrinceO58314621/status/1389548044304195585) | advertise |
@@ -6105,6 +6106,7 @@ Do not create new issue or we will close it as duplicate.
 | [QUANG45793973@twitter](https://twitter.com/QUANG45793973/status/1402123589390802962) | advertise |
 | [quang59720264@twitter](https://twitter.com/quang59720264/status/1381982756029169671) | advertise |
 | [quangan00528037@twitter](https://twitter.com/quangan00528037/status/1380604112140529667) | advertise |
+| [quangbk1@twitter](https://twitter.com/quangbk1/status/1538084581601341440) | advertise |
 | [QuangH04331074@twitter](https://twitter.com/QuangH04331074/status/1475730510035189763) | advertise |
 | [QuangHu01378602@twitter](https://twitter.com/QuangHu01378602/status/1380895418322542593) | advertise |
 | [QuangHu25018354@twitter](https://twitter.com/QuangHu25018354/status/1493308714065231872) | advertise |
