@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ["Connection Timed Out" on V2 Web Portal/Cloudflare redirect blocked](https://github.com/SpacehuhnTech/esp8266_deauther/issues/1562)
 - [coder server tunnel taking a long time to startup, then doesn't resolve, or get CloudFlare error](https://github.com/coder/coder/issues/2491)
 - [Sa. 18.06.22. - Lesepult](https://github.com/sy-hnmr/cf-lesepult-kommentar/issues/18)
 - [Auto-create cert-manager namespace as part of bootstrap install](https://github.com/alex-matthews/home-ops/issues/10)
