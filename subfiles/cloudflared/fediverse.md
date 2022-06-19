@@ -3716,6 +3716,7 @@ Here's a list of public Fediverse services.
 | deerfieldmartc.com | No |
 | deerofnara.net | No |
 | def.social | No |
+| defenders.town | Yes |
 | deffo.com.au | Yes |
 | definitely-not-archivefedifor.fun | No |
 | definitelyreal.coffee | No |
@@ -12132,6 +12133,7 @@ Here's a list of public Fediverse services.
 | nyadobe.online | Yes |
 | nyan.cafe | No |
 | nyan.im | Yes |
+| nyan.lgbt | Yes |
 | nyan.live | Yes |
 | nyan.lol | No |
 | nyan.network | No |
@@ -16794,7 +16796,7 @@ Here's a list of public Fediverse services.
 | tibia.life | No |
 | tibidoo.com | No |
 | tic-ac.org | No |
-| tictech.info | Yes |
+| tictech.info | No |
 | tiddy.city | Yes |
 | tide.tk | No |
 | tiennot.net | No |
@@ -19163,8 +19165,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,665 |
-| Normal | 15,455 |
+| Cloudflare | 3,666 |
+| Normal | 15,456 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
