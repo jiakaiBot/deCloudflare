@@ -4382,6 +4382,7 @@ Do not create new issue or we will close it as duplicate.
 | [malvprass@twitter](https://twitter.com/malvprass/status/1385256169795588096) | advertise |
 | [malwifati@twitter](https://twitter.com/malwifati/status/1381271570304401408) | advertise |
 | [MamMad08079795@twitter](https://twitter.com/MamMad08079795/status/1491453521266638848) | advertise |
+| [MamMam02043349@twitter](https://twitter.com/MamMam02043349/status/1538613925004333057) | advertise |
 | [MamNaw@twitter](https://twitter.com/MamNaw/status/1400309873594691584) | advertise |
 | [Manauwa43390416@twitter](https://twitter.com/Manauwa43390416/status/1407583135592632321) | advertise |
 | [MandalayThar10@twitter](https://twitter.com/MandalayThar10/status/1391637199444070402) | advertise |
@@ -7773,6 +7774,7 @@ Do not create new issue or we will close it as duplicate.
 | [TunTunN70495506@twitter](https://twitter.com/TunTunN70495506/status/1391124153818697728) | advertise |
 | [TunYinmin@twitter](https://twitter.com/TunYinmin/status/1394984491354148864) | advertise |
 | [TuongNg04097548@twitter](https://twitter.com/TuongNg04097548/status/1482973722265145347) | advertise |
+| [turboroom@twitter](https://twitter.com/turboroom/status/1538608149413998594) | advertise |
 | [TureinKhant@twitter](https://twitter.com/TureinKhant/status/1388471250389983232) | advertise |
 | [TurnKeyMSP@twitter](https://twitter.com/TurnKeyMSP/status/1402797639482187776) | advertise |
 | [Tusayssy456@twitter](https://twitter.com/Tusayssy456/status/1403396450986336262) | advertise |
