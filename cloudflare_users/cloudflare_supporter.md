@@ -512,6 +512,7 @@ Do not create new issue or we will close it as duplicate.
 | [Animegenixplays@twitter](https://twitter.com/Animegenixplays/status/1527492013649559552) | advertise |
 | [animeindy_com@twitter](https://twitter.com/animeindy_com/status/1391468430616797187) | advertise |
 | [Anisapondan@twitter](https://twitter.com/Anisapondan/status/1403055432973701122) | advertise |
+| [AnjonDas93@twitter](https://twitter.com/AnjonDas93/status/1538531685188268032) | advertise |
 | [AnjuNay08054863@twitter](https://twitter.com/AnjuNay08054863/status/1389219256353509379) | advertise |
 | [AnKhnh70622558@twitter](https://twitter.com/AnKhnh70622558/status/1400381605508640768) | advertise |
 | [anldrms@twitter](https://twitter.com/anldrms/status/1433171383429763075) | advertise |
@@ -654,6 +655,7 @@ Do not create new issue or we will close it as duplicate.
 | [athet25@twitter](https://twitter.com/athet25/status/1390373120943345664) | advertise |
 | [athlity7@twitter](https://twitter.com/athlity7/status/1393870645558083584) | advertise |
 | [athulcity@twitter](https://twitter.com/athulcity/status/1492319903251976197) | advertise |
+| [atiahnatasya@twitter](https://twitter.com/atiahnatasya/status/1538550011142713346) | advertise |
 | [ATK0081@twitter](https://twitter.com/ATK0081/status/1390943410333241346) | advertise |
 | [AtlasFNM_@twitter](https://twitter.com/AtlasFNM_/status/1389023296939651074) | advertise |
 | [atomstudy_com@twitter](https://twitter.com/atomstudy_com/status/1449689471675355136) | advertise |
@@ -7501,6 +7503,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thuyaza59130075@twitter](https://twitter.com/Thuyaza59130075/status/1397632478748155904) | advertise |
 | [Thuyein48859212@twitter](https://twitter.com/Thuyein48859212/status/1390310267112759296) | advertise |
 | [Thuyen87713172@twitter](https://twitter.com/Thuyen87713172/status/1497078331539288064) | advertise |
+| [thuyhoa87216582@twitter](https://twitter.com/thuyhoa87216582/status/1538531213446483970) | advertise |
 | [ThuzarT00985996@twitter](https://twitter.com/ThuzarT00985996/status/1394809068502491137) | advertise |
 | [ThuZarW61704898@twitter](https://twitter.com/ThuZarW61704898/status/1390733792663412738) | advertise |
 | [thway_yin@twitter](https://twitter.com/thway_yin/status/1397078843416932362) | advertise |
