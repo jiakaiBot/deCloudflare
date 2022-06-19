@@ -1251,6 +1251,7 @@ Do not create new issue or we will close it as duplicate.
 | [cassidysm@twitter](https://twitter.com/cassidysm/status/1404071235500314630) | advertise |
 | [catchme07@twitter](https://twitter.com/catchme07/status/1373180238264291334) | advertise |
 | [Catheri50633931@twitter](https://twitter.com/Catheri50633931/status/1390732851633528834) | advertise |
+| [CAtomsa@twitter](https://twitter.com/CAtomsa/status/1538558459628728326) | advertise |
 | [cattien64320817@twitter](https://twitter.com/cattien64320817/status/1402109873911865344) | advertise |
 | [cavalloart@twitter](https://twitter.com/cavalloart/status/1387667750936403971) | advertise |
 | [Cazito1@twitter](https://twitter.com/Cazito1/status/1493689843003445252) | advertise |
