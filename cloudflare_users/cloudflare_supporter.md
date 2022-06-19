@@ -3116,6 +3116,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jamir95222748@twitter](https://twitter.com/Jamir95222748/status/1389106669594890241) | advertise |
 | [Jammy14140649@twitter](https://twitter.com/Jammy14140649/status/1409355298049982468) | moral (advertise) |
 | [jamza6024@twitter](https://twitter.com/jamza6024/status/1394436651519119362) | advertise |
+| [janca110295@twitter](https://twitter.com/janca110295/status/1538283955383844870) | advertise |
 | [JaneBiotic@twitter](https://twitter.com/JaneBiotic/status/1399991547362529280) | advertise |
 | [JaneM64995631@twitter](https://twitter.com/JaneM64995631/status/1398681834393944070) | advertise |
 | [janholl39ffs@twitter](https://twitter.com/janholl39ffs/status/1515426068467011593) | advertise |
