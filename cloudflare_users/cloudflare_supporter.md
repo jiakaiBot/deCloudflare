@@ -1175,6 +1175,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bscx_Lantern@twitter](https://twitter.com/Bscx_Lantern/status/1378913835088670726) | advertise |
 | [BsGRpWQ4ziBC59R@twitter](https://twitter.com/BsGRpWQ4ziBC59R/status/1392991093143179268) | advertise |
 | [bskcuba@twitter](https://twitter.com/bskcuba/status/1454572245322452994) | advertise |
+| [bspuoj3a96IACUd@twitter](https://twitter.com/bspuoj3a96IACUd/status/1538459119891406849) | advertise |
 | [Bt02081@twitter](https://twitter.com/Bt02081/status/1386309894651858952) | advertise |
 | [BTejbir@twitter](https://twitter.com/BTejbir/status/1538323857639350272) | advertise |
 | [BTH15677533@twitter](https://twitter.com/BTH15677533/status/1381843579342004226) | advertise |
