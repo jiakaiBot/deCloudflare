@@ -1176,6 +1176,7 @@ Do not create new issue or we will close it as duplicate.
 | [BsGRpWQ4ziBC59R@twitter](https://twitter.com/BsGRpWQ4ziBC59R/status/1392991093143179268) | advertise |
 | [bskcuba@twitter](https://twitter.com/bskcuba/status/1454572245322452994) | advertise |
 | [Bt02081@twitter](https://twitter.com/Bt02081/status/1386309894651858952) | advertise |
+| [BTejbir@twitter](https://twitter.com/BTejbir/status/1538323857639350272) | advertise |
 | [BTH15677533@twitter](https://twitter.com/BTH15677533/status/1381843579342004226) | advertise |
 | [btotherkingsto1@twitter](https://twitter.com/btotherkingsto1/status/1401106451863535616) | advertise |
 | [BTSARMY95012689@twitter](https://twitter.com/BTSARMY95012689/status/1519832843345485825) | advertise |
@@ -1447,8 +1448,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -5324,6 +5325,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nguyn1112@twitter](https://twitter.com/Nguyn1112/status/1380569773612785666) | advertise |
 | [Nguyn54671210@twitter](https://twitter.com/Nguyn54671210/status/1496839709297090560) | advertise |
 | [nguyn89811789@twitter](https://twitter.com/nguyn89811789/status/1384054275580448768) | advertise |
+| [Nguyn609970262@twitter](https://twitter.com/Nguyn609970262/status/1538314801113231360) | advertise |
 | [NguynAn94854130@twitter](https://twitter.com/NguynAn94854130/status/1480063041450672130) | advertise |
 | [NguynB54934011@twitter](https://twitter.com/NguynB54934011/status/1475702884922630145) | advertise |
 | [NguynBnhKin2@twitter](https://twitter.com/NguynBnhKin2/status/1383131640084398081) | advertise |
