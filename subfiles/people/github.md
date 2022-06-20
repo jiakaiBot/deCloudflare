@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Bulbapedia pages are forbidden](https://github.com/Shprrr/MissingNopedia/issues/10)
 - [Global rate limiting (Limit CloudFlare banning)](https://github.com/Rapptz/discord.py/issues/8169)
 - [Error: API Error 403: Unauthorized. Full message was](https://github.com/ProjectOpenSea/opensea-js/issues/591)
 - [Don't work correctly with url containing "&"](https://github.com/google/sxg-validator/issues/13)
