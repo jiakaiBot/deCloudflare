@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: API Error 403: Unauthorized. Full message was](https://github.com/ProjectOpenSea/opensea-js/issues/591)
 - [Don't work correctly with url containing "&"](https://github.com/google/sxg-validator/issues/13)
 - [Screenshot along with notification when website goes down](https://github.com/louislam/uptime-kuma/issues/1794)
 - ["Connection Timed Out" on V2 Web Portal/Cloudflare redirect blocked](https://github.com/SpacehuhnTech/esp8266_deauther/issues/1562)
