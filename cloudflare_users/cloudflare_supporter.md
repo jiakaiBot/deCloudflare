@@ -3365,6 +3365,7 @@ Do not create new issue or we will close it as duplicate.
 | [juyelsk90758483@twitter](https://twitter.com/juyelsk90758483/status/1381798078714236931) | advertise |
 | [jwidovich@twitter](https://twitter.com/jwidovich/status/1439914824306241538) | advertise |
 | [Jwii72693784@twitter](https://twitter.com/Jwii72693784/status/1384720864625664002) | advertise |
+| [JXIJN234@twitter](https://twitter.com/JXIJN234/status/1538995559364800512) | advertise |
 | [JyTrung@twitter](https://twitter.com/JyTrung/status/1397760199260196864) | advertise |
 | [J_Gat@twitter](https://twitter.com/J_Gat/status/1516156671235694598) | advertise |
 | [K04975245@twitter](https://twitter.com/K04975245/status/1395085262732943361) | advertise |
