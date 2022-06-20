@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,547 |
+| com | 2,548 |
 | net | 1,470 |
-| social | 1,120 |
-| org | 1,055 |
-| de | 924 |
+| social | 1,121 |
+| org | 1,057 |
+| de | 925 |
 
 
 - Mastodon, Pleroma, etc
@@ -2360,6 +2360,7 @@ Here's a list of public Fediverse services.
 | canned-death.us | No |
 | cannon.pw | No |
 | cannon.town | No |
+| canonicity.org | No |
 | canony.xyz | No |
 | canopeeurbaine.ca | No |
 | canor.kr | Yes |
@@ -4471,6 +4472,7 @@ Here's a list of public Fediverse services.
 | ehjovan.com | Yes |
 | ehret.me | No |
 | ei8fdb.org | No |
+| eiabea.com | No |
 | eibriel.com | No |
 | eichler-bg.de | No |
 | eick.com | Yes |
@@ -6594,6 +6596,7 @@ Here's a list of public Fediverse services.
 | hammer-and-sickle.net | No |
 | hamradio.social | No |
 | hamradio.space | Yes |
+| hamro.social | Yes |
 | hamtter.net | No |
 | handelsfrei.org | No |
 | handholding.gay | No |
@@ -12897,6 +12900,7 @@ Here's a list of public Fediverse services.
 | peervideo.club | No |
 | peervideo.net | No |
 | peervideo.ru | No |
+| peervideo.top | No |
 | peervideos.com | No |
 | peerwatch.xyz | Yes |
 | peetz0r.nl | No |
@@ -13950,6 +13954,7 @@ Here's a list of public Fediverse services.
 | rainbownerds.de | No |
 | rainbowsound.me | No |
 | rainbowtoot.net | No |
+| raindev.org | Yes |
 | raindrop.works | Yes |
 | rainy.garden | No |
 | rainy.pizza | No |
@@ -14557,6 +14562,7 @@ Here's a list of public Fediverse services.
 | s10y.eu | No |
 | s1gm4.eu | No |
 | s1ttidoe.com.tw | No |
+| s25.pl | No |
 | s2s.video | No |
 | s4y.us | Yes |
 | s6jr.com | No |
@@ -17882,6 +17888,7 @@ Here's a list of public Fediverse services.
 | videoshare.cc | No |
 | videotape.me | No |
 | videotoaster.ga | No |
+| videotry.de | Yes |
 | vidicon.org | Yes |
 | vidja.social | No |
 | vidro.club | No |
@@ -19166,8 +19173,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,668 |
-| Normal | 15,455 |
+| Cloudflare | 3,671 |
+| Normal | 15,459 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
