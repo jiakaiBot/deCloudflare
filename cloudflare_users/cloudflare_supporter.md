@@ -46,6 +46,7 @@ Do not create new issue or we will close it as duplicate.
 | [1juxtaposition@twitter](https://twitter.com/1juxtaposition/status/1397618611083165697) | advertise |
 | [1KK4cfjGlKNknLy@twitter](https://twitter.com/1KK4cfjGlKNknLy/status/1378992221077168128) | advertise |
 | [1k_8u@twitter](https://twitter.com/1k_8u/status/1493703720193990662) | advertise |
+| [1LKi5rwJJDL2GKz@twitter](https://twitter.com/1LKi5rwJJDL2GKz/status/1538949077979004928) | advertise |
 | [1nonlylynnp@twitter](https://twitter.com/1nonlylynnp/status/1489403722727936009) | advertise |
 | [1of1Bluts374@twitter](https://twitter.com/1of1Bluts374/status/1383862555945291781) | advertise |
 | [1Sellorin@twitter](https://twitter.com/1Sellorin/status/1355427524935823361) | advertise |
@@ -1215,6 +1216,7 @@ Do not create new issue or we will close it as duplicate.
 | [BYfpyglTtMHPB8s@twitter](https://twitter.com/BYfpyglTtMHPB8s/status/1537369104193290240) | advertise |
 | [ByKu24674252@twitter](https://twitter.com/ByKu24674252/status/1470865823606587392) | advertise |
 | [Byo_Anago@twitter](https://twitter.com/Byo_Anago/status/1468858493096841221) | advertise |
+| [byshwbbjy@twitter](https://twitter.com/byshwbbjy/status/1538951698038808576) | advertise |
 | [ByT13R@twitter](https://twitter.com/ByT13R/status/1508546695667269637) | advertise |
 | [byunlamin04@twitter](https://twitter.com/byunlamin04/status/1389980476031569923) | advertise |
 | [c09643643@twitter](https://twitter.com/c09643643/status/1385578671075840001) | advertise |
@@ -3393,6 +3395,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kaka15107023@twitter](https://twitter.com/Kaka15107023/status/1387055575758868480) | advertise |
 | [Kakuzu231@twitter](https://twitter.com/Kakuzu231/status/1392289987828146184) | advertise |
 | [kakyikoko1735@twitter](https://twitter.com/kakyikoko1735/status/1393078993641906177) | advertise |
+| [kalepaache2@twitter](https://twitter.com/kalepaache2/status/1538952242178539520) | advertise |
 | [kalilinuxtips@twitter](https://twitter.com/kalilinuxtips/status/1411302042220568576) | moral (advertise) |
 | [KallyDev@twitter](https://twitter.com/KallyDev/status/1385031151211798529) | advertise |
 | [kalvados_prod@twitter](https://twitter.com/kalvados_prod/status/1379381156609671170) | advertise |
