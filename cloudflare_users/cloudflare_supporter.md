@@ -7957,6 +7957,7 @@ Do not create new issue or we will close it as duplicate.
 | [vishalnyk21@twitter](https://twitter.com/vishalnyk21/status/1404097712178352134) | advertise |
 | [Vishnur12459150@twitter](https://twitter.com/Vishnur12459150/status/1386911043763408898) | advertise |
 | [Vishnuv72775788@twitter](https://twitter.com/Vishnuv72775788/status/1404443503480827909) | advertise |
+| [visity@twitter](https://twitter.com/visity/status/1538717701660868610) | advertise |
 | [Vit04933051@twitter](https://twitter.com/Vit04933051/status/1382269796947927042) | advertise |
 | [Vit06686585@twitter](https://twitter.com/Vit06686585/status/1386931178616156161) | advertise |
 | [Vit69723327@twitter](https://twitter.com/Vit69723327/status/1376846374667345922) | advertise |
