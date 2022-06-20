@@ -6307,6 +6307,7 @@ Do not create new issue or we will close it as duplicate.
 | [rian71515036@twitter](https://twitter.com/rian71515036/status/1387106975465549824) | advertise |
 | [RicardoDeMauro@twitter](https://twitter.com/RicardoDeMauro/status/1387279863879458817) | advertise |
 | [Richieboateng5@twitter](https://twitter.com/Richieboateng5/status/1384939346030211077) | advertise |
+| [RichRobinhood@twitter](https://twitter.com/RichRobinhood/status/1538810308956921856) | advertise |
 | [Ricky87282850@twitter](https://twitter.com/Ricky87282850/status/1397162246476754945) | advertise |
 | [rickyhuy9x@twitter](https://twitter.com/rickyhuy9x/status/1385638174790098950) | advertise |
 | [ricojames92@twitter](https://twitter.com/ricojames92/status/1380005971439710208) | advertise |
