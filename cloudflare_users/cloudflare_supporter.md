@@ -144,6 +144,7 @@ Do not create new issue or we will close it as duplicate.
 | [aarashaaria@twitter](https://twitter.com/aarashaaria/status/1376873295639949315) | advertise |
 | [AAravindthkumar@twitter](https://twitter.com/AAravindthkumar/status/1396989298654650388) | advertise |
 | [aaron54733902@twitter](https://twitter.com/aaron54733902/status/1400550977971818497) | advertise |
+| [aaronaboagye619@twitter](https://twitter.com/aaronaboagye619/status/1538699895145734144) | advertise |
 | [aarontexas123@twitter](https://twitter.com/aarontexas123/status/1520027136425226240) | advertise |
 | [aartibsin@twitter](https://twitter.com/aartibsin/status/1503035800153432070) | advertise |
 | [Aarush82908218@twitter](https://twitter.com/Aarush82908218/status/1383700007111467012) | advertise |
