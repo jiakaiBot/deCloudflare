@@ -1944,6 +1944,7 @@ Do not create new issue or we will close it as duplicate.
 | [EiT78756016@twitter](https://twitter.com/EiT78756016/status/1395008762818166785) | advertise |
 | [EiThetWai9@twitter](https://twitter.com/EiThetWai9/status/1391297681193148418) | advertise |
 | [EiThinz26970709@twitter](https://twitter.com/EiThinz26970709/status/1397166612826886148) | advertise |
+| [EiThinz93215711@twitter](https://twitter.com/EiThinz93215711/status/1538768938334842880) | advertise |
 | [eithinzarhtet@twitter](https://twitter.com/eithinzarhtet/status/1490473313373913089) | advertise |
 | [EiThinzarNwe1@twitter](https://twitter.com/EiThinzarNwe1/status/1391962177448329221) | advertise |
 | [EiThinzarPyae1@twitter](https://twitter.com/EiThinzarPyae1/status/1389877110940917761) | advertise |
@@ -2133,6 +2134,7 @@ Do not create new issue or we will close it as duplicate.
 | [four5z@twitter](https://twitter.com/four5z/status/1503760771494391822) | advertise |
 | [FoxArchipelago@twitter](https://twitter.com/FoxArchipelago/status/1537197310685458433) | advertise |
 | [FradSer@twitter](https://twitter.com/FradSer/status/1525376068395225088) | advertise |
+| [fragile105085@twitter](https://twitter.com/fragile105085/status/1538779032438771712) | advertise |
 | [frankygu@twitter](https://twitter.com/frankygu/status/1533974817438941185) | advertise |
 | [freak_bharath@twitter](https://twitter.com/freak_bharath/status/1398311217605738496) | advertise |
 | [FreddyKaung@twitter](https://twitter.com/FreddyKaung/status/1396197482086813701) | advertise |
@@ -7727,6 +7729,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tsherin04300710@twitter](https://twitter.com/Tsherin04300710/status/1394306975505129474) | advertise |
 | [tsubu_srs@twitter](https://twitter.com/tsubu_srs/status/1502921073087578112) | advertise |
 | [Tsumidoodle@twitter](https://twitter.com/Tsumidoodle/status/1382636178562633729) | advertise |
+| [tsvetkov_spb@twitter](https://twitter.com/tsvetkov_spb/status/1538766614782529539) | advertise |
 | [TsYu53290383@twitter](https://twitter.com/TsYu53290383/status/1397966327877292036) | advertise |
 | [TtarZzin@twitter](https://twitter.com/TtarZzin/status/1473115853101039618) | advertise |
 | [Ttleo13@twitter](https://twitter.com/Ttleo13/status/1382004085373595648) | advertise |
