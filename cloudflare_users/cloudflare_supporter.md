@@ -3385,6 +3385,7 @@ Do not create new issue or we will close it as duplicate.
 | [KaiNgo8@twitter](https://twitter.com/KaiNgo8/status/1506138093937561607) | advertise |
 | [kainusaga@twitter](https://twitter.com/kainusaga/status/1380078279546167299) | advertise |
 | [KAITOKU39855874@twitter](https://twitter.com/KAITOKU39855874/status/1382939010385907714) | advertise |
+| [kaitozent@twitter](https://twitter.com/kaitozent/status/1538926813682204672) | advertise |
 | [Kaiy47997228@twitter](https://twitter.com/Kaiy47997228/status/1382748637629845510) | advertise |
 | [KaiZarK1@twitter](https://twitter.com/KaiZarK1/status/1392407912182599684) | advertise |
 | [kai_h@twitter](https://twitter.com/kai_h/status/1409654911566974980) | moral (advertise) |
@@ -8614,6 +8615,7 @@ Do not create new issue or we will close it as duplicate.
 | [Znaiag96@twitter](https://twitter.com/Znaiag96/status/1384906789829873666) | advertise |
 | [Zo57288541@twitter](https://twitter.com/Zo57288541/status/1505754258993709056) | advertise |
 | [ZoanZonoa@twitter](https://twitter.com/ZoanZonoa/status/1376874020277133313) | advertise |
+| [ZoeLogkop@twitter](https://twitter.com/ZoeLogkop/status/1538942210388811776) | advertise |
 | [zoktog@twitter](https://twitter.com/zoktog/status/1501935529188753411) | advertise |
 | [zonezone81@twitter](https://twitter.com/zonezone81/status/1389274249722925058) | advertise |
 | [zon_paing@twitter](https://twitter.com/zon_paing/status/1391939112874225670) | advertise |
