@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,548 |
-| net | 1,470 |
-| social | 1,121 |
+| net | 1,472 |
+| social | 1,124 |
 | org | 1,057 |
-| de | 925 |
+| de | 926 |
 
 
 - Mastodon, Pleroma, etc
@@ -608,6 +608,7 @@ Here's a list of public Fediverse services.
 | aksel.rocks | No |
 | aksura.tk | No |
 | aktion-nordost.de | No |
+| aktion-nordost.tv | No |
 | aktivtube.com | No |
 | akubidon.com | No |
 | akuochi.art | No |
@@ -1763,7 +1764,7 @@ Here's a list of public Fediverse services.
 | bindinggenerations.net | No |
 | binfalse.de | No |
 | binfish.jp | No |
-| binwang.me | No |
+| binwang.me | Yes |
 | biobuf.link | No |
 | bioklaani.horse | No |
 | biologianaweb.com.br | No |
@@ -1852,6 +1853,7 @@ Here's a list of public Fediverse services.
 | black6.dev | No |
 | blackcanediary.com | No |
 | blackcat.town | No |
+| blackface.info | No |
 | blackfireworkz.tech | Yes |
 | blackflags.io | No |
 | blackice.online | No |
@@ -2037,6 +2039,7 @@ Here's a list of public Fediverse services.
 | bork.systems | No |
 | borked.host | No |
 | borked.sh | Yes |
+| borken.social | No |
 | bornsleepy.com | No |
 | borosa.social | No |
 | bortzmeyer.fr | No |
@@ -2253,6 +2256,7 @@ Here's a list of public Fediverse services.
 | burr.is | Yes |
 | burschel.com | No |
 | burymein.black | No |
+| bus-hit.me | No |
 | bushidodreams.com | Yes |
 | busshi.moe | No |
 | bussy.monster | No |
@@ -3069,6 +3073,7 @@ Here's a list of public Fediverse services.
 | controlfreak.live | No |
 | controverse.tube | No |
 | convenient.email | No |
+| conversafiada.net | No |
 | convoca.la | No |
 | convoglio.social | No |
 | conxtor.com | No |
@@ -3613,6 +3618,7 @@ Here's a list of public Fediverse services.
 | datyedyeguy.net | No |
 | dauen.name | No |
 | dav.li | No |
+| davduf.net | No |
 | dave.moe | No |
 | davewinter.info | No |
 | davidanaxagoras.com | No |
@@ -3641,6 +3647,7 @@ Here's a list of public Fediverse services.
 | dcentralisedmedia.com | No |
 | dchua.com | Yes |
 | dcntr.org | No |
+| dcomm.net.ua | No |
 | dcreager.net | No |
 | dcrz.eu | No |
 | dcu.ie | Yes |
@@ -4601,7 +4608,7 @@ Here's a list of public Fediverse services.
 | emon.party | No |
 | emory.coffee | No |
 | emosei.com | No |
-| emotionalboys.club | Yes |
+| emotionalboys.club | No |
 | emotor.tours | No |
 | empathiebullshit.de | No |
 | empathytech.net | No |
@@ -5575,6 +5582,7 @@ Here's a list of public Fediverse services.
 | frequency.app | No |
 | frequency.network | No |
 | freshice.org | Yes |
+| freundica.de | No |
 | freyrlepage.com | Yes |
 | fricci.dev | No |
 | frichetten.com | No |
@@ -7887,6 +7895,7 @@ Here's a list of public Fediverse services.
 | jizi.ml | No |
 | jjba.pro | No |
 | jjohnson.org | Yes |
+| jkelol111.me | No |
 | jkfd.de | No |
 | jkpg.rocks | Yes |
 | jl-systems.se | No |
@@ -9520,6 +9529,7 @@ Here's a list of public Fediverse services.
 | lsngl.us | No |
 | lt3.co.za | No |
 | ltch.fr | No |
+| ltdk.xyz | No |
 | ltu.social | No |
 | lu-rp.net | Yes |
 | lua-mu.org | No |
@@ -10745,6 +10755,7 @@ Here's a list of public Fediverse services.
 | mithuru.online | No |
 | mitra.social | No |
 | mitron.social | No |
+| mittdata.se | No |
 | mituhide.net | No |
 | mitzelten.de | No |
 | miwilc.com | No |
@@ -12716,6 +12727,7 @@ Here's a list of public Fediverse services.
 | pamphlets.me | Yes |
 | pandainthecloud.de | No |
 | pandanet.moe | No |
+| pandas.social | Yes |
 | panela.in | No |
 | panglossoft.fr | No |
 | panic.social | No |
@@ -12980,6 +12992,7 @@ Here's a list of public Fediverse services.
 | pettingzoo.gallery | No |
 | pew.im | No |
 | pewtix.com | No |
+| pfadi.social | No |
 | pfaff.dev | No |
 | pfefferle.org | No |
 | pfoeh.li | No |
@@ -13635,6 +13648,7 @@ Here's a list of public Fediverse services.
 | proyectozero.org | Yes |
 | prpr.in | No |
 | prsm.space | No |
+| prude.party | No |
 | prvcy.eu | No |
 | przej.me | No |
 | pseudo-whiskey.bar | No |
@@ -19173,8 +19187,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,671 |
-| Normal | 15,459 |
+| Cloudflare | 3,672 |
+| Normal | 15,472 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
