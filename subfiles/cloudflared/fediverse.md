@@ -603,6 +603,7 @@ Here's a list of public Fediverse services.
 | akitadon.com | No |
 | akitadon.info | No |
 | akko.gq | No |
+| akkoma.dev | No |
 | akoot.site | No |
 | aksel.at | No |
 | aksel.rocks | No |
@@ -19188,7 +19189,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,672 |
-| Normal | 15,472 |
+| Normal | 15,473 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
