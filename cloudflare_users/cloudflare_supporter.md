@@ -2953,6 +2953,7 @@ Do not create new issue or we will close it as duplicate.
 | [iiimran_@twitter](https://twitter.com/iiimran_/status/1445321399476887553) | advertise |
 | [IilxviA@twitter](https://twitter.com/IilxviA/status/1503980217781694464) | advertise |
 | [iimmbiz@twitter](https://twitter.com/iimmbiz/status/1533158838563655681) | advertise |
+| [IImposter44@twitter](https://twitter.com/IImposter44/status/1539163220761530368) | advertise |
 | [iiProxi_@twitter](https://twitter.com/iiProxi_/status/1477722927391027207) | advertise |
 | [iisDusty@twitter](https://twitter.com/iisDusty/status/1481158571735851008) | advertise |
 | [ii_Waka@twitter](https://twitter.com/ii_Waka/status/1498410384713256960) | advertise |
@@ -3678,8 +3679,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6392,6 +6393,7 @@ Do not create new issue or we will close it as duplicate.
 | [RonnieSstore@twitter](https://twitter.com/RonnieSstore/status/1401572362261237764) | advertise |
 | [ronnyinvesting@twitter](https://twitter.com/ronnyinvesting/status/1534207065282949122) | advertise |
 | [rookies87949021@twitter](https://twitter.com/rookies87949021/status/1389072539935076352) | advertise |
+| [ropangkrimbat@twitter](https://twitter.com/ropangkrimbat/status/1539175227368030209) | advertise |
 | [roroiraqea@twitter](https://twitter.com/roroiraqea/status/1407298625563136003) | advertise |
 | [Rory10087298@twitter](https://twitter.com/Rory10087298/status/1394270961046753285) | advertise |
 | [Rosa40736116@twitter](https://twitter.com/Rosa40736116/status/1474405381250166790) | advertise |
