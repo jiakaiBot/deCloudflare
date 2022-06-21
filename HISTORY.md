@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-06-21: [Cloudflare Service Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xvs51y9qs9dj)
 - 2022-06-15: [Network Performance Issues in the India region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ggtt599cd67f)
 - 2022-06-15: [Increased HTTP 504 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hmrtx6phhlxd)
 - 2022-06-14: [R2 Intermittent 500 HTTP responses](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gb059wk7tgzk)
