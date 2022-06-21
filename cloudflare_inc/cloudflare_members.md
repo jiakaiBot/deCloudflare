@@ -1260,6 +1260,7 @@ Or is this merely a case of simple modesty?
 | Noah Garrett Wallach | Network Engineer |  |
 | Noah Maxwell Kennedy | Employee | |
 | Noah Neuman | Enterprise Account Executive |  |
+| Noelle Gotthardt | Employee | |
 | Norm Slaught | Customer Development |  |
 | Nuno Diegues | Employee | |
 | Obinna Ekwuno | Employee | |
@@ -1500,6 +1501,7 @@ Or is this merely a case of simple modesty?
 | Sevki Hasirci | Software Engineer |  |
 | Shaffi Chogley | Customer Success Engineer |  |
 | Shahil Khan | Sales Operations |  |
+| Shalabh Mohan | Employee | |
 | Shammah Chancellor | Systems Software Engineer |  |
 | Shanea Leven | Product Manager |  |
 | Shane Baxter | Employee |  |
@@ -1619,6 +1621,7 @@ Or is this merely a case of simple modesty?
 | Tanya Verma | Employee |  |
 | Tara Vancil | Systems Engineer, Austin |  |
 | Tara Whalen | Employee | |
+| Tarika Srinivasan | Employee | |
 | Tatiana Bradley | Cryptography Intern |  |
 | Taylor Galusha | Legal Intern |  |
 | Taylor Lemmon | Account Executive |  |
