@@ -480,6 +480,7 @@ Do not create new issue or we will close it as duplicate.
 | [andy_burn5@twitter](https://twitter.com/andy_burn5/status/1505697779636604930) | advertise |
 | [Angel64305780@twitter](https://twitter.com/Angel64305780/status/1390191404953997312) | advertise |
 | [AngelaSneed14@twitter](https://twitter.com/AngelaSneed14/status/1377523632595931143) | advertise |
+| [AngelinaBenacio@twitter](https://twitter.com/AngelinaBenacio/status/1539359466742751232) | advertise |
 | [angelinavinnia@twitter](https://twitter.com/angelinavinnia/status/1504127876676866055) | advertise |
 | [AngelMyaChal1@twitter](https://twitter.com/AngelMyaChal1/status/1390486222296911872) | advertise |
 | [AngelOfHype@twitter](https://twitter.com/AngelOfHype/status/1422652703788916744) | advertise |
@@ -1244,6 +1245,7 @@ Do not create new issue or we will close it as duplicate.
 | [CantThinkOfUsnm@twitter](https://twitter.com/CantThinkOfUsnm/status/1412673732406042624) | moral (advertise) |
 | [CanturyN@twitter](https://twitter.com/CanturyN/status/1508572957173764097) | advertise |
 | [CaoKhChinh2@twitter](https://twitter.com/CaoKhChinh2/status/1377461966738841601) | advertise |
+| [CaokhiemN@twitter](https://twitter.com/CaokhiemN/status/1539358069398052864) | advertise |
 | [CapantSolent@twitter](https://twitter.com/CapantSolent/status/1392202368616476678) | advertise |
 | [CaptMeliodas1@twitter](https://twitter.com/CaptMeliodas1/status/1494257224893763585) | advertise |
 | [Carlisle_Bean@twitter](https://twitter.com/Carlisle_Bean/status/1478565050663284743) | advertise |
