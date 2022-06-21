@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Strange issue when disabling cloudflare](https://github.com/revomatico/kong-oidc/issues/17)
 - [Geen afvalinfo meer bij RD4](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer/issues/319)
 - [Error when installing KMCP](https://github.com/shenwei356/kmcp/issues/16)
 - [(get.acme.sh)|188.114.97.3|:443 500 Internal Server Error](https://github.com/acmesh-official/acme.sh/issues/4146)
