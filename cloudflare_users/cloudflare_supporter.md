@@ -169,6 +169,7 @@ Do not create new issue or we will close it as duplicate.
 | [Abdulla98320845@twitter](https://twitter.com/Abdulla98320845/status/1398651100065001482) | advertise |
 | [Abdulla98602648@twitter](https://twitter.com/Abdulla98602648/status/1386907995737493507) | advertise |
 | [AbdullahRafey@twitter](https://twitter.com/AbdullahRafey/status/1380618387605221377) | advertise |
+| [Abe81831857@twitter](https://twitter.com/Abe81831857/status/1539088641645232128) | advertise |
 | [abeautifulmemo@twitter](https://twitter.com/abeautifulmemo/status/1487803606854410250) | advertise |
 | [AbhaySi30964742@twitter](https://twitter.com/AbhaySi30964742/status/1382171140706078722) | advertise |
 | [AbhaySi85772218@twitter](https://twitter.com/AbhaySi85772218/status/1386601025138663427) | advertise |
@@ -1573,6 +1574,7 @@ Do not create new issue or we will close it as duplicate.
 | [DapePangkey@twitter](https://twitter.com/DapePangkey/status/1384234124240515075) | advertise |
 | [dara_gang@twitter](https://twitter.com/dara_gang/status/1383060905412349959) | advertise |
 | [DarDar75569428@twitter](https://twitter.com/DarDar75569428/status/1397238795242704901) | advertise |
+| [DaRealSparticus@twitter](https://twitter.com/DaRealSparticus/status/1539092475951755264) | advertise |
 | [Daria78500191@twitter](https://twitter.com/Daria78500191/status/1392706134625107969) | advertise |
 | [Dark4rce14@twitter](https://twitter.com/Dark4rce14/status/1385236734225666053) | advertise |
 | [darkboy82165795@twitter](https://twitter.com/darkboy82165795/status/1507639888849813505) | advertise |
