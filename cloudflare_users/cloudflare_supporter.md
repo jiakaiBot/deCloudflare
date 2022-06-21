@@ -1500,6 +1500,7 @@ Do not create new issue or we will close it as duplicate.
 | [cuongsu07@twitter](https://twitter.com/cuongsu07/status/1391607509027213317) | advertise |
 | [cuongtr55309221@twitter](https://twitter.com/cuongtr55309221/status/1399068157692694529) | advertise |
 | [cupidcuteman@twitter](https://twitter.com/cupidcuteman/status/1398102057890959362) | advertise |
+| [currentlyi55@twitter](https://twitter.com/currentlyi55/status/1539214340770910211) | advertise |
 | [Curse_boi_yt@twitter](https://twitter.com/Curse_boi_yt/status/1388709730705494017) | advertise |
 | [curtise_goddie@twitter](https://twitter.com/curtise_goddie/status/1532263774316597250) | advertise |
 | [cutur1news@twitter](https://twitter.com/cutur1news/status/1446167201657114628) | advertise |
@@ -3833,6 +3834,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoThaun97105851@twitter](https://twitter.com/KoThaun97105851/status/1398134331369934849) | advertise |
 | [KoThet14724861@twitter](https://twitter.com/KoThet14724861/status/1381254887405670402) | advertise |
 | [KoThike60854887@twitter](https://twitter.com/KoThike60854887/status/1391245268889243650) | advertise |
+| [KoThu06539206@twitter](https://twitter.com/KoThu06539206/status/1539212188358807552) | advertise |
 | [KoTo02751072@twitter](https://twitter.com/KoTo02751072/status/1394271242681667587) | advertise |
 | [Kotresh_dm@twitter](https://twitter.com/Kotresh_dm/status/1518934578680844289) | advertise |
 | [koubkoub186@twitter](https://twitter.com/koubkoub186/status/1519898935422337024) | advertise |
@@ -6622,6 +6624,7 @@ Do not create new issue or we will close it as duplicate.
 | [SawPyaeKhaing2@twitter](https://twitter.com/SawPyaeKhaing2/status/1389941532560486400) | advertise |
 | [SawThantZayarO1@twitter](https://twitter.com/SawThantZayarO1/status/1391276064647700484) | advertise |
 | [Sawwinmaung0@twitter](https://twitter.com/Sawwinmaung0/status/1394517271758790661) | advertise |
+| [sawyuyuwai@twitter](https://twitter.com/sawyuyuwai/status/1539215956789981184) | advertise |
 | [Saxo_BrokoYT@twitter](https://twitter.com/Saxo_BrokoYT/status/1383731164821655561) | advertise |
 | [sayanrays@twitter](https://twitter.com/sayanrays/status/1399310274113335296) | advertise |
 | [SayarMyo17@twitter](https://twitter.com/SayarMyo17/status/1393246928394194947) | advertise |
