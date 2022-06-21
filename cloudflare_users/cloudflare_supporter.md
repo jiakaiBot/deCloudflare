@@ -1292,6 +1292,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChanAye00073908@twitter](https://twitter.com/ChanAye00073908/status/1390488182332874753) | advertise |
 | [CHANBAE21088600@twitter](https://twitter.com/CHANBAE21088600/status/1392122926711836676) | advertise |
 | [Chancha76116896@twitter](https://twitter.com/Chancha76116896/status/1467508424170618888) | advertise |
+| [chanchan_banyar@twitter](https://twitter.com/chanchan_banyar/status/1539014311565488129) | advertise |
 | [change68911673@twitter](https://twitter.com/change68911673/status/1389260007728848898) | advertise |
 | [ChanhyuneeEXOL@twitter](https://twitter.com/ChanhyuneeEXOL/status/1394620855611654148) | advertise |
 | [ChanKoKoKyaw5@twitter](https://twitter.com/ChanKoKoKyaw5/status/1402998806296231937) | advertise |
@@ -1455,8 +1456,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
