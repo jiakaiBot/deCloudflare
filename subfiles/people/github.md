@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when installing KMCP](https://github.com/shenwei356/kmcp/issues/16)
+- [(get.acme.sh)|188.114.97.3|:443 500 Internal Server Error](https://github.com/acmesh-official/acme.sh/issues/4146)
 - [Bulbapedia pages are forbidden](https://github.com/Shprrr/MissingNopedia/issues/10)
 - [Global rate limiting (Limit CloudFlare banning)](https://github.com/Rapptz/discord.py/issues/8169)
 - [Error: API Error 403: Unauthorized. Full message was](https://github.com/ProjectOpenSea/opensea-js/issues/591)
