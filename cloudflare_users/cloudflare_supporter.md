@@ -7844,6 +7844,7 @@ Do not create new issue or we will close it as duplicate.
 | [Uday26880125@twitter](https://twitter.com/Uday26880125/status/1399934947331166213) | advertise |
 | [udaydasss@twitter](https://twitter.com/udaydasss/status/1530172460360175616) | advertise |
 | [UdicoSupport@twitter](https://twitter.com/UdicoSupport/status/1502957483500916740) | advertise |
+| [Uditkhan1920@twitter](https://twitter.com/Uditkhan1920/status/1539274059267158017) | advertise |
 | [uditmehra631@twitter](https://twitter.com/uditmehra631/status/1395606145041981443) | advertise |
 | [udng83676589@twitter](https://twitter.com/udng83676589/status/1388778273388195844) | advertise |
 | [ufirz825732@twitter](https://twitter.com/ufirz825732/status/1396484531826221057) | advertise |
