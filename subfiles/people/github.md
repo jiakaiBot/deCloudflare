@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [속도 제한 Cloudflare Rate Limiting](https://github.com/FinanceData/FinanceDataReader/issues/133)
 - [Strange issue when disabling cloudflare](https://github.com/revomatico/kong-oidc/issues/17)
 - [Geen afvalinfo meer bij RD4](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer/issues/319)
 - [Error when installing KMCP](https://github.com/shenwei356/kmcp/issues/16)
