@@ -355,6 +355,7 @@ Or is this merely a case of simple modesty?
 | Chris Chua | Customer Success Manager, Singapore |  |
 | Chris Conanan | Business Development |  |
 | Chris De La Garza | Employee |  |
+| Chris Draper | Employee | |
 | Chris Howells | Systems Reliability Engineer |  |
 | Chris J Arges | Employee | |
 | Chris Jones | Financial Planning |  |
