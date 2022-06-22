@@ -1147,6 +1147,7 @@ Or is this merely a case of simple modesty?
 | Michael Geng | Employee |  |
 | Michael Giron | Business Development |  |
 | Michael Girouard | Web Engineer |  |
+| Michael Keane | Employee | |
 | Michael King | Employee |  |
 | Michael Lee | Support Engineer |  |
 | Michael Manov | Technical Support Engineer |  |
