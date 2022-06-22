@@ -270,6 +270,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ahlittbkk@twitter](https://twitter.com/Ahlittbkk/status/1389947803464454149) | advertise |
 | [AhmadBeyranvand@twitter](https://twitter.com/AhmadBeyranvand/status/1387066358500929537) | advertise |
 | [Ahmadking5111@twitter](https://twitter.com/Ahmadking5111/status/1400390503879880705) | advertise |
+| [ahmadm_abubakar@twitter](https://twitter.com/ahmadm_abubakar/status/1539668272060432384) | advertise |
 | [AHMADSHAMSULAZ1@twitter](https://twitter.com/AHMADSHAMSULAZ1/status/1497963741874319360) | advertise |
 | [ahmad_antezar@twitter](https://twitter.com/ahmad_antezar/status/1532609013854109696) | advertise |
 | [ahmdh4474@twitter](https://twitter.com/ahmdh4474/status/1390763076660736001) | advertise |
@@ -1461,8 +1462,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2169,6 +2170,7 @@ Do not create new issue or we will close it as duplicate.
 | [FumihikoHatta@twitter](https://twitter.com/FumihikoHatta/status/1495165291273326595) | advertise |
 | [Funcky77200595@twitter](https://twitter.com/Funcky77200595/status/1392335460807155714) | advertise |
 | [funkybear29@twitter](https://twitter.com/funkybear29/status/1514595662989602821) | advertise |
+| [furain_mushi@twitter](https://twitter.com/furain_mushi/status/1539651349797019649) | advertise |
 | [fury67804656@twitter](https://twitter.com/fury67804656/status/1399012818767187969) | advertise |
 | [Furymdy@twitter](https://twitter.com/Furymdy/status/1380487672875999234) | advertise |
 | [FUTUREBIRD5@twitter](https://twitter.com/FUTUREBIRD5/status/1380072593953185792) | advertise |
@@ -2373,6 +2375,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hadianisa75@twitter](https://twitter.com/Hadianisa75/status/1505507346864173056) | advertise |
 | [HadiENG97@twitter](https://twitter.com/HadiENG97/status/1398555961468538881) | advertise |
 | [hadifalahi2@twitter](https://twitter.com/hadifalahi2/status/1472753900117794825) | advertise |
+| [HadjeMcstone@twitter](https://twitter.com/HadjeMcstone/status/1539645142931767296) | advertise |
 | [Hafid1238892637@twitter](https://twitter.com/Hafid1238892637/status/1385565812862459911) | advertise |
 | [hafidm93@twitter](https://twitter.com/hafidm93/status/1474230698105995275) | advertise |
 | [Hafijpt4@twitter](https://twitter.com/Hafijpt4/status/1492774572365860864) | advertise |
@@ -4472,6 +4475,7 @@ Do not create new issue or we will close it as duplicate.
 | [MarufHa0192487@twitter](https://twitter.com/MarufHa0192487/status/1385279046309740547) | advertise |
 | [marvincuche@twitter](https://twitter.com/marvincuche/status/1401058562894356480) | advertise |
 | [marvinseeza@twitter](https://twitter.com/marvinseeza/status/1491055578948706305) | advertise |
+| [maryamka3ra@twitter](https://twitter.com/maryamka3ra/status/1539648661780836352) | advertise |
 | [maryluketich@twitter](https://twitter.com/maryluketich/status/1506741092196175872) | advertise |
 | [Masamur28695995@twitter](https://twitter.com/Masamur28695995/status/1386620919611752451) | advertise |
 | [MashhadiPourya@twitter](https://twitter.com/MashhadiPourya/status/1388135701003309062) | advertise |
