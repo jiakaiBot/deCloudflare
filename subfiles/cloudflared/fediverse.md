@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,548 |
+| com | 2,550 |
 | net | 1,472 |
 | social | 1,124 |
-| org | 1,057 |
+| org | 1,058 |
 | de | 926 |
 
 
@@ -7060,6 +7060,7 @@ Here's a list of public Fediverse services.
 | hoyer.xyz | No |
 | hoyle.me.uk | No |
 | hp-gauster.name | No |
+| hpea.moe | Yes |
 | hpi.wtf | No |
 | hptrow.me | No |
 | href.space | No |
@@ -7896,7 +7897,7 @@ Here's a list of public Fediverse services.
 | jizi.ml | No |
 | jjba.pro | No |
 | jjohnson.org | Yes |
-| jkelol111.me | No |
+| jkelol111.me | Yes |
 | jkfd.de | No |
 | jkpg.rocks | Yes |
 | jl-systems.se | No |
@@ -7931,6 +7932,7 @@ Here's a list of public Fediverse services.
 | joerger.us | Yes |
 | joergmorbitzer.rocks | No |
 | joffreyverd.fr | No |
+| johalla.org | No |
 | johanl.se | No |
 | johanv.xyz | No |
 | john-livingston.fr | No |
@@ -10756,6 +10758,7 @@ Here's a list of public Fediverse services.
 | mithuru.online | No |
 | mitra.social | No |
 | mitron.social | No |
+| mitsukey.cf | No |
 | mittdata.se | No |
 | mituhide.net | No |
 | mitzelten.de | No |
@@ -12404,6 +12407,7 @@ Here's a list of public Fediverse services.
 | open2.ch | Yes |
 | open2ch.net | Yes |
 | openalgeria.org | No |
+| openbargel.com | Yes |
 | openbiblio.social | No |
 | openchessbooks.org | No |
 | opencloud.lu | No |
@@ -15363,6 +15367,7 @@ Here's a list of public Fediverse services.
 | sleepygremlin.online | No |
 | sleiss.me | Yes |
 | sliekcastopod.com | No |
+| sliekcasts.com | No |
 | slightlycyberpunk.com | No |
 | slime.global | No |
 | slimed.org | No |
@@ -17062,6 +17067,7 @@ Here's a list of public Fediverse services.
 | toot.zone | Yes |
 | toot9.de | No |
 | tootafterdark.xyz | Yes |
+| tootaloo.me | No |
 | tootcn.com | Yes |
 | toote.rs | No |
 | tooter.ca | No |
@@ -17998,6 +18004,7 @@ Here's a list of public Fediverse services.
 | voidptr.org | No |
 | voidptr.wtf | No |
 | volaras.net | No |
+| volcanocoffee.monster | Yes |
 | volkomorov.ru | Yes |
 | volkomorov.rufriendica | No |
 | volkskontakte.com | No |
@@ -19188,8 +19195,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,672 |
-| Normal | 15,473 |
+| Cloudflare | 3,676 |
+| Normal | 15,476 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
