@@ -3537,6 +3537,7 @@ Do not create new issue or we will close it as duplicate.
 | [KenKawai0@twitter](https://twitter.com/KenKawai0/status/1377570971159126020) | advertise |
 | [kenneth05350139@twitter](https://twitter.com/kenneth05350139/status/1516859886713602048) | advertise |
 | [Kenny40929211@twitter](https://twitter.com/Kenny40929211/status/1390248159071203334) | advertise |
+| [kenny50345536@twitter](https://twitter.com/kenny50345536/status/1539617604750278662) | advertise |
 | [KennyJ93864048@twitter](https://twitter.com/KennyJ93864048/status/1391395724621795332) | advertise |
 | [kennytran8388@twitter](https://twitter.com/kennytran8388/status/1387345563444682752) | advertise |
 | [Kenyan_Deportee@twitter](https://twitter.com/Kenyan_Deportee/status/1382022082222039043) | advertise |
