@@ -502,6 +502,7 @@ Here's a list of public Fediverse services.
 | aenor.ru | No |
 | aeon-hq.net | No |
 | aeons-library.gq | No |
+| aerian.icu | Yes |
 | aestus.monster | No |
 | aether.re | No |
 | aether.us | No |
@@ -4969,6 +4970,7 @@ Here's a list of public Fediverse services.
 | fanfou.today | No |
 | fangl.in | Yes |
 | fangluo.top | Yes |
+| fanlan.art | No |
 | fantorovevo.com | No |
 | fanuffel.de | No |
 | fanyx.xyz | No |
@@ -19195,8 +19197,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,677 |
-| Normal | 15,475 |
+| Cloudflare | 3,678 |
+| Normal | 15,476 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
