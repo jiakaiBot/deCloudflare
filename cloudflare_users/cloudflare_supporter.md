@@ -6865,6 +6865,7 @@ Do not create new issue or we will close it as duplicate.
 | [si_iyo@twitter](https://twitter.com/si_iyo/status/1388647216412127234) | advertise |
 | [si_phyo94784420@twitter](https://twitter.com/si_phyo94784420/status/1391063077953499142) | advertise |
 | [SJSLORG@twitter](https://twitter.com/SJSLORG/status/1525672130414886914) | advertise |
+| [skelly_mage@twitter](https://twitter.com/skelly_mage/status/1539459217349910529) | advertise |
 | [SkilledUpLife@twitter](https://twitter.com/SkilledUpLife/status/1465258430273306629) | advertise |
 | [skin_anh@twitter](https://twitter.com/skin_anh/status/1394195704533245954) | advertise |
 | [SKIZAM11@twitter](https://twitter.com/SKIZAM11/status/1396420437752512512) | advertise |
@@ -8390,6 +8391,7 @@ Do not create new issue or we will close it as duplicate.
 | [YeNaung36755781@twitter](https://twitter.com/YeNaung36755781/status/1394659999893262340) | advertise |
 | [yenge64397545@twitter](https://twitter.com/yenge64397545/status/1390186510939410432) | advertise |
 | [YenVyNguyen7@twitter](https://twitter.com/YenVyNguyen7/status/1395775894686294016) | advertise |
+| [YeolThinzar@twitter](https://twitter.com/YeolThinzar/status/1539447377844572161) | advertise |
 | [yes_holiday@twitter](https://twitter.com/yes_holiday/status/1483787050377957386) | advertise |
 | [YeThanLwin5@twitter](https://twitter.com/YeThanLwin5/status/1389797806454411265) | advertise |
 | [YeThu07735554@twitter](https://twitter.com/YeThu07735554/status/1393054643865804802) | advertise |
