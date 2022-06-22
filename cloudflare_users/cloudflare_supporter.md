@@ -1253,6 +1253,7 @@ Do not create new issue or we will close it as duplicate.
 | [Carlos5marquez@twitter](https://twitter.com/Carlos5marquez/status/1492370637041586176) | advertise |
 | [CarnifeX_6@twitter](https://twitter.com/CarnifeX_6/status/1386411324230361090) | advertise |
 | [carolinawxauth@twitter](https://twitter.com/carolinawxauth/status/1396641317728440328) | advertise |
+| [Car_campbell@twitter](https://twitter.com/Car_campbell/status/1539598860988948480) | advertise |
 | [casaindigo@twitter](https://twitter.com/casaindigo/status/1457706371248427018) | advertise |
 | [CassFrancisco5@twitter](https://twitter.com/CassFrancisco5/status/1401267140737392641) | advertise |
 | [cassidysm@twitter](https://twitter.com/cassidysm/status/1404071235500314630) | advertise |
@@ -1460,8 +1461,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -7067,6 +7068,7 @@ Do not create new issue or we will close it as duplicate.
 | [sumaiya62429086@twitter](https://twitter.com/sumaiya62429086/status/1498860860022075394) | advertise |
 | [SumedhaBandar10@twitter](https://twitter.com/SumedhaBandar10/status/1405702171849478144) | advertise |
 | [sumediadotnet@twitter](https://twitter.com/sumediadotnet/status/1530633110299107328) | advertise |
+| [sumitchauhan143@twitter](https://twitter.com/sumitchauhan143/status/1539607998125187072) | advertise |
 | [SumitDhangar13@twitter](https://twitter.com/SumitDhangar13/status/1386664848684052484) | advertise |
 | [summer080820155@twitter](https://twitter.com/summer080820155/status/1395076684030742534) | advertise |
 | [sumodirjo@twitter](https://twitter.com/sumodirjo/status/1403164349913460738) | advertise |
