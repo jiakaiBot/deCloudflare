@@ -4534,7 +4534,7 @@ Here's a list of public Fediverse services.
 | elektrine.com | Yes |
 | elemac.fr | No |
 | elementality.org | No |
-| elemsys.com | No |
+| elemsys.com | Yes |
 | elendia.net | No |
 | eleos.space | No |
 | elephant.bike | Yes |
@@ -19195,8 +19195,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,676 |
-| Normal | 15,476 |
+| Cloudflare | 3,677 |
+| Normal | 15,475 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
