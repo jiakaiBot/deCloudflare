@@ -6022,6 +6022,7 @@ Do not create new issue or we will close it as duplicate.
 | [potaterator@twitter](https://twitter.com/potaterator/status/1394360418278199306) | advertise |
 | [potatorui@twitter](https://twitter.com/potatorui/status/1409524317428228105) | moral (advertise) |
 | [Potshotp@twitter](https://twitter.com/Potshotp/status/1384574003096940545) | advertise |
+| [PouryaPo@twitter](https://twitter.com/PouryaPo/status/1539421921518952449) | advertise |
 | [PowerPopClub@twitter](https://twitter.com/PowerPopClub/status/1402682751841603595) | advertise |
 | [PowerRanger1156@twitter](https://twitter.com/PowerRanger1156/status/1395353501174312962) | advertise |
 | [PP74284531@twitter](https://twitter.com/PP74284531/status/1398910741277593604) | advertise |
@@ -6751,6 +6752,7 @@ Do not create new issue or we will close it as duplicate.
 | [shemale_addict1@twitter](https://twitter.com/shemale_addict1/status/1490090426036101120) | advertise |
 | [SherifMKhattab1@twitter](https://twitter.com/SherifMKhattab1/status/1403105134972837893) | advertise |
 | [shhrwin@twitter](https://twitter.com/shhrwin/status/1380867620811857922) | advertise |
+| [Shimi061203@twitter](https://twitter.com/Shimi061203/status/1539426706880012288) | advertise |
 | [Shin59257259@twitter](https://twitter.com/Shin59257259/status/1402899703218409476) | advertise |
 | [Shine06080277@twitter](https://twitter.com/Shine06080277/status/1394963875414659082) | advertise |
 | [Shine10367188@twitter](https://twitter.com/Shine10367188/status/1384378796732682241) | advertise |
