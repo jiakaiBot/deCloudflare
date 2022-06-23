@@ -68,6 +68,7 @@ Or is this merely a case of simple modesty?
 | Adarsh Seetharam | Product Manager |  |
 | Addis Sendaba | Customer Success |  |
 | Adena Kirkbride | Customer Development |  |
+| Adi Mukadam | Employee | |
 | Adrian Phillips | Customer Development |  |
 | Aerene Aphiwatudomkun | Customer Development |  |
 | Ahamed Nafeez | Security |  |
@@ -712,6 +713,7 @@ Or is this merely a case of simple modesty?
 | James Askham | Solutions Engineer |  |
 | James Ball | Solutions Engineer |  |
 | James Berry | Customer Success Manager |  |
+| James Chang | Employee | |
 | James Culveyhouse | Employee |  |
 | James Espinosa | Security Engineer |  |
 | James Greene | Web Engineer |  |
@@ -1579,6 +1581,7 @@ Or is this merely a case of simple modesty?
 | Steven Pirnik | Employee |  |
 | Steven Raden | Employee | |
 | Steve Pascucci | Sales Manager |  |
+| Steve Pataky | Employee | |
 | Stewart Peugh | People Systems & Analytics |  |
 | Stuart Nesbitt | Employee |  |
 | Subhashni Balakrishnan | Systems Engineer |  |
