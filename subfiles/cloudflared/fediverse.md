@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,550 |
-| net | 1,472 |
-| social | 1,124 |
+| net | 1,473 |
+| social | 1,125 |
 | org | 1,058 |
-| de | 926 |
+| de | 927 |
 
 
 - Mastodon, Pleroma, etc
@@ -994,6 +994,7 @@ Here's a list of public Fediverse services.
 | appcivico.com | Yes |
 | appdot.net | No |
 | apple-user.club | No |
+| apple2.org.za | No |
 | applest.net | No |
 | appne.com | No |
 | approvers.dev | Yes |
@@ -6875,6 +6876,7 @@ Here's a list of public Fediverse services.
 | hime.moe | No |
 | himk.am | Yes |
 | hina.dev | No |
+| hina.house | Yes |
 | hinabita.com | No |
 | hinaloe.net | No |
 | hindsightt.social | No |
@@ -7257,6 +7259,7 @@ Here's a list of public Fediverse services.
 | idontwant.social | Yes |
 | idreamof.ryukyu | No |
 | idsdt.com | No |
+| idw-online.social | No |
 | idw.zone | No |
 | iee.engineer | Yes |
 | ieji.de | No |
@@ -8699,6 +8702,7 @@ Here's a list of public Fediverse services.
 | kulesza.pl | No |
 | kuloma.net | No |
 | kulturnik.si | No |
+| kulupu.party | Yes |
 | kumadrive.com | No |
 | kumano-ryo.tech | No |
 | kumi.tube | No |
@@ -11536,6 +11540,7 @@ Here's a list of public Fediverse services.
 | nekoscience.space | No |
 | nekotodon.com | No |
 | nekover.se | Yes |
+| nekoweb.my.id | No |
 | nekozuki.me | Yes |
 | nelcomm.org | Yes |
 | nelinka.net | No |
@@ -11995,6 +12000,7 @@ Here's a list of public Fediverse services.
 | nosocial.org | No |
 | nospy.net | No |
 | nostalghia.xyz | Yes |
+| nostream.stream | No |
 | not-enough.space | No |
 | not-really.me | No |
 | nota.live | No |
@@ -12224,6 +12230,7 @@ Here's a list of public Fediverse services.
 | ocloud.de | No |
 | oconnor.cx | No |
 | ocr.social | No |
+| ocsf.in | No |
 | octo.im | No |
 | octodon.social | No |
 | ocx2.cc | No |
@@ -13909,6 +13916,7 @@ Here's a list of public Fediverse services.
 | r88t.net | No |
 | ra-phi.ch | No |
 | raa0121.info | No |
+| rabalyn.de | No |
 | rabbit-house.jp | No |
 | rabbit-house.me | No |
 | rabbit.country | No |
@@ -16473,6 +16481,7 @@ Here's a list of public Fediverse services.
 | tekmav.space | No |
 | tekton.network | No |
 | teleassist.fr | No |
+| telemillevaches.net | No |
 | telent.net | No |
 | telepati.ch | No |
 | telescope.garden | No |
@@ -17157,6 +17166,7 @@ Here's a list of public Fediverse services.
 | trainhobo.com | Yes |
 | training-fitness.fun | No |
 | trainsgende.red | No |
+| tranarchy.fish | No |
 | trancart.eu | No |
 | trannguyenqb.com | No |
 | tranny.town | No |
@@ -19010,7 +19020,7 @@ Here's a list of public Fediverse services.
 | zaibon.be | No |
 | zaisu-club.xyz | Yes |
 | zaitcev.nu | No |
-| zaksoup.club | Yes |
+| zaksoup.club | No |
 | zaktakespictures.com | Yes |
 | zakwan-khello.de | No |
 | zambito.xyz | No |
@@ -19197,8 +19207,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,678 |
-| Normal | 15,476 |
+| Cloudflare | 3,679 |
+| Normal | 15,485 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
