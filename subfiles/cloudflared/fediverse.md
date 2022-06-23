@@ -4384,6 +4384,7 @@ Here's a list of public Fediverse services.
 | ebildungslabor.social | No |
 | ebin.club | No |
 | ebin.website | Yes |
+| ebin.zone | No |
 | ebinwebsite.xyz | No |
 | ebisu.me | No |
 | eble.name | No |
@@ -6238,7 +6239,7 @@ Here's a list of public Fediverse services.
 | gnutan.xyz | No |
 | go-newbie.club | No |
 | go-rs.tk | No |
-| go0d.icu | Yes |
+| go0d.icu | No |
 | go3.today | Yes |
 | go5.dev | Yes |
 | goapub.cf | No |
@@ -19207,8 +19208,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,679 |
-| Normal | 15,485 |
+| Cloudflare | 3,678 |
+| Normal | 15,487 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
