@@ -517,6 +517,7 @@ Do not create new issue or we will close it as duplicate.
 | [Animegenixplays@twitter](https://twitter.com/Animegenixplays/status/1527492013649559552) | advertise |
 | [animeindy_com@twitter](https://twitter.com/animeindy_com/status/1391468430616797187) | advertise |
 | [Anisapondan@twitter](https://twitter.com/Anisapondan/status/1403055432973701122) | advertise |
+| [AnitaEv32534378@twitter](https://twitter.com/AnitaEv32534378/status/1539765323372568578) | advertise |
 | [AnjonDas93@twitter](https://twitter.com/AnjonDas93/status/1538531685188268032) | advertise |
 | [AnjuNay08054863@twitter](https://twitter.com/AnjuNay08054863/status/1389219256353509379) | advertise |
 | [AnKhnh70622558@twitter](https://twitter.com/AnKhnh70622558/status/1400381605508640768) | advertise |
@@ -2976,6 +2977,7 @@ Do not create new issue or we will close it as duplicate.
 | [IKlinicki@twitter](https://twitter.com/IKlinicki/status/1501579461074075656) | advertise |
 | [iKokkii@twitter](https://twitter.com/iKokkii/status/1459160411425718283) | advertise |
 | [ilanhesapcom@twitter](https://twitter.com/ilanhesapcom/status/1485037748864131074) | advertise |
+| [illuminautix@twitter](https://twitter.com/illuminautix/status/1539825329258106881) | advertise |
 | [iLngg0111@twitter](https://twitter.com/iLngg0111/status/1379110919066644480) | advertise |
 | [iLxlo_@twitter](https://twitter.com/iLxlo_/status/1517757375641440256) | advertise |
 | [im4noone@twitter](https://twitter.com/im4noone/status/1532995716196765696) | advertise |
@@ -4231,6 +4233,7 @@ Do not create new issue or we will close it as duplicate.
 | [Loctran78766971@twitter](https://twitter.com/Loctran78766971/status/1378360177724776450) | advertise |
 | [loftwah@twitter](https://twitter.com/loftwah/status/1426153321882996737) | advertise |
 | [LoGame17@twitter](https://twitter.com/LoGame17/status/1487789962942726150) | advertise |
+| [Logu60041860@twitter](https://twitter.com/Logu60041860/status/1539758751615713281) | advertise |
 | [Loi49922234@twitter](https://twitter.com/Loi49922234/status/1384799893655416833) | advertise |
 | [loke_pa@twitter](https://twitter.com/loke_pa/status/1391006736404729860) | advertise |
 | [Loki83104752@twitter](https://twitter.com/Loki83104752/status/1379175461553573897) | advertise |
