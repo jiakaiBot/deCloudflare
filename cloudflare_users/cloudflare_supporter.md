@@ -1839,6 +1839,7 @@ Do not create new issue or we will close it as duplicate.
 | [Drop20Rain@twitter](https://twitter.com/Drop20Rain/status/1396304228126183429) | advertise |
 | [drugs1195@twitter](https://twitter.com/drugs1195/status/1399717280108318720) | advertise |
 | [DrustonDias1@twitter](https://twitter.com/DrustonDias1/status/1392055630207217666) | advertise |
+| [DryNerf@twitter](https://twitter.com/DryNerf/status/1540069436765487105) | advertise |
 | [dr_pyaephyoezaw@twitter](https://twitter.com/dr_pyaephyoezaw/status/1391669243930841089) | advertise |
 | [dr_tayel81@twitter](https://twitter.com/dr_tayel81/status/1386993468287897600) | advertise |
 | [DsanayaJ@twitter](https://twitter.com/DsanayaJ/status/1399281807430987779) | advertise |
@@ -4114,6 +4115,7 @@ Do not create new issue or we will close it as duplicate.
 | [Legendbeast19@twitter](https://twitter.com/Legendbeast19/status/1515865675432136716) | advertise |
 | [legionleo6862@twitter](https://twitter.com/legionleo6862/status/1390643796421922817) | advertise |
 | [LeHoang90043499@twitter](https://twitter.com/LeHoang90043499/status/1401934476230283266) | advertise |
+| [LEiON7777@twitter](https://twitter.com/LEiON7777/status/1540070448263794690) | advertise |
 | [leirerie@twitter](https://twitter.com/leirerie/status/1477905960329007107) | advertise |
 | [LeKatsukiBakugo@twitter](https://twitter.com/LeKatsukiBakugo/status/1526810432241119238) | advertise |
 | [lelyr13@twitter](https://twitter.com/lelyr13/status/1382216932842110981) | advertise |
