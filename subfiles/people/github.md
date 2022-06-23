@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Localtunnel does not time out on a failure to connect](https://github.com/localtunnel/localtunnel/issues/502)
+- [docker log won't always confirm crowdsec mod is working with "Crowdsec Initialisation done"](https://github.com/linuxserver/docker-swag/issues/243)
 - [Failed to instantiate provider ___ to obtain schema: fork/exec ___ permission denied](https://github.com/jmccann/drone-terraform/issues/137)
 - [속도 제한 Cloudflare Rate Limiting](https://github.com/FinanceData/FinanceDataReader/issues/133)
 - [Strange issue when disabling cloudflare](https://github.com/revomatico/kong-oidc/issues/17)
