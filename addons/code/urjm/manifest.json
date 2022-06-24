@@ -1,1 +1,39 @@
--
+{
+  "manifest_version": 2,
+  "name": "Kiu retejo malakceptis min?",
+  "description": "Via retejo malakceptis min, sed mi scias ke mi fartos bone.",
+  "version": "1.0.6",
+  "homepage_url": "http://crimeflare.eu.org/",
+  "author": "Crimeflare",
+  "permissions": [
+    "storage",
+    "webRequest",
+    "<all_urls>"
+  ],
+  "icons": {
+    "72": "icons/72.png"
+  },
+  "background": {
+    "scripts": [
+      "bg.js"
+    ]
+  },
+  "options_ui": {
+    "browser_style": false,
+    "open_in_tab": true,
+    "page": "log.html"
+  },
+  "browser_action": {
+    "browser_style": true,
+    "default_icon": {
+      "72": "icons/72.png"
+    }
+  },
+  "applications": {
+    "gecko": {
+      "id": "urjm@addon.crimeflare.eu.org",
+      "strict_min_version": "91.0",
+      "update_url": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/firefox_update.json"
+    }
+  }
+}
