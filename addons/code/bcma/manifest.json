@@ -1,1 +1,59 @@
--
+{
+  "manifest_version": 2,
+  "name": "Block Cloudflare MITM Attack!",
+  "description": "Let's fight against the growing MITM attack on the Internet.",
+  "version": "1.0.2",
+  "homepage_url": "http://crimeflare.eu.org/",
+  "author": "Crimeflare",
+  "permissions": [
+    "<all_urls>",
+    "activeTab",
+    "tabs",
+    "webRequest",
+    "webRequestBlocking",
+    "webNavigation",
+    "notifications",
+    "storage",
+    "unlimitedStorage"
+  ],
+  "icons": {
+    "72": "icons/72.png"
+  },
+  "background": {
+    "scripts": [
+      "cf.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "cs.js"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "options_ui": {
+    "browser_style": true,
+    "page": "cg.html"
+  },
+  "browser_action": {
+    "browser_style": true,
+    "default_title": "BCMA",
+    "default_icon": {
+      "32": "icons/cf_0.png"
+    }
+  },
+  "web_accessible_resources": [
+    "cloudflare.html"
+  ],
+  "applications": {
+    "gecko": {
+      "id": "bcma@addon.crimeflare.eu.org",
+      "strict_min_version": "91.0"
+    }
+  }
+}
