@@ -5678,6 +5678,7 @@ Do not create new issue or we will close it as duplicate.
 | [OmarElgahri@twitter](https://twitter.com/OmarElgahri/status/1430736423838158851) | advertise |
 | [omar_ibrahim_28@twitter](https://twitter.com/omar_ibrahim_28/status/1533075831781834753) | advertise |
 | [Omygg8@twitter](https://twitter.com/Omygg8/status/1537951267242201089) | advertise |
+| [Omzey@twitter](https://twitter.com/Omzey/status/1540210865743486976) | advertise |
 | [OnaKXnizuxEMYjZ@twitter](https://twitter.com/OnaKXnizuxEMYjZ/status/1389130870578159619) | advertise |
 | [ONELION16@twitter](https://twitter.com/ONELION16/status/1391108225546686464) | advertise |
 | [onepro202@twitter](https://twitter.com/onepro202/status/1396891095674535937) | advertise |
