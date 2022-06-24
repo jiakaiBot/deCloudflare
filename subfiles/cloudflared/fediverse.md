@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,550 |
+| com | 2,551 |
 | net | 1,473 |
-| social | 1,125 |
+| social | 1,126 |
 | org | 1,058 |
 | de | 927 |
 
@@ -966,6 +966,7 @@ Here's a list of public Fediverse services.
 | aorinngo.ga | No |
 | aorinngo.tk | No |
 | aotake91.net | No |
+| aow.show | No |
 | aoxiang.online | Yes |
 | apathy.top | No |
 | apathy.tv | No |
@@ -3657,6 +3658,7 @@ Here's a list of public Fediverse services.
 | dd-dns.de | No |
 | dddug.in | No |
 | ddns.net | No |
+| ddnsgeek.com | No |
 | ddnss.ch | No |
 | ddnss.de | No |
 | ddnss.eu | No |
@@ -4320,6 +4322,7 @@ Here's a list of public Fediverse services.
 | dustinwilson.com | No |
 | dutchipoo.com | No |
 | dutchxs.com | No |
+| duwa.ng | No |
 | dv.buzz | No |
 | dver.se | No |
 | dvk.co | No |
@@ -6347,6 +6350,7 @@ Here's a list of public Fediverse services.
 | grand.im | No |
 | grandma.space | No |
 | grantipak.ru | No |
+| grants.cafe | Yes |
 | grap.coop | No |
 | graphsec.space | No |
 | grappling.ca | No |
@@ -9922,6 +9926,7 @@ Here's a list of public Fediverse services.
 | masked.cloud | No |
 | masochi.st | No |
 | masq.world | No |
+| masr.social | No |
 | mass-trespass.uk | Yes |
 | massivebox.eu.org | No |
 | massivebox.net | No |
@@ -14870,6 +14875,7 @@ Here's a list of public Fediverse services.
 | scnr.it | No |
 | scntst.net | No |
 | scoffoni.net | No |
+| sconnesso.link | No |
 | scoob.wtf | No |
 | scookeoni.com | No |
 | scoopgang.social | No |
@@ -19208,8 +19214,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,678 |
-| Normal | 15,487 |
+| Cloudflare | 3,679 |
+| Normal | 15,492 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
