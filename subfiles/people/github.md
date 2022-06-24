@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare error when loading Sensor data](https://github.com/SEED-platform/seed/issues/3327)
 - [API exception error while retrieving Hubspot forms](https://github.com/HubSpot/hubspot-api-python/issues/111)
 - [Localtunnel does not time out on a failure to connect](https://github.com/localtunnel/localtunnel/issues/502)
 - [docker log won't always confirm crowdsec mod is working with "Crowdsec Initialisation done"](https://github.com/linuxserver/docker-swag/issues/243)
