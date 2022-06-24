@@ -1,1 +1,45 @@
--
+{
+  "manifest_version": 2,
+  "name": "\u0108u ligoj estas vundeblaj al MITM-atako?",
+  "description": "Skanu FQDN uzante la API",
+  "version": "1.0.25.3",
+  "homepage_url": "http://crimeflare.eu.org/",
+  "author": "Crimeflare",
+  "permissions": [
+    "storage",
+    "unlimitedStorage",
+    "webRequest",
+    "<all_urls>"
+  ],
+  "icons": {
+    "72": "icons/72.png"
+  },
+  "background": {
+    "scripts": [
+      "bg.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "cs.js"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "options_ui": {
+    "browser_style": true,
+    "page": "cfg.html"
+  },
+  "applications": {
+    "gecko": {
+      "id": "ismm@addon.crimeflare.eu.org",
+      "strict_min_version": "91.0",
+      "update_url": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/firefox_update.json"
+    }
+  }
+}
