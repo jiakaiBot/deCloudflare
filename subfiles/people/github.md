@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [An error and a question](https://github.com/tanersb/TwitchRecover/issues/6)
 - [Proritize: accept media queries on link header.](https://github.com/bashi/early-hints-explainer/issues/2)
 - [yaml and text placeholders behave differently for YAML OpenAPI spec](https://github.com/backstage/backstage/issues/12251)
 - [Cloudflare error when loading Sensor data](https://github.com/SEED-platform/seed/issues/3327)
