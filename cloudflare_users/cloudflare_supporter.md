@@ -1772,6 +1772,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dng69114608@twitter](https://twitter.com/Dng69114608/status/1469914393320525824) | advertise |
 | [dng96878709@twitter](https://twitter.com/dng96878709/status/1376910370070142981) | advertise |
 | [DngHongHuy7@twitter](https://twitter.com/DngHongHuy7/status/1383825668815818752) | advertise |
+| [DngNgcHi16@twitter](https://twitter.com/DngNgcHi16/status/1540216059151925248) | advertise |
 | [DngThunc3@twitter](https://twitter.com/DngThunc3/status/1392585261654052869) | advertise |
 | [dninecrab@twitter](https://twitter.com/dninecrab/status/1397625512223068163) | advertise |
 | [doanh67151149@twitter](https://twitter.com/doanh67151149/status/1480783806739070976) | advertise |
@@ -5305,6 +5306,7 @@ Do not create new issue or we will close it as duplicate.
 | [NFTsMintMarket@twitter](https://twitter.com/NFTsMintMarket/status/1508599297839104003) | advertise |
 | [nftsrt@twitter](https://twitter.com/nftsrt/status/1472866208814964740) | advertise |
 | [Ng17137539@twitter](https://twitter.com/Ng17137539/status/1391247431531077636) | advertise |
+| [ng57176180@twitter](https://twitter.com/ng57176180/status/1540245706174124032) | advertise |
 | [NgaHtwe2@twitter](https://twitter.com/NgaHtwe2/status/1389454383495135233) | advertise |
 | [NgalLay22498592@twitter](https://twitter.com/NgalLay22498592/status/1394158283217416194) | advertise |
 | [NgcSn99050011@twitter](https://twitter.com/NgcSn99050011/status/1379102105907068931) | advertise |
