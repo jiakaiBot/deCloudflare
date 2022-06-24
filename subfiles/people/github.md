@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare not working after updating to 3.1.3](https://github.com/home-assistant/addons/issues/2558)
 - [Add Cloudflare API support](https://github.com/ddavness/power-mailinabox/issues/60)
 - [An error and a question](https://github.com/tanersb/TwitchRecover/issues/6)
 - [Proritize: accept media queries on link header.](https://github.com/bashi/early-hints-explainer/issues/2)
