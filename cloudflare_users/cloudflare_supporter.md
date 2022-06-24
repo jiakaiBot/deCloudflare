@@ -6410,6 +6410,7 @@ Do not create new issue or we will close it as duplicate.
 | [ROCC_OUT_SHORTY@twitter](https://twitter.com/ROCC_OUT_SHORTY/status/1380923792822788101) | advertise |
 | [Rocker30548919@twitter](https://twitter.com/Rocker30548919/status/1393113573866582018) | advertise |
 | [rocketdotnet@twitter](https://twitter.com/rocketdotnet/status/1379017458611322884) | advertise |
+| [Rodritwm_@twitter](https://twitter.com/Rodritwm_/status/1540411404548800513) | advertise |
 | [rogeriotaques@twitter](https://twitter.com/rogeriotaques/status/1522109600128184321) | advertise |
 | [rogerluu18@twitter](https://twitter.com/rogerluu18/status/1475137433498832899) | advertise |
 | [Rohith30089977@twitter](https://twitter.com/Rohith30089977/status/1382433419624288258) | advertise |
