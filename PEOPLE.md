@@ -1,43 +1,33 @@
 # "Cloudflare, we have a problem"
 
-
 - This is a list of voices. Thank you for sharing your opinion.
 - *Disclaimer*: This page contains external links to third party websites. These sites are subject to the liability of the respective website operators.
-
 
 | 🖼 | 🖼 | 🖼 |
 | --- | --- | --- |
 | ![](image/people.jpg) | ![](image/cfblockbothuman.jpg) | ![](image/pillory.jpg) |
 | ![](image/blockedbymatthewprince2.jpg) | ![](image/omsnote.jpg) | ![](image/omsstream.jpg) |
 
+> It's pretty sad when even the hometown paper is behind the greatcloudwall.
+> C'mon guys. Stop using Cloudflare.
+> It's endangering the world wide web and you're blocking readers who are protecting their privacy by using Tor.
 
-```
-It's pretty sad when even the hometown paper is behind the greatcloudwall.
-C'mon guys. Stop using Cloudflare.
-It's endangering the world wide web and you're blocking readers who are protecting
-their privacy by using Tor.
-```
--- [Jeff Cliff](https://shitposter.club/jeffcliff/)
+― [Jeff Cliff](https://shitposter.club/jeffcliff/)
 
 
-```
-Man-in-the-middle attack is a serious offense.
-If you′re using Cloudflare on your website, you won′t get first rank.
-You shouldn′t use it if you value visitor′s privacy.
-```
--- [Ombrelo](subfiles/service.ombrelo.md)
+> Man-in-the-middle attack is a serious offense.
+> If you′re using Cloudflare on your website, you won′t get first rank.
+> You shouldn′t use it if you value visitor′s privacy.
+
+― [Ombrelo](subfiles/service.ombrelo.md)
 
 
-```
-I say it's a bad idea to pimp CloudFlare sites and expect such repressions to go unchallenged.
-Activism is a duty & ethics trumps netiquette.
-Posting original information exclusively on onion sites
-is like affirmative action for the repressed Tor community.
-Correcting the wrongs of CloudFlare entails some unfair discrimination against clearnet users.
-```
--- [Activist](https://activism.openworlds.info/@aktivismoEstasMiaLuo)
+> I say it's a bad idea to pimp CloudFlare sites and expect such repressions to go unchallenged.
+> Activism is a duty & ethics trumps netiquette.
+> Posting original information exclusively on onion sites is like affirmative action for the repressed Tor community.
+> Correcting the wrongs of CloudFlare entails some unfair discrimination against clearnet users.
 
-
+― [Activist](https://activism.openworlds.info/@aktivismoEstasMiaLuo)
 
 ---
 
@@ -48,11 +38,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 ---
 
 <details>
-<summary>_click me_
-
-## News / Blog
-</summary>
-
+<summary><h3>News / Blog</h3></summary>
 
 - [Cloudflare outage hit Discord, other services in India](https://techcrunch.com/2022/06/15/cloudflare-outage-hits-discord-gitlab-and-other-services-in-india/)
 - [Cloudflare Stats for 2022: How Many Websites Use Cloudflare?](https://backlinko.com/cloudflare-users)
@@ -90,7 +76,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 - [HTTPS非対応サイトはもういらない！Cloudflareの危険性とデメリット](https://anime-tip.com/jamkun/wordpress/6984/)
 - [Don't Trust CloudFlare](https://write.pixie.town/thufie/dont-trust-cloudflare)
 - [blocking cloudflare IP-range be like](https://hacktivis.me/articles/blocking%20cloudflare%20IP-range%20be%20like)
-- [Unrevokable SSL Certificates - Isn’t this sounding pretty corrupt?  Yes.](https://worldofmatthew.com/post/cloudflare-ssl/)
+- [Unrevokable SSL Certificates - Isn’t this sounding pretty corrupt? Yes.](https://worldofmatthew.com/post/cloudflare-ssl/)
 - [New CDN for media files](https://masto.host/new-cdn-for-media-files/)
 - [Personal post: I left Cloudflare](https://www.ethanyoo.com/cloudflare/)
 - [Crimeflare (Fuck Cloudflare) / bandcamp / music](https://polarisfm.bandcamp.com/releases)
@@ -123,7 +109,7 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 - [All your DNS traffic will be sent to Cloudflare](https://ungleich.ch/en-us/cms/blog/2018/08/04/mozillas-new-dns-resolution-is-dangerous/), [ungleich](https://ungleich.ch/)
 - [Cloudflare: The bad, the worse and the ugly?](http://webschauder.de/cloudflare-the-bad-the-worse-and-the-ugly/), [Alle Beiträge](http://webschauder.de/author/jw/)
 - [I don’t trust Cloudflare with IPFS](https://blog.kareldonk.com/i-dont-trust-cloudflare-with-ipfs/), [Karel Donk](https://blog.kareldonk.com/)
-- [Cloudflare IPFS experiment](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/cloudflare-IPFS-experiment.html), [Joe](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/index.html)  [[mirror](http://archive.fo/139z1)]
+- [Cloudflare IPFS experiment](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/cloudflare-IPFS-experiment.html), [Joe](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/index.html) [[mirror](http://archive.fo/139z1)]
 - [Tor Project calls out CloudFlare for dark web surveillance](https://www.itproportal.com/2016/02/29/tor-project-calls-out-cloudflare-for-dark-web-surveillance/)
 - [CloudFlare: Deutscher Bundestag bezieht schon wieder Internet von US-Anbietern, diesmal für die eigenen Webseiten](https://netzpolitik.org/2015/cloudflare-deutscher-bundestag-bezieht-schon-wieder-internet-von-us-anbietern-diesmal-fuer-die-eigenen-webseiten/), [Andre Meister](https://netzpolitik.org/author/andre/)
 - [Don't Trust CloudFlare](https://write.lain.haus/thufie/dont-trust-cloudflare), [@lunaterra@cyberia.social](https://cyberia.social/@lunaterra)
@@ -158,11 +144,8 @@ Correcting the wrongs of CloudFlare entails some unfair discrimination against c
 -----
 
 <details>
-<summary>_click me_
-
-## Forum / Wiki
+<summary><h3>Forum / Wiki</h3>
 </summary>
-
 
 - [Cloudflare's abusive monoply on the WWW](https://old.reddit.com/r/privacy/comments/r1bct2/cloudflares_abusive_monoply_on_the_www/)
 - [Suddenly Sickness Feels, Cloudflare, really F-Droid?](https://forum.f-droid.org/t/suddenly-sickness-feels-cloudflare-really-f-droid/17948)

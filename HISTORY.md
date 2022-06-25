@@ -4,7 +4,6 @@ Here's some of Cloudflare incidents.
 
 [//]: # (do not edit me; start)
 
-
 - 2022-06-24: [Network connectivity issues in the Ashburn region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r0krsxbqxyn4)
 - 2022-06-21: [Cloudflare Service Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xvs51y9qs9dj)
 - 2022-06-15: [Network Performance Issues in the India region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ggtt599cd67f)
@@ -283,15 +282,11 @@ Here's some of Cloudflare incidents.
 - 2021-03-17: [Customer Impacting Issue in European Region](https://www.cloudflarestatus.com/incidents/0fvbh23lqlz2)
 - 2021-03-17: [Network Latency Issues in the Pacific North West region.](https://www.cloudflarestatus.com/incidents/hf8h9cg8lb4p)
 
-
-
 [//]: # (do not edit me; end)
-
 
 -----
 
 ## Other
-
 
 *2021.04.04*
 
@@ -310,7 +305,6 @@ Here's some of Cloudflare incidents.
 - And he [replaced "dead link" to cloudflare's link](https://trac.torproject.org/projects/tor/wiki/org/projects/DontBlockMe?action=diff&version=38&old_version=37).
   - _Hey Tor Project, it's not "dead". You deleted them, remember?_
 
-
 *2020.05.13*
 
 The Tor Project [deleted](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) important ticket, [number 24351](https://trac.torproject.org/projects/tor/ticket/24351) after the spammer replaced it with child porn images which hosted on the Tor Onion service. [Ticket 34175](https://trac.torproject.org/projects/tor/ticket/34175).
@@ -319,7 +313,6 @@ The Tor Project [deleted](https://lists.torproject.org/pipermail/anti-censorship
 *2020.02.25*
 
 Self publishing platform, [BookRix.com](https://www.bookrix.com/), denied Mr. Jeff Cliff's book titled "_The Great Cloudwall_" and stopped publishing it. The reason is "_Copyright infringement_". All of book's data, text and image can be found in this repository. You can download this book [here](pdf/2019-Jeff_Cliff_The_Great_Cloudwall.epub).
-
 
 *2019.08.05*
 
