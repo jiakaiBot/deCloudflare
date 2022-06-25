@@ -285,6 +285,7 @@ Do not create new issue or we will close it as duplicate.
 | [AhmedShojon2@twitter](https://twitter.com/AhmedShojon2/status/1392902773730004993) | advertise |
 | [AhmedShreyaan@twitter](https://twitter.com/AhmedShreyaan/status/1386617594489225218) | advertise |
 | [AhmedWaqarKhan1@twitter](https://twitter.com/AhmedWaqarKhan1/status/1393752833699188739) | advertise |
+| [ahmed_kanou@twitter](https://twitter.com/ahmed_kanou/status/1540653358532464642) | advertise |
 | [AhmerBu71105231@twitter](https://twitter.com/AhmerBu71105231/status/1398985358960840714) | advertise |
 | [ahnge08@twitter](https://twitter.com/ahnge08/status/1393110946919288837) | advertise |
 | [AhRoi75@twitter](https://twitter.com/AhRoi75/status/1405424553476558857) | advertise |
@@ -2248,6 +2249,7 @@ Do not create new issue or we will close it as duplicate.
 | [getferdi@twitter](https://twitter.com/getferdi/status/1519038075669827586) | advertise |
 | [ggcc37590384@twitter](https://twitter.com/ggcc37590384/status/1489085811094016005) | advertise |
 | [Gggaaaaa5@twitter](https://twitter.com/Gggaaaaa5/status/1387836659631202304) | advertise |
+| [GGHIMUOFFICIAL@twitter](https://twitter.com/GGHIMUOFFICIAL/status/1540651355462721536) | advertise |
 | [GgMg04587862@twitter](https://twitter.com/GgMg04587862/status/1392000179360788480) | advertise |
 | [GgUu18976278@twitter](https://twitter.com/GgUu18976278/status/1535274513042120705) | advertise |
 | [ghano_gh@twitter](https://twitter.com/ghano_gh/status/1403155628667850752) | advertise |
@@ -2996,6 +2998,7 @@ Do not create new issue or we will close it as duplicate.
 | [imduyhoang@twitter](https://twitter.com/imduyhoang/status/1503398392902582275) | advertise |
 | [imeplus_tv@twitter](https://twitter.com/imeplus_tv/status/1508088325726429195) | advertise |
 | [imhopeluv@twitter](https://twitter.com/imhopeluv/status/1388275070544535553) | advertise |
+| [imhuzeifa@twitter](https://twitter.com/imhuzeifa/status/1540657866222313472) | advertise |
 | [Imiss2302@twitter](https://twitter.com/Imiss2302/status/1404120201159798790) | advertise |
 | [Immortalgod13@twitter](https://twitter.com/Immortalgod13/status/1391123421203820546) | advertise |
 | [ImmotalMy@twitter](https://twitter.com/ImmotalMy/status/1403607300137492481) | advertise |
