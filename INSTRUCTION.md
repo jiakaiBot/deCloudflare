@@ -5,16 +5,12 @@
 ---
 
 <details>
-<summary>_click me_
-
-## Website is using Cloudflare
-</summary>
-
+<summary<h3>Website is using Cloudflare</h3></summary>
 
 - **Cloudflare users** | [**List Directory**](cloudflare_users/)
 
 | List name | Description |
-| -------- | -------- |
+| --- | --- |
 | [/domains/cloudflare_?.txt](cloudflare_users/domains) | Split files (base domain)     |
 | [ex_cloudflare_users.md](cloudflare_users/ex_cloudflare_users.md)     | Domains which used Cloudflare in the past, not anymore     |
 | [cloudflare_supporter.md](cloudflare_users/cloudflare_supporter.md) | who is supporting, endorsing, loving, or defending Cloudflare |
@@ -23,7 +19,7 @@
 - **Cloudflare Corporation** | [**List Directory**](cloudflare_inc/)
 
 | List name | Description |
-| -------- | -------- |
+| --- | --- |
 | [cloudflare_CIDR_v4.txt](cloudflare_inc/cloudflare_CIDR_v4.txt)     | IPv4 CIDR owned by Cloudflare     |
 | [cloudflare_CIDR_v6.txt](cloudflare_inc/cloudflare_CIDR_v6.txt)     | IPv6 CIDR owned by Cloudflare     |
 | [cloudflare_range_v4.txt](cloudflare_inc/cloudflare_range_v4.txt) | IPv4 range owned by Cloudflare |
@@ -32,7 +28,6 @@
 | [cloudflare_owned_domains.txt](cloudflare_inc/cloudflare_owned_domains.txt)     | Domains owned by Cloudflare     |
 | [cloudflare_owned_onions.txt](cloudflare_inc/cloudflare_owned_onions.txt)     | Tor .onions owned by Cloudflare     |
 | [cloudflare_members.md](cloudflare_inc/cloudflare_members.md) | Cloudflare employer, employee, ex-employee |
-
 
 **How to detect Cloudflare?**
 
@@ -93,11 +88,7 @@ Are you sure? *Remove* it from /split/ list and *add* to "[ex_cloudflare_users.m
 ------
 
 <details>
-<summary>_click me_
-
-## Website is NOT using Cloudflare
-</summary>
-
+<summary><h3>Website is NOT using Cloudflare</h3></summary>
 
 - **Non-Cloudflare CDN users** | [**List Directory**](not_cloudflare/)
 
@@ -123,7 +114,6 @@ Z9 Fastly
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
 
-
 ![](image/siteground.jpg)
 
 - Above is how Siteground-hosted ([INAP](https://www.inap.com/press-release/inap-completes-acquisition-singlehop/);[Singlehop](https://www.siteground.com/blog/siteground-partners-singlehop/)) sites often appear to Tor visitors when timeouts/tarpitting doesn't occur.
@@ -137,11 +127,7 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 ------
 
 <details>
-<summary>_click me_
-
-## Website is rejecting Tor visitor
-</summary>
-
+<summary><h3>Website is rejecting Tor visitor</h3></summary>
 
 - **Anti-Tor users** | [**List Directory**](anti-tor_users/)
 
@@ -149,7 +135,6 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 | -------- | -------- |
 | [/domains/attd.txt](anti-tor_users/domains/attd.txt)<br>[/domains/attd.json](anti-tor_users/domains/attd.json)     | Block Tor access (FQDN) |
 | [/misc/hostility.md](anti-tor_users/misc/hostility.md) | **Does NOT block Tor access** Domain and Comment |
-
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
 - Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will tell you which link rejected Tor visitor.
@@ -167,9 +152,7 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 
 **How can you trust their sites if they are not treating everyone equally?**
 
-
 ```
-
 About "Anti-Tor FQDN list" (attd*.txt)
 
 www.example.com
@@ -181,7 +164,6 @@ www.example.com
 
 senate.gov
    ---> base domain denied/harassed/challenged human who're using Tor.
-
 ```
 
 If your website is on this list, you better talk with your network administrator.
@@ -202,20 +184,14 @@ If you're not blocking Tor users, you will be removed automatically.
 ------
 
 <details>
-<summary>_click me_
-
-## How to add your data
-</summary>
-
+<summary><h3>How to add your data</h3></summary>
 
 A, B, or C will be enough. (or D if you really can't)
 **Thank you for your contribution. You are doing a good job!**
 
-
 > Type A: Use Online Editor
 
 - [Online Editor](http://editdcf.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
-
 
 > Type B: Push to git
 
@@ -223,7 +199,6 @@ A, B, or C will be enough. (or D if you really can't)
 2. Click "*Fork*" button.  (top-left corner)
 3. Edit `text` file.  (_you don't have to edit JSON file_)
 4. Create a *new pull request*.
-
 
 > Type C: Just scan the FQDN
 
@@ -237,29 +212,22 @@ Your contribution will be pushed to git automatically.
   - Use "_Is it blocking Tor?_" API.
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 -X POST -F 'f=www.emsisoft.com' (API URL)is_antitor.php`
 
-
 > Type D: Create an Issue
 
 Create an Issue and let us know about the change you want to make.
 You can [contribute anonymously](README.md).
-
 
 </details>
 
 ------
 
 <details>
-<summary>_click me_
-
-## How to setup git
-</summary>
-
+<summary><h3>How to setup git</h3></summary>
 
 This procedure will give you a cloudflare-tor fork with a privacy-respecting configuration to do pushes with SSH over Tor using `git.example`.
 Below procedure is designed for _Linux_.
 The first step covers Windows too, but these instructions probably
 need more adaptations for Windows and other platforms.
-
 
 - Linux: `aptitude install git tor ssh`
 - Windows: Download `PortableGit` from [Github](https://github.com/git-for-windows/) & run `git-bash.exe`
@@ -268,6 +236,7 @@ need more adaptations for Windows and other platforms.
 1. Create a `git.example` account (username "snowden" will be used for this example)
 1. Create an SSH key pair `$ ssh-keygen -t rsa -N '' -C 'snowden at git' -f "$HOME"/.ssh/id_rsa_mrsnowden`
 1. Edit `$HOME/.ssh/config`:
+
 ```
     host git.example
          hostname     git.example
@@ -284,6 +253,7 @@ need more adaptations for Windows and other platforms.
 1. go to the directory you want the project to be rooted in (hereafter we'll call it `$project_root`).
 1. anonymously download your fork: $ `git clone git@mrsnowden:you/cloudflare-tor.git`
 1. edit `$project_root/cloudflare-tor/.git/config` to include the account name and email address that will be on every commit, as well as the URL:
+
 ```
 [user]
         email = noreply@example.com
@@ -320,11 +290,8 @@ to git are automatically over Tor with this configuration
 ------
 
 <details>
-<summary>_click me_
-
-## About Cloudflare base domain list
+<summary><h3>About Cloudflare base domain list</h3>
 </summary>
-
 
 Our mission is clear - `stay away from Cloudflare`.
 
@@ -339,7 +306,6 @@ Until `the owner` completely stop using Cloudflare service for `example.com`, we
 There is `no exception`.
 
 ```
-
 "amazonpayments.com"
 
 $ getweb --headonly https://pages.amazonpayments.com/robots.txt
@@ -349,18 +315,13 @@ expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi
 alt-svc: h2="cflare******.onion:443"; ma=86400; persist=1
 server: cloudflare
 cf-ray: ***
-
 ```
 
 If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the "[ex_cloudflare_users.md](cloudflare_users/ex_cloudflare_users.md)" - after checking `example.com` with online tool below.
 
-
 1. Open "Query Database" webpage.
-
 2. Input domain name and click `Scan`.
-
 3. Click `test` for detailed scan.
-
 
 `Only a few Cloudflare user leave Cloudflare. False positive is uncommon.`
 
