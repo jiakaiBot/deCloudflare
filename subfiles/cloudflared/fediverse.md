@@ -12455,6 +12455,7 @@ Here's a list of public Fediverse services.
 | opensourcemusings.com | No |
 | openspace.cf | No |
 | openstreetmap.fr | No |
+| opentechnologies.co.za | No |
 | opentoken.de | No |
 | opentunisia.org | No |
 | openvalencia.site | No |
@@ -15623,7 +15624,7 @@ Here's a list of public Fediverse services.
 | somsants.net | No |
 | sondages.pro | No |
 | sonet.ws | No |
-| sonicboom.online | No |
+| sonicboom.online | Yes |
 | sonnenmulde.at | No |
 | sonntag.fr | No |
 | sonogatto.it | No |
@@ -19221,7 +19222,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,683 |
+| Cloudflare | 3,684 |
 | Normal | 15,495 |
 
 
