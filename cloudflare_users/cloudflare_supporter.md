@@ -3711,8 +3711,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6583,6 +6583,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sam47778402@twitter](https://twitter.com/Sam47778402/status/1396123062047625221) | advertise |
 | [Sambhra31401620@twitter](https://twitter.com/Sambhra31401620/status/1496921994725511199) | advertise |
 | [SameerDangi9@twitter](https://twitter.com/SameerDangi9/status/1377450627631095808) | advertise |
+| [sameethossain02@twitter](https://twitter.com/sameethossain02/status/1540701673328463874) | advertise |
 | [SamerTallauze@twitter](https://twitter.com/SamerTallauze/status/1478361206280835081) | advertise |
 | [Samim54823362@twitter](https://twitter.com/Samim54823362/status/1485258949540683778) | advertise |
 | [SamioWol@twitter](https://twitter.com/SamioWol/status/1395796936045649924) | advertise |
@@ -6790,6 +6791,7 @@ Do not create new issue or we will close it as duplicate.
 | [SheinThuKyaw@twitter](https://twitter.com/SheinThuKyaw/status/1392848524912386050) | advertise |
 | [shelattube@twitter](https://twitter.com/shelattube/status/1394830069550485507) | advertise |
 | [shemale_addict1@twitter](https://twitter.com/shemale_addict1/status/1490090426036101120) | advertise |
+| [ShemWachira1@twitter](https://twitter.com/ShemWachira1/status/1540728454328377352) | advertise |
 | [SherifMKhattab1@twitter](https://twitter.com/SherifMKhattab1/status/1403105134972837893) | advertise |
 | [shhrwin@twitter](https://twitter.com/shhrwin/status/1380867620811857922) | advertise |
 | [Shimi061203@twitter](https://twitter.com/Shimi061203/status/1539426706880012288) | advertise |
@@ -8261,6 +8263,7 @@ Do not create new issue or we will close it as duplicate.
 | [Wooddadda13@twitter](https://twitter.com/Wooddadda13/status/1393045087119056898) | advertise |
 | [WoolongsC@twitter](https://twitter.com/WoolongsC/status/1455335970610589696) | advertise |
 | [woraperth@twitter](https://twitter.com/woraperth/status/1527100429905334273) | advertise |
+| [world32541@twitter](https://twitter.com/world32541/status/1540714404899069953) | advertise |
 | [woseokproperty@twitter](https://twitter.com/woseokproperty/status/1390282007041626116) | advertise |
 | [Wp_Xube@twitter](https://twitter.com/Wp_Xube/status/1457203444847038465) | advertise |
 | [WriteLonger@twitter](https://twitter.com/WriteLonger/status/1379361846314950658) | advertise |
