@@ -845,6 +845,7 @@ Here's a list of public Fediverse services.
 | android-user.club | No |
 | androidn.tokyo | No |
 | andrus.io | Yes |
+| andrzejl.eu | No |
 | anduin.net | No |
 | andz.me | No |
 | anfora.social | Yes |
@@ -1737,6 +1738,7 @@ Here's a list of public Fediverse services.
 | bigpenis.life | No |
 | bigshoulders.city | No |
 | bihlink.com | No |
+| bikegraz.at | No |
 | bikelog.ru | No |
 | bikeshed.party | No |
 | bilb.info | Yes |
@@ -5717,7 +5719,7 @@ Here's a list of public Fediverse services.
 | fukuoka-mstdn.work | No |
 | fulda.social | No |
 | fulgur.xyz | No |
-| fulin.io | No |
+| fulin.io | Yes |
 | fullhosting.eu | No |
 | fullstackgeek.tech | No |
 | fullstuck.net | No |
@@ -6132,6 +6134,7 @@ Here's a list of public Fediverse services.
 | gitpod.io | No |
 | givel.fr | No |
 | givelotus.life | No |
+| gjcloak.top | No |
 | gjcloak.xyz | No |
 | gjhr.fr | No |
 | gjpower.me | No |
@@ -13938,6 +13941,7 @@ Here's a list of public Fediverse services.
 | raccoon.id | No |
 | raccoon.life | No |
 | raccoon.network | No |
+| racem.us | Yes |
 | racer159.com | No |
 | racheltheparrot.tf | No |
 | racing-lagoon.info | No |
@@ -14016,6 +14020,7 @@ Here's a list of public Fediverse services.
 | rampantmonkey.social | No |
 | rampin.org | No |
 | ramshackle.town | No |
+| randland.party | Yes |
 | randna.me | Yes |
 | random.systems | No |
 | randombits.host | No |
@@ -15023,6 +15028,7 @@ Here's a list of public Fediverse services.
 | semweb.pro | No |
 | senan.xyz | Yes |
 | sendero.social | No |
+| senigallia.one | Yes |
 | seniorenakademie-digital.de | No |
 | sennomo.net | No |
 | senooken.jp | No |
@@ -17516,6 +17522,7 @@ Here's a list of public Fediverse services.
 | ufeff.club | No |
 | ufm.lol | No |
 | ufm.su | No |
+| ugoday.co | No |
 | uguu.ltd | No |
 | uhlig.it | No |
 | uhnon.com | No |
@@ -19214,8 +19221,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,679 |
-| Normal | 15,492 |
+| Cloudflare | 3,683 |
+| Normal | 15,495 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
