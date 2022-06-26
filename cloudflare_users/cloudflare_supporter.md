@@ -2195,6 +2195,7 @@ Do not create new issue or we will close it as duplicate.
 | [fv_sestan@twitter](https://twitter.com/fv_sestan/status/1397051138210369538) | advertise |
 | [FXhkv@twitter](https://twitter.com/FXhkv/status/1395869051964985347) | advertise |
 | [fyhao@twitter](https://twitter.com/fyhao/status/1427551252964016135) | advertise |
+| [fyrman24@twitter](https://twitter.com/fyrman24/status/1541156750748942347) | advertise |
 | [FZLawAssociates@twitter](https://twitter.com/FZLawAssociates/status/1392177594183860226) | advertise |
 | [fzxenar@twitter](https://twitter.com/fzxenar/status/1478967657407795207) | advertise |
 | [fz_law@twitter](https://twitter.com/fz_law/status/1392177594183860226) | advertise |
