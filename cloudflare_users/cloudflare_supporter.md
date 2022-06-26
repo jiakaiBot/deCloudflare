@@ -3711,8 +3711,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7941,6 +7941,7 @@ Do not create new issue or we will close it as duplicate.
 | [UwdieynCentre@twitter](https://twitter.com/UwdieynCentre/status/1398371128700063745) | advertise |
 | [uyen_ntm@twitter](https://twitter.com/uyen_ntm/status/1385006379870527489) | advertise |
 | [UYePhyo1@twitter](https://twitter.com/UYePhyo1/status/1390074171409895427) | advertise |
+| [UyghurTv@twitter](https://twitter.com/UyghurTv/status/1540987593315287042) | advertise |
 | [UynTrn69457275@twitter](https://twitter.com/UynTrn69457275/status/1402518691749588993) | advertise |
 | [uzairabdul@twitter](https://twitter.com/uzairabdul/status/1393627317201620992) | advertise |
 | [UzairMan@twitter](https://twitter.com/UzairMan/status/1385198515861659649) | advertise |
