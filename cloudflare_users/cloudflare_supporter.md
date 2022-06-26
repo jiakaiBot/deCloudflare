@@ -2074,6 +2074,7 @@ Do not create new issue or we will close it as duplicate.
 | [FactNewNetwork@twitter](https://twitter.com/FactNewNetwork/status/1463480582784962560) | advertise |
 | [FactoPardo@twitter](https://twitter.com/FactoPardo/status/1519470206594297863) | advertise |
 | [fahedrahmani@twitter](https://twitter.com/fahedrahmani/status/1505209723838214152) | advertise |
+| [FahmidKhan14@twitter](https://twitter.com/FahmidKhan14/status/1541104729232908289) | advertise |
 | [faighenzho@twitter](https://twitter.com/faighenzho/status/1382412226925973506) | advertise |
 | [FaisalHossine@twitter](https://twitter.com/FaisalHossine/status/1386253418218491905) | advertise |
 | [faisal_asif@twitter](https://twitter.com/faisal_asif/status/1518406069764112392) | advertise |
