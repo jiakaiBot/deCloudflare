@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 2,552 |
 | net | 1,474 |
 | social | 1,126 |
-| org | 1,059 |
+| org | 1,060 |
 | de | 928 |
 
 
@@ -13137,7 +13137,7 @@ Here's a list of public Fediverse services.
 | pinheirodeabrantes.pt | No |
 | pini.fr | No |
 | pink.institute | No |
-| pinkdog.cc | No |
+| pinkdog.cc | Yes |
 | pinkduck.xyz | No |
 | pinkelephant.dev | No |
 | pinkelephantco.de | No |
@@ -14020,6 +14020,7 @@ Here's a list of public Fediverse services.
 | rakyat.cc | No |
 | ralsei.moe | No |
 | ramble.space | No |
+| ramen-fsm.eu.org | No |
 | ramendon.jp | No |
 | ramo.today | No |
 | ramonperalta.nl | No |
@@ -19229,7 +19230,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,688 |
+| Cloudflare | 3,689 |
 | Normal | 15,498 |
 
 
