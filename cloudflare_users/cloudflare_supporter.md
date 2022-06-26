@@ -2273,6 +2273,7 @@ Do not create new issue or we will close it as duplicate.
 | [giangle120599@twitter](https://twitter.com/giangle120599/status/1506274775722770441) | advertise |
 | [GiangNg50047953@twitter](https://twitter.com/GiangNg50047953/status/1493949501219819522) | advertise |
 | [GiangNguynTrn14@twitter](https://twitter.com/GiangNguynTrn14/status/1397055320958984193) | advertise |
+| [Giangx_@twitter](https://twitter.com/Giangx_/status/1541141620254724096) | advertise |
 | [gil6508343915@twitter](https://twitter.com/gil6508343915/status/1505250862767087617) | advertise |
 | [gimanadotkom@twitter](https://twitter.com/gimanadotkom/status/1383989601493164041) | advertise |
 | [gindaGill9@twitter](https://twitter.com/gindaGill9/status/1377649793418297345) | advertise |
@@ -4720,6 +4721,7 @@ Do not create new issue or we will close it as duplicate.
 | [Minh18041999@twitter](https://twitter.com/Minh18041999/status/1487079475368308739) | advertise |
 | [Minh22002919@twitter](https://twitter.com/Minh22002919/status/1398568502483591168) | advertise |
 | [Minh23535907@twitter](https://twitter.com/Minh23535907/status/1401465681598500871) | advertise |
+| [minh53487577@twitter](https://twitter.com/minh53487577/status/1541140961467572224) | advertise |
 | [minh81299480@twitter](https://twitter.com/minh81299480/status/1386326668562685955) | advertise |
 | [MinhAnh25122007@twitter](https://twitter.com/MinhAnh25122007/status/1403191817101737988) | advertise |
 | [MinhAnh32753974@twitter](https://twitter.com/MinhAnh32753974/status/1493253864212287488) | advertise |
