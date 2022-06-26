@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Improvement: Need initial PP Logo page before rewriting the URL to /auth/login](https://github.com/photoprism/photoprism/issues/2466)
 - [Issues getting cloudflare backed website](https://github.com/forlater-email/navani/issues/4)
 - [Cloudflare not working after updating to 3.1.3](https://github.com/home-assistant/addons/issues/2558)
 - [Add Cloudflare API support](https://github.com/ddavness/power-mailinabox/issues/60)
