@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,551 |
-| net | 1,473 |
+| com | 2,552 |
+| net | 1,474 |
 | social | 1,126 |
-| org | 1,058 |
-| de | 927 |
+| org | 1,059 |
+| de | 928 |
 
 
 - Mastodon, Pleroma, etc
@@ -781,6 +781,7 @@ Here's a list of public Fediverse services.
 | amiensweb.fr | No |
 | amifsud.fr | No |
 | amii.moe | Yes |
+| amiok.net | No |
 | amity.zone | No |
 | amiva.cc | No |
 | amk.ie | Yes |
@@ -2633,7 +2634,7 @@ Here's a list of public Fediverse services.
 | chemoner.tokyo | No |
 | chemtrail.airforce | No |
 | cherain.be | No |
-| cheribaker.com | No |
+| cheribaker.com | Yes |
 | chernow.org | No |
 | cherokeesofidaho.org | No |
 | cheshire.io | No |
@@ -3310,7 +3311,7 @@ Here's a list of public Fediverse services.
 | culturewar.radio | No |
 | culturewar.site | Yes |
 | culturewar.us | No |
-| cum.coffee | No |
+| cum.coffee | Yes |
 | cum.cx | No |
 | cum.makeup | No |
 | cum.salon | No |
@@ -5024,6 +5025,7 @@ Here's a list of public Fediverse services.
 | fdb.to | No |
 | fdlibre.eu | No |
 | fdn.fr | No |
+| fearisfreedom.com | No |
 | fearness.org | No |
 | feather.city | Yes |
 | feathers.link | No |
@@ -5173,6 +5175,7 @@ Here's a list of public Fediverse services.
 | feliwyn.fr | No |
 | felixkazuya.de | Yes |
 | felk.ie | No |
+| felleisen.de | No |
 | fellies.social | No |
 | felmey.org | No |
 | felvidek.online | No |
@@ -6445,6 +6448,7 @@ Here's a list of public Fediverse services.
 | grunig.org | No |
 | grupli.org | No |
 | grurple.org | No |
+| gsalucci.dev | No |
 | gshift.cf | No |
 | gskapp.live | No |
 | gspirate.club | Yes |
@@ -7584,7 +7588,7 @@ Here's a list of public Fediverse services.
 | irishstew.org | No |
 | irkos.uk | Yes |
 | irlnc.org | No |
-| iro-iro.xyz | No |
+| iro-iro.xyz | Yes |
 | iro.moe | Yes |
 | iroiro.party | Yes |
 | ironboundsoftware.com | Yes |
@@ -13868,6 +13872,7 @@ Here's a list of public Fediverse services.
 | quinlan.cloud | Yes |
 | quinnter.net | No |
 | quip.social | No |
+| quip.tk | No |
 | quippini.net | No |
 | quit.im | No |
 | quite.exposed | Yes |
@@ -15004,6 +15009,7 @@ Here's a list of public Fediverse services.
 | seiyudon.net | No |
 | seizeheures.fr | No |
 | seizemeans.com | No |
+| sekla.info | No |
 | sektori.org | Yes |
 | selbach.ca | No |
 | selbach.dev | No |
@@ -18562,6 +18568,7 @@ Here's a list of public Fediverse services.
 | wrongthink.top | No |
 | wsf2021.info | No |
 | wsforum.net | No |
+| wsmedia.org | Yes |
 | wsoom.social | No |
 | wsring.net | No |
 | wsup.social | No |
@@ -19222,8 +19229,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,684 |
-| Normal | 15,495 |
+| Cloudflare | 3,688 |
+| Normal | 15,498 |
 
 
 ### 19.2% of public Fediverse services are using Cloudflare.
