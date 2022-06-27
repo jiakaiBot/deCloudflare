@@ -5537,6 +5537,7 @@ Do not create new issue or we will close it as duplicate.
 | [nnnnn5437@twitter](https://twitter.com/nnnnn5437/status/1507002698205327360) | advertise |
 | [noahhuntersmith@twitter](https://twitter.com/noahhuntersmith/status/1515008532571111424) | advertise |
 | [NoahLiptrap@twitter](https://twitter.com/NoahLiptrap/status/1508131762177654784) | advertise |
+| [noah_pluto@twitter](https://twitter.com/noah_pluto/status/1541186919258025984) | advertise |
 | [NoBanId2@twitter](https://twitter.com/NoBanId2/status/1395574170683985928) | advertise |
 | [Nobel_Chow@twitter](https://twitter.com/Nobel_Chow/status/1439072225466847241) | advertise |
 | [nobinafurio2k@twitter](https://twitter.com/nobinafurio2k/status/1396555230838415361) | advertise |
@@ -8158,6 +8159,7 @@ Do not create new issue or we will close it as duplicate.
 | [WaiYanS31684454@twitter](https://twitter.com/WaiYanS31684454/status/1392228316422098944) | advertise |
 | [waiyan_linhtet@twitter](https://twitter.com/waiyan_linhtet/status/1390367028603625474) | advertise |
 | [WaiZinKoKo2@twitter](https://twitter.com/WaiZinKoKo2/status/1390190890501562369) | advertise |
+| [Wali56764457@twitter](https://twitter.com/Wali56764457/status/1541197686082338817) | advertise |
 | [WalterSmith00@twitter](https://twitter.com/WalterSmith00/status/1499907092383080450) | advertise |
 | [WangMi87623155@twitter](https://twitter.com/WangMi87623155/status/1392754494258040832) | advertise |
 | [wannakhaingsoe@twitter](https://twitter.com/wannakhaingsoe/status/1390612150054440963) | advertise |
