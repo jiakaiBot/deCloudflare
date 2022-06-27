@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,552 |
-| net | 1,474 |
+| net | 1,475 |
 | social | 1,126 |
 | org | 1,060 |
 | de | 928 |
@@ -6797,7 +6797,7 @@ Here's a list of public Fediverse services.
 | henrick.me | No |
 | henriksen.is | Yes |
 | henrygarner.im | No |
-| henshaw.org | No |
+| henshaw.org | Yes |
 | henshaw.social | Yes |
 | hentai.agency | No |
 | hentai.baby | No |
@@ -9150,7 +9150,7 @@ Here's a list of public Fediverse services.
 | libertopia.cc | No |
 | libertyaf.io | No |
 | libertyblitzkrieg.com | Yes |
-| libertymatrix.io | No |
+| libertymatrix.io | Yes |
 | libertynode.cam | No |
 | libertynode.net | No |
 | libertynode.tv | No |
@@ -10426,6 +10426,7 @@ Here's a list of public Fediverse services.
 | memiks.fr | No |
 | memo-village.com | No |
 | memo-village.online | No |
+| memories.am | Yes |
 | memoryandthought.me | No |
 | memtech.website | Yes |
 | meneer.space | No |
@@ -10536,7 +10537,7 @@ Here's a list of public Fediverse services.
 | mi-chan.ml | No |
 | mi-chan.work | No |
 | mi2428.net | No |
-| miaochann.com | No |
+| miaochann.com | Yes |
 | miaostay.com | Yes |
 | miaow.gay | No |
 | miasma.space | No |
@@ -14544,6 +14545,7 @@ Here's a list of public Fediverse services.
 | rule-of-three.club | No |
 | ruleit.stream | Yes |
 | rulix.info | No |
+| rumbly.net | No |
 | rumia.tk | No |
 | run-girls.run | No |
 | rundfunker.net | No |
@@ -17120,7 +17122,7 @@ Here's a list of public Fediverse services.
 | tootme.de | No |
 | tootme.ru | No |
 | tootmin.network | No |
-| tootmusic.com | No |
+| tootmusic.com | Yes |
 | tootodon.xyz | Yes |
 | tootplanet.space | Yes |
 | tootpoint.com | No |
@@ -17319,7 +17321,7 @@ Here's a list of public Fediverse services.
 | truxton.com | No |
 | trwnh.com | Yes |
 | trxrg.com | Yes |
-| tryfriendica.de | No |
+| tryfriendica.de | Yes |
 | tryingpoetry.com | No |
 | tryliberty.org | No |
 | trynary.net | No |
@@ -19230,8 +19232,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,689 |
-| Normal | 15,498 |
+| Cloudflare | 3,695 |
+| Normal | 15,494 |
 
 
-### 19.2% of public Fediverse services are using Cloudflare.
+### 19.3% of public Fediverse services are using Cloudflare.
