@@ -5381,6 +5381,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguyenkhacanhh@twitter](https://twitter.com/nguyenkhacanhh/status/1478749565364813825) | advertise |
 | [NguyenP04335211@twitter](https://twitter.com/NguyenP04335211/status/1471757635879780356) | advertise |
 | [Nguyent24495937@twitter](https://twitter.com/Nguyent24495937/status/1497216805932126215) | advertise |
+| [NguyenT53568981@twitter](https://twitter.com/NguyenT53568981/status/1541434099692617728) | advertise |
 | [NguyenT56005155@twitter](https://twitter.com/NguyenT56005155/status/1505492939254157312) | advertise |
 | [Nguyenthaonhi22@twitter](https://twitter.com/Nguyenthaonhi22/status/1392620098096037890) | advertise |
 | [NguyenThat17@twitter](https://twitter.com/NguyenThat17/status/1523878007328419845) | advertise |
@@ -7771,6 +7772,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrngNghaNH2@twitter](https://twitter.com/TrngNghaNH2/status/1406533332423233540) | advertise |
 | [TrngPhm89696771@twitter](https://twitter.com/TrngPhm89696771/status/1387145888053690373) | advertise |
 | [TrngPho36370888@twitter](https://twitter.com/TrngPho36370888/status/1398188611867004930) | advertise |
+| [Trnhmin93832782@twitter](https://twitter.com/Trnhmin93832782/status/1541427659837943808) | advertise |
 | [TrnHngLy18@twitter](https://twitter.com/TrnHngLy18/status/1385581701514940417) | advertise |
 | [trnHnh36775165@twitter](https://twitter.com/trnHnh36775165/status/1493078579277488129) | advertise |
 | [TrnhTrnh300495@twitter](https://twitter.com/TrnhTrnh300495/status/1468838879457210369) | advertise |
