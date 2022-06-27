@@ -2758,6 +2758,7 @@ Do not create new issue or we will close it as duplicate.
 | [HsuWaiP68516569@twitter](https://twitter.com/HsuWaiP68516569/status/1396631308953165824) | advertise |
 | [HsuYati04730250@twitter](https://twitter.com/HsuYati04730250/status/1390278756976128007) | advertise |
 | [hs_domains@twitter](https://twitter.com/hs_domains/status/1386400201292742656) | advertise |
+| [htatheinsint2@twitter](https://twitter.com/htatheinsint2/status/1541232406115778560) | advertise |
 | [HtatNiang@twitter](https://twitter.com/HtatNiang/status/1391827610955522051) | advertise |
 | [htaw_v@twitter](https://twitter.com/htaw_v/status/1390879879793496064) | advertise |
 | [HtayAun36273144@twitter](https://twitter.com/HtayAun36273144/status/1391109375742283778) | advertise |
@@ -4282,6 +4283,7 @@ Do not create new issue or we will close it as duplicate.
 | [long_trab@twitter](https://twitter.com/long_trab/status/1490557973038452738) | advertise |
 | [LoppoZ@twitter](https://twitter.com/LoppoZ/status/1377122374617681922) | advertise |
 | [lordcurtis@twitter](https://twitter.com/lordcurtis/status/1479481798061027328) | advertise |
+| [lorddzhi1@twitter](https://twitter.com/lorddzhi1/status/1541236958407581697) | advertise |
 | [Loren75832409@twitter](https://twitter.com/Loren75832409/status/1395048080441962505) | advertise |
 | [lorencialord@twitter](https://twitter.com/lorencialord/status/1384901052823113731) | advertise |
 | [LorenzoNolberto@twitter](https://twitter.com/LorenzoNolberto/status/1505933975545597956) | advertise |
