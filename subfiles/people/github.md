@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Pruning extra revisions fail 3.7.45:](https://github.com/craftcms/cms/issues/11507)
 - [Global IP/proxyProvider restrictions](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2130)
 - [Improvement: Need initial PP Logo page before rewriting the URL to /auth/login](https://github.com/photoprism/photoprism/issues/2466)
 - [Issues getting cloudflare backed website](https://github.com/forlater-email/navani/issues/4)
