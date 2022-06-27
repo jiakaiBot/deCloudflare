@@ -259,6 +259,7 @@ Or is this merely a case of simple modesty?
 | Ben Han | Korea Sales Executive |  |
 | Benjamin Cartwright-Cox | Support Engineer |  |
 | Ben Krebsbach | Employee | |
+| Ben Munroe | Employee | |
 | Ben Peera | Employee |  |
 | Ben Ritter | Networking | https://twitter.com/BenNetworks<br>https://www.linkedin.com/in/benritter |
 | Ben Solomon | Product Management Intern |  |
@@ -493,6 +494,7 @@ Or is this merely a case of simple modesty?
 | Deon Roos | Solutions Engineer |  |
 | Derek Chamorro | Infrastructure Security |  |
 | Derek Gonyeo | Systems Engineer Intern |  |
+| Derek Pitts | Employee | |
 | Derek Yee | Product Marketing | https://twitter.com/derek_yee |
 | Devin Davis | Employee |  |
 | Devin Miller | IT Support Technician |  |
