@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [observer load testing (up to 10,000 observers)](https://github.com/ctm/mb2-doc/issues/995)
 - [Pruning extra revisions fail 3.7.45:](https://github.com/craftcms/cms/issues/11507)
 - [Global IP/proxyProvider restrictions](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2130)
 - [Improvement: Need initial PP Logo page before rewriting the URL to /auth/login](https://github.com/photoprism/photoprism/issues/2466)
