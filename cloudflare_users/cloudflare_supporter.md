@@ -6613,6 +6613,7 @@ Do not create new issue or we will close it as duplicate.
 | [SamyoFox@twitter](https://twitter.com/SamyoFox/status/1445761137534930952) | advertise |
 | [Sam_Arun_94@twitter](https://twitter.com/Sam_Arun_94/status/1388760215282065413) | advertise |
 | [San28038087@twitter](https://twitter.com/San28038087/status/1477529662368612354) | advertise |
+| [sanba06c@twitter](https://twitter.com/sanba06c/status/1541455979132334081) | advertise |
 | [Sandar52132535@twitter](https://twitter.com/Sandar52132535/status/1394888826120638468) | advertise |
 | [SandarS54620286@twitter](https://twitter.com/SandarS54620286/status/1384767444019867648) | advertise |
 | [sandeep_sudheer@twitter](https://twitter.com/sandeep_sudheer/status/1490635456404668419) | advertise |
@@ -7046,6 +7047,7 @@ Do not create new issue or we will close it as duplicate.
 | [SparrowsHawk1@twitter](https://twitter.com/SparrowsHawk1/status/1395590998135242757) | advertise |
 | [Sparsh7_cr@twitter](https://twitter.com/Sparsh7_cr/status/1395302496545828874) | advertise |
 | [SPdater@twitter](https://twitter.com/SPdater/status/1481116533661528067) | advertise |
+| [SpideyPlays3@twitter](https://twitter.com/SpideyPlays3/status/1541471763024023553) | advertise |
 | [SpinDatReckhard@twitter](https://twitter.com/SpinDatReckhard/status/1403347991340228617) | advertise |
 | [SpiritoElMuerte@twitter](https://twitter.com/SpiritoElMuerte/status/1527695286545489920) | advertise |
 | [SpiritualJay2k@twitter](https://twitter.com/SpiritualJay2k/status/1496013442985123845) | advertise |
