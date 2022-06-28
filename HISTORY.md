@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-06-28: [Issue creating new R2 authentication tokens](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dt6wjjtql4w7)
 - 2022-06-24: [Network connectivity issues in the Ashburn region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r0krsxbqxyn4)
 - 2022-06-21: [Cloudflare Service Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xvs51y9qs9dj)
 - 2022-06-15: [Network Performance Issues in the India region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ggtt599cd67f)
