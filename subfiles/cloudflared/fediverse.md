@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,554 |
-| net | 1,475 |
+| com | 2,555 |
+| net | 1,476 |
 | social | 1,126 |
 | org | 1,061 |
-| de | 928 |
+| de | 929 |
 
 
 - Mastodon, Pleroma, etc
@@ -2402,6 +2402,7 @@ Here's a list of public Fediverse services.
 | care-tags.org | No |
 | carfulhony.com | No |
 | caric.io | No |
+| caricio.com | No |
 | carlesbellver.net | No |
 | carma.red | No |
 | carman.social | No |
@@ -3606,6 +3607,7 @@ Here's a list of public Fediverse services.
 | dat.cloud | Yes |
 | data.coop | No |
 | data.haus | No |
+| datablob.de | Yes |
 | dataflection.com | No |
 | datagirl.xyz | No |
 | datagueule.tv | Yes |
@@ -4746,6 +4748,7 @@ Here's a list of public Fediverse services.
 | esadhar.net | No |
 | escapism.work | Yes |
 | escovan.net | No |
+| escpod.fun | No |
 | escriu.cat | No |
 | esdin.me | No |
 | eshopview.com | No |
@@ -6472,6 +6475,7 @@ Here's a list of public Fediverse services.
 | guelink.de | Yes |
 | guerilla-economist.eu.org | No |
 | guerredeclasse.fr | No |
+| guerrill.art | No |
 | guerrilla.earth | No |
 | guerrillagardening.club | No |
 | gueto.net | No |
@@ -8059,6 +8063,7 @@ Here's a list of public Fediverse services.
 | juche.town | No |
 | judge.sh | Yes |
 | judrey.eu | No |
+| judydev.net | No |
 | juengling-edv.de | No |
 | jugendarbe.it | Yes |
 | jugendhacker.de | No |
@@ -12845,6 +12850,7 @@ Here's a list of public Fediverse services.
 | patchwork.link | No |
 | path.pictures | No |
 | patologia.online | No |
+| patr.fr | No |
 | patriciadrive.com | No |
 | pauho.net | No |
 | paulbutler.org | Yes |
@@ -19244,8 +19250,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,697 |
-| Normal | 15,504 |
+| Cloudflare | 3,698 |
+| Normal | 15,509 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
