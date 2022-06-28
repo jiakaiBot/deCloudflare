@@ -13,6 +13,8 @@ let my_cf_collection = {},
    my_xcs_a1 = false,
    my_xcs_a2 = false,
    my_xcs_a4 = false,
+   my_xcs_a5 = false,
+   my_xcs_a6 = false,
    my_nfo_lang = 'eo';
 function get_ymd() {
    let nD = new Date(),
@@ -1295,14 +1297,16 @@ browser.storage.local.get(null).then((d) => {
    my_xcs_a2 = (d.xcsa2 == 'y') ? true : false;
    my_rdr_ewp = (d.xcsa3 == 'y') ? true : false;
    my_xcs_a4 = (d.xcsa4 == 'y') ? true : false;
+   my_xcs_a5 = (d.xcsa5 == 'y') ? true : false;
+   my_xcs_a6 = (d.xcsa6 == 'y') ? true : false;
    my_nfo_lang = d.ul || 'eo';
 });
 browser.runtime.onMessage.addListener(function (a, b, c) {
    if (a[0] == 'cs') {
-      browser.tabs.sendMessage(b.tab.id, [a[1], my_cf_collection.hasOwnProperty(get_realdomain(a[1])), my_xcs_a1, my_xcs_a2, my_xcs_a4]);
+      browser.tabs.sendMessage(b.tab.id, [a[1], my_cf_collection.hasOwnProperty(get_realdomain(a[1])), my_xcs_a1, my_xcs_a2, my_xcs_a4, my_xcs_a5, my_xcs_a6]);
    }
    if (a[0] == 'cf') {
-      c([JSON.stringify(my_cf_collection), JSON.stringify(my_cf_ignore), my_action, my_customurl, [!my_nfo_alu, !my_nfo_cfd, my_xcs_a1, my_xcs_a2, my_rdr_ewp, my_xcs_a4], my_nfo_lang]);
+      c([JSON.stringify(my_cf_collection), JSON.stringify(my_cf_ignore), my_action, my_customurl, [!my_nfo_alu, !my_nfo_cfd, my_xcs_a1, my_xcs_a2, my_rdr_ewp, my_xcs_a4, my_xcs_a5, my_xcs_a6], my_nfo_lang]);
    }
    if (a[0] == 'ul') {
       my_nfo_lang = a[1];
@@ -1361,6 +1365,18 @@ browser.runtime.onMessage.addListener(function (a, b, c) {
          my_xcs_a4 = a[2];
          browser.storage.local.set({
             'xcsa4': (a[2]) ? 'y' : 'n'
+         });
+      }
+      if (a[1] == '5') {
+         my_xcs_a5 = a[2];
+         browser.storage.local.set({
+            'xcsa5': (a[2]) ? 'y' : 'n'
+         });
+      }
+      if (a[1] == '6') {
+         my_xcs_a6 = a[2];
+         browser.storage.local.set({
+            'xcsa6': (a[2]) ? 'y' : 'n'
          });
       }
    }
