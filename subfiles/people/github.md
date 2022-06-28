@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Total canvas memory use exceeds the maximum limit (384 MB)](https://github.com/wojtekmaj/react-pdf/issues/1020)
 - [Cloudflare DDoS Protection triggered when sending from AWS](https://github.com/inUtil-info/node-red-contrib-whin/issues/33)
 - [Segfaulting when you don't have a proper API setup](https://github.com/LeeBrotherston/badflare/issues/1)
 - [observer load testing (up to 10,000 observers)](https://github.com/ctm/mb2-doc/issues/995)
