@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,552 |
+| com | 2,554 |
 | net | 1,475 |
 | social | 1,126 |
-| org | 1,060 |
+| org | 1,061 |
 | de | 928 |
 
 
@@ -5201,6 +5201,7 @@ Here's a list of public Fediverse services.
 | feraltomatoes.com | No |
 | ferd.at | No |
 | ferguson.today | No |
+| feria.me.uk | Yes |
 | ferraris.me | No |
 | ferret.business | No |
 | ferrovipath.es | No |
@@ -5850,6 +5851,7 @@ Here's a list of public Fediverse services.
 | gageure.fr | No |
 | gaialabs.ch | No |
 | gaiserik.com | Yes |
+| gajsin.name | No |
 | gakugeidon.pw | No |
 | gakusei.space | No |
 | galacticstrip.com | No |
@@ -7754,6 +7756,7 @@ Here's a list of public Fediverse services.
 | jamesekstrom.com | No |
 | jamesg.blog | No |
 | jamesgallagher.social | No |
+| jameskitt616.one | No |
 | jameslandrum.com | No |
 | jameslynch.dev | No |
 | jamesmwright.com | No |
@@ -8186,6 +8189,7 @@ Here's a list of public Fediverse services.
 | kalua.im | Yes |
 | kalum.ca | No |
 | kame.land | No |
+| kame.moe | No |
 | kameari.tokyo | No |
 | kameha.click | No |
 | kamel.social | No |
@@ -11828,6 +11832,7 @@ Here's a list of public Fediverse services.
 | nishimin.net | No |
 | nishinomiya.in.net | No |
 | nissenet.com | No |
+| nisu.ly | Yes |
 | nitech.online | No |
 | nitecrew.biz | No |
 | nitiasa.com | Yes |
@@ -12992,6 +12997,7 @@ Here's a list of public Fediverse services.
 | persadon.com | No |
 | personal.pizza | No |
 | personaljournal.ca | No |
+| perspektivbrocken.org | No |
 | perthchat.org | Yes |
 | pertur.be | No |
 | peshane.net | No |
@@ -13094,6 +13100,7 @@ Here's a list of public Fediverse services.
 | piconet.co.uk | No |
 | piconic.co | Yes |
 | pics.mu | No |
+| picverse.am | No |
 | piecemaker.rocks | No |
 | piecewise.im | No |
 | piedmontnons.top | No |
@@ -13490,6 +13497,7 @@ Here's a list of public Fediverse services.
 | portes-imaginaire.org | No |
 | portkaihou.org | No |
 | posadis.me | No |
+| poslac.com | No |
 | poslovitch.fr | No |
 | possum.gay | No |
 | possumgraveyard.com | No |
@@ -13583,6 +13591,7 @@ Here's a list of public Fediverse services.
 | prfm.jp | No |
 | prgmr.com | No |
 | pricey.uk | No |
+| pride-rock-labs.com | No |
 | pridelands.io | No |
 | prieb.me | No |
 | prieb.social | No |
@@ -13928,6 +13937,7 @@ Here's a list of public Fediverse services.
 | r4o.jp | No |
 | r53.me | No |
 | r5c3.fr | No |
+| r66.dev | No |
 | r669.live | Yes |
 | r88t.net | No |
 | ra-phi.ch | No |
@@ -15255,6 +15265,7 @@ Here's a list of public Fediverse services.
 | silicon.moe | Yes |
 | silkhe.art | Yes |
 | silkky.cloud | Yes |
+| sillydragon.ca | No |
 | siltala.net | No |
 | silverfishdevelopment.com | Yes |
 | silverhaze.eu | No |
@@ -17191,6 +17202,7 @@ Here's a list of public Fediverse services.
 | trainsgende.red | No |
 | tranarchy.fish | No |
 | trancart.eu | No |
+| trankil.info | No |
 | trannguyenqb.com | No |
 | tranny.town | No |
 | tranquilbigfoot.gg | No |
@@ -19232,8 +19244,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,695 |
-| Normal | 15,494 |
+| Cloudflare | 3,697 |
+| Normal | 15,504 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
