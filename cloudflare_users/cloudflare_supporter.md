@@ -211,6 +211,7 @@ Do not create new issue or we will close it as duplicate.
 | [AdaArkane@twitter](https://twitter.com/AdaArkane/status/1522499805397716992) | advertise |
 | [Adam39171140@twitter](https://twitter.com/Adam39171140/status/1515414463008104464) | advertise |
 | [AdamHakeemi18@twitter](https://twitter.com/AdamHakeemi18/status/1396117339007979526) | advertise |
+| [AdamKha89958233@twitter](https://twitter.com/AdamKha89958233/status/1541880757144240128) | advertise |
 | [adamtansl@twitter](https://twitter.com/adamtansl/status/1527957253990809600) | advertise |
 | [adathorium@twitter](https://twitter.com/adathorium/status/1436389816573194240) | advertise |
 | [AddisonReis6@twitter](https://twitter.com/AddisonReis6/status/1510670586166525967) | advertise |
@@ -6487,6 +6488,7 @@ Do not create new issue or we will close it as duplicate.
 | [royalja40697482@twitter](https://twitter.com/royalja40697482/status/1403734511729315840) | advertise |
 | [royal_blood1506@twitter](https://twitter.com/royal_blood1506/status/1392355606825115655) | advertise |
 | [roy_souryaraj@twitter](https://twitter.com/roy_souryaraj/status/1399422906002640904) | advertise |
+| [RozeBlade@twitter](https://twitter.com/RozeBlade/status/1541892699673985025) | advertise |
 | [RPadawad@twitter](https://twitter.com/RPadawad/status/1380909267587239939) | advertise |
 | [RpaS0lution@twitter](https://twitter.com/RpaS0lution/status/1374198517950865409) | advertise |
 | [rpetty@twitter](https://twitter.com/rpetty/status/1384697297817198593) | advertise |
