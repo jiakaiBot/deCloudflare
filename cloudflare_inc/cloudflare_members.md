@@ -1782,6 +1782,7 @@ Or is this merely a case of simple modesty?
 | Yevgen Safronov | Web Engineer |  |
 | Yew Yong | Employee |  |
 | Yien Wu | Relationship Manager |  |
+| Yingchen Wang | Employee | |
 | Yin Yue | Employee |  |
 | Young Park | Employee |  |
 | Yuchen Wu | Systems Engineer | yuchenw@cs.cmu.edu<br>5000 Forbes Ave, Pittsburgh, USA, 15213 |
