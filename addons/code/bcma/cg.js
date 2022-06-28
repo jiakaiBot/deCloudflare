@@ -21,6 +21,8 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('csa2').checked = r[4][3];
       document.getElementById('csa3').checked = r[4][4];
       document.getElementById('csa4').checked = r[4][5];
+      document.getElementById('csa5').checked = r[4][6];
+      document.getElementById('csa6').checked = r[4][7];
       switch (r[2]) {
          case 0:
             document.getElementById('ta0').checked = true;
@@ -110,6 +112,12 @@ document.addEventListener('DOMContentLoaded', () => {
    });
    document.getElementById('csa4').addEventListener('click', function () {
       browser.runtime.sendMessage(['csa', '4', (this.checked ? true : false)]);
+   });
+   document.getElementById('csa5').addEventListener('click', function () {
+      browser.runtime.sendMessage(['csa', '5', (this.checked ? true : false)]);
+   });
+   document.getElementById('csa6').addEventListener('click', function () {
+      browser.runtime.sendMessage(['csa', '6', (this.checked ? true : false)]);
    });
    document.getElementById('ta0').addEventListener('click', function () {
       if (this.checked) {
