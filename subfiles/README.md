@@ -80,7 +80,7 @@
   - [How many % of Mozilla's Root CAs are using Cloudflare?](cloudflared/mozilla_rootca.md)
   - [How many % of Open Data sites are using Cloudflare?](cloudflared/opendata.md)
   - [How many % of Privacy organizations are using Cloudflare?](cloudflared/privacy_organizations.md)
-  - [How many % of Computer security companies are using Cloudflare?](cloudflared/computer_security.md)
+  - [How many % of Computer security companies are using Cloudflare?](cloudflared/computer_security.md) #antivirus
   - [How many % of F-Droid mirror sites are using Cloudflare?](cloudflared/fdroid_mirrors.md)
 - Name Servers on the Internet
   - [September 2021](nameservers/2021-09.md)
