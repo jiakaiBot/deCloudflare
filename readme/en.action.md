@@ -47,12 +47,12 @@ You have a problem? [Raise your voice now.](https://github.com/maraoz/maraoz.git
 
 ```
 You are just helping corporate censorship and mass surveillance.
-https://crimeflare.eu.org
+http://crimeflare.eu.org
 ```
 
 ```
 Your web page is in the privacy-abusing private walled-garden of Cloudflare.
-https://crimeflare.eu.org
+http://crimeflare.eu.org
 ```
 
 - Take some time to read website's privacy policy.
@@ -65,7 +65,7 @@ It must explain what the "Cloudflare" is and ask for permission to share your da
 ```
 I've read your privacy policy and I cannot find the word Cloudflare.
 I refuse to share data with you if you continue to feed my data to Cloudflare.
-https://crimeflare.eu.org
+http://crimeflare.eu.org
 ```
 
 This is an example of privacy policy which does not have the word Cloudflare.
@@ -74,7 +74,7 @@ This is an example of privacy policy which does not have the word Cloudflare.
 ![](../image/cfwontobey.jpg)
 
 Cloudflare have their own privacy policy.
-[Cloudflare loves doxxing people.](https://www.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_Cloudflare/)
+[Cloudflare loves doxxing people.](https://old.reddit.com/r/GamerGhazi/comments/2s64fe/be_wary_reporting_to_cloudflare/)
 
 Here's a good example for website's signup form.
 AFAIK, zero website do this. Will you trust them?
@@ -108,10 +108,10 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 | Name | Developer | Support | Can Block | Can Notify | Chrome |
 | --- | --- | --- | --- | --- | --- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](https://crimeflare.eu.org/) | **Yes**   | **Yes** | **Yes** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](https://crimeflare.eu.org/) | No | **Yes** | **Yes** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](https://crimeflare.eu.org/) | No | **Yes** | **Yes** |
-| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_Cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_Cloudflare_mitm_fx), [Link](https://crimeflare.eu.org/) | **Yes**   | **Yes** | No |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Yes**   | **Yes** | **Yes** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | No | **Yes** | **Yes** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | No | **Yes** | **Yes** |
+| [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Yes**   | **Yes** | No |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Yes**   | **Yes** | No |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-Cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | No | **Yes** | No |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-Cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-Cloudflare-plus) | No | **Yes** | No |
@@ -128,14 +128,14 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 <details>
 <summary><h3>Website owner / Web developer</h3></summary>
 
-![](../image/word_Cloudflarefree.jpg)
+![](../image/word_cloudflarefree.jpg)
 
 - Do not use Cloudflare solution, Period.
-  - You can do better than that, right? [Here's how to remove Cloudflare subscriptions, plans, domains, or accounts.](https://support.Cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
+  - You can do better than that, right? [Here's how to remove Cloudflare subscriptions, plans, domains, or accounts.](https://support.cloudflare.com/hc/en-us/articles/200167776-Removing-subscriptions-plans-domains-or-accounts)
 
 | 🖼 | 🖼 |
 | --- | --- |
-| ![](../image/htmlalertCloudflare.jpg) | ![](../image/htmlalertCloudflare2.jpg) |
+| ![](../image/htmlalertcloudflare.jpg) | ![](../image/htmlalertcloudflare2.jpg) |
 
 - Want more customers? You know what to do. Hint is "above line".
   - [Hello, you wrote "We take your privacy seriously" but I got "Error 403 Forbidden Anonymous Proxy Not Allowed".](https://it.slashdot.org/story/19/02/19/0033255/stop-saying-we-take-your-privacy-and-security-seriously) Why are you blocking Tor Or VPN? And why are you blocking temporary emails?
@@ -143,9 +143,9 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 ![](../image/anonexist.jpg)
 
 - Using Cloudflare will increase chances of an outage. Visitors can't access to your website if your server is down or Cloudflare is down.
-  - [Did you really think Cloudflare never go down?](https://www.ibtimes.com/Cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
+  - [Did you really think Cloudflare never go down?](https://www.ibtimes.com/cloudflare-down-not-working-sites-producing-504-gateway-timeout-errors-2618008) [Another](https://twitter.com/Jedduff/status/1097875615997399040) [sample](https://twitter.com/search?f=tweets&vertical=default&q=Cloudflare%20is%20having%20problems). [Need more](../PEOPLE.md)?
 
-![](../image/Cloudflareinternalerror.jpg)
+![](../image/cloudflareinternalerror.jpg)
 
 - Using Cloudflare to proxy your "API service", "software update server" or "RSS feed" will harm your customer. A customer called you and said "I can't use your API anymore", and you have no idea what is going on. Cloudflare can silently block your customer. Do you think it is okay?
   - There are many RSS reader client and RSS reader online service. Why are you publishing RSS feed if you're not allowing people to subscribe?
@@ -154,18 +154,15 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 
 - Do you need HTTPS certificate? Use "Let's Encrypt" or just buy it from CA Company.
 - Do you need DNS server? Can't set up your own server? How about them: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin delete your account if you use TOR)](https://freedns.afraid.org/)
-
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [DNS Alternatives](../subfiles/alternative.domaindns.md)
 - Looking for hosting service? Free only? How about them: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-
   - [Alternatives to Cloudflare](../subfiles/alternative.Cloudflare.md)
 - Are you using "Cloudflare-ipfs.com"? [Do you know Cloudflare IPFS is bad?](../PEOPLE.md)
 - Install Web Application Firewall such as OWASP and Fail2Ban on your server and configure it properly.
-
   - Blocking Tor is not a solution. Don't punish everyone just for small bad users.
 - Redirect or block "Cloudflare Warp" users from accessing your website. And provide a reason if you can.
 
-> IP list: "[Cloudflare’s current IP ranges](Cloudflare_inc/)"
+> IP list: "[Cloudflare’s current IP ranges](../cloudflare_inc/)"
 
 > A: Just block them
 
@@ -237,11 +234,11 @@ if ($iscf) {rewrite ^ https://example.com/cfwsorry.php;}
 
 <?php
 header('HTTP/1.1 406 Not Acceptable');
-echo <<<CloudflareD
+echo <<<CFHTML
 Thank you for visiting ourwebsite.com!<br />
 We are sorry, but we can't serve you because your connection is being intercepted by Cloudflare.<br />
-Please read https://crimeflare.eu.org for more information.<br />
-CloudflareD;
+<a href="http://crimeflare.eu.org">Please read why for more information</a>.<br />
+CFHTML;
 die();
 ```
 
@@ -284,8 +281,8 @@ Let's talk about other software's privacy.
 
   - [Firefox - Spyware Watchdog](https://spyware.neocities.org/articles/firefox.html)
   - [Firefox rejects free speech, bans free speech](https://web.archive.org/web/20200423010026/https://reclaimthenet.org/firefox-rejects-free-speech-bans-free-speech-commenting-plugin-dissenter-from-its-extensions-gallery/)
-  - ["100+ downvotes. It seems like asking a software company to stick to... software is just too much these days."](https://reddit.com/r/firefox/comments/gutdiw/weve_got_work_to_do_the_mozilla_blog/fslbbb6/)
-  - [Uh, why is Firefox showing me sponsored links in my URL bar?](https://reddit.com/r/firefox/comments/jybx2w/uh_why_is_firefox_showing_me_sponsored_links_in/)
+  - ["100+ downvotes. It seems like asking a software company to stick to... software is just too much these days."](https://old.reddit.com/r/firefox/comments/gutdiw/weve_got_work_to_do_the_mozilla_blog/fslbbb6/)
+  - [Uh, why is Firefox showing me sponsored links in my URL bar?](https://old.reddit.com/r/firefox/comments/jybx2w/uh_why_is_firefox_showing_me_sponsored_links_in/)
   - [Mozilla - Devil Incarnate](https://digdeeper.neocities.org/ghost/mozilla.html)
 - [Remember, Mozilla is using Cloudflare service.](https://www.robtex.com/dns-lookup/www.mozilla.org) [They're also using Cloudflare's DNS service on their product.](https://www.theregister.co.uk/2018/03/21/mozilla_testing_dns_encryption/)
 - [Mozilla officially rejected this ticket.](https://bugzilla.mozilla.org/show_bug.cgi?id=1426618)
@@ -365,13 +362,13 @@ Therefore we recommend above table only. Nothing else.
 <summary><h3>Action</h3></summary>
 
 - Tell others around you about the dangers of Cloudflare.
-- [Help improve this repository.](https://crimeflare.eu.org)
+- [Help improve this repository.](http://crimeflare.eu.org)
   - Both the lists, the arguments against it and the details.
-- [Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention this repository when you do so](https://crimeflare.eu.org) :)
+- [Document and make very public where things go wrong with Cloudflare (and similar companies), making sure to mention this repository when you do so](http://crimeflare.eu.org) :)
 - Get more people using Tor by default, so they can experience the web from the perspective of different parts of the world.
 - Start groups, in social media and meatspace, dedicated to liberating the world from Cloudflare.
 - Where appropriate, link to these groups on this repository - this can be a place for coordinating working together as groups.
-- [Start a coop that can provide a meaningful non corporate alternative to Cloudflare.](../subfiles/alternative.Cloudflare.md)
+- [Start a coop that can provide a meaningful non corporate alternative to Cloudflare.](../subfiles/alternative.cloudflare.md)
 - Let us know of any alternatives to help at least provide multiple layered defence against Cloudflare.
 - If you are a Cloudflare customer, set your privacy settings and wait for them to violate them.
   - [Then bring them under anti-spam/privacy violation charges.](https://twitter.com/thexpaw/status/1108424723233419264)
