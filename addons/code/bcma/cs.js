@@ -7,21 +7,40 @@ if (document.body && !location.hostname.endsWith('.onion')) {
                if (!document.title.startsWith('[!!MITM')) {
                   document.title = '[!!MITM!!]' + _tt;
                }
-               setTimeout(watchTitle, 6500);
+               setTimeout(watchTitle, 4500);
             }
             watchTitle();
-            let _bcmaCSS = (function () {
-                  let s = document.createElement('style');
-                  document.head.appendChild(s);
-                  return s.sheet;
-               })(),
-               _color = ['e74c3c', '9b59b6', '3498db', '17a589', '196f3d', 'f4d03f', 'f39c12', 'd35400'][Math.floor(Math.random() * 8)];
-            try {
-               _bcmaCSS.insertRule('html,body{box-shadow: 0 0 3px #fff inset,0 0 3px #fff,0 0 30px #' + _color + ' inset !important}', 0);
-            } catch (e) {
-               document.body.style = 'box-shadow: 0 0 3px #fff inset,0 0 3px #fff,0 0 30px #' + _color + ' inset !important';
-               document.documentElement.style = 'box-shadow: 0 0 3px #fff inset,0 0 3px #fff,0 0 30px #' + _color + ' inset !important';
+         }
+         let _canUseCSS = true,
+            _bCSS;
+         try {
+            _bCSS = new CSSStyleSheet();
+            document.adoptedStyleSheets = [...document.adoptedStyleSheets, _bCSS];
+         } catch (e) {
+            _canUseCSS = false;
+         }
+         if (a[5]) {
+            function watchBorder() {
+               let _color = ['e74c3c', '9b59b6', '3498db', '17a589', '196f3d', 'f4d03f', 'f39c12', 'd35400'][Math.floor(Math.random() * 8)];
+               if (_canUseCSS) {
+                  _bCSS.replaceSync('html,body{box-shadow: 0 0 3px #fff inset,0 0 3px #fff,0 0 10px #' + _color + ' inset !important}');
+               } else { //remove this when esr>91
+                  document.body.style = 'box-shadow: 0 0 3px #fff inset,0 0 3px #fff,0 0 10px #' + _color + ' inset !important';
+                  document.documentElement.style = 'box-shadow: 0 0 3px #fff inset,0 0 3px #fff,0 0 10px #' + _color + ' inset !important';
+               }
+               setTimeout(watchBorder, 3500);
             }
+            watchBorder();
+         }
+         if (a[6]) {
+            function watchInners() {
+               let _color = ['e74c3c', '9b59b6', '3498db', '17a589', '196f3d', 'f4d03f', 'f39c12', 'd35400'][Math.floor(Math.random() * 8)];
+               if (_canUseCSS) {
+                  _bCSS.replaceSync('div,section{box-shadow: 0 0 3px #fff inset,0 0 3px #fff,0 0 10px #' + _color + ' inset !important}');
+               }
+               setTimeout(watchInners, 3500);
+            }
+            watchInners();
          }
          if (a[3]) {
             function codeBy_smege1001_decodeEmail(hash) {
