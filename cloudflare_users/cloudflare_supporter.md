@@ -4531,6 +4531,7 @@ Do not create new issue or we will close it as duplicate.
 | [matfitt@twitter](https://twitter.com/matfitt/status/1386357122070310912) | advertise |
 | [MatnXPharis@twitter](https://twitter.com/MatnXPharis/status/1501580663169839109) | advertise |
 | [matrix-org@github.com](https://github.com/matrix-org) | moral (forcefully closed issue) |
+| [MatthewRapa@twitter](https://twitter.com/MatthewRapa/status/1541736541160079362) | advertise |
 | [matthewseng7@twitter](https://twitter.com/matthewseng7/status/1380512288944259074) | advertise |
 | [matthew_hignite@twitter](https://twitter.com/matthew_hignite/status/1398664024716349440) | advertise |
 | [matthijspc@twitter](https://twitter.com/matthijspc/status/1510710656705650692) | advertise |
