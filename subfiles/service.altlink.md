@@ -124,6 +124,9 @@ Your username part (before `@`) will be masked to protect your privacy.
 
 You can configure it from [this website](http://altlink.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/). (Clearnet is killed due to lack of public interest)
 
+- **Easier way**: From your Mastodon, send a Direct Message with keyword below.
+  - _one of_: `help` `set` `settings` `conf` `config` `cfg`
+
 
 ### Download PNG Logo
 
