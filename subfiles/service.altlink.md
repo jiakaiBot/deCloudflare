@@ -126,6 +126,7 @@ You can configure it from [this website](http://altlink.nnpaefp7pkadbxxkhz2agtbv
 
 - **Easier way**: From your Mastodon, send a Direct Message with keyword below.
   - _one of_: `help` `set` `settings` `conf` `config` `cfg`
+  - e.g. `@theaccount set`
 
 
 ### Download PNG Logo
