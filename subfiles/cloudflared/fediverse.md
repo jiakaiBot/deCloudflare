@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,555 |
+| com | 2,557 |
 | net | 1,476 |
 | social | 1,126 |
 | org | 1,061 |
@@ -3589,6 +3589,7 @@ Here's a list of public Fediverse services.
 | darktech.org | No |
 | darkyonmasto.ch | No |
 | darmstadt.social | Yes |
+| darnell.one | No |
 | dartisan.dev | No |
 | dartsdon.jp | No |
 | darui.work | No |
@@ -4117,6 +4118,7 @@ Here's a list of public Fediverse services.
 | dominicdewolfe.com | No |
 | domov.de | No |
 | domtube.de | No |
+| don.im | Yes |
 | donabeneko.jp | No |
 | donar.cz | No |
 | donbongo.com | Yes |
@@ -5898,6 +5900,7 @@ Here's a list of public Fediverse services.
 | gandi.social | No |
 | ganesha.org.br | No |
 | ganeshapress.net | No |
+| gannetdesigns.com | No |
 | ganzeer.today | No |
 | gao4.top | No |
 | gaojfblog.com | No |
@@ -8858,6 +8861,7 @@ Here's a list of public Fediverse services.
 | laisvai.lt | No |
 | laitues.net | No |
 | laka.lv | No |
+| lakedrops.com | Yes |
 | lakelogaztetxea.net | No |
 | lakomarka.cat | Yes |
 | lalafell.org | No |
@@ -9541,6 +9545,7 @@ Here's a list of public Fediverse services.
 | loyko.stream | No |
 | lpha-z.net | No |
 | lpmcma.com | Yes |
+| lpn.systems | No |
 | lpo.host | No |
 | lppfusion.com | No |
 | lqdev.tech | No |
@@ -10079,6 +10084,7 @@ Here's a list of public Fediverse services.
 | mastodon.haus | No |
 | mastodon.hk | Yes |
 | mastodon.host | No |
+| mastodon.hr | Yes |
 | mastodon.icu | No |
 | mastodon.ie | No |
 | mastodon.im | Yes |
@@ -11294,7 +11300,7 @@ Here's a list of public Fediverse services.
 | mydns.jp | Yes |
 | myfamilyandfriends.net | No |
 | myfed.space | No |
-| myflog.net | No |
+| myflog.net | Yes |
 | myfreckle.com | No |
 | myfreecams.com | No |
 | myfreetube.de | Yes |
@@ -16189,7 +16195,7 @@ Here's a list of public Fediverse services.
 | swiso.de | No |
 | swiso.org | No |
 | swiss-chaos.social | No |
-| switchserver.fr | No |
+| switchserver.fr | Yes |
 | switter.at | No |
 | switter.co | No |
 | switter.io | Yes |
@@ -17532,7 +17538,7 @@ Here's a list of public Fediverse services.
 | uckermark.social | No |
 | ucode.space | Yes |
 | ucy.de | No |
-| uczymyjak.pl | No |
+| uczymyjak.pl | Yes |
 | uden.ai | Yes |
 | udk.moe | No |
 | udn.jp | No |
@@ -18313,6 +18319,7 @@ Here's a list of public Fediverse services.
 | wercx.net | No |
 | were.social | No |
 | werebeast.io | No |
+| werefox.cafe | No |
 | werefox.dev | No |
 | werefoxsoftware.com | No |
 | werewolf.biz | No |
@@ -19250,8 +19257,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,698 |
-| Normal | 15,509 |
+| Cloudflare | 3,704 |
+| Normal | 15,510 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
