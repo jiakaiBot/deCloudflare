@@ -593,6 +593,7 @@ Or is this merely a case of simple modesty?
 | Francisco Ponce de León | Customer Success |  |
 | Frankie Hui | Employee |  |
 | Frank Taylor | Solutions Engineer |  |
+| Frederick Lawler | Employee | |
 | Frieda Strachan | Team Coordinator |  |
 | Fu Jia | Relationship Manager |  |
 | Furkan Yilmaz | Web Engineer |  |
