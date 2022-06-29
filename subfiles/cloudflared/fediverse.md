@@ -7085,7 +7085,6 @@ Here's a list of public Fediverse services.
 | hoyer.xyz | No |
 | hoyle.me.uk | No |
 | hp-gauster.name | No |
-| hpea.moe | Yes |
 | hpi.wtf | No |
 | hptrow.me | No |
 | href.space | No |
@@ -19257,7 +19256,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,704 |
+| Cloudflare | 3,703 |
 | Normal | 15,510 |
 
 
