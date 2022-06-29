@@ -987,6 +987,7 @@ Do not create new issue or we will close it as duplicate.
 | [BeeHiveCyberSec@twitter](https://twitter.com/BeeHiveCyberSec/status/1513414452783185923) | advertise |
 | [been21085126@twitter](https://twitter.com/been21085126/status/1390943343933222912) | advertise |
 | [beepree092532@twitter](https://twitter.com/beepree092532/status/1537305045406187520) | advertise |
+| [begadabdelghany@twitter](https://twitter.com/begadabdelghany/status/1541926549846376450) | advertise |
 | [behraya@twitter](https://twitter.com/behraya/status/1477938099699208198) | advertise |
 | [behzad59870464@twitter](https://twitter.com/behzad59870464/status/1387742506230632453) | advertise |
 | [BeingAshfaque@twitter](https://twitter.com/BeingAshfaque/status/1404517154683121664) | advertise |
@@ -7808,6 +7809,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrongNg81459215@twitter](https://twitter.com/TrongNg81459215/status/1400108623376707585) | advertise |
 | [TrongTa54508026@twitter](https://twitter.com/TrongTa54508026/status/1392741752461725698) | advertise |
 | [TrongTh89348240@twitter](https://twitter.com/TrongTh89348240/status/1383966127752060940) | advertise |
+| [TrucMaiNguyen6@twitter](https://twitter.com/TrucMaiNguyen6/status/1541933825693196288) | advertise |
 | [TrueStrike2@twitter](https://twitter.com/TrueStrike2/status/1396387242214559744) | advertise |
 | [truewu@twitter](https://twitter.com/truewu/status/1496862998136197127) | advertise |
 | [Trungcu5@twitter](https://twitter.com/Trungcu5/status/1473494619824410628) | advertise |
