@@ -122,7 +122,8 @@ Your username part (before `@`) will be masked to protect your privacy.
 
 ### Settings
 
-You can configure it from [this website](https://mitigator.crimeflare.eu.org). (Clearnet is killed due to lack of public interest)
+You can configure it from [this website](https://mitigator.crimeflare.eu.org).
+
 
 - **Easier way**: From your Mastodon, send a Direct Message with keyword below.
   - _one of_: `help` `set` `settings` `conf` `config` `cfg`
