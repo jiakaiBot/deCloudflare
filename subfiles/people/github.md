@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [MITM proxy is being detected by CloudFlare (tested with Epic Games Store)](https://github.com/zaproxy/zaproxy/issues/7372)
+- [Multiple middleware option](https://github.com/octokit/webhooks.js/issues/695)
+- [Improve the heartbeat implementation](https://github.com/api3dao/airnode/issues/1299)
 - [Total canvas memory use exceeds the maximum limit (384 MB)](https://github.com/wojtekmaj/react-pdf/issues/1020)
 - [Cloudflare DDoS Protection triggered when sending from AWS](https://github.com/inUtil-info/node-red-contrib-whin/issues/33)
 - [Segfaulting when you don't have a proper API setup](https://github.com/LeeBrotherston/badflare/issues/1)
