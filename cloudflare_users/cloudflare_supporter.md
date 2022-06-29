@@ -5195,6 +5195,7 @@ Do not create new issue or we will close it as duplicate.
 | [Namanh60435535@twitter](https://twitter.com/Namanh60435535/status/1479523298325131265) | advertise |
 | [NamBlack18@twitter](https://twitter.com/NamBlack18/status/1399076867190059010) | advertise |
 | [namcaokhac@twitter](https://twitter.com/namcaokhac/status/1383549837296082950) | advertise |
+| [NameOfMe14@twitter](https://twitter.com/NameOfMe14/status/1542061717899067392) | advertise |
 | [namhuu20@twitter](https://twitter.com/namhuu20/status/1526247583131176960) | advertise |
 | [NamKhnhNguyn5@twitter](https://twitter.com/NamKhnhNguyn5/status/1383584263686160386) | advertise |
 | [NamKZ10@twitter](https://twitter.com/NamKZ10/status/1392522903040651264) | advertise |
@@ -5585,6 +5586,7 @@ Do not create new issue or we will close it as duplicate.
 | [nothingbreaks23@twitter](https://twitter.com/nothingbreaks23/status/1408086476252925953) | advertise |
 | [notice_com_ng@twitter](https://twitter.com/notice_com_ng/status/1489583630267654145) | advertise |
 | [notifil@twitter](https://twitter.com/notifil/status/1499122092578639884) | advertise |
+| [notpotato_88@twitter](https://twitter.com/notpotato_88/status/1542086639077703680) | advertise |
 | [nottsonline1@twitter](https://twitter.com/nottsonline1/status/1519043499328421900) | advertise |
 | [notwaytoomuch@twitter](https://twitter.com/notwaytoomuch/status/1396359332447485953) | advertise |
 | [NoungN2@twitter](https://twitter.com/NoungN2/status/1392947583866130432) | advertise |
