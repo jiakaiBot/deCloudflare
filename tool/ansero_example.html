@@ -37,50 +37,52 @@ function searchFor(key) {
 }
 
 function search() {
-	let answer = '',
-		keyword = document.getElementById('what').value;
-	if (keyword.length < 2) {
-		return false;
-	}
-	fetch(apiurl, {
-		method: 'POST',
-		mode: 'cors',
-		headers: {
-			'Content-Type': 'application/x-www-form-urlencoded'
-		},
-		body: 't=json' + (removeMITMsites ? '&m' : '') + '&l=' + mylang + '&q=' + encodeURI(keyword)
-	}).then(r => r.json()).then(r => {
-		if (r.info.desc != undefined) {
-			answer += '<span class="srch_sect">';
-			answer += '' + r.info.desc + '<br>';
-			answer += '<a href="' + r.info.url + '" class="srch_link">' + r.info.title + '</a>';
-			answer += '</span><br><br>';
-		}
-		if (r.sgst.length > 0) {
-			answer += '<span class="srch_sect">Search other: <br>';
-			r.sgst.forEach(x => {
-				answer += '[<a class="srch_link" onclick="searchFor(\'' + x + '\');return false;">' + x + '</a>]<br>';
-			});
-			answer += '</span><br><br>';
-		}
-		if (r.crct.length > 0) {
-			answer += '<span class="srch_sect">Maybe: ';
-			answer += '[<a class="srch_link" onclick="searchFor(\'' + r.crct[0] + '\');return false;">' + r.crct[0] + '</a>]<br>';
-			answer += '</span><br><br>';
-		}
-		r.res.forEach(x => {
-			if (!hide_fqdn.includes(x.fqdn) && !hide_domain.includes(x.dom)) {
-				answer += '<span class="srch_sect">';
-				answer += '<img src="' + favurl + (x.url.startsWith('https:') ? '1-' : '0-') + x.fqdn + '"> ';
-				answer += '<a href="' + x.url + '" class="srch_link">' + (x.mitm == 1 ? '[MITM!!] ' : '') + x.title + '</a><br>';
-				answer += '' + x.desc + '<br>';
-				answer += '<span class="srch_url">' + x.url + '</span></span>';
-				answer += '<br><br>';
-			}
-		});
-		document.getElementById('resultarea').innerHTML = answer;
-	}).catch(e => console.log(e));
-	return false;
+   let answer = '',
+      keyword = document.getElementById('what').value;
+   if (keyword.length < 2) {
+      return false;
+   }
+   fetch(apiurl, {
+      method: 'POST',
+      mode: 'cors',
+      headers: {
+         'Content-Type': 'application/x-www-form-urlencoded'
+      },
+      body: 't=json' + (removeMITMsites ? '&m' : '') + '&l=' + mylang + '&q=' + encodeURI(keyword)
+   }).then(r => r.json()).then(r => {
+      if (r.info.desc != undefined) {
+         answer += '<span class="srch_sect">';
+         answer += '' + r.info.desc + '<br>';
+         answer += '<a href="' + r.info.url + '" class="srch_link">' + r.info.title + '</a>';
+         answer += '</span><br><br>';
+      }
+      if (r.sgst.length > 0) {
+         answer += '<span class="srch_sect">Search other: <br>';
+         r.sgst.forEach(x => {
+            answer += '[<a class="srch_link" onclick="searchFor(\'' + x + '\');return false;">' + x + '</a>]<br>';
+         });
+         answer += '</span><br><br>';
+      }
+      if (r.crct.length > 0) {
+         answer += '<span class="srch_sect">Maybe: ';
+         answer += '[<a class="srch_link" onclick="searchFor(\'' + r.crct[0] + '\');return false;">' + r.crct[0] + '</a>]<br>';
+         answer += '</span><br><br>';
+      }
+      r.res.forEach(x => {
+         if (!hide_fqdn.includes(x.fqdn) && !hide_domain.includes(x.dom)) {
+            answer += '<span class="srch_sect">';
+            if (x.mitm == 0 && x.url.startsWith('https:')) {
+               answer += '<img src="' + favurl + x.fqdn + '"> ';
+            }
+            answer += '<a href="' + x.url + '" class="srch_link">' + (x.mitm == 1 ? '[MITM!!] ' : '') + x.title + '</a><br>';
+            answer += '' + x.desc + '<br>';
+            answer += '<span class="srch_url">' + x.url + '</span></span>';
+            answer += '<br><br>';
+         }
+      });
+      document.getElementById('resultarea').innerHTML = answer;
+   }).catch(e => console.log(e));
+   return false;
 }
 
       </script>
