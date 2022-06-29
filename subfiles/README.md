@@ -52,8 +52,8 @@
   - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared/fortune1000.md)
   - [How many % of insurance companies are using Cloudflare?](cloudflared/insurance.md)
   - [How many % of Hospitals are using Cloudflare?](cloudflared/hospital.md)
-  - [How many % of Pharmaceutical companies are using Cloudflare?](cloudflared/energy_cooperatives.md)
-  - [How many % of Energy cooperatives are using Cloudflare?](cloudflared/pharmaceutical.md) #Power #Electricity
+  - [How many % of Pharmaceutical companies are using Cloudflare?](cloudflared/pharmaceutical.md)
+  - [How many % of Energy cooperatives are using Cloudflare?](cloudflared/energy_cooperatives.md) #Power #Electricity
   - [How many % of online magazines are using Cloudflare?](cloudflared/magazine.md)
   - [How many % of Bitcoin Exchange sites are using Cloudflare?](cloudflared/bitcoinexchange.md)
   - [How many % of payment service providers are using Cloudflare?](cloudflared/paymentservices.md)
