@@ -5,7 +5,7 @@
 ---
 
 <details>
-<summary<h3>Website is using Cloudflare</h3></summary>
+<summary><h3>Website is using Cloudflare</h3></summary>
 
 - **Cloudflare users** | [**List Directory**](cloudflare_users/)
 
@@ -317,11 +317,8 @@ server: cloudflare
 cf-ray: ***
 ```
 
-If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the "[ex_cloudflare_users.md](cloudflare_users/ex_cloudflare_users.md)" - after checking `example.com` with online tool below.
+If `the owner` moved away from `cloudflare` **completely**, you are welcome to add `example.com` to the "[ex_cloudflare_users.md](cloudflare_users/ex_cloudflare_users.md)" - after checking `example.com` with online tool.
 
-1. Open "Query Database" webpage.
-2. Input domain name and click `Scan`.
-3. Click `test` for detailed scan.
 
 `Only a few Cloudflare user leave Cloudflare. False positive is uncommon.`
 
