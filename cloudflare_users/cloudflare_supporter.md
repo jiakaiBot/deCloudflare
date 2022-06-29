@@ -1425,6 +1425,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cleverboy6881@twitter](https://twitter.com/Cleverboy6881/status/1393652406395670528) | advertise |
 | [cliffElliott17@twitter](https://twitter.com/cliffElliott17/status/1392578227349213185) | advertise |
 | [CliffordAgius@twitter](https://twitter.com/CliffordAgius/status/1404391644540116992) | advertise |
+| [cliftonrone4@twitter](https://twitter.com/cliftonrone4/status/1542107339880222721) | advertise |
 | [CloudA17783640@twitter](https://twitter.com/CloudA17783640/status/1385558052821094403) | advertise |
 | [clovdfloat@twitter](https://twitter.com/clovdfloat/status/1519032167426310144) | advertise |
 | [clube90ssx@twitter](https://twitter.com/clube90ssx/status/1480719840436310016) | advertise |
