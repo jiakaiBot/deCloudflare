@@ -2110,6 +2110,7 @@ Do not create new issue or we will close it as duplicate.
 | [farzanf@twitter](https://twitter.com/farzanf/status/1526583866181529609) | advertise |
 | [Farzin19576702@twitter](https://twitter.com/Farzin19576702/status/1391834415785861120) | advertise |
 | [Fashion_NoVa_Ne@twitter](https://twitter.com/Fashion_NoVa_Ne/status/1525972069216833537) | advertise |
+| [fatiherikliuniq@twitter](https://twitter.com/fatiherikliuniq/status/1542403905472053248) | advertise |
 | [Fat_Grizzly@twitter](https://twitter.com/Fat_Grizzly/status/1442666571634130944) | advertise |
 | [faucetbch@twitter](https://twitter.com/faucetbch/status/1416471725643075589) | advertise |
 | [Fauzan85586001@twitter](https://twitter.com/Fauzan85586001/status/1403997313991811072) | advertise |
@@ -3740,8 +3741,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5869,6 +5870,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pawan80838848@twitter](https://twitter.com/Pawan80838848/status/1402921584692658179) | advertise |
 | [Pawanku52981555@twitter](https://twitter.com/Pawanku52981555/status/1392148654803210243) | advertise |
 | [paw_yal@twitter](https://twitter.com/paw_yal/status/1395218852183674882) | advertise |
+| [Payit49436244@twitter](https://twitter.com/Payit49436244/status/1542416388249100291) | advertise |
 | [pbrito1@twitter](https://twitter.com/pbrito1/status/1370109221572902918) | advertise |
 | [PChadathong@twitter](https://twitter.com/PChadathong/status/1381661981304758273) | advertise |
 | [PDoxX7@twitter](https://twitter.com/PDoxX7/status/1539952156333248512) | advertise |
