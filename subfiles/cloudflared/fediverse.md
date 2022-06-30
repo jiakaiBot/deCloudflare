@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,557 |
-| net | 1,476 |
-| social | 1,126 |
-| org | 1,061 |
-| de | 929 |
+| com | 2,558 |
+| net | 1,477 |
+| social | 1,127 |
+| org | 1,060 |
+| de | 930 |
 
 
 - Mastodon, Pleroma, etc
@@ -936,6 +936,7 @@ Here's a list of public Fediverse services.
 | antifagun.club | No |
 | antifasocial.club | No |
 | antii.social | No |
+| antinet.work | No |
 | antinetzwerk.de | No |
 | antiope.link | No |
 | antiorario.it | Yes |
@@ -2339,7 +2340,7 @@ Here's a list of public Fediverse services.
 | calmarius.net | No |
 | calut.fr | No |
 | calzone.club | No |
-| cambridgeport90.net | No |
+| cambridgeport90.net | Yes |
 | cambridgeport90.org | Yes |
 | cameronheard.com | No |
 | cameronmonagle.com | No |
@@ -5953,6 +5954,7 @@ Here's a list of public Fediverse services.
 | gazeta.mx | No |
 | gazette.live | No |
 | gazshaw.co.uk | No |
+| gbarbieripederiva.com.ar | Yes |
 | gbenjamin.fr | No |
 | gbnet.net | No |
 | gbox.work | No |
@@ -8683,7 +8685,6 @@ Here's a list of public Fediverse services.
 | krauser.org | No |
 | kraut.zone | Yes |
 | krazy.party | No |
-| krdtube.org | No |
 | kreatv.org | No |
 | krefeld.club | Yes |
 | krefeld.life | No |
@@ -11646,6 +11647,7 @@ Here's a list of public Fediverse services.
 | net4sw.com | No |
 | netcorsoft.de | No |
 | netdc.ca | No |
+| netfg.net | No |
 | netflux.io | No |
 | netheredge.com | No |
 | nethole.us | No |
@@ -11772,6 +11774,7 @@ Here's a list of public Fediverse services.
 | nicolas-guichard.ovh | No |
 | nicolastissot.fr | No |
 | nicolog.jp | No |
+| nicolosus.com | No |
 | nicra.fr | No |
 | niebling.online | No |
 | niederbayern.social | No |
@@ -12132,6 +12135,7 @@ Here's a list of public Fediverse services.
 | nuke.moe | Yes |
 | nuke.social | No |
 | nuked-the.uk | Yes |
+| nukem.biz | No |
 | nukeq.com | No |
 | nuklear.family | No |
 | nuklear.photos | No |
@@ -14313,6 +14317,7 @@ Here's a list of public Fediverse services.
 | rhazdon.com | No |
 | rheall.me | No |
 | rheinland.social | No |
+| rheinmain.social | No |
 | rheinneckar.social | Yes |
 | rhg135.com | No |
 | rhinoworks.info | No |
@@ -15566,6 +15571,7 @@ Here's a list of public Fediverse services.
 | socialcats.de | Yes |
 | socialclub.nyc | No |
 | socialcoding.xyz | No |
+| socialcry.de | No |
 | socialcs.xyz | No |
 | socialdistancing.dev | No |
 | sociale.network | No |
@@ -19256,8 +19262,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,703 |
-| Normal | 15,510 |
+| Cloudflare | 3,705 |
+| Normal | 15,514 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
