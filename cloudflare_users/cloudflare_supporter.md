@@ -8680,6 +8680,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZenitusV@twitter](https://twitter.com/ZenitusV/status/1396188623079309315) | advertise |
 | [zenpx@twitter](https://twitter.com/zenpx/status/1401456761622593539) | advertise |
 | [zephel01@twitter](https://twitter.com/zephel01/status/1391148039809634308) | advertise |
+| [zephraCloud@twitter](https://twitter.com/zephraCloud/status/1542493564915142656) | advertise |
 | [Zeris07095715@twitter](https://twitter.com/Zeris07095715/status/1381528506983575552) | advertise |
 | [Zero13050189@twitter](https://twitter.com/Zero13050189/status/1400038923624013837) | advertise |
 | [Zero18004563@twitter](https://twitter.com/Zero18004563/status/1394624752262647812) | advertise |
