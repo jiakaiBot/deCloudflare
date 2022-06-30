@@ -2596,6 +2596,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hieu13012000@twitter](https://twitter.com/Hieu13012000/status/1485621855956647938) | advertise |
 | [hieuchaya@twitter](https://twitter.com/hieuchaya/status/1393732166723334144) | advertise |
 | [hieudongbao159@twitter](https://twitter.com/hieudongbao159/status/1400828578749583366) | advertise |
+| [higenku_project@twitter](https://twitter.com/higenku_project/status/1542310759736156160) | advertise |
 | [HighTechCarbon1@twitter](https://twitter.com/HighTechCarbon1/status/1407293534516891652) | advertise |
 | [HighTylerGreen@twitter](https://twitter.com/HighTylerGreen/status/1372862559800463360) | advertise |
 | [Highway05386583@twitter](https://twitter.com/Highway05386583/status/1390971825245630464) | advertise |
