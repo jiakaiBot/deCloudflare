@@ -6270,6 +6270,7 @@ Do not create new issue or we will close it as duplicate.
 | [q_dome@twitter](https://twitter.com/q_dome/status/1416897207383494660) | advertise |
 | [r0c4p1a@twitter](https://twitter.com/r0c4p1a/status/1489935636815568897) | advertise |
 | [R3DActual@twitter](https://twitter.com/R3DActual/status/1468895846444015617) | advertise |
+| [R3Zipo@twitter](https://twitter.com/R3Zipo/status/1542271365642059776) | advertise |
 | [Ra36279199@twitter](https://twitter.com/Ra36279199/status/1395644864587501569) | advertise |
 | [RaceLifeNet@twitter](https://twitter.com/RaceLifeNet/status/1518636611977809921) | advertise |
 | [racycars@twitter](https://twitter.com/racycars/status/1394606713827778561) | advertise |
