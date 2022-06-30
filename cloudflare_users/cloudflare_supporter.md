@@ -5576,6 +5576,7 @@ Do not create new issue or we will close it as duplicate.
 | [noe28956578@twitter](https://twitter.com/noe28956578/status/1391961386540945410) | advertise |
 | [Noe67713062@twitter](https://twitter.com/Noe67713062/status/1391467359727067137) | advertise |
 | [Noelzarni1@twitter](https://twitter.com/Noelzarni1/status/1412903181542039554) | moral (advertise) |
+| [Noemimsad@twitter](https://twitter.com/Noemimsad/status/1542442513365356546) | advertise |
 | [NoeMoe4@twitter](https://twitter.com/NoeMoe4/status/1389529662775246848) | advertise |
 | [NomanNoor@twitter](https://twitter.com/NomanNoor/status/1511594810297229315) | advertise |
 | [nomercy888806@twitter](https://twitter.com/nomercy888806/status/1533850898551693313) | advertise |
