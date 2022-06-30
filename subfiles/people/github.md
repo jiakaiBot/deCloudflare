@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [about "cf_clearance cookie and useragent" question](https://github.com/RicterZ/nhentai/issues/253)
 - [MITM proxy is being detected by CloudFlare (tested with Epic Games Store)](https://github.com/zaproxy/zaproxy/issues/7372)
 - [Multiple middleware option](https://github.com/octokit/webhooks.js/issues/695)
 - [Improve the heartbeat implementation](https://github.com/api3dao/airnode/issues/1299)
