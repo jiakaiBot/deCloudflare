@@ -43,6 +43,7 @@ Do not create new issue or we will close it as duplicate.
 | [01227770316min2@twitter](https://twitter.com/01227770316min2/status/1385909202766508032) | advertise |
 | [05Tuns@twitter](https://twitter.com/05Tuns/status/1395807741583585281) | advertise |
 | [1CristalHeart@twitter](https://twitter.com/1CristalHeart/status/1473671613144920067) | advertise |
+| [1fRaSz22dPfUrsv@twitter](https://twitter.com/1fRaSz22dPfUrsv/status/1542540824759656451) | advertise |
 | [1juxtaposition@twitter](https://twitter.com/1juxtaposition/status/1397618611083165697) | advertise |
 | [1KK4cfjGlKNknLy@twitter](https://twitter.com/1KK4cfjGlKNknLy/status/1378992221077168128) | advertise |
 | [1k_8u@twitter](https://twitter.com/1k_8u/status/1493703720193990662) | advertise |
