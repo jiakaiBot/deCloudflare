@@ -2927,6 +2927,7 @@ Do not create new issue or we will close it as duplicate.
 | [HuyL68129865@twitter](https://twitter.com/HuyL68129865/status/1398308580957122564) | advertise |
 | [huylba123@twitter](https://twitter.com/huylba123/status/1397769207337558023) | advertise |
 | [HuyLe12798601@twitter](https://twitter.com/HuyLe12798601/status/1400069776408338432) | advertise |
+| [Huylight1@twitter](https://twitter.com/Huylight1/status/1542806648812871680) | advertise |
 | [HuyNguy96832626@twitter](https://twitter.com/HuyNguy96832626/status/1385249782474567682) | advertise |
 | [huynguyen13897@twitter](https://twitter.com/huynguyen13897/status/1515901456355782665) | advertise |
 | [HuynhAn42298847@twitter](https://twitter.com/HuynhAn42298847/status/1515280044687462402) | advertise |
