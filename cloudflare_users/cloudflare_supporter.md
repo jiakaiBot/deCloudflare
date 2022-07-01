@@ -7488,6 +7488,7 @@ Do not create new issue or we will close it as duplicate.
 | [therealjokerk@twitter](https://twitter.com/therealjokerk/status/1446952055176892416) | advertise |
 | [therealmthree@twitter](https://twitter.com/therealmthree/status/1394930520664907792) | advertise |
 | [TheRealSpy5@twitter](https://twitter.com/TheRealSpy5/status/1537494687958851585) | advertise |
+| [theslimshadyist@twitter](https://twitter.com/theslimshadyist/status/1542958472714547200) | advertise |
 | [thesniperxjohn@twitter](https://twitter.com/thesniperxjohn/status/1461961789550194691) | advertise |
 | [thesureshg@twitter](https://twitter.com/thesureshg/status/1497509853434355712) | advertise |
 | [thet02720985@twitter](https://twitter.com/thet02720985/status/1470785543948673047) | advertise |
