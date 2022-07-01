@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-07-01: [Increased HTTP 522 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rtr7nvy000rh)
 - 2022-06-29: [Network Performance Issues in India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y824m715tffy)
 - 2022-06-28: [Increased HTTP 5xx Errors in Moscow, Russia (DME)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gjbb134y3gxp)
 - 2022-06-28: [Issue creating new R2 authentication tokens](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dt6wjjtql4w7)
