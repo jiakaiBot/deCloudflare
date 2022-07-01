@@ -6167,6 +6167,7 @@ Do not create new issue or we will close it as duplicate.
 | [PTexrTamim@twitter](https://twitter.com/PTexrTamim/status/1509822132225986567) | advertise |
 | [ptngthang0126@twitter](https://twitter.com/ptngthang0126/status/1378390696432787457) | advertise |
 | [ptrdim@twitter](https://twitter.com/ptrdim/status/1382447390641291273) | advertise |
+| [ptuan3733@twitter](https://twitter.com/ptuan3733/status/1542899307644194816) | advertise |
 | [ptuananh11@twitter](https://twitter.com/ptuananh11/status/1491584877266751493) | advertise |
 | [Pubg02020@twitter](https://twitter.com/Pubg02020/status/1381904001101299712) | advertise |
 | [Pubg1Anton@twitter](https://twitter.com/Pubg1Anton/status/1406504260418740224) | advertise |
@@ -7033,6 +7034,7 @@ Do not create new issue or we will close it as duplicate.
 | [SoePyaetun14@twitter](https://twitter.com/SoePyaetun14/status/1492015118309158913) | advertise |
 | [Soesan36587499@twitter](https://twitter.com/Soesan36587499/status/1377539791168884738) | advertise |
 | [SoeThih12432218@twitter](https://twitter.com/SoeThih12432218/status/1390853572921856001) | advertise |
+| [SoeThih74316699@twitter](https://twitter.com/SoeThih74316699/status/1542878253421326336) | advertise |
 | [SoeThih87655603@twitter](https://twitter.com/SoeThih87655603/status/1393565650291855366) | advertise |
 | [soethurakyaw16@twitter](https://twitter.com/soethurakyaw16/status/1395253199456542720) | advertise |
 | [SoeThuraMaungJR@twitter](https://twitter.com/SoeThuraMaungJR/status/1390579306980577280) | advertise |
