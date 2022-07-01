@@ -257,6 +257,7 @@ Do not create new issue or we will close it as duplicate.
 | [AfizOmari@twitter](https://twitter.com/AfizOmari/status/1404102260293054466) | advertise |
 | [afrash@twitter](https://twitter.com/afrash/status/1369943509839585281) | advertise |
 | [AgAg14299411@twitter](https://twitter.com/AgAg14299411/status/1396793253467500544) | advertise |
+| [agamx_id@twitter](https://twitter.com/agamx_id/status/1542679382497472513) | advertise |
 | [Agape_val_voce@twitter](https://twitter.com/Agape_val_voce/status/1400940706722689027) | advertise |
 | [Agent_RBLX@twitter](https://twitter.com/Agent_RBLX/status/1383986062100287491) | advertise |
 | [AGhahremani70@twitter](https://twitter.com/AGhahremani70/status/1479589214345908225) | advertise |
