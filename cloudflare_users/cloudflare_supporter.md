@@ -4953,6 +4953,7 @@ Do not create new issue or we will close it as duplicate.
 | [MonaDesigned@twitter](https://twitter.com/MonaDesigned/status/1499144227867041802) | advertise |
 | [Monarch92970805@twitter](https://twitter.com/Monarch92970805/status/1400852799957700616) | advertise |
 | [MonarengT4real@twitter](https://twitter.com/MonarengT4real/status/1382196959067389956) | advertise |
+| [mona_susan4@twitter](https://twitter.com/mona_susan4/status/1542713379399168003) | advertise |
 | [Monchzd82288185@twitter](https://twitter.com/Monchzd82288185/status/1394220655265009665) | advertise |
 | [mondeamoi@twitter](https://twitter.com/mondeamoi/status/1532632574241214464) | advertise |
 | [Moneysdm1@twitter](https://twitter.com/Moneysdm1/status/1384978130008514560) | advertise |
