@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Sporadic SERVFAIL errors](https://github.com/TechnitiumSoftware/DnsServer/issues/424)
 - [Investigate Retry Options if Download is Blocked by Reverse Proxy (i.e. Cloudflare)](https://github.com/OctopusDeploy/install-octopus-cli-action/issues/340)
 - [about "cf_clearance cookie and useragent" question](https://github.com/RicterZ/nhentai/issues/253)
 - [MITM proxy is being detected by CloudFlare (tested with Epic Games Store)](https://github.com/zaproxy/zaproxy/issues/7372)
