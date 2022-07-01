@@ -4856,6 +4856,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mits_Dev@twitter](https://twitter.com/Mits_Dev/status/1392978764636643330) | advertise |
 | [MiuMp8@twitter](https://twitter.com/MiuMp8/status/1494009000975040512) | advertise |
 | [mixms_@twitter](https://twitter.com/mixms_/status/1390638654486372355) | advertise |
+| [MiyaCrowdfund@twitter](https://twitter.com/MiyaCrowdfund/status/1542630069339918339) | advertise |
 | [mizudin6@twitter](https://twitter.com/mizudin6/status/1498271439438618635) | advertise |
 | [Mj7cYbVQoKbIbAW@twitter](https://twitter.com/Mj7cYbVQoKbIbAW/status/1497861567089680384) | advertise |
 | [mk4serv@twitter](https://twitter.com/mk4serv/status/1430672404968321025) | advertise |
