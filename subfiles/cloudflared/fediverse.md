@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,558 |
 | net | 1,477 |
-| social | 1,127 |
+| social | 1,128 |
 | org | 1,060 |
-| de | 930 |
+| de | 931 |
 
 
 - Mastodon, Pleroma, etc
@@ -470,6 +470,7 @@ Here's a list of public Fediverse services.
 | adhocmusic.com | No |
 | adjutor.xyz | No |
 | adlerweb.info | No |
+| adminforge.de | No |
 | adminit.cz | No |
 | admins.town | No |
 | admires.art | No |
@@ -697,7 +698,7 @@ Here's a list of public Fediverse services.
 | alloe.fr | No |
 | allot256.net | No |
 | allout.site | No |
-| allowed.org | No |
+| allowed.org | Yes |
 | allplayer.tk | Yes |
 | allpro.social | No |
 | allships.run | Yes |
@@ -752,10 +753,12 @@ Here's a list of public Fediverse services.
 | alvogue.com | No |
 | alyve.be | No |
 | alyxia.dev | Yes |
+| am-networks.fr | No |
 | am.guru | No |
 | am9gw.in | No |
 | ama.ne.jp | No |
 | amaa.it | No |
+| amanite.be | No |
 | amanzi.nz | Yes |
 | amaranth.network | Yes |
 | amas.dev | No |
@@ -2302,6 +2305,7 @@ Here's a list of public Fediverse services.
 | c2bdon.net | No |
 | c3d2.de | No |
 | c3p.jp | No |
+| c3po.rocks | No |
 | c4.social | No |
 | c4103.com | No |
 | c44.pl | No |
@@ -4099,6 +4103,7 @@ Here's a list of public Fediverse services.
 | dogeposting.social | No |
 | dogetron.com | No |
 | doghub.eu | No |
+| dogspin.xyz | Yes |
 | dogwhipping.day | No |
 | doingmyp.art | No |
 | doisakura.moe | No |
@@ -5761,6 +5766,7 @@ Here's a list of public Fediverse services.
 | fur.cloud | No |
 | fur.is | No |
 | fur2.xyz | No |
+| fura.dev | No |
 | furankum.ovh | No |
 | furcurry.co | No |
 | furden.co | No |
@@ -7980,6 +7986,7 @@ Here's a list of public Fediverse services.
 | joinpeertubecrypto.org | No |
 | joinplu.me | No |
 | jokertv.eu | No |
+| jokiller230.tk | No |
 | jokke.space | No |
 | jolytube.cf | No |
 | jomby.net | No |
@@ -8793,7 +8800,7 @@ Here's a list of public Fediverse services.
 | l-p-d.org | No |
 | l1f.de | No |
 | l33t.city | Yes |
-| l33t.link | No |
+| l33t.link | Yes |
 | l4.pm | Yes |
 | l4p1n.ch | No |
 | la-demeuree.fr | No |
@@ -9453,6 +9460,7 @@ Here's a list of public Fediverse services.
 | lollygaggers.uk | No |
 | lolpix.org | Yes |
 | loma.ml | No |
+| lomo.live | No |
 | lond.com.br | Yes |
 | lonely.town | No |
 | lonelyfurry.com | No |
@@ -9680,6 +9688,7 @@ Here's a list of public Fediverse services.
 | m.atm.pl | No |
 | m.to | No |
 | m0.lc | Yes |
+| m0e.space | Yes |
 | m0n5t3r.info | No |
 | m0r016.net | Yes |
 | m0t0k1ch1.com | No |
@@ -11454,6 +11463,7 @@ Here's a list of public Fediverse services.
 | nasqueron.org | No |
 | nasustim.com | No |
 | nasz.blog | No |
+| nat.cu | No |
 | natachatomkinson.co.uk | No |
 | natalie.ee | No |
 | natanox.de | No |
@@ -12271,6 +12281,7 @@ Here's a list of public Fediverse services.
 | odat.xyz | No |
 | odayacres.farm | Yes |
 | oddnetwork.org | No |
+| odenwald.social | No |
 | odessen.com | No |
 | odezie.eu | No |
 | odin.run | No |
@@ -13624,6 +13635,7 @@ Here's a list of public Fediverse services.
 | prismdragon.net | No |
 | prismo.news | Yes |
 | prismo.xyz | Yes |
+| prismst.one | No |
 | pritter.tk | Yes |
 | pritter.work | No |
 | priva.si | No |
@@ -14469,6 +14481,7 @@ Here's a list of public Fediverse services.
 | romandie.social | No |
 | romank.org | No |
 | romaricpascal.com | No |
+| romca.tk | No |
 | romeorose.xyz | Yes |
 | romlinch.ovh | No |
 | rompe.org | No |
@@ -16626,6 +16639,7 @@ Here's a list of public Fediverse services.
 | the-be.at | No |
 | the-box.work | No |
 | the-idw.com | No |
+| the-j.ml | No |
 | the-liberator.news | Yes |
 | the-orbit.net | Yes |
 | the-penguin.de | No |
@@ -17647,6 +17661,7 @@ Here's a list of public Fediverse services.
 | unfediverse.com | No |
 | unfilter.tube | No |
 | unfollow.today | Yes |
+| unfuc.cyou | No |
 | unfuckwithable.one | No |
 | ungenreasoi.com | No |
 | ungleich.ch | No |
@@ -19262,8 +19277,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,705 |
-| Normal | 15,514 |
+| Cloudflare | 3,709 |
+| Normal | 15,525 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
