@@ -8180,6 +8180,7 @@ Do not create new issue or we will close it as duplicate.
 | [WaiPhyo10948051@twitter](https://twitter.com/WaiPhyo10948051/status/1390732711245975555) | advertise |
 | [WaiPhyo14479248@twitter](https://twitter.com/WaiPhyo14479248/status/1391332005577519104) | advertise |
 | [Waiphyo17569533@twitter](https://twitter.com/Waiphyo17569533/status/1526528431646597120) | advertise |
+| [WaiPhyo37526807@twitter](https://twitter.com/WaiPhyo37526807/status/1542872247227994112) | advertise |
 | [WaiPhyo77727039@twitter](https://twitter.com/WaiPhyo77727039/status/1391880294983028737) | advertise |
 | [WaiWai86299852@twitter](https://twitter.com/WaiWai86299852/status/1390855275997917192) | advertise |
 | [WaiYan05198096@twitter](https://twitter.com/WaiYan05198096/status/1393037907317903365) | advertise |
