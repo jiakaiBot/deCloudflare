@@ -70,3 +70,4 @@
 | 2021 | [Arizona Complaint Google](2021-Arizona_Complaint_Google.pdf) |
 | 2021 | [How Gamification Affects Software Developers Cautionary Evidence from a Natural Experiment on GitHub](2021-How_Gamification_Affects_Software_Developers_Cautionary_Evidence_from_a_Natural_Experiment_on_GitHub.pdf) |
 | 2021 | [How Great is the Great Firewall Measuring China's DNS Censorship](2021-How_Great_is_the_Great_Firewall_Measuring_Chinas_DNS_Censorship.pdf) |
+| 2021 | [On the feasibility of short-lived dynamic onion services](2021-On_the_feasibility_of_short-lived_dynamic_onion_services.pdf) |
