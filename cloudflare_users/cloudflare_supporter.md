@@ -989,6 +989,7 @@ Do not create new issue or we will close it as duplicate.
 | [BeeHiveCyberSec@twitter](https://twitter.com/BeeHiveCyberSec/status/1513414452783185923) | advertise |
 | [been21085126@twitter](https://twitter.com/been21085126/status/1390943343933222912) | advertise |
 | [beepree092532@twitter](https://twitter.com/beepree092532/status/1537305045406187520) | advertise |
+| [BeepSterr@twitter](https://twitter.com/BeepSterr/status/1543233083536728065) | advertise |
 | [begadabdelghany@twitter](https://twitter.com/begadabdelghany/status/1541926549846376450) | advertise |
 | [behraya@twitter](https://twitter.com/behraya/status/1477938099699208198) | advertise |
 | [behzad59870464@twitter](https://twitter.com/behzad59870464/status/1387742506230632453) | advertise |
@@ -1485,8 +1486,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazySownthar@twitter](https://twitter.com/CrazySownthar/status/1403244218009538562) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -7527,6 +7528,7 @@ Do not create new issue or we will close it as duplicate.
 | [They03464315@twitter](https://twitter.com/They03464315/status/1399744810345324544) | advertise |
 | [the_ayo_ifedapo@twitter](https://twitter.com/the_ayo_ifedapo/status/1402141427564519424) | advertise |
 | [The_Krishna__@twitter](https://twitter.com/The_Krishna__/status/1395310239184949250) | advertise |
+| [The_Real_Yule@twitter](https://twitter.com/The_Real_Yule/status/1543227534137065472) | advertise |
 | [the_rhap5ody@twitter](https://twitter.com/the_rhap5ody/status/1434141931500568576) | advertise |
 | [The_Web_Pro@twitter](https://twitter.com/The_Web_Pro/status/1430360803530747906) | advertise |
 | [Thi75786207@twitter](https://twitter.com/Thi75786207/status/1394687203301724161) | advertise |
