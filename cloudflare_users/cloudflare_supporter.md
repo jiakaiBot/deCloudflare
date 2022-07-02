@@ -5605,6 +5605,7 @@ Do not create new issue or we will close it as duplicate.
 | [Note42243223@twitter](https://twitter.com/Note42243223/status/1389304584317845504) | advertise |
 | [nothingbreaks23@twitter](https://twitter.com/nothingbreaks23/status/1408086476252925953) | advertise |
 | [notice_com_ng@twitter](https://twitter.com/notice_com_ng/status/1489583630267654145) | advertise |
+| [NOTICIAHOY5@twitter](https://twitter.com/NOTICIAHOY5/status/1543302026754461698) | advertise |
 | [notifil@twitter](https://twitter.com/notifil/status/1499122092578639884) | advertise |
 | [notpotato_88@twitter](https://twitter.com/notpotato_88/status/1542086639077703680) | advertise |
 | [nottsonline1@twitter](https://twitter.com/nottsonline1/status/1519043499328421900) | advertise |
