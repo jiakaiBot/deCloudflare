@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when trying to use the nvm install script](https://github.com/nvm-sh/nvm/issues/2844)
 - [Get S3 bucket fails to read when GetBucketACL not implemented](https://github.com/hashicorp/terraform-provider-aws/issues/25660)
 - [Sporadic SERVFAIL errors](https://github.com/TechnitiumSoftware/DnsServer/issues/424)
 - [Investigate Retry Options if Download is Blocked by Reverse Proxy (i.e. Cloudflare)](https://github.com/OctopusDeploy/install-octopus-cli-action/issues/340)
