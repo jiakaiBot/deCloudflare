@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,558 |
+| com | 2,559 |
 | net | 1,477 |
-| social | 1,128 |
+| social | 1,129 |
 | org | 1,060 |
-| de | 931 |
+| de | 932 |
 
 
 - Mastodon, Pleroma, etc
@@ -570,7 +570,7 @@ Here's a list of public Fediverse services.
 | aire.ml | No |
 | airen-no-jikken.icu | No |
 | aistear.net | No |
-| aj.ms | No |
+| aj.ms | Yes |
 | ajaphotos.net | No |
 | ajay.app | Yes |
 | ajin.la | No |
@@ -2310,6 +2310,7 @@ Here's a list of public Fediverse services.
 | c4103.com | No |
 | c44.pl | No |
 | c4l.io | Yes |
+| c63.dev | Yes |
 | c99.org | Yes |
 | c9users.io | No |
 | ca-os.com | No |
@@ -4780,6 +4781,7 @@ Here's a list of public Fediverse services.
 | espr.moe | Yes |
 | esprit-fablab.org | No |
 | esquer.dev | No |
+| esrever.cc | No |
 | estadoo.com | No |
 | estarik.com | No |
 | esthetic.win | No |
@@ -4824,6 +4826,7 @@ Here's a list of public Fediverse services.
 | euskirchen.digital | No |
 | eutychia.org | Yes |
 | euzilla.de | No |
+| evanaolson.com | No |
 | evangelisch.video | No |
 | evangelisches.online | No |
 | evangineer.net | No |
@@ -8998,6 +9001,7 @@ Here's a list of public Fediverse services.
 | ledfan.be | No |
 | lediver.se | No |
 | ledoian.cz | No |
+| leece.im | No |
 | leemhuis.info | No |
 | leet.pub | No |
 | leetsocial.com | No |
@@ -9367,6 +9371,7 @@ Here's a list of public Fediverse services.
 | ljcu.cc | Yes |
 | ljoonal.xyz | Yes |
 | ljosalfar.io | No |
+| ljs.social | No |
 | lkbch.com | No |
 | lkjxblog.tech | Yes |
 | lksz.me | Yes |
@@ -13945,6 +13950,7 @@ Here's a list of public Fediverse services.
 | qwerjk.com | No |
 | qwertqwefsday.eu | No |
 | qwerty.city | Yes |
+| qwq.ooo | Yes |
 | r-12.net | No |
 | r-kara.de | No |
 | r-o-o-t.net | No |
@@ -14440,6 +14446,7 @@ Here's a list of public Fediverse services.
 | robotstart.info | No |
 | robox.org | No |
 | robtarr.net | No |
+| robutti.me | No |
 | robw.me | No |
 | rocaguinarda.org | No |
 | roccoli-b.com | No |
@@ -15240,6 +15247,7 @@ Here's a list of public Fediverse services.
 | shoot.brussels | No |
 | shootingonsight.eu | No |
 | shootjackdorseyinto.space | No |
+| shorage.de | No |
 | shortbus.fail | No |
 | shortnote.jp | No |
 | shortshady.com | No |
@@ -19277,8 +19285,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,709 |
-| Normal | 15,525 |
+| Cloudflare | 3,712 |
+| Normal | 15,530 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
