@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,559 |
-| net | 1,477 |
-| social | 1,129 |
+| net | 1,478 |
+| social | 1,131 |
 | org | 1,060 |
 | de | 932 |
 
@@ -2986,7 +2986,6 @@ Here's a list of public Fediverse services.
 | collectifs.net | No |
 | collectivecast.com | No |
 | collegefriendfinder.com | No |
-| collie.club | Yes |
 | colloportus.me | No |
 | colmena.me | No |
 | coloc-family.com | No |
@@ -5475,6 +5474,7 @@ Here's a list of public Fediverse services.
 | foxfam.club | No |
 | foxgirlsat.work | No |
 | foxgl.ovh | No |
+| foxhold.net | Yes |
 | foxie.xyz | No |
 | foxiepa.ws | No |
 | foxocube.xyz | Yes |
@@ -9057,7 +9057,7 @@ Here's a list of public Fediverse services.
 | lemouvementassociatif-pdl.org | No |
 | lemue.org | No |
 | lemuspeschel.com | Yes |
-| lenchan139.org | No |
+| lenchan139.org | Yes |
 | lenny.ninja | Yes |
 | lenote.eu | No |
 | lenuxde.net | No |
@@ -10964,6 +10964,7 @@ Here's a list of public Fediverse services.
 | monwebsite.ch | Yes |
 | monz.photos | No |
 | moo.moe | No |
+| moobarb.club | No |
 | moodle.net | Yes |
 | moog.social | No |
 | moogle.social | No |
@@ -11071,6 +11072,7 @@ Here's a list of public Fediverse services.
 | mrls.xyz | No |
 | mrlungshot.com | Yes |
 | mrnd.xyz | No |
+| mrotek.xyz | No |
 | mrow.space | Yes |
 | mrpetovan.com | No |
 | mrporky.moe | No |
@@ -13006,6 +13008,7 @@ Here's a list of public Fediverse services.
 | pentium.cc | No |
 | pento.net | Yes |
 | people-world-life.de | No |
+| peoplegroup.social | No |
 | peoplemaking.games | No |
 | peopleofcyber.com | No |
 | peoplesleaders.net | No |
@@ -14843,6 +14846,7 @@ Here's a list of public Fediverse services.
 | sbstnjnsn.se | No |
 | sbud.tk | No |
 | sbw.org | No |
+| sc07.group | Yes |
 | sc3.fun | Yes |
 | scaglione.xyz | No |
 | scaldra.net | No |
@@ -14939,6 +14943,7 @@ Here's a list of public Fediverse services.
 | scoob.wtf | No |
 | scookeoni.com | No |
 | scoopgang.social | No |
+| scorpion.social | No |
 | scotland.computer | No |
 | scott.ee | Yes |
 | scott.in.th | Yes |
@@ -15461,7 +15466,7 @@ Here's a list of public Fediverse services.
 | slowbrain.net | No |
 | slownewsdayshow.com | No |
 | slrpnk.net | No |
-| sludge.town | No |
+| sludge.town | Yes |
 | sluga.xyz | No |
 | slum.cloud | Yes |
 | slumpedoverkeyboarddead.com | Yes |
@@ -17611,7 +17616,7 @@ Here's a list of public Fediverse services.
 | ultramookie.com | Yes |
 | ultrasrv.de | No |
 | ultraviolet.pm | Yes |
-| ultrix.me | Yes |
+| ultrix.me | No |
 | ultros.pro | No |
 | uluntu.se | No |
 | um-pudding.de | No |
@@ -19285,8 +19290,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,712 |
-| Normal | 15,530 |
+| Cloudflare | 3,714 |
+| Normal | 15,533 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
