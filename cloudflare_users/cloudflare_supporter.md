@@ -1147,6 +1147,7 @@ Do not create new issue or we will close it as duplicate.
 | [BoNyan12573044@twitter](https://twitter.com/BoNyan12573044/status/1389649229908377601) | advertise |
 | [bookingraza@twitter](https://twitter.com/bookingraza/status/1379835928525467650) | advertise |
 | [BOOMBound@twitter](https://twitter.com/BOOMBound/status/1424169801451118594) | advertise |
+| [BoonBoo54358409@twitter](https://twitter.com/BoonBoo54358409/status/1543521813594259457) | advertise |
 | [boonboonko@twitter](https://twitter.com/boonboonko/status/1405526689757626382) | advertise |
 | [boonpraserd@twitter](https://twitter.com/boonpraserd/status/1383968362137411589) | advertise |
 | [BoonsomJack@twitter](https://twitter.com/BoonsomJack/status/1392867374039060485) | advertise |
@@ -1489,8 +1490,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3417,6 +3418,7 @@ Do not create new issue or we will close it as duplicate.
 | [junpham23081870@twitter](https://twitter.com/junpham23081870/status/1399221195459883009) | advertise |
 | [JunsukeJR@twitter](https://twitter.com/JunsukeJR/status/1489170829204389888) | advertise |
 | [Juragan99997923@twitter](https://twitter.com/Juragan99997923/status/1387185881321144320) | advertise |
+| [jurrfree@twitter](https://twitter.com/jurrfree/status/1543531261024690176) | advertise |
 | [jusiccall@twitter](https://twitter.com/jusiccall/status/1392916961172942849) | advertise |
 | [Jusssssssy@twitter](https://twitter.com/Jusssssssy/status/1530509882469883905) | advertise |
 | [Just4nC@twitter](https://twitter.com/Just4nC/status/1389426581840535552) | advertise |
@@ -7350,6 +7352,7 @@ Do not create new issue or we will close it as duplicate.
 | [telitabisok@twitter](https://twitter.com/telitabisok/status/1392907252755931139) | advertise |
 | [tembofxai@twitter](https://twitter.com/tembofxai/status/1448912721869787148) | advertise |
 | [temen_vcs@twitter](https://twitter.com/temen_vcs/status/1499778362495344641) | advertise |
+| [Tennenee@twitter](https://twitter.com/Tennenee/status/1543516175174631424) | advertise |
 | [TenoTaren@twitter](https://twitter.com/TenoTaren/status/1388771312672280576) | advertise |
 | [TensingNightco@twitter](https://twitter.com/TensingNightco/status/1378194588838424582) | advertise |
 | [tenzyumasuda@twitter](https://twitter.com/tenzyumasuda/status/1468236764355641346) | advertise |
