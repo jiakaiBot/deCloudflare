@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Restore link embeds by using module context to fetch data](https://github.com/OffprintStudios/dragonfish/issues/884)
 - [Error when trying to use the nvm install script](https://github.com/nvm-sh/nvm/issues/2844)
 - [Get S3 bucket fails to read when GetBucketACL not implemented](https://github.com/hashicorp/terraform-provider-aws/issues/25660)
 - [Sporadic SERVFAIL errors](https://github.com/TechnitiumSoftware/DnsServer/issues/424)
