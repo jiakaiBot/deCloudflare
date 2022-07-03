@@ -11,12 +11,11 @@
   - [Are links vulnerable to MITM attack?](about.ismm.md)
   - [Which website rejected me?](about.urjm.md)
 - Service
-  - [Public DNS](service.publicdns.md)
-  - [Clearnet Onion](https://clearnetonion.eu.org)
-  - [Crimeflare Mail](https://mail.crimeflare.eu.org)
   - [IAList](https://ialist.crimeflare.eu.org)
   - [Alternative Link](service.altlink.md)
   - [Local Area](https://localarea.crimeflare.eu.org)
+  - [Clearnet Onion](https://clearnetonion.eu.org)
+  - [Crimeflare Mail](https://mail.crimeflare.eu.org)
 - Cloudflare Alternatives
   - [Cloudflare Alternatives](alternative.cloudflare.md)
   - [Cloudflare DNS Alternatives](alternative.domaindns.md)
