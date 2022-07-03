@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Clarification on KV usage](https://github.com/honojs/hono/issues/340)
 - [Traefik (Gateway API) breaks if a route points to a missing service (as seen with cert-manager)](https://github.com/traefik/traefik/issues/9158)
 - [Tinyurl install method returns 404](https://github.com/hugsy/gef/issues/867)
 - [Restore link embeds by using module context to fetch data](https://github.com/OffprintStudios/dragonfish/issues/884)
