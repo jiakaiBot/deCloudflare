@@ -1305,6 +1305,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cerise67529246@twitter](https://twitter.com/Cerise67529246/status/1390188271037075458) | advertise |
 | [cerqueira_io@twitter](https://twitter.com/cerqueira_io/status/1380589589463764994) | advertise |
 | [cesar15245284@twitter](https://twitter.com/cesar15245284/status/1498208854332555264) | advertise |
+| [cesef@twitter](https://twitter.com/cesef/status/1543653828255432706) | advertise |
 | [cey36481826@twitter](https://twitter.com/cey36481826/status/1503391992877031434) | advertise |
 | [ce_kyaw@twitter](https://twitter.com/ce_kyaw/status/1397158337012113410) | advertise |
 | [chac_vui@twitter](https://twitter.com/chac_vui/status/1393402667586572288) | advertise |
