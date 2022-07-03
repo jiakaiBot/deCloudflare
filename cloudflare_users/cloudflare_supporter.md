@@ -7853,6 +7853,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrnQucC46296228@twitter](https://twitter.com/TrnQucC46296228/status/1508448815078338563) | advertise |
 | [TrnQucT52838357@twitter](https://twitter.com/TrnQucT52838357/status/1399704418379984898) | advertise |
 | [TrnThng85707464@twitter](https://twitter.com/TrnThng85707464/status/1404334655038386181) | advertise |
+| [TrnThphngloan18@twitter](https://twitter.com/TrnThphngloan18/status/1543659813695275008) | advertise |
 | [TrnTngQuang2@twitter](https://twitter.com/TrnTngQuang2/status/1404296721090240512) | advertise |
 | [trntrngch1@twitter](https://twitter.com/trntrngch1/status/1398562666931621890) | advertise |
 | [trongkimtran@twitter](https://twitter.com/trongkimtran/status/1376771803389915136) | advertise |
