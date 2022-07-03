@@ -2197,6 +2197,7 @@ Do not create new issue or we will close it as duplicate.
 | [Frhan67_@twitter](https://twitter.com/Frhan67_/status/1381961620218277890) | advertise |
 | [friesdan@twitter](https://twitter.com/friesdan/status/1411038385263714304) | moral (advertise) |
 | [frisaq1@twitter](https://twitter.com/frisaq1/status/1488983176630390786) | advertise |
+| [frizzky@twitter](https://twitter.com/frizzky/status/1543612698075996160) | advertise |
 | [frontware@twitter](https://twitter.com/frontware/status/1438345369256038400) | advertise |
 | [frshzrnmln@twitter](https://twitter.com/frshzrnmln/status/1432737386945933319) | advertise |
 | [FsoIndustries@twitter](https://twitter.com/FsoIndustries/status/1509979654941204482) | advertise |
@@ -3225,6 +3226,7 @@ Do not create new issue or we will close it as duplicate.
 | [jayden63319114@twitter](https://twitter.com/jayden63319114/status/1536219833808953344) | advertise |
 | [JaydipParikh@twitter](https://twitter.com/JaydipParikh/status/1436327356516356096) | advertise |
 | [jayismyeveryth1@twitter](https://twitter.com/jayismyeveryth1/status/1389247638545911810) | advertise |
+| [jayrbautista932@twitter](https://twitter.com/jayrbautista932/status/1543621669025382400) | advertise |
 | [JaySoh13@twitter](https://twitter.com/JaySoh13/status/1390786934335705092) | advertise |
 | [jaysonm76681877@twitter](https://twitter.com/jaysonm76681877/status/1376793641474260994) | advertise |
 | [jayywavvyyyy@twitter](https://twitter.com/jayywavvyyyy/status/1379843985175310341) | advertise |
@@ -6401,6 +6403,7 @@ Do not create new issue or we will close it as duplicate.
 | [RedPacketSec@twitter](https://twitter.com/RedPacketSec/status/1400447985213788179) | advertise |
 | [RedVamp_@twitter](https://twitter.com/RedVamp_/status/1484282963722391553) | advertise |
 | [Redzadania@twitter](https://twitter.com/Redzadania/status/1402830172529709057) | advertise |
+| [Red_r_e_@twitter](https://twitter.com/Red_r_e_/status/1543613663717871618) | advertise |
 | [reedracer@twitter](https://twitter.com/reedracer/status/1492234588948774922) | advertise |
 | [refateusha@twitter](https://twitter.com/refateusha/status/1473025498104041473) | advertise |
 | [regchan@twitter](https://twitter.com/regchan/status/1524281569376182273) | advertise |
