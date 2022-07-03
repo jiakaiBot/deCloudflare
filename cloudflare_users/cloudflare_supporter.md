@@ -6315,6 +6315,7 @@ Do not create new issue or we will close it as duplicate.
 | [Raj00446912@twitter](https://twitter.com/Raj00446912/status/1402881832203395073) | advertise |
 | [Raj0707Garapati@twitter](https://twitter.com/Raj0707Garapati/status/1394255967928295425) | advertise |
 | [Raj71446827@twitter](https://twitter.com/Raj71446827/status/1380171008787681284) | advertise |
+| [RajaOwaisAli2@twitter](https://twitter.com/RajaOwaisAli2/status/1543493764127285248) | advertise |
 | [rajasimon@twitter](https://twitter.com/rajasimon/status/1498410367797530625) | advertise |
 | [RajeevKurmi18@twitter](https://twitter.com/RajeevKurmi18/status/1493246122130755588) | advertise |
 | [RajeshM85157442@twitter](https://twitter.com/RajeshM85157442/status/1400836759961931777) | advertise |
