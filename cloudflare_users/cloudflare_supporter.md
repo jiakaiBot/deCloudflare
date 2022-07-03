@@ -6420,6 +6420,7 @@ Do not create new issue or we will close it as duplicate.
 | [resynth1943.net](https://resynth1943.net/) | by attacking collaborators |
 | [RevenSweety@twitter](https://twitter.com/RevenSweety/status/1386591951571587073) | advertise |
 | [Revolv_india@twitter](https://twitter.com/Revolv_india/status/1467938202178572289) | advertise |
+| [rev_3_3@twitter](https://twitter.com/rev_3_3/status/1543575024682127360) | advertise |
 | [REX71431061@twitter](https://twitter.com/REX71431061/status/1390019383158734848) | advertise |
 | [Rex96885803@twitter](https://twitter.com/Rex96885803/status/1376859443464302604) | advertise |
 | [rex_clemente@twitter](https://twitter.com/rex_clemente/status/1376875545955209224) | advertise |
