@@ -2010,6 +2010,7 @@ Do not create new issue or we will close it as duplicate.
 | [Eliseioprea2@twitter](https://twitter.com/Eliseioprea2/status/1399391669372522498) | advertise |
 | [EliteAce7@twitter](https://twitter.com/EliteAce7/status/1489080806580826112) | advertise |
 | [ELITEPLANETGAM1@twitter](https://twitter.com/ELITEPLANETGAM1/status/1400845458063257601) | advertise |
+| [eliudimb@twitter](https://twitter.com/eliudimb/status/1543723790407847937) | advertise |
 | [ElizabethGogou@twitter](https://twitter.com/ElizabethGogou/status/1377578555954110465) | advertise |
 | [EllaLaw24194722@twitter](https://twitter.com/EllaLaw24194722/status/1383291450025148418) | advertise |
 | [Elliot24649070@twitter](https://twitter.com/Elliot24649070/status/1390939917404966912) | advertise |
@@ -4125,6 +4126,7 @@ Do not create new issue or we will close it as duplicate.
 | [lapis0011@twitter](https://twitter.com/lapis0011/status/1408175514234146816) | advertise |
 | [LaptopsP@twitter](https://twitter.com/LaptopsP/status/1380583685615849474) | advertise |
 | [lapyae16308476@twitter](https://twitter.com/lapyae16308476/status/1391962821668184065) | advertise |
+| [Larry06951708@twitter](https://twitter.com/Larry06951708/status/1543723562397319170) | advertise |
 | [LASXD2@twitter](https://twitter.com/LASXD2/status/1396425725666762752) | advertise |
 | [Latina65648589@twitter](https://twitter.com/Latina65648589/status/1379128051192107014) | advertise |
 | [LattminT@twitter](https://twitter.com/LattminT/status/1395096297296695299) | advertise |
