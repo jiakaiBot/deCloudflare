@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [This Script Won't Work Due to Cloudflare Rate Limiting (Working Code Included)](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues/146)
 - [500 error upon deployment of a Supabase subscription to Cloudflare Pages](https://github.com/supabase/realtime-js/issues/165)
 - [DataError: Invalid PKCS8 input.](https://github.com/sagi/workers-jwt/issues/17)
 - [Clarification on KV usage](https://github.com/honojs/hono/issues/340)
