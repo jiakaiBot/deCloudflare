@@ -5747,6 +5747,7 @@ Do not create new issue or we will close it as duplicate.
 | [okellochristo@twitter](https://twitter.com/okellochristo/status/1531884571842818053) | advertise |
 | [Olala85233012@twitter](https://twitter.com/Olala85233012/status/1389032029568651267) | advertise |
 | [OlangstonS@twitter](https://twitter.com/OlangstonS/status/1380699085989089286) | advertise |
+| [oldtechatwork@twitter](https://twitter.com/oldtechatwork/status/1543866272768745472) | advertise |
 | [Oli52355992@twitter](https://twitter.com/Oli52355992/status/1391085527143784456) | advertise |
 | [olianayda@twitter](https://twitter.com/olianayda/status/1410511723560411136) | moral (advertise) |
 | [olimay3101@twitter](https://twitter.com/olimay3101/status/1405386938102603776) | advertise |
