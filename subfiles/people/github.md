@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Getting 500 everytime i do something that requires to call node's API](https://github.com/EdyTheCow/docker-pterodactyl/issues/23)
+- [S3 upload fail](https://github.com/mattermost/mattermost-server/issues/20582)
 - [This Script Won't Work Due to Cloudflare Rate Limiting (Working Code Included)](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues/146)
 - [500 error upon deployment of a Supabase subscription to Cloudflare Pages](https://github.com/supabase/realtime-js/issues/165)
 - [DataError: Invalid PKCS8 input.](https://github.com/sagi/workers-jwt/issues/17)
