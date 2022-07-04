@@ -3974,6 +3974,7 @@ Do not create new issue or we will close it as duplicate.
 | [KwangTo1@twitter](https://twitter.com/KwangTo1/status/1388373678233047041) | advertise |
 | [KwikMugs@twitter](https://twitter.com/KwikMugs/status/1518513448597995524) | advertise |
 | [KXbXQwleCqIGldM@twitter](https://twitter.com/KXbXQwleCqIGldM/status/1491062243563556873) | advertise |
+| [ky1ro@twitter](https://twitter.com/ky1ro/status/1543894833563041792) | advertise |
 | [KyaePhoenix@twitter](https://twitter.com/KyaePhoenix/status/1392514813826191360) | advertise |
 | [KyaeYehtet@twitter](https://twitter.com/KyaeYehtet/status/1387258889897345024) | advertise |
 | [Kyal48869938@twitter](https://twitter.com/Kyal48869938/status/1377577578895044611) | advertise |
@@ -4662,6 +4663,7 @@ Do not create new issue or we will close it as duplicate.
 | [mehedibs@twitter](https://twitter.com/mehedibs/status/1447465601509642240) | advertise |
 | [MehrabH95891991@twitter](https://twitter.com/MehrabH95891991/status/1395810158475845632) | advertise |
 | [Mehrabjan123@twitter](https://twitter.com/Mehrabjan123/status/1394097749604409344) | advertise |
+| [mehran060@twitter](https://twitter.com/mehran060/status/1543887005062414337) | advertise |
 | [mehrdad137100@twitter](https://twitter.com/mehrdad137100/status/1508746993497260037) | advertise |
 | [Mehrsha21508826@twitter](https://twitter.com/Mehrsha21508826/status/1514578153917886470) | advertise |
 | [meisora175@twitter](https://twitter.com/meisora175/status/1522414345241567232) | advertise |
@@ -8007,6 +8009,7 @@ Do not create new issue or we will close it as duplicate.
 | [Uncle_Jerold@twitter](https://twitter.com/Uncle_Jerold/status/1516793943060455428) | advertise |
 | [Uncle_Megx@twitter](https://twitter.com/Uncle_Megx/status/1401113870241042432) | advertise |
 | [Underta090909@twitter](https://twitter.com/Underta090909/status/1498388111012753408) | advertise |
+| [uneeb756@twitter](https://twitter.com/uneeb756/status/1543887404741890048) | advertise |
 | [UNgeLay21962396@twitter](https://twitter.com/UNgeLay21962396/status/1392031101913206784) | advertise |
 | [Unicode200c@twitter](https://twitter.com/Unicode200c/status/1450697239312039939) | advertise |
 | [united88488681@twitter](https://twitter.com/united88488681/status/1394865054521053189) | advertise |
