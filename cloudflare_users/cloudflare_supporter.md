@@ -6644,6 +6644,7 @@ Do not create new issue or we will close it as duplicate.
 | [sai_zeya@twitter](https://twitter.com/sai_zeya/status/1390399367006277632) | advertise |
 | [sajademaalik@twitter](https://twitter.com/sajademaalik/status/1391848383174770689) | advertise |
 | [Sajan15063771@twitter](https://twitter.com/Sajan15063771/status/1385509047818887169) | advertise |
+| [sajanzerif@twitter](https://twitter.com/sajanzerif/status/1544053905386262528) | advertise |
 | [sajbersfera@twitter](https://twitter.com/sajbersfera/status/1412508700791787522) | moral (advertise) |
 | [SajibMamun8@twitter](https://twitter.com/SajibMamun8/status/1487575937243832332) | advertise |
 | [SajjadJabJ@twitter](https://twitter.com/SajjadJabJ/status/1518537507905884160) | advertise |
@@ -7381,6 +7382,7 @@ Do not create new issue or we will close it as duplicate.
 | [tfarl_13@twitter](https://twitter.com/tfarl_13/status/1526401787221114880) | advertise |
 | [TfmGhostreeper@twitter](https://twitter.com/TfmGhostreeper/status/1496150405323108358) | advertise |
 | [TForestpolice@twitter](https://twitter.com/TForestpolice/status/1400545801324146689) | advertise |
+| [tf_respect@twitter](https://twitter.com/tf_respect/status/1544060233512779778) | advertise |
 | [tgah161@twitter](https://twitter.com/tgah161/status/1386024837819207680) | advertise |
 | [tgunr@twitter](https://twitter.com/tgunr/status/1411621018691584002) | moral (advertise) |
 | [TH98989@twitter](https://twitter.com/TH98989/status/1393745686877937668) | advertise |
