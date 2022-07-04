@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [DataError: Invalid PKCS8 input.](https://github.com/sagi/workers-jwt/issues/17)
 - [Clarification on KV usage](https://github.com/honojs/hono/issues/340)
 - [Traefik (Gateway API) breaks if a route points to a missing service (as seen with cert-manager)](https://github.com/traefik/traefik/issues/9158)
 - [Tinyurl install method returns 404](https://github.com/hugsy/gef/issues/867)
