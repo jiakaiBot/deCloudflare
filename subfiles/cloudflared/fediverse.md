@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,559 |
+| com | 2,560 |
 | net | 1,478 |
 | social | 1,131 |
 | org | 1,060 |
-| de | 932 |
+| de | 933 |
 
 
 - Mastodon, Pleroma, etc
@@ -1063,6 +1063,7 @@ Here's a list of public Fediverse services.
 | aria.dog | No |
 | ariacorbett.com | Yes |
 | ariadne.space | No |
+| arint.me | Yes |
 | ariona.fr | No |
 | arisu.fr | No |
 | ariswanto.web.id | Yes |
@@ -5009,6 +5010,7 @@ Here's a list of public Fediverse services.
 | farmlesbian.com | No |
 | farmunity.ca | Yes |
 | farout.social | No |
+| farshidhakimy.de | No |
 | fart.social | No |
 | farted.net | No |
 | farthinghalearms.com | No |
@@ -13241,7 +13243,7 @@ Here's a list of public Fediverse services.
 | pixelfed.nl | No |
 | pixelfed.nz | Yes |
 | pixelfed.photos | No |
-| pixelfed.pl | No |
+| pixelfed.pl | Yes |
 | pixelfed.pt | No |
 | pixelfed.se | No |
 | pixelfed.social | Yes |
@@ -14335,6 +14337,7 @@ Here's a list of public Fediverse services.
 | rgst.io | Yes |
 | rgx.pt | No |
 | rhabarberbarbara.bar | Yes |
+| rhamzeh.com | No |
 | rhazdon.com | No |
 | rheall.me | No |
 | rheinland.social | No |
@@ -15321,7 +15324,7 @@ Here's a list of public Fediverse services.
 | simbly.me | No |
 | simcu.com | No |
 | simkey.net | Yes |
-| simon-frey.eu | Yes |
+| simon-frey.eu | No |
 | simon-koester.de | No |
 | simon816.com | No |
 | simonoener.com | No |
@@ -16294,6 +16297,7 @@ Here's a list of public Fediverse services.
 | syui.ml | No |
 | syuilo.dev | Yes |
 | syundo.org | No |
+| syuneci.am | Yes |
 | syuwa.fun | No |
 | syvita.club | No |
 | szeged.social | No |
@@ -17877,6 +17881,7 @@ Here's a list of public Fediverse services.
 | valinor.fr | No |
 | valkyrie.world | No |
 | valletta.io | No |
+| valleycommunity.co.za | Yes |
 | valleypost.us | No |
 | valvin.fr | No |
 | vampire.estate | No |
@@ -19290,8 +19295,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,714 |
-| Normal | 15,533 |
+| Cloudflare | 3,717 |
+| Normal | 15,535 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
