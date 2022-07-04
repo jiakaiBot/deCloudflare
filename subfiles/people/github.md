@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [500 error upon deployment of a Supabase subscription to Cloudflare Pages](https://github.com/supabase/realtime-js/issues/165)
 - [DataError: Invalid PKCS8 input.](https://github.com/sagi/workers-jwt/issues/17)
 - [Clarification on KV usage](https://github.com/honojs/hono/issues/340)
 - [Traefik (Gateway API) breaks if a route points to a missing service (as seen with cert-manager)](https://github.com/traefik/traefik/issues/9158)
