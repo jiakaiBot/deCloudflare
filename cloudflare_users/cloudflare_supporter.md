@@ -6445,6 +6445,7 @@ Do not create new issue or we will close it as duplicate.
 | [RGyi28802950@twitter](https://twitter.com/RGyi28802950/status/1390118757356367874) | advertise |
 | [rHahxuv3SZVGqiF@twitter](https://twitter.com/rHahxuv3SZVGqiF/status/1388164875680026624) | advertise |
 | [RhondaP0393@twitter](https://twitter.com/RhondaP0393/status/1488871746744815621) | advertise |
+| [Rhumtarr@twitter](https://twitter.com/Rhumtarr/status/1544157569748328449) | advertise |
 | [rian71515036@twitter](https://twitter.com/rian71515036/status/1387106975465549824) | advertise |
 | [RicardoDeMauro@twitter](https://twitter.com/RicardoDeMauro/status/1387279863879458817) | advertise |
 | [Richieboateng5@twitter](https://twitter.com/Richieboateng5/status/1384939346030211077) | advertise |
@@ -7596,6 +7597,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thinh2347123@twitter](https://twitter.com/Thinh2347123/status/1377847997564788736) | advertise |
 | [Thinh34570878@twitter](https://twitter.com/Thinh34570878/status/1405434591502995460) | advertise |
 | [thinhrcrazy@twitter](https://twitter.com/thinhrcrazy/status/1393615682399395842) | advertise |
+| [ThinkEzIT@twitter](https://twitter.com/ThinkEzIT/status/1544165852106625025) | advertise |
 | [Thinmya70178167@twitter](https://twitter.com/Thinmya70178167/status/1397741650923843585) | advertise |
 | [Thinn28995478@twitter](https://twitter.com/Thinn28995478/status/1394833467129483265) | advertise |
 | [ThinNgu33020032@twitter](https://twitter.com/ThinNgu33020032/status/1382689604193509376) | advertise |
