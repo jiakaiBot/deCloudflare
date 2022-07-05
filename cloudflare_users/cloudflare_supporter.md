@@ -7733,6 +7733,7 @@ Do not create new issue or we will close it as duplicate.
 | [TinZawAung1@twitter](https://twitter.com/TinZawAung1/status/1496424114910867458) | advertise |
 | [TINZAYYARLIN1@twitter](https://twitter.com/TINZAYYARLIN1/status/1378943503011475461) | advertise |
 | [tin_sci@twitter](https://twitter.com/tin_sci/status/1485901022312923139) | advertise |
+| [Tipziz@twitter](https://twitter.com/Tipziz/status/1544379049392410625) | advertise |
 | [Titatiton3@twitter](https://twitter.com/Titatiton3/status/1383579029635166211) | advertise |
 | [tite_tain@twitter](https://twitter.com/tite_tain/status/1386579845652439040) | advertise |
 | [TiuCa31571299@twitter](https://twitter.com/TiuCa31571299/status/1379215328140353539) | advertise |
