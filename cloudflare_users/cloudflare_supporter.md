@@ -1591,6 +1591,7 @@ Do not create new issue or we will close it as duplicate.
 | [DanhThnh@twitter](https://twitter.com/DanhThnh/status/1543566037513547778) | advertise |
 | [danialputtra87@twitter](https://twitter.com/danialputtra87/status/1381981236189487105) | advertise |
 | [Dania__Daher@twitter](https://twitter.com/Dania__Daher/status/1408457508092588032) | advertise |
+| [Daniel92172642@twitter](https://twitter.com/Daniel92172642/status/1544288938218496001) | advertise |
 | [DanielA84917391@twitter](https://twitter.com/DanielA84917391/status/1390611870680195073) | advertise |
 | [DANIELBINOJ321@twitter](https://twitter.com/DANIELBINOJ321/status/1386653209582735363) | advertise |
 | [danielbolkvadze@twitter](https://twitter.com/danielbolkvadze/status/1397978166929461251) | advertise |
@@ -5999,6 +6000,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhoneMyatMinn@twitter](https://twitter.com/PhoneMyatMinn/status/1395059646159798276) | advertise |
 | [phonepyaeshn@twitter](https://twitter.com/phonepyaeshn/status/1396732146866262019) | advertise |
 | [phonetezaphyo@twitter](https://twitter.com/phonetezaphyo/status/1390312032361123840) | advertise |
+| [Phong28012797@twitter](https://twitter.com/Phong28012797/status/1544251355790843904) | advertise |
 | [PhongCa70106622@twitter](https://twitter.com/PhongCa70106622/status/1394490447460929543) | advertise |
 | [phongchanog@twitter](https://twitter.com/phongchanog/status/1495811312659857409) | advertise |
 | [phonglol9x@twitter](https://twitter.com/phonglol9x/status/1473306367737827328) | advertise |
