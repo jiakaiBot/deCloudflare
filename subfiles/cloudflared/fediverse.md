@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,560 |
-| net | 1,478 |
+| com | 2,561 |
+| net | 1,479 |
 | social | 1,131 |
 | org | 1,060 |
 | de | 933 |
@@ -3978,6 +3978,7 @@ Here's a list of public Fediverse services.
 | dilavni.com | Yes |
 | dilopiaf.fr | No |
 | dimethyl.xyz | No |
+| dimitriregnier.net | No |
 | dindon.one | No |
 | dinerville.info | No |
 | dingdash.com | No |
@@ -8621,6 +8622,7 @@ Here's a list of public Fediverse services.
 | konata.co | Yes |
 | konc.wtf | Yes |
 | kondakor.net | Yes |
+| konecnyjakub.top | No |
 | konectik.fr | No |
 | konf.yt | No |
 | konfederacja.ru | No |
@@ -10493,6 +10495,7 @@ Here's a list of public Fediverse services.
 | merkel.social | Yes |
 | merlion.social | Yes |
 | mernacher.at | Yes |
+| merovingian.club | No |
 | merry.eu.org | No |
 | meru-golang.jp | Yes |
 | meru-golang.net | No |
@@ -14908,6 +14911,7 @@ Here's a list of public Fediverse services.
 | schneckenradio.de | No |
 | schneesportlehrer.biz | No |
 | schnitzel-mit-pommes.de | No |
+| schnitzler.one | No |
 | schoentoon.com | No |
 | scholar.social | No |
 | scholzbande.de | No |
@@ -16169,6 +16173,7 @@ Here's a list of public Fediverse services.
 | supremesyntax.com | No |
 | suprt.me | Yes |
 | sur.social | No |
+| suranyami.com | No |
 | surfin.dog | No |
 | surfnet.space | No |
 | surftao.life | Yes |
@@ -18687,6 +18692,7 @@ Here's a list of public Fediverse services.
 | x39.dev | No |
 | x41.rocks | No |
 | x41.social | No |
+| x4s.io | Yes |
 | x5gtrn.com | No |
 | x61.uk | Yes |
 | x91.de | Yes |
@@ -19295,8 +19301,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,717 |
-| Normal | 15,535 |
+| Cloudflare | 3,718 |
+| Normal | 15,540 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
