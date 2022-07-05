@@ -3266,6 +3266,7 @@ Do not create new issue or we will close it as duplicate.
 | [JeromeMcginn@twitter](https://twitter.com/JeromeMcginn/status/1514879121184243712) | advertise |
 | [JeromeR42358233@twitter](https://twitter.com/JeromeR42358233/status/1386974016896790531) | advertise |
 | [jerry76419614@twitter](https://twitter.com/jerry76419614/status/1506916588792217604) | advertise |
+| [JerryJduh@twitter](https://twitter.com/JerryJduh/status/1544127263775621122) | advertise |
 | [jesko14346712@twitter](https://twitter.com/jesko14346712/status/1402518182020063240) | advertise |
 | [JesseREzung@twitter](https://twitter.com/JesseREzung/status/1384211301686136836) | advertise |
 | [jesse_sihenherg@twitter](https://twitter.com/jesse_sihenherg/status/1387006183018352643) | advertise |
