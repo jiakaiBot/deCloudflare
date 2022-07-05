@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error 524 When Cloudflare is On](https://github.com/dropzone/dropzone/issues/2142)
 - [Getting 500 everytime i do something that requires to call node's API](https://github.com/EdyTheCow/docker-pterodactyl/issues/23)
 - [S3 upload fail](https://github.com/mattermost/mattermost-server/issues/20582)
 - [This Script Won't Work Due to Cloudflare Rate Limiting (Working Code Included)](https://github.com/logicguy1/Discord-Nitro-Generator-and-Checker/issues/146)
