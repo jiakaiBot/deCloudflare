@@ -8885,7 +8885,6 @@ Here's a list of public Fediverse services.
 | lambertz.xyz | No |
 | lambton.social | No |
 | lamp.institute | Yes |
-| lamp.wtf | Yes |
 | lanandmedia.org | No |
 | lancaster.ac.uk | No |
 | lancasterpa.social | No |
@@ -19301,7 +19300,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,718 |
+| Cloudflare | 3,717 |
 | Normal | 15,540 |
 
 
