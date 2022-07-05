@@ -615,6 +615,7 @@ Do not create new issue or we will close it as duplicate.
 | [arrhai21@twitter](https://twitter.com/arrhai21/status/1393450615628435458) | advertise |
 | [ArronCarson2@twitter](https://twitter.com/ArronCarson2/status/1492611274093568002) | advertise |
 | [ARROW41821591@twitter](https://twitter.com/ARROW41821591/status/1391638652766232577) | advertise |
+| [ArrWaim1872000@twitter](https://twitter.com/ArrWaim1872000/status/1544193109071761410) | advertise |
 | [arryanggaputra@twitter](https://twitter.com/arryanggaputra/status/1456791655630061571) | advertise |
 | [arr_htun@twitter](https://twitter.com/arr_htun/status/1390092486530404352) | advertise |
 | [arr_khun@twitter](https://twitter.com/arr_khun/status/1394691552241274882) | advertise |
@@ -8422,6 +8423,7 @@ Do not create new issue or we will close it as duplicate.
 | [Xtun45371052@twitter](https://twitter.com/Xtun45371052/status/1396529138454781952) | advertise |
 | [Xuanly60441460@twitter](https://twitter.com/Xuanly60441460/status/1504496542375301133) | advertise |
 | [xubbers@twitter](https://twitter.com/xubbers/status/1375092922975145988) | advertise |
+| [XunNguy78192142@twitter](https://twitter.com/XunNguy78192142/status/1544197771103576064) | advertise |
 | [xVcLc3U5giDDbYt@twitter](https://twitter.com/xVcLc3U5giDDbYt/status/1397256988959051784) | advertise |
 | [XxBestGanexX@twitter](https://twitter.com/XxBestGanexX/status/1400081132989734914) | advertise |
 | [XxPoNaGeXx@twitter](https://twitter.com/XxPoNaGeXx/status/1383560559707049998) | advertise |
