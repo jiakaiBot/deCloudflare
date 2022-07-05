@@ -2230,6 +2230,7 @@ Do not create new issue or we will close it as duplicate.
 | [fzxenar@twitter](https://twitter.com/fzxenar/status/1478967657407795207) | advertise |
 | [fz_law@twitter](https://twitter.com/fz_law/status/1392177594183860226) | advertise |
 | [g02M1Rjo2WJvITL@twitter](https://twitter.com/g02M1Rjo2WJvITL/status/1402969073282027525) | advertise |
+| [G7OAH_Ken@twitter](https://twitter.com/G7OAH_Ken/status/1544335505235517441) | advertise |
 | [g7Vsqme2nATL3G6@twitter](https://twitter.com/g7Vsqme2nATL3G6/status/1400850162675716096) | advertise |
 | [G191433996@twitter](https://twitter.com/G191433996/status/1393383252304572419) | advertise |
 | [gabes_hub@twitter](https://twitter.com/gabes_hub/status/1448032264940630023) | advertise |
@@ -3995,6 +3996,7 @@ Do not create new issue or we will close it as duplicate.
 | [KyawJame1@twitter](https://twitter.com/KyawJame1/status/1390702353968373762) | advertise |
 | [Kyawkha53920056@twitter](https://twitter.com/Kyawkha53920056/status/1390339505115201540) | advertise |
 | [kyawko0177@twitter](https://twitter.com/kyawko0177/status/1388794269754925056) | advertise |
+| [KyawKo45098755@twitter](https://twitter.com/KyawKo45098755/status/1544337631034900480) | advertise |
 | [kyawkya00368200@twitter](https://twitter.com/kyawkya00368200/status/1401495223897894916) | advertise |
 | [kyawkya05235334@twitter](https://twitter.com/kyawkya05235334/status/1390939293728665600) | advertise |
 | [Kyawkya33147399@twitter](https://twitter.com/Kyawkya33147399/status/1387670653319356416) | advertise |
@@ -4680,6 +4682,7 @@ Do not create new issue or we will close it as duplicate.
 | [MennaTSMTM@twitter](https://twitter.com/MennaTSMTM/status/1384571665946800130) | advertise |
 | [Meonkzt@twitter](https://twitter.com/Meonkzt/status/1445847650041880583) | advertise |
 | [meooccho012@twitter](https://twitter.com/meooccho012/status/1399385570594365446) | advertise |
+| [MEOWsama1802@twitter](https://twitter.com/MEOWsama1802/status/1544339586607747072) | advertise |
 | [meran0maruf@twitter](https://twitter.com/meran0maruf/status/1397979741173469186) | advertise |
 | [MercuryKIInG91@twitter](https://twitter.com/MercuryKIInG91/status/1398250256794624005) | advertise |
 | [mergencez@twitter](https://twitter.com/mergencez/status/1501549795122450437) | advertise |
