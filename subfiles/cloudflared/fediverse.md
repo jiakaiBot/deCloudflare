@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,561 |
+| com | 2,566 |
 | net | 1,479 |
-| social | 1,131 |
+| social | 1,132 |
 | org | 1,060 |
-| de | 933 |
+| de | 934 |
 
 
 - Mastodon, Pleroma, etc
@@ -841,6 +841,7 @@ Here's a list of public Fediverse services.
 | andersen.one | No |
 | andersen.social | No |
 | andie.club | No |
+| andreaskilgus.de | No |
 | andreasrohner.at | No |
 | andresbilevich.com | No |
 | andresen.mx | No |
@@ -1314,6 +1315,7 @@ Here's a list of public Fediverse services.
 | avinash.com.np | Yes |
 | avocado.lol | No |
 | avoh.club | No |
+| avtobiografia.com | Yes |
 | awa.im | Yes |
 | awes.one | Yes |
 | awesomebible.de | Yes |
@@ -4679,6 +4681,7 @@ Here's a list of public Fediverse services.
 | ennimedia.de | No |
 | ennui.industries | No |
 | ennui.ws | No |
+| enovale.com | No |
 | enquequedo.org | No |
 | ensilib.re | No |
 | enss.cloud | Yes |
@@ -5310,6 +5313,7 @@ Here's a list of public Fediverse services.
 | firefaithfellowship.com | Yes |
 | fireglow.de | No |
 | fireglow.su | No |
+| firehawk-systems.com | No |
 | firenewt.xyz | Yes |
 | firewall-sec.com | No |
 | firewally.net | Yes |
@@ -5343,6 +5347,7 @@ Here's a list of public Fediverse services.
 | flairgarten.de | No |
 | flairy.de | No |
 | flaki.hu | No |
+| flaki.social | No |
 | flanigan.engineering | Yes |
 | flanintheface.com | No |
 | flashfic.stream | No |
@@ -7029,6 +7034,7 @@ Here's a list of public Fediverse services.
 | homoo.social | No |
 | homunyan.com | Yes |
 | homura.space | No |
+| honahuku.com | Yes |
 | honey.church | No |
 | honey.town | No |
 | honeypot.im | No |
@@ -7850,7 +7856,6 @@ Here's a list of public Fediverse services.
 | jdsoft.de | No |
 | jean-ribes.tk | No |
 | jeannie.digital | No |
-| jeannieindigital.me | No |
 | jeda.im | Yes |
 | jeder.pl | No |
 | jeena.net | No |
@@ -9841,7 +9846,7 @@ Here's a list of public Fediverse services.
 | mamalibre.com.ar | No |
 | mame.moe | Yes |
 | mamemo.online | Yes |
-| mametsuko.net | No |
+| mametsuko.net | Yes |
 | mamieserv.fr | No |
 | mammoth.social | Yes |
 | mammout.bzh | No |
@@ -11081,6 +11086,7 @@ Here's a list of public Fediverse services.
 | mrpetovan.com | No |
 | mrporky.moe | No |
 | mrprud.me | Yes |
+| mrsmckhaos.me | No |
 | mrt.al | No |
 | mrtino.eu | No |
 | mrxi.org | No |
@@ -15971,6 +15977,7 @@ Here's a list of public Fediverse services.
 | stephanmaus.de | No |
 | stephenanfield.com | Yes |
 | stephenbasile.com | Yes |
+| stephencorwin.com | Yes |
 | stephenking.club | No |
 | stephenpieper.net | No |
 | stephenson.cc | No |
@@ -16450,6 +16457,7 @@ Here's a list of public Fediverse services.
 | tatmius.tk | No |
 | tatooine.space | No |
 | tatu.la | Yes |
+| taullo.live | No |
 | taullo.social | No |
 | taur.zone | No |
 | taurix.net | No |
@@ -16752,6 +16760,7 @@ Here's a list of public Fediverse services.
 | theiceshelf.com | No |
 | theicon.stream | No |
 | theinternet.lol | No |
+| theitsurgeon.co.za | Yes |
 | thejoyo.com | No |
 | thekosinski.com | No |
 | thekurokuma.net | No |
@@ -18951,6 +18960,7 @@ Here's a list of public Fediverse services.
 | ygo.pub | Yes |
 | yharnam.town | No |
 | yhnmjuik.com | No |
+| yhwh.tube | No |
 | yibo.blog | No |
 | yidhra.farm | No |
 | yidian.ga | No |
@@ -19300,8 +19310,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,717 |
-| Normal | 15,540 |
+| Cloudflare | 3,722 |
+| Normal | 15,545 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
