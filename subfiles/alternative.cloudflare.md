@@ -48,6 +48,7 @@ We might create a guide for some self-hosting basics which don't require Cloudfl
 | Cloudflare Tunnel | Uses Cloudflare. |
 | DDoS-GUARD | just like CloudFlare. |
 | Gitlab pages      | GitLab is now Cloudflared |
+| [Greypanel](https://www.greypanel.com/en/) | just like CloudFlare. |
 | Imperva | Uses Cloudflare. |
 | jsDelivr | Uses Cloudflare, see their [network page](https://www.jsdelivr.com/network) |
 | Netlify | Uses Amazon AWS which is also a content delivery network. It would be hypocritical to include it. |
