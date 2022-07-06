@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Switch migration fetcher to CAR](https://github.com/ipfs/kubo/issues/8851)
 - [Error 524 When Cloudflare is On](https://github.com/dropzone/dropzone/issues/2142)
 - [Getting 500 everytime i do something that requires to call node's API](https://github.com/EdyTheCow/docker-pterodactyl/issues/23)
 - [S3 upload fail](https://github.com/mattermost/mattermost-server/issues/20582)
