@@ -7013,6 +7013,7 @@ Do not create new issue or we will close it as duplicate.
 | [Skythewolf22@twitter](https://twitter.com/Skythewolf22/status/1412424567625289735) | moral (advertise) |
 | [SkyzGaming12@twitter](https://twitter.com/SkyzGaming12/status/1400060043710517248) | advertise |
 | [SleepyH67417917@twitter](https://twitter.com/SleepyH67417917/status/1503197462638514179) | advertise |
+| [SLeong123@twitter](https://twitter.com/SLeong123/status/1544643510577819649) | advertise |
 | [slianp@twitter](https://twitter.com/slianp/status/1390484980342480897) | advertise |
 | [Slick12302@twitter](https://twitter.com/Slick12302/status/1394545875582558211) | advertise |
 | [Slick_Willy_27@twitter](https://twitter.com/Slick_Willy_27/status/1397233774832803846) | advertise |
