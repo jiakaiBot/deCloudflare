@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 2,566 |
 | net | 1,479 |
 | social | 1,132 |
-| org | 1,060 |
+| org | 1,059 |
 | de | 934 |
 
 
@@ -12049,6 +12049,7 @@ Here's a list of public Fediverse services.
 | noritsuna.jp | No |
 | norius.fr | No |
 | normandie-libre.fr | No |
+| normie.cafe | No |
 | norrebro.space | No |
 | norrland.xyz | No |
 | northpole.host | No |
@@ -18790,7 +18791,6 @@ Here's a list of public Fediverse services.
 | xn--baw-joa.social | No |
 | xn--canope-fva.quebec | No |
 | xn--chuchichschtli-dib.social | No |
-| xn--dgtt6ucql1igfpb.org | No |
 | xn--dreikseho-z2a.ch | No |
 | xn--dsselblog-q9a.de | No |
 | xn--fiqwix98h.jp | No |
