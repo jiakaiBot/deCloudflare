@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [nvm doesn't load nodejs v16.15.1](https://github.com/nvm-sh/nvm/issues/2845)
 - [Cloudflare Workers doesn't allow modifying immutable headers to set cookie](https://github.com/supabase-community/auth-helpers/issues/165)
 - [Retry more often in RetryingProvider, with the exception of eth_estimateGas](https://github.com/abacus-network/abacus-monorepo/issues/706)
 - [nhentai not working. it says possible reasons: server offline](https://github.com/Bionus/imgbrd-grabber/issues/2743)
