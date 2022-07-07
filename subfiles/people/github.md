@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Retry more often in RetryingProvider, with the exception of eth_estimateGas](https://github.com/abacus-network/abacus-monorepo/issues/706)
 - [nhentai not working. it says possible reasons: server offline](https://github.com/Bionus/imgbrd-grabber/issues/2743)
 - [Reaperscans doesn't work after new update](https://github.com/TheNetsky/extensions-sources/issues/26)
 - [Determine how to make Cloudflare Tunnel + TLS play nicely with wildcard hostnames](https://github.com/ankushg/home-cluster/issues/312)
