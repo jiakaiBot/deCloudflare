@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Reaperscans doesn't work after new update](https://github.com/TheNetsky/extensions-sources/issues/26)
 - [Determine how to make Cloudflare Tunnel + TLS play nicely with wildcard hostnames](https://github.com/ankushg/home-cluster/issues/312)
 - [Switch migration fetcher to CAR](https://github.com/ipfs/kubo/issues/8851)
 - [Error 524 When Cloudflare is On](https://github.com/dropzone/dropzone/issues/2142)
