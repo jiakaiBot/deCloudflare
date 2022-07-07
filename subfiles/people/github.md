@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Workers doesn't allow modifying immutable headers to set cookie](https://github.com/supabase-community/auth-helpers/issues/165)
 - [Retry more often in RetryingProvider, with the exception of eth_estimateGas](https://github.com/abacus-network/abacus-monorepo/issues/706)
 - [nhentai not working. it says possible reasons: server offline](https://github.com/Bionus/imgbrd-grabber/issues/2743)
 - [Reaperscans doesn't work after new update](https://github.com/TheNetsky/extensions-sources/issues/26)
