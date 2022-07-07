@@ -1677,6 +1677,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dazai06731634@twitter](https://twitter.com/Dazai06731634/status/1394310699132891138) | advertise |
 | [Dazai_yebo@twitter](https://twitter.com/Dazai_yebo/status/1404095489629380611) | advertise |
 | [db739dc8697c4fd@twitter](https://twitter.com/db739dc8697c4fd/status/1376869447944695812) | advertise |
+| [DCLifeMagazine@twitter](https://twitter.com/DCLifeMagazine/status/1545120333228818432) | advertise |
 | [Dcralph_@twitter](https://twitter.com/Dcralph_/status/1460151745284243460) | advertise |
 | [dcrimyz@twitter](https://twitter.com/dcrimyz/status/1399029992374239233) | advertise |
 | [ddkatsios@twitter](https://twitter.com/ddkatsios/status/1398632489028104192) | advertise |
@@ -3766,8 +3767,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6260,6 +6261,7 @@ Do not create new issue or we will close it as duplicate.
 | [qalifhilmi@twitter](https://twitter.com/qalifhilmi/status/1394339624986681344) | advertise |
 | [qbar65081251@twitter](https://twitter.com/qbar65081251/status/1400029689020702721) | advertise |
 | [QCvcztU31nUGV3w@twitter](https://twitter.com/QCvcztU31nUGV3w/status/1526739905568821248) | advertise |
+| [QingSon42331119@twitter](https://twitter.com/QingSon42331119/status/1545130837057863682) | advertise |
 | [qkhai323@twitter](https://twitter.com/qkhai323/status/1478540022487814144) | advertise |
 | [qlufi2@twitter](https://twitter.com/qlufi2/status/1437630069388705796) | advertise |
 | [qmutz@twitter](https://twitter.com/qmutz/status/1383237532054261762) | advertise |
@@ -7160,6 +7162,7 @@ Do not create new issue or we will close it as duplicate.
 | [ssf5tx5ktv@twitter](https://twitter.com/ssf5tx5ktv/status/1536649892520955905) | advertise |
 | [SshuvoFF1@twitter](https://twitter.com/SshuvoFF1/status/1502123888020393985) | advertise |
 | [SSuiteSoftware@twitter](https://twitter.com/SSuiteSoftware/status/1372875712240230400) | advertise |
+| [Ssupunsathsara@twitter](https://twitter.com/Ssupunsathsara/status/1545152719266410496) | advertise |
 | [STA54946378@twitter](https://twitter.com/STA54946378/status/1394890464516399107) | advertise |
 | [stamp_app@twitter](https://twitter.com/stamp_app/status/1417450714490605568) | advertise |
 | [starpratama@twitter](https://twitter.com/starpratama/status/1409534516167806978) | moral (advertise) |
