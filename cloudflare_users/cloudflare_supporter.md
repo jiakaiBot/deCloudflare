@@ -2633,6 +2633,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hing64416706@twitter](https://twitter.com/Hing64416706/status/1387995214791335939) | advertise |
 | [HiNguyn74792313@twitter](https://twitter.com/HiNguyn74792313/status/1400332809403723779) | advertise |
 | [HinHin47689528@twitter](https://twitter.com/HinHin47689528/status/1527436519467732992) | advertise |
+| [hiraethforever_@twitter](https://twitter.com/hiraethforever_/status/1545012644595511296) | advertise |
 | [HiranoKuro@twitter](https://twitter.com/HiranoKuro/status/1388350222598742016) | advertise |
 | [Hiro00129279@twitter](https://twitter.com/Hiro00129279/status/1381635026807181318) | advertise |
 | [hiro3pc@twitter](https://twitter.com/hiro3pc/status/1520371268859891712) | advertise |
@@ -3764,8 +3765,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6827,6 +6828,7 @@ Do not create new issue or we will close it as duplicate.
 | [sexlovehomo@twitter](https://twitter.com/sexlovehomo/status/1388767522049064962) | advertise |
 | [Sexman1611@twitter](https://twitter.com/Sexman1611/status/1501954885713297414) | advertise |
 | [Seypul3@twitter](https://twitter.com/Seypul3/status/1400350243426770944) | advertise |
+| [Sfa7ko1@twitter](https://twitter.com/Sfa7ko1/status/1544992856439398400) | advertise |
 | [sfa99688270@twitter](https://twitter.com/sfa99688270/status/1542988291116613639) | advertise |
 | [sffgeek@twitter](https://twitter.com/sffgeek/status/1420023436294991892) | advertise |
 | [sg2Htu8XNTBFMqO@twitter](https://twitter.com/sg2Htu8XNTBFMqO/status/1403241595885875203) | advertise |
