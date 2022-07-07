@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,566 |
+| com | 2,567 |
 | net | 1,479 |
 | social | 1,132 |
-| org | 1,059 |
+| org | 1,061 |
 | de | 934 |
 
 
@@ -2268,6 +2268,7 @@ Here's a list of public Fediverse services.
 | burnworks.com | No |
 | buron.coffee | No |
 | burr.is | Yes |
+| burrito.codes | No |
 | burschel.com | No |
 | burymein.black | No |
 | bus-hit.me | No |
@@ -5073,6 +5074,7 @@ Here's a list of public Fediverse services.
 | federation.host | No |
 | fedgram.com | No |
 | fedi.app | No |
+| fedi.at | No |
 | fedi.be | No |
 | fedi.blog | No |
 | fedi.bzh | No |
@@ -5483,7 +5485,7 @@ Here's a list of public Fediverse services.
 | foxgirlsat.work | No |
 | foxgl.ovh | No |
 | foxhold.net | Yes |
-| foxie.xyz | No |
+| foxie.xyz | Yes |
 | foxiepa.ws | No |
 | foxocube.xyz | Yes |
 | foxpaw.in | No |
@@ -8016,7 +8018,7 @@ Here's a list of public Fediverse services.
 | jonkman.ca | No |
 | jonleibowitz.com | Yes |
 | jonleibowitz.social | Yes |
-| jonossaseuraava.eu | No |
+| jonossaseuraava.eu | Yes |
 | jonproulx.com | No |
 | jonquan.cf | No |
 | jonquan.moe | No |
@@ -8727,6 +8729,7 @@ Here's a list of public Fediverse services.
 | ksite.de | No |
 | ksl-bmx.de | No |
 | ksu-mastodon.com | No |
+| kswk.org | No |
 | ktachibana.party | Yes |
 | ktistec.com | No |
 | ktrv.dev | Yes |
@@ -12460,7 +12463,6 @@ Here's a list of public Fediverse services.
 | ookami.one | No |
 | oomfi.es | No |
 | oook.fr | No |
-| oopsall.gay | Yes |
 | oopscommand.com | Yes |
 | oortcloud.online | No |
 | oour.org | No |
@@ -17341,6 +17343,7 @@ Here's a list of public Fediverse services.
 | triplea.fr | No |
 | triplebit.net | Yes |
 | trippelm.tv | No |
+| tripsocial.co | No |
 | triptico.com | No |
 | trispadsmit.com | No |
 | trn.ac | No |
@@ -18066,6 +18069,7 @@ Here's a list of public Fediverse services.
 | virtualsanity.com | No |
 | vis.nu | No |
 | vis.social | No |
+| vis4valentine.com | No |
 | viserrin.me | No |
 | visible.pictures | No |
 | visionel.de | No |
@@ -18791,6 +18795,7 @@ Here's a list of public Fediverse services.
 | xn--baw-joa.social | No |
 | xn--canope-fva.quebec | No |
 | xn--chuchichschtli-dib.social | No |
+| xn--dgtt6ucql1igfpb.org | No |
 | xn--dreikseho-z2a.ch | No |
 | xn--dsselblog-q9a.de | No |
 | xn--fiqwix98h.jp | No |
@@ -19310,8 +19315,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,722 |
-| Normal | 15,545 |
+| Cloudflare | 3,723 |
+| Normal | 15,549 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
