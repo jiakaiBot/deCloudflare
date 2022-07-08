@@ -11493,7 +11493,7 @@ Here's a list of public Fediverse services.
 | nate601.me | Yes |
 | natedickson.com | No |
 | natehn.com | No |
-| natehub.com | No |
+| natehub.com | Yes |
 | nateledford.com | Yes |
 | nathanheffley.com | No |
 | nathankunicki.com | No |
@@ -18921,6 +18921,7 @@ Here's a list of public Fediverse services.
 | yamast.com | No |
 | yambal.net | No |
 | yan.io | No |
+| yandere.cc | Yes |
 | yang.social | No |
 | yanick.ca | No |
 | yanlinaung.xyz | No |
@@ -19320,8 +19321,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,722 |
-| Normal | 15,555 |
+| Cloudflare | 3,724 |
+| Normal | 15,554 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
