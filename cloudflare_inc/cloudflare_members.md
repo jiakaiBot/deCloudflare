@@ -1189,6 +1189,7 @@ Or is this merely a case of simple modesty?
 | Mike Michon | Head of Data Engineering |  |
 | Mike Pool | Global Alliance Manager |  |
 | Millie Chan | Front End Engineer |  |
+| Mingwei Zhang | Employee | |
 | Ming Xue | Employee | |
 | Minh Bui | Pricing Strategist |  |
 | Mircea-Valeriu Ulinic | Network Engineer, London | ping@mirceaulinic.net<br>mulinic@digitalocean.com<br>https://twitter.com/mirceaulinic<br>https://mirceaulinic.net/<br>https://github.com/mirceaulinic<br>https://linkedin.com/in/mirceaulinic<br>GPG: A17C1D1C37DAFF75E41041383EFF87F6091B4B29 |
