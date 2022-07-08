@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,567 |
+| com | 2,568 |
 | net | 1,479 |
 | social | 1,132 |
 | org | 1,061 |
@@ -2304,6 +2304,7 @@ Here's a list of public Fediverse services.
 | c-r-t.tk | Yes |
 | c-view.club | No |
 | c.im | Yes |
+| c0debabe.com | No |
 | c0ffee.net | No |
 | c1710.de | No |
 | c2bdon.net | No |
@@ -2361,7 +2362,7 @@ Here's a list of public Fediverse services.
 | camnet.site | No |
 | campdarling.com | No |
 | campduffel.social | No |
-| campfire.website | Yes |
+| campfire.website | No |
 | campfollow.life | No |
 | campusgemeinde.de | No |
 | canadafriendfinder.com | No |
@@ -5767,7 +5768,7 @@ Here's a list of public Fediverse services.
 | funkwhale.audio | No |
 | funkwhale.co.uk | No |
 | funkwhale.it | Yes |
-| funkwhale.net | Yes |
+| funkwhale.net | No |
 | funkymonkey.org | No |
 | funkypenguin.co.nz | Yes |
 | funny.cl | No |
@@ -8892,6 +8893,7 @@ Here's a list of public Fediverse services.
 | lambda.fun | No |
 | lambertz.xyz | No |
 | lambton.social | No |
+| lamesnie.eu | No |
 | lamp.institute | Yes |
 | lanandmedia.org | No |
 | lancaster.ac.uk | No |
@@ -16768,6 +16770,7 @@ Here's a list of public Fediverse services.
 | thekosinski.com | No |
 | thekurokuma.net | No |
 | theladners.com | Yes |
+| thelandofooops.icu | Yes |
 | thelballwiki.gq | No |
 | thele.me | Yes |
 | theliturgists.com | Yes |
@@ -17283,6 +17286,7 @@ Here's a list of public Fediverse services.
 | transmom.love | No |
 | transmutagen.net | No |
 | transneptune.net | No |
+| transpeak.lgbt | No |
 | transponderings.blog | No |
 | transrights.ovh | No |
 | trapped.online | No |
@@ -18906,6 +18910,7 @@ Here's a list of public Fediverse services.
 | yakumo.foundation | Yes |
 | yakumo.tech | No |
 | yakyudon.net | Yes |
+| yalla.quest | No |
 | yamabi.co | No |
 | yamachan.org | No |
 | yamagadon.com | No |
@@ -19315,8 +19320,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,723 |
-| Normal | 15,549 |
+| Cloudflare | 3,722 |
+| Normal | 15,555 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
