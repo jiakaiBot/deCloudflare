@@ -1802,6 +1802,7 @@ Or is this merely a case of simple modesty?
 | Zaid Zaid | Employee | |
 | Zak Cutner | Employee |  |
 | Zanoni Harris | IT Operations |  |
+| Zebulon Piasecki | Employee | |
 | Zeeshan Parkar | Network Engineer |  |
 | Zein Jaber | Technical Support Engineer |  |
 | Zhengyao Lin | Software Engineer Intern |  |
