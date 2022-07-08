@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Logs not working without Web Socket support in Cloudflare](https://github.com/dokku/dokku-pro-issues/issues/5)
 - [nvm doesn't load nodejs v16.15.1](https://github.com/nvm-sh/nvm/issues/2845)
 - [Cloudflare Workers doesn't allow modifying immutable headers to set cookie](https://github.com/supabase-community/auth-helpers/issues/165)
 - [Retry more often in RetryingProvider, with the exception of eth_estimateGas](https://github.com/abacus-network/abacus-monorepo/issues/706)
