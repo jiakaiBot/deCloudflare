@@ -7431,6 +7431,7 @@ Do not create new issue or we will close it as duplicate.
 | [thae_su_881997@twitter](https://twitter.com/thae_su_881997/status/1378291310054895619) | advertise |
 | [ThagyanMoe10@twitter](https://twitter.com/ThagyanMoe10/status/1390577424597884928) | advertise |
 | [thai974@twitter](https://twitter.com/thai974/status/1395950743304105990) | advertise |
+| [ThaiDuyNam1@twitter](https://twitter.com/ThaiDuyNam1/status/1545483880744251392) | advertise |
 | [thaiduypc@twitter](https://twitter.com/thaiduypc/status/1510154337074688000) | advertise |
 | [Thaihoa64783980@twitter](https://twitter.com/Thaihoa64783980/status/1395317406193504256) | advertise |
 | [thaihuyhx@twitter](https://twitter.com/thaihuyhx/status/1472961240481759232) | advertise |
@@ -8777,6 +8778,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zero18004563@twitter](https://twitter.com/Zero18004563/status/1394624752262647812) | advertise |
 | [zerolamon1@twitter](https://twitter.com/zerolamon1/status/1386047123247058950) | advertise |
 | [zeropixx2@twitter](https://twitter.com/zeropixx2/status/1478373192804667396) | advertise |
+| [zerrudo_@twitter](https://twitter.com/zerrudo_/status/1545499878096191489) | advertise |
 | [Zertong19@twitter](https://twitter.com/Zertong19/status/1472010175275941891) | advertise |
 | [zeus410111@twitter](https://twitter.com/zeus410111/status/1470774038922420230) | advertise |
 | [Zeus41349153@twitter](https://twitter.com/Zeus41349153/status/1389858739851833346) | advertise |
