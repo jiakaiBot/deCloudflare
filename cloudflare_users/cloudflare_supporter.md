@@ -3055,6 +3055,7 @@ Do not create new issue or we will close it as duplicate.
 | [imprince_kumar@twitter](https://twitter.com/imprince_kumar/status/1540676187382358017) | advertise |
 | [ImranKh71814473@twitter](https://twitter.com/ImranKh71814473/status/1387290263626731523) | advertise |
 | [ImranOveek@twitter](https://twitter.com/ImranOveek/status/1392932554303369216) | advertise |
+| [ImranPollob@twitter](https://twitter.com/ImranPollob/status/1545452246770585603) | advertise |
 | [IMRANSM3@twitter](https://twitter.com/IMRANSM3/status/1376860023729446913) | advertise |
 | [imranvazirr@twitter](https://twitter.com/imranvazirr/status/1545281808409174016) | advertise |
 | [imsurit@twitter](https://twitter.com/imsurit/status/1468784896537608193) | advertise |
