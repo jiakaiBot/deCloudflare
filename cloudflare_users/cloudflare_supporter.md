@@ -4320,6 +4320,7 @@ Do not create new issue or we will close it as duplicate.
 | [lnguyenduc997@twitter](https://twitter.com/lnguyenduc997/status/1536404693668073472) | advertise |
 | [LNguynXunSn1@twitter](https://twitter.com/LNguynXunSn1/status/1485459472827166721) | advertise |
 | [LNhnHong1@twitter](https://twitter.com/LNhnHong1/status/1400851165248585730) | advertise |
+| [lnspectorRex@twitter](https://twitter.com/lnspectorRex/status/1545829075016732672) | advertise |
 | [Loctran78766971@twitter](https://twitter.com/Loctran78766971/status/1378360177724776450) | advertise |
 | [loftwah@twitter](https://twitter.com/loftwah/status/1426153321882996737) | advertise |
 | [LoGame17@twitter](https://twitter.com/LoGame17/status/1487789962942726150) | advertise |
@@ -5878,6 +5879,7 @@ Do not create new issue or we will close it as duplicate.
 | [Paing15947077@twitter](https://twitter.com/Paing15947077/status/1377138757418196998) | advertise |
 | [Paing78261447@twitter](https://twitter.com/Paing78261447/status/1402168491055063040) | advertise |
 | [painggyii1@twitter](https://twitter.com/painggyii1/status/1469691163359600644) | advertise |
+| [PaingHeain@twitter](https://twitter.com/PaingHeain/status/1545819460027973632) | advertise |
 | [PaingPh73783364@twitter](https://twitter.com/PaingPh73783364/status/1393440943810908161) | advertise |
 | [Paingso28486926@twitter](https://twitter.com/Paingso28486926/status/1474410649837051908) | advertise |
 | [PaingSo38403023@twitter](https://twitter.com/PaingSo38403023/status/1395652703678722052) | advertise |
