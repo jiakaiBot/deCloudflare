@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,570 |
+| com | 2,571 |
 | net | 1,480 |
 | social | 1,132 |
 | org | 1,061 |
@@ -18284,6 +18284,7 @@ Here's a list of public Fediverse services.
 | warofart.xyz | No |
 | warpnine.de | No |
 | warpzone.es | No |
+| warriorsofthelord.com | No |
 | warrows.fr | No |
 | warsow-online.de | No |
 | waseda.ac.jp | Yes |
@@ -19330,7 +19331,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,731 |
-| Normal | 15,555 |
+| Normal | 15,556 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
