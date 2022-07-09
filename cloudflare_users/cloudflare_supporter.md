@@ -1025,6 +1025,7 @@ Do not create new issue or we will close it as duplicate.
 | [bezelman@twitter](https://twitter.com/bezelman/status/1461563287628255235) | advertise |
 | [BforeAi@twitter](https://twitter.com/BforeAi/status/1407094270700498944) | advertise |
 | [Bfresh420Lord@twitter](https://twitter.com/Bfresh420Lord/status/1378988801695965187) | advertise |
+| [Bg9Ghost@twitter](https://twitter.com/Bg9Ghost/status/1545570473819488259) | advertise |
 | [BGomez77@twitter](https://twitter.com/BGomez77/status/1377795873955049472) | advertise |
 | [BGSG45998073@twitter](https://twitter.com/BGSG45998073/status/1396751243352084487) | advertise |
 | [BgsRaw@twitter](https://twitter.com/BgsRaw/status/1505947100793774087) | advertise |
