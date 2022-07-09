@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,568 |
-| net | 1,479 |
+| com | 2,570 |
+| net | 1,480 |
 | social | 1,132 |
 | org | 1,061 |
-| de | 934 |
+| de | 935 |
 
 
 - Mastodon, Pleroma, etc
@@ -1789,7 +1789,7 @@ Here's a list of public Fediverse services.
 | bipolarsupportgroup.net | Yes |
 | birb.haus | No |
 | birb.site | No |
-| birb.social | No |
+| birb.social | Yes |
 | birb.space | No |
 | birb.town | No |
 | birb.zone | Yes |
@@ -4857,6 +4857,7 @@ Here's a list of public Fediverse services.
 | evolvingdev.io | Yes |
 | evometamecha.com | No |
 | evri1s-connected.online | No |
+| evu-group.de | Yes |
 | ewaf.club | Yes |
 | ewb.io | No |
 | ewcmi.org | No |
@@ -5280,7 +5281,7 @@ Here's a list of public Fediverse services.
 | fikaverse.club | No |
 | file.st | No |
 | filin.news | No |
-| filipesm.com | No |
+| filipesm.com | Yes |
 | filmaidykai.net | Yes |
 | filmfreedom.net | No |
 | filmvirgins.com | No |
@@ -6153,7 +6154,7 @@ Here's a list of public Fediverse services.
 | girak.net | No |
 | girevik.su | No |
 | girlcock.club | No |
-| girlcock.eu | No |
+| girlcock.eu | Yes |
 | girldick.gay | No |
 | girldick.icu | No |
 | girllich.link | No |
@@ -7208,6 +7209,7 @@ Here's a list of public Fediverse services.
 | hyperborea.org | No |
 | hypercute.eu | No |
 | hyperion.social | Yes |
+| hyperplex.net | No |
 | hypertalk.io | No |
 | hypertextcoffee.com | Yes |
 | hypno.church | No |
@@ -9529,6 +9531,7 @@ Here's a list of public Fediverse services.
 | louderthanten.net | Yes |
 | loudstoffarm.de | No |
 | louis-c-novel.com | Yes |
+| louis-vallat.xyz | No |
 | louis.software | Yes |
 | louiscap.io | Yes |
 | louisematic.site | No |
@@ -9677,6 +9680,7 @@ Here's a list of public Fediverse services.
 | luxray.club | No |
 | luxtube.lu | No |
 | luxurygay.space | No |
+| lv8.at | Yes |
 | lvmbdv.dev | No |
 | lvnsx.com | Yes |
 | lw1.at | No |
@@ -11391,7 +11395,7 @@ Here's a list of public Fediverse services.
 | mytter.jp | No |
 | myvnc.com | No |
 | mywebprojects.co.uk | No |
-| mywire.org | No |
+| mywire.org | Yes |
 | myworkoutarenapeertube.cf | No |
 | myyouniverse.observer | Yes |
 | mzaha.net | No |
@@ -14043,6 +14047,7 @@ Here's a list of public Fediverse services.
 | rageparty.club | No |
 | raggedfeathers.com | No |
 | raghavgururajan.ch | No |
+| raghavgururajan.name | No |
 | raghavgururajan.net | No |
 | ragnate.la | No |
 | ragtag.moe | Yes |
@@ -14517,6 +14522,7 @@ Here's a list of public Fediverse services.
 | ronin.world | No |
 | roobre.es | No |
 | roocita.com | Yes |
+| rookieo.com | No |
 | room409.xyz | No |
 | roommatefriendfinder.com | No |
 | roosenmaallen.com | No |
@@ -15388,6 +15394,7 @@ Here's a list of public Fediverse services.
 | sjsr.social | No |
 | skaeya.com | No |
 | skaia.space | No |
+| skalnik.com | Yes |
 | skankhunt42.pw | Yes |
 | skarnio.tv | No |
 | skazki.fr | No |
@@ -18123,6 +18130,7 @@ Here's a list of public Fediverse services.
 | voidlurker.net | No |
 | voidptr.org | No |
 | voidptr.wtf | No |
+| voidwood.online | No |
 | volaras.net | No |
 | volcanocoffee.monster | Yes |
 | volkomorov.ru | Yes |
@@ -19321,8 +19329,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,724 |
-| Normal | 15,554 |
+| Cloudflare | 3,731 |
+| Normal | 15,555 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
