@@ -4689,6 +4689,7 @@ Do not create new issue or we will close it as duplicate.
 | [mehrdad137100@twitter](https://twitter.com/mehrdad137100/status/1508746993497260037) | advertise |
 | [Mehrsha21508826@twitter](https://twitter.com/Mehrsha21508826/status/1514578153917886470) | advertise |
 | [meisora175@twitter](https://twitter.com/meisora175/status/1522414345241567232) | advertise |
+| [meistaGG@twitter](https://twitter.com/meistaGG/status/1545610894993788928) | advertise |
 | [melekmedia@twitter](https://twitter.com/melekmedia/status/1450818039193104393) | advertise |
 | [melissaaavelaaa@twitter](https://twitter.com/melissaaavelaaa/status/1389163238466756608) | advertise |
 | [MellowSpun@twitter](https://twitter.com/MellowSpun/status/1497652387502297090) | advertise |
