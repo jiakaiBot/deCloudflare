@@ -1763,6 +1763,7 @@ Do not create new issue or we will close it as duplicate.
 | [DieTriphel@twitter](https://twitter.com/DieTriphel/status/1517893596443074561) | advertise |
 | [digcinema@twitter](https://twitter.com/digcinema/status/1402343666174201857) | advertise |
 | [DiggajUpadhyay@twitter](https://twitter.com/DiggajUpadhyay/status/1511942797212889089) | advertise |
+| [DigitalBook007@twitter](https://twitter.com/DigitalBook007/status/1545917215349899271) | advertise |
 | [DigitalSoftwar9@twitter](https://twitter.com/DigitalSoftwar9/status/1437033725141860357) | advertise |
 | [digital_khabar@twitter](https://twitter.com/digital_khabar/status/1443868273901146114) | advertise |
 | [digital_pig@twitter](https://twitter.com/digital_pig/status/1384777161383432192) | advertise |
