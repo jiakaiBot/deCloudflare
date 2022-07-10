@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [SIGSEGV when attempting to query R2 from CLI](https://github.com/duckdb/duckdb/issues/4082)
 - [Sveltekit + data proxy](https://github.com/prisma/prisma/issues/14241)
 - [Option Cookies for Extractor nhentai Get Ignored If using Object Type](https://github.com/mikf/gallery-dl/issues/2742)
 - [500 error because of exchangerate.host failing](https://github.com/spiral-project/ihatemoney/issues/1037)
