@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [How to get AWS S3 V3 Adapter to use private for all visibilities](https://github.com/thephpleague/flysystem/issues/1521)
 - [SIGSEGV when attempting to query R2 from CLI](https://github.com/duckdb/duckdb/issues/4082)
 - [Sveltekit + data proxy](https://github.com/prisma/prisma/issues/14241)
 - [Option Cookies for Extractor nhentai Get Ignored If using Object Type](https://github.com/mikf/gallery-dl/issues/2742)
