@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Option Cookies for Extractor nhentai Get Ignored If using Object Type](https://github.com/mikf/gallery-dl/issues/2742)
 - [500 error because of exchangerate.host failing](https://github.com/spiral-project/ihatemoney/issues/1037)
 - [ddclient doesn't parse usev4, usev6, or related options per-host](https://github.com/ddclient/ddclient/issues/427)
 - [Can't renew LE wildcard certificatate on Cloudflare: invalid domain Error add txt for domain:_acme-challenge.DOMAIN.com](https://github.com/acmesh-official/acme.sh/issues/4175)
