@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [500 error because of exchangerate.host failing](https://github.com/spiral-project/ihatemoney/issues/1037)
+- [ddclient doesn't parse usev4, usev6, or related options per-host](https://github.com/ddclient/ddclient/issues/427)
 - [Can't renew LE wildcard certificatate on Cloudflare: invalid domain Error add txt for domain:_acme-challenge.DOMAIN.com](https://github.com/acmesh-official/acme.sh/issues/4175)
 - [Logs not working without Web Socket support in Cloudflare](https://github.com/dokku/dokku-pro-issues/issues/5)
 - [nvm doesn't load nodejs v16.15.1](https://github.com/nvm-sh/nvm/issues/2845)
