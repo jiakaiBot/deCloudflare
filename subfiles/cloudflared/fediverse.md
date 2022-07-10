@@ -12945,7 +12945,6 @@ Here's a list of public Fediverse services.
 | pea.sh | No |
 | peacefrogs.net | No |
 | peacememori.es | No |
-| peach.dog | Yes |
 | peachybat.com | No |
 | peakimage.net | Yes |
 | peanbuff.de | No |
@@ -19337,8 +19336,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,734 |
+| Cloudflare | 3,733 |
 | Normal | 15,560 |
 
 
-### 19.4% of public Fediverse services are using Cloudflare.
+### 19.3% of public Fediverse services are using Cloudflare.
