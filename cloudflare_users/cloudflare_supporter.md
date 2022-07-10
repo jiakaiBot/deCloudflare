@@ -2482,6 +2482,7 @@ Do not create new issue or we will close it as duplicate.
 | [HanJun2047@twitter](https://twitter.com/HanJun2047/status/1385163134193729536) | advertise |
 | [HanLee53520521@twitter](https://twitter.com/HanLee53520521/status/1386303972403650564) | advertise |
 | [hanni1256@twitter](https://twitter.com/hanni1256/status/1400512977510481927) | advertise |
+| [HannibalNetwork@twitter](https://twitter.com/HannibalNetwork/status/1546062155077881856) | advertise |
 | [HannZarni@twitter](https://twitter.com/HannZarni/status/1391730587866517512) | advertise |
 | [HanSoeKyaw3@twitter](https://twitter.com/HanSoeKyaw3/status/1389948031680749573) | advertise |
 | [HanSoeThet4@twitter](https://twitter.com/HanSoeThet4/status/1389911744122867717) | advertise |
@@ -2926,6 +2927,7 @@ Do not create new issue or we will close it as duplicate.
 | [HunhVTrPhong2@twitter](https://twitter.com/HunhVTrPhong2/status/1395796948007931905) | advertise |
 | [Hunnie915752202@twitter](https://twitter.com/Hunnie915752202/status/1380561096503746560) | advertise |
 | [HunsawatP@twitter](https://twitter.com/HunsawatP/status/1403208490374418433) | advertise |
+| [HunterKlowss07@twitter](https://twitter.com/HunterKlowss07/status/1536946816260132864) | advertise |
 | [hunterwattsxxx@twitter](https://twitter.com/hunterwattsxxx/status/1499496305445552133) | advertise |
 | [HuongDa86813854@twitter](https://twitter.com/HuongDa86813854/status/1496878077888319490) | advertise |
 | [huongsw2@twitter](https://twitter.com/huongsw2/status/1495403654295453697) | advertise |
