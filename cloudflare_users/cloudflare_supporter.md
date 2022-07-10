@@ -3049,6 +3049,7 @@ Do not create new issue or we will close it as duplicate.
 | [iLngg0111@twitter](https://twitter.com/iLngg0111/status/1379110919066644480) | advertise |
 | [iLxlo_@twitter](https://twitter.com/iLxlo_/status/1517757375641440256) | advertise |
 | [im4noone@twitter](https://twitter.com/im4noone/status/1532995716196765696) | advertise |
+| [imaginemystrobe@twitter](https://twitter.com/imaginemystrobe/status/1546150235176636419) | advertise |
 | [ImanBabazadeh@twitter](https://twitter.com/ImanBabazadeh/status/1388441784775286784) | advertise |
 | [Imanmirakhorli@twitter](https://twitter.com/Imanmirakhorli/status/1409632904510984201) | moral (advertise) |
 | [imduyhoang@twitter](https://twitter.com/imduyhoang/status/1503398392902582275) | advertise |
@@ -3952,6 +3953,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoZin75830552@twitter](https://twitter.com/KoZin75830552/status/1392217360921108480) | advertise |
 | [ko_smileko@twitter](https://twitter.com/ko_smileko/status/1393753312239968259) | advertise |
 | [KPauksa@twitter](https://twitter.com/KPauksa/status/1377192007555162112) | advertise |
+| [KPavanvarshith@twitter](https://twitter.com/KPavanvarshith/status/1546156981677092870) | advertise |
 | [KpPhyo7@twitter](https://twitter.com/KpPhyo7/status/1523694614393540610) | advertise |
 | [KRATOS93080824@twitter](https://twitter.com/KRATOS93080824/status/1384520636291162115) | advertise |
 | [KrAyXMaximum@twitter](https://twitter.com/KrAyXMaximum/status/1534243085923721216) | advertise |
