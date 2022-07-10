@@ -5208,6 +5208,7 @@ Do not create new issue or we will close it as duplicate.
 | [MyoMinS76637669@twitter](https://twitter.com/MyoMinS76637669/status/1504419383049089026) | advertise |
 | [MyoMinT75861739@twitter](https://twitter.com/MyoMinT75861739/status/1401229774186504200) | advertise |
 | [MyoMinTun0700@twitter](https://twitter.com/MyoMinTun0700/status/1389850274123059201) | advertise |
+| [MyoMyat87540686@twitter](https://twitter.com/MyoMyat87540686/status/1546170814147375105) | advertise |
 | [MyoMyatHtet2@twitter](https://twitter.com/MyoMyatHtet2/status/1392576788723757059) | advertise |
 | [myomyatthwin92@twitter](https://twitter.com/myomyatthwin92/status/1402547053947875329) | advertise |
 | [MyoMyintAung219@twitter](https://twitter.com/MyoMyintAung219/status/1391064057373806596) | advertise |
