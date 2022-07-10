@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,571 |
+| com | 2,572 |
 | net | 1,480 |
 | social | 1,132 |
 | org | 1,061 |
@@ -1456,6 +1456,7 @@ Here's a list of public Fediverse services.
 | balafon.cloud | No |
 | balafon.social | No |
 | balafon.video | No |
+| balamb.fr | No |
 | balbec.xyz | No |
 | baldurbjarnason.com | No |
 | baleafunk.eus | No |
@@ -4418,6 +4419,7 @@ Here's a list of public Fediverse services.
 | eccs.world | No |
 | ece.one | Yes |
 | echan.nl | No |
+| echapp.com | Yes |
 | echelleinconnue.net | No |
 | echelon.pl | No |
 | echelon4.space | No |
@@ -4920,7 +4922,7 @@ Here's a list of public Fediverse services.
 | f5n.org | No |
 | f5s.de | No |
 | f72u.net | Yes |
-| f8d.rocks | Yes |
+| f8d.rocks | No |
 | fab-l3.org | No |
 | fab.industries | No |
 | fabien-berini.fr | No |
@@ -5420,6 +5422,7 @@ Here's a list of public Fediverse services.
 | fodor.app | Yes |
 | foederati.dk | No |
 | foerster-ffm.de | No |
+| fofoca.eu | No |
 | fogade.gob.ve | No |
 | foinb.de | Yes |
 | fokken.ninja | No |
@@ -7820,7 +7823,7 @@ Here's a list of public Fediverse services.
 | jasforce.com | No |
 | jasmine.lgbt | No |
 | jason.re | Yes |
-| jasongreen.net | No |
+| jasongreen.net | Yes |
 | jasonhk.blog | No |
 | jasonlefkowitz.net | No |
 | jasonrbriggs.com | No |
@@ -9120,6 +9123,7 @@ Here's a list of public Fediverse services.
 | letallmortalfleshfindtheirvoice.social | No |
 | lethani.ch | No |
 | lethar.gy | No |
+| letoine.fr | No |
 | letootprimai.re | No |
 | letsalllovela.in | Yes |
 | letsdecentralize.org | No |
@@ -9561,6 +9565,7 @@ Here's a list of public Fediverse services.
 | loves.reisen | Yes |
 | lovethe.wang | No |
 | lovetux.net | No |
+| loveyourdemons.games | No |
 | lovingexpressions.net | No |
 | low5.de | No |
 | lowkey.party | No |
@@ -10508,7 +10513,7 @@ Here's a list of public Fediverse services.
 | merkel.social | Yes |
 | merlion.social | Yes |
 | mernacher.at | Yes |
-| merovingian.club | No |
+| merovingian.club | Yes |
 | merry.eu.org | No |
 | meru-golang.jp | Yes |
 | meru-golang.net | No |
@@ -12072,6 +12077,7 @@ Here's a list of public Fediverse services.
 | nostream.stream | No |
 | not-enough.space | No |
 | not-really.me | No |
+| not.one | No |
 | nota.live | No |
 | notactuallyacat.com | No |
 | notagovernment.agency | Yes |
@@ -15273,6 +15279,7 @@ Here's a list of public Fediverse services.
 | shoberserver.org | Yes |
 | shoko.one | No |
 | shoot.brussels | No |
+| shoot1ng-star.site | No |
 | shootingonsight.eu | No |
 | shootjackdorseyinto.space | No |
 | shorage.de | No |
@@ -17453,7 +17460,7 @@ Here's a list of public Fediverse services.
 | tubejar.com | No |
 | tubelab.video | No |
 | tubercul.es | No |
-| tubplex.org | No |
+| tubplex.org | Yes |
 | tucson.claims | No |
 | tuctum.com | No |
 | tuiwen.live | No |
@@ -19330,8 +19337,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,731 |
-| Normal | 15,556 |
+| Cloudflare | 3,734 |
+| Normal | 15,560 |
 
 
-### 19.3% of public Fediverse services are using Cloudflare.
+### 19.4% of public Fediverse services are using Cloudflare.
