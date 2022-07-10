@@ -3422,6 +3422,7 @@ Do not create new issue or we will close it as duplicate.
 | [jrrizlopez@twitter](https://twitter.com/jrrizlopez/status/1493925362681532416) | advertise |
 | [jrzcinco@twitter](https://twitter.com/jrzcinco/status/1520183037165813760) | advertise |
 | [Jscns2@twitter](https://twitter.com/Jscns2/status/1490713060692328448) | advertise |
+| [jsilvadestaques@twitter](https://twitter.com/jsilvadestaques/status/1546111425898287105) | advertise |
 | [JSongtakri@twitter](https://twitter.com/JSongtakri/status/1380804099340439556) | advertise |
 | [Jspiral360@twitter](https://twitter.com/Jspiral360/status/1539858076802637824) | advertise |
 | [jst79@twitter](https://twitter.com/jst79/status/1536882259101290496) | advertise |
@@ -4261,6 +4262,7 @@ Do not create new issue or we will close it as duplicate.
 | [LinGyi90627876@twitter](https://twitter.com/LinGyi90627876/status/1392445960488374274) | advertise |
 | [Linh85120294@twitter](https://twitter.com/Linh85120294/status/1485994548753010690) | advertise |
 | [linhhne1011@twitter](https://twitter.com/linhhne1011/status/1387590658991349760) | advertise |
+| [LinhL17497891@twitter](https://twitter.com/LinhL17497891/status/1546120295861620736) | advertise |
 | [LinhLe31178992@twitter](https://twitter.com/LinhLe31178992/status/1381882539661426689) | advertise |
 | [LinhNgu21248784@twitter](https://twitter.com/LinhNgu21248784/status/1402156612874248194) | advertise |
 | [Linhngu63667263@twitter](https://twitter.com/Linhngu63667263/status/1471850308200370180) | advertise |
@@ -8743,6 +8745,7 @@ Do not create new issue or we will close it as duplicate.
 | [zawpain51983158@twitter](https://twitter.com/zawpain51983158/status/1391699694292586498) | advertise |
 | [ZawThihaNaung3@twitter](https://twitter.com/ZawThihaNaung3/status/1397912907975860228) | advertise |
 | [zawwin12708716@twitter](https://twitter.com/zawwin12708716/status/1397568534096580608) | advertise |
+| [Zawyehtoo00@twitter](https://twitter.com/Zawyehtoo00/status/1546120245265731585) | advertise |
 | [ZawYTun2@twitter](https://twitter.com/ZawYTun2/status/1400909978806886400) | advertise |
 | [ZawZaw07429483@twitter](https://twitter.com/ZawZaw07429483/status/1390910030816235522) | advertise |
 | [ZawZaw10216039@twitter](https://twitter.com/ZawZaw10216039/status/1391458719528099849) | advertise |
