@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Sveltekit + data proxy](https://github.com/prisma/prisma/issues/14241)
 - [Option Cookies for Extractor nhentai Get Ignored If using Object Type](https://github.com/mikf/gallery-dl/issues/2742)
 - [500 error because of exchangerate.host failing](https://github.com/spiral-project/ihatemoney/issues/1037)
 - [ddclient doesn't parse usev4, usev6, or related options per-host](https://github.com/ddclient/ddclient/issues/427)
