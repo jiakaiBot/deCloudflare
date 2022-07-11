@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [frontegg_workspace with no lockout_policy gives 400 error on apply](https://github.com/frontegg/terraform-provider-frontegg/issues/22)
 - [stuck in a infinite loop](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/722)
 - [How to get AWS S3 V3 Adapter to use private for all visibilities](https://github.com/thephpleague/flysystem/issues/1521)
 - [SIGSEGV when attempting to query R2 from CLI](https://github.com/duckdb/duckdb/issues/4082)
