@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [stuck in a infinite loop](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/722)
 - [How to get AWS S3 V3 Adapter to use private for all visibilities](https://github.com/thephpleague/flysystem/issues/1521)
 - [SIGSEGV when attempting to query R2 from CLI](https://github.com/duckdb/duckdb/issues/4082)
 - [Sveltekit + data proxy](https://github.com/prisma/prisma/issues/14241)
