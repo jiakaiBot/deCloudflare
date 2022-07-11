@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-07-11: [Zero Trust IDP Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yrk7227gjdk9)
 - 2022-07-10: [Network Performance Issues in LHR](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qg70r72v0qll)
 - 2022-07-07: [Gateway Dedicated IP Connectivity Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zcqtrzykv8p5)
 - 2022-07-05: [Network connectivity Issues in Singapore](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lqr0v43kdllf)
