@@ -315,6 +315,7 @@ Do not create new issue or we will close it as duplicate.
 | [ajayajayid@twitter](https://twitter.com/ajayajayid/status/1374250782011256837) | advertise |
 | [AjayRaj37136446@twitter](https://twitter.com/AjayRaj37136446/status/1377920985144299524) | advertise |
 | [ajcpominoz@twitter](https://twitter.com/ajcpominoz/status/1445597215141941258) | advertise |
+| [Ajimarshal147@twitter](https://twitter.com/Ajimarshal147/status/1546320827251048448) | advertise |
 | [Ajithku52523413@twitter](https://twitter.com/Ajithku52523413/status/1397545056177836034) | advertise |
 | [Akane81517314@twitter](https://twitter.com/Akane81517314/status/1385157407320395776) | advertise |
 | [Akar67545006@twitter](https://twitter.com/Akar67545006/status/1390752582860107778) | advertise |
@@ -5330,6 +5331,7 @@ Do not create new issue or we will close it as duplicate.
 | [nasshu2916@twitter](https://twitter.com/nasshu2916/status/1411324259721367558) | moral (advertise) |
 | [Natakonnan@twitter](https://twitter.com/Natakonnan/status/1378146982661779459) | advertise |
 | [NateeDev@twitter](https://twitter.com/NateeDev/status/1541595996186357760) | advertise |
+| [NateJuran1@twitter](https://twitter.com/NateJuran1/status/1546341024280317953) | advertise |
 | [Nath73616642@twitter](https://twitter.com/Nath73616642/status/1399415551819075584) | advertise |
 | [Nathan33310057@twitter](https://twitter.com/Nathan33310057/status/1389756877311942657) | advertise |
 | [nattayanee69@twitter](https://twitter.com/nattayanee69/status/1405489449119543299) | advertise |
