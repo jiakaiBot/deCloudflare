@@ -1348,6 +1348,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chanyeollie615@twitter](https://twitter.com/Chanyeollie615/status/1384046019587895307) | advertise |
 | [chan_lisa0327@twitter](https://twitter.com/chan_lisa0327/status/1379001509594066950) | advertise |
 | [charledemers@twitter](https://twitter.com/charledemers/status/1388674367689838593) | advertise |
+| [charles03186526@twitter](https://twitter.com/charles03186526/status/1546525613585969154) | advertise |
 | [Charles39691172@twitter](https://twitter.com/Charles39691172/status/1389188593525088257) | advertise |
 | [Charlie07870902@twitter](https://twitter.com/Charlie07870902/status/1489977458468089859) | advertise |
 | [charliebrown@twitter](https://twitter.com/charliebrown/status/1376643693164298241) | advertise |
@@ -3361,6 +3362,7 @@ Do not create new issue or we will close it as duplicate.
 | [Joel_Suarez32@twitter](https://twitter.com/Joel_Suarez32/status/1536450398327820288) | advertise |
 | [joem5636@twitter](https://twitter.com/joem5636/status/1503136400769789959) | advertise |
 | [joeri157@twitter](https://twitter.com/joeri157/status/1539734867742785537) | advertise |
+| [joey3982@twitter](https://twitter.com/joey3982/status/1546517069428322304) | advertise |
 | [joeydakers_87@twitter](https://twitter.com/joeydakers_87/status/1543551599116705794) | advertise |
 | [joeysmi02926335@twitter](https://twitter.com/joeysmi02926335/status/1398519469115387904) | advertise |
 | [JoeyVK@twitter](https://twitter.com/JoeyVK/status/1406946607854231554) | advertise |
