@@ -5127,6 +5127,7 @@ Do not create new issue or we will close it as duplicate.
 | [MuhdNaz45586594@twitter](https://twitter.com/MuhdNaz45586594/status/1490141664031408128) | advertise |
 | [MuhdzamriZ@twitter](https://twitter.com/MuhdzamriZ/status/1500260354504663040) | advertise |
 | [Mujeebk99995403@twitter](https://twitter.com/Mujeebk99995403/status/1402529388168724485) | advertise |
+| [Mujtaba288289@twitter](https://twitter.com/Mujtaba288289/status/1546276421009637379) | advertise |
 | [mumin41770540@twitter](https://twitter.com/mumin41770540/status/1381241484205293568) | advertise |
 | [murad_hatem@twitter](https://twitter.com/murad_hatem/status/1407170868220989441) | advertise |
 | [muran786@twitter](https://twitter.com/muran786/status/1380217989790900228) | advertise |
@@ -6680,6 +6681,7 @@ Do not create new issue or we will close it as duplicate.
 | [SaiMyo31199838@twitter](https://twitter.com/SaiMyo31199838/status/1385122850672046082) | advertise |
 | [Saimyominoo9@twitter](https://twitter.com/Saimyominoo9/status/1392334950616248321) | advertise |
 | [SaingNann@twitter](https://twitter.com/SaingNann/status/1391063083049697283) | advertise |
+| [SaintKennedy777@twitter](https://twitter.com/SaintKennedy777/status/1546245297612791808) | advertise |
 | [saira_akira@twitter](https://twitter.com/saira_akira/status/1460944302092156929) | advertise |
 | [SaiSai11662949@twitter](https://twitter.com/SaiSai11662949/status/1394175130662621190) | advertise |
 | [SaiSai48711519@twitter](https://twitter.com/SaiSai48711519/status/1402425490279866371) | advertise |
