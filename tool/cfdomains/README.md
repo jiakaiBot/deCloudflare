@@ -4,15 +4,14 @@
 CLI tool to look up Cloudflare domain list
 
 
-- [Linux](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.linux?inline=false)
-```
-$ chmod +x cfdomains
-$ ./cfdomains
-```
-
-- [Windows](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.exe?inline=false)
-- [Mac OS](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.app?inline=false)
-
+- Binary
+  - [Linux](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.linux?inline=false)
+    - e.g. `$ chmod +x cfdomains; ./cfdomains`
+  - [Windows](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.exe?inline=false)
+  - [Mac OS](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.app?inline=false)
+- Source
+  - [source.js](source.js)
+  - e.g. `# apt install npm nodejs; npm i node-libcurl --save; nodejs source.js`
 
 ----
 
