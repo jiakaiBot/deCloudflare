@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,572 |
+| com | 2,573 |
 | net | 1,480 |
 | social | 1,132 |
 | org | 1,061 |
-| de | 935 |
+| de | 937 |
 
 
 - Mastodon, Pleroma, etc
@@ -2566,6 +2566,7 @@ Here's a list of public Fediverse services.
 | ch.uy | No |
 | ch3n2k.com | Yes |
 | ch405.xyz | No |
+| ch94.de | No |
 | chabant.social | No |
 | chablis.social | No |
 | chaconne.club | No |
@@ -7311,6 +7312,7 @@ Here's a list of public Fediverse services.
 | idw.zone | No |
 | iee.engineer | Yes |
 | ieji.de | No |
+| ielts.boats | No |
 | ient.me | No |
 | iero.org | No |
 | iflab.org | No |
@@ -11008,6 +11010,7 @@ Here's a list of public Fediverse services.
 | mopped.space | No |
 | moppelkotzer.design | No |
 | moqueur.chat | No |
+| morale.ch | No |
 | mordicux.xyz | Yes |
 | mordor.social | No |
 | morepablo.com | No |
@@ -12089,6 +12092,7 @@ Here's a list of public Fediverse services.
 | notdeadluna.com | No |
 | note.rodeo | No |
 | notebook.yokohama | No |
+| notez4all.tech | Yes |
 | notfound.work | No |
 | notfreespee.ch | No |
 | notherweb.com | No |
@@ -13449,6 +13453,7 @@ Here's a list of public Fediverse services.
 | pofilo.fr | No |
 | pogchamp.xyz | No |
 | pogge.rs | Yes |
+| poggerinos.ml | No |
 | poggers.lgbt | Yes |
 | poggersinc.com | Yes |
 | point.community | Yes |
@@ -15663,6 +15668,7 @@ Here's a list of public Fediverse services.
 | socl.win | No |
 | socnet.eu | No |
 | socotrine.com | No |
+| socozy.casa | Yes |
 | soderstrom.social | No |
 | sodium.space | No |
 | sofie.dev | No |
@@ -16110,6 +16116,7 @@ Here's a list of public Fediverse services.
 | subluminal.industries | No |
 | submarin.online | No |
 | submit.as | No |
+| subquestspod.com | No |
 | substitoot.it | No |
 | subtoot.com | No |
 | subut.ai | No |
@@ -17721,6 +17728,7 @@ Here's a list of public Fediverse services.
 | uni-corn.me | Yes |
 | uni-hamburg.de | No |
 | uni-kiel.de | No |
+| uni-magdeburg.de | No |
 | uni-muenster.de | No |
 | uni.horse | No |
 | unicornsquad.party | Yes |
@@ -19336,8 +19344,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,733 |
-| Normal | 15,560 |
+| Cloudflare | 3,735 |
+| Normal | 15,566 |
 
 
-### 19.3% of public Fediverse services are using Cloudflare.
+### 19.4% of public Fediverse services are using Cloudflare.
