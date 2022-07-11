@@ -1795,6 +1795,7 @@ Do not create new issue or we will close it as duplicate.
 | [DishaDidi3@twitter](https://twitter.com/DishaDidi3/status/1387742143855222790) | advertise |
 | [divy83381142@twitter](https://twitter.com/divy83381142/status/1405595079176196100) | advertise |
 | [DJArun12@twitter](https://twitter.com/DJArun12/status/1387112679576272897) | advertise |
+| [DJasver@twitter](https://twitter.com/DJasver/status/1546441129612410882) | advertise |
 | [djdoge69@twitter](https://twitter.com/djdoge69/status/1503225881514311680) | advertise |
 | [DjHiggsWorld@twitter](https://twitter.com/DjHiggsWorld/status/1477789104389640192) | advertise |
 | [djismgaming@twitter](https://twitter.com/djismgaming/status/1467128896416104457) | advertise |
