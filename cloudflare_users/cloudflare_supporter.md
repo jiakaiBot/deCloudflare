@@ -7889,6 +7889,7 @@ Do not create new issue or we will close it as duplicate.
 | [tranvan89033780@twitter](https://twitter.com/tranvan89033780/status/1474185476256845826) | advertise |
 | [trappygypsy@twitter](https://twitter.com/trappygypsy/status/1382015075331014664) | advertise |
 | [travelmatebd@twitter](https://twitter.com/travelmatebd/status/1420998094452256769) | advertise |
+| [TRC_slayer@twitter](https://twitter.com/TRC_slayer/status/1546377981072838656) | advertise |
 | [Trend_N_Trader@twitter](https://twitter.com/Trend_N_Trader/status/1519510452639731712) | advertise |
 | [tretraupq11@twitter](https://twitter.com/tretraupq11/status/1484335040050130947) | advertise |
 | [Tri26055498@twitter](https://twitter.com/Tri26055498/status/1396165681427611653) | advertise |
