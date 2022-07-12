@@ -6634,6 +6634,7 @@ Do not create new issue or we will close it as duplicate.
 | [rubyhoangtri@twitter](https://twitter.com/rubyhoangtri/status/1405564911544061954) | advertise |
 | [Ruka09486933@twitter](https://twitter.com/Ruka09486933/status/1406308606983606275) | advertise |
 | [rukawa_qn@twitter](https://twitter.com/rukawa_qn/status/1530896257710886912) | advertise |
+| [Rungaro05789682@twitter](https://twitter.com/Rungaro05789682/status/1546921362534862848) | advertise |
 | [Rungsimon6@twitter](https://twitter.com/Rungsimon6/status/1493410513749147650) | advertise |
 | [RunStopRestoreX@twitter](https://twitter.com/RunStopRestoreX/status/1381973526350073856) | advertise |
 | [Rupesh69314329@twitter](https://twitter.com/Rupesh69314329/status/1484841043363131393) | advertise |
