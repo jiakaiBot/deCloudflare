@@ -2223,6 +2223,7 @@ Do not create new issue or we will close it as duplicate.
 | [frontware@twitter](https://twitter.com/frontware/status/1438345369256038400) | advertise |
 | [frshzrnmln@twitter](https://twitter.com/frshzrnmln/status/1432737386945933319) | advertise |
 | [FsoIndustries@twitter](https://twitter.com/FsoIndustries/status/1509979654941204482) | advertise |
+| [fuckemcops@twitter](https://twitter.com/fuckemcops/status/1546636756153503745) | advertise |
 | [fuckhilm@twitter](https://twitter.com/fuckhilm/status/1518916598878261248) | advertise |
 | [FuckThong8@twitter](https://twitter.com/FuckThong8/status/1389450074309099521) | advertise |
 | [fuckwoahfaith@twitter](https://twitter.com/fuckwoahfaith/status/1528038970273177601) | advertise |
