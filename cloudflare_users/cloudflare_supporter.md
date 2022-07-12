@@ -1580,6 +1580,7 @@ Do not create new issue or we will close it as duplicate.
 | [daisy_hann@twitter](https://twitter.com/daisy_hann/status/1393047426798276608) | advertise |
 | [Dai_XK@twitter](https://twitter.com/Dai_XK/status/1488931866145325058) | advertise |
 | [Dali80188860@twitter](https://twitter.com/Dali80188860/status/1398634697094221825) | advertise |
+| [DaLuQ3@twitter](https://twitter.com/DaLuQ3/status/1546679792702894080) | advertise |
 | [DAmbur143@twitter](https://twitter.com/DAmbur143/status/1401146045552205828) | advertise |
 | [Dame69475429@twitter](https://twitter.com/Dame69475429/status/1494681069916143620) | advertise |
 | [damhieu9@twitter](https://twitter.com/damhieu9/status/1382137551306121218) | advertise |
@@ -6147,6 +6148,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pitokk2@twitter](https://twitter.com/Pitokk2/status/1386209860484669442) | advertise |
 | [Pixel_CC@twitter](https://twitter.com/Pixel_CC/status/1388533567962058755) | advertise |
 | [Piyushj190@twitter](https://twitter.com/Piyushj190/status/1486487129437851656) | advertise |
+| [pizza_needs@twitter](https://twitter.com/pizza_needs/status/1546707339574747137) | advertise |
 | [Pi_MineNetwork@twitter](https://twitter.com/Pi_MineNetwork/status/1533138566607360003) | advertise |
 | [PJelodar@twitter](https://twitter.com/PJelodar/status/1514000992555077632) | advertise |
 | [PJi80623432@twitter](https://twitter.com/PJi80623432/status/1388863005861965827) | advertise |
