@@ -2715,6 +2715,7 @@ Do not create new issue or we will close it as duplicate.
 | [HninThetHlaing3@twitter](https://twitter.com/HninThetHlaing3/status/1395746371328569349) | advertise |
 | [Hninthiri98@twitter](https://twitter.com/Hninthiri98/status/1390217918462365698) | advertise |
 | [HninWut18289863@twitter](https://twitter.com/HninWut18289863/status/1392029404323266561) | advertise |
+| [hninyuhlaing191@twitter](https://twitter.com/hninyuhlaing191/status/1546888350568939520) | advertise |
 | [hninyumaw8@twitter](https://twitter.com/hninyumaw8/status/1400855702441127938) | advertise |
 | [HninYuW82574084@twitter](https://twitter.com/HninYuW82574084/status/1396071591411216388) | advertise |
 | [hNYFxvRiuF94Rng@twitter](https://twitter.com/hNYFxvRiuF94Rng/status/1389943967907663878) | advertise |
@@ -8393,6 +8394,7 @@ Do not create new issue or we will close it as duplicate.
 | [Wil64484180@twitter](https://twitter.com/Wil64484180/status/1384697118556712963) | advertise |
 | [WileECo92942691@twitter](https://twitter.com/WileECo92942691/status/1450780710197936140) | advertise |
 | [Wilhelm30014903@twitter](https://twitter.com/Wilhelm30014903/status/1403652402616492032) | advertise |
+| [Will26294908@twitter](https://twitter.com/Will26294908/status/1546869335934742532) | advertise |
 | [William12682865@twitter](https://twitter.com/William12682865/status/1392605865677496322) | advertise |
 | [William19073051@twitter](https://twitter.com/William19073051/status/1380260553881497607) | advertise |
 | [William59676471@twitter](https://twitter.com/William59676471/status/1390854991309467649) | advertise |
