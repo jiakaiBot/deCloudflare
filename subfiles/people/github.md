@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Rated limited ??? why you say go nuts ? you mean eat my nuts ?](https://github.com/Cgboal/SonarSearch/issues/53)
 - [frontegg_workspace with no lockout_policy gives 400 error on apply](https://github.com/frontegg/terraform-provider-frontegg/issues/22)
 - [stuck in a infinite loop](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/722)
 - [How to get AWS S3 V3 Adapter to use private for all visibilities](https://github.com/thephpleague/flysystem/issues/1521)
