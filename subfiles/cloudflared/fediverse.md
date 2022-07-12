@@ -13970,7 +13970,7 @@ Here's a list of public Fediverse services.
 | qunok.com | Yes |
 | quod.pl | No |
 | quodverum.com | No |
-| quokka.run | Yes |
+| quokka.run | No |
 | quotient.space | No |
 | qute.dog | No |
 | quux.org | No |
@@ -18195,7 +18195,7 @@ Here's a list of public Fediverse services.
 | vscape.tk | No |
 | vspace.me | No |
 | vsta.org | No |
-| vtanu.live | Yes |
+| vtanu.live | No |
 | vtopia.live | No |
 | vtube.media | No |
 | vtube.space | No |
@@ -19344,8 +19344,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,735 |
-| Normal | 15,566 |
+| Cloudflare | 3,733 |
+| Normal | 15,568 |
 
 
-### 19.4% of public Fediverse services are using Cloudflare.
+### 19.3% of public Fediverse services are using Cloudflare.
