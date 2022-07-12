@@ -1540,6 +1540,7 @@ Do not create new issue or we will close it as duplicate.
 | [cullophid@twitter](https://twitter.com/cullophid/status/1524712985377259520) | advertise |
 | [Culone20@twitter](https://twitter.com/Culone20/status/1480791106061160451) | advertise |
 | [culyk666@twitter](https://twitter.com/culyk666/status/1400159126915715074) | advertise |
+| [CumCumcum247@twitter](https://twitter.com/CumCumcum247/status/1546765124320784384) | advertise |
 | [CumKingdomNet@twitter](https://twitter.com/CumKingdomNet/status/1520375055951462401) | advertise |
 | [cunconxinh008@twitter](https://twitter.com/cunconxinh008/status/1398304448074555394) | advertise |
 | [CungNguyenVN@twitter](https://twitter.com/CungNguyenVN/status/1396172379689086980) | advertise |
