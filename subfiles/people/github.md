@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [AsuraScans not working](https://github.com/TheNetsky/extensions-sources/issues/27)
 - [Rated limited ??? why you say go nuts ? you mean eat my nuts ?](https://github.com/Cgboal/SonarSearch/issues/53)
 - [frontegg_workspace with no lockout_policy gives 400 error on apply](https://github.com/frontegg/terraform-provider-frontegg/issues/22)
 - [stuck in a infinite loop](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/722)
