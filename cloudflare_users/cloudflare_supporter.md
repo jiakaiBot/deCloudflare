@@ -1402,6 +1402,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChitWinKo17@twitter](https://twitter.com/ChitWinKo17/status/1403612539221471233) | advertise |
 | [chiwebmgmt@twitter](https://twitter.com/chiwebmgmt/status/1427620579910299663) | advertise |
 | [chngkh74791784@twitter](https://twitter.com/chngkh74791784/status/1523712853387005952) | advertise |
+| [choigirll@twitter](https://twitter.com/choigirll/status/1546832037495054336) | advertise |
 | [chok_thewa@twitter](https://twitter.com/chok_thewa/status/1467504123083833347) | advertise |
 | [ChoMee34586348@twitter](https://twitter.com/ChoMee34586348/status/1390339608395739136) | advertise |
 | [ChoonHtun@twitter](https://twitter.com/ChoonHtun/status/1380902744744062977) | advertise |
