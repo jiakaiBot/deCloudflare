@@ -1275,6 +1275,7 @@ Do not create new issue or we will close it as duplicate.
 | [canadamarket21@twitter](https://twitter.com/canadamarket21/status/1456298106689970178) | advertise |
 | [canarikan98@twitter](https://twitter.com/canarikan98/status/1515519404439740423) | advertise |
 | [Cancel05402207@twitter](https://twitter.com/Cancel05402207/status/1519129324779372544) | advertise |
+| [cancelcloud@twitter](https://twitter.com/cancelcloud/status/1546773296590512128) | advertise |
 | [CANCER77029125@twitter](https://twitter.com/CANCER77029125/status/1392943585926991880) | advertise |
 | [candace138080@twitter](https://twitter.com/candace138080/status/1377660045463187458) | advertise |
 | [candeken@twitter](https://twitter.com/candeken/status/1393475201011130373) | advertise |
@@ -3118,6 +3119,7 @@ Do not create new issue or we will close it as duplicate.
 | [iqbalbirrul@twitter](https://twitter.com/iqbalbirrul/status/1401703605950828548) | advertise |
 | [irafaj_ila@twitter](https://twitter.com/irafaj_ila/status/1402692024067936260) | advertise |
 | [Iranjd@twitter](https://twitter.com/Iranjd/status/1448632216834224131) | advertise |
+| [iran_bozorg1984@twitter](https://twitter.com/iran_bozorg1984/status/1546779025003143169) | advertise |
 | [iReviewPhones@twitter](https://twitter.com/iReviewPhones/status/1488332657469575171) | advertise |
 | [Irfankh04933214@twitter](https://twitter.com/Irfankh04933214/status/1398707064839548929) | advertise |
 | [IrfanKh53230465@twitter](https://twitter.com/IrfanKh53230465/status/1389479001853366274) | advertise |
