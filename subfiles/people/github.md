@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot bun add exact version of scoped package](https://github.com/oven-sh/bun/issues/682)
 - [Storing ABIs outside subgraph folder causes Cloudflare error when deploying subgraph.](https://github.com/graphprotocol/graph-cli/issues/925)
 - [Android Error when uploading file and server returns empty body](https://github.com/RonRadtke/react-native-blob-util/issues/173)
 - [Rewrite all ./examples/.interop to v10](https://github.com/trpc/trpc/issues/2152)
