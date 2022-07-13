@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,480 |
 | social | 1,132 |
 | org | 1,061 |
-| de | 937 |
+| de | 938 |
 
 
 - Mastodon, Pleroma, etc
@@ -241,6 +241,7 @@ Here's a list of public Fediverse services.
 | 4qq.org | No |
 | 4queens.tk | No |
 | 4ray.co | Yes |
+| 4schubis.de | No |
 | 4sites.org | Yes |
 | 4toot.org | No |
 | 4wtf.com | No |
@@ -433,7 +434,7 @@ Here's a list of public Fediverse services.
 | acolono.me | Yes |
 | acom.space | No |
 | acomme.fr | No |
-| acos.tv | No |
+| acos.tv | Yes |
 | acostey.fr | No |
 | acrylicjam.xyz | No |
 | actionsecit.de | No |
@@ -1507,6 +1508,7 @@ Here's a list of public Fediverse services.
 | bark.house | No |
 | barkshark.tk | No |
 | barkshark.xyz | No |
+| barra.bar | No |
 | barrett.dog | No |
 | barrett.fish | No |
 | barrir.ca | No |
@@ -1916,6 +1918,7 @@ Here's a list of public Fediverse services.
 | blob.coffee | No |
 | blobfox.es | No |
 | blobpat.space | No |
+| blobs.space | No |
 | blobturtle.club | No |
 | blobular.com | Yes |
 | bloc.black | No |
@@ -2508,6 +2511,7 @@ Here's a list of public Fediverse services.
 | cbcmelbourne.life | No |
 | cbfish.es | No |
 | cbrpnk.dev | No |
+| cbrx.io | Yes |
 | cc38.cc | Yes |
 | cccccmake.de | No |
 | cccp.io | No |
@@ -8282,7 +8286,7 @@ Here's a list of public Fediverse services.
 | kasma.xyz | No |
 | kasnauskas.lt | No |
 | kasper.app | No |
-| kastube.com | Yes |
+| kastube.com | No |
 | kasu.me | No |
 | kasun.tech | No |
 | katabaticat.net | No |
@@ -10839,6 +10843,7 @@ Here's a list of public Fediverse services.
 | miwilc.com | No |
 | miwpayou0808.info | Yes |
 | mixamax.se | No |
+| mixin.love | No |
 | mixremix.cc | No |
 | miyacorata.net | Yes |
 | miyon.org | Yes |
@@ -17082,6 +17087,7 @@ Here's a list of public Fediverse services.
 | tofu.pt | No |
 | tofulab.jp | No |
 | togart.de | No |
+| togen.xyz | No |
 | togethr.party | Yes |
 | toho.club | Yes |
 | toine.be | No |
@@ -18785,7 +18791,7 @@ Here's a list of public Fediverse services.
 | xiaoyuanvc.com | No |
 | xiaoyun.space | Yes |
 | xice.org | Yes |
-| xiii.ch | No |
+| xiii.ch | Yes |
 | xiling.site | No |
 | xin.cat | No |
 | xindejiayuan.com | No |
@@ -19344,8 +19350,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,733 |
-| Normal | 15,568 |
+| Cloudflare | 3,735 |
+| Normal | 15,572 |
 
 
 ### 19.3% of public Fediverse services are using Cloudflare.
