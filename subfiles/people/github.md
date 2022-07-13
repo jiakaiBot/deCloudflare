@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Rewrite all ./examples/.interop to v10](https://github.com/trpc/trpc/issues/2152)
 - [Could not look up a certificate for server name 'domain'](https://github.com/sozu-proxy/sozu/issues/774)
 - [AsuraScans not working](https://github.com/TheNetsky/extensions-sources/issues/27)
 - [Rated limited ??? why you say go nuts ? you mean eat my nuts ?](https://github.com/Cgboal/SonarSearch/issues/53)
