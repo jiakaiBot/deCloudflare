@@ -5903,6 +5903,7 @@ Do not create new issue or we will close it as duplicate.
 | [Oza86732831@twitter](https://twitter.com/Oza86732831/status/1400399392029298694) | advertise |
 | [ozairkhan7@twitter](https://twitter.com/ozairkhan7/status/1379544271309578240) | advertise |
 | [Ozymand28326389@twitter](https://twitter.com/Ozymand28326389/status/1384559908188680197) | advertise |
+| [p0etra08@twitter](https://twitter.com/p0etra08/status/1547229837345300480) | advertise |
 | [P9I4Kl23k8Mo7qN@twitter](https://twitter.com/P9I4Kl23k8Mo7qN/status/1385339627096084482) | advertise |
 | [paay0m@twitter](https://twitter.com/paay0m/status/1389945969542828032) | advertise |
 | [Pabo11Shu@twitter](https://twitter.com/Pabo11Shu/status/1390611967920939016) | advertise |
