@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,573 |
+| com | 2,574 |
 | net | 1,480 |
-| social | 1,132 |
-| org | 1,061 |
-| de | 938 |
+| social | 1,133 |
+| org | 1,062 |
+| de | 939 |
 
 
 - Mastodon, Pleroma, etc
@@ -387,6 +387,7 @@ Here's a list of public Fediverse services.
 | abolition.online | No |
 | abolition.town | No |
 | abolivier.bzh | No |
+| aboringsite.dev | No |
 | abortu.com | No |
 | about-bitcoin.com | Yes |
 | abraka-dabra.sk | No |
@@ -395,6 +396,7 @@ Here's a list of public Fediverse services.
 | abski.pl | No |
 | abskoop.com | Yes |
 | absolem.cc | No |
+| abstract.town | Yes |
 | abstrct.us | No |
 | absturztau.be | No |
 | abunchtell.com | No |
@@ -606,6 +608,7 @@ Here's a list of public Fediverse services.
 | akitadon.com | No |
 | akitadon.info | No |
 | akko.gq | No |
+| akko.wtf | No |
 | akkoma.dev | No |
 | akoot.site | No |
 | aksel.at | No |
@@ -5867,6 +5870,7 @@ Here's a list of public Fediverse services.
 | g3l.org | No |
 | g4wrd.in | Yes |
 | g5t.de | Yes |
+| gaac2.com | Yes |
 | gab.best | No |
 | gab.com | Yes |
 | gabble.xyz | No |
@@ -9204,6 +9208,7 @@ Here's a list of public Fediverse services.
 | libertynode.net | No |
 | libertynode.tv | No |
 | libertywoof.com | No |
+| libori.social | No |
 | libox.fr | No |
 | libranet.de | No |
 | librarianofalexandria.com | No |
@@ -9637,6 +9642,7 @@ Here's a list of public Fediverse services.
 | lugnasad.eu | No |
 | lugodev.com | Yes |
 | lugonials.social | Yes |
+| luizpicolo.com.br | Yes |
 | lukasrosenstock.net | No |
 | lukaszkopczyk.com | No |
 | lukeleppan.com | No |
@@ -9790,6 +9796,7 @@ Here's a list of public Fediverse services.
 | magically.cc | No |
 | magicalmirro.red | Yes |
 | magicannon.com | No |
+| magickal.club | No |
 | magicstone.dev | No |
 | magicvampirepirates.com | Yes |
 | magik.me | No |
@@ -13570,6 +13577,7 @@ Here's a list of public Fediverse services.
 | possum.gay | No |
 | possumgraveyard.com | No |
 | possumlodge.me | No |
+| possums.xyz | Yes |
 | postblue.info | No |
 | postdon.com | No |
 | postea.me | No |
@@ -14423,6 +14431,7 @@ Here's a list of public Fediverse services.
 | risingsun.red | No |
 | riskmanage.jp | No |
 | rita.moe | Yes |
+| ritimo.org | No |
 | ritma.net | Yes |
 | ritterswelt.eu | No |
 | rivals.live | Yes |
@@ -18480,6 +18489,7 @@ Here's a list of public Fediverse services.
 | wien.rocks | No |
 | wienermobile.rentals | No |
 | wiesbaden.social | Yes |
+| wieser-hv.de | No |
 | wieser.ml | No |
 | wife.town | No |
 | wiggle.pw | No |
@@ -19350,8 +19360,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,735 |
-| Normal | 15,572 |
+| Cloudflare | 3,739 |
+| Normal | 15,578 |
 
 
-### 19.3% of public Fediverse services are using Cloudflare.
+### 19.4% of public Fediverse services are using Cloudflare.
