@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Storing ABIs outside subgraph folder causes Cloudflare error when deploying subgraph.](https://github.com/graphprotocol/graph-cli/issues/925)
+- [Android Error when uploading file and server returns empty body](https://github.com/RonRadtke/react-native-blob-util/issues/173)
 - [Rewrite all ./examples/.interop to v10](https://github.com/trpc/trpc/issues/2152)
 - [Could not look up a certificate for server name 'domain'](https://github.com/sozu-proxy/sozu/issues/774)
 - [AsuraScans not working](https://github.com/TheNetsky/extensions-sources/issues/27)
