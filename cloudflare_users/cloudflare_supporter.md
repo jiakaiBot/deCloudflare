@@ -1508,8 +1508,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -4273,6 +4273,7 @@ Do not create new issue or we will close it as duplicate.
 | [likasit2007@twitter](https://twitter.com/likasit2007/status/1455188973991575552) | advertise |
 | [likexxxpussy@twitter](https://twitter.com/likexxxpussy/status/1480204550753906691) | advertise |
 | [lil33volt@twitter](https://twitter.com/lil33volt/status/1387519800742658048) | advertise |
+| [lildrip34202595@twitter](https://twitter.com/lildrip34202595/status/1547291257529147393) | advertise |
 | [Lillii412@twitter](https://twitter.com/Lillii412/status/1395707127176458243) | advertise |
 | [LiLy19600218@twitter](https://twitter.com/LiLy19600218/status/1394904381653356544) | advertise |
 | [LimHtar@twitter](https://twitter.com/LimHtar/status/1379706457453555712) | advertise |
@@ -6177,6 +6178,7 @@ Do not create new issue or we will close it as duplicate.
 | [PLSFY2dzXWxAFJq@twitter](https://twitter.com/PLSFY2dzXWxAFJq/status/1401748010107875333) | advertise |
 | [PLTiYlLp6TXPZEv@twitter](https://twitter.com/PLTiYlLp6TXPZEv/status/1393330572097773573) | advertise |
 | [Plumeri73219936@twitter](https://twitter.com/Plumeri73219936/status/1384177258991013899) | advertise |
+| [pluss_huy@twitter](https://twitter.com/pluss_huy/status/1547297826820194304) | advertise |
 | [PManieh@twitter](https://twitter.com/PManieh/status/1497224698861547520) | advertise |
 | [pmhkyaw@twitter](https://twitter.com/pmhkyaw/status/1389977831820521472) | advertise |
 | [Pmmv9@twitter](https://twitter.com/Pmmv9/status/1395317642685190147) | advertise |
