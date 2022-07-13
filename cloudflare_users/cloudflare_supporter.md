@@ -5414,6 +5414,7 @@ Do not create new issue or we will close it as duplicate.
 | [Na_AlFayeez@twitter](https://twitter.com/Na_AlFayeez/status/1388195478844674055) | advertise |
 | [Ndahe8@twitter](https://twitter.com/Ndahe8/status/1387121668582117377) | advertise |
 | [NdIosdg@twitter](https://twitter.com/NdIosdg/status/1502104011155324932) | advertise |
+| [ndt1901@twitter](https://twitter.com/ndt1901/status/1547278303161352192) | advertise |
 | [nducluongio36@twitter](https://twitter.com/nducluongio36/status/1401614551120900100) | advertise |
 | [ndymcvey@twitter](https://twitter.com/ndymcvey/status/1510713292095959043) | advertise |
 | [nearby_Thailand@twitter](https://twitter.com/nearby_Thailand/status/1375630256543985666) | advertise |
