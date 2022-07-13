@@ -4695,6 +4695,7 @@ Do not create new issue or we will close it as duplicate.
 | [MdRahim25257221@twitter](https://twitter.com/MdRahim25257221/status/1518175550963347456) | advertise |
 | [MdRizwa55314105@twitter](https://twitter.com/MdRizwa55314105/status/1399181640945991680) | advertise |
 | [MdSAmi06045379@twitter](https://twitter.com/MdSAmi06045379/status/1382387062549086211) | advertise |
+| [Mdsamiu21620514@twitter](https://twitter.com/Mdsamiu21620514/status/1547009359624151040) | advertise |
 | [MdShaki27581136@twitter](https://twitter.com/MdShaki27581136/status/1509762315385643011) | advertise |
 | [MdShauk19707675@twitter](https://twitter.com/MdShauk19707675/status/1383835265383370760) | advertise |
 | [MDShori73803492@twitter](https://twitter.com/MDShori73803492/status/1377934270396735488) | advertise |
