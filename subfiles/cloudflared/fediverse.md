@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,574 |
+| com | 2,575 |
 | net | 1,480 |
 | social | 1,135 |
 | org | 1,062 |
@@ -18116,6 +18116,7 @@ Here's a list of public Fediverse services.
 | virtual-assembly.org | No |
 | virtual-kaf.fun | Yes |
 | virtualapero.de | No |
+| virtuallyhillbilly.com | No |
 | virtualsanity.com | No |
 | vis.nu | No |
 | vis.social | No |
@@ -19371,7 +19372,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,744 |
-| Normal | 15,583 |
+| Normal | 15,584 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
