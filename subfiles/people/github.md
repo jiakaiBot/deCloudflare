@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Disallow "browser-only" devtools in output](https://github.com/thheller/shadow-cljs/issues/1032)
 - [Cannot bun add exact version of scoped package](https://github.com/oven-sh/bun/issues/682)
 - [Storing ABIs outside subgraph folder causes Cloudflare error when deploying subgraph.](https://github.com/graphprotocol/graph-cli/issues/925)
 - [Android Error when uploading file and server returns empty body](https://github.com/RonRadtke/react-native-blob-util/issues/173)
