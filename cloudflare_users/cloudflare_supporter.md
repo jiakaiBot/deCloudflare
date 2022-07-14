@@ -2234,6 +2234,7 @@ Do not create new issue or we will close it as duplicate.
 | [Fullmoo48883890@twitter](https://twitter.com/Fullmoo48883890/status/1392352133417078793) | advertise |
 | [fullOspace@twitter](https://twitter.com/fullOspace/status/1378241319634493443) | advertise |
 | [FumihikoHatta@twitter](https://twitter.com/FumihikoHatta/status/1495165291273326595) | advertise |
+| [Funashi@twitter](https://twitter.com/Funashi/status/1547487658716323840) | advertise |
 | [Funcky77200595@twitter](https://twitter.com/Funcky77200595/status/1392335460807155714) | advertise |
 | [funkybear29@twitter](https://twitter.com/funkybear29/status/1514595662989602821) | advertise |
 | [furain_mushi@twitter](https://twitter.com/furain_mushi/status/1539651349797019649) | advertise |
@@ -4229,6 +4230,7 @@ Do not create new issue or we will close it as duplicate.
 | [lelyr13@twitter](https://twitter.com/lelyr13/status/1382216932842110981) | advertise |
 | [LeMinhDai13@twitter](https://twitter.com/LeMinhDai13/status/1490225991356420096) | advertise |
 | [Lenhchi1@twitter](https://twitter.com/Lenhchi1/status/1389640843296792576) | advertise |
+| [lensesview@twitter](https://twitter.com/lensesview/status/1547488187945213952) | advertise |
 | [leo06855459@twitter](https://twitter.com/leo06855459/status/1380889409004871681) | advertise |
 | [Leo35125764@twitter](https://twitter.com/Leo35125764/status/1397392880998645761) | advertise |
 | [Leo67452617@twitter](https://twitter.com/Leo67452617/status/1392773215638917121) | advertise |
