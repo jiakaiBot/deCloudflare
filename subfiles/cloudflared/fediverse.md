@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,574 |
 | net | 1,480 |
-| social | 1,133 |
+| social | 1,135 |
 | org | 1,062 |
 | de | 939 |
 
@@ -171,6 +171,7 @@ Here's a list of public Fediverse services.
 | 2n3904.net | No |
 | 2ndamendment.social | No |
 | 2orb.de | Yes |
+| 2ot.fun | No |
 | 2p.gg | Yes |
 | 2printers1cups.com | Yes |
 | 2soc.net | No |
@@ -1921,7 +1922,7 @@ Here's a list of public Fediverse services.
 | blob.coffee | No |
 | blobfox.es | No |
 | blobpat.space | No |
-| blobs.space | No |
+| blobs.space | Yes |
 | blobturtle.club | No |
 | blobular.com | Yes |
 | bloc.black | No |
@@ -3017,12 +3018,14 @@ Here's a list of public Fediverse services.
 | comfy.business | No |
 | comfy.center | Yes |
 | comfy.moe | No |
+| comfy.social | Yes |
 | comfyboy.club | No |
 | comfybyte.ga | No |
 | comfysnug.space | No |
 | comics.town | No |
 | comicscamp.club | No |
 | comicsofcolor.club | No |
+| comidade.casa | No |
 | comint.su | No |
 | comix.gr | No |
 | comm.cx | Yes |
@@ -4993,6 +4996,7 @@ Here's a list of public Fediverse services.
 | famille-bordes.net | No |
 | famille-coudert.eu | No |
 | famille-link.fr | No |
+| familleboisteau.fr | No |
 | familleborne.com | No |
 | family-m.art | No |
 | familysolidarity.org | No |
@@ -8722,6 +8726,7 @@ Here's a list of public Fediverse services.
 | krauser.org | No |
 | kraut.zone | Yes |
 | krazy.party | No |
+| kreato.dev | No |
 | kreatv.org | No |
 | krefeld.club | Yes |
 | krefeld.life | No |
@@ -10224,6 +10229,7 @@ Here's a list of public Fediverse services.
 | mastodonfrance.com | No |
 | mastodong.art | No |
 | mastodong.club | No |
+| mastodong.lol | Yes |
 | mastodong.net | Yes |
 | mastodonhk.social | No |
 | mastodonhub.com | No |
@@ -11365,6 +11371,7 @@ Here's a list of public Fediverse services.
 | mygaia.org | No |
 | mygaming.space | No |
 | mygayfans.com | No |
+| myhm.social | Yes |
 | myhome-server.de | No |
 | myhome.cx | No |
 | myhre.wtf | Yes |
@@ -11830,6 +11837,7 @@ Here's a list of public Fediverse services.
 | nicolas-guichard.ovh | No |
 | nicolastissot.fr | No |
 | nicolog.jp | No |
+| nicolosus.chat | Yes |
 | nicolosus.com | No |
 | nicra.fr | No |
 | niebling.online | No |
@@ -14835,6 +14843,7 @@ Here's a list of public Fediverse services.
 | sarcasm.stream | No |
 | sardo.work | Yes |
 | sarkastic.org | No |
+| saronno.one | No |
 | sarsenij.ch | No |
 | sarsworld.eu | No |
 | sartorial.online | No |
@@ -16265,6 +16274,7 @@ Here's a list of public Fediverse services.
 | swast.club | No |
 | sweak.net | Yes |
 | swearing.org | No |
+| swebbtube.se | No |
 | swebbtv.se | No |
 | swedneck.xyz | Yes |
 | sweetappleacr.es | No |
@@ -19360,8 +19370,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,739 |
-| Normal | 15,578 |
+| Cloudflare | 3,744 |
+| Normal | 15,583 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
