@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Pale Moon browser cannot log in due to aggressive DDoS protection](https://github.com/Nexus-Mods/web-issues/issues/1556)
+- [Updated to 2.1.22.1289, getting "Unable to parse response content" on scheduled task now](https://github.com/win-acme/win-acme/issues/2171)
 - [Error while fetching R2 file](https://github.com/skymethod/denoflare/issues/19)
 - [Disallow "browser-only" devtools in output](https://github.com/thheller/shadow-cljs/issues/1032)
 - [Cannot bun add exact version of scoped package](https://github.com/oven-sh/bun/issues/682)
