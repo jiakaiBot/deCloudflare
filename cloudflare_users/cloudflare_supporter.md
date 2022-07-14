@@ -1508,8 +1508,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -8683,6 +8683,7 @@ Do not create new issue or we will close it as duplicate.
 | [YinMinPhyu11@twitter](https://twitter.com/YinMinPhyu11/status/1406756700103708674) | advertise |
 | [YiYiHtay17@twitter](https://twitter.com/YiYiHtay17/status/1392188985036787712) | advertise |
 | [YLay06809442@twitter](https://twitter.com/YLay06809442/status/1392878829312503808) | advertise |
+| [YmnsSatoshi@twitter](https://twitter.com/YmnsSatoshi/status/1547386705698639872) | advertise |
 | [YnBnh53625192@twitter](https://twitter.com/YnBnh53625192/status/1377619350748864517) | advertise |
 | [ynnhi54574877@twitter](https://twitter.com/ynnhi54574877/status/1393622696328531968) | advertise |
 | [YnwSup@twitter](https://twitter.com/YnwSup/status/1403618675697930241) | advertise |
