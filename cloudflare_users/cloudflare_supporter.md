@@ -215,6 +215,7 @@ Do not create new issue or we will close it as duplicate.
 | [Adam39171140@twitter](https://twitter.com/Adam39171140/status/1515414463008104464) | advertise |
 | [AdamHakeemi18@twitter](https://twitter.com/AdamHakeemi18/status/1396117339007979526) | advertise |
 | [AdamKha89958233@twitter](https://twitter.com/AdamKha89958233/status/1541880757144240128) | advertise |
+| [adamscrabble@twitter](https://twitter.com/adamscrabble/status/1547574102533124097) | advertise |
 | [adamtansl@twitter](https://twitter.com/adamtansl/status/1527957253990809600) | advertise |
 | [adathorium@twitter](https://twitter.com/adathorium/status/1436389816573194240) | advertise |
 | [AddisonReis6@twitter](https://twitter.com/AddisonReis6/status/1510670586166525967) | advertise |
@@ -1339,6 +1340,7 @@ Do not create new issue or we will close it as duplicate.
 | [CHANBAE21088600@twitter](https://twitter.com/CHANBAE21088600/status/1392122926711836676) | advertise |
 | [Chancha76116896@twitter](https://twitter.com/Chancha76116896/status/1467508424170618888) | advertise |
 | [chanchan_banyar@twitter](https://twitter.com/chanchan_banyar/status/1539014311565488129) | advertise |
+| [chandrawiraaa@twitter](https://twitter.com/chandrawiraaa/status/1547578344094732288) | advertise |
 | [change68911673@twitter](https://twitter.com/change68911673/status/1389260007728848898) | advertise |
 | [ChanhyuneeEXOL@twitter](https://twitter.com/ChanhyuneeEXOL/status/1394620855611654148) | advertise |
 | [ChanKoKoKyaw5@twitter](https://twitter.com/ChanKoKoKyaw5/status/1402998806296231937) | advertise |
@@ -2022,6 +2024,7 @@ Do not create new issue or we will close it as duplicate.
 | [el3mentry@twitter](https://twitter.com/el3mentry/status/1402187903665463296) | advertise |
 | [Elaine01799523@twitter](https://twitter.com/Elaine01799523/status/1397575836140589056) | advertise |
 | [elara_kin@twitter](https://twitter.com/elara_kin/status/1395797258030002177) | advertise |
+| [eldrdgdayao@twitter](https://twitter.com/eldrdgdayao/status/1547573579453059073) | advertise |
 | [Elena160921@twitter](https://twitter.com/Elena160921/status/1506156363692478464) | advertise |
 | [ELEVEN86464120@twitter](https://twitter.com/ELEVEN86464120/status/1398547337459367936) | advertise |
 | [EliasDallas1@twitter](https://twitter.com/EliasDallas1/status/1395655946844532745) | advertise |
@@ -7652,6 +7655,7 @@ Do not create new issue or we will close it as duplicate.
 | [thewyfly@twitter](https://twitter.com/thewyfly/status/1471579386520371200) | advertise |
 | [They03464315@twitter](https://twitter.com/They03464315/status/1399744810345324544) | advertise |
 | [the_ayo_ifedapo@twitter](https://twitter.com/the_ayo_ifedapo/status/1402141427564519424) | advertise |
+| [the_kinq_himsef@twitter](https://twitter.com/the_kinq_himsef/status/1547572762717196289) | advertise |
 | [The_Krishna__@twitter](https://twitter.com/The_Krishna__/status/1395310239184949250) | advertise |
 | [The_Real_Yule@twitter](https://twitter.com/The_Real_Yule/status/1543227534137065472) | advertise |
 | [the_rhap5ody@twitter](https://twitter.com/the_rhap5ody/status/1434141931500568576) | advertise |
@@ -8400,6 +8404,7 @@ Do not create new issue or we will close it as duplicate.
 | [WhXRuMfnyHtsfdk@twitter](https://twitter.com/WhXRuMfnyHtsfdk/status/1403069036422856705) | advertise |
 | [whynot8288@twitter](https://twitter.com/whynot8288/status/1470869376207589379) | advertise |
 | [wickepedia@twitter](https://twitter.com/wickepedia/status/1502834842073014272) | advertise |
+| [wife_xxxx@twitter](https://twitter.com/wife_xxxx/status/1547551663300673536) | advertise |
 | [wigan_mancs@twitter](https://twitter.com/wigan_mancs/status/1391843058933800963) | advertise |
 | [WiIIiam34@twitter](https://twitter.com/WiIIiam34/status/1391450619479662593) | advertise |
 | [WiiUDefender@twitter](https://twitter.com/WiiUDefender/status/1470609310484885504) | advertise |
