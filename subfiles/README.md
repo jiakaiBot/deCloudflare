@@ -99,6 +99,7 @@
   - [April 2022](repeat_infringers/2022-04.md)
   - [May 2022](repeat_infringers/2022-05.md)
   - [June 2022](repeat_infringers/2022-06.md)
+  - [July 2022](repeat_infringers/2022-07.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
