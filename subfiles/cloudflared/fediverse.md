@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,575 |
-| net | 1,480 |
+| com | 2,576 |
+| net | 1,483 |
 | social | 1,135 |
 | org | 1,062 |
-| de | 939 |
+| de | 941 |
 
 
 - Mastodon, Pleroma, etc
@@ -2106,6 +2106,7 @@ Here's a list of public Fediverse services.
 | br0.fr | No |
 | braciakamraci.pl | No |
 | brackets-salad.com | No |
+| brad.ee | Yes |
 | bradsease.com | No |
 | braemer.us | No |
 | brainbaking.com | No |
@@ -5698,6 +5699,7 @@ Here's a list of public Fediverse services.
 | froghat.ca | No |
 | froghat.de | No |
 | frogmob.life | No |
+| from-arctic.net | No |
 | fromhome.ovh | No |
 | fromm.social | No |
 | fromouter.space | Yes |
@@ -8385,7 +8387,7 @@ Here's a list of public Fediverse services.
 | kerenon.com | No |
 | kerkour.com | Yes |
 | kerkour.fr | Yes |
-| kernel.org | No |
+| kernel.org | Yes |
 | kernel.social | No |
 | kernel32.de | No |
 | kernelpage.com | No |
@@ -9135,6 +9137,7 @@ Here's a list of public Fediverse services.
 | lesswrong.io | No |
 | lesterpig.com | Yes |
 | lestutosdeprocessus.fr | Yes |
+| let-it-sli.de | No |
 | letallmortalfleshfindtheirvoice.social | No |
 | lethani.ch | No |
 | lethar.gy | No |
@@ -11098,6 +11101,7 @@ Here's a list of public Fediverse services.
 | moztodon.nl | No |
 | mp-tube.de | No |
 | mpda.ru | No |
+| mpmilestogo.site | Yes |
 | mpsf.group | No |
 | mpy.ovh | No |
 | mr.am | Yes |
@@ -12826,6 +12830,7 @@ Here's a list of public Fediverse services.
 | pajd.fr | No |
 | pajd.org | No |
 | pal.camp | No |
+| pal.icu | No |
 | paladines.ec | No |
 | paladyn.org | No |
 | palaisjamais.com | No |
@@ -15238,6 +15243,7 @@ Here's a list of public Fediverse services.
 | shared.graphics | No |
 | shareworx.net | No |
 | shark.moe | No |
+| shatteredpalisa.de | No |
 | shaun.net | No |
 | shavingcream.online | No |
 | shbbl.ru | No |
@@ -15623,6 +15629,7 @@ Here's a list of public Fediverse services.
 | snug.moe | No |
 | snug.town | No |
 | snuggle.space | No |
+| snurget.com | No |
 | snuskete.net | Yes |
 | so-called.life | No |
 | soap.coffee | No |
@@ -15720,6 +15727,7 @@ Here's a list of public Fediverse services.
 | solhack.com | Yes |
 | solibre.de | No |
 | solidarite-precaires.net | No |
+| solidcharity.net | No |
 | solidev.net | No |
 | solido.space | No |
 | solinge.eu | No |
@@ -16642,6 +16650,7 @@ Here's a list of public Fediverse services.
 | tenforward.social | No |
 | tennt.in | No |
 | tenoru.xyz | No |
+| tenpenny.network | No |
 | tenshi.sh | Yes |
 | tenshicorn.dog | Yes |
 | tenta.fun | No |
@@ -18003,6 +18012,7 @@ Here's a list of public Fediverse services.
 | vegaia.social | Yes |
 | vegan.im.it | No |
 | veganact.org.au | No |
+| veganbtw.net | No |
 | veganmsp.com | Yes |
 | veganunity.rocks | No |
 | vegard.net | No |
@@ -19371,8 +19381,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,744 |
-| Normal | 15,584 |
+| Cloudflare | 3,747 |
+| Normal | 15,591 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
