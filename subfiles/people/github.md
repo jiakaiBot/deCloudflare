@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Not working on Cloudflare Workers](https://github.com/wobsoriano/trpc-nuxt/issues/18)
+- [README does not point to Token template](https://github.com/WalshyDev/cf-pages-await/issues/10)
 - [Pale Moon browser cannot log in due to aggressive DDoS protection](https://github.com/Nexus-Mods/web-issues/issues/1556)
 - [Updated to 2.1.22.1289, getting "Unable to parse response content" on scheduled task now](https://github.com/win-acme/win-acme/issues/2171)
 - [Error while fetching R2 file](https://github.com/skymethod/denoflare/issues/19)
