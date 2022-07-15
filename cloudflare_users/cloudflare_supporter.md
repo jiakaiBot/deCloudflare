@@ -2372,6 +2372,7 @@ Do not create new issue or we will close it as duplicate.
 | [gonk_droid101@twitter](https://twitter.com/gonk_droid101/status/1478566792821972992) | advertise |
 | [Good4NM@twitter](https://twitter.com/Good4NM/status/1483567861549441026) | advertise |
 | [GOODBOY97725961@twitter](https://twitter.com/GOODBOY97725961/status/1384905237190922246) | advertise |
+| [Goodboyparttim1@twitter](https://twitter.com/Goodboyparttim1/status/1547810450321969154) | advertise |
 | [GoodTwins3@twitter](https://twitter.com/GoodTwins3/status/1379579295392264196) | advertise |
 | [goomugomuno@twitter](https://twitter.com/goomugomuno/status/1528161739514126336) | advertise |
 | [GoonerDat@twitter](https://twitter.com/GoonerDat/status/1383745932093583360) | advertise |
@@ -3807,8 +3808,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7979,6 +7980,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrongNg81459215@twitter](https://twitter.com/TrongNg81459215/status/1400108623376707585) | advertise |
 | [TrongTa54508026@twitter](https://twitter.com/TrongTa54508026/status/1392741752461725698) | advertise |
 | [TrongTh89348240@twitter](https://twitter.com/TrongTh89348240/status/1383966127752060940) | advertise |
+| [trongva00011729@twitter](https://twitter.com/trongva00011729/status/1547917887691964416) | advertise |
 | [TrucMaiNguyen6@twitter](https://twitter.com/TrucMaiNguyen6/status/1541933825693196288) | advertise |
 | [TrueStrike2@twitter](https://twitter.com/TrueStrike2/status/1396387242214559744) | advertise |
 | [truewu@twitter](https://twitter.com/truewu/status/1496862998136197127) | advertise |
