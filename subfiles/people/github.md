@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [WDS not available in example with cloudflare workers](https://github.com/remix-run/remix/issues/3755)
 - [Not working on Cloudflare Workers](https://github.com/wobsoriano/trpc-nuxt/issues/18)
 - [README does not point to Token template](https://github.com/WalshyDev/cf-pages-await/issues/10)
 - [Pale Moon browser cannot log in due to aggressive DDoS protection](https://github.com/Nexus-Mods/web-issues/issues/1556)
