@@ -346,6 +346,7 @@ Do not create new issue or we will close it as duplicate.
 | [AKuisorn@twitter](https://twitter.com/AKuisorn/status/1377407076373164032) | advertise |
 | [akunggaterkenal@twitter](https://twitter.com/akunggaterkenal/status/1473630134074691586) | advertise |
 | [Akzaw3@twitter](https://twitter.com/Akzaw3/status/1528363896393805829) | advertise |
+| [akzaw2636@twitter](https://twitter.com/akzaw2636/status/1547956424596041730) | advertise |
 | [ak_shrinivas@twitter](https://twitter.com/ak_shrinivas/status/1404762077311295491) | advertise |
 | [AlaevY@twitter](https://twitter.com/AlaevY/status/1445829052728705029) | advertise |
 | [alailsonribeiro@twitter](https://twitter.com/alailsonribeiro/status/1430539576511172609) | advertise |
@@ -1510,8 +1511,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2320,6 +2321,7 @@ Do not create new issue or we will close it as duplicate.
 | [ghilani_ahmed@twitter](https://twitter.com/ghilani_ahmed/status/1378273270873657345) | advertise |
 | [GHILES83039093@twitter](https://twitter.com/GHILES83039093/status/1402365710739853312) | advertise |
 | [ghone_prathmesh@twitter](https://twitter.com/ghone_prathmesh/status/1393026364559687682) | advertise |
+| [ghostcap@twitter](https://twitter.com/ghostcap/status/1547972786081058816) | advertise |
 | [GhostOfATown@twitter](https://twitter.com/GhostOfATown/status/1370596077007732737) | advertise |
 | [GhostSlayeri@twitter](https://twitter.com/GhostSlayeri/status/1445450768836743171) | advertise |
 | [Ghost_dragon_VN@twitter](https://twitter.com/Ghost_dragon_VN/status/1497163614540603394) | advertise |
@@ -6006,6 +6008,7 @@ Do not create new issue or we will close it as duplicate.
 | [Peter34529276@twitter](https://twitter.com/Peter34529276/status/1474852867337080843) | advertise |
 | [Peter61736815@twitter](https://twitter.com/Peter61736815/status/1394440894862880774) | advertise |
 | [peterkc@twitter](https://twitter.com/peterkc/status/1529824761953456128) | advertise |
+| [peyman1992n@twitter](https://twitter.com/peyman1992n/status/1547965189613531137) | advertise |
 | [PeyParrot@twitter](https://twitter.com/PeyParrot/status/1469338531667628035) | advertise |
 | [pfh151@twitter](https://twitter.com/pfh151/status/1537535597786517504) | advertise |
 | [Ph18868934@twitter](https://twitter.com/Ph18868934/status/1477889678493700096) | advertise |
@@ -8296,6 +8299,7 @@ Do not create new issue or we will close it as duplicate.
 | [w88vietnamfc@twitter](https://twitter.com/w88vietnamfc/status/1380719088431816714) | advertise |
 | [w88youde1@twitter](https://twitter.com/w88youde1/status/1380719088431816714) | advertise |
 | [Wa1Walker@twitter](https://twitter.com/Wa1Walker/status/1446154662491693062) | advertise |
+| [waannniiii@twitter](https://twitter.com/waannniiii/status/1547960462674763788) | advertise |
 | [waawawalala@twitter](https://twitter.com/waawawalala/status/1393040426983059462) | advertise |
 | [Waboobob@twitter](https://twitter.com/Waboobob/status/1534485107230253056) | advertise |
 | [Wadawn15@twitter](https://twitter.com/Wadawn15/status/1396809468005036034) | advertise |
