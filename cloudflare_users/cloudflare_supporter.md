@@ -3256,6 +3256,7 @@ Do not create new issue or we will close it as duplicate.
 | [JasMan13A@twitter](https://twitter.com/JasMan13A/status/1386859462036660225) | advertise |
 | [Jason42610@twitter](https://twitter.com/Jason42610/status/1514156291618267136) | advertise |
 | [Jason54317528@twitter](https://twitter.com/Jason54317528/status/1385199697263054849) | advertise |
+| [jasoncarcc@twitter](https://twitter.com/jasoncarcc/status/1548097945286848512) | advertise |
 | [JasonkaranikO@twitter](https://twitter.com/JasonkaranikO/status/1505896917921841160) | advertise |
 | [JasonLovesDoggo@twitter](https://twitter.com/JasonLovesDoggo/status/1503187393268097032) | advertise |
 | [jasonwtien@twitter](https://twitter.com/jasonwtien/status/1538028781675290624) | advertise |
