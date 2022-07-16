@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,578 |
 | net | 1,483 |
-| social | 1,135 |
+| social | 1,136 |
 | org | 1,062 |
 | de | 941 |
 
@@ -13550,6 +13550,7 @@ Here's a list of public Fediverse services.
 | poo.li | No |
 | poofion.com | No |
 | pooltoy.club | No |
+| pooper.social | Yes |
 | poopy.social | No |
 | poorlifechoices.moe | No |
 | pop-in-don.com | No |
@@ -19385,7 +19386,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,749 |
+| Cloudflare | 3,750 |
 | Normal | 15,593 |
 
 
