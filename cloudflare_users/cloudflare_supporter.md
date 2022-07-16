@@ -2958,6 +2958,7 @@ Do not create new issue or we will close it as duplicate.
 | [hussenbutu@twitter](https://twitter.com/hussenbutu/status/1444367487412342792) | advertise |
 | [HussinH56652016@twitter](https://twitter.com/HussinH56652016/status/1541051610335281152) | advertise |
 | [HuTao62916095@twitter](https://twitter.com/HuTao62916095/status/1407384361406590977) | advertise |
+| [Huthng20246189@twitter](https://twitter.com/Huthng20246189/status/1548253709284818944) | advertise |
 | [huuphong21@twitter](https://twitter.com/huuphong21/status/1386856608693592068) | advertise |
 | [huusonbg93@twitter](https://twitter.com/huusonbg93/status/1397219799596470274) | advertise |
 | [huu_duon@twitter](https://twitter.com/huu_duon/status/1507709556931002377) | advertise |
@@ -3144,6 +3145,7 @@ Do not create new issue or we will close it as duplicate.
 | [irtv24@twitter](https://twitter.com/irtv24/status/1374846989851054086) | advertise |
 | [IruleMyworld019@twitter](https://twitter.com/IruleMyworld019/status/1394091377072377856) | advertise |
 | [isaacikogan@twitter](https://twitter.com/isaacikogan/status/1511812991112650765) | advertise |
+| [isazaly@twitter](https://twitter.com/isazaly/status/1548264277928476672) | advertise |
 | [ishlwi@twitter](https://twitter.com/ishlwi/status/1525933662495199235) | advertise |
 | [isira_adithya@twitter](https://twitter.com/isira_adithya/status/1373518191394091009) | advertise |
 | [isJackeroo@twitter](https://twitter.com/isJackeroo/status/1522157763975008256) | advertise |
@@ -6797,6 +6799,7 @@ Do not create new issue or we will close it as duplicate.
 | [sang22793@twitter](https://twitter.com/sang22793/status/1399137755326672896) | advertise |
 | [sang200003@twitter](https://twitter.com/sang200003/status/1527484332298104832) | advertise |
 | [Sang19569870@twitter](https://twitter.com/Sang19569870/status/1400110072114548744) | advertise |
+| [Sang45618265@twitter](https://twitter.com/Sang45618265/status/1548230629925392385) | advertise |
 | [SangBaw80507270@twitter](https://twitter.com/SangBaw80507270/status/1404450860894150657) | advertise |
 | [sangluong1209@twitter](https://twitter.com/sangluong1209/status/1393839893525135365) | advertise |
 | [Sangnho3@twitter](https://twitter.com/Sangnho3/status/1381717376358510594) | advertise |
