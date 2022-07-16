@@ -1541,6 +1541,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cu11164319@twitter](https://twitter.com/Cu11164319/status/1394557603087216642) | advertise |
 | [cu23806218@twitter](https://twitter.com/cu23806218/status/1380930066876534784) | advertise |
 | [cubdomain@twitter](https://twitter.com/cubdomain/status/1369941924308656128) | advertise |
+| [Cube__13@twitter](https://twitter.com/Cube__13/status/1548403486299107328) | advertise |
 | [cubo365@twitter](https://twitter.com/cubo365/status/1503076765622841350) | advertise |
 | [cucongcan@twitter](https://twitter.com/cucongcan/status/1459360460432556032) | advertise |
 | [cucqiridze2008@twitter](https://twitter.com/cucqiridze2008/status/1398249494425309187) | advertise |
@@ -3822,8 +3823,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
