@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Elevated Privileges inside a kasm docker](https://github.com/kasmtech/KasmVNC/issues/104)
 - [website invoiceplane.com does not load](https://github.com/InvoicePlane/InvoicePlane/issues/826)
 - [Message: Cloudflare Error: No challenge selectors found, unable to proceed.](https://github.com/FlareSolverr/FlareSolverr/issues/427)
 - [WDS not available in example with cloudflare workers](https://github.com/remix-run/remix/issues/3755)
