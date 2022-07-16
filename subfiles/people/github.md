@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Is Anyone Else Getting New Cloudflare Errors?](https://github.com/RicterZ/nhentai/issues/255)
 - [Elevated Privileges inside a kasm docker](https://github.com/kasmtech/KasmVNC/issues/104)
 - [website invoiceplane.com does not load](https://github.com/InvoicePlane/InvoicePlane/issues/826)
 - [Message: Cloudflare Error: No challenge selectors found, unable to proceed.](https://github.com/FlareSolverr/FlareSolverr/issues/427)
