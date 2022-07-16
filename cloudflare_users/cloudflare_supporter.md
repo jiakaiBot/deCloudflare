@@ -1137,6 +1137,7 @@ Do not create new issue or we will close it as duplicate.
 | [boboat10@twitter](https://twitter.com/boboat10/status/1379156471103954944) | advertise |
 | [Bobohan3@twitter](https://twitter.com/Bobohan3/status/1392920049942372352) | advertise |
 | [BoBoHtunBsquare@twitter](https://twitter.com/BoBoHtunBsquare/status/1394287620796997637) | advertise |
+| [bobur_mavlonov@twitter](https://twitter.com/bobur_mavlonov/status/1548376975978311682) | advertise |
 | [boca05596362@twitter](https://twitter.com/boca05596362/status/1383874652963966981) | advertise |
 | [Bocumam1@twitter](https://twitter.com/Bocumam1/status/1388763962389393411) | advertise |
 | [Bodo60367606@twitter](https://twitter.com/Bodo60367606/status/1400961243695915008) | advertise |
@@ -4732,6 +4733,7 @@ Do not create new issue or we will close it as duplicate.
 | [med61883332@twitter](https://twitter.com/med61883332/status/1439010726480420871) | advertise |
 | [MeeMee71555616@twitter](https://twitter.com/MeeMee71555616/status/1395746751051558919) | advertise |
 | [MeeMeeAye1@twitter](https://twitter.com/MeeMeeAye1/status/1395916457137958913) | advertise |
+| [Meeng10667850@twitter](https://twitter.com/Meeng10667850/status/1548378757181739017) | advertise |
 | [meenge27@twitter](https://twitter.com/meenge27/status/1405096545372966915) | advertise |
 | [MeeNge76785143@twitter](https://twitter.com/MeeNge76785143/status/1389943236018409477) | advertise |
 | [Meethal63500839@twitter](https://twitter.com/Meethal63500839/status/1377881374330347521) | advertise |
