@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,576 |
+| com | 2,578 |
 | net | 1,483 |
 | social | 1,135 |
 | org | 1,062 |
@@ -5470,6 +5470,7 @@ Here's a list of public Fediverse services.
 | fortresshill.club | No |
 | fortressofdoom.me | Yes |
 | forty-two.nl | No |
+| forum-lucifer.com | No |
 | forumanalogue.fr | No |
 | forza7.jp | No |
 | foss.al | No |
@@ -14845,6 +14846,7 @@ Here's a list of public Fediverse services.
 | sapphos.be | No |
 | sapratza.in | No |
 | saramara.ai | Yes |
+| sarber.plus | Yes |
 | sarcasm.stream | No |
 | sardo.work | Yes |
 | sarkastic.org | No |
@@ -15650,6 +15652,7 @@ Here's a list of public Fediverse services.
 | social.gent | No |
 | social.gs | Yes |
 | social.im | No |
+| social.lol | No |
 | social.net.ua | No |
 | social.photo | No |
 | social.saarland | No |
@@ -18295,6 +18298,7 @@ Here's a list of public Fediverse services.
 | wakkerisme.nl | No |
 | wakuwakup.net | Yes |
 | walamana.de | No |
+| walchinsky.com | Yes |
 | walcyrge.org | Yes |
 | waldn.net | No |
 | waldowski.me | No |
@@ -19381,8 +19385,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,747 |
-| Normal | 15,591 |
+| Cloudflare | 3,749 |
+| Normal | 15,593 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
