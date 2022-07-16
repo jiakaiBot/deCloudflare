@@ -4,7 +4,7 @@
 ![](../image/ss-sercxi.png)
 
 
-**Ombrelo** (pronounce /omˈbrelo/) is the **world's first anti-cloudflare search engine** website primarily for [Tor users](https://ombrelo.pkduaxfk6lrmo2be4yr6ke5pqzsujihywsggfb7tocnz7x3vqqkhfoqd.onion/) and [clearnet user](https://en.wikipedia.org/wiki/Clearnet_(networking))[s](https://ombrelo.eu.org/), operating since the [year 2016](https://addons.thunderbird.net/en-us/firefox/addon/searxes/).
+**Ombrelo** (pronounce /omˈbrelo/) is the **world's first anti-cloudflare search engine** website primarily for [Tor](https://torproject.org) [users](https://ombrelo.pkduaxfk6lrmo2be4yr6ke5pqzsujihywsggfb7tocnz7x3vqqkhfoqd.onion/) and [clearnet user](https://en.wikipedia.org/wiki/Clearnet_(networking))[s](https://ombrelo.eu.org/), operating since the [year 2016](https://addons.thunderbird.net/en-us/firefox/addon/searxes/).
 An anniversary day of the project is `February 2nd`.
 
 It is fed by quality sources and rank down [Cloudflare sites](../cloudflare_users/domains) to bottom by default, thus you [avoid the risk](../README.md) and [inconvenience](../PEOPLE.md) of having [MITM traps](../README.md) littered throughout search results.
