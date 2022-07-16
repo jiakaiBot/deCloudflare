@@ -2397,6 +2397,7 @@ Do not create new issue or we will close it as duplicate.
 | [GraceParree@twitter](https://twitter.com/GraceParree/status/1383247260255801348) | advertise |
 | [GrahameSmith8@twitter](https://twitter.com/GrahameSmith8/status/1480915785505820677) | advertise |
 | [graphilme@twitter](https://twitter.com/graphilme/status/1526665076924723200) | advertise |
+| [grarich123@twitter](https://twitter.com/grarich123/status/1548298364890267655) | advertise |
 | [GraysonDick10@twitter](https://twitter.com/GraysonDick10/status/1377270516231233538) | advertise |
 | [GreatLakeHits@twitter](https://twitter.com/GreatLakeHits/status/1377235337714499584) | advertise |
 | [GreatPurchaser@twitter](https://twitter.com/GreatPurchaser/status/1392901780535595008) | advertise |
@@ -2787,6 +2788,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hor82320090@twitter](https://twitter.com/Hor82320090/status/1391247776453861376) | advertise |
 | [horagadiya@twitter](https://twitter.com/horagadiya/status/1512980582242070529) | advertise |
 | [HorrorFacts@twitter](https://twitter.com/HorrorFacts/status/1410625160571465731) | moral (advertise) |
+| [hoshgang1@twitter](https://twitter.com/hoshgang1/status/1548283825347633156) | advertise |
 | [Hoshi16239495@twitter](https://twitter.com/Hoshi16239495/status/1397867952024678400) | advertise |
 | [hossain888@twitter](https://twitter.com/hossain888/status/1380730493172215812) | advertise |
 | [HOSSEIN27903189@twitter](https://twitter.com/HOSSEIN27903189/status/1384450683731169280) | advertise |
@@ -7339,6 +7341,7 @@ Do not create new issue or we will close it as duplicate.
 | [supportman@twitter](https://twitter.com/supportman/status/1535763295797493760) | advertise |
 | [suraj_choube@twitter](https://twitter.com/suraj_choube/status/1487436176567193602) | advertise |
 | [surbroadcast@twitter](https://twitter.com/surbroadcast/status/1477792731636371464) | advertise |
+| [SuruchiAmgai@twitter](https://twitter.com/SuruchiAmgai/status/1548309054258180096) | advertise |
 | [SURYANS83414456@twitter](https://twitter.com/SURYANS83414456/status/1399272451985461250) | advertise |
 | [Suryavazhaa@twitter](https://twitter.com/Suryavazhaa/status/1386593598225846275) | advertise |
 | [suryedan@twitter](https://twitter.com/suryedan/status/1478087369462992896) | advertise |
