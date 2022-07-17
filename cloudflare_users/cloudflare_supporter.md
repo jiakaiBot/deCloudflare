@@ -1272,6 +1272,7 @@ Do not create new issue or we will close it as duplicate.
 | [caizhenghai@twitter](https://twitter.com/caizhenghai/status/1490892229497733121) | advertise |
 | [calicomin99@twitter](https://twitter.com/calicomin99/status/1395979320401620992) | advertise |
 | [callmebyurnam18@twitter](https://twitter.com/callmebyurnam18/status/1401480809123508227) | advertise |
+| [CallmeDjNext@twitter](https://twitter.com/CallmeDjNext/status/1548434139954614272) | advertise |
 | [calmyourtittiez@twitter](https://twitter.com/calmyourtittiez/status/1392510606515658757) | advertise |
 | [calum523_2@twitter](https://twitter.com/calum523_2/status/1381710423825735688) | advertise |
 | [Calvin85712232@twitter](https://twitter.com/Calvin85712232/status/1392362270051639304) | advertise |
@@ -3823,8 +3824,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5893,6 +5894,7 @@ Do not create new issue or we will close it as duplicate.
 | [OPOKUPRINCE334@twitter](https://twitter.com/OPOKUPRINCE334/status/1490576779198836736) | advertise |
 | [Optimal604@twitter](https://twitter.com/Optimal604/status/1390554059254292481) | advertise |
 | [Optimeast@twitter](https://twitter.com/Optimeast/status/1401416582413307904) | advertise |
+| [OPTONEEDSEARCH@twitter](https://twitter.com/OPTONEEDSEARCH/status/1548454333401878528) | advertise |
 | [Ora33654854@twitter](https://twitter.com/Ora33654854/status/1390769586522443776) | advertise |
 | [Orange15115578@twitter](https://twitter.com/Orange15115578/status/1400454754145234952) | advertise |
 | [Orange23582707@twitter](https://twitter.com/Orange23582707/status/1390373004798959617) | advertise |
