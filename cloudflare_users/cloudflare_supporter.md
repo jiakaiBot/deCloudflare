@@ -2628,6 +2628,7 @@ Do not create new issue or we will close it as duplicate.
 | [Heo60622849@twitter](https://twitter.com/Heo60622849/status/1528517491814977536) | advertise |
 | [HereticCrusader@twitter](https://twitter.com/HereticCrusader/status/1383727868123832321) | advertise |
 | [Herijoko16@twitter](https://twitter.com/Herijoko16/status/1402705618562027526) | advertise |
+| [hero8728@twitter](https://twitter.com/hero8728/status/1548766188746014722) | advertise |
 | [Hero41258950@twitter](https://twitter.com/Hero41258950/status/1394528251637211136) | advertise |
 | [herobadboy_@twitter](https://twitter.com/herobadboy_/status/1483852098202705924) | advertise |
 | [Heroboy89H@twitter](https://twitter.com/Heroboy89H/status/1522402744346476544) | advertise |
@@ -7409,6 +7410,7 @@ Do not create new issue or we will close it as duplicate.
 | [sYuMon777@twitter](https://twitter.com/sYuMon777/status/1399606526541668357) | advertise |
 | [sy_angelyuna@twitter](https://twitter.com/sy_angelyuna/status/1377173738085474307) | advertise |
 | [szexmanias0@twitter](https://twitter.com/szexmanias0/status/1510886009499697159) | advertise |
+| [T2ikJpl7nVsB4AN@twitter](https://twitter.com/T2ikJpl7nVsB4AN/status/1548789731005124608) | advertise |
 | [T31543226@twitter](https://twitter.com/T31543226/status/1524287509496168448) | advertise |
 | [T83532576@twitter](https://twitter.com/T83532576/status/1398708012445962247) | advertise |
 | [ta89151567@twitter](https://twitter.com/ta89151567/status/1502756006052380678) | advertise |
