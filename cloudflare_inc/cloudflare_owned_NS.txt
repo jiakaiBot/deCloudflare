@@ -660,6 +660,8 @@ norm.ns.cloudflare.com
 norman.ns.cloudflare.com
 nova.ns.cloudflare.com
 novalee.ns.cloudflare.com
+ns1.harley.ns.cloudflare.com
+ns2.love.ns.cloudflare.com
 nucum.ns.cloudflare.com
 oaklyn.ns.cloudflare.com
 odin.ns.cloudflare.com
