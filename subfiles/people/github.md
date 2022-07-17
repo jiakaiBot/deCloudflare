@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [SSL certificate appears as self-signed](https://github.com/demyxsh/demyx/issues/27)
 - [Is Anyone Else Getting New Cloudflare Errors?](https://github.com/RicterZ/nhentai/issues/255)
 - [Elevated Privileges inside a kasm docker](https://github.com/kasmtech/KasmVNC/issues/104)
 - [website invoiceplane.com does not load](https://github.com/InvoicePlane/InvoicePlane/issues/826)
