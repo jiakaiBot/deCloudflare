@@ -3569,6 +3569,7 @@ Do not create new issue or we will close it as duplicate.
 | [kareldekrab@twitter](https://twitter.com/kareldekrab/status/1506657436379361283) | advertise |
 | [KarkiNabinkumar@twitter](https://twitter.com/KarkiNabinkumar/status/1354921344664707075) | advertise |
 | [Karl_ITNerd@twitter](https://twitter.com/Karl_ITNerd/status/1497518333398245380) | advertise |
+| [karoki86@twitter](https://twitter.com/karoki86/status/1548492611035361285) | advertise |
 | [karona_tha@twitter](https://twitter.com/karona_tha/status/1398250289895862274) | advertise |
 | [karrifyoffical@twitter](https://twitter.com/karrifyoffical/status/1385309175744446464) | advertise |
 | [Karry54667318@twitter](https://twitter.com/Karry54667318/status/1398923893050515461) | advertise |
@@ -4530,6 +4531,7 @@ Do not create new issue or we will close it as duplicate.
 | [Magmavalt@twitter](https://twitter.com/Magmavalt/status/1526286649839206400) | advertise |
 | [magnificus_g@twitter](https://twitter.com/magnificus_g/status/1534864691318640641) | advertise |
 | [MAHATOBABu711@twitter](https://twitter.com/MAHATOBABu711/status/1407249433952079875) | advertise |
+| [Mahatvavirya@twitter](https://twitter.com/Mahatvavirya/status/1548499205588602882) | advertise |
 | [Mahendra121283@twitter](https://twitter.com/Mahendra121283/status/1396311289949941766) | advertise |
 | [MaheshKaragthi1@twitter](https://twitter.com/MaheshKaragthi1/status/1405041613047418882) | advertise |
 | [MaheshTalekar0@twitter](https://twitter.com/MaheshTalekar0/status/1402283327260807171) | advertise |
