@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,578 |
 | net | 1,483 |
-| social | 1,136 |
+| social | 1,137 |
 | org | 1,062 |
-| de | 941 |
+| de | 942 |
 
 
 - Mastodon, Pleroma, etc
@@ -2329,7 +2329,7 @@ Here's a list of public Fediverse services.
 | c9users.io | No |
 | ca-os.com | No |
 | ca.gy | Yes |
-| caa-ins.org | No |
+| caa-ins.org | Yes |
 | caasn.de | No |
 | cabaal.net | No |
 | cabane-libre.org | No |
@@ -2615,6 +2615,7 @@ Here's a list of public Fediverse services.
 | chaoyu.us | No |
 | chapril.org | No |
 | chapsterhood.com | No |
+| charade.social | No |
 | chargen.one | No |
 | charla.mx | No |
 | charlag.space | No |
@@ -3228,6 +3229,7 @@ Here's a list of public Fediverse services.
 | crimes.consulting | No |
 | crimethink.top | Yes |
 | crimew.gay | No |
+| criminallycute.fi | No |
 | criminallycute.stream | No |
 | crimsonfae.net | No |
 | crimsson.com | Yes |
@@ -5147,6 +5149,7 @@ Here's a list of public Fediverse services.
 | fedisabled.de | No |
 | fedisabled.social | No |
 | fediscience.org | No |
+| fediserve.de | No |
 | fedisnap.com | Yes |
 | fedispace.fr | No |
 | fedispace.ml | No |
@@ -5185,6 +5188,7 @@ Here's a list of public Fediverse services.
 | fediz.one | No |
 | fedja.fi | No |
 | fedpi.de | No |
+| fedposters.club | No |
 | fedposting.org | Yes |
 | fedre.land | No |
 | fedyya.net | Yes |
@@ -6526,7 +6530,7 @@ Here's a list of public Fediverse services.
 | gueto.net | No |
 | guezota.com | No |
 | guggenberger.website | No |
-| guia.nom.br | Yes |
+| guia.nom.br | No |
 | guiling.me | No |
 | guimik.fr | No |
 | guin.ovh | No |
@@ -7688,7 +7692,7 @@ Here's a list of public Fediverse services.
 | isoladellerose.social | No |
 | isometry.black | No |
 | isosceles.love | No |
-| ispark.social | Yes |
+| ispark.social | No |
 | ispv-7.com | No |
 | israelmgo.es | No |
 | issizler.club | Yes |
@@ -9217,6 +9221,7 @@ Here's a list of public Fediverse services.
 | libertynode.net | No |
 | libertynode.tv | No |
 | libertywoof.com | No |
+| libido.pictures | No |
 | libori.social | No |
 | libox.fr | No |
 | libranet.de | No |
@@ -11808,7 +11813,7 @@ Here's a list of public Fediverse services.
 | ngndn.jp | No |
 | ngonbay.com | No |
 | ngrok.io | No |
-| ngtube.fun | Yes |
+| ngtube.fun | No |
 | nha.one | Yes |
 | nhaddag.com | No |
 | nhcclub.net | Yes |
@@ -13202,7 +13207,7 @@ Here's a list of public Fediverse services.
 | pierrick.io | No |
 | pieter.ninja | No |
 | pieville.net | Yes |
-| pifferi.cloud | Yes |
+| pifferi.cloud | No |
 | pifferi.info | Yes |
 | pifke.social | No |
 | pigelet.org | No |
@@ -16834,6 +16839,7 @@ Here's a list of public Fediverse services.
 | thelmgn.com | Yes |
 | thelovebug.org | No |
 | thelukes.org | No |
+| themadlads.live | Yes |
 | themaymeow.com | Yes |
 | themazuma.net | No |
 | themcphails.uk | No |
@@ -19386,8 +19392,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,750 |
-| Normal | 15,593 |
+| Cloudflare | 3,748 |
+| Normal | 15,601 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
