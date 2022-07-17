@@ -1514,8 +1514,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -4598,6 +4598,7 @@ Do not create new issue or we will close it as duplicate.
 | [MarcoRotella87@twitter](https://twitter.com/MarcoRotella87/status/1506921779264114690) | advertise |
 | [mardetanhaaa@twitter](https://twitter.com/mardetanhaaa/status/1379735911286595589) | advertise |
 | [MARDONIOCARVAL2@twitter](https://twitter.com/MARDONIOCARVAL2/status/1392268580213993473) | advertise |
+| [MargaridaCosta_@twitter](https://twitter.com/MargaridaCosta_/status/1548485504026300416) | advertise |
 | [Maria11122399@twitter](https://twitter.com/Maria11122399/status/1545183172538912769) | advertise |
 | [Maria65592312@twitter](https://twitter.com/Maria65592312/status/1377526795688239104) | advertise |
 | [MariaBbicJ@twitter](https://twitter.com/MariaBbicJ/status/1486819098294198278) | advertise |
