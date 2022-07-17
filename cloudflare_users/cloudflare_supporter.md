@@ -260,6 +260,7 @@ Do not create new issue or we will close it as duplicate.
 | [afif___rizki@twitter](https://twitter.com/afif___rizki/status/1526398091141664768) | advertise |
 | [AfizOmari@twitter](https://twitter.com/AfizOmari/status/1404102260293054466) | advertise |
 | [afrash@twitter](https://twitter.com/afrash/status/1369943509839585281) | advertise |
+| [aftab_afsal@twitter](https://twitter.com/aftab_afsal/status/1548610479810961408) | advertise |
 | [AgAg14299411@twitter](https://twitter.com/AgAg14299411/status/1396793253467500544) | advertise |
 | [agamx_id@twitter](https://twitter.com/agamx_id/status/1542679382497472513) | advertise |
 | [Agape_val_voce@twitter](https://twitter.com/Agape_val_voce/status/1400940706722689027) | advertise |
@@ -1197,6 +1198,7 @@ Do not create new issue or we will close it as duplicate.
 | [brandilee157@twitter](https://twitter.com/brandilee157/status/1526004127951736834) | advertise |
 | [BrandynCoder@twitter](https://twitter.com/BrandynCoder/status/1397638007931510784) | advertise |
 | [Brangau82455780@twitter](https://twitter.com/Brangau82455780/status/1397565904204877825) | advertise |
+| [Brank32933508@twitter](https://twitter.com/Brank32933508/status/1548593017669693440) | advertise |
 | [BraudinLaya@twitter](https://twitter.com/BraudinLaya/status/1435781941845008393) | advertise |
 | [Braumy77@twitter](https://twitter.com/Braumy77/status/1406588080098889734) | advertise |
 | [braveRAZOR@twitter](https://twitter.com/braveRAZOR/status/1541992073695563777) | advertise |
@@ -3155,6 +3157,7 @@ Do not create new issue or we will close it as duplicate.
 | [isira_adithya@twitter](https://twitter.com/isira_adithya/status/1373518191394091009) | advertise |
 | [isJackeroo@twitter](https://twitter.com/isJackeroo/status/1522157763975008256) | advertise |
 | [Iskecik2@twitter](https://twitter.com/Iskecik2/status/1403090108589301761) | advertise |
+| [Ismael25945424@twitter](https://twitter.com/Ismael25945424/status/1548610463944118272) | advertise |
 | [ismaillanigi@twitter](https://twitter.com/ismaillanigi/status/1504047577154854912) | advertise |
 | [Ismail_Ittembe@twitter](https://twitter.com/Ismail_Ittembe/status/1389820303510020099) | advertise |
 | [ISMANIZARMOHDA1@twitter](https://twitter.com/ISMANIZARMOHDA1/status/1380109785874362374) | advertise |
@@ -3808,6 +3811,7 @@ Do not create new issue or we will close it as duplicate.
 | [killer2111991@twitter](https://twitter.com/killer2111991/status/1469327399536197633) | advertise |
 | [KillerIcloud@twitter](https://twitter.com/KillerIcloud/status/1508936022624817152) | advertise |
 | [killfortunes@twitter](https://twitter.com/killfortunes/status/1482820909169795076) | advertise |
+| [KillzoneGaming@twitter](https://twitter.com/KillzoneGaming/status/1548558367131463680) | advertise |
 | [kim24_eilie@twitter](https://twitter.com/kim24_eilie/status/1381107528184958981) | advertise |
 | [Kimanh84724453@twitter](https://twitter.com/Kimanh84724453/status/1386380292034682881) | advertise |
 | [kimarmy24@twitter](https://twitter.com/kimarmy24/status/1378000928897298433) | advertise |
@@ -4420,6 +4424,7 @@ Do not create new issue or we will close it as duplicate.
 | [Loveles63732045@twitter](https://twitter.com/Loveles63732045/status/1394978901445726212) | advertise |
 | [lovelyjubbly_py@twitter](https://twitter.com/lovelyjubbly_py/status/1489966837932892162) | advertise |
 | [lovemesofly@twitter](https://twitter.com/lovemesofly/status/1382384844391391234) | advertise |
+| [LoveMoe5298@twitter](https://twitter.com/LoveMoe5298/status/1548585579453231104) | advertise |
 | [Lovery80916268@twitter](https://twitter.com/Lovery80916268/status/1394129643360370691) | advertise |
 | [Lovetofun1@twitter](https://twitter.com/Lovetofun1/status/1399009105184915456) | advertise |
 | [Loveyou57911593@twitter](https://twitter.com/Loveyou57911593/status/1382721327207907341) | advertise |
