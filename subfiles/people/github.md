@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Domain SSL configuration — SSL creation error (we require additional verification for one or more domain names)](https://github.com/aws-amplify/amplify-hosting/issues/2871)
 - [Cloudflare interceptor hangs all other network connections while its running](https://github.com/tachiyomiorg/tachiyomi/issues/7555)
 - [SSL certificate appears as self-signed](https://github.com/demyxsh/demyx/issues/27)
 - [Is Anyone Else Getting New Cloudflare Errors?](https://github.com/RicterZ/nhentai/issues/255)
