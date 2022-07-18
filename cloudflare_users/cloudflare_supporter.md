@@ -2974,6 +2974,7 @@ Do not create new issue or we will close it as duplicate.
 | [huuphong21@twitter](https://twitter.com/huuphong21/status/1386856608693592068) | advertise |
 | [huusonbg93@twitter](https://twitter.com/huusonbg93/status/1397219799596470274) | advertise |
 | [huu_duon@twitter](https://twitter.com/huu_duon/status/1507709556931002377) | advertise |
+| [Huwng22@twitter](https://twitter.com/Huwng22/status/1549074458538692608) | advertise |
 | [huxxhuxx@twitter](https://twitter.com/huxxhuxx/status/1377787198246768647) | advertise |
 | [huy07637@twitter](https://twitter.com/huy07637/status/1389427627841101825) | advertise |
 | [Huy1406Nguyen@twitter](https://twitter.com/Huy1406Nguyen/status/1389055183221444608) | advertise |
@@ -3421,6 +3422,7 @@ Do not create new issue or we will close it as duplicate.
 | [Johnson26816196@twitter](https://twitter.com/Johnson26816196/status/1397785719502827520) | advertise |
 | [JohnsonMore6@twitter](https://twitter.com/JohnsonMore6/status/1532200571507187716) | advertise |
 | [JohnSto93368906@twitter](https://twitter.com/JohnSto93368906/status/1394195513751183360) | advertise |
+| [JohnTheGod13@twitter](https://twitter.com/JohnTheGod13/status/1549071181399003137) | advertise |
 | [JohnWalkerBlac1@twitter](https://twitter.com/JohnWalkerBlac1/status/1475563073557745671) | advertise |
 | [johnwknightIII@twitter](https://twitter.com/johnwknightIII/status/1477359362469339138) | advertise |
 | [johnymyanmar@twitter](https://twitter.com/johnymyanmar/status/1379032540548227077) | advertise |
