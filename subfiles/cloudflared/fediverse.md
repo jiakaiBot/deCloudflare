@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,578 |
-| net | 1,483 |
+| net | 1,485 |
 | social | 1,137 |
-| org | 1,062 |
+| org | 1,064 |
 | de | 942 |
 
 
@@ -761,7 +761,7 @@ Here's a list of public Fediverse services.
 | am-networks.fr | No |
 | am.guru | No |
 | am9gw.in | No |
-| ama.ne.jp | No |
+| ama.ne.jp | Yes |
 | amaa.it | No |
 | amanite.be | No |
 | amanzi.nz | Yes |
@@ -4124,6 +4124,7 @@ Here's a list of public Fediverse services.
 | dogeposting.social | No |
 | dogetron.com | No |
 | doghub.eu | No |
+| dogsballs.net | No |
 | dogspin.xyz | Yes |
 | dogwhipping.day | No |
 | doingmyp.art | No |
@@ -6808,6 +6809,7 @@ Here's a list of public Fediverse services.
 | hekeki.com | No |
 | hekeki.de | No |
 | hekki.info | No |
+| helby.me | No |
 | heldom.de | No |
 | heldscal.la | No |
 | helene.moe | Yes |
@@ -8153,7 +8155,7 @@ Here's a list of public Fediverse services.
 | justtelly.com | No |
 | juvenesco.eu | No |
 | jv-net.digital | No |
-| jvbf.dev | No |
+| jvbf.dev | Yes |
 | jvol.wtf | Yes |
 | jvpiter.net | No |
 | jw.be | No |
@@ -11610,7 +11612,7 @@ Here's a list of public Fediverse services.
 | neguse.net | No |
 | neigepluie.net | No |
 | neigh.horse | No |
-| neighborli.xyz | No |
+| neighborli.xyz | Yes |
 | neilcastelino.com | Yes |
 | neilzone.co.uk | No |
 | neix.at | No |
@@ -12845,7 +12847,7 @@ Here's a list of public Fediverse services.
 | palepanda.com | No |
 | palipalimag.com | No |
 | pallamondo.net | No |
-| palom.be | No |
+| palom.be | Yes |
 | palon.org | Yes |
 | paltee.net | No |
 | palyazatnelkul.hu | No |
@@ -17544,6 +17546,7 @@ Here's a list of public Fediverse services.
 | tusks.co | No |
 | tusooa.xyz | No |
 | tutafey.eu | No |
+| tutestutes.org | No |
 | tuto-craft.com | No |
 | tuukkao.net | No |
 | tuwien.ac.at | No |
@@ -18822,6 +18825,7 @@ Here's a list of public Fediverse services.
 | xenv.io | No |
 | xerg.ga | No |
 | xerz.one | No |
+| xethos.net | No |
 | xey.me | No |
 | xfcab.com | No |
 | xfrog.top | No |
@@ -19003,6 +19007,7 @@ Here's a list of public Fediverse services.
 | yantouer.cn | Yes |
 | yantouer.com | Yes |
 | yapbreak.fr | No |
+| yapka.org | No |
 | yapstreams.com | No |
 | yarashee.net | No |
 | yargl.com | No |
@@ -19392,8 +19397,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,748 |
-| Normal | 15,601 |
+| Cloudflare | 3,752 |
+| Normal | 15,602 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
