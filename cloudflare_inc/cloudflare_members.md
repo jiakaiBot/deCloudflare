@@ -249,6 +249,7 @@ Or is this merely a case of simple modesty?
 | Barton Pickett | Employee |  |
 | Bashar Bashaireh | Employee | |
 | Bashir Khader | Contracts |  |
+| Bastien Dhiver | Employee | |
 | Bas Westerbaan | cryptographic engineering research |  |
 | Ben Bradley | Employee |  |
 | Ben Burkert | Employee |  |
