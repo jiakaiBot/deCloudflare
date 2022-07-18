@@ -16156,7 +16156,7 @@ Here's a list of public Fediverse services.
 | subether.social | No |
 | sublimer.me | Yes |
 | subluminal.industries | No |
-| submarin.online | No |
+| submarin.online | Yes |
 | submit.as | No |
 | subquestspod.com | No |
 | substitoot.it | No |
@@ -18660,6 +18660,7 @@ Here's a list of public Fediverse services.
 | wolkenbruch.ml | No |
 | wollenberg.name | No |
 | wollomatic.de | No |
+| woln.eu | No |
 | wolny.cloud | No |
 | wolthera.info | No |
 | wombat.online | No |
@@ -19397,7 +19398,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,752 |
+| Cloudflare | 3,753 |
 | Normal | 15,602 |
 
 
