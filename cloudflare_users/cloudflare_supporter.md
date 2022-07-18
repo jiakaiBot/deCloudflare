@@ -5465,6 +5465,7 @@ Do not create new issue or we will close it as duplicate.
 | [necromungrel@twitter](https://twitter.com/necromungrel/status/1382410058735054850) | advertise |
 | [ned61103443@twitter](https://twitter.com/ned61103443/status/1401817912399130628) | advertise |
 | [neerajberi01@twitter](https://twitter.com/neerajberi01/status/1407986671929331713) | advertise |
+| [NehaLohiya8@twitter](https://twitter.com/NehaLohiya8/status/1548921034241220609) | advertise |
 | [NekoDark2908@twitter](https://twitter.com/NekoDark2908/status/1385441300166569985) | advertise |
 | [nellasilaen@twitter](https://twitter.com/nellasilaen/status/1484124645586571264) | advertise |
 | [nellydion@twitter](https://twitter.com/nellydion/status/1404459985820545035) | advertise |
@@ -6618,6 +6619,7 @@ Do not create new issue or we will close it as duplicate.
 | [rmsolomon_@twitter](https://twitter.com/rmsolomon_/status/1518319284304461824) | advertise |
 | [RMS_KING24@twitter](https://twitter.com/RMS_KING24/status/1495456762257809408) | advertise |
 | [rm_blank_slash@twitter](https://twitter.com/rm_blank_slash/status/1382681666817126402) | advertise |
+| [rng81037312@twitter](https://twitter.com/rng81037312/status/1548930284585766913) | advertise |
 | [RobAllen26@twitter](https://twitter.com/RobAllen26/status/1386491535038902276) | advertise |
 | [Robert54332996@twitter](https://twitter.com/Robert54332996/status/1398109501794906119) | advertise |
 | [RobertLWint@twitter](https://twitter.com/RobertLWint/status/1480628651225976835) | advertise |
