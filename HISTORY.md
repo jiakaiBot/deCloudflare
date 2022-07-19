@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-07-19: [Cloudflare Spectrum Entitlement Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8b9s5hk1ql56)
+- 2022-07-19: [Zero Trust Network Policies Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2lf24vn995tn)
 - 2022-07-18: [Network Performance Issues in Paris, France (CDG - Charles de Gaulle)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hzmkw39dxvtt)
 - 2022-07-15: [Network connectivity issues in the Canadian area](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kdxrlm9y3mdg)
 - 2022-07-13: [DNS Issues in London (LHR)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sslj2q51cy2k)
