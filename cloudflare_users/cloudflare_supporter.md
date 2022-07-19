@@ -6403,6 +6403,7 @@ Do not create new issue or we will close it as duplicate.
 | [QuangHu25018354@twitter](https://twitter.com/QuangHu25018354/status/1493308714065231872) | advertise |
 | [quangka09@twitter](https://twitter.com/quangka09/status/1391117991790608385) | advertise |
 | [QuangNg40882818@twitter](https://twitter.com/QuangNg40882818/status/1406561229947035654) | advertise |
+| [Quangnghiahi@twitter](https://twitter.com/Quangnghiahi/status/1549424943594479616) | advertise |
 | [quangnhat0809@twitter](https://twitter.com/quangnhat0809/status/1379958517851824129) | advertise |
 | [quangtien93@twitter](https://twitter.com/quangtien93/status/1504243847857008645) | advertise |
 | [Quangtran190988@twitter](https://twitter.com/Quangtran190988/status/1381890326990782465) | advertise |
@@ -8811,6 +8812,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yuu_09180@twitter](https://twitter.com/Yuu_09180/status/1463762592560648196) | advertise |
 | [yuyachit2@twitter](https://twitter.com/yuyachit2/status/1407168318889357326) | advertise |
 | [YuYuThaw14@twitter](https://twitter.com/YuYuThaw14/status/1480196175789637634) | advertise |
+| [yuzzzss@twitter](https://twitter.com/yuzzzss/status/1549403336356818945) | advertise |
 | [YWanasan@twitter](https://twitter.com/YWanasan/status/1392054647393636360) | advertise |
 | [YxngZaZa69@twitter](https://twitter.com/YxngZaZa69/status/1471604103297994757) | advertise |
 | [YYairBB@twitter](https://twitter.com/YYairBB/status/1377950035653066758) | advertise |
