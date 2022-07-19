@@ -4245,6 +4245,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lc82727489@twitter](https://twitter.com/Lc82727489/status/1495876686810062848) | advertise |
 | [Lc85060257@twitter](https://twitter.com/Lc85060257/status/1395364834762321921) | advertise |
 | [lcan7920@twitter](https://twitter.com/lcan7920/status/1497478955905187841) | advertise |
+| [lcanfvckingtell@twitter](https://twitter.com/lcanfvckingtell/status/1549387429265670147) | advertise |
 | [lcavallaro91@twitter](https://twitter.com/lcavallaro91/status/1448364966403354633) | advertise |
 | [Lcngt13@twitter](https://twitter.com/Lcngt13/status/1403354053824815106) | advertise |
 | [ldl251@twitter](https://twitter.com/ldl251/status/1388190381745971201) | advertise |
