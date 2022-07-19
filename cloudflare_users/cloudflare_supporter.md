@@ -915,6 +915,7 @@ Do not create new issue or we will close it as duplicate.
 | [azim56828133@twitter](https://twitter.com/azim56828133/status/1377551649372258306) | advertise |
 | [azinfosys@twitter](https://twitter.com/azinfosys/status/1392180712137236480) | advertise |
 | [AzinMahan@twitter](https://twitter.com/AzinMahan/status/1383158824387813377) | advertise |
+| [azizcr977@twitter](https://twitter.com/azizcr977/status/1549507316721979392) | advertise |
 | [AzizulmollaA@twitter](https://twitter.com/AzizulmollaA/status/1402408516640415745) | advertise |
 | [Azm29410445@twitter](https://twitter.com/Azm29410445/status/1404842111497691136) | advertise |
 | [AzmanBahari1@twitter](https://twitter.com/AzmanBahari1/status/1507292348580974594) | advertise |
@@ -1524,8 +1525,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -8352,6 +8353,7 @@ Do not create new issue or we will close it as duplicate.
 | [vuddh_s@twitter](https://twitter.com/vuddh_s/status/1385846511309709313) | advertise |
 | [VuLe24596549@twitter](https://twitter.com/VuLe24596549/status/1477302008063283201) | advertise |
 | [vuminh56923521@twitter](https://twitter.com/vuminh56923521/status/1397945170750885895) | advertise |
+| [vunguyen930@twitter](https://twitter.com/vunguyen930/status/1549490832893325312) | advertise |
 | [Vuong18239009@twitter](https://twitter.com/Vuong18239009/status/1389212433655336960) | advertise |
 | [VuonghovuDt@twitter](https://twitter.com/VuonghovuDt/status/1529242139091054592) | advertise |
 | [vuquoc203@twitter](https://twitter.com/vuquoc203/status/1408052147787161601) | advertise |
