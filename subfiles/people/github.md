@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [In App update failure](https://github.com/invoiceninja/invoiceninja/issues/7652)
 - [feature Create subdomains on Cloudflare](https://github.com/TimothyYe/godns/issues/167)
 - [Domain SSL configuration — SSL creation error (we require additional verification for one or more domain names)](https://github.com/aws-amplify/amplify-hosting/issues/2871)
 - [Cloudflare interceptor hangs all other network connections while its running](https://github.com/tachiyomiorg/tachiyomi/issues/7555)
