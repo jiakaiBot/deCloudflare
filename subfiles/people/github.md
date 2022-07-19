@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Shipping to Saint-Martin is impossible](https://github.com/woocommerce/woocommerce/issues/33980)
 - [In App update failure](https://github.com/invoiceninja/invoiceninja/issues/7652)
 - [feature Create subdomains on Cloudflare](https://github.com/TimothyYe/godns/issues/167)
 - [Domain SSL configuration — SSL creation error (we require additional verification for one or more domain names)](https://github.com/aws-amplify/amplify-hosting/issues/2871)
