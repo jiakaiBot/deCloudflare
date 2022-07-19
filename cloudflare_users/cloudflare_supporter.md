@@ -6492,6 +6492,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ran20182@twitter](https://twitter.com/Ran20182/status/1396105776402370561) | advertise |
 | [Randomguywholol@twitter](https://twitter.com/Randomguywholol/status/1493825084737212417) | advertise |
 | [randomskillski1@twitter](https://twitter.com/randomskillski1/status/1540842093559554048) | advertise |
+| [Ranimmarani@twitter](https://twitter.com/Ranimmarani/status/1549276216552996865) | advertise |
 | [RanjitM93877397@twitter](https://twitter.com/RanjitM93877397/status/1406581687257997313) | advertise |
 | [Ranked2nd@twitter](https://twitter.com/Ranked2nd/status/1489538382627676160) | advertise |
 | [RannaPrado@twitter](https://twitter.com/RannaPrado/status/1507544094003892226) | advertise |
@@ -8517,6 +8518,7 @@ Do not create new issue or we will close it as duplicate.
 | [winzawmoemoe1@twitter](https://twitter.com/winzawmoemoe1/status/1377558724198363140) | advertise |
 | [wirut60803gmai1@twitter](https://twitter.com/wirut60803gmai1/status/1379932785226391552) | advertise |
 | [WisdomTav4@twitter](https://twitter.com/WisdomTav4/status/1381666478945136641) | advertise |
+| [wiseaidev@twitter](https://twitter.com/wiseaidev/status/1549259120045334529) | advertise |
 | [wis_ais@twitter](https://twitter.com/wis_ais/status/1393090766000459776) | advertise |
 | [WitchaneeFC@twitter](https://twitter.com/WitchaneeFC/status/1519470393102577664) | advertise |
 | [WitchlyHost@twitter](https://twitter.com/WitchlyHost/status/1531595477376180224) | advertise |
