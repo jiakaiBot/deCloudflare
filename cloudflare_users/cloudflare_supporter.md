@@ -6599,6 +6599,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ricky87282850@twitter](https://twitter.com/Ricky87282850/status/1397162246476754945) | advertise |
 | [rickyhuy9x@twitter](https://twitter.com/rickyhuy9x/status/1385638174790098950) | advertise |
 | [ricojames92@twitter](https://twitter.com/ricojames92/status/1380005971439710208) | advertise |
+| [ricstackz@twitter](https://twitter.com/ricstackz/status/1549458641056681984) | advertise |
 | [Riddh19@twitter](https://twitter.com/Riddh19/status/1383476535806423054) | advertise |
 | [riddle_raye@twitter](https://twitter.com/riddle_raye/status/1485703504194908162) | advertise |
 | [Rider70600097@twitter](https://twitter.com/Rider70600097/status/1381439239447924736) | advertise |
@@ -8354,6 +8355,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vuong18239009@twitter](https://twitter.com/Vuong18239009/status/1389212433655336960) | advertise |
 | [VuonghovuDt@twitter](https://twitter.com/VuonghovuDt/status/1529242139091054592) | advertise |
 | [vuquoc203@twitter](https://twitter.com/vuquoc203/status/1408052147787161601) | advertise |
+| [vusimpzerotwo@twitter](https://twitter.com/vusimpzerotwo/status/1549475267692744704) | advertise |
 | [vuthien46196@twitter](https://twitter.com/vuthien46196/status/1401809290449473539) | advertise |
 | [VuVuiVe10@twitter](https://twitter.com/VuVuiVe10/status/1400107055604592645) | advertise |
 | [vuzakamaki@twitter](https://twitter.com/vuzakamaki/status/1398091363682455555) | advertise |
