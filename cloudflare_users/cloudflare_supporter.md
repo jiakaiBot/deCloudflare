@@ -3462,6 +3462,7 @@ Do not create new issue or we will close it as duplicate.
 | [josephillips@twitter](https://twitter.com/josephillips/status/1378443854110687236) | advertise |
 | [JosephL46729146@twitter](https://twitter.com/JosephL46729146/status/1516840050285289473) | advertise |
 | [josephmooreMM@twitter](https://twitter.com/josephmooreMM/status/1398331678142066689) | advertise |
+| [joseph_cvh@twitter](https://twitter.com/joseph_cvh/status/1549354905281802240) | advertise |
 | [JoshAlmighty3@twitter](https://twitter.com/JoshAlmighty3/status/1394937423197470729) | advertise |
 | [joshg253@twitter](https://twitter.com/joshg253/status/1489326821866835971) | advertise |
 | [JoshKaley@twitter](https://twitter.com/JoshKaley/status/1400892198606938113) | advertise |
@@ -6088,6 +6089,7 @@ Do not create new issue or we will close it as duplicate.
 | [PheThitZaw@twitter](https://twitter.com/PheThitZaw/status/1402660507362861060) | advertise |
 | [Phghoang11@twitter](https://twitter.com/Phghoang11/status/1515348519896317953) | advertise |
 | [PhHong20@twitter](https://twitter.com/PhHong20/status/1389017688685498370) | advertise |
+| [philcgeo@twitter](https://twitter.com/philcgeo/status/1549340881584635904) | advertise |
 | [PhillipXin@twitter](https://twitter.com/PhillipXin/status/1378201985539772416) | advertise |
 | [PhiLong97356645@twitter](https://twitter.com/PhiLong97356645/status/1384967186071101442) | advertise |
 | [philstepson@twitter](https://twitter.com/philstepson/status/1468696455644950533) | advertise |
@@ -7266,6 +7268,7 @@ Do not create new issue or we will close it as duplicate.
 | [soyalkoirala60@twitter](https://twitter.com/soyalkoirala60/status/1394193049689812994) | advertise |
 | [soyandot@twitter](https://twitter.com/soyandot/status/1492984014193446918) | advertise |
 | [soyfrien@twitter](https://twitter.com/soyfrien/status/1506490745779277825) | advertise |
+| [soyfrya@twitter](https://twitter.com/soyfrya/status/1549355901773021184) | advertise |
 | [SoYoon997847@twitter](https://twitter.com/SoYoon997847/status/1391096734575521795) | advertise |
 | [sozeehh@twitter](https://twitter.com/sozeehh/status/1406383374797885442) | advertise |
 | [SpaceVim@twitter](https://twitter.com/SpaceVim/status/1511275416354385922) | advertise |
@@ -8591,6 +8594,7 @@ Do not create new issue or we will close it as duplicate.
 | [XR389680978@twitter](https://twitter.com/XR389680978/status/1402950109134876673) | advertise |
 | [XRay12539891@twitter](https://twitter.com/XRay12539891/status/1395074993768304647) | advertise |
 | [xrayrose176@twitter](https://twitter.com/xrayrose176/status/1379845552997724163) | advertise |
+| [xrrthchaymalax1@twitter](https://twitter.com/xrrthchaymalax1/status/1549344084900212736) | advertise |
 | [xSenzify@twitter](https://twitter.com/xSenzify/status/1507011855805390861) | advertise |
 | [Xstar97TheNoob@twitter](https://twitter.com/Xstar97TheNoob/status/1494824329586122756) | advertise |
 | [xTrapNover@twitter](https://twitter.com/xTrapNover/status/1394301970169491457) | advertise |
