@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 2,578 |
 | net | 1,485 |
 | social | 1,137 |
-| org | 1,064 |
-| de | 942 |
+| org | 1,065 |
+| de | 943 |
 
 
 - Mastodon, Pleroma, etc
@@ -5423,6 +5423,7 @@ Here's a list of public Fediverse services.
 | fluora.net | Yes |
 | fluoride.dev | No |
 | flussence.eu | No |
+| flussnoten.de | No |
 | fly.dev | No |
 | flyand.chat | Yes |
 | flying-snail.de | No |
@@ -6531,7 +6532,7 @@ Here's a list of public Fediverse services.
 | gueto.net | No |
 | guezota.com | No |
 | guggenberger.website | No |
-| guia.nom.br | No |
+| guia.nom.br | Yes |
 | guiling.me | No |
 | guimik.fr | No |
 | guin.ovh | No |
@@ -10783,6 +10784,7 @@ Here's a list of public Fediverse services.
 | miria.love | No |
 | mirko-schenk.de | No |
 | mironside.com | No |
+| mirr0r.city | No |
 | mirrorbright.xyz | No |
 | mirrored.rocks | No |
 | mirrored.social | No |
@@ -11752,6 +11754,7 @@ Here's a list of public Fediverse services.
 | netzone.cc | Yes |
 | netzsphaere.xyz | No |
 | netzspielplatz.de | No |
+| netzspielplatz.org | No |
 | netzweh.de | No |
 | netzwerk-gebet.de | No |
 | neue.city | No |
@@ -13004,7 +13007,7 @@ Here's a list of public Fediverse services.
 | peertube.cf | No |
 | peertube.ch | No |
 | peertube.cl | No |
-| peertube.club | Yes |
+| peertube.club | No |
 | peertube.co.uk | No |
 | peertube.com.au | No |
 | peertube.dk | Yes |
@@ -19399,7 +19402,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,753 |
-| Normal | 15,602 |
+| Normal | 15,605 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
