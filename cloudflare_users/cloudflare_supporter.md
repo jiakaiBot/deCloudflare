@@ -602,6 +602,7 @@ Do not create new issue or we will close it as duplicate.
 | [aribkhan2016@twitter](https://twitter.com/aribkhan2016/status/1389475209992835075) | advertise |
 | [AriesGreenApple@twitter](https://twitter.com/AriesGreenApple/status/1487078687598014470) | advertise |
 | [Arieshtut213@twitter](https://twitter.com/Arieshtut213/status/1402336618921578504) | advertise |
+| [ariess1265@twitter](https://twitter.com/ariess1265/status/1549318704646979584) | advertise |
 | [Ariff36174425@twitter](https://twitter.com/Ariff36174425/status/1501938338902986762) | advertise |
 | [ArifinSunny19@twitter](https://twitter.com/ArifinSunny19/status/1389227451742523399) | advertise |
 | [Arjun63261515@twitter](https://twitter.com/Arjun63261515/status/1384863027078565892) | advertise |
@@ -3842,8 +3843,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5362,6 +5363,7 @@ Do not create new issue or we will close it as duplicate.
 | [Namstore38@twitter](https://twitter.com/Namstore38/status/1389652169104662530) | advertise |
 | [NamTran81646276@twitter](https://twitter.com/NamTran81646276/status/1401349748670435332) | advertise |
 | [NamTrn27802313@twitter](https://twitter.com/NamTrn27802313/status/1469907899388350468) | advertise |
+| [namvu@twitter](https://twitter.com/namvu/status/1549335116362977280) | advertise |
 | [nam_thaw@twitter](https://twitter.com/nam_thaw/status/1539987506552537090) | advertise |
 | [NanaKwameSarko4@twitter](https://twitter.com/NanaKwameSarko4/status/1470721183779901440) | advertise |
 | [nanamegg@twitter](https://twitter.com/nanamegg/status/1387985146528284674) | advertise |
