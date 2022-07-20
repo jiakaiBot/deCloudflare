@@ -7241,6 +7241,7 @@ Do not create new issue or we will close it as duplicate.
 | [sohail_2668@twitter](https://twitter.com/sohail_2668/status/1379913128268328961) | advertise |
 | [soil35719772@twitter](https://twitter.com/soil35719772/status/1392742661144997890) | advertise |
 | [Sojolah02162432@twitter](https://twitter.com/Sojolah02162432/status/1401944661275545603) | advertise |
+| [SoldustMero@twitter](https://twitter.com/SoldustMero/status/1549580892988850182) | advertise |
 | [SolekhudinAK@twitter](https://twitter.com/SolekhudinAK/status/1384881486944509956) | advertise |
 | [Solon59889088@twitter](https://twitter.com/Solon59889088/status/1378327434219560960) | advertise |
 | [solucionesdcmx@twitter](https://twitter.com/solucionesdcmx/status/1437832776573759492) | advertise |
@@ -8249,6 +8250,7 @@ Do not create new issue or we will close it as duplicate.
 | [vanle02809622@twitter](https://twitter.com/vanle02809622/status/1507990755243044868) | advertise |
 | [Vannanh15@twitter](https://twitter.com/Vannanh15/status/1380525687220498433) | advertise |
 | [VanshRa26933281@twitter](https://twitter.com/VanshRa26933281/status/1400390812681211907) | advertise |
+| [VanshSahni17@twitter](https://twitter.com/VanshSahni17/status/1549586329901535234) | advertise |
 | [van_2808@twitter](https://twitter.com/van_2808/status/1406078940389593095) | advertise |
 | [VarinderHayer3@twitter](https://twitter.com/VarinderHayer3/status/1400361261389385733) | advertise |
 | [varshith__9@twitter](https://twitter.com/varshith__9/status/1384730354834018304) | advertise |
