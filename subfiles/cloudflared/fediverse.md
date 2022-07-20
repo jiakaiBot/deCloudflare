@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,578 |
+| com | 2,580 |
 | net | 1,485 |
-| social | 1,137 |
+| social | 1,138 |
 | org | 1,065 |
 | de | 943 |
 
@@ -1712,7 +1712,7 @@ Here's a list of public Fediverse services.
 | beyondthe7thchamber.com | No |
 | bfan.cc | No |
 | bfoliver.com | No |
-| bfsu.cafe | No |
+| bfsu.cafe | Yes |
 | bgcarlisle.com | No |
 | bgemi.net | No |
 | bgeneric.net | No |
@@ -3493,6 +3493,7 @@ Here's a list of public Fediverse services.
 | d-sak.com | No |
 | d-x-b.com | No |
 | d.foundation | Yes |
+| d0gb0x.com | No |
 | d0p1.eu | No |
 | d100.club | No |
 | d108.org | No |
@@ -3831,6 +3832,7 @@ Here's a list of public Fediverse services.
 | der.moe | No |
 | deranalyst.ch | No |
 | derangeddyke.xyz | No |
+| derave.dev | Yes |
 | derbladho.fr | No |
 | derborys.net | No |
 | derdorifer.org | No |
@@ -4973,6 +4975,7 @@ Here's a list of public Fediverse services.
 | faiss.com | No |
 | fait.ch | No |
 | faith.cash | No |
+| faith.social | Yes |
 | faithbook.ovh | No |
 | faithcollapsing.com | No |
 | faithhack.com | No |
@@ -8284,6 +8287,7 @@ Here's a list of public Fediverse services.
 | kaptains.net | No |
 | kapuluan.link | No |
 | kapussinettes.ovh | No |
+| kar.ly | Yes |
 | karagedon.com | Yes |
 | karagory.com | No |
 | karamatsu.blue | No |
@@ -11683,6 +11687,7 @@ Here's a list of public Fediverse services.
 | nepolis.de | No |
 | neptunedev.us | No |
 | nerantzis.social | No |
+| nerd-culture.tech | No |
 | nerd.town | No |
 | nerdcave.site | Yes |
 | nerdco.ws | No |
@@ -12299,7 +12304,7 @@ Here's a list of public Fediverse services.
 | nzoss.nz | No |
 | nzws.me | Yes |
 | o-k-i.net | Yes |
-| o-man.co | Yes |
+| o-man.co | No |
 | o-u-t-e-r.space | No |
 | o1li.net | No |
 | o2h.club | No |
@@ -13357,6 +13362,7 @@ Here's a list of public Fediverse services.
 | plankton.cz | No |
 | planner.social | No |
 | plantcm.com | No |
+| plantroon.com | No |
 | plantsand.coffee | No |
 | planz.asia | No |
 | plapperbu.de | No |
@@ -14667,7 +14673,7 @@ Here's a list of public Fediverse services.
 | rulix.info | No |
 | rumbly.net | No |
 | rumia.tk | No |
-| run-girls.run | No |
+| run-girls.run | Yes |
 | rundfunker.net | No |
 | runfox.tk | No |
 | rungirls.run | No |
@@ -19401,8 +19407,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,753 |
-| Normal | 15,605 |
+| Cloudflare | 3,757 |
+| Normal | 15,607 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
