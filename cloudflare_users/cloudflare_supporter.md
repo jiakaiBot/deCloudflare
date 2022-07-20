@@ -5534,6 +5534,7 @@ Do not create new issue or we will close it as duplicate.
 | [ngLm68174472@twitter](https://twitter.com/ngLm68174472/status/1401611353102581760) | advertise |
 | [ngNguyn04734307@twitter](https://twitter.com/ngNguyn04734307/status/1378019479876067330) | advertise |
 | [ngntrunghung136@twitter](https://twitter.com/ngntrunghung136/status/1502081207466881025) | advertise |
+| [NgocHuy70334871@twitter](https://twitter.com/NgocHuy70334871/status/1549567457383563264) | advertise |
 | [NgocLan1711@twitter](https://twitter.com/NgocLan1711/status/1380847220438618116) | advertise |
 | [ngocthang_9577@twitter](https://twitter.com/ngocthang_9577/status/1401800231713345543) | advertise |
 | [NgocUnmei@twitter](https://twitter.com/NgocUnmei/status/1402936171265548289) | advertise |
