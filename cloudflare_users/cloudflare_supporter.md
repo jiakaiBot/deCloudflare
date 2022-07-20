@@ -8595,6 +8595,7 @@ Do not create new issue or we will close it as duplicate.
 | [xetrisolta@twitter](https://twitter.com/xetrisolta/status/1386306457964924931) | advertise |
 | [XFG3B@twitter](https://twitter.com/XFG3B/status/1382990065660358658) | advertise |
 | [xfikriarif@twitter](https://twitter.com/xfikriarif/status/1516148640225841152) | advertise |
+| [xfrisxx@twitter](https://twitter.com/xfrisxx/status/1549669724828872704) | advertise |
 | [xhrisxhanx@twitter](https://twitter.com/xhrisxhanx/status/1519471279715373057) | advertise |
 | [XHs@twitter](https://twitter.com/XHs/status/1457943621861199874) | advertise |
 | [xiaomao85622541@twitter](https://twitter.com/xiaomao85622541/status/1391819655287689221) | advertise |
