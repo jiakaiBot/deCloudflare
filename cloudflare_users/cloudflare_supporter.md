@@ -6818,6 +6818,7 @@ Do not create new issue or we will close it as duplicate.
 | [Salman_8778@twitter](https://twitter.com/Salman_8778/status/1447987374500171777) | advertise |
 | [Sam13116820@twitter](https://twitter.com/Sam13116820/status/1389851288922333188) | advertise |
 | [sam18606211@twitter](https://twitter.com/sam18606211/status/1387734057543294976) | advertise |
+| [SAM18905293@twitter](https://twitter.com/SAM18905293/status/1549526126602633218) | advertise |
 | [Sam47778402@twitter](https://twitter.com/Sam47778402/status/1396123062047625221) | advertise |
 | [Sambhra31401620@twitter](https://twitter.com/Sambhra31401620/status/1496921994725511199) | advertise |
 | [SameerDangi9@twitter](https://twitter.com/SameerDangi9/status/1377450627631095808) | advertise |
