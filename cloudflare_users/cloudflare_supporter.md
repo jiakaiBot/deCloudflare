@@ -234,6 +234,7 @@ Do not create new issue or we will close it as duplicate.
 | [Adlinek@twitter](https://twitter.com/Adlinek/status/1386212969223122947) | advertise |
 | [admir_saracevic@twitter](https://twitter.com/admir_saracevic/status/1517979667013292032) | advertise |
 | [AdmMatasa@twitter](https://twitter.com/AdmMatasa/status/1507215006818918404) | advertise |
+| [AdnanIAQader@twitter](https://twitter.com/AdnanIAQader/status/1549794017423962112) | advertise |
 | [adock12345@twitter](https://twitter.com/adock12345/status/1382531067207421953) | advertise |
 | [adora3021@twitter](https://twitter.com/adora3021/status/1390581418401484801) | advertise |
 | [AdsbtcClick@twitter](https://twitter.com/AdsbtcClick/status/1412393199323299843) | advertise |
@@ -4320,6 +4321,7 @@ Do not create new issue or we will close it as duplicate.
 | [Liem36155@twitter](https://twitter.com/Liem36155/status/1479395801767899137) | advertise |
 | [liem65303490@twitter](https://twitter.com/liem65303490/status/1486855188426080258) | advertise |
 | [Lieyblitz@twitter](https://twitter.com/Lieyblitz/status/1497228504760741890) | advertise |
+| [life1st_me@twitter](https://twitter.com/life1st_me/status/1549792125180530688) | advertise |
 | [lifeisfinishing@twitter](https://twitter.com/lifeisfinishing/status/1385066796705886217) | advertise |
 | [lightkiki11998@twitter](https://twitter.com/lightkiki11998/status/1397082213011791876) | advertise |
 | [liho_98@twitter](https://twitter.com/liho_98/status/1508331337719369729) | advertise |
@@ -6988,6 +6990,7 @@ Do not create new issue or we will close it as duplicate.
 | [SG4NgocThang@twitter](https://twitter.com/SG4NgocThang/status/1499256871324053506) | advertise |
 | [sgclabglass@twitter](https://twitter.com/sgclabglass/status/1391577319232335872) | advertise |
 | [SGhosting3@twitter](https://twitter.com/SGhosting3/status/1395637273262116866) | advertise |
+| [sgNTbTeD2Hmc2f8@twitter](https://twitter.com/sgNTbTeD2Hmc2f8/status/1549797275475623936) | advertise |
 | [sh1mc@twitter](https://twitter.com/sh1mc/status/1401972658242084864) | advertise |
 | [sha3rawi33@twitter](https://twitter.com/sha3rawi33/status/1415611299602501632) | advertise |
 | [shabdonagor@twitter](https://twitter.com/shabdonagor/status/1495104498821636096) | advertise |
