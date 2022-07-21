@@ -1071,6 +1071,7 @@ Do not create new issue or we will close it as duplicate.
 | [BigBoss82318890@twitter](https://twitter.com/BigBoss82318890/status/1397034671456796681) | advertise |
 | [bigboy126900@twitter](https://twitter.com/bigboy126900/status/1384376271233118208) | advertise |
 | [bigdickboy1289@twitter](https://twitter.com/bigdickboy1289/status/1399518027889053699) | advertise |
+| [BigEd95@twitter](https://twitter.com/BigEd95/status/1550168159562383366) | advertise |
 | [BiggIce1@twitter](https://twitter.com/BiggIce1/status/1530927758607810560) | advertise |
 | [BihariB42458660@twitter](https://twitter.com/BihariB42458660/status/1406293306783404035) | advertise |
 | [BiHuy22612510@twitter](https://twitter.com/BiHuy22612510/status/1401856193472065546) | advertise |
@@ -7439,6 +7440,7 @@ Do not create new issue or we will close it as duplicate.
 | [Swargyee2@twitter](https://twitter.com/Swargyee2/status/1385056912534736896) | advertise |
 | [SWAT_Winter@twitter](https://twitter.com/SWAT_Winter/status/1396058283476144128) | advertise |
 | [Swaye19899497@twitter](https://twitter.com/Swaye19899497/status/1391353810518298627) | advertise |
+| [swazifiction@twitter](https://twitter.com/swazifiction/status/1550171477063892993) | advertise |
 | [sweetichi2@twitter](https://twitter.com/sweetichi2/status/1384124020228911107) | advertise |
 | [SweGyi10224401@twitter](https://twitter.com/SweGyi10224401/status/1407464017719828485) | advertise |
 | [SweYiPhyo1@twitter](https://twitter.com/SweYiPhyo1/status/1397547716910018560) | advertise |
