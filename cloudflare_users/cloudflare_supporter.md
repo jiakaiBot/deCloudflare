@@ -3006,6 +3006,7 @@ Do not create new issue or we will close it as duplicate.
 | [huylba123@twitter](https://twitter.com/huylba123/status/1397769207337558023) | advertise |
 | [HuyLe12798601@twitter](https://twitter.com/HuyLe12798601/status/1400069776408338432) | advertise |
 | [Huylight1@twitter](https://twitter.com/Huylight1/status/1542806648812871680) | advertise |
+| [huyngo49776381@twitter](https://twitter.com/huyngo49776381/status/1550020847657975808) | advertise |
 | [HuyNguy96832626@twitter](https://twitter.com/HuyNguy96832626/status/1385249782474567682) | advertise |
 | [huynguyen13897@twitter](https://twitter.com/huynguyen13897/status/1515901456355782665) | advertise |
 | [HuynhAn42298847@twitter](https://twitter.com/HuynhAn42298847/status/1515280044687462402) | advertise |
@@ -3862,6 +3863,7 @@ Do not create new issue or we will close it as duplicate.
 | [KingAlts2@twitter](https://twitter.com/KingAlts2/status/1529966287962656768) | advertise |
 | [kingcioLaw@twitter](https://twitter.com/kingcioLaw/status/1520393986648965120) | advertise |
 | [kingk4888888@twitter](https://twitter.com/kingk4888888/status/1394730960894119937) | advertise |
+| [KingmaxNft@twitter](https://twitter.com/KingmaxNft/status/1550009809159630849) | advertise |
 | [kingpolat5@twitter](https://twitter.com/kingpolat5/status/1397988631265038339) | advertise |
 | [kingpubg121212@twitter](https://twitter.com/kingpubg121212/status/1498498459980255234) | advertise |
 | [KINGSAM87263995@twitter](https://twitter.com/KINGSAM87263995/status/1400419727210532864) | advertise |
