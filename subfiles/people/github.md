@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Privacy and iframe security](https://github.com/ethanaobrien/emulatorjs/issues/294)
 - [Too many redirects with Cloudflare](https://github.com/Azure/static-web-apps/issues/858)
 - [Can Anyone Provide Specific Examples? If Not Then Where and How?](https://github.com/engintron/engintron/issues/1419)
 - [Error: read ECONNRESET and 504: Gateway Timeout](https://github.com/alchemyplatform/alchemy-sdk-js/issues/64)
