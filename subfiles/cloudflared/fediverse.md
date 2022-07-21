@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,580 |
 | net | 1,485 |
-| social | 1,138 |
+| social | 1,140 |
 | org | 1,065 |
-| de | 943 |
+| de | 944 |
 
 
 - Mastodon, Pleroma, etc
@@ -961,6 +961,7 @@ Here's a list of public Fediverse services.
 | antoineve.me | No |
 | antonlehmus.me | No |
 | antopie.org | No |
+| antranigv.am | No |
 | antria.io | No |
 | antricks.dev | No |
 | anttirt.net | No |
@@ -1094,6 +1095,7 @@ Here's a list of public Fediverse services.
 | armingbears.com | No |
 | armpit.me | No |
 | armstube.com | Yes |
+| arnaudboutry.art | No |
 | arnep.de | No |
 | arnip.org | No |
 | aroace.space | No |
@@ -1247,6 +1249,7 @@ Here's a list of public Fediverse services.
 | atroxen.com | No |
 | atsuchan.page | No |
 | attainable.xyz | No |
+| attentionphilippelepara.pet | No |
 | atticstudios.be | No |
 | atto.town | Yes |
 | attoch.org | Yes |
@@ -1398,7 +1401,7 @@ Here's a list of public Fediverse services.
 | b612.me | Yes |
 | b612.moe | Yes |
 | b612.tw | No |
-| b86.org | No |
+| b86.org | Yes |
 | b999.me | No |
 | baab.de | No |
 | babar1917.com | No |
@@ -3019,7 +3022,7 @@ Here's a list of public Fediverse services.
 | comfey.club | No |
 | comfy.business | No |
 | comfy.center | Yes |
-| comfy.moe | No |
+| comfy.moe | Yes |
 | comfy.social | Yes |
 | comfyboy.club | No |
 | comfybyte.ga | No |
@@ -3801,6 +3804,7 @@ Here's a list of public Fediverse services.
 | demi-sec.org | No |
 | demkontinuum.de | No |
 | demo-nodeswarm.fr | No |
+| demoarts.social | No |
 | democracy.town | No |
 | demokratischer-sommer.de | No |
 | demon.army | No |
@@ -6733,6 +6737,7 @@ Here's a list of public Fediverse services.
 | hash.my | No |
 | hash.social | No |
 | hashi.icu | Yes |
+| hashi.sbs | Yes |
 | hashtagueule.fr | No |
 | hashy-net.de | No |
 | haskell.social | Yes |
@@ -7309,6 +7314,7 @@ Here's a list of public Fediverse services.
 | icynet.eu | No |
 | icyphox.sh | No |
 | id.cc | No |
+| idas.social | Yes |
 | idbt.tv | No |
 | iddqd.social | No |
 | iddqdidkfa.de | No |
@@ -10467,6 +10473,7 @@ Here's a list of public Fediverse services.
 | meinungs.blog | No |
 | meinungsschauspieler.de | No |
 | meinungsschubla.de | No |
+| meinzeug24.de | No |
 | meissa-gmbh.de | No |
 | meisskey.blue | Yes |
 | meisskey.one | Yes |
@@ -14094,7 +14101,7 @@ Here's a list of public Fediverse services.
 | radtke.pw | No |
 | radtusks.xyz | Yes |
 | raeven.net | Yes |
-| rafe.name | No |
+| rafe.name | Yes |
 | rafting.io | No |
 | rage.lol | Yes |
 | rage.love | No |
@@ -14245,6 +14252,7 @@ Here's a list of public Fediverse services.
 | realmofespionage.xyz | No |
 | realnephestate.xyz | No |
 | realscience.social | No |
+| realtime.fyi | No |
 | reapers.de | No |
 | reaves.dev | No |
 | rebble.net | No |
@@ -16559,6 +16567,7 @@ Here's a list of public Fediverse services.
 | tcit.fr | No |
 | tcnfy.uk | No |
 | tcp.expert | Yes |
+| tcsh.online | No |
 | tds.xyz | No |
 | te-st.ru | Yes |
 | tea.codes | Yes |
@@ -19407,8 +19416,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,757 |
-| Normal | 15,607 |
+| Cloudflare | 3,762 |
+| Normal | 15,611 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
