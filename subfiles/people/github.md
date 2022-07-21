@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [adapter-cloudflare: SVGs from static folder stopped working](https://github.com/sveltejs/kit/issues/5652)
+- [Cant Install Add-On on hassio rpi](https://github.com/brenner-tobias/ha-addons/issues/3)
 - [Privacy and iframe security](https://github.com/ethanaobrien/emulatorjs/issues/294)
 - [Too many redirects with Cloudflare](https://github.com/Azure/static-web-apps/issues/858)
 - [Can Anyone Provide Specific Examples? If Not Then Where and How?](https://github.com/engintron/engintron/issues/1419)
