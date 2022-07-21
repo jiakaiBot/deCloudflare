@@ -4403,6 +4403,7 @@ Do not create new issue or we will close it as duplicate.
 | [LmSkyler1@twitter](https://twitter.com/LmSkyler1/status/1480205347851993099) | advertise |
 | [lmtxxx2@twitter](https://twitter.com/lmtxxx2/status/1470622176097501185) | advertise |
 | [lmvntruong@twitter](https://twitter.com/lmvntruong/status/1380895642462023682) | advertise |
+| [LngTi23877728@twitter](https://twitter.com/LngTi23877728/status/1549980900284600320) | advertise |
 | [lnguyenduc997@twitter](https://twitter.com/lnguyenduc997/status/1536404693668073472) | advertise |
 | [LNguynXunSn1@twitter](https://twitter.com/LNguynXunSn1/status/1485459472827166721) | advertise |
 | [LNhnHong1@twitter](https://twitter.com/LNhnHong1/status/1400851165248585730) | advertise |
@@ -5079,6 +5080,7 @@ Do not create new issue or we will close it as duplicate.
 | [Moha_q9q@twitter](https://twitter.com/Moha_q9q/status/1478010892612743175) | advertise |
 | [mohdsam47534112@twitter](https://twitter.com/mohdsam47534112/status/1377652969630433284) | advertise |
 | [MohdSoh63651909@twitter](https://twitter.com/MohdSoh63651909/status/1395901137224536065) | advertise |
+| [MOHDZAKIBINABU7@twitter](https://twitter.com/MOHDZAKIBINABU7/status/1549984504806195200) | advertise |
 | [mohhamedsanosey@twitter](https://twitter.com/mohhamedsanosey/status/1434116716469030921) | advertise |
 | [mohibbur95@twitter](https://twitter.com/mohibbur95/status/1444960885051572225) | advertise |
 | [MohMoh08333940@twitter](https://twitter.com/MohMoh08333940/status/1391065381360574468) | advertise |
@@ -7487,6 +7489,7 @@ Do not create new issue or we will close it as duplicate.
 | [TAnh28750081@twitter](https://twitter.com/TAnh28750081/status/1394338740173115399) | advertise |
 | [Tantai198@twitter](https://twitter.com/Tantai198/status/1494866367769550851) | advertise |
 | [tantan69330666@twitter](https://twitter.com/tantan69330666/status/1491684232070299651) | advertise |
+| [Tantogrape@twitter](https://twitter.com/Tantogrape/status/1549988819981971456) | advertise |
 | [TanyaBones@twitter](https://twitter.com/TanyaBones/status/1438527093273473036) | advertise |
 | [taraktungdung@twitter](https://twitter.com/taraktungdung/status/1397948304810418179) | advertise |
 | [Tarek69654012@twitter](https://twitter.com/Tarek69654012/status/1399075228454686720) | advertise |
