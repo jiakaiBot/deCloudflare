@@ -2445,6 +2445,7 @@ Do not create new issue or we will close it as duplicate.
 | [Guerra0Jorge@twitter](https://twitter.com/Guerra0Jorge/status/1524652929931780096) | advertise |
 | [gugu9121997@twitter](https://twitter.com/gugu9121997/status/1395265672091889664) | advertise |
 | [GuGuLay10381548@twitter](https://twitter.com/GuGuLay10381548/status/1506092036969041926) | advertise |
+| [Guiltyklab@twitter](https://twitter.com/Guiltyklab/status/1550137506489778176) | advertise |
 | [gujzlar@twitter](https://twitter.com/gujzlar/status/1386371400739352578) | advertise |
 | [GuKa53117269@twitter](https://twitter.com/GuKa53117269/status/1492047858501296128) | advertise |
 | [GumHpauyam@twitter](https://twitter.com/GumHpauyam/status/1393746316342173701) | advertise |
