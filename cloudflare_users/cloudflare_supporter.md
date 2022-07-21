@@ -1860,6 +1860,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dohuy49780349@twitter](https://twitter.com/Dohuy49780349/status/1376800199079694336) | advertise |
 | [doimatphonui@twitter](https://twitter.com/doimatphonui/status/1387455212168749061) | advertise |
 | [Dojnaz@twitter](https://twitter.com/Dojnaz/status/1431346378647773187) | advertise |
+| [dokali_skander@twitter](https://twitter.com/dokali_skander/status/1550205833904099329) | advertise |
 | [Dolfa19@twitter](https://twitter.com/Dolfa19/status/1490365663797522436) | advertise |
 | [Doli18316877@twitter](https://twitter.com/Doli18316877/status/1394684058098049024) | advertise |
 | [dominic37487702@twitter](https://twitter.com/dominic37487702/status/1479207257279660034) | advertise |
@@ -8872,6 +8873,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zack_gaming7@twitter](https://twitter.com/Zack_gaming7/status/1377466204097441792) | advertise |
 | [zac_wembley@twitter](https://twitter.com/zac_wembley/status/1468352743207096322) | advertise |
 | [Zaddy308@twitter](https://twitter.com/Zaddy308/status/1389884813088202753) | advertise |
+| [zafa67865376@twitter](https://twitter.com/zafa67865376/status/1550195542055178245) | advertise |
 | [zahedr@twitter](https://twitter.com/zahedr/status/1404344671778742275) | advertise |
 | [zahrafarouq1@twitter](https://twitter.com/zahrafarouq1/status/1401092958972166147) | advertise |
 | [ZAHRSAEED@twitter](https://twitter.com/ZAHRSAEED/status/1494523655556059137) | advertise |
