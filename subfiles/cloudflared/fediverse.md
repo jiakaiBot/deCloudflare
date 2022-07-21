@@ -3408,6 +3408,7 @@ Here's a list of public Fediverse services.
 | cyb3r.social | Yes |
 | cybar.club | Yes |
 | cyber-anarchy.net | No |
+| cyber-creek.us | Yes |
 | cyber-privacy.online | No |
 | cyber-tribal.com | No |
 | cyber.cafe | No |
@@ -14461,6 +14462,7 @@ Here's a list of public Fediverse services.
 | rimmer.cloud | No |
 | rimmer.wtf | No |
 | rin.fo | Yes |
+| rin.pink | Yes |
 | rince.de | No |
 | rindt.me | No |
 | ring0.re | No |
@@ -19416,7 +19418,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,762 |
+| Cloudflare | 3,764 |
 | Normal | 15,611 |
 
 
