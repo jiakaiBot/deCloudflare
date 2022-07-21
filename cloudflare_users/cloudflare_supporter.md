@@ -4601,6 +4601,7 @@ Do not create new issue or we will close it as duplicate.
 | [MalithKaveesha@twitter](https://twitter.com/MalithKaveesha/status/1398239438782623744) | advertise |
 | [mallikiss@twitter](https://twitter.com/mallikiss/status/1515454565197692928) | advertise |
 | [MalluBoii@twitter](https://twitter.com/MalluBoii/status/1386720777110622218) | advertise |
+| [MalshaManuri@twitter](https://twitter.com/MalshaManuri/status/1550120147364372482) | advertise |
 | [malvprass@twitter](https://twitter.com/malvprass/status/1385256169795588096) | advertise |
 | [malwifati@twitter](https://twitter.com/malwifati/status/1381271570304401408) | advertise |
 | [MamMad08079795@twitter](https://twitter.com/MamMad08079795/status/1491453521266638848) | advertise |
@@ -6254,6 +6255,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pl47926009@twitter](https://twitter.com/Pl47926009/status/1395366611989655553) | advertise |
 | [Plan43611745@twitter](https://twitter.com/Plan43611745/status/1399656503079018497) | advertise |
 | [Plang04546316@twitter](https://twitter.com/Plang04546316/status/1536426694986420225) | advertise |
+| [playwithg91@twitter](https://twitter.com/playwithg91/status/1550100029779480578) | advertise |
 | [plda24@twitter](https://twitter.com/plda24/status/1394881939765555200) | advertise |
 | [PlHustla@twitter](https://twitter.com/PlHustla/status/1396266245696143361) | advertise |
 | [plnAhResBLcWi30@twitter](https://twitter.com/plnAhResBLcWi30/status/1390338116418891778) | advertise |
