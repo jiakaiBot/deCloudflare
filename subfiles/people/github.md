@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failing usr-activity register](https://github.com/ecency/ecency-mobile/issues/2377)
+- [CloudFlare Magic Transit APIs reduced availability.](https://github.com/MatBenfield/SecNews/issues/223)
 - [adapter-cloudflare: SVGs from static folder stopped working](https://github.com/sveltejs/kit/issues/5652)
 - [Cant Install Add-On on hassio rpi](https://github.com/brenner-tobias/ha-addons/issues/3)
 - [Privacy and iframe security](https://github.com/ethanaobrien/emulatorjs/issues/294)
