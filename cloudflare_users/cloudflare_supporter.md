@@ -3271,6 +3271,7 @@ Do not create new issue or we will close it as duplicate.
 | [JamesHa60757976@twitter](https://twitter.com/JamesHa60757976/status/1399815122022014981) | advertise |
 | [JamesKightley@twitter](https://twitter.com/JamesKightley/status/1530279999575564289) | advertise |
 | [jameslodge@twitter](https://twitter.com/jameslodge/status/1510273773240561666) | advertise |
+| [JamesSeidel10@twitter](https://twitter.com/JamesSeidel10/status/1550080979016060928) | advertise |
 | [JamestownJohny@twitter](https://twitter.com/JamestownJohny/status/1549222221108977672) | advertise |
 | [JameThuya2@twitter](https://twitter.com/JameThuya2/status/1396480198325923841) | advertise |
 | [jame_satapon@twitter](https://twitter.com/jame_satapon/status/1381621249554542595) | advertise |
@@ -4569,6 +4570,7 @@ Do not create new issue or we will close it as duplicate.
 | [magnificus_g@twitter](https://twitter.com/magnificus_g/status/1534864691318640641) | advertise |
 | [MAHATOBABu711@twitter](https://twitter.com/MAHATOBABu711/status/1407249433952079875) | advertise |
 | [Mahatvavirya@twitter](https://twitter.com/Mahatvavirya/status/1548499205588602882) | advertise |
+| [Mahdideaa99@twitter](https://twitter.com/Mahdideaa99/status/1550085356355305473) | advertise |
 | [Mahendra121283@twitter](https://twitter.com/Mahendra121283/status/1396311289949941766) | advertise |
 | [MaheshKaragthi1@twitter](https://twitter.com/MaheshKaragthi1/status/1405041613047418882) | advertise |
 | [MaheshTalekar0@twitter](https://twitter.com/MaheshTalekar0/status/1402283327260807171) | advertise |
@@ -6541,6 +6543,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ravikum76334611@twitter](https://twitter.com/Ravikum76334611/status/1387351894058672133) | advertise |
 | [RaviMou75142746@twitter](https://twitter.com/RaviMou75142746/status/1384902921561706501) | advertise |
 | [RaviNam55980590@twitter](https://twitter.com/RaviNam55980590/status/1410996392063946753) | moral (advertise) |
+| [ravipinto@twitter](https://twitter.com/ravipinto/status/1550083945727143938) | advertise |
 | [rayklanderman@twitter](https://twitter.com/rayklanderman/status/1461680590873317377) | advertise |
 | [Raymond09739398@twitter](https://twitter.com/Raymond09739398/status/1379876402128822276) | advertise |
 | [Razaini9@twitter](https://twitter.com/Razaini9/status/1391507226221682690) | advertise |
