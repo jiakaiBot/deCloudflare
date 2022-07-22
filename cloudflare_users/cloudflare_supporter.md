@@ -7340,6 +7340,7 @@ Do not create new issue or we will close it as duplicate.
 | [sptcp1@twitter](https://twitter.com/sptcp1/status/1478208224989831170) | advertise |
 | [sptzortzis@twitter](https://twitter.com/sptzortzis/status/1509449625958326272) | advertise |
 | [spt_cp@twitter](https://twitter.com/spt_cp/status/1377690834888364032) | advertise |
+| [SQUIDMANGA@twitter](https://twitter.com/SQUIDMANGA/status/1550594180799422468) | advertise |
 | [Sreejit13700215@twitter](https://twitter.com/Sreejit13700215/status/1388191035029823488) | advertise |
 | [sriyogeshkumar1@twitter](https://twitter.com/sriyogeshkumar1/status/1478380858981638146) | advertise |
 | [srl_donglink@twitter](https://twitter.com/srl_donglink/status/1515773433921310721) | advertise |
