@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,581 |
+| com | 2,582 |
 | net | 1,486 |
 | social | 1,140 |
 | org | 1,065 |
@@ -5705,6 +5705,7 @@ Here's a list of public Fediverse services.
 | frischesicht.de | No |
 | friskypaws.social | Yes |
 | friskywhiskersfiction.online | No |
+| fritu.re | No |
 | frnd.ski | No |
 | frndc.de | No |
 | frog.camp | No |
@@ -6234,6 +6235,7 @@ Here's a list of public Fediverse services.
 | glitch.me | No |
 | glitch.pizza | Yes |
 | glitch.social | No |
+| glitchbird.com | No |
 | glitchcity.cc | No |
 | glitchcityart.club | Yes |
 | glitchwit.ch | No |
@@ -7898,7 +7900,7 @@ Here's a list of public Fediverse services.
 | jdracademy.fr | No |
 | jdsoft.de | No |
 | jean-ribes.tk | No |
-| jeannie.digital | No |
+| jeannie.digital | Yes |
 | jeda.im | Yes |
 | jeder.pl | No |
 | jeena.net | No |
@@ -19423,8 +19425,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,765 |
-| Normal | 15,615 |
+| Cloudflare | 3,766 |
+| Normal | 15,616 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
