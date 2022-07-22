@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,580 |
-| net | 1,485 |
+| com | 2,581 |
+| net | 1,486 |
 | social | 1,140 |
 | org | 1,065 |
-| de | 944 |
+| de | 945 |
 
 
 - Mastodon, Pleroma, etc
@@ -6990,6 +6990,7 @@ Here's a list of public Fediverse services.
 | hitobito.club | No |
 | hitomishinozaki.com | No |
 | hitorino.moe | Yes |
+| hitorino.tv | No |
 | hitotsu.me | No |
 | hitoxu.com | No |
 | hitsuji.work | No |
@@ -10247,7 +10248,7 @@ Here's a list of public Fediverse services.
 | mastodonchile.club | Yes |
 | mastodoncr.com | No |
 | mastodoncuba.club | No |
-| mastodones.club | Yes |
+| mastodones.club | No |
 | mastodonevry.ovh | No |
 | mastodonfrance.com | No |
 | mastodong.art | No |
@@ -11675,6 +11676,7 @@ Here's a list of public Fediverse services.
 | nemuneko.me | No |
 | nemushee.net | Yes |
 | nenmyx.dev | No |
+| nenohi.net | Yes |
 | neobluepanther.com | No |
 | neofae.net | No |
 | neoliberalyse.de | No |
@@ -14289,6 +14291,7 @@ Here's a list of public Fediverse services.
 | rednosehacker.com | No |
 | redp.icu | Yes |
 | redpanda.fun | No |
+| redpanda.pics | Yes |
 | redroo.ml | No |
 | redroot.xyz | No |
 | redrosewriter.com | Yes |
@@ -16361,6 +16364,7 @@ Here's a list of public Fediverse services.
 | syn.im | No |
 | syn.social | No |
 | syndicatdinitiatives.org | No |
+| synergetic-design.com | No |
 | synergy-tube.co.za | No |
 | synfinner.blog | No |
 | synology.me | No |
@@ -17471,6 +17475,7 @@ Here's a list of public Fediverse services.
 | true.family | No |
 | truecolors.space | Yes |
 | truedat.social | No |
+| trueten.de | No |
 | truetube.media | No |
 | truman.me.uk | Yes |
 | trump.pub | No |
@@ -19418,8 +19423,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,764 |
-| Normal | 15,611 |
+| Cloudflare | 3,765 |
+| Normal | 15,615 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
