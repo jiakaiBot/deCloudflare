@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-07-22: [Issues in Miami, FL](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mn5xjdtzz9y8)
+- 2022-07-21: [Issues in Indonesia](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7ylz0sfddj29)
 - 2022-07-22: [Issue with sending of X-Forwarded-For header](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/v79pzdx7b3j7)
 - 2022-07-21: [Network connectivity issues in Latin America.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ls77s8lrncqt)
 - 2022-07-20: [Threshold issues with Advanced Rate Limiting](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fk7vpl3spf5x)
