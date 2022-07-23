@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Magic Transit APIs reduced availability.](https://github.com/MatBenfield/news/issues/223)
 - [Chrome Driver initialization Error - Multiprocessing Error returned when ran from Docker](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/740)
 - [Failing usr-activity register](https://github.com/ecency/ecency-mobile/issues/2377)
 - [CloudFlare Magic Transit APIs reduced availability.](https://github.com/MatBenfield/SecNews/issues/223)
