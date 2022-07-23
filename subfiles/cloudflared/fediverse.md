@@ -6495,6 +6495,7 @@ Here's a list of public Fediverse services.
 | grobox.de | No |
 | gronendahl.de | No |
 | groningendigitalcity.com | No |
+| gronkiewicz.dev | Yes |
 | groomlakeroad.com | No |
 | groosha.cf | No |
 | groovestomp.com | No |
@@ -19438,7 +19439,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,770 |
+| Cloudflare | 3,771 |
 | Normal | 15,625 |
 
 
