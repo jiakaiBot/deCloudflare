@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Chrome Driver initialization Error - Multiprocessing Error returned when ran from Docker](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/740)
 - [Failing usr-activity register](https://github.com/ecency/ecency-mobile/issues/2377)
 - [CloudFlare Magic Transit APIs reduced availability.](https://github.com/MatBenfield/SecNews/issues/223)
 - [adapter-cloudflare: SVGs from static folder stopped working](https://github.com/sveltejs/kit/issues/5652)
