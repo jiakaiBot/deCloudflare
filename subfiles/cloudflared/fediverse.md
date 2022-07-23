@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,582 |
-| net | 1,486 |
+| com | 2,585 |
+| net | 1,487 |
 | social | 1,140 |
 | org | 1,065 |
-| de | 945 |
+| de | 944 |
 
 
 - Mastodon, Pleroma, etc
@@ -1009,6 +1009,7 @@ Here's a list of public Fediverse services.
 | appdot.net | No |
 | apple-user.club | No |
 | apple2.org.za | No |
+| appleontech.com | No |
 | applest.net | No |
 | appne.com | No |
 | approvers.dev | Yes |
@@ -1276,7 +1277,7 @@ Here's a list of public Fediverse services.
 | auka.me | No |
 | aukfood.net | No |
 | aukondk.com | No |
-| auntiefasupply.co | Yes |
+| auntiefasupply.co | No |
 | aurcanius.org | Yes |
 | auri.ga | No |
 | aurifer.org | No |
@@ -2105,6 +2106,7 @@ Here's a list of public Fediverse services.
 | boyslove.jp | No |
 | boz.fi | No |
 | bozolord.ml | No |
+| bpd.monster | Yes |
 | bpxiszentpetery8.hu | No |
 | br0.fr | No |
 | braciakamraci.pl | No |
@@ -2596,7 +2598,6 @@ Here's a list of public Fediverse services.
 | chantierlibre.org | No |
 | chanyukming.com | Yes |
 | chao.tokyo | No |
-| chaoflux.de | No |
 | chaos.is | No |
 | chaos.nrw | No |
 | chaos.social | No |
@@ -3289,6 +3290,7 @@ Here's a list of public Fediverse services.
 | cryptodon.tokyo | No |
 | cryptodont.io | No |
 | cryptography.dog | No |
+| cryptonomic.tech | Yes |
 | cryptoschizo.club | No |
 | cryptosocial.site | No |
 | cryptotooter.com | No |
@@ -3314,6 +3316,7 @@ Here's a list of public Fediverse services.
 | ctdl.co | Yes |
 | cthompson.com | No |
 | cthonic.club | No |
+| cthulhu.love | No |
 | cthulhu.social | No |
 | ctrl-shift.net | No |
 | ctrlaltdog.xyz | Yes |
@@ -4345,6 +4348,7 @@ Here's a list of public Fediverse services.
 | dumez.info | No |
 | dummbutz.nl | No |
 | dummy.cafe | Yes |
+| dumont.video | No |
 | dumpkin.monster | Yes |
 | duncancmt.com | No |
 | duncanhart.com | No |
@@ -5369,6 +5373,7 @@ Here's a list of public Fediverse services.
 | fixitbear.com | No |
 | fjara.re | No |
 | fjerland.no | No |
+| fk.ms | Yes |
 | fkeinsten.de | No |
 | fkfd.me | No |
 | fkn-systems.de | No |
@@ -6200,6 +6205,7 @@ Here's a list of public Fediverse services.
 | gitmo.life | Yes |
 | gitmo.tv | No |
 | gitpod.io | No |
+| giveawaydispenser.com | No |
 | givel.fr | No |
 | givelotus.life | No |
 | gjcloak.top | No |
@@ -10569,6 +10575,7 @@ Here's a list of public Fediverse services.
 | mesa-mas.ml | No |
 | mescl.in | No |
 | mesh.party | No |
+| mesh.sx | No |
 | meshed.cloud | No |
 | meshspace.de | No |
 | mesomer.com | Yes |
@@ -11135,6 +11142,7 @@ Here's a list of public Fediverse services.
 | mrbatsu.com | No |
 | mrbesen.de | No |
 | mrbug.su | No |
+| mrclon.net | No |
 | mrcol.es | No |
 | mrfunkedude.com | No |
 | mrh.io | No |
@@ -11145,6 +11153,7 @@ Here's a list of public Fediverse services.
 | mrls.xyz | No |
 | mrlungshot.com | Yes |
 | mrnd.xyz | No |
+| mro.name | No |
 | mrotek.xyz | No |
 | mrow.space | Yes |
 | mrpetovan.com | No |
@@ -12028,6 +12037,7 @@ Here's a list of public Fediverse services.
 | noellabo.com | Yes |
 | noellabo.jp | Yes |
 | noelle.codes | No |
+| noexpectations.show | No |
 | noexpectations.social | No |
 | nof.st | No |
 | nofan.xyz | Yes |
@@ -12206,7 +12216,7 @@ Here's a list of public Fediverse services.
 | nscio.us | No |
 | nsfw.cafe | No |
 | nsfw.finance | Yes |
-| nsfw.onl | No |
+| nsfw.onl | Yes |
 | nsfw.social | Yes |
 | nshl.xyz | No |
 | nsinteger.com | No |
@@ -15997,6 +16007,7 @@ Here's a list of public Fediverse services.
 | staendsche.de | No |
 | stalin.rocks | Yes |
 | staltsoft.com | Yes |
+| staminaonline.com | Yes |
 | stani.se | No |
 | stanisic.nl | Yes |
 | star-one.org.uk | No |
@@ -17337,6 +17348,7 @@ Here's a list of public Fediverse services.
 | touhou.cz | No |
 | touhou.party | No |
 | toukae.com | No |
+| tourdeguet.fr | No |
 | tourmentine.com | No |
 | towns.gay | Yes |
 | toxicgarbageisland.rocks | No |
@@ -17720,6 +17732,7 @@ Here's a list of public Fediverse services.
 | ukka.xyz | No |
 | ukpagan.com | Yes |
 | ukpats.io | No |
+| ukrainedao.love | No |
 | ukrainian.social | No |
 | uksocial.net | No |
 | ukva.li | No |
@@ -19425,8 +19438,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,766 |
-| Normal | 15,616 |
+| Cloudflare | 3,770 |
+| Normal | 15,625 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
