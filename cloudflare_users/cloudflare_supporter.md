@@ -1267,6 +1267,7 @@ Do not create new issue or we will close it as duplicate.
 | [BurungHantu@social.privacytools.io](https://social.privacytools.io/@BurungHantu) | moral (PR defacement) |
 | [busekuru50@twitter](https://twitter.com/busekuru50/status/1493016091995561988) | advertise |
 | [bushwik@twitter](https://twitter.com/bushwik/status/1541552065721270272) | advertise |
+| [ButaiKirin@twitter](https://twitter.com/ButaiKirin/status/1550893239284420609) | advertise |
 | [ButtersWorldInc@twitter](https://twitter.com/ButtersWorldInc/status/1490553710006587393) | advertise |
 | [BVnNh4@twitter](https://twitter.com/BVnNh4/status/1382221207257354242) | advertise |
 | [BWpzQGeCJgL7bmi@twitter](https://twitter.com/BWpzQGeCJgL7bmi/status/1386781006506516485) | advertise |
