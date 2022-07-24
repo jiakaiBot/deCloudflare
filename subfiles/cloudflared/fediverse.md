@@ -4334,6 +4334,7 @@ Here's a list of public Fediverse services.
 | ducksareawesome.net | No |
 | dudebronation.com | No |
 | dudehabits.net | No |
+| dudenas.lt | No |
 | dudesa.me | No |
 | dudu.best | Yes |
 | dudu.today | No |
@@ -6644,6 +6645,7 @@ Here's a list of public Fediverse services.
 | hackoon.com | No |
 | hackret.com | Yes |
 | hacks.wiki | No |
+| hacksrus.xyz | Yes |
 | hackthis.space | No |
 | hacktivis.me | No |
 | hackto.me | No |
@@ -19443,8 +19445,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,770 |
-| Normal | 15,630 |
+| Cloudflare | 3,771 |
+| Normal | 15,631 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
