@@ -170,7 +170,7 @@ Here's a list of public Fediverse services.
 | 2muchin4mation.com | No |
 | 2n3904.net | No |
 | 2ndamendment.social | No |
-| 2orb.de | Yes |
+| 2orb.de | No |
 | 2ot.fun | No |
 | 2p.gg | Yes |
 | 2printers1cups.com | Yes |
@@ -539,7 +539,7 @@ Here's a list of public Fediverse services.
 | agates.io | No |
 | agb-web.de | No |
 | agilemind.blog | No |
-| aglaea.me | No |
+| aglaea.me | Yes |
 | agneraya.com | No |
 | agol.one | No |
 | agoni.news | No |
@@ -3521,6 +3521,7 @@ Here's a list of public Fediverse services.
 | da-am.com | Yes |
 | dabo.de | No |
 | dachary.org | No |
+| daco.dev | Yes |
 | dads.cool | No |
 | daebak.fun | No |
 | daed.org | No |
@@ -4896,6 +4897,7 @@ Here's a list of public Fediverse services.
 | excelereight.tk | No |
 | exceptional.party | No |
 | exclaimindustries.net | No |
+| exdeck.site | No |
 | exianote.work | No |
 | exile.social | No |
 | exited.eu | No |
@@ -6309,6 +6311,7 @@ Here's a list of public Fediverse services.
 | gnusocial.ch | No |
 | gnusocial.club | No |
 | gnusocial.de | No |
+| gnusocial.jp | No |
 | gnusocial.li | No |
 | gnusocial.me | No |
 | gnusocial.ml | No |
@@ -8124,7 +8127,7 @@ Here's a list of public Fediverse services.
 | jshwlkr.info | No |
 | json.blog | No |
 | jsonly.club | No |
-| jstd.me | Yes |
+| jstd.me | No |
 | jsteuernagel.de | Yes |
 | jsts.xyz | Yes |
 | jswc.de | Yes |
@@ -10570,6 +10573,7 @@ Here's a list of public Fediverse services.
 | merry.eu.org | No |
 | meru-golang.jp | Yes |
 | meru-golang.net | No |
+| merveill.es | No |
 | merveilles.town | No |
 | merylscarlett.info | No |
 | mes-courriers.fr | No |
@@ -16209,7 +16213,7 @@ Here's a list of public Fediverse services.
 | such.technology | No |
 | suchtbasis.de | No |
 | sudo.ca | No |
-| sudoshell.xyz | Yes |
+| sudoshell.xyz | No |
 | sudovim.net | No |
 | sudrien.net | No |
 | sueden.social | Yes |
@@ -19439,8 +19443,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,771 |
-| Normal | 15,625 |
+| Cloudflare | 3,770 |
+| Normal | 15,630 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
