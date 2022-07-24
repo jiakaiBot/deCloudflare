@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [micromamba Corrupt package cache?](https://github.com/mamba-org/mamba/issues/1817)
 - [CloudFlare Magic Transit APIs reduced availability.](https://github.com/MatBenfield/news/issues/223)
 - [Chrome Driver initialization Error - Multiprocessing Error returned when ran from Docker](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/740)
 - [Failing usr-activity register](https://github.com/ecency/ecency-mobile/issues/2377)
