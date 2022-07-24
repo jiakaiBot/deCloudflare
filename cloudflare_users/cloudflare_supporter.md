@@ -2431,6 +2431,7 @@ Do not create new issue or we will close it as duplicate.
 | [Gracema90004826@twitter](https://twitter.com/Gracema90004826/status/1390090100466274306) | advertise |
 | [GraceParree@twitter](https://twitter.com/GraceParree/status/1383247260255801348) | advertise |
 | [GrahameSmith8@twitter](https://twitter.com/GrahameSmith8/status/1480915785505820677) | advertise |
+| [GraphicalDot@twitter](https://twitter.com/GraphicalDot/status/1551193287364849665) | advertise |
 | [graphilme@twitter](https://twitter.com/graphilme/status/1526665076924723200) | advertise |
 | [grarich123@twitter](https://twitter.com/grarich123/status/1548298364890267655) | advertise |
 | [GraysonDick10@twitter](https://twitter.com/GraysonDick10/status/1377270516231233538) | advertise |
