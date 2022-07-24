@@ -2417,6 +2417,7 @@ Do not create new issue or we will close it as duplicate.
 | [GopiKri84108993@twitter](https://twitter.com/GopiKri84108993/status/1397557588934463494) | advertise |
 | [gopu0000@twitter](https://twitter.com/gopu0000/status/1373964703701987330) | advertise |
 | [Gord45205715@twitter](https://twitter.com/Gord45205715/status/1389474643371692035) | advertise |
+| [gordoismyname@twitter](https://twitter.com/gordoismyname/status/1551007130945261581) | advertise |
 | [GordonLi20@twitter](https://twitter.com/GordonLi20/status/1380306671138914308) | advertise |
 | [Gosairohit3@twitter](https://twitter.com/Gosairohit3/status/1394526161581973505) | advertise |
 | [goseki@twitter](https://twitter.com/goseki/status/1395683930536251393) | advertise |
@@ -3873,8 +3874,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
