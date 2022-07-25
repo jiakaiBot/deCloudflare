@@ -2347,6 +2347,7 @@ Do not create new issue or we will close it as duplicate.
 | [Genius44697566@twitter](https://twitter.com/Genius44697566/status/1389792896690253824) | advertise |
 | [geolffrey_mena@twitter](https://twitter.com/geolffrey_mena/status/1462463345290797060) | advertise |
 | [georgegijo@twitter](https://twitter.com/georgegijo/status/1389736443904331778) | advertise |
+| [GeorgeMichaelH7@twitter](https://twitter.com/GeorgeMichaelH7/status/1551655020944318469) | advertise |
 | [Geoxis_co@twitter](https://twitter.com/Geoxis_co/status/1442723657147506693) | advertise |
 | [Germanyme150598@twitter](https://twitter.com/Germanyme150598/status/1533276349946662912) | advertise |
 | [getferdi@twitter](https://twitter.com/getferdi/status/1519038075669827586) | advertise |
