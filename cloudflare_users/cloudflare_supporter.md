@@ -157,6 +157,7 @@ Do not create new issue or we will close it as duplicate.
 | [abbas9iq3999@twitter](https://twitter.com/abbas9iq3999/status/1499537931542970370) | advertise |
 | [AbbottIV@twitter](https://twitter.com/AbbottIV/status/1508273424300400642) | advertise |
 | [abc2112pd@twitter](https://twitter.com/abc2112pd/status/1502652616492593154) | advertise |
+| [abc12361044955@twitter](https://twitter.com/abc12361044955/status/1551601353218490370) | advertise |
 | [ABCDBABY5@twitter](https://twitter.com/ABCDBABY5/status/1392538554518188032) | advertise |
 | [Abdelra65737648@twitter](https://twitter.com/Abdelra65737648/status/1399692942697189381) | advertise |
 | [abdennour_saleh@twitter](https://twitter.com/abdennour_saleh/status/1394348804124577798) | advertise |
@@ -3885,8 +3886,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -9032,6 +9033,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zideen7@twitter](https://twitter.com/Zideen7/status/1397625975207170049) | advertise |
 | [zierhut_alex@twitter](https://twitter.com/zierhut_alex/status/1439574775727333379) | advertise |
 | [zikintong@twitter](https://twitter.com/zikintong/status/1399674422471000065) | advertise |
+| [zikizac@twitter](https://twitter.com/zikizac/status/1551618644895055872) | advertise |
 | [zin2_myat@twitter](https://twitter.com/zin2_myat/status/1391688138884403202) | advertise |
 | [zinaung05642017@twitter](https://twitter.com/zinaung05642017/status/1399014483066908676) | advertise |
 | [ZinBoWin16@twitter](https://twitter.com/ZinBoWin16/status/1397036266697363458) | advertise |
