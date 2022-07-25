@@ -1687,6 +1687,7 @@ Do not create new issue or we will close it as duplicate.
 | [DateBoy5@twitter](https://twitter.com/DateBoy5/status/1393474499572535296) | advertise |
 | [DatFriiscoFella@twitter](https://twitter.com/DatFriiscoFella/status/1498121876345790465) | advertise |
 | [Datfro102@twitter](https://twitter.com/Datfro102/status/1494686737360384001) | advertise |
+| [DatLevan11@twitter](https://twitter.com/DatLevan11/status/1551518810795958272) | advertise |
 | [datnguy99682140@twitter](https://twitter.com/datnguy99682140/status/1387181211366268929) | advertise |
 | [daussbakri@twitter](https://twitter.com/daussbakri/status/1551307946943864833) | advertise |
 | [dautay19941995@twitter](https://twitter.com/dautay19941995/status/1383798640020312068) | advertise |
@@ -3881,8 +3882,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
