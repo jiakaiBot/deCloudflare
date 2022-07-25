@@ -1536,8 +1536,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -7099,6 +7099,7 @@ Do not create new issue or we will close it as duplicate.
 | [ShekarPallikon1@twitter](https://twitter.com/ShekarPallikon1/status/1546810934689411072) | advertise |
 | [shelattube@twitter](https://twitter.com/shelattube/status/1394830069550485507) | advertise |
 | [shemale_addict1@twitter](https://twitter.com/shemale_addict1/status/1490090426036101120) | advertise |
+| [shemky_@twitter](https://twitter.com/shemky_/status/1551341618485006336) | advertise |
 | [ShemWachira1@twitter](https://twitter.com/ShemWachira1/status/1540728454328377352) | advertise |
 | [SherifMKhattab1@twitter](https://twitter.com/SherifMKhattab1/status/1403105134972837893) | advertise |
 | [shhrwin@twitter](https://twitter.com/shhrwin/status/1380867620811857922) | advertise |
