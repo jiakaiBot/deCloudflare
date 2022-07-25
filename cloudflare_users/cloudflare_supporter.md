@@ -1536,8 +1536,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -8957,6 +8957,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZawNaingOo_10@twitter](https://twitter.com/ZawNaingOo_10/status/1386361502869819401) | advertise |
 | [Zawnyiyarzarth1@twitter](https://twitter.com/Zawnyiyarzarth1/status/1390875313500917762) | advertise |
 | [zawpain51983158@twitter](https://twitter.com/zawpain51983158/status/1391699694292586498) | advertise |
+| [ZawShin91893312@twitter](https://twitter.com/ZawShin91893312/status/1551386336158183424) | advertise |
 | [ZawThihaNaung3@twitter](https://twitter.com/ZawThihaNaung3/status/1397912907975860228) | advertise |
 | [zawwin12708716@twitter](https://twitter.com/zawwin12708716/status/1397568534096580608) | advertise |
 | [Zawyehtoo00@twitter](https://twitter.com/Zawyehtoo00/status/1546120245265731585) | advertise |
