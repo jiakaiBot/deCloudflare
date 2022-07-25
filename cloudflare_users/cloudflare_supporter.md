@@ -809,6 +809,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungPya55963621@twitter](https://twitter.com/AungPya55963621/status/1390364248237248515) | advertise |
 | [AungPyaeOo13@twitter](https://twitter.com/AungPyaeOo13/status/1394180169947095042) | advertise |
 | [AungPyaePyaeKy2@twitter](https://twitter.com/AungPyaePyaeKy2/status/1398164500486967296) | advertise |
+| [aungsanphyoak47@twitter](https://twitter.com/aungsanphyoak47/status/1551583582048595968) | advertise |
 | [AungShane1@twitter](https://twitter.com/AungShane1/status/1391394911291731969) | advertise |
 | [aungsithaw2@twitter](https://twitter.com/aungsithaw2/status/1395210029804888064) | advertise |
 | [AungSoe26762855@twitter](https://twitter.com/AungSoe26762855/status/1395043077866328067) | advertise |
@@ -1782,6 +1783,7 @@ Do not create new issue or we will close it as duplicate.
 | [DevilYTBVN@twitter](https://twitter.com/DevilYTBVN/status/1498285245761683460) | advertise |
 | [DeViL_jOkER7@twitter](https://twitter.com/DeViL_jOkER7/status/1386035714664456193) | advertise |
 | [devrajgujjar54@twitter](https://twitter.com/devrajgujjar54/status/1385292357449527296) | advertise |
+| [DevSub2@twitter](https://twitter.com/DevSub2/status/1551589055124893696) | advertise |
 | [dev_Songkran@twitter](https://twitter.com/dev_Songkran/status/1501017169001615361) | advertise |
 | [DewaGilang@twitter](https://twitter.com/DewaGilang/status/1549446977838284800) | advertise |
 | [dEWB11mxf4oTZkZ@twitter](https://twitter.com/dEWB11mxf4oTZkZ/status/1540327273143959552) | advertise |
@@ -3555,6 +3557,7 @@ Do not create new issue or we will close it as duplicate.
 | [justinvawter@twitter](https://twitter.com/justinvawter/status/1530392285401124864) | advertise |
 | [justinwjohn@twitter](https://twitter.com/justinwjohn/status/1490784558807011328) | advertise |
 | [justin_t_wesley@twitter](https://twitter.com/justin_t_wesley/status/1451976168446517259) | advertise |
+| [justonlyu01@twitter](https://twitter.com/justonlyu01/status/1551573685181763585) | advertise |
 | [just_twtuser@twitter](https://twitter.com/just_twtuser/status/1396088764192092160) | advertise |
 | [Juxk94@twitter](https://twitter.com/Juxk94/status/1392580129600286730) | advertise |
 | [juyelsk90758483@twitter](https://twitter.com/juyelsk90758483/status/1381798078714236931) | advertise |
