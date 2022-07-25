@@ -2356,6 +2356,7 @@ Do not create new issue or we will close it as duplicate.
 | [GGHIMUOFFICIAL@twitter](https://twitter.com/GGHIMUOFFICIAL/status/1540651355462721536) | advertise |
 | [GgMg04587862@twitter](https://twitter.com/GgMg04587862/status/1392000179360788480) | advertise |
 | [GgUu18976278@twitter](https://twitter.com/GgUu18976278/status/1535274513042120705) | advertise |
+| [ghafoori1020@twitter](https://twitter.com/ghafoori1020/status/1551674539209285633) | advertise |
 | [ghano_gh@twitter](https://twitter.com/ghano_gh/status/1403155628667850752) | advertise |
 | [Ghanshy81036106@twitter](https://twitter.com/Ghanshy81036106/status/1391609026148855812) | advertise |
 | [ghan_fkr@twitter](https://twitter.com/ghan_fkr/status/1375931749444677633) | advertise |
@@ -3887,8 +3888,8 @@ Do not create new issue or we will close it as duplicate.
 | [kimthi0107@twitter](https://twitter.com/kimthi0107/status/1405917641118781440) | advertise |
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8765,6 +8766,7 @@ Do not create new issue or we will close it as duplicate.
 | [yasinozvar@twitter](https://twitter.com/yasinozvar/status/1449656098777088000) | advertise |
 | [YasinUmur@twitter](https://twitter.com/YasinUmur/status/1411232485376245760) | moral (advertise) |
 | [Yassen75@twitter](https://twitter.com/Yassen75/status/1528466535928451073) | advertise |
+| [YassenAljassem@twitter](https://twitter.com/YassenAljassem/status/1551676602236502016) | advertise |
 | [yasunrik@twitter](https://twitter.com/yasunrik/status/1410258132769525760) | moral (advertise) |
 | [Yate315142663@twitter](https://twitter.com/Yate315142663/status/1385109096999706629) | advertise |
 | [Yatendr59558289@twitter](https://twitter.com/Yatendr59558289/status/1398716969054998528) | advertise |
