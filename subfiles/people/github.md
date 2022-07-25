@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare WARP issues in some locations](https://github.com/MatBenfield/news/issues/369)
 - [New version of linuxserver/mods:universal-cloudflared breaks (version = 2022.7.1)](https://github.com/linuxserver/docker-mods/issues/403)
 - [micromamba Corrupt package cache?](https://github.com/mamba-org/mamba/issues/1817)
 - [CloudFlare Magic Transit APIs reduced availability.](https://github.com/MatBenfield/news/issues/223)
