@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,585 |
+| com | 2,587 |
 | net | 1,487 |
 | social | 1,140 |
 | org | 1,065 |
@@ -7638,6 +7638,7 @@ Here's a list of public Fediverse services.
 | inzeiten.de | No |
 | io.lu | Yes |
 | io0288.cn | No |
+| io18.ovh | No |
 | io18.top | No |
 | ioc.exchange | No |
 | ioer.pw | No |
@@ -8597,6 +8598,7 @@ Here's a list of public Fediverse services.
 | kleinheld.ch | No |
 | kleinhitpass.de | No |
 | kleinke.social | No |
+| kleinrensing.com | No |
 | kleinrot.net | No |
 | kleio.dev | No |
 | klemorali.guru | No |
@@ -12302,6 +12304,7 @@ Here's a list of public Fediverse services.
 | nya.house | No |
 | nya.one | Yes |
 | nya.rest | Yes |
+| nya.show | Yes |
 | nya.social | No |
 | nyaa.social | No |
 | nyaa.tech | Yes |
@@ -13416,6 +13419,7 @@ Here's a list of public Fediverse services.
 | playtime.fm | No |
 | playvicious.social | No |
 | playyers.com | No |
+| ple-architecture.eu | No |
 | plead.help | No |
 | pleasant.land | No |
 | please-yiff.me | No |
@@ -15574,6 +15578,7 @@ Here's a list of public Fediverse services.
 | slimed.org | No |
 | slipfox.xyz | No |
 | slippy.xyz | Yes |
+| sllimnod.com | No |
 | slobbe.ch | No |
 | sloths.club | Yes |
 | slothy.win | Yes |
@@ -17873,6 +17878,7 @@ Here's a list of public Fediverse services.
 | unooverse.com | No |
 | unordentlich.space | Yes |
 | unperson.us | No |
+| unraids.ml | No |
 | unreality.pink | No |
 | unrelenting.technology | No |
 | unroot.de | No |
@@ -19445,8 +19451,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,771 |
-| Normal | 15,631 |
+| Cloudflare | 3,772 |
+| Normal | 15,636 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
