@@ -1,0 +1,26 @@
+table {
+    border-collapse: collapse;
+}
+
+table > thead th {
+    border: 1px solid black;
+    border-bottom: 2px solid black;
+}
+
+td {
+    border: 1px solid black;
+    padding: 0.8em;
+}
+
+img {
+    max-width: 100%;
+}
+
+summary > * {
+    /* 
+     * Make summary display on the same line, instead of
+     * splitting into multiple lines
+     */
+
+    display: inline-flex;
+}
