@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,587 |
-| net | 1,487 |
+| net | 1,488 |
 | social | 1,140 |
 | org | 1,065 |
 | de | 944 |
@@ -802,7 +802,7 @@ Here's a list of public Fediverse services.
 | amosamos.net | No |
 | amplifi.casa | No |
 | amplifie.red | No |
-| amplifyukraine.eu | No |
+| amplifyukraine.eu | Yes |
 | amsterdon.nl | No |
 | amum.al | Yes |
 | amumal.party | No |
@@ -2729,6 +2729,7 @@ Here's a list of public Fediverse services.
 | chor-blog.de | No |
 | chordtoll.com | Yes |
 | chordwiki.org | Yes |
+| chorok.cafe | No |
 | chorus.space | No |
 | chotchkies.club | Yes |
 | chotto.moe | No |
@@ -9782,7 +9783,7 @@ Here's a list of public Fediverse services.
 | m2hq.net | No |
 | m400cloud.com | No |
 | m4570.xyz | No |
-| m4sk.in | No |
+| m4sk.in | Yes |
 | m544.net | Yes |
 | m6n.jp | No |
 | m86.work | Yes |
@@ -10682,7 +10683,7 @@ Here's a list of public Fediverse services.
 | microkod.xyz | Yes |
 | micromookie.com | No |
 | microprojects.de | No |
-| microswit.ch | No |
+| microswit.ch | Yes |
 | middleearth.fr | No |
 | midline.pl | No |
 | midnight-cms.com | No |
@@ -11464,6 +11465,7 @@ Here's a list of public Fediverse services.
 | mytechdont.work | No |
 | mytechir.fr | No |
 | mythago.space | No |
+| mythik.co.uk | No |
 | mytoot.de | No |
 | mytoot.net | No |
 | mytter.jp | No |
@@ -15453,7 +15455,7 @@ Here's a list of public Fediverse services.
 | simstodon.com | No |
 | simulacron.de | No |
 | sina.moe | No |
-| sinblr.com | Yes |
+| sinblr.com | No |
 | sindicato.social | No |
 | sindominio.net | No |
 | singee.site | Yes |
@@ -17115,6 +17117,7 @@ Here's a list of public Fediverse services.
 | tiotrom.com | No |
 | tippetarius.ru | No |
 | titis.xyz | Yes |
+| titou.net | No |
 | titouan.co | No |
 | titoux.info | No |
 | tits.moe | No |
@@ -19451,8 +19454,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,772 |
-| Normal | 15,636 |
+| Cloudflare | 3,774 |
+| Normal | 15,637 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
