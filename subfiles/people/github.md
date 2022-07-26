@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare rejects connections](https://github.com/mirei83/VeChain-PublicNodes/issues/4)
 - [Error when starting up the exe](https://github.com/amprocode/Bloxflip-rain-notifier/issues/12)
 - [Issues when deploying to a Cloudflare Worker](https://github.com/pocketbase/js-sdk/issues/18)
 - [CloudFlare WARP issues in some locations](https://github.com/MatBenfield/news/issues/369)
