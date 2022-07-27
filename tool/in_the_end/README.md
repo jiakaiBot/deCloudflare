@@ -1,5 +1,5 @@
-The End,
+The End
 
 which
 
-you asked for it.
+you asked for it
