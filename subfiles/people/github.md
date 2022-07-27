@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [gl.projects.list (..., all=True) fails.](https://github.com/python-gitlab/python-gitlab/issues/2190)
 - [SSR web worker build with noExternal: true omit dynamic imports](https://github.com/vitejs/vite/issues/9385)
 - [Downloading file always drop a timeout exception](https://github.com/chrome-php/chrome/issues/400)
 - [CloudFlare rejects connections](https://github.com/mirei83/VeChain-PublicNodes/issues/4)
