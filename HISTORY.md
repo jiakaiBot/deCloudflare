@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-07-27: [Spectrum service impact in Osaka, JP](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sdnk1ckwfmsl)
 - 2022-07-26: [Issues with our Bring Your Own IP (BYOIP) On-Demand feature](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/747rcg7mw89p)
 - 2022-07-22: [Issues in Miami, FL](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mn5xjdtzz9y8)
 - 2022-07-21: [Issues in Indonesia](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7ylz0sfddj29)
