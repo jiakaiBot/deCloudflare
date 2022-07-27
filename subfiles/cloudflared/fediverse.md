@@ -9195,7 +9195,7 @@ Here's a list of public Fediverse services.
 | lewd.host | Yes |
 | lewd.network | No |
 | lewd.pictures | No |
-| lewd.pm | No |
+| lewd.pm | Yes |
 | lewd.today | No |
 | lewd.town | No |
 | lewd.website | No |
@@ -19454,8 +19454,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,774 |
-| Normal | 15,637 |
+| Cloudflare | 3,775 |
+| Normal | 15,636 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
