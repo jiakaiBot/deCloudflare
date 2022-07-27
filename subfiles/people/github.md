@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Download attached PDFs in the Browser's context](https://github.com/JabRef/JabRef-Browser-Extension/issues/481)
 - [Video freezes between second 3 to 6 and forwards playing](https://github.com/videojs/video.js/issues/7855)
 - [gl.projects.list (..., all=True) fails.](https://github.com/python-gitlab/python-gitlab/issues/2190)
 - [SSR web worker build with noExternal: true omit dynamic imports](https://github.com/vitejs/vite/issues/9385)
