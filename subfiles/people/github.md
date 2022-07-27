@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [SSR web worker build with noExternal: true omit dynamic imports](https://github.com/vitejs/vite/issues/9385)
 - [Downloading file always drop a timeout exception](https://github.com/chrome-php/chrome/issues/400)
 - [CloudFlare rejects connections](https://github.com/mirei83/VeChain-PublicNodes/issues/4)
 - [Error when starting up the exe](https://github.com/amprocode/Bloxflip-rain-notifier/issues/12)
