@@ -347,6 +347,7 @@ Do not create new issue or we will close it as duplicate.
 | [AkhmalHaziq@twitter](https://twitter.com/AkhmalHaziq/status/1392301139526258694) | advertise |
 | [Akira47150780@twitter](https://twitter.com/Akira47150780/status/1400190504193589260) | advertise |
 | [Akito28238860@twitter](https://twitter.com/Akito28238860/status/1493097617219534849) | advertise |
+| [AkMonk7@twitter](https://twitter.com/AkMonk7/status/1552111416982880257) | advertise |
 | [AKO35197755@twitter](https://twitter.com/AKO35197755/status/1391902794236403713) | advertise |
 | [Akshada44184872@twitter](https://twitter.com/Akshada44184872/status/1389269449371316224) | advertise |
 | [akshai45422138@twitter](https://twitter.com/akshai45422138/status/1386717813822287873) | advertise |
@@ -3509,6 +3510,7 @@ Do not create new issue or we will close it as duplicate.
 | [jokosegoro86@twitter](https://twitter.com/jokosegoro86/status/1440170771238641672) | advertise |
 | [Jomaung1@twitter](https://twitter.com/Jomaung1/status/1397903092956372992) | advertise |
 | [jonathanbourke@twitter](https://twitter.com/jonathanbourke/status/1473258607886143492) | advertise |
+| [jonathanjohnbtc@twitter](https://twitter.com/jonathanjohnbtc/status/1552098357308313600) | advertise |
 | [JonDotJames@twitter](https://twitter.com/JonDotJames/status/1531019341130518529) | advertise |
 | [Joner07322692@twitter](https://twitter.com/Joner07322692/status/1397035374258520066) | advertise |
 | [Jone_war@twitter](https://twitter.com/Jone_war/status/1390029390478680067) | advertise |
@@ -4617,6 +4619,7 @@ Do not create new issue or we will close it as duplicate.
 | [m414gold12@twitter](https://twitter.com/m414gold12/status/1379624576355688448) | advertise |
 | [m42383619@twitter](https://twitter.com/m42383619/status/1389585140200861700) | advertise |
 | [M2773299429@twitter](https://twitter.com/M2773299429/status/1392920911179878404) | advertise |
+| [Ma7moud3arf@twitter](https://twitter.com/Ma7moud3arf/status/1552086942870904833) | advertise |
 | [Ma91Myoaung@twitter](https://twitter.com/Ma91Myoaung/status/1392153948098744323) | advertise |
 | [mackendy94@twitter](https://twitter.com/mackendy94/status/1478395983893565447) | advertise |
 | [maclordzafra@twitter](https://twitter.com/maclordzafra/status/1379484426510422031) | advertise |
@@ -6163,6 +6166,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ph40906000@twitter](https://twitter.com/Ph40906000/status/1478375281543065617) | advertise |
 | [phaethanmg@twitter](https://twitter.com/phaethanmg/status/1391363746556088324) | advertise |
 | [phamhuhu@twitter](https://twitter.com/phamhuhu/status/1377640760888029184) | advertise |
+| [phamnak179@twitter](https://twitter.com/phamnak179/status/1552091324584988672) | advertise |
 | [PhamPho73652277@twitter](https://twitter.com/PhamPho73652277/status/1551942013079064577) | advertise |
 | [phamtanthi97@twitter](https://twitter.com/phamtanthi97/status/1381221518173085696) | advertise |
 | [PhamThaiSon6@twitter](https://twitter.com/PhamThaiSon6/status/1377042683378601987) | advertise |
@@ -6515,6 +6519,7 @@ Do not create new issue or we will close it as duplicate.
 | [quangtien93@twitter](https://twitter.com/quangtien93/status/1504243847857008645) | advertise |
 | [Quangtran190988@twitter](https://twitter.com/Quangtran190988/status/1381890326990782465) | advertise |
 | [QuangTu91460693@twitter](https://twitter.com/QuangTu91460693/status/1505800949725470724) | advertise |
+| [QuangTuyen495@twitter](https://twitter.com/QuangTuyen495/status/1552090522541387776) | advertise |
 | [QuangV32598684@twitter](https://twitter.com/QuangV32598684/status/1551996008543899648) | advertise |
 | [quangvi23804819@twitter](https://twitter.com/quangvi23804819/status/1392901696733413377) | advertise |
 | [QuantusTecSol@twitter](https://twitter.com/QuantusTecSol/status/1425608252662992896) | advertise |
@@ -8120,6 +8125,7 @@ Do not create new issue or we will close it as duplicate.
 | [TraiDm50811820@twitter](https://twitter.com/TraiDm50811820/status/1398131670214057984) | advertise |
 | [TramNgu43948092@twitter](https://twitter.com/TramNgu43948092/status/1469917328255041536) | advertise |
 | [tranceattic@twitter](https://twitter.com/tranceattic/status/1468814229717274628) | advertise |
+| [trandinhtien99@twitter](https://twitter.com/trandinhtien99/status/1552107910377144321) | advertise |
 | [trandunghl@twitter](https://twitter.com/trandunghl/status/1519338460704026626) | advertise |
 | [tranhaonam331@twitter](https://twitter.com/tranhaonam331/status/1482005738461757454) | advertise |
 | [trantha16219627@twitter](https://twitter.com/trantha16219627/status/1480025129786564613) | advertise |
