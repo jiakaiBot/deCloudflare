@@ -422,6 +422,7 @@ Do not create new issue or we will close it as duplicate.
 | [Almosmn8@twitter](https://twitter.com/Almosmn8/status/1398362732534112256) | advertise |
 | [alnahas2020@twitter](https://twitter.com/alnahas2020/status/1526095253475835904) | advertise |
 | [AloneBo61596924@twitter](https://twitter.com/AloneBo61596924/status/1491312904473550848) | advertise |
+| [Alsadar13@twitter](https://twitter.com/Alsadar13/status/1552128101655924736) | advertise |
 | [AlsamiDr@twitter](https://twitter.com/AlsamiDr/status/1390431366794432516) | advertise |
 | [AltafBh79770188@twitter](https://twitter.com/AltafBh79770188/status/1400425714541756416) | advertise |
 | [Altan41272744@twitter](https://twitter.com/Altan41272744/status/1379740295429038083) | advertise |
@@ -3809,6 +3810,7 @@ Do not create new issue or we will close it as duplicate.
 | [Khanh101019988@twitter](https://twitter.com/Khanh101019988/status/1546537418362597377) | advertise |
 | [khanhanh242002@twitter](https://twitter.com/khanhanh242002/status/1546806155376095232) | advertise |
 | [KhanhDi34331628@twitter](https://twitter.com/KhanhDi34331628/status/1480798001580756993) | advertise |
+| [KhanhKLL@twitter](https://twitter.com/KhanhKLL/status/1552116669967106048) | advertise |
 | [khanlar8@twitter](https://twitter.com/khanlar8/status/1396061782540656641) | advertise |
 | [khanpro1903@twitter](https://twitter.com/khanpro1903/status/1389267563633283073) | advertise |
 | [khant45034632@twitter](https://twitter.com/khant45034632/status/1399752623771635715) | advertise |
@@ -6197,6 +6199,7 @@ Do not create new issue or we will close it as duplicate.
 | [PheThitZaw@twitter](https://twitter.com/PheThitZaw/status/1402660507362861060) | advertise |
 | [Phghoang11@twitter](https://twitter.com/Phghoang11/status/1515348519896317953) | advertise |
 | [PhHong20@twitter](https://twitter.com/PhHong20/status/1389017688685498370) | advertise |
+| [PhibulyWr@twitter](https://twitter.com/PhibulyWr/status/1552136900596858882) | advertise |
 | [philcgeo@twitter](https://twitter.com/philcgeo/status/1549340881584635904) | advertise |
 | [PhillipXin@twitter](https://twitter.com/PhillipXin/status/1378201985539772416) | advertise |
 | [PhiLong702@twitter](https://twitter.com/PhiLong702/status/1549900445275275264) | advertise |
@@ -7271,6 +7274,7 @@ Do not create new issue or we will close it as duplicate.
 | [SittNai57098834@twitter](https://twitter.com/SittNai57098834/status/1394954816099700736) | advertise |
 | [SittNai87284415@twitter](https://twitter.com/SittNai87284415/status/1385553838514442244) | advertise |
 | [SittNaw@twitter](https://twitter.com/SittNaw/status/1389524975523008516) | advertise |
+| [SittNye48589502@twitter](https://twitter.com/SittNye48589502/status/1552124182284353536) | advertise |
 | [Sivathanushan2@twitter](https://twitter.com/Sivathanushan2/status/1385688860743536640) | advertise |
 | [SiyaRam1000@twitter](https://twitter.com/SiyaRam1000/status/1395305720472506370) | advertise |
 | [si_iyo@twitter](https://twitter.com/si_iyo/status/1388647216412127234) | advertise |
