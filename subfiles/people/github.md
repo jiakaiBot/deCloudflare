@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to access server from certain interface after upgrade to 5.0.0](https://github.com/RocketChat/Rocket.Chat/issues/26379)
 - [Fix: ERROR KeyError: 'transactions'](https://github.com/siruku6/fx_alarm_py/issues/217)
 - [Download attached PDFs in the Browser's context](https://github.com/JabRef/JabRef-Browser-Extension/issues/481)
 - [Video freezes between second 3 to 6 and forwards playing](https://github.com/videojs/video.js/issues/7855)
