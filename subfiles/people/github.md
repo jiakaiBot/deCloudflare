@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Video freezes between second 3 to 6 and forwards playing](https://github.com/videojs/video.js/issues/7855)
 - [gl.projects.list (..., all=True) fails.](https://github.com/python-gitlab/python-gitlab/issues/2190)
 - [SSR web worker build with noExternal: true omit dynamic imports](https://github.com/vitejs/vite/issues/9385)
 - [Downloading file always drop a timeout exception](https://github.com/chrome-php/chrome/issues/400)
