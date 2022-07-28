@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,488 |
 | social | 1,140 |
 | org | 1,065 |
-| de | 944 |
+| de | 945 |
 
 
 - Mastodon, Pleroma, etc
@@ -1201,6 +1201,7 @@ Here's a list of public Fediverse services.
 | astoundingteam.com | No |
 | astragroup.info | Yes |
 | astral-gate.network | No |
+| astralchan.xyz | No |
 | astro.clinic | Yes |
 | astrolaboratory.club | No |
 | astrolovy.com | No |
@@ -7114,6 +7115,7 @@ Here's a list of public Fediverse services.
 | hordearii.fr | No |
 | horens.audio | No |
 | horiedon.com | No |
+| horizin.de | No |
 | hormonzicken.party | Yes |
 | horner.tj | Yes |
 | horns.by | Yes |
@@ -9706,7 +9708,7 @@ Here's a list of public Fediverse services.
 | lumpen.xyz | No |
 | luna.fyi | Yes |
 | luna.town | No |
-| luna.vg | No |
+| luna.vg | Yes |
 | lunadon.org | No |
 | lunai.re | No |
 | lunardream.space | No |
@@ -19454,8 +19456,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,775 |
-| Normal | 15,636 |
+| Cloudflare | 3,776 |
+| Normal | 15,637 |
 
 
-### 19.4% of public Fediverse services are using Cloudflare.
+### 19.5% of public Fediverse services are using Cloudflare.
