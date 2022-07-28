@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-07-28: [Network Performance Issues in Paris, France (CDG)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qk6p0t5xyh2r)
 - 2022-07-27: [Spectrum service impact in Osaka, JP](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sdnk1ckwfmsl)
 - 2022-07-26: [Issues with our Bring Your Own IP (BYOIP) On-Demand feature](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/747rcg7mw89p)
 - 2022-07-22: [Issues in Miami, FL](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mn5xjdtzz9y8)
