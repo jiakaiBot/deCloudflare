@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Support to enable "calculate_percentiles" on "datadog_logs_metric" resources](https://github.com/DataDog/terraform-provider-datadog/issues/1510)
 - [Unable to access server from certain interface after upgrade to 5.0.0](https://github.com/RocketChat/Rocket.Chat/issues/26379)
 - [Fix: ERROR KeyError: 'transactions'](https://github.com/siruku6/fx_alarm_py/issues/217)
 - [Download attached PDFs in the Browser's context](https://github.com/JabRef/JabRef-Browser-Extension/issues/481)
