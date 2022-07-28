@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [error when serving connection](https://github.com/valyala/fasthttp/issues/1352)
 - [Authentik with generic OIDC social login redirecting to default login screen](https://github.com/goauthentik/authentik/issues/3327)
 - [Exempt iCloud private relay IP ranges from rate-limiting](https://github.com/openstreetmap/operations/issues/709)
 - [Support to enable "calculate_percentiles" on "datadog_logs_metric" resources](https://github.com/DataDog/terraform-provider-datadog/issues/1510)
