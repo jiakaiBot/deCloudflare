@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Exempt iCloud private relay IP ranges from rate-limiting](https://github.com/openstreetmap/operations/issues/709)
 - [Support to enable "calculate_percentiles" on "datadog_logs_metric" resources](https://github.com/DataDog/terraform-provider-datadog/issues/1510)
 - [Unable to access server from certain interface after upgrade to 5.0.0](https://github.com/RocketChat/Rocket.Chat/issues/26379)
 - [Fix: ERROR KeyError: 'transactions'](https://github.com/siruku6/fx_alarm_py/issues/217)
