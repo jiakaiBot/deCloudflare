@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [rule34hentai.net resolve file URL chokes on swf files](https://github.com/Nandaka/DanbooruDownloader/issues/266)
 - [error when serving connection](https://github.com/valyala/fasthttp/issues/1352)
 - [Authentik with generic OIDC social login redirecting to default login screen](https://github.com/goauthentik/authentik/issues/3327)
 - [Exempt iCloud private relay IP ranges from rate-limiting](https://github.com/openstreetmap/operations/issues/709)
