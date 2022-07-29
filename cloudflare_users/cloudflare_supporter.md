@@ -6508,6 +6508,7 @@ Do not create new issue or we will close it as duplicate.
 | [PoeChitEi2@twitter](https://twitter.com/PoeChitEi2/status/1405041271559753729) | advertise |
 | [PoePoe76729284@twitter](https://twitter.com/PoePoe76729284/status/1393026229096222724) | advertise |
 | [poetrasingkep@twitter](https://twitter.com/poetrasingkep/status/1378024363211988993) | advertise |
+| [poetsunday@twitter](https://twitter.com/poetsunday/status/1552810499917729792) | advertise |
 | [poezijasustine@twitter](https://twitter.com/poezijasustine/status/1395370368530010113) | advertise |
 | [poe_yaung@twitter](https://twitter.com/poe_yaung/status/1482158797007331328) | advertise |
 | [PojiRasip@twitter](https://twitter.com/PojiRasip/status/1399647808789966856) | advertise |
