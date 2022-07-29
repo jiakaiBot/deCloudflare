@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,590 |
-| net | 1,488 |
+| com | 2,591 |
+| net | 1,490 |
 | social | 1,142 |
-| org | 1,066 |
-| de | 945 |
+| org | 1,067 |
+| de | 946 |
 
 
 - Mastodon, Pleroma, etc
@@ -2290,6 +2290,7 @@ Here's a list of public Fediverse services.
 | bus-hit.me | No |
 | bushidodreams.com | Yes |
 | busshi.moe | No |
+| bussy.gallery | No |
 | bussy.monster | No |
 | buta.moe | Yes |
 | butash.net | No |
@@ -4379,7 +4380,7 @@ Here's a list of public Fediverse services.
 | dv.buzz | No |
 | dver.se | No |
 | dvk.co | No |
-| dvor.link | No |
+| dvor.link | Yes |
 | dvsn.net | No |
 | dvstrg.social | Yes |
 | dwar.fi | No |
@@ -6980,6 +6981,7 @@ Here's a list of public Fediverse services.
 | hina.house | Yes |
 | hinabita.com | No |
 | hinaloe.net | No |
+| hindelaufen.com | No |
 | hindsightt.social | No |
 | hingst.net | No |
 | hintersphere.com | No |
@@ -7583,6 +7585,7 @@ Here's a list of public Fediverse services.
 | inrupt.net | No |
 | inscope.social | No |
 | insert.moe | Yes |
+| insitu.coop | No |
 | insky.jp | Yes |
 | insm.cf | No |
 | inso.ovh | No |
@@ -10231,7 +10234,7 @@ Here's a list of public Fediverse services.
 | mastodon.online | No |
 | mastodon.org.es | Yes |
 | mastodon.org.ua | Yes |
-| mastodon.org.uk | No |
+| mastodon.org.uk | Yes |
 | mastodon.osaka | No |
 | mastodon.pe | No |
 | mastodon.pet | No |
@@ -11019,6 +11022,7 @@ Here's a list of public Fediverse services.
 | momoiro9.ro | No |
 | momok.xyz | Yes |
 | momoyo.digital | No |
+| mona.do | Yes |
 | monadnock.ca | No |
 | monado.ren | Yes |
 | monads.online | No |
@@ -11038,6 +11042,7 @@ Here's a list of public Fediverse services.
 | monkeyorg.space | No |
 | monkeystew.net | No |
 | monkeystew.social | No |
+| monlycee.net | No |
 | monmusu.me | No |
 | mono.cafe | Yes |
 | monocles.social | No |
@@ -14653,6 +14658,7 @@ Here's a list of public Fediverse services.
 | roshless.me | No |
 | rosnovsky.us | Yes |
 | ross154.net | No |
+| roter-kreis.de | No |
 | roteserver.de | No |
 | rotten.city | No |
 | rotten.network | No |
@@ -18222,6 +18228,7 @@ Here's a list of public Fediverse services.
 | visible.pictures | No |
 | visionel.de | No |
 | visionon.tv | No |
+| visionroot.org | No |
 | visonthe.net | Yes |
 | viste.pt | No |
 | visualsoul.uk | No |
@@ -18748,6 +18755,7 @@ Here's a list of public Fediverse services.
 | woof.group | No |
 | woolly.world | No |
 | woop.cf | No |
+| woox.cc | Yes |
 | word.builders | No |
 | worddump.com | Yes |
 | worddump.xyz | No |
@@ -19118,6 +19126,7 @@ Here's a list of public Fediverse services.
 | yesil.club | No |
 | yesterweb.org | No |
 | yeswas.pl | Yes |
+| yeswiki.net | No |
 | yeti-factory.org | No |
 | yggdrasil.social | No |
 | ygo.pub | Yes |
@@ -19474,8 +19483,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,782 |
-| Normal | 15,649 |
+| Cloudflare | 3,786 |
+| Normal | 15,654 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
