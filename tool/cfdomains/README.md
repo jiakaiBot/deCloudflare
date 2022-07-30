@@ -1,5 +1,5 @@
 # CfDomains
-### v1.0.3
+### v1.0.4
 
 CLI tool to look up Cloudflare domain list
 
@@ -15,8 +15,9 @@ CLI tool to look up Cloudflare domain list
 
 ----
 
+
 ```
-        CfDomains  v1.0.3
+        CfDomains  v1.0.4
 
 Usage:
         cfdomains [| --online ]www.example.com
@@ -26,6 +27,7 @@ Usage:
         cfdomains [--report|--delist] www.example.com
         cfdomains [--categorise[|online]|--categorize[|online]] input.txt export.csv
         cfdomains --cleanlink[|online] story.html story_publish.html
+        cfdomains --warrior
 
 Details:
         cfdomains (Base Domain or FQDN)
@@ -61,11 +63,19 @@ Details:
 
         cfdomains --categorise[|online]|categorize[|online] (List file; URL or FQDNs) (Output file)
                 Export Listed/NotListed status in CSV format
-                With online: Use Online API / Without it: Use Offline files
+                With online: Use Online API / Without: Use Offline files
                 e.g. cfdomains --categoriseonline dirtyUrls.txt /tmp/washing.csv
 
         cfdomains --cleanlink[|online] (Document; Text, HTML, Markdown) (Output file)
                 Replace infected links in document
-                With online: Use Online API / Without it: Use Offline files
+                With online: Use Online API / Without: Use Offline files
                 e.g. cfdomains --cleanlinkonline sunny.md /tmp/sunnyCleaned.md
+
+        cfdomains --warrior
+                Run this to help with the #Karma domain verification efforts.
+                This will download some domain from #Karma and report changes.
 ```
+
+_We need warriors to assist our hunters :)_
+
+![](../../image/what_are_you_hunting_cloudflare.png)
