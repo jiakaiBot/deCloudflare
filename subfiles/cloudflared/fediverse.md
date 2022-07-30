@@ -18414,6 +18414,7 @@ Here's a list of public Fediverse services.
 | wandzeitung.xyz | No |
 | wangdahoo.space | No |
 | wangofett.com | No |
+| wants.coffee | No |
 | wantscuddl.es | No |
 | wapanafa.org | No |
 | wapnitsky.com | No |
@@ -19484,7 +19485,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,786 |
-| Normal | 15,654 |
+| Normal | 15,655 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
