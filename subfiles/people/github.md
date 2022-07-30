@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Remote T Returns 404 When Connected to O with ServiceAddr as Domain](https://github.com/livepeer/go-livepeer/issues/2549)
 - [Mangahub stopped working](https://github.com/TheNetsky/netskys-extensions/issues/37)
 - [Multiprocessing Error returned when ran from Docker](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/752)
 - [Dynamic require of "crypto" is not supported on edge functions](https://github.com/vercel/vercel/issues/8281)
