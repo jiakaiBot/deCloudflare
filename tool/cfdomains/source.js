@@ -1,7 +1,10 @@
-const sVERSION = '1.0.3',
+const sVERSION = '1.0.4',
+   sCFGFV = '1.0.4',
    args = process.argv,
    fs = require('fs'),
    rle = require('readline'),
+   cto = require('crypto'),
+   dns = require('dns'),
    confFile = require('os').homedir() + '/.cfdomains_conf';
 const {
    Curl,
@@ -15,7 +18,7 @@ cur1.setOpt('FOLLOWLOCATION', true);
 cur1.setOpt('CONNECTTIMEOUT', 8);
 cur1.setOpt('TIMEOUT', 660);
 let junk, myConfig = {};
-function saveConf(k = 'cf', v = 'deny') {
+function saveConf(k = 'cf', v = sCFGFV) {
    myConfig[k] = v;
    fs.writeFileSync(confFile, JSON.stringify(myConfig));
 }
@@ -26,7 +29,7 @@ if (fs.existsSync(confFile)) {
       myConfig['cf'] = junk['cf'];
       myConfig['save'] = junk['save'] || './cfdomains_Data/';
       myConfig['proxy'] = junk['proxy'] || '';
-      myConfig['apiurl'] = junk['apiurl'] || '';
+      myConfig['helper'] = junk['helper'] || '';
    } else {
       try {
          fs.unlinkSync(confFile);
@@ -1220,17 +1223,17 @@ async function do_dlFiles() {
    }
    process.exit();
 }
-function hitAPI(dom, t = '') {
+function asking(qs) {
    return new Promise((okay, nope) => {
       const curl = cur1.dupHandle(false);
-      curl.setOpt('URL', 'https://karma.crimeflare.eu.org/api/is_cf.php');
+      curl.setOpt('URL', 'https://karma.crimeflare.eu.org:1984/api/cfdomains/');
       curl.setOpt('USERAGENT', 'CfDomains v' + sVERSION);
       if (myConfig['proxy'] != '') {
          curl.setOpt('HTTPPROXYTUNNEL', 1);
          curl.setOpt('PROXY', 'socks5h://' + myConfig['proxy'] + '/');
       }
       curl.setOpt(Curl.option.POST, true);
-      curl.setOpt(Curl.option.POSTFIELDS, 'ana=' + t + '&f=' + dom);
+      curl.setOpt(Curl.option.POSTFIELDS, qs);
       curl.on('error', (er, ec) => {
          curl.close();
          okay('');
@@ -1273,13 +1276,136 @@ async function do_lookupOnline(fqdn) {
    if (!is_domain(dom)) {
       sayExit('n');
    }
-   let w = await hitAPI(fqdn);
+   let w = await asking('f=' + fqdn);
    if (w == '[true,true]') {
       sayExit('y');
    } else if (w == '[true,false]') {
       sayExit('n');
    } else {
       sayExit('e');
+   }
+}
+function dnsquery(t, q) {
+   return new Promise((okay, nope) => {
+      if (t == 'NS') {
+         dns.resolveNs(q, (err, addresses) => {
+            if (err) {
+               okay([false, 'You are offline or this is not clean connection.']);
+            } else if (addresses.length == 0) {
+               okay([true, 'This is not clean connection.']);
+            } else {
+               okay([true, 'OK']);
+            }
+         });
+      }
+      if (t == 'A') {
+         dns.resolve4(q, (err, addresses) => {
+            if (err) {
+               okay([false, 'You are offline or this is not clean connection.']);
+            } else if (addresses.length == 0) {
+               okay([true, 'This is not clean connection.']);
+            } else {
+               okay([true, 'OK']);
+            }
+         });
+      }
+   });
+}
+function echot(s) {
+   let t = new Date();
+   console.log('[' + t.getHours() + ':' + t.getMinutes() + ':' + t.getSeconds() + ']  ' + s);
+}
+function sleep(ms) {
+   return new Promise((resolve) => {
+      setTimeout(resolve, ms);
+   });
+}
+async function do_warrior() {
+   if (myConfig['helper'].length != 64) {
+      forceExit('This is random and we NEVER track you. This is for preventing abuse.');
+   }
+   console.log('======================');
+   console.log('Press CTRL+C to stop.');
+   console.log("======================\n");
+   echot('Starting Warrior ' + myConfig['helper']);
+   junk = await dnsquery('NS', 'debian.org');
+   if (junk[1] != 'OK') {
+      forceExit(junk[1]);
+   }
+   junk = await dnsquery('A', 'deb.debian.org');
+   if (junk[1] != 'OK') {
+      forceExit(junk[1]);
+   }
+   echot('Connecting...');
+   junk = await asking('do=init&hv=' + myConfig['helper']);
+   if (junk.indexOf('[') !== 0) {
+      forceExit('Unable to connect.');
+   }
+   junk = JSON.parse(junk);
+   if (!junk[0]) {
+      forceExit('Unable to connect.');
+   }
+   echot(junk[1]);
+   let doubt = 0;
+   while (true) {
+      await sleep(500);
+      echot('Getting');
+      junk = await asking('do=get&hv=' + myConfig['helper']);
+      if (junk.indexOf('[') !== 0) {
+         forceExit('Unable to connect.');
+      }
+      junk = JSON.parse(junk);
+      if (!junk[0]) {
+         forceExit(junk[1]);
+      }
+      if (junk[1].length < 5) {
+         continue;
+      }
+      echot('Analysing');
+      let mbd = [],
+         j1all = 0;
+      for (let bdomain of junk[1]) {
+         if (/\.crimeflare$/.test(bdomain)) {
+            continue;
+         }
+         j1all++;
+         junk = await dnsquery('NS', bdomain);
+         if (junk[1] == 'OK') {
+            continue;
+         }
+         await sleep(100);
+         junk = await dnsquery('A', bdomain);
+         if (junk[1] == 'OK') {
+            continue;
+         }
+         await sleep(100);
+         mbd.push(bdomain);
+      }
+      if (mbd.length < 1) {
+         continue;
+      }
+      if (mbd.length >= j1all) {
+         doubt++;
+      } else {
+         doubt = 0;
+      }
+      if (doubt >= 2) {
+         junk = await dnsquery('A', 'www.google.com');
+         if (junk[1] == 'OK') {
+            doubt = -1;
+         } else {
+            forceExit('This is not clean connection.');
+         }
+      }
+      echot('Reporting');
+      junk = await asking('do=rb&hv=' + myConfig['helper'] + '&ds=' + mbd.join(','));
+      if (junk.indexOf('[') !== 0) {
+         forceExit('Unable to connect.');
+      }
+      junk = JSON.parse(junk);
+      if (!junk[0]) {
+         forceExit(junk[1]);
+      }
    }
 }
 async function do_reportUs(yn, fqdn) {
@@ -1304,7 +1430,7 @@ async function do_reportUs(yn, fqdn) {
       }
    }
    console.log('Reporting ' + dom);
-   let w = await hitAPI(fqdn, yn);
+   let w = await asking('ana=' + yn + '&f=' + fqdn);
    if (yn == 'y') {
       if (w == '[true,true]') {
          console.log('\x1b[32mResponse\x1b[0m: \x1b[33mNo\x1b[0m, It is already known.');
@@ -1368,7 +1494,7 @@ async function do_catAtMe(file, expt, online) {
          continue;
       }
       if (online) {
-         let data = await hitAPI(fqdn);
+         let data = await asking('f=' + fqdn);
          if (data == '[true,true]') {
             myCSV.push('y,"' + line + '"');
             ALU[dom] = 'y';
@@ -1454,7 +1580,7 @@ async function do_cleanAtMe(file, expt, online) {
                      }
                   } else {
                      if (online) {
-                        let data = await hitAPI(fqdn);
+                        let data = await asking('f=' + fqdn);
                         if (data == '[true,true]') {
                            lineX = 'https://web.archive.org/web/' + lineX;
                            ALU[dom] = 'y';
@@ -1505,7 +1631,7 @@ async function do_cleanAtMe(file, expt, online) {
    console.log('Cloudflare(Replaced):' + FYIcf + ', Passed:' + FYIok);
    sayExit('Saved to: ' + expt);
 }
-if (myConfig['cf'] != 'deny') {
+if (myConfig['cf'] != sCFGFV) {
    let rl = rle.createInterface(process.stdin, process.stdout);
    console.log("\n	/// CrimeFlare Welcome You! ///\n");
    console.log('	Thank you for downloading cfdomains.');
@@ -1513,10 +1639,10 @@ if (myConfig['cf'] != 'deny') {
    rl.question('	Cloudflare, the thing I must ', (l) => {
       rl.close();
       if (l.indexOf('resist') == 0) {
-         myConfig['cf'] = 'deny';
+         myConfig['cf'] = sCFGFV;
          myConfig['save'] = './cfdomains_Data/';
          myConfig['proxy'] = '';
-         myConfig['apiurl'] = '';
+         myConfig['helper'] = cto.randomBytes(32).toString('hex');
          saveConf();
          console.log();
          sayExit('	You are ready to use cfdomains!');
@@ -1533,6 +1659,7 @@ if (myConfig['cf'] != 'deny') {
    console.log('	cfdomains [--report|--delist] \x1b[43mwww.example.com\x1b[0m');
    console.log('	cfdomains [--categorise[|online]|--categorize[|online]] \x1b[43minput.txt\x1b[0m \x1b[43mexport.csv\x1b[0m');
    console.log('	cfdomains --cleanlink[|online] \x1b[43mstory.html\x1b[0m \x1b[43mstory_publish.html\x1b[0m');
+   console.log('	cfdomains --warrior');
    console.log('');
    console.log('\x1b[36mDetails:\x1b[0m');
    console.log('	cfdomains \x1b[43m(Base Domain or FQDN)\x1b[0m');
@@ -1562,12 +1689,15 @@ if (myConfig['cf'] != 'deny') {
    console.log("		\x1b[32mdelist\x1b[0m: Report currently-listed domain (Left Cloudflare)\n");
    console.log('	cfdomains --categorise[|online]|categorize[|online] \x1b[43m(List file; URL or FQDNs)\x1b[0m \x1b[43m(Output file)\x1b[0m');
    console.log('		Export Listed/NotListed status in CSV format');
-   console.log('		With online: Use Online API / Without it: Use Offline files');
+   console.log('		With online: Use Online API / Without: Use Offline files');
    console.log("		e.g. cfdomains --categoriseonline dirtyUrls.txt /tmp/washing.csv\n");
    console.log('	cfdomains --cleanlink[|online] \x1b[43m(Document; Text, HTML, Markdown)\x1b[0m \x1b[43m(Output file)\x1b[0m');
    console.log('		Replace infected links in document');
-   console.log('		With online: Use Online API / Without it: Use Offline files');
+   console.log('		With online: Use Online API / Without: Use Offline files');
    console.log("		e.g. cfdomains --cleanlinkonline sunny.md /tmp/sunnyCleaned.md\n");
+   console.log('	cfdomains --warrior');
+   console.log('		Run this to help with the #Karma domain verification efforts.');
+   console.log("		This will download some domain from #Karma and report changes.\n");
    console.log();
    process.exit();
 } else if (args[2] === '--dir') {
@@ -1580,6 +1710,8 @@ if (myConfig['cf'] != 'deny') {
    do_reportUs('y', args[3]);
 } else if (args[2] === '--delist') {
    do_reportUs('n', args[3]);
+} else if (args[2] === '--warrior') {
+   do_warrior();
 } else if (args[2] == '--categorise' || args[2] == '--categorize') {
    do_catAtMe(args[3], args[4], false);
 } else if (args[2] == '--categoriseonline' || args[2] == '--categorizeonline') {
