@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Mangahub stopped working](https://github.com/TheNetsky/netskys-extensions/issues/37)
 - [Multiprocessing Error returned when ran from Docker](https://github.com/ultrafunkamsterdam/undetected-chromedriver/issues/752)
 - [Dynamic require of "crypto" is not supported on edge functions](https://github.com/vercel/vercel/issues/8281)
 - [Cloudflare Error: No challenge selectors found, unable to proceed.](https://github.com/FlareSolverr/FlareSolverr/issues/442)
