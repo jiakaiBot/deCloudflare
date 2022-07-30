@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Dynamic require of "crypto" is not supported on edge functions](https://github.com/vercel/vercel/issues/8281)
 - [Cloudflare Error: No challenge selectors found, unable to proceed.](https://github.com/FlareSolverr/FlareSolverr/issues/442)
 - [Wrong Usage Using shield() (import { shield } from 'telefunc') is forbidden on the client-side](https://github.com/vikejs/telefunc/issues/32)
 - [One resolved address for rover.apollo.dev is been blocked by cloudflare](https://github.com/apollographql/rover/issues/1203)
