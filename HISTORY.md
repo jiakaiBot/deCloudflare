@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-07-30: [Zaraz causing wrong CF-Connecting-IP](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cr2ddkw0bl4v)
 - 2022-07-29: [Issue with Prefix Withdrawals](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w5q61whqbnvj)
 - 2022-07-28: [Network Performance Issues in Paris, France (CDG)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qk6p0t5xyh2r)
 - 2022-07-27: [Spectrum service impact in Osaka, JP](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sdnk1ckwfmsl)
