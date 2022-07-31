@@ -98,6 +98,7 @@ Repositori ini adalah senarai laman web yang berada di belakang "The Great Cloud
   * [Dipadamkan oleh Projek Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Lihat tiket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tiket arkib terakhir 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Repositori ini adalah senarai laman web yang berada di belakang "The Great Cloud
 * [Tambahkan Cloudflare atau acara yang berkaitan dengan projek ke sejarah.](../HISTORY.md)
 
 * [Cuba & tulis Alat / Skrip baru.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Berikut adalah beberapa PDF / ePUB untuk dibaca.](../pdf/)
 
