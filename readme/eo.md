@@ -99,6 +99,7 @@
   * Forigita de la [Projekto Tor](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html). Vidu bileton [34175](https://trac.torproject.org/projects/tor/ticket/34175).
   * Lasta arkiva bileto [24351](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Observejo Cloudflare](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Kritiko kaj polemikoj](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies) de Vikipedio
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -126,6 +127,7 @@
 * Bonvolu aldoni Cloudflare aŭ projekton rilatan eventon al [historio](../HISTORY.md).
 
 * Bonvolu provi kaj skribi novan [Ilon/Skripton](../tool/).
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * Jen iuj [PDF/ePUB](../pdf/) por legi.
 
