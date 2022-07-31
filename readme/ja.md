@@ -98,6 +98,7 @@
   * [Torプロジェクトによって削除されました。](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [チケット34175を参照してください。](https://trac.torproject.org/projects/tor/ticket/34175)
   * [最後のアーカイブチケット24351。](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@
 * [クラウドフレアまたはプロジェクト関連のイベントを履歴に追加します。](../HISTORY.md)
 
 * [新しいツール/スクリプトを試してみてください。](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [読むべきPDF/ePUBがいくつかあります。](../pdf/)
 
