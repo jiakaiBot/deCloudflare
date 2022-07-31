@@ -98,6 +98,7 @@ Qhov chaw cia no yog ib daim ntawv teev npe ntawm lub vev xaib uas nyob tom qab 
   * [Tshem tawm los ntawm Tor Project.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Saib daim pib 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Xeem daim pib yais 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Qhov chaw cia no yog ib daim ntawv teev npe ntawm lub vev xaib uas nyob tom qab 
 * [Ntxiv Cloudflare lossis qhov project cuam tshuam nrog rau keeb kwm.](../HISTORY.md)
 
 * [Sim & sau Cov Cuab Yeej / Sau tshiab tshiab.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Nov yog qee qhov PDF / ePUB los nyeem.](../pdf/)
 
