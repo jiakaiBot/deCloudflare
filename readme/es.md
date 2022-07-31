@@ -98,6 +98,7 @@ Este repositorio es una lista de sitios web que están detrás de "The Great Clo
   * [Eliminado por el Proyecto Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Ver boleto 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Último ticket de archivo 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Este repositorio es una lista de sitios web que están detrás de "The Great Clo
 * [Agrega Cloudflare o un evento relacionado con el proyecto al historial.](../HISTORY.md)
 
 * [Pruebe y escriba una nueva herramienta / script.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Aquí hay algunos PDF / ePUB para leer.](../pdf/)
 
