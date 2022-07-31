@@ -98,6 +98,7 @@ Dit repository is in list fan websides dy't efter "The Great Cloudwall" steane, 
   * [Ferwidere troch it Tor-projekt.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Sjoch ticket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Lêste argyfkaart 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Dit repository is in list fan websides dy't efter "The Great Cloudwall" steane, 
 * [Foegje Cloudflare as projekt relatearre barrens ta oan skiednis.](../HISTORY.md)
 
 * [Besykje en skriuw in nij ark / skript.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Hjir is wat PDF / ePUB om te lêzen.](../pdf/)
 
