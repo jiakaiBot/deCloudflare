@@ -98,6 +98,7 @@ Dette depotet er en liste over nettsteder som ligger bak "The Great Cloudwall", 
   * [Slettet av Tor-prosjektet.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Se billett 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Siste arkivbillett 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Dette depotet er en liste over nettsteder som ligger bak "The Great Cloudwall", 
 * [Legg til Cloudflare eller prosjektrelatert hendelse i historien.](../HISTORY.md)
 
 * [Prøv og skriv nytt verktøy / skript.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Her er noen PDF / ePUB å lese.](../pdf/)
 
