@@ -98,6 +98,7 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "The Great Cloudwall", ga
   * [Wedi'i ddileu gan Brosiect Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Gweler tocyn 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tocyn archif olaf 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Mae'r ystorfa hon yn rhestr o wefannau sydd y tu ôl i "The Great Cloudwall", ga
 * [Ychwanegwch Cloudflare neu ddigwyddiad cysylltiedig â phrosiect at hanes.](../HISTORY.md)
 
 * [Ceisiwch ac ysgrifennwch Offeryn / Sgript newydd.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Dyma ychydig o PDF / ePUB i'w ddarllen.](../pdf/)
 
