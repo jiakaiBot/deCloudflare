@@ -98,6 +98,7 @@ Olu luhlu luluhlu lwewebhusayithi ezingasemva "kweyona Cloudwall", ezithintela a
   * [Icinyiwe yiProjekti yeTor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Jonga itikiti 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Itikiti lokugcina eligcinwe ngo-24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Olu luhlu luluhlu lwewebhusayithi ezingasemva "kweyona Cloudwall", ezithintela a
 * [Yongeza i-Cloudflare okanye umcimbi onxulumene neprojekthi kwimbali.](../HISTORY.md)
 
 * [Zama & ubhale isiXhobo esitsha / iskripthi.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Nantsi enye yePDF / ePUB ekufuneka uyifunde.](../pdf/)
 
