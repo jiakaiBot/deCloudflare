@@ -98,6 +98,7 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
   * [Vom Tor-Projekt gelöscht.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Siehe Ticket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Letztes Archivticket 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Dieses Repository ist eine Liste von Websites, die sich hinter "The Great Cloudw
 * [Fügen Sie dem Verlauf Cloudflare oder ein projektbezogenes Ereignis hinzu.](../HISTORY.md)
 
 * [Probieren und schreiben Sie ein neues Tool / Skript.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Hier ist ein PDF / ePUB zum Lesen.](../pdf/)
 
