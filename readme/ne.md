@@ -98,6 +98,7 @@
   * [टोर प्रोजेक्ट द्वारा हटाइएको।](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [टिकट 1 34१75। हेर्नुहोस्।](https://trac.torproject.org/projects/tor/ticket/34175)
   * [अन्तिम संग्रह टिकट २353535१।](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@
 * [क्लाउडफ्लेयर वा परियोजना सम्बन्धित घटना ईतिहासमा थप्नुहोस्।](../HISTORY.md)
 
 * [प्रयास गर्नुहोस् र नयाँ उपकरण / स्क्रिप्ट लेख्नुहोस्।](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [यहाँ केहि PDF / ePUB पढ्नको लागि हो।](../pdf/)
 
