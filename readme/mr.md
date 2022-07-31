@@ -98,6 +98,7 @@
   * [तोर प्रकल्प हटविला.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [तिकिट 34175 पहा.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [शेवटचे संग्रहण तिकिट 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@
 * [इतिहासामध्ये क्लाउडफ्लेअर किंवा प्रकल्प संबंधित कार्यक्रम जोडा.](../HISTORY.md)
 
 * [नवीन टूल / स्क्रिप्ट वापरुन पहा आणि लिहा.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [वाचण्यासाठी येथे काही पीडीएफ / ईपब दिले आहेत.](../pdf/)
 
