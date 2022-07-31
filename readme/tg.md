@@ -98,6 +98,7 @@
   * [Аз ҷониби Лоиҳаи Tor нобуд карда шудааст.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Ба чипта 34175 нигаред.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Охирин чиптаи бойгонӣ 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@
 * [Cloudflare ё чорабинии марбут ба лоиҳаро ба таърих илова кунед.](../HISTORY.md)
 
 * [Асбоби нав / скриптро бинед ва нависед.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Дар ин ҷо якчанд PDF / ePUB барои хондан аст.](../pdf/)
 
