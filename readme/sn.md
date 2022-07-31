@@ -98,6 +98,7 @@ Iyi repository runyorwa rwemawebhusaiti ari kumashure kwe "Iyo huru Cloudwall", 
   * [Yakabviswa neTor Project.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Ona tikiti 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Yekupedzisira Archive tikiti 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Iyi repository runyorwa rwemawebhusaiti ari kumashure kwe "Iyo huru Cloudwall", 
 * [Wedzera Cloudflare kana purojekiti inoenderana chiitiko nenhoroondo.](../HISTORY.md)
 
 * [Edza & nyora nyowani Tool / script.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Heano mamwe maPDP / ePUB ekuverenga.](../pdf/)
 
