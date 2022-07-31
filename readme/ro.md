@@ -98,6 +98,7 @@ Acest depozit este o listă de site-uri web care se află în spatele „Marelui
   * [Șters de Proiectul Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Vezi biletul 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Ultimul bilet de arhivă 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Acest depozit este o listă de site-uri web care se află în spatele „Marelui
 * [Adăugați Cloudflare sau eveniment legat de proiect în istoric.](../HISTORY.md)
 
 * [Încercați și scrieți un nou instrument / script.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Iată câteva documente PDF / ePUB pentru citit.](../pdf/)
 
