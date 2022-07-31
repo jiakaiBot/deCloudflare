@@ -98,6 +98,7 @@ Sebaka sena sa polokelo ke lenane la liwebosaete tse ka morao ho "The Cloudwall"
   * [E felisitsoe ke Morero oa Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Bona tekete ea 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tekete ea ho boloka polokelong ea litheko 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Sebaka sena sa polokelo ke lenane la liwebosaete tse ka morao ho "The Cloudwall"
 * [Kenya Cloudflare kapa ketsahalo e amanang le morero ho nalane.](../HISTORY.md)
 
 * [Leka le ho ngola Tool / script e ncha](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Mona ke tse ling tsa PDF / ePUB tseo u lokelang ho li bala.](../pdf/)
 
