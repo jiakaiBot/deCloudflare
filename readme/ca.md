@@ -98,6 +98,7 @@ Aquest dipòsit és una llista de llocs web que hi ha al darrere de "The Great C
   * [Suprimit pel Projecte Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Veure el bitllet 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Últim bitllet d’arxiu 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Aquest dipòsit és una llista de llocs web que hi ha al darrere de "The Great C
 * [Afegiu Cloudflare o esdeveniment relacionat amb el projecte a l’historial.](../HISTORY.md)
 
 * [Proveu i escrigui nova eina / script.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [A continuació, es descriuen alguns PDF / ePUB.](../pdf/)
 
