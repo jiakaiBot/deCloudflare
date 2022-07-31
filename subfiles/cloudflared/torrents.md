@@ -517,4 +517,4 @@ Some Cloudflared site owners are using additional _protection_ to protect themse
 ![](../../image/cloudflare_with_ddosguard.jpg)
 
 
-- ↳ [Cloudflare attracts "repeat infringers"](../repeat_infringers_love_cloudflare.md)
+- ↳ [Cloudflare attracts "repeat infringers"](../repeat_infringers/)
