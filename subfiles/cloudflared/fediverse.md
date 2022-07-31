@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,591 |
-| net | 1,490 |
+| com | 2,593 |
+| net | 1,492 |
 | social | 1,142 |
 | org | 1,067 |
 | de | 946 |
@@ -45,6 +45,7 @@ Here's a list of public Fediverse services.
 | 01start.net | No |
 | 030.me | Yes |
 | 0314159.xyz | No |
+| 04.si | Yes |
 | 076.ne.jp | No |
 | 0am.jp | No |
 | 0bs.tech | No |
@@ -2134,6 +2135,7 @@ Here's a list of public Fediverse services.
 | brap.party | No |
 | brash.social | No |
 | brasileiros.social | Yes |
+| bratpfannenberg.com | No |
 | brave.cafe | No |
 | brave.to | No |
 | brawner.social | No |
@@ -2284,7 +2286,7 @@ Here's a list of public Fediverse services.
 | burnworks.com | No |
 | buron.coffee | No |
 | burr.is | Yes |
-| burrito.codes | No |
+| burrito.codes | Yes |
 | burschel.com | No |
 | burymein.black | No |
 | bus-hit.me | No |
@@ -5482,6 +5484,7 @@ Here's a list of public Fediverse services.
 | foodon.jp | No |
 | footbrid.ge | No |
 | footle.org | No |
+| footprints.community | No |
 | foowar.de | No |
 | force-clan.io | No |
 | ford.id.au | No |
@@ -6925,6 +6928,7 @@ Here's a list of public Fediverse services.
 | hevertonfreitas.com.br | Yes |
 | hewwo.net | Yes |
 | hex.bz | No |
+| hexa.ninja | No |
 | hexa.space | No |
 | hexadon.net | No |
 | hexagon.town | No |
@@ -7030,6 +7034,7 @@ Here's a list of public Fediverse services.
 | hklbgd.org | No |
 | hlad.org | No |
 | hlpme.de | No |
+| hmf.digital | No |
 | hmm.st | No |
 | hncj.me | No |
 | hnws.me | Yes |
@@ -7112,6 +7117,7 @@ Here's a list of public Fediverse services.
 | honking.online | No |
 | honksybonksy.com | No |
 | honkwerx.tech | No |
+| hoot.pw | Yes |
 | hoot.town | No |
 | hoot.video | No |
 | hootiegibbon.co.uk | No |
@@ -7866,6 +7872,7 @@ Here's a list of public Fediverse services.
 | jamwells.social | Yes |
 | janboddez.tech | Yes |
 | jancborchardt.net | No |
+| janetgunter.net | No |
 | janherm.de | No |
 | jank.town | No |
 | jankambo.net | No |
@@ -8260,7 +8267,7 @@ Here's a list of public Fediverse services.
 | kaiser.wang | No |
 | kaiserflur.de | No |
 | kaiserslautern.chat | No |
-| kaisin.cc | No |
+| kaisin.cc | Yes |
 | kaitaia.life | Yes |
 | kaixinguo.site | Yes |
 | kaiz.jp | Yes |
@@ -12091,7 +12098,7 @@ Here's a list of public Fediverse services.
 | noisome.space | No |
 | noisydeadlines.net | No |
 | noisyspot.jp | No |
-| noize.guru | No |
+| noize.guru | Yes |
 | noizycat.com | No |
 | nojob.jp | Yes |
 | nojober.work | No |
@@ -13018,6 +13025,7 @@ Here's a list of public Fediverse services.
 | paws.moe | No |
 | paws.town | No |
 | paxation.info | No |
+| paxriel.art | No |
 | paypig.org | Yes |
 | pbar.xyz | No |
 | pbb.lc | No |
@@ -14904,7 +14912,7 @@ Here's a list of public Fediverse services.
 | sangrechulo.com | No |
 | sanguine.space | No |
 | sanguinem.space | No |
-| sanguok.com | No |
+| sanguok.com | Yes |
 | sanic.style | No |
 | sanin.club | No |
 | sanin.link | Yes |
@@ -16091,6 +16099,7 @@ Here's a list of public Fediverse services.
 | steamstdn.com | No |
 | steatorn.is | No |
 | stefan-muenz.de | No |
+| stefanberger.net | No |
 | steffes.dev | No |
 | steffo.eu | Yes |
 | stefofficiel.me | No |
@@ -16575,6 +16584,7 @@ Here's a list of public Fediverse services.
 | taprlight.com | No |
 | tar.black | No |
 | tarasis.net | Yes |
+| tarasupadon.com | No |
 | tardar.social | No |
 | tardis.pw | No |
 | tardis.world | No |
@@ -19484,8 +19494,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,786 |
-| Normal | 15,655 |
+| Cloudflare | 3,792 |
+| Normal | 15,659 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
