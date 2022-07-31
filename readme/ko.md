@@ -98,6 +98,7 @@
   * [Tor 프로젝트에 의해 삭제되었습니다.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [티켓 34175를 참조하십시오.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [마지막 보관 티켓 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@
 * [Cloudflare 또는 프로젝트 관련 이벤트를 기록에 추가합니다.](../HISTORY.md)
 
 * [새로운 도구 / 스크립트를 작성해보십시오.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [다음은 읽을 수있는 PDF / ePUB입니다.](../pdf/)
 
