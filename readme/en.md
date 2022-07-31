@@ -82,6 +82,7 @@ This repository is a list of websites that are behind "The Great Cloudwall", blo
   * [Deleted by the Tor Project.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [See ticket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Last archive ticket 24351](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -99,6 +100,7 @@ This repository is a list of websites that are behind "The Great Cloudwall", blo
 * Update the domain list: [List instructions](../INSTRUCTION.md).
 * [Add Cloudflare or project related event to history.](../HISTORY.md)
 * [Try & write new Tool/Script.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 * [Here's some PDF/ePUB to read.](../pdf/)
 
 ### About fake accounts
