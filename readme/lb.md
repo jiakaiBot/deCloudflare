@@ -98,6 +98,7 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "The Great Cloudwal
   * [Geläscht vum Tor Project.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Kuckt Ticket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Leschten Archivbilljee 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Dëst Repository ass eng Lëscht vu Websäiten, déi hannert "The Great Cloudwal
 * [Füügt Cloudflare oder Projetsrelatéiert Event zu der Geschicht.](../HISTORY.md)
 
 * [Probéiert & schreift neit Tool / Skript.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Hei e puer PDF / ePUB fir ze liesen.](../pdf/)
 
