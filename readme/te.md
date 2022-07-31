@@ -98,6 +98,7 @@
   * [టోర్ ప్రాజెక్ట్ చేత తొలగించబడింది.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [టికెట్ 34175 చూడండి.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [చివరి ఆర్కైవ్ టికెట్ 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@
 * [చరిత్రకు క్లౌడ్‌ఫ్లేర్ లేదా ప్రాజెక్ట్ సంబంధిత ఈవెంట్‌ను జోడించండి.](../HISTORY.md)
 
 * [కొత్త సాధనం / స్క్రిప్ట్‌ను ప్రయత్నించండి & వ్రాయండి.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [చదవడానికి ఇక్కడ కొన్ని PDF / ePUB ఉంది.](../pdf/)
 
