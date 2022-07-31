@@ -98,6 +98,7 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "The Great Cloudwa
   * [Nofafana noho ny Tor Pro.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Jereo ny tapakila 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tapakila arsiva farany 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Ity rakitra ity dia lisitry ny tranonkala izay ao ambadiky ny "The Great Cloudwa
 * [Asio Cloudflare na hetsika mifandraika amin'ny tantara amin'ny tantara.](../HISTORY.md)
 
 * [Manandrama & manoratra fitaovana / script vaovao.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Ity misy PDF / ePUB hamaky.](../pdf/)
 
