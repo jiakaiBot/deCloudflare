@@ -98,6 +98,7 @@ Et hoc promptuario est, quae post tergum album of websites "Magna et Cloudwall",
   * [Kessinger Project deletum est.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Vide tessera (XXXIV)CLXXV.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Last archive tessera (XXIV)CCCLI.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Et hoc promptuario est, quae post tergum album of websites "Magna et Cloudwall",
 * [Addunt se projiciunt Cloudflare vel historiae eventus.](../HISTORY.md)
 
 * [Try & Mors Principium novum scribo / ita contigit.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Ecce quibusdam PDF / ePUB legere.](../pdf/)
 
