@@ -98,6 +98,7 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Bulud" a
   * [Tor Layihəsi tərəfindən silinmişdir.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [34175 biletinə baxın.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Son arxiv bileti 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Bulud" a
 * [Tarixə Cloudflare və ya layihə ilə əlaqəli hadisə əlavə edin.](../HISTORY.md)
 
 * [Yeni alət / skript yazın.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Burada oxumaq üçün bəzi PDF / ePUB var.](../pdf/)
 
