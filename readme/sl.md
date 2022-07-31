@@ -98,6 +98,7 @@ To skladišče je seznam spletnih mest, ki stojijo za "Great Cloudwall" in bloki
   * [Izbrisal projekt Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Glej vozovnico 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Zadnja arhivska vozovnica 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ To skladišče je seznam spletnih mest, ki stojijo za "Great Cloudwall" in bloki
 * [V zgodovino dodajte Cloudflare ali dogodek, povezan s projektom.](../HISTORY.md)
 
 * [Poskusite in napišite novo orodje / skript.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Tukaj je prebrati nekaj PDF / ePUB.](../pdf/)
 
