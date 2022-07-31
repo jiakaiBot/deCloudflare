@@ -98,6 +98,7 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Great Cloudwal
   * [Dibusak dening Projek Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Waca tiket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tiket arsip pungkasan 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Great Cloudwal
 * [Tambah Cloudflare utawa acara sing ana gandhengane karo sejarah.](../HISTORY.md)
 
 * [Coba & nulis Alat / Skrip anyar.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Mangkene sawetara PDF / ePUB supaya bisa diwaca.](../pdf/)
 
