@@ -98,6 +98,7 @@
   * [Тор төслийн хүрээнд устгасан.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Тасалбарыг 34175-с үзнэ үү.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Сүүлийн архивын тасалбар 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@
 * [Cloudflare эсвэл төсөлтэй холбоотой үйл явдлыг түүхэнд нэмнэ үү.](../HISTORY.md)
 
 * [Шинэ Багаж / Скриптийг ашиглаж үзнэ үү.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Энд PDF / ePUB-г уншина уу.](../pdf/)
 
