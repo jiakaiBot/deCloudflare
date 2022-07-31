@@ -98,6 +98,7 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de "The Gr
   * [Scriosta ag Tionscadal Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Féach ticéad 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Ticéad cartlainne deireanach 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Is liosta é an stór seo de shuíomhanna Gréasáin atá taobh thiar de "The Gr
 * [Cuir Cloudflare nó imeacht a bhaineann le tionscadal leis an stair.](../HISTORY.md)
 
 * [Bain triail as & scríobh Uirlis / Script nua.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Seo roinnt PDF / ePUB le léamh.](../pdf/)
 
