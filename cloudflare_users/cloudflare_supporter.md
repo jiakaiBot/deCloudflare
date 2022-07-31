@@ -6955,6 +6955,7 @@ Do not create new issue or we will close it as duplicate.
 | [rdkqft@twitter](https://twitter.com/rdkqft/status/1380426512503959558) | advertise |
 | [RealAnasAhmed11@twitter](https://twitter.com/RealAnasAhmed11/status/1407410579015307269) | advertise |
 | [realbillykaren@twitter](https://twitter.com/realbillykaren/status/1498397413828186112) | advertise |
+| [realcompi@twitter](https://twitter.com/realcompi/status/1553859636964605953) | advertise |
 | [REALDJPHAZE@twitter](https://twitter.com/REALDJPHAZE/status/1553140298657718272) | advertise |
 | [realdl_@twitter](https://twitter.com/realdl_/status/1523506857532289024) | advertise |
 | [RealDNewsMag@twitter](https://twitter.com/RealDNewsMag/status/1441466401781211137) | advertise |
