@@ -98,6 +98,7 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
   * [Eliminato dal progetto Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Vedi ticket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Ultimo biglietto archivio 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 * [Aggiungi Cloudflare o un evento relativo al progetto alla cronologia.](../HISTORY.md)
 
 * [Prova e scrivi un nuovo strumento / script.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Ecco alcuni PDF / ePUB da leggere.](../pdf/)
 
