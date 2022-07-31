@@ -98,6 +98,7 @@ Vê repoya navnîşek malperên ku li paş "The Cloudwall mezin" in, rawestandin
   * [Ji hêla Projeya Tor ve hate jêbirin.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Bilêtê 34175 binihêrin.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Bilêta arşîvê ya paşîn 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Vê repoya navnîşek malperên ku li paş "The Cloudwall mezin" in, rawestandin
 * [Cloudflare an bûyerê têkildarî projeyê bi dîrokê ve zêde bike.](../HISTORY.md)
 
 * [Vebijêrin / Nivîsbar / Nivîsbariya Nû binivîsin.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Li vir çend PDF / ePUB heye ku hûn bixwînin.](../pdf/)
 
