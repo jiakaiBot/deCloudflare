@@ -98,6 +98,7 @@
   * [டோர் திட்டத்தால் நீக்கப்பட்டது.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [டிக்கெட் 34175 ஐக் காண்க.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [கடைசி காப்பக டிக்கெட் 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@
 * [கிளவுட்ஃப்ளேர் அல்லது திட்ட தொடர்பான நிகழ்வை வரலாற்றில் சேர்க்கவும்.](../HISTORY.md)
 
 * [புதிய கருவி / ஸ்கிரிப்டை முயற்சிக்கவும் எழுதவும்.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [படிக்க சில PDF / ePUB இங்கே.](../pdf/)
 
