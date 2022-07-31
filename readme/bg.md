@@ -98,6 +98,7 @@
   * [Изтрита от проекта Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Вижте билет 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Последен архивен билет 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@
 * [Добавете Cloudflare или свързано с проекта събитие в историята.](../HISTORY.md)
 
 * [Опитайте и напишете нов инструмент / скрипт.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Ето малко PDF / ePUB за четене.](../pdf/)
 
