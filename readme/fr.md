@@ -98,6 +98,7 @@ Ce référentiel est une liste de sites Web derrière « The Great Cloudwall »,
   * [Supprimé par le projet Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Voir le billet 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Dernier ticket d'archive 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipédia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Ce référentiel est une liste de sites Web derrière « The Great Cloudwall »,
 * [Ajoutez Cloudflare ou un événement lié au projet à l'historique.](../HISTORY.md)
 
 * [Essayez et écrivez un nouvel outil/script.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Voici quelques PDF/ePUB à lire.](../pdf/)
 
