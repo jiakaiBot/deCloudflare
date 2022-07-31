@@ -98,6 +98,7 @@ Tämä säilytystila on luettelo verkkosivustoista, jotka ovat "Suuren pilvasein
   * [Poistanut Tor-projekti.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Katso lippu 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Viimeinen arkistolippu 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Tämä säilytystila on luettelo verkkosivustoista, jotka ovat "Suuren pilvasein
 * [Lisää Cloudflare tai projektiin liittyvä tapahtuma historiaan.](../HISTORY.md)
 
 * [Kokeile ja kirjoita uusi työkalu / komentosarja.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Tässä on joitain luettavia PDF / ePUB-tiedostoja.](../pdf/)
 
