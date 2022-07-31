@@ -98,6 +98,7 @@
   * [ಟಾರ್ ಪ್ರಾಜೆಕ್ಟ್ನಿಂದ ಅಳಿಸಲಾಗಿದೆ.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [ಟಿಕೆಟ್ 34175 ನೋಡಿ.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [ಕೊನೆಯ ಆರ್ಕೈವ್ ಟಿಕೆಟ್ 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@
 * [ಕ್ಲೌಡ್‌ಫ್ಲೇರ್ ಅಥವಾ ಪ್ರಾಜೆಕ್ಟ್ ಸಂಬಂಧಿತ ಈವೆಂಟ್ ಅನ್ನು ಇತಿಹಾಸಕ್ಕೆ ಸೇರಿಸಿ.](../HISTORY.md)
 
 * [ಹೊಸ ಪರಿಕರ / ಸ್ಕ್ರಿಪ್ಟ್ ಅನ್ನು ಪ್ರಯತ್ನಿಸಿ ಮತ್ತು ಬರೆಯಿರಿ.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [ಓದಲು ಕೆಲವು ಪಿಡಿಎಫ್ / ಇಪಬ್ ಇಲ್ಲಿದೆ.](../pdf/)
 
