@@ -98,6 +98,7 @@ Toto úložiště je seznam webových stránek, které jsou za „Velkým cloude
   * [Vypuštěno projektem Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Viz tiket 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Poslední archiv 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Toto úložiště je seznam webových stránek, které jsou za „Velkým cloude
 * [Přidejte do historie Cloudflare nebo událost související s projektem.](../HISTORY.md)
 
 * [Zkuste a napište nový nástroj / skript.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Zde je několik PDF / ePUB ke čtení.](../pdf/)
 
