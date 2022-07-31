@@ -98,6 +98,7 @@ Kaydkan waa liisaska bogagga internetka ee ka dambeeya "The Cloud Cloud", oo xan
   * [Tirtirey Mashruuca Tor.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Eeg tigidhada 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Tigidhada ugu dambeysa ee diiwaan gelinta 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Kaydkan waa liisaska bogagga internetka ee ka dambeeya "The Cloud Cloud", oo xan
 * [Kudar Cloudflare ama dhacdo laxiriirta mashruuc taariikhda.](../HISTORY.md)
 
 * [Isku day oo qor Qalabka / Qoraalka cusub.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Waa tan qaar PDF / ePUB ah si aad wax u aqriso.](../pdf/)
 
