@@ -98,6 +98,7 @@ Kjo depo është një listë e faqeve të internetit që janë pas "The Great Cl
   * [Fshirë nga Tor Project.](https://lists.torproject.org/pipermail/anti-censorship-team/2020-May/000098.html) [Shih biletën 34175.](https://trac.torproject.org/projects/tor/ticket/34175)
   * [Bileta e fundit e arkivit 24351.](https://web.archive.org/web/20200301013104/https://trac.torproject.org/projects/tor/ticket/24351)
 * [Cloudflare Watch](http://www.crimeflare.org:82/)
+  * Archived - [CloudFlare Watch](../subfiles/classics/README.md)
 * [Criticism and controversies](https://en.wikipedia.org/wiki/Cloudflare#Criticism_and_controversies), Wikipedia
 * [CloudFlare rap sheet](../subfiles/rapsheet.cloudflare.md)
 
@@ -125,6 +126,7 @@ Kjo depo është një listë e faqeve të internetit që janë pas "The Great Cl
 * [Shtoni histori Cloudflare ose ngjarje të lidhura me projektin.](../HISTORY.md)
 
 * [Provo dhe shkruaj mjetin / skenarin e ri.](../tool/)
+   * [CfDomains](../tool/cfdomains/README.md)
 
 * [Këtu keni disa PDF / ePUB për të lexuar.](../pdf/)
 
