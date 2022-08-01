@@ -1,9 +1,8 @@
-const sVERSION = '1.0.4',
-   sCFGFV = '1.0.4',
+const sVERSION = '1.0.4.1',
+   sCFGFV = '1.0.4.1',
    args = process.argv,
    fs = require('fs'),
    rle = require('readline'),
-   cto = require('crypto'),
    dns = require('dns'),
    confFile = require('os').homedir() + '/.cfdomains_conf';
 const {
@@ -1322,89 +1321,111 @@ function sleep(ms) {
 }
 async function do_warrior() {
    if (myConfig['helper'].length != 64) {
-      forceExit('This is random and we NEVER track you. This is for preventing abuse.');
-   }
-   console.log('======================');
-   console.log('Press CTRL+C to stop.');
-   console.log("======================\n");
-   echot('Starting Warrior ' + myConfig['helper']);
-   junk = await dnsquery('NS', 'debian.org');
-   if (junk[1] != 'OK') {
-      forceExit(junk[1]);
-   }
-   junk = await dnsquery('A', 'deb.debian.org');
-   if (junk[1] != 'OK') {
-      forceExit(junk[1]);
-   }
-   echot('Connecting...');
-   junk = await asking('do=init&hv=' + myConfig['helper']);
-   if (junk.indexOf('[') !== 0) {
-      forceExit('Unable to connect.');
-   }
-   junk = JSON.parse(junk);
-   if (!junk[0]) {
-      forceExit('Unable to connect.');
-   }
-   echot(junk[1]);
-   let doubt = 0;
-   while (true) {
-      await sleep(500);
-      echot('Getting');
-      junk = await asking('do=get&hv=' + myConfig['helper']);
+      let rl = rle.createInterface(process.stdin, process.stdout);
+      console.log("\n	/// #Karma Privacy Policy ///\n");
+      console.log('	1. We do not log your IP address.');
+      console.log('	2. We only receive domain name you analyzed.');
+      console.log('	3. Your WarriorID is random. We use it only to prevent abuse.');
+      console.log('	4. Your WarriorID will be deleted from our server after 7 days of inactivity.');
+      console.log();
+      console.log("	Please type 'hunting' if you wish to continue.\n");
+      rl.question('	Let\'s go ', (l) => {
+         rl.close();
+         if (l.indexOf('hunting') == 0) {
+            const cto = require('crypto');
+            saveConf('helper', cto.randomBytes(32).toString('hex'));
+            console.log();
+            sayExit("	You are ready to use cfdomains --warrior!\n");
+         }
+         process.exit();
+      });
+   } else {
+      console.log('======================');
+      console.log('Press CTRL+C to stop.');
+      console.log("======================\n");
+      echot('Starting Warrior ' + myConfig['helper']);
+      junk = await dnsquery('NS', 'debian.org');
+      if (junk[1] != 'OK') {
+         forceExit(junk[1]);
+      }
+      junk = await dnsquery('A', 'deb.debian.org');
+      if (junk[1] != 'OK') {
+         forceExit(junk[1]);
+      }
+      echot('Connecting...');
+      junk = await asking('do=init&hv=' + myConfig['helper']);
       if (junk.indexOf('[') !== 0) {
          forceExit('Unable to connect.');
       }
       junk = JSON.parse(junk);
       if (!junk[0]) {
-         forceExit(junk[1]);
+         forceExit('Unable to connect.');
       }
-      if (junk[1].length < 5) {
-         continue;
-      }
-      echot('Analysing');
-      let mbd = [],
-         j1all = 0;
-      for (let bdomain of junk[1]) {
-         if (/\.crimeflare$/.test(bdomain)) {
+      echot(junk[1]);
+      let doubt = 0;
+      while (true) {
+         await sleep(500);
+         echot('Getting');
+         junk = await asking('do=get&hv=' + myConfig['helper']);
+         if (junk.indexOf('[') !== 0) {
+            forceExit('Unable to connect.');
+         }
+         junk = JSON.parse(junk);
+         if (!junk[0]) {
+            forceExit(junk[1]);
+         }
+         if (junk[1].length < 5) {
+            if (junk[1][0] == 'wait!') {
+               echot('Waiting for my turn.');
+               await sleep(180000);
+            }
             continue;
          }
-         j1all++;
-         junk = await dnsquery('NS', bdomain);
-         if (junk[1] == 'OK') {
+         echot('Analysing');
+         let mbd = [],
+            j1all = 0;
+         for (let bdomain of junk[1]) {
+            if (/\.crimeflare$/.test(bdomain)) {
+               continue;
+            }
+            j1all++;
+            junk = await dnsquery('NS', bdomain);
+            if (junk[1] == 'OK') {
+               continue;
+            }
+            await sleep(100);
+            junk = await dnsquery('A', bdomain);
+            if (junk[1] == 'OK') {
+               continue;
+            }
+            await sleep(100);
+            mbd.push(bdomain);
+         }
+         if (mbd.length < 1) {
             continue;
          }
-         await sleep(100);
-         junk = await dnsquery('A', bdomain);
-         if (junk[1] == 'OK') {
-            continue;
-         }
-         await sleep(100);
-         mbd.push(bdomain);
-      }
-      if (mbd.length < 1) {
-         continue;
-      }
-      if (mbd.length >= j1all) {
-         doubt++;
-      } else {
-         doubt = 0;
-      }
-      if (doubt >= 2) {
-         junk = await dnsquery('A', 'www.google.com');
-         if (junk[1] == 'OK') {
-            doubt = -1;
+         if (mbd.length >= j1all) {
+            doubt++;
          } else {
-            forceExit('This is not clean connection.');
+            doubt = 0;
          }
-      }
-      echot('Reporting');
-      junk = await asking('do=rb&hv=' + myConfig['helper'] + '&ds=' + mbd.join(','));
-      if (junk.indexOf('[') !== 0) {
-         forceExit('Unable to connect.');
-      }
-      junk = JSON.parse(junk);
-      if (!junk[0]) {
-         forceExit(junk[1]);
+         if (doubt >= 2) {
+            junk = await dnsquery('A', 'www.google.com');
+            if (junk[1] == 'OK') {
+               doubt = -1;
+            } else {
+               forceExit('This is not clean connection.');
+            }
+         }
+         echot('Reporting');
+         junk = await asking('do=rb&hv=' + myConfig['helper'] + '&ds=' + mbd.join(','));
+         if (junk.indexOf('[') !== 0) {
+            forceExit('Unable to connect.');
+         }
+         junk = JSON.parse(junk);
+         if (!junk[0]) {
+            forceExit(junk[1]);
+         }
       }
    }
 }
@@ -1642,10 +1663,10 @@ if (myConfig['cf'] != sCFGFV) {
          myConfig['cf'] = sCFGFV;
          myConfig['save'] = './cfdomains_Data/';
          myConfig['proxy'] = '';
-         myConfig['helper'] = cto.randomBytes(32).toString('hex');
+         myConfig['helper'] = '';
          saveConf();
          console.log();
-         sayExit('	You are ready to use cfdomains!');
+         sayExit("	You are ready to use cfdomains!\n");
       }
       process.exit();
    });
