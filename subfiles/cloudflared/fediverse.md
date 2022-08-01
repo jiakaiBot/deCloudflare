@@ -8727,6 +8727,7 @@ Here's a list of public Fediverse services.
 | koodaacraft.org | Yes |
 | koolkidsonly.club | No |
 | kopfkino.social | No |
+| kopfstim.me | No |
 | kopiti.am | Yes |
 | koppermann-itk.de | No |
 | korako.me | Yes |
@@ -13033,6 +13034,7 @@ Here's a list of public Fediverse services.
 | pbg.hu | No |
 | pc-tiede.de | No |
 | pcb.fun | No |
+| pcbu.nl | No |
 | pcf.fr | Yes |
 | pcgame.jp | No |
 | pcgamer.social | Yes |
@@ -13847,7 +13849,7 @@ Here's a list of public Fediverse services.
 | prou.be | No |
 | proudhon.ovh | No |
 | proudtobeapastafarian.com | No |
-| prout.social | Yes |
+| prout.social | No |
 | provo.lol | No |
 | proxion.de | No |
 | proyectolanuevatierra.com | Yes |
@@ -19494,8 +19496,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,792 |
-| Normal | 15,659 |
+| Cloudflare | 3,791 |
+| Normal | 15,662 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
