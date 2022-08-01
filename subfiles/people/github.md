@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Add exclusions for iCloud Private Relay exit/egress IPs](https://github.com/matomo-org/plugin-TrackingSpamPrevention/issues/69)
 - [Console server is unavailable, please try again later](https://github.com/serverless/serverless/issues/11306)
 - [Remote T Returns 404 When Connected to O with ServiceAddr as Domain](https://github.com/livepeer/go-livepeer/issues/2549)
 - [Mangahub stopped working](https://github.com/TheNetsky/netskys-extensions/issues/37)
