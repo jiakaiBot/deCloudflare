@@ -2355,6 +2355,7 @@ Do not create new issue or we will close it as duplicate.
 | [FireGam99404905@twitter](https://twitter.com/FireGam99404905/status/1399726131842977792) | advertise |
 | [fitcarenavi@twitter](https://twitter.com/fitcarenavi/status/1548612339058241537) | advertise |
 | [FJBandroid@twitter](https://twitter.com/FJBandroid/status/1552182577045569539) | advertise |
+| [fjdb3@twitter](https://twitter.com/fjdb3/status/1554143968685789184) | advertise |
 | [fjpkagami@twitter](https://twitter.com/fjpkagami/status/1392923842880831488) | advertise |
 | [FlameOcho@twitter](https://twitter.com/FlameOcho/status/1390911778918305799) | advertise |
 | [FlashZA_@twitter](https://twitter.com/FlashZA_/status/1507735134799372288) | advertise |
