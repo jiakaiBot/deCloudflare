@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,593 |
-| net | 1,492 |
-| social | 1,142 |
-| org | 1,067 |
+| net | 1,493 |
+| social | 1,143 |
+| org | 1,069 |
 | de | 946 |
 
 
@@ -4062,6 +4062,7 @@ Here's a list of public Fediverse services.
 | disruptive-software.xyz | No |
 | dissem.ch | No |
 | dissidence.ovh | No |
+| dissident.business | No |
 | dissidents.social | No |
 | dissidents.tv | No |
 | dissonanz.xyz | Yes |
@@ -4171,6 +4172,7 @@ Here's a list of public Fediverse services.
 | dong.army | No |
 | dong.engineer | No |
 | dongxi.ca | Yes |
+| donky.social | No |
 | donmasto.xyz | No |
 | donnadieu.fr | No |
 | donniewest.com | Yes |
@@ -4988,6 +4990,7 @@ Here's a list of public Fediverse services.
 | fair-verhandeln.de | No |
 | fair.tube | No |
 | fairground.moe | No |
+| fairuse.org | No |
 | fairy.id | No |
 | fairy.life | No |
 | fairyland.cyou | Yes |
@@ -5457,6 +5460,7 @@ Here's a list of public Fediverse services.
 | fm32.com.br | Yes |
 | fmind.me | No |
 | fmty.cloud | Yes |
+| fnky.nz | Yes |
 | fnordica.de | No |
 | fnordon.de | No |
 | fnx.li | No |
@@ -9592,6 +9596,7 @@ Here's a list of public Fediverse services.
 | lord.sh | Yes |
 | lordinateur.tech | Yes |
 | lorem.club | No |
+| lorenzi.one | Yes |
 | lorenzoancora.info | No |
 | loria.fr | No |
 | loschinski.net | No |
@@ -9925,6 +9930,7 @@ Here's a list of public Fediverse services.
 | makotia.me | No |
 | makotoworkshop.org | No |
 | makrgroup.com | No |
+| makrobytes.eu | No |
 | mal.systems | No |
 | malacology.net | Yes |
 | malfunctioning.technology | No |
@@ -10684,6 +10690,7 @@ Here's a list of public Fediverse services.
 | micca.xyz | Yes |
 | michaelbrooks.co.uk | Yes |
 | michaeljdeeb.com | No |
+| michaelp.info | No |
 | michaelpuckett.engineer | Yes |
 | michaelsantillan.com | Yes |
 | michaonline.net | No |
@@ -12864,6 +12871,7 @@ Here's a list of public Fediverse services.
 | p1k3.com | No |
 | p1ng0ut.social | No |
 | p1x.in | No |
+| p2anav.net | No |
 | p2p.legal | No |
 | p2pquake.net | No |
 | p2ptv.ru | No |
@@ -19324,6 +19332,7 @@ Here's a list of public Fediverse services.
 | zasha.style | No |
 | zat.im | No |
 | zatta.dev | No |
+| zb3.org | Yes |
 | zbeul.ist | No |
 | zbop.xyz | Yes |
 | zbucaao2-liquidwebsites.com | No |
@@ -19496,8 +19505,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,791 |
-| Normal | 15,662 |
+| Cloudflare | 3,794 |
+| Normal | 15,668 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
