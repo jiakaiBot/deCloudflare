@@ -1,8 +1,8 @@
 ![](watcloudflare.jpg)
 
 
-- &#128444; [Telegram](telegram/)
-- &#128444; [Meme](meme/)
+- [Telegram](telegram/)
+- [Meme](meme/)
 - [image/\*.\* list](images.md) (warning: heavy)
 - [classics image list](../subfiles/classics/img/README.md)
 - Poster
