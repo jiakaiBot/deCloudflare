@@ -910,6 +910,7 @@ Do not create new issue or we will close it as duplicate.
 | [Avinash06443869@twitter](https://twitter.com/Avinash06443869/status/1382880625363849223) | advertise |
 | [Avinash28851257@twitter](https://twitter.com/Avinash28851257/status/1398339845374636035) | advertise |
 | [Awais23513951@twitter](https://twitter.com/Awais23513951/status/1541539410348593153) | advertise |
+| [AwakeTechSoln@twitter](https://twitter.com/AwakeTechSoln/status/1554516678133911554) | advertise |
 | [AWalkerrea@twitter](https://twitter.com/AWalkerrea/status/1553760603990134786) | advertise |
 | [AwangAdam@twitter](https://twitter.com/AwangAdam/status/1399563412573540355) | advertise |
 | [Awarene16686090@twitter](https://twitter.com/Awarene16686090/status/1412622734350192643) | moral (advertise) |
