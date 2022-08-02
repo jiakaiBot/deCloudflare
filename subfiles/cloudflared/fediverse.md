@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,593 |
+| com | 2,597 |
 | net | 1,494 |
 | social | 1,143 |
 | org | 1,069 |
-| de | 946 |
+| de | 947 |
 
 
 - Mastodon, Pleroma, etc
@@ -1103,6 +1103,7 @@ Here's a list of public Fediverse services.
 | arnip.org | No |
 | aroace.space | No |
 | aroaminggeek.com | No |
+| arousal.support | No |
 | arpidon.space | No |
 | arqadium.com | Yes |
 | arroba.pt | No |
@@ -1655,6 +1656,7 @@ Here's a list of public Fediverse services.
 | benhutchings.com | No |
 | benign.town | No |
 | benis.social | No |
+| benis8bits.stream | No |
 | benitox1.tk | No |
 | benjamin-westland.de | No |
 | benkenawell.com | No |
@@ -2638,6 +2640,7 @@ Here's a list of public Fediverse services.
 | chaselau.me | No |
 | chatalk.club | No |
 | chatamerica.us | No |
+| chatan.cc | Yes |
 | chatelet.ovh | No |
 | chatinbit.com | No |
 | chating.xyz | No |
@@ -3181,6 +3184,7 @@ Here's a list of public Fediverse services.
 | covert.tel | No |
 | cowfee.moe | No |
 | cowfee.org | No |
+| cowokr.de | No |
 | coxy.co | Yes |
 | coy.soy | No |
 | coyote.social | No |
@@ -3719,6 +3723,7 @@ Here's a list of public Fediverse services.
 | de-liker.com | Yes |
 | de.cool | Yes |
 | deaconpatrick.org | No |
+| dead10ck.com | No |
 | deadbatteries.work | No |
 | deadbsd.org | Yes |
 | deadinsi.de | Yes |
@@ -5067,6 +5072,7 @@ Here's a list of public Fediverse services.
 | fart.social | No |
 | farted.net | No |
 | farthinghalearms.com | No |
+| fartmail.me | No |
 | farts.club | Yes |
 | fasil.cloud | No |
 | fast-email.link | Yes |
@@ -6970,6 +6976,7 @@ Here's a list of public Fediverse services.
 | highlandschurch.net | No |
 | highspirits.games | No |
 | highvoltage.tv | No |
+| hijsselinckx.com | No |
 | hikaruaikawa.com | No |
 | hikaruaikawa.tk | No |
 | hiker.camp | No |
@@ -8161,6 +8168,7 @@ Here's a list of public Fediverse services.
 | jswc.de | Yes |
 | jtl.vision | Yes |
 | jtn.us | No |
+| jtown.xyz | No |
 | jtwp470.net | No |
 | juandpinto.com | No |
 | jubaleth.wtf | Yes |
@@ -8560,7 +8568,7 @@ Here's a list of public Fediverse services.
 | kirgroup.com | No |
 | kirgroup.net | No |
 | kirigakure.net | Yes |
-| kiriha.me | No |
+| kiriha.me | Yes |
 | kirimasharo.org | Yes |
 | kirimi.net | No |
 | kirinsan.org | Yes |
@@ -8800,6 +8808,7 @@ Here's a list of public Fediverse services.
 | kres.ch | Yes |
 | kresco.de | No |
 | kretschmann.social | No |
+| krimb0.com | Yes |
 | krinchan.com | Yes |
 | krinetzki.de | Yes |
 | kriom.net | No |
@@ -10596,6 +10605,7 @@ Here's a list of public Fediverse services.
 | meowr.org | No |
 | meows.life | Yes |
 | meowsdeluxe.com | No |
+| meowy.tech | No |
 | meowz.moe | No |
 | mercerist.space | No |
 | merci-la-police.fr | No |
@@ -17613,6 +17623,7 @@ Here's a list of public Fediverse services.
 | tubelab.video | No |
 | tubercul.es | No |
 | tubplex.org | Yes |
+| tucanet.com | No |
 | tucson.claims | No |
 | tuctum.com | No |
 | tuiwen.live | No |
@@ -18257,6 +18268,7 @@ Here's a list of public Fediverse services.
 | visualsoul.uk | No |
 | vitruvian.services | No |
 | vituperio.xyz | Yes |
+| vivi.moe | No |
 | vivianmaier.club | Yes |
 | vivid-rabbit.com | No |
 | viviers-fibre.net | No |
@@ -19508,8 +19520,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,796 |
-| Normal | 15,669 |
+| Cloudflare | 3,799 |
+| Normal | 15,678 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
