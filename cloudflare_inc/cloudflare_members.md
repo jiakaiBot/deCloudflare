@@ -438,6 +438,7 @@ Or is this merely a case of simple modesty?
 | Daniele Molteni | Firewall Product Manager |  |
 | Daniel Freeman | Marketing |  |
 | Daniel Goldstein | Go-to-market and Sales |  |
+| Daniel Harper | Employee | |
 | Daniel Herzig | Application Services Engineer |  |
 | Daniel Jones | Employee |  |
 | Daniella Vallurupalli | Communications | daniella@cloudflare.com<br>https://twitter.com/BellaTweetz |
