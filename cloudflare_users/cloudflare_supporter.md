@@ -8052,6 +8052,7 @@ Do not create new issue or we will close it as duplicate.
 | [tgah161@twitter](https://twitter.com/tgah161/status/1386024837819207680) | advertise |
 | [tgunr@twitter](https://twitter.com/tgunr/status/1411621018691584002) | moral (advertise) |
 | [TH98989@twitter](https://twitter.com/TH98989/status/1393745686877937668) | advertise |
+| [th44624024@twitter](https://twitter.com/th44624024/status/1554485621011644416) | advertise |
 | [Th62458950Th@twitter](https://twitter.com/Th62458950Th/status/1553229571717476354) | advertise |
 | [Th99629351@twitter](https://twitter.com/Th99629351/status/1378021025485479941) | advertise |
 | [ThaeHoneySu1@twitter](https://twitter.com/ThaeHoneySu1/status/1393502689124782082) | advertise |
