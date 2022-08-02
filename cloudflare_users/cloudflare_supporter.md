@@ -2232,6 +2232,7 @@ Do not create new issue or we will close it as duplicate.
 | [EngAlexMusic1@twitter](https://twitter.com/EngAlexMusic1/status/1526159260509515776) | advertise |
 | [Engineer_7oda@twitter](https://twitter.com/Engineer_7oda/status/1540451421069484033) | advertise |
 | [engmawia_23@twitter](https://twitter.com/engmawia_23/status/1383721139730481156) | advertise |
+| [eniayoogunsola@twitter](https://twitter.com/eniayoogunsola/status/1554367999418798080) | advertise |
 | [EnjoyFuckBooty@twitter](https://twitter.com/EnjoyFuckBooty/status/1377878042144501762) | advertise |
 | [enochgreen7@twitter](https://twitter.com/enochgreen7/status/1393323759352881154) | advertise |
 | [ensoulify@twitter](https://twitter.com/ensoulify/status/1376911202434097155) | advertise |
