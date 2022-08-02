@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Browser Isolation hang for some users](https://github.com/MatBenfield/news/issues/710)
 - [Cloudfare status codes](https://github.com/http-rs/http-types/issues/507)
 - [Add exclusions for iCloud Private Relay exit/egress IPs](https://github.com/matomo-org/plugin-TrackingSpamPrevention/issues/69)
 - [Console server is unavailable, please try again later](https://github.com/serverless/serverless/issues/11306)
