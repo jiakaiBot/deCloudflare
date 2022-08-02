@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,597 |
-| net | 1,494 |
-| social | 1,143 |
+| com | 2,599 |
+| net | 1,497 |
+| social | 1,144 |
 | org | 1,069 |
 | de | 947 |
 
@@ -979,6 +979,7 @@ Here's a list of public Fediverse services.
 | aonyx-cinerea.fun | No |
 | aorinngo.ga | No |
 | aorinngo.tk | No |
+| aorinngo.top | No |
 | aotake91.net | No |
 | aow.show | No |
 | aoxiang.online | Yes |
@@ -3014,6 +3015,7 @@ Here's a list of public Fediverse services.
 | collabora.digital | No |
 | collapse.cat | Yes |
 | collapsitarian.io | No |
+| collate.social | No |
 | collec.tf | No |
 | collectifs.net | No |
 | collectivecast.com | No |
@@ -6499,6 +6501,7 @@ Here's a list of public Fediverse services.
 | grey-box.net | No |
 | greylog.ru | No |
 | greyserv.net | No |
+| greyt.co.za | Yes |
 | grezl.eu | No |
 | gridfinity.com | No |
 | griffindow.com | Yes |
@@ -7844,6 +7847,7 @@ Here's a list of public Fediverse services.
 | jacs.xyz | No |
 | jadden.info | No |
 | jade.moe | No |
+| jaderune.net | No |
 | jadiunr.net | Yes |
 | jae.fi | No |
 | jaeger.website | No |
@@ -11760,6 +11764,7 @@ Here's a list of public Fediverse services.
 | neotokyo.dev | No |
 | neoziggurat.com | No |
 | nepolis.de | No |
+| neptube.io | No |
 | neptunedev.us | No |
 | nerantzis.social | No |
 | nerd-culture.tech | No |
@@ -13683,6 +13688,7 @@ Here's a list of public Fediverse services.
 | portaesgnos.org | No |
 | portes-imaginaire.org | No |
 | portkaihou.org | No |
+| porubu.com | Yes |
 | posadis.me | No |
 | poslac.com | No |
 | poslovitch.fr | No |
@@ -14977,6 +14983,7 @@ Here's a list of public Fediverse services.
 | sate.li | Yes |
 | satealliasdomain.net | No |
 | sateh.com | No |
+| sathyasai.guru | No |
 | sathyasays.com | Yes |
 | satocc.biz | No |
 | satoshifi.org | No |
@@ -17065,6 +17072,7 @@ Here's a list of public Fediverse services.
 | thirdworld.finance | No |
 | thirstyhorses.org | No |
 | this-is-epic.space | Yes |
+| thisdevfucks.com | No |
 | thisisgoodcontent.com | No |
 | thisishowidontdisappear.com | No |
 | thisisjoes.site | No |
@@ -17131,6 +17139,7 @@ Here's a list of public Fediverse services.
 | tildeverse.org | Yes |
 | tildex.com | No |
 | tiliches.net | No |
+| till.net | No |
 | tillbosselmann.de | No |
 | tille.ch | No |
 | tilvids.com | No |
@@ -18047,6 +18056,7 @@ Here's a list of public Fediverse services.
 | uwan.net | No |
 | uwu.engineering | No |
 | uwu.is | No |
+| uwu.name | Yes |
 | uwu.pm | Yes |
 | uwu.social | Yes |
 | uwu.st | No |
@@ -19193,6 +19203,7 @@ Here's a list of public Fediverse services.
 | ylan.page | No |
 | ymn.info | No |
 | ymsdrive.com | No |
+| yncrypt.net | Yes |
 | ynh.fr | No |
 | ynh.ovh | No |
 | ynhserver.com | No |
@@ -19520,8 +19531,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,799 |
-| Normal | 15,678 |
+| Cloudflare | 3,803 |
+| Normal | 15,685 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
