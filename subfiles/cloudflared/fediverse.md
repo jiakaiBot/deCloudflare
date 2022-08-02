@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,593 |
-| net | 1,493 |
+| net | 1,494 |
 | social | 1,143 |
 | org | 1,069 |
 | de | 946 |
@@ -992,6 +992,7 @@ Here's a list of public Fediverse services.
 | aperi.tube | No |
 | aperiodical.com | No |
 | apero.bzh | No |
+| apertatube.net | Yes |
 | apertron.com | No |
 | aperture.ink | Yes |
 | apetersburger.com | No |
@@ -13905,6 +13906,7 @@ Here's a list of public Fediverse services.
 | puddle.town | Yes |
 | puenter.org | No |
 | pueseso.club | No |
+| puff.place | No |
 | puffer.blog | Yes |
 | pug.family | No |
 | pug.photos | No |
@@ -17479,6 +17481,7 @@ Here's a list of public Fediverse services.
 | treeshrew.net | No |
 | treethought.com | No |
 | treffast.no | No |
+| treffler.cloud | Yes |
 | trendless.ca | Yes |
 | tretkowski.de | No |
 | trev.club | Yes |
@@ -19505,8 +19508,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,794 |
-| Normal | 15,668 |
+| Cloudflare | 3,796 |
+| Normal | 15,669 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
