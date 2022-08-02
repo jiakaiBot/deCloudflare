@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CORS and OAUTH2 plugin doesn't return access control headers on OPTIONS method](https://github.com/motiv-labs/janus/issues/484)
 - [CloudFlare Browser Isolation hang for some users](https://github.com/MatBenfield/news/issues/710)
 - [Cloudfare status codes](https://github.com/http-rs/http-types/issues/507)
 - [Add exclusions for iCloud Private Relay exit/egress IPs](https://github.com/matomo-org/plugin-TrackingSpamPrevention/issues/69)
