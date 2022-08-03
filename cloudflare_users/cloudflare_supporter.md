@@ -8043,6 +8043,7 @@ Do not create new issue or we will close it as duplicate.
 | [tej_bo@twitter](https://twitter.com/tej_bo/status/1525166409579483136) | advertise |
 | [tekakenji@twitter](https://twitter.com/tekakenji/status/1378831679356215296) | advertise |
 | [Tekkenz2@twitter](https://twitter.com/Tekkenz2/status/1400160711297277954) | advertise |
+| [tek_aevl@twitter](https://twitter.com/tek_aevl/status/1554915148623757313) | advertise |
 | [tek_kinz@twitter](https://twitter.com/tek_kinz/status/1507790839069777922) | advertise |
 | [Telehein2@twitter](https://twitter.com/Telehein2/status/1395541369725149187) | advertise |
 | [Teleostsilk6@twitter](https://twitter.com/Teleostsilk6/status/1399736474254336000) | advertise |
