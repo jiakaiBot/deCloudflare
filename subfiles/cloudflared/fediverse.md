@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,599 |
-| net | 1,497 |
+| com | 2,600 |
+| net | 1,499 |
 | social | 1,144 |
 | org | 1,069 |
 | de | 947 |
@@ -1035,6 +1035,7 @@ Here's a list of public Fediverse services.
 | aquilenet.fr | No |
 | ar.al | No |
 | arachnid.town | Yes |
+| arachnitech.com | Yes |
 | aragon.sh | Yes |
 | araisan.club | No |
 | arakawa.xyz | Yes |
@@ -1207,6 +1208,7 @@ Here's a list of public Fediverse services.
 | astragroup.info | Yes |
 | astral-gate.network | No |
 | astralchan.xyz | No |
+| astrid.tech | Yes |
 | astro.clinic | Yes |
 | astrolaboratory.club | No |
 | astrolovy.com | No |
@@ -2152,7 +2154,7 @@ Here's a list of public Fediverse services.
 | breadtube.tv | No |
 | brechanegra.net | No |
 | breeze.town | No |
-| breizh.me | No |
+| breizh.me | Yes |
 | breizh.pm | No |
 | bremen.social | No |
 | bremensaki.com | Yes |
@@ -4977,6 +4979,7 @@ Here's a list of public Fediverse services.
 | fabienphoto.eu | No |
 | fabioneves.ca | No |
 | fabis.cafe | No |
+| fabler.su | No |
 | fabrigli.fr | No |
 | faccionlatina.org | Yes |
 | faceborg.io | No |
@@ -8073,6 +8076,7 @@ Here's a list of public Fediverse services.
 | joffreyverd.fr | No |
 | johalla.org | No |
 | johanl.se | No |
+| johanv.net | No |
 | johanv.xyz | No |
 | john-livingston.fr | No |
 | john.town | Yes |
@@ -16627,6 +16631,7 @@ Here's a list of public Fediverse services.
 | tassaron.com | No |
 | tassiaart.com | Yes |
 | tastefuldinosaurerotica.com | No |
+| tastingtraffic.net | No |
 | tastypi.social | No |
 | tastytea.de | No |
 | tatapa.org | No |
@@ -17534,6 +17539,7 @@ Here's a list of public Fediverse services.
 | tripsocial.co | No |
 | triptico.com | No |
 | trispadsmit.com | No |
+| trm.md | Yes |
 | trn.ac | No |
 | troback.com | No |
 | troet.cafe | No |
@@ -19025,6 +19031,7 @@ Here's a list of public Fediverse services.
 | xn--qp9h.ml | No |
 | xn--qpr179gg5o.work | No |
 | xn--qubec-csa.tk | No |
+| xn--rtta-qoa.nu | No |
 | xn--rvca9caab9a8aafa7qa6ethsbi9ewa1jbdf91i.com | No |
 | xn--sjpmeg-juab.space | No |
 | xn--stefan-hhn-lcb.de | No |
@@ -19531,8 +19538,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,803 |
-| Normal | 15,685 |
+| Cloudflare | 3,807 |
+| Normal | 15,688 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
