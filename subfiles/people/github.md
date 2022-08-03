@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Google hosted jquery showing multiple errors in Chrome Developer tools Lighthouse Analysis](https://github.com/jquery/jquery/issues/5082)
 - [kickasstorrents-to (testing) Exception (kickasstorrents-to): The cookies provided by FlareSolverr are not valid: The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/453)
 - [CloudFlare Elevated 1104 Errors for Cloudflare Workers](https://github.com/MatBenfield/news/issues/757)
 - [CORS and OAUTH2 plugin doesn't return access control headers on OPTIONS method](https://github.com/motiv-labs/janus/issues/484)
