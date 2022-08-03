@@ -9287,6 +9287,7 @@ Do not create new issue or we will close it as duplicate.
 | [YaTu78700206@twitter](https://twitter.com/YaTu78700206/status/1385128233742438400) | advertise |
 | [YaungKoe@twitter](https://twitter.com/YaungKoe/status/1390402620833951745) | advertise |
 | [YaungZi60186603@twitter](https://twitter.com/YaungZi60186603/status/1526594565691834370) | advertise |
+| [yavjil@twitter](https://twitter.com/yavjil/status/1554599568897200129) | advertise |
 | [yAw12eeee@twitter](https://twitter.com/yAw12eeee/status/1400854581752393735) | advertise |
 | [YAwad7@twitter](https://twitter.com/YAwad7/status/1380723783540084737) | advertise |
 | [yay_cat_@twitter](https://twitter.com/yay_cat_/status/1431521757995970560) | advertise |
