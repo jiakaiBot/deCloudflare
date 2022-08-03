@@ -6,9 +6,9 @@ CLI tool to look up Cloudflare domain list
 
 - [Linux](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.linux?inline=false)
 ```
-wget https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.linux
-mv cfdomains.linux /bin/cfdomains
-chmod +x /bin/cfdomains
+wget https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.linux \
+  -O /usr/local/bin/cfdomains
+chmod +x /usr/local/bin/cfdomains
 cfdomains
 ```
   - [Windows](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/cfdomains/cfdomains.exe?inline=false)
