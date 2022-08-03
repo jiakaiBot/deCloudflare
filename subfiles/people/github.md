@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [jodit breaks when using requirejs](https://github.com/xdan/jodit/issues/871)
+- [Error when using Jodit with requirejs](https://github.com/jodit/jodit-react/issues/200)
 - [Google hosted jquery showing multiple errors in Chrome Developer tools Lighthouse Analysis](https://github.com/jquery/jquery/issues/5082)
 - [kickasstorrents-to (testing) Exception (kickasstorrents-to): The cookies provided by FlareSolverr are not valid: The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/453)
 - [CloudFlare Elevated 1104 Errors for Cloudflare Workers](https://github.com/MatBenfield/news/issues/757)
