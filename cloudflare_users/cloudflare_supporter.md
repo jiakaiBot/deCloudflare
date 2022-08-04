@@ -475,6 +475,7 @@ Do not create new issue or we will close it as duplicate.
 | [amirchitgaran@twitter](https://twitter.com/amirchitgaran/status/1384197111500083214) | advertise |
 | [AmirFusaini@twitter](https://twitter.com/AmirFusaini/status/1399362665416314883) | advertise |
 | [Amirh_1991@twitter](https://twitter.com/Amirh_1991/status/1530140150327541762) | advertise |
+| [AmirKhalaj19@twitter](https://twitter.com/AmirKhalaj19/status/1555311811481804800) | advertise |
 | [AmirMansoury@twitter](https://twitter.com/AmirMansoury/status/1536930486601195520) | advertise |
 | [AmirShamaei@twitter](https://twitter.com/AmirShamaei/status/1380125118387589121) | advertise |
 | [AmirullAyob@twitter](https://twitter.com/AmirullAyob/status/1474048815149682689) | advertise |
