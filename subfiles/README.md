@@ -11,6 +11,7 @@
   - [Are links vulnerable to MITM attack?](about.ismm.md)
   - [Which website rejected me?](about.urjm.md)
 - Service
+  - [Karma API](service.karma_api.md)
   - [IAList](https://ialist.crimeflare.eu.org)
   - [Alternative Link](service.altlink.md)
   - [Local Area](https://localarea.crimeflare.eu.org)
