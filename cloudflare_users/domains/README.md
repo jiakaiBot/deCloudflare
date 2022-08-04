@@ -25,6 +25,7 @@
 
   - [is_listed_cf(), is_cloudflare_cached()](../../tool/example.json.is_cloudflare.php)
   - [CfDomains](../../tool/cfdomains/README.md), CLI tool to look up Cloudflare domain list
+  - [Karma API](../../subfiles/service.karma_api.md)
 
 [![](../../image/__archiveorg.jpg)](https://archive.org/details/crimeflare)
 
