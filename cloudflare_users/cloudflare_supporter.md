@@ -1812,6 +1812,7 @@ Do not create new issue or we will close it as duplicate.
 | [DavidMartin0091@twitter](https://twitter.com/DavidMartin0091/status/1395217999108341762) | advertise |
 | [Davidng70616958@twitter](https://twitter.com/Davidng70616958/status/1381311850239827968) | advertise |
 | [DavidOpasik@twitter](https://twitter.com/DavidOpasik/status/1421296723926814723) | advertise |
+| [DavidSchrader@twitter](https://twitter.com/DavidSchrader/status/1554965481454452736) | advertise |
 | [DavidSekar@twitter](https://twitter.com/DavidSekar/status/1386895546346983424) | advertise |
 | [DavidTwe1@twitter](https://twitter.com/DavidTwe1/status/1391063344296075266) | advertise |
 | [davidvpe@twitter](https://twitter.com/davidvpe/status/1519691843440627713) | advertise |
@@ -5103,6 +5104,7 @@ Do not create new issue or we will close it as duplicate.
 | [Me3nDDbGmrDw9Lw@twitter](https://twitter.com/Me3nDDbGmrDw9Lw/status/1407391634812293121) | advertise |
 | [measakid4030@twitter](https://twitter.com/measakid4030/status/1538259167776886784) | advertise |
 | [med61883332@twitter](https://twitter.com/med61883332/status/1439010726480420871) | advertise |
+| [Medk1231@twitter](https://twitter.com/Medk1231/status/1554983422879219712) | advertise |
 | [MeeMee71555616@twitter](https://twitter.com/MeeMee71555616/status/1395746751051558919) | advertise |
 | [MeeMeeAye1@twitter](https://twitter.com/MeeMeeAye1/status/1395916457137958913) | advertise |
 | [Meeng10667850@twitter](https://twitter.com/Meeng10667850/status/1548378757181739017) | advertise |
