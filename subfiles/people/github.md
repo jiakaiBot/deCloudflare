@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Poor performance under DDoS attack](https://github.com/pterodactyl/panel/issues/4300)
 - [Add cloudflare IPs to exceptions? weboost.com (assets.wilsonelectronics.com) blocked](https://github.com/jpgpi250/piholemanual/issues/17)
 - [Introduce proper handling for cloudflare rate limits](https://github.com/Pycord-Development/pycord/issues/1543)
 - [jodit breaks when using requirejs](https://github.com/xdan/jodit/issues/871)
