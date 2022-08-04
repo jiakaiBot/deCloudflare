@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Could we make this lib work with Cloudflare Workers platform?](https://github.com/kiliman/remix-typedjson/issues/7)
 - [Terraform script doesn't work - Cloudflare variables are broken?](https://github.com/trafgals/oracle-swizzin/issues/1)
 - [External links routed through CloudFlare network can cause an error](https://github.com/vegaprotocol/vega-website-cypress-tests/issues/11)
 - [Poor performance under DDoS attack](https://github.com/pterodactyl/panel/issues/4300)
