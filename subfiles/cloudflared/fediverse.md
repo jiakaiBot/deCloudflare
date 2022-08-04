@@ -8352,6 +8352,7 @@ Here's a list of public Fediverse services.
 | kapuluan.link | No |
 | kapussinettes.ovh | No |
 | kar.ly | Yes |
+| karab.in | Yes |
 | karagedon.com | Yes |
 | karagory.com | No |
 | karamatsu.blue | No |
@@ -8807,6 +8808,7 @@ Here's a list of public Fediverse services.
 | kraut.social | Yes |
 | kraut.zone | Yes |
 | krazy.party | No |
+| krbn.pl | Yes |
 | kreato.dev | No |
 | kreatv.org | No |
 | krefeld.club | Yes |
@@ -19538,7 +19540,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,807 |
+| Cloudflare | 3,809 |
 | Normal | 15,688 |
 
 
