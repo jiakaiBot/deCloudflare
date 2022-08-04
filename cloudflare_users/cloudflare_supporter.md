@@ -6101,6 +6101,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ningxi369@twitter](https://twitter.com/Ningxi369/status/1520201182278725632) | advertise |
 | [Ninhngu01376669@twitter](https://twitter.com/Ninhngu01376669/status/1504717590463401984) | advertise |
 | [NiNiWinSwe1@twitter](https://twitter.com/NiNiWinSwe1/status/1381950121617682433) | advertise |
+| [ninja433work@twitter](https://twitter.com/ninja433work/status/1555147355325730816) | advertise |
 | [Ninja87682819@twitter](https://twitter.com/Ninja87682819/status/1402986987829665794) | advertise |
 | [ninjaismyidol12@twitter](https://twitter.com/ninjaismyidol12/status/1375869047657619456) | advertise |
 | [nin_air@twitter](https://twitter.com/nin_air/status/1397648173632417793) | advertise |
@@ -6148,6 +6149,7 @@ Do not create new issue or we will close it as duplicate.
 | [nomkhae@twitter](https://twitter.com/nomkhae/status/1519560089258332160) | advertise |
 | [NomRageCafe@twitter](https://twitter.com/NomRageCafe/status/1512087137952301059) | advertise |
 | [Noname11901@twitter](https://twitter.com/Noname11901/status/1554010109147131905) | advertise |
+| [Noname21098@twitter](https://twitter.com/Noname21098/status/1555141462265774082) | advertise |
 | [NoName860625516@twitter](https://twitter.com/NoName860625516/status/1552499967876423680) | advertise |
 | [None58240167@twitter](https://twitter.com/None58240167/status/1395073106876801026) | advertise |
 | [Nonkogee3W@twitter](https://twitter.com/Nonkogee3W/status/1403011044998488066) | advertise |
@@ -8556,6 +8558,7 @@ Do not create new issue or we will close it as duplicate.
 | [trandunghl@twitter](https://twitter.com/trandunghl/status/1519338460704026626) | advertise |
 | [tranhaonam331@twitter](https://twitter.com/tranhaonam331/status/1482005738461757454) | advertise |
 | [trantha16219627@twitter](https://twitter.com/trantha16219627/status/1480025129786564613) | advertise |
+| [Trantha51229117@twitter](https://twitter.com/Trantha51229117/status/1555136963715698689) | advertise |
 | [trantie92872403@twitter](https://twitter.com/trantie92872403/status/1485623018823258115) | advertise |
 | [trantinh98@twitter](https://twitter.com/trantinh98/status/1551127415405297664) | advertise |
 | [TranTua00316518@twitter](https://twitter.com/TranTua00316518/status/1503265835145904128) | advertise |
