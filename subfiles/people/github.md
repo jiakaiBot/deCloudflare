@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Add cloudflare IPs to exceptions? weboost.com (assets.wilsonelectronics.com) blocked](https://github.com/jpgpi250/piholemanual/issues/17)
+- [Introduce proper handling for cloudflare rate limits](https://github.com/Pycord-Development/pycord/issues/1543)
 - [jodit breaks when using requirejs](https://github.com/xdan/jodit/issues/871)
 - [Error when using Jodit with requirejs](https://github.com/jodit/jodit-react/issues/200)
 - [Google hosted jquery showing multiple errors in Chrome Developer tools Lighthouse Analysis](https://github.com/jquery/jquery/issues/5082)
