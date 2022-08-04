@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [External links routed through CloudFlare network can cause an error](https://github.com/vegaprotocol/vega-website-cypress-tests/issues/11)
 - [Poor performance under DDoS attack](https://github.com/pterodactyl/panel/issues/4300)
 - [Add cloudflare IPs to exceptions? weboost.com (assets.wilsonelectronics.com) blocked](https://github.com/jpgpi250/piholemanual/issues/17)
 - [Introduce proper handling for cloudflare rate limits](https://github.com/Pycord-Development/pycord/issues/1543)
