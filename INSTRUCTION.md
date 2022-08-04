@@ -37,7 +37,9 @@ There are many ways to detect it:
 - Add-on "[Ĉu ligoj estas vundeblaj al MITM-atako?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "_Attention Required! Cloudflare_" or "_Checking your browser_" webpage.
 - Use "[Query DataBase](subfiles/service.ombrelo.md)" webpage.
-- Search [cloudflare domain list](cloudflare_users/domains/). Karma's ["Find Cloudflare Domains" API](http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is_cf.php)
+- Search [cloudflare domain list](cloudflare_users/domains/).
+  - [CfDomains report tool](tool/cfdomains/README.md)
+  - Karma's ["Find Cloudflare Domains" API](subfiles/service.karma_api.md)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
 
 ```
@@ -138,7 +140,8 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 
 - Add-on "[Kiu retejo malakceptis min?](subfiles/about.urjm.md)" will help your domain collection.
 - Add-on "[Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](subfiles/about.isat.md)" will tell you which link rejected Tor visitor.
-- Search [anti-tor fqdn list](anti-tor_users/domains/). Karma's ["Find Anti-Tor FQDN" API](http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is_at.php)
+- Search [anti-tor fqdn list](anti-tor_users/domains/).
+  - Karma's ["Find Anti-Tor FQDN" API](subfiles/service.karma_api.md)
 
 ![](image/tor_nontor_diff.jpg)
 
@@ -204,12 +207,12 @@ A, B, or C will be enough. (or D if you really can't)
 
 Your contribution will be pushed to git automatically.
 - Cloudflare
-  - **Easiest way**: Use [CfDomains](tool/cfdomains/README.md) report tool.
+  - **Easiest way**: Use [**CfDomains report tool**](tool/cfdomains/README.md).
   - Or: Scan FQDN on "[Query Database](subfiles/service.ombrelo.md)" webpage.
-  - Or: Use "_MITM test_" API.
+  - Or: Use ["_MITM test_" API](subfiles/service.ombrelo.md).
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 -X POST -F 'f=www.emsisoft.com' (API URL)is_mitm.php`
-- Anti-TOR
-  - Use "_Is it blocking Tor?_" API.
+- Anti-Tor
+  - Use ["_Is it blocking Tor?_" API](subfiles/service.ombrelo.md).
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 -X POST -F 'f=www.emsisoft.com' (API URL)is_antitor.php`
 
 > Type D: Create an Issue
