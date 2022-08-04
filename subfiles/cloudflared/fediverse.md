@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,600 |
-| net | 1,499 |
+| net | 1,500 |
 | social | 1,144 |
-| org | 1,069 |
+| org | 1,070 |
 | de | 947 |
 
 
@@ -382,6 +382,7 @@ Here's a list of public Fediverse services.
 | abigo.de | No |
 | abiscuola.org | No |
 | abl.cl | No |
+| ablaze.one | Yes |
 | abld.info | No |
 | abnd.space | No |
 | aboivin.com | No |
@@ -1688,6 +1689,7 @@ Here's a list of public Fediverse services.
 | bern.social | No |
 | bernard.host | No |
 | bernhardp.social | No |
+| bernigaud.eu | No |
 | berries.pw | Yes |
 | berries.space | No |
 | berryhill.me | No |
@@ -7700,6 +7702,7 @@ Here's a list of public Fediverse services.
 | ipolska.pl | No |
 | ipv4.is | No |
 | ipv6.club | Yes |
+| ipv6.party | Yes |
 | ipv6.social | No |
 | ir1s.com | Yes |
 | irenala.edu.mg | No |
@@ -8491,6 +8494,7 @@ Here's a list of public Fediverse services.
 | keyboardon.club | No |
 | keybored.me | No |
 | keycord.me | No |
+| keyedlimepie.org | No |
 | keysmash.xyz | No |
 | keystroke.social | No |
 | kfem.cat | No |
@@ -10536,6 +10540,7 @@ Here's a list of public Fediverse services.
 | megkuma.com | No |
 | mego.bar | Yes |
 | mehlmann.info | No |
+| mei-home.net | No |
 | meinderink.org | No |
 | meinrheinma.in | No |
 | meinungs.blog | No |
@@ -13234,6 +13239,7 @@ Here's a list of public Fediverse services.
 | phantasma.cloud | Yes |
 | pharus.pt | No |
 | phasegate.icu | No |
+| phaseshift.studio | No |
 | phasing.cloud | No |
 | phatnastytour.com | No |
 | phereph.one | No |
@@ -15651,6 +15657,7 @@ Here's a list of public Fediverse services.
 | slothy.win | Yes |
 | slovak.digital | No |
 | slowbrain.net | No |
+| slowest.network | Yes |
 | slownewsdayshow.com | No |
 | slrpnk.net | No |
 | sludge.town | Yes |
@@ -15742,6 +15749,7 @@ Here's a list of public Fediverse services.
 | snowandtweet.jp | No |
 | snowcode.ovh | No |
 | snowcrash.ca | No |
+| snowdin.town | No |
 | snowdon.jp | No |
 | snowgoons.ro | Yes |
 | snowii.moe | Yes |
@@ -19540,8 +19548,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,809 |
-| Normal | 15,688 |
+| Cloudflare | 3,812 |
+| Normal | 15,693 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
