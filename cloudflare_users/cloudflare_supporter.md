@@ -4883,6 +4883,7 @@ Do not create new issue or we will close it as duplicate.
 | [madriid14@twitter](https://twitter.com/madriid14/status/1383009393147473920) | advertise |
 | [MadznalA@twitter](https://twitter.com/MadznalA/status/1475493006442565633) | advertise |
 | [MaEiEiKhine1@twitter](https://twitter.com/MaEiEiKhine1/status/1396386851187924993) | advertise |
+| [MagedSa03599768@twitter](https://twitter.com/MagedSa03599768/status/1555284648200208384) | advertise |
 | [magicshoptae1@twitter](https://twitter.com/magicshoptae1/status/1391277628955402244) | advertise |
 | [Magmavalt@twitter](https://twitter.com/Magmavalt/status/1526286649839206400) | advertise |
 | [magnificus_g@twitter](https://twitter.com/magnificus_g/status/1534864691318640641) | advertise |
