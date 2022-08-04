@@ -7736,6 +7736,7 @@ Do not create new issue or we will close it as duplicate.
 | [sohail_2668@twitter](https://twitter.com/sohail_2668/status/1379913128268328961) | advertise |
 | [soil35719772@twitter](https://twitter.com/soil35719772/status/1392742661144997890) | advertise |
 | [Sojolah02162432@twitter](https://twitter.com/Sojolah02162432/status/1401944661275545603) | advertise |
+| [solakoskik@twitter](https://twitter.com/solakoskik/status/1555226731350409216) | advertise |
 | [SoldustMero@twitter](https://twitter.com/SoldustMero/status/1549580892988850182) | advertise |
 | [SolekhudinAK@twitter](https://twitter.com/SolekhudinAK/status/1384881486944509956) | advertise |
 | [Solon59889088@twitter](https://twitter.com/Solon59889088/status/1378327434219560960) | advertise |
@@ -7894,6 +7895,7 @@ Do not create new issue or we will close it as duplicate.
 | [SunShin97584842@twitter](https://twitter.com/SunShin97584842/status/1389530061120831489) | advertise |
 | [Sunti64023767@twitter](https://twitter.com/Sunti64023767/status/1395120838727245825) | advertise |
 | [superayc@twitter](https://twitter.com/superayc/status/1385426760506826756) | advertise |
+| [SuperDhyaz@twitter](https://twitter.com/SuperDhyaz/status/1555238947294289922) | advertise |
 | [SuperduperMh12@twitter](https://twitter.com/SuperduperMh12/status/1386257404518563841) | advertise |
 | [super_zola@twitter](https://twitter.com/super_zola/status/1392056516908179460) | advertise |
 | [Supmate20@twitter](https://twitter.com/Supmate20/status/1404358730683199492) | advertise |
