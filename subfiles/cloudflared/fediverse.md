@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,600 |
-| net | 1,500 |
+| net | 1,501 |
 | social | 1,144 |
 | org | 1,070 |
-| de | 947 |
+| de | 949 |
 
 
 - Mastodon, Pleroma, etc
@@ -931,6 +931,7 @@ Here's a list of public Fediverse services.
 | ansico.dk | No |
 | ansiktsburk.se | No |
 | antabaka.me | No |
+| antarctic.ga | No |
 | anthill.engineering | No |
 | anthro.cc | No |
 | anthro.in.th | Yes |
@@ -4912,7 +4913,7 @@ Here's a list of public Fediverse services.
 | evri1s-connected.online | No |
 | evu-group.de | Yes |
 | ewaf.club | Yes |
-| ewb.io | No |
+| ewb.io | Yes |
 | ewcmi.org | No |
 | eweg.be | No |
 | ewsandor.com | No |
@@ -8152,6 +8153,7 @@ Here's a list of public Fediverse services.
 | joyrex.net | No |
 | jp-mastodon.com | No |
 | jp-mstdn.com | No |
+| jp-studios.de | Yes |
 | jp-warrior.cf | No |
 | jpages.eu | No |
 | jpi.io | Yes |
@@ -8819,7 +8821,7 @@ Here's a list of public Fediverse services.
 | krefeld.life | No |
 | krekow.me | No |
 | krems.social | No |
-| kres.ch | Yes |
+| kres.ch | No |
 | kresco.de | No |
 | kretschmann.social | No |
 | krimb0.com | Yes |
@@ -16145,6 +16147,7 @@ Here's a list of public Fediverse services.
 | stefanberger.net | No |
 | steffes.dev | No |
 | steffo.eu | Yes |
+| steflaf.fr | No |
 | stefofficiel.me | No |
 | stefp.me | No |
 | stegeman.me | Yes |
@@ -16484,6 +16487,7 @@ Here's a list of public Fediverse services.
 | sysctl.io | Yes |
 | sysi.work | No |
 | sysinfra.info | No |
+| sysk-work.net | Yes |
 | sysprotect.eu | No |
 | sysreturn.net | No |
 | system-imperator.de | No |
@@ -16505,6 +16509,7 @@ Here's a list of public Fediverse services.
 | syuwa.fun | No |
 | syvita.club | No |
 | szeged.social | No |
+| szkod.ovh | No |
 | szmer.info | No |
 | szy.fr | No |
 | szy.io | No |
@@ -16774,6 +16779,7 @@ Here's a list of public Fediverse services.
 | telent.net | No |
 | telepati.ch | No |
 | telescope.garden | No |
+| teleyal.blog | No |
 | telmina.com | No |
 | telteltel.com | No |
 | telvanni.biz | No |
@@ -17193,6 +17199,7 @@ Here's a list of public Fediverse services.
 | tinypod.org | No |
 | tinyrobots.pub | No |
 | tinysubversions.com | No |
+| tinytip.de | No |
 | tiotrom.com | No |
 | tippetarius.ru | No |
 | titis.xyz | Yes |
@@ -19548,8 +19555,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,812 |
-| Normal | 15,693 |
+| Cloudflare | 3,814 |
+| Normal | 15,698 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
