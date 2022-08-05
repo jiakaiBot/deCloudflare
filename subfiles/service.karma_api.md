@@ -26,7 +26,7 @@ For looking up domain's existence as a [MITM domain](cloudflare_users/domains/RE
 | -- | -- |
 | Location | `(base url)is_cf.php` |
 | Request Method | `POST` |
-| Input | `f` or `u` is required. `with_cfowned` is optional.<br>`f` FQDN (e.g. www.google.com)<br>`u` URL (e.g. https://www.google.com/)<br>`with_cfowned` Existence (If set, return true when the domain is owned by CloudFlare Inc.) |
+| Input | `f` or `u` is required. `ignore_cfowned` is optional.<br>`f` FQDN (e.g. www.google.com)<br>`u` URL (e.g. https://www.google.com/)<br>`ignore_cfowned` Existence (If set, return FALSE when the domain is owned by CloudFlare Inc.) |
 | Output | JSON value as array. If 2nd value(j[1]) is true then the input is CloudFlare.<br>[false,false] (Error or not Cloudflare)<br>[true,false] (Not Cloudflare)<br>[true,true] (Cloudflare) |
 | cURL Example | `curl -X POST -F 'f=www.example.com' -k --http2 https://clearnet/api/is_cf.php`<br>`curl -x socks5h://127.0.0.1:9050 -X POST -F 'f=www.example.com' http://onion/api/is_cf.php` |
 
