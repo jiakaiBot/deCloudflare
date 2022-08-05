@@ -53,7 +53,7 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 
 ### How to Subscribe
 
-1. Follow the [AltLink Account](https://101010.pl/@mg). (if you [do not have Mastodon account](https://101010.pl/invite/TDgu3GpQ))
+1. Follow the [AltLink Account](https://101010.pl/@mg). (if you [do not have Mastodon account](https://101010.pl/invite/txvFuk9h))
   - Some instances such as [mastodon.social](https://github.com/mastodon/mastodon/issues/16480) are blocking Altlink.
 
 2. Send _any text_ as **direct** message to above account. (e.g. `@accountname ok`)
