@@ -978,6 +978,7 @@ Do not create new issue or we will close it as duplicate.
 | [b0rzoff@twitter](https://twitter.com/b0rzoff/status/1409774769717792769) | moral (advertise) |
 | [B0t51@twitter](https://twitter.com/B0t51/status/1390031961192734720) | advertise |
 | [b7b4c7d8e0a04ec@twitter](https://twitter.com/b7b4c7d8e0a04ec/status/1505572845442662401) | advertise |
+| [Baalolenvadi@twitter](https://twitter.com/Baalolenvadi/status/1555616002037383168) | advertise |
 | [BabaDeviant@twitter](https://twitter.com/BabaDeviant/status/1390391826134282246) | advertise |
 | [babayagaofIndia@twitter](https://twitter.com/babayagaofIndia/status/1394759766845444101) | advertise |
 | [babitea239@twitter](https://twitter.com/babitea239/status/1552152085956661249) | advertise |
@@ -3254,6 +3255,7 @@ Do not create new issue or we will close it as duplicate.
 | [HvhcommunityN@twitter](https://twitter.com/HvhcommunityN/status/1386210716168990723) | advertise |
 | [HVnMinh46685368@twitter](https://twitter.com/HVnMinh46685368/status/1393410731706490882) | advertise |
 | [hvturingga@twitter](https://twitter.com/hvturingga/status/1405917106617520129) | advertise |
+| [HWP2000@twitter](https://twitter.com/HWP2000/status/1555609415201353728) | advertise |
 | [hwynlatt@twitter](https://twitter.com/hwynlatt/status/1399335430257061889) | advertise |
 | [hxjdjdj63536269@twitter](https://twitter.com/hxjdjdj63536269/status/1376747966766084096) | advertise |
 | [hydraking123@twitter](https://twitter.com/hydraking123/status/1471298406685753349) | advertise |
@@ -8098,6 +8100,7 @@ Do not create new issue or we will close it as duplicate.
 | [th44624024@twitter](https://twitter.com/th44624024/status/1554485621011644416) | advertise |
 | [Th62458950Th@twitter](https://twitter.com/Th62458950Th/status/1553229571717476354) | advertise |
 | [Th99629351@twitter](https://twitter.com/Th99629351/status/1378021025485479941) | advertise |
+| [Thachminh89@twitter](https://twitter.com/Thachminh89/status/1555605823086559232) | advertise |
 | [ThaeHoneySu1@twitter](https://twitter.com/ThaeHoneySu1/status/1393502689124782082) | advertise |
 | [thaenan62172284@twitter](https://twitter.com/thaenan62172284/status/1395624028971311106) | advertise |
 | [ThaeSandarKhin1@twitter](https://twitter.com/ThaeSandarKhin1/status/1390853813498646531) | advertise |
