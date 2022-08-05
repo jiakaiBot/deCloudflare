@@ -5095,6 +5095,7 @@ Do not create new issue or we will close it as duplicate.
 | [MdArifu50961585@twitter](https://twitter.com/MdArifu50961585/status/1552642900181549056) | advertise |
 | [MDASFAK56887662@twitter](https://twitter.com/MDASFAK56887662/status/1534808935395643392) | advertise |
 | [MdAshra85999828@twitter](https://twitter.com/MdAshra85999828/status/1386984714934886407) | advertise |
+| [MdJonay27065005@twitter](https://twitter.com/MdJonay27065005/status/1555577964254834688) | advertise |
 | [MdJuned57137884@twitter](https://twitter.com/MdJuned57137884/status/1378966402720272384) | advertise |
 | [mdk796299@twitter](https://twitter.com/mdk796299/status/1394950846845046794) | advertise |
 | [MDMahmu02793472@twitter](https://twitter.com/MDMahmu02793472/status/1537213247782535168) | advertise |
