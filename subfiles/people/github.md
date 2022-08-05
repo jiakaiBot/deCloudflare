@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Provider: root domain does not update](https://github.com/TimothyYe/godns/issues/176)
 - [Could we make this lib work with Cloudflare Workers platform?](https://github.com/kiliman/remix-typedjson/issues/7)
 - [Terraform script doesn't work - Cloudflare variables are broken?](https://github.com/trafgals/oracle-swizzin/issues/1)
 - [External links routed through CloudFlare network can cause an error](https://github.com/vegaprotocol/vega-website-cypress-tests/issues/11)
