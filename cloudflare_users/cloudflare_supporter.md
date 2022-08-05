@@ -9293,6 +9293,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yanmyoa73763750@twitter](https://twitter.com/Yanmyoa73763750/status/1390079371545808905) | advertise |
 | [yann6113@twitter](https://twitter.com/yann6113/status/1546313786587770880) | advertise |
 | [YanNain71759349@twitter](https://twitter.com/YanNain71759349/status/1390976342376599553) | advertise |
+| [YanNain83090198@twitter](https://twitter.com/YanNain83090198/status/1555564376928956416) | advertise |
 | [yannaun02339569@twitter](https://twitter.com/yannaun02339569/status/1392301842701295616) | advertise |
 | [YanPaiTrue@twitter](https://twitter.com/YanPaiTrue/status/1404820644131328000) | advertise |
 | [YanYan16789666@twitter](https://twitter.com/YanYan16789666/status/1400852123902906369) | advertise |
