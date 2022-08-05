@@ -5899,6 +5899,7 @@ Do not create new issue or we will close it as duplicate.
 | [newRigger72@twitter](https://twitter.com/newRigger72/status/1397210217872494601) | advertise |
 | [NewsRoo81265004@twitter](https://twitter.com/NewsRoo81265004/status/1405600643323138048) | advertise |
 | [news_scraper@twitter](https://twitter.com/news_scraper/status/1370141469613391875) | advertise |
+| [NextAds1@twitter](https://twitter.com/NextAds1/status/1555508312602722304) | advertise |
 | [NFTsMintMarket@twitter](https://twitter.com/NFTsMintMarket/status/1508599297839104003) | advertise |
 | [nftsrt@twitter](https://twitter.com/nftsrt/status/1472866208814964740) | advertise |
 | [Ng17137539@twitter](https://twitter.com/Ng17137539/status/1391247431531077636) | advertise |
@@ -9671,6 +9672,7 @@ Do not create new issue or we will close it as duplicate.
 | [_awexx@twitter](https://twitter.com/_awexx/status/1390211288136040448) | advertise |
 | [_baby_metal@twitter](https://twitter.com/_baby_metal/status/1555345493915758592) | advertise |
 | [_bamin@twitter](https://twitter.com/_bamin/status/1502677212537159682) | advertise |
+| [_CyberMaster@twitter](https://twitter.com/_CyberMaster/status/1555502381504368641) | advertise |
 | [_DepvaOTP_@twitter](https://twitter.com/_DepvaOTP_/status/1399004303788888067) | advertise |
 | [_htet1@twitter](https://twitter.com/_htet1/status/1390121428360433672) | advertise |
 | [_IvanFlecha@twitter](https://twitter.com/_IvanFlecha/status/1507311637857980417) | advertise |
