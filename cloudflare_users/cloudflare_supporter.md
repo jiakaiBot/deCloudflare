@@ -5231,6 +5231,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinAung84733915@twitter](https://twitter.com/MinAung84733915/status/1394808177552551941) | advertise |
 | [MinChanMaung@twitter](https://twitter.com/MinChanMaung/status/1393885831060856839) | advertise |
 | [MinChuSan1@twitter](https://twitter.com/MinChuSan1/status/1390029208294809600) | advertise |
+| [MinderManiac@twitter](https://twitter.com/MinderManiac/status/1555393267469914112) | advertise |
 | [Minecraftindon6@twitter](https://twitter.com/Minecraftindon6/status/1475411079098355713) | advertise |
 | [Minemu@twitter](https://twitter.com/Minemu/status/1421686937522348036) | advertise |
 | [Minh1717@twitter](https://twitter.com/Minh1717/status/1401879124075892736) | advertise |
