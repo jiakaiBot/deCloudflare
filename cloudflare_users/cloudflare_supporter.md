@@ -7506,6 +7506,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shakiba34613353@twitter](https://twitter.com/Shakiba34613353/status/1530881904714878976) | advertise |
 | [ShalomValor@twitter](https://twitter.com/ShalomValor/status/1391398052464762880) | advertise |
 | [shamalesmail@twitter](https://twitter.com/shamalesmail/status/1383397258905849859) | advertise |
+| [shamarThyErash@twitter](https://twitter.com/shamarThyErash/status/1555626158485536768) | advertise |
 | [shamelessasfuck@twitter](https://twitter.com/shamelessasfuck/status/1390875709166350338) | advertise |
 | [ShaneUmayanga@twitter](https://twitter.com/ShaneUmayanga/status/1484075801041842178) | advertise |
 | [Shanilk40518007@twitter](https://twitter.com/Shanilk40518007/status/1401086959989268482) | advertise |
