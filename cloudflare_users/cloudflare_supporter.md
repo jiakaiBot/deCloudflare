@@ -4775,6 +4775,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lowkey6663@twitter](https://twitter.com/Lowkey6663/status/1508020581207527430) | advertise |
 | [lowkey_jimenez@twitter](https://twitter.com/lowkey_jimenez/status/1399129185591779328) | advertise |
 | [Lquci14@twitter](https://twitter.com/Lquci14/status/1401547370786000896) | advertise |
+| [lqutuan@twitter](https://twitter.com/lqutuan/status/1555343644546461696) | advertise |
 | [LRSNLP@twitter](https://twitter.com/LRSNLP/status/1447211176006459399) | advertise |
 | [LShaba98@twitter](https://twitter.com/LShaba98/status/1483212185480445954) | advertise |
 | [LSn15256186@twitter](https://twitter.com/LSn15256186/status/1553368082319839238) | advertise |
@@ -5078,6 +5079,7 @@ Do not create new issue or we will close it as duplicate.
 | [MB72374335@twitter](https://twitter.com/MB72374335/status/1496020675609645056) | advertise |
 | [MBangbwx@twitter](https://twitter.com/MBangbwx/status/1493618913594253314) | advertise |
 | [mBoiz19@twitter](https://twitter.com/mBoiz19/status/1552910460738883584) | advertise |
+| [MCedrid@twitter](https://twitter.com/MCedrid/status/1555325330042372097) | advertise |
 | [MChanngyi@twitter](https://twitter.com/MChanngyi/status/1403022638901985281) | advertise |
 | [MckyawG80477746@twitter](https://twitter.com/MckyawG80477746/status/1402182846521901056) | advertise |
 | [mcneil_stayce@twitter](https://twitter.com/mcneil_stayce/status/1389504652291493897) | advertise |
