@@ -9007,6 +9007,7 @@ Do not create new issue or we will close it as duplicate.
 | [waawawalala@twitter](https://twitter.com/waawawalala/status/1393040426983059462) | advertise |
 | [Waboobob@twitter](https://twitter.com/Waboobob/status/1534485107230253056) | advertise |
 | [Wadawn15@twitter](https://twitter.com/Wadawn15/status/1396809468005036034) | advertise |
+| [WADELOLYT@twitter](https://twitter.com/WADELOLYT/status/1555652341969321985) | advertise |
 | [Waelelsayed56@twitter](https://twitter.com/Waelelsayed56/status/1397011445435469824) | advertise |
 | [wael_shamsedin@twitter](https://twitter.com/wael_shamsedin/status/1522288287284711427) | advertise |
 | [Waffle2175@twitter](https://twitter.com/Waffle2175/status/1535801167816577024) | advertise |
