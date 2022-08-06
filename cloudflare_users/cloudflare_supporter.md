@@ -650,6 +650,7 @@ Do not create new issue or we will close it as duplicate.
 | [ariess1265@twitter](https://twitter.com/ariess1265/status/1549318704646979584) | advertise |
 | [Ariff36174425@twitter](https://twitter.com/Ariff36174425/status/1501938338902986762) | advertise |
 | [ArifinSunny19@twitter](https://twitter.com/ArifinSunny19/status/1389227451742523399) | advertise |
+| [Arjing66811042@twitter](https://twitter.com/Arjing66811042/status/1556038266939330560) | advertise |
 | [Arjun63261515@twitter](https://twitter.com/Arjun63261515/status/1384863027078565892) | advertise |
 | [Arkae13@twitter](https://twitter.com/Arkae13/status/1399725758654861313) | advertise |
 | [Arkar27177138@twitter](https://twitter.com/Arkar27177138/status/1401133873111572482) | advertise |
@@ -4146,8 +4147,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5435,6 +5436,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mohamed_Mifzaal@twitter](https://twitter.com/Mohamed_Mifzaal/status/1550505846899363841) | advertise |
 | [mohametsaah@twitter](https://twitter.com/mohametsaah/status/1550691087441727488) | advertise |
 | [Mohamma17583661@twitter](https://twitter.com/Mohamma17583661/status/1489043097405333506) | advertise |
+| [Mohamma28513503@twitter](https://twitter.com/Mohamma28513503/status/1556034699558096897) | advertise |
 | [Mohamma37924942@twitter](https://twitter.com/Mohamma37924942/status/1387317795625504769) | advertise |
 | [Mohamma50212087@twitter](https://twitter.com/Mohamma50212087/status/1540324705806307329) | advertise |
 | [Mohamma54835205@twitter](https://twitter.com/Mohamma54835205/status/1388906614917324804) | advertise |
