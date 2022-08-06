@@ -2485,6 +2485,7 @@ Do not create new issue or we will close it as duplicate.
 | [GAomizu@twitter](https://twitter.com/GAomizu/status/1385919913861156867) | advertise |
 | [GaRMaNi88317663@twitter](https://twitter.com/GaRMaNi88317663/status/1390341978458492930) | advertise |
 | [GarrettsNetwork@twitter](https://twitter.com/GarrettsNetwork/status/1475938283850973195) | advertise |
+| [gasbrbn@twitter](https://twitter.com/gasbrbn/status/1555948590492635137) | advertise |
 | [Gaurav33875221@twitter](https://twitter.com/Gaurav33875221/status/1387072373430521865) | advertise |
 | [gaurav52977211@twitter](https://twitter.com/gaurav52977211/status/1504490723571347457) | advertise |
 | [Gaurav___P@twitter](https://twitter.com/Gaurav___P/status/1389646942062321666) | advertise |
