@@ -139,6 +139,7 @@ Do not create new issue or we will close it as duplicate.
 | [a9NTUKB7O8ga7Op@twitter](https://twitter.com/a9NTUKB7O8ga7Op/status/1397954196964470789) | advertise |
 | [A9_21@twitter](https://twitter.com/A9_21/status/1544744648605925377) | advertise |
 | [a99divx@twitter](https://twitter.com/a99divx/status/1524133254185553923) | advertise |
+| [A31985249Ali@twitter](https://twitter.com/A31985249Ali/status/1555981293883645957) | advertise |
 | [aaaa77754054@twitter](https://twitter.com/aaaa77754054/status/1498669005875576835) | advertise |
 | [Aaaddd44789627@twitter](https://twitter.com/Aaaddd44789627/status/1383457672859512841) | advertise |
 | [Aadamansar@twitter](https://twitter.com/Aadamansar/status/1378087373884465152) | advertise |
@@ -774,6 +775,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungHtetHtetKy2@twitter](https://twitter.com/AungHtetHtetKy2/status/1400837953987911689) | advertise |
 | [aunghtetkhing21@twitter](https://twitter.com/aunghtetkhing21/status/1379334446646620161) | advertise |
 | [AungHtu05659419@twitter](https://twitter.com/AungHtu05659419/status/1396422657478778882) | advertise |
+| [AungKau92494438@twitter](https://twitter.com/AungKau92494438/status/1555991988927082496) | advertise |
 | [AungKaungMaw2@twitter](https://twitter.com/AungKaungMaw2/status/1384177733136044036) | advertise |
 | [AungKha22548702@twitter](https://twitter.com/AungKha22548702/status/1379837365577867266) | advertise |
 | [AungKha30295972@twitter](https://twitter.com/AungKha30295972/status/1395304431554646018) | advertise |
@@ -4144,8 +4146,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
