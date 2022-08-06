@@ -5140,6 +5140,7 @@ Here's a list of public Fediverse services.
 | fedi.be | No |
 | fedi.blog | No |
 | fedi.bzh | No |
+| fedi.camp | No |
 | fedi.cat | No |
 | fedi.cc | No |
 | fedi.church | No |
@@ -19556,7 +19557,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,814 |
-| Normal | 15,698 |
+| Normal | 15,699 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
