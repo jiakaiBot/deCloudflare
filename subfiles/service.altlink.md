@@ -77,19 +77,17 @@ Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.m
 Just ask (send **direct** message to) it and he will provide some suggestions.
 
 - This is related to Settings' `Suggest other non-Cloudflare alternative sites when available`.
-  - If there is a network problem _or_ there is no alternative it will not reply anything.
 
-
-Syntax: `@theaccountname ?URL` or `？URL`
+Syntax: `@mg ?URL` or `？URL`
 
 Put Cloudflared URL like this...
 
 ```
-@theaccount ?https://cflove.myblog.site/cloud_is_internet/?blog=true
+@mg ?https://cflove.myblog.site/cloud_is_internet/?blog=true
 ```
 
 ```
-@theaccount
+@mg
 
 ？https://invite.party/cloudflare_users_only/
 ```
@@ -98,7 +96,7 @@ Put Cloudflared URL like this...
 **1** question per toot. Below does **not** work.
 
 ```
-@theaccount
+@mg
 ?https://matthew.prince/blog/
 ?https://matthewprince.site/
 ?https://matthew.prince.name/
@@ -108,15 +106,15 @@ Put Cloudflared URL like this...
 ### Report a problem / Create an Issue
 
 - By default any direct message WILL NOT forwarded to issues for spam protection.
-  - You can enable this option by going to `Settings website` and turn on last option.
+  - You can enable this option by going to `Settings website` and turn on `Talk` option.
 
 You can create an Issue without git account. Just send a **direct** message.
-And don't worry,
+And don't worry
 
-- Multiple mentions (e.g. `@randomUser @theaccount @otherUser blah blah blah`)
-- _Public_ message (e.g. `there's a bot called @theaccount`)
+- Multiple mentions (e.g. `@randomUser @mg @otherUser blah blah blah`)
+- _Public_ message (e.g. `there's a bot called @mg`)
 
-...will be ignored to prevent spam.
+will be ignored to prevent spam.
 Your username part (before `@`) will be masked to protect your privacy.
 
 
@@ -127,7 +125,7 @@ You can configure it from [this website](https://mitigator.crimeflare.eu.org).
 
 - **Easier way**: From your Mastodon, send a Direct Message with keyword below.
   - _one of_: `help` `set` `settings` `conf` `config` `cfg`
-  - e.g. `@theaccount set`
+  - e.g. `@mg set`
 
 
 ### Download PNG Logo
