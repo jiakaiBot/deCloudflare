@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,502 |
 | social | 1,144 |
 | org | 1,071 |
-| de | 949 |
+| de | 950 |
 
 
 - Mastodon, Pleroma, etc
@@ -63,6 +63,7 @@ Here's a list of public Fediverse services.
 | 0sand1s.net | Yes |
 | 0svc.com | No |
 | 0u0.fun | No |
+| 0w0.is | No |
 | 0wo.ooo | No |
 | 0x0.icu | No |
 | 0x0.sk | Yes |
@@ -1210,6 +1211,7 @@ Here's a list of public Fediverse services.
 | astragroup.info | Yes |
 | astral-gate.network | No |
 | astralchan.xyz | No |
+| astria.city | Yes |
 | astrid.tech | Yes |
 | astro.clinic | Yes |
 | astrolaboratory.club | No |
@@ -2138,6 +2140,7 @@ Here's a list of public Fediverse services.
 | branati.com.br | No |
 | brancik.cz | No |
 | brandenburg.social | No |
+| brandonage.xyz | No |
 | brandonshire.blog | No |
 | brandonsjournal.com | No |
 | brantley.world | No |
@@ -2890,7 +2893,7 @@ Here's a list of public Fediverse services.
 | cloudkatze.de | No |
 | cloudlet.at | No |
 | cloudmist.org | No |
-| cloudns.cc | No |
+| cloudns.cc | Yes |
 | cloudns.nz | Yes |
 | cloudron.club | Yes |
 | cloudron.io | No |
@@ -4024,6 +4027,7 @@ Here's a list of public Fediverse services.
 | digitan.cf | No |
 | digitan.ga | No |
 | digityser.org | No |
+| digivonity.nl | No |
 | diglateam3.com | No |
 | digor.sh | No |
 | dilavni.com | Yes |
@@ -6598,7 +6602,7 @@ Here's a list of public Fediverse services.
 | gummipunkt.eu | No |
 | gunfreezone.net | No |
 | gunju.de | No |
-| gunmastodon.com | No |
+| gunmastodon.com | Yes |
 | gunter.de | No |
 | gunzfox.tk | No |
 | gup.pe | No |
@@ -6987,6 +6991,7 @@ Here's a list of public Fediverse services.
 | highlandarrow.com | No |
 | highlandschurch.net | No |
 | highspirits.games | No |
+| hightops.ink | No |
 | highvoltage.tv | No |
 | hijsselinckx.com | No |
 | hikaruaikawa.com | No |
@@ -7490,6 +7495,7 @@ Here's a list of public Fediverse services.
 | imoimo.xyz | No |
 | impa.me | No |
 | impeccable.social | No |
+| impending.events | No |
 | imperial.social | No |
 | improved-madness.de | No |
 | imsorryforsayingpogchampafteryounuttedin.me | No |
@@ -7974,6 +7980,7 @@ Here's a list of public Fediverse services.
 | jemverse.xyz | Yes |
 | jenkins.cc | No |
 | jenot.info | No |
+| jens-bertrams.de | No |
 | jensdiemer.de | No |
 | jensenen.nl | No |
 | jeppesen.io | No |
@@ -9903,6 +9910,7 @@ Here's a list of public Fediverse services.
 | magicvampirepirates.com | Yes |
 | magik.me | No |
 | magikarp.fun | No |
+| magincia.cafe | Yes |
 | magitek-telescope.im | Yes |
 | magnetic-ink.dk | No |
 | magnier.io | No |
@@ -12186,6 +12194,7 @@ Here's a list of public Fediverse services.
 | noraa.gay | No |
 | noraworld.com | No |
 | noraworld.jp | No |
+| norberteder.photography | No |
 | norcal.social | No |
 | norcalgeekdad.com | No |
 | nordbase.no | No |
@@ -12318,7 +12327,7 @@ Here's a list of public Fediverse services.
 | nukaya.net | No |
 | nuke.moe | Yes |
 | nuke.social | No |
-| nuked-the.uk | Yes |
+| nuked-the.uk | No |
 | nukem.biz | No |
 | nukeq.com | No |
 | nuklear.family | No |
@@ -13705,6 +13714,7 @@ Here's a list of public Fediverse services.
 | portaesgnos.org | No |
 | portes-imaginaire.org | No |
 | portkaihou.org | No |
+| portra400.film | No |
 | porubu.com | Yes |
 | posadis.me | No |
 | poslac.com | No |
@@ -14755,6 +14765,7 @@ Here's a list of public Fediverse services.
 | rthompson.us | No |
 | rthur.me | No |
 | rtnkv.cloud | No |
+| rtrace.io | No |
 | rtsemissions.ch | No |
 | rtter.com | Yes |
 | rtwebb.com | No |
@@ -15611,7 +15622,7 @@ Here's a list of public Fediverse services.
 | skroo.me | No |
 | skrt.social | No |
 | skryking.com | No |
-| sksocial.ca | No |
+| sksocial.ca | Yes |
 | skull.boutique | No |
 | skull.website | No |
 | skullb0x.io | No |
@@ -19559,8 +19570,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,818 |
-| Normal | 15,698 |
+| Cloudflare | 3,822 |
+| Normal | 15,705 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
