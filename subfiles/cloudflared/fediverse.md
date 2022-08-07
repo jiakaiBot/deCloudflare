@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,600 |
-| net | 1,501 |
+| net | 1,502 |
 | social | 1,144 |
-| org | 1,070 |
+| org | 1,071 |
 | de | 949 |
 
 
@@ -520,7 +520,7 @@ Here's a list of public Fediverse services.
 | aevl.net | Yes |
 | afallen.cymru | No |
 | afd.best | No |
-| afhub.dev | No |
+| afhub.dev | Yes |
 | afix.space | No |
 | afk.social | Yes |
 | afn.social | No |
@@ -891,7 +891,7 @@ Here's a list of public Fediverse services.
 | animuses.fr | No |
 | anination.club | No |
 | anirloli.dev | Yes |
-| anisodon.jp | No |
+| anisodon.jp | Yes |
 | anison.dj | No |
 | anitwitter.com | No |
 | anivar.in | Yes |
@@ -3441,6 +3441,7 @@ Here's a list of public Fediverse services.
 | cybercirujas.club | No |
 | cybercity.eu.org | No |
 | cybercrew.site | No |
+| cybercrusade.xyz | Yes |
 | cyberdeck.cf | No |
 | cyberdelia.com.ar | No |
 | cyberdelia.space | No |
@@ -6675,6 +6676,7 @@ Here's a list of public Fediverse services.
 | hackingand.coffee | Yes |
 | hackjob.solutions | No |
 | hacklab.science | No |
+| hackliberty.org | No |
 | hackoon.com | No |
 | hackret.com | Yes |
 | hacks.wiki | No |
@@ -13206,7 +13208,7 @@ Here's a list of public Fediverse services.
 | pesso.al | No |
 | pet123.club | No |
 | petch.rocks | No |
-| petehub.com | No |
+| petehub.com | Yes |
 | petelambert.social | No |
 | peterbabic.dev | No |
 | peterjanes.ca | No |
@@ -14730,6 +14732,7 @@ Here's a list of public Fediverse services.
 | royniang.com | No |
 | royscholten.nl | No |
 | roytang.net | Yes |
+| rozk.net | No |
 | rozlan-society.tk | No |
 | rpgradio.me | No |
 | rpgtable.top | No |
@@ -19556,8 +19559,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,814 |
-| Normal | 15,699 |
+| Cloudflare | 3,818 |
+| Normal | 15,698 |
 
 
-### 19.5% of public Fediverse services are using Cloudflare.
+### 19.6% of public Fediverse services are using Cloudflare.
