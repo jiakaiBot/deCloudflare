@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Internal error when index size is not set to a multiple of page size](https://github.com/meilisearch/meilisearch/issues/2659)
 - [Cloudflare Provider: root domain does not update](https://github.com/TimothyYe/godns/issues/176)
 - [Could we make this lib work with Cloudflare Workers platform?](https://github.com/kiliman/remix-typedjson/issues/7)
 - [Terraform script doesn't work - Cloudflare variables are broken?](https://github.com/trafgals/oracle-swizzin/issues/1)
