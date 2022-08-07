@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Add0n.com's use of Cloudflare is very unfriendly](https://github.com/rNeomy/reader-view/issues/142)
 - [Internal error when index size is not set to a multiple of page size](https://github.com/meilisearch/meilisearch/issues/2659)
 - [Cloudflare Provider: root domain does not update](https://github.com/TimothyYe/godns/issues/176)
 - [Could we make this lib work with Cloudflare Workers platform?](https://github.com/kiliman/remix-typedjson/issues/7)
