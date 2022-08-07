@@ -6378,6 +6378,7 @@ Do not create new issue or we will close it as duplicate.
 | [OoYanLay13@twitter](https://twitter.com/OoYanLay13/status/1396144264501891072) | advertise |
 | [OoZwe11@twitter](https://twitter.com/OoZwe11/status/1401109080974921731) | advertise |
 | [Op17830456@twitter](https://twitter.com/Op17830456/status/1378217756483411968) | advertise |
+| [opasa_iwuno@twitter](https://twitter.com/opasa_iwuno/status/1556331817233530881) | advertise |
 | [openkaiosz@twitter](https://twitter.com/openkaiosz/status/1511127306177110019) | advertise |
 | [openprivacy.ca](https://openprivacy.ca/) | by deleting git without warning |
 | [open_teck@twitter](https://twitter.com/open_teck/status/1377209508976594948) | advertise |
@@ -6846,6 +6847,7 @@ Do not create new issue or we will close it as duplicate.
 | [pwisetthon@twitter](https://twitter.com/pwisetthon/status/1481573549630697473) | advertise |
 | [pwmarsh@twitter](https://twitter.com/pwmarsh/status/1380107056129118211) | advertise |
 | [PwrHollands@twitter](https://twitter.com/PwrHollands/status/1382420172519186438) | advertise |
+| [pxtrez@twitter](https://twitter.com/pxtrez/status/1556338733267427329) | advertise |
 | [PyaeKo5@twitter](https://twitter.com/PyaeKo5/status/1552362834197348352) | advertise |
 | [PyaeMinPaing4@twitter](https://twitter.com/PyaeMinPaing4/status/1398571550454910980) | advertise |
 | [PyaePhy07688520@twitter](https://twitter.com/PyaePhy07688520/status/1496088984467955713) | advertise |
