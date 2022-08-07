@@ -8183,6 +8183,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thanhtam13579@twitter](https://twitter.com/Thanhtam13579/status/1381403664896561154) | advertise |
 | [thanhtei@twitter](https://twitter.com/thanhtei/status/1406758436142940162) | advertise |
 | [ThanhTh09527455@twitter](https://twitter.com/ThanhTh09527455/status/1399966646446346242) | advertise |
+| [Thanhthienngu13@twitter](https://twitter.com/Thanhthienngu13/status/1556346876995063808) | advertise |
 | [ThanHti21144948@twitter](https://twitter.com/ThanHti21144948/status/1499974741159194625) | advertise |
 | [Thanhti81320901@twitter](https://twitter.com/Thanhti81320901/status/1385916921774702593) | advertise |
 | [thanhtin187020@twitter](https://twitter.com/thanhtin187020/status/1402666295019991045) | advertise |
