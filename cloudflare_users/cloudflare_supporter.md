@@ -5997,6 +5997,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguyenvu7522@twitter](https://twitter.com/nguyenvu7522/status/1515545378485022721) | advertise |
 | [NguyenY68898354@twitter](https://twitter.com/NguyenY68898354/status/1485639837147623424) | advertise |
 | [Nguyen_An77@twitter](https://twitter.com/Nguyen_An77/status/1468175808900395010) | advertise |
+| [Nguyen_Nguyen87@twitter](https://twitter.com/Nguyen_Nguyen87/status/1556198885885825030) | advertise |
 | [Nguyn09830528@twitter](https://twitter.com/Nguyn09830528/status/1485260434756096001) | advertise |
 | [Nguyn1112@twitter](https://twitter.com/Nguyn1112/status/1380569773612785666) | advertise |
 | [Nguyn54671210@twitter](https://twitter.com/Nguyn54671210/status/1496839709297090560) | advertise |
@@ -7145,6 +7146,7 @@ Do not create new issue or we will close it as duplicate.
 | [RobJPyne@twitter](https://twitter.com/RobJPyne/status/1381766563749982212) | advertise |
 | [Roccorockz2@twitter](https://twitter.com/Roccorockz2/status/1399533964579151876) | advertise |
 | [ROCC_OUT_SHORTY@twitter](https://twitter.com/ROCC_OUT_SHORTY/status/1380923792822788101) | advertise |
+| [rockcockberry@twitter](https://twitter.com/rockcockberry/status/1556199648766746624) | advertise |
 | [Rocker30548919@twitter](https://twitter.com/Rocker30548919/status/1393113573866582018) | advertise |
 | [rocketdotnet@twitter](https://twitter.com/rocketdotnet/status/1379017458611322884) | advertise |
 | [Rodritwm_@twitter](https://twitter.com/Rodritwm_/status/1540411404548800513) | advertise |
@@ -9268,6 +9270,7 @@ Do not create new issue or we will close it as duplicate.
 | [Xstar97TheNoob@twitter](https://twitter.com/Xstar97TheNoob/status/1494824329586122756) | advertise |
 | [xTrapNover@twitter](https://twitter.com/xTrapNover/status/1394301970169491457) | advertise |
 | [Xtun45371052@twitter](https://twitter.com/Xtun45371052/status/1396529138454781952) | advertise |
+| [XuamVinh0908@twitter](https://twitter.com/XuamVinh0908/status/1556205862716264448) | advertise |
 | [Xuanly60441460@twitter](https://twitter.com/Xuanly60441460/status/1504496542375301133) | advertise |
 | [xubbers@twitter](https://twitter.com/xubbers/status/1375092922975145988) | advertise |
 | [XunNguy78192142@twitter](https://twitter.com/XunNguy78192142/status/1544197771103576064) | advertise |
