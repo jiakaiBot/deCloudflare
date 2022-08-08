@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [trycloudflare no longer working](https://github.com/KasRoudra/PyPhisher/issues/98)
 - [Variables cannot be added in custom rules file](https://github.com/wazuh/wazuh/issues/14509)
 - [run nvm install <version> error OpenSSL SSL_read: Connection reset by peer, errno 54](https://github.com/nvm-sh/nvm/issues/2853)
 - [help Problems using proxy](https://github.com/JuliaWeb/HTTP.jl/issues/899)
