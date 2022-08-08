@@ -6135,6 +6135,7 @@ Do not create new issue or we will close it as duplicate.
 | [NikhilS67789197@twitter](https://twitter.com/NikhilS67789197/status/1400026495444086785) | advertise |
 | [NikhilS76692989@twitter](https://twitter.com/NikhilS76692989/status/1386257034522218501) | advertise |
 | [NikhilSPawar4@twitter](https://twitter.com/NikhilSPawar4/status/1447058829020069891) | advertise |
+| [NikkiLe53425659@twitter](https://twitter.com/NikkiLe53425659/status/1556629742115225602) | advertise |
 | [NiladriAsh@twitter](https://twitter.com/NiladriAsh/status/1395822333944684544) | advertise |
 | [NilarSo52519800@twitter](https://twitter.com/NilarSo52519800/status/1394584973143851009) | advertise |
 | [NimaNaji@twitter](https://twitter.com/NimaNaji/status/1495309685401993216) | advertise |
@@ -7847,6 +7848,7 @@ Do not create new issue or we will close it as duplicate.
 | [sptcp1@twitter](https://twitter.com/sptcp1/status/1478208224989831170) | advertise |
 | [sptzortzis@twitter](https://twitter.com/sptzortzis/status/1509449625958326272) | advertise |
 | [spt_cp@twitter](https://twitter.com/spt_cp/status/1377690834888364032) | advertise |
+| [spzooky@twitter](https://twitter.com/spzooky/status/1556649865710473216) | advertise |
 | [SQUIDMANGA@twitter](https://twitter.com/SQUIDMANGA/status/1550594180799422468) | advertise |
 | [Sreejit13700215@twitter](https://twitter.com/Sreejit13700215/status/1388191035029823488) | advertise |
 | [sriyogeshkumar1@twitter](https://twitter.com/sriyogeshkumar1/status/1478380858981638146) | advertise |
