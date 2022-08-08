@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 2,600 |
 | net | 1,502 |
 | social | 1,144 |
-| org | 1,071 |
+| org | 1,072 |
 | de | 950 |
 
 
@@ -6697,6 +6697,7 @@ Here's a list of public Fediverse services.
 | haeder.net | No |
 | hafen.io | No |
 | hafkehafke.org | No |
+| hagelb.org | No |
 | hagen.coffee | No |
 | haghiri75.com | No |
 | hagion.org | No |
@@ -19571,7 +19572,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,822 |
-| Normal | 15,705 |
+| Normal | 15,706 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
