@@ -1741,6 +1741,7 @@ Do not create new issue or we will close it as duplicate.
 | [dancirmedia@twitter](https://twitter.com/dancirmedia/status/1439483459437674500) | advertise |
 | [DanelSonic123@twitter](https://twitter.com/DanelSonic123/status/1491964143850692609) | advertise |
 | [DanericNetwork@twitter](https://twitter.com/DanericNetwork/status/1458866827128459276) | advertise |
+| [dang050302@twitter](https://twitter.com/dang050302/status/1556596925763559425) | advertise |
 | [dangcapvippro@twitter](https://twitter.com/dangcapvippro/status/1406569993819496448) | advertise |
 | [dangduystyles@twitter](https://twitter.com/dangduystyles/status/1388645342208401409) | advertise |
 | [dangeredwolf@twitter](https://twitter.com/dangeredwolf/status/1555422130610880512) | advertise |
@@ -1882,6 +1883,7 @@ Do not create new issue or we will close it as duplicate.
 | [dennis_mcodhis@twitter](https://twitter.com/dennis_mcodhis/status/1459941166514950159) | advertise |
 | [dentistjasbrar@twitter](https://twitter.com/dentistjasbrar/status/1553380199131058178) | advertise |
 | [Deon24535935@twitter](https://twitter.com/Deon24535935/status/1399325913121177601) | advertise |
+| [deowc10@twitter](https://twitter.com/deowc10/status/1556584196075712513) | advertise |
 | [DepRed7@twitter](https://twitter.com/DepRed7/status/1395675931356766212) | advertise |
 | [derar60@twitter](https://twitter.com/derar60/status/1492629407839752201) | advertise |
 | [Deril93219597@twitter](https://twitter.com/Deril93219597/status/1385613158123900931) | advertise |
