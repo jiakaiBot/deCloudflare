@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [run nvm install <version> error OpenSSL SSL_read: Connection reset by peer, errno 54](https://github.com/nvm-sh/nvm/issues/2853)
 - [help Problems using proxy](https://github.com/JuliaWeb/HTTP.jl/issues/899)
 - [leetcode show 561 returns ERROR failed to load problem!](https://github.com/skygragon/leetcode-cli/issues/235)
 - [Add0n.com's use of Cloudflare is very unfriendly](https://github.com/rNeomy/reader-view/issues/142)
