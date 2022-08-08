@@ -19360,7 +19360,7 @@ Here's a list of public Fediverse services.
 | yuzu.tk | Yes |
 | yuzulia.com | Yes |
 | yuzulia.work | Yes |
-| yuzulia.xyz | Yes |
+| yuzulia.xyz | No |
 | yvees.ovh | No |
 | yvr.social | No |
 | yvt.jp | Yes |
@@ -19579,8 +19579,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,823 |
-| Normal | 15,713 |
+| Cloudflare | 3,822 |
+| Normal | 15,714 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
