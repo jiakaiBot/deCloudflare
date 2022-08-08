@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,600 |
+| com | 2,602 |
 | net | 1,502 |
 | social | 1,144 |
-| org | 1,072 |
-| de | 950 |
+| org | 1,073 |
+| de | 951 |
 
 
 - Mastodon, Pleroma, etc
@@ -391,6 +391,7 @@ Here's a list of public Fediverse services.
 | abolition.online | No |
 | abolition.town | No |
 | abolivier.bzh | No |
+| aboring.space | No |
 | aboringsite.dev | No |
 | abortu.com | No |
 | about-bitcoin.com | Yes |
@@ -2157,6 +2158,7 @@ Here's a list of public Fediverse services.
 | brcal.cz | No |
 | breadfactory.tk | No |
 | breadhub.net | No |
+| breadqueues.com | No |
 | breadtube.tv | No |
 | brechanegra.net | No |
 | breeze.town | No |
@@ -3615,6 +3617,7 @@ Here's a list of public Fediverse services.
 | danshudon.jp | No |
 | dansmonorage.blue | No |
 | dansu.org | No |
+| daotalk.cn | No |
 | dapor.net | No |
 | dapor.org | No |
 | dappital.co | No |
@@ -7913,6 +7916,7 @@ Here's a list of public Fediverse services.
 | jannis-goeing.de | No |
 | janny.moe | No |
 | janogdon.net | No |
+| jansens-pott.de | No |
 | janusworx.com | No |
 | janwillemswane.nl | No |
 | japan-railway.tokyo | No |
@@ -8690,6 +8694,7 @@ Here's a list of public Fediverse services.
 | knotteye.cc | No |
 | knowbility.nl | No |
 | knowingart.com | No |
+| knowltonwx.com | No |
 | knoyism.net | No |
 | knubbel.me | No |
 | knusper-land.de | Yes |
@@ -14707,6 +14712,7 @@ Here's a list of public Fediverse services.
 | rootaccess.org | No |
 | rootdc.xyz | No |
 | rootfs.eu | No |
+| roothell.org | Yes |
 | rooting.garden | No |
 | rooty.fr | No |
 | ropable.com | Yes |
@@ -18352,6 +18358,7 @@ Here's a list of public Fediverse services.
 | void.ac | Yes |
 | void.garden | No |
 | void.gift | Yes |
+| voided.ee | No |
 | voided.space | Yes |
 | voidfarm.pw | No |
 | voidfox.com | No |
@@ -18503,6 +18510,7 @@ Here's a list of public Fediverse services.
 | wapanafa.org | No |
 | wapnitsky.com | No |
 | wappie.land | Yes |
+| wappler.systems | No |
 | waraiotoko.net | Yes |
 | warbler.network | No |
 | warc.space | No |
@@ -19571,8 +19579,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,822 |
-| Normal | 15,706 |
+| Cloudflare | 3,823 |
+| Normal | 15,713 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
