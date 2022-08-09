@@ -3561,6 +3561,7 @@ Do not create new issue or we will close it as duplicate.
 | [jasoncarcc@twitter](https://twitter.com/jasoncarcc/status/1548097945286848512) | advertise |
 | [JasonkaranikO@twitter](https://twitter.com/JasonkaranikO/status/1505896917921841160) | advertise |
 | [JasonLovesDoggo@twitter](https://twitter.com/JasonLovesDoggo/status/1503187393268097032) | advertise |
+| [JasonRe78052527@twitter](https://twitter.com/JasonRe78052527/status/1557051673335439363) | advertise |
 | [jasonwtien@twitter](https://twitter.com/jasonwtien/status/1538028781675290624) | advertise |
 | [Jasson02887484@twitter](https://twitter.com/Jasson02887484/status/1556242722528591872) | advertise |
 | [jas_dhillon001@twitter](https://twitter.com/jas_dhillon001/status/1377232805659283457) | advertise |
@@ -3599,6 +3600,7 @@ Do not create new issue or we will close it as duplicate.
 | [JE2DlAAd0UBr2Rw@twitter](https://twitter.com/JE2DlAAd0UBr2Rw/status/1384138729485324291) | advertise |
 | [Jeary45857239@twitter](https://twitter.com/Jeary45857239/status/1393838455034195971) | advertise |
 | [jeattoo@twitter](https://twitter.com/jeattoo/status/1390214402243108864) | advertise |
+| [jeepinjeepin@twitter](https://twitter.com/jeepinjeepin/status/1557058497166073856) | advertise |
 | [Jeerawa38868336@twitter](https://twitter.com/Jeerawa38868336/status/1399151884649172992) | advertise |
 | [Jeeva09507345@twitter](https://twitter.com/Jeeva09507345/status/1380107605213814789) | advertise |
 | [jef43477408@twitter](https://twitter.com/jef43477408/status/1377262260272439301) | advertise |
