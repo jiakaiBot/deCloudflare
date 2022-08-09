@@ -8,6 +8,10 @@
 
 This is `opt-in` service.
 
+[//]: # (please do not edit 'Currently MitiGator is'.)
+
+Currently MitiGator is saving _%USERS%_ users from sharing inaccessible links.
+
 
 - Contents
   - [A little history](service.altlink.md#a-little-history)
