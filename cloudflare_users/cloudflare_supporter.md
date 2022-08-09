@@ -3870,6 +3870,7 @@ Do not create new issue or we will close it as duplicate.
 | [KamojiSidrai@twitter](https://twitter.com/KamojiSidrai/status/1387253371967471617) | advertise |
 | [Kamonwa60790729@twitter](https://twitter.com/Kamonwa60790729/status/1539934773736804352) | advertise |
 | [kanaan94901823@twitter](https://twitter.com/kanaan94901823/status/1377247977803251712) | advertise |
+| [Kanadeebkk@twitter](https://twitter.com/Kanadeebkk/status/1556930987862654976) | advertise |
 | [Kanchan36627193@twitter](https://twitter.com/Kanchan36627193/status/1527031188317417472) | advertise |
 | [Kane09375517@twitter](https://twitter.com/Kane09375517/status/1379837150208782336) | advertise |
 | [Kaneki4101@twitter](https://twitter.com/Kaneki4101/status/1503382721556623364) | advertise |
@@ -6208,6 +6209,7 @@ Do not create new issue or we will close it as duplicate.
 | [None58240167@twitter](https://twitter.com/None58240167/status/1395073106876801026) | advertise |
 | [Nonkogee3W@twitter](https://twitter.com/Nonkogee3W/status/1403011044998488066) | advertise |
 | [NooLee94593774@twitter](https://twitter.com/NooLee94593774/status/1404108442504105989) | advertise |
+| [Noonewillkn@twitter](https://twitter.com/Noonewillkn/status/1556941477644627968) | advertise |
 | [Nooo52576592@twitter](https://twitter.com/Nooo52576592/status/1384054067714871296) | advertise |
 | [noor51489534@twitter](https://twitter.com/noor51489534/status/1405490093603893249) | advertise |
 | [NOPEACE07@twitter](https://twitter.com/NOPEACE07/status/1526259330458300417) | advertise |
