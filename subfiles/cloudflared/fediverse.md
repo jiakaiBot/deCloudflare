@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,607 |
+| com | 2,608 |
 | net | 1,503 |
 | social | 1,144 |
 | org | 1,075 |
@@ -3038,7 +3038,7 @@ Here's a list of public Fediverse services.
 | colorfur.com | No |
 | colorid.es | Yes |
 | colson.re | No |
-| com.de | Yes |
+| com.de | No |
 | comam.es | No |
 | combiner.team | No |
 | comf.blog | No |
@@ -5532,7 +5532,6 @@ Here's a list of public Fediverse services.
 | forth.works | No |
 | fortress.promo | No |
 | fortresshill.club | No |
-| fortressofdoom.me | Yes |
 | forty-two.nl | No |
 | forum-lucifer.com | No |
 | forumanalogue.fr | No |
@@ -15403,6 +15402,7 @@ Here's a list of public Fediverse services.
 | share.tube | No |
 | shared.graphics | No |
 | shareworx.net | No |
+| sharivegas.com | No |
 | shark.moe | No |
 | shatteredpalisa.de | No |
 | shaun.net | No |
@@ -19588,8 +19588,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,822 |
-| Normal | 15,723 |
+| Cloudflare | 3,820 |
+| Normal | 15,725 |
 
 
-### 19.6% of public Fediverse services are using Cloudflare.
+### 19.5% of public Fediverse services are using Cloudflare.
