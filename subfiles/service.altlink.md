@@ -10,7 +10,7 @@ This is `opt-in` service.
 
 [//]: # (please do not edit 'Currently MitiGator is'.)
 
-Currently MitiGator is saving _%USERS%_ users from sharing inaccessible links.
+Currently MitiGator is helping _4_ users from preventing sharing inaccessible links.
 
 
 - Contents
