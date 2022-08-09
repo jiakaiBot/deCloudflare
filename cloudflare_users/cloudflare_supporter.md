@@ -5526,6 +5526,7 @@ Do not create new issue or we will close it as duplicate.
 | [morixal@twitter](https://twitter.com/morixal/status/1488785584801959937) | advertise |
 | [moscowchill@twitter](https://twitter.com/moscowchill/status/1432276272298795008) | advertise |
 | [Moshixmatcha@twitter](https://twitter.com/Moshixmatcha/status/1552292161923588096) | advertise |
+| [Mostafa41766808@twitter](https://twitter.com/Mostafa41766808/status/1557128488573870081) | advertise |
 | [Mostafi19189233@twitter](https://twitter.com/Mostafi19189233/status/1400999191275474945) | advertise |
 | [mothmlkbass@twitter](https://twitter.com/mothmlkbass/status/1488406118099525636) | advertise |
 | [moun_sci@twitter](https://twitter.com/moun_sci/status/1396391827918397440) | advertise |
