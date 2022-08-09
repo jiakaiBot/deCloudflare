@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,503 |
 | social | 1,144 |
 | org | 1,075 |
-| de | 951 |
+| de | 952 |
 
 
 - Mastodon, Pleroma, etc
@@ -156,6 +156,7 @@ Here's a list of public Fediverse services.
 | 2502.net | No |
 | 251.sh | Yes |
 | 283.cloud | Yes |
+| 28left.dev | No |
 | 29lab.jp | Yes |
 | 2a03.party | No |
 | 2blackflags.net | No |
@@ -2337,6 +2338,7 @@ Here's a list of public Fediverse services.
 | c-r-t.tk | Yes |
 | c-view.club | No |
 | c.im | Yes |
+| c0de.works | Yes |
 | c0debabe.com | No |
 | c0ffee.net | No |
 | c1710.de | No |
@@ -4541,6 +4543,7 @@ Here's a list of public Fediverse services.
 | eduvid.org | No |
 | edvgarbe.de | No |
 | edzilla.info | Yes |
+| eeeeeeeee.eu | No |
 | eegle.cloud | No |
 | eena.me | No |
 | eenoog.org | No |
@@ -9857,6 +9860,7 @@ Here's a list of public Fediverse services.
 | m2hq.net | No |
 | m400cloud.com | No |
 | m4570.xyz | No |
+| m4rc3l.de | Yes |
 | m4sk.in | Yes |
 | m544.net | Yes |
 | m6n.jp | No |
@@ -11221,6 +11225,7 @@ Here's a list of public Fediverse services.
 | moytura.org | No |
 | moyu.foundation | Yes |
 | moyu.social | Yes |
+| mozc-plasma.tech | Yes |
 | mozcmozc.club | No |
 | moztodon.nl | No |
 | mp-tube.de | No |
@@ -11824,7 +11829,7 @@ Here's a list of public Fediverse services.
 | nerdworks.casa | Yes |
 | nerdynate.app | No |
 | nerdynate.com | Yes |
-| nerdynate.live | No |
+| nerdynate.live | Yes |
 | nere9.help | No |
 | nerfherders.io | Yes |
 | neria.link | Yes |
@@ -12682,6 +12687,7 @@ Here's a list of public Fediverse services.
 | opensocial.at | No |
 | opensocial.network | Yes |
 | opensocial.space | No |
+| opensourcegardens.info | No |
 | opensourcemusings.com | No |
 | openspace.cf | No |
 | openstreetmap.fr | No |
@@ -19355,6 +19361,7 @@ Here's a list of public Fediverse services.
 | yumulab.org | No |
 | yunohost.ga | No |
 | yunohost.support | No |
+| yunyun.moe | Yes |
 | yurikonanao.cloud | No |
 | yurisora.com | No |
 | yuritopia.net | No |
@@ -19588,8 +19595,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,820 |
-| Normal | 15,725 |
+| Cloudflare | 3,825 |
+| Normal | 15,727 |
 
 
-### 19.5% of public Fediverse services are using Cloudflare.
+### 19.6% of public Fediverse services are using Cloudflare.
