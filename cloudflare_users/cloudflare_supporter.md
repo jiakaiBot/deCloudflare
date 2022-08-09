@@ -1220,6 +1220,7 @@ Do not create new issue or we will close it as duplicate.
 | [bngng1_ngc@twitter](https://twitter.com/bngng1_ngc/status/1553051695256838144) | advertise |
 | [Bngock5@twitter](https://twitter.com/Bngock5/status/1382020407981535234) | advertise |
 | [bnh13684640@twitter](https://twitter.com/bnh13684640/status/1552714766829105153) | advertise |
+| [bnhnguy10869985@twitter](https://twitter.com/bnhnguy10869985/status/1556859719465472002) | advertise |
 | [Bo24354593@twitter](https://twitter.com/Bo24354593/status/1404093711986827266) | advertise |
 | [Bo90364251@twitter](https://twitter.com/Bo90364251/status/1392359546568417281) | advertise |
 | [BoAnhTr03352901@twitter](https://twitter.com/BoAnhTr03352901/status/1552956517108051968) | advertise |
