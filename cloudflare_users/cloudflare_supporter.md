@@ -8038,6 +8038,7 @@ Do not create new issue or we will close it as duplicate.
 | [taetaewonderla1@twitter](https://twitter.com/taetaewonderla1/status/1401205775628832776) | advertise |
 | [tahung12345678@twitter](https://twitter.com/tahung12345678/status/1391180261518282752) | advertise |
 | [tai25381999@twitter](https://twitter.com/tai25381999/status/1400114995506008066) | advertise |
+| [tai58342704@twitter](https://twitter.com/tai58342704/status/1557035585038012416) | advertise |
 | [Tai58496438@twitter](https://twitter.com/Tai58496438/status/1384020224547069952) | advertise |
 | [Tailu123@twitter](https://twitter.com/Tailu123/status/1552009946790629381) | advertise |
 | [taisaDesigner@twitter](https://twitter.com/taisaDesigner/status/1511636003626311680) | advertise |
