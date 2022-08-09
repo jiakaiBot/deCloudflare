@@ -1147,6 +1147,7 @@ Or is this merely a case of simple modesty?
 | Mengqi Chen | Employee | |
 | Meyer Zinn | Employee | |
 | Mia Hardy-Thompson | Business Development |  |
+| Mia Malden | Employee | |
 | Mia Wang | Special Projects |  |
 | Micah Smurthwaite | Customer Development | https://twitter.com/Smurda |
 | Michael A. Daly | Engineering Manager | https://twitter.com/MichaelsCloud<br>https://blog.michaelscloud.uk/ |
