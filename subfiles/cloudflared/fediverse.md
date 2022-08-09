@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,602 |
-| net | 1,502 |
+| com | 2,607 |
+| net | 1,503 |
 | social | 1,144 |
-| org | 1,073 |
+| org | 1,075 |
 | de | 951 |
 
 
@@ -3067,6 +3067,7 @@ Here's a list of public Fediverse services.
 | commu.xyz | No |
 | commun.in | No |
 | communecter.org | No |
+| communia.org | No |
 | communick.com | Yes |
 | communist.accountant | No |
 | communisteslibertaires.org | No |
@@ -3577,6 +3578,7 @@ Here's a list of public Fediverse services.
 | dallashackers.com | No |
 | dallassports.fans | No |
 | dalliard.ch | No |
+| dallincrump.com | No |
 | dalme.net | No |
 | damarada.net | No |
 | damaron.net | No |
@@ -4033,6 +4035,7 @@ Here's a list of public Fediverse services.
 | digivonity.nl | No |
 | diglateam3.com | No |
 | digor.sh | No |
+| dijy.eu.org | No |
 | dilavni.com | Yes |
 | dilopiaf.fr | No |
 | dimethyl.xyz | No |
@@ -7715,6 +7718,7 @@ Here's a list of public Fediverse services.
 | ipno.us | No |
 | ipolska.pl | No |
 | ipv4.is | No |
+| ipv6-only.site | No |
 | ipv6.club | Yes |
 | ipv6.party | Yes |
 | ipv6.social | No |
@@ -7992,6 +7996,7 @@ Here's a list of public Fediverse services.
 | jepsen.io | No |
 | jerem.yt | No |
 | jeremielibeau.fr | No |
+| jeremmy.ml | No |
 | jeremy-trasbot.fr | No |
 | jeremy.ca | Yes |
 | jeremy.hu | Yes |
@@ -8454,7 +8459,6 @@ Here's a list of public Fediverse services.
 | keithjgrant.com | Yes |
 | keithzg.ca | No |
 | keivaun.com | Yes |
-| kek.llc | No |
 | kekkai.net | No |
 | keks.top | No |
 | kekstorm.club | No |
@@ -8607,6 +8611,7 @@ Here's a list of public Fediverse services.
 | kirishimalab21.xyz | No |
 | kiritan.work | Yes |
 | kirja.casa | No |
+| kirkmanskorner.com | No |
 | kirstenmalzwei.de | No |
 | kiru.fun | No |
 | kisaan.social | Yes |
@@ -9145,6 +9150,7 @@ Here's a list of public Fediverse services.
 | leet.pub | No |
 | leetsocial.com | No |
 | lefaut.fr | No |
+| left-tusk.com | No |
 | left.community | No |
 | left.media | No |
 | lefti.sh | No |
@@ -12200,6 +12206,7 @@ Here's a list of public Fediverse services.
 | noraa.gay | No |
 | noraworld.com | No |
 | noraworld.jp | No |
+| norberteder.com | No |
 | norberteder.photography | No |
 | norcal.social | No |
 | norcalgeekdad.com | No |
@@ -12897,6 +12904,7 @@ Here's a list of public Fediverse services.
 | oxel.me | No |
 | oxhead.dev | No |
 | oxidized.systems | No |
+| oxlajujqanil.net | No |
 | oyakodon.biz | No |
 | oyashirosama.cf | No |
 | oyashirosama.tk | No |
@@ -14499,6 +14507,7 @@ Here's a list of public Fediverse services.
 | restis.de | No |
 | retard.network | Yes |
 | retardcenter.xyz | Yes |
+| retardeddystopia.com | No |
 | reticu.li | No |
 | retidurc.fr | No |
 | retiolus.net | No |
@@ -19580,7 +19589,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,822 |
-| Normal | 15,714 |
+| Normal | 15,723 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
