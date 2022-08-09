@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Push image error](https://github.com/goharbor/harbor/issues/17361)
 - [Add config option to disable log streaming by default](https://github.com/hashicorp/nomad/issues/14056)
 - [trycloudflare no longer working](https://github.com/KasRoudra/PyPhisher/issues/98)
 - [Variables cannot be added in custom rules file](https://github.com/wazuh/wazuh/issues/14509)
