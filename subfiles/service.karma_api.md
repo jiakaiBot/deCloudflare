@@ -13,7 +13,6 @@ Replace the (base url) to:
 | Type | URL |
 | -- | -- |
 | **Clearnet (Recommend)** | `https://karma.crimeflare.eu.org:1984/api/` |
-| Clearnet (Discouraged) | `https://karma.crimeflare.eu.org/api/` |
 | Tor | `http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/` |
 
 -----
