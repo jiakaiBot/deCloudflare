@@ -7,11 +7,9 @@ document.addEventListener('DOMContentLoaded', () => {
 		document.getElementById('opon').checked = (g.opd != 'n') ? true : false;
 		document.getElementById('opoff').checked = (g.opd == 'n') ? true : false;
 		document.getElementById('ut3').checked = (g.cep || 3) == 3 ? true : false;
-		document.getElementById('ut0').checked = g.cep < 1 ? true : false;
-		document.getElementById('ut1').checked = g.cep == 1 ? true : false;
 		document.getElementById('ut2').checked = g.cep == 2 ? true : false;
 		document.getElementById('ut9').checked = g.cep == 9 ? true : false;
-		document.getElementById('ut9x').value = (g.aep == undefined || g.aep == 'https://karma.crimeflare.eu.org/api/is_at.php') ? '' : g.aep;
+		document.getElementById('ut9x').value = (g.aep == undefined) ? '' : g.aep;
 		fetch('i18n/' + (g.mul || 'eo') + '.json', {
 			method: 'GET'
 		}).then(j => j.json()).then(j => {
@@ -63,16 +61,6 @@ document.getElementById('opoff').addEventListener('click', () => {
 });
 document.getElementById('crs').addEventListener('click', () => {
 	browser.runtime.sendMessage('clear').then(() => {
-		location.reload();
-	});
-});
-document.getElementById('ut0').addEventListener('click', () => {
-	browser.runtime.sendMessage('urltype,0').then(() => {
-		location.reload();
-	});
-});
-document.getElementById('ut1').addEventListener('click', () => {
-	browser.runtime.sendMessage('urltype,1').then(() => {
 		location.reload();
 	});
 });
