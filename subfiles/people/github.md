@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare bypass traffic from verified bots and SSR servers](https://github.com/thematters/developer-resource/issues/143)
 - [Crach à la recherche sur windows 11](https://github.com/Kodi-vStream/venom-xbmc-addons/issues/3919)
 - [Push image error](https://github.com/goharbor/harbor/issues/17361)
 - [Add config option to disable log streaming by default](https://github.com/hashicorp/nomad/issues/14056)
