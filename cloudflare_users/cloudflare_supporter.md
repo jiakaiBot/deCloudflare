@@ -1648,8 +1648,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -4355,6 +4355,7 @@ Do not create new issue or we will close it as duplicate.
 | [KRATOS93080824@twitter](https://twitter.com/KRATOS93080824/status/1384520636291162115) | advertise |
 | [KrAyXMaximum@twitter](https://twitter.com/KrAyXMaximum/status/1534243085923721216) | advertise |
 | [Kraziegent@twitter](https://twitter.com/Kraziegent/status/1401103687150342159) | advertise |
+| [kreshnik_kaciqi@twitter](https://twitter.com/kreshnik_kaciqi/status/1557286704607858690) | advertise |
 | [kriqa@twitter](https://twitter.com/kriqa/status/1493619090597965828) | advertise |
 | [Krish98478242@twitter](https://twitter.com/Krish98478242/status/1377175329249226756) | advertise |
 | [krishjangidkj@twitter](https://twitter.com/krishjangidkj/status/1395746309856919558) | advertise |
@@ -4836,6 +4837,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lucian55166513@twitter](https://twitter.com/Lucian55166513/status/1379606759434690561) | advertise |
 | [luciastgermaine@twitter](https://twitter.com/luciastgermaine/status/1532782556734693379) | advertise |
 | [LuciFar69459201@twitter](https://twitter.com/LuciFar69459201/status/1395041297606402052) | advertise |
+| [Luci_feri@twitter](https://twitter.com/Luci_feri/status/1557273249008025600) | advertise |
 | [luckfu@twitter](https://twitter.com/luckfu/status/1533671872260214784) | advertise |
 | [LuckieCrab@twitter](https://twitter.com/LuckieCrab/status/1506372420701204487) | advertise |
 | [lucksingh2@twitter](https://twitter.com/lucksingh2/status/1550432299644514304) | advertise |
