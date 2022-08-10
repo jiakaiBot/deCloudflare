@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error when trying rate-limiter.toml example](https://github.com/folbricht/routedns/issues/252)
 - [Cloudflare bypass traffic from verified bots and SSR servers](https://github.com/thematters/developer-resource/issues/143)
 - [Crach à la recherche sur windows 11](https://github.com/Kodi-vStream/venom-xbmc-addons/issues/3919)
 - [Push image error](https://github.com/goharbor/harbor/issues/17361)
