@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,608 |
+| com | 2,609 |
 | net | 1,503 |
 | social | 1,144 |
 | org | 1,075 |
@@ -1543,6 +1543,7 @@ Here's a list of public Fediverse services.
 | bascht.com | No |
 | bascht.space | No |
 | base52.net | No |
+| based-jacob.xyz | No |
 | based.directory | No |
 | based.quest | Yes |
 | based.social | Yes |
@@ -2956,6 +2957,7 @@ Here's a list of public Fediverse services.
 | cocaine.moe | No |
 | cocaineninja.de | No |
 | cock.fish | No |
+| cockworshipper.com | No |
 | cocoa.me.uk | Yes |
 | cocoa.moe | No |
 | cocoate.com | No |
@@ -18624,6 +18626,7 @@ Here's a list of public Fediverse services.
 | weisensee.me | No |
 | weisser-zwerg.dev | No |
 | welldn.net | No |
+| wellduck.me | No |
 | weller.io | Yes |
 | wellness.so | Yes |
 | wells-family.xyz | No |
@@ -19596,7 +19599,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,825 |
-| Normal | 15,727 |
+| Normal | 15,730 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
