@@ -4536,6 +4536,7 @@ Do not create new issue or we will close it as duplicate.
 | [LakeNef@twitter](https://twitter.com/LakeNef/status/1492140804873277446) | advertise |
 | [LakshyaGangwar1@twitter](https://twitter.com/LakshyaGangwar1/status/1398001524236644353) | advertise |
 | [lakshya_sarda@twitter](https://twitter.com/lakshya_sarda/status/1406466412927877123) | advertise |
+| [lalan_dukes@twitter](https://twitter.com/lalan_dukes/status/1557301841188225025) | advertise |
 | [lAli98l@twitter](https://twitter.com/lAli98l/status/1394529136870309889) | advertise |
 | [lalyly15@twitter](https://twitter.com/lalyly15/status/1488410561918701569) | advertise |
 | [Lam34989379@twitter](https://twitter.com/Lam34989379/status/1500010999960588288) | advertise |
