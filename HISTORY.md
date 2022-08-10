@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-08-10: [Network Performance Issues in São Paulo, BR (GRU)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/l33lc9xh091w)
 - 2022-08-09: [Email Verification service intermittent issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/swrgyyx0hljw)
 - 2022-08-08: [Performance issues affecting Gateway Resolver for requests reaching San Jose.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dz6dgk3gqk00)
 - 2022-08-02: [Increased HTTP 500 Errors in Dusseldorf](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/06rz6w8f8c2f)
