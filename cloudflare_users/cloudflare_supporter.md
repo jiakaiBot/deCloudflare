@@ -4824,6 +4824,7 @@ Do not create new issue or we will close it as duplicate.
 | [LTnEJJJpwCebucj@twitter](https://twitter.com/LTnEJJJpwCebucj/status/1472960409988521986) | advertise |
 | [LTrungT21684251@twitter](https://twitter.com/LTrungT21684251/status/1382949410984714244) | advertise |
 | [LTrwc@twitter](https://twitter.com/LTrwc/status/1396900089595981826) | advertise |
+| [ltunanh08941347@twitter](https://twitter.com/ltunanh08941347/status/1557232940559499265) | advertise |
 | [Lu13Tn@twitter](https://twitter.com/Lu13Tn/status/1377597764624805888) | advertise |
 | [lu25rs@twitter](https://twitter.com/lu25rs/status/1377601911893811209) | advertise |
 | [LuanLe24453405@twitter](https://twitter.com/LuanLe24453405/status/1384482319273054216) | advertise |
