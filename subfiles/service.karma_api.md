@@ -23,11 +23,11 @@ For looking up domain's existence as a [MITM domain](cloudflare_users/domains/RE
 
 | ? | ? |
 | -- | -- |
-| Location | `(base url)is_cf.php` |
+| Location | `(base url)is/cloudflare/` |
 | Request Method | `POST` |
 | Input | `f` or `u` is required. `ignore_cfowned` is optional.<br>`f` FQDN (e.g. www.google.com)<br>`u` URL (e.g. https://www.google.com/)<br>`ignore_cfowned` Existence (If set, return FALSE when the domain is owned by CloudFlare Inc.) |
 | Output | JSON value as array. If 2nd value(j[1]) is true then the input is CloudFlare.<br>[false,false] (Error or not Cloudflare)<br>[true,false] (Not Cloudflare)<br>[true,true] (Cloudflare) |
-| cURL Example | `curl -X POST -F 'f=www.example.com' -k --http2 https://clearnet/api/is_cf.php`<br>`curl -x socks5h://127.0.0.1:9050 -X POST -F 'f=www.example.com' http://onion/api/is_cf.php` |
+| cURL Example | `curl -X POST -F 'f=www.example.com' -k --http2 https://clearnet/api/is/cloudflare/`<br>`curl -x socks5h://127.0.0.1:9050 -X POST -F 'f=www.example.com' http://onion/api/is/cloudflare/` |
 
 
 > Anti-Tor Lookup
@@ -36,8 +36,8 @@ For looking up website's existence in the [known Anti-tor list](anti-tor_users/d
 
 | ? | ? |
 | -- | -- |
-| Location | `(base url)is_at.php` |
+| Location | `(base url)is/antitor/` |
 | Request Method | `POST` |
 | Input | `f` is required.<br>`f` FQDN (e.g. www.google.com) |
 | Output | JSON value as array. If 2nd value(j[1]) is true then the input is AntiTor.<br>[false,false] (Error or not AntiTor)<br>[true,false] (Not AntiTor)<br>[true,true] (AntiTor) |
-| cURL Example | `curl -X POST -F 'f=www.example.com' -k --http2 https://clearnet/api/is_at.php`<br>`curl -x socks5h://127.0.0.1:9050 -X POST -F 'f=www.example.com' http://onion/api/is_at.php` |
+| cURL Example | `curl -X POST -F 'f=www.example.com' -k --http2 https://clearnet/api/is/antitor/`<br>`curl -x socks5h://127.0.0.1:9050 -X POST -F 'f=www.example.com' http://onion/api/is/antitor/` |
