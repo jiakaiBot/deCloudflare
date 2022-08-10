@@ -1937,6 +1937,7 @@ Do not create new issue or we will close it as duplicate.
 | [DiamondMeeMee1@twitter](https://twitter.com/DiamondMeeMee1/status/1391273427290361858) | advertise |
 | [DickWhimsy@twitter](https://twitter.com/DickWhimsy/status/1384051581373468672) | advertise |
 | [DickyAdirachman@twitter](https://twitter.com/DickyAdirachman/status/1552680441706323968) | advertise |
+| [Diego24090352@twitter](https://twitter.com/Diego24090352/status/1557196849139924993) | advertise |
 | [diellidemjaha@twitter](https://twitter.com/diellidemjaha/status/1394616412086341633) | advertise |
 | [DieTriphel@twitter](https://twitter.com/DieTriphel/status/1517893596443074561) | advertise |
 | [digcinema@twitter](https://twitter.com/digcinema/status/1402343666174201857) | advertise |
@@ -4171,8 +4172,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5063,6 +5064,7 @@ Do not create new issue or we will close it as duplicate.
 | [Matnipp93_@twitter](https://twitter.com/Matnipp93_/status/1544927051458953216) | advertise |
 | [MatnXPharis@twitter](https://twitter.com/MatnXPharis/status/1501580663169839109) | advertise |
 | [matrix-org@github.com](https://github.com/matrix-org) | moral (forcefully closed issue) |
+| [mattdykema@twitter](https://twitter.com/mattdykema/status/1557194557368008704) | advertise |
 | [MatthewRapa@twitter](https://twitter.com/MatthewRapa/status/1541736541160079362) | advertise |
 | [matthewseng7@twitter](https://twitter.com/matthewseng7/status/1380512288944259074) | advertise |
 | [matthew_hignite@twitter](https://twitter.com/matthew_hignite/status/1398664024716349440) | advertise |
