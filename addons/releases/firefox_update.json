@@ -8,9 +8,9 @@
               "strict_min_version": "91.0"
             }
           },
-          "version": "1.0.6.3",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/isat.xpi?9669a508e6aa6d65c7e3942793c0f95b684f4ca1d0eff364f8293af60127a50c",
-          "update_hash": "sha256:9669a508e6aa6d65c7e3942793c0f95b684f4ca1d0eff364f8293af60127a50c"
+          "version": "1.0.6.5",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/isat.xpi?f5e27a5d8a67b31a6280f9c5cd545150080c2c45fb34b674bb93fa612b7f40d6",
+          "update_hash": "sha256:f5e27a5d8a67b31a6280f9c5cd545150080c2c45fb34b674bb93fa612b7f40d6"
         }
       ]
     },
@@ -22,9 +22,9 @@
               "strict_min_version": "91.0"
             }
           },
-          "version": "1.0.25.3",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/ismm.xpi?16e50c088f0378245fd04313e10f46b8555d2214da0c392f756d393d503743f4",
-          "update_hash": "sha256:16e50c088f0378245fd04313e10f46b8555d2214da0c392f756d393d503743f4"
+          "version": "1.0.25.5",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/ismm.xpi?7d5e2236d3b0e5348869348f59e7052ebcf5522662a8e35f1e6ecf8f9ba318dc",
+          "update_hash": "sha256:7d5e2236d3b0e5348869348f59e7052ebcf5522662a8e35f1e6ecf8f9ba318dc"
         }
       ]
     },
