@@ -1,8 +1,7 @@
 const apiPublic = [
-	'https://api.pkduaxfk6lrmo2be4yr6ke5pqzsujihywsggfb7tocnz7x3vqqkhfoqd.onion/_/is_mitm.php',
-	'https://api.ombrelo.eu.org/_/is_mitm.php',
-	'http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is_cf.php',
-	'https://karma.crimeflare.eu.org/api/is_cf.php'
+'','',
+	'http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is/cloudflare/',
+	'https://karma.crimeflare.eu.org:1984/api/is/cloudflare/'
 ];
 let localUse = -1,
 	localDB = [],
@@ -1077,7 +1076,7 @@ function is_hostile(f) {
 			headers: {
 				'Content-Type': 'application/x-www-form-urlencoded'
 			},
-			body: 'f=' + f
+			body: 'ignore_cfowned=1&f=' + f
 		}).then(r => r.json()).then(r => {
 			if (r[0]) {
 				g(r[1]);
@@ -1283,18 +1282,6 @@ browser.runtime.onMessage.addListener((requests, sender, sendResponse) => {
 		}
 		if (requests.indexOf('urltype,') === 0) {
 			switch (requests) {
-				case 'urltype,0':
-					browser.storage.local.set({
-						'cep': '0'
-					});
-					apiurl = apiPublic[0];
-					break;
-				case 'urltype,1':
-					browser.storage.local.set({
-						'cep': '1'
-					});
-					apiurl = apiPublic[1];
-					break;
 				case 'urltype,2':
 					browser.storage.local.set({
 						'cep': '2'
