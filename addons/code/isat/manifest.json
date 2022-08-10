@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "\u0108u \u0109i tiuj ligoj blokos Tor-uzanton?",
-  "description": "Skanu FQDN uzante la API",
-  "version": "1.0.6.3",
+  "name": "Will these links block Tor user?",
+  "description": "Find problematic links",
+  "version": "1.0.6.5",
   "homepage_url": "http://crimeflare.eu.org/",
   "author": "Crimeflare",
   "permissions": [
