@@ -9366,6 +9366,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yamyindee_nai@twitter](https://twitter.com/Yamyindee_nai/status/1552747744670134272) | advertise |
 | [YanAungThaw2@twitter](https://twitter.com/YanAungThaw2/status/1389760347205079042) | advertise |
 | [YanChay3@twitter](https://twitter.com/YanChay3/status/1391908840484982787) | advertise |
+| [Yandi62778431@twitter](https://twitter.com/Yandi62778431/status/1557397109611327488) | advertise |
 | [YaneYan49426997@twitter](https://twitter.com/YaneYan49426997/status/1380213844610441216) | advertise |
 | [yangonhandsome1@twitter](https://twitter.com/yangonhandsome1/status/1508097792879001607) | advertise |
 | [YangonT85145334@twitter](https://twitter.com/YangonT85145334/status/1391119988535160833) | advertise |
