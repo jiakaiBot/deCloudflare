@@ -1,4 +1,4 @@
-if (document.body && !/((ombrelo|crimeflare)\.eu\.org|\.onion)$/.test(location.hostname)) {
+if (document.body && !/((crimeflare|ombrelo)\.eu\.org|\.onion)$/.test(location.hostname)) {
 	let cs = (function () {
 		let s = document.createElement('style');
 		document.head.appendChild(s);
