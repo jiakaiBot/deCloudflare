@@ -6756,6 +6756,7 @@ Do not create new issue or we will close it as duplicate.
 | [plnAhResBLcWi30@twitter](https://twitter.com/plnAhResBLcWi30/status/1390338116418891778) | advertise |
 | [PLSFY2dzXWxAFJq@twitter](https://twitter.com/PLSFY2dzXWxAFJq/status/1401748010107875333) | advertise |
 | [PLTiYlLp6TXPZEv@twitter](https://twitter.com/PLTiYlLp6TXPZEv/status/1393330572097773573) | advertise |
+| [Pluhvvg55@twitter](https://twitter.com/Pluhvvg55/status/1557696264531513345) | advertise |
 | [Plumeri73219936@twitter](https://twitter.com/Plumeri73219936/status/1384177258991013899) | advertise |
 | [pluss_huy@twitter](https://twitter.com/pluss_huy/status/1547297826820194304) | advertise |
 | [PManieh@twitter](https://twitter.com/PManieh/status/1497224698861547520) | advertise |
