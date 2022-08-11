@@ -9146,6 +9146,7 @@ Do not create new issue or we will close it as duplicate.
 | [walder_franco@twitter](https://twitter.com/walder_franco/status/1545399618992750597) | advertise |
 | [Wali56764457@twitter](https://twitter.com/Wali56764457/status/1541197686082338817) | advertise |
 | [wali_duski@twitter](https://twitter.com/wali_duski/status/1553003405005799425) | advertise |
+| [walkmanrds@twitter](https://twitter.com/walkmanrds/status/1557553919085379584) | advertise |
 | [WalterSmith00@twitter](https://twitter.com/WalterSmith00/status/1499907092383080450) | advertise |
 | [WangMi87623155@twitter](https://twitter.com/WangMi87623155/status/1392754494258040832) | advertise |
 | [wannakhaingsoe@twitter](https://twitter.com/wannakhaingsoe/status/1390612150054440963) | advertise |
