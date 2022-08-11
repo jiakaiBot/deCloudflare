@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Reverse Proxy compatibility](https://github.com/janeczku/calibre-web/issues/2511)
 - [Mangahub Error 403, cant load pictures](https://github.com/manga-download/hakuneko/issues/4889)
 - [Unexpected wake up when using suspend-then-hibernate](https://github.com/systemd/systemd/issues/24279)
 - [Error when trying rate-limiter.toml example](https://github.com/folbricht/routedns/issues/252)
