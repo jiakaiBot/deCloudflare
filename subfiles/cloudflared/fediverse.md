@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,609 |
+| com | 2,612 |
 | net | 1,503 |
 | social | 1,144 |
 | org | 1,075 |
@@ -1483,6 +1483,7 @@ Here's a list of public Fediverse services.
 | balbec.xyz | No |
 | baldurbjarnason.com | No |
 | baleafunk.eus | No |
+| balena-devices.com | Yes |
 | ballioljcr.org | No |
 | ballmerlabs.net | No |
 | ballpointcarrot.net | No |
@@ -2119,6 +2120,7 @@ Here's a list of public Fediverse services.
 | box94.com | No |
 | boxertwin.info | No |
 | boxp.tk | No |
+| boxpleats.com | No |
 | boys.computer | No |
 | boyslove.jp | No |
 | boz.fi | No |
@@ -4191,6 +4193,7 @@ Here's a list of public Fediverse services.
 | domanske.de | No |
 | domdom.tokyo | No |
 | dominicdewolfe.com | No |
+| domm.me | Yes |
 | domov.de | No |
 | domtube.de | No |
 | don.im | Yes |
@@ -4475,7 +4478,7 @@ Here's a list of public Fediverse services.
 | ebin.website | Yes |
 | ebin.zone | No |
 | ebinwebsite.xyz | No |
-| ebisu.me | No |
+| ebisu.me | Yes |
 | eble.name | No |
 | ebnar.xyz | No |
 | ebola.moe | No |
@@ -7261,6 +7264,7 @@ Here's a list of public Fediverse services.
 | hugsandtoots.club | No |
 | huideyeren.info | No |
 | hullabaloo.xyz | No |
+| hullblasters.club | No |
 | huloop.com | No |
 | hulvr.com | No |
 | huma-num.fr | No |
@@ -8371,7 +8375,7 @@ Here's a list of public Fediverse services.
 | kaostek.com | No |
 | kaouenn-noz.fr | No |
 | kape.xyz | Yes |
-| kapic.io | No |
+| kapic.io | Yes |
 | kapler.family | No |
 | kapoios.com | No |
 | kappapi.rocks | No |
@@ -10675,6 +10679,7 @@ Here's a list of public Fediverse services.
 | meshspace.de | No |
 | mesomer.com | Yes |
 | mess.casa | Yes |
+| messurrection.com | No |
 | met-hardware.fr | No |
 | meta-tube.de | No |
 | metabit.xyz | No |
@@ -15245,6 +15250,7 @@ Here's a list of public Fediverse services.
 | sebastianlasse.de | No |
 | sebastianmoitzheim.de | No |
 | sebastienvigneau.xyz | No |
+| sebastix.dev | No |
 | sebbo.net | No |
 | sebitech.social | No |
 | sebtobie.de | No |
@@ -15278,7 +15284,7 @@ Here's a list of public Fediverse services.
 | seeingthatwhichis.org | No |
 | seekahead.eu | No |
 | seesomesun.be | No |
-| seetake.net | No |
+| seetake.net | Yes |
 | segeln.social | No |
 | sehol.se | Yes |
 | seibu-lions.love | No |
@@ -16074,6 +16080,7 @@ Here's a list of public Fediverse services.
 | sportsball.rocks | No |
 | sportscollecting.social | No |
 | sportsfans.social | No |
+| spotek.io | No |
 | spraci.info | No |
 | spring-has-come.tk | No |
 | springbo.cc | No |
@@ -16309,6 +16316,7 @@ Here's a list of public Fediverse services.
 | stupid.industries | No |
 | stupid.moe | No |
 | stupidpolis.blog | No |
+| sturtz.io | Yes |
 | stuttgart.international | No |
 | stuttgart.social | No |
 | stuxmedia.com | No |
@@ -16807,6 +16815,7 @@ Here's a list of public Fediverse services.
 | teichisma.info | No |
 | teilgedanken.de | No |
 | teitoku.to | No |
+| tejas.wtf | No |
 | tekdmn.me | Yes |
 | tekk.in | No |
 | tekkadan.me | No |
@@ -19598,8 +19607,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,825 |
-| Normal | 15,730 |
+| Cloudflare | 3,831 |
+| Normal | 15,733 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
