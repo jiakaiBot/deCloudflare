@@ -364,6 +364,7 @@ Do not create new issue or we will close it as duplicate.
 | [akhilvarma2020@twitter](https://twitter.com/akhilvarma2020/status/1381176091314806785) | advertise |
 | [AkhmalHaziq@twitter](https://twitter.com/AkhmalHaziq/status/1392301139526258694) | advertise |
 | [Akira47150780@twitter](https://twitter.com/Akira47150780/status/1400190504193589260) | advertise |
+| [akirafinn@twitter](https://twitter.com/akirafinn/status/1557606290725056513) | advertise |
 | [Akito28238860@twitter](https://twitter.com/Akito28238860/status/1493097617219534849) | advertise |
 | [AkMonk7@twitter](https://twitter.com/AkMonk7/status/1552111416982880257) | advertise |
 | [AKO35197755@twitter](https://twitter.com/AKO35197755/status/1391902794236403713) | advertise |
@@ -6535,6 +6536,7 @@ Do not create new issue or we will close it as duplicate.
 | [pbrito1@twitter](https://twitter.com/pbrito1/status/1370109221572902918) | advertise |
 | [PChadathong@twitter](https://twitter.com/PChadathong/status/1381661981304758273) | advertise |
 | [PDoxX7@twitter](https://twitter.com/PDoxX7/status/1539952156333248512) | advertise |
+| [PDXStolenCar@twitter](https://twitter.com/PDXStolenCar/status/1557609975949668353) | advertise |
 | [peageruk@twitter](https://twitter.com/peageruk/status/1383275946296299520) | advertise |
 | [peaksilver1@twitter](https://twitter.com/peaksilver1/status/1552288607682981888) | advertise |
 | [pearler15@twitter](https://twitter.com/pearler15/status/1500015969544155140) | advertise |
