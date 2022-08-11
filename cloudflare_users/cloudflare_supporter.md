@@ -9732,6 +9732,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZoeLogkop@twitter](https://twitter.com/ZoeLogkop/status/1538942210388811776) | advertise |
 | [zoktog@twitter](https://twitter.com/zoktog/status/1501935529188753411) | advertise |
 | [zonezone81@twitter](https://twitter.com/zonezone81/status/1389274249722925058) | advertise |
+| [ZonZon36269349@twitter](https://twitter.com/ZonZon36269349/status/1557675159259353088) | advertise |
 | [zon_paing@twitter](https://twitter.com/zon_paing/status/1391939112874225670) | advertise |
 | [ZookgyiG@twitter](https://twitter.com/ZookgyiG/status/1392647332592644096) | advertise |
 | [Zorrow_kzz@twitter](https://twitter.com/Zorrow_kzz/status/1531717541021761541) | advertise |
