@@ -568,6 +568,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnhTun70076204@twitter](https://twitter.com/AnhTun70076204/status/1476175014713970691) | advertise |
 | [AnhTunLHong2@twitter](https://twitter.com/AnhTunLHong2/status/1470739724998352901) | advertise |
 | [AnhVinh63370538@twitter](https://twitter.com/AnhVinh63370538/status/1509052356188848128) | advertise |
+| [anh_shiper1@twitter](https://twitter.com/anh_shiper1/status/1557637888942424065) | advertise |
 | [ani2nill@twitter](https://twitter.com/ani2nill/status/1444552778748084226) | advertise |
 | [AniateRyan@twitter](https://twitter.com/AniateRyan/status/1497729331958665220) | advertise |
 | [AnikethDevadiga@twitter](https://twitter.com/AnikethDevadiga/status/1393885775305928706) | advertise |
