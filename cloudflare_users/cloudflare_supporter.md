@@ -4726,6 +4726,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lin_Jaiant@twitter](https://twitter.com/Lin_Jaiant/status/1377974149759475712) | advertise |
 | [lionel_lwin@twitter](https://twitter.com/lionel_lwin/status/1475844957214625793) | advertise |
 | [LiquiditySwap@twitter](https://twitter.com/LiquiditySwap/status/1455310349893308420) | advertise |
+| [liquidman257@twitter](https://twitter.com/liquidman257/status/1557792965296361474) | advertise |
 | [liran7771@twitter](https://twitter.com/liran7771/status/1379709126905901061) | advertise |
 | [litebias@twitter](https://twitter.com/litebias/status/1486357079057403906) | advertise |
 | [literallyksmk@twitter](https://twitter.com/literallyksmk/status/1398613079546605570) | advertise |
