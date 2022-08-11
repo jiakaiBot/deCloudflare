@@ -1231,6 +1231,7 @@ Do not create new issue or we will close it as duplicate.
 | [BoAungDin888@twitter](https://twitter.com/BoAungDin888/status/1406574801402093572) | advertise |
 | [bobarol22@twitter](https://twitter.com/bobarol22/status/1478151965985046529) | advertise |
 | [BoBo58648517@twitter](https://twitter.com/BoBo58648517/status/1395066214590844932) | advertise |
+| [BoBo65719618@twitter](https://twitter.com/BoBo65719618/status/1557718591839281153) | advertise |
 | [boboat10@twitter](https://twitter.com/boboat10/status/1379156471103954944) | advertise |
 | [Bobohan3@twitter](https://twitter.com/Bobohan3/status/1392920049942372352) | advertise |
 | [BoBoHtunBsquare@twitter](https://twitter.com/BoBoHtunBsquare/status/1394287620796997637) | advertise |
@@ -2485,6 +2486,7 @@ Do not create new issue or we will close it as duplicate.
 | [GAGANDE95206340@twitter](https://twitter.com/GAGANDE95206340/status/1398149233992036353) | advertise |
 | [GAGz79429876@twitter](https://twitter.com/GAGz79429876/status/1531868813452464128) | advertise |
 | [gaijingen@twitter](https://twitter.com/gaijingen/status/1400023426157346821) | advertise |
+| [gaiplus18@twitter](https://twitter.com/gaiplus18/status/1557737834512912385) | advertise |
 | [gajendr13692528@twitter](https://twitter.com/gajendr13692528/status/1392386664115314689) | advertise |
 | [GalAviel97@twitter](https://twitter.com/GalAviel97/status/1401309736314810368) | advertise |
 | [Galaxyindiagam2@twitter](https://twitter.com/Galaxyindiagam2/status/1401178297300668420) | advertise |
@@ -2590,6 +2592,7 @@ Do not create new issue or we will close it as duplicate.
 | [Godson51861788@twitter](https://twitter.com/Godson51861788/status/1391118380443258883) | advertise |
 | [GODVSH1@twitter](https://twitter.com/GODVSH1/status/1400408258024665091) | advertise |
 | [GodXGaming19@twitter](https://twitter.com/GodXGaming19/status/1404097512743477248) | advertise |
+| [GogehZailani@twitter](https://twitter.com/GogehZailani/status/1557726171130802179) | advertise |
 | [GogKhant@twitter](https://twitter.com/GogKhant/status/1393684373484961794) | advertise |
 | [GolamkibriaRony@twitter](https://twitter.com/GolamkibriaRony/status/1404201070306361345) | advertise |
 | [GoldenT73523612@twitter](https://twitter.com/GoldenT73523612/status/1387635147965485061) | advertise |
