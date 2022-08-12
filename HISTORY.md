@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-08-12: [Performance issues affecting Gateway Resolver for requests reaching San Jose.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1rfv7hrnvj81)
 - 2022-08-12: [Increased HTTP 522 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4vc1rfjzwngk)
 - 2022-08-11: [Elevated number of 5xx errors in Kuala Lumpur, Malaysia (KUL)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1qgyf016dqy7)
 - 2022-08-10: [Increased 503 Responses for R2](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w2x8zlbxf8b2)
