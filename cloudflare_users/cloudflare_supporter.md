@@ -2429,6 +2429,7 @@ Do not create new issue or we will close it as duplicate.
 | [FoxArchipelago@twitter](https://twitter.com/FoxArchipelago/status/1537197310685458433) | advertise |
 | [FradSer@twitter](https://twitter.com/FradSer/status/1525376068395225088) | advertise |
 | [fragile105085@twitter](https://twitter.com/fragile105085/status/1538779032438771712) | advertise |
+| [frankchen0130@twitter](https://twitter.com/frankchen0130/status/1558029495793160193) | advertise |
 | [Frankie15083281@twitter](https://twitter.com/Frankie15083281/status/1552191447042256896) | advertise |
 | [frankygu@twitter](https://twitter.com/frankygu/status/1533974817438941185) | advertise |
 | [freak_bharath@twitter](https://twitter.com/freak_bharath/status/1398311217605738496) | advertise |
