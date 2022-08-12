@@ -7868,6 +7868,7 @@ Do not create new issue or we will close it as duplicate.
 | [SouravMore88@twitter](https://twitter.com/SouravMore88/status/1393449579295563778) | advertise |
 | [Sourbhana6Love@twitter](https://twitter.com/Sourbhana6Love/status/1390882630782971904) | advertise |
 | [sourcedconsult@twitter](https://twitter.com/sourcedconsult/status/1430102117591633920) | advertise |
+| [sovanovski@twitter](https://twitter.com/sovanovski/status/1557965323516936193) | advertise |
 | [soyaaa98@twitter](https://twitter.com/soyaaa98/status/1498657879590461445) | advertise |
 | [soyalkoirala60@twitter](https://twitter.com/soyalkoirala60/status/1394193049689812994) | advertise |
 | [soyandot@twitter](https://twitter.com/soyandot/status/1492984014193446918) | advertise |
