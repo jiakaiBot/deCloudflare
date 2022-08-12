@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,612 |
+| com | 2,613 |
 | net | 1,503 |
-| social | 1,144 |
+| social | 1,145 |
 | org | 1,075 |
-| de | 952 |
+| de | 953 |
 
 
 - Mastodon, Pleroma, etc
@@ -3044,7 +3044,7 @@ Here's a list of public Fediverse services.
 | colorfur.com | No |
 | colorid.es | Yes |
 | colson.re | No |
-| com.de | No |
+| com.de | Yes |
 | comam.es | No |
 | combiner.team | No |
 | comf.blog | No |
@@ -4472,6 +4472,7 @@ Here's a list of public Fediverse services.
 | eb8.org | No |
 | ebano.social | Yes |
 | ebc.li | No |
+| ebcdic.space | No |
 | ebi-fry306.net | No |
 | ebildungslabor.social | No |
 | ebin.club | No |
@@ -8464,6 +8465,7 @@ Here's a list of public Fediverse services.
 | keiji.io | No |
 | keinpfusch.net | No |
 | keio.ac.jp | No |
+| keithhacks.cyou | No |
 | keithjgrant.com | Yes |
 | keithzg.ca | No |
 | keivaun.com | Yes |
@@ -8623,6 +8625,7 @@ Here's a list of public Fediverse services.
 | kirstenmalzwei.de | No |
 | kiru.fun | No |
 | kisaan.social | Yes |
+| kish.social | No |
 | kisslolis.moe | No |
 | kissyourhomies.com | No |
 | kitahina.co | Yes |
@@ -8917,6 +8920,7 @@ Here's a list of public Fediverse services.
 | kusako.de | No |
 | kuscheltierdoktor.de | No |
 | kusoneko.moe | No |
+| kusu.icu | Yes |
 | kuude.re | No |
 | kuukkanen.net | Yes |
 | kvalhe.im | No |
@@ -10700,6 +10704,7 @@ Here's a list of public Fediverse services.
 | metapixl.com | No |
 | metaskey.net | Yes |
 | metasocial.com | No |
+| metaversum.wtf | No |
 | metawurst.space | No |
 | metaxx.dev | Yes |
 | metaxx.social | Yes |
@@ -12939,6 +12944,7 @@ Here's a list of public Fediverse services.
 | p1ng0ut.social | No |
 | p1x.in | No |
 | p2anav.net | No |
+| p2p-node.de | No |
 | p2p.legal | No |
 | p2pquake.net | No |
 | p2ptv.ru | No |
@@ -14210,6 +14216,7 @@ Here's a list of public Fediverse services.
 | raccoon.network | No |
 | racem.us | Yes |
 | racer159.com | No |
+| racheklos.com | No |
 | racheltheparrot.tf | No |
 | racing-lagoon.info | No |
 | raconteur.ink | No |
@@ -19607,8 +19614,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,831 |
-| Normal | 15,733 |
+| Cloudflare | 3,833 |
+| Normal | 15,738 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
