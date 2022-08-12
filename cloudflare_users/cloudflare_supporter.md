@@ -315,6 +315,7 @@ Do not create new issue or we will close it as duplicate.
 | [AhmedHu05262654@twitter](https://twitter.com/AhmedHu05262654/status/1478283890485653504) | advertise |
 | [AhmedMahadi005@twitter](https://twitter.com/AhmedMahadi005/status/1552921613641056256) | advertise |
 | [Ahmedsa96861316@twitter](https://twitter.com/Ahmedsa96861316/status/1412890312859656192) | moral (advertise) |
+| [AHMEDSAID1993au@twitter](https://twitter.com/AHMEDSAID1993au/status/1558211090525442049) | advertise |
 | [AhmedShojon2@twitter](https://twitter.com/AhmedShojon2/status/1392902773730004993) | advertise |
 | [AhmedShreyaan@twitter](https://twitter.com/AhmedShreyaan/status/1386617594489225218) | advertise |
 | [AhmedWaqarKhan1@twitter](https://twitter.com/AhmedWaqarKhan1/status/1393752833699188739) | advertise |
@@ -8830,6 +8831,7 @@ Do not create new issue or we will close it as duplicate.
 | [tunsang71103873@twitter](https://twitter.com/tunsang71103873/status/1401793040088371202) | advertise |
 | [TunSintar@twitter](https://twitter.com/TunSintar/status/1390672619091890177) | advertise |
 | [TunTrn78621454@twitter](https://twitter.com/TunTrn78621454/status/1388115031477211137) | advertise |
+| [TunTrng81150441@twitter](https://twitter.com/TunTrng81150441/status/1558214279093923840) | advertise |
 | [TunTunN21907832@twitter](https://twitter.com/TunTunN21907832/status/1392151024073207808) | advertise |
 | [TunTunN70495506@twitter](https://twitter.com/TunTunN70495506/status/1391124153818697728) | advertise |
 | [TunYinmin@twitter](https://twitter.com/TunYinmin/status/1394984491354148864) | advertise |
