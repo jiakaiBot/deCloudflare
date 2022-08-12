@@ -3869,6 +3869,7 @@ Do not create new issue or we will close it as duplicate.
 | [kai_h@twitter](https://twitter.com/kai_h/status/1409654911566974980) | moral (advertise) |
 | [Kaja70332299@twitter](https://twitter.com/Kaja70332299/status/1389526952747311106) | advertise |
 | [Kaka15107023@twitter](https://twitter.com/Kaka15107023/status/1387055575758868480) | advertise |
+| [Kakaro0922@twitter](https://twitter.com/Kakaro0922/status/1558177402320465920) | advertise |
 | [Kakuzu231@twitter](https://twitter.com/Kakuzu231/status/1392289987828146184) | advertise |
 | [kakyikoko1735@twitter](https://twitter.com/kakyikoko1735/status/1393078993641906177) | advertise |
 | [kalepaache2@twitter](https://twitter.com/kalepaache2/status/1538952242178539520) | advertise |
