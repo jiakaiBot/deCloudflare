@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ToonGod returns "No results found"](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/12952)
 - [help on configuration](https://github.com/aldor007/mort/issues/47)
 - [Reverse Proxy compatibility](https://github.com/janeczku/calibre-web/issues/2511)
 - [Mangahub Error 403, cant load pictures](https://github.com/manga-download/hakuneko/issues/4889)
