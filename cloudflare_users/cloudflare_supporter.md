@@ -8624,6 +8624,7 @@ Do not create new issue or we will close it as duplicate.
 | [tommyxiaomi289@twitter](https://twitter.com/tommyxiaomi289/status/1552929032999927808) | advertise |
 | [tomumame@twitter](https://twitter.com/tomumame/status/1524273785016586240) | advertise |
 | [tomx900@twitter](https://twitter.com/tomx900/status/1378074552857587713) | advertise |
+| [tomyperez@twitter](https://twitter.com/tomyperez/status/1558196423509917697) | advertise |
 | [ton51693387@twitter](https://twitter.com/ton51693387/status/1474890465623171073) | advertise |
 | [tongqualin@twitter](https://twitter.com/tongqualin/status/1515406293833777154) | advertise |
 | [TongTon27759984@twitter](https://twitter.com/TongTon27759984/status/1397107114468790272) | advertise |
@@ -9809,6 +9810,7 @@ Do not create new issue or we will close it as duplicate.
 | [_YoonminIsKii_@twitter](https://twitter.com/_YoonminIsKii_/status/1395181543241523205) | advertise |
 | [_zackwu@twitter](https://twitter.com/_zackwu/status/1459165605555179520) | advertise |
 | [__2x4@twitter](https://twitter.com/__2x4/status/1552234529355595778) | advertise |
+| [__i21@twitter](https://twitter.com/__i21/status/1552234529355595778) | advertise |
 | [__JARVlS__@twitter](https://twitter.com/__JARVlS__/status/1399612611314950144) | advertise |
 | [__mr_4d_wal__@twitter](https://twitter.com/__mr_4d_wal__/status/1530217611019145216) | advertise |
 | [__romanenko@twitter](https://twitter.com/__romanenko/status/1445082921421918210) | advertise |
