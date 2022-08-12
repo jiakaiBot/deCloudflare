@@ -19,7 +19,8 @@ Replace the (base url) to:
 
 > Cloudflare Domains Lookup
 
-For looking up domain's existence as a [MITM domain](cloudflare_users/domains/README.md).
+- For looking up domain's existence as a [MITM domain](cloudflare_users/domains/README.md).
+- Also try: [Listed as Cloudflare](https://karma.crimeflare.eu.org:1984/api/is/cloudflare/html/)
 
 | ? | ? |
 | -- | -- |
