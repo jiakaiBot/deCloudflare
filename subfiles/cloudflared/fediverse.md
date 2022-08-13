@@ -9841,6 +9841,7 @@ Here's a list of public Fediverse services.
 | lyceeconnecte.fr | No |
 | lydi.as | No |
 | lyker.jp | Yes |
+| lynessence.me | No |
 | lyng.space | No |
 | lynnesbian.space | No |
 | lynoxus.com | No |
@@ -12760,7 +12761,7 @@ Here's a list of public Fediverse services.
 | oresys.nagoya | No |
 | organicdesign.pub | No |
 | organisationtressecrete.com | No |
-| organizedchaos.cc | No |
+| organizedchaos.cc | Yes |
 | organizedcri.me | No |
 | organizing.social | Yes |
 | orgdup.media | No |
@@ -17739,6 +17740,7 @@ Here's a list of public Fediverse services.
 | turlan.org | No |
 | turpentine.blue | No |
 | turtleapparel.eu | No |
+| turystyka-niecodzienna.pl | No |
 | tusk.social | No |
 | tusk.wtf | No |
 | tusks.co | No |
@@ -18796,7 +18798,7 @@ Here's a list of public Fediverse services.
 | wisepoint.org | No |
 | witch.academy | No |
 | witch.energy | No |
-| witchcraft.cafe | Yes |
+| witchcraft.cafe | No |
 | witches.academy | No |
 | witches.live | No |
 | witches.pub | No |
@@ -19615,7 +19617,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 3,833 |
-| Normal | 15,738 |
+| Normal | 15,740 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
