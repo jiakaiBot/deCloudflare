@@ -692,6 +692,7 @@ Do not create new issue or we will close it as duplicate.
 | [Arsian84722563@twitter](https://twitter.com/Arsian84722563/status/1392123750821208068) | advertise |
 | [arslansheikh381@twitter](https://twitter.com/arslansheikh381/status/1467975634391601156) | advertise |
 | [ars_robotics@twitter](https://twitter.com/ars_robotics/status/1524778405308387330) | advertise |
+| [art3mkinreal@twitter](https://twitter.com/art3mkinreal/status/1558266148969361408) | advertise |
 | [ArteImmaginePh3@twitter](https://twitter.com/ArteImmaginePh3/status/1370471352373772291) | advertise |
 | [artem_shar@twitter](https://twitter.com/artem_shar/status/1417034537343782916) | advertise |
 | [ArThaNae1@twitter](https://twitter.com/ArThaNae1/status/1391247931856982016) | advertise |
