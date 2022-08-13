@@ -6,13 +6,13 @@
 
 There are many wide-range APIs live on Karma.
 
-In this page we explain 2 major read-only APIs.
+In this page we explain 2 read-only APIs.
 
 
 Replace the (base url) to:
 | Type | URL |
 | -- | -- |
-| **Clearnet (Recommend)** | `https://karma.crimeflare.eu.org:1984/api/` |
+| Clearnet | `https://karma.crimeflare.eu.org:1984/api/` |
 | Tor | `http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/` |
 
 -----
