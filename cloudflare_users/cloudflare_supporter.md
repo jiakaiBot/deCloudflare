@@ -4214,6 +4214,7 @@ Do not create new issue or we will close it as duplicate.
 | [KishanY38124071@twitter](https://twitter.com/KishanY38124071/status/1386658570142289923) | advertise |
 | [Kit33462985@twitter](https://twitter.com/Kit33462985/status/1401542022276685826) | advertise |
 | [KiteMeeran@twitter](https://twitter.com/KiteMeeran/status/1479318671038181379) | advertise |
+| [kitl37720388@twitter](https://twitter.com/kitl37720388/status/1558464851650850824) | advertise |
 | [kiwanismusic@twitter](https://twitter.com/kiwanismusic/status/1412505917870858240) | moral (advertise) |
 | [Kiyan99307753@twitter](https://twitter.com/Kiyan99307753/status/1382401632080601088) | advertise |
 | [kjmzyxbjh@twitter](https://twitter.com/kjmzyxbjh/status/1393136098226757636) | advertise |
