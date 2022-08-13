@@ -6579,6 +6579,7 @@ Do not create new issue or we will close it as duplicate.
 | [Peter34529276@twitter](https://twitter.com/Peter34529276/status/1474852867337080843) | advertise |
 | [Peter61736815@twitter](https://twitter.com/Peter61736815/status/1394440894862880774) | advertise |
 | [peterkc@twitter](https://twitter.com/peterkc/status/1529824761953456128) | advertise |
+| [pettiestEddie@twitter](https://twitter.com/pettiestEddie/status/1558420639651926017) | advertise |
 | [peyman1992n@twitter](https://twitter.com/peyman1992n/status/1547965189613531137) | advertise |
 | [PeyParrot@twitter](https://twitter.com/PeyParrot/status/1469338531667628035) | advertise |
 | [pfh151@twitter](https://twitter.com/pfh151/status/1537535597786517504) | advertise |
