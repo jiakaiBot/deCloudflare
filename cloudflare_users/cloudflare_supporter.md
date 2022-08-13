@@ -4184,8 +4184,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8152,6 +8152,7 @@ Do not create new issue or we will close it as duplicate.
 | [TechTailor@twitter](https://twitter.com/TechTailor/status/1381152232410816514) | advertise |
 | [techtweetlive@twitter](https://twitter.com/techtweetlive/status/1447213119869050886) | advertise |
 | [Teddy2100@twitter](https://twitter.com/Teddy2100/status/1379049599210512384) | advertise |
+| [TedionBirhanu@twitter](https://twitter.com/TedionBirhanu/status/1558365661835010054) | advertise |
 | [TedTschopp@twitter](https://twitter.com/TedTschopp/status/1486743304528007169) | advertise |
 | [Ted_Chavez_@twitter](https://twitter.com/Ted_Chavez_/status/1476047426943258625) | advertise |
 | [teegrpm2@twitter](https://twitter.com/teegrpm2/status/1397899934540566532) | advertise |
