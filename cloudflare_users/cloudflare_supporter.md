@@ -1969,6 +1969,7 @@ Do not create new issue or we will close it as duplicate.
 | [dinhtoan202@twitter](https://twitter.com/dinhtoan202/status/1526084573075222528) | advertise |
 | [dinhvhoang1@twitter](https://twitter.com/dinhvhoang1/status/1383234381439922177) | advertise |
 | [DipakCh89456642@twitter](https://twitter.com/DipakCh89456642/status/1392032564743852033) | advertise |
+| [dipankar9651@twitter](https://twitter.com/dipankar9651/status/1558430732598804482) | advertise |
 | [DipDipto12@twitter](https://twitter.com/DipDipto12/status/1379899792034201600) | advertise |
 | [diPWkrW4ktqd21o@twitter](https://twitter.com/diPWkrW4ktqd21o/status/1392395197204647936) | advertise |
 | [DiscordedLynx@twitter](https://twitter.com/DiscordedLynx/status/1418624822771437575) | advertise |
