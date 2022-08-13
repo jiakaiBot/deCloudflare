@@ -245,7 +245,7 @@ need more adaptations for Windows and other platforms.
     host git.example
          hostname     git.example
          ForwardX11   no
-         ProxyCommand connect -4 -S 127.0.0.1:9050 $(tor-resolve %h 127.0.0.1:9050) %p
+         ProxyCommand connect -5 -S 127.0.0.1:9050 $(tor-resolve %h 127.0.0.1:9050) %p
     host mrsnowden
          IdentityFile /home/user/.ssh/id_rsa_mrsnowden
 ```
