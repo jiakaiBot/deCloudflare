@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,613 |
-| net | 1,503 |
+| net | 1,504 |
 | social | 1,145 |
 | org | 1,075 |
 | de | 953 |
@@ -2213,6 +2213,7 @@ Here's a list of public Fediverse services.
 | brokenpipe.de | No |
 | brokep.com | No |
 | brokep.net | No |
+| bronevichok.ru | No |
 | brontoforum.us | No |
 | bronyfurry.com | Yes |
 | brot.social | No |
@@ -2922,6 +2923,7 @@ Here's a list of public Fediverse services.
 | clubb.cymru | No |
 | clubclubclub.club | Yes |
 | clubcyberia.co | No |
+| clubhouse2.net | Yes |
 | clubmontclair.com | No |
 | cly.wtf | Yes |
 | clyez.city | No |
@@ -5233,6 +5235,7 @@ Here's a list of public Fediverse services.
 | fediverse.blog | No |
 | fediverse.ca | No |
 | fediverse.club | No |
+| fediverse.co.za | Yes |
 | fediverse.cyou | Yes |
 | fediverse.express | No |
 | fediverse.lol | Yes |
@@ -7867,6 +7870,7 @@ Here's a list of public Fediverse services.
 | jabbxi.de | No |
 | jablon.fr | Yes |
 | jabrach.org | No |
+| jacen.moe | No |
 | jack28.ovh | No |
 | jackal.chat | Yes |
 | jackbot.fr | No |
@@ -19616,8 +19620,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,833 |
-| Normal | 15,740 |
+| Cloudflare | 3,835 |
+| Normal | 15,742 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
