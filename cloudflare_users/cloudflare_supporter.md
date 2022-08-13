@@ -1791,6 +1791,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dark4rce14@twitter](https://twitter.com/Dark4rce14/status/1385236734225666053) | advertise |
 | [darkboy82165795@twitter](https://twitter.com/darkboy82165795/status/1507639888849813505) | advertise |
 | [DARKCONQ@twitter](https://twitter.com/DARKCONQ/status/1404022455178465281) | advertise |
+| [darkcuph@twitter](https://twitter.com/darkcuph/status/1558498952919465984) | advertise |
 | [darkintaqt@twitter](https://twitter.com/darkintaqt/status/1493947056381120513) | advertise |
 | [darklife_apex@twitter](https://twitter.com/darklife_apex/status/1552225335701389313) | advertise |
 | [DarkLight068096@twitter](https://twitter.com/DarkLight068096/status/1390704316000870403) | advertise |
@@ -4786,6 +4787,7 @@ Do not create new issue or we will close it as duplicate.
 | [Loki83104752@twitter](https://twitter.com/Loki83104752/status/1379175461553573897) | advertise |
 | [LoliBB3@twitter](https://twitter.com/LoliBB3/status/1406516610135838722) | advertise |
 | [Lolipop11500860@twitter](https://twitter.com/Lolipop11500860/status/1384079563802640389) | advertise |
+| [lollilol01@twitter](https://twitter.com/lollilol01/status/1558490208760479746) | advertise |
 | [lollliiipppop@twitter](https://twitter.com/lollliiipppop/status/1552190100280594433) | advertise |
 | [lolo50075413@twitter](https://twitter.com/lolo50075413/status/1422031811694141455) | advertise |
 | [LoneLone117074@twitter](https://twitter.com/LoneLone117074/status/1397059513245597696) | advertise |
@@ -8674,6 +8676,7 @@ Do not create new issue or we will close it as duplicate.
 | [tradeserg@twitter](https://twitter.com/tradeserg/status/1507822829789716481) | advertise |
 | [Trai49328033@twitter](https://twitter.com/Trai49328033/status/1402999939983056899) | advertise |
 | [Traicod03486526@twitter](https://twitter.com/Traicod03486526/status/1400417859872960514) | advertise |
+| [Traidam48945344@twitter](https://twitter.com/Traidam48945344/status/1558491875031805952) | advertise |
 | [TraiDm50811820@twitter](https://twitter.com/TraiDm50811820/status/1398131670214057984) | advertise |
 | [TraiLng46703315@twitter](https://twitter.com/TraiLng46703315/status/1553274132703301632) | advertise |
 | [TramNgu43948092@twitter](https://twitter.com/TramNgu43948092/status/1469917328255041536) | advertise |
@@ -9392,6 +9395,7 @@ Do not create new issue or we will close it as duplicate.
 | [YairYairNi1@twitter](https://twitter.com/YairYairNi1/status/1390877471520686081) | advertise |
 | [YairYintKyaw16@twitter](https://twitter.com/YairYintKyaw16/status/1394525355872981000) | advertise |
 | [Yai_Sorry@twitter](https://twitter.com/Yai_Sorry/status/1398865762077401095) | advertise |
+| [yakamashi_baka@twitter](https://twitter.com/yakamashi_baka/status/1558494975847170048) | advertise |
 | [YaKauk47@twitter](https://twitter.com/YaKauk47/status/1376851886981009412) | advertise |
 | [yakauk_cvrtt2z@twitter](https://twitter.com/yakauk_cvrtt2z/status/1392848631456174086) | advertise |
 | [yakobiatta@twitter](https://twitter.com/yakobiatta/status/1513949512703909896) | advertise |
