@@ -2,7 +2,7 @@
 
 - Operated by `Crimeflare #Karma` with `No log` policy.
   - There is a rate-limit and anti-attack system so please be nice.
-- List data is almost identical to [this git data](http://crimeflare.eu.org). Lists are pulled from upstream weekly.
+- List data is almost identical to [this git data](http://crimeflare.eu.org).
 
 There are many wide-range APIs live on Karma.
 
