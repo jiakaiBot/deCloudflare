@@ -2002,6 +2002,7 @@ Do not create new issue or we will close it as duplicate.
 | [DNames@twitter](https://twitter.com/DNames/status/1491872924390891526) | advertise |
 | [Dng69114608@twitter](https://twitter.com/Dng69114608/status/1469914393320525824) | advertise |
 | [dng96878709@twitter](https://twitter.com/dng96878709/status/1376910370070142981) | advertise |
+| [DngCa10355096@twitter](https://twitter.com/DngCa10355096/status/1558900876269346816) | advertise |
 | [DngHongHuy7@twitter](https://twitter.com/DngHongHuy7/status/1383825668815818752) | advertise |
 | [DngNgcHi16@twitter](https://twitter.com/DngNgcHi16/status/1540216059151925248) | advertise |
 | [DngThunc3@twitter](https://twitter.com/DngThunc3/status/1392585261654052869) | advertise |
@@ -5189,6 +5190,7 @@ Do not create new issue or we will close it as duplicate.
 | [MDShori73803492@twitter](https://twitter.com/MDShori73803492/status/1377934270396735488) | advertise |
 | [MDTanve67193191@twitter](https://twitter.com/MDTanve67193191/status/1545099438036697090) | advertise |
 | [MDudaeb@twitter](https://twitter.com/MDudaeb/status/1459703663547408384) | advertise |
+| [MDWalters124@twitter](https://twitter.com/MDWalters124/status/1558905873807941635) | advertise |
 | [MdyBboy@twitter](https://twitter.com/MdyBboy/status/1390850990161629184) | advertise |
 | [MdyHFBottom42@twitter](https://twitter.com/MdyHFBottom42/status/1397154163105009669) | advertise |
 | [Me3nDDbGmrDw9Lw@twitter](https://twitter.com/Me3nDDbGmrDw9Lw/status/1407391634812293121) | advertise |
@@ -8971,6 +8973,7 @@ Do not create new issue or we will close it as duplicate.
 | [V22280324@twitter](https://twitter.com/V22280324/status/1396806272322736136) | advertise |
 | [V25022000@twitter](https://twitter.com/V25022000/status/1376914512725479429) | advertise |
 | [V54852877@twitter](https://twitter.com/V54852877/status/1553099641759010816) | advertise |
+| [Vagabondoloco@twitter](https://twitter.com/Vagabondoloco/status/1558902610110947331) | advertise |
 | [validclown@twitter](https://twitter.com/validclown/status/1553435790113673217) | advertise |
 | [ValidMojo@twitter](https://twitter.com/ValidMojo/status/1385009257830096898) | advertise |
 | [Vampire934@twitter](https://twitter.com/Vampire934/status/1382730087779340293) | advertise |
