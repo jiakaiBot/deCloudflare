@@ -4366,6 +4366,7 @@ Do not create new issue or we will close it as duplicate.
 | [kozay03880556@twitter](https://twitter.com/kozay03880556/status/1396524249599287296) | advertise |
 | [KoZin75830552@twitter](https://twitter.com/KoZin75830552/status/1392217360921108480) | advertise |
 | [ko_smileko@twitter](https://twitter.com/ko_smileko/status/1393753312239968259) | advertise |
+| [ko_swal@twitter](https://twitter.com/ko_swal/status/1558700094278762498) | advertise |
 | [KPauksa@twitter](https://twitter.com/KPauksa/status/1377192007555162112) | advertise |
 | [KPavanvarshith@twitter](https://twitter.com/KPavanvarshith/status/1546156981677092870) | advertise |
 | [KpPhyo7@twitter](https://twitter.com/KpPhyo7/status/1523694614393540610) | advertise |
@@ -9389,6 +9390,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yacinec54933892@twitter](https://twitter.com/Yacinec54933892/status/1407473157955588096) | advertise |
 | [YadanarMyo14@twitter](https://twitter.com/YadanarMyo14/status/1391784880036405252) | advertise |
 | [YadanarMyoWin2@twitter](https://twitter.com/YadanarMyoWin2/status/1391001842339835905) | advertise |
+| [yadeshbekheirr@twitter](https://twitter.com/yadeshbekheirr/status/1558701251218575360) | advertise |
 | [YaeThein@twitter](https://twitter.com/YaeThein/status/1389563696825835520) | advertise |
 | [yag75317936@twitter](https://twitter.com/yag75317936/status/1388361008704589824) | advertise |
 | [Yagami38240084@twitter](https://twitter.com/Yagami38240084/status/1387067443898568705) | advertise |
