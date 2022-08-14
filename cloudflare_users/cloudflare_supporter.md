@@ -85,6 +85,7 @@ Do not create new issue or we will close it as duplicate.
 | [9_lose@twitter](https://twitter.com/9_lose/status/1383537124788510722) | advertise |
 | [11BoizChungTinh@twitter](https://twitter.com/11BoizChungTinh/status/1401051583647911936) | advertise |
 | [11Thanh12@twitter](https://twitter.com/11Thanh12/status/1399774221035655168) | advertise |
+| [15lminhhiu1@twitter](https://twitter.com/15lminhhiu1/status/1558690009258962945) | advertise |
 | [16thxxxxx@twitter](https://twitter.com/16thxxxxx/status/1517814105855475712) | advertise |
 | [16_kyaw@twitter](https://twitter.com/16_kyaw/status/1393511123639439365) | advertise |
 | [18kilihjl@twitter](https://twitter.com/18kilihjl/status/1553835202564087809) | advertise |
@@ -1653,8 +1654,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -4373,6 +4374,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kraziegent@twitter](https://twitter.com/Kraziegent/status/1401103687150342159) | advertise |
 | [kreshnik_kaciqi@twitter](https://twitter.com/kreshnik_kaciqi/status/1557286704607858690) | advertise |
 | [kriqa@twitter](https://twitter.com/kriqa/status/1493619090597965828) | advertise |
+| [Krish65415256@twitter](https://twitter.com/Krish65415256/status/1558694076681109504) | advertise |
 | [Krish98478242@twitter](https://twitter.com/Krish98478242/status/1377175329249226756) | advertise |
 | [krishjangidkj@twitter](https://twitter.com/krishjangidkj/status/1395746309856919558) | advertise |
 | [Krishnaa008@twitter](https://twitter.com/Krishnaa008/status/1392542186755878919) | advertise |
@@ -5171,6 +5173,7 @@ Do not create new issue or we will close it as duplicate.
 | [MdOmarF63620186@twitter](https://twitter.com/MdOmarF63620186/status/1484456292450066432) | advertise |
 | [MdRahim25257221@twitter](https://twitter.com/MdRahim25257221/status/1518175550963347456) | advertise |
 | [MdRizwa55314105@twitter](https://twitter.com/MdRizwa55314105/status/1399181640945991680) | advertise |
+| [MdRubel86724101@twitter](https://twitter.com/MdRubel86724101/status/1558687429351309312) | advertise |
 | [MdSAmi06045379@twitter](https://twitter.com/MdSAmi06045379/status/1382387062549086211) | advertise |
 | [Mdsamiu21620514@twitter](https://twitter.com/Mdsamiu21620514/status/1547009359624151040) | advertise |
 | [MdShaki27581136@twitter](https://twitter.com/MdShaki27581136/status/1509762315385643011) | advertise |
