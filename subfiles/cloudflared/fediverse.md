@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,613 |
-| net | 1,504 |
+| com | 2,614 |
+| net | 1,505 |
 | social | 1,146 |
 | org | 1,075 |
-| de | 954 |
+| de | 955 |
 
 
 - Mastodon, Pleroma, etc
@@ -3545,6 +3545,7 @@ Here's a list of public Fediverse services.
 | d20hero.club | No |
 | d25.community | No |
 | d2evs.net | No |
+| d33pw3b.de | No |
 | d3add3d.net | Yes |
 | d3fc0n.one | No |
 | d3xx3r.de | Yes |
@@ -5589,6 +5590,7 @@ Here's a list of public Fediverse services.
 | foxthesystem.space | No |
 | foxtrot-community.cc | No |
 | foxworthy.name | No |
+| foxyhole.io | Yes |
 | fpga.style | No |
 | fpsource.info | No |
 | fpvogel.com | Yes |
@@ -7576,6 +7578,7 @@ Here's a list of public Fediverse services.
 | infinitenegativeutility.com | No |
 | infiniteregress.space | No |
 | infinity-labs.eu | No |
+| infinity.garden | No |
 | inflo.ws | No |
 | info-screen.me | Yes |
 | info.tm | Yes |
@@ -7612,6 +7615,7 @@ Here's a list of public Fediverse services.
 | iniad.dev | No |
 | iniguma.org | No |
 | inik.ch | No |
+| inimeg.space | No |
 | init-c.de | No |
 | initialization.tech | No |
 | initiate.space | Yes |
@@ -7960,6 +7964,7 @@ Here's a list of public Fediverse services.
 | jasonstryker.com | No |
 | jatan.space | Yes |
 | jauntygoat.net | No |
+| javask.xyz | No |
 | javelin.love | No |
 | javi.pro | No |
 | javier.dev | Yes |
@@ -12781,6 +12786,7 @@ Here's a list of public Fediverse services.
 | oriwebdon.com | No |
 | orkinsel.de | No |
 | orko.it | No |
+| ornella.xyz | No |
 | orng.social | Yes |
 | ornwood.garden | No |
 | orochena.net | Yes |
@@ -14320,6 +14326,7 @@ Here's a list of public Fediverse services.
 | randulo.com | No |
 | randyr.xyz | No |
 | rangueil.net | No |
+| rankett.net | No |
 | rankle.uk | No |
 | ranobe.net | No |
 | ranran.tw | No |
@@ -18234,6 +18241,7 @@ Here's a list of public Fediverse services.
 | veezee.tube | No |
 | vefto.org | No |
 | veg.ms | No |
+| vegafjord.me | No |
 | vegaia.social | Yes |
 | vegan.im.it | No |
 | veganact.org.au | No |
@@ -18383,6 +18391,7 @@ Here's a list of public Fediverse services.
 | vloggers.social | No |
 | vmtik.com | No |
 | vmug.social | No |
+| vnchich.com | Yes |
 | vnil.de | No |
 | vnxs.de | No |
 | vny.fr | No |
@@ -19624,8 +19633,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,839 |
-| Normal | 15,742 |
+| Cloudflare | 3,841 |
+| Normal | 15,749 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
