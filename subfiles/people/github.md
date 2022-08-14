@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Deso uploaded video content not working in Spain](https://github.com/deso-protocol/frontend/issues/590)
 - [Temporary Alternative Site](https://github.com/uup-dump/website/issues/169)
 - [Cloudflare Worker support](https://github.com/thekevinscott/UpscalerJS/issues/443)
 - [TypeError Astrothis.getAttribute(...) in Chrome](https://github.com/withastro/astro/issues/4286)
