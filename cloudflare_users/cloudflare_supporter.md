@@ -1314,6 +1314,7 @@ Do not create new issue or we will close it as duplicate.
 | [BrettSlaski@twitter](https://twitter.com/BrettSlaski/status/1454647204342288385) | advertise |
 | [BrianAlaway@twitter](https://twitter.com/BrianAlaway/status/1411048803336138754) | moral (advertise) |
 | [brianjaikens@twitter](https://twitter.com/brianjaikens/status/1553345364425596929) | advertise |
+| [BrianPotatoNSFW@twitter](https://twitter.com/BrianPotatoNSFW/status/1558778006113374208) | advertise |
 | [brianweenk1@twitter](https://twitter.com/brianweenk1/status/1496806658445561864) | advertise |
 | [BrightonHoney@twitter](https://twitter.com/BrightonHoney/status/1436108216656670724) | advertise |
 | [bright_wyne@twitter](https://twitter.com/bright_wyne/status/1391849321524436992) | advertise |
