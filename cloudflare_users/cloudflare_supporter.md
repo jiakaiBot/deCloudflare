@@ -1560,6 +1560,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChrisLangolf@twitter](https://twitter.com/ChrisLangolf/status/1381675355006730244) | advertise |
 | [ChrisOrillia@twitter](https://twitter.com/ChrisOrillia/status/1496282546929340417) | advertise |
 | [christhelegend@twitter](https://twitter.com/christhelegend/status/1395235876125483010) | advertise |
+| [christng06@twitter](https://twitter.com/christng06/status/1558881333799030784) | advertise |
 | [christoc@twitter](https://twitter.com/christoc/status/1522446623518900225) | advertise |
 | [Christ_moe@twitter](https://twitter.com/Christ_moe/status/1390388000887017475) | advertise |
 | [ChrisUXD@twitter](https://twitter.com/ChrisUXD/status/1517824318658514945) | advertise |
@@ -5010,6 +5011,7 @@ Do not create new issue or we will close it as duplicate.
 | [MandalayThar10@twitter](https://twitter.com/MandalayThar10/status/1391637199444070402) | advertise |
 | [mandiptimsina1@twitter](https://twitter.com/mandiptimsina1/status/1392722380678598656) | advertise |
 | [Maneesh40605685@twitter](https://twitter.com/Maneesh40605685/status/1497225757105397763) | advertise |
+| [mangtaweng@twitter](https://twitter.com/mangtaweng/status/1558889071854112768) | advertise |
 | [Manh65958757@twitter](https://twitter.com/Manh65958757/status/1553062901245628418) | advertise |
 | [manhhung1944@twitter](https://twitter.com/manhhung1944/status/1530580713309085696) | advertise |
 | [ManhVi11@twitter](https://twitter.com/ManhVi11/status/1408088812664680453) | advertise |
@@ -7242,6 +7244,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rohithaditya@twitter](https://twitter.com/Rohithaditya/status/1549724086170820609) | advertise |
 | [RohitJa86949782@twitter](https://twitter.com/RohitJa86949782/status/1385595206301470726) | advertise |
 | [RohitRo57161742@twitter](https://twitter.com/RohitRo57161742/status/1386748239819395072) | advertise |
+| [RohitSi00216701@twitter](https://twitter.com/RohitSi00216701/status/1558885652581588992) | advertise |
 | [Rohtih17@twitter](https://twitter.com/Rohtih17/status/1388094308218073096) | advertise |
 | [rokki100_@twitter](https://twitter.com/rokki100_/status/1407399657932742659) | advertise |
 | [Rolling_Dementi@twitter](https://twitter.com/Rolling_Dementi/status/1390855197258227713) | advertise |
