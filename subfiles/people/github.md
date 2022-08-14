@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Temporary Alternative Site](https://github.com/uup-dump/website/issues/169)
 - [Cloudflare Worker support](https://github.com/thekevinscott/UpscalerJS/issues/443)
 - [TypeError Astrothis.getAttribute(...) in Chrome](https://github.com/withastro/astro/issues/4286)
 - [ToonGod returns "No results found"](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/12952)
