@@ -67,6 +67,7 @@ Do not create new issue or we will close it as duplicate.
 | [4cvji1@twitter](https://twitter.com/4cvji1/status/1468836869941125121) | advertise |
 | [4DSxDARK1@twitter](https://twitter.com/4DSxDARK1/status/1379416647505616902) | advertise |
 | [4minerpool@twitter](https://twitter.com/4minerpool/status/1501760243952685058) | advertise |
+| [4QUIGE@twitter](https://twitter.com/4QUIGE/status/1558725276162347011) | advertise |
 | [4Taff@twitter](https://twitter.com/4Taff/status/1397536462606831617) | advertise |
 | [5ss_ss4@twitter](https://twitter.com/5ss_ss4/status/1483667377044828160) | advertise |
 | [6lizzys@twitter](https://twitter.com/6lizzys/status/1490561482525855747) | advertise |
