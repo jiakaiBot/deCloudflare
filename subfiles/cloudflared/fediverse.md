@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,613 |
 | net | 1,504 |
-| social | 1,145 |
+| social | 1,146 |
 | org | 1,075 |
-| de | 953 |
+| de | 954 |
 
 
 - Mastodon, Pleroma, etc
@@ -3739,7 +3739,7 @@ Here's a list of public Fediverse services.
 | ddnss.de | No |
 | ddnss.eu | No |
 | ddnss.org | No |
-| ddo.jp | No |
+| ddo.jp | Yes |
 | ddsc.life | No |
 | ddtcc.vip | No |
 | de-gentile.fr | No |
@@ -4799,6 +4799,7 @@ Here's a list of public Fediverse services.
 | epicureanworldview.com | No |
 | epiktistes.com | No |
 | epistles.xyz | No |
+| epochal.quest | Yes |
 | epyisageek.net | No |
 | equals.community | No |
 | equestria.social | No |
@@ -5481,6 +5482,7 @@ Here's a list of public Fediverse services.
 | flubbr.nl | No |
 | fluf.club | No |
 | fluff.land | No |
+| fluffcord.social | Yes |
 | fluffderg.me | No |
 | fluffel.io | No |
 | fluffy.family | No |
@@ -7734,6 +7736,7 @@ Here's a list of public Fediverse services.
 | ipv6.club | Yes |
 | ipv6.party | Yes |
 | ipv6.social | No |
+| ir0k.de | No |
 | ir1s.com | Yes |
 | irenala.edu.mg | No |
 | irgendlink.de | No |
@@ -9046,6 +9049,7 @@ Here's a list of public Fediverse services.
 | lancaster.ac.uk | No |
 | lancasterpa.social | No |
 | lanceur-alerte.tv | No |
+| landofkittens.community | Yes |
 | landofkittens.social | Yes |
 | lang-mfr.de | No |
 | langet.one | Yes |
@@ -19620,7 +19624,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,835 |
+| Cloudflare | 3,839 |
 | Normal | 15,742 |
 
 
