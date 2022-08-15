@@ -1685,6 +1685,7 @@ Do not create new issue or we will close it as duplicate.
 | [cter_s@twitter](https://twitter.com/cter_s/status/1405419425478561794) | advertise |
 | [cThn10480979@twitter](https://twitter.com/cThn10480979/status/1552491877168844801) | advertise |
 | [CThuSoe4@twitter](https://twitter.com/CThuSoe4/status/1393751002122129414) | advertise |
+| [CTKOfficialBlog@twitter](https://twitter.com/CTKOfficialBlog/status/1559135169616953344) | advertise |
 | [ctrung34150272@twitter](https://twitter.com/ctrung34150272/status/1552996579921231877) | advertise |
 | [cTvR8N4qUnYottO@twitter](https://twitter.com/cTvR8N4qUnYottO/status/1403772888499605508) | advertise |
 | [CtyThi@twitter](https://twitter.com/CtyThi/status/1405680378308747264) | advertise |
