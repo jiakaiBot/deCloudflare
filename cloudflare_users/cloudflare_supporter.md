@@ -5439,6 +5439,7 @@ Do not create new issue or we will close it as duplicate.
 | [MitraDevayan@twitter](https://twitter.com/MitraDevayan/status/1393172749288284160) | advertise |
 | [Mits_Dev@twitter](https://twitter.com/Mits_Dev/status/1392978764636643330) | advertise |
 | [MiuMp8@twitter](https://twitter.com/MiuMp8/status/1494009000975040512) | advertise |
+| [mivteccc@twitter](https://twitter.com/mivteccc/status/1559254299972014080) | advertise |
 | [mixms_@twitter](https://twitter.com/mixms_/status/1390638654486372355) | advertise |
 | [MiyaCrowdfund@twitter](https://twitter.com/MiyaCrowdfund/status/1542630069339918339) | advertise |
 | [mizudin6@twitter](https://twitter.com/mizudin6/status/1498271439438618635) | advertise |
