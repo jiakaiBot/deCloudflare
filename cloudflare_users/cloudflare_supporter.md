@@ -390,6 +390,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlBadi410@twitter](https://twitter.com/AlBadi410/status/1492878165215043590) | advertise |
 | [Albert88Lim@twitter](https://twitter.com/Albert88Lim/status/1400923426244546562) | advertise |
 | [alberto4303@twitter](https://twitter.com/alberto4303/status/1500227402403823623) | advertise |
+| [AlbMytv@twitter](https://twitter.com/AlbMytv/status/1559271310433419264) | advertise |
 | [albNo273@twitter](https://twitter.com/albNo273/status/1440877956709040136) | advertise |
 | [Ald33107945@twitter](https://twitter.com/Ald33107945/status/1553066067693486080) | advertise |
 | [aldoscar_oscar@twitter](https://twitter.com/aldoscar_oscar/status/1377318204477964290) | advertise |
@@ -6710,6 +6711,7 @@ Do not create new issue or we will close it as duplicate.
 | [Phtnh88838227@twitter](https://twitter.com/Phtnh88838227/status/1468206933219819521) | advertise |
 | [Phu21102006@twitter](https://twitter.com/Phu21102006/status/1392527606176653314) | advertise |
 | [phuc4bn@twitter](https://twitter.com/phuc4bn/status/1405694316450746368) | advertise |
+| [Phuc18cm170@twitter](https://twitter.com/Phuc18cm170/status/1559261184008024064) | advertise |
 | [Phuc65469513@twitter](https://twitter.com/Phuc65469513/status/1387044797605552134) | advertise |
 | [Phuc77438485@twitter](https://twitter.com/Phuc77438485/status/1393397513831411718) | advertise |
 | [phuckbang000@twitter](https://twitter.com/phuckbang000/status/1397089787564023812) | advertise |
