@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,614 |
+| com | 2,615 |
 | net | 1,505 |
 | social | 1,146 |
 | org | 1,075 |
-| de | 955 |
+| de | 956 |
 
 
 - Mastodon, Pleroma, etc
@@ -1471,6 +1471,7 @@ Here's a list of public Fediverse services.
 | bagna.of.by | No |
 | bagra.club | No |
 | bahnhof.cz | No |
+| baird.club | Yes |
 | baixllobregat.social | No |
 | bajax.us | No |
 | bakitodon.com | No |
@@ -2548,6 +2549,7 @@ Here's a list of public Fediverse services.
 | cbfish.es | No |
 | cbrpnk.dev | No |
 | cbrx.io | Yes |
+| cc.bi | No |
 | cc38.cc | Yes |
 | cccccmake.de | No |
 | cccp.io | No |
@@ -5451,6 +5453,7 @@ Here's a list of public Fediverse services.
 | flauschekatze.space | No |
 | flauschig.social | Yes |
 | flavigula.net | No |
+| flecken.monster | No |
 | fleshmeat.com | No |
 | fleur7.com | No |
 | flexnation.xyz | No |
@@ -8033,6 +8036,7 @@ Here's a list of public Fediverse services.
 | jerstation.com | No |
 | jes.xxx | No |
 | jess.coffee | No |
+| jesse-saenz.com | Yes |
 | jessecrouch.com | No |
 | jessidhia.dev | Yes |
 | jestemgraczem.pl | Yes |
@@ -8356,6 +8360,7 @@ Here's a list of public Fediverse services.
 | kalabradas.club | No |
 | kalasarn.se | No |
 | kalebporter.club | No |
+| kaleido.moe | No |
 | kalik.in | Yes |
 | kallelaine.com | Yes |
 | kalli.st | No |
@@ -12781,6 +12786,7 @@ Here's a list of public Fediverse services.
 | organizing.social | Yes |
 | orgdup.media | No |
 | originalpatchou.li | No |
+| oriol.ie | No |
 | orion-hub.fr | No |
 | orion-serv.fr | Yes |
 | oriongate.jp | No |
@@ -14942,7 +14948,7 @@ Here's a list of public Fediverse services.
 | safaradeg.net | No |
 | safebook.space | No |
 | saferspace.social | No |
-| saferweb.io | No |
+| saferweb.io | Yes |
 | safestreetrebel.com | Yes |
 | safewebbox.com | No |
 | sagard.com.np | Yes |
@@ -17314,6 +17320,7 @@ Here's a list of public Fediverse services.
 | tmp.si | No |
 | tmp1024.com | Yes |
 | tmprs.net | No |
+| to-tell.de | No |
 | to-tell.tk | No |
 | toad-in-the-hole.net | No |
 | toad.blue | No |
@@ -19636,8 +19643,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,840 |
-| Normal | 15,753 |
+| Cloudflare | 3,843 |
+| Normal | 15,757 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
