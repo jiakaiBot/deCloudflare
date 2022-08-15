@@ -7544,6 +7544,7 @@ Do not create new issue or we will close it as duplicate.
 | [SeanScalley1@twitter](https://twitter.com/SeanScalley1/status/1508999258288144389) | advertise |
 | [seaxvr@twitter](https://twitter.com/seaxvr/status/1386420536742268928) | advertise |
 | [SebasDeLho@twitter](https://twitter.com/SebasDeLho/status/1458194317458149380) | advertise |
+| [sectorg33@twitter](https://twitter.com/sectorg33/status/1559158992353771521) | advertise |
 | [securefun@twitter](https://twitter.com/securefun/status/1551731297155964928) | advertise |
 | [seeislam1@twitter](https://twitter.com/seeislam1/status/1404986738712498183) | advertise |
 | [seekingforligh1@twitter](https://twitter.com/seekingforligh1/status/1390488497924894726) | advertise |
