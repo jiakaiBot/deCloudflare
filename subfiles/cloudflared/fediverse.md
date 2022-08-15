@@ -392,7 +392,7 @@ Here's a list of public Fediverse services.
 | abolition.online | No |
 | abolition.town | No |
 | abolivier.bzh | No |
-| aboring.space | No |
+| aboring.space | Yes |
 | aboringsite.dev | No |
 | abortu.com | No |
 | about-bitcoin.com | Yes |
@@ -783,7 +783,7 @@ Here's a list of public Fediverse services.
 | ameci.org | Yes |
 | amecomidon.com | No |
 | amefur.asia | No |
-| amemiya.work | Yes |
+| amemiya.work | No |
 | amencarini.com | No |
 | americassweethe.art | No |
 | amic37.fr | No |
@@ -3202,6 +3202,7 @@ Here's a list of public Fediverse services.
 | counter.social | Yes |
 | coupou.fr | No |
 | courier.no | No |
+| cover.pm | No |
 | covert.tel | No |
 | cowfee.moe | No |
 | cowfee.org | No |
@@ -3661,6 +3662,7 @@ Here's a list of public Fediverse services.
 | darkyonmasto.ch | No |
 | darmstadt.social | Yes |
 | darnell.one | No |
+| darnell.tv | No |
 | dartisan.dev | No |
 | dartsdon.jp | No |
 | darui.work | No |
@@ -5393,7 +5395,7 @@ Here's a list of public Fediverse services.
 | fintoot.space | Yes |
 | fionic.eu | No |
 | firc.de | No |
-| fire-studios.tk | Yes |
+| fire-studios.tk | No |
 | firebaseapp.com | No |
 | firebird.zone | No |
 | firebrand.ml | No |
@@ -5590,7 +5592,7 @@ Here's a list of public Fediverse services.
 | foxthesystem.space | No |
 | foxtrot-community.cc | No |
 | foxworthy.name | No |
-| foxyhole.io | Yes |
+| foxyhole.io | No |
 | fpga.style | No |
 | fpsource.info | No |
 | fpvogel.com | Yes |
@@ -10284,7 +10286,7 @@ Here's a list of public Fediverse services.
 | mastodon.hk | Yes |
 | mastodon.host | No |
 | mastodon.hr | Yes |
-| mastodon.icu | No |
+| mastodon.icu | Yes |
 | mastodon.ie | No |
 | mastodon.im | Yes |
 | mastodon.in.th | No |
@@ -12650,7 +12652,7 @@ Here's a list of public Fediverse services.
 | onlyfarms.co | Yes |
 | onlyfeds.cc | Yes |
 | onlyfoxes.biz | No |
-| onore.org | Yes |
+| onore.org | No |
 | onosend.ai | No |
 | onosendai.jp | No |
 | onpaper.su | Yes |
@@ -14412,6 +14414,7 @@ Here's a list of public Fediverse services.
 | realtime.fyi | No |
 | reapers.de | No |
 | reaves.dev | No |
+| rebased.network | Yes |
 | rebble.net | No |
 | rebelbase.site | No |
 | rebellion.global | No |
@@ -19633,8 +19636,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,841 |
-| Normal | 15,749 |
+| Cloudflare | 3,840 |
+| Normal | 15,753 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
