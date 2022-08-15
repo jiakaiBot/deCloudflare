@@ -9594,6 +9594,7 @@ Do not create new issue or we will close it as duplicate.
 | [YThu999@twitter](https://twitter.com/YThu999/status/1378320350136655872) | advertise |
 | [ytPGamerX@twitter](https://twitter.com/ytPGamerX/status/1425139212152500224) | advertise |
 | [yubian_meiwu@twitter](https://twitter.com/yubian_meiwu/status/1451610756370161665) | advertise |
+| [Yucky17358536@twitter](https://twitter.com/Yucky17358536/status/1559099220136980480) | advertise |
 | [yuenbeihai@twitter](https://twitter.com/yuenbeihai/status/1376673572677021699) | advertise |
 | [YueYue05673762@twitter](https://twitter.com/YueYue05673762/status/1391670328879951872) | advertise |
 | [Yuki50555967@twitter](https://twitter.com/Yuki50555967/status/1551133125165871105) | advertise |
