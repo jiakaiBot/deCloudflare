@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [svelte.config.js does not allow vitePlugin section](https://github.com/sveltejs/kit/issues/5888)
 - [Terrible error about non-existent provider](https://github.com/hashicorp/terraform/issues/31645)
 - [Cloudflare access - OpenID authentication with authentik](https://github.com/goauthentik/authentik/issues/3422)
 - [Deso uploaded video content not working in Spain](https://github.com/deso-protocol/frontend/issues/590)
