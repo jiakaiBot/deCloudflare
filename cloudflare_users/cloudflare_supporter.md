@@ -5874,6 +5874,7 @@ Do not create new issue or we will close it as duplicate.
 | [NanThinZarOo3@twitter](https://twitter.com/NanThinZarOo3/status/1391693108195348484) | advertise |
 | [NaoremDojo@twitter](https://twitter.com/NaoremDojo/status/1382449145856851971) | advertise |
 | [nao_qua@twitter](https://twitter.com/nao_qua/status/1533404289648844802) | advertise |
+| [nappyboy1109@twitter](https://twitter.com/nappyboy1109/status/1559171847643893761) | advertise |
 | [narajantima@twitter](https://twitter.com/narajantima/status/1553226573574090753) | advertise |
 | [Narendr93556275@twitter](https://twitter.com/Narendr93556275/status/1384445226274594824) | advertise |
 | [naringuyen0808@twitter](https://twitter.com/naringuyen0808/status/1545254657102336002) | advertise |
