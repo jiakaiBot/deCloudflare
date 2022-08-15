@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Terrible error about non-existent provider](https://github.com/hashicorp/terraform/issues/31645)
 - [Cloudflare access - OpenID authentication with authentik](https://github.com/goauthentik/authentik/issues/3422)
 - [Deso uploaded video content not working in Spain](https://github.com/deso-protocol/frontend/issues/590)
 - [Temporary Alternative Site](https://github.com/uup-dump/website/issues/169)
