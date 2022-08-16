@@ -122,6 +122,7 @@ Or is this merely a case of simple modesty?
 | Allen Lai | Head of Support |  |
 | Allen Marcus | Business Development |  |
 | Allen Rinehart | Security Risk Management | https://www.zoominfo.com/p/Allen-Rinehart/3217367198 |
+| Allie Landy | Employee | |
 | Alon Gavrielov | Infrastructure |  |
 | Alonso Bustamante | Special Projects |  |
 | Alonso Quiroz Herrera | Employee |  |
@@ -1141,6 +1142,7 @@ Or is this merely a case of simple modesty?
 | Maxwell Mitchell | Statistician |  |
 | Megan Alderete | Customer Development |  |
 | Megan Davis | Event Marketing |  |
+| Meghan Bevill | Employee | |
 | Meghan Weinreich | Demand Generation | https://twitter.com/MegWeinreich |
 | Meg He | Employee |  |
 | Melissa Henderson | IT Support Technician |  |
