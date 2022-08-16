@@ -1115,6 +1115,7 @@ Do not create new issue or we will close it as duplicate.
 | [BerLin04760239@twitter](https://twitter.com/BerLin04760239/status/1391006813512888322) | advertise |
 | [Berlin75004292@twitter](https://twitter.com/Berlin75004292/status/1552765167880253440) | advertise |
 | [berma_o@twitter](https://twitter.com/berma_o/status/1392514849402392579) | advertise |
+| [Bernard25368113@twitter](https://twitter.com/Bernard25368113/status/1559605975484715009) | advertise |
 | [bero14776379@twitter](https://twitter.com/bero14776379/status/1386763874045677568) | advertise |
 | [bert_rell@twitter](https://twitter.com/bert_rell/status/1439350935457722368) | advertise |
 | [best_rdp@twitter](https://twitter.com/best_rdp/status/1475830533221490690) | advertise |
@@ -1661,8 +1662,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2085,6 +2086,7 @@ Do not create new issue or we will close it as duplicate.
 | [DrustonDias1@twitter](https://twitter.com/DrustonDias1/status/1392055630207217666) | advertise |
 | [Dryannaungsoe@twitter](https://twitter.com/Dryannaungsoe/status/1542151793563824129) | advertise |
 | [DryNerf@twitter](https://twitter.com/DryNerf/status/1540069436765487105) | advertise |
+| [Dr_chin_@twitter](https://twitter.com/Dr_chin_/status/1559612155409752064) | advertise |
 | [dr_pyaephyoezaw@twitter](https://twitter.com/dr_pyaephyoezaw/status/1391669243930841089) | advertise |
 | [dr_tayel81@twitter](https://twitter.com/dr_tayel81/status/1386993468287897600) | advertise |
 | [DsanayaJ@twitter](https://twitter.com/DsanayaJ/status/1399281807430987779) | advertise |
