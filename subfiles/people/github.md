@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [m-team fail to connect](https://github.com/Jackett/Jackett/issues/13483)
 - [Got this, don't know if that's just internet or smith.](https://github.com/Shabinder/SpotiFlyer/issues/1642)
 - [svelte.config.js does not allow vitePlugin section](https://github.com/sveltejs/kit/issues/5888)
 - [Terrible error about non-existent provider](https://github.com/hashicorp/terraform/issues/31645)
