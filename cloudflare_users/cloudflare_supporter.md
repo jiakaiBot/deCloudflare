@@ -2644,6 +2644,7 @@ Do not create new issue or we will close it as duplicate.
 | [GP45590673@twitter](https://twitter.com/GP45590673/status/1391820766912466944) | advertise |
 | [GPaoloFontani@twitter](https://twitter.com/GPaoloFontani/status/1413095790126505986) | moral (advertise) |
 | [Grace11509400@twitter](https://twitter.com/Grace11509400/status/1398512179226189826) | advertise |
+| [Grace78326388@twitter](https://twitter.com/Grace78326388/status/1559625321862799362) | advertise |
 | [Gracema90004826@twitter](https://twitter.com/Gracema90004826/status/1390090100466274306) | advertise |
 | [GraceParree@twitter](https://twitter.com/GraceParree/status/1383247260255801348) | advertise |
 | [GrahameSmith8@twitter](https://twitter.com/GrahameSmith8/status/1480915785505820677) | advertise |
