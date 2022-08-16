@@ -7131,6 +7131,7 @@ Do not create new issue or we will close it as duplicate.
 | [realdl_@twitter](https://twitter.com/realdl_/status/1523506857532289024) | advertise |
 | [RealDNewsMag@twitter](https://twitter.com/RealDNewsMag/status/1441466401781211137) | advertise |
 | [RealFaizAhmed1@twitter](https://twitter.com/RealFaizAhmed1/status/1402941244456775687) | advertise |
+| [realfaizalkha1@twitter](https://twitter.com/realfaizalkha1/status/1559374629264826368) | advertise |
 | [RealFTG2@twitter](https://twitter.com/RealFTG2/status/1425143438551490564) | advertise |
 | [realKUZNETSOV@twitter](https://twitter.com/realKUZNETSOV/status/1510345313567006731) | advertise |
 | [reallif81930874@twitter](https://twitter.com/reallif81930874/status/1392978030725722115) | advertise |
