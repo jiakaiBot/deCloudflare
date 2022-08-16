@@ -2781,6 +2781,7 @@ Do not create new issue or we will close it as duplicate.
 | [Happine06622234@twitter](https://twitter.com/Happine06622234/status/1391106552208101378) | advertise |
 | [Happy69146698@twitter](https://twitter.com/Happy69146698/status/1401924755788161030) | advertise |
 | [happygagarara12@twitter](https://twitter.com/happygagarara12/status/1427587476953042952) | advertise |
+| [HaqimTuan@twitter](https://twitter.com/HaqimTuan/status/1559453138695753728) | advertise |
 | [haqyyi@twitter](https://twitter.com/haqyyi/status/1394274130329886720) | advertise |
 | [harden_69@twitter](https://twitter.com/harden_69/status/1552074135030857728) | advertise |
 | [hardey62820667@twitter](https://twitter.com/hardey62820667/status/1528254214584946689) | advertise |
@@ -5112,6 +5113,7 @@ Do not create new issue or we will close it as duplicate.
 | [matthewseng7@twitter](https://twitter.com/matthewseng7/status/1380512288944259074) | advertise |
 | [matthew_hignite@twitter](https://twitter.com/matthew_hignite/status/1398664024716349440) | advertise |
 | [matthijspc@twitter](https://twitter.com/matthijspc/status/1510710656705650692) | advertise |
+| [mattpeterman92@twitter](https://twitter.com/mattpeterman92/status/1559461720292069376) | advertise |
 | [mattylive_@twitter](https://twitter.com/mattylive_/status/1380773880512532485) | advertise |
 | [matt_from_burma@twitter](https://twitter.com/matt_from_burma/status/1394596702879850497) | advertise |
 | [matt_gamez@twitter](https://twitter.com/matt_gamez/status/1501569176686764036) | advertise |
