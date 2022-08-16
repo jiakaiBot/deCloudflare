@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,615 |
+| com | 2,616 |
 | net | 1,505 |
 | social | 1,146 |
 | org | 1,075 |
@@ -270,7 +270,7 @@ Here's a list of public Fediverse services.
 | 5star-toilet.club | No |
 | 5vsb.com | No |
 | 60228.dev | Yes |
-| 616.earth | No |
+| 616.earth | Yes |
 | 616.one | No |
 | 62x54r.ru | No |
 | 64.re | No |
@@ -1850,7 +1850,7 @@ Here's a list of public Fediverse services.
 | bitcoinenemies.com | No |
 | bitcoiner.guide | No |
 | bitcoiner.social | No |
-| bitcoinersagainst.boats | No |
+| bitcoinersagainst.boats | Yes |
 | bitcoinhackers.org | Yes |
 | bitcoinlizard.net | No |
 | bitcoinmastodon.org | No |
@@ -3048,7 +3048,7 @@ Here's a list of public Fediverse services.
 | colorfur.com | No |
 | colorid.es | Yes |
 | colson.re | No |
-| com.de | Yes |
+| com.de | No |
 | comam.es | No |
 | combiner.team | No |
 | comf.blog | No |
@@ -4264,7 +4264,7 @@ Here's a list of public Fediverse services.
 | doubleloop.net | No |
 | doubleshine.cc | Yes |
 | doubleword.gq | No |
-| douchi.space | No |
+| douchi.space | Yes |
 | doug.computer | No |
 | doug.pub | No |
 | douga.ga | No |
@@ -18006,6 +18006,7 @@ Here's a list of public Fediverse services.
 | uni-muenster.de | No |
 | uni.horse | No |
 | unicornsquad.party | Yes |
+| unifiedberets.com | Yes |
 | unigiri.net | No |
 | unikanomo.club | No |
 | unimatrix0.is | No |
@@ -19643,8 +19644,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,843 |
-| Normal | 15,757 |
+| Cloudflare | 3,846 |
+| Normal | 15,755 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
