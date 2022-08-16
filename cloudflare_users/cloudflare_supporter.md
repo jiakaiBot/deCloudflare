@@ -6427,6 +6427,7 @@ Do not create new issue or we will close it as duplicate.
 | [OM4LSpb5a8vEdhu@twitter](https://twitter.com/OM4LSpb5a8vEdhu/status/1395682995693101063) | advertise |
 | [omar44270104@twitter](https://twitter.com/omar44270104/status/1471983815249833990) | advertise |
 | [OmarElgahri@twitter](https://twitter.com/OmarElgahri/status/1430736423838158851) | advertise |
+| [OmarOmarahmedkr@twitter](https://twitter.com/OmarOmarahmedkr/status/1559481116934938625) | advertise |
 | [Omary52022014@twitter](https://twitter.com/Omary52022014/status/1541496884065345537) | advertise |
 | [omar_ibrahim_28@twitter](https://twitter.com/omar_ibrahim_28/status/1533075831781834753) | advertise |
 | [Omsin_Fhandsome@twitter](https://twitter.com/Omsin_Fhandsome/status/1552978611455799296) | advertise |
