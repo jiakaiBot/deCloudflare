@@ -2874,6 +2874,7 @@ Here's a list of public Fediverse services.
 | click.ba.it | No |
 | climatejustice.events | No |
 | climatejustice.global | No |
+| climatejustice.photos | No |
 | climatejustice.rocks | No |
 | climatejustice.social | No |
 | climatejustice.video | Yes |
@@ -3663,7 +3664,9 @@ Here's a list of public Fediverse services.
 | darktech.org | No |
 | darkyonmasto.ch | No |
 | darmstadt.social | Yes |
+| darnell.app | No |
 | darnell.one | No |
+| darnell.ooo | No |
 | darnell.tv | No |
 | dartisan.dev | No |
 | dartsdon.jp | No |
@@ -8475,7 +8478,7 @@ Here's a list of public Fediverse services.
 | keasti.net | Yes |
 | keaton.cool | No |
 | keazilla.net | No |
-| kebot.me | No |
+| kebot.me | Yes |
 | kebree.fr | No |
 | keda.re | Yes |
 | keenfamily.us | No |
@@ -11247,6 +11250,7 @@ Here's a list of public Fediverse services.
 | mouf.net | No |
 | moul.re | No |
 | mountaintown.video | No |
+| mouse.photos | No |
 | mouse.rocks | No |
 | mouse.services | No |
 | mousou.org | No |
@@ -15224,6 +15228,7 @@ Here's a list of public Fediverse services.
 | scream.zone | No |
 | screamer.wiki | No |
 | screamingatmyscreen.com | Yes |
+| screamshitter.club | No |
 | screebo.net | Yes |
 | screech.social | No |
 | screenwriting.space | No |
@@ -16173,6 +16178,7 @@ Here's a list of public Fediverse services.
 | stader.at | No |
 | staendsche.de | No |
 | stalin.rocks | Yes |
+| stallman.au | Yes |
 | staltsoft.com | Yes |
 | staminaonline.com | Yes |
 | stani.se | No |
@@ -19635,6 +19641,7 @@ Here's a list of public Fediverse services.
 | zyz.link | No |
 | zz777.ru | Yes |
 | zzhsuper3.rocks | No |
+| zzuli.top | Yes |
 | zzz.blue | No |
 | zzzoo.org | No |
 | zzzxxx.xyz | No |
@@ -19644,8 +19651,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,846 |
-| Normal | 15,755 |
+| Cloudflare | 3,849 |
+| Normal | 15,759 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
