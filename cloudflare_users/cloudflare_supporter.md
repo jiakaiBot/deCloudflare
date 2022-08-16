@@ -2495,6 +2495,7 @@ Do not create new issue or we will close it as duplicate.
 | [G7OAH_Ken@twitter](https://twitter.com/G7OAH_Ken/status/1544335505235517441) | advertise |
 | [g7Vsqme2nATL3G6@twitter](https://twitter.com/g7Vsqme2nATL3G6/status/1400850162675716096) | advertise |
 | [G191433996@twitter](https://twitter.com/G191433996/status/1393383252304572419) | advertise |
+| [gabatigol@twitter](https://twitter.com/gabatigol/status/1559416630199095296) | advertise |
 | [gabes_hub@twitter](https://twitter.com/gabes_hub/status/1448032264940630023) | advertise |
 | [Gabonftx@twitter](https://twitter.com/Gabonftx/status/1513288879935492100) | advertise |
 | [gabriel_rhee@twitter](https://twitter.com/gabriel_rhee/status/1467554077777489920) | advertise |
