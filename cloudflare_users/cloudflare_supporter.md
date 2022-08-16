@@ -8487,6 +8487,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thng19199851@twitter](https://twitter.com/Thng19199851/status/1470784177519960065) | advertise |
 | [Thng45509564@twitter](https://twitter.com/Thng45509564/status/1537817677468938240) | advertise |
 | [ThngAnh90026457@twitter](https://twitter.com/ThngAnh90026457/status/1389297361734692865) | advertise |
+| [ThngL24603985@twitter](https://twitter.com/ThngL24603985/status/1559517329939017728) | advertise |
 | [thngngu22608045@twitter](https://twitter.com/thngngu22608045/status/1472219741029044227) | advertise |
 | [ThngPhm85167718@twitter](https://twitter.com/ThngPhm85167718/status/1552739837341356033) | advertise |
 | [Thnh12733398@twitter](https://twitter.com/Thnh12733398/status/1394514924429139969) | advertise |
