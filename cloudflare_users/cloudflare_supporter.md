@@ -8073,6 +8073,7 @@ Do not create new issue or we will close it as duplicate.
 | [Syahputra902@twitter](https://twitter.com/Syahputra902/status/1405110962055643136) | advertise |
 | [syahril_akbar32@twitter](https://twitter.com/syahril_akbar32/status/1468464046445785089) | advertise |
 | [syaifullahmaad@twitter](https://twitter.com/syaifullahmaad/status/1385385161131397121) | advertise |
+| [syamiez_den@twitter](https://twitter.com/syamiez_den/status/1559350488440643584) | advertise |
 | [Syam_6005@twitter](https://twitter.com/Syam_6005/status/1539529755732520960) | advertise |
 | [Syanl_SEA@twitter](https://twitter.com/Syanl_SEA/status/1378245568665899009) | advertise |
 | [syarifl@twitter](https://twitter.com/syarifl/status/1521397463738839043) | advertise |
