@@ -7007,6 +7007,7 @@ Do not create new issue or we will close it as duplicate.
 | [QuangTuyen495@twitter](https://twitter.com/QuangTuyen495/status/1552090522541387776) | advertise |
 | [QuangV32598684@twitter](https://twitter.com/QuangV32598684/status/1551996008543899648) | advertise |
 | [quangvi23804819@twitter](https://twitter.com/quangvi23804819/status/1392901696733413377) | advertise |
+| [quanpha77413701@twitter](https://twitter.com/quanpha77413701/status/1559802704251105280) | advertise |
 | [QuantusTecSol@twitter](https://twitter.com/QuantusTecSol/status/1425608252662992896) | advertise |
 | [quartexnet@twitter](https://twitter.com/quartexnet/status/1456456640744632320) | advertise |
 | [quay_lam@twitter](https://twitter.com/quay_lam/status/1391964463318720523) | advertise |
