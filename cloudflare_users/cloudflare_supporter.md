@@ -1582,6 +1582,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChukwuLambert@twitter](https://twitter.com/ChukwuLambert/status/1401228107747573766) | advertise |
 | [ChuMinhChnh2@twitter](https://twitter.com/ChuMinhChnh2/status/1386233766574649347) | advertise |
 | [chunchu45871856@twitter](https://twitter.com/chunchu45871856/status/1377650478931042305) | advertise |
+| [Chungcheng95@twitter](https://twitter.com/Chungcheng95/status/1559765631284588544) | advertise |
 | [ChungNguyensy2@twitter](https://twitter.com/ChungNguyensy2/status/1383061957046067202) | advertise |
 | [chuoi44@twitter](https://twitter.com/chuoi44/status/1482020439157522432) | advertise |
 | [chuoikt@twitter](https://twitter.com/chuoikt/status/1553980997708181504) | advertise |
@@ -4893,6 +4894,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lucky87003842@twitter](https://twitter.com/Lucky87003842/status/1382604960861331456) | advertise |
 | [luckyend20031@twitter](https://twitter.com/luckyend20031/status/1400499682686668801) | advertise |
 | [Lucyfer84199661@twitter](https://twitter.com/Lucyfer84199661/status/1386712032339132417) | advertise |
+| [lud_xr@twitter](https://twitter.com/lud_xr/status/1559768969719922688) | advertise |
 | [Luffy22712475@twitter](https://twitter.com/Luffy22712475/status/1391575439672365060) | advertise |
 | [Luffy53506801@twitter](https://twitter.com/Luffy53506801/status/1390611648105172994) | advertise |
 | [luhtwe1@twitter](https://twitter.com/luhtwe1/status/1392742065449041922) | advertise |
