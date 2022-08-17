@@ -1399,6 +1399,7 @@ Do not create new issue or we will close it as duplicate.
 | [calicomin99@twitter](https://twitter.com/calicomin99/status/1395979320401620992) | advertise |
 | [callmebyurnam18@twitter](https://twitter.com/callmebyurnam18/status/1401480809123508227) | advertise |
 | [CallmeDjNext@twitter](https://twitter.com/CallmeDjNext/status/1548434139954614272) | advertise |
+| [CallMeSanjuro@twitter](https://twitter.com/CallMeSanjuro/status/1559725959397494784) | advertise |
 | [calmyourtittiez@twitter](https://twitter.com/calmyourtittiez/status/1392510606515658757) | advertise |
 | [calum523_2@twitter](https://twitter.com/calum523_2/status/1381710423825735688) | advertise |
 | [Calvin85712232@twitter](https://twitter.com/Calvin85712232/status/1392362270051639304) | advertise |
@@ -2584,6 +2585,7 @@ Do not create new issue or we will close it as duplicate.
 | [GiangNguynTrn14@twitter](https://twitter.com/GiangNguynTrn14/status/1397055320958984193) | advertise |
 | [Giangx_@twitter](https://twitter.com/Giangx_/status/1541141620254724096) | advertise |
 | [gigagagagago@twitter](https://twitter.com/gigagagagago/status/1552655280831627266) | advertise |
+| [gigasharkio@twitter](https://twitter.com/gigasharkio/status/1559733024425639942) | advertise |
 | [gil6508343915@twitter](https://twitter.com/gil6508343915/status/1505250862767087617) | advertise |
 | [gimanadotkom@twitter](https://twitter.com/gimanadotkom/status/1383989601493164041) | advertise |
 | [gindaGill9@twitter](https://twitter.com/gindaGill9/status/1377649793418297345) | advertise |
