@@ -4211,8 +4211,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6426,6 +6426,7 @@ Do not create new issue or we will close it as duplicate.
 | [Okami54259404@twitter](https://twitter.com/Okami54259404/status/1391062217710129154) | advertise |
 | [okayyakko@twitter](https://twitter.com/okayyakko/status/1407936483143524353) | advertise |
 | [okellochristo@twitter](https://twitter.com/okellochristo/status/1531884571842818053) | advertise |
+| [Okla12344678833@twitter](https://twitter.com/Okla12344678833/status/1559894067454287876) | advertise |
 | [Olala85233012@twitter](https://twitter.com/Olala85233012/status/1389032029568651267) | advertise |
 | [OlangstonS@twitter](https://twitter.com/OlangstonS/status/1380699085989089286) | advertise |
 | [oldtechatwork@twitter](https://twitter.com/oldtechatwork/status/1543866272768745472) | advertise |
@@ -8545,6 +8546,7 @@ Do not create new issue or we will close it as duplicate.
 | [thurein19343760@twitter](https://twitter.com/thurein19343760/status/1392333909111623681) | advertise |
 | [ThuReinWinMyin2@twitter](https://twitter.com/ThuReinWinMyin2/status/1390487738906943489) | advertise |
 | [Thuriya41078119@twitter](https://twitter.com/Thuriya41078119/status/1390821084421705730) | advertise |
+| [ThushariPerer13@twitter](https://twitter.com/ThushariPerer13/status/1559901875839074305) | advertise |
 | [ThuTa84554500@twitter](https://twitter.com/ThuTa84554500/status/1390704445143490562) | advertise |
 | [ThuThuHein11@twitter](https://twitter.com/ThuThuHein11/status/1527190956356751361) | advertise |
 | [ThuThuShinThan2@twitter](https://twitter.com/ThuThuShinThan2/status/1391637182171865092) | advertise |
