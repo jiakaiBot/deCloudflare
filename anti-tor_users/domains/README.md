@@ -3,7 +3,7 @@
 
 [//]: # (do not edit me; start)
 
-## *1,984* FQDN `!Re-sync Required!`
+## *1* FQDN `!Re-sync Required!`
 
 [//]: # (do not edit me; end)
 
@@ -31,7 +31,6 @@
 
   - [Karma API](../../subfiles/service.karma_api.md)
 
-[![](../../image/__archiveorg.jpg)](https://archive.org/details/crimeflare)
 
 -----
 
