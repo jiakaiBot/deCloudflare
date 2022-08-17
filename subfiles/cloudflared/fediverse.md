@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 2,616 |
 | net | 1,505 |
 | social | 1,146 |
-| org | 1,075 |
-| de | 956 |
+| org | 1,077 |
+| de | 958 |
 
 
 - Mastodon, Pleroma, etc
@@ -785,6 +785,7 @@ Here's a list of public Fediverse services.
 | amefur.asia | No |
 | amemiya.work | No |
 | amencarini.com | No |
+| amenti.eu.org | No |
 | americassweethe.art | No |
 | amic37.fr | No |
 | amicable.social | Yes |
@@ -6092,6 +6093,7 @@ Here's a list of public Fediverse services.
 | gcfam.net | No |
 | gcfamily.fr | No |
 | gchq.online | No |
+| gdamsbo.dk | No |
 | gddb.ovh | No |
 | gdgd.jp.net | Yes |
 | gdoublet.fr | No |
@@ -7790,6 +7792,7 @@ Here's a list of public Fediverse services.
 | isidai.com | No |
 | iskr.jp | No |
 | islamicate.space | No |
+| islamwissenschaft-freiburg.de | No |
 | island.social | No |
 | islandinthenet.com | Yes |
 | isle.moe | Yes |
@@ -9593,6 +9596,7 @@ Here's a list of public Fediverse services.
 | lobisomem.xyz | No |
 | loca.lt | Yes |
 | locahlost.net | No |
+| local-rouze.org | No |
 | local704.co | No |
 | localecho.net | Yes |
 | localhost.fyi | No |
@@ -10653,7 +10657,7 @@ Here's a list of public Fediverse services.
 | memework.org | Yes |
 | memiks.fr | No |
 | memo-village.com | No |
-| memo-village.online | No |
+| memo-village.online | Yes |
 | memories.am | Yes |
 | memoryandthought.me | No |
 | memtech.website | Yes |
@@ -13492,6 +13496,7 @@ Here's a list of public Fediverse services.
 | pixelfediver.se | No |
 | pixelfett.de | No |
 | pixelfred.de | No |
+| pixelgesicht.de | No |
 | pixelho.me | No |
 | pixellife.app | No |
 | pixelpaperyarn.rocks | No |
@@ -15736,6 +15741,7 @@ Here's a list of public Fediverse services.
 | slightlycyberpunk.com | No |
 | slime.global | No |
 | slimed.org | No |
+| slipcrewprod.fr | No |
 | slipfox.xyz | No |
 | slippy.xyz | Yes |
 | sllimnod.com | No |
@@ -17442,7 +17448,7 @@ Here's a list of public Fediverse services.
 | toot.lu | No |
 | toot.lv | Yes |
 | toot.me.uk | No |
-| toot.moe | No |
+| toot.moe | Yes |
 | toot.my | No |
 | toot.network | No |
 | toot.ninja | Yes |
@@ -19654,8 +19660,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,850 |
-| Normal | 15,761 |
+| Cloudflare | 3,852 |
+| Normal | 15,765 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
