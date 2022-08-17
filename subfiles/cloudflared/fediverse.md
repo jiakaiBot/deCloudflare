@@ -10913,6 +10913,7 @@ Here's a list of public Fediverse services.
 | miniverse.social | No |
 | miniwa.moe | No |
 | minkenstein.de | No |
+| minkiver.se | No |
 | minmi.xyz | Yes |
 | minnix.dev | No |
 | minnna.xyz | No |
@@ -13378,6 +13379,7 @@ Here's a list of public Fediverse services.
 | piecewise.im | No |
 | piedmontnons.top | No |
 | piejacker.net | No |
+| piercingtheveil.tv | No |
 | pieris05.com | Yes |
 | pierobosio.info | No |
 | pierobosio.it | No |
@@ -14404,6 +14406,7 @@ Here's a list of public Fediverse services.
 | rd-srv.de | Yes |
 | rdela.com | No |
 | rdg.world | No |
+| rdpstudio.top | Yes |
 | rdrama.cc | No |
 | re-medium.com | No |
 | read-read.net | No |
@@ -19651,8 +19654,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,849 |
-| Normal | 15,759 |
+| Cloudflare | 3,850 |
+| Normal | 15,761 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
