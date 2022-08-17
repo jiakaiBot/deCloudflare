@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Twinfield to cloudflare infrastructure ("Could not connect to host")](https://github.com/php-twinfield/twinfield/issues/214)
 - [LayoutServerLoad return type is not compatible with simple interface object](https://github.com/sveltejs/kit/issues/5963)
 - [I get an error: mydomain.xyz:Verify error:Incorrect TXT record](https://github.com/acmesh-official/acme.sh/issues/4250)
 - [m-team fail to connect](https://github.com/Jackett/Jackett/issues/13483)
