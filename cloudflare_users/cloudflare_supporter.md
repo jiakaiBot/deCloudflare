@@ -4212,8 +4212,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5093,6 +5093,7 @@ Do not create new issue or we will close it as duplicate.
 | [MarketYourBizAg@twitter](https://twitter.com/MarketYourBizAg/status/1389379097118183428) | advertise |
 | [Marky37711385@twitter](https://twitter.com/Marky37711385/status/1401925640610369539) | advertise |
 | [Mark_LaCour@twitter](https://twitter.com/Mark_LaCour/status/1501254067263356929) | advertise |
+| [marlb0r0m4n@twitter](https://twitter.com/marlb0r0m4n/status/1559963212812288000) | advertise |
 | [marliwp_@twitter](https://twitter.com/marliwp_/status/1396719627258929155) | advertise |
 | [MarlonBatucan1@twitter](https://twitter.com/MarlonBatucan1/status/1490162646934503424) | advertise |
 | [Marna00520720@twitter](https://twitter.com/Marna00520720/status/1395227756800057345) | advertise |
@@ -6889,6 +6890,7 @@ Do not create new issue or we will close it as duplicate.
 | [PrathapSingh080@twitter](https://twitter.com/PrathapSingh080/status/1391728889630642179) | advertise |
 | [PratikM35193168@twitter](https://twitter.com/PratikM35193168/status/1402122232919326722) | advertise |
 | [pratik_h6i@twitter](https://twitter.com/pratik_h6i/status/1394961934454231043) | advertise |
+| [PravallikaRapa1@twitter](https://twitter.com/PravallikaRapa1/status/1559961205841747970) | advertise |
 | [praveen65435@twitter](https://twitter.com/praveen65435/status/1384909257448038400) | advertise |
 | [Praveen23654694@twitter](https://twitter.com/Praveen23654694/status/1398926546212032515) | advertise |
 | [Preciou21521267@twitter](https://twitter.com/Preciou21521267/status/1526263958558089216) | advertise |
