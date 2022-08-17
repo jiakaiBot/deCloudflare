@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [LayoutServerLoad return type is not compatible with simple interface object](https://github.com/sveltejs/kit/issues/5963)
 - [I get an error: mydomain.xyz:Verify error:Incorrect TXT record](https://github.com/acmesh-official/acme.sh/issues/4250)
 - [m-team fail to connect](https://github.com/Jackett/Jackett/issues/13483)
 - [Got this, don't know if that's just internet or smith.](https://github.com/Shabinder/SpotiFlyer/issues/1642)
