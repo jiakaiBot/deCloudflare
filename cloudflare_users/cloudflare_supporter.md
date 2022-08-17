@@ -129,6 +129,7 @@ Do not create new issue or we will close it as duplicate.
 | [1997Gugulay@twitter](https://twitter.com/1997Gugulay/status/1393752001888980996) | advertise |
 | [2002Pls@twitter](https://twitter.com/2002Pls/status/1388923120765919237) | advertise |
 | [2004Pubgkrish@twitter](https://twitter.com/2004Pubgkrish/status/1551869505172672512) | advertise |
+| [2022hoky@twitter](https://twitter.com/2022hoky/status/1559692337382469632) | advertise |
 | [5050Tbc@twitter](https://twitter.com/5050Tbc/status/1532708767481090052) | advertise |
 | [8991Alien@twitter](https://twitter.com/8991Alien/status/1390781458797584384) | advertise |
 | [137743@twitter](https://twitter.com/137743/status/1393045054239830025) | advertise |
