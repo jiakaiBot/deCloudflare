@@ -3,7 +3,7 @@
 
 [//]: # (do not edit me; start)
 
-## *205,612* FQDN
+## *1,984* FQDN `!Re-sync Required!`
 
 [//]: # (do not edit me; end)
 
@@ -25,6 +25,13 @@
   - Experts say that group punishment is ineffective, counterproductive, lazy and unethical.
 - Blocking Tor is not a solution. There are VPNs, network program and proxies.
 
+-----
+
+# Using the list
+
+  - [Karma API](../../subfiles/service.karma_api.md)
+
+[![](../../image/__archiveorg.jpg)](https://archive.org/details/crimeflare)
 
 -----
 
