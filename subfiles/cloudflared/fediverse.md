@@ -17584,7 +17584,7 @@ Here's a list of public Fediverse services.
 | transfur.online | No |
 | transfurrmation.town | No |
 | transgression.cafe | No |
-| transient.garden | No |
+| transient.garden | Yes |
 | transitieweb.nl | No |
 | transition-waedenswil.ch | No |
 | transliminal.space | No |
@@ -19664,8 +19664,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,856 |
-| Normal | 15,765 |
+| Cloudflare | 3,857 |
+| Normal | 15,764 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
