@@ -2823,6 +2823,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hau29Trung@twitter](https://twitter.com/Hau29Trung/status/1381840387942191108) | advertise |
 | [HauPhamMinh@twitter](https://twitter.com/HauPhamMinh/status/1496820816436416512) | advertise |
 | [hau_piang@twitter](https://twitter.com/hau_piang/status/1391274895040991234) | advertise |
+| [haval_jumha@twitter](https://twitter.com/haval_jumha/status/1560283134733983744) | advertise |
 | [hawayuijky@twitter](https://twitter.com/hawayuijky/status/1394323727546867712) | advertise |
 | [hawkinswoo1@twitter](https://twitter.com/hawkinswoo1/status/1533813196162748417) | advertise |
 | [HayMan43336106@twitter](https://twitter.com/HayMan43336106/status/1390824643284590594) | advertise |
@@ -6272,6 +6273,7 @@ Do not create new issue or we will close it as duplicate.
 | [nobinafurio2k@twitter](https://twitter.com/nobinafurio2k/status/1396555230838415361) | advertise |
 | [nobitacute1234@twitter](https://twitter.com/nobitacute1234/status/1401232376559067144) | advertise |
 | [NoblexOffical@twitter](https://twitter.com/NoblexOffical/status/1537476973332729858) | advertise |
+| [NodeXite@twitter](https://twitter.com/NodeXite/status/1560295516268679172) | advertise |
 | [noe28956578@twitter](https://twitter.com/noe28956578/status/1391961386540945410) | advertise |
 | [Noe67713062@twitter](https://twitter.com/Noe67713062/status/1391467359727067137) | advertise |
 | [Noelzarni1@twitter](https://twitter.com/Noelzarni1/status/1412903181542039554) | moral (advertise) |
