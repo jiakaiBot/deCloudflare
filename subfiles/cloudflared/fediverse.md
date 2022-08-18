@@ -2375,7 +2375,7 @@ Here's a list of public Fediverse services.
 | caffeinator.net | No |
 | caffeineandfox.es | No |
 | caffeinewitch.tech | No |
-| cafkafk.com | No |
+| cafkafk.com | Yes |
 | caijunyi.cn | No |
 | caijunyi.net | Yes |
 | cailincat.cloud | No |
@@ -6685,7 +6685,7 @@ Here's a list of public Fediverse services.
 | hachune.net | No |
 | hachyderm.io | No |
 | hack13.me | Yes |
-| hack2g2.fr | No |
+| hack2g2.fr | Yes |
 | hackabee.fr | No |
 | hackadon.space | Yes |
 | hackdezorg.nl | No |
@@ -8853,6 +8853,7 @@ Here's a list of public Fediverse services.
 | kowlo.com | No |
 | koyu.space | Yes |
 | koyuston.tk | No |
+| kozlovsky.institute | Yes |
 | kpherox.dev | No |
 | kpodon.jp | No |
 | kpop.social | Yes |
@@ -19660,8 +19661,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,852 |
-| Normal | 15,765 |
+| Cloudflare | 3,855 |
+| Normal | 15,763 |
 
 
-### 19.6% of public Fediverse services are using Cloudflare.
+### 19.7% of public Fediverse services are using Cloudflare.
