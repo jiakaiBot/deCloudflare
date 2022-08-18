@@ -8763,6 +8763,7 @@ Do not create new issue or we will close it as duplicate.
 | [trinh2678@twitter](https://twitter.com/trinh2678/status/1554001613307940864) | advertise |
 | [TrinhDong1302@twitter](https://twitter.com/TrinhDong1302/status/1549441114729357313) | advertise |
 | [Trinhh72838000@twitter](https://twitter.com/Trinhh72838000/status/1404848776213254147) | advertise |
+| [trinhlo40326150@twitter](https://twitter.com/trinhlo40326150/status/1560091852044247040) | advertise |
 | [Trinhti04009131@twitter](https://twitter.com/Trinhti04009131/status/1389575782020763658) | advertise |
 | [TriPmt199x@twitter](https://twitter.com/TriPmt199x/status/1382502746528522244) | advertise |
 | [TrissieTheHusky@twitter](https://twitter.com/TrissieTheHusky/status/1447053384914247682) | advertise |
