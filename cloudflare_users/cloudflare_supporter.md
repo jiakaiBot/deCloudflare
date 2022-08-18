@@ -1353,6 +1353,7 @@ Do not create new issue or we will close it as duplicate.
 | [BTSARMY95012689@twitter](https://twitter.com/BTSARMY95012689/status/1519832843345485825) | advertise |
 | [BtwSu@twitter](https://twitter.com/BtwSu/status/1398369389783576577) | advertise |
 | [bubyli_uk@twitter](https://twitter.com/bubyli_uk/status/1527321559286751233) | advertise |
+| [BuckNewton6@twitter](https://twitter.com/BuckNewton6/status/1560343947616157697) | advertise |
 | [buddingdentist@twitter](https://twitter.com/buddingdentist/status/1386687039525953537) | advertise |
 | [BuffCau@twitter](https://twitter.com/BuffCau/status/1378293971282063363) | advertise |
 | [buidai19@twitter](https://twitter.com/buidai19/status/1498335688454205440) | advertise |
@@ -1427,6 +1428,7 @@ Do not create new issue or we will close it as duplicate.
 | [Carlos5marquez@twitter](https://twitter.com/Carlos5marquez/status/1492370637041586176) | advertise |
 | [CarnifeX_6@twitter](https://twitter.com/CarnifeX_6/status/1386411324230361090) | advertise |
 | [carolinawxauth@twitter](https://twitter.com/carolinawxauth/status/1396641317728440328) | advertise |
+| [carvalhorafael@twitter](https://twitter.com/carvalhorafael/status/1560351128084267009) | advertise |
 | [Car_campbell@twitter](https://twitter.com/Car_campbell/status/1539598860988948480) | advertise |
 | [casaindigo@twitter](https://twitter.com/casaindigo/status/1457706371248427018) | advertise |
 | [CassFrancisco5@twitter](https://twitter.com/CassFrancisco5/status/1401267140737392641) | advertise |
