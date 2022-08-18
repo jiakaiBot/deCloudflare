@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [promtail: an old position for Cloudflare results in a linear probe over time](https://github.com/grafana/loki/issues/6931)
 - [Unable to delete post with nested comment](https://github.com/TryGhost/Ghost/issues/15252)
 - [update.k3s.io returning 503](https://github.com/k3s-io/k3s/issues/6006)
 - [+layout.server.ts doesn't run if a route doesn't match](https://github.com/sveltejs/kit/issues/6010)
