@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,616 |
+| com | 2,617 |
 | net | 1,505 |
 | social | 1,146 |
 | org | 1,077 |
@@ -1968,6 +1968,7 @@ Here's a list of public Fediverse services.
 | blogueur-de-france.fr | No |
 | bloguslibrus.fr | No |
 | blombus.com | No |
+| blos.sm | No |
 | blossoming.dev | No |
 | blrsc.me | No |
 | blueadair.net | No |
@@ -8565,6 +8566,7 @@ Here's a list of public Fediverse services.
 | khimaros.com | No |
 | khisanth.com | No |
 | khmer.love | Yes |
+| khomri.com | No |
 | kibi.family | No |
 | kibitz.group | No |
 | kibousoft.co.jp | No |
@@ -13574,7 +13576,7 @@ Here's a list of public Fediverse services.
 | pleasehug.me | Yes |
 | pleasetf.us | No |
 | plebsclub.com | No |
-| pleco.ca | No |
+| pleco.ca | Yes |
 | plein.org | No |
 | plero.ma | No |
 | plerodatech.fr | No |
@@ -14485,6 +14487,7 @@ Here's a list of public Fediverse services.
 | reekynet.com | No |
 | reel2bits.org | No |
 | reet.world | No |
+| refa.digital | No |
 | refactorcamp.org | No |
 | refchat.net | No |
 | refi64.com | No |
@@ -19661,8 +19664,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,855 |
-| Normal | 15,763 |
+| Cloudflare | 3,856 |
+| Normal | 15,765 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
