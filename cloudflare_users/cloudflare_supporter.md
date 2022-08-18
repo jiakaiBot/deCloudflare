@@ -5479,6 +5479,7 @@ Do not create new issue or we will close it as duplicate.
 | [MMARMY98815463@twitter](https://twitter.com/MMARMY98815463/status/1383095144606441473) | advertise |
 | [mmfootballmm@twitter](https://twitter.com/mmfootballmm/status/1380215958082441218) | advertise |
 | [MMK22797499@twitter](https://twitter.com/MMK22797499/status/1391278481300938752) | advertise |
+| [mmm62021011@twitter](https://twitter.com/mmm62021011/status/1560300025908891648) | advertise |
 | [mmmaung@twitter](https://twitter.com/mmmaung/status/1401204089451552770) | advertise |
 | [mmmh_owner@twitter](https://twitter.com/mmmh_owner/status/1404461120916656130) | advertise |
 | [mmmmm43132857@twitter](https://twitter.com/mmmmm43132857/status/1385263640056455175) | advertise |
