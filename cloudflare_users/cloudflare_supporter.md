@@ -1789,6 +1789,7 @@ Do not create new issue or we will close it as duplicate.
 | [Danielwisdo3@twitter](https://twitter.com/Danielwisdo3/status/1413526421994188806) | advertise |
 | [daniel_Zmdy@twitter](https://twitter.com/daniel_Zmdy/status/1389817835430449152) | advertise |
 | [dAniO500gucci50@twitter](https://twitter.com/dAniO500gucci50/status/1392152995455021061) | advertise |
+| [Danish111930617@twitter](https://twitter.com/Danish111930617/status/1560183361636683776) | advertise |
 | [DannySiregar4@twitter](https://twitter.com/DannySiregar4/status/1386713728511479810) | advertise |
 | [danny_mx@twitter](https://twitter.com/danny_mx/status/1404509805117648902) | advertise |
 | [DanOno365@twitter](https://twitter.com/DanOno365/status/1371618039108673545) | advertise |
@@ -6476,6 +6477,7 @@ Do not create new issue or we will close it as duplicate.
 | [OoYanLay13@twitter](https://twitter.com/OoYanLay13/status/1396144264501891072) | advertise |
 | [OoZwe11@twitter](https://twitter.com/OoZwe11/status/1401109080974921731) | advertise |
 | [Op17830456@twitter](https://twitter.com/Op17830456/status/1378217756483411968) | advertise |
+| [OparindeNurude1@twitter](https://twitter.com/OparindeNurude1/status/1560177934320771073) | advertise |
 | [opasa_iwuno@twitter](https://twitter.com/opasa_iwuno/status/1556331817233530881) | advertise |
 | [openkaiosz@twitter](https://twitter.com/openkaiosz/status/1511127306177110019) | advertise |
 | [openprivacy.ca](https://openprivacy.ca/) | by deleting git without warning |
