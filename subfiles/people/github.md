@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Compatibility with web worker offloads (i.e. Partytown?)](https://github.com/umami-software/umami/issues/1442)
 - [Minimise the numerous 404 results](https://github.com/valor-software/valor-software.github.io/issues/144)
 - [promtail: an old position for Cloudflare results in a linear probe over time](https://github.com/grafana/loki/issues/6931)
 - [Unable to delete post with nested comment](https://github.com/TryGhost/Ghost/issues/15252)
