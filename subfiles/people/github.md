@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Flaky test: We encountered an unexpected error talking to our servers. StatusCodeError: 409 - "error code: 1023"](https://github.com/cypress-io/cypress/issues/23412)
 - [Can't load some CSS and JS after upgrade from 1.33.0 to 1.37.2](https://github.com/FusionAuth/fusionauth-issues/issues/1831)
 - [coinbase pro returning 401](https://github.com/ccxt/ccxt/issues/14721)
 - [Twinfield to cloudflare infrastructure ("Could not connect to host")](https://github.com/php-twinfield/twinfield/issues/214)
