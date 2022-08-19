@@ -4218,8 +4218,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8502,6 +8502,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thinzar12467362@twitter](https://twitter.com/Thinzar12467362/status/1390425259271147523) | advertise |
 | [Thinzar38298431@twitter](https://twitter.com/Thinzar38298431/status/1391451835056095235) | advertise |
 | [ThinzarZaw16@twitter](https://twitter.com/ThinzarZaw16/status/1398871032778219521) | advertise |
+| [ThipPhyo@twitter](https://twitter.com/ThipPhyo/status/1560406207298666496) | advertise |
 | [ThiQucHng1@twitter](https://twitter.com/ThiQucHng1/status/1551996413089021952) | advertise |
 | [ThirdPole2@twitter](https://twitter.com/ThirdPole2/status/1387048888549314569) | advertise |
 | [Thiri97668359@twitter](https://twitter.com/Thiri97668359/status/1391723015423946755) | advertise |
