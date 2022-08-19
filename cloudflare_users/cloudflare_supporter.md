@@ -1752,6 +1752,7 @@ Do not create new issue or we will close it as duplicate.
 | [DaEnderz@twitter](https://twitter.com/DaEnderz/status/1523352729846185984) | advertise |
 | [Daene45447688@twitter](https://twitter.com/Daene45447688/status/1398422361183899648) | advertise |
 | [DaengFPL@twitter](https://twitter.com/DaengFPL/status/1553268538210938882) | advertise |
+| [dailynewshunt24@twitter](https://twitter.com/dailynewshunt24/status/1560663996142739457) | advertise |
 | [daimonhall@twitter](https://twitter.com/daimonhall/status/1447552421421625345) | advertise |
 | [daisy_hann@twitter](https://twitter.com/daisy_hann/status/1393047426798276608) | advertise |
 | [Dai_XK@twitter](https://twitter.com/Dai_XK/status/1488931866145325058) | advertise |
