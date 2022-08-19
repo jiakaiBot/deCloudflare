@@ -1342,6 +1342,7 @@ Do not create new issue or we will close it as duplicate.
 | [BruzeWaynezz@twitter](https://twitter.com/BruzeWaynezz/status/1388147989043027968) | advertise |
 | [BryanKoome@twitter](https://twitter.com/BryanKoome/status/1385253754275082243) | advertise |
 | [BryceGerhardt7@twitter](https://twitter.com/BryceGerhardt7/status/1377248264886513668) | advertise |
+| [bryggatech@twitter](https://twitter.com/bryggatech/status/1560704280344010753) | advertise |
 | [Bscx_Lantern@twitter](https://twitter.com/Bscx_Lantern/status/1378913835088670726) | advertise |
 | [BsGRpWQ4ziBC59R@twitter](https://twitter.com/BsGRpWQ4ziBC59R/status/1392991093143179268) | advertise |
 | [bskcuba@twitter](https://twitter.com/bskcuba/status/1454572245322452994) | advertise |
@@ -8182,6 +8183,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tantogrape@twitter](https://twitter.com/Tantogrape/status/1549988819981971456) | advertise |
 | [TanyaBones@twitter](https://twitter.com/TanyaBones/status/1438527093273473036) | advertise |
 | [taraktungdung@twitter](https://twitter.com/taraktungdung/status/1397948304810418179) | advertise |
+| [Tarek1337_@twitter](https://twitter.com/Tarek1337_/status/1560704403786563585) | advertise |
 | [Tarek69654012@twitter](https://twitter.com/Tarek69654012/status/1399075228454686720) | advertise |
 | [TarekAdra@twitter](https://twitter.com/TarekAdra/status/1382504134100811778) | advertise |
 | [TargaDigitalUK@twitter](https://twitter.com/TargaDigitalUK/status/1370309383742185473) | advertise |
