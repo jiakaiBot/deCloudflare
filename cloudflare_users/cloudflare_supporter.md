@@ -2650,6 +2650,7 @@ Do not create new issue or we will close it as duplicate.
 | [Gosairohit3@twitter](https://twitter.com/Gosairohit3/status/1394526161581973505) | advertise |
 | [goseki@twitter](https://twitter.com/goseki/status/1395683930536251393) | advertise |
 | [got7bambamkanja@twitter](https://twitter.com/got7bambamkanja/status/1405505624645914628) | advertise |
+| [GotMilk080702@twitter](https://twitter.com/GotMilk080702/status/1560579136825212928) | advertise |
 | [governa@twitter](https://twitter.com/governa/status/1516708406522007558) | advertise |
 | [GoyunInfo@twitter](https://twitter.com/GoyunInfo/status/1486163916564705281) | advertise |
 | [go_to_happy_@twitter](https://twitter.com/go_to_happy_/status/1377840144179400704) | advertise |
@@ -6609,6 +6610,7 @@ Do not create new issue or we will close it as duplicate.
 | [PaulNawJa2@twitter](https://twitter.com/PaulNawJa2/status/1381809732298571777) | advertise |
 | [PaulTijin@twitter](https://twitter.com/PaulTijin/status/1516661349212127232) | advertise |
 | [paultonetti@twitter](https://twitter.com/paultonetti/status/1418416919347175425) | advertise |
+| [paulyok1@twitter](https://twitter.com/paulyok1/status/1560561771060105216) | advertise |
 | [Paul_Siriporn@twitter](https://twitter.com/Paul_Siriporn/status/1553809968905998336) | advertise |
 | [pavanpwawr@twitter](https://twitter.com/pavanpwawr/status/1389417574878781445) | advertise |
 | [pavelpikta@twitter](https://twitter.com/pavelpikta/status/1530182846081638400) | advertise |
@@ -7796,6 +7798,7 @@ Do not create new issue or we will close it as duplicate.
 | [SiroNhan@twitter](https://twitter.com/SiroNhan/status/1386972641706184713) | advertise |
 | [Sir_Roteh@twitter](https://twitter.com/Sir_Roteh/status/1534275304679690240) | advertise |
 | [SiSi66647106@twitter](https://twitter.com/SiSi66647106/status/1395267199011463170) | advertise |
+| [Sisifat099@twitter](https://twitter.com/Sisifat099/status/1560568762235232256) | advertise |
 | [SiThu31071195@twitter](https://twitter.com/SiThu31071195/status/1392198744779730946) | advertise |
 | [Sithu72932001@twitter](https://twitter.com/Sithu72932001/status/1405108314564829189) | advertise |
 | [SiThu75416746@twitter](https://twitter.com/SiThu75416746/status/1391367093849714690) | advertise |
