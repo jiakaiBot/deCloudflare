@@ -4,6 +4,7 @@
 [//]: # (do not edit me; start)
 
 ## *1* FQDN `!Re-sync Required!`
+  - Cloudflare domains are excluded from this research because those are [anti-Tor](../README.md)
 
 [//]: # (do not edit me; end)
 
