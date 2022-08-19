@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Does this still work?](https://github.com/mysociety/parlparse/issues/160)
+- [Element should never try to rageshake more than 200MB of logs.](https://github.com/vector-im/element-ios/issues/6594)
 - [Guru Meditation Error: Core 0 panic'ed (LoadProhibited). Exception was unhandled.](https://github.com/khoih-prog/ESPAsync_WiFiManager/issues/107)
 - [Unable to create SSL certificate no matter what I try.](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2209)
 - [Compatibility with web worker offloads (i.e. Partytown?)](https://github.com/umami-software/umami/issues/1442)
