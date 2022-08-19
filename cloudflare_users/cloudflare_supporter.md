@@ -4230,6 +4230,7 @@ Do not create new issue or we will close it as duplicate.
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
 | [King81964381@twitter](https://twitter.com/King81964381/status/1407381247395913731) | advertise |
 | [KingAlts2@twitter](https://twitter.com/KingAlts2/status/1529966287962656768) | advertise |
+| [KingarsalanT@twitter](https://twitter.com/KingarsalanT/status/1560545670620225536) | advertise |
 | [kingcioLaw@twitter](https://twitter.com/kingcioLaw/status/1520393986648965120) | advertise |
 | [kingk4888888@twitter](https://twitter.com/kingk4888888/status/1394730960894119937) | advertise |
 | [KingmaxNft@twitter](https://twitter.com/KingmaxNft/status/1550009809159630849) | advertise |
