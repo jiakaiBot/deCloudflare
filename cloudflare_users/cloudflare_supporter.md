@@ -2969,6 +2969,7 @@ Do not create new issue or we will close it as duplicate.
 | [hiu70401177@twitter](https://twitter.com/hiu70401177/status/1553066886627135489) | advertise |
 | [Hiu86351397@twitter](https://twitter.com/Hiu86351397/status/1380126531834408960) | advertise |
 | [Hiu88798614@twitter](https://twitter.com/Hiu88798614/status/1475849903586754560) | advertise |
+| [HiuHoan24222988@twitter](https://twitter.com/HiuHoan24222988/status/1560628210898939904) | advertise |
 | [Hiuhoang12@twitter](https://twitter.com/Hiuhoang12/status/1400331067396038659) | advertise |
 | [HiYn93232026@twitter](https://twitter.com/HiYn93232026/status/1399208059197526023) | advertise |
 | [HJSIM798@twitter](https://twitter.com/HJSIM798/status/1484356413040508929) | advertise |
