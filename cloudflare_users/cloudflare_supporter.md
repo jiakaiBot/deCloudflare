@@ -2833,6 +2833,7 @@ Do not create new issue or we will close it as duplicate.
 | [HaymarPwint@twitter](https://twitter.com/HaymarPwint/status/1390972934605262852) | advertise |
 | [hayriris@twitter](https://twitter.com/hayriris/status/1392767910695874562) | advertise |
 | [Haythamasalama@twitter](https://twitter.com/Haythamasalama/status/1559649798202036241) | advertise |
+| [HaziqSufee@twitter](https://twitter.com/HaziqSufee/status/1560437893411155972) | advertise |
 | [Ha_Zunzt@twitter](https://twitter.com/Ha_Zunzt/status/1545308025581293569) | advertise |
 | [HCybersquard@twitter](https://twitter.com/HCybersquard/status/1386985045315842049) | advertise |
 | [hdellacorte@twitter](https://twitter.com/hdellacorte/status/1533407264907923456) | advertise |
