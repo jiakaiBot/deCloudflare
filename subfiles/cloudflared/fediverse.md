@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,840 |
-| net | 1,641 |
+| com | 2,841 |
+| net | 1,642 |
 | social | 1,163 |
 | org | 1,125 |
-| de | 977 |
+| de | 978 |
 
 
 - Mastodon, Pleroma, etc
@@ -1974,6 +1974,7 @@ Here's a list of public Fediverse services.
 | bitflip.jetzt | No |
 | bitfudge.com | Yes |
 | bitgrid.net | No |
+| bithope.info | No |
 | bitma.st | No |
 | bitmast.club | No |
 | bitmycode.com | No |
@@ -4414,6 +4415,7 @@ Here's a list of public Fediverse services.
 | dogspin.xyz | Yes |
 | dogwhipping.day | No |
 | doingmyp.art | No |
+| doingyourmom.club | No |
 | doisakura.moe | No |
 | dokasen.com | No |
 | dokodare.ovh | Yes |
@@ -9256,6 +9258,7 @@ Here's a list of public Fediverse services.
 | kode54.net | Yes |
 | koder-marin.at | No |
 | kodlomrazi.ru | No |
+| koehler-klm.de | No |
 | koehn.com | No |
 | koehr.tech | No |
 | koenekoken.org | No |
@@ -9965,6 +9968,7 @@ Here's a list of public Fediverse services.
 | lignux.com | Yes |
 | ligthert.net | No |
 | ligueduzbeul.org | No |
+| liip.ch | Yes |
 | lijie.org | Yes |
 | likeable.space | No |
 | liker.social | Yes |
@@ -10367,6 +10371,7 @@ Here's a list of public Fediverse services.
 | lumey.dev | Yes |
 | lumikko.dev | No |
 | lumirad.io | Yes |
+| lumos.network | No |
 | lumpen.work | No |
 | lumpen.world | No |
 | lumpen.xyz | No |
@@ -11480,6 +11485,7 @@ Here's a list of public Fediverse services.
 | milette.online | No |
 | milker.cafe | Yes |
 | milkey.homes | Yes |
+| milksoup.net | No |
 | milktr.uk | No |
 | milky.coffee | No |
 | millcrick.com | No |
@@ -11759,6 +11765,7 @@ Here's a list of public Fediverse services.
 | moirai.cc | Yes |
 | moistgarbage.info | No |
 | mojo.fyi | Yes |
+| mojobuslife.com | No |
 | mojotube.net | No |
 | mojozilla.net | No |
 | mokka.space | No |
@@ -18129,7 +18136,7 @@ Here's a list of public Fediverse services.
 | thetalestable.com | No |
 | thetalkingproject.org | No |
 | thething.ca | No |
-| thetooniverse.xyz | No |
+| thetooniverse.xyz | Yes |
 | thetower.xyz | No |
 | theubergroup.org | Yes |
 | theundead.cricket | No |
@@ -20780,8 +20787,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,029 |
-| Normal | 16,708 |
+| Cloudflare | 4,031 |
+| Normal | 16,713 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
