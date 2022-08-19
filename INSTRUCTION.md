@@ -78,7 +78,7 @@ IMPORTANT: Please add only "Base Domain"
     if "example.net" is using Cloudflare
         add "example.net"
 
-... to /split/cloudflare_e.txt
+... to cloudflare_e.txt
 ```
 
 **But the website X no longer using Cloudflare!**
@@ -156,17 +156,18 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 **How can you trust their sites if they are not treating everyone equally?**
 
 ```
-About "Anti-Tor FQDN list" (attd*.txt)
+IMPORTANT: Please add full FQDN
 
-www.example.com
-   ---> www.example.com denied/bullied Tor visitor.
+    if "community.example.com" is blocking Tor user
+        add "community.example.com"
 
-?.akamaiedge.net
-   ---> subdomain of akamaiedge.net is denied Tor user.
-   * unique hostname will be masked as "?" for privacy reason
+    if "www.example.co.uk" is blocking Tor user
+        add "www.example.co.uk"
 
-senate.gov
-   ---> base domain denied/harassed/challenged human who're using Tor.
+    if "example.net" is blocking Tor user
+        add "example.net"
+
+... to antitor_e.txt
 ```
 
 If your website is on this list, you better talk with your network administrator.
@@ -189,12 +190,9 @@ If you're not blocking Tor users, you will be removed automatically.
 <details>
 <summary><h3>How to add your data</h3></summary>
 
-A, B, or C will be enough. (or D if you really can't)
+B or C will be enough. (or D if you really can't)
 **Thank you for your contribution. You are doing a good job!**
 
-> Type A: Use Online Editor
-
-- [Online Editor](http://editdcf.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/)
 
 > Type B: Push to git
 
@@ -202,6 +200,7 @@ A, B, or C will be enough. (or D if you really can't)
 2. Click "*Fork*" button.  (top-left corner)
 3. Edit `text` file.  (_you don't have to edit JSON file_)
 4. Create a *new pull request*.
+
 
 > Type C: Just scan the FQDN
 
