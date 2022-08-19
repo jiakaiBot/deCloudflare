@@ -11,7 +11,7 @@
 
 | List name | Description |
 | --- | --- |
-| [/domains/cloudflare_?.txt](cloudflare_users/domains) | Split files (base domain)     |
+| [/domains/*/cloudflare_?.txt](cloudflare_users/domains) | Split files (base domain)     |
 | [ex_cloudflare_users.md](cloudflare_users/ex_cloudflare_users.md)     | Domains which used Cloudflare in the past, not anymore     |
 | [cloudflare_supporter.md](cloudflare_users/cloudflare_supporter.md) | who is supporting, endorsing, loving, or defending Cloudflare |
 
@@ -135,8 +135,8 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 
 | List name | Description |
 | -------- | -------- |
-| [/domains/attd.txt](anti-tor_users/domains/attd.txt)<br>[/domains/attd.json](anti-tor_users/domains/attd.json)     | Block Tor access (FQDN) |
-| [/misc/hostility.md](anti-tor_users/misc/hostility.md) | **Does NOT block Tor access** Domain and Comment |
+| [/domains/*/antitor_?.txt](anti-tor_users/domains/)     | Split files (FQDN) |
+| [/misc/hostility.md](anti-tor_users/misc/hostility.md) | **Does NOT block Tor access BUT** Domain and Comment |
 
 - Add-on "[Which website rejected me?](subfiles/about.urjm.md)" will help your domain collection.
 - Add-on "[Will these links block Tor user?](subfiles/about.isat.md)" will tell you which link rejected Tor visitor.
@@ -175,7 +175,7 @@ If your website is on this list, you better talk with your network administrator
 
 Are you sure? There are two ways to remove yourself.
 First option is just _*remove* it from the list_ and _create a pull request_.
-Second option is _wait 1 year_. Our system will revisit your website as a Tor user.
+Second option is _wait 6 months_. Our system will revisit your website as a Tor user.
 
 If you're not blocking Tor users, you will be removed automatically.
 
