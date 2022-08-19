@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,617 |
 | net | 1,505 |
-| social | 1,146 |
+| social | 1,147 |
 | org | 1,077 |
 | de | 958 |
 
@@ -815,6 +815,7 @@ Here's a list of public Fediverse services.
 | amurica.cf | No |
 | amxl.com | No |
 | an6.us | No |
+| anacreonte.eu | No |
 | ananasbananas.com | No |
 | ananc.us | No |
 | anaproy.nl | No |
@@ -5249,6 +5250,7 @@ Here's a list of public Fediverse services.
 | fediverse.co.za | Yes |
 | fediverse.cyou | Yes |
 | fediverse.express | No |
+| fediverse.land | Yes |
 | fediverse.lol | Yes |
 | fediverse.me | No |
 | fediverse.network | No |
@@ -10190,6 +10192,7 @@ Here's a list of public Fediverse services.
 | mastdn.jp | No |
 | mastdon.jp | No |
 | master-feed.net | No |
+| masterdom.social | No |
 | masthead.social | Yes |
 | masticated.life | No |
 | mastio.nl | No |
@@ -19664,8 +19667,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 3,857 |
-| Normal | 15,764 |
+| Cloudflare | 3,858 |
+| Normal | 15,766 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
