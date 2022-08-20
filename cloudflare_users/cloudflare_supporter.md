@@ -5919,6 +5919,7 @@ Do not create new issue or we will close it as duplicate.
 | [NaoremDojo@twitter](https://twitter.com/NaoremDojo/status/1382449145856851971) | advertise |
 | [nao_qua@twitter](https://twitter.com/nao_qua/status/1533404289648844802) | advertise |
 | [nappyboy1109@twitter](https://twitter.com/nappyboy1109/status/1559171847643893761) | advertise |
+| [NaqibTasdiq@twitter](https://twitter.com/NaqibTasdiq/status/1561014306275475459) | advertise |
 | [narajantima@twitter](https://twitter.com/narajantima/status/1553226573574090753) | advertise |
 | [Narendr93556275@twitter](https://twitter.com/Narendr93556275/status/1384445226274594824) | advertise |
 | [naringuyen0808@twitter](https://twitter.com/naringuyen0808/status/1545254657102336002) | advertise |
@@ -6934,6 +6935,7 @@ Do not create new issue or we will close it as duplicate.
 | [PRINCES14446848@twitter](https://twitter.com/PRINCES14446848/status/1377862676450213888) | advertise |
 | [PrinceS49644369@twitter](https://twitter.com/PrinceS49644369/status/1386440942069026818) | advertise |
 | [privatedatesvip@twitter](https://twitter.com/privatedatesvip/status/1431480497364946944) | advertise |
+| [prjudo@twitter](https://twitter.com/prjudo/status/1561008434740244480) | advertise |
 | [Profess56387660@twitter](https://twitter.com/Profess56387660/status/1401752121599401985) | advertise |
 | [professorRauti@twitter](https://twitter.com/professorRauti/status/1470751563283116038) | advertise |
 | [ProfTakeruHiga@twitter](https://twitter.com/ProfTakeruHiga/status/1388474623214243842) | advertise |
