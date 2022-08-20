@@ -211,9 +211,7 @@ Your contribution will be pushed to git automatically.
   - Or: Scan FQDN on "[Search domain](subfiles/service.ombrelo.md)" webpage.
   - Or: Use ["_MITM test_" API](subfiles/service.ombrelo.md).
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 -X POST -F 'f=www.emsisoft.com' (API URL)is_mitm.php`
-- Anti-Tor
-  - Use ["_Is it blocking Tor?_" API](subfiles/service.ombrelo.md).
-    - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 -X POST -F 'f=www.emsisoft.com' (API URL)is_antitor.php`
+
 
 > Type D: Create an Issue
 
