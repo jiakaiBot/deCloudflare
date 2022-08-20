@@ -12,6 +12,7 @@
 | 2008 | [Shining Light in Dark Places Understanding the Tor Network](2008-Shining_Light_in_Dark_Places_Understanding_the_Tor_Network.pdf) |
 | 2010 | [Digging into Anonymous Traffic deep analysis of the Tor anonymizing network](2010-Digging_into_Anonymous_Traffic_deep_analysis_of_the_Tor_anonymizing_network.pdf) |
 | 2012 | [Biometric Alternatives to CAPTCHA Exploring Accessible Interface](2012-Biometric_Alternatives_to_CAPTCHA_Exploring_Accessible_Interface.pdf) |
+| 2012 | [Extensive Analysis and Large-Scale Empirical Evaluation of Tor Bridge Discovery](2012-Extensive_Analysis_and_Large-Scale_Empirical_Evaluation_of_Tor_Bridge_Discovery.pdf) |
 | 2012 | [SWEET Serving the Web by Exploiting Email Tunnels](2012-SWEET_Serving_the_Web_by_Exploiting_Email_Tunnels.pdf) |
 | 2012 | [TorScan Tracing Long-lived Connections and Differential Scanning Attacks](2012-TorScan_Tracing_Long-lived_Connections_and_Differential_Scanning_Attacks.pdf) |
 | 2013 | [Matching Known Patients to Health Records in Washington State Data](2013-Matching_Known_Patients_to_Health_Records_in_Washington_State_Data.pdf) |
@@ -41,6 +42,7 @@
 | 2016 | [US Playpen Tor](2016-US_Playpen_Tor.pdf) |
 | 2016 | [Website Fingerprinting at Internet Scale](2016-Website_Fingerprinting_at_Internet_Scale.pdf) |
 | 2017 | [Analysis of Fingerprinting Techniques for Tor Hidden Services](2017-Analysis_of_Fingerprinting_Techniques_for_Tor_Hidden_Services.pdf) |
+| 2017 | [Approximating a Global Passive Adversary Against Tor](2017-Approximating_a_Global_Passive_Adversary_Against_Tor.pdf) |
 | 2017 | [DHS FBI Playpen](2017-DHS_FBI_Playpen.pdf) |
 | 2017 | [The Security Impact of HTTPS Interception](2017-The_Security_Impact_of_HTTPS_Interception.pdf) |
 | 2017 | [Tor's Usability for Censorship Circumvention](2017-Tor's_Usability_for_Censorship_Circumvention.pdf) |
