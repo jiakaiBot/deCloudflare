@@ -9161,7 +9161,7 @@ Here's a list of public Fediverse services.
 | kitsune.land | No |
 | kitsune.social | No |
 | kitsunemimi.club | No |
-| kitsunes.world | No |
+| kitsunes.world | Yes |
 | kitsunet.net | No |
 | kitteh.pw | No |
 | kittenme.ws | No |
@@ -17105,7 +17105,7 @@ Here's a list of public Fediverse services.
 | squope.net | No |
 | squug.net | No |
 | srg.id.au | Yes |
-| srid.ca | No |
+| srid.ca | Yes |
 | srikanthperinkulam.com | Yes |
 | srkn.org | Yes |
 | srp.life | Yes |
@@ -20787,8 +20787,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,031 |
-| Normal | 16,713 |
+| Cloudflare | 4,033 |
+| Normal | 16,711 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
