@@ -3,7 +3,7 @@
 
 [//]: # (do not edit me; start)
 
-## *172* FQDN
+## *477* FQDN
 
 [//]: # (do not edit me; end)
 
@@ -41,4 +41,5 @@
 
 | Date | FQDN |
 | --- | --- |
+| 2022-08-20 | 477 |
 | 2022-08-19 | 172 |
