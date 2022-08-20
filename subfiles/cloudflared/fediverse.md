@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,864 |
+| com | 2,865 |
 | net | 1,652 |
-| social | 1,167 |
+| social | 1,168 |
 | org | 1,132 |
 | de | 984 |
 
@@ -10776,7 +10776,7 @@ Here's a list of public Fediverse services.
 | maromaro.co.jp | No |
 | maron.blue | No |
 | marramgrass.org.uk | No |
-| marrus.xyz | No |
+| marrus.xyz | Yes |
 | marstodon.com | No |
 | martian.social | No |
 | martijn.at | No |
@@ -13209,6 +13209,7 @@ Here's a list of public Fediverse services.
 | nuke.moe | Yes |
 | nuke.social | No |
 | nuked-the.uk | No |
+| nuked.social | No |
 | nukem.biz | No |
 | nukeq.com | No |
 | nuklear.family | No |
@@ -15841,6 +15842,7 @@ Here's a list of public Fediverse services.
 | rumbly.net | No |
 | rumia.tk | No |
 | rumia.xyz | No |
+| rumtreiberin.com | No |
 | run-girls.run | Yes |
 | rundfunker.net | No |
 | runfox.tk | No |
@@ -18314,6 +18316,7 @@ Here's a list of public Fediverse services.
 | thorium.cc | No |
 | thorjhanson.com | No |
 | thorlaksson.com | No |
+| thotsofa304.club | Yes |
 | thoughtshrapnel.com | No |
 | thoughtworks.com | Yes |
 | thousand.rocks | No |
@@ -20916,8 +20919,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,056 |
-| Normal | 16,817 |
+| Cloudflare | 4,058 |
+| Normal | 16,818 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
