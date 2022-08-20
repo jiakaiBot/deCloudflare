@@ -1,4 +1,4 @@
-## API files for IsMM/IsAT Add-ons
+## Simple API files for IsMM/IsAT Add-ons
 
 
 ### Requirements
@@ -8,7 +8,7 @@
 ```
 
 
-### 1a. Set up API for `Ĉu ligoj estas vundeblaj al MITM-atako?`(isMM)
+### 1a. Set up API for `Are links vulnerable to MITM attack?`(isMM)
 
 1. Copy [ismm.php](ismm.php) to your website directory.<br>
     e.g. `/api/ismm.php`
@@ -20,13 +20,15 @@
     e.g. `http://localhost/api/ismm.php`
 
 
-### 1b. Set up API for `Ĉu ĉi tiuj ligoj blokos Tor-uzanton?`(isAT)
+### 1b. Set up API for `Will these links block Tor user?`(isAT)
 
 1. Copy [isat.php](isat.php) to your website directory.<br>
     e.g. `/api/isat.php`
-2. Download JSON file, `attd.json`, from [/anti-tor_users/domains](../../anti-tor_users/domains) and save it to same dir.<br>
-    e.g. `/api/attd.json`
-3. Open your API. It should say `OK`.<br>
+2. Create `listdata` directory.<br>
+    e.g. `/api/listdata/`
+3. Download JSON files (*.json) from [/anti-tor_users/domains](../../anti-tor_users/domains) and save them to dir above.<br>
+    e.g. `/api/listdata/antitor_e.json`
+4. Open your API. It should say `OK`.<br>
     e.g. `http://localhost/api/isat.php`
 
 
