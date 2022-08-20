@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,841 |
 | net | 1,642 |
-| social | 1,163 |
+| social | 1,164 |
 | org | 1,125 |
 | de | 978 |
 
@@ -11357,6 +11357,7 @@ Here's a list of public Fediverse services.
 | meteora.gg | No |
 | methanolinjected.club | No |
 | method-n.com | No |
+| metrix.network | No |
 | metro.bieszczady.pl | No |
 | metu.life | No |
 | metube.ch | No |
@@ -17897,6 +17898,7 @@ Here's a list of public Fediverse services.
 | terbea.com | No |
 | tere.be | No |
 | terencius.com | No |
+| term.social | Yes |
 | terminalaberto.pt | No |
 | termine.social | No |
 | termineterminetermine.com | No |
@@ -18472,6 +18474,7 @@ Here's a list of public Fediverse services.
 | toot.site | Yes |
 | toot.social | Yes |
 | toot.style | No |
+| toot.su | No |
 | toot.tools | No |
 | toot.town | No |
 | toot.wales | No |
@@ -20787,8 +20790,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,033 |
-| Normal | 16,711 |
+| Cloudflare | 4,034 |
+| Normal | 16,713 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
