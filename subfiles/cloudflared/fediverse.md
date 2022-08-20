@@ -1120,6 +1120,7 @@ Here's a list of public Fediverse services.
 | arbleizez.bzh | No |
 | arc.sh | Yes |
 | arcade.ooo | Yes |
+| arcades.agency | Yes |
 | arcadiaroad.com | No |
 | arcane.town | Yes |
 | arch-linux.cz | Yes |
@@ -11930,6 +11931,7 @@ Here's a list of public Fediverse services.
 | moyu.social | Yes |
 | mozc-plasma.tech | Yes |
 | mozcmozc.club | No |
+| mozibuzi.in | No |
 | moztodon.net | No |
 | moztodon.nl | No |
 | mp-tube.de | No |
@@ -14666,6 +14668,7 @@ Here's a list of public Fediverse services.
 | ppluss.de | Yes |
 | ppmx.org | No |
 | ppn.pw | Yes |
+| ppplot.top | No |
 | ppsfleet.navy | No |
 | pptdn.jp | No |
 | pqc.io | No |
@@ -20790,8 +20793,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,034 |
-| Normal | 16,713 |
+| Cloudflare | 4,035 |
+| Normal | 16,715 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
