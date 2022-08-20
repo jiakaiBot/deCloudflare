@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [A couple errors that I can not resolve 🤔](https://github.com/dijonmusters/supabase-data-at-the-edge/issues/1)
 - [Not working: Installing Dockerized Wallabag on Traefik (+ Let's Encrypt Reverse Proxy)](https://github.com/wallabag/docker/issues/296)
 - [Does this still work?](https://github.com/mysociety/parlparse/issues/160)
 - [Element should never try to rageshake more than 200MB of logs.](https://github.com/vector-im/element-ios/issues/6594)
