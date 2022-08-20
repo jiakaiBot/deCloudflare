@@ -61,6 +61,7 @@ Do not create new issue or we will close it as duplicate.
 | [2worx@twitter](https://twitter.com/2worx/status/1405039139498586112) | advertise |
 | [3labMarahin@twitter](https://twitter.com/3labMarahin/status/1384625738884816897) | advertise |
 | [3li7assan2007@twitter](https://twitter.com/3li7assan2007/status/1479946038664441858) | advertise |
+| [3l_3ja@twitter](https://twitter.com/3l_3ja/status/1560918569684467712) | advertise |
 | [3sl14@twitter](https://twitter.com/3sl14/status/1401346605731790850) | advertise |
 | [3u41c@twitter](https://twitter.com/3u41c/status/1388064726077231107) | advertise |
 | [3vOf6h3aXHm22P1@twitter](https://twitter.com/3vOf6h3aXHm22P1/status/1392031999603392513) | advertise |
@@ -8550,6 +8551,7 @@ Do not create new issue or we will close it as duplicate.
 | [thomas71920860@twitter](https://twitter.com/thomas71920860/status/1390879393963134978) | advertise |
 | [thomasselvaraj4@twitter](https://twitter.com/thomasselvaraj4/status/1486340242789470212) | advertise |
 | [ThomasW18140614@twitter](https://twitter.com/ThomasW18140614/status/1523140461493309440) | advertise |
+| [thomas_n_hogh@twitter](https://twitter.com/thomas_n_hogh/status/1560917291335929863) | advertise |
 | [thone20208234@twitter](https://twitter.com/thone20208234/status/1388498430025105408) | advertise |
 | [thongda80417861@twitter](https://twitter.com/thongda80417861/status/1387699659456528386) | advertise |
 | [Thonho338@twitter](https://twitter.com/Thonho338/status/1499041712597245952) | advertise |
@@ -9917,6 +9919,7 @@ Do not create new issue or we will close it as duplicate.
 | [_YoonminIsKii_@twitter](https://twitter.com/_YoonminIsKii_/status/1395181543241523205) | advertise |
 | [_zackwu@twitter](https://twitter.com/_zackwu/status/1459165605555179520) | advertise |
 | [__2x4@twitter](https://twitter.com/__2x4/status/1552234529355595778) | advertise |
+| [__4x5@twitter](https://twitter.com/__4x5/status/1552234529355595778) | advertise |
 | [__5x6@twitter](https://twitter.com/__5x6/status/1552234529355595778) | advertise |
 | [__i21@twitter](https://twitter.com/__i21/status/1552234529355595778) | advertise |
 | [__JARVlS__@twitter](https://twitter.com/__JARVlS__/status/1399612611314950144) | advertise |
