@@ -6179,6 +6179,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynTn10515156@twitter](https://twitter.com/NguynTn10515156/status/1387340058223513607) | advertise |
 | [NguynTn61327840@twitter](https://twitter.com/NguynTn61327840/status/1380795871080538112) | advertise |
 | [NguynTr10717229@twitter](https://twitter.com/NguynTr10717229/status/1553238776385654784) | advertise |
+| [NguynTr52561206@twitter](https://twitter.com/NguynTr52561206/status/1560991960596623360) | advertise |
 | [NguynTrngCm1@twitter](https://twitter.com/NguynTrngCm1/status/1486667123753885704) | advertise |
 | [NguynTrngPhcHn2@twitter](https://twitter.com/NguynTrngPhcHn2/status/1389292187704119296) | advertise |
 | [NguynTrnhHongA3@twitter](https://twitter.com/NguynTrnhHongA3/status/1401956424331137028) | advertise |
