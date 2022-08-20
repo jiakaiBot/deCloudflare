@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Link to demo not working](https://github.com/seonglae/nextra/issues/50)
 - [A couple errors that I can not resolve 🤔](https://github.com/dijonmusters/supabase-data-at-the-edge/issues/1)
 - [Not working: Installing Dockerized Wallabag on Traefik (+ Let's Encrypt Reverse Proxy)](https://github.com/wallabag/docker/issues/296)
 - [Does this still work?](https://github.com/mysociety/parlparse/issues/160)
