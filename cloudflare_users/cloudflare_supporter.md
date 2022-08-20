@@ -8143,6 +8143,7 @@ Do not create new issue or we will close it as duplicate.
 | [syarifl@twitter](https://twitter.com/syarifl/status/1521397463738839043) | advertise |
 | [SyatirahMd@twitter](https://twitter.com/SyatirahMd/status/1393480198738173952) | advertise |
 | [SyazwiFauzi@twitter](https://twitter.com/SyazwiFauzi/status/1553766368201568258) | advertise |
+| [syedarian9898@twitter](https://twitter.com/syedarian9898/status/1561109480058028033) | advertise |
 | [SyedFah94404165@twitter](https://twitter.com/SyedFah94404165/status/1386268969083019266) | advertise |
 | [syedfazil42@twitter](https://twitter.com/syedfazil42/status/1386576346885758976) | advertise |
 | [SyedZab83487198@twitter](https://twitter.com/SyedZab83487198/status/1389502667391528967) | advertise |
