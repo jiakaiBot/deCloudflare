@@ -2332,6 +2332,7 @@ Do not create new issue or we will close it as duplicate.
 | [estyendowned19@twitter](https://twitter.com/estyendowned19/status/1401196579005009921) | advertise |
 | [ET67927812@twitter](https://twitter.com/ET67927812/status/1404818053993439235) | advertise |
 | [ethiopianlions@twitter](https://twitter.com/ethiopianlions/status/1503139799699492870) | advertise |
+| [ethnikiantistas@twitter](https://twitter.com/ethnikiantistas/status/1561050463788830721) | advertise |
 | [eth_blaze@twitter](https://twitter.com/eth_blaze/status/1553908650443509760) | advertise |
 | [EugeneBos1@twitter](https://twitter.com/EugeneBos1/status/1505982810250952705) | advertise |
 | [eunhee24x8@twitter](https://twitter.com/eunhee24x8/status/1385261915807522816) | advertise |
@@ -5611,6 +5612,7 @@ Do not create new issue or we will close it as duplicate.
 | [MoonDas41181283@twitter](https://twitter.com/MoonDas41181283/status/1393096654413197315) | advertise |
 | [moonfoxxxxxx@twitter](https://twitter.com/moonfoxxxxxx/status/1401547509189681155) | advertise |
 | [MoonLight98__@twitter](https://twitter.com/MoonLight98__/status/1536627517209165826) | advertise |
+| [moosarezam@twitter](https://twitter.com/moosarezam/status/1561040908245688325) | advertise |
 | [morahlana78@twitter](https://twitter.com/morahlana78/status/1541860463549751296) | advertise |
 | [Morgan89660901@twitter](https://twitter.com/Morgan89660901/status/1376646842503602179) | advertise |
 | [morixal@twitter](https://twitter.com/morixal/status/1488785584801959937) | advertise |
@@ -6181,6 +6183,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynTn10515156@twitter](https://twitter.com/NguynTn10515156/status/1387340058223513607) | advertise |
 | [NguynTn61327840@twitter](https://twitter.com/NguynTn61327840/status/1380795871080538112) | advertise |
 | [NguynTr10717229@twitter](https://twitter.com/NguynTr10717229/status/1553238776385654784) | advertise |
+| [NguynTr48581028@twitter](https://twitter.com/NguynTr48581028/status/1561043224441286656) | advertise |
 | [NguynTr52561206@twitter](https://twitter.com/NguynTr52561206/status/1560991960596623360) | advertise |
 | [NguynTrngCm1@twitter](https://twitter.com/NguynTrngCm1/status/1486667123753885704) | advertise |
 | [NguynTrngPhcHn2@twitter](https://twitter.com/NguynTrngPhcHn2/status/1389292187704119296) | advertise |
@@ -6260,6 +6263,7 @@ Do not create new issue or we will close it as duplicate.
 | [ninja433work@twitter](https://twitter.com/ninja433work/status/1555147355325730816) | advertise |
 | [Ninja87682819@twitter](https://twitter.com/Ninja87682819/status/1402986987829665794) | advertise |
 | [ninjaismyidol12@twitter](https://twitter.com/ninjaismyidol12/status/1375869047657619456) | advertise |
+| [NinWile@twitter](https://twitter.com/NinWile/status/1561050497523494912) | advertise |
 | [nin_air@twitter](https://twitter.com/nin_air/status/1397648173632417793) | advertise |
 | [nipos@github.com](https://github.com/nipos) | moral (vandalism on Wiki & called CFT as "anti-cloudflare rant shit") |
 | [nipos@social.avareborn.de](https://social.avareborn.de/@nipos) | moral (see nipos@github.com) |
