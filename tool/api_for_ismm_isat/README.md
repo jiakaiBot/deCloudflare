@@ -2,10 +2,10 @@
 
 
 ### Requirements
-```
-- Web server
+
+- Web server (or somethig like [builtin server](https://www.php.net/manual/en/features.commandline.webserver.php))
 - PHP 7 or later
-```
+
 
 
 ### 1a. Set up API for `Are links vulnerable to MITM attack?`(isMM)
