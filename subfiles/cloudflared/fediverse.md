@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,865 |
+| com | 2,866 |
 | net | 1,652 |
 | social | 1,168 |
 | org | 1,132 |
@@ -11479,6 +11479,7 @@ Here's a list of public Fediverse services.
 | michaelpuckett.engineer | Yes |
 | michaelsantillan.com | Yes |
 | michaonline.net | No |
+| michci.ooo | No |
 | michels.xyz | No |
 | michizev.de | Yes |
 | michu.cloud | No |
@@ -15493,6 +15494,7 @@ Here's a list of public Fediverse services.
 | renes-welt.de | No |
 | renewtube.org | No |
 | renken.is | No |
+| rennerocha.com | Yes |
 | repl.co | Yes |
 | replik.xyz | No |
 | reportdb.today | Yes |
@@ -15541,6 +15543,7 @@ Here's a list of public Fediverse services.
 | retrostrange.com | No |
 | retrotroet.com | No |
 | rettiwtkcuf.social | No |
+| revachol.city | No |
 | revconnect.com | No |
 | reve.land | Yes |
 | reveal.today | Yes |
@@ -20921,8 +20924,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,059 |
-| Normal | 16,819 |
+| Cloudflare | 4,060 |
+| Normal | 16,821 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
