@@ -258,6 +258,7 @@ Do not create new issue or we will close it as duplicate.
 | [AdnanIAQader@twitter](https://twitter.com/AdnanIAQader/status/1549794017423962112) | advertise |
 | [adock12345@twitter](https://twitter.com/adock12345/status/1382531067207421953) | advertise |
 | [adora3021@twitter](https://twitter.com/adora3021/status/1390581418401484801) | advertise |
+| [adroitclipping@twitter](https://twitter.com/adroitclipping/status/1561189411072917504) | advertise |
 | [AdsbtcClick@twitter](https://twitter.com/AdsbtcClick/status/1412393199323299843) | advertise |
 | [adspedia@twitter](https://twitter.com/adspedia/status/1394396121141743623) | advertise |
 | [adtyekputr@twitter](https://twitter.com/adtyekputr/status/1383066237186363395) | advertise |
@@ -927,6 +928,7 @@ Do not create new issue or we will close it as duplicate.
 | [AUR_BATAO__@twitter](https://twitter.com/AUR_BATAO__/status/1396083478052040711) | advertise |
 | [austinphyo@twitter](https://twitter.com/austinphyo/status/1394898571476930560) | advertise |
 | [austria_ferlyn@twitter](https://twitter.com/austria_ferlyn/status/1480204860737810432) | advertise |
+| [Austynjohnson51@twitter](https://twitter.com/Austynjohnson51/status/1561195515500429312) | advertise |
 | [autopalvelut@twitter](https://twitter.com/autopalvelut/status/1407036600136126475) | advertise |
 | [auto_tue@twitter](https://twitter.com/auto_tue/status/1513499048569114624) | advertise |
 | [Autumna688@twitter](https://twitter.com/Autumna688/status/1519704867501219840) | advertise |
