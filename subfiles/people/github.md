@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Ambiclimate - Doesn't work](https://github.com/home-assistant/core/issues/77095)
 - [Link to demo not working](https://github.com/seonglae/nextra/issues/50)
 - [A couple errors that I can not resolve 🤔](https://github.com/dijonmusters/supabase-data-at-the-edge/issues/1)
 - [Not working: Installing Dockerized Wallabag on Traefik (+ Let's Encrypt Reverse Proxy)](https://github.com/wallabag/docker/issues/296)
