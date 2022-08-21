@@ -4237,8 +4237,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7692,6 +7692,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shahzai38914950@twitter](https://twitter.com/Shahzai38914950/status/1531784993311178753) | advertise |
 | [Shah_man83@twitter](https://twitter.com/Shah_man83/status/1381646041498329088) | advertise |
 | [shailas317@twitter](https://twitter.com/shailas317/status/1398393908044845057) | advertise |
+| [Shakeel49597876@twitter](https://twitter.com/Shakeel49597876/status/1561381372626739200) | advertise |
 | [Shakiba34613353@twitter](https://twitter.com/Shakiba34613353/status/1530881904714878976) | advertise |
 | [ShalomValor@twitter](https://twitter.com/ShalomValor/status/1391398052464762880) | advertise |
 | [shamalesmail@twitter](https://twitter.com/shamalesmail/status/1383397258905849859) | advertise |
@@ -9109,6 +9110,7 @@ Do not create new issue or we will close it as duplicate.
 | [vettijoe@twitter](https://twitter.com/vettijoe/status/1390939641025466371) | advertise |
 | [VeVe69904456@twitter](https://twitter.com/VeVe69904456/status/1390967162878283780) | advertise |
 | [Vevo_inc@twitter](https://twitter.com/Vevo_inc/status/1499661254809452547) | advertise |
+| [VE_NotFire@twitter](https://twitter.com/VE_NotFire/status/1561371709046808576) | advertise |
 | [vfedoroff@twitter](https://twitter.com/vfedoroff/status/1499923341569839111) | advertise |
 | [vgchat@twitter](https://twitter.com/vgchat/status/1392263921013252103) | advertise |
 | [vgophannad@twitter](https://twitter.com/vgophannad/status/1552536474381389825) | advertise |
