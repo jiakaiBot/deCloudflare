@@ -417,6 +417,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlexCameronM@twitter](https://twitter.com/AlexCameronM/status/1498914936134807557) | advertise |
 | [alexchenfeng@twitter](https://twitter.com/alexchenfeng/status/1465564402854207493) | advertise |
 | [alexdolbun@twitter](https://twitter.com/alexdolbun/status/1410279652116029443) | moral (advertise) |
+| [alexla2809@twitter](https://twitter.com/alexla2809/status/1561246966990123008) | advertise |
 | [alexleungch@twitter](https://twitter.com/alexleungch/status/1500726449497460738) | advertise |
 | [AlexNik14448676@twitter](https://twitter.com/AlexNik14448676/status/1404016449262284806) | advertise |
 | [alexroyce315@twitter](https://twitter.com/alexroyce315/status/1459396293596352513) | advertise |
@@ -1631,6 +1632,7 @@ Do not create new issue or we will close it as duplicate.
 | [codeberg.org](https://www.codeberg.org/) | [HISTORY.md](../HISTORY.md) |
 | [codewithfortune@twitter](https://twitter.com/codewithfortune/status/1477733630982213634) | advertise |
 | [codfish246@twitter](https://twitter.com/codfish246/status/1555424438602047488) | advertise |
+| [Codingprotocols@twitter](https://twitter.com/Codingprotocols/status/1561244906060156929) | advertise |
 | [codysaylor@twitter](https://twitter.com/codysaylor/status/1392677823454879756) | advertise |
 | [CoinDescount@twitter](https://twitter.com/CoinDescount/status/1453401719711350791) | advertise |
 | [CoiPhuocHiep@twitter](https://twitter.com/CoiPhuocHiep/status/1389075825308409857) | advertise |
