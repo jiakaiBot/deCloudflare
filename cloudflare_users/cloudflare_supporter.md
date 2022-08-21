@@ -1922,6 +1922,7 @@ Do not create new issue or we will close it as duplicate.
 | [DemonFighter17@twitter](https://twitter.com/DemonFighter17/status/1379994239073976325) | advertise |
 | [dem_lanh1@twitter](https://twitter.com/dem_lanh1/status/1478372142429655043) | advertise |
 | [Deniel15604448@twitter](https://twitter.com/Deniel15604448/status/1393749914736234498) | advertise |
+| [DennisAnthonyyy@twitter](https://twitter.com/DennisAnthonyyy/status/1561465362260135939) | advertise |
 | [DennisLibre@twitter](https://twitter.com/DennisLibre/status/1481347302015053827) | advertise |
 | [dennis_mcodhis@twitter](https://twitter.com/dennis_mcodhis/status/1459941166514950159) | advertise |
 | [dentistjasbrar@twitter](https://twitter.com/dentistjasbrar/status/1553380199131058178) | advertise |
