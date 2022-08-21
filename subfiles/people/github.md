@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Environment variables not available when using Wrangler 2](https://github.com/prisma/prisma/issues/14924)
 - [Ambiclimate - Doesn't work](https://github.com/home-assistant/core/issues/77095)
 - [Link to demo not working](https://github.com/seonglae/nextra/issues/50)
 - [A couple errors that I can not resolve 🤔](https://github.com/dijonmusters/supabase-data-at-the-edge/issues/1)
