@@ -10853,6 +10853,7 @@ Here's a list of public Fediverse services.
 | masto-sport.us | No |
 | masto.bar | No |
 | masto.beer | No |
+| masto.cafe | No |
 | masto.casa | Yes |
 | masto.cloud | No |
 | masto.co | No |
@@ -13499,6 +13500,7 @@ Here's a list of public Fediverse services.
 | onigiridon.com | No |
 | oniko-branch.moe | No |
 | onion.ly | No |
+| onion.pet | No |
 | onion.social | Yes |
 | onionstorm.net | No |
 | oniricorpe.eu | No |
@@ -14755,7 +14757,7 @@ Here's a list of public Fediverse services.
 | ppluss.de | Yes |
 | ppmx.org | No |
 | ppn.pw | Yes |
-| ppplot.top | No |
+| ppplot.top | Yes |
 | ppsfleet.navy | No |
 | pptdn.jp | No |
 | pqc.io | No |
@@ -20919,8 +20921,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,058 |
-| Normal | 16,818 |
+| Cloudflare | 4,059 |
+| Normal | 16,819 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
