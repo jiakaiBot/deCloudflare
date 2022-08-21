@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,866 |
+| com | 2,867 |
 | net | 1,652 |
 | social | 1,168 |
 | org | 1,132 |
@@ -273,7 +273,7 @@ Here's a list of public Fediverse services.
 | 512.moe | Yes |
 | 513515.xyz | Yes |
 | 51attack.li | No |
-| 51yyds.tk | No |
+| 51yyds.tk | Yes |
 | 52wochen.me | Yes |
 | 536.fr | No |
 | 551.social | No |
@@ -5940,7 +5940,7 @@ Here's a list of public Fediverse services.
 | foxthesystem.space | No |
 | foxtrot-community.cc | No |
 | foxworthy.name | No |
-| foxyhole.io | No |
+| foxyhole.io | Yes |
 | fpga.style | No |
 | fpsource.eu | No |
 | fpsource.info | No |
@@ -8060,6 +8060,7 @@ Here's a list of public Fediverse services.
 | infinimatix.net | No |
 | infinite.jetzt | No |
 | infinite.pink | No |
+| infinitedisk.com | No |
 | infinitenegativeutility.com | No |
 | infiniteregress.space | No |
 | infinity-labs.eu | No |
@@ -8075,7 +8076,7 @@ Here's a list of public Fediverse services.
 | informaton.blog | No |
 | informethique.org | No |
 | infosec.exchange | No |
-| infosecnerd.cc | Yes |
+| infosecnerd.cc | No |
 | infoteck.ru | No |
 | infothema.net | No |
 | infotik.fr | No |
@@ -8110,7 +8111,7 @@ Here's a list of public Fediverse services.
 | inkson.org | No |
 | inkstained.space | Yes |
 | inkweb.network | No |
-| inkwell.space | No |
+| inkwell.space | Yes |
 | inkwell.studio | No |
 | inkyara-kami.me | No |
 | inman.xyz | No |
@@ -9187,6 +9188,7 @@ Here's a list of public Fediverse services.
 | kiriha.me | Yes |
 | kirimasharo.org | Yes |
 | kirimi.net | No |
+| kirinolen.fr | No |
 | kirinsan.org | Yes |
 | kirishima.cloud | No |
 | kirishima.xyz | Yes |
@@ -9278,7 +9280,7 @@ Here's a list of public Fediverse services.
 | knar.ph | No |
 | kneegrows.top | No |
 | knh.uno | No |
-| knickerghost.com | Yes |
+| knickerghost.com | No |
 | knnl.haus | No |
 | knojoko.co.za | No |
 | knot.space | No |
@@ -9629,6 +9631,7 @@ Here's a list of public Fediverse services.
 | lainia.net | No |
 | lainia.xyz | No |
 | lainist.net | No |
+| lainoa.eus | No |
 | lainon.life | No |
 | lainternet.online | No |
 | laipower.xyz | No |
@@ -11928,7 +11931,7 @@ Here's a list of public Fediverse services.
 | moppelkotzer.design | No |
 | moqueur.chat | No |
 | morale.ch | No |
-| mordicux.xyz | Yes |
+| mordicux.xyz | No |
 | mordor.social | No |
 | morebeautifully.com | No |
 | morepablo.com | No |
@@ -13609,7 +13612,7 @@ Here's a list of public Fediverse services.
 | opravljam.ga | No |
 | opsecwin.com | Yes |
 | opsnotice.xyz | Yes |
-| opticor.digital | No |
+| opticor.digital | Yes |
 | optional.page | No |
 | optoutpod.com | No |
 | oraclefilms.com | No |
@@ -16801,7 +16804,7 @@ Here's a list of public Fediverse services.
 | smallcamp.art | No |
 | smallint.net | No |
 | smallposts.net | Yes |
-| smalltalk.ooo | Yes |
+| smalltalk.ooo | No |
 | smalltech.solutions | No |
 | smalltech.space | No |
 | smartcitydev.jp | No |
@@ -20925,7 +20928,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,060 |
-| Normal | 16,821 |
+| Normal | 16,824 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
