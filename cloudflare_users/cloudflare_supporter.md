@@ -5695,6 +5695,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mr_ThuraSoe@twitter](https://twitter.com/Mr_ThuraSoe/status/1382001533592608770) | advertise |
 | [Mr__afzal00@twitter](https://twitter.com/Mr__afzal00/status/1545282517514821632) | advertise |
 | [MSAGaming11@twitter](https://twitter.com/MSAGaming11/status/1400491362475204611) | advertise |
+| [MsBetsyRamirez@twitter](https://twitter.com/MsBetsyRamirez/status/1561286147002626048) | advertise |
 | [msq334@twitter](https://twitter.com/msq334/status/1497345657597800451) | advertise |
 | [MstafaMilan@twitter](https://twitter.com/MstafaMilan/status/1546617486937935872) | advertise |
 | [msun_tv@twitter](https://twitter.com/msun_tv/status/1484144302037086209) | advertise |
