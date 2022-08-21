@@ -2104,6 +2104,7 @@ Do not create new issue or we will close it as duplicate.
 | [DrocksAlex@twitter](https://twitter.com/DrocksAlex/status/1529150217253269515) | advertise |
 | [Drop20Rain@twitter](https://twitter.com/Drop20Rain/status/1396304228126183429) | advertise |
 | [drugs1195@twitter](https://twitter.com/drugs1195/status/1399717280108318720) | advertise |
+| [DrunkPanda31@twitter](https://twitter.com/DrunkPanda31/status/1561437014133596161) | advertise |
 | [DrustonDias1@twitter](https://twitter.com/DrustonDias1/status/1392055630207217666) | advertise |
 | [Dryannaungsoe@twitter](https://twitter.com/Dryannaungsoe/status/1542151793563824129) | advertise |
 | [DryNerf@twitter](https://twitter.com/DryNerf/status/1540069436765487105) | advertise |
@@ -7389,6 +7390,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rungsimon6@twitter](https://twitter.com/Rungsimon6/status/1493410513749147650) | advertise |
 | [RunStopRestoreX@twitter](https://twitter.com/RunStopRestoreX/status/1381973526350073856) | advertise |
 | [Rupesh69314329@twitter](https://twitter.com/Rupesh69314329/status/1484841043363131393) | advertise |
+| [RUPopular@twitter](https://twitter.com/RUPopular/status/1561430692134719488) | advertise |
 | [rurq_official@twitter](https://twitter.com/rurq_official/status/1477737272132915201) | advertise |
 | [Rushike85904039@twitter](https://twitter.com/Rushike85904039/status/1381637780657168384) | advertise |
 | [rushimovaliya@twitter](https://twitter.com/rushimovaliya/status/1400114095857094659) | advertise |
