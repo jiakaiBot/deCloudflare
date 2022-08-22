@@ -11687,7 +11687,7 @@ Here's a list of public Fediverse services.
 | misskey.ai | No |
 | misskey.art | No |
 | misskey.at | No |
-| misskey.cf | No |
+| misskey.cf | Yes |
 | misskey.cloud | Yes |
 | misskey.de | No |
 | misskey.design | Yes |
@@ -20684,6 +20684,7 @@ Here's a list of public Fediverse services.
 | yunohost.ga | No |
 | yunohost.support | No |
 | yunyun.moe | Yes |
+| yurec.online | No |
 | yurikonanao.cloud | No |
 | yurisora.com | No |
 | yuritopia.net | No |
@@ -20934,7 +20935,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,064 |
+| Cloudflare | 4,065 |
 | Normal | 16,827 |
 
 
