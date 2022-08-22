@@ -42,6 +42,7 @@ Do not create new issue or we will close it as duplicate.
 | [0xym0r022@twitter](https://twitter.com/0xym0r022/status/1379045277588279301) | advertise |
 | [01227770316min2@twitter](https://twitter.com/01227770316min2/status/1385909202766508032) | advertise |
 | [05Tuns@twitter](https://twitter.com/05Tuns/status/1395807741583585281) | advertise |
+| [08l739@twitter](https://twitter.com/08l739/status/1561689134648934400) | advertise |
 | [1CristalHeart@twitter](https://twitter.com/1CristalHeart/status/1473671613144920067) | advertise |
 | [1fRaSz22dPfUrsv@twitter](https://twitter.com/1fRaSz22dPfUrsv/status/1542540824759656451) | advertise |
 | [1juxtaposition@twitter](https://twitter.com/1juxtaposition/status/1397618611083165697) | advertise |
@@ -1681,8 +1682,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -7723,6 +7724,7 @@ Do not create new issue or we will close it as duplicate.
 | [ShaunVillafana@twitter](https://twitter.com/ShaunVillafana/status/1495117083700387840) | advertise |
 | [shawadin96@twitter](https://twitter.com/shawadin96/status/1393564895409434627) | advertise |
 | [shawnjvandiver@twitter](https://twitter.com/shawnjvandiver/status/1455368726748954625) | advertise |
+| [ShawnyRHarvey@twitter](https://twitter.com/ShawnyRHarvey/status/1561695344743923716) | advertise |
 | [shayanjoun@twitter](https://twitter.com/shayanjoun/status/1381894805509275649) | advertise |
 | [ShayDeeMan@twitter](https://twitter.com/ShayDeeMan/status/1427705148231532549) | advertise |
 | [Shayden87162676@twitter](https://twitter.com/Shayden87162676/status/1388560807433211905) | advertise |
