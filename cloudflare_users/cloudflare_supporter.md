@@ -6695,6 +6695,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhanNgu71710369@twitter](https://twitter.com/PhanNgu71710369/status/1402651791305568263) | advertise |
 | [PhannhKhi15@twitter](https://twitter.com/PhannhKhi15/status/1395246171908493315) | advertise |
 | [phannhlm4@twitter](https://twitter.com/phannhlm4/status/1553827126033645568) | advertise |
+| [PhanQuc34552007@twitter](https://twitter.com/PhanQuc34552007/status/1561705823956799488) | advertise |
 | [phanson35714136@twitter](https://twitter.com/phanson35714136/status/1481918531981942784) | advertise |
 | [PhanThiTi1@twitter](https://twitter.com/PhanThiTi1/status/1405723164689108999) | advertise |
 | [PhantomCrestTV@twitter](https://twitter.com/PhantomCrestTV/status/1561475931851595776) | advertise |
