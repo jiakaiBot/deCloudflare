@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,652 |
 | social | 1,168 |
 | org | 1,132 |
-| de | 984 |
+| de | 985 |
 
 
 - Mastodon, Pleroma, etc
@@ -321,7 +321,7 @@ Here's a list of public Fediverse services.
 | 765ml.com | No |
 | 765racing.com | No |
 | 791127.net | No |
-| 79120.tours | Yes |
+| 79120.tours | No |
 | 7glen.cloud | No |
 | 7io.org | No |
 | 7ka.org | No |
@@ -6402,6 +6402,7 @@ Here's a list of public Fediverse services.
 | gandi.social | No |
 | ganesha.org.br | No |
 | ganeshapress.net | No |
+| gangstalking.services | Yes |
 | gannetdesigns.com | No |
 | ganzeer.today | No |
 | gao4.top | No |
@@ -9767,6 +9768,7 @@ Here's a list of public Fediverse services.
 | learnawesome.org | Yes |
 | learner.tools | Yes |
 | leaseissues.org | No |
+| lebalkon.de | No |
 | lebe.gg | No |
 | leblanc.io | No |
 | leboulaire.ovh | No |
@@ -12043,7 +12045,7 @@ Here's a list of public Fediverse services.
 | mrx.im | No |
 | mrxi.org | No |
 | mrzan.xyz | Yes |
-| ms-olive.club | No |
+| ms-olive.club | Yes |
 | mschmidt-et.de | No |
 | msdnaart.net | Yes |
 | msdon.net | No |
@@ -20927,8 +20929,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,060 |
-| Normal | 16,824 |
+| Cloudflare | 4,061 |
+| Normal | 16,825 |
 
 
 ### 19.4% of public Fediverse services are using Cloudflare.
