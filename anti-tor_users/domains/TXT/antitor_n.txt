@@ -1,4 +1,5 @@
 blogs.nasa.gov
+english.ncsc.nl
 kita-ebers.nbhs.de
 kita-tuebinger.nbhs.de
 nerukoblog.com
@@ -12,6 +13,7 @@ nyaa.si
 nyoero.com
 sdpf.ntt.com
 technology.nasa.gov
+transfer.navitime.biz
 www.natureasia.com
 www.nhk.jp
 www.nikon-image.com
