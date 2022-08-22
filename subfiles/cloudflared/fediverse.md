@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,652 |
 | social | 1,168 |
 | org | 1,132 |
-| de | 985 |
+| de | 986 |
 
 
 - Mastodon, Pleroma, etc
@@ -1402,7 +1402,7 @@ Here's a list of public Fediverse services.
 | auronplay.social | No |
 | aus.green | No |
 | aus.party | No |
-| aus.social | No |
+| aus.social | Yes |
 | ausglam.space | No |
 | auspol.cafe | Yes |
 | ausrineblackthorn.com | No |
@@ -7678,6 +7678,7 @@ Here's a list of public Fediverse services.
 | houbahouba.de | No |
 | houghton.media | Yes |
 | housecat.dog | No |
+| housegoater.co.uk | No |
 | houseofcreativeweirdos.com | No |
 | houseofloy.net | Yes |
 | houston.chat | No |
@@ -14770,7 +14771,7 @@ Here's a list of public Fediverse services.
 | pquirk.com | No |
 | pr0mised.life | Yes |
 | pr0n.space | No |
-| pr1nt.xyz | No |
+| pr1nt.xyz | Yes |
 | pradenco.com | No |
 | prankgo.de | No |
 | prantare.xyz | No |
@@ -18576,6 +18577,7 @@ Here's a list of public Fediverse services.
 | toot.li | No |
 | toot.life | No |
 | toot.link | No |
+| toot.lol | Yes |
 | toot.love | No |
 | toot.lu | No |
 | toot.lv | Yes |
@@ -20214,6 +20216,7 @@ Here's a list of public Fediverse services.
 | wuatek.is | No |
 | wubrg.social | No |
 | wue.social | No |
+| wuepod.de | No |
 | wuerzblog.de | No |
 | wuewuewue.de | No |
 | wuff-miau.club | No |
@@ -20689,6 +20692,7 @@ Here's a list of public Fediverse services.
 | yutacar.info | No |
 | yutasan.co | No |
 | yuto-shin.net | No |
+| yutu.nl | Yes |
 | yuu26.com | No |
 | yuustan.space | No |
 | yuv.pink | Yes |
@@ -20929,8 +20933,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,061 |
+| Cloudflare | 4,065 |
 | Normal | 16,825 |
 
 
-### 19.4% of public Fediverse services are using Cloudflare.
+### 19.5% of public Fediverse services are using Cloudflare.
