@@ -1,6 +1,7 @@
 athens.indymedia.org
 economictimes.indiatimes.com
 icdvietnam.com.vn
+idil2022-2032.org
 immersivesoundgaming.com
 independentpoliticalreport.com
 indianexpress.com
@@ -9,7 +10,10 @@ itdefine.in
 timesofindia.indiatimes.com
 www.athens.indymedia.org
 www.ilcastello-berlin.de
+www.ilgiornale.it
+www.imaginalexploration.com
 www.infosalus.com
+www.intech-net.com
 www.irelandtopnews.com
 www.iybssd2022.org
 zeenews.india.com
