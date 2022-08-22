@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare: Add TXT record fails with curl error 92](https://github.com/acmesh-official/acme.sh/issues/4263)
 - [Dynamic Imports Error in Deno Deploy](https://github.com/justinawrey/fsrouter/issues/10)
 - [CloudFlare Cloudflare Tunnel Availability Issues](https://github.com/MatBenfield/news/issues/1634)
 - [Can't login or save items, unexpected end of JSON input](https://github.com/dani-garcia/vaultwarden/issues/2702)
