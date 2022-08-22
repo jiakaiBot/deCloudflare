@@ -153,6 +153,7 @@ Do not create new issue or we will close it as duplicate.
 | [AAE_BRAND@twitter](https://twitter.com/AAE_BRAND/status/1468137375351984130) | advertise |
 | [Aakash80458085@twitter](https://twitter.com/Aakash80458085/status/1394934419350118403) | advertise |
 | [aamamunriton@twitter](https://twitter.com/aamamunriton/status/1495104498821636096) | advertise |
+| [Aamer1982@twitter](https://twitter.com/Aamer1982/status/1561580002625441793) | advertise |
 | [Aamin49982113@twitter](https://twitter.com/Aamin49982113/status/1400366091235254283) | advertise |
 | [AamirKh41043592@twitter](https://twitter.com/AamirKh41043592/status/1398311906373365762) | advertise |
 | [aanggoro14@twitter](https://twitter.com/aanggoro14/status/1393251527637159938) | advertise |
@@ -8940,6 +8941,7 @@ Do not create new issue or we will close it as duplicate.
 | [TunBeo3@twitter](https://twitter.com/TunBeo3/status/1406537643005861888) | advertise |
 | [Tung55985050@twitter](https://twitter.com/Tung55985050/status/1401516166896443395) | advertise |
 | [tung85288887@twitter](https://twitter.com/tung85288887/status/1536123681826430976) | advertise |
+| [tungcho3396@twitter](https://twitter.com/tungcho3396/status/1561578045445910528) | advertise |
 | [tungduo07351367@twitter](https://twitter.com/tungduo07351367/status/1518231863688843264) | advertise |
 | [tungtroy2122@twitter](https://twitter.com/tungtroy2122/status/1379372249212456963) | advertise |
 | [tungtung411@twitter](https://twitter.com/tungtung411/status/1404120132943712260) | advertise |
