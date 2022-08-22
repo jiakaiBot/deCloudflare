@@ -4242,8 +4242,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6904,6 +6904,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pookie5552@twitter](https://twitter.com/Pookie5552/status/1396760560037863424) | advertise |
 | [poopers6399@twitter](https://twitter.com/poopers6399/status/1392869085457776644) | advertise |
 | [PopperThanh@twitter](https://twitter.com/PopperThanh/status/1388014796772102147) | advertise |
+| [PopPoppp12@twitter](https://twitter.com/PopPoppp12/status/1561759380588343296) | advertise |
 | [PORANN3663@twitter](https://twitter.com/PORANN3663/status/1404852067336802309) | advertise |
 | [pormhee@twitter](https://twitter.com/pormhee/status/1553270565292498945) | advertise |
 | [PornchaiSosut@twitter](https://twitter.com/PornchaiSosut/status/1401256333341380608) | advertise |
