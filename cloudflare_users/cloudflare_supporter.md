@@ -8226,6 +8226,7 @@ Do not create new issue or we will close it as duplicate.
 | [TarunKu96104346@twitter](https://twitter.com/TarunKu96104346/status/1395333561054425089) | advertise |
 | [Tarunno7@twitter](https://twitter.com/Tarunno7/status/1499926032266448897) | advertise |
 | [tarunresearches@twitter](https://twitter.com/tarunresearches/status/1503636313068630018) | advertise |
+| [TarunSi7466@twitter](https://twitter.com/TarunSi7466/status/1561800411040083968) | advertise |
 | [TarunSi95532912@twitter](https://twitter.com/TarunSi95532912/status/1392912934389440512) | advertise |
 | [TashfiqShad@twitter](https://twitter.com/TashfiqShad/status/1518553851858538496) | advertise |
 | [taskmanager123@twitter](https://twitter.com/taskmanager123/status/1410979197649100801) | moral (advertise) |
