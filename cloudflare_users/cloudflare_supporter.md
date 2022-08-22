@@ -4644,6 +4644,7 @@ Do not create new issue or we will close it as duplicate.
 | [Latina65648589@twitter](https://twitter.com/Latina65648589/status/1379128051192107014) | advertise |
 | [LattminT@twitter](https://twitter.com/LattminT/status/1395096297296695299) | advertise |
 | [LattYar83488543@twitter](https://twitter.com/LattYar83488543/status/1390551081587859456) | advertise |
+| [Laucilos@twitter](https://twitter.com/Laucilos/status/1561809837725720577) | advertise |
 | [Laurabaddie800@twitter](https://twitter.com/Laurabaddie800/status/1526689167081558016) | advertise |
 | [LauriusW@twitter](https://twitter.com/LauriusW/status/1396782819817361408) | advertise |
 | [LawEhMoo2@twitter](https://twitter.com/LawEhMoo2/status/1391000091071160328) | advertise |
