@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Dynamic Imports Error in Deno Deploy](https://github.com/justinawrey/fsrouter/issues/10)
 - [CloudFlare Cloudflare Tunnel Availability Issues](https://github.com/MatBenfield/news/issues/1634)
 - [Can't login or save items, unexpected end of JSON input](https://github.com/dani-garcia/vaultwarden/issues/2702)
 - [Cloudflare looping on NHentai](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13128)
