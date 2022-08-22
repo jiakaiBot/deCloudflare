@@ -4119,6 +4119,7 @@ Do not create new issue or we will close it as duplicate.
 | [KhangG32840110@twitter](https://twitter.com/KhangG32840110/status/1378324788557479942) | advertise |
 | [Khangkh05039993@twitter](https://twitter.com/Khangkh05039993/status/1384783388305813506) | advertise |
 | [Khangkh40066889@twitter](https://twitter.com/Khangkh40066889/status/1396425002048577547) | advertise |
+| [KhangNg78869895@twitter](https://twitter.com/KhangNg78869895/status/1561645320148496384) | advertise |
 | [Khanh42393250@twitter](https://twitter.com/Khanh42393250/status/1397981656825294855) | advertise |
 | [Khanh48925509@twitter](https://twitter.com/Khanh48925509/status/1401239099223072774) | advertise |
 | [khanh66859964@twitter](https://twitter.com/khanh66859964/status/1552371656622223360) | advertise |
@@ -4240,8 +4241,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
