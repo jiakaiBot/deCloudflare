@@ -4384,7 +4384,7 @@ Here's a list of public Fediverse services.
 | divita.eu | No |
 | divnull.com | No |
 | dixies.land | No |
-| diymusic.space | Yes |
+| diymusic.space | No |
 | diytelevision.com | No |
 | dizl.de | No |
 | dizman.org | No |
@@ -19511,6 +19511,7 @@ Here's a list of public Fediverse services.
 | vibbe.xyz | No |
 | vibeogame.online | No |
 | vibeshuttle.com | No |
+| vibewave.space | No |
 | vibrant.li | No |
 | vicedomini.cloud | Yes |
 | vicentellopis.es | No |
@@ -20933,8 +20934,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,065 |
-| Normal | 16,825 |
+| Cloudflare | 4,064 |
+| Normal | 16,827 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
