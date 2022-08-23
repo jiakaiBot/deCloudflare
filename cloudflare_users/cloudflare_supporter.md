@@ -2039,6 +2039,7 @@ Do not create new issue or we will close it as duplicate.
 | [DngCa10355096@twitter](https://twitter.com/DngCa10355096/status/1558900876269346816) | advertise |
 | [DngHongHuy7@twitter](https://twitter.com/DngHongHuy7/status/1383825668815818752) | advertise |
 | [DngNgcHi16@twitter](https://twitter.com/DngNgcHi16/status/1540216059151925248) | advertise |
+| [DngQuyt15@twitter](https://twitter.com/DngQuyt15/status/1562118829324398597) | advertise |
 | [DngThunc3@twitter](https://twitter.com/DngThunc3/status/1392585261654052869) | advertise |
 | [DNguttyen@twitter](https://twitter.com/DNguttyen/status/1560532734334107653) | advertise |
 | [dninecrab@twitter](https://twitter.com/dninecrab/status/1397625512223068163) | advertise |
@@ -4088,6 +4089,7 @@ Do not create new issue or we will close it as duplicate.
 | [KeshavBP1@twitter](https://twitter.com/KeshavBP1/status/1380784361436368896) | advertise |
 | [keshavrai@twitter](https://twitter.com/keshavrai/status/1399420764885962763) | advertise |
 | [kevilhau@twitter](https://twitter.com/kevilhau/status/1381681452455108609) | advertise |
+| [Kevin46689475@twitter](https://twitter.com/Kevin46689475/status/1562144682427224066) | advertise |
 | [KevinCa23673515@twitter](https://twitter.com/KevinCa23673515/status/1515993450872819712) | advertise |
 | [kevinivander17@twitter](https://twitter.com/kevinivander17/status/1554045664769687553) | advertise |
 | [KevinMika7@twitter](https://twitter.com/KevinMika7/status/1387491734066696192) | advertise |
