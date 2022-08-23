@@ -20462,6 +20462,7 @@ Here's a list of public Fediverse services.
 | xy2.wiki | No |
 | xyag.space | No |
 | xycloud.fr | No |
+| xylinvale.space | No |
 | xyzyx.org | No |
 | xyzzy.link | No |
 | xz0.org | Yes |
@@ -20938,7 +20939,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,067 |
-| Normal | 16,827 |
+| Normal | 16,828 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
