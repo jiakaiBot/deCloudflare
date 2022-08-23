@@ -1,3 +1,4 @@
+market.yandex.ru
 www.yarok-restaurant.de
 www.yelp.de
 www.yodobashi.com
