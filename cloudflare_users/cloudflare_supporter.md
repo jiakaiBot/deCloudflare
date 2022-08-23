@@ -138,6 +138,7 @@ Do not create new issue or we will close it as duplicate.
 | [137743@twitter](https://twitter.com/137743/status/1393045054239830025) | advertise |
 | [280552f43478454@twitter](https://twitter.com/280552f43478454/status/1399573181753696256) | advertise |
 | [404091phyophyo@twitter](https://twitter.com/404091phyophyo/status/1392052650422652930) | advertise |
+| [32307403hano@twitter](https://twitter.com/32307403hano/status/1562213867593560064) | advertise |
 | [@muffinista@botsin.space](https://botsin.space/@muffinista) | Mastodon: account suspension (botsin.space) |
 | [@muffinista@cybre.space](https://cybre.space/@muffinista) | Mastodon: account suspension (botsin.space) |
 | [@tchambers@indieweb.social](https://indieweb.social/@tchambers) | Mastodon: account suspension (black cat) |
@@ -7662,6 +7663,7 @@ Do not create new issue or we will close it as duplicate.
 | [seizure_salad__@twitter](https://twitter.com/seizure_salad__/status/1394456452933242886) | advertise |
 | [SeksanKanchumn1@twitter](https://twitter.com/SeksanKanchumn1/status/1505766121525325824) | advertise |
 | [SelfAda1@twitter](https://twitter.com/SelfAda1/status/1428381024908718083) | advertise |
+| [selfhelp_ok@twitter](https://twitter.com/selfhelp_ok/status/1562212658555850752) | advertise |
 | [selyuna2@twitter](https://twitter.com/selyuna2/status/1441124684884430862) | advertise |
 | [SEMOSH13@twitter](https://twitter.com/SEMOSH13/status/1380131889999187968) | advertise |
 | [Senat_News@twitter](https://twitter.com/Senat_News/status/1400900293261410304) | advertise |
