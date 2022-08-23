@@ -1374,6 +1374,7 @@ Do not create new issue or we will close it as duplicate.
 | [buiduon51013558@twitter](https://twitter.com/buiduon51013558/status/1551952389409607681) | advertise |
 | [Buihuyh06737906@twitter](https://twitter.com/Buihuyh06737906/status/1394529016862756864) | advertise |
 | [BuilderHallLTD@twitter](https://twitter.com/BuilderHallLTD/status/1540042895843274753) | advertise |
+| [Buingocthang8@twitter](https://twitter.com/Buingocthang8/status/1562062181176610816) | advertise |
 | [BuiVanNam6365@twitter](https://twitter.com/BuiVanNam6365/status/1513903241309798403) | advertise |
 | [bui_loat@twitter](https://twitter.com/bui_loat/status/1395180660642381826) | advertise |
 | [bulguuu@twitter](https://twitter.com/bulguuu/status/1501150275868020743) | advertise |
