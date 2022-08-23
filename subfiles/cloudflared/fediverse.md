@@ -17519,7 +17519,7 @@ Here's a list of public Fediverse services.
 | suomi-kp-31.xyz | No |
 | super-famicom.com | No |
 | super-h.xyz | No |
-| super-niche.club | No |
+| super-niche.club | Yes |
 | superawesomeclub.vip | No |
 | supercomputer321.tk | No |
 | superduper.space | No |
@@ -20935,8 +20935,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,065 |
-| Normal | 16,827 |
+| Cloudflare | 4,066 |
+| Normal | 16,826 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
