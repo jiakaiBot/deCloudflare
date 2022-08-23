@@ -929,6 +929,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungZin85246702@twitter](https://twitter.com/AungZin85246702/status/1395941143179710468) | advertise |
 | [AungZin89580728@twitter](https://twitter.com/AungZin89580728/status/1390098630879498240) | advertise |
 | [AungZweMarn2@twitter](https://twitter.com/AungZweMarn2/status/1387380277547208705) | advertise |
+| [Aurk2beeS@twitter](https://twitter.com/Aurk2beeS/status/1561981490057158657) | advertise |
 | [Auroprex@twitter](https://twitter.com/Auroprex/status/1376780261560512513) | advertise |
 | [AUR_BATAO__@twitter](https://twitter.com/AUR_BATAO__/status/1396083478052040711) | advertise |
 | [austinphyo@twitter](https://twitter.com/austinphyo/status/1394898571476930560) | advertise |
@@ -5272,6 +5273,7 @@ Do not create new issue or we will close it as duplicate.
 | [mega_weartees@twitter](https://twitter.com/mega_weartees/status/1556379372159782912) | advertise |
 | [mehdihollywood1@twitter](https://twitter.com/mehdihollywood1/status/1482830204322078723) | advertise |
 | [mehedibs@twitter](https://twitter.com/mehedibs/status/1447465601509642240) | advertise |
+| [mehnatkashkisan@twitter](https://twitter.com/mehnatkashkisan/status/1561987721697996800) | advertise |
 | [MehrabH95891991@twitter](https://twitter.com/MehrabH95891991/status/1395810158475845632) | advertise |
 | [Mehrabjan123@twitter](https://twitter.com/Mehrabjan123/status/1394097749604409344) | advertise |
 | [mehran060@twitter](https://twitter.com/mehran060/status/1543887005062414337) | advertise |
