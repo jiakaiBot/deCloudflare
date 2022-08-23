@@ -8304,6 +8304,7 @@ Here's a list of public Fediverse services.
 | isnt-it.jp | No |
 | isoladellerose.social | No |
 | isometry.black | No |
+| isopod.cool | No |
 | isosceles.love | No |
 | ispark.social | No |
 | ispv-7.com | No |
@@ -8784,7 +8785,6 @@ Here's a list of public Fediverse services.
 | junkserv.net | No |
 | junna.moe | No |
 | jupiter.tube | No |
-| juro.cloud | No |
 | jussak.net | No |
 | justabit.social | No |
 | justafellow.com | No |
@@ -11088,7 +11088,7 @@ Here's a list of public Fediverse services.
 | mastodont.tk | No |
 | mastodonte.me | Yes |
 | mastodonte.org | No |
-| mastodonte.social | No |
+| mastodonte.social | Yes |
 | mastodontech.de | No |
 | mastodonten.de | No |
 | mastodontest.ga | No |
@@ -19468,6 +19468,7 @@ Here's a list of public Fediverse services.
 | vegetadon.tokyo | No |
 | vegible.club | No |
 | velhaestante.com.br | Yes |
+| velius.dev | No |
 | velma.club | No |
 | velocipederider.com | No |
 | veloma.org | No |
@@ -20938,7 +20939,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,067 |
+| Cloudflare | 4,068 |
 | Normal | 16,828 |
 
 
