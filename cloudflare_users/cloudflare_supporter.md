@@ -1510,6 +1510,7 @@ Do not create new issue or we will close it as duplicate.
 | [Charlon10033677@twitter](https://twitter.com/Charlon10033677/status/1401119173300924418) | advertise |
 | [charlyfdzf@twitter](https://twitter.com/charlyfdzf/status/1551694710732754945) | advertise |
 | [charounwat@twitter](https://twitter.com/charounwat/status/1402988531568373769) | advertise |
+| [ChatchaiKnot@twitter](https://twitter.com/ChatchaiKnot/status/1561878532543823872) | advertise |
 | [ChaudharyAkku02@twitter](https://twitter.com/ChaudharyAkku02/status/1391810649081008128) | advertise |
 | [chavengtop8272@twitter](https://twitter.com/chavengtop8272/status/1494007057892409344) | advertise |
 | [ChawSuSuKhin4@twitter](https://twitter.com/ChawSuSuKhin4/status/1486586914048151552) | advertise |
