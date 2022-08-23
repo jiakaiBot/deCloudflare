@@ -9946,6 +9946,7 @@ Do not create new issue or we will close it as duplicate.
 | [_IvanFlecha@twitter](https://twitter.com/_IvanFlecha/status/1507311637857980417) | advertise |
 | [_kanybekov@twitter](https://twitter.com/_kanybekov/status/1534247054385549313) | advertise |
 | [_kg7x@twitter](https://twitter.com/_kg7x/status/1540677251687075840) | advertise |
+| [_koijam_@twitter](https://twitter.com/_koijam_/status/1562026667870404609) | advertise |
 | [_kokt@twitter](https://twitter.com/_kokt/status/1429677155252727809) | advertise |
 | [_kuzannn@twitter](https://twitter.com/_kuzannn/status/1378391986449752067) | advertise |
 | [_M4nifest0_@twitter](https://twitter.com/_M4nifest0_/status/1395630834611281920) | advertise |
