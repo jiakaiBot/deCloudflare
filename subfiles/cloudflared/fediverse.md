@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,867 |
-| net | 1,652 |
-| social | 1,168 |
+| net | 1,653 |
+| social | 1,169 |
 | org | 1,132 |
 | de | 986 |
 
@@ -2252,6 +2252,7 @@ Here's a list of public Fediverse services.
 | botsonthego.xyz | No |
 | bottom.rs | No |
 | botwiki.org | No |
+| bougiekitty.net | Yes |
 | boui.xyz | No |
 | bounceme.net | No |
 | boundary.wtf | No |
@@ -10464,6 +10465,7 @@ Here's a list of public Fediverse services.
 | lunes.social | No |
 | lunet.org | No |
 | lunta.net | No |
+| luoghicomuni.social | No |
 | luon.net | No |
 | lupinjacket.party | No |
 | lurid.pink | No |
@@ -20935,8 +20937,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,066 |
-| Normal | 16,826 |
+| Cloudflare | 4,067 |
+| Normal | 16,827 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
