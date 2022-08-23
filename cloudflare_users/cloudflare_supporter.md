@@ -2170,6 +2170,7 @@ Do not create new issue or we will close it as duplicate.
 | [Duyke5@twitter](https://twitter.com/Duyke5/status/1388182505082155012) | advertise |
 | [Duykhan72674004@twitter](https://twitter.com/Duykhan72674004/status/1552286002219302913) | advertise |
 | [DuyKhoi680029@twitter](https://twitter.com/DuyKhoi680029/status/1516811082567852036) | advertise |
+| [DuyLuyen5@twitter](https://twitter.com/DuyLuyen5/status/1562075735770427393) | advertise |
 | [DuyNguy87645607@twitter](https://twitter.com/DuyNguy87645607/status/1399734268423639050) | advertise |
 | [Duynkim8@twitter](https://twitter.com/Duynkim8/status/1408479143067459584) | advertise |
 | [DuyThnh23103428@twitter](https://twitter.com/DuyThnh23103428/status/1515883211372769280) | advertise |
@@ -7409,6 +7410,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rupesh69314329@twitter](https://twitter.com/Rupesh69314329/status/1484841043363131393) | advertise |
 | [RUPopular@twitter](https://twitter.com/RUPopular/status/1561430692134719488) | advertise |
 | [rurq_official@twitter](https://twitter.com/rurq_official/status/1477737272132915201) | advertise |
+| [RushGam79575096@twitter](https://twitter.com/RushGam79575096/status/1562070681008865280) | advertise |
 | [Rushike85904039@twitter](https://twitter.com/Rushike85904039/status/1381637780657168384) | advertise |
 | [rushimovaliya@twitter](https://twitter.com/rushimovaliya/status/1400114095857094659) | advertise |
 | [ruslan_ferrales@twitter](https://twitter.com/ruslan_ferrales/status/1450044589293834242) | advertise |
@@ -9212,6 +9214,7 @@ Do not create new issue or we will close it as duplicate.
 | [VnLc48599484@twitter](https://twitter.com/VnLc48599484/status/1400390004984016899) | advertise |
 | [VnManucian@twitter](https://twitter.com/VnManucian/status/1519366337750921216) | advertise |
 | [VnPhi94354953@twitter](https://twitter.com/VnPhi94354953/status/1501922833395445762) | advertise |
+| [vnsntrn15@twitter](https://twitter.com/vnsntrn15/status/1562074302203428864) | advertise |
 | [VNSPnet@twitter](https://twitter.com/VNSPnet/status/1388806930890592258) | advertise |
 | [VnTnh53728960@twitter](https://twitter.com/VnTnh53728960/status/1378052859594383363) | advertise |
 | [VN_Ricefield@twitter](https://twitter.com/VN_Ricefield/status/1387816206636240897) | advertise |
