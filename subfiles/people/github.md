@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Unable to remove the last link of the maintenance](https://github.com/Azuriom/Azuriom/issues/204)
 - [beatbump.ml not working](https://github.com/snuffyDev/Beatbump/issues/95)
 - [Issue with decodingStrategy Base64](https://github.com/external-secrets/external-secrets/issues/1486)
 - [Prima Scans: Failed to bypass CloudFlare](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13152)
