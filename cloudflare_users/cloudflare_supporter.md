@@ -3462,6 +3462,7 @@ Do not create new issue or we will close it as duplicate.
 | [im_daisy95@twitter](https://twitter.com/im_daisy95/status/1399945229822615553) | advertise |
 | [im_kris_0605@twitter](https://twitter.com/im_kris_0605/status/1528677147606405120) | advertise |
 | [im_Waseem_@twitter](https://twitter.com/im_Waseem_/status/1397220155927715842) | advertise |
+| [im___dustin@twitter](https://twitter.com/im___dustin/status/1562090263069458432) | advertise |
 | [inainjan@twitter](https://twitter.com/inainjan/status/1467839890289217545) | advertise |
 | [inaniien@twitter](https://twitter.com/inaniien/status/1398798075980914690) | advertise |
 | [inayamahum1@twitter](https://twitter.com/inayamahum1/status/1391876058496917504) | advertise |
@@ -7337,6 +7338,7 @@ Do not create new issue or we will close it as duplicate.
 | [rockcockberry@twitter](https://twitter.com/rockcockberry/status/1556199648766746624) | advertise |
 | [Rocker30548919@twitter](https://twitter.com/Rocker30548919/status/1393113573866582018) | advertise |
 | [rocketdotnet@twitter](https://twitter.com/rocketdotnet/status/1379017458611322884) | advertise |
+| [rockmetaljunkie@twitter](https://twitter.com/rockmetaljunkie/status/1562089198412337152) | advertise |
 | [Rodritwm_@twitter](https://twitter.com/Rodritwm_/status/1540411404548800513) | advertise |
 | [rogeriotaques@twitter](https://twitter.com/rogeriotaques/status/1522109600128184321) | advertise |
 | [rogerluu18@twitter](https://twitter.com/rogerluu18/status/1475137433498832899) | advertise |
