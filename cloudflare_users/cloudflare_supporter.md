@@ -1243,6 +1243,7 @@ Do not create new issue or we will close it as duplicate.
 | [blxxdyii@twitter](https://twitter.com/blxxdyii/status/1543838705198440448) | advertise |
 | [BMoRe410_2k@twitter](https://twitter.com/BMoRe410_2k/status/1502623013346463744) | advertise |
 | [bmth_gfy@twitter](https://twitter.com/bmth_gfy/status/1533867458246885376) | advertise |
+| [bnfyqsge@twitter](https://twitter.com/bnfyqsge/status/1561898244598538240) | advertise |
 | [BngB14570107@twitter](https://twitter.com/BngB14570107/status/1555480171494313987) | advertise |
 | [bngng1_ngc@twitter](https://twitter.com/bngng1_ngc/status/1553051695256838144) | advertise |
 | [Bngock5@twitter](https://twitter.com/Bngock5/status/1382020407981535234) | advertise |
@@ -7963,6 +7964,7 @@ Do not create new issue or we will close it as duplicate.
 | [solucionesdcmx@twitter](https://twitter.com/solucionesdcmx/status/1437832776573759492) | advertise |
 | [solusitugas_@twitter](https://twitter.com/solusitugas_/status/1391787503791656962) | advertise |
 | [somaiehvahid@twitter](https://twitter.com/somaiehvahid/status/1389592978394603523) | advertise |
+| [Someone78471691@twitter](https://twitter.com/Someone78471691/status/1561895328793501698) | advertise |
 | [somnus1514@twitter](https://twitter.com/somnus1514/status/1379008668381798401) | advertise |
 | [SonDaughter11@twitter](https://twitter.com/SonDaughter11/status/1547396683482681344) | advertise |
 | [soneric790@twitter](https://twitter.com/soneric790/status/1497576082538651652) | advertise |
@@ -8364,6 +8366,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thanhnhan671@twitter](https://twitter.com/Thanhnhan671/status/1502252142484078594) | advertise |
 | [ThanhPh44294737@twitter](https://twitter.com/ThanhPh44294737/status/1383122715314249733) | advertise |
 | [thanhphan012@twitter](https://twitter.com/thanhphan012/status/1402846567653019652) | advertise |
+| [thanhpolimi@twitter](https://twitter.com/thanhpolimi/status/1561884293613248513) | advertise |
 | [Thanhsa70320755@twitter](https://twitter.com/Thanhsa70320755/status/1402283537303162887) | advertise |
 | [ThanhSn73723394@twitter](https://twitter.com/ThanhSn73723394/status/1500351728549773313) | advertise |
 | [ThanhT45620763@twitter](https://twitter.com/ThanhT45620763/status/1395078115488014338) | advertise |
