@@ -1072,6 +1072,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bappiro79553221@twitter](https://twitter.com/Bappiro79553221/status/1401836385695277060) | advertise |
 | [bappyrayhan@twitter](https://twitter.com/bappyrayhan/status/1478396344834342913) | advertise |
 | [BARAAm25277051@twitter](https://twitter.com/BARAAm25277051/status/1551178913317093377) | advertise |
+| [BaranBayden@twitter](https://twitter.com/BaranBayden/status/1562138279885012995) | advertise |
 | [barbadoslive@twitter](https://twitter.com/barbadoslive/status/1370835424571179012) | advertise |
 | [barbooviolet@twitter](https://twitter.com/barbooviolet/status/1495203666000683010) | advertise |
 | [Barryalpha191@twitter](https://twitter.com/Barryalpha191/status/1501295856049217538) | advertise |
