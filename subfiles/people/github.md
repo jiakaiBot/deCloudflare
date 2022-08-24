@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Website is down](https://github.com/opencollective/opencollective/issues/5897)
+- [Cypress download fails with a 530 error](https://github.com/cypress-io/cypress/issues/23527)
 - [Unable to remove the last link of the maintenance](https://github.com/Azuriom/Azuriom/issues/204)
 - [beatbump.ml not working](https://github.com/snuffyDev/Beatbump/issues/95)
 - [Issue with decodingStrategy Base64](https://github.com/external-secrets/external-secrets/issues/1486)
