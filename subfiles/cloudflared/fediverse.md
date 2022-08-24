@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,867 |
+| com | 2,868 |
 | net | 1,654 |
 | social | 1,169 |
 | org | 1,132 |
@@ -892,7 +892,7 @@ Here's a list of public Fediverse services.
 | anarchmusicall.net | No |
 | anarchy.moe | No |
 | anarchy.rocks | No |
-| anarchy.social | Yes |
+| anarchy.social | No |
 | anarchy.tech | No |
 | anarchy.tube | No |
 | anarchy.video | No |
@@ -9684,6 +9684,7 @@ Here's a list of public Fediverse services.
 | lapy.link | Yes |
 | larand.net | No |
 | lardbucket.org | No |
+| larkspur.one | No |
 | larlet.fr | No |
 | larmefamily.com | No |
 | larrybeck.net | No |
@@ -15204,6 +15205,7 @@ Here's a list of public Fediverse services.
 | racing-lagoon.info | No |
 | raconteur.ink | No |
 | radbox.org | No |
+| radiate038.com | Yes |
 | radical.town | No |
 | radicalityincident.com | No |
 | radicalnetworks.org | No |
@@ -18888,6 +18890,7 @@ Here's a list of public Fediverse services.
 | tsukuyomi.dev | Yes |
 | tsun.co | No |
 | tsunanmstdn.jp | No |
+| tsunde.ru | No |
 | tsundere.co | No |
 | tsunix.de | No |
 | tsurai.jp | Yes |
@@ -20175,7 +20178,7 @@ Here's a list of public Fediverse services.
 | worst-friends.chat | Yes |
 | wos.la | Yes |
 | wovensoup.com | No |
-| wovs.tk | No |
+| wovs.tk | Yes |
 | wowana.me | No |
 | wowsdon.xyz | No |
 | wp-social.net | No |
@@ -20943,8 +20946,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,069 |
-| Normal | 16,831 |
+| Cloudflare | 4,070 |
+| Normal | 16,833 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
