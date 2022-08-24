@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,868 |
+| com | 2,871 |
 | net | 1,654 |
 | social | 1,169 |
 | org | 1,132 |
@@ -7321,6 +7321,7 @@ Here's a list of public Fediverse services.
 | heiki-hecchara.net | No |
 | heim-server.de | No |
 | heim.sh | No |
+| heimann13.com | Yes |
 | heine.xyz | No |
 | heinz.cloud | Yes |
 | heio.co | No |
@@ -8636,6 +8637,7 @@ Here's a list of public Fediverse services.
 | jockstrap.futbol | No |
 | jodh.us | No |
 | joe.app | Yes |
+| joebuhlig.com | Yes |
 | joeforrest.com | No |
 | joeinn.es | Yes |
 | joel-smolski.com | No |
@@ -12898,6 +12900,7 @@ Here's a list of public Fediverse services.
 | ninjaturtle.xyz | No |
 | ninjawedding.org | No |
 | nintendojo.fr | No |
+| ninthgate.us | No |
 | nioncapul.net | No |
 | nipahchan.co | No |
 | nipponalba.scot | No |
@@ -13817,6 +13820,7 @@ Here's a list of public Fediverse services.
 | ovo.blue | No |
 | ovo.st | Yes |
 | owari.nl | No |
+| owlcode.tech | No |
 | owlparliament.com | No |
 | owlper.ch | No |
 | owls.io | No |
@@ -18309,6 +18313,7 @@ Here's a list of public Fediverse services.
 | thilobuchholz.de | No |
 | thinaticsystem.com | Yes |
 | thing-averse.com | No |
+| thingsandcode.com | No |
 | thinkers.ac | No |
 | thinkerview.com | Yes |
 | thinkerview.video | No |
@@ -20946,8 +20951,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,070 |
-| Normal | 16,833 |
+| Cloudflare | 4,072 |
+| Normal | 16,836 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
