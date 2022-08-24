@@ -4255,8 +4255,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5864,6 +5864,7 @@ Do not create new issue or we will close it as duplicate.
 | [n49568234@twitter](https://twitter.com/n49568234/status/1556292421184811009) | advertise |
 | [NAABIL49027157@twitter](https://twitter.com/NAABIL49027157/status/1387326620009074692) | advertise |
 | [naamloser@twitter](https://twitter.com/naamloser/status/1503867812963569666) | advertise |
+| [nabin_ss@twitter](https://twitter.com/nabin_ss/status/1562381057974214657) | advertise |
 | [nadiralshaikhly@twitter](https://twitter.com/nadiralshaikhly/status/1554010246917521408) | advertise |
 | [nadi_saint@twitter](https://twitter.com/nadi_saint/status/1396088469584105476) | advertise |
 | [NafisMuzafar@twitter](https://twitter.com/NafisMuzafar/status/1531926492334022656) | advertise |
