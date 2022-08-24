@@ -4702,6 +4702,7 @@ Do not create new issue or we will close it as duplicate.
 | [Leeee66738181@twitter](https://twitter.com/Leeee66738181/status/1389883298063683587) | advertise |
 | [LeeJuMin8@twitter](https://twitter.com/LeeJuMin8/status/1407585008991182851) | advertise |
 | [leemetme@twitter](https://twitter.com/leemetme/status/1390042332947431428) | advertise |
+| [leenick313@twitter](https://twitter.com/leenick313/status/1562402052566913024) | advertise |
 | [Leesiral@twitter](https://twitter.com/Leesiral/status/1492025708822077441) | advertise |
 | [LeeToan29@twitter](https://twitter.com/LeeToan29/status/1402299334545207299) | advertise |
 | [Lee__12@twitter](https://twitter.com/Lee__12/status/1393279848462884865) | advertise |
