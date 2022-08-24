@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [addon not work](https://github.com/brenner-tobias/ha-addons/issues/4)
 - [canot serve example](https://github.com/skymethod/denoflare/issues/25)
 - [Website is down](https://github.com/opencollective/opencollective/issues/5897)
 - [Cypress download fails with a 530 error](https://github.com/cypress-io/cypress/issues/23527)
