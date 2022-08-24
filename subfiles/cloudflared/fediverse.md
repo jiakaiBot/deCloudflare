@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,867 |
-| net | 1,653 |
+| net | 1,654 |
 | social | 1,169 |
 | org | 1,132 |
 | de | 986 |
@@ -8946,6 +8946,7 @@ Here's a list of public Fediverse services.
 | kaptains.net | No |
 | kapuluan.link | No |
 | kapussinettes.ovh | No |
+| kaputt.cloud | No |
 | kar.ly | Yes |
 | karab.in | Yes |
 | karagedon.com | Yes |
@@ -9199,6 +9200,7 @@ Here's a list of public Fediverse services.
 | kiritan.work | Yes |
 | kirja.casa | No |
 | kirkmanskorner.com | No |
+| kirota.net | No |
 | kirstenmalzwei.de | No |
 | kiru.fun | No |
 | kisaan.social | Yes |
@@ -16125,6 +16127,7 @@ Here's a list of public Fediverse services.
 | sbnode.com | Yes |
 | sbpk.fr | Yes |
 | sbrk.org | No |
+| sbruder.xyz | No |
 | sbstnjnsn.se | No |
 | sbud.tk | No |
 | sbw.org | No |
@@ -18854,6 +18857,7 @@ Here's a list of public Fediverse services.
 | truthsocial.co.in | No |
 | truthsocial.st | No |
 | truthsocialpro.org | No |
+| trutube.online | Yes |
 | trutz.social | No |
 | truxton.com | No |
 | trwnh.com | Yes |
@@ -20939,8 +20943,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,068 |
-| Normal | 16,828 |
+| Cloudflare | 4,069 |
+| Normal | 16,831 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
