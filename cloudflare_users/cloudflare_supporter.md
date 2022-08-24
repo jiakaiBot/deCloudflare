@@ -627,6 +627,7 @@ Do not create new issue or we will close it as duplicate.
 | [AntTheHien@twitter](https://twitter.com/AntTheHien/status/1552976865744547840) | advertise |
 | [anuj78203509@twitter](https://twitter.com/anuj78203509/status/1392001208076754947) | advertise |
 | [anumula_keerthi@twitter](https://twitter.com/anumula_keerthi/status/1404327455708487680) | advertise |
+| [anupamchaudhury@twitter](https://twitter.com/anupamchaudhury/status/1562317613371252736) | advertise |
 | [Anurudd46531427@twitter](https://twitter.com/Anurudd46531427/status/1397831327127199744) | advertise |
 | [anushka_wije@twitter](https://twitter.com/anushka_wije/status/1370919655980691461) | advertise |
 | [anusuyashetty12@twitter](https://twitter.com/anusuyashetty12/status/1386658904491261956) | advertise |
