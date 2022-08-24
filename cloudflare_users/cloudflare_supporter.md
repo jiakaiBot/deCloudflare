@@ -4255,8 +4255,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -4681,6 +4681,7 @@ Do not create new issue or we will close it as duplicate.
 | [lcan7920@twitter](https://twitter.com/lcan7920/status/1497478955905187841) | advertise |
 | [lcanfvckingtell@twitter](https://twitter.com/lcanfvckingtell/status/1549387429265670147) | advertise |
 | [lcavallaro91@twitter](https://twitter.com/lcavallaro91/status/1448364966403354633) | advertise |
+| [LCmagnate@twitter](https://twitter.com/LCmagnate/status/1562347290123276288) | advertise |
 | [lcng81667098@twitter](https://twitter.com/lcng81667098/status/1552579584423387136) | advertise |
 | [LcNgha41680984@twitter](https://twitter.com/LcNgha41680984/status/1553827950281498624) | advertise |
 | [Lcngt13@twitter](https://twitter.com/Lcngt13/status/1403354053824815106) | advertise |
@@ -9560,6 +9561,7 @@ Do not create new issue or we will close it as duplicate.
 | [yangonhandsome1@twitter](https://twitter.com/yangonhandsome1/status/1508097792879001607) | advertise |
 | [YangonT85145334@twitter](https://twitter.com/YangonT85145334/status/1391119988535160833) | advertise |
 | [YanGyiA95706373@twitter](https://twitter.com/YanGyiA95706373/status/1392032366386888707) | advertise |
+| [yangyilong1@twitter](https://twitter.com/yangyilong1/status/1562351233427730432) | advertise |
 | [YanKin43817369@twitter](https://twitter.com/YanKin43817369/status/1407575241094692866) | advertise |
 | [YanKyawLinn4@twitter](https://twitter.com/YanKyawLinn4/status/1391812129297113088) | advertise |
 | [YanLinA62279617@twitter](https://twitter.com/YanLinA62279617/status/1397831869509431301) | advertise |
