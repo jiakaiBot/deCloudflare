@@ -455,6 +455,7 @@ Do not create new issue or we will close it as duplicate.
 | [ali__haidaricr7@twitter](https://twitter.com/ali__haidaricr7/status/1390791981010460673) | advertise |
 | [AllanMartin@twitter](https://twitter.com/AllanMartin/status/1399519289372295168) | advertise |
 | [AllChanh@twitter](https://twitter.com/AllChanh/status/1548735355100491777) | advertise |
+| [ALLENDG2@twitter](https://twitter.com/ALLENDG2/status/1562788568044474369) | advertise |
 | [allindialeads@twitter](https://twitter.com/allindialeads/status/1487816693346824194) | advertise |
 | [Allis98048947@twitter](https://twitter.com/Allis98048947/status/1396348863519371272) | advertise |
 | [AlmakLimited@twitter](https://twitter.com/AlmakLimited/status/1400534263007678464) | advertise |
@@ -7729,6 +7730,7 @@ Do not create new issue or we will close it as duplicate.
 | [shahwal6012@twitter](https://twitter.com/shahwal6012/status/1401074558828826625) | advertise |
 | [Shahzai38914950@twitter](https://twitter.com/Shahzai38914950/status/1531784993311178753) | advertise |
 | [Shah_man83@twitter](https://twitter.com/Shah_man83/status/1381646041498329088) | advertise |
+| [ShaidaFarizaa@twitter](https://twitter.com/ShaidaFarizaa/status/1562785781953208326) | advertise |
 | [shailas317@twitter](https://twitter.com/shailas317/status/1398393908044845057) | advertise |
 | [Shakeel49597876@twitter](https://twitter.com/Shakeel49597876/status/1561381372626739200) | advertise |
 | [Shakiba34613353@twitter](https://twitter.com/Shakiba34613353/status/1530881904714878976) | advertise |
@@ -9412,6 +9414,7 @@ Do not create new issue or we will close it as duplicate.
 | [win4_zin@twitter](https://twitter.com/win4_zin/status/1385173217396940806) | advertise |
 | [win55818@twitter](https://twitter.com/win55818/status/1398542432480886787) | advertise |
 | [WinBo30180694@twitter](https://twitter.com/WinBo30180694/status/1390247886076579840) | advertise |
+| [WinBo67205922@twitter](https://twitter.com/WinBo67205922/status/1562785250656210944) | advertise |
 | [WinchWebsites@twitter](https://twitter.com/WinchWebsites/status/1440532786725605386) | advertise |
 | [Windsta71121727@twitter](https://twitter.com/Windsta71121727/status/1505823044954173441) | advertise |
 | [windyhen@twitter](https://twitter.com/windyhen/status/1389081253962338309) | advertise |
