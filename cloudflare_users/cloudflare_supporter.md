@@ -4259,8 +4259,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6073,6 +6073,7 @@ Do not create new issue or we will close it as duplicate.
 | [NextAds1@twitter](https://twitter.com/NextAds1/status/1555508312602722304) | advertise |
 | [NFTsMintMarket@twitter](https://twitter.com/NFTsMintMarket/status/1508599297839104003) | advertise |
 | [nftsrt@twitter](https://twitter.com/nftsrt/status/1472866208814964740) | advertise |
+| [ng19995@twitter](https://twitter.com/ng19995/status/1562750933624565766) | advertise |
 | [Ng17137539@twitter](https://twitter.com/Ng17137539/status/1391247431531077636) | advertise |
 | [ng57176180@twitter](https://twitter.com/ng57176180/status/1540245706174124032) | advertise |
 | [NgaHtwe2@twitter](https://twitter.com/NgaHtwe2/status/1389454383495135233) | advertise |
