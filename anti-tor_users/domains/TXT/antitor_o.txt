@@ -1,4 +1,5 @@
 digitalcommons.odu.edu
+git.openwrt.org
 invidious.osi.kr
 library.oapen.org
 oasisgrill.com
@@ -6,6 +7,8 @@ orindaoptometrygroup.com
 outorah.org
 results.okelections.us
 www.oaklandiacafe.com
+www.oculus.com
+www.oneindia.com
 www.origin.com
 www.ortho-docs-berlin.de
 www.osteria-caruso.de
