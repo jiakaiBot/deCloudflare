@@ -4619,6 +4619,7 @@ Do not create new issue or we will close it as duplicate.
 | [k_sophos@twitter](https://twitter.com/k_sophos/status/1532337285387239425) | advertise |
 | [L0Sekly@twitter](https://twitter.com/L0Sekly/status/1404786602367340548) | advertise |
 | [L3h3trDwkpgDolm@twitter](https://twitter.com/L3h3trDwkpgDolm/status/1392118903644430347) | advertise |
+| [L19Nhn@twitter](https://twitter.com/L19Nhn/status/1562861888387444736) | advertise |
 | [L29kZkGeFkfoZZH@twitter](https://twitter.com/L29kZkGeFkfoZZH/status/1389853508170518532) | advertise |
 | [labdolabo@twitter](https://twitter.com/labdolabo/status/1399564849328312325) | advertise |
 | [Labongze_@twitter](https://twitter.com/Labongze_/status/1401586761776652295) | advertise |
