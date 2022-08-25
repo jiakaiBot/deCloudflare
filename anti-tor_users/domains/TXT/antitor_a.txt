@@ -1,5 +1,6 @@
 abcnews4.com
 abracada.net
+abrasushotel.jp
 acrna.org
 adeptpromotions.com.au
 adi.com.ng
@@ -22,16 +23,22 @@ ariseplus.asean.org
 arkon-pflegedienst.de
 arthritistreatment.one
 auditny.com
+aus-wealth.com.au
+axisofeasy.com
 azthuoc.com
 bulletin.accurateshooter.com
 docs.aws.amazon.com
 learnsecurity.amazon.com
+motor-elpais-com.cdn.ampproject.org
 newsable.asianetnews.com
 notes.ahaelse.com
 polaroid.absturztau.be
+tribune-com-pk.cdn.ampproject.org
 tuxbot.andre-ani.fr
 www.a-legend.net
 www.abandonedamerica.us
+www.abc4.com
+www.achgut.com
 www.acro.eu.org
 www.addonbiz.com
 www.afnic.fr
@@ -43,6 +50,7 @@ www.aljazeera.com
 www.alldente.de
 www.amicusint.ca
 www.amorino.com
+www.amtrak.com
 www.anonyme-alkoholiker.de
 www.aquaswitch.co.uk
 www.arabianbusiness.com
@@ -51,6 +59,7 @@ www.argos.co.uk
 www.army.mil
 www.articletab.com
 www.as-web.jp
+www.atari65xe.com
 www.atlantapd.org
 www.augenarzt-berlin-tempelhof.de
 yt.artemislena.eu
