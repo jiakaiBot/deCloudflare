@@ -7951,6 +7951,7 @@ Here's a list of public Fediverse services.
 | ikbenpiraat.nl | No |
 | ikebuku.ro | Yes |
 | ikeji.ma | No |
+| ikx.kr | Yes |
 | ilbro.com | Yes |
 | ilchub.net | Yes |
 | ilex.nagoya | No |
@@ -15492,6 +15493,7 @@ Here's a list of public Fediverse services.
 | rekt.app | No |
 | relay.soy | No |
 | relaychat.party | No |
+| relict.space | No |
 | remark.as | No |
 | remarkably.social | Yes |
 | remben.ch | No |
@@ -20957,8 +20959,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,076 |
-| Normal | 16,838 |
+| Cloudflare | 4,077 |
+| Normal | 16,839 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
