@@ -1,8 +1,10 @@
 colonelcassad-livejournal-com.translate.goog
 fakty.tvn24.pl
 gironanoticies-com.translate.goog
+istories-media.translate.goog
 katehon-com.translate.goog
 m.timesofindia.com
+tajgold.net
 techthing.co.uk
 techuseof.com
 teideninfo.tepco.co.jp
@@ -11,6 +13,7 @@ texteundtee.at
 tflcar.com
 thebristolcable.org
 thecryptoinn.com
+thefederal.com
 thegloriousamerican.com
 thenewamerican.com
 thetrustblog.com
@@ -20,14 +23,17 @@ tiki.vn
 tinybellbernedoodle.com
 toio.io
 toobnix.org
+toptenha.com
 tortoiseshome.com
 toyota.jp
 tramhoa.com
 tre.tbe.taleo.net
+trikooba.es
 ts-ket.com
 ttholdings.vn
 turnto10.com
 tvn24.pl
+verdadeufo-com-br.translate.goog
 www-computer--museum-ru.translate.goog
 www-kommersant-ru.translate.goog
 www-lalibre-be.translate.goog
@@ -40,8 +46,11 @@ www.tampafp.com
 www.tcichemicals.com
 www.thebeachacademy.com
 www.thebeaverton.com
+www.thecentersquare.com
 www.thekitchn.com
+www.thelancasterpatriot.com
 www.themailonline.co
+www.thenewstribune.com
 www.thepacker.com
 www.theroar.com.au
 www.thespruceeats.com
@@ -53,6 +62,7 @@ www.tokyodisneyresort.jp
 www.torchsec.org
 www.toronto.ca
 www.totalwine.com
+www.traxsource.com
 www.treehugger.com
 www.tri-cityherald.com
 www.tripleedenresort.com
