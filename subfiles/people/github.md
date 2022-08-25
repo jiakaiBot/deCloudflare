@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Discussion What middleware do you want?](https://github.com/honojs/hono/issues/482)
 - [The bucket has been removed ?](https://github.com/pulumiverse/pulumi-scaleway/issues/117)
 - [addon not work](https://github.com/brenner-tobias/ha-addons/issues/4)
 - [canot serve example](https://github.com/skymethod/denoflare/issues/25)
