@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,871 |
+| com | 2,872 |
 | net | 1,654 |
-| social | 1,169 |
+| social | 1,170 |
 | org | 1,132 |
 | de | 986 |
 
@@ -3377,6 +3377,7 @@ Here's a list of public Fediverse services.
 | coopermatt.com | No |
 | cooperserver.com | No |
 | coopey.eu | No |
+| coopey.me | No |
 | cooplibretec.com | No |
 | cooponscitech.in | No |
 | coord-e.dev | Yes |
@@ -7391,6 +7392,7 @@ Here's a list of public Fediverse services.
 | herballemon.com | No |
 | herbimarquez.com | No |
 | herbstschild.de | No |
+| hercsi.com | No |
 | herds.eu | No |
 | here.blue | No |
 | herebedragons.io | Yes |
@@ -12557,6 +12559,7 @@ Here's a list of public Fediverse services.
 | nebbia.fail | No |
 | nebula.moe | Yes |
 | necessarius.church | No |
+| neckarwie.se | No |
 | neckbeard.xyz | No |
 | necomi.co | No |
 | necronomic.online | No |
@@ -19193,6 +19196,7 @@ Here's a list of public Fediverse services.
 | ungenreasoi.com | No |
 | ungleich.ch | No |
 | ungovernavl.org | No |
+| ungoverned.social | Yes |
 | ungzeit.de | No |
 | uni-corn.me | Yes |
 | uni-hamburg.de | No |
@@ -20951,8 +20955,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,072 |
-| Normal | 16,836 |
+| Cloudflare | 4,073 |
+| Normal | 16,839 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
