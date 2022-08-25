@@ -5461,6 +5461,7 @@ Here's a list of public Fediverse services.
 | fearisfreedom.com | No |
 | fearness.org | No |
 | feather.city | Yes |
+| feather.onl | No |
 | feathers.link | No |
 | featyre.xyz | Yes |
 | fed.im | No |
@@ -18618,7 +18619,7 @@ Here's a list of public Fediverse services.
 | toot.site | Yes |
 | toot.social | Yes |
 | toot.style | No |
-| toot.su | No |
+| toot.su | Yes |
 | toot.tools | No |
 | toot.town | No |
 | toot.wales | No |
@@ -20955,7 +20956,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,073 |
+| Cloudflare | 4,074 |
 | Normal | 16,839 |
 
 
