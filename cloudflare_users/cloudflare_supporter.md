@@ -8110,6 +8110,7 @@ Do not create new issue or we will close it as duplicate.
 | [SUDHEESHBABUB1@twitter](https://twitter.com/SUDHEESHBABUB1/status/1388822341925363715) | advertise |
 | [SueSi31355105@twitter](https://twitter.com/SueSi31355105/status/1393366883185750019) | advertise |
 | [SueSuarch@twitter](https://twitter.com/SueSuarch/status/1392509364955648007) | advertise |
+| [sugar79009613@twitter](https://twitter.com/sugar79009613/status/1562844475981848578) | advertise |
 | [sugarda77547039@twitter](https://twitter.com/sugarda77547039/status/1385621172327387136) | advertise |
 | [SugengTigefa@twitter](https://twitter.com/SugengTigefa/status/1543484668170735616) | advertise |
 | [sugengwawa@twitter](https://twitter.com/sugengwawa/status/1395032415744135168) | advertise |
@@ -8215,6 +8216,7 @@ Do not create new issue or we will close it as duplicate.
 | [szexmanias0@twitter](https://twitter.com/szexmanias0/status/1510886009499697159) | advertise |
 | [T2ikJpl7nVsB4AN@twitter](https://twitter.com/T2ikJpl7nVsB4AN/status/1548789731005124608) | advertise |
 | [T31543226@twitter](https://twitter.com/T31543226/status/1524287509496168448) | advertise |
+| [t78338238@twitter](https://twitter.com/t78338238/status/1562835572728950784) | advertise |
 | [T83532576@twitter](https://twitter.com/T83532576/status/1398708012445962247) | advertise |
 | [ta89151567@twitter](https://twitter.com/ta89151567/status/1502756006052380678) | advertise |
 | [TachaOfficial@twitter](https://twitter.com/TachaOfficial/status/1401122102476947458) | advertise |
@@ -9493,6 +9495,7 @@ Do not create new issue or we will close it as duplicate.
 | [XavierR11304483@twitter](https://twitter.com/XavierR11304483/status/1526014106511319042) | advertise |
 | [xbdm_@twitter](https://twitter.com/xbdm_/status/1471004561791987715) | advertise |
 | [xbiginfo@twitter](https://twitter.com/xbiginfo/status/1534249092406181893) | advertise |
+| [Xboy2020G@twitter](https://twitter.com/Xboy2020G/status/1562838276586713089) | advertise |
 | [XCHAME_@twitter](https://twitter.com/XCHAME_/status/1531110785178804224) | advertise |
 | [Xcite27177012@twitter](https://twitter.com/Xcite27177012/status/1399383013616615424) | advertise |
 | [xcvty9@twitter](https://twitter.com/xcvty9/status/1386351924807495682) | advertise |
