@@ -987,6 +987,7 @@ Do not create new issue or we will close it as duplicate.
 | [AymanAlasri@twitter](https://twitter.com/AymanAlasri/status/1412577314324586500) | moral (advertise) |
 | [Ayman_A_Moaty@twitter](https://twitter.com/Ayman_A_Moaty/status/1467791359272796163) | advertise |
 | [Aymen02497621@twitter](https://twitter.com/Aymen02497621/status/1399714363494256641) | advertise |
+| [aymen44089778@twitter](https://twitter.com/aymen44089778/status/1562933352709111808) | advertise |
 | [AYOE59667058@twitter](https://twitter.com/AYOE59667058/status/1390252205052076033) | advertise |
 | [AYOKUNLE_05@twitter](https://twitter.com/AYOKUNLE_05/status/1546591178908475397) | advertise |
 | [AyoubAh78106215@twitter](https://twitter.com/AyoubAh78106215/status/1404756207080861696) | advertise |
@@ -3965,6 +3966,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kamonwa60790729@twitter](https://twitter.com/Kamonwa60790729/status/1539934773736804352) | advertise |
 | [kanaan94901823@twitter](https://twitter.com/kanaan94901823/status/1377247977803251712) | advertise |
 | [Kanadeebkk@twitter](https://twitter.com/Kanadeebkk/status/1556930987862654976) | advertise |
+| [KananBank@twitter](https://twitter.com/KananBank/status/1562931477092118531) | advertise |
 | [Kanchan36627193@twitter](https://twitter.com/Kanchan36627193/status/1527031188317417472) | advertise |
 | [Kane09375517@twitter](https://twitter.com/Kane09375517/status/1379837150208782336) | advertise |
 | [Kaneki4101@twitter](https://twitter.com/Kaneki4101/status/1503382721556623364) | advertise |
