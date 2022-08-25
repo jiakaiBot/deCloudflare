@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [1337x (testing) Exception (1337x): The cookies provided by FlareSolverr are not valid: The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/481)
 - [Error getting validation daa: 400 invalid](https://github.com/w2c/letsencrypt-esxi/issues/1)
 - [Error vaultwarden::api::adminERROR Invalid admin token.](https://github.com/dani-garcia/vaultwarden/issues/2708)
 - [Discussion What middleware do you want?](https://github.com/honojs/hono/issues/482)
