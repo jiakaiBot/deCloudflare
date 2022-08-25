@@ -3252,7 +3252,7 @@ Here's a list of public Fediverse services.
 | colorfur.com | No |
 | colorid.es | Yes |
 | colson.re | No |
-| com.de | No |
+| com.de | Yes |
 | comam.es | No |
 | combatbahai.com | No |
 | combiner.team | No |
@@ -10017,6 +10017,7 @@ Here's a list of public Fediverse services.
 | libretic.fr | No |
 | libretooth.gr | No |
 | libretube.org | No |
+| libretube.ru | No |
 | libretux.com | No |
 | libreyate.org | No |
 | librezone.org | No |
@@ -10504,7 +10505,7 @@ Here's a list of public Fediverse services.
 | lxf.by | No |
 | lxp-srvr.xyz | Yes |
 | lxsameer.com | Yes |
-| lycee-experimental.org | No |
+| lycee-experimental.org | Yes |
 | lyceeconnecte.fr | No |
 | lydi.as | No |
 | lyker.jp | Yes |
@@ -20956,8 +20957,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,074 |
-| Normal | 16,839 |
+| Cloudflare | 4,076 |
+| Normal | 16,838 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
