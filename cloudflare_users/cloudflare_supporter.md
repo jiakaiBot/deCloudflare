@@ -8351,6 +8351,7 @@ Do not create new issue or we will close it as duplicate.
 | [TForestpolice@twitter](https://twitter.com/TForestpolice/status/1400545801324146689) | advertise |
 | [tf_respect@twitter](https://twitter.com/tf_respect/status/1544060233512779778) | advertise |
 | [tgah161@twitter](https://twitter.com/tgah161/status/1386024837819207680) | advertise |
+| [tgbskt@twitter](https://twitter.com/tgbskt/status/1563072250206556160) | advertise |
 | [tgunr@twitter](https://twitter.com/tgunr/status/1411621018691584002) | moral (advertise) |
 | [TH98989@twitter](https://twitter.com/TH98989/status/1393745686877937668) | advertise |
 | [th28800712@twitter](https://twitter.com/th28800712/status/1560535685236670464) | advertise |
@@ -8872,6 +8873,7 @@ Do not create new issue or we will close it as duplicate.
 | [trinh2678@twitter](https://twitter.com/trinh2678/status/1554001613307940864) | advertise |
 | [TrinhDong1302@twitter](https://twitter.com/TrinhDong1302/status/1549441114729357313) | advertise |
 | [Trinhh72838000@twitter](https://twitter.com/Trinhh72838000/status/1404848776213254147) | advertise |
+| [Trinhhu07579275@twitter](https://twitter.com/Trinhhu07579275/status/1563072480104763392) | advertise |
 | [trinhlo40326150@twitter](https://twitter.com/trinhlo40326150/status/1560091852044247040) | advertise |
 | [Trinhti04009131@twitter](https://twitter.com/Trinhti04009131/status/1389575782020763658) | advertise |
 | [TriPmt199x@twitter](https://twitter.com/TriPmt199x/status/1382502746528522244) | advertise |
