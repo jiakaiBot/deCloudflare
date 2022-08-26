@@ -2198,6 +2198,23 @@ browser.webNavigation.onCompleted.addListener(() => {
    });
 });
 browser.runtime.onMessage.addListener((r, s, sr) => {
+   if (r[0] == 'iidCACHEget') {
+      let iidDOMAIN = get_realdomain(r[1]) + '.mpdns_iid';
+      if (domainCAT[iidDOMAIN]) {
+         sr([true, domainCAT[iidDOMAIN][1]]);
+      } else {
+         sr([false, 0]);
+      }
+   }
+   if (r[0] == 'iidCACHEset') {
+      let iidDOMAIN = get_realdomain(r[1]) + '.mpdns_iid';
+      if (!domainCAT[iidDOMAIN]) {
+         domainCAT[iidDOMAIN] = [tUNIX(), r[2],
+            []
+         ];
+      }
+      sr(true);
+   }
    if (r[0] == 'set') {
       token = r[1];
       if (token.length == 20) {
