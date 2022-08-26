@@ -5207,6 +5207,7 @@ Do not create new issue or we will close it as duplicate.
 | [MaungNa96729834@twitter](https://twitter.com/MaungNa96729834/status/1389918010371043333) | advertise |
 | [MaungSann8@twitter](https://twitter.com/MaungSann8/status/1394691190990286854) | advertise |
 | [maung_point@twitter](https://twitter.com/maung_point/status/1391606588671086592) | advertise |
+| [mavesCSGO@twitter](https://twitter.com/mavesCSGO/status/1563093541223428096) | advertise |
 | [mawmet@twitter](https://twitter.com/mawmet/status/1457094348479291394) | advertise |
 | [Max80893001@twitter](https://twitter.com/Max80893001/status/1387188885130813450) | advertise |
 | [MaxDilan10@twitter](https://twitter.com/MaxDilan10/status/1506011770242334720) | advertise |
