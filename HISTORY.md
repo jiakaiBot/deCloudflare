@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-08-26: [Potential issues with end users connecting to Cloudflare Edge](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/t9wfh9pg4f0c)
 - 2022-08-26: [New R2 Customers unable to complete signup](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cplpc0p4v7ct)
 - 2022-08-25: [Network Performance Issues in CDG](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5wkhy3fdx9d2)
 - 2022-08-23: [Cloudflare Email Routing Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lpqqs1ynqfgs)
