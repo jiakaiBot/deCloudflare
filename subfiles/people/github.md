@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [OAuth: Keep getting 403 from /oauth/token on deployment](https://github.com/opencollective/opencollective/issues/5910)
 - [Upload via UCAN token receives 500 with code: TypeError "Cannot read properties of null (reading 'split')"](https://github.com/nftstorage/nft.storage/issues/2154)
 - [Removing participants from group gives error "Failed to remove participant: null"](https://github.com/BlueBubblesApp/bluebubbles-server/issues/407)
 - [1337x (testing) Exception (1337x): The cookies provided by FlareSolverr are not valid: The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/481)
