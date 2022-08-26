@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "name": "My Privacy DNS Reporter",
+  "description": "Reporting websites made easy.",
+  "version": "1.0.1",
+  "author": "My Privacy DNS",
+  "homepage_url": "https://mypdns.org/infrastructure/mypdns-reporter",
+  "incognito": "spanning",
+  "permissions": [
+    "<all_urls>",
+    "storage",
+    "contextMenus",
+    "activeTab",
+    "tabs",
+    "notifications",
+    "downloads"
+  ],
+  "options_ui": {
+    "page": "conf.html"
+  },
+  "browser_action": {
+    "browser_style": false,
+    "default_icon": {
+      "96": "icon.png"
+    },
+    "default_title": "Report this page",
+    "default_popup": "pop.html"
+  },
+  "icons": {
+    "96": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://mypdns.org/*"
+      ],
+      "js": [
+        "add.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": {
+    "scripts": [
+      "main.js"
+    ]
+  }
+}

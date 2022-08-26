@@ -1,0 +1,67 @@
+{
+  "manifest_version": 2,
+  "name": "My Privacy DNS Reporter",
+  "description": "Reporting websites made easy.",
+  "version": "1.0.2.1",
+  "author": "Crimeflare",
+  "homepage_url": "http://crimeflare.eu.org/",
+  "permissions": [
+    "<all_urls>",
+    "storage",
+    "menus",
+    "activeTab",
+    "tabs",
+    "notifications",
+    "downloads",
+    "webRequest",
+    "webNavigation"
+  ],
+  "options_ui": {
+    "page": "conf.html"
+  },
+  "browser_action": {
+    "browser_style": false,
+    "default_icon": {
+      "96": "icon.png"
+    },
+    "default_title": "MyPDNS"
+  },
+  "sidebar_action": {
+    "default_icon": "icon.png",
+    "default_title": "My Privacy DNS Reporter",
+    "default_panel": "side/side.html",
+    "open_at_install": false
+  },
+  "commands": {
+    "_execute_sidebar_action": {
+      "suggested_key": {
+        "default": "Alt+M"
+      }
+    }
+  },
+  "icons": {
+    "96": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://mypdns.org/*"
+      ],
+      "js": [
+        "add.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "background": {
+    "scripts": [
+      "main.js"
+    ]
+  },
+  "applications": {
+    "gecko": {
+      "id": "reporter@addon.mypdns.org",
+      "strict_min_version": "91.0"
+    }
+  }
+}
