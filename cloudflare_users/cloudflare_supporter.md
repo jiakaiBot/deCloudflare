@@ -3980,6 +3980,7 @@ Do not create new issue or we will close it as duplicate.
 | [kanitsin@twitter](https://twitter.com/kanitsin/status/1395746546499526658) | advertise |
 | [kanj0u_25@twitter](https://twitter.com/kanj0u_25/status/1552346422468812800) | advertise |
 | [kannadaTechInfo@twitter](https://twitter.com/kannadaTechInfo/status/1383303798777532420) | advertise |
+| [KannadigaGiris1@twitter](https://twitter.com/KannadigaGiris1/status/1563116703591976961) | advertise |
 | [KannadigaShudha@twitter](https://twitter.com/KannadigaShudha/status/1384028943427149831) | advertise |
 | [KANNAN75483689@twitter](https://twitter.com/KANNAN75483689/status/1387034165904744451) | advertise |
 | [KansaraYuvraj@twitter](https://twitter.com/KansaraYuvraj/status/1404292480086863873) | advertise |
@@ -4851,6 +4852,7 @@ Do not create new issue or we will close it as duplicate.
 | [LKhngNinh2@twitter](https://twitter.com/LKhngNinh2/status/1381900715262550016) | advertise |
 | [lknk_adorebot@twitter](https://twitter.com/lknk_adorebot/status/1390972492995432454) | advertise |
 | [llama_cadu@twitter](https://twitter.com/llama_cadu/status/1480054499846856710) | advertise |
+| [llAnh_Hungll@twitter](https://twitter.com/llAnh_Hungll/status/1563110667812425733) | advertise |
 | [LlcBillionaire@twitter](https://twitter.com/LlcBillionaire/status/1498441224264552455) | advertise |
 | [lloydkissoon3@twitter](https://twitter.com/lloydkissoon3/status/1536419970590158848) | advertise |
 | [llteky@twitter](https://twitter.com/llteky/status/1529935561091432453) | advertise |
