@@ -1044,6 +1044,7 @@ Do not create new issue or we will close it as duplicate.
 | [bahrkoy@twitter](https://twitter.com/bahrkoy/status/1514873983975497732) | advertise |
 | [Bailgaadi_Pilot@twitter](https://twitter.com/Bailgaadi_Pilot/status/1463419001954914306) | advertise |
 | [baimint_minmint@twitter](https://twitter.com/baimint_minmint/status/1393478992653553665) | advertise |
+| [Baitipelangi12@twitter](https://twitter.com/Baitipelangi12/status/1563137367292395522) | advertise |
 | [Bakaoniichansa1@twitter](https://twitter.com/Bakaoniichansa1/status/1396393413541437443) | advertise |
 | [Baki64515168@twitter](https://twitter.com/Baki64515168/status/1403351148342480897) | advertise |
 | [Bakr14M@twitter](https://twitter.com/Bakr14M/status/1517969694069870595) | advertise |
@@ -1697,8 +1698,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
