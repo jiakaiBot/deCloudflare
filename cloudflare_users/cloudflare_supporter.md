@@ -1089,6 +1089,7 @@ Do not create new issue or we will close it as duplicate.
 | [Basix1120@twitter](https://twitter.com/Basix1120/status/1444317697794142211) | advertise |
 | [basra_rests@twitter](https://twitter.com/basra_rests/status/1392994649862774784) | advertise |
 | [Basuki_null@twitter](https://twitter.com/Basuki_null/status/1394215228364115970) | advertise |
+| [batajoonp@twitter](https://twitter.com/batajoonp/status/1562996003825156101) | advertise |
 | [Batmancin@twitter](https://twitter.com/Batmancin/status/1441297464389029896) | advertise |
 | [bay_yellk@twitter](https://twitter.com/bay_yellk/status/1405940589284233220) | advertise |
 | [ba_gyee@twitter](https://twitter.com/ba_gyee/status/1393872315771850752) | advertise |
@@ -1696,8 +1697,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3209,6 +3210,7 @@ Do not create new issue or we will close it as duplicate.
 | [HtetMya53031570@twitter](https://twitter.com/HtetMya53031570/status/1553071375195115521) | advertise |
 | [HtetMya98217043@twitter](https://twitter.com/HtetMya98217043/status/1404256767911993345) | advertise |
 | [HtetMye36813894@twitter](https://twitter.com/HtetMye36813894/status/1391336216130248707) | advertise |
+| [htetnaingwei@twitter](https://twitter.com/htetnaingwei/status/1562992029520785409) | advertise |
 | [Htetnaingzaw10@twitter](https://twitter.com/Htetnaingzaw10/status/1390338084806434821) | advertise |
 | [HtetOoH95195384@twitter](https://twitter.com/HtetOoH95195384/status/1376733401558872064) | advertise |
 | [HtetOoL75241902@twitter](https://twitter.com/HtetOoL75241902/status/1404260945975648259) | advertise |
