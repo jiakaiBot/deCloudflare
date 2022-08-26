@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Upload via UCAN token receives 500 with code: TypeError "Cannot read properties of null (reading 'split')"](https://github.com/nftstorage/nft.storage/issues/2154)
 - [Removing participants from group gives error "Failed to remove participant: null"](https://github.com/BlueBubblesApp/bluebubbles-server/issues/407)
 - [1337x (testing) Exception (1337x): The cookies provided by FlareSolverr are not valid: The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/481)
 - [Error getting validation daa: 400 invalid](https://github.com/w2c/letsencrypt-esxi/issues/1)
