@@ -2529,6 +2529,7 @@ Do not create new issue or we will close it as duplicate.
 | [futureboss17@twitter](https://twitter.com/futureboss17/status/1377955125222772738) | advertise |
 | [fuvrkn@twitter](https://twitter.com/fuvrkn/status/1452251677625626636) | advertise |
 | [fuxklif@twitter](https://twitter.com/fuxklif/status/1377696833498050565) | advertise |
+| [Fuxyou01@twitter](https://twitter.com/Fuxyou01/status/1563007305687629829) | advertise |
 | [fv_sestan@twitter](https://twitter.com/fv_sestan/status/1397051138210369538) | advertise |
 | [FXhkv@twitter](https://twitter.com/FXhkv/status/1395869051964985347) | advertise |
 | [fyhao@twitter](https://twitter.com/fyhao/status/1427551252964016135) | advertise |
