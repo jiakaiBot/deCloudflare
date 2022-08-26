@@ -3660,6 +3660,7 @@ Here's a list of public Fediverse services.
 | cutie.express | No |
 | cutie.live | No |
 | cutie.space | No |
+| cutiehaven.club | No |
 | cutiemiku.tk | No |
 | cutienaut.club | No |
 | cutiepie.at | No |
@@ -6009,7 +6010,7 @@ Here's a list of public Fediverse services.
 | freedombox.rocks | No |
 | freedomofpress.rocks | No |
 | freedomstrike.net | No |
-| freedomtothink.social | No |
+| freedomtothink.social | Yes |
 | freedomworkshop.com | No |
 | freefedifolk.com | No |
 | freefedifollowers.ga | No |
@@ -9635,6 +9636,7 @@ Here's a list of public Fediverse services.
 | lain.com | No |
 | lain.day | No |
 | lain.faith | No |
+| lain.gay | No |
 | lain.haus | No |
 | lain.moe | No |
 | lain.sh | No |
@@ -17747,7 +17749,7 @@ Here's a list of public Fediverse services.
 | taekyeong.me | No |
 | tafa.xyz | Yes |
 | tafelcloud.de | No |
-| taggit.me | No |
+| taggit.me | Yes |
 | tahvok.com | Yes |
 | taiha.net | No |
 | tail.dance | No |
@@ -20959,7 +20961,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,077 |
+| Cloudflare | 4,079 |
 | Normal | 16,839 |
 
 
