@@ -5888,6 +5888,7 @@ Here's a list of public Fediverse services.
 | ford.id.au | No |
 | foresdon.jp | No |
 | forfreedom.at | No |
+| forfuture.fm | No |
 | forfuture.social | No |
 | forgetthis.site | Yes |
 | fork.sh | No |
@@ -20963,7 +20964,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,079 |
-| Normal | 16,840 |
+| Normal | 16,841 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
