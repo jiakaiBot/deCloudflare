@@ -1238,6 +1238,7 @@ Do not create new issue or we will close it as duplicate.
 | [BlessingsKango@twitter](https://twitter.com/BlessingsKango/status/1396632406770262025) | advertise |
 | [bless_doegah@twitter](https://twitter.com/bless_doegah/status/1405150928559353862) | advertise |
 | [Blink30428569@twitter](https://twitter.com/Blink30428569/status/1402516667318472706) | advertise |
+| [BlmGop@twitter](https://twitter.com/BlmGop/status/1562943669275357184) | advertise |
 | [BlnaryMlke@twitter](https://twitter.com/BlnaryMlke/status/1555129483656658946) | advertise |
 | [blobnom@twitter](https://twitter.com/blobnom/status/1471578002098167808) | advertise |
 | [bloggerborneo@twitter](https://twitter.com/bloggerborneo/status/1537702050955677696) | advertise |
@@ -6746,6 +6747,7 @@ Do not create new issue or we will close it as duplicate.
 | [PheThitZaw@twitter](https://twitter.com/PheThitZaw/status/1402660507362861060) | advertise |
 | [Phghoang11@twitter](https://twitter.com/Phghoang11/status/1515348519896317953) | advertise |
 | [PhHong20@twitter](https://twitter.com/PhHong20/status/1389017688685498370) | advertise |
+| [Phi0354363688@twitter](https://twitter.com/Phi0354363688/status/1562949897305100288) | advertise |
 | [PhibulyWr@twitter](https://twitter.com/PhibulyWr/status/1552136900596858882) | advertise |
 | [philcgeo@twitter](https://twitter.com/philcgeo/status/1549340881584635904) | advertise |
 | [PhillipXin@twitter](https://twitter.com/PhillipXin/status/1378201985539772416) | advertise |
