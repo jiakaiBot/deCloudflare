@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,872 |
-| net | 1,654 |
+| net | 1,655 |
 | social | 1,170 |
 | org | 1,132 |
 | de | 986 |
@@ -9831,6 +9831,7 @@ Here's a list of public Fediverse services.
 | lejaua6.club | No |
 | lekangouroo.me | No |
 | lekker.page | No |
+| lelaidier.net | No |
 | lelesius.eu | Yes |
 | lelux.fi | No |
 | lem.social | No |
@@ -20964,7 +20965,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,079 |
-| Normal | 16,841 |
+| Normal | 16,842 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
