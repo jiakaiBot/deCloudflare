@@ -6487,6 +6487,7 @@ Do not create new issue or we will close it as duplicate.
 | [ObinnaUkwueze@twitter](https://twitter.com/ObinnaUkwueze/status/1529030306908471296) | advertise |
 | [obliquum@twitter](https://twitter.com/obliquum/status/1394296794994012163) | advertise |
 | [OButhum@twitter](https://twitter.com/OButhum/status/1393372232093556739) | advertise |
+| [obyanete@twitter](https://twitter.com/obyanete/status/1563153566873034753) | advertise |
 | [OdariMc@twitter](https://twitter.com/OdariMc/status/1380700664016334848) | advertise |
 | [odragaoverde@twitter](https://twitter.com/odragaoverde/status/1520195893210853377) | advertise |
 | [OdunmbakuAyomi2@twitter](https://twitter.com/OdunmbakuAyomi2/status/1406588138479292416) | advertise |
