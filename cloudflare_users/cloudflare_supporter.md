@@ -6016,6 +6016,7 @@ Do not create new issue or we will close it as duplicate.
 | [navidr278@twitter](https://twitter.com/navidr278/status/1486214003441512448) | advertise |
 | [Navnath22377070@twitter](https://twitter.com/Navnath22377070/status/1379500987321184257) | advertise |
 | [Navylover07@twitter](https://twitter.com/Navylover07/status/1511182368102838272) | advertise |
+| [nawazbitone@twitter](https://twitter.com/nawazbitone/status/1563582579449614337) | advertise |
 | [NawYamin5@twitter](https://twitter.com/NawYamin5/status/1394208976900739074) | advertise |
 | [nayan1332@twitter](https://twitter.com/nayan1332/status/1495866875267678208) | advertise |
 | [Naychi59081646@twitter](https://twitter.com/Naychi59081646/status/1390612281566789639) | advertise |
