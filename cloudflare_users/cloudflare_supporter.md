@@ -1855,6 +1855,7 @@ Do not create new issue or we will close it as duplicate.
 | [DaRo_Empire@twitter](https://twitter.com/DaRo_Empire/status/1500996804925702151) | advertise |
 | [DarrenNathans@twitter](https://twitter.com/DarrenNathans/status/1439219446069936132) | advertise |
 | [darrenwjlau@twitter](https://twitter.com/darrenwjlau/status/1525234853850931201) | advertise |
+| [darrinW00699755@twitter](https://twitter.com/darrinW00699755/status/1563340945717727232) | advertise |
 | [darthkay0@twitter](https://twitter.com/darthkay0/status/1504205557720403976) | advertise |
 | [dasith_vidanage@twitter](https://twitter.com/dasith_vidanage/status/1386590411515305984) | advertise |
 | [daskeyencoded@twitter](https://twitter.com/daskeyencoded/status/1509951324871401491) | advertise |
