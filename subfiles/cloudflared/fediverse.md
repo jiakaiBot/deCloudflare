@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 2,872 |
 | net | 1,655 |
 | social | 1,170 |
-| org | 1,132 |
+| org | 1,133 |
 | de | 986 |
 
 
@@ -4724,6 +4724,7 @@ Here's a list of public Fediverse services.
 | dynv6.net | No |
 | dyomedea.com | No |
 | dyselon.com | No |
+| dysphoric.space | No |
 | dystopian-orbis.de | No |
 | dystopian.fun | No |
 | dystopian.space | No |
@@ -10186,6 +10187,7 @@ Here's a list of public Fediverse services.
 | livingdistant.com | No |
 | livingutopia.org | No |
 | liw.fi | No |
+| liyuan.app | Yes |
 | lizards.live | No |
 | lj.gl | Yes |
 | ljcu.cc | Yes |
@@ -13593,6 +13595,7 @@ Here's a list of public Fediverse services.
 | openevents.nz | No |
 | openfactory42.info | No |
 | openforfuture.org | No |
+| openhood.ru | No |
 | openlatin.org | No |
 | openlearning.cc | No |
 | openlook.ch | No |
@@ -16162,6 +16165,7 @@ Here's a list of public Fediverse services.
 | scalingo.io | Yes |
 | scambait.social | No |
 | scambaiting.social | No |
+| scambi.org | Yes |
 | scamdemic.life | No |
 | scamdemic.party | No |
 | scammerrevolts.com | Yes |
@@ -17203,7 +17207,7 @@ Here's a list of public Fediverse services.
 | sponheimer.com | No |
 | spooky.camp | No |
 | spooky.computer | No |
-| spooky.pizza | No |
+| spooky.pizza | Yes |
 | spork.gg | No |
 | spork.org | No |
 | sports-scores.win | No |
@@ -20969,8 +20973,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,082 |
-| Normal | 16,844 |
+| Cloudflare | 4,085 |
+| Normal | 16,845 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
