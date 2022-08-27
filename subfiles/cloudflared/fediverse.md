@@ -5144,6 +5144,7 @@ Here's a list of public Fediverse services.
 | ernix.jp | No |
 | eroaward.com | No |
 | erotica.social | Yes |
+| erotube.fr | No |
 | errormaker.net | Yes |
 | ertona.net | No |
 | ertu.be | No |
@@ -16852,6 +16853,7 @@ Here's a list of public Fediverse services.
 | smolkitty.me | Yes |
 | smolnet.org | No |
 | smoothbrain.top | No |
+| smoothdream.me | Yes |
 | smores.town | No |
 | smseden.com | Yes |
 | smuglo.li | Yes |
@@ -20964,8 +20966,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,079 |
-| Normal | 16,842 |
+| Cloudflare | 4,080 |
+| Normal | 16,843 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
