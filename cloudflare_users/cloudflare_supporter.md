@@ -2578,6 +2578,7 @@ Do not create new issue or we will close it as duplicate.
 | [GANGSTARGAMIN17@twitter](https://twitter.com/GANGSTARGAMIN17/status/1388170807302451200) | advertise |
 | [Gangste72661199@twitter](https://twitter.com/Gangste72661199/status/1400366679192858625) | advertise |
 | [Gangster55Gang@twitter](https://twitter.com/Gangster55Gang/status/1501172639359975427) | advertise |
+| [Gans192919191@twitter](https://twitter.com/Gans192919191/status/1563603499228639232) | advertise |
 | [GAomizu@twitter](https://twitter.com/GAomizu/status/1385919913861156867) | advertise |
 | [GaRMaNi88317663@twitter](https://twitter.com/GaRMaNi88317663/status/1390341978458492930) | advertise |
 | [GarrettsNetwork@twitter](https://twitter.com/GarrettsNetwork/status/1475938283850973195) | advertise |
@@ -6581,6 +6582,7 @@ Do not create new issue or we will close it as duplicate.
 | [Optimal604@twitter](https://twitter.com/Optimal604/status/1390554059254292481) | advertise |
 | [Optimeast@twitter](https://twitter.com/Optimeast/status/1401416582413307904) | advertise |
 | [OPTONEEDSEARCH@twitter](https://twitter.com/OPTONEEDSEARCH/status/1548454333401878528) | advertise |
+| [opuakse6@twitter](https://twitter.com/opuakse6/status/1563590491828273154) | advertise |
 | [Ora33654854@twitter](https://twitter.com/Ora33654854/status/1390769586522443776) | advertise |
 | [Orange15115578@twitter](https://twitter.com/Orange15115578/status/1400454754145234952) | advertise |
 | [Orange23582707@twitter](https://twitter.com/Orange23582707/status/1390373004798959617) | advertise |
@@ -9080,6 +9082,7 @@ Do not create new issue or we will close it as duplicate.
 | [U2nEWQNpIMT8JfT@twitter](https://twitter.com/U2nEWQNpIMT8JfT/status/1407552556960600072) | advertise |
 | [U2ub1@twitter](https://twitter.com/U2ub1/status/1534519357597958145) | advertise |
 | [u3FTE3PbLVg3trL@twitter](https://twitter.com/u3FTE3PbLVg3trL/status/1377926972689551360) | advertise |
+| [UAS_mustbe@twitter](https://twitter.com/UAS_mustbe/status/1563593798793703425) | advertise |
 | [UAungKoLinn3@twitter](https://twitter.com/UAungKoLinn3/status/1390641230938214403) | advertise |
 | [UAZY_mm@twitter](https://twitter.com/UAZY_mm/status/1377727680984969217) | advertise |
 | [uccops@twitter](https://twitter.com/uccops/status/1493791302600650755) | advertise |
@@ -9570,6 +9573,7 @@ Do not create new issue or we will close it as duplicate.
 | [xubbers@twitter](https://twitter.com/xubbers/status/1375092922975145988) | advertise |
 | [XunNguy78192142@twitter](https://twitter.com/XunNguy78192142/status/1544197771103576064) | advertise |
 | [xVcLc3U5giDDbYt@twitter](https://twitter.com/xVcLc3U5giDDbYt/status/1397256988959051784) | advertise |
+| [xWARBEARx@twitter](https://twitter.com/xWARBEARx/status/1563595325159268352) | advertise |
 | [XxBestGanexX@twitter](https://twitter.com/XxBestGanexX/status/1400081132989734914) | advertise |
 | [XxPoNaGeXx@twitter](https://twitter.com/XxPoNaGeXx/status/1383560559707049998) | advertise |
 | [Xxxxx41471542@twitter](https://twitter.com/Xxxxx41471542/status/1376932828768829440) | advertise |
