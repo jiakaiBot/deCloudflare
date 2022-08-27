@@ -104,6 +104,7 @@ Do not create new issue or we will close it as duplicate.
 | [65akon@twitter](https://twitter.com/65akon/status/1537224409861484544) | advertise |
 | [69Transylvania@twitter](https://twitter.com/69Transylvania/status/1468804258019659779) | advertise |
 | [77_naman@twitter](https://twitter.com/77_naman/status/1379437501786456065) | advertise |
+| [80x5_jonathan@twitter](https://twitter.com/80x5_jonathan/status/1563428306694729731) | advertise |
 | [82G3eUUY0BFpiFP@twitter](https://twitter.com/82G3eUUY0BFpiFP/status/1393161725579382784) | advertise |
 | [82Thar@twitter](https://twitter.com/82Thar/status/1386958515932106754) | advertise |
 | [88Uoo@twitter](https://twitter.com/88Uoo/status/1392485386979463170) | advertise |
@@ -1699,8 +1700,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -4986,6 +4987,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lun71377013@twitter](https://twitter.com/Lun71377013/status/1401608963292946436) | advertise |
 | [LunarSky16@twitter](https://twitter.com/LunarSky16/status/1393116275644063744) | advertise |
 | [lung_kha@twitter](https://twitter.com/lung_kha/status/1478621539020926976) | advertise |
+| [LuonglamVan1992@twitter](https://twitter.com/LuonglamVan1992/status/1563424906070466561) | advertise |
 | [Luph96507624@twitter](https://twitter.com/Luph96507624/status/1392188259661320193) | advertise |
 | [LuralMay@twitter](https://twitter.com/LuralMay/status/1384873233158115328) | advertise |
 | [lusoela04067897@twitter](https://twitter.com/lusoela04067897/status/1390825507457945601) | advertise |
