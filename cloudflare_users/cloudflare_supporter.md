@@ -4800,6 +4800,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lin12335892663@twitter](https://twitter.com/Lin12335892663/status/1392413770782183427) | advertise |
 | [linalintanajib@twitter](https://twitter.com/linalintanajib/status/1518761726728368128) | advertise |
 | [LinCBs2@twitter](https://twitter.com/LinCBs2/status/1408086534041964545) | advertise |
+| [linchwason@twitter](https://twitter.com/linchwason/status/1563532843879243777) | advertise |
 | [Lineetcom@twitter](https://twitter.com/Lineetcom/status/1432080628141289475) | advertise |
 | [LineNetizen@twitter](https://twitter.com/LineNetizen/status/1410440237751308289) | moral (advertise) |
 | [LinGyi90627876@twitter](https://twitter.com/LinGyi90627876/status/1392445960488374274) | advertise |
