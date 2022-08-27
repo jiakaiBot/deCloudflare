@@ -7657,6 +7657,7 @@ Here's a list of public Fediverse services.
 | horsecr.app | No |
 | horsemans.online | No |
 | horsentiers.fr | No |
+| horserock.xyz | No |
 | hort.chat | No |
 | horwood.biz | No |
 | hoschwald.de | No |
@@ -20968,7 +20969,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,082 |
-| Normal | 16,842 |
+| Normal | 16,843 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
