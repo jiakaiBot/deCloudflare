@@ -1,13 +1,18 @@
+apod-nasa-gov.translate.goog
 colonelcassad-livejournal-com.translate.goog
+divulgacandcontas.tse.jus.br
 fakty.tvn24.pl
 gironanoticies-com.translate.goog
 istories-media.translate.goog
 katehon-com.translate.goog
 m.timesofindia.com
+searx.tux.land
 tajgold.net
 talkslegal.com
+tanax.co.jp
 techthing.co.uk
 techuseof.com
+tedomum.net
 teideninfo.tepco.co.jp
 teleyal.blog
 texteundtee.at
@@ -31,6 +36,7 @@ toyota.jp
 tramhoa.com
 traveltechmania.com
 tre.tbe.taleo.net
+trez-entertainment.co.uk
 trikooba.es
 trise.org
 ts-ket.com
@@ -50,9 +56,11 @@ www.takarashuzo.co.jp
 www.tampabeacon.com
 www.tampafp.com
 www.tcichemicals.com
+www.technologic.com.tr
 www.thebeachacademy.com
 www.thebeaverton.com
 www.thecentersquare.com
+www.thedailystar.com
 www.thegwpf.org
 www.thekitchn.com
 www.thelancasterpatriot.com
@@ -62,6 +70,7 @@ www.thepacker.com
 www.thepetsworkshop.com.sg
 www.theroar.com.au
 www.thespruceeats.com
+www.thetodayguide.com
 www.theweek.in
 www.thoughtco.com
 www.thv11.com
