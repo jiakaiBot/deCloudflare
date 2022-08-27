@@ -17796,6 +17796,7 @@ Here's a list of public Fediverse services.
 | talk.coffee | No |
 | talk2machines.tech | Yes |
 | talkabout.cf | No |
+| talkative.fish | No |
 | talkbottle.com | No |
 | talker.to | No |
 | talking.dev | No |
@@ -20969,7 +20970,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,082 |
-| Normal | 16,843 |
+| Normal | 16,844 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
