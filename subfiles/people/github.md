@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Helm chart fails to deploy via flux-cd without explicit image tag](https://github.com/kubernetes-sigs/external-dns/issues/2982)
 - [Unable to get gateway certificate through UI](https://github.com/chirpstack/chirpstack/issues/35)
 - [OAuth: Keep getting 403 from /oauth/token on deployment](https://github.com/opencollective/opencollective/issues/5910)
 - [Upload via UCAN token receives 500 with code: TypeError "Cannot read properties of null (reading 'split')"](https://github.com/nftstorage/nft.storage/issues/2154)
