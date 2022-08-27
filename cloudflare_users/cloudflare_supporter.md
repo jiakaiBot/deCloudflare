@@ -4846,6 +4846,7 @@ Do not create new issue or we will close it as duplicate.
 | [LittleHead17@twitter](https://twitter.com/LittleHead17/status/1395214097625411593) | advertise |
 | [Little_PoK@twitter](https://twitter.com/Little_PoK/status/1405188466346917889) | advertise |
 | [Live1xSlot@twitter](https://twitter.com/Live1xSlot/status/1419205739466280960) | advertise |
+| [livecountsnl@twitter](https://twitter.com/livecountsnl/status/1563512113221742592) | advertise |
 | [live_techy@twitter](https://twitter.com/live_techy/status/1377628619380510730) | advertise |
 | [Livvux@twitter](https://twitter.com/Livvux/status/1479984215001292801) | advertise |
 | [LiWei69201004@twitter](https://twitter.com/LiWei69201004/status/1396636978976673793) | advertise |
@@ -6105,6 +6106,7 @@ Do not create new issue or we will close it as duplicate.
 | [ngelay883452@twitter](https://twitter.com/ngelay883452/status/1555588594697248768) | advertise |
 | [NGenderless@twitter](https://twitter.com/NGenderless/status/1404418420993499142) | advertise |
 | [NgewToe@twitter](https://twitter.com/NgewToe/status/1392513735319724035) | advertise |
+| [Ngh1234567@twitter](https://twitter.com/Ngh1234567/status/1563503121598332929) | advertise |
 | [Ngha22031263@twitter](https://twitter.com/Ngha22031263/status/1386040666078121985) | advertise |
 | [Ngha63888868@twitter](https://twitter.com/Ngha63888868/status/1467877520918085632) | advertise |
 | [NghaTha89755200@twitter](https://twitter.com/NghaTha89755200/status/1549730743710285824) | advertise |
@@ -8281,6 +8283,7 @@ Do not create new issue or we will close it as duplicate.
 | [TarekAdra@twitter](https://twitter.com/TarekAdra/status/1382504134100811778) | advertise |
 | [TargaDigitalUK@twitter](https://twitter.com/TargaDigitalUK/status/1370309383742185473) | advertise |
 | [TariqMe14921227@twitter](https://twitter.com/TariqMe14921227/status/1399501760205524993) | advertise |
+| [TarporC@twitter](https://twitter.com/TarporC/status/1563513740565159936) | advertise |
 | [TarTsau@twitter](https://twitter.com/TarTsau/status/1398216213843496963) | advertise |
 | [TarunKu96104346@twitter](https://twitter.com/TarunKu96104346/status/1395333561054425089) | advertise |
 | [Tarunno7@twitter](https://twitter.com/Tarunno7/status/1499926032266448897) | advertise |
