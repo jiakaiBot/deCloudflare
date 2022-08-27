@@ -11580,6 +11580,7 @@ Here's a list of public Fediverse services.
 | mikura.cloud | No |
 | mikuspot.net | No |
 | milchreislieferei.de | No |
+| mildlyfunctional.gay | No |
 | milette.online | No |
 | milker.cafe | Yes |
 | milkey.homes | Yes |
@@ -17041,7 +17042,7 @@ Here's a list of public Fediverse services.
 | somaton.com | No |
 | some.rs | No |
 | somebetterplaceshell.gq | No |
-| someone.bar | No |
+| someone.bar | Yes |
 | someonewho.codes | No |
 | someotherguy.xyz | No |
 | sometimes.io | No |
@@ -19545,7 +19546,7 @@ Here's a list of public Fediverse services.
 | vibrant.li | No |
 | vicedomini.cloud | Yes |
 | vicentellopis.es | No |
-| vichar.me | No |
+| vichar.me | Yes |
 | vici0.us | No |
 | vicx.fr | No |
 | vidcommons.org | No |
@@ -20966,8 +20967,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,080 |
-| Normal | 16,843 |
+| Cloudflare | 4,082 |
+| Normal | 16,842 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
