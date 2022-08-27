@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [rejected by cloudflare bot protection](https://github.com/kurubushi/notion-cli-hs/issues/2)
 - [Helm chart fails to deploy via flux-cd without explicit image tag](https://github.com/kubernetes-sigs/external-dns/issues/2982)
 - [Unable to get gateway certificate through UI](https://github.com/chirpstack/chirpstack/issues/35)
 - [OAuth: Keep getting 403 from /oauth/token on deployment](https://github.com/opencollective/opencollective/issues/5910)
