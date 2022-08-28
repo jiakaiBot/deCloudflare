@@ -6922,6 +6922,7 @@ Here's a list of public Fediverse services.
 | gravitas.cafe | No |
 | gravitasfree.zone | No |
 | gravure.club | No |
+| gray.party | No |
 | graypar.se | No |
 | grayrecord.com | Yes |
 | graz.social | No |
@@ -20968,6 +20969,7 @@ Here's a list of public Fediverse services.
 | zyz.link | No |
 | zz777.ru | Yes |
 | zzhsuper3.rocks | No |
+| zztails.gay | No |
 | zzuli.top | Yes |
 | zzz.blue | No |
 | zzzoo.org | No |
@@ -20979,7 +20981,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,084 |
-| Normal | 16,851 |
+| Normal | 16,853 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
