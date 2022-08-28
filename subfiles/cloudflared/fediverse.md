@@ -2768,7 +2768,7 @@ Here's a list of public Fediverse services.
 | ceriz.fr | No |
 | cerritus.eu | No |
 | ceruleanstack.com | No |
-| cervidae.space | Yes |
+| cervidae.space | No |
 | cescobarresi.it | No |
 | ceskar.xyz | No |
 | ceske.site | Yes |
@@ -13077,7 +13077,7 @@ Here's a list of public Fediverse services.
 | non-designer.studio | Yes |
 | non-euclidean.space | No |
 | nona.li | No |
-| nonalogue.space | Yes |
+| nonalogue.space | No |
 | nonexiste.net | No |
 | nonfren.monster | No |
 | nonlinear.zone | No |
@@ -14091,6 +14091,7 @@ Here's a list of public Fediverse services.
 | pedesen.de | No |
 | pedo.house | No |
 | pedo.school | No |
+| pedrocx486.club | No |
 | peen.dev | Yes |
 | peer.tube | No |
 | peerkids.com | No |
@@ -19807,7 +19808,7 @@ Here's a list of public Fediverse services.
 | wakkerewereld.nu | No |
 | wakkerisme.nl | No |
 | wakuwakup.net | Yes |
-| walamana.de | No |
+| walamana.de | Yes |
 | walchinsky.com | Yes |
 | walcyrge.org | Yes |
 | waldn.net | No |
@@ -20981,8 +20982,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,085 |
-| Normal | 16,853 |
+| Cloudflare | 4,084 |
+| Normal | 16,855 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
