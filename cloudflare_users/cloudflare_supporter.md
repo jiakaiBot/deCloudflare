@@ -4951,6 +4951,7 @@ Do not create new issue or we will close it as duplicate.
 | [LSn15256186@twitter](https://twitter.com/LSn15256186/status/1553368082319839238) | advertise |
 | [LThinn1212@twitter](https://twitter.com/LThinn1212/status/1386337771938222084) | advertise |
 | [lthphngtrm5@twitter](https://twitter.com/lthphngtrm5/status/1394172756917293058) | advertise |
+| [ltinhu4@twitter](https://twitter.com/ltinhu4/status/1563803476294938624) | advertise |
 | [LTnEJJJpwCebucj@twitter](https://twitter.com/LTnEJJJpwCebucj/status/1472960409988521986) | advertise |
 | [LTrungT21684251@twitter](https://twitter.com/LTrungT21684251/status/1382949410984714244) | advertise |
 | [LTrwc@twitter](https://twitter.com/LTrwc/status/1396900089595981826) | advertise |
@@ -5901,6 +5902,7 @@ Do not create new issue or we will close it as duplicate.
 | [NAABIL49027157@twitter](https://twitter.com/NAABIL49027157/status/1387326620009074692) | advertise |
 | [naamloser@twitter](https://twitter.com/naamloser/status/1503867812963569666) | advertise |
 | [nabin_ss@twitter](https://twitter.com/nabin_ss/status/1562381057974214657) | advertise |
+| [nadeemshahzad07@twitter](https://twitter.com/nadeemshahzad07/status/1563845130565881856) | advertise |
 | [nadiralshaikhly@twitter](https://twitter.com/nadiralshaikhly/status/1554010246917521408) | advertise |
 | [nadi_saint@twitter](https://twitter.com/nadi_saint/status/1396088469584105476) | advertise |
 | [NafisMuzafar@twitter](https://twitter.com/NafisMuzafar/status/1531926492334022656) | advertise |
@@ -8118,6 +8120,7 @@ Do not create new issue or we will close it as duplicate.
 | [StevenLinn55@twitter](https://twitter.com/StevenLinn55/status/1404115990548410372) | advertise |
 | [StevenYagel1@twitter](https://twitter.com/StevenYagel1/status/1561718347590680576) | advertise |
 | [steven_rusty@twitter](https://twitter.com/steven_rusty/status/1476304266746810376) | advertise |
+| [STharaan@twitter](https://twitter.com/STharaan/status/1563651594914148352) | advertise |
 | [SthiKvs@twitter](https://twitter.com/SthiKvs/status/1552687724498341889) | advertise |
 | [StHost@twitter](https://twitter.com/StHost/status/1421792790602784773) | advertise |
 | [stipicak@twitter](https://twitter.com/stipicak/status/1389233494824521728) | advertise |
@@ -8881,6 +8884,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tranducanh0104@twitter](https://twitter.com/Tranducanh0104/status/1552705286477352966) | advertise |
 | [trandunghl@twitter](https://twitter.com/trandunghl/status/1519338460704026626) | advertise |
 | [tranhaonam331@twitter](https://twitter.com/tranhaonam331/status/1482005738461757454) | advertise |
+| [TranKimBinh4@twitter](https://twitter.com/TranKimBinh4/status/1563849712847192064) | advertise |
 | [trantha16219627@twitter](https://twitter.com/trantha16219627/status/1480025129786564613) | advertise |
 | [Trantha51229117@twitter](https://twitter.com/Trantha51229117/status/1555136963715698689) | advertise |
 | [trantie92872403@twitter](https://twitter.com/trantie92872403/status/1485623018823258115) | advertise |
