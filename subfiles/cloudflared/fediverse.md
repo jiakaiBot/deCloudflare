@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,655 |
 | social | 1,170 |
 | org | 1,133 |
-| de | 988 |
+| de | 987 |
 
 
 - Mastodon, Pleroma, etc
@@ -9838,7 +9838,6 @@ Here's a list of public Fediverse services.
 | lekangouroo.me | No |
 | lekker.page | No |
 | lelaidier.net | No |
-| lelehier.de | No |
 | lelesius.eu | Yes |
 | lelux.fi | No |
 | lem.social | No |
@@ -13077,7 +13076,7 @@ Here's a list of public Fediverse services.
 | non-designer.studio | Yes |
 | non-euclidean.space | No |
 | nona.li | No |
-| nonalogue.space | Yes |
+| nonalogue.space | No |
 | nonexiste.net | No |
 | nonfren.monster | No |
 | nonlinear.zone | No |
@@ -15303,6 +15302,7 @@ Here's a list of public Fediverse services.
 | raize.in | No |
 | raki.social | No |
 | rakitov.org | No |
+| rakka.tk | No |
 | rakket.app | No |
 | rako.space | No |
 | rakyat.cc | No |
@@ -20980,8 +20980,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,084 |
-| Normal | 16,853 |
+| Cloudflare | 4,083 |
+| Normal | 16,854 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
