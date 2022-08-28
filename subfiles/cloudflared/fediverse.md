@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,655 |
 | social | 1,170 |
 | org | 1,133 |
-| de | 987 |
+| de | 988 |
 
 
 - Mastodon, Pleroma, etc
@@ -7477,6 +7477,7 @@ Here's a list of public Fediverse services.
 | hikaruaikawa.tk | No |
 | hikaruelio.net | Yes |
 | hiker.camp | No |
+| hiker.tips | No |
 | hikikomori.me | No |
 | hikoukidon.com | No |
 | hikoukidon.jp | No |
@@ -12256,6 +12257,7 @@ Here's a list of public Fediverse services.
 | multiversecast.com | No |
 | multrier.fr | No |
 | mumbai.sh | Yes |
+| mumbled.eu | No |
 | munchkins.io | No |
 | mundodesconocido.com | No |
 | mundy.info | No |
@@ -16068,6 +16070,7 @@ Here's a list of public Fediverse services.
 | sandersnel.com | No |
 | sandiegourbanists.com | No |
 | sandwich.net | No |
+| sanemind.de | No |
 | sangha.social | No |
 | sangrechulo.com | No |
 | sanguine.space | No |
@@ -20976,7 +20979,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,084 |
-| Normal | 16,848 |
+| Normal | 16,851 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
