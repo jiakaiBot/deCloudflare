@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,872 |
-| net | 1,655 |
+| net | 1,656 |
 | social | 1,170 |
 | org | 1,133 |
 | de | 988 |
@@ -2107,6 +2107,7 @@ Here's a list of public Fediverse services.
 | blos.sm | No |
 | blossoming.dev | No |
 | blrsc.me | No |
+| blue-mastodon.club | No |
 | blueadair.net | No |
 | blueblueblue.blue | No |
 | bluecore.net | No |
@@ -6700,6 +6701,7 @@ Here's a list of public Fediverse services.
 | gleasonator.dev | Yes |
 | gleisnetze.de | No |
 | glenetive.org | No |
+| glenux.net | No |
 | glibre.org | No |
 | glidden.life | No |
 | glie.town | No |
@@ -18263,6 +18265,7 @@ Here's a list of public Fediverse services.
 | thepeanut.farm | No |
 | thepicketts.online | No |
 | thepirate.party | No |
+| theplanet.rocks | No |
 | thepolarbear.co.uk | No |
 | thepostearthdestination.com | No |
 | thepractice.space | No |
@@ -20983,7 +20986,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,084 |
-| Normal | 16,855 |
+| Normal | 16,858 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
