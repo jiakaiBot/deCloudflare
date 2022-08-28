@@ -2,6 +2,7 @@ bbs.nga.cn
 blog.novatrend.ch
 blogs.nasa.gov
 english.ncsc.nl
+ingordidicinema.netsons.org
 international.nostate.net
 kita-ebers.nbhs.de
 kita-tuebinger.nbhs.de
@@ -31,6 +32,7 @@ technology.nasa.gov
 transfer.navitime.biz
 www.nationalcar.com
 www.natureasia.com
+www.navylookout.com
 www.nduroussy.com
 www.newegg.com
 www.neweraeducation.in
