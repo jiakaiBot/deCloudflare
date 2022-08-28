@@ -1943,6 +1943,7 @@ Do not create new issue or we will close it as duplicate.
 | [Demon6941@twitter](https://twitter.com/Demon6941/status/1494687786774851592) | advertise |
 | [Demon95990507@twitter](https://twitter.com/Demon95990507/status/1393209524639604739) | advertise |
 | [DemonFighter17@twitter](https://twitter.com/DemonFighter17/status/1379994239073976325) | advertise |
+| [DemonteGregory@twitter](https://twitter.com/DemonteGregory/status/1564021453405790216) | advertise |
 | [dem_lanh1@twitter](https://twitter.com/dem_lanh1/status/1478372142429655043) | advertise |
 | [Deniel15604448@twitter](https://twitter.com/Deniel15604448/status/1393749914736234498) | advertise |
 | [DennisAnthonyyy@twitter](https://twitter.com/DennisAnthonyyy/status/1561465362260135939) | advertise |
