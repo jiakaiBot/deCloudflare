@@ -10,11 +10,14 @@ alix.zone
 allinformationworld.com
 allpc.org
 alltomelbil.se
+alophuot.com
 altwall.net
 amirycashforcars.com.au
+amp-lasexta-com.cdn.ampproject.org
 amp-theguardian-com.cdn.ampproject.org
 aneighborschoice.com
 anerwelten.lu
+anigma.io
 aothuntees.com
 aperu.net
 apollolemmon.com
@@ -37,7 +40,9 @@ learnsecurity.amazon.com
 motor-elpais-com.cdn.ampproject.org
 newsable.asianetnews.com
 notes.ahaelse.com
+pire.artisanlogiciel.net
 polaroid.absturztau.be
+pubs.asahq.org
 tribune-com-pk.cdn.ampproject.org
 tuxbot.andre-ani.fr
 www.a-legend.net
