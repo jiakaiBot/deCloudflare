@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,655 |
 | social | 1,170 |
 | org | 1,133 |
-| de | 987 |
+| de | 988 |
 
 
 - Mastodon, Pleroma, etc
@@ -953,7 +953,7 @@ Here's a list of public Fediverse services.
 | animax.moe | No |
 | anime.country | No |
 | anime.website | No |
-| animeabyss.xyz | No |
+| animeabyss.xyz | Yes |
 | animeartist.social | No |
 | animedj.club | No |
 | animedon.tk | Yes |
@@ -1299,7 +1299,7 @@ Here's a list of public Fediverse services.
 | assemblag.es | No |
 | assortedflotsam.com | No |
 | asstodon.social | No |
-| assumptioncollege.edu | Yes |
+| assumptioncollege.edu | No |
 | ast.my | No |
 | astatu.berlin | No |
 | astdn.tokyo | No |
@@ -3266,7 +3266,7 @@ Here's a list of public Fediverse services.
 | comfy.center | Yes |
 | comfy.moe | Yes |
 | comfy.social | Yes |
-| comfyboy.club | No |
+| comfyboy.club | Yes |
 | comfybyte.ga | No |
 | comfysnug.space | No |
 | comics.town | No |
@@ -7891,7 +7891,7 @@ Here's a list of public Fediverse services.
 | idbt.tv | No |
 | iddqd.social | No |
 | iddqdidkfa.de | No |
-| ideadon.net | No |
+| ideadon.net | Yes |
 | ideaforg.com | No |
 | ideali.sh | No |
 | ideath.net | No |
@@ -9244,7 +9244,7 @@ Here's a list of public Fediverse services.
 | kitteh.pw | No |
 | kittenme.ws | No |
 | kitty.church | No |
-| kitty.photos | No |
+| kitty.photos | Yes |
 | kitty.social | Yes |
 | kitty.systems | Yes |
 | kitty.town | No |
@@ -9838,6 +9838,7 @@ Here's a list of public Fediverse services.
 | lekangouroo.me | No |
 | lekker.page | No |
 | lelaidier.net | No |
+| lelehier.de | No |
 | lelesius.eu | Yes |
 | lelux.fi | No |
 | lem.social | No |
@@ -12949,7 +12950,7 @@ Here's a list of public Fediverse services.
 | nixeneko.info | No |
 | nixer.dev | No |
 | nixi.icu | No |
-| nixnerd.cc | Yes |
+| nixnerd.cc | No |
 | nixnet.services | No |
 | nixnet.social | No |
 | nixnet.xyz | No |
@@ -13076,7 +13077,7 @@ Here's a list of public Fediverse services.
 | non-designer.studio | Yes |
 | non-euclidean.space | No |
 | nona.li | No |
-| nonalogue.space | No |
+| nonalogue.space | Yes |
 | nonexiste.net | No |
 | nonfren.monster | No |
 | nonlinear.zone | No |
@@ -19861,7 +19862,7 @@ Here's a list of public Fediverse services.
 | wasmitnetzen.de | No |
 | wasp.ovh | Yes |
 | wasscher.com | No |
-| wasteland.digital | Yes |
+| wasteland.digital | No |
 | wasteland.pro | No |
 | wataame.cafe | No |
 | watachan.net | No |
@@ -20980,8 +20981,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,083 |
-| Normal | 16,854 |
+| Cloudflare | 4,085 |
+| Normal | 16,853 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
