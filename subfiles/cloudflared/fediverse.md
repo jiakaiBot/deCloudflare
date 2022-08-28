@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,655 |
 | social | 1,170 |
 | org | 1,133 |
-| de | 986 |
+| de | 987 |
 
 
 - Mastodon, Pleroma, etc
@@ -1006,6 +1006,7 @@ Here's a list of public Fediverse services.
 | ansiktsburk.se | No |
 | antabaka.me | No |
 | antarctic.ga | No |
+| antenesse.ml | No |
 | anthill.engineering | No |
 | anthro.cc | No |
 | anthro.in.th | Yes |
@@ -2095,7 +2096,7 @@ Here's a list of public Fediverse services.
 | blogda.ch | No |
 | blogger-mstdn.com | No |
 | blogging.dk | No |
-| blogold.xyz | Yes |
+| blogold.xyz | No |
 | blogoma.de | No |
 | blogroll.club | Yes |
 | blogs.jp | No |
@@ -9835,6 +9836,7 @@ Here's a list of public Fediverse services.
 | lekangouroo.me | No |
 | lekker.page | No |
 | lelaidier.net | No |
+| lelehier.de | No |
 | lelesius.eu | Yes |
 | lelux.fi | No |
 | lem.social | No |
@@ -20973,8 +20975,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,085 |
-| Normal | 16,845 |
+| Cloudflare | 4,084 |
+| Normal | 16,848 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
