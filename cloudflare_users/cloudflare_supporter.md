@@ -959,6 +959,7 @@ Do not create new issue or we will close it as duplicate.
 | [awastumpah@twitter](https://twitter.com/awastumpah/status/1402440693377732609) | advertise |
 | [awebtechexperts@twitter](https://twitter.com/awebtechexperts/status/1541658424894959617) | advertise |
 | [AwesomeFekry@twitter](https://twitter.com/AwesomeFekry/status/1425759860436635650) | advertise |
+| [AWineSpirit1@twitter](https://twitter.com/AWineSpirit1/status/1563878646443491328) | advertise |
 | [AWorld2012@twitter](https://twitter.com/AWorld2012/status/1403252237409914880) | advertise |
 | [Awotism@twitter](https://twitter.com/Awotism/status/1400651579120705543) | advertise |
 | [aw_htet@twitter](https://twitter.com/aw_htet/status/1392711448590094336) | advertise |
@@ -9642,6 +9643,7 @@ Do not create new issue or we will close it as duplicate.
 | [yaomspace@twitter](https://twitter.com/yaomspace/status/1389098290981990401) | advertise |
 | [YarisVu@twitter](https://twitter.com/YarisVu/status/1407379018479898625) | advertise |
 | [Yarkusar5@twitter](https://twitter.com/Yarkusar5/status/1378357752897015810) | advertise |
+| [yarkusar13@twitter](https://twitter.com/yarkusar13/status/1563890660456923136) | advertise |
 | [Yarokatomado@twitter](https://twitter.com/Yarokatomado/status/1393989781483368450) | advertise |
 | [yarrzuthit1@twitter](https://twitter.com/yarrzuthit1/status/1398500086557069313) | advertise |
 | [YarSu65501381@twitter](https://twitter.com/YarSu65501381/status/1377508995699646464) | advertise |
