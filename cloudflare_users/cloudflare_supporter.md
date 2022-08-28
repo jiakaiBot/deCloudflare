@@ -9251,6 +9251,7 @@ Do not create new issue or we will close it as duplicate.
 | [virtualtwit@twitter](https://twitter.com/virtualtwit/status/1532222794020581376) | advertise |
 | [Virus49868336@twitter](https://twitter.com/Virus49868336/status/1394191569666723840) | advertise |
 | [VishalB67584671@twitter](https://twitter.com/VishalB67584671/status/1398920445437505542) | advertise |
+| [vishalmajumdar_@twitter](https://twitter.com/vishalmajumdar_/status/1563810788376055808) | advertise |
 | [vishalnyk21@twitter](https://twitter.com/vishalnyk21/status/1404097712178352134) | advertise |
 | [Vishnur12459150@twitter](https://twitter.com/Vishnur12459150/status/1386911043763408898) | advertise |
 | [Vishnuv72775788@twitter](https://twitter.com/Vishnuv72775788/status/1404443503480827909) | advertise |
