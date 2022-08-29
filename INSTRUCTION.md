@@ -215,8 +215,8 @@ Your contribution will be pushed to git automatically.
 
 > Type D: Create an Issue
 
-Create an Issue and let us know about the change you want to make.
-You can [contribute anonymously](README.md).
+Create an Issue (you can also [contribute anonymously](README.md)) and let us know about the change you want to make.
+You can add multiple URLs in one issue.
 
 </details>
 
