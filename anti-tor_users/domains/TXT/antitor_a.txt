@@ -17,7 +17,6 @@ amp-lasexta-com.cdn.ampproject.org
 amp-theguardian-com.cdn.ampproject.org
 aneighborschoice.com
 anerwelten.lu
-anigma.io
 aothuntees.com
 aperu.net
 apollolemmon.com
@@ -35,6 +34,7 @@ awin68.top
 axisofeasy.com
 azthuoc.com
 bulletin.accurateshooter.com
+citationgecko.azurewebsites.net
 docs.aws.amazon.com
 learnsecurity.amazon.com
 motor-elpais-com.cdn.ampproject.org
@@ -52,6 +52,7 @@ www.academieduclimat.paris
 www.achgut.com
 www.acro.eu.org
 www.addonbiz.com
+www.aemarielle.com
 www.aeonbank.co.jp
 www.aesthetic-programming.net
 www.afnic.fr
@@ -67,6 +68,7 @@ www.amicusint.ca
 www.amorino.com
 www.amtrak.com
 www.anonyme-alkoholiker.de
+www.applic.or.jp
 www.aquaswitch.co.uk
 www.arabianbusiness.com
 www.arcaden-apotheke.com
@@ -76,6 +78,7 @@ www.army.mil
 www.articletab.com
 www.articlevibe.com
 www.as-web.jp
+www.asahiinryo.co.jp
 www.atari65xe.com
 www.atlantapd.org
 www.augenarzt-berlin-tempelhof.de
