@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Firefox / Safari compatibility ?](https://github.com/protomaps/PMTiles/issues/69)
 - [CF Constant Ratelimit](https://github.com/discord/discord-api-docs/issues/5385)
 - [Offline update not possible to 5.2.x](https://github.com/t3solution/t3sbootstrap/issues/254)
 - [Kissmanga.in failed to bypass Cloudflare but working fine in webview](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13261)
