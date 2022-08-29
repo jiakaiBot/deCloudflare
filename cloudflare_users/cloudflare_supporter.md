@@ -507,6 +507,7 @@ Do not create new issue or we will close it as duplicate.
 | [AmirKhalaj19@twitter](https://twitter.com/AmirKhalaj19/status/1555311811481804800) | advertise |
 | [AmirMansoury@twitter](https://twitter.com/AmirMansoury/status/1536930486601195520) | advertise |
 | [AmirShamaei@twitter](https://twitter.com/AmirShamaei/status/1380125118387589121) | advertise |
+| [Amirtalib02@twitter](https://twitter.com/Amirtalib02/status/1564245612412825601) | advertise |
 | [AmirullAyob@twitter](https://twitter.com/AmirullAyob/status/1474048815149682689) | advertise |
 | [Amirulsyafeeq66@twitter](https://twitter.com/Amirulsyafeeq66/status/1550517767899840512) | advertise |
 | [AmitSin32558267@twitter](https://twitter.com/AmitSin32558267/status/1483704135405142016) | advertise |
