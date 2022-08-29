@@ -10,6 +10,9 @@ let done = false,
 const baseurl = ['https://karma.crimeflare.eu.org:1984', 'http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion'];
 const waitstc = ['Hold on', 'One moment', 'Just a moment', 'Just a sec', 'Just a second', 'Nice find', 'Knock-knock!', 'Brill!', 'Brilliant!', 'Cool!', 'Good going!', 'Good job!', 'Good work!', 'Great!', 'Keep it up!', 'Marvelous!', 'Nice going!', 'Outstanding!', 'Perfect!', 'Right on!', 'Super!', 'Superb!', 'Terrific!', 'Thanks!', 'Wonderful!', 'Wow!', 'You are doing a good job!'];
 let domainCAT = {};
+let wblEnabled = false,
+   wblNOTIFY = false,
+   wblCats = {};
 function showreply(t, d, icon = '') {
    browser.notifications.clear(notify);
    browser.notifications.create(notify, {
@@ -990,6 +993,39 @@ if (!done) {
          setTimeout(testing_onion, 70000);
       }
       usePOP = (r.nocat95 == 1) ? true : false;
+      wblEnabled = (r.top9 == 1) ? true : false;
+      wblNOTIFY = (r.black99 == 1) ? true : false;
+      wblCats = {};
+      if (r.black02 == 1) {
+         wblCats['drugs'] = 1;
+      }
+      if (r.black03 == 1) {
+         wblCats['gambling'] = 1;
+      }
+      if (r.black17 == 1) {
+         wblCats['porngore'] = 1;
+      }
+      if (r.black07 == 1) {
+         wblCats['phishing'] = 1;
+      }
+      if (r.black09 == 1) {
+         wblCats['porn'] = 1;
+      }
+      if (r.black19 == 1) {
+         wblCats['pornstrict'] = 1;
+      }
+      if (r.black14 == 1) {
+         wblCats['scamming'] = 1;
+      }
+      if (r.black18 == 1) {
+         wblCats['pornsnuff'] = 1;
+      }
+      if (r.black20 == 1) {
+         wblCats['torrent'] = 1;
+      }
+      if (r.black13 == 1) {
+         wblCats['weapons'] = 1;
+      }
    });
    reload_menu();
 }
@@ -1017,7 +1053,7 @@ function update_icon(tID, tURL = '') {
          return;
       }
       let _url = new URL(tURL);
-      if ((_url.protocol != 'https:' && _url.protocol != 'http:') || _url.hostname.length < 4) {
+      if (!lookupCAT || (_url.protocol != 'https:' && _url.protocol != 'http:') || _url.hostname.length < 4) {
          browser.browserAction.setIcon({
             tabId: tID,
             path: 'icon.png'
@@ -2126,7 +2162,7 @@ function get_realdomain(w) {
    return wa[1] + '.' + wa[0];
 }
 browser.webRequest.onBeforeRequest.addListener(g => {
-   if (!lookupCAT || !g.tabId) {
+   if (!g.tabId || (!lookupCAT && !wblEnabled)) {
       return;
    }
    let fqdn = (new URL(g.url)).hostname,
@@ -2136,24 +2172,33 @@ browser.webRequest.onBeforeRequest.addListener(g => {
    }
    if (domainCAT[domain]) {
       domainCAT[domain][0] = tUNIX();
+      if (wblEnabled && domainCAT[domain][1] != '' && wblCats[domainCAT[domain][1]] == 1) {
+         if (wblNOTIFY) {
+            showreply('Blocked', domain, domainCAT[domain][1]);
+         }
+         return {
+            cancel: true
+         };
+      }
       return;
    }
+   let isTPR = (g.type == 'main_frame') ? true : false;
+   domainCAT[domain] = [tUNIX(), '', []];
    iGetSiteCat(fqdn).then(g => {
       if (g.length == 2) {
          if (g[0].length >= 4) {
             domainCAT[domain] = [tUNIX(), g[0], g[1]];
-         } else {
-            domainCAT[domain] = [tUNIX(), '', []];
          }
-         update_icon(null);
+         if (lookupCAT && isTPR) {
+            update_icon(null);
+         }
       }
    }, b => {});
 }, {
-   types: ['main_frame'],
    urls: ["http://*/*", "https://*/*"]
-});
+}, ["blocking"]);
 function cleanupDomainCAT() {
-   let lowat = tUNIX() - 86400;
+   let lowat = tUNIX() - 172800;
    for (f in domainCAT) {
       if (domainCAT[f] && domainCAT[f][0] < lowat) {
          delete(domainCAT[f]);
@@ -2246,8 +2291,50 @@ browser.runtime.onMessage.addListener((r, s, sr) => {
    }
    if (r[0] == 'top8') {
       lookupCAT = (r[1] == 1) ? true : false;
-      domainCAT = {};
+      if (!lookupCAT && !wblEnabled) {
+         domainCAT = {};
+      }
       update_icon(null);
+      sr(true);
+   }
+   if (r[0] == 'top9') {
+      wblEnabled = (r[1] == 1) ? true : false;
+      sr(true);
+   }
+   if (r[0] == 'wbl') {
+      if (r[1] == 'black99') {
+         wblNOTIFY = (r[2] == 1) ? true : false;
+      }
+      if (r[1] == 'black02') {
+         wblCats['drugs'] = r[2];
+      }
+      if (r[1] == 'black03') {
+         wblCats['gambling'] = r[2];
+      }
+      if (r[1] == 'black17') {
+         wblCats['porngore'] = r[2];
+      }
+      if (r[1] == 'black07') {
+         wblCats['phishing'] = r[2];
+      }
+      if (r[1] == 'black09') {
+         wblCats['porn'] = r[2];
+      }
+      if (r[1] == 'black19') {
+         wblCats['pornstrict'] = r[2];
+      }
+      if (r[1] == 'black14') {
+         wblCats['scamming'] = r[2];
+      }
+      if (r[1] == 'black18') {
+         wblCats['pornsnuff'] = r[2];
+      }
+      if (r[1] == 'black20') {
+         wblCats['torrent'] = r[2];
+      }
+      if (r[1] == 'black13') {
+         wblCats['weapons'] = r[2];
+      }
       sr(true);
    }
    if (r[0].startsWith('topWP') || r[0] == 'top4' || r[0] == 'top5' || r[0] == 'top6' || r[0] == 'top7') {
