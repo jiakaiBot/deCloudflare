@@ -7,6 +7,7 @@ gironanoticies-com.translate.goog
 istories-media.translate.goog
 katehon-com.translate.goog
 m.timesofindia.com
+pierrekory-substack-com.translate.goog
 searx.tux.land
 tajgold.net
 talkslegal.com
@@ -15,6 +16,7 @@ techthing.co.uk
 techuseof.com
 tedomum.net
 teideninfo.tepco.co.jp
+telecombloger.ru
 teleyal.blog
 termcoord.eu
 texteundtee.at
@@ -81,6 +83,7 @@ www.three.fm
 www.thv11.com
 www.timesnownews.com
 www.timexmica.com
+www.todaybizz.com
 www.tokyodisneyresort.jp
 www.torchsec.org
 www.toronto.ca
