@@ -6610,6 +6610,7 @@ Do not create new issue or we will close it as duplicate.
 | [OriginalAydin@twitter](https://twitter.com/OriginalAydin/status/1389601607273254913) | advertise |
 | [orutragolden@twitter](https://twitter.com/orutragolden/status/1391394853343436800) | advertise |
 | [OsaeStephen7@twitter](https://twitter.com/OsaeStephen7/status/1492858553492770819) | advertise |
+| [osako88@twitter](https://twitter.com/osako88/status/1564289077243002880) | advertise |
 | [osamaaly90@twitter](https://twitter.com/osamaaly90/status/1405389818499158017) | advertise |
 | [Osamavp88@twitter](https://twitter.com/Osamavp88/status/1553648608183869441) | advertise |
 | [oscarkm@twitter](https://twitter.com/oscarkm/status/1392306941628542978) | advertise |
@@ -8033,6 +8034,7 @@ Do not create new issue or we will close it as duplicate.
 | [soeyumon15@twitter](https://twitter.com/soeyumon15/status/1404333686925840389) | advertise |
 | [softword@twitter](https://twitter.com/softword/status/1495497302441709568) | advertise |
 | [sohail_2668@twitter](https://twitter.com/sohail_2668/status/1379913128268328961) | advertise |
+| [soidn12382@twitter](https://twitter.com/soidn12382/status/1564290659644715008) | advertise |
 | [soil35719772@twitter](https://twitter.com/soil35719772/status/1392742661144997890) | advertise |
 | [Sojolah02162432@twitter](https://twitter.com/Sojolah02162432/status/1401944661275545603) | advertise |
 | [solakoskik@twitter](https://twitter.com/solakoskik/status/1555226731350409216) | advertise |
