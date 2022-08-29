@@ -8053,6 +8053,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sonicbaba7@twitter](https://twitter.com/Sonicbaba7/status/1396189947124764678) | advertise |
 | [Sonicek3@twitter](https://twitter.com/Sonicek3/status/1386002746780766208) | advertise |
 | [sonlu14654722@twitter](https://twitter.com/sonlu14654722/status/1400477010179235842) | advertise |
+| [Sontung1081@twitter](https://twitter.com/Sontung1081/status/1564156305396285440) | advertise |
 | [SonuleSonule1@twitter](https://twitter.com/SonuleSonule1/status/1482956779067940866) | advertise |
 | [SonuneKaustubh@twitter](https://twitter.com/SonuneKaustubh/status/1383286380348940289) | advertise |
 | [SoomTip@twitter](https://twitter.com/SoomTip/status/1399714249832689665) | advertise |
