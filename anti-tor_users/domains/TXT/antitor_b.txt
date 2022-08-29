@@ -20,6 +20,7 @@ blockchaintimes.news
 blog.byl.fr
 blogatlarge.com
 blogrioufol.com
+blogscrolls.com
 boastcity.com
 bodennews.us
 bossmischief.bandcamp.com
@@ -38,9 +39,11 @@ discover.bbcrewind.co.uk
 ezrafurman.bandcamp.com
 investors.biontech.de
 otto-schruppke.beepworld.de
+pertin-nce.bandcamp.com
 pizzapause2.business.site
 sofasophia.blogda.ch
 spentzas.business.site
+taxonomypress.bigcartel.com
 telez.bandcamp.com
 thearchitectbeatshow.bandcamp.com
 wellsfargo.bluematrix.com
