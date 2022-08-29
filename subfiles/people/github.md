@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error renewing and re-adding SSL Certificates](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2233)
 - [Firefox / Safari compatibility ?](https://github.com/protomaps/PMTiles/issues/69)
 - [CF Constant Ratelimit](https://github.com/discord/discord-api-docs/issues/5385)
 - [Offline update not possible to 5.2.x](https://github.com/t3solution/t3sbootstrap/issues/254)
