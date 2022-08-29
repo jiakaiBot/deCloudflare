@@ -6269,6 +6269,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynTrngPhcHn2@twitter](https://twitter.com/NguynTrngPhcHn2/status/1389292187704119296) | advertise |
 | [NguynTrnhHongA3@twitter](https://twitter.com/NguynTrnhHongA3/status/1401956424331137028) | advertise |
 | [NguynTrnQuanSa1@twitter](https://twitter.com/NguynTrnQuanSa1/status/1377658912007102464) | advertise |
+| [NguynVi44331431@twitter](https://twitter.com/NguynVi44331431/status/1564084374597169154) | advertise |
 | [NguynVitTm1@twitter](https://twitter.com/NguynVitTm1/status/1516778185018712067) | advertise |
 | [Nguynvn32504660@twitter](https://twitter.com/Nguynvn32504660/status/1400969920246996996) | advertise |
 | [Nguynvn62079714@twitter](https://twitter.com/Nguynvn62079714/status/1515947957765689344) | advertise |
