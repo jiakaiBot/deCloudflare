@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Kissmanga.in failed to bypass Cloudflare but working fine in webview](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13261)
 - [bt4g (testing) Exception (bt4g): The cookies provided by FlareSolverr are not valid: The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/488)
 - [rejected by cloudflare bot protection](https://github.com/kurubushi/notion-cli-hs/issues/2)
 - [Helm chart fails to deploy via flux-cd without explicit image tag](https://github.com/kubernetes-sigs/external-dns/issues/2982)
