@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,872 |
+| com | 2,873 |
 | net | 1,656 |
 | social | 1,170 |
 | org | 1,133 |
@@ -6344,7 +6344,7 @@ Here's a list of public Fediverse services.
 | gabble.xyz | No |
 | gabeappleton.me | No |
 | gabekangas.com | No |
-| gabfed.com | No |
+| gabfed.com | Yes |
 | gabi.is | No |
 | gabnotes.org | No |
 | gabosh.net | No |
@@ -10660,6 +10660,7 @@ Here's a list of public Fediverse services.
 | mainframe.club | No |
 | mainz.social | Yes |
 | maiome.xyz | No |
+| maique.eu | No |
 | maique.xyz | No |
 | maiquemadeira.com | No |
 | maiserver.eu | No |
@@ -18156,6 +18157,7 @@ Here's a list of public Fediverse services.
 | thebigeasy.space | No |
 | thebigowo.xyz | Yes |
 | thebird.website | No |
+| thebitpros.com | No |
 | theblackgates.com | No |
 | thebmw.club | No |
 | thebonduniverse.net | No |
@@ -18627,6 +18629,7 @@ Here's a list of public Fediverse services.
 | toot.lv | Yes |
 | toot.me.uk | No |
 | toot.moe | Yes |
+| toot.monster | No |
 | toot.my | No |
 | toot.network | No |
 | toot.ninja | Yes |
@@ -20985,8 +20988,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,084 |
-| Normal | 16,858 |
+| Cloudflare | 4,085 |
+| Normal | 16,860 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
