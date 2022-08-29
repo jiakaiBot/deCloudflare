@@ -2478,6 +2478,7 @@ Do not create new issue or we will close it as duplicate.
 | [FlowerLay55@twitter](https://twitter.com/FlowerLay55/status/1391091959473709058) | advertise |
 | [floydssoda@twitter](https://twitter.com/floydssoda/status/1500792406425411588) | advertise |
 | [FlubioStudios@twitter](https://twitter.com/FlubioStudios/status/1408109166472929284) | advertise |
+| [FluffyAlaska@twitter](https://twitter.com/FluffyAlaska/status/1564057357205884928) | advertise |
 | [flukeheartz@twitter](https://twitter.com/flukeheartz/status/1402853874264801282) | advertise |
 | [flushdgrollings@twitter](https://twitter.com/flushdgrollings/status/1380788675882049537) | advertise |
 | [flux_wiz@twitter](https://twitter.com/flux_wiz/status/1460077906772693002) | advertise |
@@ -6280,6 +6281,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nh23497405@twitter](https://twitter.com/Nh23497405/status/1401057090571890691) | advertise |
 | [Nh32942687@twitter](https://twitter.com/Nh32942687/status/1400464711515209734) | advertise |
 | [Nh48061901@twitter](https://twitter.com/Nh48061901/status/1401803435079389187) | advertise |
+| [Nh95038329@twitter](https://twitter.com/Nh95038329/status/1564050613369188353) | advertise |
 | [nhan1767@twitter](https://twitter.com/nhan1767/status/1477412506297835520) | advertise |
 | [Nhan26459038@twitter](https://twitter.com/Nhan26459038/status/1403623731851714560) | advertise |
 | [nhann1810@twitter](https://twitter.com/nhann1810/status/1552949975642161152) | advertise |
