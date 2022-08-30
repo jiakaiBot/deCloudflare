@@ -36,6 +36,7 @@ Do not create new issue or we will close it as duplicate.
 | Evidence URL | Comment |
 | ----- | ----- |
 | [0b00d7ff853f434@twitter](https://twitter.com/0b00d7ff853f434/status/1389609817413611520) | advertise |
+| [0xCompton90@twitter](https://twitter.com/0xCompton90/status/1564576517283258369) | advertise |
 | [0xF00DBABE@twitter](https://twitter.com/0xF00DBABE/status/1389288756025376768) | advertise |
 | [0xOverflow@twitter](https://twitter.com/0xOverflow/status/1430323062650642435) | advertise |
 | [0xSonaMaka@twitter](https://twitter.com/0xSonaMaka/status/1491992920148578304) | advertise |
