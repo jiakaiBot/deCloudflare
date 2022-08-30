@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Module causes "__dirname is not defined" error when deploying to Cloudflare Workers](https://github.com/nuxt/image/issues/602)
 - [Error renewing and re-adding SSL Certificates](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2233)
 - [Firefox / Safari compatibility ?](https://github.com/protomaps/PMTiles/issues/69)
 - [CF Constant Ratelimit](https://github.com/discord/discord-api-docs/issues/5385)
