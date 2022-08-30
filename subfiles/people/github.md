@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Apple Private Relay third party ASNs are in asns_dcs.csv](https://github.com/Umkus/ip-index/issues/32)
+- [Astro Redirect Layout](https://github.com/KBVE/kbve.com/issues/3)
 - [target-net-filter and exclude-target-net arguments missing in 0.12.2](https://github.com/kubernetes-sigs/external-dns/issues/2988)
 - [Bad Gateway error on forumecho.eu](https://github.com/Forum-Echo/Forum-Echo-site/issues/16)
 - [Cloudflare workers module syntax support](https://github.com/Macrometacorp/jsC8/issues/110)
