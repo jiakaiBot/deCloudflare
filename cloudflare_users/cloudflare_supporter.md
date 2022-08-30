@@ -3090,6 +3090,7 @@ Do not create new issue or we will close it as duplicate.
 | [HoaiDuyHD@twitter](https://twitter.com/HoaiDuyHD/status/1394280447396311046) | advertise |
 | [hoaldvn@twitter](https://twitter.com/hoaldvn/status/1552228786044710917) | advertise |
 | [Hoang20057403@twitter](https://twitter.com/Hoang20057403/status/1401122093089976328) | advertise |
+| [Hoang49488616@twitter](https://twitter.com/Hoang49488616/status/1564519430385590272) | advertise |
 | [hoang62211862@twitter](https://twitter.com/hoang62211862/status/1532027792228962305) | advertise |
 | [Hoang63923946@twitter](https://twitter.com/Hoang63923946/status/1405016723959390210) | advertise |
 | [HOANGCHIBAO2@twitter](https://twitter.com/HOANGCHIBAO2/status/1395425087004626945) | advertise |
