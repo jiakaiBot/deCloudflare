@@ -362,6 +362,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ajimarshal147@twitter](https://twitter.com/Ajimarshal147/status/1546320827251048448) | advertise |
 | [AjiPamu85328045@twitter](https://twitter.com/AjiPamu85328045/status/1553241874751959040) | advertise |
 | [Ajithku52523413@twitter](https://twitter.com/Ajithku52523413/status/1397545056177836034) | advertise |
+| [AKAAD99@twitter](https://twitter.com/AKAAD99/status/1564399506875195392) | advertise |
 | [Akane81517314@twitter](https://twitter.com/Akane81517314/status/1385157407320395776) | advertise |
 | [Akar67545006@twitter](https://twitter.com/Akar67545006/status/1390752582860107778) | advertise |
 | [AkarAka20629391@twitter](https://twitter.com/AkarAka20629391/status/1391852878222987269) | advertise |
