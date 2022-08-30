@@ -10,10 +10,11 @@ This page show you how to block CloudFlare websites with proxy.
 
 ```
 function FindProxyForURL(url, host){
+var hip = dnsResolve(host);
 
 if (
-    isInNet(dnsResolve(host),"104.16.0.0","255.248.0.0")
-    ||isInNet(dnsResolve(host),"104.24.0.0","255.252.0.0")
+    isInNet(hip,"104.16.0.0","255.248.0.0")
+    ||isInNet(hip,"104.24.0.0","255.252.0.0")
 ){return "SOCKS5 0.0.0.0:7";}
 
 return "DIRECT";
