@@ -111,6 +111,10 @@
 - [PEOPLE.md](../PEOPLE.md)
   - [Twitter](people/twitter.md)
   - [Mastodon](people/mastodon.md)
+- How to Block Cloudflare
+  - [with DNS](block_cloudflare_with/dns.md)
+  - [with Firewall](block_cloudflare_with/firewall.md)
+  - [with Proxy](block_cloudflare_with/proxy.md)
 - [CloudFlare Watch](classics/README.md)
 - [About Ombrelo](service.ombrelo.md)
 - [Change default DNS provider of Firefox](change-firefox-dns.md)
