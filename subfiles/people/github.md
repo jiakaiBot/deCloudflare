@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [REST client returns promise that doesn't resolve during CloudFlare bans](https://github.com/discordjs/discord.js/issues/8574)
 - [Module causes "__dirname is not defined" error when deploying to Cloudflare Workers](https://github.com/nuxt/image/issues/602)
 - [Error renewing and re-adding SSL Certificates](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2233)
 - [Firefox / Safari compatibility ?](https://github.com/protomaps/PMTiles/issues/69)
