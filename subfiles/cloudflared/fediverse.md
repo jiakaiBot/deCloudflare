@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,875 |
+| com | 2,876 |
 | net | 1,657 |
 | social | 1,170 |
-| org | 1,134 |
+| org | 1,135 |
 | de | 988 |
 
 
@@ -3839,6 +3839,7 @@ Here's a list of public Fediverse services.
 | damarada.net | No |
 | damaron.net | No |
 | dame.life | No |
+| damenly.org | Yes |
 | damienplaysrecords.com | No |
 | damnetwork.nl | No |
 | damnserver.com | No |
@@ -19764,6 +19765,7 @@ Here's a list of public Fediverse services.
 | vtube.media | No |
 | vtube.space | No |
 | vtuber.eu.org | No |
+| vtubertalk.com | No |
 | vuc.me | No |
 | vucica.net | No |
 | vulcantv.net | No |
@@ -21001,8 +21003,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,092 |
-| Normal | 16,866 |
+| Cloudflare | 4,093 |
+| Normal | 16,867 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
