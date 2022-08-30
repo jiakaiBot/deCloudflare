@@ -1,6 +1,7 @@
 bbs.nga.cn
 blog.novatrend.ch
 blogs.nasa.gov
+dmesgd.nycbug.org
 english.ncsc.nl
 ingordidicinema.netsons.org
 international.nostate.net
