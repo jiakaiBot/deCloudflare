@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 2,875 |
 | net | 1,657 |
 | social | 1,170 |
-| org | 1,133 |
+| org | 1,134 |
 | de | 988 |
 
 
@@ -86,6 +86,7 @@ Here's a list of public Fediverse services.
 | 0xa.pw | Yes |
 | 0xabc.de | No |
 | 0xd.jp | No |
+| 0xdevelopers.online | No |
 | 0xemmy.me | No |
 | 0xf4240.bid | Yes |
 | 0xfa.de | No |
@@ -6022,6 +6023,7 @@ Here's a list of public Fediverse services.
 | freedomstrike.net | No |
 | freedomtothink.social | Yes |
 | freedomworkshop.com | No |
+| freedrm.org | No |
 | freefedifolk.com | No |
 | freefedifollowers.ga | No |
 | freeforge.eu | No |
@@ -21000,7 +21002,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,092 |
-| Normal | 16,864 |
+| Normal | 16,866 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
