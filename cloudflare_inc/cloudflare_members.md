@@ -984,6 +984,7 @@ Or is this merely a case of simple modesty?
 | Kris Kwiatkowski | Employee |  |
 | Kristar Ham | Sales Manager |  |
 | Kristian Freeman | Developer | https://twitter.com/imkmf<br>https://www.signalnerve.com/<br>https://github.com/signalnerve<br>kristian@kristianfreeman.com<br>k@bytesized.xyz<br> |
+| Kristina Galicova | Employee | |
 | Kristina Miguel | Backend Systems Engineer |  |
 | Kristina Scott | Global Marketing |  |
 | Kristina Williams | Employee | |
