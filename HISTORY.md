@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-08-30: [Cloudflare Bot Management issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pbn4sm2765gt)
 - 2022-08-29: [Network Performance Issues in New Delhi, India](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qznsg9qdg5ym)
 - 2022-08-28: [R2 Storage CopyObject is Temporarily Unavailable](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b0gmkqkbktlf)
 - 2022-08-26: [Potential issues with end users connecting to Cloudflare Edge](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/t9wfh9pg4f0c)
