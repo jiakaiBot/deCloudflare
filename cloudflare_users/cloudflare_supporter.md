@@ -8850,6 +8850,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tomi06515448@twitter](https://twitter.com/Tomi06515448/status/1408153839564435461) | advertise |
 | [TomLy48684910@twitter](https://twitter.com/TomLy48684910/status/1524992252317249536) | advertise |
 | [Tommy20493128@twitter](https://twitter.com/Tommy20493128/status/1552939904690438144) | advertise |
+| [Tommygu02410514@twitter](https://twitter.com/Tommygu02410514/status/1564500137195384832) | advertise |
 | [TommyLy71205879@twitter](https://twitter.com/TommyLy71205879/status/1395683024365264896) | advertise |
 | [TommyTai99@twitter](https://twitter.com/TommyTai99/status/1552008521771667456) | advertise |
 | [tommyxiaomi289@twitter](https://twitter.com/tommyxiaomi289/status/1552929032999927808) | advertise |
