@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,873 |
-| net | 1,656 |
+| com | 2,875 |
+| net | 1,657 |
 | social | 1,170 |
 | org | 1,133 |
 | de | 988 |
@@ -994,6 +994,7 @@ Here's a list of public Fediverse services.
 | anonymous.blue | No |
 | anonymous.wtf | Yes |
 | anormallostpod.ovh | No |
+| anosdesiertos.love | Yes |
 | another-guild.com | No |
 | anotherfoxguy.com | No |
 | anotherlooser.eu | No |
@@ -1854,6 +1855,7 @@ Here's a list of public Fediverse services.
 | beyermatthias.de | No |
 | beyleyisnot.moe | Yes |
 | beyondthe7thchamber.com | No |
+| beza.club | No |
 | bfan.cc | No |
 | bfoliver.com | No |
 | bfsu.cafe | Yes |
@@ -4222,6 +4224,7 @@ Here's a list of public Fediverse services.
 | dexonline.ro | No |
 | deyes.im | No |
 | dezilla.de | No |
+| dezucked.com | No |
 | dffm.de | No |
 | dflatmajor.social | No |
 | dfsek.com | Yes |
@@ -4549,6 +4552,7 @@ Here's a list of public Fediverse services.
 | dowata.xyz | No |
 | downey.net | No |
 | downtime.club | No |
+| dox.tf | Yes |
 | doxa.jp | No |
 | dozine.xyz | No |
 | dpc.pw | No |
@@ -4839,7 +4843,7 @@ Here's a list of public Fediverse services.
 | edtechstrategies.social | No |
 | eduardocollado.com | No |
 | education.fr | No |
-| educity.asia | Yes |
+| educity.asia | No |
 | educoop.coop | No |
 | edufor.me | No |
 | edunova.it | Yes |
@@ -10051,6 +10055,7 @@ Here's a list of public Fediverse services.
 | lifeisforhacking.community | No |
 | lifeweb.cc | No |
 | lifewithfuschia.com | No |
+| lightdashing.me | No |
 | lighteon.ru | No |
 | lightlyseared.online | No |
 | lightning.vodka | No |
@@ -11049,7 +11054,7 @@ Here's a list of public Fediverse services.
 | mastodon.quebec | No |
 | mastodon.radio | No |
 | mastodon.red | No |
-| mastodon.rocks | No |
+| mastodon.rocks | Yes |
 | mastodon.sbs | No |
 | mastodon.scot | Yes |
 | mastodon.se | No |
@@ -11774,7 +11779,7 @@ Here's a list of public Fediverse services.
 | mixremix.cc | No |
 | miyacorata.net | Yes |
 | miyon.org | Yes |
-| miyon.pw | Yes |
+| miyon.pw | No |
 | mizucoffee.net | No |
 | mj12.online | No |
 | mjb.im | No |
@@ -13419,6 +13424,7 @@ Here's a list of public Fediverse services.
 | offilth.stream | No |
 | offline.network | Yes |
 | offrealms.space | No |
+| offshore.ninja | Yes |
 | offsign.nl | No |
 | offsite.guru | No |
 | offtopic.town | No |
@@ -16871,6 +16877,7 @@ Here's a list of public Fediverse services.
 | smolnet.org | No |
 | smoothbrain.top | No |
 | smoothdream.me | Yes |
+| smoothdream.online | Yes |
 | smores.town | No |
 | smseden.com | Yes |
 | smuglo.li | Yes |
@@ -16903,6 +16910,7 @@ Here's a list of public Fediverse services.
 | sneakerwave.net | Yes |
 | sneakycrow.io | Yes |
 | sneakymonkey.io | No |
+| sneed.network | Yes |
 | sneed.org.uk | No |
 | sneed.shop | No |
 | sneed.social | No |
@@ -18321,6 +18329,7 @@ Here's a list of public Fediverse services.
 | thevillastraylight.com | No |
 | thevipvipers.space | No |
 | thewaifu.club | No |
+| thewalkingdeaf.net | Yes |
 | thewallsofnight.com | No |
 | thewarrens.name | No |
 | thewebzone.net | No |
@@ -20064,6 +20073,7 @@ Here's a list of public Fediverse services.
 | wildwood.town | No |
 | wileepeyote.net | No |
 | wilkie.how | No |
+| will-mccann.com | Yes |
 | will-nix.de | No |
 | willacy.rocks | No |
 | willfong.me | No |
@@ -20988,8 +20998,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,085 |
-| Normal | 16,860 |
+| Cloudflare | 4,091 |
+| Normal | 16,864 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
