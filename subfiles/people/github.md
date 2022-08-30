@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Bad Gateway error on forumecho.eu](https://github.com/Forum-Echo/Forum-Echo-site/issues/16)
 - [Cloudflare workers module syntax support](https://github.com/Macrometacorp/jsC8/issues/110)
 - [Certbot fails to generate Let's Encrypt certs on the first attempt](https://github.com/littlebizzy/slickstack/issues/173)
 - [REST client returns promise that doesn't resolve during CloudFlare bans](https://github.com/discordjs/discord.js/issues/8574)
