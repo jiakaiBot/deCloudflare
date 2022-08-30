@@ -1733,6 +1733,7 @@ Do not create new issue or we will close it as duplicate.
 | [cThn10480979@twitter](https://twitter.com/cThn10480979/status/1552491877168844801) | advertise |
 | [CThuSoe4@twitter](https://twitter.com/CThuSoe4/status/1393751002122129414) | advertise |
 | [CTKOfficialBlog@twitter](https://twitter.com/CTKOfficialBlog/status/1559135169616953344) | advertise |
+| [cTrung29433997@twitter](https://twitter.com/cTrung29433997/status/1564672882802040832) | advertise |
 | [ctrung34150272@twitter](https://twitter.com/ctrung34150272/status/1552996579921231877) | advertise |
 | [cTvR8N4qUnYottO@twitter](https://twitter.com/cTvR8N4qUnYottO/status/1403772888499605508) | advertise |
 | [CtyThi@twitter](https://twitter.com/CtyThi/status/1405680378308747264) | advertise |
@@ -4696,6 +4697,7 @@ Do not create new issue or we will close it as duplicate.
 | [LasteventsSpace@twitter](https://twitter.com/LasteventsSpace/status/1550721607030968320) | advertise |
 | [LASXD2@twitter](https://twitter.com/LASXD2/status/1396425725666762752) | advertise |
 | [Latina65648589@twitter](https://twitter.com/Latina65648589/status/1379128051192107014) | advertise |
+| [latta1891@twitter](https://twitter.com/latta1891/status/1564662935049236482) | advertise |
 | [LattminT@twitter](https://twitter.com/LattminT/status/1395096297296695299) | advertise |
 | [LattYar83488543@twitter](https://twitter.com/LattYar83488543/status/1390551081587859456) | advertise |
 | [Laucilos@twitter](https://twitter.com/Laucilos/status/1561809837725720577) | advertise |
@@ -5444,6 +5446,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinderManiac@twitter](https://twitter.com/MinderManiac/status/1555393267469914112) | advertise |
 | [Minecraftindon6@twitter](https://twitter.com/Minecraftindon6/status/1475411079098355713) | advertise |
 | [Minemu@twitter](https://twitter.com/Minemu/status/1421686937522348036) | advertise |
+| [MingMin02597486@twitter](https://twitter.com/MingMin02597486/status/1564671348097527808) | advertise |
 | [Minh1717@twitter](https://twitter.com/Minh1717/status/1401879124075892736) | advertise |
 | [minh2995@twitter](https://twitter.com/minh2995/status/1494965864340537346) | advertise |
 | [minh85912@twitter](https://twitter.com/minh85912/status/1482260480852824065) | advertise |
