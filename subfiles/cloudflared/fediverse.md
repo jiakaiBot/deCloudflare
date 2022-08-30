@@ -6327,6 +6327,7 @@ Here's a list of public Fediverse services.
 | fyeshit.com | No |
 | fyksen.me | Yes |
 | fym.moe | Yes |
+| fyrf.li | No |
 | fyrfli.live | Yes |
 | fzmn.blog | Yes |
 | g-fukurowl.club | No |
@@ -6523,7 +6524,7 @@ Here's a list of public Fediverse services.
 | gegeweb.org | No |
 | geislingen.net | Yes |
 | geismar.paris | No |
-| geisteskultur.de | No |
+| geisteskultur.de | Yes |
 | geknupp.de | No |
 | gelez.xyz | No |
 | gelotte.dev | No |
@@ -20998,7 +20999,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,091 |
+| Cloudflare | 4,092 |
 | Normal | 16,864 |
 
 
