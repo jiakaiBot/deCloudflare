@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Certbot fails to generate Let's Encrypt certs on the first attempt](https://github.com/littlebizzy/slickstack/issues/173)
 - [REST client returns promise that doesn't resolve during CloudFlare bans](https://github.com/discordjs/discord.js/issues/8574)
 - [Module causes "__dirname is not defined" error when deploying to Cloudflare Workers](https://github.com/nuxt/image/issues/602)
 - [Error renewing and re-adding SSL Certificates](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2233)
