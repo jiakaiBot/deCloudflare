@@ -1,3 +1,4 @@
+cnn.videomemetemplate.com
 earlyvalentines.vercel.app
 forums.virtualbox.org
 friendica.vrije-mens.org
@@ -8,7 +9,10 @@ verband-brg.de
 vincentbreton.fr
 vnetmedia.vn
 vstalarm.com
+vutaelectrical.com
+www.variete.de
 www.vdi.de
+www.ventennipaperoni.com
 www.veronapress.com
 www.videodrome2.fr
 www.vietnamworks.com
