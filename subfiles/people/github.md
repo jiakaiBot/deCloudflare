@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [server error on unhandled routes with no way to actually handle them](https://github.com/withastro/astro/issues/4561)
 - [Apple Private Relay third party ASNs are in asns_dcs.csv](https://github.com/Umkus/ip-index/issues/32)
 - [Astro Redirect Layout](https://github.com/KBVE/kbve.com/issues/3)
 - [target-net-filter and exclude-target-net arguments missing in 0.12.2](https://github.com/kubernetes-sigs/external-dns/issues/2988)
