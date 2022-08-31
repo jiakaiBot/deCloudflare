@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,876 |
-| net | 1,657 |
-| social | 1,170 |
-| org | 1,135 |
-| de | 988 |
+| com | 2,877 |
+| net | 1,658 |
+| social | 1,171 |
+| org | 1,136 |
+| de | 989 |
 
 
 - Mastodon, Pleroma, etc
@@ -1644,6 +1644,7 @@ Here's a list of public Fediverse services.
 | bari-ikutsu.com | No |
 | barippi.com | No |
 | bark.house | No |
+| barkoczy.social | No |
 | barkshark.tk | No |
 | barkshark.xyz | No |
 | barra.bar | No |
@@ -4546,6 +4547,7 @@ Here's a list of public Fediverse services.
 | doubleword.gq | No |
 | doublewordplay.com | No |
 | douchi.space | Yes |
+| doufen.org | Yes |
 | doug.computer | No |
 | doug.pub | No |
 | douga.ga | No |
@@ -5812,6 +5814,7 @@ Here's a list of public Fediverse services.
 | flexnation.xyz | No |
 | flifloo.fr | Yes |
 | flim.ml | No |
+| flimpie.net | No |
 | flintfam.org | No |
 | flirtingwithnihilism.com | No |
 | flisol.com.br | No |
@@ -6831,6 +6834,7 @@ Here's a list of public Fediverse services.
 | goisgod.com | Yes |
 | goji84.xyz | No |
 | goku.zone | No |
+| golangengine.de | No |
 | goldandblack.club | No |
 | goldandblack.xyz | No |
 | goldborneroad.dev | No |
@@ -9272,6 +9276,7 @@ Here's a list of public Fediverse services.
 | kjwon15.net | Yes |
 | kksg.net | No |
 | kl1pp3l.de | No |
+| klaewyss.fr | No |
 | klaki.net | No |
 | klamath.jp | No |
 | klardenken.tv | No |
@@ -9662,6 +9667,7 @@ Here's a list of public Fediverse services.
 | lainia.net | No |
 | lainia.xyz | No |
 | lainist.net | No |
+| lainlewd.me | No |
 | lainoa.eus | No |
 | lainon.life | No |
 | lainternet.online | No |
@@ -13634,7 +13640,7 @@ Here's a list of public Fediverse services.
 | opensourcemusings.com | No |
 | openspace.cf | No |
 | openstreetmap.fr | No |
-| opentechnologies.co.za | No |
+| opentechnologies.co.za | Yes |
 | opentoken.de | No |
 | opentunisia.org | No |
 | openvalencia.site | No |
@@ -14412,6 +14418,7 @@ Here's a list of public Fediverse services.
 | pitchfork.club | Yes |
 | pitichampi.fr | No |
 | pitman.social | No |
+| piusbird.space | No |
 | pivox.net | No |
 | pivx.org | Yes |
 | piweb.be | No |
@@ -18990,6 +18997,7 @@ Here's a list of public Fediverse services.
 | tuomisto.io | No |
 | tupambae.org | No |
 | tupot.pl | Yes |
+| turbinekreuzberg.com | No |
 | turbo.chat | No |
 | turingfesten.dk | No |
 | turkeyhousepublishing.com | No |
@@ -20018,6 +20026,7 @@ Here's a list of public Fediverse services.
 | whanau.org | No |
 | what.re | No |
 | whatever.cz | Yes |
+| whatthe.horse | Yes |
 | whatwaslostisfound.co.uk | No |
 | when.computer | No |
 | whereaboat.rocks | No |
@@ -21003,8 +21012,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,093 |
-| Normal | 16,867 |
+| Cloudflare | 4,096 |
+| Normal | 16,873 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
