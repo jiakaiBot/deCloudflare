@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [public R2 issues](https://github.com/skymethod/denoflare/issues/26)
 - [not enough values to unpack](https://github.com/useragents/Valorant-Account-Checker-with-Capture/issues/11)
 - [stencil start 403 (stencil version check producing cloudflare challenge)](https://github.com/bigcommerce/stencil-cli/issues/975)
 - [sentry.captureException(error) is not called](https://github.com/honojs/sentry/issues/3)
