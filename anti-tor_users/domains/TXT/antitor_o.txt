@@ -5,6 +5,7 @@ library.oapen.org
 oasisgrill.com
 omnichannel-support.com
 orindaoptometrygroup.com
+osagenews.org
 outorah.org
 ozdatarecovery.com.au
 results.okelections.us
@@ -14,9 +15,11 @@ www.ohchr.org
 www.onebyonemall.com
 www.oneindia.com
 www.onmanorama.com
+www.openandcandid.com
 www.opticsplanet.com
 www.origin.com
 www.ortho-docs-berlin.de
+www.orthopraxis.de
 www.osteria-caruso.de
 www.ota-eastplano.com
 www.outlaw-ggmbh.de
