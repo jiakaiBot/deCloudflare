@@ -3620,6 +3620,7 @@ Do not create new issue or we will close it as duplicate.
 | [jackck76316576@twitter](https://twitter.com/jackck76316576/status/1381264209636327426) | advertise |
 | [jackdan8@twitter](https://twitter.com/jackdan8/status/1497731130438606858) | advertise |
 | [Jackjun53391478@twitter](https://twitter.com/Jackjun53391478/status/1399663365056655361) | advertise |
+| [Jacksg79@twitter](https://twitter.com/Jacksg79/status/1565040464893423616) | advertise |
 | [Jackson94034538@twitter](https://twitter.com/Jackson94034538/status/1396744861370355714) | advertise |
 | [Jacksondwyer99@twitter](https://twitter.com/Jacksondwyer99/status/1381773140376711172) | advertise |
 | [JacksonOo13@twitter](https://twitter.com/JacksonOo13/status/1405370537648422916) | advertise |
@@ -7879,6 +7880,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shivam37917303@twitter](https://twitter.com/Shivam37917303/status/1392053697094459398) | advertise |
 | [ShivamC35367451@twitter](https://twitter.com/ShivamC35367451/status/1394547785760862208) | advertise |
 | [Shivani46522218@twitter](https://twitter.com/Shivani46522218/status/1401096442291261443) | advertise |
+| [Shjrooo@twitter](https://twitter.com/Shjrooo/status/1565040548141969408) | advertise |
 | [shoguniphicus@twitter](https://twitter.com/shoguniphicus/status/1387414142043058177) | advertise |
 | [shoonLaPyae4@twitter](https://twitter.com/shoonLaPyae4/status/1389818843208589315) | advertise |
 | [shootme_b@twitter](https://twitter.com/shootme_b/status/1382897397764923393) | advertise |
