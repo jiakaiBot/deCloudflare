@@ -1,10 +1,12 @@
 abcnews4.com
+abcnotation.com
 abracada.net
 abrasushotel.jp
 acrna.org
 adeptpromotions.com.au
 adi.com.ng
 adn56.net
+afallen.cymru
 aftertherapturepetcare.com
 ai-techpark.com
 alexandrawolfe.ca
@@ -42,6 +44,7 @@ azthuoc.com
 bulletin.accurateshooter.com
 citationgecko.azurewebsites.net
 docs.aws.amazon.com
+forum.axishistory.com
 learnsecurity.amazon.com
 motor-elpais-com.cdn.ampproject.org
 newsable.asianetnews.com
@@ -55,6 +58,7 @@ us-west-1.console.aws.amazon.com
 www.a-legend.net
 www.abandonedamerica.us
 www.abc4.com
+www.abeletbellina.be
 www.academieduclimat.paris
 www.achgut.com
 www.acro.eu.org
@@ -70,11 +74,15 @@ www.aimsib.org
 www.albanyca.org
 www.aljazeera.com
 www.alldente.de
+www.alphabpo.com
 www.alphacadservice.com
+www.alternatiways.com
 www.amicusint.ca
 www.amorino.com
 www.amtrak.com
 www.anonyme-alkoholiker.de
+www.apotheke-leonhardt.com
+www.apotheken.com
 www.applevis.com
 www.applic.or.jp
 www.aquaswitch.co.uk
@@ -87,6 +95,7 @@ www.articletab.com
 www.articlevibe.com
 www.as-web.jp
 www.asahiinryo.co.jp
+www.asn.fr
 www.atari65xe.com
 www.atlantapd.org
 www.augenarzt-berlin-tempelhof.de
