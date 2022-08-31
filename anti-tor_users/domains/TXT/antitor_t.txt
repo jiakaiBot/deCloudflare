@@ -7,6 +7,7 @@ gironanoticies-com.translate.goog
 igorchudov-substack-com.translate.goog
 istories-media.translate.goog
 katehon-com.translate.goog
+konkret24.tvn24.pl
 m.timesofindia.com
 pierrekory-substack-com.translate.goog
 searx.tux.land
@@ -24,6 +25,7 @@ texteundtee.at
 tflcar.com
 thebristolcable.org
 thecryptoinn.com
+theecologist.org
 thefederal.com
 thegloriousamerican.com
 thenewamerican.com
@@ -63,11 +65,13 @@ www.tabechoku.com
 www.takarashuzo.co.jp
 www.tampabeacon.com
 www.tampafp.com
+www.tandooriflame.de
 www.tcichemicals.com
 www.technologic.com.tr
 www.tepco.co.jp
 www.thebeachacademy.com
 www.thebeaverton.com
+www.thebellonline.net
 www.thecentersquare.com
 www.thecleanbeautyboutique.com
 www.thedailystar.com
@@ -81,10 +85,12 @@ www.thepetsworkshop.com.sg
 www.theroar.com.au
 www.thespruceeats.com
 www.thetodayguide.com
+www.thetrafalgargroup.org
 www.theweek.in
 www.thoughtco.com
 www.three.fm
 www.thv11.com
+www.tiertherapie-komaromi.com
 www.timesnownews.com
 www.timexmica.com
 www.todaybizz.com
