@@ -4295,8 +4295,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8542,6 +8542,7 @@ Do not create new issue or we will close it as duplicate.
 | [the3ASiC@twitter](https://twitter.com/the3ASiC/status/1493630130664919041) | advertise |
 | [TheAnh23257867@twitter](https://twitter.com/TheAnh23257867/status/1553976137063141378) | advertise |
 | [TheCrowdFundLaw@twitter](https://twitter.com/TheCrowdFundLaw/status/1394434955032285186) | advertise |
+| [TheFakeLiu@twitter](https://twitter.com/TheFakeLiu/status/1564755839138799618) | advertise |
 | [theFandS@twitter](https://twitter.com/theFandS/status/1489624246095470593) | advertise |
 | [Thegamerprogra3@twitter](https://twitter.com/Thegamerprogra3/status/1545423522876772352) | advertise |
 | [TheGodOfEvil23@twitter](https://twitter.com/TheGodOfEvil23/status/1393882433750278151) | advertise |
