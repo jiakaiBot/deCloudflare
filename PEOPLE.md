@@ -40,6 +40,7 @@
 <details>
 <summary><h3>News / Blog</h3></summary>
 
+- [Leistungsschutzrecht: Netzsperre legt Teile des Internets in Österreich lahm](https://www.heise.de/news/Leistungsschutzrecht-Netzsperre-legt-Teile-des-Internets-in-Oesterreich-lahm-7247466.html)
 - [Cloudflare outage hit Discord, other services in India](https://techcrunch.com/2022/06/15/cloudflare-outage-hits-discord-gitlab-and-other-services-in-india/)
 - [Cloudflare Stats for 2022: How Many Websites Use Cloudflare?](https://backlinko.com/cloudflare-users)
 - [Richard Stallman on Why Sites With Clownflare (Cloudflare) Harm Freedom and Human Rights](http://techrights.org/2022/03/21/rms-vs-clownflare/)
@@ -147,6 +148,7 @@
 <summary><h3>Forum / Wiki</h3>
 </summary>
 
+- [Website in proxied mode not reachable in Leipzig/Germany](https://community.cloudflare.com/t/website-in-proxied-mode-not-reachable-in-leipzig-germany/414279)
 - [Cloudflare's abusive monoply on the WWW](https://old.reddit.com/r/privacy/comments/r1bct2/cloudflares_abusive_monoply_on_the_www/)
 - [Suddenly Sickness Feels, Cloudflare, really F-Droid?](https://forum.f-droid.org/t/suddenly-sickness-feels-cloudflare-really-f-droid/17948)
 - [Suggestion to add all Apps which connect to CloudFlare by default](https://forum.f-droid.org/t/suggestion-to-add-all-apps-which-connect-to-cloudflare-by-default/18114)
