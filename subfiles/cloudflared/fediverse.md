@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,879 |
-| net | 1,658 |
+| net | 1,659 |
 | social | 1,171 |
 | org | 1,136 |
-| de | 989 |
+| de | 990 |
 
 
 - Mastodon, Pleroma, etc
@@ -1244,6 +1244,7 @@ Here's a list of public Fediverse services.
 | aryasenna.net | Yes |
 | as211696.net | No |
 | as60927.net | No |
+| as62430.net | Yes |
 | asa2.xyz | No |
 | asafniv.me | No |
 | asagayagaya.com | No |
@@ -11918,7 +11919,7 @@ Here's a list of public Fediverse services.
 | mond-basis.eu | No |
 | monedalliure.org | No |
 | monero.wf | No |
-| mong.chat | Yes |
+| mong.chat | No |
 | monga.site | No |
 | mongkok.online | Yes |
 | monigh.nl | No |
@@ -14020,6 +14021,7 @@ Here's a list of public Fediverse services.
 | parinux.org | No |
 | paritybit.ca | No |
 | parkgaedae.com | No |
+| parkour-eppingen.de | No |
 | parkrocker.com | No |
 | parlementum.net | No |
 | parler.team | No |
@@ -21017,7 +21019,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,097 |
-| Normal | 16,876 |
+| Normal | 16,878 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
