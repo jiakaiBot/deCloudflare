@@ -4300,8 +4300,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5905,6 +5905,7 @@ Do not create new issue or we will close it as duplicate.
 | [MyoSett12@twitter](https://twitter.com/MyoSett12/status/1389977223403163651) | advertise |
 | [myosotis_r@twitter](https://twitter.com/myosotis_r/status/1520300047099101185) | advertise |
 | [MyoThan41163295@twitter](https://twitter.com/MyoThan41163295/status/1384727783117447172) | advertise |
+| [MyoThan91151561@twitter](https://twitter.com/MyoThan91151561/status/1565018970112921600) | advertise |
 | [MyoThet04519795@twitter](https://twitter.com/MyoThet04519795/status/1376759455396716552) | advertise |
 | [MyoThida11@twitter](https://twitter.com/MyoThida11/status/1389682571219456001) | advertise |
 | [MyoThih37267769@twitter](https://twitter.com/MyoThih37267769/status/1390724420310736903) | advertise |
@@ -6550,6 +6551,7 @@ Do not create new issue or we will close it as duplicate.
 | [Official_Aidzyy@twitter](https://twitter.com/Official_Aidzyy/status/1429092121550667785) | advertise |
 | [of_544@twitter](https://twitter.com/of_544/status/1395086316665118720) | advertise |
 | [of_yomi@twitter](https://twitter.com/of_yomi/status/1529872490008170498) | advertise |
+| [Oggy57638380@twitter](https://twitter.com/Oggy57638380/status/1565005988591448064) | advertise |
 | [ogrekevin@twitter](https://twitter.com/ogrekevin/status/1460589005171535883) | advertise |
 | [OG_PvP_@twitter](https://twitter.com/OG_PvP_/status/1458513520115474437) | advertise |
 | [OhAeri36127137@twitter](https://twitter.com/OhAeri36127137/status/1401014602033414148) | advertise |
