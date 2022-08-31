@@ -1721,6 +1721,7 @@ Do not create new issue or we will close it as duplicate.
 | [Crush82584793@twitter](https://twitter.com/Crush82584793/status/1396107509656481794) | advertise |
 | [crxckyt@twitter](https://twitter.com/crxckyt/status/1385437055799418882) | advertise |
 | [Crypto202014@twitter](https://twitter.com/Crypto202014/status/1387859463168659457) | advertise |
+| [cryptofans13@twitter](https://twitter.com/cryptofans13/status/1564864914879299584) | advertise |
 | [cryptoguy202111@twitter](https://twitter.com/cryptoguy202111/status/1401154202269884417) | advertise |
 | [cryptolinx1@twitter](https://twitter.com/cryptolinx1/status/1528762892845207552) | advertise |
 | [Cryptolover10@twitter](https://twitter.com/Cryptolover10/status/1394207496680579072) | advertise |
@@ -2613,6 +2614,7 @@ Do not create new issue or we will close it as duplicate.
 | [geolffrey_mena@twitter](https://twitter.com/geolffrey_mena/status/1462463345290797060) | advertise |
 | [georgegijo@twitter](https://twitter.com/georgegijo/status/1389736443904331778) | advertise |
 | [GeorgeMichaelH7@twitter](https://twitter.com/GeorgeMichaelH7/status/1551655020944318469) | advertise |
+| [georgeyotov@twitter](https://twitter.com/georgeyotov/status/1564823393417187328) | advertise |
 | [Geoxis_co@twitter](https://twitter.com/Geoxis_co/status/1442723657147506693) | advertise |
 | [Germanyme150598@twitter](https://twitter.com/Germanyme150598/status/1533276349946662912) | advertise |
 | [getferdi@twitter](https://twitter.com/getferdi/status/1519038075669827586) | advertise |
@@ -7209,6 +7211,7 @@ Do not create new issue or we will close it as duplicate.
 | [radpaluszak@twitter](https://twitter.com/radpaluszak/status/1398323773435265028) | advertise |
 | [radrohamymailc1@twitter](https://twitter.com/radrohamymailc1/status/1494955192973942785) | advertise |
 | [radthebad007@twitter](https://twitter.com/radthebad007/status/1395685973443452929) | advertise |
+| [rafinmariam5656@twitter](https://twitter.com/rafinmariam5656/status/1564864639422590978) | advertise |
 | [ragab1234341@twitter](https://twitter.com/ragab1234341/status/1392273173442408448) | advertise |
 | [raghu83283525@twitter](https://twitter.com/raghu83283525/status/1377305204429791233) | advertise |
 | [raha46556016@twitter](https://twitter.com/raha46556016/status/1488618706372542470) | advertise |
@@ -7729,6 +7732,7 @@ Do not create new issue or we will close it as duplicate.
 | [seeislam1@twitter](https://twitter.com/seeislam1/status/1404986738712498183) | advertise |
 | [seekingforligh1@twitter](https://twitter.com/seekingforligh1/status/1390488497924894726) | advertise |
 | [SeethaAravind1@twitter](https://twitter.com/SeethaAravind1/status/1386943954227138570) | advertise |
+| [seexauxi@twitter](https://twitter.com/seexauxi/status/1564839805858435072) | advertise |
 | [seeza_io@twitter](https://twitter.com/seeza_io/status/1483507214774161411) | advertise |
 | [sefarpost@twitter](https://twitter.com/sefarpost/status/1481589801899937793) | advertise |
 | [segelasusultra@twitter](https://twitter.com/segelasusultra/status/1402986195907317760) | advertise |
