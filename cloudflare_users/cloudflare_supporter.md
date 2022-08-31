@@ -2774,6 +2774,7 @@ Do not create new issue or we will close it as duplicate.
 | [g_garces03@twitter](https://twitter.com/g_garces03/status/1509688123894206465) | advertise |
 | [h29id@twitter](https://twitter.com/h29id/status/1370211563068551170) | advertise |
 | [HabijulKhan8@twitter](https://twitter.com/HabijulKhan8/status/1405041121261080576) | advertise |
+| [hachung1710@twitter](https://twitter.com/hachung1710/status/1564972921746903041) | advertise |
 | [hack3r_oneness@twitter](https://twitter.com/hack3r_oneness/status/1399036170223308803) | advertise |
 | [HackersOIHEC@twitter](https://twitter.com/HackersOIHEC/status/1478127124368269317) | advertise |
 | [HackersOmhe@twitter](https://twitter.com/HackersOmhe/status/1478127124368269317) | advertise |
@@ -9280,6 +9281,7 @@ Do not create new issue or we will close it as duplicate.
 | [villas2@twitter](https://twitter.com/villas2/status/1411462670532943876) | moral (advertise) |
 | [VinceAgwada@twitter](https://twitter.com/VinceAgwada/status/1459889193476263939) | advertise |
 | [Vincent38099573@twitter](https://twitter.com/Vincent38099573/status/1381281485987061768) | advertise |
+| [Vincent67798867@twitter](https://twitter.com/Vincent67798867/status/1564953677257150464) | advertise |
 | [VincentNguyn5@twitter](https://twitter.com/VincentNguyn5/status/1552245153322397697) | advertise |
 | [VinhH55904850t@twitter](https://twitter.com/VinhH55904850t/status/1477898812764999681) | advertise |
 | [vinhlcv@twitter](https://twitter.com/vinhlcv/status/1508827801981714432) | advertise |
@@ -9818,6 +9820,7 @@ Do not create new issue or we will close it as duplicate.
 | [Youngking25555@twitter](https://twitter.com/Youngking25555/status/1536301530193743872) | advertise |
 | [youngmao89@twitter](https://twitter.com/youngmao89/status/1478019085409533955) | advertise |
 | [YourDad50670613@twitter](https://twitter.com/YourDad50670613/status/1404477486487019527) | advertise |
+| [yourkshitij@twitter](https://twitter.com/yourkshitij/status/1564977033435705344) | advertise |
 | [yourname1145@twitter](https://twitter.com/yourname1145/status/1485279023383334919) | advertise |
 | [YouWereTaken_@twitter](https://twitter.com/YouWereTaken_/status/1386969545756213254) | advertise |
 | [yowisayik@twitter](https://twitter.com/yowisayik/status/1396547687055384577) | advertise |
