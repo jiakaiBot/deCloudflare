@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [stencil start 403 (stencil version check producing cloudflare challenge)](https://github.com/bigcommerce/stencil-cli/issues/975)
 - [sentry.captureException(error) is not called](https://github.com/honojs/sentry/issues/3)
 - [Unable to integrate hCaptcha to Remix app](https://github.com/hCaptcha/react-hcaptcha/issues/154)
 - [server error on unhandled routes with no way to actually handle them](https://github.com/withastro/astro/issues/4561)
