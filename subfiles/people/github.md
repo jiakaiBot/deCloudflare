@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [sentry.captureException(error) is not called](https://github.com/honojs/sentry/issues/3)
 - [Unable to integrate hCaptcha to Remix app](https://github.com/hCaptcha/react-hcaptcha/issues/154)
 - [server error on unhandled routes with no way to actually handle them](https://github.com/withastro/astro/issues/4561)
 - [Apple Private Relay third party ASNs are in asns_dcs.csv](https://github.com/Umkus/ip-index/issues/32)
