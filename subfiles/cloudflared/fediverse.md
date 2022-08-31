@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,877 |
+| com | 2,879 |
 | net | 1,658 |
 | social | 1,171 |
 | org | 1,136 |
@@ -1758,6 +1758,7 @@ Here's a list of public Fediverse services.
 | beerfactory.org | No |
 | beesbuzz.biz | No |
 | beeslink.com | No |
+| beetoons.tv | No |
 | begbie.party | Yes |
 | begoo.bar | No |
 | begovoy.club | No |
@@ -5329,6 +5330,7 @@ Here's a list of public Fediverse services.
 | f11k.de | No |
 | f12n.de | No |
 | f1sh.de | No |
+| f40c40.com | No |
 | f4n.de | No |
 | f5.si | No |
 | f5n.org | No |
@@ -10753,6 +10755,7 @@ Here's a list of public Fediverse services.
 | mangadon.info | Yes |
 | mangadon.net | Yes |
 | mangayoh.fr | No |
+| mangoranch.lol | No |
 | manhater.io | No |
 | manheim.info | No |
 | manhole.club | Yes |
@@ -19567,6 +19570,7 @@ Here's a list of public Fediverse services.
 | vernunftzentrum.de | No |
 | veroone.fr | No |
 | verr.cc | No |
+| verumsocial.com | Yes |
 | verwirrung.institute | No |
 | verya.pe | No |
 | veryamt.com | Yes |
@@ -21012,8 +21016,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,096 |
-| Normal | 16,873 |
+| Cloudflare | 4,097 |
+| Normal | 16,876 |
 
 
 ### 19.5% of public Fediverse services are using Cloudflare.
