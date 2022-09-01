@@ -85,6 +85,7 @@
   - [How many % of Privacy organizations are using Cloudflare?](cloudflared/privacy_organizations.md)
   - [How many % of Computer security companies are using Cloudflare?](cloudflared/computer_security.md) #antivirus
   - [How many % of F-Droid mirror sites are using Cloudflare?](cloudflared/fdroid_mirrors.md)
+  - [How many % of domains listed in Netzsperren Liwest are using Cloudflare?](subfiles/cloudflared/netzsperren_liwest.md)
 - Name Servers on the Internet
   - [September 2021](nameservers/2021-09.md)
   - [December 2021](nameservers/2021-12.md)
