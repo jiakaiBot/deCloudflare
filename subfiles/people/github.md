@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Stop promoting Cloudflare and DoH services!](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt/issues/53)
 - [public R2 issues](https://github.com/skymethod/denoflare/issues/26)
 - [not enough values to unpack](https://github.com/useragents/Valorant-Account-Checker-with-Capture/issues/11)
 - [stencil start 403 (stencil version check producing cloudflare challenge)](https://github.com/bigcommerce/stencil-cli/issues/975)
