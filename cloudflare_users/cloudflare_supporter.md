@@ -1684,6 +1684,7 @@ Do not create new issue or we will close it as duplicate.
 | [connordoesdev@twitter](https://twitter.com/connordoesdev/status/1531927162042953728) | advertise |
 | [Conquera99@twitter](https://twitter.com/Conquera99/status/1391184679240273923) | advertise |
 | [consultingby_b@twitter](https://twitter.com/consultingby_b/status/1382897455247851520) | advertise |
+| [ConsultOrlovsky@twitter](https://twitter.com/ConsultOrlovsky/status/1565453465786191872) | advertise |
 | [conter_86@twitter](https://twitter.com/conter_86/status/1488218108754108420) | advertise |
 | [CoolMax002ish@twitter](https://twitter.com/CoolMax002ish/status/1399164860928245763) | advertise |
 | [CopyImage12@twitter](https://twitter.com/CopyImage12/status/1388503829142851588) | advertise |
