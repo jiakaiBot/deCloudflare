@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,879 |
+| com | 2,880 |
 | net | 1,659 |
 | social | 1,171 |
 | org | 1,136 |
-| de | 990 |
+| de | 992 |
 
 
 - Mastodon, Pleroma, etc
@@ -556,6 +556,7 @@ Here's a list of public Fediverse services.
 | aenor.ru | No |
 | aeon-hq.net | No |
 | aeons-library.gq | No |
+| aep.systems | Yes |
 | aerian.icu | Yes |
 | aestus.monster | No |
 | aether.re | No |
@@ -2450,6 +2451,7 @@ Here's a list of public Fediverse services.
 | bungle.online | No |
 | bunglers.it | No |
 | bungudon.jp | No |
+| bunix.de | No |
 | bunkerchan.xyz | Yes |
 | bunne.garden | No |
 | bunnegirl.solutions | No |
@@ -5725,6 +5727,7 @@ Here's a list of public Fediverse services.
 | fika.moe | Yes |
 | fikaverse.club | No |
 | file.st | No |
+| filik.eu | Yes |
 | filin.news | No |
 | filipesm.com | Yes |
 | filiuspatris.net | No |
@@ -7229,6 +7232,7 @@ Here's a list of public Fediverse services.
 | hannover.social | No |
 | hanntac.net | No |
 | hansaray.pw | No |
+| hansenerd.de | No |
 | hansenpartnership.com | No |
 | haoyayoi.net | No |
 | happens.horse | No |
@@ -12752,6 +12756,7 @@ Here's a list of public Fediverse services.
 | netlify.app | No |
 | netlify.com | Yes |
 | netlord.de | No |
+| netooze.com | Yes |
 | netou.info | No |
 | netplusw.com | No |
 | netstat.app | No |
@@ -20824,6 +20829,7 @@ Here's a list of public Fediverse services.
 | zaktakespictures.com | Yes |
 | zakuac.com | No |
 | zakwan-khello.de | No |
+| zalem.city | No |
 | zambito.xyz | No |
 | zamdronie.com | No |
 | zap.dog | No |
@@ -21018,8 +21024,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,102 |
-| Normal | 16,873 |
+| Cloudflare | 4,105 |
+| Normal | 16,876 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
