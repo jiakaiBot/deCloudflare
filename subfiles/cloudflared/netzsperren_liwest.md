@@ -1,1 +1,201 @@
--
+## How many % of domains listed in Netzsperren Liwest are using Cloudflare?
+
+
+- [Netzsperren Liwest](http://netzsperre.liwest.at/)
+```
+Hier finden Sie die aktuelle Auflistung aller von LIWEST gesperrter Seiten
+```
+
+
+The following is a list of domains listed in above website.
+
+
+| Site | Cloudflared |
+| --- | --- |
+| 1337x.st | Yes |
+| 1337x.to | Yes |
+| actualidad.rt.com | No |
+| bs.to | Yes |
+| burning-series.net | Yes |
+| burningseries.ac | Yes |
+| burningseries.co | Yes |
+| burningseries.nz | Yes |
+| burningseries.se | Yes |
+| burningseries.sx | Yes |
+| burningseries.tw | Yes |
+| burningseries.vc | Yes |
+| canna-power.to | Yes |
+| canna.to | Yes |
+| cine.to | Yes |
+| de.rt.com | No |
+| deutsch.rt.com | No |
+| ffmovies.biz | Yes |
+| filme-streamz.com | No |
+| filmpalast.to | Yes |
+| fmovies.cafe | Yes |
+| fmovies.coffee | Yes |
+| fmovies.cx | No |
+| fmovies.hn | Yes |
+| fmovies.kim | Yes |
+| fmovies.media | Yes |
+| fmovies.mom | Yes |
+| fmovies.ps | Yes |
+| fmovies.pub | Yes |
+| fmovies.solar | Yes |
+| fmovies.taxi | Yes |
+| fmovies.to | Yes |
+| fmovies.town | Yes |
+| fmovies.world | Yes |
+| fmovies.wtf | Yes |
+| fmoviesf.co | Yes |
+| fmoviesto.cc | Yes |
+| fr.rt.com | No |
+| francais.rt.com | No |
+| gen.lib.rus.ec | Yes |
+| h33t.to | No |
+| isohunt.to | No |
+| kinokiste.club | Yes |
+| kinokiste.me | No |
+| kinokiste.ru | Yes |
+| kinos.to | Yes |
+| kinox.am | Yes |
+| kinox.bz | Yes |
+| kinox.click | Yes |
+| kinox.cloud | Yes |
+| kinox.club | Yes |
+| kinox.digital | Yes |
+| kinox.direct | Yes |
+| kinox.express | Yes |
+| kinox.fun | Yes |
+| kinox.fyi | Yes |
+| kinox.gratis | Yes |
+| kinox.io | Yes |
+| kinox.lol | Yes |
+| kinox.me | Yes |
+| kinox.mobi | Yes |
+| kinox.nu | Yes |
+| kinox.pe | No |
+| kinox.pub | Yes |
+| kinox.sg | No |
+| kinox.sh | Yes |
+| kinox.si | No |
+| kinox.space | Yes |
+| kinox.sx | Yes |
+| kinox.to | Yes |
+| kinox.top | Yes |
+| kinox.tube | Yes |
+| kinox.tv | Yes |
+| kinox.unblockit.blue | Yes |
+| kinox.unblockit.buzz | Yes |
+| kinox.unblockit.bz | Yes |
+| kinox.unblockit.cam | Yes |
+| kinox.unblockit.ch | Yes |
+| kinox.unblockit.club | Yes |
+| kinox.unblockit.ist | Yes |
+| kinox.unblockit.kim | Yes |
+| kinox.unblockit.li | Yes |
+| kinox.unblockit.link | Yes |
+| kinox.unblockit.onl | Yes |
+| kinox.unblockit.tv | Yes |
+| kinox.unblockit.uno | Yes |
+| kinox.unblockit.ws | Yes |
+| kinox.wtf | Yes |
+| kinoz.to | Yes |
+| kkiste.ac | Yes |
+| kkiste.club | Yes |
+| kkiste.ru | Yes |
+| kkiste.to | No |
+| libgen.unblocked.at | Yes |
+| libgen.unblocked.cat | No |
+| libgen.unblocked.gdn | No |
+| libgen.unblocked.ink | No |
+| libgen.unblocked.la | No |
+| libgen.unblocked.lc | No |
+| libgen.unblocked.li | Yes |
+| libgen.unblocked.mx | No |
+| libgen.unblocked.pet | No |
+| libgen.unblocked.pro | No |
+| libgen.unblocked.red | Yes |
+| libgen.unblocked.sh | No |
+| libgen.unblocked.tv | No |
+| libgen.unblocked.uno | Yes |
+| libgen.unblocked.vet | Yes |
+| libgen.unblocked.win | No |
+| movie.to | Yes |
+| movie2k.ag | No |
+| movie2k.cm | No |
+| movie2k.nu | Yes |
+| movie2k.pe | Yes |
+| movie4k.am | Yes |
+| movie4k.lol | Yes |
+| movie4k.me | Yes |
+| movie4k.org | Yes |
+| movie4k.pe | No |
+| movie4k.sg | No |
+| movie4k.sh | Yes |
+| movie4k.to | Yes |
+| movie4k.tv | Yes |
+| newalbumreleases.net | Yes |
+| newalbumreleases.unblocked.co | Yes |
+| newalbumreleases.unblockit.bet | Yes |
+| newalbumreleases.unblockit.buzz | Yes |
+| newalbumreleases.unblockit.ch | Yes |
+| newalbumreleases.unblockit.club | Yes |
+| newalbumreleases.unblockit.ist | Yes |
+| newalbumreleases.unblockit.li | Yes |
+| newalbumreleases.unblockit.link | Yes |
+| newalbumreleases.unblockit.onl | Yes |
+| newalbumreleases.unblockit.uno | Yes |
+| piratebayblocked.com | No |
+| pirateproxy.cam | No |
+| primekiste.com | Yes |
+| proxydl.cf | No |
+| radiosputnik.ria.ru | No |
+| s.to | Yes |
+| sci-hub.ren | Yes |
+| sci-hub.se | No |
+| sci-hub.shop | Yes |
+| sci-hub.tw | No |
+| scihub.unblocked.lc | No |
+| scihub.unblocked.vet | Yes |
+| seasonvar.ru | Yes |
+| serien.cam | Yes |
+| serienjunkies.org | Yes |
+| serienstream.be | Yes |
+| serienstream.to | Yes |
+| sputniknews.com | No |
+| streamcloud-de.com | Yes |
+| streamcloud.cam | Yes |
+| streamkiste.tv | Yes |
+| szene-streams.com | No |
+| thepiratebay.fm | Yes |
+| thepiratebay.gd | Yes |
+| thepiratebay.la | Yes |
+| thepiratebay.mn | No |
+| thepiratebay.ms | No |
+| thepiratebay.mu | No |
+| thepiratebay.org | Yes |
+| thepiratebay.red | No |
+| thepiratebay.se | No |
+| thepiratebay.sh | No |
+| thepiratebay.tw | No |
+| thepiratebay.vg | Yes |
+| uu.canna.to | Yes |
+| ww2.fmovies.cab | Yes |
+| www.rt.com | No |
+| www.rtr-planeta.com | No |
+| www.tvc.ru | No |
+| www.vesti.ru | No |
+| www13.kinoz.to | Yes |
+| x1337x.ws | Yes |
+
+
+-----
+
+| Type | Count |
+| --- | --- | 
+| Cloudflare | 127 |
+| Normal | 49 |
+
+
+### 72.2% of domains listed on Netzsperren Liwest are using Cloudflare.
