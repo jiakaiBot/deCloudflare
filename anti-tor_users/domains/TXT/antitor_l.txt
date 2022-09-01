@@ -6,6 +6,7 @@ autofordable.livejournal.com
 blog.lidarnews.com
 blog.linuxmint.com
 blog.litteratur.ch
+chem.libretexts.org
 chingizid.livejournal.com
 connectionbased.livejournal.com
 dentaire11.livejournal.com
@@ -45,6 +46,8 @@ loreblogs.com
 losteria.net
 lsdm.live
 luce.vn
+luxornailspass.livejournal.com
+lyfepal.com
 mpanelsoftwares.livejournal.com
 oem.lumica.co.jp
 peremogi.livejournal.com
@@ -54,6 +57,7 @@ savvycollector.livejournal.com
 soikeonhacainet.livejournal.com
 spafurniture12.livejournal.com
 sygrove.livejournal.com
+teleserylambing.livejournal.com
 thechinesegroup.livejournal.com
 thejunglebody.livejournal.com
 translightdubai.livejournal.com
@@ -92,3 +96,5 @@ www.lopifit.nl
 www.loriesberlin.de
 www.losteria-parlamento.de
 www.lovemydress.net
+greatlakeso1.livejournal.com
+relay.libranet.de
