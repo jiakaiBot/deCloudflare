@@ -9,23 +9,8 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('top6').checked = (r.top6 == '1') ? true : false;
       document.getElementById('top7').checked = (r.top7 == '1') ? true : false;
       document.getElementById('top8').checked = (r.top8 == '1') ? true : false;
-      document.getElementById('top9').checked = (r.top9 == '1') ? true : false;
-      if (r.top9 != '1') {
-         document.getElementById('aboutWBL').style.display = 'none';
-      }
       document.getElementById('topWP1').checked = (r.topWP1 == '1') ? true : false;
       document.getElementById('topWP2').checked = (r.topWP2 == '1') ? true : false;
-      document.getElementById('black99').checked = (r.black99 == '1') ? true : false;
-      document.getElementById('black02').checked = (r.black02 == '1') ? true : false;
-      document.getElementById('black03').checked = (r.black03 == '1') ? true : false;
-      document.getElementById('black07').checked = (r.black07 == '1') ? true : false;
-      document.getElementById('black09').checked = (r.black09 == '1') ? true : false;
-      document.getElementById('black13').checked = (r.black13 == '1') ? true : false;
-      document.getElementById('black14').checked = (r.black14 == '1') ? true : false;
-      document.getElementById('black17').checked = (r.black17 == '1') ? true : false;
-      document.getElementById('black18').checked = (r.black18 == '1') ? true : false;
-      document.getElementById('black19').checked = (r.black19 == '1') ? true : false;
-      document.getElementById('black20').checked = (r.black20 == '1') ? true : false;
       document.getElementById('nocat01').checked = (r.nocat01 == '1') ? true : false;
       document.getElementById('nocat02').checked = (r.nocat02 == '1') ? true : false;
       document.getElementById('nocat03').checked = (r.nocat03 == '1') ? true : false;
@@ -75,18 +60,6 @@ document.querySelectorAll("input[type=checkbox][id^='top']").forEach(x => {
          [t.target.id]: v
       });
       browser.runtime.sendMessage([t.target.id, v]).then(() => {}, () => {});
-      if (t.target.id == 'top9') {
-         document.getElementById('aboutWBL').style.display = t.target.checked ? 'inline' : 'none';
-      }
-   });
-});
-document.querySelectorAll("input[type=checkbox][id^='black']").forEach(x => {
-   x.addEventListener('click', t => {
-      let v = t.target.checked ? '1' : '0';
-      browser.storage.local.set({
-         [t.target.id]: v
-      });
-      browser.runtime.sendMessage(['wbl', t.target.id, v]).then(() => {}, () => {});
    });
 });
 document.querySelectorAll("input[type=checkbox][id^='nocat']").forEach(x => {
