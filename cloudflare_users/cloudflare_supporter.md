@@ -737,6 +737,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aryan10065293@twitter](https://twitter.com/Aryan10065293/status/1396411254533550082) | advertise |
 | [AryanGu17150373@twitter](https://twitter.com/AryanGu17150373/status/1482010948793946112) | advertise |
 | [arzzen@twitter](https://twitter.com/arzzen/status/1384955314991210496) | advertise |
+| [asa64_@twitter](https://twitter.com/asa64_/status/1565298492024791043) | advertise |
 | [AsadAmer13@twitter](https://twitter.com/AsadAmer13/status/1396798484091707396) | advertise |
 | [Asadshahbaz1993@twitter](https://twitter.com/Asadshahbaz1993/status/1380767370411704320) | advertise |
 | [AsakzaiNaser@twitter](https://twitter.com/AsakzaiNaser/status/1386360634414178308) | advertise |
@@ -1708,8 +1709,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -1924,6 +1925,7 @@ Do not create new issue or we will close it as duplicate.
 | [dcrimyz@twitter](https://twitter.com/dcrimyz/status/1399029992374239233) | advertise |
 | [ddkatsios@twitter](https://twitter.com/ddkatsios/status/1398632489028104192) | advertise |
 | [De6Bi@twitter](https://twitter.com/De6Bi/status/1401432705661693956) | advertise |
+| [deadlyembrace6@twitter](https://twitter.com/deadlyembrace6/status/1565304061779394561) | advertise |
 | [deadman50378288@twitter](https://twitter.com/deadman50378288/status/1552530084514304001) | advertise |
 | [DeanFreer@twitter](https://twitter.com/DeanFreer/status/1382581349039607808) | advertise |
 | [DeanHenderson7@twitter](https://twitter.com/DeanHenderson7/status/1396517667079548928) | advertise |
