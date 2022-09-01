@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 2,880 |
 | net | 1,659 |
 | social | 1,171 |
-| org | 1,136 |
+| org | 1,137 |
 | de | 992 |
 
 
@@ -15963,6 +15963,7 @@ Here's a list of public Fediverse services.
 | ryankes.eu | Yes |
 | ryanleesipes.me | No |
 | ryanteck.xyz | No |
+| ryanthomas.org | No |
 | ryecroft21.info | No |
 | ryecroft21.net | No |
 | ryey.icu | No |
@@ -21025,7 +21026,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,105 |
-| Normal | 16,876 |
+| Normal | 16,877 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
