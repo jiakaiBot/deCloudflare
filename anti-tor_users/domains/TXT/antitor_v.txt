@@ -2,6 +2,7 @@ cnn.videomemetemplate.com
 earlyvalentines.vercel.app
 forums.virtualbox.org
 friendica.vrije-mens.org
+institutional.vanguard.com
 statues.vanderkrogt.net
 vanchuyenachau.com.vn
 vancongnghiepsg.com
