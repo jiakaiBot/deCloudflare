@@ -4191,7 +4191,7 @@ Here's a list of public Fediverse services.
 | deutrino.net | No |
 | deuxfleurs.fr | No |
 | deuxmillesoixantedix.art | No |
-| dev-null.rocks | No |
+| dev-null.rocks | Yes |
 | dev-wiki.de | Yes |
 | dev.gy | No |
 | dev.host | No |
@@ -8691,7 +8691,7 @@ Here's a list of public Fediverse services.
 | johnholdun.com | No |
 | johnn.ie | No |
 | johnruth.me | No |
-| johns-blog.de | No |
+| johns-blog.de | Yes |
 | johntrain.org | Yes |
 | joinfediverse.online | No |
 | joinfreedom.tk | No |
@@ -10989,7 +10989,7 @@ Here's a list of public Fediverse services.
 | mastodon.com.tw | No |
 | mastodon.computer | No |
 | mastodon.cool | No |
-| mastodon.cx | No |
+| mastodon.cx | Yes |
 | mastodon.design | No |
 | mastodon.digital | Yes |
 | mastodon.direct | No |
@@ -11623,7 +11623,7 @@ Here's a list of public Fediverse services.
 | milliondoubts.com | No |
 | milll.ws | No |
 | mills.io | Yes |
-| miloserver.com | No |
+| miloserver.com | Yes |
 | milosz.wtf | No |
 | mim-libre.fr | No |
 | mimigo.xyz | No |
@@ -15699,7 +15699,7 @@ Here's a list of public Fediverse services.
 | riverside.camp | No |
 | riverside.rocks | Yes |
 | riversouldiers.dk | No |
-| riverwest.xyz | No |
+| riverwest.xyz | Yes |
 | riviera.social | No |
 | rivqr.xyz | Yes |
 | riye.de | Yes |
@@ -21018,8 +21018,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,097 |
-| Normal | 16,878 |
+| Cloudflare | 4,102 |
+| Normal | 16,873 |
 
 
-### 19.5% of public Fediverse services are using Cloudflare.
+### 19.6% of public Fediverse services are using Cloudflare.
