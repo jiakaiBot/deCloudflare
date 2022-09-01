@@ -958,6 +958,7 @@ Do not create new issue or we will close it as duplicate.
 | [AwakeTechSoln@twitter](https://twitter.com/AwakeTechSoln/status/1554516678133911554) | advertise |
 | [AWalkerrea@twitter](https://twitter.com/AWalkerrea/status/1553760603990134786) | advertise |
 | [AwangAdam@twitter](https://twitter.com/AwangAdam/status/1399563412573540355) | advertise |
+| [awang_qhairul@twitter](https://twitter.com/awang_qhairul/status/1565282981648158720) | advertise |
 | [Awarene16686090@twitter](https://twitter.com/Awarene16686090/status/1412622734350192643) | moral (advertise) |
 | [awareness_tiger@twitter](https://twitter.com/awareness_tiger/status/1445839407525756932) | advertise |
 | [awastumpah@twitter](https://twitter.com/awastumpah/status/1402440693377732609) | advertise |
@@ -1707,8 +1708,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -7058,6 +7059,7 @@ Do not create new issue or we will close it as duplicate.
 | [PrinceO58314621@twitter](https://twitter.com/PrinceO58314621/status/1389548044304195585) | advertise |
 | [PRINCES14446848@twitter](https://twitter.com/PRINCES14446848/status/1377862676450213888) | advertise |
 | [PrinceS49644369@twitter](https://twitter.com/PrinceS49644369/status/1386440942069026818) | advertise |
+| [prinz_frost@twitter](https://twitter.com/prinz_frost/status/1565284943659290631) | advertise |
 | [privatedatesvip@twitter](https://twitter.com/privatedatesvip/status/1431480497364946944) | advertise |
 | [prjudo@twitter](https://twitter.com/prjudo/status/1561008434740244480) | advertise |
 | [Profess56387660@twitter](https://twitter.com/Profess56387660/status/1401752121599401985) | advertise |
