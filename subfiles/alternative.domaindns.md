@@ -11,7 +11,7 @@ This page is for `domain owner` who like to move away from CloudFlare DNS.
 | [Dyn.com](https://dyn.com/dns/) | - | Paid |
 | [Hetzner DNS](https://docs.hetzner.com/dns-console/dns/general/dns-overview/) | - | ? |
 | [Hurricane Electric Free DNS](https://dns.he.net/) | - | Free |
-| [deSEC](https://desec.io/) | dynamic DNS & API supported | - | Free |
+| [deSEC](https://desec.io/) | dynamic DNS & API supported | Free |
 
 
 ## Why X is not included
