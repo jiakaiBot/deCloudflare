@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "My Privacy DNS Reporter",
   "description": "Reporting websites made easy.",
-  "version": "1.0.3",
+  "version": "1.0.3.1",
   "author": "Crimeflare",
   "homepage_url": "http://crimeflare.eu.org/",
   "permissions": [
@@ -14,7 +14,6 @@
     "notifications",
     "downloads",
     "webRequest",
-    "webRequestBlocking",
     "webNavigation"
   ],
   "options_ui": {
@@ -32,13 +31,6 @@
     "default_title": "My Privacy DNS Reporter",
     "default_panel": "side/side.html",
     "open_at_install": false
-  },
-  "commands": {
-    "_execute_sidebar_action": {
-      "suggested_key": {
-        "default": "Alt+M"
-      }
-    }
   },
   "icons": {
     "96": "icon.png"
