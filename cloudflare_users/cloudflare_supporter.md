@@ -8175,6 +8175,7 @@ Do not create new issue or we will close it as duplicate.
 | [stipicak@twitter](https://twitter.com/stipicak/status/1389233494824521728) | advertise |
 | [StLHandyMan@twitter](https://twitter.com/StLHandyMan/status/1381472769431470081) | advertise |
 | [sto18918690@twitter](https://twitter.com/sto18918690/status/1513872991955861514) | advertise |
+| [stockharold@twitter](https://twitter.com/stockharold/status/1565373102573461508) | advertise |
 | [StoncoC@twitter](https://twitter.com/StoncoC/status/1468247348308594704) | advertise |
 | [StormArjun@twitter](https://twitter.com/StormArjun/status/1381148519306780676) | advertise |
 | [StormCampbell@twitter](https://twitter.com/StormCampbell/status/1401547310446821380) | advertise |
