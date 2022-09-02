@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,880 |
+| com | 2,881 |
 | net | 1,659 |
 | social | 1,171 |
 | org | 1,137 |
@@ -569,6 +569,7 @@ Here's a list of public Fediverse services.
 | afallen.cymru | No |
 | afd.best | No |
 | affilidon.com | No |
+| affixed.art | No |
 | afhub.dev | Yes |
 | afix.space | No |
 | afk.social | Yes |
@@ -1009,6 +1010,7 @@ Here's a list of public Fediverse services.
 | ansiktsburk.se | No |
 | antabaka.me | No |
 | antarctic.ga | No |
+| antaresx.ch | No |
 | antenesse.ml | No |
 | anthill.engineering | No |
 | anthro.cc | No |
@@ -14901,6 +14903,7 @@ Here's a list of public Fediverse services.
 | privacytools.io | Yes |
 | privatedns.org | No |
 | privey.xyz | Yes |
+| prnetsec.ml | No |
 | pro.yt | No |
 | probmkr.com | Yes |
 | probono.media | No |
@@ -15264,6 +15267,7 @@ Here's a list of public Fediverse services.
 | radbox.org | No |
 | radiate038.com | Yes |
 | radical.town | No |
+| radicalevents.eu | No |
 | radicalityincident.com | No |
 | radicalnetworks.org | No |
 | radicalzz.blog | No |
@@ -16089,6 +16093,7 @@ Here's a list of public Fediverse services.
 | samsunginter.net | Yes |
 | samtherapy.net | No |
 | samtherapy.xyz | Yes |
+| samtripoli.com | No |
 | samtyler.com.au | No |
 | samuelezappala.it | No |
 | samuelgharvey.com | Yes |
@@ -19068,6 +19073,7 @@ Here's a list of public Fediverse services.
 | twinder.social | No |
 | twingyeo.kr | Yes |
 | twinja.club | No |
+| twink.ink | No |
 | twinkaga.in | No |
 | twinksonly.club | No |
 | twipo.net | No |
@@ -21026,7 +21032,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,105 |
-| Normal | 16,877 |
+| Normal | 16,883 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
