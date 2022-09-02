@@ -8591,6 +8591,7 @@ Do not create new issue or we will close it as duplicate.
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
 | [themichaellamb@twitter](https://twitter.com/themichaellamb/status/1504870147839905794) | advertise |
+| [TheMukeshPatel@twitter](https://twitter.com/TheMukeshPatel/status/1565563880704602112) | advertise |
 | [Theophiluskala2@twitter](https://twitter.com/Theophiluskala2/status/1556089433170083851) | advertise |
 | [Thepeac18406311@twitter](https://twitter.com/Thepeac18406311/status/1391305173528682496) | advertise |
 | [theprincessxena@twitter](https://twitter.com/theprincessxena/status/1382886673055416325) | advertise |
