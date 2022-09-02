@@ -1387,6 +1387,7 @@ Do not create new issue or we will close it as duplicate.
 | [Btstan73@twitter](https://twitter.com/Btstan73/status/1563332375467008005) | advertise |
 | [BtwSu@twitter](https://twitter.com/BtwSu/status/1398369389783576577) | advertise |
 | [bubyli_uk@twitter](https://twitter.com/bubyli_uk/status/1527321559286751233) | advertise |
+| [BuckHun18065742@twitter](https://twitter.com/BuckHun18065742/status/1565605332163887104) | advertise |
 | [BuckNewton6@twitter](https://twitter.com/BuckNewton6/status/1560343947616157697) | advertise |
 | [buddingdentist@twitter](https://twitter.com/buddingdentist/status/1386687039525953537) | advertise |
 | [BuffCau@twitter](https://twitter.com/BuffCau/status/1378293971282063363) | advertise |
