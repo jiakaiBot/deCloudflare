@@ -1215,6 +1215,7 @@ Or is this merely a case of simple modesty?
 | Molly Evans | Employee |  |
 | Mona Hadidi | Customer Success Manager |  |
 | Monicah Kwamboka | Web Engineer |  |
+| Monika Singh | Employee | |
 | Morgan Miles | Customer Development |  |
 | Moritz Wegner | Employee |  |
 | Moses Ellis | Business Development |  |
