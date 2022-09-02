@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,881 |
-| net | 1,660 |
+| net | 1,661 |
 | social | 1,172 |
 | org | 1,137 |
 | de | 992 |
@@ -363,6 +363,7 @@ Here's a list of public Fediverse services.
 | 9mm.nu | No |
 | 9mmtylenol.me | Yes |
 | 9net.org | Yes |
+| 9tail.net | No |
 | 9til.de | No |
 | 9uelle.jp | No |
 | a-apple.net | No |
@@ -21035,7 +21036,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,106 |
-| Normal | 16,885 |
+| Normal | 16,886 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
