@@ -8892,6 +8892,7 @@ Do not create new issue or we will close it as duplicate.
 | [TommyLy71205879@twitter](https://twitter.com/TommyLy71205879/status/1395683024365264896) | advertise |
 | [TommyTai99@twitter](https://twitter.com/TommyTai99/status/1552008521771667456) | advertise |
 | [tommyxiaomi289@twitter](https://twitter.com/tommyxiaomi289/status/1552929032999927808) | advertise |
+| [tomotomo_9696@twitter](https://twitter.com/tomotomo_9696/status/1565839408078950400) | advertise |
 | [tomumame@twitter](https://twitter.com/tomumame/status/1524273785016586240) | advertise |
 | [tomx900@twitter](https://twitter.com/tomx900/status/1378074552857587713) | advertise |
 | [tomyperez@twitter](https://twitter.com/tomyperez/status/1558196423509917697) | advertise |
