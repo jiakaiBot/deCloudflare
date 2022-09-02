@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,881 |
-| net | 1,659 |
-| social | 1,171 |
+| net | 1,660 |
+| social | 1,172 |
 | org | 1,137 |
 | de | 992 |
 
@@ -5107,6 +5107,7 @@ Here's a list of public Fediverse services.
 | eodai.net | No |
 | eole.education | No |
 | eonas.me | No |
+| eonspace.me | No |
 | eope.xyz | No |
 | eorzea.cafe | No |
 | eoscn.club | No |
@@ -16458,6 +16459,7 @@ Here's a list of public Fediverse services.
 | semper.social | Yes |
 | semweb.pro | No |
 | senan.xyz | Yes |
+| senbil.net | Yes |
 | sencic.com | No |
 | sendero.social | No |
 | sengeis.priv.at | No |
@@ -18515,6 +18517,7 @@ Here's a list of public Fediverse services.
 | tiure.im | No |
 | tiuxo.com | Yes |
 | tix-hosting.social | No |
+| tiz.social | No |
 | tjhowse.com | Yes |
 | tjs360.com | No |
 | tkammer.de | No |
@@ -21031,8 +21034,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,105 |
-| Normal | 16,883 |
+| Cloudflare | 4,106 |
+| Normal | 16,885 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
