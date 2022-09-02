@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,881 |
-| net | 1,661 |
+| net | 1,662 |
 | social | 1,172 |
 | org | 1,137 |
 | de | 992 |
@@ -10004,7 +10004,7 @@ Here's a list of public Fediverse services.
 | libertarian.chat | No |
 | libertarianism.club | No |
 | libertarians.social | No |
-| libertica.space | No |
+| libertica.space | Yes |
 | libertopia.cc | No |
 | libertyaf.io | No |
 | libertyblitzkrieg.com | Yes |
@@ -18530,6 +18530,7 @@ Here's a list of public Fediverse services.
 | tkz.one | Yes |
 | tlbflush.org | No |
 | tldr.tk | No |
+| tlfoxhuman.net | No |
 | tli.io | No |
 | tlmstdn.de | No |
 | tls.zone | Yes |
@@ -21035,7 +21036,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,106 |
+| Cloudflare | 4,107 |
 | Normal | 16,886 |
 
 
