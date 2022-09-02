@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Browser Isolation Availability Issues - Chicago, IL, United States](https://github.com/MatBenfield/news/issues/2153)
 - [Latest image on docker hub causes "exec format error"](https://github.com/qdm12/ddns-updater/issues/359)
 - [Using with NextJS, nothing happen](https://github.com/wojtekmaj/react-pdf/issues/1046)
 - [Stop promoting Cloudflare and DoH services!](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt/issues/53)
