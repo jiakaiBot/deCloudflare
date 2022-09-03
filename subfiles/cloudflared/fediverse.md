@@ -2654,6 +2654,7 @@ Here's a list of public Fediverse services.
 | cartapus.eu | No |
 | cartbefore.horse | No |
 | cartodon.com | No |
+| caruso.one | Yes |
 | casavant.org | No |
 | cascadia.chat | No |
 | cascadia.games | No |
@@ -4536,7 +4537,7 @@ Here's a list of public Fediverse services.
 | dot.or.at | No |
 | dotdon.jp | Yes |
 | dotdon.net | No |
-| dotfediverse.com | No |
+| dotfediverse.com | Yes |
 | dotgr.id | No |
 | dotmiku.com | No |
 | dotnet00.dev | Yes |
@@ -5599,6 +5600,7 @@ Here's a list of public Fediverse services.
 | fediverse.land | Yes |
 | fediverse.lol | Yes |
 | fediverse.me | No |
+| fediverse.monster | No |
 | fediverse.network | No |
 | fediverse.one | No |
 | fediverse.partners | No |
@@ -10143,6 +10145,7 @@ Here's a list of public Fediverse services.
 | linux.it | No |
 | linux.monster | No |
 | linux.pizza | No |
+| linux07.fr | No |
 | linuxand.beer | Yes |
 | linuxbox.ninja | No |
 | linuxburken.se | Yes |
@@ -16956,6 +16959,7 @@ Here's a list of public Fediverse services.
 | snet.blog | No |
 | snfl.fun | No |
 | sngsk.info | No |
+| sniff122.tech | Yes |
 | snmsoc.org | No |
 | snoot.club | No |
 | snoot.com | No |
@@ -21039,8 +21043,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,107 |
-| Normal | 16,889 |
+| Cloudflare | 4,110 |
+| Normal | 16,890 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
