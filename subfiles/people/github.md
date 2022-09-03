@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [tunneling error in cloudflared, with option 1 of Jio Recharge](https://github.com/KasRoudra/CamHacker/issues/49)
 - [Methods fail with Miniflare and Node.js 18.4+](https://github.com/panva/jose/issues/446)
 - [Outpost Health and Version: Not available](https://github.com/goauthentik/authentik/issues/3520)
 - [CloudFlare Browser Isolation Availability Issues - Chicago, IL, United States](https://github.com/MatBenfield/news/issues/2153)
