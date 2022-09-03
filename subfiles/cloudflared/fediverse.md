@@ -16491,6 +16491,7 @@ Here's a list of public Fediverse services.
 | sergio101.com | No |
 | sergiomoraesj.com | No |
 | seri.gr.jp | No |
+| serialmay.link | No |
 | seriousposter.club | No |
 | seriphap.com | No |
 | serotoninpower.club | No |
@@ -21044,7 +21045,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,110 |
-| Normal | 16,890 |
+| Normal | 16,891 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
