@@ -7372,6 +7372,7 @@ Do not create new issue or we will close it as duplicate.
 | [rev_3_3@twitter](https://twitter.com/rev_3_3/status/1543575024682127360) | advertise |
 | [REX71431061@twitter](https://twitter.com/REX71431061/status/1390019383158734848) | advertise |
 | [Rex96885803@twitter](https://twitter.com/Rex96885803/status/1376859443464302604) | advertise |
+| [rexjohannes98@twitter](https://twitter.com/rexjohannes98/status/1566046664833507329) | advertise |
 | [rex_clemente@twitter](https://twitter.com/rex_clemente/status/1376875545955209224) | advertise |
 | [rex_divakar@twitter](https://twitter.com/rex_divakar/status/1506067340165009409) | advertise |
 | [rezagolami_98@twitter](https://twitter.com/rezagolami_98/status/1501473867461799936) | advertise |
