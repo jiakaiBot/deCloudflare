@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,881 |
 | net | 1,662 |
-| social | 1,172 |
+| social | 1,173 |
 | org | 1,137 |
 | de | 992 |
 
@@ -2156,6 +2156,7 @@ Here's a list of public Fediverse services.
 | boberts.me | No |
 | bocc.de | No |
 | bocchi.tokyo | No |
+| bocholt.social | No |
 | boddez.net | Yes |
 | body.social | No |
 | bodybuilding.im | No |
@@ -5066,6 +5067,7 @@ Here's a list of public Fediverse services.
 | endur4.com | No |
 | energyarxiv.com | No |
 | energyfintech.io | No |
+| energyflow.rodeo | No |
 | engagemedia.org | Yes |
 | engekidon.net | No |
 | engineered.space | No |
@@ -10547,6 +10549,7 @@ Here's a list of public Fediverse services.
 | lxf.by | No |
 | lxp-srvr.xyz | Yes |
 | lxsameer.com | Yes |
+| lyc.re | No |
 | lycee-experimental.org | Yes |
 | lyceeconnecte.fr | No |
 | lydi.as | No |
@@ -21037,7 +21040,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,107 |
-| Normal | 16,886 |
+| Normal | 16,889 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
