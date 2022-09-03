@@ -1131,6 +1131,7 @@ Do not create new issue or we will close it as duplicate.
 | [BeingTareq@twitter](https://twitter.com/BeingTareq/status/1553113875372855296) | advertise |
 | [Beingvickey1@twitter](https://twitter.com/Beingvickey1/status/1395697777737408512) | advertise |
 | [bejiitas_wrath@twitter](https://twitter.com/bejiitas_wrath/status/1432068322820980736) | advertise |
+| [bekiyeab123@twitter](https://twitter.com/bekiyeab123/status/1566107471772618754) | advertise |
 | [BeLBaLaDy@twitter](https://twitter.com/BeLBaLaDy/status/1512421478683316226) | advertise |
 | [Belike80356400@twitter](https://twitter.com/Belike80356400/status/1382720613421248512) | advertise |
 | [Beliver211@twitter](https://twitter.com/Beliver211/status/1380121212756520961) | advertise |
@@ -5244,6 +5245,7 @@ Do not create new issue or we will close it as duplicate.
 | [MatnXPharis@twitter](https://twitter.com/MatnXPharis/status/1501580663169839109) | advertise |
 | [matrix-org@github.com](https://github.com/matrix-org) | moral (forcefully closed issue) |
 | [mattdykema@twitter](https://twitter.com/mattdykema/status/1557194557368008704) | advertise |
+| [mattenjer@twitter](https://twitter.com/mattenjer/status/1566110575477739521) | advertise |
 | [MatthewRapa@twitter](https://twitter.com/MatthewRapa/status/1541736541160079362) | advertise |
 | [matthewseng7@twitter](https://twitter.com/matthewseng7/status/1380512288944259074) | advertise |
 | [matthew_hignite@twitter](https://twitter.com/matthew_hignite/status/1398664024716349440) | advertise |
@@ -9086,6 +9088,7 @@ Do not create new issue or we will close it as duplicate.
 | [tuanpham0411@twitter](https://twitter.com/tuanpham0411/status/1402953968683163653) | advertise |
 | [tuanteox69@twitter](https://twitter.com/tuanteox69/status/1400828810925199360) | advertise |
 | [tuan_anh101@twitter](https://twitter.com/tuan_anh101/status/1553282938296418304) | advertise |
+| [tuan_kobe@twitter](https://twitter.com/tuan_kobe/status/1566103981293592576) | advertise |
 | [Tuikho2@twitter](https://twitter.com/Tuikho2/status/1405925091263741954) | advertise |
 | [TulipLinn@twitter](https://twitter.com/TulipLinn/status/1380883824805081090) | advertise |
 | [tun48678228@twitter](https://twitter.com/tun48678228/status/1391906172450467841) | advertise |
