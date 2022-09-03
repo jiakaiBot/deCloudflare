@@ -1615,6 +1615,7 @@ Do not create new issue or we will close it as duplicate.
 | [Christ_moe@twitter](https://twitter.com/Christ_moe/status/1390388000887017475) | advertise |
 | [ChrisUXD@twitter](https://twitter.com/ChrisUXD/status/1517824318658514945) | advertise |
 | [ChrisWardlow4@twitter](https://twitter.com/ChrisWardlow4/status/1491630522656866310) | advertise |
+| [chrlsbldv@twitter](https://twitter.com/chrlsbldv/status/1566145345758715905) | advertise |
 | [Chromepanda37@twitter](https://twitter.com/Chromepanda37/status/1408075106144854022) | advertise |
 | [Chu2131@twitter](https://twitter.com/Chu2131/status/1389883781776039939) | advertise |
 | [chubbyfraddy27@twitter](https://twitter.com/chubbyfraddy27/status/1399261063200321537) | advertise |
@@ -1712,8 +1713,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2908,6 +2909,7 @@ Do not create new issue or we will close it as duplicate.
 | [Haythamasalama@twitter](https://twitter.com/Haythamasalama/status/1559649798202036241) | advertise |
 | [HazAbernathy@twitter](https://twitter.com/HazAbernathy/status/1561069547217723392) | advertise |
 | [HaziqSufee@twitter](https://twitter.com/HaziqSufee/status/1560437893411155972) | advertise |
+| [hazmir345@twitter](https://twitter.com/hazmir345/status/1566143617852272640) | advertise |
 | [Ha_Zunzt@twitter](https://twitter.com/Ha_Zunzt/status/1545308025581293569) | advertise |
 | [hcnneiwiwjjdj@twitter](https://twitter.com/hcnneiwiwjjdj/status/1564480612127440901) | advertise |
 | [HCybersquard@twitter](https://twitter.com/HCybersquard/status/1386985045315842049) | advertise |
