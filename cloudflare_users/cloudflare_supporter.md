@@ -2809,6 +2809,7 @@ Do not create new issue or we will close it as duplicate.
 | [Haha88526766@twitter](https://twitter.com/Haha88526766/status/1401048178611265544) | advertise |
 | [Hahaha130100@twitter](https://twitter.com/Hahaha130100/status/1552324016069054464) | advertise |
 | [hahasofunnybruh@twitter](https://twitter.com/hahasofunnybruh/status/1397828172264079362) | advertise |
+| [HaiChen1708@twitter](https://twitter.com/HaiChen1708/status/1566482660712914944) | advertise |
 | [haikala86043665@twitter](https://twitter.com/haikala86043665/status/1553275985013121024) | advertise |
 | [HailBytes@twitter](https://twitter.com/HailBytes/status/1468726952139886604) | advertise |
 | [haimom1999@twitter](https://twitter.com/haimom1999/status/1553758284888539138) | advertise |
@@ -4326,8 +4327,8 @@ Do not create new issue or we will close it as duplicate.
 | [Kimuekyi1@twitter](https://twitter.com/Kimuekyi1/status/1380566329116123142) | advertise |
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7048,6 +7049,7 @@ Do not create new issue or we will close it as duplicate.
 | [PouryaPo@twitter](https://twitter.com/PouryaPo/status/1539421921518952449) | advertise |
 | [PowerPopClub@twitter](https://twitter.com/PowerPopClub/status/1402682751841603595) | advertise |
 | [PowerRanger1156@twitter](https://twitter.com/PowerRanger1156/status/1395353501174312962) | advertise |
+| [pownew94@twitter](https://twitter.com/pownew94/status/1566475617125941248) | advertise |
 | [Pp31666051P@twitter](https://twitter.com/Pp31666051P/status/1550559730950541312) | advertise |
 | [PP74284531@twitter](https://twitter.com/PP74284531/status/1398910741277593604) | advertise |
 | [PPaodon@twitter](https://twitter.com/PPaodon/status/1401194836405874689) | advertise |
