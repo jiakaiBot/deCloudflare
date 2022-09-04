@@ -1110,6 +1110,7 @@ Do not create new issue or we will close it as duplicate.
 | [bbcha11793920@twitter](https://twitter.com/bbcha11793920/status/1536942284989943808) | advertise |
 | [Bbin23638730@twitter](https://twitter.com/Bbin23638730/status/1386172036981006336) | advertise |
 | [BBuZLYHHQ1iEopD@twitter](https://twitter.com/BBuZLYHHQ1iEopD/status/1398583949593518080) | advertise |
+| [BBWBBW4443@twitter](https://twitter.com/BBWBBW4443/status/1566359882412216321) | advertise |
 | [Bch63796211@twitter](https://twitter.com/Bch63796211/status/1552917278601097216) | advertise |
 | [Bch85570855@twitter](https://twitter.com/Bch85570855/status/1388307374671228928) | advertise |
 | [Bch90486668hi@twitter](https://twitter.com/Bch90486668hi/status/1521080601465425921) | advertise |
