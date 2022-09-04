@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,881 |
-| net | 1,662 |
-| social | 1,173 |
+| net | 1,663 |
+| social | 1,174 |
 | org | 1,137 |
 | de | 992 |
 
@@ -303,6 +303,7 @@ Here's a list of public Fediverse services.
 | 64.re | No |
 | 6449.work | No |
 | 64i.de | Yes |
+| 6502.town | No |
 | 650thz.de | No |
 | 662607.xyz | No |
 | 666.xxx | No |
@@ -4294,6 +4295,7 @@ Here's a list of public Fediverse services.
 | diggingthedigital.com | Yes |
 | digibyte.social | No |
 | digigame.org | No |
+| digikite.net | Yes |
 | digilife.club | No |
 | digimortal.org | No |
 | digineko.jp | No |
@@ -10020,6 +10022,7 @@ Here's a list of public Fediverse services.
 | libido.pictures | No |
 | libori.social | No |
 | libox.fr | No |
+| libr.events | No |
 | libranet.de | No |
 | librarianofalexandria.com | No |
 | libratoi.org | No |
@@ -12912,6 +12915,7 @@ Here's a list of public Fediverse services.
 | nightmare.digital | No |
 | nightmare.zone | No |
 | nightowl.jp | No |
+| nightshift.social | No |
 | nihar.page | Yes |
 | nihars.in | No |
 | nihilist.space | No |
@@ -21044,8 +21048,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,110 |
-| Normal | 16,891 |
+| Cloudflare | 4,111 |
+| Normal | 16,894 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
