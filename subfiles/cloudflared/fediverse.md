@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,663 |
 | social | 1,174 |
 | org | 1,137 |
-| de | 992 |
+| de | 993 |
 
 
 - Mastodon, Pleroma, etc
@@ -601,6 +601,7 @@ Here's a list of public Fediverse services.
 | agood.dog | No |
 | agora.lol | No |
 | agoraforum.website | No |
+| agorism.blog | No |
 | agut.cat | Yes |
 | ahabitual.dev | No |
 | ahaldorsen.no | No |
@@ -8628,7 +8629,7 @@ Here's a list of public Fediverse services.
 | jigglypuff.club | No |
 | jigmedatse.com | No |
 | jihad.icu | No |
-| jiji.se | Yes |
+| jiji.se | No |
 | jiji.su | Yes |
 | jike.pro | Yes |
 | jim.blue | No |
@@ -11442,6 +11443,7 @@ Here's a list of public Fediverse services.
 | meowsdeluxe.com | No |
 | meowy.tech | No |
 | meowz.moe | No |
+| merab.xyz | No |
 | mercerist.space | No |
 | merci-la-police.fr | No |
 | mercurial.solar | Yes |
@@ -13509,7 +13511,7 @@ Here's a list of public Fediverse services.
 | okin.cloud | No |
 | okinawa-mstdn.okinawa | No |
 | okinawadon.okinawa | No |
-| okinkin.top | No |
+| okinkin.top | Yes |
 | okkikki.tokyo | No |
 | okko.io | No |
 | oklomsy.com | Yes |
@@ -20055,6 +20057,7 @@ Here's a list of public Fediverse services.
 | wexlercommunications.com | No |
 | wezm.net | No |
 | wfc.social | No |
+| wgjahn.de | No |
 | wh6b.org | No |
 | wha.dev | No |
 | whalen.org | No |
@@ -21049,7 +21052,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,111 |
-| Normal | 16,894 |
+| Normal | 16,897 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
