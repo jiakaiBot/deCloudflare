@@ -1349,6 +1349,7 @@ Do not create new issue or we will close it as duplicate.
 | [branded_iam@twitter](https://twitter.com/branded_iam/status/1480564220122992642) | advertise |
 | [BrandieOdell5@twitter](https://twitter.com/BrandieOdell5/status/1545966064995123201) | advertise |
 | [brandilee157@twitter](https://twitter.com/brandilee157/status/1526004127951736834) | advertise |
+| [Brandon20241538@twitter](https://twitter.com/Brandon20241538/status/1566514228760137729) | advertise |
 | [BrandynCoder@twitter](https://twitter.com/BrandynCoder/status/1397638007931510784) | advertise |
 | [Brangau82455780@twitter](https://twitter.com/Brangau82455780/status/1397565904204877825) | advertise |
 | [Brank32933508@twitter](https://twitter.com/Brank32933508/status/1548593017669693440) | advertise |
