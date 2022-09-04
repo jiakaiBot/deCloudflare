@@ -9004,6 +9004,7 @@ Do not create new issue or we will close it as duplicate.
 | [trndtrader@twitter](https://twitter.com/trndtrader/status/1499022857929637890) | advertise |
 | [Trng994@twitter](https://twitter.com/Trng994/status/1494841748698599425) | advertise |
 | [Trng20818819@twitter](https://twitter.com/Trng20818819/status/1399318695856328706) | advertise |
+| [trng27738898@twitter](https://twitter.com/trng27738898/status/1566444882972983297) | advertise |
 | [TrngAn55238126@twitter](https://twitter.com/TrngAn55238126/status/1485885246147264512) | advertise |
 | [trnggia21482800@twitter](https://twitter.com/trnggia21482800/status/1552625904270319616) | advertise |
 | [TrngHng71947788@twitter](https://twitter.com/TrngHng71947788/status/1393971195691687940) | advertise |
