@@ -2208,6 +2208,7 @@ Do not create new issue or we will close it as duplicate.
 | [DuyKhoi680029@twitter](https://twitter.com/DuyKhoi680029/status/1516811082567852036) | advertise |
 | [DuyLuyen5@twitter](https://twitter.com/DuyLuyen5/status/1562075735770427393) | advertise |
 | [DuyNguy87645607@twitter](https://twitter.com/DuyNguy87645607/status/1399734268423639050) | advertise |
+| [Duynh79557905@twitter](https://twitter.com/Duynh79557905/status/1566221591662342144) | advertise |
 | [Duynkim8@twitter](https://twitter.com/Duynkim8/status/1408479143067459584) | advertise |
 | [DuyThnh23103428@twitter](https://twitter.com/DuyThnh23103428/status/1515883211372769280) | advertise |
 | [DuyTran98356663@twitter](https://twitter.com/DuyTran98356663/status/1510911601599447040) | advertise |
