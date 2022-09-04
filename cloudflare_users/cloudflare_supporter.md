@@ -4803,6 +4803,7 @@ Do not create new issue or we will close it as duplicate.
 | [letrung02082000@twitter](https://twitter.com/letrung02082000/status/1472433683210457088) | advertise |
 | [levannguyen1998@twitter](https://twitter.com/levannguyen1998/status/1496429932591054851) | advertise |
 | [levelbest@twitter](https://twitter.com/levelbest/status/1402010072595800066) | advertise |
+| [Levi24406406@twitter](https://twitter.com/Levi24406406/status/1566254367275196416) | advertise |
 | [LeviAck49673928@twitter](https://twitter.com/LeviAck49673928/status/1552724170332520448) | advertise |
 | [LeviAck70999374@twitter](https://twitter.com/LeviAck70999374/status/1404337417461518339) | advertise |
 | [LeVietH08159054@twitter](https://twitter.com/LeVietH08159054/status/1377052679713660933) | advertise |
@@ -8428,6 +8429,7 @@ Do not create new issue or we will close it as duplicate.
 | [tej_bo@twitter](https://twitter.com/tej_bo/status/1525166409579483136) | advertise |
 | [tekakenji@twitter](https://twitter.com/tekakenji/status/1378831679356215296) | advertise |
 | [Tekkenz2@twitter](https://twitter.com/Tekkenz2/status/1400160711297277954) | advertise |
+| [TekTytanMike@twitter](https://twitter.com/TekTytanMike/status/1566249485155680257) | advertise |
 | [tek_aevl@twitter](https://twitter.com/tek_aevl/status/1554915148623757313) | advertise |
 | [tek_kinz@twitter](https://twitter.com/tek_kinz/status/1507790839069777922) | advertise |
 | [Telehein2@twitter](https://twitter.com/Telehein2/status/1395541369725149187) | advertise |
