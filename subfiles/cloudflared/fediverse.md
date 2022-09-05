@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,881 |
+| com | 2,882 |
 | net | 1,663 |
 | social | 1,174 |
 | org | 1,138 |
@@ -1529,6 +1529,7 @@ Here's a list of public Fediverse services.
 | b3ta.social | No |
 | b4nk0flov3.com | No |
 | b4tech.cc | No |
+| b4udw3rk5.com | No |
 | b4yp.co.uk | No |
 | b5.pm | No |
 | b612.me | Yes |
@@ -5292,6 +5293,7 @@ Here's a list of public Fediverse services.
 | exceptional.party | No |
 | exclaimindustries.net | No |
 | exdeck.site | No |
+| exercise.cafe | No |
 | exianote.work | No |
 | exile.social | No |
 | exited.eu | No |
@@ -21055,7 +21057,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,114 |
-| Normal | 16,897 |
+| Normal | 16,899 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
