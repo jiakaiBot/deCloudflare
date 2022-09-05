@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [usePreventMutationViaGET default plugin breaks mutations via WS](https://github.com/dotansimha/graphql-yoga/issues/1704)
 - [Returning a 503](https://github.com/apollographql/fullstack-tutorial/issues/288)
 - [error upgrading to v2.5.2 from v2.5.1](https://github.com/NodeBB/NodeBB/issues/10876)
 - [filelist (updating) Error calling provider filelist: The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/504)
