@@ -4235,6 +4235,7 @@ Here's a list of public Fediverse services.
 | devporto.com | Yes |
 | devs.live | Yes |
 | devschile.social | No |
+| devurandom.xyz | No |
 | devvul.com | No |
 | dewp.space | No |
 | dexonline.ro | No |
@@ -21058,7 +21059,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,115 |
-| Normal | 16,899 |
+| Normal | 16,900 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
