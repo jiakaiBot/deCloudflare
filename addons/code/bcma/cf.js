@@ -5,7 +5,7 @@ const infobox = 'cloudflared',
    def_customurl = 'https://web.archive.org/web/%%URL%%';
 let my_cf_collection = {},
    my_cf_ignore = [],
-   my_action = 2,
+   my_action = 0,
    my_customurl = def_customurl,
    my_nfo_alu = false,
    my_nfo_cfd = false,
@@ -1117,7 +1117,7 @@ function notify_me(ok, hn) {
       browser.notifications.clear(infobox);
       browser.notifications.create(infobox, {
          'type': 'basic',
-         'iconUrl': browser.runtime.getURL('icons/cf_1.png'),
+         'iconUrl': browser.runtime.getURL('icons/72.png'),
          'title': 'Cloudflare!  [' + ((new Date()).toLocaleString()) + ']',
          'message': hn
       });
@@ -1289,7 +1289,7 @@ browser.notifications.clear(infobox);
 browser.storage.local.get(null).then((d) => {
    my_cf_collection = JSON.parse(d.collections || '{}');
    my_cf_ignore = (d.ignore || '').split("\n").filter(v => v != '');
-   my_action = (d.action != undefined) ? Number(d.action) : 2;
+   my_action = (d.action != undefined) ? Number(d.action) : 0;
    my_customurl = (d.customurl != undefined) ? d.customurl : def_customurl;
    my_nfo_alu = (d.nfoau == 'n') ? false : true;
    my_nfo_cfd = (d.nfocf == 'n') ? false : true;
