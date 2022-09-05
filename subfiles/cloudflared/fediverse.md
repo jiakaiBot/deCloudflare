@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 2,881 |
 | net | 1,663 |
 | social | 1,174 |
-| org | 1,137 |
+| org | 1,138 |
 | de | 993 |
 
 
@@ -507,7 +507,7 @@ Here's a list of public Fediverse services.
 | adamtbradley.net | No |
 | adapulawska.org | Yes |
 | adb.sh | No |
-| addajones.com | No |
+| addajones.com | Yes |
 | addams.space | No |
 | addesp.com | Yes |
 | addictiv.ink | No |
@@ -1872,7 +1872,7 @@ Here's a list of public Fediverse services.
 | bgcarlisle.com | No |
 | bgdream.org | No |
 | bgemi.net | No |
-| bgeneric.net | No |
+| bgeneric.net | Yes |
 | bghost.xyz | No |
 | bgme.me | Yes |
 | bgta.net | No |
@@ -4158,6 +4158,7 @@ Here's a list of public Fediverse services.
 | derdorifer.org | No |
 | dereferenced.org | No |
 | derekjames.xyz | No |
+| derg.land | No |
 | dergrimm.net | No |
 | dergrisch.de | No |
 | derguhl.de | No |
@@ -13633,6 +13634,7 @@ Here's a list of public Fediverse services.
 | open2ch.net | Yes |
 | openalgeria.org | No |
 | openbargel.com | Yes |
+| openbarnum.org | Yes |
 | openbiblio.social | No |
 | openchessbooks.org | No |
 | opencloud.lu | No |
@@ -18093,6 +18095,7 @@ Here's a list of public Fediverse services.
 | tending.to | Yes |
 | tenforward.social | No |
 | tenka.love | No |
+| tenna.site | No |
 | tennt.in | No |
 | tenoru.xyz | No |
 | tenpenny.network | No |
@@ -21051,7 +21054,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,111 |
+| Cloudflare | 4,114 |
 | Normal | 16,897 |
 
 
