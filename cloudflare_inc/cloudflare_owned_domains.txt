@@ -29,6 +29,7 @@ cloudflaresupport.com
 cloudflarewarp.com
 cloudflareworkers.com
 encryptedsni.com
+every1dns.net
 mycloudflare.com
 one.one
 pacloudflare.com
