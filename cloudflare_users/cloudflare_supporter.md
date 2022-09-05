@@ -7113,6 +7113,7 @@ Do not create new issue or we will close it as duplicate.
 | [PSNPro1@twitter](https://twitter.com/PSNPro1/status/1445818562841505797) | advertise |
 | [psychooSZNN@twitter](https://twitter.com/psychooSZNN/status/1389554029231972358) | advertise |
 | [psycokittens@twitter](https://twitter.com/psycokittens/status/1552483982042103809) | advertise |
+| [pterxx1000@twitter](https://twitter.com/pterxx1000/status/1566675503884353538) | advertise |
 | [PTexrTamim@twitter](https://twitter.com/PTexrTamim/status/1509822132225986567) | advertise |
 | [ptngthang0126@twitter](https://twitter.com/ptngthang0126/status/1378390696432787457) | advertise |
 | [ptp1322@twitter](https://twitter.com/ptp1322/status/1564488530939678720) | advertise |
