@@ -1779,6 +1779,7 @@ Do not create new issue or we will close it as duplicate.
 | [cutur1news@twitter](https://twitter.com/cutur1news/status/1446167201657114628) | advertise |
 | [cuuvihoo3004@twitter](https://twitter.com/cuuvihoo3004/status/1552483021525512192) | advertise |
 | [Cvd882@twitter](https://twitter.com/Cvd882/status/1383582186859753481) | advertise |
+| [cvdat2399@twitter](https://twitter.com/cvdat2399/status/1566906216231473153) | advertise |
 | [cwizhar@twitter](https://twitter.com/cwizhar/status/1388022395164774401) | advertise |
 | [CXCubeHD@twitter](https://twitter.com/CXCubeHD/status/1534248559654100995) | advertise |
 | [cYAsVengeance@twitter](https://twitter.com/cYAsVengeance/status/1386961394793336832) | advertise |
@@ -4333,8 +4334,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8262,6 +8263,7 @@ Do not create new issue or we will close it as duplicate.
 | [SuLatt39725019@twitter](https://twitter.com/SuLatt39725019/status/1390191641210671104) | advertise |
 | [suleiman_1383@twitter](https://twitter.com/suleiman_1383/status/1549178969676828672) | advertise |
 | [sulochanaeranda@twitter](https://twitter.com/sulochanaeranda/status/1479827028836765705) | advertise |
+| [Sultan98000519@twitter](https://twitter.com/Sultan98000519/status/1566898736797827073) | advertise |
 | [SulthanPhD@twitter](https://twitter.com/SulthanPhD/status/1386751386067423234) | advertise |
 | [sumaiya62429086@twitter](https://twitter.com/sumaiya62429086/status/1498860860022075394) | advertise |
 | [SUMAJKID@twitter](https://twitter.com/SUMAJKID/status/1553683439936712704) | advertise |
