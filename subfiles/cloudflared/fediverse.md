@@ -15361,6 +15361,7 @@ Here's a list of public Fediverse services.
 | rako.space | No |
 | rakyat.cc | No |
 | ralsei.moe | No |
+| ram.lgbt | Yes |
 | ramble.space | No |
 | ramen-fsm.eu.org | No |
 | ramendon.jp | No |
@@ -21056,7 +21057,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,114 |
+| Cloudflare | 4,115 |
 | Normal | 16,899 |
 
 
