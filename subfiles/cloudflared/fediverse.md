@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,882 |
+| com | 2,883 |
 | net | 1,663 |
 | social | 1,174 |
 | org | 1,138 |
-| de | 993 |
+| de | 994 |
 
 
 - Mastodon, Pleroma, etc
@@ -1714,7 +1714,7 @@ Here's a list of public Fediverse services.
 | bcom.moe | Yes |
 | bcome.nl | No |
 | bdeshi.space | No |
-| bdsmspace.club | Yes |
+| bdsmspace.club | No |
 | bdx.town | No |
 | beach.city | No |
 | beachcom.org | No |
@@ -1942,6 +1942,7 @@ Here's a list of public Fediverse services.
 | binaryunit.com | No |
 | binatang.nl | No |
 | binbin.eu.org | No |
+| binblog.de | No |
 | binbou.xyz | No |
 | binchan.xyz | No |
 | bindinggenerations.net | No |
@@ -3272,6 +3273,7 @@ Here's a list of public Fediverse services.
 | colorid.es | Yes |
 | colson.re | No |
 | com.de | Yes |
+| comacero.com | No |
 | comam.es | No |
 | combatbahai.com | No |
 | combiner.team | No |
@@ -8577,6 +8579,7 @@ Here's a list of public Fediverse services.
 | jemp.co | No |
 | jemverse.xyz | Yes |
 | jenkins.cc | No |
+| jennifilm.nz | No |
 | jenot.info | No |
 | jens-bertrams.de | No |
 | jensdiemer.de | No |
@@ -9385,7 +9388,7 @@ Here's a list of public Fediverse services.
 | koi.moe | Yes |
 | koinonia.club | No |
 | kokedon.xyz | No |
-| kokkoro.moe | No |
+| kokkoro.moe | Yes |
 | koko.cat | No |
 | kokoa.site | No |
 | kokokokko.com | No |
@@ -11016,7 +11019,7 @@ Here's a list of public Fediverse services.
 | mastodon.digital | Yes |
 | mastodon.direct | No |
 | mastodon.earth | No |
-| mastodon.ee | No |
+| mastodon.ee | Yes |
 | mastodon.engineering | No |
 | mastodon.eus | No |
 | mastodon.exchange | No |
@@ -21058,8 +21061,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,115 |
-| Normal | 16,900 |
+| Cloudflare | 4,116 |
+| Normal | 16,902 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
