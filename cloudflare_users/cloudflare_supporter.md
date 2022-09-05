@@ -685,6 +685,7 @@ Do not create new issue or we will close it as duplicate.
 | [AriesGreenApple@twitter](https://twitter.com/AriesGreenApple/status/1487078687598014470) | advertise |
 | [Arieshtut213@twitter](https://twitter.com/Arieshtut213/status/1402336618921578504) | advertise |
 | [ariess1265@twitter](https://twitter.com/ariess1265/status/1549318704646979584) | advertise |
+| [Arif6417@twitter](https://twitter.com/Arif6417/status/1566662954195435520) | advertise |
 | [Ariff36174425@twitter](https://twitter.com/Ariff36174425/status/1501938338902986762) | advertise |
 | [ArifinSunny19@twitter](https://twitter.com/ArifinSunny19/status/1389227451742523399) | advertise |
 | [Arjing66811042@twitter](https://twitter.com/Arjing66811042/status/1556038266939330560) | advertise |
@@ -1718,8 +1719,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -6862,6 +6863,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhmKhnhDn2@twitter](https://twitter.com/PhmKhnhDn2/status/1394310433629040642) | advertise |
 | [PhmKhu11@twitter](https://twitter.com/PhmKhu11/status/1397486099644092418) | advertise |
 | [PhmKin13022129@twitter](https://twitter.com/PhmKin13022129/status/1491552788551127043) | advertise |
+| [phmquch57707618@twitter](https://twitter.com/phmquch57707618/status/1566664402803511296) | advertise |
 | [PhmThanhTin14@twitter](https://twitter.com/PhmThanhTin14/status/1397039930153467905) | advertise |
 | [PhmThnh20543076@twitter](https://twitter.com/PhmThnh20543076/status/1394266375892336641) | advertise |
 | [PHMTRNGHN7@twitter](https://twitter.com/PHMTRNGHN7/status/1385132551627444226) | advertise |
