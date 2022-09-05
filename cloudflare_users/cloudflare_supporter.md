@@ -7966,6 +7966,7 @@ Do not create new issue or we will close it as duplicate.
 | [Simonx671@twitter](https://twitter.com/Simonx671/status/1394388837598629894) | advertise |
 | [SimonYng2@twitter](https://twitter.com/SimonYng2/status/1390340562184667136) | advertise |
 | [Simon_McNair@twitter](https://twitter.com/Simon_McNair/status/1565693360345677824) | advertise |
+| [simpelboys@twitter](https://twitter.com/simpelboys/status/1566609309257302016) | advertise |
 | [SimpleHafiz@twitter](https://twitter.com/SimpleHafiz/status/1487649405586972674) | advertise |
 | [SimranG39906146@twitter](https://twitter.com/SimranG39906146/status/1400837970656067593) | advertise |
 | [simultsop@twitter](https://twitter.com/simultsop/status/1387457851392733190) | advertise |
