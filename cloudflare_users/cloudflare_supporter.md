@@ -3926,6 +3926,7 @@ Do not create new issue or we will close it as duplicate.
 | [JRobertsonFRSA@twitter](https://twitter.com/JRobertsonFRSA/status/1500545084479180808) | advertise |
 | [jrrizlopez@twitter](https://twitter.com/jrrizlopez/status/1493925362681532416) | advertise |
 | [jrtb65@twitter](https://twitter.com/jrtb65/status/1552516859035009024) | advertise |
+| [jrxpress@twitter](https://twitter.com/jrxpress/status/1566638313854976000) | advertise |
 | [jrzcinco@twitter](https://twitter.com/jrzcinco/status/1520183037165813760) | advertise |
 | [Jscns2@twitter](https://twitter.com/Jscns2/status/1490713060692328448) | advertise |
 | [jsilvadestaques@twitter](https://twitter.com/jsilvadestaques/status/1546111425898287105) | advertise |
@@ -5759,6 +5760,7 @@ Do not create new issue or we will close it as duplicate.
 | [MrAung30882580@twitter](https://twitter.com/MrAung30882580/status/1386334358844305410) | advertise |
 | [MrAung97578516@twitter](https://twitter.com/MrAung97578516/status/1392482838474227719) | advertise |
 | [MrAung99592104@twitter](https://twitter.com/MrAung99592104/status/1394511966169751553) | advertise |
+| [MRbi80554442@twitter](https://twitter.com/MRbi80554442/status/1566644764837298176) | advertise |
 | [mrbishalbaniya@twitter](https://twitter.com/mrbishalbaniya/status/1395599405156241411) | advertise |
 | [MrCapri51525130@twitter](https://twitter.com/MrCapri51525130/status/1395035687993233409) | advertise |
 | [MrChitMaung@twitter](https://twitter.com/MrChitMaung/status/1391087758123446275) | advertise |
