@@ -7147,6 +7147,7 @@ Do not create new issue or we will close it as duplicate.
 | [pwmarsh@twitter](https://twitter.com/pwmarsh/status/1380107056129118211) | advertise |
 | [PwrHollands@twitter](https://twitter.com/PwrHollands/status/1382420172519186438) | advertise |
 | [pxtrez@twitter](https://twitter.com/pxtrez/status/1556338733267427329) | advertise |
+| [PxzlzYT@twitter](https://twitter.com/PxzlzYT/status/1566708936790753281) | advertise |
 | [PyaeKo5@twitter](https://twitter.com/PyaeKo5/status/1552362834197348352) | advertise |
 | [PyaeMinPaing4@twitter](https://twitter.com/PyaeMinPaing4/status/1398571550454910980) | advertise |
 | [PyaePhy07688520@twitter](https://twitter.com/PyaePhy07688520/status/1496088984467955713) | advertise |
@@ -9172,6 +9173,7 @@ Do not create new issue or we will close it as duplicate.
 | [twitchagouwa@twitter](https://twitter.com/twitchagouwa/status/1499465119918661638) | advertise |
 | [twiteza@twitter](https://twitter.com/twiteza/status/1397203308251594758) | advertise |
 | [Twyla54100915@twitter](https://twitter.com/Twyla54100915/status/1377527323654725636) | advertise |
+| [tybchris5823@twitter](https://twitter.com/tybchris5823/status/1566692358552334336) | advertise |
 | [TyGLpDCrMAHsKkR@twitter](https://twitter.com/TyGLpDCrMAHsKkR/status/1557362946652508160) | advertise |
 | [Tygrin1@twitter](https://twitter.com/Tygrin1/status/1400084109523832847) | advertise |
 | [tylerkb7873@twitter](https://twitter.com/tylerkb7873/status/1484538703309459459) | advertise |
