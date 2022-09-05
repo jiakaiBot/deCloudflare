@@ -9647,6 +9647,7 @@ Do not create new issue or we will close it as duplicate.
 | [XanhNai@twitter](https://twitter.com/XanhNai/status/1395198843956862977) | advertise |
 | [Xavi38789278@twitter](https://twitter.com/Xavi38789278/status/1534383777564196870) | advertise |
 | [XavierR11304483@twitter](https://twitter.com/XavierR11304483/status/1526014106511319042) | advertise |
+| [xbdmHQ@twitter](https://twitter.com/xbdmHQ/status/1566811404144984064) | advertise |
 | [xbdm_@twitter](https://twitter.com/xbdm_/status/1471004561791987715) | advertise |
 | [xbiginfo@twitter](https://twitter.com/xbiginfo/status/1534249092406181893) | advertise |
 | [Xboy2020G@twitter](https://twitter.com/Xboy2020G/status/1562838276586713089) | advertise |
