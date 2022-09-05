@@ -53,9 +53,9 @@ document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('ta4').checked = true;
             break;
          default:
-            document.getElementById('ta0').checked = false;
+            document.getElementById('ta0').checked = true;
             document.getElementById('ta1').checked = false;
-            document.getElementById('ta2').checked = true;
+            document.getElementById('ta2').checked = false;
             document.getElementById('ta3').checked = false;
             document.getElementById('ta4').checked = false;
             break;
