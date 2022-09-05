@@ -5807,6 +5807,7 @@ Do not create new issue or we will close it as duplicate.
 | [mr_dominguez_89@twitter](https://twitter.com/mr_dominguez_89/status/1437832776573759492) | advertise |
 | [Mr_HedgeH0g@twitter](https://twitter.com/Mr_HedgeH0g/status/1472736787432755202) | advertise |
 | [mr_lover574@twitter](https://twitter.com/mr_lover574/status/1394097023486410752) | advertise |
+| [Mr_Mey30@twitter](https://twitter.com/Mr_Mey30/status/1566720205610532866) | advertise |
 | [Mr_Serius86@twitter](https://twitter.com/Mr_Serius86/status/1385063841919225857) | advertise |
 | [Mr_Splavnik@twitter](https://twitter.com/Mr_Splavnik/status/1530099711960825858) | advertise |
 | [Mr_Teerasuk@twitter](https://twitter.com/Mr_Teerasuk/status/1394916839864430594) | advertise |
@@ -6343,6 +6344,7 @@ Do not create new issue or we will close it as duplicate.
 | [nhan1767@twitter](https://twitter.com/nhan1767/status/1477412506297835520) | advertise |
 | [Nhan26459038@twitter](https://twitter.com/Nhan26459038/status/1403623731851714560) | advertise |
 | [nhann1810@twitter](https://twitter.com/nhann1810/status/1552949975642161152) | advertise |
+| [NhanNeyugn@twitter](https://twitter.com/NhanNeyugn/status/1566722523274027009) | advertise |
 | [NhanNgu65502772@twitter](https://twitter.com/NhanNgu65502772/status/1506866514929995780) | advertise |
 | [NhanPha27178636@twitter](https://twitter.com/NhanPha27178636/status/1377611494133751810) | advertise |
 | [nhan_dac@twitter](https://twitter.com/nhan_dac/status/1407903659929739268) | advertise |
@@ -6481,6 +6483,7 @@ Do not create new issue or we will close it as duplicate.
 | [nppn2611@twitter](https://twitter.com/nppn2611/status/1480784759835873282) | advertise |
 | [NPTReyes@twitter](https://twitter.com/NPTReyes/status/1437249106703904768) | advertise |
 | [nrlyanaramli@twitter](https://twitter.com/nrlyanaramli/status/1533087091126845443) | advertise |
+| [NS6789@twitter](https://twitter.com/NS6789/status/1566716426076901376) | advertise |
 | [NSAisBACK@twitter](https://twitter.com/NSAisBACK/status/1540511032237506560) | advertise |
 | [NsauPricilla@twitter](https://twitter.com/NsauPricilla/status/1394617886178566144) | advertise |
 | [nsktar@twitter](https://twitter.com/nsktar/status/1502997750501281799) | advertise |
