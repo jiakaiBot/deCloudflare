@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Returning a 503](https://github.com/apollographql/fullstack-tutorial/issues/288)
 - [error upgrading to v2.5.2 from v2.5.1](https://github.com/NodeBB/NodeBB/issues/10876)
 - [filelist (updating) Error calling provider filelist: The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/504)
 - [Can't download file after uploading to cloud using volume.tier.upload](https://github.com/seaweedfs/seaweedfs/issues/3584)
