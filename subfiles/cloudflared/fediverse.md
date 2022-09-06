@@ -739,7 +739,7 @@ Here's a list of public Fediverse services.
 | algore42069.ga | No |
 | algorithmic.tv | No |
 | algufr.com | No |
-| alhur.es | Yes |
+| alhur.es | No |
 | alice-tech.net | No |
 | alice486.com | No |
 | alicecomplex.com | No |
@@ -3250,6 +3250,7 @@ Here's a list of public Fediverse services.
 | coisland.xyz | No |
 | cojo.uno | No |
 | coko.de | No |
+| coko.foundation | No |
 | cold.solar | No |
 | coldness.co | No |
 | colean.cc | No |
@@ -21074,8 +21075,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,122 |
-| Normal | 16,909 |
+| Cloudflare | 4,121 |
+| Normal | 16,911 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
