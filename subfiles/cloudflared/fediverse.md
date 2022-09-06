@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,883 |
+| com | 2,884 |
 | net | 1,663 |
 | social | 1,174 |
-| org | 1,138 |
+| org | 1,139 |
 | de | 995 |
 
 
@@ -1091,7 +1091,7 @@ Here's a list of public Fediverse services.
 | apiote.tk | No |
 | apiote.xyz | No |
 | apirie.uk | No |
-| apkfission.net | No |
+| apkfission.net | Yes |
 | apoil.org | No |
 | apolut.net | Yes |
 | apontaeclica.com | No |
@@ -2975,6 +2975,7 @@ Here's a list of public Fediverse services.
 | chouech.org | No |
 | chowchow.social | No |
 | chown.me | No |
+| chowwiwang.com | No |
 | chr0nix.xyz | No |
 | chri5.art | No |
 | chris-latza.de | No |
@@ -4457,6 +4458,7 @@ Here's a list of public Fediverse services.
 | docampo.net | No |
 | docker25.ch | No |
 | docteamdemosite.club | No |
+| doctors4covidethics.org | No |
 | dodsorf.as | No |
 | does.social | No |
 | doesnotexist.club | No |
@@ -6650,6 +6652,7 @@ Here's a list of public Fediverse services.
 | ggrel.net | Yes |
 | ggtea.org | No |
 | gh0st.live | No |
+| ghetti.monster | No |
 | ghibah.space | No |
 | ghost.cafe | No |
 | ghost.supplies | No |
@@ -14140,7 +14143,7 @@ Here's a list of public Fediverse services.
 | peachybat.com | No |
 | peakimage.net | Yes |
 | peanbuff.de | No |
-| pebcak.de | No |
+| pebcak.de | Yes |
 | pech.tech | No |
 | pede.rs | No |
 | pedesen.de | No |
@@ -14570,6 +14573,7 @@ Here's a list of public Fediverse services.
 | pleasetf.us | No |
 | plebsclub.com | No |
 | pleco.ca | Yes |
+| pleiades.link | No |
 | plein.org | No |
 | plero.ma | No |
 | plerodatech.fr | No |
@@ -16216,6 +16220,7 @@ Here's a list of public Fediverse services.
 | sayit.world | No |
 | saynoto.lgbt | No |
 | saysrelax.com | No |
+| sb17.space | No |
 | sbaron.fr | No |
 | sbnode.com | Yes |
 | sbpk.fr | Yes |
@@ -21063,8 +21068,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,118 |
-| Normal | 16,902 |
+| Cloudflare | 4,120 |
+| Normal | 16,905 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
