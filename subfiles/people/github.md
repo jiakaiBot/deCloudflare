@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Cloudflare API service issues](https://github.com/MatBenfield/news/issues/2258)
 - [extends rulesets doesn't follow redirects](https://github.com/stoplightio/spectral/issues/2266)
 - [usePreventMutationViaGET default plugin breaks mutations via WS](https://github.com/dotansimha/graphql-yoga/issues/1704)
 - [Returning a 503](https://github.com/apollographql/fullstack-tutorial/issues/288)
