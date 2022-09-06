@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,885 |
+| com | 2,884 |
 | net | 1,663 |
 | social | 1,174 |
 | org | 1,139 |
@@ -3275,7 +3275,7 @@ Here's a list of public Fediverse services.
 | colorfur.com | No |
 | colorid.es | Yes |
 | colson.re | No |
-| com.de | Yes |
+| com.de | No |
 | comacero.com | No |
 | comam.es | No |
 | combatbahai.com | No |
@@ -13157,6 +13157,7 @@ Here's a list of public Fediverse services.
 | nop.moe | No |
 | nopdev.com | No |
 | nope.social | No |
+| nops.red | No |
 | nopsled.club | No |
 | nopulse.net | Yes |
 | noraa.gay | No |
@@ -13249,7 +13250,6 @@ Here's a list of public Fediverse services.
 | novium.pw | No |
 | novoa.nagoya | No |
 | novoidspace.com | No |
-| novvist.com | No |
 | now.sh | Yes |
 | nowa.re | No |
 | nowheycreamery.com | No |
@@ -17371,7 +17371,7 @@ Here's a list of public Fediverse services.
 | star-one.org.uk | No |
 | starapps-network.com | No |
 | starbreaker.org | No |
-| stardenver.de | No |
+| stardenver.de | Yes |
 | stardenver.eu | No |
 | stardenver.social | No |
 | stardew.city | No |
