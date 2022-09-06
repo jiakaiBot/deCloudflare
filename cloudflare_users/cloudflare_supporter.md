@@ -7378,6 +7378,7 @@ Do not create new issue or we will close it as duplicate.
 | [reazdipu@twitter](https://twitter.com/reazdipu/status/1529910524376674304) | advertise |
 | [Rebeccamauni990@twitter](https://twitter.com/Rebeccamauni990/status/1400455125726994442) | advertise |
 | [Rebel46022752@twitter](https://twitter.com/Rebel46022752/status/1394979060628000772) | advertise |
+| [recheal_mary@twitter](https://twitter.com/recheal_mary/status/1567280620392300544) | advertise |
 | [reckitlauncher@twitter](https://twitter.com/reckitlauncher/status/1491610235210919936) | advertise |
 | [redcode198@twitter](https://twitter.com/redcode198/status/1553765502467854338) | advertise |
 | [RedditLs@twitter](https://twitter.com/RedditLs/status/1395856406474014720) | advertise |
