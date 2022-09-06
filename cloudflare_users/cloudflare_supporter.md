@@ -7672,6 +7672,7 @@ Do not create new issue or we will close it as duplicate.
 | [Samim54823362@twitter](https://twitter.com/Samim54823362/status/1485258949540683778) | advertise |
 | [SamioWol@twitter](https://twitter.com/SamioWol/status/1395796936045649924) | advertise |
 | [SamirSi28964752@twitter](https://twitter.com/SamirSi28964752/status/1388133397294469122) | advertise |
+| [samliew@twitter](https://twitter.com/samliew/status/1566940977784188928) | advertise |
 | [Sammu0108@twitter](https://twitter.com/Sammu0108/status/1379878407597477890) | advertise |
 | [Sammy54083401@twitter](https://twitter.com/Sammy54083401/status/1391998609537867777) | advertise |
 | [sampath_binura@twitter](https://twitter.com/sampath_binura/status/1402497203533385728) | advertise |
