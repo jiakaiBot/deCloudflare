@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [extends rulesets doesn't follow redirects](https://github.com/stoplightio/spectral/issues/2266)
 - [usePreventMutationViaGET default plugin breaks mutations via WS](https://github.com/dotansimha/graphql-yoga/issues/1704)
 - [Returning a 503](https://github.com/apollographql/fullstack-tutorial/issues/288)
 - [error upgrading to v2.5.2 from v2.5.1](https://github.com/NodeBB/NodeBB/issues/10876)
