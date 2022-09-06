@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,663 |
 | social | 1,174 |
 | org | 1,138 |
-| de | 994 |
+| de | 995 |
 
 
 - Mastodon, Pleroma, etc
@@ -1146,6 +1146,7 @@ Here's a list of public Fediverse services.
 | archae.me | No |
 | archaeme.tech | Yes |
 | archfiend.org | Yes |
+| archi.pp.ua | No |
 | archie.party | No |
 | archigny.net | No |
 | archipell.xyz | No |
@@ -9866,6 +9867,7 @@ Here's a list of public Fediverse services.
 | legohousein.space | No |
 | legrand.im | Yes |
 | legume.fans | No |
+| lehernet.de | Yes |
 | lehman-family.com | No |
 | lehmann.zone | No |
 | lehrmastodon.com | No |
@@ -14672,7 +14674,7 @@ Here's a list of public Fediverse services.
 | poetic.systems | No |
 | poetry.garden | No |
 | pofilo.fr | No |
-| pogchamp.xyz | No |
+| pogchamp.xyz | Yes |
 | pogge.rs | Yes |
 | poggerinos.ml | No |
 | poggers.lgbt | Yes |
@@ -21061,7 +21063,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,116 |
+| Cloudflare | 4,118 |
 | Normal | 16,902 |
 
 
