@@ -877,6 +877,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungMyo12617132@twitter](https://twitter.com/AungMyo12617132/status/1387264018084106241) | advertise |
 | [Aungmyo14725192@twitter](https://twitter.com/Aungmyo14725192/status/1400381225315885057) | advertise |
 | [AungMyo33400918@twitter](https://twitter.com/AungMyo33400918/status/1397901151580864512) | advertise |
+| [Aungmyo37554934@twitter](https://twitter.com/Aungmyo37554934/status/1567160518225575938) | advertise |
 | [AungMyo51763731@twitter](https://twitter.com/AungMyo51763731/status/1394490975225925634) | advertise |
 | [AungMyo60854329@twitter](https://twitter.com/AungMyo60854329/status/1396817484871704578) | advertise |
 | [AungMyo64596969@twitter](https://twitter.com/AungMyo64596969/status/1395520609476431872) | advertise |
