@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,884 |
+| com | 2,885 |
 | net | 1,663 |
 | social | 1,174 |
 | org | 1,139 |
@@ -741,6 +741,7 @@ Here's a list of public Fediverse services.
 | algufr.com | No |
 | alhur.es | Yes |
 | alice-tech.net | No |
+| alice486.com | No |
 | alicecomplex.com | No |
 | alicef.me | No |
 | aliceice.de | No |
@@ -3723,6 +3724,7 @@ Here's a list of public Fediverse services.
 | cyberfrancis.net | No |
 | cyberfuck.club | No |
 | cybergay.space | No |
+| cyberia.club | No |
 | cyberia.icu | No |
 | cyberia.institute | No |
 | cyberia.social | No |
@@ -19391,6 +19393,7 @@ Here's a list of public Fediverse services.
 | unturf.com | No |
 | untwitter.cf | No |
 | unx.pw | No |
+| unyu.live | Yes |
 | unzensiert.to | No |
 | uofgbot.top | No |
 | uoga.net | No |
@@ -21071,8 +21074,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,121 |
-| Normal | 16,907 |
+| Cloudflare | 4,122 |
+| Normal | 16,909 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
