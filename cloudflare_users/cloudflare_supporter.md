@@ -9297,6 +9297,7 @@ Do not create new issue or we will close it as duplicate.
 | [VanshRa26933281@twitter](https://twitter.com/VanshRa26933281/status/1400390812681211907) | advertise |
 | [VanshSahni17@twitter](https://twitter.com/VanshSahni17/status/1549586329901535234) | advertise |
 | [van_2808@twitter](https://twitter.com/van_2808/status/1406078940389593095) | advertise |
+| [van_dakip@twitter](https://twitter.com/van_dakip/status/1567230373565710343) | advertise |
 | [VarinderHayer3@twitter](https://twitter.com/VarinderHayer3/status/1400361261389385733) | advertise |
 | [varshith__9@twitter](https://twitter.com/varshith__9/status/1384730354834018304) | advertise |
 | [VarunKa93262715@twitter](https://twitter.com/VarunKa93262715/status/1381181351710187520) | advertise |
