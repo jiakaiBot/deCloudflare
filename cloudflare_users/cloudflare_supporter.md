@@ -1849,6 +1849,7 @@ Do not create new issue or we will close it as duplicate.
 | [daniel_Zmdy@twitter](https://twitter.com/daniel_Zmdy/status/1389817835430449152) | advertise |
 | [dAniO500gucci50@twitter](https://twitter.com/dAniO500gucci50/status/1392152995455021061) | advertise |
 | [Danish111930617@twitter](https://twitter.com/Danish111930617/status/1560183361636683776) | advertise |
+| [danishfaizal20@twitter](https://twitter.com/danishfaizal20/status/1567192300438302720) | advertise |
 | [DannySiregar4@twitter](https://twitter.com/DannySiregar4/status/1386713728511479810) | advertise |
 | [danny_mx@twitter](https://twitter.com/danny_mx/status/1404509805117648902) | advertise |
 | [DanOno365@twitter](https://twitter.com/DanOno365/status/1371618039108673545) | advertise |
