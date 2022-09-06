@@ -10440,6 +10440,7 @@ Here's a list of public Fediverse services.
 | lowlab.social | No |
 | lowlevel.ca | No |
 | lowol.org | No |
+| lowpassfilter.link | No |
 | lowsamplingrate.eu | No |
 | lowsnr.net | No |
 | loxodon.social | No |
@@ -12569,6 +12570,7 @@ Here's a list of public Fediverse services.
 | nataraj.ru | No |
 | nate601.me | Yes |
 | natedickson.com | No |
+| natehiggers.online | Yes |
 | natehn.com | No |
 | natehub.com | Yes |
 | nateledford.com | Yes |
@@ -15901,6 +15903,7 @@ Here's a list of public Fediverse services.
 | rplatonov.ru | No |
 | rpverse.club | No |
 | rpvortex.online | No |
+| rpz.su | No |
 | rs-einrich.de | No |
 | rse43.com | Yes |
 | rsi.social | No |
@@ -21068,8 +21071,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,120 |
-| Normal | 16,905 |
+| Cloudflare | 4,121 |
+| Normal | 16,907 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
