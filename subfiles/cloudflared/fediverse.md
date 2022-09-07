@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,884 |
-| net | 1,664 |
+| com | 2,885 |
+| net | 1,665 |
 | social | 1,174 |
 | org | 1,139 |
 | de | 995 |
@@ -12056,6 +12056,7 @@ Here's a list of public Fediverse services.
 | moso.io | Yes |
 | mosqueeto.net | No |
 | moss.church | No |
+| mossou.com | No |
 | mossymaker.com | No |
 | mostodon.cloud | No |
 | mostodon.info | No |
@@ -13185,6 +13186,7 @@ Here's a list of public Fediverse services.
 | norius.fr | No |
 | normandie-libre.fr | No |
 | normie.cafe | No |
+| noronista.net | No |
 | norrebro.space | No |
 | norrland.xyz | No |
 | northpole.host | No |
@@ -14499,6 +14501,7 @@ Here's a list of public Fediverse services.
 | pixelfed.uno | Yes |
 | pixelfediver.se | No |
 | pixelfett.de | No |
+| pixelfilm.nz | No |
 | pixelfred.de | No |
 | pixelgesicht.de | No |
 | pixelho.me | No |
@@ -19139,6 +19142,7 @@ Here's a list of public Fediverse services.
 | twooter.me | Yes |
 | twrc.ru | No |
 | twtr.plus | No |
+| twunk.uk | No |
 | txio.eus | No |
 | txmn.tk | No |
 | txmrl.net | No |
@@ -21078,7 +21082,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,122 |
-| Normal | 16,912 |
+| Normal | 16,916 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
