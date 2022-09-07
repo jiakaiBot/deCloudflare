@@ -1290,9 +1290,12 @@ async function reload_config() {
          }
          _working = shouldWork;
          myConfig = JSON.parse(JSON.stringify(r.conf));
+         if (myConfig['ignored'] == undefined) {
+            myConfig['ignored'] = {};
+         }
       } else {
          _working = false;
-         myConfig['optout'] = [];
+         myConfig['ignored'] = {};
       }
    });
 }
@@ -1330,10 +1333,10 @@ browser.webRequest.onBeforeRequest.addListener(g => {
    }
    let fqdn = (new URL(g.url)).hostname,
       domain = get_realdomain(fqdn);
-   if (domain.length < 4 || /^(mypdns\.(org|com)|crimeflare\.eu\.org)$/.test(domain)) {
+   if (domain.length < 4) {
       return;
    }
-   if (myConfig['optout'].includes(domain) || myConfig['optout'].includes(fqdn)) {
+   if (myConfig['ignored'][domain] || myConfig['ignored'][fqdn]) {
       return;
    }
    let keys = [];
@@ -1351,7 +1354,7 @@ browser.webRequest.onBeforeRequest.addListener(g => {
                o({
                   redirectUrl: 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQBCgAAACwAAAAAAQABAAACAkQBADs='
                });
-            } else if (myConfig['opt03'] == 1) {
+            } else if (myConfig['opt03'] == 1 && g.type == 'main_frame') {
                o({
                   redirectUrl: browser.runtime.getURL('blocked.html#' + domain)
                });
