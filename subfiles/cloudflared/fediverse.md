@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,885 |
-| net | 1,665 |
+| net | 1,666 |
 | social | 1,174 |
 | org | 1,139 |
 | de | 995 |
@@ -3276,7 +3276,7 @@ Here's a list of public Fediverse services.
 | colorfur.com | No |
 | colorid.es | Yes |
 | colson.re | No |
-| com.de | No |
+| com.de | Yes |
 | comacero.com | No |
 | comam.es | No |
 | combatbahai.com | No |
@@ -9601,6 +9601,7 @@ Here's a list of public Fediverse services.
 | kvlt.zone | No |
 | kvokni.cz | No |
 | kvvpa.blog | No |
+| kwaa.dev | Yes |
 | kwaa.moe | Yes |
 | kwat.chat | No |
 | kwatra.me | Yes |
@@ -10494,6 +10495,7 @@ Here's a list of public Fediverse services.
 | luckystrik3.com | No |
 | luclu7.fr | No |
 | lucyd.io | No |
+| lucypoulton.net | Yes |
 | ludi.pics | No |
 | ludim.us | No |
 | ludosphere.fr | No |
@@ -21081,8 +21083,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,122 |
-| Normal | 16,916 |
+| Cloudflare | 4,125 |
+| Normal | 16,915 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
