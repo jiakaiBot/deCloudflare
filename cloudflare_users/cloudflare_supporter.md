@@ -9955,6 +9955,7 @@ Do not create new issue or we will close it as duplicate.
 | [zahrafarouq1@twitter](https://twitter.com/zahrafarouq1/status/1401092958972166147) | advertise |
 | [ZAHRSAEED@twitter](https://twitter.com/ZAHRSAEED/status/1494523655556059137) | advertise |
 | [Zakarias7i@twitter](https://twitter.com/Zakarias7i/status/1403217695596847105) | advertise |
+| [zalaankapoy@twitter](https://twitter.com/zalaankapoy/status/1567544093475241984) | advertise |
 | [zan_wine@twitter](https://twitter.com/zan_wine/status/1389881186852372481) | advertise |
 | [Zarchi44269885@twitter](https://twitter.com/Zarchi44269885/status/1392878000153186305) | advertise |
 | [ZarMaNii4@twitter](https://twitter.com/ZarMaNii4/status/1472576384362942468) | advertise |
