@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [mtlnation.com site authorization error](https://github.com/dipu-bd/lightnovel-crawler/issues/1552)
 - [docs.fast.ai is timing out](https://github.com/fastai/fastai/issues/3787)
 - [Strip URL parameters from a user-defined list EVERYWHERE, for every URL action, with ability to disable it flexibly](https://github.com/qutebrowser/qutebrowser/issues/7387)
 - [Ensure that HTML assignments are done through TrustedHTML](https://github.com/docsifyjs/docsify/issues/1877)
