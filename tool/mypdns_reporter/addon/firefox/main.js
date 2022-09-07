@@ -2283,6 +2283,39 @@ browser.runtime.onMessage.addListener((r, s, sr) => {
       });
       sr(true);
    }
+   if (r[0] == 'opentab') {
+      browser.tabs.query({
+         currentWindow: true
+      }).then(tabs => {
+         let tOpen = [],
+            tWho = -1;
+         for (let t of tabs) {
+            if (t && t.url) {
+               tOpen.push(t.url);
+               if (t.active) {
+                  tWho = t.id;
+               }
+            }
+         }
+         for (let t of r[1]) {
+            if (!tOpen.includes(t)) {
+               browser.tabs.create(tWho == -1 ? {
+                  url: t
+               } : {
+                  url: t,
+                  openerTabId: tWho
+               });
+            }
+         }
+      }, () => {});
+      sr(true);
+   }
+   if (r[0] == 'savepin') {
+      browser.storage.local.set({
+         [r[1]]: [r[2], r[3]]
+      });
+      sr(true);
+   }
    return true;
 });
 browser.runtime.onInstalled.addListener(g => {
