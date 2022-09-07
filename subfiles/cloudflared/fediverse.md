@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,884 |
-| net | 1,663 |
+| net | 1,664 |
 | social | 1,174 |
 | org | 1,139 |
 | de | 995 |
@@ -12712,6 +12712,7 @@ Here's a list of public Fediverse services.
 | nenmyx.dev | No |
 | nenohi.net | Yes |
 | neobluepanther.com | No |
+| neocoretext.net | No |
 | neofae.net | No |
 | neoliberalyse.de | No |
 | neoliferp.fr | No |
@@ -14133,6 +14134,7 @@ Here's a list of public Fediverse services.
 | pchost.org | No |
 | pclmulqdq.dev | No |
 | pcora.eu | No |
+| pcorp.us | No |
 | pcservice46.fr | No |
 | pcsfield.com | No |
 | pcwideopen.com | No |
@@ -14518,7 +14520,7 @@ Here's a list of public Fediverse services.
 | pizzapizza.life | No |
 | pj-jp.net | No |
 | pjbrunet.com | No |
-| pkkm.me | No |
+| pkkm.me | Yes |
 | pks.ai | Yes |
 | pkteerium.xyz | No |
 | pl-sonic.net | No |
@@ -21075,8 +21077,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,121 |
-| Normal | 16,911 |
+| Cloudflare | 4,122 |
+| Normal | 16,912 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
