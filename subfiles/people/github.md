@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [New: Cloudflare alert rules](https://github.com/samber/awesome-prometheus-alerts/issues/306)
 - [Can resolvers add sock5 proxy mode](https://github.com/folbricht/routedns/issues/264)
 - [mtlnation.com site authorization error](https://github.com/dipu-bd/lightnovel-crawler/issues/1552)
 - [docs.fast.ai is timing out](https://github.com/fastai/fastai/issues/3787)
