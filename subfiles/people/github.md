@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Strip URL parameters from a user-defined list EVERYWHERE, for every URL action, with ability to disable it flexibly](https://github.com/qutebrowser/qutebrowser/issues/7387)
+- [Ensure that HTML assignments are done through TrustedHTML](https://github.com/docsifyjs/docsify/issues/1877)
 - [Errors upgrading from 0.2.33 -> 0.2.34](https://github.com/frontegg/terraform-provider-frontegg/issues/50)
 - [CloudFlare Cloudflare API service issues](https://github.com/MatBenfield/news/issues/2258)
 - [extends rulesets doesn't follow redirects](https://github.com/stoplightio/spectral/issues/2266)
