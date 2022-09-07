@@ -6172,6 +6172,7 @@ Do not create new issue or we will close it as duplicate.
 | [neverlandoff@twitter](https://twitter.com/neverlandoff/status/1550496168072941569) | advertise |
 | [NevinMathews6@twitter](https://twitter.com/NevinMathews6/status/1478413721361793025) | advertise |
 | [New5pratik@twitter](https://twitter.com/New5pratik/status/1521221467677016064) | advertise |
+| [newaj_jahid@twitter](https://twitter.com/newaj_jahid/status/1567444476175712256) | advertise |
 | [Newbie7749@twitter](https://twitter.com/Newbie7749/status/1381448530682765313) | advertise |
 | [newblogmedia@twitter](https://twitter.com/newblogmedia/status/1384136725732024329) | advertise |
 | [newday20830803@twitter](https://twitter.com/newday20830803/status/1396155259886657536) | advertise |
