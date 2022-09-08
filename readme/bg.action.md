@@ -171,10 +171,10 @@ AFAIK, нулевият уебсайт прави това. Ще им се до�
 - Имате ли нужда от HTTPS сертификат? Използвайте "Let's Encrypt" или просто го купете от CA компания.
 
 - Имате ли нужда от DNS сървър? Не можете да настроите свой собствен сървър? Какво ще кажете за тях: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Администраторът изтрива акаунта ви, ако използвате TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Търсите хостинг услуга? Само безплатно? Какво ще кажете за тях: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Алтернативи на Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Алтернативи на Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Използвате ли "cloudflare-ipfs.com"? [Знаете ли, че Cloudflare IPFS е лош?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - Където е подходящо, свържете се с тези групи в това хранилище - това може да бъде място за координиране на съвместната работа като групи.
 
-- [Стартирайте кокошарник, който може да предостави значима некорпоративна алтернатива на Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Стартирайте кокошарник, който може да предостави значима некорпоративна алтернатива на Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Уведомете ни за всички алтернативи, които да помогнат поне за осигуряване на многопластова защита срещу Cloudflare.
 
