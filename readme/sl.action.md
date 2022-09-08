@@ -171,10 +171,10 @@ Prav tako se strinjate, da boste svoje podatke delili z Cloudflare in se strinja
 - Ali potrebujete potrdilo HTTPS? Uporabite "Let's Encrypt" ali ga preprosto kupite pri podjetju CA.
 
 - Ali potrebujete strežnik DNS? Ne morete nastaviti lastnega strežnika? Kaj pa oni: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Skrbnik izbriše vaš račun, če uporabljate TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Iščete storitev gostovanja? Samo brezplačno? Kaj pa oni: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternative Cloudflareju](../subfiles/alternative.cloudflare.md)
+  - [Alternative Cloudflareju](../subfiles/alternative/cloudflare.md)
 
 - Ali uporabljate "cloudflare-ipfs.com"? [Ali veste, da je IPFS v oblaku slab?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Zato priporočamo samo zgornjo tabelo. Nič drugega.
 
 - Po potrebi se povežite s temi skupinami v tem odlagališču - to je lahko prostor za usklajevanje skupnega dela.
 
-- [Začnite koop, ki lahko nudi smiselno nekorporacijsko alternativo Cloudflareju.](../subfiles/alternative.cloudflare.md)
+- [Začnite koop, ki lahko nudi smiselno nekorporacijsko alternativo Cloudflareju.](../subfiles/alternative/cloudflare.md)
 
 - Sporočite nam morebitne alternative, ki bodo pomagale vsaj zagotoviti večplastno obrambo pred Cloudflarejem.
 
