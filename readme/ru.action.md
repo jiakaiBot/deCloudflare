@@ -171,10 +171,10 @@ AFAIK, нулевой веб-сайт делает это. Вы им довер�
 - Вам нужен сертификат HTTPS? Воспользуйтесь «Let's Encrypt» или просто купите его в компании CA.
 
 - Вам нужен DNS-сервер? Не можете настроить свой собственный сервер? Как насчет них: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Администратор удаляет вашу учетную запись, если вы используете TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Ищете услуги хостинга? Только бесплатно? Как насчет них: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Альтернативы Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Альтернативы Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Вы используете cloudflare-ipfs.com? [Вы знаете, что Cloudflare IPFS - это плохо?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - Где это уместно, сделайте ссылку на эти группы в этом репозитории - это может быть место для координации совместной работы в группах.
 
-- [Начните сотрудничество, которое может предоставить значимую некорпоративную альтернативу Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Начните сотрудничество, которое может предоставить значимую некорпоративную альтернативу Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Сообщите нам о любых альтернативах, которые помогут хотя бы обеспечить многоуровневую защиту от Cloudflare.
 
