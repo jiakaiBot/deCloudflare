@@ -171,10 +171,10 @@ Si Cloudflare divulgue vos informations ou ne vous permet pas de vous connecter 
 - Avez-vous besoin d'un certificat HTTPS? Utilisez "Let's Encrypt" ou achetez-le simplement auprès d'une société CA.
 
 - Avez-vous besoin d'un serveur DNS? Vous ne pouvez pas configurer votre propre serveur? Et eux: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (L'administrateur supprime votre compte si vous utilisez TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Vous recherchez un service d'hébergement? Gratuit seulement? Et eux: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatives à Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternatives à Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Utilisez-vous "cloudflare-ipfs.com"? [Savez-vous que Cloudflare IPFS est mauvais?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Par conséquent, nous recommandons uniquement le tableau ci-dessus. Rien d'autre
 
 - Le cas échéant, créez un lien vers ces groupes sur ce référentiel - cela peut être un endroit pour coordonner le travail en groupe.
 
-- [Démarrez une coopérative qui peut fournir une alternative non professionnelle significative à Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Démarrez une coopérative qui peut fournir une alternative non professionnelle significative à Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Faites-nous part de toutes les alternatives pour aider au moins à fournir une défense multicouche contre Cloudflare.
 
