@@ -171,10 +171,10 @@ Ngati Cloudflare atulutsa zambiri zanu kapena sangakuloleni kuti mulumikizane nd
 - Kodi mukufuna setifiketi ya HTTPS? Gwiritsani ntchito "Tiyeni Encrypt" kapena ingogulani kuchokera ku kampani ya CA.
 
 - Kodi mukufuna seva ya DNS? Kodi simungathe kukhazikitsa seva yanu? Nanga bwanji za iwo: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin chotsani akaunti yanu ngati mugwiritsa ntchito TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Mukuyang'ana kuchititsa kuchititsa? Zaulere zokha? Nanga bwanji za iwo: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Njira zina ku Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Njira zina ku Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Mukugwiritsa ntchito "cloudflare-ipfs.com"? [Kodi mukudziwa Cloudflare IPFS ndiyabwino?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Chifukwa chake timalimbikitsa pamwambapa tebulo lokha. Palibe china.
 
 - Poyenera, yolumikizani ndi magulu awa pamalo awa - awa akhoza kukhala malo ogwirira ntchito limodzi ngati magulu.
 
-- [Yambitsani khola lomwe lingapereke njira yopanda tanthauzo ku Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Yambitsani khola lomwe lingapereke njira yopanda tanthauzo ku Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Tiuzeni za njira zina zilizonse zomwe zingathandize kuti titeteze Cloudflare.
 
