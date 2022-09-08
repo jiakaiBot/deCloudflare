@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "My Privacy DNS Defender",
   "description": "Filtering websites made easy.",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "author": "Crimeflare",
   "homepage_url": "http://crimeflare.eu.org/",
   "permissions": [
@@ -31,8 +31,9 @@
   ],
   "applications": {
     "gecko": {
-      "id": "defender@addon.mypdns.org",
-      "strict_min_version": "91.0"
+      "id": "defender@cat.mypdns.org",
+      "strict_min_version": "91.0",
+      "update_url": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/mypdns/update_firefox.json"
     }
   }
 }
