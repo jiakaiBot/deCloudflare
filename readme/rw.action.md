@@ -171,10 +171,10 @@ Niba Cloudflare imennye amakuru yawe cyangwa ntizakwemerera guhuza na seriveri z
 - Ukeneye icyemezo cya HTTPS? Koresha "Reka Encrypt" cyangwa uyigure muri sosiyete ya CA gusa.
 
 - Ukeneye seriveri ya DNS? Ntushobora gushiraho seriveri yawe bwite? Bite ho kuri bo: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin gusiba konte yawe niba ukoresha TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Urashaka serivisi yo kwakira? Ubuntu gusa? Bite ho kuri bo: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Ibindi Kuri Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Ibindi Kuri Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Urimo gukoresha "cloudflare-ipfs.com"? [Uziko Cloudflare IPFS ari mbi?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Kubwibyo turasaba hejuru kumeza gusa. Ntakindi.
 
 - Mugihe bibaye ngombwa, ihuza aya matsinda kuriyi bubiko - aha hashobora kuba umwanya wo guhuza ibikorwa hamwe nkitsinda.
 
-- [Tangira akazu gashobora gutanga ibisobanuro bifatika bitari ibigo kuri Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Tangira akazu gashobora gutanga ibisobanuro bifatika bitari ibigo kuri Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Tumenyeshe ubundi buryo bwo gufasha byibuze gutanga uburinzi butandukanye burwanya Cloudflare.
 
