@@ -171,10 +171,10 @@ Kui Cloudflare lekitab teie teavet või ei lase teil meie serveritega ühendust 
 - Kas vajate HTTPS-sertifikaati? Kasutage "Krüpteerime" või ostke see lihtsalt CA ettevõttelt.
 
 - Kas vajate DNS-serverit? Kas te ei saa oma serverit seadistada? Kuidas nendega: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Administraator kustutab teie konto, kui kasutate TOR-i)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Kas otsite hostimisteenust? Ainult tasuta? Kuidas nendega: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare'i alternatiivid](../subfiles/alternative.cloudflare.md)
+  - [Cloudflare'i alternatiivid](../subfiles/alternative/cloudflare.md)
 
 - Kas kasutate saiti "cloudflare-ipfs.com"? [Kas teate, et Cloudflare IPFS on halb?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Seetõttu soovitame ainult ülaltoodud tabelit. Mitte midagi muud.
 
 - Vajaduse korral linkige selle hoidla nende rühmadega - see võib olla koht rühmadena koos töötamise koordineerimiseks.
 
-- [Alustage koostööd, mis võib pakkuda Cloudflare'ile sisukat alternatiivset alternatiivi.](../subfiles/alternative.cloudflare.md)
+- [Alustage koostööd, mis võib pakkuda Cloudflare'ile sisukat alternatiivset alternatiivi.](../subfiles/alternative/cloudflare.md)
 
 - Andke meile teada kõikidest alternatiividest, mis aitaksid Cloudflare'i vastu vähemalt mitmekihilist kaitset pakkuda.
 
