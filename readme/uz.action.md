@@ -171,10 +171,10 @@ Agar Cloudflare sizning ma'lumotlaringizni oshkor qilsa yoki bizning serverlarim
 - Sizga HTTPS sertifikati kerakmi? "Shifrlaylik" dan foydalaning yoki uni CA kompaniyasidan sotib oling.
 
 - Sizga DNS-server kerakmi? O'zingizning serveringizni o'rnatolmaysizmi? Ular haqida: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (TOR dan foydalansangiz, administrator hisobingizni o'chirib tashlaydi)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Xosting xizmatini qidiryapsizmi? Faqat bepulmi? Ular haqida: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare-ga alternativalar](../subfiles/alternative.cloudflare.md)
+  - [Cloudflare-ga alternativalar](../subfiles/alternative/cloudflare.md)
 
 - Siz "cloudflare-ipfs.com" dan foydalanayapsizmi? [Cloudflare IPFS-ning yomonligini bilasizmi?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Shuning uchun biz faqat yuqoridagi jadvalni tavsiya qilamiz. Boshqa hech narsa.
 
 - Agar kerak bo'lsa, ushbu omborga ushbu guruhlarga havola qiling - bu guruhlar bilan birgalikda ishlashni muvofiqlashtirish uchun joy bo'lishi mumkin.
 
-- [Cloudflare-ga korporativ bo'lmagan mazmunli alternativani taqdim etadigan hamkorlikni boshlang.](../subfiles/alternative.cloudflare.md)
+- [Cloudflare-ga korporativ bo'lmagan mazmunli alternativani taqdim etadigan hamkorlikni boshlang.](../subfiles/alternative/cloudflare.md)
 
 - Hech bo'lmaganda Cloudflare-ga qarshi ko'p qatlamli mudofaani ta'minlashga yordam beradigan har qanday alternativalar haqida bizga xabar bering.
 
