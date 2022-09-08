@@ -171,10 +171,10 @@ Ak služba Cloudflare prezradí vaše informácie alebo vám nedovolí pripojiť
 - Potrebujete certifikát HTTPS? Použite príkaz „Let's Encrypt“ alebo ho jednoducho kúpte od spoločnosti CA.
 
 - Potrebujete server DNS? Nemôžete nastaviť svoj vlastný server? A čo oni: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Správca odstráni váš účet, ak používate TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Hľadáte hostingovú službu? Iba zadarmo? A čo oni: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatívy k Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternatívy k Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Používate web „cloudflare-ipfs.com“? [Viete, že Cloudflare IPFS je zlý?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Preto odporúčame iba vyššie uvedenú tabuľku. Nič viac.
 
 - Ak je to vhodné, prepojte tieto skupiny v tomto úložisku - toto môže byť miesto na koordináciu spolupráce v skupinách.
 
-- [Založte podnik, ktorý môže poskytnúť zmysluplnú nefiremnú alternatívu k Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Založte podnik, ktorý môže poskytnúť zmysluplnú nefiremnú alternatívu k Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Dajte nám vedieť o akýchkoľvek alternatívach, ktoré nám pomôžu zabezpečiť aspoň viacvrstvovú obranu proti Cloudflare.
 
