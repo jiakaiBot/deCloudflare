@@ -171,10 +171,10 @@ Uma i-Cloudflare ivuza imininingwane yakho noma ingakuvumeli ukuthi uxhume kumas
 - Udinga isitifiketi se-HTTPS? Sebenzisa "Masibethele" noma vele uyithenge enkampanini ye-CA.
 
 - Udinga iseva ye-DNS? Awukwazi ukusetha iseva yakho? Kanjani ngabo: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Umlawuli susa i-akhawunti yakho uma usebenzisa i-TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Ufuna insizakalo yokubamba? Mahhala kuphela? Kanjani ngabo: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Ezinye izindlela zokusebenzisa i-Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Ezinye izindlela zokusebenzisa i-Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Ingabe usebenzisa i- "cloudflare-ipfs.com"? [Uyazi ukuthi i-Cloudflare IPFS ayilungile?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Ngakho-ke sincoma itafula elingenhla kuphela. Akukho okunye.
 
 - Lapho kufanele khona, xhumanisa nala maqembu akule ndawo yokugcina - lokhu kungaba yindawo yokuxhumanisa ukusebenza ngokubambisana njengamaqembu.
 
-- [Qala ihhoko elinganikeza okunye okunenjongo okungeyona yenkampani ku-Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Qala ihhoko elinganikeza okunye okunenjongo okungeyona yenkampani ku-Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Sazise nganoma iziphi ezinye izindlela zokusiza okungenani ukuhlinzeka ngokuzivikela okungamatshe amaningi ku-Cloudflare.
 
