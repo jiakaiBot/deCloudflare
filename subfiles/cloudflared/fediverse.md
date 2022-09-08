@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,885 |
 | net | 1,666 |
-| social | 1,174 |
-| org | 1,139 |
+| social | 1,175 |
+| org | 1,140 |
 | de | 995 |
 
 
@@ -364,7 +364,7 @@ Here's a list of public Fediverse services.
 | 9mm.nu | No |
 | 9mmtylenol.me | Yes |
 | 9net.org | Yes |
-| 9tail.net | No |
+| 9tail.net | Yes |
 | 9til.de | No |
 | 9uelle.jp | No |
 | a-apple.net | No |
@@ -395,6 +395,7 @@ Here's a list of public Fediverse services.
 | aaoth.xyz | No |
 | aardlark.co | No |
 | aardvarkdreams.com | No |
+| aargaunet.ch | No |
 | aaron.pk | No |
 | aaron.place | No |
 | aaronbsmith.com | No |
@@ -5116,6 +5117,7 @@ Here's a list of public Fediverse services.
 | entropy.fm | No |
 | entropy.tools | No |
 | entropyin.space | No |
+| enum.run | No |
 | envismo.social | No |
 | envs.net | No |
 | enworld.org | No |
@@ -5753,6 +5755,7 @@ Here's a list of public Fediverse services.
 | filik.eu | Yes |
 | filin.news | No |
 | filipesm.com | Yes |
+| filipesm.eu | No |
 | filiuspatris.net | No |
 | filmaidykai.net | Yes |
 | filmfreedom.net | No |
@@ -7107,7 +7110,7 @@ Here's a list of public Fediverse services.
 | guyvernk.com | No |
 | gvcr.ca | No |
 | gwomp.com | No |
-| gwynnestudio.com | No |
+| gwynnestudio.com | Yes |
 | gxc.io | Yes |
 | gyara.moe | Yes |
 | gyhost.icu | No |
@@ -7308,7 +7311,7 @@ Here's a list of public Fediverse services.
 | hatabowyou.club | No |
 | hatawaku.xyz | No |
 | hate-machine.com | No |
-| hate.site | No |
+| hate.site | Yes |
 | hatena.ovh | No |
 | hateotu.de | No |
 | hates.company | No |
@@ -11511,7 +11514,7 @@ Here's a list of public Fediverse services.
 | metasocial.com | No |
 | metaversum.wtf | No |
 | metawurst.space | No |
-| metaxx.dev | Yes |
+| metaxx.dev | No |
 | metaxx.social | Yes |
 | meteo.social | No |
 | meteor.ne.jp | Yes |
@@ -14503,7 +14506,7 @@ Here's a list of public Fediverse services.
 | pixelfed.uno | Yes |
 | pixelfediver.se | No |
 | pixelfett.de | No |
-| pixelfilm.nz | No |
+| pixelfilm.nz | Yes |
 | pixelfred.de | No |
 | pixelgesicht.de | No |
 | pixelho.me | No |
@@ -15642,6 +15645,7 @@ Here's a list of public Fediverse services.
 | restis.de | No |
 | retallack.org.uk | No |
 | retard.network | Yes |
+| retard.tech | Yes |
 | retardcenter.xyz | Yes |
 | retardeddystopia.com | No |
 | reticu.li | No |
@@ -16776,6 +16780,7 @@ Here's a list of public Fediverse services.
 | sindominio.net | No |
 | singee.site | Yes |
 | singersongwritodon.com | No |
+| singing.dog | No |
 | singleuser.club | No |
 | singularity-node.net | No |
 | sinkuu.xyz | No |
@@ -16916,6 +16921,7 @@ Here's a list of public Fediverse services.
 | slownewsdayshow.com | No |
 | slrpnk.net | No |
 | sludge.town | Yes |
+| sludgepool.org | No |
 | sluga.xyz | No |
 | slum.cloud | Yes |
 | slumpedoverkeyboarddead.com | Yes |
@@ -18523,6 +18529,7 @@ Here's a list of public Fediverse services.
 | timeattack.zone | No |
 | timecube.club | No |
 | timespiral.co.jp | No |
+| timetheft.social | No |
 | timg.fr | No |
 | timkrueger.me | No |
 | timmorgner.de | No |
@@ -21083,8 +21090,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,125 |
-| Normal | 16,915 |
+| Cloudflare | 4,129 |
+| Normal | 16,918 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
