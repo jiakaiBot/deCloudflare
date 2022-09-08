@@ -171,10 +171,10 @@ AFAIK, вебсайти сифр ин корро мекунад. Оё шумо �
 - Ба шумо шаҳодатномаи HTTPS лозим аст? "Let's Encrypt" -ро истифода баред ё танҳо онро аз ширкати CA харед.
 
 - Ба шумо сервери DNS лозим аст? Сервери худро насб карда наметавонед? Чӣ тавр онҳо: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Агар шумо TOR -ро истифода баред, администратор ҳисоби худро нест кунед)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Дар ҷустуҷӯи хидмати хостинг ҳастед? Танҳо ройгон? Чӣ тавр онҳо: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Алтернативаҳо ба Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Алтернативаҳо ба Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Оё шумо "cloudflare-ipfs.com" -ро истифода мебаред? [Оё шумо медонед, ки Cloudflare IPFS бад аст?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - Дар ҳолати зарурӣ, ба ин гурӯҳҳо дар ин анбор пайваст шавед - ин метавонад ҷои ҳамоҳангсозии кор бо як гурӯҳ бошад.
 
-- [Коопе, ки метавонад алтернативаи пурмазмуни ғайри корпоративиро ба Cloudflare пешниҳод кунад, оғоз кунед.](../subfiles/alternative.cloudflare.md)
+- [Коопе, ки метавонад алтернативаи пурмазмуни ғайри корпоративиро ба Cloudflare пешниҳод кунад, оғоз кунед.](../subfiles/alternative/cloudflare.md)
 
 - Дар бораи ҳама гуна алтернативаҳо ба мо хабар диҳед, ки ҳадди аққал барои муҳофизати сершумори қабати зидди Cloudflare кӯмак кунанд.
 
