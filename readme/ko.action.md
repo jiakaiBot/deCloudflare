@@ -171,10 +171,10 @@ Cloudflare가 귀하의 정보를 유출하거나 귀하가 당사 서버에 연
 - HTTPS 인증서가 필요합니까? "Let 's Encrypt"를 사용하거나 CA 회사에서 구입하십시오.
 
 - DNS 서버가 필요합니까? 자신의 서버를 설정할 수 없습니까? 그들에 대해: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (TOR를 사용하는 경우 관리자는 계정을 삭제합니다.)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - 호스팅 서비스를 찾고 계십니까? 무료인가요? 그들에 대해: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare의 대안](../subfiles/alternative.cloudflare.md)
+  - [Cloudflare의 대안](../subfiles/alternative/cloudflare.md)
 
 - "cloudflare-ipfs.com"을 사용하고 있습니까? [Cloudflare IPFS가 나쁘다는 것을 알고 있습니까?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - 해당하는 경우이 저장소의 이러한 그룹에 연결합니다.이 곳은 그룹으로 함께 작업하는 장소가 될 수 있습니다.
 
-- [Cloudflare에 대한 의미있는 비 기업 대안을 제공 할 수있는 협력을 시작하십시오.](../subfiles/alternative.cloudflare.md)
+- [Cloudflare에 대한 의미있는 비 기업 대안을 제공 할 수있는 협력을 시작하십시오.](../subfiles/alternative/cloudflare.md)
 
 - Cloudflare에 대한 다중 계층 방어를 제공하는 데 도움이되는 대안이 있으면 알려주십시오.
 
