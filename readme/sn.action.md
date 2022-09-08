@@ -171,10 +171,10 @@ Kana Cloudflare ichiburitsa ruzivo rwako kana isingakuregi iwe ubatanidze kumase
 - Unoda here chitupa cheHTTPS? Shandisa "Ngatisimbisei" kana kuti tenga iyo kubva kuC CA kambani.
 
 - Unoda DNS server? Haugone kumisikidza yako wega server? Zvakadii navo: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin dzima account yako kana ukashandisa TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Kutsvaga yekutambira sevhisi? Kusununguka chete? Zvakadii navo: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Dzimwe nzira kuCloudflare](../subfiles/alternative.cloudflare.md)
+  - [Dzimwe nzira kuCloudflare](../subfiles/alternative/cloudflare.md)
 
 - Uri kushandisa "cloudflare-ipfs.com"? [Unoziva here Cloudflare IPFS yakaipa?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Naizvozvo tinokurudzira pamusoro petafura chete. Hapana chimwe.
 
 - Pazvinenge zvakakodzera, batanidza nemapoka aya pane ino yekuchengetera - ino inogona kuve nzvimbo yekubatanidza kushanda pamwe chete semapoka.
 
-- [Kutanga coop iyo inogona kupa zvine musoro zvisiri zvemubatanidzwa imwe nzira kuCloudflare.](../subfiles/alternative.cloudflare.md)
+- [Kutanga coop iyo inogona kupa zvine musoro zvisiri zvemubatanidzwa imwe nzira kuCloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Ngatizivisei nezvenzira dzipi nedzipi dzekubatsira zvirinani kupa yakadzivirirwa yakatarisana neCloudflare.
 
