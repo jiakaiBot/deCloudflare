@@ -171,10 +171,10 @@ Si Cloudflare koule enfòmasyon ou oswa ou pa pral kite ou konekte ak serveurs n
 - Èske ou bezwen sètifika HTTPS? Sèvi ak "Ann chifreman" oswa jis achte li nan men konpayi CA.
 
 - Èske ou bezwen sèvè dns? Pa ka mete kanpe sèvè pwòp ou a? Kouman sou yo: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin efase kont ou si ou itilize TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Kap chèche sèvis hosting? Gratis sèlman? Kouman sou yo: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Altènativ a Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Altènativ a Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Èske w ap itilize "cloudflare-ipfs.com"? [Èske w konnen Cloudflare IPFS pa bon?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Se poutèt sa nou rekòmande anwo tab la sèlman. Anyen ankò.
 
 - Kote sa apwopriye, ap mennen nan gwoup sa yo sou repozitwa sa a - sa kapab yon kote pou kowòdone k ap travay ansanm kòm gwoup.
 
-- [Kòmanse yon poulaye ki ka bay yon altènatif siyifikatif ki pa antrepriz Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Kòmanse yon poulaye ki ka bay yon altènatif siyifikatif ki pa antrepriz Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Fè nou konnen nenpòt ki altènativ pou ede omwen bay plizyè defans kouch kont Cloudflare.
 
