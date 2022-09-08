@@ -171,10 +171,10 @@ Ma leigeas Cloudflare am fiosrachadh agad a-mach no nach leig e leat ceangal ris
 - A bheil feum agad air teisteanas HTTPS? Cleachd "Let's Encrypt" no dìreach ceannaich e bho chompanaidh CA.
 
 - A bheil feum agad air frithealaiche DNS? Nach urrainn dhut an frithealaiche agad fhèin a stèidheachadh? Dè mun deidhinn: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Sguab às do chunntas ma chleachdas tu TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - A 'coimhead airson seirbheis aoigheachd? An-asgaidh a-mhàin? Dè mun deidhinn: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Roghainnean eile an àite Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Roghainnean eile an àite Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - A bheil thu a ’cleachdadh“ cloudflare-ipfs.com ”? [A bheil fios agad gu bheil Cloudflare IPFS dona?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Mar sin tha sinn a ’moladh gu h-àrd clàr a-mhàin. Chan eil dad eile.
 
 - Far a bheil e iomchaidh, ceangail ris na buidhnean sin air an stòr seo - faodaidh seo a bhith na àite airson a bhith ag obair còmhla mar bhuidhnean.
 
-- [Tòisich coop a bheir seachad roghainn brìoghmhor neo-chorporra an àite Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Tòisich coop a bheir seachad roghainn brìoghmhor neo-chorporra an àite Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Leig fios thugainn mu roghainnean sam bith eile gus cuideachadh le bhith a ’toirt seachad iomadh dìon ioma-thaobhach an aghaidh Cloudflare.
 
