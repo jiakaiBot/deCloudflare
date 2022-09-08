@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-09-08: [Cloudflare mobile redirects](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/94cr0mflgdwr)
 - 2022-09-08: [1.1.1.3 Gateway Misclassification](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6kgvxy0pqlc1)
 - 2022-09-08: [Issues with 1.1.1.1 public resolver in some locations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yrm339fg8ntz)
 - 2022-09-07: [Network connectivity and elevated 52X issues in London, United Kingdom](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zx60nj0wl2lx)
