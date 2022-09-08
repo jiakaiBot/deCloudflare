@@ -171,10 +171,10 @@ Nếu Cloudflare làm rò rỉ thông tin của bạn hoặc không cho phép b�
 - Bạn có cần chứng chỉ HTTPS không? Sử dụng "Let's Encrypt" hoặc chỉ cần mua nó từ công ty CA.
 
 - Bạn có cần máy chủ DNS không? Không thể thiết lập máy chủ của riêng bạn? Còn họ thì sao: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Quản trị viên xóa tài khoản của bạn nếu bạn sử dụng TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Tìm kiếm dịch vụ lưu trữ? Chỉ miễn phí? Còn họ thì sao: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Các lựa chọn thay thế cho Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Các lựa chọn thay thế cho Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Bạn có đang sử dụng "cloudflare-ipfs.com" không? [Bạn có biết Cloudflare IPFS là xấu?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Do đó, chúng tôi chỉ đề xuất bảng trên. Không có gì khác.
 
 - Nếu thích hợp, hãy liên kết với các nhóm này trên kho lưu trữ này - đây có thể là nơi để phối hợp làm việc cùng nhau như các nhóm.
 
-- [Bắt đầu một chuồng có thể cung cấp một giải pháp thay thế có ý nghĩa cho Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Bắt đầu một chuồng có thể cung cấp một giải pháp thay thế có ý nghĩa cho Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Hãy cho chúng tôi biết về bất kỳ giải pháp thay thế nào để giúp ít nhất cung cấp khả năng bảo vệ nhiều lớp chống lại Cloudflare.
 
