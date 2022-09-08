@@ -171,10 +171,10 @@ Cloudflare သည်သင်၏သတင်းအချက်အလက်မျ
 - HTTPS အသိအမှတ်ပြုလက်မှတ်လိုအပ်ပါသလား။ "Let's Encrypt" ကိုသုံးပါသို့မဟုတ် CA ကုမ္ပဏီမှဝယ်ပါ။
 
 - DNS server လိုအပ်ပါသလား သင်၏ကိုယ်ပိုင်ဆာဗာကိုတပ်ဆင်။ မရပါ။ သူတို့ကော: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (အကယ်၍ သင် TOR ကိုအသုံးပြုပါကသင့်အကောင့်အားအုပ်ချုပ်သူမှဖျက်ပစ်ပါ)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - ဝန်ဆောင်မှုကိုရှာဖွေနေပါသလား။ အခမဲ့လား။ သူတို့ကော: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare မှအခြားရွေးချယ်စရာများ](../subfiles/alternative.cloudflare.md)
+  - [Cloudflare မှအခြားရွေးချယ်စရာများ](../subfiles/alternative/cloudflare.md)
 
 - သင် "cloudflare-ipfs.com" ကိုအသုံးပြုနေပါသလား။ [Cloudflare IPFS မကောင်းဘူးဆိုတာသိလား။](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - သင့်လျော်သည့်နေရာတွင်ဤ repository ရှိဤအုပ်စုများနှင့်ချိတ်ဆက်ပါ။ ၎င်းသည်အုပ်စုများအနေဖြင့်အတူတကွလုပ်ဆောင်ရန်ညှိနှိုင်းရန်နေရာဖြစ်နိုင်သည်။
 
-- [Cloudflare အတွက်အဓိပ္ပာယ်ပြည့်ဝသောကော်ပိုရေးရှင်းမဟုတ်သောအခြားရွေးချယ်စရာတစ်ခုပေးနိုင်သည့် coop တစ်ခုကိုစတင်ပါ။](../subfiles/alternative.cloudflare.md)
+- [Cloudflare အတွက်အဓိပ္ပာယ်ပြည့်ဝသောကော်ပိုရေးရှင်းမဟုတ်သောအခြားရွေးချယ်စရာတစ်ခုပေးနိုင်သည့် coop တစ်ခုကိုစတင်ပါ။](../subfiles/alternative/cloudflare.md)
 
 - အနည်းဆုံး Cloudflare ကိုကာကွယ်ရန်အလွှာခုခံကာကွယ်မှုများကိုကူညီရန်မည်သည့်အခြားနည်းလမ်းကိုမဆိုကျွန်ုပ်တို့အားအသိပေးပါ။
 
