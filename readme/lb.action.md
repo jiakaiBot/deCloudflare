@@ -171,10 +171,10 @@ Wann Cloudflare Är Informatioun leckt oder Iech net erlaabt Iech mat eise Serve
 - Braucht Dir HTTPS Zertifika? Benotzt "Let's Encrypt" oder kaaft et just vun der CA Firma.
 
 - Braucht Dir DNS Server? Kann net Ären eegene Server opbauen? Wéi wier et mat hinnen: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin läscht Äre Kont wann Dir TOR benotzt)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Dir sicht Hosting Service? Nëmme gratis? Wéi wier et mat hinnen: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternativen zu Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternativen zu Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Benotzt Dir "cloudflare-ipfs.com"? [Wësst Dir Cloudflare IPFS ass schlecht?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Dofir recommandéiere mir nëmmen uewen Dësch. Näischt anescht.
 
 - Wou passend, Link op dës Gruppen op dësem Repository - dëst kann eng Plaz sinn fir ze koordinéieren, als Gruppen zesummen ze schaffen.
 
-- [Start e Coop dat eng sënnvoll net korporativ Alternativ zu Cloudflare kann ubidden.](../subfiles/alternative.cloudflare.md)
+- [Start e Coop dat eng sënnvoll net korporativ Alternativ zu Cloudflare kann ubidden.](../subfiles/alternative/cloudflare.md)
 
 - Loosst eis vun all Alternativen wëssen fir op d'mannst ze hëllefen e puer Schicht Verteidegung géint Cloudflare ze bidden.
 
