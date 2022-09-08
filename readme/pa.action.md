@@ -171,10 +171,10 @@ http://crimeflare.eu.org
 - ਕੀ ਤੁਹਾਨੂੰ HTTPS ਸਰਟੀਫਿਕੇਟ ਚਾਹੀਦਾ ਹੈ? "ਚਲੋ ਐਨਕ੍ਰਿਪਟ" ਦੀ ਵਰਤੋਂ ਕਰੋ ਜਾਂ ਇਸਨੂੰ CA ਕੰਪਨੀ ਤੋਂ ਖਰੀਦੋ.
 
 - ਕੀ ਤੁਹਾਨੂੰ DNS ਸਰਵਰ ਚਾਹੀਦਾ ਹੈ? ਕੀ ਤੁਸੀਂ ਆਪਣਾ ਸਰਵਰ ਸੈਟ ਅਪ ਨਹੀਂ ਕਰ ਸਕਦੇ? ਉਨ੍ਹਾਂ ਬਾਰੇ ਕਿਵੇਂ: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (ਜੇ ਤੁਸੀਂ ਟੀ.ਓ.ਆਰ. ਦੀ ਵਰਤੋਂ ਕਰਦੇ ਹੋ ਤਾਂ ਪ੍ਰਬੰਧਨ ਆਪਣਾ ਖਾਤਾ ਮਿਟਾ ਦੇਵੇਗਾ)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - ਹੋਸਟਿੰਗ ਸੇਵਾ ਦੀ ਭਾਲ ਕਰ ਰਹੇ ਹੋ? ਸਿਰਫ ਮੁਫਤ? ਉਨ੍ਹਾਂ ਬਾਰੇ ਕਿਵੇਂ: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [ਕਲਾਉਡਫਲੇਅਰ ਦੇ ਬਦਲ](../subfiles/alternative.cloudflare.md)
+  - [ਕਲਾਉਡਫਲੇਅਰ ਦੇ ਬਦਲ](../subfiles/alternative/cloudflare.md)
 
 - ਕੀ ਤੁਸੀਂ "ਕਲਾਉਡਫਲੇਅਰ-ipfs.com" ਵਰਤ ਰਹੇ ਹੋ? [ਕੀ ਤੁਸੀਂ ਜਾਣਦੇ ਹੋ ਕਲਾਉਡਫਲੇਅਰ ਆਈਪੀਐਫਐਸ ਮਾੜਾ ਹੈ?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - ਜਿਥੇ ਵੀ appropriateੁਕਵਾਂ ਹੋਵੇ, ਇਸ ਸਮੂਹਾਂ ਨੂੰ ਇਸ ਰਿਪੋਜ਼ਟਰੀ ਤੇ ਲਿੰਕ ਕਰੋ - ਇਹ ਸਮੂਹਾਂ ਦੇ ਰੂਪ ਵਿੱਚ ਮਿਲ ਕੇ ਕੰਮ ਕਰਨ ਦੇ ਤਾਲਮੇਲ ਲਈ ਇੱਕ ਜਗ੍ਹਾ ਹੋ ਸਕਦੀ ਹੈ.
 
-- [ਇਕ ਕੋਪ ਸ਼ੁਰੂ ਕਰੋ ਜੋ ਕਲਾਉਡਫਲੇਅਰ ਦਾ ਇਕ ਸਾਰਥਕ ਗੈਰ-ਕਾਰਪੋਰੇਟ ਵਿਕਲਪ ਪ੍ਰਦਾਨ ਕਰ ਸਕੇ.](../subfiles/alternative.cloudflare.md)
+- [ਇਕ ਕੋਪ ਸ਼ੁਰੂ ਕਰੋ ਜੋ ਕਲਾਉਡਫਲੇਅਰ ਦਾ ਇਕ ਸਾਰਥਕ ਗੈਰ-ਕਾਰਪੋਰੇਟ ਵਿਕਲਪ ਪ੍ਰਦਾਨ ਕਰ ਸਕੇ.](../subfiles/alternative/cloudflare.md)
 
 - ਚਲੋ ਕਲਾਉਡਫਲੇਅਰ ਦੇ ਵਿਰੁੱਧ ਘੱਟੋ-ਘੱਟ ਮਲਟੀਪਲ ਪੱਧਰੀ ਰੱਖਿਆ ਪ੍ਰਦਾਨ ਕਰਨ ਵਿੱਚ ਸਹਾਇਤਾ ਲਈ ਕਿਸੇ ਵਿਕਲਪ ਬਾਰੇ ਸਾਨੂੰ ਦੱਸੋ.
 
