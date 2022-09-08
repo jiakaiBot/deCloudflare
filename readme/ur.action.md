@@ -171,10 +171,10 @@ AFAIK ، صفر ویب سائٹ یہ کام کرتی ہے۔ کیا آپ ان پ�
 - کیا آپ کو HTTPS سرٹیفکیٹ کی ضرورت ہے؟ "آئیے انکرپٹ" استعمال کریں یا اسے سی اے کمپنی سے خریدیں۔
 
 - کیا آپ کو DNS سرور درکار ہے؟ اپنا سرور ترتیب دے نہیں سکتے؟ ان کے بارے میں کیا: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (اگر آپ ٹی او آر استعمال کرتے ہیں تو ایڈمن اپنا اکاؤنٹ حذف کردیں)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - ہوسٹنگ سروس کی تلاش ہے؟ صرف مفت؟ ان کے بارے میں کیا: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [کلاؤڈ فلایر کے متبادل](../subfiles/alternative.cloudflare.md)
+  - [کلاؤڈ فلایر کے متبادل](../subfiles/alternative/cloudflare.md)
 
 - کیا آپ "کلاؤڈ فلائر-ipfs.com" استعمال کر رہے ہیں؟ [کیا آپ جانتے ہیں کہ کلاؤڈ فلایر آئی پی ایف ایس برا ہے؟](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - جہاں مناسب ہو ، ان ذخیروں پر ان گروپس کو لنک کریں - یہ گروپ کے طور پر مل کر کام کرنے میں ہم آہنگی کے ل. ایک جگہ ہوسکتا ہے۔
 
-- [کوئی کوپ شروع کریں جو کلاؤڈ فلایر کا ایک بامقصد غیر کارپوریٹ متبادل مہی .ا کرسکے۔](../subfiles/alternative.cloudflare.md)
+- [کوئی کوپ شروع کریں جو کلاؤڈ فلایر کا ایک بامقصد غیر کارپوریٹ متبادل مہی .ا کرسکے۔](../subfiles/alternative/cloudflare.md)
 
 - ہمیں کم از کم کلاؤڈ فلایر کے خلاف متعدد پرتوں سے دفاع فراہم کرنے میں مدد کے لs کسی متبادل کے بارے میں بتائیں۔
 
