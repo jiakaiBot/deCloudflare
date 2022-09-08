@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,885 |
+| com | 2,886 |
 | net | 1,666 |
 | social | 1,175 |
 | org | 1,140 |
@@ -1895,6 +1895,7 @@ Here's a list of public Fediverse services.
 | bicyclemstdn.jp | No |
 | bida.im | No |
 | bidule.app | No |
+| biendeo.com | No |
 | bierschutzpartei.de | No |
 | bierzilla.fr | No |
 | big.mt | Yes |
@@ -14090,6 +14091,7 @@ Here's a list of public Fediverse services.
 | passageenseine.fr | No |
 | passionsofaman.com | No |
 | pasta.ga | No |
+| pasta.wtf | Yes |
 | pasteq.fr | Yes |
 | pastix.fr | No |
 | pastleo.me | Yes |
@@ -15339,7 +15341,7 @@ Here's a list of public Fediverse services.
 | ragavan.co | No |
 | rage.lol | Yes |
 | rage.love | No |
-| rageparty.club | No |
+| rageparty.club | Yes |
 | raggedfeathers.com | No |
 | raghavgururajan.ch | No |
 | raghavgururajan.name | No |
@@ -21092,7 +21094,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,130 |
+| Cloudflare | 4,132 |
 | Normal | 16,919 |
 
 
