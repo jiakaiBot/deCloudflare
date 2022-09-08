@@ -171,10 +171,10 @@ AFAIK, נול וועבזייטל טאָן דאָס. וועט איר צוטרוי
 - צי איר דאַרפֿן הטטפּס באַווייַזן? ניצן "זאל ס ענקריפּט" אָדער נאָר קויפן עס פון CA פירמע.
 
 - צי איר דאַרפֿן דנס סערווער? קענען ניט שטעלן דיין אייגענע סערווער? ווי וועגן זיי: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (אַדמיניסטראַטאָר ויסמעקן דיין חשבון אויב איר נוצן TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - איר זוכט פֿאַר האָסטינג דינסט? פריי נאָר? ווי וועגן זיי: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [אַלטערנאַטיוועס צו קלאָודפלאַרע](../subfiles/alternative.cloudflare.md)
+  - [אַלטערנאַטיוועס צו קלאָודפלאַרע](../subfiles/alternative/cloudflare.md)
 
 - זענט איר ניצן "cloudflare-ipfs.com"? [צי איר וויסן CloudFlare IPFS איז שלעכט?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - וווּ צונעמען, לינק צו די גרופּעס אויף דעם ריפּאַזאַטאָרי - דאָס קען זיין אַ פּלאַץ פֿאַר קאָואָרדאַנייטינג ארבעטן צוזאַמען ווי גרופּעס.
 
-- [אָנהייבן אַ קאָאָפּ וואָס קענען צושטעלן אַ מינינגפאַל אָלטערנאַטיוו אָלטערנאַטיוו צו Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [אָנהייבן אַ קאָאָפּ וואָס קענען צושטעלן אַ מינינגפאַל אָלטערנאַטיוו אָלטערנאַטיוו צו Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - לאָזן אונדז וויסן וועגן קיין אַלטערנאַטיוועס צו העלפֿן לפּחות צושטעלן קייפל לייערד פאַרטיידיקונג קעגן קלאָודפלאַרע.
 
