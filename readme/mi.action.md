@@ -171,10 +171,10 @@ Mena ka tukuna e Cloudflare o korero ki a koe, kaore koe e tuku i a koe ki te ho
 - Kei te hiahia tiwhikete HTTPS koe? Whakamahia te "Kia Whakamuna" ka hokona noa mai i te kamupene CA.
 
 - Kei te hiahia koe i te kaituku DNS? Kaore e taea te whakarite i to ake kaituku? Me pehea ratou: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Whakahaerehia to kaute ki te whakamahi i te TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Kei te rapu koe mo te ratonga manaaki? Koreutu anake? Me pehea ratou: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [He rereke ki Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [He rereke ki Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Kei te whakamahi koe i te "cloudflare-ipfs.com"? [Kei te mohio koe he kino te Cloudflare IPFS?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Na reira ka taunakihia e matou i runga ake nei te teepu. Kaore he mea ke atu.
 
 - Ka tika ana, hono atu ki enei roopu kei runga i tenei putunga - ka waiho hei waahi mo te mahi tahi hei roopu.
 
-- [Me tiimata te kookiri ka taea te whakaputa i tetahi rereke rereke kaore i te umanga ki Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Me tiimata te kookiri ka taea te whakaputa i tetahi rereke rereke kaore i te umanga ki Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Kia mohio taatau ki etahi waahanga rereke hei awhina i te waahanga nui mo te Cloudflare.
 
