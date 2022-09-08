@@ -454,6 +454,7 @@ Do not create new issue or we will close it as duplicate.
 | [AliN2103695113@twitter](https://twitter.com/AliN2103695113/status/1402345722310180867) | advertise |
 | [Aliphent1@twitter](https://twitter.com/Aliphent1/status/1390970393012445188) | advertise |
 | [Alireza47491461@twitter](https://twitter.com/Alireza47491461/status/1384770721897984000) | advertise |
+| [alirezasalahi10@twitter](https://twitter.com/alirezasalahi10/status/1567979767273762817) | advertise |
 | [Alireza_mgm@twitter](https://twitter.com/Alireza_mgm/status/1378312020651618304) | advertise |
 | [alishaimrankhan@twitter](https://twitter.com/alishaimrankhan/status/1402248745991884806) | advertise |
 | [alishanca@twitter](https://twitter.com/alishanca/status/1533557059018440705) | advertise |
@@ -9446,6 +9447,7 @@ Do not create new issue or we will close it as duplicate.
 | [vuzakamaki@twitter](https://twitter.com/vuzakamaki/status/1398091363682455555) | advertise |
 | [vu_hoang0402@twitter](https://twitter.com/vu_hoang0402/status/1385034905701085188) | advertise |
 | [Vv2072000@twitter](https://twitter.com/Vv2072000/status/1485861824717230083) | advertise |
+| [vvhieu34@twitter](https://twitter.com/vvhieu34/status/1567982342584803328) | advertise |
 | [vxunc9@twitter](https://twitter.com/vxunc9/status/1384036046799736832) | advertise |
 | [vysecurity@twitter](https://twitter.com/vysecurity/status/1525362451516370944) | advertise |
 | [vZHh3za8DnpsEuZ@twitter](https://twitter.com/vZHh3za8DnpsEuZ/status/1394326959975407619) | advertise |
