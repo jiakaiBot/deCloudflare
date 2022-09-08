@@ -171,10 +171,10 @@ AFAIK, нулявы сайт робіць гэта. Ці будзеце вы і�
 - Вам патрэбны сертыфікат HTTPS? Выкарыстоўвайце "Давайце шыфраваць" альбо проста купіце яго ў кампаніі CA.
 
 - Вам патрэбен DNS-сервер? Не можаце наладзіць уласны сервер? Як наконт іх: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Адміністратар выдаляе ваш уліковы запіс, калі вы выкарыстоўваеце TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Шукаеце паслугу хостынгу? Толькі бясплатна? Як наконт іх: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Альтэрнатывы Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Альтэрнатывы Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Вы карыстаецеся "cloudflare-ipfs.com"? [Ці ведаеце вы, што Cloudflare IPFS дрэнны?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - Там, дзе гэта дарэчы, спасылка на гэтыя групы ў гэтым сховішчы - гэта можа быць месца для каардынацыі сумеснай працы ў якасці груп.
 
-- [Завядзіце кааператыў, які можа даць важную некамерцыйную альтэрнатыву Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Завядзіце кааператыў, які можа даць важную некамерцыйную альтэрнатыву Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Дайце нам ведаць любыя альтэрнатывы, якія дапамогуць хаця б забяспечыць шматслаёвую абарону ад Cloudflare.
 
