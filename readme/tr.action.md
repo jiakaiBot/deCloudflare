@@ -171,10 +171,10 @@ Cloudflare bilgilerinizi sızdırırsa veya sunucularımıza bağlanmanıza izin
 - HTTPS sertifikasına ihtiyacınız var mı? "Let's Encrypt" kullanın veya CA şirketinden satın alın.
 
 - DNS sunucusuna ihtiyacınız var mı? Kendi sunucunuzu kuramıyor musunuz? Peki ya onlar: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (TOR kullanıyorsanız yönetici hesabınızı silin)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Barındırma hizmeti mi arıyorsunuz? Sadece ücretsiz mi? Peki ya onlar: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare için alternatifler](../subfiles/alternative.cloudflare.md)
+  - [Cloudflare için alternatifler](../subfiles/alternative/cloudflare.md)
 
 - "Cloudflare-ipfs.com" kullanıyor musunuz? [Cloudflare IPFS'nin kötü olduğunu biliyor musunuz?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Bu nedenle, yalnızca yukarıdaki tabloyu öneriyoruz. Başka hiçbir şey.
 
 - Uygun olduğu durumlarda, bu arşivdeki bu gruplara bağlantı verin - burası, gruplar halinde birlikte çalışmayı koordine etmek için bir yer olabilir.
 
-- [Cloudflare'ye kurumsal olmayan anlamlı bir alternatif sağlayabilecek bir kooperatif kurun.](../subfiles/alternative.cloudflare.md)
+- [Cloudflare'ye kurumsal olmayan anlamlı bir alternatif sağlayabilecek bir kooperatif kurun.](../subfiles/alternative/cloudflare.md)
 
 - En azından Cloudflare'ye karşı çok katmanlı savunma sağlamaya yardımcı olacak alternatifleri bize bildirin.
 
