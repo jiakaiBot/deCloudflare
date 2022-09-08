@@ -10153,6 +10153,7 @@ Do not create new issue or we will close it as duplicate.
 | [_awexx@twitter](https://twitter.com/_awexx/status/1390211288136040448) | advertise |
 | [_baby_metal@twitter](https://twitter.com/_baby_metal/status/1555345493915758592) | advertise |
 | [_bamin@twitter](https://twitter.com/_bamin/status/1502677212537159682) | advertise |
+| [_Blondak_@twitter](https://twitter.com/_Blondak_/status/1567931229911105538) | advertise |
 | [_CyberMaster@twitter](https://twitter.com/_CyberMaster/status/1555502381504368641) | advertise |
 | [_DepvaOTP_@twitter](https://twitter.com/_DepvaOTP_/status/1399004303788888067) | advertise |
 | [_htet1@twitter](https://twitter.com/_htet1/status/1390121428360433672) | advertise |
