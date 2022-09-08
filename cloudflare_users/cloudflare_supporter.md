@@ -321,6 +321,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ahmadking5111@twitter](https://twitter.com/Ahmadking5111/status/1400390503879880705) | advertise |
 | [ahmadm_abubakar@twitter](https://twitter.com/ahmadm_abubakar/status/1539668272060432384) | advertise |
 | [AhmadSair14@twitter](https://twitter.com/AhmadSair14/status/1559007732321390592) | advertise |
+| [AhmadSh05216110@twitter](https://twitter.com/AhmadSh05216110/status/1567946014060945408) | advertise |
 | [AHMADSHAMSULAZ1@twitter](https://twitter.com/AHMADSHAMSULAZ1/status/1497963741874319360) | advertise |
 | [ahmad_antezar@twitter](https://twitter.com/ahmad_antezar/status/1532609013854109696) | advertise |
 | [ahmdh4474@twitter](https://twitter.com/ahmdh4474/status/1390763076660736001) | advertise |
