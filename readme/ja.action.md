@@ -171,10 +171,10 @@ Cloudflareがあなたの情報を漏らしたり、あなたが私たちのサ�
 - HTTPS証明書が必要ですか？ 「Let'sEncrypt」を使用するか、CA会社から購入してください。
 
 - DNSサーバーが必要ですか？ 独自のサーバーをセットアップできませんか？ それらはどうですか: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (TORを使用している場合、管理者はアカウントを削除します)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - ホスティングサービスをお探しですか？ 無料のみ？ それらはどうですか: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflareの代替](../subfiles/alternative.cloudflare.md)
+  - [Cloudflareの代替](../subfiles/alternative/cloudflare.md)
 
 - 「cloudflare-ipfs.com」を使用していますか？ [Cloudflare IPFSが悪いことを知っていますか？](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - 必要に応じて、このリポジトリ上のこれらのグループにリンクします。これは、グループとして一緒に作業することを調整するための場所になります。
 
-- [Cloudflareの意味のある非企業の代替手段を提供できる協同組合を開始します。](../subfiles/alternative.cloudflare.md)
+- [Cloudflareの意味のある非企業の代替手段を提供できる協同組合を開始します。](../subfiles/alternative/cloudflare.md)
 
 - 少なくともCloudflareに対して多層防御を提供するのに役立つ代替案を教えてください。
 
