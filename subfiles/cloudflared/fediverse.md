@@ -3656,6 +3656,7 @@ Here's a list of public Fediverse services.
 | currentpllc.com | No |
 | currydon.com | No |
 | cursed-images.xyz | Yes |
+| cursed.observer | No |
 | cursed.technology | Yes |
 | curta.cc | No |
 | curta.red | No |
@@ -20189,6 +20190,7 @@ Here's a list of public Fediverse services.
 | wingartz.de | No |
 | wingi.net | No |
 | winklerfamilie.eu | No |
+| winnick.cloud | Yes |
 | winninger.me | No |
 | winter.ink | No |
 | winterrific.cloud | No |
@@ -21090,8 +21092,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,129 |
-| Normal | 16,918 |
+| Cloudflare | 4,130 |
+| Normal | 16,919 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
