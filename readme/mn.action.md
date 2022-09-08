@@ -171,10 +171,10 @@ AFAIK, тэг вэбсайт үүнийг хийдэг. Та тэдэнд итг
 - Танд HTTPS гэрчилгээ хэрэгтэй юу? "Let's Encrypt" ашиглаарай эсвэл CA компанид худалдаж аваарай.
 
 - Танд DNS сервер хэрэгтэй юу? Өөрийн серверийг тохируулж чадахгүй байна уу? Тэдний талаар: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Хэрэв та TOR ашигладаг бол админ таны акаунтыг устгана уу)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Хостинг үйлчилгээ хайж байна уу? Зөвхөн үнэгүй юу? Тэдний талаар: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare-ийн өөр хувилбарууд](../subfiles/alternative.cloudflare.md)
+  - [Cloudflare-ийн өөр хувилбарууд](../subfiles/alternative/cloudflare.md)
 
 - Та "cloudflare-ipfs.com" ашиглаж байна уу? [Cloudflare IPFS нь муу гэдгийг та мэдэх үү?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - Тохиромжтой бол эдгээр репозиторийн бүлгүүдтэй холбоорой.Энэ нь бүлэг болж ажиллах ажлыг зохицуулах газар байж болно.
 
-- [Cloudflare-ийн хувьд корпорацийн бус утга учиртай хувилбараар хангах боломжтой хамтын ажиллагааг эхлүүлээрэй.](../subfiles/alternative.cloudflare.md)
+- [Cloudflare-ийн хувьд корпорацийн бус утга учиртай хувилбараар хангах боломжтой хамтын ажиллагааг эхлүүлээрэй.](../subfiles/alternative/cloudflare.md)
 
 - Cloudflare-ээс дор хаяж олон давхар хамгаалалт хийхэд туслах өөр хувилбаруудын талаар бидэнд мэдэгдээрэй.
 
