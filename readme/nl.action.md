@@ -171,10 +171,10 @@ Als Cloudflare uw informatie lekt of u geen verbinding met onze servers laat mak
 - Heeft u een HTTPS-certificaat nodig? Gebruik "Let's Encrypt" of koop het gewoon bij een CA-bedrijf.
 
 - Heeft u een DNS-server nodig? Kunt u uw eigen server niet opzetten? Hoe zit het met hen: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Beheerder verwijder uw account als u TOR gebruikt)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Op zoek naar een hostingservice? Alleen gratis? Hoe zit het met hen: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatieven voor Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternatieven voor Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Gebruikt u "cloudflare-ipfs.com"? [Weet je dat Cloudflare IPFS slecht is?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Daarom raden we alleen bovenstaande tabel aan. Niks anders.
 
 - Maak eventueel een link naar deze groepen op deze repository - dit kan een plek zijn om het samenwerken als groep te coördineren.
 
-- [Start een coop die een zinvol niet-zakelijk alternatief voor Cloudflare kan bieden.](../subfiles/alternative.cloudflare.md)
+- [Start een coop die een zinvol niet-zakelijk alternatief voor Cloudflare kan bieden.](../subfiles/alternative/cloudflare.md)
 
 - Laat ons weten welke alternatieven er zijn om op zijn minst een meerlaagse verdediging tegen Cloudflare te bieden.
 
