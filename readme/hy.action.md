@@ -171,10 +171,10 @@ AFAIK, զրո կայք դա անում է: Կվստահե՞ք նրանց:
 - Ձեզ հարկավո՞ր է HTTPS սերտիֆիկատ: Օգտագործեք «Եկեք գաղտնագրենք» կամ պարզապես գնեք այն CA ընկերությունից:
 
 - Ձեզ հարկավոր է DNS սերվեր: Չե՞ք կարող կարգավորել ձեր սեփական սերվերը: Ինչ վերաբերում է նրանց: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Ադմինիստրատորը ջնջում է ձեր հաշիվը, եթե օգտագործում եք TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Փնտրու՞մ եք հոստինգի ծառայություն: Միայն անվճար Ինչ վերաբերում է նրանց: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare- ի այլընտրանքներ](../subfiles/alternative.cloudflare.md)
+  - [Cloudflare- ի այլընտրանքներ](../subfiles/alternative/cloudflare.md)
 
 - Դուք օգտագործում եք «cloudflare-ipfs.com»: [Գիտե՞ք Cloudflare IPFS- ը վատն է:](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - Անհրաժեշտության դեպքում հղումը դեպի այս պահեստի այս խմբերը. Սա կարող է լինել մի տեղ ՝ որպես խմբեր համատեղ աշխատանքը համակարգելու համար:
 
-- [Սկսեք համագործակցություն, որը կարող է Cloudflare- ին նշանակալից ոչ կորպորատիվ այլընտրանք ապահովել:](../subfiles/alternative.cloudflare.md)
+- [Սկսեք համագործակցություն, որը կարող է Cloudflare- ին նշանակալից ոչ կորպորատիվ այլընտրանք ապահովել:](../subfiles/alternative/cloudflare.md)
 
 - Տեղեկացրեք մեզ ցանկացած այլընտրանքների մասին, որոնք կօգնեն առնվազն ապահովել Cloudflare- ի դեմ բազմաշերտ պաշտպանություն:
 
