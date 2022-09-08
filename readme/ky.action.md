@@ -171,10 +171,10 @@ AFAIK, нөлдүк веб-сайт муну жасайт. Аларга ишен
 - Сизге HTTPS сертификаты керекпи? "Келгиле, Шифрлөөнү" колдонуңуз же жөн гана CA компаниясынан сатып алыңыз.
 
 - Сизге DNS сервери керекпи? Өзүңүздүн серверди орното албай жатасызбы? Алар жөнүндө эмне айтууга болот?: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (TOR колдонсоңуз, администратор сиздин каттоо эсебиңизди жок кылат)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Хостинг кызматын издеп жатасызбы? Акысыз гана? Алар жөнүндө эмне айтууга болот?: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare альтернатива](../subfiles/alternative.cloudflare.md)
+  - [Cloudflare альтернатива](../subfiles/alternative/cloudflare.md)
 
 - Сиз "cloudflare-ipfs.com" колдонуп жатасызбы? [Cloudflare IPFSдин жаман экендигин билесизби?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - Керек болсо, ушул репозиторийдеги ушул топторго шилтеме берсеңиз болот - бул топ катары биргелешип иштөөнү координациялоочу жай болушу мүмкүн.
 
-- [Cloudflare үчүн корпоративдик эмес альтернативдүү альтернатива сунуш кыла турган кызматташууну баштаңыз.](../subfiles/alternative.cloudflare.md)
+- [Cloudflare үчүн корпоративдик эмес альтернативдүү альтернатива сунуш кыла турган кызматташууну баштаңыз.](../subfiles/alternative/cloudflare.md)
 
 - Жок дегенде Cloudflareге каршы бир нече катмарлуу коргонууну камсыз кылууга жардам берүүчү альтернатива жөнүндө кабарлаңыз.
 
