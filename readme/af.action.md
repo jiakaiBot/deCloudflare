@@ -171,10 +171,10 @@ As Cloudflare u inligting lek of u nie toelaat om met ons bedieners te verbind n
 - Het u 'n HTTPS-sertifikaat nodig? Gebruik "Let's Encrypt" of koop dit net by die CA-maatskappy.
 
 - Het u 'n DNS-bediener nodig? Kan u nie u eie bediener opstel nie? Hoe gaan dit met hulle?: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin verwyder u rekening as u TOR gebruik)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Op soek na hosting diens? Slegs gratis? Hoe gaan dit met hulle?: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatiewe vir Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternatiewe vir Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Gebruik u "cloudflare-ipfs.com"? [Weet jy dat Cloudflare IPFS sleg is?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Daarom beveel ons slegs die bostaande tabel aan. Niks anders nie.
 
 - Skakel, waar toepaslik, na hierdie groepe in hierdie bewaarplek - dit kan 'n plek wees om die samewerking as groepe te koördineer.
 
-- [Begin 'n hok wat 'n betekenisvolle nie-korporatiewe alternatief vir Cloudflare kan bied.](../subfiles/alternative.cloudflare.md)
+- [Begin 'n hok wat 'n betekenisvolle nie-korporatiewe alternatief vir Cloudflare kan bied.](../subfiles/alternative/cloudflare.md)
 
 - Laat ons weet van alternatiewe wat ten minste help om meerlaagige verdediging teen Cloudflare te bied.
 
