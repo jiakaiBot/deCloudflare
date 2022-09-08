@@ -171,10 +171,10 @@ AFAIK, μηδενικός ιστότοπος το κάνει αυτό. Θα το
 - Χρειάζεστε πιστοποιητικό HTTPS; Χρησιμοποιήστε το "Let's Encrypt" ή απλώς αγοράστε το από την εταιρεία CA.
 
 - Χρειάζεστε διακομιστή DNS; Δεν μπορείτε να ρυθμίσετε τον δικό σας διακομιστή; Τι γίνεται με αυτά: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Διαχειριστής διαγράψτε τον λογαριασμό σας εάν χρησιμοποιείτε το TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Ψάχνετε για υπηρεσία φιλοξενίας; Δωρεάν μόνο; Τι γίνεται με αυτά: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Εναλλακτικές λύσεις για το Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Εναλλακτικές λύσεις για το Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Χρησιμοποιείτε το "cloudflare-ipfs.com"; [Γνωρίζετε ότι το Cloudflare IPFS είναι κακό;](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - Όπου ενδείκνυται, συνδεθείτε με αυτές τις ομάδες σε αυτό το αποθετήριο - αυτό μπορεί να είναι ένα μέρος για το συντονισμό της συνεργασίας ως ομάδων.
 
-- [Ξεκινήστε ένα συνεργείο που μπορεί να προσφέρει μια σημαντική μη εταιρική εναλλακτική λύση στο Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Ξεκινήστε ένα συνεργείο που μπορεί να προσφέρει μια σημαντική μη εταιρική εναλλακτική λύση στο Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Ενημερώστε μας για τυχόν εναλλακτικές λύσεις για να βοηθήσουμε τουλάχιστον να παρέχουμε άμυνα πολλαπλών επιπέδων ενάντια στο Cloudflare.
 
