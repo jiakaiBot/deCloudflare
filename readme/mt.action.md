@@ -171,10 +171,10 @@ Jekk Cloudflare jnixxi l-informazzjoni tiegħek jew ma jħallikx tikkonnettja ma
 - Għandek bżonn ċertifikat HTTPS? Uża "Ejja Iċċifra" jew sempliċement tixtriha mill-kumpanija CA.
 
 - Għandek bżonn server DNS? Ma tistax twaqqaf is-server tiegħek stess? Kif dwarhom: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Amministratur ħassar il-kont tiegħek jekk tuża TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Qed tfittex servizz ta 'akkoljenza? B'xejn biss? Kif dwarhom: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternattivi għal Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternattivi għal Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Qed tuża "cloudflare-ipfs.com"? [Taf Cloudflare IPFS huwa ħażin?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Għalhekk nirrakkomandaw hawn fuq it-tabella biss. Xejn iktar.
 
 - Fejn xieraq, rabta ma 'dawn il-gruppi fuq dan ir-repożitorju - dan jista' jkun post għall-koordinazzjoni ta 'ħidma flimkien bħala gruppi.
 
-- [Ibda koperazzjoni li tista 'tipprovdi alternattiva sinifikanti mhux korporattiva għal Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Ibda koperazzjoni li tista 'tipprovdi alternattiva sinifikanti mhux korporattiva għal Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Għidilna dwar kwalunkwe alternattiva biex tgħin mill-inqas tipprovdi difiża fuq diversi livelli kontra Cloudflare.
 
