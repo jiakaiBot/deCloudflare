@@ -171,10 +171,10 @@ Haddii Cloudflare ay daadato macluumaadkaaga ama aysan kuu oggolaan doonin inaad
 - Ma u baahan tahay shahaadada HTTPS? Adeegso "Aynu Encrypt" ama ka iibso shirkadda CA.
 
 - Ma u baahan tahay server-ka DNS? Ma sameyn kartid server-kaaga? Sidee iyaga ku saabsan: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Maamulka tirtiro koontadaada haddii aad isticmaasho TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Ma raadineysaa adeeg martigelin ah? Bilaash kaliya? Sidee iyaga ku saabsan: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Beddelka Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Beddelka Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Ma isticmaaleysaa "Cloudflare-ipfs.com"? [Ma ogtahay in Cloudflare IPFS uu xun yahay?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Sidaa darteed waxaan kugula talineynaa miiska kor ku xusan oo keliya. Wax kale m
 
 - Meeshii ku habboon, ku xiriir kooxahaan kaydkan - tani waxay noqon kartaa goob isku dubaridka wada shaqeynta koox ahaan.
 
-- [Bilow coof kaas oo bixin kara beddelaad aan shirkad ahayn oo macno leh Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Bilow coof kaas oo bixin kara beddelaad aan shirkad ahayn oo macno leh Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Noosoo sheeg wax kasta oo beddelaad ah si aan uga caawino ugu yaraan bixinta difaac dhowr lakab ah oo ka dhan ah Cloudflare.
 
