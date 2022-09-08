@@ -11,16 +11,16 @@
   - [Are links vulnerable to MITM attack?](addon/ismm.md)
   - [Which website rejected me?](addon/urjm.md)
 - Service
-  - [Karma API](service.karma_api.md)
+  - [Karma API](service/karma_api.md)
   - [IAList](https://ialist.crimeflare.eu.org)
-  - [Alternative Link](service.altlink.md)
+  - [Alternative Link](service/altlink.md)
   - [Local Area](https://localarea.crimeflare.eu.org)
   - [Clearnet Onion](https://clearnetonion.eu.org)
   - [Crimeflare Mail](https://mail.crimeflare.eu.org)
   - [This repository as website](https://decloudflare.crimeflare.eu.org) by @vXtreniusX
 - Cloudflare Alternatives
-  - [Cloudflare Alternatives](alternative.cloudflare.md)
-  - [Cloudflare DNS Alternatives](alternative.domaindns.md)
+  - [Cloudflare Alternatives](alternative/cloudflare.md)
+  - [Cloudflare DNS Alternatives](alternative/domaindns.md)
 - Cloudflared
   - How many % of top most visited sites?
     - [How many % of top 1,000 most visited sites(2010) are using Cloudflare?](cloudflared/top1000-2010-google.md) _Google_
