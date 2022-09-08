@@ -472,6 +472,45 @@ function reload_menu() {
             });
          }
       }
+      if (r.nocat21 != '1') {
+         iLastMenu = '21';
+         browser.menus.create({
+            parentId: 'iactLINK',
+            id: 'actLINK_pirated',
+            documentUrlPatterns: ['http://*/*', 'https://*/*'],
+            title: 'Pirated',
+            icons: {
+               '32': 'i/pirated.png'
+            },
+            contexts: ['link']
+         });
+         browser.menus.create({
+            parentId: 'iactPAGE',
+            id: 'actPAGE_pirated',
+            documentUrlPatterns: ['http://*/*', 'https://*/*'],
+            title: 'Pirated',
+            icons: {
+               '32': 'i/pirated.png'
+            },
+            contexts: ['page']
+         });
+         if (r.nocat98 != '1') {
+            browser.menus.create({
+               parentId: 'iactLINK',
+               id: 'sepaLink_' + iLastMenu,
+               documentUrlPatterns: ['http://*/*', 'https://*/*'],
+               type: 'separator',
+               contexts: ['link']
+            });
+            browser.menus.create({
+               parentId: 'iactPAGE',
+               id: 'sepaPage_' + iLastMenu,
+               documentUrlPatterns: ['http://*/*', 'https://*/*'],
+               type: 'separator',
+               contexts: ['page']
+            });
+         }
+      }
       if (r.nocat08 != '1') {
          iLastMenu = '08';
          browser.menus.create({
