@@ -171,10 +171,10 @@ Ger Cloudflare agahdariya we diweşîne an nahêle hûn bi serveratên me ve wer
 - Ma hûn belgeya HTTPS hewce ne? "Bila ryîfre bikin" bikar bînin an jî tenê ji pargîdaniya CA bikirin.
 
 - Ma servera DNS-ê hewce dike? Ma hûn nekarin servera xwe saz bikin? Çawa li ser wan: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Ger hûn TOR bikar bînin dê rêveber hesabê xwe jê bibe)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Ji bo xizmeta mêvandariyê digerin? Tenê belaş? Çawa li ser wan: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatîfên Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternatîfên Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Ma hûn "cloudflare-ipfs.com" bikar tînin? [Ma hûn dizanin Cloudflare IPFS xirab e?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Ji ber vê yekê em tenê maseya jorîn pêşniyar dikin. Tiştek din.
 
 - Ku guncan be, bi van koman re li ser vê embarê pêwendîdar be - ev dikare bibe cîhek ji bo koordînekirina xebata bi hev re wekî kom.
 
-- [Hevkariyek dest pê bikin ku dikare ji Cloudflare re alternatîfek ne pargîdanî ya watedar peyda bike.](../subfiles/alternative.cloudflare.md)
+- [Hevkariyek dest pê bikin ku dikare ji Cloudflare re alternatîfek ne pargîdanî ya watedar peyda bike.](../subfiles/alternative/cloudflare.md)
 
 - Bila ji me re her alternatîfan agahdar bikin ku bi kêmanî li dijî Cloudflare berevaniya pirrjimar a pirrjimar peyda bikin.
 
