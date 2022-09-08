@@ -171,10 +171,10 @@ AFAIK, គេហទំព័រសូន្យធ្វើដូចនេះ។ 
 - តើអ្នកត្រូវការវិញ្ញាបនបត្រ HTTPS ទេ? ប្រើ "តោះអ៊ិនគ្រីប" ឬគ្រាន់តែទិញវាពីក្រុមហ៊ុន CA ។
 
 - តើអ្នកត្រូវការម៉ាស៊ីនមេ DNS ដែរឬទេ? មិនអាចតំឡើងម៉ាស៊ីនមេផ្ទាល់ខ្លួនរបស់អ្នកទេ? តើធ្វើដូចម្តេចអំពីពួកគេ: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (រដ្ឋបាលលុបគណនីរបស់អ្នកប្រសិនបើអ្នកប្រើ TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - កំពុងរកមើលសេវាកម្មបង្ហោះ? ឥតគិតថ្លៃតែប៉ុណ្ណោះ? តើធ្វើដូចម្តេចអំពីពួកគេ: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [ជម្មើសជំនួសទៅ Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [ជម្មើសជំនួសទៅ Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - តើអ្នកកំពុងប្រើ "cloudflare-ipfs.com" ទេ? [តើអ្នកដឹងថា Cloudflare IPFS មិនល្អទេ?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - នៅពេលដែលសមស្របសូមភ្ជាប់ទៅក្រុមទាំងនេះនៅលើឃ្លាំងនេះ - នេះអាចជាកន្លែងសម្រាប់សម្របសម្រួលធ្វើការជាមួយគ្នាជាក្រុម។
 
-- [ចាប់ផ្តើមសហប្រតិបត្ដិការដែលអាចផ្តល់នូវជម្រើសមិនមែនក្រុមហ៊ុនដែលមានអត្ថន័យចំពោះ Cloudflare ។](../subfiles/alternative.cloudflare.md)
+- [ចាប់ផ្តើមសហប្រតិបត្ដិការដែលអាចផ្តល់នូវជម្រើសមិនមែនក្រុមហ៊ុនដែលមានអត្ថន័យចំពោះ Cloudflare ។](../subfiles/alternative/cloudflare.md)
 
 - សូមឱ្យយើងដឹងអំពីជម្រើសណាមួយដើម្បីជួយយ៉ាងហោចណាស់ផ្តល់នូវការការពារស្រទាប់ជាច្រើនប្រឆាំងនឹងហ្វាលហ្វារ។
 
