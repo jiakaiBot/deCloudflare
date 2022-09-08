@@ -171,10 +171,10 @@ Yog Cloudflare paim koj cov ntaub ntawv lossis yuav tsis cia koj txuas rau peb c
 - Koj puas xav tau daim ntawv pov thawj HTTPS? Siv "Let's Encrypt" lossis cia li yuav nws los ntawm CA lub tuam txhab.
 
 - Koj puas xav tau DNS server? Tsis tuaj yeem teeb tsa koj lub server? Yuav ua li cas txog lawv: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Cov tswj hwm muab koj tus lej rho tawm yog tias koj siv TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Nrhiav kev pabcuam hosting? Pub dawb xwb? Yuav ua li cas txog lawv: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Hloov rau Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Hloov rau Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Koj tab tom siv "cloudflare-ipfs.com"? [Koj puas paub Cloudflare IPFS tsis zoo?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Yog li peb pom zoo kom cov lus saum toj no nkaus xwb. Tsis muaj dab tsi ntxiv.
 
 - Thaum twg tsim nyog, txuas rau cov pab pawg no rau ntawm lub chaw cia khoom no - qhov no tuaj yeem yog qhov chaw rau kev koom tes ua haujlwm ua ke ua ib pab.
 
-- [Pib lub voos xwm kab uas tuaj yeem muab cov ntsiab lus tsis yog tuam txhab kev xaiv rau Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Pib lub voos xwm kab uas tuaj yeem muab cov ntsiab lus tsis yog tuam txhab kev xaiv rau Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Qhia rau peb paub txog lwm txoj kev pab tau tsawg kawg yog muab ntau cov txheej txheem tiv thaiv tiv thaiv Cloudflare.
 
