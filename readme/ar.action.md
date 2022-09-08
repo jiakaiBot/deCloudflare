@@ -171,10 +171,10 @@ AFAIK ، موقع صفر يفعل هذا. هل ستثق بهم؟
 - هل تحتاج إلى شهادة HTTPS؟ استخدم "Let's Encrypt" أو قم بشرائه من شركة CA فقط.
 
 - هل تحتاج إلى خادم DNS؟ لا يمكنك إعداد الخادم الخاص بك؟ ماذا عنهم: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (يقوم المسؤول بحذف حسابك إذا كنت تستخدم TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - تبحث عن خدمة الاستضافة؟ مجاني فقط؟ ماذا عنهم: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [بدائل للتطبيق Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [بدائل للتطبيق Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - هل تستخدم "cloudflare-ipfs.com"؟ [هل تعلم أن Cloudflare IPFS سيء؟](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - عند الاقتضاء ، اربط بهذه المجموعات في هذا المستودع - يمكن أن يكون هذا مكانًا لتنسيق العمل معًا كمجموعات.
 
-- [ابدأ تعاونًا يمكن أن يوفر بديلاً مفيدًا غير مؤسسي لـ Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [ابدأ تعاونًا يمكن أن يوفر بديلاً مفيدًا غير مؤسسي لـ Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - أخبرنا بأي بدائل للمساعدة على الأقل في توفير دفاع متعدد الطبقات ضد Cloudflare.
 
