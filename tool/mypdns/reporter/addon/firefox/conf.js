@@ -35,6 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('nocat18').checked = (r.nocat18 == '1') ? true : false;
       document.getElementById('nocat19').checked = (r.nocat19 == '1') ? true : false;
       document.getElementById('nocat20').checked = (r.nocat20 == '1') ? true : false;
+      document.getElementById('nocat21').checked = (r.nocat21 == '1') ? true : false;
       document.getElementById('nocat90').checked = (r.nocat90 == '1') ? true : false;
       document.getElementById('nocat91').checked = (r.nocat91 == '1') ? true : false;
       document.getElementById('nocat92').checked = (r.nocat92 == '1') ? true : false;
