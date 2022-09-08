@@ -5369,6 +5369,7 @@ Do not create new issue or we will close it as duplicate.
 | [MDWalters124@twitter](https://twitter.com/MDWalters124/status/1558905873807941635) | advertise |
 | [MdyBboy@twitter](https://twitter.com/MdyBboy/status/1390850990161629184) | advertise |
 | [MdyHFBottom42@twitter](https://twitter.com/MdyHFBottom42/status/1397154163105009669) | advertise |
+| [md_mamun123456@twitter](https://twitter.com/md_mamun123456/status/1567851861889413120) | advertise |
 | [Me3nDDbGmrDw9Lw@twitter](https://twitter.com/Me3nDDbGmrDw9Lw/status/1407391634812293121) | advertise |
 | [measakid4030@twitter](https://twitter.com/measakid4030/status/1538259167776886784) | advertise |
 | [med61883332@twitter](https://twitter.com/med61883332/status/1439010726480420871) | advertise |
@@ -8487,6 +8488,7 @@ Do not create new issue or we will close it as duplicate.
 | [TersakitiNep@twitter](https://twitter.com/TersakitiNep/status/1493721965885988867) | advertise |
 | [tertawalepas_@twitter](https://twitter.com/tertawalepas_/status/1552319664797421568) | advertise |
 | [TetTunLin1@twitter](https://twitter.com/TetTunLin1/status/1389947825602002945) | advertise |
+| [teukuumar8@twitter](https://twitter.com/teukuumar8/status/1567861215686463489) | advertise |
 | [TexCoats@twitter](https://twitter.com/TexCoats/status/1501340223095164931) | advertise |
 | [TextBookly@twitter](https://twitter.com/TextBookly/status/1390763198148714500) | advertise |
 | [tezoxu@twitter](https://twitter.com/tezoxu/status/1411050579233841157) | moral (advertise) |
