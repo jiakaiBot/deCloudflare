@@ -171,10 +171,10 @@ Idan Cloudflare ya fallasa bayananku ko ba zai bari ku haɗi zuwa sabarmu ba, ba
 - Shin kuna buƙatar takardar shaidar HTTPS? Yi amfani da "Bari mu Encrypt" ko kawai siya daga kamfanin CA.
 
 - Shin kuna buƙatar sabar DNS? Ba za a iya kafa sabarku ba? Yaya game da su: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Gudanar da asusunka idan kayi amfani da TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Ana neman sabis na talla? Kyauta kawai? Yaya game da su: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Madadin zuwa Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Madadin zuwa Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Shin kuna amfani da "cloudflare-ipfs.com"? [Shin kun san Cloudflare IPFS ba kyau?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Saboda haka muna bada shawarar sama da tebur kawai. Babu wani abu kuma.
 
 - Inda ya dace, haɗi zuwa waɗannan rukunonin a kan wannan ma'ajiyar - wannan na iya zama wuri don daidaita aiki tare a matsayin ƙungiyoyi.
 
-- [Fara aikin kwalliya wanda zai iya samar da mahimmancin madadin kamfanoni ba ga Cloudflare ba.](../subfiles/alternative.cloudflare.md)
+- [Fara aikin kwalliya wanda zai iya samar da mahimmancin madadin kamfanoni ba ga Cloudflare ba.](../subfiles/alternative/cloudflare.md)
 
 - Bari mu san kowane zaɓi don taimakawa aƙalla samar da matakan kariya masu yawa akan Cloudflare.
 
