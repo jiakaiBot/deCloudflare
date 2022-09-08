@@ -171,10 +171,10 @@ AFAIK ، صفر ویب پا thisه دا کار کوي. ایا تاسو به په
 - ایا تاسو د HTTPS سند ته اړتیا لرئ؟ "راځئ اینکرپت" وکاروئ یا یوازې د CA شرکت څخه یې واخلئ.
 
 - ایا تاسو د DNS سرور ته اړتیا لرئ؟ خپل سرور جوړ نشی کولی؟ د دوی په اړه څنګه: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (اډمین خپل حساب حذف کړئ که تاسو TOR وکاروئ)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - د کوربه توب خدمت په لټه کې یاست؟ یوازې وړیا؟ د دوی په اړه څنګه: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [کلاوډ فلایر ته بدیلونه](../subfiles/alternative.cloudflare.md)
+  - [کلاوډ فلایر ته بدیلونه](../subfiles/alternative/cloudflare.md)
 
 - ایا تاسو "cloudflare-ipfs.com" کاروئ؟ [ایا تاسو پوهیږئ چې Cloudflare IPFS خراب دی؟](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - چیرې چې مناسب وي ، پدې ډلو کې دې ډلو سره اړیکه ونیسئ - دا د ډلو په توګه د ګډ کار کولو همغږي کولو لپاره ځای کیدی شي.
 
-- [یو کوپ پیل کړئ چې کولی شي د کلاوډ فلیر لپاره معنی لرونکی غیر کارپوریټ بدیل چمتو کړي.](../subfiles/alternative.cloudflare.md)
+- [یو کوپ پیل کړئ چې کولی شي د کلاوډ فلیر لپاره معنی لرونکی غیر کارپوریټ بدیل چمتو کړي.](../subfiles/alternative/cloudflare.md)
 
 - راځئ چې د هرډول بدیلونو په اړه پوه شو چې لږترلږه د کلاوډ فلایر پروړاندې څو پرتې دفاع چمتو کړو.
 
