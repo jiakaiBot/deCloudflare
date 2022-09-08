@@ -171,10 +171,10 @@ Inā kulu ʻo Cloudflare i kāu ʻike a ʻaʻole hoʻi e ʻae iā ʻoe e hoʻohu
 - Pono ʻoe i ka palapala HTTPS? E hoʻohana iā "Let's Encrypt" a kūʻai paha iā ia mai ka hui ʻo CA.
 
 - Pono ʻoe i kikowaena kikowaena DNS? ʻAʻole hiki ke hoʻonohonoho i kāu kikowaena pūnaewele? Pehea lākou: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Hoʻopau ka luna i kāu moʻokāki inā hoʻohana ʻoe iā TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Ke nānā nei i ka lawelawe hoʻokipa? Manuahi wale nō? Pehea lākou: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Nā koho ʻē aʻe iā Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Nā koho ʻē aʻe iā Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Ke hoʻohana nei ʻoe i "cloudflare-ipfs.com"? [ʻIke paha ʻoe ʻaʻole maikaʻi ʻo Cloudflare IPFS?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ No laila mākou e paipai aku nei ma ka papa ʻaina wale nō. ʻAʻohe mea ʻē a
 
 - Ma kahi kūpono, e hoʻopili i kēia mau pūʻulu ma kēia waihona - hiki i kēia ke lilo i wahi no ka hoʻohui ʻana e hana pū ana ma ke ʻano he hui.
 
-- [E hoʻomaka i kahi coop i hiki ke hāʻawi i kahi koho ʻokoʻa ʻokoʻa i Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [E hoʻomaka i kahi coop i hiki ke hāʻawi i kahi koho ʻokoʻa ʻokoʻa i Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - E ʻike iā mākou i nā koho ʻē aʻe e kōkua i ka hāʻawi ʻana i kahi pale pale pale kūʻē iā Cloudflare.
 
