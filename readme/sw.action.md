@@ -171,10 +171,10 @@ Ikiwa Cloudflare inavuja habari yako au haitakuruhusu uunganishe kwenye seva zet
 - Je! Unahitaji cheti cha HTTPS? Tumia "Wacha Tusimbue" au ununue tu kutoka kwa kampuni ya CA.
 
 - Je! Unahitaji seva ya DNS? Je! Huwezi kuanzisha seva yako mwenyewe? Vipi kuhusu wao: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Usimamizi futa akaunti yako ikiwa unatumia TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Unatafuta huduma ya kukaribisha? Bure tu? Vipi kuhusu wao: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Njia mbadala za Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Njia mbadala za Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Je! Unatumia "cloudflare-ipfs.com"? [Je! Unajua Cloudflare IPFS ni mbaya?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Kwa hivyo tunapendekeza juu ya meza tu. Hakuna kingine.
 
 - Pale inapofaa, unganisha na vikundi hivi kwenye hazina hii - hii inaweza kuwa mahali pa kuratibu kufanya kazi pamoja kama vikundi.
 
-- [Anza kibanda ambacho kinaweza kutoa njia mbadala isiyo ya ushirika kwa Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Anza kibanda ambacho kinaweza kutoa njia mbadala isiyo ya ushirika kwa Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Tujulishe njia mbadala yoyote kusaidia angalau kutoa utetezi mwingi wa layered dhidi ya Cloudflare.
 
