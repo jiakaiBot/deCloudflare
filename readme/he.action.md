@@ -171,10 +171,10 @@ AFAIK, אתר אפס עשה זאת. האם תסמכו עליהם?
 - האם אתה זקוק לאישור HTTPS? השתמש ב- "בואו להצפין" או פשוט לקנות אותו מחברת CA.
 
 - האם אתה זקוק לשרת DNS? לא מצליחים להקים שרת משלך? מה דעתך עליהם: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (מנהל מערכת מוחק את חשבונך אם אתה משתמש ב- TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - מחפש שירות אירוח? חינם בלבד? מה דעתך עליהם: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [אלטרנטיבות ל- Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [אלטרנטיבות ל- Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - האם אתה משתמש ב- "cloudflare-ipfs.com"? [האם אתה יודע ש- IPFS של Cloudflare רע?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - היכן שמתאים, קישור לקבוצות אלה במאגר זה - זה יכול להיות מקום לתיאום עבודה משותפת כקבוצות.
 
-- [התחל לול שיכול לספק אלטרנטיבה משמעותית שאינה ארגונית ל- Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [התחל לול שיכול לספק אלטרנטיבה משמעותית שאינה ארגונית ל- Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - ספר לנו על כל חלופה שתסייע לפחות לספק הגנה מרובת שכבות נגד Cloudflare.
 
