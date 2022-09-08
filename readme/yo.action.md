@@ -171,10 +171,10 @@ Ti Cloudflare jo alaye rẹ tabi kii yoo jẹ ki o sopọ si awọn olupin wa, k
 - Ṣe o nilo ijẹrisi HTTPS? Lo "Jẹ ki a Encrypt" tabi ra nikan lati ile-iṣẹ CA.
 
 - Ṣe o nilo olupin DNS? Ko le ṣeto olupin tirẹ? Bawo ni nipa wọn: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Abojuto paarẹ akọọlẹ rẹ ti o ba lo TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Ṣe o n wa iṣẹ alejo gbigba? Free nikan? Bawo ni nipa wọn: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Awọn omiiran si Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Awọn omiiran si Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Ṣe o nlo "cloudflare-ipfs.com"? [Njẹ o mọ Cloudflare IPFS ko dara?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Nitorina a ṣe iṣeduro loke tabili nikan. Ko si nkankan mo.
 
 - Nibo ti o ba yẹ, ọna asopọ si awọn ẹgbẹ wọnyi lori ibi ipamọ yii - eyi le jẹ aaye fun ṣiṣakojọpọ ṣiṣẹ papọ bi awọn ẹgbẹ.
 
-- [Bẹrẹ akọọlẹ kan ti o le pese iyatọ ti kii ṣe ajọṣepọ ti o ni itumọ si Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Bẹrẹ akọọlẹ kan ti o le pese iyatọ ti kii ṣe ajọṣepọ ti o ni itumọ si Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Jẹ ki a mọ ti awọn omiiran miiran lati ṣe iranlọwọ ni o kere ju pese aabo fẹlẹfẹlẹ lọpọlọpọ si Cloudflare.
 
