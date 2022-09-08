@@ -1,8 +1,8 @@
-### Block Cloudflare MITM Attack!
+### Block Cloudflare MITM Attack!!
 
 `Let's fight against the growing MITM attack on the Internet.`
 
-![](../image/goodorbad.jpg)
+![](../../image/goodorbad.jpg)
 
 
 ```

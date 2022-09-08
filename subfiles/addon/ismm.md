@@ -2,7 +2,7 @@
 
 `Scan FQDN using API`
 
-![](../image/ismmpreview.jpg)
+![](../../image/ismmpreview.jpg)
 
 
 ```
@@ -48,6 +48,6 @@ This add-on never send other information.
 ```
 
 
-- [API Self-host Guide](../tool/api_for_ismm_isat/)
+- [API Self-host Guide](../../tool/api_for_ismm_isat/)
 - Download add-on
   - From Git: [FirefoxESR](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/ismm.xpi) / [Chromium / Edge](https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/ismm.crx)
