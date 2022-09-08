@@ -171,10 +171,10 @@ Cloudflare ඔබේ තොරතුරු කාන්දු වුවහොත
 - ඔබට HTTPS සහතිකය අවශ්‍යද? "අපි සංකේතාත්මක කරමු" හෝ CA සමාගමෙන් මිලදී ගන්න.
 
 - ඔබට DNS සේවාදායකය අවශ්‍යද? ඔබේම සේවාදායකයක් සැකසිය නොහැකිද? කොහොමද ඔවුන් ගැන: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (ඔබ TOR භාවිතා කරන්නේ නම් පරිපාලක ඔබගේ ගිණුම මකන්න)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - සත්කාරක සේවාව සොයන්නේද? නොමිලේ පමණක්ද? කොහොමද ඔවුන් ගැන: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare සඳහා විකල්ප](../subfiles/alternative.cloudflare.md)
+  - [Cloudflare සඳහා විකල්ප](../subfiles/alternative/cloudflare.md)
 
 - ඔබ "cloudflare-ipfs.com" භාවිතා කරනවාද? [Cloudflare IPFS නරක බව ඔබ දන්නවාද?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - සුදුසු අවස්ථාවලදී, මෙම ගබඩාවට මෙම කණ්ඩායම් සමඟ සම්බන්ධ වන්න - මෙය කණ්ඩායම් වශයෙන් එකට වැඩ කිරීම සම්බන්ධීකරණය කිරීමේ ස්ථානයක් විය හැකිය.
 
-- [Cloudflare සඳහා අර්ථවත් ආයතනික නොවන විකල්පයක් සැපයිය හැකි සමුපකාරයක් ආරම්භ කරන්න.](../subfiles/alternative.cloudflare.md)
+- [Cloudflare සඳහා අර්ථවත් ආයතනික නොවන විකල්පයක් සැපයිය හැකි සමුපකාරයක් ආරම්භ කරන්න.](../subfiles/alternative/cloudflare.md)
 
 - ක්ලවුඩ්ෆ්ලේරයට එරෙහිව අවම වශයෙන් බහු ස්ථර ආරක්ෂාවක් සැපයීමට උපකාරී වන වෙනත් විකල්ප ගැන අපට දන්වන්න.
 
