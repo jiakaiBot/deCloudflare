@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Block Cloudflare MITM Attack!",
+  "name": "Block Cloudflare MITM Attack!!",
   "description": "Let's fight against the growing MITM attack on the Internet.",
-  "version": "1.0.2.2",
+  "version": "1.0.0",
   "homepage_url": "http://crimeflare.eu.org/",
   "author": "Crimeflare",
   "permissions": [
@@ -52,8 +52,9 @@
   ],
   "applications": {
     "gecko": {
-      "id": "bcma@addon.crimeflare.eu.org",
-      "strict_min_version": "91.0"
+      "id": "bcma2@addon.crimeflare.eu.org",
+      "strict_min_version": "91.0",
+      "update_url": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/firefox_update.json"
     }
   }
 }
