@@ -171,10 +171,10 @@ Haeba Cloudflare e lutla tlhahisoleseling ea hau kapa e sa u lumelle ho hokela h
 - Na o hloka setifikeiti sa HTTPS? Sebelisa "A re Encrypt" kapa e reke feela ho tsoa k'hamphaning ea CA.
 
 - O hloka seva ea DNS? Ha o khone ho ipehela seva? Ho thoe'ng ka bona: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Tsamaiso e hlakola ak'haonte ea hau haeba u sebelisa TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - U batla tšebeletso ea bolulo? Mahala feela? Ho thoe'ng ka bona: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Mekhoa e meng ea Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Mekhoa e meng ea Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - U sebelisa "cloudflare-ipfs.com"? [Na ua tseba hore Cloudflare IPFS e mpe?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Ka hona re khothaletsa tafole e kaholimo feela. Ha ho letho le leng.
 
 - Moo ho loketseng, hokela lihlopha tsena polokelong ena - ena e ka ba sebaka sa ho hokahanya ho sebetsa 'moho e le lihlopha.
 
-- [Qala coop e ka fanang ka mokhoa o nang le moelelo o seng oa khoebo ho Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Qala coop e ka fanang ka mokhoa o nang le moelelo o seng oa khoebo ho Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Re tsebise ka mekhoa e meng ho thusa bonyane ho fana ka ts'ireletso e mekato e mengata khahlanong le Cloudflare.
 
