@@ -171,10 +171,10 @@ Om Cloudflare läcker din information eller inte låter dig ansluta till våra s
 - Behöver du HTTPS-certifikat? Använd "Let's Encrypt" eller köp det bara från CA-företaget.
 
 - Behöver du DNS-server? Kan du inte ställa in din egen server? Vad sägs om dem: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin raderar ditt konto om du använder TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Letar du efter värdtjänst? Endast gratis? Vad sägs om dem: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternativ till Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternativ till Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Använder du "cloudflare-ipfs.com"? [Vet du att Cloudflare IPFS är dåligt?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Därför rekommenderar vi endast ovanstående tabell. Inget annat.
 
 - Om så är lämpligt, länka till dessa grupper på detta arkiv - det här kan vara en plats för samordning av att arbeta tillsammans som grupper.
 
-- [Starta ett coop som kan ge ett meningsfullt alternativ till Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Starta ett coop som kan ge ett meningsfullt alternativ till Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Låt oss veta om några alternativ som hjälper åtminstone att tillhandahålla flera lager försvar mot Cloudflare.
 
