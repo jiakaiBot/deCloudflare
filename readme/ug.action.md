@@ -171,10 +171,10 @@ AFAIK ، نۆل تور بېكەت بۇنى قىلىدۇ. ئۇلارغا ئىشى
 - سىزگە HTTPS گۇۋاھنامىسى لازىممۇ؟ «مەخپىيلەشتۈرەيلى» نى ئىشلىتىڭ ياكى ئۇنى CA شىركىتىدىن سېتىۋېلىڭ.
 
 - سىزگە DNS مۇلازىمېتىرى لازىممۇ؟ ئۆزىڭىزنىڭ مۇلازىمېتىرىنى تەڭشىيەلەمسىز؟ ئۇلارچۇ؟: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (باشقۇرغۇچى TOR ئىشلەتسىڭىز ھېساباتىڭىزنى ئۆچۈرۈۋېتىدۇ)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - ساھىبخانلىق مۇلازىمىتىنى ئىزدەۋاتامسىز؟ پەقەت ھەقسىز؟ ئۇلارچۇ؟: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare نىڭ تاللاشلىرى](../subfiles/alternative.cloudflare.md)
+  - [Cloudflare نىڭ تاللاشلىرى](../subfiles/alternative/cloudflare.md)
 
 - «Cloudflare-ipfs.com» نى ئىشلىتىۋاتامسىز؟ [Cloudflare IPFS نىڭ ناچارلىقىنى بىلەمسىز؟](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - ئەگەر مۇۋاپىق بولسا ، بۇ ئامباردىكى بۇ گۇرۇپپىلارغا ئۇلاڭ - بۇ گۇرۇپپا سۈپىتىدە ھەمكارلىشىشنى ماسلاشتۇرىدىغان جاي بولالايدۇ.
 
-- [Cloudflare نىڭ مەنىسى بولمىغان كارخانا بىلەن تەمىنلەيدىغان بىر كوچا باشلاڭ.](../subfiles/alternative.cloudflare.md)
+- [Cloudflare نىڭ مەنىسى بولمىغان كارخانا بىلەن تەمىنلەيدىغان بىر كوچا باشلاڭ.](../subfiles/alternative/cloudflare.md)
 
 - ھېچ بولمىغاندا Cloudflare غا قارشى كۆپ قاتلاملىق مۇداپىئە بىلەن تەمىنلەيدىغان باشقا تاللاشلارنى بىزگە بىلدۈرۈڭ.
 
