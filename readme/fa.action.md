@@ -171,10 +171,10 @@ AFAIK ، وب سایت صفر این کار را انجام می دهد. آیا 
 - آیا به گواهینامه HTTPS نیاز دارید؟ از "Let's Encrypt" استفاده کنید یا فقط آن را از شرکت CA بخرید.
 
 - آیا به سرور DNS نیاز دارید؟ نمی توانید سرور خود را تنظیم کنید؟ در مورد آنها چطور: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (در صورت استفاده از TOR ، مدیر حساب خود را حذف می کند)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - به دنبال سرویس میزبانی هستید؟ فقط رایگان است؟ در مورد آنها چطور: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [گزینه های جایگزین Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [گزینه های جایگزین Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - آیا شما از "cloudflare-ipfs.com" استفاده می کنید؟ [آیا می دانید Cloudflare IPFS بد است؟](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - در صورت لزوم ، به این گروه ها در این مخزن پیوند دهید - این می تواند مکانی برای هماهنگی کار با هم به عنوان گروه باشد.
 
-- [یک تعاونی ایجاد کنید که می تواند یک جایگزین غیر شرکتی معنی دار برای Cloudflare فراهم کند.](../subfiles/alternative.cloudflare.md)
+- [یک تعاونی ایجاد کنید که می تواند یک جایگزین غیر شرکتی معنی دار برای Cloudflare فراهم کند.](../subfiles/alternative/cloudflare.md)
 
 - برای کمک به حداقل ارائه چندین لایه دفاع در برابر Cloudflare ، از هر گزینه دیگری با ما در میان بگذارید.
 
