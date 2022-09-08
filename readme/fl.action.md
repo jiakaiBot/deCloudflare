@@ -171,10 +171,10 @@ Kung tinagas ng Cloudflare ang iyong impormasyon o hindi ka papayag na kumonekta
 - Kailangan mo ba ng sertipiko ng HTTPS? Gumamit ng "Let's Encrypt" o bilhin lamang ito mula sa kumpanya ng CA.
 
 - Kailangan mo ba ng DNS server? Hindi ma-set up ang iyong sariling server? Kumusta naman sila: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Tanggalin ng admin ang iyong account kung gumagamit ka ng TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Naghahanap ng serbisyo sa pagho-host? Libre lang? Kumusta naman sila: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Mga kahalili sa Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Mga kahalili sa Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Gumagamit ka ba ng "cloudflare-ipfs.com"? [Alam mo bang hindi maganda ang Cloudflare IPFS?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Samakatuwid inirerekumenda lamang namin sa itaas ng talahanayan. Walang iba.
 
 - Kung saan naaangkop, mag-link sa mga pangkat na ito sa lalagyan na ito - maaari itong maging isang lugar para sa pag-uugnay na nagtutulungan bilang mga pangkat.
 
-- [Magsimula ng isang coop na maaaring magbigay ng isang makabuluhang alternatibong hindi corporate sa Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Magsimula ng isang coop na maaaring magbigay ng isang makabuluhang alternatibong hindi corporate sa Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Ipaalam sa amin ang anumang mga kahalili upang makatulong na magbigay ng maramihang mga layered na pagtatanggol laban sa Cloudflare.
 
