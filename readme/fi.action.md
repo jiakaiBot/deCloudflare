@@ -171,10 +171,10 @@ Jos Cloudflare vuotaa tietosi tai ei anna sinun muodostaa yhteyttä palvelimille
 - Tarvitsetko HTTPS-varmenteen? Käytä "Let's Encrypt" tai osta se vain CA-yhtiöltä.
 
 - Tarvitsetko DNS-palvelinta? Etkö voi asettaa omaa palvelinta? Entä heille: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Järjestelmänvalvoja poistaa tilisi, jos käytät TOR: ää)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Etsitkö hosting-palvelua? Vain ilmaiseksi? Entä heille: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Vaihtoehtoja Cloudflarelle](../subfiles/alternative.cloudflare.md)
+  - [Vaihtoehtoja Cloudflarelle](../subfiles/alternative/cloudflare.md)
 
 - Käytätkö "cloudflare-ipfs.com"? [Tiedätkö Cloudflare IPFS: n olevan huono?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Siksi suosittelemme vain yllä olevaa taulukkoa. Ei mitään muuta.
 
 - Linkitä tarvittaessa näihin ryhmiin tässä arkistossa - tämä voi olla paikka koordinoida työskentelyä ryhminä.
 
-- [Aloita yhteistyö, joka voi tarjota mielekkäitä ei-yritysvaihtoehtoja Cloudflarelle.](../subfiles/alternative.cloudflare.md)
+- [Aloita yhteistyö, joka voi tarjota mielekkäitä ei-yritysvaihtoehtoja Cloudflarelle.](../subfiles/alternative/cloudflare.md)
 
 - Kerro meille mahdollisista vaihtoehdoista, jotka auttavat ainakin tarjoamaan monikerroksisen puolustuksen Cloudflareä vastaan.
 
