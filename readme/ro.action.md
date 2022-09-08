@@ -171,10 +171,10 @@ Dacă Cloudflare vă scurge informațiile sau nu vă permite să vă conectați 
 - Aveți nevoie de certificat HTTPS? Utilizați „Să criptăm” sau pur și simplu cumpărați-l de la compania CA.
 
 - Ai nevoie de server DNS? Nu vă puteți configura propriul server? Ce zici de ei: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Administratorul șterge contul dvs. dacă utilizați TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Căutați un serviciu de găzduire? Doar gratuit? Ce zici de ei: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternative la Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternative la Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Folosiți „cloudflare-ipfs.com”? [Știți că Cloudflare IPFS este rău?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Prin urmare, vă recomandăm numai tabelul de mai sus. Nimic altceva.
 
 - Dacă este cazul, conectați-vă la aceste grupuri din acest depozit - acesta poate fi un loc pentru coordonarea lucrării împreună ca grupuri.
 
-- [Începeți o cooperare care poate oferi o alternativă semnificativă non-corporativă la Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Începeți o cooperare care poate oferi o alternativă semnificativă non-corporativă la Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Spuneți-ne despre orice alternative pentru a ajuta cel puțin să oferiți o apărare pe mai multe straturi împotriva Cloudflare.
 
