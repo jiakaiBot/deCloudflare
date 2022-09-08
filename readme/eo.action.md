@@ -171,10 +171,10 @@ Se Cloudflare likas viajn informojn aŭ ne permesas vin konekti al niaj serviloj
 - Ĉu vi bezonas HTTPS-atestilon? Uzu "Let's Encrypt" aŭ simple aĉetu ĝin de CA-kompanio.
 
 - Ĉu vi bezonas DNS-servilon? Ĉu vi ne povas agordi vian propran servilon? Kiel pri ili: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Administranto forigu vian konton se vi uzas Tor)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Ĉu vi serĉas gastigan servon? Ĉu senpaga nur? Kiel pri ili: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternativoj al Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternativoj al Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Ĉu vi uzas "cloudflare-ipfs.com"? [Ĉu vi scias ke Cloudflare IPFS estas malbona?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Sekve ni rekomendas nur supre tabelon. Nenio alia.
 
 - Kie taŭgas, ligu al ĉi tiuj grupoj en ĉi tiu deponejo - ĉi tio povas esti loko por kunordigi laboron kune kiel grupoj.
 
-- [Komencu konejon, kiu povas doni signifan ne kompanian alternativon al Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Komencu konejon, kiu povas doni signifan ne kompanian alternativon al Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Informu nin pri iuj alternativoj por helpi almenaŭ provizi plurtavolan defendon kontraŭ Cloudflare.
 
