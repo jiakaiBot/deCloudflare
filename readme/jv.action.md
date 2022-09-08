@@ -171,10 +171,10 @@ Yen Cloudflare ngeculake informasi sampeyan utawa ora ngidini sampeyan nyambung 
 - Apa sampeyan butuh sertifikat HTTPS? Gunakake "Ayo Ndhelik" utawa tuku saka perusahaan CA.
 
 - Apa sampeyan butuh server DNS? Ora bisa nyiyapake server sampeyan dhewe? Kepiye carane: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin busak akun sampeyan yen nggunakake TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Nggolek layanan hosting? Gratis wae? Kepiye carane: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatif kanggo Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternatif kanggo Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Apa sampeyan nggunakake "cloudflare-ipfs.com"? [Apa sampeyan ngerti Cloudflare IPFS iku ala?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Mula, disaranake mung tabel ing ndhuwur. Ora liya.
 
 - Yen cocog, link menyang klompok kasebut ing repositori iki - iki bisa dadi papan kanggo koordinasi kerja bebarengan minangka grup.
 
-- [Miwiti koop sing bisa nyedhiyani alternatif non perusahaan sing migunani kanggo Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Miwiti koop sing bisa nyedhiyani alternatif non perusahaan sing migunani kanggo Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Ayo ngerti alternatif liyane kanggo paling ora nyedhiyakake sawetara pertahanan berlapis marang Cloudflare.
 
