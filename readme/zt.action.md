@@ -171,10 +171,10 @@ AFAIK，零網站做到這一點。你會相信他們嗎？
 - 您需要HTTPS證書嗎？ 使用“讓我們加密”或直接從CA公司購買。
 
 - 您需要DNS服務器嗎？ 無法設置自己的服務器？ 他們呢: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (如果您使用TOR，則管理員刪除您的帳戶)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - 尋找託管服務？ 僅免費？ 他們呢: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare的替代品](../subfiles/alternative.cloudflare.md)
+  - [Cloudflare的替代品](../subfiles/alternative/cloudflare.md)
 
 - 您是否正在使用“ cloudflare-ipfs.com”？ [您知道Cloudflare IPFS不好嗎？](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - 在適當的情況下，鏈接到此存儲庫上的這些組-這可以作為協調協同工作的場所。
 
-- [啟動一個合作社，可以為Cloudflare提供有意義的非公司替代方案。](../subfiles/alternative.cloudflare.md)
+- [啟動一個合作社，可以為Cloudflare提供有意義的非公司替代方案。](../subfiles/alternative/cloudflare.md)
 
 - 讓我們知道任何替代方法，至少可以幫助您提供針對Cloudflare的多層防禦。
 
