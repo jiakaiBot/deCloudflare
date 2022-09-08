@@ -171,10 +171,10 @@ AFAIK ، صفر ويب سائيٽ هي ڪر. ڇا توهان انهن تي اع�
 - ڇا توهان کي HTTPS سرٽيفڪيٽ جي ضرورت آهي؟ ”ليڊ اينڊريٽ“ استعمال ڪريو يا صرف سي اي ڪمپني خريد ڪريو.
 
 - ڇا توهان کي ڊي اين ايس سرور جي ضرورت آهي؟ ڇا توهان جو پنهنجو سرور قائم نٿو ڪري سگھجي؟ انهن جي باري ۾: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (جيڪڏهن توهان TOR استعمال ڪريو ته اداري پنهنجو اڪائونٽ حذف ڪيو)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - هلندڙ هوسٽنگ سروس؟ صرف مفت؟ انهن جي باري ۾: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare جو متبادل](../subfiles/alternative.cloudflare.md)
+  - [Cloudflare جو متبادل](../subfiles/alternative/cloudflare.md)
 
 - ڇا توهان "cloudflare-ipfs.com" استعمال ڪري رهيا آهيو؟ [ڇا توهان knowاڻو ٿا Cloudflare IPFS خراب آهي؟](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - جتي مناسب هجي ، انهن گروپن سان ڳن thisيو هن مخزن تي - اهو هڪ گروپ طور گڏجي ڪم ڪرڻ جي جڳهه ٿي سگهي ٿو.
 
-- [ڪوپ شروع ڪريو جيڪو ڪلائوڊ فليئر لاءِ بامقصد غير ڪارپوريٽ متبادل مهيا ڪري سگهي ٿو.](../subfiles/alternative.cloudflare.md)
+- [ڪوپ شروع ڪريو جيڪو ڪلائوڊ فليئر لاءِ بامقصد غير ڪارپوريٽ متبادل مهيا ڪري سگهي ٿو.](../subfiles/alternative/cloudflare.md)
 
 - اچو ته ڪلائوڊ فليئر خلاف گهٽ ۾ گهٽ ڪيترائي تحفظ فراهم ڪرڻ ۾ مدد لاءِ ڪنهن متبادل لاءِ ٻڌايو.
 
