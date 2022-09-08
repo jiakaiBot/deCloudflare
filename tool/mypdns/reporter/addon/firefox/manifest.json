@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "My Privacy DNS Reporter",
   "description": "Reporting websites made easy.",
-  "version": "1.0.3.4",
+  "version": "1.0.0",
   "author": "Crimeflare",
   "homepage_url": "http://crimeflare.eu.org/",
   "permissions": [
@@ -53,8 +53,9 @@
   },
   "applications": {
     "gecko": {
-      "id": "reporter@addon.mypdns.org",
-      "strict_min_version": "91.0"
+      "id": "reporter@cat.mypdns.org",
+      "strict_min_version": "91.0",
+      "update_url": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/mypdns/update_firefox.json"
     }
   }
 }
