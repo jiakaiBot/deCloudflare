@@ -171,10 +171,10 @@ Se Cloudflare perde e vostre informazioni o ùn vi lascia micca cunnessione à i
 - Avete bisognu di certificatu HTTPS? Aduprate "Let's Encrypt" o solu cumprà da a cumpagnia CA.
 
 - Avete bisognu di un servitore DNS? Ùn pudete micca installà u vostru servitore? Cumu ne sò: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Amministratore sguassate u vostru contu se utilizate TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Circate u serviziu di hosting? Gratuitu solu? Cumu ne sò: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternative à Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternative à Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Usate "cloudflare-ipfs.com"? [Sapete Cloudflare IPFS hè male?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Dunque cunsigliemu solu a tavula sopra. Nunda altru.
 
 - In casu di appruvazioni, ligate à questi gruppi nantu à stu repositoriu - questu pò esse un locu per coordinà u travagliu inseme cum'è gruppi.
 
-- [Inizià una coop chì pò furnisce una alternativa significativa non corporativa à Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Inizià una coop chì pò furnisce una alternativa significativa non corporativa à Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Facci sapè di qualsiasi alternative per aiutà almenu furnisce una difesa in più strati contra Cloudflare.
 
