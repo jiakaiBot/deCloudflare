@@ -171,10 +171,10 @@ http://crimeflare.eu.org
 - আপনার কি এইচটিটিপিএস শংসাপত্রের দরকার? "লেটস এনক্রিপ্ট" ব্যবহার করুন বা এটি সিএ সংস্থা থেকে কিনুন।
 
 - আপনার কি ডিএনএস সার্ভার দরকার? আপনার নিজের সার্ভার সেট আপ করতে পারবেন না? তাদের সম্পর্কে কীভাবে: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (আপনি যদি টিওআর ব্যবহার করেন তবে প্রশাসক আপনার অ্যাকাউন্ট মুছুন)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - হোস্টিং পরিষেবা খুঁজছেন? শুধু বিনামূল্যে? তাদের সম্পর্কে কীভাবে: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [ক্লাউডফ্লেয়ারের বিকল্পগুলি](../subfiles/alternative.cloudflare.md)
+  - [ক্লাউডফ্লেয়ারের বিকল্পগুলি](../subfiles/alternative/cloudflare.md)
 
 - আপনি কি "ক্লাউডফ্লেয়ার-ipfs.com" ব্যবহার করছেন? [আপনি কি জানেন ক্লাউডফ্লেয়ার আইপিএফস খারাপ?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - যেখানে উপযুক্ত হবে, এই ভাণ্ডারগুলিতে এই গোষ্ঠীর সাথে লিঙ্ক করুন - এটি গ্রুপ হিসাবে একসাথে কাজ করার জন্য সমন্বয় করার জায়গা হতে পারে।
 
-- [এমন একটি কওপ শুরু করুন যা ক্লাউডফ্লেয়ারের একটি অর্থপূর্ণ নন কর্পোরেট বিকল্প সরবরাহ করতে পারে।](../subfiles/alternative.cloudflare.md)
+- [এমন একটি কওপ শুরু করুন যা ক্লাউডফ্লেয়ারের একটি অর্থপূর্ণ নন কর্পোরেট বিকল্প সরবরাহ করতে পারে।](../subfiles/alternative/cloudflare.md)
 
 - কমপক্ষে ক্লাউডফ্লেয়ারের বিরুদ্ধে একাধিক স্তরযুক্ত প্রতিরক্ষা সরবরাহ করতে সহায়তা করার কোনও বিকল্প সম্পর্কে আমাদের আমাদের জানা যাক।
 
