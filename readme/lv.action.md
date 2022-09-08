@@ -171,10 +171,10 @@ Ja Cloudflare nopludina jūsu informāciju vai neļaus jums izveidot savienojumu
 - Vai jums ir nepieciešams HTTPS sertifikāts? Izmantojiet “Let's Encrypt” vai vienkārši iegādājieties to CA uzņēmumā.
 
 - Vai jums ir nepieciešams DNS serveris? Vai nevarat izveidot savu serveri? Kā ar viņiem: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Administrators dzēš jūsu kontu, ja izmantojat TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Vai meklējat mitināšanas pakalpojumu? Tikai bez maksas? Kā ar viņiem: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatīvas Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternatīvas Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Vai izmantojat vietni "cloudflare-ipfs.com"? [Vai jūs zināt, ka Cloudflare IPFS ir slikta?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Tāpēc mēs iesakām tikai iepriekš minēto tabulu. Nekas cits.
 
 - Vajadzības gadījumā saite uz šīm repozitorija grupām - tā var būt vieta, kur koordinēt kopīgu darbu kā grupām.
 
-- [Sāciet sadarbību, kas var sniegt nozīmīgu, nevis korporatīvu alternatīvu Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Sāciet sadarbību, kas var sniegt nozīmīgu, nevis korporatīvu alternatīvu Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Informējiet mūs par visām alternatīvām, kas palīdzētu vismaz nodrošināt daudzslāņu aizsardzību pret Cloudflare.
 
