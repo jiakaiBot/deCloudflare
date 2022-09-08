@@ -41,6 +41,20 @@
           "update_hash": "sha256:94e7134b2d129877cdf1c40bc9d9cc447b4fca95b8dcaf6db58cf74ed4c25b2e"
         }
       ]
+    },
+    "bcma2@addon.crimeflare.eu.org": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "91.0"
+            }
+          },
+          "version": "1.0.0",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/bcma.xpi?cc3e272cd73e005f3cdf8de6279854fd72336e01dbd353314b9fe1159d9a80fe",
+          "update_hash": "sha256:cc3e272cd73e005f3cdf8de6279854fd72336e01dbd353314b9fe1159d9a80fe"
+        }
+      ]
     }
   }
 }
