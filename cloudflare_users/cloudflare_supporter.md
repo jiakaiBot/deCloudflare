@@ -2868,6 +2868,7 @@ Do not create new issue or we will close it as duplicate.
 | [HannibalNetwork@twitter](https://twitter.com/HannibalNetwork/status/1546062155077881856) | advertise |
 | [HannZarni@twitter](https://twitter.com/HannZarni/status/1391730587866517512) | advertise |
 | [Hanoi191@twitter](https://twitter.com/Hanoi191/status/1553117355525701632) | advertise |
+| [HANSKZ94935804@twitter](https://twitter.com/HANSKZ94935804/status/1567846423793700868) | advertise |
 | [HanSoeKyaw3@twitter](https://twitter.com/HanSoeKyaw3/status/1389948031680749573) | advertise |
 | [HanSoeThet4@twitter](https://twitter.com/HanSoeThet4/status/1389911744122867717) | advertise |
 | [hansulwin8@twitter](https://twitter.com/hansulwin8/status/1391304251087929344) | advertise |
@@ -4343,8 +4344,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
