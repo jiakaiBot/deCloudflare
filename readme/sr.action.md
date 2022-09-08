@@ -171,10 +171,10 @@ http://crimeflare.eu.org
 - Да ли вам треба ХТТПС сертификат? Користите „Лет'с Енцрипт“ или га једноставно купите од компаније ЦА.
 
 - Да ли вам треба ДНС сервер? Не можете да подесите сопствени сервер? Шта кажеш на њих: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Администратор ће избрисати ваш налог ако користите ТОР)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Тражите услугу хостинга? Само бесплатно? Шта кажеш на њих: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Алтернативе Цлоудфларе-у](../subfiles/alternative.cloudflare.md)
+  - [Алтернативе Цлоудфларе-у](../subfiles/alternative/cloudflare.md)
 
 - Да ли користите „цлоудфларе-ипфс.цом“? [Да ли знате да је Цлоудфларе ИПФС лош?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - По потреби, повежите се са овим групама у овом спремишту - ово може бити место за координацију заједничког рада као групе.
 
-- [Оснујте кооперацију која може пружити значајну некорпоративну алтернативу Цлоудфларе-у.](../subfiles/alternative.cloudflare.md)
+- [Оснујте кооперацију која може пружити значајну некорпоративну алтернативу Цлоудфларе-у.](../subfiles/alternative/cloudflare.md)
 
 - Обавестите нас о било којим алтернативама које ће вам помоћи да пружимо барем вишеслојну одбрану од Цлоудфларе-а.
 
