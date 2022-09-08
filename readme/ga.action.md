@@ -171,10 +171,10 @@ Má sceitheann Cloudflare do chuid faisnéise nó mura ligfidh sé duit ceangal 
 - An bhfuil teastas HTTPS uait? Úsáid "Let's Encrypt" nó díreach é a cheannach ón gcuideachta CA.
 
 - An bhfuil freastalaí DNS de dhíth ort? Ní féidir do fhreastalaí féin a chur ar bun? Cad mar gheall orthu: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Scrios Riarachán do chuntas má úsáideann tú TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Ag lorg seirbhíse óstála? Saor in aisce amháin? Cad mar gheall orthu: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Roghanna malartacha ar Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Roghanna malartacha ar Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - An bhfuil tú ag úsáid "cloudflare-ipfs.com"? [An bhfuil a fhios agat go bhfuil Cloudflare IPFS go dona?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Dá bhrí sin molaimid thuas tábla amháin. Tada eile.
 
 - Nuair is iomchuí, déan nasc leis na grúpaí seo ar an stór seo - is áit é seo chun oibriú le chéile mar ghrúpaí a chomhordú.
 
-- [Cuir tús le coop a fhéadfaidh rogha neamh-chorparáideach brí a sholáthar do Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Cuir tús le coop a fhéadfaidh rogha neamh-chorparáideach brí a sholáthar do Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Cuir in iúl dúinn faoi aon roghanna eile chun cabhrú le cosaint ilchisealach a sholáthar i gcoinne Cloudflare ar a laghad.
 
