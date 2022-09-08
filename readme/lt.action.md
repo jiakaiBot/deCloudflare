@@ -171,10 +171,10 @@ Jei „Cloudflare“ nutekina jūsų informaciją arba neleidžia prisijungti pr
 - Ar jums reikia HTTPS sertifikato? Naudokitės „Užšifruokime“ arba tiesiog nusipirkite iš CA įmonės.
 
 - Ar jums reikia DNS serverio? Negalite nustatyti savo serverio? Kaip apie juos: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Administratorius ištrinkite savo sąskaitą, jei naudojate TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Ieškote prieglobos paslaugos? Tik nemokama? Kaip apie juos: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [„Cloudflare“ alternatyvos](../subfiles/alternative.cloudflare.md)
+  - [„Cloudflare“ alternatyvos](../subfiles/alternative/cloudflare.md)
 
 - Ar naudojate „cloudflare-ipfs.com“? [Ar žinote, kad „Cloudflare“ IPFS yra blogas?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Todėl mes rekomenduojame tik aukščiau pateiktą lentelę. Nieko daugiau.
 
 - Kur tinkama, susiekite su šiomis šioje saugykloje esančiomis grupėmis - tai gali būti vieta koordinuoti darbą kartu kaip grupės.
 
-- [Pradėkite bendradarbiavimą, kuris galėtų suteikti reikšmingą ne „Cloudflare“ alternatyvą įmonei.](../subfiles/alternative.cloudflare.md)
+- [Pradėkite bendradarbiavimą, kuris galėtų suteikti reikšmingą ne „Cloudflare“ alternatyvą įmonei.](../subfiles/alternative/cloudflare.md)
 
 - Praneškite mums apie visas alternatyvas, kurios padėtų bent jau užtikrinti daugiasluoksnę apsaugą nuo „Cloudflare“.
 
