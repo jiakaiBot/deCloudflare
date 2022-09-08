@@ -171,10 +171,10 @@ Ha a Cloudflare kiszivárogtatja adatait, vagy nem engedi, hogy csatlakozzon sze
 - Szüksége van HTTPS tanúsítványra? Használja a "Let's Encrypt" -t, vagy csak vásárolja meg a CA cégtől.
 
 - Szüksége van DNS szerverre? Nem tudja beállítani a saját szerverét? Mi lenne velük: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Az adminisztrátor törölje a fiókját, ha a TOR-t használja)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Tárhelyszolgáltatást keres? Csak ingyen? Mi lenne velük: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [A Cloudflare alternatívái](../subfiles/alternative.cloudflare.md)
+  - [A Cloudflare alternatívái](../subfiles/alternative/cloudflare.md)
 
 - A "cloudflare-ipfs.com" címet használja? [Tudja, hogy a Cloudflare IPFS rossz?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Ezért csak a fenti táblázatban ajánljuk. Semmi más.
 
 - Adott esetben kapcsolja össze ezen adattár ezen csoportjait - ez lehet a hely a csoportos együttműködés koordinálására.
 
-- [Indítson együttműködést, amely a Cloudflare nem vállalati alternatíváját kínálja.](../subfiles/alternative.cloudflare.md)
+- [Indítson együttműködést, amely a Cloudflare nem vállalati alternatíváját kínálja.](../subfiles/alternative/cloudflare.md)
 
 - Mondjon nekünk bármilyen alternatívát, amely legalább többrétegű védelmet nyújt a Cloudflare ellen.
 
