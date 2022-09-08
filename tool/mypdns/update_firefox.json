@@ -9,8 +9,8 @@
             }
           },
           "version": "1.0.0",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/reporter/addon/firefox/addon.xpi?xxxxxxxxxxxx",
-          "update_hash": "sha256:xxxxxxxxxxxx"
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/reporter/addon/firefox/addon.xpi?16c5ef9ccc7ecc5d97077bda3bab45cbf9c650d11ef0fc73a4e773d385dedee3",
+          "update_hash": "sha256:16c5ef9ccc7ecc5d97077bda3bab45cbf9c650d11ef0fc73a4e773d385dedee3"
         }
       ]
     },
@@ -22,9 +22,9 @@
               "strict_min_version": "91.0"
             }
           },
-          "version": "1.0.0",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/defender/addon/firefox/addon.xpi?xxxxxxxxxxxx",
-          "update_hash": "sha256:xxxxxxxxxxxx"
+          "version": "1.0.0.1",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/defender/addon/firefox/addon.xpi?5d899422c663c0473799c01345cee05010a55e1a630c805581aa39c1e0894fb1",
+          "update_hash": "sha256:5d899422c663c0473799c01345cee05010a55e1a630c805581aa39c1e0894fb1"
         }
       ]
     }
