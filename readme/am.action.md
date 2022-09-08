@@ -171,10 +171,10 @@ Cloudflare መረጃዎን የሚያፈሰው ከሆነ ወይም ከአገል�
 - የኤችቲቲፒፒኤስ የምስክር ወረቀት ይፈልጋሉ? "እንስጥ እናመስጥር" ን ይጠቀሙ ወይም በቃ ከኤ ሲ ኩባንያ ይግዙት።
 
 - የዲ ኤን ኤስ አገልጋይ ይፈልጋሉ? የራስዎን አገልጋይ ማቋቋም አልተቻለም? ስለእነሱ እንዴት: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (አስተዳዳሪ TOR ን የሚጠቀሙ ከሆነ መለያዎን ይሰርዙ)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - የአስተናጋጅ አገልግሎት ይፈልጋሉ? ነፃ ብቻ? ስለእነሱ እንዴት: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [ለ Cloudflare አማራጮች](../subfiles/alternative.cloudflare.md)
+  - [ለ Cloudflare አማራጮች](../subfiles/alternative/cloudflare.md)
 
 - "Cloudflare-ipfs.com" ን እየተጠቀሙ ነው? [Cloudflare IPFS መጥፎ መሆኑን ያውቃሉ?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - ተገቢ በሚሆንበት ጊዜ በዚህ ማከማቻ ላይ ከእነዚህ ቡድኖች ጋር ያገናኙ - ይህ በቡድን ሆነው አብሮ ለመስራት የሚያስተባብር ቦታ ሊሆን ይችላል ፡፡
 
-- [ከ Cloudflare ጋር ትርጉም ያለው የኮርፖሬት አማራጭን ሊያቀርብ የሚችል ኮፖን ይጀምሩ ፡፡](../subfiles/alternative.cloudflare.md)
+- [ከ Cloudflare ጋር ትርጉም ያለው የኮርፖሬት አማራጭን ሊያቀርብ የሚችል ኮፖን ይጀምሩ ፡፡](../subfiles/alternative/cloudflare.md)
 
 - ከ Cloudflare ጋር ቢያንስ ብዙ የተደረደሩ መከላከያዎችን ለማቅረብ የሚረዱ ማናቸውም አማራጮችን ያሳውቁን።
 
