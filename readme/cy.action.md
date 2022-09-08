@@ -171,10 +171,10 @@ Os yw Cloudflare yn gollwng eich gwybodaeth neu na fydd yn gadael ichi gysylltu 
 - Oes angen tystysgrif HTTPS arnoch chi? Defnyddiwch "Dewch i Amgryptio" neu dim ond ei brynu gan gwmni CA.
 
 - Oes angen gweinydd DNS arnoch chi? Methu sefydlu'ch gweinydd eich hun? Beth amdanyn nhw: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Gweinyddiaeth dileu eich cyfrif os ydych chi'n defnyddio TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Chwilio am wasanaeth cynnal? Am ddim yn unig? Beth amdanyn nhw: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Dewisiadau amgen i Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Dewisiadau amgen i Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Ydych chi'n defnyddio "cloudflare-ipfs.com"? [Ydych chi'n gwybod bod Cloudflare IPFS yn ddrwg?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Felly rydym yn argymell uchod y tabl yn unig. Dim byd arall.
 
 - Lle bo hynny'n briodol, cysylltwch â'r grwpiau hyn ar yr ystorfa hon - gall hwn fod yn lle i gydlynu gweithio gyda'n gilydd fel grwpiau.
 
-- [Dechreuwch gwt a all ddarparu dewis amgen anghorfforaethol ystyrlon i Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Dechreuwch gwt a all ddarparu dewis amgen anghorfforaethol ystyrlon i Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Gadewch inni wybod am unrhyw ddewisiadau amgen i helpu o leiaf i ddarparu amddiffyniad haenog lluosog yn erbyn Cloudflare.
 
