@@ -1,7 +1,7 @@
 gsel 0,-1
 onerror *bye
 onexit *leave
-#define SELF_VER "1.0.1"
+#define SELF_VER "1.0.1.1"
 #define SELF_NAME "My Privacy DNS Reporter"
 #define CONF_FILE "mypdns.conf"
 title SELF_NAME
@@ -99,8 +99,8 @@ font "Segoe UI",15:objmode 2,1
 _dnc=0
 _url=""
 _cat=0
-_cats="-\nAdware\nDrugs\nGambling\nGore\nMalicious\nMovies\nNews\nPhishing\nPolitics\nPorn\nPorn (Strict)\nRedirector\nReligion\nScamming\nSnuff\nSpyware\nTorrent\nTracking\nTypo Squatting\nWeapons"
-_catsREAL="-\nadware\ndrugs\ngambling\nporngore\nmalicious\nmovies\nnews\nphishing\npolitics\nporn\npornstrict\nredirector\nreligion\nscamming\npornsnuff\nspyware\ntorrent\ntracking\ntyposquatting\nweapons"
+_cats="-\nAdware\nDrugs\nGambling\nGore\nMalicious\nMovies\nNews\nPhishing\nPirated\nPolitics\nPorn\nPorn (Strict)\nUrl Shortener\nReligion\nScamming\nSnuff\nSpyware\nTorrent\nTracking\nTypo Squatting\nWeapons"
+_catsREAL="-\nadware\ndrugs\ngambling\nporngore\nmalicious\nmovies\nnews\nphishing\npirated\npolitics\nporn\npornstrict\nredirector\nreligion\nscamming\npornsnuff\nspyware\ntorrent\ntracking\ntyposquatting\nweapons"
 _msg=""
 _nfo="Version "+SELF_VER
 pos 10,10:picload "link.png",1
