@@ -171,10 +171,10 @@ AFAIK, нуль сайты моны эшли. Сез аларга ышанырс
 - Сезгә HTTPS сертификаты кирәкме? "Шифрлыйк" кулланыгыз яки аны CA компаниясеннән сатып алыгыз.
 
 - Сезгә DNS серверы кирәкме? Ownз серверыгызны урнаштыра алмыйсызмы? Алар турында: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (ТОР куллансагыз, администратор счетыгызны бетерегез)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Хостинг хезмәтен эзлисезме? Бушлай гына? Алар турында: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Cloudflare өчен альтернатива](../subfiles/alternative.cloudflare.md)
+  - [Cloudflare өчен альтернатива](../subfiles/alternative/cloudflare.md)
 
 - Сез "cloudflare-ipfs.com" кулланасызмы? [Cloudflare IPFS начар икәнен беләсезме?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - Кирәк булган очракта, бу резервуардагы бу төркемнәргә сылтама - бу төркемнәр булып бергә эшләүне координацияләү урыны булырга мөмкин.
 
-- [Cloudflare'ка мәгънәле корпоратив булмаган альтернатива бирә ала торган кәүсәне эшләтеп җибәрү.](../subfiles/alternative.cloudflare.md)
+- [Cloudflare'ка мәгънәле корпоратив булмаган альтернатива бирә ала торган кәүсәне эшләтеп җибәрү.](../subfiles/alternative/cloudflare.md)
 
 - Cloudflare-дан ким дигәндә берничә катлы оборона тәэмин итәр өчен, безгә альтернатива турында хәбәр итегез.
 
