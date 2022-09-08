@@ -171,10 +171,10 @@ Raha mamoaka ny mombamomba anao i Cloudflare na tsy mamela anao hifandray amin'i
 - Mila fanamarinana HTTPS ve ianao? Ampiasao ny "Let's Encrypt" na hividy izany amin'ny orinasa CA fotsiny.
 
 - Mila mpizara DNS ve ianao? Tsy afaka manangana mpizara anao manokana? Ahoana ny amin'izy ireo: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Hamafa ny kaontinao raha mampiasa TOR ianao)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Mitady serivisy fampiantranoana? Maimaimpoana fotsiny? Ahoana ny amin'izy ireo: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Solon'ny Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Solon'ny Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Mampiasa "cloudflare-ipfs.com" ve ianao? [Fantatrao ve fa ratsy ny Cloudflare IPFS?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Noho izany dia manoro hevitra ny ambony latabatra ihany izahay. Tsy misy zavatra
 
 - Raha mety dia ampifandraiso amin'ireto vondrona ireto ao amin'ity tahiry ity - ity dia mety ho toerana handrindrana ny fiaraha-miasa miaraka amin'ny vondrona.
 
-- [Manomboha coop izay afaka manome safidy hafa tsy miankina amin'ny Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Manomboha coop izay afaka manome safidy hafa tsy miankina amin'ny Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Ampahafantaro anay ny fomba hafa azo hanampiana farafaharatsiny mba hiarovan-tena amin'ny sosona Cloudflare.
 
