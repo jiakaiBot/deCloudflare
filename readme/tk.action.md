@@ -171,10 +171,10 @@ AFAIK, nol web sahypasy muny edýär. Olara ynanarsyňyzmy?
 - Size HTTPS şahadatnamasy gerekmi? "Şifrläliň" ulanyň ýa-da diňe CA kompaniýasyndan satyn alyň.
 
 - DNS serweri gerekmi? Öz serweriňizi gurup bilenokmy? Olar hakda nähili?: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (TOR ulanýan bolsaňyz, hasabyňyzy pozuň)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Hosting hyzmatyny gözleýärsiňizmi? Diňe mugt? Olar hakda nähili?: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [“Cloudflare” üçin alternatiwalar](../subfiles/alternative.cloudflare.md)
+  - [“Cloudflare” üçin alternatiwalar](../subfiles/alternative/cloudflare.md)
 
 - "Cloudflare-ipfs.com" ulanýarsyňyzmy? [Cloudflare IPFS-iň erbetdigini bilýärsiňizmi?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Beýleki programma üpjünçiliginiň gizlinligi barada gürleşeliň.
 
 - Zerur bolan ýagdaýynda, bu ammarda bu toparlara baglanyşyň - bu topar bolup bilelikde işlemegi utgaşdyrmak üçin ýer bolup biler.
 
-- [“Cloudflare” -niň manyly däl alternatiwasyny üpjün edip biljek bir kärhana başlaň.](../subfiles/alternative.cloudflare.md)
+- [“Cloudflare” -niň manyly däl alternatiwasyny üpjün edip biljek bir kärhana başlaň.](../subfiles/alternative/cloudflare.md)
 
 - Iň bolmanda “Cloudflare” -den birnäçe gatlakly goragy üpjün etmek üçin islendik alternatiwany bileliň.
 
