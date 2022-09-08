@@ -171,10 +171,10 @@ Nëse Cloudflare rrjedh informacionin tuaj ose nuk ju lejon të lidheni me serve
 - Keni nevojë për certifikatë HTTPS? Përdorni "Le të Encrypt" ose thjesht blini atë nga kompania CA.
 
 - Keni nevojë për serverin DNS? Nuk mund të konfiguroni serverin tuaj? Po në lidhje me ta: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin fshi llogarinë tuaj nëse përdorni TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Po kërkoni shërbim pritës? Vetëm falas? Po në lidhje me ta: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternativa për Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternativa për Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Po përdorni "cloudflare-ipfs.com"? [A e dini se Cloudflare IPFS është e keqe?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Prandaj ne rekomandojmë vetëm mbi tabelën. Asgje tjeter.
 
 - Kur është e përshtatshme, lidhuni me këto grupe në këtë depo - ky mund të jetë një vend për koordinimin e punës së bashku si grupe.
 
-- [Filloni një bashkëpunim që mund të sigurojë një alternativë kuptimplotë jo të korporatave ndaj Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Filloni një bashkëpunim që mund të sigurojë një alternativë kuptimplotë jo të korporatave ndaj Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Na tregoni për çdo alternativë për të ndihmuar të paktën të siguroni mbrojtje me shumë shtresa kundër Cloudflare.
 
