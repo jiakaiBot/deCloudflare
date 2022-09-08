@@ -171,10 +171,10 @@ Pokud Cloudflare odhalí vaše informace nebo vám nedovolí připojit se k naš
 - Potřebujete certifikát HTTPS? Použijte možnost „Pojďme zašifrovat“ nebo ji jednoduše zakoupte od společnosti CA.
 
 - Potřebujete server DNS? Nemůžete nastavit svůj vlastní server? A co ty: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Správce smaže váš účet, pokud používáte TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Hledáte hostingové služby? Pouze zdarma? A co ty: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternativy k Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternativy k Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Používáte web „cloudflare-ipfs.com“? [Víte, že Cloudflare IPFS je špatný?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Proto doporučujeme pouze výše uvedenou tabulku. Nic jiného.
 
 - Pokud je to vhodné, propojte tyto skupiny v tomto úložišti - toto může být místo pro koordinaci spolupráce ve skupinách.
 
-- [Založte družstvo, které může poskytnout smysluplnou nefiremní alternativu k Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Založte družstvo, které může poskytnout smysluplnou nefiremní alternativu k Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Dejte nám vědět o jakýchkoli alternativách, které vám pomohou alespoň poskytnout vícevrstvou obranu proti Cloudflare.
 
