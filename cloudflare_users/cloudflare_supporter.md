@@ -2464,6 +2464,7 @@ Do not create new issue or we will close it as duplicate.
 | [faucetbch@twitter](https://twitter.com/faucetbch/status/1416471725643075589) | advertise |
 | [Fauzan85586001@twitter](https://twitter.com/Fauzan85586001/status/1403997313991811072) | advertise |
 | [fauzanwahid@twitter](https://twitter.com/fauzanwahid/status/1519531527608352769) | advertise |
+| [fawadbgmbgm44@twitter](https://twitter.com/fawadbgmbgm44/status/1567890249459683333) | advertise |
 | [Fawuioo@twitter](https://twitter.com/Fawuioo/status/1485262753858269188) | advertise |
 | [Fazian47524484@twitter](https://twitter.com/Fazian47524484/status/1400881570408394753) | advertise |
 | [FbworlNews@twitter](https://twitter.com/FbworlNews/status/1401094204743372800) | advertise |
