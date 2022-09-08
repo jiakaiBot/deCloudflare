@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [saidit.net either dropped or SSL certificate expired](https://github.com/libertysoft3/saidit/issues/125)
 - [Please consider removing CloudFlare](https://github.com/DistriNet/tranco-list/issues/12)
 - [Cant enter 4chan boards or post because of cloudflare](https://github.com/Mishiranu/Dashchan/issues/330)
 - [HEALTHCHECK passes even when unbound can't resolve addresses](https://github.com/MatthewVance/unbound-docker/issues/112)
