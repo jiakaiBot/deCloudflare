@@ -171,10 +171,10 @@ You kwenyekwara ịkekọrịta data gị na Cloudflare ma kwenye na nkwupụta 
 - Need chọrọ akwụkwọ HTTPS? Jiri "Ka anyị zoo" ma ọ bụ naanị zụta ya n'aka ụlọ ọrụ CA.
 
 - Need chọrọ sava DNS? Enweghị ike ịtọ ntọala sava gị? Kedu maka ha: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin hichapụ akaụntụ gị ma ọ bụrụ na ị na-eji TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Na-achọ ọrụ nnabata? Nwere naanị? Kedu maka ha: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Ndị ọzọ na Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Ndị ọzọ na Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Are na-eji "cloudflare-ipfs.com"? [Ma Cloudflare IPFS adịghị mma?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Ya mere, anyị nwere ike ikwu n'elu table naanị. Ọ dịghị ihe ọzọ.
 
 - N'ebe o kwesiri, jikọta ndị otu a na ebe nchekwa a - nke a nwere ike ịbụ ebe maka ịhazi ọrụ ọnụ dịka otu.
 
-- [Bido igwe onu ahia nke puru inye ulo oru ndi ozo na Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Bido igwe onu ahia nke puru inye ulo oru ndi ozo na Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Mee ka anyi mata uzo ozo o bula iji nyere aka n’iru inye otutu nchekwa n’iru Cloudflare.
 
