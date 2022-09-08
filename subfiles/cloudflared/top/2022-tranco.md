@@ -1,7 +1,7 @@
 ## How many % of top 1 million most visited sites(2022) are using Cloudflare today?
 
 
-- [Tranco](https://web.archive.org/web/20220907065210/https://tranco-list.eu/)
+- [Tranco](https://github.com/DistriNet/tranco-list/)
 ```
 Researchers in web security or Internet measurements often use rankings of popular websites. However, in our paper we showed that these rankings disagree on which domains are most popular, can change significantly on a daily basis and can be manipulated (by malicious actors).
 
