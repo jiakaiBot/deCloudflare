@@ -19,7 +19,7 @@ its own code of conduct, terms of service, privacy options, and moderation polic
   - [Mastodon - Top 10 Most Used Language](shared_mastodon.md#mastodon-top-10-most-used-language)
   - [Mastodon - Top 10 Most Used Servers](shared_mastodon.md#mastodon-top-10-most-used-servers)
   - [Summary](shared_mastodon.md#summary)
-- ↳ **Stop Sharing Cloudflare Links**! Follow [Alternative Link](../service.altlink.md)
+- ↳ **Stop Sharing Cloudflare Links**! Follow [Alternative Link](../service/altlink.md)
 
 ----
 
