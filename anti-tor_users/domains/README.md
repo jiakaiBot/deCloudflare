@@ -31,7 +31,7 @@
 
 # Using the list
 
-  - [Karma API](../../subfiles/service.karma_api.md)
+  - [Karma API](../../subfiles/service/karma_api.md)
   - [API files for IsMM/IsAT Add-ons](../../tool/api_for_ismm_isat/README.md)
 
 
