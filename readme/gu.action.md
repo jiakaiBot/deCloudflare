@@ -171,10 +171,10 @@ http://crimeflare.eu.org
 - શું તમને HTTPS પ્રમાણપત્રની જરૂર છે? "લેટ્સ એન્ક્રિપ્ટ" નો ઉપયોગ કરો અથવા તેને સીએ કંપની પાસેથી ખરીદો.
 
 - શું તમને DNS સર્વરની જરૂર છે? તમારા પોતાના સર્વરને સેટ કરી શકતા નથી? કેવી રીતે તેમના વિશે: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (જો તમે TOR નો ઉપયોગ કરો છો તો એડમિન તમારું એકાઉન્ટ કા deleteી નાંખો)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - હોસ્ટિંગ સેવા જોઈએ છે? ફક્ત મફત? કેવી રીતે તેમના વિશે: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [ક્લાઉડફ્લેરે માટે વિકલ્પો](../subfiles/alternative.cloudflare.md)
+  - [ક્લાઉડફ્લેરે માટે વિકલ્પો](../subfiles/alternative/cloudflare.md)
 
 - શું તમે "ક્લાઉડફ્લેર-ipfs.com" નો ઉપયોગ કરી રહ્યાં છો? [શું તમે જાણો છો ક્લાઉડફ્લેર આઇપીએફએસ ખરાબ છે?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - જ્યાં યોગ્ય હોય, ત્યાં આ જૂથોને આ ભંડાર પર કડી કરો - જૂથો તરીકે મળીને કાર્ય કરવા માટે સંકલન માટે આ એક સ્થળ હોઈ શકે છે.
 
-- [એક કૂપ પ્રારંભ કરો જે ક્લાઉડફ્લેર માટે અર્થપૂર્ણ ન corporateન કોર્પોરેટ વિકલ્પ પ્રદાન કરી શકે.](../subfiles/alternative.cloudflare.md)
+- [એક કૂપ પ્રારંભ કરો જે ક્લાઉડફ્લેર માટે અર્થપૂર્ણ ન corporateન કોર્પોરેટ વિકલ્પ પ્રદાન કરી શકે.](../subfiles/alternative/cloudflare.md)
 
 - અમને ઓછામાં ઓછા ક્લાઉડફ્લેર સામે બહુવિધ સ્તરવાળી સંરક્ષણ પ્રદાન કરવામાં મદદ કરવા માટેના કોઈપણ વિકલ્પો વિશે જણાવીએ.
 
