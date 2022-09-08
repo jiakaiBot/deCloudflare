@@ -171,10 +171,10 @@ Sekiranya Cloudflare membocorkan maklumat anda atau tidak membenarkan anda menya
 - Adakah anda memerlukan sijil HTTPS? Gunakan "Let's Encrypt" atau beli dari syarikat CA.
 
 - Adakah anda memerlukan pelayan DNS? Tidak dapat menyediakan pelayan anda sendiri? Bagaimana dengan mereka: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Pentadbir memadamkan akaun anda jika anda menggunakan TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Mencari perkhidmatan hosting? Percuma sahaja? Bagaimana dengan mereka: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatif untuk Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternatif untuk Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Adakah anda menggunakan "cloudflare-ipfs.com"? [Adakah anda tahu Cloudflare IPFS buruk?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Oleh itu, kami mencadangkan jadual di atas sahaja. Tiada lagi.
 
 - Sekiranya sesuai, pautan ke kumpulan ini di repositori ini - ini boleh menjadi tempat untuk menyelaraskan kerja sama sebagai kumpulan.
 
-- [Mulakan kerjasama yang dapat memberikan alternatif bukan korporat yang bermakna untuk Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Mulakan kerjasama yang dapat memberikan alternatif bukan korporat yang bermakna untuk Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Beri tahu kami tentang sebarang alternatif untuk membantu sekurang-kurangnya memberikan pertahanan berlapis terhadap Cloudflare.
 
