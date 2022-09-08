@@ -171,10 +171,10 @@ A faʻapea e faʻasalalau e le Cloudflare au faʻamatalaga pe le tuʻuina oe e f
 - E te manaʻomia le tusi faʻamaonia HTTPS? Faʻaaoga le "Let's Encrypt" pe naʻo le faʻatau mai le kamupani CA.
 
 - E te manaʻomia le DNS server? Le mafai ona seti sau oe lava server? Faʻafefea latou: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Faʻataʻiese e lau pulega lau teuga tupe pe a e faʻaaogaina le TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Vaʻai mo talimalo tautua? Naʻo le avanoa? Faʻafefea latou: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Suiga i Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Suiga i Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - O e faʻaaogaina le "cloudflare-ipfs.com"? [E te iloa Cloudflare IPFS e leaga?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ O le mea lea matou te fautua atu luga naʻo le laulau. E leai se isi mea
 
 - A talafeagai, fesoʻotaʻi i nei kulupu i luga o lenei fale teu oloa - o lenei mafai ona avea ma nofoaga mo le faʻamaopoopoina galulue faʻatasi o ni kulupu.
 
-- [Amata se faleoloa e mafai ona maua ai se aoga le faʻavae auala i Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Amata se faleoloa e mafai ona maua ai se aoga le faʻavae auala i Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Faʻailoa ia matou se isi auala e fesoasoani ai ia le itiiti ifo i le tuʻuina atu o ni lapisi puipuiga e puipuia ai Cloudflare.
 
