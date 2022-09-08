@@ -6,10 +6,10 @@
 ---
 
 - Add-ons
-  - [Block Cloudflare MITM Attack](about.bcma.md)
-  - [Will these links block Tor user?](about.isat.md)
-  - [Are links vulnerable to MITM attack?](about.ismm.md)
-  - [Which website rejected me?](about.urjm.md)
+  - [Block Cloudflare MITM Attack](addon/bcma.md)
+  - [Will these links block Tor user?](addon/isat.md)
+  - [Are links vulnerable to MITM attack?](addon/ismm.md)
+  - [Which website rejected me?](addon/urjm.md)
 - Service
   - [Karma API](service.karma_api.md)
   - [IAList](https://ialist.crimeflare.eu.org)
