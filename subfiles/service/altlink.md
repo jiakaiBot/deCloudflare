@@ -3,7 +3,7 @@
 
 | 🖼 | 🖼 |
 | -- | -- |
-| ![](../image/altlink_sample.jpg) | ![](../image/altlink_suggest.jpg) |
+| ![](../../image/altlink_sample.jpg) | ![](../../image/altlink_suggest.jpg) |
 
 
 This is `opt-in` service.
@@ -14,13 +14,13 @@ Currently MitiGator is helping _6_ users from preventing sharing inaccessible li
 
 
 - Contents
-  - [A little history](service.altlink.md#a-little-history)
-  - [How to Subscribe](service.altlink.md#how-to-subscribe)
-  - [How to Unsubscribe](service.altlink.md#how-to-unsubscribe)
-  - [Suggest clean alternatives](service.altlink.md#suggest-clean-alternatives)
-  - [Report a problem / Create an Issue](service.altlink.md#report-a-problem-create-an-issue)
-  - [Settings](service.altlink.md#settings)
-  - [Download PNG Logo](service.altlink.md#download-png-logo)
+  - [A little history](altlink.md#a-little-history)
+  - [How to Subscribe](altlink.md#how-to-subscribe)
+  - [How to Unsubscribe](altlink.md#how-to-unsubscribe)
+  - [Suggest clean alternatives](altlink.md#suggest-clean-alternatives)
+  - [Report a problem / Create an Issue](altlink.md#report-a-problem-create-an-issue)
+  - [Settings](altlink.md#settings)
+  - [Download PNG Logo](altlink.md#download-png-logo)
 
 
 ----
@@ -47,12 +47,12 @@ Pointing to a copy rather than the original document if it's still online is bad
 
 They got annoyed and Mastodon server owner was pressured by their "spam" reports.
 
-One of Mastodon server owner once [said](../tool/mastodonwch#some-public-reaction), "_your little protest bot is making people upset, and i'm worried it might cause people to defederate from the instance, please tone it down_."
+One of Mastodon server owner once [said](../../tool/mastodonwch#some-public-reaction), "_your little protest bot is making people upset, and i'm worried it might cause people to defederate from the instance, please tone it down_."
 
 For the record "_CloudflareLink_" was moved to other Mastodon servers 3 times and banned 2 times by 2 Mastodon services until the Anonymous decided to given up for good.
 
 The main difference of AltLink is `opt-in`.
-Those people who [share Cloudflare links casually](cloudflared/shared_mastodon.md) never receive notification until they have a good heart and follow AL.
+Those people who [share Cloudflare links casually](../cloudflared/shared_mastodon.md) never receive notification until they have a good heart and follow AL.
 
 
 ### How to Subscribe
@@ -144,8 +144,8 @@ The mascot wears a referee top and red sash across chest. Above the shield is 'M
 
 | 🖼 | 🖼 | 🖼 | 🖼 |
 | -- | -- | -- | -- |
-| ![](../image/mitigator.png) | ![](../image/mitigatorB.png) | - | - |
-| ![](../image/mitigatorC01.png) | ![](../image/mitigatorC02.png) | ![](../image/mitigatorC03.png) | ![](../image/mitigatorC04.png) |
+| ![](../../image/mitigator.png) | ![](../../image/mitigatorB.png) | - | - |
+| ![](../../image/mitigatorC01.png) | ![](../../image/mitigatorC02.png) | ![](../../image/mitigatorC03.png) | ![](../../image/mitigatorC04.png) |
 
 
 
@@ -153,8 +153,7 @@ The mascot wears a referee top and red sash across chest. Above the shield is 'M
 
 - Mastodon servers are controlled by third party.
   - Let us know if above account is censored by aggressive Cloudflare supporters.
-- ↳ ["Cloudflare, we have a problem" Mastodon](people.mastodon.md)
-- ↳ [How many % of public Fediverse services are using Cloudflare?](cloudflared/fediverse.md)
-- ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared/shared_mastodon.md)
+- ↳ ["Cloudflare, we have a problem" Mastodon](../people.mastodon.md)
+- ↳ [How many % of public Fediverse services are using Cloudflare?](../cloudflared/fediverse.md)
+- ↳ [How many % of links people publicly shared on Mastodon are using Cloudflare?](../cloudflared/shared_mastodon.md)
 
-<a rel="me" href="https://101010.pl/@mg"></a>
