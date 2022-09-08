@@ -171,10 +171,10 @@ Upami Cloudflare ngabocorkeun inpormasi anjeun atanapi henteu ngantep anjeun nya
 - Naha anjeun peryogi sertipikat HTTPS? Anggo "Hayu Énkripsi" atanapi mésér waé ti perusahaan CA.
 
 - Naha anjeun peryogi sérver DNS? Henteu tiasa nyetél sérver anjeun nyalira? Kumaha upami aranjeunna: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Admin hapus akun anjeun upami anjeun nganggo TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Milarian jasa hosting? Gratis waé? Kumaha upami aranjeunna: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Alternatipna pikeun Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Alternatipna pikeun Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Naha anjeun nganggo "cloudflare-ipfs.com"? [Naha anjeun terang Cloudflare IPFS goréng?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Kituna kami nyarankeun tabel di luhur waé. Teu aya anu sanés.
 
 - Upami pantes, kaitkeun ka grup ieu dina Repository ieu - ieu tiasa janten tempat pikeun koordinasi damel babarengan salaku grup.
 
-- [Mimitian coop anu tiasa nyayogikeun alternatif anu sanés perusahaan pikeun Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Mimitian coop anu tiasa nyayogikeun alternatif anu sanés perusahaan pikeun Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Hayu urang terang ngeunaan naon waé alternatif pikeun ngabantosan sahenteuna masihan sababaraha pertahanan berlapis ngalawan Cloudflare.
 
