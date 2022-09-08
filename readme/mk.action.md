@@ -171,10 +171,10 @@ Cloudflare имаат своја политика за приватност.
 - Дали ви треба HTTPS сертификат? Користете „Ајде да криптираме“ или само купете го од компанијата CA.
 
 - Дали ви треба ДНС-сервер? Не можете да поставите свој сервер? Како за нив: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Администраторот ја брише вашата сметка ако користите TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Барате хостинг услуга? Само бесплатно? Како за нив: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Алтернативи на Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Алтернативи на Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Дали користите „cloudflare-ipfs.com“? [Дали знаете дека Cloudflare IPFS е лош?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ die();
 
 - Каде што е соодветно, поврзете се со овие групи на ова складиште - ова може да биде место за координирање на заедничката работа како групи.
 
-- [Започнете кокошарник што може да обезбеди значајна некорпоративна алтернатива на Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Започнете кокошарник што може да обезбеди значајна некорпоративна алтернатива на Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Дозволете ни да знаеме за какви било алтернативи за да помогнеме барем во повеќеслојна одбрана од Cloudflare.
 
