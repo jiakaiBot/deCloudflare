@@ -719,6 +719,7 @@ Do not create new issue or we will close it as duplicate.
 | [arr_htun@twitter](https://twitter.com/arr_htun/status/1390092486530404352) | advertise |
 | [arr_khun@twitter](https://twitter.com/arr_khun/status/1394691552241274882) | advertise |
 | [ArsaKaveh@twitter](https://twitter.com/ArsaKaveh/status/1387953460109271041) | advertise |
+| [Arsaln96022254@twitter](https://twitter.com/Arsaln96022254/status/1567737080243175424) | advertise |
 | [ArShin48050365@twitter](https://twitter.com/ArShin48050365/status/1383422252864065541) | advertise |
 | [ArshSin32893074@twitter](https://twitter.com/ArshSin32893074/status/1485148098816983044) | advertise |
 | [Arsian84722563@twitter](https://twitter.com/Arsian84722563/status/1392123750821208068) | advertise |
