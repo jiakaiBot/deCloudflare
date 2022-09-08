@@ -171,10 +171,10 @@ Ef Cloudflare lekur upplýsingum þínum eða leyfir þér ekki að tengjast net
 - Þarftu HTTPS vottorð? Notaðu „Við skulum dulkóða“ eða bara kaupa það frá CA fyrirtæki.
 
 - Þarftu DNS netþjón? Geturðu ekki sett upp þinn eigin netþjón? Hvað með þá: [Hurricane Electric Free DNS](https://dns.he.net/), [Dyn.com](https://dyn.com/dns/), [1984 Hosting](https://www.1984hosting.com/), [Afraid.Org (Stjórnandi eyðir reikningnum þínum ef þú notar TOR)](https://freedns.afraid.org/)
-  - [Alternativoj al DNS](../subfiles/alternative.domaindns.md)
+  - [Alternativoj al DNS](../subfiles/alternative/domaindns.md)
 
 - Ertu að leita að hýsingarþjónustu? Aðeins ókeypis? Hvað með þá: [Onion Service](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion/en/security/network-security/tor/onionservices-best-practices), [Free Web Hosting Area](https://freewha.com/), [Autistici/Inventati Web Site Hosting](https://www.autinv5q6en4gpf4.onion/services/website), [Github Pages](https://pages.github.com/), [Surge](https://surge.sh/)
-  - [Valkostir við Cloudflare](../subfiles/alternative.cloudflare.md)
+  - [Valkostir við Cloudflare](../subfiles/alternative/cloudflare.md)
 
 - Ertu að nota „cloudflare-ipfs.com“? [Veistu að Cloudflare IPFS er slæmt?](../PEOPLE.md)
 
@@ -424,7 +424,7 @@ Við skulum tala um friðhelgi annars hugbúnaðar.
 
 - Tengdu við þessa hópa í þessari geymslu, þar sem við á, - það getur verið staður til að samræma að vinna saman sem hópar.
 
-- [Byrjaðu kofa sem getur veitt þýðingarmikinn valkost fyrir Cloudflare.](../subfiles/alternative.cloudflare.md)
+- [Byrjaðu kofa sem getur veitt þýðingarmikinn valkost fyrir Cloudflare.](../subfiles/alternative/cloudflare.md)
 
 - Láttu okkur vita af einhverjum valkostum sem hjálpa að minnsta kosti að veita margþætta vörn gegn Cloudflare.
 
