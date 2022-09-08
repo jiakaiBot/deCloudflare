@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cant enter 4chan boards or post because of cloudflare](https://github.com/Mishiranu/Dashchan/issues/330)
 - [HEALTHCHECK passes even when unbound can't resolve addresses](https://github.com/MatthewVance/unbound-docker/issues/112)
 - [New: Cloudflare alert rules](https://github.com/samber/awesome-prometheus-alerts/issues/306)
 - [Can resolvers add sock5 proxy mode](https://github.com/folbricht/routedns/issues/264)
