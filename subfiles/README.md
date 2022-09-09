@@ -31,6 +31,7 @@
     - [How many % of top 1 million most visited sites(2021) are using Cloudflare?](cloudflared/top/2021-alexa.md) _Alexa_
     - [How many % of top 1 million most visited sites(2021) are using Cloudflare?](cloudflared/top/2021-cisco.md) _Cisco_
     - [How many % of top 1 million most visited sites(2022) are using Cloudflare?](cloudflared/top/2022-tranco.md) _Tranco_
+    - [How many % of top 1 million most visited sites(2022) are using Cloudflare?](cloudflared/top/2022-majestic.md) _Majestic_
   - How many % of banks & financial institutions are using Cloudflare?
     - [Africa](cloudflared/financial_africa.md)
     - [America](cloudflared/financial_america.md)
