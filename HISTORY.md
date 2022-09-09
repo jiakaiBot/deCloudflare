@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-09-09: [Clientless Browser Isolation Issues in Lisbon](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/h085vc9w92ck)
 - 2022-09-08: [R2 Storage](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rqfn078qp8c1)
 - 2022-09-08: [Cloudflare Custom name servers](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5mmcz5qn3b17)
 - 2022-09-08: [Issues with 1.1.1.3 public resolver](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jgv6r0czdddt)
