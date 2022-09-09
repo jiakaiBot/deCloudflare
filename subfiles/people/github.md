@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Get Uptime Kuma Whitelisted in Cloudflare WAF](https://github.com/louislam/uptime-kuma/issues/2058)
 - [redirects not working in some cases](https://github.com/neonmoe/minreq/issues/79)
 - [saidit.net either dropped or SSL certificate expired](https://github.com/libertysoft3/saidit/issues/125)
 - [Please consider removing CloudFlare](https://github.com/DistriNet/tranco-list/issues/12)
