@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [redirects not working in some cases](https://github.com/neonmoe/minreq/issues/79)
 - [saidit.net either dropped or SSL certificate expired](https://github.com/libertysoft3/saidit/issues/125)
 - [Please consider removing CloudFlare](https://github.com/DistriNet/tranco-list/issues/12)
 - [Cant enter 4chan boards or post because of cloudflare](https://github.com/Mishiranu/Dashchan/issues/330)
