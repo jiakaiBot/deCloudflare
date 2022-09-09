@@ -10169,6 +10169,7 @@ Do not create new issue or we will close it as duplicate.
 | [_DepvaOTP_@twitter](https://twitter.com/_DepvaOTP_/status/1399004303788888067) | advertise |
 | [_htet1@twitter](https://twitter.com/_htet1/status/1390121428360433672) | advertise |
 | [_IvanFlecha@twitter](https://twitter.com/_IvanFlecha/status/1507311637857980417) | advertise |
+| [_Jarvis_here@twitter](https://twitter.com/_Jarvis_here/status/1568301037265760256) | advertise |
 | [_kanybekov@twitter](https://twitter.com/_kanybekov/status/1534247054385549313) | advertise |
 | [_kg7x@twitter](https://twitter.com/_kg7x/status/1540677251687075840) | advertise |
 | [_koijam_@twitter](https://twitter.com/_koijam_/status/1562026667870404609) | advertise |
