@@ -8309,6 +8309,7 @@ Do not create new issue or we will close it as duplicate.
 | [SunK111@twitter](https://twitter.com/SunK111/status/1396399725843152903) | advertise |
 | [sunlay008@twitter](https://twitter.com/sunlay008/status/1395245834372067329) | advertise |
 | [SunnyBh99314504@twitter](https://twitter.com/SunnyBh99314504/status/1496177449138528256) | advertise |
+| [sunnyboy3708@twitter](https://twitter.com/sunnyboy3708/status/1568329887114469377) | advertise |
 | [Sunshin69624226@twitter](https://twitter.com/Sunshin69624226/status/1376928070729224194) | advertise |
 | [Sunshin82243540@twitter](https://twitter.com/Sunshin82243540/status/1392120847972798466) | advertise |
 | [SunShin97584842@twitter](https://twitter.com/SunShin97584842/status/1389530061120831489) | advertise |
