@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,886 |
 | net | 1,666 |
-| social | 1,175 |
+| social | 1,176 |
 | org | 1,140 |
-| de | 995 |
+| de | 996 |
 
 
 - Mastodon, Pleroma, etc
@@ -129,6 +129,7 @@ Here's a list of public Fediverse services.
 | 161.social | No |
 | 161976857.com | No |
 | 1689fellowship.com | Yes |
+| 170908.xyz | Yes |
 | 1745.info | No |
 | 1791.social | Yes |
 | 18kink.com | Yes |
@@ -1497,6 +1498,7 @@ Here's a list of public Fediverse services.
 | ayushio.com | Yes |
 | az-men.com | No |
 | azabani.com | No |
+| azadehafzar.ir | No |
 | azae.net | No |
 | azan.one | Yes |
 | azarakko.net | No |
@@ -2487,6 +2489,7 @@ Here's a list of public Fediverse services.
 | buron.coffee | No |
 | burr.is | Yes |
 | burrito.codes | Yes |
+| burro.win | No |
 | burschel.com | No |
 | burymein.black | No |
 | bus-hit.me | No |
@@ -3538,6 +3541,7 @@ Here's a list of public Fediverse services.
 | critter.town | No |
 | crittercave.net | No |
 | criver.me | No |
+| crlf.ninja | No |
 | croall.ca | No |
 | crobin.photos | No |
 | crockett.network | No |
@@ -10040,6 +10044,7 @@ Here's a list of public Fediverse services.
 | libertynode.cam | No |
 | libertynode.net | No |
 | libertynode.tv | No |
+| libertyrepublic.social | No |
 | libertywoof.com | No |
 | libido.pictures | No |
 | libori.social | No |
@@ -14629,6 +14634,7 @@ Here's a list of public Fediverse services.
 | pljcbsn.me | No |
 | plock.social | No |
 | plomlompom.com | No |
+| ploovi.us | No |
 | plop.cc | No |
 | plop.gq | No |
 | plopchute.com | Yes |
@@ -17587,6 +17593,7 @@ Here's a list of public Fediverse services.
 | substitoot.it | No |
 | subtoot.com | No |
 | subut.ai | No |
+| subversida.de | No |
 | subversive.zone | No |
 | subzone.net | Yes |
 | subzone.space | Yes |
@@ -19570,7 +19577,7 @@ Here's a list of public Fediverse services.
 | vanoix.com | No |
 | vanzunderd.eu | No |
 | vapedon.club | No |
-| vapefam.fun | Yes |
+| vapefam.fun | No |
 | vapers.jp | No |
 | vaping.social | No |
 | vapor.fm | No |
@@ -21095,7 +21102,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,132 |
-| Normal | 16,919 |
+| Normal | 16,926 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
