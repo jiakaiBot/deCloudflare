@@ -118,6 +118,7 @@ alcoholics-anonymous.eu
 alis.to
 amanoshokudo.jp
 amsmusiccentre.com.au
+anordtal.com
 appliancesrepaircare.com
 area72aa.org
 aremiti.jp
@@ -127,6 +128,7 @@ attac.no
 autoicare.in
 avmmerf.in
 branch.axisbank.com
+friendica.a-zwenkau.de
 m-gsmarena-com.cdn.ampproject.org
 shop.andymakes.com
 us-east-1.console.aws.amazon.com
