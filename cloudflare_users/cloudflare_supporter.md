@@ -8071,6 +8071,7 @@ Do not create new issue or we will close it as duplicate.
 | [slowhanddario@twitter](https://twitter.com/slowhanddario/status/1474627053307768832) | advertise |
 | [SlyTheFloof@twitter](https://twitter.com/SlyTheFloof/status/1498004182393106435) | advertise |
 | [Sm0rezDev@twitter](https://twitter.com/Sm0rezDev/status/1404781284120043522) | advertise |
+| [Sm8Ue@twitter](https://twitter.com/Sm8Ue/status/1568162721962823680) | advertise |
 | [SMang2121@twitter](https://twitter.com/SMang2121/status/1391809592707870723) | advertise |
 | [smasato_pi@twitter](https://twitter.com/smasato_pi/status/1485080835061858308) | advertise |
 | [SMC67254820@twitter](https://twitter.com/SMC67254820/status/1376951172607578120) | advertise |
