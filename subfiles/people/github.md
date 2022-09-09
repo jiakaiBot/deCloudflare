@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [newrelic_infra_alert_condition: resource not found due to wrong account_id](https://github.com/newrelic/terraform-provider-newrelic/issues/1996)
 - [Get Uptime Kuma Whitelisted in Cloudflare WAF](https://github.com/louislam/uptime-kuma/issues/2058)
 - [redirects not working in some cases](https://github.com/neonmoe/minreq/issues/79)
 - [saidit.net either dropped or SSL certificate expired](https://github.com/libertysoft3/saidit/issues/125)
