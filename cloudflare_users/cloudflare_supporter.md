@@ -7759,6 +7759,7 @@ Do not create new issue or we will close it as duplicate.
 | [Saturn52786089@twitter](https://twitter.com/Saturn52786089/status/1370285435193266176) | advertise |
 | [satwant82934181@twitter](https://twitter.com/satwant82934181/status/1394674222430097410) | advertise |
 | [sat_asain@twitter](https://twitter.com/sat_asain/status/1396819120490913794) | advertise |
+| [SaubanulHaque@twitter](https://twitter.com/SaubanulHaque/status/1568172922443005953) | advertise |
 | [saubhaagy@twitter](https://twitter.com/saubhaagy/status/1377904089518895106) | advertise |
 | [Saurabh80001672@twitter](https://twitter.com/Saurabh80001672/status/1393108184454283266) | advertise |
 | [SavanChudasama7@twitter](https://twitter.com/SavanChudasama7/status/1380941357800390656) | advertise |
