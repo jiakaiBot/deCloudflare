@@ -5843,6 +5843,7 @@ Here's a list of public Fediverse services.
 | flanintheface.com | No |
 | flashfic.stream | No |
 | flatearth.group | No |
+| flatline.online | No |
 | flatmountain.rocks | No |
 | flausch.social | No |
 | flauschekatze.space | No |
@@ -6312,7 +6313,7 @@ Here's a list of public Fediverse services.
 | furest.be | No |
 | furf.ag | No |
 | furfag.de | Yes |
-| furoshiki.work | No |
+| furoshiki.work | Yes |
 | furred.tv | No |
 | furria.net | No |
 | furries.online | No |
@@ -21103,7 +21104,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,134 |
+| Cloudflare | 4,135 |
 | Normal | 16,926 |
 
 
