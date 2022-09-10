@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Websocket failed with Caddy reverse proxy](https://github.com/gotify/server/issues/507)
+- [S3 connection to Cloudflare R2 generates error when attempting to sync from SeaweedFS to R2](https://github.com/seaweedfs/seaweedfs/issues/3636)
 - [I dont know why but:](https://github.com/JastinXyz/bmbx/issues/3)
 - [newrelic_infra_alert_condition: resource not found due to wrong account_id](https://github.com/newrelic/terraform-provider-newrelic/issues/1996)
 - [Get Uptime Kuma Whitelisted in Cloudflare WAF](https://github.com/louislam/uptime-kuma/issues/2058)
