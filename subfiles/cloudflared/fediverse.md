@@ -8465,6 +8465,7 @@ Here's a list of public Fediverse services.
 | jacen.moe | No |
 | jack28.ovh | No |
 | jackal.chat | Yes |
+| jackbenson.xyz | Yes |
 | jackbot.fr | No |
 | jackdaw.today | No |
 | jackpoint.space | No |
@@ -21106,7 +21107,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,135 |
+| Cloudflare | 4,136 |
 | Normal | 16,928 |
 
 
