@@ -6483,6 +6483,7 @@ Do not create new issue or we will close it as duplicate.
 | [None58240167@twitter](https://twitter.com/None58240167/status/1395073106876801026) | advertise |
 | [Nonkogee3W@twitter](https://twitter.com/Nonkogee3W/status/1403011044998488066) | advertise |
 | [NooLee94593774@twitter](https://twitter.com/NooLee94593774/status/1404108442504105989) | advertise |
+| [Noon42186000@twitter](https://twitter.com/Noon42186000/status/1568583681064706048) | advertise |
 | [Noonewillkn@twitter](https://twitter.com/Noonewillkn/status/1556941477644627968) | advertise |
 | [Nooo52576592@twitter](https://twitter.com/Nooo52576592/status/1384054067714871296) | advertise |
 | [noor51489534@twitter](https://twitter.com/noor51489534/status/1405490093603893249) | advertise |
@@ -8920,6 +8921,7 @@ Do not create new issue or we will close it as duplicate.
 | [TLay75095361@twitter](https://twitter.com/TLay75095361/status/1402574255456284676) | advertise |
 | [tlo565641@twitter](https://twitter.com/tlo565641/status/1392899291342163977) | advertise |
 | [tltii104@twitter](https://twitter.com/tltii104/status/1386657711018844162) | advertise |
+| [tlyczko@twitter](https://twitter.com/tlyczko/status/1568583104989642753) | advertise |
 | [TMBo14669434@twitter](https://twitter.com/TMBo14669434/status/1384719692737040387) | advertise |
 | [TMinhTr9@twitter](https://twitter.com/TMinhTr9/status/1402337530033233924) | advertise |
 | [tmlcpl@twitter](https://twitter.com/tmlcpl/status/1386721659806097410) | advertise |
