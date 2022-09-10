@@ -3070,6 +3070,7 @@ Do not create new issue or we will close it as duplicate.
 | [HiuHoan24222988@twitter](https://twitter.com/HiuHoan24222988/status/1560628210898939904) | advertise |
 | [Hiuhoang12@twitter](https://twitter.com/Hiuhoang12/status/1400331067396038659) | advertise |
 | [HiYn93232026@twitter](https://twitter.com/HiYn93232026/status/1399208059197526023) | advertise |
+| [HJalgham@twitter](https://twitter.com/HJalgham/status/1568536037831360514) | advertise |
 | [HJSIM798@twitter](https://twitter.com/HJSIM798/status/1484356413040508929) | advertise |
 | [Hkk65603236@twitter](https://twitter.com/Hkk65603236/status/1391694154413969412) | advertise |
 | [HKlowss123@twitter](https://twitter.com/HKlowss123/status/1536946816260132864) | advertise |
