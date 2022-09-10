@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,886 |
-| net | 1,666 |
+| net | 1,667 |
 | social | 1,176 |
 | org | 1,140 |
 | de | 996 |
@@ -377,6 +377,7 @@ Here's a list of public Fediverse services.
 | a-trappes-terre.fr | No |
 | a-zwenkau.de | No |
 | a.nom.pl | No |
+| a.sc | No |
 | a11k.net | No |
 | a11y.info | No |
 | a15a.co | No |
@@ -3818,6 +3819,7 @@ Here's a list of public Fediverse services.
 | d2evs.net | No |
 | d33pw3b.de | No |
 | d3add3d.net | Yes |
+| d3ds3c.net | Yes |
 | d3fc0n.one | No |
 | d3xx3r.de | Yes |
 | d4.social | No |
@@ -8610,7 +8612,7 @@ Here's a list of public Fediverse services.
 | jeremy.hu | Yes |
 | jeremydormitzer.com | No |
 | jergefelt.se | No |
-| jeroened.be | No |
+| jeroened.be | Yes |
 | jeroenpraat.nl | No |
 | jeroensangers.com | No |
 | jeroenvd.nl | Yes |
@@ -21101,7 +21103,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,132 |
+| Cloudflare | 4,134 |
 | Normal | 16,926 |
 
 
