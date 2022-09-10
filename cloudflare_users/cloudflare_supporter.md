@@ -1610,6 +1610,7 @@ Do not create new issue or we will close it as duplicate.
 | [chiwebmgmt@twitter](https://twitter.com/chiwebmgmt/status/1427620579910299663) | advertise |
 | [ChM60546312@twitter](https://twitter.com/ChM60546312/status/1549730395188793344) | advertise |
 | [chngkh74791784@twitter](https://twitter.com/chngkh74791784/status/1523712853387005952) | advertise |
+| [chock100@twitter](https://twitter.com/chock100/status/1568707047956561921) | advertise |
 | [choigirll@twitter](https://twitter.com/choigirll/status/1546832037495054336) | advertise |
 | [chok_thewa@twitter](https://twitter.com/chok_thewa/status/1467504123083833347) | advertise |
 | [ChoMee34586348@twitter](https://twitter.com/ChoMee34586348/status/1390339608395739136) | advertise |
@@ -4354,8 +4355,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -9972,6 +9973,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZaathangRuth@twitter](https://twitter.com/ZaathangRuth/status/1392121285107326976) | advertise |
 | [Zabujca997@twitter](https://twitter.com/Zabujca997/status/1371397158809784320) | advertise |
 | [ZacharyAbdullah@twitter](https://twitter.com/ZacharyAbdullah/status/1521073654955577344) | advertise |
+| [ZachrielStephen@twitter](https://twitter.com/ZachrielStephen/status/1568706820562391041) | advertise |
 | [Zack09842097@twitter](https://twitter.com/Zack09842097/status/1391663997229752320) | advertise |
 | [Zack60392907@twitter](https://twitter.com/Zack60392907/status/1539145273850867712) | advertise |
 | [Zack_gaming7@twitter](https://twitter.com/Zack_gaming7/status/1377466204097441792) | advertise |
