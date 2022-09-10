@@ -1872,6 +1872,7 @@ Do not create new issue or we will close it as duplicate.
 | [DarDar75569428@twitter](https://twitter.com/DarDar75569428/status/1397238795242704901) | advertise |
 | [DaRealSparticus@twitter](https://twitter.com/DaRealSparticus/status/1539092475951755264) | advertise |
 | [Daria78500191@twitter](https://twitter.com/Daria78500191/status/1392706134625107969) | advertise |
+| [DaRioSlowHand@twitter](https://twitter.com/DaRioSlowHand/status/1568597720226533377) | advertise |
 | [Dark4rce14@twitter](https://twitter.com/Dark4rce14/status/1385236734225666053) | advertise |
 | [darkboy82165795@twitter](https://twitter.com/darkboy82165795/status/1507639888849813505) | advertise |
 | [DARKCONQ@twitter](https://twitter.com/DARKCONQ/status/1404022455178465281) | advertise |
@@ -4353,8 +4354,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5070,6 +5071,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lun34192472@twitter](https://twitter.com/Lun34192472/status/1398103398453440512) | advertise |
 | [lun53738567@twitter](https://twitter.com/lun53738567/status/1396546452512407552) | advertise |
 | [Lun71377013@twitter](https://twitter.com/Lun71377013/status/1401608963292946436) | advertise |
+| [LunarDoggy@twitter](https://twitter.com/LunarDoggy/status/1568595520469311491) | advertise |
 | [LunarSky16@twitter](https://twitter.com/LunarSky16/status/1393116275644063744) | advertise |
 | [lung_kha@twitter](https://twitter.com/lung_kha/status/1478621539020926976) | advertise |
 | [LuonglamVan1992@twitter](https://twitter.com/LuonglamVan1992/status/1563424906070466561) | advertise |
