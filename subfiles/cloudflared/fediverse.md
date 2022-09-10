@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,886 |
+| com | 2,887 |
 | net | 1,667 |
 | social | 1,176 |
 | org | 1,140 |
@@ -1566,6 +1566,7 @@ Here's a list of public Fediverse services.
 | backtick.town | No |
 | backtoroot.xyz | No |
 | backyard.cloud | No |
+| backyardsocial.online | No |
 | bacn.social | Yes |
 | baconpotato.net | No |
 | baconx.de | No |
@@ -2651,6 +2652,7 @@ Here's a list of public Fediverse services.
 | caric.io | No |
 | caricio.com | No |
 | carlesbellver.net | No |
+| carlnimbus.com | No |
 | carma.red | No |
 | carman.social | No |
 | carmantini.com | No |
@@ -21105,7 +21107,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,135 |
-| Normal | 16,926 |
+| Normal | 16,928 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
