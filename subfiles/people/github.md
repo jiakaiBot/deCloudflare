@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cask not found if tapping homebrew-cask in another tab](https://github.com/Homebrew/homebrew-cask/issues/131370)
 - [500 error on comments/recent/all](https://github.com/trakt/api-help/issues/364)
 - [Websocket failed with Caddy reverse proxy](https://github.com/gotify/server/issues/507)
 - [S3 connection to Cloudflare R2 generates error when attempting to sync from SeaweedFS to R2](https://github.com/seaweedfs/seaweedfs/issues/3636)
