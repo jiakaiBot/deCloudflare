@@ -118,6 +118,7 @@ denwalker-com.translate.goog
 endtimes-dev.translate.goog
 facebook.tukinumerosuomi.com
 jamanetwork-com.translate.goog
+koofr-eu.translate.goog
 mastodon-relay.thedoodleproject.net
 relay.social.tigwali.fr
 rescue-substack-com.translate.goog
@@ -129,6 +130,7 @@ teensexchatrooms.com
 thatbricklife.com
 thatware.co
 theguyontherooftop.com
+thelenapecenter.com
 thesaker-is.translate.goog
 thetechtian.com
 theusmilitarynews.com
@@ -141,6 +143,7 @@ tramproject.eu
 trends4tech.com
 twtybbs.com
 www-axa-ch.translate.goog
+www-elespectador-com.translate.goog
 www-eugyppius-com.translate.goog
 www-tagesspiegel-de.translate.goog
 www.taiwan-panorama.com
