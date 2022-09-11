@@ -10882,6 +10882,7 @@ Here's a list of public Fediverse services.
 | maron.blue | No |
 | marramgrass.org.uk | No |
 | marrus.xyz | Yes |
+| marsey.club | No |
 | marstodon.com | No |
 | martian.social | No |
 | martijn.at | No |
@@ -11043,7 +11044,7 @@ Here's a list of public Fediverse services.
 | mastodon.cool | No |
 | mastodon.cx | Yes |
 | mastodon.design | No |
-| mastodon.digital | Yes |
+| mastodon.digital | No |
 | mastodon.direct | No |
 | mastodon.earth | No |
 | mastodon.ee | Yes |
@@ -11244,6 +11245,7 @@ Here's a list of public Fediverse services.
 | mathtod.online | No |
 | mathtodon.com | No |
 | mathys.io | Yes |
+| matingpress.quest | No |
 | matitodon.com | No |
 | mato.social | Yes |
 | matoken.org | No |
@@ -17282,6 +17284,7 @@ Here's a list of public Fediverse services.
 | speedfox.co.uk | No |
 | speedster.social | Yes |
 | speicherwolke.net | No |
+| sperg.city | Yes |
 | sperg.world | No |
 | spezl.bayern | No |
 | sphere.com.ai | No |
@@ -21108,7 +21111,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,136 |
-| Normal | 16,928 |
+| Normal | 16,931 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
