@@ -1692,6 +1692,7 @@ Do not create new issue or we will close it as duplicate.
 | [coklukcom@twitter](https://twitter.com/coklukcom/status/1391147771911094274) | advertise |
 | [Cole64758061@twitter](https://twitter.com/Cole64758061/status/1392292609922527233) | advertise |
 | [coleman89990@twitter](https://twitter.com/coleman89990/status/1494073177273733125) | advertise |
+| [Collinsmarkpros@twitter](https://twitter.com/Collinsmarkpros/status/1568918743635623937) | advertise |
 | [ComputerMedic2@twitter](https://twitter.com/ComputerMedic2/status/1498349891097137162) | advertise |
 | [coms4socialcha1@twitter](https://twitter.com/coms4socialcha1/status/1379781588263661581) | advertise |
 | [Concho117@twitter](https://twitter.com/Concho117/status/1403355446610587648) | advertise |
@@ -2435,6 +2436,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ezlove12345@twitter](https://twitter.com/Ezlove12345/status/1495345866483191808) | advertise |
 | [F1Insider_FB@twitter](https://twitter.com/F1Insider_FB/status/1398202288817250306) | advertise |
 | [f2_player@twitter](https://twitter.com/f2_player/status/1553256925739237376) | advertise |
+| [F31398498@twitter](https://twitter.com/F31398498/status/1568907972272861184) | advertise |
 | [FAbdifitaah@twitter](https://twitter.com/FAbdifitaah/status/1566021351948931074) | advertise |
 | [fabioespinosa@twitter](https://twitter.com/fabioespinosa/status/1389759727110918152) | advertise |
 | [fabricpay_@twitter](https://twitter.com/fabricpay_/status/1520505852817334272) | advertise |
@@ -4982,6 +4984,7 @@ Do not create new issue or we will close it as duplicate.
 | [long03012@twitter](https://twitter.com/long03012/status/1403004309734772740) | advertise |
 | [Long05628768@twitter](https://twitter.com/Long05628768/status/1399343799357239298) | advertise |
 | [Long05870988@twitter](https://twitter.com/Long05870988/status/1552764139138715648) | advertise |
+| [long060502@twitter](https://twitter.com/long060502/status/1568912725287518208) | advertise |
 | [long5088@twitter](https://twitter.com/long5088/status/1514488211384377347) | advertise |
 | [Long36262712@twitter](https://twitter.com/Long36262712/status/1502562907217100803) | advertise |
 | [Long38978527@twitter](https://twitter.com/Long38978527/status/1393012103389212675) | advertise |
