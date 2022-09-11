@@ -9596,6 +9596,7 @@ Do not create new issue or we will close it as duplicate.
 | [whoomenreallyis@twitter](https://twitter.com/whoomenreallyis/status/1506157558628855813) | advertise |
 | [WhXRuMfnyHtsfdk@twitter](https://twitter.com/WhXRuMfnyHtsfdk/status/1403069036422856705) | advertise |
 | [whynot8288@twitter](https://twitter.com/whynot8288/status/1470869376207589379) | advertise |
+| [WhyzTM@twitter](https://twitter.com/WhyzTM/status/1568948951507959808) | advertise |
 | [wickepedia@twitter](https://twitter.com/wickepedia/status/1502834842073014272) | advertise |
 | [wife_xxxx@twitter](https://twitter.com/wife_xxxx/status/1547551663300673536) | advertise |
 | [wigan_mancs@twitter](https://twitter.com/wigan_mancs/status/1391843058933800963) | advertise |
