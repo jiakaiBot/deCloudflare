@@ -5398,6 +5398,7 @@ Do not create new issue or we will close it as duplicate.
 | [megamghd09@twitter](https://twitter.com/megamghd09/status/1553291071357997056) | advertise |
 | [MegaThree1@twitter](https://twitter.com/MegaThree1/status/1390130191461064704) | advertise |
 | [mega_weartees@twitter](https://twitter.com/mega_weartees/status/1556379372159782912) | advertise |
+| [megojail@twitter](https://twitter.com/megojail/status/1568848248592547841) | advertise |
 | [mehdihollywood1@twitter](https://twitter.com/mehdihollywood1/status/1482830204322078723) | advertise |
 | [mehedibs@twitter](https://twitter.com/mehedibs/status/1447465601509642240) | advertise |
 | [mehnatkashkisan@twitter](https://twitter.com/mehnatkashkisan/status/1561987721697996800) | advertise |
