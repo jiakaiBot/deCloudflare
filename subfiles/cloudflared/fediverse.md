@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,888 |
+| com | 2,889 |
 | net | 1,667 |
 | social | 1,176 |
 | org | 1,141 |
-| de | 997 |
+| de | 998 |
 
 
 - Mastodon, Pleroma, etc
@@ -263,6 +263,7 @@ Here's a list of public Fediverse services.
 | 4com.jp | No |
 | 4estate.media | No |
 | 4eva.online | Yes |
+| 4gl.io | Yes |
 | 4her.space | No |
 | 4orce.online | No |
 | 4qq.org | No |
@@ -744,7 +745,7 @@ Here's a list of public Fediverse services.
 | algufr.com | No |
 | alhur.es | No |
 | alice-tech.net | No |
-| alice486.com | No |
+| alice486.com | Yes |
 | alicecomplex.com | No |
 | alicef.me | No |
 | aliceice.de | No |
@@ -3890,6 +3891,7 @@ Here's a list of public Fediverse services.
 | dangeroutside.com | No |
 | dangre.de | No |
 | daniel-schmitt.eu | Yes |
+| daniel-siepmann.de | No |
 | danielbierstedt.de | No |
 | danielehniss.de | No |
 | danielgil.page | No |
@@ -4612,6 +4614,7 @@ Here's a list of public Fediverse services.
 | dragon.navy | No |
 | dragon.style | No |
 | dragonborn.app | No |
+| dragoncave.dev | No |
 | dragonfleye.io | No |
 | dragonhoard.network | No |
 | dragonpsi.xyz | No |
@@ -5562,6 +5565,7 @@ Here's a list of public Fediverse services.
 | fedi.me | No |
 | fedi.ml | No |
 | fedi.moe | No |
+| fedi.monster | No |
 | fedi.network | No |
 | fedi.one | Yes |
 | fedi.photos | No |
@@ -6586,6 +6590,7 @@ Here's a list of public Fediverse services.
 | gemmari.us | No |
 | gemnoc.ca | No |
 | gemuplay.com | No |
+| genbu.eu | No |
 | genco.me | Yes |
 | gender.town | No |
 | genderqueer.ru | No |
@@ -17567,6 +17572,7 @@ Here's a list of public Fediverse services.
 | strueker.net | Yes |
 | strugee.net | No |
 | strykers.xyz | No |
+| strzelmistrz.com | No |
 | stsecurity.moe | Yes |
 | stsf.tokyo | No |
 | stuartbrand.co.uk | No |
@@ -21117,8 +21123,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,136 |
-| Normal | 16,938 |
+| Cloudflare | 4,138 |
+| Normal | 16,942 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
