@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can not get KVNamespace Bindings by c.env.XX in the jsx-ssr example](https://github.com/honojs/examples/issues/18)
 - [Can't read sb-access-token cookie on server side after signed in with Github](https://github.com/supabase/supabase/issues/8901)
 - [Error in YAML parsing](https://github.com/traefik/traefik/issues/9321)
 - [Paypal button disapears at checkout level if Elementor Pro is activated](https://github.com/woocommerce/woocommerce-paypal-payments/issues/841)
