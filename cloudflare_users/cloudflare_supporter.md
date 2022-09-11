@@ -9585,6 +9585,7 @@ Do not create new issue or we will close it as duplicate.
 | [weirdo7822@twitter](https://twitter.com/weirdo7822/status/1390378835703599106) | advertise |
 | [weixinhan@twitter](https://twitter.com/weixinhan/status/1385103220226236416) | advertise |
 | [WELINGTONROQUE2@twitter](https://twitter.com/WELINGTONROQUE2/status/1445061282508464130) | advertise |
+| [weloveAntony@twitter](https://twitter.com/weloveAntony/status/1568994144714117120) | advertise |
 | [Weriya_chiyagaw@twitter](https://twitter.com/Weriya_chiyagaw/status/1498220203284516868) | advertise |
 | [wesvalderama@twitter](https://twitter.com/wesvalderama/status/1386386480717729792) | advertise |
 | [we_saas@twitter](https://twitter.com/we_saas/status/1492116460310781952) | advertise |
