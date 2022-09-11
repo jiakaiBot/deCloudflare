@@ -4597,6 +4597,7 @@ Do not create new issue or we will close it as duplicate.
 | [KXbXQwleCqIGldM@twitter](https://twitter.com/KXbXQwleCqIGldM/status/1491062243563556873) | advertise |
 | [kxngmarkybrown@twitter](https://twitter.com/kxngmarkybrown/status/1548889630019289090) | advertise |
 | [KxngXnusis@twitter](https://twitter.com/KxngXnusis/status/1548052006237257728) | advertise |
+| [kxt75626038@twitter](https://twitter.com/kxt75626038/status/1569036357804396546) | advertise |
 | [ky1ro@twitter](https://twitter.com/ky1ro/status/1543894833563041792) | advertise |
 | [KyaePhoenix@twitter](https://twitter.com/KyaePhoenix/status/1392514813826191360) | advertise |
 | [KyaeYehtet@twitter](https://twitter.com/KyaeYehtet/status/1387258889897345024) | advertise |
@@ -7276,6 +7277,7 @@ Do not create new issue or we will close it as duplicate.
 | [quuyentrann@twitter](https://twitter.com/quuyentrann/status/1401784856070090755) | advertise |
 | [quyen77692@twitter](https://twitter.com/quyen77692/status/1516242107316404225) | advertise |
 | [quyencao657@twitter](https://twitter.com/quyencao657/status/1552977946687979523) | advertise |
+| [QUYENMY60807209@twitter](https://twitter.com/QUYENMY60807209/status/1569041467984998400) | advertise |
 | [quyetcoi1905@twitter](https://twitter.com/quyetcoi1905/status/1493163304373522433) | advertise |
 | [quylele009@twitter](https://twitter.com/quylele009/status/1400397369024270342) | advertise |
 | [quynhcao366@twitter](https://twitter.com/quynhcao366/status/1401426991669080069) | advertise |
