@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error in YAML parsing](https://github.com/traefik/traefik/issues/9321)
 - [Paypal button disapears at checkout level if Elementor Pro is activated](https://github.com/woocommerce/woocommerce-paypal-payments/issues/841)
 - [Need help troubleshooting login errors](https://github.com/authelia/authelia/issues/3999)
 - [Cask not found if tapping homebrew-cask in another tab](https://github.com/Homebrew/homebrew-cask/issues/131370)
