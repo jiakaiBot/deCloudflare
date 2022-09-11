@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Paypal button disapears at checkout level if Elementor Pro is activated](https://github.com/woocommerce/woocommerce-paypal-payments/issues/841)
 - [Need help troubleshooting login errors](https://github.com/authelia/authelia/issues/3999)
 - [Cask not found if tapping homebrew-cask in another tab](https://github.com/Homebrew/homebrew-cask/issues/131370)
 - [500 error on comments/recent/all](https://github.com/trakt/api-help/issues/364)
