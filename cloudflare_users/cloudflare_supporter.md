@@ -7344,6 +7344,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ran20182@twitter](https://twitter.com/Ran20182/status/1396105776402370561) | advertise |
 | [Randomguywholol@twitter](https://twitter.com/Randomguywholol/status/1493825084737212417) | advertise |
 | [randomskillski1@twitter](https://twitter.com/randomskillski1/status/1540842093559554048) | advertise |
+| [rand_ajn@twitter](https://twitter.com/rand_ajn/status/1568787097334726657) | advertise |
 | [Ranimmarani@twitter](https://twitter.com/Ranimmarani/status/1549276216552996865) | advertise |
 | [RanjitM93877397@twitter](https://twitter.com/RanjitM93877397/status/1406581687257997313) | advertise |
 | [Ranked2nd@twitter](https://twitter.com/Ranked2nd/status/1489538382627676160) | advertise |
