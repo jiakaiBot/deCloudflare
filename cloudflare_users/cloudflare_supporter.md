@@ -1366,6 +1366,7 @@ Do not create new issue or we will close it as duplicate.
 | [BraudinLaya@twitter](https://twitter.com/BraudinLaya/status/1435781941845008393) | advertise |
 | [Braumy77@twitter](https://twitter.com/Braumy77/status/1406588080098889734) | advertise |
 | [braveRAZOR@twitter](https://twitter.com/braveRAZOR/status/1541992073695563777) | advertise |
+| [Brayden55422270@twitter](https://twitter.com/Brayden55422270/status/1568861795015860225) | advertise |
 | [brendan8c@twitter](https://twitter.com/brendan8c/status/1435666779188174850) | advertise |
 | [BrendanDattili2@twitter](https://twitter.com/BrendanDattili2/status/1532100998252093446) | advertise |
 | [BrettSlaski@twitter](https://twitter.com/BrettSlaski/status/1454647204342288385) | advertise |
@@ -4355,8 +4356,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
