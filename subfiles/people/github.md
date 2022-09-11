@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't read sb-access-token cookie on server side after signed in with Github](https://github.com/supabase/supabase/issues/8901)
 - [Error in YAML parsing](https://github.com/traefik/traefik/issues/9321)
 - [Paypal button disapears at checkout level if Elementor Pro is activated](https://github.com/woocommerce/woocommerce-paypal-payments/issues/841)
 - [Need help troubleshooting login errors](https://github.com/authelia/authelia/issues/3999)
