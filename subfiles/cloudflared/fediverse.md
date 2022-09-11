@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,887 |
+| com | 2,888 |
 | net | 1,667 |
 | social | 1,176 |
-| org | 1,140 |
-| de | 996 |
+| org | 1,141 |
+| de | 997 |
 
 
 - Mastodon, Pleroma, etc
@@ -8043,6 +8043,7 @@ Here's a list of public Fediverse services.
 | im-neko.net | Yes |
 | im-paranoid.tk | No |
 | im.sb | Yes |
+| imaag.de | No |
 | image-space.info | No |
 | imaginair.es | No |
 | imagotv.fr | No |
@@ -13178,6 +13179,7 @@ Here's a list of public Fediverse services.
 | noovi.org | No |
 | nop.codes | Yes |
 | nop.moe | No |
+| nopasaran.red | No |
 | nopdev.com | No |
 | nope.social | No |
 | nops.red | No |
@@ -13806,6 +13808,7 @@ Here's a list of public Fediverse services.
 | osechin.co | No |
 | oseka.xyz | No |
 | osfree.org | No |
+| osgeo.org | No |
 | oshiete-programming.net | No |
 | oshiteku.app | No |
 | oshotestnet.co.uk | No |
@@ -15265,6 +15268,7 @@ Here's a list of public Fediverse services.
 | qute.dog | No |
 | quux.org | No |
 | quyo.social | No |
+| qvi.st | No |
 | qwanturank.social | No |
 | qwaser.fr | No |
 | qwazix.com | No |
@@ -17009,6 +17013,7 @@ Here's a list of public Fediverse services.
 | sneed.org.uk | No |
 | sneed.shop | No |
 | sneed.social | No |
+| sneed.vip | No |
 | sneedtube.com | No |
 | snek.uk | No |
 | snel.co | No |
@@ -18552,6 +18557,7 @@ Here's a list of public Fediverse services.
 | timg.fr | No |
 | timkrueger.me | No |
 | timmorgner.de | No |
+| timmot.com | No |
 | timnolte.com | No |
 | timoheider.de | No |
 | timothychambers.net | No |
@@ -19513,6 +19519,7 @@ Here's a list of public Fediverse services.
 | utwente.nl | No |
 | utxo.id | No |
 | utzer.de | No |
+| uuchten.lu | No |
 | uuh.li | No |
 | uuu.moe | No |
 | uuuchu.com | No |
@@ -21111,7 +21118,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,136 |
-| Normal | 16,931 |
+| Normal | 16,938 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
