@@ -4024,7 +4024,7 @@ Here's a list of public Fediverse services.
 | dcu.ie | Yes |
 | dd-dns.de | No |
 | dddug.in | No |
-| ddns.net | No |
+| ddns.net | Yes |
 | ddnsgeek.com | No |
 | ddnss.ch | No |
 | ddnss.de | No |
@@ -4826,7 +4826,7 @@ Here's a list of public Fediverse services.
 | ecchi.cf | No |
 | ecclesias.net | No |
 | eccs.world | No |
-| ece.one | Yes |
+| ece.one | No |
 | echan.nl | No |
 | echapp.com | Yes |
 | echelleinconnue.net | No |
@@ -15412,6 +15412,7 @@ Here's a list of public Fediverse services.
 | rakket.app | No |
 | rako.space | No |
 | rakyat.cc | No |
+| ralb.eu | No |
 | ralsei.moe | No |
 | ram.lgbt | Yes |
 | ramble.space | No |
@@ -20520,6 +20521,7 @@ Here's a list of public Fediverse services.
 | xjmaoyaoyao.monster | Yes |
 | xkcd.network | No |
 | xleute.de | No |
+| xlnx.uk | No |
 | xmanifesto.club | No |
 | xmcode.pl | Yes |
 | xmflsct.com | Yes |
@@ -21146,7 +21148,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,140 |
-| Normal | 16,962 |
+| Normal | 16,964 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
