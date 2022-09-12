@@ -12289,6 +12289,7 @@ Here's a list of public Fediverse services.
 | mstdn.vodka | No |
 | mstdn.voyage | No |
 | mstdn.world | No |
+| mstdn.xn--q9jyb4c | No |
 | mstdn18.jp | No |
 | mstdn18.net | No |
 | mstdn2017.club | No |
@@ -20531,10 +20532,18 @@ Here's a list of public Fediverse services.
 | xmu.social | No |
 | xn--0n8ha.ws | No |
 | xn--1g8h.fm | No |
+| xn--24-6kca3bmfgm.xn--p1ai | No |
 | xn--28j0ea.tokyo | No |
+| xn--28j0ea.xn--tckwe | No |
+| xn--49ap3c.xn--y9a3aq | No |
+| xn--69aa8bzb.xn--y9a3aq | No |
 | xn--6r8h.tk | No |
 | xn--7s9hd.ws | No |
-| xn--931a.moe | No |
+| xn--80a0achj.xn--p1acf | No |
+| xn--80aa2ajy.xn--p1acf | No |
+| xn--80an2adaa.xn--p1ai | No |
+| xn--931a.moe | Yes |
+| xn--99axc.xn--y9a3aq | No |
 | xn--9h5bn01a.net | No |
 | xn--alatoire-c1a.net | No |
 | xn--baw-joa.social | No |
@@ -20542,6 +20551,7 @@ Here's a list of public Fediverse services.
 | xn--canope-fva.quebec | No |
 | xn--chuchichschtli-dib.social | No |
 | xn--contrefaon-v6aa.fr | No |
+| xn--d1ag.xn--e1a4c | No |
 | xn--dgtt6ucql1igfpb.org | No |
 | xn--dreikseho-z2a.ch | No |
 | xn--dsselblog-q9a.de | No |
@@ -20549,6 +20559,7 @@ Here's a list of public Fediverse services.
 | xn--fiqwix98h.jp | No |
 | xn--geldwsche24-p8a.eu | No |
 | xn--gu1a.moe | No |
+| xn--h1ahnbk7d.xn--p1ai | No |
 | xn--hea.nz | No |
 | xn--hek.ws | No |
 | xn--hex.jp | No |
@@ -20557,11 +20568,12 @@ Here's a list of public Fediverse services.
 | xn--kck8cn1l.ninja | No |
 | xn--kckk1cy297bor8a.jp | No |
 | xn--knallgrn-c5a.space | No |
-| xn--krsgw--n73t.com | No |
+| xn--krsgw--n73t.com | Yes |
 | xn--kst.jp | No |
 | xn--kstenlouis-9db.de | No |
 | xn--lkka-gra.com | No |
 | xn--lofll-1sat.is | No |
+| xn--mnq49e62t21e.xn--rhqv96g | No |
 | xn--modervr-jxa.space | No |
 | xn--mta-bma.hu | No |
 | xn--n6x.net | No |
@@ -20569,6 +20581,7 @@ Here's a list of public Fediverse services.
 | xn--netzsphre-12a.xyz | No |
 | xn--nnqt1l.tk | No |
 | xn--ocane-csa.fr | No |
+| xn--p1abe3d.xn--80asehdb | No |
 | xn--pckuas0oz21m64d.jp | No |
 | xn--ponek-1sa8t.eu | No |
 | xn--qp9h.ml | No |
@@ -20589,7 +20602,15 @@ Here's a list of public Fediverse services.
 | xn--wxa.zone | No |
 | xn--xcke3ca.tokyo | No |
 | xn--xckta9b2cyc.page | No |
+| xn--y9a6bah4ck.xn--y9a3aq | No |
+| xn--y9aaa4b6a6fqad.xn--y9a3aq | No |
+| xn--y9aafb5k.xn--y9a3aq | No |
+| xn--y9aai3au2bc2f.xn--y9a3aq | No |
+| xn--y9aey5fdz.xn--y9a3aq | No |
+| xn--y9ai4fj.xn--y9a3aq | No |
+| xn--y9azesw6bu.xn--y9a3aq | No |
 | xn--zck4ad5f2e.jp | No |
+| xn--zck4ad5f2e.xn--q9jyb4c | No |
 | xn--zck4azd638n.com | No |
 | xn--zckuao5dze.jp | No |
 | xnop.yt | No |
@@ -21005,6 +21026,7 @@ Here's a list of public Fediverse services.
 | zetawing.com | No |
 | zeteo.me | No |
 | zetmus.fr | No |
+| zetsubou.xn--q9jyb4c | No |
 | zettas.space | No |
 | zettelkasten.social | No |
 | zeweb.de | No |
@@ -21123,8 +21145,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,138 |
-| Normal | 16,942 |
+| Cloudflare | 4,140 |
+| Normal | 16,962 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
