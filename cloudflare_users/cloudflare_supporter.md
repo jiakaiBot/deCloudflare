@@ -7352,6 +7352,7 @@ Do not create new issue or we will close it as duplicate.
 | [ramin3m@twitter](https://twitter.com/ramin3m/status/1377115879884824580) | advertise |
 | [RamkbB@twitter](https://twitter.com/RamkbB/status/1398668307503321088) | advertise |
 | [RAMMEHARDAS3@twitter](https://twitter.com/RAMMEHARDAS3/status/1399046837407928320) | advertise |
+| [rammy_desi@twitter](https://twitter.com/rammy_desi/status/1569327053983600640) | advertise |
 | [RamonIanys@twitter](https://twitter.com/RamonIanys/status/1524013300845092864) | advertise |
 | [ramsey_jacquie@twitter](https://twitter.com/ramsey_jacquie/status/1384870814017806336) | advertise |
 | [Ran20182@twitter](https://twitter.com/Ran20182/status/1396105776402370561) | advertise |
