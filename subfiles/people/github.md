@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [cloudflare Lookup of length of last response breaks pagination](https://github.com/elastic/integrations/issues/4195)
 - [Can not get KVNamespace Bindings by c.env.XX in the jsx-ssr example](https://github.com/honojs/examples/issues/18)
 - [Can't read sb-access-token cookie on server side after signed in with Github](https://github.com/supabase/supabase/issues/8901)
 - [Error in YAML parsing](https://github.com/traefik/traefik/issues/9321)
