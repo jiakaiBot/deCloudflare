@@ -137,6 +137,7 @@ news.azone-int.co.jp
 shop.andymakes.com
 us-east-1.console.aws.amazon.com
 video-corriere-it.cdn.ampproject.org
+www-br-de.cdn.ampproject.org
 www-fonearena-com.cdn.ampproject.org
 www-nytimes-com.cdn.ampproject.org
 www-tsf-pt.cdn.ampproject.org
@@ -146,6 +147,7 @@ www.abebooks.com
 www.ace-cae.eu
 www.adelaidezoo.com.au
 www.adidas.com
+www.aflac.co.jp
 www.ai.gov
 www.alphaebook.com
 www.anlikaltin.com
@@ -155,5 +157,6 @@ www.architectural-review.com
 www.ard-media.de
 www.ariss.org
 www.artlyst.com
+www.at-x.com
 www.axisbank.com
 www.benning.army.mil
