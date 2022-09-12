@@ -7414,6 +7414,7 @@ Do not create new issue or we will close it as duplicate.
 | [reckitlauncher@twitter](https://twitter.com/reckitlauncher/status/1491610235210919936) | advertise |
 | [redcode198@twitter](https://twitter.com/redcode198/status/1553765502467854338) | advertise |
 | [RedditLs@twitter](https://twitter.com/RedditLs/status/1395856406474014720) | advertise |
+| [RedHarmonicLuna@twitter](https://twitter.com/RedHarmonicLuna/status/1569188702177398784) | advertise |
 | [RedinOrtega3@twitter](https://twitter.com/RedinOrtega3/status/1402453055031758859) | advertise |
 | [RedLove76797072@twitter](https://twitter.com/RedLove76797072/status/1392876523711987715) | advertise |
 | [RedMan81799244@twitter](https://twitter.com/RedMan81799244/status/1401774324768333825) | advertise |
