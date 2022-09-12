@@ -1,6 +1,6 @@
 // based on CrimeFlare::deCloudflare#cli-cfdomains
 // http://crimeflare.eu.org
-const version = '1.0.3.3';
+const version = '1.0.3.4';
 const args = process.argv,
 	argl = process.argv.length,
 	fs = require('fs'),
@@ -18,7 +18,7 @@ function testCAT(x) {
 	return /^([a-zA-Z_:]{4,20})$/.test(x);
 }
 function testURL(x) {
-	return /^http(|s):\/\/([a-z0-9]{1})([a-z0-9.-]{0,254})\.([a-z]{2,50})(|\/(.*))$/.test(x);
+	return /^http(|s):\/\/([a-z0-9]{1})([a-z0-9.-]{0,254})\.(([a-z]{2,50})|xn--([a-z0-9-]{2,60}))(|\/(.*))$/.test(x);
 }
 function toBinary(string) {
 	const codeUnits = new Uint16Array(string.length);
@@ -119,7 +119,7 @@ if (argl == 3 && args[2] == 'token') {
 	}
 	reporting(_cat, _url, _msg);
 } else {
-	console.log("\n	\x1b[33mmypdnsrep\x1b[0m  v" + version + "\n");
+	console.log("\n	\x1b[33mmypdnsrep\x1b[0m  v" + version + "-FREE\n");
 	console.log('\x1b[36mUsage:\x1b[0m');
 	console.log('	mypdnsrep token');
 	console.log('		Edit your mypdns.org token');
