@@ -8,7 +8,7 @@
               "strict_min_version": "91.0"
             }
           },
-          "version": "1.0.6.5",
+          "version": "1.0.7",
           "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/isat.xpi?9aa7303f1df29c883a56c16159ecee78a5876e316903c79a35b264de522bdfa9",
           "update_hash": "sha256:9aa7303f1df29c883a56c16159ecee78a5876e316903c79a35b264de522bdfa9"
         }
@@ -22,7 +22,7 @@
               "strict_min_version": "91.0"
             }
           },
-          "version": "1.0.25.5",
+          "version": "1.0.26",
           "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/ismm.xpi?1a19cf58ef79214e489e0a4b36ba259c6cc8498be2b00baa33f92423e190a008",
           "update_hash": "sha256:1a19cf58ef79214e489e0a4b36ba259c6cc8498be2b00baa33f92423e190a008"
         }
@@ -50,7 +50,7 @@
               "strict_min_version": "91.0"
             }
           },
-          "version": "1.0.0",
+          "version": "1.0.1",
           "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/addons/releases/bcma.xpi?0c98f043fc11c6b6e5a5f33cdedaeee4fcfef837ef1f398b2b8d9d0c8a6cf39a",
           "update_hash": "sha256:0c98f043fc11c6b6e5a5f33cdedaeee4fcfef837ef1f398b2b8d9d0c8a6cf39a"
         }
