@@ -3008,6 +3008,7 @@ Do not create new issue or we will close it as duplicate.
 | [Henry77117660@twitter](https://twitter.com/Henry77117660/status/1396763828671500291) | advertise |
 | [HentaiC93845172@twitter](https://twitter.com/HentaiC93845172/status/1384877257177583619) | advertise |
 | [Heo60622849@twitter](https://twitter.com/Heo60622849/status/1528517491814977536) | advertise |
+| [HeoVat@twitter](https://twitter.com/HeoVat/status/1569110496070217729) | advertise |
 | [HereticCrusader@twitter](https://twitter.com/HereticCrusader/status/1383727868123832321) | advertise |
 | [Herijoko16@twitter](https://twitter.com/Herijoko16/status/1402705618562027526) | advertise |
 | [hero8728@twitter](https://twitter.com/hero8728/status/1548766188746014722) | advertise |
@@ -5853,6 +5854,7 @@ Do not create new issue or we will close it as duplicate.
 | [MsBetsyRamirez@twitter](https://twitter.com/MsBetsyRamirez/status/1561286147002626048) | advertise |
 | [msq334@twitter](https://twitter.com/msq334/status/1497345657597800451) | advertise |
 | [msram79@twitter](https://twitter.com/msram79/status/1563841758395797504) | advertise |
+| [MssQuietOne@twitter](https://twitter.com/MssQuietOne/status/1569132482800357376) | advertise |
 | [MstafaMilan@twitter](https://twitter.com/MstafaMilan/status/1546617486937935872) | advertise |
 | [msun_tv@twitter](https://twitter.com/msun_tv/status/1484144302037086209) | advertise |
 | [MSuriko@twitter](https://twitter.com/MSuriko/status/1376898848090583043) | advertise |
