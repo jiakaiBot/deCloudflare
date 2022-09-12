@@ -1237,6 +1237,7 @@ Do not create new issue or we will close it as duplicate.
 | [bitdotcoin@twitter](https://twitter.com/bitdotcoin/status/1378723169066967042) | advertise |
 | [BizganCostin@twitter](https://twitter.com/BizganCostin/status/1382363988013555713) | advertise |
 | [bk0607@twitter](https://twitter.com/bk0607/status/1381984827524534273) | advertise |
+| [bkflyn@twitter](https://twitter.com/bkflyn/status/1569293300821270528) | advertise |
 | [BKhanthtal@twitter](https://twitter.com/BKhanthtal/status/1391690284749127688) | advertise |
 | [bkstout@twitter](https://twitter.com/bkstout/status/1552998686841618432) | advertise |
 | [black77595179@twitter](https://twitter.com/black77595179/status/1552697052324581381) | advertise |
@@ -4360,8 +4361,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
