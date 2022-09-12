@@ -121,11 +121,13 @@ jamanetwork-com.translate.goog
 koofr-eu.translate.goog
 mastodon-relay.thedoodleproject.net
 relay.social.tigwali.fr
+rent.toyota.co.jp
 rescue-substack-com.translate.goog
 talenton.eu
 tapaj.org
 techcrams.com
 techshali.com
+techvilly.com
 teensexchatrooms.com
 thatbricklife.com
 thatware.co
@@ -145,6 +147,7 @@ tradescantia.uk
 tramproject.eu
 trends4tech.com
 twtybbs.com
+tyndall.ac.uk
 www-axa-ch.translate.goog
 www-elespectador-com.translate.goog
 www-eugyppius-com.translate.goog
@@ -153,6 +156,7 @@ www-tagesspiegel-de.translate.goog
 www.taiwan-panorama.com
 www.tatvikayurveda.com
 www.telecinco.es
+www.tetox.pro
 www.thederrick.com
 www.thelcn.com
 www.thephotoforum.com
@@ -162,3 +166,4 @@ www.thesuperboo.com
 www.thetradenews.com
 www.tmdn.org
 www.totalconnection.com
+www.traxrecords.net
