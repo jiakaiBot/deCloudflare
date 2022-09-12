@@ -3451,6 +3451,7 @@ Do not create new issue or we will close it as duplicate.
 | [HypDye@twitter](https://twitter.com/HypDye/status/1388834208286715905) | advertise |
 | [Hyper_gaming007@twitter](https://twitter.com/Hyper_gaming007/status/1386460589770293250) | advertise |
 | [hyuckbear66@twitter](https://twitter.com/hyuckbear66/status/1394926538173206533) | advertise |
+| [Hyxep@twitter](https://twitter.com/Hyxep/status/1569378693239418885) | advertise |
 | [Hyyyyhy4@twitter](https://twitter.com/Hyyyyhy4/status/1559563987729395712) | advertise |
 | [HzInayaah@twitter](https://twitter.com/HzInayaah/status/1391636140063707144) | advertise |
 | [hziqim@twitter](https://twitter.com/hziqim/status/1530902631476264960) | advertise |
@@ -4371,6 +4372,7 @@ Do not create new issue or we will close it as duplicate.
 | [KingAlts2@twitter](https://twitter.com/KingAlts2/status/1529966287962656768) | advertise |
 | [KingarsalanT@twitter](https://twitter.com/KingarsalanT/status/1560545670620225536) | advertise |
 | [kingcioLaw@twitter](https://twitter.com/kingcioLaw/status/1520393986648965120) | advertise |
+| [Kingiferous7@twitter](https://twitter.com/Kingiferous7/status/1569373239016656902) | advertise |
 | [kingk4888888@twitter](https://twitter.com/kingk4888888/status/1394730960894119937) | advertise |
 | [KingmaxNft@twitter](https://twitter.com/KingmaxNft/status/1550009809159630849) | advertise |
 | [kingpolat5@twitter](https://twitter.com/kingpolat5/status/1397988631265038339) | advertise |
