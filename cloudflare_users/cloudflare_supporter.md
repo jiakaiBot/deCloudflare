@@ -7601,6 +7601,7 @@ Do not create new issue or we will close it as duplicate.
 | [RunStopRestoreX@twitter](https://twitter.com/RunStopRestoreX/status/1381973526350073856) | advertise |
 | [Rupesh69314329@twitter](https://twitter.com/Rupesh69314329/status/1484841043363131393) | advertise |
 | [RUPopular@twitter](https://twitter.com/RUPopular/status/1561430692134719488) | advertise |
+| [RuralAnemone@twitter](https://twitter.com/RuralAnemone/status/1569400806524473345) | advertise |
 | [rurq_official@twitter](https://twitter.com/rurq_official/status/1477737272132915201) | advertise |
 | [RushGam79575096@twitter](https://twitter.com/RushGam79575096/status/1562070681008865280) | advertise |
 | [Rushike85904039@twitter](https://twitter.com/Rushike85904039/status/1381637780657168384) | advertise |
