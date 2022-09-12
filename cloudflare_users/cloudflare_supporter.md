@@ -4736,6 +4736,7 @@ Do not create new issue or we will close it as duplicate.
 | [lalan_dukes@twitter](https://twitter.com/lalan_dukes/status/1557301841188225025) | advertise |
 | [lAli98l@twitter](https://twitter.com/lAli98l/status/1394529136870309889) | advertise |
 | [lalyly15@twitter](https://twitter.com/lalyly15/status/1488410561918701569) | advertise |
+| [lam04035@twitter](https://twitter.com/lam04035/status/1569219409956438016) | advertise |
 | [Lam34989379@twitter](https://twitter.com/Lam34989379/status/1500010999960588288) | advertise |
 | [LamChi02566231@twitter](https://twitter.com/LamChi02566231/status/1402533776597475329) | advertise |
 | [lamduc321@twitter](https://twitter.com/lamduc321/status/1387107706796871680) | advertise |
@@ -8517,6 +8518,7 @@ Do not create new issue or we will close it as duplicate.
 | [TensingNightco@twitter](https://twitter.com/TensingNightco/status/1378194588838424582) | advertise |
 | [tenzyumasuda@twitter](https://twitter.com/tenzyumasuda/status/1468236764355641346) | advertise |
 | [TeresePoling611@twitter](https://twitter.com/TeresePoling611/status/1473044204804886530) | advertise |
+| [TerrickLoren@twitter](https://twitter.com/TerrickLoren/status/1569206845163839489) | advertise |
 | [TersakitiNep@twitter](https://twitter.com/TersakitiNep/status/1493721965885988867) | advertise |
 | [tertawalepas_@twitter](https://twitter.com/tertawalepas_/status/1552319664797421568) | advertise |
 | [TetTunLin1@twitter](https://twitter.com/TetTunLin1/status/1389947825602002945) | advertise |
