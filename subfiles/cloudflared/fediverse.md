@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,889 |
-| net | 1,667 |
+| net | 1,668 |
 | social | 1,176 |
 | org | 1,141 |
 | de | 998 |
@@ -1509,7 +1509,7 @@ Here's a list of public Fediverse services.
 | azimuth.place | Yes |
 | azkware.net | No |
 | azuki-zenzai.net | No |
-| azuki.cf | No |
+| azuki.cf | Yes |
 | azumarill.net | No |
 | azunyan.jp | No |
 | azunyan.uk | No |
@@ -4974,6 +4974,7 @@ Here's a list of public Fediverse services.
 | electricpea.ch | No |
 | electro.social | No |
 | electronblueberry.xyz | No |
+| electronicping.net | No |
 | electronvolt.com | No |
 | electrosphe.re | No |
 | elefant.social | No |
@@ -10770,6 +10771,7 @@ Here's a list of public Fediverse services.
 | makrobytes.eu | No |
 | mal.systems | No |
 | malacology.net | Yes |
+| maladaptive.art | No |
 | malfunctioning.technology | No |
 | malgranda.net | No |
 | maliach.fr | No |
@@ -21147,8 +21149,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,140 |
-| Normal | 16,964 |
+| Cloudflare | 4,141 |
+| Normal | 16,965 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
