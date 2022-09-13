@@ -9143,6 +9143,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrungVu97820946@twitter](https://twitter.com/TrungVu97820946/status/1514387383353229315) | advertise |
 | [TrunTru48885665@twitter](https://twitter.com/TrunTru48885665/status/1405518457458753536) | advertise |
 | [trun_kynw1506@twitter](https://twitter.com/trun_kynw1506/status/1551907227535310848) | advertise |
+| [Truong31084796@twitter](https://twitter.com/Truong31084796/status/1569522394636877824) | advertise |
 | [truongchoechoet@twitter](https://twitter.com/truongchoechoet/status/1489978969927843840) | advertise |
 | [Truongd26939610@twitter](https://twitter.com/Truongd26939610/status/1400501039443361796) | advertise |
 | [TruongDungntd@twitter](https://twitter.com/TruongDungntd/status/1408038729999024133) | advertise |
