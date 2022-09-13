@@ -40,4 +40,6 @@ Kontribuantoj, kiuj anonime [kontribuis](HISTORY.md) (inkluzive en [CryptoParty]
 
 [This repository](http://crimeflare.eu.org) was created anonymously, in public, for the use of the world to [resist](https://dw.expert/2020/06/13/the-dark-side-of-google-interview-with-ex-employee-of-the-company-zach-vorhies/) [Cloudflare](https://www.cloudflare.com/).
   
-Contributors who have anonymously [contributed](HISTORY.md) (including in [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)) have since come forward to give this project their blessing.
+Contributors who have anonymously [contributed](HISTORY.md) (including in [CryptoParty](https://cryptoparty.at/cryptoparty_wien_53)) had since come forward to give this project their blessing.
+
+What are you waiting for? Contribute!
