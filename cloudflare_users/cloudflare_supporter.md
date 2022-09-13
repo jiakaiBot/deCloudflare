@@ -6287,6 +6287,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguyenDJ@twitter](https://twitter.com/NguyenDJ/status/1385868091020648448) | advertise |
 | [nguyendoantrun1@twitter](https://twitter.com/nguyendoantrun1/status/1397256926929440769) | advertise |
 | [Nguyenduc26292@twitter](https://twitter.com/Nguyenduc26292/status/1552727171122479104) | advertise |
+| [NguyenG41202087@twitter](https://twitter.com/NguyenG41202087/status/1569785908148453376) | advertise |
 | [NguyenH32641866@twitter](https://twitter.com/NguyenH32641866/status/1561209403445231616) | advertise |
 | [Nguyenh86642977@twitter](https://twitter.com/Nguyenh86642977/status/1397205087664152583) | advertise |
 | [nguyenh94739327@twitter](https://twitter.com/nguyenh94739327/status/1475697233161261056) | advertise |
