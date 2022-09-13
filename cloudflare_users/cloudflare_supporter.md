@@ -3783,6 +3783,7 @@ Do not create new issue or we will close it as duplicate.
 | [JE2DlAAd0UBr2Rw@twitter](https://twitter.com/JE2DlAAd0UBr2Rw/status/1384138729485324291) | advertise |
 | [Jeary45857239@twitter](https://twitter.com/Jeary45857239/status/1393838455034195971) | advertise |
 | [jeattoo@twitter](https://twitter.com/jeattoo/status/1390214402243108864) | advertise |
+| [jeebearbae@twitter](https://twitter.com/jeebearbae/status/1569617345357938688) | advertise |
 | [jeepinjeepin@twitter](https://twitter.com/jeepinjeepin/status/1557058497166073856) | advertise |
 | [Jeerawa38868336@twitter](https://twitter.com/Jeerawa38868336/status/1399151884649172992) | advertise |
 | [Jeeva09507345@twitter](https://twitter.com/Jeeva09507345/status/1380107605213814789) | advertise |
