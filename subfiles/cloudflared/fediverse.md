@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,889 |
 | net | 1,668 |
-| social | 1,176 |
+| social | 1,177 |
 | org | 1,141 |
 | de | 998 |
 
@@ -381,6 +381,7 @@ Here's a list of public Fediverse services.
 | a.sc | No |
 | a11k.net | No |
 | a11y.info | No |
+| a11y.social | No |
 | a15a.co | No |
 | a2mi.social | No |
 | a3.pm | Yes |
@@ -19080,6 +19081,7 @@ Here's a list of public Fediverse services.
 | tu-dresden.de | No |
 | tubbycats.club | No |
 | tube-nachrichten.com | No |
+| tube.org.il | No |
 | tubedu.org | No |
 | tubee.fr | Yes |
 | tubejar.com | No |
@@ -21154,7 +21156,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,142 |
-| Normal | 16,968 |
+| Normal | 16,970 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
