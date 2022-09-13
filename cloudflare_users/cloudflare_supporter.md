@@ -9400,6 +9400,7 @@ Do not create new issue or we will close it as duplicate.
 | [vian_kio@twitter](https://twitter.com/vian_kio/status/1404827196846317571) | advertise |
 | [victoraldir@twitter](https://twitter.com/victoraldir/status/1468678725684404231) | advertise |
 | [VictorC67776723@twitter](https://twitter.com/VictorC67776723/status/1429202585097998336) | advertise |
+| [Victorsanguine5@twitter](https://twitter.com/Victorsanguine5/status/1569801607839088641) | advertise |
 | [viem_tru@twitter](https://twitter.com/viem_tru/status/1395102795670327296) | advertise |
 | [VienTranthai75@twitter](https://twitter.com/VienTranthai75/status/1562738581428666368) | advertise |
 | [Viet2008@twitter](https://twitter.com/Viet2008/status/1385497309346033664) | advertise |
