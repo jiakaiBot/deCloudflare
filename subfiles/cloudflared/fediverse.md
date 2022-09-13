@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,889 |
 | net | 1,668 |
-| social | 1,177 |
+| social | 1,178 |
 | org | 1,141 |
 | de | 998 |
 
@@ -5580,6 +5580,7 @@ Here's a list of public Fediverse services.
 | fedi.site | Yes |
 | fedi.space | No |
 | fedi.tech | No |
+| fedi.wien | No |
 | fedi.wtf | No |
 | fedi.xyz | No |
 | fedibird.com | Yes |
@@ -10828,7 +10829,7 @@ Here's a list of public Fediverse services.
 | mania.systems | No |
 | manicphase.me | No |
 | manimani.cc | No |
-| manj.io | No |
+| manj.io | Yes |
 | manji.dev | No |
 | manley.org | No |
 | mannennet.eu | No |
@@ -17168,6 +17169,7 @@ Here's a list of public Fediverse services.
 | solido.space | No |
 | solinge.eu | No |
 | solisoft.top | No |
+| solitary.social | No |
 | solmaz.io | Yes |
 | solna.in | No |
 | solo-outdon.club | No |
@@ -21155,8 +21157,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,142 |
-| Normal | 16,970 |
+| Cloudflare | 4,143 |
+| Normal | 16,971 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
