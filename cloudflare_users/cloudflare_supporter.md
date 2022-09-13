@@ -359,6 +359,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aitizaz14@twitter](https://twitter.com/Aitizaz14/status/1484956706610233350) | advertise |
 | [ai_l12@twitter](https://twitter.com/ai_l12/status/1397037068493197314) | advertise |
 | [ajamiissa1@twitter](https://twitter.com/ajamiissa1/status/1474108447318851595) | advertise |
+| [ajarmah123@twitter](https://twitter.com/ajarmah123/status/1569669764272001025) | advertise |
 | [Ajay25545679@twitter](https://twitter.com/Ajay25545679/status/1389473937520832515) | advertise |
 | [ajayajayid@twitter](https://twitter.com/ajayajayid/status/1374250782011256837) | advertise |
 | [AjayRaj37136446@twitter](https://twitter.com/AjayRaj37136446/status/1377920985144299524) | advertise |
@@ -1735,8 +1736,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -6748,6 +6749,7 @@ Do not create new issue or we will close it as duplicate.
 | [oWLwnVwlgpuBYA4@twitter](https://twitter.com/oWLwnVwlgpuBYA4/status/1395168889152094211) | advertise |
 | [OwO_233_TAT@twitter](https://twitter.com/OwO_233_TAT/status/1418924757710376960) | advertise |
 | [owuru@twitter](https://twitter.com/owuru/status/1370256834062381056) | advertise |
+| [OwusBenNt@twitter](https://twitter.com/OwusBenNt/status/1569668778535047168) | advertise |
 | [Oza86732831@twitter](https://twitter.com/Oza86732831/status/1400399392029298694) | advertise |
 | [ozairkhan7@twitter](https://twitter.com/ozairkhan7/status/1379544271309578240) | advertise |
 | [Ozymand28326389@twitter](https://twitter.com/Ozymand28326389/status/1384559908188680197) | advertise |
