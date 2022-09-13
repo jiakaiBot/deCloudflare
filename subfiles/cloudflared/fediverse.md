@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,889 |
+| com | 2,891 |
 | net | 1,668 |
 | social | 1,178 |
-| org | 1,141 |
+| org | 1,142 |
 | de | 998 |
 
 
@@ -3012,6 +3012,7 @@ Here's a list of public Fediverse services.
 | christopherjones.us | No |
 | christopheroei.com | No |
 | christophfink.com | No |
+| christophvoigt.com | Yes |
 | chriswiegman.com | Yes |
 | chromabits.com | No |
 | chromatique.xyz | No |
@@ -4575,7 +4576,7 @@ Here's a list of public Fediverse services.
 | dotrio.net | No |
 | dotsod.com | Yes |
 | dotstar.plus | No |
-| dou.bet | No |
+| dou.bet | Yes |
 | dou10s.com | No |
 | douban.city | Yes |
 | doubanbazu.website | No |
@@ -4633,7 +4634,7 @@ Here's a list of public Fediverse services.
 | drcassone.social | No |
 | drdr.club | Yes |
 | drdr.work | Yes |
-| dre.casa | No |
+| dre.casa | Yes |
 | dreads-unlock.fr | No |
 | dreadsec.social | No |
 | dream-seed.com | No |
@@ -4973,6 +4974,7 @@ Here's a list of public Fediverse services.
 | electric-goat.net | No |
 | electriceye.info | No |
 | electricpea.ch | No |
+| electricrequiem.com | No |
 | electro.social | No |
 | electronblueberry.xyz | No |
 | electronicping.net | No |
@@ -7605,7 +7607,7 @@ Here's a list of public Fediverse services.
 | hitomishinozaki.com | No |
 | hitorino.club | Yes |
 | hitorino.moe | Yes |
-| hitorino.tv | No |
+| hitorino.tv | Yes |
 | hitotsu.me | No |
 | hitoxu.com | No |
 | hitsuji.work | No |
@@ -8898,6 +8900,7 @@ Here's a list of public Fediverse services.
 | jxmsocial.xyz | No |
 | jymuoyu.com | Yes |
 | jynxd.it | Yes |
+| jzqk.org | No |
 | k-a-i-f.ru | No |
 | k-ba.net | No |
 | k-easti.tk | No |
@@ -9838,6 +9841,7 @@ Here's a list of public Fediverse services.
 | lazyteddy.eu | No |
 | lbry.top | No |
 | lbry.world | Yes |
+| lc-hinanjo.tk | No |
 | lcavallaro.com | Yes |
 | lclsea.icu | No |
 | lcrprod.fr | No |
@@ -17304,6 +17308,7 @@ Here's a list of public Fediverse services.
 | speedfox.co.uk | No |
 | speedster.social | Yes |
 | speicherwolke.net | No |
+| spelt.io | No |
 | sperg.city | Yes |
 | sperg.world | No |
 | spezl.bayern | No |
@@ -21157,8 +21162,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,143 |
-| Normal | 16,971 |
+| Cloudflare | 4,147 |
+| Normal | 16,972 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
