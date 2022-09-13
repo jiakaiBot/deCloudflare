@@ -777,6 +777,7 @@ Do not create new issue or we will close it as duplicate.
 | [Asuka68530199@twitter](https://twitter.com/Asuka68530199/status/1552187901449945089) | advertise |
 | [at251105320@twitter](https://twitter.com/at251105320/status/1505566745951875074) | advertise |
 | [AtaAtaei5@twitter](https://twitter.com/AtaAtaei5/status/1471392503802875906) | advertise |
+| [atanu19233962@twitter](https://twitter.com/atanu19233962/status/1569739614734422016) | advertise |
 | [ataqureshi@twitter](https://twitter.com/ataqureshi/status/1479494465177985025) | advertise |
 | [atauky@twitter](https://twitter.com/atauky/status/1498221297738092546) | advertise |
 | [athet25@twitter](https://twitter.com/athet25/status/1390373120943345664) | advertise |
@@ -3526,6 +3527,7 @@ Do not create new issue or we will close it as duplicate.
 | [ijturton@twitter](https://twitter.com/ijturton/status/1514990711472545806) | advertise |
 | [ikevin457@twitter](https://twitter.com/ikevin457/status/1377224916789948422) | advertise |
 | [IkhmalFirdaus5@twitter](https://twitter.com/IkhmalFirdaus5/status/1396361732096806913) | advertise |
+| [ikkerus@twitter](https://twitter.com/ikkerus/status/1569750297643188224) | advertise |
 | [iklanbar@twitter](https://twitter.com/iklanbar/status/1541602311377928192) | advertise |
 | [IKlinicki@twitter](https://twitter.com/IKlinicki/status/1501579461074075656) | advertise |
 | [iKokkii@twitter](https://twitter.com/iKokkii/status/1459160411425718283) | advertise |
