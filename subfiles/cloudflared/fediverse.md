@@ -5098,6 +5098,7 @@ Here's a list of public Fediverse services.
 | energyarxiv.com | No |
 | energyfintech.io | No |
 | energyflow.rodeo | No |
+| enes.lv | No |
 | engagemedia.org | Yes |
 | engekidon.net | No |
 | engineered.space | No |
@@ -5380,6 +5381,7 @@ Here's a list of public Fediverse services.
 | f8d.rocks | No |
 | fab-l3.org | No |
 | fab.industries | No |
+| fabean.xyz | Yes |
 | fabien-berini.fr | No |
 | fabienphoto.eu | No |
 | fabioneves.ca | No |
@@ -6498,6 +6500,7 @@ Here's a list of public Fediverse services.
 | gatchina.top | No |
 | gated.space | Yes |
 | gath.io | No |
+| gath.nz | No |
 | gattai.net | No |
 | gatti.ninja | No |
 | gattini.ninja | No |
@@ -19477,6 +19480,7 @@ Here's a list of public Fediverse services.
 | urbanwildlife.biz | No |
 | urbanwolf.xyz | No |
 | ureteralstones.life | No |
+| urgelle.fr | No |
 | urgenthelp.in | No |
 | urgero.dev | No |
 | urgero.org | No |
@@ -21149,8 +21153,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,141 |
-| Normal | 16,965 |
+| Cloudflare | 4,142 |
+| Normal | 16,968 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
