@@ -10172,6 +10172,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZookgyiG@twitter](https://twitter.com/ZookgyiG/status/1392647332592644096) | advertise |
 | [Zorrow_kzz@twitter](https://twitter.com/Zorrow_kzz/status/1531717541021761541) | advertise |
 | [Zosia57710493@twitter](https://twitter.com/Zosia57710493/status/1384735879755751429) | advertise |
+| [Zotac159@twitter](https://twitter.com/Zotac159/status/1569562984921579520) | advertise |
 | [zozozo65286220@twitter](https://twitter.com/zozozo65286220/status/1555692585901035521) | advertise |
 | [ZPyiphyo@twitter](https://twitter.com/ZPyiphyo/status/1386897802408566787) | advertise |
 | [zring_barzinjy@twitter](https://twitter.com/zring_barzinjy/status/1531738609983885312) | advertise |
