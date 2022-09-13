@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Detected a Cloudflare version 2 Captcha challenge, This feature is not available in the opensource (free) version.](https://github.com/DarkCat09/python-aternos/issues/52)
 - [지역 관련 이슈](https://github.com/team-durumi/kfem/issues/9)
 - [cloudflare: hopping between failure and success depending on TH's roaming](https://github.com/ooni/probe/issues/2298)
 - [cloudflare Lookup of length of last response breaks pagination](https://github.com/elastic/integrations/issues/4195)
