@@ -6145,7 +6145,7 @@ Here's a list of public Fediverse services.
 | frennet.xyz | Yes |
 | frentalk.com | No |
 | frentube.com | No |
-| frequency.app | No |
+| frequency.app | Yes |
 | frequency.network | No |
 | freshice.org | Yes |
 | freundica.de | No |
@@ -8487,7 +8487,7 @@ Here's a list of public Fediverse services.
 | jacksplace.dk | No |
 | jacky.wtf | No |
 | jacl.tech | Yes |
-| jacobneplokh.com | No |
+| jacobneplokh.com | Yes |
 | jacs.xyz | No |
 | jadden.info | No |
 | jade.moe | No |
@@ -14293,7 +14293,7 @@ Here's a list of public Fediverse services.
 | pepepper.cf | Yes |
 | peppyfish.com | No |
 | pepsi.zone | No |
-| perceptiontravel.tv | No |
+| perceptiontravel.tv | Yes |
 | pericles.hu | No |
 | pericles.world | No |
 | pericoloso.ovh | No |
@@ -21162,8 +21162,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,147 |
-| Normal | 16,972 |
+| Cloudflare | 4,150 |
+| Normal | 16,969 |
 
 
-### 19.6% of public Fediverse services are using Cloudflare.
+### 19.7% of public Fediverse services are using Cloudflare.
