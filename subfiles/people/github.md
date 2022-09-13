@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [지역 관련 이슈](https://github.com/team-durumi/kfem/issues/9)
 - [cloudflare: hopping between failure and success depending on TH's roaming](https://github.com/ooni/probe/issues/2298)
 - [cloudflare Lookup of length of last response breaks pagination](https://github.com/elastic/integrations/issues/4195)
 - [Can not get KVNamespace Bindings by c.env.XX in the jsx-ssr example](https://github.com/honojs/examples/issues/18)
