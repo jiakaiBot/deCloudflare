@@ -61,6 +61,7 @@ www.wwlp.com
 www.wyomingnews.com
 www.wzb.eu
 www.wzzm13.com
+api.weather.gov
 assets.wowmodels.com
 cute18xvn.webflow.io
 enneahna.wixsite.com
@@ -90,6 +91,7 @@ www.whitesupremacyculture.info
 www.willmarradio.com
 www.winterwatch.net
 www.wisearticle.com
+www.wktv.com
 www.wpbf.com
 www.wpri.com
 www.wrde.com
