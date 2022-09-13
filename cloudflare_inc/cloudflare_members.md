@@ -73,6 +73,7 @@ Or is this merely a case of simple modesty?
 | Aerene Aphiwatudomkun | Customer Development |  |
 | Ahamed Nafeez | Security |  |
 | Ahrenn Sivananthan | Product Management Intern |  |
+| Ainesh Arumugam | Employee | |
 | AJ Gerstenhaber | Team Security Sales |  |
 | Aki Shugaeva | Employee |  |
 | Akshata Mohan | Data Scientist |  |
