@@ -52,6 +52,8 @@ business.google.com
 earl-sweatshirt-heardlee.glitch.me
 gaehn.org
 gamemovie.net
+geegotech.com
+getfedora.org
 gethushme.com
 ggongcash.com
 ggongcream.com
@@ -64,6 +66,7 @@ greyli.com
 gruporogu.com.mx
 gwegner.de
 packages.gentoo.org
+thietbibeboihafuco.glitch.me
 trends.google.de
 tribunatreviso.gelocal.it
 www.gakutsutaja.net
