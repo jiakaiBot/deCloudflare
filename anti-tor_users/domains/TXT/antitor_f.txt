@@ -273,6 +273,7 @@ anone.fanbox.cc
 app.franceconnect.gouv.fr
 atelier-daikon.fanbox.cc
 autumnsnow.fanbox.cc
+baldur.fanbox.cc
 baraag.fanbox.cc
 blog.fascode.net
 bookmagic.fanbox.cc
@@ -291,10 +292,13 @@ fayette-news.net
 ferumu.fanbox.cc
 ffdbusinesscommittee.org
 findxxx.net
+firstchoicefencing.com.au
 fm-gardentool.com
 fmsaz.com
 fortee.jp
+fox28media.com
 freeuseguys.fanbox.cc
+frendybite.com
 fsu.fr
 fundacjaincanto.pl
 fushinsya.fanbox.cc
@@ -308,6 +312,7 @@ hibinpo.fanbox.cc
 highware.fanbox.cc
 hikarichan.fanbox.cc
 himuro.fanbox.cc
+hiramedousa.fanbox.cc
 hobtooc-new.fanbox.cc
 hojo-kai.fanbox.cc
 ikelag.fanbox.cc
@@ -332,12 +337,15 @@ liquidbenki.fanbox.cc
 littleweirdoneko.fanbox.cc
 lookaside.fbsbx.com
 maguaki.fanbox.cc
+maverick.fanbox.cc
 mirintype5.fanbox.cc
 mizuuchi-lucia.fanbox.cc
+montygluey.fanbox.cc
 morphz.fanbox.cc
 mtomita.fanbox.cc
 ninfanocturna.fanbox.cc
 nioartist.fanbox.cc
+norphen-ouo.fanbox.cc
 nsfy.fanbox.cc
 ojitan55.fanbox.cc
 organizacion-obrera.fora.com.ar
@@ -383,3 +391,4 @@ xinoa029.fanbox.cc
 yshr0926.fanbox.cc
 yuccoshi.fanbox.cc
 yuuyuu.fanbox.cc
+zooanime.fanbox.cc
