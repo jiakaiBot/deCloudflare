@@ -111,6 +111,7 @@ aamississauga.org
 aaphoenix.org
 abc3340.com
 abc6onyourside.com
+advertising-api-eu.amazon.com
 aeronet.news
 aggconnect.com
 ago.mo.gov
@@ -124,6 +125,7 @@ anordtal.com
 appliancesrepaircare.com
 area72aa.org
 aremiti.jp
+arienhost.com
 articlemug.com
 asiakaspalvelunumerosuomi.com
 atilioboron.com.ar
@@ -146,6 +148,7 @@ www-tsf-pt.cdn.ampproject.org
 www.abc12.com
 www.abc6.com
 www.abebooks.com
+www.aberdeenlive.news
 www.abillionpeople.org
 www.ace-cae.eu
 www.adelaidezoo.com.au
