@@ -1763,6 +1763,7 @@ Do not create new issue or we will close it as duplicate.
 | [CryptoRishabh@twitter](https://twitter.com/CryptoRishabh/status/1373489721876213762) | advertise |
 | [cryptosmitties@twitter](https://twitter.com/cryptosmitties/status/1508877211843149832) | advertise |
 | [csgozage@twitter](https://twitter.com/csgozage/status/1392900573930803201) | advertise |
+| [CSkourides@twitter](https://twitter.com/CSkourides/status/1570114870183612418) | advertise |
 | [cter_s@twitter](https://twitter.com/cter_s/status/1405419425478561794) | advertise |
 | [cThn10480979@twitter](https://twitter.com/cThn10480979/status/1552491877168844801) | advertise |
 | [CThuSoe4@twitter](https://twitter.com/CThuSoe4/status/1393751002122129414) | advertise |
@@ -4377,8 +4378,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -9619,6 +9620,7 @@ Do not create new issue or we will close it as duplicate.
 | [webtools247@twitter](https://twitter.com/webtools247/status/1533226069863563265) | advertise |
 | [WebUtilisationp@twitter](https://twitter.com/WebUtilisationp/status/1527158501054853121) | advertise |
 | [webveko@twitter](https://twitter.com/webveko/status/1469937863273979904) | advertise |
+| [webworkzdigital@twitter](https://twitter.com/webworkzdigital/status/1570115009903992832) | advertise |
 | [Weduy2Weduy@twitter](https://twitter.com/Weduy2Weduy/status/1482102273207844865) | advertise |
 | [Weed36471988@twitter](https://twitter.com/Weed36471988/status/1385586093697880071) | advertise |
 | [WeedSino@twitter](https://twitter.com/WeedSino/status/1489122233520123904) | advertise |
