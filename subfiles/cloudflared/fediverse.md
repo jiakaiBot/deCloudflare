@@ -2676,6 +2676,7 @@ Here's a list of public Fediverse services.
 | cascadia.games | No |
 | cascadia.news | Yes |
 | cascadia.social | Yes |
+| cascadia.space | No |
 | cascadiafree.space | No |
 | cascadians.net | Yes |
 | caselibre.fr | No |
@@ -12488,6 +12489,7 @@ Here's a list of public Fediverse services.
 | mysocial.world | No |
 | mysound.directory | No |
 | mysrvr.org | No |
+| myss.li | No |
 | mystia.club | No |
 | mystic.lgbt | Yes |
 | mysticcabin.xyz | No |
@@ -21167,7 +21169,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,150 |
-| Normal | 16,973 |
+| Normal | 16,975 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
