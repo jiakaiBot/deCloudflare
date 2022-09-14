@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error keeps popping up when I work with ANY plugin.](https://github.com/nosilver4u/ewww-image-optimizer/issues/286)
 - [can't push big size image in harbor](https://github.com/goharbor/harbor/issues/17546)
 - [Minimal Analytics are getting blocked by Ad Blockers + Firefox Private Mode](https://github.com/jahilldev/minimal-analytics/issues/36)
 - [Detected a Cloudflare version 2 Captcha challenge, This feature is not available in the opensource (free) version.](https://github.com/DarkCat09/python-aternos/issues/52)
