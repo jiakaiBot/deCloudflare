@@ -10025,6 +10025,7 @@ Do not create new issue or we will close it as duplicate.
 | [zalaankapoy@twitter](https://twitter.com/zalaankapoy/status/1567544093475241984) | advertise |
 | [zan_wine@twitter](https://twitter.com/zan_wine/status/1389881186852372481) | advertise |
 | [Zarchi44269885@twitter](https://twitter.com/Zarchi44269885/status/1392878000153186305) | advertise |
+| [ZARIHSRETOUCHER@twitter](https://twitter.com/ZARIHSRETOUCHER/status/1569903768095039488) | advertise |
 | [ZarMaNii4@twitter](https://twitter.com/ZarMaNii4/status/1472576384362942468) | advertise |
 | [Zarni09646454@twitter](https://twitter.com/Zarni09646454/status/1395254301014982656) | advertise |
 | [ZarNiHt37337629@twitter](https://twitter.com/ZarNiHt37337629/status/1548656005092745216) | advertise |
