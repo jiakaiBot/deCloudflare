@@ -4814,6 +4814,7 @@ Do not create new issue or we will close it as duplicate.
 | [leanhton1@twitter](https://twitter.com/leanhton1/status/1400838495875174401) | advertise |
 | [leastrio_@twitter](https://twitter.com/leastrio_/status/1370110974108307467) | advertise |
 | [LebGony@twitter](https://twitter.com/LebGony/status/1395365414541029381) | advertise |
+| [LeChien205@twitter](https://twitter.com/LeChien205/status/1569938137870385152) | advertise |
 | [Lechung6996@twitter](https://twitter.com/Lechung6996/status/1386718562786496512) | advertise |
 | [Lecongh15117879@twitter](https://twitter.com/Lecongh15117879/status/1401879372282220545) | advertise |
 | [LeCuong1096@twitter](https://twitter.com/LeCuong1096/status/1388948514395234306) | advertise |
