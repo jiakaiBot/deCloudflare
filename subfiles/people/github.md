@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [LNMTL isn't working](https://github.com/dipu-bd/lightnovel-crawler/issues/1577)
 - [Checking for tag names that include a colon](https://github.com/rails/rails-dom-testing/issues/104)
 - [Host option not working behind cloudflare reverse proxy](https://github.com/rubikscraft/Picsur/issues/15)
 - [Error keeps popping up when I work with ANY plugin.](https://github.com/nosilver4u/ewww-image-optimizer/issues/286)
