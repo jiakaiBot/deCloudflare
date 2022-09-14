@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,891 |
+| com | 2,892 |
 | net | 1,668 |
-| social | 1,178 |
+| social | 1,179 |
 | org | 1,142 |
 | de | 998 |
 
@@ -4805,6 +4805,7 @@ Here's a list of public Fediverse services.
 | eastback.co.jp | No |
 | easydns.ca | No |
 | eatinpizza.com | No |
+| eatthebugs.social | No |
 | eattherich.club | No |
 | eattherich.social | No |
 | eattra.sh | No |
@@ -10798,6 +10799,7 @@ Here's a list of public Fediverse services.
 | mametsuko.net | Yes |
 | mamieserv.fr | No |
 | mammoth.social | Yes |
+| mammothcircus.com | No |
 | mammout.bzh | No |
 | mammouth.cafe | Yes |
 | mammouth.quebec | No |
@@ -21163,7 +21165,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,150 |
-| Normal | 16,969 |
+| Normal | 16,971 |
 
 
-### 19.7% of public Fediverse services are using Cloudflare.
+### 19.6% of public Fediverse services are using Cloudflare.
