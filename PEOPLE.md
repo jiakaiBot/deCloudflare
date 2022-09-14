@@ -148,6 +148,8 @@
 <summary><h3>Forum / Wiki</h3>
 </summary>
 
+- [EasyList filter blocks cloudflare](https://old.reddit.com/r/9anime/comments/xctq9z/easylist_filter_blocks_cloudflare/)
+- [Waiting for cloudlfare bypass... I really need help fixing this please!! I’m a beginner.](https://old.reddit.com/r/CloudFlare/comments/xbgm98/waiting_for_cloudlfare_bypass_i_really_need_help/)
 - [Website in proxied mode not reachable in Leipzig/Germany](https://community.cloudflare.com/t/website-in-proxied-mode-not-reachable-in-leipzig-germany/414279)
 - [Cloudflare's abusive monoply on the WWW](https://old.reddit.com/r/privacy/comments/r1bct2/cloudflares_abusive_monoply_on_the_www/)
 - [Suddenly Sickness Feels, Cloudflare, really F-Droid?](https://forum.f-droid.org/t/suddenly-sickness-feels-cloudflare-really-f-droid/17948)
