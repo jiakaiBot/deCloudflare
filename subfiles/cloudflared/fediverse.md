@@ -8811,7 +8811,7 @@ Here's a list of public Fediverse services.
 | joshuacasey.net | Yes |
 | josias.dev | No |
 | josz.space | No |
-| journalist.social | Yes |
+| journalist.social | No |
 | joyrex.net | No |
 | jp-mastodon.com | No |
 | jp-mstdn.com | No |
@@ -9612,6 +9612,7 @@ Here's a list of public Fediverse services.
 | kuropen.org | Yes |
 | kuroringo.com | No |
 | kurosawa-ruby.xyz | No |
+| kurosawa.moe | No |
 | kuroserver.net | No |
 | kurosuke.org | No |
 | kurume-nct.com | No |
@@ -21164,8 +21165,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,150 |
-| Normal | 16,971 |
+| Cloudflare | 4,149 |
+| Normal | 16,973 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
