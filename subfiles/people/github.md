@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflared not working, fix immediately](https://github.com/KasRoudra/PyPhisher/issues/128)
 - [Inline scripts can get broken](https://github.com/marko-js/writable-dom/issues/1)
 - [Middleware \"user-auth@file\" does not exist" after traefik update from 2.8.1 to higher releases](https://github.com/traefik/traefik/issues/9336)
 - [LNMTL isn't working](https://github.com/dipu-bd/lightnovel-crawler/issues/1577)
