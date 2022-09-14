@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Middleware \"user-auth@file\" does not exist" after traefik update from 2.8.1 to higher releases](https://github.com/traefik/traefik/issues/9336)
 - [LNMTL isn't working](https://github.com/dipu-bd/lightnovel-crawler/issues/1577)
 - [Checking for tag names that include a colon](https://github.com/rails/rails-dom-testing/issues/104)
 - [Host option not working behind cloudflare reverse proxy](https://github.com/rubikscraft/Picsur/issues/15)
