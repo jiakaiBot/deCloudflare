@@ -9904,6 +9904,7 @@ Do not create new issue or we will close it as duplicate.
 | [yenge64397545@twitter](https://twitter.com/yenge64397545/status/1390186510939410432) | advertise |
 | [YenVyNguyen7@twitter](https://twitter.com/YenVyNguyen7/status/1395775894686294016) | advertise |
 | [YeolThinzar@twitter](https://twitter.com/YeolThinzar/status/1539447377844572161) | advertise |
+| [YeptaIbrahim@twitter](https://twitter.com/YeptaIbrahim/status/1569868837637726208) | advertise |
 | [yes_holiday@twitter](https://twitter.com/yes_holiday/status/1483787050377957386) | advertise |
 | [YeThanLwin5@twitter](https://twitter.com/YeThanLwin5/status/1389797806454411265) | advertise |
 | [YeThu07735554@twitter](https://twitter.com/YeThu07735554/status/1393054643865804802) | advertise |
