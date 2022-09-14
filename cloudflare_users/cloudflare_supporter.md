@@ -7900,6 +7900,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sfa7ko1@twitter](https://twitter.com/Sfa7ko1/status/1544992856439398400) | advertise |
 | [sfa99688270@twitter](https://twitter.com/sfa99688270/status/1542988291116613639) | advertise |
 | [sffgeek@twitter](https://twitter.com/sffgeek/status/1420023436294991892) | advertise |
+| [SFLin5@twitter](https://twitter.com/SFLin5/status/1570060437701685250) | advertise |
 | [sg2Htu8XNTBFMqO@twitter](https://twitter.com/sg2Htu8XNTBFMqO/status/1403241595885875203) | advertise |
 | [SG4NgocThang@twitter](https://twitter.com/SG4NgocThang/status/1499256871324053506) | advertise |
 | [sgclabglass@twitter](https://twitter.com/sgclabglass/status/1391577319232335872) | advertise |
@@ -8692,6 +8693,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thegamerprogra3@twitter](https://twitter.com/Thegamerprogra3/status/1545423522876772352) | advertise |
 | [TheGodOfEvil23@twitter](https://twitter.com/TheGodOfEvil23/status/1393882433750278151) | advertise |
 | [THEGURLPASSION@twitter](https://twitter.com/THEGURLPASSION/status/1506792367872958471) | advertise |
+| [TheGuy08825790@twitter](https://twitter.com/TheGuy08825790/status/1570056189081432064) | advertise |
 | [theiadilvirgo@twitter](https://twitter.com/theiadilvirgo/status/1390549636373307394) | advertise |
 | [TheimpikeS@twitter](https://twitter.com/TheimpikeS/status/1392328146100264966) | advertise |
 | [THEIN1467@twitter](https://twitter.com/THEIN1467/status/1391700961991663618) | advertise |
@@ -9627,6 +9629,7 @@ Do not create new issue or we will close it as duplicate.
 | [whatyouneedto@twitter](https://twitter.com/whatyouneedto/status/1410881084057870337) | moral (advertise) |
 | [whinsche_CF@twitter](https://twitter.com/whinsche_CF/status/1528805265579057152) | advertise |
 | [WhoAmI61449941@twitter](https://twitter.com/WhoAmI61449941/status/1379726183009460224) | advertise |
+| [Whodis09575291@twitter](https://twitter.com/Whodis09575291/status/1570060628211142659) | advertise |
 | [whoomenreallyis@twitter](https://twitter.com/whoomenreallyis/status/1506157558628855813) | advertise |
 | [WhXRuMfnyHtsfdk@twitter](https://twitter.com/WhXRuMfnyHtsfdk/status/1403069036422856705) | advertise |
 | [whynot8288@twitter](https://twitter.com/whynot8288/status/1470869376207589379) | advertise |
