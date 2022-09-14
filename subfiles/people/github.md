@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Checking for tag names that include a colon](https://github.com/rails/rails-dom-testing/issues/104)
+- [Host option not working behind cloudflare reverse proxy](https://github.com/rubikscraft/Picsur/issues/15)
 - [Error keeps popping up when I work with ANY plugin.](https://github.com/nosilver4u/ewww-image-optimizer/issues/286)
 - [can't push big size image in harbor](https://github.com/goharbor/harbor/issues/17546)
 - [Minimal Analytics are getting blocked by Ad Blockers + Firefox Private Mode](https://github.com/jahilldev/minimal-analytics/issues/36)
