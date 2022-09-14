@@ -2469,6 +2469,7 @@ Do not create new issue or we will close it as duplicate.
 | [FareedAmirul2@twitter](https://twitter.com/FareedAmirul2/status/1468342850953768962) | advertise |
 | [FaresX27@twitter](https://twitter.com/FaresX27/status/1399054260785106952) | advertise |
 | [FarhanAacin@twitter](https://twitter.com/FarhanAacin/status/1379323075624202240) | advertise |
+| [Farhatasli@twitter](https://twitter.com/Farhatasli/status/1569995471455936512) | advertise |
 | [fariborzn1@twitter](https://twitter.com/fariborzn1/status/1391848602469814272) | advertise |
 | [farithaidil75@twitter](https://twitter.com/farithaidil75/status/1395571970440253440) | advertise |
 | [farooq_dmj@twitter](https://twitter.com/farooq_dmj/status/1471859023389630468) | advertise |
@@ -6104,6 +6105,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nansu65438228@twitter](https://twitter.com/Nansu65438228/status/1393736436499746817) | advertise |
 | [NantapatNott@twitter](https://twitter.com/NantapatNott/status/1486229015237398531) | advertise |
 | [NanThinZarOo3@twitter](https://twitter.com/NanThinZarOo3/status/1391693108195348484) | advertise |
+| [naoiix@twitter](https://twitter.com/naoiix/status/1569995918551793665) | advertise |
 | [NaoremDojo@twitter](https://twitter.com/NaoremDojo/status/1382449145856851971) | advertise |
 | [nao_qua@twitter](https://twitter.com/nao_qua/status/1533404289648844802) | advertise |
 | [nappyboy1109@twitter](https://twitter.com/nappyboy1109/status/1559171847643893761) | advertise |
