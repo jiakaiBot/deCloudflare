@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,892 |
-| net | 1,668 |
+| net | 1,669 |
 | social | 1,179 |
 | org | 1,142 |
 | de | 998 |
@@ -3601,6 +3601,7 @@ Here's a list of public Fediverse services.
 | crystal-lang.social | Yes |
 | crystal.computer | No |
 | crystalyx.net | Yes |
+| cs133.net | Yes |
 | cs59.co | No |
 | csaerotherm.com | Yes |
 | csc49.fr | No |
@@ -21165,7 +21166,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,149 |
+| Cloudflare | 4,150 |
 | Normal | 16,973 |
 
 
