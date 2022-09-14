@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Minimal Analytics are getting blocked by Ad Blockers + Firefox Private Mode](https://github.com/jahilldev/minimal-analytics/issues/36)
 - [Detected a Cloudflare version 2 Captcha challenge, This feature is not available in the opensource (free) version.](https://github.com/DarkCat09/python-aternos/issues/52)
 - [지역 관련 이슈](https://github.com/team-durumi/kfem/issues/9)
 - [cloudflare: hopping between failure and success depending on TH's roaming](https://github.com/ooni/probe/issues/2298)
