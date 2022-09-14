@@ -1058,6 +1058,7 @@ Do not create new issue or we will close it as duplicate.
 | [BadBoy29317463@twitter](https://twitter.com/BadBoy29317463/status/1390079278641934339) | advertise |
 | [Badboy49193630@twitter](https://twitter.com/Badboy49193630/status/1396133461799305227) | advertise |
 | [Badgamer99999@twitter](https://twitter.com/Badgamer99999/status/1493242034232070144) | advertise |
+| [badgatway502@twitter](https://twitter.com/badgatway502/status/1570074656140558343) | advertise |
 | [BadgirlYukiko@twitter](https://twitter.com/BadgirlYukiko/status/1395210039845998594) | advertise |
 | [badluckbillyxo@twitter](https://twitter.com/badluckbillyxo/status/1371850435015884807) | advertise |
 | [BadSkey_UwU@twitter](https://twitter.com/BadSkey_UwU/status/1534625539410886656) | advertise |
@@ -4374,8 +4375,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
