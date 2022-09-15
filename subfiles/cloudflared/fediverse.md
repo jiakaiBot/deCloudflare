@@ -8523,7 +8523,7 @@ Here's a list of public Fediverse services.
 | james.network | No |
 | jamescousins.com | No |
 | jamesekstrom.com | No |
-| jamesg.blog | No |
+| jamesg.blog | Yes |
 | jamesgallagher.social | No |
 | jameskitt616.one | No |
 | jameslandrum.com | No |
@@ -10676,6 +10676,7 @@ Here's a list of public Fediverse services.
 | machauer.dev | No |
 | machida.yokohama | No |
 | machikadon.online | Yes |
+| machine-cat.space | No |
 | machines.social | No |
 | machique.st | No |
 | machteburch.social | No |
@@ -21181,7 +21182,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,152 |
+| Cloudflare | 4,153 |
 | Normal | 16,986 |
 
 
