@@ -6728,6 +6728,7 @@ Do not create new issue or we will close it as duplicate.
 | [openprivacy.ca](https://openprivacy.ca/) | by deleting git without warning |
 | [open_teck@twitter](https://twitter.com/open_teck/status/1377209508976594948) | advertise |
 | [OPOKUPRINCE334@twitter](https://twitter.com/OPOKUPRINCE334/status/1490576779198836736) | advertise |
+| [OpticalDelusio8@twitter](https://twitter.com/OpticalDelusio8/status/1570393454550851590) | advertise |
 | [Optimal604@twitter](https://twitter.com/Optimal604/status/1390554059254292481) | advertise |
 | [Optimeast@twitter](https://twitter.com/Optimeast/status/1401416582413307904) | advertise |
 | [OPTONEEDSEARCH@twitter](https://twitter.com/OPTONEEDSEARCH/status/1548454333401878528) | advertise |
