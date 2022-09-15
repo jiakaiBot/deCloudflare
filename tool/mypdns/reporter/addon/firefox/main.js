@@ -8,7 +8,6 @@ let done = false,
    usePOP = false,
    lookupCAT = false;
 const baseurl = ['https://karma.crimeflare.eu.org:1984', 'http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion'];
-const waitstc = ['Hold on', 'One moment', 'Just a moment', 'Just a sec', 'Just a second', 'Nice find', 'Knock-knock!', 'Brill!', 'Brilliant!', 'Cool!', 'Good going!', 'Good job!', 'Good work!', 'Great!', 'Keep it up!', 'Marvelous!', 'Nice going!', 'Outstanding!', 'Perfect!', 'Right on!', 'Super!', 'Superb!', 'Terrific!', 'Thanks!', 'Wonderful!', 'Wow!', 'You are doing a good job!'];
 let domainCAT = {};
 function showreply(t, d, icon = '') {
    browser.notifications.clear(notify);
@@ -167,7 +166,7 @@ function reporting(i, t) {
       return;
    }
    running = true;
-   showreply(waitstc[Math.floor(Math.random() * waitstc.length)], 'Reporting ' + cattype + ' ' + fqdn + '...', cattype);
+   showreply('Reporting...', cattype + ' ' + fqdn, cattype);
    ireport(url, cattype, i.comment || '').then(g => {
       if (g.reply) {
          if (g.reply == 'roger') {
