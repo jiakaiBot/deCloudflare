@@ -26,7 +26,6 @@ teleyal.blog
 termcoord.eu
 texteundtee.at
 tflcar.com
-thebristolcable.org
 thecryptoinn.com
 theecologist.org
 thefederal.com
@@ -124,10 +123,12 @@ relay.social.tigwali.fr
 rent.toyota.co.jp
 rescue-substack-com.translate.goog
 ressources.terredeliens.org
+sensiblemed-substack-com.translate.goog
 talenton.eu
 tapaj.org
 techcrams.com
 techfily.com
+techinspection.net
 techshali.com
 techvilly.com
 teensexchatrooms.com
@@ -152,7 +153,9 @@ trendinghere.co.uk
 trends4tech.com
 twtybbs.com
 tyndall.ac.uk
+wezard4u-tistory-com.translate.goog
 www-axa-ch.translate.goog
+www-diarilaveu-cat.translate.goog
 www-elespectador-com.translate.goog
 www-eugyppius-com.translate.goog
 www-huffingtonpost-it.translate.goog
@@ -164,6 +167,7 @@ www.tetox.pro
 www.thecinetourist.net
 www.thederrick.com
 www.thelcn.com
+www.theolympian.com
 www.thephotoforum.com
 www.thepostingzone.com
 www.thestate.com
