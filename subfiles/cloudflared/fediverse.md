@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,892 |
-| net | 1,669 |
+| com | 2,893 |
+| net | 1,672 |
 | social | 1,179 |
-| org | 1,142 |
+| org | 1,143 |
 | de | 998 |
 
 
@@ -3935,6 +3935,7 @@ Here's a list of public Fediverse services.
 | darkgeek.city | No |
 | darkgeek.com | No |
 | darkhorseprojects.xyz | No |
+| darkkeep.net | Yes |
 | darkkirb.de | Yes |
 | darknedgy.net | No |
 | darknight-coffee.de | No |
@@ -5036,6 +5037,7 @@ Here's a list of public Fediverse services.
 | elrubius.fans | No |
 | elsacodelcoco.net | No |
 | elsdon.me | Yes |
+| elseifnull.xyz | No |
 | elsmussols.net | No |
 | elsmussols.org | No |
 | elte.hu | No |
@@ -5179,7 +5181,7 @@ Here's a list of public Fediverse services.
 | erch.social | No |
 | erdorin.org | No |
 | erdyyn.net | No |
-| erenlevi.club | Yes |
+| erenlevi.club | No |
 | eri.cx | No |
 | eric.ovh | No |
 | erica.moe | No |
@@ -7878,6 +7880,7 @@ Here's a list of public Fediverse services.
 | hydroxyquinol.net | No |
 | hye.st | No |
 | hyena.network | No |
+| hyenas.lol | No |
 | hyenas.space | No |
 | hygge.ovh | No |
 | hylianux.com | No |
@@ -8756,6 +8759,7 @@ Here's a list of public Fediverse services.
 | johntrain.org | Yes |
 | joinfediverse.online | No |
 | joinfreedom.tk | No |
+| joingardens.com | No |
 | joinmastodon.com | No |
 | joinmastodon.org | Yes |
 | joinpeertubecrypto.org | No |
@@ -9272,6 +9276,7 @@ Here's a list of public Fediverse services.
 | kinowolnosc.pl | No |
 | kinugasa.me | No |
 | kio.moe | Yes |
+| kiobu.dev | No |
 | kios.cc | No |
 | kira-sei.com | Yes |
 | kira.zone | Yes |
@@ -9442,6 +9447,7 @@ Here's a list of public Fediverse services.
 | kola.ml | No |
 | kolektiva.media | Yes |
 | kolektiva.social | Yes |
+| koles.tech | No |
 | kolevino.com | No |
 | kolgate.xyz | No |
 | kollar.cloud | No |
@@ -9596,6 +9602,7 @@ Here's a list of public Fediverse services.
 | kulupu.party | Yes |
 | kumadrive.com | No |
 | kumano-ryo.tech | No |
+| kumi.life | No |
 | kumi.tube | No |
 | kumi.zone | No |
 | kunkel24.de | No |
@@ -12343,6 +12350,7 @@ Here's a list of public Fediverse services.
 | muhroads.net | No |
 | muhroads.party | No |
 | muina.me | No |
+| mujico.org | No |
 | mujo.xyz | Yes |
 | muknown.jp | No |
 | mullet.social | No |
@@ -12763,6 +12771,7 @@ Here's a list of public Fediverse services.
 | neoliferp.fr | No |
 | neon.moe | No |
 | neonballoon.de | No |
+| neondemons.net | No |
 | neonflux.city | No |
 | neongarden.life | No |
 | neongrove.social | No |
@@ -15625,6 +15634,7 @@ Here's a list of public Fediverse services.
 | rehyve.nl | No |
 | rei-ayanami.club | No |
 | reil.de | No |
+| reimu.info | Yes |
 | reinboar.space | Yes |
 | reinboar.xyz | Yes |
 | reindeer.photos | No |
@@ -16711,6 +16721,7 @@ Here's a list of public Fediverse services.
 | shitnexus.party | No |
 | shitnoise.monster | No |
 | shitpo.st | Yes |
+| shitpost.cloud | No |
 | shitpost.institute | No |
 | shitposter.club | No |
 | shitter.me | No |
@@ -20213,6 +20224,7 @@ Here's a list of public Fediverse services.
 | wilde.cloud | No |
 | wildeboer.net | No |
 | wildsplash.photography | No |
+| wildsurf.net | No |
 | wildtree.jp | No |
 | wildwestbookclub.xyz | No |
 | wildwildwestcountry.uk | No |
@@ -21168,8 +21180,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,150 |
-| Normal | 16,975 |
+| Cloudflare | 4,151 |
+| Normal | 16,986 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
