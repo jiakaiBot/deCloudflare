@@ -9033,6 +9033,7 @@ Do not create new issue or we will close it as duplicate.
 | [toni_raifi@twitter](https://twitter.com/toni_raifi/status/1377735232519086080) | advertise |
 | [TonJason8@twitter](https://twitter.com/TonJason8/status/1389524047067713536) | advertise |
 | [tonmkl@twitter](https://twitter.com/tonmkl/status/1406325203643236352) | advertise |
+| [tonnguy2@twitter](https://twitter.com/tonnguy2/status/1570336487828488193) | advertise |
 | [TonNguy74044007@twitter](https://twitter.com/TonNguy74044007/status/1478965334249906182) | advertise |
 | [tonnguy80527958@twitter](https://twitter.com/tonnguy80527958/status/1382009108962807810) | advertise |
 | [Tontan1234567@twitter](https://twitter.com/Tontan1234567/status/1404835134763720706) | advertise |
