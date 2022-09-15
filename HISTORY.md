@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-09-15: [Increased HTTP 500 Errors in several locations](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tgp118lbwtdl)
 - 2022-09-14: [Potential issues with images optimised by Mirage on Pro plan](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/25rs9jlxcgpr)
 - 2022-09-13: [Increased HTTP 522 Errors in Seattle, WA, United States - (SEA)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ktbsx60907hz)
 - 2022-09-11: [Possible Network Congestion in Indonesia](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0p68bwmj5kv2)
