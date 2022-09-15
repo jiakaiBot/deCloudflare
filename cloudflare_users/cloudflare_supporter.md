@@ -7295,6 +7295,7 @@ Do not create new issue or we will close it as duplicate.
 | [QucAnh43254041@twitter](https://twitter.com/QucAnh43254041/status/1498321851013275654) | advertise |
 | [QucHoTrnh1@twitter](https://twitter.com/QucHoTrnh1/status/1552568520789020672) | advertise |
 | [QucKit99403138@twitter](https://twitter.com/QucKit99403138/status/1402246871536398341) | advertise |
+| [qucthnh65827967@twitter](https://twitter.com/qucthnh65827967/status/1570539844170031105) | advertise |
 | [QucVng07260079@twitter](https://twitter.com/QucVng07260079/status/1388357051668119552) | advertise |
 | [queenie_NMT@twitter](https://twitter.com/queenie_NMT/status/1401192961791066114) | advertise |
 | [QueenSuu2@twitter](https://twitter.com/QueenSuu2/status/1394998425016438787) | advertise |
