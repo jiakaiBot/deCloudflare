@@ -8851,6 +8851,7 @@ Do not create new issue or we will close it as duplicate.
 | [thomas_n_hogh@twitter](https://twitter.com/thomas_n_hogh/status/1560917291335929863) | advertise |
 | [thone20208234@twitter](https://twitter.com/thone20208234/status/1388498430025105408) | advertise |
 | [thongda80417861@twitter](https://twitter.com/thongda80417861/status/1387699659456528386) | advertise |
+| [thongucuc@twitter](https://twitter.com/thongucuc/status/1570293930033565697) | advertise |
 | [Thonho338@twitter](https://twitter.com/Thonho338/status/1499041712597245952) | advertise |
 | [ThoonThuRa@twitter](https://twitter.com/ThoonThuRa/status/1399420471603519495) | advertise |
 | [ThornTiw@twitter](https://twitter.com/ThornTiw/status/1403023816163352576) | advertise |
