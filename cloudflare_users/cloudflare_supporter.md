@@ -3555,6 +3555,7 @@ Do not create new issue or we will close it as duplicate.
 | [imhuzeifa@twitter](https://twitter.com/imhuzeifa/status/1540657866222313472) | advertise |
 | [Imiss2302@twitter](https://twitter.com/Imiss2302/status/1404120201159798790) | advertise |
 | [Immortalgod13@twitter](https://twitter.com/Immortalgod13/status/1391123421203820546) | advertise |
+| [Immortalslaye12@twitter](https://twitter.com/Immortalslaye12/status/1570359657763602433) | advertise |
 | [ImmotalMy@twitter](https://twitter.com/ImmotalMy/status/1403607300137492481) | advertise |
 | [ImmTelecom@twitter](https://twitter.com/ImmTelecom/status/1416853736949878786) | advertise |
 | [imprince_kumar@twitter](https://twitter.com/imprince_kumar/status/1540676187382358017) | advertise |
@@ -6345,6 +6346,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynHi86634059@twitter](https://twitter.com/NguynHi86634059/status/1394831522633375744) | advertise |
 | [NguynHo28278787@twitter](https://twitter.com/NguynHo28278787/status/1400115951073304578) | advertise |
 | [nguynho98527821@twitter](https://twitter.com/nguynho98527821/status/1553820792487661568) | advertise |
+| [Nguynhoangtru14@twitter](https://twitter.com/Nguynhoangtru14/status/1570366961946882050) | advertise |
 | [NguynHongHun15@twitter](https://twitter.com/NguynHongHun15/status/1397957522489700354) | advertise |
 | [NguynHu34706565@twitter](https://twitter.com/NguynHu34706565/status/1402642890942074885) | advertise |
 | [NguynHu76578551@twitter](https://twitter.com/NguynHu76578551/status/1391823326327164929) | advertise |
