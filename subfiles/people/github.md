@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [dev-python/cloudflare-2.9.10: newman: cli4/cli4.man does not exist](https://github.com/Phoenix591/gentoo-overlay/issues/4)
 - [Cloudflared not working, fix immediately](https://github.com/KasRoudra/PyPhisher/issues/128)
 - [Inline scripts can get broken](https://github.com/marko-js/writable-dom/issues/1)
 - [Middleware \"user-auth@file\" does not exist" after traefik update from 2.8.1 to higher releases](https://github.com/traefik/traefik/issues/9336)
