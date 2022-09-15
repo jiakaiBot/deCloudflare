@@ -9392,6 +9392,7 @@ Do not create new issue or we will close it as duplicate.
 | [Veno55209967@twitter](https://twitter.com/Veno55209967/status/1491422483966468100) | advertise |
 | [Venus94618205@twitter](https://twitter.com/Venus94618205/status/1394980396618682370) | advertise |
 | [VenusKhang@twitter](https://twitter.com/VenusKhang/status/1401099072740626434) | advertise |
+| [Vera12621772@twitter](https://twitter.com/Vera12621772/status/1570214736159014913) | advertise |
 | [Verchel8@twitter](https://twitter.com/Verchel8/status/1395056149972484098) | advertise |
 | [Verheijke@twitter](https://twitter.com/Verheijke/status/1537395365208539137) | advertise |
 | [VeRseS23221477@twitter](https://twitter.com/VeRseS23221477/status/1538116332331278336) | advertise |
