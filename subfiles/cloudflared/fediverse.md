@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,893 |
+| com | 2,894 |
 | net | 1,672 |
 | social | 1,179 |
 | org | 1,143 |
@@ -9113,6 +9113,7 @@ Here's a list of public Fediverse services.
 | kcdon.jp | No |
 | kcl.academy | No |
 | kcmo.social | No |
+| kcubeterm.com | Yes |
 | kd0bpv.name | No |
 | kddlb.cl | Yes |
 | kdlvklv.xyz | No |
@@ -14843,6 +14844,7 @@ Here's a list of public Fediverse services.
 | poppo-ya.com | Yes |
 | popps.org | No |
 | popradio.club | No |
+| popspicswords.uk | No |
 | popula.social | No |
 | porchlogic.com | No |
 | poridge.club | No |
@@ -16273,6 +16275,7 @@ Here's a list of public Fediverse services.
 | saturno.com.ve | No |
 | satzfetzen.de | No |
 | saucissefrites.com | No |
+| saugeon.fr | No |
 | sauhor.jp | No |
 | saumon.io | No |
 | saunner.com | Yes |
@@ -21182,8 +21185,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,153 |
-| Normal | 16,986 |
+| Cloudflare | 4,154 |
+| Normal | 16,988 |
 
 
 ### 19.6% of public Fediverse services are using Cloudflare.
