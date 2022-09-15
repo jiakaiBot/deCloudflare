@@ -6713,6 +6713,7 @@ Do not create new issue or we will close it as duplicate.
 | [Oo77Nay@twitter](https://twitter.com/Oo77Nay/status/1390853722469658628) | advertise |
 | [ooby34@twitter](https://twitter.com/ooby34/status/1422650719262449667) | advertise |
 | [OoLayGyiMdy@twitter](https://twitter.com/OoLayGyiMdy/status/1377196818384121860) | advertise |
+| [oomaung_chit@twitter](https://twitter.com/oomaung_chit/status/1570386021640196099) | advertise |
 | [OommenRejoice@twitter](https://twitter.com/OommenRejoice/status/1386236913519009793) | advertise |
 | [OoneOone2@twitter](https://twitter.com/OoneOone2/status/1392550303317250050) | advertise |
 | [OoShinePyae3@twitter](https://twitter.com/OoShinePyae3/status/1406080647244914695) | advertise |
