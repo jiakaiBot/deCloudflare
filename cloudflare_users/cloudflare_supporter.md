@@ -4780,6 +4780,7 @@ Do not create new issue or we will close it as duplicate.
 | [lapyae16308476@twitter](https://twitter.com/lapyae16308476/status/1391962821668184065) | advertise |
 | [laquan2411@twitter](https://twitter.com/laquan2411/status/1553299969322655744) | advertise |
 | [Larry06951708@twitter](https://twitter.com/Larry06951708/status/1543723562397319170) | advertise |
+| [Lastavicaaaa@twitter](https://twitter.com/Lastavicaaaa/status/1570320326684188672) | advertise |
 | [LasteventsSpace@twitter](https://twitter.com/LasteventsSpace/status/1550721607030968320) | advertise |
 | [LASXD2@twitter](https://twitter.com/LASXD2/status/1396425725666762752) | advertise |
 | [Latina65648589@twitter](https://twitter.com/Latina65648589/status/1379128051192107014) | advertise |
@@ -5445,6 +5446,7 @@ Do not create new issue or we will close it as duplicate.
 | [melodyy0102@twitter](https://twitter.com/melodyy0102/status/1408007120407220226) | advertise |
 | [Memo04905668@twitter](https://twitter.com/Memo04905668/status/1389065111659294720) | advertise |
 | [MennaTSMTM@twitter](https://twitter.com/MennaTSMTM/status/1384571665946800130) | advertise |
+| [menwhobuiltug@twitter](https://twitter.com/menwhobuiltug/status/1570324989429297152) | advertise |
 | [Meonkzt@twitter](https://twitter.com/Meonkzt/status/1445847650041880583) | advertise |
 | [meooccho012@twitter](https://twitter.com/meooccho012/status/1399385570594365446) | advertise |
 | [MeorhashimH@twitter](https://twitter.com/MeorhashimH/status/1560170392047992832) | advertise |
