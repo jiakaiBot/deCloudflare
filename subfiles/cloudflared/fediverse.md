@@ -7375,6 +7375,7 @@ Here's a list of public Fediverse services.
 | hazelspace.tk | No |
 | hccp.org | No |
 | hci.social | No |
+| hcj.sh | No |
 | hckr.no | No |
 | hcxp.co | No |
 | hdez.nl | No |
@@ -11310,6 +11311,7 @@ Here's a list of public Fediverse services.
 | matto.nl | No |
 | mattone.net | No |
 | mattwilson.org | No |
+| mattyatea.me | Yes |
 | matubusi.com | No |
 | matus.faith | No |
 | matus.rocks | No |
@@ -13246,6 +13248,7 @@ Here's a list of public Fediverse services.
 | noronista.net | No |
 | norrebro.space | No |
 | norrland.xyz | No |
+| northeast.one | No |
 | northpole.host | No |
 | northside.tokyo | No |
 | northtexas.social | No |
@@ -21185,8 +21188,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,154 |
-| Normal | 16,988 |
+| Cloudflare | 4,155 |
+| Normal | 16,990 |
 
 
-### 19.6% of public Fediverse services are using Cloudflare.
+### 19.7% of public Fediverse services are using Cloudflare.
