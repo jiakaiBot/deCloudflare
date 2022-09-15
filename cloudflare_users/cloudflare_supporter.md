@@ -7616,6 +7616,7 @@ Do not create new issue or we will close it as duplicate.
 | [rtype0147@twitter](https://twitter.com/rtype0147/status/1475061620196151301) | advertise |
 | [rubbenga@twitter](https://twitter.com/rubbenga/status/1374089073091092485) | advertise |
 | [RubelHossina@twitter](https://twitter.com/RubelHossina/status/1400501745688530945) | advertise |
+| [RubelPa32095589@twitter](https://twitter.com/RubelPa32095589/status/1570431276506841091) | advertise |
 | [rubenasturias7@twitter](https://twitter.com/rubenasturias7/status/1398436485519450119) | advertise |
 | [RubesJaroslav@twitter](https://twitter.com/RubesJaroslav/status/1548117261243731973) | advertise |
 | [Ruby17892071@twitter](https://twitter.com/Ruby17892071/status/1389948126774153227) | advertise |
