@@ -9442,6 +9442,7 @@ Here's a list of public Fediverse services.
 | kokomo.space | No |
 | kokonect.link | No |
 | kokoti.org | No |
+| kokt.club | Yes |
 | kokuchidon.net | No |
 | kokuda.org | No |
 | kola.ml | No |
@@ -21180,7 +21181,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,151 |
+| Cloudflare | 4,152 |
 | Normal | 16,986 |
 
 
