@@ -3995,6 +3995,7 @@ Do not create new issue or we will close it as duplicate.
 | [Julymoe1229@twitter](https://twitter.com/Julymoe1229/status/1394625195093028870) | advertise |
 | [JumaJuma2009@twitter](https://twitter.com/JumaJuma2009/status/1405905479260426245) | advertise |
 | [Jumperup2@twitter](https://twitter.com/Jumperup2/status/1537010355938926596) | advertise |
+| [junaid_ul_hasan@twitter](https://twitter.com/junaid_ul_hasan/status/1570506547754848258) | advertise |
 | [JunAwng@twitter](https://twitter.com/JunAwng/status/1382576021661048832) | advertise |
 | [junceebee@twitter](https://twitter.com/junceebee/status/1553921333507006465) | advertise |
 | [june638@twitter](https://twitter.com/june638/status/1405487343704805379) | advertise |
