@@ -2045,6 +2045,7 @@ Do not create new issue or we will close it as duplicate.
 | [Diakinu2@twitter](https://twitter.com/Diakinu2/status/1393010870775468032) | advertise |
 | [DiamondMeeMee1@twitter](https://twitter.com/DiamondMeeMee1/status/1391273427290361858) | advertise |
 | [DiariesLara@twitter](https://twitter.com/DiariesLara/status/1569545171716431872) | advertise |
+| [dican_adcorp@twitter](https://twitter.com/dican_adcorp/status/1570807498210422785) | advertise |
 | [DickWhimsy@twitter](https://twitter.com/DickWhimsy/status/1384051581373468672) | advertise |
 | [DickyAdirachman@twitter](https://twitter.com/DickyAdirachman/status/1552680441706323968) | advertise |
 | [Diego24090352@twitter](https://twitter.com/Diego24090352/status/1557196849139924993) | advertise |
@@ -3249,6 +3250,7 @@ Do not create new issue or we will close it as duplicate.
 | [hp_wai@twitter](https://twitter.com/hp_wai/status/1402151194907222023) | advertise |
 | [HQ20437821@twitter](https://twitter.com/HQ20437821/status/1563282365744824320) | advertise |
 | [HrichikM@twitter](https://twitter.com/HrichikM/status/1473991252827783168) | advertise |
+| [hrolikhrolik@twitter](https://twitter.com/hrolikhrolik/status/1570812559011516416) | advertise |
 | [HRVerma90134169@twitter](https://twitter.com/HRVerma90134169/status/1398638317449539588) | advertise |
 | [HSandiel@twitter](https://twitter.com/HSandiel/status/1401853170305966081) | advertise |
 | [HSanwet@twitter](https://twitter.com/HSanwet/status/1394239150555951107) | advertise |
@@ -9382,6 +9384,7 @@ Do not create new issue or we will close it as duplicate.
 | [ValidMojo@twitter](https://twitter.com/ValidMojo/status/1385009257830096898) | advertise |
 | [Vampire934@twitter](https://twitter.com/Vampire934/status/1382730087779340293) | advertise |
 | [VampShen@twitter](https://twitter.com/VampShen/status/1394672875806752778) | advertise |
+| [vampyelnw@twitter](https://twitter.com/vampyelnw/status/1570813199368491009) | advertise |
 | [Vamshirowdy6@twitter](https://twitter.com/Vamshirowdy6/status/1397874949293936641) | advertise |
 | [van58768890@twitter](https://twitter.com/van58768890/status/1401809665063743495) | advertise |
 | [VanChi54586306@twitter](https://twitter.com/VanChi54586306/status/1403750118805807104) | advertise |
