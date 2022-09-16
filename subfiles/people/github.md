@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [check for new with getNews and not RSS feed](https://github.com/Zsunamy/HLTVDiscordBridge/issues/75)
 - [dev-python/cloudflare-2.9.10: newman: cli4/cli4.man does not exist](https://github.com/Phoenix591/gentoo-overlay/issues/4)
 - [Cloudflared not working, fix immediately](https://github.com/KasRoudra/PyPhisher/issues/128)
 - [Inline scripts can get broken](https://github.com/marko-js/writable-dom/issues/1)
