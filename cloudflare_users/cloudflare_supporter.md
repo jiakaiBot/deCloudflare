@@ -2470,6 +2470,7 @@ Do not create new issue or we will close it as duplicate.
 | [FaizalKhanbb@twitter](https://twitter.com/FaizalKhanbb/status/1379243028213284867) | advertise |
 | [Faizie15@twitter](https://twitter.com/Faizie15/status/1383424428604755975) | advertise |
 | [Fak29477321@twitter](https://twitter.com/Fak29477321/status/1565465226748825603) | advertise |
+| [FakeTopG@twitter](https://twitter.com/FakeTopG/status/1570866215404572676) | advertise |
 | [Falcon_0098@twitter](https://twitter.com/Falcon_0098/status/1408452830613147649) | advertise |
 | [Fantasy484@twitter](https://twitter.com/Fantasy484/status/1386774424028803075) | advertise |
 | [FarahAsyiqinAb1@twitter](https://twitter.com/FarahAsyiqinAb1/status/1404207551818862593) | advertise |
