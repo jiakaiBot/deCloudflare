@@ -1624,6 +1624,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChoonHtun@twitter](https://twitter.com/ChoonHtun/status/1380902744744062977) | advertise |
 | [Chop_paza@twitter](https://twitter.com/Chop_paza/status/1394814812010422277) | advertise |
 | [ChothaniMahek@twitter](https://twitter.com/ChothaniMahek/status/1396494925001199620) | advertise |
+| [chouit_lokman@twitter](https://twitter.com/chouit_lokman/status/1570586346762407936) | advertise |
 | [ChoungTin@twitter](https://twitter.com/ChoungTin/status/1393745046801899523) | advertise |
 | [ChreanThorn@twitter](https://twitter.com/ChreanThorn/status/1402444475780067329) | advertise |
 | [CHRIS63012493@twitter](https://twitter.com/CHRIS63012493/status/1392620433350877189) | advertise |
@@ -4383,8 +4384,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
