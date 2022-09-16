@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,895 |
-| net | 1,672 |
+| net | 1,673 |
 | social | 1,181 |
 | org | 1,143 |
 | de | 998 |
@@ -15809,6 +15809,7 @@ Here's a list of public Fediverse services.
 | rinsuki.net | Yes |
 | rio20.net | No |
 | riquer.fr | No |
+| risaton.net | No |
 | risingsun.red | No |
 | riskmanage.jp | No |
 | rita.moe | Yes |
@@ -18913,6 +18914,7 @@ Here's a list of public Fediverse services.
 | toyoko.in | Yes |
 | tpaw.org | Yes |
 | tpaw.video | No |
+| tpo.world | No |
 | tposocial.nl | No |
 | tpshd.de | No |
 | tr4sh.net | No |
@@ -21200,7 +21202,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,160 |
-| Normal | 16,996 |
+| Normal | 16,998 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
