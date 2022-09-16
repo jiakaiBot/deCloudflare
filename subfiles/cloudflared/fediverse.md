@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,894 |
 | net | 1,672 |
-| social | 1,179 |
+| social | 1,181 |
 | org | 1,143 |
 | de | 998 |
 
@@ -214,6 +214,7 @@ Here's a list of public Fediverse services.
 | 3d-wolf.com | No |
 | 3d3r.de | No |
 | 3dart.social | Yes |
+| 3dcandy.social | Yes |
 | 3dcgdon.net | No |
 | 3dot2.one | No |
 | 3dots.lv | No |
@@ -3027,6 +3028,7 @@ Here's a list of public Fediverse services.
 | chtisurel.net | No |
 | chubbybubble.life | No |
 | chuck.town | No |
+| chudbuds.lol | No |
 | chumley.io | No |
 | chunboan.zone | No |
 | chungus.cc | Yes |
@@ -4623,6 +4625,7 @@ Here's a list of public Fediverse services.
 | dragonfleye.io | No |
 | dragonhoard.network | No |
 | dragonpsi.xyz | No |
+| dragons.fyi | No |
 | dragons.moe | No |
 | dragonscave.space | No |
 | dragontoot.me | No |
@@ -6085,6 +6088,7 @@ Here's a list of public Fediverse services.
 | freedomofpress.rocks | No |
 | freedomstrike.net | No |
 | freedomtothink.social | Yes |
+| freedomwolf.cc | Yes |
 | freedomworkshop.com | No |
 | freedrm.org | No |
 | freefedifolk.com | No |
@@ -13524,6 +13528,7 @@ Here's a list of public Fediverse services.
 | odon.space | No |
 | odorite.tokyo | No |
 | ody.si | No |
+| odyssey346.dev | No |
 | oe74.net | No |
 | oekaki.st | No |
 | oer.me | No |
@@ -15134,6 +15139,7 @@ Here's a list of public Fediverse services.
 | punktrash.club | Yes |
 | puntarella.party | No |
 | pup.cloud | No |
+| pupbrained.xyz | Yes |
 | puppo.space | No |
 | puppy.cafe | No |
 | puppy.place | No |
@@ -16557,6 +16563,7 @@ Here's a list of public Fediverse services.
 | selfpub.pub | No |
 | selfy.army | No |
 | selogic.fr | No |
+| selq.me | Yes |
 | sembei.net | Yes |
 | semcensura.xyz | No |
 | semente.io | No |
@@ -20193,6 +20200,7 @@ Here's a list of public Fediverse services.
 | white-void.net | No |
 | whitelion.me | No |
 | whitepositive.media | No |
+| whitesmokebbq.social | No |
 | whitespashe.uk | No |
 | whizanth.com | Yes |
 | whoaimin.space | No |
@@ -21188,8 +21196,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,155 |
-| Normal | 16,990 |
+| Cloudflare | 4,159 |
+| Normal | 16,994 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
