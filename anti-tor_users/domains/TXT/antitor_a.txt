@@ -136,8 +136,10 @@ autoecoledelaplace.fr
 autoicare.in
 avmmerf.in
 branch.axisbank.com
+d.adsbyisocket.com
 friendica.a-zwenkau.de
 m-gsmarena-com.cdn.ampproject.org
+news-sky-com.cdn.ampproject.org
 news.azone-int.co.jp
 portail.ac-lyon.fr
 shop.andymakes.com
@@ -153,9 +155,12 @@ www.abebooks.com
 www.aberdeenlive.news
 www.abillionpeople.org
 www.ace-cae.eu
+www.acn.cat
 www.adelaidezoo.com.au
 www.adidas.com
+www.aeon.jp
 www.aflac.co.jp
+www.agasol.gal
 www.ai.gov
 www.alphaebook.com
 www.anlikaltin.com
