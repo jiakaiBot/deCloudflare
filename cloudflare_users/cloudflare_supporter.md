@@ -2215,6 +2215,7 @@ Do not create new issue or we will close it as duplicate.
 | [DumpKaito@twitter](https://twitter.com/DumpKaito/status/1552327487723425792) | advertise |
 | [DumTay@twitter](https://twitter.com/DumTay/status/1382699009144406017) | advertise |
 | [dung69191410@twitter](https://twitter.com/dung69191410/status/1552322346274340867) | advertise |
+| [DungLnguyen@twitter](https://twitter.com/DungLnguyen/status/1570849648914599937) | advertise |
 | [Dungtra66916665@twitter](https://twitter.com/Dungtra66916665/status/1392717888910331913) | advertise |
 | [DuNguyn89445274@twitter](https://twitter.com/DuNguyn89445274/status/1386448298647515143) | advertise |
 | [Dungxl14@twitter](https://twitter.com/Dungxl14/status/1552353203634593793) | advertise |
@@ -3196,6 +3197,7 @@ Do not create new issue or we will close it as duplicate.
 | [HoiphongL1@twitter](https://twitter.com/HoiphongL1/status/1385425425745154049) | advertise |
 | [Hoka46241573@twitter](https://twitter.com/Hoka46241573/status/1401380621033771013) | advertise |
 | [holmeszyx@twitter](https://twitter.com/holmeszyx/status/1379404117936893954) | advertise |
+| [Homa10000@twitter](https://twitter.com/Homa10000/status/1570850952676245504) | advertise |
 | [homing0922@twitter](https://twitter.com/homing0922/status/1389597408489660421) | advertise |
 | [homkheak@twitter](https://twitter.com/homkheak/status/1392949897683365888) | advertise |
 | [homloveyou@twitter](https://twitter.com/homloveyou/status/1490834810931089411) | advertise |
