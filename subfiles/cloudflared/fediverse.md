@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,894 |
+| com | 2,895 |
 | net | 1,672 |
 | social | 1,181 |
 | org | 1,143 |
@@ -818,6 +818,7 @@ Here's a list of public Fediverse services.
 | altepizza.de | No |
 | alter-nativ-voll.de | No |
 | alterednarrative.net | No |
+| alteregocreations.com | No |
 | alterhuman.space | No |
 | alteria.xyz | Yes |
 | alterlibriste.fr | No |
@@ -19384,6 +19385,7 @@ Here's a list of public Fediverse services.
 | undefined.moe | Yes |
 | under-bank.blue | No |
 | undercoverheathen.com | No |
+| undergamer.quest | No |
 | underground-side-kochira-kotonoha.xyz | No |
 | undergrowth-feed.net | No |
 | undernet.uy | No |
@@ -19655,6 +19657,7 @@ Here's a list of public Fediverse services.
 | vaporpolis.net | No |
 | vapronva.pw | No |
 | varia.zone | No |
+| varis.tv | Yes |
 | varishangout.net | Yes |
 | varishangout.org | No |
 | varney.fr | No |
@@ -21196,8 +21199,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,159 |
-| Normal | 16,994 |
+| Cloudflare | 4,160 |
+| Normal | 16,996 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
