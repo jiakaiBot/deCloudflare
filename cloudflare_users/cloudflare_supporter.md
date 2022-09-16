@@ -4697,6 +4697,7 @@ Do not create new issue or we will close it as duplicate.
 | [KyawThu54101096@twitter](https://twitter.com/KyawThu54101096/status/1404393303592816649) | advertise |
 | [Kyawthu54510590@twitter](https://twitter.com/Kyawthu54510590/status/1394643834240372737) | advertise |
 | [KyawThu59219706@twitter](https://twitter.com/KyawThu59219706/status/1395898410205474817) | advertise |
+| [KyawThu61122501@twitter](https://twitter.com/KyawThu61122501/status/1570785358799073284) | advertise |
 | [KyawThu68185427@twitter](https://twitter.com/KyawThu68185427/status/1395243979843674112) | advertise |
 | [KyawThu75991234@twitter](https://twitter.com/KyawThu75991234/status/1392758204107354113) | advertise |
 | [KyawThu95641524@twitter](https://twitter.com/KyawThu95641524/status/1391304600511254534) | advertise |
