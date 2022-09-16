@@ -3082,6 +3082,7 @@ Do not create new issue or we will close it as duplicate.
 | [HipBui@twitter](https://twitter.com/HipBui/status/1552005063585198081) | advertise |
 | [hiraethforever_@twitter](https://twitter.com/hiraethforever_/status/1545012644595511296) | advertise |
 | [HiranoKuro@twitter](https://twitter.com/HiranoKuro/status/1388350222598742016) | advertise |
+| [Hiren70757789@twitter](https://twitter.com/Hiren70757789/status/1570795252298162177) | advertise |
 | [Hiro00129279@twitter](https://twitter.com/Hiro00129279/status/1381635026807181318) | advertise |
 | [hiro3pc@twitter](https://twitter.com/hiro3pc/status/1520371268859891712) | advertise |
 | [hisham_ali22@twitter](https://twitter.com/hisham_ali22/status/1518615042815668225) | advertise |
