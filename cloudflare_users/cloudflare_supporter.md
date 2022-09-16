@@ -6542,6 +6542,7 @@ Do not create new issue or we will close it as duplicate.
 | [norhidayuzinon@twitter](https://twitter.com/norhidayuzinon/status/1385720279872253954) | advertise |
 | [normalisa2244@twitter](https://twitter.com/normalisa2244/status/1508101082907832322) | advertise |
 | [NOsheeennn@twitter](https://twitter.com/NOsheeennn/status/1394946949963415555) | advertise |
+| [noshereyno@twitter](https://twitter.com/noshereyno/status/1570718460736409600) | advertise |
 | [notausername18@twitter](https://twitter.com/notausername18/status/1441310591574970375) | advertise |
 | [Note42243223@twitter](https://twitter.com/Note42243223/status/1389304584317845504) | advertise |
 | [nothingbreaks23@twitter](https://twitter.com/nothingbreaks23/status/1408086476252925953) | advertise |
