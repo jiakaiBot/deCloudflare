@@ -124,10 +124,13 @@ amsmusiccentre.com.au
 anordtal.com
 anytxt.net
 appliancesrepaircare.com
+aquila-a-life.org
 area72aa.org
 aremiti.jp
 arienhost.com
 articlemug.com
+articleoasis.com
+articlewine.com
 asiakaspalvelunumerosuomi.com
 atilioboron.com.ar
 atlas-report.com
@@ -138,6 +141,7 @@ avmmerf.in
 branch.axisbank.com
 d.adsbyisocket.com
 friendica.a-zwenkau.de
+governmentofbc.maps.arcgis.com
 m-gsmarena-com.cdn.ampproject.org
 news-sky-com.cdn.ampproject.org
 news.azone-int.co.jp
@@ -148,7 +152,9 @@ video-corriere-it.cdn.ampproject.org
 www-br-de.cdn.ampproject.org
 www-fonearena-com.cdn.ampproject.org
 www-nytimes-com.cdn.ampproject.org
+www-politico-eu.cdn.ampproject.org
 www-tsf-pt.cdn.ampproject.org
+www.abbysangelsah.org
 www.abc12.com
 www.abc6.com
 www.abebooks.com
@@ -162,6 +168,7 @@ www.aeon.jp
 www.aflac.co.jp
 www.agasol.gal
 www.ai.gov
+www.akamai.com
 www.alphaebook.com
 www.anlikaltin.com
 www.annacavazzini.eu
