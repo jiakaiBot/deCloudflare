@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,895 |
+| com | 2,896 |
 | net | 1,673 |
 | social | 1,181 |
 | org | 1,143 |
@@ -3207,6 +3207,7 @@ Here's a list of public Fediverse services.
 | cocoa.me.uk | Yes |
 | cocoa.moe | No |
 | cocoate.com | No |
+| coconatsu.co | Yes |
 | cocoronavi.com | Yes |
 | cocoronavi.net | Yes |
 | cocu.cc | No |
@@ -4191,6 +4192,7 @@ Here's a list of public Fediverse services.
 | dergrimm.net | No |
 | dergrisch.de | No |
 | derguhl.de | No |
+| derlemue.com | No |
 | derper.space | No |
 | derpsin.space | No |
 | derpy.email | Yes |
@@ -4966,6 +4968,7 @@ Here's a list of public Fediverse services.
 | ekcragg.co.uk | No |
 | ekesete.net | No |
 | ekimemo.info | No |
+| ekoms.top | No |
 | eksb.net | No |
 | ekuro.jp | No |
 | el-ktm.com | No |
@@ -5416,6 +5419,7 @@ Here's a list of public Fediverse services.
 | faeriewood.social | No |
 | faery.pub | No |
 | faf.social | Yes |
+| fag.lol | No |
 | fai.st | No |
 | fai.su | No |
 | fair-verhandeln.de | No |
@@ -10818,6 +10822,7 @@ Here's a list of public Fediverse services.
 | mametsuko.net | Yes |
 | mamieserv.fr | No |
 | mammoth.social | Yes |
+| mammothcirc.us | No |
 | mammothcircus.com | No |
 | mammout.bzh | No |
 | mammouth.cafe | Yes |
@@ -12627,6 +12632,7 @@ Here's a list of public Fediverse services.
 | nasn.icu | No |
 | nasnfl.com | No |
 | nasqueron.org | No |
+| nastub.cz | Yes |
 | nasustim.com | No |
 | nasz.blog | No |
 | nat.cu | No |
@@ -20913,6 +20919,7 @@ Here's a list of public Fediverse services.
 | yshi.org | Yes |
 | ysj.social | No |
 | yso.pet | No |
+| ystn.win | Yes |
 | ytgrsua4.net | No |
 | ytopia.xyz | No |
 | ytringsrett.net | No |
@@ -21201,8 +21208,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,161 |
-| Normal | 16,997 |
+| Cloudflare | 4,164 |
+| Normal | 17,001 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
