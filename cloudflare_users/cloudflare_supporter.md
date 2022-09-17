@@ -8099,6 +8099,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sir_Roteh@twitter](https://twitter.com/Sir_Roteh/status/1534275304679690240) | advertise |
 | [SiSi66647106@twitter](https://twitter.com/SiSi66647106/status/1395267199011463170) | advertise |
 | [Sisifat099@twitter](https://twitter.com/Sisifat099/status/1560568762235232256) | advertise |
+| [Sisyphe4242@twitter](https://twitter.com/Sisyphe4242/status/1570999413115588608) | advertise |
 | [SiThu31071195@twitter](https://twitter.com/SiThu31071195/status/1392198744779730946) | advertise |
 | [Sithu72932001@twitter](https://twitter.com/Sithu72932001/status/1405108314564829189) | advertise |
 | [SiThu75416746@twitter](https://twitter.com/SiThu75416746/status/1391367093849714690) | advertise |
