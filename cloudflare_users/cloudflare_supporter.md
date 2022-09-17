@@ -2375,6 +2375,7 @@ Do not create new issue or we will close it as duplicate.
 | [EMATiON@twitter](https://twitter.com/EMATiON/status/1538236295150981120) | advertise |
 | [embedded_iot@twitter](https://twitter.com/embedded_iot/status/1480167905132228613) | advertise |
 | [EMChat_cloud@twitter](https://twitter.com/EMChat_cloud/status/1530900726561521666) | advertise |
+| [emdi_3@twitter](https://twitter.com/emdi_3/status/1571153701213184001) | advertise |
 | [Emily326696461@twitter](https://twitter.com/Emily326696461/status/1389534601618460673) | advertise |
 | [emlo40Official@twitter](https://twitter.com/emlo40Official/status/1423392503223439376) | advertise |
 | [EmmanuelEdudzi2@twitter](https://twitter.com/EmmanuelEdudzi2/status/1377972822757232642) | advertise |
@@ -4394,8 +4395,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
