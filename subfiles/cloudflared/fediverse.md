@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,896 |
+| com | 2,897 |
 | net | 1,673 |
 | social | 1,181 |
 | org | 1,143 |
@@ -3720,6 +3720,7 @@ Here's a list of public Fediverse services.
 | cyaniccerulean.com | No |
 | cyannyan.com | Yes |
 | cyano.at | No |
+| cyb3r.moe | No |
 | cyb3r.social | Yes |
 | cybar.club | Yes |
 | cyber-anarchy.net | No |
@@ -14376,6 +14377,7 @@ Here's a list of public Fediverse services.
 | pettingzoo.dev | No |
 | pettingzoo.gallery | No |
 | pew.im | No |
+| pewflix.com | No |
 | pewtix.com | No |
 | pfadi.social | No |
 | pfaff.dev | No |
@@ -16783,6 +16785,7 @@ Here's a list of public Fediverse services.
 | shrieker.net | No |
 | shrik3.com | No |
 | shrike.club | No |
+| shrimpia.network | No |
 | shrine.moe | Yes |
 | shroom.party | No |
 | shrouded.space | Yes |
@@ -21214,7 +21217,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,166 |
-| Normal | 17,004 |
+| Normal | 17,007 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
