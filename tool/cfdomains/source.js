@@ -1,4 +1,4 @@
-const sVERSION = '1.0.4.2',
+const sVERSION = '1.0.4.3',
    sCFGFV = '1.0.4.1',
    args = process.argv,
    fs = require('fs'),
@@ -2135,7 +2135,8 @@ async function do_warrior() {
       console.log('======================');
       console.log('Press CTRL+C to stop.');
       console.log("======================\n");
-      echot('Starting Warrior ' + myConfig['helper']);
+      echot('Starting Warrior');
+      echot('Your ID is ' + myConfig['helper']);
       junk = await dnsquery('NS', 'debian.org');
       if (junk[1] != 'OK') {
          forceExit(junk[1]);
@@ -2160,7 +2161,9 @@ async function do_warrior() {
          echot('Getting');
          junk = await asking('do=get&hv=' + myConfig['helper']);
          if (junk.indexOf('[') !== 0) {
-            forceExit('Unable to connect.');
+            echot('Unable to connect. Will try again...');
+            await sleep(7000);
+            continue;
          }
          junk = JSON.parse(junk);
          if (!junk[0]) {
@@ -2206,13 +2209,15 @@ async function do_warrior() {
             if (junk[1] == 'OK') {
                doubt = -1;
             } else {
-               forceExit('This is not clean connection.');
+               forceExit('This is not clean connection!');
             }
          }
          echot('Reporting');
          junk = await asking('do=rb&hv=' + myConfig['helper'] + '&ds=' + mbd.join(','));
          if (junk.indexOf('[') !== 0) {
-            forceExit('Unable to connect.');
+            echot('Unable to connect. Will try again...');
+            await sleep(7000);
+            continue;
          }
          junk = JSON.parse(junk);
          if (!junk[0]) {
