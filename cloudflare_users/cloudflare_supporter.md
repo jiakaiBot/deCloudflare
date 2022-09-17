@@ -2856,6 +2856,7 @@ Do not create new issue or we will close it as duplicate.
 | [Haha88526766@twitter](https://twitter.com/Haha88526766/status/1401048178611265544) | advertise |
 | [Hahaha130100@twitter](https://twitter.com/Hahaha130100/status/1552324016069054464) | advertise |
 | [hahasofunnybruh@twitter](https://twitter.com/hahasofunnybruh/status/1397828172264079362) | advertise |
+| [haiche1410@twitter](https://twitter.com/haiche1410/status/1571199251291729921) | advertise |
 | [HaiChen1708@twitter](https://twitter.com/HaiChen1708/status/1566482660712914944) | advertise |
 | [haikala86043665@twitter](https://twitter.com/haikala86043665/status/1553275985013121024) | advertise |
 | [HailBytes@twitter](https://twitter.com/HailBytes/status/1468726952139886604) | advertise |
@@ -3118,6 +3119,7 @@ Do not create new issue or we will close it as duplicate.
 | [HlamyoN49315576@twitter](https://twitter.com/HlamyoN49315576/status/1393081718538530817) | advertise |
 | [HlaSanOo5@twitter](https://twitter.com/HlaSanOo5/status/1391368000352182272) | advertise |
 | [HlaToe16@twitter](https://twitter.com/HlaToe16/status/1552244514386915328) | advertise |
+| [HlaWaiOo1@twitter](https://twitter.com/HlaWaiOo1/status/1571198507754876928) | advertise |
 | [hle780830@twitter](https://twitter.com/hle780830/status/1484898497426227202) | advertise |
 | [HlwanMo80484072@twitter](https://twitter.com/HlwanMo80484072/status/1390191026443325441) | advertise |
 | [hlyine@twitter](https://twitter.com/hlyine/status/1391813441375981571) | advertise |
@@ -9390,6 +9392,7 @@ Do not create new issue or we will close it as duplicate.
 | [Uzumaki19799215@twitter](https://twitter.com/Uzumaki19799215/status/1404393913063034884) | advertise |
 | [UzziGen@twitter](https://twitter.com/UzziGen/status/1502034839511384068) | advertise |
 | [u_c_space@twitter](https://twitter.com/u_c_space/status/1454812053697355782) | advertise |
+| [V666tiz@twitter](https://twitter.com/V666tiz/status/1571194420275589120) | advertise |
 | [V22280324@twitter](https://twitter.com/V22280324/status/1396806272322736136) | advertise |
 | [V25022000@twitter](https://twitter.com/V25022000/status/1376914512725479429) | advertise |
 | [V54852877@twitter](https://twitter.com/V54852877/status/1553099641759010816) | advertise |
