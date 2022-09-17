@@ -9796,6 +9796,7 @@ Do not create new issue or we will close it as duplicate.
 | [xhinoaa@twitter](https://twitter.com/xhinoaa/status/1551982350883758080) | advertise |
 | [xhrisxhanx@twitter](https://twitter.com/xhrisxhanx/status/1519471279715373057) | advertise |
 | [XHs@twitter](https://twitter.com/XHs/status/1457943621861199874) | advertise |
+| [xiaochen_cui@twitter](https://twitter.com/xiaochen_cui/status/1570976874540695553) | advertise |
 | [xiaomao85622541@twitter](https://twitter.com/xiaomao85622541/status/1391819655287689221) | advertise |
 | [Xiaoqingxxx1@twitter](https://twitter.com/Xiaoqingxxx1/status/1478846246299189248) | advertise |
 | [xiaowanggg@twitter](https://twitter.com/xiaowanggg/status/1483352827732717573) | advertise |
