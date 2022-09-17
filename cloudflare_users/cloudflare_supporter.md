@@ -7946,6 +7946,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shadow91542939@twitter](https://twitter.com/Shadow91542939/status/1389882853479968776) | advertise |
 | [shadowdud@twitter](https://twitter.com/shadowdud/status/1377597937576984581) | advertise |
 | [ShadowGamerz12@twitter](https://twitter.com/ShadowGamerz12/status/1386981568581824515) | advertise |
+| [shadrachoderaa@twitter](https://twitter.com/shadrachoderaa/status/1570966653336449025) | advertise |
 | [ShagunDagar2@twitter](https://twitter.com/ShagunDagar2/status/1395023596439826435) | advertise |
 | [Shahbaz74136829@twitter](https://twitter.com/Shahbaz74136829/status/1405061089155596288) | advertise |
 | [Shahdtae77@twitter](https://twitter.com/Shahdtae77/status/1535227652545597442) | advertise |
