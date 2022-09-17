@@ -1185,6 +1185,7 @@ Here's a list of public Fediverse services.
 | ariela.jp | Yes |
 | arint.me | Yes |
 | ariona.fr | No |
+| ariscard.eu | Yes |
 | arisu.fr | No |
 | ariswanto.web.id | Yes |
 | arith.jp | No |
@@ -12246,6 +12247,7 @@ Here's a list of public Fediverse services.
 | mstdn-uragi.jp | No |
 | mstdn-vn.com | No |
 | mstdn-workers.com | No |
+| mstdn.art | No |
 | mstdn.at | No |
 | mstdn.beer | No |
 | mstdn.biz | Yes |
@@ -21210,8 +21212,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,165 |
-| Normal | 17,002 |
+| Cloudflare | 4,166 |
+| Normal | 17,003 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
