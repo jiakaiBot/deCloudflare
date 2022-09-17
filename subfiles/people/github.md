@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [error trying to connect: TLS handshake failed: cert verification failed](https://github.com/4JX/reqwest-impersonate/issues/1)
 - [Malformed Response on all relays since 22/09/16 5pm CEST](https://github.com/DNSCrypt/dnscrypt-resolvers/issues/737)
 - [check for new with getNews and not RSS feed](https://github.com/Zsunamy/HLTVDiscordBridge/issues/75)
 - [dev-python/cloudflare-2.9.10: newman: cli4/cli4.man does not exist](https://github.com/Phoenix591/gentoo-overlay/issues/4)
