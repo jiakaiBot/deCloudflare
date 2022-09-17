@@ -5010,6 +5010,7 @@ Here's a list of public Fediverse services.
 | eletusk.club | No |
 | elfenban.de | Yes |
 | elfland.me | No |
+| elfnostate.info | No |
 | elforcer.ru | No |
 | elgeekerrante.com | No |
 | elgiebety.pl | No |
@@ -17245,6 +17246,7 @@ Here's a list of public Fediverse services.
 | sonsofbattlefield.de | Yes |
 | soopy.moe | Yes |
 | sophiade.net | No |
+| sophy.life | Yes |
 | sopuli.xyz | No |
 | sora.pub | No |
 | sorbonne-universite.fr | No |
@@ -21208,8 +21210,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,164 |
-| Normal | 17,001 |
+| Cloudflare | 4,165 |
+| Normal | 17,002 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
