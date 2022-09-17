@@ -16455,6 +16455,7 @@ Here's a list of public Fediverse services.
 | scriptfanix.fr | No |
 | scriptforge.org | No |
 | scriptjunkie.us | No |
+| scsb-ion.xyz | No |
 | scubadon.jp | No |
 | scuderiasouthwest.com | No |
 | sculpin.social | No |
@@ -21213,7 +21214,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,166 |
-| Normal | 17,003 |
+| Normal | 17,004 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
