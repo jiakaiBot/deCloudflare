@@ -1247,6 +1247,7 @@ Do not create new issue or we will close it as duplicate.
 | [birt_isaac@twitter](https://twitter.com/birt_isaac/status/1377936339212062725) | advertise |
 | [BishalK59489606@twitter](https://twitter.com/BishalK59489606/status/1536094886596079616) | advertise |
 | [bitdotcoin@twitter](https://twitter.com/bitdotcoin/status/1378723169066967042) | advertise |
+| [BitMagge@twitter](https://twitter.com/BitMagge/status/1571636052884062208) | advertise |
 | [BizganCostin@twitter](https://twitter.com/BizganCostin/status/1382363988013555713) | advertise |
 | [bk0607@twitter](https://twitter.com/bk0607/status/1381984827524534273) | advertise |
 | [bkflyn@twitter](https://twitter.com/bkflyn/status/1569293300821270528) | advertise |
