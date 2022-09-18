@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,897 |
-| net | 1,673 |
+| net | 1,674 |
 | social | 1,181 |
 | org | 1,143 |
 | de | 998 |
@@ -4816,7 +4816,7 @@ Here's a list of public Fediverse services.
 | eastback.co.jp | No |
 | easydns.ca | No |
 | eatinpizza.com | No |
-| eatthebugs.social | No |
+| eatthebugs.social | Yes |
 | eattherich.club | No |
 | eattherich.social | No |
 | eattra.sh | No |
@@ -12103,6 +12103,7 @@ Here's a list of public Fediverse services.
 | moritzrudert.de | No |
 | moriya.faith | No |
 | morkaste.com | No |
+| morologia.net | No |
 | moron.agency | No |
 | morphtown.de | No |
 | morphux.org | No |
@@ -13835,6 +13836,7 @@ Here's a list of public Fediverse services.
 | oriongate.jp | No |
 | orito-itsuki.net | No |
 | oriwebdon.com | No |
+| ork.institute | No |
 | orkinsel.de | No |
 | orko.it | No |
 | ornella.xyz | No |
@@ -15538,6 +15540,7 @@ Here's a list of public Fediverse services.
 | rawr-xd.club | No |
 | rawrscha.ch | No |
 | raxx.la | No |
+| rayci.st | No |
 | raygungothic.xyz | Yes |
 | rayn.bo | Yes |
 | raziel.space | Yes |
@@ -15744,7 +15747,7 @@ Here's a list of public Fediverse services.
 | retrotroet.com | No |
 | rettiwtkcuf.social | No |
 | revachol.city | No |
-| revconnect.com | No |
+| revconnect.com | Yes |
 | reve.land | Yes |
 | reveal.today | Yes |
 | revelin.fr | No |
@@ -21216,8 +21219,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,166 |
-| Normal | 17,007 |
+| Cloudflare | 4,168 |
+| Normal | 17,008 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
