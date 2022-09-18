@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [mangahubfr Connector not working](https://github.com/manga-download/hakuneko/issues/4992)
 - [Cannot deploy on Cloudflare Pages or Vercel Edge Functions](https://github.com/swellstores/swell-node/issues/13)
 - [error trying to connect: TLS handshake failed: cert verification failed](https://github.com/4JX/reqwest-impersonate/issues/1)
 - [Malformed Response on all relays since 22/09/16 5pm CEST](https://github.com/DNSCrypt/dnscrypt-resolvers/issues/737)
