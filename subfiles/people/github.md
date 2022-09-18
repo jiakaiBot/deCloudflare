@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Remove 'Cloudflare NEL'](https://github.com/wappalyzer/wappalyzer/issues/6778)
 - [Bad Gateway / Too many redirects](https://github.com/ahembree/ansible-hms-docker/issues/14)
 - [mangahubfr Connector not working](https://github.com/manga-download/hakuneko/issues/4992)
 - [Cannot deploy on Cloudflare Pages or Vercel Edge Functions](https://github.com/swellstores/swell-node/issues/13)
