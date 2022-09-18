@@ -1138,6 +1138,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bcubed18@twitter](https://twitter.com/Bcubed18/status/1407119349769551877) | advertise |
 | [BDanhThn1@twitter](https://twitter.com/BDanhThn1/status/1553784695812653056) | advertise |
 | [bdksd3b@twitter](https://twitter.com/bdksd3b/status/1384384819270979586) | advertise |
+| [bds_hoangnhh@twitter](https://twitter.com/bds_hoangnhh/status/1571556199933554688) | advertise |
 | [Beast29769840@twitter](https://twitter.com/Beast29769840/status/1396382427304521728) | advertise |
 | [BeastHunter696@twitter](https://twitter.com/BeastHunter696/status/1405569905613701122) | advertise |
 | [bebak_subba@twitter](https://twitter.com/bebak_subba/status/1392571390956478464) | advertise |
