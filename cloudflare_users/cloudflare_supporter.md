@@ -185,6 +185,7 @@ Do not create new issue or we will close it as duplicate.
 | [Abdelra65737648@twitter](https://twitter.com/Abdelra65737648/status/1399692942697189381) | advertise |
 | [abdennour_saleh@twitter](https://twitter.com/abdennour_saleh/status/1394348804124577798) | advertise |
 | [abderahim_1@twitter](https://twitter.com/abderahim_1/status/1495568771708297217) | advertise |
+| [AbdilatifHusse3@twitter](https://twitter.com/AbdilatifHusse3/status/1571515958606368768) | advertise |
 | [ABDIRAX06711012@twitter](https://twitter.com/ABDIRAX06711012/status/1528761245406482432) | advertise |
 | [Abdlrhmnelhyb@twitter](https://twitter.com/Abdlrhmnelhyb/status/1477260431932669954) | advertise |
 | [abdonaguib8@twitter](https://twitter.com/abdonaguib8/status/1398978244158840835) | advertise |
@@ -2002,6 +2003,7 @@ Do not create new issue or we will close it as duplicate.
 | [DennisLibre@twitter](https://twitter.com/DennisLibre/status/1481347302015053827) | advertise |
 | [dennis_mcodhis@twitter](https://twitter.com/dennis_mcodhis/status/1459941166514950159) | advertise |
 | [dentistjasbrar@twitter](https://twitter.com/dentistjasbrar/status/1553380199131058178) | advertise |
+| [Denyjunial@twitter](https://twitter.com/Denyjunial/status/1571524540706226176) | advertise |
 | [Deon24535935@twitter](https://twitter.com/Deon24535935/status/1399325913121177601) | advertise |
 | [deowc10@twitter](https://twitter.com/deowc10/status/1556584196075712513) | advertise |
 | [DepRed7@twitter](https://twitter.com/DepRed7/status/1395675931356766212) | advertise |
@@ -3404,6 +3406,7 @@ Do not create new issue or we will close it as duplicate.
 | [HungMai56616945@twitter](https://twitter.com/HungMai56616945/status/1478139753157455873) | advertise |
 | [HungNgu26525966@twitter](https://twitter.com/HungNgu26525966/status/1473670648988061698) | advertise |
 | [hungnguyen1798@twitter](https://twitter.com/hungnguyen1798/status/1553784974775828481) | advertise |
+| [HungNguyen2381@twitter](https://twitter.com/HungNguyen2381/status/1571529558171742209) | advertise |
 | [hungnguyen17100@twitter](https://twitter.com/hungnguyen17100/status/1387000026828705792) | advertise |
 | [hungnt110@twitter](https://twitter.com/hungnt110/status/1398339314715566083) | advertise |
 | [hungsute@twitter](https://twitter.com/hungsute/status/1410419626903838721) | advertise |
