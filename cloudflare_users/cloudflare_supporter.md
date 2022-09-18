@@ -9678,6 +9678,7 @@ Do not create new issue or we will close it as duplicate.
 | [wesvalderama@twitter](https://twitter.com/wesvalderama/status/1386386480717729792) | advertise |
 | [we_saas@twitter](https://twitter.com/we_saas/status/1492116460310781952) | advertise |
 | [WH1SbAtn0BPa5UI@twitter](https://twitter.com/WH1SbAtn0BPa5UI/status/1377862606266961924) | advertise |
+| [whatsappplus9@twitter](https://twitter.com/whatsappplus9/status/1571332569198624769) | advertise |
 | [whatthe88888@twitter](https://twitter.com/whatthe88888/status/1385148573516402694) | advertise |
 | [whatyouneedto@twitter](https://twitter.com/whatyouneedto/status/1410881084057870337) | moral (advertise) |
 | [whendietya@twitter](https://twitter.com/whendietya/status/1570095466783866880) | advertise |
