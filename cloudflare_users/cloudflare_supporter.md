@@ -237,6 +237,7 @@ Do not create new issue or we will close it as duplicate.
 | [actiniumcloud_@twitter](https://twitter.com/actiniumcloud_/status/1504512101678780420) | advertise |
 | [activeboyz1990@twitter](https://twitter.com/activeboyz1990/status/1377228831694655489) | advertise |
 | [activism.openworlds.info](https://activism.openworlds.info/) | by muting account status without warning & showed hostility |
+| [act_nation_@twitter](https://twitter.com/act_nation_/status/1571471096708218884) | advertise |
 | [acu05047849@twitter](https://twitter.com/acu05047849/status/1471678185070755840) | advertise |
 | [AD38414298@twitter](https://twitter.com/AD38414298/status/1392533228871770114) | advertise |
 | [AdaArkane@twitter](https://twitter.com/AdaArkane/status/1522499805397716992) | advertise |
@@ -3414,6 +3415,7 @@ Do not create new issue or we will close it as duplicate.
 | [HunsawatP@twitter](https://twitter.com/HunsawatP/status/1403208490374418433) | advertise |
 | [HunterKlowss07@twitter](https://twitter.com/HunterKlowss07/status/1536946816260132864) | advertise |
 | [hunterwattsxxx@twitter](https://twitter.com/hunterwattsxxx/status/1499496305445552133) | advertise |
+| [HUNTGAMING999@twitter](https://twitter.com/HUNTGAMING999/status/1571466260394954753) | advertise |
 | [HuongDa86813854@twitter](https://twitter.com/HuongDa86813854/status/1496878077888319490) | advertise |
 | [huongsw2@twitter](https://twitter.com/huongsw2/status/1495403654295453697) | advertise |
 | [HuPhcHong1@twitter](https://twitter.com/HuPhcHong1/status/1552681986363641857) | advertise |
@@ -9639,6 +9641,7 @@ Do not create new issue or we will close it as duplicate.
 | [WaiZinKoKo2@twitter](https://twitter.com/WaiZinKoKo2/status/1390190890501562369) | advertise |
 | [walder_franco@twitter](https://twitter.com/walder_franco/status/1545399618992750597) | advertise |
 | [Wali56764457@twitter](https://twitter.com/Wali56764457/status/1541197686082338817) | advertise |
+| [walidgumaa@twitter](https://twitter.com/walidgumaa/status/1571473697373913088) | advertise |
 | [wali_duski@twitter](https://twitter.com/wali_duski/status/1553003405005799425) | advertise |
 | [walkmanrds@twitter](https://twitter.com/walkmanrds/status/1557553919085379584) | advertise |
 | [WalterSmith00@twitter](https://twitter.com/WalterSmith00/status/1499907092383080450) | advertise |
