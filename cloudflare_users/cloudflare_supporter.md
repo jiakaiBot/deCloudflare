@@ -2224,6 +2224,7 @@ Do not create new issue or we will close it as duplicate.
 | [DumpKaito@twitter](https://twitter.com/DumpKaito/status/1552327487723425792) | advertise |
 | [DumTay@twitter](https://twitter.com/DumTay/status/1382699009144406017) | advertise |
 | [dung69191410@twitter](https://twitter.com/dung69191410/status/1552322346274340867) | advertise |
+| [dungbuws@twitter](https://twitter.com/dungbuws/status/1571582374130884611) | advertise |
 | [DungLnguyen@twitter](https://twitter.com/DungLnguyen/status/1570849648914599937) | advertise |
 | [Dungtra66916665@twitter](https://twitter.com/Dungtra66916665/status/1392717888910331913) | advertise |
 | [DuNguyn89445274@twitter](https://twitter.com/DuNguyn89445274/status/1386448298647515143) | advertise |
