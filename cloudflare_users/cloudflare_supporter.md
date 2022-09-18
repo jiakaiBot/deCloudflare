@@ -5049,6 +5049,7 @@ Do not create new issue or we will close it as duplicate.
 | [long_trab@twitter](https://twitter.com/long_trab/status/1490557973038452738) | advertise |
 | [Long_way_to_die@twitter](https://twitter.com/Long_way_to_die/status/1552020406210441216) | advertise |
 | [looker123456789@twitter](https://twitter.com/looker123456789/status/1548154140848599041) | advertise |
+| [loooom9999@twitter](https://twitter.com/loooom9999/status/1571392847823118336) | advertise |
 | [LoppoZ@twitter](https://twitter.com/LoppoZ/status/1377122374617681922) | advertise |
 | [lordcurtis@twitter](https://twitter.com/lordcurtis/status/1479481798061027328) | advertise |
 | [lorddzhi1@twitter](https://twitter.com/lorddzhi1/status/1541236958407581697) | advertise |
