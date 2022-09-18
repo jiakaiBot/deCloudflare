@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,897 |
+| com | 2,898 |
 | net | 1,674 |
 | social | 1,181 |
 | org | 1,143 |
@@ -8501,6 +8501,7 @@ Here's a list of public Fediverse services.
 | jackbenson.xyz | Yes |
 | jackbot.fr | No |
 | jackdaw.today | No |
+| jackmeyers.co | No |
 | jackpoint.space | No |
 | jacksonchen666.com | No |
 | jacksplace.dk | No |
@@ -12154,6 +12155,7 @@ Here's a list of public Fediverse services.
 | mouup.top | Yes |
 | movies.win | No |
 | mowerse.com | Yes |
+| mowetent.com | No |
 | moxaik.de | No |
 | moxxis.space | No |
 | moytura.org | No |
@@ -13205,7 +13207,7 @@ Here's a list of public Fediverse services.
 | nologs.me | No |
 | nomadic.homes | No |
 | nomagic.uk | No |
-| nombi.info | Yes |
+| nombi.info | No |
 | nombi.link | Yes |
 | nomi-and-tim.org | No |
 | nomofomo.social | No |
@@ -15181,6 +15183,7 @@ Here's a list of public Fediverse services.
 | pwnsdx.pw | Yes |
 | px1.link | No |
 | pxil.club | No |
+| pxl.mx | No |
 | pxl.pictures | No |
 | pxlfd.me | Yes |
 | pxlfed.de | No |
@@ -15916,6 +15919,7 @@ Here's a list of public Fediverse services.
 | roelroscamabbing.nl | No |
 | roerch.de | No |
 | roflcopter.fr | No |
+| rogersfam.co | No |
 | roguelabs.tech | No |
 | rohr.org | No |
 | roidesbulgares.rocks | No |
@@ -21186,6 +21190,7 @@ Here's a list of public Fediverse services.
 | zsemberi.de | No |
 | zsh.li | Yes |
 | zteo.com | Yes |
+| zucker.li | No |
 | zuckless.network | No |
 | zuidbook.com | No |
 | zuiho.moe | Yes |
@@ -21219,8 +21224,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,168 |
-| Normal | 17,008 |
+| Cloudflare | 4,167 |
+| Normal | 17,014 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
