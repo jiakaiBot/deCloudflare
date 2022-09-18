@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Bad Gateway / Too many redirects](https://github.com/ahembree/ansible-hms-docker/issues/14)
 - [mangahubfr Connector not working](https://github.com/manga-download/hakuneko/issues/4992)
 - [Cannot deploy on Cloudflare Pages or Vercel Edge Functions](https://github.com/swellstores/swell-node/issues/13)
 - [error trying to connect: TLS handshake failed: cert verification failed](https://github.com/4JX/reqwest-impersonate/issues/1)
