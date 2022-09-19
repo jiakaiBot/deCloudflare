@@ -6855,6 +6855,7 @@ Do not create new issue or we will close it as duplicate.
 | [pandarmyetwon@twitter](https://twitter.com/pandarmyetwon/status/1390219250040594432) | advertise |
 | [Pandora95283713@twitter](https://twitter.com/Pandora95283713/status/1391357563250176005) | advertise |
 | [PanEiPh98425624@twitter](https://twitter.com/PanEiPh98425624/status/1377480471718686721) | advertise |
+| [PANGJU1996@twitter](https://twitter.com/PANGJU1996/status/1571969373946118144) | advertise |
 | [PangPan28171312@twitter](https://twitter.com/PangPan28171312/status/1398184279448776706) | advertise |
 | [PANKAJOP5@twitter](https://twitter.com/PANKAJOP5/status/1400395931443286019) | advertise |
 | [PannEiThandar1@twitter](https://twitter.com/PannEiThandar1/status/1407572218314477570) | advertise |
