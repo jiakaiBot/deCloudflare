@@ -2453,6 +2453,7 @@ Do not create new issue or we will close it as duplicate.
 | [exoLchokyithar@twitter](https://twitter.com/exoLchokyithar/status/1383974311803854848) | advertise |
 | [EXOSC67901907@twitter](https://twitter.com/EXOSC67901907/status/1399753533700726785) | advertise |
 | [exo_omma@twitter](https://twitter.com/exo_omma/status/1401226015817428998) | advertise |
+| [exwezaz@twitter](https://twitter.com/exwezaz/status/1571655497371222016) | advertise |
 | [eYb4nxGhTncqUwi@twitter](https://twitter.com/eYb4nxGhTncqUwi/status/1387831352553136129) | advertise |
 | [EYGT12@twitter](https://twitter.com/EYGT12/status/1401417134467469317) | advertise |
 | [eyoung2134@twitter](https://twitter.com/eyoung2134/status/1390776289389289473) | advertise |
@@ -3567,6 +3568,7 @@ Do not create new issue or we will close it as duplicate.
 | [illunara@twitter](https://twitter.com/illunara/status/1552009737042296832) | advertise |
 | [iLngg0111@twitter](https://twitter.com/iLngg0111/status/1379110919066644480) | advertise |
 | [Ilpeiris@twitter](https://twitter.com/Ilpeiris/status/1558734133899440128) | advertise |
+| [IluvMasonWV@twitter](https://twitter.com/IluvMasonWV/status/1571661220159320064) | advertise |
 | [iLxlo_@twitter](https://twitter.com/iLxlo_/status/1517757375641440256) | advertise |
 | [ilybraden@twitter](https://twitter.com/ilybraden/status/1565920728582602752) | advertise |
 | [ilyEmilyuwu@twitter](https://twitter.com/ilyEmilyuwu/status/1567210899370393600) | advertise |
