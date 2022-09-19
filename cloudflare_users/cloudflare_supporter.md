@@ -3753,6 +3753,7 @@ Do not create new issue or we will close it as duplicate.
 | [Jambazi14@twitter](https://twitter.com/Jambazi14/status/1550803302350299143) | advertise |
 | [JameHaru@twitter](https://twitter.com/JameHaru/status/1381285784913727492) | advertise |
 | [JAMES04480083@twitter](https://twitter.com/JAMES04480083/status/1488421619043295232) | advertise |
+| [James34005025@twitter](https://twitter.com/James34005025/status/1571716350112067591) | advertise |
 | [james64885116@twitter](https://twitter.com/james64885116/status/1405101182339620865) | advertise |
 | [James86583236@twitter](https://twitter.com/James86583236/status/1390817774163791872) | advertise |
 | [James96208841@twitter](https://twitter.com/James96208841/status/1393623179201900544) | advertise |
@@ -4732,6 +4733,7 @@ Do not create new issue or we will close it as duplicate.
 | [KyawtKy14713292@twitter](https://twitter.com/KyawtKy14713292/status/1392647851360985092) | advertise |
 | [kyawwaiyanlatt@twitter](https://twitter.com/kyawwaiyanlatt/status/1380381835994095617) | advertise |
 | [KyawWinHan14@twitter](https://twitter.com/KyawWinHan14/status/1394667165228224530) | advertise |
+| [KyawYAung2@twitter](https://twitter.com/KyawYAung2/status/1571724092243582976) | advertise |
 | [KyawYe33669443@twitter](https://twitter.com/KyawYe33669443/status/1485061810084810752) | advertise |
 | [KyawYeKhine3@twitter](https://twitter.com/KyawYeKhine3/status/1391935956383535107) | advertise |
 | [KyawYeL44983602@twitter](https://twitter.com/KyawYeL44983602/status/1391759079383527428) | advertise |
