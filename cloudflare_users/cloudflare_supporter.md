@@ -1408,6 +1408,7 @@ Do not create new issue or we will close it as duplicate.
 | [bryggatech@twitter](https://twitter.com/bryggatech/status/1560704280344010753) | advertise |
 | [Bscx_Lantern@twitter](https://twitter.com/Bscx_Lantern/status/1378913835088670726) | advertise |
 | [BsGRpWQ4ziBC59R@twitter](https://twitter.com/BsGRpWQ4ziBC59R/status/1392991093143179268) | advertise |
+| [bsjamnsbsns@twitter](https://twitter.com/bsjamnsbsns/status/1571860537360916492) | advertise |
 | [bskcuba@twitter](https://twitter.com/bskcuba/status/1454572245322452994) | advertise |
 | [bspuoj3a96IACUd@twitter](https://twitter.com/bspuoj3a96IACUd/status/1538459119891406849) | advertise |
 | [BSurawit@twitter](https://twitter.com/BSurawit/status/1551948856015093760) | advertise |
@@ -1750,8 +1751,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
