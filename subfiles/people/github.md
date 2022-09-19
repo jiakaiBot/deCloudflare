@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Question Failure to properly play the video locally](https://github.com/iv-org/invidious/issues/3321)
 - [RFC: Sapphire directory and automatic TypeScript augmentation support](https://github.com/sapphiredev/framework/issues/536)
 - [Remove 'Cloudflare NEL'](https://github.com/wappalyzer/wappalyzer/issues/6778)
 - [Bad Gateway / Too many redirects](https://github.com/ahembree/ansible-hms-docker/issues/14)
