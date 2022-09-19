@@ -3461,6 +3461,7 @@ Do not create new issue or we will close it as duplicate.
 | [Huylight1@twitter](https://twitter.com/Huylight1/status/1542806648812871680) | advertise |
 | [huyngo49776381@twitter](https://twitter.com/huyngo49776381/status/1550020847657975808) | advertise |
 | [HuyNguy49196103@twitter](https://twitter.com/HuyNguy49196103/status/1553288692848271360) | advertise |
+| [HuyNguy92190508@twitter](https://twitter.com/HuyNguy92190508/status/1571907450164609032) | advertise |
 | [HuyNguy96832626@twitter](https://twitter.com/HuyNguy96832626/status/1385249782474567682) | advertise |
 | [huynguyen13897@twitter](https://twitter.com/huynguyen13897/status/1515901456355782665) | advertise |
 | [Huynh75283148@twitter](https://twitter.com/Huynh75283148/status/1560533876757655553) | advertise |
@@ -9441,6 +9442,7 @@ Do not create new issue or we will close it as duplicate.
 | [VarunKa93262715@twitter](https://twitter.com/VarunKa93262715/status/1381181351710187520) | advertise |
 | [varunkrish@twitter](https://twitter.com/varunkrish/status/1503307396239687682) | advertise |
 | [VashSta01811715@twitter](https://twitter.com/VashSta01811715/status/1394408365036511233) | advertise |
+| [Vaso64@twitter](https://twitter.com/Vaso64/status/1571901747181850625) | advertise |
 | [Vasu46138364@twitter](https://twitter.com/Vasu46138364/status/1386724549954203648) | advertise |
 | [vazquezjg@twitter](https://twitter.com/vazquezjg/status/1407182928275070976) | advertise |
 | [Vazquez_One@twitter](https://twitter.com/Vazquez_One/status/1571261569308270595) | advertise |
