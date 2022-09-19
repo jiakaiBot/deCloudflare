@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot add new devices](https://github.com/shellhub-io/shellhub/issues/2151)
 - [Unable to verify contracts on etherscan (mumbai.polygonscan.com)](https://github.com/foundry-rs/foundry/issues/3271)
 - [Question Failure to properly play the video locally](https://github.com/iv-org/invidious/issues/3321)
 - [RFC: Sapphire directory and automatic TypeScript augmentation support](https://github.com/sapphiredev/framework/issues/536)
