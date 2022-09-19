@@ -250,6 +250,45 @@ function reload_menu() {
             });
          }
       }
+      if (r.nocat22 != '1') {
+         iLastMenu = '22';
+         browser.menus.create({
+            parentId: 'iactLINK',
+            id: 'actLINK_coinblocker',
+            documentUrlPatterns: ['http://*/*', 'https://*/*'],
+            title: 'Coin Blocker',
+            icons: {
+               '32': 'i/coinblocker.png'
+            },
+            contexts: ['link']
+         });
+         browser.menus.create({
+            parentId: 'iactPAGE',
+            id: 'actPAGE_coinblocker',
+            documentUrlPatterns: ['http://*/*', 'https://*/*'],
+            title: 'Coin Blocker',
+            icons: {
+               '32': 'i/coinblocker.png'
+            },
+            contexts: ['page']
+         });
+         if (r.nocat98 != '1') {
+            browser.menus.create({
+               parentId: 'iactLINK',
+               id: 'sepaLink_' + iLastMenu,
+               documentUrlPatterns: ['http://*/*', 'https://*/*'],
+               type: 'separator',
+               contexts: ['link']
+            });
+            browser.menus.create({
+               parentId: 'iactPAGE',
+               id: 'sepaPage_' + iLastMenu,
+               documentUrlPatterns: ['http://*/*', 'https://*/*'],
+               type: 'separator',
+               contexts: ['page']
+            });
+         }
+      }
       if (r.nocat02 != '1') {
          iLastMenu = '02';
          browser.menus.create({
