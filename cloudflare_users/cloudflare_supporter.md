@@ -2475,6 +2475,7 @@ Do not create new issue or we will close it as duplicate.
 | [fabulousgirl95@twitter](https://twitter.com/fabulousgirl95/status/1468780475174973444) | advertise |
 | [FactNewNetwork@twitter](https://twitter.com/FactNewNetwork/status/1463480582784962560) | advertise |
 | [FactoPardo@twitter](https://twitter.com/FactoPardo/status/1519470206594297863) | advertise |
+| [fadhilsupraptoo@twitter](https://twitter.com/fadhilsupraptoo/status/1572189168549371904) | advertise |
 | [fahedrahmani@twitter](https://twitter.com/fahedrahmani/status/1505209723838214152) | advertise |
 | [fahim_redboy@twitter](https://twitter.com/fahim_redboy/status/1543937436375343104) | advertise |
 | [FahmidKhan14@twitter](https://twitter.com/FahmidKhan14/status/1541104729232908289) | advertise |
