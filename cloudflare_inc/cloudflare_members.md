@@ -100,6 +100,7 @@ Or is this merely a case of simple modesty?
 | Alex Chen | Employee | |
 | Alex Cruz Farmer | Product Manager for Security | https://twitter.com/alexcf |
 | Alex Davidson | Employee |  |
+| Alex Dunbrack | Employee | |
 | Alex Dyner | Head of Special Projects |  |
 | Alex Fattouche | Employee |  |
 | Alex Forster | Systems Engineer, Austin | alex@alexforster.com<br>https://twitter.com/Alex_Forster<br>https://www.zoominfo.com/p/Alex-Forster/2613640286<br>https://github.com/alexforster |
@@ -488,6 +489,7 @@ Or is this merely a case of simple modesty?
 | David Zuazua | Employee |  |
 | Dawn Giusti | Relations Analyst | https://twitter.com/dawngiusti |
 | Dawn Parzych | Employee | |
+| Dawn Ringstaff | Employee | |
 | Deanna Popolo | Account Executive, New York City |  |
 | Dean Riskas | Customer Development |  |
 | Deborah McRoth | Employee |  |
@@ -864,6 +866,7 @@ Or is this merely a case of simple modesty?
 | Jose Conado, Jr. | Infrastructure Engineer |  |
 | Joseph Himes | Business Development |  |
 | Joseph Prete | Customer Development |  |
+| Joseph So | Employee | |
 | Joseph Younis | Solutions Engineer |  |
 | Josh Dankbaar | Systems Reliability Engineer |  |
 | Joshua Johnson | Software Engineering Intern, Austin |  |
