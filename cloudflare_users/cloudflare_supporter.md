@@ -3475,6 +3475,7 @@ Do not create new issue or we will close it as duplicate.
 | [huynhminhvu5232@twitter](https://twitter.com/huynhminhvu5232/status/1399221312921292801) | advertise |
 | [Huynhph7@twitter](https://twitter.com/Huynhph7/status/1387755716631359490) | advertise |
 | [huynn_1806@twitter](https://twitter.com/huynn_1806/status/1392209919424622593) | advertise |
+| [huyphan55652449@twitter](https://twitter.com/huyphan55652449/status/1572259920212525056) | advertise |
 | [Huyphm49409561@twitter](https://twitter.com/Huyphm49409561/status/1553076130181414912) | advertise |
 | [HuyPhuc35892452@twitter](https://twitter.com/HuyPhuc35892452/status/1392002349787402241) | advertise |
 | [HUYPRO58272411@twitter](https://twitter.com/HUYPRO58272411/status/1553273805828947968) | advertise |
@@ -5971,6 +5972,7 @@ Do not create new issue or we will close it as duplicate.
 | [MusicLo06545061@twitter](https://twitter.com/MusicLo06545061/status/1394900973231898626) | advertise |
 | [MustafeAden6@twitter](https://twitter.com/MustafeAden6/status/1551734996502822912) | advertise |
 | [MutasimBillahS3@twitter](https://twitter.com/MutasimBillahS3/status/1510162987394699268) | advertise |
+| [MutazAwadsite@twitter](https://twitter.com/MutazAwadsite/status/1572269683436556291) | advertise |
 | [MutConsulting@twitter](https://twitter.com/MutConsulting/status/1445848154478350336) | advertise |
 | [MutDean@twitter](https://twitter.com/MutDean/status/1390486451867901961) | advertise |
 | [muthan14383@twitter](https://twitter.com/muthan14383/status/1393563436575989764) | advertise |
