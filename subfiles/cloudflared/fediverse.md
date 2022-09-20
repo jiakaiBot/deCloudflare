@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,675 |
 | social | 1,181 |
 | org | 1,144 |
-| de | 1,002 |
+| de | 1,003 |
 
 
 - Mastodon, Pleroma, etc
@@ -11541,6 +11541,7 @@ Here's a list of public Fediverse services.
 | merci-la-police.fr | No |
 | mercurial.solar | Yes |
 | mercury.social | No |
+| meremortalspodcast.shop | No |
 | merkel.social | Yes |
 | merlion.social | Yes |
 | mernacher.at | Yes |
@@ -16725,6 +16726,7 @@ Here's a list of public Fediverse services.
 | shelter.moe | No |
 | shelter.social | Yes |
 | shenanigan.space | No |
+| sherblog.de | No |
 | sheseeksnonfiction.blog | No |
 | shestak.me | No |
 | shi-jk.com | Yes |
@@ -21240,7 +21242,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,173 |
-| Normal | 17,023 |
+| Normal | 17,025 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
