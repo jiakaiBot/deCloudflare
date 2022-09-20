@@ -8375,6 +8375,7 @@ Do not create new issue or we will close it as duplicate.
 | [StormCampbell@twitter](https://twitter.com/StormCampbell/status/1401547310446821380) | advertise |
 | [Strange75137014@twitter](https://twitter.com/Strange75137014/status/1396738534858362882) | advertise |
 | [Strawbe73005938@twitter](https://twitter.com/Strawbe73005938/status/1402151516396351488) | advertise |
+| [StreamingDad@twitter](https://twitter.com/StreamingDad/status/1572356539163484166) | advertise |
 | [StreetbikeVee@twitter](https://twitter.com/StreetbikeVee/status/1561912858602049536) | advertise |
 | [Streetlawyer11@twitter](https://twitter.com/Streetlawyer11/status/1393088374794190850) | advertise |
 | [StuartLathrop@twitter](https://twitter.com/StuartLathrop/status/1552079377978081282) | advertise |
