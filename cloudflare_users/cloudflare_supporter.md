@@ -4864,6 +4864,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lcngt13@twitter](https://twitter.com/Lcngt13/status/1403354053824815106) | advertise |
 | [ldl251@twitter](https://twitter.com/ldl251/status/1388190381745971201) | advertise |
 | [LDng72661884@twitter](https://twitter.com/LDng72661884/status/1534051641535569920) | advertise |
+| [Leamariegasper2@twitter](https://twitter.com/Leamariegasper2/status/1572158494626684930) | advertise |
 | [leanhhao070301@twitter](https://twitter.com/leanhhao070301/status/1516370402154455045) | advertise |
 | [leanhton1@twitter](https://twitter.com/leanhton1/status/1400838495875174401) | advertise |
 | [leastrio_@twitter](https://twitter.com/leastrio_/status/1370110974108307467) | advertise |
