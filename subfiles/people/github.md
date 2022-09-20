@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [BoyLove (Chinese) cloudflare bypass issue](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13530)
 - [mteamtp (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/518)
 - [Prisma does not work with Cloudflare Workers (for me)](https://github.com/prisma/prisma/issues/15408)
 - [Cloudfront Content creator TUS - Fails after 100%](https://github.com/tus/tus-js-client/issues/472)
