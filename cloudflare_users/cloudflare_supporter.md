@@ -419,6 +419,7 @@ Do not create new issue or we will close it as duplicate.
 | [aldoscar_oscar@twitter](https://twitter.com/aldoscar_oscar/status/1377318204477964290) | advertise |
 | [alecarrington23@twitter](https://twitter.com/alecarrington23/status/1497728572265574403) | advertise |
 | [Ales19412051@twitter](https://twitter.com/Ales19412051/status/1407593618949345287) | advertise |
+| [Alex09781100@twitter](https://twitter.com/Alex09781100/status/1572045613944156160) | advertise |
 | [alex14387982@twitter](https://twitter.com/alex14387982/status/1389461110391144448) | advertise |
 | [Alex18726692@twitter](https://twitter.com/Alex18726692/status/1396832751014137865) | advertise |
 | [alex39206850@twitter](https://twitter.com/alex39206850/status/1401387007008456707) | advertise |
@@ -1352,6 +1353,7 @@ Do not create new issue or we will close it as duplicate.
 | [bosskhan955pk1@twitter](https://twitter.com/bosskhan955pk1/status/1473666642911637507) | advertise |
 | [Boswam6@twitter](https://twitter.com/Boswam6/status/1377681051472916482) | advertise |
 | [BoTayZar7@twitter](https://twitter.com/BoTayZar7/status/1391301779636195330) | advertise |
+| [BotelloSenser@twitter](https://twitter.com/BotelloSenser/status/1572039036071710725) | advertise |
 | [botonevsky@twitter](https://twitter.com/botonevsky/status/1422888231247486977) | advertise |
 | [bot_420_@twitter](https://twitter.com/bot_420_/status/1395910085289955335) | advertise |
 | [BoV80033132@twitter](https://twitter.com/BoV80033132/status/1382811439103025152) | advertise |
