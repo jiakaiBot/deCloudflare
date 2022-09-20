@@ -120,6 +120,7 @@ facebook.tukinumerosuomi.com
 jamanetwork-com.translate.goog
 koofr-eu.translate.goog
 mastodon-relay.thedoodleproject.net
+nos-nl.translate.goog
 relay.social.tigwali.fr
 rent.toyota.co.jp
 rescue-substack-com.translate.goog
@@ -175,6 +176,7 @@ thurniafetal.com
 tierbignews.com
 tiffybetween.website
 timothylimclinic.com
+tjoy.jp
 tobyrogers-substack-com.translate.goog
 todhamilton.pro
 tokyoredcirce.com
