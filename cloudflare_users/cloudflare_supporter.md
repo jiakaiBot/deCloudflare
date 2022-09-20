@@ -6480,6 +6480,7 @@ Do not create new issue or we will close it as duplicate.
 | [nhokdatle6@twitter](https://twitter.com/nhokdatle6/status/1387375449882304512) | advertise |
 | [NhokKey@twitter](https://twitter.com/NhokKey/status/1388418918809702402) | advertise |
 | [Nhoknho09136811@twitter](https://twitter.com/Nhoknho09136811/status/1389079543579779073) | advertise |
+| [nhoknhosahara@twitter](https://twitter.com/nhoknhosahara/status/1572210529246261248) | advertise |
 | [nhp3698@twitter](https://twitter.com/nhp3698/status/1379887451662000129) | advertise |
 | [nhQu70204593@twitter](https://twitter.com/nhQu70204593/status/1557822341773549568) | advertise |
 | [Nht65648068@twitter](https://twitter.com/Nht65648068/status/1388890386790191111) | advertise |
