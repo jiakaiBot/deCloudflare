@@ -7388,6 +7388,7 @@ Do not create new issue or we will close it as duplicate.
 | [R3Zipo@twitter](https://twitter.com/R3Zipo/status/1542271365642059776) | advertise |
 | [r6gear@twitter](https://twitter.com/r6gear/status/1551510182068461569) | advertise |
 | [Ra36279199@twitter](https://twitter.com/Ra36279199/status/1395644864587501569) | advertise |
+| [rabsngrob@twitter](https://twitter.com/rabsngrob/status/1572252767967936518) | advertise |
 | [RaceLifeNet@twitter](https://twitter.com/RaceLifeNet/status/1518636611977809921) | advertise |
 | [Rachan51471422@twitter](https://twitter.com/Rachan51471422/status/1555757912835776513) | advertise |
 | [Rachel3304@twitter](https://twitter.com/Rachel3304/status/1559547803692666888) | advertise |
