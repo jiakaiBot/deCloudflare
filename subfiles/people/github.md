@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudfront Content creator TUS - Fails after 100%](https://github.com/tus/tus-js-client/issues/472)
 - [Websocket connection error](https://github.com/AntoineLep/ftx_algotrading/issues/4)
 - [Cannot add new devices](https://github.com/shellhub-io/shellhub/issues/2151)
 - [Unable to verify contracts on etherscan (mumbai.polygonscan.com)](https://github.com/foundry-rs/foundry/issues/3271)
