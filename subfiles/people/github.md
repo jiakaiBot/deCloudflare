@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Prisma does not work with Cloudflare Workers (for me)](https://github.com/prisma/prisma/issues/15408)
 - [Cloudfront Content creator TUS - Fails after 100%](https://github.com/tus/tus-js-client/issues/472)
 - [Websocket connection error](https://github.com/AntoineLep/ftx_algotrading/issues/4)
 - [Cannot add new devices](https://github.com/shellhub-io/shellhub/issues/2151)
