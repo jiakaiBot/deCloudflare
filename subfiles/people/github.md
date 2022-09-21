@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [VRChat vrchat:// protocol launch URL is not generated correctly](https://github.com/pypy-vrc/VRCX/issues/415)
 - [CloudFlare Elevated number of 502 errors in Cebu, Philippines (CEB)](https://github.com/MatBenfield/news/issues/2944)
 - [BoyLove (Chinese) cloudflare bypass issue](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13530)
 - [mteamtp (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/518)
