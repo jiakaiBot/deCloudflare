@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Elevated number of 502 errors in Cebu, Philippines (CEB)](https://github.com/MatBenfield/news/issues/2944)
 - [BoyLove (Chinese) cloudflare bypass issue](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13530)
 - [mteamtp (updating) The cookies provided by FlareSolverr are not valid](https://github.com/FlareSolverr/FlareSolverr/issues/518)
 - [Prisma does not work with Cloudflare Workers (for me)](https://github.com/prisma/prisma/issues/15408)
