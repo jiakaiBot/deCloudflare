@@ -193,6 +193,7 @@ atlas-report.com
 atonato.de
 attac.no
 attrapincha.com
+atuweb.info
 aufr67i8sten.com
 aurallyhypaton.com
 autoecoledelaplace.fr
@@ -205,11 +206,13 @@ ayahucapasso.website
 azoniumsinamin.com
 branch.axisbank.com
 d.adsbyisocket.com
+decrypt-co.cdn.ampproject.org
 ecrivons.angers.fr
 friendica.a-zwenkau.de
 governmentofbc.maps.arcgis.com
 m-gsmarena-com.cdn.ampproject.org
 news-sky-com.cdn.ampproject.org
+news.abplive.com
 news.azone-int.co.jp
 portail.ac-lyon.fr
 shop.andymakes.com
@@ -238,6 +241,7 @@ www.aflac.co.jp
 www.agasol.gal
 www.ai.gov
 www.aidinvip.com
+www.aims.gov.au
 www.akamai.com
 www.albanyherald.com
 www.alphaebook.com
