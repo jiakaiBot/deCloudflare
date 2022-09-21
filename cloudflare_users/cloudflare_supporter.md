@@ -6535,6 +6535,7 @@ Do not create new issue or we will close it as duplicate.
 | [nipos@social.avareborn.de](https://social.avareborn.de/@nipos) | moral (see nipos@github.com) |
 | [Nira85437917@twitter](https://twitter.com/Nira85437917/status/1402295950945759237) | advertise |
 | [Nirajso81165014@twitter](https://twitter.com/Nirajso81165014/status/1404662618174869507) | advertise |
+| [niridy4@twitter](https://twitter.com/niridy4/status/1572520688552144904) | advertise |
 | [NirobHo19696129@twitter](https://twitter.com/NirobHo19696129/status/1561906833505546240) | advertise |
 | [NischalSkanda@twitter](https://twitter.com/NischalSkanda/status/1399634499730763778) | advertise |
 | [nishadhossein@twitter](https://twitter.com/nishadhossein/status/1385312938945257473) | advertise |
