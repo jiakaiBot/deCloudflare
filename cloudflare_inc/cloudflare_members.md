@@ -296,6 +296,7 @@ Or is this merely a case of simple modesty?
 | Brandon Lacanaria | Business Development |  |
 | Brandon Nelson | Employee | https://github.com/bnelz |
 | Brendan Coll | Employee | |
+| Brendan Irvine-Broque | Employee | |
 | Brendan McMillion | Engineer | brendan@cloudflare.com<br>brendanmcmillion@gmail.com<br>https://github.com/Bren2010<br>https://blog.bren2010.io/<br>https://twitter.com/BrenTwentyTen |
 | Brent Coco | Trainer |  |
 | Brett Erilane | Operations Engineer |  |
