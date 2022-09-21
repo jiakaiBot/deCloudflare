@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,902 |
-| net | 1,675 |
+| com | 2,903 |
+| net | 1,676 |
 | social | 1,181 |
 | org | 1,144 |
 | de | 1,004 |
@@ -7092,6 +7092,7 @@ Here's a list of public Fediverse services.
 | group.lt | Yes |
 | groupement-interet-citoyen.org | No |
 | growcollective.art | No |
+| growthers.dev | Yes |
 | growyourown.services | No |
 | groyp.xyz | No |
 | groyper.world | No |
@@ -14348,6 +14349,7 @@ Here's a list of public Fediverse services.
 | pepecyb.hu | No |
 | pepega.media | No |
 | pepepper.cf | Yes |
+| pepepper.net | Yes |
 | peppyfish.com | No |
 | pepsi.zone | No |
 | perceptiontravel.tv | Yes |
@@ -16297,6 +16299,7 @@ Here's a list of public Fediverse services.
 | sasa.africa | No |
 | sasachi.tokyo | No |
 | sasakimasato.net | No |
+| sasakulab.com | Yes |
 | sasbaen.be | No |
 | saschafoerster.de | No |
 | saschaschroeder.eu | No |
@@ -21252,7 +21255,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,175 |
+| Cloudflare | 4,178 |
 | Normal | 17,034 |
 
 
