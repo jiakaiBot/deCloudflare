@@ -6748,6 +6748,7 @@ Here's a list of public Fediverse services.
 | giobu.cyou | Yes |
 | gioia.cloud | No |
 | gioia.social | No |
+| giom.fr | No |
 | gion.me | No |
 | gionathandiani.name | No |
 | giorgiocomai.eu | Yes |
@@ -21250,7 +21251,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,175 |
-| Normal | 17,031 |
+| Normal | 17,032 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
