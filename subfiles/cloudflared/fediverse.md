@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,899 |
+| com | 2,902 |
 | net | 1,675 |
 | social | 1,181 |
 | org | 1,144 |
@@ -1814,6 +1814,7 @@ Here's a list of public Fediverse services.
 | benis8bits.stream | No |
 | benitox1.tk | No |
 | benjamin-westland.de | No |
+| benjaminhollon.com | Yes |
 | benkenawell.com | No |
 | benning.space | Yes |
 | benno-dielmann.de | No |
@@ -4762,6 +4763,7 @@ Here's a list of public Fediverse services.
 | dutchxs.com | No |
 | duwa.ng | No |
 | dv.buzz | No |
+| dvdt.dev | No |
 | dver.se | No |
 | dvk.co | No |
 | dvor.link | Yes |
@@ -6451,6 +6453,7 @@ Here's a list of public Fediverse services.
 | gaiserik.com | Yes |
 | gajsin.name | No |
 | gaku-tab-kill.com | Yes |
+| gaku-tab-love.com | Yes |
 | gakugeidon.pw | No |
 | gakusei.space | No |
 | galacticstrip.com | No |
@@ -6658,6 +6661,7 @@ Here's a list of public Fediverse services.
 | genzedong.net | No |
 | geoffray-levasseur.org | No |
 | geofox.org | Yes |
+| geofront.rocks | No |
 | geontime.com | No |
 | geore.pub | Yes |
 | georgelsas.de | No |
@@ -10265,6 +10269,7 @@ Here's a list of public Fediverse services.
 | liquidthink.net | Yes |
 | lire.im | No |
 | lisas.de | No |
+| lisp.buzz | No |
 | listen.gallery | No |
 | listennotes.com | Yes |
 | lit.monster | Yes |
@@ -14564,6 +14569,7 @@ Here's a list of public Fediverse services.
 | pivx.org | Yes |
 | piweb.be | No |
 | pixcture.com | Yes |
+| pixel-fed.co.uk | No |
 | pixelart.moe | Yes |
 | pixeldroid.org | No |
 | pixelfd.com | No |
@@ -20360,6 +20366,7 @@ Here's a list of public Fediverse services.
 | wiwi.video | No |
 | wiwie.dk | No |
 | wiz.community | No |
+| wizard.casa | No |
 | wizard.estate | Yes |
 | wizards.blue | No |
 | wizards.business | No |
@@ -20600,6 +20607,7 @@ Here's a list of public Fediverse services.
 | xiling.site | No |
 | xin.cat | No |
 | xindejiayuan.com | No |
+| xinghaizhandui.com | No |
 | xinu.me | No |
 | xion.social | Yes |
 | xip.io | Yes |
@@ -21241,8 +21249,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,173 |
-| Normal | 17,025 |
+| Cloudflare | 4,175 |
+| Normal | 17,031 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
