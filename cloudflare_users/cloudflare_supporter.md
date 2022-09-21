@@ -5561,6 +5561,7 @@ Do not create new issue or we will close it as duplicate.
 | [MichaelUdyRajD@twitter](https://twitter.com/MichaelUdyRajD/status/1378052380533563393) | advertise |
 | [MichaelWanzer5@twitter](https://twitter.com/MichaelWanzer5/status/1388810880150691845) | advertise |
 | [michael_scharen@twitter](https://twitter.com/michael_scharen/status/1397316913139634176) | advertise |
+| [Michael_T_Moore@twitter](https://twitter.com/Michael_T_Moore/status/1572374966255128576) | advertise |
 | [Micheal74606768@twitter](https://twitter.com/Micheal74606768/status/1544939566716825600) | advertise |
 | [MichealKyaw8@twitter](https://twitter.com/MichealKyaw8/status/1395744480884518914) | advertise |
 | [Michel17853933@twitter](https://twitter.com/Michel17853933/status/1534529004480237568) | advertise |
