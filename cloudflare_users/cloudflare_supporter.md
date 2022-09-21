@@ -9239,6 +9239,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrungNg53294283@twitter](https://twitter.com/TrungNg53294283/status/1378292337483292675) | advertise |
 | [TrungNg82602101@twitter](https://twitter.com/TrungNg82602101/status/1546544971356209152) | advertise |
 | [TrungNguyen217@twitter](https://twitter.com/TrungNguyen217/status/1534070633914855424) | advertise |
+| [TrungNguyen329@twitter](https://twitter.com/TrungNguyen329/status/1572580384206114817) | advertise |
 | [trungnhatt@twitter](https://twitter.com/trungnhatt/status/1393247850465697794) | advertise |
 | [trungtalee@twitter](https://twitter.com/trungtalee/status/1510951582237863939) | advertise |
 | [TrungTinn2@twitter](https://twitter.com/TrungTinn2/status/1396435936490049540) | advertise |
