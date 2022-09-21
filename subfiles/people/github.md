@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Sep 21 brief outage and heroku timeouts](https://github.com/sciencehistory/scihist_digicoll/issues/1864)
 - [Cloudflare R2 instructions](https://github.com/ryanto/next-s3-upload/issues/96)
 - [VRChat vrchat:// protocol launch URL is not generated correctly](https://github.com/pypy-vrc/VRCX/issues/415)
 - [CloudFlare Elevated number of 502 errors in Cebu, Philippines (CEB)](https://github.com/MatBenfield/news/issues/2944)
