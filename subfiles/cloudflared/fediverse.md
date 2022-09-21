@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,675 |
 | social | 1,181 |
 | org | 1,144 |
-| de | 1,003 |
+| de | 1,004 |
 
 
 - Mastodon, Pleroma, etc
@@ -15671,6 +15671,7 @@ Here's a list of public Fediverse services.
 | reformed.cloud | No |
 | reformed.social | Yes |
 | refractive.group | No |
+| refusal.biz | No |
 | refuse2.work | No |
 | refuznik.video | No |
 | regastream.com | No |
@@ -19559,6 +19560,7 @@ Here's a list of public Fediverse services.
 | ura-mstdn.com | No |
 | urakodon.com | No |
 | uramstdon.com | No |
+| uraniumhexafluori.de | No |
 | uraniumlane.net | No |
 | urawareds.org | No |
 | urbain.es | No |
@@ -21251,7 +21253,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,175 |
-| Normal | 17,032 |
+| Normal | 17,034 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
