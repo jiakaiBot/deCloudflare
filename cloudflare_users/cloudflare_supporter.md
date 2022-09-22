@@ -5981,6 +5981,7 @@ Do not create new issue or we will close it as duplicate.
 | [Musa19974@twitter](https://twitter.com/Musa19974/status/1468765690538643461) | advertise |
 | [musicapopcool@twitter](https://twitter.com/musicapopcool/status/1385421045776146432) | advertise |
 | [MusicLo06545061@twitter](https://twitter.com/MusicLo06545061/status/1394900973231898626) | advertise |
+| [mustaafa999776@twitter](https://twitter.com/mustaafa999776/status/1573004306672123904) | advertise |
 | [MustafeAden6@twitter](https://twitter.com/MustafeAden6/status/1551734996502822912) | advertise |
 | [MutasimBillahS3@twitter](https://twitter.com/MutasimBillahS3/status/1510162987394699268) | advertise |
 | [MutazAwadsite@twitter](https://twitter.com/MutazAwadsite/status/1572269683436556291) | advertise |
@@ -8549,6 +8550,7 @@ Do not create new issue or we will close it as duplicate.
 | [TamNguy02203080@twitter](https://twitter.com/TamNguy02203080/status/1389605980724359172) | advertise |
 | [Tan45474667@twitter](https://twitter.com/Tan45474667/status/1388679876987654149) | advertise |
 | [tanaruk20@twitter](https://twitter.com/tanaruk20/status/1552451708206600194) | advertise |
+| [tanbir1023@twitter](https://twitter.com/tanbir1023/status/1573021271671308288) | advertise |
 | [TAnh28750081@twitter](https://twitter.com/TAnh28750081/status/1394338740173115399) | advertise |
 | [Tantai198@twitter](https://twitter.com/Tantai198/status/1494866367769550851) | advertise |
 | [tantan69330666@twitter](https://twitter.com/tantan69330666/status/1491684232070299651) | advertise |
@@ -9337,6 +9339,7 @@ Do not create new issue or we will close it as duplicate.
 | [turboroom@twitter](https://twitter.com/turboroom/status/1538608149413998594) | advertise |
 | [TureinKhant@twitter](https://twitter.com/TureinKhant/status/1388471250389983232) | advertise |
 | [TurnKeyMSP@twitter](https://twitter.com/TurnKeyMSP/status/1402797639482187776) | advertise |
+| [turtak_miro@twitter](https://twitter.com/turtak_miro/status/1573024775223808000) | advertise |
 | [Tusayssy456@twitter](https://twitter.com/Tusayssy456/status/1403396450986336262) | advertise |
 | [Tushar_Kapila@twitter](https://twitter.com/Tushar_Kapila/status/1426600905642631175) | advertise |
 | [Tusski3@twitter](https://twitter.com/Tusski3/status/1527917118716379136) | advertise |
