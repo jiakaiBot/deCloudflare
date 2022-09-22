@@ -816,6 +816,7 @@ Or is this merely a case of simple modesty?
 | Jimmy Yuen Ho Wong | Front End Engineer |  |
 | Jim Schlies | Programmer |  |
 | Jim Watson | Employee |  |
+| Jin-Hee Lee | Employee | |
 | Jin Kim | Employee |  |
 | Jiong Yang | Solutions Engineer |  |
 | Joanne Liew | Employee | |
