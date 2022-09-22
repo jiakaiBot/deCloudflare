@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,903 |
 | net | 1,676 |
-| social | 1,181 |
-| org | 1,144 |
+| social | 1,182 |
+| org | 1,146 |
 | de | 1,004 |
 
 
@@ -485,6 +485,7 @@ Here's a list of public Fediverse services.
 | acki.ng | No |
 | aclevo.xyz | No |
 | acme.bo.it | No |
+| acoeur.org | No |
 | acolono.me | Yes |
 | acom.space | No |
 | acomme.fr | No |
@@ -2307,6 +2308,7 @@ Here's a list of public Fediverse services.
 | boys.computer | No |
 | boyslove.jp | No |
 | boz.fi | No |
+| bozgor.org | Yes |
 | bozolord.ml | No |
 | bpd.monster | Yes |
 | bpxiszentpetery8.hu | No |
@@ -4738,6 +4740,7 @@ Here's a list of public Fediverse services.
 | dumb.land | No |
 | dumbly.net | No |
 | dumbo.kr | No |
+| dumbopinions.xyz | No |
 | dumez.info | No |
 | dummbutz.nl | No |
 | dummy.cafe | Yes |
@@ -12386,6 +12389,7 @@ Here's a list of public Fediverse services.
 | muensterland.social | Yes |
 | muffin.pm | No |
 | muga.xyz | No |
+| mugicha.club | No |
 | mugwort.xyz | No |
 | muhroads.net | No |
 | muhroads.party | No |
@@ -20218,6 +20222,7 @@ Here's a list of public Fediverse services.
 | westchat.de | No |
 | westcoastplay.fun | No |
 | westen.xyz | No |
+| westergaard.social | No |
 | westernconnect.org | No |
 | westring.digital | No |
 | weststar.name | Yes |
@@ -21257,8 +21262,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,182 |
-| Normal | 17,032 |
+| Cloudflare | 4,183 |
+| Normal | 17,036 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
