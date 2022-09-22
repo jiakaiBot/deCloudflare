@@ -1385,6 +1385,7 @@ Do not create new issue or we will close it as duplicate.
 | [Braumy77@twitter](https://twitter.com/Braumy77/status/1406588080098889734) | advertise |
 | [braveRAZOR@twitter](https://twitter.com/braveRAZOR/status/1541992073695563777) | advertise |
 | [Brayden55422270@twitter](https://twitter.com/Brayden55422270/status/1568861795015860225) | advertise |
+| [BRCQQT@twitter](https://twitter.com/BRCQQT/status/1572810005421920256) | advertise |
 | [brendan8c@twitter](https://twitter.com/brendan8c/status/1435666779188174850) | advertise |
 | [BrendanDattili2@twitter](https://twitter.com/BrendanDattili2/status/1532100998252093446) | advertise |
 | [BrettSlaski@twitter](https://twitter.com/BrettSlaski/status/1454647204342288385) | advertise |
@@ -7370,6 +7371,7 @@ Do not create new issue or we will close it as duplicate.
 | [Qun61109057@twitter](https://twitter.com/Qun61109057/status/1393196820046569478) | advertise |
 | [Qun69816652@twitter](https://twitter.com/Qun69816652/status/1398669968229634052) | advertise |
 | [Qun70367410@twitter](https://twitter.com/Qun70367410/status/1379352927152660486) | advertise |
+| [QunBiAnh2@twitter](https://twitter.com/QunBiAnh2/status/1572818967605186560) | advertise |
 | [Qung14859286@twitter](https://twitter.com/Qung14859286/status/1396899351985725442) | advertise |
 | [QungPhm4@twitter](https://twitter.com/QungPhm4/status/1394555032100507650) | advertise |
 | [QunhNh33492587@twitter](https://twitter.com/QunhNh33492587/status/1407263425604980758) | advertise |
