@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,903 |
+| com | 2,904 |
 | net | 1,676 |
 | social | 1,182 |
 | org | 1,146 |
@@ -3360,6 +3360,7 @@ Here's a list of public Fediverse services.
 | comunismo.online | No |
 | con.sh | Yes |
 | conan.ooo | No |
+| concho.bar | No |
 | concordia.chat | No |
 | concordia.social | No |
 | conduitry.me | Yes |
@@ -10696,6 +10697,7 @@ Here's a list of public Fediverse services.
 | m4sk.in | Yes |
 | m510.net | No |
 | m544.net | Yes |
+| m64.in | Yes |
 | m6n.jp | No |
 | m86.work | Yes |
 | ma-nic.de | No |
@@ -14039,6 +14041,7 @@ Here's a list of public Fediverse services.
 | oyster.red | Yes |
 | oz.hn | No |
 | ozbustard.social | No |
+| ozgurmaceracilar.com | No |
 | ozhika.me | No |
 | ozoned.net | No |
 | p-arte.org | No |
@@ -17527,6 +17530,7 @@ Here's a list of public Fediverse services.
 | stargaze.cafe | No |
 | stargazer.at | No |
 | staria.club | No |
+| starlifter.tv | Yes |
 | starlit.city | No |
 | starmade.de | No |
 | starnix.network | Yes |
@@ -20705,6 +20709,7 @@ Here's a list of public Fediverse services.
 | xn--qp9h.ml | No |
 | xn--qpr179gg5o.work | No |
 | xn--qubec-csa.tk | No |
+| xn--r9j630glz6a.xn--q9jyb4c | No |
 | xn--rtta-qoa.nu | No |
 | xn--rvca9caab9a8aafa7qa6ethsbi9ewa1jbdf91i.com | No |
 | xn--sjpmeg-juab.space | No |
@@ -21265,8 +21270,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,183 |
-| Normal | 17,039 |
+| Cloudflare | 4,185 |
+| Normal | 17,042 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
