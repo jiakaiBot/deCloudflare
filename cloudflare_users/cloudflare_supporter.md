@@ -2505,6 +2505,7 @@ Do not create new issue or we will close it as duplicate.
 | [farithaidil75@twitter](https://twitter.com/farithaidil75/status/1395571970440253440) | advertise |
 | [farooq_dmj@twitter](https://twitter.com/farooq_dmj/status/1471859023389630468) | advertise |
 | [farooq_furkhan@twitter](https://twitter.com/farooq_furkhan/status/1406526860792455169) | advertise |
+| [farpa23926673@twitter](https://twitter.com/farpa23926673/status/1573059951970377733) | advertise |
 | [farzanf@twitter](https://twitter.com/farzanf/status/1526583866181529609) | advertise |
 | [Farzin19576702@twitter](https://twitter.com/Farzin19576702/status/1391834415785861120) | advertise |
 | [Fashion_NoVa_Ne@twitter](https://twitter.com/Fashion_NoVa_Ne/status/1525972069216833537) | advertise |
@@ -4431,8 +4432,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -4920,6 +4921,7 @@ Do not create new issue or we will close it as duplicate.
 | [lethanhha069@twitter](https://twitter.com/lethanhha069/status/1552704350161895424) | advertise |
 | [Letis12976524@twitter](https://twitter.com/Letis12976524/status/1408059624025051147) | advertise |
 | [letrung02082000@twitter](https://twitter.com/letrung02082000/status/1472433683210457088) | advertise |
+| [LetuanHoanganh1@twitter](https://twitter.com/LetuanHoanganh1/status/1573062532830564352) | advertise |
 | [levannguyen1998@twitter](https://twitter.com/levannguyen1998/status/1496429932591054851) | advertise |
 | [levelbest@twitter](https://twitter.com/levelbest/status/1402010072595800066) | advertise |
 | [Levi24406406@twitter](https://twitter.com/Levi24406406/status/1566254367275196416) | advertise |
@@ -5371,6 +5373,7 @@ Do not create new issue or we will close it as duplicate.
 | [MasterHtun@twitter](https://twitter.com/MasterHtun/status/1395059448788373505) | advertise |
 | [MasterSpackle@twitter](https://twitter.com/MasterSpackle/status/1387213742241468419) | advertise |
 | [MaSubashlama@twitter](https://twitter.com/MaSubashlama/status/1549434266144354304) | advertise |
+| [Mat71017572@twitter](https://twitter.com/Mat71017572/status/1573066318437404674) | advertise |
 | [mATAsBokaklIPdM@twitter](https://twitter.com/mATAsBokaklIPdM/status/1394944549911359497) | advertise |
 | [matfitt@twitter](https://twitter.com/matfitt/status/1386357122070310912) | advertise |
 | [Matnipp93_@twitter](https://twitter.com/Matnipp93_/status/1544927051458953216) | advertise |
