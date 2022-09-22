@@ -237,6 +237,7 @@ Here's a list of public Fediverse services.
 | 3xpl0its.xyz | No |
 | 403.io | No |
 | 403page.com | Yes |
+| 404.mn | No |
 | 404.taipei | No |
 | 40two.tube | No |
 | 412000.xyz | Yes |
@@ -6826,7 +6827,7 @@ Here's a list of public Fediverse services.
 | globenet.org | No |
 | globetvs.com | No |
 | globulous.com | No |
-| gloc.al | No |
+| gloc.al | Yes |
 | glomzubuk.fr | No |
 | gloomytrousers.co.uk | No |
 | gloon.jp | No |
@@ -12345,7 +12346,7 @@ Here's a list of public Fediverse services.
 | mstdn.tk | No |
 | mstdn.tokyo | No |
 | mstdn.top | No |
-| mstdn.tw | No |
+| mstdn.tw | Yes |
 | mstdn.uk | No |
 | mstdn.us | Yes |
 | mstdn.vodka | No |
@@ -13984,6 +13985,7 @@ Here's a list of public Fediverse services.
 | outofreality.org | No |
 | outoftou.ch | Yes |
 | outout.xyz | No |
+| outpoa.st | No |
 | outrider.xyz | No |
 | outsidermanga.com | No |
 | outsiders.network | No |
@@ -15541,7 +15543,7 @@ Here's a list of public Fediverse services.
 | rarf.zone | No |
 | raru.re | No |
 | raryosu.info | Yes |
-| rasard.com | No |
+| rasard.com | Yes |
 | rasly.cf | No |
 | raspberryip.com | No |
 | rastapuls.com | No |
@@ -15673,7 +15675,7 @@ Here's a list of public Fediverse services.
 | reformed.cloud | No |
 | reformed.social | Yes |
 | refractive.group | No |
-| refusal.biz | No |
+| refusal.biz | Yes |
 | refuse2.work | No |
 | refuznik.video | No |
 | regastream.com | No |
@@ -21255,8 +21257,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,178 |
-| Normal | 17,034 |
+| Cloudflare | 4,182 |
+| Normal | 17,032 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
