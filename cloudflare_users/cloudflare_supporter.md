@@ -2528,6 +2528,7 @@ Do not create new issue or we will close it as duplicate.
 | [fening12@twitter](https://twitter.com/fening12/status/1402708446680535042) | advertise |
 | [FenySoft@twitter](https://twitter.com/FenySoft/status/1453328924063240196) | advertise |
 | [Ferona44304373@twitter](https://twitter.com/Ferona44304373/status/1394530832367370240) | advertise |
+| [FerricMachan@twitter](https://twitter.com/FerricMachan/status/1573051436728197121) | advertise |
 | [FeyisaraFashina@twitter](https://twitter.com/FeyisaraFashina/status/1531939614470152193) | advertise |
 | [ffoochai@twitter](https://twitter.com/ffoochai/status/1376085361219096576) | advertise |
 | [fFqiA9FWfwFWC05@twitter](https://twitter.com/fFqiA9FWfwFWC05/status/1404315971750227969) | advertise |
