@@ -533,6 +533,7 @@ Or is this merely a case of simple modesty?
 | Dragos Bogdan | Product Marketing Manager |  |
 | Drew Dowling | Full Stack Engineer |  |
 | Drew Herron | Brand Designer |  |
+| Duc Nguyen | Employee | |
 | Dylan Etkin | Engineering Manager |  |
 | Dylan Saffer | Business Development |  |
 | Dylan Welter | Creative Ops Manager |  |
@@ -1092,6 +1093,7 @@ Or is this merely a case of simple modesty?
 | Marina Jeon | Demand Generation Specialist |  |
 | Marina Sanusi | Employee | |
 | Mark Garfield | VP of Finance |  |
+| Mark J Miller | Employee | |
 | Mark Pashmfouroush | System Engineer | mark@markpash.me<br>https://stackoverflow.com/users/5111029/mark-pashmfouroush<br>https://github.com/MarkPash<br>https://bio.markpash.me/<br>https://keybase.io/markpash |
 | Mark Steyn | Front End Engineer |  |
 | Marshall Alexander | Platform Operations |  |
@@ -1540,6 +1542,7 @@ Or is this merely a case of simple modesty?
 | Shawn Robinson | Employee |  |
 | Shay Padhye | Customer Development |  |
 | Shaz Carmali | Solutions Engineer, London |  |
+| Shelley Jones | Employee | |
 | Shen Zhang | Salesforce Developer |  |
 | Sheridan Guest | Account Executive |  |
 | Sherry Apostol | Executive Assistant |  |
