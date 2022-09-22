@@ -7874,6 +7874,7 @@ Do not create new issue or we will close it as duplicate.
 | [SardaIshan@twitter](https://twitter.com/SardaIshan/status/1382695259549880329) | advertise |
 | [Sarina63795826@twitter](https://twitter.com/Sarina63795826/status/1396348754521907200) | advertise |
 | [Sarkyaw6@twitter](https://twitter.com/Sarkyaw6/status/1397057579788820480) | advertise |
+| [SAROJKUMARSAHN9@twitter](https://twitter.com/SAROJKUMARSAHN9/status/1572750407465828352) | advertise |
 | [SarojNa47285916@twitter](https://twitter.com/SarojNa47285916/status/1400432809362149379) | advertise |
 | [sarsminhtutaung@twitter](https://twitter.com/sarsminhtutaung/status/1398554869951131648) | advertise |
 | [SarufAli18@twitter](https://twitter.com/SarufAli18/status/1394965028504223747) | advertise |
