@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,676 |
 | social | 1,182 |
 | org | 1,146 |
-| de | 1,004 |
+| de | 1,005 |
 
 
 - Mastodon, Pleroma, etc
@@ -6155,6 +6155,7 @@ Here's a list of public Fediverse services.
 | freewahaextremist.com | No |
 | freewahaextremist.wtf | No |
 | freewheel.social | No |
+| freezepeach.online | No |
 | freezepeach.xyz | Yes |
 | frehi.be | No |
 | frei.social | Yes |
@@ -9461,6 +9462,7 @@ Here's a list of public Fediverse services.
 | koetodon.com | No |
 | kogak.ninja | No |
 | kogak.xyz | No |
+| kogasa.de | No |
 | kohrville.net | No |
 | koi.moe | Yes |
 | koinonia.club | No |
@@ -18734,6 +18736,7 @@ Here's a list of public Fediverse services.
 | tmp.si | No |
 | tmp1024.com | Yes |
 | tmprs.net | No |
+| tnd.lol | No |
 | to-tell.de | No |
 | to-tell.tk | No |
 | toad-in-the-hole.net | No |
@@ -21263,7 +21266,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,183 |
-| Normal | 17,036 |
+| Normal | 17,039 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
