@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Shutdown of mobile networks in Iran, 2022-09-21](https://github.com/net4people/bbs/issues/125)
 - [Sep 21 brief outage and heroku timeouts](https://github.com/sciencehistory/scihist_digicoll/issues/1864)
 - [Cloudflare R2 instructions](https://github.com/ryanto/next-s3-upload/issues/96)
 - [VRChat vrchat:// protocol launch URL is not generated correctly](https://github.com/pypy-vrc/VRCX/issues/415)
