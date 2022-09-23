@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,904 |
-| net | 1,676 |
+| net | 1,677 |
 | social | 1,182 |
 | org | 1,146 |
 | de | 1,005 |
@@ -2017,6 +2017,7 @@ Here's a list of public Fediverse services.
 | bitcoinplebs.net | No |
 | bitcoinsasquatch.com | No |
 | bitcointv.com | No |
+| bitcointv.net | No |
 | bitflip.jetzt | No |
 | bitfudge.com | Yes |
 | bitgrid.net | No |
@@ -5352,6 +5353,7 @@ Here's a list of public Fediverse services.
 | exile.social | No |
 | exited.eu | No |
 | exo.icu | No |
+| exo.tube | No |
 | exode.me | No |
 | exohunt.space | No |
 | exon.name | Yes |
@@ -10907,6 +10909,7 @@ Here's a list of public Fediverse services.
 | map-le.net | No |
 | mapcommunity.org | No |
 | mapf.net | No |
+| maphammond.art | No |
 | maphammond.club | No |
 | mapicardie.fr | No |
 | maplelawn.net | No |
@@ -21273,7 +21276,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,187 |
-| Normal | 17,042 |
+| Normal | 17,045 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
