@@ -2680,6 +2680,7 @@ Do not create new issue or we will close it as duplicate.
 | [GarrettsNetwork@twitter](https://twitter.com/GarrettsNetwork/status/1475938283850973195) | advertise |
 | [GarywMonoch@twitter](https://twitter.com/GarywMonoch/status/1573172912261337088) | advertise |
 | [gasbrbn@twitter](https://twitter.com/gasbrbn/status/1555948590492635137) | advertise |
+| [gatito9420@twitter](https://twitter.com/gatito9420/status/1573395463965143041) | advertise |
 | [Gaurav33875221@twitter](https://twitter.com/Gaurav33875221/status/1387072373430521865) | advertise |
 | [gaurav52977211@twitter](https://twitter.com/gaurav52977211/status/1504490723571347457) | advertise |
 | [Gaurav___P@twitter](https://twitter.com/Gaurav___P/status/1389646942062321666) | advertise |
