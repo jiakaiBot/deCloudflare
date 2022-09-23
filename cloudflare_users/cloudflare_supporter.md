@@ -4438,8 +4438,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7806,6 +7806,7 @@ Do not create new issue or we will close it as duplicate.
 | [SaiSai57206673@twitter](https://twitter.com/SaiSai57206673/status/1391999758303043588) | advertise |
 | [SaiSai76452174@twitter](https://twitter.com/SaiSai76452174/status/1392002445987909632) | advertise |
 | [Saisithuhein1@twitter](https://twitter.com/Saisithuhein1/status/1380135543900491779) | advertise |
+| [saitamainjast@twitter](https://twitter.com/saitamainjast/status/1573380717324664832) | advertise |
 | [SaiThaw14@twitter](https://twitter.com/SaiThaw14/status/1391668291551342596) | advertise |
 | [saithethtwe@twitter](https://twitter.com/saithethtwe/status/1379038437383278592) | advertise |
 | [SaiWaiKyaw2@twitter](https://twitter.com/SaiWaiKyaw2/status/1394310063037190147) | advertise |
