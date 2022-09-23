@@ -152,7 +152,7 @@ Here's a list of public Fediverse services.
 | 1o1.io | No |
 | 1oku.net | No |
 | 1person.me | No |
-| 1w1.in | Yes |
+| 1w1.in | No |
 | 1w6.org | No |
 | 1xx.io | No |
 | 2-blog.net | No |
@@ -16416,7 +16416,7 @@ Here's a list of public Fediverse services.
 | schillinois.com | No |
 | schinbo.de | No |
 | schizo.dev | No |
-| schizo.me | No |
+| schizo.me | Yes |
 | schizo.online | No |
 | schizoid.social | No |
 | schizoid.tech | No |
@@ -16994,6 +16994,7 @@ Here's a list of public Fediverse services.
 | skryking.com | No |
 | sksocial.ca | Yes |
 | skull.boutique | No |
+| skull.town | No |
 | skull.website | No |
 | skullb0x.io | No |
 | skunk.agency | No |
@@ -21276,7 +21277,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,187 |
-| Normal | 17,045 |
+| Normal | 17,046 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
