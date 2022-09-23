@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,904 |
+| com | 2,905 |
 | net | 1,677 |
 | social | 1,182 |
 | org | 1,146 |
@@ -1955,6 +1955,7 @@ Here's a list of public Fediverse services.
 | bimmer.social | No |
 | binarydad.com | No |
 | binarystar.systems | No |
+| binarytango.com | No |
 | binaryunit.com | No |
 | binatang.nl | No |
 | binbin.eu.org | No |
@@ -3189,7 +3190,7 @@ Here's a list of public Fediverse services.
 | cmx.rocks | No |
 | cncn.ch | No |
 | cncs.io | No |
-| cnet.site | No |
+| cnet.site | Yes |
 | cni-coop.net | No |
 | cnova.de | No |
 | cnr.it | No |
@@ -20370,6 +20371,7 @@ Here's a list of public Fediverse services.
 | witch.energy | No |
 | witchcraft.cafe | No |
 | witches.academy | No |
+| witches.in | No |
 | witches.live | No |
 | witches.pub | No |
 | witches.social | No |
@@ -21276,8 +21278,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,187 |
-| Normal | 17,046 |
+| Cloudflare | 4,188 |
+| Normal | 17,047 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
