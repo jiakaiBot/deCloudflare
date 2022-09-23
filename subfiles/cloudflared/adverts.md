@@ -15,8 +15,8 @@ Here's the result.
 
 | Adblock list | Domains Count | Cloudflare | % |
 | --- | --- | --- | --- |
-| [EasyList](https://easylist.to/easylist/easylist.txt) | 30,059 | 8,333 | 27.7% |
-| [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) | 17,508 | 5,413 | 30.9% |
+| [EasyList](https://easylist.to/easylist/easylist.txt) | 30,059 | 8,332 | 27.7% |
+| [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) | 17,508 | 5,414 | 30.9% |
 | [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 46,342 | 8,832 | 19.1% |
 | [AdAway](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | 2,088 | 726 | 34.8% |
 | Total | 65,504 | 16,747 | 25.6% |
