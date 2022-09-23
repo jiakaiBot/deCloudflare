@@ -766,7 +766,7 @@ Here's a list of public Fediverse services.
 | alittlestrange.com | Yes |
 | alive.bar | Yes |
 | alixrossi.corsica | No |
-| aliyo.me | No |
+| aliyo.me | Yes |
 | aljadra.xyz | No |
 | all.de | No |
 | allaver.com | Yes |
@@ -3188,7 +3188,7 @@ Here's a list of public Fediverse services.
 | cmx.rocks | No |
 | cncn.ch | No |
 | cncs.io | No |
-| cnet.site | Yes |
+| cnet.site | No |
 | cni-coop.net | No |
 | cnova.de | No |
 | cnr.it | No |
@@ -7133,7 +7133,7 @@ Here's a list of public Fediverse services.
 | gude-elschbach.de | No |
 | gudeleu.de | No |
 | guedel.eu | No |
-| guedes.com.pt | No |
+| guedes.com.pt | Yes |
 | guelink.de | Yes |
 | guerilla-economist.eu.org | No |
 | guerredeclasse.fr | No |
@@ -13392,6 +13392,7 @@ Here's a list of public Fediverse services.
 | nsnw.ca | No |
 | nsupdate.info | Yes |
 | nth.io | Yes |
+| nthia.dev | No |
 | nthomas20.net | No |
 | nti.social | No |
 | ntic.fr | No |
@@ -14268,7 +14269,7 @@ Here's a list of public Fediverse services.
 | pedesen.de | No |
 | pedo.house | No |
 | pedo.school | No |
-| pedrocx486.club | No |
+| pedrocx486.club | Yes |
 | peen.dev | Yes |
 | peer.tube | No |
 | peerkids.com | No |
@@ -15415,6 +15416,7 @@ Here's a list of public Fediverse services.
 | raccoon.id | No |
 | raccoon.life | No |
 | raccoon.network | No |
+| raccoon.place | No |
 | racem.us | Yes |
 | racer159.com | No |
 | racheklos.com | No |
@@ -21270,7 +21272,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,185 |
+| Cloudflare | 4,187 |
 | Normal | 17,042 |
 
 
