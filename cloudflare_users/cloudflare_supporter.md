@@ -4438,8 +4438,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8397,6 +8397,7 @@ Do not create new issue or we will close it as duplicate.
 | [StevenLinn55@twitter](https://twitter.com/StevenLinn55/status/1404115990548410372) | advertise |
 | [StevenYagel1@twitter](https://twitter.com/StevenYagel1/status/1561718347590680576) | advertise |
 | [steven_rusty@twitter](https://twitter.com/steven_rusty/status/1476304266746810376) | advertise |
+| [STEVESYH@twitter](https://twitter.com/STEVESYH/status/1573325435899084802) | advertise |
 | [STharaan@twitter](https://twitter.com/STharaan/status/1563651594914148352) | advertise |
 | [SthiKvs@twitter](https://twitter.com/SthiKvs/status/1552687724498341889) | advertise |
 | [StHost@twitter](https://twitter.com/StHost/status/1421792790602784773) | advertise |
