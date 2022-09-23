@@ -232,6 +232,7 @@ www-publico-es.translate.goog
 www-tagesspiegel-de.translate.goog
 www-vilaweb-cat.translate.goog
 www.taiwan-panorama.com
+www.takashimaya.co.jp
 www.tatvikayurveda.com
 www.taylorbabe.com
 www.tdk.com
