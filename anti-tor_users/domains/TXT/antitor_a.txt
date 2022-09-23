@@ -227,6 +227,7 @@ www-nytimes-com.cdn.ampproject.org
 www-politico-eu.cdn.ampproject.org
 www-tsf-pt.cdn.ampproject.org
 www-wbko-com.cdn.ampproject.org
+www.aanda.org
 www.abbysangelsah.org
 www.abc-mart.net
 www.abc12.com
@@ -267,6 +268,7 @@ www.asianescorts69.co.uk
 www.asianetnews.com
 www.asiansensation.co.uk
 www.at-x.com
+www.atlantaga.gov
 www.audinorthlake.com
 www.av-apa.com
 www.axisbank.com
