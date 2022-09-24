@@ -2230,6 +2230,7 @@ Do not create new issue or we will close it as duplicate.
 | [DucMinhVu9@twitter](https://twitter.com/DucMinhVu9/status/1407931928137715714) | advertise |
 | [Ducongluat1@twitter](https://twitter.com/Ducongluat1/status/1387339273892876290) | advertise |
 | [Ducvu1212@twitter](https://twitter.com/Ducvu1212/status/1552367108843241472) | advertise |
+| [due_troi@twitter](https://twitter.com/due_troi/status/1573624298224635904) | advertise |
 | [DujeGT@twitter](https://twitter.com/DujeGT/status/1533451778255093761) | advertise |
 | [DukedWinchester@twitter](https://twitter.com/DukedWinchester/status/1391277873210662913) | advertise |
 | [dukeyunz@twitter](https://twitter.com/dukeyunz/status/1471327151656153088) | advertise |
