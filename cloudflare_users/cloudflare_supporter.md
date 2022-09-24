@@ -449,6 +449,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlgNinja@twitter](https://twitter.com/AlgNinja/status/1378849294208360451) | advertise |
 | [Ali03101829Ali@twitter](https://twitter.com/Ali03101829Ali/status/1561268730075701250) | advertise |
 | [Ali12khan12@twitter](https://twitter.com/Ali12khan12/status/1497947864743432199) | advertise |
+| [Ali31543248@twitter](https://twitter.com/Ali31543248/status/1573662744905240577) | advertise |
 | [Ali74967035@twitter](https://twitter.com/Ali74967035/status/1398191756433264646) | advertise |
 | [aliali57636674@twitter](https://twitter.com/aliali57636674/status/1552967267352072192) | advertise |
 | [aliasger32raj@twitter](https://twitter.com/aliasger32raj/status/1391608805218144260) | advertise |
