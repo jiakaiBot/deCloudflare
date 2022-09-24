@@ -4129,6 +4129,7 @@ Do not create new issue or we will close it as duplicate.
 | [kamalW72237036@twitter](https://twitter.com/kamalW72237036/status/1515912575694905354) | advertise |
 | [kamelmansouri@twitter](https://twitter.com/kamelmansouri/status/1470652684206321672) | advertise |
 | [kamey258@twitter](https://twitter.com/kamey258/status/1379869168061837313) | advertise |
+| [kamijouanna@twitter](https://twitter.com/kamijouanna/status/1573455714848210962) | advertise |
 | [Kamik0s@twitter](https://twitter.com/Kamik0s/status/1422688620096393219) | advertise |
 | [kamikamustudio@twitter](https://twitter.com/kamikamustudio/status/1445741264285028362) | advertise |
 | [kamikazed91@twitter](https://twitter.com/kamikazed91/status/1379950655159197699) | advertise |
