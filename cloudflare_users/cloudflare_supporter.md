@@ -514,6 +514,7 @@ Do not create new issue or we will close it as duplicate.
 | [Amiirfahad@twitter](https://twitter.com/Amiirfahad/status/1492928600978382856) | advertise |
 | [Amine84851078@twitter](https://twitter.com/Amine84851078/status/1497688175740923906) | advertise |
 | [Amin_A_S@twitter](https://twitter.com/Amin_A_S/status/1561946235887648768) | advertise |
+| [amir29601724@twitter](https://twitter.com/amir29601724/status/1573558606036967424) | advertise |
 | [amir55087591@twitter](https://twitter.com/amir55087591/status/1399965313156804610) | advertise |
 | [amirchitgaran@twitter](https://twitter.com/amirchitgaran/status/1384197111500083214) | advertise |
 | [AmirFusaini@twitter](https://twitter.com/AmirFusaini/status/1399362665416314883) | advertise |
@@ -6936,6 +6937,7 @@ Do not create new issue or we will close it as duplicate.
 | [PaulBarwick11@twitter](https://twitter.com/PaulBarwick11/status/1467967262510387200) | advertise |
 | [Paulkessakorn@twitter](https://twitter.com/Paulkessakorn/status/1378247796487114754) | advertise |
 | [PaulNawJa2@twitter](https://twitter.com/PaulNawJa2/status/1381809732298571777) | advertise |
+| [PaulPhoethar@twitter](https://twitter.com/PaulPhoethar/status/1573560366222565376) | advertise |
 | [PaulTijin@twitter](https://twitter.com/PaulTijin/status/1516661349212127232) | advertise |
 | [paultonetti@twitter](https://twitter.com/paultonetti/status/1418416919347175425) | advertise |
 | [paulyok1@twitter](https://twitter.com/paulyok1/status/1560561771060105216) | advertise |
