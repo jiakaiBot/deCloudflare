@@ -3571,6 +3571,7 @@ Here's a list of public Fediverse services.
 | cronopio.cloud | No |
 | croplee.com | No |
 | cross-area.com | No |
+| cross.net.uk | No |
 | crosse.org | Yes |
 | crossfamilyweb.com | No |
 | crow.lol | Yes |
@@ -7527,6 +7528,7 @@ Here's a list of public Fediverse services.
 | herkenhoff.eu | No |
 | herkenhoff.nl | No |
 | herkimer.social | No |
+| hermit.cafe | No |
 | hermitmagicians.com | No |
 | hern.as | Yes |
 | heroicwisdom.com | No |
@@ -21286,7 +21288,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,193 |
-| Normal | 17,049 |
+| Normal | 17,051 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
