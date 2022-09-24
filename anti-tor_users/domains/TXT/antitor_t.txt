@@ -114,6 +114,7 @@ www.tuxedocomputers.com
 www.tzom.berlin
 amp.tvn24.pl
 automotive.ten-navi.com
+blog.twnic.tw
 denwalker-com.translate.goog
 endtimes-dev.translate.goog
 eyeondesign-aiga-org.translate.goog
@@ -259,6 +260,7 @@ www.tiemo-woelken.de
 www.tigermeisters.com
 www.tmdn.org
 www.todaygirls.co.uk
+www.toelzer-land.de
 www.tokyu.co.jp
 www.totalconnection.com
 www.traindor.com
