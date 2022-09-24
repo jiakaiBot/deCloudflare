@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,905 |
+| com | 2,906 |
 | net | 1,677 |
 | social | 1,182 |
 | org | 1,146 |
@@ -717,7 +717,7 @@ Here's a list of public Fediverse services.
 | aldude999.net | No |
 | ale-elements.ml | No |
 | aleatoire.net | No |
-| aleph.co | No |
+| aleph.co | Yes |
 | aleph.land | No |
 | alephnil.xyz | No |
 | alesan.io | No |
@@ -934,6 +934,7 @@ Here's a list of public Fediverse services.
 | anders.dev | No |
 | andersen.one | No |
 | andersen.social | No |
+| andersonstoolshed.com | No |
 | andie.club | No |
 | andreaskilgus.de | No |
 | andreasrohner.at | No |
@@ -5084,7 +5085,7 @@ Here's a list of public Fediverse services.
 | emilylilyli.me | No |
 | emisocks.com | No |
 | emma.coop | No |
-| emmanuel.website | No |
+| emmanuel.website | Yes |
 | emo-essen.de | No |
 | emo.world | Yes |
 | emodykes.club | No |
@@ -12600,7 +12601,7 @@ Here's a list of public Fediverse services.
 | nafuchoco.page | Yes |
 | naganu.com | No |
 | nagas.xyz | Yes |
-| nagaseyami.com | No |
+| nagaseyami.com | Yes |
 | nagayodon.com | No |
 | naggel.com | No |
 | naghdbishi.ir | No |
@@ -12945,6 +12946,7 @@ Here's a list of public Fediverse services.
 | newbase.cloud | Yes |
 | newblue.life | No |
 | newcitadel.net | No |
+| newellijay.tv | No |
 | newfield1001.de | No |
 | newjack.city | Yes |
 | newnebraska.online | No |
@@ -14759,7 +14761,7 @@ Here's a list of public Fediverse services.
 | plus.st | No |
 | plus.yt | Yes |
 | plus200.com | No |
-| pluser.net | No |
+| pluser.net | Yes |
 | plush.army | No |
 | plush.city | No |
 | plushies.social | No |
@@ -15946,6 +15948,7 @@ Here's a list of public Fediverse services.
 | rockhost.se | No |
 | rockoo.pw | No |
 | rodab.party | Yes |
+| rodacy.tv | No |
 | rodent.cloud | No |
 | rodent.io | No |
 | rodents.party | No |
@@ -21278,8 +21281,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,188 |
-| Normal | 17,047 |
+| Cloudflare | 4,192 |
+| Normal | 17,046 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
