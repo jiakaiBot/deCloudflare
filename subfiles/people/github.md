@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [poloniex fetchwithdrawals and fetchDeposits error](https://github.com/ccxt/ccxt/issues/15098)
 - [ssl.SSLError: SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC decryption failed or bad record mac (_ssl.c:2570)](https://github.com/ebolam/KoboldAI/issues/159)
 - [privatehd API offline](https://github.com/Jackett/Jackett/issues/13573)
 - [Showing error page instead of loading page](https://github.com/acouvreur/traefik-ondemand-plugin/issues/35)
