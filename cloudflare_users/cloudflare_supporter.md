@@ -439,6 +439,7 @@ Do not create new issue or we will close it as duplicate.
 | [alexla2809@twitter](https://twitter.com/alexla2809/status/1561246966990123008) | advertise |
 | [alexleungch@twitter](https://twitter.com/alexleungch/status/1500726449497460738) | advertise |
 | [AlexNik14448676@twitter](https://twitter.com/AlexNik14448676/status/1404016449262284806) | advertise |
+| [alexNoe69381117@twitter](https://twitter.com/alexNoe69381117/status/1573698489099247616) | advertise |
 | [alexroyce315@twitter](https://twitter.com/alexroyce315/status/1459396293596352513) | advertise |
 | [AlexTam64594150@twitter](https://twitter.com/AlexTam64594150/status/1399762018429673475) | advertise |
 | [Alexthegod0day@twitter](https://twitter.com/Alexthegod0day/status/1384346054011744258) | advertise |
@@ -2132,6 +2133,7 @@ Do not create new issue or we will close it as duplicate.
 | [DngThunc3@twitter](https://twitter.com/DngThunc3/status/1392585261654052869) | advertise |
 | [DNguttyen@twitter](https://twitter.com/DNguttyen/status/1560532734334107653) | advertise |
 | [dninecrab@twitter](https://twitter.com/dninecrab/status/1397625512223068163) | advertise |
+| [dnst7890@twitter](https://twitter.com/dnst7890/status/1573704011295109122) | advertise |
 | [doanh67151149@twitter](https://twitter.com/doanh67151149/status/1480783806739070976) | advertise |
 | [Doanhh8@twitter](https://twitter.com/Doanhh8/status/1516063701350350854) | advertise |
 | [Doanman78962511@twitter](https://twitter.com/Doanman78962511/status/1485691320228548608) | advertise |
