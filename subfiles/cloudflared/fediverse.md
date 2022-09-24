@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,908 |
+| com | 2,910 |
 | net | 1,677 |
 | social | 1,183 |
 | org | 1,146 |
@@ -20183,6 +20183,7 @@ Here's a list of public Fediverse services.
 | webunknownperson.com | No |
 | webunraveling.com | No |
 | weburn.ru | No |
+| webxb.com | Yes |
 | webzone69.com | No |
 | wedistribute.org | No |
 | weeaboo.space | No |
@@ -20695,6 +20696,7 @@ Here's a list of public Fediverse services.
 | xn--dreikseho-z2a.ch | No |
 | xn--dsselblog-q9a.de | No |
 | xn--eckxc4c0a9di.games | No |
+| xn--eckycf7j.com | No |
 | xn--fiqwix98h.jp | No |
 | xn--geldwsche24-p8a.eu | No |
 | xn--gu1a.moe | No |
@@ -21287,8 +21289,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,193 |
-| Normal | 17,051 |
+| Cloudflare | 4,194 |
+| Normal | 17,052 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
