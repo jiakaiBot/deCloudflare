@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ssl.SSLError: SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC decryption failed or bad record mac (_ssl.c:2570)](https://github.com/ebolam/KoboldAI/issues/159)
 - [privatehd API offline](https://github.com/Jackett/Jackett/issues/13573)
 - [Showing error page instead of loading page](https://github.com/acouvreur/traefik-ondemand-plugin/issues/35)
 - [HACS installation instructions need to be updated (Cludflare 503 error)](https://github.com/hacs/integration/issues/2854)
