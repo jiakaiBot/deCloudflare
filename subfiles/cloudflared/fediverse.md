@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,906 |
+| com | 2,908 |
 | net | 1,677 |
-| social | 1,182 |
+| social | 1,183 |
 | org | 1,146 |
 | de | 1,005 |
 
@@ -1107,6 +1107,7 @@ Here's a list of public Fediverse services.
 | apolut.net | Yes |
 | apontaeclica.com | No |
 | apothecary.social | No |
+| apotheke.social | No |
 | app-base.net | No |
 | appalachian.town | No |
 | appcivico.com | Yes |
@@ -6434,6 +6435,7 @@ Here's a list of public Fediverse services.
 | g1zm0.social | No |
 | g2887349.com | Yes |
 | g2od.ch | No |
+| g307m.com | Yes |
 | g3l.org | No |
 | g4wrd.in | Yes |
 | g5t.de | Yes |
@@ -9985,6 +9987,7 @@ Here's a list of public Fediverse services.
 | lemmy.cat | No |
 | lemmy.eus | No |
 | lemmy.ml | No |
+| lemmygrad.com | No |
 | lemmygrad.ml | No |
 | lemnoslife.com | No |
 | lemon-blacktea.xyz | No |
@@ -17092,6 +17095,7 @@ Here's a list of public Fediverse services.
 | smokymountain.top | No |
 | smolkitty.me | Yes |
 | smolnet.org | No |
+| smoltux.space | No |
 | smoothbrain.top | No |
 | smoothdream.me | Yes |
 | smoothdream.online | Yes |
@@ -21281,8 +21285,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,192 |
-| Normal | 17,046 |
+| Cloudflare | 4,193 |
+| Normal | 17,049 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
