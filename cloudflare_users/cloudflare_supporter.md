@@ -525,6 +525,7 @@ Do not create new issue or we will close it as duplicate.
 | [Amirtalib02@twitter](https://twitter.com/Amirtalib02/status/1564245612412825601) | advertise |
 | [AmirullAyob@twitter](https://twitter.com/AmirullAyob/status/1474048815149682689) | advertise |
 | [Amirulsyafeeq66@twitter](https://twitter.com/Amirulsyafeeq66/status/1550517767899840512) | advertise |
+| [amir_809@twitter](https://twitter.com/amir_809/status/1573479973331017728) | advertise |
 | [AmitSin32558267@twitter](https://twitter.com/AmitSin32558267/status/1483704135405142016) | advertise |
 | [AmjSuper@twitter](https://twitter.com/AmjSuper/status/1385840633030529026) | advertise |
 | [AmJung17@twitter](https://twitter.com/AmJung17/status/1524909732720689152) | advertise |
