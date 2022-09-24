@@ -2563,6 +2563,7 @@ Do not create new issue or we will close it as duplicate.
 | [FlashZA_@twitter](https://twitter.com/FlashZA_/status/1507735134799372288) | advertise |
 | [FlB22659378@twitter](https://twitter.com/FlB22659378/status/1396356630082514944) | advertise |
 | [flDtnyWkEEqOpk9@twitter](https://twitter.com/flDtnyWkEEqOpk9/status/1388450053430202369) | advertise |
+| [FliuchOff@twitter](https://twitter.com/FliuchOff/status/1573550524946857986) | advertise |
 | [Flonerr@twitter](https://twitter.com/Flonerr/status/1390128815595130888) | advertise |
 | [Floofpics@twitter](https://twitter.com/Floofpics/status/1532870528763043840) | advertise |
 | [FloServer@twitter](https://twitter.com/FloServer/status/1468999905079443456) | advertise |
