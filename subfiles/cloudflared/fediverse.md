@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 2,910 |
 | net | 1,677 |
 | social | 1,183 |
-| org | 1,147 |
+| org | 1,148 |
 | de | 1,005 |
 
 
@@ -2636,6 +2636,7 @@ Here's a list of public Fediverse services.
 | canopeeurbaine.ca | No |
 | canor.kr | Yes |
 | cant.at | No |
+| cantonia.org | No |
 | cantos.social | No |
 | canzan.chat | No |
 | cao4.com | Yes |
@@ -2941,6 +2942,7 @@ Here's a list of public Fediverse services.
 | chiffon-sepxipl.com | Yes |
 | chiheisen.moe | No |
 | chiji.space | No |
+| chikichiki.tube | Yes |
 | childpawn.shop | No |
 | childrenshealthdefense.eu | Yes |
 | chilemasto.casa | No |
@@ -21290,8 +21292,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,195 |
-| Normal | 17,052 |
+| Cloudflare | 4,196 |
+| Normal | 17,053 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
