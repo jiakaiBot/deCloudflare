@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 2,910 |
 | net | 1,677 |
 | social | 1,183 |
-| org | 1,146 |
+| org | 1,147 |
 | de | 1,005 |
 
 
@@ -18539,6 +18539,7 @@ Here's a list of public Fediverse services.
 | thesifr.com | No |
 | thesimons.us | No |
 | thesnakepostoffice.online | No |
+| thesolarrepublic.org | Yes |
 | thespence.space | No |
 | thespinning.top | No |
 | thestory.store | No |
@@ -21289,7 +21290,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,194 |
+| Cloudflare | 4,195 |
 | Normal | 17,052 |
 
 
