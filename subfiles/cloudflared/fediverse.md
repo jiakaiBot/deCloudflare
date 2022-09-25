@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,910 |
+| com | 2,911 |
 | net | 1,677 |
 | social | 1,183 |
 | org | 1,148 |
@@ -12165,7 +12165,7 @@ Here's a list of public Fediverse services.
 | moss.church | No |
 | mossou.com | No |
 | mossymaker.com | No |
-| mostodon.cloud | No |
+| mostodon.cloud | Yes |
 | mostodon.info | No |
 | mostodon.net | No |
 | mosw.work | No |
@@ -16106,6 +16106,7 @@ Here's a list of public Fediverse services.
 | rumbly.net | No |
 | rumia.tk | No |
 | rumia.xyz | No |
+| rumiserver.com | Yes |
 | rumtreiberin.com | No |
 | run-girls.run | Yes |
 | rundfunker.net | No |
@@ -21294,8 +21295,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,192 |
-| Normal | 17,059 |
+| Cloudflare | 4,194 |
+| Normal | 17,058 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
