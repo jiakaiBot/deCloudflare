@@ -4448,7 +4448,7 @@ Here's a list of public Fediverse services.
 | ditundat.social | No |
 | div88.org | No |
 | diva.exchange | No |
-| divad.xyz | Yes |
+| divad.xyz | No |
 | divas.joburg | No |
 | divbot.com | No |
 | dividuate.me | No |
@@ -8480,6 +8480,7 @@ Here's a list of public Fediverse services.
 | itsnero.com | Yes |
 | itsneversunnyinnd.com | No |
 | itsnotjusttheflu.org | No |
+| itsover.cyou | No |
 | itsukey.cf | No |
 | itsukey.jp | No |
 | itsybitsysissy.eu | No |
@@ -18397,7 +18398,7 @@ Here's a list of public Fediverse services.
 | thebene.fit | No |
 | thebergstrands.net | No |
 | thebias.nl | No |
-| thebigeasy.life | Yes |
+| thebigeasy.life | No |
 | thebigeasy.space | No |
 | thebigowo.xyz | Yes |
 | thebird.website | No |
@@ -18719,7 +18720,7 @@ Here's a list of public Fediverse services.
 | tinytip.de | No |
 | tiotrom.com | No |
 | tippetarius.ru | No |
-| titis.xyz | Yes |
+| titis.xyz | No |
 | titou.net | No |
 | titouan.co | No |
 | titoux.info | No |
@@ -19106,7 +19107,7 @@ Here's a list of public Fediverse services.
 | troet.club | No |
 | troet.eu | No |
 | troet.social | Yes |
-| troet.space | Yes |
+| troet.space | No |
 | troetco.de | No |
 | troeterei.de | No |
 | troll.academy | No |
@@ -21292,8 +21293,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,196 |
-| Normal | 17,053 |
+| Cloudflare | 4,192 |
+| Normal | 17,058 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
