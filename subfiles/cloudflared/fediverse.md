@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,677 |
 | social | 1,183 |
 | org | 1,148 |
-| de | 1,007 |
+| de | 1,008 |
 
 
 - Mastodon, Pleroma, etc
@@ -1225,6 +1225,7 @@ Here's a list of public Fediverse services.
 | arousal.support | No |
 | arpidon.space | No |
 | arqadium.com | Yes |
+| arrel.cloud | No |
 | arroba.pt | No |
 | arsaga.jp | No |
 | arso.xyz | No |
@@ -12724,6 +12725,7 @@ Here's a list of public Fediverse services.
 | naz.vc | No |
 | naza.space | No |
 | nazi.social | Yes |
+| nazileaks.eu | No |
 | nazone.info | No |
 | nazrin.moe | No |
 | nbailey.ca | Yes |
@@ -16815,6 +16817,7 @@ Here's a list of public Fediverse services.
 | shitpost.cloud | No |
 | shitpost.institute | No |
 | shitposter.club | No |
+| shitposting.network | Yes |
 | shitter.me | No |
 | shitter.ml | No |
 | shittyurl.org | Yes |
@@ -20381,6 +20384,7 @@ Here's a list of public Fediverse services.
 | wireheads.org | No |
 | wireless-iot.social | No |
 | wirhackendeinen.club | No |
+| wirnity.de | No |
 | wirtube.de | No |
 | wisellama.rocks | No |
 | wisepoint.org | No |
@@ -21296,8 +21300,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,194 |
-| Normal | 17,059 |
+| Cloudflare | 4,195 |
+| Normal | 17,062 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
