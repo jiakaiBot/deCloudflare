@@ -5100,6 +5100,7 @@ Do not create new issue or we will close it as duplicate.
 | [LongNgc29303986@twitter](https://twitter.com/LongNgc29303986/status/1553426795214413824) | advertise |
 | [longnopro1307@twitter](https://twitter.com/longnopro1307/status/1531023217053249537) | advertise |
 | [LongThanhVu__@twitter](https://twitter.com/LongThanhVu__/status/1553070102895296512) | advertise |
+| [LongThuan16@twitter](https://twitter.com/LongThuan16/status/1573958668089167874) | advertise |
 | [longu3t@twitter](https://twitter.com/longu3t/status/1478738046967169026) | advertise |
 | [long_trab@twitter](https://twitter.com/long_trab/status/1490557973038452738) | advertise |
 | [Long_way_to_die@twitter](https://twitter.com/Long_way_to_die/status/1552020406210441216) | advertise |
