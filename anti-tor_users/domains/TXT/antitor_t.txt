@@ -133,6 +133,7 @@ slanews-ru.translate.goog
 ta3nfsordd.com
 ta5ast2ffeyvhjitde.com
 taetsiatomia.com
+taixiu.tips
 taizigly.net
 takychasing.com
 talenton.eu
@@ -142,6 +143,7 @@ tapaj.org
 tarrilyathenee.com
 tartator.com
 tauvoojo.net
+taxitaitoancau.com
 techcrams.com
 techfily.com
 techinspection.net
@@ -197,6 +199,7 @@ tramproject.eu
 trdnewsnow.net
 trehtnoas.com
 trendinghere.co.uk
+trends.youtube
 trends4tech.com
 tretmumbel.com
 trewnhiok.com
@@ -265,5 +268,7 @@ www.tokyu.co.jp
 www.totalconnection.com
 www.traindor.com
 www.traxrecords.net
+www.tre-df.jus.br
 www.triviahalloffame.com
 www.tse.jus.br
+zatsuneta-com.translate.goog
