@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,677 |
 | social | 1,183 |
 | org | 1,148 |
-| de | 1,005 |
+| de | 1,006 |
 
 
 - Mastodon, Pleroma, etc
@@ -13454,6 +13454,7 @@ Here's a list of public Fediverse services.
 | numerama.com | Yes |
 | numericoop.fr | No |
 | nureinblog.at | No |
+| nursingpoint.de | No |
 | nurumayu.jp | No |
 | nusdyoll.io | No |
 | nutriguia.com | No |
@@ -21294,7 +21295,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,192 |
-| Normal | 17,058 |
+| Normal | 17,059 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
