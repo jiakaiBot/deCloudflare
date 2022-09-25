@@ -1224,6 +1224,7 @@ Do not create new issue or we will close it as duplicate.
 | [bigdickboy1289@twitter](https://twitter.com/bigdickboy1289/status/1399518027889053699) | advertise |
 | [BigEd95@twitter](https://twitter.com/BigEd95/status/1550168159562383366) | advertise |
 | [BiggIce1@twitter](https://twitter.com/BiggIce1/status/1530927758607810560) | advertise |
+| [bigsansar@twitter](https://twitter.com/bigsansar/status/1574045051264520197) | advertise |
 | [BihariB42458660@twitter](https://twitter.com/BihariB42458660/status/1406293306783404035) | advertise |
 | [BiHuy22612510@twitter](https://twitter.com/BiHuy22612510/status/1401856193472065546) | advertise |
 | [bii13579@twitter](https://twitter.com/bii13579/status/1554014172546969600) | advertise |
@@ -2780,6 +2781,7 @@ Do not create new issue or we will close it as duplicate.
 | [GogehZailani@twitter](https://twitter.com/GogehZailani/status/1557726171130802179) | advertise |
 | [GogKhant@twitter](https://twitter.com/GogKhant/status/1393684373484961794) | advertise |
 | [GolamkibriaRony@twitter](https://twitter.com/GolamkibriaRony/status/1404201070306361345) | advertise |
+| [GoldenK45835342@twitter](https://twitter.com/GoldenK45835342/status/1574048018084425728) | advertise |
 | [GoldenT73523612@twitter](https://twitter.com/GoldenT73523612/status/1387635147965485061) | advertise |
 | [gomdohyon@twitter](https://twitter.com/gomdohyon/status/1562866171799449600) | advertise |
 | [gomdorilpkth_45@twitter](https://twitter.com/gomdorilpkth_45/status/1406078870617354245) | advertise |
