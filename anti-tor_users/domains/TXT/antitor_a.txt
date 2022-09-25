@@ -123,12 +123,14 @@ adrunnr.com
 adspynet.com
 advertising-api-eu.amazon.com
 advertising-cdn.com
+adviceowl.google
 aeronet.news
 aftrangale.com
 agaenteitor.com
 agenduret.com
 aggconnect.com
 agle21xe2anfddirite.com
+agnss.goog
 ago.mo.gov
 agostinhoneto.org
 aj1052.online
@@ -273,5 +275,6 @@ www.at-x.com
 www.atlantaga.gov
 www.audinorthlake.com
 www.av-apa.com
+www.awalenglish.com
 www.axisbank.com
 www.benning.army.mil
