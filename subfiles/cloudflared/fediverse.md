@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,677 |
 | social | 1,183 |
 | org | 1,148 |
-| de | 1,006 |
+| de | 1,007 |
 
 
 - Mastodon, Pleroma, etc
@@ -4894,6 +4894,7 @@ Here's a list of public Fediverse services.
 | ecutsa.fr | No |
 | ed1.tokyo | No |
 | edbob.org | No |
+| eddie-the-jacky.de | No |
 | eddiehinkle.com | No |
 | eddland.co.uk | No |
 | eddyssofa.com | No |
@@ -21296,7 +21297,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,194 |
-| Normal | 17,058 |
+| Normal | 17,059 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
