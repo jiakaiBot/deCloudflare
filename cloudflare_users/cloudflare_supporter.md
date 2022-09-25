@@ -8902,6 +8902,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thi75786207@twitter](https://twitter.com/Thi75786207/status/1394687203301724161) | advertise |
 | [ThiBNgc1@twitter](https://twitter.com/ThiBNgc1/status/1402423485163442178) | advertise |
 | [Thichbucu51@twitter](https://twitter.com/Thichbucu51/status/1386468559073669122) | advertise |
+| [thichcayvn@twitter](https://twitter.com/thichcayvn/status/1573991143414837248) | advertise |
 | [thichshowciu@twitter](https://twitter.com/thichshowciu/status/1488523970248953867) | advertise |
 | [Thien46594895@twitter](https://twitter.com/Thien46594895/status/1491663022859120644) | advertise |
 | [Thien51800662@twitter](https://twitter.com/Thien51800662/status/1383463127044399105) | advertise |
