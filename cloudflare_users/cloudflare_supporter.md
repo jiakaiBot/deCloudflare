@@ -8276,6 +8276,7 @@ Do not create new issue or we will close it as duplicate.
 | [Snakyacidkiss@twitter](https://twitter.com/Snakyacidkiss/status/1389092757881249793) | advertise |
 | [Snap69015522@twitter](https://twitter.com/Snap69015522/status/1393834272092409860) | advertise |
 | [snavEkelA@twitter](https://twitter.com/snavEkelA/status/1498711363832532994) | advertise |
+| [SnigdhaBhardw16@twitter](https://twitter.com/SnigdhaBhardw16/status/1574016312996958209) | advertise |
 | [Sniper5Szn@twitter](https://twitter.com/Sniper5Szn/status/1391481893581844482) | advertise |
 | [Snitchblaster9@twitter](https://twitter.com/Snitchblaster9/status/1396532090141777921) | advertise |
 | [SnNguyn070193@twitter](https://twitter.com/SnNguyn070193/status/1519124575921278976) | advertise |
@@ -10156,6 +10157,7 @@ Do not create new issue or we will close it as duplicate.
 | [yurimkuznetsov@twitter](https://twitter.com/yurimkuznetsov/status/1510345313567006731) | advertise |
 | [Yusi138338331@twitter](https://twitter.com/Yusi138338331/status/1390642830310141952) | advertise |
 | [yusoffismail85@twitter](https://twitter.com/yusoffismail85/status/1505928853277253635) | advertise |
+| [YusoffZaimiy@twitter](https://twitter.com/YusoffZaimiy/status/1574021006460874752) | advertise |
 | [YusTweet@twitter](https://twitter.com/YusTweet/status/1457884814300770305) | advertise |
 | [Yuu_09180@twitter](https://twitter.com/Yuu_09180/status/1463762592560648196) | advertise |
 | [yuyachit2@twitter](https://twitter.com/yuyachit2/status/1407168318889357326) | advertise |
