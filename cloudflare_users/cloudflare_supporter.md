@@ -9830,6 +9830,7 @@ Do not create new issue or we will close it as duplicate.
 | [winhtetoo13@twitter](https://twitter.com/winhtetoo13/status/1392334104180367363) | advertise |
 | [WinHtetZaw8@twitter](https://twitter.com/WinHtetZaw8/status/1390080333597483008) | advertise |
 | [WinHtike007@twitter](https://twitter.com/WinHtike007/status/1398482871547875329) | advertise |
+| [Winhtut18183879@twitter](https://twitter.com/Winhtut18183879/status/1574385055270850560) | advertise |
 | [WinHtwe16611921@twitter](https://twitter.com/WinHtwe16611921/status/1385266348452843520) | advertise |
 | [winkoaung18@twitter](https://twitter.com/winkoaung18/status/1393260015616761858) | advertise |
 | [winkoko75957229@twitter](https://twitter.com/winkoko75957229/status/1390040631997698050) | advertise |
