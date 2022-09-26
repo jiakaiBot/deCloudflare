@@ -4289,7 +4289,7 @@ Here's a list of public Fediverse services.
 | dexonline.ro | No |
 | deyes.im | No |
 | dezilla.de | No |
-| dezucked.com | No |
+| dezucked.com | Yes |
 | dffm.de | No |
 | dflatmajor.social | No |
 | dfsek.com | Yes |
@@ -5989,6 +5989,7 @@ Here's a list of public Fediverse services.
 | footle.org | No |
 | footprints.community | No |
 | foowar.de | No |
+| foralltime.icu | Yes |
 | force-clan.io | No |
 | ford.id.au | No |
 | foresdon.jp | No |
@@ -13310,6 +13311,7 @@ Here's a list of public Fediverse services.
 | norrebro.space | No |
 | norrland.xyz | No |
 | northeast.one | No |
+| northernvoice.app | No |
 | northpole.host | No |
 | northside.tokyo | No |
 | northtexas.social | No |
@@ -13737,6 +13739,7 @@ Here's a list of public Fediverse services.
 | onlycasino.legal | Yes |
 | onlyfarms.co | Yes |
 | onlyfeds.cc | Yes |
+| onlyferas.dev | No |
 | onlyfoxes.biz | No |
 | onore.org | No |
 | onosend.ai | No |
@@ -15798,6 +15801,7 @@ Here's a list of public Fediverse services.
 | retroedge.tech | No |
 | retroedgetech.com | No |
 | retrogrou.ch | No |
+| retronerd.at | No |
 | retrostrange.com | No |
 | retrotroet.com | No |
 | rettiwtkcuf.social | No |
@@ -21161,6 +21165,7 @@ Here's a list of public Fediverse services.
 | zergud.com | Yes |
 | zergy.net | No |
 | zero-day.tech | Yes |
+| zero.lgbt | Yes |
 | zeroanarchy.com | No |
 | zerobeat.in | No |
 | zerocat.club | No |
@@ -21300,8 +21305,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,195 |
-| Normal | 17,062 |
+| Cloudflare | 4,198 |
+| Normal | 17,064 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
