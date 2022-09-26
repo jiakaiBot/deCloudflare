@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 2,911 |
 | net | 1,677 |
 | social | 1,184 |
-| org | 1,148 |
+| org | 1,149 |
 | de | 1,008 |
 
 
@@ -11460,6 +11460,7 @@ Here's a list of public Fediverse services.
 | mediaoffice-zimmer.de | No |
 | mediartodon.net | No |
 | mediated.eu | No |
+| medibubble.org | No |
 | medic.cafe | No |
 | medic.rs | Yes |
 | medicaldon.jp | No |
@@ -16298,6 +16299,7 @@ Here's a list of public Fediverse services.
 | sanam.xyz | No |
 | sanantonio.lol | No |
 | sanb62.com | No |
+| sanboukarasu.io | Yes |
 | sandcat.club | No |
 | sander.photos | No |
 | sander.social | No |
@@ -20765,10 +20767,10 @@ Here's a list of public Fediverse services.
 | xn--xcke3ca.tokyo | No |
 | xn--xckta9b2cyc.page | No |
 | xn--y9a6bah4ck.xn--y9a3aq | No |
-| xn--y9aaa4b6a6fqad.xn--y9a3aq | No |
+| xn--y9aaa4b6a6fqad.xn--y9a3aq | Yes |
 | xn--y9aafb5k.xn--y9a3aq | No |
-| xn--y9aai3au2bc2f.xn--y9a3aq | No |
-| xn--y9aey5fdz.xn--y9a3aq | No |
+| xn--y9aai3au2bc2f.xn--y9a3aq | Yes |
+| xn--y9aey5fdz.xn--y9a3aq | Yes |
 | xn--y9ai4fj.xn--y9a3aq | No |
 | xn--y9azesw6bu.xn--y9a3aq | No |
 | xn--zck4ad5f2e.jp | No |
@@ -21310,8 +21312,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,198 |
-| Normal | 17,069 |
+| Cloudflare | 4,202 |
+| Normal | 17,067 |
 
 
-### 19.7% of public Fediverse services are using Cloudflare.
+### 19.8% of public Fediverse services are using Cloudflare.
