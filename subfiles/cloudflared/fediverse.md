@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,911 |
 | net | 1,677 |
-| social | 1,183 |
+| social | 1,184 |
 | org | 1,148 |
 | de | 1,008 |
 
@@ -20583,6 +20583,7 @@ Here's a list of public Fediverse services.
 | wyld.me | No |
 | wyld.media | No |
 | wyomingfriendfinder.com | No |
+| wyrd.social | No |
 | wyrms.de | No |
 | wysteriary.art | No |
 | wytchmourne.com | No |
@@ -21310,7 +21311,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,198 |
-| Normal | 17,068 |
+| Normal | 17,069 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
