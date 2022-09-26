@@ -8846,6 +8846,7 @@ Here's a list of public Fediverse services.
 | jordanmerrick.com | No |
 | jordanwages.com | No |
 | jorel.org | No |
+| jorisgutjahr.eu | No |
 | jorropo.ovh | No |
 | jort.space | Yes |
 | jorts.horse | No |
@@ -9292,7 +9293,7 @@ Here's a list of public Fediverse services.
 | killerkitty.ch | No |
 | killerwhale.solutions | No |
 | killiwamps.com | No |
-| killmi.st | Yes |
+| killmi.st | No |
 | killtheradio.net | No |
 | kilo.cafe | No |
 | kiminona.co | No |
@@ -14849,7 +14850,7 @@ Here's a list of public Fediverse services.
 | pol.social | No |
 | polaris-1.work | No |
 | polaris62.fr | No |
-| polarisfm.net | No |
+| polarisfm.net | Yes |
 | polarize.us | No |
 | poli.social | No |
 | politebot.com | No |
@@ -15585,6 +15586,7 @@ Here's a list of public Fediverse services.
 | rats-at.work | No |
 | raucherhusten.ch | No |
 | raudsepp.live | No |
+| rauhala.info | No |
 | rave.nz | No |
 | raven.dog | No |
 | raven.xyz | No |
@@ -21306,7 +21308,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,198 |
-| Normal | 17,064 |
+| Normal | 17,066 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
