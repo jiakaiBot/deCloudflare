@@ -7474,6 +7474,7 @@ Do not create new issue or we will close it as duplicate.
 | [rainlynn_thu@twitter](https://twitter.com/rainlynn_thu/status/1395668364110954500) | advertise |
 | [rainonme21@twitter](https://twitter.com/rainonme21/status/1552151665414914054) | advertise |
 | [RainRai02810597@twitter](https://twitter.com/RainRai02810597/status/1395069339280154627) | advertise |
+| [raiyanrahmanr@twitter](https://twitter.com/raiyanrahmanr/status/1574472417577431045) | advertise |
 | [Raj00446912@twitter](https://twitter.com/Raj00446912/status/1402881832203395073) | advertise |
 | [Raj0707Garapati@twitter](https://twitter.com/Raj0707Garapati/status/1394255967928295425) | advertise |
 | [Raj71446827@twitter](https://twitter.com/Raj71446827/status/1380171008787681284) | advertise |
@@ -7517,6 +7518,7 @@ Do not create new issue or we will close it as duplicate.
 | [raphend@twitter](https://twitter.com/raphend/status/1480757145477865472) | advertise |
 | [RapYan100@twitter](https://twitter.com/RapYan100/status/1404834104072454147) | advertise |
 | [raqebpress@twitter](https://twitter.com/raqebpress/status/1475851899844845570) | advertise |
+| [rare_sauce1@twitter](https://twitter.com/rare_sauce1/status/1574476001689866240) | advertise |
 | [RashidJrn@twitter](https://twitter.com/RashidJrn/status/1393139111981113351) | advertise |
 | [RashSt@twitter](https://twitter.com/RashSt/status/1499024489602031618) | advertise |
 | [Rasikalink@twitter](https://twitter.com/Rasikalink/status/1430962085832413187) | advertise |
