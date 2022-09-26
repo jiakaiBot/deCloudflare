@@ -9449,6 +9449,7 @@ Do not create new issue or we will close it as duplicate.
 | [UHtike_@twitter](https://twitter.com/UHtike_/status/1390057336333426691) | advertise |
 | [uislis@twitter](https://twitter.com/uislis/status/1383408197793325062) | advertise |
 | [uitlaber@twitter](https://twitter.com/uitlaber/status/1531845335915679744) | advertise |
+| [UKDanJones@twitter](https://twitter.com/UKDanJones/status/1574421912658362370) | advertise |
 | [ulaknews@twitter](https://twitter.com/ulaknews/status/1491377544330809346) | advertise |
 | [ulaxx0@twitter](https://twitter.com/ulaxx0/status/1504320449018224640) | advertise |
 | [ULay99705792@twitter](https://twitter.com/ULay99705792/status/1394445652147404802) | advertise |
