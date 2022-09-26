@@ -3806,6 +3806,7 @@ Do not create new issue or we will close it as duplicate.
 | [JamesSeidel10@twitter](https://twitter.com/JamesSeidel10/status/1550080979016060928) | advertise |
 | [JamestownJohny@twitter](https://twitter.com/JamestownJohny/status/1549222221108977672) | advertise |
 | [JameThuya2@twitter](https://twitter.com/JameThuya2/status/1396480198325923841) | advertise |
+| [jamewza47021@twitter](https://twitter.com/jamewza47021/status/1574213990565416960) | advertise |
 | [jame_satapon@twitter](https://twitter.com/jame_satapon/status/1381621249554542595) | advertise |
 | [Jamir95222748@twitter](https://twitter.com/Jamir95222748/status/1389106669594890241) | advertise |
 | [Jammy14140649@twitter](https://twitter.com/Jammy14140649/status/1409355298049982468) | moral (advertise) |
