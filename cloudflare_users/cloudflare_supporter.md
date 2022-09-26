@@ -2604,6 +2604,7 @@ Do not create new issue or we will close it as duplicate.
 | [fozle_bhai@twitter](https://twitter.com/fozle_bhai/status/1569734313301909504) | advertise |
 | [FradSer@twitter](https://twitter.com/FradSer/status/1525376068395225088) | advertise |
 | [fragile105085@twitter](https://twitter.com/fragile105085/status/1538779032438771712) | advertise |
+| [FrameToFrameBJ@twitter](https://twitter.com/FrameToFrameBJ/status/1574535320133160971) | advertise |
 | [frankchen0130@twitter](https://twitter.com/frankchen0130/status/1558029495793160193) | advertise |
 | [Frankie15083281@twitter](https://twitter.com/Frankie15083281/status/1552191447042256896) | advertise |
 | [frankygu@twitter](https://twitter.com/frankygu/status/1533974817438941185) | advertise |
@@ -10388,6 +10389,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZweWunna7@twitter](https://twitter.com/ZweWunna7/status/1392192837228240897) | advertise |
 | [zxas211ad@twitter](https://twitter.com/zxas211ad/status/1388275099149742085) | advertise |
 | [zxashik2@twitter](https://twitter.com/zxashik2/status/1552676610607685632) | advertise |
+| [Zxce3_@twitter](https://twitter.com/Zxce3_/status/1574527051670831104) | advertise |
 | [zY8xnJGCjfqMb9U@twitter](https://twitter.com/zY8xnJGCjfqMb9U/status/1395045783972433920) | advertise |
 | [zycharlwm@twitter](https://twitter.com/zycharlwm/status/1568933027178287104) | advertise |
 | [zyl2021@twitter](https://twitter.com/zyl2021/status/1394215819488333826) | advertise |
