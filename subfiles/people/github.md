@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Plugins CDN is inaccessible from Turkey](https://github.com/SteamDeckHomebrew/decky-loader/issues/187)
 - [How to set up Dex with Cloudflare Zero Trust?](https://github.com/YunoHost-Apps/dex_ynh/issues/22)
 - [createDepositAddress error for usdt in bitfinex2](https://github.com/ccxt/ccxt/issues/15103)
 - [poloniex fetchwithdrawals and fetchDeposits error](https://github.com/ccxt/ccxt/issues/15098)
