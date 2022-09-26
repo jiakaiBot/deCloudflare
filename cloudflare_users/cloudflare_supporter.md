@@ -7627,6 +7627,7 @@ Do not create new issue or we will close it as duplicate.
 | [rinluv0@twitter](https://twitter.com/rinluv0/status/1391460195566559233) | advertise |
 | [RINO72327156@twitter](https://twitter.com/RINO72327156/status/1395824730016555009) | advertise |
 | [RinSharz@twitter](https://twitter.com/RinSharz/status/1553295596680724480) | advertise |
+| [RIPdeclan999@twitter](https://twitter.com/RIPdeclan999/status/1574187422660763648) | advertise |
 | [RishiKu66@twitter](https://twitter.com/RishiKu66/status/1392000250408144899) | advertise |
 | [RisingHighPrie1@twitter](https://twitter.com/RisingHighPrie1/status/1478009018245390338) | advertise |
 | [Ritasako@twitter](https://twitter.com/Ritasako/status/1553334921107611648) | advertise |
