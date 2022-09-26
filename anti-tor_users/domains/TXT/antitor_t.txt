@@ -119,6 +119,7 @@ denwalker-com.translate.goog
 endtimes-dev.translate.goog
 eyeondesign-aiga-org.translate.goog
 facebook.tukinumerosuomi.com
+git.torproject.org
 jamanetwork-com.translate.goog
 koofr-eu.translate.goog
 manual.toyota.jp
@@ -139,6 +140,7 @@ takychasing.com
 talenton.eu
 talia-escort.com
 talsauve.com
+tanx.fr
 tapaj.org
 tarrilyathenee.com
 tartator.com
@@ -196,6 +198,7 @@ trackmundo.com
 tradescantia.uk
 tragency-clesburg.icu
 tramproject.eu
+trasuadodo.vn
 trdnewsnow.net
 trehtnoas.com
 trendinghere.co.uk
@@ -248,6 +251,7 @@ www.thecinetourist.net
 www.thederrick.com
 www.thegardenofeden.co.za
 www.thelcn.com
+www.themostprivatecoinever.com
 www.theohiopressnetwork.com
 www.theolympian.com
 www.thephotoforum.com
@@ -266,6 +270,7 @@ www.todaygirls.co.uk
 www.toelzer-land.de
 www.tokyu.co.jp
 www.totalconnection.com
+www.trade.com
 www.traindor.com
 www.traxrecords.net
 www.tre-df.jus.br
