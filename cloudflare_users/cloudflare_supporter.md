@@ -1091,6 +1091,7 @@ Do not create new issue or we will close it as duplicate.
 | [ballSP@twitter](https://twitter.com/ballSP/status/1554040235922636800) | advertise |
 | [Bally8865@twitter](https://twitter.com/Bally8865/status/1406071457776537606) | advertise |
 | [BaltazariMotey@twitter](https://twitter.com/BaltazariMotey/status/1402903928283439108) | advertise |
+| [BalveerCoder@twitter](https://twitter.com/BalveerCoder/status/1574389087876055040) | advertise |
 | [BAMBAM0205_NINE@twitter](https://twitter.com/BAMBAM0205_NINE/status/1405510478613278722) | advertise |
 | [BamJinChuu@twitter](https://twitter.com/BamJinChuu/status/1394310619319308293) | advertise |
 | [BamniyaSurya@twitter](https://twitter.com/BamniyaSurya/status/1385453008721485824) | advertise |
@@ -1766,8 +1767,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -8931,6 +8932,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThihaHtetSoe1@twitter](https://twitter.com/ThihaHtetSoe1/status/1401317500835405825) | advertise |
 | [ThihaHtoo1992@twitter](https://twitter.com/ThihaHtoo1992/status/1391336986561056773) | advertise |
 | [ThihaKy30619088@twitter](https://twitter.com/ThihaKy30619088/status/1390976224973910020) | advertise |
+| [ThihaMinLwin8@twitter](https://twitter.com/ThihaMinLwin8/status/1574405809848537088) | advertise |
 | [ThihaNaing_Noah@twitter](https://twitter.com/ThihaNaing_Noah/status/1407559969965187074) | advertise |
 | [ThihaSw96091127@twitter](https://twitter.com/ThihaSw96091127/status/1390967254712393730) | advertise |
 | [Thihaza28279787@twitter](https://twitter.com/Thihaza28279787/status/1390384728356831233) | advertise |
