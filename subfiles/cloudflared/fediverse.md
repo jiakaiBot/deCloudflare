@@ -7730,6 +7730,7 @@ Here's a list of public Fediverse services.
 | hom.ph | No |
 | homd.xyz | Yes |
 | home-of-commons.org | No |
+| home.kg | No |
 | home31.pw | Yes |
 | homecomputing.fr | No |
 | homeip.net | No |
@@ -17540,6 +17541,7 @@ Here's a list of public Fediverse services.
 | stadel.win | No |
 | stader.at | No |
 | staendsche.de | No |
+| stahlstadt.cloud | No |
 | stalbertdixon.ca | No |
 | stalin.rocks | Yes |
 | stallman.au | Yes |
@@ -21308,7 +21310,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,198 |
-| Normal | 17,066 |
+| Normal | 17,068 |
 
 
 ### 19.7% of public Fediverse services are using Cloudflare.
