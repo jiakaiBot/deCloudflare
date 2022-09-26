@@ -53,6 +53,7 @@ ard.ihookup.com
 bangaloremirror.indiatimes.com
 bfsi.economictimes.indiatimes.com
 dait.interno.gov.it
+elezioni.interno.gov.it
 help.instagram.com
 iafns.org
 ibb.town
@@ -97,6 +98,7 @@ telecom.economictimes.indiatimes.com
 www.idahostatejournal.com
 www.idealo.de
 www.ifiberone.com
+www.ig.com
 www.ikkaro.com
 www.illinoislegalaid.org
 www.iltucci.com
