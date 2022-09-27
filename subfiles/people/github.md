@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Analytics Availability Issues](https://github.com/MatBenfield/news/issues/3259)
 - [Cloudflare Workers support (by moving off of axios)](https://github.com/Doist/todoist-api-typescript/issues/151)
 - [OSError: Errno 26 Text file busy: '/tmp/cloudflared-linux-amd64'](https://github.com/ebolam/KoboldAI/issues/173)
 - [Plugins CDN is inaccessible from Turkey](https://github.com/SteamDeckHomebrew/decky-loader/issues/187)
