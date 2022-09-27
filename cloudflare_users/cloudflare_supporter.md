@@ -10100,6 +10100,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yeti74656822@twitter](https://twitter.com/Yeti74656822/status/1398573003194220544) | advertise |
 | [YeWanaAung1@twitter](https://twitter.com/YeWanaAung1/status/1400884227730677760) | advertise |
 | [yewinaung2445@twitter](https://twitter.com/yewinaung2445/status/1395974206332960772) | advertise |
+| [YeWintA50386188@twitter](https://twitter.com/YeWintA50386188/status/1574740666176835584) | advertise |
 | [YewintA92460317@twitter](https://twitter.com/YewintA92460317/status/1390944586105643012) | advertise |
 | [yeye66407561@twitter](https://twitter.com/yeye66407561/status/1392031374572351490) | advertise |
 | [YeYint56809630@twitter](https://twitter.com/YeYint56809630/status/1396556309349212161) | advertise |
