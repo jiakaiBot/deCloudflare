@@ -3284,6 +3284,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hor82320090@twitter](https://twitter.com/Hor82320090/status/1391247776453861376) | advertise |
 | [horagadiya@twitter](https://twitter.com/horagadiya/status/1512980582242070529) | advertise |
 | [HorrorFacts@twitter](https://twitter.com/HorrorFacts/status/1410625160571465731) | moral (advertise) |
+| [Hosein04883250@twitter](https://twitter.com/Hosein04883250/status/1574669919081431040) | advertise |
 | [hoshgang1@twitter](https://twitter.com/hoshgang1/status/1548283825347633156) | advertise |
 | [Hoshi16239495@twitter](https://twitter.com/Hoshi16239495/status/1397867952024678400) | advertise |
 | [hossain888@twitter](https://twitter.com/hossain888/status/1380730493172215812) | advertise |
@@ -4520,6 +4521,7 @@ Do not create new issue or we will close it as duplicate.
 | [KoBhone10139223@twitter](https://twitter.com/KoBhone10139223/status/1390191201886691332) | advertise |
 | [Kobi78141338@twitter](https://twitter.com/Kobi78141338/status/1553748106704875520) | advertise |
 | [KoBo19072673@twitter](https://twitter.com/KoBo19072673/status/1391929004987273216) | advertise |
+| [kobra93769264@twitter](https://twitter.com/kobra93769264/status/1574665195947003904) | advertise |
 | [KobyLumos@twitter](https://twitter.com/KobyLumos/status/1393051615838588930) | advertise |
 | [Koc35029663@twitter](https://twitter.com/Koc35029663/status/1401823919426834432) | advertise |
 | [KoChanLay11@twitter](https://twitter.com/KoChanLay11/status/1391398824480886789) | advertise |
