@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Workers support (by moving off of axios)](https://github.com/Doist/todoist-api-typescript/issues/151)
 - [OSError: Errno 26 Text file busy: '/tmp/cloudflared-linux-amd64'](https://github.com/ebolam/KoboldAI/issues/173)
 - [Plugins CDN is inaccessible from Turkey](https://github.com/SteamDeckHomebrew/decky-loader/issues/187)
 - [How to set up Dex with Cloudflare Zero Trust?](https://github.com/YunoHost-Apps/dex_ynh/issues/22)
