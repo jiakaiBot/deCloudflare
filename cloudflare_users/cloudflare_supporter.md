@@ -3525,6 +3525,7 @@ Do not create new issue or we will close it as duplicate.
 | [HWP2000@twitter](https://twitter.com/HWP2000/status/1555609415201353728) | advertise |
 | [hwynlatt@twitter](https://twitter.com/hwynlatt/status/1399335430257061889) | advertise |
 | [hxjdjdj63536269@twitter](https://twitter.com/hxjdjdj63536269/status/1376747966766084096) | advertise |
+| [Hyampom332t@twitter](https://twitter.com/Hyampom332t/status/1574758024299925505) | advertise |
 | [hydraking123@twitter](https://twitter.com/hydraking123/status/1471298406685753349) | advertise |
 | [hygn_p@twitter](https://twitter.com/hygn_p/status/1393880468462866437) | advertise |
 | [HyLe1995@twitter](https://twitter.com/HyLe1995/status/1497884402172395523) | advertise |
@@ -8077,6 +8078,7 @@ Do not create new issue or we will close it as duplicate.
 | [shailas317@twitter](https://twitter.com/shailas317/status/1398393908044845057) | advertise |
 | [Shakeel49597876@twitter](https://twitter.com/Shakeel49597876/status/1561381372626739200) | advertise |
 | [Shakiba34613353@twitter](https://twitter.com/Shakiba34613353/status/1530881904714878976) | advertise |
+| [ShakirAiman991@twitter](https://twitter.com/ShakirAiman991/status/1574759687710724100) | advertise |
 | [ShalomValor@twitter](https://twitter.com/ShalomValor/status/1391398052464762880) | advertise |
 | [shamalesmail@twitter](https://twitter.com/shamalesmail/status/1383397258905849859) | advertise |
 | [shamarThyErash@twitter](https://twitter.com/shamarThyErash/status/1555626158485536768) | advertise |
