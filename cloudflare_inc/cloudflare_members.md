@@ -1117,6 +1117,7 @@ Or is this merely a case of simple modesty?
 | Matt Alonso | Developer Experience Team Intern |  |
 | Matt Bostock | Systems Reliability Engineer |  |
 | Matt Boyle | Employee | |
+| Matt Bullock | Employee | |
 | Matt Cowley | @cdnjs.com Maintainer (on contract), London |  |
 | Matteo Manfredi | Community Leader |  |
 | Matt Gallagher | Employee | |
