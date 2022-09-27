@@ -1483,6 +1483,7 @@ Do not create new issue or we will close it as duplicate.
 | [C80753171@twitter](https://twitter.com/C80753171/status/1537513388774785024) | advertise |
 | [c95405246@twitter](https://twitter.com/c95405246/status/1397498966304980999) | advertise |
 | [cabbage0102@twitter](https://twitter.com/cabbage0102/status/1415316191942299651) | advertise |
+| [CabinetsWaverly@twitter](https://twitter.com/CabinetsWaverly/status/1574829182814752793) | advertise |
 | [Caesar24749342@twitter](https://twitter.com/Caesar24749342/status/1381276732813058049) | advertise |
 | [caizhenghai@twitter](https://twitter.com/caizhenghai/status/1490892229497733121) | advertise |
 | [calicomin99@twitter](https://twitter.com/calicomin99/status/1395979320401620992) | advertise |
