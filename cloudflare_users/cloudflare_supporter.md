@@ -2679,6 +2679,7 @@ Do not create new issue or we will close it as duplicate.
 | [gameXprofanclu2@twitter](https://twitter.com/gameXprofanclu2/status/1394939425281376259) | advertise |
 | [Gaming1Dark@twitter](https://twitter.com/Gaming1Dark/status/1456365831038767104) | advertise |
 | [Gaming123Htw@twitter](https://twitter.com/Gaming123Htw/status/1390309403610402818) | advertise |
+| [Gaming43256815@twitter](https://twitter.com/Gaming43256815/status/1574797256028348417) | advertise |
 | [gamingc06373369@twitter](https://twitter.com/gamingc06373369/status/1395121128247480320) | advertise |
 | [GamingK75587562@twitter](https://twitter.com/GamingK75587562/status/1405927371786522626) | advertise |
 | [GamingLongg@twitter](https://twitter.com/GamingLongg/status/1402190108439191561) | advertise |
@@ -2936,6 +2937,7 @@ Do not create new issue or we will close it as duplicate.
 | [hamolll@twitter](https://twitter.com/hamolll/status/1487817397415333888) | advertise |
 | [hampus374@twitter](https://twitter.com/hampus374/status/1574337433482698754) | advertise |
 | [hana66669@twitter](https://twitter.com/hana66669/status/1379180701921148929) | advertise |
+| [Hanafi49043301@twitter](https://twitter.com/Hanafi49043301/status/1574824619655110656) | advertise |
 | [hanas001@twitter](https://twitter.com/hanas001/status/1535270131479224321) | advertise |
 | [hanaz152@twitter](https://twitter.com/hanaz152/status/1489571828951498755) | advertise |
 | [Handler_0k@twitter](https://twitter.com/Handler_0k/status/1502685102081552388) | advertise |
@@ -4464,8 +4466,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6536,6 +6538,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nhitran78912780@twitter](https://twitter.com/Nhitran78912780/status/1378490634315567105) | advertise |
 | [Nhn19729019@twitter](https://twitter.com/Nhn19729019/status/1553981120915845121) | advertise |
 | [nhnl91670613@twitter](https://twitter.com/nhnl91670613/status/1385662566660145152) | advertise |
+| [nhnm31216232@twitter](https://twitter.com/nhnm31216232/status/1574814553124540416) | advertise |
 | [nhnnha1@twitter](https://twitter.com/nhnnha1/status/1552666901163417601) | advertise |
 | [NhnV46053938@twitter](https://twitter.com/NhnV46053938/status/1552544154898812928) | advertise |
 | [nhoi2703@twitter](https://twitter.com/nhoi2703/status/1552223306752729088) | advertise |
@@ -7252,6 +7255,7 @@ Do not create new issue or we will close it as duplicate.
 | [potaterator@twitter](https://twitter.com/potaterator/status/1394360418278199306) | advertise |
 | [potatorui@twitter](https://twitter.com/potatorui/status/1409524317428228105) | moral (advertise) |
 | [Potshotp@twitter](https://twitter.com/Potshotp/status/1384574003096940545) | advertise |
+| [PouryaMoshtagh@twitter](https://twitter.com/PouryaMoshtagh/status/1574806884565061637) | advertise |
 | [PouryaPo@twitter](https://twitter.com/PouryaPo/status/1539421921518952449) | advertise |
 | [PowerPopClub@twitter](https://twitter.com/PowerPopClub/status/1402682751841603595) | advertise |
 | [PowerRanger1156@twitter](https://twitter.com/PowerRanger1156/status/1395353501174312962) | advertise |
