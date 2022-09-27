@@ -12047,6 +12047,7 @@ Here's a list of public Fediverse services.
 | mokka.space | No |
 | mokou.de | No |
 | moltchanova.de | No |
+| molten.cloud | No |
 | molyboha.me | No |
 | moment.ist | No |
 | momi.ca | No |
@@ -12675,6 +12676,7 @@ Here's a list of public Fediverse services.
 | narikiri.club | No |
 | narinimous.fr | No |
 | narrativerry.xyz | No |
+| narravista.blog.br | No |
 | naru.cafe | Yes |
 | naruh.com | No |
 | naruniwa.cc | No |
@@ -19250,6 +19252,7 @@ Here's a list of public Fediverse services.
 | tupot.pl | Yes |
 | turbinekreuzberg.com | No |
 | turbo.chat | No |
+| turf.sh | No |
 | turingfesten.dk | No |
 | turkeyhousepublishing.com | No |
 | turkum.art | No |
@@ -21314,7 +21317,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,204 |
-| Normal | 17,066 |
+| Normal | 17,069 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
