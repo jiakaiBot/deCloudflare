@@ -4149,6 +4149,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kakuzu231@twitter](https://twitter.com/Kakuzu231/status/1392289987828146184) | advertise |
 | [kakyikoko1735@twitter](https://twitter.com/kakyikoko1735/status/1393078993641906177) | advertise |
 | [kalepaache2@twitter](https://twitter.com/kalepaache2/status/1538952242178539520) | advertise |
+| [kaliim9@twitter](https://twitter.com/kaliim9/status/1574867177223720960) | advertise |
 | [kalilinuxtips@twitter](https://twitter.com/kalilinuxtips/status/1411302042220568576) | moral (advertise) |
 | [KallyDev@twitter](https://twitter.com/KallyDev/status/1385031151211798529) | advertise |
 | [kalvados_prod@twitter](https://twitter.com/kalvados_prod/status/1379381156609671170) | advertise |
