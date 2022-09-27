@@ -5304,7 +5304,7 @@ Here's a list of public Fediverse services.
 | eupolicy.social | No |
 | eupublic.social | No |
 | eurekacity.online | No |
-| euroglenn.me | No |
+| euroglenn.me | Yes |
 | euroneuro.net | No |
 | europa.eu | Yes |
 | european-pirates.eu | No |
@@ -8954,6 +8954,7 @@ Here's a list of public Fediverse services.
 | jvpiter.net | No |
 | jw.be | No |
 | jxmsocial.xyz | No |
+| jxs.me | Yes |
 | jymuoyu.com | Yes |
 | jynxd.it | Yes |
 | jzqk.org | No |
@@ -21312,8 +21313,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,202 |
-| Normal | 17,067 |
+| Cloudflare | 4,204 |
+| Normal | 17,066 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
