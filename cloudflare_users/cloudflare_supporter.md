@@ -3724,6 +3724,7 @@ Do not create new issue or we will close it as duplicate.
 | [IssaAlabri3@twitter](https://twitter.com/IssaAlabri3/status/1487689307519434754) | advertise |
 | [IssariaVen@twitter](https://twitter.com/IssariaVen/status/1400114063779110916) | advertise |
 | [isumikaga@twitter](https://twitter.com/isumikaga/status/1491420142768918531) | advertise |
+| [iswampa@twitter](https://twitter.com/iswampa/status/1575178856813985792) | advertise |
 | [Is_Dia_li@twitter](https://twitter.com/Is_Dia_li/status/1390245219795279878) | advertise |
 | [Itachi10737586@twitter](https://twitter.com/Itachi10737586/status/1389877556866740229) | advertise |
 | [Itami971@twitter](https://twitter.com/Itami971/status/1390672676910288896) | advertise |
