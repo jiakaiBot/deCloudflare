@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Clickable links work, but links from browser input fields are not working (deployed on cloudflare pages)](https://github.com/sveltejs/kit/issues/7061)
 - [Website is down](https://github.com/aros-development-team/AROS/issues/591)
 - [Issues with short linking twitter profiles/tweets](https://github.com/steven-tey/dub/issues/45)
 - [Unable to install any versions of node](https://github.com/nvm-sh/nvm/issues/2897)
