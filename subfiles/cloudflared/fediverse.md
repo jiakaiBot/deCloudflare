@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,677 |
 | social | 1,184 |
 | org | 1,149 |
-| de | 1,008 |
+| de | 1,009 |
 
 
 - Mastodon, Pleroma, etc
@@ -152,7 +152,7 @@ Here's a list of public Fediverse services.
 | 1o1.io | No |
 | 1oku.net | No |
 | 1person.me | No |
-| 1w1.in | No |
+| 1w1.in | Yes |
 | 1w6.org | No |
 | 1xx.io | No |
 | 2-blog.net | No |
@@ -6015,6 +6015,7 @@ Here's a list of public Fediverse services.
 | foss.al | No |
 | foss.social | Yes |
 | foss.technology | Yes |
+| foss.tube | No |
 | fossforward.com | Yes |
 | fossgalaxy.com | No |
 | fossgang.org | No |
@@ -12253,6 +12254,7 @@ Here's a list of public Fediverse services.
 | mserdar.net | No |
 | msetalk.net | Yes |
 | msgdn.xyz | No |
+| msitc.de | No |
 | msky.cafe | Yes |
 | msky.tokyo | Yes |
 | msky.work | Yes |
@@ -21316,8 +21318,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,204 |
-| Normal | 17,069 |
+| Cloudflare | 4,205 |
+| Normal | 17,070 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
