@@ -559,6 +559,7 @@ Or is this merely a case of simple modesty?
 | Elvin Tan | Reliability Engineer, Singapore |  |
 | Emilia Faz | Payroll Manager |  |
 | Emily Elliott | Sales Operations |  |
+| Emily Flannery | Employee | |
 | Emily Hancock | Data Protection Officer |  |
 | Emily Wimmer | Legal |  |
 | Emma Cardon | Business Development |  |
@@ -588,6 +589,7 @@ Or is this merely a case of simple modesty?
 | Fay Lidan Dai | Product Intern |  |
 | Federico Fratucello | Employee |  |
 | Felicia Rosita | Marketing Director |  |
+| Felipe Astroza Araya | Employee | |
 | Felipe B. Flores | Customer Success Manager |  |
 | Felipe Tribaldos | Customer Development | https://twitter.com/ftribaldos<br>https://tribaldos.com/ |
 | Felix Hanau | Employee |  |
@@ -700,6 +702,7 @@ Or is this merely a case of simple modesty?
 | Ivan Chin | Customer Development, Singapore |  |
 | Ivan Nikulin | Employee |  |
 | Jack Melnicoff | Enterprise Field Sales |  |
+| Jacob Curtis | Employee | |
 | Jacob Evans | Software Engineer, Austin |  |
 | Jacob H. Haven | Systems Engineer |  |
 | Jacob Hands | Employee | |
