@@ -611,6 +611,7 @@ Do not create new issue or we will close it as duplicate.
 | [AnhTuan44458350@twitter](https://twitter.com/AnhTuan44458350/status/1403243965021708289) | advertise |
 | [AnhTun70076204@twitter](https://twitter.com/AnhTun70076204/status/1476175014713970691) | advertise |
 | [AnhTunLHong2@twitter](https://twitter.com/AnhTunLHong2/status/1470739724998352901) | advertise |
+| [AnhTunN28207799@twitter](https://twitter.com/AnhTunN28207799/status/1575116899632807937) | advertise |
 | [AnhVinh63370538@twitter](https://twitter.com/AnhVinh63370538/status/1509052356188848128) | advertise |
 | [anh_shiper1@twitter](https://twitter.com/anh_shiper1/status/1557637888942424065) | advertise |
 | [ani2nill@twitter](https://twitter.com/ani2nill/status/1444552778748084226) | advertise |
@@ -1770,8 +1771,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -7760,6 +7761,7 @@ Do not create new issue or we will close it as duplicate.
 | [RubesJaroslav@twitter](https://twitter.com/RubesJaroslav/status/1548117261243731973) | advertise |
 | [Ruby17892071@twitter](https://twitter.com/Ruby17892071/status/1389948126774153227) | advertise |
 | [rubyhoangtri@twitter](https://twitter.com/rubyhoangtri/status/1405564911544061954) | advertise |
+| [ruffls4prez_@twitter](https://twitter.com/ruffls4prez_/status/1575114093513482241) | advertise |
 | [Ruka09486933@twitter](https://twitter.com/Ruka09486933/status/1406308606983606275) | advertise |
 | [rukawa_qn@twitter](https://twitter.com/rukawa_qn/status/1530896257710886912) | advertise |
 | [rune063@twitter](https://twitter.com/rune063/status/1552349917640699904) | advertise |
