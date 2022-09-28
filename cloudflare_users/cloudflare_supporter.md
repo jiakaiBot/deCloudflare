@@ -7872,6 +7872,7 @@ Do not create new issue or we will close it as duplicate.
 | [Salaing3@twitter](https://twitter.com/Salaing3/status/1392576860027068417) | advertise |
 | [Saleh28110076@twitter](https://twitter.com/Saleh28110076/status/1514439036139618308) | advertise |
 | [SaleheenKhan1@twitter](https://twitter.com/SaleheenKhan1/status/1476642505684774914) | advertise |
+| [salehi034@twitter](https://twitter.com/salehi034/status/1575030162814431232) | advertise |
 | [salemyousef3@twitter](https://twitter.com/salemyousef3/status/1370369122010288135) | advertise |
 | [SAlhiall@twitter](https://twitter.com/SAlhiall/status/1477398355424722949) | advertise |
 | [salinar_thin@twitter](https://twitter.com/salinar_thin/status/1397760041281671170) | advertise |
