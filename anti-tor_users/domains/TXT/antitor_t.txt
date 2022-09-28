@@ -122,6 +122,7 @@ facebook.tukinumerosuomi.com
 git.torproject.org
 jamanetwork-com.translate.goog
 koofr-eu.translate.goog
+lenta-ru.translate.goog
 manual.toyota.jp
 mastodon-relay.thedoodleproject.net
 mp-weixin-qq-com.translate.goog
@@ -131,6 +132,7 @@ rent.toyota.co.jp
 rescue-substack-com.translate.goog
 ressources.terredeliens.org
 ria-ru.translate.goog
+samnytt-se.translate.goog
 sensiblemed-substack-com.translate.goog
 slanews-ru.translate.goog
 ta3nfsordd.com
@@ -149,6 +151,7 @@ tartator.com
 tauvoojo.net
 taxitaitoancau.com
 techcrams.com
+techdhami.com
 techfily.com
 techinspection.net
 technical420.com
@@ -164,6 +167,7 @@ thaninncoos.com
 thatbricklife.com
 thatware.co
 thebeastreviews.com
+thecandidforum-voyeur.com
 theelitecompanions.com
 theguyontherooftop.com
 theinquirer.fr
@@ -203,6 +207,7 @@ tramproject.eu
 trasuadodo.vn
 trdnewsnow.net
 trehtnoas.com
+treizemondial.fr
 trendinghere.co.uk
 trends.youtube
 trends4tech.com
@@ -228,9 +233,11 @@ tyndall.ac.uk
 warnews247-gr.translate.goog
 wezard4u-tistory-com.translate.goog
 wiki.thedarkmod.com
+www-aftonbladet-se.translate.goog
 www-axa-ch.translate.goog
 www-dagensmedicin-se.translate.goog
 www-diarilaveu-cat.translate.goog
+www-dr-dk.translate.goog
 www-elespectador-com.translate.goog
 www-elnacional-cat.translate.goog
 www-eugyppius-com.translate.goog
@@ -239,6 +246,7 @@ www-jithomassen-no.translate.goog
 www-journal21-ch.translate.goog
 www-lemonde-fr.translate.goog
 www-publico-es.translate.goog
+www-svt-se.translate.goog
 www-tagesspiegel-de.translate.goog
 www-vilaweb-cat.translate.goog
 www.taiwan-panorama.com
@@ -267,6 +275,7 @@ www.thestate.com
 www.thesuperboo.com
 www.thesurvivalpodcast.com
 www.thetradenews.com
+www.theutcecho.com
 www.theyliedpeopledied.com
 www.thisshirtexists.com
 www.tiemo-woelken.de
