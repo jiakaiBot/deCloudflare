@@ -4657,6 +4657,7 @@ Do not create new issue or we will close it as duplicate.
 | [KPauksa@twitter](https://twitter.com/KPauksa/status/1377192007555162112) | advertise |
 | [KPavanvarshith@twitter](https://twitter.com/KPavanvarshith/status/1546156981677092870) | advertise |
 | [KpPhyo7@twitter](https://twitter.com/KpPhyo7/status/1523694614393540610) | advertise |
+| [kpubg96@twitter](https://twitter.com/kpubg96/status/1574998341590700033) | advertise |
 | [KRATOS93080824@twitter](https://twitter.com/KRATOS93080824/status/1384520636291162115) | advertise |
 | [KrAyXMaximum@twitter](https://twitter.com/KrAyXMaximum/status/1534243085923721216) | advertise |
 | [Kraziegent@twitter](https://twitter.com/Kraziegent/status/1401103687150342159) | advertise |
@@ -5900,6 +5901,7 @@ Do not create new issue or we will close it as duplicate.
 | [Monkey_D_Fuba@twitter](https://twitter.com/Monkey_D_Fuba/status/1526946461011046400) | advertise |
 | [MonnelEspiritu@twitter](https://twitter.com/MonnelEspiritu/status/1466469485112709125) | advertise |
 | [Monny14727955@twitter](https://twitter.com/Monny14727955/status/1388962425425203200) | advertise |
+| [monobank_com@twitter](https://twitter.com/monobank_com/status/1575022213295902720) | advertise |
 | [monsoon_47@twitter](https://twitter.com/monsoon_47/status/1396553299390763008) | advertise |
 | [Monsterheart15@twitter](https://twitter.com/Monsterheart15/status/1394673115049852932) | advertise |
 | [monsterjeep@twitter](https://twitter.com/monsterjeep/status/1503887952228896769) | advertise |
