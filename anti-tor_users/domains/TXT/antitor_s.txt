@@ -123,6 +123,7 @@ denise-maurer.schriftgut.ch
 evac.spec-catalog.ru
 focus.sva.de
 gallery.shakthimaan.com
+git.samba.org
 gitweb.stoutner.com
 iamzzu.seesaa.net
 idp.springer.com
@@ -131,6 +132,7 @@ marketplace.secondlife.com
 members.simnet.org
 naniwa-48.blog.ss-blog.jp
 nextstopplease.square.site
+operation-once-in-a-lifetime.square.site
 owo-group.square.site
 piclabo.blog.ss-blog.jp
 s99909.net
@@ -304,6 +306,7 @@ www-17.stadt-chemnitz.de
 www.bennet.senate.gov
 www.democrats.senate.gov
 www.durbin.senate.gov
+www.ernst.senate.gov
 www.feinstein.senate.gov
 www.foreign.senate.gov
 www.inaugural.senate.gov
@@ -344,6 +347,7 @@ www.shutterstock.com
 www.sinema.senate.gov
 www.skqrecordquest.com
 www.slice.ca
+www.smatorino.it
 www.smbc.co.jp
 www.smule.com
 www.sofiyahayaat.com
