@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 2,911 |
 | net | 1,677 |
-| social | 1,184 |
+| social | 1,185 |
 | org | 1,149 |
 | de | 1,009 |
 
@@ -15435,6 +15435,7 @@ Here's a list of public Fediverse services.
 | rabbit.country | No |
 | rabbit.tel | No |
 | rabbit.zone | No |
+| rabbithou.se | No |
 | rabbitodon.work | No |
 | rabbits.supplies | No |
 | rabble.network | No |
@@ -17603,6 +17604,7 @@ Here's a list of public Fediverse services.
 | stcpt.com | No |
 | stealingyour.info | No |
 | steam-don.fun | Yes |
+| steampunk.social | Yes |
 | steamstdn.com | No |
 | steatorn.is | No |
 | stefan-muenz.de | No |
@@ -21319,8 +21321,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,205 |
-| Normal | 17,071 |
+| Cloudflare | 4,206 |
+| Normal | 17,072 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
