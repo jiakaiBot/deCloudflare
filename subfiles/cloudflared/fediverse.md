@@ -20614,6 +20614,7 @@ Here's a list of public Fediverse services.
 | x4s.io | Yes |
 | x59.co | No |
 | x5gtrn.com | No |
+| x61.sh | No |
 | x61.uk | Yes |
 | x91.de | Yes |
 | xa0.uk | Yes |
@@ -21319,7 +21320,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,205 |
-| Normal | 17,070 |
+| Normal | 17,071 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
