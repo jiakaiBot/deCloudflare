@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-09-28: [Network Performance Issues in Seattle](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y0h68tp4tzcg)
 - 2022-09-27: [Secondary DNS activation issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/17q4p6qgl9yp)
 - 2022-09-22: [Network Performance Issues in Kaohsiung City, Taiwan](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b8r6fczvzds2)
 - 2022-09-21: [Issues with Bring Your Own IP On-Demand feature](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xy95nycg0rrp)
