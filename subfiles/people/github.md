@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Compatibility with Cloudflare Workers](https://github.com/sinclairzx81/typebox/issues/253)
 - [Addon keeps crashing](https://github.com/brenner-tobias/ha-addons/issues/6)
 - [breakfix: multiple Caddy servers - redirect loop](https://github.com/greenpau/caddy-security/issues/168)
 - [Clickable links work, but links from browser input fields are not working (deployed on cloudflare pages)](https://github.com/sveltejs/kit/issues/7061)
