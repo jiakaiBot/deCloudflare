@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Nginx reverse proxy not working with ERPNext](https://github.com/frappe/frappe_docker/issues/941)
 - [Compatibility with Cloudflare Workers](https://github.com/sinclairzx81/typebox/issues/253)
 - [Addon keeps crashing](https://github.com/brenner-tobias/ha-addons/issues/6)
 - [breakfix: multiple Caddy servers - redirect loop](https://github.com/greenpau/caddy-security/issues/168)
