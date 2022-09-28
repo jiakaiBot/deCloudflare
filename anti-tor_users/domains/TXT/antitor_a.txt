@@ -217,6 +217,7 @@ decrypt-co.cdn.ampproject.org
 ecrivons.angers.fr
 friendica.a-zwenkau.de
 governmentofbc.maps.arcgis.com
+grrrgraphics.lt.acemlna.com
 m-gsmarena-com.cdn.ampproject.org
 news-sky-com.cdn.ampproject.org
 news.abplive.com
@@ -242,6 +243,7 @@ www.aberdeenlive.news
 www.abillionpeople.org
 www.ace-cae.eu
 www.acn.cat
+www.acuteblog.com
 www.adelaidezoo.com.au
 www.adidas.com
 www.adorasmodels.com
@@ -251,6 +253,7 @@ www.aflac.co.jp
 www.afroeuropeans2022.com
 www.agasol.gal
 www.agiitoevents.com
+www.ai-j.jp
 www.ai.gov
 www.aidinvip.com
 www.aikatsu.com
@@ -266,6 +269,7 @@ www.annacavazzini.eu
 www.annalisawindsor.com
 www.anthropologie.com
 www.antipatriarcame.com
+www.aofm.gov.au
 www.aramco.com
 www.arcgis.com
 www.architectural-review.com
