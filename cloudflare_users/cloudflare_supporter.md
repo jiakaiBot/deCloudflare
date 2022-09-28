@@ -2152,6 +2152,7 @@ Do not create new issue or we will close it as duplicate.
 | [DogKill76275871@twitter](https://twitter.com/DogKill76275871/status/1532563663608942593) | advertise |
 | [Dogppppppppppp1@twitter](https://twitter.com/Dogppppppppppp1/status/1552803001701904384) | advertise |
 | [dogukantansuk@twitter](https://twitter.com/dogukantansuk/status/1400714321055858689) | advertise |
+| [DoHrvatska@twitter](https://twitter.com/DoHrvatska/status/1575242103072133120) | advertise |
 | [Dohuy49780349@twitter](https://twitter.com/Dohuy49780349/status/1376800199079694336) | advertise |
 | [doilannemdau009@twitter](https://twitter.com/doilannemdau009/status/1552980916225527808) | advertise |
 | [doimatphonui@twitter](https://twitter.com/doimatphonui/status/1387455212168749061) | advertise |
@@ -5851,6 +5852,7 @@ Do not create new issue or we will close it as duplicate.
 | [moe_swan@twitter](https://twitter.com/moe_swan/status/1390073956657516551) | advertise |
 | [MogokSanlin@twitter](https://twitter.com/MogokSanlin/status/1387361013016760320) | advertise |
 | [Moh96mm@twitter](https://twitter.com/Moh96mm/status/1385397544260362243) | advertise |
+| [Mohamad47369@twitter](https://twitter.com/Mohamad47369/status/1575236073651073024) | advertise |
 | [Mohamad65364700@twitter](https://twitter.com/Mohamad65364700/status/1501280223660331008) | advertise |
 | [mohamadfrhn12@twitter](https://twitter.com/mohamadfrhn12/status/1493943709246771200) | advertise |
 | [Mohamed92298050@twitter](https://twitter.com/Mohamed92298050/status/1564490921680535553) | advertise |
@@ -6420,6 +6422,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguyenantam96@twitter](https://twitter.com/nguyenantam96/status/1483699443472158720) | advertise |
 | [NguyenD10705152@twitter](https://twitter.com/NguyenD10705152/status/1405567015402708994) | advertise |
 | [nguyendangngo16@twitter](https://twitter.com/nguyendangngo16/status/1552952449451044864) | advertise |
+| [NguyenDatLS1@twitter](https://twitter.com/NguyenDatLS1/status/1575242140745342977) | advertise |
 | [NguyenDJ@twitter](https://twitter.com/NguyenDJ/status/1385868091020648448) | advertise |
 | [nguyendoantrun1@twitter](https://twitter.com/nguyendoantrun1/status/1397256926929440769) | advertise |
 | [Nguyenduc26292@twitter](https://twitter.com/Nguyenduc26292/status/1552727171122479104) | advertise |
