@@ -2177,6 +2177,7 @@ Do not create new issue or we will close it as duplicate.
 | [dont4getme122@twitter](https://twitter.com/dont4getme122/status/1380527620043890691) | advertise |
 | [Don_Vito7@twitter](https://twitter.com/Don_Vito7/status/1380513878220664834) | advertise |
 | [DoodsCds@twitter](https://twitter.com/DoodsCds/status/1521698096497184768) | advertise |
+| [doonedin@twitter](https://twitter.com/doonedin/status/1575061999888629760) | advertise |
 | [DopeBiz_@twitter](https://twitter.com/DopeBiz_/status/1473546314529001473) | advertise |
 | [doren1_@twitter](https://twitter.com/doren1_/status/1556740217012371457) | advertise |
 | [dotcomhunters@twitter](https://twitter.com/dotcomhunters/status/1396422947313569793) | advertise |
