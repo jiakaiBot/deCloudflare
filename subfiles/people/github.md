@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issues with short linking twitter profiles/tweets](https://github.com/steven-tey/dub/issues/45)
 - [Unable to install any versions of node](https://github.com/nvm-sh/nvm/issues/2897)
 - [CloudFlare Analytics Availability Issues](https://github.com/MatBenfield/news/issues/3259)
 - [Cloudflare Workers support (by moving off of axios)](https://github.com/Doist/todoist-api-typescript/issues/151)
