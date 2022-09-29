@@ -2784,6 +2784,7 @@ Here's a list of public Fediverse services.
 | cdstm.ch | No |
 | ceb8.de | No |
 | ced117.net | No |
+| cedgrim.be | No |
 | cedricbonhomme.org | No |
 | ceilidh.space | No |
 | ceilingroomba.com | No |
@@ -4135,6 +4136,7 @@ Here's a list of public Fediverse services.
 | definitelyreal.coffee | No |
 | defis.info | No |
 | defloration.ml | No |
+| defluence.me | No |
 | degenerate-senate.online | No |
 | degenerates.fail | Yes |
 | degica.com | Yes |
@@ -10625,6 +10627,7 @@ Here's a list of public Fediverse services.
 | lukepreston.xyz | No |
 | lukesmith.xyz | No |
 | lullis.net | Yes |
+| lulz.win | No |
 | lumbung.space | No |
 | lumenwrites.com | Yes |
 | lumey.dev | Yes |
@@ -21333,7 +21336,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,211 |
-| Normal | 17,078 |
+| Normal | 17,081 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
