@@ -6583,6 +6583,7 @@ Do not create new issue or we will close it as duplicate.
 | [NickOneness@twitter](https://twitter.com/NickOneness/status/1471575647709499393) | advertise |
 | [nickwarters@twitter](https://twitter.com/nickwarters/status/1407441318511513605) | advertise |
 | [nickylay@twitter](https://twitter.com/nickylay/status/1379982002141552642) | advertise |
+| [nicotine60fps@twitter](https://twitter.com/nicotine60fps/status/1575543763060985856) | advertise |
 | [nidusha6@twitter](https://twitter.com/nidusha6/status/1377278946945990661) | advertise |
 | [Nie90783223@twitter](https://twitter.com/Nie90783223/status/1390937939236966403) | advertise |
 | [Nievs2002@twitter](https://twitter.com/Nievs2002/status/1472551166030409731) | advertise |
