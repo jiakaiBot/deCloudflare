@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cache middleware broke in 2.2.*](https://github.com/honojs/hono/issues/564)
 - [Can not save image locally](https://github.com/FakerPHP/Faker/issues/522)
 - [Nginx reverse proxy not working with ERPNext](https://github.com/frappe/frappe_docker/issues/941)
 - [Compatibility with Cloudflare Workers](https://github.com/sinclairzx81/typebox/issues/253)
