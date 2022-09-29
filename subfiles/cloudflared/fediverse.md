@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,911 |
+| com | 2,912 |
 | net | 1,677 |
 | social | 1,185 |
 | org | 1,149 |
-| de | 1,009 |
+| de | 1,010 |
 
 
 - Mastodon, Pleroma, etc
@@ -544,6 +544,7 @@ Here's a list of public Fediverse services.
 | adorsaz.ch | No |
 | adriaan.se | No |
 | adrianperales.com | No |
+| adrien.run | No |
 | adrienlacombe.me | No |
 | adrift.io | Yes |
 | adriftonthenet.com | No |
@@ -868,6 +869,7 @@ Here's a list of public Fediverse services.
 | americassweethe.art | No |
 | amic37.fr | No |
 | amicable.social | Yes |
+| amical.info | No |
 | amicale.net | No |
 | amicidelbaretto.org | Yes |
 | amie.moe | Yes |
@@ -2288,7 +2290,7 @@ Here's a list of public Fediverse services.
 | botnet.social | No |
 | bots-in.space | No |
 | botsin.space | No |
-| botsonthego.xyz | No |
+| botsonthego.xyz | Yes |
 | bottom.rs | No |
 | botwiki.org | No |
 | bougiekitty.net | Yes |
@@ -3273,7 +3275,7 @@ Here's a list of public Fediverse services.
 | cogito.io | Yes |
 | cogitoergofem.me | Yes |
 | cognitheurge.com | No |
-| cognize.co | No |
+| cognize.co | Yes |
 | coinchan.com | No |
 | coisas.dev.br | No |
 | coisland.xyz | No |
@@ -4876,6 +4878,7 @@ Here's a list of public Fediverse services.
 | echoz.io | No |
 | echty.de | No |
 | eclesia.space | No |
+| ecliptik.com | Yes |
 | ecmelberk.com | No |
 | ecnelises.com | No |
 | ecneret.com | No |
@@ -7535,6 +7538,7 @@ Here's a list of public Fediverse services.
 | herkenhoff.eu | No |
 | herkenhoff.nl | No |
 | herkimer.social | No |
+| hermes2020.de | No |
 | hermit.cafe | No |
 | hermitmagicians.com | No |
 | hern.as | Yes |
@@ -16833,6 +16837,7 @@ Here's a list of public Fediverse services.
 | shitpo.st | Yes |
 | shitpost.cloud | No |
 | shitpost.institute | No |
+| shitpost.racing | Yes |
 | shitposter.club | No |
 | shitposting.network | Yes |
 | shitter.me | No |
@@ -21323,8 +21328,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,207 |
-| Normal | 17,073 |
+| Cloudflare | 4,211 |
+| Normal | 17,074 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
