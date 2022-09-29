@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [JavaScript minification breaks Prism.js when that's served from a CDN](https://github.com/wp-media/wp-rocket/issues/5484)
 - [Cache middleware broke in 2.2.*](https://github.com/honojs/hono/issues/564)
 - [Can not save image locally](https://github.com/FakerPHP/Faker/issues/522)
 - [Nginx reverse proxy not working with ERPNext](https://github.com/frappe/frappe_docker/issues/941)
