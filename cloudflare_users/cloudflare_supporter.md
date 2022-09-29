@@ -2935,6 +2935,7 @@ Do not create new issue or we will close it as duplicate.
 | [halykun@twitter](https://twitter.com/halykun/status/1400355687041933314) | advertise |
 | [HamadStopqatar@twitter](https://twitter.com/HamadStopqatar/status/1552308856545501189) | advertise |
 | [HamdanMatNor18@twitter](https://twitter.com/HamdanMatNor18/status/1393666177692360705) | advertise |
+| [Hamed1974ir@twitter](https://twitter.com/Hamed1974ir/status/1575416669085786113) | advertise |
 | [hamidkh41481829@twitter](https://twitter.com/hamidkh41481829/status/1488981351059664900) | advertise |
 | [Hami_HamaSaed@twitter](https://twitter.com/Hami_HamaSaed/status/1376832495468081156) | advertise |
 | [HamJin123@twitter](https://twitter.com/HamJin123/status/1434402038339624962) | advertise |
