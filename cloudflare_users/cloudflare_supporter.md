@@ -1462,6 +1462,7 @@ Do not create new issue or we will close it as duplicate.
 | [buonlam123@twitter](https://twitter.com/buonlam123/status/1389458481523019779) | advertise |
 | [buon_hom@twitter](https://twitter.com/buon_hom/status/1394578812776509443) | advertise |
 | [BurbAchoo@twitter](https://twitter.com/BurbAchoo/status/1552945493172695040) | advertise |
+| [burhan@twitter](https://twitter.com/burhan/status/1575455113925328897) | advertise |
 | [burkehellen1@twitter](https://twitter.com/burkehellen1/status/1395294317262958600) | advertise |
 | [BurmaTravelClub@twitter](https://twitter.com/BurmaTravelClub/status/1390846703230541825) | advertise |
 | [BurungHantu1605@github.com](https://github.com/BurungHantu1605) | moral (PR defacement) |
@@ -4478,8 +4479,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
