@@ -267,6 +267,7 @@ Do not create new issue or we will close it as duplicate.
 | [Adlinek@twitter](https://twitter.com/Adlinek/status/1386212969223122947) | advertise |
 | [admir_saracevic@twitter](https://twitter.com/admir_saracevic/status/1517979667013292032) | advertise |
 | [AdmMatasa@twitter](https://twitter.com/AdmMatasa/status/1507215006818918404) | advertise |
+| [adnanhosseiniii@twitter](https://twitter.com/adnanhosseiniii/status/1575411513107644417) | advertise |
 | [AdnanIAQader@twitter](https://twitter.com/AdnanIAQader/status/1549794017423962112) | advertise |
 | [adock12345@twitter](https://twitter.com/adock12345/status/1382531067207421953) | advertise |
 | [adora3021@twitter](https://twitter.com/adora3021/status/1390581418401484801) | advertise |
@@ -1773,8 +1774,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -9576,6 +9577,7 @@ Do not create new issue or we will close it as duplicate.
 | [venkats02968750@twitter](https://twitter.com/venkats02968750/status/1402898594030526468) | advertise |
 | [Venn34541103@twitter](https://twitter.com/Venn34541103/status/1397760420249804800) | advertise |
 | [Veno55209967@twitter](https://twitter.com/Veno55209967/status/1491422483966468100) | advertise |
+| [Venus20695@twitter](https://twitter.com/Venus20695/status/1575401053012791296) | advertise |
 | [Venus94618205@twitter](https://twitter.com/Venus94618205/status/1394980396618682370) | advertise |
 | [VenusKhang@twitter](https://twitter.com/VenusKhang/status/1401099072740626434) | advertise |
 | [Vera12621772@twitter](https://twitter.com/Vera12621772/status/1570214736159014913) | advertise |
