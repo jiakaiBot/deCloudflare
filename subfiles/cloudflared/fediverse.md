@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,912 |
+| com | 2,913 |
 | net | 1,678 |
 | social | 1,185 |
 | org | 1,149 |
@@ -15570,6 +15570,7 @@ Here's a list of public Fediverse services.
 | randulo.com | No |
 | randyr.xyz | No |
 | rane.sh | No |
+| ranger.vegas | No |
 | rangueil.net | No |
 | rankenste.in | No |
 | rankett.net | No |
@@ -19816,6 +19817,7 @@ Here's a list of public Fediverse services.
 | vegard.net | No |
 | vegetadon.tokyo | No |
 | vegible.club | No |
+| vekant.com | Yes |
 | velhaestante.com.br | Yes |
 | velius.dev | No |
 | velma.club | No |
@@ -21335,8 +21337,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,211 |
-| Normal | 17,081 |
+| Cloudflare | 4,212 |
+| Normal | 17,082 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
