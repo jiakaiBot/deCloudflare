@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [blocky does not filter](https://github.com/truecharts/charts/issues/3960)
 - [provider/cloudflare - terraform deduces hashicorp/cloudflare for a community provider even with an explicit source directive](https://github.com/hashicorp/terraform/issues/31905)
 - [JavaScript minification breaks Prism.js when that's served from a CDN](https://github.com/wp-media/wp-rocket/issues/5484)
 - [Cache middleware broke in 2.2.*](https://github.com/honojs/hono/issues/564)
