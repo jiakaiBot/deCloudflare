@@ -207,6 +207,7 @@ Do not create new issue or we will close it as duplicate.
 | [AbhinavRajkuma6@twitter](https://twitter.com/AbhinavRajkuma6/status/1385890708645548034) | advertise |
 | [ABHISHE37009598@twitter](https://twitter.com/ABHISHE37009598/status/1399403672002457605) | advertise |
 | [abhishekFactory@twitter](https://twitter.com/abhishekFactory/status/1510363217624711170) | advertise |
+| [abhishekkandel3@twitter](https://twitter.com/abhishekkandel3/status/1575388121235013633) | advertise |
 | [AbhishekNag27@twitter](https://twitter.com/AbhishekNag27/status/1388448265469714432) | advertise |
 | [Abhishesh24@twitter](https://twitter.com/Abhishesh24/status/1536930185718956032) | advertise |
 | [abkrimms@twitter](https://twitter.com/abkrimms/status/1456514766554402859) | advertise |
@@ -4474,8 +4475,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
