@@ -1545,6 +1545,7 @@ Do not create new issue or we will close it as duplicate.
 | [CelahPkbm@twitter](https://twitter.com/CelahPkbm/status/1468870913512800257) | advertise |
 | [CElectriz@twitter](https://twitter.com/CElectriz/status/1389625288896753664) | advertise |
 | [celotehsenja3@twitter](https://twitter.com/celotehsenja3/status/1506049300153118720) | advertise |
+| [cenamafakheri@twitter](https://twitter.com/cenamafakheri/status/1575468207720259584) | advertise |
 | [cenozoic69@twitter](https://twitter.com/cenozoic69/status/1384936734073532418) | advertise |
 | [CentreElites@twitter](https://twitter.com/CentreElites/status/1500457148152786944) | advertise |
 | [Cephas_Stephen_@twitter](https://twitter.com/Cephas_Stephen_/status/1542164580817944578) | advertise |
@@ -4479,8 +4480,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
