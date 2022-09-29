@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,912 |
-| net | 1,677 |
+| net | 1,678 |
 | social | 1,185 |
 | org | 1,149 |
 | de | 1,010 |
@@ -2327,6 +2327,7 @@ Here's a list of public Fediverse services.
 | braemer.us | No |
 | brainbaking.com | No |
 | brainjuice.ca | No |
+| brainsoap.net | No |
 | brainsoftener.com | No |
 | brainsower.org | No |
 | braintube.com | No |
@@ -4714,6 +4715,7 @@ Here's a list of public Fediverse services.
 | dryusdan.fr | No |
 | dsci4.xyz | No |
 | dscloud.mobi | No |
+| dshk.pro | No |
 | dsmouse.net | No |
 | dsocialize.net | Yes |
 | dssr.ch | No |
@@ -4723,6 +4725,7 @@ Here's a list of public Fediverse services.
 | dtp-mstdn.jp | Yes |
 | dtrautwein.eu | No |
 | du-de-au-clavier.net | No |
+| duanrra.cf | No |
 | duanshu.xyz | Yes |
 | duanxin.asia | No |
 | duarte.vg | No |
@@ -14266,6 +14269,7 @@ Here's a list of public Fediverse services.
 | pawoo.net | No |
 | paws.moe | No |
 | paws.town | No |
+| paxanimi.club | No |
 | paxation.info | No |
 | paxriel.art | No |
 | paypig.org | Yes |
@@ -21329,7 +21333,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,211 |
-| Normal | 17,074 |
+| Normal | 17,078 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
