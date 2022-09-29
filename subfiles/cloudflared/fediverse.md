@@ -5564,6 +5564,7 @@ Here's a list of public Fediverse services.
 | feathers.link | No |
 | featyre.xyz | Yes |
 | fed.im | No |
+| fedblog.ch | No |
 | fedcast.ch | No |
 | feddit.de | No |
 | feddit.it | No |
@@ -6029,7 +6030,7 @@ Here's a list of public Fediverse services.
 | fotz.cc | No |
 | foucry.net | No |
 | foundation.city | No |
-| foundationsedge.co.uk | No |
+| foundationsedge.co.uk | Yes |
 | four-nine.club | No |
 | fourth-brigade.jp | No |
 | fourthestate.social | No |
@@ -13126,6 +13127,7 @@ Here's a list of public Fediverse services.
 | nisu.ly | Yes |
 | nitech.online | No |
 | nitecrew.biz | No |
+| nitecrew.rip | No |
 | nitiasa.com | Yes |
 | nitro.horse | No |
 | nitroet.me | No |
@@ -17280,7 +17282,7 @@ Here's a list of public Fediverse services.
 | sogipe.fr | No |
 | sojo-u-only-mstdn.xyz | No |
 | sokoll.com | No |
-| solagg.com | Yes |
+| solagg.com | No |
 | solari.com | No |
 | solaria.space | No |
 | solaris.institute | No |
@@ -17682,7 +17684,7 @@ Here's a list of public Fediverse services.
 | stoptrackingus.io | No |
 | stoptrackingus.tv | No |
 | stopwatchingani.me | No |
-| stopwatchingus-heidelberg.de | No |
+| stopwatchingus-heidelberg.de | Yes |
 | storais.org | No |
 | storel.li | No |
 | storkeus.xyz | Yes |
@@ -21321,8 +21323,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,206 |
-| Normal | 17,072 |
+| Cloudflare | 4,207 |
+| Normal | 17,073 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
