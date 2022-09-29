@@ -7270,6 +7270,7 @@ Do not create new issue or we will close it as duplicate.
 | [Potshotp@twitter](https://twitter.com/Potshotp/status/1384574003096940545) | advertise |
 | [PouryaMoshtagh@twitter](https://twitter.com/PouryaMoshtagh/status/1574806884565061637) | advertise |
 | [PouryaPo@twitter](https://twitter.com/PouryaPo/status/1539421921518952449) | advertise |
+| [powdered22@twitter](https://twitter.com/powdered22/status/1575378359630045188) | advertise |
 | [PowerPopClub@twitter](https://twitter.com/PowerPopClub/status/1402682751841603595) | advertise |
 | [PowerRanger1156@twitter](https://twitter.com/PowerRanger1156/status/1395353501174312962) | advertise |
 | [pownew94@twitter](https://twitter.com/pownew94/status/1566475617125941248) | advertise |
