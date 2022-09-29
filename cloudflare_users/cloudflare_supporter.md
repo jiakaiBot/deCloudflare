@@ -1909,6 +1909,7 @@ Do not create new issue or we will close it as duplicate.
 | [danny_mx@twitter](https://twitter.com/danny_mx/status/1404509805117648902) | advertise |
 | [DanOno365@twitter](https://twitter.com/DanOno365/status/1371618039108673545) | advertise |
 | [Dansang1103@twitter](https://twitter.com/Dansang1103/status/1473317056019775490) | advertise |
+| [DANTALAKAA@twitter](https://twitter.com/DANTALAKAA/status/1575479199640723456) | advertise |
 | [DanTran09071985@twitter](https://twitter.com/DanTran09071985/status/1390363471179489282) | advertise |
 | [Danxity@twitter](https://twitter.com/Danxity/status/1521653614816956416) | advertise |
 | [DanyPratmanto@twitter](https://twitter.com/DanyPratmanto/status/1433013360367312904) | advertise |
@@ -6194,6 +6195,7 @@ Do not create new issue or we will close it as duplicate.
 | [nalathon8@twitter](https://twitter.com/nalathon8/status/1393174233556021249) | advertise |
 | [Nam42Duongtruo1@twitter](https://twitter.com/Nam42Duongtruo1/status/1553281681859104768) | advertise |
 | [nam54142435@twitter](https://twitter.com/nam54142435/status/1377917089734750211) | advertise |
+| [Nam2140220405@twitter](https://twitter.com/Nam2140220405/status/1575487045262114820) | advertise |
 | [Namanh60435535@twitter](https://twitter.com/Namanh60435535/status/1479523298325131265) | advertise |
 | [namanhhh1989@twitter](https://twitter.com/namanhhh1989/status/1572624972035805186) | advertise |
 | [NamBlack18@twitter](https://twitter.com/NamBlack18/status/1399076867190059010) | advertise |
@@ -9140,6 +9142,7 @@ Do not create new issue or we will close it as duplicate.
 | [TINZAYYARLIN1@twitter](https://twitter.com/TINZAYYARLIN1/status/1378943503011475461) | advertise |
 | [tin_sci@twitter](https://twitter.com/tin_sci/status/1485901022312923139) | advertise |
 | [Tiotorrent@twitter](https://twitter.com/Tiotorrent/status/1554302374881251328) | advertise |
+| [Tipti595@twitter](https://twitter.com/Tipti595/status/1575479897065226240) | advertise |
 | [Tipziz@twitter](https://twitter.com/Tipziz/status/1544379049392410625) | advertise |
 | [Titatiton3@twitter](https://twitter.com/Titatiton3/status/1383579029635166211) | advertise |
 | [tite_tain@twitter](https://twitter.com/tite_tain/status/1386579845652439040) | advertise |
