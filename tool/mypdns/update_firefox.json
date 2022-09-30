@@ -8,9 +8,9 @@
               "strict_min_version": "91.0"
             }
           },
-          "version": "1.0.1.8",
-          "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/mypdns/reporter/addon/firefox/addon.xpi?8f7866fda56524cfc740e68baaacf32b7071bd4a2c10ecb181e40407fee71231",
-          "update_hash": "sha256:8f7866fda56524cfc740e68baaacf32b7071bd4a2c10ecb181e40407fee71231"
+          "version": "1.0.1.9",
+          "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/mypdns/reporter/addon/firefox/addon.xpi?7679e051189a65db528d9c3c023883ea5eb455d83437f09cec215cdaa792a522",
+          "update_hash": "sha256:7679e051189a65db528d9c3c023883ea5eb455d83437f09cec215cdaa792a522"
         }
       ]
     },
@@ -22,9 +22,9 @@
               "strict_min_version": "91.0"
             }
           },
-          "version": "1.0.0.2",
-          "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/mypdns/defender/addon/firefox/addon.xpi?fdafd92dc69f1bcc00774a8f8fde7a8672a5a3bb04ed3b27d2a5b8ad2816a599",
-          "update_hash": "sha256:fdafd92dc69f1bcc00774a8f8fde7a8672a5a3bb04ed3b27d2a5b8ad2816a599"
+          "version": "1.0.0.3",
+          "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/mypdns/defender/addon/firefox/addon.xpi?4c1bd568ba2b5b0189c0053bccc24de590aa15c9d4a2fb6c16f47b8076c74979",
+          "update_hash": "sha256:4c1bd568ba2b5b0189c0053bccc24de590aa15c9d4a2fb6c16f47b8076c74979"
         }
       ]
     },
