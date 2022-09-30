@@ -1388,6 +1388,7 @@ Or is this merely a case of simple modesty?
 | Rachel Dowson | People Team Partner |  |
 | Rachele Gyorffy | Customer Success Engineer |  |
 | Rachel Gonzalez | Executive Assistant |  |
+| Rachel Jenkins | Employee | |
 | Radina Mihaleva | Partnerships and Business Development |  |
 | Rafael Carabano | Customer Success |  |
 | Rafael Rafi Cohn-Gruenwald | Security Intern |  |
