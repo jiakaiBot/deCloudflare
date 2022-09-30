@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Please add Darkscans for extension](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13645)
 - [describing a simple v2ray deployment](https://github.com/InternetForIran/InternetForIran/issues/1)
 - [blocky does not filter](https://github.com/truecharts/charts/issues/3960)
 - [provider/cloudflare - terraform deduces hashicorp/cloudflare for a community provider even with an explicit source directive](https://github.com/hashicorp/terraform/issues/31905)
