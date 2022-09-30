@@ -4485,8 +4485,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7869,6 +7869,7 @@ Do not create new issue or we will close it as duplicate.
 | [SaiMyo31199838@twitter](https://twitter.com/SaiMyo31199838/status/1385122850672046082) | advertise |
 | [Saimyominoo9@twitter](https://twitter.com/Saimyominoo9/status/1392334950616248321) | advertise |
 | [SaingNann@twitter](https://twitter.com/SaingNann/status/1391063083049697283) | advertise |
+| [sainikudu30@twitter](https://twitter.com/sainikudu30/status/1575785429588066306) | advertise |
 | [SaintKennedy777@twitter](https://twitter.com/SaintKennedy777/status/1546245297612791808) | advertise |
 | [saint_raam@twitter](https://twitter.com/saint_raam/status/1564693040844877824) | advertise |
 | [saira_akira@twitter](https://twitter.com/saira_akira/status/1460944302092156929) | advertise |
