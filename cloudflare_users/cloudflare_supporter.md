@@ -522,6 +522,7 @@ Do not create new issue or we will close it as duplicate.
 | [Amin_A_S@twitter](https://twitter.com/Amin_A_S/status/1561946235887648768) | advertise |
 | [amir29601724@twitter](https://twitter.com/amir29601724/status/1573558606036967424) | advertise |
 | [amir55087591@twitter](https://twitter.com/amir55087591/status/1399965313156804610) | advertise |
+| [amiralibagher11@twitter](https://twitter.com/amiralibagher11/status/1575908612576362505) | advertise |
 | [amirchitgaran@twitter](https://twitter.com/amirchitgaran/status/1384197111500083214) | advertise |
 | [AmirFusaini@twitter](https://twitter.com/AmirFusaini/status/1399362665416314883) | advertise |
 | [Amirh_1991@twitter](https://twitter.com/Amirh_1991/status/1530140150327541762) | advertise |
@@ -1779,8 +1780,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -9069,6 +9070,7 @@ Do not create new issue or we will close it as duplicate.
 | [thuowngqua@twitter](https://twitter.com/thuowngqua/status/1383526302058106881) | advertise |
 | [thura28587271@twitter](https://twitter.com/thura28587271/status/1385809106879991808) | advertise |
 | [Thura66027391@twitter](https://twitter.com/Thura66027391/status/1377616296968327169) | advertise |
+| [thuraau87250232@twitter](https://twitter.com/thuraau87250232/status/1575906458935660545) | advertise |
 | [ThuRain15947531@twitter](https://twitter.com/ThuRain15947531/status/1393105015728791553) | advertise |
 | [ThuraKo88911020@twitter](https://twitter.com/ThuraKo88911020/status/1391854568321998850) | advertise |
 | [thurawi06593719@twitter](https://twitter.com/thurawi06593719/status/1386863584924237825) | advertise |
