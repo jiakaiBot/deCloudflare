@@ -1292,6 +1292,7 @@ Do not create new issue or we will close it as duplicate.
 | [bladeandsuol@twitter](https://twitter.com/bladeandsuol/status/1396102958832521221) | advertise |
 | [BLAKKCASTRO305@twitter](https://twitter.com/BLAKKCASTRO305/status/1437928671680020480) | advertise |
 | [BlankT17406721@twitter](https://twitter.com/BlankT17406721/status/1400500648261476354) | advertise |
+| [BlazeEffect@twitter](https://twitter.com/BlazeEffect/status/1575954607674564608) | advertise |
 | [Blaze_0910@twitter](https://twitter.com/Blaze_0910/status/1556878345408692224) | advertise |
 | [BlazinHosting@twitter](https://twitter.com/BlazinHosting/status/1441631102351859713) | advertise |
 | [Blckk15@twitter](https://twitter.com/Blckk15/status/1398931957610733570) | advertise |
@@ -2729,6 +2730,7 @@ Do not create new issue or we will close it as duplicate.
 | [gemstoneslover@twitter](https://twitter.com/gemstoneslover/status/1376813245416173571) | advertise |
 | [GeneralGosu@twitter](https://twitter.com/GeneralGosu/status/1387508776429780993) | advertise |
 | [Genius44697566@twitter](https://twitter.com/Genius44697566/status/1389792896690253824) | advertise |
+| [GeoffreyKP@twitter](https://twitter.com/GeoffreyKP/status/1575951853132873728) | advertise |
 | [geolffrey_mena@twitter](https://twitter.com/geolffrey_mena/status/1462463345290797060) | advertise |
 | [georgegijo@twitter](https://twitter.com/georgegijo/status/1389736443904331778) | advertise |
 | [GeorgeMichaelH7@twitter](https://twitter.com/GeorgeMichaelH7/status/1551655020944318469) | advertise |
@@ -3881,6 +3883,7 @@ Do not create new issue or we will close it as duplicate.
 | [JayDongie@twitter](https://twitter.com/JayDongie/status/1570926639525285889) | advertise |
 | [Jayedmolla31@twitter](https://twitter.com/Jayedmolla31/status/1548747601562173440) | advertise |
 | [jayismyeveryth1@twitter](https://twitter.com/jayismyeveryth1/status/1389247638545911810) | advertise |
+| [jaypfalzgraf@twitter](https://twitter.com/jaypfalzgraf/status/1575950205253320704) | advertise |
 | [jayrbautista932@twitter](https://twitter.com/jayrbautista932/status/1543621669025382400) | advertise |
 | [JaySoh13@twitter](https://twitter.com/JaySoh13/status/1390786934335705092) | advertise |
 | [jaysonm76681877@twitter](https://twitter.com/jaysonm76681877/status/1376793641474260994) | advertise |
@@ -4489,8 +4492,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
