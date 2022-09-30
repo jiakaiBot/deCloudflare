@@ -2331,6 +2331,7 @@ Do not create new issue or we will close it as duplicate.
 | [east_aj@twitter](https://twitter.com/east_aj/status/1402728569550163970) | advertise |
 | [EbadeMohmade@twitter](https://twitter.com/EbadeMohmade/status/1450824249988501504) | advertise |
 | [ebequn@twitter](https://twitter.com/ebequn/status/1555867021195497472) | advertise |
+| [ebisaadavi1@twitter](https://twitter.com/ebisaadavi1/status/1575755427140325377) | advertise |
 | [ebrahimbabaeeu@twitter](https://twitter.com/ebrahimbabaeeu/status/1383362619965251590) | advertise |
 | [ecchan_5x@twitter](https://twitter.com/ecchan_5x/status/1553244516916039680) | advertise |
 | [EcchiTien@twitter](https://twitter.com/EcchiTien/status/1380172764078768128) | advertise |
@@ -4484,8 +4485,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
