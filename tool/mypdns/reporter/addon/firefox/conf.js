@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('topWP4').checked = (r.topWP4 == '1') ? true : false;
       document.getElementById('topWP5').checked = (r.topWP5 == '1') ? true : false;
       document.getElementById('topWP6').checked = (r.topWP6 == '1') ? true : false;
+      document.getElementById('topWP7').checked = (r.topWP7 == '1') ? true : false;
       document.getElementById('nocat01').checked = (r.nocat01 == '1') ? true : false;
       document.getElementById('nocat02').checked = (r.nocat02 == '1') ? true : false;
       document.getElementById('nocat03').checked = (r.nocat03 == '1') ? true : false;
