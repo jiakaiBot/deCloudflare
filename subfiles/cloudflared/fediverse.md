@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,678 |
 | social | 1,185 |
 | org | 1,149 |
-| de | 1,010 |
+| de | 1,012 |
 
 
 - Mastodon, Pleroma, etc
@@ -90,6 +90,7 @@ Here's a list of public Fediverse services.
 | 0xemmy.me | No |
 | 0xf4240.bid | Yes |
 | 0xfa.de | No |
+| 0xfeedc0.de | No |
 | 0xff.cafe | No |
 | 1000dollars.info | No |
 | 1001solutions.net | No |
@@ -5244,6 +5245,7 @@ Here's a list of public Fediverse services.
 | eroaward.com | No |
 | erotica.social | Yes |
 | erotube.fr | No |
+| error.im | Yes |
 | errormaker.net | Yes |
 | ertona.net | No |
 | ertu.be | No |
@@ -7190,6 +7192,7 @@ Here's a list of public Fediverse services.
 | guysden.online | No |
 | guyvernk.com | No |
 | gvcr.ca | No |
+| gwei.cz | Yes |
 | gwomp.com | No |
 | gwynnestudio.com | Yes |
 | gxc.io | Yes |
@@ -14571,6 +14574,7 @@ Here's a list of public Fediverse services.
 | pikami.org | Yes |
 | piki.moe | No |
 | pilgerweg-21.de | No |
+| pilipala.asia | No |
 | pillowprincess.pink | No |
 | pilo.to | No |
 | pimoore.ca | No |
@@ -15830,6 +15834,7 @@ Here's a list of public Fediverse services.
 | retrostrange.com | No |
 | retrotroet.com | No |
 | rettiwtkcuf.social | No |
+| reun.de | No |
 | revachol.city | No |
 | revconnect.com | Yes |
 | reve.land | Yes |
@@ -21339,8 +21344,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,210 |
-| Normal | 17,086 |
+| Cloudflare | 4,212 |
+| Normal | 17,089 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
