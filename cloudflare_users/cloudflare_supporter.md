@@ -670,6 +670,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aoke31450522@twitter](https://twitter.com/Aoke31450522/status/1394282762413113345) | advertise |
 | [Aon97493554@twitter](https://twitter.com/Aon97493554/status/1390939593080442884) | advertise |
 | [AOneKoKo1@twitter](https://twitter.com/AOneKoKo1/status/1396348320163930112) | advertise |
+| [Aorelianu@twitter](https://twitter.com/Aorelianu/status/1575798494673403904) | advertise |
 | [ap1998106822@twitter](https://twitter.com/ap1998106822/status/1389791514016948225) | advertise |
 | [apa4h@twitter](https://twitter.com/apa4h/status/1379030071202185217) | advertise |
 | [ApAp33062813@twitter](https://twitter.com/ApAp33062813/status/1490578123163054088) | advertise |
@@ -1778,8 +1779,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -7282,6 +7283,7 @@ Do not create new issue or we will close it as duplicate.
 | [potaterator@twitter](https://twitter.com/potaterator/status/1394360418278199306) | advertise |
 | [potatorui@twitter](https://twitter.com/potatorui/status/1409524317428228105) | moral (advertise) |
 | [Potshotp@twitter](https://twitter.com/Potshotp/status/1384574003096940545) | advertise |
+| [pouria22896170@twitter](https://twitter.com/pouria22896170/status/1575795638700478466) | advertise |
 | [PouryaMoshtagh@twitter](https://twitter.com/PouryaMoshtagh/status/1574806884565061637) | advertise |
 | [PouryaPo@twitter](https://twitter.com/PouryaPo/status/1539421921518952449) | advertise |
 | [powdered22@twitter](https://twitter.com/powdered22/status/1575378359630045188) | advertise |
