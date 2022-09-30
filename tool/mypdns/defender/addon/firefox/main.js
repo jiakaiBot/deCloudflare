@@ -43,10 +43,10 @@ async function importList(cats, withOnion) {
    let wtp = {};
    for (let rI of cats) {
       wtp = {};
-      _updatelog.push('Downloading ' + rI[0]);
+      _updatelog.push('Downloading wildcard.list ' + rI[0]);
       junk = await doDownload(rI[0] + '/wildcard.list');
       if (junk.length < 4) {
-         _updatelog.push('WARN: Download failed at wildcard.list of ' + rI[0]);
+         _updatelog.push('WARN: Download failed');
       } else {
          for (let jl of junk.split("\n")) {
             if (is_valid_fqdn(jl)) {
@@ -54,9 +54,10 @@ async function importList(cats, withOnion) {
             }
          }
       }
+      _updatelog.push('Downloading domains.list ' + rI[0]);
       junk = await doDownload(rI[0] + '/domains.list');
       if (junk.length < 4) {
-         _updatelog.push('WARN: Download failed at domains.list of ' + rI[0]);
+         _updatelog.push('WARN: Download failed');
       } else {
          for (let jl of junk.split("\n")) {
             if (is_valid_fqdn(jl)) {
@@ -65,9 +66,10 @@ async function importList(cats, withOnion) {
          }
       }
       if (withOnion) {
+         _updatelog.push('Downloading onions.list ' + rI[0]);
          junk = await doDownload(rI[0] + '/onions.list');
          if (junk.length < 4) {
-            _updatelog.push('WARN: Download failed at onions.list of ' + rI[0]);
+            _updatelog.push('WARN: Download failed');
          } else {
             for (let jl of junk.split("\n")) {
                if (is_valid_fqdn(jl)) {
