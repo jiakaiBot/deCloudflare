@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-09-30: [Network Performance Issues in Liaoning, China](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f9kr1wghz18w)
 - 2022-09-28: [Latency issue in London datacenter](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/h1tfx7k9vgq0)
 - 2022-09-28: [Network Performance Issues in Seattle](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y0h68tp4tzcg)
 - 2022-09-27: [Secondary DNS activation issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/17q4p6qgl9yp)
