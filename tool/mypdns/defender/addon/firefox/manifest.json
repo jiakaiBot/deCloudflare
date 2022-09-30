@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "My Privacy DNS Defender",
+  "name": "My Privacy DNS - Defender",
   "description": "Filtering websites made easy.",
-  "version": "1.0.0.2",
+  "version": "1.0.0.3",
   "author": "Crimeflare",
   "homepage_url": "http://crimeflare.eu.org/",
   "permissions": [
