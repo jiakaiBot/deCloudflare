@@ -7235,6 +7235,7 @@ Do not create new issue or we will close it as duplicate.
 | [PKorrakoch@twitter](https://twitter.com/PKorrakoch/status/1538894572201586689) | advertise |
 | [PKumkaewprom@twitter](https://twitter.com/PKumkaewprom/status/1387070626297487361) | advertise |
 | [pkworlz@twitter](https://twitter.com/pkworlz/status/1475561304786046977) | advertise |
+| [PKZAIT@twitter](https://twitter.com/PKZAIT/status/1575982222493986816) | advertise |
 | [Pl47926009@twitter](https://twitter.com/Pl47926009/status/1395366611989655553) | advertise |
 | [Plan43611745@twitter](https://twitter.com/Plan43611745/status/1399656503079018497) | advertise |
 | [Plang04546316@twitter](https://twitter.com/Plang04546316/status/1536426694986420225) | advertise |
