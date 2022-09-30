@@ -2756,6 +2756,7 @@ Do not create new issue or we will close it as duplicate.
 | [GhostSlayeri@twitter](https://twitter.com/GhostSlayeri/status/1445450768836743171) | advertise |
 | [Ghost_dragon_VN@twitter](https://twitter.com/Ghost_dragon_VN/status/1497163614540603394) | advertise |
 | [GhulamJaved@twitter](https://twitter.com/GhulamJaved/status/1380050148135378944) | advertise |
+| [Gh_Kaychez@twitter](https://twitter.com/Gh_Kaychez/status/1575893615527616513) | advertise |
 | [GiaDat7@twitter](https://twitter.com/GiaDat7/status/1499011433946030084) | advertise |
 | [giang90299930@twitter](https://twitter.com/giang90299930/status/1384561563617484802) | advertise |
 | [Giang96329651@twitter](https://twitter.com/Giang96329651/status/1389920131950604290) | advertise |
@@ -3458,6 +3459,7 @@ Do not create new issue or we will close it as duplicate.
 | [HumayraNusaiba@twitter](https://twitter.com/HumayraNusaiba/status/1516846214637305856) | advertise |
 | [Humdi48547568@twitter](https://twitter.com/Humdi48547568/status/1401142880970973185) | advertise |
 | [Hun99330190@twitter](https://twitter.com/Hun99330190/status/1401523155382857734) | advertise |
+| [HunchoGotCxmp@twitter](https://twitter.com/HunchoGotCxmp/status/1575891722953191424) | advertise |
 | [HunerllZ@twitter](https://twitter.com/HunerllZ/status/1526255764813139968) | advertise |
 | [Hung789666@twitter](https://twitter.com/Hung789666/status/1552762342525771777) | advertise |
 | [Hung52831637@twitter](https://twitter.com/Hung52831637/status/1399774938542665731) | advertise |
@@ -7295,6 +7297,7 @@ Do not create new issue or we will close it as duplicate.
 | [PPaodon@twitter](https://twitter.com/PPaodon/status/1401194836405874689) | advertise |
 | [pplcoin@twitter](https://twitter.com/pplcoin/status/1505982514623619080) | advertise |
 | [pppaii@twitter](https://twitter.com/pppaii/status/1384511397363556360) | advertise |
+| [pppeuusu@twitter](https://twitter.com/pppeuusu/status/1575894254765101057) | advertise |
 | [PppooiiuuyyP@twitter](https://twitter.com/PppooiiuuyyP/status/1564040885658157062) | advertise |
 | [ppubg221@twitter](https://twitter.com/ppubg221/status/1380101781640900608) | advertise |
 | [PqqRYfrZlaxxTQU@twitter](https://twitter.com/PqqRYfrZlaxxTQU/status/1388389726369972226) | advertise |
