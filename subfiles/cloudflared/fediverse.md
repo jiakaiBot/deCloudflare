@@ -201,6 +201,7 @@ Here's a list of public Fediverse services.
 | 3.srl | No |
 | 300-baud.net | No |
 | 300m.com | No |
+| 32-b.it | No |
 | 334.ovh | Yes |
 | 338338.xyz | Yes |
 | 33chan.xyz | No |
@@ -2699,7 +2700,7 @@ Here's a list of public Fediverse services.
 | caselibre.fr | No |
 | caserio.de | No |
 | casoetto.net | No |
-| caspar.social | Yes |
+| caspar.social | No |
 | cassette.click | No |
 | cassone.social | No |
 | castlecannon.house | No |
@@ -6394,7 +6395,7 @@ Here's a list of public Fediverse services.
 | furrylife.online | Yes |
 | furryowo.top | No |
 | furrysp.top | Yes |
-| furrytf.club | Yes |
+| furrytf.club | No |
 | fursocial.xyz | No |
 | fursona.net | No |
 | furstenberg.co | Yes |
@@ -17611,6 +17612,7 @@ Here's a list of public Fediverse services.
 | station.gallery | No |
 | stationerygamer.com | No |
 | statium.link | No |
+| statler.ws | No |
 | status.online | Yes |
 | statuskaptain.de | No |
 | statyvka.org.ua | No |
@@ -21337,8 +21339,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,212 |
-| Normal | 17,082 |
+| Cloudflare | 4,210 |
+| Normal | 17,086 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
