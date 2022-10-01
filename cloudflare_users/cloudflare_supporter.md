@@ -8065,6 +8065,7 @@ Do not create new issue or we will close it as duplicate.
 | [Seif_Abaza@twitter](https://twitter.com/Seif_Abaza/status/1556724865176145928) | advertise |
 | [seiki2216@twitter](https://twitter.com/seiki2216/status/1392526776597766145) | advertise |
 | [seinaoesi@twitter](https://twitter.com/seinaoesi/status/1396428134065577990) | advertise |
+| [Seingtse@twitter](https://twitter.com/Seingtse/status/1576154257643823104) | advertise |
 | [SeinnLaePhyu3@twitter](https://twitter.com/SeinnLaePhyu3/status/1389588766751215616) | advertise |
 | [SeinSi15@twitter](https://twitter.com/SeinSi15/status/1545748877034213378) | advertise |
 | [seizure_salad__@twitter](https://twitter.com/seizure_salad__/status/1394456452933242886) | advertise |
