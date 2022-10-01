@@ -140,6 +140,7 @@ merchant-center-analytics.goog
 mestemnakole.cz
 metaconnect.com
 metokur.us
+mevonews.net
 micghiga2n7ahjnnsar0fbor.com
 michaeljgleasonwriter.com
 middestkarsha.com
@@ -156,7 +157,6 @@ mlbchinhhang.com
 mmadsgadget.com
 mobalert.net
 mobilecitizen.org
-mobilization.guide
 modelsdubailuxury.com
 money1.jp
 moniiescurrencyexchange.com
@@ -233,3 +233,4 @@ www.mynbc5.com
 www.myneworleans.com
 www.myrtlebeachonline.com
 www.mysterywire.com
+www.mcot.net
