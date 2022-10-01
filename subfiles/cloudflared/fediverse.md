@@ -3312,7 +3312,7 @@ Here's a list of public Fediverse services.
 | colorid.es | Yes |
 | colson.re | No |
 | colton.world | No |
-| com.de | Yes |
+| com.de | No |
 | comacero.com | No |
 | comam.es | No |
 | combatbahai.com | No |
@@ -10124,6 +10124,7 @@ Here's a list of public Fediverse services.
 | lhyz.fun | Yes |
 | lia.fail | No |
 | liam.ie | No |
+| lianwu.fun | No |
 | libarti.com | No |
 | libcore.org | Yes |
 | libcyb.so | No |
@@ -10901,7 +10902,6 @@ Here's a list of public Fediverse services.
 | mamushi.io | No |
 | mamut.social | No |
 | mamutinhos.xyz | No |
-| man-ya.asia | No |
 | mana-ka.com | No |
 | manalejandro.com | No |
 | mancave.de | No |
@@ -14120,6 +14120,7 @@ Here's a list of public Fediverse services.
 | paas.jp | No |
 | pablo.xyz | No |
 | pabs.xyz | No |
+| pacapime.ovh | No |
 | pace.rip | No |
 | pachi.house | No |
 | pachislodon.net | No |
@@ -14145,6 +14146,7 @@ Here's a list of public Fediverse services.
 | pain.moe | Yes |
 | painkiller.es | No |
 | paintacu.be | No |
+| painted.jp | Yes |
 | pair2jeux.tube | No |
 | pajd.cloud | No |
 | pajd.fr | No |
@@ -20003,6 +20005,7 @@ Here's a list of public Fediverse services.
 | voided.space | Yes |
 | voidfarm.pw | No |
 | voidfox.com | No |
+| voidgaming.co | Yes |
 | voidlurker.net | No |
 | voidptr.org | No |
 | voidptr.wtf | No |
@@ -21347,8 +21350,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,213 |
-| Normal | 17,091 |
+| Cloudflare | 4,214 |
+| Normal | 17,093 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
