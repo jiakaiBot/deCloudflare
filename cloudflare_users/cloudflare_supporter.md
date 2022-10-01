@@ -584,6 +584,7 @@ Do not create new issue or we will close it as duplicate.
 | [AndyNgu5@twitter](https://twitter.com/AndyNgu5/status/1553285625310478336) | advertise |
 | [AndyNguyen_9x@twitter](https://twitter.com/AndyNguyen_9x/status/1498588655061192708) | advertise |
 | [andy_burn5@twitter](https://twitter.com/andy_burn5/status/1505697779636604930) | advertise |
+| [anerroroccurs@twitter](https://twitter.com/anerroroccurs/status/1576127853514539008) | advertise |
 | [Angel64305780@twitter](https://twitter.com/Angel64305780/status/1390191404953997312) | advertise |
 | [AngelaSneed14@twitter](https://twitter.com/AngelaSneed14/status/1377523632595931143) | advertise |
 | [AngelinaBenacio@twitter](https://twitter.com/AngelinaBenacio/status/1539359466742751232) | advertise |
@@ -1712,6 +1713,7 @@ Do not create new issue or we will close it as duplicate.
 | [CLAUDEA40679398@twitter](https://twitter.com/CLAUDEA40679398/status/1539822458756284418) | advertise |
 | [ClayMuncher@twitter](https://twitter.com/ClayMuncher/status/1564492495039373313) | advertise |
 | [Cleverboy6881@twitter](https://twitter.com/Cleverboy6881/status/1393652406395670528) | advertise |
+| [clichy_malooks@twitter](https://twitter.com/clichy_malooks/status/1576137582680821760) | advertise |
 | [cliffElliott17@twitter](https://twitter.com/cliffElliott17/status/1392578227349213185) | advertise |
 | [CliffordAgius@twitter](https://twitter.com/CliffordAgius/status/1404391644540116992) | advertise |
 | [cliftonrone4@twitter](https://twitter.com/cliftonrone4/status/1542107339880222721) | advertise |
@@ -9374,6 +9376,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrungNguyen329@twitter](https://twitter.com/TrungNguyen329/status/1572580384206114817) | advertise |
 | [trungnhatt@twitter](https://twitter.com/trungnhatt/status/1393247850465697794) | advertise |
 | [trungtalee@twitter](https://twitter.com/trungtalee/status/1510951582237863939) | advertise |
+| [trungthuc86@twitter](https://twitter.com/trungthuc86/status/1576133134588203008) | advertise |
 | [TrungTinn2@twitter](https://twitter.com/TrungTinn2/status/1396435936490049540) | advertise |
 | [TrungVu97820946@twitter](https://twitter.com/TrungVu97820946/status/1514387383353229315) | advertise |
 | [TrunTru48885665@twitter](https://twitter.com/TrunTru48885665/status/1405518457458753536) | advertise |
