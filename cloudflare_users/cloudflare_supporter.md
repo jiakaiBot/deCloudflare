@@ -772,6 +772,7 @@ Do not create new issue or we will close it as duplicate.
 | [AsadAmer13@twitter](https://twitter.com/AsadAmer13/status/1396798484091707396) | advertise |
 | [Asadshahbaz1993@twitter](https://twitter.com/Asadshahbaz1993/status/1380767370411704320) | advertise |
 | [AsakzaiNaser@twitter](https://twitter.com/AsakzaiNaser/status/1386360634414178308) | advertise |
+| [ASD_jp@twitter](https://twitter.com/ASD_jp/status/1576210124296683522) | advertise |
 | [aseprohimat71@twitter](https://twitter.com/aseprohimat71/status/1469370558076751873) | advertise |
 | [AshaDevikumaw14@twitter](https://twitter.com/AshaDevikumaw14/status/1404302336420311040) | advertise |
 | [Ashaq37068397@twitter](https://twitter.com/Ashaq37068397/status/1392123955041820677) | advertise |
