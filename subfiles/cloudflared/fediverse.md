@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,913 |
-| net | 1,679 |
+| com | 2,914 |
+| net | 1,680 |
 | social | 1,185 |
 | org | 1,149 |
 | de | 1,012 |
@@ -4362,6 +4362,7 @@ Here's a list of public Fediverse services.
 | digineko.net | No |
 | digio.space | Yes |
 | digipres.club | No |
+| digital-justice.com | No |
 | digitalanyone.co.uk | No |
 | digitalassetinfo.net | No |
 | digitalcastle.me | No |
@@ -9926,7 +9927,6 @@ Here's a list of public Fediverse services.
 | lazyteddy.eu | No |
 | lbry.top | No |
 | lbry.world | Yes |
-| lc-hinanjo.tk | No |
 | lcavallaro.com | Yes |
 | lclsea.icu | No |
 | lcrprod.fr | No |
@@ -11553,6 +11553,7 @@ Here's a list of public Fediverse services.
 | meme.moe | No |
 | meme.technology | No |
 | memehub.eu | Yes |
+| mememagic.net | No |
 | mementomori.space | No |
 | memesouls.top | No |
 | memesskey.com | Yes |
@@ -13265,6 +13266,7 @@ Here's a list of public Fediverse services.
 | noisome.space | No |
 | noisydeadlines.net | No |
 | noisyspot.jp | No |
+| noiz.ie | No |
 | noize.guru | Yes |
 | noizycat.com | No |
 | nojob.jp | Yes |
@@ -21356,7 +21358,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,215 |
-| Normal | 17,097 |
+| Normal | 17,099 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
