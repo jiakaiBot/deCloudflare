@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,913 |
-| net | 1,678 |
+| net | 1,679 |
 | social | 1,185 |
 | org | 1,149 |
 | de | 1,012 |
@@ -2534,6 +2534,7 @@ Here's a list of public Fediverse services.
 | bw-toot.de | No |
 | bwnet.it | No |
 | byebye.party | Yes |
+| byemc.live | No |
 | bygg.land | No |
 | byl.fr | No |
 | byoblu.com | Yes |
@@ -6875,6 +6876,7 @@ Here's a list of public Fediverse services.
 | gluten.space | No |
 | glvr.io | No |
 | glx-consulting.com | No |
+| gly.one | No |
 | glyphicality.tk | No |
 | glyphpress.com | No |
 | gmajewski.xyz | No |
@@ -9591,6 +9593,7 @@ Here's a list of public Fediverse services.
 | koteitan.com | No |
 | koti.site | No |
 | kotiboksi.xyz | No |
+| kotikoff.net | No |
 | kotobank.ch | No |
 | kotonoha.cafe | Yes |
 | kottman.xyz | No |
@@ -16230,6 +16233,7 @@ Here's a list of public Fediverse services.
 | s7t.de | No |
 | saadnpq.com | No |
 | sabakan.industries | Yes |
+| sabatino.cloud | No |
 | sabatino.pro | No |
 | sabertooth.social | No |
 | sabordage.net | No |
@@ -18096,6 +18100,7 @@ Here's a list of public Fediverse services.
 | takumifan.club | No |
 | takumstdn.club | No |
 | takyoji.xyz | No |
+| takzetego.pl | Yes |
 | talajen.com | No |
 | talbothome.com | Yes |
 | tale.cafe | No |
@@ -21350,8 +21355,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,214 |
-| Normal | 17,093 |
+| Cloudflare | 4,215 |
+| Normal | 17,097 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
