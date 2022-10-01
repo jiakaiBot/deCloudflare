@@ -3466,6 +3466,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hun99330190@twitter](https://twitter.com/Hun99330190/status/1401523155382857734) | advertise |
 | [HunchoGotCxmp@twitter](https://twitter.com/HunchoGotCxmp/status/1575891722953191424) | advertise |
 | [HunerllZ@twitter](https://twitter.com/HunerllZ/status/1526255764813139968) | advertise |
+| [Hung040899@twitter](https://twitter.com/Hung040899/status/1576091807154569216) | advertise |
 | [Hung789666@twitter](https://twitter.com/Hung789666/status/1552762342525771777) | advertise |
 | [Hung52831637@twitter](https://twitter.com/Hung52831637/status/1399774938542665731) | advertise |
 | [HungDin89400275@twitter](https://twitter.com/HungDin89400275/status/1402315841178259469) | advertise |
@@ -4494,8 +4495,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -9104,6 +9105,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thuyein48859212@twitter](https://twitter.com/Thuyein48859212/status/1390310267112759296) | advertise |
 | [Thuyen87713172@twitter](https://twitter.com/Thuyen87713172/status/1497078331539288064) | advertise |
 | [thuyhoa87216582@twitter](https://twitter.com/thuyhoa87216582/status/1538531213446483970) | advertise |
+| [thuyvan_783@twitter](https://twitter.com/thuyvan_783/status/1576109484484988929) | advertise |
 | [ThuzarT00985996@twitter](https://twitter.com/ThuzarT00985996/status/1394809068502491137) | advertise |
 | [ThuZarW61704898@twitter](https://twitter.com/ThuZarW61704898/status/1390733792663412738) | advertise |
 | [thway_yin@twitter](https://twitter.com/thway_yin/status/1397078843416932362) | advertise |
