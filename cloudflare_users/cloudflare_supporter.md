@@ -2944,6 +2944,7 @@ Do not create new issue or we will close it as duplicate.
 | [Halil_D_@twitter](https://twitter.com/Halil_D_/status/1470702603227090946) | advertise |
 | [Halla27873117@twitter](https://twitter.com/Halla27873117/status/1471612949689159689) | advertise |
 | [HaLm70940155@twitter](https://twitter.com/HaLm70940155/status/1552459623919403008) | advertise |
+| [HalosTv@twitter](https://twitter.com/HalosTv/status/1576007459461689344) | advertise |
 | [halykun@twitter](https://twitter.com/halykun/status/1400355687041933314) | advertise |
 | [HamadStopqatar@twitter](https://twitter.com/HamadStopqatar/status/1552308856545501189) | advertise |
 | [HamdanMatNor18@twitter](https://twitter.com/HamdanMatNor18/status/1393666177692360705) | advertise |
