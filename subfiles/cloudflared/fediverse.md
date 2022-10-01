@@ -5630,6 +5630,7 @@ Here's a list of public Fediverse services.
 | fedi.rocks | No |
 | fedi.site | Yes |
 | fedi.space | No |
+| fedi.tax | No |
 | fedi.tech | No |
 | fedi.wien | No |
 | fedi.wtf | No |
@@ -5695,6 +5696,7 @@ Here's a list of public Fediverse services.
 | fediverse.pl | Yes |
 | fediverse.ru | No |
 | fediverse.services | Yes |
+| fediverse.town | No |
 | fediverse.tv | No |
 | fediverse.us | No |
 | fediversekey.com | Yes |
@@ -11071,6 +11073,7 @@ Here's a list of public Fediverse services.
 | masto.co | No |
 | masto.dn.ua | No |
 | masto.dog | No |
+| masto.gives | No |
 | masto.host | No |
 | masto.io | No |
 | masto.media | No |
@@ -15453,7 +15456,7 @@ Here's a list of public Fediverse services.
 | rabbit.country | No |
 | rabbit.tel | No |
 | rabbit.zone | No |
-| rabbithou.se | No |
+| rabbithou.se | Yes |
 | rabbitodon.work | No |
 | rabbits.supplies | No |
 | rabble.network | No |
@@ -21344,8 +21347,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,212 |
-| Normal | 17,089 |
+| Cloudflare | 4,213 |
+| Normal | 17,091 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
