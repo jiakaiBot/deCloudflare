@@ -3316,7 +3316,7 @@ Here's a list of public Fediverse services.
 | colorid.es | Yes |
 | colson.re | No |
 | colton.world | No |
-| com.de | No |
+| com.de | Yes |
 | comacero.com | No |
 | comam.es | No |
 | combatbahai.com | No |
@@ -4261,6 +4261,7 @@ Here's a list of public Fediverse services.
 | deutrino.net | No |
 | deuxfleurs.fr | No |
 | deuxmillesoixantedix.art | No |
+| dev-c.at | No |
 | dev-null.rocks | Yes |
 | dev-wiki.de | Yes |
 | dev.gy | No |
@@ -20715,7 +20716,7 @@ Here's a list of public Fediverse services.
 | xiaoyun.space | Yes |
 | xice.org | Yes |
 | xiii.ch | Yes |
-| xiling.site | No |
+| xiling.site | Yes |
 | xin.cat | No |
 | xindejiayuan.com | No |
 | xinghaizhandui.com | No |
@@ -21363,8 +21364,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,219 |
-| Normal | 17,101 |
+| Cloudflare | 4,221 |
+| Normal | 17,100 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
