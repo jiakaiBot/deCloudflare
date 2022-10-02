@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Blocked by reverse proxies](https://github.com/rozbb/readtomyshoe/issues/34)
 - [Remove non-functional sources](https://github.com/projectdiscovery/subfinder/issues/654)
 - [Please add Darkscans for extension](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13645)
 - [describing a simple v2ray deployment](https://github.com/InternetForIran/InternetForIran/issues/1)
