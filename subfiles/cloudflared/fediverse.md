@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,914 |
+| com | 2,915 |
 | net | 1,680 |
 | social | 1,185 |
-| org | 1,149 |
+| org | 1,150 |
 | de | 1,012 |
 
 
@@ -2109,6 +2109,7 @@ Here's a list of public Fediverse services.
 | bleepboop.club | No |
 | blender.org | No |
 | blep.cz | No |
+| blessedgeeks.com | No |
 | blessedgeeks.jp | No |
 | blessedgeeks.org | No |
 | blessedgeeks.social | No |
@@ -14507,6 +14508,7 @@ Here's a list of public Fediverse services.
 | phishermanswarf.com | No |
 | phiy.me | Yes |
 | phntm.site | No |
+| phocks.org | No |
 | phoebeivy.dev | Yes |
 | phoeni.xyz | No |
 | phoenix.cx | No |
@@ -18592,6 +18594,7 @@ Here's a list of public Fediverse services.
 | theru.org | No |
 | theru.xyz | No |
 | thesan.space | No |
+| thesea.men | Yes |
 | thesecretlair.org | No |
 | thesenate.cc | No |
 | theshadowrealm.party | No |
@@ -19024,6 +19027,7 @@ Here's a list of public Fediverse services.
 | toromino.de | Yes |
 | torontomusic.cloud | No |
 | torr.red | No |
+| torrenezzi10.xyz | No |
 | toscer.me | No |
 | toshipapi.tokyo | No |
 | totallylegit.site | No |
@@ -21357,8 +21361,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,215 |
-| Normal | 17,099 |
+| Cloudflare | 4,216 |
+| Normal | 17,102 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
