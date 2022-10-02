@@ -940,6 +940,7 @@ Here's a list of public Fediverse services.
 | andersen.social | No |
 | andersonstoolshed.com | No |
 | andie.club | No |
+| andlang.me | No |
 | andreaskilgus.de | No |
 | andreasrohner.at | No |
 | andresbilevich.com | No |
@@ -2347,6 +2348,7 @@ Here's a list of public Fediverse services.
 | brandonsjournal.com | No |
 | brantley.world | No |
 | brap.party | No |
+| brapbarn.farm | Yes |
 | brash.social | No |
 | brasileiros.social | Yes |
 | brass.host | Yes |
@@ -4181,7 +4183,7 @@ Here's a list of public Fediverse services.
 | demokratischer-sommer.de | No |
 | demon.army | No |
 | demon.care | No |
-| demon.party | No |
+| demon.party | Yes |
 | demon.social | No |
 | demon.tech | No |
 | demonic.moe | No |
@@ -6708,7 +6710,7 @@ Here's a list of public Fediverse services.
 | gerdemann.me | No |
 | gergo.city | No |
 | gerhardhoogterp.nl | No |
-| gerkenator.com | No |
+| gerkenator.com | Yes |
 | germanium.top | No |
 | gerontopilot.de | No |
 | gerotintin.com | No |
@@ -21361,8 +21363,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,216 |
-| Normal | 17,102 |
+| Cloudflare | 4,219 |
+| Normal | 17,101 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
