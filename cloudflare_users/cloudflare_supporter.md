@@ -4738,6 +4738,7 @@ Do not create new issue or we will close it as duplicate.
 | [kuraz@twitter](https://twitter.com/kuraz/status/1532354386483380224) | advertise |
 | [Kurda_tiktok@twitter](https://twitter.com/Kurda_tiktok/status/1502053221560430593) | advertise |
 | [kurniawanisme@twitter](https://twitter.com/kurniawanisme/status/1386629050039345152) | advertise |
+| [KurokoT24943351@twitter](https://twitter.com/KurokoT24943351/status/1576613224383803394) | advertise |
 | [Kushagr17800138@twitter](https://twitter.com/Kushagr17800138/status/1380192960269197324) | advertise |
 | [KutunMonarch@twitter](https://twitter.com/KutunMonarch/status/1507018408713670663) | advertise |
 | [Kuu87353487@twitter](https://twitter.com/Kuu87353487/status/1392737682652942344) | advertise |
@@ -5861,6 +5862,7 @@ Do not create new issue or we will close it as duplicate.
 | [MoeKoOo42849739@twitter](https://twitter.com/MoeKoOo42849739/status/1398116394059767808) | advertise |
 | [MoeKyaw66780913@twitter](https://twitter.com/MoeKyaw66780913/status/1397594245582704641) | advertise |
 | [Moelay48511925@twitter](https://twitter.com/Moelay48511925/status/1403655973764407296) | advertise |
+| [moeminthar1979@twitter](https://twitter.com/moeminthar1979/status/1576595826477961217) | advertise |
 | [Moemoe24394086@twitter](https://twitter.com/Moemoe24394086/status/1384880401995415555) | advertise |
 | [moeMoe99825705@twitter](https://twitter.com/moeMoe99825705/status/1391633145850601481) | advertise |
 | [MoeMyin27346154@twitter](https://twitter.com/MoeMyin27346154/status/1393631930944471049) | advertise |
@@ -9992,6 +9994,7 @@ Do not create new issue or we will close it as duplicate.
 | [XanhNai@twitter](https://twitter.com/XanhNai/status/1395198843956862977) | advertise |
 | [Xavi38789278@twitter](https://twitter.com/Xavi38789278/status/1534383777564196870) | advertise |
 | [XavierR11304483@twitter](https://twitter.com/XavierR11304483/status/1526014106511319042) | advertise |
+| [xavierwayy24@twitter](https://twitter.com/xavierwayy24/status/1576619284645654528) | advertise |
 | [xbdmHQ@twitter](https://twitter.com/xbdmHQ/status/1566811404144984064) | advertise |
 | [xbdm_@twitter](https://twitter.com/xbdm_/status/1471004561791987715) | advertise |
 | [xbiginfo@twitter](https://twitter.com/xbiginfo/status/1534249092406181893) | advertise |
