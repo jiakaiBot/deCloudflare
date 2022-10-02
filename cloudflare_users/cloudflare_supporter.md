@@ -2205,6 +2205,7 @@ Do not create new issue or we will close it as duplicate.
 | [doug_coyle@twitter](https://twitter.com/doug_coyle/status/1534279443727917056) | advertise |
 | [DoujinSak@twitter](https://twitter.com/DoujinSak/status/1392447418352865285) | advertise |
 | [DovahkiW@twitter](https://twitter.com/DovahkiW/status/1424625036007297024) | advertise |
+| [downbalan@twitter](https://twitter.com/downbalan/status/1576316332127420416) | advertise |
 | [downloadervide0@twitter](https://twitter.com/downloadervide0/status/1439647584012881920) | advertise |
 | [Doya48669093@twitter](https://twitter.com/Doya48669093/status/1396780661181190144) | advertise |
 | [dozen_of_love@twitter](https://twitter.com/dozen_of_love/status/1518761726728368128) | advertise |
@@ -3783,6 +3784,7 @@ Do not create new issue or we will close it as duplicate.
 | [iz3__0@twitter](https://twitter.com/iz3__0/status/1387606202457149440) | advertise |
 | [izaznordin@twitter](https://twitter.com/izaznordin/status/1531691892940738560) | advertise |
 | [izggbet@twitter](https://twitter.com/izggbet/status/1552646027483955200) | advertise |
+| [izzanzahinwho@twitter](https://twitter.com/izzanzahinwho/status/1576417610723622912) | advertise |
 | [IZZY08644619@twitter](https://twitter.com/IZZY08644619/status/1391758790807097348) | advertise |
 | [izzymhr@twitter](https://twitter.com/izzymhr/status/1556715063511519233) | advertise |
 | [I_AmmMmmR_@twitter](https://twitter.com/I_AmmMmmR_/status/1387297373798506498) | advertise |
@@ -4499,8 +4501,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7738,6 +7740,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rodritwm_@twitter](https://twitter.com/Rodritwm_/status/1540411404548800513) | advertise |
 | [rogeriotaques@twitter](https://twitter.com/rogeriotaques/status/1522109600128184321) | advertise |
 | [rogerluu18@twitter](https://twitter.com/rogerluu18/status/1475137433498832899) | advertise |
+| [rogerpersian@twitter](https://twitter.com/rogerpersian/status/1576409231393263616) | advertise |
 | [Rohith30089977@twitter](https://twitter.com/Rohith30089977/status/1382433419624288258) | advertise |
 | [Rohithaditya@twitter](https://twitter.com/Rohithaditya/status/1549724086170820609) | advertise |
 | [RohitJa86949782@twitter](https://twitter.com/RohitJa86949782/status/1385595206301470726) | advertise |
@@ -10475,6 +10478,7 @@ Do not create new issue or we will close it as duplicate.
 | [_CyberMaster@twitter](https://twitter.com/_CyberMaster/status/1555502381504368641) | advertise |
 | [_DepvaOTP_@twitter](https://twitter.com/_DepvaOTP_/status/1399004303788888067) | advertise |
 | [_htet1@twitter](https://twitter.com/_htet1/status/1390121428360433672) | advertise |
+| [_ishtiaquddin@twitter](https://twitter.com/_ishtiaquddin/status/1576323927806205953) | advertise |
 | [_IvanFlecha@twitter](https://twitter.com/_IvanFlecha/status/1507311637857980417) | advertise |
 | [_Jarvis_here@twitter](https://twitter.com/_Jarvis_here/status/1568301037265760256) | advertise |
 | [_kanybekov@twitter](https://twitter.com/_kanybekov/status/1534247054385549313) | advertise |
@@ -10485,6 +10489,7 @@ Do not create new issue or we will close it as duplicate.
 | [_M4nifest0_@twitter](https://twitter.com/_M4nifest0_/status/1395630834611281920) | advertise |
 | [_mayankkashyap@twitter](https://twitter.com/_mayankkashyap/status/1480531480484974597) | advertise |
 | [_mitradibakar@twitter](https://twitter.com/_mitradibakar/status/1470499348614205443) | advertise |
+| [_monu_10@twitter](https://twitter.com/_monu_10/status/1576398629052436480) | advertise |
 | [_myorin_@twitter](https://twitter.com/_myorin_/status/1402254526619348992) | advertise |
 | [_namu1224@twitter](https://twitter.com/_namu1224/status/1389877230029795329) | advertise |
 | [_Nirmal_S@twitter](https://twitter.com/_Nirmal_S/status/1436247489699401728) | advertise |
