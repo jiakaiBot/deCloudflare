@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Could not determine authoritative nameservers for \"_acme-challenge.XXX.com.](https://github.com/cert-manager/cert-manager/issues/5479)
 - [Blocked by reverse proxies](https://github.com/rozbb/readtomyshoe/issues/34)
 - [Remove non-functional sources](https://github.com/projectdiscovery/subfinder/issues/654)
 - [Please add Darkscans for extension](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13645)
