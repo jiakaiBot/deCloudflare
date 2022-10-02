@@ -6662,6 +6662,7 @@ Do not create new issue or we will close it as duplicate.
 | [nl840924@twitter](https://twitter.com/nl840924/status/1402307082548695041) | advertise |
 | [NLalrameng@twitter](https://twitter.com/NLalrameng/status/1391066385254584327) | advertise |
 | [nly461636@twitter](https://twitter.com/nly461636/status/1530720462514405376) | advertise |
+| [NMirbabaee@twitter](https://twitter.com/NMirbabaee/status/1576504574709755905) | advertise |
 | [Nmt79792355@twitter](https://twitter.com/Nmt79792355/status/1392876210544287744) | advertise |
 | [NnguyenUy@twitter](https://twitter.com/NnguyenUy/status/1389091092331597824) | advertise |
 | [NnmhBgoMy@twitter](https://twitter.com/NnmhBgoMy/status/1398200094818668546) | advertise |
@@ -8236,6 +8237,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shweyeeag1310@twitter](https://twitter.com/Shweyeeag1310/status/1393466562653278209) | advertise |
 | [ShweYi74476152@twitter](https://twitter.com/ShweYi74476152/status/1394896727472107523) | advertise |
 | [ShyZ97166261@twitter](https://twitter.com/ShyZ97166261/status/1377466338998853634) | advertise |
+| [siamak1989@twitter](https://twitter.com/siamak1989/status/1576508766203564032) | advertise |
 | [SiatIslam@twitter](https://twitter.com/SiatIslam/status/1491031974945116160) | advertise |
 | [Siawash38631169@twitter](https://twitter.com/Siawash38631169/status/1398424893822222337) | advertise |
 | [Sid88528306@twitter](https://twitter.com/Sid88528306/status/1398217281381961734) | advertise |
