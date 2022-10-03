@@ -5173,6 +5173,7 @@ Here's a list of public Fediverse services.
 | ennui.ws | No |
 | enovale.com | No |
 | enquequedo.org | No |
+| ensapn.ovh | No |
 | ensilib.re | No |
 | enss.cloud | Yes |
 | enst.fr | No |
@@ -7187,6 +7188,7 @@ Here's a list of public Fediverse services.
 | gulp.cafe | No |
 | gummipunkt.eu | No |
 | gumonji.live | No |
+| gundan.es | No |
 | gunfreezone.net | No |
 | gunju.de | No |
 | gunma.in | No |
@@ -7216,6 +7218,7 @@ Here's a list of public Fediverse services.
 | gza.jp | No |
 | gzevd.de | No |
 | h-da.de | No |
+| h-h.icu | Yes |
 | h-ka-iwi.de | No |
 | h-sozial.de | No |
 | h-sund.nu | No |
@@ -21364,8 +21367,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,221 |
-| Normal | 17,100 |
+| Cloudflare | 4,222 |
+| Normal | 17,102 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
