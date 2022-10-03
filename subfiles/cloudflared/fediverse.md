@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 2,915 |
 | net | 1,681 |
 | social | 1,185 |
-| org | 1,150 |
+| org | 1,151 |
 | de | 1,012 |
 
 
@@ -3027,7 +3027,7 @@ Here's a list of public Fediverse services.
 | chrisjones.io | No |
 | chriskthomas.com | Yes |
 | chrislesch.de | No |
-| chrislovett.com | No |
+| chrislovett.com | Yes |
 | chrismcallister.co.uk | No |
 | chrismcleod.dev | No |
 | christian-vogeley.de | No |
@@ -5930,6 +5930,7 @@ Here's a list of public Fediverse services.
 | flim.ml | No |
 | flimpie.net | No |
 | flintfam.org | No |
+| flippinflips.org | No |
 | flirtingwithnihilism.com | No |
 | flisol.com.br | No |
 | floatie.xyz | No |
@@ -15583,6 +15584,7 @@ Here's a list of public Fediverse services.
 | randna.me | Yes |
 | random.systems | No |
 | randombits.host | No |
+| randomchatss.xyz | No |
 | randomdrift.es | No |
 | randome.camp | No |
 | randomisland.ca | No |
@@ -16950,6 +16952,7 @@ Here's a list of public Fediverse services.
 | silat.cloud | No |
 | silba.me | No |
 | silence-project.org | No |
+| silence.horse | No |
 | silentfoof.rocks | No |
 | silicon.moe | Yes |
 | silkhe.art | Yes |
@@ -21370,8 +21373,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,224 |
-| Normal | 17,103 |
+| Cloudflare | 4,225 |
+| Normal | 17,105 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
