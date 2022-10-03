@@ -8693,6 +8693,7 @@ Do not create new issue or we will close it as duplicate.
 | [tanaruk20@twitter](https://twitter.com/tanaruk20/status/1552451708206600194) | advertise |
 | [tanbir1023@twitter](https://twitter.com/tanbir1023/status/1573021271671308288) | advertise |
 | [TAnh28750081@twitter](https://twitter.com/TAnh28750081/status/1394338740173115399) | advertise |
+| [tanqrfan1394@twitter](https://twitter.com/tanqrfan1394/status/1577039204088889344) | advertise |
 | [Tantai198@twitter](https://twitter.com/Tantai198/status/1494866367769550851) | advertise |
 | [tantan69330666@twitter](https://twitter.com/tantan69330666/status/1491684232070299651) | advertise |
 | [Tantogrape@twitter](https://twitter.com/Tantogrape/status/1549988819981971456) | advertise |
