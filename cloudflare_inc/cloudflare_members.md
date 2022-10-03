@@ -1208,6 +1208,7 @@ Or is this merely a case of simple modesty?
 | Mike Haddan | Support Tickets |  |
 | Mike Michon | Head of Data Engineering |  |
 | Mike Pool | Global Alliance Manager |  |
+| Mikey Sleevi | Employee | |
 | Millie Chan | Front End Engineer |  |
 | Mingwei Zhang | Employee | |
 | Ming Xue | Employee | |
