@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,915 |
-| net | 1,680 |
+| net | 1,681 |
 | social | 1,185 |
 | org | 1,150 |
 | de | 1,012 |
@@ -3006,6 +3006,7 @@ Here's a list of public Fediverse services.
 | chorok.cafe | No |
 | chorus-st.com | No |
 | chorus.space | No |
+| chosonclip.net | No |
 | chotchkies.club | Yes |
 | chotto.moe | No |
 | choucho.jp | No |
@@ -7241,7 +7242,7 @@ Here's a list of public Fediverse services.
 | haberer.me | No |
 | habets.dev | No |
 | habets.house | Yes |
-| hablo.cc | No |
+| hablo.cc | Yes |
 | hacc.media | Yes |
 | hacdias.com | Yes |
 | hachune.net | No |
@@ -9074,7 +9075,7 @@ Here's a list of public Fediverse services.
 | kalam.digital | Yes |
 | kalasarn.se | No |
 | kalebporter.club | No |
-| kaleido.moe | No |
+| kaleido.moe | Yes |
 | kalik.in | Yes |
 | kallelaine.com | Yes |
 | kalli.st | No |
@@ -21123,6 +21124,7 @@ Here's a list of public Fediverse services.
 | yuto-shin.net | No |
 | yutu.nl | Yes |
 | yuu26.com | No |
+| yuukosan.xyz | No |
 | yuustan.space | No |
 | yuv.pink | Yes |
 | yuwinet.com | No |
@@ -21181,6 +21183,7 @@ Here's a list of public Fediverse services.
 | zaremba.me | No |
 | zasha.style | No |
 | zat.im | No |
+| zatnosk.dk | No |
 | zatta.dev | No |
 | zb3.org | Yes |
 | zbeul.ist | No |
@@ -21367,8 +21370,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,222 |
-| Normal | 17,102 |
+| Cloudflare | 4,224 |
+| Normal | 17,103 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
