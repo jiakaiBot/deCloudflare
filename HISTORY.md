@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-07: [IST (Istanbul) on 2022-10-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/n04g1gg5tzn3)
 - 2022-10-05: [GRU (São Paulo) on 2022-10-05](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/p5292w3cf8jx)
 - 2022-10-05: [MSQ (Minsk) on 2022-10-05](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8zc1hr9wcsq9)
 - 2022-10-18: [JAX (Jacksonville) on 2022-10-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qnrqpqkdnl0n)
