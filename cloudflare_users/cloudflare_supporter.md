@@ -3255,6 +3255,7 @@ Do not create new issue or we will close it as duplicate.
 | [hoadt1412@twitter](https://twitter.com/hoadt1412/status/1376926261281353732) | advertise |
 | [HoaHoan58641948@twitter](https://twitter.com/HoaHoan58641948/status/1388431368137281540) | advertise |
 | [HoaiDuyHD@twitter](https://twitter.com/HoaiDuyHD/status/1394280447396311046) | advertise |
+| [HoaiRin@twitter](https://twitter.com/HoaiRin/status/1577293334053543937) | advertise |
 | [hoaldvn@twitter](https://twitter.com/hoaldvn/status/1552228786044710917) | advertise |
 | [Hoang06436295@twitter](https://twitter.com/Hoang06436295/status/1565371348699848704) | advertise |
 | [Hoang20057403@twitter](https://twitter.com/Hoang20057403/status/1401122093089976328) | advertise |
