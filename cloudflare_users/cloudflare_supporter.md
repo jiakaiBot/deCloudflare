@@ -2671,6 +2671,7 @@ Do not create new issue or we will close it as duplicate.
 | [fury67804656@twitter](https://twitter.com/fury67804656/status/1399012818767187969) | advertise |
 | [Furymdy@twitter](https://twitter.com/Furymdy/status/1380487672875999234) | advertise |
 | [fus1337@twitter](https://twitter.com/fus1337/status/1552694680676012033) | advertise |
+| [Fuso1860@twitter](https://twitter.com/Fuso1860/status/1577084743828447233) | advertise |
 | [FUTUREBIRD5@twitter](https://twitter.com/FUTUREBIRD5/status/1380072593953185792) | advertise |
 | [futureboss17@twitter](https://twitter.com/futureboss17/status/1377955125222772738) | advertise |
 | [fuvrkn@twitter](https://twitter.com/fuvrkn/status/1452251677625626636) | advertise |
