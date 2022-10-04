@@ -2207,6 +2207,7 @@ Here's a list of public Fediverse services.
 | boiling.space | No |
 | boilingcong.ee | Yes |
 | boing.world | No |
+| boingo00.wtf | Yes |
 | boiskokoro.club | No |
 | boisterous.community | No |
 | boitam.eu | No |
@@ -21377,7 +21378,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,229 |
+| Cloudflare | 4,230 |
 | Normal | 17,105 |
 
 
