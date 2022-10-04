@@ -46,6 +46,7 @@ Do not create new issue or we will close it as duplicate.
 | [08l739@twitter](https://twitter.com/08l739/status/1561689134648934400) | advertise |
 | [1CristalHeart@twitter](https://twitter.com/1CristalHeart/status/1473671613144920067) | advertise |
 | [1fRaSz22dPfUrsv@twitter](https://twitter.com/1fRaSz22dPfUrsv/status/1542540824759656451) | advertise |
+| [1gNmgWczBahf9Je@twitter](https://twitter.com/1gNmgWczBahf9Je/status/1577351663244951570) | advertise |
 | [1juxtaposition@twitter](https://twitter.com/1juxtaposition/status/1397618611083165697) | advertise |
 | [1KK4cfjGlKNknLy@twitter](https://twitter.com/1KK4cfjGlKNknLy/status/1378992221077168128) | advertise |
 | [1k_8u@twitter](https://twitter.com/1k_8u/status/1493703720193990662) | advertise |
@@ -436,6 +437,7 @@ Do not create new issue or we will close it as duplicate.
 | [Alex680885890@twitter](https://twitter.com/Alex680885890/status/1392545167828156421) | advertise |
 | [Alex718912862@twitter](https://twitter.com/Alex718912862/status/1400832088442425351) | advertise |
 | [AlexaCodes@twitter](https://twitter.com/AlexaCodes/status/1461281945833275394) | advertise |
+| [AlexAlzandani@twitter](https://twitter.com/AlexAlzandani/status/1577353823936565250) | advertise |
 | [ALEXAND07389780@twitter](https://twitter.com/ALEXAND07389780/status/1380908807614685187) | advertise |
 | [ALEXAND69307319@twitter](https://twitter.com/ALEXAND69307319/status/1380037455068471297) | advertise |
 | [alexbal@twitter](https://twitter.com/alexbal/status/1483283813492879363) | advertise |
@@ -1790,8 +1792,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -4749,6 +4751,7 @@ Do not create new issue or we will close it as duplicate.
 | [kuraz@twitter](https://twitter.com/kuraz/status/1532354386483380224) | advertise |
 | [Kurda_tiktok@twitter](https://twitter.com/Kurda_tiktok/status/1502053221560430593) | advertise |
 | [kurniawanisme@twitter](https://twitter.com/kurniawanisme/status/1386629050039345152) | advertise |
+| [kurohaise@twitter](https://twitter.com/kurohaise/status/1577348142919745536) | advertise |
 | [KurokoT24943351@twitter](https://twitter.com/KurokoT24943351/status/1576613224383803394) | advertise |
 | [Kushagr17800138@twitter](https://twitter.com/Kushagr17800138/status/1380192960269197324) | advertise |
 | [KutunMonarch@twitter](https://twitter.com/KutunMonarch/status/1507018408713670663) | advertise |
