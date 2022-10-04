@@ -1790,8 +1790,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -7402,6 +7402,7 @@ Do not create new issue or we will close it as duplicate.
 | [PubgKing5858@twitter](https://twitter.com/PubgKing5858/status/1387704039211769857) | advertise |
 | [Pubglovar16@twitter](https://twitter.com/Pubglovar16/status/1385165974412816384) | advertise |
 | [PubgmAfghanist1@twitter](https://twitter.com/PubgmAfghanist1/status/1535951408872230913) | advertise |
+| [PubgMdlinpubg1@twitter](https://twitter.com/PubgMdlinpubg1/status/1577250430593253377) | advertise |
 | [PubRicardo@twitter](https://twitter.com/PubRicardo/status/1398443571536146435) | advertise |
 | [Pucuk15146444@twitter](https://twitter.com/Pucuk15146444/status/1395245832069210115) | advertise |
 | [PUJIANTO@twitter](https://twitter.com/PUJIANTO/status/1442524922501160971) | advertise |
@@ -7956,6 +7957,7 @@ Do not create new issue or we will close it as duplicate.
 | [SAM18905293@twitter](https://twitter.com/SAM18905293/status/1549526126602633218) | advertise |
 | [Sam47778402@twitter](https://twitter.com/Sam47778402/status/1396123062047625221) | advertise |
 | [SAM75789745@twitter](https://twitter.com/SAM75789745/status/1568084712467431425) | advertise |
+| [saman136611@twitter](https://twitter.com/saman136611/status/1577256038935695362) | advertise |
 | [Sambhra31401620@twitter](https://twitter.com/Sambhra31401620/status/1496921994725511199) | advertise |
 | [SameerDangi9@twitter](https://twitter.com/SameerDangi9/status/1377450627631095808) | advertise |
 | [sameethossain02@twitter](https://twitter.com/sameethossain02/status/1540701673328463874) | advertise |
