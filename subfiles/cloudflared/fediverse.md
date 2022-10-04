@@ -1375,6 +1375,7 @@ Here's a list of public Fediverse services.
 | atico.ga | No |
 | atikoro.net | No |
 | atilla.im | No |
+| atiltedtree.dev | No |
 | atlanti.se | No |
 | atmx.ca | No |
 | atmy.haus | No |
@@ -2206,7 +2207,6 @@ Here's a list of public Fediverse services.
 | boiling.space | No |
 | boilingcong.ee | Yes |
 | boing.world | No |
-| boingo00.wtf | Yes |
 | boiskokoro.club | No |
 | boisterous.community | No |
 | boitam.eu | No |
@@ -18310,7 +18310,7 @@ Here's a list of public Fediverse services.
 | techtea.io | No |
 | techzerker.com | Yes |
 | teci.world | No |
-| teckl.xyz | No |
+| teckl.xyz | Yes |
 | tecklenbook.de | No |
 | tecnfy.com | No |
 | teddybeard.eu | No |
@@ -20766,7 +20766,7 @@ Here's a list of public Fediverse services.
 | xn--7s9hd.ws | No |
 | xn--80a0achj.xn--p1acf | No |
 | xn--80aa2ajy.xn--p1acf | No |
-| xn--80an2adaa.xn--p1ai | No |
+| xn--80an2adaa.xn--p1ai | Yes |
 | xn--931a.moe | Yes |
 | xn--99axc.xn--y9a3aq | No |
 | xn--9h5bn01a.net | No |
@@ -21377,8 +21377,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,228 |
-| Normal | 17,106 |
+| Cloudflare | 4,229 |
+| Normal | 17,105 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
