@@ -5264,6 +5264,7 @@ Do not create new issue or we will close it as duplicate.
 | [LuTrnc1@twitter](https://twitter.com/LuTrnc1/status/1475732098669748224) | advertise |
 | [Luuccifer2@twitter](https://twitter.com/Luuccifer2/status/1391463194040864773) | advertise |
 | [LuuNgeLay2@twitter](https://twitter.com/LuuNgeLay2/status/1391085994602942465) | advertise |
+| [luu_thien1@twitter](https://twitter.com/luu_thien1/status/1577150149368782855) | advertise |
 | [luvbendf@twitter](https://twitter.com/luvbendf/status/1552344073524355072) | advertise |
 | [LuX72073592@twitter](https://twitter.com/LuX72073592/status/1394999050533969925) | advertise |
 | [luxtranios@twitter](https://twitter.com/luxtranios/status/1492885173062418432) | advertise |
