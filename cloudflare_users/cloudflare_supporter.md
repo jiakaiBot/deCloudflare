@@ -9737,6 +9737,7 @@ Do not create new issue or we will close it as duplicate.
 | [VMinhd89477656@twitter](https://twitter.com/VMinhd89477656/status/1552697713204301825) | advertise |
 | [vmorriswyn@twitter](https://twitter.com/vmorriswyn/status/1384191315554889739) | advertise |
 | [Vn15227799@twitter](https://twitter.com/Vn15227799/status/1392391757225025538) | advertise |
+| [vn62133765@twitter](https://twitter.com/vn62133765/status/1577324562353901569) | advertise |
 | [Vng1Nht@twitter](https://twitter.com/Vng1Nht/status/1531109033708441600) | advertise |
 | [Vnhi73891454@twitter](https://twitter.com/Vnhi73891454/status/1553821417107767297) | advertise |
 | [VNhLinh5@twitter](https://twitter.com/VNhLinh5/status/1477522077796438016) | advertise |
