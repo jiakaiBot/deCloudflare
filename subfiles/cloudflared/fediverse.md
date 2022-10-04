@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,915 |
+| com | 2,916 |
 | net | 1,681 |
 | social | 1,185 |
 | org | 1,151 |
-| de | 1,012 |
+| de | 1,013 |
 
 
 - Mastodon, Pleroma, etc
@@ -4750,6 +4750,7 @@ Here's a list of public Fediverse services.
 | duckchat.me | No |
 | duckdns.org | No |
 | ducksareawesome.net | No |
+| ducnn.com | Yes |
 | dudebronation.com | No |
 | dudehabits.net | No |
 | dudenas.lt | No |
@@ -5670,6 +5671,7 @@ Here's a list of public Fediverse services.
 | fedipress.com | No |
 | fedisabled.de | No |
 | fedisabled.social | No |
+| fedisaur.us | No |
 | fediscience.org | No |
 | fediserve.de | No |
 | fedisnap.com | Yes |
@@ -9476,7 +9478,7 @@ Here's a list of public Fediverse services.
 | knotteye.cc | No |
 | knowbility.nl | No |
 | knowingart.com | No |
-| knowltonwx.com | No |
+| knowltonwx.com | Yes |
 | knoyism.net | No |
 | knubbel.me | No |
 | knusper-land.de | Yes |
@@ -19439,6 +19441,7 @@ Here's a list of public Fediverse services.
 | ubuntu.social | No |
 | ubuntuireland.com | No |
 | uc-netcorsoft.de | No |
+| uckermark-blog.de | No |
 | uckermark.social | No |
 | ucode.space | Yes |
 | ucy.de | No |
@@ -21373,8 +21376,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,225 |
-| Normal | 17,105 |
+| Cloudflare | 4,227 |
+| Normal | 17,106 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
