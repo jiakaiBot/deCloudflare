@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Pre-launch tasks: checklist](https://github.com/wagtail/guide/issues/100)
 - [fetchPositions() Error: TypeError: can only concatenate str (not "NoneType") to str](https://github.com/ccxt/ccxt/issues/15181)
 - [Weeb module is not working](https://github.com/pumpkin-py/pumpkin-fun/issues/86)
 - [QUESTION I just can't seem to get my multi-page setup to work](https://github.com/Lissy93/dashy/issues/929)
