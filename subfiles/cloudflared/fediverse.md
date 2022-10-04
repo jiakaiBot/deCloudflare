@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,916 |
+| com | 2,919 |
 | net | 1,681 |
 | social | 1,185 |
 | org | 1,151 |
-| de | 1,013 |
+| de | 1,014 |
 
 
 - Mastodon, Pleroma, etc
@@ -1913,6 +1913,7 @@ Here's a list of public Fediverse services.
 | biblewp.com | No |
 | biblewp.net | No |
 | bibliohack.org | No |
+| bibly.com | No |
 | bicyclemstdn.jp | No |
 | bida.im | No |
 | bidule.app | No |
@@ -3334,6 +3335,7 @@ Here's a list of public Fediverse services.
 | comfy.social | Yes |
 | comfyboy.club | Yes |
 | comfybyte.ga | No |
+| comfycamp.space | No |
 | comfysnug.space | No |
 | comics.town | No |
 | comicscamp.club | No |
@@ -4975,6 +4977,7 @@ Here's a list of public Fediverse services.
 | egroc.de | No |
 | eh5.me | Yes |
 | ehe.ovh | No |
+| ehendershott.com | No |
 | eher.com.br | No |
 | ehjovan.com | Yes |
 | ehret.me | No |
@@ -9677,6 +9680,7 @@ Here's a list of public Fediverse services.
 | kuba-orlik.name | No |
 | kuberegretes.com | No |
 | kudabiverse.com | No |
+| kudomaru.com | No |
 | kueckieben.de | No |
 | kuester7.com | No |
 | kuhs.me | Yes |
@@ -17758,6 +17762,7 @@ Here's a list of public Fediverse services.
 | streim.me | No |
 | streiter.io | No |
 | strelizia.net | No |
+| strengeralsstreng.de | No |
 | striker.host | No |
 | striker.net.eu.org | No |
 | stripedsocks.dev | No |
@@ -21379,7 +21384,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,230 |
-| Normal | 17,105 |
+| Normal | 17,110 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
