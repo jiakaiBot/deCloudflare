@@ -1793,8 +1793,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -6635,6 +6635,7 @@ Do not create new issue or we will close it as duplicate.
 | [nidusha6@twitter](https://twitter.com/nidusha6/status/1377278946945990661) | advertise |
 | [Nie90783223@twitter](https://twitter.com/Nie90783223/status/1390937939236966403) | advertise |
 | [Nievs2002@twitter](https://twitter.com/Nievs2002/status/1472551166030409731) | advertise |
+| [NiftalievRahman@twitter](https://twitter.com/NiftalievRahman/status/1577534526531698691) | advertise |
 | [Nightmar592837@twitter](https://twitter.com/Nightmar592837/status/1568195231287230464) | advertise |
 | [Nig_The_Alusha@twitter](https://twitter.com/Nig_The_Alusha/status/1381912137099005954) | advertise |
 | [nihonseimart@twitter](https://twitter.com/nihonseimart/status/1499690802015977475) | advertise |
