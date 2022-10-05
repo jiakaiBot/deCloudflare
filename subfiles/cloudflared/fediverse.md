@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,919 |
+| com | 2,921 |
 | net | 1,681 |
 | social | 1,185 |
 | org | 1,151 |
-| de | 1,014 |
+| de | 1,015 |
 
 
 - Mastodon, Pleroma, etc
@@ -4997,6 +4997,7 @@ Here's a list of public Fediverse services.
 | eigener.host | No |
 | eigenlab.org | No |
 | eigenmagic.net | Yes |
+| eighthstreetorchestra.com | No |
 | eihei.net | Yes |
 | eike-guenther.de | No |
 | ein-hub-von-vielen.de | No |
@@ -5457,6 +5458,7 @@ Here's a list of public Fediverse services.
 | facefeck.com | Yes |
 | facegirl.me | No |
 | faceless.company | No |
+| fachkraeftesicherer.de | No |
 | facil.services | No |
 | factsonthegroundshow.com | No |
 | fae.cafe | Yes |
@@ -7070,6 +7072,7 @@ Here's a list of public Fediverse services.
 | gravitas.cafe | No |
 | gravitasfree.zone | No |
 | gravure.club | No |
+| gray.cafe | No |
 | gray.party | No |
 | graypar.se | No |
 | grayrecord.com | Yes |
@@ -17082,6 +17085,7 @@ Here's a list of public Fediverse services.
 | skull.town | No |
 | skull.website | No |
 | skullb0x.io | No |
+| skullvines.xyz | No |
 | skunk.agency | No |
 | skweez.net | No |
 | sky-em.id.au | No |
@@ -19902,6 +19906,7 @@ Here's a list of public Fediverse services.
 | vestimento.fashion | No |
 | vettipechu.xyz | No |
 | vffsm.de | No |
+| vfpmedia.com | No |
 | vgai.de | No |
 | vger.cloud | No |
 | vhome.info | No |
@@ -21384,7 +21389,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,230 |
-| Normal | 17,110 |
+| Normal | 17,115 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
