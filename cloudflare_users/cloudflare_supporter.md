@@ -7054,6 +7054,7 @@ Do not create new issue or we will close it as duplicate.
 | [PDXStolenCar@twitter](https://twitter.com/PDXStolenCar/status/1557609975949668353) | advertise |
 | [peageruk@twitter](https://twitter.com/peageruk/status/1383275946296299520) | advertise |
 | [peaksilver1@twitter](https://twitter.com/peaksilver1/status/1552288607682981888) | advertise |
+| [peareza@twitter](https://twitter.com/peareza/status/1577504046822281218) | advertise |
 | [pearler15@twitter](https://twitter.com/pearler15/status/1500015969544155140) | advertise |
 | [peart_claudia@twitter](https://twitter.com/peart_claudia/status/1556322666767843329) | advertise |
 | [pedrogabrielrey@twitter](https://twitter.com/pedrogabrielrey/status/1530707619979186184) | advertise |
