@@ -5623,6 +5623,7 @@ Do not create new issue or we will close it as duplicate.
 | [MESA_BG@twitter](https://twitter.com/MESA_BG/status/1543335356032061440) | advertise |
 | [Mest42062509@twitter](https://twitter.com/Mest42062509/status/1392776692976951300) | advertise |
 | [metafetamarcio@twitter](https://twitter.com/metafetamarcio/status/1510468915306115082) | advertise |
+| [metimeister@twitter](https://twitter.com/metimeister/status/1577456031071977473) | advertise |
 | [metoporizo@twitter](https://twitter.com/metoporizo/status/1461211384482611201) | advertise |
 | [MetrotechsInc@twitter](https://twitter.com/MetrotechsInc/status/1570253772013592576) | advertise |
 | [meu2p@twitter](https://twitter.com/meu2p/status/1486055370800111618) | advertise |
@@ -8715,6 +8716,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tantogrape@twitter](https://twitter.com/Tantogrape/status/1549988819981971456) | advertise |
 | [TanyaBones@twitter](https://twitter.com/TanyaBones/status/1438527093273473036) | advertise |
 | [taraktungdung@twitter](https://twitter.com/taraktungdung/status/1397948304810418179) | advertise |
+| [tardcircus@twitter](https://twitter.com/tardcircus/status/1577460404682297344) | advertise |
 | [Tarek1337_@twitter](https://twitter.com/Tarek1337_/status/1560704403786563585) | advertise |
 | [Tarek69654012@twitter](https://twitter.com/Tarek69654012/status/1399075228454686720) | advertise |
 | [TarekAdra@twitter](https://twitter.com/TarekAdra/status/1382504134100811778) | advertise |
