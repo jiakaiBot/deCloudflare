@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't access SteamDB due to Cloudflare](https://github.com/SteamDatabase/steamdb.info-issues/issues/763)
 - [403 Forbidden Errors](https://github.com/Jeffchen54/KMP-Kemono-Downloader/issues/10)
 - [Find IPs behind CloudFlare or other tools](https://github.com/namnamir/domainia/issues/23)
 - [add censys.io for finding real ip](https://github.com/RhinoSecurityLabs/Security-Research/issues/8)
