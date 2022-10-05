@@ -10251,6 +10251,7 @@ Do not create new issue or we will close it as duplicate.
 | [YLay06809442@twitter](https://twitter.com/YLay06809442/status/1392878829312503808) | advertise |
 | [YmnsSatoshi@twitter](https://twitter.com/YmnsSatoshi/status/1547386705698639872) | advertise |
 | [YnBnh53625192@twitter](https://twitter.com/YnBnh53625192/status/1377619350748864517) | advertise |
+| [YNGGUNNA13@twitter](https://twitter.com/YNGGUNNA13/status/1577596765326508034) | advertise |
 | [ynhuongnguyen@twitter](https://twitter.com/ynhuongnguyen/status/1552945350675075074) | advertise |
 | [ynnhi54574877@twitter](https://twitter.com/ynnhi54574877/status/1393622696328531968) | advertise |
 | [YnwSup@twitter](https://twitter.com/YnwSup/status/1403618675697930241) | advertise |
