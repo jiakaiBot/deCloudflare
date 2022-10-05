@@ -12189,6 +12189,7 @@ Here's a list of public Fediverse services.
 | morikka.me | No |
 | moritoworks.com | Yes |
 | moritrunk.com | Yes |
+| moritz.me | No |
 | moritz.sh | No |
 | moritzmahringer.de | No |
 | moritzrudert.de | No |
@@ -21391,7 +21392,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,230 |
-| Normal | 17,117 |
+| Normal | 17,118 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
