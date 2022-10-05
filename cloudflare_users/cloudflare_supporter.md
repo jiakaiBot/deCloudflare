@@ -2754,6 +2754,7 @@ Do not create new issue or we will close it as duplicate.
 | [GeneralGosu@twitter](https://twitter.com/GeneralGosu/status/1387508776429780993) | advertise |
 | [Genius44697566@twitter](https://twitter.com/Genius44697566/status/1389792896690253824) | advertise |
 | [GeoffreyKP@twitter](https://twitter.com/GeoffreyKP/status/1575951853132873728) | advertise |
+| [geojiny2@twitter](https://twitter.com/geojiny2/status/1577685803979145216) | advertise |
 | [geolffrey_mena@twitter](https://twitter.com/geolffrey_mena/status/1462463345290797060) | advertise |
 | [georgegijo@twitter](https://twitter.com/georgegijo/status/1389736443904331778) | advertise |
 | [GeorgeMichaelH7@twitter](https://twitter.com/GeorgeMichaelH7/status/1551655020944318469) | advertise |
@@ -5061,6 +5062,7 @@ Do not create new issue or we will close it as duplicate.
 | [lil33volt@twitter](https://twitter.com/lil33volt/status/1387519800742658048) | advertise |
 | [lildrip34202595@twitter](https://twitter.com/lildrip34202595/status/1547291257529147393) | advertise |
 | [Lillii412@twitter](https://twitter.com/Lillii412/status/1395707127176458243) | advertise |
+| [lilMonst4@twitter](https://twitter.com/lilMonst4/status/1577680492257755139) | advertise |
 | [LiLy19600218@twitter](https://twitter.com/LiLy19600218/status/1394904381653356544) | advertise |
 | [LimHtar@twitter](https://twitter.com/LimHtar/status/1379706457453555712) | advertise |
 | [Lin123He@twitter](https://twitter.com/Lin123He/status/1394868986932654080) | advertise |
