@@ -7261,6 +7261,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pipi14325830@twitter](https://twitter.com/Pipi14325830/status/1384741647187992580) | advertise |
 | [pipimkt@twitter](https://twitter.com/pipimkt/status/1552021822321086464) | advertise |
 | [PirrEnot@twitter](https://twitter.com/PirrEnot/status/1528501311674716162) | advertise |
+| [PishouV@twitter](https://twitter.com/PishouV/status/1577489311074844673) | advertise |
 | [pislisSniflis@twitter](https://twitter.com/pislisSniflis/status/1571786956195115009) | advertise |
 | [Pitokk2@twitter](https://twitter.com/Pitokk2/status/1386209860484669442) | advertise |
 | [Pixel_CC@twitter](https://twitter.com/Pixel_CC/status/1388533567962058755) | advertise |
