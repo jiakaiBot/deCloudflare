@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,921 |
-| net | 1,681 |
+| com | 2,922 |
+| net | 1,682 |
 | social | 1,185 |
-| org | 1,151 |
-| de | 1,015 |
+| org | 1,152 |
+| de | 1,018 |
 
 
 - Mastodon, Pleroma, etc
@@ -1758,6 +1758,7 @@ Here's a list of public Fediverse services.
 | bearygoosey.com | No |
 | beastnet.works | No |
 | beatrice.wtf | No |
+| beatty.family | No |
 | beautrait.com | No |
 | becabeca.eu | No |
 | becauseofprog.fr | No |
@@ -2371,6 +2372,7 @@ Here's a list of public Fediverse services.
 | breadtube.tv | No |
 | brechanegra.net | No |
 | breeze.town | No |
+| breezy.cyou | No |
 | breizh.me | Yes |
 | breizh.pm | No |
 | bremen.social | No |
@@ -4828,6 +4830,7 @@ Here's a list of public Fediverse services.
 | dystopian-orbis.de | No |
 | dystopian.fun | No |
 | dystopian.space | No |
+| dytube.com | No |
 | dz4k.com | No |
 | dzek.ru | No |
 | dzerom.space | No |
@@ -5573,7 +5576,7 @@ Here's a list of public Fediverse services.
 | favdon.com | No |
 | favela.world | No |
 | favrep.ch | No |
-| fawx.news | No |
+| fawx.news | Yes |
 | fayne.me | No |
 | fbender.de | No |
 | fbi.pm | Yes |
@@ -7460,6 +7463,7 @@ Here's a list of public Fediverse services.
 | hckr.no | No |
 | hcxp.co | No |
 | hdez.nl | No |
+| headcannon.xyz | Yes |
 | headcrack.cf | No |
 | headmat.es | No |
 | headpat.moe | No |
@@ -10067,6 +10071,7 @@ Here's a list of public Fediverse services.
 | lerelaisdupatriote.fr | No |
 | lerk.io | Yes |
 | lermer.nl | No |
+| lerngern.net | Yes |
 | lernglobal.network | No |
 | lernortdigital.de | No |
 | lernsachen.online | No |
@@ -10976,6 +10981,7 @@ Here's a list of public Fediverse services.
 | mapsupport.club | Yes |
 | maquinaslibres.tk | No |
 | maravitti.fr | No |
+| marbleck.eu | Yes |
 | marcg.pizza | No |
 | marcgoertz.de | No |
 | march42.net | No |
@@ -14519,6 +14525,7 @@ Here's a list of public Fediverse services.
 | philcrockett.com | No |
 | philgeld.ch | No |
 | philho.de | No |
+| philia.work | Yes |
 | philipcristiano.com | Yes |
 | philipp-rosch.de | No |
 | philipp.info | No |
@@ -17141,6 +17148,7 @@ Here's a list of public Fediverse services.
 | sloths.club | Yes |
 | slothy.win | Yes |
 | slovak.digital | No |
+| slowblog.de | No |
 | slowbrain.net | No |
 | slowest.network | Yes |
 | slownewsdayshow.com | No |
@@ -19202,6 +19210,7 @@ Here's a list of public Fediverse services.
 | troll.tv | No |
 | troll.university | No |
 | trollian.space | No |
+| trollskog.de | No |
 | trom.lt | No |
 | trom.tf | No |
 | tromdienste.de | No |
@@ -19845,6 +19854,7 @@ Here's a list of public Fediverse services.
 | vbz.net | No |
 | vcity.de | No |
 | vcity.network | No |
+| vda-group.de | No |
 | vdna.be | No |
 | vecna.xyz | No |
 | vector.social | No |
@@ -21301,6 +21311,7 @@ Here's a list of public Fediverse services.
 | ziuri.me | Yes |
 | zivitas.info | No |
 | zj.ms | Yes |
+| zknt.org | No |
 | zlatko.dev | No |
 | zld.red | No |
 | zlg.space | No |
@@ -21391,8 +21402,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,230 |
-| Normal | 17,118 |
+| Cloudflare | 4,235 |
+| Normal | 17,124 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
