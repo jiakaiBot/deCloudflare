@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-07: [MEL (Melbourne) on 2022-10-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5pw600gz8xm3)
 - 2022-10-06: [KIX (Osaka) on 2022-10-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0lk0w89z8jbn)
 - 2022-10-12: [GIG (Rio de Janeiro) on 2022-10-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3rt51b9n4llv)
 - 2022-10-06: [BLR (Bangalore) on 2022-10-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gqfcc0j7d3z8)
