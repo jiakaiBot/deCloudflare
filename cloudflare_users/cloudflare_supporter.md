@@ -2736,6 +2736,7 @@ Do not create new issue or we will close it as duplicate.
 | [GarywMonoch@twitter](https://twitter.com/GarywMonoch/status/1573172912261337088) | advertise |
 | [gasbrbn@twitter](https://twitter.com/gasbrbn/status/1555948590492635137) | advertise |
 | [gatito9420@twitter](https://twitter.com/gatito9420/status/1573395463965143041) | advertise |
+| [gatoflood@twitter](https://twitter.com/gatoflood/status/1577675897657856000) | advertise |
 | [Gaurav33875221@twitter](https://twitter.com/Gaurav33875221/status/1387072373430521865) | advertise |
 | [gaurav52977211@twitter](https://twitter.com/gaurav52977211/status/1504490723571347457) | advertise |
 | [Gaurav___P@twitter](https://twitter.com/Gaurav___P/status/1389646942062321666) | advertise |
@@ -4523,8 +4524,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8643,6 +8644,7 @@ Do not create new issue or we will close it as duplicate.
 | [SuYatiAung3@twitter](https://twitter.com/SuYatiAung3/status/1400420448962105350) | advertise |
 | [suzakar@twitter](https://twitter.com/suzakar/status/1397847710045196291) | advertise |
 | [suzume_janai@twitter](https://twitter.com/suzume_janai/status/1402257716974919688) | advertise |
+| [SuzuTomo2001@twitter](https://twitter.com/SuzuTomo2001/status/1577679736121458688) | advertise |
 | [su_ndrhlaing@twitter](https://twitter.com/su_ndrhlaing/status/1399618984626905088) | advertise |
 | [Svvvvyi@twitter](https://twitter.com/Svvvvyi/status/1383555195305484292) | advertise |
 | [Swag124455@twitter](https://twitter.com/Swag124455/status/1397945567238627332) | advertise |
