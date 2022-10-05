@@ -21063,6 +21063,7 @@ Here's a list of public Fediverse services.
 | youdabomb.social | No |
 | youdeserve.space | No |
 | youdieifyou.work | No |
+| youfoh.xyz | No |
 | youhavewrites.social | No |
 | youjo.love | No |
 | youkai.town | No |
@@ -21389,7 +21390,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,230 |
-| Normal | 17,115 |
+| Normal | 17,116 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
