@@ -2925,6 +2925,7 @@ Here's a list of public Fediverse services.
 | cheerful.social | No |
 | cheesebsd.com | No |
 | cheeseburger.social | No |
+| cheeseland.xyz | No |
 | cheesepark.io | No |
 | cheetah85.ovh | No |
 | chef-li.eu | No |
@@ -12964,7 +12965,7 @@ Here's a list of public Fediverse services.
 | netheredge.com | No |
 | nethole.us | No |
 | netlib.re | No |
-| netlify.app | No |
+| netlify.app | Yes |
 | netlify.com | Yes |
 | netlord.de | No |
 | netooze.com | Yes |
@@ -21402,7 +21403,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,235 |
+| Cloudflare | 4,236 |
 | Normal | 17,124 |
 
 
