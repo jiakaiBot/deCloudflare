@@ -3641,6 +3641,7 @@ Do not create new issue or we will close it as duplicate.
 | [ihatevista@twitter](https://twitter.com/ihatevista/status/1389214706674634754) | advertise |
 | [iheartkurt_@twitter](https://twitter.com/iheartkurt_/status/1468209755705704450) | advertise |
 | [iibhjkk@twitter](https://twitter.com/iibhjkk/status/1505910988712800256) | advertise |
+| [iiiceburg@twitter](https://twitter.com/iiiceburg/status/1577628376386658305) | advertise |
 | [iiimran_@twitter](https://twitter.com/iiimran_/status/1445321399476887553) | advertise |
 | [IilxviA@twitter](https://twitter.com/IilxviA/status/1503980217781694464) | advertise |
 | [iimmbiz@twitter](https://twitter.com/iimmbiz/status/1533158838563655681) | advertise |
@@ -6332,6 +6333,7 @@ Do not create new issue or we will close it as duplicate.
 | [naveen42998679@twitter](https://twitter.com/naveen42998679/status/1381937461345939461) | advertise |
 | [Naveen92763413@twitter](https://twitter.com/Naveen92763413/status/1390279421551005703) | advertise |
 | [navi03310359@twitter](https://twitter.com/navi03310359/status/1389013302387175424) | advertise |
+| [NavidAsadi19@twitter](https://twitter.com/NavidAsadi19/status/1577628494464372737) | advertise |
 | [navidr278@twitter](https://twitter.com/navidr278/status/1486214003441512448) | advertise |
 | [Navnath22377070@twitter](https://twitter.com/Navnath22377070/status/1379500987321184257) | advertise |
 | [Navylover07@twitter](https://twitter.com/Navylover07/status/1511182368102838272) | advertise |
@@ -6939,6 +6941,7 @@ Do not create new issue or we will close it as duplicate.
 | [osako88@twitter](https://twitter.com/osako88/status/1564289077243002880) | advertise |
 | [osamaaly90@twitter](https://twitter.com/osamaaly90/status/1405389818499158017) | advertise |
 | [Osamavp88@twitter](https://twitter.com/Osamavp88/status/1553648608183869441) | advertise |
+| [osaray_@twitter](https://twitter.com/osaray_/status/1577621931892809728) | advertise |
 | [oscarkm@twitter](https://twitter.com/oscarkm/status/1392306941628542978) | advertise |
 | [OscarShih@twitter](https://twitter.com/OscarShih/status/1399771088561659910) | advertise |
 | [oscie57@twitter](https://twitter.com/oscie57/status/1482813140224069634) | advertise |
