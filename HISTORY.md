@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-05: [AMS (Amsterdam) on 2022-10-05](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6wm6dh1zf4qq)
 - 2022-10-13: [MRS (Marseille) on 2022-10-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gbszfrx5m90l)
 - 2022-10-11: [ARN (Stockholm) on 2022-10-11](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/h0nnclkdgf1t)
 - 2022-10-04: [BLR (Bangalore) on 2022-10-04](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9ncgnzqkb6yw)
