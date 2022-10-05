@@ -258,6 +258,7 @@ Here's a list of public Fediverse services.
 | 448c.net | No |
 | 44con.com | No |
 | 45bis.cc | No |
+| 465789.xyz | No |
 | 481516.xyz | Yes |
 | 48645.tk | No |
 | 48bin.net | No |
@@ -21390,7 +21391,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,230 |
-| Normal | 17,116 |
+| Normal | 17,117 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
