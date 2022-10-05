@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [403 Forbidden Errors](https://github.com/Jeffchen54/KMP-Kemono-Downloader/issues/10)
 - [Find IPs behind CloudFlare or other tools](https://github.com/namnamir/domainia/issues/23)
 - [add censys.io for finding real ip](https://github.com/RhinoSecurityLabs/Security-Research/issues/8)
 - [Pre-launch tasks: checklist](https://github.com/wagtail/guide/issues/100)
