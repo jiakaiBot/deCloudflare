@@ -2558,6 +2558,7 @@ Do not create new issue or we will close it as duplicate.
 | [FarhanAacin@twitter](https://twitter.com/FarhanAacin/status/1379323075624202240) | advertise |
 | [Farhatasli@twitter](https://twitter.com/Farhatasli/status/1569995471455936512) | advertise |
 | [fariborzn1@twitter](https://twitter.com/fariborzn1/status/1391848602469814272) | advertise |
+| [fariel0612@twitter](https://twitter.com/fariel0612/status/1577799553520381952) | advertise |
 | [farithaidil75@twitter](https://twitter.com/farithaidil75/status/1395571970440253440) | advertise |
 | [farooq_dmj@twitter](https://twitter.com/farooq_dmj/status/1471859023389630468) | advertise |
 | [farooq_furkhan@twitter](https://twitter.com/farooq_furkhan/status/1406526860792455169) | advertise |
