@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 2,922 |
-| net | 1,682 |
-| social | 1,185 |
+| net | 1,683 |
+| social | 1,186 |
 | org | 1,152 |
 | de | 1,018 |
 
@@ -4003,6 +4003,7 @@ Here's a list of public Fediverse services.
 | dasasozialenetzwerk.de | Yes |
 | dasbrennen.org | No |
 | dasgelobteland.art | Yes |
+| dashall.net | No |
 | dashten.dev | No |
 | dashtube.org | No |
 | dashuo.org | Yes |
@@ -6325,6 +6326,7 @@ Here's a list of public Fediverse services.
 | fslhome.org | No |
 | fsmi.social | Yes |
 | fsoc.lol | No |
+| fsociety.social | No |
 | fsphub.org | No |
 | ftb.moe | No |
 | ftdrd.xyz | Yes |
@@ -6873,6 +6875,7 @@ Here's a list of public Fediverse services.
 | glittersluts.club | No |
 | glittersluts.xyz | No |
 | glitterwillowforest.xyz | No |
+| gllmr.fr | No |
 | globalfrens.com | Yes |
 | globally.social | No |
 | globalpirates.net | No |
@@ -18090,6 +18093,7 @@ Here's a list of public Fediverse services.
 | tabletop.press | No |
 | tabletop.social | No |
 | tabletop.vip | No |
+| tabletoptavern.online | No |
 | taborsky.cz | No |
 | taboulisme.com | No |
 | tacam.social | No |
@@ -21404,7 +21408,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,236 |
-| Normal | 17,124 |
+| Normal | 17,128 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
