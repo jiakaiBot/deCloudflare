@@ -739,6 +739,7 @@ Do not create new issue or we will close it as duplicate.
 | [armanjb1@twitter](https://twitter.com/armanjb1/status/1405385667811561475) | advertise |
 | [arman_mhmdzh@twitter](https://twitter.com/arman_mhmdzh/status/1573635705221308418) | advertise |
 | [ArMe69697866@twitter](https://twitter.com/ArMe69697866/status/1376913334377791492) | advertise |
+| [armemon12143277@twitter](https://twitter.com/armemon12143277/status/1577995890073423877) | advertise |
 | [armininjast@twitter](https://twitter.com/armininjast/status/1378059899234619401) | advertise |
 | [ArmyFlyMonkeys@twitter](https://twitter.com/ArmyFlyMonkeys/status/1407456688458801152) | advertise |
 | [ARMYYoli1@twitter](https://twitter.com/ARMYYoli1/status/1392900232736776197) | advertise |
