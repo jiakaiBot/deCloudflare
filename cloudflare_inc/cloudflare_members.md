@@ -1487,6 +1487,7 @@ Or is this merely a case of simple modesty?
 | Ryan Knight | Community | https://twitter.com/Yank<br>https://freebaxter.com/<br>ryank@cloudflare.com |
 | Ryan Lackey | Product Engineer |  |
 | Ryan Morse | Account Executive |  |
+| Ryan Schachte | Employee | |
 | Ryan Timken | Employee |  |
 | Ryan Timkin | Systems Reliability Engineer |  |
 | Ryan Tyrrell | Security and Performance |  |
@@ -1527,6 +1528,7 @@ Or is this merely a case of simple modesty?
 | Sean Thompson | Account Executive |  |
 | Sebastian Benz | Employee |  |
 | Sebastian McKenzie | JavaScript Engineer |  |
+| Selam Negatu | Employee | |
 | Selina Cho | Employee |  |
 | Serena Satyasai | Marketing Lead |  |
 | Sergey Nuzhdin | Data Engineer |  |
