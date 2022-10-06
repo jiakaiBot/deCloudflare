@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-07: [IAD (Ashburn) on 2022-10-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f0cw1hcx1k6x)
 - 2022-10-12: [MRS (Marseille) on 2022-10-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jzy37q98j649)
 - 2022-10-19: [MRS (Marseille) on 2022-10-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cg2bh74rym2n)
 - 2022-10-18: [MRS (Marseille) on 2022-10-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lvh96stkv2zl)
