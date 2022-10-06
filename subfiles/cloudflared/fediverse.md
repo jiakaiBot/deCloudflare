@@ -7764,6 +7764,7 @@ Here's a list of public Fediverse services.
 | hokutodon.co | No |
 | hokutodon.com | No |
 | holdmybeer.solutions | Yes |
+| holdtai.tw | No |
 | holeliquors.com | No |
 | holenet.services | No |
 | holger.net.cn | Yes |
@@ -21408,7 +21409,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,236 |
-| Normal | 17,128 |
+| Normal | 17,129 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
