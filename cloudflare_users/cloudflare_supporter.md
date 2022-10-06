@@ -1157,6 +1157,7 @@ Do not create new issue or we will close it as duplicate.
 | [BasavarajShaha4@twitter](https://twitter.com/BasavarajShaha4/status/1392060094108504067) | advertise |
 | [BashaBa71391325@twitter](https://twitter.com/BashaBa71391325/status/1384809106226106371) | advertise |
 | [basiconess@twitter](https://twitter.com/basiconess/status/1501542754723450887) | advertise |
+| [BasiriShahla@twitter](https://twitter.com/BasiriShahla/status/1578136198115078144) | advertise |
 | [Basix1120@twitter](https://twitter.com/Basix1120/status/1444317697794142211) | advertise |
 | [basra_rests@twitter](https://twitter.com/basra_rests/status/1392994649862774784) | advertise |
 | [Basuki_null@twitter](https://twitter.com/Basuki_null/status/1394215228364115970) | advertise |
@@ -2668,6 +2669,7 @@ Do not create new issue or we will close it as duplicate.
 | [freak_bharath@twitter](https://twitter.com/freak_bharath/status/1398311217605738496) | advertise |
 | [FreddyKaung@twitter](https://twitter.com/FreddyKaung/status/1396197482086813701) | advertise |
 | [freddyschre@twitter](https://twitter.com/freddyschre/status/1501565599746596867) | advertise |
+| [Freedoiscan@twitter](https://twitter.com/Freedoiscan/status/1578135311263371267) | advertise |
 | [freehawk@twitter](https://twitter.com/freehawk/status/1383933154059190273) | advertise |
 | [freelancemehmet@twitter](https://twitter.com/freelancemehmet/status/1539330723848536064) | advertise |
 | [freemcservernet@twitter](https://twitter.com/freemcservernet/status/1447640173626413064) | advertise |
@@ -4550,8 +4552,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
