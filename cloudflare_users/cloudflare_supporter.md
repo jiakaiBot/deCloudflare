@@ -8831,6 +8831,7 @@ Do not create new issue or we will close it as duplicate.
 | [TensingNightco@twitter](https://twitter.com/TensingNightco/status/1378194588838424582) | advertise |
 | [tenzyumasuda@twitter](https://twitter.com/tenzyumasuda/status/1468236764355641346) | advertise |
 | [TeresePoling611@twitter](https://twitter.com/TeresePoling611/status/1473044204804886530) | advertise |
+| [TERPAK7@twitter](https://twitter.com/TERPAK7/status/1578013119615569920) | advertise |
 | [TerrickLoren@twitter](https://twitter.com/TerrickLoren/status/1569206845163839489) | advertise |
 | [TersakitiNep@twitter](https://twitter.com/TersakitiNep/status/1493721965885988867) | advertise |
 | [tertawalepas_@twitter](https://twitter.com/tertawalepas_/status/1552319664797421568) | advertise |
