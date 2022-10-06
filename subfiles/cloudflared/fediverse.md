@@ -14348,6 +14348,7 @@ Here's a list of public Fediverse services.
 | pcsfield.com | No |
 | pcwideopen.com | No |
 | pcwizards.nl | No |
+| pcworms.ir | No |
 | pdbq.us | Yes |
 | pdgn.co | Yes |
 | pdx.social | No |
@@ -21418,7 +21419,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,238 |
-| Normal | 17,136 |
+| Normal | 17,137 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
