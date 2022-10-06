@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [2.2.9 frameId not supported RemoteAgentError](https://github.com/FlareSolverr/FlareSolverr/issues/536)
 - [Can't access SteamDB due to Cloudflare](https://github.com/SteamDatabase/steamdb.info-issues/issues/763)
 - [403 Forbidden Errors](https://github.com/Jeffchen54/KMP-Kemono-Downloader/issues/10)
 - [Find IPs behind CloudFlare or other tools](https://github.com/namnamir/domainia/issues/23)
