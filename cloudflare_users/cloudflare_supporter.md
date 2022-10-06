@@ -1438,6 +1438,7 @@ Do not create new issue or we will close it as duplicate.
 | [Brownboi777@twitter](https://twitter.com/Brownboi777/status/1397100254122561536) | advertise |
 | [Bruce17288015@twitter](https://twitter.com/Bruce17288015/status/1390644008020418560) | advertise |
 | [Bruce26504010@twitter](https://twitter.com/Bruce26504010/status/1390251989444009991) | advertise |
+| [BruceBrainerd@twitter](https://twitter.com/BruceBrainerd/status/1577829837514764288) | advertise |
 | [bruhwtfbtch@twitter](https://twitter.com/bruhwtfbtch/status/1485627174267015168) | advertise |
 | [BruzeWaynezz@twitter](https://twitter.com/BruzeWaynezz/status/1388147989043027968) | advertise |
 | [BryanKoome@twitter](https://twitter.com/BryanKoome/status/1385253754275082243) | advertise |
