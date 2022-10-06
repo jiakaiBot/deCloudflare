@@ -2477,6 +2477,7 @@ Do not create new issue or we will close it as duplicate.
 | [enttminmaung1@twitter](https://twitter.com/enttminmaung1/status/1390087674204094464) | advertise |
 | [eosvn@twitter](https://twitter.com/eosvn/status/1420285303550402795) | advertise |
 | [ephraimjohn@twitter](https://twitter.com/ephraimjohn/status/1405409670395797512) | advertise |
+| [EpiccIm@twitter](https://twitter.com/EpiccIm/status/1577936441060966401) | advertise |
 | [Eren41747723@twitter](https://twitter.com/Eren41747723/status/1389218655712448512) | advertise |
 | [ererernest@twitter](https://twitter.com/ererernest/status/1402204151765889025) | advertise |
 | [Ericduo19201253@twitter](https://twitter.com/Ericduo19201253/status/1397342285428232194) | advertise |
@@ -7045,6 +7046,7 @@ Do not create new issue or we will close it as duplicate.
 | [PARTHIBMONDAL11@twitter](https://twitter.com/PARTHIBMONDAL11/status/1389065445047775234) | advertise |
 | [PasanLaksitha@twitter](https://twitter.com/PasanLaksitha/status/1379474666767572994) | advertise |
 | [pastorray620@twitter](https://twitter.com/pastorray620/status/1481759595219628038) | advertise |
+| [Patati20@twitter](https://twitter.com/Patati20/status/1577924979663912960) | advertise |
 | [patchrowcester@twitter](https://twitter.com/patchrowcester/status/1534210752780898307) | advertise |
 | [PATELANAS1998@twitter](https://twitter.com/PATELANAS1998/status/1379706213877784576) | advertise |
 | [PatelPrayesha@twitter](https://twitter.com/PatelPrayesha/status/1563332173872398336) | advertise |
