@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-11: [ICN (Seoul) on 2022-10-11](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q9qs4bnlqv6d)
+- 2022-10-06: [Cloudflare Waiting Room - increase in Network connection Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5crqx4ztkyhy)
 - 2022-10-13: [EWR (Newark) on 2022-10-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/43z8s2g151qq)
 - 2022-10-07: [IAD (Ashburn) on 2022-10-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f0cw1hcx1k6x)
 - 2022-10-12: [MRS (Marseille) on 2022-10-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jzy37q98j649)
