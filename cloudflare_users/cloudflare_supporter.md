@@ -4327,6 +4327,7 @@ Do not create new issue or we will close it as duplicate.
 | [kaungzinphyo1@twitter](https://twitter.com/kaungzinphyo1/status/1396735190311964674) | advertise |
 | [kaung_nicky@twitter](https://twitter.com/kaung_nicky/status/1399203452794806272) | advertise |
 | [Kaung__SiThu@twitter](https://twitter.com/Kaung__SiThu/status/1385268703147618304) | advertise |
+| [kavehyousefi@twitter](https://twitter.com/kavehyousefi/status/1578108404907708416) | advertise |
 | [kaveh_zad@twitter](https://twitter.com/kaveh_zad/status/1500077174807748614) | advertise |
 | [KavindaKishan@twitter](https://twitter.com/KavindaKishan/status/1378980925749403650) | advertise |
 | [Kavindu_SL@twitter](https://twitter.com/Kavindu_SL/status/1379891306198003713) | advertise |
@@ -10589,6 +10590,7 @@ Do not create new issue or we will close it as duplicate.
 | [_pyromantic@twitter](https://twitter.com/_pyromantic/status/1479104111106674697) | advertise |
 | [_rikisan@twitter](https://twitter.com/_rikisan/status/1389050815122481155) | advertise |
 | [_rurq@twitter](https://twitter.com/_rurq/status/1521161926012719109) | advertise |
+| [_sanchitbansal_@twitter](https://twitter.com/_sanchitbansal_/status/1578115686416715777) | advertise |
 | [_Sumitha_@twitter](https://twitter.com/_Sumitha_/status/1508090635131420678) | advertise |
 | [_UmmuUmairah_@twitter](https://twitter.com/_UmmuUmairah_/status/1394222981342060544) | advertise |
 | [_VPixx@twitter](https://twitter.com/_VPixx/status/1525433377301532672) | advertise |
