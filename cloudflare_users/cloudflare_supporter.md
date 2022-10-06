@@ -519,6 +519,7 @@ Do not create new issue or we will close it as duplicate.
 | [amarok_kwon@twitter](https://twitter.com/amarok_kwon/status/1483054556930265096) | advertise |
 | [Amar_Chaouli@twitter](https://twitter.com/Amar_Chaouli/status/1532795804884295680) | advertise |
 | [AmauryTheFox@twitter](https://twitter.com/AmauryTheFox/status/1453488337977704456) | advertise |
+| [ambrosed30@twitter](https://twitter.com/ambrosed30/status/1578004704402894848) | advertise |
 | [AmeenSh33976888@twitter](https://twitter.com/AmeenSh33976888/status/1381514867606089731) | advertise |
 | [ameenulhassanm1@twitter](https://twitter.com/ameenulhassanm1/status/1378228638353555457) | advertise |
 | [amekiri13@twitter](https://twitter.com/amekiri13/status/1437975591152611329) | advertise |
