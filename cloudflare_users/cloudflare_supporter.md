@@ -2345,6 +2345,7 @@ Do not create new issue or we will close it as duplicate.
 | [d_dragonz@twitter](https://twitter.com/d_dragonz/status/1508826835844419587) | advertise |
 | [D_Larro@twitter](https://twitter.com/D_Larro/status/1397911729368145920) | advertise |
 | [E1_CH1v0@twitter](https://twitter.com/E1_CH1v0/status/1557825852720615424) | advertise |
+| [e33f58d9602c454@twitter](https://twitter.com/e33f58d9602c454/status/1578050920956702722) | advertise |
 | [EA08937111@twitter](https://twitter.com/EA08937111/status/1530222628421570560) | advertise |
 | [Ea10213@twitter](https://twitter.com/Ea10213/status/1505663566921220101) | advertise |
 | [EagleOneJackBo1@twitter](https://twitter.com/EagleOneJackBo1/status/1394581551501828098) | advertise |
