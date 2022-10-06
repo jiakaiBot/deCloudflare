@@ -460,6 +460,7 @@ Do not create new issue or we will close it as duplicate.
 | [AlgNinja@twitter](https://twitter.com/AlgNinja/status/1378849294208360451) | advertise |
 | [Ali03101829Ali@twitter](https://twitter.com/Ali03101829Ali/status/1561268730075701250) | advertise |
 | [Ali12khan12@twitter](https://twitter.com/Ali12khan12/status/1497947864743432199) | advertise |
+| [Ali20484288@twitter](https://twitter.com/Ali20484288/status/1578121167734538252) | advertise |
 | [Ali31543248@twitter](https://twitter.com/Ali31543248/status/1573662744905240577) | advertise |
 | [Ali74967035@twitter](https://twitter.com/Ali74967035/status/1398191756433264646) | advertise |
 | [aliali57636674@twitter](https://twitter.com/aliali57636674/status/1552967267352072192) | advertise |
@@ -2504,6 +2505,7 @@ Do not create new issue or we will close it as duplicate.
 | [esther64246082@twitter](https://twitter.com/esther64246082/status/1393619508703596549) | advertise |
 | [estyendowned19@twitter](https://twitter.com/estyendowned19/status/1401196579005009921) | advertise |
 | [ET67927812@twitter](https://twitter.com/ET67927812/status/1404818053993439235) | advertise |
+| [eterafkonam@twitter](https://twitter.com/eterafkonam/status/1578127373152796673) | advertise |
 | [ethiopianlions@twitter](https://twitter.com/ethiopianlions/status/1503139799699492870) | advertise |
 | [ethnikiantistas@twitter](https://twitter.com/ethnikiantistas/status/1561050463788830721) | advertise |
 | [eth_blaze@twitter](https://twitter.com/eth_blaze/status/1553908650443509760) | advertise |
@@ -2575,6 +2577,7 @@ Do not create new issue or we will close it as duplicate.
 | [farooq_dmj@twitter](https://twitter.com/farooq_dmj/status/1471859023389630468) | advertise |
 | [farooq_furkhan@twitter](https://twitter.com/farooq_furkhan/status/1406526860792455169) | advertise |
 | [farpa23926673@twitter](https://twitter.com/farpa23926673/status/1573059951970377733) | advertise |
+| [Farzad33475400@twitter](https://twitter.com/Farzad33475400/status/1578132827421507592) | advertise |
 | [farzanf@twitter](https://twitter.com/farzanf/status/1526583866181529609) | advertise |
 | [Farzin19576702@twitter](https://twitter.com/Farzin19576702/status/1391834415785861120) | advertise |
 | [Fashion_NoVa_Ne@twitter](https://twitter.com/Fashion_NoVa_Ne/status/1525972069216833537) | advertise |
@@ -5962,6 +5965,7 @@ Do not create new issue or we will close it as duplicate.
 | [mohibbur95@twitter](https://twitter.com/mohibbur95/status/1444960885051572225) | advertise |
 | [MohMoh08333940@twitter](https://twitter.com/MohMoh08333940/status/1391065381360574468) | advertise |
 | [MohsenEslami18@twitter](https://twitter.com/MohsenEslami18/status/1501860809902800896) | advertise |
+| [Mohsens57097622@twitter](https://twitter.com/Mohsens57097622/status/1578132948490285059) | advertise |
 | [mohsin84638488@twitter](https://twitter.com/mohsin84638488/status/1390823225731387398) | advertise |
 | [Moh_Al_mustfa@twitter](https://twitter.com/Moh_Al_mustfa/status/1529754425631330309) | advertise |
 | [MoiBoi93529548@twitter](https://twitter.com/MoiBoi93529548/status/1534005903737114624) | advertise |
