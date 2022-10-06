@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-11: [MRS (Marseille) on 2022-10-11](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1hgctrxtjggv)
 - 2022-10-06: [MEL (Melbourne) on 2022-10-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/nnfmg4l4mz2w)
 - 2022-10-10: [KIX (Osaka) on 2022-10-10](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zc8w8z25n0ns)
 - 2022-10-06: [Intermittent 530 DNS service errors.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mlbdhzb6rnq7)
