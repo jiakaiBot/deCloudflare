@@ -6698,6 +6698,7 @@ Do not create new issue or we will close it as duplicate.
 | [njoolenesia@twitter](https://twitter.com/njoolenesia/status/1503838855765856256) | advertise |
 | [NkKee1@twitter](https://twitter.com/NkKee1/status/1379528528073433088) | advertise |
 | [NKNRC39@twitter](https://twitter.com/NKNRC39/status/1472029289855918083) | advertise |
+| [NkoliStvnsn@twitter](https://twitter.com/NkoliStvnsn/status/1572962518980792320) | advertise |
 | [nl840924@twitter](https://twitter.com/nl840924/status/1402307082548695041) | advertise |
 | [NLalrameng@twitter](https://twitter.com/NLalrameng/status/1391066385254584327) | advertise |
 | [nly461636@twitter](https://twitter.com/nly461636/status/1530720462514405376) | advertise |
@@ -9326,6 +9327,7 @@ Do not create new issue or we will close it as duplicate.
 | [ToPeKsz@twitter](https://twitter.com/ToPeKsz/status/1385308280893841409) | advertise |
 | [tophigh43192@twitter](https://twitter.com/tophigh43192/status/1516070231776456709) | advertise |
 | [TopMan84177559@twitter](https://twitter.com/TopMan84177559/status/1380097459976736769) | advertise |
+| [ToreyHill4@twitter](https://twitter.com/ToreyHill4/status/1577841660293222400) | advertise |
 | [torproject.org](https://www.torproject.org/) | [HISTORY.md](../HISTORY.md), [README.md](README.md) |
 | [Torrekie@twitter](https://twitter.com/Torrekie/status/1449973586664595458) | advertise |
 | [torzen6@twitter](https://twitter.com/torzen6/status/1400998635785973761) | advertise |
