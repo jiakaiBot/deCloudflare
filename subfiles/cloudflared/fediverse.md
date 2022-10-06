@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,922 |
-| net | 1,683 |
+| com | 2,924 |
+| net | 1,684 |
 | social | 1,186 |
 | org | 1,152 |
 | de | 1,018 |
@@ -2133,6 +2133,7 @@ Here's a list of public Fediverse services.
 | blobular.com | Yes |
 | bloc.black | No |
 | blockbastler.de | No |
+| blockernet.com | No |
 | blockriot.com | No |
 | blockvideo.live | No |
 | blog-de-michel.fr | No |
@@ -3351,6 +3352,7 @@ Here's a list of public Fediverse services.
 | comm.ie | No |
 | comm.network | No |
 | commander1024.de | No |
+| commandercog.com | Yes |
 | common.se | No |
 | commons.tw | No |
 | commonspub.org | No |
@@ -4501,6 +4503,7 @@ Here's a list of public Fediverse services.
 | dlowe.net | No |
 | dlun.ch | Yes |
 | dlyang.tk | No |
+| dmgd.monster | Yes |
 | dmitri.life | No |
 | dmmlabs.com | No |
 | dmogle.com | No |
@@ -4852,6 +4855,7 @@ Here's a list of public Fediverse services.
 | eagleandserpent.club | No |
 | eagledeaf.com | No |
 | eaglefirenation.com | No |
+| eanske.eu | No |
 | ear7h.net | No |
 | earfolds.com | No |
 | earldouglas.social | No |
@@ -10904,6 +10908,7 @@ Here's a list of public Fediverse services.
 | mal.systems | No |
 | malacology.net | Yes |
 | maladaptive.art | No |
+| malbela.net | No |
 | malfunctioning.technology | No |
 | malgranda.net | No |
 | maliach.fr | No |
@@ -11640,6 +11645,7 @@ Here's a list of public Fediverse services.
 | mersenne-sister.net | No |
 | meru-golang.jp | Yes |
 | meru-golang.net | No |
+| merv.news | No |
 | merveill.es | No |
 | merveilles.town | No |
 | merylscarlett.info | No |
@@ -12896,6 +12902,7 @@ Here's a list of public Fediverse services.
 | neobluepanther.com | No |
 | neocoretext.net | No |
 | neofae.net | No |
+| neofrakture.club | No |
 | neoliberalyse.de | No |
 | neoliferp.fr | No |
 | neon.moe | No |
@@ -14493,6 +14500,7 @@ Here's a list of public Fediverse services.
 | petras.space | No |
 | petris.net | No |
 | petronel.info | No |
+| petroskowo.pl | No |
 | petrovs.info | No |
 | pets-in.space | No |
 | pets.contact | No |
@@ -16920,6 +16928,7 @@ Here's a list of public Fediverse services.
 | shootingonsight.eu | No |
 | shootjackdorseyinto.space | No |
 | shorage.de | No |
+| shork.space | No |
 | shortbus.fail | No |
 | shortens.net | No |
 | shortnote.jp | No |
@@ -21408,8 +21417,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,236 |
-| Normal | 17,129 |
+| Cloudflare | 4,238 |
+| Normal | 17,136 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
