@@ -119,7 +119,7 @@
 
 * [E heluhelu i ka leo o ka mea hoʻohana ʻē aʻe a kākau i kou mau manaʻo.](../PEOPLE.md)
 
-* E ʻimi i kekahi mea: [Ombrelo](../subfiles/service.ombrelo.md)
+* E ʻimi i kekahi mea: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Hoʻohou i ka papa inoa kikowaena: [Papa kuhikuhi kuhikuhi](../INSTRUCTION.md).
 
