@@ -7474,6 +7474,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pucuk15146444@twitter](https://twitter.com/Pucuk15146444/status/1395245832069210115) | advertise |
 | [PUJIANTO@twitter](https://twitter.com/PUJIANTO/status/1442524922501160971) | advertise |
 | [PuLu30355961@twitter](https://twitter.com/PuLu30355961/status/1389410310419664902) | advertise |
+| [Puma98911029@twitter](https://twitter.com/Puma98911029/status/1578437530591952897) | advertise |
 | [Pumpkin76122016@twitter](https://twitter.com/Pumpkin76122016/status/1404432604934205444) | advertise |
 | [PUNISHE56843209@twitter](https://twitter.com/PUNISHE56843209/status/1387023915801747463) | advertise |
 | [Punnampidishet1@twitter](https://twitter.com/Punnampidishet1/status/1386990158772277248) | advertise |
