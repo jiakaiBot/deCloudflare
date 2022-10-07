@@ -119,7 +119,7 @@ Este repositório é uma lista de sites que estão por trás do "The Great Cloud
 
 * [Leia a voz de outro usuário e escreva suas idéias.](../PEOPLE.md)
 
-* Procure algo: [Ombrelo](../subfiles/service.ombrelo.md)
+* Procure algo: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Atualize a lista de domínios: [Instruções de lista](../INSTRUCTION.md).
 
