@@ -119,7 +119,7 @@ Repositori iki minangka dhaptar situs web sing ana ing mburi "The Great Cloudwal
 
 * [Waca swara pangguna liyane lan tulisake pikirane.](../PEOPLE.md)
 
-* Nggoleki soko: [Ombrelo](../subfiles/service.ombrelo.md)
+* Nggoleki soko: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Nganyari dhaptar domain: [Dhaptar pandhuan](../INSTRUCTION.md).
 
