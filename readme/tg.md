@@ -119,7 +119,7 @@
 
 * [Овози корбари дигарро хонед ва фикрҳои худро нависед.](../PEOPLE.md)
 
-* Чизеро ҷустуҷӯ кунед: [Ombrelo](../subfiles/service.ombrelo.md)
+* Чизеро ҷустуҷӯ кунед: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Навсозии рӯйхати доменҳо: [Дастурҳоро номбар кунед](../INSTRUCTION.md).
 
