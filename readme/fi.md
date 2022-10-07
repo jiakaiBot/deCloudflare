@@ -119,7 +119,7 @@ Tämä säilytystila on luettelo verkkosivustoista, jotka ovat "Suuren pilvasein
 
 * [Lue toisen käyttäjän ääni ja kirjoita ajatuksesi.](../PEOPLE.md)
 
-* Etsi jotain: [Ombrelo](../subfiles/service.ombrelo.md)
+* Etsi jotain: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Päivitä verkkotunnusluettelo: [Lista ohjeet](../INSTRUCTION.md).
 
