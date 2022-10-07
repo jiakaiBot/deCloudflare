@@ -119,7 +119,7 @@ Deze repository is een lijst met websites die achter "The Great Cloudwall" staan
 
 * [Lees de stem van een andere gebruiker en schrijf uw gedachten op.](../PEOPLE.md)
 
-* Zoek iets: [Ombrelo](../subfiles/service.ombrelo.md)
+* Zoek iets: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Werk de domeinlijst bij: [Lijst instructies](../INSTRUCTION.md).
 
