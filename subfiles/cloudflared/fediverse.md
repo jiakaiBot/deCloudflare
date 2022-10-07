@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,926 |
+| com | 2,927 |
 | net | 1,684 |
 | social | 1,186 |
 | org | 1,154 |
@@ -1291,6 +1291,7 @@ Here's a list of public Fediverse services.
 | ashaibani.com | Yes |
 | asharpminor.com | No |
 | asherif.xyz | Yes |
+| ashfurrow.com | No |
 | ashiato45.net | No |
 | ashikaga.link | No |
 | ashitty.website | No |
@@ -19530,7 +19531,7 @@ Here's a list of public Fediverse services.
 | uldhaar.dk | No |
 | ulik.at | No |
 | ullihome.de | No |
-| ulman.social | No |
+| ulman.social | Yes |
 | ulne.be | No |
 | ulrar.net | No |
 | ultra.fail | No |
@@ -21424,8 +21425,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,244 |
+| Cloudflare | 4,245 |
 | Normal | 17,137 |
 
 
-### 19.8% of public Fediverse services are using Cloudflare.
+### 19.9% of public Fediverse services are using Cloudflare.
