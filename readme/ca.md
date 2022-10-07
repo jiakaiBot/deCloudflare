@@ -119,7 +119,7 @@ Aquest dipòsit és una llista de llocs web que hi ha al darrere de "The Great C
 
 * [Llegiu la veu d’un altre usuari i escriviu els vostres pensaments.](../PEOPLE.md)
 
-* Busca alguna cosa: [Ombrelo](../subfiles/service.ombrelo.md)
+* Busca alguna cosa: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Actualitzeu la llista de dominis: [Llista instruccions](../INSTRUCTION.md).
 
