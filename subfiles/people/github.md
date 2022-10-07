@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Help with r2-presigned-url-worker example.](https://github.com/skymethod/denoflare/issues/28)
 - [CloudFlare Cloudflare dash and API errors for Customers in Europe](https://github.com/MatBenfield/news/issues/3809)
 - [Cloudflare Logpull invalid time range: too early: logs older than 168h0m0s are not available](https://github.com/elastic/integrations/issues/4414)
 - [2.2.9 frameId not supported RemoteAgentError](https://github.com/FlareSolverr/FlareSolverr/issues/536)
