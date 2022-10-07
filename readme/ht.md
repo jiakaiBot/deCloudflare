@@ -119,7 +119,7 @@ Repozitwa sa a se yon lis sou sit entènèt ki dèyè "Great Cloudwall la", blok
 
 * [Li vwa lòt itilizatè a epi ekri panse ou.](../PEOPLE.md)
 
-* Chèche yon bagay: [Ombrelo](../subfiles/service.ombrelo.md)
+* Chèche yon bagay: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Mete ajou lis la domèn: [Lis enstriksyon yo](../INSTRUCTION.md).
 
