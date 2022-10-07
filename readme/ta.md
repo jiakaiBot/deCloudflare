@@ -119,7 +119,7 @@
 
 * [பிற பயனரின் குரலைப் படித்து உங்கள் எண்ணங்களை எழுதுங்கள்.](../PEOPLE.md)
 
-* ஏதாவது தேடுங்கள்: [Ombrelo](../subfiles/service.ombrelo.md)
+* ஏதாவது தேடுங்கள்: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * டொமைன் பட்டியலைப் புதுப்பிக்கவும்: [பட்டியல் வழிமுறைகள்](../INSTRUCTION.md).
 
