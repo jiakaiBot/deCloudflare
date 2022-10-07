@@ -119,7 +119,7 @@
 
 * [باشقا ئىشلەتكۈچىنىڭ ئاۋازىنى ئوقۇڭ ۋە ئويلىغانلىرىڭىزنى يېزىڭ.](../PEOPLE.md)
 
-* بىر نەرسە ئىزدەڭ: [Ombrelo](../subfiles/service.ombrelo.md)
+* بىر نەرسە ئىزدەڭ: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * دائىرە تىزىملىكىنى يېڭىلاڭ: [تىزىملىك ​​كۆرسەتمىسى](../INSTRUCTION.md).
 
