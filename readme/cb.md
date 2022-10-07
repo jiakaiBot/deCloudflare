@@ -119,7 +119,7 @@ Ang kini nga repositoryo usa ka lista sa mga website nga sa luyo sa "The Great C
 
 * [Basaha ang tingog sa ubang tiggamit ug isulat ang imong mga hunahuna.](../PEOPLE.md)
 
-* Pagpangita usa ka butang: [Ombrelo](../subfiles/service.ombrelo.md)
+* Pagpangita usa ka butang: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Pag-update sa lista sa domain: [Ilista ang mga panudlo](../INSTRUCTION.md).
 
