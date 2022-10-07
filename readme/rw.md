@@ -119,7 +119,7 @@ Ububiko ni urutonde rwurubuga ruri inyuma ya "The Great Cloudwall", rukumira aba
 
 * [Soma ijwi ryabandi bakoresha hanyuma wandike ibitekerezo byawe.](../PEOPLE.md)
 
-* Shakisha ikintu: [Ombrelo](../subfiles/service.ombrelo.md)
+* Shakisha ikintu: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Kuvugurura urutonde: [Andika amabwiriza](../INSTRUCTION.md).
 
