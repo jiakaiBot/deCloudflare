@@ -6242,6 +6242,7 @@ Do not create new issue or we will close it as duplicate.
 | [MySeoHQ@twitter](https://twitter.com/MySeoHQ/status/1561087865349627905) | advertise |
 | [MysticBlack3@twitter](https://twitter.com/MysticBlack3/status/1393044999248523265) | advertise |
 | [mytel89854584@twitter](https://twitter.com/mytel89854584/status/1398011330947321857) | advertise |
+| [Mythicalz13@twitter](https://twitter.com/Mythicalz13/status/1578408033436069890) | advertise |
 | [MYYEWINNAING1@twitter](https://twitter.com/MYYEWINNAING1/status/1393142382233784321) | advertise |
 | [MyyJ18@twitter](https://twitter.com/MyyJ18/status/1396981851286212612) | advertise |
 | [MZykky@twitter](https://twitter.com/MZykky/status/1552553256861470722) | advertise |
