@@ -119,7 +119,7 @@ Stu repositoriu hè una lista di siti web chì sò daretu à "The Great Cloudwal
 
 * [Leghjite a voce di l'altru utente è scrive u vostru pensamentu.](../PEOPLE.md)
 
-* Cerca qualcosa: [Ombrelo](../subfiles/service.ombrelo.md)
+* Cerca qualcosa: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Aghjurnà a lista di domini: [Elencu istruzzioni](../INSTRUCTION.md).
 
