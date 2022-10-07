@@ -119,7 +119,7 @@ Ez a lerakat azon webhelyek listája, amelyek a "Nagy felhőfal" mögött állna
 
 * [Olvassa el a többi felhasználó hangját és írja meg gondolatait.](../PEOPLE.md)
 
-* Keressen valamit: [Ombrelo](../subfiles/service.ombrelo.md)
+* Keressen valamit: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Frissítse a domain listát: [Sorolja fel az utasításokat](../INSTRUCTION.md).
 
