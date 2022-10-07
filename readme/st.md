@@ -119,7 +119,7 @@ Sebaka sena sa polokelo ke lenane la liwebosaete tse ka morao ho "The Cloudwall"
 
 * [Bala lentsoe la motho e mong 'me u ngole maikutlo a hao.](../PEOPLE.md)
 
-* Batla ho hong: [Ombrelo](../subfiles/service.ombrelo.md)
+* Batla ho hong: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Ntlafatsa lenane la sebaka sa marang-rang: [Litaelo tsa lenane](../INSTRUCTION.md).
 
