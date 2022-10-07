@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-12: [DEN (Denver) on 2022-10-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cxwrwrd8szzp)
 - 2022-10-06: [Customers may experience errors adding new Legacy Custom Certificates](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y69pdm040hcn)
 - 2022-10-06: [BLR (Bangalore) on 2022-10-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/j53dvf4r7tcp)
 - 2022-10-06: [Low level packet loss for certain Cloudflare Network-layer DDoS Protections rules](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4qy5nk3g7y0y)
