@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,927 |
-| net | 1,684 |
+| com | 2,928 |
+| net | 1,686 |
 | social | 1,186 |
-| org | 1,154 |
-| de | 1,018 |
+| org | 1,155 |
+| de | 1,019 |
 
 
 - Mastodon, Pleroma, etc
@@ -2127,6 +2127,7 @@ Here's a list of public Fediverse services.
 | bln41.win | Yes |
 | blob.cat | No |
 | blob.coffee | No |
+| blobfox.coffee | No |
 | blobfox.es | No |
 | blobpat.space | No |
 | blobs.space | Yes |
@@ -6743,6 +6744,7 @@ Here's a list of public Fediverse services.
 | gerotintin.com | No |
 | gerritniezen.com | No |
 | gerzilla.de | No |
+| geschnacke.de | No |
 | gesichtsbu.ch | Yes |
 | gestaltzerfall.net | No |
 | get-racing.de | No |
@@ -7677,6 +7679,7 @@ Here's a list of public Fediverse services.
 | hindelaufen.com | No |
 | hindsightt.social | No |
 | hingst.net | No |
+| hingst.org | No |
 | hinomarudon.com | No |
 | hintersphere.com | No |
 | hiphop.horse | No |
@@ -7919,6 +7922,7 @@ Here's a list of public Fediverse services.
 | huckle.ch | No |
 | huebner.tk | No |
 | hug.network | No |
+| hugeglobal.net | Yes |
 | huggingservers.uk | Yes |
 | huggles.club | No |
 | hugh.buzz | No |
@@ -8577,6 +8581,7 @@ Here's a list of public Fediverse services.
 | izza.party | No |
 | izzy.rodeo | No |
 | izzz.fr | No |
+| j15r.com | No |
 | j621.net | Yes |
 | jabb.in | No |
 | jabberhead.tk | No |
@@ -10507,6 +10512,7 @@ Here's a list of public Fediverse services.
 | lollipopcloud.solutions | Yes |
 | lollygaggers.uk | No |
 | lolpix.org | Yes |
+| lolwierd.ga | No |
 | loma.ml | No |
 | lomo.live | No |
 | lond.com.br | Yes |
@@ -16766,6 +16772,7 @@ Here's a list of public Fediverse services.
 | seppuku.club | Yes |
 | sequel.space | No |
 | sequentialread.com | No |
+| ser1.net | No |
 | seraimu.me | Yes |
 | serasera.org | No |
 | serbanescu.dk | Yes |
@@ -16944,6 +16951,7 @@ Here's a list of public Fediverse services.
 | shotgun.monster | No |
 | shoujo.xyz | Yes |
 | showoffto.us | No |
+| shpakovsky.ru | No |
 | shpposter.club | No |
 | shr.today | No |
 | shrieker.net | No |
@@ -20026,6 +20034,7 @@ Here's a list of public Fediverse services.
 | visionel.de | No |
 | visionon.tv | No |
 | visionroot.org | No |
+| vislae.town | No |
 | visonthe.net | Yes |
 | viste.pt | No |
 | visualsoul.uk | No |
@@ -20047,6 +20056,7 @@ Here's a list of public Fediverse services.
 | vlntn.pw | No |
 | vloggers.social | No |
 | vmrpc.net | No |
+| vmst.io | Yes |
 | vmstan.com | Yes |
 | vmtik.com | No |
 | vmug.social | No |
@@ -21425,8 +21435,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,245 |
-| Normal | 17,137 |
+| Cloudflare | 4,247 |
+| Normal | 17,145 |
 
 
 ### 19.9% of public Fediverse services are using Cloudflare.
