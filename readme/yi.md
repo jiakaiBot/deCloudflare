@@ -119,7 +119,7 @@
 
 * [לייענען די קול פון אנדערע באַניצער און שרייַבן דיין געדאנקען.](../PEOPLE.md)
 
-* זוך עפּעס: [Ombrelo](../subfiles/service.ombrelo.md)
+* זוך עפּעס: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * דערהייַנטיקן די פעלד רשימה: [רשימה ינסטראַקשאַנז](../INSTRUCTION.md).
 
