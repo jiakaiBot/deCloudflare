@@ -119,7 +119,7 @@
 
 * [इतर वापरकर्त्याचा आवाज वाचा आणि आपले विचार लिहा.](../PEOPLE.md)
 
-* काहीतरी शोधा: [Ombrelo](../subfiles/service.ombrelo.md)
+* काहीतरी शोधा: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * डोमेन यादी अद्यतनित करा: [सूचना सूचना](../INSTRUCTION.md).
 
