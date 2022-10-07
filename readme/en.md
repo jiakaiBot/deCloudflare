@@ -96,7 +96,7 @@ This repository is a list of websites that are behind "The Great Cloudwall", blo
 
 * [Read our list of recommended actions and share it with your friends.](en.action.md)
 * [Read other user's voice and write your thoughts.](../PEOPLE.md)
-* Search something: [Ombrelo](../subfiles/service.ombrelo.md)
+* Search something: [Ombrelo](../subfiles/service/ombrelo.md)
 * Update the domain list: [List instructions](../INSTRUCTION.md).
 * [Add Cloudflare or project related event to history.](../HISTORY.md)
 * [Try & write new Tool/Script.](../tool/)
