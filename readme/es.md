@@ -119,7 +119,7 @@ Este repositorio es una lista de sitios web que están detrás de "The Great Clo
 
 * [Lea la voz de otros usuarios y escriba sus pensamientos.](../PEOPLE.md)
 
-* Buscar algo: [Ombrelo](../subfiles/service.ombrelo.md)
+* Buscar algo: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Actualizar la lista de dominios: [Instrucciones de lista](../INSTRUCTION.md).
 
