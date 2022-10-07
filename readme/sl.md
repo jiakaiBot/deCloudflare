@@ -119,7 +119,7 @@ To skladišče je seznam spletnih mest, ki stojijo za "Great Cloudwall" in bloki
 
 * [Preberite drug uporabnikov glas in napišite svoje misli.](../PEOPLE.md)
 
-* Nekaj ​​poiščite: [Ombrelo](../subfiles/service.ombrelo.md)
+* Nekaj ​​poiščite: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Posodobite seznam domen: [Seznam navodil](../INSTRUCTION.md).
 
