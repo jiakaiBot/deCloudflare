@@ -121,7 +121,7 @@
 
 * [阅读其他用户的声音并写下您的想法。](../PEOPLE.md)
 
-* 搜索东西: [Ombrelo](../subfiles/service.ombrelo.md)
+* 搜索东西: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * 更新域列表: [清单说明](../INSTRUCTION.md).
 
