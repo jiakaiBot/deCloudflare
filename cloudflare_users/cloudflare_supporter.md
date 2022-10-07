@@ -1318,6 +1318,7 @@ Do not create new issue or we will close it as duplicate.
 | [BLAKKCASTRO305@twitter](https://twitter.com/BLAKKCASTRO305/status/1437928671680020480) | advertise |
 | [BlankT17406721@twitter](https://twitter.com/BlankT17406721/status/1400500648261476354) | advertise |
 | [BlazeEffect@twitter](https://twitter.com/BlazeEffect/status/1575954607674564608) | advertise |
+| [Blazey999@twitter](https://twitter.com/Blazey999/status/1578393783649021952) | advertise |
 | [Blaze_0910@twitter](https://twitter.com/Blaze_0910/status/1556878345408692224) | advertise |
 | [BlazinHosting@twitter](https://twitter.com/BlazinHosting/status/1441631102351859713) | advertise |
 | [Blckk15@twitter](https://twitter.com/Blckk15/status/1398931957610733570) | advertise |
