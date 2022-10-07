@@ -119,7 +119,7 @@
 
 * [Прочетете гласа на други потребители и напишете своите мисли.](../PEOPLE.md)
 
-* Потърсете нещо: [Ombrelo](../subfiles/service.ombrelo.md)
+* Потърсете нещо: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Актуализирайте списъка с домейни: [Списък с инструкции](../INSTRUCTION.md).
 
