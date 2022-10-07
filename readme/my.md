@@ -119,7 +119,7 @@
 
 * [အခြားသုံးစွဲသူ၏အသံကိုဖတ်ပြီးသင်၏အတွေးများကိုရေးပါ။](../PEOPLE.md)
 
-* တစ်ခုခုရှာပါ: [Ombrelo](../subfiles/service.ombrelo.md)
+* တစ်ခုခုရှာပါ: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * ဒိုမိန်းစာရင်းကိုအပ်ဒိတ်လုပ်ပါ: [လမ်းညွှန်စာရင်း](../INSTRUCTION.md).
 
