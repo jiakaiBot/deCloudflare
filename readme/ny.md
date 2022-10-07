@@ -119,7 +119,7 @@ Bokosi ili ndi mndandanda wa masamba omwe ali kumbuyo kwa "The Cloudwall", akuts
 
 * [Werengani mawu a ogwiritsa ntchito ena ndikulemba malingaliro anu.](../PEOPLE.md)
 
-* Sakani kena kake: [Ombrelo](../subfiles/service.ombrelo.md)
+* Sakani kena kake: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Sinthani mndandanda wamtundu: [Malangizo mndandanda](../INSTRUCTION.md).
 
