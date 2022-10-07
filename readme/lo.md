@@ -119,7 +119,7 @@
 
 * [ອ່ານສຽງຂອງຜູ້ໃຊ້ຄົນອື່ນແລະຂຽນຄວາມຄິດຂອງທ່ານ.](../PEOPLE.md)
 
-* ຄົ້ນຫາບາງຢ່າງ: [Ombrelo](../subfiles/service.ombrelo.md)
+* ຄົ້ນຫາບາງຢ່າງ: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * ປັບປຸງລາຍຊື່ໂດເມນ: [ລາຍຊື່ ຄຳ ແນະ ນຳ](../INSTRUCTION.md).
 
