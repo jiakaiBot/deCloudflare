@@ -119,7 +119,7 @@ Toto úložiště je seznam webových stránek, které jsou za „Velkým cloude
 
 * [Přečtěte si hlas jiného uživatele a napište své myšlenky.](../PEOPLE.md)
 
-* Hledejte něco: [Ombrelo](../subfiles/service.ombrelo.md)
+* Hledejte něco: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Aktualizujte seznam domén: [Seznam instrukcí](../INSTRUCTION.md).
 
