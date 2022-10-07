@@ -121,7 +121,7 @@
 
 * [صدای کاربر دیگر را بخوانید و افکار خود را بنویسید.](../PEOPLE.md)
 
-* جستجوی چیزی: [Ombrelo](../subfiles/service.ombrelo.md)
+* جستجوی چیزی: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * لیست دامنه را به روز کنید: [دستورالعمل های لیست](../INSTRUCTION.md).
 
