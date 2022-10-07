@@ -119,7 +119,7 @@ Questo repository è un elenco di siti Web che si trovano dietro "The Great Clou
 
 * [Leggi la voce di altri utenti e scrivi i tuoi pensieri.](../PEOPLE.md)
 
-* Cerca qualcosa: [Ombrelo](../subfiles/service.ombrelo.md)
+* Cerca qualcosa: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Aggiorna l'elenco dei domini: [Elenca le istruzioni](../INSTRUCTION.md).
 
