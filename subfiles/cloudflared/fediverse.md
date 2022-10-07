@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 2,926 |
 | net | 1,684 |
 | social | 1,186 |
-| org | 1,153 |
+| org | 1,154 |
 | de | 1,018 |
 
 
@@ -9977,6 +9977,7 @@ Here's a list of public Fediverse services.
 | le43.eu | No |
 | le5emeaxe.blog | No |
 | le5emeaxe.fr | No |
+| leadslinger.org | No |
 | leaf.style | No |
 | leafeon.online | No |
 | leafposter.club | No |
@@ -21424,7 +21425,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,244 |
-| Normal | 17,136 |
+| Normal | 17,137 |
 
 
-### 19.9% of public Fediverse services are using Cloudflare.
+### 19.8% of public Fediverse services are using Cloudflare.
