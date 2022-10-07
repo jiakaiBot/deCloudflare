@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: pngload_buffer: reached chunk/cache limits](https://github.com/imgproxy/imgproxy/issues/996)
 - [Help with r2-presigned-url-worker example.](https://github.com/skymethod/denoflare/issues/28)
 - [CloudFlare Cloudflare dash and API errors for Customers in Europe](https://github.com/MatBenfield/news/issues/3809)
 - [Cloudflare Logpull invalid time range: too early: logs older than 168h0m0s are not available](https://github.com/elastic/integrations/issues/4414)
