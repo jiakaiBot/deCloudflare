@@ -121,7 +121,7 @@
 
 * [اقرأ صوت المستخدم الآخر واكتب أفكارك.](../PEOPLE.md)
 
-* ابحث عن شيء ما: [Ombrelo](../subfiles/service.ombrelo.md)
+* ابحث عن شيء ما: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * قم بتحديث قائمة المجال: [قائمة التعليمات](../INSTRUCTION.md).
 
