@@ -119,7 +119,7 @@
 
 * [Perskaitykite kito vartotojo balsą ir parašykite savo mintis.](../PEOPLE.md)
 
-* Ko nors ieškokite: [Ombrelo](../subfiles/service.ombrelo.md)
+* Ko nors ieškokite: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Atnaujinkite domenų sąrašą: [Išvardykite instrukcijas](../INSTRUCTION.md).
 
