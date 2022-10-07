@@ -12,6 +12,7 @@
   - [Which website rejected me?](addon/urjm.md)
 - Service
   - [Karma API](service/karma_api.md)
+  - [Ombrelo](service/ombrelo.md)
   - [IAList](https://ialist.crimeflare.eu.org)
   - [Alternative Link](service/altlink.md)
   - [Local Area](https://localarea.crimeflare.eu.org)
@@ -122,7 +123,6 @@
   - [with Proxy](block_cloudflare_with/proxy.md)
   - [on Android](block_cloudflare_with/android.md)
 - [CloudFlare Watch](classics/README.md)
-- [About Ombrelo](service.ombrelo.md)
 - [Change default DNS provider of Firefox](change-firefox-dns.md)
 - [How to use Chromium with Tor](chromium_tor.md)
 - [Myth Catalog](myth_catalog.md)
