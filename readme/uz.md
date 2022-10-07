@@ -119,7 +119,7 @@ Ushbu ombor Tor foydalanuvchilari va boshqa CDN-larni blokirovka qiladigan "Grea
 
 * [Boshqa foydalanuvchining ovozini o'qing va o'z fikrlaringizni yozing.](../PEOPLE.md)
 
-* Biror narsani qidiring: [Ombrelo](../subfiles/service.ombrelo.md)
+* Biror narsani qidiring: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Domenlar ro'yxatini yangilang: [Ko'rsatmalar ro'yxati](../INSTRUCTION.md).
 
