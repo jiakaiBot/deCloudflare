@@ -119,7 +119,7 @@
 
 * [Прочитајте глас другог корисника и напишите своје мисли.](../PEOPLE.md)
 
-* Претражите нешто: [Ombrelo](../subfiles/service.ombrelo.md)
+* Претражите нешто: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Ажурирајте листу домена: [Листа упутстава](../INSTRUCTION.md).
 
