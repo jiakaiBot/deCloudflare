@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,925 |
+| com | 2,926 |
 | net | 1,684 |
 | social | 1,186 |
-| org | 1,152 |
+| org | 1,153 |
 | de | 1,018 |
 
 
@@ -12877,6 +12877,7 @@ Here's a list of public Fediverse services.
 | nekoport.com | No |
 | nekoruri.jp | No |
 | nekos.io | No |
+| nekos.one | Yes |
 | nekoscience.space | No |
 | nekotodon.com | No |
 | nekover.se | Yes |
@@ -15163,6 +15164,7 @@ Here's a list of public Fediverse services.
 | privey.xyz | Yes |
 | prnetsec.ml | No |
 | pro.yt | No |
+| probablyfreespeech.com | No |
 | probmkr.com | Yes |
 | probono.media | No |
 | procgen.ai | No |
@@ -15354,7 +15356,7 @@ Here's a list of public Fediverse services.
 | qdnx.org | No |
 | qdon.space | Yes |
 | qemfd.net | No |
-| qfotografie.de | No |
+| qfotografie.de | Yes |
 | qianmianyao.cn | No |
 | qiitadon.com | No |
 | qip.wang | No |
@@ -20423,6 +20425,7 @@ Here's a list of public Fediverse services.
 | wickedtotally.com | No |
 | wickenberg.nu | No |
 | wicker.nz | No |
+| wideboys.org | Yes |
 | widegamut.club | Yes |
 | widemus.de | No |
 | widerweb.org | No |
@@ -21420,8 +21423,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,241 |
+| Cloudflare | 4,244 |
 | Normal | 17,136 |
 
 
-### 19.8% of public Fediverse services are using Cloudflare.
+### 19.9% of public Fediverse services are using Cloudflare.
