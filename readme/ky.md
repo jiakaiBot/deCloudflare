@@ -119,7 +119,7 @@
 
 * [Башка колдонуучунун үнүн окуп, ойлоруңузду жазыңыз.](../PEOPLE.md)
 
-* Бир нерсе изде: [Ombrelo](../subfiles/service.ombrelo.md)
+* Бир нерсе изде: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Домен тизмесин жаңыртыңыз: [Көрсөтмөлөрдүн тизмеси](../INSTRUCTION.md).
 
