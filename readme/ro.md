@@ -119,7 +119,7 @@ Acest depozit este o listă de site-uri web care se află în spatele „Marelui
 
 * [Citiți vocea altui utilizator și scrieți-vă gândurile.](../PEOPLE.md)
 
-* Căutați ceva: [Ombrelo](../subfiles/service.ombrelo.md)
+* Căutați ceva: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Actualizați lista de domenii: [Enumerați instrucțiunile](../INSTRUCTION.md).
 
