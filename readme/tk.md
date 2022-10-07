@@ -119,7 +119,7 @@ Bu ammar, Tor ulanyjylaryny we beýleki CDN-leri bloklaýan "The Great Cloudwall
 
 * [Beýleki ulanyjynyň sesini okaň we pikirleriňizi ýazyň.](../PEOPLE.md)
 
-* Bir zady gözläň: [Ombrelo](../subfiles/service.ombrelo.md)
+* Bir zady gözläň: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Domen sanawyny täzeläň: [Görkezmeleri sanaň](../INSTRUCTION.md).
 
