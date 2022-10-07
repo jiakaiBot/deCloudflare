@@ -119,7 +119,7 @@ Olu luhlu luluhlu lwewebhusayithi ezingasemva "kweyona Cloudwall", ezithintela a
 
 * [Funda izwi lomnye umsebenzisi kwaye ubhale iingcinga zakho.](../PEOPLE.md)
 
-* Khangela into: [Ombrelo](../subfiles/service.ombrelo.md)
+* Khangela into: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Hlaziya uluhlu lwedomeyini: [Uluhlu lwemiyalelo](../INSTRUCTION.md).
 
