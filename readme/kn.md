@@ -119,7 +119,7 @@
 
 * [ಇತರ ಬಳಕೆದಾರರ ಧ್ವನಿಯನ್ನು ಓದಿ ಮತ್ತು ನಿಮ್ಮ ಆಲೋಚನೆಗಳನ್ನು ಬರೆಯಿರಿ.](../PEOPLE.md)
 
-* ಏನನ್ನಾದರೂ ಹುಡುಕಿ: [Ombrelo](../subfiles/service.ombrelo.md)
+* ಏನನ್ನಾದರೂ ಹುಡುಕಿ: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * ಡೊಮೇನ್ ಪಟ್ಟಿಯನ್ನು ನವೀಕರಿಸಿ: [ಸೂಚನೆಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡಿ](../INSTRUCTION.md).
 
