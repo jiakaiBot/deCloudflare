@@ -119,7 +119,7 @@
 
 * [Хэрэглэгчийн бусад дууг уншаад бодлоо бичээрэй.](../PEOPLE.md)
 
-* Ямар нэг зүйл хайх: [Ombrelo](../subfiles/service.ombrelo.md)
+* Ямар нэг зүйл хайх: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Домэйн жагсаалтыг шинэчлэх: [Зааврыг жагсаах](../INSTRUCTION.md).
 
