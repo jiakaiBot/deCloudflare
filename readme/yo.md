@@ -119,7 +119,7 @@ Ibi ipamọ yii jẹ atokọ ti awọn oju opo wẹẹbu ti o wa lẹhin "The Cl
 
 * [Ka ohun olulo olumulo miiran ki o kọ awọn ero rẹ.](../PEOPLE.md)
 
-* Wa nkan: [Ombrelo](../subfiles/service.ombrelo.md)
+* Wa nkan: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Ṣe imudojuiwọn akojọ ìkápá naa: [Awọn ilana atokọ](../INSTRUCTION.md).
 
