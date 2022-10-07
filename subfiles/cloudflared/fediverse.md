@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 2,924 |
+| com | 2,925 |
 | net | 1,684 |
 | social | 1,186 |
 | org | 1,152 |
@@ -2667,6 +2667,7 @@ Here's a list of public Fediverse services.
 | capricom.info | No |
 | captainark.net | No |
 | captainslog.aero | No |
+| captnstark.com | Yes |
 | capybara.social | No |
 | capybara.zone | No |
 | capystan.net | No |
@@ -3689,6 +3690,7 @@ Here's a list of public Fediverse services.
 | culturewar.radio | No |
 | culturewar.site | Yes |
 | culturewar.us | No |
+| cum.camp | No |
 | cum.coffee | Yes |
 | cum.cx | No |
 | cum.makeup | No |
@@ -10608,7 +10610,7 @@ Here's a list of public Fediverse services.
 | loyko.stream | No |
 | lpha-z.net | No |
 | lpmcma.com | Yes |
-| lpn.systems | No |
+| lpn.systems | Yes |
 | lpo.host | No |
 | lppfusion.com | No |
 | lqdev.tech | No |
@@ -13473,7 +13475,7 @@ Here's a list of public Fediverse services.
 | nsa.lol | No |
 | nsa.ovh | No |
 | nscio.us | No |
-| nsfw.cafe | No |
+| nsfw.cafe | Yes |
 | nsfw.finance | Yes |
 | nsfw.onl | Yes |
 | nsfw.social | Yes |
@@ -21418,8 +21420,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,238 |
-| Normal | 17,137 |
+| Cloudflare | 4,241 |
+| Normal | 17,136 |
 
 
 ### 19.8% of public Fediverse services are using Cloudflare.
