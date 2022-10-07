@@ -119,7 +119,7 @@ O lenei fale teu oloa o se lisi o uepisaite o loʻo i tua o le "The Great Cloudw
 
 * [Faitau le isi leo faʻaaoga ma tusi ou manatu.](../PEOPLE.md)
 
-* Saili se mea: [Ombrelo](../subfiles/service.ombrelo.md)
+* Saili se mea: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Faafou le lisi lisi: [Lisi faatonuga](../INSTRUCTION.md).
 
