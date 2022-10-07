@@ -119,7 +119,7 @@ Bu depo Tor istifadəçilərini və digər CDN-ləri bloklayan "Böyük Bulud" a
 
 * [Digər istifadəçinin səsini oxuyun və fikirlərinizi yazın.](../PEOPLE.md)
 
-* Bir şey axtarın: [Ombrelo](../subfiles/service.ombrelo.md)
+* Bir şey axtarın: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Domen siyahısını yeniləyin: [Təlimatları sadalayın](../INSTRUCTION.md).
 
