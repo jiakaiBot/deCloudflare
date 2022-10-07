@@ -119,7 +119,7 @@ Lokhu kugcina uhlu lwamawebhusayithi angemuva kwe- "The Cloudwall" enkulu, evimb
 
 * [Funda izwi lomunye umsebenzisi bese ubhala imicabango yakho.](../PEOPLE.md)
 
-* Sesha okuthile: [Ombrelo](../subfiles/service.ombrelo.md)
+* Sesha okuthile: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Vuselela uhlu lwesizinda: [Imiyalo yohlu](../INSTRUCTION.md).
 
