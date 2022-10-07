@@ -119,7 +119,7 @@
 
 * [Կարդացեք այլ օգտվողի ձայնը և գրեք ձեր մտքերը:](../PEOPLE.md)
 
-* Ինչ-որ բան փնտրեք: [Ombrelo](../subfiles/service.ombrelo.md)
+* Ինչ-որ բան փնտրեք: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Թարմացրեք տիրույթի ցուցակը: [Listուցադրել հրահանգները](../INSTRUCTION.md).
 
