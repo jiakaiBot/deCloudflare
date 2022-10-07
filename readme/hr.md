@@ -119,7 +119,7 @@ Ovo spremište je popis web stranica koje stoje iza "Velikog oblačnog zida", a 
 
 * [Pročitajte glas drugog korisnika i napišite svoje misli.](../PEOPLE.md)
 
-* Pretražite nešto: [Ombrelo](../subfiles/service.ombrelo.md)
+* Pretražite nešto: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Ažurirajte popis domena: [Popis uputa](../INSTRUCTION.md).
 
