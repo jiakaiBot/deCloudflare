@@ -4553,8 +4553,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6029,6 +6029,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mphetamine2@twitter](https://twitter.com/Mphetamine2/status/1389550479969980417) | advertise |
 | [Mpzo55@twitter](https://twitter.com/Mpzo55/status/1554556620050673664) | advertise |
 | [MR360_CRICKETER@twitter](https://twitter.com/MR360_CRICKETER/status/1552192413535719424) | advertise |
+| [mr3455@twitter](https://twitter.com/mr3455/status/1578272184174141443) | advertise |
 | [MR40303137@twitter](https://twitter.com/MR40303137/status/1391397403165700106) | advertise |
 | [MrAlone45283422@twitter](https://twitter.com/MrAlone45283422/status/1408058930232586242) | advertise |
 | [mrarashi3@twitter](https://twitter.com/mrarashi3/status/1394589698434113540) | advertise |
@@ -6662,6 +6663,7 @@ Do not create new issue or we will close it as duplicate.
 | [NhtTrng53285558@twitter](https://twitter.com/NhtTrng53285558/status/1400998350191620096) | advertise |
 | [nhuthaoo0308@twitter](https://twitter.com/nhuthaoo0308/status/1386713288566661123) | advertise |
 | [NhuXg@twitter](https://twitter.com/NhuXg/status/1468960616220037125) | advertise |
+| [nh_keigyaku@twitter](https://twitter.com/nh_keigyaku/status/1578280148767416320) | advertise |
 | [Niaamrs1@twitter](https://twitter.com/Niaamrs1/status/1505443363838824449) | advertise |
 | [nichith11@twitter](https://twitter.com/nichith11/status/1391815897422045185) | advertise |
 | [NicholasBruneau@twitter](https://twitter.com/NicholasBruneau/status/1464751618642034688) | advertise |
