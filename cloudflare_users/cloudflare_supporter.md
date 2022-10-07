@@ -534,6 +534,7 @@ Do not create new issue or we will close it as duplicate.
 | [amir29601724@twitter](https://twitter.com/amir29601724/status/1573558606036967424) | advertise |
 | [amir55087591@twitter](https://twitter.com/amir55087591/status/1399965313156804610) | advertise |
 | [amiralibagher11@twitter](https://twitter.com/amiralibagher11/status/1575908612576362505) | advertise |
+| [amiralizadeh_pv@twitter](https://twitter.com/amiralizadeh_pv/status/1578367635422474240) | advertise |
 | [amirchitgaran@twitter](https://twitter.com/amirchitgaran/status/1384197111500083214) | advertise |
 | [AmirFusaini@twitter](https://twitter.com/AmirFusaini/status/1399362665416314883) | advertise |
 | [Amirh_1991@twitter](https://twitter.com/Amirh_1991/status/1530140150327541762) | advertise |
@@ -696,6 +697,7 @@ Do not create new issue or we will close it as duplicate.
 | [Apiwatgot1997@twitter](https://twitter.com/Apiwatgot1997/status/1496871363453538304) | advertise |
 | [apollon8825@twitter](https://twitter.com/apollon8825/status/1389773014586347524) | advertise |
 | [Apple77742684@twitter](https://twitter.com/Apple77742684/status/1398675272526745603) | advertise |
+| [AprilCo66885952@twitter](https://twitter.com/AprilCo66885952/status/1578373289004539904) | advertise |
 | [ApriliaLac@twitter](https://twitter.com/ApriliaLac/status/1495515577099640838) | advertise |
 | [Aqeel_AT@twitter](https://twitter.com/Aqeel_AT/status/1453733826006433807) | advertise |
 | [Aqibmah82111102@twitter](https://twitter.com/Aqibmah82111102/status/1399669775844974595) | advertise |
@@ -8001,6 +8003,7 @@ Do not create new issue or we will close it as duplicate.
 | [sajbersfera@twitter](https://twitter.com/sajbersfera/status/1412508700791787522) | moral (advertise) |
 | [SajibMamun8@twitter](https://twitter.com/SajibMamun8/status/1487575937243832332) | advertise |
 | [SajjadJabJ@twitter](https://twitter.com/SajjadJabJ/status/1518537507905884160) | advertise |
+| [sajjadjavidi@twitter](https://twitter.com/sajjadjavidi/status/1578363392082919425) | advertise |
 | [sakariye_mahad@twitter](https://twitter.com/sakariye_mahad/status/1565810286787002370) | advertise |
 | [sakoinfograhic@twitter](https://twitter.com/sakoinfograhic/status/1483137800547491840) | advertise |
 | [SakshiC60115393@twitter](https://twitter.com/SakshiC60115393/status/1378061425206194176) | advertise |
