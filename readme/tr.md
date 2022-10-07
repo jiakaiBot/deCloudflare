@@ -119,7 +119,7 @@ Bu depo, Tor kullanıcılarını ve diğer CDN'leri engelleyen "The Great Cloudw
 
 * [Diğer kullanıcının sesini okuyun ve düşüncelerinizi yazın.](../PEOPLE.md)
 
-* Bir şey ara: [Ombrelo](../subfiles/service.ombrelo.md)
+* Bir şey ara: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Alan listesini güncelleyin: [Talimatları listeleyin](../INSTRUCTION.md).
 
