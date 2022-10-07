@@ -119,7 +119,7 @@ See hoidla on loetelu veebisaitidest, mis asuvad "Suure pilvaseina" taga, blokee
 
 * [Loe teise kasutaja häält ja kirjuta oma mõtted.](../PEOPLE.md)
 
-* Otsige midagi: [Ombrelo](../subfiles/service.ombrelo.md)
+* Otsige midagi: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Domeenide loendi värskendamine: [Loetle juhised](../INSTRUCTION.md).
 
