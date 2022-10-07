@@ -119,7 +119,7 @@
 
 * [อ่านเสียงของผู้ใช้คนอื่นและเขียนความคิดของคุณ](../PEOPLE.md)
 
-* ค้นหาบางสิ่ง: [Ombrelo](../subfiles/service.ombrelo.md)
+* ค้นหาบางสิ่ง: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * อัปเดตรายการโดเมน: [คำแนะนำรายการ](../INSTRUCTION.md).
 
