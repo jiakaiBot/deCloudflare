@@ -119,7 +119,7 @@
 
 * [የሌላ ተጠቃሚን ድምጽ ያንብቡ እና ሀሳቦችዎን ይፃፉ ፡፡](../PEOPLE.md)
 
-* የሆነ ነገር ይፈልጉ: [Ombrelo](../subfiles/service.ombrelo.md)
+* የሆነ ነገር ይፈልጉ: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * የጎራ ዝርዝሩን አዘምን: [መመሪያዎችን ይዘርዝሩ](../INSTRUCTION.md).
 
