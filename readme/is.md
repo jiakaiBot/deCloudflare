@@ -119,7 +119,7 @@
 
 * [Lestu rödd annars notanda og skrifaðu hugsanir þínar.](../PEOPLE.md)
 
-* Leitaðu eitthvað: [Ombrelo](../subfiles/service.ombrelo.md)
+* Leitaðu eitthvað: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Uppfærðu lénslistann: [Listaðu leiðbeiningar](../INSTRUCTION.md).
 
