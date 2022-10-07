@@ -119,7 +119,7 @@ Vê repoya navnîşek malperên ku li paş "The Cloudwall mezin" in, rawestandin
 
 * [Dengê bikarhênerê din bixwînin û ramanên xwe binivîsin.](../PEOPLE.md)
 
-* Li tiştek bigerin: [Ombrelo](../subfiles/service.ombrelo.md)
+* Li tiştek bigerin: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Navnîşa domainê nûve bikin: [Rêbernameyên navnîş bikin](../INSTRUCTION.md).
 
