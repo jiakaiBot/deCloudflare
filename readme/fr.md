@@ -119,7 +119,7 @@ Ce référentiel est une liste de sites Web derrière « The Great Cloudwall »,
 
 * [Lisez la voix des autres utilisateurs et écrivez vos pensées.](../PEOPLE.md)
 
-* Rechercher quelque chose : [Ombrelo](../subfiles/service.ombrelo.md)
+* Rechercher quelque chose : [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Mettre à jour la liste des domaines : [Liste des instructions](../INSTRUCTION.md).
 
