@@ -119,7 +119,7 @@
 
 * [Izlasiet cita lietotāja balsi un uzrakstiet savas domas.](../PEOPLE.md)
 
-* Meklē kaut ko: [Ombrelo](../subfiles/service.ombrelo.md)
+* Meklē kaut ko: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Atjauniniet domēnu sarakstu: [Norādiet instrukcijas](../INSTRUCTION.md).
 
