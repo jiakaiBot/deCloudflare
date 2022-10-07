@@ -1,1 +1,60 @@
-{}
+{
+  "addons": {
+    "cfsstats@searxes.eu.org": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "102.0"
+            }
+          },
+          "version": "1.0.4",
+          "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/ombrelo/stats/addon.xpi?7ab6848d4d999fc08e685d5808999f706a0958e6c89b3aa1334d5ca181540461",
+          "update_hash": "sha256:7ab6848d4d999fc08e685d5808999f706a0958e6c89b3aa1334d5ca181540461"
+        }
+      ]
+    },
+    "design@searxes.eu.org": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "102.0"
+            }
+          },
+          "version": "1.0.9",
+          "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/ombrelo/design/addon.xpi?77e3236d41e87723b4428b717c319beb77638cd3f80a59df77d8118212144c50",
+          "update_hash": "sha256:77e3236d41e87723b4428b717c319beb77638cd3f80a59df77d8118212144c50"
+        }
+      ]
+    },
+    "addsearch@searxes.eu.org": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "102.0"
+            }
+          },
+          "version": "1.0.7",
+          "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/ombrelo/search/addon.xpi?72f6ad81810ec32d3514a17e2ee8a77d9129888e7c0830a8cb3e3f7ed80d6cd9",
+          "update_hash": "sha256:72f6ad81810ec32d3514a17e2ee8a77d9129888e7c0830a8cb3e3f7ed80d6cd9"
+        }
+      ]
+    },
+    "blocklist@searxes.danwin1210.me": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "102.0"
+            }
+          },
+          "version": "1.0.13",
+          "update_link": "https://git.disroot.org/dCF/deCloudflare/raw/branch/master/tool/ombrelo/bl/addon.xpi?9bb393aeef13e4093d1e3c437b940ba1666e69c48f2a51f7072d666ec05d4909",
+          "update_hash": "sha256:9bb393aeef13e4093d1e3c437b940ba1666e69c48f2a51f7072d666ec05d4909"
+        }
+      ]
+    }
+  }
+}
