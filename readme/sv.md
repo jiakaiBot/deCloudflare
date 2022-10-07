@@ -119,7 +119,7 @@ Detta förvar är en lista över webbplatser som ligger bakom "The Great Cloudwa
 
 * [Läs andra användares röst och skriv dina tankar.](../PEOPLE.md)
 
-* Sök något: [Ombrelo](../subfiles/service.ombrelo.md)
+* Sök något: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Uppdatera domänlistan: [Lista instruktioner](../INSTRUCTION.md).
 
