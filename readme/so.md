@@ -119,7 +119,7 @@ Kaydkan waa liisaska bogagga internetka ee ka dambeeya "The Cloud Cloud", oo xan
 
 * [Akhri codka isticmaale kale oo qor fikradahaaga.](../PEOPLE.md)
 
-* Raadi wax: [Ombrelo](../subfiles/service.ombrelo.md)
+* Raadi wax: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Cusboonaysii liiska magacyada: [Liiska tilmaamaha](../INSTRUCTION.md).
 
