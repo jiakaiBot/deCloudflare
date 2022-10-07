@@ -119,7 +119,7 @@ Qhov chaw cia no yog ib daim ntawv teev npe ntawm lub vev xaib uas nyob tom qab 
 
 * [Nyeem lwm tus neeg siv lub suab thiab sau koj qhov kev xav.](../PEOPLE.md)
 
-* Tshawb nrhiav qee yam: [Ombrelo](../subfiles/service.ombrelo.md)
+* Tshawb nrhiav qee yam: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Hloov kho cov npe sau: [Sau cov lus qhia](../INSTRUCTION.md).
 
