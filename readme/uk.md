@@ -119,7 +119,7 @@
 
 * [Прочитайте голос іншого користувача та запишіть свої думки.](../PEOPLE.md)
 
-* Шукайте щось: [Ombrelo](../subfiles/service.ombrelo.md)
+* Шукайте щось: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Оновіть список доменів: [Перелічіть інструкції](../INSTRUCTION.md).
 
