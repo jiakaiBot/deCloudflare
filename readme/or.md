@@ -119,7 +119,7 @@
 
 * [ଅନ୍ୟ ବ୍ୟବହାରକାରୀଙ୍କ ସ୍ୱର ପ Read ଏବଂ ତୁମର ଚିନ୍ତାଧାରା ଲେଖ |](../PEOPLE.md)
 
-* କିଛି ଖୋଜ |: [Ombrelo](../subfiles/service.ombrelo.md)
+* କିଛି ଖୋଜ |: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * ଡୋମେନ୍ ତାଲିକା ଅଦ୍ୟତନ କରନ୍ତୁ |: [ନିର୍ଦ୍ଦେଶାବଳୀ ତାଲିକା କର |](../INSTRUCTION.md).
 
