@@ -119,7 +119,7 @@ Repositori ieu mangrupikeun daptar situs wéb anu aya di tukangeun "The Great Cl
 
 * [Maca sora pangguna sanés sareng tuliskeun pikiran anjeun.](../PEOPLE.md)
 
-* Milarian hiji hal: [Ombrelo](../subfiles/service.ombrelo.md)
+* Milarian hiji hal: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Ngapdét daptar domain: [Daptar paréntah](../INSTRUCTION.md).
 
