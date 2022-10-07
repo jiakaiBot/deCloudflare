@@ -9857,6 +9857,7 @@ Do not create new issue or we will close it as duplicate.
 | [wael_shamsedin@twitter](https://twitter.com/wael_shamsedin/status/1522288287284711427) | advertise |
 | [Waffle2175@twitter](https://twitter.com/Waffle2175/status/1535801167816577024) | advertise |
 | [wahib0206@twitter](https://twitter.com/wahib0206/status/1522471146721099778) | advertise |
+| [wahide09476385@twitter](https://twitter.com/wahide09476385/status/1578259810029830147) | advertise |
 | [WahidKh61073340@twitter](https://twitter.com/WahidKh61073340/status/1483196682267463682) | advertise |
 | [WahWahKhaing18@twitter](https://twitter.com/WahWahKhaing18/status/1390549494274551814) | advertise |
 | [wahyu25679098@twitter](https://twitter.com/wahyu25679098/status/1385956756803579907) | advertise |
