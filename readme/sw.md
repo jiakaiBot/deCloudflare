@@ -119,7 +119,7 @@ Jalada hili ni orodha ya tovuti ambazo ziko nyuma "Cloudwall Kubwa", zinazuia wa
 
 * [Soma sauti ya mtumiaji mwingine na uandike mawazo yako.](../PEOPLE.md)
 
-* Tafuta kitu: [Ombrelo](../subfiles/service.ombrelo.md)
+* Tafuta kitu: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Sasisha orodha ya kikoa: [Maagizo ya orodha](../INSTRUCTION.md).
 
