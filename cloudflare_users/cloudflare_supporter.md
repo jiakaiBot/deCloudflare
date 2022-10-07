@@ -798,6 +798,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ashfaqlmtiaz@twitter](https://twitter.com/Ashfaqlmtiaz/status/1407297205174620164) | advertise |
 | [AshinNyannar@twitter](https://twitter.com/AshinNyannar/status/1395194731294957568) | advertise |
 | [AshokMA9@twitter](https://twitter.com/AshokMA9/status/1483742175225602051) | advertise |
+| [Ashqqqqq12@twitter](https://twitter.com/Ashqqqqq12/status/1578339268510257152) | advertise |
 | [ashutoshsinghac@twitter](https://twitter.com/ashutoshsinghac/status/1397847733793218560) | advertise |
 | [asia_hippo@twitter](https://twitter.com/asia_hippo/status/1407900933732716545) | advertise |
 | [AsifKha44639814@twitter](https://twitter.com/AsifKha44639814/status/1402506001039851522) | advertise |
@@ -7476,6 +7477,7 @@ Do not create new issue or we will close it as duplicate.
 | [pusi_sywm@twitter](https://twitter.com/pusi_sywm/status/1391396929540591616) | advertise |
 | [PustiuXP@twitter](https://twitter.com/PustiuXP/status/1384074566591401986) | advertise |
 | [putuphyo@twitter](https://twitter.com/putuphyo/status/1397100452815282177) | advertise |
+| [PVLDAma@twitter](https://twitter.com/PVLDAma/status/1578330881319587841) | advertise |
 | [pwagyi2@twitter](https://twitter.com/pwagyi2/status/1391966858610413575) | advertise |
 | [PwintPhuuWai1@twitter](https://twitter.com/PwintPhuuWai1/status/1391724159202385921) | advertise |
 | [PwintPhyuTun1@twitter](https://twitter.com/PwintPhyuTun1/status/1397559351238266880) | advertise |
