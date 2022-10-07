@@ -119,7 +119,7 @@ Repositori ini adalah daftar situs web yang berada di belakang "The Great Cloudw
 
 * [Baca suara pengguna lain dan tulis pemikiran Anda.](../PEOPLE.md)
 
-* Cari sesuatu: [Ombrelo](../subfiles/service.ombrelo.md)
+* Cari sesuatu: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Perbarui daftar domain: [Buat daftar instruksi](../INSTRUCTION.md).
 
