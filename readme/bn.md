@@ -119,7 +119,7 @@
 
 * [অন্য ব্যবহারকারীর ভয়েস পড়ুন এবং আপনার চিন্তাভাবনা লিখুন।](../PEOPLE.md)
 
-* কিছু অনুসন্ধান করুন: [Ombrelo](../subfiles/service.ombrelo.md)
+* কিছু অনুসন্ধান করুন: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * ডোমেন তালিকা আপডেট করুন: [নির্দেশাবলী তালিকা](../INSTRUCTION.md).
 
