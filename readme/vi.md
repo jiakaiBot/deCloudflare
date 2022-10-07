@@ -119,7 +119,7 @@ Kho lưu trữ này là danh sách các trang web đứng sau "Bức tường m�
 
 * [Nghe ý kiến của người dùng khác và viết những suy nghĩ của bạn.](../PEOPLE.md)
 
-* Tìm kiếm thứ gì đó: [Ombrelo](../subfiles/service.ombrelo.md)
+* Tìm kiếm thứ gì đó: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Cập nhật danh sách tên miền: [Danh sách và hướng dẫn](../INSTRUCTION.md).
 
