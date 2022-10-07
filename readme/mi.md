@@ -119,7 +119,7 @@ Ko tenei kohinga tetahi raarangi o nga paetukutuku kei muri i te "The Cloudwall 
 
 * [Panuihia te reo o tetahi atu kaiwhakamahi ka tuhi i o whakaaro.](../PEOPLE.md)
 
-* Rapua tetahi mea: [Ombrelo](../subfiles/service.ombrelo.md)
+* Rapua tetahi mea: [Ombrelo](../subfiles/service/ombrelo.md)
 
 * Whakahoutia te raarangi rohe: [Tuhia nga tohutohu](../INSTRUCTION.md).
 
