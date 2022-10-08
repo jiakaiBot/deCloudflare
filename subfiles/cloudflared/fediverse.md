@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,158 |
+| com | 3,159 |
 | net | 1,738 |
 | org | 1,218 |
 | social | 1,189 |
@@ -3818,6 +3818,7 @@ Here's a list of public Fediverse services.
 | cursed-images.xyz | Yes |
 | cursed.observer | No |
 | cursed.technology | Yes |
+| cursedquail.com | No |
 | curta.cc | No |
 | curta.red | No |
 | curtisjewell.website | No |
@@ -13479,7 +13480,7 @@ Here's a list of public Fediverse services.
 | nime.space | No |
 | nimmerland.space | No |
 | ninapaley.com | No |
-| nindanaoto.dev | No |
+| nindanaoto.dev | Yes |
 | nine-hells.net | Yes |
 | nine.land | Yes |
 | nine.moe | No |
@@ -16088,6 +16089,7 @@ Here's a list of public Fediverse services.
 | rdpstudio.top | Yes |
 | rdrama.cc | No |
 | re-medium.com | No |
+| react.town | No |
 | read-read.net | No |
 | readme.is | Yes |
 | readthefinemanual.net | No |
@@ -18180,6 +18182,7 @@ Here's a list of public Fediverse services.
 | stevencapellan.de | No |
 | stevenprins.com | Yes |
 | stevenson.scot | No |
+| stevensonav.ca | No |
 | steveroy.ca | Yes |
 | stevestreza.com | No |
 | sthorp.com | Yes |
@@ -18700,6 +18703,7 @@ Here's a list of public Fediverse services.
 | tassiaart.com | Yes |
 | tastefuldinosaurerotica.com | No |
 | tastingtraffic.net | No |
+| tastybugs.club | Yes |
 | tastypi.social | No |
 | tastytea.de | No |
 | tatakaibo.xyz | Yes |
@@ -21968,8 +21972,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,411 |
-| Normal | 17,514 |
+| Cloudflare | 4,413 |
+| Normal | 17,516 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
