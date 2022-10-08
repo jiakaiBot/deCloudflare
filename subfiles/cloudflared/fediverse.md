@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,157 |
+| com | 3,158 |
 | net | 1,738 |
 | org | 1,218 |
 | social | 1,189 |
@@ -11282,6 +11282,7 @@ Here's a list of public Fediverse services.
 | margemsulnomundo.com | No |
 | marginalie.eu | No |
 | margio.in | Yes |
+| margiovanni.com | Yes |
 | marimo-net.com | Yes |
 | marinintim.com | Yes |
 | mario.chat | No |
@@ -15026,6 +15027,7 @@ Here's a list of public Fediverse services.
 | piscolabis.me | No |
 | piss.restaurant | No |
 | piss.social | No |
+| pisskey.io | No |
 | pissqordia.space | No |
 | pitchfork.club | Yes |
 | pitichampi.fr | No |
@@ -21966,8 +21968,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,410 |
-| Normal | 17,513 |
+| Cloudflare | 4,411 |
+| Normal | 17,514 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
