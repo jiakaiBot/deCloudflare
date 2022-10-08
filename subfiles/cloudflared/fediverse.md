@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,157 |
-| net | 1,736 |
+| net | 1,737 |
 | org | 1,218 |
 | social | 1,188 |
 | de | 1,034 |
@@ -105,6 +105,7 @@ Here's a list of public Fediverse services.
 | 103.ms | No |
 | 1037.pub | No |
 | 1040.casa | Yes |
+| 1042.info | Yes |
 | 10daidon.net | No |
 | 10don.xyz | No |
 | 10hz.org | No |
@@ -9597,6 +9598,7 @@ Here's a list of public Fediverse services.
 | kiminona.co | No |
 | kimonosou.tokyo | No |
 | kimoty.net | Yes |
+| kimpire.net | No |
 | kimsible.com | No |
 | kinbaku.club | No |
 | kind.social | No |
@@ -21960,8 +21962,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,408 |
-| Normal | 17,509 |
+| Cloudflare | 4,409 |
+| Normal | 17,510 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
