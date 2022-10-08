@@ -2677,6 +2677,7 @@ Do not create new issue or we will close it as duplicate.
 | [Freedoiscan@twitter](https://twitter.com/Freedoiscan/status/1578135311263371267) | advertise |
 | [freehawk@twitter](https://twitter.com/freehawk/status/1383933154059190273) | advertise |
 | [freelancemehmet@twitter](https://twitter.com/freelancemehmet/status/1539330723848536064) | advertise |
+| [Freeman777333@twitter](https://twitter.com/Freeman777333/status/1578714396875857920) | advertise |
 | [freemcservernet@twitter](https://twitter.com/freemcservernet/status/1447640173626413064) | advertise |
 | [FreeMobileZone@twitter](https://twitter.com/FreeMobileZone/status/1422035788494254082) | advertise |
 | [Freesty92893100@twitter](https://twitter.com/Freesty92893100/status/1398106800356937731) | advertise |
