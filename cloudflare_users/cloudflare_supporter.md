@@ -7007,6 +7007,7 @@ Do not create new issue or we will close it as duplicate.
 | [oTxoOBgfiHebstE@twitter](https://twitter.com/oTxoOBgfiHebstE/status/1390823343826210818) | advertise |
 | [ouap0678@twitter](https://twitter.com/ouap0678/status/1380075673465708544) | advertise |
 | [OumarAlmanth@twitter](https://twitter.com/OumarAlmanth/status/1379111153566093318) | advertise |
+| [OurEarth_Alan@twitter](https://twitter.com/OurEarth_Alan/status/1578656435361435648) | advertise |
 | [ourglobaltrend8@twitter](https://twitter.com/ourglobaltrend8/status/1389995428129636353) | advertise |
 | [oUzdz7XUA3hleGv@twitter](https://twitter.com/oUzdz7XUA3hleGv/status/1403262458223992835) | advertise |
 | [Overdos61336881@twitter](https://twitter.com/Overdos61336881/status/1389286816906240000) | advertise |
