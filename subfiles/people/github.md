@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Access List - Internal Error and Losing Entries](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2310)
 - [Credit card PKOIN buyer never received code](https://github.com/pocketnetteam/documentation/issues/4)
 - [getting 403 response while spoofing headers 'X-My-X-Forwarded-For'](https://github.com/ustayready/fireprox/issues/40)
 - [Error: pngload_buffer: reached chunk/cache limits](https://github.com/imgproxy/imgproxy/issues/996)
