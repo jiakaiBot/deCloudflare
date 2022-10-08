@@ -2246,6 +2246,7 @@ Do not create new issue or we will close it as duplicate.
 | [dozen_of_love@twitter](https://twitter.com/dozen_of_love/status/1518761726728368128) | advertise |
 | [DpJocker@twitter](https://twitter.com/DpJocker/status/1383704630396284931) | advertise |
 | [dr0iz2@twitter](https://twitter.com/dr0iz2/status/1450296026137567232) | advertise |
+| [DragonD54319478@twitter](https://twitter.com/DragonD54319478/status/1578775008801062912) | advertise |
 | [dragonkevin27@twitter](https://twitter.com/dragonkevin27/status/1576117526643474435) | advertise |
 | [DragonTechIT@twitter](https://twitter.com/DragonTechIT/status/1437804344682893321) | advertise |
 | [drAhlawy@twitter](https://twitter.com/drAhlawy/status/1389690659188191234) | advertise |
@@ -5976,6 +5977,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mohamme01906351@twitter](https://twitter.com/Mohamme01906351/status/1378206168162525184) | advertise |
 | [mohamme41238644@twitter](https://twitter.com/mohamme41238644/status/1388453854174355456) | advertise |
 | [Mohamme53581949@twitter](https://twitter.com/Mohamme53581949/status/1386268709912600584) | advertise |
+| [MOHAMUDJAMA143@twitter](https://twitter.com/MOHAMUDJAMA143/status/1578782237981655041) | advertise |
 | [Mohan77793395@twitter](https://twitter.com/Mohan77793395/status/1392786277183803396) | advertise |
 | [Moha_q9q@twitter](https://twitter.com/Moha_q9q/status/1478010892612743175) | advertise |
 | [MohdRabiee@twitter](https://twitter.com/MohdRabiee/status/1568654807900033029) | advertise |
@@ -9217,6 +9219,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThuReinWinMyin2@twitter](https://twitter.com/ThuReinWinMyin2/status/1390487738906943489) | advertise |
 | [Thuriya41078119@twitter](https://twitter.com/Thuriya41078119/status/1390821084421705730) | advertise |
 | [ThushariPerer13@twitter](https://twitter.com/ThushariPerer13/status/1559901875839074305) | advertise |
+| [Thuta22160846@twitter](https://twitter.com/Thuta22160846/status/1578769655555948544) | advertise |
 | [ThuTa84554500@twitter](https://twitter.com/ThuTa84554500/status/1390704445143490562) | advertise |
 | [ThuThuHein11@twitter](https://twitter.com/ThuThuHein11/status/1527190956356751361) | advertise |
 | [ThuThuShinThan2@twitter](https://twitter.com/ThuThuShinThan2/status/1391637182171865092) | advertise |
