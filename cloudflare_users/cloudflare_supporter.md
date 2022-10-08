@@ -4560,8 +4560,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5050,6 +5050,7 @@ Do not create new issue or we will close it as duplicate.
 | [Leophir@twitter](https://twitter.com/Leophir/status/1406188576895819782) | advertise |
 | [LerbonR@twitter](https://twitter.com/LerbonR/status/1401222654883893254) | advertise |
 | [Lesprom_com@twitter](https://twitter.com/Lesprom_com/status/1516889062061260800) | advertise |
+| [lethanh05837008@twitter](https://twitter.com/lethanh05837008/status/1578610389386145793) | advertise |
 | [lethanh15@twitter](https://twitter.com/lethanh15/status/1552323280270266368) | advertise |
 | [lethanhha069@twitter](https://twitter.com/lethanhha069/status/1552704350161895424) | advertise |
 | [Letis12976524@twitter](https://twitter.com/Letis12976524/status/1408059624025051147) | advertise |
@@ -8805,6 +8806,7 @@ Do not create new issue or we will close it as duplicate.
 | [TattooNghia@twitter](https://twitter.com/TattooNghia/status/1399085631028879360) | advertise |
 | [tatuiyo@twitter](https://twitter.com/tatuiyo/status/1494144614231846912) | advertise |
 | [TatumGaming@twitter](https://twitter.com/TatumGaming/status/1448827518337888257) | advertise |
+| [tavakkoli2@twitter](https://twitter.com/tavakkoli2/status/1578616210035703813) | advertise |
 | [TawMi5@twitter](https://twitter.com/TawMi5/status/1495964843840397312) | advertise |
 | [Tax40813778@twitter](https://twitter.com/Tax40813778/status/1388201141821796353) | advertise |
 | [taxocrate@twitter](https://twitter.com/taxocrate/status/1491431895590404098) | advertise |
