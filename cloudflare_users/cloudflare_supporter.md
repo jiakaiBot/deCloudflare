@@ -2784,6 +2784,7 @@ Do not create new issue or we will close it as duplicate.
 | [gemnguyen4125@twitter](https://twitter.com/gemnguyen4125/status/1471739773786025987) | advertise |
 | [gemstoneslover@twitter](https://twitter.com/gemstoneslover/status/1376813245416173571) | advertise |
 | [GeneralGosu@twitter](https://twitter.com/GeneralGosu/status/1387508776429780993) | advertise |
+| [GenHalllo@twitter](https://twitter.com/GenHalllo/status/1578816981494816769) | advertise |
 | [Genius44697566@twitter](https://twitter.com/Genius44697566/status/1389792896690253824) | advertise |
 | [GeoffreyKP@twitter](https://twitter.com/GeoffreyKP/status/1575951853132873728) | advertise |
 | [geojiny2@twitter](https://twitter.com/geojiny2/status/1577685803979145216) | advertise |
@@ -2817,6 +2818,7 @@ Do not create new issue or we will close it as duplicate.
 | [GhulamJaved@twitter](https://twitter.com/GhulamJaved/status/1380050148135378944) | advertise |
 | [Gh_Kaychez@twitter](https://twitter.com/Gh_Kaychez/status/1575893615527616513) | advertise |
 | [GiaDat7@twitter](https://twitter.com/GiaDat7/status/1499011433946030084) | advertise |
+| [GiaMinhD1@twitter](https://twitter.com/GiaMinhD1/status/1578813469368803328) | advertise |
 | [giang90299930@twitter](https://twitter.com/giang90299930/status/1384561563617484802) | advertise |
 | [Giang96329651@twitter](https://twitter.com/Giang96329651/status/1389920131950604290) | advertise |
 | [GiangDV89@twitter](https://twitter.com/GiangDV89/status/1534565393628471296) | advertise |
