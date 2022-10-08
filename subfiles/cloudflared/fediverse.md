@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,157 |
-| net | 1,735 |
+| net | 1,736 |
 | org | 1,218 |
 | social | 1,188 |
 | de | 1,034 |
@@ -1206,6 +1206,7 @@ Here's a list of public Fediverse services.
 | archivefedifor.fun | No |
 | archous.net | No |
 | archraspberrypi.tk | No |
+| ardeer.cfd | No |
 | are-you-kidding.me | Yes |
 | area51.social | No |
 | area893.org | No |
@@ -2446,6 +2447,7 @@ Here's a list of public Fediverse services.
 | breadhub.net | No |
 | breadqueues.com | No |
 | breadtube.tv | No |
+| breakpoint.cafe | No |
 | brechanegra.net | No |
 | breeze.town | No |
 | breezy.cyou | No |
@@ -7253,6 +7255,7 @@ Here's a list of public Fediverse services.
 | govital.net | No |
 | govt.is | No |
 | goyim.app | No |
+| goyslop.cafe | No |
 | goziline.com | No |
 | gpgaming.de | No |
 | gppixelworks.com | No |
@@ -8909,6 +8912,7 @@ Here's a list of public Fediverse services.
 | javi.pro | No |
 | javier.dev | Yes |
 | javier.is | No |
+| javiersanchez.net | No |
 | javiljoen.net | No |
 | javisst.space | No |
 | javx.de | No |
@@ -11772,7 +11776,7 @@ Here's a list of public Fediverse services.
 | md.social | No |
 | md.tn | Yes |
 | md0.ru | No |
-| mdbenning.de | No |
+| mdbenning.de | Yes |
 | mdon.ee | No |
 | mdrockwell.net | No |
 | mdrqnxtagon.pw | No |
@@ -20940,7 +20944,7 @@ Here's a list of public Fediverse services.
 | wickenberg.nu | No |
 | wicker.nz | No |
 | wideboys.org | Yes |
-| widegamut.club | Yes |
+| widegamut.club | No |
 | widemus.de | No |
 | widerweb.org | No |
 | wideweb.me | No |
@@ -21957,7 +21961,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,408 |
-| Normal | 17,505 |
+| Normal | 17,509 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
