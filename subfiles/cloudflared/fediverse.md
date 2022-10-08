@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,159 |
-| net | 1,738 |
+| net | 1,739 |
 | org | 1,218 |
 | social | 1,189 |
 | de | 1,034 |
@@ -20459,6 +20459,7 @@ Here's a list of public Fediverse services.
 | vhome.info | No |
 | vibb.ro | No |
 | vibbe.xyz | No |
+| vibber.net | No |
 | vibeogame.online | No |
 | vibeshuttle.com | No |
 | vibewave.space | No |
@@ -21973,7 +21974,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,413 |
-| Normal | 17,516 |
+| Normal | 17,517 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
