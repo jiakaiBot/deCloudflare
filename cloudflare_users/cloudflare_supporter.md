@@ -2447,6 +2447,7 @@ Do not create new issue or we will close it as duplicate.
 | [eliekh05@twitter](https://twitter.com/eliekh05/status/1537787222874791938) | advertise |
 | [elihwyma@twitter](https://twitter.com/elihwyma/status/1380322325841772545) | advertise |
 | [elina_nns@twitter](https://twitter.com/elina_nns/status/1392283353135599624) | advertise |
+| [eling_barzegar@twitter](https://twitter.com/eling_barzegar/status/1578863383168028672) | advertise |
 | [elinotes_com@twitter](https://twitter.com/elinotes_com/status/1516871594278555648) | advertise |
 | [Eliseioprea2@twitter](https://twitter.com/Eliseioprea2/status/1399391669372522498) | advertise |
 | [EliteAce7@twitter](https://twitter.com/EliteAce7/status/1489080806580826112) | advertise |
