@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Don't get prompted for rclone mount name after configuring rclone](https://github.com/kelinger/OmniStream/issues/21)
+- [dev run error](https://github.com/flareact/flareact/issues/248)
 - [Access List - Internal Error and Losing Entries](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2310)
 - [Credit card PKOIN buyer never received code](https://github.com/pocketnetteam/documentation/issues/4)
 - [getting 403 response while spoofing headers 'X-My-X-Forwarded-For'](https://github.com/ustayready/fireprox/issues/40)
