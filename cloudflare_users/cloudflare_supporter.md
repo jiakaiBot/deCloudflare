@@ -1488,6 +1488,7 @@ Do not create new issue or we will close it as duplicate.
 | [BuiVanNam6365@twitter](https://twitter.com/BuiVanNam6365/status/1513903241309798403) | advertise |
 | [bui_loat@twitter](https://twitter.com/bui_loat/status/1395180660642381826) | advertise |
 | [bulguuu@twitter](https://twitter.com/bulguuu/status/1501150275868020743) | advertise |
+| [bulon9090@twitter](https://twitter.com/bulon9090/status/1578839085795639296) | advertise |
 | [bumrah888@twitter](https://twitter.com/bumrah888/status/1389055956856705024) | advertise |
 | [bunkercoin@twitter](https://twitter.com/bunkercoin/status/1482786162343395328) | advertise |
 | [bunny01627359@twitter](https://twitter.com/bunny01627359/status/1390340286769897475) | advertise |
