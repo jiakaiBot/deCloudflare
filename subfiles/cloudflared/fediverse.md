@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,157 |
-| net | 1,737 |
+| net | 1,738 |
 | org | 1,218 |
-| social | 1,188 |
+| social | 1,189 |
 | de | 1,034 |
 
 
@@ -18390,6 +18390,7 @@ Here's a list of public Fediverse services.
 | suprt.me | Yes |
 | sur.social | No |
 | suranyami.com | No |
+| surazal.net | No |
 | surfin.dog | No |
 | surfnet.space | No |
 | surftao.life | Yes |
@@ -18737,6 +18738,7 @@ Here's a list of public Fediverse services.
 | tcp.expert | Yes |
 | tcsh.online | No |
 | tcu-mstdn.tk | No |
+| tdd.social | No |
 | tds.xyz | No |
 | te-st.ru | Yes |
 | tea.codes | Yes |
@@ -21965,7 +21967,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,410 |
-| Normal | 17,511 |
+| Normal | 17,513 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
