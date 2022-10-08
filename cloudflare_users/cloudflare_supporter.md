@@ -303,6 +303,7 @@ Do not create new issue or we will close it as duplicate.
 | [AffairsNone@twitter](https://twitter.com/AffairsNone/status/1508646476964151301) | advertise |
 | [Affendi_Ghazali@twitter](https://twitter.com/Affendi_Ghazali/status/1406396046440239105) | advertise |
 | [afhiuss@twitter](https://twitter.com/afhiuss/status/1560455927110967298) | advertise |
+| [afif64361699@twitter](https://twitter.com/afif64361699/status/1578688042575233028) | advertise |
 | [afif___rizki@twitter](https://twitter.com/afif___rizki/status/1526398091141664768) | advertise |
 | [AfizOmari@twitter](https://twitter.com/AfizOmari/status/1404102260293054466) | advertise |
 | [afrash@twitter](https://twitter.com/afrash/status/1369943509839585281) | advertise |
