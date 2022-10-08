@@ -4565,8 +4565,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7241,6 +7241,7 @@ Do not create new issue or we will close it as duplicate.
 | [Phong28012797@twitter](https://twitter.com/Phong28012797/status/1544251355790843904) | advertise |
 | [PhongCa70106622@twitter](https://twitter.com/PhongCa70106622/status/1394490447460929543) | advertise |
 | [phongchanog@twitter](https://twitter.com/phongchanog/status/1495811312659857409) | advertise |
+| [Phongle14182759@twitter](https://twitter.com/Phongle14182759/status/1578766613947379714) | advertise |
 | [phonglol9x@twitter](https://twitter.com/phonglol9x/status/1473306367737827328) | advertise |
 | [PhongNg16713251@twitter](https://twitter.com/PhongNg16713251/status/1381110708708864002) | advertise |
 | [phongng60616682@twitter](https://twitter.com/phongng60616682/status/1532517081169526784) | advertise |
@@ -7268,6 +7269,7 @@ Do not create new issue or we will close it as duplicate.
 | [phudung9999@twitter](https://twitter.com/phudung9999/status/1403754600411197440) | advertise |
 | [phumazy@twitter](https://twitter.com/phumazy/status/1394736147104890882) | advertise |
 | [Phuong85dn@twitter](https://twitter.com/Phuong85dn/status/1498692053269872646) | advertise |
+| [phuonggo7777@twitter](https://twitter.com/phuonggo7777/status/1578765729985593351) | advertise |
 | [PhuongN06408230@twitter](https://twitter.com/PhuongN06408230/status/1380512562735804418) | advertise |
 | [PhuongN09560858@twitter](https://twitter.com/PhuongN09560858/status/1377291979885748228) | advertise |
 | [phuongnamxaxoo1@twitter](https://twitter.com/phuongnamxaxoo1/status/1395295769100357633) | advertise |
