@@ -6167,6 +6167,7 @@ Here's a list of public Fediverse services.
 | flussnoten.de | No |
 | fly.dev | No |
 | flyand.chat | Yes |
+| flyaway.city | No |
 | flying-snail.de | No |
 | flyingcube.tech | No |
 | flytandemeistring.space | No |
@@ -11071,6 +11072,7 @@ Here's a list of public Fediverse services.
 | macondo.info | No |
 | macro.tokyo | No |
 | macsnet.cz | No |
+| macwinlin.cloud | Yes |
 | mad-scientist.club | No |
 | madbob.org | No |
 | madcam.co.uk | No |
@@ -21962,8 +21964,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,409 |
-| Normal | 17,510 |
+| Cloudflare | 4,410 |
+| Normal | 17,511 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
