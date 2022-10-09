@@ -117,9 +117,9 @@ Yog Cloudflare paim koj cov ntaub ntawv lossis yuav tsis cia koj txuas rau peb c
 
 | Npe | Tus tsim tawm | Txhawb nqa | Thaiv tuaj yeem | Qhia tuaj yeem siv tau | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Yog lawm**     | **Yog lawm**     |  **Yog lawm** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Tsis yog     | **Yog lawm**     |  **Yog lawm** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Tsis yog     | **Yog lawm**     |  **Yog lawm** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Yog lawm**     | **Yog lawm**     |  **Yog lawm** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Tsis yog     | **Yog lawm**     |  **Yog lawm** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Tsis yog     | **Yog lawm**     |  **Yog lawm** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Yog lawm**     | **Yog lawm**     |  Tsis yog |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Yog lawm**     | **Yog lawm**     |  Tsis yog |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Tsis yog     | **Yog lawm**     |  Tsis yog |
@@ -389,7 +389,7 @@ Yog li peb pom zoo kom cov lus saum toj no nkaus xwb. Tsis muaj dab tsi ntxiv.
 
 - [Yog tias koj xav siv qhov tsis yog ISP DNS, xav txog kev siv OpenNIC Tier2 DNS kev pabcuam lossis lwm tus tsis-Cloudflare DNS kev pabcuam.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Thaiv Cloudflare nrog DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Thaiv Cloudflare nrog DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Koj tuaj yeem siv Tor ua DNS daws teeb meem. [Yog tias koj tsis yog Tor tus kws tshaj lij, nug nqe lus nug ntawm no.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Yog li peb pom zoo kom cov lus saum toj no nkaus xwb. Tsis muaj dab tsi ntxiv.
 
 - Nws yog qhov tsis txaus siab tias GNU GPL version 4 tuaj yeem suav nrog cov ntaub ntawv tiv thaiv khaws cia cov cai tom qab cov kev pabcuam, uas yuav tsum tau siv rau txhua qhov GPLv4 thiab tom qab cov kev pabcuam uas tsawg kawg qhov cai tau nkag los ntawm cov khoom nruab nrab uas tsis cais cov neeg siv Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
