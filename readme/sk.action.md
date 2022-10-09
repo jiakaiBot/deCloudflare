@@ -117,9 +117,9 @@ Ak služba Cloudflare prezradí vaše informácie alebo vám nedovolí pripojiť
 
 | názov | Vývojár | podpora | Môže zablokovať | Môže upozorniť | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Áno**     | **Áno**     |  **Áno** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nie     | **Áno**     |  **Áno** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nie     | **Áno**     |  **Áno** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Áno**     | **Áno**     |  **Áno** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nie     | **Áno**     |  **Áno** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nie     | **Áno**     |  **Áno** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Áno**     | **Áno**     |  Nie |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Áno**     | **Áno**     |  Nie |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nie     | **Áno**     |  Nie |
@@ -389,7 +389,7 @@ Preto odporúčame iba vyššie uvedenú tabuľku. Nič viac.
 
 - [Ak by ste chceli používať DNS, ktoré nie sú od ISP, zvážte použitie služby DNS OpenNIC Tier2 alebo ktorejkoľvek zo služieb DNS iných ako Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokujte Cloudflare pomocou DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Blokujte Cloudflare pomocou DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Tor môžete použiť ako prekladač DNS. [Ak nie ste odborníkom na Tor, opýtajte sa tu.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Preto odporúčame iba vyššie uvedenú tabuľku. Nič viac.
 
 - Je mysliteľné, že GNU GPL verzia 4 by mohla obsahovať ustanovenie proti ukladaniu zdrojového kódu za takúto službu, vyžadujúce pre všetky programy GPLv4 a novšie programy, aby bol aspoň zdrojový kód prístupný prostredníctvom média, ktoré nediskriminuje používateľov Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
