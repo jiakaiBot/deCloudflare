@@ -2438,6 +2438,7 @@ Do not create new issue or we will close it as duplicate.
 | [EiThinzarNwe1@twitter](https://twitter.com/EiThinzarNwe1/status/1391962177448329221) | advertise |
 | [EiThinzarPyae1@twitter](https://twitter.com/EiThinzarPyae1/status/1389877110940917761) | advertise |
 | [eivissaprime@twitter](https://twitter.com/eivissaprime/status/1565910896924250114) | advertise |
+| [ekafjr2802@twitter](https://twitter.com/ekafjr2802/status/1579097844115390464) | advertise |
 | [Ekham13@twitter](https://twitter.com/Ekham13/status/1395515057883209731) | advertise |
 | [el3mentry@twitter](https://twitter.com/el3mentry/status/1402187903665463296) | advertise |
 | [Elaine01799523@twitter](https://twitter.com/Elaine01799523/status/1397575836140589056) | advertise |
