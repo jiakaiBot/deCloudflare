@@ -5403,6 +5403,7 @@ Do not create new issue or we will close it as duplicate.
 | [MAHMOOO39692560@twitter](https://twitter.com/MAHMOOO39692560/status/1401857300999122947) | advertise |
 | [Mahmoud49635901@twitter](https://twitter.com/Mahmoud49635901/status/1405065202303963136) | advertise |
 | [Mahmoud59761367@twitter](https://twitter.com/Mahmoud59761367/status/1554761179062468609) | advertise |
+| [Mahyar1985@twitter](https://twitter.com/Mahyar1985/status/1578914921672503296) | advertise |
 | [Mai46408349@twitter](https://twitter.com/Mai46408349/status/1391870166074490883) | advertise |
 | [Maianhb27619314@twitter](https://twitter.com/Maianhb27619314/status/1546542411995746310) | advertise |
 | [MaiCoLong1@twitter](https://twitter.com/MaiCoLong1/status/1494931023662313472) | advertise |
@@ -7813,6 +7814,7 @@ Do not create new issue or we will close it as duplicate.
 | [RisingHighPrie1@twitter](https://twitter.com/RisingHighPrie1/status/1478009018245390338) | advertise |
 | [Ritasako@twitter](https://twitter.com/Ritasako/status/1553334921107611648) | advertise |
 | [RiteshC71611639@twitter](https://twitter.com/RiteshC71611639/status/1496720405281001480) | advertise |
+| [Ritheshdsz1989@twitter](https://twitter.com/Ritheshdsz1989/status/1578947123977981952) | advertise |
 | [Rittipo80704084@twitter](https://twitter.com/Rittipo80704084/status/1403266234083282945) | advertise |
 | [RitupanBorah12@twitter](https://twitter.com/RitupanBorah12/status/1390775684285403137) | advertise |
 | [rival_finance@twitter](https://twitter.com/rival_finance/status/1407415777687490571) | advertise |
@@ -9417,6 +9419,7 @@ Do not create new issue or we will close it as duplicate.
 | [Traidam48945344@twitter](https://twitter.com/Traidam48945344/status/1558491875031805952) | advertise |
 | [TraiDm50811820@twitter](https://twitter.com/TraiDm50811820/status/1398131670214057984) | advertise |
 | [TraiLng46703315@twitter](https://twitter.com/TraiLng46703315/status/1553274132703301632) | advertise |
+| [TraiNgoan1508@twitter](https://twitter.com/TraiNgoan1508/status/1578923325601898497) | advertise |
 | [TramNgu43948092@twitter](https://twitter.com/TramNgu43948092/status/1469917328255041536) | advertise |
 | [tranbach271999@twitter](https://twitter.com/tranbach271999/status/1552674244215341056) | advertise |
 | [tranceattic@twitter](https://twitter.com/tranceattic/status/1468814229717274628) | advertise |
