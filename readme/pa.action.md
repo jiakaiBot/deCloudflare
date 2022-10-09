@@ -117,9 +117,9 @@ http://crimeflare.eu.org
 
 | ਨਾਮ | ਡਿਵੈਲਪਰ | ਸਹਾਇਤਾ | ਰੋਕ ਸਕਦਾ ਹੈ | ਨੂੰ ਸੂਚਿਤ ਕਰ ਸਕਦਾ ਹੈ | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ਹਾਂ**     | **ਹਾਂ**     |  **ਹਾਂ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ਨਹੀਂ     | **ਹਾਂ**     |  **ਹਾਂ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ਨਹੀਂ     | **ਹਾਂ**     |  **ਹਾਂ** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ਹਾਂ**     | **ਹਾਂ**     |  **ਹਾਂ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ਨਹੀਂ     | **ਹਾਂ**     |  **ਹਾਂ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ਨਹੀਂ     | **ਹਾਂ**     |  **ਹਾਂ** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ਹਾਂ**     | **ਹਾਂ**     |  ਨਹੀਂ |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **ਹਾਂ**     | **ਹਾਂ**     |  ਨਹੀਂ |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ਨਹੀਂ     | **ਹਾਂ**     |  ਨਹੀਂ |
@@ -389,7 +389,7 @@ die();
 
 - [ਜੇ ਤੁਸੀਂ ਨਾਨ-ਆਈਐਸਪੀ ਡੀਐਨਐਸ ਵਰਤਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਓਪਨਨਿਕ ਟੀਅਰ 2 ਡੀਐਨਐਸ ਸੇਵਾ ਜਾਂ ਕਿਸੇ ਵੀ ਗੈਰ-ਕਲਾ Cloudਡਫਲੇਅਰ ਡੀਐਨਐਸ ਸੇਵਾਵਾਂ ਦੀ ਵਰਤੋਂ ਕਰਨ 'ਤੇ ਵਿਚਾਰ ਕਰੋ.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS ਨਾਲ ਕਲਾਉਡਫਲੇਅਰ ਰੋਕੋ. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - DNS ਨਾਲ ਕਲਾਉਡਫਲੇਅਰ ਰੋਕੋ. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - ਤੁਸੀਂ ਟੋਰ ਨੂੰ ਡੀਐਨਐਸ ਰੈਜ਼ੋਲਵਰ ਵਜੋਂ ਵਰਤ ਸਕਦੇ ਹੋ. [ਜੇ ਤੁਸੀਂ ਟੋਰ ਮਾਹਰ ਨਹੀਂ ਹੋ, ਤਾਂ ਇੱਥੇ ਪ੍ਰਸ਼ਨ ਪੁੱਛੋ.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - ਇਹ ਸਮਝਿਆ ਜਾ ਸਕਦਾ ਹੈ ਕਿ ਜੀਐਨਯੂ ਜੀਪੀਐਲ ਸੰਸਕਰਣ 4 ਵਿਚ ਅਜਿਹੀ ਸੇਵਾ ਦੇ ਪਿੱਛੇ ਸਰੋਤ ਕੋਡ ਨੂੰ ਸਟੋਰ ਕਰਨ ਦੇ ਵਿਰੁੱਧ ਇਕ ਵਿਵਸਥਾ ਸ਼ਾਮਲ ਹੋ ਸਕਦੀ ਹੈ, ਜਿਸ ਵਿਚ ਸਾਰੇ ਜੀਪੀਐਲਵੀ 4 ਅਤੇ ਬਾਅਦ ਦੇ ਪ੍ਰੋਗਰਾਮਾਂ ਦੀ ਜ਼ਰੂਰਤ ਹੈ ਜੋ ਘੱਟੋ ਘੱਟ ਸਰੋਤ ਕੋਡ ਨੂੰ ਇਕ ਮਾਧਿਅਮ ਦੁਆਰਾ ਪਹੁੰਚਯੋਗ ਹੈ ਜੋ ਟੋਰ ਉਪਭੋਗਤਾਵਾਂ ਨਾਲ ਵਿਤਕਰਾ ਨਹੀਂ ਕਰਦਾ.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
