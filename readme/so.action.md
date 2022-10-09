@@ -117,9 +117,9 @@ Haddii Cloudflare ay daadato macluumaadkaaga ama aysan kuu oggolaan doonin inaad
 
 | Magaca | Horumar | Taageero | Joojin Karaa | Ogeysiin karaa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Haa**     | **Haa**     |  **Haa** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Maya     | **Haa**     |  **Haa** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Maya     | **Haa**     |  **Haa** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Haa**     | **Haa**     |  **Haa** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Maya     | **Haa**     |  **Haa** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Maya     | **Haa**     |  **Haa** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Haa**     | **Haa**     |  Maya |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Haa**     | **Haa**     |  Maya |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Maya     | **Haa**     |  Maya |
@@ -389,7 +389,7 @@ Sidaa darteed waxaan kugula talineynaa miiska kor ku xusan oo keliya. Wax kale m
 
 - [Haddii aad jeclaan lahayd inaad isticmaasho DNS aan ISP ahayn, tixgeli adeegsiga adeegga OpenNIC Tier2 DNS ama mid ka mid ah adeegyada aan Cloudflare DNS ahayn.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Ka jooji Cloudflare leh DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Ka jooji Cloudflare leh DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Waxaad u isticmaali kartaa Tor sida xalliyaha DNS. [Haddii aadan aheyn khabiir Tor, halkaan weydii su'aal.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Sidaa darteed waxaan kugula talineynaa miiska kor ku xusan oo keliya. Wax kale m
 
 - Waa macquul in GNU GPL nooca 4 ay ka mid noqon karto qodob ka dhan ah keydinta koodhka ilaha ka dambeeya adeegan, oo looga baahan yahay dhammaan GPLv4 iyo barnaamijyada dambe ee ugu yaraan lambarka isha laga heli karo iyada oo la adeegsanayo warbaahin aan kala sooc lahayn dadka isticmaala Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
