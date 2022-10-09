@@ -117,9 +117,9 @@ AFAIK, нөлдік сайт. Сіз оларға сенесіз бе?
 
 | Аты-жөні | Әзірлеуші | Қолдау | Блоктай алады | Хабарлай алады | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Иә**     | **Иә**     |  **Иә** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Жоқ     | **Иә**     |  **Иә** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Жоқ     | **Иә**     |  **Иә** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Иә**     | **Иә**     |  **Иә** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Жоқ     | **Иә**     |  **Иә** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Жоқ     | **Иә**     |  **Иә** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Иә**     | **Иә**     |  Жоқ |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Иә**     | **Иә**     |  Жоқ |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Жоқ     | **Иә**     |  Жоқ |
@@ -389,7 +389,7 @@ die();
 
 - [Егер сіз ISP емес DNS пайдаланғыңыз келсе, OpenNIC Tier2 DNS қызметін немесе Cloudflare емес кез келген DNS қызметтерін пайдаланыңыз.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare-ді DNS көмегімен блоктаңыз. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Cloudflare-ді DNS көмегімен блоктаңыз. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Торды DNS шешуші ретінде пайдалануға болады. [Егер сіз Tor маманы болмасаңыз, мына жерден сұрақ қойыңыз.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - GNU GPL 4-нұсқасында барлық серверлердің ішінде GPLv4 және одан кейінгі бағдарламалар үшін, ең болмағанда бастапқы кодқа Tor қолданушыларын кемсітпейтін орта арқылы қол жетімділікті талап ететін бастапқы кодты сақтауға қарсы ереже болуы мүмкін.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
