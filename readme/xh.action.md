@@ -117,9 +117,9 @@ Ukuba i-Cloudflare ivuza ulwazi lwakho okanye ayikuvumeli ukuba uqhagamshele kwi
 
 | Igama | Umthuthukisi | Inkxaso | Unokuthintela | Unokwazisa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ewe**     | **Ewe**     |  **Ewe** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hayi     | **Ewe**     |  **Ewe** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hayi     | **Ewe**     |  **Ewe** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ewe**     | **Ewe**     |  **Ewe** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hayi     | **Ewe**     |  **Ewe** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hayi     | **Ewe**     |  **Ewe** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ewe**     | **Ewe**     |  Hayi |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Ewe**     | **Ewe**     |  Hayi |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Hayi     | **Ewe**     |  Hayi |
@@ -389,7 +389,7 @@ Ke ngoko sicebisa ngaphezulu kwetafile kuphela. Ayikho enye.
 
 - [Ukuba ungathanda ukusebenzisa i-non-ISP DNS, cinga ukusebenzisa i-OpenNIC Tier2 DNS inkonzo okanye naziphi na iinkonzo ezingezizo ze-Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Vimba i-Cloudflare nge-DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Vimba i-Cloudflare nge-DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Ungasebenzisa iTor njengesisombululo se-DNS. [Ukuba awuyongcali yeTor, buza umbuzo apha.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Ke ngoko sicebisa ngaphezulu kwetafile kuphela. Ayikho enye.
 
 - Kuyacingelwa ukuba i-GNU GPL inguqulelo yesi-4 inokubandakanya ukubonelelwa kokugcina ikhowudi yemvelaphi ngasemva kwale nkonzo, efuna yonke i-GPLv4 kunye neenkqubo zangoko ubuncinci ukuba ikhowudi yemithombo ifikeleleke ngendlela engacaluliyo kubasebenzisi beTor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
