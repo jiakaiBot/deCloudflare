@@ -117,9 +117,9 @@ http://crimeflare.eu.org
 
 | নাম | বিকাশকারী | সমর্থন | ক্যান ব্লক | জানাতে পারি Can | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **হ্যাঁ**     | **হ্যাঁ**     |  **হ্যাঁ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | না     | **হ্যাঁ**     |  **হ্যাঁ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | না     | **হ্যাঁ**     |  **হ্যাঁ** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **হ্যাঁ**     | **হ্যাঁ**     |  **হ্যাঁ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | না     | **হ্যাঁ**     |  **হ্যাঁ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | না     | **হ্যাঁ**     |  **হ্যাঁ** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **হ্যাঁ**     | **হ্যাঁ**     |  না |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **হ্যাঁ**     | **হ্যাঁ**     |  না |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | না     | **হ্যাঁ**     |  না |
@@ -389,7 +389,7 @@ die();
 
 - [আপনি যদি নন-আইএসপি ডিএনএস ব্যবহার করতে চান তবে ওপেননিক টিয়ার 2 ডিএনএস পরিষেবা বা নন-ক্লাউডফ্লেয়ার ডিএনএস পরিষেবাগুলি বিবেচনা করুন।](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - ডিএনএস সহ ক্লাউডফ্লেয়ার অবরোধ করুন। [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - ডিএনএস সহ ক্লাউডফ্লেয়ার অবরোধ করুন। [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - আপনি টরকে ডিএনএস রেজলভার হিসাবে ব্যবহার করতে পারেন। [আপনি যদি টোর বিশেষজ্ঞ না হন তবে এখানে প্রশ্ন করুন।](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - এটি অনুমেয় যে জিএনইউ জিপিএল 4 সংস্করণে এই ধরনের পরিষেবার পিছনে উত্স কোড সংরক্ষণের বিধান অন্তর্ভুক্ত থাকতে পারে, যা সমস্ত জিপিএলভি 4 এবং পরবর্তী প্রোগ্রামগুলির জন্য প্রয়োজন যা কমপক্ষে উত্স কোডটি এমন একটি মাধ্যমের মাধ্যমে অ্যাক্সেসযোগ্য যা টোর ব্যবহারকারীদের সাথে বৈষম্যমূলক আচরণ করে না।
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
