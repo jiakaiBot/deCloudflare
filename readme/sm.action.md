@@ -117,9 +117,9 @@ A faʻapea e faʻasalalau e le Cloudflare au faʻamatalaga pe le tuʻuina oe e f
 
 | Igoa | Atinaʻe | Lagolago | Mafai poloka | Mafai ona Faʻailoa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ioe**     | **ioe**     |  **ioe** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | leai     | **ioe**     |  **ioe** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | leai     | **ioe**     |  **ioe** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ioe**     | **ioe**     |  **ioe** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | leai     | **ioe**     |  **ioe** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | leai     | **ioe**     |  **ioe** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ioe**     | **ioe**     |  leai |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **ioe**     | **ioe**     |  leai |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | leai     | **ioe**     |  leai |
@@ -389,7 +389,7 @@ O le mea lea matou te fautua atu luga naʻo le laulau. E leai se isi mea
 
 - [Afai e te manaʻo e faʻaaoga le-ISP DNS, mafaufau e faʻaaoga le OpenNIC Tier2 DNS tautua poʻo seisi o auaunaga e leʻo le Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Poloka Cloudflare ma DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Poloka Cloudflare ma DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - E mafai ona e faʻaaogaina Tor e pei o le DNS resolver. [Afai e te le o Tor poto, fesili fesili iinei.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ O le mea lea matou te fautua atu luga naʻo le laulau. E leai se isi mea
 
 - E talitonuina o le GNU GPL version 4 e mafai ona aofia ai se aiaiga faʻasaga i le faʻasaoina o le source code i tua atu o sea tautua, manaʻomia mo GPLv4 uma ma polokalame mulimuli ane o le mea e maua ai le code code e auala atu i se auala e le faʻailoga tagata Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
