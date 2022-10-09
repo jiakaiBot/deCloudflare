@@ -822,6 +822,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aster21Team@twitter](https://twitter.com/Aster21Team/status/1395622416819179521) | advertise |
 | [Asuka68530199@twitter](https://twitter.com/Asuka68530199/status/1552187901449945089) | advertise |
 | [at251105320@twitter](https://twitter.com/at251105320/status/1505566745951875074) | advertise |
+| [Ata720506551@twitter](https://twitter.com/Ata720506551/status/1579033642827149312) | advertise |
 | [AtaAtaei5@twitter](https://twitter.com/AtaAtaei5/status/1471392503802875906) | advertise |
 | [atanu19233962@twitter](https://twitter.com/atanu19233962/status/1569739614734422016) | advertise |
 | [ataqureshi@twitter](https://twitter.com/ataqureshi/status/1479494465177985025) | advertise |
@@ -9757,6 +9758,7 @@ Do not create new issue or we will close it as duplicate.
 | [venkats02968750@twitter](https://twitter.com/venkats02968750/status/1402898594030526468) | advertise |
 | [Venn34541103@twitter](https://twitter.com/Venn34541103/status/1397760420249804800) | advertise |
 | [Veno55209967@twitter](https://twitter.com/Veno55209967/status/1491422483966468100) | advertise |
+| [VentryShield@twitter](https://twitter.com/VentryShield/status/1579034613347135489) | advertise |
 | [Venus20695@twitter](https://twitter.com/Venus20695/status/1575401053012791296) | advertise |
 | [Venus94618205@twitter](https://twitter.com/Venus94618205/status/1394980396618682370) | advertise |
 | [VenusKhang@twitter](https://twitter.com/VenusKhang/status/1401099072740626434) | advertise |
