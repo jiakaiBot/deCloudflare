@@ -117,9 +117,9 @@ Cloudflare bilgilerinizi sızdırırsa veya sunucularımıza bağlanmanıza izin
 
 | İsim Soyisim | Geliştirici | Destek | Engelleyebilir | Bildirebilir | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Evet**     | **Evet**     |  **Evet** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hayır     | **Evet**     |  **Evet** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hayır     | **Evet**     |  **Evet** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Evet**     | **Evet**     |  **Evet** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hayır     | **Evet**     |  **Evet** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hayır     | **Evet**     |  **Evet** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Evet**     | **Evet**     |  Hayır |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Evet**     | **Evet**     |  Hayır |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Hayır     | **Evet**     |  Hayır |
@@ -389,7 +389,7 @@ Bu nedenle, yalnızca yukarıdaki tabloyu öneriyoruz. Başka hiçbir şey.
 
 - [ISP dışı DNS kullanmak istiyorsanız, OpenNIC Tier2 DNS hizmetini veya Cloudflare olmayan DNS hizmetlerinden herhangi birini kullanmayı düşünün.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare'yi DNS ile engelleyin. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Cloudflare'yi DNS ile engelleyin. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Tor'u DNS çözümleyici olarak kullanabilirsiniz. [Tor uzmanı değilseniz, buradan soru sorun.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Bu nedenle, yalnızca yukarıdaki tabloyu öneriyoruz. Başka hiçbir şey.
 
 - GNU GPL sürüm 4'ün, tüm GPLv4 ve sonraki programlar için en azından kaynak koda Tor kullanıcılarına karşı ayrımcılık yapmayan bir ortam aracılığıyla erişilebilmesini gerektiren bu tür bir hizmetin arkasında kaynak kodu depolamaya karşı bir hüküm içerebileceği düşünülebilir.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
