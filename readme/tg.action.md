@@ -117,9 +117,9 @@ AFAIK, вебсайти сифр ин корро мекунад. Оё шумо �
 
 | Ном | Таҳиякунанда | Дастгирӣ | Метавонед бастан | Огоҳ карда метавонад | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Бале**     | **Бале**     |  **Бале** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Бале**     |  **Бале** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Бале**     |  **Бале** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Бале**     | **Бале**     |  **Бале** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Бале**     |  **Бале** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Бале**     |  **Бале** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Бале**     | **Бале**     |  Не |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Бале**     | **Бале**     |  Не |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Не     | **Бале**     |  Не |
@@ -389,7 +389,7 @@ die();
 
 - [Агар шумо хоҳед, ки DNS-и ғайримасъули интернетро истифода баред, дар бораи истифодаи хадамоти OpenNIC Tier2 DNS ё ягон хидмати ғайри Cloudflare DNS фикр кунед.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Бастани Cloudflare бо DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Бастани Cloudflare бо DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Шумо метавонед Tor -ро ҳамчун ҳалкунандаи DNS истифода баред. [Агар шумо коршиноси Tor набошед, дар ин ҷо савол диҳед.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - Тасаввур кардан мумкин аст, ки версияи GNU GPL 4 метавонад дорои муқаррарот дар бораи нигоҳ доштани рамзи сарчашма дар паси чунин хидматро дар бар гирад ва барои ҳама барномаҳои GPLv4 ва баъдтар талаб кунад, ки ҳадди аққал рамзи манбаъ тавассути василае дастрас карда шавад, ки корбарони Tor-ро табъиз накунанд.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
