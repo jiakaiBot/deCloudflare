@@ -117,9 +117,9 @@ AFAIK, ເວັບໄຊທ໌ສູນເຮັດສິ່ງນີ້. ທ�
 
 | ຊື່ | ນັກພັດທະນາ | ສະ ໜັບ ສະ ໜູນ | ສາມາດບລັອກໄດ້ | ສາມາດແຈ້ງໃຫ້ຊາບ | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ແມ່ນແລ້ວ**     | **ແມ່ນແລ້ວ**     |  **ແມ່ນແລ້ວ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ບໍ່     | **ແມ່ນແລ້ວ**     |  **ແມ່ນແລ້ວ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ບໍ່     | **ແມ່ນແລ້ວ**     |  **ແມ່ນແລ້ວ** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ແມ່ນແລ້ວ**     | **ແມ່ນແລ້ວ**     |  **ແມ່ນແລ້ວ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ບໍ່     | **ແມ່ນແລ້ວ**     |  **ແມ່ນແລ້ວ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ບໍ່     | **ແມ່ນແລ້ວ**     |  **ແມ່ນແລ້ວ** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ແມ່ນແລ້ວ**     | **ແມ່ນແລ້ວ**     |  ບໍ່ |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **ແມ່ນແລ້ວ**     | **ແມ່ນແລ້ວ**     |  ບໍ່ |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ບໍ່     | **ແມ່ນແລ້ວ**     |  ບໍ່ |
@@ -389,7 +389,7 @@ die();
 
 - [ຖ້າທ່ານຕ້ອງການໃຊ້ DNS ທີ່ບໍ່ແມ່ນ ISP, ພິຈາລະນາໃຊ້ບໍລິການ DNS OpenNIC Tier2 DNS ຫຼືບໍລິການ DNS ທີ່ບໍ່ແມ່ນ Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - ຕັນ Cloudflare ກັບ DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - ຕັນ Cloudflare ກັບ DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - ທ່ານສາມາດໃຊ້ Tor ເປັນຕົວແກ້ໄຂບັນຫາ DNS. [ຖ້າທ່ານບໍ່ແມ່ນຜູ້ຊ່ຽວຊານ Tor, ຖາມ ຄຳ ຖາມຢູ່ນີ້.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - ມັນເປັນເຫດຜົນທີ່ວ່າ GNU GPL ລຸ້ນ 4 ສາມາດປະກອບມີຂໍ້ ກຳ ນົດຕໍ່ການເກັບຮັກສາລະຫັດແຫຼ່ງທີ່ຢູ່ເບື້ອງຫຼັງການບໍລິການດັ່ງກ່າວ, ຮຽກຮ້ອງໃຫ້ທຸກໆໂປແກຼມ GPLv4 ແລະຕໍ່ມາຢ່າງ ໜ້ອຍ ລະຫັດແຫຼ່ງສາມາດເຂົ້າເຖິງໄດ້ຜ່ານສື່ກາງທີ່ບໍ່ ຈຳ ແນກຜູ້ໃຊ້ Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
