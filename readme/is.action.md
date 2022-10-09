@@ -117,9 +117,9 @@ Ef Cloudflare lekur upplýsingum þínum eða leyfir þér ekki að tengjast net
 
 | Nafn | Hönnuður | Stuðningur | Getur lokað | Get látið vita | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Já**     | **Já**     |  **Já** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nei     | **Já**     |  **Já** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nei     | **Já**     |  **Já** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Já**     | **Já**     |  **Já** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nei     | **Já**     |  **Já** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nei     | **Já**     |  **Já** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Já**     | **Já**     |  Nei |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Já**     | **Já**     |  Nei |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nei     | **Já**     |  Nei |
@@ -389,7 +389,7 @@ Við skulum tala um friðhelgi annars hugbúnaðar.
 
 - [Ef þú vilt nota DNS sem ekki er ISP skaltu íhuga að nota OpenNIC Tier2 DNS þjónustu eða einhverja DNS þjónustu sem ekki er Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Lokaðu fyrir Cloudflare með DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Lokaðu fyrir Cloudflare með DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Þú getur notað Tor sem DNS upplausn. [Ef þú ert ekki Tor sérfræðingur skaltu spyrja hér.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Við skulum tala um friðhelgi annars hugbúnaðar.
 
 - Það má hugsa sér að GNU GPL útgáfa 4 geti falið í sér að geyma heimildakóða á bak við slíka þjónustu, þar sem krafist er fyrir öll GPLv4 og síðar forrit sem að minnsta kosti frumkóðinn er aðgengilegur með miðli sem gerir ekki mismunun á Tor notendum.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
