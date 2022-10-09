@@ -117,9 +117,9 @@ AFAIK ، موقع صفر يفعل هذا. هل ستثق بهم؟
 
 | اسم | مطور | الدعم | يمكن أن تمنع | يمكن أن يخطر | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **نعم**     | **نعم**     |  **نعم** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | لا     | **نعم**     |  **نعم** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | لا     | **نعم**     |  **نعم** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **نعم**     | **نعم**     |  **نعم** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | لا     | **نعم**     |  **نعم** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | لا     | **نعم**     |  **نعم** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **نعم**     | **نعم**     |  لا |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **نعم**     | **نعم**     |  لا |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | لا     | **نعم**     |  لا |
@@ -389,7 +389,7 @@ die();
 
 - [إذا كنت ترغب في استخدام DNS غير مزود بخدمة الإنترنت ، ففكر في استخدام خدمة OpenNIC Tier2 DNS أو أي من خدمات DNS غير Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - حظر Cloudflare مع DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - حظر Cloudflare مع DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - يمكنك استخدام Tor كمحلل DNS. [إذا لم تكن خبيرًا في Tor ، اطرح سؤالاً هنا.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - من المتصور أن الإصدار 4 من GNU GPL يمكن أن يتضمن شرطًا ضد تخزين كود المصدر خلف مثل هذه الخدمة ، مما يتطلب لجميع GPLv4 والبرامج اللاحقة التي يمكن الوصول إلى شفرة المصدر على الأقل عبر وسيط لا يميز ضد مستخدمي Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
