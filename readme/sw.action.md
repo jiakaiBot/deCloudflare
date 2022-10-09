@@ -117,9 +117,9 @@ Ikiwa Cloudflare inavuja habari yako au haitakuruhusu uunganishe kwenye seva zet
 
 | Jina | Msanidi programu | Msaada | Inaweza Kuzuia | Inaweza Kuarifu | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ndio**     | **Ndio**     |  **Ndio** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hapana     | **Ndio**     |  **Ndio** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hapana     | **Ndio**     |  **Ndio** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ndio**     | **Ndio**     |  **Ndio** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hapana     | **Ndio**     |  **Ndio** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hapana     | **Ndio**     |  **Ndio** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ndio**     | **Ndio**     |  Hapana |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Ndio**     | **Ndio**     |  Hapana |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Hapana     | **Ndio**     |  Hapana |
@@ -389,7 +389,7 @@ Kwa hivyo tunapendekeza juu ya meza tu. Hakuna kingine.
 
 - [Ikiwa ungependa kutumia DNS isiyo ya ISP, fikiria kutumia huduma ya OpenNIC Tier2 DNS au huduma yoyote isiyo ya Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Zuia Cloudflare na DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Zuia Cloudflare na DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Unaweza kutumia Tor kama suluhisho la DNS. [Ikiwa wewe si mtaalam wa Tor, uliza swali hapa.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Kwa hivyo tunapendekeza juu ya meza tu. Hakuna kingine.
 
 - Inawezekana kuwa toleo la 4 la GNU GPL linaweza kujumuisha kifungu dhidi ya kuhifadhi nambari ya chanzo nyuma ya huduma kama hiyo, inayohitaji mipango yote ya GPLv4 na baadaye ambayo angalau nambari ya chanzo inapatikana kupitia njia isiyo na ubaguzi dhidi ya watumiaji wa Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
