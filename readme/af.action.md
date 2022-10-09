@@ -117,9 +117,9 @@ As Cloudflare u inligting lek of u nie toelaat om met ons bedieners te verbind n
 
 | Naam | Ontwikkelaar | Ondersteuning | Kan blokkeer | Kan in kennis stel | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ja**     | **Ja**     |  **Ja** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Geen     | **Ja**     |  **Ja** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Geen     | **Ja**     |  **Ja** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ja**     | **Ja**     |  **Ja** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Geen     | **Ja**     |  **Ja** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Geen     | **Ja**     |  **Ja** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ja**     | **Ja**     |  Geen |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Ja**     | **Ja**     |  Geen |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Geen     | **Ja**     |  Geen |
@@ -389,7 +389,7 @@ Daarom beveel ons slegs die bostaande tabel aan. Niks anders nie.
 
 - [As u nie-ISP-DNS wil gebruik, oorweeg dit om OpenNIC Tier2 DNS-dienste of enige van die nie-Cloudflare DNS-dienste te gebruik.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokkeer Cloudflare met DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Blokkeer Cloudflare met DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - U kan Tor as DNS-resolver gebruik. [As u nie 'n kundige Tor is nie, kan u die vraag hier vra.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Daarom beveel ons slegs die bostaande tabel aan. Niks anders nie.
 
 - Dit is moontlik dat die GNU GPL weergawe 4 voorsiening kan maak vir die berging van bronkode agter so 'n diens, wat vereis dat alle GPLv4 en latere programme ten minste die bronkode toeganklik is via 'n medium wat Tor-gebruikers nie diskrimineer nie.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
