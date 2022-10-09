@@ -117,9 +117,9 @@ Raha mamoaka ny mombamomba anao i Cloudflare na tsy mamela anao hifandray amin'i
 
 | Anarana | Developer | MANAMPY | Afaka manakana | Tsy afaka Mampandre | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ENY**     | **ENY**     |  **ENY** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | tsy misy     | **ENY**     |  **ENY** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | tsy misy     | **ENY**     |  **ENY** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ENY**     | **ENY**     |  **ENY** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | tsy misy     | **ENY**     |  **ENY** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | tsy misy     | **ENY**     |  **ENY** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ENY**     | **ENY**     |  tsy misy |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **ENY**     | **ENY**     |  tsy misy |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | tsy misy     | **ENY**     |  tsy misy |
@@ -389,7 +389,7 @@ Noho izany dia manoro hevitra ny ambony latabatra ihany izahay. Tsy misy zavatra
 
 - [Raha te hampiasa DNS tsy ISP ianao, dia ampiasao ny serivisy OpenNIC Tier2 DNS na ny serivisy tsy Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Sakano ny Cloudflare miaraka amin'ny DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Sakano ny Cloudflare miaraka amin'ny DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Azonao atao ny mampiasa Tor ho resolver DNS. [Raha tsy manam-pahaizana Tor ianao dia mametraha fanontaniana eto.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Noho izany dia manoro hevitra ny ambony latabatra ihany izahay. Tsy misy zavatra
 
 - Azo eritreretina fa ny GNU GPL kinova faha-4 dia mety ahitana fepetra tsy manangona ny kaody loharano ao ambadiky ny serivisy toy izany, mitaky ny GPLv4 rehetra sy ny programa taty aoriana izay farafaharatsiny mba ahazoana miditra ny kaody loharano amin'ny alàlan'ny fitaovana tsy manavakavaka ireo mpampiasa Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
