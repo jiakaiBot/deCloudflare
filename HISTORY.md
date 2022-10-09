@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-09: [Increased HTTP 5xx Errors in Seattle](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bk37vhpw0cgz)
 - 2022-10-12: [DEN (Denver) on 2022-10-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cxwrwrd8szzp)
 - 2022-10-06: [Customers may experience errors adding new Legacy Custom Certificates](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y69pdm040hcn)
 - 2022-10-06: [BLR (Bangalore) on 2022-10-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/j53dvf4r7tcp)
