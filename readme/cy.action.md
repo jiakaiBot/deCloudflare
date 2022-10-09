@@ -117,9 +117,9 @@ Os yw Cloudflare yn gollwng eich gwybodaeth neu na fydd yn gadael ichi gysylltu 
 
 | Enw | Datblygwr | Cefnogaeth | Yn gallu Blocio | Yn gallu Hysbysu | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ydw**     | **Ydw**     |  **Ydw** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Na     | **Ydw**     |  **Ydw** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Na     | **Ydw**     |  **Ydw** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ydw**     | **Ydw**     |  **Ydw** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Na     | **Ydw**     |  **Ydw** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Na     | **Ydw**     |  **Ydw** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ydw**     | **Ydw**     |  Na |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Ydw**     | **Ydw**     |  Na |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Na     | **Ydw**     |  Na |
@@ -389,7 +389,7 @@ Felly rydym yn argymell uchod y tabl yn unig. Dim byd arall.
 
 - [Os hoffech chi ddefnyddio DNS nad yw'n ISP, ystyriwch ddefnyddio gwasanaeth DNS Haen 2 OpenNIC neu unrhyw un o wasanaethau DNS nad ydynt yn Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blociwch Cloudflare gyda DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Blociwch Cloudflare gyda DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Gallwch ddefnyddio Tor fel ail-gloi DNS. [Os nad ydych chi'n arbenigwr Tor, gofynnwch gwestiwn yma.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Felly rydym yn argymell uchod y tabl yn unig. Dim byd arall.
 
 - Mae'n bosibl y gallai fersiwn 4 GNU GPL gynnwys darpariaeth yn erbyn storio cod ffynhonnell y tu ôl i wasanaeth o'r fath, gan ei gwneud yn ofynnol i bob rhaglen GPLv4 a rhaglenni diweddarach fod y cod ffynhonnell o leiaf yn hygyrch trwy gyfrwng nad yw'n gwahaniaethu yn erbyn defnyddwyr Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
