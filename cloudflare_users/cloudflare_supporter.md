@@ -8867,6 +8867,7 @@ Do not create new issue or we will close it as duplicate.
 | [TedTschopp@twitter](https://twitter.com/TedTschopp/status/1486743304528007169) | advertise |
 | [Ted_Chavez_@twitter](https://twitter.com/Ted_Chavez_/status/1476047426943258625) | advertise |
 | [teegrpm2@twitter](https://twitter.com/teegrpm2/status/1397899934540566532) | advertise |
+| [teei_74@twitter](https://twitter.com/teei_74/status/1578958187902164995) | advertise |
 | [Teekhayu_@twitter](https://twitter.com/Teekhayu_/status/1532612428160462848) | advertise |
 | [teera00pai@twitter](https://twitter.com/teera00pai/status/1402357610175631361) | advertise |
 | [tegarfak@twitter](https://twitter.com/tegarfak/status/1552677762220978176) | advertise |
