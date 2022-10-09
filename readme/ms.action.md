@@ -117,9 +117,9 @@ Sekiranya Cloudflare membocorkan maklumat anda atau tidak membenarkan anda menya
 
 | Nama | Pemaju | Sokongan | Boleh Sekat | Boleh Memberitahu | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ya**     | **Ya**     |  **Ya** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Tidak     | **Ya**     |  **Ya** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Tidak     | **Ya**     |  **Ya** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ya**     | **Ya**     |  **Ya** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Tidak     | **Ya**     |  **Ya** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Tidak     | **Ya**     |  **Ya** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ya**     | **Ya**     |  Tidak |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Ya**     | **Ya**     |  Tidak |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Tidak     | **Ya**     |  Tidak |
@@ -389,7 +389,7 @@ Oleh itu, kami mencadangkan jadual di atas sahaja. Tiada lagi.
 
 - [Sekiranya anda ingin menggunakan DNS bukan ISP, pertimbangkan untuk menggunakan perkhidmatan DNS OpenNIC Tier2 atau perkhidmatan DNS bukan Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Sekat Cloudflare dengan DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Sekat Cloudflare dengan DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Anda boleh menggunakan Tor sebagai pemecah DNS. [Sekiranya anda bukan pakar Tor, tanyakan soalan di sini.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Oleh itu, kami mencadangkan jadual di atas sahaja. Tiada lagi.
 
 - Boleh dibayangkan bahawa GNU GPL versi 4 dapat merangkumi peruntukan untuk tidak menyimpan kod sumber di sebalik perkhidmatan tersebut, yang memerlukan semua program GPLv4 dan yang lebih baru yang sekurang-kurangnya kod sumber dapat diakses melalui media yang tidak mendiskriminasi pengguna Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
