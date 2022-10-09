@@ -10355,6 +10355,7 @@ Here's a list of public Fediverse services.
 | lesalphas.be | No |
 | lesamarien.fr | No |
 | lesateliersphv.net | No |
+| lesbean.cloud | No |
 | lesbi.in | No |
 | lesbiab.space | No |
 | lesbiab.town | No |
@@ -21989,7 +21990,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,419 |
-| Normal | 17,526 |
+| Normal | 17,527 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
