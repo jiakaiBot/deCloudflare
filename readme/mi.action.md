@@ -117,9 +117,9 @@ Mena ka tukuna e Cloudflare o korero ki a koe, kaore koe e tuku i a koe ki te ho
 
 | Ingoa | Kaiwhakawhanake | Tautoko | Ka taea te Poraka | Kaore e taea te Whakapuaki | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ae**     | **Ae**     |  **Ae** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | No.     | **Ae**     |  **Ae** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | No.     | **Ae**     |  **Ae** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ae**     | **Ae**     |  **Ae** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | No.     | **Ae**     |  **Ae** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | No.     | **Ae**     |  **Ae** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ae**     | **Ae**     |  No. |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Ae**     | **Ae**     |  No. |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | No.     | **Ae**     |  No. |
@@ -389,7 +389,7 @@ Na reira ka taunakihia e matou i runga ake nei te teepu. Kaore he mea ke atu.
 
 - [Mena kei te hiahia koe ki te whakamahi i te DNS kore-ISP, whakaarohia te whakamahi i te ratonga OpenNIC Tier2 DNS, tetahi atu ranei o nga ratonga DNS kore-Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Poraka Cloudflare me DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Poraka Cloudflare me DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Ka taea e koe te whakamahi i te Tor hei taumira DNS. [Mena kaore koe i te tohunga Tor, paatai ​​konei.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Na reira ka taunakihia e matou i runga ake nei te teepu. Kaore he mea ke atu.
 
 - Ka taea te whakaaro ko te GNU GPL putanga 4 ka ahei te whakauru atu ki te penapena waehere punawai i muri o taua ratonga, e hiahia ana mo nga GPLv4 katoa me nga hotaka o muri mai ka taea te hono atu ki te waehere maataki ma te reo e kore e aukati i nga kaiwhakamahi Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
