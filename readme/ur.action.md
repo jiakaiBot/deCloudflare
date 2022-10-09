@@ -117,9 +117,9 @@ AFAIK ، صفر ویب سائٹ یہ کام کرتی ہے۔ کیا آپ ان پ�
 
 | نام | ڈویلپر | مدد کریں | بلاک کر سکتے ہیں | اطلاع دے سکتے ہیں | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **جی ہاں**     | **جی ہاں**     |  **جی ہاں** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نہیں     | **جی ہاں**     |  **جی ہاں** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نہیں     | **جی ہاں**     |  **جی ہاں** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **جی ہاں**     | **جی ہاں**     |  **جی ہاں** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نہیں     | **جی ہاں**     |  **جی ہاں** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نہیں     | **جی ہاں**     |  **جی ہاں** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **جی ہاں**     | **جی ہاں**     |  نہیں |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **جی ہاں**     | **جی ہاں**     |  نہیں |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | نہیں     | **جی ہاں**     |  نہیں |
@@ -389,7 +389,7 @@ die();
 
 - [اگر آپ نان آئی ایس پی ڈی این ایس کو استعمال کرنا چاہتے ہیں تو ، اوپننیک ٹائر 2 ڈی این ایس سروس یا نان-کلاؤڈ فلایر ڈی این ایس خدمات میں سے کسی کو استعمال کرنے پر غور کریں۔](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS کے ساتھ کلاؤڈ فلایر کو مسدود کریں۔ [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - DNS کے ساتھ کلاؤڈ فلایر کو مسدود کریں۔ [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - آپ Tor کو بطور DNS حل کرنے والا استعمال کرسکتے ہیں۔ [اگر آپ ٹور کے ماہر نہیں ہیں تو ، یہاں سوال پوچھیں۔](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - یہ بات قابل فہم ہے کہ جی این یو جی پی ایل ورژن 4 میں اس طرح کی خدمت کے پیچھے سورس کوڈ کو ذخیرہ کرنے کے خلاف کوئی شق شامل ہوسکتی ہے ، جس میں تمام جی پی ایل وی 4 اور بعد کے پروگراموں کی ضرورت ہوتی ہے کہ کم سے کم سورس کوڈ ایک ایسے میڈیم کے ذریعہ قابل رسائی ہے جو تور صارفین کے ساتھ امتیازی سلوک نہیں کرتا ہے۔
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
