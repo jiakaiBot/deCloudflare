@@ -117,9 +117,9 @@ AFAIK เว็บไซต์ศูนย์ทำสิ่งนี้ คุ�
 
 | ชื่อ | นักพัฒนา | สนับสนุน | สามารถบล็อก | สามารถแจ้งเตือน | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ใช่**     | **ใช่**     |  **ใช่** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ไม่     | **ใช่**     |  **ใช่** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ไม่     | **ใช่**     |  **ใช่** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ใช่**     | **ใช่**     |  **ใช่** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ไม่     | **ใช่**     |  **ใช่** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ไม่     | **ใช่**     |  **ใช่** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ใช่**     | **ใช่**     |  ไม่ |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **ใช่**     | **ใช่**     |  ไม่ |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ไม่     | **ใช่**     |  ไม่ |
@@ -389,7 +389,7 @@ die();
 
 - [หากคุณต้องการใช้ DNS ที่ไม่ใช่ ISP ให้ลองใช้บริการ OpenNIC Tier2 DNS หรือบริการ DNS ที่ไม่ใช่ Cloudflare](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - บล็อก Cloudflare ด้วย DNS [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - บล็อก Cloudflare ด้วย DNS [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - คุณสามารถใช้ Tor เป็นตัวแก้ไข DNS [หากคุณไม่ใช่ผู้เชี่ยวชาญของ Tor โปรดถามคำถามที่นี่](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - เป็นไปได้ว่า GNU GPL เวอร์ชัน 4 อาจมีข้อกำหนดในการจัดเก็บซอร์สโค้ดไว้เบื้องหลังบริการดังกล่าวซึ่งต้องใช้สำหรับ GPLv4 และโปรแกรมที่ใหม่กว่าทั้งหมดที่อย่างน้อยซอร์สโค้ดสามารถเข้าถึงได้ผ่านสื่อที่ไม่เลือกปฏิบัติกับผู้ใช้ Tor
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
