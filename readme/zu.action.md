@@ -117,9 +117,9 @@ Uma i-Cloudflare ivuza imininingwane yakho noma ingakuvumeli ukuthi uxhume kumas
 
 | Igama | Unjiniyela | Ukusekela | Ingavimba | Ungazisa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Yebo**     | **Yebo**     |  **Yebo** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Cha     | **Yebo**     |  **Yebo** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Cha     | **Yebo**     |  **Yebo** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Yebo**     | **Yebo**     |  **Yebo** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Cha     | **Yebo**     |  **Yebo** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Cha     | **Yebo**     |  **Yebo** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Yebo**     | **Yebo**     |  Cha |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Yebo**     | **Yebo**     |  Cha |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Cha     | **Yebo**     |  Cha |
@@ -389,7 +389,7 @@ Ngakho-ke sincoma itafula elingenhla kuphela. Akukho okunye.
 
 - [Uma ungathanda ukusebenzisa i-non-ISP DNS, cabanga ukusebenzisa insiza ye-OpenNIC Tier2 DNS noma yiziphi izinsizakalo ezingezona eze-Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Vimba i-Cloudflare nge-DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Vimba i-Cloudflare nge-DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Ungasebenzisa iTor njengesisombululo se-DNS. [Uma ungeyena uchwepheshe weTor, buza umbuzo lapha.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Ngakho-ke sincoma itafula elingenhla kuphela. Akukho okunye.
 
 - Kucatshangwa ukuthi inguqulo 4 ye-GNU GPL ingafaka umbandela ophikisana nokugcina ikhodi yomthombo ngemuva kwensizakalo enjalo, edinga zonke izinhlelo ze-GPLv4 nezinhlelo zakamuva ukuthi okungenani ikhodi yomthombo ifinyeleleke ngendlela engenabandlululo kubasebenzisi beTor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
