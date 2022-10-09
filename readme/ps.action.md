@@ -117,9 +117,9 @@ AFAIK ، صفر ویب پا thisه دا کار کوي. ایا تاسو به په
 
 | نوم | پرمختیا کونکی | ملاتړ | مخنیوی کولی شي | خبر ورکولای شي | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **هو**     | **هو**     |  **هو** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نه     | **هو**     |  **هو** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نه     | **هو**     |  **هو** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **هو**     | **هو**     |  **هو** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نه     | **هو**     |  **هو** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نه     | **هو**     |  **هو** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **هو**     | **هو**     |  نه |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **هو**     | **هو**     |  نه |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | نه     | **هو**     |  نه |
@@ -389,7 +389,7 @@ die();
 
 - [که تاسو غواړئ غیر ISP DNS وکاروئ ، نو د OpenNIC Tier2 DNS خدمت یا د غیر کلاوډ فلیر DNS خدماتو څخه کار واخلئ.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - کلاوډ فلایر د DNS سره بند کړئ. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - کلاوډ فلایر د DNS سره بند کړئ. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - تاسو کولی شئ تور د DNS حل کونکي په توګه وکاروئ. [که تاسو د تور ماهر نه یاست ، پوښتنه دلته وکړئ.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - دا د منلو وړ ده چې د GNU GPL نسخه 4 ممکن د ورته خدمت تر شا د سرچینې کوډ ذخیره کولو پروړاندې شامل وي ، د ټولو GPLv4 او ورپسې برنامو لپاره اړتیا لري چې لږترلږه د سرچینې کوډ د یوې داسې رسنۍ له لارې لاسرسی وي چې د تور کاروونکو سره توپیر نه کوي.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
