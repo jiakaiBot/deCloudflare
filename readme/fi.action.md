@@ -117,9 +117,9 @@ Jos Cloudflare vuotaa tietosi tai ei anna sinun muodostaa yhteyttä palvelimille
 
 | Nimi | Kehittäjä | Tuki | Voi estää | Voi ilmoittaa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Joo**     | **Joo**     |  **Joo** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ei     | **Joo**     |  **Joo** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ei     | **Joo**     |  **Joo** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Joo**     | **Joo**     |  **Joo** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ei     | **Joo**     |  **Joo** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ei     | **Joo**     |  **Joo** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Joo**     | **Joo**     |  Ei |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Joo**     | **Joo**     |  Ei |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ei     | **Joo**     |  Ei |
@@ -389,7 +389,7 @@ Siksi suosittelemme vain yllä olevaa taulukkoa. Ei mitään muuta.
 
 - [Jos haluat käyttää muuta kuin ISP-DNS: ää, harkitse OpenNIC Tier2 DNS -palvelun tai muun kuin Cloudflare DNS -palvelun käyttöä.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Estä Cloudflare DNS: llä. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Estä Cloudflare DNS: llä. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Voit käyttää Toria DNS-ratkaisijana. [Jos et ole Tor-asiantuntija, esitä kysymys täällä.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Siksi suosittelemme vain yllä olevaa taulukkoa. Ei mitään muuta.
 
 - On ajateltavissa, että GNU GPL -versio 4 voisi sisältää säännön lähdekoodin tallentamisesta tällaisen palvelun taakse, vaatien kaikille GPLv4- ja myöhemmille ohjelmille, että ainakin lähdekoodiin on pääsy välineellä, joka ei syrji Tor-käyttäjiä.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
