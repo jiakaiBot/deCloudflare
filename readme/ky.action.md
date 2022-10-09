@@ -117,9 +117,9 @@ AFAIK, нөлдүк веб-сайт муну жасайт. Аларга ишен
 
 | Аты | Иштеп чыгуучу | Колдоо | Бөгөттөй алат | Билдире алат | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ооба**     | **Ооба**     |  **Ооба** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Жок     | **Ооба**     |  **Ооба** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Жок     | **Ооба**     |  **Ооба** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ооба**     | **Ооба**     |  **Ооба** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Жок     | **Ооба**     |  **Ооба** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Жок     | **Ооба**     |  **Ооба** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ооба**     | **Ооба**     |  Жок |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Ооба**     | **Ооба**     |  Жок |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Жок     | **Ооба**     |  Жок |
@@ -389,7 +389,7 @@ die();
 
 - [Эгер сиз ISP эмес DNS кызматын колдонгуңуз келсе, OpenNIC Tier2 DNS кызматын же Cloudflare эмес DNS кызматтарын пайдаланууну карап көрүңүз.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS менен Cloudflare бөгөттөө. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - DNS менен Cloudflare бөгөттөө. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Сиз DNS чечүүчү катары Tor колдоно аласыз. [Эгер сиз Tor адиси болбосоңуз, ушул жерден суроо бериңиз.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - GNU GPL 4 версиясында, мындай сервистин артында баштапкы кодду сактоого каршы жобо камтылышы мүмкүн деп болжолдонууда, анткени GPLv4 жана андан кийинки программалар үчүн, жок дегенде, баштапкы код Tor колдонуучуларын басмырлабаган каражат аркылуу жеткиликтүү болот.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
