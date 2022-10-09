@@ -117,9 +117,9 @@ Cloudflare-k zure informazioa filtratzen badu edo gure zerbitzariekin konektatze
 
 | Izena | Garatzailea | Laguntza | Ezin blokeatu | Ezin da jakinarazi | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Bai**     | **Bai**     |  **Bai** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ez     | **Bai**     |  **Bai** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ez     | **Bai**     |  **Bai** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Bai**     | **Bai**     |  **Bai** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ez     | **Bai**     |  **Bai** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ez     | **Bai**     |  **Bai** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Bai**     | **Bai**     |  Ez |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Bai**     | **Bai**     |  Ez |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ez     | **Bai**     |  Ez |
@@ -389,7 +389,7 @@ Hori dela eta, goiko taulan soilik gomendatzen dugu. Beste ezer ez.
 
 - [ISP ez diren DNSak erabili nahi badituzu, pentsa ezazu OpenNIC Tier2 DNS zerbitzua edo Cloudflare ez den DNS zerbitzuren bat erabiltzea.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokeatu Cloudflare DNSarekin. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Blokeatu Cloudflare DNSarekin. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Tor DNS ebazle gisa erabil dezakezu. [Tor aditua ez bazara, egin galdera hemen.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Hori dela eta, goiko taulan soilik gomendatzen dugu. Beste ezer ez.
 
 - Pentsa daiteke GNU GPL 4. bertsioak zerbitzu horren atzean iturburu kodea gordetzeari buruzko xedapen bat izan dezakeela, GPLv4 eta ondorengo programa guztientzat gutxienez iturburu kodea Tor erabiltzaileak diskriminatzen ez dituen euskarri baten bidez eskuragarria izatea eskatzen duena.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
