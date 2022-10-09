@@ -117,9 +117,9 @@ Ma leigeas Cloudflare am fiosrachadh agad a-mach no nach leig e leat ceangal ris
 
 | Ainm | Leasaiche | Taic | Can Bloc | An urrainn fios a chuir | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Tha**     | **Tha**     |  **Tha** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Chan eil     | **Tha**     |  **Tha** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Chan eil     | **Tha**     |  **Tha** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Tha**     | **Tha**     |  **Tha** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Chan eil     | **Tha**     |  **Tha** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Chan eil     | **Tha**     |  **Tha** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Tha**     | **Tha**     |  Chan eil |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Tha**     | **Tha**     |  Chan eil |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Chan eil     | **Tha**     |  Chan eil |
@@ -389,7 +389,7 @@ Mar sin tha sinn a ’moladh gu h-àrd clàr a-mhàin. Chan eil dad eile.
 
 - [Ma tha thu airson DNS neo-ISP a chleachdadh, smaoinich air a bhith a ’cleachdadh seirbheis OpenNIC Tier2 DNS no gin de sheirbheisean DNS neo-Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cuir bacadh air Cloudflare le DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Cuir bacadh air Cloudflare le DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Faodaidh tu Tor a chleachdadh mar resolver DNS. [Mura h-eil thu nad eòlaiche Tor, faighnich ceist an seo.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Mar sin tha sinn a ’moladh gu h-àrd clàr a-mhàin. Chan eil dad eile.
 
 - Tha e comasach gum faodadh an tionndadh 4 GNU GPL a bhith a ’toirt a-steach ullachadh an aghaidh a bhith a’ stòradh còd stòr air cùl seirbheis mar sin, ag iarraidh air a h-uile prògram GPLv4 agus nas fhaide air adhart gum bi co-dhiù an còd stòr ruigsinneach tro mheadhan nach dèan leth-bhreith air luchd-cleachdaidh Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
