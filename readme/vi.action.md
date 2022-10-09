@@ -117,9 +117,9 @@ Nếu Cloudflare làm rò rỉ thông tin của bạn hoặc không cho phép b�
 
 | Tên | Nhà phát triển | Ủng hộ | Có thể chặn | Có thể thông báo | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Đúng**     | **Đúng**     |  **Đúng** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Không     | **Đúng**     |  **Đúng** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Không     | **Đúng**     |  **Đúng** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Đúng**     | **Đúng**     |  **Đúng** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Không     | **Đúng**     |  **Đúng** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Không     | **Đúng**     |  **Đúng** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Đúng**     | **Đúng**     |  Không |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Đúng**     | **Đúng**     |  Không |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Không     | **Đúng**     |  Không |
@@ -389,7 +389,7 @@ Do đó, chúng tôi chỉ đề xuất bảng trên. Không có gì khác.
 
 - [Nếu bạn muốn sử dụng DNS không phải ISP, hãy cân nhắc sử dụng dịch vụ DNS OpenNIC Tier2 hoặc bất kỳ dịch vụ DNS nào không phải của Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Chặn Cloudflare bằng DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Chặn Cloudflare bằng DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Bạn có thể sử dụng Tor làm trình phân giải DNS. [Nếu bạn không phải là chuyên gia về Tor, hãy đặt câu hỏi tại đây.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Do đó, chúng tôi chỉ đề xuất bảng trên. Không có gì khác.
 
 - Có thể hình dung rằng GNU GPL phiên bản 4 có thể bao gồm một điều khoản chống lại việc lưu trữ mã nguồn đằng sau một dịch vụ như vậy, yêu cầu đối với tất cả các chương trình GPLv4 và mới hơn ít nhất mã nguồn có thể truy cập được thông qua một phương tiện không phân biệt đối xử với người dùng Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
