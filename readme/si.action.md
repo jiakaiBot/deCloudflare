@@ -117,9 +117,9 @@ Cloudflare ඔබේ තොරතුරු කාන්දු වුවහොත
 
 | නම | සංවර්ධක | සහාය | අවහිර කළ හැකිය | දැනුම් දිය හැකිය | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ඔව්**     | **ඔව්**     |  **ඔව්** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | නැත     | **ඔව්**     |  **ඔව්** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | නැත     | **ඔව්**     |  **ඔව්** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ඔව්**     | **ඔව්**     |  **ඔව්** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | නැත     | **ඔව්**     |  **ඔව්** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | නැත     | **ඔව්**     |  **ඔව්** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ඔව්**     | **ඔව්**     |  නැත |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **ඔව්**     | **ඔව්**     |  නැත |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | නැත     | **ඔව්**     |  නැත |
@@ -389,7 +389,7 @@ die();
 
 - [ඔබ ISP නොවන DNS භාවිතා කිරීමට කැමති නම්, OpenNIC Tier2 DNS සේවාව හෝ Cloudflare නොවන DNS සේවාවන් භාවිතා කිරීම ගැන සලකා බලන්න.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS සමඟ Cloudflare අවහිර කරන්න. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - DNS සමඟ Cloudflare අවහිර කරන්න. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - ඔබට ටෝර් ඩීඑන්එස් විසදුම ලෙස භාවිතා කළ හැකිය. [ඔබ ටෝර් විශේෂ expert යෙක් නොවේ නම්, මෙහි ප්‍රශ්නයක් අසන්න.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - එවැනි සේවාවක් පිටුපස ප්‍රභව කේත ගබඩා කිරීමට එරෙහිව ප්‍රතිපාදන GNU GPL අනුවාදය 4 ට ඇතුළත් විය හැකි යැයි සිතිය හැකි අතර, සියලු GPLv4 සහ පසුකාලීන වැඩසටහන් සඳහා අවශ්‍ය වන්නේ අවම වශයෙන් ප්‍රභව කේත ටෝර් භාවිතා කරන්නන්ට වෙනස් ලෙස සැලකීමක් නොකරන මාධ්‍යයක් හරහා ප්‍රවේශ විය හැකි බවයි.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
