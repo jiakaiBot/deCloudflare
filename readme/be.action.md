@@ -117,9 +117,9 @@ AFAIK, нулявы сайт робіць гэта. Ці будзеце вы і�
 
 | Імя | Распрацоўшчык | Падтрымка | Можа заблакаваць | Можаце паведаміць | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Так**     | **Так**     |  **Так** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Так**     |  **Так** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Так**     |  **Так** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Так**     | **Так**     |  **Так** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Так**     |  **Так** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Так**     |  **Так** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Так**     | **Так**     |  Не |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Так**     | **Так**     |  Не |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Не     | **Так**     |  Не |
@@ -389,7 +389,7 @@ die();
 
 - [Калі вы хочаце выкарыстоўваць DNS, які не з'яўляецца правайдэрам Інтэрнэту, разгледзіце магчымасць выкарыстання DN-службы OpenNIC Tier2 альбо любой DNS-службы, якая не з'яўляецца Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Блакуйце Cloudflare з DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Блакуйце Cloudflare з DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Вы можаце выкарыстоўваць Tor як разгадчык DNS. [Калі вы не эксперт Tor, задайце пытанне тут.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - Цалкам магчыма, што версія GNU GPL 4 можа ўключаць палажэнне аб захоўванні зыходнага кода за такой службай, якое патрабуе для ўсіх праграм GPLv4 і больш позніх, каб па меншай меры зыходны код быў даступны праз носьбіт, які не дыскрымінуе карыстальнікаў Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
