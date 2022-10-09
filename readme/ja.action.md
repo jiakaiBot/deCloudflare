@@ -117,9 +117,9 @@ Cloudflareがあなたの情報を漏らしたり、あなたが私たちのサ�
 
 | 名前 | 開発者 | サポート | ブロックできます | 通知できます | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **はい**     | **はい**     |  **はい** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 番号     | **はい**     |  **はい** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 番号     | **はい**     |  **はい** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **はい**     | **はい**     |  **はい** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 番号     | **はい**     |  **はい** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 番号     | **はい**     |  **はい** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **はい**     | **はい**     |  番号 |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **はい**     | **はい**     |  番号 |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | 番号     | **はい**     |  番号 |
@@ -389,7 +389,7 @@ die();
 
 - [非ISPDNSを使用する場合は、OpenNIC Tier2DNSサービスまたは非CloudflareDNSサービスの使用を検討してください。](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNSでCloudflareをブロックします。 [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - DNSでCloudflareをブロックします。 [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - TorをDNSリゾルバーとして使用できます。 [Torの専門家でない場合は、ここで質問してください。](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - GNU GPLバージョン4には、そのようなサービスの背後にソースコードを保存することに対する規定が含まれている可能性があり、すべてのGPLv4以降のプログラムでは、少なくともソースコードはTorユーザーを差別しない媒体を介してアクセスできる必要があります。
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
