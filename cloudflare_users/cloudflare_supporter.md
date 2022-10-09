@@ -2154,6 +2154,7 @@ Do not create new issue or we will close it as duplicate.
 | [dinhkhanh1308@twitter](https://twitter.com/dinhkhanh1308/status/1505689824778678272) | advertise |
 | [DinhNgu08437857@twitter](https://twitter.com/DinhNgu08437857/status/1478386797738668035) | advertise |
 | [dinhtoan202@twitter](https://twitter.com/dinhtoan202/status/1526084573075222528) | advertise |
+| [Dinhtran124@twitter](https://twitter.com/Dinhtran124/status/1578996526478950400) | advertise |
 | [dinhtrungduc2k1@twitter](https://twitter.com/dinhtrungduc2k1/status/1570099580456554496) | advertise |
 | [dinhvhoang1@twitter](https://twitter.com/dinhvhoang1/status/1383234381439922177) | advertise |
 | [DipakCh89456642@twitter](https://twitter.com/DipakCh89456642/status/1392032564743852033) | advertise |
