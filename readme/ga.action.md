@@ -117,9 +117,9 @@ Má sceitheann Cloudflare do chuid faisnéise nó mura ligfidh sé duit ceangal 
 
 | Ainm | Forbróir | Tacaíocht | An féidir Bloc | An féidir Fógra a thabhairt | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Sea**     | **Sea**     |  **Sea** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Níl     | **Sea**     |  **Sea** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Níl     | **Sea**     |  **Sea** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Sea**     | **Sea**     |  **Sea** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Níl     | **Sea**     |  **Sea** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Níl     | **Sea**     |  **Sea** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Sea**     | **Sea**     |  Níl |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Sea**     | **Sea**     |  Níl |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Níl     | **Sea**     |  Níl |
@@ -389,7 +389,7 @@ Dá bhrí sin molaimid thuas tábla amháin. Tada eile.
 
 - [Más mian leat DNS neamh-ISP a úsáid, smaoinigh ar sheirbhís OpenNIC Tier2 DNS nó aon cheann de sheirbhísí DNS neamh-Cloudflare a úsáid.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Bloc Cloudflare le DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Bloc Cloudflare le DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Is féidir leat Tor a úsáid mar athscríobh DNS. [Mura saineolaí Tor tú, cuir ceist anseo.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Dá bhrí sin molaimid thuas tábla amháin. Tada eile.
 
 - Is féidir a shamhlú go bhféadfadh foráil a bheith i leagan 4 GNU GPL i gcoinne an cód foinse a stóráil taobh thiar de sheirbhís den sórt sin, á cheangal ar gach clár GPLv4 agus níos déanaí go bhfuil an cód foinse inrochtana ar a laghad trí mheán nach ndéanann idirdhealú in aghaidh úsáideoirí Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
