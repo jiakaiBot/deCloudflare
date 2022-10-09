@@ -117,9 +117,9 @@ AFAIK, μηδενικός ιστότοπος το κάνει αυτό. Θα το
 
 | Ονομα | Προγραμματιστής | Υποστήριξη | Μπορεί να αποκλείσει | Μπορεί να ειδοποιήσει | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ναί**     | **Ναί**     |  **Ναί** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Οχι     | **Ναί**     |  **Ναί** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Οχι     | **Ναί**     |  **Ναί** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ναί**     | **Ναί**     |  **Ναί** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Οχι     | **Ναί**     |  **Ναί** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Οχι     | **Ναί**     |  **Ναί** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ναί**     | **Ναί**     |  Οχι |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Ναί**     | **Ναί**     |  Οχι |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Οχι     | **Ναί**     |  Οχι |
@@ -389,7 +389,7 @@ die();
 
 - [Εάν θέλετε να χρησιμοποιήσετε DNS χωρίς ISP, σκεφτείτε το ενδεχόμενο να χρησιμοποιήσετε την υπηρεσία DNS OpenNIC Tier2 ή οποιαδήποτε από τις υπηρεσίες DNS που δεν είναι Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Αποκλεισμός Cloudflare με DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Αποκλεισμός Cloudflare με DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Μπορείτε να χρησιμοποιήσετε το Tor ως πρόγραμμα επίλυσης DNS. [Εάν δεν είστε ειδικός του Tor, κάντε την ερώτηση εδώ.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - Είναι πιθανό ότι η GNU GPL έκδοση 4 θα μπορούσε να περιλαμβάνει μια διάταξη κατά της αποθήκευσης πηγαίου κώδικα πίσω από μια τέτοια υπηρεσία, απαιτώντας για όλα τα προγράμματα GPLv4 και μεταγενέστερα ότι τουλάχιστον ο πηγαίος κώδικας είναι προσβάσιμος μέσω ενός μέσου που δεν κάνει διάκριση εις βάρος των χρηστών Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
