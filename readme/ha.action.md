@@ -117,9 +117,9 @@ Idan Cloudflare ya fallasa bayananku ko ba zai bari ku haɗi zuwa sabarmu ba, ba
 
 | Suna | Mai ƙira | Tallafi | Iya Block | Za a iya Sanarwa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ee**     | **Ee**     |  **Ee** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | A'a     | **Ee**     |  **Ee** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | A'a     | **Ee**     |  **Ee** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ee**     | **Ee**     |  **Ee** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | A'a     | **Ee**     |  **Ee** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | A'a     | **Ee**     |  **Ee** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ee**     | **Ee**     |  A'a |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Ee**     | **Ee**     |  A'a |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | A'a     | **Ee**     |  A'a |
@@ -389,7 +389,7 @@ Saboda haka muna bada shawarar sama da tebur kawai. Babu wani abu kuma.
 
 - [Idan kuna son yin amfani da DNS ɗin da ba ISP ba, la'akari da amfani da OpenNIC Tier2 DNS sabis ko wani sabis na ba Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Block Cloudflare tare da DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Block Cloudflare tare da DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Kuna iya amfani da Tor azaman mai warware DNS. [Idan baku da masaniyar Tor, yi tambaya anan.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Saboda haka muna bada shawarar sama da tebur kawai. Babu wani abu kuma.
 
 - Abun tunani ne cewa GNU GPL version 4 na iya haɗawa da tanadi game da adana lambar tushe a bayan wannan sabis ɗin, ana buƙatar duk GPLv4 da shirye-shirye na gaba waɗanda aƙalla lambar lambar tana samun dama ta hanyar matsakaici wanda baya nuna bambanci ga masu amfani da Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
