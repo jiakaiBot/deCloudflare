@@ -544,6 +544,7 @@ Do not create new issue or we will close it as duplicate.
 | [amirjune14@twitter](https://twitter.com/amirjune14/status/1558795946577780737) | advertise |
 | [AmirKhalaj19@twitter](https://twitter.com/AmirKhalaj19/status/1555311811481804800) | advertise |
 | [AmirMansoury@twitter](https://twitter.com/AmirMansoury/status/1536930486601195520) | advertise |
+| [AmirReza1974@twitter](https://twitter.com/AmirReza1974/status/1579067150542974978) | advertise |
 | [AmirShamaei@twitter](https://twitter.com/AmirShamaei/status/1380125118387589121) | advertise |
 | [Amirtalib02@twitter](https://twitter.com/Amirtalib02/status/1564245612412825601) | advertise |
 | [AmirullAyob@twitter](https://twitter.com/AmirullAyob/status/1474048815149682689) | advertise |
@@ -7211,6 +7212,7 @@ Do not create new issue or we will close it as duplicate.
 | [philstepson@twitter](https://twitter.com/philstepson/status/1468696455644950533) | advertise |
 | [PhinhonHung@twitter](https://twitter.com/PhinhonHung/status/1528456707021500416) | advertise |
 | [phipham1996@twitter](https://twitter.com/phipham1996/status/1394095455848435714) | advertise |
+| [PhmChun95594174@twitter](https://twitter.com/PhmChun95594174/status/1579064424811630592) | advertise |
 | [PhmDuyn29732922@twitter](https://twitter.com/PhmDuyn29732922/status/1397789960820772870) | advertise |
 | [PhmHngP26599927@twitter](https://twitter.com/PhmHngP26599927/status/1384403954629443590) | advertise |
 | [PhmKhnhDn2@twitter](https://twitter.com/PhmKhnhDn2/status/1394310433629040642) | advertise |
@@ -9754,6 +9756,7 @@ Do not create new issue or we will close it as duplicate.
 | [VBo08841997@twitter](https://twitter.com/VBo08841997/status/1398090624503402497) | advertise |
 | [vcdx71@twitter](https://twitter.com/vcdx71/status/1422627671654158347) | advertise |
 | [VEDIKA940234511@twitter](https://twitter.com/VEDIKA940234511/status/1514582258476322817) | advertise |
+| [veelasakbaribon@twitter](https://twitter.com/veelasakbaribon/status/1579055768543715328) | advertise |
 | [Vegans4Trump@twitter](https://twitter.com/Vegans4Trump/status/1475146808309526534) | advertise |
 | [venkats02968750@twitter](https://twitter.com/venkats02968750/status/1402898594030526468) | advertise |
 | [Venn34541103@twitter](https://twitter.com/Venn34541103/status/1397760420249804800) | advertise |
@@ -9929,6 +9932,7 @@ Do not create new issue or we will close it as duplicate.
 | [WaiMinPaing13@twitter](https://twitter.com/WaiMinPaing13/status/1399028674737840134) | advertise |
 | [WaiMinSoe14@twitter](https://twitter.com/WaiMinSoe14/status/1390484472026394628) | advertise |
 | [WaiOrtho@twitter](https://twitter.com/WaiOrtho/status/1377476715556003840) | advertise |
+| [WaiPhyo66@twitter](https://twitter.com/WaiPhyo66/status/1579040228677160960) | advertise |
 | [WaiPhyo10948051@twitter](https://twitter.com/WaiPhyo10948051/status/1390732711245975555) | advertise |
 | [WaiPhyo14479248@twitter](https://twitter.com/WaiPhyo14479248/status/1391332005577519104) | advertise |
 | [Waiphyo17569533@twitter](https://twitter.com/Waiphyo17569533/status/1526528431646597120) | advertise |
