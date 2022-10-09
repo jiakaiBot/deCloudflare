@@ -117,9 +117,9 @@ Ti Cloudflare jo alaye rẹ tabi kii yoo jẹ ki o sopọ si awọn olupin wa, k
 
 | Orukọ | Olùgbéejáde | Atilẹyin | Le Àkọsílẹ | Le leti | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Bẹẹni**     | **Bẹẹni**     |  **Bẹẹni** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Rara     | **Bẹẹni**     |  **Bẹẹni** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Rara     | **Bẹẹni**     |  **Bẹẹni** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Bẹẹni**     | **Bẹẹni**     |  **Bẹẹni** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Rara     | **Bẹẹni**     |  **Bẹẹni** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Rara     | **Bẹẹni**     |  **Bẹẹni** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Bẹẹni**     | **Bẹẹni**     |  Rara |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Bẹẹni**     | **Bẹẹni**     |  Rara |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Rara     | **Bẹẹni**     |  Rara |
@@ -389,7 +389,7 @@ Nitorina a ṣe iṣeduro loke tabili nikan. Ko si nkankan mo.
 
 - [Ti o ba fẹ lati lo DNS ti kii ṣe ISP, ronu nipa lilo iṣẹ OpenNIC Tier2 DNS tabi eyikeyi awọn iṣẹ DNS ti kii ṣe Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Dina Cloudflare pẹlu DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Dina Cloudflare pẹlu DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - O le lo Tor bi ipinnu DNS. [Ti o ko ba ṣe amoye Tor, beere ibeere nibi.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Nitorina a ṣe iṣeduro loke tabili nikan. Ko si nkankan mo.
 
 - O jẹ ero inu pe ẹya GNU GPL 4 le pẹlu ipese kan lodi si titoju koodu orisun lẹhin iru iṣẹ kan, to nilo fun gbogbo GPLv4 ati awọn eto nigbamii ti o kere ju koodu orisun wa ni wiwọle nipasẹ alabọde ti ko ṣe iyatọ si awọn olumulo Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
