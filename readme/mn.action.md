@@ -117,9 +117,9 @@ AFAIK, тэг вэбсайт үүнийг хийдэг. Та тэдэнд итг
 
 | Нэр | Хөгжүүлэгч | Дэмжлэг | Блоклох боломжтой | Мэдэх боломжтой | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Тийм ээ**     | **Тийм ээ**     |  **Тийм ээ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Үгүй     | **Тийм ээ**     |  **Тийм ээ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Үгүй     | **Тийм ээ**     |  **Тийм ээ** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Тийм ээ**     | **Тийм ээ**     |  **Тийм ээ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Үгүй     | **Тийм ээ**     |  **Тийм ээ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Үгүй     | **Тийм ээ**     |  **Тийм ээ** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Тийм ээ**     | **Тийм ээ**     |  Үгүй |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Тийм ээ**     | **Тийм ээ**     |  Үгүй |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Үгүй     | **Тийм ээ**     |  Үгүй |
@@ -389,7 +389,7 @@ die();
 
 - [Хэрэв та ISP бус DNS ашиглахыг хүсвэл OpenNIC Tier2 DNS үйлчилгээ эсвэл Cloudflare бус DNS үйлчилгээг ашиглах талаар бодож үзээрэй.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare-ийг DNS ашиглан блоклох. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Cloudflare-ийг DNS ашиглан блоклох. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Та Tor-г DNS шийдэл болгон ашиглаж болно. [Хэрэв та Tor мэргэжилтэн биш бол эндээс асуулт асуугаарай.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - GNU GPL хувилбар 4 нь ийм үйлчилгээний цаана эх кодыг хадгалахыг хориглож, бүх GPLv4 болон түүнээс хойшхи програмуудад дор хаяж эх кодыг Tor хэрэглэгчдийг ялгаварлан гадуурхахгүй байх хэрэгслээр хандах боломжтой байхыг шаарддаг.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
