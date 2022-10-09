@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,159 |
+| com | 3,160 |
 | net | 1,739 |
 | org | 1,218 |
-| social | 1,189 |
+| social | 1,190 |
 | de | 1,034 |
 
 
@@ -2690,6 +2690,7 @@ Here's a list of public Fediverse services.
 | calendario-lunar.com | No |
 | calgaryherald.com | Yes |
 | caliandroid.de | No |
+| calico.social | No |
 | calidris.lv | No |
 | calmarius.net | No |
 | calut.fr | No |
@@ -2917,6 +2918,7 @@ Here's a list of public Fediverse services.
 | ceruleanstack.com | No |
 | cervidae.space | No |
 | cescobarresi.it | No |
+| cesiandalex.com | Yes |
 | ceskar.xyz | No |
 | ceske.site | Yes |
 | cestoliv.com | No |
@@ -21871,6 +21873,7 @@ Here's a list of public Fediverse services.
 | ziggurat-systems.com | No |
 | zigoto.xyz | No |
 | zihigh.club | No |
+| zik.ooo | Yes |
 | zilla.tech | No |
 | zimbo.uk | No |
 | zimmer428.net | No |
@@ -21974,8 +21977,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,413 |
-| Normal | 17,518 |
+| Cloudflare | 4,415 |
+| Normal | 17,519 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
