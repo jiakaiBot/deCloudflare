@@ -117,9 +117,9 @@ AFAIK, គេហទំព័រសូន្យធ្វើដូចនេះ។ 
 
 | ឈ្មោះ | អ្នកអភិវឌ្ឍន៍ | គាំទ្រ | អាចរារាំង | អាចជូនដំណឹងបាន | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ទេ     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ទេ     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ទេ     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ទេ     | **ត្រូវហើយ**     |  **ត្រូវហើយ** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  ទេ |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **ត្រូវហើយ**     | **ត្រូវហើយ**     |  ទេ |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ទេ     | **ត្រូវហើយ**     |  ទេ |
@@ -389,7 +389,7 @@ die();
 
 - [ប្រសិនបើអ្នកចង់ប្រើ DNS ដែលមិនមែនជា ISP សូមពិចារណាប្រើសេវាកម្ម DNS OpenNIC Tier2 DNS ឬសេវាកម្ម DNS ដែលមិនមែនជា Cloudflare ។](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - រារាំង Cloudflare ជាមួយ DNS ។ [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - រារាំង Cloudflare ជាមួយ DNS ។ [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - អ្នកអាចប្រើ Tor ជាអ្នកដោះស្រាយ DNS ។ [ប្រសិនបើអ្នកមិនមែនជាអ្នកជំនាញ Tor សូមសួរសំណួរនៅទីនេះ។](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - វាអាចដឹងបានថា GNU GPL ជំនាន់ ៤ អាចរួមបញ្ចូលការផ្តល់ការការពារកូដប្រភពដែលនៅពីក្រោយសេវាកម្មបែបនេះដែល តម្រូវឲ្យ មានកម្មវិធី GPLv4 ទាំងអស់និងក្រោយមកកម្មវិធីដែលយ៉ាងហោចណាស់កូដប្រភពអាចចូលបានតាមរយៈឧបករណ៍ផ្ទុកដែលមិនរើសអើងអ្នកប្រើតោ។
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
