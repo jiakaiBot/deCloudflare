@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Fix this source allnovelfull.com, CloudflareChallengeError.](https://github.com/dipu-bd/lightnovel-crawler/issues/1697)
 - [Don't get prompted for rclone mount name after configuring rclone](https://github.com/kelinger/OmniStream/issues/21)
 - [dev run error](https://github.com/flareact/flareact/issues/248)
 - [Access List - Internal Error and Losing Entries](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2310)
