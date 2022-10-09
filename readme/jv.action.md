@@ -117,9 +117,9 @@ Yen Cloudflare ngeculake informasi sampeyan utawa ora ngidini sampeyan nyambung 
 
 | Jeneng | Pangembang | Dhukungan | Bisa Blokir | Ora Bisa ngabari | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Nggih**     | **Nggih**     |  **Nggih** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ora     | **Nggih**     |  **Nggih** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ora     | **Nggih**     |  **Nggih** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Nggih**     | **Nggih**     |  **Nggih** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ora     | **Nggih**     |  **Nggih** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ora     | **Nggih**     |  **Nggih** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Nggih**     | **Nggih**     |  Ora |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Nggih**     | **Nggih**     |  Ora |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ora     | **Nggih**     |  Ora |
@@ -389,7 +389,7 @@ Mula, disaranake mung tabel ing ndhuwur. Ora liya.
 
 - [Yen sampeyan pengin nggunakake DNS non-ISP, coba gunakake layanan OpenNIC Tier2 DNS utawa layanan DNS non-Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokir Cloudflare nganggo DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Blokir Cloudflare nganggo DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Sampeyan bisa nggunakake Tor minangka resolusi DNS. [Yen sampeyan dudu ahli Tor, takon ing kene.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Mula, disaranake mung tabel ing ndhuwur. Ora liya.
 
 - Bisa dibayangake manawa GNU GPL versi 4 bisa uga nyakup suplai kanggo nyimpen kode sumber ing sebalik layanan kasebut, mbutuhake kabeh program GPLv4 lan mengko sing paling ora kode sumber bisa diakses liwat media sing ora mbedakake pangguna Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
