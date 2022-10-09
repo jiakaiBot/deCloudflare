@@ -117,9 +117,9 @@ Jekk Cloudflare jnixxi l-informazzjoni tiegħek jew ma jħallikx tikkonnettja ma
 
 | Isem | Żviluppatur | Appoġġ | Tista 'timblokka | Jista 'Jinnotifika | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Iva**     | **Iva**     |  **Iva** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Le     | **Iva**     |  **Iva** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Le     | **Iva**     |  **Iva** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Iva**     | **Iva**     |  **Iva** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Le     | **Iva**     |  **Iva** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Le     | **Iva**     |  **Iva** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Iva**     | **Iva**     |  Le |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Iva**     | **Iva**     |  Le |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Le     | **Iva**     |  Le |
@@ -389,7 +389,7 @@ Għalhekk nirrakkomandaw hawn fuq it-tabella biss. Xejn iktar.
 
 - [Jekk tixtieq tuża DNS mhux ISP, ikkunsidra li tuża s-servizz DNS OpenNIC Tier2 jew kwalunkwe servizz DNS mhux Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Imblokka Cloudflare bid-DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Imblokka Cloudflare bid-DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Tista 'tuża Tor bħala resolver DNS. [Jekk m'intix espert tat-Tor, staqsi hawnhekk.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Għalhekk nirrakkomandaw hawn fuq it-tabella biss. Xejn iktar.
 
 - Huwa konċepibbli li l-verżjoni GNU GPL 4 tista 'tinkludi dispożizzjoni kontra l-ħażna tal-kodiċi tas-sors wara servizz bħal dan, li teħtieġ għall-GPLv4 kollha u l-programmi sussegwenti li mill-inqas il-kodiċi tas-sors huwa aċċessibbli permezz ta' mezz li ma jiddiskriminax kontra l-utenti tat-Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
