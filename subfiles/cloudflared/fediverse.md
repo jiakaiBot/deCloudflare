@@ -13192,6 +13192,7 @@ Here's a list of public Fediverse services.
 | nekover.se | Yes |
 | nekoweb.my.id | No |
 | nekozuki.me | Yes |
+| nekrofilie.ga | No |
 | nelcomm.org | Yes |
 | nelinka.net | No |
 | nels.space | No |
@@ -21974,7 +21975,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,413 |
-| Normal | 17,517 |
+| Normal | 17,518 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
