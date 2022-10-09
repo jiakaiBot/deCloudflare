@@ -117,9 +117,9 @@ Ger Cloudflare agahdariya we diweşîne an nahêle hûn bi serveratên me ve wer
 
 | Nav | Pêşvebir | Alîkarî | Dikare Asteng bike | Dikare Agahdar bike | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Erê**     | **Erê**     |  **Erê** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Na     | **Erê**     |  **Erê** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Na     | **Erê**     |  **Erê** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Erê**     | **Erê**     |  **Erê** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Na     | **Erê**     |  **Erê** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Na     | **Erê**     |  **Erê** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Erê**     | **Erê**     |  Na |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Erê**     | **Erê**     |  Na |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Na     | **Erê**     |  Na |
@@ -389,7 +389,7 @@ Ji ber vê yekê em tenê maseya jorîn pêşniyar dikin. Tiştek din.
 
 - [Heke hûn dixwazin DNS-ne-ISP bikar bînin, karanîna karûbarê OpenNIC Tier2 DNS-an an karûbarên DNS-yên ne-Cloudflare bifikirin.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare bi DNS asteng bikin. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Cloudflare bi DNS asteng bikin. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Hûn dikarin Tor wekî çareserkerê DNS bikar bînin. [Heke hûn ne pisporê Tor in, li vir pirsê bikin.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Ji ber vê yekê em tenê maseya jorîn pêşniyar dikin. Tiştek din.
 
 - Tête fikirîn ku guhertoya 4 a GNU GPL dikare li dijî hilanîna koda çavkaniyê ya li pişta karûbarek wusa, ji bo hemî GPLv4 û bernameyên paşîn hewce bike ku bi kêmî ve koda çavkaniyê bi navgîniyek ku cûdakariyê nade bikarhênerên Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
