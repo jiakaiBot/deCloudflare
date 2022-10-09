@@ -117,9 +117,9 @@ Cloudflare имаат своја политика за приватност.
 
 | Име | Инвеститорот | Поддршка | Може да блокира | Може да извести | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Да**     | **Да**     |  **Да** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Да**     |  **Да** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Да**     |  **Да** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Да**     | **Да**     |  **Да** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Да**     |  **Да** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **Да**     |  **Да** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Да**     | **Да**     |  Не |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Да**     | **Да**     |  Не |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Не     | **Да**     |  Не |
@@ -389,7 +389,7 @@ die();
 
 - [Ако сакате да користите не-ISP DNS, размислете за користење на OpenNIC Tier2 DNS услуга или која било од не-Cloudflare DNS услуги.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Блокирајте Cloudflare со DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Блокирајте Cloudflare со DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Можете да го користите Tor како резолутор на DNS. [Ако не сте експерт за Тор, поставете прашање тука.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - Може да се замисли дека верзијата 4 на GNU GPL може да вклучува одредба против зачувување на изворниот код зад таквата услуга, која бара за сите GPLv4 и подоцнежните програми барем изворниот код да биде достапен преку медиум кој не прави дискриминација кон корисниците на Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
