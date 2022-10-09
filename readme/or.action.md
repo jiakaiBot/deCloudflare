@@ -117,9 +117,9 @@ AFAIK, ଶୂନ୍ୟ ୱେବସାଇଟ୍ ଏହା କରନ୍ତୁ | �
 
 | ନାମ | ବିକାଶକାରୀ | ସମର୍ଥନ | ଅବରୋଧ କରିପାରିବ | | ସୂଚିତ କରିପାରିବ | | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ହଁ**     | **ହଁ**     |  **ହଁ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ନା     | **ହଁ**     |  **ହଁ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ନା     | **ହଁ**     |  **ହଁ** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ହଁ**     | **ହଁ**     |  **ହଁ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ନା     | **ହଁ**     |  **ହଁ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ନା     | **ହଁ**     |  **ହଁ** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ହଁ**     | **ହଁ**     |  ନା |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **ହଁ**     | **ହଁ**     |  ନା |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ନା     | **ହଁ**     |  ନା |
@@ -389,7 +389,7 @@ die();
 
 - [ଯଦି ଆପଣ ଅଣ- ISP DNS ବ୍ୟବହାର କରିବାକୁ ଚାହାଁନ୍ତି, ତେବେ OpenNIC Tier2 DNS ସେବା କିମ୍ବା କ any ଣସି କ୍ଲାଉଡ୍ ଫ୍ଲାର୍ DNS ସେବା ବ୍ୟବହାର କରିବାକୁ ଚିନ୍ତା କରନ୍ତୁ |](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS ସହିତ କ୍ଲାଉଡ୍ ଫ୍ଲାର୍କୁ ଅବରୋଧ କରନ୍ତୁ | [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - DNS ସହିତ କ୍ଲାଉଡ୍ ଫ୍ଲାର୍କୁ ଅବରୋଧ କରନ୍ତୁ | [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - ଆପଣ Tor କୁ DNS ରିଜୋଲଭର ଭାବରେ ବ୍ୟବହାର କରିପାରିବେ | [ଯଦି ତୁମେ ଟୋର ବିଶେଷଜ୍ଞ ନୁହଁ, ଏଠାରେ ପ୍ରଶ୍ନ ପଚାର |](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - ଏହା କଳ୍ପନା କରାଯାଇପାରେ ଯେ GNU GPL ସଂସ୍କରଣ 4 ଏହିପରି ସେବା ପଛରେ ଉତ୍ସ କୋଡ୍ ସଂରକ୍ଷଣ ବିରୁଦ୍ଧରେ ଏକ ବ୍ୟବସ୍ଥା ଅନ୍ତର୍ଭୂକ୍ତ କରିପାରେ, ସମସ୍ତ GPLv4 ଏବଂ ପରବର୍ତ୍ତୀ ପ୍ରୋଗ୍ରାମଗୁଡିକ ପାଇଁ ଆବଶ୍ୟକ କରେ ଯାହା ଅନ୍ତତ least ପକ୍ଷେ ଉତ୍ସ କୋଡ୍ ଏକ ମାଧ୍ୟମ ମାଧ୍ୟମରେ ଉପଲବ୍ଧ ହୋଇଥାଏ ଯାହା ଟୋର ବ୍ୟବହାରକାରୀଙ୍କୁ ଭେଦ କରେ ନାହିଁ |
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
