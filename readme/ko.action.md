@@ -117,9 +117,9 @@ Cloudflare가 귀하의 정보를 유출하거나 귀하가 당사 서버에 연
 
 | 이름 | 개발자 | 지원하다 | 차단 가능 | 알릴 수 있음 | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **예**     | **예**     |  **예** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 아니     | **예**     |  **예** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 아니     | **예**     |  **예** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **예**     | **예**     |  **예** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 아니     | **예**     |  **예** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 아니     | **예**     |  **예** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **예**     | **예**     |  아니 |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **예**     | **예**     |  아니 |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | 아니     | **예**     |  아니 |
@@ -389,7 +389,7 @@ die();
 
 - [비 ISP DNS를 사용하려면 OpenNIC Tier2 DNS 서비스 또는 비 Cloudflare DNS 서비스 사용을 고려하십시오.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS로 Cloudflare를 차단합니다. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - DNS로 Cloudflare를 차단합니다. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Tor를 DNS 해석기로 사용할 수 있습니다. [Tor 전문가가 아니라면 여기에서 질문하십시오.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - GNU GPL 버전 4에는 그러한 서비스 뒤에 소스 코드를 저장하는 것에 대한 조항이 포함될 수 있으며, 모든 GPLv4 이상 프로그램에 대해 Tor 사용자를 차별하지 않는 매체를 통해 소스 코드에 액세스 할 수 있어야합니다.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
