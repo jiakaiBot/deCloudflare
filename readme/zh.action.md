@@ -117,9 +117,9 @@ AFAIK，零网站做到这一点。你会相信他们吗？
 
 | 姓名 | 开发者 | 支持 | 可以挡 | 可以通知 | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **是的**     | **是的**     |  **是的** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 不     | **是的**     |  **是的** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 不     | **是的**     |  **是的** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **是的**     | **是的**     |  **是的** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 不     | **是的**     |  **是的** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | 不     | **是的**     |  **是的** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **是的**     | **是的**     |  不 |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **是的**     | **是的**     |  不 |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | 不     | **是的**     |  不 |
@@ -389,7 +389,7 @@ die();
 
 - [如果要使用非ISP DNS，请考虑使用OpenNIC Tier2 DNS服务或任何非Cloudflare DNS服务。](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - 使用DNS阻止Cloudflare。 [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - 使用DNS阻止Cloudflare。 [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - 您可以将Tor用作DNS解析器。 [如果您不是Tor专家，请在此处提问。](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - 可以想象的是，GNU GPL版本4可能包含禁止将源代码存储在此类服务之后的规定，要求所有GPLv4和更高版本的程序至少可以通过不歧视Tor用户的介质访问源代码。
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
