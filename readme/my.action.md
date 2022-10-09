@@ -117,9 +117,9 @@ Cloudflare သည်သင်၏သတင်းအချက်အလက်မျ
 
 | နာမည် | Developer | ပံ့ပိုးမှု | ပိတ်ဆို့နိုင်သည် | ကြေငြာနိုင် | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  **ဟုတ်တယ်** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **ဟုတ်တယ်**     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
@@ -389,7 +389,7 @@ die();
 
 - [သင်သည် ISP မဟုတ်သော DNS ကိုအသုံးပြုလိုပါက OpenNIC Tier2 DNS ဝန်ဆောင်မှုသို့မဟုတ် Cloudflare မဟုတ်သော DNS ၀ န်ဆောင်မှုတစ်ခုခုကိုအသုံးပြုရန်စဉ်းစားပါ။](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS ဖြင့် Cloudflare ကိုပိတ်ပါ။ [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - DNS ဖြင့် Cloudflare ကိုပိတ်ပါ။ [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - သင် Tor ကို DNS resolver အဖြစ်အသုံးပြုနိုင်သည်။ [သင် Tor ကျွမ်းကျင်သူမဟုတ်ပါကဤနေရာတွင်မေးခွန်းမေးပါ။](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - GNU GPL ဗားရှင်း ၄ တွင်ထိုကဲ့သို့သော ၀ န်ဆောင်မှုနောက်ကွယ်ရှိအရင်းအမြစ်ကုဒ်များသိုလှောင်ခြင်းကိုတားမြစ်ရန်ပါ ၀ င်နိုင်သည်၊ GPLv4 နှင့်နောက်ပိုင်းပရိုဂရမ်များအားလုံးအတွက်အနည်းဆုံး source code ကို Tor အသုံးပြုသူများအားခွဲခြားဆက်ဆံခြင်းမရှိသောကြားခံမှတစ်ဆင့်ရယူနိုင်သည်ဟုယူဆနိုင်သည်။
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
