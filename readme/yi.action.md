@@ -117,9 +117,9 @@ AFAIK, נול וועבזייטל טאָן דאָס. וועט איר צוטרוי
 
 | נאָמען | דעוועלאָפּער | שטיצן | קענען בלאַק | קענען געבנ צו וויסן | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **יאָ**     | **יאָ**     |  **יאָ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ניין     | **יאָ**     |  **יאָ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ניין     | **יאָ**     |  **יאָ** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **יאָ**     | **יאָ**     |  **יאָ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ניין     | **יאָ**     |  **יאָ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ניין     | **יאָ**     |  **יאָ** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **יאָ**     | **יאָ**     |  ניין |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **יאָ**     | **יאָ**     |  ניין |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ניין     | **יאָ**     |  ניין |
@@ -389,7 +389,7 @@ die();
 
 - [אויב איר ווילט צו נוצן ניט-יספּ דנס, באַטראַכטן ניצן OpenNIC Tier2 דנס סערוויס אָדער קיין פון ניט-קלאָודפלאַרע דנס באַדינונגס.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - פאַרשפּאַרן קלאָודפלאַרע מיט דנס. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - פאַרשפּאַרן קלאָודפלאַרע מיט דנס. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - איר קענען נוצן Tor ווי דנס רעסאָלווער. [אויב איר זענט נישט Tor מומחה, פרעגן קשיא דאָ.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - עס קען זיין קאַנסיוואַבאַל אַז די GNU GPL ווערסיע 4 קען אַרייַננעמען אַ פּראַוויזשאַנז קעגן סטאָרידזש מקור קאָד הינטער אַזאַ אַ דינסט, וואָס דאַרף פֿאַר אַלע GPLv4 און שפּעטער מגילה אַז לפּחות די מקור קאָד איז צוטריטלעך דורך אַ מיטל וואָס טוט נישט דיסקרימאַנייט קעגן Tor ניצערס.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
