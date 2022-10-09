@@ -117,9 +117,9 @@ AFAIK, जीरो वेबसाइट ऐसा करती है। क�
 
 | नाम | डेवलपर | सहयोग | ब्लॉक कर सकते हैं | सूचित कर सकते हैं | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **हाँ**     | **हाँ**     |  **हाँ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | नहीं न     | **हाँ**     |  **हाँ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | नहीं न     | **हाँ**     |  **हाँ** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **हाँ**     | **हाँ**     |  **हाँ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | नहीं न     | **हाँ**     |  **हाँ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | नहीं न     | **हाँ**     |  **हाँ** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **हाँ**     | **हाँ**     |  नहीं न |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **हाँ**     | **हाँ**     |  नहीं न |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | नहीं न     | **हाँ**     |  नहीं न |
@@ -389,7 +389,7 @@ die();
 
 - [यदि आप गैर-आईएसपी DNS का उपयोग करना चाहते हैं, तो OpenNIC Tier2 DNS सेवा या किसी भी गैर-क्लाउडफ़ेयर DNS सेवाओं का उपयोग करने पर विचार करें।](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS के साथ Cloudflare को ब्लॉक करें। [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - DNS के साथ Cloudflare को ब्लॉक करें। [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - आप टॉर को DNS रिज़ॉल्वर के रूप में उपयोग कर सकते हैं। [यदि आप टो विशेषज्ञ नहीं हैं, तो यहां सवाल पूछें।](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - यह अनुमान योग्य है कि GNU GPL संस्करण 4 में ऐसी सेवा के पीछे स्रोत कोड को संग्रहीत करने के लिए एक प्रावधान शामिल हो सकता है, जिसके लिए सभी GPLv4 और बाद के कार्यक्रमों की आवश्यकता होती है, जो कम से कम स्रोत कोड एक माध्यम से सुलभ होता है जो Tor उपयोगकर्ताओं के साथ भेदभाव नहीं करता है।
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
