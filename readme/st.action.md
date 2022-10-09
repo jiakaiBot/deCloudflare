@@ -117,9 +117,9 @@ Haeba Cloudflare e lutla tlhahisoleseling ea hau kapa e sa u lumelle ho hokela h
 
 | Lebitso | Moqapi | Ts'ehetso | E ka Thibela | E ka Tsebisa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ho joalo**     | **Ho joalo**     |  **Ho joalo** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Che     | **Ho joalo**     |  **Ho joalo** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Che     | **Ho joalo**     |  **Ho joalo** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ho joalo**     | **Ho joalo**     |  **Ho joalo** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Che     | **Ho joalo**     |  **Ho joalo** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Che     | **Ho joalo**     |  **Ho joalo** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ho joalo**     | **Ho joalo**     |  Che |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Ho joalo**     | **Ho joalo**     |  Che |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Che     | **Ho joalo**     |  Che |
@@ -389,7 +389,7 @@ Ka hona re khothaletsa tafole e kaholimo feela. Ha ho letho le leng.
 
 - [Haeba u ka rata ho sebelisa DNS eo e seng ea ISP, nahana ka ho sebelisa ts'ebeletso ea OpenNIC Tier2 DNS kapa efe kapa efe ea litšebeletso tse seng tsa Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Thibela Cloudflare ka DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Thibela Cloudflare ka DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - U ka sebelisa Tor joalo ka tharollo ea DNS. [Haeba ha u setsebi sa Tor, botsa potso mona.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Ka hona re khothaletsa tafole e kaholimo feela. Ha ho letho le leng.
 
 - Ho ka nahanoa hore mofuta oa GNU GPL 4 o ka kenyelletsa tokisetso khahlano le ho boloka khoutu ea mohloli ka mor'a ts'ebeletso e joalo, e hlokang bakeng sa mananeo ohle a GPLv4 le a morao-rao hore bonyane khoutu ea mohloli e ka fumaneha ka sehare se sa khetholleng basebelisi ba Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
