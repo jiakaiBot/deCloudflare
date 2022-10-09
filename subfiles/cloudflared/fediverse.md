@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,161 |
-| net | 1,739 |
+| net | 1,740 |
 | org | 1,218 |
 | social | 1,190 |
 | de | 1,034 |
@@ -8363,6 +8363,7 @@ Here's a list of public Fediverse services.
 | ikbenpiraat.nl | No |
 | ikebuku.ro | Yes |
 | ikeji.ma | No |
+| iklem.fr | No |
 | ikx.kr | Yes |
 | ilbro.com | Yes |
 | ilchub.net | Yes |
@@ -9947,6 +9948,7 @@ Here's a list of public Fediverse services.
 | kuberegretes.com | No |
 | kudabiverse.com | No |
 | kudomaru.com | No |
+| kuecker.eu | No |
 | kueckieben.de | No |
 | kuester7.com | No |
 | kuhs.me | Yes |
@@ -12397,6 +12399,7 @@ Here's a list of public Fediverse services.
 | mofmof.coffee | No |
 | mofu.one | No |
 | mofu2charger-listenradio.net | No |
+| mogenius.io | Yes |
 | moggy.xyz | No |
 | mogle.social | No |
 | mograph.social | No |
@@ -17893,6 +17896,7 @@ Here's a list of public Fediverse services.
 | souverainete-numerique.info | No |
 | soviet.nyc | No |
 | sovran.me | No |
+| sovran.photos | No |
 | sovran.video | No |
 | sow.social | Yes |
 | sowhappy.us | Yes |
@@ -18243,6 +18247,7 @@ Here's a list of public Fediverse services.
 | strangled.net | No |
 | strasza.net | Yes |
 | stratinator.com | Yes |
+| stratonauts.co | Yes |
 | streamer.cafe | No |
 | streamer.place | Yes |
 | streamers.social | Yes |
@@ -18669,6 +18674,7 @@ Here's a list of public Fediverse services.
 | tankie.ml | No |
 | tanooki.club | No |
 | tanoshii.site | Yes |
+| tansuo.plus | Yes |
 | tantalum.life | Yes |
 | tantek.com | No |
 | tanti.org.uk | No |
@@ -18879,6 +18885,7 @@ Here's a list of public Fediverse services.
 | tenshicorn.dog | Yes |
 | tenta.fun | No |
 | tentacle.social | No |
+| tentaclehead.games | No |
 | tentacleric.com | No |
 | tentacul.es | No |
 | tentere.net | Yes |
@@ -19860,6 +19867,7 @@ Here's a list of public Fediverse services.
 | turkum.me | No |
 | turkum.site | No |
 | turlan.org | No |
+| turnip.solutions | No |
 | turpentine.blue | No |
 | turtleapparel.eu | No |
 | turystyka-niecodzienna.pl | No |
@@ -21208,6 +21216,7 @@ Here's a list of public Fediverse services.
 | wsvn.com | No |
 | wt21.de | No |
 | wtf.social | Yes |
+| wtfayla.net | No |
 | wtfflorida.com | Yes |
 | wtsnjp.com | No |
 | wuatek.is | No |
@@ -21979,8 +21988,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,416 |
-| Normal | 17,520 |
+| Cloudflare | 4,419 |
+| Normal | 17,526 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
