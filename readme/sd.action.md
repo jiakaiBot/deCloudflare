@@ -117,9 +117,9 @@ AFAIK ، صفر ويب سائيٽ هي ڪر. ڇا توهان انهن تي اع�
 
 | نالو | ٺاھيندڙ | سپورٽ | بلاڪ ڪري سگھي ٿو | اطلاع ڏئي سگهان ٿو | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ها**     | **ها**     |  **ها** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نه     | **ها**     |  **ها** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نه     | **ها**     |  **ها** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **ها**     | **ها**     |  **ها** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نه     | **ها**     |  **ها** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | نه     | **ها**     |  **ها** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **ها**     | **ها**     |  نه |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **ها**     | **ها**     |  نه |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | نه     | **ها**     |  نه |
@@ -389,7 +389,7 @@ die();
 
 - [جيڪڏهن توهان Non-ISP DNS استعمال ڪرڻ چاهيندا ، OpenNIC Tier2 DNS سروس استعمال ڪرڻ تي غور ڪريو يا ڪنهن غير Cloudflare DNS سروسز کي.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare کي ڊي اين ايس سان بلاڪ ڪيو. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Cloudflare کي ڊي اين ايس سان بلاڪ ڪيو. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - توھان ٽور استعمال ڪري سگھوٿا ڊي اين ايس رليور طور. [جيڪڏهن توهان ٽور ماهر نه آهيو ، هتي سوال پڇو.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - اهو سمجھڻ جوڳي آهي ته GNU GPL ورجن 4 هڪ اهڙي سروس جي پويان سورس ڪوڊ محفوظ ڪرڻ خلاف رزق شامل ڪري سگهي ٿي ، سڀني GPLv4 ۽ بعد ۾ پروگرامن جي ضرورت آهي ته گهٽ ۾ گهٽ ذريعه ڪوڊ هڪ وچولي ذريعي رسائي ٿئي جيڪا Tor استعمال ڪندڙن سان تعصب نه ڪري.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
