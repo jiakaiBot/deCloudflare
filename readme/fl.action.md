@@ -117,9 +117,9 @@ Kung tinagas ng Cloudflare ang iyong impormasyon o hindi ka papayag na kumonekta
 
 | Pangalan | Developer | Suporta | Maaaring Harangan | Hindi Maaring Abisuhan | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Oo**     | **Oo**     |  **Oo** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hindi     | **Oo**     |  **Oo** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hindi     | **Oo**     |  **Oo** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Oo**     | **Oo**     |  **Oo** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hindi     | **Oo**     |  **Oo** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Hindi     | **Oo**     |  **Oo** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Oo**     | **Oo**     |  Hindi |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Oo**     | **Oo**     |  Hindi |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Hindi     | **Oo**     |  Hindi |
@@ -389,7 +389,7 @@ Samakatuwid inirerekumenda lamang namin sa itaas ng talahanayan. Walang iba.
 
 - [Kung nais mong gumamit ng hindi ISP DNS, isaalang-alang ang paggamit sa serbisyo ng OpenNIC Tier2 DNS o anuman sa mga serbisyo na hindi Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - I-block ang Cloudflare gamit ang DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - I-block ang Cloudflare gamit ang DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Maaari mong gamitin ang Tor bilang resolver ng DNS. [Kung hindi ka dalubhasa sa Tor, magtanong dito.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Samakatuwid inirerekumenda lamang namin sa itaas ng talahanayan. Walang iba.
 
 - Maisip na ang bersyon ng GNU GPL na 4 ay maaaring magsama ng isang probisyon laban sa pag-iimbak ng source code sa likod ng naturang serbisyo, na nangangailangan para sa lahat ng mga programa ng GPLv4 at kalaunan na maipasok ang mapagkukunang code ay maaaring ma-access sa pamamagitan ng isang daluyan na hindi nagtatangi laban sa mga gumagamit ng Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
