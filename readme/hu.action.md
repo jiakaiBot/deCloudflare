@@ -117,9 +117,9 @@ Ha a Cloudflare kiszivárogtatja adatait, vagy nem engedi, hogy csatlakozzon sze
 
 | Név | Fejlesztő | Támogatás | Blokkolhat | Értesíteni tud | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Igen**     | **Igen**     |  **Igen** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nem     | **Igen**     |  **Igen** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nem     | **Igen**     |  **Igen** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Igen**     | **Igen**     |  **Igen** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nem     | **Igen**     |  **Igen** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Nem     | **Igen**     |  **Igen** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Igen**     | **Igen**     |  Nem |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Igen**     | **Igen**     |  Nem |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Nem     | **Igen**     |  Nem |
@@ -389,7 +389,7 @@ Ezért csak a fenti táblázatban ajánljuk. Semmi más.
 
 - [Ha nem ISP DNS-t szeretne használni, fontolja meg az OpenNIC Tier2 DNS szolgáltatás vagy bármely nem Cloudflare DNS szolgáltatás használatát.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Blokkolja a Cloudflare-t DNS-sel. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Blokkolja a Cloudflare-t DNS-sel. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Használhatja a Tor-t DNS-feloldóként. [Ha Ön nem Tor szakértő, tegyen fel kérdést itt.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Ezért csak a fenti táblázatban ajánljuk. Semmi más.
 
 - Elképzelhető, hogy a GNU GPL 4-es verzió tartalmazhat olyan rendelkezést, amely megakadályozza a forráskód tárolását egy ilyen szolgáltatás mögött, megkövetelve minden GPLv4 és későbbi program esetében, hogy legalább a forráskód hozzáférhető legyen egy olyan adathordozón keresztül, amely nem tesz különbséget a Tor felhasználóival szemben.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
