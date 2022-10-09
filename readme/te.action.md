@@ -117,9 +117,9 @@ AFAIK, సున్నా వెబ్‌సైట్ దీన్ని చే�
 
 | పేరు | డెవలపర్ | మద్దతు | బ్లాక్ చేయవచ్చు | తెలియజేయవచ్చు | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **అవును**     | **అవును**     |  **అవును** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | లేదు     | **అవును**     |  **అవును** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | లేదు     | **అవును**     |  **అవును** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **అవును**     | **అవును**     |  **అవును** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | లేదు     | **అవును**     |  **అవును** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | లేదు     | **అవును**     |  **అవును** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **అవును**     | **అవును**     |  లేదు |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **అవును**     | **అవును**     |  లేదు |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | లేదు     | **అవును**     |  లేదు |
@@ -389,7 +389,7 @@ die();
 
 - [మీరు ISP కాని DNS ను ఉపయోగించాలనుకుంటే, OpenNIC టైర్ 2 DNS సేవ లేదా క్లౌడ్ఫ్లేర్ కాని DNS సేవలను ఉపయోగించడాన్ని పరిగణించండి.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS తో క్లౌడ్‌ఫ్లేర్‌ను బ్లాక్ చేయండి. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - DNS తో క్లౌడ్‌ఫ్లేర్‌ను బ్లాక్ చేయండి. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - మీరు టోర్ను DNS పరిష్కారంగా ఉపయోగించవచ్చు. [మీరు టోర్ నిపుణుడు కాకపోతే, ఇక్కడ ప్రశ్న అడగండి.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - GNU GPL వెర్షన్ 4 అటువంటి సేవ వెనుక సోర్స్ కోడ్‌ను నిల్వ చేయడానికి వ్యతిరేకంగా ఒక నిబంధనను కలిగి ఉండవచ్చని భావించవచ్చు, అన్ని GPLv4 మరియు తరువాత ప్రోగ్రామ్‌ల అవసరం, టోర్ వినియోగదారులపై వివక్ష చూపని మాధ్యమం ద్వారా కనీసం సోర్స్ కోడ్‌ను యాక్సెస్ చేయవచ్చు.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
