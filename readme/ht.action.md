@@ -117,9 +117,9 @@ Si Cloudflare koule enfòmasyon ou oswa ou pa pral kite ou konekte ak serveurs n
 
 | Non | Devlopè | Sipò | Kapab bloke | Kapab Notifye | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Wi**     | **Wi**     |  **Wi** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Non     | **Wi**     |  **Wi** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Non     | **Wi**     |  **Wi** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Wi**     | **Wi**     |  **Wi** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Non     | **Wi**     |  **Wi** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Non     | **Wi**     |  **Wi** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Wi**     | **Wi**     |  Non |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Wi**     | **Wi**     |  Non |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Non     | **Wi**     |  Non |
@@ -389,7 +389,7 @@ Se poutèt sa nou rekòmande anwo tab la sèlman. Anyen ankò.
 
 - [Si ou ta renmen itilize ki pa ISP dns, konsidere lè l sèvi avèk OpenNIC Tier2 sèvis dns oswa nenpòt nan sèvis dns ki pa Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Bloke Cloudflare ak dns. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Bloke Cloudflare ak dns. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Ou ka itilize Tor kòm rezolveur dns. [Si ou pa ekspè Tor, poze kesyon isit la.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Se poutèt sa nou rekòmande anwo tab la sèlman. Anyen ankò.
 
 - Li posib ke GNU GPL vèsyon 4 a ka gen ladan yon dispozisyon kont estoke kòd sous dèyè tankou yon sèvis, ki egzije pou tout pwogram GPLv4 ak pita ke omwen kòd sous la aksesib atravè yon mwayen ki pa fè diskriminasyon kont itilizatè Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
