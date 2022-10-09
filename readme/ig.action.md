@@ -117,9 +117,9 @@ You kwenyekwara ịkekọrịta data gị na Cloudflare ma kwenye na nkwupụta 
 
 | Aha | Mmepụta | Nkwado | Nwere ike Gbochie | Nwere ike Gwa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Eeh**     | **Eeh**     |  **Eeh** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Mba     | **Eeh**     |  **Eeh** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Mba     | **Eeh**     |  **Eeh** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Eeh**     | **Eeh**     |  **Eeh** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Mba     | **Eeh**     |  **Eeh** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Mba     | **Eeh**     |  **Eeh** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Eeh**     | **Eeh**     |  Mba |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Eeh**     | **Eeh**     |  Mba |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Mba     | **Eeh**     |  Mba |
@@ -389,7 +389,7 @@ Ya mere, anyị nwere ike ikwu n'elu table naanị. Ọ dịghị ihe ọzọ.
 
 - [Ọ bụrụ na ịchọrọ iji ndị na-abụghị ISP DNS, tụlee iji ọrụ OpenNIC Tier2 DNS ma ọ bụ nke ọ bụla na-abụghị Cloudflare DNS ọrụ.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Gbochie Cloudflare na DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Gbochie Cloudflare na DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - You nwere ike iji Tor dị ka mkpebi DNS. [Ọ bụrụ na ị bụghị ọkachamara Tor, jụọ ajụjụ ebe a.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Ya mere, anyị nwere ike ikwu n'elu table naanị. Ọ dịghị ihe ọzọ.
 
 - O doro anya na ụdị GNU GPL 4 nwere ike ịgụnye ndokwa megide ịchekwa koodu isi n'azụ ụdị ọrụ a, na-achọ ihe niile GPLv4 na mmemme emesịa ma ọ dịkarịa ala enwere ike ịnweta koodu isi site na usoro na-adịghị akpa ókè na ndị ọrụ Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
