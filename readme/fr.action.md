@@ -117,9 +117,9 @@ Si Cloudflare divulgue vos informations ou ne vous permet pas de vous connecter 
 
 | Nom | Développeur | Soutien | Peut bloquer | Peut notifier | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Oui**     | **Oui**     |  **Oui** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Non     | **Oui**     |  **Oui** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Non     | **Oui**     |  **Oui** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Oui**     | **Oui**     |  **Oui** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Non     | **Oui**     |  **Oui** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Non     | **Oui**     |  **Oui** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Oui**     | **Oui**     |  Non |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Oui**     | **Oui**     |  Non |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Non     | **Oui**     |  Non |
@@ -389,7 +389,7 @@ Par conséquent, nous recommandons uniquement le tableau ci-dessus. Rien d'autre
 
 - [Si vous souhaitez utiliser un DNS non-FAI, envisagez d'utiliser le service DNS OpenNIC Tier2 ou l'un des services DNS non-Cloudflare.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Bloquez Cloudflare avec DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Bloquez Cloudflare avec DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Vous pouvez utiliser Tor comme résolveur DNS. [Si vous n'êtes pas un expert de Tor, posez la question ici.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Par conséquent, nous recommandons uniquement le tableau ci-dessus. Rien d'autre
 
 - Il est concevable que la version 4 de la GNU GPL puisse inclure une disposition contre le stockage du code source derrière un tel service, exigeant pour tous les programmes GPLv4 et ultérieurs qu'au moins le code source soit accessible via un support qui ne discrimine pas les utilisateurs de Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
