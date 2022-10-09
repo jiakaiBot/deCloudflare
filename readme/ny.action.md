@@ -117,9 +117,9 @@ Ngati Cloudflare atulutsa zambiri zanu kapena sangakuloleni kuti mulumikizane nd
 
 | Dzina | Mapulogalamu | Thandizo | Ikhoza Kutseka | Mungadziwitse | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Inde**     | **Inde**     |  **Inde** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ayi     | **Inde**     |  **Inde** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ayi     | **Inde**     |  **Inde** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Inde**     | **Inde**     |  **Inde** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ayi     | **Inde**     |  **Inde** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Ayi     | **Inde**     |  **Inde** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Inde**     | **Inde**     |  Ayi |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Inde**     | **Inde**     |  Ayi |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ayi     | **Inde**     |  Ayi |
@@ -389,7 +389,7 @@ Chifukwa chake timalimbikitsa pamwambapa tebulo lokha. Palibe china.
 
 - [Ngati mukufuna kugwiritsa ntchito omwe si ISP DNS, ganizirani kugwiritsa ntchito ntchito ya OpenNIC Tier2 DNS kapena ntchito iliyonse yomwe si Cloudflare DNS.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Dulani Cloudflare ndi DNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Dulani Cloudflare ndi DNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Mutha kugwiritsa ntchito Tor ngati DNS resolutionver. [Ngati simuli katswiri wa Tor, funsani funso apa.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Chifukwa chake timalimbikitsa pamwambapa tebulo lokha. Palibe china.
 
 - Ndizotheka kuti mtundu wa GNU GPL 4 utha kuphatikizira njira yoletsa kusungira kachidindo koyambira pantchito yotere, yomwe ikufuna mapulogalamu onse a GPLv4 komanso pambuyo pake omwe nambala yoyambira ipezeke kudzera pa sing'anga lomwe silisala ogwiritsa ntchito a Tor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
