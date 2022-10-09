@@ -232,6 +232,7 @@ Do not create new issue or we will close it as duplicate.
 | [AccioLaw@twitter](https://twitter.com/AccioLaw/status/1490055581062807553) | advertise |
 | [Accml3@twitter](https://twitter.com/Accml3/status/1509928686157725697) | advertise |
 | [Acd4512@twitter](https://twitter.com/Acd4512/status/1553069977468411904) | advertise |
+| [AcDar8@twitter](https://twitter.com/AcDar8/status/1579075794000756737) | advertise |
 | [AceCork@twitter](https://twitter.com/AceCork/status/1385313787452985349) | advertise |
 | [Achalkishore1@twitter](https://twitter.com/Achalkishore1/status/1386981518464090113) | advertise |
 | [AChanMay4@twitter](https://twitter.com/AChanMay4/status/1400031938719760385) | advertise |
@@ -10205,6 +10206,7 @@ Do not create new issue or we will close it as duplicate.
 | [yakamashi_baka@twitter](https://twitter.com/yakamashi_baka/status/1558494975847170048) | advertise |
 | [YaKauk47@twitter](https://twitter.com/YaKauk47/status/1376851886981009412) | advertise |
 | [yakauk_cvrtt2z@twitter](https://twitter.com/yakauk_cvrtt2z/status/1392848631456174086) | advertise |
+| [YAKHMAK_@twitter](https://twitter.com/YAKHMAK_/status/1579076671067521025) | advertise |
 | [yakobiatta@twitter](https://twitter.com/yakobiatta/status/1513949512703909896) | advertise |
 | [YAKS07@twitter](https://twitter.com/YAKS07/status/1401583619924283394) | advertise |
 | [YamasakiAnzuu@twitter](https://twitter.com/YamasakiAnzuu/status/1553827206887280640) | advertise |
