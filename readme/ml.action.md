@@ -117,9 +117,9 @@ AFAIK, സീറോ വെബ്‌സൈറ്റ് ഇത് ചെയ്യ�
 
 | പേര് | ഡവലപ്പർ | പിന്തുണ | തടയാൻ കഴിയും | അറിയിക്കാൻ കഴിയും | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **അതെ**     | **അതെ**     |  **അതെ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ഇല്ല     | **അതെ**     |  **അതെ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ഇല്ല     | **അതെ**     |  **അതെ** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **അതെ**     | **അതെ**     |  **അതെ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ഇല്ല     | **അതെ**     |  **അതെ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | ഇല്ല     | **അതെ**     |  **അതെ** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **അതെ**     | **അതെ**     |  ഇല്ല |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **അതെ**     | **അതെ**     |  ഇല്ല |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ഇല്ല     | **അതെ**     |  ഇല്ല |
@@ -389,7 +389,7 @@ die();
 
 - [നിങ്ങൾ ISP ഇതര DNS ഉപയോഗിക്കാൻ ആഗ്രഹിക്കുന്നുവെങ്കിൽ, OpenNIC Tier2 DNS സേവനമോ ക്ലൗഡ്ഫ്ലെയർ ഇതര DNS സേവനങ്ങളോ ഉപയോഗിക്കുന്നത് പരിഗണിക്കുക.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - DNS ഉപയോഗിച്ച് ക്ലൗഡ്ഫ്ലെയർ തടയുക. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - DNS ഉപയോഗിച്ച് ക്ലൗഡ്ഫ്ലെയർ തടയുക. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - നിങ്ങൾക്ക് ടോർ ഡിഎൻഎസ് റിസോൾവറായി ഉപയോഗിക്കാം. [നിങ്ങൾ ടോർ വിദഗ്ദ്ധനല്ലെങ്കിൽ, ഇവിടെ ചോദ്യം ചോദിക്കുക.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - അത്തരമൊരു സേവനത്തിന് പിന്നിൽ സോഴ്‌സ് കോഡ് സംഭരിക്കുന്നതിനെതിരെയുള്ള ഒരു വ്യവസ്ഥ ഗ്നു ജിപിഎൽ പതിപ്പ് 4 ൽ ഉൾപ്പെടുത്താമെന്നത് സങ്കൽപ്പിക്കാവുന്ന കാര്യമാണ്, ടോർ ഉപയോക്താക്കളോട് വിവേചനം കാണിക്കാത്ത ഒരു മാധ്യമം വഴി കുറഞ്ഞത് സോഴ്‌സ് കോഡ് ആക്‌സസ്സുചെയ്യാനാകുന്ന എല്ലാ ജിപിഎൽവി 4, പിന്നീടുള്ള പ്രോഗ്രാമുകൾ എന്നിവ ആവശ്യമാണ്.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
