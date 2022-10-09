@@ -105,6 +105,7 @@ Do not create new issue or we will close it as duplicate.
 | [59_nishi@twitter](https://twitter.com/59_nishi/status/1396310715548323842) | advertise |
 | [63FIwW0WqHvus55@twitter](https://twitter.com/63FIwW0WqHvus55/status/1405398057202630657) | advertise |
 | [65akon@twitter](https://twitter.com/65akon/status/1537224409861484544) | advertise |
+| [68Mjd@twitter](https://twitter.com/68Mjd/status/1579154746451296256) | advertise |
 | [69Transylvania@twitter](https://twitter.com/69Transylvania/status/1468804258019659779) | advertise |
 | [77_naman@twitter](https://twitter.com/77_naman/status/1379437501786456065) | advertise |
 | [80x5_jonathan@twitter](https://twitter.com/80x5_jonathan/status/1563428306694729731) | advertise |
