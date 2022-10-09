@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,160 |
+| com | 3,161 |
 | net | 1,739 |
 | org | 1,218 |
 | social | 1,190 |
@@ -17937,6 +17937,7 @@ Here's a list of public Fediverse services.
 | sparced.org | No |
 | sparklesin.space | No |
 | sparkpc.xyz | Yes |
+| sparksammy.com | Yes |
 | spartanserver.org | No |
 | spatioport.net | No |
 | spaz.org | No |
@@ -18482,6 +18483,7 @@ Here's a list of public Fediverse services.
 | sy.mk | Yes |
 | syachiku.net | No |
 | syamco.net | No |
+| syamimomo.cf | No |
 | syamutodon.xyz | No |
 | syaroshi.co | No |
 | syasai.club | No |
@@ -21977,8 +21979,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,415 |
-| Normal | 17,519 |
+| Cloudflare | 4,416 |
+| Normal | 17,520 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
