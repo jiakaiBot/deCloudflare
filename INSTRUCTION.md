@@ -33,11 +33,11 @@
 
 There are many ways to detect it:
 
-- Add-on "[Block Cloudflare MITM Attack!](subfiles/about.bcma.md)" will help your Cloudflare collection.
-- Add-on "[Are links vulnerable to MITM attack?](subfiles/about.ismm.md)" will tell you which link is Cloudflared.
+- Add-on "[Block Cloudflare MITM Attack!](subfiles/addon/bcma.md)" will help your Cloudflare collection.
+- Add-on "[Are links vulnerable to MITM attack?](subfiles/addon/ismm.md)" will tell you which link is Cloudflared.
 - Visit a website via Tor or VPN, and you will be greeted by "_Attention Required! Cloudflare_" or "_Checking your browser_" webpage.
 - Karma's ["Find Cloudflare Domains" API](subfiles/service/karma_api.md)
-- Use "[Search domain](subfiles/service.ombrelo.md)" webpage.
+- Use "[Search domain](subfiles/service/ombrelo.md)" webpage.
 - Search [cloudflare domain list](cloudflare_users/domains/).
   - [CfDomains report tool](tool/cfdomains/README.md)
 - Dig "[NS record](https://www.digwebinterface.com/?hostnames=emsisoft.com&type=NS&ns=resolver&useresolver=8.8.4.4&nameservers=)" of the domain.
@@ -114,7 +114,7 @@ Z8 Sucuri
 Z9 Fastly
 ```
 
-- Add-on "[Which website rejected me?](subfiles/about.urjm.md)" will help your domain collection.
+- Add-on "[Which website rejected me?](subfiles/addon/urjm.md)" will help your domain collection.
 
 ![](image/siteground.jpg)
 
@@ -138,8 +138,8 @@ Some websites combine other companies (e.g. Amazon AWS, Google Cloud, DDoS-GUARD
 | [/domains/*/antitor_?.txt](anti-tor_users/domains/)     | Split files (FQDN) |
 | [/misc/hostility.md](anti-tor_users/misc/hostility.md) | **Does NOT block Tor access BUT** Domain and Comment |
 
-- Add-on "[Which website rejected me?](subfiles/about.urjm.md)" will help your domain collection.
-- Add-on "[Will these links block Tor user?](subfiles/about.isat.md)" will tell you which link rejected Tor visitor.
+- Add-on "[Which website rejected me?](subfiles/addon/urjm.md)" will help your domain collection.
+- Add-on "[Will these links block Tor user?](subfiles/addon/isat.md)" will tell you which link rejected Tor visitor.
 - Search [anti-tor fqdn list](anti-tor_users/domains/).
   - Karma's ["Find Anti-Tor FQDN" API](subfiles/service/karma_api.md)
 
@@ -208,8 +208,8 @@ Your contribution will be pushed to git automatically.
 
 - Cloudflare
   - **Easiest way**: Use [**CfDomains report tool**](tool/cfdomains/README.md).
-  - Or: Scan FQDN on "[Search domain](subfiles/service.ombrelo.md)" webpage.
-  - Or: Use ["_MITM test_" API](subfiles/service.ombrelo.md).
+  - Or: Scan FQDN on "[Search domain](subfiles/service/ombrelo.md)" webpage.
+  - Or: Use ["_MITM test_" API](subfiles/service/ombrelo.md).
     - e.g. `curl -x socks5h://127.0.0.1:9050 -k --http2 -X POST -F 'f=www.emsisoft.com' (API URL)is_mitm.php`
 
 
