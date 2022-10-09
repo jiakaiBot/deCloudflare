@@ -117,9 +117,9 @@ Kana Cloudflare ichiburitsa ruzivo rwako kana isingakuregi iwe ubatanidze kumase
 
 | Zita | Mugadziri | Tsigiro | Unogona Kuvhara | Unogona Kuzivisa | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ehe**     | **Ehe**     |  **Ehe** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Aihwa     | **Ehe**     |  **Ehe** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Aihwa     | **Ehe**     |  **Ehe** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **Ehe**     | **Ehe**     |  **Ehe** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Aihwa     | **Ehe**     |  **Ehe** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Aihwa     | **Ehe**     |  **Ehe** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **Ehe**     | **Ehe**     |  Aihwa |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **Ehe**     | **Ehe**     |  Aihwa |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Aihwa     | **Ehe**     |  Aihwa |
@@ -389,7 +389,7 @@ Naizvozvo tinokurudzira pamusoro petafura chete. Hapana chimwe.
 
 - [Kana iwe uchida kushandisa isiri-ISP DNS, funga kushandisa OpenNIC Tier2 DNS sevhisi kana chero yeisina-Cloudflare DNS masevhisi.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Bvisa Cloudflare neDNS. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Bvisa Cloudflare neDNS. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Unogona kushandisa Tor seDNS resolution. [Kana usiri nyanzvi yeTor, bvunza mubvunzo pano.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ Naizvozvo tinokurudzira pamusoro petafura chete. Hapana chimwe.
 
 - Zvinofungidzirwa kuti iyo GNU GPL vhezheni yechina inogona kusanganisira chirongwa chinopesana nekuchengetedza kodhi yekodhi kuseri kweshumiro yakadai, inoda kune ese GPLv4 uye epamberi mapurogiramu ayo angangoita kodhi yekodhi anowanikwa kuburikidza nepakati iyo isingasarure vashandisi veTor.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
