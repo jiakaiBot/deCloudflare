@@ -117,9 +117,9 @@ AFAIK, ნულოვანი ვებსაიტი ამას აკე�
 
 | სახელი | შემქმნელი | მხარდაჭერა | შეუძლია დაბლოკოს | შეუძლია შეატყობინოს | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **დიახ**     | **დიახ**     |  **დიახ** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | არა     | **დიახ**     |  **დიახ** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | არა     | **დიახ**     |  **დიახ** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **დიახ**     | **დიახ**     |  **დიახ** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | არა     | **დიახ**     |  **დიახ** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | არა     | **დიახ**     |  **დიახ** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **დიახ**     | **დიახ**     |  არა |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **დიახ**     | **დიახ**     |  არა |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | არა     | **დიახ**     |  არა |
@@ -389,7 +389,7 @@ die();
 
 - [თუ გსურთ გამოიყენოთ არა ISP DNS, გაითვალისწინეთ OpenNIC Tier2 DNS სერვისის ან Cloudflare ნებისმიერი DNS სერვისის გამოყენება.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Cloudflare- ის დაბლოკვა DNS- ით. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Cloudflare- ის დაბლოკვა DNS- ით. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - შეგიძლიათ გამოიყენოთ Tor როგორც DNS გადაჭრის. [თუ Tor- ის ექსპერტი არ ხართ, დასვით კითხვა აქ.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - საფიქრებელია, რომ GNU GPL 4 ვერსია შეიძლება შეიცავდეს დებულებას, რომ ასეთი კოდი არ შეინახოს კოდის კოდი, რომელიც მოითხოვს ყველა GPLv4 და მოგვიანებით პროგრამებს, რომ მინიმუმ საწყისი კოდი იყოს ხელმისაწვდომი საშუალებით, რომელიც არ განასხვავებს Tor მომხმარებლებს.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
