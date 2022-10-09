@@ -117,9 +117,9 @@ http://crimeflare.eu.org
 
 | Име | Програмер | Подршка | Цан Блоцк | Може да обавести | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **да**     | **да**     |  **да** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **да**     |  **да** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **да**     |  **да** |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/addon/bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **да**     | **да**     |  **да** |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/addon/ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **да**     |  **да** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/addon/isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | Не     | **да**     |  **да** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **да**     | **да**     |  Не |
 | [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **да**     | **да**     |  Не |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Не     | **да**     |  Не |
@@ -389,7 +389,7 @@ die();
 
 - [Ако желите да користите ДНС који није ИСП, размислите о коришћењу ОпенНИЦ Тиер2 ДНС услуге или било које од ДНС услуга које нису у Цлоудфларе-у.](https://wiki.opennic.org/start)
 ![](../image/opennic.jpg)
-  - Блокирајте Цлоудфларе помоћу ДНС-а. [Crimeflare DNS](../subfiles/service.publicdns.md)
+  - Блокирајте Цлоудфларе помоћу ДНС-а. [Crimeflare DNS](../subfiles/service/publicdns.md)
 
 - Тор можете користити као ДНС решавач. [Ако нисте стручњак за Тор, поставите питање овде.](https://tor.stackexchange.com/)
 
@@ -443,7 +443,7 @@ die();
 
 - Може се замислити да би ГНУ ГПЛ верзија 4 могла да садржи одредбу против чувања изворног кода иза такве услуге, захтевајући за све ГПЛв4 и касније програме да је барем изворном коду доступан путем медија који не дискриминише Тор кориснике.
 
-- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service.altlink.md).
+- [Se vi uzas Mastodon bonvolu sekvi la konton Mitigator](../subfiles/service/altlink.md).
 
 </details>
 
