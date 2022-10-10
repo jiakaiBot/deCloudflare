@@ -8009,6 +8009,7 @@ Do not create new issue or we will close it as duplicate.
 | [SaifSheikh8@twitter](https://twitter.com/SaifSheikh8/status/1391721631047852032) | advertise |
 | [SaifUrR13833709@twitter](https://twitter.com/SaifUrR13833709/status/1512025901847887876) | advertise |
 | [Saifwayy@twitter](https://twitter.com/Saifwayy/status/1382873575758172160) | advertise |
+| [SaiGodfather@twitter](https://twitter.com/SaiGodfather/status/1579514945007296512) | advertise |
 | [saigonesesuper@twitter](https://twitter.com/saigonesesuper/status/1472907694377816071) | advertise |
 | [saihanhtoo3@twitter](https://twitter.com/saihanhtoo3/status/1384160331337895950) | advertise |
 | [SaihoonK@twitter](https://twitter.com/SaihoonK/status/1492600797846290432) | advertise |
