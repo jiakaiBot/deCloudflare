@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,161 |
 | net | 1,740 |
 | org | 1,218 |
-| social | 1,190 |
+| social | 1,191 |
 | de | 1,035 |
 
 
@@ -13636,6 +13636,7 @@ Here's a list of public Fediverse services.
 | noise.social | No |
 | noisebridge.social | No |
 | noisemaker.tokyo | No |
+| noisemakerbot.social | No |
 | noisome.space | No |
 | noisydeadlines.net | No |
 | noisyspot.jp | No |
@@ -21993,7 +21994,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,421 |
-| Normal | 17,528 |
+| Normal | 17,529 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
