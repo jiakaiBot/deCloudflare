@@ -2694,6 +2694,7 @@ Here's a list of public Fediverse services.
 | calico.social | No |
 | calidris.lv | No |
 | calmarius.net | No |
+| calobar.club | No |
 | calut.fr | No |
 | calzone.club | No |
 | cambridgeport90.net | Yes |
@@ -22004,7 +22005,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,425 |
-| Normal | 17,535 |
+| Normal | 17,536 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.1% of public Fediverse services are using Cloudflare.
