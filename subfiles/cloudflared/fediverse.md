@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,162 |
-| net | 1,741 |
+| net | 1,742 |
 | org | 1,218 |
 | social | 1,192 |
 | de | 1,036 |
@@ -3318,6 +3318,7 @@ Here's a list of public Fediverse services.
 | cnuc.nu | No |
 | cnvrs.net | No |
 | co-mastdn.ga | No |
+| co-shaoghal.net | No |
 | co.ukfriend | No |
 | co23.net | No |
 | co33k.org | No |
@@ -22002,7 +22003,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,425 |
-| Normal | 17,533 |
+| Normal | 17,534 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
