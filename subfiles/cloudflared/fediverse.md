@@ -1007,7 +1007,7 @@ Here's a list of public Fediverse services.
 | animal.church | No |
 | animalliberation.social | Yes |
 | animaux.social | No |
-| animax.moe | No |
+| animax.moe | Yes |
 | anime.country | No |
 | anime.website | No |
 | animeabyss.xyz | Yes |
@@ -8841,6 +8841,7 @@ Here's a list of public Fediverse services.
 | jackmeyers.co | No |
 | jackpoint.space | No |
 | jacksonchen666.com | No |
+| jackspangler.xyz | No |
 | jacksplace.dk | No |
 | jacky.wtf | No |
 | jacl.tech | Yes |
@@ -22014,7 +22015,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,429 |
+| Cloudflare | 4,430 |
 | Normal | 17,542 |
 
 
