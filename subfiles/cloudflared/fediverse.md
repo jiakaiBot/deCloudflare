@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,161 |
-| net | 1,740 |
+| com | 3,162 |
+| net | 1,741 |
 | org | 1,218 |
-| social | 1,191 |
-| de | 1,035 |
+| social | 1,192 |
+| de | 1,036 |
 
 
 - Mastodon, Pleroma, etc
@@ -3921,6 +3921,7 @@ Here's a list of public Fediverse services.
 | cybertect.net | Yes |
 | cybertron.ninja | No |
 | cybervalley.org | No |
+| cybervcr.com | Yes |
 | cyberverse.bar | No |
 | cyberwald.com | No |
 | cyberwiz.xyz | No |
@@ -5483,7 +5484,7 @@ Here's a list of public Fediverse services.
 | etbus.ch | No |
 | etc-services.de | No |
 | eternawings.com | Yes |
-| eth0.sh | No |
+| eth0.sh | Yes |
 | ethantheenigma.me | No |
 | ethereal.pw | No |
 | etherealmind.com | Yes |
@@ -7049,6 +7050,7 @@ Here's a list of public Fediverse services.
 | glacier.dog | No |
 | glacierfoods.social | No |
 | glados.ch | No |
+| gladtech.social | No |
 | glam.monster | No |
 | glamdon.com | No |
 | glammr.us | No |
@@ -8438,6 +8440,7 @@ Here's a list of public Fediverse services.
 | in-berlin.de | No |
 | in-de-hand.info | No |
 | in-visible.eu | No |
+| in0rdr.ch | No |
 | inadon.jp | No |
 | inanantoka.com | No |
 | inanna.xyz | Yes |
@@ -10008,7 +10011,6 @@ Here's a list of public Fediverse services.
 | kwaa.moe | Yes |
 | kwat.chat | No |
 | kwatra.me | Yes |
-| kwhalen.com | No |
 | kwitter.club | No |
 | kwk.systems | No |
 | kwlug.org | No |
@@ -13601,6 +13603,7 @@ Here's a list of public Fediverse services.
 | node.pk | Yes |
 | node001.net | No |
 | node9.org | No |
+| nodemixaholic.com | Yes |
 | nodevops.com | No |
 | nodja.com | Yes |
 | nodocomun.org | No |
@@ -15779,6 +15782,7 @@ Here's a list of public Fediverse services.
 | qube.ovh | No |
 | quebec.gq | No |
 | queenlainsrevenge.xyz | No |
+| queensnkings.de | No |
 | queer.af | No |
 | queer.chat | No |
 | queer.cloud | No |
@@ -18981,6 +18985,7 @@ Here's a list of public Fediverse services.
 | theabsolute.plus | Yes |
 | theapex.social | No |
 | theaquario.com | No |
+| thearcanum.net | No |
 | theaugusts.net | No |
 | theaus.xyz | Yes |
 | theautisticinvestors.quest | No |
@@ -20091,6 +20096,7 @@ Here's a list of public Fediverse services.
 | unanargeek.xyz | No |
 | unasuke.com | Yes |
 | unattributed.cc | No |
+| unbia.st | Yes |
 | unbl.ink | No |
 | unbound.social | No |
 | uncanceledil.com | No |
@@ -21835,6 +21841,7 @@ Here's a list of public Fediverse services.
 | zenet.work | No |
 | zenfolie.org | No |
 | zenger.nl | No |
+| zentea.gay | No |
 | zentrumderarbeit.net | No |
 | zenwillow.website | No |
 | zeonet.xyz | No |
@@ -21993,8 +22000,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,421 |
-| Normal | 17,529 |
+| Cloudflare | 4,425 |
+| Normal | 17,532 |
 
 
-### 20.1% of public Fediverse services are using Cloudflare.
+### 20.2% of public Fediverse services are using Cloudflare.
