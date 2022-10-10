@@ -99,6 +99,7 @@ Do not create new issue or we will close it as duplicate.
 | [19Naywinaung1@twitter](https://twitter.com/19Naywinaung1/status/1404472645710540803) | advertise |
 | [27Muaon@twitter](https://twitter.com/27Muaon/status/1391459657881772032) | advertise |
 | [30deapanupong@twitter](https://twitter.com/30deapanupong/status/1395835660913631232) | advertise |
+| [31Thanhson@twitter](https://twitter.com/31Thanhson/status/1579494987733274624) | advertise |
 | [34cThnh2@twitter](https://twitter.com/34cThnh2/status/1518200426969006080) | advertise |
 | [38ffbd92e49a498@twitter](https://twitter.com/38ffbd92e49a498/status/1395244361592545282) | advertise |
 | [42Joker1986@twitter](https://twitter.com/42Joker1986/status/1401200785082523650) | advertise |
