@@ -14469,7 +14469,7 @@ Here's a list of public Fediverse services.
 | owlsne.st | No |
 | own-mail.org | No |
 | ownbox.be | No |
-| owncast.online | No |
+| owncast.online | Yes |
 | owncast.tv | No |
 | ownify.in | No |
 | ownlibtards.online | Yes |
@@ -17511,6 +17511,7 @@ Here's a list of public Fediverse services.
 | skewed.de | No |
 | skiant.net | No |
 | skiddle.id | Yes |
+| skiddle.network | Yes |
 | skilledtests.com | No |
 | skilltoy.site | No |
 | skinheads.co | No |
@@ -21990,8 +21991,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,419 |
-| Normal | 17,528 |
+| Cloudflare | 4,421 |
+| Normal | 17,527 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
