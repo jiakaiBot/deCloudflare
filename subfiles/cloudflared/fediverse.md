@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,162 |
-| net | 1,742 |
+| com | 3,163 |
+| net | 1,743 |
 | org | 1,218 |
-| social | 1,192 |
-| de | 1,037 |
+| social | 1,194 |
+| de | 1,038 |
 
 
 - Mastodon, Pleroma, etc
@@ -1142,6 +1142,7 @@ Here's a list of public Fediverse services.
 | apexnode.dev | No |
 | apfed.club | Yes |
 | aphasiagoverned.com | No |
+| api-ariang.ml | No |
 | apiote.tk | No |
 | apiote.xyz | No |
 | apirie.uk | No |
@@ -5497,6 +5498,7 @@ Here's a list of public Fediverse services.
 | etimon.app | No |
 | etovai.eu | No |
 | etr.ist | No |
+| etsocialspace.com | No |
 | etwas42.de | No |
 | etxetik.org | Yes |
 | eugen.town | No |
@@ -6183,6 +6185,7 @@ Here's a list of public Fediverse services.
 | fmind.me | No |
 | fmty.cloud | Yes |
 | fnky.nz | Yes |
+| fnkysloth.net | Yes |
 | fnordica.de | No |
 | fnordon.de | No |
 | fnx.li | No |
@@ -6411,6 +6414,7 @@ Here's a list of public Fediverse services.
 | freifunk-muensterland.de | No |
 | freifunk.net | No |
 | freifunk.rocks | No |
+| freifunk.social | Yes |
 | freinetz.ch | No |
 | freiraumzittau.de | No |
 | frell.co | No |
@@ -12952,6 +12956,7 @@ Here's a list of public Fediverse services.
 | mysound.directory | No |
 | mysrvr.org | No |
 | myss.li | No |
+| mysteryhouse.studio | No |
 | mystia.club | No |
 | mystic.lgbt | Yes |
 | mysticcabin.xyz | No |
@@ -13893,6 +13898,7 @@ Here's a list of public Fediverse services.
 | nvk.pm | No |
 | nvrlnd.xyz | No |
 | nwah.social | No |
+| nwb.social | No |
 | nwf.earth | No |
 | nwl.ms | No |
 | nwo.nu | No |
@@ -15793,6 +15799,7 @@ Here's a list of public Fediverse services.
 | queer.cloud | No |
 | queer.farm | No |
 | queer.garden | No |
+| queer.group | No |
 | queer.haus | No |
 | queer.party | No |
 | queer.town | No |
@@ -16125,6 +16132,7 @@ Here's a list of public Fediverse services.
 | realkane.dev | No |
 | reallygay.party | No |
 | realm.best | No |
+| realmat.de | Yes |
 | realmofespionage.xyz | No |
 | realnephestate.xyz | No |
 | realscience.social | No |
@@ -19866,6 +19874,7 @@ Here's a list of public Fediverse services.
 | tumelum.de | No |
 | tumocs.eu | No |
 | tuna.today | No |
+| tunahan.me | Yes |
 | tuning.social | No |
 | tunkki.xyz | No |
 | tunnelcat.net | No |
@@ -20209,7 +20218,7 @@ Here's a list of public Fediverse services.
 | unrelenting.technology | No |
 | unroot.de | No |
 | unsafe.co | No |
-| unsafe.space | Yes |
+| unsafe.space | No |
 | unseensounds.com | No |
 | unshaped.space | No |
 | unstable.icu | Yes |
@@ -22005,8 +22014,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,426 |
-| Normal | 17,536 |
+| Cloudflare | 4,429 |
+| Normal | 17,542 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
