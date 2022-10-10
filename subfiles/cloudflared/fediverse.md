@@ -2717,6 +2717,7 @@ Here's a list of public Fediverse services.
 | canard.tube | No |
 | canberrasocial.net | No |
 | cancoillotte.space | No |
+| cancri.me | No |
 | candim.eu | Yes |
 | candypolis.app | No |
 | canecreekstudio.org | No |
@@ -22001,7 +22002,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,425 |
-| Normal | 17,532 |
+| Normal | 17,533 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
