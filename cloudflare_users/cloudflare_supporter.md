@@ -1515,6 +1515,7 @@ Do not create new issue or we will close it as duplicate.
 | [busekuru50@twitter](https://twitter.com/busekuru50/status/1493016091995561988) | advertise |
 | [bushwik@twitter](https://twitter.com/bushwik/status/1541552065721270272) | advertise |
 | [ButaiKirin@twitter](https://twitter.com/ButaiKirin/status/1550893239284420609) | advertise |
+| [ButtenChad@twitter](https://twitter.com/ButtenChad/status/1579567305033674752) | advertise |
 | [ButtersWorldInc@twitter](https://twitter.com/ButtersWorldInc/status/1490553710006587393) | advertise |
 | [BVnNh4@twitter](https://twitter.com/BVnNh4/status/1382221207257354242) | advertise |
 | [BVoO123@twitter](https://twitter.com/BVoO123/status/1553310624414720002) | advertise |
@@ -3392,6 +3393,7 @@ Do not create new issue or we will close it as duplicate.
 | [hosscold@twitter](https://twitter.com/hosscold/status/1576568924576960512) | advertise |
 | [hossein7118ab@twitter](https://twitter.com/hossein7118ab/status/1578508824386076674) | advertise |
 | [HOSSEIN27903189@twitter](https://twitter.com/HOSSEIN27903189/status/1384450683731169280) | advertise |
+| [hossein61292200@twitter](https://twitter.com/hossein61292200/status/1579539812528578561) | advertise |
 | [Hossein79119589@twitter](https://twitter.com/Hossein79119589/status/1573030896655273985) | advertise |
 | [hossen_mun@twitter](https://twitter.com/hossen_mun/status/1521689325104398336) | advertise |
 | [HossyMedia@twitter](https://twitter.com/HossyMedia/status/1537548872125399050) | advertise |
@@ -3744,6 +3746,7 @@ Do not create new issue or we will close it as duplicate.
 | [ImranKh71814473@twitter](https://twitter.com/ImranKh71814473/status/1387290263626731523) | advertise |
 | [ImranOveek@twitter](https://twitter.com/ImranOveek/status/1392932554303369216) | advertise |
 | [ImranPollob@twitter](https://twitter.com/ImranPollob/status/1545452246770585603) | advertise |
+| [imransaleem@twitter](https://twitter.com/imransaleem/status/1579580229982760963) | advertise |
 | [IMRANSM3@twitter](https://twitter.com/IMRANSM3/status/1376860023729446913) | advertise |
 | [imranvazirr@twitter](https://twitter.com/imranvazirr/status/1545281808409174016) | advertise |
 | [imsurit@twitter](https://twitter.com/imsurit/status/1468784896537608193) | advertise |
@@ -4586,8 +4589,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8761,6 +8764,7 @@ Do not create new issue or we will close it as duplicate.
 | [SweGyi10224401@twitter](https://twitter.com/SweGyi10224401/status/1407464017719828485) | advertise |
 | [SweYiPhyo1@twitter](https://twitter.com/SweYiPhyo1/status/1397547716910018560) | advertise |
 | [swe_sone@twitter](https://twitter.com/swe_sone/status/1392755306854293506) | advertise |
+| [sx_313@twitter](https://twitter.com/sx_313/status/1579576121779433472) | advertise |
 | [Syahputra902@twitter](https://twitter.com/Syahputra902/status/1405110962055643136) | advertise |
 | [syahril_akbar32@twitter](https://twitter.com/syahril_akbar32/status/1468464046445785089) | advertise |
 | [syaifullahmaad@twitter](https://twitter.com/syaifullahmaad/status/1385385161131397121) | advertise |
