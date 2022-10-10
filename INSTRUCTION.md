@@ -176,9 +176,9 @@ If your website is on this list, you better talk with your network administrator
 
 Are you sure? There are two ways to remove yourself.
 First option is just _*remove* it from the list_ and _create a pull request_.
-Second option is _wait 6 months_. Our system will revisit your website as a Tor user.
+Second option is _wait 4 months_. Our system will revisit your website as a Tor user.
 
-If you're not blocking Tor users, you will be removed automatically.
+If you're not blocking Tor users you will be removed automatically.
 
 - If your website is using Cloudflare
   - There's a higher chance that we receive rejection webpage from Cloudflare. Do not use cloudflare.
