@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,742 |
 | org | 1,218 |
 | social | 1,192 |
-| de | 1,036 |
+| de | 1,037 |
 
 
 - Mastodon, Pleroma, etc
@@ -11304,6 +11304,7 @@ Here's a list of public Fediverse services.
 | mariovavti.com | No |
 | mariu5.de | Yes |
 | mariusdavid.fr | No |
+| mariustimmer.de | No |
 | marivron.com | No |
 | markdon.ml | No |
 | markegli.com | No |
@@ -22003,7 +22004,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,425 |
-| Normal | 17,534 |
+| Normal | 17,535 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
