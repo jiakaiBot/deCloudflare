@@ -1290,6 +1290,7 @@ Do not create new issue or we will close it as duplicate.
 | [bincz5@twitter](https://twitter.com/bincz5/status/1552788512545861634) | advertise |
 | [bingando15121@twitter](https://twitter.com/bingando15121/status/1553441382718529536) | advertise |
 | [binhan260718@twitter](https://twitter.com/binhan260718/status/1505346387902595077) | advertise |
+| [Bintang170604@twitter](https://twitter.com/Bintang170604/status/1579424253132566528) | advertise |
 | [Bintangbrr@twitter](https://twitter.com/Bintangbrr/status/1469541067343077380) | advertise |
 | [Bintran79870499@twitter](https://twitter.com/Bintran79870499/status/1394896382146670593) | advertise |
 | [binzabo@twitter](https://twitter.com/binzabo/status/1553267461511729152) | advertise |
@@ -5940,6 +5941,7 @@ Do not create new issue or we will close it as duplicate.
 | [moatasemzreg@twitter](https://twitter.com/moatasemzreg/status/1380864049727037443) | advertise |
 | [moaz26943193@twitter](https://twitter.com/moaz26943193/status/1386781541536210946) | advertise |
 | [MobBean@twitter](https://twitter.com/MobBean/status/1553300701463207937) | advertise |
+| [mobinaa92462540@twitter](https://twitter.com/mobinaa92462540/status/1579404365051613185) | advertise |
 | [mochi33i@twitter](https://twitter.com/mochi33i/status/1566351957778124800) | advertise |
 | [mochiimiin2@twitter](https://twitter.com/mochiimiin2/status/1536445206970650625) | advertise |
 | [ModassirShaikha@twitter](https://twitter.com/ModassirShaikha/status/1397247501288226816) | advertise |
@@ -6911,6 +6913,7 @@ Do not create new issue or we will close it as duplicate.
 | [NYUNTNAING18@twitter](https://twitter.com/NYUNTNAING18/status/1474943990143197185) | advertise |
 | [NyuntNyunt11@twitter](https://twitter.com/NyuntNyunt11/status/1396273606288711682) | advertise |
 | [NyuntSh23523748@twitter](https://twitter.com/NyuntSh23523748/status/1488521850930208771) | advertise |
+| [nyunt_gzb@twitter](https://twitter.com/nyunt_gzb/status/1579407778057052161) | advertise |
 | [nZinoProperties@twitter](https://twitter.com/nZinoProperties/status/1429140861959430156) | advertise |
 | [n_a_b_e_t_a_s_o@twitter](https://twitter.com/n_a_b_e_t_a_s_o/status/1454036622844911619) | advertise |
 | [n_wuit@twitter](https://twitter.com/n_wuit/status/1376737743619813382) | advertise |
