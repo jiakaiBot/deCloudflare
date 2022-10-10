@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-10: [Increased HTTP 502 Errors in Munich, Germany region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0b5r1svpthcx)
 - 2022-10-13: [BOS (Boston) on 2022-10-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1qz82pf8t5d4)
 - 2022-10-11: [AKL (Auckland) on 2022-10-11](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/t6zqx7lr87jq)
 - 2022-10-13: [KIX (Osaka) on 2022-10-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1q3jybx3crw8)
