@@ -10818,6 +10818,7 @@ Here's a list of public Fediverse services.
 | loser.wtf | No |
 | lost-angles.im | No |
 | lost-frequencies.eu | Yes |
+| lost-in-outer.space | No |
 | lostallofmy.faith | No |
 | lostblog.me | No |
 | lostcause.house | Yes |
@@ -21992,7 +21993,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,421 |
-| Normal | 17,527 |
+| Normal | 17,528 |
 
 
 ### 20.1% of public Fediverse services are using Cloudflare.
