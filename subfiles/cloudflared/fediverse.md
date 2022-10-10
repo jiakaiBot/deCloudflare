@@ -11419,6 +11419,7 @@ Here's a list of public Fediverse services.
 | masto.social | Yes |
 | masto.space | No |
 | masto.tech | Yes |
+| masto.technology | No |
 | mastoburn.com | No |
 | mastoc.fr | Yes |
 | mastoc.net | No |
@@ -21431,7 +21432,7 @@ Here's a list of public Fediverse services.
 | xn--qpr179gg5o.work | No |
 | xn--qubec-csa.tk | No |
 | xn--r9j630glz6a.xn--q9jyb4c | No |
-| xn--rtta-qoa.nu | No |
+| xn--rtta-qoa.nu | Yes |
 | xn--rvca9caab9a8aafa7qa6ethsbi9ewa1jbdf91i.com | No |
 | xn--sjpmeg-juab.space | No |
 | xn--stefan-hhn-lcb.de | No |
@@ -22004,8 +22005,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,425 |
+| Cloudflare | 4,426 |
 | Normal | 17,536 |
 
 
-### 20.1% of public Fediverse services are using Cloudflare.
+### 20.2% of public Fediverse services are using Cloudflare.
