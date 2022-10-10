@@ -1072,6 +1072,7 @@ Do not create new issue or we will close it as duplicate.
 | [AyushSi94562815@twitter](https://twitter.com/AyushSi94562815/status/1392187465272754177) | advertise |
 | [AyushTy20433624@twitter](https://twitter.com/AyushTy20433624/status/1387040138648162309) | advertise |
 | [ayymxxn@twitter](https://twitter.com/ayymxxn/status/1400086594636288000) | advertise |
+| [AzarbayjanEhsan@twitter](https://twitter.com/AzarbayjanEhsan/status/1579489933324345344) | advertise |
 | [azazino3@twitter](https://twitter.com/azazino3/status/1498426626023075841) | advertise |
 | [azdineaynine@twitter](https://twitter.com/azdineaynine/status/1519320647482101760) | advertise |
 | [azhqe_@twitter](https://twitter.com/azhqe_/status/1509855164542296064) | advertise |
@@ -1194,6 +1195,7 @@ Do not create new issue or we will close it as duplicate.
 | [BeastHunter696@twitter](https://twitter.com/BeastHunter696/status/1405569905613701122) | advertise |
 | [bebak_subba@twitter](https://twitter.com/bebak_subba/status/1392571390956478464) | advertise |
 | [becks2999@twitter](https://twitter.com/becks2999/status/1391064532403982336) | advertise |
+| [bedesqui@twitter](https://twitter.com/bedesqui/status/1579487581380968449) | advertise |
 | [Bee21031038@twitter](https://twitter.com/Bee21031038/status/1389280461164212226) | advertise |
 | [BeeHiveCyberSec@twitter](https://twitter.com/BeeHiveCyberSec/status/1513414452783185923) | advertise |
 | [been21085126@twitter](https://twitter.com/been21085126/status/1390943343933222912) | advertise |
@@ -1822,8 +1824,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3339,6 +3341,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hoanvu537@twitter](https://twitter.com/Hoanvu537/status/1497800047303733250) | advertise |
 | [hoattruong88@twitter](https://twitter.com/hoattruong88/status/1489996386410000389) | advertise |
 | [HocineKing11@twitter](https://twitter.com/HocineKing11/status/1381610773919760385) | advertise |
+| [Hoda23050761@twitter](https://twitter.com/Hoda23050761/status/1579472137471295493) | advertise |
 | [hodlandshill@twitter](https://twitter.com/hodlandshill/status/1505736094335315974) | advertise |
 | [Hoesmakemecry69@twitter](https://twitter.com/Hoesmakemecry69/status/1400413921446563844) | advertise |
 | [Hoho17830737@twitter](https://twitter.com/Hoho17830737/status/1541035826741579776) | advertise |
@@ -7777,6 +7780,7 @@ Do not create new issue or we will close it as duplicate.
 | [RekhaDe60415707@twitter](https://twitter.com/RekhaDe60415707/status/1501404745009106945) | advertise |
 | [relaxedswimmer@twitter](https://twitter.com/relaxedswimmer/status/1534181874217537536) | advertise |
 | [relorpubg@twitter](https://twitter.com/relorpubg/status/1402449370822348800) | advertise |
+| [RemyMar@twitter](https://twitter.com/RemyMar/status/1579465783415279617) | advertise |
 | [Renee4287@twitter](https://twitter.com/Renee4287/status/1405528162469965828) | advertise |
 | [renify_official@twitter](https://twitter.com/renify_official/status/1464961938492821506) | advertise |
 | [RentWithPets@twitter](https://twitter.com/RentWithPets/status/1379263041309564929) | advertise |
