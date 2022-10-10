@@ -2213,6 +2213,7 @@ Do not create new issue or we will close it as duplicate.
 | [doimatphonui@twitter](https://twitter.com/doimatphonui/status/1387455212168749061) | advertise |
 | [Dojnaz@twitter](https://twitter.com/Dojnaz/status/1431346378647773187) | advertise |
 | [dokali_skander@twitter](https://twitter.com/dokali_skander/status/1550205833904099329) | advertise |
+| [dokiestia_8824@twitter](https://twitter.com/dokiestia_8824/status/1579381040002785280) | advertise |
 | [Dolfa19@twitter](https://twitter.com/Dolfa19/status/1490365663797522436) | advertise |
 | [Doli18316877@twitter](https://twitter.com/Doli18316877/status/1394684058098049024) | advertise |
 | [dominic37487702@twitter](https://twitter.com/dominic37487702/status/1479207257279660034) | advertise |
@@ -6374,6 +6375,7 @@ Do not create new issue or we will close it as duplicate.
 | [nao_qua@twitter](https://twitter.com/nao_qua/status/1533404289648844802) | advertise |
 | [nappyboy1109@twitter](https://twitter.com/nappyboy1109/status/1559171847643893761) | advertise |
 | [NaqibTasdiq@twitter](https://twitter.com/NaqibTasdiq/status/1561014306275475459) | advertise |
+| [Naqmeqarib@twitter](https://twitter.com/Naqmeqarib/status/1579390107022680064) | advertise |
 | [narajantima@twitter](https://twitter.com/narajantima/status/1553226573574090753) | advertise |
 | [Narendr93556275@twitter](https://twitter.com/Narendr93556275/status/1384445226274594824) | advertise |
 | [naringuyen0808@twitter](https://twitter.com/naringuyen0808/status/1545254657102336002) | advertise |
@@ -7632,6 +7634,7 @@ Do not create new issue or we will close it as duplicate.
 | [R3Zipo@twitter](https://twitter.com/R3Zipo/status/1542271365642059776) | advertise |
 | [r6gear@twitter](https://twitter.com/r6gear/status/1551510182068461569) | advertise |
 | [Ra36279199@twitter](https://twitter.com/Ra36279199/status/1395644864587501569) | advertise |
+| [rabieemostafa3@twitter](https://twitter.com/rabieemostafa3/status/1579358487712129024) | advertise |
 | [rabsngrob@twitter](https://twitter.com/rabsngrob/status/1572252767967936518) | advertise |
 | [RaceLifeNet@twitter](https://twitter.com/RaceLifeNet/status/1518636611977809921) | advertise |
 | [Rachan51471422@twitter](https://twitter.com/Rachan51471422/status/1555757912835776513) | advertise |
