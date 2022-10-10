@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-11: [DFW (Dallas) on 2022-10-11](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mtx3cpyr0t3b)
 - 2022-10-13: [GIG (Rio de Janeiro) on 2022-10-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zn8w28pcznrc)
 - 2022-10-09: [Network Performance Issues in Seattle](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2vtt00g8v07m)
 - 2022-10-09: [Increased HTTP 5xx Errors in Seattle](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bk37vhpw0cgz)
