@@ -3091,6 +3091,7 @@ Do not create new issue or we will close it as duplicate.
 | [hashndashery@twitter](https://twitter.com/hashndashery/status/1566345780247629824) | advertise |
 | [HasimiJohan@twitter](https://twitter.com/HasimiJohan/status/1390402399404105728) | advertise |
 | [Hasin62169831@twitter](https://twitter.com/Hasin62169831/status/1380236587443888129) | advertise |
+| [HaslerKuassi@twitter](https://twitter.com/HaslerKuassi/status/1579938057213870080) | advertise |
 | [Hasrath18@twitter](https://twitter.com/Hasrath18/status/1398681095860748288) | advertise |
 | [hassan91290216@twitter](https://twitter.com/hassan91290216/status/1527183505817579520) | advertise |
 | [HassanR56423746@twitter](https://twitter.com/HassanR56423746/status/1394591822849003521) | advertise |
