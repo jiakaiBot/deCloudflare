@@ -6593,7 +6593,7 @@ Here's a list of public Fediverse services.
 | funkturm7.de | No |
 | funkwhale-host.de | No |
 | funkwhale.audio | No |
-| funkwhale.co.uk | No |
+| funkwhale.co.uk | Yes |
 | funkwhale.it | Yes |
 | funkwhale.net | No |
 | funkymonkey.org | No |
@@ -14996,6 +14996,7 @@ Here's a list of public Fediverse services.
 | pifke.social | No |
 | pigelet.org | No |
 | pigeon.town | No |
+| pigeons.cloud | No |
 | piggo.space | Yes |
 | piggy.lol | No |
 | pigs.social | No |
@@ -19474,7 +19475,7 @@ Here's a list of public Fediverse services.
 | tomskee.dev | No |
 | tomwsmf.com | No |
 | tonholzpixel.de | No |
-| toni.im | No |
+| toni.im | Yes |
 | toniotti.be | No |
 | toniozz75.fr | No |
 | tonos.io | No |
@@ -22023,8 +22024,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,435 |
-| Normal | 17,545 |
+| Cloudflare | 4,437 |
+| Normal | 17,544 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
