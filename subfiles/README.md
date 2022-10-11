@@ -24,15 +24,21 @@
   - [Cloudflare DNS Alternatives](alternative/domaindns.md)
 - Cloudflared
   - How many % of top most visited sites?
-    - [How many % of top 1,000 most visited sites(2010) are using Cloudflare?](cloudflared/top/2010-google.md) _Google_
-    - [How many % of top 10,000 most popular domains(2014) are using Cloudflare?](cloudflared/top/2014-opendns.md) _OpenDNS_
-    - [How many % of top 1,000 most visited sites(2019) are using Cloudflare?](cloudflared/top/2019-alexa.md) _Alexa_
-    - [How many % of top 100,000 WordPress sites(2020) are using Cloudflare?](cloudflared/top/2020-wordpress.md) _Wordpress_
-    - [How many % of top 500 most popular sites(2021) are using Cloudflare?](cloudflared/top/2021-moz.md) _Moz_
-    - [How many % of top 1 million most visited sites(2021) are using Cloudflare?](cloudflared/top/2021-alexa.md) _Alexa_
-    - [How many % of top 1 million most visited sites(2021) are using Cloudflare?](cloudflared/top/2021-cisco.md) _Cisco_
-    - [How many % of top 1 million most visited sites(2022) are using Cloudflare?](cloudflared/top/2022-tranco.md) _Tranco_
-    - [How many % of top 1 million most visited sites(2022) are using Cloudflare?](cloudflared/top/2022-majestic.md) _Majestic_
+    - `2010`
+      - [How many % of top 1,000 most visited sites are using Cloudflare?](cloudflared/top/2010-google.md) _Google_
+    - `2014`
+      - [How many % of top 10,000 most popular domains are using Cloudflare?](cloudflared/top/2014-opendns.md) _OpenDNS_
+    - `2019`
+      - [How many % of top 1,000 most visited sites are using Cloudflare?](cloudflared/top/2019-alexa.md) _Alexa_
+    - `2020`
+      - [How many % of top 100,000 WordPress sites are using Cloudflare?](cloudflared/top/2020-wordpress.md) _Wordpress_
+    - `2021`
+      - [How many % of top 500 most popular sites are using Cloudflare?](cloudflared/top/2021-moz.md) _Moz_
+      - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2021-alexa.md) _Alexa_
+      - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2021-cisco.md) _Cisco_
+    - `2022`
+      - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2022-tranco.md) _Tranco_
+      - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2022-majestic.md) _Majestic_
   - How many % of banks & financial institutions are using Cloudflare?
     - [Africa](cloudflared/financial_africa.md)
     - [America](cloudflared/financial_america.md)
