@@ -8066,6 +8066,7 @@ Do not create new issue or we will close it as duplicate.
 | [SajibMamun8@twitter](https://twitter.com/SajibMamun8/status/1487575937243832332) | advertise |
 | [SajjadJabJ@twitter](https://twitter.com/SajjadJabJ/status/1518537507905884160) | advertise |
 | [sajjadjavidi@twitter](https://twitter.com/sajjadjavidi/status/1578363392082919425) | advertise |
+| [sajjad_Samiee_2@twitter](https://twitter.com/sajjad_Samiee_2/status/1579974090148171776) | advertise |
 | [sakariye_mahad@twitter](https://twitter.com/sakariye_mahad/status/1565810286787002370) | advertise |
 | [sakoinfograhic@twitter](https://twitter.com/sakoinfograhic/status/1483137800547491840) | advertise |
 | [SakshiC60115393@twitter](https://twitter.com/SakshiC60115393/status/1378061425206194176) | advertise |
