@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-13: [MUC (Munich) on 2022-10-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g72wtsx6z4j8)
 - 2022-10-17: [RIC (Richmond) on 2022-10-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4c77td7317c5)
 - 2022-10-20: [SFO (San Francisco) on 2022-10-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/n22594xwcsnn)
 - 2022-10-20: [AMS (Amsterdam) on 2022-10-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8dvb02chy07v)
