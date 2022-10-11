@@ -11428,6 +11428,7 @@ Here's a list of public Fediverse services.
 | masto.space | No |
 | masto.tech | Yes |
 | masto.technology | No |
+| masto.uk | No |
 | mastoburn.com | No |
 | mastoc.fr | Yes |
 | mastoc.net | No |
@@ -22025,7 +22026,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,437 |
-| Normal | 17,544 |
+| Normal | 17,545 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
