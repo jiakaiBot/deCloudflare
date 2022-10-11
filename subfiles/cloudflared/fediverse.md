@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,163 |
 | net | 1,744 |
 | org | 1,218 |
-| social | 1,194 |
+| social | 1,195 |
 | de | 1,039 |
 
 
@@ -1727,6 +1727,7 @@ Here's a list of public Fediverse services.
 | bari-ikutsu.com | No |
 | barippi.com | No |
 | bark.house | No |
+| barkle.xyz | Yes |
 | barkoczy.social | No |
 | barkshark.tk | No |
 | barkshark.xyz | No |
@@ -11967,6 +11968,7 @@ Here's a list of public Fediverse services.
 | mesomer.com | Yes |
 | mess.casa | Yes |
 | messurrection.com | No |
+| messydesk.social | No |
 | met-eaux.nl | No |
 | met-hardware.fr | No |
 | meta-tube.de | No |
@@ -22017,8 +22019,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,432 |
-| Normal | 17,542 |
+| Cloudflare | 4,433 |
+| Normal | 17,543 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
