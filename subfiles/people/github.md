@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Using default certificate due to an error reading secret, but secret exists](https://github.com/jcmoraisjr/haproxy-ingress/issues/952)
+- [Unable to retrieve data via okex v2 api (moved from www.okex.com to www.okx.com)](https://github.com/knowm/XChange/issues/4595)
 - [Huobi: Cannot place an order in one-way mode on the USDT-M cross contract](https://github.com/ccxt/ccxt/issues/15250)
 - [TextVersion urls blocked by CloudFlare](https://github.com/LibraryOfCongress/api.congress.gov/issues/46)
 - [TypeError: init() got an unexpected keyword argument 'ssl_context'](https://github.com/DarkCat09/python-aternos/issues/57)
