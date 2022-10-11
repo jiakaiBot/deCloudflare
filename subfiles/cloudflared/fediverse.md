@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,164 |
-| net | 1,744 |
-| org | 1,218 |
-| social | 1,195 |
+| net | 1,745 |
+| org | 1,220 |
+| social | 1,196 |
 | de | 1,039 |
 
 
@@ -623,6 +623,7 @@ Here's a list of public Fediverse services.
 | aglaea.me | Yes |
 | agnail.net | No |
 | agneraya.com | No |
+| agnessa.pp.ru | No |
 | agol.one | No |
 | agoni.news | No |
 | agood.dog | No |
@@ -3571,6 +3572,7 @@ Here's a list of public Fediverse services.
 | corgi.farm | No |
 | corgi.social | No |
 | corklabdon.com | No |
+| corn.social | No |
 | cornerof.world | No |
 | cornfedcrew.com | No |
 | cornichon.me | No |
@@ -5504,6 +5506,7 @@ Here's a list of public Fediverse services.
 | etsocialspace.com | No |
 | etwas42.de | No |
 | etxetik.org | Yes |
+| eu5.org | No |
 | eugen.town | No |
 | eula.dev | No |
 | eulerroom.com | No |
@@ -6116,6 +6119,7 @@ Here's a list of public Fediverse services.
 | flairy.de | No |
 | flaki.hu | No |
 | flaki.social | No |
+| flal.net | No |
 | flanigan.engineering | Yes |
 | flanintheface.com | No |
 | flashfic.stream | No |
@@ -7730,6 +7734,7 @@ Here's a list of public Fediverse services.
 | hedgehoghunter.club | Yes |
 | heewch.com | No |
 | heiki-hecchara.net | No |
+| heikosblog.eu | No |
 | heim-server.de | No |
 | heim.sh | No |
 | heimann13.com | Yes |
@@ -8011,6 +8016,7 @@ Here's a list of public Fediverse services.
 | holi.chat | No |
 | hollablog.at | No |
 | hollandsepod.nl | No |
+| holllo.org | Yes |
 | hollow.city | No |
 | holly.town | No |
 | holmmade.cafe | Yes |
@@ -9204,7 +9210,6 @@ Here's a list of public Fediverse services.
 | jschwab.org | No |
 | jsfamily.in | No |
 | jshwlkr.info | No |
-| json.blog | No |
 | jsonly.club | No |
 | jstd.me | No |
 | jsteuernagel.de | Yes |
@@ -17318,6 +17323,7 @@ Here's a list of public Fediverse services.
 | shemmes.me | No |
 | shenanigan.space | No |
 | shenyanshu.com | No |
+| shep.online | Yes |
 | sherblog.de | No |
 | sheseeksnonfiction.blog | No |
 | shestak.me | No |
@@ -20781,6 +20787,7 @@ Here's a list of public Fediverse services.
 | waldn.net | No |
 | waldowski.me | No |
 | waldstepperbu.de | No |
+| wale.au | Yes |
 | wale.run | Yes |
 | walkah.social | Yes |
 | walkaway.social | No |
@@ -22025,8 +22032,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,437 |
-| Normal | 17,545 |
+| Cloudflare | 4,440 |
+| Normal | 17,549 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
