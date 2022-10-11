@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [TypeError: init() got an unexpected keyword argument 'ssl_context'](https://github.com/DarkCat09/python-aternos/issues/57)
 - ["Unexpected token algorithm" error when validating CloudFlare's JWT](https://github.com/kataras/jwt/issues/13)
 - [Fix this source: wuxiaworld.com](https://github.com/dipu-bd/lightnovel-crawler/issues/1708)
 - [Fix this source allnovelfull.com, CloudflareChallengeError.](https://github.com/dipu-bd/lightnovel-crawler/issues/1697)
