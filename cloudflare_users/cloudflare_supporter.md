@@ -3242,6 +3242,7 @@ Do not create new issue or we will close it as duplicate.
 | [hiro3pc@twitter](https://twitter.com/hiro3pc/status/1520371268859891712) | advertise |
 | [hisham_ali22@twitter](https://twitter.com/hisham_ali22/status/1518615042815668225) | advertise |
 | [hishertweets@twitter](https://twitter.com/hishertweets/status/1498862531997503488) | advertise |
+| [Hiu34261835@twitter](https://twitter.com/Hiu34261835/status/1579893113287766017) | advertise |
 | [Hiu36827414@twitter](https://twitter.com/Hiu36827414/status/1391153248950644740) | advertise |
 | [Hiu62637495@twitter](https://twitter.com/Hiu62637495/status/1401626342945296385) | advertise |
 | [hiu70401177@twitter](https://twitter.com/hiu70401177/status/1553066886627135489) | advertise |
