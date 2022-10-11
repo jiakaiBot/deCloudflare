@@ -14013,6 +14013,7 @@ Here's a list of public Fediverse services.
 | odayacres.farm | Yes |
 | odditycentral.com | Yes |
 | oddnetwork.org | No |
+| oddz.blog | No |
 | odenwald.social | No |
 | odessen.com | No |
 | odezie.eu | No |
@@ -22023,7 +22024,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,435 |
-| Normal | 17,544 |
+| Normal | 17,545 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
