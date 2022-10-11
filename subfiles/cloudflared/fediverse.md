@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,163 |
+| com | 3,164 |
 | net | 1,744 |
 | org | 1,218 |
 | social | 1,195 |
@@ -2977,7 +2977,7 @@ Here's a list of public Fediverse services.
 | chaoticaredux.com | No |
 | chaoticride.com | No |
 | chaotikum.org | No |
-| chaouane.xyz | No |
+| chaouane.xyz | Yes |
 | chaoyu.us | No |
 | chapril.org | No |
 | chapsterhood.com | No |
@@ -4677,6 +4677,7 @@ Here's a list of public Fediverse services.
 | docteamdemosite.club | No |
 | doctors4covidethics.org | No |
 | dodsorf.as | No |
+| doenietzomoeilijk.nl | No |
 | does.social | No |
 | doesnotexist.club | No |
 | doetnix.nl | No |
@@ -4842,6 +4843,7 @@ Here's a list of public Fediverse services.
 | dreadsec.social | No |
 | dream-seed.com | No |
 | dreamers-guild.net | No |
+| dreamin.online | No |
 | dreckigerdan.com | No |
 | dregin.com | Yes |
 | dregnest.net | No |
@@ -14130,6 +14132,7 @@ Here's a list of public Fediverse services.
 | ombreport.info | No |
 | omega-bytes.com | No |
 | omeganote.fr | No |
+| omeowgle.com | Yes |
 | omfg.blog | No |
 | omgubuntu.co.uk | No |
 | omhnc.net | Yes |
@@ -22019,8 +22022,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,433 |
-| Normal | 17,543 |
+| Cloudflare | 4,435 |
+| Normal | 17,544 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
