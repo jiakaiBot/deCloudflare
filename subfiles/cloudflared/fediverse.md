@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,163 |
-| net | 1,743 |
+| net | 1,744 |
 | org | 1,218 |
 | social | 1,194 |
-| de | 1,038 |
+| de | 1,039 |
 
 
 - Mastodon, Pleroma, etc
@@ -14495,6 +14495,7 @@ Here's a list of public Fediverse services.
 | oxhead.dev | No |
 | oxidized.systems | No |
 | oxlajujqanil.net | No |
+| oxus.net | Yes |
 | oyakodon.biz | No |
 | oyashirosama.cf | No |
 | oyashirosama.tk | No |
@@ -16947,6 +16948,7 @@ Here's a list of public Fediverse services.
 | scheid.tech | No |
 | schelling.pt | No |
 | schemacs.com | No |
+| schenklklopfer.de | No |
 | schenklradio.de | No |
 | schep.me | Yes |
 | schettler.net | No |
@@ -20783,7 +20785,7 @@ Here's a list of public Fediverse services.
 | wallflowersocial.club | No |
 | walls.social | Yes |
 | waltdn.com | No |
-| walther.network | No |
+| walther.network | Yes |
 | walton-rivers.uk | No |
 | wanda.hamburg | No |
 | wandel.social | No |
@@ -22015,7 +22017,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,430 |
+| Cloudflare | 4,432 |
 | Normal | 17,542 |
 
 
