@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Huobi: Cannot place an order in one-way mode on the USDT-M cross contract](https://github.com/ccxt/ccxt/issues/15250)
 - [TextVersion urls blocked by CloudFlare](https://github.com/LibraryOfCongress/api.congress.gov/issues/46)
 - [TypeError: init() got an unexpected keyword argument 'ssl_context'](https://github.com/DarkCat09/python-aternos/issues/57)
 - ["Unexpected token algorithm" error when validating CloudFlare's JWT](https://github.com/kataras/jwt/issues/13)
