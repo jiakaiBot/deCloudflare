@@ -717,6 +717,7 @@ Do not create new issue or we will close it as duplicate.
 | [AraxDen@twitter](https://twitter.com/AraxDen/status/1506691386426355712) | advertise |
 | [ArayaKhanegin@twitter](https://twitter.com/ArayaKhanegin/status/1401630853273325571) | advertise |
 | [arbab_zaman15@twitter](https://twitter.com/arbab_zaman15/status/1552369440121036802) | advertise |
+| [archer14Arash@twitter](https://twitter.com/archer14Arash/status/1579761913541832704) | advertise |
 | [ArcherAdvanced@twitter](https://twitter.com/ArcherAdvanced/status/1508520078387548160) | advertise |
 | [archiemedes_@twitter](https://twitter.com/archiemedes_/status/1545628048929669121) | advertise |
 | [ArchitectBum@twitter](https://twitter.com/ArchitectBum/status/1399109700726104064) | advertise |
@@ -754,6 +755,7 @@ Do not create new issue or we will close it as duplicate.
 | [arman_mhmdzh@twitter](https://twitter.com/arman_mhmdzh/status/1573635705221308418) | advertise |
 | [ArMe69697866@twitter](https://twitter.com/ArMe69697866/status/1376913334377791492) | advertise |
 | [armemon12143277@twitter](https://twitter.com/armemon12143277/status/1577995890073423877) | advertise |
+| [armin60956592@twitter](https://twitter.com/armin60956592/status/1579794091495559168) | advertise |
 | [armininjast@twitter](https://twitter.com/armininjast/status/1378059899234619401) | advertise |
 | [ArmyFlyMonkeys@twitter](https://twitter.com/ArmyFlyMonkeys/status/1407456688458801152) | advertise |
 | [ARMYYoli1@twitter](https://twitter.com/ARMYYoli1/status/1392900232736776197) | advertise |
@@ -9750,6 +9752,7 @@ Do not create new issue or we will close it as duplicate.
 | [V25022000@twitter](https://twitter.com/V25022000/status/1376914512725479429) | advertise |
 | [V54852877@twitter](https://twitter.com/V54852877/status/1553099641759010816) | advertise |
 | [Vagabondoloco@twitter](https://twitter.com/Vagabondoloco/status/1558902610110947331) | advertise |
+| [vahid_parhiz@twitter](https://twitter.com/vahid_parhiz/status/1579683899751682049) | advertise |
 | [validclown@twitter](https://twitter.com/validclown/status/1553435790113673217) | advertise |
 | [ValidMojo@twitter](https://twitter.com/ValidMojo/status/1385009257830096898) | advertise |
 | [valischan@twitter](https://twitter.com/valischan/status/1576479777019396096) | advertise |
@@ -10261,6 +10264,7 @@ Do not create new issue or we will close it as duplicate.
 | [yan_kyaw0h@twitter](https://twitter.com/yan_kyaw0h/status/1393088808602722305) | advertise |
 | [yan_tint@twitter](https://twitter.com/yan_tint/status/1395264822820974595) | advertise |
 | [yaomspace@twitter](https://twitter.com/yaomspace/status/1389098290981990401) | advertise |
+| [yardabes@twitter](https://twitter.com/yardabes/status/1579820322697904130) | advertise |
 | [YarisVu@twitter](https://twitter.com/YarisVu/status/1407379018479898625) | advertise |
 | [Yarkusar5@twitter](https://twitter.com/Yarkusar5/status/1378357752897015810) | advertise |
 | [yarkusar13@twitter](https://twitter.com/yarkusar13/status/1563890660456923136) | advertise |
