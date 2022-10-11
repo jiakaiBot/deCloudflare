@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-13: [AKL (Auckland) on 2022-10-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/nwlngdysz950)
+- 2022-10-12: [FRA (Frankfurt) on 2022-10-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wsq0cgqn9xkb)
 - 2022-10-22: [HKG (Hong Kong) on 2022-10-22](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y6ht7h6d8rtw)
 - 2022-10-15: [HKG (Hong Kong) on 2022-10-15](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/12dgs8n2zp6q)
 - 2022-10-13: [MUC (Munich) on 2022-10-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g72wtsx6z4j8)
