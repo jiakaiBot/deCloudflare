@@ -9924,6 +9924,7 @@ Do not create new issue or we will close it as duplicate.
 | [vysecurity@twitter](https://twitter.com/vysecurity/status/1525362451516370944) | advertise |
 | [vZHh3za8DnpsEuZ@twitter](https://twitter.com/vZHh3za8DnpsEuZ/status/1394326959975407619) | advertise |
 | [W01fyH@twitter](https://twitter.com/W01fyH/status/1377451953353986053) | advertise |
+| [W1sskI@twitter](https://twitter.com/W1sskI/status/1579839513228357632) | advertise |
 | [w88cuavinh@twitter](https://twitter.com/w88cuavinh/status/1380719088431816714) | advertise |
 | [w88vietnamfc@twitter](https://twitter.com/w88vietnamfc/status/1380719088431816714) | advertise |
 | [w88youde1@twitter](https://twitter.com/w88youde1/status/1380719088431816714) | advertise |
