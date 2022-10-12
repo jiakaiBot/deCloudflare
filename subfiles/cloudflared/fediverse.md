@@ -1336,6 +1336,7 @@ Here's a list of public Fediverse services.
 | asharpminor.com | No |
 | asherif.xyz | Yes |
 | ashfurrow.com | No |
+| ashhhleyyy.dev | Yes |
 | ashiato45.net | No |
 | ashikaga.link | No |
 | ashitty.website | No |
@@ -13313,7 +13314,7 @@ Here's a list of public Fediverse services.
 | nesu.me | No |
 | nesven.eu | No |
 | net-p.org | No |
-| net.scot | No |
+| net.scot | Yes |
 | net4sw.com | No |
 | netaka.net | No |
 | netcorsoft.de | No |
@@ -17718,7 +17719,7 @@ Here's a list of public Fediverse services.
 | sneed.network | Yes |
 | sneed.org.uk | No |
 | sneed.shop | No |
-| sneed.social | No |
+| sneed.social | Yes |
 | sneed.vip | No |
 | sneedtube.com | No |
 | snek.uk | No |
@@ -20401,6 +20402,7 @@ Here's a list of public Fediverse services.
 | valvin.fr | No |
 | vampire.estate | No |
 | vampirebbs.org | No |
+| van-der-boom.nl | No |
 | van-hemmen.com | No |
 | vanbeek.nz | No |
 | vance.land | No |
@@ -21030,6 +21032,7 @@ Here's a list of public Fediverse services.
 | wiggle.website | No |
 | wihel.de | Yes |
 | wiki-tube.de | No |
+| wikis.world | No |
 | wikitetas.club | No |
 | wikitetas.live | No |
 | wilboard.nl | No |
@@ -22032,7 +22035,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,440 |
+| Cloudflare | 4,443 |
 | Normal | 17,549 |
 
 
