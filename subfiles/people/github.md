@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [secret not found when using ClusterSecretStore](https://github.com/external-secrets/external-secrets/issues/1633)
 - [Strict MIME type error causes white page (nginx + cloudflare)](https://github.com/louislam/uptime-kuma/issues/2221)
 - [warp can't be used](https://github.com/klzgrad/naiveproxy/issues/344)
 - [Using default certificate due to an error reading secret, but secret exists](https://github.com/jcmoraisjr/haproxy-ingress/issues/952)
