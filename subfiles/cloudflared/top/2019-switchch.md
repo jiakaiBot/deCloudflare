@@ -1,4 +1,4 @@
-## How many % of top 1000 .ch domain names(XXXXXXX) are using Cloudflare?
+## How many % of top 1000 .ch domain names(2019) are using Cloudflare?
 
 - [SWITCH open data](https://www.switch.ch/open-data/)
 ```
