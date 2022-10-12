@@ -8088,6 +8088,7 @@ Do not create new issue or we will close it as duplicate.
 | [SAM18905293@twitter](https://twitter.com/SAM18905293/status/1549526126602633218) | advertise |
 | [Sam47778402@twitter](https://twitter.com/Sam47778402/status/1396123062047625221) | advertise |
 | [SAM75789745@twitter](https://twitter.com/SAM75789745/status/1568084712467431425) | advertise |
+| [samaddehgan@twitter](https://twitter.com/samaddehgan/status/1580077473953292290) | advertise |
 | [saman136611@twitter](https://twitter.com/saman136611/status/1577256038935695362) | advertise |
 | [Sambhra31401620@twitter](https://twitter.com/Sambhra31401620/status/1496921994725511199) | advertise |
 | [SameerDangi9@twitter](https://twitter.com/SameerDangi9/status/1377450627631095808) | advertise |
