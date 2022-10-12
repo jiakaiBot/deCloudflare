@@ -1907,6 +1907,7 @@ Do not create new issue or we will close it as duplicate.
 | [d7W2kx2ukyk0FhC@twitter](https://twitter.com/d7W2kx2ukyk0FhC/status/1395120949343760384) | advertise |
 | [d40aldo@twitter](https://twitter.com/d40aldo/status/1422681010123247620) | advertise |
 | [daayahhhh@twitter](https://twitter.com/daayahhhh/status/1553373437443379200) | advertise |
+| [Dabaholiic7@twitter](https://twitter.com/Dabaholiic7/status/1580182282177896450) | advertise |
 | [dabanphone@twitter](https://twitter.com/dabanphone/status/1494468838397726727) | advertise |
 | [DaBestxone@twitter](https://twitter.com/DaBestxone/status/1395588482571980800) | advertise |
 | [dacoto97@twitter](https://twitter.com/dacoto97/status/1424373152558239746) | advertise |
@@ -9507,6 +9508,7 @@ Do not create new issue or we will close it as duplicate.
 | [Trng994@twitter](https://twitter.com/Trng994/status/1494841748698599425) | advertise |
 | [Trng20818819@twitter](https://twitter.com/Trng20818819/status/1399318695856328706) | advertise |
 | [trng27738898@twitter](https://twitter.com/trng27738898/status/1566444882972983297) | advertise |
+| [trng78863858@twitter](https://twitter.com/trng78863858/status/1580176990207848448) | advertise |
 | [TrngAn55238126@twitter](https://twitter.com/TrngAn55238126/status/1485885246147264512) | advertise |
 | [trnggia21482800@twitter](https://twitter.com/trnggia21482800/status/1552625904270319616) | advertise |
 | [TrngHng71947788@twitter](https://twitter.com/TrngHng71947788/status/1393971195691687940) | advertise |
