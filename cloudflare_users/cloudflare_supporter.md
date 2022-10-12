@@ -5709,6 +5709,7 @@ Do not create new issue or we will close it as duplicate.
 | [MercuryKIInG91@twitter](https://twitter.com/MercuryKIInG91/status/1398250256794624005) | advertise |
 | [mercytown918@twitter](https://twitter.com/mercytown918/status/1558387091171590145) | advertise |
 | [mergencez@twitter](https://twitter.com/mergencez/status/1501549795122450437) | advertise |
+| [MernaElfar7@twitter](https://twitter.com/MernaElfar7/status/1580295509318983681) | advertise |
 | [mertcangokgoz@twitter](https://twitter.com/mertcangokgoz/status/1399434909039611907) | advertise |
 | [MES31_82@twitter](https://twitter.com/MES31_82/status/1401340927495581698) | advertise |
 | [MESA_BG@twitter](https://twitter.com/MESA_BG/status/1543335356032061440) | advertise |
@@ -6748,6 +6749,7 @@ Do not create new issue or we will close it as duplicate.
 | [NikhilS76692989@twitter](https://twitter.com/NikhilS76692989/status/1386257034522218501) | advertise |
 | [NikhilSPawar4@twitter](https://twitter.com/NikhilSPawar4/status/1447058829020069891) | advertise |
 | [NikkiLe53425659@twitter](https://twitter.com/NikkiLe53425659/status/1556629742115225602) | advertise |
+| [nik_dokht@twitter](https://twitter.com/nik_dokht/status/1580302051128446977) | advertise |
 | [NiladriAsh@twitter](https://twitter.com/NiladriAsh/status/1395822333944684544) | advertise |
 | [NilarSo52519800@twitter](https://twitter.com/NilarSo52519800/status/1394584973143851009) | advertise |
 | [nilou1995@twitter](https://twitter.com/nilou1995/status/1573241066312302594) | advertise |
