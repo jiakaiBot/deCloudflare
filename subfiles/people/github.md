@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Strict MIME type error causes white page (nginx + cloudflare)](https://github.com/louislam/uptime-kuma/issues/2221)
 - [warp can't be used](https://github.com/klzgrad/naiveproxy/issues/344)
 - [Using default certificate due to an error reading secret, but secret exists](https://github.com/jcmoraisjr/haproxy-ingress/issues/952)
 - [Unable to retrieve data via okex v2 api (moved from www.okex.com to www.okx.com)](https://github.com/knowm/XChange/issues/4595)
