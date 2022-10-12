@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-13: [IAD (Ashburn) on 2022-10-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tc0f7rxb8pw2)
 - 2022-10-18: [LHR (London) on 2022-10-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/by6ngpfy6lv6)
 - 2022-10-13: [MUC (Munich) on 2022-10-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rkswk61vrqgy)
 - 2022-10-12: [MUC (Munich) on 2022-10-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9nyv41kjgjh2)
