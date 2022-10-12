@@ -38,6 +38,7 @@
       - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2021-cisco.md) _Cisco_
     - `2022`
       - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2022-tranco.md) _Tranco_
+      - [How many % of top 500 most popular sites are using Cloudflare?](cloudflared/top/2022-moz.md) _Moz_
       - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2022-majestic.md) _Majestic_
       - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2022-alexa.md) _Alexa_
       - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2022-cisco.md) _Cisco_
