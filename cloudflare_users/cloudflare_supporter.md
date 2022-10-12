@@ -10713,6 +10713,7 @@ Do not create new issue or we will close it as duplicate.
 | [__4x5@twitter](https://twitter.com/__4x5/status/1552234529355595778) | advertise |
 | [__5x6@twitter](https://twitter.com/__5x6/status/1552234529355595778) | advertise |
 | [__7x7e@twitter](https://twitter.com/__7x7e/status/1571221433711214595) | advertise |
+| [__alula@twitter](https://twitter.com/__alula/status/1580317928326860801) | advertise |
 | [__i21@twitter](https://twitter.com/__i21/status/1552234529355595778) | advertise |
 | [__JARVlS__@twitter](https://twitter.com/__JARVlS__/status/1399612611314950144) | advertise |
 | [__mr_4d_wal__@twitter](https://twitter.com/__mr_4d_wal__/status/1530217611019145216) | advertise |
