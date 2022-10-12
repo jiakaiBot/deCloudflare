@@ -4189,6 +4189,7 @@ Do not create new issue or we will close it as duplicate.
 | [jshxnxn@twitter](https://twitter.com/jshxnxn/status/1570463160112652293) | advertise |
 | [jsilvadestaques@twitter](https://twitter.com/jsilvadestaques/status/1546111425898287105) | advertise |
 | [jsneheheiie@twitter](https://twitter.com/jsneheheiie/status/1552562016937984000) | advertise |
+| [Jso90803827@twitter](https://twitter.com/Jso90803827/status/1580284379284529152) | advertise |
 | [JSongtakri@twitter](https://twitter.com/JSongtakri/status/1380804099340439556) | advertise |
 | [Jspiral360@twitter](https://twitter.com/Jspiral360/status/1539858076802637824) | advertise |
 | [jst79@twitter](https://twitter.com/jst79/status/1536882259101290496) | advertise |
