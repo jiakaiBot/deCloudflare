@@ -9647,6 +9647,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tushar_Kapila@twitter](https://twitter.com/Tushar_Kapila/status/1426600905642631175) | advertise |
 | [Tusski3@twitter](https://twitter.com/Tusski3/status/1527917118716379136) | advertise |
 | [TutorialAgent@twitter](https://twitter.com/TutorialAgent/status/1496927292336984092) | advertise |
+| [tutu_rulianda@twitter](https://twitter.com/tutu_rulianda/status/1580004537309442049) | advertise |
 | [Tuyen48910652@twitter](https://twitter.com/Tuyen48910652/status/1543227236572348416) | advertise |
 | [tuyennguyen2906@twitter](https://twitter.com/tuyennguyen2906/status/1434738541506924547) | advertise |
 | [TuynNgu65141795@twitter](https://twitter.com/TuynNgu65141795/status/1399803170520371204) | advertise |
