@@ -2658,6 +2658,7 @@ Do not create new issue or we will close it as duplicate.
 | [fjpkagami@twitter](https://twitter.com/fjpkagami/status/1392923842880831488) | advertise |
 | [FlameOcho@twitter](https://twitter.com/FlameOcho/status/1390911778918305799) | advertise |
 | [FlashZA_@twitter](https://twitter.com/FlashZA_/status/1507735134799372288) | advertise |
+| [FlawCra@twitter](https://twitter.com/FlawCra/status/1580222680694812672) | advertise |
 | [FlB22659378@twitter](https://twitter.com/FlB22659378/status/1396356630082514944) | advertise |
 | [flDtnyWkEEqOpk9@twitter](https://twitter.com/flDtnyWkEEqOpk9/status/1388450053430202369) | advertise |
 | [FliuchOff@twitter](https://twitter.com/FliuchOff/status/1573550524946857986) | advertise |
@@ -4597,8 +4598,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6630,6 +6631,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynHongHun15@twitter](https://twitter.com/NguynHongHun15/status/1397957522489700354) | advertise |
 | [NguynHu34706565@twitter](https://twitter.com/NguynHu34706565/status/1402642890942074885) | advertise |
 | [NguynHu76578551@twitter](https://twitter.com/NguynHu76578551/status/1391823326327164929) | advertise |
+| [nguynhu96942894@twitter](https://twitter.com/nguynhu96942894/status/1580221345602101248) | advertise |
 | [Nguynip53785512@twitter](https://twitter.com/Nguynip53785512/status/1552750041118298112) | advertise |
 | [NguynKan9@twitter](https://twitter.com/NguynKan9/status/1386665140741828617) | advertise |
 | [NguynKh45081522@twitter](https://twitter.com/NguynKh45081522/status/1397233488189960197) | advertise |
