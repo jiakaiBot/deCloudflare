@@ -30,11 +30,17 @@ zouloafi.net
 zumzumar.com
 zxcdn.com
 api.zodomus.com
+gateway.zscalertwo.net
+idp.saas.zeb-it.de
+paypal.com.zd-league.com
 secure-paypal-access-login-confirm-account.zmgconsulting.co.za
 sq-aovpn.zetec.com
 static.gov.zw12345.com
 testapi.zimicn.com
+video.zuoyebang.cc
+www.client-analytics.zerrohost.com
 www.client.rdtcap.zahid.com.bd
+www.zaguri-reinigungsservice.de
 www.ziplocal.ca
 www.zwilnik.com
 zabavashop.in.ua
