@@ -5545,6 +5545,7 @@ Do not create new issue or we will close it as duplicate.
 | [MashhadiPourya@twitter](https://twitter.com/MashhadiPourya/status/1388135701003309062) | advertise |
 | [MAshuwj@twitter](https://twitter.com/MAshuwj/status/1394318953523027968) | advertise |
 | [masihmohebi@twitter](https://twitter.com/masihmohebi/status/1573580152445014016) | advertise |
+| [maslankd@twitter](https://twitter.com/maslankd/status/1580194516186722304) | advertise |
 | [mason78555541@twitter](https://twitter.com/mason78555541/status/1552343962970918912) | advertise |
 | [masonman443@twitter](https://twitter.com/masonman443/status/1572914826946682884) | advertise |
 | [masOUmy49@twitter](https://twitter.com/masOUmy49/status/1378421995021471752) | advertise |
