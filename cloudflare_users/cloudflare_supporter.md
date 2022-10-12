@@ -7268,6 +7268,7 @@ Do not create new issue or we will close it as duplicate.
 | [Phoetha80368175@twitter](https://twitter.com/Phoetha80368175/status/1394385512576684032) | advertise |
 | [PhoeZaw31267893@twitter](https://twitter.com/PhoeZaw31267893/status/1402995808803332099) | advertise |
 | [phogey2@twitter](https://twitter.com/phogey2/status/1503185938054266880) | advertise |
+| [phokamart@twitter](https://twitter.com/phokamart/status/1579987238368481280) | advertise |
 | [PhoneHtetSan2@twitter](https://twitter.com/PhoneHtetSan2/status/1390128514796457986) | advertise |
 | [phonemy87275447@twitter](https://twitter.com/phonemy87275447/status/1390311328674238471) | advertise |
 | [PhoneMyatKyawA1@twitter](https://twitter.com/PhoneMyatKyawA1/status/1392866703378366464) | advertise |
