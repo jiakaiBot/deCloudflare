@@ -1577,6 +1577,7 @@ Do not create new issue or we will close it as duplicate.
 | [catchme07@twitter](https://twitter.com/catchme07/status/1373180238264291334) | advertise |
 | [Catheri50633931@twitter](https://twitter.com/Catheri50633931/status/1390732851633528834) | advertise |
 | [CatLoveCatsCat@twitter](https://twitter.com/CatLoveCatsCat/status/1545552800079400960) | advertise |
+| [catmilk420xd@twitter](https://twitter.com/catmilk420xd/status/1580119320855990273) | advertise |
 | [CAtomsa@twitter](https://twitter.com/CAtomsa/status/1538558459628728326) | advertise |
 | [catsthepope@twitter](https://twitter.com/catsthepope/status/1578071234134376449) | advertise |
 | [cattien64320817@twitter](https://twitter.com/cattien64320817/status/1402109873911865344) | advertise |
