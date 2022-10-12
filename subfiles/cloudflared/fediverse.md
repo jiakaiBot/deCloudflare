@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,165 |
 | net | 1,745 |
-| org | 1,220 |
-| social | 1,197 |
+| org | 1,221 |
+| social | 1,198 |
 | de | 1,039 |
 
 
@@ -88,6 +88,7 @@ Here's a list of public Fediverse services.
 | 0xa.pw | Yes |
 | 0xabc.de | No |
 | 0xd.jp | No |
+| 0xdd.org.ru | Yes |
 | 0xdevelopers.online | No |
 | 0xemmy.me | No |
 | 0xf4240.bid | Yes |
@@ -17435,6 +17436,7 @@ Here's a list of public Fediverse services.
 | side-ways.net | No |
 | sidekek.ml | No |
 | sideno.eu | No |
+| sidequest.social | No |
 | sidraco.in | No |
 | siebent.net | No |
 | siedler.ro | No |
@@ -20341,6 +20343,7 @@ Here's a list of public Fediverse services.
 | utopia.cool | No |
 | utopiaeducators.com | No |
 | utopiamachines.com | No |
+| utopify.org | No |
 | utronium.xyz | No |
 | utter.studio | No |
 | utwente.nl | No |
@@ -22038,8 +22041,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,445 |
-| Normal | 17,550 |
+| Cloudflare | 4,446 |
+| Normal | 17,552 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
