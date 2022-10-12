@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Insternal Server Error](https://github.com/pgadmin-org/pgadmin4/issues/5431)
 - [secret not found when using ClusterSecretStore](https://github.com/external-secrets/external-secrets/issues/1633)
 - [Strict MIME type error causes white page (nginx + cloudflare)](https://github.com/louislam/uptime-kuma/issues/2221)
 - [warp can't be used](https://github.com/klzgrad/naiveproxy/issues/344)
