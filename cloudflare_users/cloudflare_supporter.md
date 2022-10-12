@@ -7801,6 +7801,7 @@ Do not create new issue or we will close it as duplicate.
 | [renify_official@twitter](https://twitter.com/renify_official/status/1464961938492821506) | advertise |
 | [RentWithPets@twitter](https://twitter.com/RentWithPets/status/1379263041309564929) | advertise |
 | [renviroland@twitter](https://twitter.com/renviroland/status/1566863909759422470) | advertise |
+| [Renz29880815@twitter](https://twitter.com/Renz29880815/status/1580169604802170880) | advertise |
 | [renz89032860@twitter](https://twitter.com/renz89032860/status/1402159320465248256) | advertise |
 | [resing@twitter](https://twitter.com/resing/status/1510697231724163073) | advertise |
 | [resistance.social](https://resistance.social/) | by deleting account without warning |
