@@ -2763,6 +2763,7 @@ Do not create new issue or we will close it as duplicate.
 | [Game080941@twitter](https://twitter.com/Game080941/status/1396440640028692489) | advertise |
 | [GamerBoy1789@twitter](https://twitter.com/GamerBoy1789/status/1549586329901535234) | advertise |
 | [Gameski65226328@twitter](https://twitter.com/Gameski65226328/status/1394977499864576006) | advertise |
+| [gamesuwan@twitter](https://twitter.com/gamesuwan/status/1580106222203973634) | advertise |
 | [Gametes97490418@twitter](https://twitter.com/Gametes97490418/status/1550866603083829248) | advertise |
 | [gameXprofanclu2@twitter](https://twitter.com/gameXprofanclu2/status/1394939425281376259) | advertise |
 | [Gaming1Dark@twitter](https://twitter.com/Gaming1Dark/status/1456365831038767104) | advertise |
