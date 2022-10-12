@@ -50,6 +50,7 @@
       - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2022-alexa.md) _Alexa_
       - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2022-cisco.md) _Cisco_
       - [How many % of top 1,000 .ch domain names are using Cloudflare?](cloudflared/top/2022-switchch.md) _SWITCH_
+      - [How many % of top 10 million most visited sites are using Cloudflare?](cloudflared/top/2022-domcop.md) _Domcop_
   - How many % of banks & financial institutions are using Cloudflare?
     - [Africa](cloudflared/financial_africa.md)
     - [America](cloudflared/financial_america.md)
