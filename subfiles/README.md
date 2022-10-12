@@ -60,6 +60,7 @@
     - [Asia](cloudflared/collegeuniversity_asia.md)
     - [Europe](cloudflared/collegeuniversity_europe.md)
     - [Oceania](cloudflared/collegeuniversity_oceania.md)
+  - [How many % of DNS Census (2013) are using Cloudflare?](cloudflared/dns_census_2013.md)
   - [How many % of places in each cities are using Cloudflare?](cloudflared/city_place.md)
   - [How many % of SSL certificates are issued to Cloudflare sites?](cloudflared/ssl_certificate.md)
   - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared/fortune1000.md)
