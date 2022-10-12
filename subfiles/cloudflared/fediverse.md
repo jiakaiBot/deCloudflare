@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,164 |
+| com | 3,165 |
 | net | 1,745 |
 | org | 1,220 |
 | social | 1,197 |
@@ -16252,6 +16252,7 @@ Here's a list of public Fediverse services.
 | remark.as | No |
 | remarkably.social | Yes |
 | remben.ch | No |
+| remembertheend.com | Yes |
 | remerge.net | No |
 | remicck.club | No |
 | remilia.me | No |
@@ -22037,7 +22038,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,444 |
+| Cloudflare | 4,445 |
 | Normal | 17,550 |
 
 
