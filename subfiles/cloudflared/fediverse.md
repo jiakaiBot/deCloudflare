@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,164 |
 | net | 1,745 |
 | org | 1,220 |
-| social | 1,196 |
+| social | 1,197 |
 | de | 1,039 |
 
 
@@ -13760,6 +13760,7 @@ Here's a list of public Fediverse services.
 | not.one | No |
 | nota.live | No |
 | notactuallyacat.com | No |
+| notacult.social | No |
 | notagovernment.agency | Yes |
 | notaphish.fyi | No |
 | notasquirrel.dev | No |
@@ -22036,7 +22037,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,443 |
-| Normal | 17,549 |
+| Normal | 17,550 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
