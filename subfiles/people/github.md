@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [pgAdmin on Kubernetes - "The referrer does not match the host"](https://github.com/pgadmin-org/pgadmin4/issues/5432)
 - [Insternal Server Error](https://github.com/pgadmin-org/pgadmin4/issues/5431)
 - [secret not found when using ClusterSecretStore](https://github.com/external-secrets/external-secrets/issues/1633)
 - [Strict MIME type error causes white page (nginx + cloudflare)](https://github.com/louislam/uptime-kuma/issues/2221)
