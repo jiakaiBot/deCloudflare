@@ -7908,6 +7908,7 @@ Do not create new issue or we will close it as duplicate.
 | [rokki100_@twitter](https://twitter.com/rokki100_/status/1407399657932742659) | advertise |
 | [Rolling_Dementi@twitter](https://twitter.com/Rolling_Dementi/status/1390855197258227713) | advertise |
 | [romalescarl15@twitter](https://twitter.com/romalescarl15/status/1546101541299691521) | advertise |
+| [Roman01020304@twitter](https://twitter.com/Roman01020304/status/1580252399490707458) | advertise |
 | [romancoper@twitter](https://twitter.com/romancoper/status/1500700242341203968) | advertise |
 | [romanrau113@twitter](https://twitter.com/romanrau113/status/1556831704698220544) | advertise |
 | [RoMeo29584493@twitter](https://twitter.com/RoMeo29584493/status/1392289318262116352) | advertise |
