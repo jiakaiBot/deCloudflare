@@ -10428,6 +10428,7 @@ Here's a list of public Fediverse services.
 | lewd.today | No |
 | lewd.town | No |
 | lewd.website | No |
+| lexi-hexi.eu | No |
 | lexicomancia.com | No |
 | lexie.space | No |
 | lexingtonbitcoin.social | No |
@@ -22055,7 +22056,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,452 |
-| Normal | 17,559 |
+| Normal | 17,560 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
