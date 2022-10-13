@@ -51,6 +51,9 @@
       - [How many % of top 1 million most visited sites are using Cloudflare?](cloudflared/top/2022-cisco.md) _Cisco_
       - [How many % of top 1,000 .ch domain names are using Cloudflare?](cloudflared/top/2022-switchch.md) _SWITCH_
       - [How many % of top 10 million most visited sites are using Cloudflare?](cloudflared/top/2022-domcop.md) _Domcop_
+  - How many % of Government websites are using Cloudflare?
+    - [How many % of United States Government websites are using Cloudflare?](cloudflared/government/govusa.md)
+    - [How many % of France Government websites are using Cloudflare?](cloudflared/govfr.md)
   - How many % of banks & financial institutions are using Cloudflare?
     - [Africa](cloudflared/financial_africa.md)
     - [America](cloudflared/financial_america.md)
@@ -70,7 +73,6 @@
     - [Europe](cloudflared/collegeuniversity_europe.md)
     - [Oceania](cloudflared/collegeuniversity_oceania.md)
   - [How many % of DNS Census (2013) are using Cloudflare?](cloudflared/dns_census_2013.md)
-  - [How many % of French public services are using Cloudflare?](cloudflared/french_pubsvc.md)
   - [How many % of places in each cities are using Cloudflare?](cloudflared/city_place.md)
   - [How many % of SSL certificates are issued to Cloudflare sites?](cloudflared/ssl_certificate.md)
   - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared/fortune1000.md)
