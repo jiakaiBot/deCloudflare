@@ -7290,6 +7290,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhoeZaw31267893@twitter](https://twitter.com/PhoeZaw31267893/status/1402995808803332099) | advertise |
 | [phogey2@twitter](https://twitter.com/phogey2/status/1503185938054266880) | advertise |
 | [phokamart@twitter](https://twitter.com/phokamart/status/1579987238368481280) | advertise |
+| [Phomai17@twitter](https://twitter.com/Phomai17/status/1580561500930203648) | advertise |
 | [PhoneHtetSan2@twitter](https://twitter.com/PhoneHtetSan2/status/1390128514796457986) | advertise |
 | [phonemy87275447@twitter](https://twitter.com/phonemy87275447/status/1390311328674238471) | advertise |
 | [PhoneMyatKyawA1@twitter](https://twitter.com/PhoneMyatKyawA1/status/1392866703378366464) | advertise |
@@ -8863,6 +8864,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tan45474667@twitter](https://twitter.com/Tan45474667/status/1388679876987654149) | advertise |
 | [tanaruk20@twitter](https://twitter.com/tanaruk20/status/1552451708206600194) | advertise |
 | [tanbir1023@twitter](https://twitter.com/tanbir1023/status/1573021271671308288) | advertise |
+| [TanEndru@twitter](https://twitter.com/TanEndru/status/1580563635981627392) | advertise |
 | [TAnh28750081@twitter](https://twitter.com/TAnh28750081/status/1394338740173115399) | advertise |
 | [tanqrfan1394@twitter](https://twitter.com/tanqrfan1394/status/1577039204088889344) | advertise |
 | [Tantai198@twitter](https://twitter.com/Tantai198/status/1494866367769550851) | advertise |
