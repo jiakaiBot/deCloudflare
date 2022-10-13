@@ -58,6 +58,7 @@ Do not create new issue or we will close it as duplicate.
 | [1xSlotvn@twitter](https://twitter.com/1xSlotvn/status/1419205739466280960) | advertise |
 | [1yearandhalf@twitter](https://twitter.com/1yearandhalf/status/1380825438105317390) | advertise |
 | [2DOkAuz5FGdyO5u@twitter](https://twitter.com/2DOkAuz5FGdyO5u/status/1390639905290792967) | advertise |
+| [2EZ4TVA_TVA@twitter](https://twitter.com/2EZ4TVA_TVA/status/1580470328454938625) | advertise |
 | [2k3Aesthetics@twitter](https://twitter.com/2k3Aesthetics/status/1391304277319053327) | advertise |
 | [2s7Pztmcyl6so1H@twitter](https://twitter.com/2s7Pztmcyl6so1H/status/1427581936218869760) | advertise |
 | [2sGoTQPUP3lfWL3@twitter](https://twitter.com/2sGoTQPUP3lfWL3/status/1398753821568950276) | advertise |
@@ -2597,6 +2598,7 @@ Do not create new issue or we will close it as duplicate.
 | [FakeTopG@twitter](https://twitter.com/FakeTopG/status/1570866215404572676) | advertise |
 | [Falcon_0098@twitter](https://twitter.com/Falcon_0098/status/1408452830613147649) | advertise |
 | [FamyCC@twitter](https://twitter.com/FamyCC/status/1572681675913711616) | advertise |
+| [fandoghiiiiiii@twitter](https://twitter.com/fandoghiiiiiii/status/1580463193373433856) | advertise |
 | [Fantasy484@twitter](https://twitter.com/Fantasy484/status/1386774424028803075) | advertise |
 | [FarahAsyiqinAb1@twitter](https://twitter.com/FarahAsyiqinAb1/status/1404207551818862593) | advertise |
 | [FarclasGlen@twitter](https://twitter.com/FarclasGlen/status/1552361087831396352) | advertise |
