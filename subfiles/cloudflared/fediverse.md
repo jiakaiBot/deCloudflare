@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,166 |
+| com | 3,167 |
 | net | 1,745 |
 | org | 1,221 |
 | social | 1,198 |
@@ -1056,6 +1056,7 @@ Here's a list of public Fediverse services.
 | anormallostpod.ovh | No |
 | anosdesiertos.love | Yes |
 | another-guild.com | No |
+| anotherbloody.com | Yes |
 | anotherfoxguy.com | No |
 | anotherlooser.eu | No |
 | anoxinon.de | No |
@@ -9085,6 +9086,7 @@ Here's a list of public Fediverse services.
 | jlg.link | Yes |
 | jmashr.xyz | No |
 | jmathes.de | No |
+| jmbwell.me | No |
 | jmizzle.com | No |
 | jmm.kr | Yes |
 | jmrtmt.com | Yes |
@@ -9215,6 +9217,7 @@ Here's a list of public Fediverse services.
 | jschwab.org | No |
 | jsfamily.in | No |
 | jshwlkr.info | No |
+| json.blog | No |
 | jsonly.club | No |
 | jstd.me | No |
 | jsteuernagel.de | Yes |
@@ -9460,6 +9463,7 @@ Here's a list of public Fediverse services.
 | katty.me | No |
 | katuemon.com | No |
 | katyucha.ovh | No |
+| katze.sh | Yes |
 | kavehmoravej.com | No |
 | kaver.it | No |
 | kavkaza.ru | No |
@@ -15504,6 +15508,7 @@ Here's a list of public Fediverse services.
 | pravdasocial.net | Yes |
 | pravdastalina.info | Yes |
 | pravic.xyz | Yes |
+| praxis.su | Yes |
 | prb1.es | No |
 | preceptor.pl | No |
 | preciouslittle.life | No |
@@ -17696,6 +17701,7 @@ Here's a list of public Fediverse services.
 | smoothdream.online | Yes |
 | smores.town | No |
 | smseden.com | Yes |
+| smth.tk | No |
 | smuglo.li | Yes |
 | smurpspaek.de | No |
 | smusi.ch | No |
@@ -19437,7 +19443,7 @@ Here's a list of public Fediverse services.
 | toaruhetare.net | No |
 | toast.cafe | No |
 | toastbrot.net | Yes |
-| toaster.sh | No |
+| toaster.sh | Yes |
 | tobedefined.net | No |
 | tobias-fischer.eu | No |
 | tobias-k.de | Yes |
@@ -22048,8 +22054,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,448 |
-| Normal | 17,557 |
+| Cloudflare | 4,452 |
+| Normal | 17,559 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
