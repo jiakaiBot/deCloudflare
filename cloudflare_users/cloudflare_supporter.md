@@ -61,6 +61,7 @@ Do not create new issue or we will close it as duplicate.
 | [2k3Aesthetics@twitter](https://twitter.com/2k3Aesthetics/status/1391304277319053327) | advertise |
 | [2s7Pztmcyl6so1H@twitter](https://twitter.com/2s7Pztmcyl6so1H/status/1427581936218869760) | advertise |
 | [2sGoTQPUP3lfWL3@twitter](https://twitter.com/2sGoTQPUP3lfWL3/status/1398753821568950276) | advertise |
+| [2wenty5ivez@twitter](https://twitter.com/2wenty5ivez/status/1580441764267450368) | advertise |
 | [2worx@twitter](https://twitter.com/2worx/status/1405039139498586112) | advertise |
 | [3labMarahin@twitter](https://twitter.com/3labMarahin/status/1384625738884816897) | advertise |
 | [3li7assan2007@twitter](https://twitter.com/3li7assan2007/status/1479946038664441858) | advertise |
