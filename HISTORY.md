@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-19: [KIX (Osaka) on 2022-10-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2yj9cv15qskz)
 - 2022-10-19: [IAD (Ashburn) on 2022-10-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b48gxfnhz5bv)
 - 2022-10-13: [IAD (Ashburn) on 2022-10-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/tc0f7rxb8pw2)
 - 2022-10-18: [LHR (London) on 2022-10-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/by6ngpfy6lv6)
