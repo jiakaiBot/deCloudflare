@@ -122,6 +122,7 @@
   - [July 2022](nameservers/2022-07.md)
   - [August 2022](nameservers/2022-08.md)
   - [September 2022](nameservers/2022-09.md)
+  - [October 2022](nameservers/2022-10.md)
 - Cloudflare attracts "repeat infringers"
   - [June 2021](repeat_infringers/2021-06.md)
   - [January 2022](repeat_infringers/2022-01.md)
