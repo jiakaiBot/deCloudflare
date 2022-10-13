@@ -775,6 +775,7 @@ Do not create new issue or we will close it as duplicate.
 | [arr_htun@twitter](https://twitter.com/arr_htun/status/1390092486530404352) | advertise |
 | [arr_khun@twitter](https://twitter.com/arr_khun/status/1394691552241274882) | advertise |
 | [ArsaKaveh@twitter](https://twitter.com/ArsaKaveh/status/1387953460109271041) | advertise |
+| [Arsalan38813009@twitter](https://twitter.com/Arsalan38813009/status/1580509192368291840) | advertise |
 | [Arsaln96022254@twitter](https://twitter.com/Arsaln96022254/status/1567737080243175424) | advertise |
 | [arshia135563@twitter](https://twitter.com/arshia135563/status/1575086077362065409) | advertise |
 | [ArShin48050365@twitter](https://twitter.com/ArShin48050365/status/1383422252864065541) | advertise |
@@ -3004,6 +3005,7 @@ Do not create new issue or we will close it as duplicate.
 | [Haha40345189@twitter](https://twitter.com/Haha40345189/status/1392928724815732736) | advertise |
 | [haha69163225@twitter](https://twitter.com/haha69163225/status/1384546554980171787) | advertise |
 | [Haha88526766@twitter](https://twitter.com/Haha88526766/status/1401048178611265544) | advertise |
+| [Hahaha8911@twitter](https://twitter.com/Hahaha8911/status/1580517415204507648) | advertise |
 | [Hahaha130100@twitter](https://twitter.com/Hahaha130100/status/1552324016069054464) | advertise |
 | [hahasofunnybruh@twitter](https://twitter.com/hahasofunnybruh/status/1397828172264079362) | advertise |
 | [haiche1410@twitter](https://twitter.com/haiche1410/status/1571199251291729921) | advertise |
