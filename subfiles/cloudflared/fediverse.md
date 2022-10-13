@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,165 |
+| com | 3,166 |
 | net | 1,745 |
 | org | 1,221 |
 | social | 1,198 |
@@ -5287,6 +5287,7 @@ Here's a list of public Fediverse services.
 | emastodon.com | No |
 | embassy.social | No |
 | embeddedarm.com | No |
+| ember.li | No |
 | embracing.space | Yes |
 | emelyne.eu | No |
 | emeraldsocial.org | No |
@@ -21061,6 +21062,7 @@ Here's a list of public Fediverse services.
 | will-mccann.com | Yes |
 | will-nix.de | No |
 | willacy.rocks | No |
+| willdearman.com | Yes |
 | willfong.me | No |
 | william.cool | No |
 | williamb78.ovh | Yes |
@@ -22043,8 +22045,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,446 |
-| Normal | 17,554 |
+| Cloudflare | 4,447 |
+| Normal | 17,555 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
