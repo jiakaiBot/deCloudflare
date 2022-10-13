@@ -1037,6 +1037,7 @@ Do not create new issue or we will close it as duplicate.
 | [AWorld2012@twitter](https://twitter.com/AWorld2012/status/1403252237409914880) | advertise |
 | [Awotism@twitter](https://twitter.com/Awotism/status/1400651579120705543) | advertise |
 | [aw_htet@twitter](https://twitter.com/aw_htet/status/1392711448590094336) | advertise |
+| [axillarystudios@twitter](https://twitter.com/axillarystudios/status/1580359764046884865) | advertise |
 | [Axng04841938@twitter](https://twitter.com/Axng04841938/status/1560016017967161344) | advertise |
 | [Axon31869044@twitter](https://twitter.com/Axon31869044/status/1545035870281285634) | advertise |
 | [AyadGhezzi@twitter](https://twitter.com/AyadGhezzi/status/1575585105690533888) | advertise |
@@ -1831,8 +1832,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -7490,6 +7491,7 @@ Do not create new issue or we will close it as duplicate.
 | [prejumass@twitter](https://twitter.com/prejumass/status/1393505472368431105) | advertise |
 | [PresleyPage45@twitter](https://twitter.com/PresleyPage45/status/1383231573999243267) | advertise |
 | [Previa79167164@twitter](https://twitter.com/Previa79167164/status/1394672681098743810) | advertise |
+| [prew72@twitter](https://twitter.com/prew72/status/1580379960539156484) | advertise |
 | [primetechug@twitter](https://twitter.com/primetechug/status/1538085687811088386) | advertise |
 | [Princeferozepur@twitter](https://twitter.com/Princeferozepur/status/1450499964673560579) | advertise |
 | [princeferozepur@twitter](https://twitter.com/princeferozepur/status/1577554540731465729) | advertise |
