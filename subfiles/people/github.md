@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Internal Server Error happened to Cloudflare Workers with cf official redirect](https://github.com/honojs/hono/issues/600)
 - [Extremely weird ngrok/cloudflared thingy error tunneler thing](https://github.com/KasRoudra/PyPhisher/issues/148)
 - [BlogTruyen source can't update new chapter](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13842)
 - [Cannot seem to download anything - Screens.](https://github.com/Xonshiz/comic-dl/issues/328)
