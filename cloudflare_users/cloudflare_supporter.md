@@ -3895,6 +3895,7 @@ Do not create new issue or we will close it as duplicate.
 | [JaafarDafie@twitter](https://twitter.com/JaafarDafie/status/1401898919118790659) | advertise |
 | [jabaowl@twitter](https://twitter.com/jabaowl/status/1564635058585194500) | advertise |
 | [jAbdullahMughal@twitter](https://twitter.com/jAbdullahMughal/status/1477590087437279232) | advertise |
+| [jaberalipur@twitter](https://twitter.com/jaberalipur/status/1580619614689824768) | advertise |
 | [Jabinhossain@twitter](https://twitter.com/Jabinhossain/status/1541025396141232128) | advertise |
 | [Jack21896821@twitter](https://twitter.com/Jack21896821/status/1538019802752913408) | advertise |
 | [JACK63552523@twitter](https://twitter.com/JACK63552523/status/1400836452087255041) | advertise |
@@ -5389,6 +5390,7 @@ Do not create new issue or we will close it as duplicate.
 | [LwinPai97722696@twitter](https://twitter.com/LwinPai97722696/status/1394298120134021123) | advertise |
 | [lxoGAe65bqku3EE@twitter](https://twitter.com/lxoGAe65bqku3EE/status/1404383606592589832) | advertise |
 | [lXprEdg9GGBVa9C@twitter](https://twitter.com/lXprEdg9GGBVa9C/status/1391466180410449921) | advertise |
+| [Ly72496036@twitter](https://twitter.com/Ly72496036/status/1580623611903164416) | advertise |
 | [Lyd37537266@twitter](https://twitter.com/Lyd37537266/status/1401480607310376964) | advertise |
 | [LyfemoreNews@twitter](https://twitter.com/LyfemoreNews/status/1457223435814383618) | advertise |
 | [lynk_nvulinh38@twitter](https://twitter.com/lynk_nvulinh38/status/1399004664025149440) | advertise |
