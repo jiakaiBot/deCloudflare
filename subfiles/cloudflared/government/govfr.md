@@ -1,4 +1,4 @@
-## How many % of French public services are using Cloudflare?
+## How many % of France Government websites are using Cloudflare?
 
 
 - [Liste de noms de domaine d’organismes publics](https://github.com/etalab/noms-de-domaine-organismes-publics)
@@ -17,4 +17,4 @@ Here's the result.
 
 
 # 2.72%
-### of French public services are using Cloudflare.
+### of France Government websites are using Cloudflare.

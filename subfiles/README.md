@@ -53,7 +53,7 @@
       - [How many % of top 10 million most visited sites are using Cloudflare?](cloudflared/top/2022-domcop.md) _Domcop_
   - How many % of Government websites are using Cloudflare?
     - [How many % of United States Government websites are using Cloudflare?](cloudflared/government/govusa.md)
-    - [How many % of France Government websites are using Cloudflare?](cloudflared/govfr.md)
+    - [How many % of France Government websites are using Cloudflare?](cloudflared/government/govfr.md)
   - How many % of banks & financial institutions are using Cloudflare?
     - [Africa](cloudflared/financial_africa.md)
     - [America](cloudflared/financial_america.md)
