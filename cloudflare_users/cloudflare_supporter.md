@@ -1572,6 +1572,7 @@ Do not create new issue or we will close it as duplicate.
 | [CaptMeliodas1@twitter](https://twitter.com/CaptMeliodas1/status/1494257224893763585) | advertise |
 | [Carlisle_Bean@twitter](https://twitter.com/Carlisle_Bean/status/1478565050663284743) | advertise |
 | [Carlos5marquez@twitter](https://twitter.com/Carlos5marquez/status/1492370637041586176) | advertise |
+| [carlosb44604692@twitter](https://twitter.com/carlosb44604692/status/1565149300748914689) | advertise |
 | [CarnifeX_6@twitter](https://twitter.com/CarnifeX_6/status/1386411324230361090) | advertise |
 | [carolinawxauth@twitter](https://twitter.com/carolinawxauth/status/1396641317728440328) | advertise |
 | [carvalhorafael@twitter](https://twitter.com/carvalhorafael/status/1560351128084267009) | advertise |
@@ -10233,6 +10234,7 @@ Do not create new issue or we will close it as duplicate.
 | [xSenzify@twitter](https://twitter.com/xSenzify/status/1507011855805390861) | advertise |
 | [Xstar97TheNoob@twitter](https://twitter.com/Xstar97TheNoob/status/1494824329586122756) | advertise |
 | [xTrapNover@twitter](https://twitter.com/xTrapNover/status/1394301970169491457) | advertise |
+| [xTrueKing05@twitter](https://twitter.com/xTrueKing05/status/1580539512148852736) | advertise |
 | [Xtun45371052@twitter](https://twitter.com/Xtun45371052/status/1396529138454781952) | advertise |
 | [XuamVinh0908@twitter](https://twitter.com/XuamVinh0908/status/1556205862716264448) | advertise |
 | [xuanky12@twitter](https://twitter.com/xuanky12/status/1572089406122762240) | advertise |
