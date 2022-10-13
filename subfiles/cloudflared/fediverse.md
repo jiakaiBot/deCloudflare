@@ -769,7 +769,7 @@ Here's a list of public Fediverse services.
 | algore42069.ga | No |
 | algorithmic.tv | No |
 | algufr.com | No |
-| alhur.es | No |
+| alhur.es | Yes |
 | alice-tech.net | No |
 | alice486.com | Yes |
 | alicecomplex.com | No |
@@ -12921,6 +12921,7 @@ Here's a list of public Fediverse services.
 | myds.me | No |
 | myfamilyandfriends.net | No |
 | myfed.space | No |
+| myfellowverm.in | Yes |
 | myflog.net | Yes |
 | myfreckle.com | No |
 | myfreecams.com | No |
@@ -16416,7 +16417,7 @@ Here's a list of public Fediverse services.
 | riskmanage.jp | No |
 | rita.moe | Yes |
 | ritimo.org | No |
-| ritma.net | Yes |
+| ritma.net | No |
 | ritter.vg | No |
 | ritterswelt.eu | No |
 | rivage.tk | No |
@@ -22047,7 +22048,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,447 |
+| Cloudflare | 4,448 |
 | Normal | 17,557 |
 
 
