@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,745 |
 | org | 1,221 |
 | social | 1,198 |
-| de | 1,039 |
+| de | 1,040 |
 
 
 - Mastodon, Pleroma, etc
@@ -2468,6 +2468,7 @@ Here's a list of public Fediverse services.
 | brettiverse.com | Yes |
 | brettspielpony.de | No |
 | breugelmans.com | No |
+| breukela.de | No |
 | brevsprekk.net | No |
 | brfint.com | No |
 | brianjon.es | No |
@@ -22043,7 +22044,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,446 |
-| Normal | 17,553 |
+| Normal | 17,554 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
