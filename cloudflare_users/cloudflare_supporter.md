@@ -8825,6 +8825,7 @@ Do not create new issue or we will close it as duplicate.
 | [SYXX_87@twitter](https://twitter.com/SYXX_87/status/1577215459010613253) | advertise |
 | [sy_angelyuna@twitter](https://twitter.com/sy_angelyuna/status/1377173738085474307) | advertise |
 | [szexmanias0@twitter](https://twitter.com/szexmanias0/status/1510886009499697159) | advertise |
+| [S_FNcarazy@twitter](https://twitter.com/S_FNcarazy/status/1580486529751076866) | advertise |
 | [t011199@twitter](https://twitter.com/t011199/status/1578358195789041664) | advertise |
 | [T2ikJpl7nVsB4AN@twitter](https://twitter.com/T2ikJpl7nVsB4AN/status/1548789731005124608) | advertise |
 | [T31543226@twitter](https://twitter.com/T31543226/status/1524287509496168448) | advertise |
