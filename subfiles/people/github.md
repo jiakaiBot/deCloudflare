@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [BlogTruyen source can't update new chapter](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13842)
 - [Cannot seem to download anything - Screens.](https://github.com/Xonshiz/comic-dl/issues/328)
 - [pgAdmin on Kubernetes - "The referrer does not match the host"](https://github.com/pgadmin-org/pgadmin4/issues/5432)
 - [Insternal Server Error](https://github.com/pgadmin-org/pgadmin4/issues/5431)
