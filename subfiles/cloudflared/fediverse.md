@@ -228,7 +228,7 @@ Here's a list of public Fediverse services.
 | 3dots.lv | No |
 | 3dscapture.net | No |
 | 3dxmedia.com | No |
-| 3ends.info | Yes |
+| 3ends.info | No |
 | 3fx.ch | No |
 | 3gigs.xyz | Yes |
 | 3hw.de | No |
@@ -5843,7 +5843,7 @@ Here's a list of public Fediverse services.
 | fedi.space | No |
 | fedi.tax | No |
 | fedi.tech | No |
-| fedi.uk | No |
+| fedi.uk | Yes |
 | fedi.wien | No |
 | fedi.wtf | No |
 | fedi.xyz | No |
@@ -14090,6 +14090,7 @@ Here's a list of public Fediverse services.
 | oit-unofficial.tokyo | No |
 | ojamajo.moe | No |
 | ojitabi.club | Yes |
+| ok310.gq | No |
 | okadajp.org | No |
 | okaminet.xyz | No |
 | okapi.website | No |
@@ -18552,6 +18553,7 @@ Here's a list of public Fediverse services.
 | syma.social | No |
 | symbolic.city | No |
 | symbolic.website | Yes |
+| symdon.info | Yes |
 | symphonie-of-code.fr | No |
 | syn.haus | No |
 | syn.im | No |
@@ -19737,7 +19739,7 @@ Here's a list of public Fediverse services.
 | treethought.com | No |
 | treffast.no | No |
 | treffler.cloud | Yes |
-| trendcreate.net | Yes |
+| trendcreate.net | No |
 | trendless.ca | Yes |
 | tret.jp | Yes |
 | tretkowski.de | No |
@@ -22046,7 +22048,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,447 |
-| Normal | 17,555 |
+| Normal | 17,557 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
