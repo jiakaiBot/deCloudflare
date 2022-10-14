@@ -11480,6 +11480,7 @@ Here's a list of public Fediverse services.
 | mastodon.art | No |
 | mastodon.asia | No |
 | mastodon.at | No |
+| mastodon.au | No |
 | mastodon.barcelona | No |
 | mastodon.bayern | Yes |
 | mastodon.berlin | No |
@@ -22056,7 +22057,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,452 |
-| Normal | 17,560 |
+| Normal | 17,561 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
