@@ -4920,7 +4920,7 @@ Here's a list of public Fediverse services.
 | duck.cf | No |
 | duck.haus | No |
 | duckchat.me | No |
-| duckdns.org | No |
+| duckdns.org | Yes |
 | ducksareawesome.net | No |
 | ducnn.com | Yes |
 | dudebronation.com | No |
@@ -11598,6 +11598,7 @@ Here's a list of public Fediverse services.
 | mastodon.space | No |
 | mastodon.su | No |
 | mastodon.systems | No |
+| mastodon.tech | No |
 | mastodon.technology | No |
 | mastodon.to | No |
 | mastodon.tokyo | No |
@@ -22057,7 +22058,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,452 |
+| Cloudflare | 4,453 |
 | Normal | 17,562 |
 
 
