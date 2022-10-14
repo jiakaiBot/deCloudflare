@@ -11,7 +11,7 @@ service provider via online chat, voice over IP, and videotelephony.
 ```
 
 
-Here's a list of public Fediverse services.
+Here's a list of public Matrix services.
 
 
 [//]: # (start replacement)
