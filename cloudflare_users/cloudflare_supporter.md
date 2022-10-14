@@ -4454,6 +4454,7 @@ Do not create new issue or we will close it as duplicate.
 | [kevilhau@twitter](https://twitter.com/kevilhau/status/1381681452455108609) | advertise |
 | [Kevin46689475@twitter](https://twitter.com/Kevin46689475/status/1562144682427224066) | advertise |
 | [KevinCa23673515@twitter](https://twitter.com/KevinCa23673515/status/1515993450872819712) | advertise |
+| [KevinHa57999492@twitter](https://twitter.com/KevinHa57999492/status/1580977476578467841) | advertise |
 | [kevinivander17@twitter](https://twitter.com/kevinivander17/status/1554045664769687553) | advertise |
 | [KevinMika7@twitter](https://twitter.com/KevinMika7/status/1387491734066696192) | advertise |
 | [KevinNg80013767@twitter](https://twitter.com/KevinNg80013767/status/1553340150469443584) | advertise |
@@ -6148,6 +6149,7 @@ Do not create new issue or we will close it as duplicate.
 | [MrNorudo@twitter](https://twitter.com/MrNorudo/status/1404839721906311169) | advertise |
 | [mrosero@twitter](https://twitter.com/mrosero/status/1487863074866479109) | advertise |
 | [MrRocketFX@twitter](https://twitter.com/MrRocketFX/status/1439425081332076549) | advertise |
+| [mrsam1ir@twitter](https://twitter.com/mrsam1ir/status/1580979762847105030) | advertise |
 | [MrShineHtooAung@twitter](https://twitter.com/MrShineHtooAung/status/1392637037451235336) | advertise |
 | [MrSilvaEdu@twitter](https://twitter.com/MrSilvaEdu/status/1506046207881273351) | advertise |
 | [MrSp0t@twitter](https://twitter.com/MrSp0t/status/1386835114705911810) | advertise |
