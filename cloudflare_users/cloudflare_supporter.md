@@ -1856,6 +1856,7 @@ Do not create new issue or we will close it as duplicate.
 | [cryptoguy202111@twitter](https://twitter.com/cryptoguy202111/status/1401154202269884417) | advertise |
 | [cryptolinx1@twitter](https://twitter.com/cryptolinx1/status/1528762892845207552) | advertise |
 | [Cryptolover10@twitter](https://twitter.com/Cryptolover10/status/1394207496680579072) | advertise |
+| [CryptoMiniLover@twitter](https://twitter.com/CryptoMiniLover/status/1580809758910558208) | advertise |
 | [CryptoNinjaAF@twitter](https://twitter.com/CryptoNinjaAF/status/1400088557633654788) | advertise |
 | [cryptoreview_ai@twitter](https://twitter.com/cryptoreview_ai/status/1418363307807842305) | advertise |
 | [CryptoRishabh@twitter](https://twitter.com/CryptoRishabh/status/1373489721876213762) | advertise |
@@ -4615,8 +4616,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -9406,6 +9407,7 @@ Do not create new issue or we will close it as duplicate.
 | [tmyt@twitter](https://twitter.com/tmyt/status/1485215880183427076) | advertise |
 | [TN17399667@twitter](https://twitter.com/TN17399667/status/1407381111026503691) | advertise |
 | [Tn53238186@twitter](https://twitter.com/Tn53238186/status/1403733922152730627) | advertise |
+| [Tn83771815@twitter](https://twitter.com/Tn83771815/status/1580808870154637317) | advertise |
 | [Tn89965871@twitter](https://twitter.com/Tn89965871/status/1402275670709915655) | advertise |
 | [TngHong14@twitter](https://twitter.com/TngHong14/status/1386325819891482627) | advertise |
 | [TngLi34015815@twitter](https://twitter.com/TngLi34015815/status/1554003584039415809) | advertise |
