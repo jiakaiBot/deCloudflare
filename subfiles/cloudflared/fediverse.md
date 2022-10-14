@@ -3755,7 +3755,7 @@ Here's a list of public Fediverse services.
 | cryptosocial.site | No |
 | cryptotooter.com | No |
 | cryptoworld.is | Yes |
-| cryptstore.cloud | Yes |
+| cryptstore.cloud | No |
 | crystal-lang.social | Yes |
 | crystal.computer | No |
 | crystalyx.net | Yes |
@@ -21636,6 +21636,7 @@ Here's a list of public Fediverse services.
 | ycros.org | Yes |
 | ydkn.social | Yes |
 | yeahnahcunt.club | No |
+| yeahnet.dev | Yes |
 | yeatsj.com | No |
 | yeeehaw.club | No |
 | yeehaw.town | No |
@@ -22057,7 +22058,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,452 |
-| Normal | 17,561 |
+| Normal | 17,562 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
