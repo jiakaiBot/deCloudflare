@@ -247,6 +247,7 @@ Do not create new issue or we will close it as duplicate.
 | [acme_subrosea@twitter](https://twitter.com/acme_subrosea/status/1381623108667207685) | advertise |
 | [actiniumcloud_@twitter](https://twitter.com/actiniumcloud_/status/1504512101678780420) | advertise |
 | [activeboyz1990@twitter](https://twitter.com/activeboyz1990/status/1377228831694655489) | advertise |
+| [ActiveTK5929@twitter](https://twitter.com/ActiveTK5929/status/1580894930225885184) | advertise |
 | [activism.openworlds.info](https://activism.openworlds.info/) | by muting account status without warning & showed hostility |
 | [act_nation_@twitter](https://twitter.com/act_nation_/status/1571471096708218884) | advertise |
 | [acu05047849@twitter](https://twitter.com/acu05047849/status/1471678185070755840) | advertise |
@@ -4617,8 +4618,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
