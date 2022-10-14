@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error 10054 when program runs for longer durations, and 404 stops.](https://github.com/Wulfre/e621dl/issues/48)
 - [Can't connect to vyneer.me on first load](https://github.com/vyneer/dgg-chat-gui-scripts/issues/54)
 - [Internal Server Error happened to Cloudflare Workers with cf official redirect](https://github.com/honojs/hono/issues/600)
 - [Extremely weird ngrok/cloudflared thingy error tunneler thing](https://github.com/KasRoudra/PyPhisher/issues/148)
