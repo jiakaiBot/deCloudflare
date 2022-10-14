@@ -122,11 +122,13 @@ alertdirect.omgeo.net
 api-cat-1.orientsys.com.au
 api.offsite-cko.com
 api.ooba.co.za
+api.overdrive.com
 api.owxd.xyz
 apigw.ontidwit.com
 app.response.oracle-mail.com
 auth.ookamikun.tv
 bankmandiri.omnimoz.com
+bhushand.onlinegoogleadscourse.com
 bibliography.oxfordarchaeology.com
 cdcbeacon.epm.us2.oraclecloud.com
 click.mail.onedrive.com
@@ -141,11 +143,13 @@ digital-camscanner.onelink.me
 discord.opendarkwing.com
 docusign.onelink.me
 easyshare.opp.vic.gov.au
+ebanking.ocbcwhhk.com
 eboy.fs.em2.oraclecloud.com
 efact-bo.opco-atlas.fr
 ekyc01.oceanbank.vn
 etbfsi.onelink.me
 events.orangebowl.org
+fa-eqbm-saasfaprod1.fa.ocs.oraclecloud.com
 fed.octanner.net
 fr.okaidi.be
 front-api.a.onein.cn
@@ -166,9 +170,11 @@ mail.osterreicherflirtbook.com
 mail.otto-schneider.de
 mail.ourpurchasemart.online
 mailbird.onfastspring.com
+masnuruliman.ourmadrasahacut.my.id
 mebin-runner.eq.gcp.onsdigital.uk
 mili-to.owst.jp
 mini-app-ev-charge-server-service.twallet-jp.opn.dev
+nayans.onlinegoogleadscourse.com
 netflix.openplayapp.com
 oakchokerfumes.com
 objectstorage.eu-frankfurt-1.oraclecloud.com
@@ -180,6 +186,7 @@ obsteslieburvey.com
 ocfkhowq.gq
 offergate-apps-actual.com
 ogoedcfl.cf
+ohart.wiki
 oigduusrva.com
 oilandgasservice.com
 okolotepla.com.ua
@@ -200,8 +207,11 @@ opt-nesti.com.ua
 oqhkcfcz.ml
 orbank.ru
 order9236.biz
+orderedtabs247.com
+origgin.net
 originalsecurity.ga
 osterreicherflirtbook.com
+otlekcfx.gq
 ottway.com
 ourpurchasemart.online
 oussaute.net
@@ -214,6 +224,7 @@ prod02-web.ordana.de
 ptelkinjayaabadi.com.orangeflasher.com
 rakuten-jp.olme.cn
 rol.osr.wa.gov.au
+rtb.openx.net
 samiashop.osdemo.nl
 scfleetservices.o2conline.co.uk
 smc-link.s4hana.ondemand.com
@@ -228,6 +239,7 @@ vpn.oxleas.nhs.uk
 w2.outlook.com
 web.olvid.io
 webdisk.onlinemoneygorilla.com
+webmail.orangecoin.shop
 webservices.optimalpayments.com
 whatsapp.over9k.com.br
 www.aecid.otc.cr
@@ -247,6 +259,7 @@ www.olivierhammam.fr
 www.onco-safe.com
 www.online-accounting.co.uk
 www.onlineservicetec.com
+www.onpointcomputerrepairs.com.au
 www.optimalthinking.com
 www.opusanglicanumembroidery.com
 www.order9236.biz
