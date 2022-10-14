@@ -31,9 +31,11 @@ zumzumar.com
 zxcdn.com
 api.zodomus.com
 cdn.zero-trust-security.de
+click.mail2.zocdoc.com
 gateway.zscalertwo.net
 idp.saas.zeb-it.de
 m7.caixabank.zinsprofi.de
+mail.zasgroup.com
 paypal.com.zd-league.com
 secure-paypal-access-login-confirm-account.zmgconsulting.co.za
 servicedesk.zuehlke.com
@@ -42,10 +44,12 @@ static.gov.zw12345.com
 testapi.zimicn.com
 video.zuoyebang.cc
 www.accountabuddy.zeromedia.com.au
+www.apply.zarnab.pk
 www.client-analytics.zerrohost.com
 www.client.rdtcap.zahid.com.bd
 www.zaguri-reinigungsservice.de
 www.ziplocal.ca
+www.zocdoc.com
 www.zwilnik.com
 zabavashop.in.ua
 zahid-agromiks.com.ua
@@ -53,7 +57,9 @@ zaiflyer.com
 zarapost.id
 zcomm.org
 zdw41pmj.cn
+zenontreeservice.com
 zernyatko.in.ua
+zesumme-spueren.lu
 zjazdordynatorow.pl
 zmaildirect.com
 znsrc.com
