@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,167 |
+| com | 3,168 |
 | net | 1,745 |
 | org | 1,221 |
 | social | 1,198 |
@@ -4280,7 +4280,7 @@ Here's a list of public Fediverse services.
 | deepweb.eu | No |
 | deepzero.net | No |
 | deerfieldmartc.com | No |
-| deerofnara.net | No |
+| deerofnara.net | Yes |
 | def.social | No |
 | defenders.town | Yes |
 | deffo.com.au | Yes |
@@ -5878,6 +5878,7 @@ Here's a list of public Fediverse services.
 | fedisaur.us | No |
 | fediscience.org | No |
 | fediserve.de | No |
+| fediski.com | Yes |
 | fedisnap.com | Yes |
 | fedispace.fr | No |
 | fedispace.ml | No |
@@ -5892,7 +5893,7 @@ Here's a list of public Fediverse services.
 | fediuni.xyz | Yes |
 | fedive.rs | No |
 | fediver.se | No |
-| fedivers.net | No |
+| fedivers.net | Yes |
 | fediverse-lite.com | Yes |
 | fediverse.berlin | No |
 | fediverse.blog | No |
@@ -6190,7 +6191,7 @@ Here's a list of public Fediverse services.
 | flussnoten.de | No |
 | fly.dev | No |
 | flyand.chat | Yes |
-| flyaway.city | No |
+| flyaway.city | Yes |
 | flying-snail.de | No |
 | flyingcube.tech | No |
 | flytandemeistring.space | No |
@@ -8370,7 +8371,7 @@ Here's a list of public Fediverse services.
 | igreally.social | No |
 | igu.fi | Yes |
 | igualdad.cf | No |
-| iguanodon.net | No |
+| iguanodon.net | Yes |
 | igwigg.space | No |
 | igyigy.com | No |
 | ihatebeinga.live | Yes |
@@ -16262,6 +16263,7 @@ Here's a list of public Fediverse services.
 | relapsus.com | No |
 | relay.soy | No |
 | relaychat.party | No |
+| relict.one | Yes |
 | relict.space | No |
 | remark.as | No |
 | remarkably.social | Yes |
@@ -22058,8 +22060,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,453 |
-| Normal | 17,562 |
+| Cloudflare | 4,459 |
+| Normal | 17,558 |
 
 
-### 20.2% of public Fediverse services are using Cloudflare.
+### 20.3% of public Fediverse services are using Cloudflare.
