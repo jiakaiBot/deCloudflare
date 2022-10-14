@@ -176,7 +176,7 @@ If your website is on this list, you better talk with your network administrator
 
 Are you sure? There are two ways to remove yourself.
 First option is just _*remove* it from the list_ and _create a pull request_.
-Second option is _wait 4 months_. Our system will revisit your website as a Tor user.
+Second option is _wait 3 months_. Our system will revisit your website as a Tor user.
 
 If you're not blocking Tor users you will be removed automatically.
 
