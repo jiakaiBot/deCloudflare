@@ -371,6 +371,7 @@ Do not create new issue or we will close it as duplicate.
 | [aibos_Hodl@twitter](https://twitter.com/aibos_Hodl/status/1388969919740514306) | advertise |
 | [aido36449809@twitter](https://twitter.com/aido36449809/status/1470779906057547786) | advertise |
 | [aihps@twitter](https://twitter.com/aihps/status/1379747437770801153) | advertise |
+| [Aiman9485805893@twitter](https://twitter.com/Aiman9485805893/status/1580871351073935360) | advertise |
 | [Aimanfi96226499@twitter](https://twitter.com/Aimanfi96226499/status/1397104510128975872) | advertise |
 | [AimanPatwary@twitter](https://twitter.com/AimanPatwary/status/1469638121310461959) | advertise |
 | [AimzBryan@twitter](https://twitter.com/AimzBryan/status/1387214969381560321) | advertise |
@@ -5409,6 +5410,7 @@ Do not create new issue or we will close it as duplicate.
 | [M1kimerlan1@twitter](https://twitter.com/M1kimerlan1/status/1570147993810272258) | advertise |
 | [m1lo20@twitter](https://twitter.com/m1lo20/status/1391605926424109056) | advertise |
 | [M2M07044707@twitter](https://twitter.com/M2M07044707/status/1397223341346394112) | advertise |
+| [M7Dgc@twitter](https://twitter.com/M7Dgc/status/1580870778941472768) | advertise |
 | [m9mG0VxgkzrPWIf@twitter](https://twitter.com/m9mG0VxgkzrPWIf/status/1392509254993469442) | advertise |
 | [m414gold12@twitter](https://twitter.com/m414gold12/status/1379624576355688448) | advertise |
 | [M773776@twitter](https://twitter.com/M773776/status/1556245643483484161) | advertise |
