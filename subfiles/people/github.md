@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Can't connect to vyneer.me on first load](https://github.com/vyneer/dgg-chat-gui-scripts/issues/54)
 - [Internal Server Error happened to Cloudflare Workers with cf official redirect](https://github.com/honojs/hono/issues/600)
 - [Extremely weird ngrok/cloudflared thingy error tunneler thing](https://github.com/KasRoudra/PyPhisher/issues/148)
 - [BlogTruyen source can't update new chapter](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/13842)
