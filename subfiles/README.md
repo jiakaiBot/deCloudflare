@@ -93,6 +93,7 @@
     - [How many % of public social media are using Cloudflare?](cloudflared/socialmedia.md)
     - [How many % of public Fediverse services are using Cloudflare?](cloudflared/fediverse.md)
       - [How many % of links people publicly shared on Mastodon are using Cloudflare?](cloudflared/shared_mastodon.md)
+    - [How many % of public Matrix services are using Cloudflare?](cloudflared/matrix.md)
   - `Software, Public API`
     - [How many % of SSL certificates are issued to Cloudflare sites?](cloudflared/ssl_certificate.md)
     - [How many % of Mozilla's Root CAs are using Cloudflare?](cloudflared/mozilla_rootca.md)
