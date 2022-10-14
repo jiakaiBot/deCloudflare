@@ -5711,6 +5711,7 @@ Do not create new issue or we will close it as duplicate.
 | [meisora175@twitter](https://twitter.com/meisora175/status/1522414345241567232) | advertise |
 | [meistaGG@twitter](https://twitter.com/meistaGG/status/1545610894993788928) | advertise |
 | [melekmedia@twitter](https://twitter.com/melekmedia/status/1450818039193104393) | advertise |
+| [Melisabarbie67@twitter](https://twitter.com/Melisabarbie67/status/1580794633092669441) | advertise |
 | [melissaaavelaaa@twitter](https://twitter.com/melissaaavelaaa/status/1389163238466756608) | advertise |
 | [MellowSpun@twitter](https://twitter.com/MellowSpun/status/1497652387502297090) | advertise |
 | [MellowzNguyen@twitter](https://twitter.com/MellowzNguyen/status/1391458316803444741) | advertise |
@@ -6021,6 +6022,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mohamedelkashi9@twitter](https://twitter.com/Mohamedelkashi9/status/1388179515256541189) | advertise |
 | [Mohamed_Mifzaal@twitter](https://twitter.com/Mohamed_Mifzaal/status/1550505846899363841) | advertise |
 | [mohametsaah@twitter](https://twitter.com/mohametsaah/status/1550691087441727488) | advertise |
+| [mohamma07139811@twitter](https://twitter.com/mohamma07139811/status/1580805713106198528) | advertise |
 | [Mohamma17583661@twitter](https://twitter.com/Mohamma17583661/status/1489043097405333506) | advertise |
 | [Mohamma28513503@twitter](https://twitter.com/Mohamma28513503/status/1556034699558096897) | advertise |
 | [Mohamma37924942@twitter](https://twitter.com/Mohamma37924942/status/1387317795625504769) | advertise |
