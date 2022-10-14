@@ -352,6 +352,7 @@ Do not create new issue or we will close it as duplicate.
 | [AhmedGa90400768@twitter](https://twitter.com/AhmedGa90400768/status/1378080868938493956) | advertise |
 | [AhmedHu05262654@twitter](https://twitter.com/AhmedHu05262654/status/1478283890485653504) | advertise |
 | [AhmedMahadi005@twitter](https://twitter.com/AhmedMahadi005/status/1552921613641056256) | advertise |
+| [Ahmedmo54164547@twitter](https://twitter.com/Ahmedmo54164547/status/1580697489463988224) | advertise |
 | [Ahmedsa96861316@twitter](https://twitter.com/Ahmedsa96861316/status/1412890312859656192) | moral (advertise) |
 | [AHMEDSAID1993au@twitter](https://twitter.com/AHMEDSAID1993au/status/1558211090525442049) | advertise |
 | [AhmedShojon2@twitter](https://twitter.com/AhmedShojon2/status/1392902773730004993) | advertise |
@@ -1919,6 +1920,7 @@ Do not create new issue or we will close it as duplicate.
 | [DaBestxone@twitter](https://twitter.com/DaBestxone/status/1395588482571980800) | advertise |
 | [dacoto97@twitter](https://twitter.com/dacoto97/status/1424373152558239746) | advertise |
 | [dad4ui@twitter](https://twitter.com/dad4ui/status/1377643341140033540) | advertise |
+| [DaddyAntu@twitter](https://twitter.com/DaddyAntu/status/1580690430777524224) | advertise |
 | [daddyxshot@twitter](https://twitter.com/daddyxshot/status/1385804521532579844) | advertise |
 | [DaEnderz@twitter](https://twitter.com/DaEnderz/status/1523352729846185984) | advertise |
 | [Daene45447688@twitter](https://twitter.com/Daene45447688/status/1398422361183899648) | advertise |
@@ -3622,6 +3624,7 @@ Do not create new issue or we will close it as duplicate.
 | [huybeokute@twitter](https://twitter.com/huybeokute/status/1379461629310509065) | advertise |
 | [huydn12@twitter](https://twitter.com/huydn12/status/1395017615651663873) | advertise |
 | [Huyhoanghuynh05@twitter](https://twitter.com/Huyhoanghuynh05/status/1388289129624981505) | advertise |
+| [HUYHOANGLAVN@twitter](https://twitter.com/HUYHOANGLAVN/status/1580707897066938368) | advertise |
 | [huyjunior1@twitter](https://twitter.com/huyjunior1/status/1518422399389413376) | advertise |
 | [HuyL68129865@twitter](https://twitter.com/HuyL68129865/status/1398308580957122564) | advertise |
 | [huylba123@twitter](https://twitter.com/huylba123/status/1397769207337558023) | advertise |
@@ -4612,8 +4615,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
