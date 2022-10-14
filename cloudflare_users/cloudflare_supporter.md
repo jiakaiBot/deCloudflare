@@ -5611,6 +5611,7 @@ Do not create new issue or we will close it as duplicate.
 | [maung_point@twitter](https://twitter.com/maung_point/status/1391606588671086592) | advertise |
 | [mavesCSGO@twitter](https://twitter.com/mavesCSGO/status/1563093541223428096) | advertise |
 | [mawmet@twitter](https://twitter.com/mawmet/status/1457094348479291394) | advertise |
+| [maw_ta@twitter](https://twitter.com/maw_ta/status/1580951178325942272) | advertise |
 | [Max80893001@twitter](https://twitter.com/Max80893001/status/1387188885130813450) | advertise |
 | [MaxDilan10@twitter](https://twitter.com/MaxDilan10/status/1506011770242334720) | advertise |
 | [maximum_speed1@twitter](https://twitter.com/maximum_speed1/status/1400619592158953478) | advertise |
