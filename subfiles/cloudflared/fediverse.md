@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,168 |
-| net | 1,745 |
+| com | 3,169 |
+| net | 1,746 |
 | org | 1,221 |
 | social | 1,198 |
 | de | 1,040 |
@@ -13316,6 +13316,7 @@ Here's a list of public Fediverse services.
 | neris.jp | No |
 | neritodon.xyz | No |
 | nero.tf | No |
+| nertzy.com | Yes |
 | nerv-project.eu | No |
 | nervestaple.com | No |
 | nesakko.xyz | No |
@@ -14221,7 +14222,7 @@ Here's a list of public Fediverse services.
 | oomfi.es | No |
 | oook.fr | No |
 | oopsall.gay | Yes |
-| oopscommand.com | Yes |
+| oopscommand.com | No |
 | oortcloud.online | No |
 | oour.org | No |
 | ooxxcc.com | Yes |
@@ -20682,6 +20683,7 @@ Here's a list of public Fediverse services.
 | voidlurker.net | No |
 | voidptr.org | No |
 | voidptr.wtf | No |
+| voidsight.net | Yes |
 | voidwood.online | No |
 | volaras.net | No |
 | volcanocoffee.monster | Yes |
@@ -22060,8 +22062,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,459 |
-| Normal | 17,558 |
+| Cloudflare | 4,460 |
+| Normal | 17,559 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
