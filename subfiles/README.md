@@ -97,6 +97,7 @@
     - [How many % of SSL certificates are issued to Cloudflare sites?](cloudflared/ssl_certificate.md)
     - [How many % of Mozilla's Root CAs are using Cloudflare?](cloudflared/mozilla_rootca.md)
     - [How many % of F-Droid mirror sites are using Cloudflare?](cloudflared/fdroid_mirrors.md)
+    - [How many % of WHOIS services are using Cloudflare?](cloudflared/whois.md)
   - [How many % of DNS Census (2013) are using Cloudflare?](cloudflared/dns_census_2013.md)
   - [How many % of Fortune 1000 companies are using Cloudflare?](cloudflared/fortune1000.md)
   - [How many % of public Git services are using Cloudflare?](cloudflared/gitservices.md)
