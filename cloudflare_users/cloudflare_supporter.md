@@ -5966,6 +5966,7 @@ Do not create new issue or we will close it as duplicate.
 | [mmfootballmm@twitter](https://twitter.com/mmfootballmm/status/1380215958082441218) | advertise |
 | [mmi123456@twitter](https://twitter.com/mmi123456/status/1572690037120143363) | advertise |
 | [MMK22797499@twitter](https://twitter.com/MMK22797499/status/1391278481300938752) | advertise |
+| [MMM35890595@twitter](https://twitter.com/MMM35890595/status/1580990535702937600) | advertise |
 | [mmm62021011@twitter](https://twitter.com/mmm62021011/status/1560300025908891648) | advertise |
 | [mmmaung@twitter](https://twitter.com/mmmaung/status/1401204089451552770) | advertise |
 | [mmmh_owner@twitter](https://twitter.com/mmmh_owner/status/1404461120916656130) | advertise |
@@ -6674,6 +6675,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguynMi62398210@twitter](https://twitter.com/NguynMi62398210/status/1382646184162988033) | advertise |
 | [NguynNg44735420@twitter](https://twitter.com/NguynNg44735420/status/1380197304909529089) | advertise |
 | [NguynNg49138866@twitter](https://twitter.com/NguynNg49138866/status/1499054625361563648) | advertise |
+| [NguynNh10493732@twitter](https://twitter.com/NguynNh10493732/status/1580997637012324352) | advertise |
 | [Nguynnh20534090@twitter](https://twitter.com/Nguynnh20534090/status/1388668535379881986) | advertise |
 | [NguynNh50930915@twitter](https://twitter.com/NguynNh50930915/status/1377310661793914884) | advertise |
 | [nguynnh95973066@twitter](https://twitter.com/nguynnh95973066/status/1407583061483540480) | advertise |
