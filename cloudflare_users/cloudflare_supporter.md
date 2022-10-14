@@ -2418,6 +2418,7 @@ Do not create new issue or we will close it as duplicate.
 | [echebukati@twitter](https://twitter.com/echebukati/status/1466131790603685892) | advertise |
 | [Echo_d_bot@twitter](https://twitter.com/Echo_d_bot/status/1512432565562531842) | advertise |
 | [EclecticBeaver@twitter](https://twitter.com/EclecticBeaver/status/1494050303074836494) | advertise |
+| [EclecticEvelyn@twitter](https://twitter.com/EclecticEvelyn/status/1581011406270308352) | advertise |
 | [ecl_VB@twitter](https://twitter.com/ecl_VB/status/1431346378647773187) | advertise |
 | [Eddie086666@twitter](https://twitter.com/Eddie086666/status/1391423420689047565) | advertise |
 | [eddy97_dee7@twitter](https://twitter.com/eddy97_dee7/status/1478756242415710212) | advertise |
@@ -4620,8 +4621,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6091,6 +6092,7 @@ Do not create new issue or we will close it as duplicate.
 | [monteamadison@twitter](https://twitter.com/monteamadison/status/1379055330949275654) | advertise |
 | [MonXtun@twitter](https://twitter.com/MonXtun/status/1390310425531621377) | advertise |
 | [Monzer08634001@twitter](https://twitter.com/Monzer08634001/status/1388894211685052416) | advertise |
+| [Mood0ff@twitter](https://twitter.com/Mood0ff/status/1581006712135290881) | advertise |
 | [moonb3rry@twitter](https://twitter.com/moonb3rry/status/1390964447842344964) | advertise |
 | [MoonDas41181283@twitter](https://twitter.com/MoonDas41181283/status/1393096654413197315) | advertise |
 | [moonfoxxxxxx@twitter](https://twitter.com/moonfoxxxxxx/status/1401547509189681155) | advertise |
