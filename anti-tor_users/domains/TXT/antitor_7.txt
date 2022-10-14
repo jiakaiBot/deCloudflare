@@ -1,3 +1,4 @@
 7news.com.au
 myship.7-11.com.tw
 79xmz3lmss.com
+loyalty-qa-api.7eleven.com.my
