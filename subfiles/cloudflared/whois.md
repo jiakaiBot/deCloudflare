@@ -5,15 +5,13 @@ We downloaded the WHOIS Domains from [IANA](https://www.iana.org) and filter out
 Here's the result.
 
 
-[//]: # (start replacement)
-
 
 - Cloudflare %
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | x |
-| Normal | y |
+| Cloudflare | 18 |
+| Normal | 476 |
 
 
-### x% of WHOIS servers are using Cloudflare.
+### 3.6% of WHOIS services are using Cloudflare.
