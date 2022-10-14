@@ -8083,6 +8083,7 @@ Here's a list of public Fediverse services.
 | hormonzicken.party | Yes |
 | horner.tj | Yes |
 | horns.by | Yes |
+| hornyjail.pro | No |
 | horrific.dev | Yes |
 | horse.band | No |
 | horsecr.app | No |
@@ -12826,6 +12827,7 @@ Here's a list of public Fediverse services.
 | muga.xyz | No |
 | mugicha.club | No |
 | mugwort.xyz | No |
+| muh.wang | No |
 | muhroads.net | No |
 | muhroads.party | No |
 | muina.me | No |
@@ -22063,7 +22065,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,460 |
-| Normal | 17,559 |
+| Normal | 17,561 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
