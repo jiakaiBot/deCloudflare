@@ -6,7 +6,7 @@ Here's the result.
 
 [//]: # (start replacement)
 
-- Cloudflare %
+- Cloudflare1 %
 
 | Type | Count |
 | --- | --- |
