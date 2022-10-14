@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-18: [ORK (Cork) on 2022-10-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qxt28758tpw0)
 - 2022-10-17: [ORK (Cork) on 2022-10-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6lk1m7274kp5)
 - 2022-10-13: [Increased 5xx errors in Atlanta](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7sgkcjbnmsmn)
 - 2022-10-17: [DFW (Dallas) on 2022-10-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/900cpnm2vtwm)
