@@ -9532,6 +9532,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tristan11917357@twitter](https://twitter.com/Tristan11917357/status/1386201834537340929) | advertise |
 | [Triu48585495@twitter](https://twitter.com/Triu48585495/status/1397062708571242496) | advertise |
 | [TrkanLukas@twitter](https://twitter.com/TrkanLukas/status/1383167217907478531) | advertise |
+| [Trn10391150Minh@twitter](https://twitter.com/Trn10391150Minh/status/1580722871990878208) | advertise |
 | [TrncMin97936215@twitter](https://twitter.com/TrncMin97936215/status/1519458517748359168) | advertise |
 | [trndtrader@twitter](https://twitter.com/trndtrader/status/1499022857929637890) | advertise |
 | [Trng994@twitter](https://twitter.com/Trng994/status/1494841748698599425) | advertise |
