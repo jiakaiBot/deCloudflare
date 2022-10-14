@@ -10615,6 +10615,7 @@ Do not create new issue or we will close it as duplicate.
 | [zierhut_alex@twitter](https://twitter.com/zierhut_alex/status/1439574775727333379) | advertise |
 | [zikintong@twitter](https://twitter.com/zikintong/status/1399674422471000065) | advertise |
 | [zikizac@twitter](https://twitter.com/zikizac/status/1551618644895055872) | advertise |
+| [Zim00444831@twitter](https://twitter.com/Zim00444831/status/1580781886850203648) | advertise |
 | [zin2_myat@twitter](https://twitter.com/zin2_myat/status/1391688138884403202) | advertise |
 | [zinaung05642017@twitter](https://twitter.com/zinaung05642017/status/1399014483066908676) | advertise |
 | [ZinBoWin16@twitter](https://twitter.com/ZinBoWin16/status/1397036266697363458) | advertise |
@@ -10670,6 +10671,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZookgyiG@twitter](https://twitter.com/ZookgyiG/status/1392647332592644096) | advertise |
 | [Zorrow_kzz@twitter](https://twitter.com/Zorrow_kzz/status/1531717541021761541) | advertise |
 | [Zosia57710493@twitter](https://twitter.com/Zosia57710493/status/1384735879755751429) | advertise |
+| [ZOsrati@twitter](https://twitter.com/ZOsrati/status/1580790269838249984) | advertise |
 | [Zotac159@twitter](https://twitter.com/Zotac159/status/1569562984921579520) | advertise |
 | [zozozo65286220@twitter](https://twitter.com/zozozo65286220/status/1555692585901035521) | advertise |
 | [ZPyiphyo@twitter](https://twitter.com/ZPyiphyo/status/1386897802408566787) | advertise |
