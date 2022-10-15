@@ -101,13 +101,14 @@ Here's a list of public Matrix services.
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
 | privex.io | Yes |
-| matrix.pub.solar | No |
 | matrix.qoto.org | No |
 | radiowarnerd.org | No |
 | riotchat.de | Yes |
 | ru-matrix.org | No |
 | matrix.sans-nuage.fr | No |
 | matrix.scyldings.com | No |
+| matrix.sfunk1x.com | No |
+| matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
 | matrix.studichat.de | No |
 | synod.im | No |
@@ -132,7 +133,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 21 |
-| Normal | 83 |
+| Normal | 84 |
 
 
-### 20.2% of public Matrix services are using Cloudflare.
+### 20% of public Matrix services are using Cloudflare.
