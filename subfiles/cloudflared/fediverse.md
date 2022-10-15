@@ -16313,6 +16313,7 @@ Here's a list of public Fediverse services.
 | reputatio.us | No |
 | res.ac | No |
 | resampling.net | No |
+| researchanddestroy.technology | No |
 | reseau.education | No |
 | reseaujaune.com | No |
 | reseaumarseillais.com | No |
@@ -22079,7 +22080,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,465 |
-| Normal | 17,570 |
+| Normal | 17,571 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
