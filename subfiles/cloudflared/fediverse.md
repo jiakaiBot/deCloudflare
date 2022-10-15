@@ -3792,6 +3792,7 @@ Here's a list of public Fediverse services.
 | cuban.social | Yes |
 | cubeworld.de | No |
 | cucked.me | Yes |
+| cuddlegirls.cafe | No |
 | cuddlesarethebest.cf | No |
 | cuddleso.me | No |
 | cuddlr.org | No |
@@ -22069,7 +22070,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,463 |
-| Normal | 17,562 |
+| Normal | 17,563 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
