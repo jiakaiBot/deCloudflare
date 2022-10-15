@@ -3909,6 +3909,7 @@ Do not create new issue or we will close it as duplicate.
 | [jAbdullahMughal@twitter](https://twitter.com/jAbdullahMughal/status/1477590087437279232) | advertise |
 | [jaberalipur@twitter](https://twitter.com/jaberalipur/status/1580619614689824768) | advertise |
 | [Jabinhossain@twitter](https://twitter.com/Jabinhossain/status/1541025396141232128) | advertise |
+| [jack14606576@twitter](https://twitter.com/jack14606576/status/1581391167974821890) | advertise |
 | [Jack21896821@twitter](https://twitter.com/Jack21896821/status/1538019802752913408) | advertise |
 | [JACK63552523@twitter](https://twitter.com/JACK63552523/status/1400836452087255041) | advertise |
 | [JackChung1021@twitter](https://twitter.com/JackChung1021/status/1485991171436736512) | advertise |
@@ -5992,6 +5993,7 @@ Do not create new issue or we will close it as duplicate.
 | [moaminsol@twitter](https://twitter.com/moaminsol/status/1389099210008584193) | advertise |
 | [moatasemzreg@twitter](https://twitter.com/moatasemzreg/status/1380864049727037443) | advertise |
 | [moaz26943193@twitter](https://twitter.com/moaz26943193/status/1386781541536210946) | advertise |
+| [Mobareze_Azadi2@twitter](https://twitter.com/Mobareze_Azadi2/status/1581394080588001281) | advertise |
 | [MobBean@twitter](https://twitter.com/MobBean/status/1553300701463207937) | advertise |
 | [mobinaa92462540@twitter](https://twitter.com/mobinaa92462540/status/1579404365051613185) | advertise |
 | [mochi33i@twitter](https://twitter.com/mochi33i/status/1566351957778124800) | advertise |
