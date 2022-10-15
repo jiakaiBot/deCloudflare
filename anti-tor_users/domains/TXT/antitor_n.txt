@@ -140,6 +140,7 @@ account.netwealth.com.au
 acw.nestlewaters.ae
 adfs01.iso.noaa.gov
 api.devel.nanoo.tv
+api.drmy.nsso.gov.ie
 api.nativechat.com
 api.neonemails.com
 api.nuget.org
@@ -169,8 +170,10 @@ hls-playlist.novotelecom.ru
 hunty.nestorconejero.com
 hydra.nmsu.edu
 info.namify.com
+ip232.208-100-26.static.steadfastdns.net.newstula.ru
 irc.nebulance.cc
 j1xuqhdzblio9hc.zchq7jqpym9lr2h.test.outlook.nsmk.no
+jameson.netrisk.hu
 kao-sv.nec-bizplace.jp
 login.neic.club
 loginfs.ntu.edu.sg
@@ -184,13 +187,17 @@ naambonder.com
 nabcmg.nab.com.au
 nacele.eu
 nakano-t.jp
+nanoslimxketo.com
 napalmblow.com
 narasipost.com
+nashhosting.co.zw
 nationalcredit.co.uk
 nationalinfrastructurecommission.wales
 naturessupportcbdgummies.net
 naturheilpraxis-hermsdorf.eu
 nauka.bg
+navidion.com
+navier.tech
 naviforce.com.bd
 navigatebenefitsolns.com
 navigatesourcing.com
@@ -201,8 +208,6 @@ nazsecurity.co.uk
 ncihub.org
 nclegionpost71.org
 nespressotracker.nespresso.com
-nestlegroupvip1.com
-nestlegroupvip2.com
 net-security.ro
 netflix-secure-info.fr
 netflixsubscribersalert.com
@@ -240,6 +245,7 @@ ocsp.nca.gov.sg
 ocsp.staging.nca.gov.sg
 onioncat.nauzome.org
 petitienr1medicalsistemsemnatura2.njerunyaga-advocates.com
+phcallbackws.testing.novumbankgroup.com
 phpmyadmin.neboley.click
 portal-pt.nationwideexcessandsurplus.com
 proxy2.ntconference.com
@@ -247,7 +253,9 @@ r8lvchat8x0kuzn.blog.outlook.nordicjs.com
 rao.naisio.info
 rao.naisiro.info
 remote.nsient.com.au
+rezahessini.nitro-cpanel.xyz
 savannah.nongnu.org
+secure-sms-service.testing.novumbankgroup.com
 secure.nilspace.de
 selfserve.northamptonshire.gov.uk
 service.nateon.nate.com
@@ -306,6 +314,7 @@ www.perpus.ngestinugraha.id
 www.postgres.nwwlane.com
 www.quartzoprojetos.com.br.nogueiramarketing.com
 www.support.nirvanatech.com
+www.verifynhb.nhbschool.org
 y4rzp4zwb403-ndc-selling.prod.y4.navitaire.com
 y4rzp4zwb404-ndc-offer-management.prod.y4.navitaire.com
 zitadel.nerd-herd.org
