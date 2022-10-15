@@ -5603,6 +5603,7 @@ Do not create new issue or we will close it as duplicate.
 | [matt_from_burma@twitter](https://twitter.com/matt_from_burma/status/1394596702879850497) | advertise |
 | [matt_gamez@twitter](https://twitter.com/matt_gamez/status/1501569176686764036) | advertise |
 | [matviychukvr@twitter](https://twitter.com/matviychukvr/status/1501276821240832001) | advertise |
+| [mau54458067@twitter](https://twitter.com/mau54458067/status/1581304419584733184) | advertise |
 | [Maumau0608@twitter](https://twitter.com/Maumau0608/status/1478951748517597184) | advertise |
 | [MaungHeinMinHt1@twitter](https://twitter.com/MaungHeinMinHt1/status/1395023600579616770) | advertise |
 | [MaungKa17010812@twitter](https://twitter.com/MaungKa17010812/status/1392907847445323778) | advertise |
