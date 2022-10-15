@@ -5691,7 +5691,7 @@ Here's a list of public Fediverse services.
 | falktx.com | No |
 | falsehood.social | Yes |
 | falsy.cat | Yes |
-| falto.net | No |
+| falto.net | Yes |
 | falx.tech | No |
 | fam-ribbers.com | No |
 | fam.cx | No |
@@ -17693,6 +17693,7 @@ Here's a list of public Fediverse services.
 | smc62.com | No |
 | smeap.com | No |
 | smeets.re | Yes |
+| smelly.today | No |
 | smgle.com | No |
 | smglive.org | No |
 | smickles.com | No |
@@ -22065,7 +22066,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,462 |
+| Cloudflare | 4,463 |
 | Normal | 17,560 |
 
 
