@@ -1108,6 +1108,7 @@ Do not create new issue or we will close it as duplicate.
 | [Baalolenvadi@twitter](https://twitter.com/Baalolenvadi/status/1555616002037383168) | advertise |
 | [BabaDeviant@twitter](https://twitter.com/BabaDeviant/status/1390391826134282246) | advertise |
 | [babaei2@twitter](https://twitter.com/babaei2/status/1578798780086091776) | advertise |
+| [babak_89@twitter](https://twitter.com/babak_89/status/1581073332220272640) | advertise |
 | [babayagaofIndia@twitter](https://twitter.com/babayagaofIndia/status/1394759766845444101) | advertise |
 | [babitea239@twitter](https://twitter.com/babitea239/status/1552152085956661249) | advertise |
 | [BABU32660605@twitter](https://twitter.com/BABU32660605/status/1446809782824751110) | advertise |
@@ -1131,6 +1132,7 @@ Do not create new issue or we will close it as duplicate.
 | [baebaesaja666@twitter](https://twitter.com/baebaesaja666/status/1398980440476708868) | advertise |
 | [BaggyB7@twitter](https://twitter.com/BaggyB7/status/1389914222096576513) | advertise |
 | [BaGyiYe1@twitter](https://twitter.com/BaGyiYe1/status/1395180902947381253) | advertise |
+| [baha13860327@twitter](https://twitter.com/baha13860327/status/1581254886418620419) | advertise |
 | [bahrkoy@twitter](https://twitter.com/bahrkoy/status/1514873983975497732) | advertise |
 | [Bailgaadi_Pilot@twitter](https://twitter.com/Bailgaadi_Pilot/status/1463419001954914306) | advertise |
 | [baimint_minmint@twitter](https://twitter.com/baimint_minmint/status/1393478992653553665) | advertise |
@@ -8165,6 +8167,7 @@ Do not create new issue or we will close it as duplicate.
 | [sang22793@twitter](https://twitter.com/sang22793/status/1399137755326672896) | advertise |
 | [sang200003@twitter](https://twitter.com/sang200003/status/1527484332298104832) | advertise |
 | [Sang19569870@twitter](https://twitter.com/Sang19569870/status/1400110072114548744) | advertise |
+| [Sang38510909@twitter](https://twitter.com/Sang38510909/status/1581232170399846400) | advertise |
 | [Sang45618265@twitter](https://twitter.com/Sang45618265/status/1548230629925392385) | advertise |
 | [sangan1994@twitter](https://twitter.com/sangan1994/status/1553293409435414528) | advertise |
 | [SangBaw80507270@twitter](https://twitter.com/SangBaw80507270/status/1404450860894150657) | advertise |
