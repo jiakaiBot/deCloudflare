@@ -35,8 +35,11 @@ links.quickhelp.com
 myprofile.qasgx.com
 portal-development.qteach.nl
 qa24ljic4i.com
+qmasker.q-api.cloud
 qqcf.cf
 qqplans.test.qantas.com.au
+qsafe.biz
+qsafe.ro
 qualifact.pl
 quantiqsccm.quantiq.com
 quartzsecurity.eu
