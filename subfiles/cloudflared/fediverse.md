@@ -12033,6 +12033,7 @@ Here's a list of public Fediverse services.
 | mew.pm | Yes |
 | mewitoot.de | No |
 | mewl.me | Yes |
+| mewmews.gay | Yes |
 | meww.xyz | No |
 | mexico-pensante.blog | No |
 | mexicosocial.mx | No |
@@ -20643,7 +20644,7 @@ Here's a list of public Fediverse services.
 | vixe.net | Yes |
 | vizcarra.me | No |
 | vkdn.jp | No |
-| vladcampos.eu | No |
+| vladcampos.eu | Yes |
 | vladtepesblog.com | Yes |
 | vlen.org | No |
 | vlenture.org | No |
@@ -22064,8 +22065,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,460 |
-| Normal | 17,561 |
+| Cloudflare | 4,462 |
+| Normal | 17,560 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
