@@ -262,8 +262,11 @@ api.pds.com.ph
 api.pluralkit.me
 apiblocks-dev.prypto.com
 apidr.pds.com.ph
+app.eml.pasternack.com
 app.paprwrk.co
 appapi-ready.playbigbox.com
+asdfdf.pvxt.net
+assetuat.phed.com.ng
 auth.pennycloud.es
 auth.pmatch.cl
 autodiscover.paycorp.co.za
@@ -275,16 +278,21 @@ billing.pd.media
 blg.pelican-style.ru
 blog.blog.test.outlook.printmyvideo.de
 bo.paymentonline515.com
+cardscans.piwigo.com
 cdn2.percipio.com
 charming-davinci.213-190-31-118.plesk.page
+cinematvupdate215.patusaninc.com
 clever-chaum.38-242-152-173.plesk.page
 click.mail.petsmart.com
 click.playstationemail.com
 click.timeofyourlife.pestana.com
+clipp-dev.eu-west-1.aws.pmicloud.biz
 cloud.mail.petsmart.com
 cloud.postosmetta.com.br
 cloudlink.pdk.io
 cnvrge-phoenix-prod1.pegacloud.net
+connexion-pam.part-coam.com
+correospago.page.link
 cpanel.publicdatacheck.cloud
 cskmitl28-discord.prachya.xyz
 cvqaa-prd.eu-west-1.aws.pmicloud.biz
@@ -302,12 +310,14 @@ dev-validatospichincha.pantheonsite.io
 develop-sr3snxi-7xdu643fsovm2.eu-2.platformsh.site
 dew1-share.percipio.com
 discordapp.page.link
+dkd.ptb.de
 dytaxaq.page.link
 eastern-partnership.ptb.de
 ec-plus.panasonic.jp
 ed7g39c5du.page.link
 edetention.pt-semarang.go.id
 ef.postmanlabs-stage.com
+einkauf.ptb.de
 email.email.pandadoc.net
 email.porschegasolinesettlementusa.com
 email.pro-roofs.co
@@ -315,6 +325,7 @@ empir.euramettypo3test.bs.ptb.de
 empir.u99179.bs.ptb.de
 eservice-test.ptb.de
 estaticos-cdn.prensaiberica.es
+euramettypo3test.bs.ptb.de
 euv2011.ptb.de
 ex-info.ptb.de
 ex-inno.ptb.de
@@ -322,6 +333,8 @@ ex-proficiency-testing.ptb.de
 explosionsschutz.ptb.de
 ext-api.pharmacord.com
 feature-di-1230-user-rqs3fuy-qhobd463uhz3w.eu-2.platformsh.site
+fiservsso.fta.popmoney.com
+fmb-ex.ptb.de
 for1447.ptb.de
 fr.petitdyno.com
 gbhverfo.ptb.de
@@ -350,8 +363,10 @@ jy43.page.link
 laudosdeanalise.philozon.com.br
 license.phonics-smart.edu.vn
 lisa.promakemoney.top
+login.printingservicescompany.com
 lucid-galois.109-71-253-24.plesk.page
 mail.pflegezentrum.com
+mail.ptb.de
 mail.pulseadvise.com
 mailing.postbeutel.com
 marvin.ponto25.com
@@ -369,6 +384,7 @@ oadr.powerportal.com
 office.prasac.com.kh
 oms.pulmuonefnc.com
 onedrive.pdsqzlt.tk
+optus-dct-stg1.pegacloud.net
 p-and-s.jp
 p.paxfulvp.com
 pacific-citybank.com
@@ -385,6 +401,7 @@ panyarspan.com
 papersizes.io
 paqueteriadmp.com
 paradoxservice.ro
+paramguvencedesahibinden.cf
 parasindustries.in
 pardedatl.com
 parkmimicfoores.tk
@@ -412,6 +429,7 @@ pellets-uitstekend.nl
 penaatkstationary.com
 peoplepolling.org
 perfectsecurity.ma
+perhbalaracfectser.gq
 perkins-dst.com.ua
 petstime.com
 pfbody.in.ua
@@ -425,6 +443,7 @@ phongthinhdoor.com
 photodemon.org
 phxaf.gay
 phythmrequal.com
+piese-service-tractoare.ro
 pikapuk.com
 pintaria.com.my
 pippio.com
@@ -444,6 +463,7 @@ poloniex-a.ml
 polressiak.id
 poly.me
 pooscouen.plasyzav.tk
+popelyushka.com.ua
 portalmachupicchu.info
 portoseguro.com.br
 portulacaolera.com
@@ -471,6 +491,7 @@ primepositionseo.com
 primewire.org
 prissue-thichroom.icu
 privatewealthsystems.com
+problodi.tk
 probud.se
 productionlist.com
 professionalswebcheck.com
@@ -478,6 +499,7 @@ profipak.com.ua
 profnastil.md
 programmers.co.kr
 progressiveacademy.co.in
+promo-sys.com
 propertyhealthcoach.co.uk
 propugnwhelms.digital
 proticketing.com
@@ -498,7 +520,7 @@ publicidadgoogleads.ga
 pugsgivehugs.com
 pulsartechnologies.com.br
 puntosinfonavit.org
-pureinfotech.com
+purehealthpost.com
 purifiedairservice.com
 purmogak.com
 pursuingreality.com
@@ -520,6 +542,7 @@ scholarlycommons.pacific.edu
 scmv.page.link
 secrsx.page.link
 secure.przelewy24.pl
+securegw.paytm.in
 see.ptb.de
 serviceregister.paymentsway.co
 services.collaudo.plugandpay.it
@@ -547,6 +570,7 @@ udata02.pocketimpulse.com
 use1-prod-notif-tracking.percipio.com
 vladimir.pelican-style.ru
 webdisk.paypal-update-secured.com
+webmail.pachinko-slot-stop.tokyo
 webmail.paypal-update-secured.com
 welcome.professionalwhoswho2023.com
 www.accounting.pakarapp.com
@@ -556,6 +580,7 @@ www.blog.microsoft.pbfl.com
 www.brandish.paketherbal.com
 www.cbiholdings.picachomountain.com
 www.client.pizzaboksi.fi
+www.contact.plugintoscience.com
 www.customerportal.paulinglogin.com
 www.e-forget.pn-negara.go.id
 www.eservice-test.ptb.de
@@ -563,6 +588,7 @@ www.hpvservice-dev.penston.net
 www.lisa.promakemoney.top
 www.mariebeli.paketherbal.com
 www.megumiso.promakemoney.top
+www.newsmedia77.postlajme.net
 www.pacific-citybank.com
 www.pad24.ro
 www.paketlemevreni.cf
@@ -586,6 +612,7 @@ www.phantoms-web.com
 www.pharmacie-toulouse-chiche.com
 www.pharmaciedulycee-toulouse.fr
 www.phillytrib.com
+www.picard-frozen.jp
 www.piecesetmaindoeuvre.com
 www.pittsburghmetrobhs.org
 www.planet-nature.bio
@@ -606,6 +633,7 @@ www.postulatem.com
 www.pourquoidocteur.fr
 www.ppmglobalservices.com
 www.precisesupport.com.au
+www.premierinn.com
 www.premioeuro.com
 www.preprod2-nsjecna-g5yycm3chx2fu.us-3.platformsh.site
 www.pridea.nl
@@ -621,6 +649,7 @@ www.ptb.de
 www.purdueexponent.org
 www.pwc.pl
 www.raftingsungaielo.paketvwborobudur.com
+www.saclws.alobradesco.prebanco.com.br
 www.safelifter.pingstone.com
 www.secure.primaryhost.online
 www.store.phutaidelivery.com
