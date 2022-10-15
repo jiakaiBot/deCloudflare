@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,169 |
-| net | 1,746 |
+| net | 1,747 |
 | org | 1,221 |
 | social | 1,198 |
 | de | 1,040 |
@@ -6572,6 +6572,7 @@ Here's a list of public Fediverse services.
 | fudge.org | Yes |
 | fugadalcontrollo.org | No |
 | fuguri.site | No |
+| fuhlbrueck.net | No |
 | fujii-yuji.net | No |
 | fujimo.top | No |
 | fujita.style | Yes |
@@ -17736,6 +17737,7 @@ Here's a list of public Fediverse services.
 | snarl.de | No |
 | snarpix.com | No |
 | sncft.com.tn | No |
+| sndm.me | No |
 | sndr.social | No |
 | sndw.ch | Yes |
 | sneak.berlin | Yes |
@@ -22067,7 +22069,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,463 |
-| Normal | 17,560 |
+| Normal | 17,562 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
