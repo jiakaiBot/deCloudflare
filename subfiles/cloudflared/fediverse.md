@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,169 |
+| com | 3,170 |
 | net | 1,747 |
 | org | 1,221 |
 | social | 1,198 |
@@ -498,7 +498,7 @@ Here's a list of public Fediverse services.
 | ache.one | No |
 | acid.im | No |
 | acid.wtf | No |
-| acidflowermusic.dance | No |
+| acidflowermusic.dance | Yes |
 | acki.ng | No |
 | aclevo.xyz | No |
 | acme.bo.it | No |
@@ -7384,6 +7384,7 @@ Here's a list of public Fediverse services.
 | groovestomp.com | No |
 | grosist.fr | No |
 | grossard.fr | No |
+| grosshans.online | No |
 | grosskopfgames.de | No |
 | grotenhuis.info | No |
 | grotz.me | No |
@@ -17553,6 +17554,7 @@ Here's a list of public Fediverse services.
 | six-five-six-four.com | No |
 | sixam.xyz | No |
 | sixfoisneuf.fr | No |
+| sixohthree.com | No |
 | sizedon.com | No |
 | sizuma.website | No |
 | sjbodzo.com | Yes |
@@ -21064,6 +21066,7 @@ Here's a list of public Fediverse services.
 | wiggle.website | No |
 | wihel.de | Yes |
 | wiki-tube.de | No |
+| wiki.style | No |
 | wikis.world | No |
 | wikitetas.club | No |
 | wikitetas.live | No |
@@ -22069,8 +22072,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,463 |
-| Normal | 17,563 |
+| Cloudflare | 4,464 |
+| Normal | 17,565 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
