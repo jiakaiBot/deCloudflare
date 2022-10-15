@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,170 |
-| net | 1,747 |
+| net | 1,748 |
 | org | 1,221 |
-| social | 1,198 |
-| de | 1,040 |
+| social | 1,200 |
+| de | 1,041 |
 
 
 - Mastodon, Pleroma, etc
@@ -149,6 +149,7 @@ Here's a list of public Fediverse services.
 | 1a1a1a.xyz | No |
 | 1arry1iu.com | No |
 | 1being.org | No |
+| 1bit.se | No |
 | 1codim.ru | No |
 | 1d4.us | Yes |
 | 1e400.net | Yes |
@@ -332,6 +333,7 @@ Here's a list of public Fediverse services.
 | 6i6.club | No |
 | 6paperplanes.net | No |
 | 6q0.net | No |
+| 6te.net | No |
 | 6wsw9.com | No |
 | 7144.party | No |
 | 73k.us | No |
@@ -3337,6 +3339,7 @@ Here's a list of public Fediverse services.
 | cobaltia.org | No |
 | cobaltkiss.blue | Yes |
 | cobby.eu | No |
+| cobracrew.de | No |
 | cocaine.moe | No |
 | cocaineninja.de | No |
 | cock.fish | No |
@@ -9247,6 +9250,7 @@ Here's a list of public Fediverse services.
 | juggler.jp | No |
 | jugregator.org | No |
 | juick.com | Yes |
+| juist.social | No |
 | juju.house | No |
 | julianjulian.moe | No |
 | julien.ovh | No |
@@ -17208,6 +17212,7 @@ Here's a list of public Fediverse services.
 | selexco.net | No |
 | selfhost.co | No |
 | selfhost.services | Yes |
+| selfhosted.social | Yes |
 | selfhosting.info | No |
 | selfhosting.rocks | No |
 | selfie.town | No |
@@ -19740,6 +19745,7 @@ Here's a list of public Fediverse services.
 | travelpandas.eu | No |
 | travelpandas.fr | No |
 | travelpandas.xyz | Yes |
+| travelsoftux.co.uk | No |
 | travisshears.xyz | No |
 | travnewmatic.com | Yes |
 | traxo.net | Yes |
@@ -22072,8 +22078,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,464 |
-| Normal | 17,565 |
+| Cloudflare | 4,465 |
+| Normal | 17,570 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
