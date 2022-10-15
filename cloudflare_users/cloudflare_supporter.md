@@ -8611,6 +8611,7 @@ Do not create new issue or we will close it as duplicate.
 | [SoldustMero@twitter](https://twitter.com/SoldustMero/status/1549580892988850182) | advertise |
 | [SolekhudinAK@twitter](https://twitter.com/SolekhudinAK/status/1384881486944509956) | advertise |
 | [Solon59889088@twitter](https://twitter.com/Solon59889088/status/1378327434219560960) | advertise |
+| [SolSquadZA@twitter](https://twitter.com/SolSquadZA/status/1581229224735965184) | advertise |
 | [solucionesdcmx@twitter](https://twitter.com/solucionesdcmx/status/1437832776573759492) | advertise |
 | [solusitugas_@twitter](https://twitter.com/solusitugas_/status/1391787503791656962) | advertise |
 | [somaiehvahid@twitter](https://twitter.com/somaiehvahid/status/1389592978394603523) | advertise |
