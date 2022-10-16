@@ -2480,6 +2480,7 @@ Here's a list of public Fediverse services.
 | briantajuddin.com | No |
 | bricin.net | No |
 | brick.camp | No |
+| brickbat.dev | Yes |
 | brickshop.io | No |
 | brid.gy | No |
 | bridgend.online | Yes |
@@ -22080,7 +22081,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,466 |
+| Cloudflare | 4,467 |
 | Normal | 17,571 |
 
 
