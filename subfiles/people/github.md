@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: too many files open.](https://github.com/qdm12/gluetun/issues/1197)
+- [Give empty string value to text field returns cloudflare error](https://github.com/elianiva/p/issues/3)
 - [Get recently played games from Exophase](https://github.com/mornir/mornir/issues/20)
 - [500 Response from API](https://github.com/searchmysite/searchmysite.net/issues/78)
 - [An Available Method to Bypass Recent Restriction of GFW over CloudFlare CDN](https://github.com/net4people/bbs/issues/137)
