@@ -236,6 +236,7 @@ www.mysterywire.com
 0001robert0001-avante-okta-stable-cvs.mercadopago.com.pe
 0ll3j.mjt.lu
 131-212-178.main.jp
+aadcdn.microsoftonline-p.net.office.o365rp2.betagro.myshn.net
 aadcdn.msftauth.net
 abraraccountancy.moonliteservice.com
 account-netflix.myvnc.com
@@ -265,6 +266,7 @@ auth.k8s.miplanning.es
 authsvc.gov.teams.microsoft.us
 autoconfig.megadom.hu
 autodiscover.macquarielinksestate.com.au
+autodiscover.moodynoodles.com
 autologon.microsoftazuread-sso.com
 az745219.vo.msecnd.net
 b2cshmiki.mikicorp.net
@@ -272,10 +274,12 @@ bagdshi.bur.muzkult.ru
 balashikha.mspak.ru
 banking-dkb.myddns.me
 bdshi.uln.muzkult.ru
+blueskywindowsusa.mypreview.link
 boutiquecfcc.monpanierdachat.com
 bryansk.kupit-grill.mcdir.ru
 c1193302713.wgcs.mcafee-cloud.com
 c2.m-systems.dk
+caa.cpc.infra.gov.teams.microsoft.us
 cadence.wd1.myworkdayjobs.com
 casddev.myasnb.com.my
 ccc.muqiuc.top
@@ -305,8 +309,11 @@ cpanel.icloud.mx-in.us
 cpanel.micropurchaser.xyz
 cpanel.msteachbd.xyz
 cpanel.mygoogle.cf
+cpcalendars.moodynoodles.com
 cpcalendars.secure.com.managersupdateservices.top
 cpcalendars.service-ppupdate.com.managersaccountcanclled.top
+cpcontacts.metabridge-wallet.com
+cpcontacts.moodynoodles.com
 cpcontacts.secure.com.managersupdateservices.top
 cpcontacts.service-ppupdate.com.managersaccountcanclled.top
 cpl12.main-hosting.eu
@@ -326,6 +333,7 @@ discordbot.misove.net
 discordbot.myunidays.world
 diveo.k8s.miisy.me
 dpp-live-events.medialaancdn.be
+edge.skype.com.office.o365rp2.betagro.myshn.net
 envios.mercadolivre.com.br
 ep-terminator.mistsys.net
 eradaopo.millenniumbcp.net
@@ -339,6 +347,7 @@ fleet4.uat.mobilityblockchainplatform.io
 fleet5.uat.mobilityblockchainplatform.io
 freelancewriterservice.mediatopiasolutions.com
 gateseyecarecenter.maximeyes.com
+gateway.tz.smartphone.m-pesa.com
 gcb01.gcb.cpcgateway.windows365.microsoft.us
 gcc.csanalytics.powerplatform.microsoft.us
 git.git.git.support.masterly.school
@@ -349,6 +358,9 @@ hecesb.magairports.com
 hongkongpost-en.myvnc.com
 icevp.mtc.gob.pe
 icinga.mdadmin.de
+icloudunlocknew.micro.blog
+iki.phpmyadmin.mytwitterbuy.ru
+imp.mt48.net
 infra-validation-service.devng.myomnicell.com
 infra-validation-service.testng.myomnicell.com
 inta-webservice.madgexjbtest.com
@@ -371,7 +383,6 @@ login.milleavedept.online
 login.portal.optonline.net.mudahnyapublicspeaking.com
 login0-citiz.mine.nu
 logincert.microsoftonline.com
-m-tbank.biz
 m-tbank.co
 m-tbank.me
 m-tbank.us.org
@@ -406,6 +417,7 @@ markusconrads.com
 marstallere.info
 marsupialr.com
 martuconfuse.com
+marykeventer.co.za
 masmadrid.org
 mastergroup.net.pe
 masterpost.ro
@@ -426,7 +438,7 @@ mcxsdjdfngrreqweca.com
 mdomingues.xyz
 mebel4u.com.ua
 mec.mycareimw.com
-mediafireviralterbarungent.cf
+mediaira.com
 mediance.fr
 mediareviewnet.com
 medusasland.com
@@ -439,6 +451,7 @@ megabyteghost.com
 memeburn.com
 meprojectschennai.co.in
 mercadolibre.com.co
+mergedarkape.ml
 merrilyncredit.com
 mesothelioma-claims-illinois.com
 mesothelioma-claims-va.com
@@ -453,6 +466,7 @@ mi-infonavit.org
 michael-page-uk-s04.com
 microinvest.md
 microprokey.site
+microsoft-office-support.ch
 microsoftcustomersupport-number.com
 mikesbikeshops.com
 miniaturazier.com
@@ -473,13 +487,13 @@ mo9jr8ie6sier3an.com
 mobicom-service.hr
 mobileserverdown.online
 modiva.ua
+mogulstates.com
 moikacoadmy.xyz
 moikacoadmy08.xyz
 monespace-bnp.fr
 money-vox.com
 moneyadviser.co.in
 moneyandpensionssermoneyandpensionsservice.org.uk
-moneyinfojacks.com
 moneymill.co.uk
 moneystories.kr
 monkeysloveyou.com
@@ -495,13 +509,13 @@ morden-money1.com
 moredarkthanshark.org
 morenafitnessatacado.com.br
 mosupport.app
-mottak.es
 mottoncontial.com
 movingdowntown.ca
 moyin-gateway-pre.mobvoi.com
 moyin-gateway-pre.moyin.com
 mpago.la
 msetzuhelg.ch
+msg.teams.microsoft.com.office.o365rp2.betagro.myshn.net
 msg.teams.microsoft.com.office.producao.orbiaredeagro.myshn.net
 msg.teams.microsoft.com.office.training.skyhighlab.myshn.net
 mskeydeals.site
@@ -531,6 +545,7 @@ mycl.bio
 myclimat.com.ua
 mycv.connect.mss-nexus.com
 mygov-redirect-verification.com
+myhomecredit.ro
 myidmoicerd.buzz
 myidmoicerd07.buzz
 myidmoicerd07.xyz
@@ -547,16 +562,22 @@ mymoicored08.top
 mynab-app-personal.com
 myservice.com.pk
 mysicitycomingary.com
+mysmsalert.com.ng
+mytrendy10.com
+netflix-support-team-upgrade.meridian173.ru
 netflix-update.myddns.me
+netflix.myid-signin.com
 news.maxsgroupinc.com
 ng.msg.teams.microsoft.com.office.training.skyhighlab.myshn.net
 odhistory.shopping-net.jp-yahoo.muwoo.cn
 office.maxicloud.fr
 online.minergie.ch
 onlinedkbjhshjsjh541.misecure.com
+outlook.office.net.office.o365rp2.betagro.myshn.net
 owo.maxthomaslang.de
 p2plogin.multiplay.store
 p2plogin.multitv.online
+pay.monumentrecoveryservices.com
 pay.myasnb.com.my
 payment.myasnb.com.my
 piotrlosy.mymonat.com
@@ -568,6 +589,8 @@ portal.mapfre.com.ni
 praiastur.com.5595intranet.mysnoiportal.ru
 preprod.mysigmapayments.net
 preprodeme.mysupplierportal.com
+presence.teams.microsoft.com.office.o365rp2.betagro.myshn.net
+promo.mycorporate-rewards.com
 protected-message2022-1311615844.cos.na-ashburn.myqcloud.com
 provisioningapi.gov.us.microsoftonline.com
 pskov.mspak.ru
@@ -581,10 +604,13 @@ qa.wfm.metlife.com.bd
 quickscan.michelingroup.com
 recovery-account.myvnc.com
 res.outlook.com.office.training.skyhighlab.myshn.net
+resinexportal-dre.myravago.com
 ridertools.metrarail.com
 riofrio.megacablecr.com
+robloxforrobux.micro.blog
 rootnode.metrologycloud.eu
 s-acsdevportal.msappproxy.net
+s.windows.microsoft.com.office.o365rp2.betagro.myshn.net
 saskdfd.minisite.ai
 secureemail.mmc.com
 securemail.meggitt.com
@@ -598,6 +624,8 @@ services.manugo.dev
 services.monsanto.com
 serviceticketnet.meiko.de
 servicio.miproyecto.xyz
+sharepoint.microsoftonline.com.office.o365rp2.betagro.myshn.net
+shitverse.mint-site.live
 smtp.mancorabeachv.ml
 speedtest-ga1.meo.pt
 sports.morganwick.com
@@ -608,6 +636,7 @@ steamdb.mediaschuette.de
 strongauthenticationservice.auth.microsoft.us
 support.mens-esthe-guide.com
 support.mobielcentre.nl
+swr.ap-southeast-1.myhuaweicloud.com
 swx.cdn.skype.com.office.producao.orbiaredeagro.myshn.net
 swx.cdn.skype.com.office.training.skyhighlab.myshn.net
 syncservice.gov.us.microsoftonline.com
@@ -616,6 +645,7 @@ t.myvisualiq.net
 tanja.mooo.com
 tareasoti.mtc.gob.pe
 tdesign.montagesvets.se
+telekom.c-1458.maxcluster.net
 test.myasnb.com.my
 test1.management.family.microsoft-int.com
 testeucitizen.mirovinsko.hr
@@ -640,6 +670,7 @@ vpn.maritimebank.com
 w3llsalerts765u67bvf7.misconfused.org
 wd3.myworkday.com
 wd5.myworkday.com
+webdisk.moodynoodles.com
 webdisk.online.maminhlib.com.ua
 webdisk.secure.com.managersupdateservices.top
 webdisk.service-ppupdate.com.managersaccountcanclled.top
@@ -703,6 +734,7 @@ www.mennekes.de
 www.merckconnect.com
 www.meta.com
 www.metabank.com.sg
+www.metaconnect.com
 www.metaverseihale.com
 www.metopera.org
 www.metro.ed.jp
