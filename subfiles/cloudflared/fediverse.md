@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,170 |
 | net | 1,749 |
-| org | 1,222 |
+| org | 1,223 |
 | social | 1,200 |
-| de | 1,041 |
+| de | 1,042 |
 
 
 - Mastodon, Pleroma, etc
@@ -1298,6 +1298,7 @@ Here's a list of public Fediverse services.
 | articlesofunity.social | No |
 | artifaille.fr | No |
 | artificial-owl.com | No |
+| artificialgravity.dev | No |
 | artimec.social | No |
 | artisanlogiciel.net | No |
 | artist.cx | No |
@@ -2680,6 +2681,7 @@ Here's a list of public Fediverse services.
 | cabane-libre.org | No |
 | cachapa.moe | No |
 | cacti.dev | Yes |
+| cadadr.digital | No |
 | caelin.cloud | No |
 | cafeobskur.de | No |
 | caff.tech | No |
@@ -3504,6 +3506,7 @@ Here's a list of public Fediverse services.
 | con.sh | Yes |
 | conan.ooo | No |
 | concho.bar | No |
+| concorde.blog | Yes |
 | concordia.chat | No |
 | concordia.social | No |
 | conduitry.me | Yes |
@@ -8992,6 +8995,7 @@ Here's a list of public Fediverse services.
 | jeena.net | No |
 | jeff.town | No |
 | jeffjeff.us | No |
+| jeffreymiller.org | No |
 | jeffscloud.com | No |
 | jel-tech.com | Yes |
 | jeli.kz | No |
@@ -11848,6 +11852,7 @@ Here's a list of public Fediverse services.
 | mechkey.jp | No |
 | mecp.de | No |
 | med-mstdn.com | No |
+| media-techport.de | No |
 | media-trust.com | No |
 | media21.nl | No |
 | mediacast.ca | No |
@@ -15701,6 +15706,7 @@ Here's a list of public Fediverse services.
 | publicspaces.net | No |
 | publicvm.com | No |
 | puck.moe | No |
+| puckett.contact | Yes |
 | puckipedia.com | No |
 | pud.im | No |
 | puddle.town | Yes |
@@ -18057,6 +18063,7 @@ Here's a list of public Fediverse services.
 | spezl.bayern | No |
 | sphere.com.ai | No |
 | spica.bz | Yes |
+| spice-community.online | No |
 | spicyshoggoth.cloud | No |
 | spider.ink | No |
 | spiderden.net | Yes |
@@ -20895,6 +20902,7 @@ Here's a list of public Fediverse services.
 | watt.ws | No |
 | wattsupwiththat.com | No |
 | wauland.de | No |
+| waxwing.studio | Yes |
 | waytoo.online | No |
 | waytoomuch.info | No |
 | waytt.cf | Yes |
@@ -22085,8 +22093,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,475 |
-| Normal | 17,567 |
+| Cloudflare | 4,478 |
+| Normal | 17,572 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
