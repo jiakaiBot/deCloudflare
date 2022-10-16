@@ -464,6 +464,7 @@ Here's a list of public Fediverse services.
 | abski.pl | No |
 | abskoop.com | Yes |
 | absolem.cc | No |
+| absolutely-zero.monster | No |
 | abstract.town | Yes |
 | abstrct.us | No |
 | absturztau.be | No |
@@ -2603,7 +2604,7 @@ Here's a list of public Fediverse services.
 | burner.social | No |
 | burner.zone | No |
 | burners.social | No |
-| burningtimber.com | No |
+| burningtimber.com | Yes |
 | burnworks.com | No |
 | buron.coffee | No |
 | burr.is | Yes |
@@ -22079,7 +22080,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,465 |
+| Cloudflare | 4,466 |
 | Normal | 17,571 |
 
 
