@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Panic when running in WASM](https://github.com/brycx/pasetors/issues/75)
 - [Error: too many files open.](https://github.com/qdm12/gluetun/issues/1197)
 - [Give empty string value to text field returns cloudflare error](https://github.com/elianiva/p/issues/3)
 - [Get recently played games from Exophase](https://github.com/mornir/mornir/issues/20)
