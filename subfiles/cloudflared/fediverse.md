@@ -5653,7 +5653,7 @@ Here's a list of public Fediverse services.
 | faccionlatina.org | Yes |
 | faceborg.io | No |
 | facecrime.net | No |
-| facefeck.com | Yes |
+| facefeck.com | No |
 | facegirl.me | No |
 | faceless.company | No |
 | fachkraeftesicherer.de | No |
@@ -5667,7 +5667,7 @@ Here's a list of public Fediverse services.
 | faeriewood.social | No |
 | faery.pub | No |
 | faf.social | Yes |
-| fag.lol | No |
+| fag.lol | Yes |
 | fai.st | No |
 | fai.su | No |
 | fair-verhandeln.de | No |
@@ -7280,7 +7280,7 @@ Here's a list of public Fediverse services.
 | gottistgut.org | Yes |
 | gouge.re | Yes |
 | gougere.fr | No |
-| gouhuoapp.com | No |
+| gouhuoapp.com | Yes |
 | gouinodon.fr | No |
 | gould.cx | Yes |
 | gourami.social | No |
@@ -7589,7 +7589,7 @@ Here's a list of public Fediverse services.
 | haku.site | Yes |
 | hakuhodon.com | No |
 | hakui.club | No |
-| hakurei.ga | No |
+| hakurei.ga | Yes |
 | hal9.ooo | No |
 | halfbyte.org | No |
 | halfmemories.com | Yes |
@@ -14564,7 +14564,8 @@ Here's a list of public Fediverse services.
 | p2anav.net | No |
 | p2p-node.de | No |
 | p2p.legal | No |
-| p2pquake.net | No |
+| p2pquake.net | Yes |
+| p2ptube.us | No |
 | p2ptv.ru | No |
 | p2px.me | No |
 | p3x.de | No |
@@ -21385,6 +21386,7 @@ Here's a list of public Fediverse services.
 | xbdm.fun | Yes |
 | xbm.se | No |
 | xbt0r.com | No |
+| xcess.one | Yes |
 | xconomy.com | Yes |
 | xcsv.tv | No |
 | xd0.de | No |
@@ -22082,8 +22084,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,469 |
-| Normal | 17,570 |
+| Cloudflare | 4,473 |
+| Normal | 17,568 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
