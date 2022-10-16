@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Get recently played games from Exophase](https://github.com/mornir/mornir/issues/20)
 - [500 Response from API](https://github.com/searchmysite/searchmysite.net/issues/78)
 - [An Available Method to Bypass Recent Restriction of GFW over CloudFlare CDN](https://github.com/net4people/bbs/issues/137)
 - [Command failed: cmd /c](https://github.com/balena-io/etcher/issues/3821)
