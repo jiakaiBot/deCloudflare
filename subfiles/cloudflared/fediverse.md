@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,170 |
-| net | 1,748 |
+| net | 1,749 |
 | org | 1,222 |
 | social | 1,200 |
 | de | 1,041 |
@@ -9149,6 +9149,7 @@ Here's a list of public Fediverse services.
 | jokertv.eu | No |
 | jokiller230.tk | No |
 | jokke.space | No |
+| jollyville.net | No |
 | jolytube.cf | No |
 | jomby.net | No |
 | jon.eus | No |
@@ -15035,7 +15036,7 @@ Here's a list of public Fediverse services.
 | pigeon.town | No |
 | pigeons.cloud | No |
 | piggo.space | Yes |
-| piggy.lol | No |
+| piggy.lol | Yes |
 | pigs.social | No |
 | pigsoul.com | No |
 | piipitin.fi | No |
@@ -21464,7 +21465,7 @@ Here's a list of public Fediverse services.
 | xn--80an2adaa.xn--p1ai | Yes |
 | xn--931a.moe | Yes |
 | xn--99axc.xn--y9a3aq | No |
-| xn--9h5bn01a.net | No |
+| xn--9h5bn01a.net | Yes |
 | xn--alatoire-c1a.net | No |
 | xn--baw-joa.social | No |
 | xn--blu-bma.ga | No |
@@ -22084,8 +22085,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,473 |
-| Normal | 17,568 |
+| Cloudflare | 4,475 |
+| Normal | 17,567 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
