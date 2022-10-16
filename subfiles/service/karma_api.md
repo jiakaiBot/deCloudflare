@@ -20,7 +20,9 @@ Replace the (base url) to:
 > Cloudflare Domains Lookup
 
 - For looking up domain's existence as a [MITM domain](../../cloudflare_users/domains/README.md).
-- Also try: [Listed as Cloudflare](https://karma.crimeflare.eu.org:1984/api/is/cloudflare/html/) website
+- Also try: `Listed as Cloudflare` website
+  - [Clearnet](https://karma.crimeflare.eu.org:1984/api/is/cloudflare/html/)
+  - [Tor](http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion/api/is/cloudflare/html/)
 
 | ? | ? |
 | -- | -- |
