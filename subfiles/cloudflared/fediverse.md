@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,170 |
 | net | 1,748 |
-| org | 1,221 |
+| org | 1,222 |
 | social | 1,200 |
 | de | 1,041 |
 
@@ -9579,6 +9579,7 @@ Here's a list of public Fediverse services.
 | kevinisageek.org | No |
 | kevinr.fr | No |
 | kevinthomaseagan.com | No |
+| kevinwhalen.org | No |
 | kevlar.cloud | No |
 | kevq.uk | No |
 | kevread.fr | No |
@@ -11706,7 +11707,7 @@ Here's a list of public Fediverse services.
 | masutodon.net | No |
 | mat.tl | Yes |
 | matarillo.com | No |
-| matcha-soft.com | No |
+| matcha-soft.com | Yes |
 | matchdon.com | No |
 | matchy.jp | No |
 | matej-lach.me | No |
@@ -17842,7 +17843,7 @@ Here's a list of public Fediverse services.
 | socialize.cyou | Yes |
 | socialjustice.engineering | No |
 | sociallysour.org | No |
-| socialmast.xyz | No |
+| socialmast.xyz | Yes |
 | socialmatrix.us | No |
 | socialnet.tech | No |
 | socialnetwork.ninja | No |
@@ -22081,8 +22082,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,467 |
-| Normal | 17,571 |
+| Cloudflare | 4,469 |
+| Normal | 17,570 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
