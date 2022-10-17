@@ -302,6 +302,7 @@ www.benning.army.mil
 1.airosafe.com
 10r0bvzr.r.us-east-1.awstrack.me
 11-review-update-to-k0pb66.dev.adelais.net
+27ph3.app.link
 2wqp32q8.r.eu-west-1.awstrack.me
 3dgatewaytest.ambankgroup.com
 3djyi.app.link
@@ -321,18 +322,19 @@ a1realstate.com
 a1services.pk
 aandzagro.com
 aaxx.live
-abdo-abodef.ml
 aboardcarr.com
 abshownhearkish.com
 ac-service.ro
 academa.io
 academiafo.ro
+academianlp.com
 academiaquo.es
 academiaspa.ru
 academie-iyanesidibe.com
 academiny.com
 academit.co.il
 academo.pl
+academy28.nl
 academyagora.ru
 academyforbusinesscredit.com
 academyhairrj.com.br
@@ -403,6 +405,7 @@ ahurewacordax.website
 ahv3ctpms4e.amazingholidaycoupons.com
 aiaeb.org
 aib-online-queries.com
+aicloud.website
 aiforgotapple.com
 aiinourlives.com.audrianaandrews.com
 aimeeindonesia.com
@@ -424,11 +427,11 @@ allacademia.org
 allianceseter.com
 almadoc.almaviacx.com
 alpha-roofingservice.co.uk
-alsagercommunitysupport.org.uk
 alta.beauty
 altanharmonika.com
 altmuligservice.no
 alunanvileasal.gq
+alunoalfa.com
 am.ua
 amagallery.net
 amarachbetoch.com
@@ -449,8 +452,9 @@ anddalu7si4an.com
 andinetmanassesanom.com
 andinorealestate.com
 andweart.com
-anekadesign.id
 anelok.in.ua
+ani-chat.net
+anitha.tech
 anmelden-ing-app.com
 annoorulquran.com
 annualinternetsurvey.com
@@ -461,11 +465,13 @@ antiquemuseumkochi.com
 antoninoiacona.it
 anws.co
 anynevy.com
+apatakangen.ro
 api.aadrm.com
 api.adduprewards.com
 api.airmart.vip
 api.amadeus.com
 api.antique-watches.de
+api.az808080.com
 api.beta.pdx.financialscorecardservice.finance.amazon.dev
 api.beta.us-west-2.accountassist.business.amazon.dev
 api.doajosep.alpha.management-ui.turtle.aws.dev
@@ -494,7 +500,6 @@ applebazaar.ml
 appleid-locate-my-ids.xyz
 appleid.academico.edu.pt
 appleiforgot.com
-applerbx.cf
 applewallet-reactivate-id.com
 appqualidade.adoro.com.br
 appsbyp.com
@@ -505,7 +510,6 @@ aquamarine.id
 arabicfood.us
 aradszkiandras.hu
 aramarkchat.com
-archacheckdu.tk
 arcticawarszawa.pl
 arenitezill.com
 arizalar.uz
@@ -540,7 +544,7 @@ audollar.arincreasemoney.click
 aumsookr.com
 auskuck.net
 ausomsup.net
-auth-webid.com
+austinonlinepost.com
 auth.andrea-und-tim.de
 auth.ca-central-1.amazoncognito.com
 authenticate-mobile.cf
@@ -583,6 +587,7 @@ beigene-it.aeses.com
 bestcorporateevents.lt.acemlnc.com
 beta.us-east-1.approvalsorchestrationmanager.finauto.amazon.dev
 betterviewtucson.bdigitau.a2hosted.com
+bhrfv.app.link
 blockchain-minersapi.advanter.international
 blueknot.lt.acemlnb.com
 bmrdswpm.r.us-east-1.awstrack.me
@@ -622,6 +627,7 @@ contacts.azic.ca
 cosmic-sdf-s01-00-nam-eastus2-aks-3755a0f2.hcp.eastus2.azmk8s.io
 cpanel.abilityreachsupportcare.com.au
 cpanel.account-google.net
+cpanel.amazonservers.us
 cpanel.apple-mac-support.gr
 cpanel.salazaresquivelcgmail.com.actiweb.net
 cpcalendars.amazonarabic.info
@@ -639,9 +645,11 @@ cyware-dot-yamm-track.appspot.com
 d1spmtvu215wwe.amplifyapp.com
 daryus.lt.acemlnb.com
 data-support-update-service.playground.sandbox.aimsplatform.org
+dcm.akctvcontrol.com
 debanked.lt.acemlnb.com
 delivery.a4midias.com.br
 demo-ftp.advam.com
+demos.ambidata.com
 dev-clients.adia.works
 dev.activatecamps.co.uk
 dev.aelter-werden-in-balance.de
@@ -663,6 +671,7 @@ ejustiz.arbeitsagentur.de
 eleve-co-dot-yamm-track.appspot.com
 email.l3.apidays.info
 empirical-cloudsecurity.adityaksood.com
+empregasalvador.lt.acemlnb.com
 ermapitest.azure-api.net
 eu-west-1.beta.api.cthulhu.integration.discover.music.amazon.dev
 eursap.lt.acemlnb.com
@@ -675,6 +684,7 @@ finacc.ddns.net.kgworld.a2hosted.com
 foesco.acmtrk.com
 forms.armoursecurity.com
 fs.appauth.ad.msnet.atf.gov
+ftz0t.app.link
 fusion.awardsuite.com
 gateway.atriga.com
 gatoartesano.com.ameyaltzin.com.mx
@@ -696,9 +706,11 @@ ib8-api-gameprovider-prod.azurewebsites.net
 img-prod-cms-rt-microsoft-com.akamaized.net
 innovapptive-dot-yamm-track.appspot.com
 instagram.authentication.se
+installation-of-windows.atwebpages.com
 itsmfw-test.arbeitsagentur.de
 j38pggq3.r.us-east-1.awstrack.me
 jimmylarose.lt.acemlnd.com
+journeytorecovery.lt.acemlnc.com
 kad.arbitr.ru
 kmcdn.azureedge.net
 ktla-com.cdn.ampproject.org
@@ -710,6 +722,7 @@ live-radio-cf-vrt.akamaized.net
 log.ads-m.net
 login.amazonafashion.com
 lp.alysee.be
+lsxp6.app.link
 m-7469s3.ll.dash.row.aiv-cdn.net
 mad051.lt.acemlnb.com
 mail.achsan.website
@@ -754,6 +767,7 @@ pmz4p0l4.r.ca-central-1.awstrack.me
 portal-latamtravel.appslatam.com
 portal.aamcs.com
 portal.aon.co.nz
+prattes.users.aboliton.at
 pre-car-001.audi-online.de
 prensa91167.lt.acemlnc.com
 proceeding.app.link
@@ -791,6 +805,7 @@ secure-douane.akanea.com
 secured.americanfidelity.com
 security-mkt-stage18-m.adobe-campaign.com
 security-update-q2-2022-with-cms-update.creditunion.atomix.dev
+server.ag962.cn
 service.adwa.world
 service.anyerdeliv.com
 service.electrica.autogadget.ro
@@ -810,6 +825,7 @@ stg-clubops-inv-intel-braincorp-wus.azurewebsites.net
 store-certum-test.cpd.assecods.pl
 sumsub.lt.acemlna.com
 support.arcusfm.com
+support.armfort.com
 suske.users.aboliton.at
 sustainablebodybuilding.lt.acemlnb.com
 swagger.balances.timebank.tncastro.people.amazon.dev
@@ -832,6 +848,9 @@ url.avanan.click
 us-east-1.alpha.tracking-service.api.data-access.ads.amazon.dev
 us-east-1.beta.auth.associate.amazondelivers.jobs
 uvdesk.accounter.org
+valoradesign.lt.acemlnc.com
+vendynow.axtondemos.com
+verification.paypal.ashishchemicals.com
 verpfdev.aku.edu
 vgglass.bdigitau.a2hosted.com
 view.arthouse.ar
@@ -846,12 +865,12 @@ webdisk.applet.co.za
 webdisk.asebadosmil.com
 webdisk.aulaimaginaonline.anacondaweb.in
 webdisk.salazaresquivelcgmail.com.actiweb.net
-webexsso.arris.com
 webmail.abilityreachsupportcare.com.au
 webmail.account-google.net
 webmail.achieversacademy.net.in
 webmail.aicloud.website
 webmail.apple-mac-support.gr
+webmail.applewebobjectslogin.net
 webmail.salazaresquivelcgmail.com.actiweb.net
 wk7tcgyn.r.us-west-2.awstrack.me
 ws.axa-uk.co.uk
@@ -877,6 +896,7 @@ www.academiaparquepicasso.es
 www.academias.top
 www.academiastur.es
 www.academycombine.com
+www.academyedits.com
 www.academyeye.com
 www.accertify.com
 www.acceso-santifeweb.com
@@ -899,10 +919,12 @@ www.agenteteconta.com
 www.ahinjurylaw.net
 www.ahjinri.com
 www.aia.com.hk
+www.aicloud.website
 www.aiconnects.us
 www.air-watch.com
 www.airtransat.com
 www.aiscommunityservice.org
+www.aj-craneservice.com.aj-craneservice.com
 www.ajmao.org
 www.ajpoolservice.com.au
 www.ajraven.de
@@ -924,6 +946,7 @@ www.apnacredit.in
 www.app-sicurezza.info
 www.apple-mac-support.gr
 www.appleonlineid.com
+www.apps-mapa.com
 www.aptrack.ro
 www.arbetsvarlden.se
 www.archives80.com
@@ -950,11 +973,13 @@ www.awyeahcomics.com
 www.axretailgroup.com
 www.bancayxanhdep.asia-tv.in
 www.benservice.awra1.com
+www.billingbook.aashriyatechnology.com
 www.bostonsecurity.a007.com
 www.capitruonline.arbor-loginonline.com
 www.clientes.acadeex.com
 www.cloudheavyequipment.alifservice.qa
 www.dev.ascentrebateportal.com
+www.directdebit.verification.a2hosted.com
 www.drake2023tour.tickets.a2hosted.com
 www.girlgogetyourmoney.com.apowerfulmother.com
 www.halley.allinoneupdate.in
@@ -971,6 +996,7 @@ www.reservierung.av-plechinger.de
 www.robihoodlogin.atomicwalletio.com
 www.seg.aztecaweb.net
 www.service.anyerdeliv.com
+www.servicio.agendamedicaonline.com
 www.servicios.evertec.asstiseguridadsocial.com
 www.sibo.activatedemos.com
 www.stay-secured1.amish-patel.com
@@ -985,6 +1011,7 @@ www.tiquero.com.br.agillservice.com.br
 www.training.elliotwaveid.com.asimetri.id
 www.verifyaapm.aapmnigeria.com
 www.wecagricoless.com.uy.arhoejido.com.uy
+www.white.azorestore.com
 www.wwvporlalpersonas.bancochile.cl.avanexa.co.in
 xr9y5cgy.r.eu-west-1.awstrack.me
 xrj0e.app.link
