@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,171 |
+| com | 3,172 |
 | net | 1,749 |
 | org | 1,223 |
 | social | 1,200 |
@@ -18707,6 +18707,7 @@ Here's a list of public Fediverse services.
 | takemusu-aiki.be | No |
 | takeoverthe.world | Yes |
 | taker.fr | No |
+| takesama.com | Yes |
 | taketodon.com | No |
 | takeyourmeds.xyz | Yes |
 | takeyu.club | No |
@@ -22097,7 +22098,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,480 |
+| Cloudflare | 4,481 |
 | Normal | 17,574 |
 
 
