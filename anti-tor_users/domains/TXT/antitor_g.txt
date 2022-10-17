@@ -152,6 +152,7 @@ www.gynmc.com
 00----------pmolikujyhtgrfedzsaqwxcvbn78665130---------------00.storage.googleapis.com
 abdullahabdu786.github.io
 acquisition-staging.gsa.gov
+ai.discord.gunnarstone.com
 akkarma07.github.io
 aloneuy.github.io
 aluminum-mica-pufferfish.glitch.me
@@ -159,6 +160,7 @@ api.globalpay-ecommerce.com
 api.google.com
 api.staging.gigabank.jp
 app.companies.gov.nu
+arunsingh009.github.io
 arvindhsundar.github.io
 ashutosh86941.github.io
 ayomide200024.github.io
@@ -173,12 +175,14 @@ buh.goodnet.ru
 business.google-shopping.club
 c0ntacteecreditela.gricoleacces.info
 caterwauling-economic-newsboy.glitch.me
+cei-captcha-cracker.service.grana.capital
 ci3.googleusercontent.com
 ci5.googleusercontent.com
 ci6.googleusercontent.com
 click.info.globallearnclub.com
 clientapi.gxgnt.com
 clientwebetaxnta.goksuk.cn
+cloud.geldfrei.net
 coachainisaid.getfitnowonline.com.my
 coachnisasuhaimi.getfitnowonline.com.my
 coinbbasewaallet.godaddysites.com
@@ -190,10 +194,13 @@ consent.google.com
 consent.google.it
 container.gauthierconsulting.ca
 cpanel.gmailkinbo.xyz
+cpcalendars.gruposdediscord.com
+cpcontacts.gruposdediscord.com
 danielcampos214.github.io
 develop-web.gsa-cs.com
 discord.pseiblog.blog.mx4.getthefactshomeinspection.com
 doc-00-bc-docs.googleusercontent.com
+doc-04-5o-docs.googleusercontent.com
 doc-04-a8-docs.googleusercontent.com
 doc-08-3c-docs.googleusercontent.com
 doc-08-70-docs.googleusercontent.com
@@ -224,6 +231,7 @@ fuchsia-updates-autopush.googleusercontent.com
 fuchsia-updates-dev.googleusercontent.com
 fuchsia-updates-staging.googleusercontent.com
 fuchsia-updates.googleusercontent.com
+fwd.glintcdn.com
 gaana.com
 gacetademadrid.com
 gachcard5s.site
@@ -249,6 +257,7 @@ geobus.extranet.geodis.org
 geouragedproverly.com
 gerusiatootsie.com
 getfitnowonline.com.my
+getlocal.dev
 getrotation.com
 getrpahqya.com
 getsurv2you.com
@@ -256,6 +265,7 @@ getsweetlady1.com
 getyour-ladyshere.com
 geuria.eus
 geyang1999.top
+gfunkhouser.com
 ghettoschanse.com
 gigasole.com
 gintonico.com
@@ -285,6 +295,7 @@ googlead.marketing
 googleadsindonesia.com
 googleadwordsmanagement-co-uk.great-online-income.com
 googletagmanager.com
+goopenclaim.ga
 gooseboom.com
 governor.utah.gov
 gowatchseries.movie
@@ -299,6 +310,7 @@ greencard-uz.uz
 gregdondds.com
 groupe-terresdusud.fr
 grupocallcenter.com
+gruposdediscord.com
 gsmobile.be
 gsmsafety.com
 gsmsafety.gr
@@ -332,6 +344,7 @@ mail.gachascater.cyou
 mail.ghscpsm-tools.org
 mail.gmailkinbo.xyz
 mail.googleadwordsmanagement.co.uk
+mail.gruposdediscord.com
 mea.global-cdm.net
 mehdi-abshari.github.io
 mgr.testbed.gdi-de.org
@@ -346,6 +359,7 @@ notakih.github.io
 ntngm-jp.gdhanren.cn
 o.germanlanguageservices.com
 ofrikwlxmvlcaoidzvf-w-vdtaplftkdqnsefmsl-mqntrpxwpopjcvgwepb.glitch.me
+pay.google-shopping.club
 payroll2.godaddysites.com
 pdf.gmahkpalemsemi.org
 peach-scarce-meadow.glitch.me
@@ -356,6 +370,7 @@ prism-massive-game.glitch.me
 privacysandbox.googleadservices.com
 prod-s3service.godigit.com
 prod.gertecticonnect.com.br
+pt.graficacuiaba.co
 pt.innovation2.geneastar.dev
 pub-glb-st.ap-se1.acs-cdn.gaiamount.com
 pub-glb-st.cn-n3.acs-cdn.gaiamount.com
@@ -392,7 +407,9 @@ wealthy-statuesque-mistake.glitch.me
 web5.gazduire.net
 webdisk.gmal.tech
 webdisk.gracietefaria.website
+webdisk.gruposdediscord.com
 webmail.goodlifecounselling.co.uk
+webmail.gruposdediscord.com
 wssecurity.gnss-lp.co.il
 www.accounts.globalcargo-express.com
 www.autodiscover.gourmewww.posta.gagi.ru
@@ -443,11 +460,14 @@ www.gtsservice-ssa.com.br
 www.guchagucha.com
 www.gwarantservice.pl
 www.gymcheb.cz
+www.hardik.gujjusupport.in
 www.healthnews.graymoney.co.kr
+www.ivc.gansportsbook.com
 www.login.gremelfx.com
 www.mfa.global-visa-services.com
 www.money-vox.garaj.bg
 www.outlook.ssffaa.gon.cl
+www.production.gfunkhouser.net
 www.secure1.gacportal.com
 www.service.gsmtel.ro
 www.shepoh.gilarpost.com
