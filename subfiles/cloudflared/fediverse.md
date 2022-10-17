@@ -8504,6 +8504,7 @@ Here's a list of public Fediverse services.
 | indie.computer | No |
 | indie.host | No |
 | indiefedi.party | No |
+| indiegames.online | No |
 | indieweb.life | No |
 | indieweb.me | No |
 | indieweb.social | No |
@@ -22095,7 +22096,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,478 |
-| Normal | 17,573 |
+| Normal | 17,574 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
