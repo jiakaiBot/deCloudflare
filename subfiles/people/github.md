@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [404 on all websites](https://github.com/kelinger/OmniStream/issues/23)
 - [Panic when running in WASM](https://github.com/brycx/pasetors/issues/75)
 - [Error: too many files open.](https://github.com/qdm12/gluetun/issues/1197)
 - [Give empty string value to text field returns cloudflare error](https://github.com/elianiva/p/issues/3)
