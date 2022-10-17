@@ -5343,6 +5343,7 @@ Do not create new issue or we will close it as duplicate.
 | [lu25rs@twitter](https://twitter.com/lu25rs/status/1377601911893811209) | advertise |
 | [LuanLe24453405@twitter](https://twitter.com/LuanLe24453405/status/1384482319273054216) | advertise |
 | [luannguyenbkit@twitter](https://twitter.com/luannguyenbkit/status/1552615307612770305) | advertise |
+| [luantran97kgvn@twitter](https://twitter.com/luantran97kgvn/status/1581927173849772034) | advertise |
 | [Lubao308183282@twitter](https://twitter.com/Lubao308183282/status/1383676920093495301) | advertise |
 | [Lucas40103337@twitter](https://twitter.com/Lucas40103337/status/1395576595331665920) | advertise |
 | [Luchaelis@twitter](https://twitter.com/Luchaelis/status/1383339280362131466) | advertise |
