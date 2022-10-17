@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,170 |
+| com | 3,171 |
 | net | 1,749 |
 | org | 1,223 |
 | social | 1,200 |
@@ -4200,6 +4200,7 @@ Here's a list of public Fediverse services.
 | dbieber.de | No |
 | dbonnet.ovh | No |
 | dbuild.xyz | No |
+| dbzer0.com | No |
 | dc2298.org | No |
 | dc6jgk.de | No |
 | dc801.space | No |
@@ -5931,7 +5932,7 @@ Here's a list of public Fediverse services.
 | fediverso.net | No |
 | fediversum.de | No |
 | fediversum.one | No |
-| fediwersum.pl | No |
+| fediwersum.pl | Yes |
 | fediwiki.jp | No |
 | fediz.one | No |
 | fedja.fi | No |
@@ -6604,6 +6605,7 @@ Here's a list of public Fediverse services.
 | fumi2kick.com | No |
 | fumisskey.com | Yes |
 | fumufu.xyz | Yes |
+| funami.tech | Yes |
 | funboy.cyou | No |
 | functional.cafe | Yes |
 | functional.technology | No |
@@ -22095,7 +22097,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,478 |
+| Cloudflare | 4,480 |
 | Normal | 17,574 |
 
 
