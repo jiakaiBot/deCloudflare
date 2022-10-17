@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,172 |
+| com | 3,173 |
 | net | 1,749 |
 | org | 1,223 |
 | social | 1,200 |
@@ -4043,6 +4043,7 @@ Here's a list of public Fediverse services.
 | dalaomai.cn | No |
 | dalek.zone | Yes |
 | dallas.lu | Yes |
+| dallasgroot.ca | No |
 | dallashackers.com | No |
 | dallassports.fans | No |
 | dalliard.ch | No |
@@ -13089,6 +13090,7 @@ Here's a list of public Fediverse services.
 | namedkitten.pw | No |
 | namelesscitizen.space | No |
 | nametaketakewo.net | Yes |
+| namknat.win | No |
 | namok.be | No |
 | namtari.com | Yes |
 | nana.sh | No |
@@ -15328,6 +15330,7 @@ Here's a list of public Fediverse services.
 | podcast.style | No |
 | podcastindex.social | No |
 | podcasts.chat | No |
+| podcasts.paris | No |
 | poddery.com | No |
 | podfriend.com | No |
 | podlibre.social | No |
@@ -19511,6 +19514,7 @@ Here's a list of public Fediverse services.
 | tokamstdn.jp | No |
 | tokhmi.xyz | Yes |
 | toki.social | No |
+| tokler.com | No |
 | toktan.org | Yes |
 | tokudan.de | No |
 | tokyocameraclub.com | No |
@@ -22099,7 +22103,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,481 |
-| Normal | 17,574 |
+| Normal | 17,578 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
