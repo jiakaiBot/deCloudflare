@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-21: [FRA (Frankfurt) on 2022-10-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7qcfk7g74nxn)
 - 2022-10-19: [EWR (Newark) on 2022-10-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rnzmxscptgz0)
 - 2022-10-21: [WAW (Warsaw) on 2022-10-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kl40br856355)
 - 2022-10-20: [SCL (Santiago) on 2022-10-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1ykc9bz7gb1m)
