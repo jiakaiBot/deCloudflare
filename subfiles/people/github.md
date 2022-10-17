@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare captcha error](https://github.com/alzamer2/Crunchyroll-XML-Decoder-py3/issues/54)
 - [404 on all websites](https://github.com/kelinger/OmniStream/issues/23)
 - [Panic when running in WASM](https://github.com/brycx/pasetors/issues/75)
 - [Error: too many files open.](https://github.com/qdm12/gluetun/issues/1197)
