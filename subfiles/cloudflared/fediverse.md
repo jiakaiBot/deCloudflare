@@ -5926,6 +5926,7 @@ Here's a list of public Fediverse services.
 | fediverse.town | No |
 | fediverse.tv | No |
 | fediverse.us | No |
+| fediverseis.fun | No |
 | fediversekey.com | Yes |
 | fediverso.net | No |
 | fediversum.de | No |
@@ -22094,7 +22095,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,478 |
-| Normal | 17,572 |
+| Normal | 17,573 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
