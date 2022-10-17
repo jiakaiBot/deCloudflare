@@ -2495,6 +2495,7 @@ Do not create new issue or we will close it as duplicate.
 | [EliteAce7@twitter](https://twitter.com/EliteAce7/status/1489080806580826112) | advertise |
 | [ELITEPLANETGAM1@twitter](https://twitter.com/ELITEPLANETGAM1/status/1400845458063257601) | advertise |
 | [eliudimb@twitter](https://twitter.com/eliudimb/status/1543723790407847937) | advertise |
+| [Elizabe61872231@twitter](https://twitter.com/Elizabe61872231/status/1582025862148329473) | advertise |
 | [ElizabethGogou@twitter](https://twitter.com/ElizabethGogou/status/1377578555954110465) | advertise |
 | [EllaLaw24194722@twitter](https://twitter.com/EllaLaw24194722/status/1383291450025148418) | advertise |
 | [elleo549@twitter](https://twitter.com/elleo549/status/1553222346504187909) | advertise |
