@@ -3905,6 +3905,7 @@ Do not create new issue or we will close it as duplicate.
 | [iyan_saputraaa@twitter](https://twitter.com/iyan_saputraaa/status/1462663065241935876) | advertise |
 | [iyooobv@twitter](https://twitter.com/iyooobv/status/1479321949465559045) | advertise |
 | [iz3__0@twitter](https://twitter.com/iz3__0/status/1387606202457149440) | advertise |
+| [izakbiptwit@twitter](https://twitter.com/izakbiptwit/status/1582035118470107136) | advertise |
 | [izaznordin@twitter](https://twitter.com/izaznordin/status/1531691892940738560) | advertise |
 | [izggbet@twitter](https://twitter.com/izggbet/status/1552646027483955200) | advertise |
 | [izzanzahinwho@twitter](https://twitter.com/izzanzahinwho/status/1576417610723622912) | advertise |
@@ -10149,6 +10150,7 @@ Do not create new issue or we will close it as duplicate.
 | [WhXRuMfnyHtsfdk@twitter](https://twitter.com/WhXRuMfnyHtsfdk/status/1403069036422856705) | advertise |
 | [whynot8288@twitter](https://twitter.com/whynot8288/status/1470869376207589379) | advertise |
 | [WhyzTM@twitter](https://twitter.com/WhyzTM/status/1568948951507959808) | advertise |
+| [Why_Srk@twitter](https://twitter.com/Why_Srk/status/1582033845188464641) | advertise |
 | [wickepedia@twitter](https://twitter.com/wickepedia/status/1502834842073014272) | advertise |
 | [wifecheatsdumb1@twitter](https://twitter.com/wifecheatsdumb1/status/1572431467711713280) | advertise |
 | [wife_xxxx@twitter](https://twitter.com/wife_xxxx/status/1547551663300673536) | advertise |
@@ -10705,6 +10707,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zinzin69715752@twitter](https://twitter.com/Zinzin69715752/status/1377848670075428867) | advertise |
 | [zitterbewegung@twitter](https://twitter.com/zitterbewegung/status/1406711241708556290) | advertise |
 | [ZiZee92495418@twitter](https://twitter.com/ZiZee92495418/status/1390372034241175556) | advertise |
+| [zizi60531195@twitter](https://twitter.com/zizi60531195/status/1582040603109470208) | advertise |
 | [ZiZu063040@twitter](https://twitter.com/ZiZu063040/status/1396780443609886724) | advertise |
 | [ZJenghpang@twitter](https://twitter.com/ZJenghpang/status/1392524591159922689) | advertise |
 | [ZLinnhtay@twitter](https://twitter.com/ZLinnhtay/status/1528198598055559168) | advertise |
