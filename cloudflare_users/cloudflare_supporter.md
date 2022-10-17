@@ -1922,6 +1922,7 @@ Do not create new issue or we will close it as duplicate.
 | [d3vinlive@twitter](https://twitter.com/d3vinlive/status/1497799551520022531) | advertise |
 | [d7W2kx2ukyk0FhC@twitter](https://twitter.com/d7W2kx2ukyk0FhC/status/1395120949343760384) | advertise |
 | [d40aldo@twitter](https://twitter.com/d40aldo/status/1422681010123247620) | advertise |
+| [D123Halloween@twitter](https://twitter.com/D123Halloween/status/1581856916644720642) | advertise |
 | [daayahhhh@twitter](https://twitter.com/daayahhhh/status/1553373437443379200) | advertise |
 | [Dabaholiic7@twitter](https://twitter.com/Dabaholiic7/status/1580182282177896450) | advertise |
 | [dabanphone@twitter](https://twitter.com/dabanphone/status/1494468838397726727) | advertise |
@@ -6602,6 +6603,7 @@ Do not create new issue or we will close it as duplicate.
 | [NgL68393802@twitter](https://twitter.com/NgL68393802/status/1507978854618468359) | advertise |
 | [ngLm68174472@twitter](https://twitter.com/ngLm68174472/status/1401611353102581760) | advertise |
 | [ngNguyn04734307@twitter](https://twitter.com/ngNguyn04734307/status/1378019479876067330) | advertise |
+| [NgNguyn26699046@twitter](https://twitter.com/NgNguyn26699046/status/1581849871895912448) | advertise |
 | [ngntrunghung136@twitter](https://twitter.com/ngntrunghung136/status/1502081207466881025) | advertise |
 | [NgocHuy70334871@twitter](https://twitter.com/NgocHuy70334871/status/1549567457383563264) | advertise |
 | [NgocLan1711@twitter](https://twitter.com/NgocLan1711/status/1380847220438618116) | advertise |
