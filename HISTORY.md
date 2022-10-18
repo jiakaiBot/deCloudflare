@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-18: [GYD (Baku) on 2022-10-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cxswf3h2p3tv)
 - 2022-10-26: [IAD (Ashburn) on 2022-10-26](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/30g3hzx7nbz6)
 - 2022-10-24: [AMS (Amsterdam) on 2022-10-24](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/nd97x579pgqj)
 - 2022-10-24: [MEL (Melbourne) on 2022-10-24](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0cqc2vgv2hz4)
