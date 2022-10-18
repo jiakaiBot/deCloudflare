@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Low-code SDK: CursorPagination removes base path from from url_base](https://github.com/airbytehq/airbyte/issues/18136)
 - [Error when a deal has no subscription and Pipedrive::Subscription.find_by_deal is called](https://github.com/getonbrd/pipedrive-connect/issues/23)
 - [Cloudflare Error: No challenge selectors found, unable to proceed.](https://github.com/FlareSolverr/FlareSolverr/issues/549)
 - [Some system jobs not run after abrupt restart.](https://github.com/hashicorp/nomad/issues/14932)
