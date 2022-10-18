@@ -9141,6 +9141,7 @@ Here's a list of public Fediverse services.
 | john.town | Yes |
 | johnassel.de | No |
 | johnconway.art | Yes |
+| johndevine.co.uk | No |
 | johndoe.gq | Yes |
 | johnholdun.com | No |
 | johnn.ie | No |
@@ -22104,7 +22105,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,481 |
-| Normal | 17,579 |
+| Normal | 17,580 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
