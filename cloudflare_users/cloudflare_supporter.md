@@ -739,6 +739,7 @@ Do not create new issue or we will close it as duplicate.
 | [ARES35088043@twitter](https://twitter.com/ARES35088043/status/1391446589453967360) | advertise |
 | [arestiarr@twitter](https://twitter.com/arestiarr/status/1528766815752466432) | advertise |
 | [ArfanHamzah5@twitter](https://twitter.com/ArfanHamzah5/status/1549100477807476736) | advertise |
+| [ArfdElia@twitter](https://twitter.com/ArfdElia/status/1582462473189425152) | advertise |
 | [AriaHarunae@twitter](https://twitter.com/AriaHarunae/status/1405169247542730752) | advertise |
 | [arianaholguin18@twitter](https://twitter.com/arianaholguin18/status/1528748861610680322) | advertise |
 | [aribkhan2016@twitter](https://twitter.com/aribkhan2016/status/1389475209992835075) | advertise |
@@ -3247,6 +3248,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hien44911347@twitter](https://twitter.com/Hien44911347/status/1551412703125573633) | advertise |
 | [Hiep55658711@twitter](https://twitter.com/Hiep55658711/status/1384748374662909952) | advertise |
 | [hiep82570002@twitter](https://twitter.com/hiep82570002/status/1401914633619795971) | advertise |
+| [hiep1234567899@twitter](https://twitter.com/hiep1234567899/status/1582443161300844544) | advertise |
 | [Hiepbui8283@twitter](https://twitter.com/Hiepbui8283/status/1474274039455969280) | advertise |
 | [hieple0311@twitter](https://twitter.com/hieple0311/status/1377913030877405184) | advertise |
 | [hiepmm@twitter](https://twitter.com/hiepmm/status/1496310983182417923) | advertise |
@@ -3786,6 +3788,7 @@ Do not create new issue or we will close it as duplicate.
 | [ImmotalMy@twitter](https://twitter.com/ImmotalMy/status/1403607300137492481) | advertise |
 | [ImmTelecom@twitter](https://twitter.com/ImmTelecom/status/1416853736949878786) | advertise |
 | [imprince_kumar@twitter](https://twitter.com/imprince_kumar/status/1540676187382358017) | advertise |
+| [ImranHu92929176@twitter](https://twitter.com/ImranHu92929176/status/1582446468903817218) | advertise |
 | [ImranKh71814473@twitter](https://twitter.com/ImranKh71814473/status/1387290263626731523) | advertise |
 | [ImranOveek@twitter](https://twitter.com/ImranOveek/status/1392932554303369216) | advertise |
 | [ImranPollob@twitter](https://twitter.com/ImranPollob/status/1545452246770585603) | advertise |
@@ -8941,6 +8944,7 @@ Do not create new issue or we will close it as duplicate.
 | [tantan69330666@twitter](https://twitter.com/tantan69330666/status/1491684232070299651) | advertise |
 | [Tantogrape@twitter](https://twitter.com/Tantogrape/status/1549988819981971456) | advertise |
 | [TanyaBones@twitter](https://twitter.com/TanyaBones/status/1438527093273473036) | advertise |
+| [tarabobby@twitter](https://twitter.com/tarabobby/status/1582455508128395264) | advertise |
 | [taraktungdung@twitter](https://twitter.com/taraktungdung/status/1397948304810418179) | advertise |
 | [tardcircus@twitter](https://twitter.com/tardcircus/status/1577460404682297344) | advertise |
 | [Tarek1337_@twitter](https://twitter.com/Tarek1337_/status/1560704403786563585) | advertise |
