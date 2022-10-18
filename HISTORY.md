@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-19: [DEN (Denver) on 2022-10-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lnb1wryrdrl4)
 - 2022-10-25: [SFO (San Francisco) on 2022-10-25](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kndqjbr3hsj7)
 - 2022-10-18: [Cloudflare in-browser Turnstile widget is currently not loading.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mhw49gyrlmw9)
 - 2022-10-18: [GYD (Baku) on 2022-10-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cxswf3h2p3tv)
