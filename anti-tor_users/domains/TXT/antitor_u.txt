@@ -66,6 +66,7 @@ www.usda.gov
 www.usps.com
 adfs.unitedlearning.org.uk
 adfs.uplet.cloud
+admin.s3.unige.ch
 agro-sad.uaprom.net
 alumnialliances.updatemyprofile.com
 apgvb-customer.uatvkycsbirrb.in
@@ -84,8 +85,10 @@ crystalpaths.unlockedachievementgaming.com
 dnash-rfs.ucoz.ru
 e5xx22pbfj94ot8.test.splendid-azure-site-677548.updatemy.website
 ebank.uaeb.uz
+ecf-test.ilnb.uscourts.gov
 ecf.mieb.uscourts.gov
 ecommerce.userede.com.br
+erms.uplus.co.kr
 fotoshtori.uaprom.net
 hfw.useimanage.com
 hub.ucd.ie
@@ -117,6 +120,7 @@ udonexpo.net
 uejaimeroldos.com
 uersfa.com
 ufosafe.com
+ukids.uplus.co.kr
 ultrashippingcontainers.com
 unarbokor.com
 uncnso.red
@@ -124,6 +128,7 @@ unflyricsurentrol.com
 unieb.com.br
 universeboss.net
 unnumelom.com
+untamedheartphotography.com
 update-paymtsamazon.com
 updatetarif.com
 ups-error.com
@@ -137,6 +142,7 @@ uriherrera.com
 urlturbo.com
 usafety.site
 usdps.top
+usendbrazil.com
 user.fm
 userplace.net
 uspds.top
@@ -144,16 +150,21 @@ uspns.top
 uspo1.top
 ussppost.usdps.top
 ussusd1centralff5.blob.core.usgovcloudapi.net
+usts.fr
 uudzfbzthj.com
 v2.utefilm.no
 vkyc-cedge.uatvkycsbirrb.in
 warhammer-40000.ucoz.ru
 webdisk.secure-service.updatemanagerssvrice.top
+webs.ucm.es
+www.alerta.unach.mx
 www.avalanche.usermainnet.site
 www.avaxnetwork.usermainnet.site
 www.billing.uwupi.com
 www.helpdesk.unnet.com.br
 www.ibank.ut-bk.com
+www.login.unnet.com.br
+www.osticket.razziel2.usermd.net
 www.stream.update-sports.com
 www.u-buy.com.ua
 www.ubsafe.nl
@@ -170,6 +181,7 @@ www.update-main-network.com
 www.upn.to
 www.upra.gov.co
 www.uralweb.ru
+www.urbandesignmentalhealth.com
 www.usa-ergomaxlongevity.us
 www.usavisaconsultant.com
 www.uscourts.gov
