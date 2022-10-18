@@ -4092,6 +4092,7 @@ Do not create new issue or we will close it as duplicate.
 | [jimmi_pranami@twitter](https://twitter.com/jimmi_pranami/status/1384443003415134214) | advertise |
 | [jimmy040720@twitter](https://twitter.com/jimmy040720/status/1552746417415868416) | advertise |
 | [jimmy90319098@twitter](https://twitter.com/jimmy90319098/status/1394347856098566146) | advertise |
+| [JimPOWR@twitter](https://twitter.com/JimPOWR/status/1582359527026233345) | advertise |
 | [Jim_Hawkins_1@twitter](https://twitter.com/Jim_Hawkins_1/status/1404288453064359936) | advertise |
 | [jincai53@twitter](https://twitter.com/jincai53/status/1391608086779949057) | advertise |
 | [jinchi50593324@twitter](https://twitter.com/jinchi50593324/status/1499036465673633799) | advertise |
@@ -7192,6 +7193,7 @@ Do not create new issue or we will close it as duplicate.
 | [papajuce100@twitter](https://twitter.com/papajuce100/status/1399211216061407233) | advertise |
 | [PaPaNaingLinTun@twitter](https://twitter.com/PaPaNaingLinTun/status/1390941738303299586) | advertise |
 | [papas68@twitter](https://twitter.com/papas68/status/1485710848983244806) | advertise |
+| [papimii@twitter](https://twitter.com/papimii/status/1582258872512761856) | advertise |
 | [paraboy113@twitter](https://twitter.com/paraboy113/status/1377615187969204225) | advertise |
 | [Parassi87009558@twitter](https://twitter.com/Parassi87009558/status/1405913945735450625) | advertise |
 | [parasyte_x@twitter](https://twitter.com/parasyte_x/status/1377532238997254144) | advertise |
@@ -8115,6 +8117,7 @@ Do not create new issue or we will close it as duplicate.
 | [SaiKyawHtunLin2@twitter](https://twitter.com/SaiKyawHtunLin2/status/1389980049797963776) | advertise |
 | [SaiLainKham16@twitter](https://twitter.com/SaiLainKham16/status/1392332454531420162) | advertise |
 | [SaiLaoSaing1@twitter](https://twitter.com/SaiLaoSaing1/status/1395771314208579589) | advertise |
+| [SaiLinnHtut2@twitter](https://twitter.com/SaiLinnHtut2/status/1582351042448338944) | advertise |
 | [SaiLonOne2@twitter](https://twitter.com/SaiLonOne2/status/1394350028995530756) | advertise |
 | [Sailwinaung3@twitter](https://twitter.com/Sailwinaung3/status/1390825654715703300) | advertise |
 | [SaiLynnKhant1@twitter](https://twitter.com/SaiLynnKhant1/status/1392483987566776332) | advertise |
