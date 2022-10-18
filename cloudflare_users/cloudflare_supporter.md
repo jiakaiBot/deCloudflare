@@ -4853,6 +4853,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kroniktotabuan@twitter](https://twitter.com/Kroniktotabuan/status/1453156761532203009) | advertise |
 | [krosty@twitter](https://twitter.com/krosty/status/1515216289207312384) | advertise |
 | [krtanev@twitter](https://twitter.com/krtanev/status/1581957025537589248) | advertise |
+| [KrulViper@twitter](https://twitter.com/KrulViper/status/1582399013563027457) | advertise |
 | [krunalp30106666@twitter](https://twitter.com/krunalp30106666/status/1402387067271667713) | advertise |
 | [Krzysie34656627@twitter](https://twitter.com/Krzysie34656627/status/1550498278126526464) | advertise |
 | [KSalout@twitter](https://twitter.com/KSalout/status/1498335781013831686) | advertise |
