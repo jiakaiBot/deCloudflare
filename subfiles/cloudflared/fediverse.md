@@ -14000,6 +14000,7 @@ Here's a list of public Fediverse services.
 | o-k-i.net | Yes |
 | o-man.co | No |
 | o-u-t-e-r.space | No |
+| o0i.es | No |
 | o1li.net | No |
 | o2h.club | No |
 | o2p.jp | Yes |
@@ -22103,7 +22104,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,481 |
-| Normal | 17,578 |
+| Normal | 17,579 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
