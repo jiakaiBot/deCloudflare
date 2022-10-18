@@ -65,7 +65,6 @@ Here's a list of public Matrix services.
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
-| matrix.glasgow.social | No |
 | group.lt | Yes |
 | hackerspaces.be | No |
 | matrix.hadoly.fr | No |
@@ -101,7 +100,6 @@ Here's a list of public Matrix services.
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
 | privex.io | Yes |
-| matrix.pub.solar | No |
 | matrix.qoto.org | No |
 | radiowarnerd.org | No |
 | riotchat.de | Yes |
@@ -119,7 +117,6 @@ Here's a list of public Matrix services.
 | the-apothecary.club | No |
 | matrix.tomesh.net | No |
 | trygve.me | No |
-| ungleich.matrix.ungleich.cloud | No |
 | matrix.unredacted.org | Yes |
 | utwente.io | No |
 | mtrx.vern.cc | No |
@@ -134,7 +131,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 20 |
-| Normal | 86 |
+| Normal | 83 |
 
 
-### 18.9% of public Matrix services are using Cloudflare.
+### 19.4% of public Matrix services are using Cloudflare.
