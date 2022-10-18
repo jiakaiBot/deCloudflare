@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,173 |
 | net | 1,749 |
-| org | 1,223 |
+| org | 1,224 |
 | social | 1,200 |
-| de | 1,042 |
+| de | 1,043 |
 
 
 - Mastodon, Pleroma, etc
@@ -826,6 +826,7 @@ Here's a list of public Fediverse services.
 | alpaka.social | No |
 | alpega.space | No |
 | alpharius.io | No |
+| alphasoft.org | No |
 | alphasupport.xyz | Yes |
 | alphawaveradio.co.uk | No |
 | alpinehut.xyz | No |
@@ -5540,6 +5541,7 @@ Here's a list of public Fediverse services.
 | euroxs.org | No |
 | eus.jp | No |
 | euskarabildua.eus | No |
+| euskaragendak.eus | No |
 | euskirchen.digital | No |
 | eutychia.org | Yes |
 | euzilla.de | No |
@@ -5714,6 +5716,7 @@ Here's a list of public Fediverse services.
 | familie-hanslik.de | No |
 | familiebijma.nl | No |
 | familienfreun.de | No |
+| familienfreund.de | No |
 | famille-bordes.net | No |
 | famille-coudert.eu | No |
 | famille-link.fr | No |
@@ -16903,6 +16906,7 @@ Here's a list of public Fediverse services.
 | sansschatten.com | No |
 | santoyo.io | Yes |
 | santsenques.cat | No |
+| sanwe.xyz | No |
 | sapphic.city | No |
 | sapphic.life | No |
 | sapphos.be | No |
@@ -22105,7 +22109,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,481 |
-| Normal | 17,580 |
+| Normal | 17,584 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
