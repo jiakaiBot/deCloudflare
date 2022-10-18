@@ -85,6 +85,7 @@ adfs.jfpe.jus.br
 analytics.julianois.fr
 api-ent1.jio.com
 api.jyro.io
+api.possible-drake.jetrist.com
 application.jeffjobin.com
 apps.jucees.es.gov.br
 bj.jmoney.xyz
@@ -97,6 +98,7 @@ d.joinhoney.com
 egscaptchas.jmga.xyz
 em.juroku.co.jp
 engraving2.quality.jaeger-lecoultre.cn
+events.jaarbeurs.nl
 exodus.com.merge.jamesxavier.net
 exodus.com.merge.javier-techno-reviews.com
 exodus.com.merge.jcyber.net
@@ -112,10 +114,13 @@ jarche.com
 jasakitchensetbekasi.com
 jbsconsultinggroup.com
 jeghomir.com
+jeparamebel.co.id
 jesseltontimes.com
+jetflamedeliveryservice.com
 jh-industrieservice.de
 jhakkas.com.np
 jhsahkopalvelu.fi
+jio-bppump.com
 jiocity.com
 jiomartdigital.com
 job-closet.com
@@ -129,6 +134,7 @@ jrleachauthor.com
 jrocknews.com
 juego-de-la-vida.ga
 julolecalve.website
+jumpplusgoods.jp
 jungpost.com
 juststopoil.org
 latexgirdle9.jigsy.com
@@ -140,6 +146,7 @@ opetitienr1medicalsistemsemnatura.jalienworldwide.com
 oscartl.jobtracking.com.au
 paypal.co.uk.jblevyco.com
 plejaden.julius-kuehn.de
+portal.japannext.co.jp
 rakuiten-japan-confirme.japan-happylifes.cyou
 repositorio.jfpe.jus.br
 sign-in.amazon.go.jp.jp-webservice.info
@@ -148,6 +155,8 @@ smdp-lab.jio.com
 snltranscripts.jt.org
 steam.jnet.app
 swabappapi.jefron-swab.com
+tickets.jr-odekake.net
+tmsp-webhook.jablotron.cloud
 twid-devgoodie.jatis.com
 tyuskage.jouwweb.nl
 ungit.service.joa.finance
@@ -173,8 +182,10 @@ www.jasonsepoxyflooring.com.au
 www.jddtreeservice.com
 www.jendexservice.com
 www.jennsecurity.com
+www.jetflamedeliveryservice.com
 www.jfddshop.tk
 www.jimshin.com.tw
+www.jiomarket.com
 www.jll.co.uk
 www.jodiharveyart.com
 www.jogpeople.com
@@ -190,5 +201,6 @@ www.jungpost.com
 www.justdial.com
 www.justia.com
 www.photogsbollocks.johnchapple.com
+www.supportpack.jgelectronics.com
 www.tools-usps-informed-intercept-delivery-mail.jkub.com
 www.track.jmp-logistik.com
