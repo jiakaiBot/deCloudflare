@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Error: No challenge selectors found, unable to proceed.](https://github.com/FlareSolverr/FlareSolverr/issues/549)
 - [Some system jobs not run after abrupt restart.](https://github.com/hashicorp/nomad/issues/14932)
 - [Back-end pre-launch tasks checklist](https://github.com/wagtail/guide/issues/126)
 - [True North Feed Error](https://github.com/yanus171/Handy-News-Reader/issues/836)
