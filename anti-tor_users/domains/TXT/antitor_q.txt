@@ -29,6 +29,7 @@ bankofamerica.qnb.tw
 belavista.duckdns.org.printondemand.metech.domains.qloaked.com
 cpcalendars.trustwallet.qpoe.com
 cpcontacts.trustwallet.qpoe.com
+demo.questsec.com
 eu.questionpro.de
 exchange.qualysoft.com
 helpdesk.quality-partner.be
@@ -42,6 +43,8 @@ qqplans.test.qantas.com.au
 qsafe.biz
 qsafe.ro
 qualifact.pl
+quangcaophuongdong.vn
+quangtrungchem.com.vn
 quantiqsccm.quantiq.com
 quartzsecurity.eu
 quartzsecurity.ro
