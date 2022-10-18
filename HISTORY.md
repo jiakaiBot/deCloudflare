@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-24: [MEL (Melbourne) on 2022-10-24](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0cqc2vgv2hz4)
 - 2022-10-20: [CDG (Paris) on 2022-10-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kkr4xnqx7qqf)
 - 2022-10-18: [SIN (Singapore) on 2022-10-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bx934my1mm9w)
 - 2022-10-19: [IST (Istanbul) on 2022-10-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/svfwxgfggmvd)
