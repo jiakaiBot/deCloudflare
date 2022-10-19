@@ -5044,6 +5044,7 @@ Here's a list of public Fediverse services.
 | eattherich.club | No |
 | eattherich.social | No |
 | eattra.sh | No |
+| eax.li | No |
 | eay.social | No |
 | eb8.org | No |
 | ebano.social | Yes |
@@ -22109,7 +22110,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,481 |
-| Normal | 17,584 |
+| Normal | 17,585 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
