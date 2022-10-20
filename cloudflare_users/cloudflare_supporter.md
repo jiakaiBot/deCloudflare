@@ -2441,6 +2441,7 @@ Do not create new issue or we will close it as duplicate.
 | [edgymane@twitter](https://twitter.com/edgymane/status/1423841971265687552) | advertise |
 | [editing_hero@twitter](https://twitter.com/editing_hero/status/1370248075189448711) | advertise |
 | [edm_thien@twitter](https://twitter.com/edm_thien/status/1400004176311046144) | advertise |
+| [edneymedeiros@twitter](https://twitter.com/edneymedeiros/status/1582791777853280256) | advertise |
 | [EdreaRae@twitter](https://twitter.com/EdreaRae/status/1389978942321291267) | advertise |
 | [EduartBerisha1@twitter](https://twitter.com/EduartBerisha1/status/1481998620379467783) | advertise |
 | [Edvard83454626@twitter](https://twitter.com/Edvard83454626/status/1424641511405367298) | advertise |
@@ -10154,6 +10155,7 @@ Do not create new issue or we will close it as duplicate.
 | [weirdo7822@twitter](https://twitter.com/weirdo7822/status/1390378835703599106) | advertise |
 | [weixinhan@twitter](https://twitter.com/weixinhan/status/1385103220226236416) | advertise |
 | [WELINGTONROQUE2@twitter](https://twitter.com/WELINGTONROQUE2/status/1445061282508464130) | advertise |
+| [Wellington_Tds@twitter](https://twitter.com/Wellington_Tds/status/1582710297097252864) | advertise |
 | [weloveAntony@twitter](https://twitter.com/weloveAntony/status/1568994144714117120) | advertise |
 | [Weriya_chiyagaw@twitter](https://twitter.com/Weriya_chiyagaw/status/1498220203284516868) | advertise |
 | [wesvalderama@twitter](https://twitter.com/wesvalderama/status/1386386480717729792) | advertise |
