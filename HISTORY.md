@@ -5,6 +5,11 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-26: [TPE (Taipei) on 2022-10-26](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6kfc2pggznz6)
+- 2022-10-26: [BOG (Bogotá) on 2022-10-26](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/j7lwwl91z0ll)
+- 2022-10-25: [CDG (Paris) on 2022-10-25](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/l1782xkqkskr)
+- 2022-10-20: [MRS (Marseille) on 2022-10-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yl8rkfjv5jwp)
+- 2022-10-19: [MEM (Memphis) on 2022-10-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/j9fvc7wfycbm)
 - 2022-10-19: [DEN (Denver) on 2022-10-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lnb1wryrdrl4)
 - 2022-10-25: [SFO (San Francisco) on 2022-10-25](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kndqjbr3hsj7)
 - 2022-10-18: [Cloudflare in-browser Turnstile widget is currently not loading.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mhw49gyrlmw9)
