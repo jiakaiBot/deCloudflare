@@ -4,6 +4,12 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [warp features like text editing not working via Cloudflare Zero Trust](https://github.com/warpdotdev/Warp/issues/1987)
+- [Migrations scripts logs errors but migration is successfully](https://github.com/linuxserver/docker-grocy/issues/58)
+- [build: fix release automation](https://github.com/hyperledger/cactus/issues/2175)
+- [Web app sessions don't persist](https://github.com/authelia/authelia/issues/4207)
+- [Server disconnects clients after 1.7mins when deployed on Aws behind load balancer and cloudflare](https://github.com/tpeczek/Lib.AspNetCore.ServerSentEvents/issues/54)
+- [Does not support Cloudflare R2 multi part uploads](https://github.com/peak/s5cmd/issues/525)
 - [Low-code SDK: CursorPagination removes base path from from url_base](https://github.com/airbytehq/airbyte/issues/18136)
 - [Error when a deal has no subscription and Pipedrive::Subscription.find_by_deal is called](https://github.com/getonbrd/pipedrive-connect/issues/23)
 - [Cloudflare Error: No challenge selectors found, unable to proceed.](https://github.com/FlareSolverr/FlareSolverr/issues/549)
