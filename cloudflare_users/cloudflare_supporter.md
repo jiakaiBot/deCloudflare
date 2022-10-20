@@ -4653,8 +4653,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -9894,6 +9894,7 @@ Do not create new issue or we will close it as duplicate.
 | [vanpham18588890@twitter](https://twitter.com/vanpham18588890/status/1552260408676782082) | advertise |
 | [VanshRa26933281@twitter](https://twitter.com/VanshRa26933281/status/1400390812681211907) | advertise |
 | [VanshSahni17@twitter](https://twitter.com/VanshSahni17/status/1549586329901535234) | advertise |
+| [VanVienNguyen1@twitter](https://twitter.com/VanVienNguyen1/status/1583101708531421185) | advertise |
 | [van_2808@twitter](https://twitter.com/van_2808/status/1406078940389593095) | advertise |
 | [van_dakip@twitter](https://twitter.com/van_dakip/status/1567230373565710343) | advertise |
 | [VarinderHayer3@twitter](https://twitter.com/VarinderHayer3/status/1400361261389385733) | advertise |
