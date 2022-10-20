@@ -86,6 +86,7 @@ analytics.julianois.fr
 api-ent1.jio.com
 api.jyro.io
 api.possible-drake.jetrist.com
+app.jet.vet
 application.jeffjobin.com
 apps.jucees.es.gov.br
 bj.jmoney.xyz
@@ -97,6 +98,7 @@ cpanel.javachip.xyz
 d.joinhoney.com
 egscaptchas.jmga.xyz
 em.juroku.co.jp
+email.alimail.jinxindevelops.com
 engraving2.quality.jaeger-lecoultre.cn
 events.jaarbeurs.nl
 exodus.com.merge.jamesxavier.net
@@ -116,6 +118,7 @@ jbsconsultinggroup.com
 jeghomir.com
 jeparamebel.co.id
 jesseltontimes.com
+jetcoin.io
 jetflamedeliveryservice.com
 jh-industrieservice.de
 jhakkas.com.np
@@ -133,15 +136,18 @@ jra.jp
 jrleachauthor.com
 jrocknews.com
 juego-de-la-vida.ga
+juhakankkunen.fi
 julolecalve.website
 jumpplusgoods.jp
 jungpost.com
 juststopoil.org
+jvictorians.com
 latexgirdle9.jigsy.com
 ll.jahin.org
 mail.jmberlin.de
 merchant.jiomart.com
 minicode.jykjwx.com
+myjio.shopping.jio.com
 opetitienr1medicalsistemsemnatura.jalienworldwide.com
 oscartl.jobtracking.com.au
 paypal.co.uk.jblevyco.com
@@ -157,6 +163,7 @@ steam.jnet.app
 swabappapi.jefron-swab.com
 tickets.jr-odekake.net
 tmsp-webhook.jablotron.cloud
+traininfo.jr-central.co.jp
 twid-devgoodie.jatis.com
 tyuskage.jouwweb.nl
 ungit.service.joa.finance
@@ -173,12 +180,14 @@ wiki.jarexibackblaze.xyz
 wiki.jenett.org
 www.aruba-it.jacobi-os.de
 www.games.jedfibank.co
+www.gescliente.com.just4web.pt
 www.j-m-bouw-2022-gmail.com
 www.jaccs.co.jp
 www.jackiessewingservice.com
 www.jacksrbetter.com
 www.janwillemswane.nl
 www.jasonsepoxyflooring.com.au
+www.java.com
 www.jddtreeservice.com
 www.jendexservice.com
 www.jennsecurity.com
@@ -192,6 +201,7 @@ www.jogpeople.com
 www.john-roche-author.com
 www.jokerservice.fr
 www.journalgazette.net
+www.journalinquirer.com
 www.jouw-mening.be
 www.jp263.cn
 www.jrkyushu-kippu.jp
