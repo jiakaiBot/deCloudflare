@@ -31,6 +31,7 @@ zumzumar.com
 zxcdn.com
 acceptatie-client.zorgplatform.online
 api.zodomus.com
+assessments.zfco.com
 cdn.zero-trust-security.de
 click.mail2.zocdoc.com
 client.zorgplatform.online
@@ -41,8 +42,10 @@ idp.saas.zeb-it.de
 m7.caixabank.zinsprofi.de
 mail.zasgroup.com
 mail.zeusassociate.com
+pay.zivameshapewear.com
 paypal.com.zd-league.com
 secure-paypal-access-login-confirm-account.zmgconsulting.co.za
+service-line-messaging.zipzoft.online
 servicedesk.zuehlke.com
 sq-aovpn.zetec.com
 static.gov.zw12345.com
@@ -54,6 +57,7 @@ www.apply.zarnab.pk
 www.client-analytics.zerrohost.com
 www.client.rdtcap.zahid.com.bd
 www.zaguri-reinigungsservice.de
+www.zappos.com
 www.ziplocal.ca
 www.zocdoc.com
 www.zwilnik.com
@@ -64,9 +68,11 @@ zachmarshall.ml
 zachmitchell.ml
 zahid-agromiks.com.ua
 zaiflyer.com
+zamirwears.ir
 zarapost.id
 zcomm.org
 zdw41pmj.cn
+zealorganosys.com
 zenontreeservice.com
 zenva.pk
 zernyatko.in.ua
