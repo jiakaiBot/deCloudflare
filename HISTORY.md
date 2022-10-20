@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-20: [Elevated number of 1018/409 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8hg71xnpsjjd)
 - 2022-10-26: [TPE (Taipei) on 2022-10-26](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6kfc2pggznz6)
 - 2022-10-26: [BOG (Bogotá) on 2022-10-26](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/j7lwwl91z0ll)
 - 2022-10-25: [CDG (Paris) on 2022-10-25](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/l1782xkqkskr)
