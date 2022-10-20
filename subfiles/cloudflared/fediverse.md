@@ -8160,7 +8160,7 @@ Here's a list of public Fediverse services.
 | hpea.moe | Yes |
 | hpi.wtf | No |
 | hptrow.me | No |
-| hqpf.site | Yes |
+| hqpf.site | No |
 | href.space | No |
 | hrkp.ir | No |
 | hrmtc.io | Yes |
@@ -14458,6 +14458,7 @@ Here's a list of public Fediverse services.
 | otajo.tk | No |
 | otajodon.com | Yes |
 | otakan.jp | No |
+| otakucdn.cf | No |
 | otakudon.jp | No |
 | otakufarms.com | Yes |
 | otakusquad.nl | No |
@@ -19336,7 +19337,7 @@ Here's a list of public Fediverse services.
 | this-is-epic.space | Yes |
 | thisco.de | No |
 | thisdevfucks.com | No |
-| thisisgoodcontent.com | No |
+| thisisgoodcontent.com | Yes |
 | thisishowidontdisappear.com | No |
 | thisisjoes.site | No |
 | thisismyjam.social | No |
@@ -22124,7 +22125,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,487 |
-| Normal | 17,593 |
+| Normal | 17,594 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
