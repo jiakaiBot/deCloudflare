@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Deployment Issue Deploy with Github Action show Error authentication.](https://github.com/caprover/caprover/issues/1537)
 - [warp features like text editing not working via Cloudflare Zero Trust](https://github.com/warpdotdev/Warp/issues/1987)
 - [Migrations scripts logs errors but migration is successfully](https://github.com/linuxserver/docker-grocy/issues/58)
 - [build: fix release automation](https://github.com/hyperledger/cactus/issues/2175)
