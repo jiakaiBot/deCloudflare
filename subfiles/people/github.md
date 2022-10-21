@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: Cloudflare blocked scrap](https://github.com/leshiy960/pars_investing_news/issues/2)
 - [Block has no labels left, creating one](https://github.com/thanos-io/thanos/issues/5805)
 - [Not working issue.](https://github.com/misobarisic/redgifs-downloader/issues/17)
 - [Cloudfare blocking Maven Repo](https://github.com/minaoar/library-version-wise-opinion-extration/issues/19)
