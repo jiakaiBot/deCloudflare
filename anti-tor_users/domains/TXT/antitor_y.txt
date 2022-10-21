@@ -51,6 +51,7 @@ images.ywcontent.com
 img.youtube.com
 insuranceuat.yesbank.in
 lync.jp.yazaki.com
+mc.yandex.com
 music.yandex.ru
 openweb.jac.yahoosandbox.com
 ov.youbuy.com
@@ -62,12 +63,15 @@ resize.yandex.net
 rest.edu.you-connect.de
 rest.edupub.you-connect.de
 s.yimg.com
+tumblr.yatima.xyz
 tunnel.tcy.yapikredi.com.tr
 www.acformatic.yn.lu
 www.contactme.yusufhamitkaya.com
 www.dashboard.yamnet.website
 www.db.yugioh-card.com
 www.eki-net.yicglc.shop
+www.kauppa.ykkospalvelu.fi
+www.unicredit.yekdo.com
 www.y-koseiren.jp
 www.yauth.top
 www.yeos.com.sg
@@ -81,6 +85,7 @@ yachtbot.us
 yamamotocli.com
 yariika.com
 yasno.com.ua
+yekdo.com
 yimpolis.com
 ylavjbljpt.com
 yolandachapman.ml
