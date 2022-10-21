@@ -8675,6 +8675,7 @@ Do not create new issue or we will close it as duplicate.
 | [SoeYarz80744231@twitter](https://twitter.com/SoeYarz80744231/status/1390279447211741195) | advertise |
 | [soeyumon15@twitter](https://twitter.com/soeyumon15/status/1404333686925840389) | advertise |
 | [softword@twitter](https://twitter.com/softword/status/1495497302441709568) | advertise |
+| [sogo_masoud@twitter](https://twitter.com/sogo_masoud/status/1583564042459033601) | advertise |
 | [sohail_2668@twitter](https://twitter.com/sohail_2668/status/1379913128268328961) | advertise |
 | [soidn12382@twitter](https://twitter.com/soidn12382/status/1564290659644715008) | advertise |
 | [soil35719772@twitter](https://twitter.com/soil35719772/status/1392742661144997890) | advertise |
