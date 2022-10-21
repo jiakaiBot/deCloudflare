@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,174 |
-| net | 1,750 |
-| org | 1,225 |
+| com | 3,175 |
+| net | 1,751 |
+| org | 1,226 |
 | social | 1,201 |
 | de | 1,044 |
 
@@ -5436,6 +5436,7 @@ Here's a list of public Fediverse services.
 | equestria.social | No |
 | eradicatinglove.xyz | Yes |
 | eragon.re | No |
+| erase.nz | No |
 | erch.co | Yes |
 | erch.social | No |
 | erdorin.org | No |
@@ -13359,6 +13360,7 @@ Here's a list of public Fediverse services.
 | nerv-project.eu | No |
 | nervestaple.com | No |
 | nesakko.xyz | No |
+| neshura-server.net | No |
 | neso.tech | No |
 | nesohub.org | No |
 | ness.ml | No |
@@ -18294,6 +18296,7 @@ Here's a list of public Fediverse services.
 | stephenbasile.com | Yes |
 | stephencorwin.com | Yes |
 | stephenking.club | No |
+| stephenpieper.blog | No |
 | stephenpieper.net | No |
 | stephenson.cc | No |
 | steppe.club | No |
@@ -18630,6 +18633,7 @@ Here's a list of public Fediverse services.
 | synergetic-design.com | No |
 | synergy-tube.co.za | No |
 | synfinner.blog | No |
+| synkosmos.org | No |
 | synology.me | No |
 | syntaxerror.space | No |
 | syntheti.cyou | Yes |
@@ -20807,6 +20811,7 @@ Here's a list of public Fediverse services.
 | vtubertalk.com | No |
 | vuc.me | No |
 | vucica.net | No |
+| vuju.com | No |
 | vulcantv.net | No |
 | vulgarisation-informatique.fr | No |
 | vulpes.one | No |
@@ -22125,7 +22130,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,487 |
-| Normal | 17,594 |
+| Normal | 17,599 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
