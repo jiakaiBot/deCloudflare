@@ -4660,8 +4660,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -9703,6 +9703,7 @@ Do not create new issue or we will close it as duplicate.
 | [tr_ling@twitter](https://twitter.com/tr_ling/status/1523468569475837953) | advertise |
 | [Tsewang73248585@twitter](https://twitter.com/Tsewang73248585/status/1385606825676984327) | advertise |
 | [Tsherin04300710@twitter](https://twitter.com/Tsherin04300710/status/1394306975505129474) | advertise |
+| [Tskikoh@twitter](https://twitter.com/Tskikoh/status/1576210124296683522) | advertise |
 | [tsubu_srs@twitter](https://twitter.com/tsubu_srs/status/1502921073087578112) | advertise |
 | [Tsumidoodle@twitter](https://twitter.com/Tsumidoodle/status/1382636178562633729) | advertise |
 | [tsvetkov_spb@twitter](https://twitter.com/tsvetkov_spb/status/1538766614782529539) | advertise |
