@@ -565,6 +565,7 @@ Do not create new issue or we will close it as duplicate.
 | [Amirulsyafeeq66@twitter](https://twitter.com/Amirulsyafeeq66/status/1550517767899840512) | advertise |
 | [amir_809@twitter](https://twitter.com/amir_809/status/1573479973331017728) | advertise |
 | [AmitSin32558267@twitter](https://twitter.com/AmitSin32558267/status/1483704135405142016) | advertise |
+| [amjadazizi1@twitter](https://twitter.com/amjadazizi1/status/1583285934334050306) | advertise |
 | [Amjad_Azizi25@twitter](https://twitter.com/Amjad_Azizi25/status/1583216658784534528) | advertise |
 | [AmjSuper@twitter](https://twitter.com/AmjSuper/status/1385840633030529026) | advertise |
 | [AmJung17@twitter](https://twitter.com/AmJung17/status/1524909732720689152) | advertise |
@@ -7783,6 +7784,7 @@ Do not create new issue or we will close it as duplicate.
 | [Raj00446912@twitter](https://twitter.com/Raj00446912/status/1402881832203395073) | advertise |
 | [Raj0707Garapati@twitter](https://twitter.com/Raj0707Garapati/status/1394255967928295425) | advertise |
 | [Raj71446827@twitter](https://twitter.com/Raj71446827/status/1380171008787681284) | advertise |
+| [RAJAKHAIRULZAM2@twitter](https://twitter.com/RAJAKHAIRULZAM2/status/1583269818915921920) | advertise |
 | [RajaOwaisAli2@twitter](https://twitter.com/RajaOwaisAli2/status/1543493764127285248) | advertise |
 | [rajasimon@twitter](https://twitter.com/rajasimon/status/1498410367797530625) | advertise |
 | [RajeevKurmi18@twitter](https://twitter.com/RajeevKurmi18/status/1493246122130755588) | advertise |
