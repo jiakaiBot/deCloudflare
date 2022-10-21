@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,175 |
+| com | 3,176 |
 | net | 1,751 |
 | org | 1,226 |
 | social | 1,202 |
-| de | 1,044 |
+| de | 1,045 |
 
 
 - Mastodon, Pleroma, etc
@@ -2099,7 +2099,7 @@ Here's a list of public Fediverse services.
 | bitcoinhackers.org | Yes |
 | bitcoinlizard.net | No |
 | bitcoinmagazine.social | No |
-| bitcoinmastodon.org | No |
+| bitcoinmastodon.org | Yes |
 | bitcoinplebs.net | No |
 | bitcoinsasquatch.com | No |
 | bitcointv.com | No |
@@ -4192,6 +4192,7 @@ Here's a list of public Fediverse services.
 | davidlane.io | Yes |
 | davidlibeau.fr | No |
 | davidmaitland.me | Yes |
+| davidmckeitch.com | Yes |
 | davidpea.ch | No |
 | davidpeach.co.uk | Yes |
 | davidpeach.me | No |
@@ -9073,7 +9074,7 @@ Here's a list of public Fediverse services.
 | jibby.org | Yes |
 | jibun.club | No |
 | jidaar.net | No |
-| jidong.in | No |
+| jidong.in | Yes |
 | jidoridon.com | No |
 | jieke.me | Yes |
 | jigawatt.io | No |
@@ -10258,7 +10259,7 @@ Here's a list of public Fediverse services.
 | laundromat.me | No |
 | laurakalbag.com | No |
 | lauraritchie.com | No |
-| laurelmail.net | No |
+| laurelmail.net | Yes |
 | lavadero.dev | No |
 | lavafeld.org | No |
 | lavalite.de | No |
@@ -12967,6 +12968,7 @@ Here's a list of public Fediverse services.
 | myddns.me | No |
 | mydns.jp | Yes |
 | myds.me | No |
+| myepicserver.de | Yes |
 | myfamilyandfriends.net | No |
 | myfed.space | No |
 | myfellowverm.in | Yes |
@@ -15617,7 +15619,7 @@ Here's a list of public Fediverse services.
 | privacy.tk | No |
 | privacyfirst.social | No |
 | privacyguides.org | Yes |
-| privacyhub.xyz | Yes |
+| privacyhub.xyz | No |
 | privacyinternational.org | Yes |
 | privacymatters.pro | No |
 | privacytools.io | Yes |
@@ -22131,8 +22133,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,488 |
-| Normal | 17,600 |
+| Cloudflare | 4,492 |
+| Normal | 17,598 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
