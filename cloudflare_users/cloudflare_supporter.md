@@ -6941,6 +6941,7 @@ Do not create new issue or we will close it as duplicate.
 | [ns331863@twitter](https://twitter.com/ns331863/status/1573101439789965312) | advertise |
 | [NSadiqie@twitter](https://twitter.com/NSadiqie/status/1581902829546979328) | advertise |
 | [NSAisBACK@twitter](https://twitter.com/NSAisBACK/status/1540511032237506560) | advertise |
+| [nsatria993@twitter](https://twitter.com/nsatria993/status/1583356805853614081) | advertise |
 | [NsauPricilla@twitter](https://twitter.com/NsauPricilla/status/1394617886178566144) | advertise |
 | [nsktar@twitter](https://twitter.com/nsktar/status/1502997750501281799) | advertise |
 | [NtalPtal@twitter](https://twitter.com/NtalPtal/status/1545399216754810880) | advertise |
