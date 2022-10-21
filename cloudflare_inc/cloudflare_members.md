@@ -690,6 +690,7 @@ Or is this merely a case of simple modesty?
 | Ian Spivey | Engineering Manager | ispivey@cloudflare.com<br>https://twitter.com/ispivey<br>https://ianspivey.com/<br>https://github.com/ispivey |
 | Ian Tolond | Employee |  |
 | Ignat Korchagin | Systems Engineer | https://twitter.com/ignatkn<br>https://pqsec.org/ |
+| Igor Minar | Employee | |
 | Igor Postelnik | Employee |  |
 | Ilhem Benmeriem | Customer Success |  |
 | Ilya Andreev | Intern |  |
@@ -1342,6 +1343,7 @@ Or is this merely a case of simple modesty?
 | Pei Ching | Employee |  |
 | Peng Zhang | Systems Engineer |  |
 | Pete Clayton | People Team |  |
+| Peter Bacon Darwin | Employee | |
 | Peter Belesis | Employee |  |
 | Peter Carlsten | Interconnection Strategy |  |
 | Peter Dumanian | Business Development |  |
