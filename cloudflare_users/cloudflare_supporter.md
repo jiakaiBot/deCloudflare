@@ -589,6 +589,7 @@ Do not create new issue or we will close it as duplicate.
 | [AN230347@twitter](https://twitter.com/AN230347/status/1401881366468333571) | advertise |
 | [An17672258@twitter](https://twitter.com/An17672258/status/1404797446702698502) | advertise |
 | [anadeau@twitter](https://twitter.com/anadeau/status/1443984356448550916) | advertise |
+| [anakaoka@twitter](https://twitter.com/anakaoka/status/1583527017961893888) | advertise |
 | [Anan29081@twitter](https://twitter.com/Anan29081/status/1400126368101244931) | advertise |
 | [Ananthu94431440@twitter](https://twitter.com/Ananthu94431440/status/1381601689925414916) | advertise |
 | [anas639623@twitter](https://twitter.com/anas639623/status/1380424790897483776) | advertise |
@@ -1858,8 +1859,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -4250,6 +4251,7 @@ Do not create new issue or we will close it as duplicate.
 | [JTdoodler@twitter](https://twitter.com/JTdoodler/status/1441130159227252738) | advertise |
 | [JuanHerna132@twitter](https://twitter.com/JuanHerna132/status/1514846521870589954) | advertise |
 | [JubearHossan@twitter](https://twitter.com/JubearHossan/status/1472037401329504257) | advertise |
+| [judgybaguette@twitter](https://twitter.com/judgybaguette/status/1583525208920449025) | advertise |
 | [juelff00@twitter](https://twitter.com/juelff00/status/1488815821321543685) | advertise |
 | [JulianaXlie@twitter](https://twitter.com/JulianaXlie/status/1392063889697697799) | advertise |
 | [JulieMmtm12@twitter](https://twitter.com/JulieMmtm12/status/1383610725751427076) | advertise |
