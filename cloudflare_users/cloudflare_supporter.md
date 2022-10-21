@@ -4352,6 +4352,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kanchan36627193@twitter](https://twitter.com/Kanchan36627193/status/1527031188317417472) | advertise |
 | [Kane09375517@twitter](https://twitter.com/Kane09375517/status/1379837150208782336) | advertise |
 | [Kaneki4101@twitter](https://twitter.com/Kaneki4101/status/1503382721556623364) | advertise |
+| [Kaneyee2109@twitter](https://twitter.com/Kaneyee2109/status/1583318369008115712) | advertise |
 | [kangketikonlen@twitter](https://twitter.com/kangketikonlen/status/1504624017885474834) | advertise |
 | [KangSerox@twitter](https://twitter.com/KangSerox/status/1492632243529187331) | advertise |
 | [kangsingh10@twitter](https://twitter.com/kangsingh10/status/1388737035691696132) | advertise |
@@ -10328,6 +10329,7 @@ Do not create new issue or we will close it as duplicate.
 | [xol_au@twitter](https://twitter.com/xol_au/status/1552234529355595778) | advertise |
 | [XoPhuong@twitter](https://twitter.com/XoPhuong/status/1468953478114394113) | advertise |
 | [xpyc_tum@twitter](https://twitter.com/xpyc_tum/status/1450210490920095747) | advertise |
+| [xr1V3r@twitter](https://twitter.com/xr1V3r/status/1583318789394862080) | advertise |
 | [XR389680978@twitter](https://twitter.com/XR389680978/status/1402950109134876673) | advertise |
 | [XRay12539891@twitter](https://twitter.com/XRay12539891/status/1395074993768304647) | advertise |
 | [xrayrose176@twitter](https://twitter.com/xrayrose176/status/1379845552997724163) | advertise |
