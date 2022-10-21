@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [digifinex withdraw Amount precision error](https://github.com/ccxt/ccxt/issues/15376)
 - [Error: Cloudflare blocked scrap](https://github.com/leshiy960/pars_investing_news/issues/2)
 - [Block has no labels left, creating one](https://github.com/thanos-io/thanos/issues/5805)
 - [Not working issue.](https://github.com/misobarisic/redgifs-downloader/issues/17)
