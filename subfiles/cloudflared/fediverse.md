@@ -2323,6 +2323,7 @@ Here's a list of public Fediverse services.
 | boltcutter.network | Yes |
 | bombayguy.in | No |
 | bombaywallah.com | Yes |
+| bommo.au | Yes |
 | bomucha.net | No |
 | boneheadmedia.com | Yes |
 | bonfire.cafe | No |
@@ -22133,7 +22134,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,492 |
+| Cloudflare | 4,493 |
 | Normal | 17,598 |
 
 
