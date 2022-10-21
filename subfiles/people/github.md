@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Flaresolverr Issue, Detecting Headless Browser](https://github.com/FlareSolverr/FlareSolverr/issues/558)
 - [Help: Cloudflare sends out changed notification every cycle even though IP address does not change](https://github.com/qdm12/ddns-updater/issues/381)
 - [digifinex withdraw Amount precision error](https://github.com/ccxt/ccxt/issues/15376)
 - [Error: Cloudflare blocked scrap](https://github.com/leshiy960/pars_investing_news/issues/2)
