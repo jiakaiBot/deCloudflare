@@ -21,9 +21,11 @@ api-dev.iam.xom.cloud
 api.staging.xceed-project.com
 autoconfig.xn--reifenservice-rbel-r3b.de
 autodiscover.cpanel.webdisk.webmail.mail.www.xflirt.fr
+avisosdeprivacidad.xtrategya.com
 blue-canary.xboxservices.com
 canadapost.ca.xueqfa.cn
 ci.xiaohongshu.com
+click.messages.xoom.com
 cpcalendars.trustwallet.xxuz.com
 cpcontacts.trustwallet.xxuz.com
 formservice-frontend.xantasoft.com
@@ -38,6 +40,7 @@ twitter.com7.xmoments.cam
 twitter.com8.xmoments.cam
 upsdelivery-servieces.xbbnqblk.shop
 webdisk.trustwallet.xxuz.com
+www.avisosdeprivacidad.xtrategya.com
 www.comforthotelsydneyairport.com.au.xpcconline.com
 www.eki-net.xyqwez.shop
 www.money.xjpgvn.ml
@@ -71,6 +74,7 @@ xn--mcrosoftoffice-0lb.email
 xn--paypalvrif-h7a.fr
 xn--serviceconstana-knf.ro
 xn--sikkerhetsmned-vib.no
+xn--yug-gla.com
 xnetric.com
 xobofa-6authtx.tel
 xpressfreightservice.com
