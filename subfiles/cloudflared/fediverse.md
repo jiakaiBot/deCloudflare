@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,175 |
 | net | 1,751 |
 | org | 1,226 |
-| social | 1,201 |
+| social | 1,202 |
 | de | 1,044 |
 
 
@@ -16435,6 +16435,7 @@ Here's a list of public Fediverse services.
 | ribbit.fun | No |
 | ribbit.xyz | No |
 | ribeiro.social | No |
+| ricard.social | No |
 | rice.id.au | Yes |
 | ricearoni.org | No |
 | ricebook.org | No |
@@ -22131,7 +22132,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,488 |
-| Normal | 17,599 |
+| Normal | 17,600 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
