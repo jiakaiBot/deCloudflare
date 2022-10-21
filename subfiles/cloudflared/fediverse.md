@@ -1815,7 +1815,7 @@ Here's a list of public Fediverse services.
 | beardbytes.life | Yes |
 | beardedpen.com | No |
 | beardedtek.com | No |
-| beardforce.com | No |
+| beardforce.com | Yes |
 | beardystarstuff.net | No |
 | beardyunixer.com | No |
 | bearmulk.us | No |
@@ -2004,6 +2004,7 @@ Here's a list of public Fediverse services.
 | bigdickisbackintown.futbol | No |
 | bigdinosaur.org | Yes |
 | bigdoinks.online | No |
+| bigfloppa.art | No |
 | bigguys.club | No |
 | bigheart.tech | No |
 | biglittle.space | No |
@@ -22129,7 +22130,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,487 |
+| Cloudflare | 4,488 |
 | Normal | 17,599 |
 
 
