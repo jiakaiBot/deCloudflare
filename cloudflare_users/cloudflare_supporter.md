@@ -1873,6 +1873,7 @@ Do not create new issue or we will close it as duplicate.
 | [crxckyt@twitter](https://twitter.com/crxckyt/status/1385437055799418882) | advertise |
 | [Crypto202014@twitter](https://twitter.com/Crypto202014/status/1387859463168659457) | advertise |
 | [cryptofans13@twitter](https://twitter.com/cryptofans13/status/1564864914879299584) | advertise |
+| [cryptofyre@twitter](https://twitter.com/cryptofyre/status/1583501372212682752) | advertise |
 | [cryptoguy202111@twitter](https://twitter.com/cryptoguy202111/status/1401154202269884417) | advertise |
 | [cryptolinx1@twitter](https://twitter.com/cryptolinx1/status/1528762892845207552) | advertise |
 | [Cryptolover10@twitter](https://twitter.com/Cryptolover10/status/1394207496680579072) | advertise |
