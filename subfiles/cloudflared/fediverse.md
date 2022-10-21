@@ -4430,7 +4430,7 @@ Here's a list of public Fediverse services.
 | deutrino.net | No |
 | deuxfleurs.fr | No |
 | deuxmillesoixantedix.art | No |
-| dev-c.at | No |
+| dev-c.at | Yes |
 | dev-null.rocks | Yes |
 | dev-wiki.de | Yes |
 | dev.gy | No |
@@ -18239,6 +18239,7 @@ Here's a list of public Fediverse services.
 | starrevolution.org | No |
 | starry.ml | No |
 | starrycocoon.ml | No |
+| starshines.xyz | Yes |
 | starship.coffee | No |
 | starshipchangeling.net | No |
 | starshipcritic.space | No |
@@ -22134,8 +22135,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,493 |
-| Normal | 17,598 |
+| Cloudflare | 4,495 |
+| Normal | 17,597 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
