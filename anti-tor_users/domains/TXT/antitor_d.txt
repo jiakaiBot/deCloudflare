@@ -221,6 +221,7 @@ yoshiiaki.deviantart.com
 537-review-fix-bank-p-mpmjun.review.denteo.org
 58015cabe0ffca25b200a8b96bfde6d9.dancefloor.dev
 66f9b3927035438622bcd59ae402f34a.dancefloor.dev
+78bcca32c9864a499a6fd4625858bde4.svc.dynamics.com
 852048accdf1458ba1c7fcd06f9512c5.svc.dynamics.com
 a2fb9781b6e24716995472ddae4ed540.svc.dynamics.com
 academy.discord-accounts.ru
@@ -254,6 +255,7 @@ audio.mellatmehrgallegrolokalnieaaa.aaadmin.derinport.net
 aurorabapenv97798.crmtest.dynamics.com
 authspokegovpass.dss.gov.au
 autodiscover.discordiastudio.hr
+autodiscover.dynok.net
 autodiscover.dynomotion.biz
 autodiscover.dynomotion.com
 backend.discord-acc.ru
@@ -270,6 +272,7 @@ blog.bbs.discord-accounts.ru
 bo.monparcoursentreprise.banqueentreprise.dev.bnpparibas
 bolt.dropbox.com
 c9d3b40f34ed4148a2ce444202f7f6e4.svc.dynamics.com
+callback.daopay.com
 cardapio.dompedritodelivery.com.br
 careconcierge.demowebsiteclient.com
 careers.web.denso-int.org
@@ -285,6 +288,7 @@ client.donaldlouch.ca
 cliente.dsjsolucoes.com
 cliente.exclusivobra.appcompleto.dynv6.net
 clients.ddpcplan.com
+coaching-plus.demowebsiteclient.com
 code.daridan.net
 connect.deloitte.lu
 contoh.dakhura.com
@@ -299,12 +303,14 @@ cpcalendars.descargaroblox.top
 cpcalendars.discordiastudio.hr
 cpcalendars.dokterappleid.com
 cpcalendars.dynocomputer.com
+cpcalendars.dynok.net
 cpcalendars.dynomotion.biz
 cpcalendars.dynomotion.com
 cpcalendars.mercadotrecos.com.br.dmatechnus.com.br
 cpcontacts.descargaroblox.top
 cpcontacts.discordiastudio.hr
 cpcontacts.dokterappleid.com
+cpcontacts.dynok.net
 cpcontacts.dynomotion.biz
 cpcontacts.dynomotion.com
 cpcontacts.mercadotrecos.com.br.dmatechnus.com.br
@@ -346,6 +352,7 @@ dddcontrol.ro
 ddhvacservice.com
 dealer-express.com.ua
 debtfree.in
+decizia.ro
 declinedisobey.com
 deed.co.th
 deem.io
@@ -353,6 +360,7 @@ delanoi.ro
 deliverhealth.ch
 delivery-dhll.gq
 demcaocap.com
+demcobank.in
 demetraplus.com.ua
 derechohabiente.com
 deref-gmx.net
@@ -397,7 +405,9 @@ digiteket.se
 dimarakis.de
 dinerorein.com
 dinshagnadaco.com
+dirittiallacitta.org
 disco-lespectacle.fr
+disco2disco.co.uk
 discoovera.com
 discopandu.com
 discorama.nl
@@ -407,6 +417,7 @@ discovery-prod01.diligentcloudservices.com
 discrod-egifts.com
 discrodgift.com
 district-417.org
+district160.com
 djclegal.com
 djdontyakno.com
 djonline.com
@@ -416,6 +427,7 @@ dl.dropboxusercontent.com
 dlktech.co.in
 dlnservice.ro
 dlscordiboosts.com
+dlscordjboosts.com
 dlscordlboosts.com
 dmsu.gov.ua
 dobrytemat-dev.cloud.dmtec.eu
@@ -434,6 +446,7 @@ donnarestore.com.br
 donnotbipeds.com
 downsouthsafety.com.au
 dperfect.com
+dragly.org
 drakbareyehospitals.com
 dresdencodak.com
 drivermax.jp
@@ -448,6 +461,7 @@ dtp-service24.eu
 duit123.asia
 dulatiosa.com
 dulsesglueing.com
+dunia-fotocopy.com
 durableshippingcontainers.com
 duriantrust.com
 duro.rs
@@ -457,6 +471,7 @@ dynocar.org
 dynomotion.biz
 dynomotion.com
 dynomotion.dynomotion.biz
+dynomusic.co.uk
 dynoracing.com
 dynorobux.com
 elearning.dgmsupport.com
@@ -483,6 +498,7 @@ gitlab.discord-store.ru
 graphic.demowebsiteclient.com
 harwicks-art.deviantart.com
 help.digitalprachar.app
+helpdesk-account18.dns.army
 helpdesk-supports154.dns.army
 hr.disano.it
 ibcm.dswincq.com
@@ -526,6 +542,7 @@ mail.dokterappleid.com
 mail.dominos.nl
 mail.dynomotion.biz
 mail.dynomotion.com
+mailgate2.dw-services.net
 marco.demowebsiteclient.com
 mariajosadmin.discord-accounts.ru
 media.derideal.com
@@ -533,6 +550,7 @@ media.diageocms.com
 mercadotrecos.com.br.dmatechnus.com.br
 microblog.defiantsloth.com
 minhaclaro.dtmmkt.com.br
+mizushobanke.durrey-japane.shop
 mobile.discoverapp.com
 myhealthycommunity.dhss.delaware.gov
 myprivacy.dpgmediagroup.net
@@ -560,10 +578,13 @@ panel.discord-accounts.ru
 parcel-cdn.delivery-status.com
 passwort.mkuhl.ddnss.org
 pastelmistress.deviantart.com
+pay.disco-list.com
+pay.dynodieselperformance.com
 pcrws.dab.gov.af
 phpmyadmin.discord-store.ru
 portal.discord-acc.ru
 preprodbwr.destatis.de
+promo.dentalstory.kiev.ua
 property.desongraha.com
 protect.docusign.net
 pt.dalfen.com.br
@@ -622,12 +643,14 @@ t-systems-client-services-stage.dwtemp.de
 t.dripemail2.com
 t8.dropbox.com
 tag-manager-api.datavault.tech
+tauriello.dzvoip.it
 test.deteriorate-distribute.site
 thepreswordpress.discord-accounts.ru
 thunder.dropbox.com
 ticket1.derticketservice.de
 tracking-usps-qualify-informed-deliver-package-jsp.dns05.com
 tts.donga.com
+tts1.donga.com
 us-east-1.sns-sqs.services.fa6e6eb315a392465e8f26741516c5fc.dancefloor.dev
 user.discord-acc.ru
 utvphmkv.dreamwp.com
@@ -641,6 +664,7 @@ webdisk.dakshinkali.org
 webdisk.descargaroblox.top
 webdisk.discordiastudio.hr
 webdisk.dokterappleid.com
+webdisk.dynok.net
 webdisk.dynomotion.biz
 webdisk.dynomotion.com
 webdisk.mercadotrecos.com.br.dmatechnus.com.br
@@ -664,6 +688,7 @@ www.billing.duaarah.id
 www.billing1.duaarah.id
 www.careconcierge.demowebsiteclient.com
 www.cheirinhopracarro.com.br.digitoolsdg.com.br
+www.coaching-plus.demowebsiteclient.com
 www.commonweaalth-au.digital-online-web-login.com
 www.contoh.dakhura.com
 www.customers.danilavish.com
@@ -673,6 +698,7 @@ www.daihatsu.co.jp
 www.dailymessenger.is
 www.dailywebpoint.com
 www.dajhet.sk
+www.damacproperties.com
 www.damysami.com
 www.dan.reisen
 www.danhov.com
@@ -690,12 +716,15 @@ www.deliverancechurchofgod.com
 www.deliverypointuae.space
 www.deliverypointuae.website
 www.deltasupport.nl
+www.demcobank.in
 www.deschapenweide.nl
 www.designu-posters.dk
 www.destinnesactions2025.info
 www.deutsche-apotheker-zeitung.de
+www.dev.buyernext.com.dataabsolute.com
 www.devolution.link
 www.dhl.is
+www.diamondspa-servicios.com
 www.digikey.com.mx
 www.digiliife.com
 www.digital.dokterappleid.com
@@ -726,6 +755,7 @@ www.dratassianamourao.com.br
 www.drpradeepdentalclinic.com
 www.dsautomobiles.sk
 www.duetosdase.com
+www.dvor.com
 www.dynocar.org
 www.dynomotion.com
 www.evenorganizer.desongraha.com
@@ -762,3 +792,4 @@ www.zstby1258.dkonto.pl
 www2.dnfs24.com
 yahoo-secure-dashborad-login.dvrlists.com
 yuichichibi.deviantart.com
+yun.duiba.com.cn
