@@ -160,6 +160,7 @@ ai.discord.gunnarstone.com
 akkarma07.github.io
 almondine-hickory-columnist.glitch.me
 aloneuy.github.io
+alpine-glaze-cast.glitch.me
 aluminum-mica-pufferfish.glitch.me
 api.globalpay-ecommerce.com
 api.gmservices.com.br
@@ -214,11 +215,14 @@ connect-2.growcontrol.de
 connect-3.growcontrol.de
 consent.google.co.za
 consent.google.com
+consent.google.com.mx
 consent.google.it
 consent.google.pt
 container.gauthierconsulting.ca
 content.gmai1-login.com
+content.govdelivery.com
 cpanel.gmailkinbo.xyz
+cpanel.receipts.org.uk.geoffrice.net
 cpcalendars.gruposdediscord.com
 cpcontacts.gruposdediscord.com
 crm-uat.gibl.in
@@ -260,6 +264,7 @@ e2c6.gcp.gvt2.com
 em-mag.gypsync.com
 email.clientmail.goturbo.app
 email.gradifi.com
+empleados.game.es
 empresas3.gruposantander.es
 encrypted-tbn0.gstatic.com
 esca4.app.goo.gl
@@ -295,6 +300,7 @@ garumlabia.com
 gasparatras.pt
 gatewayfiresafety.sg
 gatoartesano.com
+gawsfashion.com
 geldgolf.nl
 geldhal.nl
 geldherrin-maitreisabella.de
@@ -305,6 +311,7 @@ genervest.org
 genvideos.com
 geobus.extranet.geodis.org
 geouragedproverly.com
+gerihome.com.br
 gerusiatootsie.com
 gescliente.com
 getfitnowonline.com.my
@@ -325,6 +332,7 @@ gigasole.com
 gintonico.com
 girlgogetyourmoney.com
 gisti.org
+gkmoveisplanejados.com.br
 gladiatordrywall.com
 glayz.co.jp
 gliacenter.ro
@@ -357,6 +365,7 @@ googleadwordsmanagement-co-uk.great-online-income.com
 googletagmanager.com
 goopenclaim.ga
 gooseboom.com
+goransafety.dk
 governmentrisk360.com.au
 governor.utah.gov
 gowatchseries.movie
@@ -369,9 +378,11 @@ greea.ca
 green-estate.com.ua
 greenbloodsounds.com
 greencard-uz.uz
+greencontrol.ro
 gregdondds.com
 groupe-terresdusud.fr
 grumpyoldbens.com
+grupo-ats.com
 grupocallcenter.com
 grupononbasta.pt
 grupoocca.com.mx
@@ -380,6 +391,7 @@ gsmobile.be
 gsmsafety.com
 gsmsafety.gr
 gtsservice-ssa.com.br
+guest-services.org
 guestleaks.tk
 guiashortanord.com
 guinness-credentials.com
@@ -388,9 +400,11 @@ gunetak.ir
 gurkhamuseum.org.np
 gustacredit.ba
 guyacave.fr
+gymservice.gnss-lp.co.il
 hausen.goip.de
 healthnews.graymoney.co.kr
 help.glitch.com
+honeysuckle-terrific-thief.glitch.me
 hospitable-wise-sweater.glitch.me
 hro.testbed.gdi-de.org
 humorous-woolen-abacus.glitch.me
@@ -401,6 +415,7 @@ instruction.gls-info.nl
 kaladin05.github.io
 kealadvisory.com.au.growthbiz.com.au
 keidi-teixeira.github.io
+kennygram.github.io
 kitchen.gowienl.be
 level-fortunate-geology.glitch.me
 lh3.googleusercontent.com
@@ -423,7 +438,10 @@ mail.googleadwordsmanagement.co.uk
 mail.gruposdediscord.com
 mea.global-cdm.net
 mehdi-abshari.github.io
+mehedilslamripon.github.io
 mgr.testbed.gdi-de.org
+miicchhel.github.io
+minio.thick-billed-duct.testing.graphext.com
 mirage-violet-heron.glitch.me
 mobile.govilandres.com
 momentous-evergreen-carpet.glitch.me
@@ -470,14 +488,19 @@ rcgcghcvhvhvvyt.godaddysites.com
 refundservices-client-id.g3o6v.com
 register.githubuniverse.com
 relay.gomus.cloud
+response.gv-c.com
 rfeffrf.github.io
 rr3---sn-p5qlsn7d.googlevideo.com
+rr4---sn-p5qlsny6.googlevideo.com
+rr5---sn-p5qddn7z.googlevideo.com
 salesloft-sdr-us3.storage.googleapis.com
+salesloft-sdr-us4.storage.googleapis.com
 secure-staging.getsimbacard.com
 secure1.gacportal.com
 securebtbusiness.github.io
 securebtbusiness1.github.io
 sedaklnc.github.io
+soundcloud.app.goo.gl
 ssl.gstatic.com
 sstp.gn.com
 static.giggster.com
@@ -507,6 +530,7 @@ uat-secure.gmcu.com.au
 update-dummy.greator.it
 url86.guidepointglobaladvisors.com
 videos.gmisummit.com
+vijayakash24.github.io
 walletxodus.github.io
 wanlijiangshan.github.io
 wealthy-statuesque-mistake.glitch.me
@@ -540,6 +564,7 @@ www.gamestop.ca
 www.gamingnewsalert.com
 www.gap.co.jp
 www.garysgutterservice.com
+www.gasoil-footwear.com
 www.gaussianos.com
 www.gbgbrandservice.com
 www.gce-global-custom-events.com
@@ -589,6 +614,7 @@ www.gtsservice-ssa.com.br
 www.guchagucha.com
 www.gwarantservice.pl
 www.gymcheb.cz
+www.gymservice.gnss-lp.co.il
 www.hardik.gujjusupport.in
 www.healthnews.graymoney.co.kr
 www.ivc.gansportsbook.com
@@ -611,6 +637,7 @@ www.yoteapoyo.gregorias.org.bo
 xn--88jvopa5i086nuh0aqr5b.googlemeo.work
 xn--bck3aza1a2if6kra4ee0hf.gamewith.jp
 xn--t8j0gd8443atw2e.googlemeo.work
+yerbal.github.io
 youtube.gmai1-login.com
 zedohany.github.io
 ziadanbari2021.github.io
