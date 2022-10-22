@@ -61,6 +61,7 @@ Here's a list of public Matrix services.
 | matrix.freiburg.social | No |
 | freitrix.de | No |
 | matrix.fsfe.org | No |
+| fulda.social | No |
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
@@ -108,7 +109,6 @@ Here's a list of public Matrix services.
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
 | matrix.studichat.de | No |
-| synod.im | No |
 | matrix.tchncs.de | No |
 | matrix.tedomum.net | No |
 | the-apothecary.club | No |
