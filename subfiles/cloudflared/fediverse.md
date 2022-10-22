@@ -4110,6 +4110,7 @@ Here's a list of public Fediverse services.
 | darckoune.moe | No |
 | dardan.im | No |
 | darfweb.eu | No |
+| dariox.club | Yes |
 | dark-alexandr.net | No |
 | darkandstormynight.club | No |
 | darkcyber.club | No |
@@ -4137,6 +4138,7 @@ Here's a list of public Fediverse services.
 | darkyonmasto.ch | No |
 | darmstadt.social | Yes |
 | darnell.app | No |
+| darnell.day | No |
 | darnell.one | No |
 | darnell.ooo | No |
 | darnell.tv | No |
@@ -6066,7 +6068,7 @@ Here's a list of public Fediverse services.
 | fidonet.io | Yes |
 | fidura.waw.pl | No |
 | fifteen40.com | No |
-| fig.lt | Yes |
+| fig.lt | No |
 | figendi.de | No |
 | fightforinfo.com | No |
 | fika.moe | Yes |
@@ -22145,7 +22147,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,498 |
-| Normal | 17,603 |
+| Normal | 17,605 |
 
 
 ### 20.4% of public Fediverse services are using Cloudflare.
