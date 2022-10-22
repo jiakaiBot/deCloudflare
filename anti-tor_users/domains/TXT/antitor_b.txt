@@ -51,7 +51,6 @@ pizzapause2.business.site
 slopepoint.bandcamp.com
 sofasophia.blogda.ch
 spentzas.business.site
-taxonomypress.bigcartel.com
 telez.bandcamp.com
 thearchitectbeatshow.bandcamp.com
 thisistotenwald.bandcamp.com
@@ -179,7 +178,6 @@ houseioga.blogspot.com
 insidemedicine.bulletin.com
 kahvicollective.bandcamp.com
 m.beautypageants.in
-meagantrott.bigcartel.com
 negazione.bandcamp.com
 newgistpc.blogspot.com
 noahangel.bandcamp.com
@@ -273,10 +271,12 @@ api.bnm.gov.my
 api.boniversum.com
 api.bvg.de
 api.dev.boom-api.nl
+api.mail.kunden.burgeins.de
 api.test.boom-api.nl
 api.uat.bill360.com
 app-api.tms.blujaysolutions.net
 app.bcinthecloud.com
+appcatalog.bancafideuram.it
 appleproduct.bikerzspot.co.in
 auth.bmwgroup.net
 authenticationmanager.bimco.org
@@ -285,14 +285,20 @@ autodiscover.bennettaustin.site
 b24-5nwqhm.bitrix24.site
 b24-6abhnx.bitrix24.site
 b250-dgw.de
+b2btechnologysolution.bmetrack.com
 babalublog.com
 babyandchildsleepsupport.com
 babypanda.com.co
 backlink-paketleri.com.tr
+backtosafety.dk
+backtrack.cf
+backtrack.ga
+backtrack.tk
 badkissingenentdecken.de
 bagaswaras.id
 baglikeurging.com
 bagpackpost.com
+baikafruit.com
 bailall.com
 ballyysportscomactivate.com
 bancah5.asia
@@ -308,10 +314,12 @@ bankofamerica-mobile-puj.bx9i.com
 bankovnipoplatek.cz
 bankruptcylawyers-metroeast.com
 banksiagroverealestate.com.au
+banpara1.xyz
 banqueteshelmans.com
 banrural.com.hn
 bantec.es
 barbarossanitrocoffee.com
+barokahmebeljepara.co.id
 barotsetarente.com
 bartoszadamiak.pl
 baru-design.com
@@ -328,6 +336,7 @@ bdsecurity.com.bd
 beamtx.com
 bear-accounting.biz
 bearsecurity.ro
+beat.bssn.go.id
 beatalitynotten.com
 beatrizpassos.com.br
 beautytipsworld.site
@@ -382,6 +391,7 @@ bizofficeweb.com
 blacksecurity.cl
 bladeelive.bandcamp.com
 blastfunds.com
+blb.co.id
 bleedingcool.com
 blockchain1-wallet.com
 blockchainforcybersecurity.com
@@ -402,11 +412,13 @@ bloxads.com
 bloxaninvest.com
 bluebirdpk.com
 bluemagpieresort.com
+bmedonline.it
 bnbgiveme.com
 bnidirect.bni.co.id
 bnz-auth.com
 boacheeb.com
 boagotinha.online
+boardgamegeek.com
 bobilkjeden.no
 bodydefendersmovie.com
 bogatir.com.ua
@@ -420,6 +432,7 @@ borupost.dk
 bostonsecurity.net
 bottomlesdisc.com
 bou.com.ua
+boutiquelemarie.com
 box.buffyverse.fr
 bpkcdn03.bheem.tv
 bprlogin.com
@@ -445,6 +458,7 @@ bulbi.fr
 bulletcracks.com
 burdujasergiu.com
 bureauxcope.casa
+burlesontxtreeservice.com
 burnsidebluesband.top
 busanfamily.kr
 busfor.ua
@@ -466,6 +480,7 @@ christmaslighting.b-cdn.net
 cibot.prod.mzg.bestbytes.net
 cl4uat.b2clogin.com
 claro-amadeus.bemobi.com
+click.bcbst-email.com
 click.e.budget.com
 click.email.boxtops4education.com
 click.team.bayern-innovativ.de
@@ -504,6 +519,7 @@ demo.bankuin.com
 dev.billvolt.com
 dev.klarsicht.bzga.de
 discord-notifier.cl00-dev-bgv-forge.bgvapp.com
+discord.bloakqr.pw
 dlv.balsamfarms.com
 dojo.byorange.xyz
 eastmagic.net.britishfoundation.info
@@ -531,6 +547,7 @@ fr.bogdan.app
 frankbb2c.b2clogin.com
 frontier.byteoversea.com
 fsp.buet.ac.bd
+galder.botparadiscord.com
 git.git.git.git.git.smtpauth.burstlandhappy.online
 giv-dev.blockchaincloudapps.com
 global.api.betradar.com
@@ -552,6 +569,8 @@ jcenter.bintray.com
 jelly.buttonhosting2.co.uk
 jnjciamdev.b2clogin.com
 klartelera.blogspot.com
+krb-jobs.brassring.com
+krb-sjobs.brassring.com
 kum.apple-support.biscuit.de
 le-saint-gery.business.site
 learnsmart.babyhaven.com.ng
@@ -561,6 +580,7 @@ lindevfisschall60.bsh.de
 linstwfallback60.bsh.de
 login.b24-7.de
 login.portal.bancochile.cl
+louvoresparaacalmar.blogspot.com
 ls.ba-it-systemhaus.de
 lychee13984116.brizy.site
 m-by-mo-bachir.business.site
@@ -598,6 +618,7 @@ nl.banggood.com
 ntsportal.bafg.de
 o-sel-fou.business.site
 observatory.bwater.com
+occinet.bancoccidente.com.pa
 ocsp.bundesnetzagentur.de
 ocsp.zs.bnotk.de
 ocsptest.zs.bnotk.de
@@ -733,11 +754,14 @@ web.id.miizuhabanks.bensose.cyou
 web8854.web07.bero-webspace.de
 web8865.web07.bero-webspace.de
 web8874.web07.bero-webspace.de
+web8890.web07.bero-webspace.de
+web8925.web07.bero-webspace.de
 webdav.bestwaycorp.com
 webdisk.barrylockunlock.com
 webdisk.blockchainforcybersecurity.com
 webdisk.blockchainforfinancialservices.com
 webdisk.blockchainforutilities.com
+webdisk.bmsstrata.au
 webdisk.brim.uz
 webdoc-senegal.bicisnet.net
 webmail.blockchaindomainsservice.com
@@ -755,12 +779,14 @@ willowdevb2c.b2clogin.com
 willyjhons.billfixers.net
 wkmtestdevb2c.b2clogin.com
 wsuat.brandsafway.com
+ww01.ww88-corp.data-account-archive.developer.bkex.io
 www-bancmaster-acesso.blogspot.com
 www-inqbe-be-personal.bladwijzer.info
 www-uat.batc.be
 www-uat.bru-system.be
 www.account.biolnk.eu
 www.account.bravofxtrade.online
+www.backtosafety.dk
 www.backyardrestore.com
 www.bahamashclondon.net
 www.bairrodoavillez.pt
@@ -792,6 +818,7 @@ www.bear-accounting.biz
 www.bein.com
 www.bellatorproductions.com
 www.bellinghamherald.com
+www.belmargardens.com
 www.benchmarkplc.com
 www.bendbulletin.com
 www.benis.pt
@@ -828,11 +855,13 @@ www.blablacar.com.ua
 www.blackhawkmachineproducts.com
 www.blacksecurity.cl
 www.blockchainserver.online
+www.blockdit.com
 www.blogbm4financas.com
 www.bluea.co.uk
 www.blueappleelectric.com
 www.bluefoot.ai
 www.bluemagpieresort.com
+www.bluenile.com
 www.bmc.edu.sg
 www.bmednet.it
 www.bmkgenetics.com
@@ -877,6 +906,7 @@ www.junxiong.bscfyp2022.xyz
 www.kediripay.bankdaerahkabkediri.com
 www.kmc.bankasoc.lv
 www.loadingencryptdata.verification.bastamarket.sa
+www.manufacture.bijouteriesopenaby.com
 www.moneysurance.bosswoman.in
 www.mudwheelfabricators.blueberry2security.co.ke
 www.mudwheelfabricators.co.ke.blueberry2security.co.ke
@@ -888,6 +918,7 @@ www.product.auth-coupondex.aliba-ba.bitnuvems.info
 www.rbc-online-banking.btwxin.com
 www.restore.dangainesgrii.bergbuilds.domains
 www.robertsontreeservice.baywatchers.net
+www.sber.sberbank.sberbank.sber.b3g29upedimjyih.builder.blendar.io
 www.seguridad-electronica.com.bazarmvd.com
 www.sevenstar.bachelorlabbd.xyz
 www.store.bttechnology.space
@@ -900,9 +931,11 @@ www.support.breyts.com.au
 www.talent.bankers.today
 www.taxi.businesssupport.dk
 www.ticketing.businesswork.co.rs
+www.tictra.com.billregulator.com
 www.trackingnews.xyz.batidossaludables.com
 www.user.bagom.dk
 www.userexperience.barakdanin.com
+www.usps.com.billo.icu
 www5.bancaribe.com.ve
 ymase.boy.jp
 zmail.birthtastehand.online
