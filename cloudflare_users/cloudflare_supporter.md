@@ -52,6 +52,7 @@ Do not create new issue or we will close it as duplicate.
 | [1KK4cfjGlKNknLy@twitter](https://twitter.com/1KK4cfjGlKNknLy/status/1378992221077168128) | advertise |
 | [1k_8u@twitter](https://twitter.com/1k_8u/status/1493703720193990662) | advertise |
 | [1LKi5rwJJDL2GKz@twitter](https://twitter.com/1LKi5rwJJDL2GKz/status/1538949077979004928) | advertise |
+| [1ngRoy@twitter](https://twitter.com/1ngRoy/status/1583597491018080256) | advertise |
 | [1nonlylynnp@twitter](https://twitter.com/1nonlylynnp/status/1489403722727936009) | advertise |
 | [1of1Bluts374@twitter](https://twitter.com/1of1Bluts374/status/1383862555945291781) | advertise |
 | [1Sellorin@twitter](https://twitter.com/1Sellorin/status/1355427524935823361) | advertise |
@@ -1859,8 +1860,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -7760,6 +7761,7 @@ Do not create new issue or we will close it as duplicate.
 | [r0c4p1a@twitter](https://twitter.com/r0c4p1a/status/1489935636815568897) | advertise |
 | [R3DActual@twitter](https://twitter.com/R3DActual/status/1468895846444015617) | advertise |
 | [R3Zipo@twitter](https://twitter.com/R3Zipo/status/1542271365642059776) | advertise |
+| [R3ZNamikaze23@twitter](https://twitter.com/R3ZNamikaze23/status/1583609063954227201) | advertise |
 | [r6gear@twitter](https://twitter.com/r6gear/status/1551510182068461569) | advertise |
 | [Ra36279199@twitter](https://twitter.com/Ra36279199/status/1395644864587501569) | advertise |
 | [rabieemostafa3@twitter](https://twitter.com/rabieemostafa3/status/1579358487712129024) | advertise |
@@ -9491,6 +9493,7 @@ Do not create new issue or we will close it as duplicate.
 | [tlo565641@twitter](https://twitter.com/tlo565641/status/1392899291342163977) | advertise |
 | [tltii104@twitter](https://twitter.com/tltii104/status/1386657711018844162) | advertise |
 | [tlyczko@twitter](https://twitter.com/tlyczko/status/1568583104989642753) | advertise |
+| [Tm23437020@twitter](https://twitter.com/Tm23437020/status/1583604154462715905) | advertise |
 | [TMBo14669434@twitter](https://twitter.com/TMBo14669434/status/1384719692737040387) | advertise |
 | [TMinhTr9@twitter](https://twitter.com/TMinhTr9/status/1402337530033233924) | advertise |
 | [tmlcpl@twitter](https://twitter.com/tmlcpl/status/1386721659806097410) | advertise |
