@@ -6484,6 +6484,7 @@ Do not create new issue or we will close it as duplicate.
 | [NanMinThu1@twitter](https://twitter.com/NanMinThu1/status/1394909499425705985) | advertise |
 | [nannan151069@twitter](https://twitter.com/nannan151069/status/1390023566234587138) | advertise |
 | [NannHtike13@twitter](https://twitter.com/NannHtike13/status/1390851009434456064) | advertise |
+| [Nanny231822@twitter](https://twitter.com/Nanny231822/status/1583809862076534785) | advertise |
 | [Nanofaux@twitter](https://twitter.com/Nanofaux/status/1381046465582272512) | advertise |
 | [nanotumblr@twitter](https://twitter.com/nanotumblr/status/1430375877129375752) | advertise |
 | [NanPaPaHlaing2@twitter](https://twitter.com/NanPaPaHlaing2/status/1392849027050348550) | advertise |
