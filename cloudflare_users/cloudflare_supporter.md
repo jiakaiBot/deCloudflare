@@ -7213,6 +7213,7 @@ Do not create new issue or we will close it as duplicate.
 | [PakoMotsumi4@twitter](https://twitter.com/PakoMotsumi4/status/1551305611824041985) | advertise |
 | [palon37@twitter](https://twitter.com/palon37/status/1389877275751968776) | advertise |
 | [Pamkom1@twitter](https://twitter.com/Pamkom1/status/1401328734238478337) | advertise |
+| [Pamuktulum@twitter](https://twitter.com/Pamuktulum/status/1583829147562160129) | advertise |
 | [Panda40839281@twitter](https://twitter.com/Panda40839281/status/1395319635742969858) | advertise |
 | [pandarmyetwon@twitter](https://twitter.com/pandarmyetwon/status/1390219250040594432) | advertise |
 | [Pandora95283713@twitter](https://twitter.com/Pandora95283713/status/1391357563250176005) | advertise |
@@ -9955,6 +9956,7 @@ Do not create new issue or we will close it as duplicate.
 | [vettijoe@twitter](https://twitter.com/vettijoe/status/1390939641025466371) | advertise |
 | [VeVe69904456@twitter](https://twitter.com/VeVe69904456/status/1390967162878283780) | advertise |
 | [Vevo_inc@twitter](https://twitter.com/Vevo_inc/status/1499661254809452547) | advertise |
+| [vextiss@twitter](https://twitter.com/vextiss/status/1583825215536001024) | advertise |
 | [VE_NotFire@twitter](https://twitter.com/VE_NotFire/status/1561371709046808576) | advertise |
 | [vfedoroff@twitter](https://twitter.com/vfedoroff/status/1499923341569839111) | advertise |
 | [vgchat@twitter](https://twitter.com/vgchat/status/1392263921013252103) | advertise |
