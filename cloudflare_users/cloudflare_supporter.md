@@ -2698,6 +2698,7 @@ Do not create new issue or we will close it as duplicate.
 | [fire11po@twitter](https://twitter.com/fire11po/status/1552902952083689472) | advertise |
 | [FireGam99404905@twitter](https://twitter.com/FireGam99404905/status/1399726131842977792) | advertise |
 | [fitcarenavi@twitter](https://twitter.com/fitcarenavi/status/1548612339058241537) | advertise |
+| [fizzo929@twitter](https://twitter.com/fizzo929/status/1583851919441002496) | advertise |
 | [FJBandroid@twitter](https://twitter.com/FJBandroid/status/1552182577045569539) | advertise |
 | [fjdb3@twitter](https://twitter.com/fjdb3/status/1554143968685789184) | advertise |
 | [fjpkagami@twitter](https://twitter.com/fjpkagami/status/1392923842880831488) | advertise |
@@ -4226,6 +4227,7 @@ Do not create new issue or we will close it as duplicate.
 | [JosephJmark@twitter](https://twitter.com/JosephJmark/status/1550047843171241986) | advertise |
 | [JosephL46729146@twitter](https://twitter.com/JosephL46729146/status/1516840050285289473) | advertise |
 | [josephmooreMM@twitter](https://twitter.com/josephmooreMM/status/1398331678142066689) | advertise |
+| [JosephThornbrue@twitter](https://twitter.com/JosephThornbrue/status/1583839248343785474) | advertise |
 | [joseph_cvh@twitter](https://twitter.com/joseph_cvh/status/1549354905281802240) | advertise |
 | [JoshAlmighty3@twitter](https://twitter.com/JoshAlmighty3/status/1394937423197470729) | advertise |
 | [joshg253@twitter](https://twitter.com/joshg253/status/1489326821866835971) | advertise |
@@ -10733,6 +10735,7 @@ Do not create new issue or we will close it as duplicate.
 | [zikizac@twitter](https://twitter.com/zikizac/status/1551618644895055872) | advertise |
 | [zikow00@twitter](https://twitter.com/zikow00/status/1583002258630770690) | advertise |
 | [Zim00444831@twitter](https://twitter.com/Zim00444831/status/1580781886850203648) | advertise |
+| [zimmerism@twitter](https://twitter.com/zimmerism/status/1583849936625741824) | advertise |
 | [zin2_myat@twitter](https://twitter.com/zin2_myat/status/1391688138884403202) | advertise |
 | [zinaung05642017@twitter](https://twitter.com/zinaung05642017/status/1399014483066908676) | advertise |
 | [ZinBoWin16@twitter](https://twitter.com/ZinBoWin16/status/1397036266697363458) | advertise |
