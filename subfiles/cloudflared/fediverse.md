@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,176 |
+| com | 3,177 |
 | net | 1,751 |
-| org | 1,226 |
+| org | 1,228 |
 | social | 1,202 |
 | de | 1,045 |
 
@@ -7284,6 +7284,7 @@ Here's a list of public Fediverse services.
 | gorgon.city | No |
 | gorone.club | No |
 | gorone.xyz | Yes |
+| gorritodeplata.xyz | No |
 | gossler.family | No |
 | got-tty.org | No |
 | gotdns.ch | No |
@@ -9442,6 +9443,7 @@ Here's a list of public Fediverse services.
 | kanina.be | No |
 | kanoa.de | No |
 | kanonchannel.xyz | No |
+| kansanvalta.org | No |
 | kansas-city.social | No |
 | kanthi.io | No |
 | kantor.site | No |
@@ -11949,6 +11951,7 @@ Here's a list of public Fediverse services.
 | melting.town | No |
 | melyanna.net | No |
 | mem000.de | No |
+| memclash.com | No |
 | meme.beer | Yes |
 | meme.cheap | No |
 | meme.garden | No |
@@ -12556,6 +12559,7 @@ Here's a list of public Fediverse services.
 | moo.moe | No |
 | moobarb.club | No |
 | moodle.net | Yes |
+| moodoo.org | Yes |
 | moog.social | No |
 | moogle.social | No |
 | mooh.fr | No |
@@ -16454,6 +16458,7 @@ Here's a list of public Fediverse services.
 | ridixy.com | Yes |
 | riedl.net | No |
 | rievo.net | No |
+| riffic.rocks | Yes |
 | rigal.eu.org | No |
 | rigcz.club | No |
 | rightmastodon.com | No |
@@ -20532,6 +20537,7 @@ Here's a list of public Fediverse services.
 | vaughan.social | Yes |
 | vaughnhannon.com | No |
 | vault84.de | No |
+| vaush.ml | No |
 | vbrandl.net | No |
 | vbrlabs.io | No |
 | vbz.net | No |
@@ -21749,6 +21755,7 @@ Here's a list of public Fediverse services.
 | yihao.moe | Yes |
 | yikes.dog | Yes |
 | yiny.org | No |
+| yip.computer | No |
 | yip.gay | No |
 | yjmbo.net | No |
 | yjsnpi.club | No |
@@ -22135,8 +22142,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,495 |
-| Normal | 17,597 |
+| Cloudflare | 4,497 |
+| Normal | 17,602 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
