@@ -131,13 +131,17 @@ app.response.oracle-mail.com
 apple.dev.onwingspan.com
 asset.orangecu.com.au
 auth.ookamikun.tv
+bancoazteca.onelink.me
 bankmandiri.omnimoz.com
 barc-poc.onestreamtest.com
+bbproy.oesia.com
 bhushand.onlinegoogleadscourse.com
 bibliography.oxfordarchaeology.com
 bill.onso.in
 bpxwtibx1r6c.s3.de.cloud.ovh.net
+cacc.fa.us2.oraclecloud.com
 captivemgr.o2wifi.net.uk
+cb8.pt.omeualojamento.pt
 cdcbeacon.epm.us2.oraclecloud.com
 click.mail.onedrive.com
 click.mail.onlinecomplianceexperts.com
@@ -148,8 +152,11 @@ cpanel.ourpurchasemart.online
 cpcalendars.outlookrecovery-tool.com
 cpcontacts.outlookrecovery-tool.com
 d.oznemedya.com
+dak-hr-dev-lcsyoj31.it-cpi018-rt.cfapps.eu10-003.hana.ondemand.com
 dashboard.onlytheonline.co.uk
+databank.ogkkb.be
 deploy.optima.my
+dev.auth.identity.oneadvanced.io
 dev.beratung.organspende-info.de
 di-broker.ingress.reg.707-20.aws.di-ci.hanacloud.ondemand.com
 diary.owst.jp
@@ -158,6 +165,7 @@ discord.opendarkwing.com
 discord.optionhub.io
 discover.osnplus.com
 docusign.onelink.me
+dynoimages.onlineotoekspertiz.com
 easyshare.opp.vic.gov.au
 ebanking.ocbcwhhk.com
 eboy.fs.em2.oraclecloud.com
@@ -183,6 +191,7 @@ id.internal.ocurity.com
 idcs-b550c93f17c14ccda66dfd3bdfb1bda7.identity.oraclecloud.com
 inet.o-tam.jp
 infomail.orange.fr
+inpost-nrab.order6452.info
 inpost-opse.order7814.biz
 inpost-stdn.order7814.biz
 inpost-vuod.order7814.biz
@@ -229,6 +238,7 @@ octava.tv
 odessa-life.od.ua
 ofblackservitude.com
 offergate-apps-actual.com
+offerprizes.net
 ohart.wiki
 ohfoi.com
 oiatende.com.br
@@ -239,6 +249,7 @@ okolotepla.com.ua
 oktafproduction.com
 oldandrarewineco.com
 oliverairbank.ml
+omatsuri.app
 omclyzyapf.com
 omnatuor.com
 omniscrienttow.com
@@ -264,6 +275,7 @@ opensea-services.com
 openticket.opensaaslive.com
 openworlds.info
 opmenexo.com.br
+oppetmoln.se
 opt-nesti.com.ua
 orbank.ru
 order9236.biz
@@ -302,6 +314,7 @@ smc-content.s4hana.ondemand.com
 smc-link.s4hana.ondemand.com
 smc-seb.s4hana.ondemand.com
 soapapi-ontw.onderhoudsketen.nl
+stat.oborudunion.ru
 steam.oldboys.gg
 storage.gra.cloud.ovh.net
 superior-smart-live.opt7dev.com
@@ -341,10 +354,12 @@ www.cool.osd.mil
 www.credit-rapid.net.online-credit.ro
 www.e-payments.oney.com
 www.eleventhtechservice.onlineinstituteoftechnology.com
+www.es.overseascourierservice.site
 www.manabi.city.osaka.lg.jp
 www.masterpost.ofertino.ro
 www.oberoihotels.com
 www.oc-client-audio.fr
+www.ocolly.com
 www.oerproject.com
 www.ok.co.uk
 www.okko.ua
@@ -356,7 +371,9 @@ www.onco-safe.com
 www.online-accounting.co.uk
 www.onlineservicetec.com
 www.onpointcomputerrepairs.com.au
+www.oots.in
 www.opensea-services.com
+www.ops.org
 www.optimalthinking.com
 www.optimalworkshop.com
 www.optimumgroup.com
