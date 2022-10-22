@@ -33,6 +33,7 @@ acceptatie-client.zorgplatform.online
 api.zodomus.com
 assessments.zfco.com
 cdn.zero-trust-security.de
+click.email.zalando-lounge.com
 click.mail2.zocdoc.com
 client.zorgplatform.online
 epay-konnektor.zivit.de
@@ -40,6 +41,7 @@ es-logs.analytics-cluster.zedge.io
 fabo-bankrec-api.zalopay.vn
 gateway.zscalertwo.net
 idp.saas.zeb-it.de
+img01.ztat.net
 login.ziraatbankanturkey.com
 m7.caixabank.zinsprofi.de
 mail.zasgroup.com
@@ -55,12 +57,14 @@ testapi.zimicn.com
 verlag.zeit.de
 video.zuoyebang.cc
 www.accountabuddy.zeromedia.com.au
+www.alternativnamedicina.com.mk.zemi.net.mk
 www.apply.zarnab.pk
 www.client-analytics.zerrohost.com
 www.client.rdtcap.zahid.com.bd
 www.eki-net.zurvrk.shop
 www.zaguri-reinigungsservice.de
 www.zappos.com
+www.zeevventures.com
 www.ziplocal.ca
 www.zocdoc.com
 www.zwilnik.com
@@ -81,10 +85,13 @@ zenontreeservice.com
 zenva.pk
 zernyatko.in.ua
 zesumme-spueren.lu
+zftmmfb.cn
 zjazdordynatorow.pl
 zmaildirect.com
+zmftncw.cn
 znsrc.com
 zoelashspa.com
+zoomyclouds.com
 zorrm.pt
 zsbwoqpcxj.com
 zupan.hr
