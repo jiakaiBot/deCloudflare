@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,178 |
-| net | 1,751 |
+| net | 1,752 |
 | org | 1,228 |
 | social | 1,202 |
 | de | 1,045 |
@@ -429,6 +429,7 @@ Here's a list of public Fediverse services.
 | aaronpk.tv | Yes |
 | aas.wtf | No |
 | aasg.name | No |
+| aatame3.net | Yes |
 | abandonedsocialnetwork.com | No |
 | abb.ink | Yes |
 | abbotsfurred.ca | No |
@@ -10481,7 +10482,7 @@ Here's a list of public Fediverse services.
 | lf.je | Yes |
 | lfat.de | No |
 | lfsr.net | No |
-| lgbt.im | Yes |
+| lgbt.im | No |
 | lgbt.io | No |
 | lgbt.pm | Yes |
 | lgbt6.club | No |
@@ -15580,7 +15581,7 @@ Here's a list of public Fediverse services.
 | prepsandplanners.com | No |
 | presentdaypresenttime.com | No |
 | preserve.media | Yes |
-| presidentielle.tech | Yes |
+| presidentielle.tech | No |
 | preslav.me | Yes |
 | press.community | No |
 | pressthebutton.pw | No |
@@ -22146,8 +22147,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,498 |
-| Normal | 17,605 |
+| Cloudflare | 4,497 |
+| Normal | 17,607 |
 
 
-### 20.4% of public Fediverse services are using Cloudflare.
+### 20.3% of public Fediverse services are using Cloudflare.
