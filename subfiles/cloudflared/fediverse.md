@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,177 |
+| com | 3,178 |
 | net | 1,751 |
 | org | 1,228 |
 | social | 1,202 |
@@ -16156,6 +16156,7 @@ Here's a list of public Fediverse services.
 | raspberryip.com | No |
 | rastapuls.com | No |
 | rat.cafe | No |
+| ratemycancer.com | No |
 | rathersafe.space | No |
 | ratmilk.coffee | No |
 | rats-at.work | No |
@@ -16887,6 +16888,7 @@ Here's a list of public Fediverse services.
 | samharris.org | Yes |
 | samhza.com | Yes |
 | samiandalex.com | No |
+| samicrusader.me | Yes |
 | sammiesweetie.com | No |
 | sammorrowdrums.com | No |
 | samnoble.org | No |
@@ -22142,8 +22144,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,497 |
-| Normal | 17,602 |
+| Cloudflare | 4,498 |
+| Normal | 17,603 |
 
 
-### 20.3% of public Fediverse services are using Cloudflare.
+### 20.4% of public Fediverse services are using Cloudflare.
