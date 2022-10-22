@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Fatal error running backup: pruneBackups](https://github.com/offen/docker-volume-backup/issues/163)
 - [got-scraping error code 1020 against Cloudflare](https://github.com/apify/got-scraping/issues/79)
 - [Flaresolverr Issue, Detecting Headless Browser](https://github.com/FlareSolverr/FlareSolverr/issues/558)
 - [Help: Cloudflare sends out changed notification every cycle even though IP address does not change](https://github.com/qdm12/ddns-updater/issues/381)
