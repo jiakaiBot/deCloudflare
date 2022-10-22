@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-22: [Network Performance Issues in Hong Kong - (HKG)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/685m2x25s91f)
 - 2022-10-28: [LAX (Los Angeles) on 2022-10-28](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9qq9p37hx3j8)
 - 2022-10-27: [LAX (Los Angeles) on 2022-10-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/26ywyz3tqyfp)
 - 2022-10-25: [AMS (Amsterdam) on 2022-10-25](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ns0vpkyscrbq)
