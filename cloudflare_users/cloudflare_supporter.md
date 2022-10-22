@@ -1313,6 +1313,7 @@ Do not create new issue or we will close it as duplicate.
 | [Billy97547132@twitter](https://twitter.com/Billy97547132/status/1399284703367098369) | advertise |
 | [Billy456270155@twitter](https://twitter.com/Billy456270155/status/1580341056335249408) | advertise |
 | [BillyJavier@twitter](https://twitter.com/BillyJavier/status/1476939824179421188) | advertise |
+| [bilzeriansyah@twitter](https://twitter.com/bilzeriansyah/status/1583715977791176704) | advertise |
 | [BiMinhTrung6@twitter](https://twitter.com/BiMinhTrung6/status/1398235044850790408) | advertise |
 | [bimotomo@twitter](https://twitter.com/bimotomo/status/1385639102725255169) | advertise |
 | [Bin9x_tk@twitter](https://twitter.com/Bin9x_tk/status/1493220055970365444) | advertise |
