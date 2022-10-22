@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The disable-web-security argument is giving trouble](https://github.com/danielgatis/puppeteer-recaptcha-solver/issues/44)
 - [Fatal error running backup: pruneBackups](https://github.com/offen/docker-volume-backup/issues/163)
 - [got-scraping error code 1020 against Cloudflare](https://github.com/apify/got-scraping/issues/79)
 - [Flaresolverr Issue, Detecting Headless Browser](https://github.com/FlareSolverr/FlareSolverr/issues/558)
