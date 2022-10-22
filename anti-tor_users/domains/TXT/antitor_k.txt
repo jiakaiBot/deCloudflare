@@ -137,12 +137,17 @@ www.kurtisane-de-sade.com
 access0.west.sd.keio.ac.jp
 adminservice-3ds2.kasikornbank.com
 ae907.keap-link002.com
+aimg.kwcdn.com
 api.kliniq.co
 app.kazancinnoktasi.site
+auth.dev.knowledge4retail.org
 beacon.krxd.net
+canelo-novaterra.kasaconstructora.com
 cl340.keap-link008.com
+click.klasresearch.com
 consumer.krxd.net
 cpanel.klimaservisairsolution.rs
+cpanel.redtailtelematicstest.com.2d1e8d38a9af69582df36f593-18135.sites.k-hosting.co.uk
 ct.klclick.com
 dc1.ksn.kaspersky-labs.com
 dev2.kensetsu-cloud.jp
@@ -164,6 +169,7 @@ haikko-staging-vm01.karhuhosting.fi
 hclhealthcare.karexpert.com
 ibcm.kapsch.net
 iccm.kebhana.com
+idp.kvn.de
 ikfz.kreis-slk.de
 info.kanzlei-schober.at
 insights.katten.com
@@ -174,6 +180,8 @@ kakuyasu-sim.jp
 kalibreboru.com
 kampanya-isbak-basvuru-formu-online.ml
 kampoengconfectie.com
+kanchiuniv.ac.in
+kantinen.berlin
 kapadokyazakka.com
 kapigacor.site
 kapperweesp.nl
@@ -191,6 +199,7 @@ keram-ideya.com.ua
 kerefiadiscarservice.gr
 kerneth.com
 ketodis.com
+key-notion.com
 keysstoreactiivate.live
 kgsia.com
 khanjeeyapness.website
@@ -236,6 +245,7 @@ kreasiprimasertifikasi.com
 kristel.com.co
 kryptonsecurity.co.za
 ktcrangoon.com
+ktul.com
 kuangho.com.tw
 kuangyz.top
 kumparso.com
@@ -326,6 +336,7 @@ www.keyence.com.my
 www.kfc.pt
 www.khadas.com
 www.khalifaadv.com
+www.khou.com
 www.khq.com
 www.kic.net.nz
 www.kidzontrack.au
@@ -353,6 +364,7 @@ www.kredyt-m19.shop
 www.kredyt-m2.shop
 www.kredyt-m5.shop
 www.kredyt-m6.shop
+www.krf.no
 www.kuehlmann.de
 www.kuketz-forum.de
 www.kulinersurabaya.id
