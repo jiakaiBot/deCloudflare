@@ -9410,6 +9410,7 @@ Here's a list of public Fediverse services.
 | kakaotalk.app | No |
 | kakeraverse.xyz | No |
 | kakijin.com | No |
+| kakise.tech | No |
 | kakofonik.com | No |
 | kakudon.com | No |
 | kakujin.network | No |
@@ -22148,7 +22149,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,497 |
-| Normal | 17,607 |
+| Normal | 17,608 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
