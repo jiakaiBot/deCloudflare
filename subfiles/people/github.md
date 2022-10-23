@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [DoSyncV2: response returned 524](https://github.com/matrix-org/sliding-sync/issues/54)
 - [The disable-web-security argument is giving trouble](https://github.com/danielgatis/puppeteer-recaptcha-solver/issues/44)
 - [Fatal error running backup: pruneBackups](https://github.com/offen/docker-volume-backup/issues/163)
 - [got-scraping error code 1020 against Cloudflare](https://github.com/apify/got-scraping/issues/79)
