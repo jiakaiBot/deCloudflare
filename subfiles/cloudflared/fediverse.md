@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,180 |
 | net | 1,753 |
 | org | 1,228 |
-| social | 1,203 |
+| social | 1,204 |
 | de | 1,046 |
 
 
@@ -16258,6 +16258,7 @@ Here's a list of public Fediverse services.
 | recipes.exchange | Yes |
 | reclaim.technology | No |
 | recompilermag.com | Yes |
+| recsys.social | No |
 | recurrent.network | No |
 | recurse.com | No |
 | recurse.social | No |
@@ -16951,6 +16952,7 @@ Here's a list of public Fediverse services.
 | sanwe.xyz | No |
 | sapphic.city | No |
 | sapphic.life | No |
+| sapphic.site | Yes |
 | sapphos.be | No |
 | sapratza.in | No |
 | sarahvhines.com | No |
@@ -22161,8 +22163,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,498 |
-| Normal | 17,620 |
+| Cloudflare | 4,499 |
+| Normal | 17,621 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
