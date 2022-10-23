@@ -27,6 +27,7 @@ auth.quanthome.ch
 aws.qureme.co.in
 bankofamerica.qnb.tw
 belavista.duckdns.org.printondemand.metech.domains.qloaked.com
+bnehome.duckdns.org0.shop.blog.ustt.domains.qloaked.com
 cpcalendars.trustwallet.qpoe.com
 cpcontacts.trustwallet.qpoe.com
 demo.questsec.com
@@ -53,6 +54,7 @@ queachhjp.com
 quickbillcollection.com
 quicklab.technology
 quickpasss.com
+quriousfly.com
 sbl.qasgx.com
 server.quality-it.eu
 servicedesk.quub.it
