@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,179 |
+| com | 3,180 |
 | net | 1,753 |
 | org | 1,228 |
 | social | 1,203 |
@@ -1422,6 +1422,7 @@ Here's a list of public Fediverse services.
 | atdot.email | No |
 | atdotatdotat.at | No |
 | ateliershiori.moe | No |
+| atergens.com | No |
 | aterm.jp | No |
 | aterra.info | No |
 | atextual.com | No |
@@ -22161,7 +22162,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,498 |
-| Normal | 17,619 |
+| Normal | 17,620 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
