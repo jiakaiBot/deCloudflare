@@ -82,6 +82,7 @@ www.jumbostay.com
 www.juraforum.de
 yamate.jcho.go.jp
 adfs.jfpe.jus.br
+adfs.jmcbiz.com
 analytics.julianois.fr
 api-ent1.jio.com
 api.jyro.io
@@ -96,6 +97,8 @@ clientes.jasinversiones.com
 complexe360com.jdlm.quebec
 cpanel.javachip.xyz
 cpcalendars.jioffer.com
+cpcalendars.trustwalletl.jkub.com
+cpcontacts.trustwalletl.jkub.com
 d.joinhoney.com
 egscaptchas.jmga.xyz
 em.juroku.co.jp
@@ -108,6 +111,7 @@ exodus.com.merge.javier-techno-reviews.com
 exodus.com.merge.jcyber.net
 forum.jungundnaiv.de
 gl.google.com.japonica.ru
+helpdesk.jansmedia.com
 iamt.justice.sk
 j-one.site
 j8ff09dbyo.com
@@ -130,9 +134,11 @@ jhakkas.com.np
 jhsahkopalvelu.fi
 jio-bppump.com
 jiocity.com
+jiofibers.com
 jiomartdigital.com
 job-closet.com
 joelgomezsanchez.me
+joinxo.app
 joker168.asia
 jollialfafa.com.br
 jorttiuyng.com
@@ -151,6 +157,7 @@ jvictorians.com
 jxself.org
 latexgirdle9.jigsy.com
 ll.jahin.org
+lowcode-stg.justice.nsw.gov.au
 mail.jmberlin.de
 merchant.jiomart.com
 minicode.jykjwx.com
@@ -185,6 +192,7 @@ web.id.mizuhebank.japan-happycool.cyou
 web.id.mizuhebank.japan-newones.cyou
 web.id.mizuhebank.japan-verycool.cyou
 web.id.mizuhebank.japan-verycools.cyou
+webdisk.trustwalletl.jkub.com
 wiki.jarexibackblaze.xyz
 wiki.jenett.org
 www.accesoriosjacuzzisypiscinas.jacuzzisysaunas.com
@@ -209,6 +217,7 @@ www.jll.co.uk
 www.jodiharveyart.com
 www.jogpeople.com
 www.john-roche-author.com
+www.johnlewis.com
 www.jokerservice.fr
 www.journalgazette.net
 www.journalinquirer.com
@@ -221,8 +230,10 @@ www.jungpost.com
 www.justdial.com
 www.justia.com
 www.justicaeleitoral.jus.br
+www.juullabs.com
 www.osteopathe-puteaux-forget.johanlalouette.fr
 www.photogsbollocks.johnchapple.com
+www.postest.jinzstickers.com
 www.supportpack.jgelectronics.com
 www.tools-usps-informed-intercept-delivery-mail.jkub.com
 www.track.jmp-logistik.com
