@@ -228,6 +228,7 @@ a2fb9781b6e24716995472ddae4ed540.svc.dynamics.com
 academy.discord-accounts.ru
 account.venmo.detailedtrans.com
 accounts.deschard.info
+accounts.discord-store.ru
 acikdenizv2.denizbankkredi.ga
 adclick.g.doubleclick.net
 admin.delivery-quick.com
@@ -256,6 +257,7 @@ assets-eur.mkt.dynamics.com
 assets-gbr.mkt.dynamics.com
 atlas-66.deviantart.com
 audio.mellatmehrgallegrolokalnieaaa.aaadmin.derinport.net
+audiocaptcha.danieljmarra.com
 aurorabapenv97798.crmtest.dynamics.com
 auth.duqqy.ru
 authspokegovpass.dss.gov.au
@@ -283,6 +285,7 @@ bot.discord-store.ru
 boxejbl.demo.ro
 c9d3b40f34ed4148a2ce444202f7f6e4.svc.dynamics.com
 callback.daopay.com
+captcha.test.dayaapp.ir
 cardapio.dompedritodelivery.com.br
 careconcierge.demowebsiteclient.com
 careers.web.denso-int.org
@@ -295,9 +298,12 @@ christian-hecht.dyndns.biz
 click.mc.dfv-fleisch-backmedien.de
 clicks.dhqbmail.co.uk
 client.donaldlouch.ca
+client98.developdesign.website
 cliente.dsjsolucoes.com
 cliente.exclusivobra.appcompleto.dynv6.net
 clients.ddpcplan.com
+clients.dezignaz.com
+clock.dozenal.ca
 coaching-plus.demowebsiteclient.com
 code.daridan.net
 commx1.discord-accounts.ru
@@ -313,6 +319,7 @@ cpanel.dynomotion.com
 cpanel.mercadotrecos.com.br.dmatechnus.com.br
 cpcalendars.descargaroblox.top
 cpcalendars.discordiastudio.hr
+cpcalendars.discorv.com
 cpcalendars.dokterappleid.com
 cpcalendars.dynocomputer.com
 cpcalendars.dynodetailing.ca
@@ -320,8 +327,10 @@ cpcalendars.dynok.net
 cpcalendars.dynomotion.biz
 cpcalendars.dynomotion.com
 cpcalendars.mercadotrecos.com.br.dmatechnus.com.br
+cpcalendars.outandaboutpensacosmtp.discord-accounts.ru
 cpcontacts.descargaroblox.top
 cpcontacts.discordiastudio.hr
+cpcontacts.discorv.com
 cpcontacts.dokterappleid.com
 cpcontacts.dynodetailing.ca
 cpcontacts.dynok.net
@@ -351,6 +360,7 @@ darnell.app
 darneluretic.com
 data-check.me
 data.daridan.net
+datacenterfrontier.com
 dataloginfo.com
 datamyte.com
 dateshotdates.com
@@ -375,6 +385,7 @@ deitel.com
 delanoi.ro
 deliverhealth.ch
 delivery-dhll.gq
+deliveryfastfood.com.br
 demcaocap.com
 demcobank.in
 demetraplus.com.ua
@@ -429,6 +440,7 @@ disco2disco.co.uk
 discoovera.com
 discopandu.com
 discorama.nl
+discord-backend.domination-gaming.com
 discordiastudio.hr
 discordv2.com
 discovery-prod01.diligentcloudservices.com
@@ -448,6 +460,7 @@ dlnservice.ro
 dlscordiboosts.com
 dlscordjboosts.com
 dlscordlboosts.com
+dmcproduction.com
 dmsu.gov.ua
 dobrytemat-dev.cloud.dmtec.eu
 doctor-nobel.ru
@@ -467,6 +480,7 @@ donnotbipeds.com
 dovekarachispa.com
 downsouthsafety.com.au
 dperfect.com
+dpsdoc.it
 dragly.org
 drakbareyehospitals.com
 dresdencodak.com
@@ -559,6 +573,7 @@ light262.deviantart.com
 links.updates.digitalselectionproductguide.info
 livepreview2.dwd.de
 livepreview3.dwd.de
+lms.discord-store.ru
 lp.creditconsig.dev-eleveads.com.br
 lyubercy.domclick.ru
 m.discord-store.ru
@@ -586,20 +601,24 @@ minhaclaro.dtmmkt.com.br
 miokomata.deviantart.com
 mizushobanke.durrey-japane.shop
 mobile.discoverapp.com
+my.discord-store.ru
 myhealthycommunity.dhss.delaware.gov
 myprivacy.dpgmediagroup.net
 netbank.dhanbank.in
 netbanking.dhbbank.com
 netdisco.distributel.net
 new.admin.discord-accounts.ru
+new.backup.discord-accounts.ru
 news.email.discord-accounts.ru
 ninjoservices.dwd.de
 novak.dealer-husqvarna8.cz
 nsf-3-au.dropbox.com
 nsfw.discord.dryusdan.fr
 ntagil.dom-electric.ru
+old.admin.discord-accounts.ru
 online.dda.org.in
 online.tax-erefund.dipertsan.my.id
+onlinesecure4478.dynamic-dns.net
 open-dbenefit.dongfangfuli.com
 opus-nc-public.digitellcdn.com
 oqudlest4i8kk5c.webmail.discord-accounts.ru
@@ -607,6 +626,7 @@ order.dokterappleid.com
 orders-application.dynoboyz.com
 owa.fro-1287-update-github-deployment-statues-a5fde0b3.devrel.in
 p.dtns.me
+pagar.daumzap.com
 paketweb.dinarkhang.my.id
 panel.discord-accounts.ru
 parcel-cdn.delivery-status.com
@@ -616,6 +636,7 @@ pay.disco-list.com
 pay.dynodieselperformance.com
 pcrws.dab.gov.af
 phpmyadmin.discord-store.ru
+plugin.discord-store.ru
 portal.discord-acc.ru
 preprodbwr.destatis.de
 promo.dentalstory.kiev.ua
@@ -635,6 +656,7 @@ remote.damage-inc.ca
 reportspre.dkvdirecto.com
 rin-girl.deviantart.com
 rm-uat-1-ext.swissre-uat.dxc-ins.com
+rodrigues404.deviantart.com
 roscaizquierda.diariolibre.com
 rtud2.darklingdesign.com
 russellzaimi.demowebsiteclient.com
@@ -658,11 +680,13 @@ sfm-reporting.daimler.com
 sg-links.dreamstime.com
 share.demcastusa.com
 shinodage.deviantart.com
+shop.bbs.discord-accounts.ru
 siseafiliados-qa.dev-pruebas.com
 sky.dixy.ru
 spekulor.demowebsiteclient.com
 ssl.ditonlinebetalingssystem.dk
 stage.dynamic.ca
+stg.discord-store.ru
 sts.dfnld.nl
 sts.doc.gov
 support.desys.it
@@ -675,9 +699,11 @@ surgut.dom-electric.ru
 survey-qu1.deutschebahn.com
 sync.datacomcloud.co.nz
 system.diamondtrack.pl
+system.discord-store.ru
 sythgara.deviantart.com
 t-systems-client-services-stage.dwtemp.de
 t.dripemail2.com
+t.noticias.detueleccion.com
 t8.dropbox.com
 tag-manager-api.datavault.tech
 tauriello.dzvoip.it
@@ -690,8 +716,10 @@ thepreswordpress.discord-accounts.ru
 thunder.dropbox.com
 ticket1.derticketservice.de
 tracking-usps-qualify-informed-deliver-package-jsp.dns05.com
+traefik.dokago.de
 tts.donga.com
 tts1.donga.com
+tv.discord-store.ru
 us-east-1.sns-sqs.services.fa6e6eb315a392465e8f26741516c5fc.dancefloor.dev
 user.discord-acc.ru
 utvphmkv.dreamwp.com
@@ -730,6 +758,8 @@ www.billing.duaarah.id
 www.billing1.duaarah.id
 www.careconcierge.demowebsiteclient.com
 www.cheirinhopracarro.com.br.digitoolsdg.com.br
+www.client98.developdesign.website
+www.clients.dezignaz.com
 www.coaching-plus.demowebsiteclient.com
 www.commonweaalth-au.digital-online-web-login.com
 www.contoh.dakhura.com
@@ -755,6 +785,7 @@ www.dec.gov.ua
 www.decadeofcentenaries.com
 www.deedlasel.com
 www.deliverancechurchofgod.com
+www.deliveryfastfood.com.br
 www.deliverypointuae.space
 www.deliverypointuae.website
 www.deltasupport.nl
@@ -775,6 +806,7 @@ www.digitalservice24h.com
 www.diplomatie.gov.tn
 www.directmoney.in
 www.disco-camp.com
+www.discofox.pro
 www.discopara.com
 www.discordmethodstr.ml
 www.discoverasr.com
