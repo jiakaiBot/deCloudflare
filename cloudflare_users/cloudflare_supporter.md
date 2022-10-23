@@ -7939,6 +7939,7 @@ Do not create new issue or we will close it as duplicate.
 | [rexjohannes98@twitter](https://twitter.com/rexjohannes98/status/1566046664833507329) | advertise |
 | [rex_clemente@twitter](https://twitter.com/rex_clemente/status/1376875545955209224) | advertise |
 | [rex_divakar@twitter](https://twitter.com/rex_divakar/status/1506067340165009409) | advertise |
+| [RezaeShahram@twitter](https://twitter.com/RezaeShahram/status/1583969859041230848) | advertise |
 | [rezagolami_98@twitter](https://twitter.com/rezagolami_98/status/1501473867461799936) | advertise |
 | [RezaulK30725462@twitter](https://twitter.com/RezaulK30725462/status/1529533295041875970) | advertise |
 | [RezuKyonyu@twitter](https://twitter.com/RezuKyonyu/status/1384584149902651392) | advertise |
@@ -10007,6 +10008,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vinic09787867@twitter](https://twitter.com/Vinic09787867/status/1391299216610365440) | advertise |
 | [VinNc9@twitter](https://twitter.com/VinNc9/status/1386295089752809472) | advertise |
 | [Vinoth23510941@twitter](https://twitter.com/Vinoth23510941/status/1404749738747088897) | advertise |
+| [VinoVino2809@twitter](https://twitter.com/VinoVino2809/status/1584144896289447936) | advertise |
 | [Vinzbran@twitter](https://twitter.com/Vinzbran/status/1552464107772985344) | advertise |
 | [vipibox@twitter](https://twitter.com/vipibox/status/1570101058587987968) | advertise |
 | [VirgilShelton@twitter](https://twitter.com/VirgilShelton/status/1409998073040756738) | moral (advertise) |
@@ -10806,6 +10808,7 @@ Do not create new issue or we will close it as duplicate.
 | [zulfadlieber@twitter](https://twitter.com/zulfadlieber/status/1404423041573027844) | advertise |
 | [zunnooneth@twitter](https://twitter.com/zunnooneth/status/1542169862520197126) | advertise |
 | [zuraimiahmad03@twitter](https://twitter.com/zuraimiahmad03/status/1536022063890042880) | advertise |
+| [zuwooshik@twitter](https://twitter.com/zuwooshik/status/1584148795637387264) | advertise |
 | [zVirtualz@twitter](https://twitter.com/zVirtualz/status/1552146603829784576) | advertise |
 | [ZwalNaing@twitter](https://twitter.com/ZwalNaing/status/1380405072123678721) | advertise |
 | [zwe23697@twitter](https://twitter.com/zwe23697/status/1391485360484458498) | advertise |
