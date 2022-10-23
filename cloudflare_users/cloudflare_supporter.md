@@ -565,6 +565,7 @@ Do not create new issue or we will close it as duplicate.
 | [AmirullAyob@twitter](https://twitter.com/AmirullAyob/status/1474048815149682689) | advertise |
 | [Amirulsyafeeq66@twitter](https://twitter.com/Amirulsyafeeq66/status/1550517767899840512) | advertise |
 | [amir_809@twitter](https://twitter.com/amir_809/status/1573479973331017728) | advertise |
+| [amit19906@twitter](https://twitter.com/amit19906/status/1584241344314167297) | advertise |
 | [AmitSin32558267@twitter](https://twitter.com/AmitSin32558267/status/1483704135405142016) | advertise |
 | [amjadazizi1@twitter](https://twitter.com/amjadazizi1/status/1583285934334050306) | advertise |
 | [Amjad_Azizi25@twitter](https://twitter.com/Amjad_Azizi25/status/1583216658784534528) | advertise |
@@ -1645,6 +1646,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chahali@twitter](https://twitter.com/Chahali/status/1483045454778707971) | advertise |
 | [Chahin303@twitter](https://twitter.com/Chahin303/status/1504562221426298886) | advertise |
 | [chainsa93470930@twitter](https://twitter.com/chainsa93470930/status/1478629139682717696) | advertise |
+| [ChairatNamkaew@twitter](https://twitter.com/ChairatNamkaew/status/1584230257779171328) | advertise |
 | [ChaiwichitJarn3@twitter](https://twitter.com/ChaiwichitJarn3/status/1406515044427259904) | advertise |
 | [Chakkrit_bank24@twitter](https://twitter.com/Chakkrit_bank24/status/1392631487460114436) | advertise |
 | [Chaloewut09@twitter](https://twitter.com/Chaloewut09/status/1503882755629019138) | advertise |
@@ -4386,6 +4388,7 @@ Do not create new issue or we will close it as duplicate.
 | [KarkiNabinkumar@twitter](https://twitter.com/KarkiNabinkumar/status/1354921344664707075) | advertise |
 | [Karl_ITNerd@twitter](https://twitter.com/Karl_ITNerd/status/1497518333398245380) | advertise |
 | [karoki86@twitter](https://twitter.com/karoki86/status/1548492611035361285) | advertise |
+| [KarolinWasz@twitter](https://twitter.com/KarolinWasz/status/1584242492098039808) | advertise |
 | [karona_tha@twitter](https://twitter.com/karona_tha/status/1398250289895862274) | advertise |
 | [karrifyoffical@twitter](https://twitter.com/karrifyoffical/status/1385309175744446464) | advertise |
 | [Karry54667318@twitter](https://twitter.com/Karry54667318/status/1398923893050515461) | advertise |
