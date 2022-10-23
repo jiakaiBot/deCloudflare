@@ -77,6 +77,7 @@ api-uaz-prod.ukh.de
 autodiscover.umgnet.com
 b01.ugwdevice.net
 backend.uniqa.at
+bca.co.id.updatetariftrnsksi.my.id
 bigliettazione.sma.unipi.it
 blog.blog.blog.demo.store.updatemy.website
 blog.blog.magento.wp.updatemy.website
@@ -120,6 +121,7 @@ money-recognition.apps.uraki.dev
 netflix.unreel.me
 news.uterque.com
 noski-stafan.uaprom.net
+ph1.usero.cn
 poradna.sandbox.ulekare.cz
 portaal-beta.universalvoice.nl
 postmark.ukrposhta.ua
@@ -131,6 +133,7 @@ raven-ext.sdpgw.ual.com
 secure-service.updatemanagerssvrice.top
 secure.app.umea.se
 slack.apps.uatbi.com.br
+ssp.usps.gov
 straw.uber.space
 strea.umaru.to
 test.chem.uni-sofia.bg
@@ -165,10 +168,12 @@ unnumelom.com
 untamedheartphotography.com
 update-paymtsamazon.com
 update.md
+updatebriionline.xyz
 updatetarif.com
 ups-error.com
 upspinarakor.com
 upstartwings.com
+uptrack-online.com
 upvcwindowsessex.co.uk
 upvcwindowsfelixstowe.co.uk
 upvcwindowssuffolk.co.uk
@@ -194,6 +199,7 @@ warhammer-40000.ucoz.ru
 webdisk.secure-service.updatemanagerssvrice.top
 webmail.uddoktatelecom.xyz
 webs.ucm.es
+www.account.ulohas.tw
 www.alerta.unach.mx
 www.avalanche.usermainnet.site
 www.avaxnetwork.usermainnet.site
@@ -204,6 +210,7 @@ www.helpdesk.unnet.com.br
 www.ibank.ut-bk.com
 www.klaster-tmt.usermd.net
 www.login.unnet.com.br
+www.metamaskholders.usermainnet.site
 www.osticket.razziel2.usermd.net
 www.stream.update-sports.com
 www.u-buy.com.ua
@@ -231,6 +238,7 @@ www.usavisaconsultant.com
 www.uscourts.gov
 www.usefeva.com.br
 www.user-admin-panel.tk
+www.user.ultimatecapitalfx.com
 www.userappor.com.br
 www.usinnews.com
 www.uskidseducation.com
