@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,178 |
-| net | 1,752 |
+| com | 3,179 |
+| net | 1,753 |
 | org | 1,228 |
-| social | 1,202 |
-| de | 1,045 |
+| social | 1,203 |
+| de | 1,046 |
 
 
 - Mastodon, Pleroma, etc
@@ -2106,6 +2106,7 @@ Here's a list of public Fediverse services.
 | bitcointv.com | No |
 | bitcointv.net | No |
 | bitflip.jetzt | No |
+| bitfroest.cloud | No |
 | bitfudge.com | Yes |
 | bitgrid.net | No |
 | bithope.info | No |
@@ -4416,6 +4417,7 @@ Here's a list of public Fediverse services.
 | desord.re | No |
 | despora.de | No |
 | dessert.coffee | No |
+| destrocodpiece.wtf | No |
 | destruktive.one | No |
 | desttinghim.name | No |
 | desu.blog | No |
@@ -4664,6 +4666,7 @@ Here's a list of public Fediverse services.
 | diytelevision.com | No |
 | dizl.de | No |
 | dizman.org | No |
+| dj.je | Yes |
 | djan-gicquel.fr | No |
 | djanzu.tokyo | No |
 | djiko.net | No |
@@ -4783,6 +4786,7 @@ Here's a list of public Fediverse services.
 | dopasoft.com | No |
 | dora.im | Yes |
 | dorf-post.de | No |
+| dorfsvald.net | No |
 | dorheeme.de | No |
 | dorijan.io | No |
 | dork.dev | No |
@@ -6245,6 +6249,7 @@ Here's a list of public Fediverse services.
 | fokken.ninja | No |
 | fokuza.eu | No |
 | foldr.nl | No |
+| folkse.com | No |
 | folkvangr.social | No |
 | folkwolf.net | No |
 | followme.best | No |
@@ -7815,6 +7820,7 @@ Here's a list of public Fediverse services.
 | hellwife.online | No |
 | hellyandthemountains.fr | No |
 | helmershomestead.org | No |
+| helmet.hair | No |
 | helpchangethe.world | No |
 | helpmedog.com | Yes |
 | helse.rocks | No |
@@ -10498,6 +10504,7 @@ Here's a list of public Fediverse services.
 | lgy.fr | No |
 | lhc.net.br | Yes |
 | lhin.space | No |
+| lhochet.dev | No |
 | lhrtunnel.link | No |
 | lhub.pl | No |
 | lhub.social | No |
@@ -12662,6 +12669,7 @@ Here's a list of public Fediverse services.
 | mowerse.com | Yes |
 | mowetent.com | No |
 | moxaik.de | No |
+| moxr.de | No |
 | moxxis.space | No |
 | moytura.org | No |
 | moyu.foundation | Yes |
@@ -14196,6 +14204,7 @@ Here's a list of public Fediverse services.
 | olifantje.net | No |
 | oliviaappleton.com | No |
 | olivianet.work | No |
+| oljo.xyz | No |
 | olliespeople.place | Yes |
 | olllllllo.fun | No |
 | olry.co | No |
@@ -16244,6 +16253,7 @@ Here's a list of public Fediverse services.
 | rebtoor.com | Yes |
 | recetasbellas.com | No |
 | recharge.fm | No |
+| recht.social | No |
 | recipes.exchange | Yes |
 | reclaim.technology | No |
 | recompilermag.com | Yes |
@@ -16543,6 +16553,7 @@ Here's a list of public Fediverse services.
 | robinjanssens.com | Yes |
 | robinsloan.com | No |
 | robinsmediateam.dev | Yes |
+| roblen.at | No |
 | robloxcommunity.social | No |
 | robmydobrze.pl | No |
 | robmyers.org | Yes |
@@ -21291,6 +21302,7 @@ Here's a list of public Fediverse services.
 | wolthera.info | No |
 | wombat.online | No |
 | wombats.club | No |
+| womenwhocode.club | No |
 | wonderdome.net | No |
 | wonfe.com | No |
 | wood-built21.net | No |
@@ -22148,8 +22160,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,497 |
-| Normal | 17,608 |
+| Cloudflare | 4,498 |
+| Normal | 17,619 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
