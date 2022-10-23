@@ -2841,7 +2841,7 @@ Here's a list of public Fediverse services.
 | catboy.cafe | No |
 | catboyindustries.co | Yes |
 | catcatnya.com | No |
-| catdog.me | Yes |
+| catdog.me | No |
 | catdon.jp | No |
 | catdon.life | No |
 | catgirl.army | Yes |
@@ -21975,6 +21975,7 @@ Here's a list of public Fediverse services.
 | zbop.xyz | Yes |
 | zbucaao2-liquidwebsites.com | No |
 | zcyph.cc | Yes |
+| zd.do | No |
 | zdc.zone | No |
 | zdsfa.com | No |
 | zdx.fr | No |
@@ -22163,8 +22164,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,499 |
-| Normal | 17,621 |
+| Cloudflare | 4,498 |
+| Normal | 17,623 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
