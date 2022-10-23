@@ -7619,6 +7619,7 @@ Here's a list of public Fediverse services.
 | hakodon.cf | No |
 | hakomas.cf | No |
 | hakorena.net | No |
+| haku-kazamaru.club | No |
 | haku.site | Yes |
 | hakuhodon.com | No |
 | hakui.club | No |
@@ -10798,6 +10799,7 @@ Here's a list of public Fediverse services.
 | lobi.to | No |
 | lobisomem.xyz | No |
 | loca.lt | Yes |
+| locahlo.st | No |
 | locahlost.net | No |
 | local-rouze.org | No |
 | local704.co | No |
@@ -22166,7 +22168,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,498 |
-| Normal | 17,624 |
+| Normal | 17,626 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
