@@ -1396,6 +1396,7 @@ Here's a list of public Fediverse services.
 | astoundingteam.com | No |
 | astragroup.info | Yes |
 | astral-gate.network | No |
+| astral.camp | No |
 | astral.ml | No |
 | astralchan.xyz | No |
 | astria.city | Yes |
@@ -22165,7 +22166,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,498 |
-| Normal | 17,623 |
+| Normal | 17,624 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
