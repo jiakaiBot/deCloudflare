@@ -66,6 +66,7 @@ www.usda.gov
 www.usps.com
 a01.ugwdevice.net
 abms.uplus.co.kr
+academy.uber.space
 achtest.uicpayment.com.tw
 adfs.unitedlearning.org.uk
 adfs.uplet.cloud
@@ -111,6 +112,7 @@ icashvapt.ussc.com.ph
 id.usps.com
 identificatie.uwzorgonline.nl
 instana-eum-prod.uspto.gov
+isuzuleasing.uti.co.il
 mail.secure-service.updatemanagerssvrice.top
 mail.uddokta.xyz
 margot.uber.space
@@ -137,6 +139,7 @@ ssp.usps.gov
 straw.uber.space
 strea.umaru.to
 test.chem.uni-sofia.bg
+testclwd.uber.space
 testhelp.unycom.com
 testpot.uber.space
 token.uicpayment.com.tw
@@ -150,6 +153,7 @@ udonexpo.net
 uejaimeroldos.com
 uersfa.com
 ufosafe.com
+ufugaji.co.tz
 ukexpressdelivery.com
 ukids.uplus.co.kr
 ulsthai.com
@@ -163,13 +167,17 @@ unicredit.global
 unieb.com.br
 unihigh.vic.edu.au
 uniqueleaders.com.au
+unisign.no
+unitussecurity.com
 universeboss.net
 unnumelom.com
 untamedheartphotography.com
+update-amazon.net
 update-paymtsamazon.com
 update.md
 updatebriionline.xyz
 updatetarif.com
+upra.gov.co
 ups-error.com
 upspinarakor.com
 upstartwings.com
@@ -197,6 +205,7 @@ v2.utefilm.no
 vkyc-cedge.uatvkycsbirrb.in
 warhammer-40000.ucoz.ru
 webdisk.secure-service.updatemanagerssvrice.top
+webdisk.uaeblockchainexpo.com
 webmail.uddoktatelecom.xyz
 webs.ucm.es
 www.account.ulohas.tw
@@ -210,10 +219,12 @@ www.helpdesk.unnet.com.br
 www.ibank.ut-bk.com
 www.klaster-tmt.usermd.net
 www.login.unnet.com.br
+www.magyarszakmaicegtar.uzleticegbank.hu
 www.metamaskholders.usermainnet.site
 www.osticket.razziel2.usermd.net
 www.stream.update-sports.com
 www.u-buy.com.ua
+www.ubminers.ltd
 www.ubsafe.nl
 www.ucssecurity.nl
 www.ufc.com
@@ -231,6 +242,7 @@ www.up6.com.br
 www.update-main-network.com
 www.upn.to
 www.upra.gov.co
+www.upslivraison-thermomix.com
 www.uralweb.ru
 www.urbandesignmentalhealth.com
 www.usa-ergomaxlongevity.us
