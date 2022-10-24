@@ -9007,6 +9007,7 @@ Here's a list of public Fediverse services.
 | jb-net.us | No |
 | jb55.com | Yes |
 | jbc-s.net | No |
+| jbc.ne.kr | Yes |
 | jboi.nl | Yes |
 | jbx.com | No |
 | jcg.re | Yes |
@@ -15583,7 +15584,7 @@ Here's a list of public Fediverse services.
 | prantare.xyz | No |
 | praschnig.com | No |
 | pravdasocial.net | Yes |
-| pravdastalina.info | Yes |
+| pravdastalina.info | No |
 | pravic.xyz | Yes |
 | praxis.su | Yes |
 | prb1.es | No |
@@ -22172,7 +22173,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,498 |
-| Normal | 17,630 |
+| Normal | 17,631 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
