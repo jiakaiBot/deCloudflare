@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,181 |
+| com | 3,182 |
 | net | 1,754 |
 | org | 1,228 |
 | social | 1,204 |
@@ -11861,6 +11861,7 @@ Here's a list of public Fediverse services.
 | mcdev.tech | No |
 | mcewan.io | No |
 | mchel.net | Yes |
+| mcjarbo.com | No |
 | mckellar.org | No |
 | mckellar.social | No |
 | mckendrick.dev | No |
@@ -22173,7 +22174,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,498 |
-| Normal | 17,631 |
+| Normal | 17,632 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
