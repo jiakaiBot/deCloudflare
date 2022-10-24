@@ -5783,6 +5783,7 @@ Do not create new issue or we will close it as duplicate.
 | [mehran060@twitter](https://twitter.com/mehran060/status/1543887005062414337) | advertise |
 | [mehrdad137100@twitter](https://twitter.com/mehrdad137100/status/1508746993497260037) | advertise |
 | [mehrdad138387@twitter](https://twitter.com/mehrdad138387/status/1578662486307647488) | advertise |
+| [Mehrdad83222579@twitter](https://twitter.com/Mehrdad83222579/status/1584484492395175936) | advertise |
 | [MehreganDr@twitter](https://twitter.com/MehreganDr/status/1573241544022409216) | advertise |
 | [Mehrsha21508826@twitter](https://twitter.com/Mehrsha21508826/status/1514578153917886470) | advertise |
 | [meisora175@twitter](https://twitter.com/meisora175/status/1522414345241567232) | advertise |
@@ -8146,6 +8147,7 @@ Do not create new issue or we will close it as duplicate.
 | [safasafari3@twitter](https://twitter.com/safasafari3/status/1556833438426177543) | advertise |
 | [Sagar40471368@twitter](https://twitter.com/Sagar40471368/status/1394306315283959815) | advertise |
 | [SagrJony@twitter](https://twitter.com/SagrJony/status/1378421082592575491) | advertise |
+| [sahand90818531@twitter](https://twitter.com/sahand90818531/status/1584475574302826496) | advertise |
 | [sahilbagde20@twitter](https://twitter.com/sahilbagde20/status/1391423702001012740) | advertise |
 | [SahilGa84383029@twitter](https://twitter.com/SahilGa84383029/status/1393828677977206787) | advertise |
 | [SahilJa22654031@twitter](https://twitter.com/SahilJa22654031/status/1505073147191914496) | advertise |
