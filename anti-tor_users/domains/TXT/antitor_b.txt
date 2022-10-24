@@ -275,15 +275,20 @@ api.dev.boom-api.nl
 api.mail.kunden.burgeins.de
 api.test.boom-api.nl
 api.uat.bill360.com
+apijkn.bpjs-kesehatan.go.id
 app-api.tms.blujaysolutions.net
 app.1inch.boltboxhosting.com
 app.bcinthecloud.com
+app.bni-life.co.id
 appcatalog.bancafideuram.it
 appleproduct.bikerzspot.co.in
+apps.bni-life.co.id
 auth.bmwgroup.net
 authenticationmanager.bimco.org
 autodiscover.belezainstituto.site
 autodiscover.bennettaustin.site
+autodiscover.bmswear.co.uk
+autodiscover.bvg.de
 b1stable.com
 b24-5nwqhm.bitrix24.site
 b24-6abhnx.bitrix24.site
@@ -321,6 +326,7 @@ bankofafricans.com
 bankofamerica-account-verification.com
 bankofamerica-mobile-puj.bx9i.com
 bankovnipoplatek.cz
+bankrojava.com
 bankruptcylawyers-metroeast.com
 banksiagroverealestate.com.au
 banpara1.xyz
@@ -336,6 +342,7 @@ baru-design.com
 baswstudynotes.com
 batidospichincha.online
 baton.ua
+baykimya.com.tr
 bbet88.win
 bbva.com
 bccmail.backauf.de
@@ -355,6 +362,7 @@ beid.bssn.go.id
 belkadan.com
 bemlegalizado.com.br
 benchmark.co.ke
+bengalsecurityservice.com
 bepbtn.vn
 berlogin.com
 bertfairbank.ml
@@ -421,6 +429,7 @@ blog.yahoojhd.biennale.info
 bloggingwizard.com
 bloghear.com
 blogports.com
+blogtipszone.com
 blokwolf.com
 bloxads.com
 bloxaninvest.com
@@ -428,6 +437,7 @@ bluebirdpk.com
 bluemagpieresort.com
 bmedonline.it
 bnbgiveme.com
+bnc.ca
 bnidirect.bni.co.id
 bnz-auth.com
 boacheeb.com
@@ -447,9 +457,11 @@ borupost.dk
 bostonsecurity.net
 bottomlesdisc.com
 bou.com.ua
+boustahe.com
 boutiquelemarie.com
 box.buffyverse.fr
 bpkcdn03.bheem.tv
+bpos.bni-life.co.id
 bprlogin.com
 breakthroughfunding.co.uk
 brethren-jp.com
@@ -465,6 +477,7 @@ bruiloftfiets.nl
 brumm.brumm-service.de
 btssafety.ro
 buckheadsafety.org
+budexp.com.ua
 bugodar.com
 buildaspacustomersupport.co.uk
 builtingym.com
@@ -522,17 +535,22 @@ cpanel.boateazulcachaca.com.br
 cpcalendars.blockchainforcybersecurity.com
 cpcalendars.blockchainforfinancialservices.com
 cpcalendars.blockchainforutilities.com
+cpcalendars.blockchainwalletsupport.org
 cpcontacts.blockchainforcybersecurity.com
 cpcontacts.blockchainforfinancialservices.com
 cpcontacts.blockchainforutilities.com
+cpcontacts.blockchainwalletsupport.org
+cpg.bandainamcoasia.com
 csgo.blatant-lizardry.moe
 customerassist.homeappliance.bruviti.com
 d-de.bosch-garage-management.com
 dashboard.bni.co.id
 dashboard.chb.it.bund.de
+db.services.blockchain-birds.com
 de-staging-api.biletdukkani.com
 de.banggood.com
 demo.bankuin.com
+dev-portal.bongtrip.com.vn
 dev.billvolt.com
 dev.klarsicht.bzga.de
 discord-notifier.cl00-dev-bgv-forge.bgvapp.com
@@ -580,6 +598,7 @@ hcmknowledgehub.bmetrack.com
 helpdesk.bluebird.space
 honeynet.bssn.go.id
 iam.dvdv.bund.de
+icloud-idsupports.bigboss-mx.com
 informations.botanic.com
 ingress.public.bfarm.de
 inspire2.bast.de
@@ -617,6 +636,7 @@ mail.boagotinha.online
 mail.kvb.bund.de
 mailhog.bronevik-add-dev-yandex-php8.stg2.bronevik.space
 mailtrain-lists.businesspartnertim.it
+main.billcasehenterprise.com.my
 malcolmgladwell.bulletin.com
 mapi.bvg.de
 mariavegazo.com.boqueronvalley.com
@@ -651,6 +671,7 @@ opb-sandbox.bancotopazio.com.br
 originalcoffee.banyodev.dk
 owa.bev.bund.de
 p2p-product-configuration-service.test.odm.bmw-fleet.net
+page.billcasehenterprise.com.my
 pgateway.bvl.bund.de
 pilot1-admin.chb.it.bund.de
 pilot1-pilot.chb.it.bund.de
@@ -670,6 +691,7 @@ pilot2.chb.it.bund.de
 pilot2.pre.bundesbots.de
 pizza-capri-toulouse.business.site
 players.brightcove.net
+pma.bronevik-5760-captcha-guest-order-php8.stg2.bronevik.space
 pma.bronevik-5894-fix-top-hot-err-php8.stg2.bronevik.space
 pma.haps-add-de-master-to-yandex.stg2.bronevik.space
 portal-bsre.bssn.go.id
@@ -680,6 +702,7 @@ preprod.verwaltung.bund.de
 preview2.baw.de
 product.auth-coupondex.aliba-ba.bitnuvems.info
 protecciond2.b2clogin.com
+proxy1c.bronevik-5760-captcha-guest-order-php8.stg2.bronevik.space
 pt.blockchainlock.com
 pubgm.brlmo.ml
 r-e-v-i-s-t-a-198526.blogspot.com
@@ -733,6 +756,7 @@ store.bttechnology.space
 stw-fallback.bsh.de
 support.b3dpshop.com
 support.besocial-brands.de
+support.bestcas.com
 support.bitwaysolutions.com
 support.bookabuilderuk.com
 support.brisa-app.co.uk
@@ -765,6 +789,7 @@ ua-bronevik-drop-client-list-index-php8.stg2.bronevik.space
 uat-ofgem.blackthorn.com
 uatapi.buopso.com
 uk.bogdan.app
+update.bckc.site
 updater-2022-10-13.cschelp.r.bkroot.de
 use.bosba.de
 vapt.boardpaconline.com
@@ -787,6 +812,7 @@ webdisk.barrylockunlock.com
 webdisk.blockchainforcybersecurity.com
 webdisk.blockchainforfinancialservices.com
 webdisk.blockchainforutilities.com
+webdisk.blockchainwalletsupport.org
 webdisk.bmsstrata.au
 webdisk.brim.uz
 webdoc-senegal.bicisnet.net
@@ -796,6 +822,7 @@ webmail.blockchainforfinancialservices.com
 webmail.blockchainforutilities.com
 webmail.boagotinha.online
 webmail.buchadianchildhood.com
+webmail.bvg.de
 webportal.juwin.bayern.de
 website.bak-tek.com
 westernunionsupport.biwlatam.com
@@ -818,6 +845,7 @@ www.bahamashclondon.net
 www.bairrodoavillez.pt
 www.balkos-service.de
 www.balletfinland.com
+www.bambinoti.ro
 www.bambooaudiovisual.com
 www.bancak.id
 www.bancodealimentospalmira.com
@@ -830,10 +858,13 @@ www.bankasoc.lv
 www.bankofamerica-account-verification.com
 www.bankofrantoul.bank
 www.bankovnipoplatky.cz
+www.bankrojava.com
 www.bankruptcyinfoservices.com
 www.bankruptcylawyers-metroeast.com
 www.banquetesgoldenchair.com
+www.banquezitouna.com
 www.bapz.fr
+www.barnaspersonligeverden.no
 www.bartleby.com
 www.bayiliknoktasi.tk
 www.bayjournal.com
@@ -884,6 +915,7 @@ www.bizegelsin.com
 www.bk8-login.com.bravotogels.com
 www.bklisboa.pt
 www.blablacar.com.ua
+www.blablacar.ru
 www.blackhawkmachineproducts.com
 www.blacksecurity.cl
 www.blika.com
@@ -899,11 +931,13 @@ www.bmc.edu.sg
 www.bmednet.it
 www.bmkgenetics.com
 www.bnbservice.it
+www.boa28secure.com
 www.boaopoultry.com
 www.boden.co.uk
 www.bodynotsorry.com
 www.boehringer-ingelheim.jp
 www.bogdan.app
+www.bohr.technology
 www.bookandsword.com
 www.bookarts.org
 www.boostpeakbio.com
@@ -918,6 +952,7 @@ www.bri.co.id
 www.broadreachconsulting.co.ke
 www.brontezusjes.nl
 www.brproud.com
+www.brylleled.dk
 www.buckheadsafety.org
 www.buddhanet.world
 www.budget.com
@@ -928,8 +963,10 @@ www.buysellram.com
 www.buyvisisoothe.com
 www.bvb.ro
 www.bwicomms.com
+www.byrdie.com
 www.c9n8010pk7jdms1lvbbg.accounting.brillianit.com
 www.contact.bbafinacialservices.com
+www.contact.bicobi.co
 www.core.bookingfasttrack.com
 www.dev-sidiajeng.banksampah.online
 www.dev.billvolt.com
@@ -940,6 +977,7 @@ www.junxiong.bscfyp2022.xyz
 www.kediripay.bankdaerahkabkediri.com
 www.kmc.bankasoc.lv
 www.loadingencryptdata.verification.bastamarket.sa
+www.login.email.bukajualan.com
 www.manufacture.bijouteriesopenaby.com
 www.moneysurance.bosswoman.in
 www.mudwheelfabricators.blueberry2security.co.ke
