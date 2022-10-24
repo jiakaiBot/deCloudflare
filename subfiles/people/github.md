@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Trouble with Authentication](https://github.com/xvrh/atlassian_apis/issues/14)
 - [wallet log in isse](https://github.com/MystenLabs/sui/issues/5497)
 - [DoSyncV2: response returned 524](https://github.com/matrix-org/sliding-sync/issues/54)
 - [The disable-web-security argument is giving trouble](https://github.com/danielgatis/puppeteer-recaptcha-solver/issues/44)
