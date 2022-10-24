@@ -149,6 +149,7 @@ click.mail.hrtraininngs.com
 click.news.hrciconnect.com
 clients.hivemanila.com
 cloud.heartemail.org
+coach.hingehealth.io
 configurator.hingehealth.io
 connectivitycheck.platform.hicloud.com
 conta.hostus.com.br
@@ -181,6 +182,7 @@ fwzearatservices.herokuapp.com
 fypbreastcancermds3.herokuapp.com
 git.git.git.git.git.zmail.helpmiddlefirst.co
 git.git.git.git.zmail.helpmiddlefirst.co
+git.git.git.gitlab.git.git.learning.hotadvert.top
 gmail2.hammartunskolekorps.com
 h-isac.org
 h1catamarca.com.ar
@@ -203,6 +205,7 @@ happycabbagegifts.net
 happysanta.com.ua
 harmalpilotry.com
 hauufhgezl.com
+havasreunion.com
 hayatiskele.com
 hazlolinux.com
 hbt-summer-gala-2022.hudsonvalleyballet.com
@@ -218,6 +221,7 @@ healthybodynodiet.com
 hefoblast.com
 heilstein-datenbank.de
 hello-security.ro
+help-accountupdate.com
 helpdesk-ufos.de
 helpsinstagram.ga
 helpukrainianhospitals.com
@@ -253,6 +257,7 @@ holybackshots.com
 home-delivery.cc
 homelifeuae.com
 homesopt.com
+honeypotqatar.com
 honeyville.com
 hookm.com
 hopectorriction.com
@@ -289,6 +294,7 @@ hunterextreme.pl
 hunterfjohnson.com
 huntergeen.com
 hunterhalfhilldesign.com
+hunterideias.com.br
 hunterlime.com.au
 huntermilitar.ga
 hunterone.cn
@@ -297,6 +303,7 @@ huntersoft.cn
 hunterstambola.com
 huntertrading.co.uk
 hunterxlife.com
+huntme.zone
 hunzaalkaline.com
 huser.ch
 hyouikuukan.com
@@ -309,6 +316,7 @@ imar.hendrickson-intl.com
 imghandler.heraldo.es
 infinite-springs-44153.herokuapp.com
 iqconnect.house.gov
+jcf-zh.hako-bu.net
 jkhjhjkjk.herokuapp.com
 jstream-va.hatoq.com
 juliapeacock217717.hatenablog.com
@@ -359,6 +367,7 @@ report.honeynet.id
 riskspotlight.hostedconnectedrisk.com
 sale.hakk.com.br
 sap-apps-ontw.hhs.nl
+scs.huawei.com
 sdervbnm.herokuapp.com
 sehdfjd.h86uwtyd.cn
 selection-caroupay.herokuapp.com
@@ -404,6 +413,7 @@ www.adbfastighetsservice.se.hemsida.eu
 www.airxolutionservice.haximiner.com
 www.aruba-pec.hausendruck.de
 www.billackering.herrklockor.nu
+www.civi.org.blog.blog.2fservice.hardstresser.com
 www.clientes.hostingid.cl
 www.coach.latarnia.haes.xyz
 www.conta.hostus.com.br
@@ -414,6 +424,7 @@ www.haagen-dazs.co.jp
 www.hackademy.de
 www.haeco.com
 www.haijin-boys.com
+www.hakkei.shop
 www.handymakes.com
 www.hannenonline.nl
 www.hastingsdieselservice.com.au
@@ -423,6 +434,7 @@ www.headwise.ie
 www.health.com
 www.healthcare.gov
 www.healthyhomepestcontrol.biz
+www.hearontrackz.com
 www.helamseguridad.com
 www.helenamotors.com
 www.helenogradynorthlondon.com
@@ -462,6 +474,7 @@ www.hunterlipton.com
 www.hunterlottmusic.com
 www.huntermccartin.xyz
 www.hunterroberts.com
+www.hunterscovetx.com
 www.hunterservicesllc.com
 www.hunterslodge.co.za
 www.huntersmith.ca
@@ -472,6 +485,8 @@ www.hunterswaste.com.au
 www.huntersyndrome.co.il
 www.huntleigh.de
 www.josealbertoadvocacia.com.br.hosteopi.com
+www.qualityassurance-amh-gbb-preprod.hsbc.com.hk
+www.secure-sabbnet-online.hijauelektronikindonesia.com
 www.silverfoxcoaching.hikenclick.com
 www.tehsannahq.harinipost.com
 www.ticketsalt.hottingerfaescht.ch
