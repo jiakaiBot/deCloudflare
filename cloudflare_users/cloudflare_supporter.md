@@ -10205,6 +10205,7 @@ Do not create new issue or we will close it as duplicate.
 | [Weduy2Weduy@twitter](https://twitter.com/Weduy2Weduy/status/1482102273207844865) | advertise |
 | [Weed36471988@twitter](https://twitter.com/Weed36471988/status/1385586093697880071) | advertise |
 | [WeedSino@twitter](https://twitter.com/WeedSino/status/1489122233520123904) | advertise |
+| [weeper_blue@twitter](https://twitter.com/weeper_blue/status/1584409106198061056) | advertise |
 | [weirdo7822@twitter](https://twitter.com/weirdo7822/status/1390378835703599106) | advertise |
 | [weixinhan@twitter](https://twitter.com/weixinhan/status/1385103220226236416) | advertise |
 | [WELINGTONROQUE2@twitter](https://twitter.com/WELINGTONROQUE2/status/1445061282508464130) | advertise |
