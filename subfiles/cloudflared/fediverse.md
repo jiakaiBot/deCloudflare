@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,180 |
-| net | 1,753 |
+| net | 1,754 |
 | org | 1,228 |
 | social | 1,204 |
 | de | 1,046 |
@@ -20277,6 +20277,7 @@ Here's a list of public Fediverse services.
 | undisruptable.technology | No |
 | undo.it | Yes |
 | une33.club | No |
+| uneex.net | No |
 | unextro.net | No |
 | unfediverse.com | No |
 | unfettered.net | Yes |
@@ -22168,7 +22169,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,498 |
-| Normal | 17,626 |
+| Normal | 17,627 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
