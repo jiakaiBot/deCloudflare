@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,180 |
+| com | 3,181 |
 | net | 1,754 |
 | org | 1,228 |
 | social | 1,204 |
@@ -2246,6 +2246,7 @@ Here's a list of public Fediverse services.
 | blogueur-de-france.fr | No |
 | bloguslibrus.fr | No |
 | blombus.com | No |
+| bloonface.com | No |
 | blos.sm | No |
 | blossoming.dev | No |
 | blrsc.me | No |
@@ -9456,6 +9457,7 @@ Here's a list of public Fediverse services.
 | kanina.be | No |
 | kanoa.de | No |
 | kanonchannel.xyz | No |
+| kanru.info | Yes |
 | kansanvalta.org | No |
 | kansas-city.social | No |
 | kanthi.io | No |
@@ -21918,7 +21920,7 @@ Here's a list of public Fediverse services.
 | yuwinet.com | No |
 | yuwinet.win | No |
 | yuyat.jp | No |
-| yuzu.tk | Yes |
+| yuzu.tk | No |
 | yuzuhi.me | No |
 | yuzulia.com | Yes |
 | yuzulia.work | Yes |
@@ -22169,7 +22171,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,498 |
-| Normal | 17,627 |
+| Normal | 17,629 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
