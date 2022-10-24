@@ -2378,6 +2378,7 @@ Do not create new issue or we will close it as duplicate.
 | [duongoppa3004@twitter](https://twitter.com/duongoppa3004/status/1475134938869501952) | advertise |
 | [duranski35Fit@twitter](https://twitter.com/duranski35Fit/status/1395688813331193858) | advertise |
 | [Durgesh87958872@twitter](https://twitter.com/Durgesh87958872/status/1553755144294387712) | advertise |
+| [duuusb@twitter](https://twitter.com/duuusb/status/1584368009191522304) | advertise |
 | [Duy00504124@twitter](https://twitter.com/Duy00504124/status/1398218191784976384) | advertise |
 | [Duy91964915@twitter](https://twitter.com/Duy91964915/status/1380695837001412610) | advertise |
 | [Duyanh01561394@twitter](https://twitter.com/Duyanh01561394/status/1379414233411067912) | advertise |
