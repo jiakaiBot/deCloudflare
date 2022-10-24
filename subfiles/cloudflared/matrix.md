@@ -28,9 +28,11 @@ Here's a list of public Matrix services.
 | alternanet.fr | Yes |
 | anonymousland.org | No |
 | matrix.arcticfoxes.net | Yes |
+| aria.im | No |
 | asra.gr | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
+| bancino.net | No |
 | breeze.town | No |
 | buyvm.chat | No |
 | matrix.bytes4u.de | No |
@@ -129,7 +131,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 20 |
-| Normal | 81 |
+| Normal | 83 |
 
 
-### 19.8% of public Matrix services are using Cloudflare.
+### 19.4% of public Matrix services are using Cloudflare.
