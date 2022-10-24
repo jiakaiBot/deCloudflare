@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error 502, but randomly](https://github.com/exadel-inc/CompreFace/issues/927)
 - [Trouble with Authentication](https://github.com/xvrh/atlassian_apis/issues/14)
 - [wallet log in isse](https://github.com/MystenLabs/sui/issues/5497)
 - [DoSyncV2: response returned 524](https://github.com/matrix-org/sliding-sync/issues/54)
