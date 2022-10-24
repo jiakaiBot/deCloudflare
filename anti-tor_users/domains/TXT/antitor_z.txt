@@ -36,6 +36,7 @@ cdn.zero-trust-security.de
 click.email.zalando-lounge.com
 click.mail2.zocdoc.com
 client.zorgplatform.online
+cpcalendars.trustwalletl.zyns.com
 culevit.zerovic.com
 epay-konnektor.zivit.de
 es-logs.analytics-cluster.zedge.io
@@ -66,6 +67,7 @@ www.eki-net.zurvrk.shop
 www.zaguri-reinigungsservice.de
 www.zappos.com
 www.zeevventures.com
+www.zenit.ru
 www.ziplocal.ca
 www.zocdoc.com
 www.zone-service.com
