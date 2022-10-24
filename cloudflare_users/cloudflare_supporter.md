@@ -376,6 +376,7 @@ Do not create new issue or we will close it as duplicate.
 | [ah_pinn@twitter](https://twitter.com/ah_pinn/status/1390812857999101954) | advertise |
 | [AI03105794@twitter](https://twitter.com/AI03105794/status/1551766571504340992) | advertise |
 | [aibos_Hodl@twitter](https://twitter.com/aibos_Hodl/status/1388969919740514306) | advertise |
+| [AicKhiem@twitter](https://twitter.com/AicKhiem/status/1584565736097226752) | advertise |
 | [aido36449809@twitter](https://twitter.com/aido36449809/status/1470779906057547786) | advertise |
 | [aihps@twitter](https://twitter.com/aihps/status/1379747437770801153) | advertise |
 | [Aiman9485805893@twitter](https://twitter.com/Aiman9485805893/status/1580871351073935360) | advertise |
@@ -1864,8 +1865,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -9392,6 +9393,7 @@ Do not create new issue or we will close it as duplicate.
 | [thone20208234@twitter](https://twitter.com/thone20208234/status/1388498430025105408) | advertise |
 | [thongda80417861@twitter](https://twitter.com/thongda80417861/status/1387699659456528386) | advertise |
 | [thongucuc@twitter](https://twitter.com/thongucuc/status/1570293930033565697) | advertise |
+| [ThoNguy94938925@twitter](https://twitter.com/ThoNguy94938925/status/1584568076104007681) | advertise |
 | [Thonho338@twitter](https://twitter.com/Thonho338/status/1499041712597245952) | advertise |
 | [ThoonThuRa@twitter](https://twitter.com/ThoonThuRa/status/1399420471603519495) | advertise |
 | [ThornTiw@twitter](https://twitter.com/ThornTiw/status/1403023816163352576) | advertise |
