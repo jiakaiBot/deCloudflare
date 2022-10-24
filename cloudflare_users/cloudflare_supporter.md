@@ -2905,6 +2905,7 @@ Do not create new issue or we will close it as duplicate.
 | [gil6508343915@twitter](https://twitter.com/gil6508343915/status/1505250862767087617) | advertise |
 | [gimanadotkom@twitter](https://twitter.com/gimanadotkom/status/1383989601493164041) | advertise |
 | [gindaGill9@twitter](https://twitter.com/gindaGill9/status/1377649793418297345) | advertise |
+| [ginduz@twitter](https://twitter.com/ginduz/status/1584450584610230272) | advertise |
 | [gingerbon7@twitter](https://twitter.com/gingerbon7/status/1583648337953460224) | advertise |
 | [GinTl112@twitter](https://twitter.com/GinTl112/status/1392572589084606465) | advertise |
 | [Gio32429382@twitter](https://twitter.com/Gio32429382/status/1399756747972173830) | advertise |
