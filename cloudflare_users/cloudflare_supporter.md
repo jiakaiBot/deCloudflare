@@ -390,6 +390,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aitizaz14@twitter](https://twitter.com/Aitizaz14/status/1484956706610233350) | advertise |
 | [ai_l12@twitter](https://twitter.com/ai_l12/status/1397037068493197314) | advertise |
 | [ajamiissa1@twitter](https://twitter.com/ajamiissa1/status/1474108447318851595) | advertise |
+| [AjangMaulanaM@twitter](https://twitter.com/AjangMaulanaM/status/1584629534296768512) | advertise |
 | [ajarmah123@twitter](https://twitter.com/ajarmah123/status/1569669764272001025) | advertise |
 | [Ajay25545679@twitter](https://twitter.com/Ajay25545679/status/1389473937520832515) | advertise |
 | [ajayajayid@twitter](https://twitter.com/ajayajayid/status/1374250782011256837) | advertise |
@@ -9737,6 +9738,7 @@ Do not create new issue or we will close it as duplicate.
 | [truongsonhai@twitter](https://twitter.com/truongsonhai/status/1392223378480660483) | advertise |
 | [TrustedhostingI@twitter](https://twitter.com/TrustedhostingI/status/1424252791506145280) | advertise |
 | [TrVNguyn7@twitter](https://twitter.com/TrVNguyn7/status/1554575659833659393) | advertise |
+| [try2hack@twitter](https://twitter.com/try2hack/status/1584609234750042118) | advertise |
 | [tr_ling@twitter](https://twitter.com/tr_ling/status/1523468569475837953) | advertise |
 | [Tsewang73248585@twitter](https://twitter.com/Tsewang73248585/status/1385606825676984327) | advertise |
 | [Tsherin04300710@twitter](https://twitter.com/Tsherin04300710/status/1394306975505129474) | advertise |
