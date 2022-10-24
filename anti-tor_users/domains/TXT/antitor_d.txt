@@ -224,6 +224,7 @@ yoshiiaki.deviantart.com
 66f9b3927035438622bcd59ae402f34a.dancefloor.dev
 78bcca32c9864a499a6fd4625858bde4.svc.dynamics.com
 852048accdf1458ba1c7fcd06f9512c5.svc.dynamics.com
+9024ad4aafbb45eaa3dd15a8f1209b94.svc.dynamics.com
 a2fb9781b6e24716995472ddae4ed540.svc.dynamics.com
 academy.discord-accounts.ru
 account.venmo.detailedtrans.com
@@ -261,6 +262,7 @@ audiocaptcha.danieljmarra.com
 aurorabapenv97798.crmtest.dynamics.com
 auth.duqqy.ru
 authspokegovpass.dss.gov.au
+autodiscover.destmediagroup.com
 autodiscover.discardedmedia.com
 autodiscover.discordiastudio.hr
 autodiscover.dynodetailing.ca
@@ -283,6 +285,7 @@ bo.monparcoursentreprise.banqueentreprise.dev.bnpparibas
 bolt.dropbox.com
 bot.discord-store.ru
 boxejbl.demo.ro
+brands.digikrave.com
 c9d3b40f34ed4148a2ce444202f7f6e4.svc.dynamics.com
 callback.daopay.com
 captcha.test.dayaapp.ir
@@ -318,6 +321,7 @@ cpanel.dynomotion.biz
 cpanel.dynomotion.com
 cpanel.mercadotrecos.com.br.dmatechnus.com.br
 cpcalendars.descargaroblox.top
+cpcalendars.disco-jl-music.fr
 cpcalendars.discordiastudio.hr
 cpcalendars.discorv.com
 cpcalendars.dokterappleid.com
@@ -329,6 +333,8 @@ cpcalendars.dynomotion.com
 cpcalendars.mercadotrecos.com.br.dmatechnus.com.br
 cpcalendars.outandaboutpensacosmtp.discord-accounts.ru
 cpcontacts.descargaroblox.top
+cpcontacts.destmediagroup.com
+cpcontacts.disco-jl-music.fr
 cpcontacts.discordiastudio.hr
 cpcontacts.discorv.com
 cpcontacts.dokterappleid.com
@@ -384,6 +390,7 @@ deem.io
 deitel.com
 delanoi.ro
 deliverhealth.ch
+delivery-bucuresti.ro
 delivery-dhll.gq
 deliveryfastfood.com.br
 demcaocap.com
@@ -417,6 +424,7 @@ dhofar-tls.com
 diabeticdietfoodlist.com
 diadyktio.eu
 diariodetransporte.com
+dibsemey.com
 dichtailieu247.com
 dicsord-tool.com
 diegovalbuena.com
@@ -446,6 +454,7 @@ discordv2.com
 discovery-prod01.diligentcloudservices.com
 discrod-egifts.com
 discrodgift.com
+dishalawfirm.com
 district-417.org
 district160.com
 dixonsjamaican.com
@@ -507,6 +516,7 @@ dusel-shop.com.ua
 dustind.com
 dutpartnership.eu
 dxmjyxksvc.com
+dycsi.net
 dynocar.org
 dynodetailing.ca
 dynomotion.biz
@@ -538,6 +548,7 @@ gdbnfts.web.di014.com
 genevieve-nwigwe.demowebsiteclient.com
 git.git.git.git.git.git.git.vmail.dimfbparati.com
 github-trigger.phoenix.ds3.salescloud.dev.sap
+gitlab-restore-xgyc93.datahubnow.com
 gitlab.discord-store.ru
 graphic.demowebsiteclient.com
 harwicks-art.deviantart.com
@@ -547,6 +558,7 @@ helpdesk-supports154.dns.army
 hr.disano.it
 ibcm.dswincq.com
 images-au-prod.cms.commerce.dynamics.com
+images.mktsvcp102wu101.svc.dynamics.com
 infocare.digiweb.net.nz
 infocare12.digiweb.net.nz
 insight-th-uat.daimler.com
@@ -624,6 +636,7 @@ opus-nc-public.digitellcdn.com
 oqudlest4i8kk5c.webmail.discord-accounts.ru
 order.dokterappleid.com
 orders-application.dynoboyz.com
+oud.dynova.nl
 owa.fro-1287-update-github-deployment-statues-a5fde0b3.devrel.in
 p.dtns.me
 pagar.daumzap.com
@@ -649,6 +662,7 @@ qgbed1opw5e0yo0.a.discordstore.ru
 r.dhinsights-info.com
 rakuten-jp.douhaosoft.cn
 register.deltainformatica.es
+reinierdejong.com.dynocar.org
 relaunch.die-infektastischen-sti.de
 relaunch.dotsys-online.de
 relaunch.drugcom.de
@@ -713,6 +727,7 @@ test.b2b.dsv.net
 test.deteriorate-distribute.site
 tf1-adapter-update-references-orders.dev-inforit.cloud
 thepreswordpress.discord-accounts.ru
+thewatchers.us.dynocar.org
 thunder.dropbox.com
 ticket1.derticketservice.de
 tracking-usps-qualify-informed-deliver-package-jsp.dns05.com
@@ -796,8 +811,10 @@ www.destinnesactions2025.info
 www.deutsche-apotheker-zeitung.de
 www.dev.buyernext.com.dataabsolute.com
 www.devolution.link
+www.dewlay.com
 www.dhl.is
 www.diamondspa-servicios.com
+www.dieselbookstore.com
 www.dietitian.demowebsiteclient.com
 www.digikey.com.mx
 www.digiliife.com
@@ -856,6 +873,7 @@ www.paketweb.dinarkhang.my.id
 www.pixeltracking.projet.dynv6.net
 www.property.desongraha.com
 www.proxtastemy.dineroez.com
+www.rahayukaretjaya.daunlab.com
 www.russellzaimi.demowebsiteclient.com
 www.saferoad.desertdeer.ae
 www.santander.deauth-mobile.com
