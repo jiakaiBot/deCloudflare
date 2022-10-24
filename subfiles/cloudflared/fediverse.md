@@ -18855,6 +18855,7 @@ Here's a list of public Fediverse services.
 | taprix.org | No |
 | taprlight.com | No |
 | tar.black | No |
+| tar.cx | No |
 | tarasis.net | Yes |
 | tarasupadon.com | No |
 | tardar.social | No |
@@ -22171,7 +22172,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,498 |
-| Normal | 17,629 |
+| Normal | 17,630 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
