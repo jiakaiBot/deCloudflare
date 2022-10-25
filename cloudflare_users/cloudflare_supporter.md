@@ -3769,6 +3769,7 @@ Do not create new issue or we will close it as duplicate.
 | [IcyHear05989673@twitter](https://twitter.com/IcyHear05989673/status/1394815203041169411) | advertise |
 | [idarerick@twitter](https://twitter.com/idarerick/status/1401141019442249729) | advertise |
 | [ideveloper8@twitter](https://twitter.com/ideveloper8/status/1459107888471941146) | advertise |
+| [idrayt1@twitter](https://twitter.com/idrayt1/status/1584900658699829251) | advertise |
 | [IeuThy@twitter](https://twitter.com/IeuThy/status/1392390808062464006) | advertise |
 | [ifany_andrik@twitter](https://twitter.com/ifany_andrik/status/1556160476702441472) | advertise |
 | [IGateco@twitter](https://twitter.com/IGateco/status/1572287104104923137) | advertise |
