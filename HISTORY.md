@@ -5,6 +5,9 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-03: [DUB (Dublin) on 2022-11-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8zy4b6x83xvd)
+- 2022-10-28: [MSP (Minneapolis) on 2022-10-28](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/txnkvw6frp25)
+- 2022-10-25: [Increased HTTP 530 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kdpqngcbbn25)
 - 2022-10-29: [HKG (Hong Kong) on 2022-10-29](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/p1r5g163lwhv)
 - 2022-10-28: [OSL (Oslo) on 2022-10-28](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1x3crn7ldpbc)
 - 2022-10-27: [WAW (Warsaw) on 2022-10-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6k2tlsj2zymp)
