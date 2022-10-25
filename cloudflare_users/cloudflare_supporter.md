@@ -765,6 +765,7 @@ Do not create new issue or we will close it as duplicate.
 | [ArkarMa11678412@twitter](https://twitter.com/ArkarMa11678412/status/1397911928618561536) | advertise |
 | [ArkarMo71581850@twitter](https://twitter.com/ArkarMo71581850/status/1394645834210283521) | advertise |
 | [ArkarOo18249537@twitter](https://twitter.com/ArkarOo18249537/status/1393415040586293250) | advertise |
+| [Arks55436326@twitter](https://twitter.com/Arks55436326/status/1584702625391710210) | advertise |
 | [arlind_rexh@twitter](https://twitter.com/arlind_rexh/status/1383005007486783491) | advertise |
 | [ARM42605072@twitter](https://twitter.com/ARM42605072/status/1402876982652592131) | advertise |
 | [ArmaanIrrfan@twitter](https://twitter.com/ArmaanIrrfan/status/1394254754113495042) | advertise |
@@ -4087,6 +4088,7 @@ Do not create new issue or we will close it as duplicate.
 | [jekcham1@twitter](https://twitter.com/jekcham1/status/1508921439944327170) | advertise |
 | [JenifarYasmin7@twitter](https://twitter.com/JenifarYasmin7/status/1404862325505462273) | advertise |
 | [jenjira1958@twitter](https://twitter.com/jenjira1958/status/1386021576714317826) | advertise |
+| [Jennife02145345@twitter](https://twitter.com/Jennife02145345/status/1584704770610442241) | advertise |
 | [Jeongperth@twitter](https://twitter.com/Jeongperth/status/1384190962499416071) | advertise |
 | [JeonHnin@twitter](https://twitter.com/JeonHnin/status/1396070462728204289) | advertise |
 | [jeon_taeguk@twitter](https://twitter.com/jeon_taeguk/status/1398449609018540034) | advertise |
