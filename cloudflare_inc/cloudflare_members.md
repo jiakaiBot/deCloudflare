@@ -1260,6 +1260,7 @@ Or is this merely a case of simple modesty?
 | Nela Collins | Customer Success | https://uk.linkedin.com/in/nelacollins<br>https://twitter.com/NelaCollins |
 | Nelson A. Blengeri | Employee |  |
 | Nelson Chen | Customer Development |  |
+| Nelson Duarte | Employee | |
 | Nena Nguyen | Product Designer |  |
 | Nerio Musa | Support Manager - APAC |  |
 | Nevi Shah | Employee | |
