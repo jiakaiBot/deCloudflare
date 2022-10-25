@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,182 |
+| com | 3,183 |
 | net | 1,754 |
 | org | 1,228 |
 | social | 1,204 |
@@ -12252,7 +12252,7 @@ Here's a list of public Fediverse services.
 | mindlesstux.com | Yes |
 | mindly.social | Yes |
 | mindofjoe.xyz | No |
-| mindpalace.io | No |
+| mindpalace.io | Yes |
 | mindsforge.com | No |
 | mindyourheadcoop.org | No |
 | minecloud.ro | No |
@@ -15982,7 +15982,7 @@ Here's a list of public Fediverse services.
 | qweer.pw | No |
 | qwerjk.com | No |
 | qwertqwefsday.eu | No |
-| qwerty.city | Yes |
+| qwerty.city | No |
 | qwq.ooo | Yes |
 | qzhou.dev | Yes |
 | r-12.net | No |
@@ -20612,6 +20612,7 @@ Here's a list of public Fediverse services.
 | ventresmous.fr | No |
 | venturahimself.pro | No |
 | venturebeat.com | Yes |
+| veraciousnetwork.com | No |
 | verbrennung.org | No |
 | vercel.app | No |
 | verdigado.net | No |
@@ -22174,7 +22175,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,498 |
-| Normal | 17,632 |
+| Normal | 17,633 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
