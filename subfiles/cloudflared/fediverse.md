@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,183 |
 | net | 1,755 |
 | org | 1,229 |
-| social | 1,206 |
+| social | 1,207 |
 | de | 1,046 |
 
 
@@ -3364,6 +3364,7 @@ Here's a list of public Fediverse services.
 | cockworshipper.com | No |
 | cocoa.me.uk | Yes |
 | cocoa.moe | No |
+| cocoasamurai.social | No |
 | cocoate.com | No |
 | coconatsu.co | Yes |
 | cocoronavi.com | Yes |
@@ -22183,7 +22184,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,500 |
-| Normal | 17,639 |
+| Normal | 17,640 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
