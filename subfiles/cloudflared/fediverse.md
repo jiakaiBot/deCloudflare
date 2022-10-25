@@ -1523,7 +1523,7 @@ Here's a list of public Fediverse services.
 | avapxia.tk | No |
 | avareborn.de | Yes |
 | avatastic.co.uk | No |
-| avatastic.uk | No |
+| avatastic.uk | Yes |
 | avensio.de | No |
 | aventer.biz | No |
 | averagedom.com | No |
@@ -3041,6 +3041,7 @@ Here's a list of public Fediverse services.
 | cheeky.red | No |
 | cheerful.social | No |
 | cheesebsd.com | No |
+| cheeseburger.cafe | No |
 | cheeseburger.social | No |
 | cheeseland.xyz | No |
 | cheesepark.io | No |
@@ -22183,7 +22184,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,500 |
+| Cloudflare | 4,501 |
 | Normal | 17,640 |
 
 
