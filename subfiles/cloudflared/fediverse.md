@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,183 |
 | net | 1,755 |
-| org | 1,228 |
-| social | 1,205 |
+| org | 1,229 |
+| social | 1,206 |
 | de | 1,046 |
 
 
@@ -344,6 +344,7 @@ Here's a list of public Fediverse services.
 | 79120.tours | No |
 | 7glen.cloud | No |
 | 7io.org | No |
+| 7jours.be | No |
 | 7ka.org | No |
 | 7kry.net | No |
 | 7lb.de | No |
@@ -3306,6 +3307,7 @@ Here's a list of public Fediverse services.
 | clovers.social | No |
 | clown-wife-clown.life | No |
 | clown.center | No |
+| clown.social | No |
 | clowntown.app | No |
 | clq.im | No |
 | clttr.info | No |
@@ -6921,6 +6923,7 @@ Here's a list of public Fediverse services.
 | geekstream.org | No |
 | geektox.fun | No |
 | geekvc.jp | Yes |
+| geekwisdom.org | No |
 | geeky-gadgets.com | Yes |
 | geeky.af | Yes |
 | geekyboo.com | No |
@@ -11610,7 +11613,7 @@ Here's a list of public Fediverse services.
 | mastodon.la | Yes |
 | mastodon.land | Yes |
 | mastodon.lat | No |
-| mastodon.li | No |
+| mastodon.li | Yes |
 | mastodon.link | No |
 | mastodon.live | No |
 | mastodon.lol | Yes |
@@ -22179,8 +22182,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,499 |
-| Normal | 17,637 |
+| Cloudflare | 4,500 |
+| Normal | 17,639 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
