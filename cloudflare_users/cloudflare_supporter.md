@@ -1542,6 +1542,7 @@ Do not create new issue or we will close it as duplicate.
 | [buonlam123@twitter](https://twitter.com/buonlam123/status/1389458481523019779) | advertise |
 | [buon_hom@twitter](https://twitter.com/buon_hom/status/1394578812776509443) | advertise |
 | [BurbAchoo@twitter](https://twitter.com/BurbAchoo/status/1552945493172695040) | advertise |
+| [burberry696@twitter](https://twitter.com/burberry696/status/1584787993113825280) | advertise |
 | [burhan@twitter](https://twitter.com/burhan/status/1575455113925328897) | advertise |
 | [burkehellen1@twitter](https://twitter.com/burkehellen1/status/1395294317262958600) | advertise |
 | [BurmaTravelClub@twitter](https://twitter.com/BurmaTravelClub/status/1390846703230541825) | advertise |
