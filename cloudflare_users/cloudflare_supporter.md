@@ -9726,6 +9726,7 @@ Do not create new issue or we will close it as duplicate.
 | [Trun89992376@twitter](https://twitter.com/Trun89992376/status/1552310055277436929) | advertise |
 | [Trung91Tn2@twitter](https://twitter.com/Trung91Tn2/status/1552638456903651329) | advertise |
 | [trung19044252@twitter](https://twitter.com/trung19044252/status/1553121039697444864) | advertise |
+| [Trung937585032@twitter](https://twitter.com/Trung937585032/status/1585030799409442816) | advertise |
 | [Trungcu5@twitter](https://twitter.com/Trungcu5/status/1473494619824410628) | advertise |
 | [TRUNGG27162668@twitter](https://twitter.com/TRUNGG27162668/status/1553759152765546496) | advertise |
 | [TrungHi15300059@twitter](https://twitter.com/TrungHi15300059/status/1553822302546329600) | advertise |
