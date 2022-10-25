@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,183 |
-| net | 1,754 |
+| net | 1,755 |
 | org | 1,228 |
-| social | 1,204 |
+| social | 1,205 |
 | de | 1,046 |
 
 
@@ -2161,7 +2161,7 @@ Here's a list of public Fediverse services.
 | blackjackandhookers.net | No |
 | blackjacknuttenundkoks.de | No |
 | blackmesa.space | Yes |
-| blackpaws.me | No |
+| blackpaws.me | Yes |
 | blackpoolgay.xyz | No |
 | blackquill.cc | No |
 | blackrock.city | No |
@@ -6948,6 +6948,7 @@ Here's a list of public Fediverse services.
 | gemmari.us | No |
 | gemnoc.ca | No |
 | gemuplay.com | No |
+| genart.social | No |
 | genbeta.com | No |
 | genbu.eu | No |
 | genco.me | Yes |
@@ -7098,6 +7099,7 @@ Here's a list of public Fediverse services.
 | gitmo.life | Yes |
 | gitmo.tv | No |
 | gitpod.io | No |
+| gitport.net | No |
 | giveawaydispenser.com | No |
 | givel.fr | No |
 | givelotus.life | No |
@@ -14849,6 +14851,7 @@ Here's a list of public Fediverse services.
 | peerkids.com | No |
 | peerlook.ru | Yes |
 | peers.community | No |
+| peertube-blablalinux.be | No |
 | peertube-host.de | No |
 | peertube.art | No |
 | peertube.at | Yes |
@@ -16848,6 +16851,7 @@ Here's a list of public Fediverse services.
 | sadposting.space | No |
 | sadx.moe | No |
 | saewyc.ca | No |
+| saewyc.email | No |
 | safaradeg.net | No |
 | safebook.space | No |
 | saferspace.social | No |
@@ -20266,6 +20270,7 @@ Here's a list of public Fediverse services.
 | uncreated.net | No |
 | uncrtn.com | No |
 | undbeidirso.de | No |
+| undead.fr | No |
 | undead.link | No |
 | undeadnetwork.de | No |
 | undefined.moe | Yes |
@@ -22174,8 +22179,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,498 |
-| Normal | 17,633 |
+| Cloudflare | 4,499 |
+| Normal | 17,637 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
