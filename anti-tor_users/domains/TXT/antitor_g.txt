@@ -173,6 +173,8 @@ app.gartnerformarketers.com
 arunsingh009.github.io
 arvindhsundar.github.io
 ashutosh86941.github.io
+auth.dev.gruposuperdigital.com
+authcontrol.gruposuperdigital.com
 ayomide200024.github.io
 baezruddy.github.io
 banco.santanderchile.cl.gary-handy.com
@@ -224,6 +226,7 @@ consent.google.com.mx
 consent.google.it
 consent.google.pt
 container.gauthierconsulting.ca
+contao4.getraenke-koehler.de
 content.gmai1-login.com
 content.govdelivery.com
 cpanel.gmailkinbo.xyz
@@ -232,6 +235,7 @@ cpcalendars.gruposdediscord.com
 cpcalendars.signin-accountapp1e.greatmedicaljobs.com
 cpcontacts.gruposdediscord.com
 cpcontacts.signin-accountapp1e.greatmedicaljobs.com
+cpk0521.github.io
 crm-uat.gibl.in
 customer.golden-manpower.com
 d8bv7.app.goo.gl
@@ -248,14 +252,17 @@ doc-00-78-docs.googleusercontent.com
 doc-00-bc-docs.googleusercontent.com
 doc-04-5o-docs.googleusercontent.com
 doc-04-a8-docs.googleusercontent.com
+doc-08-38-docs.googleusercontent.com
 doc-08-3c-docs.googleusercontent.com
 doc-08-4s-docs.googleusercontent.com
 doc-08-70-docs.googleusercontent.com
 doc-08-9g-docs.googleusercontent.com
 doc-0c-38-docs.googleusercontent.com
+doc-0c-5g-docs.googleusercontent.com
 doc-0g-3k-docs.googleusercontent.com
 doc-0g-4s-docs.googleusercontent.com
 doc-0k-1g-docs.googleusercontent.com
+doc-0k-5g-docs.googleusercontent.com
 doc-0k-5s-docs.googleusercontent.com
 doc-0k-78-docs.googleusercontent.com
 doc-0o-5o-docs.googleusercontent.com
@@ -263,6 +270,8 @@ doc-10-3s-docs.googleusercontent.com
 doc-10-54-docs.googleusercontent.com
 doc-10-8o-docs.googleusercontent.com
 doc-10-as-docs.googleusercontent.com
+doc-14-2c-docs.googleusercontent.com
+doc-14-5g-docs.googleusercontent.com
 domain-alert-confirmation.glitch.me
 douglaso-r.github.io
 drive-thirdparty.googleusercontent.com
@@ -287,8 +296,10 @@ femetrics.grammarly.io
 fgthuyjygyiuhjikujhk.storage.googleapis.com
 figueiredotiago.github.io
 firebasestorage.googleapis.com
+flicker-lacy-diplodocus.glitch.me
 fonts.googleapis.com
 fonts.gstatic.com
+franquias.godiscorosqueria.com.br
 fuchsia-updates-autopush-qual.googleusercontent.com
 fuchsia-updates-autopush.googleusercontent.com
 fuchsia-updates-dev.googleusercontent.com
@@ -314,6 +325,7 @@ gatewayfiresafety.sg
 gatoartesano.com
 gawsfashion.com
 gdquest.github.io
+gelderblom.net
 geldgolf.nl
 geldhal.nl
 geldherrin-maitreisabella.de
@@ -324,6 +336,7 @@ genervest.org
 genvideos.com
 geobus.extranet.geodis.org
 geouragedproverly.com
+gerfin.net
 gerihome.com.br
 gerusiatootsie.com
 gescliente.com
@@ -348,6 +361,7 @@ gintonico.com
 girlgogetyourmoney.com
 gisti.org
 git.gameoftrees.org
+gitlab.git.gitlab.git.login.goodkarmastroy.ru
 gkmoveisplanejados.com.br
 gladiatordrywall.com
 glayz.co.jp
@@ -398,6 +412,7 @@ greenbloodsounds.com
 greencard-uz.uz
 greencontrol.ro
 gregdondds.com
+grinnell.bank
 groupe-terresdusud.fr
 grumpyoldbens.com
 grupo-ats.com
@@ -405,6 +420,7 @@ grupocallcenter.com
 grupononbasta.pt
 grupoocca.com.mx
 gruposdediscord.com
+grupovyv.com.pe
 gsmobile.be
 gsmsafety.com
 gsmsafety.gr
@@ -456,6 +472,7 @@ mail.googleadsforyoutubechannel.com
 mail.googleadwordsmanagement.co.uk
 mail.gruposdediscord.com
 mea.global-cdm.net
+meetings.grooveapp.com
 mehdi-abshari.github.io
 mehedilslamripon.github.io
 mgr.testbed.gdi-de.org
@@ -468,8 +485,10 @@ moofarry.github.io
 mpi.safekey.gpwebpay.com
 mulan-2020-full-movie.glitch.me
 my.gpa-djp.at
+mymoney.gnss-lp.co.il
 mz.generaliagency.cn
 namansharma3007.github.io
+nandunanduz.github.io
 netflix.nitflix.validchatr.geatecuida.com
 news.google.com
 notakih.github.io
@@ -482,6 +501,8 @@ online-secuirty-account-paypal.goltra.us
 org-opensocial.googleusercontent.com
 outlook.office.net.rproxy.goskope.com
 paddle.google-alerts.co.uk
+pagead2.googlesyndication.com
+panel.getnet.cl
 pay.google-shopping.club
 payroll2.godaddysites.com
 pdf.gmahkpalemsemi.org
@@ -559,6 +580,7 @@ walletxodus.github.io
 wanlijiangshan.github.io
 wealthy-statuesque-mistake.glitch.me
 web5.gazduire.net
+webdevwithdk.github.io
 webdisk.gmal.tech
 webdisk.gracietefaria.website
 webdisk.gruposdediscord.com
@@ -585,6 +607,7 @@ www.fedex.tracking-delivery.getsmartagency.com
 www.feedback.gymhyper.com
 www.financie-service.gficeinter.com
 www.gaibandhahelpline.com
+www.galaa-ggaamesx.tk
 www.gamelive22.co
 www.gamelivelo.com.br
 www.gamestop.ca
@@ -601,6 +624,7 @@ www.geesthacht.de
 www.geldgolf.nl
 www.geldmaschineinternet.info
 www.gembank.lk
+www.genetoo.com
 www.gentlecurrentstherapy.com
 www.gettrafficonlineleads.com
 www.ghostrecordlabel.com
@@ -640,6 +664,7 @@ www.grabandgo.pt
 www.graha99.site
 www.gravitybridge.net
 www.growingfuturestreeservice.com
+www.gruasservice.cl
 www.grundschule-borgeln.de
 www.gsa.gov
 www.gsmsafety.com
@@ -656,6 +681,7 @@ www.ivc.gansportsbook.com
 www.login.gremelfx.com
 www.mfa.global-visa-services.com
 www.money-vox.garaj.bg
+www.mymoney.gnss-lp.co.il
 www.outlook.ssffaa.gon.cl
 www.production.gfunkhouser.net
 www.secure1.gacportal.com
