@@ -5881,6 +5881,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mikeang15546407@twitter](https://twitter.com/Mikeang15546407/status/1391183859216158720) | advertise |
 | [mikeeowino@twitter](https://twitter.com/mikeeowino/status/1375217393354612745) | advertise |
 | [miketooyoung@twitter](https://twitter.com/miketooyoung/status/1477071358815178757) | advertise |
+| [MikeWooter@twitter](https://twitter.com/MikeWooter/status/1584693646560882689) | advertise |
 | [mike_pisman@twitter](https://twitter.com/mike_pisman/status/1476007742791843840) | advertise |
 | [mikronine@twitter](https://twitter.com/mikronine/status/1383816281204219914) | advertise |
 | [Miladsamadi43@twitter](https://twitter.com/Miladsamadi43/status/1489074405183348738) | advertise |
@@ -8557,6 +8558,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sillyangel3_@twitter](https://twitter.com/Sillyangel3_/status/1494451360930177032) | advertise |
 | [sillyc0ffin@twitter](https://twitter.com/sillyc0ffin/status/1400653906410020876) | advertise |
 | [silumansupra@twitter](https://twitter.com/silumansupra/status/1489505985224151044) | advertise |
+| [silvertide2051@twitter](https://twitter.com/silvertide2051/status/1584693862869925888) | advertise |
 | [sim12801895@twitter](https://twitter.com/sim12801895/status/1551992603033231361) | advertise |
 | [sim72350775@twitter](https://twitter.com/sim72350775/status/1541989719726227456) | advertise |
 | [Simon199910@twitter](https://twitter.com/Simon199910/status/1391006292823609344) | advertise |
