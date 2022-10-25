@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [nHentai - not working](https://github.com/DIYgod/RSSHub/issues/11150)
 - [Hey @orbitlens thanks for your reply, we managed to fix the error we were getting with cloudflare for the images, we had to switch to another service (pinata). Images should work now on stellar.expert, does this re-indexing happens everyday? let me know if you can run it again. Best!](https://github.com/orbitlens/stellar-dynamic-asset-metadata-server/issues/2)
 - [Error 502, but randomly](https://github.com/exadel-inc/CompreFace/issues/927)
 - [Trouble with Authentication](https://github.com/xvrh/atlassian_apis/issues/14)
