@@ -44,12 +44,15 @@ fabo-bankrec-api.zalopay.vn
 gateway.zscalertwo.net
 idp.saas.zeb-it.de
 img01.ztat.net
+ipiranga.gateway.zup.me
 login.ziraatbankanturkey.com
 m7.caixabank.zinsprofi.de
 mail.zasgroup.com
 mail.zeusassociate.com
 pay.zivameshapewear.com
 paypal.com.zd-league.com
+perr.zspeed-cdn.com
+realwavecore-public-saas.gateway.zup.me
 secure-paypal-access-login-confirm-account.zmgconsulting.co.za
 service-line-messaging.zipzoft.online
 servicedesk.zuehlke.com
@@ -63,6 +66,7 @@ www.alternativnamedicina.com.mk.zemi.net.mk
 www.apply.zarnab.pk
 www.client-analytics.zerrohost.com
 www.client.rdtcap.zahid.com.bd
+www.creditrepairstlouis.com.zim4.com
 www.eki-net.zurvrk.shop
 www.zaguri-reinigungsservice.de
 www.zappos.com
