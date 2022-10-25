@@ -121,6 +121,7 @@ www.pref.osaka.lg.jp
 ajv9yn3827s0.s3.de.cloud.ovh.net
 alertdirect.omgeo.net
 api-cat-1.orientsys.com.au
+api-funds.oakroots.io
 api.objetrama.tech
 api.offsite-cko.com
 api.ooba.co.za
@@ -146,6 +147,7 @@ cacc.fa.us2.oraclecloud.com
 captivemgr.o2wifi.net.uk
 cb8.pt.omeualojamento.pt
 cdcbeacon.epm.us2.oraclecloud.com
+chfnnp.oneclickstar.com
 click.mail.onedrive.com
 click.mail.onlinecomplianceexperts.com
 coharu.ocnk.net
@@ -165,6 +167,7 @@ di-broker.ingress.reg.707-20.aws.di-ci.hanacloud.ondemand.com
 diary.owst.jp
 digital-camscanner.onelink.me
 discord.ominousrp.com
+discord.oopencreative.net
 discord.opendarkwing.com
 discord.optionhub.io
 discover.osnplus.com
@@ -176,6 +179,7 @@ eboy.fs.em2.oraclecloud.com
 edi.officedepot.eu
 efact-bo.opco-atlas.fr
 ekyc01.oceanbank.vn
+elasticsearch.oakroots.io
 elektricnitrotineti.net.ovlasceniservis.rs
 etbfsi.onelink.me
 etcio.onelink.me
@@ -186,6 +190,7 @@ fed.octanner.net
 fr.okaidi.be
 front-api.a.onein.cn
 github-hosted-spot-runner.openproject-edge.com
+gitlab.git.git.git.gitlab.wx.only-cars.club
 gitlab.oakieshome.nl
 gmail.com.outmook.software
 go.onelink.me
@@ -281,6 +286,7 @@ onlybest.com.ua
 onnet.ro
 onservice.ro
 op1.otsuka-plus1.com
+opcinaklakar.hr
 opd.utilities-cloud.oracleindustry.com
 opensea-services.com
 openticket.opensaaslive.com
@@ -313,6 +319,7 @@ portal.ojcommerce.com
 portal.ourclub.io
 portaldocliente.ozoncare.com.br
 portaldocliente.ozonecare.com.br
+preprod-ail-jwt.emn.oakroots.io
 prod02-web.ordana.de
 ptelkinjayaabadi.com.orangeflasher.com
 rakuten-jp.olme.cn
@@ -337,6 +344,7 @@ support.orangecompute.com
 support.orya-app.de
 support.ospreyapproach.com
 t.cse1.officielce.com
+taiga.oakroots.io
 test.onlinehypotheekadvies.nl
 tjenester-systest.oslo.kommune.no
 tsoagobiernogrfe-pub-oci.opc.oracleoutsourcing.com
@@ -345,6 +353,7 @@ update-information-profile.oohvkjn.shop
 uprcf.openyour.site
 vinted-dksf.order9451.info
 vinted-osdd.order8205.biz
+vinted-qxwx.order4149.biz
 vpn.oxleas.nhs.uk
 w2.outlook.com
 walmart.onelink.me
@@ -352,8 +361,10 @@ web.olvid.io
 webdisk.onlinemoneygorilla.com
 webdisk.outlookrecovery-tool.com
 webdisk.qciq84yykbdfxx3.shop.oystr.xyz
+webkamera.osgjestehamn.no
 webmail.orangecoin.shop
 webservices.optimalpayments.com
+weverse.onelink.me
 whatsapp.over9k.com.br
 www-obermeyer-group-com.support-php-autoupdate.review.ober-sys.de
 www-q.okeihan.net
@@ -401,9 +412,11 @@ www.original-esta.com
 www.osakagas.co.jp
 www.osinttechniques.com
 www.osma.org
+www.ottumwacourier.com
 www.oudaily.com
 www.ourmobandcancer.gov.au
 www.ourpurchasemart.online
+www.rollingmoney.onlinefastearn.online
 www.track.offersjoy.in
 www.usps-service-mail-pickup-jsp.ocry.com
 zoominfo.com.login.onlineactionsports.com.au
