@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-27: [WAW (Warsaw) on 2022-10-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6k2tlsj2zymp)
 - 2022-10-26: [CDG (Paris) on 2022-10-26](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/h8g85fs6s97l)
 - 2022-10-27: [YYZ (Toronto) on 2022-10-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dssdq87z93ky)
 - 2022-10-26: [MEL (Melbourne) on 2022-10-26](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/d84tr9kw8t1b)
