@@ -144,6 +144,7 @@ access0.west.sd.keio.ac.jp
 adminservice-3ds2.kasikornbank.com
 ae907.keap-link002.com
 aimg.kwcdn.com
+api.kefuservice.com
 api.kliniq.co
 app.kazancinnoktasi.site
 apps.kiai.co
@@ -197,6 +198,7 @@ insights.katten.com
 io535.keap-link012.com
 k-lite-codec-pack.org.ua
 kacked.com
+kaishbazaar.com
 kakuyasu-sim.jp
 kalibreboru.com
 kampanya-isbak-basvuru-formu-online.ml
@@ -219,6 +221,7 @@ kastellet.com
 katcr.co
 katharsisdrill.art
 kavehbar.com
+kawate-ya.com
 kbbet.games
 kcepfyzuna.com
 keeneticloud.keenetic.pro
@@ -227,6 +230,7 @@ kenben.net
 keram-ideya.com.ua
 kerefiadiscarservice.gr
 kerneth.com
+ketoblastgummybears.net
 ketodis.com
 key-notion.com
 keysstoreactiivate.live
@@ -243,10 +247,13 @@ kimmenongpleredupdate.com
 kindlesslope.com
 kineckekyu.com
 kingbet86.top
+kingdavid.org.za
 kingeshop.jp
 kino-michi.com
 kitabghr.com
+kitaro-claim.com
 kitokit.com
+kitsolar.org
 klantactie.be
 klavernbone.com
 klenhosnc.com
@@ -303,6 +310,7 @@ m.kazancinnoktasi.site
 m.kockw.com
 moderplatform.kozelo.com
 money-changer.app.kaymedia.net
+mp.klinikhpservice.web.id
 museum.kirinholdings.com
 nelspruit.kleuterzonegroep.co.za
 neo.karafarinbank.ir
@@ -311,11 +319,15 @@ nl-go.kelkoogroup.net
 old.kryptonsecurity.co.za
 online.kclaims.com.my
 ou337.keap-link017.com
+outer1.kirin.co.jp
+outer2.kirin.co.jp
 owa.kcb.gov.kw
 paineldemo.kangudelivery.com.br
 pancakeswap.finances.kiowaden.com
 pay.keepruralkidslearning.com
+pbd741h9li31yvf4ca.kayuk.ru
 pcmshop.kaspi.kz
+pelatihan.klinikhpservice.web.id
 pets.kamgov.ru
 portainer.khangembam.online
 press.kluj.pl
@@ -331,10 +343,12 @@ relaunch.klimamenschgesundheit.info
 rhui-lb.k-square.jp
 salvea22.kunden.com
 service51.keenetic.name
+signin.kaspi.kz
 sit01.kasikornasset.com
 skyldnerportal.kapitalkontroll.no
 smail.kimblegroup.com
 staging-nursery.dev.kidsly.jp
+sts.kfplc.com
 subdomain.kontorexdata.se
 support.klikweb.id
 talon.kirkwood.edu
@@ -348,8 +362,10 @@ trk.klclick1.com
 trk.klclick2.com
 trk.klclick3.com
 u2.kaspi.kz
+uatprepaid.ktcgroup.dev
 update.kenben.net
 v2.widget.kion.ru
+vnitro.keenetic.link
 w00dcc71.kasserver.com
 web.dev.kr.karrotpay.com
 webdisk.kangs1590.site
@@ -378,6 +394,7 @@ www.kailashexpeditions.com
 www.kalur.hu
 www.kamoshika-douguten.jp
 www.kankou-izumisano.jp
+www.kankou-poster.com
 www.karger.com
 www.kargosafe.com.co
 www.karinel.com
@@ -408,10 +425,13 @@ www.kipmcgrath.com
 www.kita-sankt-gerburgis.de
 www.klassic-cat.com
 www.klimaservisairsolution.rs
+www.klm.ie
 www.knowitonline.com
 www.koat.com
 www.kockascripta.com
+www.koermit.dk
 www.kontormarketingdigital.com
+www.koperasimjm.com
 www.kravmagaikmf.ro
 www.kredyt-k11.shop
 www.kredyt-k13.shop
@@ -439,6 +459,8 @@ www.kundee.mx
 www.kungfuwomenrva.com
 www.kyd-store.jp
 www.kyoto-yuka.com
+www.kyuden.co.jp
+www.logdelivery.click.kingswayglobalcompany.com
 www.login.kamsaridevelopment.com
 www.marketingseo.kometaservice.ro
 www.money-changer.app.kaymedia.net
