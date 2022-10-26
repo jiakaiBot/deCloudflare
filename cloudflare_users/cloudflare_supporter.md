@@ -5772,6 +5772,7 @@ Do not create new issue or we will close it as duplicate.
 | [measakid4030@twitter](https://twitter.com/measakid4030/status/1538259167776886784) | advertise |
 | [Measillife@twitter](https://twitter.com/Measillife/status/1578481781246144512) | advertise |
 | [med61883332@twitter](https://twitter.com/med61883332/status/1439010726480420871) | advertise |
+| [MedagliaEugenio@twitter](https://twitter.com/MedagliaEugenio/status/1585087836952596480) | advertise |
 | [MedioFernando1@twitter](https://twitter.com/MedioFernando1/status/1583166691798036482) | advertise |
 | [Medk1231@twitter](https://twitter.com/Medk1231/status/1554983422879219712) | advertise |
 | [MeeMee71555616@twitter](https://twitter.com/MeeMee71555616/status/1395746751051558919) | advertise |
@@ -10034,6 +10035,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vikram80941153@twitter](https://twitter.com/Vikram80941153/status/1396502759730388993) | advertise |
 | [villas2@twitter](https://twitter.com/villas2/status/1411462670532943876) | moral (advertise) |
 | [VinceAgwada@twitter](https://twitter.com/VinceAgwada/status/1459889193476263939) | advertise |
+| [VinceHuynh25@twitter](https://twitter.com/VinceHuynh25/status/1585076917895852033) | advertise |
 | [Vincent38099573@twitter](https://twitter.com/Vincent38099573/status/1381281485987061768) | advertise |
 | [Vincent67798867@twitter](https://twitter.com/Vincent67798867/status/1564953677257150464) | advertise |
 | [VincentNguyn5@twitter](https://twitter.com/VincentNguyn5/status/1552245153322397697) | advertise |
