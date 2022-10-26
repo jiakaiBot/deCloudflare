@@ -6487,6 +6487,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nameno38144885@twitter](https://twitter.com/Nameno38144885/status/1544721257572466688) | advertise |
 | [NameOfMe14@twitter](https://twitter.com/NameOfMe14/status/1542061717899067392) | advertise |
 | [namhuu20@twitter](https://twitter.com/namhuu20/status/1526247583131176960) | advertise |
+| [Nami37622@twitter](https://twitter.com/Nami37622/status/1585387486687416320) | advertise |
 | [NamKhnhNguyn5@twitter](https://twitter.com/NamKhnhNguyn5/status/1383584263686160386) | advertise |
 | [NamKZ10@twitter](https://twitter.com/NamKZ10/status/1392522903040651264) | advertise |
 | [namle131@twitter](https://twitter.com/namle131/status/1400518758590947331) | advertise |
