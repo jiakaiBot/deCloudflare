@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,183 |
+| com | 3,184 |
 | net | 1,755 |
 | org | 1,230 |
 | social | 1,208 |
@@ -5731,6 +5731,7 @@ Here's a list of public Fediverse services.
 | falsy.cat | Yes |
 | falto.net | Yes |
 | falx.tech | No |
+| falyxeon.com | Yes |
 | fam-ribbers.com | No |
 | fam.cx | No |
 | famfam.us | No |
@@ -22187,7 +22188,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,500 |
+| Cloudflare | 4,501 |
 | Normal | 17,644 |
 
 
