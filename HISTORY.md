@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-28: [FRA (Frankfurt) on 2022-10-28](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fqtcpb3bdztn)
+- 2022-10-27: [FRA (Frankfurt) on 2022-10-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hxfd6j991gsl)
 - 2022-11-03: [DUB (Dublin) on 2022-11-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8zy4b6x83xvd)
 - 2022-10-28: [MSP (Minneapolis) on 2022-10-28](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/txnkvw6frp25)
 - 2022-10-25: [Increased HTTP 530 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kdpqngcbbn25)
