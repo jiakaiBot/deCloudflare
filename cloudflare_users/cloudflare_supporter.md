@@ -1038,6 +1038,7 @@ Do not create new issue or we will close it as duplicate.
 | [autopalvelut@twitter](https://twitter.com/autopalvelut/status/1407036600136126475) | advertise |
 | [auto_tue@twitter](https://twitter.com/auto_tue/status/1513499048569114624) | advertise |
 | [Autumna688@twitter](https://twitter.com/Autumna688/status/1519704867501219840) | advertise |
+| [AvaiClara@twitter](https://twitter.com/AvaiClara/status/1585229128340488193) | advertise |
 | [aveon_la@twitter](https://twitter.com/aveon_la/status/1549203462205890560) | advertise |
 | [AvHaneen@twitter](https://twitter.com/AvHaneen/status/1397622047950340097) | advertise |
 | [avhe07_@twitter](https://twitter.com/avhe07_/status/1385071051873218565) | advertise |
@@ -2921,6 +2922,7 @@ Do not create new issue or we will close it as duplicate.
 | [Giorga113@twitter](https://twitter.com/Giorga113/status/1404012205373280257) | advertise |
 | [Girl_Crypto1102@twitter](https://twitter.com/Girl_Crypto1102/status/1391172773595123714) | advertise |
 | [GitBun1@twitter](https://twitter.com/GitBun1/status/1398636138944892929) | advertise |
+| [GiVTnh87561860@twitter](https://twitter.com/GiVTnh87561860/status/1585233563972431872) | advertise |
 | [gjdunga@twitter](https://twitter.com/gjdunga/status/1400492766312890368) | advertise |
 | [GJoeFurniture@twitter](https://twitter.com/GJoeFurniture/status/1383717145461153795) | advertise |
 | [GLACIER98271181@twitter](https://twitter.com/GLACIER98271181/status/1391728548960870401) | advertise |
@@ -6471,6 +6473,7 @@ Do not create new issue or we will close it as duplicate.
 | [nam14316033@twitter](https://twitter.com/nam14316033/status/1584798469851865088) | advertise |
 | [nam54142435@twitter](https://twitter.com/nam54142435/status/1377917089734750211) | advertise |
 | [Nam2140220405@twitter](https://twitter.com/Nam2140220405/status/1575487045262114820) | advertise |
+| [Namanh36@twitter](https://twitter.com/Namanh36/status/1585228783484735490) | advertise |
 | [Namanh60435535@twitter](https://twitter.com/Namanh60435535/status/1479523298325131265) | advertise |
 | [namanhhh1989@twitter](https://twitter.com/namanhhh1989/status/1572624972035805186) | advertise |
 | [NamBlack18@twitter](https://twitter.com/NamBlack18/status/1399076867190059010) | advertise |
