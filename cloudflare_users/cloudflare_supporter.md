@@ -10594,6 +10594,7 @@ Do not create new issue or we will close it as duplicate.
 | [YnwSup@twitter](https://twitter.com/YnwSup/status/1403618675697930241) | advertise |
 | [YoegoneA@twitter](https://twitter.com/YoegoneA/status/1390614215132520452) | advertise |
 | [YogeshJ32420022@twitter](https://twitter.com/YogeshJ32420022/status/1504699132937605122) | advertise |
+| [YogevSLahav@twitter](https://twitter.com/YogevSLahav/status/1585123506215620608) | advertise |
 | [Yogi96022543@twitter](https://twitter.com/Yogi96022543/status/1382241647711379456) | advertise |
 | [YokeSoe16669471@twitter](https://twitter.com/YokeSoe16669471/status/1390762393806852096) | advertise |
 | [YokeXoe@twitter](https://twitter.com/YokeXoe/status/1398959003632160771) | advertise |
