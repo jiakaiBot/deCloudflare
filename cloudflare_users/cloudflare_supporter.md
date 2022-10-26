@@ -2712,6 +2712,7 @@ Do not create new issue or we will close it as duplicate.
 | [fire11po@twitter](https://twitter.com/fire11po/status/1552902952083689472) | advertise |
 | [FireGam99404905@twitter](https://twitter.com/FireGam99404905/status/1399726131842977792) | advertise |
 | [fitcarenavi@twitter](https://twitter.com/fitcarenavi/status/1548612339058241537) | advertise |
+| [fixgameaja@twitter](https://twitter.com/fixgameaja/status/1585299964066160641) | advertise |
 | [fizzo929@twitter](https://twitter.com/fizzo929/status/1583851919441002496) | advertise |
 | [FJBandroid@twitter](https://twitter.com/FJBandroid/status/1552182577045569539) | advertise |
 | [fjdb3@twitter](https://twitter.com/fjdb3/status/1554143968685789184) | advertise |
