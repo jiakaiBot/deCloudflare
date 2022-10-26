@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-27: [RIC (Richmond) on 2022-10-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dw5nrjt9rp5f)
 - 2022-10-28: [BOG (Bogotá) on 2022-10-28](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/p27m4dlwrgw3)
 - 2022-10-28: [FRA (Frankfurt) on 2022-10-28](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fqtcpb3bdztn)
 - 2022-10-27: [FRA (Frankfurt) on 2022-10-27](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hxfd6j991gsl)
