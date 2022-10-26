@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot update beneficiarie](https://github.com/Mamis-Solidarias/Beneficiaries/issues/163)
 - ["authelia could not be resolved" : authelia with swag](https://github.com/authelia/authelia/issues/4275)
 - [Trojan+gRPC+Caddy unix socket not found in Caddy docker](https://github.com/XTLS/Xray-core/issues/1281)
 - [AppPixivAPI(bypass=True) 时是否可以仅使用 IPv4 DoH？](https://github.com/Mikubill/pixivpy-async/issues/28)
