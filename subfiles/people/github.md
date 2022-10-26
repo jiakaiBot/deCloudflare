@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare error on Colab](https://github.com/ebolam/KoboldAI/issues/248)
 - [Cannot update beneficiarie](https://github.com/Mamis-Solidarias/Beneficiaries/issues/163)
 - ["authelia could not be resolved" : authelia with swag](https://github.com/authelia/authelia/issues/4275)
 - [Trojan+gRPC+Caddy unix socket not found in Caddy docker](https://github.com/XTLS/Xray-core/issues/1281)
