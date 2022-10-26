@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Image Resizing Availability Issues](https://github.com/MatBenfield/news/issues/4775)
 - [CloudFlare Stream Encoding Issues](https://github.com/MatBenfield/news/issues/4745)
 - [ipfs get doesn't work on files with "" in the name](https://github.com/ipfs/kubo/issues/9370)
 - [nHentai - not working](https://github.com/DIYgod/RSSHub/issues/11150)
