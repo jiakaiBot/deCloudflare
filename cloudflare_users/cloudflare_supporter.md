@@ -4296,6 +4296,7 @@ Do not create new issue or we will close it as duplicate.
 | [jungkooksbian@twitter](https://twitter.com/jungkooksbian/status/1384818132716560385) | advertise |
 | [JungTae522008@twitter](https://twitter.com/JungTae522008/status/1383671208579723267) | advertise |
 | [JuniorTun1@twitter](https://twitter.com/JuniorTun1/status/1390213591207350272) | advertise |
+| [juniour_sillu@twitter](https://twitter.com/juniour_sillu/status/1585153173421191168) | advertise |
 | [junnyfeed@twitter](https://twitter.com/junnyfeed/status/1503640851406327809) | advertise |
 | [junpham23081870@twitter](https://twitter.com/junpham23081870/status/1399221195459883009) | advertise |
 | [JunsukeJR@twitter](https://twitter.com/JunsukeJR/status/1489170829204389888) | advertise |
@@ -4691,8 +4692,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6160,6 +6161,7 @@ Do not create new issue or we will close it as duplicate.
 | [Momoko000Momoko@twitter](https://twitter.com/Momoko000Momoko/status/1377583637030268932) | advertise |
 | [MomoKo82785423@twitter](https://twitter.com/MomoKo82785423/status/1392119987079303170) | advertise |
 | [Mon2010E@twitter](https://twitter.com/Mon2010E/status/1394468438664380418) | advertise |
+| [monadanesh1@twitter](https://twitter.com/monadanesh1/status/1585163974454448130) | advertise |
 | [MonaDesigned@twitter](https://twitter.com/MonaDesigned/status/1499144227867041802) | advertise |
 | [Monarch92970805@twitter](https://twitter.com/Monarch92970805/status/1400852799957700616) | advertise |
 | [MonarengT4real@twitter](https://twitter.com/MonarengT4real/status/1382196959067389956) | advertise |
