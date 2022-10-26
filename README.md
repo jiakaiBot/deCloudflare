@@ -1,8 +1,5 @@
 ## [La Granda Nubmuro 🌩 The Great Cloudwall](http://crimeflare.eu.org)
 
-[//]: # (please do not edit 'Currently ')
-
-Currently _16_ people liked Crimeflare project.
 
 | &#128444; | &#128441; |
 | --- | --- |
