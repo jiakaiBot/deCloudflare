@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,184 |
-| net | 1,756 |
+| net | 1,757 |
 | org | 1,230 |
 | social | 1,209 |
 | de | 1,046 |
@@ -8296,6 +8296,7 @@ Here's a list of public Fediverse services.
 | hyperborea.org | No |
 | hypercute.eu | No |
 | hyperion.social | Yes |
+| hyperpla.net | Yes |
 | hyperplex.net | No |
 | hypertalk.io | No |
 | hypertextcoffee.com | Yes |
@@ -8905,7 +8906,7 @@ Here's a list of public Fediverse services.
 | jabbxi.de | No |
 | jablon.fr | Yes |
 | jabrach.org | No |
-| jacen.moe | No |
+| jacen.moe | Yes |
 | jack28.ovh | No |
 | jackal.chat | Yes |
 | jackbenson.xyz | Yes |
@@ -22190,8 +22191,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,503 |
-| Normal | 17,644 |
+| Cloudflare | 4,505 |
+| Normal | 17,643 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
