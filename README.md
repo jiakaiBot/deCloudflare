@@ -2,7 +2,7 @@
 
 [//]: # (please do not edit 'Currently ')
 
-Currently _15_ people liked Crimeflare project.
+Currently _16_ people liked Crimeflare project.
 
 | &#128444; | &#128441; |
 | --- | --- |
