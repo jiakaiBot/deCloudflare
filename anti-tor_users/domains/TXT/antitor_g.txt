@@ -175,11 +175,13 @@ arvindhsundar.github.io
 ashutosh86941.github.io
 auth.dev.gruposuperdigital.com
 authcontrol.gruposuperdigital.com
+autodiscover.goldworkshop.net
 ayomide200024.github.io
 baezruddy.github.io
 banco.santanderchile.cl.gary-handy.com
 beacons.gcp.gvt2.com
 beacons4.gvt2.com
+beacons5.gvt3.com
 bee-utils.getbee.io
 billing.getcatalyzed.in
 billing.gotinofurniture.com
@@ -230,18 +232,23 @@ contao4.getraenke-koehler.de
 content.gmai1-login.com
 content.govdelivery.com
 cpanel.gmailkinbo.xyz
+cpanel.goldworkshop.net
 cpanel.receipts.org.uk.geoffrice.net
+cpcalendars.goldworkshop.net
 cpcalendars.gruposdediscord.com
 cpcalendars.signin-accountapp1e.greatmedicaljobs.com
+cpcontacts.goldworkshop.net
 cpcontacts.gruposdediscord.com
 cpcontacts.signin-accountapp1e.greatmedicaljobs.com
 cpk0521.github.io
 crm-uat.gibl.in
 customer.golden-manpower.com
+cvs.governikus-asp.de
 d8bv7.app.goo.gl
 danielcampos214.github.io
 dashboard.groundenergysupport.com
 deedub0.github.io
+demo.goldworkshop.net
 develop-web.gsa-cs.com
 dhpsgapgtnerafshsya-omylbglhrbiogjikwwi-yieftjnlyyfdbacsjwu.glitch.me
 dineyahttpsappsuite-mail02-orange-htlm.gr8.com
@@ -250,6 +257,7 @@ discord.pseiblog.blog.mx4.getthefactshomeinspection.com
 dk.web.shinnselbannk.com.gxdymz.com
 doc-00-78-docs.googleusercontent.com
 doc-00-bc-docs.googleusercontent.com
+doc-04-4o-docs.googleusercontent.com
 doc-04-5o-docs.googleusercontent.com
 doc-04-a8-docs.googleusercontent.com
 doc-08-38-docs.googleusercontent.com
@@ -307,10 +315,12 @@ fuchsia-updates-staging.googleusercontent.com
 fuchsia-updates.googleusercontent.com
 fundingchoicesmessages.google.com
 fwd.glintcdn.com
+g-getparamguvende.tk
 gaana.com
 gabrielsecurity.ro
 gacetademadrid.com
 gachcard5s.site
+gacompletetreeservice.com
 gaisteem.net
 galic-eminent.me
 gallinairan.com
@@ -371,6 +381,7 @@ global-cdm.net
 global-visa-services.com
 globals-banks.com
 globaltechnoservice.in
+globaltracking.cl
 globalworkplacewellnesssummit.com
 globenergia.pl
 glopura.net
@@ -386,6 +397,7 @@ godigit.com
 godpvqnszo.com
 goflattrack.com
 gokannomachi.site
+goldworkshop.net
 gomessecurity.com.br
 gomovies.sc
 gondarcityprosperityparty.com
@@ -417,6 +429,7 @@ groupe-terresdusud.fr
 grumpyoldbens.com
 grupo-ats.com
 grupocallcenter.com
+grupoenvera.org
 grupononbasta.pt
 grupoocca.com.mx
 gruposdediscord.com
@@ -445,6 +458,7 @@ humorous-woolen-abacus.glitch.me
 ibaterna04.github.io
 id-workshop.gleif.org
 ikkitousenbarsu.game-info.wiki
+img.guestfolio.net
 ingrid.test.ffm.gdi-de.org
 instruction.gls-info.nl
 kaladin05.github.io
@@ -463,11 +477,13 @@ locals-integration-api-gateway.artisandev.getirapi.com
 localtunnel.github.io
 login.microsoftonline.com.rproxy.goskope.com
 logupload-airbus.eu.goskope.com
+luidyldr.github.io
 magic-ludicrous-moth.glitch.me
 mahimur.github.io
 mail.gachascater.cyou
 mail.ghscpsm-tools.org
 mail.gmailkinbo.xyz
+mail.goldworkshop.net
 mail.googleadsforyoutubechannel.com
 mail.googleadwordsmanagement.co.uk
 mail.gruposdediscord.com
@@ -475,6 +491,7 @@ mea.global-cdm.net
 meetings.grooveapp.com
 mehdi-abshari.github.io
 mehedilslamripon.github.io
+metraview.gru.com.br
 mgr.testbed.gdi-de.org
 miicchhel.github.io
 minio.thick-billed-duct.testing.graphext.com
@@ -497,6 +514,7 @@ ntngm-jp.gdhanren.cn
 o.germanlanguageservices.com
 officeredir.microsoft.com.rproxy.goskope.com
 ofrikwlxmvlcaoidzvf-w-vdtaplftkdqnsefmsl-mqntrpxwpopjcvgwepb.glitch.me
+ogs.google.com
 online-secuirty-account-paypal.goltra.us
 org-opensocial.googleusercontent.com
 outlook.office.net.rproxy.goskope.com
@@ -537,6 +555,7 @@ rfeffrf.github.io
 rr3---sn-p5qlsn7d.googlevideo.com
 rr4---sn-p5qlsny6.googlevideo.com
 rr5---sn-p5qddn7z.googlevideo.com
+rthrgfsegr.storage.googleapis.com
 salesloft-sdr-us3.storage.googleapis.com
 salesloft-sdr-us4.storage.googleapis.com
 secure-staging.getsimbacard.com
@@ -568,6 +587,7 @@ testretina.guzelhosting.com
 thread-shrub-pyroraptor.glitch.me
 titanium-petal-cabin.glitch.me
 toolbarqueries.google.ae
+toolbarqueries.google.com.sg
 trends.google.com
 trishitchar.github.io
 u8kv3.app.goo.gl
@@ -582,12 +602,15 @@ wealthy-statuesque-mistake.glitch.me
 web5.gazduire.net
 webdevwithdk.github.io
 webdisk.gmal.tech
+webdisk.goldworkshop.net
 webdisk.gracietefaria.website
 webdisk.gruposdediscord.com
 webdisk.signin-accountapp1e.greatmedicaljobs.com
 webmail.ganshorn.de
+webmail.goldworkshop.net
 webmail.goodlifecounselling.co.uk
 webmail.gruposdediscord.com
+wildcard.getpayd.com
 wind-bronze-clef.glitch.me
 ws2.guessko.com
 wssecurity.gnss-lp.co.il
@@ -599,8 +622,10 @@ www.billing.gartenverein-einheit.de
 www.billing.gotinofurniture.com
 www.billing.grafika.co.za
 www.bostoniancoach.gobostoncarservice.com
+www.client.gamerhosty.com
 www.clientes.gnusistemas.com
 www.clientes.grupojob.pe
+www.delivery.gologonow.website
 www.e2epgsqllin.api.us-east-2.service.guidewire.net
 www.eki-net.gwrwc.shop
 www.fedex.tracking-delivery.getsmartagency.com
@@ -608,6 +633,7 @@ www.feedback.gymhyper.com
 www.financie-service.gficeinter.com
 www.gaibandhahelpline.com
 www.galaa-ggaamesx.tk
+www.galagamess-log.tk
 www.gamelive22.co
 www.gamelivelo.com.br
 www.gamestop.ca
@@ -615,6 +641,7 @@ www.gamingnewsalert.com
 www.gap.co.jp
 www.garysgutterservice.com
 www.gasoil-footwear.com
+www.gaudeamus.fi
 www.gaussianos.com
 www.gbgbrandservice.com
 www.gce-global-custom-events.com
@@ -626,6 +653,7 @@ www.geldmaschineinternet.info
 www.gembank.lk
 www.genetoo.com
 www.gentlecurrentstherapy.com
+www.geologicacarpathica.sk
 www.gettrafficonlineleads.com
 www.ghostrecordlabel.com
 www.giacarbitrationdays.ge
@@ -672,6 +700,7 @@ www.gstatic.com
 www.gtainspectors.com
 www.gtsservice-ssa.com.br
 www.guchagucha.com
+www.gurtonsworkshop.com
 www.gwarantservice.pl
 www.gymcheb.cz
 www.gymservice.gnss-lp.co.il
@@ -703,3 +732,4 @@ yerbal.github.io
 youtube.gmai1-login.com
 zedohany.github.io
 ziadanbari2021.github.io
+zopiapia.goldworkshop.net
