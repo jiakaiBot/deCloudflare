@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,184 |
 | net | 1,756 |
 | org | 1,230 |
-| social | 1,208 |
+| social | 1,209 |
 | de | 1,046 |
 
 
@@ -10080,6 +10080,7 @@ Here's a list of public Fediverse services.
 | kurosawa.moe | No |
 | kuroserver.net | No |
 | kurosuke.org | No |
+| kurry.social | No |
 | kurume-nct.com | No |
 | kurup.org | Yes |
 | kurusukono.cc | No |
@@ -18998,7 +18999,7 @@ Here's a list of public Fediverse services.
 | technosorcery.net | No |
 | techonify.uk | No |
 | techopolis.io | No |
-| techporn.club | No |
+| techporn.club | Yes |
 | techstartups.space | No |
 | techtea.io | No |
 | techzerker.com | Yes |
@@ -22189,7 +22190,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,502 |
+| Cloudflare | 4,503 |
 | Normal | 17,644 |
 
 
