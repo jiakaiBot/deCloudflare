@@ -6417,6 +6417,7 @@ Do not create new issue or we will close it as duplicate.
 | [MyoThih96224426@twitter](https://twitter.com/MyoThih96224426/status/1380936917756170246) | advertise |
 | [MyoThuta1@twitter](https://twitter.com/MyoThuta1/status/1393167701024120836) | advertise |
 | [MyoTinZarKhine1@twitter](https://twitter.com/MyoTinZarKhine1/status/1391368621520080899) | advertise |
+| [MyoZaw10891252@twitter](https://twitter.com/MyoZaw10891252/status/1585264163445579776) | advertise |
 | [MyoZawHtun15@twitter](https://twitter.com/MyoZawHtun15/status/1390732993837223941) | advertise |
 | [myozawko098193@twitter](https://twitter.com/myozawko098193/status/1394574929228705792) | advertise |
 | [MySeoHQ@twitter](https://twitter.com/MySeoHQ/status/1561087865349627905) | advertise |
@@ -10903,6 +10904,7 @@ Do not create new issue or we will close it as duplicate.
 | [_rurq@twitter](https://twitter.com/_rurq/status/1521161926012719109) | advertise |
 | [_sanchitbansal_@twitter](https://twitter.com/_sanchitbansal_/status/1578115686416715777) | advertise |
 | [_Sumitha_@twitter](https://twitter.com/_Sumitha_/status/1508090635131420678) | advertise |
+| [_TheIdealMan@twitter](https://twitter.com/_TheIdealMan/status/1585269975996137472) | advertise |
 | [_UmmuUmairah_@twitter](https://twitter.com/_UmmuUmairah_/status/1394222981342060544) | advertise |
 | [_VPixx@twitter](https://twitter.com/_VPixx/status/1525433377301532672) | advertise |
 | [_YoonminIsKii_@twitter](https://twitter.com/_YoonminIsKii_/status/1395181543241523205) | advertise |
