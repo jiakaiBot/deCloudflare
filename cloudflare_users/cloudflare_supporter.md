@@ -1757,6 +1757,7 @@ Do not create new issue or we will close it as duplicate.
 | [chrisdonges@twitter](https://twitter.com/chrisdonges/status/1388402516514148354) | advertise |
 | [ChrisEd132@twitter](https://twitter.com/ChrisEd132/status/1510890162993377286) | advertise |
 | [ChrisLangolf@twitter](https://twitter.com/ChrisLangolf/status/1381675355006730244) | advertise |
+| [ChrisNoth12@twitter](https://twitter.com/ChrisNoth12/status/1585063616222760960) | advertise |
 | [ChrisOrillia@twitter](https://twitter.com/ChrisOrillia/status/1496282546929340417) | advertise |
 | [chrisperrin@twitter](https://twitter.com/chrisperrin/status/1576927794004574210) | advertise |
 | [christhelegend@twitter](https://twitter.com/christhelegend/status/1395235876125483010) | advertise |
@@ -10621,6 +10622,7 @@ Do not create new issue or we will close it as duplicate.
 | [yoyolay5@twitter](https://twitter.com/yoyolay5/status/1392411457334124545) | advertise |
 | [YSHRIVASTWA@twitter](https://twitter.com/YSHRIVASTWA/status/1400026519267725312) | advertise |
 | [YThu999@twitter](https://twitter.com/YThu999/status/1378320350136655872) | advertise |
+| [Ytonymlo97@twitter](https://twitter.com/Ytonymlo97/status/1585061094217113600) | advertise |
 | [ytPGamerX@twitter](https://twitter.com/ytPGamerX/status/1425139212152500224) | advertise |
 | [yubian_meiwu@twitter](https://twitter.com/yubian_meiwu/status/1451610756370161665) | advertise |
 | [Yucky17358536@twitter](https://twitter.com/Yucky17358536/status/1559099220136980480) | advertise |
