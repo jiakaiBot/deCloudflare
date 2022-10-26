@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,184 |
-| net | 1,755 |
+| net | 1,756 |
 | org | 1,230 |
 | social | 1,208 |
 | de | 1,046 |
@@ -5486,6 +5486,7 @@ Here's a list of public Fediverse services.
 | erratasec.com | No |
 | error.im | Yes |
 | errormaker.net | Yes |
+| ersei.net | Yes |
 | ertona.net | No |
 | ertu.be | No |
 | eruditorum.dev | No |
@@ -22188,7 +22189,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,501 |
+| Cloudflare | 4,502 |
 | Normal | 17,644 |
 
 
