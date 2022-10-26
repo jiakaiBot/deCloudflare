@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,183 |
 | net | 1,755 |
 | org | 1,229 |
-| social | 1,207 |
+| social | 1,208 |
 | de | 1,046 |
 
 
@@ -7718,7 +7718,7 @@ Here's a list of public Fediverse services.
 | hashy-net.de | No |
 | haskell.social | Yes |
 | haskovec.social | No |
-| hasslo.dev | Yes |
+| hasslo.dev | No |
 | hata.casa | No |
 | hatabowyou.club | No |
 | hatawaku.xyz | No |
@@ -7929,6 +7929,7 @@ Here's a list of public Fediverse services.
 | hideo54.com | Yes |
 | hieda.cc | Yes |
 | hieronymusch.net | No |
+| hifish.social | No |
 | high-low.ml | No |
 | high.cat | No |
 | higherorder.fun | No |
@@ -16420,6 +16421,7 @@ Here's a list of public Fediverse services.
 | retiolus.net | No |
 | retirenow.top | Yes |
 | retr0.id | No |
+| retro.pizza | No |
 | retro.social | No |
 | retrochat.online | No |
 | retrodigital.net | No |
@@ -22184,8 +22186,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,501 |
-| Normal | 17,640 |
+| Cloudflare | 4,500 |
+| Normal | 17,643 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
