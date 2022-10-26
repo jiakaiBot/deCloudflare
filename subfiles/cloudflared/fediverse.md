@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,183 |
 | net | 1,755 |
-| org | 1,229 |
+| org | 1,230 |
 | social | 1,208 |
 | de | 1,046 |
 
@@ -19763,6 +19763,7 @@ Here's a list of public Fediverse services.
 | torr.red | No |
 | torrenezzi10.xyz | No |
 | torrentfreak.com | Yes |
+| torusserver.org | No |
 | toscer.me | No |
 | toshipapi.tokyo | No |
 | totallylegit.site | No |
@@ -22187,7 +22188,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,500 |
-| Normal | 17,643 |
+| Normal | 17,644 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
