@@ -12206,6 +12206,7 @@ Here's a list of public Fediverse services.
 | mik.cloud | No |
 | mikado-city.jp | No |
 | mikaela.info | No |
+| mike.ai | Yes |
 | mikecoats.social | Yes |
 | mikedilger.com | No |
 | mikedunn.blog | No |
@@ -22192,7 +22193,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,505 |
+| Cloudflare | 4,506 |
 | Normal | 17,644 |
 
 
