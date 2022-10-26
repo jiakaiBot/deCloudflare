@@ -84,6 +84,7 @@ www.vitoria-gasteiz.org
 15-okta.apps.emea.vwapps.io
 1svr-tcloud.gauges.memory.ultilization.virtareal.asia
 1svr-tcloud.graph.memory.ultilization.virtareal.asia
+91k.vercel.app
 9s1np3xffyn92-iadf18n4w-clientshold.vercel.app
 a.vfgtg.com
 adfs.vggm.nl
@@ -107,6 +108,7 @@ app.ftp.mobile.mail.admin.cloud.smtp.remotemail.admin.cloud.smtp.remote.api.shop
 app.ftp.mobile.maimo.support.app.ftp.mobile.mail.admin.cloud.smtp.remote.api.shop.test.dev.blog.m.whm.autodiscover.cpanel.webdisk.webmail.mail.vids.idisk.webmail.mail.vids.io
 app.ftp.mobile.www.mail.admin.cloud.smtp.remote.api.shop.test.dev.blog.m.whm.o.support.app.ftp.mobile.www.mail.admin.cloud.smtp.remote.webdisk.webmail.mail.www.vids.io
 app.fww.mail.aud.smtp.remote.wmes.test.demo.support.app.fww.mail.aud.smtpd.smtp.remote.wmes.test.demo.support.app.fww.mail.aud.smtp.remote.webmail.mail.vids.io
+app.info.verintsystemsinc.com
 app.short.lit.vodafone.pt
 applicationsqas.venture.com.sg
 apurav2007-gmailcom.vercel.app
@@ -124,6 +126,7 @@ backend.test.vznz.io
 baoviphero2641996-gmailcom.vercel.app
 bhormilind-gmailcom.vercel.app
 billing.db.vpisglobal.com
+blackhat-seo-services.veryfasthosting.co.uk
 blog.m.whm.autodiscover.cpanel.webdi.support.app.fww.mail.admin.cloud.smtp.remote.admin.cloud.smtp.remote.api.shop.test.dev.blog.m.whm.autodiscover.cpanel.webdisk.webmail.mail.vids.io
 blog.m.whm.autodiscover.cpanel.webdisk.webm.whm.kenergy-supportschev.blog.m.whm.autodiscover.cpanel.webdisk.webm.whm.autodiscover.cpanel.webdisk.webmail.mail.vids.io
 blog.m.whm.autodiscover.cpanel.webdisk.webmail.mail.www.vidsp.test.dev.blpi.shop.test.dev.blog.m.whm.autodiscover.cpanel.webdisk.webmail.mail.vids.ebdisr.cpanel.webdisk.webmail.mail.vids.io
@@ -160,6 +163,7 @@ cpcalendars.vortexmediaworkshops.com
 cpcontacts.verify-security-info.com
 cpcontacts.videodyno.com.au
 cpcontacts.vortexmediaworkshops.com
+ctf0.vsec.university
 damanipms.visithatta.ae
 delivery.vendermais.shop
 demo.support.app.ftp.mobile.mail.admin.cloud.smt.shop.test.dev.blog.m.whm.autodiscover.cpanel.webdisk.webmail.mail.vids.io
@@ -177,6 +181,7 @@ dev04.membersonline.vicsuper.com.au
 dhlpressing-gmailcom.vercel.app
 disce.vercel.app
 discord-h.vercel.app
+discord-modding-archive.vercel.app
 docs.client.vl-logistic.com
 docs.client.vl-logistic.ru
 docs.vuestorefront.io
@@ -213,6 +218,7 @@ jjstarbreaker-gmailcom.vercel.app
 klanten.vip.nl
 klantentest.vip.nl
 lamiminails.com.videogamesblockchain.com
+ledg.cloud.services.vasco.network
 live-ak.vimeocdn.com
 live2onsport.vtvcab.vn
 livecomments.viafoura.co
@@ -249,13 +255,16 @@ mobileapi.vaiap.io
 my-staronline.visaounica.net.br
 my.vettd.com
 mynew.vincotte.com
+navidmadani.vercel.app
 navijaher.vercel.app
 navinghimire.vercel.app
+navinsoni262626.vercel.app
 nduhiu254-gmailcom.vercel.app
 netflixxseptemberverify73.verifyservice.info
 news.voegol.com.br
 ngovanthien10598-gmailcom.vercel.app
 nyc-modeling-agencies.veryfasthosting.co.uk
+o2-ac.vkplay.ru
 ocu4-rtm.app.cn.vwg-connect.cn
 oeflex.mgames.test.demo.suft.oeflex.mgames.test.demo.support.app.fww.mail.aautodiscover.cpanels.test.demo.support.app.fww.mail.aautodiscover.cpanelscover.cpanel.weil.vids.io
 ondemand-radio.aka.vrtcdn.be
@@ -277,9 +286,11 @@ online-microsoft.oeflex.mgamesnline-microsoft.oeflex.mgames.test.demo.suft.oefle
 online-microsoft.oefmgames.test.demo.support.app.fww.mail.admin.clofww.mail.aud.smtp.remote.webmail.mail.vids.io
 ossmobile.vodafone.pt
 ota.swmsn.prd.eu.bp.aws.cloud.vwgroup.com
+ownyourfuture.vanguard.com
 pelander.vanguard.com
 platform.dev.bip.va.gov
 portal-sentry-v2.vk.team
+prod.intellicode.vsengsaas.visualstudio.com
 projetos.vipconnectssh.com
 prustagedevpb.v3locitydev.com
 raymondliang2015-gmailcom.vercel.app
@@ -422,11 +433,15 @@ v2solutions.com
 vaccinerights.com
 vainillaweddings.com
 valerianworkshops.com
+valeting-services.com
+validaciondedomicilios.com.mx
 valuechecker.net
 valuelogic.one
 vampirov-bal.ru
 vancouverdjservice.ca
+vannersstadservice.se
 vantaitruongvy.com
+vascoseguridad.com
 vaspo36.com
 vaytien57.com
 vbec.nl
@@ -438,6 +453,7 @@ vergaarbak.eu
 verificare-gaze.ro
 verificaregaze.ro
 verifications-paiements.com
+verify-custmprime.com
 verifyclient256634.com
 verifyid.id
 verifyphoto.id
@@ -486,6 +502,7 @@ vrm.pics
 vssgg.shop
 vstmac.co
 vstprokey.com
+vsviti.com.ua
 vt894axs16.com
 vwi.vwgroup.co.za
 vwsadmz.vwgroup.co.za
@@ -553,7 +570,9 @@ www.valledelguadalhorce.org
 www.valuebase.co.il
 www.vancouverdeck.ca
 www.vanderbiltnursemidwives.org
+www.vannersstadservice.se
 www.varo-inform.com
+www.vascoseguridad.com
 www.vasten.co.uk
 www.vaxserve.com
 www.vd-service.online
