@@ -21552,6 +21552,7 @@ Here's a list of public Fediverse services.
 | xmpp.moe | No |
 | xmpp.net | No |
 | xmr.cx | No |
+| xmrposter.club | No |
 | xmstdn.com | No |
 | xmu.social | No |
 | xn--0n8ha.ws | No |
@@ -22192,7 +22193,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,505 |
-| Normal | 17,643 |
+| Normal | 17,644 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
