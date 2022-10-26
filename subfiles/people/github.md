@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Trojan+gRPC+Caddy unix socket not found in Caddy docker](https://github.com/XTLS/Xray-core/issues/1281)
+- [AppPixivAPI(bypass=True) 时是否可以仅使用 IPv4 DoH？](https://github.com/Mikubill/pixivpy-async/issues/28)
 - [CloudFlare Image Resizing Availability Issues](https://github.com/MatBenfield/news/issues/4775)
 - [CloudFlare Stream Encoding Issues](https://github.com/MatBenfield/news/issues/4745)
 - [ipfs get doesn't work on files with "" in the name](https://github.com/ipfs/kubo/issues/9370)
