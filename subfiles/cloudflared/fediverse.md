@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,184 |
 | net | 1,757 |
-| org | 1,233 |
+| org | 1,234 |
 | social | 1,210 |
 | de | 1,046 |
 
@@ -5728,6 +5728,7 @@ Here's a list of public Fediverse services.
 | fal.moe | Yes |
 | falafel.win | No |
 | falconia.club | No |
+| falconk.rocks | No |
 | falktx.com | No |
 | falsehood.social | Yes |
 | falsy.cat | Yes |
@@ -11782,6 +11783,7 @@ Here's a list of public Fediverse services.
 | matheson.it | No |
 | mathieufamily.ovh | No |
 | mathieunicolas.net | Yes |
+| mathilde.eu.org | No |
 | mathstodon.xyz | No |
 | mathtod.online | No |
 | mathtodon.com | No |
@@ -18891,6 +18893,7 @@ Here's a list of public Fediverse services.
 | taroedon.com | No |
 | tarunbauri.in | Yes |
 | taruntarun.net | Yes |
+| tasartir.cz | No |
 | taslug.org.au | Yes |
 | tasmantis.net | No |
 | tass.town | No |
@@ -22200,7 +22203,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,507 |
-| Normal | 17,649 |
+| Normal | 17,652 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
