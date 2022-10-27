@@ -13050,6 +13050,7 @@ Here's a list of public Fediverse services.
 | mynextcloudserver.ml | No |
 | mynoghra.jp | No |
 | myonlinelife.social | Yes |
+| myopic.one | No |
 | myops.de | No |
 | myown.social | No |
 | mypeertube.fr | No |
@@ -22207,7 +22208,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,510 |
-| Normal | 17,653 |
+| Normal | 17,654 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
