@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,184 |
 | net | 1,757 |
-| org | 1,230 |
-| social | 1,209 |
+| org | 1,233 |
+| social | 1,210 |
 | de | 1,046 |
 
 
@@ -592,6 +592,7 @@ Here's a list of public Fediverse services.
 | aeon-hq.net | No |
 | aeons-library.gq | No |
 | aep.systems | Yes |
+| aeracode.org | No |
 | aerian.icu | Yes |
 | aestus.monster | No |
 | aether.re | No |
@@ -16146,6 +16147,7 @@ Here's a list of public Fediverse services.
 | randna.me | Yes |
 | random.systems | No |
 | randombits.host | No |
+| randomcat.org | No |
 | randomchatss.xyz | No |
 | randomdrift.es | No |
 | randome.camp | No |
@@ -16795,6 +16797,7 @@ Here's a list of public Fediverse services.
 | rw-net.de | No |
 | rw501.de | No |
 | rweekly.org | Yes |
+| rwell.org | Yes |
 | rwenot.men | No |
 | rwx.moe | No |
 | rwx.social | No |
@@ -18106,6 +18109,7 @@ Here's a list of public Fediverse services.
 | spacewizard.space | No |
 | spaetzle.info | No |
 | spam.social | No |
+| spamourai.fr | No |
 | spank.ws | No |
 | spanner.works | No |
 | spanningforest.com | No |
@@ -18862,6 +18866,7 @@ Here's a list of public Fediverse services.
 | tanukey.work | Yes |
 | tanukitsu.net | No |
 | tanukitunes.com | No |
+| tanztee.social | No |
 | taoetc.org | No |
 | taoka.de | No |
 | taosforum.com | Yes |
@@ -20438,7 +20443,7 @@ Here's a list of public Fediverse services.
 | urgero.org | No |
 | uri.life | No |
 | uriahjaylee.com | No |
-| uribe.cafe | Yes |
+| uribe.cafe | No |
 | urishari.com | No |
 | urizen.net | No |
 | urmum.gq | No |
@@ -22195,7 +22200,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,507 |
-| Normal | 17,644 |
+| Normal | 17,649 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
