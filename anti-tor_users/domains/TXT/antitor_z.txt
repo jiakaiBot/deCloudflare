@@ -38,6 +38,7 @@ click.mail2.zocdoc.com
 client.zorgplatform.online
 cpcalendars.trustwalletl.zyns.com
 culevit.zerovic.com
+datacenter.zolbermedia.com
 epay-konnektor.zivit.de
 es-logs.analytics-cluster.zedge.io
 fabo-bankrec-api.zalopay.vn
@@ -95,6 +96,7 @@ zenva.pk
 zernyatko.in.ua
 zesumme-spueren.lu
 zftmmfb.cn
+zinnart.com
 zjazdordynatorow.pl
 zmaildirect.com
 zmftncw.cn
