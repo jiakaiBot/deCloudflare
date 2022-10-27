@@ -5527,6 +5527,7 @@ Here's a list of public Fediverse services.
 | estel-freesia.moe | No |
 | esthetic.win | No |
 | estoespodcast.net | Yes |
+| estradi-niol-of.services | No |
 | estrageit.net | No |
 | estrogen.network | Yes |
 | estwald.icu | No |
@@ -5619,6 +5620,7 @@ Here's a list of public Fediverse services.
 | exianote.work | No |
 | exile.social | No |
 | exited.eu | No |
+| exitmusic.world | Yes |
 | exo.icu | No |
 | exo.tube | No |
 | exode.me | No |
@@ -20266,7 +20268,7 @@ Here's a list of public Fediverse services.
 | umeahackerspace.se | No |
 | umedasp.co.jp | Yes |
 | umet.us | No |
-| umiamz.me | No |
+| umiamz.me | Yes |
 | umikaki.net | Yes |
 | umirin.me | No |
 | umiumi.net | No |
@@ -22202,7 +22204,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,507 |
+| Cloudflare | 4,509 |
 | Normal | 17,652 |
 
 
