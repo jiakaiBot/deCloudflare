@@ -2095,6 +2095,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dazai06731634@twitter](https://twitter.com/Dazai06731634/status/1394310699132891138) | advertise |
 | [Dazai_yebo@twitter](https://twitter.com/Dazai_yebo/status/1404095489629380611) | advertise |
 | [db739dc8697c4fd@twitter](https://twitter.com/db739dc8697c4fd/status/1376869447944695812) | advertise |
+| [dc6761@twitter](https://twitter.com/dc6761/status/1585589406064427008) | advertise |
 | [DCLifeMagazine@twitter](https://twitter.com/DCLifeMagazine/status/1545120333228818432) | advertise |
 | [Dcralph_@twitter](https://twitter.com/Dcralph_/status/1460151745284243460) | advertise |
 | [dcrimyz@twitter](https://twitter.com/dcrimyz/status/1399029992374239233) | advertise |
@@ -7794,6 +7795,7 @@ Do not create new issue or we will close it as duplicate.
 | [QunhTM11@twitter](https://twitter.com/QunhTM11/status/1468241517387173889) | advertise |
 | [Quo35259089@twitter](https://twitter.com/Quo35259089/status/1386228152406401024) | advertise |
 | [Quocbao10601948@twitter](https://twitter.com/Quocbao10601948/status/1386125895648219141) | advertise |
+| [Quocsang12@twitter](https://twitter.com/Quocsang12/status/1585603869295673345) | advertise |
 | [quocthaii168@twitter](https://twitter.com/quocthaii168/status/1516899698329591808) | advertise |
 | [QUOTESwtm@twitter](https://twitter.com/QUOTESwtm/status/1555673804986253313) | advertise |
 | [quuyentrann@twitter](https://twitter.com/quuyentrann/status/1401784856070090755) | advertise |
@@ -10847,6 +10849,7 @@ Do not create new issue or we will close it as duplicate.
 | [ZoanZonoa@twitter](https://twitter.com/ZoanZonoa/status/1376874020277133313) | advertise |
 | [ZoeLogkop@twitter](https://twitter.com/ZoeLogkop/status/1538942210388811776) | advertise |
 | [zoktog@twitter](https://twitter.com/zoktog/status/1501935529188753411) | advertise |
+| [ZomorodiEbi@twitter](https://twitter.com/ZomorodiEbi/status/1585597008437739520) | advertise |
 | [zonezone81@twitter](https://twitter.com/zonezone81/status/1389274249722925058) | advertise |
 | [ZonZon36269349@twitter](https://twitter.com/ZonZon36269349/status/1557675159259353088) | advertise |
 | [zon_paing@twitter](https://twitter.com/zon_paing/status/1391939112874225670) | advertise |
