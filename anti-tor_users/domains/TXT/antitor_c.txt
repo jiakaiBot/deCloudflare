@@ -245,6 +245,7 @@ accountverification.aks.uat.collectordev.se
 acronis.cifact.com
 adfs.carahsoft.com
 adfs.cke.gov.pl
+adfs.corp.global
 adfscams.camsonline.com
 admin.cgbsesupport.xyz
 admin.city.kakegawa.shizuoka.jp
@@ -273,6 +274,7 @@ api3.mel.cloudeftpos.com
 apim.ccamatil.com
 apitestprexferacf.cetelem.es
 app.citruscommercialbank.com
+app.cowin.gov.in
 app.creditosoeste.com.ar
 app2.coocon.co.kr
 appimg.chatplus.jp
@@ -296,6 +298,7 @@ autodiscover.citizenscienceinflorence.site
 autodiscover.conversationtalentnetwork.com
 autonoma.clientesbrandbits.com
 autorizador.cetelem.com.br
+availability-fastly.syncbak-mediastore-cedexis.cbsaavideo.com
 b.novostalentos.ciadetalentos.com.br
 b03.creditodo.xyz
 b12.creditodo.xyz
@@ -314,6 +317,7 @@ blog.creditcardbestoffers.com
 blog.dev.wgmail.ce-dfw.com
 bm.cari.com.my
 busd.blockchain-service-busd.5855d42acc8b49ad.convox.cloud
+bw.test.contact-centre.ru
 c1.curix.ai
 c2sbilling.net
 ca3m6ari9rllo.com
@@ -327,6 +331,8 @@ caitalia-aggiorna.com
 calculator.aws
 calec-login.com
 calzacontrol.es
+calzadofranca.com
+cambrian.com.sg
 cameroonhighcommission.co.uk
 campaign-image.in
 campaign.conohawing.com
@@ -356,6 +362,7 @@ carriazetechdeliver.com
 cartman.digital
 cartuchoelx.com
 carupdate.tk
+carwashpoints.com
 casaangeles1970.com
 casaperfection.ma
 casinospielgeld.de
@@ -392,8 +399,10 @@ centrefortalentdevelopment.com
 centrul-national-service.ro
 cepheusjournal.com
 ceptinel.com
+cepublic.csemails.co.uk
 ceratium.eu
 cerbientscarrow.com
+cernandsocietyfoundation.cern
 cerousfirmest.com
 certauth.cashedge.com
 cevna-tehnika.si
@@ -402,6 +411,8 @@ ch-textil.com.ua
 chadspost.com
 chalkboardscdn.dev
 channelverification.online
+charlestonscrubs.com
+chasingthescream.com
 chat-fb.my.id
 chcare.co.uk
 chechnya.gov.ru
@@ -416,6 +427,7 @@ chilloutworkshop.com
 chipmos.com
 chokhidhani.com
 chorley-southribble.capitaone.cloud
+churchvilleautomotiveservice.com
 chuyennhatrongoi.co
 chuyennhatrongoibinhduong.com
 chuyennhatrongoikhoinguyen.com
@@ -426,6 +438,7 @@ cilek.ma
 cindynoonan.com
 cineflixclub.site
 cip.gov.ua
+cirec-tmnf.com
 cis-it.de
 cisoinsight.com
 citable.com
@@ -444,6 +457,7 @@ claggeduniter.com
 claim-nfts.xyz
 claim-scheme-support.com
 claimsadvicecompany.com
+claimsafemoon10k.com
 claimsaferogers.info
 clanrise.com
 claroperu.co
@@ -464,6 +478,7 @@ click.engage.cellebrite.com
 click.hoteles.caminoreal.mx
 clickbanksuccess.cyou
 clicks.cloudboxsecure.com
+clicktrakr.biz
 client.app.convorelay.net
 clientes.casal.legal
 clients.central1.com
@@ -477,6 +492,7 @@ cloud-piantic.com
 cloud.communicatie.consumentenbond.nl
 clutchlilts.com
 clznqdm.cn
+cmgcca.ccamatil.com
 cmgcca.cloudapp.net
 cmmc-as-a-service.online
 cnycentral.com
@@ -485,6 +501,7 @@ coccolinocare.sk
 coco.controle.io
 codahosted.io
 codblessit.com
+codeclasp.com
 codezbill.codezcook.in
 codpostal.ro
 cofaserve.ua.coface.com
@@ -499,6 +516,7 @@ columbusvendingservice.com
 com-id-wexqshaaasse.ru
 com1.nl
 comalesexemble.com
+cometaescritoriocontabil.com.br
 comic-action.com
 commandingyourlife.com
 commb-updatedservice.com
@@ -566,15 +584,19 @@ contasiimples-login-web.ml
 contato.consultoriasadvocacia.com.br
 contenders.ca
 content-eu-9.content-cms.com
+content-us-9.content-cms.com
 content.cgkpivot.com
 continuumsoft.ca
 contorcuvinte.ro
+contrataseguro.ar
 contre-attaque.net
 control-energy.com
 controldeplagas10.com
 controlengineering.ro
+controlgaz.ro
 controllingtheinter.net
 controlmx.net
+controlplusuae.com
 controltower.id
 convalidare-conferma.online
 convenzioniperte.com
@@ -607,8 +629,10 @@ cpcs.cide.net
 craaccess.com
 crackedfix.net
 crackzilla.net
+crayola.ca
 creameme.xyz
 creativity-architect.com
+crecimientocreativo.com.mx
 credit-info.ro
 creditapi.com
 creditcuaprobarepeloc.info
@@ -625,6 +649,7 @@ creditpentrunesalariati.info
 creditpentrurauplatnici.info
 creditrepairstlouis.com
 credx24.com
+cretanoliveoil.gr
 crewsense.com
 crime-stoppers.org
 crimevictims.gov
@@ -641,6 +666,7 @@ ctf.com.br
 cubia.de
 cubiccredit.com
 cuentachoco.co
+cuentaconmigocartagena.com
 cuentaday.com
 cuevaflix.online
 cuis.cl
@@ -671,6 +697,9 @@ d15phfonjd0o0k.cloudfront.net
 d1eipm3vz40hy0.cloudfront.net
 d1pd0pmhst5qqh.cloudfront.net
 d1ralsognjng37.cloudfront.net
+d23fetfglg1ija.cloudfront.net
+d23iz4esrwkib6.cloudfront.net
+d242m5chux1g9j.cloudfront.net
 d2ag3jdu89hmr4.cloudfront.net
 d2ls5zafdy2bt4.cloudfront.net
 d2pgu9s4sfmw1s.cloudfront.net
@@ -682,9 +711,11 @@ d39x00gckxu2jb.cloudfront.net
 d3k81ch9hvuctc.cloudfront.net
 d3njjcbhbojbot.cloudfront.net
 d8vjazrbkazun.cloudfront.net
+d9pkkqscj1pvg.cloudfront.net
 datapowerpnd.celsia.com
 dbzprlcg.mohjnigp.hekko24.pwww.pma.aaa.csrncney.com
 dedupe.crifhighmark.com
+demande.compte-formation-cpf.fr
 demo.controlpayexchange.com
 demo1.contaowerk.de
 devwww.customerexperience.services
@@ -700,11 +731,15 @@ dsqjvx52uljvw.cloudfront.net
 dyn.cncs.gov.pt
 e-internal.revenue.service-refund.form.carotos.my.id
 e.customeriomail.com
+e119-ts.cdn.bg
+e120-ts.cdn.bg
+e202-ts.cdn.bg
 eatwkcxr.dbzprlcg.mohjnigp.hekko24.pwww.pma.aaa.csrncney.com
 ediservice.crediflow.se
 eflow.csd.org.tw
 ekosportuat.comarch.fr
 elamfb.contarketing.com
+email.click2pay.us
 email.concordeducations.com
 email.cyberghost360.site
 epaehptspu.loadtest.v2.certsbridge.com
@@ -720,6 +755,8 @@ fbcj.comemoney.xyz
 feature-paymethod-paypal.332.sandbox.connect-io.de
 fix-demo-recovery.control-plane-review.coherence.coherencesites.com
 flair.curtisbanks.co.uk
+fobs2fue5j7i6zasfsffhmpm6a.apigateway.ap-sydney-1.oci.customer-oci.com
+fonts.clustersecure.de
 fr.caccaref.buzz
 franciscogaray.customersupportwp.com
 frmiseajourdesinfosdesdecouverts.coordonnerlesvetements.com
@@ -730,6 +767,7 @@ gblog.test.nulloutlook.ce-dfw.com
 gcr2p.cmail19.com
 gemelnet.cma.gov.il
 get24update.check4upgradeplayerstable.click
+gh-always-show-default.control-plane-review.coherence.coherencesites.com
 git.git.git.7446a0f5ea00.canadianluxurycars.online
 git.git.git.git.git.internet.creditinksmash.online
 git.git.zmail.crimeswimbrake.co
@@ -778,8 +816,10 @@ ir.compasspathways.com
 itpaas.ctyun.cn
 its.cooperativacalf.com.ar
 ivgcmg.cloudapp.net
+jbossdemo.ceca.es
 jdaleyconstructions.christomwebdesign.com.au
 jqdhfuzi.dnksrfhw.artcom24.hekko24.pwww.pma.aaa.csrncney.com
+kia-brest.commander-mes-accessoires.fr
 kidman.confirmaciondeasistencia.digital
 kma-ii-magazin.cms-account.de
 korext.mbtrucks.pre.cemtric.com
@@ -871,7 +911,9 @@ r.clk61.com
 recaptcha.chinaasaservice.org
 recorvery.casewalletamazon.com
 reports.ccilindia.com
+resona-gr.cryptobin.jp
 rhel-cds.cloud.ctc.jp
+robbreportsingapore.cmail19.com
 roberts.confirmaciondeasistencia.digital
 s2d53.cloudnetwork.vn
 safe.codeax.fi
@@ -882,6 +924,7 @@ security.caseidtombakamazon.com
 sell-portal-update-environment-runtime2.asgard.capiter.io
 sellercentral.amazon.com-f2b1en.me
 sellercentral.amazon.com-f4b3en.me
+services.cleangopro.ma
 serviproagilseguridad.cardid.store
 shop.clickteam.com
 shop.wgmail.ce-dfw.com
@@ -915,6 +958,7 @@ support.com-appleid.top
 support.comcfcu.com
 support.compliancygroup.com
 support.cyberscopellc.com
+syact.clientespicnic.com.ar
 symphony.uat.citivelocity.com
 t.communications.canadapost-postescanada.ca
 t.notifications.canadapost-postescanada.ca
@@ -940,6 +984,7 @@ udtvqbje.xsaqpiew.mohjnigp.hekko24.pwww.pma.aaa.csrncney.com
 uiocmg.cloudapp.net
 updatenow009.crabdance.com
 updates.cargowise.com
+updates.cdn-apple.com
 us18.campaign-archive.com
 us2.api.concursolutions.com
 verify.carbonlab-llc.com
@@ -971,6 +1016,7 @@ wiki.orghta-strigu.com.uhtsmtp1.corolev.ru
 wimcrols-insurance-dev.userapps.contentgrid.com
 workflows.services.demo.cirrusfileserver.com
 workshop01.cassiopeiaconsultores.com
+workshopnissan.com.br.cadastro9.com.br
 wrtlcszf.hekko24.pwww.pma.aaa.csrncney.com
 wsfrontventas.clarochile.cl
 wsjtodaysedition.cmail20.com
@@ -979,6 +1025,7 @@ wsvr17.coamo.com.br
 wwtp.cakrawalamitraservice.com
 www.account.com-inc.us
 www.account.corpcast.io
+www.agrement-tarlisua.ro.contabil-beclean.ro
 www.alexanderbarristers.co.uk.carehomedefenceservice.com
 www.app.campuser.ug
 www.app.contactocard.org
@@ -1000,6 +1047,7 @@ www.cachevalleybyproducts.com
 www.cadtm.org
 www.cafenochiado.com
 www.cairn.info
+www.cali-intelligences.com
 www.callmaxsupport.com
 www.calvarygalesburg.com
 www.cam4.com
@@ -1014,6 +1062,7 @@ www.capitaltaxmanagement.com
 www.capitaltungate.com
 www.capturelandscapes.com
 www.caravanparkservice.it
+www.carecampchallenge.com
 www.carel.com.tr
 www.caresecure.co.uk
 www.carhiredalamanairport.co.uk
@@ -1087,6 +1136,7 @@ www.clive.com.hk
 www.cmcmarkets.com
 www.cmcoachingservices.com
 www.cmcsa.com
+www.cmen.ch
 www.cmt.com
 www.cnaikarui.com
 www.coast2000.com
@@ -1134,11 +1184,14 @@ www.containershelters.co.nz
 www.containerspanz.containershelters.co.nz
 www.containerspanz.nz
 www.containertrucking.com
+www.contech-it.com
 www.contornodisseia.pt
+www.contrataseguro.ar
 www.control-energy.com
 www.controldeplagas10.com
 www.controle-technique-cabrera-lpb.fr
 www.controlfire.store
+www.controlgen.co
 www.controlinstruing.com
 www.controltower.id
 www.controversyofzion.info
@@ -1155,6 +1208,7 @@ www.correos.es
 www.cosgravepestcontrol.co.uk
 www.couplesworkshop.org
 www.covidhub.ch
+www.cpleong-accounting.com
 www.cqcqde.com
 www.craigerdesign.com
 www.crateandbarrel.com
@@ -1171,6 +1225,7 @@ www.creditoeficaz.com.co
 www.creditonline247.info
 www.creditonlinenonstop.info
 www.creditunion.cu-secure.cloud
+www.cretanoliveoil.crete-tracker.us
 www.crossislandworkshop.com
 www.crow.nl
 www.crowcanyon.com
@@ -1181,6 +1236,7 @@ www.ctt-entrega.info
 www.cubiccredit.com
 www.cuboulder.education
 www.cuentachoco.co
+www.cuentaconmigocartagena.com
 www.cuentaday.com
 www.cuilaoni.tk
 www.cupt.gov.pl
@@ -1188,6 +1244,7 @@ www.curtains2floors.com.connectuae.online
 www.curveconnect-v1.tk
 www.curvefi-log-in.gq
 www.customer.cttnetwork.com
+www.customerwebsite3.cartwatt.com
 www.cwmediaanddistribution.com
 www.cybersenate.com
 www.cypherauth.net
@@ -1272,6 +1329,7 @@ www.track.classicdeliveryservices.com
 www.tracking.creativeemporium.uk
 www.tvlikelive.com.br.clientes.ciberhost.com.br
 www.update.information.coffeecompany.rs
+www.verification.classifieds.center
 www.verify.charteredsupplychain.com
 www.verify.chupez.com
 www.verifycilscm.cilscmglobal.org
