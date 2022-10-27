@@ -9485,6 +9485,7 @@ Do not create new issue or we will close it as duplicate.
 | [thway_yin@twitter](https://twitter.com/thway_yin/status/1397078843416932362) | advertise |
 | [ThweNuSwe7@twitter](https://twitter.com/ThweNuSwe7/status/1472228009839001606) | advertise |
 | [ThweThw86283263@twitter](https://twitter.com/ThweThw86283263/status/1392055046829842437) | advertise |
+| [ThwinHt14821140@twitter](https://twitter.com/ThwinHt14821140/status/1585666039630569472) | advertise |
 | [thwinphyoeaung@twitter](https://twitter.com/thwinphyoeaung/status/1389850121282625538) | advertise |
 | [thwin_y@twitter](https://twitter.com/thwin_y/status/1392784689874624513) | advertise |
 | [Thxange4@twitter](https://twitter.com/Thxange4/status/1402513226936451074) | advertise |
@@ -9922,6 +9923,7 @@ Do not create new issue or we will close it as duplicate.
 | [UNgeLay21962396@twitter](https://twitter.com/UNgeLay21962396/status/1392031101913206784) | advertise |
 | [Unicode200c@twitter](https://twitter.com/Unicode200c/status/1450697239312039939) | advertise |
 | [united88488681@twitter](https://twitter.com/united88488681/status/1394865054521053189) | advertise |
+| [unitedasone2001@twitter](https://twitter.com/unitedasone2001/status/1585668577038053376) | advertise |
 | [UnmineableCode@twitter](https://twitter.com/UnmineableCode/status/1510333319317176327) | advertise |
 | [UNo29958011@twitter](https://twitter.com/UNo29958011/status/1399227396000149504) | advertise |
 | [Uno74600825@twitter](https://twitter.com/Uno74600825/status/1393655865744363523) | advertise |
@@ -10771,6 +10773,7 @@ Do not create new issue or we will close it as duplicate.
 | [zeidcb@twitter](https://twitter.com/zeidcb/status/1382822880942166023) | advertise |
 | [zekerro@twitter](https://twitter.com/zekerro/status/1390724812079702017) | advertise |
 | [zeke_ros@twitter](https://twitter.com/zeke_ros/status/1380544686746607618) | advertise |
+| [zekimeerbaluch@twitter](https://twitter.com/zekimeerbaluch/status/1585650260885766144) | advertise |
 | [zenithkazo@twitter](https://twitter.com/zenithkazo/status/1408031003046645762) | advertise |
 | [ZenitusV@twitter](https://twitter.com/ZenitusV/status/1396188623079309315) | advertise |
 | [zenpx@twitter](https://twitter.com/zenpx/status/1401456761622593539) | advertise |
