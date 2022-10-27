@@ -2354,6 +2354,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dswe77614518@twitter](https://twitter.com/Dswe77614518/status/1393979565475876868) | advertise |
 | [dtnlong23012002@twitter](https://twitter.com/dtnlong23012002/status/1491855180996186112) | advertise |
 | [duanrongda1@twitter](https://twitter.com/duanrongda1/status/1529983030277746688) | advertise |
+| [dublado@twitter](https://twitter.com/dublado/status/1585761801513451526) | advertise |
 | [duc990@twitter](https://twitter.com/duc990/status/1509610476057284608) | advertise |
 | [duc22697256@twitter](https://twitter.com/duc22697256/status/1401883188796952579) | advertise |
 | [duc73674673@twitter](https://twitter.com/duc73674673/status/1530602391858335744) | advertise |
