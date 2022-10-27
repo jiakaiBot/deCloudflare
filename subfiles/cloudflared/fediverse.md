@@ -9380,6 +9380,7 @@ Here's a list of public Fediverse services.
 | kabi.tk | No |
 | kabipix.tk | No |
 | kabudon.jp | No |
+| kabuki.club | No |
 | kabutodon.com | No |
 | kacco-e.org | No |
 | kaczynski.scot | No |
@@ -10579,7 +10580,7 @@ Here's a list of public Fediverse services.
 | libreadvice.org | No |
 | libreden.net | No |
 | librefish.com | No |
-| librefree.me | No |
+| librefree.me | Yes |
 | libreha.sh | No |
 | librelabgrx.cc | No |
 | librelabucm.org | Yes |
@@ -22193,7 +22194,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,506 |
+| Cloudflare | 4,507 |
 | Normal | 17,644 |
 
 
