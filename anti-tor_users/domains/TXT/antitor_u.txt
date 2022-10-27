@@ -73,6 +73,7 @@ adfs.uplet.cloud
 admin.s3.unige.ch
 agro-sad.uaprom.net
 alumnialliances.updatemyprofile.com
+apg.uteq.edu.mx
 apgvb-customer.uatvkycsbirrb.in
 api-uaz-prod.ukh.de
 api.unitynxt.com
@@ -123,6 +124,7 @@ instana-eum-prod.uspto.gov
 isuzuleasing.uti.co.il
 jof8.unitea.jp
 katarzyna17.usermd.net
+mag-eng.ubsdev.com
 mail.secure-service.updatemanagerssvrice.top
 mail.uddokta.xyz
 margot.uber.space
@@ -208,12 +210,14 @@ usdps.top
 usendbrazil.com
 user-admin-panel.tk
 user.fm
+userglobalready.ml
 userplace.net
 userstellar.com
 uspds.top
 uspns.top
 uspo1.top
 usps-com-service.top
+usps-comu.top
 ussppost.usdps.top
 ussusd1centralff5.blob.core.usgovcloudapi.net
 usts.fr
@@ -253,13 +257,16 @@ www.ukexpressdelivery.com
 www.ukrposhta.ua
 www.ultra88de.com
 www.umaza.edu.ar
+www.unclaimedmoney.info
 www.undisclosedenergycommission.co.uk
 www.unihair-cliente.shop
 www.union-bulletin.com
+www.unionleader.com
 www.uniquesocialevents.com
 www.up6.com.br
 www.update-main-network.com
 www.upn.to
+www.uppers.es
 www.upra.gov.co
 www.upslivraison-thermomix.com
 www.uralweb.ru
