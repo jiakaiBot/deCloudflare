@@ -12194,6 +12194,7 @@ Here's a list of public Fediverse services.
 | midwest.social | No |
 | midyuki.net | No |
 | miegl.cz | No |
+| mieke.club | No |
 | mieo.ml | No |
 | miestodon.com | No |
 | mieth.net | No |
@@ -22205,7 +22206,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,509 |
-| Normal | 17,652 |
+| Normal | 17,653 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
