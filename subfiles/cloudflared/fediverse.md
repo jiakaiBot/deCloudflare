@@ -3157,6 +3157,7 @@ Here's a list of public Fediverse services.
 | chrismaiorana.com | No |
 | chrismcallister.co.uk | No |
 | chrismcleod.dev | No |
+| chrispelli.fun | Yes |
 | christian-vogeley.de | No |
 | christian-vogeley.eu | No |
 | christianburkh.art | No |
@@ -22205,7 +22206,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,509 |
+| Cloudflare | 4,510 |
 | Normal | 17,653 |
 
 
