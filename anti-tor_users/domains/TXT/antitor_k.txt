@@ -133,6 +133,7 @@ www.kurtisane-de-sade.com
 305.pr.stater.nl.kiwicloud.nl
 306.pr.stater.nl.kiwicloud.nl
 308.pr.stater.nl.kiwicloud.nl
+352.pr.stater.nl.kiwicloud.nl
 434.pr.stater.nl.kiwicloud.nl
 441.pr.stater.nl.kiwicloud.nl
 472.pr.stater.nl.kiwicloud.nl
@@ -174,10 +175,14 @@ europm2025.com.e18dca092597d21a68cf17757-11476.sites.k-hosting.co.uk
 exodus.com.merge.kevoteg.com
 ftp.k4.cz
 gastrikevatten-nrg.kravportal.se
+git.alfrescohn.duckdns.org.gitlab.store.krylologiy.ru
+git.git.alfrescohn.duckdns.org.gitlab.store.krylologiy.ru
 git.git.git.gitlab.support.kaydzen.com
 git.git.gmail.comune.kc-boost.ru
 git.gitlab.gitlab.git.gmail.comune.kc-boost.ru
 gitlab.control-panel.kingofkingsfood.com
+gitlab.git.alfrescohn.duckdns.org.gitlab.store.krylologiy.ru
+gitlab.git.git.login.krapka.coffee
 gitlab.git.gitlab.git.gitlab.gmail.comune.kc-boost.ru
 gitlab.git.gitlab.gmail.comune.kc-boost.ru
 gitlab.git.gmail.comune.kc-boost.ru
@@ -201,6 +206,7 @@ kacked.com
 kaishbazaar.com
 kakuyasu-sim.jp
 kalibreboru.com
+kalingcha.com
 kampanya-isbak-basvuru-formu-online.ml
 kampoengconfectie.com
 kanchiuniv.ac.in
@@ -221,6 +227,7 @@ kastellet.com
 katcr.co
 katharsisdrill.art
 kavehbar.com
+kawasaninternet.site
 kawate-ya.com
 kbbet.games
 kcepfyzuna.com
@@ -237,6 +244,7 @@ keysstoreactiivate.live
 kgsia.com
 khanjeeyapness.website
 khawsod.com
+ki128.keap-link006.com
 kibho.in
 kickwho.xyz
 kidneydiseaseupdate.com
@@ -250,10 +258,12 @@ kingbet86.top
 kingdavid.org.za
 kingeshop.jp
 kino-michi.com
+kinowolnosc.pl
 kitabghr.com
 kitaro-claim.com
 kitokit.com
 kitsolar.org
+kladanj.org
 klantactie.be
 klavernbone.com
 klenhosnc.com
@@ -261,6 +271,7 @@ klimaservisairsolution.rs
 klinika-semejnogo-zdorovya.ru
 klinikhanglekiu.com
 klrecreationhub.com
+kmhinteriordecor.com
 kneeansweras.com
 knowledgeenergy.ca
 knowthyselfcounseling.com
@@ -304,7 +315,9 @@ kximxxzsva.com
 live.rebuild.medicalpetshirts.com.kiwicloud.nl
 live.rebuild.suitical.com.kiwicloud.nl
 login.kpi4me.de
+login.kredenckispekseg.hu
 login.microsoftonline.com-oauth2-wa-authorize.kukakenya.com
+logisticsbureau.keap-link015.com
 m.kabum.com.br
 m.kazancinnoktasi.site
 m.kockw.com
@@ -347,6 +360,7 @@ signin.kaspi.kz
 sit01.kasikornasset.com
 skyldnerportal.kapitalkontroll.no
 smail.kimblegroup.com
+smartotp.kebhana.com
 staging-nursery.dev.kidsly.jp
 sts.kfplc.com
 subdomain.kontorexdata.se
@@ -384,6 +398,7 @@ www.dashboard.kachelan.com
 www.demo.outlook.korpsweb.net
 www.feedback.kaher.edu.in
 www.gastrikevatten-nrg.kravportal.se
+www.git.git.login.kreolyar.ru
 www.gitlab.gitlab.git.gitlab.support.kaydzen.com
 www.goflattrack.kyleswegles.ca
 www.gryaab.kravportal.se
@@ -407,6 +422,7 @@ www.keciadesign.dk
 www.kedmacredit.com
 www.keinenschrittzurueck.org
 www.keiryu.jp
+www.kens5.com
 www.kentuckynewera.com
 www.keyence.co.in
 www.keyence.com.my
@@ -425,6 +441,7 @@ www.kipmcgrath.com
 www.kita-sankt-gerburgis.de
 www.klassic-cat.com
 www.klimaservisairsolution.rs
+www.klin.com.br
 www.klm.ie
 www.knowitonline.com
 www.koat.com
@@ -462,6 +479,7 @@ www.kyoto-yuka.com
 www.kyuden.co.jp
 www.logdelivery.click.kingswayglobalcompany.com
 www.login.kamsaridevelopment.com
+www.login.kerteszmunka.hu
 www.marketingseo.kometaservice.ro
 www.money-changer.app.kaymedia.net
 www.paketwisatasumatera.konjacsumatra.com
