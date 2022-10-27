@@ -113,12 +113,14 @@ api-app.hausmaster.com
 api.hcep.qa
 api.heliportal.nl
 api.hillrom.com
+api.hilton.io
 app.1inch.hcfspinal.com
 app.1inch.homeinsuranceclaimsolutions.com
 app.info.haymarketmedicalnetwork.com
 appaddinformatioservice.heaventodreams.com
 asahigroupholdings.hostedconnectedrisk.com
 asiob.herokuapp.com
+assets.homedepot-static.com
 auth.hbs-net.hanssens.io
 auth.vpn.happy-2-help.org
 autodiscover.hackbanks.com
@@ -174,6 +176,7 @@ creditcard.hargaria.com
 ctp.hingehealth.io
 customer.hasewerk.net
 detetivemaceio.hakk.com.br
+dev-frontend-data-user.honic.dev
 dgfh.h19uwtye.cn
 dgws.h56euwyt.cn
 discord.helinefay.com
@@ -238,6 +241,7 @@ healizm.com
 healthybodynodiet.com
 hefoblast.com
 heilstein-datenbank.de
+helenshealingcounsellingservice.com
 hello-security.ro
 help-accountupdate.com
 helpdesk-ufos.de
@@ -378,6 +382,7 @@ myairpaycome.herokuapp.com
 mykkyyccgh.herokuapp.com
 mysite.hcl.com
 nlclick.hazardexonthenet.net
+node.hypha.earth
 not-enough-qol.herokuapp.com
 nta-jp.hnkhbz.cn
 oficinas.centro.ayuda.oficinas.hg-ergosstrategy.co.ao
@@ -388,6 +393,7 @@ passbolt.hillerstrom.name
 payme-api-secure.hsbc.com.hk
 paypal.hocefo.org
 pesquisa-api.hotbillet.com.br
+pilihan-tarif-bri-new.herokuapp.com
 poocoinapp.herokuapp.com
 ptes3.hkemobility.gov.hk
 qacmaf.mia-nbl.latam.hbomaxcdn.com
@@ -398,6 +404,7 @@ realizesolucoesfin.herokuapp.com
 realizesolucoesfinancei.herokuapp.com
 remix-billing-app.hagendorn.dev
 report.honeynet.id
+rest2mts.blr-rajiv.eu-dev.srsng-int.hcvpc.io
 reupdacyc.herokuapp.com
 riskspotlight.hostedconnectedrisk.com
 sale.hakk.com.br
@@ -407,17 +414,20 @@ sdervbnm.herokuapp.com
 sehdfjd.h86uwtyd.cn
 selection-caroupay.herokuapp.com
 selects-caroupays.herokuapp.com
+sense.clients.harbourats.com
 services.heb.com
 shcersadee.herokuapp.com
 silverfoxcoaching.hikenclick.com
 sit.externalsalessolution-order.hmgroup.tech
 smartsimulator-dev.ms.hcvpc.io
+smartworkshop-api-staging.hangarofthefuture.com
 smokepiphpmyadmin.dev.hot-tours-moscow.ru
 ssl.abrechnungsrouter.haevg-rz.de
 st-dyno-funnel.herokai.com
 stage-gps-mgr.hanshin-anshin.jp
 staging.hebdevelopment.com
 ste.hbbtvtest.org
+sterapi.hubuk.ng
 studio.hyphen.im
 sumbit.herokuapp.com
 supplyinfo-ext-stage1.hpeprint.com
@@ -432,6 +442,7 @@ test.healthcare.gov
 test.helpdesk-kr8tig.nl
 tickets.harlemnetwork.com
 triumph-secure.cblog.old.box.homereviewonline.com
+uat-ras.honda.com.vn
 us-apps4.hcl.com
 v.holoworld.com.cn
 v4.hostcodile.com
@@ -462,6 +473,7 @@ www.clientes.hostingid.cl
 www.coach.latarnia.haes.xyz
 www.conta.hostus.com.br
 www.creditcard.hargaria.com
+www.doc.hackbanks.com
 www.eki-net.hmvttv.shop
 www.gazurecertificateservice.hardstresser.com
 www.git.gitlab.git.qn7s43htzlltuys.login.hex-ceo.com
@@ -475,6 +487,7 @@ www.hako.express
 www.handsanitizeraqua-safe.com
 www.handymakes.com
 www.hannenonline.nl
+www.hartbrown.co.uk
 www.hastingsdieselservice.com.au
 www.hauhonkukkapalvelu.fi
 www.hayatiskele.com
@@ -499,6 +512,7 @@ www.hhsecurity.org
 www.hialeahonlinepost.com
 www.hidenmatch.com
 www.highergroundal.com
+www.hightoproofing.com
 www.hightoproofingservice.co.uk
 www.himawari-life.co.jp
 www.himukashokudo.com
@@ -509,6 +523,7 @@ www.hoerbert.com
 www.hoffmann-group.com
 www.homeledgerdocument.com
 www.homesite.ro
+www.homestuck.com
 www.hometownlendersecuredoc.com
 www.hotbuns.sg
 www.houstononlinepost.com
@@ -536,8 +551,10 @@ www.huntersridge256.com
 www.hunterswaste.com.au
 www.huntersyndrome.co.il
 www.huntleigh.de
+www.hyperconectado.co
 www.josealbertoadvocacia.com.br.hosteopi.com
 www.leadwayminds.com.hydroxycut4sale.com
+www.monsteras-allservice.se.hemsida.eu
 www.qualityassurance-amh-gbb-preprod.hsbc.com.hk
 www.secure-sabbnet-online.hijauelektronikindonesia.com
 www.silverfoxcoaching.hikenclick.com
