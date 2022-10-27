@@ -1442,6 +1442,7 @@ Do not create new issue or we will close it as duplicate.
 | [boonpraserd@twitter](https://twitter.com/boonpraserd/status/1383968362137411589) | advertise |
 | [BoonsomJack@twitter](https://twitter.com/BoonsomJack/status/1392867374039060485) | advertise |
 | [boonza2546@twitter](https://twitter.com/boonza2546/status/1379747386071773184) | advertise |
+| [boothongminh@twitter](https://twitter.com/boothongminh/status/1585533406703599617) | advertise |
 | [BoozelLynn@twitter](https://twitter.com/BoozelLynn/status/1516227858288586757) | advertise |
 | [boquiscarl@twitter](https://twitter.com/boquiscarl/status/1395371406888632326) | advertise |
 | [Borahayyo1@twitter](https://twitter.com/Borahayyo1/status/1399900362568613895) | advertise |
@@ -1871,8 +1872,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2124,6 +2125,7 @@ Do not create new issue or we will close it as duplicate.
 | [Deki12253933@twitter](https://twitter.com/Deki12253933/status/1552020750936281088) | advertise |
 | [DelsinPistons@twitter](https://twitter.com/DelsinPistons/status/1420937477930487808) | advertise |
 | [DelucioJoseph@twitter](https://twitter.com/DelucioJoseph/status/1393744512422498304) | advertise |
+| [demigozz1@twitter](https://twitter.com/demigozz1/status/1585518522025009154) | advertise |
 | [Demon6941@twitter](https://twitter.com/Demon6941/status/1494687786774851592) | advertise |
 | [Demon95990507@twitter](https://twitter.com/Demon95990507/status/1393209524639604739) | advertise |
 | [DemonFighter17@twitter](https://twitter.com/DemonFighter17/status/1379994239073976325) | advertise |
@@ -8485,6 +8487,7 @@ Do not create new issue or we will close it as duplicate.
 | [SharabShrestha@twitter](https://twitter.com/SharabShrestha/status/1536686494672617474) | advertise |
 | [sharanuswamy9@twitter](https://twitter.com/sharanuswamy9/status/1403599807860535298) | advertise |
 | [SHARDXD1@twitter](https://twitter.com/SHARDXD1/status/1528293917959290880) | advertise |
+| [shareinmyarea@twitter](https://twitter.com/shareinmyarea/status/1585546345972174851) | advertise |
 | [sharHtet21@twitter](https://twitter.com/sharHtet21/status/1390392338111889408) | advertise |
 | [SharifTech_@twitter](https://twitter.com/SharifTech_/status/1377317759311224837) | advertise |
 | [SharMyatthu3@twitter](https://twitter.com/SharMyatthu3/status/1390642880444715009) | advertise |
@@ -10733,6 +10736,7 @@ Do not create new issue or we will close it as duplicate.
 | [zayanphyo@twitter](https://twitter.com/zayanphyo/status/1377983749824995342) | advertise |
 | [Zayar89@twitter](https://twitter.com/Zayar89/status/1389116632996323328) | advertise |
 | [ZAYAR15746843@twitter](https://twitter.com/ZAYAR15746843/status/1394908027392720901) | advertise |
+| [Zayar56026004@twitter](https://twitter.com/Zayar56026004/status/1585515119945342977) | advertise |
 | [Zayar88224304@twitter](https://twitter.com/Zayar88224304/status/1377581442931298306) | advertise |
 | [Zayar94415232@twitter](https://twitter.com/Zayar94415232/status/1402938801857597440) | advertise |
 | [ZayarLi70948418@twitter](https://twitter.com/ZayarLi70948418/status/1396541705931812867) | advertise |
