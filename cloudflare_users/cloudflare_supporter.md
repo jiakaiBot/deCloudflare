@@ -2841,6 +2841,7 @@ Do not create new issue or we will close it as duplicate.
 | [GamingytMalak@twitter](https://twitter.com/GamingytMalak/status/1388083774596988935) | advertise |
 | [Gandinarendra2@twitter](https://twitter.com/Gandinarendra2/status/1508000385797341189) | advertise |
 | [gangan262@twitter](https://twitter.com/gangan262/status/1471310803295141890) | advertise |
+| [ganghan1981@twitter](https://twitter.com/ganghan1981/status/1585479084959678464) | advertise |
 | [GANGSTARGAMIN17@twitter](https://twitter.com/GANGSTARGAMIN17/status/1388170807302451200) | advertise |
 | [Gangste72661199@twitter](https://twitter.com/Gangste72661199/status/1400366679192858625) | advertise |
 | [Gangster55Gang@twitter](https://twitter.com/Gangster55Gang/status/1501172639359975427) | advertise |
