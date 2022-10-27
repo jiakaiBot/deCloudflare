@@ -4722,6 +4722,7 @@ Do not create new issue or we will close it as duplicate.
 | [king_defeat@twitter](https://twitter.com/king_defeat/status/1391700999752929282) | advertise |
 | [KinPhm95290033@twitter](https://twitter.com/KinPhm95290033/status/1552483794254323713) | advertise |
 | [KinVit2@twitter](https://twitter.com/KinVit2/status/1401410534277226500) | advertise |
+| [kiokoioi@twitter](https://twitter.com/kiokoioi/status/1585701891022983169) | advertise |
 | [KiRa37295832@twitter](https://twitter.com/KiRa37295832/status/1392358213878575107) | advertise |
 | [kira75627951@twitter](https://twitter.com/kira75627951/status/1396696077403934722) | advertise |
 | [Kira2401667359@twitter](https://twitter.com/Kira2401667359/status/1394970856854626304) | advertise |
@@ -5367,6 +5368,7 @@ Do not create new issue or we will close it as duplicate.
 | [LongThanhVu__@twitter](https://twitter.com/LongThanhVu__/status/1553070102895296512) | advertise |
 | [LongThuan16@twitter](https://twitter.com/LongThuan16/status/1573958668089167874) | advertise |
 | [longu3t@twitter](https://twitter.com/longu3t/status/1478738046967169026) | advertise |
+| [longvu199919@twitter](https://twitter.com/longvu199919/status/1585695984939462656) | advertise |
 | [long_trab@twitter](https://twitter.com/long_trab/status/1490557973038452738) | advertise |
 | [Long_way_to_die@twitter](https://twitter.com/Long_way_to_die/status/1552020406210441216) | advertise |
 | [looker123456789@twitter](https://twitter.com/looker123456789/status/1548154140848599041) | advertise |
