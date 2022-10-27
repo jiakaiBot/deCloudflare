@@ -7282,6 +7282,7 @@ Do not create new issue or we will close it as duplicate.
 | [parasyte_x@twitter](https://twitter.com/parasyte_x/status/1377532238997254144) | advertise |
 | [Pari67479035@twitter](https://twitter.com/Pari67479035/status/1577182218887340032) | advertise |
 | [park_pollen@twitter](https://twitter.com/park_pollen/status/1390024654333497346) | advertise |
+| [Parsahoushangi@twitter](https://twitter.com/Parsahoushangi/status/1585717330990047232) | advertise |
 | [parsay_pyaw@twitter](https://twitter.com/parsay_pyaw/status/1392219027590766596) | advertise |
 | [parthasaha_xyz@twitter](https://twitter.com/parthasaha_xyz/status/1399842469924147201) | advertise |
 | [PARTHIBMONDAL11@twitter](https://twitter.com/PARTHIBMONDAL11/status/1389065445047775234) | advertise |
