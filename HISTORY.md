@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-31: [LAX (Los Angeles) on 2022-10-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g89375m1f6n4)
 - 2022-10-28: [IAH (Houston) on 2022-10-28](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lnbsyxg9vs46)
 - 2022-10-31: [AMS (Amsterdam) on 2022-10-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/s92cx6yvw3dc)
 - 2022-10-31: [IAD (Ashburn) on 2022-10-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1f3nzbqs4ycf)
