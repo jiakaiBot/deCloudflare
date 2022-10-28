@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,191 |
 | net | 1,758 |
 | org | 1,235 |
-| social | 1,216 |
+| social | 1,217 |
 | de | 1,047 |
 
 
@@ -6204,6 +6204,7 @@ Here's a list of public Fediverse services.
 | flimpie.net | No |
 | flintfam.org | No |
 | flippinflips.org | No |
+| flipping.rocks | No |
 | flirtingwithnihilism.com | No |
 | flisol.com.br | No |
 | floatie.xyz | No |
@@ -17649,6 +17650,7 @@ Here's a list of public Fediverse services.
 | simplyrecipes.com | Yes |
 | simstim.club | No |
 | simstodon.com | No |
+| simulacra.social | Yes |
 | simulacron.de | No |
 | sina.moe | No |
 | sinblr.com | No |
@@ -22239,8 +22241,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,498 |
-| Normal | 17,698 |
+| Cloudflare | 4,499 |
+| Normal | 17,699 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
