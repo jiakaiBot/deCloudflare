@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,191 |
+| com | 3,192 |
 | net | 1,758 |
 | org | 1,235 |
 | social | 1,217 |
@@ -3115,6 +3115,7 @@ Here's a list of public Fediverse services.
 | chitownmastodon.tech | No |
 | chitter.xyz | No |
 | chitterchatz.com | No |
+| chiurbanist.com | No |
 | chivanet.org | No |
 | chiya.moe | No |
 | chizai.cafe | No |
@@ -22243,7 +22244,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,500 |
-| Normal | 17,699 |
+| Normal | 17,700 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
