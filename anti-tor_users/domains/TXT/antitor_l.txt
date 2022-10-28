@@ -240,6 +240,7 @@ accounting.lufrai.org
 accounts.lidl.com
 adfs.lokalplanportalen.dk
 adlerjohn78.livejournal.com
+ai-dev.linkaja.com
 akmss-stg.lillypulitzer.io
 amazon-adsystem.com.lonewolf.net
 amazoncaseidactivity.laisah.com
@@ -247,6 +248,7 @@ ams03pap002files.storage.live.com
 anywhere.treasury.limpopo.gov.za
 api-edito.largus.fr
 api.labnet.cz
+api.lalavla.com
 api.lesl.cloud
 api.lifebanksystems.com
 api.reach.livetiles.io
@@ -285,6 +287,7 @@ clear-your-business-email-storage-space-capacity-bavdhyxjsektlm.us-east-1.linode
 clear-your-business-email-storage-space-capacity-ikvelsbnayjxm.us-east-1.linodeobjects.com
 clear-your-business-email-storage-space-capacity-xafctphwiybrsz.us-east-1.linodeobjects.com
 click.digital.linkt.com.au
+click.em.levi.jp
 click.email.lifecare-news.com
 click.labcorpmessage.com
 click.lnyfe.com
@@ -297,6 +300,7 @@ courses.learnrestore.com
 coz2dnj2y93mruw8.blog.blog.amazon.com.lonewolf.net
 cpanel.lexmachina.shop
 damymumbai.livejournal.com
+dash-back.lucidity.dev
 dashboard.lu-lu.online
 delivery.api.logistok.ru
 dev-f-002.lodgingrevs.com
@@ -320,18 +324,19 @@ file.lqt.moe
 finessepinstrip.livejournal.com
 forums.linuxmint.com
 gcdn.dev0.cloud.erco.com.rev.lf.net
+git.libre-a-toi.org
 gitlab.git.gitlab.gitlab.remote.landorganizationchest.online
 googleadsindonesia.langit9.info
 group-invite.liganova.co
 h264media01.ly.gov.tw
 hanaqiao.lofter.com
+hansdegoede.livejournal.com
 hiji.l-p.page
 icloud.com.lisahogan.com
 icloud.com.logs-maps.ru
 icloud.com.lx11.info
 icmadges.lecarrefourdesentrepreneurs.com
 ims1sobdh9wj3an.w.magento.outlook.lillestrom-byorkester.no
-la-risposta.life
 laboredtrain.com
 lachgas-service.nl
 lacservice.shop
@@ -349,11 +354,13 @@ lang-ship.com
 lanmisto.gov.ua
 lanpack.co.za
 laralink.net
+laramona.casa
 larapouso.com
 lasnoticiasdemalleco.cl
 laundrybox.jp
 laureateidapi.laureatelab.net
 lauxzahnheilkunde.de
+lavenderservice.co.za
 lawareenolatman.com
 lawyercaws.website
 layanan-bank-ku.my.id
@@ -370,6 +377,7 @@ ldev.ir
 leadwayminds.com
 leafmulcherhq.com
 lealsecurity.com.br
+learning.loma.org
 lecridelatruffe.com
 ledtechnics.dp.ua
 leerickler.com
@@ -432,6 +440,7 @@ login-amazon-account.com
 login-clear-your-business-email-account-storage-space-unit-port.us-east-1.linodeobjects.com
 login-lcloud.live
 login-santndr.com
+login.leonidasgyrosz.hu
 login.teams.live.com
 login2expert.ma
 loginacesso-conta-simpless.cf
@@ -457,6 +466,7 @@ longterms.ml
 lortonnews.com
 losmovies.site
 lotest24.lotter.de
+lothburyuk.com
 lotterstahl.de
 louiscole.lnk.to
 lov.lc
@@ -483,6 +493,7 @@ lycheemosses.com
 lzconsulta.cf
 lzxdx24yib.com
 m.gmail.comscheduler.leaguelobster.com
+m1yee.lofter.com
 mail.lmyers1996geocaching.us
 mail.lnsolucoesfinanceiras.com.br
 mb88site.livejournal.com
@@ -540,6 +551,7 @@ scanned-document-encrypted-with-proofpoint-for-your-review.us-east-1.linodeobjec
 secure.letyshons.online
 security.lambungcaseamazon.com
 send.lateralline.com
+servicios-test.liberty.cl
 settings-clear-storage-space-capacity-units-limits-user-portal.us-east-1.linodeobjects.com
 shop.gmail.comscheduler.leaguelobster.com
 shop.littlepopworkshop.com
@@ -561,6 +573,7 @@ testexchange.lifehealthcare.co.za
 ticket.linkweb.fr
 tickets.logme.hu
 tonynetone.livejournal.com
+track.list-finder.jp
 translate-controller-fr-passive.dev.liveaccess.net
 translate-controller-uk-passive.dev.liveaccess.net
 uat-ccp-webapi.lpl-cloud.com
@@ -611,6 +624,7 @@ www.lamelique.shop
 www.lanaperuana.com
 www.langlois-thermie-services-lpb.fr
 www.lasananucas.cl
+www.lavenderservice.co.za
 www.lawsociety.com.au
 www.layanan-bank-ku.my.id
 www.layanan-bank.my.id
@@ -651,6 +665,7 @@ www.logdelivery.click
 www.login-0nedrive.com
 www.login-adm.londrian.com
 www.login2it.com
+www.logistics.dhl
 www.logitrack.ma
 www.londonautodetailing.com
 www.longhornrecycling.com
