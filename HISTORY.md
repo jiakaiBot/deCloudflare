@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-28: [Cached content issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rgwh8bl1zrkv)
 - 2022-10-28: [Cloudflare Zero Trust: Gateway Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gxxnzqwnh8rv)
 - 2022-10-28: [Zaraz Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cwvvh24z1gdh)
 - 2022-11-04: [FRA (Frankfurt) on 2022-11-04](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b5f78076qz7g)
