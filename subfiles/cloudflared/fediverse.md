@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,187 |
-| net | 1,757 |
-| org | 1,234 |
-| social | 1,210 |
+| com | 3,189 |
+| net | 1,758 |
+| org | 1,235 |
+| social | 1,213 |
 | de | 1,046 |
 
 
@@ -209,6 +209,7 @@ Here's a list of public Fediverse services.
 | 3.srl | No |
 | 300-baud.net | No |
 | 300m.com | No |
+| 30d.org | Yes |
 | 32-b.it | No |
 | 334.ovh | Yes |
 | 338338.xyz | Yes |
@@ -2119,6 +2120,7 @@ Here's a list of public Fediverse services.
 | bitmycode.com | No |
 | bitpage.de | No |
 | bits-und-baeume.org | No |
+| bits.social | No |
 | bitsandlinux.com | Yes |
 | bitseatech.com | No |
 | bitsec.org | No |
@@ -4648,6 +4650,7 @@ Here's a list of public Fediverse services.
 | dissonanz.xyz | Yes |
 | distilled.pm | Yes |
 | distopico.info | No |
+| distortions.net | No |
 | distraction.engineer | Yes |
 | distributary.network | No |
 | distributed.social | No |
@@ -9254,6 +9257,7 @@ Here's a list of public Fediverse services.
 | josephschneider.net | No |
 | josephsen.us | No |
 | josh-erklaert.de | No |
+| josh.tel | No |
 | joshandryan.net | Yes |
 | joshdata.me | No |
 | joshglenn.org | No |
@@ -9262,6 +9266,7 @@ Here's a list of public Fediverse services.
 | josias.dev | No |
 | josz.space | No |
 | journalist.social | No |
+| journodao.xyz | Yes |
 | joyrex.net | No |
 | jp-mastodon.com | No |
 | jp-mstdn.com | No |
@@ -10809,6 +10814,7 @@ Here's a list of public Fediverse services.
 | lmorchard.com | No |
 | lnaze.net | No |
 | lnbrg.net | Yes |
+| lncn.dev | No |
 | lndvll.se | Yes |
 | lnk.co.ua | No |
 | lnkr.dev | Yes |
@@ -12894,6 +12900,7 @@ Here's a list of public Fediverse services.
 | mtdn.jp | No |
 | mtf.party | Yes |
 | mtgdon.jp | No |
+| mthdr.ca | No |
 | mthie.net | No |
 | mthie.pictures | No |
 | mtita.me | Yes |
@@ -16652,6 +16659,7 @@ Here's a list of public Fediverse services.
 | romaricpascal.com | No |
 | romca.tk | No |
 | romeorose.xyz | Yes |
+| romeov.me | No |
 | romlinch.ovh | No |
 | rompe.org | No |
 | ronbronson.com | No |
@@ -18217,6 +18225,7 @@ Here's a list of public Fediverse services.
 | springspin.nl | No |
 | sprinklerz.xyz | No |
 | sprite.land | No |
+| spritesmods.com | No |
 | sprkwd.com | No |
 | sprocket.group | No |
 | sprocketfox.io | No |
@@ -18238,6 +18247,7 @@ Here's a list of public Fediverse services.
 | square-rooty.org | No |
 | squat.net | No |
 | squeak.live | No |
+| squeak.social | No |
 | squeakie.club | No |
 | squeaky.fun | No |
 | squeaky.social | No |
@@ -19522,6 +19532,7 @@ Here's a list of public Fediverse services.
 | tinfoil-hat.net | No |
 | ting.cm | No |
 | ting.systems | No |
+| tinh.at | No |
 | tiniest.world | No |
 | tinkeringwithalien.tech | No |
 | tinko.club | No |
@@ -20537,6 +20548,7 @@ Here's a list of public Fediverse services.
 | v0idkr4ft.com | Yes |
 | v112.space | No |
 | v1x3n.net | No |
+| v2br.social | No |
 | v3g.de | No |
 | v4v.dev | No |
 | v5ox.com | No |
@@ -21230,6 +21242,7 @@ Here's a list of public Fediverse services.
 | williamrehwinkel.net | No |
 | williamscloud.space | No |
 | willistonschools.org | No |
+| willnorris.com | No |
 | willow.cafe | No |
 | wim.lol | No |
 | wimjaap.nl | No |
@@ -22212,8 +22225,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,510 |
-| Normal | 17,659 |
+| Cloudflare | 4,512 |
+| Normal | 17,670 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
