@@ -3898,6 +3898,7 @@ Do not create new issue or we will close it as duplicate.
 | [Iranjd@twitter](https://twitter.com/Iranjd/status/1448632216834224131) | advertise |
 | [iran_bozorg1984@twitter](https://twitter.com/iran_bozorg1984/status/1546779025003143169) | advertise |
 | [iReviewPhones@twitter](https://twitter.com/iReviewPhones/status/1488332657469575171) | advertise |
+| [Irfan47682067@twitter](https://twitter.com/Irfan47682067/status/1585890980536156160) | advertise |
 | [Irfankh04933214@twitter](https://twitter.com/Irfankh04933214/status/1398707064839548929) | advertise |
 | [IrfanKh53230465@twitter](https://twitter.com/IrfanKh53230465/status/1389479001853366274) | advertise |
 | [IrinAkt53311722@twitter](https://twitter.com/IrinAkt53311722/status/1519997951439159297) | advertise |
@@ -10451,6 +10452,7 @@ Do not create new issue or we will close it as duplicate.
 | [y1w6DqzcNvOCqlk@twitter](https://twitter.com/y1w6DqzcNvOCqlk/status/1399783218384019461) | advertise |
 | [Y2KPARADISE@twitter](https://twitter.com/Y2KPARADISE/status/1379677564856373249) | advertise |
 | [y2pNVkQPT26gvTC@twitter](https://twitter.com/y2pNVkQPT26gvTC/status/1377187578583994368) | advertise |
+| [YaasminBoojo@twitter](https://twitter.com/YaasminBoojo/status/1585882514669076480) | advertise |
 | [Yacinec54933892@twitter](https://twitter.com/Yacinec54933892/status/1407473157955588096) | advertise |
 | [YadanarMyo14@twitter](https://twitter.com/YadanarMyo14/status/1391784880036405252) | advertise |
 | [YadanarMyoWin2@twitter](https://twitter.com/YadanarMyoWin2/status/1391001842339835905) | advertise |
