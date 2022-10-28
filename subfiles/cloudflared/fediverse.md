@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,190 |
 | net | 1,758 |
 | org | 1,235 |
-| social | 1,213 |
+| social | 1,214 |
 | de | 1,046 |
 
 
@@ -1197,7 +1197,7 @@ Here's a list of public Fediverse services.
 | arachnitech.com | Yes |
 | aragon.sh | Yes |
 | araisan.club | No |
-| arakawa.xyz | Yes |
+| arakawa.xyz | No |
 | arashi.news | No |
 | arathe.net | No |
 | arbitrarion.com | No |
@@ -2105,7 +2105,7 @@ Here's a list of public Fediverse services.
 | bitcoinhackers.org | Yes |
 | bitcoinlizard.net | No |
 | bitcoinmagazine.social | No |
-| bitcoinmastodon.org | Yes |
+| bitcoinmastodon.org | No |
 | bitcoinplebs.net | No |
 | bitcoinsasquatch.com | No |
 | bitcointv.com | No |
@@ -3462,7 +3462,7 @@ Here's a list of public Fediverse services.
 | colorid.es | Yes |
 | colson.re | No |
 | colton.world | No |
-| com.de | Yes |
+| com.de | No |
 | comacero.com | No |
 | comam.es | No |
 | combatbahai.com | No |
@@ -5344,7 +5344,7 @@ Here's a list of public Fediverse services.
 | emmaclit.com | No |
 | emmanuel.website | Yes |
 | emo-essen.de | No |
-| emo.world | Yes |
+| emo.world | No |
 | emodykes.club | No |
 | emojidon.global | No |
 | emon.party | No |
@@ -6600,7 +6600,7 @@ Here's a list of public Fediverse services.
 | fsociety.social | No |
 | fsphub.org | No |
 | ftb.moe | No |
-| ftdrd.xyz | Yes |
+| ftdrd.xyz | No |
 | ftfl.ca | No |
 | ftp.rip | No |
 | ftqq.com | No |
@@ -10456,7 +10456,7 @@ Here's a list of public Fediverse services.
 | lequerrec.eu | No |
 | ler.jp | No |
 | lerelaisdupatriote.fr | No |
-| lerk.io | Yes |
+| lerk.io | No |
 | lermer.nl | No |
 | lerngern.net | Yes |
 | lernglobal.network | No |
@@ -12047,7 +12047,7 @@ Here's a list of public Fediverse services.
 | meowblackcat.online | No |
 | meowhome.xyz | No |
 | meowr.org | No |
-| meows.life | Yes |
+| meows.life | No |
 | meowsdeluxe.com | No |
 | meowy.tech | No |
 | meowz.moe | No |
@@ -18290,7 +18290,7 @@ Here's a list of public Fediverse services.
 | staendsche.de | No |
 | stahlstadt.cloud | No |
 | stalbertdixon.ca | No |
-| stalin.rocks | Yes |
+| stalin.rocks | No |
 | stallman.au | Yes |
 | staltsoft.com | Yes |
 | staminaonline.com | Yes |
@@ -18438,6 +18438,7 @@ Here's a list of public Fediverse services.
 | stormdragon.tk | No |
 | stormlight.space | No |
 | stormyknight.xyz | No |
+| storo.social | No |
 | storyseedvault.com | No |
 | stp.cx | No |
 | stracknet.com | No |
@@ -19204,7 +19205,7 @@ Here's a list of public Fediverse services.
 | thebias.nl | No |
 | thebigeasy.life | No |
 | thebigeasy.space | No |
-| thebigowo.xyz | Yes |
+| thebigowo.xyz | No |
 | thebird.website | No |
 | thebitpros.com | No |
 | theblackgates.com | No |
@@ -19990,7 +19991,7 @@ Here's a list of public Fediverse services.
 | trunkle.social | No |
 | truongan.name.vn | No |
 | truska.xyz | No |
-| trustfundme.site | Yes |
+| trustfundme.site | No |
 | truthpirates.club | No |
 | truthsocial.co.in | No |
 | truthsocial.st | No |
@@ -20279,7 +20280,7 @@ Here's a list of public Fediverse services.
 | um-pudding.de | No |
 | umamusu.me | Yes |
 | umarhadi.dev | Yes |
-| umarhadi.xyz | Yes |
+| umarhadi.xyz | No |
 | umas.social | Yes |
 | umaskey.net | Yes |
 | umastodon.jp | No |
@@ -21614,7 +21615,7 @@ Here's a list of public Fediverse services.
 | xn--chuchichschtli-dib.social | No |
 | xn--contrefaon-v6aa.fr | No |
 | xn--d1ag.xn--e1a4c | No |
-| xn--dgtt6ucql1igfpb.org | Yes |
+| xn--dgtt6ucql1igfpb.org | No |
 | xn--dreikseho-z2a.ch | No |
 | xn--drivation-b4a.fr | No |
 | xn--dsselblog-q9a.de | No |
@@ -21882,7 +21883,7 @@ Here's a list of public Fediverse services.
 | yopo.work | Yes |
 | yorha.club | No |
 | yorha.social | Yes |
-| yorishiro.space | Yes |
+| yorishiro.space | No |
 | yorozu-sys.net | No |
 | yoshimov.com | Yes |
 | yoshimov.info | No |
@@ -22229,8 +22230,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,508 |
-| Normal | 17,678 |
+| Cloudflare | 4,495 |
+| Normal | 17,692 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
