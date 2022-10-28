@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,185 |
+| com | 3,186 |
 | net | 1,757 |
 | org | 1,234 |
 | social | 1,210 |
@@ -16799,6 +16799,7 @@ Here's a list of public Fediverse services.
 | rustedneuron.com | No |
 | rustysoft.de | No |
 | rutan.info | No |
+| ruthenic.com | No |
 | ruxnor.net | Yes |
 | rva.party | No |
 | rvmathy.net | No |
@@ -22209,7 +22210,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,510 |
-| Normal | 17,655 |
+| Normal | 17,656 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
