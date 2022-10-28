@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error occured, please check your internet connection](https://github.com/freescout-helpdesk/freescout/issues/2352)
 - [FP on CloudFlare __cf_bm cookies.](https://github.com/coreruleset/coreruleset/issues/2879)
 - [Cloudflare error on Colab](https://github.com/ebolam/KoboldAI/issues/248)
 - [Cannot update beneficiarie](https://github.com/Mamis-Solidarias/Beneficiaries/issues/163)
