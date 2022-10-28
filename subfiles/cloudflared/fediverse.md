@@ -15548,6 +15548,7 @@ Here's a list of public Fediverse services.
 | portswigger.net | No |
 | porubu.com | Yes |
 | posadis.me | No |
+| posix.gay | No |
 | poslac.com | No |
 | poslovitch.fr | No |
 | possum.gay | No |
@@ -22231,7 +22232,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,495 |
-| Normal | 17,692 |
+| Normal | 17,693 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
