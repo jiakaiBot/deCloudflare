@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,190 |
 | net | 1,758 |
 | org | 1,235 |
-| social | 1,214 |
+| social | 1,215 |
 | de | 1,046 |
 
 
@@ -3189,6 +3189,7 @@ Here's a list of public Fediverse services.
 | chunboan.zone | No |
 | chungus.cc | Yes |
 | chups.me | No |
+| churanova.eu | No |
 | chvanikoff.com | No |
 | chven.us | No |
 | chymera.eu | No |
@@ -4195,6 +4196,7 @@ Here's a list of public Fediverse services.
 | datenschleuse.de | No |
 | datensturm.net | No |
 | datentopf.org | No |
+| datflow.tech | Yes |
 | datri.uy | No |
 | datsemultimedia.com | No |
 | datyedyeguy.net | No |
@@ -6894,6 +6896,7 @@ Here's a list of public Fediverse services.
 | gayweeb.vip | No |
 | gazeta.mx | No |
 | gazette.live | No |
+| gazouiller.fr | Yes |
 | gazshaw.co.uk | No |
 | gbarbieripederiva.com.ar | Yes |
 | gbenjamin.fr | No |
@@ -19037,6 +19040,7 @@ Here's a list of public Fediverse services.
 | techonify.uk | No |
 | techopolis.io | No |
 | techporn.club | Yes |
+| techspace.social | No |
 | techstartups.space | No |
 | techtea.io | No |
 | techzerker.com | Yes |
@@ -22231,8 +22235,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,495 |
-| Normal | 17,693 |
+| Cloudflare | 4,497 |
+| Normal | 17,695 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
