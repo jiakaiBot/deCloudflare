@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,186 |
+| com | 3,187 |
 | net | 1,757 |
 | org | 1,234 |
 | social | 1,210 |
@@ -2795,6 +2795,7 @@ Here's a list of public Fediverse services.
 | carfulhony.com | No |
 | caric.io | No |
 | caricio.com | No |
+| carl.fish | No |
 | carlesbellver.net | No |
 | carlnimbus.com | No |
 | carma.red | No |
@@ -8566,6 +8567,7 @@ Here's a list of public Fediverse services.
 | indologylive.org | No |
 | indoors.club | No |
 | indoorsman.ee | No |
+| indulgent.art | No |
 | indy.im | No |
 | indyjp.club | No |
 | indymotion.fr | No |
@@ -17676,6 +17678,7 @@ Here's a list of public Fediverse services.
 | skalnik.com | Yes |
 | skankhunt42.pw | Yes |
 | skarnio.tv | No |
+| skastodon.com | No |
 | skazki.fr | No |
 | skeleton.army | Yes |
 | skeleton.cool | No |
@@ -22210,7 +22213,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,510 |
-| Normal | 17,656 |
+| Normal | 17,659 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
