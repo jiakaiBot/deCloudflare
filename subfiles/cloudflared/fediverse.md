@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,189 |
+| com | 3,190 |
 | net | 1,758 |
 | org | 1,235 |
 | social | 1,213 |
@@ -4655,7 +4655,7 @@ Here's a list of public Fediverse services.
 | distributary.network | No |
 | distributed.social | No |
 | distribuware.com | No |
-| districraft.org | Yes |
+| districraft.org | No |
 | distrilab.fr | No |
 | distrilab.org | No |
 | distrotoot.com | No |
@@ -5789,6 +5789,7 @@ Here's a list of public Fediverse services.
 | farewellswind.xyz | No |
 | farhan.codes | Yes |
 | farkascity.org | No |
+| farktronix.com | No |
 | farkwar.social | Yes |
 | farm.lol | No |
 | farman.tokyo | No |
@@ -7833,7 +7834,7 @@ Here's a list of public Fediverse services.
 | hellomasto.com | No |
 | hellomasto.pl | No |
 | hellosoft.org | Yes |
-| hellostarrysky.xyz | Yes |
+| hellostarrysky.xyz | No |
 | hellowelcome.club | No |
 | hellowelcome.org | No |
 | hellquist.eu | Yes |
@@ -8531,6 +8532,7 @@ Here's a list of public Fediverse services.
 | in-de-hand.info | No |
 | in-visible.eu | No |
 | in0rdr.ch | No |
+| inaccessible.ac | No |
 | inadon.jp | No |
 | inanantoka.com | No |
 | inanna.xyz | Yes |
@@ -8796,6 +8798,7 @@ Here's a list of public Fediverse services.
 | iscute.moe | No |
 | iscute.ovh | No |
 | isdatbad.com | No |
+| isdruk.nl | No |
 | isekai.fi | No |
 | isekai.wtf | Yes |
 | iselfhost.com | No |
@@ -9919,7 +9922,7 @@ Here's a list of public Fediverse services.
 | kolevino.com | No |
 | kolgate.xyz | No |
 | kollar.cloud | No |
-| kollegin.eu | No |
+| kollegin.eu | Yes |
 | kolombo.xyz | No |
 | komaedak.in | No |
 | komic.eu | No |
@@ -12318,7 +12321,7 @@ Here's a list of public Fediverse services.
 | miniwa.moe | No |
 | minkenstein.de | No |
 | minkiver.se | No |
-| minmi.xyz | Yes |
+| minmi.xyz | No |
 | minnix.dev | No |
 | minnna.xyz | No |
 | minohdon.jp | No |
@@ -15512,7 +15515,7 @@ Here's a list of public Fediverse services.
 | popgeeks.com | No |
 | popindustry.org | No |
 | poplava.net | No |
-| popnet.xyz | Yes |
+| popnet.xyz | No |
 | popnja.com | Yes |
 | popolon.org | No |
 | poppelreuter.de | No |
@@ -15668,7 +15671,7 @@ Here's a list of public Fediverse services.
 | prismati.cc | No |
 | prismdragon.net | No |
 | prismo.news | Yes |
-| prismo.xyz | Yes |
+| prismo.xyz | No |
 | prismst.one | No |
 | pritter.tk | Yes |
 | pritter.work | No |
@@ -18867,6 +18870,7 @@ Here's a list of public Fediverse services.
 | tanavega.xyz | Yes |
 | tandarkan.com | No |
 | tandlers.de | No |
+| tane.codes | No |
 | tangentfox.com | No |
 | tanghus.net | No |
 | tangorangers.com | Yes |
@@ -22225,8 +22229,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,512 |
-| Normal | 17,670 |
+| Cloudflare | 4,508 |
+| Normal | 17,678 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
