@@ -307,6 +307,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aekari95@twitter](https://twitter.com/Aekari95/status/1390406061140549633) | advertise |
 | [AekinSla@twitter](https://twitter.com/AekinSla/status/1392548229548417026) | advertise |
 | [Aeloulaev@twitter](https://twitter.com/Aeloulaev/status/1386072209698041857) | advertise |
+| [AepJohn@twitter](https://twitter.com/AepJohn/status/1585951787923562497) | advertise |
 | [aera84539720@twitter](https://twitter.com/aera84539720/status/1391369406685454339) | advertise |
 | [aerikang151200@twitter](https://twitter.com/aerikang151200/status/1380967407863226368) | advertise |
 | [Aerofly_FS@twitter](https://twitter.com/Aerofly_FS/status/1384516826722357253) | advertise |
@@ -1874,8 +1875,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -6170,6 +6171,7 @@ Do not create new issue or we will close it as duplicate.
 | [Moh_Al_mustfa@twitter](https://twitter.com/Moh_Al_mustfa/status/1529754425631330309) | advertise |
 | [MoiBoi93529548@twitter](https://twitter.com/MoiBoi93529548/status/1534005903737114624) | advertise |
 | [Moin38890593@twitter](https://twitter.com/Moin38890593/status/1396688841537253378) | advertise |
+| [moinian65@twitter](https://twitter.com/moinian65/status/1585953272124542985) | advertise |
 | [mojib27663854@twitter](https://twitter.com/mojib27663854/status/1404422911704829952) | advertise |
 | [Mojibmazi1@twitter](https://twitter.com/Mojibmazi1/status/1540460136958857216) | advertise |
 | [mokeyish@twitter](https://twitter.com/mokeyish/status/1573149277714522112) | advertise |
