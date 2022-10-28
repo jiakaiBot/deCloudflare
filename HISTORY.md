@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-04: [FRA (Frankfurt) on 2022-11-04](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b5f78076qz7g)
+- 2022-10-31: [LHR (London) on 2022-10-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hcrpphfdkjjj)
 - 2022-11-01: [LHR (London) on 2022-11-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/plsd6j5zcxzk)
 - 2022-11-02: [AMS (Amsterdam) on 2022-11-02](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/x5l1syf7r4vy)
 - 2022-10-31: [LAX (Los Angeles) on 2022-10-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g89375m1f6n4)
