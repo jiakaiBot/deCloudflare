@@ -5381,6 +5381,7 @@ Do not create new issue or we will close it as duplicate.
 | [lorencialord@twitter](https://twitter.com/lorencialord/status/1384901052823113731) | advertise |
 | [LorenzoNolberto@twitter](https://twitter.com/LorenzoNolberto/status/1505933975545597956) | advertise |
 | [loren_pezo@twitter](https://twitter.com/loren_pezo/status/1541324581708992512) | advertise |
+| [lostiris_@twitter](https://twitter.com/lostiris_/status/1585837501478240257) | advertise |
 | [LouchLe1@twitter](https://twitter.com/LouchLe1/status/1519690961575587840) | advertise |
 | [Loui519@twitter](https://twitter.com/Loui519/status/1516215159811112960) | advertise |
 | [Louie_888Fun@twitter](https://twitter.com/Louie_888Fun/status/1516214532519399425) | advertise |
