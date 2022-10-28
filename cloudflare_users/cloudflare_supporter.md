@@ -67,6 +67,7 @@ Do not create new issue or we will close it as duplicate.
 | [2sGoTQPUP3lfWL3@twitter](https://twitter.com/2sGoTQPUP3lfWL3/status/1398753821568950276) | advertise |
 | [2wenty5ivez@twitter](https://twitter.com/2wenty5ivez/status/1580441764267450368) | advertise |
 | [2worx@twitter](https://twitter.com/2worx/status/1405039139498586112) | advertise |
+| [3a1i_m@twitter](https://twitter.com/3a1i_m/status/1586067261923946496) | advertise |
 | [3labMarahin@twitter](https://twitter.com/3labMarahin/status/1384625738884816897) | advertise |
 | [3li7assan2007@twitter](https://twitter.com/3li7assan2007/status/1479946038664441858) | advertise |
 | [3l_3ja@twitter](https://twitter.com/3l_3ja/status/1560918569684467712) | advertise |
@@ -1797,6 +1798,7 @@ Do not create new issue or we will close it as duplicate.
 | [citasweetieee@twitter](https://twitter.com/citasweetieee/status/1391727785274654725) | advertise |
 | [CITRIK_himself@twitter](https://twitter.com/CITRIK_himself/status/1379721209038835715) | advertise |
 | [Ck30553721@twitter](https://twitter.com/Ck30553721/status/1392149231826133005) | advertise |
+| [ckm98qqw2r1@twitter](https://twitter.com/ckm98qqw2r1/status/1586021227667525633) | advertise |
 | [Cky03556663@twitter](https://twitter.com/Cky03556663/status/1391966836149809159) | advertise |
 | [clacliclu@twitter](https://twitter.com/clacliclu/status/1393260220885831681) | advertise |
 | [Clarence2510@twitter](https://twitter.com/Clarence2510/status/1556321410225565696) | advertise |
@@ -10081,6 +10083,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vinoth23510941@twitter](https://twitter.com/Vinoth23510941/status/1404749738747088897) | advertise |
 | [VinoVino2809@twitter](https://twitter.com/VinoVino2809/status/1584144896289447936) | advertise |
 | [Vinzbran@twitter](https://twitter.com/Vinzbran/status/1552464107772985344) | advertise |
+| [VIPCOCGAMING1@twitter](https://twitter.com/VIPCOCGAMING1/status/1586043418849210369) | advertise |
 | [vipibox@twitter](https://twitter.com/vipibox/status/1570101058587987968) | advertise |
 | [VirgilShelton@twitter](https://twitter.com/VirgilShelton/status/1409998073040756738) | moral (advertise) |
 | [virtualtwit@twitter](https://twitter.com/virtualtwit/status/1532222794020581376) | advertise |
