@@ -46,6 +46,7 @@ gateway.zscalertwo.net
 idp.saas.zeb-it.de
 img01.ztat.net
 ipiranga.gateway.zup.me
+kyc-identity-uat-backend.zeeve.net
 login.ziraatbankanturkey.com
 m7.caixabank.zinsprofi.de
 mail.zasgroup.com
