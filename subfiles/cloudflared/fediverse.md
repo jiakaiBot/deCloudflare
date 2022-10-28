@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,184 |
+| com | 3,185 |
 | net | 1,757 |
 | org | 1,234 |
 | social | 1,210 |
@@ -4790,6 +4790,7 @@ Here's a list of public Fediverse services.
 | dook.business | No |
 | doom.fm | No |
 | doomicile.de | No |
+| doompill.com | No |
 | dooms.com.br | No |
 | doon.promo | No |
 | dopasoft.com | No |
@@ -22208,7 +22209,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,510 |
-| Normal | 17,654 |
+| Normal | 17,655 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
