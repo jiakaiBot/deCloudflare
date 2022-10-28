@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-28: [Zaraz Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cwvvh24z1gdh)
 - 2022-11-04: [FRA (Frankfurt) on 2022-11-04](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b5f78076qz7g)
 - 2022-10-31: [LHR (London) on 2022-10-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hcrpphfdkjjj)
 - 2022-11-01: [LHR (London) on 2022-11-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/plsd6j5zcxzk)
