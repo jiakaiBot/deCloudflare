@@ -66,6 +66,7 @@ www.usda.gov
 www.usps.com
 a01.ugwdevice.net
 abms.uplus.co.kr
+about.usps.com
 academy.uber.space
 achtest.uicpayment.com.tw
 adfs.unitedlearning.org.uk
@@ -90,6 +91,7 @@ camaidopk7jeuoqifnvg.www.blog.test.naloxone.updatemy.website
 celltraveller.uke.de
 citrix.unicreditbank.ba
 click.e.unrefugees.org
+click.ubsarena-email.com
 click.uswsalvationarmy.org
 cloud2.ubona.com
 communitybuilding.unitedwaygcr.org
@@ -133,10 +135,12 @@ metamask.io.update-main-network.com
 migraatio.userix.fi
 mk.updateka.ru
 money-recognition.apps.uraki.dev
+my-api.ucom.am
 netflix.unreel.me
 news.uterque.com
 node0.reloadnetwork.uatfisprepaid.com
 noski-stafan.uaprom.net
+pagosweb.uct.cl
 ph1.usero.cn
 poradna.sandbox.ulekare.cz
 portaal-beta.universalvoice.nl
@@ -173,6 +177,7 @@ ufugaji.co.tz
 ukexpressdelivery.com
 ukids.uplus.co.kr
 ulsthai.com
+ultraeth.com
 ultrashippingcontainers.com
 umbrelnodes.com
 unarbokor.com
@@ -186,6 +191,7 @@ uniqueleaders.com.au
 unisign.no
 unitussecurity.com
 universeboss.net
+universedorse.com
 unnumelom.com
 untamedheartphotography.com
 upb.ac.id
