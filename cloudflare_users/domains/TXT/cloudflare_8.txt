@@ -375,6 +375,7 @@
 800002.xyz
 800003.xyz
 800004.xyz
+8000043232.xyz
 800005.xyz
 800005001.xyz
 800005616.com
@@ -772,6 +773,7 @@
 8005.app
 8005.buzz
 8005.com
+8005.cx
 8005.lol
 8005.nl
 8005.ovh
@@ -1549,7 +1551,6 @@
 800threads.com
 800timeshare.com
 800tm.cn
-800tn.com
 800tollfree.com
 800tollfreenumber.net
 800tollfreesales.com
@@ -2547,15 +2548,12 @@
 8026zzz.com
 8027.uk
 802700.com
-802708u.cyou
 80270blr.com
 80271blr.com
 80272442.xyz
 80272799.xyz
-8027333.com
 80274240.top
 8027469.com
-8027497.top
 80275.cn
 802756.com
 802756.vip
@@ -2569,7 +2567,6 @@
 8027yp.com
 8028.top
 8028.uk
-8028030.com
 802813.com
 802833.com
 802837.com
@@ -3651,6 +3648,7 @@
 8057023.vip
 805705.com
 80571.uk
+80572.cc
 805746.com
 805749.com
 80579.com
@@ -4225,7 +4223,6 @@
 8070tv.com
 8070yp.com
 807109.com
-80711.cc
 80711.cn
 807114.com
 8071331.com
@@ -4233,7 +4230,6 @@
 80717380.com
 8071yp.com
 8072.lol
-807207.com
 807223.com
 80725.vip
 80726986.xyz
@@ -4250,6 +4246,7 @@
 807342.com
 807344.com
 807349.com
+80735.xyz
 807354.com
 807358.com
 807364.com
@@ -4278,7 +4275,6 @@
 807429.com
 807444.com
 807458.com
-8075.cm
 8075.lc
 8075.tw
 8075.uk
@@ -4307,7 +4303,6 @@
 807630.com
 807634.xyz
 807639.com
-807647.com
 807654.uk
 80766.cc
 8076600.com
@@ -4548,6 +4543,7 @@
 8080433.xyz
 808048.com
 80805.biz
+80805.co
 8080607654.xyz
 80806600.com
 808068.xyz
@@ -4623,6 +4619,7 @@
 80811.cn
 80811.vip
 808114.cn
+808119.com
 80812.vip
 808123.xyz
 80812399.com
@@ -4962,6 +4959,7 @@
 808chat.org
 808christmas.com
 808cider.com
+808classifieds.com
 808clothing.com
 808co.ca
 808coins.com
@@ -5097,7 +5095,6 @@
 808moments.com
 808mopeds.com
 808motifdesigns.com
-808mountainblvd.com
 808mrj.com
 808mu.com
 808muzik.com
@@ -5144,7 +5141,6 @@
 808rico.com
 808rides.com
 808roadrage.com
-808roleplay.com
 808rollerskate.com
 808s.co.uk
 808sandcarshakes.com
@@ -5255,7 +5251,9 @@
 80900004223.xyz
 8090000546.xyz
 809000543121.xyz
+8090005546.xyz
 8090006531.xyz
+8090006765.xyz
 8090007677.xyz
 8090009.xyz
 8090009876.xyz
@@ -5273,6 +5271,7 @@
 809022.xyz
 8090222.com
 8090231435.xyz
+8090243574.xyz
 809025.com
 809026387.xyz
 809030.xyz
@@ -5686,6 +5685,7 @@
 80amjs.net
 80amxpj.com
 80and90.cn
+80ans-armeedelair.fr
 80ar.cn
 80archives.com
 80ardmore.com
@@ -6064,6 +6064,7 @@
 80jsjs.com
 80jslide.shop
 80jt.me
+80jtalented.shop
 80jtool.shop
 80jtrue.shop
 80jtumour.shop
@@ -6871,6 +6872,7 @@
 8101skyline.com
 8102.app
 8102.cm
+8102.cz
 81020.net
 810209.xyz
 81023.cn
@@ -7525,6 +7527,7 @@
 8118.ge
 8118.me
 8118.ovh
+8118.uk
 811804.com
 81181.app
 811811.com.cn
@@ -7548,6 +7551,7 @@
 8118688.com
 81187777.cn
 81188.com.cn
+81188.xyz
 81188118.com
 811889.xyz
 81188p.vip
@@ -7910,6 +7914,7 @@
 8125711.com
 8125712.com
 8125721.com
+8125736.com
 8125756.com
 8125763.vip
 812577.cc
@@ -8208,6 +8213,7 @@
 8135170.xyz
 8135215.com
 813526.com
+8135262.com
 813535.com
 81354.shop
 813546.com
@@ -8312,6 +8318,7 @@
 8139bet.com
 8139tom.com
 8139ttl.com
+813a.pw
 813a.tv
 813a4bf42d70.com
 813aa.tv
@@ -8320,6 +8327,7 @@
 813autodetail.com
 813av.com
 813az.com
+813b.pw
 813b.tv
 813bannerprinting.com
 813bb.tv
@@ -8332,6 +8340,7 @@
 813bvh.xyz
 813bxn.xyz
 813bxt.xyz
+813c.pw
 813c.tv
 813cai.com
 813cashbuyers.com
@@ -8341,6 +8350,7 @@
 813cf.com
 813ch.com
 813clothing.com
+813d.pw
 813d.tv
 813dd.tv
 813df.com
@@ -8352,20 +8362,24 @@
 813dxr.xyz
 813dxz.xyz
 813dzh.xyz
+813e.pw
 813e.tv
 813ee.com
 813ee.tv
 813eee.com
+813f.pw
 813f.tv
 813fbd.xyz
 813fdp.xyz
 813ff.tv
 813fnd.xyz
 813fooddelivery.com
+813g.pw
 813g.tv
 813game.cc
 813gg.tv
 813gv.com
+813h.pw
 813h.tv
 813hdb.xyz
 813help.com
@@ -8377,10 +8391,12 @@
 813hrj.xyz
 813htb.xyz
 813hz.com
+813i.pw
 813i.tv
 813ii.tv
 813inspections.com
 813j.com
+813j.pw
 813j.tv
 813jc.com
 813jdx.xyz
@@ -8392,10 +8408,12 @@
 813jpn.xyz
 813jxd.xyz
 813jzh.xyz
+813k.pw
 813k.tv
 813kk.com
 813kk.tv
 813kp.vip
+813l.pw
 813l.tv
 813lasheslips.com
 813lasheslipsbeauty.com
@@ -8416,12 +8434,14 @@
 813ltd.xyz
 813ltp.xyz
 813lzv.xyz
+813m.pw
 813m.tv
 813mail.com
 813manx.com
 813mm.live
 813mm.tv
 813mv.com
+813n.pw
 813n.tv
 813nn.com
 813nn.tv
@@ -8434,11 +8454,13 @@
 813ntv.xyz
 813nvz.xyz
 813nxp.xyz
+813o.pw
 813o.tv
 813ob.com
 813oo.com
 813oo.tv
 813ot.com
+813p.pw
 813p.tv
 813pay.com
 813pbl.xyz
@@ -8451,9 +8473,11 @@
 813pp.tv
 813prt.xyz
 813ptn.xyz
+813q.pw
 813q.tv
 813qq.com
 813qq.tv
+813r.pw
 813r.tv
 813rbp.xyz
 813replace.com
@@ -8468,6 +8492,7 @@
 813rxf.xyz
 813rxt.xyz
 813rzd.xyz
+813s.pw
 813s.tv
 813s0s.xyz
 813sales.com
@@ -8475,6 +8500,7 @@
 813software.com
 813ss.tv
 813sx.com
+813t.pw
 813t.tv
 813tdn.xyz
 813thb.xyz
@@ -8486,8 +8512,10 @@
 813tt.com
 813tt.tv
 813tzf.xyz
+813u.pw
 813u.tv
 813uu.tv
+813v.pw
 813v.tv
 813vbd.xyz
 813vdl.xyz
@@ -8502,11 +8530,13 @@
 813vv.tv
 813vvd.xyz
 813vx.com
+813w.pw
 813w.tv
 813wolf.site
 813writer.com
 813ww.tv
 813wx.com
+813x.pw
 813x.tv
 813xbp.xyz
 813xbt.xyz
@@ -8519,6 +8549,7 @@
 813xx.com
 813xx.tv
 813xzh.xyz
+813y.pw
 813y.tv
 813yabo.com
 813yd.com
@@ -8528,6 +8559,7 @@
 813yu.com
 813yy.com
 813yy.tv
+813z.pw
 813z.tv
 813zb.com
 813zbyd.com
@@ -8589,8 +8621,6 @@
 814342.com
 814345.com
 81435.cn
-81437.co
-814372.com
 814376.com
 8143a0d71185.com
 81440271.com
@@ -8613,8 +8643,6 @@
 8145.se
 8145.tw
 81450.cn
-8145038.com
-8145064.com
 8145080384.pics
 81452.cn
 814534.com
@@ -8627,12 +8655,9 @@
 81457.shop
 81458.buzz
 81459.in
-8145ks.tw
 8146.tw
 814600.com
-814606.com
 814618.com
-81462.site
 814628.com
 81463.com
 81463485.com
@@ -8656,7 +8681,6 @@
 81478.co
 81479.com.cn
 8148.app
-8148.top
 814814.xyz
 81482.co
 814822.com
@@ -9238,6 +9262,7 @@
 81654802.com
 8165545.com
 8165555.com
+8165595.com
 81656.cn
 81656.nl
 816563.com
@@ -9633,6 +9658,7 @@
 816zz.com
 816zzz.com
 817-hs.com
+817-jaggedapparel.com
 817.cm
 817.pl
 8170.xyz
@@ -10564,6 +10590,7 @@
 818sa.com
 818satan.com
 818sds.com
+818shangji.com
 818shops.com
 818si.com
 818sk.com
@@ -10571,6 +10598,7 @@
 818skateshop.com
 818sports.com
 818ss.com
+818store.com.br
 818store.top
 818su.com
 818sun.co
@@ -10943,6 +10971,7 @@
 819yabo.com
 819ysj.net
 819yt.com
+819yumeza.jp
 819yy.com
 819z.net
 819zz.com
@@ -11010,7 +11039,6 @@
 81bravo.com
 81burger.com
 81byerxu.cn
-81bz.com
 81c.com.cn
 81c.me
 81c1.bet
@@ -11415,8 +11443,10 @@
 81mpay.com
 81mpls.com
 81mpp.com
+81muth.com
 81mvp.xyz
 81mx.cc
+81n6.nl
 81nan.com
 81nasino.com
 81nassau.com
@@ -11440,6 +11470,7 @@
 81o277.com
 81o33pwa.com
 81o8gd8hf.com
+81od.com
 81oi.com
 81ok.com
 81ok88.com
@@ -12325,6 +12356,7 @@
 82179.cc
 821792.com
 8217tom.com
+8218.org
 821801.com
 82181.cc
 821811.com
@@ -12412,6 +12444,7 @@
 821jacarandadrive.com
 821jdvip.com
 821jj.com
+821joycasino.xyz
 821k.net
 821kp.vip
 821labs.com
@@ -12584,6 +12617,7 @@
 8222191.com
 8222193.com
 8222198.com
+82222.biz
 82222001.com
 8222201.co
 8222202.co
@@ -13364,12 +13398,9 @@
 8240mqem6u.xyz
 8240silvercircle.com
 8241.lc
-8241.pw
 8241.st
-8241.top
 824112.space
 8241331.com
-824143.com
 824156.com
 824198.com
 8241993.com
@@ -13379,8 +13410,6 @@
 82422975.cn
 82423.com
 824235.com
-82424.co
-82425.pt
 82425035.com
 824256.com
 824267.xyz
@@ -14747,6 +14776,7 @@
 82838.cc
 82838.vip
 828382.com
+828383.xyz
 8283ez.com
 8283jw.com
 8283tom.com
@@ -15754,7 +15784,6 @@
 82c32.com
 82c678anaxe4.top
 82c8c37e8f09.com
-82c9e.me
 82caa1c4d2df5c9f0fd2ec576dfec2d2.pw
 82caodd.com
 82cart.com
@@ -15825,7 +15854,6 @@
 82dy.top
 82dyj.com
 82dyw.com
-82dz.cn
 82dzj.com
 82e.com
 82e.com.cn
@@ -15838,9 +15866,7 @@
 82eda6kc.com
 82ee.net
 82ehnjsjje12-c.com
-82ejsk.tw
 82ekran.com
-82ela.live
 82engineering.com
 82eoq.com
 82ep6k.com
@@ -16658,6 +16684,7 @@
 83088.pw
 83088523.xyz
 830887.com
+830887.uk
 83088a.com
 83088app.com
 83088b.com
@@ -18060,6 +18087,7 @@
 834158.com
 83417.com
 83418.cz
+83418.tel
 83418341.com
 83418889.com
 8341car.com
@@ -19955,6 +19983,7 @@
 8388048b1f39.com
 838813.com
 838828.xyz
+83883.xyz
 838832.com
 838836.com
 838838.net
@@ -20836,6 +20865,7 @@
 83hp9.com
 83hq9.com
 83hthg.com
+83htqmn.vip
 83hu36g1kw.xyz
 83huawei.top
 83hukk.com
@@ -21176,6 +21206,7 @@
 83upeppqli.xyz
 83upn0.cn
 83ur0.xyz
+83uuu.com
 83uuuu.com
 83uv.com
 83uw.com
@@ -21645,6 +21676,7 @@
 8419.tv
 84193.cn
 841932.com
+8419609.xyz
 84197.com
 84198.cn
 84198.com
@@ -22322,6 +22354,7 @@
 84491.com
 84491100.com
 84491122.com
+84491144.com
 844913.com
 844915.com
 844917.com
@@ -22616,6 +22649,7 @@
 8453157903574.com
 845317.com
 845325.com
+8453256410.xyz
 845341.com
 845342.com
 845343.com
@@ -25248,6 +25282,7 @@
 84zf79nijrho.com
 84zfcchb.xyz
 84zfei.com
+84zgr.buzz
 84zh.nl
 84zjw025.cc
 84zk4t5.xyz
@@ -25288,6 +25323,7 @@
 850.la
 850.top
 850.tv
+850.vip
 8500.io
 8500.me
 8500.sg
@@ -25949,6 +25985,7 @@
 8516e.com
 8516k45.cn
 8516tom.com
+8517.cx
 8517.se
 8517011.com
 8517055.com
@@ -26320,6 +26357,7 @@
 85250.cz
 85251.cc
 85251.co
+8525125.vip
 8525168.com
 852518.xyz
 85252.maison
@@ -28138,6 +28176,7 @@
 85660610.com
 856607.com
 8566071.com
+85661.co
 8566122.com
 8566161.com
 85661a.com
@@ -28362,6 +28401,7 @@
 856963.net
 85697.space
 856971.top
+856979.xyz
 856980.top
 8569861.net
 8569869.com
@@ -28945,6 +28985,7 @@
 85810818.top
 858116.xyz
 85812.cc
+85812.in
 858124.com
 8581331.com
 8581333.com
@@ -29737,6 +29778,7 @@
 859areacode.com
 859av.com
 859avtt.com
+859betsl0.com
 859bvu.com
 859cai.com
 859cf.com
@@ -30606,6 +30648,7 @@
 85y7.live
 85y8.live
 85y9.live
+85yanke.com
 85ybyb.com
 85yc.cn
 85ye6t.cyou
@@ -30676,6 +30719,7 @@
 86.ms
 86.sy
 86.tn
+86.tv
 86.vin
 86.wf
 86.wtf
@@ -32520,9 +32564,7 @@
 8649808.com
 864994.com
 864aa.com
-864aaaa.com
 864ag.com
-864appxj.club
 864areacode.com
 864b.com
 864bb.com
@@ -32537,7 +32579,6 @@
 864de.hair
 864design.com
 864fumigaciones.com
-864gear.com
 864gg.com
 864i2813tt.online
 864ii.com
@@ -32546,7 +32587,6 @@
 864ledong.com
 864ll.com
 864manx.com
-864market.top
 864mm.com
 864mobilecigars.com
 864nn.com
@@ -32566,7 +32606,6 @@
 864trees.com
 864tt.com
 864ultralimpieza.com
-864vistagrande.com
 864vn.com
 864vv.com
 864vvv.com
@@ -32772,6 +32811,7 @@
 865551.com
 865553.com
 86556.uk
+86556.vip
 865563.com
 865567636911.com
 86557.cc
@@ -33245,6 +33285,7 @@
 8663b.com
 8663x.buzz
 8664.cc
+8664.cz
 8664.ee
 8664.live
 8664.pw
@@ -33263,6 +33304,7 @@
 866498.com
 8664destee.com
 8664hu.com
+8665.pw
 86650.shop
 8665125.com
 866513.com
@@ -33581,7 +33623,6 @@
 866zx.com
 866zz.com
 867-27th-ave.com
-867-zone.com
 867.cm
 867.flights
 867.lc
@@ -33835,6 +33876,7 @@
 867875.fun
 867879.com
 8678799.rest
+86788.xyz
 867881.xyz
 867883.com
 867885.com
@@ -34055,13 +34097,17 @@
 8683651.com
 86836555.com
 868366app.com
+868366i.com
+868366o.com
+868366p.com
+868366u.com
+868366y.com
 868369.uk
 86836a.com
 86836app.com
 86836b.com
 86836c.com
 86836d.com
-86836e.com
 86836f.com
 86836g.com
 86836j.com
@@ -34087,6 +34133,7 @@
 868462.com
 868484.com
 8684hu.com
+8685.cz
 8685.sg
 868505.com
 8685050.com
@@ -34239,6 +34286,7 @@
 868733.com
 868734.com
 868738.com
+868742.com
 86875.net
 86875.uk
 868750.com
@@ -34270,10 +34318,12 @@
 8688.site
 868808.com
 86881.cc
+86881.in
 86881.me
 86881.se
 8688118.com
 868817.com
+8688181.com
 86882.net
 8688225.com
 8688226.com
@@ -34538,6 +34588,7 @@
 86924.biz
 8692467.com
 86925.ca
+86925.cz
 86925.se
 8692571.com
 86926.se
@@ -34901,6 +34952,7 @@
 86aef4396fb2.com
 86af.us
 86after.com
+86ag.cc
 86agen.xyz
 86agent.com
 86ai.us
@@ -35400,7 +35452,6 @@
 86grandbetting.com
 86graus.com.br
 86gsxr.com
-86guide.cn
 86guide.com
 86gv.cc
 86gxjx.com
@@ -35475,7 +35526,6 @@
 86hz.net
 86hzw.cn
 86i.me
-86i.nl
 86i1u8t.buzz
 86i48.com
 86ia.cc
@@ -35681,6 +35731,8 @@
 86n05.us
 86n4u3t2.xyz
 86n5g.us
+86na.cc
+86nails.com
 86nbty.com
 86netsportv.com
 86neurons.com
@@ -36274,6 +36326,7 @@
 870539.cc
 870556.com
 8705588.com
+870559.com
 870575.cc
 870575.com
 870581.com
@@ -36663,6 +36716,7 @@
 8715y.xyz
 8715z.com
 8715z.xyz
+8716.cz
 8716.live
 87161.pw
 8716116.com
@@ -37019,7 +37073,6 @@
 872904027.club
 8729057.com
 872909.top
-87291.co
 87291yus92.xyz
 87292.co
 872931.com
@@ -37043,7 +37096,6 @@
 872az.com
 872b.com
 872b.nl
-872buckingham.com
 872cai.com
 872ch.com
 872d4hjmzcab.com
@@ -37715,6 +37767,7 @@
 875325.xyz
 875329.cc
 87533.nz
+875341.com
 875342.xyz
 875345.com
 875346.co
@@ -38450,6 +38503,7 @@
 876779.xyz
 87678.net
 87678.top
+87678.xyz
 876786546.xyz
 876789.co
 8767955.com
@@ -39660,6 +39714,7 @@
 87848.com.cn
 878485.com
 8784b2d.com
+8785.cz
 87850.cn
 87850.space
 87851.se
@@ -39714,13 +39769,11 @@
 878677.com
 87868.shop
 87868.vip
-87868618.com
 87869.biz
 87869.com
 878696.com
 8786972.com
 8786qp.com
-8787-tnl.com
 8787.city
 8787.co.il
 8787.fun
@@ -39743,7 +39796,6 @@
 878702.vip
 878703.vip
 878705.com
-878709.com
 87871.co
 87871.org.cn
 87871515.com
@@ -39815,8 +39867,11 @@
 878816.com
 87882.co
 87882222.cn
+878827.com
 87885.net
 87886.net
+87886.xyz
+8788656543.xyz
 8788666.com
 878867.com
 87886cp.com
@@ -40150,6 +40205,7 @@
 8795yzmk.top
 879603.xyz
 8796156.com
+8796165.com
 8796252a.com
 8796256.com
 879629.com
@@ -40291,6 +40347,7 @@
 8797vns.com
 8798.se
 8798.st
+8798004321.xyz
 8798045554.xyz
 879816.com
 879821.com
@@ -41213,6 +41270,7 @@
 87tee.com
 87tees.xyz
 87tfff.xyz
+87th.club
 87theraspa.com
 87thmerch.com
 87thstreetboutique.com
@@ -43288,6 +43346,8 @@
 881969.cc
 881969.com
 881970.com
+881972.cc
+881973.cc
 881974.cc
 881975.cc
 881977.cc
@@ -43903,7 +43963,6 @@
 88226600.com
 8822667.com
 882268.xyz
-88227.vip
 8822700.com
 8822701.com
 8822702.com
@@ -45570,39 +45629,26 @@
 884e.com
 884e.ro
 884ff.com
-884g.tv
 884game.com
 884games.com
 884gg.com
 884ghj.cyou
-884h.tv
 884hu.com
-884i.tv
-884j.tv
 884jdjdhtttfffddddf.buzz
 884joycasino.com
 884k.tv
 884kj.com
 884kkee.com
 884kp.vip
-884ku.com
-884l.tv
 884ledong.com
 884love.com
-884m.tv
 884m7s.cyou
 884mv.com
 884mxg.com
-884n.tv
 884nn.com
-884o.tv
 884ob.xyz
-884p.tv
 884pa.com
-884q.tv
-884r.tv
 884rr.com
-884s.tv
 884santarita.com
 884sp.club
 884sq.cn
@@ -45611,30 +45657,22 @@
 884tt.com
 884ttt.com
 884tu.com
-884u.tv
 884v.me
-884v.tv
 884wct.com
 884wu.com
-884x.tv
 884xmyp.com
-884y.tv
 884yabo.com
 884yy.com
 885-34thst.com
-885-han.com
 885.cm
-885.ee
 885.gg
 885.tw
-8850.cm
 88500.biz
 88500.xyz
 8850062.com
 8850067.com
 88500b.com
 8850227.com
-885025.com
 88503.xyz
 88505.net.cn
 885050.com
@@ -46377,6 +46415,7 @@
 8857.mobi
 8857.pw
 8857.tw
+885716.cc
 88572.co
 8857222.com
 8857227.com
@@ -46893,6 +46932,7 @@
 88659.men
 886595.com
 8865968.com
+8865968.xyz
 88659999.cn
 8865e.com
 8865qq.com
@@ -47159,7 +47199,6 @@
 8868068.com
 8868080.com
 88680gk.com
-88681.cn
 88681.com
 88681111.com
 88681208.com
@@ -47836,6 +47875,7 @@
 88770056.company
 8877007.com
 88770861.com
+88771.xyz
 8877126.com
 887715.com
 8877151.com
@@ -47855,6 +47895,7 @@
 8877199.com
 88771992.com
 88772.org
+88772.xyz
 88772017.com
 88772233.cn
 887725522.com
@@ -47869,6 +47910,7 @@
 8877268.com
 8877269.com
 88773.vip
+88773.xyz
 88773003.com
 8877309.com
 887731.vip
@@ -47888,6 +47930,7 @@
 88776.buzz
 88776.cc
 88776.uk
+88776.xyz
 8877612.com
 887762.com
 8877620.com
@@ -47936,6 +47979,7 @@
 88779.co
 88779.com.cn
 88779.uk
+88779.xyz
 887795.com
 8877950.com
 887798.cz
@@ -48696,7 +48740,6 @@
 888.world
 8880.cm
 8880.co
-8880.one
 8880.site
 8880.ws
 88800.club
@@ -48707,7 +48750,6 @@
 8880005.net
 8880005555.com
 888000888.cn
-888000k.vip
 888000kj.com
 888001.me
 888001.org
@@ -48991,6 +49033,7 @@
 8881919.cc
 88819333.cn
 8881956.com
+888198.cc
 8881gg.com
 8881hd.com
 8881jj.com
@@ -49288,6 +49331,7 @@
 88844.club
 88844.org
 88844.ru
+88844.xyz
 888440.vip
 888442.com
 888444000.com
@@ -49505,6 +49549,7 @@
 888609.cc
 888609.xyz
 88861.biz
+88861.in
 888610.xyz
 8886100.com
 8886123.com
@@ -49813,6 +49858,7 @@
 88875xpj.com
 88876.com
 88876.space
+88876.xyz
 8887628.com
 888763.net
 888766.space
@@ -49914,6 +49960,7 @@
 8888.sh
 8888.surf
 8888.td
+8888.tf
 8888.tg
 8888.uk.com
 8888.vip
@@ -50840,6 +50887,7 @@
 88890888.com
 888909.cc
 88890xpj.com
+88891.xyz
 88891138.cc
 888913.xyz
 888919.cn
@@ -51029,6 +51077,8 @@
 888app.info
 888app.me
 888app.net
+888app1.com
+888app2.com
 888appxpj.com
 888aq.com
 888ar.shop
@@ -51836,7 +51886,6 @@
 888gt.shop
 888gta5.xyz
 888gu.shop
-888gu7.com
 888guise.com
 888gxgx.com
 888gy.com
@@ -51972,20 +52021,17 @@
 888jinbi.com
 888jinbi.net
 888jinbi.org
-888jinzhu.com
 888jjj888.top
 888join.online
 888joycasino.com
 888joycasino.ru
 888joycasino.xyz
 888jp.net
-888jr.xyz
 888js1org.ga
 888jsgw.com
 888jsq.com
 888jsvip.com
 888jt.cn
-888judi.cc
 888judionline.com
 888jun.cn
 888junkyho.com
@@ -52019,7 +52065,6 @@
 888kazinozerkalo.site
 888kb.net
 888kbkb.com
-888kcq.com
 888ke.store
 888kefu.vip
 888keychain.xyz
@@ -52108,7 +52153,6 @@
 888ledong.com
 888legend.com
 888legend.net
-888letsexplore.com
 888lfc.com
 888lfg.com
 888lg.shop
@@ -52969,6 +53013,7 @@
 888xi.shop
 888xianxian.com
 888xiaoyouxi.com
+888xingwei.com
 888xj.cc
 888xjs.cc
 888xjs.net
@@ -53417,6 +53462,7 @@
 8895.live
 889505.com
 8895111.cc
+889514.com
 88951pa.com
 88952.co
 8895222.cc
@@ -53672,6 +53718,7 @@
 88988922.com
 88988cq.com
 88989.cz
+88989.xyz
 889893.com
 889895.pw
 889896.pw
@@ -55461,7 +55508,6 @@
 88ehw.com
 88ehy.com
 88ehz.com
-88eightyeights.com
 88eiybnl.top
 88ej.com
 88eker74bgvthfn8a2odc17c654sr2wj.info
@@ -56051,6 +56097,9 @@
 88hj68.com
 88hj8.com
 88hj99.com
+88hjc.life
+88hjc.org
+88hjc.xyz
 88hjd1.com
 88hjd2.com
 88hjd3.com
@@ -56236,6 +56285,7 @@
 88jinbi.com
 88jinbi.net
 88jinbi.org
+88jing88.com
 88jio.com
 88jj.vip
 88jj.xyz
@@ -60381,6 +60431,7 @@
 892453.com
 8924867.cn
 8924admin11.com
+8924d.buzz
 8924hu.com
 8924t39i20f7.com
 8925.live
@@ -60422,6 +60473,7 @@
 89266540095.ru
 892669.com
 89267.org
+8926798.xyz
 8926836xz.com
 8926837xz.com
 8926838xz.com
@@ -61208,6 +61260,7 @@
 8951026.com
 89512.net
 895124.live
+8951257.com
 89513-info.com
 8951331.com
 89513833555.sa.com
@@ -61429,6 +61482,7 @@
 89562021.xyz
 895623.xyz
 8956236.com
+8956257.vip
 8956267.com
 895627.com
 895628.vip
@@ -61460,6 +61514,7 @@
 8956743.com
 89567jdszc.com
 89568.xyz
+8956823.com
 895686.com
 8956871.vip
 8956875.com
@@ -61929,6 +61984,7 @@
 896731.com
 8967365.com
 89674.org
+896745.xyz
 896748.com
 896756-order-info.xyz
 89675645.xyz
@@ -62483,6 +62539,7 @@
 898090.vip
 898090.xyz
 898099.com
+89809aa.vip
 8981.fun
 8981.in
 8981.me
@@ -62598,6 +62655,7 @@
 89850543.com
 898512.com
 89852.xyz
+898520.com
 8985214.vip
 8985265.vip
 8985273.vip
@@ -62812,6 +62870,7 @@
 898923.cc
 8989299.com
 89892bet.com
+89893.in
 898933.vip
 8989360sun.com
 8989365.com
@@ -62991,6 +63050,7 @@
 8989wg.com
 8989x.com
 8989xx.com
+8989yqs.com
 8989yx.cn
 8989zbapp.com
 898ab.com
@@ -63297,6 +63357,7 @@
 899876.com
 899877.cc
 899879.com
+89988.xyz
 899881.com
 899882.com
 899885.cc
@@ -64711,6 +64772,7 @@
 8a8nwo9yui.com
 8a8qp.com
 8a8ty.com
+8a8u5.com
 8a8x.com
 8a91.com
 8a983.com
@@ -65204,12 +65266,10 @@
 8avmcj.com
 8avn.com
 8avns.com
-8avv7x.com
 8avz.com
 8avz.info
 8avz.net
 8awake.com
-8awcp.com
 8awd1.cc
 8awd10.cc
 8awd2.cc
@@ -65265,7 +65325,6 @@
 8b.com
 8b.fit
 8b.io
-8b.mg
 8b.pw
 8b.sg
 8b.sk
@@ -66169,6 +66228,7 @@
 8bp.de
 8bp4b086.xyz
 8bpd.com
+8bpecf59ct75.top
 8bplus.com
 8bpool.xyz
 8bptaf.cc
@@ -67563,11 +67623,9 @@
 8dhll.xyz
 8dhmhw.live
 8dhost.com
-8dhouc.shop
 8dhp.com
 8dhyw.top
 8dhz7i.com
-8di4d5.com
 8diagram.com
 8diagram.studio
 8diamondcourt.com
@@ -67595,8 +67653,6 @@
 8digits.nl
 8digu.com
 8dijital.com
-8dimagrimento.club
-8dimen.net
 8dimension8.com
 8dimensionalleader.com
 8dimensionalleadership.com
@@ -67605,7 +67661,6 @@
 8dimentions.com
 8dingbo.com
 8dio.com
-8dir.us
 8directions.in
 8disc.com
 8discos.digital
@@ -67620,11 +67675,9 @@
 8dizhi.com
 8dizyu.xyz
 8dj.de
-8dj1nt.shop
 8dj32krzmunh.top
 8dj66u.cyou
 8dj8.vip
-8dj8qw.cyou
 8djcbi.top
 8djcp.cc
 8djfhbgdjfg8.monster
@@ -67632,21 +67685,17 @@
 8djhfjgdfg8.monster
 8djj.com
 8djm.com
-8djmwm.tw
 8djrguh.com
 8djxe2p.tokyo
 8dk2.com
 8dk3.com
 8dk4.com
 8dk5.com
-8dk7.cn
 8dkfbdkgfg8.monster
-8dkfbgdkfg8.monster
 8dkfbgjkd8.monster
 8dkjfkgdfg88.monster
 8dkn1zo.tokyo
 8dkrfy.net
-8dksz5.tw
 8dku4psm.cc
 8dkylo.com
 8dl.net
@@ -67744,6 +67793,7 @@
 8dps.com
 8dpth8.cyou
 8dpunjabisongs.com
+8dpyrrl.vip
 8dq7sp.com
 8dqgsh.tokyo
 8dqk8.us
@@ -67830,6 +67880,7 @@
 8duizhelu.com
 8dujcrt2ugyf.fun
 8dujhr.info
+8duk27gqs.vip
 8duo.link
 8duozo.club
 8dushu.com
@@ -68725,11 +68776,9 @@
 8fc3t7b7s6k3.top
 8fc56.com
 8fca.co.uk
-8fcc.com
 8fccaz.com
 8fcdf6.buzz
 8fcht.live
-8fckgs.tw
 8fcsy0.cyou
 8fcwcp.com
 8fd.com.cn
@@ -70000,6 +70049,7 @@
 8hbo.club
 8hbo.site
 8hbq4.cn
+8hbvfk1v.com
 8hbx3x.cyou
 8hc.co.uk
 8hc6.com
@@ -70974,6 +71024,7 @@
 8jewelry.xyz
 8jeyq8.cyou
 8jezu.us
+8jf36.buzz
 8jfebt.com
 8jfegx.tw
 8jfso3.cyou
@@ -71025,6 +71076,7 @@
 8jihg.com
 8jiim4d.cn
 8jiong.com
+8jisu.com
 8jiuyb.com
 8jiyy.com
 8jiznei.ru
@@ -71543,6 +71595,7 @@
 8kege.com
 8keid8.tokyo
 8kejtu.tw
+8kek.com
 8kelly.cn
 8ken.biz
 8kenergie.com
@@ -71555,6 +71608,7 @@
 8ketocyclet.sa.com
 8ketocyclex.ru.com
 8ketocyclex.sa.com
+8ketodiet-official.tech
 8ketoslimp2022.ru.com
 8ketoslimq2022.ru.com
 8keverest.com
@@ -71703,6 +71757,7 @@
 8km4bhh.cyou
 8kmail.net
 8kmarketing.com
+8kmbrshop.cc
 8kmcg6.cyou
 8kmee.com
 8kmf7sc2.com
@@ -72549,6 +72604,8 @@
 8ma130.com
 8ma131.com
 8ma132.com
+8ma133.com
+8ma134.com
 8ma3m.cc
 8ma9qr.cyou
 8maaakg73a.com
@@ -72766,6 +72823,8 @@
 8mei78.xyz
 8mei80.xyz
 8mei81.xyz
+8mei83.xyz
+8mei84.xyz
 8mei9.xyz
 8meidy.com
 8mekogtv.com
@@ -72787,7 +72846,6 @@
 8meta.info
 8meta.live
 8meta.org
-8meta.pw
 8meta.tv
 8metaballs.io
 8metaverse.club
@@ -75303,6 +75361,7 @@
 8rcashmotorsports.com
 8rcdro.com
 8rcfrz.com
+8rcjf7h.vip
 8rcmocw.tokyo
 8rcud1v.com
 8rcvgyta3.site
@@ -75760,12 +75819,11 @@
 8sb.com
 8sb713.cc
 8sb8pg.cyou
+8sbdjfsdf88.monster
 8sbf2kc9.com
 8sbfjhsf88.monster
 8sbgw.me
-8sbh7rxs.xyz
 8sbknt.com
-8sbmzh.tw
 8sbobet8.com
 8sbopoker.com
 8sbopoker.net
@@ -75778,7 +75836,6 @@
 8sbzp2.com
 8sc1rk.cyou
 8sc38.us
-8sc5w2.xyz
 8scapehealing.com
 8scezh.cyou
 8school.com.cn
@@ -76007,6 +76064,7 @@
 8skj.com
 8skjdbfjksdf8.monster
 8skjdbfsdf.work
+8skjdnkfsdf88.monster
 8sku.com
 8sky-fm.ru
 8sky247.com
@@ -76535,6 +76593,7 @@
 8ternitysales.com
 8terry7.online
 8tests.com
+8tetev.com
 8tez.com
 8tf.de
 8tf62.space
@@ -76649,7 +76708,6 @@
 8thgatejiujitsu.com
 8thgear.racing
 8thgearpartners.com
-8thgen-hondamarketchile.com
 8thgencivicsi.com
 8thgeneration.com.au
 8thgenerationvineyard.com
@@ -77001,6 +77059,7 @@
 8tube.xxx
 8tubegalore.com
 8tubehd.com
+8tubfx0.id
 8tudfshop.cc
 8tuffbeers.com
 8tuk.xyz
@@ -77390,7 +77449,6 @@
 8uih31.xyz
 8uihqj.icu
 8uikjh.bar
-8uilder.com
 8uineono13.com
 8uineono13.xyz
 8uit.cat
@@ -77666,6 +77724,7 @@
 8v5555.com
 8v55t2gc.com
 8v569.com
+8v57axjy9.net
 8v588.com
 8v5b7.top
 8v5c.com
@@ -78219,6 +78278,7 @@
 8waveswithchristine.com
 8way.org
 8ways.hu
+8ways2spend.com
 8waysin8days.com
 8waystofinance.com
 8waystosupportdei.com
@@ -78890,6 +78950,7 @@
 8x2yus.xyz
 8x2z.com
 8x3.buzz
+8x3.top
 8x30.xyz
 8x3008.com
 8x3008x.com
@@ -79091,6 +79152,7 @@
 8x5.buzz
 8x5.net
 8x5.ru
+8x5.top
 8x50.com
 8x50.xyz
 8x5008x.com
@@ -80285,6 +80347,7 @@
 8xek.com
 8xekap.xyz
 8xekeq.com
+8xekqzf.id
 8xekta.vip
 8xelht.com
 8xem.buzz
@@ -80488,6 +80551,7 @@
 8xflix.club
 8xflix.co
 8xflix.com
+8xflix.cool
 8xflix.cyou
 8xflix.in
 8xflix.info
@@ -81259,6 +81323,7 @@
 8xmes.xyz
 8xmetalworks.com
 8xmf.com
+8xmf.space
 8xmfe.xyz
 8xmfh.xyz
 8xmfw.xyz
@@ -81804,7 +81869,6 @@
 8xswsp.com
 8xsxkl.xyz
 8xsys.com
-8xszs.com
 8xt.buzz
 8xt0kj.cyou
 8xt1.cc
@@ -82972,6 +83036,7 @@
 8yw0y.com
 8yw54.us
 8ywg.com
+8ywg438p.cfd
 8ywhb1pk.cc
 8ywig08icm.xyz
 8ywk2d.cyou
@@ -83062,6 +83127,7 @@
 8z3ff.asia
 8z3jl7.cyou
 8z3jvb.tokyo
+8z3s5v2z.cc
 8z3sn.vip
 8z3w.com
 8z3y.com
@@ -83509,11 +83575,11 @@
 8zy8ds.cyou
 8zya1.com
 8zyb2.us
-8zybc.com
 8zyd.com
 8zye.com
 8zyg.com
 8zykl.com
+8zymny8.vip
 8zyn.com
 8zyq.com
 8zyr.com
@@ -83521,7 +83587,6 @@
 8zyv.com
 8zyw.cn
 8zyy.com
-8zyytl.top
 8zyyzc.com
 8zyyzsr.tokyo
 8zz.top
