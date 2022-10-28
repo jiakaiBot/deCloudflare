@@ -35,6 +35,7 @@ cpcontacts.trustwallet.qpoe.com
 demo.questsec.com
 eu.questionpro.de
 exchange.qualysoft.com
+gitlab.git.git.gitlab.git.gitlab.sitemap.qualshop.online
 godyno.direct.quickconnect.to
 helpdesk.quality-partner.be
 identityverify-wellsfargo.quantumtraveltowers.com.au
