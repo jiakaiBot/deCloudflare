@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,190 |
+| com | 3,191 |
 | net | 1,758 |
 | org | 1,235 |
-| social | 1,215 |
+| social | 1,216 |
 | de | 1,047 |
 
 
@@ -1603,6 +1603,7 @@ Here's a list of public Fediverse services.
 | azurs.fr | No |
 | azyobuzi.net | No |
 | b--n.net | No |
+| b-c.social | Yes |
 | b-root-force.de | No |
 | b-shock.org | No |
 | b00bl1k.ru | Yes |
@@ -12597,6 +12598,7 @@ Here's a list of public Fediverse services.
 | monsieurbidouille.fr | No |
 | monsiteinternet.org | No |
 | monsterfuckers.online | No |
+| monstergirl.space | No |
 | monsterpit.blog | No |
 | monsterpit.gallery | No |
 | monsterpit.net | No |
@@ -16704,6 +16706,7 @@ Here's a list of public Fediverse services.
 | roshless.me | No |
 | rosnovsky.us | Yes |
 | ross154.net | No |
+| rosseaux.com | No |
 | roter-kreis.de | No |
 | roteserver.de | No |
 | rotten.city | No |
@@ -22236,8 +22239,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,497 |
-| Normal | 17,696 |
+| Cloudflare | 4,498 |
+| Normal | 17,698 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
