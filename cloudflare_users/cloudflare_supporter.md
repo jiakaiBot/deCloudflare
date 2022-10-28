@@ -3405,6 +3405,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hoang49488616@twitter](https://twitter.com/Hoang49488616/status/1564519430385590272) | advertise |
 | [hoang62211862@twitter](https://twitter.com/hoang62211862/status/1532027792228962305) | advertise |
 | [Hoang63923946@twitter](https://twitter.com/Hoang63923946/status/1405016723959390210) | advertise |
+| [hoangbach_gg@twitter](https://twitter.com/hoangbach_gg/status/1585869309837946880) | advertise |
 | [HOANGCHIBAO2@twitter](https://twitter.com/HOANGCHIBAO2/status/1395425087004626945) | advertise |
 | [Hoangchoke@twitter](https://twitter.com/Hoangchoke/status/1553045085960699905) | advertise |
 | [HoangDa48374700@twitter](https://twitter.com/HoangDa48374700/status/1396509053484900356) | advertise |
@@ -5307,6 +5308,7 @@ Do not create new issue or we will close it as duplicate.
 | [Live1xSlot@twitter](https://twitter.com/Live1xSlot/status/1419205739466280960) | advertise |
 | [livecountsnl@twitter](https://twitter.com/livecountsnl/status/1563512113221742592) | advertise |
 | [live_techy@twitter](https://twitter.com/live_techy/status/1377628619380510730) | advertise |
+| [livingstaccato@twitter](https://twitter.com/livingstaccato/status/1585867639553163265) | advertise |
 | [Livvux@twitter](https://twitter.com/Livvux/status/1479984215001292801) | advertise |
 | [LiWei69201004@twitter](https://twitter.com/LiWei69201004/status/1396636978976673793) | advertise |
 | [liximo_tong@twitter](https://twitter.com/liximo_tong/status/1471389167112228864) | advertise |
@@ -7928,6 +7930,7 @@ Do not create new issue or we will close it as duplicate.
 | [rd8719@twitter](https://twitter.com/rd8719/status/1548813349982437378) | advertise |
 | [Rdd25036476@twitter](https://twitter.com/Rdd25036476/status/1556404502739181568) | advertise |
 | [rdkqft@twitter](https://twitter.com/rdkqft/status/1380426512503959558) | advertise |
+| [ReactPepe@twitter](https://twitter.com/ReactPepe/status/1585868164029714432) | advertise |
 | [RealAnasAhmed11@twitter](https://twitter.com/RealAnasAhmed11/status/1407410579015307269) | advertise |
 | [realbillykaren@twitter](https://twitter.com/realbillykaren/status/1498397413828186112) | advertise |
 | [realcompi@twitter](https://twitter.com/realcompi/status/1553859636964605953) | advertise |
