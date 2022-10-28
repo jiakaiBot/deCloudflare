@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [error Updating state for light.color_temperature](https://github.com/home-assistant/addons/issues/2728)
 - [Error occured, please check your internet connection](https://github.com/freescout-helpdesk/freescout/issues/2352)
 - [FP on CloudFlare __cf_bm cookies.](https://github.com/coreruleset/coreruleset/issues/2879)
 - [Cloudflare error on Colab](https://github.com/ebolam/KoboldAI/issues/248)
