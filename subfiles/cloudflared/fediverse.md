@@ -1412,6 +1412,7 @@ Here's a list of public Fediverse services.
 | astroport.com | No |
 | astrox.xyz | No |
 | astrr.ru | Yes |
+| astrra.space | Yes |
 | asukuru.com | No |
 | asuscomm.com | No |
 | asutodon.tokyo | No |
@@ -22241,7 +22242,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,499 |
+| Cloudflare | 4,500 |
 | Normal | 17,699 |
 
 
