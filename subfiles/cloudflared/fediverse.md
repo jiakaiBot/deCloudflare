@@ -8376,6 +8376,7 @@ Here's a list of public Fediverse services.
 | `hummertje.nl` | No |
 | `humoralpathologie.de` | No |
 | `hun73r.xyz` | No |
+| `hund.schule` | No |
 | `hungryhacker.com` | Yes |
 | `hunk.city` | No |
 | `hunterjozwiak.com` | No |
@@ -22508,7 +22509,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,534 |
-| Normal | 17,930 |
+| Normal | 17,931 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
