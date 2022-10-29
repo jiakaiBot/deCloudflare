@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,206 |
 | net | 1,771 |
 | org | 1,246 |
-| social | 1,221 |
+| social | 1,222 |
 | de | 1,106 |
 
 
@@ -1209,6 +1209,7 @@ Here's a list of public Fediverse services.
 | `aragon.sh` | Yes |
 | `araisan.club` | No |
 | `arakawa.xyz` | No |
+| `arasaka.vip` | No |
 | `arashi.news` | No |
 | `arathe.net` | No |
 | `arbitrarion.com` | No |
@@ -3522,6 +3523,7 @@ Here's a list of public Fediverse services.
 | `comm.cx` | Yes |
 | `comm.ie` | No |
 | `comm.network` | No |
+| `comm.social` | No |
 | `commander1024.de` | No |
 | `commandercog.com` | Yes |
 | `common.se` | No |
@@ -22415,7 +22417,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,509 |
-| Normal | 17,862 |
+| Normal | 17,864 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
