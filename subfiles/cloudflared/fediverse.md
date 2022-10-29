@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,221 |
-| net | 1,776 |
-| org | 1,250 |
-| social | 1,234 |
+| com | 3,220 |
+| net | 1,775 |
+| org | 1,251 |
+| social | 1,235 |
 | de | 1,113 |
 
 
@@ -1263,7 +1263,6 @@ Here's a list of public Fediverse services.
 | `ariela.jp` | Yes |
 | `arint.me` | Yes |
 | `ariona.fr` | No |
-| `ariscard.eu` | Yes |
 | `arisu.fr` | No |
 | `ariswanto.web.id` | Yes |
 | `arith.jp` | No |
@@ -7607,6 +7606,7 @@ Here's a list of public Fediverse services.
 | `guizzyordi.info` | No |
 | `guldner.eu` | Yes |
 | `gulp.cafe` | No |
+| `gultsch.social` | No |
 | `gummipunkt.eu` | No |
 | `gumonji.live` | No |
 | `gundan.es` | No |
@@ -7986,7 +7986,6 @@ Here's a list of public Fediverse services.
 | `herballemon.com` | No |
 | `herbimarquez.com` | No |
 | `herbstschild.de` | No |
-| `hercsi.com` | No |
 | `herds.eu` | No |
 | `here.blue` | No |
 | `here.my` | No |
@@ -13383,7 +13382,6 @@ Here's a list of public Fediverse services.
 | `nasqueron.org` | No |
 | `nastub.cz` | Yes |
 | `nasustim.com` | No |
-| `nasz.blog` | No |
 | `nat.cu` | No |
 | `natachatomkinson.co.uk` | No |
 | `natalie.ee` | No |
@@ -17111,6 +17109,7 @@ Here's a list of public Fediverse services.
 | `sage.school` | No |
 | `sagefather.tv` | Yes |
 | `sagephoenix.org` | No |
+| `sager.wang` | Yes |
 | `sagt.xyz` | No |
 | `sahagyo.com` | No |
 | `sahilister.in` | No |
@@ -18869,6 +18868,7 @@ Here's a list of public Fediverse services.
 | `suv.id.au` | No |
 | `suvpen.com` | No |
 | `suwa3.me` | No |
+| `suwerenni.org` | No |
 | `suzu.eu.org` | No |
 | `suzume.life` | No |
 | `suzumiya.moe` | No |
@@ -19435,7 +19435,6 @@ Here's a list of public Fediverse services.
 | `theautisticobserver.com` | No |
 | `theawakenedcollective.nl` | No |
 | `theawkwardhillgang.net` | No |
-| `thebackupbox.net` | No |
 | `thebadgers.live` | No |
 | `thebag.social` | No |
 | `thebeeches.house` | No |
@@ -22509,7 +22508,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,534 |
-| Normal | 17,931 |
+| Normal | 17,930 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
