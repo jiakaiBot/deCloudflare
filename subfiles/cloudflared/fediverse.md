@@ -16957,7 +16957,7 @@ Here's a list of public Fediverse services.
 | `rtsemissions.ch` | No |
 | `rtter.com` | Yes |
 | `rtwebb.com` | No |
-| `rtx3070kure.net` | Yes |
+| `rtx3070kure.net` | No |
 | `ru.social` | No |
 | `rubber.social` | No |
 | `rubber.zone` | No |
@@ -18207,6 +18207,7 @@ Here's a list of public Fediverse services.
 | `socivitas.com` | No |
 | `socks.town` | No |
 | `sockspls.social` | No |
+| `socl.bz` | No |
 | `socl.sbs` | Yes |
 | `socl.win` | No |
 | `socnet.eu` | No |
@@ -22509,8 +22510,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,536 |
-| Normal | 17,930 |
+| Cloudflare | 4,535 |
+| Normal | 17,932 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
