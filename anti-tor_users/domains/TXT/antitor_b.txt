@@ -250,6 +250,7 @@ actualisatiesformulierveilig.web8856.web07.bero-webspace.de
 ad.benagilcaves.com
 admin.borneodelivery.com
 admtm.btc2.vip
+agate-api.bcafinance.co.id
 airtame-app.b-cdn.net
 aistudio.boozallencsn.com
 alertmanager.prod.mzg.bestbytes.net
@@ -278,6 +279,7 @@ api.dev.boom-api.nl
 api.mail.kunden.burgeins.de
 api.test.boom-api.nl
 api.uat.bill360.com
+api.users.bonneville.com
 apijkn.bpjs-kesehatan.go.id
 app-api.tms.blujaysolutions.net
 app.1inch.boltboxhosting.com
@@ -356,6 +358,7 @@ bartoszadamiak.pl
 baru-design.com
 bass.co.id
 baswstudynotes.com
+batallador.es
 batidospichincha.online
 baton.ua
 baykimya.com.tr
@@ -427,7 +430,9 @@ billsimon.ml
 billundfodpleje.dk
 billycup.com
 billyehrlacher.com
+billynicholsaz.com
 binamakmursafety.com
+biocontrol.pt
 bioctava.cl
 biographon.guru
 biolyfecbd.net
@@ -478,6 +483,7 @@ bmsmedicalsolutions.com
 bnbgiveme.com
 bnc.ca
 bnidirect.bni.co.id
+bninnovativesecurity.co.za
 bnz-auth.com
 boacheeb.com
 boagotinha.online
@@ -496,6 +502,7 @@ booking4night.com
 boomcarservice.ro
 borupost.dk
 bostonsecurity.net
+bottegafashionitaly.gr
 bottomlesdisc.com
 bou.com.ua
 boustahe.com
@@ -504,7 +511,9 @@ box.buffyverse.fr
 bpkcdn03.bheem.tv
 bpos.bni-life.co.id
 bprlogin.com
+braincube.in
 braveart.scot
+brdlandscape.com
 breakthroughfunding.co.uk
 brethren-jp.com
 brewpublic.com
@@ -545,6 +554,7 @@ burlesontxtreeservice.com
 burnsidebluesband.top
 busanfamily.kr
 busfor.ua
+businessfacilitations.com
 businezzbooster.be
 buslive.bharatbenz.com
 busworldnorthamerica.org
@@ -557,6 +567,7 @@ caisaomar.business.site
 campusinternational.brightspace.com
 cards.barclaycardus.com
 carrefour.banmining.com
+cases.byenscomputerservice.dk
 cashpad-prod.betc.fr
 cdn2.bitwiseglobal.com
 charts.billboard.it
@@ -665,11 +676,13 @@ git.gitlab.git.gitlab.link.bodynoisedrop.store
 git.gitlab.gitlab.git.git.link.bodynoisedrop.store
 git.gitlab.gitlab.gitlab.git.members.biopen.club
 gitlab.git.git.git.blockchainpro.dev
+gitlab.git.gitlab.gitlab.git.amazon.recommerce.beeline.moscow
 gitlab.gitlab.git.git.git.git.gitlab.link.bodynoisedrop.store
 gitlab.gitlab.git.git.git.link.bodynoisedrop.store
 gitlab.gitlab.gitlab.git.git.link.bodynoisedrop.store
 gitlab.gitlab.gitlab.git.gitlab.link.bodynoisedrop.store
 gitlab.gitlab.gitlab.gitlab.authsmtp.burstcolouroven.pw
+gitlab.gitlab.gitlab.gitlab.dev.amazon.recommerce.beeline.moscow
 giv-dev.blockchaincloudapps.com
 global.api.betradar.com
 gmail01.brodiecompanies.com
@@ -770,6 +783,7 @@ owa.bev.bund.de
 p2p-product-configuration-service.test.odm.bmw-fleet.net
 page.billcasehenterprise.com.my
 particuliers-connexion.bradpickett.xyz
+pcc.police.gov.bd-x.in
 pgateway.bvl.bund.de
 phpmyadmin.login.biletos.com
 pilot1-admin.chb.it.bund.de
@@ -806,6 +820,7 @@ protecciond2.b2clogin.com
 proxy1c.bronevik-5760-captcha-guest-order-php8.stg2.bronevik.space
 pt.blockchainlock.com
 pubgm.brlmo.ml
+qa04-cards.barclaycardus.com
 qaservices.biodiagnostics.net
 r-e-v-i-s-t-a-198526.blogspot.com
 rab.basingstoke.gov.uk
@@ -844,6 +859,7 @@ servicemesincuci.batam.cc
 services.bigrocksports.com
 services.bleeched.co.uk
 servicesqa.berkadia.com
+servicios.bomberoscunco.cl
 setb.hb.bizmrg.com
 sfrankelgroup.bmetrack.com
 sicemechangerequest-58803-ruby.58803.dev.ap-southeast-1.aws.svc.builder.cafe
@@ -883,6 +899,7 @@ taxntago-jp.b82n0qi.cn
 techb2bsolutions.bmetrack.com
 teman.bbtdev.my.id
 tepat-ib.btpnsyariah.com
+termbreach3citizens.blogdns.org
 test.brikkesys.no
 test.brix.com.tw
 test13.gsb.bund.de
@@ -954,6 +971,7 @@ willowdevb2c.b2clogin.com
 willyjhons.billfixers.net
 wkmtestdevb2c.b2clogin.com
 wl.bronevik-5760-captcha-guest-order-php8.stg.bronevik.space
+wservices.bncr.fi.cr
 wsuat.brandsafway.com
 ww01.ww88-corp.data-account-archive.developer.bkex.io
 ww16.mx.bancofallabela.com
@@ -995,6 +1013,7 @@ www.banquezitouna.com
 www.bapz.fr
 www.barnaspersonligeverden.no
 www.bartleby.com
+www.baua.de
 www.bayiliknoktasi.tk
 www.bayjournal.com
 www.baystars.co.jp
@@ -1002,6 +1021,7 @@ www.bazarf.com
 www.bazhoujw.gov.cn
 www.bbconference.com
 www.bblexmoveis.com
+www.bbosolutions.com
 www.bbva.es
 www.bbvanetcash.com
 www.bdsecurity.com.bd
@@ -1046,6 +1066,7 @@ www.billshalfprice.com
 www.billstotaltree.com
 www.billygreengames.com
 www.billyhibler.realtor
+www.billynicholsaz.com
 www.billyplay.nl
 www.biltema.se
 www.bimmerfile.com
@@ -1064,6 +1085,7 @@ www.blika.com
 www.blockchainserver.online
 www.blockdit.com
 www.blogbm4financas.com
+www.blogfrei.de
 www.bluea.co.uk
 www.blueappleelectric.com
 www.bluefoot.ai
@@ -1093,6 +1115,7 @@ www.botasdevinojb.com
 www.boursier.com
 www.bperlogin.com
 www.brandlogg.com
+www.brandstein-smartservice.de
 www.braun-spezialist.de
 www.bri.co.id
 www.broadreachconsulting.co.ke
@@ -1104,6 +1127,7 @@ www.buckheadsafety.org
 www.buddhanet.world
 www.budget.com
 www.buildaspacustomersupport.co.uk
+www.buontalenticappelliniorlando.edu.it
 www.businezzbooster.be
 www.buyemp.com
 www.buyglucoberry.com
@@ -1113,6 +1137,7 @@ www.bvb.ro
 www.bwicomms.com
 www.byrdie.com
 www.c9n8010pk7jdms1lvbbg.accounting.brillianit.com
+www.cases.byenscomputerservice.dk
 www.contact.bbafinacialservices.com
 www.contact.bicobi.co
 www.core.bookingfasttrack.com
@@ -1160,6 +1185,7 @@ www.gitlab.gitlab.gitlab.git.xxx.bankiras.ru
 www.gitlab.gitlab.gitlab.gitlab.git.xxx.bankiras.ru
 www.gitlab.gitlab.gitlab.gitlab.gitlab.git.xxx.bankiras.ru
 www.joereport.breakingnewsupdate.com.ng
+www.jt.support.binshihonco.com
 www.junxiong.bscfyp2022.xyz
 www.justgetadmission.balajieduservice.net.in
 www.kediripay.bankdaerahkabkediri.com
