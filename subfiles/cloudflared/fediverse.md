@@ -21979,6 +21979,7 @@ Here's a list of public Fediverse services.
 | `xxx-en.com` | No |
 | `xxxporn.co.uk` | No |
 | `xxxtumblr.org` | No |
+| `xxxxxxxxxx.xxx` | No |
 | `xxyyzzy.club` | No |
 | `xy-space.de` | No |
 | `xy.ag` | No |
@@ -22493,7 +22494,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,529 |
-| Normal | 17,920 |
+| Normal | 17,921 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
