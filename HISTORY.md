@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-10-29: [Elevated number of HTTP 4xx & 5xx errors in Seattle](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gnlsckfbkb6t)
 - 2022-10-28: [Network instability in Seattle](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5v9kxlt5pwzc)
 - 2022-10-28: [Cached content issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rgwh8bl1zrkv)
 - 2022-10-28: [Cloudflare Zero Trust: Gateway Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gxxnzqwnh8rv)
