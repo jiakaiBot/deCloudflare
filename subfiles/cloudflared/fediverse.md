@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,771 |
 | org | 1,246 |
 | social | 1,220 |
-| de | 1,104 |
+| de | 1,106 |
 
 
 - Mastodon, Pleroma, etc
@@ -18071,6 +18071,7 @@ Here's a list of public Fediverse services.
 | `socia.dev` | No |
 | `social-net.fr` | No |
 | `social-u.tokyo` | No |
+| `social-wahn.de` | No |
 | `social.archi` | No |
 | `social.as` | Yes |
 | `social.bzh` | No |
@@ -18803,6 +18804,7 @@ Here's a list of public Fediverse services.
 | `svenbrier.de` | No |
 | `svenbrier.eu` | No |
 | `svenmasuhr.de` | No |
+| `svenwal.de` | No |
 | `svij.org` | No |
 | `svkt.eu` | No |
 | `svnet.fr` | No |
@@ -22411,7 +22413,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,510 |
-| Normal | 17,857 |
+| Normal | 17,859 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
