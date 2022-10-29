@@ -1403,6 +1403,7 @@ Do not create new issue or we will close it as duplicate.
 | [bnh13684640@twitter](https://twitter.com/bnh13684640/status/1552714766829105153) | advertise |
 | [bnhnguy10869985@twitter](https://twitter.com/bnhnguy10869985/status/1556859719465472002) | advertise |
 | [Bo24354593@twitter](https://twitter.com/Bo24354593/status/1404093711986827266) | advertise |
+| [Bo50994020@twitter](https://twitter.com/Bo50994020/status/1586130148004622337) | advertise |
 | [Bo90364251@twitter](https://twitter.com/Bo90364251/status/1392359546568417281) | advertise |
 | [BoAnhTr03352901@twitter](https://twitter.com/BoAnhTr03352901/status/1552956517108051968) | advertise |
 | [BoAungDin888@twitter](https://twitter.com/BoAungDin888/status/1406574801402093572) | advertise |
@@ -1877,8 +1878,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2374,6 +2375,7 @@ Do not create new issue or we will close it as duplicate.
 | [DucNguy17484873@twitter](https://twitter.com/DucNguy17484873/status/1577371114346774528) | advertise |
 | [Ducongluat1@twitter](https://twitter.com/Ducongluat1/status/1387339273892876290) | advertise |
 | [Ducvu1212@twitter](https://twitter.com/Ducvu1212/status/1552367108843241472) | advertise |
+| [dudapahe@twitter](https://twitter.com/dudapahe/status/1586234780836061184) | advertise |
 | [due_troi@twitter](https://twitter.com/due_troi/status/1573624298224635904) | advertise |
 | [DujeGT@twitter](https://twitter.com/DujeGT/status/1533451778255093761) | advertise |
 | [DukedWinchester@twitter](https://twitter.com/DukedWinchester/status/1391277873210662913) | advertise |
@@ -3005,6 +3007,7 @@ Do not create new issue or we will close it as duplicate.
 | [GreenboyTm@twitter](https://twitter.com/GreenboyTm/status/1390219893262327813) | advertise |
 | [greenmoon55@twitter](https://twitter.com/greenmoon55/status/1507778212234858496) | advertise |
 | [GregoryCollins@twitter](https://twitter.com/GregoryCollins/status/1530717094743920640) | advertise |
+| [gregory_levine@twitter](https://twitter.com/gregory_levine/status/1586230877058912256) | advertise |
 | [grekgrok@twitter](https://twitter.com/grekgrok/status/1400089932262088707) | advertise |
 | [Grewal74166785@twitter](https://twitter.com/Grewal74166785/status/1405490752663261186) | advertise |
 | [GreySlitaz@twitter](https://twitter.com/GreySlitaz/status/1393006277333331976) | advertise |
@@ -6743,6 +6746,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguyenDJ@twitter](https://twitter.com/NguyenDJ/status/1385868091020648448) | advertise |
 | [nguyendoantrun1@twitter](https://twitter.com/nguyendoantrun1/status/1397256926929440769) | advertise |
 | [Nguyenduc26292@twitter](https://twitter.com/Nguyenduc26292/status/1552727171122479104) | advertise |
+| [NguyenDucz@twitter](https://twitter.com/NguyenDucz/status/1586176521022345216) | advertise |
 | [NguyenG41202087@twitter](https://twitter.com/NguyenG41202087/status/1569785908148453376) | advertise |
 | [NguyenH32641866@twitter](https://twitter.com/NguyenH32641866/status/1561209403445231616) | advertise |
 | [Nguyenh86642977@twitter](https://twitter.com/Nguyenh86642977/status/1397205087664152583) | advertise |
@@ -7002,6 +7006,7 @@ Do not create new issue or we will close it as duplicate.
 | [nottsonline1@twitter](https://twitter.com/nottsonline1/status/1519043499328421900) | advertise |
 | [notwaytoomuch@twitter](https://twitter.com/notwaytoomuch/status/1396359332447485953) | advertise |
 | [NoungN2@twitter](https://twitter.com/NoungN2/status/1392947583866130432) | advertise |
+| [Nouraabdulla15@twitter](https://twitter.com/Nouraabdulla15/status/1586210209336381442) | advertise |
 | [NovemKT@twitter](https://twitter.com/NovemKT/status/1381273128567984133) | advertise |
 | [nove_nine@twitter](https://twitter.com/nove_nine/status/1488420118031790081) | advertise |
 | [Now_Later4ever@twitter](https://twitter.com/Now_Later4ever/status/1380013941267566592) | advertise |
