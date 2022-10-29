@@ -15710,6 +15710,7 @@ Here's a list of public Fediverse services.
 | `popradio.club` | No |
 | `popspicswords.uk` | No |
 | `popula.social` | No |
+| `popura.ch` | No |
 | `porchlogic.com` | No |
 | `poridge.club` | No |
 | `porn-k.com` | Yes |
@@ -22501,7 +22502,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,531 |
-| Normal | 17,926 |
+| Normal | 17,927 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
