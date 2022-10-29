@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 3,220 |
 | net | 1,776 |
 | org | 1,250 |
-| social | 1,232 |
-| de | 1,111 |
+| social | 1,233 |
+| de | 1,112 |
 
 
 - Mastodon, Pleroma, etc
@@ -439,6 +439,7 @@ Here's a list of public Fediverse services.
 | `aas.wtf` | No |
 | `aasg.name` | No |
 | `aatame3.net` | Yes |
+| `abacusswitch.me` | No |
 | `abandonedsocialnetwork.com` | No |
 | `abb.ink` | Yes |
 | `abbotsfurred.ca` | No |
@@ -5726,6 +5727,7 @@ Here's a list of public Fediverse services.
 | `explosion.party` | No |
 | `expose.pw` | No |
 | `express.co.uk` | Yes |
+| `expression.social` | Yes |
 | `expshift.com` | No |
 | `extec.uk` | No |
 | `extinctionrebellion.fr` | No |
@@ -7680,6 +7682,7 @@ Here's a list of public Fediverse services.
 | `hackerdrinks.social` | Yes |
 | `hackerfraternity.org` | No |
 | `hackerheaven.org` | Yes |
+| `hackerjunkie.nl` | No |
 | `hackerlab.fr` | No |
 | `hackerposse.com` | No |
 | `hackers.city` | No |
@@ -8897,6 +8900,7 @@ Here's a list of public Fediverse services.
 | `ironboundsoftware.com` | Yes |
 | `ironbug.org` | No |
 | `irrelevant.com` | No |
+| `irrpfad.de` | No |
 | `irrsinn.life` | No |
 | `irrsinn.net` | No |
 | `irrsinn.video` | No |
@@ -15942,6 +15946,7 @@ Here's a list of public Fediverse services.
 | `prt.blue` | No |
 | `prude.party` | No |
 | `prvcy.eu` | No |
+| `prx.link` | No |
 | `przej.me` | No |
 | `pseudo-whiskey.bar` | No |
 | `psimon.world` | No |
@@ -22493,8 +22498,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,529 |
-| Normal | 17,921 |
+| Cloudflare | 4,530 |
+| Normal | 17,925 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
