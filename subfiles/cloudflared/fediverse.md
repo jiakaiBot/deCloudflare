@@ -13277,6 +13277,7 @@ Here's a list of public Fediverse services.
 | `mzn-potatochips.me` | No |
 | `mzumquadrat.de` | No |
 | `n-cloud.ro` | No |
+| `n-i.pw` | No |
 | `n-odes.social` | No |
 | `n-sr.org` | No |
 | `n0.is` | No |
@@ -22500,7 +22501,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,531 |
-| Normal | 17,925 |
+| Normal | 17,926 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
