@@ -42,6 +42,7 @@ datacenter.zolbermedia.com
 epay-konnektor.zivit.de
 es-logs.analytics-cluster.zedge.io
 fabo-bankrec-api.zalopay.vn
+gateway.zscalerthree.net
 gateway.zscalertwo.net
 idp.saas.zeb-it.de
 img01.ztat.net
@@ -63,6 +64,7 @@ static.gov.zw12345.com
 testapi.zimicn.com
 verlag.zeit.de
 video.zuoyebang.cc
+web.zensys.app.br
 www.accountabuddy.zeromedia.com.au
 www.alternativnamedicina.com.mk.zemi.net.mk
 www.apply.zarnab.pk
@@ -75,15 +77,18 @@ www.zappos.com
 www.zeevventures.com
 www.zenit.ru
 www.ziplocal.ca
+www.zippoguide.com
 www.zocdoc.com
 www.zone-service.com
 www.zovni.ovh
 www.zwilnik.com
 zabavashop.in.ua
+zabon-rustili-kurslar.uz
 zacharyballard.ml
 zachclem.ml
 zachmarshall.ml
 zachmitchell.ml
+zadonsk-monastyr.ru
 zahid-agromiks.com.ua
 zaiflyer.com
 zamirwears.ir
