@@ -8985,6 +8985,7 @@ Do not create new issue or we will close it as duplicate.
 | [sx_313@twitter](https://twitter.com/sx_313/status/1579576121779433472) | advertise |
 | [Syahputra902@twitter](https://twitter.com/Syahputra902/status/1405110962055643136) | advertise |
 | [syahril_akbar32@twitter](https://twitter.com/syahril_akbar32/status/1468464046445785089) | advertise |
+| [Syaif1996@twitter](https://twitter.com/Syaif1996/status/1586298287862079488) | advertise |
 | [syaifullahmaad@twitter](https://twitter.com/syaifullahmaad/status/1385385161131397121) | advertise |
 | [syamiez_den@twitter](https://twitter.com/syamiez_den/status/1559350488440643584) | advertise |
 | [Syam_6005@twitter](https://twitter.com/Syam_6005/status/1539529755732520960) | advertise |
