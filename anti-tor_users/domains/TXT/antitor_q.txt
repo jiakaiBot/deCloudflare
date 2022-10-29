@@ -46,6 +46,7 @@ qa24ljic4i.com
 qabaja.com
 qentrega.com
 qmasker.q-api.cloud
+qnbnl.cn
 qqplans.test.qantas.com.au
 qsafe.biz
 qsafe.ro
@@ -69,6 +70,7 @@ uat1a.us1.qeadaptiveauthbo.com
 us.q2s15.com
 user-story-3.test-client.qzhub.net
 webdisk.trustwallet.qpoe.com
+www.cardapioonline.qtaldelivery.com.br
 www.hubvantage.qontrack.in
 www.qabnpparibasfortis.com
 www.qlife.jp
