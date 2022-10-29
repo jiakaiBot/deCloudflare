@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,220 |
+| com | 3,221 |
 | net | 1,776 |
 | org | 1,250 |
 | social | 1,233 |
@@ -14087,6 +14087,7 @@ Here's a list of public Fediverse services.
 | `notryden.com` | No |
 | `notso.cloud` | Yes |
 | `notspam.tk` | No |
+| `nottechnicallyalien.com` | No |
 | `notunremarkable.me` | No |
 | `notvery.social` | No |
 | `notwebsite.com` | No |
@@ -16861,7 +16862,7 @@ Here's a list of public Fediverse services.
 | `romandie.social` | No |
 | `romank.org` | No |
 | `romaricpascal.com` | No |
-| `romca.tk` | No |
+| `romca.tk` | Yes |
 | `romeorose.xyz` | Yes |
 | `romeov.me` | No |
 | `romlinch.ovh` | No |
@@ -22501,7 +22502,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,531 |
+| Cloudflare | 4,532 |
 | Normal | 17,927 |
 
 
