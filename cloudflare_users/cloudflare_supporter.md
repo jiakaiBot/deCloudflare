@@ -3271,6 +3271,7 @@ Do not create new issue or we will close it as duplicate.
 | [Heroboy89H@twitter](https://twitter.com/Heroboy89H/status/1522402744346476544) | advertise |
 | [Herohero1212@twitter](https://twitter.com/Herohero1212/status/1540573846054600706) | advertise |
 | [herosoclo@twitter](https://twitter.com/herosoclo/status/1485688186999554048) | advertise |
+| [hetarakawatene1@twitter](https://twitter.com/hetarakawatene1/status/1586135864681279489) | advertise |
 | [hexafusion@twitter](https://twitter.com/hexafusion/status/1380335734419156992) | advertise |
 | [heychazza@twitter](https://twitter.com/heychazza/status/1573280802749943811) | advertise |
 | [hey_rey25@twitter](https://twitter.com/hey_rey25/status/1397246777603104779) | advertise |
