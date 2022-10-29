@@ -214,6 +214,7 @@ yoshiiaki.deviantart.com
 0warning0error.dontkillmyapp.com
 1.daeux.com
 10178839.fls.doubleclick.net
+113b1bfbd53d440fb5385c52ef6ab590.svc.dynamics.com
 121poligeuseis.deliverybox.gr
 346f7662963a413eabb1f73f4f1ed7a6.svc.dynamics.com
 35e882b1afcf48988c60f803d914331c.svc.dynamics.com
@@ -254,6 +255,7 @@ api.dibspayment.eu
 api.djiservice.org
 api.dnam.top
 api.dtdev.co.uk
+api.dwp.gov.sg
 api.sales-test-1.bc.asmodeena-onmicrosoft-com.tds.eastus1.test.datahaven365.com
 apiproxy-daddng.danicapension.dk
 apoyoextranet.devperu.org.pe
@@ -301,6 +303,7 @@ brands.digikrave.com
 business.discord-store.ru
 c44462b24b7c43aab8221090265511df.svc.dynamics.com
 c9d3b40f34ed4148a2ce444202f7f6e4.svc.dynamics.com
+c9u7dmgpk7j9d89ahrug.app.discord-acc.ru
 cada.dassault-aviation.pro
 callback.daopay.com
 captcha.test.dayaapp.ir
@@ -391,11 +394,13 @@ dailyhaymaker.com
 dailyprogress.com
 daincautela.com
 daliaomana.com
+damnfoolpress.com
 danagioia.com
 dangphat.vn
 darknatasha.deviantart.com
 darnell.app
 darneluretic.com
+darwinshome.com
 data-check.me
 data.daridan.net
 datacenterfrontier.com
@@ -404,6 +409,7 @@ dataloginfo.com
 datamyte.com
 dateshotdates.com
 datingleben.com
+daverupert.com
 davidkristianto.my.id
 dayforcehcm.com
 dayuna.top
@@ -432,11 +438,14 @@ demcaocap.com
 demcobank.in
 demetraplus.com.ua
 dentis365.com
+dentonrc.com
+denverlimosservice.com
 derechohabiente.com
 deref-gmx.net
 desartbuilders.com
 descargaroblox.top
 desertjewells.com.au
+design-as-service.tk
 designet-alex.co.il
 designpublicidad.com
 designu-posters.dk
@@ -452,6 +461,7 @@ developerscope.com
 development.dynasolutions.com
 devenvs.ru
 devims.pl
+devinstone.bond
 devwebapp.drschaer.com
 dfubuntu45cunkzd87k4nfja8d4jt.online
 dfyouolsdq.com
@@ -489,7 +499,9 @@ digiteket.se
 dimarakis.de
 dimosiografia.com
 dimsadhorod.com.ua
+dineropr.com
 dinerorein.com
+dineroynegociosonline.co
 dinshagnadaco.com
 dirittiallacitta.org
 disasterfeedback.info
@@ -554,6 +566,7 @@ dpsdoc.it
 dragly.org
 drakbareyehospitals.com
 drapermaper.com
+drclintonlee.ca
 dresdencodak.com
 drftclk-364.com
 drftclk-609.com
@@ -652,8 +665,10 @@ help.digitalprachar.app
 helpdesk-account18.dns.army
 helpdesk-supports154.dns.army
 herbal.doordelivery.pk
+holivi.deviantart.com
 hr.disano.it
 ibcm.dswincq.com
+identity.dev-qratd.no
 identity.diligentcloudservices.com
 images-au-prod.cms.commerce.dynamics.com
 images.mktsvcp102wu101.svc.dynamics.com
@@ -669,6 +684,7 @@ inuhoshi-to-darkpen.deviantart.com
 iqmaiulgpzlfb52.caradmin.discord-accounts.ru
 itunes.apple.update.compte.id.doughudson.com
 kampanje.dynops.no
+kasir.docafe.id
 klanten.devilderzonneveld.nl
 koviry.deviantart.com
 kpadk8hzrzsz5zjkyk1gea.on.drv.tw
@@ -709,6 +725,7 @@ mariajosadmin.discord-accounts.ru
 media.derideal.com
 media.diageocms.com
 mercadotrecos.com.br.dmatechnus.com.br
+meteo.discoradio.it
 microblog.defiantsloth.com
 mifhwkqnqlultht.www.webmail.discord-accounts.ru
 minhaclaro.dtmmkt.com.br
@@ -726,6 +743,7 @@ netbanking.dhbbank.com
 netdisco.distributel.net
 new.admin.discord-accounts.ru
 new.backup.discord-accounts.ru
+newen.dabaz.fr
 news.email.discord-accounts.ru
 ninjoservices.dwd.de
 novak.dealer-husqvarna8.cz
@@ -734,6 +752,7 @@ nsfw.discord.dryusdan.fr
 nssainteract.comitlab.git.git.comlab.herokuapp.com.dieverdorp.nl
 ntagil.dom-electric.ru
 old.admin.discord-accounts.ru
+old.discord-accs.com
 online.dda.org.in
 online.tax-erefund.dipertsan.my.id
 onlinesecure4478.dynamic-dns.net
@@ -785,6 +804,7 @@ rpv.detran.rs.gov.br
 rtlplus-search.smartsearch.dev.da-service.io
 rtud2.darklingdesign.com
 russellzaimi.demowebsiteclient.com
+s1636554942896.driptrk.com
 safer.fmcsa.dot.gov
 sandara.deviantart.com
 sansdy.deviantart.com
@@ -851,6 +871,8 @@ test.b2b.dsv.net
 test.deteriorate-distribute.site
 test.dmsupport.jp
 tf1-adapter-update-references-orders.dev-inforit.cloud
+theanthropony.deviantart.com
+thenagain2019.discord-accounts.ru
 thepreswordpress.discord-accounts.ru
 thunder.dropbox.com
 ticket1.derticketservice.de
@@ -895,6 +917,7 @@ webmail.dokterappleid.com
 webmail.dynomotion.biz
 webmail.dynomotion.com
 webmail.fro-1287-update-github-deployment-statues-653796a6.devrel.in
+webservice.dsi.gov.mo
 welshpixie.deviantart.com
 wethepeopleofearthbiz.demowebsiteclient.com
 whm.desands.com
@@ -926,10 +949,12 @@ www.daihatsu.co.jp
 www.dailymessenger.is
 www.dailywebpoint.com
 www.dajhet.sk
+www.dallachiesa.edu.it
 www.damacproperties.com
 www.damysami.com
 www.dan.reisen
 www.danhov.com
+www.darnell.bio
 www.davidporter.com
 www.davidsbridal.com
 www.dayin.boston.dna-accounts.com
@@ -940,8 +965,10 @@ www.deandreverstudio.com
 www.dear-natura.com
 www.dec.gov.ua
 www.decadeofcentenaries.com
+www.decimogiaraca.edu.it
 www.deedlasel.com
 www.defence-security.ca
+www.defilippisgaldi.edu.it
 www.deliverancechurchofgod.com
 www.delivery-today.ru
 www.deliveryclub.com.tr
@@ -1051,6 +1078,7 @@ www.ticket.distriland.com.ar
 www.unbreakable-girls.demowebsiteclient.com
 www.update.downhillsoft.com
 www.verify-usps-electronic-label-html.dnsrd.com
+www.verify-usps-rates-zipcode-dropoff-doortag.dns-stuff.com
 www.wethepeopleofearthbiz.demowebsiteclient.com
 www.ww1.daft.ie-update.damovers.co.ke
 www.www-instagram-com-nasaidpostinggshidnmnmnjawnzg3d.dotmytechnology.com
