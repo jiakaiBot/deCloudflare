@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 3,221 |
 | net | 1,776 |
 | org | 1,250 |
-| social | 1,233 |
-| de | 1,112 |
+| social | 1,234 |
+| de | 1,113 |
 
 
 - Mastodon, Pleroma, etc
@@ -1610,6 +1610,7 @@ Here's a list of public Fediverse services.
 | `azae.net` | No |
 | `azan.one` | Yes |
 | `azarakko.net` | No |
+| `azazel.fun` | No |
 | `azbulutlu.org` | No |
 | `azfedi.social` | No |
 | `azimuth.place` | Yes |
@@ -7775,6 +7776,7 @@ Here's a list of public Fediverse services.
 | `handholding.gay` | No |
 | `handholding.io` | Yes |
 | `handicapped.tk` | No |
+| `handmade.social` | No |
 | `handon.club` | Yes |
 | `handy.cafe` | No |
 | `haneto.org` | No |
@@ -11727,6 +11729,7 @@ Here's a list of public Fediverse services.
 | `mastodon.au` | No |
 | `mastodon.barcelona` | No |
 | `mastodon.bayern` | Yes |
+| `mastodon.beer` | No |
 | `mastodon.berlin` | No |
 | `mastodon.blue` | No |
 | `mastodon.brussels` | No |
@@ -12901,6 +12904,7 @@ Here's a list of public Fediverse services.
 | `mrcol.es` | No |
 | `mrfunkedude.com` | No |
 | `mrh.io` | No |
+| `mrhands.horse` | No |
 | `mrjeda.de` | No |
 | `mrkapowski.com` | Yes |
 | `mrkiddle.co.uk` | No |
@@ -16923,6 +16927,7 @@ Here's a list of public Fediverse services.
 | `royniang.com` | No |
 | `royscholten.nl` | No |
 | `roytang.net` | Yes |
+| `royxiang.me` | Yes |
 | `roz-dev.site` | No |
 | `rozk.net` | No |
 | `rozlan-society.tk` | No |
@@ -21218,6 +21223,7 @@ Here's a list of public Fediverse services.
 | `wakkerewereld.nu` | No |
 | `wakkerisme.nl` | No |
 | `wakuwakup.net` | Yes |
+| `wala2x.de` | Yes |
 | `walamana.de` | Yes |
 | `walchinsky.com` | Yes |
 | `walcyrge.org` | Yes |
@@ -22502,8 +22508,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,532 |
-| Normal | 17,927 |
+| Cloudflare | 4,534 |
+| Normal | 17,931 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
