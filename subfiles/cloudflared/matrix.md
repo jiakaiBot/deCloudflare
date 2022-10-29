@@ -70,6 +70,7 @@ Here's a list of public Matrix services.
 | matrix.hadoly.fr | No |
 | chatserver.hashi.sbs | Yes |
 | matrix.hingst.net | No |
+| hot-chilli.im | No |
 | houtworm.im | No |
 | synapse.hyteck.de | No |
 | inetd.xyz | No |
@@ -129,7 +130,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 18 |
-| Normal | 83 |
+| Normal | 84 |
 
 
-### 17.8% of public Matrix services are using Cloudflare.
+### 17.6% of public Matrix services are using Cloudflare.
