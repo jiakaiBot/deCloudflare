@@ -78,11 +78,13 @@ apg.uteq.edu.mx
 apgvb-customer.uatvkycsbirrb.in
 api-uaz-prod.ukh.de
 api.unitynxt.com
+auth.apps.urlaubsverwaltung.cloud
 autodiscover.umgnet.com
 b01.ugwdevice.net
 backend.uniqa.at
 bca.co.id.updatetariftrnsksi.my.id
 bigliettazione.sma.unipi.it
+blockchain-explorer.dev.mccormick.ublo.dev
 blog.blog.blog.demo.store.updatemy.website
 blog.blog.magento.wp.updatemy.website
 blog.umlauts.de
@@ -144,6 +146,7 @@ pagosweb.uct.cl
 ph1.usero.cn
 poradna.sandbox.ulekare.cz
 portaal-beta.universalvoice.nl
+postgradokardex.utupakkatari.edu.bo
 postmark.ukrposhta.ua
 posudoff.uaprom.net
 ps.userapi.com
@@ -157,12 +160,15 @@ slack.apps.uatbi.com.br
 ssp.usps.gov
 straw.uber.space
 strea.umaru.to
+ststest.uihealthsystem.org
 support.ugn.com
 test.chem.uni-sofia.bg
 testclwd.uber.space
 testhelp.unycom.com
 testpot.uber.space
 token.uicpayment.com.tw
+u0078.com
+u0082.com
 uarun-mobile.api.ua.com
 uberturco.com
 ubstreinamentos.com.br
@@ -192,6 +198,7 @@ unisign.no
 unitussecurity.com
 universeboss.net
 universedorse.com
+universityvacancies.com
 unnumelom.com
 untamedheartphotography.com
 upb.ac.id
@@ -223,7 +230,10 @@ uspds.top
 uspns.top
 uspo1.top
 usps-com-service.top
+usps-comf.top
 usps-comu.top
+usps-comy.top
+uspssi.tech
 ussppost.usdps.top
 ussusd1centralff5.blob.core.usgovcloudapi.net
 usts.fr
@@ -250,6 +260,7 @@ www.login.unnet.com.br
 www.magyarszakmaicegtar.uzleticegbank.hu
 www.metamaskholders.usermainnet.site
 www.osticket.razziel2.usermd.net
+www.perfectmoney.urungdora.desa.id
 www.stream.update-sports.com
 www.u-buy.com.ua
 www.ubminers.ltd
@@ -267,6 +278,7 @@ www.unclaimedmoney.info
 www.undisclosedenergycommission.co.uk
 www.unihair-cliente.shop
 www.union-bulletin.com
+www.unionecomuni.re.it
 www.unionleader.com
 www.uniquesocialevents.com
 www.up6.com.br
