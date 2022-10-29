@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,205 |
+| com | 3,206 |
 | net | 1,771 |
 | org | 1,246 |
-| social | 1,220 |
+| social | 1,221 |
 | de | 1,106 |
 
 
@@ -1490,6 +1490,7 @@ Here's a list of public Fediverse services.
 | `audiomix.club` | No |
 | `audiophile-mastodon.com` | No |
 | `audiosauti.com` | No |
+| `audiovalentine.com` | No |
 | `audiovisuel-participatif.org` | No |
 | `auf1.eu` | No |
 | `aufdeine.art` | Yes |
@@ -7883,6 +7884,7 @@ Here's a list of public Fediverse services.
 | `heiperlan.de` | No |
 | `heising.at` | No |
 | `heislandmine.work` | No |
+| `hejfolks.social` | No |
 | `hekeki.com` | No |
 | `hekeki.de` | No |
 | `hekki.info` | No |
@@ -14745,7 +14747,7 @@ Here's a list of public Fediverse services.
 | `owncast.online` | Yes |
 | `owncast.tv` | No |
 | `ownify.in` | No |
-| `ownlibtards.online` | Yes |
+| `ownlibtards.online` | No |
 | `owo.monster` | No |
 | `oxel.me` | No |
 | `oxhead.dev` | No |
@@ -22412,8 +22414,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,510 |
-| Normal | 17,859 |
+| Cloudflare | 4,509 |
+| Normal | 17,862 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
