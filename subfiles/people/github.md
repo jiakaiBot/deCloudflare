@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Compatibility with Cloudflare Workers](https://github.com/pusher/pusher-http-node/issues/173)
 - [Unpkg CDN Version is down](https://github.com/developit/mitt/issues/170)
 - [error Updating state for light.color_temperature](https://github.com/home-assistant/addons/issues/2728)
 - [Error occured, please check your internet connection](https://github.com/freescout-helpdesk/freescout/issues/2352)
