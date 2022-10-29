@@ -14845,6 +14845,7 @@ Here's a list of public Fediverse services.
 | `p9don.tokyo` | No |
 | `paas.jp` | No |
 | `pablo.xyz` | No |
+| `pablofernandez.tech` | Yes |
 | `pabs.xyz` | No |
 | `pacapime.ovh` | No |
 | `pace.rip` | No |
@@ -22498,7 +22499,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,530 |
+| Cloudflare | 4,531 |
 | Normal | 17,925 |
 
 
