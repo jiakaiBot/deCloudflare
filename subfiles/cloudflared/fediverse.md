@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,220 |
-| net | 1,775 |
+| net | 1,776 |
 | org | 1,251 |
 | social | 1,235 |
 | de | 1,113 |
@@ -17612,6 +17612,7 @@ Here's a list of public Fediverse services.
 | `serveromnis.com` | No |
 | `servidos.app` | Yes |
 | `servilo.xyz` | No |
+| `servperso.net` | Yes |
 | `servus.at` | No |
 | `sethfeldkamp.com` | No |
 | `setho.org` | No |
@@ -18756,7 +18757,7 @@ Here's a list of public Fediverse services.
 | `subzone.net` | Yes |
 | `subzone.space` | Yes |
 | `succ.dev` | No |
-| `succdi.cc` | No |
+| `succdi.cc` | Yes |
 | `succubi.services` | Yes |
 | `succubus.town` | No |
 | `such.social` | Yes |
@@ -22508,8 +22509,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,534 |
-| Normal | 17,931 |
+| Cloudflare | 4,536 |
+| Normal | 17,930 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
