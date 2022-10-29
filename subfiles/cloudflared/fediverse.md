@@ -13819,6 +13819,7 @@ Here's a list of public Fediverse services.
 | `nintendojo.fr` | No |
 | `ninthgate.us` | No |
 | `nioncapul.net` | No |
+| `nip.io` | Yes |
 | `nipahchan.co` | No |
 | `nipponalba.scot` | No |
 | `nireus.cyou` | Yes |
@@ -16840,6 +16841,7 @@ Here's a list of public Fediverse services.
 | `rodents.party` | No |
 | `rodere.systems` | No |
 | `rodina-sucha.cz` | No |
+| `rodnoc.xyz` | No |
 | `rodriguez.gg` | No |
 | `rodriguez.paris` | No |
 | `roeckoe.be` | No |
@@ -22510,8 +22512,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,535 |
-| Normal | 17,932 |
+| Cloudflare | 4,536 |
+| Normal | 17,933 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
