@@ -1384,6 +1384,7 @@ Here's a list of public Fediverse services.
 | `asie.pl` | No |
 | `asimon.org` | No |
 | `askan.info` | No |
+| `askesis.pl` | No |
 | `askk.cc` | Yes |
 | `asko.blog` | No |
 | `asko.dev` | No |
@@ -17091,6 +17092,7 @@ Here's a list of public Fediverse services.
 | `rxb.pl` | Yes |
 | `rxc.gdn` | No |
 | `rxt.social` | No |
+| `rxtx.nl` | No |
 | `ryan.su` | Yes |
 | `ryanak.xyz` | Yes |
 | `ryankes.eu` | Yes |
@@ -21502,6 +21504,7 @@ Here's a list of public Fediverse services.
 | `whatwaslostisfound.co.uk` | No |
 | `when.computer` | No |
 | `whereaboat.rocks` | No |
+| `wherelinux.xyz` | No |
 | `wherethedogsare.com` | No |
 | `whhone.com` | No |
 | `whimsic.al` | No |
@@ -22585,7 +22588,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,547 |
-| Normal | 17,994 |
+| Normal | 17,997 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
