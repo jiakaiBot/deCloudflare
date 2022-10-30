@@ -18402,6 +18402,7 @@ Here's a list of public Fediverse services.
 | `soykaf.com` | No |
 | `soykaf.online` | No |
 | `soykaf.org` | Yes |
+| `soylent.green` | No |
 | `soymilk.club` | Yes |
 | `soysoftware.net` | No |
 | `soyuki.net` | No |
@@ -22591,7 +22592,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,547 |
-| Normal | 18,000 |
+| Normal | 18,001 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
