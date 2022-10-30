@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,229 |
-| net | 1,784 |
+| net | 1,785 |
 | org | 1,256 |
 | social | 1,244 |
 | de | 1,121 |
@@ -11931,6 +11931,7 @@ Here's a list of public Fediverse services.
 | `mastodons.city` | No |
 | `mastodons.de` | Yes |
 | `mastodons.jp` | No |
+| `mastodonserver.eu` | No |
 | `mastodonserver.se` | No |
 | `mastodonsocial.net` | No |
 | `mastodonsocial.ru` | No |
@@ -15453,7 +15454,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.fi` | No |
 | `pixelfed.fr` | No |
 | `pixelfed.icu` | No |
-| `pixelfed.life` | No |
+| `pixelfed.life` | Yes |
 | `pixelfed.love` | No |
 | `pixelfed.me` | No |
 | `pixelfed.monster` | No |
@@ -16888,7 +16889,7 @@ Here's a list of public Fediverse services.
 | `rocketsfall.net` | No |
 | `rockhost.se` | No |
 | `rockoo.pw` | No |
-| `rodab.party` | Yes |
+| `rodab.party` | No |
 | `rodacy.tv` | No |
 | `rodent.cloud` | No |
 | `rodent.io` | No |
@@ -22078,6 +22079,7 @@ Here's a list of public Fediverse services.
 | `xyag.space` | No |
 | `xycloud.fr` | No |
 | `xylinvale.space` | No |
+| `xytes.net` | No |
 | `xyzyx.org` | No |
 | `xyzzy.link` | No |
 | `xz0.org` | Yes |
@@ -22588,7 +22590,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,547 |
-| Normal | 17,997 |
+| Normal | 17,999 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
