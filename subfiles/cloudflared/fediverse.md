@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,221 |
+| com | 3,222 |
 | net | 1,776 |
 | org | 1,251 |
 | social | 1,236 |
@@ -14237,6 +14237,7 @@ Here's a list of public Fediverse services.
 | `nyan.network` | No |
 | `nyanbinary.club` | No |
 | `nyanlout.re` | No |
+| `nyanshell.com` | Yes |
 | `nyantech.com` | No |
 | `nyaotan.fun` | No |
 | `nyarr.dev` | No |
@@ -15972,7 +15973,7 @@ Here's a list of public Fediverse services.
 | `psyco.fr` | No |
 | `psyk.yt` | No |
 | `psylodrumean.fr` | No |
-| `psynergy.io` | Yes |
+| `psynergy.io` | No |
 | `psyopshop.com` | No |
 | `psyver.space` | No |
 | `ptah-alexs.info` | No |
@@ -22515,7 +22516,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,533 |
-| Normal | 17,938 |
+| Normal | 17,939 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
