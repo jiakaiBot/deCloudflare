@@ -17656,6 +17656,7 @@ Here's a list of public Fediverse services.
 | `serialmay.link` | No |
 | `seriousposter.club` | No |
 | `seriphap.com` | No |
+| `serotonin.party` | No |
 | `serotoninpower.club` | No |
 | `serpentines.social` | No |
 | `serrebiradio.com` | No |
@@ -22576,7 +22577,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,545 |
-| Normal | 17,987 |
+| Normal | 17,988 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
