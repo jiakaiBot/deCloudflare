@@ -2197,6 +2197,7 @@ Do not create new issue or we will close it as duplicate.
 | [dhtonoz@twitter](https://twitter.com/dhtonoz/status/1513906159711047685) | advertise |
 | [Diakinu2@twitter](https://twitter.com/Diakinu2/status/1393010870775468032) | advertise |
 | [DiamondMeeMee1@twitter](https://twitter.com/DiamondMeeMee1/status/1391273427290361858) | advertise |
+| [Dianna36873922@twitter](https://twitter.com/Dianna36873922/status/1586735803514093569) | advertise |
 | [DiariesLara@twitter](https://twitter.com/DiariesLara/status/1569545171716431872) | advertise |
 | [dican_adcorp@twitter](https://twitter.com/dican_adcorp/status/1570807498210422785) | advertise |
 | [DickWhimsy@twitter](https://twitter.com/DickWhimsy/status/1384051581373468672) | advertise |
@@ -9678,6 +9679,7 @@ Do not create new issue or we will close it as duplicate.
 | [toxicspot_yt@twitter](https://twitter.com/toxicspot_yt/status/1459804440433610753) | advertise |
 | [toxuantien@twitter](https://twitter.com/toxuantien/status/1397212992102670339) | advertise |
 | [TpkKungmanee@twitter](https://twitter.com/TpkKungmanee/status/1552639358381195265) | advertise |
+| [tpower455@twitter](https://twitter.com/tpower455/status/1586730995755397120) | advertise |
 | [TPPK18@twitter](https://twitter.com/TPPK18/status/1447592577562198029) | advertise |
 | [tpt2404@twitter](https://twitter.com/tpt2404/status/1401145723861704709) | advertise |
 | [TPTT14@twitter](https://twitter.com/TPTT14/status/1380773539427454977) | advertise |
