@@ -2117,6 +2117,7 @@ Do not create new issue or we will close it as duplicate.
 | [DeanJackson84@twitter](https://twitter.com/DeanJackson84/status/1456325790740668423) | advertise |
 | [debadri95@twitter](https://twitter.com/debadri95/status/1392537186545790976) | advertise |
 | [decontented@twitter](https://twitter.com/decontented/status/1499834132129628167) | advertise |
+| [dedbixth@twitter](https://twitter.com/dedbixth/status/1586528000484311040) | advertise |
 | [DeddyBigreds@twitter](https://twitter.com/DeddyBigreds/status/1400098132445130754) | advertise |
 | [Deden_Cot@twitter](https://twitter.com/Deden_Cot/status/1386114365657477120) | advertise |
 | [DeeDee01433732@twitter](https://twitter.com/DeeDee01433732/status/1400972148387192833) | advertise |
@@ -3601,6 +3602,7 @@ Do not create new issue or we will close it as duplicate.
 | [HtooAungLwin14@twitter](https://twitter.com/HtooAungLwin14/status/1395621307631419393) | advertise |
 | [HtoohtetL@twitter](https://twitter.com/HtoohtetL/status/1390968346842173443) | advertise |
 | [HtooHto29422369@twitter](https://twitter.com/HtooHto29422369/status/1391661426314387458) | advertise |
+| [HtooHto85837148@twitter](https://twitter.com/HtooHto85837148/status/1586611847087927296) | advertise |
 | [HtooHtooEaint1@twitter](https://twitter.com/HtooHtooEaint1/status/1381534064839061505) | advertise |
 | [htookoko19294@twitter](https://twitter.com/htookoko19294/status/1516005284623556610) | advertise |
 | [HtooLay78708826@twitter](https://twitter.com/HtooLay78708826/status/1393573561705455620) | advertise |
@@ -4717,8 +4719,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8317,6 +8319,7 @@ Do not create new issue or we will close it as duplicate.
 | [sandeep_sudheer@twitter](https://twitter.com/sandeep_sudheer/status/1490635456404668419) | advertise |
 | [SandhyaRane5@twitter](https://twitter.com/SandhyaRane5/status/1394610980940775433) | advertise |
 | [Sandun_N@twitter](https://twitter.com/Sandun_N/status/1537133937264594946) | advertise |
+| [Sandy22371708@twitter](https://twitter.com/Sandy22371708/status/1586582892808921088) | advertise |
 | [Sang07868631@twitter](https://twitter.com/Sang07868631/status/1379370980750032901) | advertise |
 | [sang22793@twitter](https://twitter.com/sang22793/status/1399137755326672896) | advertise |
 | [sang200003@twitter](https://twitter.com/sang200003/status/1527484332298104832) | advertise |
@@ -9665,6 +9668,7 @@ Do not create new issue or we will close it as duplicate.
 | [torproject.org](https://www.torproject.org/) | [HISTORY.md](../HISTORY.md), [README.md](README.md) |
 | [Torrekie@twitter](https://twitter.com/Torrekie/status/1449973586664595458) | advertise |
 | [torzen6@twitter](https://twitter.com/torzen6/status/1400998635785973761) | advertise |
+| [TosinTimothy5@twitter](https://twitter.com/TosinTimothy5/status/1586519693048745984) | advertise |
 | [TotasShepot@twitter](https://twitter.com/TotasShepot/status/1501117750806466565) | advertise |
 | [touchybaot73@twitter](https://twitter.com/touchybaot73/status/1388281470821625861) | advertise |
 | [TourehYounis@twitter](https://twitter.com/TourehYounis/status/1584174637751361536) | advertise |
