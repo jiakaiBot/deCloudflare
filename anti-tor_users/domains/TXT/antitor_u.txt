@@ -128,6 +128,7 @@ instana-eum-prod.uspto.gov
 isuzuleasing.uti.co.il
 jof8.unitea.jp
 katarzyna17.usermd.net
+login.ujatcare.com
 mag-eng.ubsdev.com
 mail.secure-service.updatemanagerssvrice.top
 mail.uddokta.xyz
@@ -142,6 +143,7 @@ netflix.unreel.me
 news.uterque.com
 node0.reloadnetwork.uatfisprepaid.com
 noski-stafan.uaprom.net
+ojs.uho.ac.id
 pagosweb.uct.cl
 ph1.usero.cn
 poradna.sandbox.ulekare.cz
@@ -172,6 +174,7 @@ u0082.com
 uarun-mobile.api.ua.com
 uberturco.com
 ubstreinamentos.com.br
+ubuntusway.com
 uchkzmzehr.com
 ucs-web-google-auth-redirect.uc-school.com
 udhvan.com
@@ -253,6 +256,7 @@ www.avaxnetwork.usermainnet.site
 www.billing.uwupi.com
 www.bperbancaservizioclienti.universalsupportagency.com
 www.bsbialapodlaska.cruzwwa.usermd.net
+www.eki-net.com.uuqk.cn
 www.helpdesk.unnet.com.br
 www.ibank.ut-bk.com
 www.klaster-tmt.usermd.net
@@ -276,6 +280,7 @@ www.ultra88de.com
 www.umaza.edu.ar
 www.unclaimedmoney.info
 www.undisclosedenergycommission.co.uk
+www.unicampania.it
 www.unihair-cliente.shop
 www.union-bulletin.com
 www.unionecomuni.re.it
@@ -301,6 +306,7 @@ www.usinnews.com
 www.uskidseducation.com
 www.uslogisticssolutions.com
 www.usps.trackingshipcenter.uspsholdmailaction.online
+www.usps.trackingshipcenter.uspsserviceholdmail.online
 www.uspvs.top
 www.usuarioindustrialdeservicioszonasfrancas.com.co
 www.utahmitsubishi.com
