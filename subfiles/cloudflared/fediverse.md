@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,228 |
+| com | 3,229 |
 | net | 1,784 |
-| org | 1,255 |
-| social | 1,243 |
-| de | 1,120 |
+| org | 1,256 |
+| social | 1,244 |
+| de | 1,121 |
 
 
 - Mastodon, Pleroma, etc
@@ -452,6 +452,7 @@ Here's a list of public Fediverse services.
 | `abdl.link` | Yes |
 | `abdl.social` | No |
 | `abeardedqueer.com` | No |
+| `abend.social` | No |
 | `abga.be` | No |
 | `abh.as` | No |
 | `abhas.io` | No |
@@ -7814,6 +7815,7 @@ Here's a list of public Fediverse services.
 | `haram.kim` | No |
 | `harbour.cafe` | No |
 | `hardboiled.app` | No |
+| `hardill.me.uk` | No |
 | `hardlimit.com` | No |
 | `hardr.social` | No |
 | `hardwarehookups.com.au` | No |
@@ -8883,6 +8885,7 @@ Here's a list of public Fediverse services.
 | `ioover.net` | Yes |
 | `iopla.fr` | No |
 | `iosa.it` | Yes |
+| `iospace.de` | No |
 | `iot.tokyo` | No |
 | `iota.ga` | No |
 | `ioto.us` | No |
@@ -9689,6 +9692,7 @@ Here's a list of public Fediverse services.
 | `kasma.xyz` | No |
 | `kasnauskas.lt` | No |
 | `kasper.app` | No |
+| `kastelo.dev` | No |
 | `kastube.com` | No |
 | `kasu.me` | No |
 | `kasun.tech` | No |
@@ -17554,6 +17558,7 @@ Here's a list of public Fediverse services.
 | `secpl.us` | No |
 | `secreci.com` | No |
 | `secret-wg.org` | No |
+| `secretbearsociety.org` | No |
 | `secretdiscord.tech` | No |
 | `secretlair.me` | No |
 | `secretlystupid.com` | Yes |
@@ -22121,6 +22126,7 @@ Here's a list of public Fediverse services.
 | `yantou.co` | Yes |
 | `yantouer.cn` | Yes |
 | `yantouer.com` | Yes |
+| `yaofur.com` | Yes |
 | `yapbreak.fr` | No |
 | `yapka.org` | No |
 | `yapstreams.com` | No |
@@ -22578,8 +22584,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,546 |
-| Normal | 17,989 |
+| Cloudflare | 4,547 |
+| Normal | 17,994 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
