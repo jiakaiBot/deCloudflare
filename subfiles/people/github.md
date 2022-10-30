@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot connect to Discord via websocket](https://github.com/cc-tweaked/cc-restitched/issues/131)
 - [List update failed due to TLS certificate problem](https://github.com/MultiMC/Launcher/issues/4959)
 - [Croc failing on sending file: lookup localhost on 1.1.1.1:53: no such host](https://github.com/schollz/croc/issues/513)
 - [SSL Support for docker container](https://github.com/m4tt72/terminal/issues/33)
