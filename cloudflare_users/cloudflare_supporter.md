@@ -3513,6 +3513,7 @@ Do not create new issue or we will close it as duplicate.
 | [HproHproHpro@twitter](https://twitter.com/HproHproHpro/status/1501383200618156038) | advertise |
 | [hp_wai@twitter](https://twitter.com/hp_wai/status/1402151194907222023) | advertise |
 | [HQ20437821@twitter](https://twitter.com/HQ20437821/status/1563282365744824320) | advertise |
+| [hredoy53@twitter](https://twitter.com/hredoy53/status/1586637528215351296) | advertise |
 | [HrichikM@twitter](https://twitter.com/HrichikM/status/1473991252827783168) | advertise |
 | [hrolikhrolik@twitter](https://twitter.com/hrolikhrolik/status/1570812559011516416) | advertise |
 | [HRVerma90134169@twitter](https://twitter.com/HRVerma90134169/status/1398638317449539588) | advertise |
