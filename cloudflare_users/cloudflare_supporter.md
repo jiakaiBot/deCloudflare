@@ -4580,6 +4580,7 @@ Do not create new issue or we will close it as duplicate.
 | [Khaiquangtran5@twitter](https://twitter.com/Khaiquangtran5/status/1385928846889811969) | advertise |
 | [KhaledQiad@twitter](https://twitter.com/KhaledQiad/status/1475497971445870601) | advertise |
 | [khalfiabdk@twitter](https://twitter.com/khalfiabdk/status/1447572885174898689) | advertise |
+| [KhalidAshrafi91@twitter](https://twitter.com/KhalidAshrafi91/status/1586796057492688901) | advertise |
 | [Khalifa69342938@twitter](https://twitter.com/Khalifa69342938/status/1398071764790530054) | advertise |
 | [Kham6Kham@twitter](https://twitter.com/Kham6Kham/status/1399420183794511873) | advertise |
 | [KhamNguyn2@twitter](https://twitter.com/KhamNguyn2/status/1565247367829671936) | advertise |
