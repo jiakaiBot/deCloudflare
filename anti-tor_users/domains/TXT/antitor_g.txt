@@ -176,11 +176,13 @@ api.staging.gigabank.jp
 api2.gettoby.com
 app.companies.gov.nu
 app.gartnerformarketers.com
+app.personailsucursalpersonas.gogar.com.br
 arunsingh009.github.io
 arvindhsundar.github.io
 ashutosh86941.github.io
 atencionalcliente.grupoherrerobrigantina.eu
 auth.dev.gruposuperdigital.com
+auth.int.grupovernet.com
 authcontrol.gruposuperdigital.com
 autodiscover.goldworkshop.net
 ayomide200024.github.io
@@ -277,6 +279,7 @@ dhpsgapgtnerafshsya-omylbglhrbiogjikwwi-yieftjnlyyfdbacsjwu.glitch.me
 dineyahttpsappsuite-mail02-orange-htlm.gr8.com
 discord.guden.lol
 discord.pseiblog.blog.mx4.getthefactshomeinspection.com
+discordcr.github.io
 dk.web.shinnselbannk.com.gxdymz.com
 doc-00-78-docs.googleusercontent.com
 doc-00-ac-docs.googleusercontent.com
@@ -333,6 +336,7 @@ eservicembraa-ch.gotdns.ch
 eservices.gra.gov.sg
 etrade.geosecurities.com.hk
 exodus.com.merge.gtaaccounting.us
+f15ca44feb3179b2b78b33ff38711df3.safeframe.googlesyndication.com
 fcmtoken.googleapis.com
 feedback.gsa.gov
 femetrics.grammarly.io
@@ -452,6 +456,8 @@ googlead.marketing
 googleadsindonesia.com
 googleadwordsmanagement-co-uk.great-online-income.com
 googletagmanager.com
+googletraffic.us
+googleweblight.com
 goopenclaim.ga
 gooseboom.com
 goransafety.dk
@@ -526,6 +532,7 @@ link.getstic.ky
 link.gondola.be
 locals-integration-api-gateway.artisandev.getirapi.com
 localtunnel.github.io
+login.gasag.de
 login.microsoftonline.com.rproxy.goskope.com
 logupload-airbus.eu.goskope.com
 luidyldr.github.io
@@ -538,6 +545,8 @@ mail.goldworkshop.net
 mail.googleadsforyoutubechannel.com
 mail.googleadwordsmanagement.co.uk
 mail.gruposdediscord.com
+makemoney.gorselarapca.com
+mastovue.glitch.me
 mea.global-cdm.net
 meetings.grooveapp.com
 mehdi-abshari.github.io
@@ -576,6 +585,7 @@ paddle.google-alerts.co.uk
 pagead2.googlesyndication.com
 panel.getnet.cl
 passwordsleakcheck-pa.googleapis.com
+pay.gccsupportservices.com
 pay.google-shopping.club
 payroll2.godaddysites.com
 pdf.gmahkpalemsemi.org
@@ -601,6 +611,7 @@ qoa.globaltpa.net.pe
 quark-fuzzy-minute.glitch.me
 rafaeldevjs.github.io
 rakuten-jp.ghefu.cn
+rakuten-wallet.genova.ltd
 rcgcghcvhvhvvyt.godaddysites.com
 refundservices-client-id.g3o6v.com
 register.githubuniverse.com
@@ -613,6 +624,7 @@ rr4---sn-p5qlsny6.googlevideo.com
 rr5---sn-p5qddn7z.googlevideo.com
 rthrgfsegr.storage.googleapis.com
 rvroswuydjffuliiblr-jfoozdnrpkyouamynxy-khibwdrkucqxbqeklen.glitch.me
+sachinsdp.github.io
 salesloft-sdr-us3.storage.googleapis.com
 salesloft-sdr-us4.storage.googleapis.com
 scholar.google.co.nz
@@ -649,9 +661,11 @@ titanium-petal-cabin.glitch.me
 toolbarqueries.google.ae
 toolbarqueries.google.ch
 toolbarqueries.google.com.sg
+translate.googleapis.com
 trends.google.com
 trends.google.fr
 trishitchar.github.io
+tv-cdn05.gtd.cl
 u8kv3.app.goo.gl
 uat-secure.gmcu.com.au
 update-dummy.greator.it
@@ -691,6 +705,7 @@ www.client.gamerhosty.com
 www.clientes.gcm-ti.com
 www.clientes.gnusistemas.com
 www.clientes.grupojob.pe
+www.comune.gavardo.bs.it
 www.delivery.gologonow.website
 www.e2epgsqllin.api.us-east-2.service.guidewire.net
 www.eki-net.gwrwc.shop
@@ -711,7 +726,9 @@ www.gaslineservice.com
 www.gasoil-footwear.com
 www.gaudeamus.fi
 www.gaussianos.com
+www.gb-gardening-services.gb-horticulture.co.uk
 www.gbgbrandservice.com
+www.gbnicolosi.edu.it
 www.gce-global-custom-events.com
 www.gdtfservice.com
 www.geekgirlauthority.com
@@ -722,6 +739,7 @@ www.gembank.lk
 www.genetoo.com
 www.gentlecurrentstherapy.com
 www.geologicacarpathica.sk
+www.ges2016.org
 www.gettrafficonlineleads.com
 www.ghostrecordlabel.com
 www.giacarbitrationdays.ge
@@ -762,6 +780,7 @@ www.gowinsemi.com
 www.grabandgo.pt
 www.graha99.site
 www.gravitybridge.net
+www.greenebuildingservice.co.uk
 www.growingfuturestreeservice.com
 www.gruasservice.cl
 www.grundschule-borgeln.de
@@ -781,6 +800,7 @@ www.hardik.gujjusupport.in
 www.healthnews.graymoney.co.kr
 www.ivc.gansportsbook.com
 www.login.gremelfx.com
+www.makemoney.gorselarapca.com
 www.mfa.global-visa-services.com
 www.money-vox.garaj.bg
 www.mymoney.gnss-lp.co.il
