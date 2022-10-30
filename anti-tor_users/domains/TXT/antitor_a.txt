@@ -341,6 +341,7 @@ aaxx.live
 aba2002.com.mx
 abaditourtravel.id
 abcyia.com
+abdulganihasan.com
 aberdfoods.co.ke
 aboardcarr.com
 aboutforclient.ml
@@ -370,6 +371,7 @@ academy-tsg-kdr.ru
 academy28.nl
 academyagora.ru
 academyaromatica.com
+academycontracts.co.uk
 academydtek.com
 academyfaceandbody.com.au
 academyforbusinesscredit.com
@@ -402,6 +404,7 @@ account-webapp-gov.com
 account.ama-account-dknc.ga
 account.ama-account-fhmj.ga
 account.ama-account-wnrih.ga
+account.amazon-account-check03.top
 account.venmo.aplicativechk.com
 account.venmo.app-version8.com
 account.venmo.apptaskditail.com
@@ -479,6 +482,7 @@ adsfluence.com
 adultkd.com
 advancedwindowcleaners.bdigitau.a2hosted.com
 advanceyourministry-dot-yamm-track.appspot.com
+adventuresincemeteryhopping.com
 advicecredit89.com
 aegulf.com
 aeronauticar.com
@@ -530,6 +534,7 @@ akhirpekan.studio
 akikulislam555-dot-yamm-track.appspot.com
 ako.ru
 akongdemy.com
+aktionstag-kinderarmut.de
 aktivitetsforeningen.dk
 aktivitetssentralen.no
 akuttutleie.no
@@ -569,6 +574,7 @@ allianceseter.com
 allied-security.com.au
 alliesprotection.com.au
 allinox.ro
+allorbusiness.pro
 alltechservice.com.br
 almadoc.almaviacx.com
 alpha-roofingservice.co.uk
@@ -585,6 +591,7 @@ amansari-artgallery.com
 amarachbetoch.com
 amaroseskintagremover.net
 amazefeeds.com
+amazon-account-check03.top
 amazon-billupdate.com
 amazon-order-account.com
 amazon.active-008.com
@@ -638,15 +645,19 @@ anynevy.com
 aoda.org
 aop-37.org
 apatakangen.ro
+apexfinanceglobal.com
 api-dailybanking.axabank.be
+api-pick-and-pack.aryanoble.co.id
 api.aadrm.com
 api.adduprewards.com
 api.agexpert.ca
 api.airmart.vip
 api.alohaorderonline.com
 api.amadeus.com
+api.amedigital.com
 api.antique-watches.de
 api.apostroph.ch
+api.atlaskyc.com
 api.autorip.amazonmusicsupport.amazon.dev
 api.az808080.com
 api.beta.pdx.financialscorecardservice.finance.amazon.dev
@@ -697,9 +708,11 @@ approvedwastecollectors.com
 appsbyp.com
 appuob.oss-ap-southeast-1.aliyuncs.com
 aprendacomoimportar.com.br
+aprylnators.com
 apsa-0a6a42d8.hcp.eastus2.azmk8s.io
 apt2.aptdesk.com
 aptcorporation.com
+aptos2x.space
 aptrack.ro
 aqkkoalfpz.com
 aquamarine.id
@@ -714,6 +727,7 @@ arcticawarszawa.pl
 ardiak.com.br
 areaticket.advict.it
 arenitezill.com
+arg-pldacl17.amsiohosting.net
 aridan.md
 arie.org.pe
 arizalar.uz
@@ -735,6 +749,7 @@ asistepemex.com.mx
 asistepemex.org
 aslpublicworkshop.asl-solutions.com
 asocambieltambocauca.org
+asohiroblog.net
 aspbestconta.ro
 aspost24.xyz
 assetrack.co.za
@@ -875,8 +890,10 @@ callcenterstudio.lt.acemlnc.com
 callgtc.lt.acemlnb.com
 camservices.lt.acemlnc.com
 car-001.audi-online.de
+cardmoney.arenasagencia.com
 cass.arinc.net
 cathevod1.akamaized.net
+cb3.amazononline.xyz
 cc-api-behance.adobe.io
 cc-api-data.adobe.io
 cc-api-storage.adobe.io
@@ -921,6 +938,7 @@ coinbasejhd.azurewebsites.net
 collisimo-service.ath.cx
 comm.aia.com.hk
 company.portal-telekom.test.preproduction.joti.amcon.cloud
+comune.acquiterme.al.it
 con.arbeitsagentur.de
 config.ad-brix.com
 connectmeetings-dot-yamm-track.appspot.com
@@ -987,6 +1005,7 @@ dip.apia.com.au
 discobrisketbbq.asteamwork.com
 discord-bot.abc-elearning.org
 discord-bot.apiki.com
+discord.arthania.fr
 dishmandaniel073-dot-yamm-track.appspot.com
 docswindowcleaning.bdigitau.a2hosted.com
 doh.applied-privacy.net
@@ -1096,6 +1115,7 @@ instagram.authentication.se
 installation-of-windows.atwebpages.com
 int-vendors.aiuonline.edu
 integracion-qa.artikos.cl
+investor.activision.com
 itsmfw-test.arbeitsagentur.de
 itsupport.armsrm.com
 j0l1y7h.r.us-east-1.awstrack.me
@@ -1159,6 +1179,7 @@ mg.activelifestylemedicalva.com
 michelinedm.adaptasoft.ru
 microsites.audi.co.za
 ministers.ag.gov.au
+mitsubishi.auto-autoservice.ru
 mktdplp102asda.azureedge.net
 mktdplp102neda.azureedge.net
 mktdplp102usda.azureedge.net
@@ -1174,13 +1195,16 @@ myticket2.azzi.uk
 n02.accent-technologies.com
 nahirp-nsmqtt-10oct.southcentralus-1.ts.eventgrid-int.azure.net
 newindications.accounts.aglive.dev
+news-yahoo-com.cdn.ampproject.org
 nissan-preprod.automate-webservices.com
+nissan.auto-autoservice.ru
 nissan.automate-webservices.com
 nitrodapunk.asuscomm.com
 nitrof.anorakstudio.ca
 nitter.alefvanoon.xyz
 nmxlive.akamaized.net
 no.authentic.no
+none.acmbtrc.com
 noradarealestate.lt.acemlnc.com
 notificationservice.gamma.unity.advertising.amazon.dev
 notify.adobe.io
@@ -1206,6 +1230,7 @@ opsiauth.azurewebsites.net
 ortus-dot-yamm-track.appspot.com
 ortusclub-dot-yamm-track.appspot.com
 osearls.transferportal.pharmacy.amazon.dev
+oss-cn-beijing.aliyuncs.com
 ov.angebot4me.de
 oxblue-dot-yamm-track.appspot.com
 p13n.adobe.io
@@ -1317,6 +1342,7 @@ serviciosjava.afip.gob.ar
 servicos.allianz.com.br
 servizi.allianzbank.it
 sfb03webext.arbeitsagentur.de
+sfb04webext.arbeitsagentur.de
 sftp.aksigorta.com.tr
 sgtz.auqob.com
 sgwb.admirrormail.com
@@ -1401,6 +1427,7 @@ velociti-research-dot-yamm-track.appspot.com
 vendynow.axtondemos.com
 verification.paypal.ashishchemicals.com
 verpfdev.aku.edu
+veuz.afaqservice.com
 vgglass.bdigitau.a2hosted.com
 view.arthouse.ar
 view.automizy.com
@@ -1460,6 +1487,7 @@ www.2023samsmith.tickets.a2hosted.com
 www.a1bookmarks.com
 www.a2zbookmarks.com
 www.a2zcpa.com
+www.aane.org
 www.aartal-reifenservice.de
 www.abccolumbia.com
 www.abchandyman-services.com
@@ -1490,6 +1518,7 @@ www.accounting.alalawy.com
 www.accountingassociates.ltd
 www.accountingcarts.com
 www.accountingsadvisor.com
+www.accountingtutor.com.au
 www.acheter-des-vues.online
 www.acop.com
 www.acquisto-crediti.it
@@ -1528,6 +1557,7 @@ www.agenteteconta.com
 www.agfaccesscontrol.com
 www.agfolks.com
 www.agoradinheiro.com.br
+www.agrariogeometra.edu.it
 www.aguinaldocorretor.com.br
 www.ahinjurylaw.net
 www.ahjinri.com
@@ -1554,8 +1584,10 @@ www.alaniyadom.com
 www.alarmacsecurity.com
 www.alarmas-ultra.com
 www.alarmsystem.com.co
+www.alea-ambiente.it
 www.alerta.id
 www.alertatecnica.com
+www.alessandromagnoaxa.edu.it
 www.alexisgideon.com
 www.alfredforum.com
 www.alianza.com.co
@@ -1567,6 +1599,7 @@ www.ama-account-pgles.ga
 www.ama-account-wnrih.ga
 www.amarresdeamorseguro.com
 www.amatch.fr
+www.amazon-account-check01.top
 www.amazon-musthaves.top
 www.amazon.com.mx
 www.amazoniablockchain.com
@@ -1637,10 +1670,12 @@ www.aruba.auth1-appsecure.com
 www.arunagreen.com
 www.asetesa.com.do
 www.ashikagabank.co.jp
+www.ashoredsupport.com
 www.asianext.com
 www.asimeformacion.es
 www.asos.com
 www.aspirationsafety.co.uk
+www.asppavia.it
 www.assuredtracking.com
 www.atebits.com
 www.atepassword.aolc.co.za
@@ -1660,6 +1695,7 @@ www.authorise-bilnet.com
 www.authorlanderson.com
 www.authorlclee.com
 www.authorwilliamrdouglas.com
+www.authy.click
 www.autismus-support.ch
 www.automationmission.com
 www.autorizar-cgd.com
@@ -1683,6 +1719,7 @@ www.bobdylan2021.tickets.a2hosted.com
 www.bostonsecurity.a007.com
 www.brandoodle.adityanamansingh.com
 www.capitruonline.arbor-loginonline.com
+www.cardmoney.arenasagencia.com
 www.chrisstapletontickets2023.tickets.a2hosted.com
 www.citizencope2022.tickets.a2hosted.com
 www.claims.adelinepharma.in
@@ -1695,6 +1732,7 @@ www.datav1-mtbonline.authorizeddns.net
 www.delivery.adikatour.com
 www.deliverydemo1.agenciamvbestdigital.net
 www.demo-service.ateclplayground.com
+www.descarcator-curent-continuu.accesorii-fotovoltaice.ro
 www.dev.ascentrebateportal.com
 www.directdebit.verification.a2hosted.com
 www.do.avon.com
@@ -1733,6 +1771,7 @@ www.maybank.co.id.apply-layanan.info
 www.metrobank.ap.adexchains.com
 www.mg.alexandryaeaton.com
 www.mtbonline.authorizeddns.net
+www.nbc.client.abbahatun.com
 www.notron.activatemylicence.com
 www.oldsite.amazonienii.ro
 www.organiccenter.id.alterasafety.com
