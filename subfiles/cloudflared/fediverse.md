@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,225 |
+| com | 3,227 |
 | net | 1,784 |
 | org | 1,253 |
 | social | 1,243 |
-| de | 1,118 |
+| de | 1,119 |
 
 
 - Mastodon, Pleroma, etc
@@ -9824,6 +9824,7 @@ Here's a list of public Fediverse services.
 | `kgtkr.net` | Yes |
 | `kh-berlin.de` | No |
 | `kh.ro` | No |
+| `khajiit.de` | No |
 | `khajiit.tech` | Yes |
 | `khammam.me` | No |
 | `khaos.cafe` | Yes |
@@ -16924,6 +16925,7 @@ Here's a list of public Fediverse services.
 | `rookieo.com` | No |
 | `room409.xyz` | No |
 | `roommatefriendfinder.com` | No |
+| `roon.fr` | No |
 | `roosenmaallen.com` | No |
 | `rooshv.com` | Yes |
 | `root-s.xyz` | No |
@@ -17227,6 +17229,7 @@ Here's a list of public Fediverse services.
 | `samtherapy.xyz` | Yes |
 | `samtripoli.com` | No |
 | `samtyler.com.au` | No |
+| `samueldr.com` | Yes |
 | `samuelezappala.it` | No |
 | `samuelgharvey.com` | Yes |
 | `samurai-gamers.com` | No |
@@ -18153,6 +18156,7 @@ Here's a list of public Fediverse services.
 | `sneed.social` | Yes |
 | `sneed.vip` | No |
 | `sneedtube.com` | No |
+| `snek.dev` | Yes |
 | `snek.uk` | No |
 | `snel.co` | No |
 | `snel.host` | No |
@@ -22214,6 +22218,7 @@ Here's a list of public Fediverse services.
 | `yorha.social` | Yes |
 | `yorishiro.space` | No |
 | `yorozu-sys.net` | No |
+| `yorrike.com` | No |
 | `yoshimov.com` | Yes |
 | `yoshimov.info` | No |
 | `yotie.blue` | No |
@@ -22566,8 +22571,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,543 |
-| Normal | 17,980 |
+| Cloudflare | 4,545 |
+| Normal | 17,983 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
