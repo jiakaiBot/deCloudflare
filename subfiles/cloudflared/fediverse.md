@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,227 |
+| com | 3,228 |
 | net | 1,784 |
-| org | 1,253 |
+| org | 1,255 |
 | social | 1,243 |
-| de | 1,119 |
+| de | 1,120 |
 
 
 - Mastodon, Pleroma, etc
@@ -401,6 +401,7 @@ Here's a list of public Fediverse services.
 | `9wd.eu` | Yes |
 | `a-apple.net` | No |
 | `a-db.fr` | Yes |
+| `a-ef.org` | Yes |
 | `a-kar.in` | Yes |
 | `a-lec.org` | No |
 | `a-room-ones-own.me` | No |
@@ -5699,7 +5700,7 @@ Here's a list of public Fediverse services.
 | `evometamecha.com` | No |
 | `evri1s-connected.online` | No |
 | `evu-group.de` | Yes |
-| `ewaf.club` | Yes |
+| `ewaf.club` | No |
 | `ewb.io` | Yes |
 | `ewcmi.org` | No |
 | `eweg.be` | No |
@@ -7924,6 +7925,7 @@ Here's a list of public Fediverse services.
 | `hedgehog.pub` | Yes |
 | `hedgehoghunter.club` | Yes |
 | `heewch.com` | No |
+| `heigl.org` | No |
 | `heiki-hecchara.net` | No |
 | `heikosblog.eu` | No |
 | `heim-server.de` | No |
@@ -12372,6 +12374,7 @@ Here's a list of public Fediverse services.
 | `michels.xyz` | No |
 | `michikora.com` | No |
 | `michizev.de` | Yes |
+| `michonline.com` | No |
 | `michu.cloud` | No |
 | `mickaelftw.net` | Yes |
 | `mickaelgillot.xyz` | No |
@@ -17615,6 +17618,7 @@ Here's a list of public Fediverse services.
 | `semente.io` | No |
 | `sementerrori.st` | No |
 | `semicharmed.net` | Yes |
+| `semiosen.de` | No |
 | `semipvt.com` | No |
 | `semisol.net` | No |
 | `semnil.com` | No |
@@ -22572,7 +22576,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,545 |
-| Normal | 17,983 |
+| Normal | 17,987 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
