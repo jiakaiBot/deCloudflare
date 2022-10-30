@@ -230,6 +230,7 @@ yoshiiaki.deviantart.com
 7c3ddb4c4b6b425c9cab84d973191447.svc.dynamics.com
 852048accdf1458ba1c7fcd06f9512c5.svc.dynamics.com
 9024ad4aafbb45eaa3dd15a8f1209b94.svc.dynamics.com
+9d674e9731af4ab6b562e7656ee8296e.svc.dynamics.com
 a2fb9781b6e24716995472ddae4ed540.svc.dynamics.com
 academy.discord-accounts.ru
 account.venmo.detailedtrans.com
@@ -244,6 +245,7 @@ aemail.discord-accounts.ru
 ambassadors.thepreswordpress.discord-accounts.ru
 analytics.discord-store.ru
 android.detik.com
+api-dev.aws.drivecaminc.xyz
 api-s.das.nl
 api-update-references-orders.dev-inforit.cloud
 api.dandapani.org
@@ -264,6 +266,7 @@ appict.dwtcmarketing.com
 appleid.devmaster.org
 apt-api.datentonne.net
 ar.dian.gov.co
+assets-apj.mkt.dynamics.com
 assets-eur.mkt.dynamics.com
 assets-gbr.mkt.dynamics.com
 atlas-66.deviantart.com
@@ -271,6 +274,7 @@ audio.mellatmehrgallegrolokalnieaaa.aaadmin.derinport.net
 audiocaptcha.danieljmarra.com
 aurorabapenv97798.crmtest.dynamics.com
 auth.duqqy.ru
+authelia.ds.dedyn.io
 authspokegovpass.dss.gov.au
 autodiscover.destmediagroup.com
 autodiscover.discarded.space
@@ -355,11 +359,13 @@ cpcalendars.dokterappleid.com
 cpcalendars.dougpruitt.com
 cpcalendars.dynocomputer.com
 cpcalendars.dynodetailing.ca
+cpcalendars.dynofam.com.sg
 cpcalendars.dynok.net
 cpcalendars.dynomaxoto.com.tr
 cpcalendars.dynomotion.biz
 cpcalendars.dynomotion.com
 cpcalendars.dynopulls.com
+cpcalendars.jab.disco.to
 cpcalendars.mercadotrecos.com.br.dmatechnus.com.br
 cpcalendars.outandaboutpensacosmtp.discord-accounts.ru
 cpcontacts.descargaroblox.top
@@ -370,11 +376,13 @@ cpcontacts.discorv.com
 cpcontacts.dokterappleid.com
 cpcontacts.dougpruitt.com
 cpcontacts.dynodetailing.ca
+cpcontacts.dynofam.com.sg
 cpcontacts.dynok.net
 cpcontacts.dynomaxoto.com.tr
 cpcontacts.dynomotion.biz
 cpcontacts.dynomotion.com
 cpcontacts.dynopulls.com
+cpcontacts.jab.disco.to
 cpcontacts.mercadotrecos.com.br.dmatechnus.com.br
 criteria-blog.digisupportdesk.com
 csstest.st.dhs.gov
@@ -385,6 +393,7 @@ d-zapchast.com.ua
 d24ak3f2b.top
 d7ig4ieghb8arika.com
 da-prd-1.goodville.dxc-ins.com
+da.discardedartshop.com
 dagasv388.gold
 dagasv388.online
 dahlih.com.tw
@@ -397,6 +406,7 @@ daliaomana.com
 damnfoolpress.com
 danagioia.com
 dangphat.vn
+darilynmagnusson.com
 darknatasha.deviantart.com
 darnell.app
 darneluretic.com
@@ -416,6 +426,7 @@ dayuna.top
 db80698f56854981a0dc3395fa9216cc.svc.dynamics.com
 dblinc.com
 dblogistics.com
+dbu3d.com
 dccrestlinefnc.com
 dcfinancialadvice.com.au
 dci.earth
@@ -458,11 +469,14 @@ dev-bay.com
 dev.diabetesnetz.info
 devaros.kiev.ua
 developerscope.com
+developerweb3.xyz
 development.dynasolutions.com
+developweb3.xyz
 devenvs.ru
 devims.pl
 devinstone.bond
 devwebapp.drschaer.com
+dfentertainment.com.sg
 dfubuntu45cunkzd87k4nfja8d4jt.online
 dfyouolsdq.com
 dggm.ru
@@ -493,6 +507,7 @@ digital-report.ru
 digital.dokterappleid.com
 digitaldiscord.org
 digitalkreativ.sk
+digitalnz.org
 digitalretail.daimler.com
 digitalstoresite.com
 digiteket.se
@@ -522,11 +537,14 @@ discrodgift.com
 dishalawfirm.com
 dishes-kfc.com.ru
 diskorid.ee
+dispatcheldservice.com
 district-417.org
 district160.com
 dixonsjamaican.com
 djclegal.com
 djdontyakno.com
+djelixir.com
+djelixir.jab.disco.to
 djonline.com
 dkd-standardpaket-typo3-cms-review-review-tes-pzf2ii.k8s.dkd.dev
 dkd.eu
@@ -598,6 +616,7 @@ dutpartnership.eu
 dxmjyxksvc.com
 dycsi.net
 dynodetailing.ca
+dynofam.com.sg
 dynomotion.biz
 dynomotion.com
 dynomotion.dynomotion.biz
@@ -659,6 +678,7 @@ gitlab.gitlab.firefox.phx1985.duckdns.orgpp.com.dieverdorp.nl
 gitlab.gitlab.git.gitlab.old.discord-acc.ru
 gitlab.gitlab.gitlab.git.3378.uk.viptlab.herokuapp.com.dieverdorp.nl
 graphic.demowebsiteclient.com
+harlingsecurity-staging.digitalgarden.co
 harwicks-art.deviantart.com
 health.demowebsiteclient.com
 help.digitalprachar.app
@@ -683,6 +703,7 @@ interior-nitro.us-east-1.aws.hosted.content.distribution.dtcisb.technology
 inuhoshi-to-darkpen.deviantart.com
 iqmaiulgpzlfb52.caradmin.discord-accounts.ru
 itunes.apple.update.compte.id.doughudson.com
+jab.disco.to
 kampanje.dynops.no
 kasir.docafe.id
 klanten.devilderzonneveld.nl
@@ -705,6 +726,7 @@ login.microsoftonline.ss0.ddnss.ch
 lp.creditconsig.dev-eleveads.com.br
 lyubercy.domclick.ru
 m.discord-store.ru
+m.dynobilotoekspertiznigde.com
 madacon.deviantart.com
 magento.demositexyz.com
 mail.descargaroblox.top
@@ -790,6 +812,7 @@ qgbed1opw5e0yo0.a.discordstore.ru
 r.dhinsights-info.com
 rakuten-jp.douhaosoft.cn
 register.deltainformatica.es
+reinbostore.dynoboyz.com
 relaunch.die-infektastischen-sti.de
 relaunch.dotsys-online.de
 relaunch.drugcom.de
@@ -847,6 +870,7 @@ stg.discord-store.ru
 sts.dfnld.nl
 sts.doc.gov
 support.desys.it
+support.digi8.vn
 support.digitalvirgo.com
 support.dijitli.com
 support.discord-accounts.ru
@@ -971,6 +995,7 @@ www.defence-security.ca
 www.defilippisgaldi.edu.it
 www.deliverancechurchofgod.com
 www.delivery-today.ru
+www.delivery.doceguela.com.br
 www.deliveryclub.com.tr
 www.deliveryfastfood.com.br
 www.deliverypointuae.space
@@ -978,6 +1003,7 @@ www.deliverypointuae.website
 www.deltasupport.nl
 www.demcobank.in
 www.dennislambing.com
+www.derechos.org
 www.deschapenweide.nl
 www.designinformatics.org
 www.designu-posters.dk
@@ -991,6 +1017,7 @@ www.dhl.is
 www.dhltaiwanconnects.com
 www.dialecticanet.com
 www.diamondspa-servicios.com
+www.dickssportinggoods.com
 www.dieselbookstore.com
 www.dietitian.demowebsiteclient.com
 www.digikey.com.mx
@@ -1040,6 +1067,7 @@ www.evenorganizer.desongraha.com
 www.genevieve-nwigwe.demowebsiteclient.com
 www.git.git.git.git.secure.decisionsaltteaching.top
 www.git.git.gitlab.git.members.dsg-service.ru
+www.gitlab.gitlab.git.git.gitlab.git.login.dartunorro.com
 www.graphic.demowebsiteclient.com
 www.health.demowebsiteclient.com
 www.help.digitalprachar.app
