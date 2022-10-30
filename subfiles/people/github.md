@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Croc failing on sending file: lookup localhost on 1.1.1.1:53: no such host](https://github.com/schollz/croc/issues/513)
 - [SSL Support for docker container](https://github.com/m4tt72/terminal/issues/33)
 - [Compatibility with Cloudflare Workers](https://github.com/pusher/pusher-http-node/issues/173)
 - [Unpkg CDN Version is down](https://github.com/developit/mitt/issues/170)
