@@ -3928,6 +3928,7 @@ Do not create new issue or we will close it as duplicate.
 | [isira_adithya@twitter](https://twitter.com/isira_adithya/status/1373518191394091009) | advertise |
 | [isJackeroo@twitter](https://twitter.com/isJackeroo/status/1522157763975008256) | advertise |
 | [Iskecik2@twitter](https://twitter.com/Iskecik2/status/1403090108589301761) | advertise |
+| [IslamerAlo18@twitter](https://twitter.com/IslamerAlo18/status/1586672156456681475) | advertise |
 | [Ismael25945424@twitter](https://twitter.com/Ismael25945424/status/1548610463944118272) | advertise |
 | [ismaillanigi@twitter](https://twitter.com/ismaillanigi/status/1504047577154854912) | advertise |
 | [Ismail_Ittembe@twitter](https://twitter.com/Ismail_Ittembe/status/1389820303510020099) | advertise |
