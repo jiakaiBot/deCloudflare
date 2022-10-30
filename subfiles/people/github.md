@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ["error":"PROXY header missing"](https://github.com/path-network/go-mmproxy/issues/16)
 - [Cannot connect to Discord via websocket](https://github.com/cc-tweaked/cc-restitched/issues/131)
 - [List update failed due to TLS certificate problem](https://github.com/MultiMC/Launcher/issues/4959)
 - [Croc failing on sending file: lookup localhost on 1.1.1.1:53: no such host](https://github.com/schollz/croc/issues/513)
