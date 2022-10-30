@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,221 |
 | net | 1,776 |
 | org | 1,251 |
-| social | 1,235 |
+| social | 1,236 |
 | de | 1,113 |
 
 
@@ -2598,6 +2598,7 @@ Here's a list of public Fediverse services.
 | `btc21m.net` | Yes |
 | `btcmb.org` | No |
 | `btcpins.com` | No |
+| `btrfly.social` | No |
 | `btw.no` | No |
 | `bub.cat` | Yes |
 | `bub.org` | No |
@@ -13233,7 +13234,7 @@ Here's a list of public Fediverse services.
 | `mynetgear.com` | No |
 | `mynextcloudserver.ml` | No |
 | `mynoghra.jp` | No |
-| `myonlinelife.social` | Yes |
+| `myonlinelife.social` | No |
 | `myopic.one` | No |
 | `myops.de` | No |
 | `myown.social` | No |
@@ -19557,7 +19558,7 @@ Here's a list of public Fediverse services.
 | `thenextweb.com` | Yes |
 | `thenice.cafe` | No |
 | `thenintendo.shop` | No |
-| `thenobody.club` | Yes |
+| `thenobody.club` | No |
 | `thenullpointer.net` | Yes |
 | `thenut.zone` | Yes |
 | `theo-lem.org` | No |
@@ -20800,7 +20801,7 @@ Here's a list of public Fediverse services.
 | `uwucocoa.moe` | Yes |
 | `uxg.ch` | No |
 | `uxint.ro` | No |
-| `uyghur.life` | Yes |
+| `uyghur.life` | No |
 | `uysocial.live` | No |
 | `uzomuzo.work` | No |
 | `uzume.uno` | No |
@@ -22513,8 +22514,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,536 |
-| Normal | 17,934 |
+| Cloudflare | 4,533 |
+| Normal | 17,938 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
