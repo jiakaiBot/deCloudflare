@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,220 |
+| com | 3,221 |
 | net | 1,776 |
 | org | 1,251 |
 | social | 1,235 |
@@ -11426,7 +11426,7 @@ Here's a list of public Fediverse services.
 | `maindreieck-tv.de` | No |
 | `mainesocial.xyz` | No |
 | `mainframe.club` | No |
-| `mainz.social` | Yes |
+| `mainz.social` | No |
 | `maiome.xyz` | No |
 | `maique.eu` | No |
 | `maique.xyz` | No |
@@ -12207,6 +12207,7 @@ Here's a list of public Fediverse services.
 | `meow.social` | No |
 | `meow.ws` | No |
 | `meowblackcat.online` | No |
+| `meowcat285.com` | Yes |
 | `meowhome.xyz` | No |
 | `meowr.org` | No |
 | `meows.life` | No |
@@ -22513,7 +22514,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,536 |
-| Normal | 17,933 |
+| Normal | 17,934 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
