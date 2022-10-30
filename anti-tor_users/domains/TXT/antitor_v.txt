@@ -99,6 +99,9 @@ api.via-backend.com
 api.virtusbank.com.br
 api.vivapp.live
 api.volkswagengroup.fr
+apigateway-stg.veritas.com
+apigateway.veritas.com
+apigw.vib.com.vn
 apis.cert.vantiv.com
 app.ftp.mobile.mail.admin.cloud.smtp.remo.support.app.ftp.mobile.mail.admin.cloud.smtp.remote.api.shop.test.dev.blog.m.whm.autodiscover.cpanel.webdisr.cpanel.webdisk.webmail.mail.vids.io
 app.ftp.mobile.mail.admin.cloud.smtp.remote.api.shop.test.dev.blog.m.whm.autodiscover.cpanel.webdisk.webmail.mais.blog.m.whm.autodiscover.cpanel.webdisk.webmail.mail.vids.io
@@ -150,6 +153,7 @@ clouote.api.shop.test.dev.blog.m.whm.autodiscover.cpannel.webdisk.webmail.mail.v
 clouston.v3client.com
 com.cp-ht-3.bigroblog.debug.vojvodinanet.com
 com.inte3ver.cpanel.webdisk.webmail.ex.mgames.www.test.demo.support.app.ftp.wapp.fww.mail.admin.cloud.smtp.reautodiscover.cpanelscover.cpanel.weil.vids.io
+comune.vanzago.mi.it
 connexionhost.verlink.co
 consent.vwgroup.io
 conta.staging.voors.app
@@ -160,9 +164,11 @@ cpanel.webdisk.webmail.ex.mgames.www.test.demo.support.app.ftp.wapp.fww.mail.adm
 cpanel.webdisk.webmunshop.securemail.hmilwwobile.mail.admin.cloud.smtp.remote.api.shop.test.dev.blog.m.whm.o.support.app.ftp.mobile.mail.admin.cloud.smtp.remote.webdisk.webebmail.mail.vids.io
 cpcalendars.verify-security-info.com
 cpcalendars.videodyno.com.au
+cpcalendars.vighospitaljalandhar.com
 cpcalendars.vortexmediaworkshops.com
 cpcontacts.verify-security-info.com
 cpcontacts.videodyno.com.au
+cpcontacts.vighospitaljalandhar.com
 cpcontacts.vortexmediaworkshops.com
 ctf0.vsec.university
 damanipms.visithatta.ae
@@ -312,6 +318,7 @@ remote.wmes.test.demo.support.app.fww.mail.aud.smtpd.smtp.remote.wmes.test.demo.
 remote.wmes.test.demo.support.app.fww.mail.aud.smtpd.smtp.remote.wmes.test.demo.supup.cpanelscover.cpanel.webdisk.webmail.mail.www.vids.io
 reserve.mb.vtb.ru
 ringcaptcha1.vercel.app
+rockstar.v3client.com
 rr.cdn.vodafone.pt
 rr.cdnlab.vodafone.pt
 rspace.services.vision4it.de
@@ -446,7 +453,9 @@ um2gtulat1ohds9.blog.blog.staging.vmail.valetparking.pl
 unify.vaxserve.com
 update21.videosintimes.com
 v1.ru
+v2denizbanksubecom.ml
 v2solutions.com
+v7denizzbanksubecom.ml
 vaastu-numerology.com
 vaccinerights.com
 vainillaweddings.com
@@ -455,6 +464,7 @@ valerianworkshops.com
 valeting-services.com
 validaciondedomicilios.com.mx
 valisecurity.com
+vallidelverbano.va.it
 valuechecker.net
 valuelogic.one
 vampirov-bal.ru
@@ -510,6 +520,7 @@ vipmining.site
 virginiatkd.com
 viroblock.uk
 virtocean.com
+virtuslogic.com.ph
 virupzodis.com
 visaoffers.cf
 visegradinsight.eu
@@ -546,6 +557,7 @@ watmoetik.3275539b.teseupdate.imap.gameflex.mgames.test.demo.support.app.ftp.mob
 webapi.volanty.com
 webdisk.verify-security-info.com
 webdisk.videodyno.com.au
+webdisk.vighospitaljalandhar.com
 webdisk.vortexmediaworkshops.com
 webdisk.webmail.ex.mgames.test.demo.support.app.ftp.wapp.fww.mail.admin.cloud.smtp.reautodiscover.cpanelscover.cpanel.weil.vids.io
 webdisk.webmail.ex.mgames.www.test.demo.support.app.ftp.wapp.fww.mail.admin.cloud.smtp.reautodiscover.cpanelscover.cpanel.weil.vids.io
@@ -578,6 +590,7 @@ www.feb-security.vapetaninyo.info
 www.ftp.mobile.mail.admin.cloud.smtp.remote.api.shop.test.dev.blog.m.whm.autodisbile.mail.admin.clowww.vids.io
 www.fww.mail.admin.clot.app.fww.mail.admin.clofww.mail.aud.smtp.remote.webmail.mail.vids.iud.smtp.remote.webmail.mail.vids.io
 www.git.git.gitlab.gitlab.git.outlook.promo.vanilla.network
+www.gitlab.dev2.cms1blog.secure.vanilla.network
 www.iblogiin-acesso-contasimples.violaocampmkl.online
 www.id-login-apple.verifylocation.live
 www.indiareporters.vedicarestore.com
