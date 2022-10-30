@@ -3083,6 +3083,7 @@ Here's a list of public Fediverse services.
 | `chatstorm.io` | No |
 | `chatsubo.cafe` | Yes |
 | `chatter.vip` | No |
+| `chatterbook.us` | No |
 | `chatterboxtown.us` | No |
 | `chatterly.me` | Yes |
 | `chattr.pub` | No |
@@ -22590,7 +22591,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,547 |
-| Normal | 17,999 |
+| Normal | 18,000 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
