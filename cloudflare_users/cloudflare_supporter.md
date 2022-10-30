@@ -2009,6 +2009,7 @@ Do not create new issue or we will close it as duplicate.
 | [DanielCR93@twitter](https://twitter.com/DanielCR93/status/1377617766539218951) | advertise |
 | [DanielitoKing@twitter](https://twitter.com/DanielitoKing/status/1460241062220509193) | advertise |
 | [DanielS08322454@twitter](https://twitter.com/DanielS08322454/status/1530440950073401344) | advertise |
+| [DanielS95701595@twitter](https://twitter.com/DanielS95701595/status/1586519175379361793) | advertise |
 | [Danielwisdo3@twitter](https://twitter.com/Danielwisdo3/status/1413526421994188806) | advertise |
 | [daniel_Zmdy@twitter](https://twitter.com/daniel_Zmdy/status/1389817835430449152) | advertise |
 | [dAniO500gucci50@twitter](https://twitter.com/dAniO500gucci50/status/1392152995455021061) | advertise |
