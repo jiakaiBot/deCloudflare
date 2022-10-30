@@ -13476,6 +13476,7 @@ Here's a list of public Fediverse services.
 | `ncc1701e.social` | No |
 | `nchoco.net` | No |
 | `ncm.name` | No |
+| `ncot.uk` | Yes |
 | `ncrypt.at` | No |
 | `nd2.uk` | No |
 | `nda.li` | No |
@@ -13866,6 +13867,7 @@ Here's a list of public Fediverse services.
 | `nireus.icu` | No |
 | `nirgendwoher.eu` | No |
 | `nirm.al` | No |
+| `nisa.cat` | No |
 | `niscii.xyz` | Yes |
 | `nishimin.com` | No |
 | `nishimin.net` | No |
@@ -22576,8 +22578,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,545 |
-| Normal | 17,988 |
+| Cloudflare | 4,546 |
+| Normal | 17,989 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
