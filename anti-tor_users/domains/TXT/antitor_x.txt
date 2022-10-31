@@ -33,7 +33,9 @@ clients.x-trait.com
 cpanel.xpressone.com.ph
 cpcalendars.trustwallet.xxuz.com
 cpcontacts.trustwallet.xxuz.com
+earnfreemoney.xaa.pl
 formservice-frontend.xantasoft.com
+git.git.outlook.xn--80aamnof2bfhn9f.xn--p1acf
 image.xpnews.com.br
 media.xiq.io
 navi.xris5.es
@@ -97,6 +99,7 @@ xn--loqin-bcr-r-489e.com
 xn--loqln-bcr-r-489e.com
 xn--mcrosoftoffice-0lb.email
 xn--paypalvrif-h7a.fr
+xn--service-reparaii-bzf.ro
 xn--serviceconstana-knf.ro
 xn--sikkerhetsmned-vib.no
 xn--yug-gla.com
