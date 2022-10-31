@@ -8918,6 +8918,7 @@ Here's a list of public Fediverse services.
 | `irishstew.org` | No |
 | `irithys.com` | Yes |
 | `irkos.uk` | Yes |
+| `irl.dog` | No |
 | `irlnc.org` | No |
 | `irnok.net` | No |
 | `iro-iro.xyz` | Yes |
@@ -12239,6 +12240,7 @@ Here's a list of public Fediverse services.
 | `mentalhealth.social` | No |
 | `mentality.rip` | No |
 | `mentalswarf.com` | No |
+| `menteva.ga` | No |
 | `menzel-it.social` | No |
 | `meo.ws` | Yes |
 | `meow-corp.xyz` | Yes |
@@ -22594,7 +22596,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,548 |
-| Normal | 18,002 |
+| Normal | 18,004 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
