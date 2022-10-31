@@ -130,6 +130,8 @@ www.kurtisane-de-sade.com
 268-review-update-nex-xjzr3w.k2.kilokilo.io
 293.pr.stater.nl.kiwicloud.nl
 299.pr.stater.nl.kiwicloud.nl
+2x-staging.kenexa.com
+2x.kenexa.com
 305.pr.stater.nl.kiwicloud.nl
 306.pr.stater.nl.kiwicloud.nl
 308.pr.stater.nl.kiwicloud.nl
@@ -146,8 +148,11 @@ access0.west.sd.keio.ac.jp
 adminservice-3ds2.kasikornbank.com
 ae907.keap-link002.com
 aimg.kwcdn.com
+amazon.khdoww.club
 api.kefuservice.com
+api.kline-portal.com
 api.kliniq.co
+api.newpoker.klasgaming.com
 app.kazancinnoktasi.site
 apps.kiai.co
 auth.dev.knowledge4retail.org
@@ -162,7 +167,9 @@ consumer.krxd.net
 cpanel.klimaservisairsolution.rs
 cpanel.redtailtelematicstest.com.2d1e8d38a9af69582df36f593-18135.sites.k-hosting.co.uk
 cpcalendars.kangs1610.site
+cpcalendars.managerservice.com.kadjkrejsa.top
 cpcontacts.kangs1590.site
+cpcontacts.managerservice.com.kadjkrejsa.top
 ct.klclick.com
 dc1.ksn.kaspersky-labs.com
 dev2.kensetsu-cloud.jp
@@ -211,6 +218,7 @@ k-lite-codec-pack.org.ua
 kacked.com
 kaishbazaar.com
 kakuyasu-sim.jp
+kalibags.com
 kalibreboru.com
 kalingcha.com
 kampanya-isbak-basvuru-formu-online.ml
@@ -230,6 +238,7 @@ karoserimobilpendingin.com
 karoseritrukmixer.com
 karststsungtu.com
 karyaindofurniture.com
+kashmirawareness.org
 kastellet.com
 katcr.co
 katharsisdrill.art
@@ -249,6 +258,8 @@ ketoblastgummybears.net
 ketodis.com
 key-notion.com
 keysstoreactiivate.live
+kfc-dips.com.ru
+kfc-drinks.com.ru
 kgsia.com
 khanjeeyapness.website
 khawsod.com
@@ -333,6 +344,8 @@ logisticsbureau.keap-link015.com
 m.kabum.com.br
 m.kazancinnoktasi.site
 m.kockw.com
+mdmapdev.kyoboezmore.co.kr
+mo.zmail.kajakktyper.com
 moderplatform.kozelo.com
 money-changer.app.kaymedia.net
 mp.klinikhpservice.web.id
@@ -360,6 +373,7 @@ pt.kareemcapital.com
 push.services.keepersecurity.com
 qa-nursery.dev.kidsly.jp
 qacaptcha.kuadsystem.com
+ragha.klinikhpservice.web.id
 relaunch.kindergesundheit-info.de
 relaunch.kinderstarkmachen.de
 relaunch.klima-mensch-gesundheit.info
@@ -367,6 +381,7 @@ relaunch.klimamenschgesundheit.de
 relaunch.klimamenschgesundheit.info
 rhui-lb.k-square.jp
 salvea22.kunden.com
+sde.kaspersky-labs.com
 securenxvv.kuri2019.com
 service51.keenetic.name
 signin.kaspi.kz
@@ -374,6 +389,7 @@ sit01.kasikornasset.com
 skyldnerportal.kapitalkontroll.no
 smail.kimblegroup.com
 smartotp.kebhana.com
+sso.kinopoisk.ru
 staging-nursery.dev.kidsly.jp
 stardesign11.komit.link
 sts.kfplc.com
@@ -401,6 +417,7 @@ w00dcc71.kasserver.com
 wallet.kinepolis.es
 web.dev.kr.karrotpay.com
 webdisk.kangs1590.site
+webdisk.managerservice.com.kadjkrejsa.top
 webdisk.pantbankenfel.kodbygge.se
 webmail.kangs1610.site
 whatsapp.kkdclient.site
@@ -420,11 +437,13 @@ www.demo.outlook.korpsweb.net
 www.feedback.kaher.edu.in
 www.gastrikevatten-nrg.kravportal.se
 www.git.git.login.kreolyar.ru
+www.git.re.secure.kleinformart.com
 www.gitlab.git.git.org.kolodes.com
 www.gitlab.gitlab.git.gitlab.support.kaydzen.com
 www.goflattrack.kyleswegles.ca
 www.gryaab.kravportal.se
 www.guantes.kpnsafety.com
+www.helpdesk.kantahkrs.id
 www.helpdeskz.kontrakin.com
 www.ice-service.kiamax.org
 www.jnlchem.chttpsupport.kirillreshetnikov.ru
@@ -471,6 +490,7 @@ www.knowitonline.com
 www.koat.com
 www.kockascripta.com
 www.koermit.dk
+www.kollektiv-magazin.com
 www.kompas.tv
 www.kontormarketingdigital.com
 www.koperasimjm.com
@@ -509,6 +529,7 @@ www.kuketz-forum.de
 www.kulinersurabaya.id
 www.kundee.mx
 www.kungfuwomenrva.com
+www.kvoa.com
 www.kyd-store.jp
 www.kyoto-yuka.com
 www.kyuden.co.jp
@@ -519,12 +540,15 @@ www.marketingseo.kometaservice.ro
 www.money-changer.app.kaymedia.net
 www.my.kapitalsecure.com
 www.paketwisatasumatera.konjacsumatra.com
+www.saferique.kenyanollypictures.co.ke
+www.si-arsa.kkmpaket.com
 www.subdomain.kontorexdata.se
 www.support.kaccidesign.com
 www.support.kleversoft.net
 www.support.klikweb.id
 www.ticket.kiosklik.com
 www.traveltime.work.karzbybill.com
+www.wa.klikbank.net
 www.whatsapp.kkdclient.site
 www.www.test.hostmaster.kueche-und-raum.info
 yr789.keap-link013.com
