@@ -2632,6 +2632,7 @@ Do not create new issue or we will close it as duplicate.
 | [exwezaz@twitter](https://twitter.com/exwezaz/status/1571655497371222016) | advertise |
 | [eYb4nxGhTncqUwi@twitter](https://twitter.com/eYb4nxGhTncqUwi/status/1387831352553136129) | advertise |
 | [EYGT12@twitter](https://twitter.com/EYGT12/status/1401417134467469317) | advertise |
+| [eymanyzad@twitter](https://twitter.com/eymanyzad/status/1587010158567251973) | advertise |
 | [eyoung2134@twitter](https://twitter.com/eyoung2134/status/1390776289389289473) | advertise |
 | [eyr661@twitter](https://twitter.com/eyr661/status/1533640464523530240) | advertise |
 | [ey_itsalex@twitter](https://twitter.com/ey_itsalex/status/1391091357591166980) | advertise |
