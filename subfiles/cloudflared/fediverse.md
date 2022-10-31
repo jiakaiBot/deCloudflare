@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,230 |
-| net | 1,786 |
+| net | 1,787 |
 | org | 1,256 |
 | social | 1,244 |
 | de | 1,121 |
@@ -6017,6 +6017,7 @@ Here's a list of public Fediverse services.
 | `fedimaker.space` | No |
 | `fedimas.com` | Yes |
 | `fedimast.com` | No |
+| `fedimon.uk` | No |
 | `fedimovie.com` | Yes |
 | `fedinet.de` | No |
 | `fedinoc.de` | No |
@@ -16563,6 +16564,7 @@ Here's a list of public Fediverse services.
 | `reclaim.technology` | No |
 | `recompilermag.com` | Yes |
 | `recsys.social` | No |
+| `rectongle.net` | No |
 | `recurrent.network` | No |
 | `recurse.com` | No |
 | `recurse.social` | No |
@@ -22598,7 +22600,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,550 |
-| Normal | 18,004 |
+| Normal | 18,006 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
