@@ -9381,6 +9381,7 @@ Do not create new issue or we will close it as duplicate.
 | [the_ayo_ifedapo@twitter](https://twitter.com/the_ayo_ifedapo/status/1402141427564519424) | advertise |
 | [the_kinq_himsef@twitter](https://twitter.com/the_kinq_himsef/status/1547572762717196289) | advertise |
 | [The_Krishna__@twitter](https://twitter.com/The_Krishna__/status/1395310239184949250) | advertise |
+| [the_marv_solo@twitter](https://twitter.com/the_marv_solo/status/1578071608761131009) | advertise |
 | [The_Real_Yule@twitter](https://twitter.com/The_Real_Yule/status/1543227534137065472) | advertise |
 | [the_rhap5ody@twitter](https://twitter.com/the_rhap5ody/status/1434141931500568576) | advertise |
 | [The_Web_Pro@twitter](https://twitter.com/The_Web_Pro/status/1430360803530747906) | advertise |
