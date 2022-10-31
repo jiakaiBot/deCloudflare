@@ -5,6 +5,9 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-09: [FRA (Frankfurt) on 2022-11-09](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5tsntnh6k733)
+- 2022-11-08: [FRA (Frankfurt) on 2022-11-08](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dhgpm9tnlmvt)
+- 2022-11-07: [FRA (Frankfurt) on 2022-11-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gpncl9skwrbz)
 - 2022-11-08: [TPE (Taipei) on 2022-11-08](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/b16ysct3gg4d)
 - 2022-11-04: [CPH (Copenhagen) on 2022-11-04](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cxy15vpkczgg)
 - 2022-11-05: [HKG (Hong Kong) on 2022-11-05](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yqpwjhp766nk)
