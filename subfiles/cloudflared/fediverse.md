@@ -2544,6 +2544,7 @@ Here's a list of public Fediverse services.
 | `brennanbenkert.com` | No |
 | `brentjanderson.com` | Yes |
 | `brettiverse.com` | Yes |
+| `brettspiel.space` | No |
 | `brettspielpony.de` | No |
 | `breugelmans.com` | No |
 | `breukela.de` | No |
@@ -7953,6 +7954,7 @@ Here's a list of public Fediverse services.
 | `heaton.dev` | Yes |
 | `heavensfeel.xyz` | No |
 | `heavy.rocks` | No |
+| `heavymusic.rocks` | No |
 | `heavyrubberslave.com` | Yes |
 | `hebcloud.de` | No |
 | `heberge.fr` | No |
@@ -22708,7 +22710,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,586 |
-| Normal | 18,078 |
+| Normal | 18,080 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
