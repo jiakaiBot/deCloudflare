@@ -3659,6 +3659,7 @@ Do not create new issue or we will close it as duplicate.
 | [HungHuy11921511@twitter](https://twitter.com/HungHuy11921511/status/1477127249556291584) | advertise |
 | [hungk2qh@twitter](https://twitter.com/hungk2qh/status/1402669469009281024) | advertise |
 | [HungMai56616945@twitter](https://twitter.com/HungMai56616945/status/1478139753157455873) | advertise |
+| [HungNgu05091998@twitter](https://twitter.com/HungNgu05091998/status/1586968093498097664) | advertise |
 | [HungNgu26525966@twitter](https://twitter.com/HungNgu26525966/status/1473670648988061698) | advertise |
 | [hungnguyen1798@twitter](https://twitter.com/hungnguyen1798/status/1553784974775828481) | advertise |
 | [HungNguyen2381@twitter](https://twitter.com/HungNguyen2381/status/1571529558171742209) | advertise |
