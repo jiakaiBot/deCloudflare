@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cannot connect to Discord via websocket](https://github.com/cc-tweaked/CC-Tweaked/issues/1197)
+- [Not working with getServerSideProps](https://github.com/otterdev-io/next-sanity-extra/issues/4)
 - [Followed instructions, but Postfix continues to reject all mail](https://github.com/spamhaus/spamassassin-dqs/issues/53)
 - [problem with Eslint upgrading to 0.12.1 on Windows](https://github.com/BuilderIO/qwik/issues/1922)
 - ["error":"PROXY header missing"](https://github.com/path-network/go-mmproxy/issues/16)
