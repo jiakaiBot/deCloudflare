@@ -1650,6 +1650,7 @@ Do not create new issue or we will close it as duplicate.
 | [cesar15245284@twitter](https://twitter.com/cesar15245284/status/1498208854332555264) | advertise |
 | [CesareBonapart3@twitter](https://twitter.com/CesareBonapart3/status/1562510435919986689) | advertise |
 | [cesef@twitter](https://twitter.com/cesef/status/1543653828255432706) | advertise |
+| [cexinsco@twitter](https://twitter.com/cexinsco/status/1587000003612090368) | advertise |
 | [cey36481826@twitter](https://twitter.com/cey36481826/status/1503391992877031434) | advertise |
 | [ce_kyaw@twitter](https://twitter.com/ce_kyaw/status/1397158337012113410) | advertise |
 | [chac_vui@twitter](https://twitter.com/chac_vui/status/1393402667586572288) | advertise |
