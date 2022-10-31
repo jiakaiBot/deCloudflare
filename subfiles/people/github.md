@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error "Process end with All authorizations were not finalized by the CA" for ZeroSSL](https://github.com/linuxserver/docker-swag/issues/288)
 - [Getting Error 403 : The API key specified is invalid](https://github.com/klaviyo/klaviyo-ruby-sdk/issues/11)
 - [Cannot connect to Discord via websocket](https://github.com/cc-tweaked/CC-Tweaked/issues/1197)
 - [Not working with getServerSideProps](https://github.com/otterdev-io/next-sanity-extra/issues/4)
