@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,229 |
-| net | 1,785 |
+| net | 1,786 |
 | org | 1,256 |
 | social | 1,244 |
 | de | 1,121 |
@@ -8862,6 +8862,7 @@ Here's a list of public Fediverse services.
 | `introverts.social` | No |
 | `intspec.ru` | Yes |
 | `inubo.ch` | No |
+| `inuh.net` | No |
 | `inumbra.xyz` | No |
 | `inumimi.net` | No |
 | `inux39.me` | Yes |
@@ -11374,6 +11375,7 @@ Here's a list of public Fediverse services.
 | `macaw.me` | No |
 | `macbeth.cc` | Yes |
 | `macbury.ninja` | Yes |
+| `mace.lol` | Yes |
 | `macfan.ne.jp` | No |
 | `macgirvin.com` | No |
 | `machauer.dev` | No |
@@ -22591,8 +22593,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,547 |
-| Normal | 18,001 |
+| Cloudflare | 4,548 |
+| Normal | 18,002 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
