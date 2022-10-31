@@ -7386,6 +7386,7 @@ Do not create new issue or we will close it as duplicate.
 | [phaethanmg@twitter](https://twitter.com/phaethanmg/status/1391363746556088324) | advertise |
 | [Phamcu5@twitter](https://twitter.com/Phamcu5/status/1553295807767425024) | advertise |
 | [phamhuhu@twitter](https://twitter.com/phamhuhu/status/1377640760888029184) | advertise |
+| [PhamLe75469884@twitter](https://twitter.com/PhamLe75469884/status/1587079210111094784) | advertise |
 | [phammanh180298@twitter](https://twitter.com/phammanh180298/status/1569308331311001603) | advertise |
 | [phamnak179@twitter](https://twitter.com/phamnak179/status/1552091324584988672) | advertise |
 | [PhamPho73652277@twitter](https://twitter.com/PhamPho73652277/status/1551942013079064577) | advertise |
