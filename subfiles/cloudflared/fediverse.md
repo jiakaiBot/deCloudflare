@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,237 |
-| net | 1,793 |
-| org | 1,261 |
-| social | 1,256 |
+| net | 1,794 |
+| org | 1,263 |
+| social | 1,257 |
 | de | 1,131 |
 
 
@@ -1225,6 +1225,7 @@ Here's a list of public Fediverse services.
 | `aragon.sh` | Yes |
 | `araisan.club` | No |
 | `arakawa.xyz` | No |
+| `araneum.org` | No |
 | `arasaka.vip` | No |
 | `arashi.news` | No |
 | `arathe.net` | No |
@@ -4708,7 +4709,7 @@ Here's a list of public Fediverse services.
 | `direct-live.net` | No |
 | `directdon.jp` | No |
 | `directe.cat` | No |
-| `dirk.show` | No |
+| `dirk.show` | Yes |
 | `dirkkelly.com` | Yes |
 | `dirkomatik.de` | No |
 | `dirtyhobby.xyz` | No |
@@ -5449,6 +5450,7 @@ Here's a list of public Fediverse services.
 | `emergeheart.info` | No |
 | `emergenzehack.info` | No |
 | `emeryrose.me` | No |
+| `emi.cx` | Yes |
 | `emilylilyli.me` | No |
 | `emisocks.com` | No |
 | `emma.coop` | No |
@@ -7674,6 +7676,7 @@ Here's a list of public Fediverse services.
 | `guyvernk.com` | No |
 | `gvcr.ca` | No |
 | `gwei.cz` | Yes |
+| `gwitter.li` | No |
 | `gwomp.com` | No |
 | `gwynnestudio.com` | Yes |
 | `gxc.io` | Yes |
@@ -12080,6 +12083,7 @@ Here's a list of public Fediverse services.
 | `mattl.io` | No |
 | `matto.nl` | No |
 | `mattone.net` | No |
+| `mattrnet.org` | No |
 | `mattwilson.org` | No |
 | `mattyatea.me` | Yes |
 | `matubusi.com` | No |
@@ -12151,7 +12155,7 @@ Here's a list of public Fediverse services.
 | `mcnesium.com` | No |
 | `mcphail.uk` | No |
 | `mcr.cool` | No |
-| `mcrn.one` | No |
+| `mcrn.one` | Yes |
 | `mcrygh.net` | Yes |
 | `mcrypt.com` | No |
 | `mcsweeneys.net` | No |
@@ -13779,6 +13783,7 @@ Here's a list of public Fediverse services.
 | `news-p.com` | No |
 | `news-sokuhou.jp` | No |
 | `newsbots.eu` | No |
+| `newsie.social` | Yes |
 | `newskey.cc` | Yes |
 | `newsmastodon.com` | No |
 | `newsmovies.online` | No |
@@ -14152,6 +14157,7 @@ Here's a list of public Fediverse services.
 | `norze.co` | Yes |
 | `norze.world` | Yes |
 | `noscraft.cf` | No |
+| `nosink.eu` | Yes |
 | `nosocial.org` | No |
 | `nospy.net` | No |
 | `nostalghia.xyz` | Yes |
@@ -15927,6 +15933,7 @@ Here's a list of public Fediverse services.
 | `pr0n.space` | No |
 | `pr1nt.xyz` | Yes |
 | `pradenco.com` | No |
+| `prado.it` | Yes |
 | `prankgo.de` | No |
 | `prantare.xyz` | No |
 | `praschnig.com` | No |
@@ -16418,6 +16425,7 @@ Here's a list of public Fediverse services.
 | `raeven.social` | Yes |
 | `rafe.name` | Yes |
 | `rafting.io` | No |
+| `rag.dog` | Yes |
 | `ragdishn.art` | Yes |
 | `rage.lol` | Yes |
 | `rage.love` | No |
@@ -17522,6 +17530,7 @@ Here's a list of public Fediverse services.
 | `schwifty.space` | No |
 | `scicomm.xyz` | No |
 | `sciencemastodon.com` | No |
+| `sciences.re` | No |
 | `sciences.social` | No |
 | `scifi.fyi` | No |
 | `scimone.net` | Yes |
@@ -18120,6 +18129,7 @@ Here's a list of public Fediverse services.
 | `skyjake.fi` | No |
 | `skylair.info` | Yes |
 | `skyliu.me` | Yes |
+| `skymocha.net` | Yes |
 | `skyn3t.in` | No |
 | `skynet.social` | No |
 | `skyshanty.xyz` | No |
@@ -21566,6 +21576,7 @@ Here's a list of public Fediverse services.
 | `westernconnect.org` | No |
 | `westream.at` | No |
 | `westring.digital` | No |
+| `westsideblogger.eu` | No |
 | `weststar.name` | Yes |
 | `wetalkyoulisten.com` | Yes |
 | `wetdry.world` | No |
@@ -22680,8 +22691,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,570 |
-| Normal | 18,067 |
+| Cloudflare | 4,578 |
+| Normal | 18,070 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
