@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,229 |
+| com | 3,230 |
 | net | 1,786 |
 | org | 1,256 |
 | social | 1,244 |
@@ -78,6 +78,7 @@ Here's a list of public Fediverse services.
 | `0x2b375.moe` | No |
 | `0x3c.pl` | Yes |
 | `0x3e7.me` | No |
+| `0x40.au` | Yes |
 | `0x42.ch` | No |
 | `0x57.li` | No |
 | `0x5e.eu` | No |
@@ -12703,6 +12704,7 @@ Here's a list of public Fediverse services.
 | `mo-na.space` | No |
 | `moar.wine` | No |
 | `mob-con.com` | No |
+| `mobi.com` | Yes |
 | `mobie.live` | No |
 | `mobile.co` | Yes |
 | `mobile.st` | No |
@@ -22595,7 +22597,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,548 |
+| Cloudflare | 4,550 |
 | Normal | 18,004 |
 
 
