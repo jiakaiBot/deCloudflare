@@ -356,11 +356,15 @@ ac-service.ro
 academa.io
 academia365.net
 academiafo.ro
+academiaimagenyestilo.live
+academiam3.com
 academianlp.com
+academiaosc.com
 academiaquo.es
 academiaspa.ru
 academiasupply.com
 academie-iyanesidibe.com
+academievoororganisatiecultuur.nl
 academiny.com
 academit.co.il
 academo.pl
@@ -395,11 +399,13 @@ accel365.lt.acemlnb.com
 accesorii-copii.ro
 accesoriiauto.com.ro
 accesoriigsm1.ro
+accesorizam.ro
 accesorizat.ro
 access-banking-to-go.com
 access.avebe.com
 access.hmk.atlas-elektronik.com
 account-login-bcp.cf
+account-noreply.net
 account-webapp-gov.com
 account.ama-account-dknc.ga
 account.ama-account-fhmj.ga
@@ -420,13 +426,16 @@ accounting.almooradi.com
 accounting.amazon-crmp.ru
 accountingone.ro
 accountingpark.ro
+accountingservicesadelaide.com.au
 accounts-basvurular.com
+accounts.arcasoft.llc
 accountsfinanceassignmenthelp.com
 accreditedbackflo.com
 acctbank.com
 acctsecurityverify.ga
 accumed.com
 accusafe.ro
+acehealthandsafety.com.au
 aceroschile.net
 acesanjel.com
 acess-bittrex-login.gq
@@ -454,10 +463,12 @@ actividadesraul.com
 activision.com
 activitysol.org
 actualizare.ro
+actucrypto.info
 acvburnketo.net
 acwyoynw.com
 ad-duaat.com
 ad.atdmt.com
+ad3.adfarm1.adition.com
 adambankcoaching.com
 adaniplots.in
 adaniservice.com
@@ -528,6 +539,7 @@ airrsv.net
 airsoftnuma.com
 airtightsupplies.com
 airxolutionservice.com
+ajelix.com
 akademikpost.com
 akdelta.hr
 akhirpekan.studio
@@ -552,8 +564,10 @@ alemarnicservice.ro
 alert.login.askbzbk.cn
 alerta.id
 alertatecnica.com
+alertepunaise.ca
 alertfoodtr.com
 alertmanager-content-cluster-dev.eye.adviqodev.de
+alertmanager.dev.ops.al-array.com
 alertnesscrc.com
 alerts.autonotifcations.com
 alexalmaz.in.ua
@@ -565,6 +579,7 @@ alianzas-de-titanio.com
 alilatln.aliaxis-la.com
 alimentacaoemaisaude.com
 alinka-shop.com.ua
+alisaqing.bond
 alisservice.com
 alitec.pt
 allaluminio.com.br
@@ -592,6 +607,7 @@ amarachbetoch.com
 amaroseskintagremover.net
 amazefeeds.com
 amazon-account-check03.top
+amazon-activity-checker.com
 amazon-billupdate.com
 amazon-order-account.com
 amazon.active-008.com
@@ -617,6 +633,7 @@ anaayuso.es
 anakpawis.net
 analisispuma.com
 analogist.dk
+analystictrading.fr
 andaluciainteractiva.com
 anddalu7si4an.com
 andinetmanassesanom.com
@@ -630,6 +647,7 @@ ani-chat.net
 animalabuser.co.nz
 anishgiriofficial.com
 anitha.tech
+ankaraopl.com
 anmelden-ing-app.com
 annoorulquran.com
 annualinternetsurvey.com
@@ -677,6 +695,7 @@ apinaknikos.info
 apireposervices.xyz
 apkcrack.co
 aplikabisnis.com
+apmterminals.com
 apoliticos.com
 apost-schedules-au.de
 apoyo3.com
@@ -693,12 +712,15 @@ apple-mac-service.gr
 apple-macfix.live
 apple-online.us
 apple-portal-price-online-support.apple-360-online-support.com
+apple.appleid-uk.com
 applebazaar.cf
 applebazaar.ml
+appleid-apple.info
 appleid-check.com
 appleid-locate-my-ids.xyz
 appleid-mx.com
 appleid.academico.edu.pt
+appleied-supports.com
 appleiforgot.com
 appleld.arg-signs.com
 applepie.allfred.io
@@ -727,14 +749,18 @@ arcticawarszawa.pl
 ardiak.com.br
 areaticket.advict.it
 arenitezill.com
+arewapost.com.ng
 arg-pldacl17.amsiohosting.net
 aridan.md
 arie.org.pe
 arizalar.uz
+ark-fund.pro
 arkgroupp.com.ua
 armband.com.ua
+arocha.ca
 arpicofurniture.com
 arpicolatexfoam.com
+arpiregnskap.no
 arpitools.com
 arrowsmiths.ie
 arsenalservice.kz
@@ -747,6 +773,7 @@ ascomasoprano.website
 aseopramhi.com
 asistepemex.com.mx
 asistepemex.org
+askme4tech.com
 aslpublicworkshop.asl-solutions.com
 asocambieltambocauca.org
 asohiroblog.net
@@ -846,6 +873,7 @@ ayanokoji-onlineshop.jp
 ayccomercializadora.com
 aysucoolingservice.uz
 azaipsee.com
+azapp-mvcrm-cds-phprod.azurewebsites.net
 azcreativo.com
 azem.org.sa
 azkoyen.ma
@@ -876,6 +904,7 @@ br4mv5xs.r.us-east-1.awstrack.me
 brendaaltamiranoc.lt.acemlnb.com
 broadcast.ascentisecommerce.com
 btsec.aucklandairport.co.nz
+bw-equifaxcreditreports-dev-app.azurewebsites.net
 bwgstrategy-dot-yamm-track.appspot.com
 bwhcy.app.link
 bxfybql8.r.us-east-1.awstrack.me
@@ -922,6 +951,7 @@ click.esporte.ativo.com
 click.link.adidas.com
 click.mail.all.com
 click.mail.associationtrends.com
+click.message.americanexpress.com.bh
 clicks.amiqusid.co
 clicks.appletongreenemail.com
 client-api-smp.azurewebsites.net
@@ -930,6 +960,7 @@ clientdashboard.pr-32507.anchorage-development.com
 clientdashboard.pr-33728.anchorage-development.com
 cloud.alemi.dev
 cloud.anthotech.net
+cloud.message.americanexpress.com.bh
 clouddamcdnprodep.azureedge.net
 cloudwalletgriddomain.westeurope-1.eventgrid.azure.net
 cms.authority.org
@@ -968,6 +999,7 @@ cpcontacts.salazaresquivelcgmail.com.actiweb.net
 creditkarmacdn-a.akamaihd.net
 crosscover-coverit-test-api.azurewebsites.net
 croupier.ari-aidata.eu
+crs-sea-as-ptnrmw-de-01.azurewebsites.net
 ct.alogentcloud.com
 cts7x.app.link
 custgov.gcp.anz.co.nz
@@ -1005,6 +1037,7 @@ dip.apia.com.au
 discobrisketbbq.asteamwork.com
 discord-bot.abc-elearning.org
 discord-bot.apiki.com
+discord.aidvia.pk
 discord.arthania.fr
 dishmandaniel073-dot-yamm-track.appspot.com
 docswindowcleaning.bdigitau.a2hosted.com
@@ -1059,6 +1092,7 @@ ft.cs.auone.jp
 ftz0t.app.link
 fusion.awardsuite.com
 g2-cert-dps.azure-devices-provisioning.net
+gamma.na.delivery-injection-troubleshooting.last-mile.amazon.dev
 gateway.atriga.com
 gatoartesano.com.ameyaltzin.com.mx
 genuine-cleaningsolutions2005-dot-yamm-track.appspot.com
@@ -1066,7 +1100,10 @@ geomap.arpa.veneto.it
 gga.apms5.com
 git.git.git.git.git.git.wallet.alaioli.ru
 git.git.gitlab.git.accounts.architrave.ru
+git.git.gitlab.gitlab.authsmtp.animaldegreeprose.online
+git.git.gitlab.gitlab.git.authsmtp.animaldegreeprose.online
 git.git.gitlab.vmail.aquadiveclub.ru
+git.gitlab.git.git.authsmtp.animaldegreeprose.online
 git.gitlab.git.vmail.aquadiveclub.ru
 git.gitlab.gitlab.vmail.aquadiveclub.ru
 git.gitlab.vmail.aquadiveclub.ru
@@ -1075,6 +1112,8 @@ gitlab.git.git.vmail.aquadiveclub.ru
 gitlab.gitlab.vmail.aquadiveclub.ru
 gjan-ns-oct10-4.southcentralus-1.ts.eventgrid-int.azure.net
 glb.a26.fr
+global-canary.azure-devices-provisioning.net
+global.df.azure-devices-provisioning-int.net
 globalmacit.lt.acemlna.com
 gm.automate-webservices.com
 gmail.com.alphaprime.id
@@ -1159,6 +1198,7 @@ mail.aardiscorner.com
 mail.achalasolutions.in
 mail.achsan.website
 mail.adrse.ro
+mail.akhmatkhanov.ru
 mail.apple-mac-support.gr
 mail.appleid-mx.com
 mail.avanpost.ru
@@ -1210,6 +1250,7 @@ notificationservice.gamma.unity.advertising.amazon.dev
 notify.adobe.io
 notify171.alertmessage.com
 np7b7.app.link
+nw-recovery51066.lt.acemlnc.com
 nwp-web-app.azurewebsites.net
 o.actumdigital.com
 o7y96.app.link
@@ -1252,6 +1293,7 @@ portal-latamtravel.appslatam.com
 portal.aamcs.com
 portal.aon.co.nz
 postfixadmin.apc.cpd.assecods.pl
+prakdasx.api.notifications.vector.advertising.amazon.dev
 prattes.users.aboliton.at
 pre-car-001.audi-online.de
 prensa91167.lt.acemlnc.com
@@ -1355,6 +1397,7 @@ skmpcfmx01.lt.acemlnb.com
 smalllocalbrokers.lt.acemlnb.com
 smr.audatex.net
 snsgg.app.link
+softed2.apms5.com
 spark.poc.datadriven.adldigitalservice.com
 sparkhdinsight-4-common-analytics-prod.azurehdinsight.net
 sqr.app.link
@@ -1411,6 +1454,7 @@ tymia-co-dot-yamm-track.appspot.com
 u02ef.app.link
 u6js7.app.link
 uag.acledabank.com.kh
+umps-dot-yamm-track.appspot.com
 unsafe-credential-storage.oasc.ctf.infosec.amazon.dev
 unsub.automizy.com
 update.abi-boxen.de
@@ -1443,6 +1487,8 @@ wcssssxs.r.us-west-2.awstrack.me
 wd-host.azurewebsites.net
 web.ib.mizushobanke-japane.annasx.bond
 web.id.miizuhabanks.andersex.cyou
+webdisk.acrobatica-nda.pt
+webdisk.alusasmultservices.co.mz
 webdisk.amazonarabic.info
 webdisk.appleid-mx.com
 webdisk.applelogisticspackers.in
@@ -1473,8 +1519,10 @@ wwvporlalpersonas.bancochile.cl.avanexa.co.in
 www-1212.dmp.aig.com
 www-1213.dmp.aig.com
 www-1225.dmp.aig.com
+www-al-com.cdn.ampproject.org
 www-cbsnews-com.cdn.ampproject.org
 www-coindesk-com.cdn.ampproject.org
+www-espn-com.cdn.ampproject.org
 www-euronews-com.cdn.ampproject.org
 www-golem-de.cdn.ampproject.org
 www-lexisnexis-com.cdn.ampproject.org
@@ -1489,6 +1537,7 @@ www.a2zbookmarks.com
 www.a2zcpa.com
 www.aane.org
 www.aartal-reifenservice.de
+www.abc10.com
 www.abccolumbia.com
 www.abchandyman-services.com
 www.abercrombie.com
@@ -1518,7 +1567,9 @@ www.accounting.alalawy.com
 www.accountingassociates.ltd
 www.accountingcarts.com
 www.accountingsadvisor.com
+www.accountingservicesadelaide.com.au
 www.accountingtutor.com.au
+www.acehealthandsafety.com.au
 www.acheter-des-vues.online
 www.acop.com
 www.acquisto-crediti.it
@@ -1552,6 +1603,7 @@ www.after-banksy.com
 www.agaapps.co.nz
 www.agacs.in
 www.agenceecofin.com
+www.agenciaecco.com.br
 www.agendadigitale.eu
 www.agenteteconta.com
 www.agfaccesscontrol.com
@@ -1569,10 +1621,13 @@ www.aiconnects.us
 www.air-watch.com
 www.airbnb.com.au
 www.airbnb.com.ua
+www.airbnb.de
+www.airliftexpress.com
 www.airtransat.com
 www.aiscommunityservice.org
 www.aita.website
 www.aj-craneservice.com.aj-craneservice.com
+www.ajbell.co.uk
 www.ajmao.org
 www.ajpoolservice.com.au
 www.ajraven.de
@@ -1587,6 +1642,7 @@ www.alarmsystem.com.co
 www.alea-ambiente.it
 www.alerta.id
 www.alertatecnica.com
+www.alertepunaise.ca
 www.alessandromagnoaxa.edu.it
 www.alexisgideon.com
 www.alfredforum.com
@@ -1605,6 +1661,7 @@ www.amazon.com.mx
 www.amazoniablockchain.com
 www.amazonproduct.shop
 www.ame-et-services-ame-rocky-elagage-lpa.fr
+www.americafirst-login.ga
 www.americanas.com.br
 www.americanbar.org
 www.americanbiosafety.com
@@ -1655,6 +1712,7 @@ www.arkidcservices.com
 www.arodia.com
 www.arpico.com
 www.arpicoinsurance.com
+www.arpiregnskap.arpi.no
 www.arsenalservice.kz
 www.artanddesignworkshop.com
 www.artelsga.com
@@ -1673,12 +1731,14 @@ www.ashikagabank.co.jp
 www.ashoredsupport.com
 www.asianext.com
 www.asimeformacion.es
+www.askme4tech.com
 www.asos.com
 www.aspirationsafety.co.uk
 www.asppavia.it
 www.assuredtracking.com
 www.atebits.com
 www.atepassword.aolc.co.za
+www.athensnews.com
 www.atlantico.eu
 www.atlantis.com
 www.atsistemas.com
@@ -1706,6 +1766,7 @@ www.avenergy.ch
 www.avicloud.com.cn
 www.avisoslaplaca.com
 www.avopolis.gr
+www.avzadel.nl
 www.awyeahcomics.com
 www.axretailgroup.com
 www.bancayxanhdep.asia-tv.in
