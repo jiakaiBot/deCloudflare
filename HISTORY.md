@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-05: [HKG (Hong Kong) on 2022-11-05](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yqpwjhp766nk)
 - 2022-10-31: [BOG (Bogotá) on 2022-10-31](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hq0gn7rpm462)
 - 2022-10-30: [Incorrect DNS Resolution Issue](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ghktt7qkgbsb)
 - 2022-10-29: [Elevated number of HTTP 4xx & 5xx errors in Seattle](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gnlsckfbkb6t)
