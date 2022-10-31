@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,794 |
 | org | 1,263 |
 | social | 1,257 |
-| de | 1,131 |
+| de | 1,132 |
 
 
 - Mastodon, Pleroma, etc
@@ -368,6 +368,7 @@ Here's a list of public Fediverse services.
 | `80o.xyz` | No |
 | `80percent.social` | Yes |
 | `819.blue` | No |
+| `82procent.nl` | No |
 | `8350x.net` | No |
 | `843.pl` | No |
 | `850mb.net` | Yes |
@@ -3541,7 +3542,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `comacero.com` | No |
 | `comam.es` | No |
 | `combatbahai.com` | No |
@@ -5792,6 +5793,7 @@ Here's a list of public Fediverse services.
 | `eyufx.com` | No |
 | `ez-design.net` | No |
 | `ezdog.press` | No |
+| `ezhevita.dev` | Yes |
 | `ezramiguel.me` | No |
 | `f-ggots.online` | No |
 | `f-gs-only.com` | No |
@@ -14620,6 +14622,7 @@ Here's a list of public Fediverse services.
 | `onthecouch.xyz` | No |
 | `onthesecond.com` | No |
 | `ontological.city` | No |
+| `onuu.uno` | Yes |
 | `onzenet.com` | No |
 | `oo.tc` | Yes |
 | `oocsoul.com` | No |
@@ -21499,6 +21502,7 @@ Here's a list of public Fediverse services.
 | `webionite.com` | No |
 | `weblib.re` | No |
 | `webmages.com` | No |
+| `webmontag-kiel.de` | No |
 | `webopt.eu` | Yes |
 | `webos.direct` | No |
 | `webplay.rocks` | No |
@@ -22697,8 +22701,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,579 |
-| Normal | 18,075 |
+| Cloudflare | 4,582 |
+| Normal | 18,076 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
