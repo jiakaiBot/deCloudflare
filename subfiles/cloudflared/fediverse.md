@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,238 |
+| com | 3,239 |
 | net | 1,794 |
 | org | 1,263 |
 | social | 1,257 |
@@ -174,6 +174,7 @@ Here's a list of public Fediverse services.
 | `2077.win` | Yes |
 | `213.link` | No |
 | `2137.social` | No |
+| `21cli.com` | No |
 | `22300-lannion.fr` | No |
 | `22decembre.eu` | No |
 | `24-7.ro` | No |
@@ -8214,6 +8215,7 @@ Here's a list of public Fediverse services.
 | `hobbitasylum.com` | No |
 | `hochminuseins.net` | No |
 | `hochstenbach.net` | Yes |
+| `hock.one` | Yes |
 | `hodakov.me` | Yes |
 | `hodapp.club` | No |
 | `hodl.city` | No |
@@ -11335,6 +11337,7 @@ Here's a list of public Fediverse services.
 | `luololita.com` | No |
 | `luon.net` | No |
 | `lupinjacket.party` | No |
+| `luri.ca` | No |
 | `lurid.pink` | No |
 | `lurk.online` | No |
 | `lurk.org` | No |
@@ -12849,6 +12852,7 @@ Here's a list of public Fediverse services.
 | `monkeystew.social` | No |
 | `monlycee.net` | No |
 | `monmusu.me` | No |
+| `monny.cloud` | No |
 | `mono.cafe` | Yes |
 | `monocles.social` | No |
 | `monocul.us` | Yes |
@@ -12972,6 +12976,7 @@ Here's a list of public Fediverse services.
 | `mouse.photos` | No |
 | `mouse.rocks` | No |
 | `mouse.services` | No |
+| `mousehole.online` | No |
 | `mousou.org` | No |
 | `mousqueton.ru` | No |
 | `mouup.top` | Yes |
@@ -22692,8 +22697,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,578 |
-| Normal | 18,071 |
+| Cloudflare | 4,579 |
+| Normal | 18,075 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
