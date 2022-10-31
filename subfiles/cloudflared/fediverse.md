@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,239 |
-| net | 1,794 |
+| net | 1,795 |
 | org | 1,263 |
 | social | 1,258 |
 | de | 1,134 |
@@ -6145,6 +6145,7 @@ Here's a list of public Fediverse services.
 | `felk.ie` | No |
 | `felleisen.de` | No |
 | `fellies.social` | No |
+| `fellr.net` | No |
 | `felmey.org` | No |
 | `felmo.app` | No |
 | `felvidek.online` | No |
@@ -22705,7 +22706,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,584 |
-| Normal | 18,077 |
+| Normal | 18,078 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
