@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,235 |
-| net | 1,791 |
+| com | 3,236 |
+| net | 1,793 |
 | org | 1,261 |
 | social | 1,256 |
 | de | 1,131 |
@@ -978,6 +978,7 @@ Here's a list of public Fediverse services.
 | `anarchy.video` | No |
 | `anarchychan.moe` | No |
 | `anarchydica.net` | No |
+| `anarchyfox.space` | No |
 | `anarchyplanet.org` | No |
 | `anarela.cyou` | No |
 | `anarkis.net` | No |
@@ -11070,6 +11071,7 @@ Here's a list of public Fediverse services.
 | `loci.onl` | No |
 | `lockdown-online-teknival.org` | No |
 | `locked.social` | No |
+| `locksport.space` | No |
 | `loclx.io` | No |
 | `lodis.se` | No |
 | `lodyb.com` | No |
@@ -14539,6 +14541,7 @@ Here's a list of public Fediverse services.
 | `olry.co` | No |
 | `olry.me` | No |
 | `ols.wtf` | Yes |
+| `olsserv82.com` | Yes |
 | `oltoko.de` | No |
 | `olympe.online` | No |
 | `olympus.blog` | Yes |
@@ -17454,6 +17457,7 @@ Here's a list of public Fediverse services.
 | `schaeferit.de` | No |
 | `schaertl.me` | No |
 | `schattenwe.lt` | No |
+| `schatzkarten.net` | No |
 | `scheid.tech` | No |
 | `schelling.pt` | No |
 | `schemacs.com` | No |
@@ -21663,6 +21667,7 @@ Here's a list of public Fediverse services.
 | `williamscloud.space` | No |
 | `willistonschools.org` | No |
 | `willnorris.com` | No |
+| `willnorris.net` | No |
 | `willow.cafe` | No |
 | `wim.lol` | No |
 | `wimjaap.nl` | No |
@@ -22672,8 +22677,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,568 |
-| Normal | 18,061 |
+| Cloudflare | 4,569 |
+| Normal | 18,065 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
