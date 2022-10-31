@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,237 |
+| com | 3,238 |
 | net | 1,794 |
 | org | 1,263 |
 | social | 1,257 |
@@ -17010,6 +17010,7 @@ Here's a list of public Fediverse services.
 | `rompe.org` | No |
 | `ronbronson.com` | No |
 | `rondoalive.xyz` | Yes |
+| `ronetcloud.com` | No |
 | `rongyi.io` | Yes |
 | `ronin.world` | No |
 | `roobre.es` | No |
@@ -22692,7 +22693,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,578 |
-| Normal | 18,070 |
+| Normal | 18,071 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
