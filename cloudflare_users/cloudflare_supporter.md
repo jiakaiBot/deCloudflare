@@ -10930,6 +10930,7 @@ Do not create new issue or we will close it as duplicate.
 | [zyl2021@twitter](https://twitter.com/zyl2021/status/1394215819488333826) | advertise |
 | [z_genera@twitter](https://twitter.com/z_genera/status/1376912696696705024) | advertise |
 | [_2_2x@twitter](https://twitter.com/_2_2x/status/1552234529355595778) | advertise |
+| [_18th03@twitter](https://twitter.com/_18th03/status/1586936513241440262) | advertise |
 | [_Akamig@twitter](https://twitter.com/_Akamig/status/1394256102632558592) | advertise |
 | [_AliRezaMD@twitter](https://twitter.com/_AliRezaMD/status/1402231881148600320) | advertise |
 | [_awexx@twitter](https://twitter.com/_awexx/status/1390211288136040448) | advertise |
