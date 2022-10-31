@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,236 |
+| com | 3,237 |
 | net | 1,793 |
 | org | 1,261 |
 | social | 1,256 |
@@ -5600,6 +5600,7 @@ Here's a list of public Fediverse services.
 | `eris.social` | Yes |
 | `erisly.social` | Yes |
 | `eristocracy.org` | No |
+| `erneuer.bar` | No |
 | `ernix.jp` | No |
 | `eroaward.com` | No |
 | `erotica.social` | Yes |
@@ -16417,6 +16418,7 @@ Here's a list of public Fediverse services.
 | `raeven.social` | Yes |
 | `rafe.name` | Yes |
 | `rafting.io` | No |
+| `ragdishn.art` | Yes |
 | `rage.lol` | Yes |
 | `rage.love` | No |
 | `rageparty.club` | Yes |
@@ -21797,6 +21799,7 @@ Here's a list of public Fediverse services.
 | `womenwhocode.club` | No |
 | `wonderdome.net` | No |
 | `wonfe.com` | No |
+| `wonkodon.com` | No |
 | `wood-built21.net` | No |
 | `woodenelephants.xyz` | No |
 | `woodpecker.blue` | Yes |
@@ -22677,8 +22680,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,569 |
-| Normal | 18,065 |
+| Cloudflare | 4,570 |
+| Normal | 18,067 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
