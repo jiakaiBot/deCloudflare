@@ -8218,6 +8218,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sagar40471368@twitter](https://twitter.com/Sagar40471368/status/1394306315283959815) | advertise |
 | [SagrJony@twitter](https://twitter.com/SagrJony/status/1378421082592575491) | advertise |
 | [sahand90818531@twitter](https://twitter.com/sahand90818531/status/1584475574302826496) | advertise |
+| [sahand_kherad@twitter](https://twitter.com/sahand_kherad/status/1587038095207268358) | advertise |
 | [sahilbagde20@twitter](https://twitter.com/sahilbagde20/status/1391423702001012740) | advertise |
 | [SahilGa84383029@twitter](https://twitter.com/SahilGa84383029/status/1393828677977206787) | advertise |
 | [SahilJa22654031@twitter](https://twitter.com/SahilJa22654031/status/1505073147191914496) | advertise |
@@ -8294,6 +8295,7 @@ Do not create new issue or we will close it as duplicate.
 | [sallavati@twitter](https://twitter.com/sallavati/status/1395967454065610757) | advertise |
 | [salmank46948405@twitter](https://twitter.com/salmank46948405/status/1382572667207888898) | advertise |
 | [Salman_8778@twitter](https://twitter.com/Salman_8778/status/1447987374500171777) | advertise |
+| [Salva_vakili@twitter](https://twitter.com/Salva_vakili/status/1587052286827581440) | advertise |
 | [Sam13116820@twitter](https://twitter.com/Sam13116820/status/1389851288922333188) | advertise |
 | [sam18606211@twitter](https://twitter.com/sam18606211/status/1387734057543294976) | advertise |
 | [SAM18905293@twitter](https://twitter.com/SAM18905293/status/1549526126602633218) | advertise |
@@ -9533,6 +9535,7 @@ Do not create new issue or we will close it as duplicate.
 | [tidatidaeiei@twitter](https://twitter.com/tidatidaeiei/status/1552580057591214080) | advertise |
 | [tienbisbis@twitter](https://twitter.com/tienbisbis/status/1403337680759394311) | advertise |
 | [tiendat09656415@twitter](https://twitter.com/tiendat09656415/status/1393973420639997954) | advertise |
+| [Tiennguyen341@twitter](https://twitter.com/Tiennguyen341/status/1587047106984185856) | advertise |
 | [tiennguyen1406@twitter](https://twitter.com/tiennguyen1406/status/1397097755831521281) | advertise |
 | [TienNguyenK@twitter](https://twitter.com/TienNguyenK/status/1485196874739249152) | advertise |
 | [Tienphan95@twitter](https://twitter.com/Tienphan95/status/1472563580013002762) | advertise |
