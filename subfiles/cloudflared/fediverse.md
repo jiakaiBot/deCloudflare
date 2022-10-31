@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 3,239 |
 | net | 1,794 |
 | org | 1,263 |
-| social | 1,257 |
-| de | 1,132 |
+| social | 1,258 |
+| de | 1,134 |
 
 
 - Mastodon, Pleroma, etc
@@ -6422,7 +6422,7 @@ Here's a list of public Fediverse services.
 | `foowar.de` | No |
 | `foralltime.icu` | Yes |
 | `force-clan.io` | No |
-| `forcesunseen.com` | No |
+| `forcesunseen.com` | Yes |
 | `ford.id.au` | No |
 | `ford.social` | No |
 | `fores.top` | Yes |
@@ -11089,6 +11089,7 @@ Here's a list of public Fediverse services.
 | `log-level.info` | No |
 | `log.rocks` | Yes |
 | `loganjohndarylgraham.xyz` | No |
+| `logbuch35mm.de` | No |
 | `logged-the-fuck-in.online` | No |
 | `logi.fun` | No |
 | `logic.camp` | No |
@@ -21294,6 +21295,7 @@ Here's a list of public Fediverse services.
 | `volya.xyz` | No |
 | `volzel.net` | No |
 | `von.zone` | No |
+| `vonsee.de` | No |
 | `voomer.co.ke` | No |
 | `voppe.it` | No |
 | `voragine.net` | No |
@@ -21370,6 +21372,7 @@ Here's a list of public Fediverse services.
 | `w3rkhof.zone` | No |
 | `w41.org` | No |
 | `w96k.dev` | No |
+| `w9r.social` | Yes |
 | `wa1.net` | No |
 | `waag.org` | No |
 | `wachbleiben.ch` | No |
@@ -22701,8 +22704,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,582 |
-| Normal | 18,076 |
+| Cloudflare | 4,584 |
+| Normal | 18,077 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
