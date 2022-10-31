@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,234 |
+| com | 3,235 |
 | net | 1,791 |
 | org | 1,261 |
 | social | 1,256 |
-| de | 1,130 |
+| de | 1,131 |
 
 
 - Mastodon, Pleroma, etc
@@ -2029,6 +2029,7 @@ Here's a list of public Fediverse services.
 | `bgzashtita.espisma` | No |
 | `bhh.sh` | No |
 | `bhscs2.club` | Yes |
+| `bhsnw.com` | Yes |
 | `bi119ate5hxk.net` | Yes |
 | `bian-fu.net` | No |
 | `biatek.org` | No |
@@ -6625,6 +6626,7 @@ Here's a list of public Fediverse services.
 | `frentube.com` | No |
 | `frequency.app` | Yes |
 | `frequency.network` | No |
+| `frereit.de` | No |
 | `freshice.org` | Yes |
 | `freundica.de` | No |
 | `freundtech.com` | No |
@@ -22670,8 +22672,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,567 |
-| Normal | 18,060 |
+| Cloudflare | 4,568 |
+| Normal | 18,061 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
