@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,239 |
+| com | 3,240 |
 | net | 1,795 |
 | org | 1,263 |
-| social | 1,258 |
+| social | 1,259 |
 | de | 1,134 |
 
 
@@ -5706,6 +5706,7 @@ Here's a list of public Fediverse services.
 | `evangelisches.online` | No |
 | `evangineer.net` | No |
 | `evans.cologne` | No |
+| `evansims.com` | Yes |
 | `evelyndesu.com` | No |
 | `evelynyap.com` | No |
 | `eveningzoo.club` | No |
@@ -21625,6 +21626,7 @@ Here's a list of public Fediverse services.
 | `whiskeyvalley.space` | No |
 | `whisper.tf` | No |
 | `whisperstorm.xyz` | No |
+| `whispr.social` | Yes |
 | `white-void.net` | No |
 | `whitedissidenttv.com` | No |
 | `whitelion.me` | No |
@@ -22705,7 +22707,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,584 |
+| Cloudflare | 4,586 |
 | Normal | 18,078 |
 
 
