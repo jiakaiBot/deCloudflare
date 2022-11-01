@@ -1530,7 +1530,6 @@ Here's a list of public Fediverse services.
 | `auka.me` | No |
 | `aukfood.net` | No |
 | `aukondk.com` | No |
-| `aunaturel.club` | No |
 | `auntiefasupply.co` | No |
 | `aurakan.org` | No |
 | `aurcanius.org` | Yes |
@@ -5364,7 +5363,6 @@ Here's a list of public Fediverse services.
 | `einemeru.com` | No |
 | `einfacheswebdesign.de` | No |
 | `einmal.jetzt` | No |
-| `einverne.info` | Yes |
 | `einzbern.moe` | No |
 | `einzbern.one` | No |
 | `eipystyilman.beer` | No |
@@ -8254,6 +8252,7 @@ Here's a list of public Fediverse services.
 | `hmarquez.com` | No |
 | `hmf.digital` | No |
 | `hmm.st` | No |
+| `hmn.ist` | No |
 | `hmpf.club` | Yes |
 | `hncj.me` | No |
 | `hnws.me` | Yes |
@@ -8559,6 +8558,7 @@ Here's a list of public Fediverse services.
 | `iametza.com` | No |
 | `iametza.eus` | No |
 | `iamjannik.me` | No |
+| `iamkonstantin.eu` | Yes |
 | `iammer.net` | No |
 | `iamnate.net` | Yes |
 | `iamover18.org` | No |
@@ -10617,7 +10617,6 @@ Here's a list of public Fediverse services.
 | `lazysquirrel.co.uk` | No |
 | `lazyteddy.eu` | No |
 | `lb1a.de` | No |
-| `lbad.ru` | No |
 | `lbry.top` | No |
 | `lbry.world` | Yes |
 | `lcavallaro.com` | Yes |
@@ -11620,6 +11619,7 @@ Here's a list of public Fediverse services.
 | `makimaki.jp` | Yes |
 | `makiroll.space` | No |
 | `makito.me` | Yes |
+| `mako.li` | No |
 | `makotia.me` | No |
 | `makotoworkshop.org` | No |
 | `makrgroup.com` | No |
@@ -22807,6 +22807,7 @@ Here's a list of public Fediverse services.
 | `zusammen.social` | No |
 | `zusammenhalt.de` | No |
 | `zutart.xyz` | Yes |
+| `zuto.ga` | No |
 | `zuyadon.tk` | No |
 | `zuzax.com` | No |
 | `zveryok.pp.ua` | Yes |
@@ -22835,7 +22836,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,611 |
-| Normal | 18,180 |
+| Normal | 18,181 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
