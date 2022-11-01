@@ -1859,6 +1859,7 @@ Do not create new issue or we will close it as duplicate.
 | [CoolMax002ish@twitter](https://twitter.com/CoolMax002ish/status/1399164860928245763) | advertise |
 | [CoolVibez15@twitter](https://twitter.com/CoolVibez15/status/1569708012243238915) | advertise |
 | [CopyImage12@twitter](https://twitter.com/CopyImage12/status/1388503829142851588) | advertise |
+| [cordon272@twitter](https://twitter.com/cordon272/status/1587408631489859584) | advertise |
 | [Corona00039226@twitter](https://twitter.com/Corona00039226/status/1496506233670410242) | advertise |
 | [Corona3331@twitter](https://twitter.com/Corona3331/status/1394599782153342976) | advertise |
 | [corporatethief@twitter](https://twitter.com/corporatethief/status/1534847600037355522) | advertise |
