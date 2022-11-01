@@ -1,13 +1,3 @@
-t.mailing.zeit.de
-www.zahnarzt-eberth-friedenau.de
-www.zahnarzt-muenchen-neuperlach.de
-www.zahnarztpraxis-neukoelln.de
-www.zahnarztpraxis-talesnik.net
-www.zechbauer.de
-www.zenith-watches.com
-www.zinapflegedienst.de
-zoomingjapan.com
-zozo.jp
 media.zat.im
 www.zambetpentruviitor.ro
 www.zennioptical.com
@@ -31,6 +21,7 @@ zumzumar.com
 zxcdn.com
 acceptatie-client.zorgplatform.online
 api.zodomus.com
+api.zurich.de
 assessments.zfco.com
 betadrive.zoho.eu
 cdn.zero-trust-security.de
@@ -119,4 +110,13 @@ zpu.kr.ua
 zsbwoqpcxj.com
 zupan.hr
 zvetokr2hr8pcng09.com
+zwangsraeumung-verhindern.de
+zwetschgenmann.de
 zxr9gpxf7j.com
+www.zahnarzt-muenchen-neuperlach.de
+www.zahnarztpraxis-neukoelln.de
+www.zahnarztpraxis-talesnik.net
+www.zenith-watches.com
+www.zinapflegedienst.de
+zoomingjapan.com
+zozo.jp
