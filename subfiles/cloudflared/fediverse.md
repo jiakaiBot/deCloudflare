@@ -1530,6 +1530,7 @@ Here's a list of public Fediverse services.
 | `auka.me` | No |
 | `aukfood.net` | No |
 | `aukondk.com` | No |
+| `aunaturel.club` | No |
 | `auntiefasupply.co` | No |
 | `aurakan.org` | No |
 | `aurcanius.org` | Yes |
@@ -5045,6 +5046,7 @@ Here's a list of public Fediverse services.
 | `drivet.xyz` | Yes |
 | `drivingshift.com` | Yes |
 | `drizzle-damp.net` | No |
+| `drk.network` | No |
 | `drobune.nl` | Yes |
 | `droitdebout.fr` | No |
 | `dromaeosaur.cloud` | No |
@@ -5362,6 +5364,7 @@ Here's a list of public Fediverse services.
 | `einemeru.com` | No |
 | `einfacheswebdesign.de` | No |
 | `einmal.jetzt` | No |
+| `einverne.info` | Yes |
 | `einzbern.moe` | No |
 | `einzbern.one` | No |
 | `eipystyilman.beer` | No |
@@ -10614,6 +10617,7 @@ Here's a list of public Fediverse services.
 | `lazysquirrel.co.uk` | No |
 | `lazyteddy.eu` | No |
 | `lb1a.de` | No |
+| `lbad.ru` | No |
 | `lbry.top` | No |
 | `lbry.world` | Yes |
 | `lcavallaro.com` | Yes |
@@ -12047,6 +12051,7 @@ Here's a list of public Fediverse services.
 | `mastodonkilledtwitter.tk` | No |
 | `mastodonlibre.ml` | No |
 | `mastodonlist.com` | Yes |
+| `mastodonnederland.online` | No |
 | `mastodonofmystery.world` | No |
 | `mastodononline.site` | No |
 | `mastodonperu.xyz` | Yes |
@@ -20976,6 +20981,7 @@ Here's a list of public Fediverse services.
 | `untraceable.ch` | No |
 | `unturf.com` | No |
 | `untwitter.cf` | No |
+| `unvaxxed.nl` | Yes |
 | `unx.pw` | No |
 | `unyu.live` | Yes |
 | `unzensiert.to` | No |
@@ -22828,8 +22834,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,609 |
-| Normal | 18,176 |
+| Cloudflare | 4,611 |
+| Normal | 18,180 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
