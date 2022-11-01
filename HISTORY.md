@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-10: [FRA (Frankfurt) on 2022-11-10](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4sqqntnw4q28)
 - 2022-11-03: [MRS (Marseille) on 2022-11-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/108bvmmvt4dq)
 - 2022-11-04: [SFO (San Francisco) on 2022-11-04](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6qsmgj8m972p)
 - 2022-10-31: [Elevated error rate for R2](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zmz9n135np44)
