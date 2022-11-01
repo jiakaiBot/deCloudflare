@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,251 |
+| com | 3,252 |
 | net | 1,803 |
-| social | 1,276 |
+| social | 1,277 |
 | org | 1,273 |
-| de | 1,150 |
+| de | 1,151 |
 
 
 - Mastodon, Pleroma, etc
@@ -2313,6 +2313,7 @@ Here's a list of public Fediverse services.
 | `bloguslibrus.fr` | No |
 | `blombus.com` | No |
 | `bloonface.com` | No |
+| `bloor.tw` | No |
 | `blos.sm` | No |
 | `blossoming.dev` | No |
 | `blrsc.me` | No |
@@ -3163,6 +3164,7 @@ Here's a list of public Fediverse services.
 | `chickenfan.club` | No |
 | `chicoca.net` | No |
 | `chidgey.xyz` | No |
+| `chiefgyk3d.com` | Yes |
 | `chiffon-sepxipl.com` | Yes |
 | `chiheisen.moe` | No |
 | `chiji.space` | No |
@@ -8790,6 +8792,7 @@ Here's a list of public Fediverse services.
 | `indie.host` | No |
 | `indiefedi.party` | No |
 | `indiegames.online` | No |
+| `indiehackers.social` | Yes |
 | `indiepocalypse.social` | No |
 | `indieweb.life` | No |
 | `indieweb.me` | No |
@@ -11883,6 +11886,7 @@ Here's a list of public Fediverse services.
 | `mastodon-lyontech.fr` | No |
 | `mastodon-nagano.info` | No |
 | `mastodon-network.com` | No |
+| `mastodon-nieuwspaal.nl` | No |
 | `mastodon-omoshiro.com` | No |
 | `mastodon-robamimi.club` | No |
 | `mastodon-sci.tk` | No |
@@ -17809,6 +17813,7 @@ Here's a list of public Fediverse services.
 | `seizeheures.fr` | No |
 | `seizemeans.com` | No |
 | `sekla.info` | No |
+| `sekretaerbaer.de` | No |
 | `sektori.org` | Yes |
 | `selbach.ca` | No |
 | `selbach.dev` | No |
@@ -22844,8 +22849,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,615 |
-| Normal | 18,186 |
+| Cloudflare | 4,617 |
+| Normal | 18,189 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
