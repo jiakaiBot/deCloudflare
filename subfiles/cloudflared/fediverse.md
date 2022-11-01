@@ -3543,7 +3543,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `comacero.com` | No |
 | `comam.es` | No |
 | `combatbahai.com` | No |
@@ -8960,7 +8960,7 @@ Here's a list of public Fediverse services.
 | `irishstew.org` | No |
 | `irithys.com` | Yes |
 | `irkos.uk` | Yes |
-| `irl.dog` | No |
+| `irl.dog` | Yes |
 | `irlnc.org` | No |
 | `irnok.net` | No |
 | `iro-iro.xyz` | Yes |
@@ -14705,6 +14705,7 @@ Here's a list of public Fediverse services.
 | `openworlds.info` | No |
 | `opera42.com` | No |
 | `operationtulip.com` | No |
+| `opiat.es` | Yes |
 | `oplibris.com` | No |
 | `opliko.dev` | Yes |
 | `opossum.rocks` | No |
@@ -21109,7 +21110,7 @@ Here's a list of public Fediverse services.
 | `verdigado.net` | No |
 | `verified.af` | Yes |
 | `verita84.com` | No |
-| `verkehrswende.social` | No |
+| `verkehrswende.social` | Yes |
 | `verl.xyz` | Yes |
 | `vermeulen.id.au` | No |
 | `vermonters.club` | No |
@@ -22709,8 +22710,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,586 |
-| Normal | 18,080 |
+| Cloudflare | 4,588 |
+| Normal | 18,079 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
