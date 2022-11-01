@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ExchangeError: okx "Trigger orders are not available in buy/sell mode for futures and perpetual swaps"](https://github.com/ccxt/ccxt/issues/15513)
 - [ERROR: TypeError: Invalid Invocation with Cloudflare service binding fetch](https://github.com/prisma-labs/graphql-request/issues/405)
 - [Error "Process end with All authorizations were not finalized by the CA" for ZeroSSL](https://github.com/linuxserver/docker-swag/issues/288)
 - [Getting Error 403 : The API key specified is invalid](https://github.com/klaviyo/klaviyo-ruby-sdk/issues/11)
