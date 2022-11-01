@@ -3838,6 +3838,7 @@ Here's a list of public Fediverse services.
 | `crockett.network` | No |
 | `crocosmia.ca` | No |
 | `cronopio.cloud` | No |
+| `cronos.fish` | No |
 | `croplee.com` | No |
 | `cross-area.com` | No |
 | `cross.net.uk` | No |
@@ -4025,6 +4026,7 @@ Here's a list of public Fediverse services.
 | `cyber.cafe` | No |
 | `cyber.hockey` | No |
 | `cyber.social` | No |
+| `cyberbunker.tech` | No |
 | `cyberbunny.club` | No |
 | `cybercat.cc` | Yes |
 | `cybercirujas.club` | No |
@@ -10288,6 +10290,7 @@ Here's a list of public Fediverse services.
 | `kreatv.org` | No |
 | `krefeld.club` | Yes |
 | `krefeld.life` | No |
+| `krejci.pw` | Yes |
 | `krekow.me` | No |
 | `krems.social` | No |
 | `kres.ch` | No |
@@ -13457,7 +13460,7 @@ Here's a list of public Fediverse services.
 | `n07070.xyz` | No |
 | `n0id.space` | No |
 | `n0n1337h41.com` | Yes |
-| `n0tath1ng.club` | Yes |
+| `n0tath1ng.club` | No |
 | `n3tf5r.me` | Yes |
 | `n3tsphere.org` | No |
 | `n45b.com` | No |
@@ -18831,6 +18834,7 @@ Here's a list of public Fediverse services.
 | `stavros.io` | Yes |
 | `stcat.com` | No |
 | `stcpt.com` | No |
+| `stderr.wtf` | No |
 | `stealingyour.info` | No |
 | `steam-don.fun` | Yes |
 | `steamdb.info` | Yes |
@@ -22810,7 +22814,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,607 |
-| Normal | 18,159 |
+| Normal | 18,163 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
