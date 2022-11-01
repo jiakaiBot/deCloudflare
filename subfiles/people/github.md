@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Trace View crashes when using the "Find" functionality with TypeError: Cannot read properties of null (reading 'toString')](https://github.com/grafana/grafana/issues/58020)
+- [Setting Up Cloudflare to work with Searxng](https://github.com/searxng/searxng-docker/issues/95)
 - [ExchangeError: okx "Trigger orders are not available in buy/sell mode for futures and perpetual swaps"](https://github.com/ccxt/ccxt/issues/15513)
 - [ERROR: TypeError: Invalid Invocation with Cloudflare service binding fetch](https://github.com/prisma-labs/graphql-request/issues/405)
 - [Error "Process end with All authorizations were not finalized by the CA" for ZeroSSL](https://github.com/linuxserver/docker-swag/issues/288)
