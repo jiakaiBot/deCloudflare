@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,240 |
 | net | 1,795 |
-| org | 1,263 |
+| org | 1,264 |
 | social | 1,259 |
 | de | 1,136 |
 
@@ -11985,6 +11985,7 @@ Here's a list of public Fediverse services.
 | `mastodonkilledtwitter.tk` | No |
 | `mastodonlibre.ml` | No |
 | `mastodonlist.com` | Yes |
+| `mastodonofmystery.world` | No |
 | `mastodononline.site` | No |
 | `mastodonperu.xyz` | Yes |
 | `mastodonring.com` | No |
@@ -20724,6 +20725,7 @@ Here's a list of public Fediverse services.
 | `umb.re` | No |
 | `umbrella.cafe` | Yes |
 | `umbrellacorporation.work` | No |
+| `umbrellix.org` | No |
 | `umbriel.fr` | No |
 | `umeahackerspace.se` | No |
 | `umedasp.co.jp` | Yes |
@@ -22713,7 +22715,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,588 |
-| Normal | 18,081 |
+| Normal | 18,083 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
