@@ -1,8 +1,10 @@
-7news.com.au
-myship.7-11.com.tw
 79xmz3lmss.com
+7hills.org.uk
 api.7-eleven.com
 api.7semyan.ru
 loyalty-qa-api.7eleven.com.my
 staging.7rivers.kz
+tr.7wdata.net
 www.ticket.70839.digital
+7news.com.au
+myship.7-11.com.tw
