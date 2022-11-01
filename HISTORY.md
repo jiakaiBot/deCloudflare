@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-04: [SFO (San Francisco) on 2022-11-04](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6qsmgj8m972p)
 - 2022-10-31: [Elevated error rate for R2](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/zmz9n135np44)
 - 2022-11-01: [LAX (Los Angeles) on 2022-11-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/g5nj8rp0zclx)
 - 2022-11-01: [ARN (Stockholm) on 2022-11-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7nrcpycbv3gc)
