@@ -7168,6 +7168,7 @@ Do not create new issue or we will close it as duplicate.
 | [okayyakko@twitter](https://twitter.com/okayyakko/status/1407936483143524353) | advertise |
 | [okellochristo@twitter](https://twitter.com/okellochristo/status/1531884571842818053) | advertise |
 | [Okla12344678833@twitter](https://twitter.com/Okla12344678833/status/1559894067454287876) | advertise |
+| [okynnorhosiery@twitter](https://twitter.com/okynnorhosiery/status/1576256442293968897) | advertise |
 | [Olala85233012@twitter](https://twitter.com/Olala85233012/status/1389032029568651267) | advertise |
 | [OlangstonS@twitter](https://twitter.com/OlangstonS/status/1380699085989089286) | advertise |
 | [OlaSuka62674989@twitter](https://twitter.com/OlaSuka62674989/status/1586320837069504512) | advertise |
