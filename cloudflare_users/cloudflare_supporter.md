@@ -736,6 +736,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aqibmah82111102@twitter](https://twitter.com/Aqibmah82111102/status/1399669775844974595) | advertise |
 | [AquibKh23876904@twitter](https://twitter.com/AquibKh23876904/status/1381641582856785922) | advertise |
 | [ara77225203@twitter](https://twitter.com/ara77225203/status/1379100535165345798) | advertise |
+| [ArabicfoodFood@twitter](https://twitter.com/ArabicfoodFood/status/1587504294537961474) | advertise |
 | [arakimk@twitter](https://twitter.com/arakimk/status/1376016585211580424) | advertise |
 | [ArashikunFu@twitter](https://twitter.com/ArashikunFu/status/1385649237879185411) | advertise |
 | [Aratis15@twitter](https://twitter.com/Aratis15/status/1395012633837850631) | advertise |
