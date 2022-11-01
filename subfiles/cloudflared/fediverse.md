@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,250 |
-| net | 1,802 |
+| com | 3,251 |
+| net | 1,803 |
 | social | 1,274 |
 | org | 1,272 |
-| de | 1,148 |
+| de | 1,149 |
 
 
 - Mastodon, Pleroma, etc
@@ -2398,6 +2398,7 @@ Here's a list of public Fediverse services.
 | `boneheadmedia.com` | Yes |
 | `bonfire.cafe` | No |
 | `bong.social` | No |
+| `bonga.nu` | No |
 | `bongocats.town` | No |
 | `bonifacelabs.ca` | No |
 | `bonk.social` | No |
@@ -2724,6 +2725,7 @@ Here's a list of public Fediverse services.
 | `byl.fr` | No |
 | `byoblu.com` | Yes |
 | `byou.social` | No |
+| `byte.wtf` | Yes |
 | `byte49.exposed` | No |
 | `bytemark.social` | No |
 | `bytepirate.org` | No |
@@ -3687,6 +3689,7 @@ Here's a list of public Fediverse services.
 | `coom.club` | No |
 | `coon.town` | Yes |
 | `cooop.com` | No |
+| `coop.lol` | No |
 | `coop.tools` | No |
 | `coopermatt.com` | No |
 | `cooperserver.com` | No |
@@ -5102,6 +5105,7 @@ Here's a list of public Fediverse services.
 | `dudu.best` | Yes |
 | `dudu.today` | No |
 | `due.ren` | Yes |
+| `dueckert.eu` | No |
 | `duk.space` | No |
 | `dulib.re` | No |
 | `dull.cf` | No |
@@ -5645,6 +5649,7 @@ Here's a list of public Fediverse services.
 | `eruditorum.dev` | No |
 | `ery.kr` | No |
 | `eryptock.xyz` | No |
+| `erzbistum-hamburg.de` | No |
 | `esadhar.net` | No |
 | `escapism.work` | Yes |
 | `escovan.net` | No |
@@ -7812,6 +7817,7 @@ Here's a list of public Fediverse services.
 | `hafkehafke.org` | No |
 | `hagelb.org` | No |
 | `hagen.coffee` | No |
+| `hagew.blog` | No |
 | `haghiri75.com` | No |
 | `hagion.org` | No |
 | `hagoromofox.com` | No |
@@ -9259,6 +9265,7 @@ Here's a list of public Fediverse services.
 | `jaws-ug.okinawa` | No |
 | `jax.social` | No |
 | `jay.xyz` | No |
+| `jaye.sh` | No |
 | `jaysanalysis.com` | No |
 | `jaystevens.me` | Yes |
 | `jazz.af` | No |
@@ -10636,6 +10643,7 @@ Here's a list of public Fediverse services.
 | `learn.cafe` | Yes |
 | `learnawesome.org` | Yes |
 | `learner.tools` | Yes |
+| `learnlearn.in` | No |
 | `leaseissues.org` | No |
 | `lebalkon.de` | No |
 | `lebe.gg` | No |
@@ -11014,6 +11022,7 @@ Here's a list of public Fediverse services.
 | `linuxtrent.it` | No |
 | `linxx.net` | No |
 | `linya.live` | Yes |
+| `linz.best` | No |
 | `lio.one` | No |
 | `liolok.com` | Yes |
 | `lion.land` | No |
@@ -17894,6 +17903,7 @@ Here's a list of public Fediverse services.
 | `sftblw.moe` | Yes |
 | `sfunk1x.com` | No |
 | `sg-mr-schach.de` | No |
+| `sgawolf.com` | No |
 | `sgiath.dev` | No |
 | `sgr.cc` | No |
 | `sgrclowd.xyz` | No |
@@ -18445,6 +18455,7 @@ Here's a list of public Fediverse services.
 | `socialmatrix.us` | No |
 | `socialnet.tech` | No |
 | `socialnetwork.ninja` | No |
+| `socialnotwork.net` | No |
 | `socialnotworking.club` | Yes |
 | `socialpod.me` | Yes |
 | `socialprivacy.network` | No |
@@ -21817,6 +21828,7 @@ Here's a list of public Fediverse services.
 | `windycity.style` | No |
 | `wingartz.de` | No |
 | `wingi.net` | No |
+| `wings.dev` | Yes |
 | `winklerfamilie.eu` | No |
 | `winnick.cloud` | Yes |
 | `winninger.me` | No |
@@ -22813,8 +22825,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,607 |
-| Normal | 18,163 |
+| Cloudflare | 4,609 |
+| Normal | 18,173 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
