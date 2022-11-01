@@ -9332,6 +9332,7 @@ Do not create new issue or we will close it as duplicate.
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
+| [TheMarvSolo@twitter](https://twitter.com/TheMarvSolo/status/1572056650089132038) | advertise |
 | [themichaellamb@twitter](https://twitter.com/themichaellamb/status/1504870147839905794) | advertise |
 | [TheMukeshPatel@twitter](https://twitter.com/TheMukeshPatel/status/1565563880704602112) | advertise |
 | [Theone78028212@twitter](https://twitter.com/Theone78028212/status/1565905872605396992) | advertise |
