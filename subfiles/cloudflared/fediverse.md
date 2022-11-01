@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,251 |
 | net | 1,803 |
-| social | 1,274 |
+| social | 1,275 |
 | org | 1,272 |
 | de | 1,149 |
 
@@ -10392,6 +10392,7 @@ Here's a list of public Fediverse services.
 | `kvlt.zone` | No |
 | `kvokni.cz` | No |
 | `kvvpa.blog` | No |
+| `kw.social` | No |
 | `kwaa.dev` | Yes |
 | `kwaa.moe` | Yes |
 | `kwat.chat` | No |
@@ -15496,6 +15497,7 @@ Here's a list of public Fediverse services.
 | `physis.jp` | No |
 | `pi2.dev` | No |
 | `piaf.eu` | No |
+| `piaille.fr` | No |
 | `piaste.it` | No |
 | `piaty.ovh` | No |
 | `pibvt.net` | Yes |
@@ -21809,6 +21811,7 @@ Here's a list of public Fediverse services.
 | `williamedwards.io` | No |
 | `williamrehwinkel.net` | No |
 | `williamscloud.space` | No |
+| `williamsonday.info` | No |
 | `willistonschools.org` | No |
 | `willnorris.com` | No |
 | `willnorris.net` | No |
@@ -22826,7 +22829,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,609 |
-| Normal | 18,173 |
+| Normal | 18,176 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
