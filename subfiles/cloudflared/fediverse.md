@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,251 |
 | net | 1,803 |
-| social | 1,275 |
-| org | 1,272 |
-| de | 1,149 |
+| social | 1,276 |
+| org | 1,273 |
+| de | 1,150 |
 
 
 - Mastodon, Pleroma, etc
@@ -1530,6 +1530,7 @@ Here's a list of public Fediverse services.
 | `auka.me` | No |
 | `aukfood.net` | No |
 | `aukondk.com` | No |
+| `aunaturel.club` | No |
 | `auntiefasupply.co` | No |
 | `aurakan.org` | No |
 | `aurcanius.org` | Yes |
@@ -5056,6 +5057,7 @@ Here's a list of public Fediverse services.
 | `droom.vision` | No |
 | `dropbear.club` | Yes |
 | `dropbear.xyz` | Yes |
+| `drosophila.social` | No |
 | `drow.be` | No |
 | `drox.zone` | No |
 | `drrsatzteil.de` | No |
@@ -5363,6 +5365,7 @@ Here's a list of public Fediverse services.
 | `einemeru.com` | No |
 | `einfacheswebdesign.de` | No |
 | `einmal.jetzt` | No |
+| `einverne.info` | Yes |
 | `einzbern.moe` | No |
 | `einzbern.one` | No |
 | `eipystyilman.beer` | No |
@@ -6863,6 +6866,7 @@ Here's a list of public Fediverse services.
 | `furest.be` | No |
 | `furf.ag` | No |
 | `furfag.de` | Yes |
+| `furnu.org` | Yes |
 | `furoshiki.work` | Yes |
 | `furpark.kr` | No |
 | `furred.tv` | No |
@@ -9034,6 +9038,7 @@ Here's a list of public Fediverse services.
 | `isdruk.nl` | No |
 | `isekai.fi` | No |
 | `isekai.wtf` | Yes |
+| `iseks.de` | No |
 | `iselfhost.com` | No |
 | `iserv4.me` | No |
 | `isesh.com` | No |
@@ -10617,6 +10622,7 @@ Here's a list of public Fediverse services.
 | `lazysquirrel.co.uk` | No |
 | `lazyteddy.eu` | No |
 | `lb1a.de` | No |
+| `lbad.ru` | No |
 | `lbry.top` | No |
 | `lbry.world` | Yes |
 | `lcavallaro.com` | Yes |
@@ -13954,6 +13960,7 @@ Here's a list of public Fediverse services.
 | `nielniel.net` | No |
 | `nielsemmer.com` | Yes |
 | `niemanlab.org` | No |
+| `nieuwspaal.nl` | Yes |
 | `nifty.cc` | No |
 | `niftycloud.info` | No |
 | `nigger.tax` | No |
@@ -18466,6 +18473,7 @@ Here's a list of public Fediverse services.
 | `socialnotworking.club` | Yes |
 | `socialpod.me` | Yes |
 | `socialprivacy.network` | No |
+| `socialserver.science` | Yes |
 | `socialsocial.club` | No |
 | `socialspace.xyz` | No |
 | `socialtech.net.br` | No |
@@ -20977,6 +20985,7 @@ Here's a list of public Fediverse services.
 | `unsupervised.ca` | Yes |
 | `unsuspicious.website` | Yes |
 | `untan.xyz` | Yes |
+| `until.cloud` | No |
 | `untitledcyberpunkproject.com` | No |
 | `untraceable.ch` | No |
 | `unturf.com` | No |
@@ -22835,8 +22844,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,611 |
-| Normal | 18,181 |
+| Cloudflare | 4,615 |
+| Normal | 18,186 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
