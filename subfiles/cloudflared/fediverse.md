@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,252 |
+| com | 3,253 |
 | net | 1,803 |
-| social | 1,277 |
+| social | 1,278 |
 | org | 1,273 |
 | de | 1,151 |
 
@@ -6424,6 +6424,7 @@ Here's a list of public Fediverse services.
 | `flyaway.city` | Yes |
 | `flying-snail.de` | No |
 | `flyingcube.tech` | No |
+| `flyingmou.se` | No |
 | `flytandemeistring.space` | No |
 | `fm32.com.br` | Yes |
 | `fmind.me` | No |
@@ -8492,6 +8493,7 @@ Here's a list of public Fediverse services.
 | `hungryhacker.com` | Yes |
 | `hunk.city` | No |
 | `hunterjozwiak.com` | No |
+| `huntsvillain.com` | No |
 | `hurgen.com` | No |
 | `huron.social` | No |
 | `hush.is` | Yes |
@@ -14170,6 +14172,7 @@ Here's a list of public Fediverse services.
 | `noisome.space` | No |
 | `noisydeadlines.net` | No |
 | `noisyspot.jp` | No |
+| `noitl.space` | No |
 | `noiz.ie` | No |
 | `noize.guru` | Yes |
 | `noizycat.com` | No |
@@ -16452,6 +16455,7 @@ Here's a list of public Fediverse services.
 | `qwazix.com` | No |
 | `qweer.pw` | No |
 | `qwerjk.com` | No |
+| `qwerq33.social` | No |
 | `qwertqwefsday.eu` | No |
 | `qwerty.city` | No |
 | `qwq.dog` | Yes |
@@ -22850,7 +22854,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,617 |
-| Normal | 18,189 |
+| Normal | 18,193 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
