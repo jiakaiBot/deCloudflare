@@ -9911,6 +9911,7 @@ Do not create new issue or we will close it as duplicate.
 | [TwalTar82309915@twitter](https://twitter.com/TwalTar82309915/status/1393447482672046085) | advertise |
 | [TwanYawai@twitter](https://twitter.com/TwanYawai/status/1390673643043053568) | advertise |
 | [Tweeter_th@twitter](https://twitter.com/Tweeter_th/status/1379436619598422017) | advertise |
+| [twenty4marc@twitter](https://twitter.com/twenty4marc/status/1587379588241440769) | advertise |
 | [TwirraNG@twitter](https://twitter.com/TwirraNG/status/1403705545916399618) | advertise |
 | [TwiT19571372@twitter](https://twitter.com/TwiT19571372/status/1518068569057087488) | advertise |
 | [twitchagouwa@twitter](https://twitter.com/twitchagouwa/status/1499465119918661638) | advertise |
