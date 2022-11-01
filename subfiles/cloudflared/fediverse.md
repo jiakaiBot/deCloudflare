@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,795 |
 | org | 1,263 |
 | social | 1,259 |
-| de | 1,134 |
+| de | 1,136 |
 
 
 - Mastodon, Pleroma, etc
@@ -2038,6 +2038,7 @@ Here's a list of public Fediverse services.
 | `bian-fu.net` | No |
 | `biatek.org` | No |
 | `bibeogaem.zone` | No |
+| `bibinet.de` | No |
 | `biblewordpress.net` | No |
 | `biblewp.com` | No |
 | `biblewp.net` | No |
@@ -17519,6 +17520,7 @@ Here's a list of public Fediverse services.
 | `schnitzel-mit-pommes.de` | No |
 | `schnitzler.one` | No |
 | `schnitzler.pro` | No |
+| `schnuffle.de` | No |
 | `schoentoon.com` | No |
 | `schokoladensouffle.eu` | No |
 | `scholar.social` | No |
@@ -22711,7 +22713,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,588 |
-| Normal | 18,079 |
+| Normal | 18,081 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
