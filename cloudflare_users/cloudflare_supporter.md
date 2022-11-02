@@ -8340,6 +8340,7 @@ Do not create new issue or we will close it as duplicate.
 | [Samsher12808325@twitter](https://twitter.com/Samsher12808325/status/1516307889388163076) | advertise |
 | [samuelibk@twitter](https://twitter.com/samuelibk/status/1404790587375730688) | advertise |
 | [samueljackrtx@twitter](https://twitter.com/samueljackrtx/status/1509751188312391683) | advertise |
+| [samuelll_llll@twitter](https://twitter.com/samuelll_llll/status/1587850198822289408) | advertise |
 | [SamyoFox@twitter](https://twitter.com/SamyoFox/status/1445761137534930952) | advertise |
 | [Sam_Arun_94@twitter](https://twitter.com/Sam_Arun_94/status/1388760215282065413) | advertise |
 | [San28038087@twitter](https://twitter.com/San28038087/status/1477529662368612354) | advertise |
