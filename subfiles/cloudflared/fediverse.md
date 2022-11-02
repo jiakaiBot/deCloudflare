@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,272 |
+| com | 3,273 |
 | net | 1,811 |
 | social | 1,292 |
 | org | 1,278 |
@@ -9240,6 +9240,7 @@ Here's a list of public Fediverse services.
 | `jakechampion.name` | Yes |
 | `jakelacaze.com` | No |
 | `jakepi.net` | No |
+| `jakewharton.com` | No |
 | `jako.social` | Yes |
 | `jakob-altmann.de` | No |
 | `jakob.space` | No |
@@ -22956,7 +22957,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,638 |
-| Normal | 18,274 |
+| Normal | 18,275 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
