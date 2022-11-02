@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,275 |
+| com | 3,276 |
 | net | 1,814 |
-| social | 1,294 |
+| social | 1,296 |
 | org | 1,279 |
 | de | 1,164 |
 
@@ -2395,6 +2395,7 @@ Here's a list of public Fediverse services.
 | `bokgruven.no` | No |
 | `boku.net` | No |
 | `bokuha.ninja` | Yes |
+| `bol.social` | No |
 | `bolddaemon.com` | Yes |
 | `bolebook.com` | No |
 | `boles.social` | Yes |
@@ -7185,6 +7186,7 @@ Here's a list of public Fediverse services.
 | `gegenstimme.tv` | Yes |
 | `gegeweb.eu` | No |
 | `gegeweb.org` | No |
+| `geiger.ee` | Yes |
 | `geislingen.net` | Yes |
 | `geismar.paris` | No |
 | `geisteskultur.de` | Yes |
@@ -11819,6 +11821,7 @@ Here's a list of public Fediverse services.
 | `markdon.ml` | No |
 | `markegli.com` | No |
 | `markham.cc` | Yes |
+| `markjones.cloud` | No |
 | `markofall.com` | No |
 | `markstenglein.com` | No |
 | `markusgran.de` | No |
@@ -19322,6 +19325,7 @@ Here's a list of public Fediverse services.
 | `swiso.org` | No |
 | `swiss-chaos.social` | No |
 | `swiss-talk.net` | Yes |
+| `swiss.social` | No |
 | `switchserver.fr` | Yes |
 | `switter.at` | No |
 | `switter.co` | No |
@@ -20056,6 +20060,7 @@ Here's a list of public Fediverse services.
 | `thexboxcast.co.nz` | Yes |
 | `thexsoft.com` | Yes |
 | `theydonts.top` | Yes |
+| `theyouthandeum.com` | Yes |
 | `thezombie.net` | No |
 | `thezone.zone` | No |
 | `thezujev.com` | No |
@@ -21483,6 +21488,7 @@ Here's a list of public Fediverse services.
 | `visonthe.net` | Yes |
 | `viste.pt` | No |
 | `visualsoul.uk` | No |
+| `vitaulium.nl` | No |
 | `vitonica.com` | No |
 | `vitruvian.services` | No |
 | `vituperio.xyz` | Yes |
@@ -22982,8 +22988,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,648 |
-| Normal | 18,291 |
+| Cloudflare | 4,650 |
+| Normal | 18,295 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
