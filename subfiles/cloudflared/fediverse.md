@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,253 |
+| com | 3,254 |
 | net | 1,803 |
-| social | 1,278 |
-| org | 1,273 |
-| de | 1,151 |
+| social | 1,279 |
+| org | 1,275 |
+| de | 1,152 |
 
 
 - Mastodon, Pleroma, etc
@@ -3704,6 +3704,7 @@ Here's a list of public Fediverse services.
 | `cordelya.net` | Yes |
 | `corebreach.com` | No |
 | `corecoding.dev` | No |
+| `coredump.social` | No |
 | `corepaper.org` | No |
 | `coreshock.de` | No |
 | `corgi.farm` | No |
@@ -5937,7 +5938,7 @@ Here's a list of public Fediverse services.
 | `fandom-mastodon.com` | No |
 | `fandom.garden` | No |
 | `fandom.ink` | Yes |
-| `fandom.party` | Yes |
+| `fandom.party` | No |
 | `fanfare.horse` | No |
 | `fanfou.today` | No |
 | `fangl.in` | Yes |
@@ -7986,6 +7987,7 @@ Here's a list of public Fediverse services.
 | `hcj.sh` | No |
 | `hckr.no` | No |
 | `hcxp.co` | No |
+| `hda.zone` | No |
 | `hdez.nl` | No |
 | `headcannon.xyz` | Yes |
 | `headcrack.cf` | No |
@@ -13127,6 +13129,7 @@ Here's a list of public Fediverse services.
 | `mserdar.net` | No |
 | `msetalk.net` | Yes |
 | `msgdn.xyz` | No |
+| `mshyazilim.com` | No |
 | `msitc.de` | No |
 | `msky.cafe` | Yes |
 | `msky.tokyo` | Yes |
@@ -13191,6 +13194,7 @@ Here's a list of public Fediverse services.
 | `mstdn.com.au` | No |
 | `mstdn.cyou` | Yes |
 | `mstdn.design` | No |
+| `mstdn.dk` | No |
 | `mstdn.es` | Yes |
 | `mstdn.fm` | Yes |
 | `mstdn.fr` | No |
@@ -16168,6 +16172,7 @@ Here's a list of public Fediverse services.
 | `propublica.org` | Yes |
 | `propulse.club` | No |
 | `prose.zone` | No |
+| `prosopa.org` | No |
 | `prosports.space` | No |
 | `prostreamers.net` | No |
 | `protagio.nl` | No |
@@ -16796,6 +16801,7 @@ Here's a list of public Fediverse services.
 | `redwombat.social` | Yes |
 | `redxen.eu` | No |
 | `reece.sx` | Yes |
+| `reekes.org` | Yes |
 | `reekynet.com` | No |
 | `reel2bits.org` | No |
 | `reet.world` | No |
@@ -21619,6 +21625,7 @@ Here's a list of public Fediverse services.
 | `waytoomuch.info` | No |
 | `waytt.cf` | Yes |
 | `waytt.ml` | No |
+| `wazong.de` | No |
 | `wcdi.tech` | No |
 | `wdavery.com` | No |
 | `wdx543.top` | No |
@@ -22854,7 +22861,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,617 |
-| Normal | 18,193 |
+| Normal | 18,200 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
