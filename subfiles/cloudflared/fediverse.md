@@ -16743,6 +16743,7 @@ Here's a list of public Fediverse services.
 | `realtime.fyi` | No |
 | `reapers.de` | No |
 | `reaves.dev` | No |
+| `rebased.io` | Yes |
 | `rebased.network` | Yes |
 | `rebble.net` | No |
 | `rebelbase.site` | No |
@@ -22864,7 +22865,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,619 |
+| Cloudflare | 4,620 |
 | Normal | 18,202 |
 
 
