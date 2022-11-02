@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,277 |
 | net | 1,814 |
-| social | 1,302 |
+| social | 1,303 |
 | org | 1,279 |
 | de | 1,166 |
 
@@ -14825,6 +14825,7 @@ Here's a list of public Fediverse services.
 | `onzenet.com` | No |
 | `oo.tc` | Yes |
 | `oocsoul.com` | No |
+| `ooe.social` | No |
 | `oof.me` | No |
 | `ooio.org` | No |
 | `ookami.one` | No |
@@ -23008,7 +23009,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,657 |
-| Normal | 18,307 |
+| Normal | 18,308 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
