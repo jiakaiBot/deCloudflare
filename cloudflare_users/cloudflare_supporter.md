@@ -2963,6 +2963,7 @@ Do not create new issue or we will close it as duplicate.
 | [GNHIndiapharma@twitter](https://twitter.com/GNHIndiapharma/status/1545223137981337602) | advertise |
 | [GNkulikiyinka@twitter](https://twitter.com/GNkulikiyinka/status/1532895411723292674) | advertise |
 | [go4webdev@twitter](https://twitter.com/go4webdev/status/1435122836037849095) | advertise |
+| [goblissasiaedu@twitter](https://twitter.com/goblissasiaedu/status/1587703983375720448) | advertise |
 | [Gocome4@twitter](https://twitter.com/Gocome4/status/1383405538411614214) | advertise |
 | [godet_fr3akz@twitter](https://twitter.com/godet_fr3akz/status/1435927245130846214) | advertise |
 | [godjezus1469@twitter](https://twitter.com/godjezus1469/status/1404302568566657024) | advertise |
