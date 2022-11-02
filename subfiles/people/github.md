@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [invalid value \"OriginIssuer\" for issuerRef.kind. Must be empty, \"Issuer\" or \"ClusterIssuer\"](https://github.com/cert-manager/cert-manager/issues/5550)
 - [Question: Cannot Mock Response on another URL Domain](https://github.com/facebook/flipper/issues/4290)
 - [RSS plugin does not work with Cloudflare Pages](https://github.com/withastro/astro/issues/5280)
 - [SIGSEGV: segmentation violation code=0x1 addr=0x0](https://github.com/ish-app/ish/issues/1947)
