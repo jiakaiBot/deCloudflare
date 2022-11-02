@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,814 |
 | social | 1,301 |
 | org | 1,279 |
-| de | 1,165 |
+| de | 1,166 |
 
 
 - Mastodon, Pleroma, etc
@@ -3895,6 +3895,7 @@ Here's a list of public Fediverse services.
 | `crunchyroll.com` | Yes |
 | `crunchywatch.uk` | No |
 | `crux.social` | No |
+| `cryne.me` | Yes |
 | `crynet.one` | No |
 | `cryo.jp` | Yes |
 | `cryoit.com` | Yes |
@@ -5648,6 +5649,7 @@ Here's a list of public Fediverse services.
 | `epyisageek.net` | No |
 | `equals.community` | No |
 | `equestria.social` | No |
+| `erabo.de` | No |
 | `eradicatinglove.xyz` | Yes |
 | `eragon.re` | No |
 | `erase.nz` | No |
@@ -18306,6 +18308,7 @@ Here's a list of public Fediverse services.
 | `sixam.xyz` | No |
 | `sixfoisneuf.fr` | No |
 | `sixohthree.com` | No |
+| `sixy.name` | No |
 | `sizedon.com` | No |
 | `sizuma.website` | No |
 | `sjbodzo.com` | Yes |
@@ -22998,8 +23001,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,654 |
-| Normal | 18,301 |
+| Cloudflare | 4,655 |
+| Normal | 18,303 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
