@@ -14830,6 +14830,7 @@ Here's a list of public Fediverse services.
 | `ookami.one` | No |
 | `oomfi.es` | No |
 | `oook.fr` | No |
+| `ooops.cloud` | Yes |
 | `oopsall.gay` | Yes |
 | `oopscommand.com` | No |
 | `oortcloud.online` | No |
@@ -18252,6 +18253,7 @@ Here's a list of public Fediverse services.
 | `silvermag.net` | No |
 | `silvernight.social` | No |
 | `silverseams.com` | No |
+| `silversword.online` | No |
 | `sim.show` | Yes |
 | `simad.pro` | No |
 | `simbly.me` | No |
@@ -18947,6 +18949,7 @@ Here's a list of public Fediverse services.
 | `stanisic.nl` | Yes |
 | `star-one.org.uk` | No |
 | `starapps-network.com` | No |
+| `starbase80.wtf` | No |
 | `starbreaker.org` | No |
 | `stardenver.de` | Yes |
 | `stardenver.eu` | No |
@@ -23004,8 +23007,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,656 |
-| Normal | 18,305 |
+| Cloudflare | 4,657 |
+| Normal | 18,307 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
