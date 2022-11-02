@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,273 |
 | net | 1,811 |
-| social | 1,292 |
+| social | 1,293 |
 | org | 1,278 |
 | de | 1,161 |
 
@@ -1336,6 +1336,7 @@ Here's a list of public Fediverse services.
 | `artalley.social` | Yes |
 | `artchair.net` | No |
 | `arteeh.com` | No |
+| `artemai.art` | No |
 | `artemlab.tk` | No |
 | `artermyss.com` | Yes |
 | `arthack.nz` | No |
@@ -1552,6 +1553,7 @@ Here's a list of public Fediverse services.
 | `ausretrogamer.com` | No |
 | `ausrineblackthorn.com` | No |
 | `austin.community` | No |
+| `aut.social` | No |
 | `authren.systems` | No |
 | `autisten.club` | No |
 | `autisticgoblin.ca` | No |
@@ -7910,6 +7912,7 @@ Here's a list of public Fediverse services.
 | `hamradio.social` | No |
 | `hamradio.space` | Yes |
 | `hamro.social` | Yes |
+| `hamster.science` | No |
 | `hamtter.net` | No |
 | `handelsfrei.org` | No |
 | `handholding.gay` | No |
@@ -9610,6 +9613,7 @@ Here's a list of public Fediverse services.
 | `jtown.xyz` | No |
 | `jtwp470.net` | No |
 | `juandpinto.com` | No |
+| `juanlu.space` | No |
 | `juantrujillo.xyz` | No |
 | `jubaleth.wtf` | Yes |
 | `jubi.life` | No |
@@ -22957,7 +22961,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,638 |
-| Normal | 18,275 |
+| Normal | 18,279 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
