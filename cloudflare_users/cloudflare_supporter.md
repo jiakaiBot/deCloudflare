@@ -9937,6 +9937,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tyler_Scafidi@twitter](https://twitter.com/Tyler_Scafidi/status/1419581282544128001) | advertise |
 | [TYOo74606781@twitter](https://twitter.com/TYOo74606781/status/1395431162689081350) | advertise |
 | [Typicalfc@twitter](https://twitter.com/Typicalfc/status/1418490157586554881) | advertise |
+| [Typlyapp@twitter](https://twitter.com/Typlyapp/status/1587591182213074944) | advertise |
 | [Tyr64976968@twitter](https://twitter.com/Tyr64976968/status/1385845880549384192) | advertise |
 | [Tyty21734951@twitter](https://twitter.com/Tyty21734951/status/1400883940479561729) | advertise |
 | [TZ50609073@twitter](https://twitter.com/TZ50609073/status/1386953958619455490) | advertise |
