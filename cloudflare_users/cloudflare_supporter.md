@@ -984,6 +984,7 @@ Do not create new issue or we will close it as duplicate.
 | [AungPhy83698876@twitter](https://twitter.com/AungPhy83698876/status/1391937564441931781) | advertise |
 | [AungPya04820422@twitter](https://twitter.com/AungPya04820422/status/1393118731111305216) | advertise |
 | [aungpya27698414@twitter](https://twitter.com/aungpya27698414/status/1395053964803166209) | advertise |
+| [AungPya35317011@twitter](https://twitter.com/AungPya35317011/status/1587800498190458882) | advertise |
 | [AungPya41428279@twitter](https://twitter.com/AungPya41428279/status/1395191821051985927) | advertise |
 | [AungPya55963621@twitter](https://twitter.com/AungPya55963621/status/1390364248237248515) | advertise |
 | [AungPyaeOo13@twitter](https://twitter.com/AungPyaeOo13/status/1394180169947095042) | advertise |
@@ -1131,6 +1132,7 @@ Do not create new issue or we will close it as duplicate.
 | [a_rahnavard@twitter](https://twitter.com/a_rahnavard/status/1573282935796805636) | advertise |
 | [b0rzoff@twitter](https://twitter.com/b0rzoff/status/1409774769717792769) | moral (advertise) |
 | [B0t51@twitter](https://twitter.com/B0t51/status/1390031961192734720) | advertise |
+| [B4TNarobae@twitter](https://twitter.com/B4TNarobae/status/1587792556192333824) | advertise |
 | [b7b4c7d8e0a04ec@twitter](https://twitter.com/b7b4c7d8e0a04ec/status/1505572845442662401) | advertise |
 | [ba11z1@twitter](https://twitter.com/ba11z1/status/1585907997930188800) | advertise |
 | [Baalolenvadi@twitter](https://twitter.com/Baalolenvadi/status/1555616002037383168) | advertise |
@@ -2422,6 +2424,7 @@ Do not create new issue or we will close it as duplicate.
 | [Duykhan72674004@twitter](https://twitter.com/Duykhan72674004/status/1552286002219302913) | advertise |
 | [DuyKhoi680029@twitter](https://twitter.com/DuyKhoi680029/status/1516811082567852036) | advertise |
 | [DuyLuyen5@twitter](https://twitter.com/DuyLuyen5/status/1562075735770427393) | advertise |
+| [duymanh2kk@twitter](https://twitter.com/duymanh2kk/status/1587814651449921536) | advertise |
 | [DuyNguy87645607@twitter](https://twitter.com/DuyNguy87645607/status/1399734268423639050) | advertise |
 | [Duynh79557905@twitter](https://twitter.com/Duynh79557905/status/1566221591662342144) | advertise |
 | [Duynkim8@twitter](https://twitter.com/Duynkim8/status/1408479143067459584) | advertise |
@@ -4739,8 +4742,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6273,6 +6276,7 @@ Do not create new issue or we will close it as duplicate.
 | [MrAung99592104@twitter](https://twitter.com/MrAung99592104/status/1394511966169751553) | advertise |
 | [MRbi80554442@twitter](https://twitter.com/MRbi80554442/status/1566644764837298176) | advertise |
 | [mrbishalbaniya@twitter](https://twitter.com/mrbishalbaniya/status/1395599405156241411) | advertise |
+| [MrBolajiBankole@twitter](https://twitter.com/MrBolajiBankole/status/1587823050816372737) | advertise |
 | [MrCapri51525130@twitter](https://twitter.com/MrCapri51525130/status/1395035687993233409) | advertise |
 | [MrChitMaung@twitter](https://twitter.com/MrChitMaung/status/1391087758123446275) | advertise |
 | [MrDee87735756@twitter](https://twitter.com/MrDee87735756/status/1387714262324301829) | advertise |
