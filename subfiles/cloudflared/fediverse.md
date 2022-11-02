@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,256 |
+| com | 3,257 |
 | net | 1,803 |
 | social | 1,279 |
 | org | 1,275 |
@@ -18200,7 +18200,6 @@ Here's a list of public Fediverse services.
 | `sixam.xyz` | No |
 | `sixfoisneuf.fr` | No |
 | `sixohthree.com` | No |
-| `sixy.name` | No |
 | `sizedon.com` | No |
 | `sizuma.website` | No |
 | `sjbodzo.com` | Yes |
@@ -21098,6 +21097,7 @@ Here's a list of public Fediverse services.
 | `utopiaeducators.com` | No |
 | `utopiamachines.com` | No |
 | `utopify.org` | No |
+| `utopioca.com` | No |
 | `utronium.xyz` | No |
 | `utter.studio` | No |
 | `utwente.nl` | No |
