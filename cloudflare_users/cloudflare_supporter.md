@@ -5382,6 +5382,7 @@ Do not create new issue or we will close it as duplicate.
 | [Loctran78766971@twitter](https://twitter.com/Loctran78766971/status/1378360177724776450) | advertise |
 | [loftwah@twitter](https://twitter.com/loftwah/status/1426153321882996737) | advertise |
 | [LoGame17@twitter](https://twitter.com/LoGame17/status/1487789962942726150) | advertise |
+| [LogicSpoke@twitter](https://twitter.com/LogicSpoke/status/1587832367905144833) | advertise |
 | [Logu60041860@twitter](https://twitter.com/Logu60041860/status/1539758751615713281) | advertise |
 | [Loi49922234@twitter](https://twitter.com/Loi49922234/status/1384799893655416833) | advertise |
 | [loinguyen2408@twitter](https://twitter.com/loinguyen2408/status/1552254118227759109) | advertise |
