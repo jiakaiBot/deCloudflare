@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,277 |
 | net | 1,814 |
-| social | 1,301 |
+| social | 1,302 |
 | org | 1,279 |
 | de | 1,166 |
 
@@ -1860,6 +1860,7 @@ Here's a list of public Fediverse services.
 | `baum.social` | No |
 | `bawker.net` | No |
 | `bay.ninja` | No |
+| `bayes.club` | No |
 | `bayfur.club` | No |
 | `bazbaze.com` | No |
 | `bazurk.com` | No |
@@ -6356,6 +6357,7 @@ Here's a list of public Fediverse services.
 | `firenewt.xyz` | Yes |
 | `firewall-sec.com` | No |
 | `firewally.net` | Yes |
+| `firmware.network` | No |
 | `firobe.fr` | No |
 | `firstforest.jp` | No |
 | `firstpost.de` | No |
@@ -9789,7 +9791,7 @@ Here's a list of public Fediverse services.
 | `kalam.digital` | Yes |
 | `kalasarn.se` | No |
 | `kalebporter.club` | No |
-| `kalecream.com` | No |
+| `kalecream.com` | Yes |
 | `kaleido.moe` | Yes |
 | `kalik.in` | Yes |
 | `kallelaine.com` | Yes |
@@ -19239,6 +19241,7 @@ Here's a list of public Fediverse services.
 | `sunshine.town` | No |
 | `sunshinegardens.org` | No |
 | `suomi-kp-31.xyz` | No |
+| `suomi.social` | No |
 | `super-famicom.com` | No |
 | `super-h.xyz` | No |
 | `super-niche.club` | Yes |
@@ -23001,8 +23004,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,655 |
-| Normal | 18,303 |
+| Cloudflare | 4,656 |
+| Normal | 18,305 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
