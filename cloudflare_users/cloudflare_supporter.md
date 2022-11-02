@@ -7989,6 +7989,7 @@ Do not create new issue or we will close it as duplicate.
 | [Realscenephoto1@twitter](https://twitter.com/Realscenephoto1/status/1379524143440396288) | advertise |
 | [realshabbir422@twitter](https://twitter.com/realshabbir422/status/1523552177356419072) | advertise |
 | [realshherr@twitter](https://twitter.com/realshherr/status/1467100098819731457) | advertise |
+| [realtanitsuki@twitter](https://twitter.com/realtanitsuki/status/1587785728053780481) | advertise |
 | [RealTechSwift@twitter](https://twitter.com/RealTechSwift/status/1584963102486822912) | advertise |
 | [RealtonyX@twitter](https://twitter.com/RealtonyX/status/1396496712273960961) | advertise |
 | [real_naser2@twitter](https://twitter.com/real_naser2/status/1583097217497567232) | advertise |
