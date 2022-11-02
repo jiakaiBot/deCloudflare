@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,255 |
+| com | 3,256 |
 | net | 1,803 |
 | social | 1,279 |
 | org | 1,275 |
@@ -599,7 +599,7 @@ Here's a list of public Fediverse services.
 | `adult-social.net` | No |
 | `adventuremalmusic.com` | No |
 | `adventurewithautism.org` | No |
-| `advocrazy.com` | No |
+| `advocrazy.com` | Yes |
 | `adwb.io` | No |
 | `adwebcat.com` | No |
 | `adyxax.org` | Yes |
@@ -17224,6 +17224,7 @@ Here's a list of public Fediverse services.
 | `rthompson.us` | No |
 | `rthur.me` | No |
 | `rtnkv.cloud` | No |
+| `rtorr.com` | Yes |
 | `rtrace.io` | No |
 | `rtsemissions.ch` | No |
 | `rtter.com` | Yes |
@@ -17884,6 +17885,7 @@ Here's a list of public Fediverse services.
 | `seri.gr.jp` | No |
 | `serial.io` | Yes |
 | `serialmay.link` | No |
+| `seriousbusiness.international` | No |
 | `seriousposter.club` | No |
 | `seriphap.com` | No |
 | `serotonin.party` | No |
@@ -18197,6 +18199,7 @@ Here's a list of public Fediverse services.
 | `sixam.xyz` | No |
 | `sixfoisneuf.fr` | No |
 | `sixohthree.com` | No |
+| `sixy.name` | No |
 | `sizedon.com` | No |
 | `sizuma.website` | No |
 | `sjbodzo.com` | Yes |
@@ -22861,8 +22864,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,617 |
-| Normal | 18,201 |
+| Cloudflare | 4,619 |
+| Normal | 18,202 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
