@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,276 |
+| com | 3,277 |
 | net | 1,814 |
-| social | 1,296 |
+| social | 1,298 |
 | org | 1,279 |
 | de | 1,164 |
 
@@ -1457,6 +1457,7 @@ Here's a list of public Fediverse services.
 | `astrolaboratory.club` | No |
 | `astrolovy.com` | No |
 | `astrometrics.xyz` | No |
+| `astronomy.social` | No |
 | `astroport.com` | No |
 | `astrox.xyz` | No |
 | `astrr.ru` | Yes |
@@ -3717,7 +3718,7 @@ Here's a list of public Fediverse services.
 | `coom.club` | No |
 | `coon.town` | Yes |
 | `cooop.com` | No |
-| `coop.lol` | No |
+| `coop.lol` | Yes |
 | `coop.tools` | No |
 | `coopermatt.com` | No |
 | `cooperserver.com` | No |
@@ -8558,6 +8559,7 @@ Here's a list of public Fediverse services.
 | `huut.is` | Yes |
 | `huxley.cloud` | No |
 | `hvalhus.ca` | Yes |
+| `hvddl.com` | Yes |
 | `hvn.network` | Yes |
 | `hw25.io` | Yes |
 | `hw2k.com` | No |
@@ -21280,6 +21282,7 @@ Here's a list of public Fediverse services.
 | `van-hemmen.com` | No |
 | `vanbeek.nz` | No |
 | `vance.land` | No |
+| `vancity.social` | No |
 | `vandal.tech` | No |
 | `vandermeyden.org` | No |
 | `vanderwarker.family` | Yes |
@@ -22988,8 +22991,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,650 |
-| Normal | 18,295 |
+| Cloudflare | 4,652 |
+| Normal | 18,296 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
