@@ -16915,6 +16915,7 @@ Here's a list of public Fediverse services.
 | `reinboar.space` | Yes |
 | `reinboar.xyz` | Yes |
 | `reindeer.photos` | No |
+| `reinemuth.rocks` | No |
 | `reingefuchst.de` | Yes |
 | `reinhart1010.id` | Yes |
 | `reiphoto.net` | Yes |
@@ -22981,7 +22982,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,648 |
-| Normal | 18,289 |
+| Normal | 18,290 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
