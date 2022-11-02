@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-09: [MAA (Chennai) on 2022-11-09](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ycsgkq4ssmn7)
 - 2022-11-12: [HKG (Hong Kong) on 2022-11-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yz0l1n35v4lp)
 - 2022-11-07: [CDG (Paris) on 2022-11-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/l6tnbr63ry6n)
 - 2022-11-04: [SEA (Seattle) on 2022-11-04](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/z3kfm4dl96g1)
