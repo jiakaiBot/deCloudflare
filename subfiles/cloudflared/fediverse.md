@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,275 |
-| net | 1,813 |
+| net | 1,814 |
 | social | 1,294 |
 | org | 1,279 |
 | de | 1,164 |
@@ -10027,6 +10027,7 @@ Here's a list of public Fediverse services.
 | `kielbrett.de` | No |
 | `kierenconnell.com` | Yes |
 | `kierznowski.pro` | No |
+| `kiesow.net` | No |
 | `kiez.xyz` | No |
 | `kif.rocks` | No |
 | `kig.life` | No |
@@ -22982,7 +22983,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,648 |
-| Normal | 18,290 |
+| Normal | 18,291 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
