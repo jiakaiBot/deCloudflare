@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,254 |
+| com | 3,255 |
 | net | 1,803 |
 | social | 1,279 |
 | org | 1,275 |
@@ -3971,6 +3971,7 @@ Here's a list of public Fediverse services.
 | `curmudgeon.cafe` | No |
 | `curmudgeon.tech` | No |
 | `currentdir.com` | No |
+| `currentlyhq.com` | No |
 | `currentpllc.com` | No |
 | `currydon.com` | No |
 | `cursed-images.xyz` | Yes |
@@ -22861,7 +22862,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,617 |
-| Normal | 18,200 |
+| Normal | 18,201 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
