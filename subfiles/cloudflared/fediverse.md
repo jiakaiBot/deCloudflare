@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,277 |
 | net | 1,814 |
-| social | 1,298 |
+| social | 1,301 |
 | org | 1,279 |
-| de | 1,164 |
+| de | 1,165 |
 
 
 - Mastodon, Pleroma, etc
@@ -5316,6 +5316,7 @@ Here's a list of public Fediverse services.
 | `eddiehinkle.com` | No |
 | `eddland.co.uk` | No |
 | `eddyssofa.com` | No |
+| `edelmann.bond` | Yes |
 | `eden.one` | No |
 | `edgarogh.fr` | No |
 | `edge4cube.work` | Yes |
@@ -5457,6 +5458,7 @@ Here's a list of public Fediverse services.
 | `elephwnt.be` | No |
 | `elespanol.com` | Yes |
 | `eletusk.club` | No |
+| `elevenways.be` | No |
 | `elfenban.de` | Yes |
 | `elfland.me` | No |
 | `elfnostate.info` | No |
@@ -6051,6 +6053,7 @@ Here's a list of public Fediverse services.
 | `federa.site` | No |
 | `federado.es` | No |
 | `federarks.xyz` | No |
+| `federate.social` | No |
 | `federated-networks.org` | No |
 | `federated.cf` | No |
 | `federated.city` | No |
@@ -6951,6 +6954,7 @@ Here's a list of public Fediverse services.
 | `futureresearch.club` | No |
 | `futuretic.fr` | No |
 | `futureunknown.cafe` | No |
+| `futurevista.social` | No |
 | `futurnumerique.com` | No |
 | `futvretown.com` | No |
 | `fuwa.pink` | No |
@@ -10195,6 +10199,7 @@ Here's a list of public Fediverse services.
 | `kn-cloud.de` | No |
 | `knar.ph` | No |
 | `kneegrows.top` | No |
+| `kneitzel.de` | No |
 | `knh.uno` | No |
 | `knickerghost.com` | No |
 | `knnl.haus` | No |
@@ -13170,6 +13175,7 @@ Here's a list of public Fediverse services.
 | `mpda.ru` | No |
 | `mpmilestogo.site` | Yes |
 | `mpsf.group` | No |
+| `mpx.social` | Yes |
 | `mpy.ovh` | No |
 | `mr.am` | Yes |
 | `mr64.net` | No |
@@ -17345,6 +17351,7 @@ Here's a list of public Fediverse services.
 | `ruhuna.jp` | No |
 | `ruinous.social` | Yes |
 | `ruinouspowe.rs` | No |
+| `ruk.ca` | No |
 | `rukavina.family` | No |
 | `rukavina.net` | No |
 | `rukin.me` | Yes |
@@ -22991,8 +22998,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,652 |
-| Normal | 18,296 |
+| Cloudflare | 4,654 |
+| Normal | 18,301 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
