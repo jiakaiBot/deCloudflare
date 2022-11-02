@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [SIGSEGV: segmentation violation code=0x1 addr=0x0](https://github.com/ish-app/ish/issues/1947)
 - [Trace View crashes when using the "Find" functionality with TypeError: Cannot read properties of null (reading 'toString')](https://github.com/grafana/grafana/issues/58020)
 - [Setting Up Cloudflare to work with Searxng](https://github.com/searxng/searxng-docker/issues/95)
 - [ExchangeError: okx "Trigger orders are not available in buy/sell mode for futures and perpetual swaps"](https://github.com/ccxt/ccxt/issues/15513)
