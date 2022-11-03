@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,298 |
+| com | 3,301 |
 | net | 1,824 |
-| social | 1,330 |
+| social | 1,331 |
 | org | 1,285 |
 | de | 1,181 |
 
@@ -9008,6 +9008,7 @@ Here's a list of public Fediverse services.
 | `inkyara-kami.me` | No |
 | `inman.xyz` | No |
 | `inmmosiliketo.tk` | No |
+| `inndy.tw` | Yes |
 | `innerwebs.social` | Yes |
 | `innkeep.co` | No |
 | `innkeepergames.com` | No |
@@ -9040,6 +9041,7 @@ Here's a list of public Fediverse services.
 | `instance.business` | No |
 | `instance.community` | Yes |
 | `instaporn.org` | No |
+| `instigation.fr` | No |
 | `int21h.eu` | No |
 | `int5.net` | No |
 | `intahnet.co.uk` | Yes |
@@ -15181,6 +15183,7 @@ Here's a list of public Fediverse services.
 | `ouroboros.monster` | No |
 | `oursocialism.today` | No |
 | `oursquad.rocks` | Yes |
+| `ourtribeonline.com` | No |
 | `ourvillage.news` | Yes |
 | `ourvillage.social` | Yes |
 | `ourwebgrove.com` | No |
@@ -17278,6 +17281,7 @@ Here's a list of public Fediverse services.
 | `roadtoad.social` | No |
 | `roamancing.com` | No |
 | `rob.in.net` | No |
+| `robbevanherck.be` | No |
 | `robboss.art` | No |
 | `robbyzambito.me` | No |
 | `robekworld.com` | No |
@@ -17877,6 +17881,7 @@ Here's a list of public Fediverse services.
 | `schumann.social` | No |
 | `schuppen.dev` | Yes |
 | `schuppentier.org` | No |
+| `schuppentier.social` | No |
 | `schutt.social` | No |
 | `schwartzh.com` | No |
 | `schwartzwelt.xyz` | No |
@@ -18904,6 +18909,7 @@ Here's a list of public Fediverse services.
 | `spacetruckin.io` | No |
 | `spacewizard.space` | No |
 | `spaetzle.info` | No |
+| `spaghettimonster.church` | No |
 | `spam.social` | No |
 | `spamourai.fr` | No |
 | `spank.ws` | No |
@@ -21574,6 +21580,7 @@ Here's a list of public Fediverse services.
 | `videod.fr` | No |
 | `videofed.com` | No |
 | `videogamesmen.com` | No |
+| `videohaven.com` | No |
 | `videonaute.fr` | No |
 | `videoneat.com` | Yes |
 | `videopen.net` | Yes |
@@ -21663,6 +21670,7 @@ Here's a list of public Fediverse services.
 | `vkdn.jp` | No |
 | `vladcampos.eu` | Yes |
 | `vladtepesblog.com` | Yes |
+| `vleij.com` | No |
 | `vlen.org` | No |
 | `vlenture.org` | No |
 | `vlkpack.com` | Yes |
@@ -21866,6 +21874,7 @@ Here's a list of public Fediverse services.
 | `wangofett.com` | No |
 | `wants.coffee` | No |
 | `wantscuddl.es` | No |
+| `wao.wtf` | No |
 | `wapanafa.org` | No |
 | `wapnitsky.com` | No |
 | `wappie.land` | Yes |
@@ -22271,6 +22280,7 @@ Here's a list of public Fediverse services.
 | `woodenelephants.xyz` | No |
 | `woodpecker.blue` | Yes |
 | `woodphant.fr` | No |
+| `woodplate.club` | No |
 | `woof.group` | No |
 | `woolly.world` | No |
 | `woop.cf` | No |
@@ -22506,6 +22516,7 @@ Here's a list of public Fediverse services.
 | `xn--49ap3c.xn--y9a3aq` | No |
 | `xn--69aa8bzb.xn--y9a3aq` | No |
 | `xn--6r8h.tk` | No |
+| `xn--7fw.xyz` | No |
 | `xn--7s9hd.ws` | No |
 | `xn--80a0achj.xn--p1acf` | No |
 | `xn--80aa2ajy.xn--p1acf` | No |
@@ -23162,8 +23173,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,692 |
-| Normal | 18,427 |
+| Cloudflare | 4,693 |
+| Normal | 18,437 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
