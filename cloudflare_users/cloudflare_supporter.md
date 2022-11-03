@@ -2063,6 +2063,7 @@ Do not create new issue or we will close it as duplicate.
 | [darrenwjlau@twitter](https://twitter.com/darrenwjlau/status/1525234853850931201) | advertise |
 | [darrinW00699755@twitter](https://twitter.com/darrinW00699755/status/1563340945717727232) | advertise |
 | [darthkay0@twitter](https://twitter.com/darthkay0/status/1504205557720403976) | advertise |
+| [Daruoos73932665@twitter](https://twitter.com/Daruoos73932665/status/1588305781702955010) | advertise |
 | [dasith_vidanage@twitter](https://twitter.com/dasith_vidanage/status/1386590411515305984) | advertise |
 | [daskeyencoded@twitter](https://twitter.com/daskeyencoded/status/1509951324871401491) | advertise |
 | [dat36275840@twitter](https://twitter.com/dat36275840/status/1553072312714272768) | advertise |
