@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-08: [MEL (Melbourne) on 2022-11-08](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/h4z68tmgmm8p)
+- 2022-11-04: [AKL (Auckland) on 2022-11-04](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gmzsg943f517)
 - 2022-11-02: [Increased HTTP 504 Errors for traffic to some data centers.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/s24dgvsl07jk)
 - 2022-11-02: [Elevated R2 error rates in our North America regions.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4r6d9mpsxpyj)
 - 2022-11-09: [MAA (Chennai) on 2022-11-09](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ycsgkq4ssmn7)
