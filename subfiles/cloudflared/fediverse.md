@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,303 |
-| net | 1,824 |
-| social | 1,331 |
+| net | 1,825 |
+| social | 1,332 |
 | org | 1,285 |
 | de | 1,181 |
 
@@ -5308,6 +5308,7 @@ Here's a list of public Fediverse services.
 | `ebisu.me` | Yes |
 | `eble.name` | No |
 | `ebnar.xyz` | No |
+| `eboboserver.ru` | No |
 | `eboks.social` | No |
 | `ebola.moe` | No |
 | `ebooks.social` | No |
@@ -9603,7 +9604,6 @@ Here's a list of public Fediverse services.
 | `johns-blog.de` | Yes |
 | `johntrain.org` | Yes |
 | `joindiaspora.com` | No |
-| `joinfediverse.com` | No |
 | `joinfediverse.online` | No |
 | `joinfreedom.tk` | No |
 | `joingardens.com` | No |
@@ -13177,6 +13177,7 @@ Here's a list of public Fediverse services.
 | `mooooo.ooo` | Yes |
 | `moose.land` | No |
 | `moosecow.net` | Yes |
+| `moosetodon.com` | No |
 | `mooshoe.me` | Yes |
 | `mootech.eu` | No |
 | `moparisthe.best` | No |
@@ -18629,6 +18630,7 @@ Here's a list of public Fediverse services.
 | `snap.as` | No |
 | `snap.photo` | No |
 | `snap.st` | Yes |
+| `snapp.social` | No |
 | `snarfed.org` | No |
 | `snargol.com` | No |
 | `snarky.club` | No |
@@ -22629,6 +22631,7 @@ Here's a list of public Fediverse services.
 | `xserver.work` | No |
 | `xsoftware.it` | No |
 | `xsteadfastx.org` | No |
+| `xtaldave.net` | No |
 | `xtenz.xyz` | No |
 | `xthemage.net` | No |
 | `xtity.com` | No |
@@ -23180,7 +23183,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,693 |
-| Normal | 18,443 |
+| Normal | 18,446 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
