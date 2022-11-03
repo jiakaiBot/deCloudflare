@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,302 |
+| com | 3,303 |
 | net | 1,824 |
 | social | 1,331 |
 | org | 1,285 |
@@ -9603,6 +9603,7 @@ Here's a list of public Fediverse services.
 | `johns-blog.de` | Yes |
 | `johntrain.org` | Yes |
 | `joindiaspora.com` | No |
+| `joinfediverse.com` | No |
 | `joinfediverse.online` | No |
 | `joinfreedom.tk` | No |
 | `joingardens.com` | No |
@@ -23179,7 +23180,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,693 |
-| Normal | 18,442 |
+| Normal | 18,443 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
