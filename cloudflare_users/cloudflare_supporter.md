@@ -1834,6 +1834,7 @@ Do not create new issue or we will close it as duplicate.
 | [Cngc28668493@twitter](https://twitter.com/Cngc28668493/status/1383781247432855562) | advertise |
 | [CngNguy78789456@twitter](https://twitter.com/CngNguy78789456/status/1398669757096726528) | advertise |
 | [coccocxi@twitter](https://twitter.com/coccocxi/status/1543106929311879169) | advertise |
+| [cocombatsports@twitter](https://twitter.com/cocombatsports/status/1588279260292079616) | advertise |
 | [codeberg.org](https://www.codeberg.org/) | [HISTORY.md](../HISTORY.md) |
 | [codewithfortune@twitter](https://twitter.com/codewithfortune/status/1477733630982213634) | advertise |
 | [codfish246@twitter](https://twitter.com/codfish246/status/1555424438602047488) | advertise |
