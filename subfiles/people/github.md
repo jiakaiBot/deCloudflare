@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Kucoin testnet not working for ccxt version 2.1.14](https://github.com/ccxt/ccxt/issues/15540)
 - [invalid value \"OriginIssuer\" for issuerRef.kind. Must be empty, \"Issuer\" or \"ClusterIssuer\"](https://github.com/cert-manager/cert-manager/issues/5550)
 - [Question: Cannot Mock Response on another URL Domain](https://github.com/facebook/flipper/issues/4290)
 - [RSS plugin does not work with Cloudflare Pages](https://github.com/withastro/astro/issues/5280)
