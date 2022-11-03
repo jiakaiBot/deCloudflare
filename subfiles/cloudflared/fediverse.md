@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,279 |
-| net | 1,815 |
+| net | 1,816 |
 | social | 1,309 |
 | org | 1,280 |
 | de | 1,167 |
@@ -2246,6 +2246,7 @@ Here's a list of public Fediverse services.
 | `blackpoolgay.xyz` | No |
 | `blackquill.cc` | No |
 | `blackrock.city` | No |
+| `blackshuck.net` | No |
 | `blacksketch.com` | No |
 | `blacktre.es` | No |
 | `blacktwitter.io` | No |
@@ -23027,7 +23028,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,658 |
-| Normal | 18,325 |
+| Normal | 18,326 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
