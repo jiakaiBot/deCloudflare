@@ -594,6 +594,7 @@ Do not create new issue or we will close it as duplicate.
 | [AmrShark@twitter](https://twitter.com/AmrShark/status/1404396667672186883) | advertise |
 | [Amsterd50189884@twitter](https://twitter.com/Amsterd50189884/status/1385391280096628736) | advertise |
 | [amundenvoie@twitter](https://twitter.com/amundenvoie/status/1390120510181167106) | advertise |
+| [AmyKodat@twitter](https://twitter.com/AmyKodat/status/1588092355416047618) | advertise |
 | [am_violin@twitter](https://twitter.com/am_violin/status/1383585441752907782) | advertise |
 | [AN0WA@twitter](https://twitter.com/AN0WA/status/1401240231240679428) | advertise |
 | [an080904@twitter](https://twitter.com/an080904/status/1399258898603724802) | advertise |
@@ -4742,8 +4743,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6483,6 +6484,7 @@ Do not create new issue or we will close it as duplicate.
 | [MysticBlack3@twitter](https://twitter.com/MysticBlack3/status/1393044999248523265) | advertise |
 | [mytel89854584@twitter](https://twitter.com/mytel89854584/status/1398011330947321857) | advertise |
 | [Mythicalz13@twitter](https://twitter.com/Mythicalz13/status/1578408033436069890) | advertise |
+| [mytopinvesting@twitter](https://twitter.com/mytopinvesting/status/1588082760509530114) | advertise |
 | [MYYEWINNAING1@twitter](https://twitter.com/MYYEWINNAING1/status/1393142382233784321) | advertise |
 | [MyyJ18@twitter](https://twitter.com/MyyJ18/status/1396981851286212612) | advertise |
 | [MzwzSrh@twitter](https://twitter.com/MzwzSrh/status/1581275350599749633) | advertise |
