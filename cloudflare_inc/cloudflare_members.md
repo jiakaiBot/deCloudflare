@@ -1190,6 +1190,7 @@ Or is this merely a case of simple modesty?
 | Michael Vanderwater | Systems Engineer |  |
 | Michael Veramo | Enablement, Learning and Development |  |
 | Michael Vigil | Accountant |  |
+| Michal Melewski | Employee | |
 | Michel Bamps | Employee |  |
 | Michelle Brown | Accountant |  |
 | Michelle de Venoge | Employee |  |
