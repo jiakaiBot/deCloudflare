@@ -4751,6 +4751,7 @@ Do not create new issue or we will close it as duplicate.
 | [KingAlts2@twitter](https://twitter.com/KingAlts2/status/1529966287962656768) | advertise |
 | [KingarsalanT@twitter](https://twitter.com/KingarsalanT/status/1560545670620225536) | advertise |
 | [kingcioLaw@twitter](https://twitter.com/kingcioLaw/status/1520393986648965120) | advertise |
+| [kingdreah@twitter](https://twitter.com/kingdreah/status/1587970766095745030) | advertise |
 | [Kingiferous7@twitter](https://twitter.com/Kingiferous7/status/1569373239016656902) | advertise |
 | [kingk4888888@twitter](https://twitter.com/kingk4888888/status/1394730960894119937) | advertise |
 | [KingmaxNft@twitter](https://twitter.com/KingmaxNft/status/1550009809159630849) | advertise |
@@ -10348,6 +10349,7 @@ Do not create new issue or we will close it as duplicate.
 | [Whodis09575291@twitter](https://twitter.com/Whodis09575291/status/1570060628211142659) | advertise |
 | [whoomenreallyis@twitter](https://twitter.com/whoomenreallyis/status/1506157558628855813) | advertise |
 | [WhXRuMfnyHtsfdk@twitter](https://twitter.com/WhXRuMfnyHtsfdk/status/1403069036422856705) | advertise |
+| [whyb6e5@twitter](https://twitter.com/whyb6e5/status/1587998634037092353) | advertise |
 | [whynot8288@twitter](https://twitter.com/whynot8288/status/1470869376207589379) | advertise |
 | [WhyzTM@twitter](https://twitter.com/WhyzTM/status/1568948951507959808) | advertise |
 | [Why_Srk@twitter](https://twitter.com/Why_Srk/status/1582033845188464641) | advertise |
