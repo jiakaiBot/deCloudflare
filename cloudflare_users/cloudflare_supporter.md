@@ -1558,6 +1558,7 @@ Do not create new issue or we will close it as duplicate.
 | [BurbAchoo@twitter](https://twitter.com/BurbAchoo/status/1552945493172695040) | advertise |
 | [burberry696@twitter](https://twitter.com/burberry696/status/1584787993113825280) | advertise |
 | [burhan@twitter](https://twitter.com/burhan/status/1575455113925328897) | advertise |
+| [burimikuqi@twitter](https://twitter.com/burimikuqi/status/1588171056618930176) | advertise |
 | [burkehellen1@twitter](https://twitter.com/burkehellen1/status/1395294317262958600) | advertise |
 | [BurmaTravelClub@twitter](https://twitter.com/BurmaTravelClub/status/1390846703230541825) | advertise |
 | [BurungHantu1605@github.com](https://github.com/BurungHantu1605) | moral (PR defacement) |
