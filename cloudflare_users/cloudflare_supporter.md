@@ -2094,6 +2094,7 @@ Do not create new issue or we will close it as duplicate.
 | [davidjnorris@twitter](https://twitter.com/davidjnorris/status/1412488514130821121) | moral (advertise) |
 | [DavidMa4000@twitter](https://twitter.com/DavidMa4000/status/1387060314919800837) | advertise |
 | [DavidMartin0091@twitter](https://twitter.com/DavidMartin0091/status/1395217999108341762) | advertise |
+| [DavidMo18800778@twitter](https://twitter.com/DavidMo18800778/status/1588202144963837953) | advertise |
 | [Davidng70616958@twitter](https://twitter.com/Davidng70616958/status/1381311850239827968) | advertise |
 | [DavidOpasik@twitter](https://twitter.com/DavidOpasik/status/1421296723926814723) | advertise |
 | [DavidSchrader@twitter](https://twitter.com/DavidSchrader/status/1554965481454452736) | advertise |
@@ -2114,6 +2115,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dazai_yebo@twitter](https://twitter.com/Dazai_yebo/status/1404095489629380611) | advertise |
 | [db739dc8697c4fd@twitter](https://twitter.com/db739dc8697c4fd/status/1376869447944695812) | advertise |
 | [dc6761@twitter](https://twitter.com/dc6761/status/1585589406064427008) | advertise |
+| [DCffgt@twitter](https://twitter.com/DCffgt/status/1588213672853180416) | advertise |
 | [DCLifeMagazine@twitter](https://twitter.com/DCLifeMagazine/status/1545120333228818432) | advertise |
 | [Dcralph_@twitter](https://twitter.com/Dcralph_/status/1460151745284243460) | advertise |
 | [dcrimyz@twitter](https://twitter.com/dcrimyz/status/1399029992374239233) | advertise |
@@ -4744,8 +4746,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
