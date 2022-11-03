@@ -7031,6 +7031,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nora05282397@twitter](https://twitter.com/Nora05282397/status/1390740645157900291) | advertise |
 | [norhidayuzinon@twitter](https://twitter.com/norhidayuzinon/status/1385720279872253954) | advertise |
 | [normalisa2244@twitter](https://twitter.com/normalisa2244/status/1508101082907832322) | advertise |
+| [NoruzzamanNahid@twitter](https://twitter.com/NoruzzamanNahid/status/1588197771278192640) | advertise |
 | [NOsheeennn@twitter](https://twitter.com/NOsheeennn/status/1394946949963415555) | advertise |
 | [noshereyno@twitter](https://twitter.com/noshereyno/status/1570718460736409600) | advertise |
 | [notausername18@twitter](https://twitter.com/notausername18/status/1441310591574970375) | advertise |
