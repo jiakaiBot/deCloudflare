@@ -7332,6 +7332,7 @@ Do not create new issue or we will close it as duplicate.
 | [PaPaNaingLinTun@twitter](https://twitter.com/PaPaNaingLinTun/status/1390941738303299586) | advertise |
 | [papas68@twitter](https://twitter.com/papas68/status/1485710848983244806) | advertise |
 | [papimii@twitter](https://twitter.com/papimii/status/1582258872512761856) | advertise |
+| [PAPPY_JEFF12@twitter](https://twitter.com/PAPPY_JEFF12/status/1588182457098309632) | advertise |
 | [paraboy113@twitter](https://twitter.com/paraboy113/status/1377615187969204225) | advertise |
 | [Parassi87009558@twitter](https://twitter.com/Parassi87009558/status/1405913945735450625) | advertise |
 | [parasyte_x@twitter](https://twitter.com/parasyte_x/status/1377532238997254144) | advertise |
@@ -9561,6 +9562,7 @@ Do not create new issue or we will close it as duplicate.
 | [thwin_y@twitter](https://twitter.com/thwin_y/status/1392784689874624513) | advertise |
 | [Thxange4@twitter](https://twitter.com/Thxange4/status/1402513226936451074) | advertise |
 | [ti04869685@twitter](https://twitter.com/ti04869685/status/1552582677751951365) | advertise |
+| [Ti35576671@twitter](https://twitter.com/Ti35576671/status/1588180667635941376) | advertise |
 | [Ti78007536@twitter](https://twitter.com/Ti78007536/status/1388142390859354115) | advertise |
 | [TianXiaDiYi8888@twitter](https://twitter.com/TianXiaDiYi8888/status/1532010863649263616) | advertise |
 | [TiBi_Tzuyu@twitter](https://twitter.com/TiBi_Tzuyu/status/1401756577011408900) | advertise |
