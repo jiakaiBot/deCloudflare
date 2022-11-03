@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,279 |
+| com | 3,280 |
 | net | 1,816 |
 | social | 1,309 |
 | org | 1,280 |
@@ -18714,6 +18714,7 @@ Here's a list of public Fediverse services.
 | `sondages.pro` | No |
 | `sonet.ws` | No |
 | `sonicboom.online` | Yes |
+| `sonichu.com` | No |
 | `sonnenmulde.at` | No |
 | `sonntag.fr` | No |
 | `sonogatto.it` | No |
@@ -22610,6 +22611,7 @@ Here's a list of public Fediverse services.
 | `yeti-factory.org` | No |
 | `yggdrasil.social` | No |
 | `ygo.pub` | Yes |
+| `yharnam.singles` | No |
 | `yharnam.town` | No |
 | `yhnmjuik.com` | No |
 | `yhwh.tube` | No |
@@ -23030,7 +23032,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,658 |
-| Normal | 18,328 |
+| Normal | 18,330 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
