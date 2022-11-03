@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,277 |
 | net | 1,814 |
-| social | 1,303 |
-| org | 1,279 |
-| de | 1,166 |
+| social | 1,305 |
+| org | 1,280 |
+| de | 1,167 |
 
 
 - Mastodon, Pleroma, etc
@@ -5299,6 +5299,7 @@ Here's a list of public Fediverse services.
 | `ecnelises.com` | No |
 | `ecneret.com` | No |
 | `ecodigital.social` | No |
+| `ecoevo.social` | No |
 | `ecoli.pink` | No |
 | `ecologie.bzh` | No |
 | `econoalchemist.com` | No |
@@ -5772,6 +5773,7 @@ Here's a list of public Fediverse services.
 | `europeanservice.eu` | No |
 | `europecom.net` | No |
 | `europlus.zone` | No |
+| `eurovision.social` | Yes |
 | `euroxs.org` | No |
 | `eus.jp` | No |
 | `euskarabildua.eus` | No |
@@ -11761,7 +11763,7 @@ Here's a list of public Fediverse services.
 | `mandps.net` | No |
 | `maneisacutie.club` | No |
 | `manga.tokyo` | Yes |
-| `mangadon.biz` | Yes |
+| `mangadon.biz` | No |
 | `mangadon.info` | Yes |
 | `mangadon.net` | Yes |
 | `mangayoh.fr` | No |
@@ -21176,6 +21178,7 @@ Here's a list of public Fediverse services.
 | `urbanmind.net` | Yes |
 | `urbanwildlife.biz` | No |
 | `urbanwolf.xyz` | No |
+| `urchan.org` | No |
 | `ureteralstones.life` | No |
 | `urgelle.fr` | No |
 | `urgenthelp.in` | No |
@@ -22339,6 +22342,7 @@ Here's a list of public Fediverse services.
 | `xlnx.uk` | No |
 | `xmanifesto.club` | No |
 | `xmcode.pl` | Yes |
+| `xmeerschweinchen.de` | No |
 | `xmflsct.com` | Yes |
 | `xmit.xyz` | No |
 | `xmob.me` | No |
@@ -23009,7 +23013,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,657 |
-| Normal | 18,308 |
+| Normal | 18,312 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
