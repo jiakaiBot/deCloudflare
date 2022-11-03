@@ -19977,6 +19977,7 @@ Here's a list of public Fediverse services.
 | `theindependentwhig.com` | No |
 | `theinternet.lol` | No |
 | `theitsurgeon.co.za` | Yes |
+| `thejar.club` | No |
 | `thejoyo.com` | No |
 | `thekosinski.com` | No |
 | `thekurokuma.net` | No |
@@ -23032,7 +23033,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,658 |
-| Normal | 18,330 |
+| Normal | 18,331 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
