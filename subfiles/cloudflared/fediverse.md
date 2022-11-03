@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,304 |
 | net | 1,825 |
-| social | 1,332 |
+| social | 1,333 |
 | org | 1,285 |
 | de | 1,181 |
 
@@ -12112,6 +12112,7 @@ Here's a list of public Fediverse services.
 | `mastodon.digital` | No |
 | `mastodon.direct` | No |
 | `mastodon.earth` | No |
+| `mastodon.education` | No |
 | `mastodon.ee` | Yes |
 | `mastodon.engineering` | No |
 | `mastodon.eus` | No |
@@ -20124,6 +20125,7 @@ Here's a list of public Fediverse services.
 | `themaymeow.com` | Yes |
 | `themazuma.net` | No |
 | `themcphails.uk` | No |
+| `themepark.social` | No |
 | `themillerslive.com` | Yes |
 | `themimitoof.fr` | Yes |
 | `themintfarm.ml` | Yes |
@@ -23186,7 +23188,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,694 |
-| Normal | 18,448 |
+| Normal | 18,450 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
