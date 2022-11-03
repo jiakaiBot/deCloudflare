@@ -2564,6 +2564,7 @@ Do not create new issue or we will close it as duplicate.
 | [elsaidelazhary@twitter](https://twitter.com/elsaidelazhary/status/1577526530707709953) | advertise |
 | [elsashweyee@twitter](https://twitter.com/elsashweyee/status/1389796841860964354) | advertise |
 | [ElTr72218261@twitter](https://twitter.com/ElTr72218261/status/1390311899552632834) | advertise |
+| [El_Twyce@twitter](https://twitter.com/El_Twyce/status/1588237297379680258) | advertise |
 | [EMadhavi3@twitter](https://twitter.com/EMadhavi3/status/1392409666294935553) | advertise |
 | [Email69400101@twitter](https://twitter.com/Email69400101/status/1405570403200684046) | advertise |
 | [EmanRuoy123@twitter](https://twitter.com/EmanRuoy123/status/1554761591870357504) | advertise |
