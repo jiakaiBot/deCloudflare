@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,816 |
 | social | 1,309 |
 | org | 1,280 |
-| de | 1,167 |
+| de | 1,168 |
 
 
 - Mastodon, Pleroma, etc
@@ -6432,6 +6432,7 @@ Here's a list of public Fediverse services.
 | `flisol.com.br` | No |
 | `floatie.xyz` | No |
 | `floating-in.space` | No |
+| `floe.earth` | No |
 | `flokinet.is` | No |
 | `flokinet.social` | No |
 | `floof.rocks` | No |
@@ -17771,6 +17772,7 @@ Here's a list of public Fediverse services.
 | `schoolidol.pro` | No |
 | `schoollibraries.net` | No |
 | `schosta.com` | No |
+| `schottkydio.de` | No |
 | `schub.social` | No |
 | `schuerz.at` | No |
 | `schuhduft.de` | Yes |
@@ -23033,7 +23035,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,658 |
-| Normal | 18,331 |
+| Normal | 18,333 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
