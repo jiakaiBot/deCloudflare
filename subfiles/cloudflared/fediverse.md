@@ -8537,6 +8537,7 @@ Here's a list of public Fediverse services.
 | `houseofloy.net` | Yes |
 | `houston.chat` | No |
 | `hovkluster.se` | No |
+| `howdy.dog` | No |
 | `howflatisthe.earth` | No |
 | `howl.moe` | Yes |
 | `howlr.me` | No |
@@ -23174,7 +23175,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,693 |
-| Normal | 18,437 |
+| Normal | 18,438 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
