@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,301 |
+| com | 3,302 |
 | net | 1,824 |
 | social | 1,331 |
 | org | 1,285 |
@@ -13993,6 +13993,7 @@ Here's a list of public Fediverse services.
 | `nero.tf` | No |
 | `nertzy.com` | Yes |
 | `nerv-project.eu` | No |
+| `nervesocket.com` | No |
 | `nervestaple.com` | No |
 | `nesakko.xyz` | No |
 | `neshura-server.net` | No |
@@ -19964,6 +19965,7 @@ Here's a list of public Fediverse services.
 | `tfnux.org` | No |
 | `tftsr.com` | No |
 | `tfwnogf.nl` | No |
+| `tgl.eu` | No |
 | `tgp.jp` | No |
 | `tgqvitter.tk` | No |
 | `tgragnato.it` | Yes |
@@ -20559,6 +20561,7 @@ Here's a list of public Fediverse services.
 | `toot.pt` | No |
 | `toot.pub` | No |
 | `toot.pw` | No |
+| `toot.re` | No |
 | `toot.rip` | No |
 | `toot.rodeo` | No |
 | `toot.sg` | Yes |
@@ -23176,7 +23179,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,693 |
-| Normal | 18,439 |
+| Normal | 18,442 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
