@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-07: [AKL (Auckland) on 2022-11-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1s79wb701hz8)
 - 2022-11-07: [AMS (Amsterdam) on 2022-11-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4bl198r8gkhz)
 - 2022-11-03: [Increased HTTP 502 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pw9k05055nfw)
 - 2022-11-08: [MEL (Melbourne) on 2022-11-08](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/h4z68tmgmm8p)
