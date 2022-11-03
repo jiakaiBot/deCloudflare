@@ -12429,6 +12429,7 @@ Here's a list of public Fediverse services.
 | `mcsweeneys.net` | No |
 | `mctek.tk` | No |
 | `mctetsudou.net` | No |
+| `mcth.fr` | No |
 | `mcwhirter.io` | No |
 | `md.social` | No |
 | `md.tn` | Yes |
@@ -23175,7 +23176,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,693 |
-| Normal | 18,438 |
+| Normal | 18,439 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
