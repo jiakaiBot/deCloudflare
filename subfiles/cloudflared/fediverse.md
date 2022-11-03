@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,297 |
-| net | 1,823 |
-| social | 1,329 |
-| org | 1,284 |
-| de | 1,179 |
+| com | 3,298 |
+| net | 1,824 |
+| social | 1,330 |
+| org | 1,285 |
+| de | 1,181 |
 
 
 - Mastodon, Pleroma, etc
@@ -969,6 +969,7 @@ Here's a list of public Fediverse services.
 | `amumal.party` | No |
 | `amurica.cf` | No |
 | `amxl.com` | No |
+| `amyos.net` | No |
 | `an6.us` | No |
 | `anacreonte.eu` | No |
 | `ananasbananas.com` | No |
@@ -2582,6 +2583,7 @@ Here's a list of public Fediverse services.
 | `breizh.me` | Yes |
 | `breizh.pm` | No |
 | `bremen.social` | No |
+| `bremen.team` | No |
 | `bremencity.life` | No |
 | `bremensaki.com` | Yes |
 | `brendo.org` | Yes |
@@ -6879,6 +6881,7 @@ Here's a list of public Fediverse services.
 | `fsfe.org` | No |
 | `fshm.in` | No |
 | `fsi.rocks` | No |
+| `fsinf.at` | No |
 | `fslhome.org` | No |
 | `fsmi.social` | Yes |
 | `fsoc.lol` | No |
@@ -8014,6 +8017,7 @@ Here's a list of public Fediverse services.
 | `happyjesus.online` | Yes |
 | `happytobehe.re` | No |
 | `happytoo.cyou` | Yes |
+| `hapyyr.com` | No |
 | `harahar.com` | No |
 | `haram.kim` | No |
 | `harbour.cafe` | No |
@@ -10849,6 +10853,7 @@ Here's a list of public Fediverse services.
 | `lehernet.de` | Yes |
 | `lehman-family.com` | No |
 | `lehmann.zone` | No |
+| `lehrerfortbildung-bw.de` | No |
 | `lehrerzimmer.social` | No |
 | `lehrmastodon.com` | No |
 | `lehtiin.eu` | Yes |
@@ -12271,6 +12276,7 @@ Here's a list of public Fediverse services.
 | `mastohun.tk` | No |
 | `mastoid.dev` | No |
 | `mastonaut.com` | No |
+| `mastonederland.nl` | No |
 | `mastoneuron.com` | No |
 | `mastonon.net` | Yes |
 | `mastoot.com` | No |
@@ -13780,6 +13786,7 @@ Here's a list of public Fediverse services.
 | `nathankunicki.com` | No |
 | `nathanmcrae.name` | No |
 | `nathansw.de` | Yes |
+| `nathrakh.de` | No |
 | `natio.ovh` | No |
 | `natleft.wiki` | No |
 | `natrinicle.com` | No |
@@ -16592,6 +16599,7 @@ Here's a list of public Fediverse services.
 | `queer.party` | No |
 | `queer.town` | No |
 | `queerbau-seestadt.at` | No |
+| `queerdon.social` | Yes |
 | `queerdorks.club` | No |
 | `queerenough.com` | No |
 | `queerfeels.com` | No |
@@ -20401,6 +20409,7 @@ Here's a list of public Fediverse services.
 | `tmp1024.com` | Yes |
 | `tmprs.net` | No |
 | `tnd.lol` | No |
+| `tnhh.org` | No |
 | `to-tell.de` | No |
 | `to-tell.tk` | No |
 | `toad-in-the-hole.net` | No |
@@ -22209,6 +22218,7 @@ Here's a list of public Fediverse services.
 | `wk3.org` | No |
 | `wkfg.me` | Yes |
 | `wlabs.de` | No |
+| `wltr.pw` | Yes |
 | `wlw.pw` | Yes |
 | `wmbn.net` | No |
 | `wmcf.de` | No |
@@ -23152,8 +23162,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,690 |
-| Normal | 18,419 |
+| Cloudflare | 4,692 |
+| Normal | 18,427 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
