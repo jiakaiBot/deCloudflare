@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,303 |
+| com | 3,304 |
 | net | 1,825 |
 | social | 1,332 |
 | org | 1,285 |
@@ -1847,7 +1847,7 @@ Here's a list of public Fediverse services.
 | `basementcomputer.site` | No |
 | `bash-street-boys-and-girls.com` | No |
 | `bashell.com` | Yes |
-| `basilisk.dev` | No |
+| `basilisk.dev` | Yes |
 | `basilisk.technology` | No |
 | `basjes.nl` | No |
 | `basspistol.org` | No |
@@ -9604,6 +9604,7 @@ Here's a list of public Fediverse services.
 | `johns-blog.de` | Yes |
 | `johntrain.org` | Yes |
 | `joindiaspora.com` | No |
+| `joinfediverse.com` | No |
 | `joinfediverse.online` | No |
 | `joinfreedom.tk` | No |
 | `joingardens.com` | No |
@@ -19852,6 +19853,7 @@ Here's a list of public Fediverse services.
 | `techspace.social` | No |
 | `techstartups.space` | No |
 | `techtea.io` | No |
+| `techthoughts.io` | No |
 | `techzerker.com` | Yes |
 | `teci.world` | No |
 | `teckl.xyz` | Yes |
@@ -23182,8 +23184,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,693 |
-| Normal | 18,446 |
+| Cloudflare | 4,694 |
+| Normal | 18,447 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
