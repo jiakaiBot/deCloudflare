@@ -13733,6 +13733,7 @@ Here's a list of public Fediverse services.
 | `namapie.info` | No |
 | `namazu.club` | No |
 | `namedkitten.pw` | No |
+| `namel.fr` | No |
 | `namelesscitizen.space` | No |
 | `nametaketakewo.net` | Yes |
 | `namknat.win` | No |
@@ -23185,7 +23186,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,694 |
-| Normal | 18,447 |
+| Normal | 18,448 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
