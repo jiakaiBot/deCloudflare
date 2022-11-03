@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,297 |
-| net | 1,822 |
+| net | 1,823 |
 | social | 1,329 |
 | org | 1,284 |
 | de | 1,179 |
@@ -2727,6 +2727,7 @@ Here's a list of public Fediverse services.
 | `burner.social` | No |
 | `burner.zone` | No |
 | `burners.social` | No |
+| `burningpixel.net` | No |
 | `burningtimber.com` | Yes |
 | `burnworks.com` | No |
 | `buron.coffee` | No |
@@ -9111,7 +9112,7 @@ Here's a list of public Fediverse services.
 | `iopla.fr` | No |
 | `iosa.it` | Yes |
 | `iospace.de` | No |
-| `iot.tokyo` | No |
+| `iot.tokyo` | Yes |
 | `iota.ga` | No |
 | `ioto.us` | No |
 | `iotplatforma.cloud` | No |
@@ -23151,7 +23152,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,689 |
+| Cloudflare | 4,690 |
 | Normal | 18,419 |
 
 
