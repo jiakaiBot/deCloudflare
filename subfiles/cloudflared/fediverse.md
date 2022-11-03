@@ -8421,6 +8421,7 @@ Here's a list of public Fediverse services.
 | `honking.online` | No |
 | `honksybonksy.com` | No |
 | `honkwerx.tech` | No |
+| `hoob.io` | No |
 | `hoot.pw` | Yes |
 | `hoot.town` | No |
 | `hoot.video` | No |
@@ -15545,6 +15546,7 @@ Here's a list of public Fediverse services.
 | `petorikoru.site` | Yes |
 | `petras.space` | No |
 | `petris.net` | No |
+| `petrolkorps.cc` | No |
 | `petronel.info` | No |
 | `petroskowo.pl` | No |
 | `petrovs.info` | No |
@@ -23028,7 +23030,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,658 |
-| Normal | 18,326 |
+| Normal | 18,328 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
