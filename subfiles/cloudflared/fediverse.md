@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,277 |
-| net | 1,814 |
-| social | 1,305 |
+| com | 3,278 |
+| net | 1,815 |
+| social | 1,309 |
 | org | 1,280 |
 | de | 1,167 |
 
@@ -918,6 +918,7 @@ Here's a list of public Fediverse services.
 | `amaranth.network` | Yes |
 | `amas.dev` | No |
 | `amaseto.com` | Yes |
+| `amastodon.uk` | No |
 | `amazedkoumei.com` | No |
 | `amazonfrown.tk` | No |
 | `ambag.es` | No |
@@ -1023,6 +1024,7 @@ Here's a list of public Fediverse services.
 | `android-user.club` | No |
 | `androidauthority.com` | Yes |
 | `androidcentral.com` | Yes |
+| `androiddev.social` | No |
 | `androidn.tokyo` | No |
 | `androidpolice.com` | Yes |
 | `andrus.io` | Yes |
@@ -1045,6 +1047,7 @@ Here's a list of public Fediverse services.
 | `angst-frei.ch` | No |
 | `angusworld.org` | No |
 | `ani.work` | Yes |
+| `anicelittle.network` | No |
 | `anikore.xin` | No |
 | `anilwadghule.com` | Yes |
 | `anima-mystica.org` | No |
@@ -3556,6 +3559,7 @@ Here's a list of public Fediverse services.
 | `cojo.uno` | No |
 | `coko.de` | No |
 | `coko.foundation` | No |
+| `col.social` | Yes |
 | `cold.solar` | No |
 | `coldness.co` | No |
 | `colean.cc` | No |
@@ -3589,6 +3593,7 @@ Here's a list of public Fediverse services.
 | `comam.es` | No |
 | `combatbahai.com` | No |
 | `combiner.team` | No |
+| `comerocudequemestalendo.com` | No |
 | `cometeo.com` | No |
 | `comf.blog` | No |
 | `comf.tube` | No |
@@ -4372,6 +4377,7 @@ Here's a list of public Fediverse services.
 | `davidzeiger.net` | Yes |
 | `davigge.com` | No |
 | `davralin.work` | Yes |
+| `davydepauw.social` | No |
 | `dawidpotocki.com` | Yes |
 | `dax.moe` | No |
 | `daydream.cafe` | No |
@@ -4621,6 +4627,7 @@ Here's a list of public Fediverse services.
 | `devilops.ca` | No |
 | `deviltracks.net` | No |
 | `devinberg.com` | Yes |
+| `devinck.eu` | No |
 | `devinemarsa.com` | No |
 | `devinstance.de` | No |
 | `devio.us` | No |
@@ -6110,6 +6117,7 @@ Here's a list of public Fediverse services.
 | `fedi.wien` | No |
 | `fedi.wtf` | No |
 | `fedi.xyz` | No |
+| `fedibb.ml` | No |
 | `fedibird.com` | Yes |
 | `fedibook.com` | No |
 | `fedicafe.com` | No |
@@ -8559,6 +8567,7 @@ Here's a list of public Fediverse services.
 | `huron.social` | No |
 | `hush.is` | Yes |
 | `husk.site` | No |
+| `husku.net` | No |
 | `huskyapp.dev` | No |
 | `husq.tk` | No |
 | `hutaffe.blog` | No |
@@ -12399,6 +12408,7 @@ Here's a list of public Fediverse services.
 | `mehlmann.info` | No |
 | `mei-home.net` | No |
 | `meinderink.org` | No |
+| `meinmuenster.land` | No |
 | `meinrheinma.in` | No |
 | `meinungs.blog` | No |
 | `meinungsschauspieler.de` | No |
@@ -14618,6 +14628,7 @@ Here's a list of public Fediverse services.
 | `occult.camp` | Yes |
 | `occult.institute` | No |
 | `ocean.st` | No |
+| `oceanplayground.social` | No |
 | `oceansocial.us` | No |
 | `ocellaris.dev` | Yes |
 | `ocert.at` | No |
@@ -21930,6 +21941,7 @@ Here's a list of public Fediverse services.
 | `whizanth.com` | Yes |
 | `whoaimin.space` | No |
 | `wholemars.com` | Yes |
+| `wholesome.computer` | No |
 | `wholesome.haus` | No |
 | `whomartthou.com` | Yes |
 | `whomst.dog` | No |
@@ -22294,6 +22306,7 @@ Here's a list of public Fediverse services.
 | `xeac.org` | No |
 | `xeebion.de` | No |
 | `xelland.social` | No |
+| `xelp.it` | No |
 | `xeltica.work` | No |
 | `xen.network` | No |
 | `xenesth.is` | No |
@@ -23012,8 +23025,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,657 |
-| Normal | 18,312 |
+| Cloudflare | 4,658 |
+| Normal | 18,324 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
