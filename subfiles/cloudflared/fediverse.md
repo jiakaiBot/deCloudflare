@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,314 |
+| com | 3,316 |
 | net | 1,838 |
-| social | 1,356 |
+| social | 1,357 |
 | org | 1,292 |
 | de | 1,189 |
 
@@ -3932,6 +3932,7 @@ Here's a list of public Fediverse services.
 | `crossfamilyweb.com` | No |
 | `crosstalk.co` | No |
 | `crow.lol` | Yes |
+| `crowd.wales` | No |
 | `crowdagger.fr` | No |
 | `crowded.group` | No |
 | `crowdedwood.com` | No |
@@ -10548,6 +10549,7 @@ Here's a list of public Fediverse services.
 | `krinetzki.de` | Yes |
 | `kriom.net` | No |
 | `krishanv.xyz` | No |
+| `krivokuca.dev` | Yes |
 | `krkrkr.org` | No |
 | `krokodil.se` | Yes |
 | `krononot.com` | Yes |
@@ -12867,6 +12869,7 @@ Here's a list of public Fediverse services.
 | `mikmak.fr` | No |
 | `mikorizal.org` | No |
 | `mikotochopin.jp` | No |
+| `mikroblog.at` | No |
 | `miku-enthusiast.club` | No |
 | `miku.cash` | No |
 | `miku.gay` | Yes |
@@ -13384,6 +13387,7 @@ Here's a list of public Fediverse services.
 | `mrkod.com` | No |
 | `mrls.xyz` | No |
 | `mrlungshot.com` | Yes |
+| `mrmoreira.com` | Yes |
 | `mrnd.xyz` | No |
 | `mro.name` | No |
 | `mrotek.xyz` | No |
@@ -14591,6 +14595,7 @@ Here's a list of public Fediverse services.
 | `nothirdsolution.com` | No |
 | `notiz.blog` | No |
 | `notjoshua.fr` | No |
+| `notjustbikes.com` | Yes |
 | `notlocked.in` | No |
 | `notmastodon.xyz` | No |
 | `notmyidea.org` | No |
@@ -23143,6 +23148,7 @@ Here's a list of public Fediverse services.
 | `zedshaw.com` | No |
 | `zedsocial.ca` | No |
 | `zee.li` | Yes |
+| `zef.social` | No |
 | `zefirchik.xyz` | No |
 | `zeguigui.com` | No |
 | `zeitrechnen.de` | Yes |
@@ -23334,8 +23340,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,714 |
-| Normal | 18,577 |
+| Cloudflare | 4,717 |
+| Normal | 18,580 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
