@@ -1400,6 +1400,7 @@ Do not create new issue or we will close it as duplicate.
 | [blues_tuan@twitter](https://twitter.com/blues_tuan/status/1379313198956830723) | advertise |
 | [blw10210@twitter](https://twitter.com/blw10210/status/1542354724493697024) | advertise |
 | [blxxdyii@twitter](https://twitter.com/blxxdyii/status/1543838705198440448) | advertise |
+| [Bmccc1228@twitter](https://twitter.com/Bmccc1228/status/1588584506239471621) | advertise |
 | [BMoRe410_2k@twitter](https://twitter.com/BMoRe410_2k/status/1502623013346463744) | advertise |
 | [bmth_gfy@twitter](https://twitter.com/bmth_gfy/status/1533867458246885376) | advertise |
 | [bnfyqsge@twitter](https://twitter.com/bnfyqsge/status/1561898244598538240) | advertise |
