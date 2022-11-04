@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,313 |
-| net | 1,837 |
-| social | 1,354 |
+| com | 3,314 |
+| net | 1,838 |
+| social | 1,355 |
 | org | 1,292 |
 | de | 1,188 |
 
@@ -2489,6 +2489,7 @@ Here's a list of public Fediverse services.
 | `borderlands.social` | No |
 | `bordom.net` | No |
 | `boredom.land` | No |
+| `bores.com` | No |
 | `borg.social` | Yes |
 | `borganism.com` | No |
 | `borgcube.eu` | No |
@@ -4757,6 +4758,7 @@ Here's a list of public Fediverse services.
 | `dibiase.social` | No |
 | `diblasio.net` | No |
 | `dice.camp` | No |
+| `dicerollers.net` | No |
 | `dickbutt.wtf` | No |
 | `dickgirlon.top` | No |
 | `dickkickextremist.xyz` | Yes |
@@ -8655,6 +8657,7 @@ Here's a list of public Fediverse services.
 | `hugsandtoots.club` | No |
 | `huideyeren.info` | No |
 | `huijiren.com` | No |
+| `hulla.hu` | Yes |
 | `hullabaloo.xyz` | No |
 | `hullblasters.club` | No |
 | `huloop.com` | No |
@@ -9079,6 +9082,7 @@ Here's a list of public Fediverse services.
 | `innum.net` | Yes |
 | `ino.org.uk` | No |
 | `inori.im` | Yes |
+| `inosoft.social` | No |
 | `inoz.me` | No |
 | `inpector.de` | No |
 | `inpocket.net` | Yes |
@@ -10234,6 +10238,7 @@ Here's a list of public Fediverse services.
 | `kinky.business` | Yes |
 | `kinkyelephant.com` | No |
 | `kinl.gq` | No |
+| `kinlan.me` | No |
 | `kino.ma` | No |
 | `kinowolnosc.pl` | No |
 | `kinugasa.me` | No |
@@ -12652,6 +12657,7 @@ Here's a list of public Fediverse services.
 | `meow.cloud` | No |
 | `meow.enterprises` | No |
 | `meow.fan` | No |
+| `meow.lgbt` | No |
 | `meow.social` | No |
 | `meow.ws` | No |
 | `meowblackcat.online` | No |
@@ -13914,6 +13920,7 @@ Here's a list of public Fediverse services.
 | `nbwp.uk` | No |
 | `nca10.net` | Yes |
 | `ncaq.net` | Yes |
+| `ncat.dev` | No |
 | `ncc1701e.social` | No |
 | `nchoco.net` | No |
 | `ncm.name` | No |
@@ -18616,6 +18623,7 @@ Here's a list of public Fediverse services.
 | `skweez.net` | No |
 | `sky-em.id.au` | No |
 | `skye.cx` | No |
+| `skye.vg` | Yes |
 | `skyefortresszone.xyz` | No |
 | `skyenet.online` | No |
 | `skyenet.social` | Yes |
@@ -23323,8 +23331,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,711 |
-| Normal | 18,569 |
+| Cloudflare | 4,713 |
+| Normal | 18,575 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
