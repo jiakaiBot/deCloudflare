@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,838 |
 | social | 1,359 |
 | org | 1,292 |
-| de | 1,190 |
+| de | 1,192 |
 
 
 - Mastodon, Pleroma, etc
@@ -3400,6 +3400,7 @@ Here's a list of public Fediverse services.
 | `ckyln.com` | No |
 | `clac.link` | No |
 | `clacks.link` | No |
+| `claes.se` | Yes |
 | `clallam.lgbt` | No |
 | `clamav.net` | Yes |
 | `clamo.red` | No |
@@ -3864,6 +3865,7 @@ Here's a list of public Fediverse services.
 | `crandol.com` | No |
 | `crap.today` | No |
 | `crapaud-fou.org` | Yes |
+| `crashmail.de` | No |
 | `crashspace.org` | No |
 | `crashtodon.net` | No |
 | `crates.im` | No |
@@ -9109,6 +9111,7 @@ Here's a list of public Fediverse services.
 | `instaart.org` | No |
 | `instance.business` | No |
 | `instance.community` | Yes |
+| `instanzfreun.de` | No |
 | `instaporn.org` | No |
 | `instigation.fr` | No |
 | `int21h.eu` | No |
@@ -12305,6 +12308,7 @@ Here's a list of public Fediverse services.
 | `mastodon.yokohama` | Yes |
 | `mastodon.zone` | No |
 | `mastodon48.com` | No |
+| `mastodonapp.uk` | Yes |
 | `mastodonar.club` | No |
 | `mastodonargentina.club` | No |
 | `mastodonaustralia.com.au` | No |
@@ -23343,8 +23347,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,717 |
-| Normal | 18,583 |
+| Cloudflare | 4,719 |
+| Normal | 18,585 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
