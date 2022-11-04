@@ -4754,8 +4754,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6726,6 +6726,7 @@ Do not create new issue or we will close it as duplicate.
 | [newRigger72@twitter](https://twitter.com/newRigger72/status/1397210217872494601) | advertise |
 | [NewsRoo81265004@twitter](https://twitter.com/NewsRoo81265004/status/1405600643323138048) | advertise |
 | [news_scraper@twitter](https://twitter.com/news_scraper/status/1370141469613391875) | advertise |
+| [new_techo@twitter](https://twitter.com/new_techo/status/1588558475851755520) | advertise |
 | [NextAds1@twitter](https://twitter.com/NextAds1/status/1555508312602722304) | advertise |
 | [NFTsMintMarket@twitter](https://twitter.com/NFTsMintMarket/status/1508599297839104003) | advertise |
 | [nftsrt@twitter](https://twitter.com/nftsrt/status/1472866208814964740) | advertise |
@@ -9492,6 +9493,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThiTun84717353@twitter](https://twitter.com/ThiTun84717353/status/1379634060109082624) | advertise |
 | [Thiyaga51603164@twitter](https://twitter.com/Thiyaga51603164/status/1386631785392525313) | advertise |
 | [Thng06599499@twitter](https://twitter.com/Thng06599499/status/1528032291347238913) | advertise |
+| [Thng914@twitter](https://twitter.com/Thng914/status/1588549751867584512) | advertise |
 | [Thng11329609@twitter](https://twitter.com/Thng11329609/status/1385624068355858432) | advertise |
 | [Thng19199851@twitter](https://twitter.com/Thng19199851/status/1470784177519960065) | advertise |
 | [Thng45509564@twitter](https://twitter.com/Thng45509564/status/1537817677468938240) | advertise |
@@ -9719,6 +9721,7 @@ Do not create new issue or we will close it as duplicate.
 | [ToomZaaa@twitter](https://twitter.com/ToomZaaa/status/1553908589999591424) | advertise |
 | [Tooney81184575@twitter](https://twitter.com/Tooney81184575/status/1398446641036730372) | advertise |
 | [toordotone@twitter](https://twitter.com/toordotone/status/1523150615714701312) | advertise |
+| [tootop101@twitter](https://twitter.com/tootop101/status/1588555942916132865) | advertise |
 | [ToPeKsz@twitter](https://twitter.com/ToPeKsz/status/1385308280893841409) | advertise |
 | [tophigh43192@twitter](https://twitter.com/tophigh43192/status/1516070231776456709) | advertise |
 | [TopMan84177559@twitter](https://twitter.com/TopMan84177559/status/1380097459976736769) | advertise |
