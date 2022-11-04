@@ -7,7 +7,6 @@
 relay.101010.pl
 1000-brands.com
 1001coffee.com.ua
-103degrees.com
 10xallaccess.com
 1111security.com
 12345abcde.info
@@ -113,6 +112,7 @@ qwpjtg.db.files.1drv.com
 rtuskq.db.files.1drv.com
 ruckoa.am.files.1drv.com
 stdvhw.am.files.1drv.com
+tokai.15navi.com
 tunjxg.db.files.1drv.com
 ulexha.db.files.1drv.com
 vtbqyw.am.files.1drv.com
