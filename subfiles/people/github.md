@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare version 2 error](https://github.com/dipu-bd/lightnovel-crawler/issues/1756)
 - ["example" app uses unreliable images](https://github.com/MaikuB/flutter_local_notifications/issues/1772)
 - [Kucoin testnet not working for ccxt version 2.1.14](https://github.com/ccxt/ccxt/issues/15540)
 - [invalid value \"OriginIssuer\" for issuerRef.kind. Must be empty, \"Issuer\" or \"ClusterIssuer\"](https://github.com/cert-manager/cert-manager/issues/5550)
