@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-08: [EZE (Buenos Aires) on 2022-11-08](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ldfhn6zh6k02)
 - 2022-11-04: [Connectivity issues around Los Angeles area.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sdm2l5r9zc35)
 - 2022-11-08: [CDG (Paris) on 2022-11-08](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dyy9htjxg4zx)
 - 2022-11-07: [BUD (Budapest) on 2022-11-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7k4mmzkd4q75)
