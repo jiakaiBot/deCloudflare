@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Root domain record won't update](https://github.com/va1entin/tools/issues/2)
+- [Authorization header not printed when using digest auth](https://github.com/httpie/httpie/issues/1447)
 - [Debian 11 重装系统后运行脚本报错网络异常](https://github.com/P3TERX/warp.sh/issues/82)
 - [Coinex: InsufficientFunds: Balance Insufficient](https://github.com/ccxt/ccxt/issues/15527)
 - [Response: { status: 500, message: 'Error' }](https://github.com/Shoonya-Dev/ShoonyaApi-js/issues/12)
