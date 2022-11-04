@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,314 |
 | net | 1,838 |
-| social | 1,355 |
+| social | 1,356 |
 | org | 1,292 |
-| de | 1,188 |
+| de | 1,189 |
 
 
 - Mastodon, Pleroma, etc
@@ -2060,6 +2060,7 @@ Here's a list of public Fediverse services.
 | `bfan.cc` | No |
 | `bfoliver.com` | No |
 | `bfsu.cafe` | Yes |
+| `bg.cafe` | No |
 | `bgcarlisle.com` | No |
 | `bgdream.org` | No |
 | `bgemi.net` | No |
@@ -4569,6 +4570,7 @@ Here's a list of public Fediverse services.
 | `delire.party` | No |
 | `deliverydoubled.com` | Yes |
 | `dellmuth.de` | No |
+| `delmenhorst.social` | No |
 | `delmulin.com` | No |
 | `delores.club` | No |
 | `delort.gdn` | No |
@@ -21403,6 +21405,7 @@ Here's a list of public Fediverse services.
 | `unooverse.com` | No |
 | `unordentlich.space` | Yes |
 | `unperson.us` | No |
+| `unraidcloud.de` | Yes |
 | `unraids.ml` | No |
 | `unreality.pink` | No |
 | `unrelenting.technology` | No |
@@ -23331,8 +23334,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,713 |
-| Normal | 18,575 |
+| Cloudflare | 4,714 |
+| Normal | 18,577 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
