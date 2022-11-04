@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,311 |
 | net | 1,837 |
-| social | 1,348 |
+| social | 1,349 |
 | org | 1,291 |
 | de | 1,183 |
 
@@ -17913,6 +17913,7 @@ Here's a list of public Fediverse services.
 | `schaertl.me` | No |
 | `schattenwe.lt` | No |
 | `schatzkarten.net` | No |
+| `schaumburg.social` | No |
 | `scheid.tech` | No |
 | `schelling.pt` | No |
 | `schemacs.com` | No |
@@ -21814,6 +21815,7 @@ Here's a list of public Fediverse services.
 | `voiceandexit.me` | No |
 | `voicenews.icu` | No |
 | `voiceofcomputer.xyz` | Yes |
+| `voiceover.bar` | No |
 | `void.ac` | Yes |
 | `void.garden` | No |
 | `void.gift` | Yes |
@@ -22261,6 +22263,7 @@ Here's a list of public Fediverse services.
 | `willnorris.com` | No |
 | `willnorris.net` | No |
 | `willow.cafe` | No |
+| `wilsonxia.cn` | No |
 | `wim.lol` | No |
 | `wimjaap.nl` | No |
 | `wimmer-edv.de` | No |
@@ -23296,7 +23299,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,708 |
-| Normal | 18,544 |
+| Normal | 18,547 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
