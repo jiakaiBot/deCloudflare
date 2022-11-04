@@ -4006,6 +4006,7 @@ Do not create new issue or we will close it as duplicate.
 | [izzanzahinwho@twitter](https://twitter.com/izzanzahinwho/status/1576417610723622912) | advertise |
 | [IZZY08644619@twitter](https://twitter.com/IZZY08644619/status/1391758790807097348) | advertise |
 | [izzymhr@twitter](https://twitter.com/izzymhr/status/1556715063511519233) | advertise |
+| [i_alrayes@twitter](https://twitter.com/i_alrayes/status/1588327478036430848) | advertise |
 | [I_AmmMmmR_@twitter](https://twitter.com/I_AmmMmmR_/status/1387297373798506498) | advertise |
 | [I_LOVE_ANIMEEWW@twitter](https://twitter.com/I_LOVE_ANIMEEWW/status/1387312451251621889) | advertise |
 | [j3graham@twitter](https://twitter.com/j3graham/status/1582227619986034694) | advertise |
@@ -9032,6 +9033,7 @@ Do not create new issue or we will close it as duplicate.
 | [Swaye19899497@twitter](https://twitter.com/Swaye19899497/status/1391353810518298627) | advertise |
 | [swazifiction@twitter](https://twitter.com/swazifiction/status/1550171477063892993) | advertise |
 | [sweetichi2@twitter](https://twitter.com/sweetichi2/status/1384124020228911107) | advertise |
+| [sweet_global@twitter](https://twitter.com/sweet_global/status/1588331731773403136) | advertise |
 | [SweGyi10224401@twitter](https://twitter.com/SweGyi10224401/status/1407464017719828485) | advertise |
 | [SweYiPhyo1@twitter](https://twitter.com/SweYiPhyo1/status/1397547716910018560) | advertise |
 | [swe_sone@twitter](https://twitter.com/swe_sone/status/1392755306854293506) | advertise |
@@ -9718,6 +9720,7 @@ Do not create new issue or we will close it as duplicate.
 | [ToreyHill4@twitter](https://twitter.com/ToreyHill4/status/1577841660293222400) | advertise |
 | [torproject.org](https://www.torproject.org/) | [HISTORY.md](../HISTORY.md), [README.md](README.md) |
 | [Torrekie@twitter](https://twitter.com/Torrekie/status/1449973586664595458) | advertise |
+| [torukMnk@twitter](https://twitter.com/torukMnk/status/1588337042945343488) | advertise |
 | [torzen6@twitter](https://twitter.com/torzen6/status/1400998635785973761) | advertise |
 | [TosinTimothy5@twitter](https://twitter.com/TosinTimothy5/status/1586519693048745984) | advertise |
 | [TotasShepot@twitter](https://twitter.com/TotasShepot/status/1501117750806466565) | advertise |
@@ -10115,6 +10118,7 @@ Do not create new issue or we will close it as duplicate.
 | [VHnh11622495@twitter](https://twitter.com/VHnh11622495/status/1553810981544808449) | advertise |
 | [vhung7061@twitter](https://twitter.com/vhung7061/status/1487810623673147392) | advertise |
 | [vian_kio@twitter](https://twitter.com/vian_kio/status/1404827196846317571) | advertise |
+| [VicLessMan@twitter](https://twitter.com/VicLessMan/status/1588327048501612544) | advertise |
 | [victoraldir@twitter](https://twitter.com/victoraldir/status/1468678725684404231) | advertise |
 | [VictorC67776723@twitter](https://twitter.com/VictorC67776723/status/1429202585097998336) | advertise |
 | [Victorsanguine5@twitter](https://twitter.com/Victorsanguine5/status/1569801607839088641) | advertise |
