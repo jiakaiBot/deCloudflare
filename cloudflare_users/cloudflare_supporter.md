@@ -3110,6 +3110,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hahaha8911@twitter](https://twitter.com/Hahaha8911/status/1580517415204507648) | advertise |
 | [Hahaha130100@twitter](https://twitter.com/Hahaha130100/status/1552324016069054464) | advertise |
 | [hahasofunnybruh@twitter](https://twitter.com/hahasofunnybruh/status/1397828172264079362) | advertise |
+| [Hai18099052@twitter](https://twitter.com/Hai18099052/status/1588621808932356096) | advertise |
 | [haiche1410@twitter](https://twitter.com/haiche1410/status/1571199251291729921) | advertise |
 | [HaiChen1708@twitter](https://twitter.com/HaiChen1708/status/1566482660712914944) | advertise |
 | [haikala86043665@twitter](https://twitter.com/haikala86043665/status/1553275985013121024) | advertise |
