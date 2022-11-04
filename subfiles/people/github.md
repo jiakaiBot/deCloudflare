@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Debian 11 重装系统后运行脚本报错网络异常](https://github.com/P3TERX/warp.sh/issues/82)
 - [Coinex: InsufficientFunds: Balance Insufficient](https://github.com/ccxt/ccxt/issues/15527)
 - [Response: { status: 500, message: 'Error' }](https://github.com/Shoonya-Dev/ShoonyaApi-js/issues/12)
 - [Cloudflare version 2 error](https://github.com/dipu-bd/lightnovel-crawler/issues/1756)
