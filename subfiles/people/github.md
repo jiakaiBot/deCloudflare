@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Coinex: InsufficientFunds: Balance Insufficient](https://github.com/ccxt/ccxt/issues/15527)
 - [Response: { status: 500, message: 'Error' }](https://github.com/Shoonya-Dev/ShoonyaApi-js/issues/12)
 - [Cloudflare version 2 error](https://github.com/dipu-bd/lightnovel-crawler/issues/1756)
 - ["example" app uses unreliable images](https://github.com/MaikuB/flutter_local_notifications/issues/1772)
