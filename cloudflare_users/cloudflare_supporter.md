@@ -5724,6 +5724,7 @@ Do not create new issue or we will close it as duplicate.
 | [maslankd@twitter](https://twitter.com/maslankd/status/1580194516186722304) | advertise |
 | [mason78555541@twitter](https://twitter.com/mason78555541/status/1552343962970918912) | advertise |
 | [masonman443@twitter](https://twitter.com/masonman443/status/1572914826946682884) | advertise |
+| [masoudT48958265@twitter](https://twitter.com/masoudT48958265/status/1588573955413397505) | advertise |
 | [masOUmy49@twitter](https://twitter.com/masOUmy49/status/1378421995021471752) | advertise |
 | [Master14352302@twitter](https://twitter.com/Master14352302/status/1392063606175510528) | advertise |
 | [MasterBo20@twitter](https://twitter.com/MasterBo20/status/1392353718700367872) | advertise |
@@ -5769,6 +5770,7 @@ Do not create new issue or we will close it as duplicate.
 | [Max80893001@twitter](https://twitter.com/Max80893001/status/1387188885130813450) | advertise |
 | [MaxDilan10@twitter](https://twitter.com/MaxDilan10/status/1506011770242334720) | advertise |
 | [maximum_speed1@twitter](https://twitter.com/maximum_speed1/status/1400619592158953478) | advertise |
+| [MAXx256568816@twitter](https://twitter.com/MAXx256568816/status/1588570798264287232) | advertise |
 | [Maxz081@twitter](https://twitter.com/Maxz081/status/1384668008048513026) | advertise |
 | [May14396821@twitter](https://twitter.com/May14396821/status/1390941074898620416) | advertise |
 | [Mayada89190021@twitter](https://twitter.com/Mayada89190021/status/1383269107038973959) | advertise |
