@@ -2272,6 +2272,7 @@ Do not create new issue or we will close it as duplicate.
 | [DmokGlass@twitter](https://twitter.com/DmokGlass/status/1522817669421944832) | advertise |
 | [Dn94847228@twitter](https://twitter.com/Dn94847228/status/1401163067711311881) | advertise |
 | [DNames@twitter](https://twitter.com/DNames/status/1491872924390891526) | advertise |
+| [Dng54795442@twitter](https://twitter.com/Dng54795442/status/1588542074609336320) | advertise |
 | [Dng69114608@twitter](https://twitter.com/Dng69114608/status/1469914393320525824) | advertise |
 | [dng96878709@twitter](https://twitter.com/dng96878709/status/1376910370070142981) | advertise |
 | [DngCa10355096@twitter](https://twitter.com/DngCa10355096/status/1558900876269346816) | advertise |
@@ -2343,6 +2344,7 @@ Do not create new issue or we will close it as duplicate.
 | [dr0iz2@twitter](https://twitter.com/dr0iz2/status/1450296026137567232) | advertise |
 | [DragonD54319478@twitter](https://twitter.com/DragonD54319478/status/1578775008801062912) | advertise |
 | [dragonkevin27@twitter](https://twitter.com/dragonkevin27/status/1576117526643474435) | advertise |
+| [dragonplatimum@twitter](https://twitter.com/dragonplatimum/status/1588509354839666688) | advertise |
 | [DragonTechIT@twitter](https://twitter.com/DragonTechIT/status/1437804344682893321) | advertise |
 | [drAhlawy@twitter](https://twitter.com/drAhlawy/status/1389690659188191234) | advertise |
 | [Drake7989@twitter](https://twitter.com/Drake7989/status/1495757039532146691) | advertise |
@@ -2610,6 +2612,7 @@ Do not create new issue or we will close it as duplicate.
 | [erigomwsn@twitter](https://twitter.com/erigomwsn/status/1393026360788938752) | advertise |
 | [ernielehman@twitter](https://twitter.com/ernielehman/status/1382762709394071555) | advertise |
 | [erpsoftwarebd@twitter](https://twitter.com/erpsoftwarebd/status/1464521477504466946) | advertise |
+| [Er_Manipathak@twitter](https://twitter.com/Er_Manipathak/status/1588544216526774273) | advertise |
 | [eserediucm@twitter](https://twitter.com/eserediucm/status/1411816726161887232) | moral (advertise) |
 | [Eset79cTKZmQsuT@twitter](https://twitter.com/Eset79cTKZmQsuT/status/1395627193003171843) | advertise |
 | [eskimo_phyo@twitter](https://twitter.com/eskimo_phyo/status/1398996210623553540) | advertise |
@@ -8056,6 +8059,7 @@ Do not create new issue or we will close it as duplicate.
 | [rexjohannes98@twitter](https://twitter.com/rexjohannes98/status/1566046664833507329) | advertise |
 | [rex_clemente@twitter](https://twitter.com/rex_clemente/status/1376875545955209224) | advertise |
 | [rex_divakar@twitter](https://twitter.com/rex_divakar/status/1506067340165009409) | advertise |
+| [REYNARDPERMEJO@twitter](https://twitter.com/REYNARDPERMEJO/status/1588537048193183744) | advertise |
 | [RezaeShahram@twitter](https://twitter.com/RezaeShahram/status/1583969859041230848) | advertise |
 | [rezagolami_98@twitter](https://twitter.com/rezagolami_98/status/1501473867461799936) | advertise |
 | [RezaulK30725462@twitter](https://twitter.com/RezaulK30725462/status/1529533295041875970) | advertise |
@@ -10995,6 +10999,7 @@ Do not create new issue or we will close it as duplicate.
 | [_CyberMaster@twitter](https://twitter.com/_CyberMaster/status/1555502381504368641) | advertise |
 | [_DepvaOTP_@twitter](https://twitter.com/_DepvaOTP_/status/1399004303788888067) | advertise |
 | [_htet1@twitter](https://twitter.com/_htet1/status/1390121428360433672) | advertise |
+| [_hxqg@twitter](https://twitter.com/_hxqg/status/1588518959250575362) | advertise |
 | [_ishtiaquddin@twitter](https://twitter.com/_ishtiaquddin/status/1576323927806205953) | advertise |
 | [_IvanFlecha@twitter](https://twitter.com/_IvanFlecha/status/1507311637857980417) | advertise |
 | [_Jarvis_here@twitter](https://twitter.com/_Jarvis_here/status/1568301037265760256) | advertise |
