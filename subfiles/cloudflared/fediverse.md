@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,304 |
 | net | 1,827 |
-| social | 1,336 |
+| social | 1,337 |
 | org | 1,286 |
 | de | 1,181 |
 
@@ -972,6 +972,7 @@ Here's a list of public Fediverse services.
 | `amyos.net` | No |
 | `an6.us` | No |
 | `anacreonte.eu` | No |
+| `analogue.social` | No |
 | `ananasbananas.com` | No |
 | `ananc.us` | No |
 | `anaproy.nl` | No |
@@ -23204,7 +23205,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,693 |
-| Normal | 18,467 |
+| Normal | 18,468 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
