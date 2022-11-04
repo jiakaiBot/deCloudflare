@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,316 |
 | net | 1,838 |
-| social | 1,357 |
+| social | 1,359 |
 | org | 1,292 |
-| de | 1,189 |
+| de | 1,190 |
 
 
 - Mastodon, Pleroma, etc
@@ -6706,6 +6706,7 @@ Here's a list of public Fediverse services.
 | `francil.in` | No |
 | `frankenwolke.com` | No |
 | `frankfurt.social` | No |
+| `frankly.social` | No |
 | `frankmeeuwsen.xyz` | Yes |
 | `frankreimer.de` | No |
 | `franksworld.org` | No |
@@ -18196,6 +18197,7 @@ Here's a list of public Fediverse services.
 | `selfhosting.info` | No |
 | `selfhosting.rocks` | No |
 | `selfie.town` | No |
+| `selfmade4u.de` | No |
 | `selfprivacy.org` | Yes |
 | `selfpub.pub` | No |
 | `selfy.army` | No |
@@ -20887,6 +20889,7 @@ Here's a list of public Fediverse services.
 | `treethought.com` | No |
 | `treffast.no` | No |
 | `treffler.cloud` | Yes |
+| `trekkies.social` | No |
 | `trendcreate.net` | No |
 | `trendless.ca` | Yes |
 | `tret.jp` | Yes |
@@ -23341,7 +23344,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,717 |
-| Normal | 18,580 |
+| Normal | 18,583 |
 
 
 ### 20.2% of public Fediverse services are using Cloudflare.
