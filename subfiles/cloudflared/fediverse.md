@@ -6846,6 +6846,7 @@ Here's a list of public Fediverse services.
 | `friskywhiskersfiction.online` | No |
 | `fritu.re` | No |
 | `frizk.net` | No |
+| `frkn.co` | No |
 | `frnd.ski` | No |
 | `frndc.de` | No |
 | `frog.camp` | No |
@@ -23203,7 +23204,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,693 |
-| Normal | 18,466 |
+| Normal | 18,467 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
