@@ -11555,6 +11555,7 @@ Here's a list of public Fediverse services.
 | `lrtg.cf` | No |
 | `lrtg.me` | Yes |
 | `lrtg.tk` | No |
+| `lsbt.me` | No |
 | `lsf-group.de` | No |
 | `lsnet.eu` | No |
 | `lsngl.us` | No |
@@ -12165,7 +12166,7 @@ Here's a list of public Fediverse services.
 | `mastodon.com.tr` | Yes |
 | `mastodon.com.tw` | No |
 | `mastodon.computer` | No |
-| `mastodon.cool` | No |
+| `mastodon.cool` | Yes |
 | `mastodon.cx` | Yes |
 | `mastodon.design` | No |
 | `mastodon.digital` | No |
@@ -23294,7 +23295,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,707 |
+| Cloudflare | 4,708 |
 | Normal | 18,544 |
 
 
