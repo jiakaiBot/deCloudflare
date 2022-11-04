@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,304 |
 | net | 1,827 |
 | social | 1,337 |
-| org | 1,286 |
+| org | 1,287 |
 | de | 1,181 |
 
 
@@ -14035,6 +14035,7 @@ Here's a list of public Fediverse services.
 | `netlify.app` | Yes |
 | `netlify.com` | Yes |
 | `netlord.de` | No |
+| `netmonkey.xyz` | No |
 | `netooze.com` | Yes |
 | `netou.info` | No |
 | `netplusw.com` | No |
@@ -16004,6 +16005,7 @@ Here's a list of public Fediverse services.
 | `pleromazela.world` | No |
 | `plextube.nl` | No |
 | `plfgr.eu.org` | No |
+| `pliocene.org` | No |
 | `pljcbsn.me` | No |
 | `plk.me` | No |
 | `plock.social` | No |
@@ -23205,7 +23207,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,693 |
-| Normal | 18,468 |
+| Normal | 18,470 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
