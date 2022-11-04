@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,304 |
 | net | 1,825 |
-| social | 1,333 |
+| social | 1,334 |
 | org | 1,285 |
 | de | 1,181 |
 
@@ -13798,6 +13798,7 @@ Here's a list of public Fediverse services.
 | `nathansw.de` | Yes |
 | `nathrakh.de` | No |
 | `natio.ovh` | No |
+| `nationaljustice.social` | No |
 | `natleft.wiki` | No |
 | `natrinicle.com` | No |
 | `natsu.page` | No |
@@ -23127,6 +23128,7 @@ Here's a list of public Fediverse services.
 | `zoppelt.net` | Yes |
 | `zordhak.fr` | No |
 | `zorns.eu` | No |
+| `zoski.fr` | No |
 | `zot.social` | No |
 | `zotadel.net` | No |
 | `zotan.host` | No |
@@ -23189,7 +23191,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,694 |
-| Normal | 18,451 |
+| Normal | 18,453 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
