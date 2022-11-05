@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Problem with Filesystem on VM](https://github.com/home-assistant/operating-system/issues/2218)
 - [Root domain record won't update](https://github.com/va1entin/tools/issues/2)
 - [Authorization header not printed when using digest auth](https://github.com/httpie/httpie/issues/1447)
 - [Debian 11 重装系统后运行脚本报错网络异常](https://github.com/P3TERX/warp.sh/issues/82)
