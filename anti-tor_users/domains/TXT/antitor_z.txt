@@ -121,6 +121,7 @@ forms.zohopublic.eu
 git.git.git.gitlab.gitlab.smtpmail.z-serviceonline.com
 kerur-rahamim.zapages.co.il
 listbank.zapishis.com
+mqtts-dev.zeromass.io
 nls.zolla.ru
 safetyandhealth4u.zapages.co.il
 user.zarinkav.ir
@@ -131,7 +132,9 @@ www.s.confirm.zd.lu
 www.user.zarinkav.ir
 www.zaadbank.nl
 zacairbank.ml
+zamaco.com.vn
 zeebra.nl
+zhyttia.com.ua
 zoeprendlaplume.fr
 zsfdupk.cn
 ztmrds.zenithtechnologies.com
