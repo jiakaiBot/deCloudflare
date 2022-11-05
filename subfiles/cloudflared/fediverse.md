@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,326 |
+| com | 3,327 |
 | net | 1,840 |
-| social | 1,366 |
+| social | 1,367 |
 | org | 1,296 |
 | de | 1,194 |
 
@@ -836,6 +836,7 @@ Here's a list of public Fediverse services.
 | `aliyo.me` | Yes |
 | `aljadra.xyz` | No |
 | `all.de` | No |
+| `allaboutgeorge.com` | No |
 | `allaboutlbc.com` | Yes |
 | `allaver.com` | Yes |
 | `allbees.be` | No |
@@ -3410,6 +3411,7 @@ Here's a list of public Fediverse services.
 | `clallam.lgbt` | No |
 | `clamav.net` | Yes |
 | `clamo.red` | No |
+| `clar.ke` | Yes |
 | `claris.cf` | No |
 | `claristdon.link` | No |
 | `claristdon.net` | No |
@@ -14669,6 +14671,7 @@ Here's a list of public Fediverse services.
 | `noxblr.com` | No |
 | `noxie.ch` | No |
 | `noyuno.space` | No |
+| `nozzi.social` | No |
 | `npa-marseille.org` | No |
 | `npo.city` | No |
 | `nposns.com` | No |
@@ -17746,6 +17749,7 @@ Here's a list of public Fediverse services.
 | `sac.moe` | Yes |
 | `sac.se` | No |
 | `sachertorte.xyz` | No |
+| `sackheads.blog` | No |
 | `sackheads.social` | No |
 | `sad.cab` | No |
 | `sad.earth` | No |
@@ -23033,6 +23037,7 @@ Here's a list of public Fediverse services.
 | `yorishiro.space` | No |
 | `yorozu-sys.net` | No |
 | `yorrike.com` | No |
+| `yosh.is` | No |
 | `yoshimov.com` | Yes |
 | `yoshimov.info` | No |
 | `yotie.blue` | No |
@@ -23400,8 +23405,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,735 |
-| Normal | 18,622 |
+| Cloudflare | 4,736 |
+| Normal | 18,626 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
