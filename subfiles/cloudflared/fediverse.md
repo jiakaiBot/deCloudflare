@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,326 |
 | net | 1,840 |
-| social | 1,365 |
+| social | 1,366 |
 | org | 1,296 |
 | de | 1,193 |
 
@@ -11958,8 +11958,8 @@ Here's a list of public Fediverse services.
 | `maneisacutie.club` | No |
 | `manga.tokyo` | Yes |
 | `mangadon.biz` | No |
-| `mangadon.info` | Yes |
-| `mangadon.net` | Yes |
+| `mangadon.info` | No |
+| `mangadon.net` | No |
 | `mangayoh.fr` | No |
 | `mangoranch.lol` | No |
 | `manhater.io` | No |
@@ -16335,6 +16335,7 @@ Here's a list of public Fediverse services.
 | `port0.org` | No |
 | `port0.xyz` | No |
 | `port53.me` | Yes |
+| `port87.social` | Yes |
 | `portaesgnos.org` | No |
 | `portes-imaginaire.org` | No |
 | `portkaihou.org` | No |
@@ -22914,6 +22915,7 @@ Here's a list of public Fediverse services.
 | `yanoagenda.com` | Yes |
 | `yantene.net` | Yes |
 | `yantou.co` | Yes |
+| `yantou.me` | Yes |
 | `yantouer.cn` | Yes |
 | `yantouer.com` | Yes |
 | `yaofur.com` | Yes |
@@ -23391,7 +23393,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,731 |
-| Normal | 18,616 |
+| Normal | 18,618 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
