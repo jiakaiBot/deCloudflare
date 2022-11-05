@@ -4763,8 +4763,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8889,6 +8889,7 @@ Do not create new issue or we will close it as duplicate.
 | [soyandot@twitter](https://twitter.com/soyandot/status/1492984014193446918) | advertise |
 | [soyfrien@twitter](https://twitter.com/soyfrien/status/1506490745779277825) | advertise |
 | [soyfrya@twitter](https://twitter.com/soyfrya/status/1549355901773021184) | advertise |
+| [soykanozcelik@twitter](https://twitter.com/soykanozcelik/status/1588945027698262018) | advertise |
 | [SoYoon997847@twitter](https://twitter.com/SoYoon997847/status/1391096734575521795) | advertise |
 | [sozeehh@twitter](https://twitter.com/sozeehh/status/1406383374797885442) | advertise |
 | [SpaceVim@twitter](https://twitter.com/SpaceVim/status/1511275416354385922) | advertise |
