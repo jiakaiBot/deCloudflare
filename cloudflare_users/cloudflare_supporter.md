@@ -1803,6 +1803,7 @@ Do not create new issue or we will close it as duplicate.
 | [ChungNguyensy2@twitter](https://twitter.com/ChungNguyensy2/status/1383061957046067202) | advertise |
 | [chuoi44@twitter](https://twitter.com/chuoi44/status/1482020439157522432) | advertise |
 | [chuoikt@twitter](https://twitter.com/chuoikt/status/1553980997708181504) | advertise |
+| [ChuPhu14@twitter](https://twitter.com/ChuPhu14/status/1588941317849362432) | advertise |
 | [chuquan9998@twitter](https://twitter.com/chuquan9998/status/1501898120518520836) | advertise |
 | [chutoaqop@twitter](https://twitter.com/chutoaqop/status/1387045525917114372) | advertise |
 | [cibinlik@twitter](https://twitter.com/cibinlik/status/1471556779930796034) | advertise |
@@ -7110,6 +7111,7 @@ Do not create new issue or we will close it as duplicate.
 | [NurseSmit@twitter](https://twitter.com/NurseSmit/status/1549786161442332673) | advertise |
 | [nurunnabi56@twitter](https://twitter.com/nurunnabi56/status/1560217013288861696) | advertise |
 | [nuttawoot33150@twitter](https://twitter.com/nuttawoot33150/status/1557336093254569984) | advertise |
+| [NuwajunaJustus@twitter](https://twitter.com/NuwajunaJustus/status/1588943780883095553) | advertise |
 | [NV25532344@twitter](https://twitter.com/NV25532344/status/1480206141401354244) | advertise |
 | [nva30042000@twitter](https://twitter.com/nva30042000/status/1400858007844450312) | advertise |
 | [Nvccutewa@twitter](https://twitter.com/Nvccutewa/status/1554358972643037184) | advertise |
