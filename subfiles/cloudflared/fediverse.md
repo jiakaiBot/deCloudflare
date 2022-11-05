@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,351 |
 | net | 1,852 |
 | social | 1,401 |
-| org | 1,305 |
+| org | 1,306 |
 | de | 1,208 |
 
 
@@ -5030,6 +5030,7 @@ Here's a list of public Fediverse services.
 | `dogetron.com` | No |
 | `doghub.eu` | No |
 | `dogsballs.net` | No |
+| `dogsex.org` | Yes |
 | `dogspin.xyz` | Yes |
 | `dogwhipping.day` | No |
 | `doingmyp.art` | No |
@@ -7870,6 +7871,7 @@ Here's a list of public Fediverse services.
 | `gridfinity.com` | No |
 | `griffindow.com` | Yes |
 | `griftgang.com` | Yes |
+| `grigson.live` | No |
 | `grimerica.ca` | No |
 | `grimm.link` | No |
 | `grimm.systems` | No |
@@ -19101,7 +19103,7 @@ Here's a list of public Fediverse services.
 | `sofie.dev` | No |
 | `softgirl.online` | No |
 | `softi.city` | No |
-| `softinio.com` | No |
+| `softinio.com` | Yes |
 | `softmetz.de` | No |
 | `softwerk2.de` | No |
 | `softwhere.ca` | No |
@@ -23600,7 +23602,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,776 |
+| Cloudflare | 4,778 |
 | Normal | 18,781 |
 
 
