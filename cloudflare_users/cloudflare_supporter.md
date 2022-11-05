@@ -110,6 +110,7 @@ Do not create new issue or we will close it as duplicate.
 | [34cThnh2@twitter](https://twitter.com/34cThnh2/status/1518200426969006080) | advertise |
 | [38ffbd92e49a498@twitter](https://twitter.com/38ffbd92e49a498/status/1395244361592545282) | advertise |
 | [42Joker1986@twitter](https://twitter.com/42Joker1986/status/1401200785082523650) | advertise |
+| [46Gaemr@twitter](https://twitter.com/46Gaemr/status/1588683647431118848) | advertise |
 | [59_nishi@twitter](https://twitter.com/59_nishi/status/1396310715548323842) | advertise |
 | [63FIwW0WqHvus55@twitter](https://twitter.com/63FIwW0WqHvus55/status/1405398057202630657) | advertise |
 | [65akon@twitter](https://twitter.com/65akon/status/1537224409861484544) | advertise |
@@ -1891,8 +1892,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -9444,6 +9445,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thichbucu51@twitter](https://twitter.com/Thichbucu51/status/1386468559073669122) | advertise |
 | [thichcayvn@twitter](https://twitter.com/thichcayvn/status/1573991143414837248) | advertise |
 | [thichshowciu@twitter](https://twitter.com/thichshowciu/status/1488523970248953867) | advertise |
+| [ThidngTriu1@twitter](https://twitter.com/ThidngTriu1/status/1588790266525552645) | advertise |
 | [Thien46594895@twitter](https://twitter.com/Thien46594895/status/1491663022859120644) | advertise |
 | [Thien51800662@twitter](https://twitter.com/Thien51800662/status/1383463127044399105) | advertise |
 | [Thien55886244@twitter](https://twitter.com/Thien55886244/status/1377669194137759745) | advertise |
