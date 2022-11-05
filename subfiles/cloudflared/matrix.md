@@ -48,7 +48,6 @@ Here's a list of public Matrix services.
 | converser.eu | No |
 | matrix.crossbach.de | No |
 | matrix.data.haus | No |
-| im.deuxfleurs.fr | No |
 | matrix.duesen.chat | No |
 | matrix.envs.net | No |
 | exarius.org | No |
@@ -63,6 +62,7 @@ Here's a list of public Matrix services.
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
+| matrix.glasgow.social | No |
 | group.lt | Yes |
 | hackerspaces.be | No |
 | matrix.hadoly.fr | No |
