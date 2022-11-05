@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,328 |
 | net | 1,840 |
-| social | 1,367 |
+| social | 1,368 |
 | org | 1,296 |
 | de | 1,194 |
 
@@ -13876,6 +13876,7 @@ Here's a list of public Fediverse services.
 | `nanasi-apps.xyz` | Yes |
 | `nanax.fr` | No |
 | `nanbon.eu` | No |
+| `nancy.social` | No |
 | `nand.tk` | No |
 | `nandon.cc` | No |
 | `nanoapp.io` | No |
@@ -23407,7 +23408,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,737 |
-| Normal | 18,626 |
+| Normal | 18,627 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
