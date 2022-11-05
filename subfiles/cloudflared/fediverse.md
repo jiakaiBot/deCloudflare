@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,327 |
+| com | 3,328 |
 | net | 1,840 |
 | social | 1,367 |
 | org | 1,296 |
@@ -16453,6 +16453,7 @@ Here's a list of public Fediverse services.
 | `prettyboytellem.com` | No |
 | `prettygrouse.com` | No |
 | `prettyqueer.online` | Yes |
+| `prettyrequiem.com` | Yes |
 | `pretzlaff.co` | No |
 | `prezman.fr` | No |
 | `prf.me` | No |
@@ -23405,7 +23406,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,736 |
+| Cloudflare | 4,737 |
 | Normal | 18,626 |
 
 
