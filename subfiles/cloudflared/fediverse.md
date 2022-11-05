@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,840 |
 | social | 1,366 |
 | org | 1,296 |
-| de | 1,193 |
+| de | 1,194 |
 
 
 - Mastodon, Pleroma, etc
@@ -6781,6 +6781,7 @@ Here's a list of public Fediverse services.
 | `freeguntalk.com` | No |
 | `freehold.earth` | No |
 | `freehub.space` | No |
+| `freeipad.info` | Yes |
 | `freeland-test-services.ml` | No |
 | `freemaker.it` | No |
 | `freemancw.com` | No |
@@ -13122,6 +13123,7 @@ Here's a list of public Fediverse services.
 | `mlmie.net` | No |
 | `mlny.info` | Yes |
 | `mlpol.net` | Yes |
+| `mls20.de` | No |
 | `mlsskey.io` | Yes |
 | `mmaj.ca` | Yes |
 | `mmav.club` | Yes |
@@ -16695,6 +16697,7 @@ Here's a list of public Fediverse services.
 | `qaq.jp` | Yes |
 | `qaq.wiki` | Yes |
 | `qatuno.de` | No |
+| `qaz.red` | No |
 | `qc.to` | No |
 | `qcurtius.com` | No |
 | `qcx.io` | Yes |
@@ -18821,6 +18824,7 @@ Here's a list of public Fediverse services.
 | `snel.host` | No |
 | `snel.im` | No |
 | `snel.social` | No |
+| `snepi.space` | Yes |
 | `snet.blog` | No |
 | `snfl.fun` | No |
 | `sngsk.info` | No |
@@ -22409,6 +22413,7 @@ Here's a list of public Fediverse services.
 | `witcraft.de` | No |
 | `with.moe` | Yes |
 | `with.parts` | No |
+| `within.website` | Yes |
 | `withsilence.com` | Yes |
 | `witiko.de` | No |
 | `wittemeier.de` | No |
@@ -23395,8 +23400,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,732 |
-| Normal | 18,620 |
+| Cloudflare | 4,735 |
+| Normal | 18,622 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
