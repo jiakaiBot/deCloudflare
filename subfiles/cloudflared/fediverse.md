@@ -6972,6 +6972,7 @@ Here's a list of public Fediverse services.
 | `fucking.soy` | No |
 | `fuckingweeb.moe` | No |
 | `fuckitter.com` | No |
+| `fuckmu.sk` | No |
 | `fuckonthefirst.date` | No |
 | `fucksocial.net` | No |
 | `fuckthe.cash` | Yes |
@@ -16690,6 +16691,7 @@ Here's a list of public Fediverse services.
 | `qaf.one` | Yes |
 | `qag.me` | No |
 | `qahel.io` | No |
+| `qapp.cloud` | No |
 | `qaq.jp` | Yes |
 | `qaq.wiki` | Yes |
 | `qatuno.de` | No |
@@ -18773,6 +18775,7 @@ Here's a list of public Fediverse services.
 | `smores.town` | No |
 | `smseden.com` | Yes |
 | `smth.tk` | No |
+| `smto.pw` | Yes |
 | `smuglo.li` | Yes |
 | `smurpspaek.de` | No |
 | `smusi.ch` | No |
@@ -23392,8 +23395,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,731 |
-| Normal | 18,618 |
+| Cloudflare | 4,732 |
+| Normal | 18,620 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
