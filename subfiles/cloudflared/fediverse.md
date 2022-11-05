@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,349 |
-| net | 1,850 |
+| net | 1,851 |
 | social | 1,399 |
 | org | 1,305 |
 | de | 1,208 |
@@ -18771,6 +18771,7 @@ Here's a list of public Fediverse services.
 | `skarnio.tv` | No |
 | `skastodon.com` | No |
 | `skazki.fr` | No |
+| `skbo.net` | No |
 | `skeleton.army` | Yes |
 | `skeleton.cool` | No |
 | `skeletons.gay` | No |
@@ -22263,7 +22264,7 @@ Here's a list of public Fediverse services.
 | `wao.wtf` | No |
 | `wapanafa.org` | No |
 | `wapnitsky.com` | No |
-| `wappie.land` | Yes |
+| `wappie.land` | No |
 | `wappler.systems` | No |
 | `waraiotoko.net` | Yes |
 | `warbler.network` | No |
@@ -23585,8 +23586,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,771 |
-| Normal | 18,771 |
+| Cloudflare | 4,770 |
+| Normal | 18,773 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
