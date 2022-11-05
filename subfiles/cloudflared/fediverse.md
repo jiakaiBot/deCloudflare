@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,339 |
 | net | 1,846 |
 | social | 1,402 |
-| org | 1,304 |
+| org | 1,305 |
 | de | 1,206 |
 
 
@@ -2314,6 +2314,7 @@ Here's a list of public Fediverse services.
 | `blazingopen.space` | No |
 | `bldg7.social` | No |
 | `bldon.net` | No |
+| `bldrweb.org` | Yes |
 | `bleatbox.net` | Yes |
 | `bleauweb.net` | Yes |
 | `bleepbloop.club` | Yes |
@@ -3770,7 +3771,7 @@ Here's a list of public Fediverse services.
 | `contentnation.net` | No |
 | `contentsyndikat.de` | No |
 | `contenttechtodon.org` | No |
-| `continja.com` | No |
+| `continja.com` | Yes |
 | `continuouswonder.social` | No |
 | `contra-bit.com` | No |
 | `contrapointsfan.club` | No |
@@ -8321,6 +8322,7 @@ Here's a list of public Fediverse services.
 | `helpmedog.com` | Yes |
 | `helse.rocks` | No |
 | `helvede.net` | No |
+| `helvetet.eu` | No |
 | `hemmer.land` | No |
 | `hemmer.tv` | No |
 | `hemmnet.de` | No |
@@ -14560,6 +14562,7 @@ Here's a list of public Fediverse services.
 | `nodevops.com` | No |
 | `nodja.com` | Yes |
 | `nodocomun.org` | No |
+| `nodomain.cc` | No |
 | `nodotsam.xyz` | No |
 | `nodutiesowed.com` | No |
 | `noela.moe` | No |
@@ -15927,6 +15930,7 @@ Here's a list of public Fediverse services.
 | `phijkchu.com` | No |
 | `phil-ia.net` | No |
 | `phila.social` | No |
+| `philament.club` | No |
 | `philbowell.me` | No |
 | `philcrockett.com` | No |
 | `philgeld.ch` | No |
@@ -23556,8 +23560,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,767 |
-| Normal | 18,746 |
+| Cloudflare | 4,769 |
+| Normal | 18,748 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
