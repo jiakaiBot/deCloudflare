@@ -10622,6 +10622,7 @@ Do not create new issue or we will close it as duplicate.
 | [YasinUmur@twitter](https://twitter.com/YasinUmur/status/1411232485376245760) | moral (advertise) |
 | [Yassen75@twitter](https://twitter.com/Yassen75/status/1528466535928451073) | advertise |
 | [YassenAljassem@twitter](https://twitter.com/YassenAljassem/status/1551676602236502016) | advertise |
+| [yassenragab8@twitter](https://twitter.com/yassenragab8/status/1588822353429278720) | advertise |
 | [yasunrik@twitter](https://twitter.com/yasunrik/status/1410258132769525760) | moral (advertise) |
 | [Yate315142663@twitter](https://twitter.com/Yate315142663/status/1385109096999706629) | advertise |
 | [Yatendr59558289@twitter](https://twitter.com/Yatendr59558289/status/1398716969054998528) | advertise |
