@@ -381,6 +381,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ahzz4417@twitter](https://twitter.com/Ahzz4417/status/1576633374680444928) | advertise |
 | [ah_pinn@twitter](https://twitter.com/ah_pinn/status/1390812857999101954) | advertise |
 | [AI03105794@twitter](https://twitter.com/AI03105794/status/1551766571504340992) | advertise |
+| [AIascu@twitter](https://twitter.com/AIascu/status/1588823794311127040) | advertise |
 | [aibos_Hodl@twitter](https://twitter.com/aibos_Hodl/status/1388969919740514306) | advertise |
 | [AicKhiem@twitter](https://twitter.com/AicKhiem/status/1584565736097226752) | advertise |
 | [aido36449809@twitter](https://twitter.com/aido36449809/status/1470779906057547786) | advertise |
@@ -1892,8 +1893,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3391,6 +3392,7 @@ Do not create new issue or we will close it as duplicate.
 | [HlamyoN49315576@twitter](https://twitter.com/HlamyoN49315576/status/1393081718538530817) | advertise |
 | [HlaSanOo5@twitter](https://twitter.com/HlaSanOo5/status/1391368000352182272) | advertise |
 | [HlaToe16@twitter](https://twitter.com/HlaToe16/status/1552244514386915328) | advertise |
+| [HlavaMala88@twitter](https://twitter.com/HlavaMala88/status/1588826496076242944) | advertise |
 | [HlaWaiOo1@twitter](https://twitter.com/HlaWaiOo1/status/1571198507754876928) | advertise |
 | [hle780830@twitter](https://twitter.com/hle780830/status/1484898497426227202) | advertise |
 | [HlwanMo80484072@twitter](https://twitter.com/HlwanMo80484072/status/1390191026443325441) | advertise |
@@ -4759,8 +4761,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5450,6 +5452,7 @@ Do not create new issue or we will close it as duplicate.
 | [LouisDang13@twitter](https://twitter.com/LouisDang13/status/1394819629336317955) | advertise |
 | [LouisNguyen307@twitter](https://twitter.com/LouisNguyen307/status/1496998018398056448) | advertise |
 | [louis_siu@twitter](https://twitter.com/louis_siu/status/1504838925868621832) | advertise |
+| [louled_sidha@twitter](https://twitter.com/louled_sidha/status/1588840326474928129) | advertise |
 | [LouLousDen@twitter](https://twitter.com/LouLousDen/status/1568728072572076033) | advertise |
 | [Love40519001@twitter](https://twitter.com/Love40519001/status/1393980142456754178) | advertise |
 | [LoveHun27992161@twitter](https://twitter.com/LoveHun27992161/status/1390758715708608513) | advertise |
