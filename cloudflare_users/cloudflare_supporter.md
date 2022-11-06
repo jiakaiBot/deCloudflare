@@ -188,6 +188,7 @@ Do not create new issue or we will close it as duplicate.
 | [abbas9iq3999@twitter](https://twitter.com/abbas9iq3999/status/1499537931542970370) | advertise |
 | [AbbasXxbb@twitter](https://twitter.com/AbbasXxbb/status/1564486907119165442) | advertise |
 | [AbbottIV@twitter](https://twitter.com/AbbottIV/status/1508273424300400642) | advertise |
+| [abc223nn@twitter](https://twitter.com/abc223nn/status/1589325513461731328) | advertise |
 | [abc2112pd@twitter](https://twitter.com/abc2112pd/status/1502652616492593154) | advertise |
 | [abc12361044955@twitter](https://twitter.com/abc12361044955/status/1551601353218490370) | advertise |
 | [Abcd83467881@twitter](https://twitter.com/Abcd83467881/status/1552000942668926977) | advertise |
@@ -3955,6 +3956,7 @@ Do not create new issue or we will close it as duplicate.
 | [iraghavan_ceo@twitter](https://twitter.com/iraghavan_ceo/status/1570090820996583424) | advertise |
 | [Iranjd@twitter](https://twitter.com/Iranjd/status/1448632216834224131) | advertise |
 | [iran_bozorg1984@twitter](https://twitter.com/iran_bozorg1984/status/1546779025003143169) | advertise |
+| [irawatPanyawong@twitter](https://twitter.com/irawatPanyawong/status/1589330472940994562) | advertise |
 | [iReviewPhones@twitter](https://twitter.com/iReviewPhones/status/1488332657469575171) | advertise |
 | [Irfan47682067@twitter](https://twitter.com/Irfan47682067/status/1585890980536156160) | advertise |
 | [Irfankh04933214@twitter](https://twitter.com/Irfankh04933214/status/1398707064839548929) | advertise |
@@ -5567,6 +5569,7 @@ Do not create new issue or we will close it as duplicate.
 | [lxoGAe65bqku3EE@twitter](https://twitter.com/lxoGAe65bqku3EE/status/1404383606592589832) | advertise |
 | [lXprEdg9GGBVa9C@twitter](https://twitter.com/lXprEdg9GGBVa9C/status/1391466180410449921) | advertise |
 | [Ly72496036@twitter](https://twitter.com/Ly72496036/status/1580623611903164416) | advertise |
+| [lyceum976@twitter](https://twitter.com/lyceum976/status/1589305531575209984) | advertise |
 | [Lyd37537266@twitter](https://twitter.com/Lyd37537266/status/1401480607310376964) | advertise |
 | [LyfemoreNews@twitter](https://twitter.com/LyfemoreNews/status/1457223435814383618) | advertise |
 | [lynk_nvulinh38@twitter](https://twitter.com/lynk_nvulinh38/status/1399004664025149440) | advertise |
