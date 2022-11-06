@@ -313,6 +313,7 @@ californiadepartmentofmotorvehicles.updatemyprofile.com
 da.ultra-as.com
 extranetslam.urops-prevention.fr
 lo-cust-api.u-appspecto.com
+lobby.umcu.org
 lp.unicred.com.br
 madagaskar.u-appspecto.com
 monitor.cs.uni-koeln.de
@@ -324,6 +325,7 @@ pay.uralairlines.ru
 public.cs.uni-koeln.de
 staging.userpeek.com
 store.usps.com
+tester23.uber.space
 thema.ufolep.org
 trans-proxy.uecard.ru
 uituwhand.nl
@@ -336,10 +338,12 @@ unitransservice.com
 uniusclaws.com
 unsuprisinghome.com
 unxinvest.com
+up.unum.pl
 uparjon.in
 upscan.cd
 urbansafety.ro
 urlynet.com
+userumah.com.br
 usvazine.net
 uta.engineering
 utilajeinchiriate.ro
@@ -347,6 +351,7 @@ www.billing.utu.systems
 www.budel-wheels.com.updates360.id
 www.direto.updatecardiovasculardotejo.pt
 www.facturation-app.unitra.ma
+www.mad.uscourts.gov
 www.secure.ultraahost.com
 www.staging.userpeek.com
 www.support.utu.systems
