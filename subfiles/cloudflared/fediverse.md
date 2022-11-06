@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,389 |
+| com | 3,390 |
 | net | 1,865 |
 | social | 1,437 |
 | org | 1,322 |
@@ -11729,6 +11729,7 @@ Here's a list of public Fediverse services.
 | `loser.cafe` | No |
 | `loser.space` | No |
 | `loser.wtf` | No |
+| `losfer.com` | No |
 | `losinski.de` | No |
 | `lost-angles.im` | No |
 | `lost-frequencies.eu` | Yes |
@@ -13999,6 +14000,7 @@ Here's a list of public Fediverse services.
 | `mylinux.cz` | No |
 | `mylittlenut.com` | Yes |
 | `myloko.xyz` | No |
+| `mymastodon.co` | Yes |
 | `mymastodon.host` | No |
 | `mymastodon.us` | No |
 | `mymeta.social` | No |
@@ -23829,8 +23831,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,834 |
-| Normal | 18,952 |
+| Cloudflare | 4,835 |
+| Normal | 18,953 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
