@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,399 |
 | net | 1,867 |
-| social | 1,441 |
+| social | 1,442 |
 | org | 1,324 |
 | de | 1,218 |
 
@@ -13018,6 +13018,7 @@ Here's a list of public Fediverse services.
 | `metawurst.space` | No |
 | `metaxx.dev` | No |
 | `metaxx.social` | Yes |
+| `metcha.me` | Yes |
 | `meteo.social` | No |
 | `meteor.ne.jp` | Yes |
 | `meteor1.de` | No |
@@ -14924,6 +14925,7 @@ Here's a list of public Fediverse services.
 | `notiz.blog` | No |
 | `notjoshua.fr` | No |
 | `notjustbikes.com` | Yes |
+| `notk.ai` | No |
 | `notlocked.in` | No |
 | `notmastodon.xyz` | No |
 | `notmyidea.org` | No |
@@ -20784,6 +20786,7 @@ Here's a list of public Fediverse services.
 | `theshrub.org` | No |
 | `thesifr.com` | No |
 | `thesimons.us` | No |
+| `thesix.life` | No |
 | `thesnakepostoffice.online` | No |
 | `thesocialnerd.online` | No |
 | `thesolarrepublic.org` | Yes |
@@ -21681,6 +21684,7 @@ Here's a list of public Fediverse services.
 | `tzi.fr` | No |
 | `tzim.net` | No |
 | `tzyl.nl` | No |
+| `u-tokyo.social` | No |
 | `u-v.de` | No |
 | `u0conveni.club` | No |
 | `u2.social` | Yes |
@@ -23867,8 +23871,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,843 |
-| Normal | 18,981 |
+| Cloudflare | 4,844 |
+| Normal | 18,984 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
