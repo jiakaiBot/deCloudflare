@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [feat: Cloudflare Workers Fetch adapter types should support env](https://github.com/trpc/trpc/issues/3127)
+- [cloudscraper module don't work anymore](https://github.com/999Samurai/predictions-scraper/issues/8)
 - [Problem with Filesystem on VM](https://github.com/home-assistant/operating-system/issues/2218)
 - [Root domain record won't update](https://github.com/va1entin/tools/issues/2)
 - [Authorization header not printed when using digest auth](https://github.com/httpie/httpie/issues/1447)
