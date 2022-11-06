@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,339 |
+| com | 3,341 |
 | net | 1,846 |
-| social | 1,404 |
-| org | 1,305 |
+| social | 1,405 |
+| org | 1,306 |
 | de | 1,206 |
 
 
@@ -1177,6 +1177,7 @@ Here's a list of public Fediverse services.
 | `anttirt.net` | No |
 | `anufrij.de` | No |
 | `anusapples.com` | No |
+| `anvil.social` | No |
 | `anwalt.pub` | No |
 | `any-key.press` | No |
 | `anyfrog.net` | Yes |
@@ -1909,6 +1910,7 @@ Here's a list of public Fediverse services.
 | `bbq.golf` | No |
 | `bbqmasters.life` | No |
 | `bc5.ca` | No |
+| `bcicorporate.com` | No |
 | `bckly.com` | Yes |
 | `bckr.me` | Yes |
 | `bcom.moe` | Yes |
@@ -3327,6 +3329,7 @@ Here's a list of public Fediverse services.
 | `chown.me` | No |
 | `chowwiwang.com` | No |
 | `chr0nix.xyz` | No |
+| `chrg.nl` | No |
 | `chri5.art` | No |
 | `chris-latza.de` | No |
 | `chris.blog` | No |
@@ -16829,6 +16832,7 @@ Here's a list of public Fediverse services.
 | `qianmianyao.cn` | No |
 | `qiitadon.com` | No |
 | `qip.wang` | No |
+| `qkjr.xyz` | No |
 | `qnmd.info` | No |
 | `qonfucius.social` | Yes |
 | `qoopoo.xyz` | No |
@@ -17687,6 +17691,7 @@ Here's a list of public Fediverse services.
 | `roteserver.de` | No |
 | `rotten.city` | No |
 | `rotten.network` | No |
+| `rouge.eu.org` | No |
 | `rougevertbleu.tv` | No |
 | `roughseas.xyz` | No |
 | `roundthemoon.com` | No |
@@ -19981,6 +19986,7 @@ Here's a list of public Fediverse services.
 | `talkr.online` | No |
 | `talks.social` | No |
 | `tallulah.fi` | No |
+| `tallwireless.com` | No |
 | `talos.link` | No |
 | `talosintelligence.com` | Yes |
 | `tama.ac.jp` | No |
@@ -20448,7 +20454,7 @@ Here's a list of public Fediverse services.
 | `themaymeow.com` | Yes |
 | `themazuma.net` | No |
 | `themcphails.uk` | No |
-| `themepark.social` | No |
+| `themepark.social` | Yes |
 | `themeparks.social` | No |
 | `themillerslive.com` | Yes |
 | `themimitoof.fr` | Yes |
@@ -23566,8 +23572,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,769 |
-| Normal | 18,754 |
+| Cloudflare | 4,770 |
+| Normal | 18,759 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
