@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,416 |
-| net | 1,876 |
-| social | 1,457 |
+| net | 1,877 |
+| social | 1,459 |
 | org | 1,330 |
 | de | 1,225 |
 
@@ -4084,6 +4084,7 @@ Here's a list of public Fediverse services.
 | `cryne.me` | Yes |
 | `crynet.one` | No |
 | `cryo.jp` | Yes |
+| `cryobyte.net` | Yes |
 | `cryoit.com` | Yes |
 | `crypt.ee` | Yes |
 | `crypt.lol` | No |
@@ -5950,6 +5951,7 @@ Here's a list of public Fediverse services.
 | `erotica.social` | Yes |
 | `erotube.fr` | No |
 | `erratasec.com` | No |
+| `erratic.cc` | Yes |
 | `error.im` | Yes |
 | `errormaker.net` | Yes |
 | `ersei.net` | Yes |
@@ -12008,6 +12010,7 @@ Here's a list of public Fediverse services.
 | `luzifer.io` | No |
 | `lv8.at` | Yes |
 | `lvds.co` | No |
+| `lviv.social` | No |
 | `lvmbdv.dev` | No |
 | `lvnsx.com` | Yes |
 | `lw1.at` | No |
@@ -18591,6 +18594,7 @@ Here's a list of public Fediverse services.
 | `sdz5.com` | No |
 | `se1.eu` | No |
 | `sea-moon.net` | No |
+| `sea.social` | No |
 | `seacow.social` | No |
 | `seafish.io` | Yes |
 | `seaflowers.xyz` | No |
@@ -20517,6 +20521,7 @@ Here's a list of public Fediverse services.
 | `techdrive.top` | No |
 | `techdux.com` | No |
 | `techeasy.org` | Yes |
+| `techentuzjasta.pl` | Yes |
 | `techfeed.io` | No |
 | `techfix.co.nz` | No |
 | `techforgood.social` | No |
@@ -23995,8 +24000,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,870 |
-| Normal | 19,082 |
+| Cloudflare | 4,873 |
+| Normal | 19,084 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
