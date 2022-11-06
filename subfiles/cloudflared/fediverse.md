@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,339 |
 | net | 1,846 |
-| social | 1,402 |
+| social | 1,403 |
 | org | 1,305 |
 | de | 1,206 |
 
@@ -846,6 +846,7 @@ Here's a list of public Fediverse services.
 | `allen.by` | Yes |
 | `alleycat.site` | Yes |
 | `allgamers.net` | Yes |
+| `allison.social` | No |
 | `allmendenetz.de` | No |
 | `allnutt.net` | No |
 | `allo.digital` | No |
@@ -1837,6 +1838,7 @@ Here's a list of public Fediverse services.
 | `barchet.eu` | No |
 | `barcollo.space` | No |
 | `bardiharborow.com` | No |
+| `bardown.space` | No |
 | `bareisyo.ml` | No |
 | `bari-ikutsu.com` | No |
 | `barippi.com` | No |
@@ -1930,6 +1932,7 @@ Here's a list of public Fediverse services.
 | `beardyunixer.com` | No |
 | `bearmulk.us` | No |
 | `bearologics.social` | No |
+| `bearveloper.dev` | No |
 | `bearvideo.win` | Yes |
 | `bearygoosey.com` | No |
 | `beastnet.works` | No |
@@ -6154,6 +6157,7 @@ Here's a list of public Fediverse services.
 | `farthinghalearms.com` | No |
 | `fartmail.me` | No |
 | `farts.club` | Yes |
+| `farwalker.ca` | No |
 | `fasil.cloud` | No |
 | `fast-email.link` | Yes |
 | `fastdon.com` | No |
@@ -7912,6 +7916,7 @@ Here's a list of public Fediverse services.
 | `grupli.ga` | No |
 | `grupli.org` | No |
 | `grurple.org` | No |
+| `gry.st` | No |
 | `gsalucci.dev` | No |
 | `gshift.cf` | No |
 | `gskapp.live` | No |
@@ -23561,7 +23566,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,769 |
-| Normal | 18,748 |
+| Normal | 18,753 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
