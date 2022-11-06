@@ -81,6 +81,7 @@ Here's a list of public Matrix services.
 | matrix.llamarific.social | No |
 | lugnsk.org | No |
 | chat.magdeburg.jetzt | No |
+| mailstation.de | No |
 | mandragot.org | No |
 | matrix.im | No |
 | matrix.org | Yes |
@@ -130,7 +131,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 18 |
-| Normal | 84 |
+| Normal | 85 |
 
 
-### 17.6% of public Matrix services are using Cloudflare.
+### 17.5% of public Matrix services are using Cloudflare.
