@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,398 |
+| com | 3,399 |
 | net | 1,867 |
 | social | 1,441 |
 | org | 1,324 |
@@ -2933,6 +2933,7 @@ Here's a list of public Fediverse services.
 | `caliandroid.de` | No |
 | `calico.social` | No |
 | `calidris.lv` | No |
+| `californialocal.com` | No |
 | `calmarius.net` | No |
 | `calobar.club` | No |
 | `calut.fr` | No |
@@ -23867,7 +23868,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,843 |
-| Normal | 18,980 |
+| Normal | 18,981 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
