@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,341 |
+| com | 3,342 |
 | net | 1,846 |
 | social | 1,405 |
-| org | 1,306 |
-| de | 1,206 |
+| org | 1,307 |
+| de | 1,207 |
 
 
 - Mastodon, Pleroma, etc
@@ -3418,6 +3418,7 @@ Here's a list of public Fediverse services.
 | `city-of-glass.net` | No |
 | `city17.online` | No |
 | `cityfellas.com` | Yes |
+| `cityofchicago.live` | No |
 | `cityrun.in` | No |
 | `civilposter.club` | No |
 | `civiq.social` | Yes |
@@ -4127,7 +4128,7 @@ Here's a list of public Fediverse services.
 | `cute2d.moe` | Yes |
 | `cute2d.website` | No |
 | `cute2d.xyz` | No |
-| `cutebook.club` | Yes |
+| `cutebook.club` | No |
 | `cutelab.space` | Yes |
 | `cuteposting.institute` | Yes |
 | `cutest.monster` | No |
@@ -6396,6 +6397,7 @@ Here's a list of public Fediverse services.
 | `fenarinarsa.com` | No |
 | `fenda.win` | No |
 | `feneas.org` | No |
+| `fenetre.dev` | No |
 | `fengan.ga` | No |
 | `fenix.cafe` | No |
 | `fenk.org` | No |
@@ -6696,6 +6698,7 @@ Here's a list of public Fediverse services.
 | `fortresshill.club` | No |
 | `fortressofdoom.me` | Yes |
 | `forty-two.nl` | No |
+| `fortyoz.org` | Yes |
 | `forum-lucifer.com` | No |
 | `forumanalogue.fr` | No |
 | `forza7.jp` | No |
@@ -7233,6 +7236,7 @@ Here's a list of public Fediverse services.
 | `gamedev.lgbt` | No |
 | `gamedev.place` | No |
 | `gamedevpals.com` | No |
+| `gamedevsocial.uk` | No |
 | `gameing.zone` | No |
 | `gamejam.site` | No |
 | `gameliberty.club` | No |
@@ -10565,6 +10569,7 @@ Here's a list of public Fediverse services.
 | `kootstra.frl` | No |
 | `kopfkino.social` | No |
 | `kopfstim.me` | No |
+| `kopier.ninja` | Yes |
 | `kopiti.am` | Yes |
 | `koppermann-itk.de` | No |
 | `korako.me` | Yes |
@@ -17430,6 +17435,7 @@ Here's a list of public Fediverse services.
 | `retrospring.net` | Yes |
 | `retrostrange.com` | No |
 | `retrotroet.com` | No |
+| `retrotweets.com` | No |
 | `rettiwtkcuf.social` | No |
 | `reun.de` | No |
 | `reuters.com` | Yes |
@@ -22383,6 +22389,7 @@ Here's a list of public Fediverse services.
 | `welsea.site` | Yes |
 | `welsea.xyz` | No |
 | `wem.st` | No |
+| `wenzit.de` | No |
 | `wenzlik.net` | Yes |
 | `wenzlik.social` | Yes |
 | `weow.pw` | No |
@@ -23572,8 +23579,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,770 |
-| Normal | 18,759 |
+| Cloudflare | 4,771 |
+| Normal | 18,765 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
