@@ -1759,6 +1759,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chittu30046511@twitter](https://twitter.com/Chittu30046511/status/1390674946443988996) | advertise |
 | [ChitWinKo17@twitter](https://twitter.com/ChitWinKo17/status/1403612539221471233) | advertise |
 | [chiwebmgmt@twitter](https://twitter.com/chiwebmgmt/status/1427620579910299663) | advertise |
+| [ChL44012675@twitter](https://twitter.com/ChL44012675/status/1589066186817703937) | advertise |
 | [ChM60546312@twitter](https://twitter.com/ChM60546312/status/1549730395188793344) | advertise |
 | [chngkh74791784@twitter](https://twitter.com/chngkh74791784/status/1523712853387005952) | advertise |
 | [chock100@twitter](https://twitter.com/chock100/status/1568707047956561921) | advertise |
@@ -1897,8 +1898,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -5843,6 +5844,7 @@ Do not create new issue or we will close it as duplicate.
 | [MdNazmu41129198@twitter](https://twitter.com/MdNazmu41129198/status/1385844121915379712) | advertise |
 | [MDng56112137@twitter](https://twitter.com/MDng56112137/status/1396680258359754755) | advertise |
 | [MdOmarF63620186@twitter](https://twitter.com/MdOmarF63620186/status/1484456292450066432) | advertise |
+| [MDParva03225519@twitter](https://twitter.com/MDParva03225519/status/1589073732014051328) | advertise |
 | [MdRahim25257221@twitter](https://twitter.com/MdRahim25257221/status/1518175550963347456) | advertise |
 | [MdRizwa55314105@twitter](https://twitter.com/MdRizwa55314105/status/1399181640945991680) | advertise |
 | [MdRubel86724101@twitter](https://twitter.com/MdRubel86724101/status/1558687429351309312) | advertise |
