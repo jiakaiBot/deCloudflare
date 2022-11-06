@@ -1849,6 +1849,7 @@ Do not create new issue or we will close it as duplicate.
 | [codfish246@twitter](https://twitter.com/codfish246/status/1555424438602047488) | advertise |
 | [Codingprotocols@twitter](https://twitter.com/Codingprotocols/status/1561244906060156929) | advertise |
 | [codysaylor@twitter](https://twitter.com/codysaylor/status/1392677823454879756) | advertise |
+| [CohenTrik@twitter](https://twitter.com/CohenTrik/status/1589273077829242880) | advertise |
 | [CoinDescount@twitter](https://twitter.com/CoinDescount/status/1453401719711350791) | advertise |
 | [CoiPhuocHiep@twitter](https://twitter.com/CoiPhuocHiep/status/1389075825308409857) | advertise |
 | [cojurmyface@twitter](https://twitter.com/cojurmyface/status/1402883595283304450) | advertise |
@@ -3122,6 +3123,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hai18099052@twitter](https://twitter.com/Hai18099052/status/1588621808932356096) | advertise |
 | [haiche1410@twitter](https://twitter.com/haiche1410/status/1571199251291729921) | advertise |
 | [HaiChen1708@twitter](https://twitter.com/HaiChen1708/status/1566482660712914944) | advertise |
+| [haii_trn@twitter](https://twitter.com/haii_trn/status/1589186363131559937) | advertise |
 | [haikala86043665@twitter](https://twitter.com/haikala86043665/status/1553275985013121024) | advertise |
 | [HailBytes@twitter](https://twitter.com/HailBytes/status/1468726952139886604) | advertise |
 | [haimom1999@twitter](https://twitter.com/haimom1999/status/1553758284888539138) | advertise |
