@@ -11113,6 +11113,7 @@ Here's a list of public Fediverse services.
 | `lavraievie.social` | No |
 | `law.builders` | No |
 | `lawfam.cloud` | No |
+| `lawfedi.blue` | No |
 | `lawngno.me` | No |
 | `lawrence.sh` | Yes |
 | `lawtalk.social` | No |
@@ -23935,7 +23936,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,854 |
-| Normal | 19,037 |
+| Normal | 19,038 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
