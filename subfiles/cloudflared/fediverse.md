@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,404 |
-| net | 1,869 |
+| com | 3,406 |
+| net | 1,870 |
 | social | 1,446 |
 | org | 1,326 |
-| de | 1,221 |
+| de | 1,222 |
 
 
 - Mastodon, Pleroma, etc
@@ -2482,6 +2482,7 @@ Here's a list of public Fediverse services.
 | `bocchi.social` | No |
 | `bocchi.tokyo` | No |
 | `bocholt.social` | No |
+| `bocode.de` | Yes |
 | `boddez.net` | Yes |
 | `body.social` | No |
 | `bodybuilding.im` | No |
@@ -15950,6 +15951,7 @@ Here's a list of public Fediverse services.
 | `paxanimi.club` | No |
 | `paxation.info` | No |
 | `paxriel.art` | No |
+| `payfrit.com` | No |
 | `paymentbanking.eu` | No |
 | `paypig.org` | Yes |
 | `pbar.xyz` | No |
@@ -18319,6 +18321,7 @@ Here's a list of public Fediverse services.
 | `savemy.name` | No |
 | `savga.social` | No |
 | `savikin.me` | Yes |
+| `savvas.cloud` | Yes |
 | `savvy.ch` | No |
 | `sawa.chat` | No |
 | `sawakai.space` | No |
@@ -18978,6 +18981,7 @@ Here's a list of public Fediverse services.
 | `simulacron.de` | No |
 | `sina.moe` | No |
 | `sinblr.com` | No |
+| `sincurity.com` | No |
 | `sindicato.social` | No |
 | `sindominio.net` | No |
 | `singee.site` | Yes |
@@ -19091,6 +19095,7 @@ Here's a list of public Fediverse services.
 | `skyliu.me` | Yes |
 | `skymocha.net` | Yes |
 | `skyn3t.in` | No |
+| `skynate.net` | Yes |
 | `skynet.social` | No |
 | `skyshanty.xyz` | No |
 | `skyue.com` | No |
@@ -23910,8 +23915,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,847 |
-| Normal | 19,020 |
+| Cloudflare | 4,850 |
+| Normal | 19,022 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
