@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,343 |
+| com | 3,344 |
 | net | 1,846 |
 | social | 1,407 |
 | org | 1,308 |
@@ -1049,6 +1049,7 @@ Here's a list of public Fediverse services.
 | `anduin.net` | No |
 | `andy-bell.com` | Yes |
 | `andz.me` | No |
+| `anemoneya.me` | No |
 | `anfora.social` | Yes |
 | `anfora.xyz` | Yes |
 | `angezeckt.de` | No |
@@ -16592,6 +16593,7 @@ Here's a list of public Fediverse services.
 | `prieb.social` | No |
 | `primatemind.info` | No |
 | `primeos.dev` | No |
+| `primitivebits.com` | No |
 | `primordial-library.gq` | No |
 | `primus.buzz` | No |
 | `princesa.company` | Yes |
@@ -23587,7 +23589,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,774 |
-| Normal | 18,769 |
+| Normal | 18,771 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
