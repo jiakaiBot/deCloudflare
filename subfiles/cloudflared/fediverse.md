@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,339 |
 | net | 1,846 |
-| social | 1,403 |
+| social | 1,404 |
 | org | 1,305 |
 | de | 1,206 |
 
@@ -10604,6 +10604,7 @@ Here's a list of public Fediverse services.
 | `kousokujin.com` | No |
 | `koutakou.pm` | No |
 | `kovah.de` | Yes |
+| `kowelenz.social` | No |
 | `kowlo.com` | No |
 | `koyu.space` | Yes |
 | `koyuston.tk` | No |
@@ -23566,7 +23567,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,769 |
-| Normal | 18,753 |
+| Normal | 18,754 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
