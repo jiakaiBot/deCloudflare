@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,419 |
 | net | 1,879 |
-| social | 1,463 |
+| social | 1,464 |
 | org | 1,332 |
 | de | 1,225 |
 
@@ -2861,6 +2861,7 @@ Here's a list of public Fediverse services.
 | `busybit.at` | No |
 | `buta.moe` | Yes |
 | `butash.net` | No |
+| `butt.dev` | Yes |
 | `butt.fan` | Yes |
 | `butterknifeestates.com` | No |
 | `buttonhost.net` | No |
@@ -6525,6 +6526,7 @@ Here's a list of public Fediverse services.
 | `femboy.capital` | No |
 | `femboy.city` | No |
 | `femboy.world` | Yes |
+| `femby.club` | No |
 | `feminism.lgbt` | No |
 | `femme.energy` | No |
 | `fenarinarsa.com` | No |
@@ -13413,6 +13415,7 @@ Here's a list of public Fediverse services.
 | `mist.so` | No |
 | `mistelske.com` | No |
 | `misterbanal.net` | No |
+| `misterfpga.social` | No |
 | `mistermi.me` | No |
 | `mistli.net` | No |
 | `mistodon.cloud` | No |
@@ -24022,8 +24025,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,880 |
-| Normal | 19,099 |
+| Cloudflare | 4,881 |
+| Normal | 19,101 |
 
 
 ### 20.4% of public Fediverse services are using Cloudflare.
