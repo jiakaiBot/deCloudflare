@@ -1821,6 +1821,7 @@ Or is this merely a case of simple modesty?
 | Yingchen Wang | Employee | |
 | Yin Yue | Employee |  |
 | Young Park | Employee |  |
+| Jacob Bednarz | Systems Engineer | https://jacobbednarz.com/ |
 | Yuchen Wu | Systems Engineer | yuchenw@cs.cmu.edu<br>5000 Forbes Ave, Pittsburgh, USA, 15213 |
 | Yuet Wai | Employee |  |
 | Yunfei Luo Adam | Channel Account Manager |  |
