@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Security check preventing sandboxes from running - CORS errors aplenty and some 503s](https://github.com/codesandbox/codesandbox-client/issues/7113)
 - [container behind cloudflare tunnel](https://github.com/Nico640/docker-unms/issues/78)
 - [feat: Cloudflare Workers Fetch adapter types should support env](https://github.com/trpc/trpc/issues/3127)
 - [cloudscraper module don't work anymore](https://github.com/999Samurai/predictions-scraper/issues/8)
