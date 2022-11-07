@@ -9421,6 +9421,7 @@ Do not create new issue or we will close it as duplicate.
 | [Theone78028212@twitter](https://twitter.com/Theone78028212/status/1565905872605396992) | advertise |
 | [Theophiluskala2@twitter](https://twitter.com/Theophiluskala2/status/1556089433170083851) | advertise |
 | [Thepeac18406311@twitter](https://twitter.com/Thepeac18406311/status/1391305173528682496) | advertise |
+| [theprincei@twitter](https://twitter.com/theprincei/status/1589631018654650369) | advertise |
 | [theprincessxena@twitter](https://twitter.com/theprincessxena/status/1382886673055416325) | advertise |
 | [therealgeorge@twitter](https://twitter.com/therealgeorge/status/1399077136720334851) | advertise |
 | [therealjokerk@twitter](https://twitter.com/therealjokerk/status/1446952055176892416) | advertise |
