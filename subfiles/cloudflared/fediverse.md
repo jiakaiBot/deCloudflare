@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,416 |
-| net | 1,877 |
-| social | 1,459 |
+| com | 3,417 |
+| net | 1,879 |
+| social | 1,460 |
 | org | 1,330 |
 | de | 1,225 |
 
@@ -505,6 +505,7 @@ Here's a list of public Fediverse services.
 | `absturztau.be` | No |
 | `abtgender.com` | No |
 | `abunchtell.com` | No |
+| `abwesend.com` | No |
 | `abyss.fun` | Yes |
 | `abyss.observer` | No |
 | `abyssfriend.club` | No |
@@ -2869,6 +2870,7 @@ Here's a list of public Fediverse services.
 | `buzzworkers.com` | No |
 | `bw-toot.de` | No |
 | `bwnet.it` | No |
+| `bx23.net` | Yes |
 | `bxl.social` | No |
 | `byebye.party` | Yes |
 | `byemc.live` | No |
@@ -11069,7 +11071,7 @@ Here's a list of public Fediverse services.
 | `lambton.social` | No |
 | `lamesnie.eu` | No |
 | `lamp.institute` | Yes |
-| `lamp.wtf` | Yes |
+| `lamp.wtf` | No |
 | `lanandmedia.org` | No |
 | `lancaster.ac.uk` | No |
 | `lancasterpa.social` | No |
@@ -12434,6 +12436,7 @@ Here's a list of public Fediverse services.
 | `mastnode.faith` | No |
 | `masto-fs.de` | No |
 | `masto-sport.us` | No |
+| `masto.ai` | Yes |
 | `masto.bar` | No |
 | `masto.beer` | No |
 | `masto.cafe` | No |
@@ -18936,6 +18939,7 @@ Here's a list of public Fediverse services.
 | `shootjackdorseyinto.space` | No |
 | `shorage.de` | No |
 | `shork.space` | No |
+| `shorkpit.xyz` | Yes |
 | `shortbus.fail` | No |
 | `shortens.net` | No |
 | `shortnote.jp` | No |
@@ -19933,6 +19937,7 @@ Here's a list of public Fediverse services.
 | `strasza.net` | Yes |
 | `stratinator.com` | Yes |
 | `stratonauts.co` | Yes |
+| `strausmann.net` | Yes |
 | `streamer.cafe` | No |
 | `streamer.place` | Yes |
 | `streamers.social` | Yes |
@@ -20304,6 +20309,7 @@ Here's a list of public Fediverse services.
 | `tail.dance` | No |
 | `tailburst.me` | No |
 | `tailma.ws` | No |
+| `tailsproject.co` | No |
 | `tailswish.industries` | No |
 | `tainton.uk` | Yes |
 | `taiwan.wtf` | Yes |
@@ -22677,6 +22683,7 @@ Here's a list of public Fediverse services.
 | `warrows.fr` | No |
 | `warsow-online.de` | No |
 | `warubure.online` | No |
+| `wasatchfront.social` | No |
 | `waseda.ac.jp` | Yes |
 | `waseigo.com` | No |
 | `washingtonbeach.online` | No |
@@ -24000,8 +24007,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,873 |
-| Normal | 19,084 |
+| Cloudflare | 4,876 |
+| Normal | 19,088 |
 
 
 ### 20.3% of public Fediverse services are using Cloudflare.
