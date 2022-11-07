@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,470 |
-| net | 1,905 |
-| social | 1,504 |
+| com | 3,472 |
+| net | 1,907 |
+| social | 1,507 |
 | org | 1,343 |
 | de | 1,237 |
 
@@ -895,6 +895,7 @@ Here's a list of public Fediverse services.
 | `allymukai.com` | No |
 | `almonds.gq` | No |
 | `alnair.blue` | No |
+| `alochana.net` | No |
 | `alohaloa.com` | No |
 | `alolise.org` | No |
 | `alonecomplex.xyz` | Yes |
@@ -1270,6 +1271,7 @@ Here's a list of public Fediverse services.
 | `apotheke.social` | No |
 | `app-base.net` | No |
 | `appalachian.town` | No |
+| `appbucket.io` | No |
 | `appcivico.com` | Yes |
 | `appdon.promo` | No |
 | `appdot.net` | No |
@@ -3527,6 +3529,7 @@ Here's a list of public Fediverse services.
 | `circletocqueville.no` | No |
 | `circuitlocution.com` | No |
 | `circumception.com` | No |
+| `circumstances.run` | No |
 | `circus.town` | No |
 | `cirkau.art` | No |
 | `cirno.digital` | No |
@@ -3954,6 +3957,7 @@ Here's a list of public Fediverse services.
 | `cooplibretec.com` | No |
 | `cooponscitech.in` | No |
 | `coord-e.dev` | Yes |
+| `coq.social` | No |
 | `coqui.social` | No |
 | `cordelya.net` | Yes |
 | `corebreach.com` | No |
@@ -4048,6 +4052,7 @@ Here's a list of public Fediverse services.
 | `crandol.com` | No |
 | `crap.today` | No |
 | `crapaud-fou.org` | Yes |
+| `crashloop.social` | No |
 | `crashmail.de` | No |
 | `crashspace.org` | No |
 | `crashtodon.net` | No |
@@ -5205,6 +5210,7 @@ Here's a list of public Fediverse services.
 | `doenietzomoeilijk.nl` | No |
 | `does.social` | No |
 | `doesnotexist.club` | No |
+| `doesthings.online` | Yes |
 | `doetnix.nl` | No |
 | `dog-s.global` | No |
 | `dog.estate` | No |
@@ -7838,6 +7844,7 @@ Here's a list of public Fediverse services.
 | `givelotus.life` | No |
 | `gjcloak.top` | No |
 | `gjcloak.xyz` | No |
+| `gjdwebserver.nl` | No |
 | `gjhr.fr` | No |
 | `gjpower.me` | No |
 | `gl-como.it` | No |
@@ -8208,6 +8215,7 @@ Here's a list of public Fediverse services.
 | `grurple.org` | No |
 | `gry.st` | No |
 | `gsalucci.dev` | No |
+| `gsg.live` | No |
 | `gshift.cf` | No |
 | `gskapp.live` | No |
 | `gspirate.club` | Yes |
@@ -10241,6 +10249,7 @@ Here's a list of public Fediverse services.
 | `julien.ovh` | No |
 | `julika.jp` | No |
 | `juliusbregenzer.de` | No |
+| `juliusgamanyi.com` | No |
 | `jumanji.co` | No |
 | `jumogoh.de` | No |
 | `jumpgate.us` | No |
@@ -11792,6 +11801,7 @@ Here's a list of public Fediverse services.
 | `litrat.xyz` | No |
 | `litterae.social` | No |
 | `little-girl-float.in` | Yes |
+| `littlebonsai.co.uk` | No |
 | `littlecommunity.de` | No |
 | `littlecritter.space` | Yes |
 | `littlefluffycloud.net` | No |
@@ -12634,6 +12644,7 @@ Here's a list of public Fediverse services.
 | `masto.ml` | No |
 | `masto.ninja` | No |
 | `masto.one` | Yes |
+| `masto.plus` | No |
 | `masto.pt` | Yes |
 | `masto.rocks` | No |
 | `masto.se` | Yes |
@@ -17939,6 +17950,7 @@ Here's a list of public Fediverse services.
 | `renewtube.org` | No |
 | `renken.is` | No |
 | `rennerocha.com` | Yes |
+| `repc.co` | Yes |
 | `repl.co` | Yes |
 | `replik.xyz` | No |
 | `repomaa.com` | No |
@@ -18232,6 +18244,7 @@ Here's a list of public Fediverse services.
 | `ronbronson.com` | No |
 | `rondoalive.xyz` | Yes |
 | `ronetcloud.com` | No |
+| `ronguest.net` | No |
 | `rongyi.io` | Yes |
 | `ronin.world` | No |
 | `roobre.es` | No |
@@ -22257,6 +22270,7 @@ Here's a list of public Fediverse services.
 | `uncorking.me` | Yes |
 | `uncreated.net` | No |
 | `uncrtn.com` | No |
+| `undarkpixel.com` | No |
 | `undbeidirso.de` | No |
 | `undead.fr` | No |
 | `undead.link` | No |
@@ -22269,6 +22283,7 @@ Here's a list of public Fediverse services.
 | `underground-side-kochira-kotonoha.xyz` | No |
 | `undergrowth-feed.net` | No |
 | `undernet.uy` | No |
+| `undernopretext.social` | No |
 | `undersco.re` | No |
 | `underscore.world` | No |
 | `underworld.fr` | No |
@@ -22988,6 +23003,7 @@ Here's a list of public Fediverse services.
 | `wandering.one` | No |
 | `wandering.shop` | No |
 | `wandzeitung.xyz` | No |
+| `wang.nz` | Yes |
 | `wangdahoo.space` | No |
 | `wangofett.com` | No |
 | `wants.coffee` | No |
@@ -24356,8 +24372,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,974 |
-| Normal | 19,339 |
+| Cloudflare | 4,977 |
+| Normal | 19,352 |
 
 
 ### 20.5% of public Fediverse services are using Cloudflare.
