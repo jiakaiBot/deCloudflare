@@ -135,8 +135,10 @@ zh.yuidiscordbot.xyz
 aepsrupayuat.yesbank.in
 alacon-nex-ion.go.yj.fr
 applycc.yesbank.in
+argocd-inl.yjtech.tw
 b95.yahoo.co.jp
 backoffice.yape.com.pe
+beta.yogacentre.com
 blog.yannakas.me
 cert.backoffice.yape.com.pe
 global.yuanta.com.tw
@@ -144,9 +146,11 @@ kyiv.yasno.com.ua
 lojista.yupdelivery.com.br
 map.yahooapis.jp
 mobile.yoursrp.net
+python-github-calendar-api.yylemon.top
 s.youtube.com
 secure-dinamica.go.yj.fr
 support.yourcreativepeople.com
+www.amazon.y4lkwb.shop
 www.d4vipl4tausuario.chile.go.yo.fr
 www.davip4atatencionclient3.redirext.go.yj.fr
 www.gouvernement-borderlife.go.yj.fr
@@ -157,6 +161,7 @@ www.yourfuturecredit.com
 yabaidelinquency.com
 yayanadriano.web.id
 ybx-test.yahoo.co.jp
+yobamoodua.org
 yolonitro.com
 yourfuturecredit.com
 youronlinecircle.com
