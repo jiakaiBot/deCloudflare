@@ -14394,6 +14394,7 @@ Here's a list of public Fediverse services.
 | `namknat.win` | No |
 | `namok.be` | No |
 | `namtari.com` | Yes |
+| `namwen.me` | No |
 | `nana.sh` | No |
 | `nanaaki.com` | No |
 | `nanamachi.net` | No |
@@ -24287,7 +24288,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,947 |
-| Normal | 19,296 |
+| Normal | 19,297 |
 
 
 ### 20.4% of public Fediverse services are using Cloudflare.
