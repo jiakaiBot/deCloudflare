@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [okx fetch_positions broken when passing in a symbol](https://github.com/ccxt/ccxt/issues/15589)
 - [Temporary service degradation on bots.reinhart1010.id](https://github.com/alterine0101/roothouse-status/issues/1325)
 - [breakfix: local storage not working?](https://github.com/greenpau/caddy-security/issues/184)
 - [CloudFlare Network Performance Issues](https://github.com/MatBenfield/news/issues/5383)
