@@ -3898,6 +3898,7 @@ Here's a list of public Fediverse services.
 | `connyduck.com` | No |
 | `conoha.cf` | No |
 | `conquerworld.fr` | No |
+| `conrad.cafe` | Yes |
 | `conradkramer.com` | No |
 | `conscious-connection.de` | No |
 | `consequenceofsound.net` | No |
@@ -6930,6 +6931,7 @@ Here's a list of public Fediverse services.
 | `forgetthis.site` | Yes |
 | `foritso.com` | Yes |
 | `fork.sh` | No |
+| `forked.io` | Yes |
 | `forourselves.com` | Yes |
 | `forrum.ro` | No |
 | `forsakenhorizon.com` | No |
@@ -24354,7 +24356,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,972 |
+| Cloudflare | 4,974 |
 | Normal | 19,339 |
 
 
