@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,480 |
-| net | 1,909 |
+| com | 3,481 |
+| net | 1,910 |
 | social | 1,511 |
 | org | 1,344 |
 | de | 1,239 |
@@ -3611,6 +3611,7 @@ Here's a list of public Fediverse services.
 | `cliq.social` | No |
 | `clique.vip` | No |
 | `cliterati.club` | Yes |
+| `cllctv.net` | No |
 | `cloa.app` | No |
 | `clodo.it` | No |
 | `clodostr.at` | No |
@@ -20265,6 +20266,7 @@ Here's a list of public Fediverse services.
 | `storyseedvault.com` | No |
 | `stoyko.space` | No |
 | `stp.cx` | No |
+| `str4.com` | No |
 | `stracknet.com` | No |
 | `straight-edge.net` | No |
 | `straight.coffee` | No |
@@ -24416,7 +24418,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 4,993 |
-| Normal | 19,379 |
+| Normal | 19,381 |
 
 
 ### 20.5% of public Fediverse services are using Cloudflare.
