@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Temporary service degradation on bots.reinhart1010.id](https://github.com/alterine0101/roothouse-status/issues/1325)
 - [breakfix: local storage not working?](https://github.com/greenpau/caddy-security/issues/184)
 - [CloudFlare Network Performance Issues](https://github.com/MatBenfield/news/issues/5383)
 - [Security check preventing sandboxes from running - CORS errors aplenty and some 503s](https://github.com/codesandbox/codesandbox-client/issues/7113)
