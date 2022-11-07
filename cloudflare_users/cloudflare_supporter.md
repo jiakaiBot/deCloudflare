@@ -3081,6 +3081,7 @@ Do not create new issue or we will close it as duplicate.
 | [gurbhejs93@twitter](https://twitter.com/gurbhejs93/status/1394584988624953352) | advertise |
 | [gurkanincegul@twitter](https://twitter.com/gurkanincegul/status/1488674232561192963) | advertise |
 | [GuruDhirendra@twitter](https://twitter.com/GuruDhirendra/status/1385626941328302080) | advertise |
+| [gurulloyd@twitter](https://twitter.com/gurulloyd/status/1589645201991434240) | advertise |
 | [Gusion39030259@twitter](https://twitter.com/Gusion39030259/status/1390246534101438472) | advertise |
 | [gutyuk@twitter](https://twitter.com/gutyuk/status/1379825750707146758) | advertise |
 | [Guy54327691@twitter](https://twitter.com/Guy54327691/status/1393410122550943747) | advertise |
