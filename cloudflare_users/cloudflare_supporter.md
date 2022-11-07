@@ -5754,6 +5754,7 @@ Do not create new issue or we will close it as duplicate.
 | [Master14352302@twitter](https://twitter.com/Master14352302/status/1392063606175510528) | advertise |
 | [MasterBo20@twitter](https://twitter.com/MasterBo20/status/1392353718700367872) | advertise |
 | [MasterEtherium@twitter](https://twitter.com/MasterEtherium/status/1419236169095778308) | advertise |
+| [MasterGoatCurry@twitter](https://twitter.com/MasterGoatCurry/status/1589614190725324800) | advertise |
 | [MasterHindiGam1@twitter](https://twitter.com/MasterHindiGam1/status/1401113992349716485) | advertise |
 | [MasterHtun@twitter](https://twitter.com/MasterHtun/status/1395059448788373505) | advertise |
 | [MasterSpackle@twitter](https://twitter.com/MasterSpackle/status/1387213742241468419) | advertise |
@@ -8956,6 +8957,7 @@ Do not create new issue or we will close it as duplicate.
 | [stepanic@twitter](https://twitter.com/stepanic/status/1450021187392843776) | advertise |
 | [stephaniedola02@twitter](https://twitter.com/stephaniedola02/status/1556250332258127872) | advertise |
 | [stephanosverent@twitter](https://twitter.com/stephanosverent/status/1412531696264781824) | moral (advertise) |
+| [StephenCj10@twitter](https://twitter.com/StephenCj10/status/1589602635719770113) | advertise |
 | [stephen_talla@twitter](https://twitter.com/stephen_talla/status/1392849291710849035) | advertise |
 | [Steve13279142@twitter](https://twitter.com/Steve13279142/status/1387094740437377025) | advertise |
 | [stevebrain_dev@twitter](https://twitter.com/stevebrain_dev/status/1553396113570504706) | advertise |
