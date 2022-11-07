@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,419 |
 | net | 1,879 |
-| social | 1,460 |
+| social | 1,461 |
 | org | 1,331 |
 | de | 1,225 |
 
@@ -3602,7 +3602,7 @@ Here's a list of public Fediverse services.
 | `club-house.work` | No |
 | `clubalpindouai.fr` | Yes |
 | `clubb.cymru` | No |
-| `clubclubclub.club` | Yes |
+| `clubclubclub.club` | No |
 | `clubcyberia.co` | No |
 | `clube.social` | Yes |
 | `clubhouse2.net` | Yes |
@@ -4102,6 +4102,7 @@ Here's a list of public Fediverse services.
 | `crypto.church` | No |
 | `cryptoanarchy.rocks` | No |
 | `cryptocartel.social` | No |
+| `cryptodon.lol` | No |
 | `cryptodon.tokyo` | No |
 | `cryptodont.io` | No |
 | `cryptography.dog` | No |
@@ -15585,6 +15586,7 @@ Here's a list of public Fediverse services.
 | `orc.zone` | No |
 | `orcaphant.cool` | No |
 | `orctavern.pub` | No |
+| `ordeawing.fr` | No |
 | `order-order.com` | No |
 | `order.life` | No |
 | `ordim.info` | No |
@@ -16888,6 +16890,7 @@ Here's a list of public Fediverse services.
 | `primatemind.info` | No |
 | `primeos.dev` | No |
 | `primitivebits.com` | No |
+| `primitivebits.social` | No |
 | `primordial-library.gq` | No |
 | `primus.buzz` | No |
 | `princesa.company` | Yes |
@@ -21734,6 +21737,7 @@ Here's a list of public Fediverse services.
 | `twc-zone.eu` | No |
 | `tweb.tv` | No |
 | `twee.moe` | No |
+| `tweep.club` | No |
 | `tweep.uk` | Yes |
 | `tweeps.link` | No |
 | `tweetfleet.social` | No |
@@ -24015,8 +24019,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,879 |
-| Normal | 19,093 |
+| Cloudflare | 4,878 |
+| Normal | 19,098 |
 
 
-### 20.4% of public Fediverse services are using Cloudflare.
+### 20.3% of public Fediverse services are using Cloudflare.
