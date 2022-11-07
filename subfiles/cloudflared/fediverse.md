@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,417 |
+| com | 3,419 |
 | net | 1,879 |
 | social | 1,460 |
-| org | 1,330 |
+| org | 1,331 |
 | de | 1,225 |
 
 
@@ -2184,7 +2184,7 @@ Here's a list of public Fediverse services.
 | `bigheart.tech` | No |
 | `biglittle.space` | No |
 | `bignum.org` | No |
-| `bigowo.digital` | Yes |
+| `bigowo.digital` | No |
 | `bigpandatech.com` | No |
 | `bigpenis.life` | No |
 | `bigshoulders.city` | No |
@@ -3271,6 +3271,7 @@ Here's a list of public Fediverse services.
 | `chaselau.me` | No |
 | `chasoba.net` | Yes |
 | `chat-laden.net` | No |
+| `chat-node.uk` | Yes |
 | `chatalk.club` | No |
 | `chatamerica.us` | No |
 | `chatan.cc` | Yes |
@@ -4594,6 +4595,7 @@ Here's a list of public Fediverse services.
 | `dbatley.com` | No |
 | `dbieber.de` | No |
 | `dbonnet.ovh` | No |
+| `dbot.dev` | Yes |
 | `dbuild.xyz` | No |
 | `dbzer0.com` | No |
 | `dc2298.org` | No |
@@ -8001,6 +8003,7 @@ Here's a list of public Fediverse services.
 | `greenlife.li` | No |
 | `greenlifeplus.net` | No |
 | `greenmycity.eu` | No |
+| `greennuclear.online` | No |
 | `greenpeace.ch` | Yes |
 | `greenpencil.social` | No |
 | `greenpete.co.uk` | No |
@@ -10316,6 +10319,7 @@ Here's a list of public Fediverse services.
 | `katafpv.ch` | No |
 | `kataku.in` | No |
 | `katapult.social` | No |
+| `katariya.us` | No |
 | `katarpilar.com` | No |
 | `kate.land` | No |
 | `kathryl.fr` | No |
@@ -13313,6 +13317,7 @@ Here's a list of public Fediverse services.
 | `ministryofinternet.eu` | No |
 | `miniverse.social` | No |
 | `miniwa.moe` | No |
+| `minixer.com` | No |
 | `minkenstein.de` | No |
 | `minkiver.se` | No |
 | `minmi.xyz` | No |
@@ -14958,6 +14963,7 @@ Here's a list of public Fediverse services.
 | `norimono.moe` | No |
 | `noritsuna.jp` | No |
 | `norius.fr` | No |
+| `normalunicorn.com` | No |
 | `normandie-libre.fr` | No |
 | `normie.cafe` | No |
 | `noronista.net` | No |
@@ -19042,6 +19048,7 @@ Here's a list of public Fediverse services.
 | `simon-koester.de` | No |
 | `simon816.com` | No |
 | `simonoener.com` | No |
+| `simonpbriggs.co.uk` | Yes |
 | `simonwgill.com` | No |
 | `simonwillison.net` | Yes |
 | `simounet.net` | No |
@@ -21954,7 +21961,7 @@ Here's a list of public Fediverse services.
 | `underworld.fr` | No |
 | `undisruptable.technology` | No |
 | `undo.it` | Yes |
-| `undrground.org` | No |
+| `undrground.org` | Yes |
 | `une33.club` | No |
 | `uneex.net` | No |
 | `unehre.de` | No |
@@ -22534,6 +22541,7 @@ Here's a list of public Fediverse services.
 | `voxint.pw` | Yes |
 | `vpn.tv` | Yes |
 | `vpnbanzai.eu.org` | No |
+| `vpndns.org` | No |
 | `vps-dogado.de` | No |
 | `vpx.one` | Yes |
 | `vr-girls.club` | No |
@@ -24007,8 +24015,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,876 |
-| Normal | 19,088 |
+| Cloudflare | 4,879 |
+| Normal | 19,093 |
 
 
-### 20.3% of public Fediverse services are using Cloudflare.
+### 20.4% of public Fediverse services are using Cloudflare.
