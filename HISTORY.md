@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-11: [ZRH (Zurich) on 2022-11-11](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0d5p6d9y1knz)
 - 2022-11-09: [AMS (Amsterdam) on 2022-11-09](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ypz8p24yy63f)
 - 2022-11-07: [Network Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lnrh4x1bw21r)
 - 2022-11-07: [Network Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w0h3q1z23pxz)
