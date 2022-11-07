@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,458 |
+| com | 3,459 |
 | net | 1,901 |
 | social | 1,494 |
 | org | 1,341 |
@@ -1113,6 +1113,7 @@ Here's a list of public Fediverse services.
 | `animalliberation.social` | Yes |
 | `animaux.social` | No |
 | `animax.moe` | Yes |
+| `anime-titties.com` | Yes |
 | `anime.country` | No |
 | `anime.website` | No |
 | `animeabyss.xyz` | Yes |
@@ -24285,7 +24286,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,946 |
+| Cloudflare | 4,947 |
 | Normal | 19,296 |
 
 
