@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,419 |
-| net | 1,880 |
+| com | 3,421 |
+| net | 1,881 |
 | social | 1,465 |
 | org | 1,332 |
 | de | 1,225 |
@@ -4742,6 +4742,7 @@ Here's a list of public Fediverse services.
 | `delmulin.com` | No |
 | `delores.club` | No |
 | `delort.gdn` | No |
+| `delroth.net` | No |
 | `delta-t.work` | Yes |
 | `delurk.com` | No |
 | `demanderjustice.social` | No |
@@ -13171,6 +13172,7 @@ Here's a list of public Fediverse services.
 | `michaelp.info` | No |
 | `michaelpuckett.engineer` | Yes |
 | `michaelsantillan.com` | Yes |
+| `michaelthinks.com` | No |
 | `michaonline.net` | No |
 | `michci.ooo` | No |
 | `michels.xyz` | No |
@@ -15395,6 +15397,7 @@ Here's a list of public Fediverse services.
 | `olifantje.net` | No |
 | `oliphant.social` | No |
 | `olisti.co` | No |
+| `oliverfalvai.xyz` | No |
 | `oliviaappleton.com` | No |
 | `olivianet.work` | No |
 | `oljo.xyz` | No |
@@ -16268,7 +16271,7 @@ Here's a list of public Fediverse services.
 | `phishermanswarf.com` | No |
 | `phiy.me` | Yes |
 | `phntm.site` | No |
-| `phocks.org` | No |
+| `phocks.org` | Yes |
 | `phoebeivy.dev` | Yes |
 | `phoeni.xyz` | No |
 | `phoenix.cx` | No |
@@ -20612,6 +20615,7 @@ Here's a list of public Fediverse services.
 | `tekmav.space` | No |
 | `teknorota.com` | Yes |
 | `tekton.network` | No |
+| `teldarpaper.com` | No |
 | `teleassist.fr` | No |
 | `telemetrydeck.com` | No |
 | `telemillevaches.net` | No |
@@ -24031,8 +24035,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,883 |
-| Normal | 19,105 |
+| Cloudflare | 4,884 |
+| Normal | 19,108 |
 
 
 ### 20.4% of public Fediverse services are using Cloudflare.
