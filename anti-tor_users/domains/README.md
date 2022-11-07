@@ -8,7 +8,7 @@
 [//]: # (do not edit me; end)
 
 
-- Cloudflare-domajnoj estas ekskluditaj de ĉi tiu esplorado ĉar tiuj estas sufiĉe malamikaj.
+- **Cloudflare-domajnoj estas ekskluditaj de ĉi tiu esplorado ĉar tiuj estas sufiĉe malamikaj.**
 - Ne ĉiuj uzantoj de Tor estas malbonaj. Ne punu ĉiujn.
   - Kiel vi sentas, se iu blokas vin sen kialo?
   - Uzi Tor ne estas krimo.
@@ -20,7 +20,7 @@
 
 # Anti-Tor users FQDN list
 
-- Cloudflare domains are excluded from this research because those are hostile enough.
+- **Cloudflare domains are excluded from this research because those are hostile enough.**
 - Not all Tor users are bad. Do not punish everyone.
   - How do you feel if someone block you for no reason?
   - Using Tor is not a crime.
