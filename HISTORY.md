@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-07: [Network Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lnrh4x1bw21r)
 - 2022-11-07: [Network Performance Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w0h3q1z23pxz)
 - 2022-11-19: [HKG (Hong Kong) on 2022-11-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/w8b02vtqqbq1)
 - 2022-11-04: [Elevated number of HTTP 5xx errors in Chicago, IL](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q95s51x88t72)
