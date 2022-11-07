@@ -102,6 +102,7 @@ oezbpw.db.files.1drv.com
 ofgswa.db.files.1drv.com
 ohzciq.db.files.1drv.com
 p9igpg.am.files.1drv.com
+paydev.1177pay-03.com.tw
 poqdrq.am.files.1drv.com
 prkm3g.db.files.1drv.com
 pxv7tq.db.files.1drv.com
@@ -111,6 +112,7 @@ qil2aw.db.files.1drv.com
 qwpjtg.db.files.1drv.com
 rtuskq.db.files.1drv.com
 ruckoa.am.files.1drv.com
+serverff.160whr.cn
 stdvhw.am.files.1drv.com
 tokai.15navi.com
 tunjxg.db.files.1drv.com
@@ -120,6 +122,7 @@ waunoa.am.files.1drv.com
 wawora.am.files.1drv.com
 wqafqg.db.files.1drv.com
 wqepsq.am.files.1drv.com
+www.12status.com
 xjygxa.db.files.1drv.com
 xpa7ow.am.files.1drv.com
 xpzwga.am.files.1drv.com
