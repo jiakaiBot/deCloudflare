@@ -7801,6 +7801,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pumpkin76122016@twitter](https://twitter.com/Pumpkin76122016/status/1404432604934205444) | advertise |
 | [PUNISHE56843209@twitter](https://twitter.com/PUNISHE56843209/status/1387023915801747463) | advertise |
 | [Punnampidishet1@twitter](https://twitter.com/Punnampidishet1/status/1386990158772277248) | advertise |
+| [PuntoWicaksono@twitter](https://twitter.com/PuntoWicaksono/status/1589562583757258752) | advertise |
 | [Purusho73711864@twitter](https://twitter.com/Purusho73711864/status/1379331169649500160) | advertise |
 | [PushpadAnshika@twitter](https://twitter.com/PushpadAnshika/status/1395636260044099586) | advertise |
 | [PuSiNan1@twitter](https://twitter.com/PuSiNan1/status/1395189807467298818) | advertise |
