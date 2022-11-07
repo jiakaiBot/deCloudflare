@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,419 |
 | net | 1,879 |
-| social | 1,461 |
-| org | 1,331 |
+| social | 1,463 |
+| org | 1,332 |
 | de | 1,225 |
 
 
@@ -2610,6 +2610,7 @@ Here's a list of public Fediverse services.
 | `bots-in.space` | No |
 | `botsin.space` | No |
 | `botsonthego.xyz` | Yes |
+| `botta.social` | Yes |
 | `bottom.rs` | No |
 | `botwiki.org` | No |
 | `bougiekitty.net` | Yes |
@@ -2887,6 +2888,7 @@ Here's a list of public Fediverse services.
 | `byter.io` | Yes |
 | `bytesexual.net` | No |
 | `byteshift.io` | No |
+| `bytesize.social` | Yes |
 | `bytestemplar.com` | No |
 | `bytetower.social` | No |
 | `byzantine.army` | No |
@@ -3799,6 +3801,7 @@ Here's a list of public Fediverse services.
 | `communist.accountant` | No |
 | `communisteslibertaires.org` | No |
 | `community-patriots.social` | Yes |
+| `comofas.org` | No |
 | `comomo.biz` | Yes |
 | `comopiensodigo.com` | No |
 | `companioncu.be` | No |
@@ -24019,8 +24022,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,878 |
-| Normal | 19,098 |
+| Cloudflare | 4,880 |
+| Normal | 19,099 |
 
 
-### 20.3% of public Fediverse services are using Cloudflare.
+### 20.4% of public Fediverse services are using Cloudflare.
