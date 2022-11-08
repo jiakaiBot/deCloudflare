@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cache Not Cleared via Cron Job](https://github.com/MalikArslanLive/WPRocket/issues/2)
+- [Many to many returns undefined method exists'](https://github.com/jhund/filterrific/issues/215)
 - [okx fetch_positions broken when passing in a symbol](https://github.com/ccxt/ccxt/issues/15589)
 - [Temporary service degradation on bots.reinhart1010.id](https://github.com/alterine0101/roothouse-status/issues/1325)
 - [breakfix: local storage not working?](https://github.com/greenpau/caddy-security/issues/184)
