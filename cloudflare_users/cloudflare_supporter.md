@@ -8602,6 +8602,7 @@ Do not create new issue or we will close it as duplicate.
 | [Shahzai38914950@twitter](https://twitter.com/Shahzai38914950/status/1531784993311178753) | advertise |
 | [Shah_man83@twitter](https://twitter.com/Shah_man83/status/1381646041498329088) | advertise |
 | [ShaidaFarizaa@twitter](https://twitter.com/ShaidaFarizaa/status/1562785781953208326) | advertise |
+| [Shaieq_07@twitter](https://twitter.com/Shaieq_07/status/1589912135899189252) | advertise |
 | [shailas317@twitter](https://twitter.com/shailas317/status/1398393908044845057) | advertise |
 | [Shakeel49597876@twitter](https://twitter.com/Shakeel49597876/status/1561381372626739200) | advertise |
 | [Shakiba34613353@twitter](https://twitter.com/Shakiba34613353/status/1530881904714878976) | advertise |
