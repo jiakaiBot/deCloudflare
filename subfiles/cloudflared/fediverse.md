@@ -4056,6 +4056,7 @@ Here's a list of public Fediverse services.
 | `crackpipe.org` | Yes |
 | `craftam.app` | No |
 | `craftbeer.social` | No |
+| `craftcat.dev` | Yes |
 | `craftodon.social` | Yes |
 | `craftplacer.moe` | No |
 | `craftweg.com` | Yes |
@@ -6473,6 +6474,7 @@ Here's a list of public Fediverse services.
 | `federated.community` | Yes |
 | `federated.media` | No |
 | `federated.photos` | No |
+| `federated.press` | No |
 | `federated.zone` | No |
 | `federatedfandom.net` | No |
 | `federatedservices.ch` | No |
@@ -9485,7 +9487,7 @@ Here's a list of public Fediverse services.
 | `infozdrowie.tv` | No |
 | `infozoo.de` | No |
 | `infra.de` | No |
-| `infra.social` | No |
+| `infra.social` | Yes |
 | `infra4future.de` | Yes |
 | `inframed.net` | No |
 | `infranix.eu` | No |
@@ -17335,6 +17337,7 @@ Here's a list of public Fediverse services.
 | `puckett.contact` | Yes |
 | `puckipedia.com` | No |
 | `pud.im` | No |
+| `puddle.farm` | No |
 | `puddle.town` | Yes |
 | `puenter.org` | No |
 | `pueseso.club` | No |
@@ -24438,8 +24441,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,999 |
-| Normal | 19,396 |
+| Cloudflare | 5,001 |
+| Normal | 19,397 |
 
 
 ### 20.5% of public Fediverse services are using Cloudflare.
