@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,563 |
-| net | 1,935 |
+| com | 3,565 |
+| net | 1,936 |
 | social | 1,565 |
-| org | 1,369 |
+| org | 1,371 |
 | de | 1,262 |
 
 
@@ -1773,6 +1773,7 @@ Here's a list of public Fediverse services.
 | `azumarill.net` | No |
 | `azunyan.jp` | No |
 | `azunyan.uk` | No |
+| `azunyu.moe` | No |
 | `azupo.xyz` | Yes |
 | `azure.com` | Yes |
 | `azure.icu` | Yes |
@@ -2901,6 +2902,7 @@ Here's a list of public Fediverse services.
 | `bulubulu.club` | No |
 | `bumblbee.de` | No |
 | `bumpto.space` | Yes |
+| `bunbers.org` | Yes |
 | `bund.co` | No |
 | `bund.de` | No |
 | `bundestrollministerium.de` | No |
@@ -5010,6 +5012,7 @@ Here's a list of public Fediverse services.
 | `devchatter.com` | Yes |
 | `developage.de` | No |
 | `developers4future.org` | No |
+| `developersgonewild.com` | Yes |
 | `develry.be` | No |
 | `devenirgris.com` | No |
 | `devery.eu` | Yes |
@@ -6352,6 +6355,7 @@ Here's a list of public Fediverse services.
 | `exp0.ml` | No |
 | `expandcontract.art` | No |
 | `expectnomore.net` | No |
+| `expeditionbuster.com` | No |
 | `expi.studio` | No |
 | `exploding-heads.com` | No |
 | `exploit.social` | No |
@@ -9137,7 +9141,7 @@ Here's a list of public Fediverse services.
 | `horns.by` | Yes |
 | `hornyjail.pro` | No |
 | `horrific.dev` | Yes |
-| `horrorhub.club` | No |
+| `horrorhub.club` | Yes |
 | `horse.band` | No |
 | `horsecr.app` | No |
 | `horsemans.online` | No |
@@ -13461,6 +13465,7 @@ Here's a list of public Fediverse services.
 | `meneame.net` | No |
 | `meneer.space` | No |
 | `menf.in` | No |
+| `mengjiang.org` | Yes |
 | `mengobrol.com` | Yes |
 | `mensmaaktmooi.nl` | No |
 | `mensoif.cf` | No |
@@ -16676,6 +16681,7 @@ Here's a list of public Fediverse services.
 | `pekoyama.ml` | No |
 | `peliculaspro.net` | Yes |
 | `pelliphant.social` | No |
+| `pena.mobi` | No |
 | `pencilchecker.space` | Yes |
 | `pencilfusion.com` | No |
 | `penclaw.press` | No |
@@ -18342,6 +18348,7 @@ Here's a list of public Fediverse services.
 | `retrotroet.com` | No |
 | `retrotweets.com` | No |
 | `rettiwtkcuf.social` | No |
+| `returntosander.net` | Yes |
 | `reun.de` | No |
 | `reuters.com` | Yes |
 | `revachol.city` | No |
@@ -22095,6 +22102,7 @@ Here's a list of public Fediverse services.
 | `tootodon.xyz` | Yes |
 | `tootplanet.space` | Yes |
 | `tootpoint.com` | No |
+| `tootr.io` | Yes |
 | `toots.cc` | Yes |
 | `toots.cloud` | No |
 | `toots.direct` | No |
@@ -24837,8 +24845,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,109 |
-| Normal | 19,685 |
+| Cloudflare | 5,115 |
+| Normal | 19,687 |
 
 
 ### 20.6% of public Fediverse services are using Cloudflare.
