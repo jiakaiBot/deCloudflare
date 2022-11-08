@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,481 |
 | net | 1,910 |
-| social | 1,511 |
+| social | 1,512 |
 | org | 1,344 |
 | de | 1,239 |
 
@@ -4814,6 +4814,7 @@ Here's a list of public Fediverse services.
 | `delmulin.com` | No |
 | `delores.club` | No |
 | `delort.gdn` | No |
+| `delprete.me` | No |
 | `delroth.net` | No |
 | `delta-t.work` | Yes |
 | `deltanauten.de` | No |
@@ -4951,6 +4952,7 @@ Here's a list of public Fediverse services.
 | `devouredbyverm.in` | No |
 | `devpi.de` | No |
 | `devporto.com` | Yes |
+| `devprod.social` | No |
 | `devs.live` | Yes |
 | `devschile.social` | No |
 | `devsociety.eu` | No |
@@ -8904,6 +8906,7 @@ Here's a list of public Fediverse services.
 | `holdtai.tw` | No |
 | `holeliquors.com` | No |
 | `holenet.services` | No |
+| `holeyfox.co` | No |
 | `holger.net.cn` | Yes |
 | `holi.chat` | No |
 | `hollablog.at` | No |
@@ -12762,6 +12765,7 @@ Here's a list of public Fediverse services.
 | `mastodon.earth` | No |
 | `mastodon.education` | No |
 | `mastodon.ee` | Yes |
+| `mastodon.energy` | No |
 | `mastodon.engineering` | No |
 | `mastodon.eus` | No |
 | `mastodon.exchange` | No |
@@ -21246,6 +21250,7 @@ Here's a list of public Fediverse services.
 | `theredcaps.net` | No |
 | `thereeferal.com` | No |
 | `theres.life` | No |
+| `theresnotime.io` | Yes |
 | `therewas.art` | No |
 | `therian.club` | Yes |
 | `therianthro.pe` | No |
@@ -24417,8 +24422,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,993 |
-| Normal | 19,381 |
+| Cloudflare | 4,994 |
+| Normal | 19,385 |
 
 
 ### 20.5% of public Fediverse services are using Cloudflare.
