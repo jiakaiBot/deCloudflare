@@ -5742,6 +5742,7 @@ Do not create new issue or we will close it as duplicate.
 | [MarufHa0192487@twitter](https://twitter.com/MarufHa0192487/status/1385279046309740547) | advertise |
 | [marvincuche@twitter](https://twitter.com/marvincuche/status/1401058562894356480) | advertise |
 | [marvinseeza@twitter](https://twitter.com/marvinseeza/status/1491055578948706305) | advertise |
+| [marwaali0011@twitter](https://twitter.com/marwaali0011/status/1587504294537961474) | advertise |
 | [maryamka3ra@twitter](https://twitter.com/maryamka3ra/status/1539648661780836352) | advertise |
 | [maryluketich@twitter](https://twitter.com/maryluketich/status/1506741092196175872) | advertise |
 | [Masamur28695995@twitter](https://twitter.com/Masamur28695995/status/1386620919611752451) | advertise |
@@ -6746,6 +6747,7 @@ Do not create new issue or we will close it as duplicate.
 | [NetworksTimesUS@twitter](https://twitter.com/NetworksTimesUS/status/1465907575241658368) | advertise |
 | [networks_times@twitter](https://twitter.com/networks_times/status/1465907575241658368) | advertise |
 | [NetworkThreats@twitter](https://twitter.com/NetworkThreats/status/1384218165878530052) | advertise |
+| [network_ims@twitter](https://twitter.com/network_ims/status/1589891168640593922) | advertise |
 | [Never87346438@twitter](https://twitter.com/Never87346438/status/1392124512888496128) | advertise |
 | [NeverGi40238045@twitter](https://twitter.com/NeverGi40238045/status/1390975560411586560) | advertise |
 | [neverlandoff@twitter](https://twitter.com/neverlandoff/status/1550496168072941569) | advertise |
