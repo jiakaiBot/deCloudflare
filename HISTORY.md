@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-09: [MEL (Melbourne) on 2022-11-09](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9s0jj5cb6z57)
 - 2022-11-08: [Network Performance Issues in São Paulo](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5mpx5fl2mwtm)
 - 2022-11-10: [CDG (Paris) on 2022-11-10](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gfn429v00wb4)
 - 2022-11-09: [BOS (Boston) on 2022-11-09](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/prh3jbfbytgm)
