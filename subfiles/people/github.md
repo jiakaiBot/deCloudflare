@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issues with Valorant Client Authentication](https://github.com/narkdev/ValorantSharp/issues/6)
+- [CentOS7 Terminal Share not functioning](https://github.com/Ylianst/MeshCentral/issues/4736)
 - [Cache Not Cleared via Cron Job](https://github.com/MalikArslanLive/WPRocket/issues/2)
 - [Many to many returns undefined method exists'](https://github.com/jhund/filterrific/issues/215)
 - [okx fetch_positions broken when passing in a symbol](https://github.com/ccxt/ccxt/issues/15589)
