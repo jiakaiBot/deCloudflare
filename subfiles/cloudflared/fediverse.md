@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,559 |
+| com | 3,560 |
 | net | 1,934 |
 | social | 1,563 |
 | org | 1,369 |
@@ -1159,6 +1159,7 @@ Here's a list of public Fediverse services.
 | `annaclemens.io` | Yes |
 | `annakirche.at` | No |
 | `anniqa.com` | No |
+| `annleckie.com` | No |
 | `anno79.de` | No |
 | `annoyingdomain.com` | No |
 | `annp.jp` | No |
@@ -20505,6 +20506,7 @@ Here's a list of public Fediverse services.
 | `steinmetz.fr` | No |
 | `steinwart.dk` | No |
 | `stelabrego.com` | No |
+| `stella.place` | Yes |
 | `stellar.build` | Yes |
 | `stellaria.network` | Yes |
 | `stellas.cf` | Yes |
@@ -24818,8 +24820,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,101 |
-| Normal | 19,674 |
+| Cloudflare | 5,102 |
+| Normal | 19,675 |
 
 
 ### 20.6% of public Fediverse services are using Cloudflare.
