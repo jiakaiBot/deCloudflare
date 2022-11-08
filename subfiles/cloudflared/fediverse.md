@@ -2664,6 +2664,7 @@ Here's a list of public Fediverse services.
 | `booya.cool` | No |
 | `boozerboozeman.xyz` | No |
 | `bopinions.de` | No |
+| `borahae.love` | No |
 | `borderlands.social` | No |
 | `boredom.land` | No |
 | `bores.com` | No |
@@ -9343,6 +9344,7 @@ Here's a list of public Fediverse services.
 | `hyperion.social` | Yes |
 | `hyperpla.net` | Yes |
 | `hyperplex.net` | No |
+| `hyperreal.coffee` | No |
 | `hypertalk.io` | No |
 | `hypertextcoffee.com` | Yes |
 | `hypno.church` | No |
@@ -10050,6 +10052,7 @@ Here's a list of public Fediverse services.
 | `jadden.info` | No |
 | `jade.moe` | No |
 | `jaderune.net` | No |
+| `jadin.me` | No |
 | `jadiunr.net` | Yes |
 | `jae.fi` | No |
 | `jaeger.website` | No |
@@ -24926,7 +24929,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,131 |
-| Normal | 19,751 |
+| Normal | 19,754 |
 
 
 ### 20.6% of public Fediverse services are using Cloudflare.
