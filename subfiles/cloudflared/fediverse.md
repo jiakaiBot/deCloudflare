@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,482 |
 | net | 1,911 |
-| social | 1,512 |
-| org | 1,345 |
-| de | 1,239 |
+| social | 1,513 |
+| org | 1,348 |
+| de | 1,240 |
 
 
 - Mastodon, Pleroma, etc
@@ -795,6 +795,7 @@ Here's a list of public Fediverse services.
 | `alanapost.net` | No |
 | `alancfrancis.com` | No |
 | `alangraham.de` | No |
+| `alanjames.org` | No |
 | `alaska.community` | No |
 | `alaskafriendfinder.com` | No |
 | `albanytrans.gay` | No |
@@ -4049,6 +4050,7 @@ Here's a list of public Fediverse services.
 | `cr8r.gg` | Yes |
 | `crabdance.ca` | Yes |
 | `crablettesare.life` | No |
+| `crabs.life` | Yes |
 | `crack.group` | No |
 | `crack.ninja` | Yes |
 | `crackpipe.org` | Yes |
@@ -4927,6 +4929,7 @@ Here's a list of public Fediverse services.
 | `dev.host` | No |
 | `devanooga.com` | Yes |
 | `devchatter.com` | Yes |
+| `developage.de` | No |
 | `developers4future.org` | No |
 | `develry.be` | No |
 | `devery.eu` | Yes |
@@ -5447,6 +5450,7 @@ Here's a list of public Fediverse services.
 | `druid.town` | No |
 | `drumbum42.com` | No |
 | `drup.no` | No |
+| `dryad.gay` | No |
 | `dryan.com` | No |
 | `dryc.art` | No |
 | `drycat.fr` | No |
@@ -6375,6 +6379,7 @@ Here's a list of public Fediverse services.
 | `fancydomain.eu` | No |
 | `fandemonium.ovh` | Yes |
 | `fandom-mastodon.com` | No |
+| `fandom.community` | No |
 | `fandom.garden` | No |
 | `fandom.ink` | Yes |
 | `fandom.party` | No |
@@ -13738,6 +13743,7 @@ Here's a list of public Fediverse services.
 | `mnwsngk.info` | No |
 | `mo-na.space` | No |
 | `moar.wine` | No |
+| `moarrensis.org` | No |
 | `mob-con.com` | No |
 | `mobi.com` | Yes |
 | `mobie.live` | No |
@@ -23178,6 +23184,7 @@ Here's a list of public Fediverse services.
 | `weedis.life` | Yes |
 | `weedsoft.xyz` | No |
 | `weedyverse.de` | No |
+| `weekly.org` | No |
 | `ween.de` | No |
 | `weep.jp` | Yes |
 | `weep.me` | Yes |
@@ -23524,6 +23531,7 @@ Here's a list of public Fediverse services.
 | `worldofhauru.xyz` | No |
 | `worldofvids.com` | No |
 | `worldofwonder.net` | Yes |
+| `worldpeace.social` | No |
 | `worldrovine.com` | No |
 | `worldsinminiature.com` | Yes |
 | `worldsmith.org` | No |
@@ -24000,7 +24008,7 @@ Here's a list of public Fediverse services.
 | `yiff.life` | Yes |
 | `yiff.nz` | No |
 | `yiff.rocks` | Yes |
-| `yiff.social` | No |
+| `yiff.social` | Yes |
 | `yihao.moe` | Yes |
 | `yikes.dog` | Yes |
 | `yiny.org` | No |
@@ -24430,8 +24438,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,997 |
-| Normal | 19,390 |
+| Cloudflare | 4,999 |
+| Normal | 19,396 |
 
 
 ### 20.5% of public Fediverse services are using Cloudflare.
