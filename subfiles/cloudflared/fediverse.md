@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,549 |
+| com | 3,550 |
 | net | 1,934 |
 | social | 1,560 |
 | org | 1,368 |
@@ -22076,6 +22076,7 @@ Here's a list of public Fediverse services.
 | `topping.services` | No |
 | `topspicy.social` | No |
 | `topteeth.xyz` | No |
+| `torgo.com` | No |
 | `torlaz.online` | No |
 | `torlipen.net` | No |
 | `tormentasolar.win` | No |
@@ -24786,7 +24787,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,096 |
-| Normal | 19,646 |
+| Normal | 19,647 |
 
 
 ### 20.6% of public Fediverse services are using Cloudflare.
