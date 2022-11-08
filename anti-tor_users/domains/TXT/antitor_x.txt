@@ -123,6 +123,7 @@ connectorprod.timetrack.xora.com
 git.git.git.outlook.xn--80aaihbbsdp8ckgcbadc7gqhf.xn--p1ai
 git.git.outlook.xn--66-6kca2an2cht5b.xn--p1ai
 git.git.outlook.xn--80aaihbbsdp8ckgcbadc7gqhf.xn--p1ai
+github-migration.xero-support.com
 jj-arcadia.xclabs.net
 jjagos-brews.xclabs.net
 register.xn--boredapeyachtcub-ywc.com
@@ -135,6 +136,8 @@ www.x-controls.nl
 xclimbings.com
 xes450.com
 xn--12cyuc5csbh3ecu0d5b7b8gk7k.com
+xn--artgbblers-hcb.com
+xn--boredapeyachtclb-181i.com
 xn--jlq54w7ypemw.org
 xn--psykenkt-6za.se
 xn--regnskapsbyrioslo-krb.no
@@ -142,5 +145,8 @@ xn--rftfk-oeb.com
 xn--sinimentili-p8a.fi
 xn--soh.ga
 xpressfocus.com
+xservice.ro
+xuanthieunguyen.com
+xytugsn9.cf
 www.xcubelabs.com
 xebenchenglong.com
