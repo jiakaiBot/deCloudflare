@@ -35,7 +35,6 @@ vohhall91.com
 vooculok.com
 vqnqrs54.com
 vrpfilms.com
-vs003t.com
 vs21drop.com
 vs22drop.com
 vs23drop.com
@@ -673,7 +672,9 @@ accounts.victoryauditors.co.tz
 ad-reports-service.ad-events.voltaxam-events.com
 addressportal.verifymacronix.com
 aina.vakehyva.fi
+apps.vwgroup.co.za
 auth.vmia.vic.gov.au
+authentication.vstechsolutions.com.br
 autodiscover.vanguardseeds.com
 christian.vonschack.com
 click.email.volante-tech.com
@@ -687,7 +688,9 @@ directaccess.vkooten.nl
 discord.valkirias.xyz
 ekycbidvsthgw.vnpaytest.vn
 fad.vsp.com
+fleet.vw.co.za
 friendica.vrije-mens.org
+genatkns-uat.veritas.com
 git.alt1.aspmx.l.google.com.versacommerce.eu
 git.git.alt1.aspmx.l.google.com.versacommerce.eu
 git.git.git.bmail.vnigni.ru
@@ -697,6 +700,7 @@ git.git.git.git.git.bmail.vnigni.ru
 git.git.git.git.git.git.outlook.voltrak.ru
 git.git.git.git.git.gtest.vmail.vossbryggeri.com
 git.git.git.git.git.outlook.voltrak.ru
+helpdesk.vimeva.nl
 hunterghancock.vercel.app
 iforgot-apple.verifylocation.live
 intteco.vercel.app
@@ -707,9 +711,15 @@ mapiseaftstaging.fairytail.vnggames.com
 mobi.vivifyhealth.com
 mobile.vlcompliant.nl
 mod3caimbbreg-3a.app.eu.dp.vwg-connect.com
+netflix-online-acc.v6.army
+ondemand-radio.aka.v2022.vrtcdn.be
+ota.oru-swms.int.eu.bp.aws.cloud.vwgroup.com
 payments.vantivprelive.com
+pds.volkswagen.de
 ps-automation-update-preview.virtual-spaces.de
+qaapi4.vivanda.com
 recaptcha-mr-public.rete.c1.vanguard.com
+relay.vtopia.live
 renault.via-conex.net
 restaurant.vmittech.in
 sanrio.viverebrasil.com.br
@@ -718,7 +728,9 @@ service.vimeva.nl
 shopee.vn-lienket.shop
 si-idp.vfltest.dk
 sps.vungtau.su
+testuser.vercel.app
 traefik.vihtelic.eu
+untubvaostalbus.vin09.info
 vaanitech.com
 vakrangeedevelopers.com
 varietal-literature.ca
@@ -741,7 +753,6 @@ vincentbreton.fr
 vinklubben-billund.dk
 vintagetraps.co.uk
 vipreal.live
-vishalservice.com
 visualbandeiras.com.br
 vitaexpress.ru
 vital-pbx.vei.global
@@ -751,8 +762,10 @@ vljwebapp.vedantaconnect.com
 vn-khachhang.click
 vocebronzeadora.com
 vodafone-telekom-shop-vechta.de
+voices.media
 vplus-afterhours.virtusa.com
 vro.vn
+vsc-library.org
 vtest314-cahj6gwweznekdcszdj1.vercel.app
 vulturrorp.tk
 vuprom.com
@@ -766,8 +779,10 @@ www.cookies.viccompuser.com
 www.ferrdelivery.virtualtecserver.com
 www.iforgot-apple.verifylocation.live
 www.itunesconnect-securepayementsapple.verifylocation.live
+www.siscontrol.velocity.net.ec
 www.subdomain.findlphoneimaps.online.verifylocation.live
 www.v2.cookies.viccompuser.com
+www.vac.com.sg
 www.vbox7.com
 www.vdi.de
 www.vecibank.com
@@ -777,9 +792,9 @@ www.verifychannel.online
 www.verstegenstigter.nl
 www.vevovo.fr
 www.vganderson.com
+www.viajeselcorteingles.es
 www.vialsafe.co
 www.vipley.click
-www.vishalservice.com
 www.vivino.com
 www.vmaj.jp
 www.vnwpod.de
