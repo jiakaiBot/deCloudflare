@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,560 |
-| net | 1,934 |
+| net | 1,935 |
 | social | 1,563 |
 | org | 1,369 |
 | de | 1,261 |
@@ -9483,6 +9483,7 @@ Here's a list of public Fediverse services.
 | `ill.fi` | No |
 | `illegalpornography.com` | No |
 | `illegitimate.technology` | Yes |
+| `illuminada.io` | No |
 | `illuster.org` | No |
 | `illustietor.com` | No |
 | `illyasviel.cf` | No |
@@ -9588,7 +9589,7 @@ Here's a list of public Fediverse services.
 | `indologylive.org` | No |
 | `indoors.club` | No |
 | `indoorsman.ee` | No |
-| `indoverse.nl` | No |
+| `indoverse.nl` | Yes |
 | `indulgent.art` | No |
 | `indy.im` | No |
 | `indyjp.club` | No |
@@ -11894,6 +11895,7 @@ Here's a list of public Fediverse services.
 | `life-hub.eu` | No |
 | `lifeisabug.com` | No |
 | `lifeisforhacking.community` | No |
+| `liferuler2001.co.uk` | No |
 | `lifeweb.cc` | No |
 | `lifewithfuschia.com` | No |
 | `lightdashing.me` | No |
@@ -16470,6 +16472,7 @@ Here's a list of public Fediverse services.
 | `paramdeo.com` | Yes |
 | `paranoiac-thoughts.com` | No |
 | `paranoidpengu.in` | No |
+| `parastor.net` | Yes |
 | `paratxt.org` | No |
 | `parawatch.org` | No |
 | `parcel5.social` | No |
@@ -18405,6 +18408,7 @@ Here's a list of public Fediverse services.
 | `riffic.rocks` | Yes |
 | `rigal.eu.org` | No |
 | `rigcz.club` | No |
+| `right.wtf` | Yes |
 | `rightmastodon.com` | No |
 | `rights.ninja` | Yes |
 | `rightto.repair` | No |
@@ -24820,8 +24824,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,102 |
-| Normal | 19,675 |
+| Cloudflare | 5,105 |
+| Normal | 19,676 |
 
 
 ### 20.6% of public Fediverse services are using Cloudflare.
