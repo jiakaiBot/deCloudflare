@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,481 |
+| com | 3,482 |
 | net | 1,910 |
 | social | 1,512 |
-| org | 1,344 |
+| org | 1,345 |
 | de | 1,239 |
 
 
@@ -752,6 +752,7 @@ Here's a list of public Fediverse services.
 | `akane.osaka` | No |
 | `akanechan.love` | No |
 | `akanechan.world` | No |
+| `akapache.co` | No |
 | `akapolypse.de` | No |
 | `akarinext.org` | Yes |
 | `akashi.cloud` | No |
@@ -2622,6 +2623,7 @@ Here's a list of public Fediverse services.
 | `borg.social` | Yes |
 | `borganism.com` | No |
 | `borgcube.eu` | No |
+| `borgsocial.org` | No |
 | `boringonian.com` | No |
 | `boringpeople.org` | No |
 | `boritsch.de` | No |
@@ -20211,6 +20213,7 @@ Here's a list of public Fediverse services.
 | `stephenson.cc` | No |
 | `steppe.club` | No |
 | `steppenwolf.me` | No |
+| `sterahi.gay` | No |
 | `steren.fr` | No |
 | `stereo.social` | No |
 | `stereodon.social` | No |
@@ -20318,6 +20321,7 @@ Here's a list of public Fediverse services.
 | `ststodon.org` | No |
 | `stuartbrand.co.uk` | No |
 | `stuartbutterworth.co.uk` | No |
+| `stuartgeiger.com` | Yes |
 | `stuartlinden.xyz` | No |
 | `stuartoram.com` | No |
 | `studio10b.nyc` | Yes |
@@ -21836,6 +21840,7 @@ Here's a list of public Fediverse services.
 | `transpeak.lgbt` | No |
 | `transponderings.blog` | No |
 | `transrights.ovh` | No |
+| `transsafety.network` | Yes |
 | `trapped.online` | No |
 | `trash.haus` | No |
 | `trash.social` | No |
@@ -24422,8 +24427,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,994 |
-| Normal | 19,385 |
+| Cloudflare | 4,996 |
+| Normal | 19,388 |
 
 
 ### 20.5% of public Fediverse services are using Cloudflare.
