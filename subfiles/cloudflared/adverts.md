@@ -17,9 +17,9 @@ Here's the result.
 | --- | --- | --- | --- |
 | [EasyList](https://easylist.to/easylist/easylist.txt) | 32,836 | 8,708 | 26.5% |
 | [EasyPrivacy](https://easylist.to/easylist/easyprivacy.txt) | 17,566 | 5,607 | 31.9% |
-| [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 48,000 | 9,042 | 18.8% |
+| [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt) | 48,010 | 9,041 | 18.8% |
 | [AdAway](https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt) | 2,114 | 756 | 35.8% |
-| Total | 67,404 | 17,271 | 25.6% |
+| Total | 67,407 | 17,270 | 25.6% |
 
 
 ### 25.6% of adverts and trackers are using Cloudflare.
