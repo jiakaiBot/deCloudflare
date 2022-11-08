@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-09: [DEN (Denver) on 2022-11-09](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yf5fn4vxxbfg)
 - 2022-11-17: [SIN (Singapore) on 2022-11-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/sgzc86h4zmsf)
 - 2022-11-08: [Loading issues with CAPTCHA on the hCaptcha widget on Legacy Captcha and Managed Challenge](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6sdlp9z8cqzp)
 - 2022-11-14: [MAA (Chennai) on 2022-11-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5f9qr0h3gcg5)
