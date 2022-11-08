@@ -96,6 +96,7 @@ api.quizflight.com
 docs.qcmtech.com
 git.gitlab.gitlab.gitlab.gitlab.seo.quickfish.top
 lmo.qualitysharerinvestment.click
+qdbrservice.cn
 qpa-p1.qvidian.com
 qr.ae
 qralert.ro
@@ -106,9 +107,12 @@ sechub-no-sandbox.develop.fna.iot.qbeyond.tech
 sechub.develop.fna.iot.qbeyond.tech
 www.client.quickrest.org
 www.contact.qc.lu
+www.qtaldelivery.com.br
 www.qtudodelivery.com.br
+www.qualiservegroup.com
 www.queerevents.ca
 www.quicklivraison.me
+www.quicksilverbilling.com
 www.quitosinmineria.com
 xiashiweo.qhigh.com
 quangtanhoa.com
