@@ -124,9 +124,11 @@ listbank.zapishis.com
 login.zeezil.co.uk
 mail.zaborowski.info.pl
 mqtts-dev.zeromass.io
+newsletterversand.zeit.de
 nls.zolla.ru
 office-service.zapages.co.il
 safetyandhealth4u.zapages.co.il
+sts.zollner.de
 test-double-ideal-java.payments-core.zalan.do
 user.zarinkav.ir
 www.git.gitlab.git.git.smtpmail.z-serviceonline.com
@@ -136,6 +138,7 @@ www.s.confirm.zd.lu
 www.user.zarinkav.ir
 www.zaadbank.nl
 www.zazzle.co.uk
+www.zephfairbank.ml
 www.zhelcleaningservice.com
 www.zorgtoeslag-geregeld.nl
 z-l.by
@@ -143,6 +146,8 @@ z-lib.is
 zacairbank.ml
 zamaco.com.vn
 zeebra.nl
+zelo.zelomeetings.com
+zephfairbank.ml
 zhyttia.com.ua
 zoeprendlaplume.fr
 zorgtoeslag-geregeld.nl
