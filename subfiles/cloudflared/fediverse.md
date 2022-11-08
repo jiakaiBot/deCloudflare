@@ -14423,6 +14423,7 @@ Here's a list of public Fediverse services.
 | `mstdn.org` | No |
 | `mstdn.osaka` | No |
 | `mstdn.paris` | No |
+| `mstdn.party` | No |
 | `mstdn.pics` | No |
 | `mstdn.plus` | No |
 | `mstdn.pw` | No |
@@ -24925,7 +24926,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,131 |
-| Normal | 19,750 |
+| Normal | 19,751 |
 
 
 ### 20.6% of public Fediverse services are using Cloudflare.
