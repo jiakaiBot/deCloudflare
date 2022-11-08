@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,482 |
-| net | 1,911 |
+| net | 1,912 |
 | social | 1,513 |
 | org | 1,348 |
 | de | 1,240 |
@@ -3157,6 +3157,7 @@ Here's a list of public Fediverse services.
 | `catgirl.website` | No |
 | `catgirl.works` | No |
 | `catgirl.zone` | No |
+| `catgirlin.space` | No |
 | `catgirlmeike.eu` | Yes |
 | `catgirls.cafe` | Yes |
 | `catgirls.love` | No |
@@ -6823,6 +6824,7 @@ Here's a list of public Fediverse services.
 | `fla.red` | Yes |
 | `flabs.org` | No |
 | `flagada.org` | No |
+| `flagrama.net` | No |
 | `flairgarten.de` | No |
 | `flairy.de` | No |
 | `flaki.hu` | No |
@@ -7381,6 +7383,7 @@ Here's a list of public Fediverse services.
 | `funs.vn` | No |
 | `fuo.fi` | Yes |
 | `fur.cloud` | No |
+| `fur.gg` | Yes |
 | `fur.is` | No |
 | `fur2.xyz` | No |
 | `fura.dev` | No |
@@ -14879,6 +14882,7 @@ Here's a list of public Fediverse services.
 | `nfa.cz` | No |
 | `nfg.zone` | No |
 | `nfgworld.com` | No |
+| `nfld.me` | Yes |
 | `nfld.uk` | No |
 | `nft.photo` | No |
 | `nftooters.art` | No |
@@ -17374,6 +17378,7 @@ Here's a list of public Fediverse services.
 | `pure-isp.eu` | Yes |
 | `purelove.icu` | No |
 | `purexo.mom` | No |
+| `purgatos.online` | No |
 | `puri.sm` | No |
 | `purple.flowers` | No |
 | `purpleforest.social` | No |
@@ -24441,8 +24446,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,001 |
-| Normal | 19,397 |
+| Cloudflare | 5,003 |
+| Normal | 19,400 |
 
 
 ### 20.5% of public Fediverse services are using Cloudflare.
