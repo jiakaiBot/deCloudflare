@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,482 |
-| net | 1,910 |
+| net | 1,911 |
 | social | 1,512 |
 | org | 1,345 |
 | de | 1,239 |
@@ -14581,6 +14581,7 @@ Here's a list of public Fediverse services.
 | `ncat.dev` | No |
 | `ncc1701e.social` | No |
 | `nchoco.net` | No |
+| `nclf.net` | Yes |
 | `ncm.name` | No |
 | `ncot.uk` | Yes |
 | `ncrypt.at` | No |
@@ -20863,6 +20864,7 @@ Here's a list of public Fediverse services.
 | `teamtilu.fr` | No |
 | `teamtk.eu` | No |
 | `teamvagabond.com` | No |
+| `teamx.cc` | No |
 | `teamxbox.org` | No |
 | `teamzeta.xyz` | No |
 | `tearaikazuki.jp` | Yes |
@@ -21460,6 +21462,7 @@ Here's a list of public Fediverse services.
 | `timshomepage.net` | No |
 | `timttmy.co.uk` | No |
 | `tin.fyi` | No |
+| `tinat.eu` | No |
 | `tinax.work` | No |
 | `tincanphone.club` | No |
 | `tinerion.me` | No |
@@ -24427,8 +24430,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 4,996 |
-| Normal | 19,388 |
+| Cloudflare | 4,997 |
+| Normal | 19,390 |
 
 
 ### 20.5% of public Fediverse services are using Cloudflare.
