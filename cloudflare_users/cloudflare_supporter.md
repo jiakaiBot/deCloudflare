@@ -2720,6 +2720,7 @@ Do not create new issue or we will close it as duplicate.
 | [Farzad33475400@twitter](https://twitter.com/Farzad33475400/status/1578132827421507592) | advertise |
 | [farzanf@twitter](https://twitter.com/farzanf/status/1526583866181529609) | advertise |
 | [Farzin19576702@twitter](https://twitter.com/Farzin19576702/status/1391834415785861120) | advertise |
+| [farzintamizi@twitter](https://twitter.com/farzintamizi/status/1589901052350173184) | advertise |
 | [Fashion_NoVa_Ne@twitter](https://twitter.com/Fashion_NoVa_Ne/status/1525972069216833537) | advertise |
 | [fatiherikliuniq@twitter](https://twitter.com/fatiherikliuniq/status/1542403905472053248) | advertise |
 | [fatts_el@twitter](https://twitter.com/fatts_el/status/1569365314122514433) | advertise |
@@ -4191,6 +4192,7 @@ Do not create new issue or we will close it as duplicate.
 | [JerryJduh@twitter](https://twitter.com/JerryJduh/status/1544127263775621122) | advertise |
 | [jery230807@twitter](https://twitter.com/jery230807/status/1552230018033790978) | advertise |
 | [jesko14346712@twitter](https://twitter.com/jesko14346712/status/1402518182020063240) | advertise |
+| [JesminLebu@twitter](https://twitter.com/JesminLebu/status/1589884989642268673) | advertise |
 | [JesseREzung@twitter](https://twitter.com/JesseREzung/status/1384211301686136836) | advertise |
 | [jesse_sihenherg@twitter](https://twitter.com/jesse_sihenherg/status/1387006183018352643) | advertise |
 | [Jessica92254548@twitter](https://twitter.com/Jessica92254548/status/1501829716487008256) | advertise |
@@ -4778,8 +4780,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5662,6 +5664,7 @@ Do not create new issue or we will close it as duplicate.
 | [MalshaManuri@twitter](https://twitter.com/MalshaManuri/status/1550120147364372482) | advertise |
 | [malvprass@twitter](https://twitter.com/malvprass/status/1385256169795588096) | advertise |
 | [malwifati@twitter](https://twitter.com/malwifati/status/1381271570304401408) | advertise |
+| [mamadukino@twitter](https://twitter.com/mamadukino/status/1589769719049244673) | advertise |
 | [MamMad08079795@twitter](https://twitter.com/MamMad08079795/status/1491453521266638848) | advertise |
 | [MamMam02043349@twitter](https://twitter.com/MamMam02043349/status/1538613925004333057) | advertise |
 | [MamNaw@twitter](https://twitter.com/MamNaw/status/1400309873594691584) | advertise |
@@ -6049,6 +6052,7 @@ Do not create new issue or we will close it as duplicate.
 | [Minhon41314491@twitter](https://twitter.com/Minhon41314491/status/1478750521838034944) | advertise |
 | [MinhPha30559237@twitter](https://twitter.com/MinhPha30559237/status/1481172835225993219) | advertise |
 | [minhquydesign@twitter](https://twitter.com/minhquydesign/status/1457461282580357136) | advertise |
+| [MinhQuynL1@twitter](https://twitter.com/MinhQuynL1/status/1589778967460220928) | advertise |
 | [minhruoi000@twitter](https://twitter.com/minhruoi000/status/1402955958708445191) | advertise |
 | [MinhTha51596170@twitter](https://twitter.com/MinhTha51596170/status/1401317096131153923) | advertise |
 | [Minhthe0402@twitter](https://twitter.com/Minhthe0402/status/1480456488204533770) | advertise |
@@ -7586,6 +7590,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhuongN09560858@twitter](https://twitter.com/PhuongN09560858/status/1377291979885748228) | advertise |
 | [phuongnamxaxoo1@twitter](https://twitter.com/phuongnamxaxoo1/status/1395295769100357633) | advertise |
 | [PhuongThedevil@twitter](https://twitter.com/PhuongThedevil/status/1399716303166787584) | advertise |
+| [phuphngskwsnch1@twitter](https://twitter.com/phuphngskwsnch1/status/1589875646611980288) | advertise |
 | [PhuuMon2@twitter](https://twitter.com/PhuuMon2/status/1396117231314952203) | advertise |
 | [phwaysan1@twitter](https://twitter.com/phwaysan1/status/1377088458615881729) | advertise |
 | [phyk_official@twitter](https://twitter.com/phyk_official/status/1563416383970766854) | advertise |
@@ -8301,6 +8306,7 @@ Do not create new issue or we will close it as duplicate.
 | [SagrJony@twitter](https://twitter.com/SagrJony/status/1378421082592575491) | advertise |
 | [sahand90818531@twitter](https://twitter.com/sahand90818531/status/1584475574302826496) | advertise |
 | [sahand_kherad@twitter](https://twitter.com/sahand_kherad/status/1587038095207268358) | advertise |
+| [sahar_vakiliy@twitter](https://twitter.com/sahar_vakiliy/status/1589903438640386048) | advertise |
 | [sahilbagde20@twitter](https://twitter.com/sahilbagde20/status/1391423702001012740) | advertise |
 | [SahilGa84383029@twitter](https://twitter.com/SahilGa84383029/status/1393828677977206787) | advertise |
 | [SahilJa22654031@twitter](https://twitter.com/SahilJa22654031/status/1505073147191914496) | advertise |
@@ -9284,6 +9290,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThailandLong@twitter](https://twitter.com/ThailandLong/status/1435912413778354177) | advertise |
 | [ThaiThongVN@twitter](https://twitter.com/ThaiThongVN/status/1380756646738026498) | advertise |
 | [thaituanmax@twitter](https://twitter.com/thaituanmax/status/1384901240501510146) | advertise |
+| [ThaiVu17420182@twitter](https://twitter.com/ThaiVu17420182/status/1589902599506960384) | advertise |
 | [thakurdhiraj83@twitter](https://twitter.com/thakurdhiraj83/status/1399987258845908994) | advertise |
 | [thamcidu1@twitter](https://twitter.com/thamcidu1/status/1486236071512141827) | advertise |
 | [Thamos06611394@twitter](https://twitter.com/Thamos06611394/status/1404341000307232768) | advertise |
