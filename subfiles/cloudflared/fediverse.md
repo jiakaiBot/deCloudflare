@@ -13279,6 +13279,7 @@ Here's a list of public Fediverse services.
 | `meowblackcat.online` | No |
 | `meowcat285.com` | Yes |
 | `meowhome.xyz` | No |
+| `meowing.online` | Yes |
 | `meowr.org` | No |
 | `meows.life` | No |
 | `meowsdeluxe.com` | No |
@@ -18901,7 +18902,7 @@ Here's a list of public Fediverse services.
 | `scream.supply` | No |
 | `scream.today` | No |
 | `scream.zone` | No |
-| `screamer.wiki` | No |
+| `screamer.wiki` | Yes |
 | `screamingatmyscreen.com` | Yes |
 | `screamshitter.club` | No |
 | `screebo.net` | Yes |
@@ -24446,8 +24447,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,003 |
-| Normal | 19,400 |
+| Cloudflare | 5,005 |
+| Normal | 19,399 |
 
 
 ### 20.5% of public Fediverse services are using Cloudflare.
