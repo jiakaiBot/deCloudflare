@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,485 |
 | net | 1,914 |
-| social | 1,516 |
+| social | 1,518 |
 | org | 1,351 |
 | de | 1,240 |
 
@@ -2303,6 +2303,7 @@ Here's a list of public Fediverse services.
 | `bissisoft.com` | No |
 | `bit-friends.de` | No |
 | `bitacadie.com` | No |
+| `bitbang.social` | No |
 | `bitbank.cc` | Yes |
 | `bitbot.dev` | No |
 | `bitbucket.org` | No |
@@ -9290,6 +9291,7 @@ Here's a list of public Fediverse services.
 | `idontwant.social` | Yes |
 | `idreamof.ryukyu` | No |
 | `idsdt.com` | No |
+| `idtech.space` | No |
 | `idw-online.social` | No |
 | `idw.zone` | No |
 | `iedred7584.com` | No |
@@ -9769,6 +9771,7 @@ Here's a list of public Fediverse services.
 | `it-infra.jp` | No |
 | `itcave.de` | No |
 | `itcrowd.space` | No |
+| `itdev.social` | Yes |
 | `iteasy.club` | No |
 | `itengineer.club` | No |
 | `iterna.de` | No |
@@ -17667,7 +17670,7 @@ Here's a list of public Fediverse services.
 | `radicchio.town` | No |
 | `radicle.space` | No |
 | `radio.af` | No |
-| `radio.fm` | No |
+| `radio.fm` | Yes |
 | `radioaconchego.org` | No |
 | `radioalmaina.org` | No |
 | `radiofree.cloud` | No |
@@ -24467,8 +24470,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,011 |
-| Normal | 19,413 |
+| Cloudflare | 5,013 |
+| Normal | 19,414 |
 
 
 ### 20.5% of public Fediverse services are using Cloudflare.
