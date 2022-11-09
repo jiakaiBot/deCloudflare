@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,576 |
+| com | 3,577 |
 | net | 1,946 |
 | social | 1,581 |
 | org | 1,375 |
@@ -4065,6 +4065,7 @@ Here's a list of public Fediverse services.
 | `corgi.social` | No |
 | `corklabdon.com` | No |
 | `corn.social` | No |
+| `corneill.es` | No |
 | `cornerof.world` | No |
 | `cornfedcrew.com` | No |
 | `cornichon.me` | No |
@@ -16585,6 +16586,7 @@ Here's a list of public Fediverse services.
 | `pastwind.top` | Yes |
 | `patafisica.cc` | No |
 | `patallan.com.au` | No |
+| `patapon.lol` | No |
 | `patapouf.xyz` | No |
 | `patate-douce.me` | No |
 | `patault.ovh` | No |
@@ -16788,6 +16790,7 @@ Here's a list of public Fediverse services.
 | `personal.pizza` | No |
 | `personaljournal.ca` | No |
 | `personashield.com` | No |
+| `personk.com` | No |
 | `perspektivbrocken.org` | No |
 | `perthchat.org` | Yes |
 | `pertur.be` | No |
@@ -24937,7 +24940,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,134 |
-| Normal | 19,759 |
+| Normal | 19,762 |
 
 
 ### 20.6% of public Fediverse services are using Cloudflare.
