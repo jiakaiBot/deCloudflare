@@ -680,6 +680,7 @@ christian.vonschack.com
 click.email.volante-tech.com
 click.viewstream-v.com
 cookies.viccompuser.com
+corp-sts.vodafoneziggo.com
 cp-loginafcuonline.vantechdns.com
 cpcalendars.vauttech.nl
 dashboard.visitabdn.com
@@ -689,6 +690,7 @@ discord.valkirias.xyz
 ekycbidvsthgw.vnpaytest.vn
 fad.vsp.com
 fleet.vw.co.za
+forums.virtualbox.org
 friendica.vrije-mens.org
 genatkns-uat.veritas.com
 git.alt1.aspmx.l.google.com.versacommerce.eu
@@ -700,6 +702,7 @@ git.git.git.git.git.bmail.vnigni.ru
 git.git.git.git.git.git.outlook.voltrak.ru
 git.git.git.git.git.gtest.vmail.vossbryggeri.com
 git.git.git.git.git.outlook.voltrak.ru
+hackcovid.vercel.app
 helpdesk.vimeva.nl
 hunterghancock.vercel.app
 iforgot-apple.verifylocation.live
@@ -707,6 +710,7 @@ intteco.vercel.app
 jjdocu.verifyghana.org
 links.e.vivinomail.com
 lite.virtusize.jp
+m.vancl.com
 mapiseaftstaging.fairytail.vnggames.com
 mobi.vivifyhealth.com
 mobile.vlcompliant.nl
@@ -729,11 +733,13 @@ shopee.vn-lienket.shop
 si-idp.vfltest.dk
 sps.vungtau.su
 testuser.vercel.app
+tracking.vitaminspy.com
 traefik.vihtelic.eu
 untubvaostalbus.vin09.info
 vaanitech.com
 vakrangeedevelopers.com
 varietal-literature.ca
+variety-kfc.com.ru
 vdx.hu
 ve6lk.com
 ventanasantiruido.info
@@ -743,6 +749,7 @@ verify-0nlineinfo.ga
 verify-bankofamerica.com
 veszpremvaros.hu
 vialsafe.co
+victoryautomotiveservice.com
 vidaelite.com.br
 videoapi-muybridge.vimeocdn.com
 vidracariaroma.com.br
@@ -752,11 +759,13 @@ vinatrips.vn
 vincentbreton.fr
 vinklubben-billund.dk
 vintagetraps.co.uk
+vipchecker.ru
 vipreal.live
 visualbandeiras.com.br
 vitaexpress.ru
 vital-pbx.vei.global
 vitivinicolamacetero.cl
+viveecosse.com
 vj22.de
 vljwebapp.vedantaconnect.com
 vn-khachhang.click
@@ -769,12 +778,14 @@ vsc-library.org
 vtest314-cahj6gwweznekdcszdj1.vercel.app
 vulturrorp.tk
 vuprom.com
+vz99.one
 willbeallright2blue-gmailcom.vercel.app
 www.accounts.victoryauditors.co.tz
 www.actividad3.venturapp.com
 www.anggi--billy.viding.co
 www.appleidapple.apple.verifylocation.live
 www.beta.verymoney.com
+www.billing.vviphosting.com
 www.cookies.viccompuser.com
 www.ferrdelivery.virtualtecserver.com
 www.iforgot-apple.verifylocation.live
@@ -794,11 +805,14 @@ www.vevovo.fr
 www.vganderson.com
 www.viajeselcorteingles.es
 www.vialsafe.co
+www.vicenteguimaraes.com.br
 www.vipley.click
+www.visionet.co.id
 www.vivino.com
 www.vmaj.jp
 www.vnwpod.de
 www.vortexshippingservice.com
+www.vseinc.com
 www.vtechda.com
 www.webshop.visserhandelenservice.nl
 www03.vpc.se
