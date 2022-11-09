@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,583 |
-| net | 1,947 |
-| social | 1,584 |
+| net | 1,948 |
+| social | 1,585 |
 | org | 1,379 |
 | de | 1,264 |
 
@@ -12989,6 +12989,7 @@ Here's a list of public Fediverse services.
 | `mastodon-choco.jp` | No |
 | `mastodon-dus.de` | No |
 | `mastodon-hss.ml` | No |
+| `mastodon-japan.net` | No |
 | `mastodon-lyontech.fr` | No |
 | `mastodon-nagano.info` | No |
 | `mastodon-network.com` | No |
@@ -21192,6 +21193,7 @@ Here's a list of public Fediverse services.
 | `talosintelligence.com` | Yes |
 | `tama.ac.jp` | No |
 | `tama.pro` | No |
+| `tama.social` | Yes |
 | `tamag.org` | No |
 | `tamakodon.jp` | No |
 | `tamax.ml` | No |
@@ -24982,8 +24984,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,147 |
-| Normal | 19,792 |
+| Cloudflare | 5,148 |
+| Normal | 19,793 |
 
 
 ### 20.6% of public Fediverse services are using Cloudflare.
