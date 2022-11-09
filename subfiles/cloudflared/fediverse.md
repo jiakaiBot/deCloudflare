@@ -7198,6 +7198,7 @@ Here's a list of public Fediverse services.
 | `fokken.ninja` | No |
 | `fokuza.eu` | No |
 | `foldr.nl` | No |
+| `folk-music.uk` | No |
 | `folkse.com` | No |
 | `folkvangr.social` | No |
 | `folkwolf.net` | No |
@@ -25368,7 +25369,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,261 |
-| Normal | 20,063 |
+| Normal | 20,064 |
 
 
 ### 20.8% of public Fediverse services are using Cloudflare.
