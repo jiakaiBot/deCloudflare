@@ -4108,6 +4108,7 @@ Do not create new issue or we will close it as duplicate.
 | [jame_satapon@twitter](https://twitter.com/jame_satapon/status/1381621249554542595) | advertise |
 | [Jamir95222748@twitter](https://twitter.com/Jamir95222748/status/1389106669594890241) | advertise |
 | [Jammy14140649@twitter](https://twitter.com/Jammy14140649/status/1409355298049982468) | moral (advertise) |
+| [JamshidiParsa@twitter](https://twitter.com/JamshidiParsa/status/1590343354679963649) | advertise |
 | [jamza6024@twitter](https://twitter.com/jamza6024/status/1394436651519119362) | advertise |
 | [JanakUpr@twitter](https://twitter.com/JanakUpr/status/1587470799933669376) | advertise |
 | [janca110295@twitter](https://twitter.com/janca110295/status/1538283955383844870) | advertise |
