@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare - Why check disable and delete but not check import URLs? Please don't check.](https://github.com/johngodley/redirection/issues/3468)
 - [Issues with Valorant Client Authentication](https://github.com/narkdev/ValorantSharp/issues/6)
 - [CentOS7 Terminal Share not functioning](https://github.com/Ylianst/MeshCentral/issues/4736)
 - [Cache Not Cleared via Cron Job](https://github.com/MalikArslanLive/WPRocket/issues/2)
