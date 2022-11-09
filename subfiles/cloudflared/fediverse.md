@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,622 |
+| com | 3,623 |
 | net | 1,964 |
 | social | 1,612 |
 | org | 1,395 |
@@ -11987,6 +11987,7 @@ Here's a list of public Fediverse services.
 | `liberakampo.org` | No |
 | `liberal.city` | No |
 | `liberal.lgbt` | No |
+| `liberal.win` | No |
 | `liberatorytechnology.network` | No |
 | `liberdon.com` | Yes |
 | `libereco.social` | No |
@@ -14898,6 +14899,7 @@ Here's a list of public Fediverse services.
 | `nadajemy.com` | Yes |
 | `nadesiko-users.info` | No |
 | `nadus.fr` | No |
+| `naethure.com` | No |
 | `nafuchoco.page` | Yes |
 | `naga.sh` | No |
 | `naganu.com` | No |
@@ -17501,6 +17503,7 @@ Here's a list of public Fediverse services.
 | `poliverso.org` | No |
 | `polli.social` | No |
 | `polonkai.eu` | No |
+| `polsum.rocks` | No |
 | `polyamory.social` | No |
 | `polycule.club` | Yes |
 | `polyglot.city` | No |
@@ -21687,6 +21690,7 @@ Here's a list of public Fediverse services.
 | `termineterminetermine.com` | No |
 | `ternoc.social` | No |
 | `terracrypt.net` | No |
+| `terradaliberdade.pt` | Yes |
 | `terrafirma.space` | No |
 | `terraforminglatam.net` | No |
 | `terrancebrown.me` | No |
@@ -22345,7 +22349,7 @@ Here's a list of public Fediverse services.
 | `toot.chat` | No |
 | `toot.click` | No |
 | `toot.cloud` | No |
-| `toot.community` | No |
+| `toot.community` | Yes |
 | `toot.computer` | No |
 | `toot.cool` | Yes |
 | `toot.design` | No |
@@ -24343,6 +24347,7 @@ Here's a list of public Fediverse services.
 | `wtf.social` | Yes |
 | `wtfayla.net` | No |
 | `wtfflorida.com` | Yes |
+| `wtr.app` | Yes |
 | `wtsnjp.com` | No |
 | `wuatek.is` | No |
 | `wubrg.social` | No |
@@ -25209,8 +25214,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,208 |
-| Normal | 19,958 |
+| Cloudflare | 5,211 |
+| Normal | 19,960 |
 
 
 ### 20.7% of public Fediverse services are using Cloudflare.
