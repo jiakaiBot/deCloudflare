@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,583 |
 | net | 1,947 |
-| social | 1,583 |
+| social | 1,584 |
 | org | 1,379 |
 | de | 1,264 |
 
@@ -420,6 +420,7 @@ Here's a list of public Fediverse services.
 | `9uelle.jp` | No |
 | `9wd.eu` | Yes |
 | `a-apple.net` | No |
+| `a-chill.space` | No |
 | `a-db.fr` | Yes |
 | `a-ef.org` | Yes |
 | `a-kar.in` | Yes |
@@ -6995,6 +6996,7 @@ Here's a list of public Fediverse services.
 | `fleur7.com` | No |
 | `flexnation.xyz` | No |
 | `flifloo.fr` | Yes |
+| `flightclub.social` | No |
 | `flim.ml` | No |
 | `flimpie.net` | No |
 | `flintfam.org` | No |
@@ -12259,6 +12261,7 @@ Here's a list of public Fediverse services.
 | `lonelyfurry.com` | No |
 | `lonelystranger.org` | No |
 | `loner.jp` | No |
+| `lonestar.chat` | Yes |
 | `longden.me` | No |
 | `longlines.org` | No |
 | `longmusic.com` | No |
@@ -23193,6 +23196,7 @@ Here's a list of public Fediverse services.
 | `vegard.net` | No |
 | `vegetadon.tokyo` | No |
 | `vegible.club` | No |
+| `vegoon.party` | Yes |
 | `vekant.com` | Yes |
 | `velhaestante.com.br` | Yes |
 | `velius.dev` | No |
@@ -24978,8 +24982,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,145 |
-| Normal | 19,790 |
+| Cloudflare | 5,147 |
+| Normal | 19,792 |
 
 
 ### 20.6% of public Fediverse services are using Cloudflare.
