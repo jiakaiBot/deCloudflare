@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-10: [SEA (Seattle) on 2022-11-10](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ljdb3lwnzpcs)
+- 2022-11-09: [Increased HTTP/2 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bvstlwtc0gqj)
 - 2022-11-11: [CDG (Paris) on 2022-11-11](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/k7dgbk51s1w5)
 - 2022-11-11: [CPT (Cape Town) on 2022-11-11](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gppwb6pvq6nq)
 - 2022-11-09: [TPE (Taipei) on 2022-11-09](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/840t7vhh6618)
