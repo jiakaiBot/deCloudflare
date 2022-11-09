@@ -174,7 +174,6 @@
 4-don.mom
 4-don.shop
 4-don.store
-4-douyin.com
 4-dr-antonio.shop
 4-dr-carlos.shop
 4-dr-gonzalo.shop
@@ -562,7 +561,6 @@
 4-your-holidays.com
 4-z2ds.uk
 4-zahnaerzte.de
-4.bio
 4.cafe
 4.cm
 4.co.tz
@@ -597,7 +595,6 @@
 40-futov.ru
 40-gradusov.com
 40-grit.com
-40-jahre-ddr.de
 40-life.store
 40-med.ru
 40-phimss.ru.com
@@ -605,7 +602,6 @@
 40-plus-well-woman.com
 40-plus.nl
 40-region.ru
-40-seconds.com
 40-super-hot-slot.com
 40-thangvb.sa.com
 40-tp.com
@@ -646,7 +642,6 @@
 400.tv
 4000-028-400.com
 4000-islands.com
-4000-weeks.com
 4000.cm
 4000.co.il
 4000.co.za
@@ -703,7 +698,6 @@
 4000078887.com
 400008.xyz
 4000080755.cn
-4000081314.com
 4000085.com
 4000087128.cn
 4000088512.com
@@ -746,7 +740,6 @@
 4000211918.com
 4000217377.com
 4000219880.com
-4000219957.cn
 4000219957.com
 4000221415.buzz
 4000222719.com
@@ -1234,6 +1227,7 @@
 4006762381.com
 4006766.com
 4006766068.com
+4006766756.com
 4006768881.com
 4006777017.com
 4006777169.com
@@ -1312,7 +1306,6 @@
 4007351188.com
 4007365365.com
 40074.org
-400742.com
 40075371.com
 400757.org
 400757.xyz
@@ -1653,7 +1646,6 @@
 400devonpark.com
 400dg.cn
 400digitalmarketing.com
-400dldh.com
 400dns.com
 400do.com
 400dollarlab.com
@@ -2100,7 +2092,6 @@
 401763.com
 401766.com
 4017763.com
-4017777777.com
 401789.space
 401799.com
 4017baysideopenstudios.com
@@ -2604,6 +2595,7 @@
 40231.com
 4023131.xyz
 40233.xyz
+40233352.com
 402339.xyz
 4023485.com
 40236l.com
@@ -3303,7 +3295,6 @@
 403bhelp.com
 403bhelp.net
 403binvestments.com
-403blackman.com
 403bphil.com
 403bservices.com
 403bservices.info
@@ -3954,6 +3945,7 @@
 404notfun.com
 404nvrfound.com
 404o.tv
+404o6x.shop
 404oak.com
 404ol.com
 404onlinegifts.nl
@@ -3994,6 +3986,7 @@
 404sandomail.com
 404sandonatodrive.com
 404server.me
+404server.top
 404servernotfound.com
 404servers.com
 404service.net
@@ -4128,11 +4121,9 @@
 4050adventure.com
 4050club.com
 4050emais.com.br
-4050glencoe.com
 4050recruitment.co.uk
 4050stevely.com
 4050westminookaroad.com
-4050yy.com
 4051-6766.me
 40510.cn
 405111a.com
@@ -4486,6 +4477,7 @@
 406404.com
 40640493.xyz
 406447.cc
+40647.vip
 4064777.com
 406492.com
 4065.org
@@ -4998,6 +4990,7 @@
 408566.com
 408570.com
 4085777.com
+40859.vip
 4086.cz
 4086.in
 40861.uk
@@ -5430,6 +5423,7 @@
 40andfriendless.com
 40andoverclub.com
 40andrtoeisut.xyz
+40andshortys.store
 40andsht.com
 40andsowhat.com
 40aniversariolescaleta.com
@@ -5595,6 +5589,7 @@
 40daysimages.com
 40daysintheword.com
 40daysoffarming.co
+40daysoffarming.com
 40daysoffirechallenge.com
 40daysofholiness.com
 40daysofhope.org
@@ -5756,6 +5751,7 @@
 40golden90.com
 40goldpartnersuche.de
 40gorabet.com
+40gps3.shop
 40gqsfp.org
 40gradosperu.com
 40grains.com.au
@@ -6161,6 +6157,7 @@
 40rhettplace.com
 40ridgecapital.com
 40riverside.com
+40rivobahis.com
 40rodlightning.com
 40roll.co
 40rosehillavenue601.com
@@ -6175,6 +6172,7 @@
 40s.chat
 40s.co.za
 40s2.online
+40s227.shop
 40s440.com
 40s9.shop
 40sa36.com
@@ -6534,7 +6532,6 @@
 41008.vip
 410083.xyz
 41008411.com
-4100921.com
 41009311e37d.com
 41009cc38b2b.com
 4100bar.com
@@ -6729,6 +6726,7 @@
 410refrigeracion.com
 410rossmore.com
 410rr.com
+410sahabet.com
 410shopus.com
 410social.com
 410southalexandria.com
@@ -6946,6 +6944,8 @@
 411526.cc
 411526.com
 41153.biz
+4115588.xyz
+4115677.xyz
 41158.cn
 41159.com
 4115aguavista.com
@@ -7200,7 +7200,6 @@
 411missouri.com
 411mogu.com
 411moldexpert.com
-411moldremediation.com
 411movers.com
 411musicgroup.com
 411muzic.com
@@ -7261,6 +7260,7 @@
 411ruralalaska.com
 411s.co
 411sa.com
+411sahabet.com
 411saleonline.com
 411sandiego.com
 411scc.com
@@ -7385,6 +7385,7 @@
 4123hd.cc
 4123jgj.com
 4123kf.vip
+4123ux.shop
 4123vincennespl.com
 4123vv.com
 4124.cc
@@ -7560,6 +7561,7 @@
 412ridgeroad.com
 412ridgewoodaveglenridge.com
 412rr.com
+412sahabet.com
 412save.com
 412seelimi.shop
 412shoprus.com
@@ -7702,6 +7704,7 @@
 41354.cc
 413544.com
 413546.com
+41355.org
 413550.top
 4135777.com
 413579.com
@@ -7845,6 +7848,7 @@
 413rebirth.com
 413rr.com
 413s.com
+413sahabet.com
 413sport.com
 413sportswear.shop
 413strong.org
@@ -8616,7 +8620,6 @@
 416u.cn
 416uu.com
 416valdez.com
-416visa.com
 416vtv.xyz
 416vv.com
 416w7.com
@@ -8897,6 +8900,7 @@
 417800000.com
 4178080.com
 41781.ir
+41782.org
 41783.com
 417841.com
 41785.co
@@ -9072,11 +9076,14 @@
 417mom.org
 417motherhood.org
 417motorsports.net
+417n417.com
 417nissan.com
 417nnn.com
+417o417.com
 417online.com
 417oo.com
 417ooo.com
+417p417.com
 417paranormalresearchgroup.com
 417pcc.org
 417peachteamrealtors.com
@@ -9169,7 +9176,6 @@
 4180whittle.com
 4181.cm
 4181.tv
-41810416.com
 418116.com
 41813.com
 418148.com
@@ -9224,6 +9230,7 @@
 41849.com
 41849667.com
 4184hu.com
+4185.cx
 4185.es
 41851.at
 41851.xyz
@@ -9393,6 +9400,7 @@
 4190pecosst.com
 4191.cc
 4191.one
+419120.live
 41915.org
 41918.xyz
 41918484.com
@@ -9517,7 +9525,6 @@
 419825.cc
 419829886296.com
 41983.co
-419851211.com
 419874.xyz
 419888.xyz
 4198bbf.com
@@ -9595,6 +9602,7 @@
 419mining.com
 419nation.com
 419nn.com
+419nounu.xyz
 419onwin.com
 419oo.com
 419percykingroad.com
@@ -9689,6 +9697,7 @@
 41be.com
 41bet999.bet
 41bet999.fun
+41betka90.com
 41betpark.tv
 41bettigo.com
 41betvenedik.com
@@ -9850,6 +9859,7 @@
 41east7th.com
 41ec.com
 41eee.com
+41ef9o.shop
 41efw.com
 41ejt.com
 41el.buzz
@@ -10007,6 +10017,7 @@
 41kronquistct.com
 41kulture.com
 41kv.com
+41kyfuh.cyou
 41kyry.cyou
 41l.info
 41l4n.top
@@ -10142,6 +10153,7 @@
 41peacestreet.com
 41pearls.com
 41person.com
+41pgjf.shop
 41ph.com
 41pi.co.uk
 41pizzabakery.com
@@ -10150,7 +10162,6 @@
 41plh.cn
 41poco.top
 41pr.com
-41pradoway.com
 41presents.com
 41printinganddesign.com
 41profits.com
@@ -10704,6 +10715,7 @@
 42069420.xyz
 420699.xyz
 4206huntington.com
+4207.cx
 4207.ee
 42070.pw
 42070010.com
@@ -10741,7 +10753,6 @@
 42094.org
 420944.com
 42095.com
-420959726a.com
 42096.dk
 42096.org
 420966.com
@@ -11359,7 +11370,6 @@
 420scourier.space
 420scrubz.net
 420seattle.net
-420section.com
 420seedbox.com
 420seeddeals.com
 420seedfarm.com
@@ -11685,6 +11695,7 @@
 421804.com
 42180883.live
 421810.com
+42182.vip
 42183335.com
 421836.com
 42186.uk
@@ -11978,6 +11989,7 @@
 422eest.com
 422favorisen.com
 422fourtwotwo.com.br
+422fr6.shop
 422g.xyz
 422gallery.com
 422game.com
@@ -12051,6 +12063,7 @@
 4230knollviewdrive.com
 4230llc.com
 4230x7.cyou
+4231.biz
 4231.es
 4231.org
 4231.top
@@ -12152,7 +12165,6 @@
 423609.uk
 42364339.com
 423645545.xyz
-4236493.com
 42365.com
 42365.space
 4236529.com
@@ -12162,6 +12174,7 @@
 423676.com
 423689031.club
 423690.com
+42369722.com
 4237.es
 4237.gs
 4237.uk
@@ -12561,7 +12574,6 @@
 4251670.com
 425171.com
 425179.com
-42519.co
 4252.cm
 425200.com
 4252330.com
@@ -12716,7 +12728,33 @@
 4259a.one
 4259a.org
 4259a.pro
+4259aa.com
+4259bb.com
+4259cc.com
+4259dd.com
+4259ee.com
+4259ff.com
+4259gg.com
+4259hh.com
+4259ii.com
+4259jj.com
+4259kk.com
+4259ll.com
+4259mm.com
+4259nn.com
+4259oo.com
+4259pp.com
+4259qq.com
+4259rr.com
+4259ss.com
+4259tt.com
 4259tx.shop
+4259uu.com
+4259vv.com
+4259ww.com
+4259xx.com
+4259yy.com
+4259zz.com
 425a.net
 425aa.com
 425aaa.com
@@ -12862,6 +12900,7 @@
 426.lv
 4260.cm
 4260.com
+4260.cx
 4260.lol
 4260426.xyz
 426044.com
@@ -13007,6 +13046,7 @@
 4269555.com
 426962.name
 426969.com
+42698.vip
 426981.com
 42698260.xyz
 426998.com
@@ -13068,6 +13108,7 @@
 426thamerlane.com
 426tm.com
 426tt.com
+426utg.shop
 426v.buzz
 426vv.com
 426west.co.uk
@@ -13800,6 +13841,7 @@
 42940.co
 429499.com
 4294hu.com
+4295.cx
 42950.vip
 42952.tv
 429527.com
@@ -14431,6 +14473,7 @@
 42k.run
 42k.us
 42k.xyz
+42k1bx.shop
 42k63w.xyz
 42kaz.com
 42kc.com
@@ -14441,6 +14484,7 @@
 42kim.com
 42kimballbeach.com
 42kites.com
+42kkkqjs6o.click
 42km.net
 42km.ro
 42kmi.com
@@ -14564,6 +14608,7 @@
 42mpt.xyz
 42mq.com
 42mr.de
+42msncv.cyou
 42mst.tech
 42mt.com
 42mtyc.com
@@ -14661,6 +14706,7 @@
 42ops.com
 42opus.com
 42or.com
+42ori1.shop
 42orkney.com
 42orrangements.com
 42os.com
@@ -14672,6 +14718,7 @@
 42p.co.il
 42p4.com
 42p53z.com
+42p6f2.shop
 42pa.com
 42pack.com
 42panel.xyz
@@ -15365,6 +15412,7 @@
 430t.com
 430tl.com
 430tofit.com
+430ub.com
 430uu.com
 430vv.com
 430ww.com
@@ -15548,6 +15596,7 @@
 4316coolidge.com
 4316productions.com
 4316summercrestblvd1028.com
+4317.cx
 4317.es
 4317.lc
 4317.tw
@@ -15819,7 +15868,6 @@
 43258.cc
 4325yh.com
 4326.com
-4326.ro
 43261548412.xyz
 43263.uk
 432633.com
@@ -16021,7 +16069,6 @@
 4330yh.com
 433100.com.cn
 433100.xyz
-4331056.top
 43312.cz
 43313.vip
 43313harborst.com
@@ -16120,24 +16167,18 @@
 433468.com
 433468a.com
 433468b.com
-43347.co
 43347honeybeeln.com
-43348.ir
 4334888.com
 43349.cn
 43349.com
 43349.nz
 433499.com
 43349a.com
-43349g.com
-43349z.com
 4334hu.com
 4334terrabella.com
-4334z.com
 4335.com.cn
 4335.us
 43350.biz
-433518.com
 433525.com
 4335394.com
 43354.cn
@@ -16314,6 +16355,7 @@
 4340hwy1.com
 4340rz.cyou
 4340west96.com
+4341.cx
 43411.cn
 434123.xyz
 434143.com
@@ -16337,7 +16379,6 @@
 4343.us
 43430.uk
 434300.com.cn
-4343000.com
 4343123.com
 43432.cc
 434321.fun
@@ -16511,6 +16552,7 @@
 434yu.com
 434z.nl
 434zl.com
+434zw.com
 435.cm
 435.cz
 435.hair
@@ -16744,6 +16786,7 @@
 435944.com
 435945.fun
 435955.com
+43597.me
 435972.fun
 43598.biz
 435980.vip
@@ -16764,7 +16807,6 @@
 435bahsine.com
 435bayviewdrive.com
 435benefits.com
-435bennettsfarmrd.com
 435betvole.com
 435cc.com
 435ch.com
@@ -17290,6 +17332,7 @@
 438063.com
 43807.nl
 438076.com
+43808.cz
 438090.com
 4380c19a916c.com
 4380dormanct.com
@@ -18012,6 +18055,7 @@
 43ew.com
 43ewef5.top
 43exchenyabt.xyz
+43exposure.de
 43ez.com
 43f8.com
 43f899e90ccf.com
@@ -18164,6 +18208,7 @@
 43k6sg.com
 43k6yl.cyou
 43k9.com
+43k9ld.shop
 43kaz.com
 43kbkb.com
 43kc.com
@@ -18189,7 +18234,6 @@
 43lacey.net
 43lady.cn
 43laxium.com
-43lc.com
 43lc8n.com
 43lcw.com
 43ld.com
@@ -18299,6 +18343,7 @@
 43oa.com
 43obanner.shop
 43obomber.shop
+43obush.shop
 43obvs.xyz
 43oc.cn
 43ocellar.shop
@@ -18411,6 +18456,7 @@
 43rf.com
 43rf.sbs
 43rh.com
+43rivobahis.com
 43rk.com
 43rlaunched.cfd
 43rm.com
@@ -18487,6 +18533,7 @@
 43t6r2.cyou
 43t8vx.shop
 43taunton.com
+43tav.com
 43tentenants.com
 43texts.com
 43tf.com
@@ -18604,7 +18651,6 @@
 43wxw.com
 43wy.com
 43wypz.cyou
-43x.me
 43x80.ca
 43xa.com
 43xa.shop
@@ -18686,7 +18732,6 @@
 44-domainsss.za.com
 44-hub.com
 44-k.com
-44-life.store
 44-marketplace.com
 44-max.com
 44-media.com
@@ -18742,8 +18787,10 @@
 440025522.com
 440026.com
 440027.com
+440027.xyz
 440028.com
 440029.com
+440029.xyz
 44003.com
 440033.cc
 44003885.com
@@ -18755,6 +18802,7 @@
 440053.com
 44005316.com
 440054.com
+440054.xyz
 440056667.com
 4400629.com
 44006600.com
@@ -18763,6 +18811,7 @@
 4400789.com
 440081.com
 440082.com
+440082.xyz
 440088211.com
 4400988.com
 4400989.com
@@ -18855,7 +18904,6 @@
 44046.net
 440466.com
 440488.com
-4404rockisland.com
 4405.gy
 4405.nl
 4405.top
@@ -19232,7 +19280,6 @@
 44123.com.cn
 441231.com
 441234.xyz
-4412399.com
 44123b.com
 44125.biz
 44125.fun
@@ -19788,7 +19835,6 @@
 4432dd.com
 4432e.com
 4432h.com
-4432j6.tokyo
 4432y.com
 4433.cm
 4433.im
@@ -19845,6 +19891,7 @@
 44336600.com
 4433666.com
 443367.com
+443367.xyz
 4433688.com
 443369.com
 44337.se
@@ -19863,6 +19910,7 @@
 44339.uk
 443394.com
 443395.com
+443395.xyz
 4433989.com
 44339jin.com
 44339sha.com
@@ -21001,6 +21049,9 @@
 4441102.com
 4441103.com
 444111.cm
+4441115.com
+4441117.com
+4441118.com
 4441119.com
 444111ag.com
 4441124.xyz
@@ -21100,6 +21151,7 @@
 444333.com.cn
 444333.net
 4443331.com
+4443338.com
 444333ag.com
 444334.com
 444335.com
@@ -22173,6 +22225,7 @@
 44500w.com
 44501.hair
 4450123.com
+4450254.xyz
 44505.cn
 445050.com
 445055.com
@@ -23895,6 +23948,7 @@
 44aj.com
 44al.com
 44alimentosantienvelhecimento.online
+44am999.com
 44ambjlw.com
 44amtyc.com
 44amxpj.com
@@ -23925,6 +23979,7 @@
 44ax.com
 44axax.com
 44b.com.cn
+44b112.shop
 44b35a5abc66.com
 44b4y.com
 44b7q.top
@@ -24413,6 +24468,7 @@
 44hcp.com
 44hdhd.com
 44hearts.com
+44herba.com
 44hf.cn
 44hg.app
 44hg.cm
@@ -24748,6 +24804,7 @@
 44mm6.com
 44mm7.com
 44mm8.com
+44mmfm.shop
 44mmnn.com
 44mmp.xyz
 44mmrr.com
@@ -25131,7 +25188,6 @@
 44sibc.buzz
 44sierra.com
 44sigorta.com
-44silveroak.com
 44simba.com
 44singapore.one
 44sjsj.com
@@ -25383,6 +25439,7 @@
 44w77.com
 44w8f.com
 44wa.xyz
+44wallpapers.com
 44wallstreet.com
 44washington.com
 44water.biz
@@ -26361,6 +26418,7 @@
 45277p.com
 4527888.com
 452799.com
+4527x.xyz
 4528.ae
 4528.cm
 4528.tw
@@ -26525,6 +26583,7 @@
 4533289.xyz
 453329.xyz
 45333.vip
+4533321786.xyz
 45333p.cyou
 45334.uk
 45334433.com
@@ -26732,6 +26791,7 @@
 454-bio.com
 454.cm
 454.live
+4540.cx
 45400.co
 45401.org
 454056.co
@@ -26879,6 +26939,7 @@
 454588.space
 454589.com
 454590.com
+454598.cn
 4545boys.com
 4545comics.com
 4545content.com
@@ -26979,7 +27040,6 @@
 454941.com
 454949.com
 454973.com
-4549793.com
 45498-transfer.xyz
 454982.com
 454983.com
@@ -27153,6 +27213,7 @@
 455237.uk
 45524.pw
 455241.com
+45525.vip
 455251.com
 45525249530a.net
 455260.com
@@ -27630,6 +27691,7 @@
 4563coronado.com
 4563hh.com
 4563jj.com
+4563kart.xyz
 4563pp.com
 4563r079o0d7iwk3il9-8j.cc
 4563r079o0d7iwk3il9-8j.com
@@ -28108,7 +28170,6 @@
 456equipment.com
 456ew.com
 456ewr.com
-456eye.com
 456f9922ab8e.com
 456fa.com
 456fak.cn
@@ -28552,6 +28613,7 @@
 457zl.com
 457zz.com
 458.bet
+458.cc
 458.cm
 458.ee
 458.eu
@@ -28893,6 +28955,7 @@
 45923.com
 459239.com
 45924.org
+459245blt.com
 45925.cn
 459251.com
 4592555.com
@@ -28972,6 +29035,7 @@
 45962625.com
 459645.com
 4596555.com
+459655blt.com
 45966.vip
 459666.com
 4596661.com
@@ -28999,6 +29063,7 @@
 459788.com
 459789.com
 45979.com
+4598.app
 4598.es
 4598.ro
 4598.run
@@ -29039,15 +29104,9 @@
 4599061.xyz
 459908.space
 459912.co
-4599123.com
-4599234.com
-4599345.com
 459939.com
-4599456.com
 459945678.com
 459953767.com
-4599567.com
-4599678.com
 45997.xyz
 45997661.com
 459980.com
@@ -29069,6 +29128,7 @@
 459bol.cn
 459bub090.com
 459cc.com
+459ci1.shop
 459coal.com
 459d85.com
 459dd.com
@@ -29190,6 +29250,7 @@
 45betturka.com
 45betvenedik.com
 45bf.com
+45bhem.shop
 45bits.com
 45bizimbahis.com
 45bj6w.cyou
@@ -29363,6 +29424,7 @@
 45eee.cn
 45eess.com
 45eg.com
+45egoc.shop
 45eiffelblvd.com
 45ej.com
 45emeline.com
@@ -29370,6 +29432,7 @@
 45enord.ca
 45enord.fr
 45enterprise.com
+45eofom.cyou
 45erkjer.com
 45essexrd.com
 45et510t.homes
@@ -29407,6 +29470,7 @@
 45forspeakerpac.com
 45fqb.xyz
 45fr.xyz
+45fr1hf.cyou
 45free.com
 45freedomflag.com
 45fs2f.xyz
@@ -29451,7 +29515,6 @@
 45gorabet.com
 45gorgeousboutique.com
 45got.com
-45grader.com
 45grados.mx
 45gram.com
 45grammes.com
@@ -29807,6 +29870,7 @@
 45rf.com
 45rfbgfbhtdsfwerfj.buzz
 45rha0b.com
+45rivobahis.com
 45rj.com
 45rk.com
 45rl.com
@@ -29893,7 +29957,6 @@
 45t6etcf3mxc6.top
 45ta.me
 45tactical.com
-45tao.com
 45taping.com
 45tddf.info
 45test36.com
@@ -29938,10 +30001,12 @@
 45tpzn1zdgg3l.com
 45tq.com
 45tr.com
+45tra.me
 45track.com
 45training.com
 45trcnpg.com
 45trs.xyz
+45trtipbet.net
 45truth.com
 45truths.com
 45ttrtipbet.com
@@ -30180,6 +30245,7 @@
 4603log.cn
 4604178.com
 4604555.com
+46045cp.vip
 460486.ru
 4605.by
 4605.lc
@@ -30197,6 +30263,7 @@
 460645.com
 46066.biz
 4606789.com
+460683.xyz
 4606sansebastian.com
 4607.top
 460711912.xyz
@@ -30286,6 +30353,7 @@
 460nnn.com
 460oo.com
 460pizzeria.com
+460pizzeriashawsville.com
 460pmh.cn
 460pp.com
 460qs.com
@@ -30389,7 +30457,6 @@
 461789.com
 461799.com
 4617buckner.com
-4617norseman.com
 4618.lc
 4618.tw
 4618111.co
@@ -30726,6 +30793,7 @@
 46329.cn
 46329.cz
 46329294.com
+4633.cx
 46330.xyz
 4633000.com
 463323.uk
@@ -30781,6 +30849,7 @@
 46359.com
 4635af3171321764.xyz
 4635ff.org
+4635om.shop
 46361.cz
 46361.review
 46362.cz
@@ -31041,11 +31110,11 @@
 464716.co
 464740.com
 464750.com
-4647580.com
 464761.com
 464784.com
 464787.com
 464787943.com
+4648.cz
 46480411.com
 464815.com
 464825.com
@@ -31337,6 +31406,7 @@
 4656552190.xyz
 46566.la
 465666.xyz
+4656663422.xyz
 4656666.com
 4656677.com
 46567.mx
@@ -31365,11 +31435,13 @@
 4657523.xyz
 46575813.xyz
 4657641232.xyz
+4657642324.xyz
 4657645312.xyz
 4657666689.xyz
 4657680989.xyz
 46577.com
 46577.vip
+4657777877.xyz
 4657788.com
 465788.com
 4657890654.xyz
@@ -31836,7 +31908,6 @@
 4673.pw
 4673.tw
 46730307.com
-467329.com
 467342.com
 46734328953.com
 4673472.vip
@@ -32263,6 +32334,7 @@
 468fty.xyz
 468galabet.com
 468gbi.top
+468glmd.cyou
 468hh.com
 468ii.com
 468in1ds.com
@@ -32374,6 +32446,7 @@
 469500.xyz
 4695000e08b8.com
 469522.com
+469555blt.com
 4695588.com
 46956.com
 469567.com
@@ -32387,6 +32460,7 @@
 46964532.com
 469649335.com
 46965.cn
+469655blt.com
 4696666.com
 469668.com
 46967.tw
@@ -32529,6 +32603,7 @@
 46aeny6a.tokyo
 46af0e80a6ef.com
 46aft.com
+46agne.shop
 46aguja.asia
 46ah.com
 46ai6wkf.xyz
@@ -32693,6 +32768,7 @@
 46e180.com
 46e1m.com
 46e38.com
+46e57thst.com
 46e76.com
 46e899444ef5.xyz
 46e91.com
@@ -32924,6 +33000,7 @@
 46ky.com
 46kz.com
 46l.cc
+46l0d5.shop
 46l3d.top
 46labs.co.uk
 46labs.network
@@ -33008,6 +33085,7 @@
 46mvp.xyz
 46mx.cc
 46n2.net
+46n4wu.shop
 46n5.com
 46n62k.cyou
 46n95x.shop
@@ -33153,7 +33231,6 @@
 46sk.com
 46sk95.cyou
 46slottica.com
-46snahaytajbungaslot.com
 46so.com
 46solution.com
 46sp.com
@@ -33206,6 +33283,7 @@
 46ttt.com
 46tttt.com
 46ttva.com
+46tu28.shop
 46tuan.cn
 46tuopan.com
 46tv.ru
@@ -33731,6 +33809,7 @@
 471bhkm2.com
 471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
 471ch.com
+471coakley.com
 471dd.com
 471dinamobet.com
 471dz7eh.com
@@ -34389,6 +34468,7 @@
 4747650.com
 4747678.com
 474777.com
+4747777.com
 47478177.com
 474797.com
 4747c.com
@@ -34708,6 +34788,7 @@
 475cca6b567a.com
 475ch.com
 475com.cn
+475connecticut.com
 475e10888.com
 475elgranada.com
 475ex15.cn
@@ -34820,6 +34901,7 @@
 4763zy.xyz
 4764.ro
 4764.se
+47642.net
 47645342475.xyz
 4764545.com
 4764555.com
@@ -35068,7 +35150,6 @@
 4776hidaway.com
 4777.me
 4777.se
-4777.win
 47770.tv
 4777001.xyz
 477702.com
@@ -35157,6 +35238,7 @@
 477ks.com
 477kv.com
 477ledong.com
+477lel.shop
 477manbetx.com
 477manx.com
 477mm.com
@@ -35620,17 +35702,10 @@
 479908.com
 479909.com
 479912.com
-4799123.com
-4799234.com
-4799345.com
 479937e97ab2.com
 47994.net
-4799456.com
-4799567.com
-4799678.com
 47997.net
 47997510.com
-4799789.com
 47998748.com
 479992714.xyz
 479993.com
@@ -35894,7 +35969,6 @@
 47djpm.tw
 47dk.com
 47dkk.com
-47dmn.com
 47dp.com
 47dq.com
 47dudu.com
@@ -35945,6 +36019,7 @@
 47fitnessapparel.com
 47fl.com
 47flete.com
+47flsik.cyou
 47flw.com
 47fn.com
 47footwear.com
@@ -36298,6 +36373,7 @@
 47rere.com
 47riri.com
 47rivergrovelanelistingmls.com
+47rivobahis.com
 47rll.xyz
 47rmgf.cn
 47rn.com
@@ -36460,7 +36536,6 @@
 47wc72.cn
 47wct.com
 47wd.com
-47west.info
 47wfbw.cyou
 47wg0.top
 47wh.com
@@ -36481,12 +36556,12 @@
 47wxw.com
 47wyt.com
 47wz.com
+47x34.buzz
 47x39bcne.com
 47x6.com
 47x94fa8.com
 47xam.cc
 47xam.com
-47xam.live
 47xas.asia
 47xc.com
 47xcti.cyou
@@ -36747,7 +36822,6 @@
 4809555.com
 48097.uk
 48098.com.cn
-480981.com
 480983.com
 480986.com
 480988.com
@@ -36815,8 +36889,6 @@
 480nn.com
 480npr.buzz
 480oo.com
-480p.xyz
-480p1.xyz
 480p10.xyz
 480p11.xyz
 480p12.fun
@@ -36979,6 +37051,7 @@
 4817.com
 4817.tw
 4817.xyz
+48170.online
 48173.uk
 481735.space
 481741.com
@@ -37117,6 +37190,7 @@
 48232.one
 48233.biz
 48233.cn
+48234.cc
 482340.space
 482342.com
 48238.com
@@ -37340,6 +37414,7 @@
 48336x.com
 48336y.com
 48338.com
+48338.net
 48339.cn
 4833c.com
 4833q.com
@@ -37411,6 +37486,7 @@
 4838h.com
 4838p.com
 4838r.com
+4839.cx
 4839.ro
 4839.st
 48390.fun
@@ -38126,6 +38202,7 @@
 4859bb.com
 4859bbb.com
 4859c.com
+4859c.xyz
 4859cc.com
 4859ccc.com
 4859d.com
@@ -38692,6 +38769,7 @@
 4877s.com
 4877uw.com
 4878.ci
+4878.cx
 4878.gs
 487801.com
 487808525e22.tokyo
@@ -38811,6 +38889,7 @@
 488118.com
 48812.cn
 4881234.com
+488128.com
 48813.cn
 48813875adb7.com
 488166.com
@@ -38946,6 +39025,7 @@
 4888.fun
 4888.info
 4888.loan
+4888.uk
 48880.net
 488812.com
 48882.com
@@ -39015,6 +39095,7 @@
 488in.com
 488jokergame.com
 488jyh.com
+488k51.shop
 488kf.com
 488km.com
 488kp.vip
@@ -39209,29 +39290,24 @@
 48988.vip
 489886.com
 4899.us
-4899123.com
 48992.com
-4899234.com
 489925.com
 48993.cn
 48993.com
 48993.tw
-4899345.com
 4899418.vip
-4899456.com
 48995.ac
 48995.com
-4899567.com
 48996.tech
 489962.com
 48996545.com
-4899678.com
 489985.cc
 4899hg.com
 4899v.com
 489aa.com
 489ag.com
 489ak.vip
+489artemisbet.com
 489bahsine.com
 489bb.com
 489betelegance.com
@@ -39419,6 +39495,7 @@
 48cp8.com
 48cp9.com
 48cr.com
+48cr67.shop
 48crayons.com
 48cs.uk
 48csipu37f2.top
@@ -39516,7 +39593,6 @@
 48findx5.top
 48fitness.co.in
 48flw.com
-48food.com
 48foodstreet.gr
 48forcesupport.com
 48forcharity.com
@@ -39560,6 +39636,7 @@
 48goldengate.com
 48gorabet.com
 48gp.us
+48gptf.shop
 48gr.com
 48grams.com
 48grand-casino.com
@@ -40025,6 +40102,7 @@
 48rhif.site
 48ridgewooddr.com
 48rivers.com
+48rivobahis.com
 48rj.com
 48rk.com
 48rl.com
@@ -40592,6 +40670,7 @@
 490queenbet.com
 490ridgewoodavegr.com
 490rr.com
+490sh5.shop
 490sk.com
 490ss.com
 490studios.com
@@ -40756,7 +40835,6 @@
 49158b.com
 49158c.com
 49159.uk
-4915harbord.com
 4916.cm
 4916.ru
 4916.us
@@ -40782,7 +40860,6 @@
 4917.lt
 49170.biz
 49171.cn
-49175.co
 491750.com
 4917555.com
 491760.com
@@ -40836,6 +40913,7 @@
 491cz.com
 491dinamobet.com
 491e7211e962.com
+491ea2.shop
 491ee.com
 491f11cd1e5e.com
 491ff.com
@@ -41452,6 +41530,7 @@
 49477.com
 494778.com
 4947888.com
+4947y10.cyou
 4948.live
 4948.us
 49481.com
@@ -42235,7 +42314,9 @@
 496ch.com
 496cxt.cyou
 496dinamobet.com
+496dorhjc3.com
 496dumanbet.com
+496einit.cfd
 496f4.com
 496f4f9b2c30.com
 496fabric.com
@@ -42597,6 +42678,7 @@
 498395.com
 4983k.com
 4983s.xyz
+4984.cx
 498403.com
 49841.co
 4984555.com
@@ -43551,7 +43633,6 @@
 49d.me
 49d.shop
 49d.top
-49d228b7efd31cec4bb5c5ea117c8b14.xyz
 49d49.com
 49d584aa61db.com
 49d7ac4ee635.com
@@ -43939,6 +44020,7 @@
 49kw.com
 49ky.com
 49kz.com
+49l.cc
 49l.pw
 49l49.com
 49l5td.cyou
@@ -44074,6 +44156,7 @@
 49nz.com
 49o.cc
 49o327.cyou
+49oeut.shop
 49off.com
 49oi.com
 49oj.com
@@ -44133,6 +44216,7 @@
 49q1l.com
 49q59.cc
 49q8.top
+49q8fc.shop
 49qb.com
 49qk.com
 49ql.com
@@ -44249,6 +44333,7 @@
 49t3be374pp3a.fun
 49t49.cc
 49t49.com
+49t5pu.shop
 49t7.hk
 49t7.us
 49t7hk.com
@@ -44346,7 +44431,9 @@
 49tu.com
 49tu.net
 49tu.vip
+49tu.xyz
 49tuku.net
+49tuku.xyz
 49tuzhi.cc
 49tuzhi.com
 49tv.cc
@@ -44806,6 +44893,7 @@
 4accountsreceivable.com
 4accoxmup6b5.top
 4accreditedinvestors.com
+4acdbyri.cfd
 4ace.ro
 4acejewelz.com
 4acemafiallc.com
@@ -44830,12 +44918,14 @@
 4acesshop.com
 4acessmokeshop.com
 4acestaxi.ca
+4aceswholesale.com
 4acharming.com
 4achiro.com
 4ack.com
 4acnh.com
 4acnow.com
 4acoaching.com
+4acocx.shop
 4acoffee.com
 4acoin.org
 4acrepair.com
@@ -44953,6 +45043,7 @@
 4africanamerican.com
 4africanamericans.com
 4afrikaans.com
+4afs84.shop
 4afstore.com
 4aftr.com
 4afxkm87.com
@@ -44978,7 +45069,6 @@
 4ages.co.uk
 4aggies.com
 4agirl.com
-4agraphicsofgeorgia.com
 4agreatnature.com
 4agri.com.br
 4agri.farm
@@ -45014,9 +45104,11 @@
 4aiai.vip
 4aiai.win
 4aiai.zone
+4aicddd.cyou
 4aid.it
 4aiea.org
 4aiekvs.com
+4aifw6.shop
 4aikido.com
 4ailrkn.com
 4ain.com
@@ -45030,6 +45122,7 @@
 4aits.com
 4aitt.com
 4aizow.com
+4aj87tee.xyz
 4ajd.net
 4ajdesigns.com
 4ajersey.com
@@ -45291,6 +45384,7 @@
 4andylee.info
 4andyq.top
 4ane.com
+4anehk.shop
 4anews.xyz
 4ange.store
 4ange.xyz
@@ -45583,6 +45677,7 @@
 4auh2u.com
 4aul1a44.tech
 4auniqshape.com
+4auor5.shop
 4auot.cn
 4aura4.live
 4aurora.com
@@ -45786,6 +45881,7 @@
 4b4c.top
 4b4g.com
 4b4lk.com
+4b4m0x.shop
 4b4skg.com
 4b4sz.buzz
 4b4t.de
@@ -46221,7 +46317,6 @@
 4bezh.us
 4bfafe3ab005.com
 4bfarmandcampground.com
-4bfb57e1.com
 4bfeedstore.com
 4bfip6e.space
 4bfk.us
@@ -46248,7 +46343,6 @@
 4bgroup.com.au
 4bgs7p.com
 4bgsd.xyz
-4bgswx.com
 4bh.co
 4bh1dp.cyou
 4bh21.com
@@ -46459,6 +46553,7 @@
 4bluetech.shop
 4blvphh6c.xyz
 4blyh0.space
+4blzet.shop
 4bm.net
 4bm1jfu0.cc
 4bm1w61.cn
@@ -46628,7 +46723,6 @@
 4bridges.com
 4brightbeginners.com
 4brile.com
-4brilliants.com
 4brimz.com
 4brindleyplace.co.uk
 4bristol.com
@@ -46927,6 +47021,7 @@
 4c0c79833f53.com
 4c0du.xyz
 4c0dyn5feg6.top
+4c0g5c.shop
 4c0i3z.cyou
 4c0kqhk72ok3.ru
 4c0l6s.cyou
@@ -46965,6 +47060,7 @@
 4c3d4h.com
 4c3e2u.cyou
 4c3je3.com
+4c3sgm.shop
 4c3ubepr0z0.vip
 4c42.com
 4c43.me
@@ -47032,6 +47128,7 @@
 4c8b519c6a99.com
 4c8n1r.xyz
 4c8qqx.live
+4c8qw9.shop
 4c8r.us
 4c8t.com
 4c8y3rg.tokyo
@@ -47095,6 +47192,7 @@
 4camk.com
 4camps.cc
 4camps.one
+4cams.cam
 4cams.com.es
 4cams.fr
 4cams.net
@@ -47459,6 +47557,7 @@
 4cforkids.com
 4cforkids.org
 4cforu.com
+4cfsrx.shop
 4cg.biz
 4cg.one
 4cg4.us
@@ -47642,6 +47741,7 @@
 4ci.org.uk
 4ci0c47.com
 4ci6piu66.com
+4ci8hx.shop
 4cid5u.buzz
 4cidr4bbit.com
 4ciel.my.id
@@ -47673,6 +47773,7 @@
 4civilengineering.com
 4cj11.click
 4cj6kpblukd.net
+4cjeqf.shop
 4cjis.com
 4cjiyvq.top
 4cjn.com
@@ -47688,6 +47789,7 @@
 4ckinks.com
 4ckm.com
 4ckx83a67lud.fun
+4cl4rx.shop
 4clabs.ca
 4clabs.co
 4clabs.uk
@@ -47756,6 +47858,7 @@
 4clubsites.com
 4clubsites.org
 4clwiv.com
+4clwon.shop
 4cm.co.uk
 4cm.in
 4cm36i.com
@@ -47887,6 +47990,7 @@
 4compton.com
 4compuelectron.com
 4computer.co
+4computer.net
 4computercoupons.com
 4computerparts.com
 4comunicacao.com.br
@@ -47936,7 +48040,6 @@
 4copyleasing.com
 4cor9d.cyou
 4corals.com.sg
-4corders.com
 4coreclean.com
 4cored.com
 4corems.com
@@ -48145,7 +48248,6 @@
 4cscoilcleaningandgasketrepair.com
 4cscorp.com
 4cscwj.buzz
-4cset.com
 4csfarm.com
 4csgroupllc.com
 4csh.net
@@ -48197,6 +48299,7 @@
 4cublism.com
 4cucuc9t.buzz
 4cue.shop
+4cuiqingyao.com
 4cuisines.com
 4cukbbj11z.com
 4culers.com
@@ -48236,6 +48339,7 @@
 4cuznseventandcatering.com
 4cv1f.cn
 4cva.com
+4cvaq6u.cyou
 4cvb.link
 4cvv.com
 4cvw.com
@@ -48373,6 +48477,7 @@
 4d228.com
 4d228.net
 4d228.org
+4d22dx.shop
 4d2641.net
 4d27e3b4f897.com
 4d2842717d53db90fbc6be58abdc530353ca547e.com
@@ -48704,7 +48809,6 @@
 4dcards.com
 4dcargo.com
 4dcars.co.uk
-4dcat.com
 4dcconstruction.com
 4dccreativesolutions.com
 4dcd5u.tw
@@ -48829,7 +48933,6 @@
 4ded.shop
 4dedic.su
 4dedicatedlife.com
-4dedicatedservers.com
 4deed.com
 4deep.club
 4deepbets.com
@@ -49030,6 +49133,7 @@
 4dheatingandplumbing.co.uk
 4dherb.com
 4dherbs.com
+4dhhp1.shop
 4dhi1brbgpnn.com
 4dhidhdihdiue990.com
 4dhijabi.com
@@ -49050,6 +49154,7 @@
 4dhzqy.com
 4di.eu
 4di.mobi
+4di566.shop
 4diac.com
 4diamondpaws.co.uk
 4diamondsdesigns.com
@@ -49165,7 +49270,6 @@
 4diyibanzhu.cc
 4diyibanzhu.xyz
 4diymama.com
-4dj.co
 4dj.eu
 4dj.xyz
 4dj458.cn
@@ -49239,6 +49343,7 @@
 4dlearningcenter.org
 4dlearningcoach.com
 4dlearningsolutions.com
+4dlghl.shop
 4dlicht.de
 4dlights.com
 4dlion.com
@@ -49251,14 +49356,12 @@
 4dlive2u.co
 4dlivebet.com
 4dlivedraw.biz
-4dlivedraw.club
 4dlivedraw.xyz
 4dlivepro.com
 4dlivepro.net
 4dliveresult.com
 4dliveresult.net
 4dliveresults.com
-4dllc.biz
 4dllc.net
 4dlo.com
 4dlottery.club
@@ -49270,6 +49373,7 @@
 4dloveofgaia.com
 4dlpyn.cyou
 4dluck.com
+4dlucky.info
 4dluckywin.com
 4dlwu2.cyou
 4dm.cc
@@ -49353,6 +49457,7 @@
 4dnana.org
 4dnanutrition.com
 4dnaplus.com
+4dnatransport.com
 4dncphoto.com
 4dnew.ru
 4dngine.com
@@ -49370,6 +49475,7 @@
 4dns.zone
 4dntlb.cyou
 4dnumber.com
+4dnumber.net
 4dnursery.com
 4dnyhl.xyz
 4dnyonya.net
@@ -49424,7 +49530,6 @@
 4doktors.com
 4dollar.website
 4dollar7up.site
-4dollarbazaar.com
 4dollarshop.com
 4dollarstock.com
 4dollayagolf.xyz
@@ -49534,6 +49639,7 @@
 4dpocket.org
 4dpockets.co.jp
 4dpockets.com
+4dpofe.shop
 4dporkas.com
 4dpot.com
 4dpr.co
@@ -49855,7 +49961,6 @@
 4dultrasound.org
 4duluth.com
 4dummies.com
-4dunedinct.com
 4duniversity.com
 4dunwoody.com
 4duozo.club
@@ -50077,6 +50182,7 @@
 4e8frf6.cn
 4e8nga.xyz
 4e8oet.com
+4e8pc9.shop
 4e8s.cc
 4e8t7.top
 4e91ab11dee1.com
@@ -50407,6 +50513,7 @@
 4eman.pl
 4emb35.cyou
 4embed.com
+4embed.live
 4embed.xyz
 4emd.com
 4emeacteprod.com
@@ -50522,6 +50629,7 @@
 4eq2ne.cyou
 4eqa2nq.cn
 4eqe4e.cyou
+4eqkz7.cyou
 4eqmtp.com
 4eqmtx.cyou
 4eqt.org
@@ -50540,7 +50648,6 @@
 4erdfdhdf.xyz
 4erdsdf.com
 4erection.com
-4ereklam.com
 4erepaxa.ru
 4erevolution.com
 4erfdt.my.id
@@ -50648,6 +50755,7 @@
 4etz.shop
 4eu.org
 4eu2dkhn.com
+4eu3d5.shop
 4eualliance.eu
 4eualliance.pl
 4eugene.com
@@ -50979,6 +51087,7 @@
 4everloved.org
 4everlovefashionbtqshop.com
 4everlovejewelry.com
+4everlux.com
 4everluxury.com
 4everlyhercollection.com
 4evermagiccosmetics.com
@@ -51170,6 +51279,7 @@
 4ew.top
 4ew3.shop
 4ew9hk.xyz
+4ewb39.shop
 4ewf10p.com
 4ewriting.com
 4ewu.com
@@ -51299,6 +51409,7 @@
 4f2l10.cyou
 4f2rjx.cyou
 4f2s.com
+4f2wqqk.cyou
 4f34v.cn
 4f36fde0799a.com
 4f37ub.com
@@ -51375,6 +51486,7 @@
 4f8be4709c87.com
 4f8d-f48sd-g4d8f5.xyz
 4f8f.com
+4f8ir4.shop
 4f8s.com
 4f8s4-fs48f-a4e8fg.xyz
 4f8w2e.shop
@@ -51429,6 +51541,7 @@
 4fallen4angel4.com
 4fallout.fr
 4fam.fr
+4famaily.com
 4familieshealthcare.com
 4family.co
 4family.net.ru
@@ -51555,6 +51668,7 @@
 4fddp3.xyz
 4fde1070a4cf.com
 4fdeals.com
+4fdebx.shop
 4fdf59.cn
 4fdf914295bd.com
 4fdfd572cc11.com
@@ -51631,7 +51745,6 @@
 4ffzjdc.top
 4fg.xyz
 4fg0oa.cyou
-4fg1mi.tokyo
 4fg8.shop
 4fg8.space
 4fg8d-4fd8g-clo416.com
@@ -51644,6 +51757,7 @@
 4fgroup.ir
 4fgs-4kh5-f4g5d.xyz
 4fgtjhg.cn
+4fgv9c.shop
 4fgvzzs.space
 4fgzln.xyz
 4fh6.com
@@ -51652,6 +51766,7 @@
 4fhf8.za.com
 4fhjc.us
 4fhjv.us
+4fhse4.shop
 4fhsk.xyz
 4fhv.com
 4fi.net
@@ -51674,6 +51789,7 @@
 4figurehobby.com
 4figureskating.com
 4figuresociety.com
+4fih6j.shop
 4fiji.com
 4fil.com
 4fil.es
@@ -51714,6 +51830,7 @@
 4fipl.com
 4firearms.com
 4firefighters.com
+4firescatters.club
 4firescatters.com
 4firetrucks.com
 4fireworks.com
@@ -51848,6 +51965,7 @@
 4fnetworks.com
 4fnetworkstrk.com
 4fnords.buzz
+4fnphotography.com
 4fnpyx.cyou
 4fntl.ru
 4fntum.shop
@@ -51970,6 +52088,7 @@
 4fpa.xyz
 4fpamce.cyou
 4fpay.cn
+4fpd7x.shop
 4fpif4oxa.xyz
 4fpl.com
 4fpllc.com
@@ -52323,6 +52442,7 @@
 4fz266qsu.com
 4fz3hh.xyz
 4fz87e.com
+4fzd.cc
 4fzdpg3ig.xyz
 4fzhzq.cyou
 4g-5g.ru
@@ -52857,6 +52977,7 @@
 4g2in.top
 4g2lo.top
 4g2t0.shop
+4g2y2x.shop
 4g3.cc
 4g311j4a8gcymkuibq71l5.club
 4g365.com
@@ -53117,9 +53238,7 @@
 4gb-free7.xyz
 4gb-free8.xyz
 4gb-free9.xyz
-4gb1di.com
 4gb2b.com
-4gb66f.tw
 4gbaby.xyz
 4gbackhaulconference.com
 4gbak.xyz
@@ -53131,7 +53250,6 @@
 4gblin.online
 4gblnc.xyz
 4gbls.com
-4gbmzt.tw
 4gbnetwork.xyz
 4gboosters.com.au
 4gbox.cn
@@ -53178,7 +53296,6 @@
 4gd.io
 4gd3lj.cyou
 4gd5-j4f7-4df5s1.xyz
-4gd6wx.tokyo
 4gd7mf.com
 4gdata-4u.com
 4gdata.shop
@@ -53616,12 +53733,14 @@
 4gjdilafigrf.com
 4gje.com
 4gjfrn.shop
+4gjqmir.cyou
 4gjv3x.shop
 4gk-publishing.com
 4gk7mqcc.xyz
 4gkbynzu7c.click
 4gkc8.com
 4gkds.com
+4gkdsc.shop
 4gki6wi.us
 4gkidsgpswatch.com
 4gking.host
@@ -53633,6 +53752,7 @@
 4gl.io
 4gl.uk
 4gl07g3o.com
+4glade.com
 4glakala.com
 4glam.com
 4glamboutique.com
@@ -53679,7 +53799,6 @@
 4glte.site
 4glteunlimited.com
 4gltky.cyou
-4glunei.tokyo
 4gm8kv9idn.top
 4gmarcinho.tech
 4gmarketing.co.uk
@@ -53693,7 +53812,6 @@
 4gmessaging-vmobl.com
 4gmienphi.club
 4gmienphi.com
-4gmienphi.site
 4gmlxj.cyou
 4gmobi.com
 4gmobi.vn
@@ -53802,7 +53920,6 @@
 4goodtechnology.org
 4goodwood.buzz
 4goosh.ir
-4gorabet.com
 4gorabettv.com
 4gordonix.com
 4goshe.ir
@@ -53863,6 +53980,7 @@
 4gracz.pl
 4graf.pl
 4grammar.com
+4grammarly.com
 4granchsupply.com
 4grand-casino.com
 4grandbetting.com
@@ -54062,7 +54180,6 @@
 4gutierrez.com
 4guts.com
 4gutters.com
-4guudai.online
 4guudai.space
 4gux.com
 4guys.com.au
@@ -54245,22 +54362,19 @@
 4h64c.com
 4h65ye.tw
 4h6830.shop
-4h6h.cc
+4h69u3.shop
 4h6i7cmk7t5.tokyo
 4h6jpd.cyou
 4h6ncvoda398da.fun
 4h6oxu.cyou
 4h7.cc
-4h76.shop
+4h730h.shop
 4h79.com
 4h7e73.cyou
 4h7h.top
-4h7qbj.tw
 4h7vwlcrlyxmmczqfxem4ml9.com
-4h7xwq.shop
 4h7z.icu
 4h8.cc
-4h8.top
 4h83d1.cyou
 4h844g.cyou
 4h87.com
@@ -54309,6 +54423,7 @@
 4hamlet.com
 4hammers.com
 4hampers.com
+4handles.co.uk
 4handles.com
 4handofluck.com
 4hands-center.ru
@@ -54506,6 +54621,7 @@
 4hf9nonretardation.buzz
 4hf9nonretardation.rest
 4hfaka.com
+4hffme.shop
 4hfl3r.cyou
 4hfoundation.net
 4hg.mx
@@ -54659,6 +54775,7 @@
 4hkxvu.cyou
 4hl.me
 4hl0pg.cyou
+4hl7ux.shop
 4hle.com
 4hlib.com
 4hlistesi.shop
@@ -54703,6 +54820,7 @@
 4hoge.com
 4hogs.org
 4hoi.icu
+4hoj3e8.cyou
 4hold.store
 4holdroyd.com
 4holiday.eu
@@ -54904,6 +55022,7 @@
 4hrklh.xyz
 4hrms.com
 4hrpreneur.com
+4hrrmg.shop
 4hrs.tech
 4hrshield.net
 4hrshieldglove.com
@@ -54925,6 +55044,7 @@
 4hsjadsd13.monster
 4hsummersmash.com
 4ht.shop
+4htbl0.shop
 4htegfsv.bond
 4htet.com
 4htgj.xyz
@@ -56886,7 +57006,6 @@
 4hue04.com
 4hue05.com
 4hue06.com
-4hue07.com
 4hue08.com
 4hue09.com
 4hue10.com
@@ -59766,6 +59885,7 @@
 4hy1p9.xyz
 4hy3.com
 4hy3y16.us
+4hy5yx.shop
 4hy9.com
 4hyapp.com
 4hyaz1.com
@@ -59922,6 +60042,7 @@
 4ida.site
 4idahofalls.com
 4ide.com
+4idea.ir
 4idealinnovations.com
 4ideasdigital.com
 4ideben.com
@@ -60020,6 +60141,7 @@
 4ikcl6.buzz
 4ikgid.cn
 4ikgty.cyou
+4ikh3d.cyou
 4iki.net
 4ikjhtr46fd12.xyz
 4ikjhtr46fd12sdf.xyz
@@ -60291,6 +60413,7 @@
 4iq.lt
 4iq.lv
 4iq27g.cyou
+4iq9a3.shop
 4iqb1104.icu
 4iqc.com
 4iqesports.in
@@ -60306,6 +60429,7 @@
 4ir.uk
 4ir.ventures
 4ir.xyz
+4ir1s1.shop
 4ir25oufgu.click
 4ir403a.cn
 4ir4all.com
@@ -60327,6 +60451,7 @@
 4irjob.com
 4irnegara.gov.my
 4iron.com.tw
+4ironmongery.co.uk
 4ironmongery.com
 4irtech.com.bd
 4iruge.xyz
@@ -60492,6 +60617,7 @@
 4j4cv.asia
 4j4j.cn
 4j4j.net
+4j4qr6.shop
 4j4u.com
 4j4xkta9.xyz
 4j4xpl.cyou
@@ -60505,6 +60631,7 @@
 4j62g9jh58fh.top
 4j695o.cyou
 4j6k.com
+4j6k7p.cz
 4j6lhm.cn
 4j6ui7z.cn
 4j70ng.shop
@@ -60566,6 +60693,7 @@
 4jay.de
 4jayed.com
 4jb.net
+4jbb0k.shop
 4jbbhi.cyou
 4jbd.com
 4jbe6s.cyou
@@ -60742,6 +60870,7 @@
 4jmsolutions.com
 4jmxdi.cyou
 4jmy3e.xyz
+4jn160.shop
 4jn32i.cyou
 4jn7q.top
 4jnh83.com
@@ -60811,6 +60940,7 @@
 4js25rf.com
 4js333.com
 4js38fa9.shop
+4js5ob.cyou
 4jscandleco.com
 4jschoolchoice.com
 4jscleaning.com
@@ -60835,6 +60965,7 @@
 4jtbvrx610r9.com
 4jthzo.cyou
 4jtire.com
+4jtn825.cyou
 4jtravel.com.ar
 4ju.top
 4ju0yi.buzz
@@ -60930,7 +61061,6 @@
 4k-2mm.com
 4k-37.com
 4k-3k.com
-4k-50inch-tv.club
 4k-5k.com
 4k-69.com
 4k-6k.com
@@ -61072,6 +61202,7 @@
 4k0czi.xyz
 4k1080.com
 4k1111.xyz
+4k11rx.shop
 4k15.com
 4k157.us
 4k170.com
@@ -61129,6 +61260,7 @@
 4k499.com
 4k4a.live
 4k4charity.com
+4k4iptv.com
 4k4k.ir
 4k4k.net
 4k4k.tv
@@ -61215,6 +61347,7 @@
 4k9a.live
 4k9b.com
 4k9c.com
+4k9edk7r.cfd
 4k9gmb.click
 4k9h.com
 4k9ize.com
@@ -61543,6 +61676,7 @@
 4kflashlights.com
 4kflexrental.com
 4kfo3b.cc
+4kfollowers.shop
 4kfood.com
 4kforcancer.org
 4kforcedsexvideos.com
@@ -61622,6 +61756,8 @@
 4khdsexvideo.com
 4khdstreambox.com
 4khdstreamsbox.com
+4khdtiger.info
+4khdtv.info
 4khdtvstore.com
 4khdvip.net
 4khdwalls.com
@@ -61641,6 +61777,7 @@
 4khospitality.in
 4khotgirls.online
 4khoune.com
+4khpnq.shop
 4khq.com
 4khsdjfsdf4.monster
 4khub.cn
@@ -61780,6 +61917,7 @@
 4kingslots.com
 4kingslotscasino.net
 4kingslotwallet.com
+4kingsnews.com
 4kingsoriginalshop.online
 4kingsphoto.com
 4kingsplay.com
@@ -61829,6 +61967,7 @@
 4kiptvuk.online
 4kitchen.shop
 4kitchenknives.com
+4kitchens.co.uk
 4kitchensetc.com
 4kitchenstore.com
 4kitchenware.com
@@ -61882,6 +62021,7 @@
 4klan.pl
 4kland.com
 4klc.us
+4klcdm4.cyou
 4kld.co
 4kledtvreview.com
 4klegends.xyz
@@ -61899,7 +62039,6 @@
 4klistesi.shop
 4klive.co
 4kliveonlinehd.com
-4klivestream.online
 4klo.shop
 4kloan.com
 4klondondop.co.uk
@@ -62362,6 +62501,7 @@
 4kuhdsport.com
 4kuhdsports.com
 4kuhve.cyou
+4kuk0ao.cyou
 4kultra.co
 4kultra.icu
 4kultra.lol
@@ -62416,6 +62556,7 @@
 4kvip.net
 4kvip.xyz
 4kvipfilm.com
+4kviphd.info
 4kvipizle.xyz
 4kviptv20.com
 4kviva.xyz
@@ -62567,6 +62708,7 @@
 4l5.net
 4l51zgye.com
 4l57sniz1.xyz
+4l5axrc.cyou
 4l5m.vip
 4l5p.com
 4l5qpi.com
@@ -62931,7 +63073,6 @@
 4lfftn.shop
 4lfg.top
 4lfilms-projects.com
-4lfrsmiami.com
 4lfrtil.com
 4lfs8f.cyou
 4lfxzu.com
@@ -62949,6 +63090,7 @@
 4lh.xyz
 4lh7z.com
 4lhbg8.cyou
+4lhdbf.shop
 4lhgdh.com
 4lhjsl.cyou
 4lhlk4.cyou
@@ -63222,6 +63364,8 @@
 4lj9.shop
 4ljewelry.com
 4ljlwx.shop
+4ljo0f.shop
+4ljsms.cyou
 4lk.net
 4lk3jv.xyz
 4lk7xvs.tokyo
@@ -63233,6 +63377,7 @@
 4lkustomkreations.com
 4lkz77j.com
 4ll0kw.shop
+4ll2d3u.cyou
 4ll2me.xyz
 4ll7.com
 4llandmanagement.com
@@ -63260,6 +63405,7 @@
 4lmu.shop
 4ln.me
 4ln9qo.buzz
+4lnbpu.shop
 4lnchf.com
 4lncl.fun
 4lnd3.top
@@ -63600,6 +63746,7 @@
 4m55.com
 4m5dx.info
 4m5gpf.shop
+4m5s8g.shop
 4m6.net
 4m622.top
 4m64z8n3c.vip
@@ -63625,6 +63772,7 @@
 4m8sonly.com
 4m98xzr.cn
 4m9dhy.net
+4m9dk3.shop
 4m9g.link
 4m9n8x.shop
 4m9puax.cyou
@@ -63951,6 +64099,7 @@
 4me4u.shop
 4me4you.de
 4me7.com
+4me7ux.shop
 4mea.com
 4meahc.com
 4meandyou.shop
@@ -64293,6 +64442,7 @@
 4mlaw.com
 4mlc97.cyou
 4mlegacy4.com
+4mlfxcb.cyou
 4mlife.com
 4mlinux.com
 4mlistesi.shop
@@ -64380,6 +64530,7 @@
 4mohati.pw
 4moimocelulares.com
 4mois-book.com
+4mol9j.shop
 4moldfacts.com
 4moldova.com
 4moles.com
@@ -64700,7 +64851,6 @@
 4muncie.com
 4mundocreativelabs.com
 4munich.com
-4mur.com
 4murfreesboro.com
 4murs1toit.be
 4musclecars.com
@@ -64715,7 +64865,6 @@
 4musicas.xyz
 4musicelements.com
 4musicians.eu
-4musicirani.xyz
 4musiclessons.com
 4musics.in
 4muslims.com
@@ -64731,6 +64880,7 @@
 4mvy66.tokyo
 4mvzlt.com
 4mw.pl
+4mw5qu.shop
 4mw7qrb8.xyz
 4mw9ot.shop
 4mwager.com
@@ -64757,6 +64907,7 @@
 4my2th.com
 4my3girls.com
 4myaccident.com
+4myamor.com
 4myazilim.com
 4mybaby.co.il
 4mybaby.com
@@ -64898,13 +65049,13 @@
 4n0ri7.cyou
 4n0thing.com
 4n0yj9.cyou
-4n1.top
 4n10.live
 4n11euiq5ugk.com
 4n1693.cyou
 4n17y3.com
 4n1a.me
 4n1ce5s.cyou
+4n1e7l.shop
 4n1entllc.com
 4n1g4j.cyou
 4n1hqmcoms.rest
@@ -65019,8 +65170,10 @@
 4n8i71.com
 4n8jun.com
 4n8ljiixz.xyz
+4n8qsx.shop
 4n8sfrbzuh.com
 4n8zwb.com
+4n92ht.shop
 4n96j.com
 4n99urc393r.com
 4n9aw62oa.vip
@@ -65075,6 +65228,7 @@
 4nascar.com
 4nashua.com
 4nassau.com
+4nata.live
 4nations.com.au
 4nations.online
 4nationsfoodcompany.com
@@ -65127,6 +65281,7 @@
 4nd.eu
 4nd1n1.tech
 4nd2j2i.cyou
+4nd3hk.shop
 4nd3tb.cyou
 4nd7vp.com
 4nd8.app
@@ -65231,6 +65386,7 @@
 4newsletters.com
 4newsplus.com
 4newsppl.xyz
+4newsquare.com
 4newstalk.com
 4newsy.com
 4newyear.org.ru
@@ -65260,7 +65416,6 @@
 4ngelit0s.com
 4ngelracingclubshop.com
 4ngelsapparel.com
-4ngi9i.com
 4ngiur.cyou
 4ngle.co
 4ngles.art
@@ -65278,6 +65433,7 @@
 4nhch0qi3hn0id4.cricket
 4nhjqr.cyou
 4nhktgsb.art
+4nho.com
 4nhokitablog.com
 4nhoxita.com
 4nhoxitae.com
@@ -65370,6 +65526,7 @@
 4nn4.de
 4nn5bqxg6.cfd
 4nna.com
+4nngax.shop
 4nni3.com
 4nni55a.live
 4nnisy4poho.tech
@@ -65455,6 +65612,7 @@
 4npg.top
 4npress.com
 4nps7n.com
+4npuqk.shop
 4nq7.shop
 4nq8t.com.cn
 4nq908.cyou
@@ -65462,6 +65620,7 @@
 4nqvnz.space
 4nqvvkpbbk.cf
 4nr.org
+4nr51i.shop
 4nr8yu.cyou
 4nranches.com
 4nrkjc.com
@@ -65604,7 +65763,6 @@
 4o3kki.com
 4o3n.shop
 4o3nxy.cyou
-4o3t.me
 4o4-app.eu
 4o4.au
 4o4.be
@@ -65615,6 +65773,7 @@
 4o44.cc
 4o46rn.cyou
 4o47m9.cn
+4o49tx.shop
 4o4gsw.cyou
 4o4k.com
 4o4l5h.com
@@ -65626,6 +65785,7 @@
 4o5.fr
 4o5.top
 4o5.xyz
+4o51u2.shop
 4o5n.com
 4o5qej.icu
 4o6.net
@@ -65645,6 +65805,7 @@
 4o7kw.com
 4o7r8o.cyou
 4o7theshop.com
+4o80s0qpgj5njw50.digital
 4o89n3stwe4zry52.digital
 4o8beautyandclothing.com
 4o8dhp.cyou
@@ -65679,6 +65840,8 @@
 4obectpfx.cfd
 4obey.com
 4obmen.com
+4obs.gr
+4obsjc.cyou
 4oby6.com
 4oc.ir
 4oc0kd.com
@@ -65743,6 +65906,7 @@
 4of.net
 4of.ru
 4of5bm.cyou
+4of6sd.shop
 4ofakind.store
 4ofakindesign.com
 4ofc.com
@@ -65783,6 +65947,7 @@
 4ogcg7s.xyz
 4ogden.com
 4ogic.xyz
+4ogkjn.shop
 4ogmnm.shop
 4ogwq86cce.xyz
 4ogyb8.buzz
@@ -66164,8 +66329,10 @@
 4p181q.cyou
 4p1igja.space
 4p1pi.fun
+4p1q1g.shop
 4p1ttp.cyou
 4p1wiz.cyou
+4p1y9l8.cyou
 4p23ou.cyou
 4p2ik5.cyou
 4p2j.shop
@@ -66191,6 +66358,7 @@
 4p4.cn
 4p40.top
 4p4001.cyou
+4p45ka.shop
 4p4byx.shop
 4p4g6h.cyou
 4p4hfivz5r.click
@@ -66227,6 +66395,7 @@
 4p869je.tokyo
 4p887.com
 4p8c.com
+4p8inx.shop
 4p8rug.xyz
 4p8vsx.shop
 4p8zwv.com
@@ -66441,6 +66610,7 @@
 4pawscollar.com
 4pawscountryclub.ca
 4pawsdepartment.com
+4pawsdoggroomer.com
 4pawsdowndogtraining.com
 4pawselements.com
 4pawsetc.ca
@@ -66615,6 +66785,7 @@
 4peoplewhocare.de
 4peoria.com
 4pep9s.cn
+4per9m.shop
 4pera.com
 4perabetmedya.com
 4percent.com
@@ -66744,7 +66915,6 @@
 4photoshop.com
 4photoshop.net
 4phponline.com
-4phuongkaraoke.com
 4phut.com
 4physicaltherapists.com
 4physiology.com
@@ -66938,7 +67108,6 @@
 4playtheband.co.uk
 4playtoys.buzz
 4playu.xyz
-4playzzz.com
 4plcargo.com
 4plcentral.com
 4pleasantgrove.com
@@ -67001,7 +67170,6 @@
 4pm6o.top
 4pm98t.cn
 4pmacademy.com
-4pmagazine.com
 4pmanufaktura.pl
 4pmarketingexperts.com
 4pmedicine.ru
@@ -67366,7 +67534,6 @@
 4pssolution.com
 4pstelecom.com.br
 4pstore.com
-4pstudio.com
 4psy.club
 4psy7r.cyou
 4psychiatric.com
@@ -67381,6 +67548,7 @@
 4ptl.com
 4ptl80.com
 4pto.ru
+4ptr4.me
 4ptracking.com
 4ptree.com
 4pts.online
@@ -67533,6 +67701,7 @@
 4q89gc.com
 4q8dgr.xyz
 4q8dq9.com
+4q8hdt.shop
 4q8r.com
 4q8shm.buzz
 4q8w6.com
@@ -67586,6 +67755,7 @@
 4qf21y.cyou
 4qf815.net
 4qf8nd.com
+4qf9e55.cyou
 4qfitblackfriday.com
 4qfl.com
 4qfqty.cyou
@@ -67652,6 +67822,7 @@
 4qmr.com
 4qmru9.buzz
 4qmsito.com
+4qn.cn
 4qn.org
 4qn7.xyz
 4qn9.com
@@ -67707,7 +67878,6 @@
 4qt.in
 4qt4bl.cyou
 4qtees.com
-4qtl.me
 4qtqxf5u1gfdfjfnv6r1qztss7035pgv.info
 4qtr.ca
 4qtrinvestments.com
@@ -67798,6 +67968,7 @@
 4r.com.au
 4r05r.sa.com
 4r07b0.cyou
+4r07ea.shop
 4r0jjg.cc
 4r0w.com
 4r1.com
@@ -67858,6 +68029,7 @@
 4r66tjps54v4.fun
 4r6a.shop
 4r6jlu.com
+4r6mn6.shop
 4r6u.shop
 4r6y12r.com
 4r75k.us
@@ -67865,6 +68037,7 @@
 4r7cfghn.space
 4r7d.com
 4r7ee8c3t.com
+4r7kvx.shop
 4r7moto.com
 4r7o1.us
 4r7q1y.live
@@ -68060,7 +68233,6 @@
 4rc4o.fun
 4rcbb6.cyou
 4rcc.com
-4rcdrones.com
 4rchib4ld.garden
 4rcleaningspecialist.com
 4rcltd.co.uk
@@ -68454,6 +68626,7 @@
 4ro2f.xyz
 4ro45w.cyou
 4ro5zf.xyz
+4ro6onz.cyou
 4ro7e.com
 4roadcargo.com
 4roadcargo.eu
@@ -68638,6 +68811,7 @@
 4ru.biz
 4ru.co
 4ru.xyz
+4ru22q.shop
 4ru3tp.cyou
 4ru5.com
 4ru50xp.tokyo
@@ -68696,12 +68870,14 @@
 4rv.us
 4rv4.com
 4rv6.com
+4rv6ox.shop
 4rvg.shop
 4rvi.com
 4rvpublishingcatalog.com
 4rvruniverse.space
 4rvstorage.com
 4rvyctr2byd.top
+4rw45o.shop
 4rw9es.cyou
 4rweb.net
 4rwellness.com
@@ -68713,6 +68889,7 @@
 4rx-onlinepharmacy.org
 4rx-pharmacy.org
 4rx.finance
+4rx1h5a.cyou
 4rx50z.cyou
 4rxdv.us
 4rxj890.cn
@@ -68724,6 +68901,7 @@
 4rxworld.su
 4ry.site
 4ry9lu.cyou
+4rybkx.shop
 4ryqyh.cyou
 4rys.top
 4rysprays.com
@@ -68767,6 +68945,7 @@
 4s1.com
 4s10m.com
 4s14b3tsa38.site
+4s185.com
 4s1fei.com
 4s1l.com
 4s1nbefc.com
@@ -68935,7 +69114,6 @@
 4santasuit.com
 4santasuit.info
 4santiago.com
-4sanx6uu.tw
 4sao0.com
 4sao1.com
 4sao2.com
@@ -68954,6 +69132,7 @@
 4saratoga.com
 4saratogasprings.com
 4sarcasm.com
+4sari.me
 4sashi.com
 4sassychicsboutique.com
 4sassygirlsboutique.com
@@ -68982,6 +69161,7 @@
 4saws.com
 4sayles.com
 4sb.london
+4sb01c.shop
 4sb0m5u.com
 4sb4tvr.cyou
 4sbaya.com
@@ -69554,10 +69734,10 @@
 4sgvdhgfsf44.monster
 4sgvya.com
 4sgzx.com
+4sh.com.au
 4sh.in
 4sh.me
 4sh.pl
-4sh.world
 4sh.xyz
 4sh20.com
 4shack.org
@@ -69643,6 +69823,7 @@
 4shopandme.com
 4shope.com.br
 4shophome.com
+4shopimport.com
 4shoping.online
 4shoping.shop
 4shoping4.com
@@ -69748,6 +69929,7 @@
 4signlanguage.com
 4signs2print.co.uk
 4signsplus.com
+4sihfx.shop
 4sihoki.com
 4siliconbeach.com
 4siliconpark.com
@@ -69938,6 +70120,7 @@
 4smartphone.net
 4smarts.com
 4smartsolutions.com
+4smartwife.com
 4smartworld.com
 4smcuj.com
 4smeju.kr
@@ -70008,6 +70191,7 @@
 4socialstudies.com
 4society.net
 4sociology.com
+4sockets.co.uk
 4sockets.com
 4socks-store.com
 4socks.com
@@ -70231,6 +70415,7 @@
 4srcustoms.com
 4srealty.com
 4sreptiles.com
+4srgm8.shop
 4srgv.xyz
 4srilanka.com
 4srll.com
@@ -70241,6 +70426,7 @@
 4ss.com.br
 4ss.dk
 4ss.xyz
+4ss3ma.shop
 4ss4.xyz
 4ss5.com
 4ss5.xyz
@@ -70308,6 +70494,7 @@
 4star-hotels.com
 4star-mauirentals.com
 4star-shop.com
+4star.aero
 4star.co.ao
 4star.com.tr
 4starbikeandchow.org
@@ -70511,7 +70698,6 @@
 4stickerlab.com
 4stihiitur.ru
 4stilus.hu
-4stinet.com
 4stiny.com.ua
 4stitch.com
 4stixii42.ru
@@ -70709,6 +70895,7 @@
 4surplus.com
 4survivalist.com
 4sussex.com
+4sutest.shop
 4sutest.xyz
 4sutest2.xyz
 4sutunhesaplama.com
@@ -70919,6 +71106,7 @@
 4t9gb2.com
 4t9xieb.com
 4ta.ir
+4ta48f.shop
 4taa.me
 4tab.ru
 4taba.net
@@ -71025,6 +71213,7 @@
 4tc7tz.cyou
 4tcc.org
 4tcfml.live
+4tch1c.shop
 4tck.com
 4tcn.com.cn
 4tcnnc.cyou
@@ -71047,6 +71236,7 @@
 4tdiw.buzz
 4tds.pw
 4tdvtwb.buzz
+4tdz2f.cyou
 4te-etage.de
 4te-events.com
 4te.ch
@@ -71564,7 +71754,6 @@
 4thenewyou.co.uk
 4thenewyou.com
 4thenmore.com
-4thenow.com
 4theoccasions.com
 4theocean.co
 4theocean.com
@@ -71792,6 +71981,7 @@
 4thro.com
 4throck.com
 4throns.com
+4throottea.com
 4throws.com
 4throws.xyz
 4thrust.com
@@ -71837,6 +72027,7 @@
 4thtrimesteraz.com
 4thtrimesteraz.org
 4thtrimestercare.org
+4thtrimestermission.com
 4thunter.net
 4thunter.top
 4thunter.xyz
@@ -71862,6 +72053,7 @@
 4thy4a.me
 4thyr.com
 4ti.net
+4ti0ay.shop
 4ti0x1.cyou
 4tian.cn
 4tibi.eu
@@ -71920,6 +72112,7 @@
 4tiw22.buzz
 4tiyu499.com
 4tja3j.biz
+4tjbif.shop
 4tjkn2.biz
 4tjohnson.com
 4tju2k9b1vts1.com
@@ -71936,6 +72129,7 @@
 4tkxoe9psha5.com
 4tl.nl
 4tl.pl
+4tl040.shop
 4tlasstore.com
 4tlegypt.com
 4tlhouse.com
@@ -71977,6 +72171,7 @@
 4tnnhr.cyou
 4tntjb.live
 4tnv.com
+4tnvwx.shop
 4to-darit.ru
 4to-official.shop
 4to-prazdnuem.ru
@@ -72049,6 +72244,7 @@
 4torque.com
 4torrentgames.net
 4tortuga.com
+4toru5s.cyou
 4toscuro.com
 4toshiba.com.ua
 4tosocial.com
@@ -72225,6 +72421,7 @@
 4tso.net
 4tst.nl
 4tsx1u.cyou
+4tsxfzy.cyou
 4tt.app
 4tt.me
 4tt0ype.buzz
@@ -72306,6 +72503,7 @@
 4tunatemarketing.com
 4tunatezempire.africa
 4tundestore-auto.com
+4tune.biz
 4tune.fun
 4tune.pro
 4tune.ru
@@ -72480,6 +72678,7 @@
 4u.wiki
 4u.wine
 4u.wtf
+4u03dt1.cyou
 4u090l.cyou
 4u0m9x.shop
 4u0owu0k86.xyz
@@ -72528,6 +72727,7 @@
 4u2mjn.cyou
 4u2movie.com
 4u2mr9.xyz
+4u2nex.shop
 4u2nhw.buzz
 4u2nvclothing.com
 4u2nvlipslashes.com
@@ -72555,6 +72755,7 @@
 4u360.dev.br
 4u3fb.us
 4u3geg3mbv64.com
+4u3gihwfmklfff.xyz
 4u3yh.xyz
 4u4.online
 4u4.top
@@ -72571,6 +72772,7 @@
 4u596sc8.com
 4u5b.com
 4u5da4.cyou
+4u5jt3.shop
 4u5k6w.cyou
 4u5na2t9to.com
 4u5ug.live
@@ -73062,6 +73264,7 @@
 4urkits.store
 4url.at
 4url.link
+4urluck.com
 4urmakeup.com
 4urock.com
 4urocknmetal.com
@@ -73421,6 +73624,7 @@
 4veneers.info
 4venice.com
 4vente.com
+4ventilation.co.uk
 4ventilation.com
 4ventos.com
 4ventos.eu
@@ -73640,6 +73844,7 @@
 4vtm2.us
 4vtncy.com
 4vtt.shop
+4vu0dx.shop
 4vubio.shop
 4vui9.com
 4vulkan6.club
@@ -73743,6 +73948,7 @@
 4w23ny.cyou
 4w26b.cn
 4w2a.com
+4w2d8r4.cyou
 4w2h.org
 4w2j6u.vip
 4w2w.com
@@ -73803,6 +74009,7 @@
 4w851.com
 4w88.com
 4w904q.cyou
+4w91sf.shop
 4w94t1rikq3gtd53.digital
 4w95qc.cyou
 4w97q6.cyou
@@ -73852,6 +74059,7 @@
 4wallsyork.co.uk
 4wallzboutique.com
 4wanbet.org
+4wanrx.shop
 4waranty.com
 4ward.click
 4ward.co.il
@@ -73956,6 +74164,7 @@
 4wayprofits.com
 4ways.net
 4ways.store
+4wayservice.com
 4wayshop.in
 4waysite.com
 4waysofpassiveincome.com
@@ -74001,6 +74210,7 @@
 4wd-cn.com
 4wd-hire-sydney.com.au
 4wd-mod.com
+4wd-nation.com
 4wd-nation.com.au
 4wd-rc.com
 4wd.arq.br
@@ -74044,7 +74254,6 @@
 4wdconnect.com
 4wdcrew.com
 4wddepot.com.au
-4wddirectory.com
 4wdetail.com
 4wdexplore.com.au
 4wdfix.com
@@ -74252,6 +74461,7 @@
 4wgr.cx
 4wgw.com
 4wh.cc
+4wh.de
 4wh5d8.cyou
 4wh9m2.com
 4whalenhomes.com
@@ -74332,6 +74542,7 @@
 4wheeltrends.com
 4wheeltruck.parts
 4wheelz.shop
+4whelx6.cyou
 4where.com
 4whhdf.cyou
 4whheelparts.com
@@ -74383,6 +74594,7 @@
 4williamsport.com
 4wills.co.uk
 4wilmington.com
+4wiltf.shop
 4wimg.cc
 4wimg.com
 4win-recruiting.de
@@ -74496,6 +74708,7 @@
 4wnacionaiseimportados.com.br
 4wnbf.com
 4wnbtb.ltd
+4wnel5.shop
 4wnh.com
 4wnjqsgapszvgwuyzlcrigzxfxzrjpiz.info
 4wnlocation.shop
@@ -74580,6 +74793,7 @@
 4wp07kv0ksw.fun
 4wp5ao.xyz
 4wp6.com
+4wp97e.shop
 4wpcustoms.com
 4wpgroup.com.au
 4wpk.com
@@ -74616,6 +74830,7 @@
 4wrustic.com
 4ws.com
 4ws.ir
+4ws3bb0.us
 4wsc.com
 4wsd19.com
 4wshop.com
@@ -74972,6 +75187,7 @@
 4x4lancashire.co.uk
 4x4land.pl
 4x4law.com
+4x4lidcovers.com
 4x4life.org
 4x4life.shop
 4x4lifestyleco.com
@@ -74995,6 +75211,7 @@
 4x4megaworld.co.za
 4x4megaworldonline.com
 4x4merica.com
+4x4mieten.de
 4x4minsk.com
 4x4modsaustralia.com.au
 4x4monkey39.com
@@ -75379,6 +75596,7 @@
 4xhuman.com
 4xif.com
 4xig.com
+4xihodz.cyou
 4xikgw.cyou
 4xincome.com.au
 4xincomestream.com
@@ -75401,7 +75619,6 @@
 4xj1zj.com
 4xj72x.shop
 4xje.shop
-4xjetlife.com
 4xjgbt.net
 4xk0.xyz
 4xka3y.tokyo
@@ -75834,6 +76051,7 @@
 4yl1000.cc
 4yl4jq.cyou
 4ylan.ru
+4ylc.space
 4ylistesi.shop
 4ylm6p.com
 4ym.app
@@ -75848,10 +76066,12 @@
 4ynd.com
 4yndxu.com
 4ynkrs.com
+4ynv3x.shop
 4ynwlet95p.cc
 4yo.cc
 4yo.xyz
 4yo9.buzz
+4yo9qmrf.cfd
 4yoc.com
 4yoeyez.com
 4yofitness.com
@@ -75925,7 +76145,6 @@
 4youbabe.ru
 4youbike.ch
 4youbluesky.com
-4youbr.com
 4youbrasil.com
 4youbutikerna.se
 4youbybere.com
@@ -75975,7 +76194,6 @@
 4youhome.com.br
 4youhotels.com
 4youimmobilier.com
-4youinvest.com.br
 4youjewelrydesigns.com
 4youjizzz.com
 4youksa.com
@@ -75995,7 +76213,6 @@
 4youngforever.com
 4youngmama.ru
 4youngstown.com
-4youno1.xyz
 4youodonto.com.br
 4youofc.com
 4youonline24.com
@@ -76090,7 +76307,6 @@
 4yourname.com
 4yournetwork.com
 4yournetwork.nl
-4yournetwork.pt
 4yournextstep.com
 4yourpeace.com
 4yourpet.com.br
@@ -76110,12 +76326,10 @@
 4yourstyle.gr
 4yourstyle.net
 4yourstyle.ru
-4yourstyle.xyz
 4yoursuponly.nl
 4yourtaste.de
 4yourtaste.pt
 4yourtech.com
-4yourtesla.com
 4yourtime.shop
 4yourtotalhealth.com
 4yourtots.co.uk
@@ -76133,8 +76347,6 @@
 4youscan.xyz
 4yousee.com
 4yousee.com.br
-4yousee.com.mx
-4yousee.mx
 4yousee.net
 4youshirt.de
 4youshoop.com.br
@@ -76152,11 +76364,9 @@
 4youstore.in
 4youstore.it
 4youstore.net.br
-4youstore.se
 4youstore.shop
 4youtech.com
 4youth.org.uk
-4youthebestchat.xyz
 4youthis.com
 4youtilidades.com
 4youtips.space
@@ -76173,6 +76383,7 @@
 4youwomen.com
 4youwomen.ru
 4youyouyou.com
+4yoz7x.shop
 4yp.me
 4ypakabra.ru
 4ypcpd.cyou
@@ -76342,6 +76553,7 @@
 4z832.com
 4z83jg.cyou
 4z83s.shop
+4z85gx.shop
 4z86.buzz
 4z8snvre00d5.xyz
 4z8ssyh.top
@@ -76363,6 +76575,7 @@
 4z9impulse.shop
 4z9jtn.cyou
 4z9lick.shop
+4z9mile.shop
 4z9multiply.shop
 4z9r.com
 4z9s63.cyou
@@ -76386,6 +76599,7 @@
 4zampestore.com
 4zamzam.com
 4zap.com.br
+4zarde9.cyou
 4zat4q.cyou
 4zathoth.xyz
 4zautostyling.co.za
@@ -76428,6 +76642,7 @@
 4zerotechnologies.com.au
 4zf.vip
 4zf4kbk.com
+4zf4sx.shop
 4zfcm.ml
 4zfggi.cyou
 4zfy8d.com
@@ -76438,6 +76653,7 @@
 4zgjvtf9uih3.com
 4zgkoa.com
 4zgn38.xyz
+4zgqn6.cyou
 4zgqot56.top
 4zgzfsy3h6gk.com
 4zh5ou.cyou
@@ -76514,6 +76730,7 @@
 4zm.link
 4zm3en.cyou
 4zm3n.asia
+4zm3nx.shop
 4zmcvrf1lkne.com
 4zmf5e.cyou
 4zmma.com
@@ -76550,6 +76767,7 @@
 4zq.xyz
 4zq2c0xjstkw.fun
 4zq3.com
+4zqcrx.shop
 4zqcx9.cyou
 4zqf7.buzz
 4zqjup.cyou
@@ -76588,6 +76806,7 @@
 4ztev.top
 4ztfireplace.shop
 4ztglue.shop
+4zthorn.shop
 4ztmedium.shop
 4ztpaint.shop
 4ztpoll.shop
@@ -76601,7 +76820,6 @@
 4zuc.com
 4zulk4.me
 4zulp.xyz
-4zuosjsarv.com
 4zupmy.com
 4zur7rg.tokyo
 4zurich.com
@@ -76640,6 +76858,7 @@
 4zz44.com
 4zz7ym.com
 4zz9.pt
+4zz9m27.cyou
 4zzd8b.cyou
 4zzh3.com
 4zzhrh.me
