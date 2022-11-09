@@ -3399,6 +3399,7 @@ Do not create new issue or we will close it as duplicate.
 | [HJSIM798@twitter](https://twitter.com/HJSIM798/status/1484356413040508929) | advertise |
 | [Hkk65603236@twitter](https://twitter.com/Hkk65603236/status/1391694154413969412) | advertise |
 | [HKlowss123@twitter](https://twitter.com/HKlowss123/status/1536946816260132864) | advertise |
+| [HKoreniuzhenko@twitter](https://twitter.com/HKoreniuzhenko/status/1590374742514872320) | advertise |
 | [hkststoic@twitter](https://twitter.com/hkststoic/status/1552343153415401472) | advertise |
 | [HK_UFFY@twitter](https://twitter.com/HK_UFFY/status/1534763124024303616) | advertise |
 | [HL70497231@twitter](https://twitter.com/HL70497231/status/1379082920967630851) | advertise |
@@ -7055,6 +7056,7 @@ Do not create new issue or we will close it as duplicate.
 | [nly461636@twitter](https://twitter.com/nly461636/status/1530720462514405376) | advertise |
 | [NMirbabaee@twitter](https://twitter.com/NMirbabaee/status/1576504574709755905) | advertise |
 | [Nmt79792355@twitter](https://twitter.com/Nmt79792355/status/1392876210544287744) | advertise |
+| [NngCao3@twitter](https://twitter.com/NngCao3/status/1590371932498599937) | advertise |
 | [NnguyenUy@twitter](https://twitter.com/NnguyenUy/status/1389091092331597824) | advertise |
 | [NnmhBgoMy@twitter](https://twitter.com/NnmhBgoMy/status/1398200094818668546) | advertise |
 | [nnnnn5437@twitter](https://twitter.com/nnnnn5437/status/1507002698205327360) | advertise |
