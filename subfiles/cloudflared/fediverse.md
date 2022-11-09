@@ -12979,6 +12979,7 @@ Here's a list of public Fediverse services.
 | `mastodo.net` | No |
 | `mastodo.ng` | No |
 | `mastodo.no` | No |
+| `mastodo.ru` | No |
 | `mastodoff.com` | Yes |
 | `mastodog.net` | No |
 | `mastodogs.social` | No |
@@ -14460,7 +14461,7 @@ Here's a list of public Fediverse services.
 | `mstdn.org` | No |
 | `mstdn.osaka` | No |
 | `mstdn.paris` | No |
-| `mstdn.party` | No |
+| `mstdn.party` | Yes |
 | `mstdn.pics` | No |
 | `mstdn.plus` | No |
 | `mstdn.pw` | No |
@@ -21906,6 +21907,7 @@ Here's a list of public Fediverse services.
 | `tigerbeetle.de` | No |
 | `tigerden.xyz` | No |
 | `tigernurse.com` | No |
+| `tigersnail.app` | Yes |
 | `tigerstyping.com` | No |
 | `tiggi.es` | No |
 | `tigr.space` | No |
@@ -24984,7 +24986,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,148 |
+| Cloudflare | 5,150 |
 | Normal | 19,793 |
 
 
