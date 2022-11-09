@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,635 |
 | net | 1,966 |
-| social | 1,623 |
+| social | 1,624 |
 | org | 1,398 |
 | de | 1,282 |
 
@@ -381,6 +381,7 @@ Here's a list of public Fediverse services.
 | `7lb.de` | No |
 | `7nw.eu` | No |
 | `7pm.org` | No |
+| `7pounds.army` | Yes |
 | `7rg.de` | No |
 | `7td.org` | Yes |
 | `7thmagic.net` | No |
@@ -397,6 +398,7 @@ Here's a list of public Fediverse services.
 | `8777.ch` | No |
 | `88.om` | No |
 | `8arrow.org` | No |
+| `8bit.chat` | Yes |
 | `8bittheologian.com` | Yes |
 | `8bitwizard.net` | No |
 | `8mitsu.net` | No |
@@ -4859,6 +4861,7 @@ Here's a list of public Fediverse services.
 | `dcomm.net.ua` | No |
 | `dcreager.net` | No |
 | `dcrz.eu` | No |
+| `dcsl.dk` | No |
 | `dcu.ie` | Yes |
 | `dd-dns.de` | No |
 | `dddug.in` | No |
@@ -5794,6 +5797,7 @@ Here's a list of public Fediverse services.
 | `e2ee.li` | No |
 | `e3-83-ad-e3-83-aa.eu` | No |
 | `e4.pm` | Yes |
+| `e4le.me` | Yes |
 | `e5150.fr` | No |
 | `e6.cx` | Yes |
 | `eagerpebble.com` | No |
@@ -7625,7 +7629,7 @@ Here's a list of public Fediverse services.
 | `funkwhale.it` | Yes |
 | `funkwhale.net` | No |
 | `funky-beagle.at` | No |
-| `funkyfish.cool` | No |
+| `funkyfish.cool` | Yes |
 | `funkymonkey.org` | No |
 | `funkypenguin.co.nz` | Yes |
 | `funny.cl` | No |
@@ -11283,6 +11287,7 @@ Here's a list of public Fediverse services.
 | `kogak.ninja` | No |
 | `kogak.xyz` | No |
 | `kogasa.de` | No |
+| `kohan.pl` | No |
 | `kohrville.net` | No |
 | `koi.moe` | Yes |
 | `koinonia.club` | No |
@@ -11968,6 +11973,7 @@ Here's a list of public Fediverse services.
 | `levijataner.net` | Yes |
 | `levis.name` | Yes |
 | `levome-dol.com` | No |
+| `lewacki.space` | No |
 | `lewactwo.pl` | No |
 | `lewd.best` | No |
 | `lewd.cat` | Yes |
@@ -13828,6 +13834,7 @@ Here's a list of public Fediverse services.
 | `mfashby.net` | No |
 | `mfg.fyi` | No |
 | `mfjt.jp` | Yes |
+| `mfr.social` | No |
 | `mfraters.net` | No |
 | `mftrhu.net` | No |
 | `mfyo.biz` | No |
@@ -14998,6 +15005,7 @@ Here's a list of public Fediverse services.
 | `namwen.me` | No |
 | `nana.sh` | No |
 | `nanaaki.com` | No |
+| `nanaka.love` | No |
 | `nanamachi.net` | No |
 | `nanamono.xyz` | Yes |
 | `nanao.moe` | Yes |
@@ -15224,6 +15232,7 @@ Here's a list of public Fediverse services.
 | `neosocial.xyz` | Yes |
 | `neotag.net` | No |
 | `neotokyo.dev` | No |
+| `neovibe.app` | No |
 | `neowin.net` | No |
 | `neoziggurat.com` | No |
 | `nep-nep.xyz` | No |
@@ -15574,6 +15583,7 @@ Here's a list of public Fediverse services.
 | `njms.ca` | No |
 | `njp.asia` | No |
 | `njust.club` | No |
+| `nkb.fr` | No |
 | `nkb.moe` | No |
 | `nkmi.cc` | No |
 | `nksm.in.net` | No |
@@ -18670,10 +18680,12 @@ Here's a list of public Fediverse services.
 | `retro.pizza` | No |
 | `retro.social` | No |
 | `retrochat.online` | No |
+| `retrocomputing.at` | No |
 | `retrodigital.net` | No |
 | `retrodon.jp` | No |
 | `retroedge.tech` | No |
 | `retroedgetech.com` | No |
+| `retrogralnia.pl` | Yes |
 | `retrogrou.ch` | No |
 | `retrohangout.club` | No |
 | `retronerd.at` | No |
@@ -19967,6 +19979,7 @@ Here's a list of public Fediverse services.
 | `shoujo.xyz` | Yes |
 | `shouldagoneoffroad.com` | No |
 | `showoffto.us` | No |
+| `showyou41.win` | Yes |
 | `shpakovsky.ru` | No |
 | `shpposter.club` | No |
 | `shr.today` | No |
@@ -21554,6 +21567,7 @@ Here's a list of public Fediverse services.
 | `tati.at` | No |
 | `tatmius.tk` | No |
 | `tatooine.space` | No |
+| `tatsuya0902.jp` | Yes |
 | `tatu.la` | Yes |
 | `taucha.social` | No |
 | `taullo.live` | No |
@@ -22881,6 +22895,7 @@ Here's a list of public Fediverse services.
 | `tusk.social` | No |
 | `tusk.wtf` | No |
 | `tusks.co` | No |
+| `tusks.lol` | Yes |
 | `tusooa.xyz` | No |
 | `tut.ac.jp` | No |
 | `tutafey.eu` | No |
@@ -25298,8 +25313,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,237 |
-| Normal | 20,018 |
+| Cloudflare | 5,245 |
+| Normal | 20,025 |
 
 
-### 20.7% of public Fediverse services are using Cloudflare.
+### 20.8% of public Fediverse services are using Cloudflare.
