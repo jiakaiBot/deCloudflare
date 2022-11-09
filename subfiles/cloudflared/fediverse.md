@@ -6825,6 +6825,7 @@ Here's a list of public Fediverse services.
 | `fernsprechkabine.de` | No |
 | `ferraris.me` | No |
 | `ferret.business` | No |
+| `ferretfrizz.biz` | No |
 | `ferrovipath.es` | No |
 | `ferrus.net` | No |
 | `fersha.me` | No |
@@ -8181,6 +8182,7 @@ Here's a list of public Fediverse services.
 | `go3.today` | Yes |
 | `go5.dev` | Yes |
 | `goapub.cf` | No |
+| `goat.place` | Yes |
 | `goat.rocks` | No |
 | `goatdaddy.net` | No |
 | `gobbetti.name` | No |
@@ -9367,6 +9369,7 @@ Here's a list of public Fediverse services.
 | `hypnoguys.com` | No |
 | `hypnoville.net` | No |
 | `hypnovir.us` | Yes |
+| `hypr.ninja` | No |
 | `hyss.us` | No |
 | `hyteck.de` | No |
 | `hyuki.net` | Yes |
@@ -13034,7 +13037,7 @@ Here's a list of public Fediverse services.
 | `mastodon.com.pl` | Yes |
 | `mastodon.com.tr` | Yes |
 | `mastodon.com.tw` | No |
-| `mastodon.computer` | No |
+| `mastodon.computer` | Yes |
 | `mastodon.cool` | Yes |
 | `mastodon.cx` | Yes |
 | `mastodon.design` | No |
@@ -24458,6 +24461,7 @@ Here's a list of public Fediverse services.
 | `yamastodon.jp` | No |
 | `yambal.net` | No |
 | `yampp.de` | No |
+| `yams.lol` | Yes |
 | `yan.io` | No |
 | `yandere.cc` | Yes |
 | `yang.social` | No |
@@ -24974,8 +24978,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,142 |
-| Normal | 19,789 |
+| Cloudflare | 5,145 |
+| Normal | 19,790 |
 
 
 ### 20.6% of public Fediverse services are using Cloudflare.
