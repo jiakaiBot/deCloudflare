@@ -534,6 +534,7 @@ Do not create new issue or we will close it as duplicate.
 | [Alucard61231443@twitter](https://twitter.com/Alucard61231443/status/1407179688439468039) | advertise |
 | [AlvinKigen@twitter](https://twitter.com/AlvinKigen/status/1382025365930016776) | advertise |
 | [Alvinn_Garcia@twitter](https://twitter.com/Alvinn_Garcia/status/1384722685666598914) | advertise |
+| [alvin_lavin8@twitter](https://twitter.com/alvin_lavin8/status/1590236241236086784) | advertise |
 | [AlwieWith@twitter](https://twitter.com/AlwieWith/status/1522266243566292993) | advertise |
 | [Aly25472835@twitter](https://twitter.com/Aly25472835/status/1551968739243048960) | advertise |
 | [AM764707853@twitter](https://twitter.com/AM764707853/status/1485010347274743811) | advertise |
@@ -1902,8 +1903,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2202,6 +2203,7 @@ Do not create new issue or we will close it as duplicate.
 | [DevilYTBVN@twitter](https://twitter.com/DevilYTBVN/status/1498285245761683460) | advertise |
 | [DeViL_jOkER7@twitter](https://twitter.com/DeViL_jOkER7/status/1386035714664456193) | advertise |
 | [devrajgujjar54@twitter](https://twitter.com/devrajgujjar54/status/1385292357449527296) | advertise |
+| [devrajput67508@twitter](https://twitter.com/devrajput67508/status/1590263618595352577) | advertise |
 | [DevSub2@twitter](https://twitter.com/DevSub2/status/1551589055124893696) | advertise |
 | [dev_Songkran@twitter](https://twitter.com/dev_Songkran/status/1501017169001615361) | advertise |
 | [DewaGilang@twitter](https://twitter.com/DewaGilang/status/1549446977838284800) | advertise |
@@ -2948,6 +2950,7 @@ Do not create new issue or we will close it as duplicate.
 | [GHENIER1@twitter](https://twitter.com/GHENIER1/status/1553440184397471744) | advertise |
 | [ghilani_ahmed@twitter](https://twitter.com/ghilani_ahmed/status/1378273270873657345) | advertise |
 | [GHILES83039093@twitter](https://twitter.com/GHILES83039093/status/1402365710739853312) | advertise |
+| [GholamiPasha@twitter](https://twitter.com/GholamiPasha/status/1590199638136852480) | advertise |
 | [ghone_prathmesh@twitter](https://twitter.com/ghone_prathmesh/status/1393026364559687682) | advertise |
 | [ghostcap@twitter](https://twitter.com/ghostcap/status/1547972786081058816) | advertise |
 | [GhostOfATown@twitter](https://twitter.com/GhostOfATown/status/1370596077007732737) | advertise |
@@ -5241,6 +5244,7 @@ Do not create new issue or we will close it as duplicate.
 | [leanhton1@twitter](https://twitter.com/leanhton1/status/1400838495875174401) | advertise |
 | [leastrio_@twitter](https://twitter.com/leastrio_/status/1370110974108307467) | advertise |
 | [LebGony@twitter](https://twitter.com/LebGony/status/1395365414541029381) | advertise |
+| [LeBLaNcaNtHoN12@twitter](https://twitter.com/LeBLaNcaNtHoN12/status/1590194227019145217) | advertise |
 | [LeChien205@twitter](https://twitter.com/LeChien205/status/1569938137870385152) | advertise |
 | [Lechung6996@twitter](https://twitter.com/Lechung6996/status/1386718562786496512) | advertise |
 | [Lecongh15117879@twitter](https://twitter.com/Lecongh15117879/status/1401879372282220545) | advertise |
