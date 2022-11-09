@@ -5551,6 +5551,7 @@ Here's a list of public Fediverse services.
 | `dprj.xyz` | No |
 | `dq10.online` | No |
 | `dqfan.club` | No |
+| `dr-hardware.ch` | No |
 | `drabard.pl` | No |
 | `draboros.net` | No |
 | `drache.icu` | No |
@@ -21626,6 +21627,7 @@ Here's a list of public Fediverse services.
 | `tedunangst.com` | No |
 | `tee-server.de` | No |
 | `teefax.de` | No |
+| `teela.jp` | No |
 | `teenwhistle.fr` | No |
 | `tegedon.net` | No |
 | `tegix.net` | Yes |
@@ -25233,7 +25235,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,217 |
-| Normal | 19,972 |
+| Normal | 19,974 |
 
 
 ### 20.7% of public Fediverse services are using Cloudflare.
