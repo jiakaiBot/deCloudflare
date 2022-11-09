@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,623 |
+| com | 3,626 |
 | net | 1,964 |
-| social | 1,612 |
-| org | 1,395 |
-| de | 1,279 |
+| social | 1,615 |
+| org | 1,396 |
+| de | 1,280 |
 
 
 - Mastodon, Pleroma, etc
@@ -1208,6 +1208,7 @@ Here's a list of public Fediverse services.
 | `antani.pm` | No |
 | `antarctic.ga` | No |
 | `antaresx.ch` | No |
+| `antelopelovefan.com` | No |
 | `antenesse.ml` | No |
 | `anthill.engineering` | No |
 | `anthro.cc` | No |
@@ -2214,6 +2215,7 @@ Here's a list of public Fediverse services.
 | `beudot07.net` | No |
 | `beule.be` | No |
 | `beutner.de` | No |
+| `beutner.name` | No |
 | `bewegung.jetzt` | No |
 | `bewilderbeest.net` | No |
 | `beyblader.top` | No |
@@ -3399,6 +3401,7 @@ Here's a list of public Fediverse services.
 | `chao.tokyo` | No |
 | `chaoflux.de` | No |
 | `chaos.is` | No |
+| `chaos.koeln` | Yes |
 | `chaos.nrw` | No |
 | `chaos.social` | No |
 | `chaoscult.org` | Yes |
@@ -4381,6 +4384,7 @@ Here's a list of public Fediverse services.
 | `cuken.net` | Yes |
 | `culair.nl` | No |
 | `cultic.xyz` | No |
+| `cultur.social` | No |
 | `cultura.gov.br` | No |
 | `culturaeinnovacion.social` | No |
 | `culturedigitally.org` | No |
@@ -7126,7 +7130,7 @@ Here's a list of public Fediverse services.
 | `flyingcube.tech` | No |
 | `flyingmou.se` | No |
 | `flynn.me.uk` | Yes |
-| `flyovercountry.social` | No |
+| `flyovercountry.social` | Yes |
 | `flytandemeistring.space` | No |
 | `fm32.com.br` | Yes |
 | `fmind.me` | No |
@@ -9995,6 +9999,7 @@ Here's a list of public Fediverse services.
 | `isacutie.net` | No |
 | `isaffine.name` | No |
 | `ischool.social` | No |
+| `iscurrently.live` | Yes |
 | `iscute.moe` | No |
 | `iscute.ovh` | No |
 | `isdatbad.com` | No |
@@ -10589,6 +10594,7 @@ Here's a list of public Fediverse services.
 | `jubi.life` | No |
 | `juche.town` | No |
 | `judge.sh` | Yes |
+| `judges119.me` | No |
 | `judrey.eu` | No |
 | `judydev.net` | No |
 | `juengling-edv.de` | No |
@@ -15177,6 +15183,7 @@ Here's a list of public Fediverse services.
 | `neowin.net` | No |
 | `neoziggurat.com` | No |
 | `nep-nep.xyz` | No |
+| `nep.one` | Yes |
 | `nepolis.de` | No |
 | `nepolux.de` | No |
 | `neptube.io` | No |
@@ -18275,6 +18282,7 @@ Here's a list of public Fediverse services.
 | `ramble.space` | No |
 | `ramen-fsm.eu.org` | No |
 | `ramendon.jp` | No |
+| `ramirezzzz.org` | Yes |
 | `ramo.today` | No |
 | `ramonperalta.nl` | No |
 | `rampantmonkey.social` | No |
@@ -18751,6 +18759,7 @@ Here's a list of public Fediverse services.
 | `rkor.info` | No |
 | `rkun.cf` | No |
 | `rkunkunr.com` | Yes |
+| `rkvssr.nl` | No |
 | `rl5.nl` | No |
 | `rleve.de` | Yes |
 | `rllmuk.social` | No |
@@ -19086,6 +19095,7 @@ Here's a list of public Fediverse services.
 | `s1ttidoe.com.tw` | No |
 | `s25.pl` | No |
 | `s2s.video` | No |
+| `s3lph.me` | No |
 | `s4m0r1.net` | No |
 | `s4y.us` | Yes |
 | `s6jr.com` | No |
@@ -20931,6 +20941,7 @@ Here's a list of public Fediverse services.
 | `straight-edge.net` | No |
 | `straight.coffee` | No |
 | `stralingsbewust.info` | No |
+| `strandcafe.fr` | No |
 | `strandundmeer.net` | No |
 | `strange.faith` | No |
 | `strangeparts.com` | Yes |
@@ -21576,6 +21587,7 @@ Here's a list of public Fediverse services.
 | `techhub.social` | No |
 | `techie.community` | No |
 | `techie.family` | No |
+| `techisland.social` | No |
 | `techknowlogick.com` | Yes |
 | `techlover.eu` | No |
 | `techmaturgy.club` | No |
@@ -21680,6 +21692,7 @@ Here's a list of public Fediverse services.
 | `tepitus.de` | No |
 | `teppelin.fr` | No |
 | `tepsne.ovh` | No |
+| `terabyte-computing.com` | No |
 | `terbea.com` | No |
 | `terbeest.net` | No |
 | `tere.be` | No |
@@ -22082,6 +22095,7 @@ Here's a list of public Fediverse services.
 | `threads.social` | No |
 | `threatpost.com` | No |
 | `threddy.social` | No |
+| `threefoldcloud.com` | No |
 | `threemaxims.com` | No |
 | `threshold-zero.com` | No |
 | `thriving.party` | No |
@@ -22470,6 +22484,7 @@ Here's a list of public Fediverse services.
 | `topping.services` | No |
 | `topspicy.social` | No |
 | `topteeth.xyz` | No |
+| `torb.no` | No |
 | `torgo.com` | No |
 | `torlaz.online` | No |
 | `torlipen.net` | No |
@@ -23445,6 +23460,7 @@ Here's a list of public Fediverse services.
 | `verbrennung.org` | No |
 | `vercel.app` | No |
 | `verdigado.net` | No |
+| `vereine.social` | No |
 | `verified.af` | Yes |
 | `verita84.com` | No |
 | `verkehrswende.social` | Yes |
@@ -23914,6 +23930,7 @@ Here's a list of public Fediverse services.
 | `weburn.ru` | No |
 | `webxb.com` | Yes |
 | `webzone69.com` | No |
+| `weddingweiser.de` | Yes |
 | `wedistribute.org` | No |
 | `wee.tf` | No |
 | `weeaboo.space` | No |
@@ -24238,6 +24255,7 @@ Here's a list of public Fediverse services.
 | `wolfpaw.kr` | No |
 | `wolfschouten.nl` | No |
 | `wolfskaempf.de` | No |
+| `wolfy.club` | No |
 | `wolkenbruch.ml` | No |
 | `wollenberg.name` | No |
 | `wollomatic.de` | No |
@@ -25214,8 +25232,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,211 |
-| Normal | 19,960 |
+| Cloudflare | 5,217 |
+| Normal | 19,972 |
 
 
 ### 20.7% of public Fediverse services are using Cloudflare.
