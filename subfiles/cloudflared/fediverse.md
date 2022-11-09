@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,575 |
 | net | 1,946 |
-| social | 1,579 |
+| social | 1,581 |
 | org | 1,375 |
-| de | 1,262 |
+| de | 1,263 |
 
 
 - Mastodon, Pleroma, etc
@@ -4749,6 +4749,7 @@ Here's a list of public Fediverse services.
 | `davidbankshome.co.uk` | No |
 | `davidciani.com` | Yes |
 | `davidgarywood.com` | No |
+| `davidgtl.me` | No |
 | `davidhewitt.me` | No |
 | `davidized.com` | Yes |
 | `davidlamprea.com` | Yes |
@@ -15669,6 +15670,7 @@ Here's a list of public Fediverse services.
 | `nudie.social` | No |
 | `nuemedia.se` | No |
 | `nuevo.jp` | No |
+| `nugget.social` | Yes |
 | `nuisance.site` | Yes |
 | `nuka.tech` | No |
 | `nukaya.net` | No |
@@ -17067,6 +17069,7 @@ Here's a list of public Fediverse services.
 | `pixificial.xyz` | No |
 | `pixodes.com` | No |
 | `pixopat.social` | No |
+| `pixp.cc` | No |
 | `pixxaddict.social` | Yes |
 | `pizzadog.moe` | No |
 | `pizzaf.art` | No |
@@ -17401,6 +17404,7 @@ Here's a list of public Fediverse services.
 | `postdon.com` | No |
 | `postea.me` | No |
 | `postear.xyz` | No |
+| `poster.place` | Yes |
 | `postmarketos.org` | No |
 | `postmoderns.info` | No |
 | `postpandemicparty.org` | No |
@@ -20636,6 +20640,7 @@ Here's a list of public Fediverse services.
 | `sti.social` | No |
 | `stilobique.com` | No |
 | `stinkt.online` | Yes |
+| `stinkytoot.social` | No |
 | `stkrdn.xyz` | No |
 | `stlouist.com` | No |
 | `stoablick.de` | No |
@@ -24369,6 +24374,7 @@ Here's a list of public Fediverse services.
 | `xy.ag` | No |
 | `xy2.wiki` | No |
 | `xyag.space` | No |
+| `xyaren.de` | No |
 | `xycloud.fr` | No |
 | `xylinvale.space` | No |
 | `xytes.net` | No |
@@ -24928,8 +24934,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,131 |
-| Normal | 19,754 |
+| Cloudflare | 5,133 |
+| Normal | 19,758 |
 
 
 ### 20.6% of public Fediverse services are using Cloudflare.
