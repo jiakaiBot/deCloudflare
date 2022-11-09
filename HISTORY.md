@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-15: [SEA (Seattle) on 2022-11-15](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5x44pk0zxgzw)
 - 2022-11-09: [Increased in TTFB and error rates](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wmg08bj0fxky)
 - 2022-11-09: [Increased Managed Challenges For Customers Using Zaraz](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/z3x85l7r6gnm)
 - 2022-11-14: [LAX (Los Angeles) on 2022-11-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/k008p9cz9kfy)
