@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,575 |
+| com | 3,576 |
 | net | 1,946 |
 | social | 1,581 |
 | org | 1,375 |
@@ -16389,6 +16389,7 @@ Here's a list of public Fediverse services.
 | `ownify.in` | No |
 | `ownlibtards.online` | No |
 | `owo.monster` | No |
+| `owo.town` | No |
 | `oxel.me` | No |
 | `oxhead.dev` | No |
 | `oxidized.systems` | No |
@@ -22642,6 +22643,7 @@ Here's a list of public Fediverse services.
 | `tyk.nu` | No |
 | `tylerdavis.xyz` | No |
 | `tymoon.eu` | Yes |
+| `tymscar.com` | Yes |
 | `tyngsboroughma.net` | Yes |
 | `typed-hole.org` | No |
 | `types.pl` | No |
@@ -24934,8 +24936,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,133 |
-| Normal | 19,758 |
+| Cloudflare | 5,134 |
+| Normal | 19,759 |
 
 
 ### 20.6% of public Fediverse services are using Cloudflare.
