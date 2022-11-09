@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,635 |
-| net | 1,965 |
-| social | 1,621 |
-| org | 1,397 |
+| net | 1,966 |
+| social | 1,623 |
+| org | 1,398 |
 | de | 1,282 |
 
 
@@ -2466,6 +2466,7 @@ Here's a list of public Fediverse services.
 | `blackyoup.me` | No |
 | `blade.red` | No |
 | `bladerunner.social` | No |
+| `blaha.me` | Yes |
 | `blahaj.social` | Yes |
 | `blahut.tech` | Yes |
 | `blaise.ca` | No |
@@ -7135,6 +7136,7 @@ Here's a list of public Fediverse services.
 | `fluffy.world` | No |
 | `fluffyheart.me` | No |
 | `fluffyhu.gs` | No |
+| `fluffyshelter.day` | No |
 | `fluora.net` | Yes |
 | `fluoride.dev` | No |
 | `flushed.party` | Yes |
@@ -8914,6 +8916,7 @@ Here's a list of public Fediverse services.
 | `heewch.com` | No |
 | `heiber.im` | No |
 | `heigl.org` | No |
+| `heijmans.social` | Yes |
 | `heiki-hecchara.net` | No |
 | `heikosblog.eu` | No |
 | `heim-server.de` | No |
@@ -10381,6 +10384,7 @@ Here's a list of public Fediverse services.
 | `jesuislibre.net` | No |
 | `jesusinthe.club` | No |
 | `jethro.be` | No |
+| `jetnet.co.uk` | No |
 | `jeunesse.media` | No |
 | `jeuseweeder.xyz` | No |
 | `jeuxthemes.ch` | No |
@@ -11768,6 +11772,7 @@ Here's a list of public Fediverse services.
 | `lazybear.pics` | No |
 | `lazybear.social` | No |
 | `lazycats.xyz` | No |
+| `lazygamers.club` | Yes |
 | `lazysquirrel.co.uk` | No |
 | `lazyteddy.eu` | No |
 | `lb1a.de` | No |
@@ -12551,6 +12556,7 @@ Here's a list of public Fediverse services.
 | `luca0n.com` | No |
 | `lucahammer.com` | Yes |
 | `lucci.xyz` | No |
+| `lucdev.net` | No |
 | `lucentinian.com` | No |
 | `lucero.top` | No |
 | `lucid.community` | No |
@@ -18254,6 +18260,7 @@ Here's a list of public Fediverse services.
 | `radiosocial.org` | Yes |
 | `radiosonline.cloud` | No |
 | `radiostatler.social` | No |
+| `radiotube.org` | No |
 | `radon.social` | No |
 | `radres.xyz` | No |
 | `radtke.pw` | No |
@@ -21960,6 +21967,7 @@ Here's a list of public Fediverse services.
 | `themcphails.uk` | No |
 | `themepark.social` | Yes |
 | `themeparks.social` | No |
+| `themild.social` | No |
 | `themillerslive.com` | Yes |
 | `themimitoof.fr` | Yes |
 | `themintfarm.ml` | Yes |
@@ -23957,6 +23965,7 @@ Here's a list of public Fediverse services.
 | `webdev.network` | No |
 | `webdevnerds.tech` | No |
 | `webdevs.social` | No |
+| `webfeed.me` | Yes |
 | `webfru.it` | No |
 | `webhookfrom.space` | No |
 | `webhop.me` | No |
@@ -25135,6 +25144,7 @@ Here's a list of public Fediverse services.
 | `zerw.xyz` | No |
 | `zesh.club` | No |
 | `zestysoft.com` | No |
+| `zesummen.online` | No |
 | `zetamu.club` | Yes |
 | `zetamu.love` | No |
 | `zetawing.com` | No |
@@ -25288,8 +25298,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,233 |
-| Normal | 20,012 |
+| Cloudflare | 5,237 |
+| Normal | 20,018 |
 
 
 ### 20.7% of public Fediverse services are using Cloudflare.
