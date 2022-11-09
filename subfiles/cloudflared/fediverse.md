@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,577 |
-| net | 1,946 |
+| com | 3,578 |
+| net | 1,947 |
 | social | 1,581 |
 | org | 1,375 |
 | de | 1,263 |
@@ -770,6 +770,7 @@ Here's a list of public Fediverse services.
 | `akashiensis.com` | No |
 | `akashiensis.online` | Yes |
 | `akebonozo.com` | No |
+| `akhepcat.com` | No |
 | `aki-null.net` | Yes |
 | `akiba-fan.com` | No |
 | `akiba.ninja` | No |
@@ -13887,6 +13888,7 @@ Here's a list of public Fediverse services.
 | `miss-myhouse-key.net` | Yes |
 | `missbanal.net` | No |
 | `mission1701.com` | Yes |
+| `missionbendtx.net` | Yes |
 | `misskey.ai` | No |
 | `misskey.art` | No |
 | `misskey.at` | No |
@@ -24939,8 +24941,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,134 |
-| Normal | 19,762 |
+| Cloudflare | 5,135 |
+| Normal | 19,763 |
 
 
 ### 20.6% of public Fediverse services are using Cloudflare.
