@@ -6224,6 +6224,7 @@ Do not create new issue or we will close it as duplicate.
 | [MoeZaw29449172@twitter](https://twitter.com/MoeZaw29449172/status/1395058008460201985) | advertise |
 | [Moezaw56367015@twitter](https://twitter.com/Moezaw56367015/status/1397960224997138435) | advertise |
 | [moezaw143826471@twitter](https://twitter.com/moezaw143826471/status/1400836952920707072) | advertise |
+| [MoeZawBo5@twitter](https://twitter.com/MoeZawBo5/status/1590278936847470593) | advertise |
 | [MoeZawOo20@twitter](https://twitter.com/MoeZawOo20/status/1392477490627497985) | advertise |
 | [moe_satt1990@twitter](https://twitter.com/moe_satt1990/status/1391002331265871872) | advertise |
 | [moe_sehun@twitter](https://twitter.com/moe_sehun/status/1395904265680408577) | advertise |
