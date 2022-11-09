@@ -1554,6 +1554,7 @@ Here's a list of public Fediverse services.
 | `asonix.dog` | No |
 | `asorrybowl.blog` | No |
 | `aspergerstestsite.com` | Yes |
+| `asphodel.rip` | Yes |
 | `aspie.space` | Yes |
 | `aspiechattr.me` | No |
 | `aspirant.de` | No |
@@ -25366,7 +25367,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,260 |
+| Cloudflare | 5,261 |
 | Normal | 20,063 |
 
 
