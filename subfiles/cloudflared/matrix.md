@@ -76,7 +76,6 @@ Here's a list of public Matrix services.
 | inetd.xyz | No |
 | matrix.jonasled.de | Yes |
 | junta.pl | No |
-| chat.librem.one | No |
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
 | lugnsk.org | No |
@@ -131,7 +130,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 18 |
-| Normal | 85 |
+| Normal | 84 |
 
 
-### 17.5% of public Matrix services are using Cloudflare.
+### 17.6% of public Matrix services are using Cloudflare.
