@@ -2384,7 +2384,7 @@ Here's a list of public Fediverse services.
 | `bissisoft.com` | No |
 | `bit-friends.de` | No |
 | `bitacadie.com` | No |
-| `bitbang.social` | No |
+| `bitbang.social` | Yes |
 | `bitbank.cc` | Yes |
 | `bitbot.dev` | No |
 | `bitbucket.org` | No |
@@ -13886,6 +13886,7 @@ Here's a list of public Fediverse services.
 | `mi-chan.work` | No |
 | `mi2428.net` | No |
 | `miaochann.com` | Yes |
+| `miaomiao.party` | Yes |
 | `miaonot.com` | No |
 | `miaostay.com` | Yes |
 | `miaow.gay` | No |
@@ -14655,7 +14656,7 @@ Here's a list of public Fediverse services.
 | `mstdn.hu` | No |
 | `mstdn.hyogo.jp` | No |
 | `mstdn.ibaraki.jp` | No |
-| `mstdn.icu` | No |
+| `mstdn.icu` | Yes |
 | `mstdn.id` | No |
 | `mstdn.im` | No |
 | `mstdn.in` | No |
@@ -17669,7 +17670,7 @@ Here's a list of public Fediverse services.
 | `popspicswords.uk` | No |
 | `popula.social` | No |
 | `popura.ch` | No |
-| `porchlogic.com` | No |
+| `porchlogic.com` | Yes |
 | `poridge.club` | No |
 | `porn-k.com` | Yes |
 | `pornanime.club` | No |
@@ -25370,8 +25371,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,260 |
-| Normal | 20,067 |
+| Cloudflare | 5,264 |
+| Normal | 20,064 |
 
 
 ### 20.8% of public Fediverse services are using Cloudflare.
