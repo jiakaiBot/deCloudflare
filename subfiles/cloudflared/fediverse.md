@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,644 |
+| com | 3,645 |
 | net | 1,971 |
 | social | 1,634 |
 | org | 1,400 |
@@ -1910,6 +1910,7 @@ Here's a list of public Fediverse services.
 | `baird.club` | Yes |
 | `baixllobregat.social` | No |
 | `bajax.us` | No |
+| `bajsicki.com` | No |
 | `bakitodon.com` | No |
 | `bakunet.me` | Yes |
 | `bakusocial.com` | No |
@@ -8934,7 +8935,7 @@ Here's a list of public Fediverse services.
 | `heck.ooo` | Yes |
 | `heck.team` | No |
 | `hecke.rs` | No |
-| `heckers.org` | Yes |
+| `heckers.org` | No |
 | `heckin.io` | Yes |
 | `heckin.tech` | Yes |
 | `hedenstroem.com` | Yes |
@@ -25369,8 +25370,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,261 |
-| Normal | 20,065 |
+| Cloudflare | 5,260 |
+| Normal | 20,067 |
 
 
 ### 20.8% of public Fediverse services are using Cloudflare.
