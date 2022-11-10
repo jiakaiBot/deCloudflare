@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,648 |
 | net | 1,971 |
-| social | 1,636 |
+| social | 1,637 |
 | org | 1,400 |
 | de | 1,287 |
 
@@ -4945,6 +4945,7 @@ Here's a list of public Fediverse services.
 | `decoding.io` | No |
 | `decompiled.dev` | No |
 | `deconstruccion.social` | No |
+| `deconstructed.social` | Yes |
 | `decredcommunity.org` | No |
 | `decrypt.fail` | No |
 | `decuir.org` | Yes |
@@ -14202,6 +14203,7 @@ Here's a list of public Fediverse services.
 | `miwilc.com` | No |
 | `miwpayou0808.info` | Yes |
 | `mixamax.se` | No |
+| `mixedmedia.page` | Yes |
 | `mixin.love` | No |
 | `mixremix.cc` | No |
 | `miyacorata.net` | Yes |
@@ -24895,6 +24897,7 @@ Here's a list of public Fediverse services.
 | `yaskey.tokyo` | No |
 | `yastodon.xyz` | Yes |
 | `yasudon.jp` | No |
+| `yaten.dev` | Yes |
 | `yathavanparamesh.ca` | No |
 | `yatil.net` | No |
 | `yatno.web.id` | No |
@@ -25383,7 +25386,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,267 |
+| Cloudflare | 5,270 |
 | Normal | 20,073 |
 
 
