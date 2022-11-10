@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,649 |
-| net | 1,971 |
-| social | 1,637 |
-| org | 1,400 |
+| com | 3,650 |
+| net | 1,972 |
+| social | 1,639 |
+| org | 1,402 |
 | de | 1,287 |
 
 
@@ -2570,6 +2570,7 @@ Here's a list of public Fediverse services.
 | `bloor.tw` | No |
 | `blop.social` | No |
 | `blorb.de` | No |
+| `blorbo.social` | No |
 | `blos.sm` | No |
 | `blossoming.dev` | No |
 | `blrsc.me` | No |
@@ -3791,6 +3792,7 @@ Here's a list of public Fediverse services.
 | `cloudron.club` | Yes |
 | `cloudron.io` | No |
 | `cloudron.ml` | No |
+| `cloudsecurityalliance.org` | Yes |
 | `cloudsforcatsin.space` | Yes |
 | `cloudsumu.com` | No |
 | `cloudtrics.de` | No |
@@ -7188,6 +7190,7 @@ Here's a list of public Fediverse services.
 | `fnky.nz` | Yes |
 | `fnkysloth.net` | Yes |
 | `fnlog.page` | No |
+| `fnord.net.au` | No |
 | `fnordica.de` | No |
 | `fnordon.de` | No |
 | `fnx.li` | No |
@@ -7302,6 +7305,7 @@ Here's a list of public Fediverse services.
 | `foxtrot-community.cc` | No |
 | `foxworthy.name` | No |
 | `foxyhole.io` | Yes |
+| `foxylo.xyz` | No |
 | `fpfle.de` | No |
 | `fpga.style` | No |
 | `fpsource.eu` | No |
@@ -8495,6 +8499,7 @@ Here's a list of public Fediverse services.
 | `gregoryjay.co.uk` | Yes |
 | `gregstoltz.com` | Yes |
 | `gregtaole.fr` | No |
+| `gregvogt.net` | Yes |
 | `grella.rocks` | No |
 | `grenat.art` | No |
 | `grenland.social` | No |
@@ -10155,6 +10160,7 @@ Here's a list of public Fediverse services.
 | `itsneversunnyinnd.com` | No |
 | `itsnotjusttheflu.org` | No |
 | `itsover.cyou` | No |
+| `itsroberta.com` | No |
 | `itsukey.cf` | No |
 | `itsukey.jp` | No |
 | `itsybitsysissy.eu` | No |
@@ -13174,6 +13180,7 @@ Here's a list of public Fediverse services.
 | `masto.tech` | Yes |
 | `masto.technology` | No |
 | `masto.uk` | No |
+| `masto.uno` | No |
 | `mastoburn.com` | No |
 | `mastoc.fr` | Yes |
 | `mastoc.net` | No |
@@ -14792,6 +14799,7 @@ Here's a list of public Fediverse services.
 | `munchkins.io` | No |
 | `mundodesconocido.com` | No |
 | `mundy.info` | No |
+| `munroe.ch` | Yes |
 | `muon.social` | No |
 | `muppetlabs.com` | No |
 | `murasame.moe` | Yes |
@@ -14982,6 +14990,7 @@ Here's a list of public Fediverse services.
 | `n0n1337h41.com` | Yes |
 | `n0tath1ng.club` | No |
 | `n3tf5r.me` | Yes |
+| `n3trunn3r.org` | Yes |
 | `n3tsphere.org` | No |
 | `n45b.com` | No |
 | `n6.io` | No |
@@ -16873,6 +16882,7 @@ Here's a list of public Fediverse services.
 | `pashan.social` | No |
 | `pass-vault.ru` | No |
 | `passageenseine.fr` | No |
+| `passey.cloud` | No |
 | `passionsofaman.com` | No |
 | `pasta.ga` | No |
 | `pasta.wtf` | Yes |
@@ -21749,6 +21759,7 @@ Here's a list of public Fediverse services.
 | `teci.world` | No |
 | `teckl.xyz` | Yes |
 | `tecklenbook.de` | No |
+| `teckstudios.xyz` | No |
 | `tecmint.com` | Yes |
 | `tecnfy.com` | No |
 | `tedandrachel.com` | No |
@@ -23031,6 +23042,7 @@ Here's a list of public Fediverse services.
 | `twistedsifter.com` | No |
 | `twit.social` | No |
 | `twitchain.net` | No |
+| `twitchfr.social` | Yes |
 | `twitiverse.com` | No |
 | `twittand.online` | No |
 | `twitter-two.com` | Yes |
@@ -25387,8 +25399,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,271 |
-| Normal | 20,073 |
+| Cloudflare | 5,276 |
+| Normal | 20,080 |
 
 
 ### 20.8% of public Fediverse services are using Cloudflare.
