@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,693 |
 | net | 1,992 |
-| social | 1,700 |
+| social | 1,701 |
 | org | 1,418 |
 | de | 1,308 |
 
@@ -17206,7 +17206,7 @@ Here's a list of public Fediverse services.
 | `peacememori.es` | No |
 | `peach.dog` | Yes |
 | `peachgyoza.com` | No |
-| `peacht.art` | No |
+| `peacht.art` | Yes |
 | `peachybat.com` | No |
 | `peakimage.net` | Yes |
 | `peakthink.org` | No |
@@ -21208,6 +21208,7 @@ Here's a list of public Fediverse services.
 | `standup-comics.net` | No |
 | `stani.se` | No |
 | `stanisic.nl` | Yes |
+| `staniverse.one` | No |
 | `star-one.org.uk` | No |
 | `starapps-network.com` | No |
 | `starbase80.wtf` | No |
@@ -22063,6 +22064,7 @@ Here's a list of public Fediverse services.
 | `technosorcery.net` | No |
 | `techonify.uk` | No |
 | `techopolis.io` | No |
+| `techpolicy.social` | No |
 | `techporn.club` | Yes |
 | `techspace.social` | No |
 | `techstartups.space` | No |
@@ -25775,8 +25777,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,368 |
-| Normal | 20,364 |
+| Cloudflare | 5,369 |
+| Normal | 20,365 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
