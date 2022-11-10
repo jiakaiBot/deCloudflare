@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Increase in 503 error codes to resources behind Cloudflare Tunnel](https://github.com/MatBenfield/news/issues/5649)
 - [Unable to connect to graphic server](https://github.com/joshpatten/PVE-VDIClient/issues/37)
 - [Error in js solving](https://github.com/Xewdy444/CF-Clearance-Scraper/issues/5)
 - [CloudFlare Increased in TTFB and error rates](https://github.com/MatBenfield/news/issues/5575)
