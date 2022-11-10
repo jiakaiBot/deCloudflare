@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,646 |
+| com | 3,648 |
 | net | 1,971 |
-| social | 1,635 |
+| social | 1,636 |
 | org | 1,400 |
 | de | 1,286 |
 
@@ -2805,6 +2805,7 @@ Here's a list of public Fediverse services.
 | `brandonrozek.com` | No |
 | `brandonshire.blog` | No |
 | `brandonsjournal.com` | No |
+| `brands.town` | No |
 | `brantley.world` | No |
 | `brap.party` | No |
 | `brapbarn.farm` | Yes |
@@ -7470,6 +7471,7 @@ Here's a list of public Fediverse services.
 | `fribygda.no` | No |
 | `fricci.dev` | No |
 | `frichetten.com` | No |
+| `frickalou.com` | No |
 | `frictionless.contact` | No |
 | `fridaysforfuturefvg.it` | No |
 | `friedbumblebees.com` | No |
@@ -12550,6 +12552,7 @@ Here's a list of public Fediverse services.
 | `loves.family` | No |
 | `loves.pizza` | No |
 | `loves.reisen` | Yes |
+| `lovesick.social` | No |
 | `lovethe.wang` | No |
 | `lovetux.net` | No |
 | `loveyourdemons.games` | No |
@@ -14499,6 +14502,7 @@ Here's a list of public Fediverse services.
 | `motorcity.ml` | No |
 | `motoreitaliacarlonegri.it` | Yes |
 | `motorradfan.net` | No |
+| `motorsport.org.uk` | Yes |
 | `motorsports.social` | No |
 | `motuhake.xyz` | No |
 | `mouchkine.fr` | No |
@@ -18743,6 +18747,7 @@ Here's a list of public Fediverse services.
 | `retrotweets.com` | No |
 | `rettiwtkcuf.social` | No |
 | `returntosander.net` | Yes |
+| `returtle.com` | No |
 | `reun.de` | No |
 | `reuters.com` | Yes |
 | `revachol.city` | No |
@@ -25377,8 +25382,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,266 |
-| Normal | 20,068 |
+| Cloudflare | 5,267 |
+| Normal | 20,072 |
 
 
 ### 20.8% of public Fediverse services are using Cloudflare.
