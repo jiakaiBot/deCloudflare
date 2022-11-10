@@ -144,6 +144,7 @@ blog.yannakas.me
 blog.yourdesignjuice.com
 cert.backoffice.yape.com.pe
 coinbase-pro-login-account.yahoosites.com
+git.git.covid19.youhollywood.com
 global.yuanta.com.tw
 kyiv.yasno.com.ua
 lojista.yupdelivery.com.br
@@ -152,6 +153,7 @@ mobile.yoursrp.net
 python-github-calendar-api.yylemon.top
 s.youtube.com
 secure-dinamica.go.yj.fr
+stag-emails.yachtsbt.com
 support.yourcreativepeople.com
 traefik.yannisantypas.com
 www.amazon.y4lkwb.shop
@@ -160,13 +162,16 @@ www.colopaluxemsecure.go.yj.fr
 www.d4vipl4tausuario.chile.go.yo.fr
 www.davip4atatencionclient3.redirext.go.yj.fr
 www.gouvernement-borderlife.go.yj.fr
+www.service09.yalar.se
 www.yachtservice-laboe.de
 www.yakimaherald.com
 www.ybaautoservice.ro
+www.yelp.co.nz
 www.ymmarrys.org
 www.yoshitoku.co.jp
 www.yourfuturecredit.com
 yabaidelinquency.com
+yaseagrouptravel.com
 yayanadriano.web.id
 ybaautoservice.ro
 ybx-test.yahoo.co.jp
