@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,971 |
 | social | 1,634 |
 | org | 1,400 |
-| de | 1,284 |
+| de | 1,285 |
 
 
 - Mastodon, Pleroma, etc
@@ -2478,6 +2478,7 @@ Here's a list of public Fediverse services.
 | `blackyoup.me` | No |
 | `blade.red` | No |
 | `bladerunner.social` | No |
+| `bladion.de` | No |
 | `blaha.me` | Yes |
 | `blahaj.social` | Yes |
 | `blahut.tech` | Yes |
@@ -25369,7 +25370,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,261 |
-| Normal | 20,064 |
+| Normal | 20,065 |
 
 
 ### 20.8% of public Fediverse services are using Cloudflare.
