@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,645 |
 | net | 1,971 |
-| social | 1,634 |
+| social | 1,635 |
 | org | 1,400 |
-| de | 1,285 |
+| de | 1,286 |
 
 
 - Mastodon, Pleroma, etc
@@ -2491,6 +2491,7 @@ Here's a list of public Fediverse services.
 | `blankshrimp.com` | No |
 | `blanu.net` | No |
 | `blast-info.fr` | No |
+| `blaster.com.ar` | No |
 | `blat.at` | No |
 | `blather.us` | No |
 | `blauerhunger.de` | No |
@@ -4511,6 +4512,7 @@ Here's a list of public Fediverse services.
 | `cybercirujas.club` | No |
 | `cybercity.eu.org` | No |
 | `cybercrew.site` | No |
+| `cybercriminology.nl` | No |
 | `cybercrusade.xyz` | Yes |
 | `cyberdeck.cf` | No |
 | `cyberdelia.com.ar` | No |
@@ -7235,6 +7237,7 @@ Here's a list of public Fediverse services.
 | `foritso.com` | Yes |
 | `fork.sh` | No |
 | `forked.io` | Yes |
+| `formu1a.social` | Yes |
 | `forourselves.com` | Yes |
 | `forrum.ro` | No |
 | `forsakenhorizon.com` | No |
@@ -7848,6 +7851,7 @@ Here's a list of public Fediverse services.
 | `gamethattune.com` | No |
 | `gametoot.org` | No |
 | `gamez.name` | Yes |
+| `gaming-gorilla.de` | No |
 | `gaming.pizza` | No |
 | `gamingecke.space` | No |
 | `gaminginthe.cloud` | No |
@@ -22829,6 +22833,7 @@ Here's a list of public Fediverse services.
 | `trueten.de` | No |
 | `truetube.media` | No |
 | `truman.me.uk` | Yes |
+| `trumbeta.me` | Yes |
 | `trump.pub` | No |
 | `trumpislovetrumpis.life` | Yes |
 | `trunk.zone` | No |
@@ -25371,8 +25376,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,264 |
-| Normal | 20,064 |
+| Cloudflare | 5,266 |
+| Normal | 20,067 |
 
 
 ### 20.8% of public Fediverse services are using Cloudflare.
