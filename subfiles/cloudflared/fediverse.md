@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,663 |
 | net | 1,980 |
-| social | 1,661 |
+| social | 1,662 |
 | org | 1,409 |
 | de | 1,297 |
 
@@ -5622,6 +5622,7 @@ Here's a list of public Fediverse services.
 | `dragchaser.com` | No |
 | `dragn.gay` | Yes |
 | `dragon-fly.club` | Yes |
+| `dragon-lair.social` | No |
 | `dragon.garden` | No |
 | `dragon.navy` | No |
 | `dragon.style` | No |
@@ -14934,7 +14935,7 @@ Here's a list of public Fediverse services.
 | `my-status.tk` | No |
 | `my-vo.co` | No |
 | `my-wan.de` | No |
-| `my.to` | Yes |
+| `my.to` | No |
 | `my0.net` | No |
 | `myacs.com` | No |
 | `myangel.social` | No |
@@ -16901,7 +16902,7 @@ Here's a list of public Fediverse services.
 | `panxatony.net` | No |
 | `pao.moe` | Yes |
 | `paoloamoroso.com` | No |
-| `paoon.club` | Yes |
+| `paoon.club` | No |
 | `paoon.social` | No |
 | `paors.lv` | No |
 | `paoru.jp` | No |
@@ -24050,7 +24051,7 @@ Here's a list of public Fediverse services.
 | `waifu.one` | No |
 | `waifu.social` | Yes |
 | `waifu.space` | Yes |
-| `waifuappreciation.club` | Yes |
+| `waifuappreciation.club` | No |
 | `waifuism.life` | No |
 | `waifus.eu` | No |
 | `waimanu.io` | No |
@@ -25397,6 +25398,7 @@ Here's a list of public Fediverse services.
 | `ziabo.ga` | No |
 | `ziazoo.co.uk` | No |
 | `ziez.eu` | No |
+| `zig.mx` | No |
 | `zig.zone` | No |
 | `zigakralj.com` | Yes |
 | `ziggurat-systems.com` | No |
@@ -25529,8 +25531,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,306 |
-| Normal | 20,180 |
+| Cloudflare | 5,303 |
+| Normal | 20,185 |
 
 
 ### 20.8% of public Fediverse services are using Cloudflare.
