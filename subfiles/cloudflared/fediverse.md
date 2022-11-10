@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,684 |
+| com | 3,685 |
 | net | 1,988 |
-| social | 1,686 |
+| social | 1,687 |
 | org | 1,414 |
-| de | 1,305 |
+| de | 1,306 |
 
 
 - Mastodon, Pleroma, etc
@@ -1006,6 +1006,7 @@ Here's a list of public Fediverse services.
 | `amas.dev` | No |
 | `amaseto.com` | Yes |
 | `amastodon.uk` | No |
+| `amaurot.city` | Yes |
 | `amazedkoumei.com` | No |
 | `amazonfrown.tk` | No |
 | `ambag.es` | No |
@@ -5751,6 +5752,7 @@ Here's a list of public Fediverse services.
 | `dryday.in` | Yes |
 | `drytalk.social` | Yes |
 | `dryusdan.fr` | No |
+| `ds106.us` | Yes |
 | `dsci4.xyz` | No |
 | `dscloud.mobi` | No |
 | `dshk.pro` | No |
@@ -12567,6 +12569,7 @@ Here's a list of public Fediverse services.
 | `lolcalhost.de` | No |
 | `lolcow.org` | Yes |
 | `lolcraft.club` | No |
+| `loli.best` | Yes |
 | `loli.estate` | No |
 | `loli.mk` | No |
 | `loli.pizza` | Yes |
@@ -13303,6 +13306,7 @@ Here's a list of public Fediverse services.
 | `masto.dog` | No |
 | `masto.gives` | No |
 | `masto.host` | No |
+| `masto.id` | Yes |
 | `masto.io` | No |
 | `masto.media` | No |
 | `masto.ml` | No |
@@ -15126,6 +15130,7 @@ Here's a list of public Fediverse services.
 | `mytoot.net` | No |
 | `mytter.jp` | No |
 | `mytubetoday.tv` | No |
+| `myutsutaka.com` | No |
 | `myvnc.com` | No |
 | `mywebprojects.co.uk` | No |
 | `mywire.org` | Yes |
@@ -16932,6 +16937,7 @@ Here's a list of public Fediverse services.
 | `paddlefish.net` | No |
 | `paddys.pub` | No |
 | `padovelli.com` | No |
+| `padserver.xyz` | Yes |
 | `paepke.net` | No |
 | `pafnooty.ru` | No |
 | `paftech.se` | No |
@@ -18052,6 +18058,7 @@ Here's a list of public Fediverse services.
 | `privacyhub.xyz` | No |
 | `privacyinternational.org` | Yes |
 | `privacymatters.pro` | No |
+| `privacyofficers.social` | No |
 | `privacytools.io` | Yes |
 | `privatedns.org` | No |
 | `privey.xyz` | Yes |
@@ -20064,6 +20071,7 @@ Here's a list of public Fediverse services.
 | `serveousercontent.com` | No |
 | `server-on.net` | No |
 | `server17.net` | No |
+| `server321.de` | No |
 | `serverok.pl` | No |
 | `serveromnis.com` | No |
 | `servidos.app` | Yes |
@@ -21172,6 +21180,7 @@ Here's a list of public Fediverse services.
 | `stati.me` | No |
 | `station.gallery` | No |
 | `stationerygamer.com` | No |
+| `stationzero.me` | No |
 | `statium.link` | No |
 | `statler.ws` | No |
 | `status.online` | Yes |
@@ -21746,6 +21755,7 @@ Here's a list of public Fediverse services.
 | `takibi.work` | No |
 | `takimag.com` | Yes |
 | `tako774.net` | No |
+| `takpika.jp` | No |
 | `taks.garden` | No |
 | `takulog.info` | Yes |
 | `takumi.fun` | No |
@@ -25680,8 +25690,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,344 |
-| Normal | 20,293 |
+| Cloudflare | 5,349 |
+| Normal | 20,298 |
 
 
-### 20.8% of public Fediverse services are using Cloudflare.
+### 20.9% of public Fediverse services are using Cloudflare.
