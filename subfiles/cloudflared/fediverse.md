@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,645 |
+| com | 3,646 |
 | net | 1,971 |
 | social | 1,635 |
 | org | 1,400 |
@@ -14285,6 +14285,7 @@ Here's a list of public Fediverse services.
 | `moca.cm` | No |
 | `mocademia.jp` | No |
 | `mochi.academy` | No |
+| `mochiandtea.com` | No |
 | `mochitodon.com` | No |
 | `mochiwasa.online` | No |
 | `mochiwasa.xyz` | No |
@@ -25377,7 +25378,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,266 |
-| Normal | 20,067 |
+| Normal | 20,068 |
 
 
 ### 20.8% of public Fediverse services are using Cloudflare.
