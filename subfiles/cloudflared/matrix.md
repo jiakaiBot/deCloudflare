@@ -123,7 +123,6 @@ Here's a list of public Matrix services.
 | matrix.virto.community | Yes |
 | webchat.weho.st | No |
 | xmr.se | No |
-| matrix.yatrix.org | No |
 
 
 - Cloudflare %
@@ -131,7 +130,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 18 |
-| Normal | 85 |
+| Normal | 84 |
 
 
-### 17.5% of public Matrix services are using Cloudflare.
+### 17.6% of public Matrix services are using Cloudflare.
