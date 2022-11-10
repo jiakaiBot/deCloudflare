@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error in js solving](https://github.com/Xewdy444/CF-Clearance-Scraper/issues/5)
 - [CloudFlare Increased in TTFB and error rates](https://github.com/MatBenfield/news/issues/5575)
 - [Cloudflare - Why check disable and delete but not check import URLs? Please don't check.](https://github.com/johngodley/redirection/issues/3468)
 - [Issues with Valorant Client Authentication](https://github.com/narkdev/ValorantSharp/issues/6)
