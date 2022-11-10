@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-10: [Incorrect blockage of valid requests when using Schema Validation](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/n01m808rwxqy)
 - 2022-11-14: [CPT (Cape Town) on 2022-11-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/45mlr0skl13y)
 - 2022-11-11: [LHR (London) on 2022-11-11](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yc1n78922xxw)
 - 2022-11-15: [LAX (Los Angeles) on 2022-11-15](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/hs40wsrpqkmp)
