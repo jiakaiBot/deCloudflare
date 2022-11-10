@@ -6139,6 +6139,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mirakhiil@twitter](https://twitter.com/Mirakhiil/status/1377110594734628870) | advertise |
 | [mirandanielcz@twitter](https://twitter.com/mirandanielcz/status/1498223299071025163) | advertise |
 | [miranya1810@twitter](https://twitter.com/miranya1810/status/1509898628508237824) | advertise |
+| [MiriShehu@twitter](https://twitter.com/MiriShehu/status/1590650655177592833) | advertise |
 | [MirzadeAmir@twitter](https://twitter.com/MirzadeAmir/status/1588630904544452608) | advertise |
 | [mirzazaid92@twitter](https://twitter.com/mirzazaid92/status/1420450058961567744) | advertise |
 | [mishu988@twitter](https://twitter.com/mishu988/status/1552219338299658241) | advertise |
