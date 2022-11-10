@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,988 |
 | social | 1,686 |
 | org | 1,414 |
-| de | 1,304 |
+| de | 1,305 |
 
 
 - Mastodon, Pleroma, etc
@@ -23292,6 +23292,7 @@ Here's a list of public Fediverse services.
 | `twitchain.net` | No |
 | `twitchfr.social` | Yes |
 | `twitiverse.com` | No |
+| `twitre.de` | No |
 | `twittand.online` | No |
 | `twitter-two.com` | Yes |
 | `twitter.moe` | Yes |
@@ -25680,7 +25681,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,344 |
-| Normal | 20,292 |
+| Normal | 20,293 |
 
 
 ### 20.8% of public Fediverse services are using Cloudflare.
