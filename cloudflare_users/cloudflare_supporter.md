@@ -7443,6 +7443,7 @@ Do not create new issue or we will close it as duplicate.
 | [PCAdvisorUK@twitter](https://twitter.com/PCAdvisorUK/status/1579882017583665152) | advertise |
 | [PChadathong@twitter](https://twitter.com/PChadathong/status/1381661981304758273) | advertise |
 | [PDoxX7@twitter](https://twitter.com/PDoxX7/status/1539952156333248512) | advertise |
+| [PDurua@twitter](https://twitter.com/PDurua/status/1590598546017128448) | advertise |
 | [PDXStolenCar@twitter](https://twitter.com/PDXStolenCar/status/1557609975949668353) | advertise |
 | [peageruk@twitter](https://twitter.com/peageruk/status/1383275946296299520) | advertise |
 | [peaksilver1@twitter](https://twitter.com/peaksilver1/status/1552288607682981888) | advertise |
