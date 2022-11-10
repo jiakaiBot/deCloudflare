@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,648 |
+| com | 3,649 |
 | net | 1,971 |
 | social | 1,637 |
 | org | 1,400 |
@@ -16035,6 +16035,7 @@ Here's a list of public Fediverse services.
 | `nyaa.social` | No |
 | `nyaa.tech` | Yes |
 | `nyadobe.online` | Yes |
+| `nyahyun.com` | Yes |
 | `nyan.cafe` | No |
 | `nyan.im` | Yes |
 | `nyan.lgbt` | Yes |
@@ -25386,7 +25387,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,270 |
+| Cloudflare | 5,271 |
 | Normal | 20,073 |
 
 
