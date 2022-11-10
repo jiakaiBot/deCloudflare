@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,971 |
 | social | 1,636 |
 | org | 1,400 |
-| de | 1,286 |
+| de | 1,287 |
 
 
 - Mastodon, Pleroma, etc
@@ -9062,6 +9062,7 @@ Here's a list of public Fediverse services.
 | `herrliberg.online` | No |
 | `herrmontag.de` | No |
 | `hersecret.fi` | Yes |
+| `herthafans.de` | No |
 | `herzbu.de` | No |
 | `hespere.de` | No |
 | `hessen.social` | No |
@@ -25383,7 +25384,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,267 |
-| Normal | 20,072 |
+| Normal | 20,073 |
 
 
 ### 20.8% of public Fediverse services are using Cloudflare.
