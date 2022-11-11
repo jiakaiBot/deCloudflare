@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-14: [KIX (Osaka) on 2022-11-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ldkp9tkp5pmq)
 - 2022-11-10: [Simple PCAP generating empty PCAP files](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9hwnc2kkvdnw)
 - 2022-11-10: [Incorrect blockage of valid requests when using Schema Validation](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/n01m808rwxqy)
 - 2022-11-14: [CPT (Cape Town) on 2022-11-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/45mlr0skl13y)
