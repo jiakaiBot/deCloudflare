@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,712 |
+| com | 3,713 |
 | net | 1,999 |
-| social | 1,722 |
+| social | 1,724 |
 | org | 1,427 |
 | de | 1,320 |
 
@@ -56,6 +56,7 @@ Here's a list of public Fediverse services.
 | `0day.agency` | Yes |
 | `0j0.jp` | No |
 | `0ko.me` | Yes |
+| `0kqnet.work` | No |
 | `0lb.be` | No |
 | `0mph.de` | No |
 | `0ms.me` | No |
@@ -600,6 +601,7 @@ Here's a list of public Fediverse services.
 | `ad5001.eu` | No |
 | `ada.st` | No |
 | `adaizen.com` | No |
+| `adalov.io` | No |
 | `adam.ac` | Yes |
 | `adamasnemesis.com` | No |
 | `adamclaxon.com` | No |
@@ -3075,6 +3077,7 @@ Here's a list of public Fediverse services.
 | `bus-hit.me` | No |
 | `busaiku.com` | No |
 | `bushidodreams.com` | Yes |
+| `bushiroad.space` | Yes |
 | `bushu-denno.com` | No |
 | `businessinsider.com` | Yes |
 | `busshi.moe` | No |
@@ -4262,6 +4265,7 @@ Here's a list of public Fediverse services.
 | `cosplayer.com` | Yes |
 | `costas.dev` | No |
 | `coste.video` | No |
+| `costodon.social` | No |
 | `cote.io` | No |
 | `cotellese.net` | No |
 | `cotonea.me` | No |
@@ -13230,6 +13234,7 @@ Here's a list of public Fediverse services.
 | `manalejandro.com` | No |
 | `mancave.de` | No |
 | `mancavgeek.co.uk` | No |
+| `mandelbrotsetapp.com` | No |
 | `mander.xyz` | No |
 | `mandodon.com` | No |
 | `mandps.net` | No |
@@ -18709,6 +18714,7 @@ Here's a list of public Fediverse services.
 | `radiofreerobotron.net` | No |
 | `radiolivre.org` | No |
 | `radionlya.casa` | No |
+| `radiopatio.social` | No |
 | `radiosocial.de` | No |
 | `radiosocial.org` | Yes |
 | `radiosonline.cloud` | No |
@@ -23893,7 +23899,7 @@ Here's a list of public Fediverse services.
 | `urgero.org` | No |
 | `urgle.com` | No |
 | `urhub.co` | Yes |
-| `uri.life` | No |
+| `uri.life` | Yes |
 | `uriahjaylee.com` | No |
 | `uribe.cafe` | No |
 | `urishari.com` | No |
@@ -25682,6 +25688,7 @@ Here's a list of public Fediverse services.
 | `zackroniacs.com` | No |
 | `zaclys.com` | No |
 | `zacwe.st` | Yes |
+| `zadankai.club` | Yes |
 | `zagasy.cf` | No |
 | `zaibon.be` | No |
 | `zaisu-club.xyz` | Yes |
@@ -25941,8 +25948,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,413 |
-| Normal | 20,485 |
+| Cloudflare | 5,416 |
+| Normal | 20,489 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
