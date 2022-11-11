@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 1,993 |
 | social | 1,702 |
 | org | 1,420 |
-| de | 1,310 |
+| de | 1,311 |
 
 
 - Mastodon, Pleroma, etc
@@ -2992,6 +2992,7 @@ Here's a list of public Fediverse services.
 | `buddhist.tv` | Yes |
 | `budmo.info` | No |
 | `budsbots.com` | No |
+| `buergerdienste-dortmund.de` | No |
 | `bueroring.de` | No |
 | `buffa.lol` | No |
 | `buffalomesh.net` | Yes |
@@ -16845,6 +16846,7 @@ Here's a list of public Fediverse services.
 | `otofune.net` | Yes |
 | `otogamer.me` | No |
 | `otoge.life` | No |
+| `otokono.co` | No |
 | `otokonokodon.jp` | No |
 | `otomaddon.xyz` | No |
 | `otome.xyz` | No |
@@ -17418,6 +17420,7 @@ Here's a list of public Fediverse services.
 | `philament.club` | No |
 | `philbowell.me` | No |
 | `philcrockett.com` | No |
+| `philevans.uk` | Yes |
 | `philgeld.ch` | No |
 | `philho.de` | No |
 | `philia.work` | Yes |
@@ -19188,6 +19191,7 @@ Here's a list of public Fediverse services.
 | `rmxr.net` | No |
 | `rndmm.us` | Yes |
 | `rner.dk` | No |
+| `rnj.au` | No |
 | `ro.lt` | No |
 | `roachnotes.com` | No |
 | `road42.social` | No |
@@ -25792,8 +25796,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,373 |
-| Normal | 20,376 |
+| Cloudflare | 5,374 |
+| Normal | 20,379 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
