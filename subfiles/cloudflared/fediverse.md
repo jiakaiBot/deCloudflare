@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,693 |
-| net | 1,992 |
+| net | 1,993 |
 | social | 1,702 |
 | org | 1,420 |
 | de | 1,310 |
@@ -17055,6 +17055,7 @@ Here's a list of public Fediverse services.
 | `pangeon.jp` | No |
 | `panglossoft.fr` | No |
 | `panic.social` | No |
+| `panicking.net` | No |
 | `pano.community` | No |
 | `panoply.cx` | No |
 | `panoptic.onl` | Yes |
@@ -22644,7 +22645,7 @@ Here's a list of public Fediverse services.
 | `timapple.me` | No |
 | `timbo.cc` | Yes |
 | `timbyr.com` | No |
-| `timcast.club` | Yes |
+| `timcast.club` | No |
 | `timdream.org` | No |
 | `time-suck.com` | No |
 | `timeattack.zone` | No |
@@ -25791,8 +25792,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,374 |
-| Normal | 20,374 |
+| Cloudflare | 5,373 |
+| Normal | 20,376 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
