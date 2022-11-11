@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,719 |
 | net | 2,005 |
-| social | 1,736 |
+| social | 1,737 |
 | org | 1,431 |
 | de | 1,324 |
 
@@ -4456,6 +4456,7 @@ Here's a list of public Fediverse services.
 | `crypto.church` | No |
 | `cryptoanarchy.rocks` | No |
 | `cryptocartel.social` | No |
+| `cryptodon.chat` | No |
 | `cryptodon.lol` | No |
 | `cryptodon.tokyo` | No |
 | `cryptodont.io` | No |
@@ -8218,6 +8219,7 @@ Here's a list of public Fediverse services.
 | `genco.me` | Yes |
 | `gender.systems` | No |
 | `gender.town` | No |
+| `genderheretics.xyz` | No |
 | `genderqueer.ru` | No |
 | `gendon.jp` | No |
 | `genealogy.social` | No |
@@ -16010,6 +16012,7 @@ Here's a list of public Fediverse services.
 | `niyawe.de` | No |
 | `nj.com` | Yes |
 | `njal.la` | No |
+| `njalla.social` | No |
 | `njanzen.de` | No |
 | `njms.ca` | No |
 | `njp.asia` | No |
@@ -26026,7 +26029,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,432 |
-| Normal | 20,550 |
+| Normal | 20,553 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
