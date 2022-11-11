@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,739 |
 | net | 2,017 |
-| social | 1,758 |
+| social | 1,760 |
 | org | 1,443 |
 | de | 1,330 |
 
@@ -10744,6 +10744,7 @@ Here's a list of public Fediverse services.
 | `jesusinthe.club` | No |
 | `jethro.be` | No |
 | `jetnet.co.uk` | No |
+| `jetnet.social` | No |
 | `jeunesse.media` | No |
 | `jeuseweeder.xyz` | No |
 | `jeuxthemes.ch` | No |
@@ -10962,6 +10963,7 @@ Here's a list of public Fediverse services.
 | `jplus7.fr` | No |
 | `jpnews.site` | Yes |
 | `jpop.club` | No |
+| `jpop.space` | No |
 | `jpope.org` | No |
 | `jr.lol` | Yes |
 | `jra.sh` | No |
@@ -19740,6 +19742,7 @@ Here's a list of public Fediverse services.
 | `ruthenic.com` | No |
 | `ruxnor.net` | Yes |
 | `rva.party` | No |
+| `rvagc.social` | No |
 | `rvmathy.net` | No |
 | `rw-net.de` | No |
 | `rw501.de` | No |
@@ -26168,7 +26171,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,467 |
-| Normal | 20,657 |
+| Normal | 20,660 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
