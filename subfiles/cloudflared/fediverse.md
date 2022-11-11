@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,693 |
 | net | 1,992 |
 | social | 1,701 |
-| org | 1,418 |
+| org | 1,419 |
 | de | 1,308 |
 
 
@@ -1396,6 +1396,7 @@ Here's a list of public Fediverse services.
 | `archigny.net` | No |
 | `archipell.xyz` | No |
 | `archipielago.uno` | No |
+| `archive.org` | Yes |
 | `archivefedifor.fun` | No |
 | `archous.net` | No |
 | `archraspberrypi.tk` | No |
@@ -21336,7 +21337,7 @@ Here's a list of public Fediverse services.
 | `sti.social` | No |
 | `stilobique.com` | No |
 | `stinkt.online` | Yes |
-| `stinkytoot.social` | No |
+| `stinkytoot.social` | Yes |
 | `stkrdn.xyz` | No |
 | `stlouist.com` | No |
 | `stoablick.de` | No |
@@ -25782,8 +25783,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,370 |
-| Normal | 20,369 |
+| Cloudflare | 5,372 |
+| Normal | 20,368 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
