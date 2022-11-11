@@ -13972,6 +13972,7 @@ Here's a list of public Fediverse services.
 | `meo.ws` | Yes |
 | `meow-corp.xyz` | Yes |
 | `meow.academy` | No |
+| `meow.beauty` | Yes |
 | `meow.camp` | No |
 | `meow.cloud` | No |
 | `meow.enterprises` | No |
@@ -14558,6 +14559,7 @@ Here's a list of public Fediverse services.
 | `mollys.social` | No |
 | `moltchanova.de` | No |
 | `molten.cloud` | No |
+| `moltonlava.online` | No |
 | `molyboha.me` | No |
 | `moment.ist` | No |
 | `momi.ca` | No |
@@ -25779,8 +25781,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,369 |
-| Normal | 20,367 |
+| Cloudflare | 5,370 |
+| Normal | 20,368 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
