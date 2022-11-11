@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-15: [PHL (Philadelphia) on 2022-11-15](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0ykrsr37510p)
+- 2022-11-15: [LHR (London) on 2022-11-15](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bvvb9vygdl1r)
 - 2022-11-14: [BRU (Brussels) on 2022-11-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5chcrfw07n4q)
 - 2022-11-14: [KIX (Osaka) on 2022-11-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ldkp9tkp5pmq)
 - 2022-11-10: [Simple PCAP generating empty PCAP files](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9hwnc2kkvdnw)
