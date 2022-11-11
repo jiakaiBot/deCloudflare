@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,728 |
+| com | 3,730 |
 | net | 2,012 |
-| social | 1,744 |
-| org | 1,434 |
-| de | 1,328 |
+| social | 1,745 |
+| org | 1,435 |
+| de | 1,329 |
 
 
 - Mastodon, Pleroma, etc
@@ -56,6 +56,7 @@ Here's a list of public Fediverse services.
 | `0day.agency` | Yes |
 | `0j0.jp` | No |
 | `0ko.me` | Yes |
+| `0kqnet.work` | No |
 | `0lb.be` | No |
 | `0mph.de` | No |
 | `0ms.me` | No |
@@ -1468,6 +1469,7 @@ Here's a list of public Fediverse services.
 | `arles.red` | No |
 | `arles.us` | No |
 | `arlington.social` | No |
+| `arlost.com` | Yes |
 | `armadillo.social` | No |
 | `armendarizprecioso.ovh` | No |
 | `armingbears.com` | No |
@@ -3093,6 +3095,7 @@ Here's a list of public Fediverse services.
 | `bus-hit.me` | No |
 | `busaiku.com` | No |
 | `bushidodreams.com` | Yes |
+| `bushiroad.space` | Yes |
 | `bushu-denno.com` | No |
 | `businessinsider.com` | Yes |
 | `busshi.moe` | No |
@@ -4080,6 +4083,7 @@ Here's a list of public Fediverse services.
 | `colson.re` | No |
 | `colton.world` | No |
 | `com.de` | No |
+| `coma.pictures` | No |
 | `comacero.com` | No |
 | `comam.es` | No |
 | `combatbahai.com` | No |
@@ -5547,6 +5551,7 @@ Here's a list of public Fediverse services.
 | `djs.social` | No |
 | `djsumdog.com` | No |
 | `dju.social` | No |
+| `djuchuu.co.uk` | No |
 | `dlf.social` | Yes |
 | `dlford.io` | No |
 | `dline.xyz` | No |
@@ -12341,7 +12346,7 @@ Here's a list of public Fediverse services.
 | `levijataner.net` | Yes |
 | `levis.name` | Yes |
 | `levome-dol.com` | No |
-| `lewacki.space` | No |
+| `lewacki.space` | Yes |
 | `lewactwo.pl` | No |
 | `lewd.best` | No |
 | `lewd.cat` | Yes |
@@ -13305,6 +13310,7 @@ Here's a list of public Fediverse services.
 | `manalejandro.com` | No |
 | `mancave.de` | No |
 | `mancavgeek.co.uk` | No |
+| `mandelbrotsetapp.com` | No |
 | `mander.xyz` | No |
 | `mandodon.com` | No |
 | `mandps.net` | No |
@@ -15224,6 +15230,7 @@ Here's a list of public Fediverse services.
 | `musiq.fan` | Yes |
 | `muskodon.social` | Yes |
 | `musksocial.com` | No |
+| `musktodon.de` | Yes |
 | `muslims.net.in` | No |
 | `mustard.blog` | No |
 | `mustardon.tokyo` | No |
@@ -18341,6 +18348,7 @@ Here's a list of public Fediverse services.
 | `privacyofficers.social` | No |
 | `privacytools.io` | Yes |
 | `privatedns.org` | No |
+| `privex.social` | No |
 | `privey.xyz` | Yes |
 | `prnetsec.ml` | No |
 | `pro.yt` | No |
@@ -18844,6 +18852,7 @@ Here's a list of public Fediverse services.
 | `ragnate.la` | No |
 | `ragtag.moe` | Yes |
 | `rah.social` | No |
+| `rai.dog` | No |
 | `raichu.lol` | No |
 | `raidarou.com` | No |
 | `rail.chat` | No |
@@ -23076,6 +23085,7 @@ Here's a list of public Fediverse services.
 | `tomskee.dev` | No |
 | `tomtau.be` | No |
 | `tomtaylor.co.uk` | Yes |
+| `tomwiththeweather.org` | Yes |
 | `tomwsmf.com` | No |
 | `tonholzpixel.de` | No |
 | `toni.im` | Yes |
@@ -25833,6 +25843,7 @@ Here's a list of public Fediverse services.
 | `zackroniacs.com` | No |
 | `zaclys.com` | No |
 | `zacwe.st` | Yes |
+| `zadankai.club` | Yes |
 | `zagasy.cf` | No |
 | `zaibon.be` | No |
 | `zaisu-club.xyz` | Yes |
@@ -26092,8 +26103,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,443 |
-| Normal | 20,606 |
+| Cloudflare | 5,449 |
+| Normal | 20,611 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
