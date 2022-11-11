@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,693 |
 | net | 1,992 |
-| social | 1,701 |
-| org | 1,419 |
-| de | 1,308 |
+| social | 1,702 |
+| org | 1,420 |
+| de | 1,310 |
 
 
 - Mastodon, Pleroma, etc
@@ -409,6 +409,7 @@ Here's a list of public Fediverse services.
 | `8mitsu.net` | No |
 | `8n.lt` | Yes |
 | `8nd.ru` | Yes |
+| `8sp.de` | No |
 | `8stars.org` | No |
 | `8tracks.com` | Yes |
 | `9177xe.tokyo` | No |
@@ -5576,6 +5577,7 @@ Here's a list of public Fediverse services.
 | `domtube.de` | No |
 | `don.im` | Yes |
 | `donabeneko.jp` | No |
+| `donadvr.de` | No |
 | `donar.cz` | No |
 | `donar.dev` | No |
 | `donbongo.com` | Yes |
@@ -7661,6 +7663,7 @@ Here's a list of public Fediverse services.
 | `fromouter.space` | Yes |
 | `fromthedeskofkilgoretrout.org` | No |
 | `front-end.social` | No |
+| `frontend.lt` | No |
 | `frontend.social` | No |
 | `frontierfoundry.co` | No |
 | `frontrange.co` | No |
@@ -8004,6 +8007,7 @@ Here's a list of public Fediverse services.
 | `garranoileain.com` | No |
 | `garri.us` | No |
 | `garrison.beer` | No |
+| `garudalinux.org` | Yes |
 | `garwinch.fr` | No |
 | `garwood.io` | No |
 | `garyhawkins.uk` | No |
@@ -20757,6 +20761,7 @@ Here's a list of public Fediverse services.
 | `snowgoons.ro` | Yes |
 | `snowii.moe` | Yes |
 | `snowleopard.run` | Yes |
+| `snowmew.gay` | No |
 | `snowshaven.space` | No |
 | `sns-sakura.jp` | No |
 | `sns.onl` | No |
@@ -20955,6 +20960,7 @@ Here's a list of public Fediverse services.
 | `soulice.moe` | No |
 | `soultribe.net` | Yes |
 | `soulzeppel.in` | No |
+| `soundbyte.social` | No |
 | `soundcafe.nl` | No |
 | `soundcheck.fr` | No |
 | `soundship.de` | No |
@@ -22847,7 +22853,7 @@ Here's a list of public Fediverse services.
 | `toot.cf` | No |
 | `toot.chat` | No |
 | `toot.click` | No |
-| `toot.cloud` | No |
+| `toot.cloud` | Yes |
 | `toot.community` | Yes |
 | `toot.computer` | No |
 | `toot.cool` | Yes |
@@ -25785,8 +25791,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,372 |
-| Normal | 20,370 |
+| Cloudflare | 5,374 |
+| Normal | 20,374 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
