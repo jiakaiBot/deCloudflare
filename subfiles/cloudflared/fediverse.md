@@ -5134,6 +5134,7 @@ Here's a list of public Fediverse services.
 | `depone.net` | No |
 | `deppenkessel.de` | No |
 | `deprecastan.com` | No |
+| `depressed.bar` | No |
 | `depucelage.xyz` | No |
 | `der-postillon.com` | No |
 | `der.gs` | No |
@@ -17879,6 +17880,7 @@ Here's a list of public Fediverse services.
 | `polli.social` | No |
 | `polonkai.eu` | No |
 | `polsum.rocks` | No |
+| `polxa.online` | No |
 | `polyamory.social` | No |
 | `polycule.club` | Yes |
 | `polyglot.city` | No |
@@ -25778,7 +25780,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,369 |
-| Normal | 20,365 |
+| Normal | 20,367 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
