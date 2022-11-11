@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,693 |
 | net | 1,993 |
-| social | 1,702 |
+| social | 1,704 |
 | org | 1,420 |
 | de | 1,311 |
 
@@ -1026,6 +1026,7 @@ Here's a list of public Fediverse services.
 | `amemiya.work` | No |
 | `amencarini.com` | No |
 | `amenti.eu.org` | No |
+| `america.social` | No |
 | `americanthinker.com` | No |
 | `americassweethe.art` | No |
 | `ameruda.icu` | No |
@@ -17869,6 +17870,7 @@ Here's a list of public Fediverse services.
 | `pokemonunite.tv` | No |
 | `poketnetpeertube.online` | No |
 | `poketnetpeertube.site` | No |
+| `poketopia.city` | No |
 | `pokorny.ca` | Yes |
 | `pol.social` | No |
 | `polari.com` | No |
@@ -20527,6 +20529,7 @@ Here's a list of public Fediverse services.
 | `skeleton.army` | Yes |
 | `skeleton.cool` | No |
 | `skeletons.gay` | No |
+| `skepteis.social` | No |
 | `skeptics.social` | No |
 | `skeptikon.fr` | No |
 | `skeptube.fr` | No |
@@ -21257,6 +21260,7 @@ Here's a list of public Fediverse services.
 | `starsky.me` | Yes |
 | `start9labs.com` | Yes |
 | `startracks.club` | No |
+| `startrekshitposti.ng` | No |
 | `startup-mstdn.com` | No |
 | `startupcafe.xyz` | No |
 | `startx.de` | No |
@@ -25797,7 +25801,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,374 |
-| Normal | 20,379 |
+| Normal | 20,383 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
