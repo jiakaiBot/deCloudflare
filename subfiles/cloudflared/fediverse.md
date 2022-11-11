@@ -4323,6 +4323,7 @@ Here's a list of public Fediverse services.
 | `crew.moe` | No |
 | `cri.dev` | Yes |
 | `criadoperez.com` | No |
+| `crid.land` | No |
 | `crime.cafe` | No |
 | `crime.group` | No |
 | `crime.team` | Yes |
@@ -23632,6 +23633,7 @@ Here's a list of public Fediverse services.
 | `unimeow.space` | No |
 | `uninform.at` | No |
 | `uninsane.org` | No |
+| `union.place` | No |
 | `unipar.online` | No |
 | `unipd.it` | Yes |
 | `unir.se` | No |
@@ -25784,7 +25786,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,372 |
-| Normal | 20,368 |
+| Normal | 20,370 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
