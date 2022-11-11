@@ -24281,6 +24281,7 @@ Here's a list of public Fediverse services.
 | `wabarr.com` | No |
 | `wachbleiben.ch` | No |
 | `wackwack.net` | No |
+| `wacky.town` | No |
 | `wadza.fr` | No |
 | `waferbaby.com` | No |
 | `waffle.tech` | No |
@@ -25782,7 +25783,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,370 |
-| Normal | 20,368 |
+| Normal | 20,369 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
