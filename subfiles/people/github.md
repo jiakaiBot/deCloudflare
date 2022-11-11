@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error in replit](https://github.com/SealedSaucer/Online-Forever/issues/18)
 - [Huobi future swap watcherOrderBook maintaining the orderbook in an incorrect way](https://github.com/ccxt/ccxt/issues/15641)
 - [Roundcube Change Password Plugin](https://github.com/myvesta/vesta/issues/149)
 - [CloudFlare Increase in 503 error codes to resources behind Cloudflare Tunnel](https://github.com/MatBenfield/news/issues/5649)
