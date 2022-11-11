@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,693 |
 | net | 1,993 |
 | social | 1,704 |
-| org | 1,420 |
+| org | 1,421 |
 | de | 1,311 |
 
 
@@ -6305,6 +6305,7 @@ Here's a list of public Fediverse services.
 | `energyfintech.io` | No |
 | `energyflow.rodeo` | No |
 | `enes.lv` | No |
+| `engadgets.news` | No |
 | `engagemedia.org` | Yes |
 | `engard.me` | No |
 | `engekidon.net` | No |
@@ -12135,6 +12136,7 @@ Here's a list of public Fediverse services.
 | `leo.re.kr` | Yes |
 | `leobrown.net` | No |
 | `leoji.codes` | Yes |
+| `leoleoasd.me` | Yes |
 | `leonadi.de` | Yes |
 | `leopard.tube` | No |
 | `leoprox.icu` | No |
@@ -13589,6 +13591,7 @@ Here's a list of public Fediverse services.
 | `mastodonchile.club` | Yes |
 | `mastodoncr.com` | No |
 | `mastodoncuba.club` | No |
+| `mastodonczech.cz` | No |
 | `mastodones.club` | No |
 | `mastodonevry.ovh` | No |
 | `mastodonfor.me` | No |
@@ -19688,6 +19691,7 @@ Here's a list of public Fediverse services.
 | `sapphos.be` | No |
 | `sapratza.in` | No |
 | `saptodon.org` | No |
+| `sarahlizzy.org` | No |
 | `sarahvhines.com` | No |
 | `saramara.ai` | Yes |
 | `sarber.plus` | Yes |
@@ -23616,7 +23620,7 @@ Here's a list of public Fediverse services.
 | `une33.club` | No |
 | `uneex.net` | No |
 | `unehre.de` | No |
-| `unextro.net` | No |
+| `unextro.net` | Yes |
 | `unfediverse.com` | No |
 | `unfettered.net` | Yes |
 | `unfilter.tube` | No |
@@ -25800,8 +25804,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,374 |
-| Normal | 20,383 |
+| Cloudflare | 5,376 |
+| Normal | 20,385 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
