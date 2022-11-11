@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,730 |
-| net | 2,012 |
-| social | 1,745 |
-| org | 1,435 |
+| net | 2,013 |
+| social | 1,747 |
+| org | 1,436 |
 | de | 1,329 |
 
 
@@ -103,6 +103,7 @@ Here's a list of public Fediverse services.
 | `0xfa.de` | No |
 | `0xfeedc0.de` | No |
 | `0xff.cafe` | No |
+| `0xff.social` | No |
 | `10000x.dev` | Yes |
 | `1000dollars.info` | No |
 | `1001solutions.net` | No |
@@ -1253,6 +1254,7 @@ Here's a list of public Fediverse services.
 | `antelopelovefan.com` | No |
 | `antenesse.ml` | No |
 | `anthill.engineering` | No |
+| `antho.dev` | No |
 | `anthro.cc` | No |
 | `anthro.in.th` | Yes |
 | `anthro.social` | No |
@@ -3753,6 +3755,7 @@ Here's a list of public Fediverse services.
 | `chubbybubble.life` | No |
 | `chuck.town` | No |
 | `chudbuds.lol` | No |
+| `chudbuds.org` | No |
 | `chumley.io` | No |
 | `chun.pro` | Yes |
 | `chunboan.zone` | No |
@@ -8108,6 +8111,7 @@ Here's a list of public Fediverse services.
 | `garranoileain.com` | No |
 | `garri.us` | No |
 | `garrison.beer` | No |
+| `garrya.moe` | No |
 | `garudalinux.org` | Yes |
 | `garwinch.fr` | No |
 | `garwood.io` | No |
@@ -10674,6 +10678,7 @@ Here's a list of public Fediverse services.
 | `jeffjeff.us` | No |
 | `jeffreymiller.org` | No |
 | `jeffscloud.com` | No |
+| `jeffyen.net` | No |
 | `jehuty11.com` | No |
 | `jel-tech.com` | Yes |
 | `jeli.kz` | No |
@@ -12671,6 +12676,7 @@ Here's a list of public Fediverse services.
 | `livingdistant.com` | No |
 | `livingutopia.org` | No |
 | `liw.fi` | No |
+| `liyuu.icu` | No |
 | `lizards.live` | No |
 | `lizrodriguez.io` | No |
 | `lj.gl` | No |
@@ -13152,6 +13158,7 @@ Here's a list of public Fediverse services.
 | `maddypa.ws` | No |
 | `madeorsk.com` | No |
 | `madeoutofmeat.com` | No |
+| `madfps.social` | No |
 | `madgui.fr` | No |
 | `madholi.cc` | No |
 | `madhousebeyond.com` | No |
@@ -16640,6 +16647,7 @@ Here's a list of public Fediverse services.
 | `ohineri.me` | No |
 | `ohmygod.social` | No |
 | `ohmylanta.today` | No |
+| `ohmyposh.dev` | Yes |
 | `ohno.club` | No |
 | `ohno.host` | No |
 | `ohnomy.rocks` | No |
@@ -20514,6 +20522,7 @@ Here's a list of public Fediverse services.
 | `shiki.one` | No |
 | `shillest.net` | No |
 | `shimaidon.net` | No |
+| `shimapan.moe` | No |
 | `shimbashi.beer` | No |
 | `shimmy1996.com` | No |
 | `shimokita.social` | No |
@@ -22332,6 +22341,7 @@ Here's a list of public Fediverse services.
 | `technodro.me` | No |
 | `technodruide.ca` | No |
 | `technologeek.me` | No |
+| `technologists.cloud` | No |
 | `technologyinmontreal.com` | No |
 | `technomancy.space` | No |
 | `technomancy.us` | No |
@@ -26103,8 +26113,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,449 |
-| Normal | 20,611 |
+| Cloudflare | 5,450 |
+| Normal | 20,620 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
