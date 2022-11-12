@@ -513,10 +513,13 @@ www.update.odaanews.net
 www.usps-service-mail-pickup-jsp.ocry.com
 zoominfo.com.login.onlineactionsports.com.au
 amazonproductapi.officetada.work
+api.aws-ap1.garden.internal.live.k8s.ondemand.com
 api.cf.eu12.hana.ondemand.com
 api.onsolvegateway.com
 api.prod-haas.hc-canary.shoot.live.k8s-hana.ondemand.com
 api.updatefullpage.review.acdc.odiwi.fr
+auth-dev.oose.de
+auth.omega-caci.com
 autodiscover.oyagtv.site
 bank.ofgeorgia.pro
 beforeupdate.ormskirkskipsltd.co.uk
@@ -533,6 +536,7 @@ cpanel.cherypretoria-demo.oraclegroup.co.za
 cpcalendars.cherypretoria-demo.oraclegroup.co.za
 cpcalendars.office365verified.online
 cpcontacts.office365verified.online
+cpmnx-ir1.onbmc.com
 crowdin.onfastspring.com
 cybersmartbyrendtech.ontralink.com
 dev.mcsf.ws.operatec.eu
@@ -548,10 +552,12 @@ go.openathens.net
 green-stone.online-it-support.dk
 gtm-wmartins.onesourcelogin.com
 gtmqa-borgwarner.onesourcelogin.com
+helpdesk.obvs.solutions
 idp.otago.ac.nz
 inpost-xszm.order1894.biz
 inpost.order982445.org
 integration-dev-06tmlg12.it-cpi009-rt.cfapps.us20.hana.ondemand.com
+investmates.onelink.me
 kl.osmoticchalah.com
 klantportaal.ovha.nl
 lookadowei.onedumb.com
@@ -565,6 +571,7 @@ newupdate.okanefinance.ph
 nicaoiwe.organiccrap.com
 oauth-authorizer.com
 obcansky-parlament.info
+oberman.nl
 objection.tracker-sail.onlineregistrationforms.com
 objectstorage.eu-milan-1.oraclecloud.com
 objectstorage.uk-london-1.oraclecloud.com
@@ -572,6 +579,7 @@ objectstorage.us-sanjose-1.oraclecloud.com
 obsidianorderdiscord.com
 odrealty.mx
 oefentoets.com
+okatteya.owst.jp
 olamtov.com
 olim-meminisse.fr
 olx.order982445.org
@@ -594,6 +602,7 @@ opensiddur.org
 orangebiotech.in
 orbit-controls.com
 organicplantbasedexpo.dk
+ortsbezogenekunst.at
 oshr.ru
 osr4rights.org
 oswaldhill.bond
@@ -614,11 +623,13 @@ producer-user10.training.openshift.ch
 producer-user15.training.openshift.ch
 producer-user6.training.openshift.ch
 producer-user8.training.openshift.ch
+products-services.ouznoreyni.tech
 purehealth.ontralink.com
 quios-service.operayo.de
 real11.onelink.me
 recibos.ose.com.uy
 rsp-0003.oberthur.net
+service-discovery.ouznoreyni.tech
 servicebus-t.overijssel.nl
 shared-cw-alarm.orkesconductor.com
 shop.oxfamnovib.nl
@@ -629,8 +640,11 @@ stream5.opb.org
 studentverification.oivetindia.com
 support.outfox.nl
 tantodomani.owst.jp
+thales1-livelab.prod.ondemandconnectivity.com
 tickets.oztix.com.au
 titustap.optrust.com
+uat-auth.omega-caci.com
+uat-certauth.omega-caci.com
 uatybaepsapi.oasyspay.in
 upbit-global.onelink.me
 user.onecircle.live
@@ -640,6 +654,7 @@ w.old.zmail.oslopostorkester.no
 webdav.oures.ru
 webmail.chery.oraclegroup.co.za
 wmail.openquest.com.pt
+www.actualizar.arsbancocentral.opensoftdo.com
 www.beforeupdate.ormskirkskipsltd.co.uk
 www.billing.oxmobility.com
 www.clientsrvicesrequstdelivryuspxxreview0931.oznemedya.com
@@ -656,6 +671,7 @@ www.ohchr.org
 www.oki.com
 www.oldcook.com
 www.olympiaindivisible.org
+www.omenie.com
 www.omwis.de
 www.one-place-studies.org
 www.oneapi.io
