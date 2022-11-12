@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 2,030 |
 | social | 1,800 |
 | org | 1,454 |
-| de | 1,344 |
+| de | 1,345 |
 
 
 - Mastodon, Pleroma, etc
@@ -12534,6 +12534,7 @@ Here's a list of public Fediverse services.
 | `lgtm.systems` | No |
 | `lguruprasad.in` | No |
 | `lgy.fr` | No |
+| `lhamadopago.de` | No |
 | `lhc.net.br` | Yes |
 | `lhin.space` | No |
 | `lhochet.dev` | No |
@@ -16552,6 +16553,7 @@ Here's a list of public Fediverse services.
 | `nox-rhea.org` | No |
 | `noxblr.com` | No |
 | `noxie.ch` | No |
+| `noyer.app` | No |
 | `noyuno.space` | No |
 | `nozzi.social` | No |
 | `npa-marseille.org` | No |
@@ -23605,6 +23607,7 @@ Here's a list of public Fediverse services.
 | `tranny.town` | No |
 | `tranquilbigfoot.gg` | No |
 | `trans-agenda.de` | No |
+| `trans.au` | No |
 | `trans.fm` | No |
 | `trans.house` | No |
 | `trans.town` | No |
@@ -26402,7 +26405,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,519 |
-| Normal | 20,839 |
+| Normal | 20,842 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
