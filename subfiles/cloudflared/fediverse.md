@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,765 |
-| net | 2,031 |
+| net | 2,032 |
 | social | 1,807 |
 | org | 1,457 |
 | de | 1,347 |
@@ -812,7 +812,6 @@ Here's a list of public Fediverse services.
 | `akanechan.world` | No |
 | `akapache.co` | No |
 | `akapolypse.de` | No |
-| `akari-network.jp` | No |
 | `akarinext.org` | Yes |
 | `akashi.cloud` | No |
 | `akashiensis.com` | No |
@@ -1035,6 +1034,7 @@ Here's a list of public Fediverse services.
 | `am9gw.in` | No |
 | `ama.ne.jp` | Yes |
 | `amaa.it` | No |
+| `amanda.systems` | Yes |
 | `amane.moe` | Yes |
 | `amanite.be` | No |
 | `amanzi.nz` | Yes |
@@ -1161,7 +1161,6 @@ Here's a list of public Fediverse services.
 | `andresen.mx` | No |
 | `andrewbaker.uk` | Yes |
 | `andrewbarnes.design` | No |
-| `andrewleahey.com` | No |
 | `andrewmichaud.com` | No |
 | `andrews.me` | Yes |
 | `andrewstaylor.com` | Yes |
@@ -1803,7 +1802,6 @@ Here's a list of public Fediverse services.
 | `autrechose.club` | No |
 | `autroisieme.top` | No |
 | `auttaja.io` | Yes |
-| `autumnsky.jp` | No |
 | `av8r.ca` | No |
 | `avali.co.uk` | Yes |
 | `avalos.me` | No |
@@ -15347,6 +15345,7 @@ Here's a list of public Fediverse services.
 | `mstdnpaoon.info` | No |
 | `mstdntr.com` | No |
 | `mstdon.app` | No |
+| `mstdon.com` | No |
 | `mstdona.net` | No |
 | `mstdoujin.net` | No |
 | `mstodon.eu` | No |
@@ -17675,7 +17674,6 @@ Here's a list of public Fediverse services.
 | `peatral.xyz` | Yes |
 | `pebcak.de` | Yes |
 | `pech.tech` | No |
-| `peck.li` | No |
 | `pede.rs` | No |
 | `pedesen.de` | No |
 | `pedo.house` | No |
@@ -18453,6 +18451,7 @@ Here's a list of public Fediverse services.
 | `postea.me` | No |
 | `postear.xyz` | No |
 | `poster.place` | Yes |
+| `posting.party` | Yes |
 | `postmarketos.org` | No |
 | `postmoderns.info` | No |
 | `postpandemicparty.org` | No |
@@ -20089,6 +20088,7 @@ Here's a list of public Fediverse services.
 | `sakaki333.com` | No |
 | `sakamoto.gq` | No |
 | `sakana.cx` | No |
+| `sakede.su` | Yes |
 | `sakejp.tokyo` | No |
 | `sakoku.jp` | No |
 | `sakrajda.eu` | No |
@@ -20269,6 +20269,7 @@ Here's a list of public Fediverse services.
 | `sb17.space` | No |
 | `sbaron.fr` | No |
 | `sbg-social.at` | No |
+| `sbit.xyz` | No |
 | `sbite0138.net` | Yes |
 | `sbnode.com` | Yes |
 | `sbpk.fr` | Yes |
@@ -22301,6 +22302,7 @@ Here's a list of public Fediverse services.
 | `sysblip.com` | No |
 | `syscaller.jp` | No |
 | `sysctl.io` | Yes |
+| `syshalt.net` | No |
 | `sysi.work` | No |
 | `sysinfra.info` | No |
 | `sysk-work.net` | Yes |
@@ -26450,8 +26452,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,529 |
-| Normal | 20,878 |
+| Cloudflare | 5,532 |
+| Normal | 20,877 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
