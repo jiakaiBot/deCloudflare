@@ -650,7 +650,7 @@ Here's a list of public Fediverse services.
 | `adorsaz.ch` | No |
 | `adriaan.se` | No |
 | `adrianperales.com` | No |
-| `adrichat.de` | Yes |
+| `adrichat.de` | No |
 | `adriel.info` | No |
 | `adrien.run` | No |
 | `adrienlacombe.me` | No |
@@ -3101,7 +3101,6 @@ Here's a list of public Fediverse services.
 | `bus-hit.me` | No |
 | `busaiku.com` | No |
 | `bushidodreams.com` | Yes |
-| `bushiroad.space` | Yes |
 | `bushu-denno.com` | No |
 | `businessinsider.com` | Yes |
 | `busshi.moe` | No |
@@ -3131,6 +3130,7 @@ Here's a list of public Fediverse services.
 | `bygg.land` | No |
 | `byl.fr` | No |
 | `bylsem.com` | No |
+| `byme.at` | No |
 | `byoblu.com` | Yes |
 | `byou.social` | No |
 | `byte.wtf` | Yes |
@@ -24545,7 +24545,7 @@ Here's a list of public Fediverse services.
 | `volochay.info` | No |
 | `volse.no` | No |
 | `volt.cafe` | No |
-| `volt.social` | No |
+| `volt.social` | Yes |
 | `voltage.nz` | No |
 | `voluntary.world` | Yes |
 | `voluntaryaction.network` | No |
@@ -26170,8 +26170,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,467 |
-| Normal | 20,660 |
+| Cloudflare | 5,466 |
+| Normal | 20,661 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
