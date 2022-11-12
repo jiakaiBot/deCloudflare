@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,765 |
+| com | 3,767 |
 | net | 2,032 |
 | social | 1,807 |
 | org | 1,457 |
@@ -812,6 +812,7 @@ Here's a list of public Fediverse services.
 | `akanechan.world` | No |
 | `akapache.co` | No |
 | `akapolypse.de` | No |
+| `akari-network.jp` | No |
 | `akarinext.org` | Yes |
 | `akashi.cloud` | No |
 | `akashiensis.com` | No |
@@ -1161,6 +1162,7 @@ Here's a list of public Fediverse services.
 | `andresen.mx` | No |
 | `andrewbaker.uk` | Yes |
 | `andrewbarnes.design` | No |
+| `andrewleahey.com` | No |
 | `andrewmichaud.com` | No |
 | `andrews.me` | Yes |
 | `andrewstaylor.com` | Yes |
@@ -1802,6 +1804,7 @@ Here's a list of public Fediverse services.
 | `autrechose.club` | No |
 | `autroisieme.top` | No |
 | `auttaja.io` | Yes |
+| `autumnsky.jp` | No |
 | `av8r.ca` | No |
 | `avali.co.uk` | Yes |
 | `avalos.me` | No |
@@ -2340,7 +2343,6 @@ Here's a list of public Fediverse services.
 | `beudot07.net` | No |
 | `beule.be` | No |
 | `beutner.de` | No |
-| `beutner.name` | No |
 | `bewegung.jetzt` | No |
 | `bewilderbeest.net` | No |
 | `beyblader.top` | No |
@@ -4615,6 +4617,7 @@ Here's a list of public Fediverse services.
 | `cuken.net` | Yes |
 | `culair.nl` | No |
 | `cultic.xyz` | No |
+| `cultofshiv.wtf` | No |
 | `cultur.social` | No |
 | `cultura.gov.br` | No |
 | `culturaeinnovacion.social` | No |
@@ -13771,7 +13774,7 @@ Here's a list of public Fediverse services.
 | `mastodon-test233.xyz` | No |
 | `mastodon-tiray.me` | No |
 | `mastodon-toyama.xyz` | No |
-| `mastodon-train.info` | Yes |
+| `mastodon-train.info` | No |
 | `mastodon-us.net` | No |
 | `mastodon.academy` | No |
 | `mastodon.actor` | No |
@@ -13876,7 +13879,7 @@ Here's a list of public Fediverse services.
 | `mastodon.moe` | Yes |
 | `mastodon.my` | No |
 | `mastodon.my.id` | Yes |
-| `mastodon.nagoya` | Yes |
+| `mastodon.nagoya` | No |
 | `mastodon.nara.jp` | No |
 | `mastodon.network` | Yes |
 | `mastodon.ninja` | Yes |
@@ -13945,7 +13948,7 @@ Here's a list of public Fediverse services.
 | `mastodonargentina.club` | No |
 | `mastodonaustralia.com.au` | No |
 | `mastodonbg.com` | No |
-| `mastodonchile.club` | Yes |
+| `mastodonchile.club` | No |
 | `mastodoncr.com` | No |
 | `mastodoncuba.club` | No |
 | `mastodonczech.cz` | No |
@@ -13980,7 +13983,7 @@ Here's a list of public Fediverse services.
 | `mastodons.jp` | No |
 | `mastodonserver.eu` | No |
 | `mastodonserver.se` | No |
-| `mastodonsocial.app` | Yes |
+| `mastodonsocial.app` | No |
 | `mastodonsocial.au` | Yes |
 | `mastodonsocial.net` | No |
 | `mastodonsocial.nl` | No |
@@ -14029,6 +14032,7 @@ Here's a list of public Fediverse services.
 | `mastonon.net` | Yes |
 | `mastoot.com` | No |
 | `mastopr.xyz` | No |
+| `mastopub.com` | No |
 | `mastoq.com` | No |
 | `mastotn.com` | No |
 | `mastoton.fi` | No |
@@ -14200,6 +14204,7 @@ Here's a list of public Fediverse services.
 | `mdrockwell.net` | No |
 | `mdrqnxtagon.pw` | No |
 | `mdunn.io` | No |
+| `meatbag.app` | No |
 | `meatball.lol` | No |
 | `meatpi.es` | No |
 | `meawchill.xyz` | No |
@@ -17674,6 +17679,7 @@ Here's a list of public Fediverse services.
 | `peatral.xyz` | Yes |
 | `pebcak.de` | Yes |
 | `pech.tech` | No |
+| `peck.li` | No |
 | `pede.rs` | No |
 | `pedesen.de` | No |
 | `pedo.house` | No |
@@ -26452,8 +26458,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,532 |
-| Normal | 20,877 |
+| Cloudflare | 5,528 |
+| Normal | 20,887 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
