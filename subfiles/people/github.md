@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [S3 Bucket Can't attach files to posts... error log shows Aws::Sigv4::Errors::MissingCredentialsError](https://github.com/mastodon/mastodon/issues/20508)
 - [Android app can't connect to api.tonkeeper.com](https://github.com/tonkeeper/wallet/issues/126)
 - [Mangahasu cannot bypass cloudflare](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/14235)
 - [ical link - no sync](https://github.com/humhub-contrib/external_calendar/issues/37)
