@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,764 |
+| com | 3,765 |
 | net | 2,031 |
-| social | 1,806 |
+| social | 1,807 |
 | org | 1,457 |
 | de | 1,347 |
 
@@ -812,6 +812,7 @@ Here's a list of public Fediverse services.
 | `akanechan.world` | No |
 | `akapache.co` | No |
 | `akapolypse.de` | No |
+| `akari-network.jp` | No |
 | `akarinext.org` | Yes |
 | `akashi.cloud` | No |
 | `akashiensis.com` | No |
@@ -1160,6 +1161,7 @@ Here's a list of public Fediverse services.
 | `andresen.mx` | No |
 | `andrewbaker.uk` | Yes |
 | `andrewbarnes.design` | No |
+| `andrewleahey.com` | No |
 | `andrewmichaud.com` | No |
 | `andrews.me` | Yes |
 | `andrewstaylor.com` | Yes |
@@ -1801,6 +1803,7 @@ Here's a list of public Fediverse services.
 | `autrechose.club` | No |
 | `autroisieme.top` | No |
 | `auttaja.io` | Yes |
+| `autumnsky.jp` | No |
 | `av8r.ca` | No |
 | `avali.co.uk` | Yes |
 | `avalos.me` | No |
@@ -2331,6 +2334,7 @@ Here's a list of public Fediverse services.
 | `betchesbubble.com` | No |
 | `bethejustin.com` | No |
 | `better.boston` | Yes |
+| `betterconversations.online` | Yes |
 | `betterletter.io` | No |
 | `betterodds.social` | No |
 | `betterthantwitter.com` | No |
@@ -13237,6 +13241,7 @@ Here's a list of public Fediverse services.
 | `lwis.me` | Yes |
 | `lxf.by` | No |
 | `lxp-srvr.xyz` | Yes |
+| `lxs.social` | No |
 | `lxsameer.com` | Yes |
 | `lybre.net` | No |
 | `lyc.re` | No |
@@ -17670,6 +17675,7 @@ Here's a list of public Fediverse services.
 | `peatral.xyz` | Yes |
 | `pebcak.de` | Yes |
 | `pech.tech` | No |
+| `peck.li` | No |
 | `pede.rs` | No |
 | `pedesen.de` | No |
 | `pedo.house` | No |
@@ -23346,7 +23352,7 @@ Here's a list of public Fediverse services.
 | `todon.nl` | No |
 | `toepi.moe` | Yes |
 | `toeushimwk.work` | No |
-| `tofu.city` | No |
+| `tofu.city` | Yes |
 | `tofu.kim` | Yes |
 | `tofu.pt` | No |
 | `tofulab.jp` | No |
@@ -26444,8 +26450,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,527 |
-| Normal | 20,874 |
+| Cloudflare | 5,529 |
+| Normal | 20,878 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
