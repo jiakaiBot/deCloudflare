@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,739 |
 | net | 2,017 |
-| social | 1,760 |
+| social | 1,761 |
 | org | 1,443 |
 | de | 1,330 |
 
@@ -4580,6 +4580,7 @@ Here's a list of public Fediverse services.
 | `curiositykilledthebookworm.net` | No |
 | `curiouscabbit.social` | No |
 | `curiousminds.net` | No |
+| `curling.social` | No |
 | `curlyphries.net` | No |
 | `curmudgeon.cafe` | No |
 | `curmudgeon.tech` | No |
@@ -18413,6 +18414,7 @@ Here's a list of public Fediverse services.
 | `procrastinate.work` | No |
 | `procrastination.party` | No |
 | `procub.us` | No |
+| `prodromou.pub` | No |
 | `producer-network.de` | No |
 | `productionservers.net` | No |
 | `producttalk.org` | Yes |
@@ -25854,6 +25856,7 @@ Here's a list of public Fediverse services.
 | `yunyun.moe` | Yes |
 | `yupgup.com` | No |
 | `yurec.online` | No |
+| `yuri.camp` | Yes |
 | `yuri.ro` | No |
 | `yurikonanao.cloud` | No |
 | `yurisora.com` | No |
@@ -26171,8 +26174,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,467 |
-| Normal | 20,661 |
+| Cloudflare | 5,468 |
+| Normal | 20,663 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
