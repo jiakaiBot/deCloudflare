@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-14: [ORD (Chicago) on 2022-11-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y4cmt79ztwcw)
 - 2022-11-14: [MXP (Milan) on 2022-11-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/6gy4v3ccpth3)
 - 2022-11-15: [SFO (San Francisco) on 2022-11-15](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rjsctl3wb44k)
 - 2022-11-11: [Passive Origin Monitoring issues.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f46gjgds9g2l)
