@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Mangahasu cannot bypass cloudflare](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/14235)
 - [ical link - no sync](https://github.com/humhub-contrib/external_calendar/issues/37)
 - [CloudFlare Blocking Viewing .env in File Management](https://github.com/wisp-gg/frontend/issues/346)
 - [provider cache becomes ineffective with 1.4.0-alpha release](https://github.com/hashicorp/terraform/issues/32205)
