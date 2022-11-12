@@ -3102,6 +3102,7 @@ Here's a list of public Fediverse services.
 | `bus-hit.me` | No |
 | `busaiku.com` | No |
 | `bushidodreams.com` | Yes |
+| `bushiroad.space` | Yes |
 | `bushu-denno.com` | No |
 | `businessinsider.com` | Yes |
 | `busshi.moe` | No |
@@ -26177,7 +26178,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,468 |
+| Cloudflare | 5,469 |
 | Normal | 20,666 |
 
 
