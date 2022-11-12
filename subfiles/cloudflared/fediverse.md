@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,739 |
+| com | 3,740 |
 | net | 2,017 |
 | social | 1,761 |
 | org | 1,443 |
@@ -1964,6 +1964,7 @@ Here's a list of public Fediverse services.
 | `baixllobregat.social` | No |
 | `bajax.us` | No |
 | `bajsicki.com` | No |
+| `bakedbean.xyz` | No |
 | `bakitodon.com` | No |
 | `bakunet.me` | Yes |
 | `bakusocial.com` | No |
@@ -25045,6 +25046,7 @@ Here's a list of public Fediverse services.
 | `windish.jp` | No |
 | `windlepoonz.net` | No |
 | `windoos.click` | No |
+| `windows11sucks.com` | No |
 | `windows98.dev` | No |
 | `windowsnerd.cc` | No |
 | `windwords.eu.org` | No |
@@ -26176,7 +26178,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,469 |
-| Normal | 20,663 |
+| Normal | 20,665 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
