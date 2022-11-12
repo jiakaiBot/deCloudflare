@@ -7058,6 +7058,7 @@ Here's a list of public Fediverse services.
 | `fediverse.berlin` | No |
 | `fediverse.blog` | No |
 | `fediverse.ca` | No |
+| `fediverse.cloud` | No |
 | `fediverse.club` | No |
 | `fediverse.co.za` | Yes |
 | `fediverse.cyou` | Yes |
@@ -15960,7 +15961,7 @@ Here's a list of public Fediverse services.
 | `nickredmark.com` | No |
 | `nicksellen.co.uk` | No |
 | `nickslaney.net` | No |
-| `nickw.io` | No |
+| `nickw.io` | Yes |
 | `nickwasused.com` | Yes |
 | `nickwood.ninja` | No |
 | `nickz.org` | No |
@@ -26174,7 +26175,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,468 |
+| Cloudflare | 5,469 |
 | Normal | 20,663 |
 
 
