@@ -8501,6 +8501,7 @@ Do not create new issue or we will close it as duplicate.
 | [SAVEMYA07071991@twitter](https://twitter.com/SAVEMYA07071991/status/1395205277465513987) | advertise |
 | [SaveMyanmar3@twitter](https://twitter.com/SaveMyanmar3/status/1391787326779510786) | advertise |
 | [savnmpon777@twitter](https://twitter.com/savnmpon777/status/1395156590483828736) | advertise |
+| [savrysoeun@twitter](https://twitter.com/savrysoeun/status/1591233111719051265) | advertise |
 | [Savs413@twitter](https://twitter.com/Savs413/status/1477435785301438473) | advertise |
 | [Saw06786700@twitter](https://twitter.com/Saw06786700/status/1393679210934194177) | advertise |
 | [sawgolsgols@twitter](https://twitter.com/sawgolsgols/status/1396685250193879040) | advertise |
