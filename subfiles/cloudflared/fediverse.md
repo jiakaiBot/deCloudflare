@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,759 |
+| com | 3,760 |
 | net | 2,030 |
-| social | 1,799 |
+| social | 1,800 |
 | org | 1,454 |
-| de | 1,341 |
+| de | 1,344 |
 
 
 - Mastodon, Pleroma, etc
@@ -406,6 +406,7 @@ Here's a list of public Fediverse services.
 | `8350x.net` | No |
 | `843.pl` | No |
 | `850mb.net` | Yes |
+| `8633.pm` | No |
 | `868center.space` | No |
 | `876.ovh` | No |
 | `8777.ch` | No |
@@ -1738,6 +1739,7 @@ Here's a list of public Fediverse services.
 | `atypique.net` | No |
 | `au2pb.net` | No |
 | `aucklandia.social` | Yes |
+| `aucubin.de` | No |
 | `audax.xyz` | Yes |
 | `audiochad.xyz` | No |
 | `audiomix.club` | No |
@@ -5206,6 +5208,7 @@ Here's a list of public Fediverse services.
 | `dejfcold.cz` | No |
 | `dejongs.de` | No |
 | `dekameta.com` | No |
+| `dekkia.com` | No |
 | `dekloo.net` | No |
 | `deko.cloud` | No |
 | `delab.re` | No |
@@ -5813,6 +5816,7 @@ Here's a list of public Fediverse services.
 | `downtime.club` | No |
 | `dox.tf` | Yes |
 | `doxa.jp` | No |
+| `doxx.fr` | No |
 | `dozine.xyz` | No |
 | `dpc.pw` | No |
 | `dpesch.de` | No |
@@ -5991,6 +5995,7 @@ Here's a list of public Fediverse services.
 | `dungeons.social` | No |
 | `dunglas.fr` | Yes |
 | `dunkelheit.biz` | No |
+| `dunkelmann.eu` | Yes |
 | `dunkelschunkel.de` | No |
 | `dunnette.us` | No |
 | `dunsmore.me` | No |
@@ -8563,6 +8568,7 @@ Here's a list of public Fediverse services.
 | `glitch.cx` | Yes |
 | `glitch.me` | No |
 | `glitch.pizza` | Yes |
+| `glitch.pm` | No |
 | `glitch.social` | No |
 | `glitchbird.com` | No |
 | `glitchcity.cc` | No |
@@ -10323,6 +10329,7 @@ Here's a list of public Fediverse services.
 | `inso.ovh` | No |
 | `insolent.us` | No |
 | `insolente.im` | No |
+| `insomniaonline.de` | No |
 | `insoumis-es.net` | No |
 | `insoumis.social` | No |
 | `inspiredlife.fun` | Yes |
@@ -13442,7 +13449,7 @@ Here's a list of public Fediverse services.
 | `mammoth.social` | Yes |
 | `mammothcirc.us` | No |
 | `mammothcircus.com` | No |
-| `mammout.bzh` | No |
+| `mammout.bzh` | Yes |
 | `mammouth.cafe` | Yes |
 | `mammouth.quebec` | No |
 | `mammut.moe` | No |
@@ -13908,7 +13915,6 @@ Here's a list of public Fediverse services.
 | `mastodonarchitecture.org` | No |
 | `mastodonargentina.club` | No |
 | `mastodonaustralia.com.au` | No |
-| `mastodonbelgium.be` | No |
 | `mastodonbg.com` | No |
 | `mastodonchile.club` | Yes |
 | `mastodoncr.com` | No |
@@ -15777,6 +15783,7 @@ Here's a list of public Fediverse services.
 | `neatidea.net` | No |
 | `nebbia.fail` | No |
 | `nebula.moe` | Yes |
+| `nebulon.de` | No |
 | `necessarius.church` | No |
 | `neckarwie.se` | No |
 | `neckbeard.xyz` | No |
@@ -23889,6 +23896,7 @@ Here's a list of public Fediverse services.
 | `tux.land` | No |
 | `tux.ovh` | No |
 | `tux.si` | Yes |
+| `tux.social` | No |
 | `tux.tf` | Yes |
 | `tuxcloud.net` | No |
 | `tuxcrafting.cf` | No |
@@ -26393,8 +26401,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,517 |
-| Normal | 20,833 |
+| Cloudflare | 5,519 |
+| Normal | 20,839 |
 
 
 ### 20.9% of public Fediverse services are using Cloudflare.
