@@ -94,6 +94,7 @@ api.qrserver.com
 api.qualitelis-crm.com
 api.quikreturn.com
 api.quizflight.com
+criticaldesign.studio.qmail.com.tr
 docs.qcmtech.com
 git.gitlab.gitlab.gitlab.gitlab.seo.quickfish.top
 links.qatl.ru
