@@ -2698,6 +2698,7 @@ Do not create new issue or we will close it as duplicate.
 | [fahedrahmani@twitter](https://twitter.com/fahedrahmani/status/1505209723838214152) | advertise |
 | [fahim_redboy@twitter](https://twitter.com/fahim_redboy/status/1543937436375343104) | advertise |
 | [FahmidKhan14@twitter](https://twitter.com/FahmidKhan14/status/1541104729232908289) | advertise |
+| [Faidzinn@twitter](https://twitter.com/Faidzinn/status/1591669344731561986) | advertise |
 | [faighenzho@twitter](https://twitter.com/faighenzho/status/1382412226925973506) | advertise |
 | [FaiSal84540206@twitter](https://twitter.com/FaiSal84540206/status/1550443650521243649) | advertise |
 | [FaisalHossine@twitter](https://twitter.com/FaisalHossine/status/1386253418218491905) | advertise |
@@ -4795,8 +4796,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
