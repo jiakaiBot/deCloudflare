@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,786 |
+| com | 3,787 |
 | net | 2,040 |
 | social | 1,830 |
 | org | 1,460 |
@@ -4168,7 +4168,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `comacero.com` | No |
 | `comam.es` | No |
@@ -13127,6 +13127,7 @@ Here's a list of public Fediverse services.
 | `lovelive-sip.org` | No |
 | `lovelive-ss.com` | Yes |
 | `lovelive.social` | No |
+| `lovelyfamilymm.com` | Yes |
 | `lovemoe.net` | Yes |
 | `loveof.world` | No |
 | `lovers.town` | No |
@@ -21014,7 +21015,7 @@ Here's a list of public Fediverse services.
 | `sigil.li` | No |
 | `sigint.life` | No |
 | `sigint.sx` | No |
-| `sigmaris.info` | No |
+| `sigmaris.info` | Yes |
 | `sigmoid.social` | No |
 | `sigmy.net` | Yes |
 | `signalfel.com` | No |
@@ -26576,8 +26577,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,566 |
-| Normal | 20,967 |
+| Cloudflare | 5,569 |
+| Normal | 20,965 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
