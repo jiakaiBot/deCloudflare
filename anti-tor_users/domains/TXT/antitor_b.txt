@@ -1275,6 +1275,7 @@ allpremiumgifts.besindustry.com.my
 amazon.bucephalusonline.org
 and301-ott.cdn.bouygtel.fr
 antenas-api.birdie.cl
+anticovid.ugskdms.prestage.vm.buroburo.tech
 ap.ac-portal.boschaftermarket.com
 ap.bcs-portal.boschaftermarket.com
 ap.modules-portal.boschaftermarket.com
@@ -1319,10 +1320,11 @@ bancocuscatlan.com
 bancodelregion.com
 bancontinental.co.id
 bancoscercademi.com
+bancoserfinanzas.in
 bandotkiller.site
 bankaiterbaik.com
-bankamooz.com
 bankbimj.com
+bankert.org
 banki.com.ru
 bankifsc.beginyourlearning.com
 bankifsccode.net
@@ -1343,7 +1345,9 @@ banque-online.com
 banqueando.co
 banquetesmexico.com
 bantinnoithat.com
+baobitrungtin.vn
 bar24cocktailservice.in
+barclay-invest.online
 barforsupplements.com
 barisozel.com
 bark-control-collar.com
@@ -1373,6 +1377,7 @@ bemlidingauth.org
 benavest.benchmarkurl.com
 bensadik-services.com
 berglundcoo.com
+berlinerhausservice.de
 beryar.com
 beslonline.bracepl.com
 best-market.pl
@@ -1384,13 +1389,17 @@ betprolive.com
 bettertwitter.net
 bewustmediteren.be
 beyourbest4success.com
+bezkamuflazu.pl
 bfai-services.com
 bg4nxu2u5t.com
 bgrand-marketing.com
 bhandakcity.com
 bhesco.co.uk
+bhv-profiresecurity.nl
 biaquangbinh.com
 big-fai.com
+biglibraryread.com
+biinfo.ir
 bildarchiv-24.de
 bildungsserver.de
 billaresyfutbolines.eu
@@ -1403,6 +1412,8 @@ billiards-city.tk
 billiardscity.cf
 billiardscity.ga
 billiardstable.ml
+billigfergebillett.no
+billing-address-verification.us
 billionaireacademyclass.com
 billionaireinprocess.com
 billis-endodontics.co.uk
@@ -1429,9 +1440,11 @@ bitpaid.io
 bjoreman.com
 blackisgood.ch
 blackmountainsecurity.nl
+blacksunjournal.com
 blessedinvestment.com
 blessingcom.com
 blessocomedy.com.ng
+blitzd8gummies.com
 blixen-shop.dk
 blockchain-domains.io
 blockchainbuild.co.uk
@@ -1468,6 +1481,8 @@ bpalace.si
 bproherbal.com
 brakwabank.com.gh
 bram.org
+breastfeedingrose.org
+brickmoonentertainment.com
 bridgewcg.com
 brightergreen.org
 brilbrand.com
@@ -1476,6 +1491,7 @@ brilliantpestcontrol.com.au
 brimoupdate.web.id
 brisamedical.com
 broker-sb.ru
+bronnoybrannservice.no
 browninvestmentgroup.com
 brownstonewhippets.com
 brrrdies.xyz
@@ -1486,6 +1502,7 @@ btribble.com
 buckhearst.bond
 buffalo.com
 bulkadspost.com
+bursadinar.com
 busict.com.au
 businesshealthsupport.com
 businessnews4you24h.com
@@ -1523,6 +1540,8 @@ clt772773.benchmarkurl.com
 clt93830.benchmarkurl.com
 conta.bcdbank.com.br
 contgestedan1980.blogspot.com
+cpcalendars.blockchainwalletsupport.com
+cpcontacts.blockchainwalletsupport.com
 cro-cdn.biblemesh.com
 cuentasces.bnenlinea.com
 customerzero.trust-preview.banyanops.com
@@ -1550,6 +1569,7 @@ eyeofdoom.bandcamp.com
 facnet3dev.b2clogin.com
 fina.bcafinance.co.id
 forums.boxofficetheory.com
+fp.b10.fun
 frigate.blaisingadept.com
 gb.bimboconnect.com
 git.git.git.cdh9r22kbfgkt9q1aon0.brawwee.online
@@ -1566,6 +1586,7 @@ git.git.git.zmail.beautysen.cz
 git.git.gitlab.git.vmail.brotherpolishprotest.online
 git.git.gitlab.gitlab.gitlab.git.git.link.bodynoisedrop.store
 git.git.gitlab.gitlab.gitlab.link.bodynoisedrop.store
+git.git.smtpauth.blockchainpro.dev
 git.git.vmail.bonesskolekorps.no
 git.gitlab.gitlab.gitlab.gitlab.git.git.link.bodynoisedrop.store
 git.yahoo.taimomi.coautodiscover.baoboab.com
@@ -1589,6 +1610,7 @@ jualan.berk4h88mantap.xyz
 klientas.buysmart.lt
 kogitsunemary.blogspot.com
 lalerterouge.bandcamp.com
+lelangagunan.bni.co.id
 lms.bankmandiri.co.id
 loansphereservicingdigital.bkiconnect.com
 mafemee.bluvoyer.com
@@ -1624,6 +1646,7 @@ pay.bm.pl
 pdf11600.b-cdn.net
 phone-services.blueface.com
 pintucob2b.b2clogin.com
+pluginthemetest.brumm-service.de
 portales.bancochile.cl
 produits.blancheporte.io
 properties.bestindiaproperties.com
@@ -1643,7 +1666,9 @@ sejamcallback.ba24.ir
 service-inference-tilen.development.birdbuddy.dev
 servicedesk.bradford-corp.com
 servicekulkas.batam.cc
+services.berneth.com
 services.kltd-c3-new.aws.bmw.cloud
+sg.b1ue.cc
 share.boom.ru
 slackbot-container.bell.ca
 smm.governikus.brekom.net
@@ -1676,6 +1701,7 @@ track.bworldas.com
 tracker.elcuatro.boldmss.com
 treasurynowtransitionportal.bankofthewest.com
 tse2.mm.bing.net
+twelve.birnenpost.de
 ucenik.bitrak.org
 us.bbsecure.com
 usermanual.bhirawasteel.co.id
@@ -1683,6 +1709,7 @@ verify.cms.uat.lower.google-marketing.brightspot.cloud
 verify.origin.uat.lower.google-marketing.brightspot.cloud
 vestasb2ctest.b2clogin.com
 videobmiyabi.blogspot.com
+voucher.bersamamu.id
 vpn-sstp.broker-sb.ru
 vpn.biggby.com
 vtrack365.beamishtech.com
@@ -1690,6 +1717,7 @@ web.bankdaerahkabkediri.com
 web.bloomhearing.co.uk
 web9015.web07.bero-webspace.de
 webbanking.bgl.lu
+webdisk.blockchainwalletsupport.com
 wiki.bremer-richttechnik.de
 wssrv2.banelcoservices.com.ar
 www.account.busdigify.com
@@ -1740,6 +1768,7 @@ www.belavia.by
 www.belhaven.co.uk
 www.bellfireandsecurity.co.uk
 www.benjerry.se
+www.bergdorfgoodman.com
 www.berkeleysouthasian.org
 www.berry-buro.fr
 www.berwickretirement.com
@@ -1775,6 +1804,7 @@ www.blockchainbabes.live
 www.bloodyelbow.com
 www.bloxgfx.com
 www.bltkub-i0.ml
+www.bluemountaineagle.com
 www.bm-reims.fr
 www.bobmuellerwriter.com
 www.bobsroadservice.net
@@ -1792,6 +1822,7 @@ www.brucekalexander.com
 www.bsh-bayimail.com
 www.budapest-geo.hu
 www.budouya.jp
+www.buffalosoldierstacoma.org
 www.bulkadspost.com
 www.bundessozialvorstand.de
 www.bureaudupin.org
@@ -1831,6 +1862,7 @@ www.pinkloveservice.buddhafield.info
 www.psb3.brumm-service.de
 www.qtaldelivery.batataflita.com.br
 www.qtudodelivery.batataflita.com.br
+www.secured.bd-bank.co.uk
 www.servicekulkas.batam.cc
 www.snake.billy.dev.br
 www.software-gologin.beritahu.co.id
