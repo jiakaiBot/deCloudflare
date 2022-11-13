@@ -512,6 +512,7 @@ www.update-gamedays.original4k.com
 www.update.odaanews.net
 www.usps-service-mail-pickup-jsp.ocry.com
 zoominfo.com.login.onlineactionsports.com.au
+achasp2-cert.onefiserv.com
 amazonproductapi.officetada.work
 api.aws-ap1.garden.internal.live.k8s.ondemand.com
 api.cf.eu12.hana.ondemand.com
@@ -522,6 +523,7 @@ auth-dev.oose.de
 auth.omega-caci.com
 autodiscover.oyagtv.site
 bank.ofgeorgia.pro
+bank.ofgeorgia.xyz
 beforeupdate.ormskirkskipsltd.co.uk
 bo.updatefullpage.review.acdc.odiwi.fr
 ccbs-client.preview.otomagis.id
@@ -552,12 +554,14 @@ go.openathens.net
 green-stone.online-it-support.dk
 gtm-wmartins.onesourcelogin.com
 gtmqa-borgwarner.onesourcelogin.com
+healthchecks.eu-paris-1.oraclecloud.com
 helpdesk.obvs.solutions
 idp.otago.ac.nz
 inpost-xszm.order1894.biz
 inpost.order982445.org
 integration-dev-06tmlg12.it-cpi009-rt.cfapps.us20.hana.ondemand.com
 investmates.onelink.me
+iotdemo00131.cna.phx.demoservices005.iot.oraclepdemos.com
 kl.osmoticchalah.com
 klantportaal.ovha.nl
 lookadowei.onedumb.com
@@ -581,8 +585,10 @@ odrealty.mx
 oefentoets.com
 okatteya.owst.jp
 olamtov.com
+old-lighting.ru
 olim-meminisse.fr
 olx.order982445.org
+omegaonlineservice.com
 omsaiestate.com
 onbroadwayevents.com
 one-place-studies.org
@@ -615,6 +621,7 @@ ove.com.sg
 overskudslivet.dk
 owa.oso.sk
 ozelbazar.com
+passwortcheck.outercirc.io
 pixel-us.onaudience.com
 portal.olomeleia.gr
 postcovid.onlinedoctor.space
@@ -666,6 +673,8 @@ www.git.blog.shop.secure.oleybet.link
 www.green-stone.online-it-support.dk
 www.oab.org.br
 www.oakdalefuneralhome.com
+www.obsolete-tears.com
+www.octb.pt
 www.oculus.com
 www.ohchr.org
 www.oki.com
@@ -689,13 +698,16 @@ www.optavia.com
 www.osintme.com
 www.ostehomevet.fr
 www.otadtv.com
+www.oteuamigo.pt
 www.otmliteracy.com
 www.outpost-4.com
+www.ov8espeakers.nl
 www.ove.com.sg
 www.postfinance.onlineba-nk.work
 www.refund.ontargetdev.eu
 www.stageway.ok-kontor.no
 www.support.omniuse.com
+www.ticketschedule.officiallevents.com
 www.user.osatrade.club
 www.ws.overseascourierservice.site
 omnichannel-support.com
