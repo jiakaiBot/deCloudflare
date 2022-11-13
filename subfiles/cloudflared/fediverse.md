@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,777 |
+| com | 3,776 |
 | net | 2,038 |
 | social | 1,821 |
 | org | 1,458 |
@@ -812,7 +812,6 @@ Here's a list of public Fediverse services.
 | `akanechan.world` | No |
 | `akapache.co` | No |
 | `akapolypse.de` | No |
-| `akari-network.jp` | No |
 | `akarinext.org` | Yes |
 | `akashi.cloud` | No |
 | `akashiensis.com` | No |
@@ -1163,7 +1162,6 @@ Here's a list of public Fediverse services.
 | `andresen.mx` | No |
 | `andrewbaker.uk` | Yes |
 | `andrewbarnes.design` | No |
-| `andrewleahey.com` | No |
 | `andrewmichaud.com` | No |
 | `andrews.me` | Yes |
 | `andrewstaylor.com` | Yes |
@@ -1472,6 +1470,7 @@ Here's a list of public Fediverse services.
 | `aridgwayweb.com` | No |
 | `ariela.jp` | Yes |
 | `arihi.me` | No |
+| `arinbasu.online` | No |
 | `arint.me` | Yes |
 | `ariona.fr` | No |
 | `arisu.fr` | No |
@@ -26532,7 +26531,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,552 |
-| Normal | 20,936 |
+| Normal | 20,935 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
