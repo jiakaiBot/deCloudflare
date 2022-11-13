@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Empty config-get throws an error](https://github.com/ddworken/hishtory/issues/27)
 - [Cloudflare R2 Compatibility](https://github.com/area17/twill/issues/1906)
 - [S3 Bucket Can't attach files to posts... error log shows Aws::Sigv4::Errors::MissingCredentialsError](https://github.com/mastodon/mastodon/issues/20508)
 - [Android app can't connect to api.tonkeeper.com](https://github.com/tonkeeper/wallet/issues/126)
