@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,777 |
 | net | 2,038 |
-| social | 1,820 |
-| org | 1,457 |
+| social | 1,821 |
+| org | 1,458 |
 | de | 1,351 |
 
 
@@ -8448,6 +8448,7 @@ Here's a list of public Fediverse services.
 | `geraffel.social` | No |
 | `gerardbentley.com` | No |
 | `geraspora.de` | No |
+| `gerbracht.social` | No |
 | `gerdemann.me` | No |
 | `gerdinside.studio` | No |
 | `gergo.city` | No |
@@ -10157,6 +10158,7 @@ Here's a list of public Fediverse services.
 | `illegalpornography.com` | No |
 | `illegitimate.technology` | Yes |
 | `illuminada.io` | No |
+| `illuminati.org` | No |
 | `illuster.org` | No |
 | `illustietor.com` | No |
 | `illyasviel.cf` | No |
@@ -11311,7 +11313,7 @@ Here's a list of public Fediverse services.
 | `kaiserflur.de` | No |
 | `kaiserslautern.chat` | No |
 | `kaisin.cc` | Yes |
-| `kaitaia.life` | Yes |
+| `kaitaia.life` | No |
 | `kaixinguo.site` | Yes |
 | `kaiz.jp` | Yes |
 | `kajalinifi.de` | No |
@@ -12078,7 +12080,7 @@ Here's a list of public Fediverse services.
 | `kurosawa.moe` | No |
 | `kuroserver.net` | No |
 | `kurosuke.org` | No |
-| `kurry.social` | No |
+| `kurry.social` | Yes |
 | `kurumah.dev` | No |
 | `kurume-nct.com` | No |
 | `kurup.org` | Yes |
@@ -20974,7 +20976,7 @@ Here's a list of public Fediverse services.
 | `sig21.net` | No |
 | `sigatu.com` | No |
 | `sigdrifa.eu` | Yes |
-| `sighash.info` | No |
+| `sighash.info` | Yes |
 | `sigil.ink` | Yes |
 | `sigil.li` | No |
 | `sigint.life` | No |
@@ -26529,8 +26531,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,551 |
-| Normal | 20,935 |
+| Cloudflare | 5,552 |
+| Normal | 20,936 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
