@@ -1522,6 +1522,7 @@ Do not create new issue or we will close it as duplicate.
 | [bright_wyne@twitter](https://twitter.com/bright_wyne/status/1391849321524436992) | advertise |
 | [BrillanteAndrei@twitter](https://twitter.com/BrillanteAndrei/status/1386016310790873088) | advertise |
 | [BrindleIt@twitter](https://twitter.com/BrindleIt/status/1511705577449267201) | advertise |
+| [BroadbandInst@twitter](https://twitter.com/BroadbandInst/status/1591887893274189824) | advertise |
 | [broken__wind@twitter](https://twitter.com/broken__wind/status/1551971580468760578) | advertise |
 | [Brom72825358@twitter](https://twitter.com/Brom72825358/status/1552579310245908480) | advertise |
 | [Brong_IT@twitter](https://twitter.com/Brong_IT/status/1526195683509796864) | advertise |
