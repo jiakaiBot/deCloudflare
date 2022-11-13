@@ -4817,6 +4817,7 @@ Do not create new issue or we will close it as duplicate.
 | [KingStephy2@twitter](https://twitter.com/KingStephy2/status/1398432701095596034) | advertise |
 | [king_defeat@twitter](https://twitter.com/king_defeat/status/1391700999752929282) | advertise |
 | [KinPhm95290033@twitter](https://twitter.com/KinPhm95290033/status/1552483794254323713) | advertise |
+| [kintidon@twitter](https://twitter.com/kintidon/status/1591821293070024712) | advertise |
 | [KinVit2@twitter](https://twitter.com/KinVit2/status/1401410534277226500) | advertise |
 | [kiokoioi@twitter](https://twitter.com/kiokoioi/status/1585701891022983169) | advertise |
 | [KiRa37295832@twitter](https://twitter.com/KiRa37295832/status/1392358213878575107) | advertise |
