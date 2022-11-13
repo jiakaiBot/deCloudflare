@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,803 |
-| net | 2,054 |
+| net | 2,055 |
 | social | 1,871 |
-| org | 1,472 |
+| org | 1,473 |
 | de | 1,357 |
 
 
@@ -7187,6 +7187,7 @@ Here's a list of public Fediverse services.
 | `fedigram.net` | No |
 | `fedigram.social` | Yes |
 | `fedihub.com` | No |
+| `fedihum.org` | No |
 | `fedilab.app` | No |
 | `fediland.nl` | No |
 | `fedilove.cyou` | Yes |
@@ -16909,6 +16910,7 @@ Here's a list of public Fediverse services.
 | `nyanlout.re` | No |
 | `nyanshell.com` | Yes |
 | `nyantech.com` | No |
+| `nyanya.net` | No |
 | `nyaotan.fun` | No |
 | `nyarr.dev` | No |
 | `nyawan.club` | No |
@@ -25546,7 +25548,7 @@ Here's a list of public Fediverse services.
 | `whoneedsabudget.cheap` | No |
 | `whovian.social` | Yes |
 | `whydoesntmycode.work` | No |
-| `whymark.net` | No |
+| `whymark.net` | Yes |
 | `whytheyfight.com` | Yes |
 | `wi51.cc` | No |
 | `wicce.me` | No |
@@ -26770,8 +26772,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,616 |
-| Normal | 21,111 |
+| Cloudflare | 5,617 |
+| Normal | 21,112 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
