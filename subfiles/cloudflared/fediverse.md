@@ -3067,6 +3067,7 @@ Here's a list of public Fediverse services.
 | `brookshelley.com` | Yes |
 | `brot.social` | No |
 | `brotherscommon.place` | No |
+| `broti.tk` | No |
 | `brotka.st` | No |
 | `brownfield.dev` | No |
 | `brrrt.eu` | No |
@@ -26770,7 +26771,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,616 |
-| Normal | 21,110 |
+| Normal | 21,111 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
