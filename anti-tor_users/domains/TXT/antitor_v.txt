@@ -676,6 +676,7 @@ ad-reports-service.ad-events.voltaxam-events.com
 addressportal.verifymacronix.com
 aina.vakehyva.fi
 api.vas-preprod.eu.dp15.vwg-connect.com
+api.vessel.land
 api.vgsgame.vn
 api.virtusize.jp
 apps.vw.co.za
@@ -697,6 +698,7 @@ coinbase-exchange.vikingdeals.be
 controlo.vr-solucoes.com
 cookies.viccompuser.com
 corp-sts.vodafoneziggo.com
+covid-tracker-zeit.vercel.app
 cp-loginafcuonline.vantechdns.com
 cpanel.vaccinesandsociety.com
 cpanel.vaccinesandsociety.com.vaccinesandsociety.org
@@ -709,11 +711,13 @@ dashboard.visitabdn.com
 dev.vlec.be
 directaccess.vkooten.nl
 discord.valkirias.xyz
+discord4j.vercel.app
 ekycbidvsthgw.vnpaytest.vn
 en.vaccines-facts.info
 fad.vsp.com
 fleet.vw.co.za
 forums.virtualbox.org
+forums.virtualbox.org.ru
 friendica.vrije-mens.org
 genatkns-uat.veritas.com
 git.alt1.aspmx.l.google.com.versacommerce.eu
@@ -752,6 +756,7 @@ pds.volkswagen.de
 ps-automation-update-preview.virtual-spaces.de
 qaapi4.vivanda.com
 recaptcha-mr-public.rete.c1.vanguard.com
+relampago-de-clientes.virio.digital
 relay.vtopia.live
 renault.via-conex.net
 restaurant.vmittech.in
@@ -764,6 +769,8 @@ si-idp.vfltest.dk
 sps.vungtau.su
 streaming-ssr-deep-dive.vercel.app
 sync.viadata.store
+tejasaiyenprince-gmailcom.vercel.app
+test.vaccines-otaru-city.jp
 testuser.vercel.app
 tracking.vitaminspy.com
 traefik.vihtelic.eu
@@ -777,6 +784,7 @@ vaccinesandsociety.org
 vakrangeedevelopers.com
 varietal-literature.ca
 variety-kfc.com.ru
+vaveylamodam.com
 vdx.hu
 ve6lk.com
 vemsorrirsantarita.tk
@@ -790,7 +798,10 @@ verify-bankofamerica.com
 verify-mywellsfargo-account76r.com
 vermontbiz.com
 veszpremvaros.hu
+vetcov19.se
 vialsafe.co
+viaplay.com
+viaplay.se
 victoryautomotiveservice.com
 vidaelite.com.br
 videoapi-muybridge.vimeocdn.com
@@ -810,16 +821,19 @@ visualbandeiras.com.br
 vitaexpress.ru
 vital-pbx.vei.global
 vitivinicolamacetero.cl
+vitralii-restaurare.ro
 viveecosse.com
 vj22.de
 vljwebapp.vedantaconnect.com
 vn-khachhang.click
 vocebronzeadora.com
 vodafone-telekom-shop-vechta.de
+vodiscord.vercel.app
 voices.media
 voicesofvr.com
 voidacoustics.ro
 vplus-afterhours.virtusa.com
+vrf-primemembership.com
 vrfcustm-details.com
 vro.vn
 vsc-library.org
@@ -839,8 +853,10 @@ www.actividad3.venturapp.com
 www.affirmverification.valsorsac.com
 www.anggi--billy.viding.co
 www.appleidapple.apple.verifylocation.live
+www.beta.valutapp.com
 www.beta.verymoney.com
 www.billing.vviphosting.com
+www.btcuser.vastpips.com
 www.clientes.ventipos.com
 www.clientes.vqtechsystemcorp.com
 www.controlo.vr-solucoes.com
@@ -849,7 +865,9 @@ www.dh-delivery.co.il.violetwebs.co.il
 www.ferrdelivery.virtualtecserver.com
 www.iforgot-apple.verifylocation.live
 www.itunesconnect-securepayementsapple.verifylocation.live
+www.login.vipallservice.com
 www.merchandisingdelivery.com.velkaspa.com
+www.relampago-de-clientes.virio.digital
 www.servicereqs.vetbizconsulting.org
 www.siscontrol.velocity.net.ec
 www.subdomain.findlphoneimaps.online.verifylocation.live
