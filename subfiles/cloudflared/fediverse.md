@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,782 |
+| com | 3,784 |
 | net | 2,040 |
 | social | 1,829 |
 | org | 1,459 |
@@ -8660,6 +8660,7 @@ Here's a list of public Fediverse services.
 | `glow.land` | No |
 | `glowers.club` | No |
 | `glowing.surf` | No |
+| `glownow.club` | No |
 | `glowpen.eu` | No |
 | `glucose.rocks` | No |
 | `glueoh.com` | No |
@@ -10179,6 +10180,7 @@ Here's a list of public Fediverse services.
 | `ilovela.in` | No |
 | `ilovepunjabi.com` | No |
 | `ilvar.ru` | No |
+| `ilyakelner.com` | No |
 | `ilyamikcoder.com` | No |
 | `ilyli.ly` | No |
 | `ilys.fm` | No |
@@ -21453,6 +21455,7 @@ Here's a list of public Fediverse services.
 | `socialist.city` | No |
 | `socialize.cyou` | Yes |
 | `socialjustice.engineering` | No |
+| `sociallydistantgame.com` | Yes |
 | `sociallysour.org` | No |
 | `socialmast.xyz` | Yes |
 | `socialmatrix.us` | No |
@@ -26566,8 +26569,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,562 |
-| Normal | 20,961 |
+| Cloudflare | 5,563 |
+| Normal | 20,963 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
