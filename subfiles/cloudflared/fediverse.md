@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,784 |
 | net | 2,040 |
-| social | 1,829 |
+| social | 1,828 |
 | org | 1,459 |
 | de | 1,351 |
 
@@ -814,7 +814,6 @@ Here's a list of public Fediverse services.
 | `akanechan.world` | No |
 | `akapache.co` | No |
 | `akapolypse.de` | No |
-| `akari-network.jp` | No |
 | `akarinext.org` | Yes |
 | `akashi.cloud` | No |
 | `akashiensis.com` | No |
@@ -1165,7 +1164,6 @@ Here's a list of public Fediverse services.
 | `andresen.mx` | No |
 | `andrewbaker.uk` | Yes |
 | `andrewbarnes.design` | No |
-| `andrewleahey.com` | No |
 | `andrewmichaud.com` | No |
 | `andrews.me` | Yes |
 | `andrewstaylor.com` | Yes |
@@ -2806,6 +2804,7 @@ Here's a list of public Fediverse services.
 | `bombaywallah.com` | Yes |
 | `bommo.au` | Yes |
 | `bomucha.net` | No |
+| `bondsdogs.com` | No |
 | `boneheadmedia.com` | Yes |
 | `bonequest.net` | No |
 | `bonfire.cafe` | No |
@@ -16360,7 +16359,6 @@ Here's a list of public Fediverse services.
 | `niyawe.de` | No |
 | `nj.com` | Yes |
 | `njal.la` | No |
-| `njalla.social` | No |
 | `njanzen.de` | No |
 | `njms.ca` | No |
 | `njp.asia` | No |
@@ -18032,6 +18030,7 @@ Here's a list of public Fediverse services.
 | `pifke.social` | No |
 | `pigelet.org` | No |
 | `pigeon.town` | No |
+| `pigeonburger.xyz` | Yes |
 | `pigeons.cloud` | No |
 | `pigeons.club` | No |
 | `piggo.space` | Yes |
@@ -26569,8 +26568,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,563 |
-| Normal | 20,963 |
+| Cloudflare | 5,564 |
+| Normal | 20,961 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
