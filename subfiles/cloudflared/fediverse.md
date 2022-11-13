@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,786 |
 | net | 2,040 |
-| social | 1,829 |
+| social | 1,830 |
 | org | 1,460 |
 | de | 1,351 |
 
@@ -22235,6 +22235,7 @@ Here's a list of public Fediverse services.
 | `superofficial.net` | No |
 | `superpets.social` | No |
 | `superpromoplus.com` | No |
+| `superradinternetbase.social` | Yes |
 | `supersandro.de` | Yes |
 | `superseriousbusiness.org` | No |
 | `supershotgun.club` | No |
@@ -26573,7 +26574,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,565 |
+| Cloudflare | 5,566 |
 | Normal | 20,965 |
 
 
