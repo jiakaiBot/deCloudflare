@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,812 |
+| com | 3,814 |
 | net | 2,059 |
 | social | 1,878 |
-| org | 1,477 |
+| org | 1,478 |
 | de | 1,357 |
 
 
@@ -1888,6 +1888,7 @@ Here's a list of public Fediverse services.
 | `axjmc.xyz` | Yes |
 | `axonterminal.net` | No |
 | `axross.io` | No |
+| `axshelf.com` | Yes |
 | `axtch.net` | No |
 | `axvigs.com` | No |
 | `axwax.eu` | No |
@@ -11127,6 +11128,7 @@ Here's a list of public Fediverse services.
 | `joelving.dk` | Yes |
 | `joerger.us` | Yes |
 | `joergmorbitzer.rocks` | No |
+| `joeshaw.org` | No |
 | `joev.dev` | No |
 | `joeyboon.nl` | No |
 | `joffreyverd.fr` | No |
@@ -14177,6 +14179,7 @@ Here's a list of public Fediverse services.
 | `mastodonsocial.ru` | No |
 | `mastodonsocial.uk` | No |
 | `mastodonspain.com` | No |
+| `mastodonsports.com` | No |
 | `mastodonsweden.se` | No |
 | `mastodont.cat` | No |
 | `mastodont.es` | No |
@@ -15012,6 +15015,7 @@ Here's a list of public Fediverse services.
 | `mjcspa.be` | No |
 | `mjd.id.au` | No |
 | `mjkeen.com` | Yes |
+| `mjkt.jp` | No |
 | `mjohnson.tech` | Yes |
 | `mk-l.info` | No |
 | `mk.gs` | Yes |
@@ -26822,8 +26826,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,627 |
-| Normal | 21,152 |
+| Cloudflare | 5,628 |
+| Normal | 21,155 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
