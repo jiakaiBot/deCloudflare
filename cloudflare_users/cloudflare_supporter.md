@@ -334,6 +334,7 @@ Do not create new issue or we will close it as duplicate.
 | [Agape_val_voce@twitter](https://twitter.com/Agape_val_voce/status/1400940706722689027) | advertise |
 | [Agent_RBLX@twitter](https://twitter.com/Agent_RBLX/status/1383986062100287491) | advertise |
 | [AGhahremani70@twitter](https://twitter.com/AGhahremani70/status/1479589214345908225) | advertise |
+| [aghil_gmv@twitter](https://twitter.com/aghil_gmv/status/1591880666093826048) | advertise |
 | [agirbt@twitter](https://twitter.com/agirbt/status/1382414897569427458) | advertise |
 | [agomezvidalee@twitter](https://twitter.com/agomezvidalee/status/1546290967875145728) | advertise |
 | [AgPhMyint1@twitter](https://twitter.com/AgPhMyint1/status/1562630412026859521) | advertise |
@@ -572,6 +573,7 @@ Do not create new issue or we will close it as duplicate.
 | [amirali_7777_q@twitter](https://twitter.com/amirali_7777_q/status/1581881580221763585) | advertise |
 | [amirchitgaran@twitter](https://twitter.com/amirchitgaran/status/1384197111500083214) | advertise |
 | [AmirFusaini@twitter](https://twitter.com/AmirFusaini/status/1399362665416314883) | advertise |
+| [amirhejazi17@twitter](https://twitter.com/amirhejazi17/status/1591860252600827908) | advertise |
 | [Amirh_1991@twitter](https://twitter.com/Amirh_1991/status/1530140150327541762) | advertise |
 | [amirjune14@twitter](https://twitter.com/amirjune14/status/1558795946577780737) | advertise |
 | [AmirKhalaj19@twitter](https://twitter.com/AmirKhalaj19/status/1555311811481804800) | advertise |
@@ -2611,6 +2613,7 @@ Do not create new issue or we will close it as duplicate.
 | [Emoji41570993@twitter](https://twitter.com/Emoji41570993/status/1389852391550377986) | advertise |
 | [Emonhas03991016@twitter](https://twitter.com/Emonhas03991016/status/1514460456563666945) | advertise |
 | [EmperorOlalekan@twitter](https://twitter.com/EmperorOlalekan/status/1401428934852591618) | advertise |
+| [emrdgrmnci@twitter](https://twitter.com/emrdgrmnci/status/1591877572341661698) | advertise |
 | [Emrimo1@twitter](https://twitter.com/Emrimo1/status/1389948010302382088) | advertise |
 | [EmTakhar@twitter](https://twitter.com/EmTakhar/status/1502473533770940419) | advertise |
 | [Enchu_0110@twitter](https://twitter.com/Enchu_0110/status/1456429926660329478) | advertise |
@@ -4798,8 +4801,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -9079,6 +9082,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sun04138205@twitter](https://twitter.com/Sun04138205/status/1393167415064764417) | advertise |
 | [Sungkoko4@twitter](https://twitter.com/Sungkoko4/status/1395052591868825606) | advertise |
 | [Sunil11119999@twitter](https://twitter.com/Sunil11119999/status/1568035671109160961) | advertise |
+| [sunipeyk@twitter](https://twitter.com/sunipeyk/status/1591840152938332160) | advertise |
 | [Sunita35611036@twitter](https://twitter.com/Sunita35611036/status/1471071225229103104) | advertise |
 | [SunK111@twitter](https://twitter.com/SunK111/status/1396399725843152903) | advertise |
 | [sunlay008@twitter](https://twitter.com/sunlay008/status/1395245834372067329) | advertise |
