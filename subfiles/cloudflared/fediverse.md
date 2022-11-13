@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 3,786 |
 | net | 2,040 |
 | social | 1,829 |
-| org | 1,459 |
+| org | 1,460 |
 | de | 1,351 |
 
 
@@ -20482,6 +20482,7 @@ Here's a list of public Fediverse services.
 | `sciencemastodon.com` | No |
 | `sciences.re` | No |
 | `sciences.social` | No |
+| `scientiam.org` | No |
 | `scientificnetwork.de` | No |
 | `scifi.fyi` | No |
 | `scimone.net` | Yes |
@@ -26573,7 +26574,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,565 |
-| Normal | 20,964 |
+| Normal | 20,965 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
