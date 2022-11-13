@@ -136,6 +136,7 @@ aepsrupayuat.yesbank.in
 alacon-nex-ion.go.yj.fr
 applycc.yesbank.in
 argocd-inl.yjtech.tw
+asr-stream-covid19.yating.tw
 auth.youtubethumbs.pics
 b95.yahoo.co.jp
 backoffice.yape.com.pe
@@ -148,8 +149,10 @@ coinbase-pro-login-account.yahoosites.com
 czzxvzx.ybqkww.shop
 git.git.covid19.youhollywood.com
 global.yuanta.com.tw
+kentakikuchi-github.yt-test.work
 kyiv.yasno.com.ua
 lojista.yupdelivery.com.br
+mail.yoanindo.com
 map.yahooapis.jp
 mobile.yoursrp.net
 python-github-calendar-api.yylemon.top
