@@ -1512,9 +1512,13 @@ a-govaz-01.mlc.gov.teams.microsoft.us
 a-govtx-01.mlc.gov.teams.microsoft.us
 aadcdn.microsoftonline-p.com.office.o365.sunpower.myshn.net
 aadcdn.microsoftonline-p.net.office.o365.sunpower.myshn.net
+acc-support4.mypets.ws
+account.macromim.com
 acs.moneta.cz
+acs2.mkb.ru
 admin-event-tracking.mservice.io
 admin-staging.macrobank.pro
+alwayson.misapor.ch
 amazon-academy.mediakit.cc
 api-multipay.multidaya.id
 api-staging.macrobank.pro
@@ -1537,6 +1541,7 @@ asm.skype.com.office.o365.sunpower.myshn.net
 asyncgw.teams.microsoft.com.office.o365.sunpower.myshn.net
 auth-server.st.msds-terumo.com
 auth-staging.macrobank.pro
+auth.augue.qguuhc.m3t4c0.services
 auth.mtvnservices-q.mtvi.com
 auth.mutualia.fr
 authentication.msmloop.com
@@ -1566,6 +1571,7 @@ citiz3-secure.mine.nu
 cladrysk.moringa-tech.co.in
 claims.micahardware.co.uk
 click.m1.mywisely.com
+click.monkey-media.com.au
 click.myconsumermedical.com
 clientapi.dev.mccloudplatform.com
 clientapi.stg.mccloudplatform.com
@@ -1579,12 +1585,14 @@ coinsbase.com.managersditkdajda.com
 consumercenter.mysynchrony.com
 contango.maxdevhome.com
 cpanel.metatrustbanking.com
+cpcalendars.mdyno.com
 cpcalendars.medeliteertcsmallbusinessrecovery.com
 cpcalendars.metroblock.com.au
 cpcalendars.signin-accountapp1e.malberini.com
 cpcalendars.signin-accountapp1e.myscofield.com
 cpcontacts.macsgolf.co.uk
 cpcontacts.matchhmemeber.ca
+cpcontacts.mdyno.com
 cpcontacts.metroblock.com.au
 cpcontacts.signin-accountapp1e.malberini.com
 cpcontacts.signin-accountapp1e.myscofield.com
@@ -1599,6 +1607,7 @@ db80698f56854981a0dc3395fa9216cc.marketingusercontent.com
 demo.moneyforthem.com
 demo.mortgagecreditlink.com
 deutsche-bank-live.marcapo.com
+dev.api.mainstack.io
 dev.nbfcb2c.contabo2.mtlstaging.com
 devpanel.medicept.pl
 dhl-one-stop-shop-preview.metadeploy.com
@@ -1606,6 +1615,8 @@ dhl-slnb-dev.metadeploy.com
 dhlconsulting-linkedin.metadeploy.com
 dlaukrainy.morze.design
 domspublic.moea.gov.tw
+downloads.minecrafteduservices.com
+dropbox.com-securefile-signin-sppn-php-doc.com.mob-rail.com.br
 e-saafmanagement.msd-animal-health.be
 ecomtracking.mrbit.dev
 edge.skype.com.office.o365.sunpower.myshn.net
@@ -1622,6 +1633,7 @@ files-staging.macrobank.pro
 fogserver.mscsnet.mu.edu
 geldberekenen.mt-8.nl
 git.5mail.mcewanandco.com
+git.git.git.facebook.com.and.ovh.medychnaosvita.online
 git.git.git.git.git.kf.marketplace-axieifinity.xyz
 git.git.git.git.outlook.mmd-group.md
 git.git.git.outlook.mmd-group.md
@@ -1656,12 +1668,15 @@ jkwlrblzox4pylnf.cac.medmal.com
 jrimg1.mbest.co.kr
 k50-amo.medianation.ru
 klimaticket.msec.at
+kohofuto.myhostpoint.ch
 kontrola.miedzyrzecz.org
 koop.mydew.my
 ksb-staging.macrobank.pro
 lab.mobilelearning.io
 landing.metroblock.com.co
+lcs.mycovidappointment.com
 legalis-advocaten.mailchimpsites.com
+login.manoharyug.com
 login.my-acc-co.net
 login.mymicrosoft.fr
 login.pr228.devx.mentordigital.io
@@ -1669,6 +1684,7 @@ logincdn.msauth.net
 lsb.mitid.dk
 lufthansa.miles-and-more.com
 mabulledu.net
+macas.sk
 macomp.co.il
 madaecotrip.com
 madameberry.com
@@ -1702,7 +1718,9 @@ mancavgeek.co.uk
 mandynolan.org.au
 maniabank.com.br
 manibiz.com
+manifesteden.com
 manmetdebaard.nl
+maoseguridad.cl
 mapa-buscar.online
 mapaconta.pt
 mapaq-extranet.ca
@@ -1728,6 +1746,9 @@ mathieufaittout.com
 mathsecurity.nl
 mattrobertsphoto.com
 maxheaterpro.com
+maximumcontrol.nz
+maxwellfairbank.ml
+maxximbrasil.com
 mazemedia.co.uk
 mbc.gg
 mbppartners.com
@@ -1737,6 +1758,7 @@ mcpompups.com
 mdm.mobilevb.de
 mdmsecurity.ro
 mdx.metadeploy.com
+measurecovid.org
 media28post.com
 mediacdn.prod.productdelivery.prod.webservices.mozgcp.net
 medic-exams.co.uk
@@ -1747,12 +1769,15 @@ medictransportationservice.com
 mediepodden.se
 medzpills.com
 meerbusch-containerdienst.de
+megabitservice.ro
 megacreditunionbank.com
 megagames.com
 megashiftlogistics.co.za
 melbournepm.ca
+member.magellanhealthcare.com
 memorial63.ru
 mensa.org.pl
+menseste-okayama.site
 merchandisingdelivery.com
 mercyfightscovid19.com
 merkeltreeservice.com
@@ -1775,6 +1800,7 @@ mikaupdate.monezsoft.ca
 millewebrtc.millenium.com.co
 millionairemonkeyclub.com
 mimaruhotels.com
+mindsanddiscourse.com
 mindzallera.com
 minefreemyanmar.info
 minertron.live
@@ -1788,6 +1814,7 @@ mirservice.ro
 misterkitty.org
 mitrasaudarateknikservice.com
 mividaenbicicleta.com
+miyabi-mosikomi.site
 mizuho-nozomi.com
 mkplustest.markedskraft.com
 mnorganservice.com
@@ -1812,6 +1839,7 @@ moneyflow.ro
 moneykit.net
 moneymax.my
 moneynob.com
+moneyrama.fr
 moneytransfermate.com
 monnin.mobi
 montgomeryvillageca.com
@@ -1820,6 +1848,7 @@ morsecanada.com
 mortal-kombat1.ru
 mostlydigital.in
 motforum.com
+motionreality.shop
 mq-centprod-bot.mq.ai
 mqnet.de
 mrad-services.com
@@ -1839,10 +1868,13 @@ mujerforestal.com
 multiservice.pt
 multitek.com.pk
 multitudinesecurity.cl
+mundialmurchisondefiba.com
+mutantradio.net
 my-claim.in
 my-credit24.ch
 my-suedtirolbox.com
 mybudgetfile.com
+mybusinesscoaching.gr
 mycampusprint.nl
 mycarestore.fr
 mycarestore.ro
@@ -1877,6 +1909,7 @@ pagarrecibo.mas-informacion.com
 password.authm.b2b.mazda.co.jp
 placements-service.sg.uat.mkmapps.com
 placements-service.us.uat.mkmapps.com
+pmmaster012603.moonactivate.com
 portal.modisbelgium.be
 portonacional.megasoftarrecadanet.com.br
 postal.msascc.de
@@ -1914,6 +1947,7 @@ static.myfreecreditscore.us
 storage-staging.macrobank.pro
 sts.midasuw.com
 sts.mmm.com
+support.mag.codes
 support.maitech.sd
 support.mijnvimeva.nl
 support.moneycarer.org.uk
@@ -1937,6 +1971,7 @@ ucweb.movistarplay.co
 unsub.minutemailer.com
 uservipbet.m4njur.my.id
 usina.mercadoshops.com.br
+v.zmail.mokorps.no
 vennes.mennerich-service.de
 verify2-acc.mine.nu
 view.minutemailer.com
@@ -1957,6 +1992,7 @@ whois-webform.markmonitor.com
 wiki.mydevil.net
 wotfmint.metaversepublishing.io
 wp.michael-behnert.de
+www.account.macromim.com
 www.accounting.maliqygroup.id
 www.accounting.medasolutionscompany.com
 www.accredit.co.zw.maunele.com
@@ -1978,6 +2014,7 @@ www.commbank.netbank.com.au.mksteelmill.com
 www.contao3.malermeister-rinker.de
 www.control.madinty2022.com
 www.csrmalaysia.makandelivery.com
+www.dev.marketplace.co.jp
 www.dsesupport.m3techbd.com
 www.earnmoney.mehedi01.xyz
 www.ecuadorableuser.masakisanto.net
@@ -1985,6 +2022,7 @@ www.epost.migrating.one
 www.har.malwarecleaningservice.com
 www.hba.accredit.co.zw.maunele.com
 www.helpdesk.mtilogistic.com
+www.icloud-alert.mimain-website.live
 www.login.moodstories.dk
 www.login.mywhiteley.com
 www.ma-grosse-pal.com
@@ -2007,12 +2045,15 @@ www.markdaledistrictfoodbank.org
 www.marlapost.com
 www.marriott.co.jp
 www.marriott.co.uk
+www.martin-ruecker.com
+www.martinaclancytherapy.millennial-banking.com
 www.masreclaim.com
 www.materialepyramiden.dk
 www.mathoutils.fr
 www.mathsecurity.nl
 www.mattkelly.ie
 www.mauricewoitzyk.de
+www.maximumcontrol.nz
 www.maxmag.gr
 www.maybank2u.com.my
 www.mcmh.org.my
@@ -2020,6 +2061,7 @@ www.mcxindia.com
 www.medi-karriere.de
 www.medical-control.com
 www.medimate.health
+www.meditechservice.com
 www.meerbusch-containerdienst.de
 www.meeting-sugar-daddy.com
 www.mehmetoguz.name
@@ -2050,6 +2092,7 @@ www.mnralphgraciepost14.org
 www.mobile-id.tn
 www.modernfindseureka.com
 www.modernism-in-metroland.co.uk
+www.mojeurlopy.pl
 www.monetaonline.it
 www.moneyadvicepro.com
 www.moneybaggsclothing.co.uk
@@ -2065,6 +2108,7 @@ www.moneymakingappswebsites.com
 www.moneymangler.com
 www.moneymartearn.xyz
 www.moneynob.com
+www.moneyrama.fr
 www.moneysince.com
 www.moneytides.com
 www.moneytrait.com
@@ -2082,8 +2126,10 @@ www.mpi-corporation.com
 www.mr-omneo.co.uk
 www.mrcdyno.com.au
 www.msadelivery.ae
+www.msatp.org
 www.mtcarmelalpost72.org
 www.multi-alarme-lpb.fr
+www.multiservice.com.co
 www.multitudinesecurity.cl
 www.multnomahesd.org
 www.museion.it
@@ -2093,6 +2139,7 @@ www.mutualart.com
 www.my-credit24.ch
 www.my-webstore.nl
 www.mychamplainvalley.com
+www.mycharacterreferences.com
 www.myclientsupportcard.com
 www.myheritage.nl
 www.myholotv.com
@@ -2102,6 +2149,7 @@ www.painel.mygodelivery.com.br
 www.passwordsamurai.muhammadanas.in
 www.pattichagroup.com.mpstarmoney.com
 www.perfectmoney.mamaroz.com
+www.pmmaster012603.moonactivate.com
 www.policy.moonactivate.com
 www.securitystore.molehinelanguagesco.xyz
 www.seguro.maintainserver.nl
