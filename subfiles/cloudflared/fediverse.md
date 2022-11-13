@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,776 |
-| net | 2,037 |
+| com | 3,777 |
+| net | 2,038 |
 | social | 1,820 |
 | org | 1,457 |
 | de | 1,351 |
@@ -812,6 +812,7 @@ Here's a list of public Fediverse services.
 | `akanechan.world` | No |
 | `akapache.co` | No |
 | `akapolypse.de` | No |
+| `akari-network.jp` | No |
 | `akarinext.org` | Yes |
 | `akashi.cloud` | No |
 | `akashiensis.com` | No |
@@ -1162,6 +1163,7 @@ Here's a list of public Fediverse services.
 | `andresen.mx` | No |
 | `andrewbaker.uk` | Yes |
 | `andrewbarnes.design` | No |
+| `andrewleahey.com` | No |
 | `andrewmichaud.com` | No |
 | `andrews.me` | Yes |
 | `andrewstaylor.com` | Yes |
@@ -3149,6 +3151,7 @@ Here's a list of public Fediverse services.
 | `burymein.black` | No |
 | `bus-hit.me` | No |
 | `busaiku.com` | No |
+| `bushi.moe` | No |
 | `bushidodreams.com` | Yes |
 | `bushiroad.space` | Yes |
 | `bushu-denno.com` | No |
@@ -11504,6 +11507,7 @@ Here's a list of public Fediverse services.
 | `keivaun.com` | Yes |
 | `kejadlen.dev` | No |
 | `kekkai.net` | No |
+| `keks.club` | Yes |
 | `keks.top` | No |
 | `kekstorm.club` | No |
 | `kektus.io` | Yes |
@@ -15909,6 +15913,7 @@ Here's a list of public Fediverse services.
 | `nekogenesis.com` | No |
 | `nekohell.eu` | Yes |
 | `nekojanai.xyz` | No |
+| `nekojimi.moe` | No |
 | `nekojita.moe` | No |
 | `nekomimi.jp` | No |
 | `nekomimi.yokohama` | Yes |
@@ -21683,6 +21688,7 @@ Here's a list of public Fediverse services.
 | `spiele.jp` | No |
 | `spiffy.social` | No |
 | `spike-el-clopero.org` | No |
+| `spin-2.net` | No |
 | `spinics.net` | No |
 | `spinkynetworks.com` | No |
 | `spinning-fantasies.org` | No |
@@ -26523,8 +26529,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,550 |
-| Normal | 20,930 |
+| Cloudflare | 5,551 |
+| Normal | 20,935 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
