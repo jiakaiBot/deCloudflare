@@ -15071,6 +15071,7 @@ Here's a list of public Fediverse services.
 | `monstro1.com` | No |
 | `monstrous.church` | No |
 | `monsuta.ml` | No |
+| `montceleste.fr` | No |
 | `monte-bleibt.de` | No |
 | `montecsys.fr` | Yes |
 | `montera34.org` | No |
@@ -17620,6 +17621,7 @@ Here's a list of public Fediverse services.
 | `parawatch.org` | No |
 | `parcel5.social` | No |
 | `parcility.co` | No |
+| `pardoners.church` | No |
 | `parentaladvisory.social` | No |
 | `parfait-mastodon.com` | No |
 | `parigotmanchot.fr` | No |
@@ -26575,7 +26577,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,566 |
-| Normal | 20,965 |
+| Normal | 20,967 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
