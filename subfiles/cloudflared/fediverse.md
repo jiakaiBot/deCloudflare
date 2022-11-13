@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,811 |
+| com | 3,812 |
 | net | 2,059 |
-| social | 1,876 |
+| social | 1,878 |
 | org | 1,477 |
 | de | 1,357 |
 
@@ -6171,6 +6171,7 @@ Here's a list of public Fediverse services.
 | `eagerpebble.com` | No |
 | `eagleandserpent.club` | No |
 | `eagledeaf.com` | No |
+| `eagleear.social` | No |
 | `eaglefirenation.com` | No |
 | `eanske.eu` | No |
 | `ear7h.net` | No |
@@ -9226,6 +9227,7 @@ Here's a list of public Fediverse services.
 | `hackny.social` | No |
 | `hackoon.com` | No |
 | `hackplayers.com` | No |
+| `hackrc.dev` | Yes |
 | `hackret.com` | Yes |
 | `hacks.wiki` | No |
 | `hacksaw.space` | No |
@@ -12261,6 +12263,7 @@ Here's a list of public Fediverse services.
 | `kyubitter.xyz` | Yes |
 | `kyunkyun.moe` | No |
 | `kyushojitsu.ca` | Yes |
+| `kzhub.cc` | No |
 | `kzstan.com` | No |
 | `l-internet.fr` | No |
 | `l-p-d.org` | No |
@@ -13040,6 +13043,7 @@ Here's a list of public Fediverse services.
 | `llnt.eu` | No |
 | `llnu.ml` | No |
 | `llprods.com` | No |
+| `lmaa.pm` | No |
 | `lmao.gg` | Yes |
 | `lmao.tf` | Yes |
 | `lmbo.party` | No |
@@ -13295,6 +13299,7 @@ Here's a list of public Fediverse services.
 | `luap42.de` | Yes |
 | `lubakiagenda.net` | No |
 | `lubar.me` | Yes |
+| `luca-cazzulo.it` | No |
 | `luca0n.com` | No |
 | `lucahammer.com` | Yes |
 | `lucas.monster` | No |
@@ -16916,6 +16921,7 @@ Here's a list of public Fediverse services.
 | `nx15.rocks` | No |
 | `nxc.one` | Yes |
 | `nxs3.com` | No |
+| `nxt.social` | No |
 | `nxte.org` | No |
 | `nya.coffee` | Yes |
 | `nya.house` | No |
@@ -21367,6 +21373,7 @@ Here's a list of public Fediverse services.
 | `skoop.hu` | No |
 | `skoops.social` | No |
 | `skorpil.cz` | No |
+| `skrasek.us` | No |
 | `skrep.eu` | No |
 | `skrep.in` | No |
 | `skri.ga` | No |
@@ -24885,6 +24892,7 @@ Here's a list of public Fediverse services.
 | `vaughnhannon.com` | No |
 | `vault84.de` | No |
 | `vaush.ml` | No |
+| `vaxodon.com` | Yes |
 | `vayena.club` | No |
 | `vbrandl.net` | No |
 | `vbrlabs.io` | No |
@@ -24898,7 +24906,7 @@ Here's a list of public Fediverse services.
 | `vector.social` | No |
 | `vectorsigma.ru` | Yes |
 | `vedetta.com` | No |
-| `veenk.org` | No |
+| `veenk.org` | Yes |
 | `veenus.art` | No |
 | `veenus.tk` | No |
 | `veer66.rocks` | No |
@@ -26814,8 +26822,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,624 |
-| Normal | 21,147 |
+| Cloudflare | 5,627 |
+| Normal | 21,152 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
