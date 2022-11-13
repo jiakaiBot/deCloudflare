@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,820 |
+| com | 3,821 |
 | net | 2,062 |
 | social | 1,886 |
 | org | 1,483 |
@@ -20333,6 +20333,7 @@ Here's a list of public Fediverse services.
 | `s6jr.com` | No |
 | `s7t.de` | No |
 | `saadnpq.com` | No |
+| `saagarjha.com` | No |
 | `saas.yachts` | Yes |
 | `sabakan.industries` | Yes |
 | `sabatino.cloud` | No |
@@ -26872,7 +26873,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,636 |
-| Normal | 21,192 |
+| Normal | 21,193 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
