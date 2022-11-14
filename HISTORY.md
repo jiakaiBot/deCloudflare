@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-18: [QRO (Queretaro) on 2022-11-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cpgjfjh9lt3q)
+- 2022-11-17: [QRO (Queretaro) on 2022-11-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1prknf4fmk1s)
 - 2022-11-16: [CPT (Cape Town) on 2022-11-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1pgtc9zvwpcr)
 - 2022-11-16: [MRS (Marseille) on 2022-11-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7vk29sqvbkyy)
 - 2022-11-18: [ARN (Stockholm) on 2022-11-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/d3gshrlkdrzx)
