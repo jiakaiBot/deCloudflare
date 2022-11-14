@@ -121,6 +121,7 @@ com.hmail.zulutradefx.com
 forms.zohopublic.eu
 git.git.git.git.git.git.git.seed.z-serviceonline.com
 git.git.git.gitlab.gitlab.smtpmail.z-serviceonline.com
+git.git.git.vmail.zalishchyker.de
 gitlab.gitlab.www.covid19.zalive-akvilon.ru
 jobs.zenploy.io
 kerur-rahamim.zapages.co.il
@@ -156,9 +157,11 @@ www.zephfairbank.ml
 www.zhelcleaningservice.com
 www.ziparticle.com
 www.zorgtoeslag-geregeld.nl
+www42.zippyshare.com
 z-l.by
 zacairbank.ml
 zamaco.com.vn
+zaragozamakerspace.com
 zeebra.nl
 zelo.zelomeetings.com
 zephfairbank.ml
@@ -167,6 +170,7 @@ zhyttia.com.ua
 zionpeace.co.za
 zoeprendlaplume.fr
 zorgtoeslag-geregeld.nl
+zqura.com
 zsfdupk.cn
 ztmrds.zenithtechnologies.com
 www.zahnarzt-muenchen-neuperlach.de
