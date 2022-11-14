@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [MangaSee Unexpected JSON Token](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/14253)
 - [Allow disabling automatic redirects](https://github.com/xiaoyang-sde/reflare/issues/407)
 - [Empty config-get throws an error](https://github.com/ddworken/hishtory/issues/27)
 - [Cloudflare R2 Compatibility](https://github.com/area17/twill/issues/1906)
