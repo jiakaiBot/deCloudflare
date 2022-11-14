@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,850 |
 | net | 2,077 |
-| social | 1,926 |
+| social | 1,927 |
 | org | 1,491 |
 | de | 1,371 |
 
@@ -5698,6 +5698,7 @@ Here's a list of public Fediverse services.
 | `discant.net` | Yes |
 | `discloud.one` | No |
 | `discorded.io` | No |
+| `discordian.social` | No |
 | `discorporea.com` | No |
 | `discourse.social` | Yes |
 | `discovermagazine.com` | No |
@@ -14832,6 +14833,7 @@ Here's a list of public Fediverse services.
 | `michaelfbrown.net` | No |
 | `michaelgeist.ca` | No |
 | `michaelhans.com` | No |
+| `michaelhofer.ch` | No |
 | `michaeljdeeb.com` | No |
 | `michaeloldroyd.co.uk` | Yes |
 | `michaelp.info` | No |
@@ -21487,6 +21489,7 @@ Here's a list of public Fediverse services.
 | `simplesi.net` | No |
 | `simplesocialnetwork.org` | Yes |
 | `simply-life.net` | No |
+| `simplycreate.online` | No |
 | `simplydoesitvw.com` | No |
 | `simplyrecipes.com` | Yes |
 | `simpson.id` | No |
@@ -23897,6 +23900,7 @@ Here's a list of public Fediverse services.
 | `toad.social` | No |
 | `toaruhetare.net` | No |
 | `toast.cafe` | No |
+| `toast.farm` | Yes |
 | `toastbrot.net` | Yes |
 | `toaster.sh` | Yes |
 | `tobedefined.net` | No |
@@ -27094,8 +27098,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,685 |
-| Normal | 21,366 |
+| Cloudflare | 5,686 |
+| Normal | 21,369 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
