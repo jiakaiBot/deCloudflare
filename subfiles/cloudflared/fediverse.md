@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,822 |
 | net | 2,062 |
-| social | 1,888 |
+| social | 1,889 |
 | org | 1,483 |
 | de | 1,357 |
 
@@ -15674,6 +15674,7 @@ Here's a list of public Fediverse services.
 | `mushus.net` | No |
 | `musicbyyo.com` | Yes |
 | `musicdn.jp` | No |
+| `musicians.today` | No |
 | `musicspots.de` | No |
 | `musicstudio.pro` | No |
 | `musictech.space` | No |
@@ -21875,6 +21876,7 @@ Here's a list of public Fediverse services.
 | `soz.is` | Yes |
 | `sozen.network` | No |
 | `sozial.social` | No |
+| `sozialdemokratie.social` | No |
 | `soziale.cloud` | No |
 | `sozialwolke.net` | No |
 | `sozica.de` | No |
@@ -26876,7 +26878,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,639 |
-| Normal | 21,193 |
+| Normal | 21,195 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
