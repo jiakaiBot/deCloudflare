@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,821 |
 | net | 2,062 |
-| social | 1,887 |
+| social | 1,888 |
 | org | 1,483 |
 | de | 1,357 |
 
@@ -4207,7 +4207,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `comacero.com` | No |
 | `comam.es` | No |
@@ -25537,6 +25537,7 @@ Here's a list of public Fediverse services.
 | `weisensee.me` | No |
 | `weisser-zwerg.dev` | No |
 | `welford.me` | Yes |
+| `welford.social` | Yes |
 | `welivesecurity.com` | No |
 | `welldn.net` | No |
 | `wellduck.me` | No |
@@ -26874,7 +26875,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,638 |
-| Normal | 21,192 |
+| Normal | 21,193 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
