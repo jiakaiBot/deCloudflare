@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,826 |
 | net | 2,064 |
-| social | 1,892 |
+| social | 1,895 |
 | org | 1,484 |
 | de | 1,359 |
 
@@ -7673,6 +7673,7 @@ Here's a list of public Fediverse services.
 | `footprints.community` | No |
 | `foowar.de` | No |
 | `foowp.org` | No |
+| `fopnu.pw` | No |
 | `foralltime.icu` | Yes |
 | `force-clan.io` | No |
 | `forcedconversation.com` | No |
@@ -18983,6 +18984,7 @@ Here's a list of public Fediverse services.
 | `protom.eu` | No |
 | `protoxin.net` | Yes |
 | `prou.be` | No |
+| `proud.social` | No |
 | `proudhon.ovh` | No |
 | `proudtobeapastafarian.com` | No |
 | `prout.social` | No |
@@ -20734,6 +20736,7 @@ Here's a list of public Fediverse services.
 | `sci.kiwi` | Yes |
 | `scicomm.xyz` | No |
 | `sciencemastodon.com` | No |
+| `sciencemediacenter.social` | No |
 | `sciences.re` | No |
 | `sciences.social` | No |
 | `scientiam.org` | No |
@@ -24371,6 +24374,7 @@ Here's a list of public Fediverse services.
 | `tvman.net` | No |
 | `tvor.support` | No |
 | `tvwatch.party` | No |
+| `tw.social` | No |
 | `tw.town` | No |
 | `tw1tter.com` | No |
 | `twat.city` | Yes |
@@ -26903,7 +26907,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,645 |
-| Normal | 21,214 |
+| Normal | 21,218 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
