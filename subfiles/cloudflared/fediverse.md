@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,850 |
+| com | 3,852 |
 | net | 2,077 |
 | social | 1,927 |
 | org | 1,491 |
-| de | 1,371 |
+| de | 1,372 |
 
 
 - Mastodon, Pleroma, etc
@@ -3795,6 +3795,7 @@ Here's a list of public Fediverse services.
 | `chilli.social` | No |
 | `chilliet.eu` | No |
 | `chillout.chat` | Yes |
+| `chillpeep.zone` | Yes |
 | `chilly.cloud` | No |
 | `chilos.jp` | No |
 | `chimera.social` | No |
@@ -4527,6 +4528,7 @@ Here's a list of public Fediverse services.
 | `crashtodon.net` | No |
 | `crates.im` | No |
 | `craveiro.pt` | No |
+| `crawling-with-love.com` | Yes |
 | `crazydan.org` | No |
 | `crazylab.online` | No |
 | `crazynewworld.net` | Yes |
@@ -10622,6 +10624,7 @@ Here's a list of public Fediverse services.
 | `intercal.top` | No |
 | `interconnected.systems` | No |
 | `interfel.de` | No |
+| `interferencias.tech` | No |
 | `interfesse.net` | No |
 | `interflow.org` | Yes |
 | `intergalactic.social` | No |
@@ -10774,6 +10777,7 @@ Here's a list of public Fediverse services.
 | `ishikaridon.jp` | No |
 | `ishikun.me` | No |
 | `ishygddt.xyz` | No |
+| `isibboi.de` | No |
 | `isidai.com` | No |
 | `iskr.jp` | No |
 | `islamicate.space` | No |
@@ -25629,6 +25633,7 @@ Here's a list of public Fediverse services.
 | `waseda.ac.jp` | Yes |
 | `waseigo.com` | No |
 | `washingtonbeach.online` | No |
+| `waskuisland.com` | Yes |
 | `wasmitnetzen.de` | No |
 | `wasnt.net` | Yes |
 | `wasp.ovh` | Yes |
@@ -27098,8 +27103,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,686 |
-| Normal | 21,369 |
+| Cloudflare | 5,689 |
+| Normal | 21,371 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
