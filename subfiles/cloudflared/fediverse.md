@@ -1509,6 +1509,7 @@ Here's a list of public Fediverse services.
 | `arkham.cafe` | No |
 | `arkproject.io` | Yes |
 | `arkros.net` | No |
+| `arks.cafe` | No |
 | `arks.social` | No |
 | `arktos.social` | No |
 | `arkunkel.de` | No |
@@ -26902,7 +26903,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,645 |
-| Normal | 21,213 |
+| Normal | 21,214 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
