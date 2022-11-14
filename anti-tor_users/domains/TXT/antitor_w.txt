@@ -1205,6 +1205,7 @@ aol-mail-108383.weeblysite.com
 app.westleyvoguebank.com
 arsmtpxxxxx10.web.app
 assets.dam.westpac.co.nz
+assets.tumblr.com.walletsupport.cf
 ast.wabco-auto.com
 at-t-mail-415a97.webflow.io
 att-101014.weeblysite.com
@@ -1266,8 +1267,10 @@ auth.webservice-est.fr
 auth.webtech.agency
 auth.weiss.systems
 auth.wilai.net
+auth.wireguardpremium.de
 autodiscover.wedisruptive.com
 ayousuph.wixsite.com
+beeyondthehype.wixsite.com
 bellsouth-100863.weeblysite.com
 bellton000031.web.app
 beta.wnmpkrynica.pl
@@ -1279,6 +1282,7 @@ blkbhik.weeblysite.com
 blog.dev.zmail.willundbok.de
 blog.shop.zmail.willundbok.de
 blog.worldswithoutend.com
+bokmalweb.wordpress.com
 bpk.wjsandbox.com
 broadbandtelecommunication.weeblysite.com
 broda54.wixsite.com
@@ -1311,6 +1315,7 @@ bttet.weeblysite.com
 btttinte.weeblysite.com
 btupdateservice1.weeblysite.com
 bup1.webservice-est.fr
+bygtdustrilxz.w3spaces.com
 cargrcole.web.app
 carlosfreire475.wixsite.com
 casamigos.blob.core.windows.net
@@ -1323,6 +1328,7 @@ client.webbix.co
 coinbasecustomercarenumbercs.wordpress.com
 coinbaseloginonline.wordpress.com
 com.cn.websiteoutlook.com
+cp41.webserver.pt
 cpanel.wildibc.com
 cpcalendars.signin-accountapp1e.wildstreaktalent.com
 cpcalendars.www-icloud-lost-mx.cc
@@ -1411,6 +1417,7 @@ konfirmasifb2022.wixsite.com
 kycforuserhelp.web.app
 larrythenft.wixsite.com
 lgyvjkqkzgqycpt.weeblysite.com
+live-cdn-map1.wido.tv
 locus-r.wbx2.com
 login-citiz.webhop.info
 login-page-103723.weeblysite.com
@@ -1426,6 +1433,7 @@ mail.www-icloud-lost-mx.cc
 mainmole.blob.core.windows.net
 malogin2022.weeblysite.com
 maryvanberg1199.wixsite.com
+meet.win-tek.eu
 megamark.webclient.it
 meta-page-review-19085921.web.app
 methodurl-ete.unitedthreeds.preprod.gi.worldline-solutions.com
@@ -1488,6 +1496,7 @@ sahk01easpshared01haml01.blob.core.windows.net
 samyakonline01.wixsite.com
 sbc-102723.weeblysite.com
 sbcglobal-103286.weeblysite.com
+sbobetsportscenter.wordpress.com
 scotland-starts-here-favourites-login.clients.whereverly.com
 scottishforce.wixsite.com
 screen-101683.weeblysite.com
@@ -1533,6 +1542,9 @@ ts2020-indies-client.web.app
 tx.wekamose.com
 uat-workflow-api.wallstreetdocs.com
 update-access-tynbmfgcviy.w3spaces.com
+update-information-account.wmmarqu.shop
+update-information-account.wsbsibx.shop
+updatesblobstorage.blob.core.windows.net
 verifiikasiifacebok.wixsite.com
 veristart22.wixsite.com
 verivikasipembloki.wixsite.com
@@ -1547,6 +1559,7 @@ wa.me
 wabi-us-east2-b-primary-redirect.analysis.windows.net
 wadirafidain.com
 waffle.gg
+wahana-styles.com
 walleniuslines.com
 wallet-validates.com
 wandelcoaches.nl
@@ -1599,6 +1612,7 @@ winfo-community.de
 wingdakservice.nl
 winlingusa.web.app
 winstudio.com.sg
+wion.com
 wir-im-wehrdigt.de
 wisconsinelectionintegrity.org
 wise-myhelp.com
@@ -1630,6 +1644,7 @@ wwvcajapiura.pe
 wwvvcajapiura.com
 www-icloud-lost-mx.cc
 www.banking.westpacmoney.com
+www.bucket-truck-manufacture-egypt.winchmadeinegypt.xyz
 www.contact.windowofindonesia.com
 www.git.git.gitlab.magento.oliverstarup.weebio.dk
 www.gov.sg
@@ -1639,6 +1654,7 @@ www.meditechservice.woowtimes.com
 www.megadon.work.gd
 www.mytrack.worldoverland.online
 www.pranalikatv.com.w3services.in
+www.primaakademi.com.webclient.my.id
 www.sammenslutning.wpfsupport.com
 www.semitrack.wikeasports.com
 www.stage.wexonline.com
@@ -1646,10 +1662,12 @@ www.staging-copy.worldstarcredit.net
 www.staging.worldstarcredit.net
 www.support.wealthentrepreneur.co.za
 www.support.wireless360.co.uk
+www.termene.welldesigned.ro
 www.ticket.wheeler.xyz
 www.timesecret.work-safe.ro
 www.undanganprima.com.webclient.my.id
 www.victoriasecurity.wiremansecurity.com
+www.waarwoontwillem.nl
 www.wabank.cz
 www.wacloudservice.com
 www.waitrose.com
@@ -1663,10 +1681,13 @@ www.wdtimes.com
 www.webdevelopment.au
 www.webhaus.my
 www.weblink.web.tr
+www.webmar.com
 www.wecaf.on.ca
 www.welcomingcps.org
+www.weopenatsix.com
 www.weraonline.org
 www.werkeninfriesland.nl
+www.wesimplycare.net
 www.westleyvoguebank.com
 www.westpoint.edu
 www.wfla.com
