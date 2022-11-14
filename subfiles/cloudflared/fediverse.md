@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,850 |
-| net | 2,076 |
+| net | 2,077 |
 | social | 1,926 |
 | org | 1,491 |
 | de | 1,371 |
@@ -5409,6 +5409,7 @@ Here's a list of public Fediverse services.
 | `deoan.org` | No |
 | `deoke.ml` | No |
 | `depertat.net` | No |
+| `dephekt.net` | No |
 | `depht.com` | No |
 | `depixelated.com` | Yes |
 | `depone.net` | No |
@@ -27094,7 +27095,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,685 |
-| Normal | 21,365 |
+| Normal | 21,366 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
