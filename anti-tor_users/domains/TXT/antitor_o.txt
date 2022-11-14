@@ -513,9 +513,12 @@ www.update.odaanews.net
 www.usps-service-mail-pickup-jsp.ocry.com
 zoominfo.com.login.onlineactionsports.com.au
 achasp2-cert.onefiserv.com
+akr2289922101.owst.jp
+alan.oseudelivery.app.br
 amazonproductapi.officetada.work
 api.aws-ap1.garden.internal.live.k8s.ondemand.com
 api.cf.eu12.hana.ondemand.com
+api.gca.amazon.stg.aws.ofx.com
 api.onsolvegateway.com
 api.prod-haas.hc-canary.shoot.live.k8s-hana.ondemand.com
 api.updatefullpage.review.acdc.odiwi.fr
@@ -526,9 +529,13 @@ bank.ofgeorgia.pro
 bank.ofgeorgia.xyz
 beforeupdate.ormskirkskipsltd.co.uk
 bo.updatefullpage.review.acdc.odiwi.fr
+bristol-garden.webplatform-affligem.overstock.be
+bristol-home.webplatform-affligem.overstock.be
 ccbs-client.preview.otomagis.id
 cdn.opecloud.com
+cdpuoic-idj6xuhdtgxc-ia.integration.ocp.oraclecloud.com
 click.omelveny.com
+cod-oic-axwodgdluk1g-ia.integration.ocp.oraclecloud.com
 consumer-prod-user13.training.openshift.ch
 consumer-user10.training.openshift.ch
 consumer-user6.training.openshift.ch
@@ -545,7 +552,9 @@ dev.mcsf.ws.operatec.eu
 dev.office365account.com
 developer.oculus.com
 dex.ogolation.de
+doicis0100integrationservices-atcoci1.integration.ocp.oraclecloud.com
 erpapps.ocadu.ca
+fa-eyfy-test-saasfapreprod1.fa.ocs.oc-test.com
 fcgc6835.odns.fr
 front.updatefullpage.review.acdc.odiwi.fr
 getsecure.omgajananinfocom.in
@@ -556,6 +565,7 @@ gtm-wmartins.onesourcelogin.com
 gtmqa-borgwarner.onesourcelogin.com
 healthchecks.eu-paris-1.oraclecloud.com
 helpdesk.obvs.solutions
+icsupus.ugbu.oraclepdemos.com
 idp.otago.ac.nz
 inpost-xszm.order1894.biz
 inpost.order982445.org
@@ -583,6 +593,9 @@ objectstorage.us-sanjose-1.oraclecloud.com
 obsidianorderdiscord.com
 odrealty.mx
 oefentoets.com
+offshoresupport.online
+oic-ccs-shared-ax6cus1bjr3u-ia.integration.ocp.oraclecloud.com
+oicinnovationinstance2-id09o3eaz21u-zr.integration.ocp.oraclecloud.com
 okatteya.owst.jp
 olamtov.com
 old-lighting.ru
@@ -601,6 +614,7 @@ onlinebanking-payment-access.com
 onlinenetflixupdate.com
 onlinetjeneste.com
 onlyfansfinder.org
+onsman.com
 openbenches.org
 openjewereld.nu
 opensea.co.ke
@@ -619,10 +633,14 @@ outlooksigninemail.com
 outpost-4.com
 ove.com.sg
 overskudslivet.dk
+overstock-garden.webplatform-affligem.overstock.be
+overstock-home.webplatform-affligem.overstock.be
 owa.oso.sk
+oxxopay.store
 ozelbazar.com
 passwortcheck.outercirc.io
 pixel-us.onaudience.com
+poicis0100integrationservices-atcoci1.integration.ocp.oraclecloud.com
 portal.olomeleia.gr
 postcovid.onlinedoctor.space
 producer-prod-user13.training.openshift.ch
@@ -640,6 +658,7 @@ service-discovery.ouznoreyni.tech
 servicebus-t.overijssel.nl
 shared-cw-alarm.orkesconductor.com
 shop.oxfamnovib.nl
+smart.owqms.com
 sn.olavthon.no
 stageway.ok-kontor.no
 store.orderfront.com
@@ -653,6 +672,7 @@ titustap.optrust.com
 uat-auth.omega-caci.com
 uat-certauth.omega-caci.com
 uatybaepsapi.oasyspay.in
+ugoicmidev-axcsjpwmhyzr-gr.integration.ocp.oraclecloud.com
 upbit-global.onelink.me
 user.onecircle.live
 video-a-la-demande-qualif1.orange.fr
@@ -670,9 +690,14 @@ www.customer.omnipos.co
 www.derakpost.obatgaptech.com
 www.fernbertemes.org.mab-dap.on-rev.com
 www.git.blog.shop.secure.oleybet.link
+www.git.git.git.gitlab.carairconditioningrepaold.secure.oleybet.link
+www.git.git.gitlab.carairconditioningrepaold.secure.oleybet.link
+www.git.gitlab.carairconditioningrepaold.secure.oleybet.link
+www.gitlab.carairconditioningrepaold.secure.oleybet.link
 www.green-stone.online-it-support.dk
 www.oab.org.br
 www.oakdalefuneralhome.com
+www.oakhurstvet.com
 www.obsolete-tears.com
 www.octb.pt
 www.oculus.com
@@ -700,6 +725,7 @@ www.ostehomevet.fr
 www.otadtv.com
 www.oteuamigo.pt
 www.otmliteracy.com
+www.otokkaakatemia.fi
 www.outpost-4.com
 www.ov8espeakers.nl
 www.ove.com.sg
