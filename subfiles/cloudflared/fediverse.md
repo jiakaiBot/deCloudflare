@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,827 |
+| com | 3,828 |
 | net | 2,064 |
 | social | 1,895 |
 | org | 1,485 |
-| de | 1,359 |
+| de | 1,360 |
 
 
 - Mastodon, Pleroma, etc
@@ -1709,6 +1709,7 @@ Here's a list of public Fediverse services.
 | `at7s.me` | Yes |
 | `ataber.pw` | Yes |
 | `atamisk.net` | No |
+| `atari-frosch.de` | No |
 | `atarijunge.de` | No |
 | `ataxya.net` | Yes |
 | `atbigelow.com` | No |
@@ -4215,7 +4216,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `comacero.com` | No |
 | `comam.es` | No |
@@ -11927,6 +11928,7 @@ Here's a list of public Fediverse services.
 | `klausurenphase.de` | No |
 | `klazema.net` | No |
 | `klee-wife.moe` | Yes |
+| `klein.tl` | No |
 | `kleinbottle.club` | No |
 | `kleinheld.ch` | No |
 | `kleinhitpass.de` | No |
@@ -12357,7 +12359,7 @@ Here's a list of public Fediverse services.
 | `ladicle.com` | No |
 | `ladisquette.fr` | No |
 | `ladn.org` | No |
-| `ladon-dragon.net` | No |
+| `ladon-dragon.net` | Yes |
 | `laenredadera.org` | No |
 | `laeran.pl` | Yes |
 | `laernorsk.no` | No |
@@ -16213,6 +16215,7 @@ Here's a list of public Fediverse services.
 | `nerdculture.de` | No |
 | `nerddao.xyz` | No |
 | `nerderium.com` | No |
+| `nerdgineer.com` | No |
 | `nerdgobragh.org` | No |
 | `nerdhaven.de` | No |
 | `nerdheim.de` | No |
@@ -26909,8 +26912,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,646 |
-| Normal | 21,220 |
+| Cloudflare | 5,648 |
+| Normal | 21,221 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
