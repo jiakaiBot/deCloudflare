@@ -6394,6 +6394,7 @@ Do not create new issue or we will close it as duplicate.
 | [mrosero@twitter](https://twitter.com/mrosero/status/1487863074866479109) | advertise |
 | [MrRocketFX@twitter](https://twitter.com/MrRocketFX/status/1439425081332076549) | advertise |
 | [mrsam1ir@twitter](https://twitter.com/mrsam1ir/status/1580979762847105030) | advertise |
+| [Mrsavant7@twitter](https://twitter.com/Mrsavant7/status/1592110342502756353) | advertise |
 | [MrShineHtooAung@twitter](https://twitter.com/MrShineHtooAung/status/1392637037451235336) | advertise |
 | [MrSilvaEdu@twitter](https://twitter.com/MrSilvaEdu/status/1506046207881273351) | advertise |
 | [MrSp0t@twitter](https://twitter.com/MrSp0t/status/1386835114705911810) | advertise |
