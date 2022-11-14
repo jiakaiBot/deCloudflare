@@ -703,6 +703,7 @@ Or is this merely a case of simple modesty?
 | Ivan Chin | Customer Development, Singapore |  |
 | Ivan Nikulin | Employee |  |
 | Jack Melnicoff | Enterprise Field Sales |  |
+| Jacob Bednarz | Systems Engineer | https://jacobbednarz.com/ |
 | Jacob Curtis | Employee | |
 | Jacob Evans | Software Engineer, Austin |  |
 | Jacob H. Haven | Systems Engineer |  |
@@ -1459,6 +1460,7 @@ Or is this merely a case of simple modesty?
 | Robert Wang | Product Engineer |  |
 | Rob Freeman | Employee |  |
 | Rob Headley | Enterprise Account Executive |  |
+| Rob Sutter | Employee | |
 | Rodrigo de Souza | Employee |  |
 | Roger Tam | Employee |  |
 | Rohan Oswal | Big Data Engineer |  |
@@ -1821,7 +1823,6 @@ Or is this merely a case of simple modesty?
 | Yingchen Wang | Employee | |
 | Yin Yue | Employee |  |
 | Young Park | Employee |  |
-| Jacob Bednarz | Systems Engineer | https://jacobbednarz.com/ |
 | Yuchen Wu | Systems Engineer | yuchenw@cs.cmu.edu<br>5000 Forbes Ave, Pittsburgh, USA, 15213 |
 | Yuet Wai | Employee |  |
 | Yunfei Luo Adam | Channel Account Manager |  |
