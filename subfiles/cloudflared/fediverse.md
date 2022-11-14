@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,821 |
 | net | 2,062 |
-| social | 1,886 |
+| social | 1,887 |
 | org | 1,483 |
 | de | 1,357 |
 
@@ -4504,6 +4504,7 @@ Here's a list of public Fediverse services.
 | `creativepassport.net` | No |
 | `creativity.cafe` | No |
 | `creatodon.online` | No |
+| `creators.social` | Yes |
 | `creatorsnight.com` | No |
 | `creatorstudio.space` | No |
 | `creatrix.world` | No |
@@ -23835,7 +23836,7 @@ Here's a list of public Fediverse services.
 | `toot.is` | Yes |
 | `toot.koeln` | No |
 | `toot.la` | Yes |
-| `toot.lgbt` | No |
+| `toot.lgbt` | Yes |
 | `toot.li` | No |
 | `toot.life` | No |
 | `toot.link` | No |
@@ -26872,8 +26873,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,636 |
-| Normal | 21,193 |
+| Cloudflare | 5,638 |
+| Normal | 21,192 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
