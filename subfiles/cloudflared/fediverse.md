@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,821 |
+| com | 3,822 |
 | net | 2,062 |
 | social | 1,888 |
 | org | 1,483 |
@@ -25431,6 +25431,7 @@ Here's a list of public Fediverse services.
 | `wattsupwiththat.com` | No |
 | `wauland.de` | No |
 | `wavers.us` | No |
+| `waxandleather.com` | Yes |
 | `waxwing.studio` | Yes |
 | `wayde.tech` | Yes |
 | `waytoo.online` | No |
@@ -26874,7 +26875,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,638 |
+| Cloudflare | 5,639 |
 | Normal | 21,193 |
 
 
