@@ -7818,6 +7818,7 @@ Here's a list of public Fediverse services.
 | `fragdev.com` | No |
 | `fragmental.art` | No |
 | `fraize.com` | No |
+| `fraley.dev` | No |
 | `framapiaf.org` | No |
 | `framasphere.org` | No |
 | `framatube.org` | No |
@@ -21233,6 +21234,7 @@ Here's a list of public Fediverse services.
 | `shart.network` | Yes |
 | `shas.am` | No |
 | `shatteredpalisa.de` | No |
+| `shaughnessy.xyz` | No |
 | `shaun.net` | No |
 | `shauny.me` | Yes |
 | `shavedmammoth.social` | No |
@@ -21315,6 +21317,7 @@ Here's a list of public Fediverse services.
 | `shitpost.racing` | Yes |
 | `shitposter.club` | No |
 | `shitposting.army` | Yes |
+| `shitposting.fr` | No |
 | `shitposting.network` | Yes |
 | `shitter.me` | No |
 | `shitter.ml` | No |
@@ -27068,7 +27071,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,679 |
-| Normal | 21,345 |
+| Normal | 21,348 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
