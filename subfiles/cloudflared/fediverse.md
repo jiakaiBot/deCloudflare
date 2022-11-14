@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,826 |
+| com | 3,827 |
 | net | 2,064 |
 | social | 1,895 |
-| org | 1,484 |
+| org | 1,485 |
 | de | 1,359 |
 
 
@@ -2071,6 +2071,7 @@ Here's a list of public Fediverse services.
 | `bannok.club` | No |
 | `banthamilk.blue` | No |
 | `bantu.social` | No |
+| `banu.com` | No |
 | `banyu.guru` | Yes |
 | `banzan.uk` | No |
 | `bapp.me` | No |
@@ -17155,6 +17156,7 @@ Here's a list of public Fediverse services.
 | `ohmygod.social` | No |
 | `ohmylanta.today` | No |
 | `ohmyposh.dev` | Yes |
+| `ohnepunktundkomma.org` | No |
 | `ohno.club` | No |
 | `ohno.host` | No |
 | `ohnomy.rocks` | No |
@@ -20980,7 +20982,7 @@ Here's a list of public Fediverse services.
 | `sent.onl` | No |
 | `sentient.tube` | No |
 | `senzdom.club` | No |
-| `seo.chat` | No |
+| `seo.chat` | Yes |
 | `seocommunity.social` | No |
 | `seommunity.com` | Yes |
 | `seoul.earth` | Yes |
@@ -26907,8 +26909,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,645 |
-| Normal | 21,219 |
+| Cloudflare | 5,646 |
+| Normal | 21,220 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
