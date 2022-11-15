@@ -2199,6 +2199,7 @@ Here's a list of public Fediverse services.
 | `bbiz.io` | No |
 | `bbq.golf` | No |
 | `bbqmasters.life` | No |
+| `bbrks.me` | Yes |
 | `bbs3k.com` | No |
 | `bc5.ca` | No |
 | `bcicorporate.com` | No |
@@ -4249,7 +4250,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `comacero.com` | No |
 | `comam.es` | No |
@@ -4810,7 +4811,7 @@ Here's a list of public Fediverse services.
 | `cutienaut.club` | No |
 | `cutiepie.at` | No |
 | `cuties.social` | No |
-| `cutieverse.social` | No |
+| `cutieverse.social` | Yes |
 | `cutls.com` | Yes |
 | `cutout.media` | No |
 | `cuttingfree.info` | No |
@@ -8194,7 +8195,7 @@ Here's a list of public Fediverse services.
 | `functional.technology` | No |
 | `functionalgeekery.com` | Yes |
 | `functionalprogramming.in` | No |
-| `functor.pro` | Yes |
+| `functor.pro` | No |
 | `funfunmstdn.tokyo` | No |
 | `funigtor.fr` | No |
 | `funke-software.de` | No |
@@ -8722,6 +8723,7 @@ Here's a list of public Fediverse services.
 | `gigalixirapp.com` | No |
 | `gigamastodon.com` | No |
 | `gigantos.net` | Yes |
+| `gigaohm.bio` | No |
 | `giggle.army` | No |
 | `giggleplex.red` | No |
 | `gigon.cloud` | No |
@@ -23362,7 +23364,7 @@ Here's a list of public Fediverse services.
 | `terrafirma.space` | No |
 | `terraforminglatam.net` | No |
 | `terrancebrown.me` | No |
-| `terrible.city` | No |
+| `terrible.city` | Yes |
 | `terrible.gay` | No |
 | `terrible.graphics` | No |
 | `terrible.place` | No |
@@ -27160,8 +27162,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,704 |
-| Normal | 21,413 |
+| Cloudflare | 5,705 |
+| Normal | 21,414 |
 
 
 ### 21% of public Fediverse services are using Cloudflare.
