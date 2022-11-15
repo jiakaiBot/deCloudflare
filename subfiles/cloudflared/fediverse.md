@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,868 |
+| com | 3,869 |
 | net | 2,085 |
 | social | 1,939 |
 | org | 1,497 |
@@ -4306,6 +4306,7 @@ Here's a list of public Fediverse services.
 | `comofas.org` | No |
 | `comomo.biz` | Yes |
 | `comopiensodigo.com` | No |
+| `comorichico.com` | No |
 | `compactbyte.com` | Yes |
 | `compadres.social` | No |
 | `companioncu.be` | No |
@@ -14598,6 +14599,7 @@ Here's a list of public Fediverse services.
 | `meatpi.es` | No |
 | `meawchill.xyz` | No |
 | `mecanis.me` | Yes |
+| `mecha.garden` | Yes |
 | `mechanicalmischief.com` | No |
 | `mechenici.com` | No |
 | `mechkey.jp` | No |
@@ -27204,8 +27206,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,718 |
-| Normal | 21,443 |
+| Cloudflare | 5,719 |
+| Normal | 21,444 |
 
 
 ### 21.1% of public Fediverse services are using Cloudflare.
