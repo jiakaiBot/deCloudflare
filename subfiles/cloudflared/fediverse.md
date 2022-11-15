@@ -12448,7 +12448,7 @@ Here's a list of public Fediverse services.
 | `kuroserver.net` | No |
 | `kurosuke.org` | No |
 | `kurry.social` | Yes |
-| `kurumah.dev` | No |
+| `kurumah.dev` | Yes |
 | `kurume-nct.com` | No |
 | `kurup.org` | Yes |
 | `kurusukono.cc` | No |
@@ -25761,6 +25761,7 @@ Here's a list of public Fediverse services.
 | `w3b0.de` | No |
 | `w3c.social` | No |
 | `w3nz.net` | No |
+| `w3pbs.top` | No |
 | `w3r.jp` | No |
 | `w3rkhof.zone` | No |
 | `w41.org` | No |
@@ -27361,7 +27362,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,764 |
+| Cloudflare | 5,765 |
 | Normal | 21,554 |
 
 
