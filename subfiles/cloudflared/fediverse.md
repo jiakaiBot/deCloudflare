@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,871 |
-| net | 2,085 |
-| social | 1,939 |
-| org | 1,497 |
-| de | 1,376 |
+| com | 3,875 |
+| net | 2,089 |
+| social | 1,947 |
+| org | 1,498 |
+| de | 1,382 |
 
 
 - Mastodon, Pleroma, etc
@@ -1061,6 +1061,7 @@ Here's a list of public Fediverse services.
 | `amastodon.uk` | No |
 | `amaurot.city` | Yes |
 | `amazedkoumei.com` | No |
+| `amazingcto.social` | No |
 | `amazonfrown.tk` | No |
 | `ambag.es` | No |
 | `ambient.fm` | No |
@@ -1193,6 +1194,7 @@ Here's a list of public Fediverse services.
 | `androidpolice.com` | Yes |
 | `andrus.io` | Yes |
 | `andrzejl.eu` | No |
+| `andstuff.us` | No |
 | `anduin.net` | No |
 | `andy-bell.com` | Yes |
 | `andyd.uk` | No |
@@ -2712,6 +2714,7 @@ Here's a list of public Fediverse services.
 | `blind.lol` | No |
 | `blindwith.science` | Yes |
 | `blisses.org` | No |
+| `bln41.net` | Yes |
 | `bln41.win` | Yes |
 | `blob.cat` | No |
 | `blob.coffee` | No |
@@ -3228,6 +3231,7 @@ Here's a list of public Fediverse services.
 | `burner.social` | No |
 | `burner.zone` | No |
 | `burners.social` | No |
+| `burningboard.net` | No |
 | `burningnebula.net` | No |
 | `burningpixel.net` | No |
 | `burningtimber.com` | Yes |
@@ -3262,6 +3266,7 @@ Here's a list of public Fediverse services.
 | `buzhangjiuzhou.com` | Yes |
 | `buzon.uy` | No |
 | `buzzworkers.com` | No |
+| `bvb.social` | No |
 | `bvp.me` | No |
 | `bw-toot.de` | No |
 | `bwnet.it` | No |
@@ -3564,7 +3569,7 @@ Here's a list of public Fediverse services.
 | `cau.se` | No |
 | `caucus.social` | No |
 | `causticretail.org` | No |
-| `cavalca.name` | No |
+| `cavalca.name` | Yes |
 | `caw.ai` | Yes |
 | `cawfee.club` | No |
 | `caxyz.org` | No |
@@ -3912,6 +3917,7 @@ Here's a list of public Fediverse services.
 | `chronal.net` | No |
 | `chronos-tachyon.net` | No |
 | `chronostase.net` | No |
+| `chronrevisited.online` | No |
 | `chroske.com` | No |
 | `chrotonic.com` | No |
 | `chrxs.net` | No |
@@ -4069,6 +4075,7 @@ Here's a list of public Fediverse services.
 | `cloudns.cl` | Yes |
 | `cloudns.nz` | Yes |
 | `cloudonaut.io` | Yes |
+| `cloudpirat.es` | No |
 | `cloudplane.app` | Yes |
 | `cloudpractice.cf` | No |
 | `cloudron.club` | Yes |
@@ -4730,6 +4737,7 @@ Here's a list of public Fediverse services.
 | `ctuck.com` | No |
 | `ctw.pw` | No |
 | `cuatrolibertades.org` | No |
+| `cubalibre.social` | No |
 | `cuban.social` | No |
 | `cube4fun.net` | No |
 | `cubeworld.de` | No |
@@ -6234,6 +6242,7 @@ Here's a list of public Fediverse services.
 | `dzek.ru` | No |
 | `dzerom.space` | No |
 | `dzindzik.com` | Yes |
+| `dzmastodon.com` | No |
 | `e-code.in` | Yes |
 | `e-dt.xyz` | No |
 | `e-editiones.org` | No |
@@ -6840,6 +6849,7 @@ Here's a list of public Fediverse services.
 | `esquer.dev` | No |
 | `esquinafeliz.com` | No |
 | `esrever.cc` | No |
+| `essmann.com` | No |
 | `estadoo.com` | No |
 | `estarik.com` | No |
 | `estel-freesia.moe` | No |
@@ -7286,6 +7296,7 @@ Here's a list of public Fediverse services.
 | `fedi.wtf` | No |
 | `fedi.xyz` | No |
 | `fedibb.ml` | No |
+| `fedibik.es` | No |
 | `fedibird.com` | Yes |
 | `fedibook.com` | No |
 | `fedibook.net` | No |
@@ -7559,6 +7570,7 @@ Here's a list of public Fediverse services.
 | `finsec.systems` | Yes |
 | `fintoot.space` | Yes |
 | `fionic.eu` | No |
+| `fioverse.zone` | No |
 | `fippies.org` | No |
 | `firc.de` | No |
 | `fire-studios.tk` | No |
@@ -7626,6 +7638,7 @@ Here's a list of public Fediverse services.
 | `flanintheface.com` | No |
 | `flashfic.stream` | No |
 | `flatearth.group` | No |
+| `flatline.club` | No |
 | `flatline.online` | No |
 | `flatmountain.rocks` | No |
 | `flausch.social` | No |
@@ -7877,6 +7890,7 @@ Here's a list of public Fediverse services.
 | `francescoceliento.com` | No |
 | `francil.in` | No |
 | `francoacg.com` | No |
+| `franken.social` | No |
 | `frankenwolke.com` | No |
 | `frankfurt.social` | No |
 | `frankgrimm.net` | No |
@@ -8784,7 +8798,7 @@ Here's a list of public Fediverse services.
 | `gitmo.life` | Yes |
 | `gitmo.tv` | No |
 | `gitpod.io` | No |
-| `gitport.net` | No |
+| `gitport.net` | Yes |
 | `giurgiu.io` | No |
 | `giveawaydispenser.com` | No |
 | `givel.fr` | No |
@@ -9139,6 +9153,7 @@ Here's a list of public Fediverse services.
 | `grigson.live` | No |
 | `grim.town` | No |
 | `grimerica.ca` | No |
+| `grimkroton.de` | No |
 | `grimm.link` | No |
 | `grimm.systems` | No |
 | `grimmbart.org` | No |
@@ -9245,6 +9260,7 @@ Here's a list of public Fediverse services.
 | `gulp.cafe` | No |
 | `gultsch.social` | No |
 | `gumbercules.net` | No |
+| `gumifox.eu` | No |
 | `gummipunkt.eu` | No |
 | `gumonji.live` | No |
 | `gundan.es` | No |
@@ -11038,6 +11054,7 @@ Here's a list of public Fediverse services.
 | `jaminit.co.uk` | Yes |
 | `jamwells.social` | Yes |
 | `janboddez.tech` | Yes |
+| `janbruns.de` | No |
 | `jancborchardt.net` | No |
 | `janetgunter.net` | No |
 | `janherm.de` | No |
@@ -12464,6 +12481,7 @@ Here's a list of public Fediverse services.
 | `laaj.space` | No |
 | `lab-kadokawa.com` | No |
 | `lab.am` | No |
+| `lab.nrw` | No |
 | `lab61.org` | No |
 | `labalagan.fr` | No |
 | `labki.net` | No |
@@ -12945,6 +12963,7 @@ Here's a list of public Fediverse services.
 | `libertarianism.club` | No |
 | `libertarians.social` | No |
 | `libertica.space` | Yes |
+| `libertious.com` | No |
 | `libertopia.cc` | No |
 | `libertyaf.io` | No |
 | `libertyblitzkrieg.com` | Yes |
@@ -13245,6 +13264,7 @@ Here's a list of public Fediverse services.
 | `lnxt.cloud` | No |
 | `lo-li.art` | Yes |
 | `lo.hn` | Yes |
+| `lo0.uk` | No |
 | `lo3.online` | Yes |
 | `loadaverage.club` | Yes |
 | `loadaverage.org` | No |
@@ -13487,6 +13507,7 @@ Here's a list of public Fediverse services.
 | `lubakiagenda.net` | No |
 | `lubar.me` | Yes |
 | `luca-cazzulo.it` | No |
+| `luca.run` | Yes |
 | `luca0n.com` | No |
 | `lucahammer.com` | Yes |
 | `lucaire.ovh` | No |
@@ -14151,6 +14172,7 @@ Here's a list of public Fediverse services.
 | `mastodon-space.com` | No |
 | `mastodon-srv.gq` | No |
 | `mastodon-startup.org` | No |
+| `mastodon-swiss.org` | No |
 | `mastodon-test233.xyz` | No |
 | `mastodon-tiray.me` | No |
 | `mastodon-toyama.xyz` | No |
@@ -14641,6 +14663,7 @@ Here's a list of public Fediverse services.
 | `meetwoof.com` | Yes |
 | `meety.me` | No |
 | `mef.gg` | Yes |
+| `mefi.social` | No |
 | `megacorp.life` | No |
 | `megadon.net` | No |
 | `megahiza.website` | No |
@@ -14657,6 +14680,7 @@ Here's a list of public Fediverse services.
 | `meh.social` | No |
 | `mehlmann.info` | No |
 | `mei-home.net` | No |
+| `meido-rando.net` | No |
 | `meikle.social` | No |
 | `meinderink.org` | No |
 | `meinmuenster.land` | No |
@@ -15194,6 +15218,7 @@ Here's a list of public Fediverse services.
 | `mita.me` | Yes |
 | `mitaka.nl` | Yes |
 | `miteff.co` | No |
+| `mitente.club` | No |
 | `mithril.re` | No |
 | `mithriltower.com` | No |
 | `mithuru.online` | No |
@@ -15551,6 +15576,7 @@ Here's a list of public Fediverse services.
 | `mousetail.dev` | Yes |
 | `mousou.org` | No |
 | `mousqueton.ru` | No |
+| `moussaclarke.co.uk` | Yes |
 | `mouup.top` | Yes |
 | `movies.win` | No |
 | `mowerse.com` | Yes |
@@ -16482,6 +16508,7 @@ Here's a list of public Fediverse services.
 | `netzspielplatz.org` | No |
 | `netzweh.de` | No |
 | `netzwerk-gebet.de` | No |
+| `neuberger.dev` | No |
 | `neue.city` | No |
 | `neue.social` | Yes |
 | `neufv.systems` | No |
@@ -17715,6 +17742,7 @@ Here's a list of public Fediverse services.
 | `osrs.club` | No |
 | `osrsga.me` | No |
 | `osrx.chat` | No |
+| `osrx.social` | No |
 | `oss.lgbt` | Yes |
 | `oss.nagoya` | No |
 | `ossum.net` | No |
@@ -18168,6 +18196,7 @@ Here's a list of public Fediverse services.
 | `peen.dev` | Yes |
 | `peeps.press` | No |
 | `peer.tube` | No |
+| `peering.social` | No |
 | `peerlook.ru` | Yes |
 | `peers.community` | No |
 | `peertube-blablalinux.be` | No |
@@ -18572,6 +18601,7 @@ Here's a list of public Fediverse services.
 | `pixelfed.love` | No |
 | `pixelfed.me` | No |
 | `pixelfed.monster` | No |
+| `pixelfed.mx` | No |
 | `pixelfed.net` | Yes |
 | `pixelfed.nl` | No |
 | `pixelfed.nz` | Yes |
@@ -18858,6 +18888,7 @@ Here's a list of public Fediverse services.
 | `polonkai.eu` | No |
 | `polsum.rocks` | No |
 | `polxa.online` | No |
+| `polyam.space` | No |
 | `polyamory.social` | No |
 | `polycule.club` | Yes |
 | `polyglot.city` | No |
@@ -19618,6 +19649,7 @@ Here's a list of public Fediverse services.
 | `radiotube.org` | No |
 | `radon.social` | No |
 | `radres.xyz` | No |
+| `radtke-partner.de` | No |
 | `radtke.pw` | No |
 | `radtusks.xyz` | Yes |
 | `raeffs.ch` | No |
@@ -20725,6 +20757,7 @@ Here's a list of public Fediverse services.
 | `sandersnel.com` | No |
 | `sandervandamme.com` | Yes |
 | `sandiegourbanists.com` | No |
+| `sandlot.club` | Yes |
 | `sandwich.net` | No |
 | `sandym.ca` | No |
 | `sanemind.de` | No |
@@ -22096,6 +22129,7 @@ Here's a list of public Fediverse services.
 | `soopy.moe` | Yes |
 | `soothing.cloud` | No |
 | `sophiade.net` | No |
+| `sophieversum.net` | No |
 | `sophos.com` | Yes |
 | `sophy.life` | Yes |
 | `sopuli.xyz` | No |
@@ -22406,6 +22440,7 @@ Here's a list of public Fediverse services.
 | `starfighter.club` | No |
 | `starfleet-command.org` | No |
 | `starflower.space` | No |
+| `starfruit.cafe` | No |
 | `starfyre.de` | No |
 | `stargaze.cafe` | No |
 | `stargazer.at` | No |
@@ -22464,6 +22499,7 @@ Here's a list of public Fediverse services.
 | `stefan-muenz.de` | No |
 | `stefanberger.net` | No |
 | `stefanbohacek.online` | No |
+| `stefanplank.art` | No |
 | `steffes.dev` | No |
 | `steffo.eu` | Yes |
 | `steflaf.fr` | No |
@@ -23540,6 +23576,7 @@ Here's a list of public Fediverse services.
 | `theconservativetreehouse.com` | Yes |
 | `theconstract.com` | No |
 | `thecool.tube` | No |
+| `thecoolest.info` | No |
 | `thecore.city` | Yes |
 | `thecovertgeek.xyz` | No |
 | `thecreatives.social` | No |
@@ -23625,6 +23662,7 @@ Here's a list of public Fediverse services.
 | `themaymeow.com` | Yes |
 | `themazuma.net` | No |
 | `themcphails.uk` | No |
+| `themepark.community` | Yes |
 | `themepark.social` | Yes |
 | `themeparks.social` | No |
 | `themeparks.wiki` | Yes |
@@ -23707,6 +23745,7 @@ Here's a list of public Fediverse services.
 | `theshrub.org` | No |
 | `thesifr.com` | No |
 | `thesimons.us` | No |
+| `thesinalab.de` | No |
 | `thesix.life` | No |
 | `thesnakepostoffice.online` | No |
 | `thesocialnerd.online` | No |
@@ -23824,6 +23863,7 @@ Here's a list of public Fediverse services.
 | `thorium.cc` | No |
 | `thorjhanson.com` | No |
 | `thorlaksson.com` | No |
+| `thoshiswelt.de` | No |
 | `thoster.net` | No |
 | `thotsofa304.club` | Yes |
 | `thought.blue` | No |
@@ -25110,6 +25150,7 @@ Here's a list of public Fediverse services.
 | `userliberation.network` | No |
 | `userserviceable.com` | No |
 | `userzap.de` | No |
+| `usesthis.com` | No |
 | `usethetools.org` | No |
 | `usezot.net` | Yes |
 | `usne.social` | No |
@@ -25889,6 +25930,7 @@ Here's a list of public Fediverse services.
 | `werblog.com` | No |
 | `wercx.net` | No |
 | `werd.social` | No |
+| `were.party` | No |
 | `were.social` | No |
 | `werebeast.io` | No |
 | `werefox.cafe` | No |
@@ -26092,6 +26134,7 @@ Here's a list of public Fediverse services.
 | `wisemantribe.co.uk` | No |
 | `wisepoint.org` | No |
 | `wishy.co.uk` | No |
+| `wisskomm.social` | No |
 | `witch.academy` | No |
 | `witch.energy` | No |
 | `witchcraft.cafe` | No |
@@ -26103,6 +26146,7 @@ Here's a list of public Fediverse services.
 | `witches.town` | No |
 | `witchey.club` | No |
 | `witchey.tech` | No |
+| `witchgirls.moe` | No |
 | `witchy.space` | No |
 | `witcraft.de` | No |
 | `with.moe` | Yes |
@@ -27160,12 +27204,14 @@ Here's a list of public Fediverse services.
 | `zsh.li` | Yes |
 | `zsiegel.social` | Yes |
 | `zteo.com` | Yes |
+| `ztn.sh` | Yes |
 | `ztrl.de` | No |
 | `zucchini.guru` | No |
 | `zucker.li` | No |
 | `zuckless.network` | No |
 | `zuendmasse.de` | No |
 | `zuev.org` | No |
+| `zufki.de` | No |
 | `zug.network` | No |
 | `zuidbook.com` | No |
 | `zuiho.moe` | Yes |
@@ -27212,8 +27258,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,723 |
-| Normal | 21,446 |
+| Cloudflare | 5,731 |
+| Normal | 21,484 |
 
 
 ### 21.1% of public Fediverse services are using Cloudflare.
