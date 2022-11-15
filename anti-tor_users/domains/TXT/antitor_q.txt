@@ -95,10 +95,13 @@ api.qualitelis-crm.com
 api.quikreturn.com
 api.quizflight.com
 criticaldesign.studio.qmail.com.tr
+dev.eforms.qfcra.com
 docs.qcmtech.com
 git.gitlab.gitlab.gitlab.gitlab.seo.quickfish.top
+icms.quetelcloud.com
 links.qatl.ru
 lmo.qualitysharerinvestment.click
+mufc.queue-it.net
 nimetozkan.com.tr.qmail.com.tr
 pages.questexinfo.com
 qdbrservice.cn
@@ -109,6 +112,7 @@ quadram.ac.uk
 qualitydays.ro
 quantum-computing-services.com
 quicknote.io
+quicksecurity.ro
 qwords.com
 sechub-no-sandbox.develop.fna.iot.qbeyond.tech
 sechub.develop.fna.iot.qbeyond.tech
