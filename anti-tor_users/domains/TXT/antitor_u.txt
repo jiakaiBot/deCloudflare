@@ -315,11 +315,14 @@ avanan.url-protection.com
 b2bapi.usaa.com
 bigweb.unifr.ch
 blockchain-explorer.smart-transport.fujitsu.ubloquity.tech
+brujo.updateperu.com
 bsdynow.cruzwwa.usermd.net
 californiadepartmentofmotorvehicles.updatemyprofile.com
 campusvirtual.urosario.edu.co
+cas.uditracker.biz
 cful.letras.ulisboa.pt
 click.usapark-enews.com
+collections.museums.ua.edu
 collimateur.uqam.ca
 contents.usadisk.com
 cos-verify.uatdelivery.uk
@@ -335,11 +338,13 @@ extranetslam.urops-prevention.fr
 files.usertygflkmd.tk
 homedav.unifr.ch
 ieim.uqam.ca
+ivsapi-cat.usps.gov
 japan.dev.sumitomo-rearchitecture.undpaul.work
 journals.uj.ac.za
 link.uinsgd.ac.id
 lo-cust-api.u-appspecto.com
 lobby.umcu.org
+logger.ulukartalteknoloji.com.tr
 lp.unicred.com.br
 madagaskar.u-appspecto.com
 mail.ucebol.edu.bo
@@ -389,6 +394,7 @@ ultrasecurity.ro
 uncomics.org
 unevenearth.org
 unibelts.co.za
+unicornify.cloud
 unimastin.com
 unipower.se
 unitransservice.com
@@ -407,6 +413,7 @@ urbansafety.ro
 urbanzero.city
 uriahheep-discography.com
 urlynet.com
+uruguaycardioseguro.com
 us-estimation.com
 usa-trip.be
 usagi-online.com
@@ -427,6 +434,8 @@ www.898.az.unikalservice.com
 www.authdove.unitedecom.com
 www.billing.utu.systems
 www.broadcast.update-sports.com
+www.brujo.updateperu.com
+www.bs-krzeszowice.cruzwwa.usermd.net
 www.budel-wheels.com.updates360.id
 www.bursadinar.com.updatehargaemas.com
 www.ch-booster.update-sports.com
@@ -454,6 +463,7 @@ www.support.utu.systems
 www.ticket.unlihost.cfd
 www.ticket01.usatodayhs.com
 www.tmc.fm.usermd.net
+www.today.update-sports.com
 www.uci.cu
 www.ukmilitarymentors.co.uk
 www.ukrn.org
@@ -469,6 +479,7 @@ www.unitedrocknations.com
 www.unitedsprayingservice.com
 www.unityunitarian.org
 www.universalrejection.org
+www.unserac.de
 www.update-bilnet-details.com
 www.update-tarif-transaksi-bank.my.id
 www.update3auf3.unna-server.de
