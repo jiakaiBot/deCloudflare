@@ -1663,6 +1663,7 @@ Do not create new issue or we will close it as duplicate.
 | [CeakhaKha@twitter](https://twitter.com/CeakhaKha/status/1550293952959393792) | advertise |
 | [CeeeeeeeeeJ@twitter](https://twitter.com/CeeeeeeeeeJ/status/1383152196754165760) | advertise |
 | [cefi@twitter](https://twitter.com/cefi/status/1389227756660133890) | advertise |
+| [cek_saha@twitter](https://twitter.com/cek_saha/status/1592540374517829634) | advertise |
 | [CelahPkbm@twitter](https://twitter.com/CelahPkbm/status/1468870913512800257) | advertise |
 | [CElectriz@twitter](https://twitter.com/CElectriz/status/1389625288896753664) | advertise |
 | [celotehsenja3@twitter](https://twitter.com/celotehsenja3/status/1506049300153118720) | advertise |
@@ -1916,8 +1917,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -8187,6 +8188,7 @@ Do not create new issue or we will close it as duplicate.
 | [rinluv0@twitter](https://twitter.com/rinluv0/status/1391460195566559233) | advertise |
 | [RINO72327156@twitter](https://twitter.com/RINO72327156/status/1395824730016555009) | advertise |
 | [RinSharz@twitter](https://twitter.com/RinSharz/status/1553295596680724480) | advertise |
+| [Rio93855459@twitter](https://twitter.com/Rio93855459/status/1592543442709909504) | advertise |
 | [RIPdeclan999@twitter](https://twitter.com/RIPdeclan999/status/1574187422660763648) | advertise |
 | [RishiKu66@twitter](https://twitter.com/RishiKu66/status/1392000250408144899) | advertise |
 | [RisingHighPrie1@twitter](https://twitter.com/RisingHighPrie1/status/1478009018245390338) | advertise |
