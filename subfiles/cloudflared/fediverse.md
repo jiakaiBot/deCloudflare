@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,897 |
-| net | 2,098 |
+| com | 3,898 |
+| net | 2,099 |
 | social | 1,973 |
 | org | 1,505 |
 | de | 1,388 |
@@ -792,6 +792,7 @@ Here's a list of public Fediverse services.
 | `aigisdon.net` | No |
 | `aike.monster` | No |
 | `aikoumasanobu.com` | No |
+| `aioo.ooo` | No |
 | `aipi.social` | No |
 | `aiqwest.com` | No |
 | `aircrew.rocks` | No |
@@ -9239,7 +9240,7 @@ Here's a list of public Fediverse services.
 | `group.lt` | Yes |
 | `groupement-interet-citoyen.org` | No |
 | `growcollective.art` | No |
-| `growers.social` | No |
+| `growers.social` | Yes |
 | `growthers.dev` | Yes |
 | `growyourown.services` | No |
 | `groyp.xyz` | No |
@@ -14561,6 +14562,7 @@ Here's a list of public Fediverse services.
 | `matri.cx` | No |
 | `matri.ml` | No |
 | `matriochka.re` | No |
+| `matriphe.net` | Yes |
 | `matriu.cat` | No |
 | `matrix.org` | Yes |
 | `mats.sh` | Yes |
@@ -15715,6 +15717,7 @@ Here's a list of public Fediverse services.
 | `mrx.im` | No |
 | `mrxi.org` | No |
 | `mrzan.xyz` | Yes |
+| `mrzm.io` | Yes |
 | `ms-olive.club` | Yes |
 | `ms.vg` | No |
 | `ms1.me` | No |
@@ -15920,6 +15923,7 @@ Here's a list of public Fediverse services.
 | `muh.wang` | No |
 | `muhroads.net` | No |
 | `muhroads.party` | No |
+| `muiiio.com` | No |
 | `muina.me` | No |
 | `mujico.org` | No |
 | `mujo.xyz` | Yes |
@@ -16856,6 +16860,7 @@ Here's a list of public Fediverse services.
 | `njms.ca` | No |
 | `njp.asia` | No |
 | `njust.club` | No |
+| `nkagami.me` | Yes |
 | `nkb.fr` | No |
 | `nkb.moe` | No |
 | `nkmi.cc` | No |
@@ -27395,8 +27400,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,779 |
-| Normal | 21,573 |
+| Cloudflare | 5,783 |
+| Normal | 21,574 |
 
 
 ### 21.1% of public Fediverse services are using Cloudflare.
