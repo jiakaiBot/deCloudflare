@@ -7059,6 +7059,7 @@ Here's a list of public Fediverse services.
 | `f-gs-only.com` | No |
 | `f-rabbit.com` | No |
 | `f-si.org` | No |
+| `f.cz` | No |
 | `f0x.es` | Yes |
 | `f12n.de` | No |
 | `f1sh.de` | No |
@@ -14645,7 +14646,7 @@ Here's a list of public Fediverse services.
 | `mcgrath.club` | No |
 | `mchel.net` | Yes |
 | `mcirc.us` | No |
-| `mcjarbo.com` | No |
+| `mcjarbo.com` | Yes |
 | `mckellar.org` | No |
 | `mckellar.social` | No |
 | `mckendrick.dev` | No |
@@ -21388,6 +21389,7 @@ Here's a list of public Fediverse services.
 | `sexpositivnet.com` | No |
 | `sexton-family.uk` | No |
 | `sexuall.us` | No |
+| `sexworkisrealwork.quest` | No |
 | `sexyferret.science` | No |
 | `sexyspygirls.com` | No |
 | `seyade.net` | No |
@@ -27362,8 +27364,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,765 |
-| Normal | 21,554 |
+| Cloudflare | 5,766 |
+| Normal | 21,555 |
 
 
 ### 21.1% of public Fediverse services are using Cloudflare.
