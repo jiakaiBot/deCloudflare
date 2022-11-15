@@ -633,6 +633,7 @@ Or is this merely a case of simple modesty?
 | Gerhard Esterhuizen | Engineering Manager |  |
 | Gerry Dunn | Sales Leader |  |
 | Gideon Redelinghuys | Systems Reliability Engineer |  |
+| Gift Egwuenu | Employee | |
 | Gigi Chiu | Employee |  |
 | Giuliana DeAngelis | Customer Success Manager |  |
 | Glen Maddern | Employee |  |
@@ -789,6 +790,7 @@ Or is this merely a case of simple modesty?
 | Jenn Suzuki | Team Coordinator |  |
 | Jenny Dee Brecheisen | Brand Designer |  |
 | Jenny Gong | Employee |  |
+| Jen Sells | Employee | |
 | Jensen Hussey | Web Developer |  |
 | Jensen Kuras | Programmer | jensen@cloudflare.com<br>https://twitter.com/jensechu<br>https://www.instagram.com/accounts/sin.jen/ |
 | Jen Taylor | Employee | |
