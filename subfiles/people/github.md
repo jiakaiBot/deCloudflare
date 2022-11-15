@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [MULTIPART_UNMATCHED_BOUNDARY when uploading certain randomly-generated files](https://github.com/coreruleset/coreruleset/issues/2999)
 - [Failed to bundle typescript+esm](https://github.com/jsdelivr/jsdelivr/issues/18448)
 - [MQTT with Cloudflare](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt/issues/416)
 - [MangaSee Unexpected JSON Token](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/14253)
