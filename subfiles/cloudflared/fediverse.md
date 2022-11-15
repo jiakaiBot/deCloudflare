@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,869 |
+| com | 3,871 |
 | net | 2,085 |
 | social | 1,939 |
 | org | 1,497 |
@@ -7835,6 +7835,7 @@ Here's a list of public Fediverse services.
 | `foxhold.net` | Yes |
 | `foxie.xyz` | Yes |
 | `foxiepa.ws` | No |
+| `foxnewsofficial.com` | No |
 | `foxocube.xyz` | Yes |
 | `foxpaw.in` | No |
 | `foxstreet.be` | No |
@@ -11030,6 +11031,7 @@ Here's a list of public Fediverse services.
 | `jamesp.org` | No |
 | `jamestechnotes.com` | No |
 | `jamesvasile.com` | No |
+| `jameuwu.com` | Yes |
 | `jamieasefa.social` | No |
 | `jamiesnotes.com` | Yes |
 | `jaminit.co.uk` | Yes |
@@ -27209,8 +27211,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,721 |
-| Normal | 21,445 |
+| Cloudflare | 5,722 |
+| Normal | 21,446 |
 
 
 ### 21.1% of public Fediverse services are using Cloudflare.
