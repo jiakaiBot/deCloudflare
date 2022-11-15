@@ -2598,7 +2598,7 @@ Here's a list of public Fediverse services.
 | `bitcoinhackers.org` | Yes |
 | `bitcoinlizard.net` | No |
 | `bitcoinmagazine.social` | No |
-| `bitcoinmastodon.org` | No |
+| `bitcoinmastodon.org` | Yes |
 | `bitcoinplebs.net` | No |
 | `bitcoinsasquatch.com` | No |
 | `bitcointv.com` | No |
@@ -17961,6 +17961,7 @@ Here's a list of public Fediverse services.
 | `owncast.tv` | No |
 | `ownify.in` | No |
 | `ownlibtards.online` | No |
+| `owo.cafe` | No |
 | `owo.monster` | No |
 | `owo.town` | No |
 | `oxel.me` | No |
@@ -26971,7 +26972,7 @@ Here's a list of public Fediverse services.
 | `yorha.club` | No |
 | `yorha.social` | Yes |
 | `yorishiro.space` | No |
-| `yorkshire.social` | No |
+| `yorkshire.social` | Yes |
 | `yorozu-sys.net` | No |
 | `yorrike.com` | No |
 | `yosh.is` | No |
@@ -27388,8 +27389,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,775 |
-| Normal | 21,570 |
+| Cloudflare | 5,777 |
+| Normal | 21,569 |
 
 
 ### 21.1% of public Fediverse services are using Cloudflare.
