@@ -671,6 +671,7 @@ zyxzero314-gmailcom.vercel.app
 410-gone.vercel.app
 ablink.mkt.voiapp.io
 academy-charlie.vercel.app
+academyld.vercel.app
 accounts.victoryauditors.co.tz
 ad-reports-service.ad-events.voltaxam-events.com
 addressportal.verifymacronix.com
@@ -682,13 +683,16 @@ api.virtusize.jp
 apps.vw.co.za
 apps.vwgroup.co.za
 auth.varadise.cloud
+auth.vistahub.io
 auth.vmia.vic.gov.au
 authentication.vstechsolutions.com.br
 autodiscover.vanguardseeds.com
 autodiscover.vishwaskikirantrust.in
 automanazer.vodafone.cz
 back.inflattention.vbaron.ovh
+calcium.valantic.pro
 care-api-staging.vaultdragon.com
+cdn.vianor-tyres.ru
 christian.vonschack.com
 cleanup-service-comid.core.build.vwn.cloud
 click.email.volante-tech.com
@@ -715,6 +719,7 @@ dev.vlec.be
 directaccess.vkooten.nl
 discord.valkirias.xyz
 discord4j.vercel.app
+e1prod2-web1.prod.vitalconnect.com
 ekycbidvsthgw.vnpaytest.vn
 en.vaccines-facts.info
 fad.vsp.com
@@ -742,6 +747,7 @@ hunterred50.vercel.app
 idp.comid.fma-4153d385.core.build.vwn.cloud
 iforgot-apple.verifylocation.live
 intteco.vercel.app
+jenkins.vedha.io
 jjdocu.verifyghana.org
 links.e.vivinomail.com
 lite.virtusize.jp
@@ -765,6 +771,7 @@ relampago-de-clientes.virio.digital
 relay.vtopia.live
 renault.via-conex.net
 restaurant.vmittech.in
+rt.services.visualstudio.com
 sanrio.viverebrasil.com.br
 server2.veilig-online.com
 service.vimeva.nl
@@ -791,6 +798,7 @@ vaccinesandsociety.org
 vahptr.com
 vakifbank-hizlikredi.tk
 vakrangeedevelopers.com
+valdemarhoiris.dk
 varietal-literature.ca
 variety-kfc.com.ru
 vaveylamodam.com
@@ -805,6 +813,7 @@ verification-badge.ml
 verification-bankofamerica.veloxsol.com
 verify-0nlineinfo.ga
 verify-bankofamerica.com
+verify-malta.com
 verify-mywellsfargo-account76r.com
 vermontbiz.com
 veronmoney.com
@@ -820,6 +829,7 @@ videoapi-muybridge.vimeocdn.com
 videotech.lv
 vidracariaroma.com.br
 viergeverclan.nl
+viktoriyagotseva.com
 villamormor.dk
 vinatrips.vn
 vincentbreton.fr
@@ -846,6 +856,7 @@ vodiscord.vercel.app
 voices.media
 voicesofvr.com
 voidacoustics.ro
+voyagestransat.com
 vplus-afterhours.virtusa.com
 vrf-primemembership.com
 vrfcustm-details.com
@@ -855,7 +866,9 @@ vtest314-cahj6gwweznekdcszdj1.vercel.app
 vulturrorp.tk
 vuprom.com
 vvwwcajapiura.pe
+vwwcajapiura.pe
 vz99.one
+web.b-2.vivid-proxy.com
 webdisk.vaccinesandsociety.com
 webdisk.vaccinesandsociety.com.vaccinesandsociety.org
 webdisk.vorona.com
@@ -905,6 +918,7 @@ www.vecibank.com
 www.velobuc.velovgp.org
 www.verification-malta.com
 www.verify-bankofamerica.com
+www.verify-malta.com
 www.verifychannel.online
 www.verstand.ai
 www.verstegenstigter.nl
@@ -915,6 +929,7 @@ www.viajeselcorteingles.es
 www.vialsafe.co
 www.vicenteguimaraes.com.br
 www.villaoeiras.com
+www.ville-nogentlerotrou.fr
 www.vipley.click
 www.virtualservice.net.br
 www.visionet.co.id
@@ -927,6 +942,7 @@ www.vseinc.com
 www.vtechda.com
 www.webshop.visserhandelenservice.nl
 www03.vpc.se
+yes-lb.visomdm.com
 z452k5-gmailcom.vercel.app
 zmail.vpp-energy.hu
 cnn.videomemetemplate.com
