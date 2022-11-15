@@ -3164,6 +3164,7 @@ Here's a list of public Fediverse services.
 | `bub.org` | No |
 | `bubbleguts.social` | No |
 | `bubbletea.dev` | Yes |
+| `bubbletea.moe` | Yes |
 | `bubuit.net` | No |
 | `buceoluegoexisto.com` | No |
 | `buckeye.social` | No |
@@ -27203,8 +27204,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,717 |
+| Cloudflare | 5,718 |
 | Normal | 21,443 |
 
 
-### 21% of public Fediverse services are using Cloudflare.
+### 21.1% of public Fediverse services are using Cloudflare.
