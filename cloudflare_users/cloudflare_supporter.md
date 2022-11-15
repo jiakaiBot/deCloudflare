@@ -1708,6 +1708,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chantha94922875@twitter](https://twitter.com/Chantha94922875/status/1453005593334136846) | advertise |
 | [Chanyeollie615@twitter](https://twitter.com/Chanyeollie615/status/1384046019587895307) | advertise |
 | [chan_lisa0327@twitter](https://twitter.com/chan_lisa0327/status/1379001509594066950) | advertise |
+| [ChaosSunk@twitter](https://twitter.com/ChaosSunk/status/1592526772834537474) | advertise |
 | [charledemers@twitter](https://twitter.com/charledemers/status/1388674367689838593) | advertise |
 | [charles03186526@twitter](https://twitter.com/charles03186526/status/1546525613585969154) | advertise |
 | [Charles39691172@twitter](https://twitter.com/Charles39691172/status/1389188593525088257) | advertise |
@@ -5767,6 +5768,7 @@ Do not create new issue or we will close it as duplicate.
 | [MarketYourBizAg@twitter](https://twitter.com/MarketYourBizAg/status/1389379097118183428) | advertise |
 | [Marky37711385@twitter](https://twitter.com/Marky37711385/status/1401925640610369539) | advertise |
 | [Mark_Branson@twitter](https://twitter.com/Mark_Branson/status/1566240658511249411) | advertise |
+| [Mark_C_Upshaw@twitter](https://twitter.com/Mark_C_Upshaw/status/1592534802724716546) | advertise |
 | [Mark_LaCour@twitter](https://twitter.com/Mark_LaCour/status/1501254067263356929) | advertise |
 | [marlb0r0m4n@twitter](https://twitter.com/marlb0r0m4n/status/1559963212812288000) | advertise |
 | [marliwp_@twitter](https://twitter.com/marliwp_/status/1396719627258929155) | advertise |
@@ -7149,6 +7151,7 @@ Do not create new issue or we will close it as duplicate.
 | [NPhongHuynh@twitter](https://twitter.com/NPhongHuynh/status/1392328838009430018) | advertise |
 | [nppn2611@twitter](https://twitter.com/nppn2611/status/1480784759835873282) | advertise |
 | [NPTReyes@twitter](https://twitter.com/NPTReyes/status/1437249106703904768) | advertise |
+| [np_narissa@twitter](https://twitter.com/np_narissa/status/1592530845914791939) | advertise |
 | [nrlyanaramli@twitter](https://twitter.com/nrlyanaramli/status/1533087091126845443) | advertise |
 | [NS6789@twitter](https://twitter.com/NS6789/status/1566716426076901376) | advertise |
 | [ns331863@twitter](https://twitter.com/ns331863/status/1573101439789965312) | advertise |
@@ -7697,6 +7700,7 @@ Do not create new issue or we will close it as duplicate.
 | [PirrEnot@twitter](https://twitter.com/PirrEnot/status/1528501311674716162) | advertise |
 | [PishouV@twitter](https://twitter.com/PishouV/status/1577489311074844673) | advertise |
 | [pislisSniflis@twitter](https://twitter.com/pislisSniflis/status/1571786956195115009) | advertise |
+| [Pitaboy87@twitter](https://twitter.com/Pitaboy87/status/1592513012744982531) | advertise |
 | [Pitokk2@twitter](https://twitter.com/Pitokk2/status/1386209860484669442) | advertise |
 | [Pixel_CC@twitter](https://twitter.com/Pixel_CC/status/1388533567962058755) | advertise |
 | [Piyushj190@twitter](https://twitter.com/Piyushj190/status/1486487129437851656) | advertise |
@@ -8115,6 +8119,7 @@ Do not create new issue or we will close it as duplicate.
 | [reckitlauncher@twitter](https://twitter.com/reckitlauncher/status/1491610235210919936) | advertise |
 | [redcode198@twitter](https://twitter.com/redcode198/status/1553765502467854338) | advertise |
 | [RedditLs@twitter](https://twitter.com/RedditLs/status/1395856406474014720) | advertise |
+| [reddythedev@twitter](https://twitter.com/reddythedev/status/1592531307942264832) | advertise |
 | [RedHarmonicLuna@twitter](https://twitter.com/RedHarmonicLuna/status/1569188702177398784) | advertise |
 | [RedinOrtega3@twitter](https://twitter.com/RedinOrtega3/status/1402453055031758859) | advertise |
 | [RedLove76797072@twitter](https://twitter.com/RedLove76797072/status/1392876523711987715) | advertise |
