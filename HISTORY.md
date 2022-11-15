@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-16: [LHR (London) on 2022-11-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8cgwyt9jqrp5)
 - 2022-11-17: [MAA (Chennai) on 2022-11-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lgn0s4x83rdb)
 - 2022-11-17: [MRS (Marseille) on 2022-11-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/syhcqtgq0cdf)
 - 2022-11-14: [DNS Resolution Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wb69sy7zb4r6)
