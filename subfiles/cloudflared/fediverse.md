@@ -8773,6 +8773,7 @@ Here's a list of public Fediverse services.
 | `girllich.link` | No |
 | `girlscantest.xyz` | No |
 | `girlslove.pink` | No |
+| `girlthing.chat` | No |
 | `girly.monster` | No |
 | `git9k.com` | No |
 | `gitea.io` | Yes |
@@ -24333,7 +24334,7 @@ Here's a list of public Fediverse services.
 | `tranny.town` | No |
 | `tranquilbigfoot.gg` | No |
 | `trans-agenda.de` | No |
-| `trans.au` | No |
+| `trans.au` | Yes |
 | `trans.fm` | No |
 | `trans.house` | No |
 | `trans.town` | No |
@@ -27206,7 +27207,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,719 |
+| Cloudflare | 5,720 |
 | Normal | 21,444 |
 
 
