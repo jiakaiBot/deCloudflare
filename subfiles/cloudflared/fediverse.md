@@ -1115,6 +1115,7 @@ Here's a list of public Fediverse services.
 | `amurica.cf` | No |
 | `amxl.com` | No |
 | `amyos.net` | No |
+| `an.exchange` | No |
 | `an6.us` | No |
 | `anacreonte.eu` | No |
 | `analogdreams.blog` | No |
@@ -21814,6 +21815,7 @@ Here's a list of public Fediverse services.
 | `smilodon.news` | No |
 | `smilodon.social` | No |
 | `smithfam.info` | No |
+| `smittenkittens.xyz` | Yes |
 | `smnz.de` | No |
 | `smokecircle.co` | Yes |
 | `smokymountain.top` | No |
@@ -27207,8 +27209,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,720 |
-| Normal | 21,444 |
+| Cloudflare | 5,721 |
+| Normal | 21,445 |
 
 
 ### 21.1% of public Fediverse services are using Cloudflare.
