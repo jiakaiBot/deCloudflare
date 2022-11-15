@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Failed to bundle typescript+esm](https://github.com/jsdelivr/jsdelivr/issues/18448)
+- [MQTT with Cloudflare](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt/issues/416)
 - [MangaSee Unexpected JSON Token](https://github.com/tachiyomiorg/tachiyomi-extensions/issues/14253)
 - [Allow disabling automatic redirects](https://github.com/xiaoyang-sde/reflare/issues/407)
 - [Empty config-get throws an error](https://github.com/ddworken/hishtory/issues/27)
