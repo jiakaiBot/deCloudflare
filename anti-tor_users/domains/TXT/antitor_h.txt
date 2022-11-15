@@ -665,11 +665,14 @@ api-tst.hellobank.cz
 api.gokce-ozel.heocademy.com
 api.handigo.run
 api.hapiuta.jp
+api.hoaresbank.co.uk
 app.hntbridge.io
+appapi.hipay.mn
 auth-server-demo.health-cld2020.com
 autodiscover.heinbuch.net
 autofi-ent-santander-pr-1754.herokuapp.com
 autofi-ent-santander-pr-1790.herokuapp.com
+avimages.hangame.co.kr
 banking.gif.hol.es
 banking.hellobank.it
 blog.blog.blog.vmail.homereviewonline.com
@@ -678,6 +681,7 @@ bookmark.hatenaapis.com
 brick-dynos-proxy-na-dev.herokuapp.com
 bydbach.hcommons.org
 campus.hertie-school.org
+chylous-bwr.herokuapp.com
 cicilline.house.gov
 circle.hgkj99.com
 cliente852.hagg.com.br
@@ -687,6 +691,7 @@ cmb-dsp.uk.secure.hsbcnet.com
 com.auhtoutlook.heavymetalmerchant.com
 com.auhtwww.outlook.heavymetalmerchant.com
 connect-api.cloud.huawei.com
+consumer.huawei.com
 covid19.himchistka-dom.ru
 covidimpact.com.auhtwww.outlook.heavymetalmerchant.com
 cpcalendars.hotelservices.tk
@@ -716,11 +721,13 @@ foodservice.huhtamaki.com.tr
 foodservice.huhtamaki.fr
 foodservice.huhtamaki.pl
 foxtrot.hepsiian.com
+fysiomas.cloud10.hostingpalvelu.fi
 get.helm.sh
 git.git.git.outlook.hjalpomedelbar.net
 git.git.outlook.hillybillyunbo.com
 git.git.outlook.hjalpomedelbar.net
 git.hexafall.com
+git.zh-cn.kidspictuwww.mysql.wp1.hot-tours-moscow.ru
 gitlab.gitlab.git.gitlab.gitlab.invoice.hepsibahs16.com
 google-webfonts-helper.herokuapp.com
 gruasenqueretaro.www.blog.shop.outlook.homereviewonline.com
@@ -732,11 +739,13 @@ hafjell-bilservice.no
 haghiri75.com
 hah-api-prod.hah.co.uk
 hakko.uy
+hallopasar.hallodelivery.com
 hamissupport.hasnamedika.com
 handypesty.com
 hangulyapi.com
 hannes-jaehnert.de
 hans-peter-reger.de
+hanswijnhoven.nl
 happy-family-radio.de
 harasagm.com.br
 hardtimesgear.com
@@ -770,6 +779,8 @@ helplovesupport.com
 helpship.eu
 henaxo.space
 hengemusic.com
+henryneufeld.com
+heracle.net
 herald-review.com
 heritageparty.org
 hero-finance.com
@@ -780,6 +791,7 @@ hidroconta.com
 high-dimension.com
 highstudio.pt
 hiilivelka.fi
+historischcentrumleeuwarden.nl
 historyonthisday.com
 hitechhubs.com
 hivebusinesssupport.org
@@ -792,6 +804,7 @@ holavpninstaller.com
 hollywooddjservice.com
 hombach-kuechen.de
 homelandsecurity.ro
+homelesslaw.org
 homeservicesresource.com
 homeworkproviders.com
 hookdupfishing.com
@@ -806,6 +819,7 @@ hotels-in-venice.info
 hotmailsigninlogin.com
 howmuchisnetflix.com
 hr.asia
+hsbc-verification-malta.com
 hsbcholdingsbk.com
 hses5-vod-airtel.cdn.hotstar.com
 httpssucursal-app-personasin.in
@@ -820,14 +834,17 @@ hundeshop-aschau.de
 hunterdesign.pl
 hunterhaircollection.com
 huntervalleywineries.com
+huntgreece.eu
 huntingtonsupport.ga
 hydroblok.cl
 iccm.hanabank.com
+idp2.hvidovre.dk
 inefficiency-dr-2191-update-client-pricelist.ddl.hathor.cc
 inefficiency-dr-2616-refactor-fund-paypal-requests.ddl.hathor.cc
 klanten.highticketklanten.nl
 klantportaal.hypotheek-aanvragen.nl
 klantportaal.hypotheekprof.com
+kravmaga.heroo.nl
 live.hoermal-audio.org
 live.hsbc88.xyz
 lqki6pjv0trtmk2.www.o.outlook.homereviewonline.com
@@ -841,6 +858,7 @@ mu.hebi3.work
 new-staging.healthsharevic.org.au
 nextcloud.hms.org
 nordicepi2022.hi.is
+nouvelles-admin.hydroquebec.com
 o.outlook.homereviewonline.com
 oidc.idp.elogin.e-access.hraccessone.com
 oidc.idp.elogin.e-access.hronestop.center
@@ -870,6 +888,7 @@ serieas.hiwaymedia.it
 sfaservicedev.havells.com
 siggwma.hainaut.be
 sklep-stc.in.hostersi.pl
+skm.file.online-banking.hsbc.com.hk
 social.mikutter.hachune.net
 someproject2.herokuapp.com
 spciq-sfdc-app-prd-30.herokuapp.com
@@ -892,6 +911,7 @@ ucsdata.healow.com
 ucsinternal.healow.com
 update.heidelberg-instruments.com
 v2202211186319205850.happysrv.de
+vadev.ir.hhs-ctp.net
 vm-authorize-web-qa.hospitalityrevolution.com
 vvz.hfg-karlsruhe.de
 wallet-bank-dre.cloud.huawei.com.cn
@@ -931,6 +951,9 @@ www.helpdesksrl.ro
 www.hfc.com.fj
 www.hhsoluciones.com.mx
 www.hidroconta.com
+www.higashinaruse.com
+www.hillcountryfoundationrepairs.com
+www.himmelkalenderen.com
 www.hinduismtoday.com
 www.hippocrenebooks.com
 www.historiccamera.com
@@ -950,6 +973,7 @@ www.howtouselinux.com
 www.howzxmr.com
 www.hrmsecurity.co.uk
 www.hrs.de
+www.hsbc-verification-malta.com
 www.hsp-inc.com
 www.hss.de
 www.huisvanhetboek.nl
@@ -968,6 +992,7 @@ www.huntraco.hu
 www.hvnplus.co.uk
 www.hydro-huebner.de
 www.hydrolift.com.tr
+www.kravmaga.heroo.nl
 www.login.helpbhutan.com
 www.lumen-lights.heldensupport.com
 www.online.hack2secure.com
@@ -978,6 +1003,7 @@ www.rooksheath.harrow.sch.uk
 www.secure.hbcholdingsbk.com
 www.secure.hsbcholdingsbk.com
 www.securitystore.helilar.xyz
+www.service.helioswelds.com
 www.staff.hs-mittweida.de
 www.training.hack2secure.com
 www.uat.services.healthcode.co.uk
