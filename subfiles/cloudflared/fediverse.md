@@ -3737,6 +3737,7 @@ Here's a list of public Fediverse services.
 | `chaoticride.com` | No |
 | `chaotikum.org` | No |
 | `chaouane.xyz` | Yes |
+| `chaox.ro` | Yes |
 | `chaoyu.us` | No |
 | `chapril.org` | No |
 | `chapsterhood.com` | No |
@@ -5970,7 +5971,7 @@ Here's a list of public Fediverse services.
 | `donteatanimals.org` | No |
 | `dontexist.net` | No |
 | `donthaveaclueman.com` | No |
-| `donut.quest` | Yes |
+| `donut.quest` | No |
 | `doobie.cafe` | No |
 | `doof.net` | No |
 | `dook.business` | No |
@@ -14515,6 +14516,7 @@ Here's a list of public Fediverse services.
 | `mastonl.nl` | No |
 | `mastonon.net` | Yes |
 | `mastoot.com` | No |
+| `mastopouet.fr` | No |
 | `mastopr.xyz` | No |
 | `mastopub.com` | Yes |
 | `mastoq.com` | No |
@@ -24181,7 +24183,7 @@ Here's a list of public Fediverse services.
 | `toboldlybrew.com` | Yes |
 | `toby3d.me` | Yes |
 | `toco2.fun` | No |
-| `tod.net` | No |
+| `tod.net` | Yes |
 | `today4u.xyz` | Yes |
 | `todayiwilllaunchmyinfantsonintoorbit.com` | No |
 | `todesstern.eu` | No |
@@ -24223,7 +24225,7 @@ Here's a list of public Fediverse services.
 | `tomatoa.club` | No |
 | `tomatotux.net` | No |
 | `tomboy.tech` | Yes |
-| `tombraiderchronicles.com` | No |
+| `tombraiderchronicles.com` | Yes |
 | `tomcat.one` | Yes |
 | `tomcat.onefriendica` | No |
 | `tomd.org` | No |
@@ -27400,7 +27402,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,783 |
+| Cloudflare | 5,785 |
 | Normal | 21,574 |
 
 
