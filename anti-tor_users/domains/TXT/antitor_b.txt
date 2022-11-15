@@ -375,7 +375,6 @@ biocontrol.pt
 biographon.guru
 biolarpaint.lv
 biolyfecbd.net
-biomimicry.org
 bismarcktribune.com
 bit-bull.net
 bit-thinking.ca
@@ -1158,7 +1157,6 @@ www.comune.barrea.aq.it
 www.contact.bbafinacialservices.com
 www.contact.bicobi.co
 www.contohwebrumah.bostutorial.com
-www.core.bookingfasttrack.com
 www.delivery.bersabehcoffee.com
 www.dev-sidiajeng.banksampah.online
 www.dev.billvolt.com
@@ -1307,11 +1305,13 @@ apple-confirm-account-update-information.blawyersvn.com
 apps.biru-eng.com
 atp.bizsky.jp
 auth.bmwgroup.com
+auth.buero70.ch
 auth.preprod.billorbit.com
 autodiscover.bigest.de
 automationtechreports.benchmarkurl.com
 b-securenederland.nl
 ba65byliss.ru
+babylonsrm.com
 babyshopsupport.com.au
 baderingen-epost.no
 bairroantoniobezerra.com.br
@@ -1321,6 +1321,8 @@ balicuat.bajajallianz.com
 bamboovandiemen.com.au
 bancocuscatlan.com
 bancodelregion.com
+bancongxanhhn.com
+bancongxinh.vn
 bancontinental.co.id
 bancoscercademi.com
 bancoserfinanzas.in
@@ -1357,6 +1359,7 @@ barisozel.com
 bark-control-collar.com
 baronytraining.com
 barselslivet.dk
+bartlett.pro
 basc.org.uk
 base-seagsaidh.com
 basecampterlingua.com
@@ -1368,6 +1371,7 @@ bdch.com.au
 bdip.de
 bdx701-ott.cdn.bouygtel.fr
 bearware.dk
+beast-pack.com
 beast-secret.com
 beazleyb2c.b2clogin.com
 becorsolaom.com
@@ -1435,6 +1439,7 @@ billregory.ml
 billumbusser.dk
 billwiegandrealty.com
 billwomeldorf.com
+bilservice360.no
 bimbelsamaptamandiri.com
 binary-concept.com
 binderstefan.at
@@ -1446,9 +1451,11 @@ biohit.pl
 bioinfo-fr.net
 bipcot.org
 bipsu.edu.ph
+birotica-service.ro
 bitarkivo.org
 bitcoin-takeover.com
 bitpaid.io
+bjoernkarmann.dk
 bjoreman.com
 blackisgood.ch
 blackmountainsecurity.nl
@@ -1460,6 +1467,7 @@ blitzd8gummies.com
 blixen-shop.dk
 blockchain-domains.io
 blockchainbuild.co.uk
+blockchaindigitalworld.com
 blockchaineducationassociation.com
 blockchainifier.com
 blockchainromania.ro
@@ -1467,6 +1475,7 @@ blog.bari-ikutsu.com
 blog.brennaclarkegray.ca
 blog.demo.dev.zmail.blandineetfab.fr
 blog.www.www.www.store.blockchainjoblist.billigthus.dk
+blossomcompanionservice.com
 bloxcom.com
 bloxmine.com
 blue-beard-japan.com
@@ -1485,7 +1494,9 @@ boakandbailey.com
 body-safe.ro
 boejasindigital.id
 boncabe.com
+boomerandecho.com
 bootiemashup.com
+bosch-servicecenter.cf
 bosssuitenana.com
 boton-dynamo.com
 botsfordiscord.cc
@@ -1493,6 +1504,7 @@ bpalace.si
 bproherbal.com
 brakwabank.com.gh
 bram.org
+brambletonnews.com
 breastfeedingrose.org
 brickmoonentertainment.com
 bridgewcg.com
@@ -1517,10 +1529,12 @@ buderus-service.kyiv.ua
 buffalo.com
 bulkadspost.com
 bursadinar.com
+bursamobilindonesia.com
 busict.com.au
 businesshealthsupport.com
 businessnews4you24h.com
 buyairticket.online
+buycomment.com
 buyukcekmeceservisi.online
 buzmn.com
 bvdos-pttagoniia.com
@@ -1542,6 +1556,7 @@ cliente.brasilmrpa.com.br
 clientefinal.baratoseg.com
 clientes.balearonline.com
 clientmaheshmlmwebsite.bistrobypizzawala.com
+clients.bluefootproductions.us
 cloud.billouetaudrey.site
 cloud.blankpagebiz.co
 cloud.bluespray.net
@@ -1582,10 +1597,13 @@ employee-staging.barbersportal.co.uk
 employeeportal.beximcoaviation.com
 esmartdevad.b2clogin.com
 event-planner-1149.business.site
+events.bloomberglive.com
 ewa.bochk.com
 eyeofdoom.bandcamp.com
 facnet3dev.b2clogin.com
+fi8-8bet.business.site
 fina.bcafinance.co.id
+fmservicesso.b2clogin.com
 forums.boxofficetheory.com
 fp.b10.fun
 frigate.blaisingadept.com
@@ -1616,6 +1634,7 @@ histaminfrei.blogda.ch
 hk.gashpcp.beanfun.com
 hrguidebookz.benchmarkurl.com
 hvb-charts2.byteworx.net
+iaaauth.b2clogin.com
 ibill5.bdsource.xyz
 icloudverify.bigboss-mx.com
 ielipapiqas.belcorp.biz
@@ -1669,9 +1688,12 @@ passport-api-benix.benix.co.th
 pay.bm.pl
 pdf11600.b-cdn.net
 phone-services.blueface.com
+pinnacle.bgsecured.com
 pintucob2b.b2clogin.com
 pluginthemetest.brumm-service.de
+podcast.betatalks.nl
 portales.bancochile.cl
+portalpersonas.qa.bancochile.cl
 produits.blancheporte.io
 properties.bestindiaproperties.com
 prov.blueface.com
@@ -1708,6 +1730,7 @@ stg-cms.beams.co.jp
 strand.bedreinnsats.no
 sts.boqdev.com.au
 support.bkmos.com
+supporttest.boligflow.dk
 surokkha.gov.bd-y.in
 survey04-11-2022.bigdelivery.id
 surveykp.bigdelivery.id
@@ -1715,6 +1738,7 @@ suzukiextranet.b2clogin.com
 swedish24massageapp.blogspot.com
 tableau.facultas.bergwerk.io
 tardynot.beaverdeals.ca
+tasyprd.bp.org.br
 terraclaim.b2clogin.com
 test.bancomercedes-benz.com.br
 teststreaming.bbvanet.com.mx
@@ -1772,6 +1796,7 @@ www.bankinganb.com
 www.bankingsupport.info
 www.bankkaifsc.com
 www.bankmoderat.com
+www.banknapas247.com
 www.banknorwegian-blokkert.net
 www.bankorltd.com
 www.bankownedautos.com
@@ -1805,6 +1830,7 @@ www.berkeleysouthasian.org
 www.berry-buro.fr
 www.berwickretirement.com
 www.best247support.com
+www.besyildizmuhendislik.com
 www.bethtikvah.com
 www.betonservice.by
 www.betreibung.ww2.budgetcredit.ch
@@ -1814,6 +1840,7 @@ www.bgcengineering.ca
 www.bgdailynews.com
 www.biaassumpcao.com.br
 www.bike-id.eu
+www.billard-club-epernay.fr
 www.billboardje.nl
 www.billcurrieford.com
 www.billeterasonline.com
@@ -1826,6 +1853,7 @@ www.billo.dk
 www.billrisser.realestate
 www.billumbusser.dk
 www.billwiegandrealty.com
+www.bilttkub-i0.cf
 www.biologists.com
 www.bionic-era.com
 www.blackactuaries.org
@@ -1836,6 +1864,7 @@ www.blitkub-i0.cf
 www.blockchainbabes.live
 www.bloodyelbow.com
 www.bloxgfx.com
+www.bltkub-i0.gq
 www.bltkub-i0.ml
 www.blue-aurora.com
 www.bluemountaineagle.com
@@ -1845,6 +1874,7 @@ www.bobsroadservice.net
 www.bodegadanterobino.com
 www.bollywoodlife.com
 www.bon-voyage.services
+www.booritney.com
 www.brainvision.co.jp
 www.branchepost.dk
 www.brandmeldercontrole.nl
@@ -1895,6 +1925,7 @@ www.lifevacafrica.besafe.ma
 www.login.botcuk.info
 www.loker.bankanjukladang.co.id
 www.lombokpost.bacatulis.my.id
+www.mono.bankers.today
 www.nancyhayfield.birnes.com
 www.oficina.brokersseguro.com
 www.pengaduan.bankanjukladang.co.id
@@ -1915,6 +1946,8 @@ www.user.bitstradeglobal.com
 www.usermanual.bhirawasteel.co.id
 www.vtrack365.beamishtech.com
 www.web.bankdaerahkabkediri.com
+www.wl.budgetcredit.ch
+www.wl.budgetcredit.ch.ww2.budgetcredit.ch
 www3.bancaribe.com.ve
 www4.bancaribe.com.ve
 wwwemfg7.betterwebplace.com
