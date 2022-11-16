@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CI: ConformanceKind1.19: connectivity test failed: 5 tests failed: Connectivity to 1.1.1.1 is broken](https://github.com/cilium/cilium/issues/22217)
 - [Crash in GET client/v3/directory/room/](https://github.com/matrix-org/synapse/issues/14462)
 - [Cant upload images](https://github.com/misskey-dev/misskey/issues/9181)
 - [CSV Export not working](https://github.com/jpatokal/openflights/issues/1119)
