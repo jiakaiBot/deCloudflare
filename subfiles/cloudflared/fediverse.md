@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,914 |
-| net | 2,109 |
-| social | 1,998 |
+| net | 2,110 |
+| social | 1,999 |
 | org | 1,508 |
 | de | 1,395 |
 
@@ -3462,6 +3462,7 @@ Here's a list of public Fediverse services.
 | `cantonia.org` | No |
 | `cantordust.social` | No |
 | `cantos.social` | No |
+| `canucks.social` | Yes |
 | `canzan.chat` | No |
 | `cao4.com` | Yes |
 | `caonima.wtf` | No |
@@ -9860,6 +9861,7 @@ Here's a list of public Fediverse services.
 | `herrkochhatrecht.de` | No |
 | `herrliberg.online` | No |
 | `herrmontag.de` | No |
+| `herrtxbias.net` | Yes |
 | `hersecret.fi` | Yes |
 | `herthafans.de` | No |
 | `herzbu.de` | No |
@@ -27533,7 +27535,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,822 |
+| Cloudflare | 5,824 |
 | Normal | 21,668 |
 
 
