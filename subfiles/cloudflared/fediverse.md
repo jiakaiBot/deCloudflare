@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,912 |
 | net | 2,104 |
-| social | 1,991 |
+| social | 1,992 |
 | org | 1,507 |
 | de | 1,393 |
 
@@ -25609,6 +25609,7 @@ Here's a list of public Fediverse services.
 | `vheart.online` | No |
 | `vhome.info` | No |
 | `vhs.social` | No |
+| `viajes.social` | No |
 | `vibb.ro` | No |
 | `vibbe.xyz` | No |
 | `vibber.net` | No |
@@ -27496,7 +27497,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,809 |
-| Normal | 21,643 |
+| Normal | 21,644 |
 
 
 ### 21.2% of public Fediverse services are using Cloudflare.
