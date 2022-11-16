@@ -129,6 +129,7 @@ gitlab.gitlab.www.covid19.zalive-akvilon.ru
 japan-kotsu.zerospace.biz
 jobs.zenploy.io
 kerur-rahamim.zapages.co.il
+kohonjin.znypfm.ga
 listbank.zapishis.com
 login.zeezil.co.uk
 logistics-ps-match.logistics-test.zalan.do
@@ -147,9 +148,11 @@ sts.zollner.de
 test-double-ideal-java.payments-core.zalan.do
 user.zarinkav.ir
 vmail.z-serviceonline.com
+www.gamesupport.in.zehraglobalinfotech.in
 www.git.gitlab.git.git.smtpmail.z-serviceonline.com
 www.git.smtpmail.z-serviceonline.com
 www.listbank.zapishis.com
+www.muliaservice.zeus-nore.com
 www.s.confirm.zd.lu
 www.user.zarinkav.ir
 www.zaadbank.nl
