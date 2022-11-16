@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CORS and cache issues with Block GETs](https://github.com/web3-storage/reads/issues/121)
 - [CI: ConformanceKind1.19: connectivity test failed: 5 tests failed: Connectivity to 1.1.1.1 is broken](https://github.com/cilium/cilium/issues/22217)
 - [Crash in GET client/v3/directory/room/](https://github.com/matrix-org/synapse/issues/14462)
 - [Cant upload images](https://github.com/misskey-dev/misskey/issues/9181)
