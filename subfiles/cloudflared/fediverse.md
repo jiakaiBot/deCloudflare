@@ -511,6 +511,7 @@ Here's a list of public Fediverse services.
 | `abdl.link` | Yes |
 | `abdl.social` | No |
 | `abdn.social` | No |
+| `abdulocra.cy` | No |
 | `abeardedqueer.com` | No |
 | `abend.social` | No |
 | `abga.be` | No |
@@ -2437,6 +2438,7 @@ Here's a list of public Fediverse services.
 | `bfan.cc` | No |
 | `bfmw.co` | No |
 | `bfoliver.com` | No |
+| `bfs.llc` | No |
 | `bfsu.cafe` | Yes |
 | `bg.cafe` | No |
 | `bgcarlisle.com` | No |
@@ -9793,6 +9795,7 @@ Here's a list of public Fediverse services.
 | `hermherm.org` | Yes |
 | `hermit.cafe` | No |
 | `hermitmagicians.com` | No |
+| `hermitmountain.top` | No |
 | `hern.as` | Yes |
 | `hernandezhouse.com` | No |
 | `heroicwisdom.com` | No |
@@ -10864,6 +10867,7 @@ Here's a list of public Fediverse services.
 | `ironbug.org` | No |
 | `irrelephant.co` | No |
 | `irrelevant.com` | No |
+| `irrelevant.me.uk` | No |
 | `irrpfad.de` | No |
 | `irrsinn.life` | No |
 | `irrsinn.net` | No |
@@ -12758,6 +12762,7 @@ Here's a list of public Fediverse services.
 | `ldclrcq.top` | No |
 | `ldjb.uk` | No |
 | `ldmd.mx` | Yes |
+| `ldwg.me` | Yes |
 | `le-fort.org` | No |
 | `le-gras.fr` | No |
 | `le-guillou.dev` | No |
@@ -16257,6 +16262,7 @@ Here's a list of public Fediverse services.
 | `nanocloud.solutions` | No |
 | `nanoscopic.de` | No |
 | `nanosector.nl` | No |
+| `nanovim.tk` | No |
 | `nantes.social` | No |
 | `naokisz.tk` | No |
 | `naomi.moe` | Yes |
@@ -27402,8 +27408,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,785 |
-| Normal | 21,574 |
+| Cloudflare | 5,786 |
+| Normal | 21,579 |
 
 
 ### 21.1% of public Fediverse services are using Cloudflare.
