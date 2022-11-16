@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-21: [PHL (Philadelphia) on 2022-11-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gybxhf5rntkx)
+- 2022-11-18: [BRU (Brussels) on 2022-11-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wdgd88dbvltg)
 - 2022-11-16: [LAX (Los Angeles) on 2022-11-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/l1w18b439rj8)
 - 2022-11-15: [Wrangler versions v2.2.0 through v2.2.3 broken](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dgnmyjtg6swc)
 - 2022-11-16: [LHR (London) on 2022-11-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8cgwyt9jqrp5)
