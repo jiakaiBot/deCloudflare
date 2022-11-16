@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,912 |
 | net | 2,104 |
-| social | 1,990 |
+| social | 1,991 |
 | org | 1,507 |
 | de | 1,393 |
 
@@ -7430,6 +7430,7 @@ Here's a list of public Fediverse services.
 | `fediver.se` | No |
 | `fedivers.net` | Yes |
 | `fediverse-lite.com` | Yes |
+| `fediverse.asia` | Yes |
 | `fediverse.berlin` | No |
 | `fediverse.blog` | No |
 | `fediverse.ca` | No |
@@ -13413,6 +13414,7 @@ Here's a list of public Fediverse services.
 | `lodis.se` | No |
 | `lodyb.com` | No |
 | `loeilducyclone.org` | No |
+| `loerzweiler.social` | No |
 | `loeuillet.org` | No |
 | `lofi.one` | No |
 | `loftypancake.fi` | No |
@@ -22900,7 +22902,7 @@ Here's a list of public Fediverse services.
 | `subcon.pub` | No |
 | `subculdon.com` | No |
 | `subculdon.jp` | No |
-| `subculture.chat` | No |
+| `subculture.chat` | Yes |
 | `subether.social` | No |
 | `sublimer.me` | Yes |
 | `sublimity.net` | No |
@@ -27129,7 +27131,7 @@ Here's a list of public Fediverse services.
 | `ytgrsua4.net` | No |
 | `ytopia.xyz` | No |
 | `ytringsrett.net` | No |
-| `yttrx.com` | No |
+| `yttrx.com` | Yes |
 | `yude.jp` | Yes |
 | `yudetarou.club` | No |
 | `yufarch.com` | No |
@@ -27493,8 +27495,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,806 |
-| Normal | 21,644 |
+| Cloudflare | 5,809 |
+| Normal | 21,643 |
 
 
 ### 21.2% of public Fediverse services are using Cloudflare.
