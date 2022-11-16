@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,898 |
 | net | 2,099 |
-| social | 1,973 |
+| social | 1,976 |
 | org | 1,505 |
-| de | 1,388 |
+| de | 1,389 |
 
 
 - Mastodon, Pleroma, etc
@@ -2602,7 +2602,7 @@ Here's a list of public Fediverse services.
 | `bitcoinhackers.org` | Yes |
 | `bitcoinlizard.net` | No |
 | `bitcoinmagazine.social` | No |
-| `bitcoinmastodon.org` | Yes |
+| `bitcoinmastodon.org` | No |
 | `bitcoinplebs.net` | No |
 | `bitcoinsasquatch.com` | No |
 | `bitcointv.com` | No |
@@ -4342,7 +4342,7 @@ Here's a list of public Fediverse services.
 | `communisteslibertaires.org` | No |
 | `community-patriots.social` | Yes |
 | `comofas.org` | No |
-| `comomo.biz` | Yes |
+| `comomo.biz` | No |
 | `comopiensodigo.com` | No |
 | `comorichico.com` | No |
 | `compactbyte.com` | Yes |
@@ -4598,6 +4598,7 @@ Here's a list of public Fediverse services.
 | `creativecommons.org` | Yes |
 | `creativegamer.net` | No |
 | `creativepassport.net` | No |
+| `creativewriting.social` | No |
 | `creativity.cafe` | No |
 | `creatodon.online` | No |
 | `creators.social` | Yes |
@@ -5387,6 +5388,7 @@ Here's a list of public Fediverse services.
 | `deerfieldmartc.com` | No |
 | `deerofnara.net` | Yes |
 | `def.social` | No |
+| `defcon.social` | No |
 | `defenders.town` | Yes |
 | `deff.no` | Yes |
 | `deffo.com.au` | Yes |
@@ -5739,6 +5741,7 @@ Here's a list of public Fediverse services.
 | `dinn.ca` | No |
 | `dinobansigan.com` | No |
 | `dinoleaf.com` | Yes |
+| `dinosaur.farm` | No |
 | `dinven.de` | No |
 | `diode.zone` | No |
 | `diogo.site` | Yes |
@@ -9539,6 +9542,7 @@ Here's a list of public Fediverse services.
 | `hansen.tl` | No |
 | `hansenerd.de` | No |
 | `hansenpartnership.com` | No |
+| `hanson.social` | No |
 | `haoyayoi.net` | No |
 | `happens.horse` | No |
 | `happyjesus.online` | Yes |
@@ -11188,6 +11192,7 @@ Here's a list of public Fediverse services.
 | `jb55.com` | Yes |
 | `jbc-s.net` | No |
 | `jbc.ne.kr` | Yes |
+| `jbgs.jp` | No |
 | `jboi.nl` | Yes |
 | `jbstans.social` | No |
 | `jbx.com` | No |
@@ -13614,7 +13619,7 @@ Here's a list of public Fediverse services.
 | `lugarzinho.top` | No |
 | `luglufa.com` | No |
 | `lugnasad.eu` | No |
-| `lugodev.com` | Yes |
+| `lugodev.com` | No |
 | `lugonials.social` | Yes |
 | `lugoweb.es` | No |
 | `luhrck.com` | Yes |
@@ -19929,7 +19934,7 @@ Here's a list of public Fediverse services.
 | `rawkode.dev` | Yes |
 | `rawles.io` | No |
 | `rawr-xd.club` | No |
-| `rawr.ink` | No |
+| `rawr.ink` | Yes |
 | `rawrscha.ch` | No |
 | `rawww.de` | Yes |
 | `raxx.la` | No |
@@ -21680,6 +21685,7 @@ Here's a list of public Fediverse services.
 | `sil.sh` | No |
 | `silat.cloud` | No |
 | `silba.me` | No |
+| `silberkind.de` | No |
 | `silence-project.org` | No |
 | `silence.horse` | No |
 | `silentfoof.rocks` | No |
@@ -25489,6 +25495,7 @@ Here's a list of public Fediverse services.
 | `venturebeat.com` | Yes |
 | `ver.news` | No |
 | `veraciousnetwork.com` | No |
+| `verbeeld.be` | No |
 | `verbrennung.org` | No |
 | `vercel.app` | No |
 | `verdigado.net` | No |
@@ -27408,8 +27415,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,786 |
-| Normal | 21,579 |
+| Cloudflare | 5,784 |
+| Normal | 21,588 |
 
 
 ### 21.1% of public Fediverse services are using Cloudflare.
