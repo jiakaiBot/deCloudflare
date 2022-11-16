@@ -5890,6 +5890,7 @@ Do not create new issue or we will close it as duplicate.
 | [MDASFAK56887662@twitter](https://twitter.com/MDASFAK56887662/status/1534808935395643392) | advertise |
 | [MdAshik98641970@twitter](https://twitter.com/MdAshik98641970/status/1572492289959927808) | advertise |
 | [MdAshra85999828@twitter](https://twitter.com/MdAshra85999828/status/1386984714934886407) | advertise |
+| [MdAsif31952227@twitter](https://twitter.com/MdAsif31952227/status/1592873454604152832) | advertise |
 | [MdJonay27065005@twitter](https://twitter.com/MdJonay27065005/status/1555577964254834688) | advertise |
 | [MdJuned57137884@twitter](https://twitter.com/MdJuned57137884/status/1378966402720272384) | advertise |
 | [mdk796299@twitter](https://twitter.com/mdk796299/status/1394950846845046794) | advertise |
@@ -11020,6 +11021,7 @@ Do not create new issue or we will close it as duplicate.
 | [zhan2958@twitter](https://twitter.com/zhan2958/status/1394117965734420482) | advertise |
 | [ZhangJueJue1@twitter](https://twitter.com/ZhangJueJue1/status/1383633631164260360) | advertise |
 | [Zhu_Apiral@twitter](https://twitter.com/Zhu_Apiral/status/1380403857822474240) | advertise |
+| [zidanalgifari7@twitter](https://twitter.com/zidanalgifari7/status/1592878227655360513) | advertise |
 | [Zideen7@twitter](https://twitter.com/Zideen7/status/1397625975207170049) | advertise |
 | [zierhut_alex@twitter](https://twitter.com/zierhut_alex/status/1439574775727333379) | advertise |
 | [zikintong@twitter](https://twitter.com/zikintong/status/1399674422471000065) | advertise |
