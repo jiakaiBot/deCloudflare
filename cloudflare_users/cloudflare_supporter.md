@@ -2571,6 +2571,7 @@ Do not create new issue or we will close it as duplicate.
 | [EiThinzarNwe1@twitter](https://twitter.com/EiThinzarNwe1/status/1391962177448329221) | advertise |
 | [EiThinzarPyae1@twitter](https://twitter.com/EiThinzarPyae1/status/1389877110940917761) | advertise |
 | [eivissaprime@twitter](https://twitter.com/eivissaprime/status/1565910896924250114) | advertise |
+| [ejw516@twitter](https://twitter.com/ejw516/status/1592666719004557312) | advertise |
 | [ekafjr2802@twitter](https://twitter.com/ekafjr2802/status/1579097844115390464) | advertise |
 | [Ekham13@twitter](https://twitter.com/Ekham13/status/1395515057883209731) | advertise |
 | [el3mentry@twitter](https://twitter.com/el3mentry/status/1402187903665463296) | advertise |
@@ -5464,6 +5465,7 @@ Do not create new issue or we will close it as duplicate.
 | [loinguyen2408@twitter](https://twitter.com/loinguyen2408/status/1552254118227759109) | advertise |
 | [loke_pa@twitter](https://twitter.com/loke_pa/status/1391006736404729860) | advertise |
 | [Loki83104752@twitter](https://twitter.com/Loki83104752/status/1379175461553573897) | advertise |
+| [loku_cool@twitter](https://twitter.com/loku_cool/status/1592668195596697600) | advertise |
 | [LoliBB3@twitter](https://twitter.com/LoliBB3/status/1406516610135838722) | advertise |
 | [Lolipop11500860@twitter](https://twitter.com/Lolipop11500860/status/1384079563802640389) | advertise |
 | [lollilol01@twitter](https://twitter.com/lollilol01/status/1558490208760479746) | advertise |
@@ -10309,6 +10311,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vizzky1@twitter](https://twitter.com/Vizzky1/status/1384922814038302720) | advertise |
 | [Vjmohan39051357@twitter](https://twitter.com/Vjmohan39051357/status/1398332820154556416) | advertise |
 | [Vjncentzx@twitter](https://twitter.com/Vjncentzx/status/1583513032772096001) | advertise |
+| [VKBHURIYAOFFIC3@twitter](https://twitter.com/VKBHURIYAOFFIC3/status/1592837849074008064) | advertise |
 | [VKhawm@twitter](https://twitter.com/VKhawm/status/1380887571274686475) | advertise |
 | [VMinhd89477656@twitter](https://twitter.com/VMinhd89477656/status/1552697713204301825) | advertise |
 | [vmorriswyn@twitter](https://twitter.com/vmorriswyn/status/1384191315554889739) | advertise |
@@ -10581,6 +10584,7 @@ Do not create new issue or we will close it as duplicate.
 | [woseokproperty@twitter](https://twitter.com/woseokproperty/status/1390282007041626116) | advertise |
 | [wproadmaps@twitter](https://twitter.com/wproadmaps/status/1541825957178245120) | advertise |
 | [Wp_Xube@twitter](https://twitter.com/Wp_Xube/status/1457203444847038465) | advertise |
+| [wrigli76@twitter](https://twitter.com/wrigli76/status/1592647398827794432) | advertise |
 | [WriteLonger@twitter](https://twitter.com/WriteLonger/status/1379361846314950658) | advertise |
 | [wrongxbleed@twitter](https://twitter.com/wrongxbleed/status/1380588171436597249) | advertise |
 | [Wrp79316944@twitter](https://twitter.com/Wrp79316944/status/1405499749663268865) | advertise |
