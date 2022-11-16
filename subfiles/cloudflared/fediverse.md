@@ -7621,6 +7621,7 @@ Here's a list of public Fediverse services.
 | `filipesm.com` | Yes |
 | `filipesm.eu` | No |
 | `filiuspatris.net` | No |
+| `fillari.xyz` | No |
 | `filmaidykai.net` | Yes |
 | `filmfreedom.net` | No |
 | `filmvirgins.com` | No |
@@ -27498,7 +27499,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,811 |
-| Normal | 21,643 |
+| Normal | 21,644 |
 
 
 ### 21.2% of public Fediverse services are using Cloudflare.
