@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,937 |
-| net | 2,122 |
-| social | 2,015 |
+| net | 2,123 |
+| social | 2,016 |
 | org | 1,510 |
 | de | 1,405 |
 
@@ -11510,7 +11510,7 @@ Here's a list of public Fediverse services.
 | `joinfediverse.online` | No |
 | `joinfreedom.tk` | No |
 | `joingardens.com` | No |
-| `joingeeksocial.com` | No |
+| `joingeeksocial.com` | Yes |
 | `joinhaven.us` | No |
 | `joinmastodon.com` | Yes |
 | `joinmastodon.org` | Yes |
@@ -14299,6 +14299,7 @@ Here's a list of public Fediverse services.
 | `mastdon.jp` | No |
 | `mastedm.club` | No |
 | `master-feed.net` | No |
+| `masterdan.net` | Yes |
 | `masterdom.social` | No |
 | `masternet.space` | Yes |
 | `masthead.social` | Yes |
@@ -17773,6 +17774,7 @@ Here's a list of public Fediverse services.
 | `onlinekirche.net` | No |
 | `onlinetrainer.es` | No |
 | `onlycasino.legal` | Yes |
+| `onlycosplays.social` | No |
 | `onlyfans.tokyo` | No |
 | `onlyfarms.co` | Yes |
 | `onlyfeds.cc` | Yes |
@@ -27667,7 +27669,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,862 |
+| Cloudflare | 5,864 |
 | Normal | 21,762 |
 
 
