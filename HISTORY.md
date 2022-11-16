@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-17: [CPT (Cape Town) on 2022-11-17](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yy04llfnjrdk)
 - 2022-11-21: [PHL (Philadelphia) on 2022-11-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/gybxhf5rntkx)
 - 2022-11-18: [BRU (Brussels) on 2022-11-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wdgd88dbvltg)
 - 2022-11-16: [LAX (Los Angeles) on 2022-11-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/l1w18b439rj8)
