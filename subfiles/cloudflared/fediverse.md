@@ -17137,7 +17137,7 @@ Here's a list of public Fediverse services.
 | `northeast.one` | No |
 | `northernvoice.app` | No |
 | `northpole.host` | No |
-| `northside.tokyo` | No |
+| `northside.tokyo` | Yes |
 | `northtexas.social` | No |
 | `norwescon.org` | No |
 | `norze.co` | Yes |
@@ -25792,6 +25792,7 @@ Here's a list of public Fediverse services.
 | `voidptr.wtf` | No |
 | `voidsight.net` | Yes |
 | `voidwood.online` | No |
+| `voidworks.cc` | No |
 | `volaras.net` | No |
 | `volcanocoffee.monster` | Yes |
 | `volkomorov.ru` | Yes |
@@ -27498,7 +27499,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,811 |
+| Cloudflare | 5,812 |
 | Normal | 21,644 |
 
 
