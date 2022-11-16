@@ -5883,6 +5883,7 @@ Here's a list of public Fediverse services.
 | `dmrty.net` | No |
 | `dmynerd78.me` | No |
 | `dn42.us` | No |
+| `dn7.me` | No |
 | `dnaf.moe` | Yes |
 | `dnagt.de` | No |
 | `dnalyze.me` | No |
@@ -10493,6 +10494,7 @@ Here's a list of public Fediverse services.
 | `ihobby.org` | No |
 | `ii.md` | No |
 | `iim.gay` | No |
+| `ijaron.life` | No |
 | `ijn-dd.nl` | No |
 | `ijs01140.cf` | Yes |
 | `ijs01140.com` | Yes |
@@ -27490,7 +27492,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,805 |
-| Normal | 21,641 |
+| Normal | 21,643 |
 
 
-### 21.2% of public Fediverse services are using Cloudflare.
+### 21.1% of public Fediverse services are using Cloudflare.
