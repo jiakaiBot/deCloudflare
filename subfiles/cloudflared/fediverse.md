@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,911 |
+| com | 3,912 |
 | net | 2,104 |
 | social | 1,990 |
 | org | 1,507 |
@@ -7268,6 +7268,7 @@ Here's a list of public Fediverse services.
 | `fatty-j.com` | No |
 | `fauchereau.fr` | No |
 | `faux.io` | Yes |
+| `fauxzen.com` | Yes |
 | `favdon.com` | No |
 | `favela.world` | No |
 | `favrep.ch` | No |
@@ -27491,8 +27492,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,805 |
+| Cloudflare | 5,806 |
 | Normal | 21,643 |
 
 
-### 21.1% of public Fediverse services are using Cloudflare.
+### 21.2% of public Fediverse services are using Cloudflare.
