@@ -398,6 +398,7 @@ Or is this merely a case of simple modesty?
 | Chung-Ting Huang | Employee |  |
 | Cina Saffary | Systems Engineer |  |
 | Claire Tsai | Global Expansion | https://getglobal.co/claire-tsai-head-of-globalization-cloudflare/ |
+| Claire Waters | Employee | |
 | Clement Schoehn | Employee |  |
 | Cody Koeninger | Employee |  |
 | Cole MacKenzie | Employee | |
@@ -1731,6 +1732,7 @@ Or is this merely a case of simple modesty?
 | Travis Perkins | Customer Success Engineer |  |
 | Travis Raines | Technical Support Engineer |  |
 | Trent Wooton | Business Development |  |
+| Trevor Sundberg | Employee | |
 | Trey Guinn | Solutions Engineer |  |
 | Tristan Colgate-McFarlane | Systems Reliability Engineer |  |
 | Tuyen Dinh | Employee |  |
