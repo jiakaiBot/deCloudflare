@@ -306,6 +306,7 @@ www.zh.updates.international
 www2.aplusk.co.jpbvcb5vh6hjb4.uqfp.cn
 www2.aplusk.co.jpbvcb5vh6hjb4.uqhs.cn
 zh.updates.international
+301usgovvirginia1175221.blob.core.usgovcloudapi.net
 accom.uinterbox.com
 api.und-gesund.de
 apitst.upmchp.com
@@ -313,6 +314,7 @@ app-uxxiappdemo-lp.uxxi.net
 app.uob.com.sg
 avanan.url-protection.com
 b2bapi.usaa.com
+bienestarpsicosocial.izt.uam.mx
 bigweb.unifr.ch
 blockchain-explorer.smart-transport.fujitsu.ubloquity.tech
 brujo.updateperu.com
@@ -324,6 +326,7 @@ cful.letras.ulisboa.pt
 click.usapark-enews.com
 collections.museums.ua.edu
 collimateur.uqam.ca
+communication.uqam.ca
 contents.usadisk.com
 cos-verify.uatdelivery.uk
 cpcalendars.ultrasonidomedicodiagnosticoencdmx.com.mx
@@ -331,11 +334,13 @@ cpcontacts.ultrasonidomedicodiagnosticoencdmx.com.mx
 cridaq.uqam.ca
 da.ultra-as.com
 designthinking.extension.ucr.edu
+dev-micropay.uplus.co.kr
 dev.api.data.unicloudgroup.com.vn
 experimentalgamecultures.uni-ak.ac.at
 extranet.upmuruguay.com.uy
 extranetslam.urops-prevention.fr
 files.usertygflkmd.tk
+forum.umbandaeucurto.com
 homedav.unifr.ch
 ieim.uqam.ca
 ivsapi-cat.usps.gov
@@ -392,6 +397,9 @@ ulisses-spiele.de
 ultimatediscordentertainment.com
 ultrasecurity.ro
 uncomics.org
+undergroundsolushn.com
+undiplomaticservice.com
+unesco.se
 unevenearth.org
 unibelts.co.za
 unicornify.cloud
@@ -405,6 +413,7 @@ unxinvest.com
 up.unum.pl
 uparjon.in
 update-tarif-transaksi-bank.my.id
+updatecom.co
 updatehargaemas.com
 uplangreo.es
 ups-delivery1.ca
@@ -420,6 +429,7 @@ usagi-online.com
 usendit.net
 userumah.com.br
 usps-verification.com
+usso.uk
 usuarioempresarial.gq
 usuarionet-empresa.ml
 usuarionet-empresa.tk
@@ -442,6 +452,7 @@ www.ch-booster.update-sports.com
 www.cill.update-sports.com
 www.cirget.uqam.ca
 www.clientes.umbralhosting.com
+www.dawka.hex.usermd.net
 www.dinarkrgresik.com.updatehargaemas.com
 www.dinarkrtangsel.com.updatehargaemas.com
 www.direto.updatecardiovasculardotejo.pt
@@ -468,6 +479,7 @@ www.uci.cu
 www.ukmilitarymentors.co.uk
 www.ukrn.org
 www.ukrpost.org
+www.umudavuslat.org.tr
 www.un.org
 www.unanj.com
 www.undefinedentertainment.com
