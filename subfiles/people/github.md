@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CSV Export not working](https://github.com/jpatokal/openflights/issues/1119)
 - [Complex comments can break page loading](https://github.com/HyphaApp/hypha/issues/3048)
 - [MULTIPART_UNMATCHED_BOUNDARY when uploading certain randomly-generated files](https://github.com/coreruleset/coreruleset/issues/2999)
 - [Failed to bundle typescript+esm](https://github.com/jsdelivr/jsdelivr/issues/18448)
