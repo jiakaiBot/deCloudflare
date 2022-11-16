@@ -668,7 +668,7 @@ Here's a list of public Fediverse services.
 | `adminforge.de` | No |
 | `administrieren.net` | No |
 | `adminit.cz` | No |
-| `admins.town` | No |
+| `admins.town` | Yes |
 | `admiral0.it` | No |
 | `admires.art` | No |
 | `adn.life` | No |
@@ -27041,6 +27041,7 @@ Here's a list of public Fediverse services.
 | `xurxodiz.eu` | No |
 | `xuv.be` | No |
 | `xwiki.com` | Yes |
+| `xx0r.eu` | No |
 | `xxhe.de` | No |
 | `xxi.bz` | No |
 | `xxil.cc` | Yes |
@@ -27659,7 +27660,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,857 |
+| Cloudflare | 5,858 |
 | Normal | 21,759 |
 
 
