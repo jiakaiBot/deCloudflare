@@ -1490,7 +1490,7 @@ Here's a list of public Fediverse services.
 | `archivefedifor.fun` | No |
 | `archous.net` | No |
 | `archraspberrypi.tk` | No |
-| `arclight.pro` | No |
+| `arclight.pro` | Yes |
 | `ardeer.cfd` | No |
 | `are-you-kidding.me` | Yes |
 | `area51.media` | No |
@@ -8483,6 +8483,7 @@ Here's a list of public Fediverse services.
 | `galaxy.cat` | No |
 | `galaxy.quest` | No |
 | `galaxycrow.de` | Yes |
+| `galbo.io` | Yes |
 | `galenabell.com` | No |
 | `galenzoski.com` | Yes |
 | `galileo.news` | No |
@@ -27496,8 +27497,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,809 |
-| Normal | 21,644 |
+| Cloudflare | 5,811 |
+| Normal | 21,643 |
 
 
 ### 21.2% of public Fediverse services are using Cloudflare.
