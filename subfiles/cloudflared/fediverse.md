@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,935 |
-| net | 2,121 |
+| com | 3,937 |
+| net | 2,122 |
 | social | 2,014 |
 | org | 1,510 |
 | de | 1,405 |
@@ -7429,6 +7429,7 @@ Here's a list of public Fediverse services.
 | `fedigram.com` | No |
 | `fedigram.net` | No |
 | `fedigram.social` | Yes |
+| `fedihams.net` | No |
 | `fedihub.com` | No |
 | `fedihum.org` | No |
 | `fedilab.app` | No |
@@ -11154,7 +11155,7 @@ Here's a list of public Fediverse services.
 | `jacklinke.com` | No |
 | `jackmeyers.co` | No |
 | `jackpoint.space` | No |
-| `jackpot.pictures` | No |
+| `jackpot.pictures` | Yes |
 | `jackscott.id.au` | Yes |
 | `jacksonchen666.com` | No |
 | `jackspangler.xyz` | No |
@@ -24459,6 +24460,7 @@ Here's a list of public Fediverse services.
 | `tomica.me` | No |
 | `tomkrizan.com` | No |
 | `tomlawson.io` | Yes |
+| `tomlisankie.com` | No |
 | `tommi.space` | No |
 | `tommysblog.de` | No |
 | `tomocraft.net` | Yes |
@@ -26056,6 +26058,7 @@ Here's a list of public Fediverse services.
 | `wa1.net` | No |
 | `waag.org` | No |
 | `waag.social` | No |
+| `waarland.eu` | No |
 | `wabarr.com` | No |
 | `wachbleiben.ch` | No |
 | `wackwack.net` | No |
@@ -26517,6 +26520,7 @@ Here's a list of public Fediverse services.
 | `wirwarenesnet.de` | No |
 | `wisellama.rocks` | No |
 | `wisemantribe.co.uk` | No |
+| `wisepapajohn.com` | Yes |
 | `wisepoint.org` | No |
 | `wishy.co.uk` | No |
 | `wisskomm.social` | No |
@@ -27660,8 +27664,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,858 |
-| Normal | 21,759 |
+| Cloudflare | 5,860 |
+| Normal | 21,761 |
 
 
 ### 21.2% of public Fediverse services are using Cloudflare.
