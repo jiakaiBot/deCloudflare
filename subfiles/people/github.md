@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cant upload images](https://github.com/misskey-dev/misskey/issues/9181)
 - [CSV Export not working](https://github.com/jpatokal/openflights/issues/1119)
 - [Complex comments can break page loading](https://github.com/HyphaApp/hypha/issues/3048)
 - [MULTIPART_UNMATCHED_BOUNDARY when uploading certain randomly-generated files](https://github.com/coreruleset/coreruleset/issues/2999)
