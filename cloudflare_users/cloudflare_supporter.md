@@ -7926,6 +7926,7 @@ Do not create new issue or we will close it as duplicate.
 | [QuanDan63700982@twitter](https://twitter.com/QuanDan63700982/status/1522403439640473600) | advertise |
 | [QUANG45793973@twitter](https://twitter.com/QUANG45793973/status/1402123589390802962) | advertise |
 | [quang59720264@twitter](https://twitter.com/quang59720264/status/1381982756029169671) | advertise |
+| [Quang66385697@twitter](https://twitter.com/Quang66385697/status/1592898497711583232) | advertise |
 | [Quang91415318@twitter](https://twitter.com/Quang91415318/status/1552530500756983808) | advertise |
 | [quangan00528037@twitter](https://twitter.com/quangan00528037/status/1380604112140529667) | advertise |
 | [quangbk1@twitter](https://twitter.com/quangbk1/status/1538084581601341440) | advertise |
@@ -9615,6 +9616,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thng11329609@twitter](https://twitter.com/Thng11329609/status/1385624068355858432) | advertise |
 | [Thng19199851@twitter](https://twitter.com/Thng19199851/status/1470784177519960065) | advertise |
 | [Thng45509564@twitter](https://twitter.com/Thng45509564/status/1537817677468938240) | advertise |
+| [Thng91268245@twitter](https://twitter.com/Thng91268245/status/1592903001123192835) | advertise |
 | [ThngAnh90026457@twitter](https://twitter.com/ThngAnh90026457/status/1389297361734692865) | advertise |
 | [ThngL24603985@twitter](https://twitter.com/ThngL24603985/status/1559517329939017728) | advertise |
 | [thngngu22608045@twitter](https://twitter.com/thngngu22608045/status/1472219741029044227) | advertise |
