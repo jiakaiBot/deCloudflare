@@ -847,7 +847,9 @@ accounting.gapallet.com
 adfs.grupawp.pl
 admin.grsportal.com
 adraffy.github.io
+alok-077.github.io
 amihabibkhan.github.io
+android.googleapis.com
 aovpn.geigerautomotive.com
 api.dev.gspostbox.com
 api.gerentesdigitais.com
@@ -869,6 +871,7 @@ b2c-gulf.gigigoapps.com
 bankofamerica.com.login.update.goldfreight.ca
 barometro-covid.goodrebels.com
 bauportal.gajagati.hr
+bbtbusiness.github.io
 bcae52635ca64335c9952857d3ff6401.safeframe.googlesyndication.com
 beloved-recluse.glitch.me
 billing2.gsy-cygnus.com
@@ -880,6 +883,7 @@ btbusinssss.github.io
 btbusnes.github.io
 cdn.getdms.app
 cds.rhel.updates.googlecloud.com
+cembramoney-ch.gotdns.ch
 click-5866b9.gosquared-mail.com
 click.goikolove.com
 clients.greatqualitygraphics.com
@@ -891,6 +895,7 @@ composer.cloud.google.com
 connectwithebaysnumber.github.io
 consent.google.co.il
 contao.web54.s66.goserver.host
+cool-brook-arthropod.glitch.me
 cpanel.garantias.site
 cpanel.gyakuten-kyujin.site
 cpcalendars.garantias.site
@@ -906,6 +911,7 @@ cpcontacts.graycubesports.com
 cpcontacts.gymsainvestment.co.ke
 crvx1.github.io
 daniel-t-gilbert.github.io
+davitandzavelidze.github.io
 dbrekalo.github.io
 dcgyuhjdtyjuuj.storage.googleapis.com
 dev1.google-shopping.club
@@ -955,10 +961,12 @@ gabrielguerrero.co
 gadgetsin.com
 galadi.net
 gamedevpodcast.de
+gamesupport.in
 gandalfsecure.com
 gargasson.com
 gartenmeldorf.de
 gasco-services.co.uk
+gasthaus-altepost.ro
 gautam1804.github.io
 gauue.com
 gbpinter.net
@@ -969,6 +977,7 @@ geldersdoek.nl
 geldgrinden.nl
 generasipeneliti.id
 genevairbank.ml
+genevatradelaw.com
 geniuscreations.pl
 genplastics.com
 geopoliticalfutures.com
@@ -977,9 +986,11 @@ gethiredinflorida.us
 getlawsinfo.ru
 ghanlaegsservice.dk
 gharbazaar.pk
+ghsmac05.geisinger.edu
 ghv.no
 giang.pro
 gidashop.com.vn
+giftforgot.online
 giftiforgot.com
 giftiforgot.net
 giftsiforgot.com
@@ -994,10 +1005,12 @@ git.git.git.gitlab.git.git.vmail.generation.fund
 git.git.git.promail.yandex.gabdrahmanova.ru
 git.gitlab.zmail.governmentprocessroot.online
 git.guillemborrell.es
+git.hashicorp.cloudg.magento.clud.gpinfo.eu
 givealilbit.com
 givealilbit.io
 gk-facility-services.de
 glamoryhosiery.com
+glasserviceoslo.no
 glazerbank.com
 global-investec.com
 global.canon
@@ -1015,6 +1028,7 @@ golang.org
 golem.hu
 golfplusonemedia.com
 goodncheap.net
+googleapis.com
 googleupdate.us
 gotelservice.xyz
 govillagetravel.com
@@ -1041,6 +1055,8 @@ groenboerenplan.nl
 growsverige.se
 grservice.fi
 gruene-zh.ch
+grupopopular.com
+gruppoalis.it
 gst-credits.online
 gta-vice-city.ru
 gtar.online
@@ -1048,6 +1064,7 @@ gtebs.gallifordtry.co.uk
 gtibvaservice.com
 gtmservice.pt
 gts-security.ro
+guardiasecurity.ro
 guildofscientifictroubadours.com
 gutenberg.ca
 guteseguridad.com
@@ -1061,6 +1078,7 @@ iam.googleapis.com
 ibank.gcmutualbank.com.au
 imagens.genkialimentos.com.br
 info.grupotoks.com.mx
+investors.gettyimages.com
 itzdm.github.io
 jmziwsqvym.c9t71vopk7jahtuebmng.my.gelcanliya.site
 joejosephvarghese.github.io
@@ -1084,9 +1102,11 @@ mu-g.github.io
 muhammedsalimmsk.github.io
 nabilurrahman88.github.io
 navisaf15.ganemo.co
+nazarilkiv.github.io
 news.blog.outlook.gjproperties.com
 nm.gmsseguridad.com
 nso.goskope.com
+o.goldgans.de
 ocupa.greveclimaticaestudantil.pt
 office.yandex.gabdrahmanova.ru
 optseci.glitch.me
@@ -1107,8 +1127,11 @@ quasar-right-kale.glitch.me
 r2---sn-qxoedne7.googlevideo.com
 random-trees-in-circles.glitch.me
 rds.api.us-east-2.service.guidewire.net
+rec-xfer.groupagrica.com
 ribgisrmw.gdi.net
 richesh27.github.io
+riyad3453.github.io
+rushikeshs001.github.io
 s-paramguvende.guvenleodemeyontemi.com
 safe-future.gnssweb.co.il
 safeland.gnss-lp.co.il
@@ -1122,6 +1145,7 @@ sanmjjgf.godaddysites.com
 sapphire-plume-cacao.glitch.me
 secmail.grawe.com
 secure.givelively.org
+service.getapp.store
 servicedesk.glowtouch.net
 servicedesk.goodstuff.co.uk
 services.genovis.com
@@ -1145,9 +1169,11 @@ taxrefund.gnss-lp.co.il
 tessauthsvc.gstoyota.com
 test.governorsbay.nz
 testapi.girogate.de
+tester.goatourspackage.com
 testing.getdocsupport.com
 thibodumarey.github.io
 ti-lage.prod.ccs.gematik.solutions
+tile.goodnotescloud.com
 tomaslenzi.github.io
 toolbarqueries.google.com.sl
 toolbarqueries.google.dz
@@ -1206,6 +1232,7 @@ www.gamingsystem.ag
 www.gapartnersfund.org
 www.garenewing.co.uk
 www.garycampion.com
+www.gasthaus-altepost.ro
 www.gavroche-thailande.com
 www.gbservice-nettoyage.fr
 www.gdma-service.com
@@ -1214,6 +1241,7 @@ www.geensuikertaksindeboomgaard.nl
 www.geldgrinden.nl
 www.gemsmodernacademygurgaon.com
 www.genealanille.fr
+www.geniaus.net
 www.georgewaltonpost371.org
 www.georisques.gouv.fr
 www.geotrend.fr
@@ -1226,6 +1254,7 @@ www.ghanlaegsservice.dk
 www.ghtowingservice.com
 www.ghx.com
 www.giftcardmall.com
+www.giftforgot.online
 www.giftiforgot.com
 www.giftiforgot.net
 www.giftsiforgot.com
@@ -1239,10 +1268,12 @@ www.gkanabol.com
 www.glass-international.com
 www.globalcareersfair.com
 www.globaldramaalert.com
+www.globalfoodsoft.com
 www.globallineprioritypackage.com
 www.globalreports.co
 www.globalsupport.org.br
 www.globaltrkdom.com
+www.globalvisions.fi
 www.globelinkstarshippingdelivery.com
 www.gloriant.be
 www.gls-laden.de
@@ -1288,13 +1319,16 @@ www.sikkerhav.gymgear.dk
 www.support.globalmix.net
 www.taxrefund.gnss-lp.co.il
 www.tepakan.gob.mx.gobiernosenlinea.com.mx
+www.tester.goatourspackage.com
 www.ticket.gavice.ng
 www.trackerboard.gamefiindonesia.com
 www.usercraft.com.gerke-translation.com
 www.vesa.grupoinvestigacionsafe.com
+www.z1.hashicorp.cloudg.magento.clud.gpinfo.eu
 xpost.gaminginthe.cloud
 youtrack.grombeer.pro
 youtube.google.gophishin.com
+z1.hashicorp.cloudg.magento.clud.gpinfo.eu
 zeahgzonitlesmqdsuuysrnmn.storage.googleapis.com
 galiciaxa.com
 gameboku.com
