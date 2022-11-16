@@ -4445,6 +4445,7 @@ Here's a list of public Fediverse services.
 | `convergence.cx` | No |
 | `conversafiada.net` | No |
 | `convivialist-computer.club` | No |
+| `convo.casa` | No |
 | `convoca.la` | No |
 | `convoglio.social` | No |
 | `conxtor.com` | No |
@@ -27493,7 +27494,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,806 |
-| Normal | 21,643 |
+| Normal | 21,644 |
 
 
 ### 21.2% of public Fediverse services are using Cloudflare.
