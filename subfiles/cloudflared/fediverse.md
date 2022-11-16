@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,937 |
 | net | 2,122 |
-| social | 2,014 |
+| social | 2,015 |
 | org | 1,510 |
 | de | 1,405 |
 
@@ -3391,6 +3391,7 @@ Here's a list of public Fediverse services.
 | `cacti.dev` | Yes |
 | `cadadr.digital` | No |
 | `caelin.cloud` | No |
+| `cafemilk.moe` | Yes |
 | `cafeobskur.de` | No |
 | `caff.tech` | No |
 | `caffeinated.social` | Yes |
@@ -8856,6 +8857,7 @@ Here's a list of public Fediverse services.
 | `ggrel.net` | Yes |
 | `ggtea.org` | No |
 | `ggwp.social` | Yes |
+| `ggwq.ml` | No |
 | `gh0st.live` | No |
 | `ghacks.net` | Yes |
 | `ghastr.com` | No |
@@ -24033,6 +24035,7 @@ Here's a list of public Fediverse services.
 | `thenice.cafe` | No |
 | `thenintendo.shop` | No |
 | `thenobody.club` | No |
+| `thenomads.social` | Yes |
 | `thenorth.social` | Yes |
 | `thenowhere.men` | Yes |
 | `thentrythis.org` | No |
@@ -27664,8 +27667,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,860 |
-| Normal | 21,761 |
+| Cloudflare | 5,862 |
+| Normal | 21,762 |
 
 
 ### 21.2% of public Fediverse services are using Cloudflare.
