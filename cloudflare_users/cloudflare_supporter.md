@@ -2507,6 +2507,7 @@ Do not create new issue or we will close it as duplicate.
 | [EaintMhuKhin2@twitter](https://twitter.com/EaintMhuKhin2/status/1390885334745899009) | advertise |
 | [Eainzonn@twitter](https://twitter.com/Eainzonn/status/1399198586072551426) | advertise |
 | [Eakruthaicc@twitter](https://twitter.com/Eakruthaicc/status/1468811322716352512) | advertise |
+| [EAlisow@twitter](https://twitter.com/EAlisow/status/1592966401152913408) | advertise |
 | [EarlMur88577933@twitter](https://twitter.com/EarlMur88577933/status/1534644631996096515) | advertise |
 | [Earth57933455@twitter](https://twitter.com/Earth57933455/status/1392991054819856384) | advertise |
 | [EarthX43@twitter](https://twitter.com/EarthX43/status/1552745720192864257) | advertise |
@@ -4812,8 +4813,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
