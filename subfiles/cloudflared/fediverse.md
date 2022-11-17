@@ -5446,6 +5446,7 @@ Here's a list of public Fediverse services.
 | `defcon.social` | No |
 | `defelo.de` | Yes |
 | `defenders.town` | Yes |
+| `defenestrate.it` | Yes |
 | `deff.no` | Yes |
 | `deffo.com.au` | Yes |
 | `definitely-not-archivefedifor.fun` | No |
@@ -22433,6 +22434,7 @@ Here's a list of public Fediverse services.
 | `someone.bar` | Yes |
 | `someonewho.codes` | No |
 | `someotherguy.xyz` | No |
+| `something.wtf` | No |
 | `sometimes.io` | No |
 | `sometimes.social` | No |
 | `somewhathappy.com` | Yes |
@@ -26053,6 +26055,7 @@ Here's a list of public Fediverse services.
 | `w3c.social` | No |
 | `w3nz.net` | No |
 | `w3pbs.top` | No |
+| `w3pbs.us` | No |
 | `w3r.jp` | No |
 | `w3rkhof.zone` | No |
 | `w41.org` | No |
@@ -27669,8 +27672,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,864 |
-| Normal | 21,762 |
+| Cloudflare | 5,865 |
+| Normal | 21,764 |
 
 
 ### 21.2% of public Fediverse services are using Cloudflare.
