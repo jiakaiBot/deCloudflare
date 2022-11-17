@@ -9784,6 +9784,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tn53238186@twitter](https://twitter.com/Tn53238186/status/1403733922152730627) | advertise |
 | [Tn83771815@twitter](https://twitter.com/Tn83771815/status/1580808870154637317) | advertise |
 | [Tn89965871@twitter](https://twitter.com/Tn89965871/status/1402275670709915655) | advertise |
+| [TnDuy89330210@twitter](https://twitter.com/TnDuy89330210/status/1593265119764525058) | advertise |
 | [TngHong14@twitter](https://twitter.com/TngHong14/status/1386325819891482627) | advertise |
 | [TngLi34015815@twitter](https://twitter.com/TngLi34015815/status/1554003584039415809) | advertise |
 | [TngNi93807080@twitter](https://twitter.com/TngNi93807080/status/1380134536034549762) | advertise |
