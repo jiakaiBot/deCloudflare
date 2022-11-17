@@ -20508,6 +20508,7 @@ Here's a list of public Fediverse services.
 | `rhrish.com` | No |
 | `rhubarb.land` | Yes |
 | `rhue.eu` | No |
+| `rhyme.ml` | Yes |
 | `rhys.wtf` | No |
 | `rhythmania.net` | No |
 | `rhythmgam.es` | No |
@@ -27729,7 +27730,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,882 |
+| Cloudflare | 5,883 |
 | Normal | 21,804 |
 
 
