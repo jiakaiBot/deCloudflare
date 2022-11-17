@@ -1744,6 +1744,7 @@ Here's a list of public Fediverse services.
 | `asukuru.com` | No |
 | `asuscomm.com` | No |
 | `asutodon.tokyo` | No |
+| `asweet.space` | No |
 | `aswmast.life` | No |
 | `asymptote.club` | No |
 | `asyncapi.social` | No |
@@ -13770,6 +13771,7 @@ Here's a list of public Fediverse services.
 | `lucyd.io` | No |
 | `lucypoulton.net` | Yes |
 | `lucyver.se` | No |
+| `lud.fun` | Yes |
 | `ludi.pics` | No |
 | `ludikovsky.name` | No |
 | `ludim.us` | No |
@@ -25465,6 +25467,7 @@ Here's a list of public Fediverse services.
 | `unkomaker.info` | No |
 | `unkomaker.net` | No |
 | `unkworks.net` | No |
+| `unlimit3z.online` | No |
 | `unlimited-blade.works` | No |
 | `unlimitedammo.de` | No |
 | `unliving.net` | No |
@@ -27732,8 +27735,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,884 |
-| Normal | 21,805 |
+| Cloudflare | 5,885 |
+| Normal | 21,807 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
