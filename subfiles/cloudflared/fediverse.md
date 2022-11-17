@@ -4841,6 +4841,7 @@ Here's a list of public Fediverse services.
 | `cubyx.eu` | Yes |
 | `cuche.cc` | No |
 | `cucked.me` | Yes |
+| `cuddle.science` | Yes |
 | `cuddlegirls.cafe` | No |
 | `cuddlesarethebest.cf` | No |
 | `cuddleso.me` | No |
@@ -9541,7 +9542,7 @@ Here's a list of public Fediverse services.
 | `hackerposse.com` | No |
 | `hackers.city` | No |
 | `hackers.life` | No |
-| `hackers.radio` | No |
+| `hackers.radio` | Yes |
 | `hackers.social` | No |
 | `hackers.town` | No |
 | `hackersatporto.com` | Yes |
@@ -19594,6 +19595,7 @@ Here's a list of public Fediverse services.
 | `prpr.in` | No |
 | `prsm.space` | No |
 | `prt.blue` | No |
+| `prt.si` | No |
 | `prude.party` | No |
 | `prvcy.eu` | No |
 | `prx.link` | No |
@@ -27764,7 +27766,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,894 |
+| Cloudflare | 5,896 |
 | Normal | 21,827 |
 
 
