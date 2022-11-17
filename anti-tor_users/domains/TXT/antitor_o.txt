@@ -512,6 +512,7 @@ www.update.odaanews.net
 www.usps-service-mail-pickup-jsp.ocry.com
 zoominfo.com.login.onlineactionsports.com.au
 achasp2-cert.onefiserv.com
+activedera.onedumb.com
 akr2289922101.owst.jp
 alan.oseudelivery.app.br
 amazonproductapi.officetada.work
@@ -521,6 +522,7 @@ api.gca.amazon.stg.aws.ofx.com
 api.onsolvegateway.com
 api.prod-haas.hc-canary.shoot.live.k8s-hana.ondemand.com
 api.updatefullpage.review.acdc.odiwi.fr
+apiuat.oneradon.com
 auth-dev.oose.de
 auth.octastonecapitals.com
 auth.omega-caci.com
@@ -528,6 +530,7 @@ autodiscover.oyagtv.site
 bank.ofgeorgia.pro
 bank.ofgeorgia.xyz
 beforeupdate.ormskirkskipsltd.co.uk
+bi-dev02-use1.it-dev.odessa-ea.com
 bo.updatefullpage.review.acdc.odiwi.fr
 bristol-garden.webplatform-affligem.overstock.be
 bristol-home.webplatform-affligem.overstock.be
@@ -546,6 +549,7 @@ cpcalendars.cherypretoria-demo.oraclegroup.co.za
 cpcalendars.office365verified.online
 cpcontacts.office365verified.online
 cpmnx-ir1.onbmc.com
+criminallawcorona.omc-pages.com
 crowdin.onfastspring.com
 cybersmartbyrendtech.ontralink.com
 dev-fargate.nationalcoronaviruwebvpn.oddr.info
@@ -556,6 +560,7 @@ developer.oculus.com
 dex.ogolation.de
 diego.ospinalaw.com
 doicis0100integrationservices-atcoci1.integration.ocp.oraclecloud.com
+donor.oneblood.org
 erpapps.ocadu.ca
 fa-eyfy-test-saasfapreprod1.fa.ocs.oc-test.com
 fcgc6835.odns.fr
@@ -588,6 +593,7 @@ mc900.onelink.me
 mds.opm.mx
 mlshomejab.ohmybargains.com
 monleale.owst.jp
+mygadgetgifts.onlinepremiumgifts.com
 ndes1.onward.co.uk
 newupdate.okanefinance.ph
 nicaoiwe.organiccrap.com
@@ -599,10 +605,13 @@ objectstorage.eu-milan-1.oraclecloud.com
 objectstorage.uk-london-1.oraclecloud.com
 objectstorage.us-sanjose-1.oraclecloud.com
 obsidianorderdiscord.com
+odeb.org
 odinferretero.com
 odinsas.com
 odrealty.mx
 oefentoets.com
+offerayo.com
+officeconta.ro
 offshoresupport.online
 ofwlaw.com
 oic-ccs-shared-ax6cus1bjr3u-ia.integration.ocp.oraclecloud.com
@@ -635,12 +644,14 @@ openbenches.org
 openjewereld.nu
 opensea.co.ke
 opensiddur.org
+optimium-group.com
 oracle-ps.com
 orangebiotech.in
 orbit-controls.com
 organicplantbasedexpo.dk
 ornithologyexchange.org
 ortsbezogenekunst.at
+osef.org.ng
 oshr.ru
 osr4rights.org
 oswaldhill.bond
@@ -655,6 +666,7 @@ overskudslivet.dk
 overstock-garden.webplatform-affligem.overstock.be
 overstock-home.webplatform-affligem.overstock.be
 owa.oso.sk
+ownerfinancergv.com
 ozelbazar.com
 passwortcheck.outercirc.io
 pixel-us.onaudience.com
@@ -677,6 +689,7 @@ rsp-0003.oberthur.net
 sadc1.outbrain.com
 service-discovery.ouznoreyni.tech
 servicebus-t.overijssel.nl
+sessionscloud2.opticvideo.com
 shared-cw-alarm.orkesconductor.com
 shop.oxfamnovib.nl
 smart.owqms.com
@@ -688,6 +701,7 @@ stream5.opb.org
 studentverification.oivetindia.com
 support.outfox.nl
 tantodomani.owst.jp
+test.orsted.com
 thales1-livelab.prod.ondemandconnectivity.com
 tickets.oztix.com.au
 titustap.optrust.com
@@ -710,10 +724,13 @@ www.actualizar.arsbancocentral.opensoftdo.com
 www.backup.osd-sicherheitsdienste.de
 www.beforeupdate.ormskirkskipsltd.co.uk
 www.billing.oxmobility.com
+www.billingsandcompany.oreillyspubperth.com
 www.clientsrvicesrequstdelivryuspxxreview0931.oznemedya.com
 www.clientsrvicesrequstdelivryusspsrvww09391.oznemedya.com
+www.contabilidade.organizece.com.br
 www.customer.omnipos.co
 www.derakpost.obatgaptech.com
+www.essaywritingsservice.net.online-papers.net
 www.fernbertemes.org.mab-dap.on-rev.com
 www.git.blog.shop.secure.oleybet.link
 www.git.gento.onlineguncel.info
@@ -729,6 +746,9 @@ www.oakhurstvet.com
 www.obsolete-tears.com
 www.octb.pt
 www.oculus.com
+www.office-com.jp
+www.officeconta.ro
+www.ofn.org
 www.ohchr.org
 www.oki.com
 www.oldcook.com
@@ -762,10 +782,12 @@ www.outoftheboxproductions.ca
 www.outpost-4.com
 www.ov8espeakers.nl
 www.ove.com.sg
+www.oxfordreference.com
 www.postfinance.onlineba-nk.work
 www.refund.ontargetdev.eu
 www.stageway.ok-kontor.no
 www.support.omniuse.com
+www.ticket.oyaguy.live
 www.ticketschedule.officiallevents.com
 www.user.osatrade.club
 www.ws.overseascourierservice.site
