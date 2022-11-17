@@ -312,6 +312,7 @@ api.und-gesund.de
 apitst.upmchp.com
 app-uxxiappdemo-lp.uxxi.net
 app.uob.com.sg
+apps.uniprime.com.br
 avanan.url-protection.com
 b2bapi.usaa.com
 bienestarpsicosocial.izt.uam.mx
@@ -323,6 +324,7 @@ californiadepartmentofmotorvehicles.updatemyprofile.com
 campusvirtual.urosario.edu.co
 cas.uditracker.biz
 cful.letras.ulisboa.pt
+click.outreach.usac.org
 click.usapark-enews.com
 collections.museums.ua.edu
 collimateur.uqam.ca
@@ -332,6 +334,7 @@ cos-verify.uatdelivery.uk
 cpcalendars.ultrasonidomedicodiagnosticoencdmx.com.mx
 cpcontacts.ultrasonidomedicodiagnosticoencdmx.com.mx
 cridaq.uqam.ca
+cti.uncoder.io
 da.ultra-as.com
 designthinking.extension.ucr.edu
 dev-micropay.uplus.co.kr
@@ -341,6 +344,7 @@ extranet.upmuruguay.com.uy
 extranetslam.urops-prevention.fr
 files.usertygflkmd.tk
 forum.umbandaeucurto.com
+guiaempresas.universia.es
 homedav.unifr.ch
 ieim.uqam.ca
 ivsapi-cat.usps.gov
@@ -361,6 +365,7 @@ mybcabisnis.u-appspecto.com
 o.upgradegroup.com
 obikn.u-appspecto.com
 pay.uralairlines.ru
+paypal0.uber.space
 piloto.universo.pt
 pra.u.com.my
 proxy.bms.dev.unblu-test.com
@@ -407,6 +412,7 @@ unimastin.com
 unipower.se
 unitransservice.com
 uniusclaws.com
+universal-studios-orlando-tickets.com
 unixhq.com
 unsuprisinghome.com
 unxinvest.com
@@ -427,9 +433,11 @@ us-estimation.com
 usa-trip.be
 usagi-online.com
 usendit.net
+usershare.me
 userumah.com.br
 usps-verification.com
 usso.uk
+usuario-bradescnetempresa.ml
 usuarioempresarial.gq
 usuarionet-empresa.ml
 usuarionet-empresa.tk
@@ -438,8 +446,10 @@ usvazine.net
 uta.engineering
 utiao.net
 utilajeinchiriate.ro
+uviworld.in
 verifycertificate.ullashi.com
 web.usdirectexpress.com
+wstoreapps.uwaterloo.ca
 www.898.az.unikalservice.com
 www.authdove.unitedecom.com
 www.billing.utu.systems
@@ -456,6 +466,7 @@ www.dawka.hex.usermd.net
 www.dinarkrgresik.com.updatehargaemas.com
 www.dinarkrtangsel.com.updatehargaemas.com
 www.direto.updatecardiovasculardotejo.pt
+www.e-confirmation.urbanplaymedia.com
 www.facturation-app.unitra.ma
 www.git.git.git.git.backoffice.umg-smdfo.ru
 www.go.update-sports.com
