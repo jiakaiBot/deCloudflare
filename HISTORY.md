@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-21: [STL (St. Louis) on 2022-11-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vr1gvpk7sj1p)
 - 2022-11-22: [YYZ (Toronto) on 2022-11-22](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7lw5zsqbzsp7)
 - 2022-11-18: [VIE (Vienna) on 2022-11-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/brrz1dxz8q8m)
 - 2022-11-22: [MRS (Marseille) on 2022-11-22](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1g87nssbkr3z)
