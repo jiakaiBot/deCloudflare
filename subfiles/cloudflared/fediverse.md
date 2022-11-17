@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,953 |
 | net | 2,132 |
-| social | 2,026 |
+| social | 2,027 |
 | org | 1,511 |
 | de | 1,412 |
 
@@ -21371,6 +21371,7 @@ Here's a list of public Fediverse services.
 | `schumacher.social` | No |
 | `schumann.social` | No |
 | `schuppen.dev` | Yes |
+| `schuppen.social` | No |
 | `schuppentier.org` | No |
 | `schuppentier.social` | No |
 | `schutt.social` | No |
@@ -27767,7 +27768,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,896 |
-| Normal | 21,827 |
+| Normal | 21,828 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
