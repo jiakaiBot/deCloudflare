@@ -126,6 +126,7 @@ git.git.git.git.git.git.git.seed.z-serviceonline.com
 git.git.git.gitlab.gitlab.smtpmail.z-serviceonline.com
 git.git.git.vmail.zalishchyker.de
 gitlab.gitlab.www.covid19.zalive-akvilon.ru
+initheadset.zetoserver.com
 japan-kotsu.zerospace.biz
 jobs.zenploy.io
 kerur-rahamim.zapages.co.il
@@ -146,6 +147,7 @@ secure.zollarfxc.com
 signix.zipformplus.com
 sts.zollner.de
 test-double-ideal-java.payments-core.zalan.do
+tou.zeasn.tv
 user.zarinkav.ir
 vmail.z-serviceonline.com
 www.gamesupport.in.zehraglobalinfotech.in
