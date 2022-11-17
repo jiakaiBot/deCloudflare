@@ -24590,6 +24590,7 @@ Here's a list of public Fediverse services.
 | `toot.computer` | No |
 | `toot.cool` | Yes |
 | `toot.design` | No |
+| `toot.earth` | No |
 | `toot.exchange` | No |
 | `toot.futbol` | No |
 | `toot.garden` | Yes |
@@ -27739,7 +27740,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,886 |
-| Normal | 21,809 |
+| Normal | 21,810 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
