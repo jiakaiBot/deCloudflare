@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,945 |
-| net | 2,129 |
+| com | 3,947 |
+| net | 2,131 |
 | social | 2,022 |
 | org | 1,511 |
 | de | 1,408 |
@@ -2040,6 +2040,7 @@ Here's a list of public Fediverse services.
 | `backyardsocial.online` | No |
 | `bacn.social` | Yes |
 | `baconpotato.net` | No |
+| `baconwood.net` | No |
 | `baconx.de` | No |
 | `baczuk.com` | No |
 | `bad-bit.ch` | No |
@@ -2593,6 +2594,7 @@ Here's a list of public Fediverse services.
 | `birb.zone` | Yes |
 | `birchgame.org` | No |
 | `bird.band` | No |
+| `birdbox.party` | Yes |
 | `birdcar.dev` | No |
 | `birddon.com` | No |
 | `birdity.club` | No |
@@ -2765,6 +2767,7 @@ Here's a list of public Fediverse services.
 | `blimps.xyz` | Yes |
 | `blind.lol` | No |
 | `blindwith.science` | Yes |
+| `blisscampus.com` | No |
 | `blisses.org` | No |
 | `bln41.net` | Yes |
 | `bln41.win` | Yes |
@@ -5966,6 +5969,7 @@ Here's a list of public Fediverse services.
 | `doctors4covidethics.org` | No |
 | `docviper.de` | No |
 | `dodam.io` | Yes |
+| `dodgy.download` | No |
 | `dodsorf.as` | No |
 | `doenietzomoeilijk.nl` | No |
 | `doern.tech` | No |
@@ -10308,6 +10312,7 @@ Here's a list of public Fediverse services.
 | `htbrown.net` | Yes |
 | `htcraft.ml` | Yes |
 | `htcwowdev.com` | No |
+| `html-curiositi.es` | No |
 | `htp.live` | No |
 | `huaren.social` | No |
 | `hubbz.de` | No |
@@ -16567,6 +16572,7 @@ Here's a list of public Fediverse services.
 | `nearly.social` | No |
 | `neat.computer` | Yes |
 | `neatidea.net` | No |
+| `neb.host` | No |
 | `nebbia.fail` | No |
 | `nebula.moe` | Yes |
 | `nebulon.de` | No |
@@ -16903,6 +16909,7 @@ Here's a list of public Fediverse services.
 | `nicfab.it` | No |
 | `nicheosala.xyz` | No |
 | `nichijou.dev` | No |
+| `nicholson.is` | No |
 | `nicholson.social` | Yes |
 | `nickey.ru` | Yes |
 | `nickgreenbank.com` | No |
@@ -21882,6 +21889,7 @@ Here's a list of public Fediverse services.
 | `sick.social` | Yes |
 | `sicknet.xyz` | Yes |
 | `sickstream.net` | No |
+| `sid500.com` | No |
 | `side-ways.net` | No |
 | `sidekek.ml` | No |
 | `sideno.eu` | No |
@@ -21965,6 +21973,7 @@ Here's a list of public Fediverse services.
 | `simonwgill.com` | No |
 | `simonwillison.net` | Yes |
 | `simounet.net` | No |
+| `simplefinances.net` | No |
 | `simplefinances.us` | No |
 | `simpleguy.net` | No |
 | `simplesi.net` | No |
@@ -24237,6 +24246,7 @@ Here's a list of public Fediverse services.
 | `this-is-epic.space` | Yes |
 | `thisco.de` | No |
 | `thisdevfucks.com` | No |
+| `thisgay.earth` | No |
 | `thisisgoodcontent.com` | Yes |
 | `thisishowidontdisappear.com` | No |
 | `thisisjoes.site` | No |
@@ -27334,6 +27344,7 @@ Here's a list of public Fediverse services.
 | `yovm.com` | No |
 | `yowapeda.me` | No |
 | `yoyo.org` | No |
+| `yp.to` | No |
 | `ypolis.net` | No |
 | `ypy.ch` | No |
 | `yqmmm.site` | No |
@@ -27718,8 +27729,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,881 |
-| Normal | 21,794 |
+| Cloudflare | 5,882 |
+| Normal | 21,804 |
 
 
-### 21.3% of public Fediverse services are using Cloudflare.
+### 21.2% of public Fediverse services are using Cloudflare.
