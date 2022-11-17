@@ -16100,6 +16100,7 @@ Here's a list of public Fediverse services.
 | `mtlynch.io` | No |
 | `mtndevelopment.com` | No |
 | `mtrichardson.com` | No |
+| `mttv.it` | No |
 | `mtu7.com` | No |
 | `mtwerk.com` | No |
 | `mtxyz.me` | No |
@@ -27737,7 +27738,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,886 |
-| Normal | 21,807 |
+| Normal | 21,808 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
