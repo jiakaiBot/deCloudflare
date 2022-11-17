@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,947 |
+| com | 3,948 |
 | net | 2,131 |
-| social | 2,022 |
+| social | 2,023 |
 | org | 1,511 |
 | de | 1,408 |
 
@@ -12112,6 +12112,7 @@ Here's a list of public Fediverse services.
 | `keysmash.xyz` | No |
 | `keystroke.social` | No |
 | `kf0are.net` | No |
+| `kf7k.com` | Yes |
 | `kfem.cat` | No |
 | `kfitz.info` | No |
 | `kghorvath.com` | Yes |
@@ -26206,6 +26207,7 @@ Here's a list of public Fediverse services.
 | `warc.space` | No |
 | `wardenburg.social` | No |
 | `wardenbypass.tk` | No |
+| `warehouse8.social` | No |
 | `warhammer.social` | No |
 | `wario.party` | No |
 | `warkr.me` | No |
@@ -27730,8 +27732,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,883 |
-| Normal | 21,804 |
+| Cloudflare | 5,884 |
+| Normal | 21,805 |
 
 
-### 21.2% of public Fediverse services are using Cloudflare.
+### 21.3% of public Fediverse services are using Cloudflare.
