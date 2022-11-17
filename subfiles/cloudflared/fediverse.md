@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,970 |
-| net | 2,138 |
-| social | 2,041 |
+| com | 3,971 |
+| net | 2,139 |
+| social | 2,042 |
 | org | 1,517 |
 | de | 1,416 |
 
@@ -2558,7 +2558,7 @@ Here's a list of public Fediverse services.
 | `bilimma.com` | Yes |
 | `bilincakisi.com` | Yes |
 | `billante.com` | Yes |
-| `billbennett.co.nz` | No |
+| `billbennett.co.nz` | Yes |
 | `billy-brown.net` | No |
 | `billyb.org` | No |
 | `billybradley.uk` | No |
@@ -2733,6 +2733,7 @@ Here's a list of public Fediverse services.
 | `bladerunner.social` | No |
 | `bladion.de` | No |
 | `blaha.me` | Yes |
+| `blahaj.eu` | No |
 | `blahaj.social` | Yes |
 | `blahut.tech` | Yes |
 | `blaise.ca` | No |
@@ -10642,7 +10643,7 @@ Here's a list of public Fediverse services.
 | `ihobby.org` | No |
 | `ii.md` | No |
 | `iim.gay` | No |
-| `ijaron.life` | No |
+| `ijaron.life` | Yes |
 | `ijn-dd.nl` | No |
 | `ijs01140.cf` | Yes |
 | `ijs01140.com` | Yes |
@@ -10849,6 +10850,7 @@ Here's a list of public Fediverse services.
 | `infsea.com` | No |
 | `ingalex.net` | No |
 | `ingeechat.party` | Yes |
+| `ingenesis.net` | No |
 | `inggrismantap.my.id` | No |
 | `ingmar.me` | No |
 | `ingobernable.net` | No |
@@ -13051,6 +13053,7 @@ Here's a list of public Fediverse services.
 | `leftism.su` | No |
 | `leftist.network` | No |
 | `leftlibertarian.club` | Yes |
+| `leftodon.social` | No |
 | `leftreality.com` | No |
 | `lefty.social` | No |
 | `leftychan.net` | Yes |
@@ -15247,6 +15250,7 @@ Here's a list of public Fediverse services.
 | `mhaak.de` | No |
 | `mhc.social` | No |
 | `mhdp.me` | No |
+| `mhemeryck.com` | No |
 | `mhserver.xyz` | No |
 | `mhtube.de` | No |
 | `mhz.social` | No |
@@ -15919,6 +15923,7 @@ Here's a list of public Fediverse services.
 | `motorsport.org.uk` | Yes |
 | `motorsports.social` | No |
 | `motuhake.xyz` | No |
+| `mou-da.me` | No |
 | `mouchkine.fr` | No |
 | `mouf.net` | No |
 | `moul.re` | No |
@@ -23979,6 +23984,7 @@ Here's a list of public Fediverse services.
 | `testitfor.me` | No |
 | `tetaneutral.net` | No |
 | `tetragir.com` | No |
+| `tetrarch.co` | Yes |
 | `tetrisfreak.org` | No |
 | `tetsugaku.place` | No |
 | `tetsumaki.net` | No |
@@ -27862,8 +27868,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,921 |
-| Normal | 21,898 |
+| Cloudflare | 5,924 |
+| Normal | 21,901 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
