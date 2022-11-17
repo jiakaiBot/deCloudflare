@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,949 |
 | net | 2,131 |
-| social | 2,023 |
+| social | 2,024 |
 | org | 1,511 |
 | de | 1,408 |
 
@@ -4056,6 +4056,7 @@ Here's a list of public Fediverse services.
 | `cityfellas.com` | Yes |
 | `cityofchicago.live` | No |
 | `cityrun.in` | No |
+| `civilians.social` | No |
 | `civilitas.io` | Yes |
 | `civilposter.club` | No |
 | `civiq.social` | Yes |
@@ -27738,7 +27739,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,886 |
-| Normal | 21,808 |
+| Normal | 21,809 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
