@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,937 |
-| net | 2,123 |
+| net | 2,124 |
 | social | 2,016 |
 | org | 1,510 |
-| de | 1,405 |
+| de | 1,406 |
 
 
 - Mastodon, Pleroma, etc
@@ -1887,6 +1887,7 @@ Here's a list of public Fediverse services.
 | `averly.me` | No |
 | `avery-weir.net` | No |
 | `avery.cafe` | No |
+| `avery.garden` | No |
 | `averythefurry.com` | No |
 | `avfig.com` | No |
 | `avian.space` | Yes |
@@ -9530,6 +9531,7 @@ Here's a list of public Fediverse services.
 | `hackplayers.com` | No |
 | `hackrc.dev` | Yes |
 | `hackret.com` | Yes |
+| `hacks.fi` | Yes |
 | `hacks.wiki` | No |
 | `hacksaw.space` | No |
 | `hacksrus.xyz` | Yes |
@@ -15941,7 +15943,7 @@ Here's a list of public Fediverse services.
 | `mstdn.art` | No |
 | `mstdn.at` | No |
 | `mstdn.beer` | No |
-| `mstdn.biz` | Yes |
+| `mstdn.biz` | No |
 | `mstdn.blue` | No |
 | `mstdn.ca` | Yes |
 | `mstdn.cafe` | No |
@@ -20035,6 +20037,7 @@ Here's a list of public Fediverse services.
 | `rando.social` | No |
 | `rando.systems` | Yes |
 | `random.systems` | No |
+| `random101.net` | Yes |
 | `randombits.host` | No |
 | `randomcat.org` | No |
 | `randomchatss.xyz` | No |
@@ -21230,6 +21233,7 @@ Here's a list of public Fediverse services.
 | `schau.nl` | Yes |
 | `schaumburg.social` | No |
 | `scheid.tech` | No |
+| `scheissekonfiguriert.de` | No |
 | `schelling.pt` | No |
 | `schelmholtz.de` | Yes |
 | `schemacs.com` | No |
@@ -27672,8 +27676,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,865 |
-| Normal | 21,764 |
+| Cloudflare | 5,866 |
+| Normal | 21,767 |
 
 
 ### 21.2% of public Fediverse services are using Cloudflare.
