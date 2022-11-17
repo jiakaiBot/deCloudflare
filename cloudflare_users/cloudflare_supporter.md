@@ -10778,6 +10778,7 @@ Do not create new issue or we will close it as duplicate.
 | [yelinht56868829@twitter](https://twitter.com/yelinht56868829/status/1391396872762269697) | advertise |
 | [yellowapple64@twitter](https://twitter.com/yellowapple64/status/1381870684750499840) | advertise |
 | [yellow_cute1912@twitter](https://twitter.com/yellow_cute1912/status/1385865689286676482) | advertise |
+| [yellyoshua@twitter](https://twitter.com/yellyoshua/status/1593073934274285569) | advertise |
 | [YeMarn47754587@twitter](https://twitter.com/YeMarn47754587/status/1390341861118599168) | advertise |
 | [yemenpridee2@twitter](https://twitter.com/yemenpridee2/status/1479099696681570307) | advertise |
 | [yemin971@twitter](https://twitter.com/yemin971/status/1393180804126101506) | advertise |
