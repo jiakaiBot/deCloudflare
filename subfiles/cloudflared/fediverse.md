@@ -3433,6 +3433,7 @@ Here's a list of public Fediverse services.
 | `calavere.me` | No |
 | `calbasi.net` | No |
 | `calc.news` | Yes |
+| `calckey.cloud` | No |
 | `calculate-linux.org` | No |
 | `calculate.social` | No |
 | `calculator29.com` | No |
@@ -27368,6 +27369,7 @@ Here's a list of public Fediverse services.
 | `yellowkeycard.net` | No |
 | `yellowmustard.club` | No |
 | `yelvington.com` | No |
+| `yeoldenerds.online` | No |
 | `yeri.be` | Yes |
 | `yerp.io` | Yes |
 | `yesand.community` | No |
@@ -27869,7 +27871,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,924 |
-| Normal | 21,901 |
+| Normal | 21,903 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
