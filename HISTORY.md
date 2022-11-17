@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-18: [VIE (Vienna) on 2022-11-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/brrz1dxz8q8m)
 - 2022-11-22: [MRS (Marseille) on 2022-11-22](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1g87nssbkr3z)
 - 2022-11-17: [Zaraz issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/rzz0q91ymvn9)
 - 2022-11-18: [SFO (San Francisco) on 2022-11-18](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/np1phvm47mxm)
