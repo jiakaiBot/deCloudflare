@@ -44,6 +44,7 @@ Here's a list of public Matrix services.
 | matrix.chatwave.org | No |
 | chrrreeeeesss.com | No |
 | club1.fr | No |
+| matrix-client.comm.cx | Yes |
 | matrix.community.rs | Yes |
 | converser.eu | No |
 | matrix.crossbach.de | No |
@@ -59,6 +60,7 @@ Here's a list of public Matrix services.
 | matrix.freiburg.social | No |
 | freitrix.de | No |
 | matrix.fsfe.org | No |
+| fulda.social | No |
 | g24.at | No |
 | matrix.gemeinsam.jetzt | No |
 | ggc-project.de | Yes |
@@ -74,6 +76,7 @@ Here's a list of public Matrix services.
 | inetd.xyz | No |
 | matrix.jonasled.de | Yes |
 | junta.pl | No |
+| chat.librem.one | No |
 | matrix.libreon.fr | No |
 | matrix.llamarific.social | No |
 | lugnsk.org | No |
@@ -94,7 +97,6 @@ Here's a list of public Matrix services.
 | matrix.pikaviestin.fi | No |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
-| privex.io | Yes |
 | matrix.pub.solar | No |
 | matrix.qoto.org | No |
 | radiowarnerd.org | No |
@@ -106,7 +108,7 @@ Here's a list of public Matrix services.
 | socialnetwork24.com | No |
 | matrix.studichat.de | No |
 | synod.im | No |
-| tchncs.de | No |
+| matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
 | matrix.tedomum.net | No |
 | the-apothecary.club | No |
@@ -127,7 +129,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 17 |
-| Normal | 82 |
+| Normal | 84 |
 
 
-### 17.2% of public Matrix services are using Cloudflare.
+### 16.8% of public Matrix services are using Cloudflare.
