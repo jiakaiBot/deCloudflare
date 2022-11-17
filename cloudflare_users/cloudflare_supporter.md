@@ -2326,6 +2326,7 @@ Do not create new issue or we will close it as duplicate.
 | [doatmang3000@twitter](https://twitter.com/doatmang3000/status/1404433092757000194) | advertise |
 | [DoctorVadarWho@twitter](https://twitter.com/DoctorVadarWho/status/1504056932218568704) | advertise |
 | [doggiesflix@twitter](https://twitter.com/doggiesflix/status/1398852820250497030) | advertise |
+| [doggo_cowboy@twitter](https://twitter.com/doggo_cowboy/status/1593107308296695808) | advertise |
 | [DogKill76275871@twitter](https://twitter.com/DogKill76275871/status/1532563663608942593) | advertise |
 | [Dogppppppppppp1@twitter](https://twitter.com/Dogppppppppppp1/status/1552803001701904384) | advertise |
 | [dogukantansuk@twitter](https://twitter.com/dogukantansuk/status/1400714321055858689) | advertise |
@@ -2881,6 +2882,7 @@ Do not create new issue or we will close it as duplicate.
 | [FXhkv@twitter](https://twitter.com/FXhkv/status/1395869051964985347) | advertise |
 | [fxk@twitter](https://twitter.com/fxk/status/1576773129568890880) | advertise |
 | [fyhao@twitter](https://twitter.com/fyhao/status/1427551252964016135) | advertise |
+| [FykzKallu@twitter](https://twitter.com/FykzKallu/status/1593252649859620865) | advertise |
 | [fyrman24@twitter](https://twitter.com/fyrman24/status/1541156750748942347) | advertise |
 | [FZLawAssociates@twitter](https://twitter.com/FZLawAssociates/status/1392177594183860226) | advertise |
 | [fzxenar@twitter](https://twitter.com/fzxenar/status/1478967657407795207) | advertise |
@@ -5941,6 +5943,7 @@ Do not create new issue or we will close it as duplicate.
 | [mehdihollywood1@twitter](https://twitter.com/mehdihollywood1/status/1482830204322078723) | advertise |
 | [mehdisoltani82@twitter](https://twitter.com/mehdisoltani82/status/1577200075591122944) | advertise |
 | [mehedibs@twitter](https://twitter.com/mehedibs/status/1447465601509642240) | advertise |
+| [mehergan1@twitter](https://twitter.com/mehergan1/status/1593244749204377600) | advertise |
 | [mehnatkashkisan@twitter](https://twitter.com/mehnatkashkisan/status/1561987721697996800) | advertise |
 | [MehrabH95891991@twitter](https://twitter.com/MehrabH95891991/status/1395810158475845632) | advertise |
 | [Mehrabjan123@twitter](https://twitter.com/Mehrabjan123/status/1394097749604409344) | advertise |
@@ -6068,6 +6071,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinderManiac@twitter](https://twitter.com/MinderManiac/status/1555393267469914112) | advertise |
 | [mindin24@twitter](https://twitter.com/mindin24/status/1584726572426088448) | advertise |
 | [Minecraftindon6@twitter](https://twitter.com/Minecraftindon6/status/1475411079098355713) | advertise |
+| [MineeChoice@twitter](https://twitter.com/MineeChoice/status/1593085058113409024) | advertise |
 | [Minemu@twitter](https://twitter.com/Minemu/status/1421686937522348036) | advertise |
 | [MingMin02597486@twitter](https://twitter.com/MingMin02597486/status/1564671348097527808) | advertise |
 | [Minh1717@twitter](https://twitter.com/Minh1717/status/1401879124075892736) | advertise |
