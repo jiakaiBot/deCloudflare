@@ -3588,7 +3588,7 @@ Here's a list of public Fediverse services.
 | `catgirl.fr` | No |
 | `catgirl.icu` | No |
 | `catgirl.life` | No |
-| `catgirl.party` | Yes |
+| `catgirl.party` | No |
 | `catgirl.science` | No |
 | `catgirl.solutions` | No |
 | `catgirl.space` | Yes |
@@ -7470,7 +7470,7 @@ Here's a list of public Fediverse services.
 | `feditoxos.eu` | No |
 | `feditrends.live` | Yes |
 | `feditube.com` | No |
-| `fediuni.xyz` | Yes |
+| `fediuni.xyz` | No |
 | `fedive.rs` | No |
 | `fediver.de` | No |
 | `fediver.se` | No |
@@ -9742,7 +9742,7 @@ Here's a list of public Fediverse services.
 | `hazelspace.tk` | No |
 | `hccp.org` | No |
 | `hci.social` | No |
-| `hcj.sh` | No |
+| `hcj.sh` | Yes |
 | `hckr.no` | No |
 | `hcommons.social` | No |
 | `hcxp.co` | No |
@@ -10395,6 +10395,7 @@ Here's a list of public Fediverse services.
 | `hype.city` | No |
 | `hyper.dev` | No |
 | `hyperborea.org` | No |
+| `hyperboreal.zone` | No |
 | `hypercute.eu` | No |
 | `hyperfreedom.org` | No |
 | `hyperion.social` | Yes |
@@ -23955,6 +23956,7 @@ Here's a list of public Fediverse services.
 | `theepicblock.nl` | No |
 | `thefamilycloud.org` | No |
 | `thefederation.net` | No |
+| `thefediverse.ca` | No |
 | `theferret.social` | No |
 | `thefire.work` | Yes |
 | `thefishcrow.com` | No |
@@ -27676,8 +27678,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,866 |
-| Normal | 21,767 |
+| Cloudflare | 5,865 |
+| Normal | 21,770 |
 
 
 ### 21.2% of public Fediverse services are using Cloudflare.
