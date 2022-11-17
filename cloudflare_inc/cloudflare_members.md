@@ -456,6 +456,7 @@ Or is this merely a case of simple modesty?
 | Dani Grant | Product Manager |  |
 | Dan Johns | Employee |  |
 | Dao Quang Minh | Employee |  |
+| Dario Piotrowicz | Employee | |
 | Darius Jankauskas | Employee | |
 | Darren Remington | Employee |  |
 | Darryl Cody Vida | Front Desk |  |
@@ -613,6 +614,7 @@ Or is this merely a case of simple modesty?
 | Gabriel da Silva | Employee |  |
 | Gabriele Gabbi Fisher | Systems Engineer, Crypto Team |  |
 | Gabriel Gabor | Employee |  |
+| Gabriel Massadas | Employee | |
 | Gagan Kumar | Employee |  |
 | Garret Brown | Technical Support Engineer |  |
 | Garrett Galow | Product |  |
@@ -1194,6 +1196,7 @@ Or is this merely a case of simple modesty?
 | Michael Vanderwater | Systems Engineer |  |
 | Michael Veramo | Enablement, Learning and Development |  |
 | Michael Vigil | Accountant |  |
+| Michael Wolf | Employee | |
 | Michal Melewski | Employee | |
 | Michel Bamps | Employee |  |
 | Michelle Brown | Accountant |  |
@@ -1302,6 +1305,7 @@ Or is this merely a case of simple modesty?
 | Noelle Gotthardt | Employee | |
 | Norm Slaught | Customer Development |  |
 | Nuno Diegues | Employee | |
+| Nuno Pereira | Employee | |
 | Obinna Ekwuno | Employee | |
 | Olafur Gudmundsson | Systems Engineer |  |
 | Olafur Guodmundsson | Systems Engineer | https://twitter.com/OGudm<br>https://www.linkedin.com/in/olafur-gudmundsson-6a88716<br>https://github.com/ogud |
