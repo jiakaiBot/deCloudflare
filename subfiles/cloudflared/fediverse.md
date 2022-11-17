@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,968 |
-| net | 2,137 |
-| social | 2,039 |
+| com | 3,970 |
+| net | 2,138 |
+| social | 2,041 |
 | org | 1,517 |
-| de | 1,415 |
+| de | 1,416 |
 
 
 - Mastodon, Pleroma, etc
@@ -2545,6 +2545,7 @@ Here's a list of public Fediverse services.
 | `bikegraz.at` | No |
 | `bikejam.social` | No |
 | `bikelog.ru` | No |
+| `bikepacking.social` | No |
 | `bikesare.cool` | Yes |
 | `bikeshed.party` | No |
 | `bilb.info` | Yes |
@@ -4328,6 +4329,7 @@ Here's a list of public Fediverse services.
 | `cold.solar` | No |
 | `coldness.co` | No |
 | `coldrick.me.uk` | Yes |
+| `cole.mn` | Yes |
 | `colean.cc` | No |
 | `colectif.de` | No |
 | `colectiv.app` | No |
@@ -4750,6 +4752,7 @@ Here's a list of public Fediverse services.
 | `crowded.group` | No |
 | `crowdedwood.com` | No |
 | `crowdersoup.com` | No |
+| `crowerailwren.com` | No |
 | `crowesnest.io` | No |
 | `crowleyclub.com` | No |
 | `crownet.eu` | No |
@@ -9976,6 +9979,7 @@ Here's a list of public Fediverse services.
 | `herrkochhatrecht.de` | No |
 | `herrliberg.online` | No |
 | `herrmontag.de` | No |
+| `herrspitau.de` | No |
 | `herrtxbias.net` | Yes |
 | `hersecret.fi` | Yes |
 | `herthafans.de` | No |
@@ -10729,6 +10733,7 @@ Here's a list of public Fediverse services.
 | `imperial.social` | No |
 | `imperialba.se` | No |
 | `impossiblepeople.co.kr` | No |
+| `improv.social` | No |
 | `improved-madness.de` | No |
 | `imrich.net` | No |
 | `imsorryforsayingpogchampafteryounuttedin.me` | No |
@@ -11577,6 +11582,7 @@ Here's a list of public Fediverse services.
 | `johanv.xyz` | No |
 | `johle.online` | No |
 | `john-livingston.fr` | No |
+| `john-norris.net` | No |
 | `john.town` | Yes |
 | `johnassel.de` | No |
 | `johnconway.art` | Yes |
@@ -14911,6 +14917,7 @@ Here's a list of public Fediverse services.
 | `mccallig.com` | No |
 | `mcclear.net` | Yes |
 | `mcd.dk` | No |
+| `mcdade.co` | Yes |
 | `mcdev.space` | No |
 | `mcdev.tech` | No |
 | `mcewan.io` | No |
@@ -17684,6 +17691,7 @@ Here's a list of public Fediverse services.
 | `ocsf.in` | No |
 | `octaplex.net` | No |
 | `octo.im` | No |
+| `octobot.space` | No |
 | `octodon.social` | No |
 | `octosrv.me` | Yes |
 | `octt.eu.org` | No |
@@ -27021,6 +27029,7 @@ Here's a list of public Fediverse services.
 | `xdavidwu.link` | No |
 | `xdefrag.dev` | No |
 | `xdest.com` | No |
+| `xdncs.com` | Yes |
 | `xeac.org` | No |
 | `xech.io` | No |
 | `xeebion.de` | No |
@@ -27853,8 +27862,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,918 |
-| Normal | 21,892 |
+| Cloudflare | 5,921 |
+| Normal | 21,898 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
