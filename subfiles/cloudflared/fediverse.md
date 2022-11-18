@@ -6660,6 +6660,7 @@ Here's a list of public Fediverse services.
 | `eersteblik.nl` | No |
 | `eertu.be` | No |
 | `eesti.zone` | No |
+| `ef.gg` | No |
 | `ef67daisuki.club` | No |
 | `ef7.cc` | Yes |
 | `efdn.club` | No |
@@ -15252,7 +15253,7 @@ Here's a list of public Fediverse services.
 | `meitendo.space` | No |
 | `mejiaforcontroller.com` | Yes |
 | `mel.sh` | No |
-| `mel.social` | No |
+| `mel.social` | Yes |
 | `mela.de` | No |
 | `melalandia.tk` | No |
 | `melancho.ly` | No |
@@ -28101,6 +28102,7 @@ Here's a list of public Fediverse services.
 | `zhoal.pw` | Yes |
 | `zholnay.name` | Yes |
 | `zhub.link` | No |
+| `zia.io` | No |
 | `ziabo.ga` | No |
 | `ziazoo.co.uk` | No |
 | `ziez.eu` | No |
@@ -28246,8 +28248,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,036 |
-| Normal | 22,167 |
+| Cloudflare | 6,037 |
+| Normal | 22,168 |
 
 
 ### 21.4% of public Fediverse services are using Cloudflare.
