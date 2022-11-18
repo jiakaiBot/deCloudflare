@@ -8488,7 +8488,7 @@ Here's a list of public Fediverse services.
 | `furred.tv` | No |
 | `furria.net` | No |
 | `furries.club` | No |
-| `furries.online` | No |
+| `furries.online` | Yes |
 | `furries.world` | No |
 | `furry-elephant.news` | No |
 | `furry.city` | No |
@@ -14116,6 +14116,7 @@ Here's a list of public Fediverse services.
 | `magenta.click` | Yes |
 | `magex.hu` | No |
 | `magi.systems` | Yes |
+| `magic.win` | No |
 | `magicalgirl.party` | No |
 | `magically.cc` | No |
 | `magicalmirro.red` | Yes |
@@ -14185,6 +14186,7 @@ Here's a list of public Fediverse services.
 | `makegames.social` | No |
 | `makemysarcophagus.com` | No |
 | `makerdon.org` | No |
+| `makerforce.io` | No |
 | `makerforums.info` | No |
 | `makersociety.org` | No |
 | `makerspace.au` | No |
@@ -27954,8 +27956,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,944 |
-| Normal | 21,967 |
+| Cloudflare | 5,945 |
+| Normal | 21,968 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
