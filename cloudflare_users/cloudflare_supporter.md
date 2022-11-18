@@ -10534,6 +10534,7 @@ Do not create new issue or we will close it as duplicate.
 | [wilyourememberr@twitter](https://twitter.com/wilyourememberr/status/1491422233499430914) | advertise |
 | [win4_zin@twitter](https://twitter.com/win4_zin/status/1385173217396940806) | advertise |
 | [win55818@twitter](https://twitter.com/win55818/status/1398542432480886787) | advertise |
+| [WINBET58@twitter](https://twitter.com/WINBET58/status/1593474997963542528) | advertise |
 | [WinBo30180694@twitter](https://twitter.com/WinBo30180694/status/1390247886076579840) | advertise |
 | [WinBo67205922@twitter](https://twitter.com/WinBo67205922/status/1562785250656210944) | advertise |
 | [WinchWebsites@twitter](https://twitter.com/WinchWebsites/status/1440532786725605386) | advertise |
