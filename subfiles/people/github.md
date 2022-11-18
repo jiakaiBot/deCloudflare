@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [FEAT: Access over Cloudflare Tunnel](https://github.com/beekeeper-studio/beekeeper-studio/issues/1434)
 - [Prevent heavy ads crypto currency mining](https://github.com/Floorp-Projects/Floorp/issues/132)
 - [Krunker io hack](https://github.com/virshhh/emredenizkaradeniz/issues/3)
 - [CloudFlare Increased 1104 Errors](https://github.com/MatBenfield/news/issues/5964)
