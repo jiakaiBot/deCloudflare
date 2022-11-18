@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,987 |
 | net | 2,147 |
-| social | 2,065 |
+| social | 2,067 |
 | org | 1,528 |
-| de | 1,423 |
+| de | 1,424 |
 
 
 - Mastodon, Pleroma, etc
@@ -3284,6 +3284,7 @@ Here's a list of public Fediverse services.
 | `bulge.exposed` | Yes |
 | `bulker.org` | No |
 | `bullaren.cloud` | No |
+| `bullcity.space` | Yes |
 | `bulletsender.com` | No |
 | `bullgit.party` | No |
 | `bulme.at` | No |
@@ -6700,6 +6701,7 @@ Here's a list of public Fediverse services.
 | `electricrequiem.com` | No |
 | `electro.social` | No |
 | `electronblueberry.xyz` | No |
+| `electroncash.de` | No |
 | `electronica.art` | Yes |
 | `electronicmusic.social` | No |
 | `electronicping.net` | No |
@@ -10586,6 +10588,7 @@ Here's a list of public Fediverse services.
 | `ialis.me` | No |
 | `iam.slg.br` | No |
 | `iamalive.digital` | No |
+| `iamanerd.club` | Yes |
 | `iamastodon.gifu.jp` | No |
 | `iametza.com` | No |
 | `iametza.eus` | No |
@@ -11274,6 +11277,7 @@ Here's a list of public Fediverse services.
 | `iwamidon.tech` | No |
 | `iwata.love` | No |
 | `iwatedon.net` | No |
+| `iwcwatches.xyz` | No |
 | `iwentontheinternet.com` | No |
 | `iwh12.jp` | No |
 | `iwillescape.com` | No |
@@ -17123,6 +17127,7 @@ Here's a list of public Fediverse services.
 | `nicwaller.com` | No |
 | `niebling.online` | No |
 | `niederbayern.social` | No |
+| `niederkassel.social` | No |
 | `niederneisen.rocks` | No |
 | `niedersachsen.social` | No |
 | `nieein56.me` | No |
@@ -27618,6 +27623,7 @@ Here's a list of public Fediverse services.
 | `youngroyals.net` | No |
 | `your-storageshare.de` | No |
 | `youre.space` | Yes |
+| `yourhome.social` | No |
 | `yourintrinsicself.com` | No |
 | `yourlife.social` | No |
 | `yournearestbar.com` | Yes |
@@ -28023,8 +28029,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,964 |
-| Normal | 22,016 |
+| Cloudflare | 5,966 |
+| Normal | 22,020 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
