@@ -105,6 +105,7 @@ mufc.queue-it.net
 nimetozkan.com.tr.qmail.com.tr
 pages.questexinfo.com
 qdbrservice.cn
+qgdecolonial.fr
 qpa-p1.qvidian.com
 qr.ae
 qralert.ro
@@ -122,6 +123,7 @@ ticketmasterfr.queue-it.net
 www.client.quickrest.org
 www.contact.qc.lu
 www.customer.quickshipme.com
+www.micuenta.qualive.net
 www.postureocantabro.queverencantabria.es
 www.postureoracinguista.queverencantabria.es
 www.qtaldelivery.com.br
