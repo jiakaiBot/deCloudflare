@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,016 |
-| net | 2,162 |
-| social | 2,109 |
-| org | 1,535 |
+| com | 4,018 |
+| net | 2,163 |
+| social | 2,112 |
+| org | 1,536 |
 | de | 1,431 |
 
 
@@ -1956,6 +1956,7 @@ Here's a list of public Fediverse services.
 | `awoo.fun` | Yes |
 | `awoo.pub` | Yes |
 | `awoo.space` | No |
+| `awoo.su` | Yes |
 | `awoo.world` | Yes |
 | `awoonet.org` | No |
 | `awooo.club` | Yes |
@@ -8756,6 +8757,7 @@ Here's a list of public Fediverse services.
 | `gamerr.cyou` | No |
 | `gamers.exposed` | No |
 | `gamers.social` | No |
+| `gamerscharisma.social` | No |
 | `gamertalk.social` | No |
 | `gamertheory.net` | No |
 | `games-community.xyz` | No |
@@ -8978,6 +8980,7 @@ Here's a list of public Fediverse services.
 | `geno.social` | No |
 | `genomic.social` | No |
 | `genserver.social` | No |
+| `genshin.social` | No |
 | `gensokyo.cloud` | No |
 | `gensokyo.io` | Yes |
 | `gensokyo.social` | No |
@@ -13998,6 +14001,7 @@ Here's a list of public Fediverse services.
 | `lt3.co.za` | No |
 | `ltch.fr` | No |
 | `ltdk.xyz` | No |
+| `ltoi.net` | No |
 | `ltu.social` | No |
 | `lu-rp.net` | Yes |
 | `lua-mu.org` | No |
@@ -14235,6 +14239,7 @@ Here's a list of public Fediverse services.
 | `madeoutofmeat.com` | No |
 | `madfps.social` | No |
 | `madgui.fr` | No |
+| `madhammer.club` | No |
 | `madholi.cc` | No |
 | `madhousebeyond.com` | No |
 | `madiator.com` | Yes |
@@ -15192,6 +15197,7 @@ Here's a list of public Fediverse services.
 | `mediajunkie.com` | No |
 | `mediaoffice-zimmer.de` | No |
 | `mediartodon.net` | No |
+| `mediastodon.com` | Yes |
 | `mediated.eu` | No |
 | `medibubble.org` | No |
 | `medic.cafe` | No |
@@ -17682,6 +17688,7 @@ Here's a list of public Fediverse services.
 | `notworking.review` | No |
 | `nouni.sh` | No |
 | `noupti.me` | No |
+| `noushi.chat` | Yes |
 | `noussommes.org` | No |
 | `nova.community` | Yes |
 | `novababilonia.me` | No |
@@ -20498,6 +20505,7 @@ Here's a list of public Fediverse services.
 | `raph.tv` | No |
 | `raphael-jolivet.name` | No |
 | `raphus.social` | Yes |
+| `rapidblock.org` | No |
 | `rapidsloth.xyz` | No |
 | `raplst.town` | No |
 | `raptnrent.me` | No |
@@ -21033,6 +21041,7 @@ Here's a list of public Fediverse services.
 | `robinsmediateam.dev` | Yes |
 | `roblen.at` | No |
 | `robloxcommunity.social` | No |
+| `robmccoll.com` | No |
 | `robmydobrze.pl` | No |
 | `robmyers.org` | Yes |
 | `roboces.dev` | Yes |
@@ -25989,6 +25998,7 @@ Here's a list of public Fediverse services.
 | `upcast.work` | Yes |
 | `upchur.ch` | No |
 | `updog.no` | Yes |
+| `updog.social` | No |
 | `upho.net` | No |
 | `uplink.fail` | No |
 | `uplink.si` | No |
@@ -26044,6 +26054,7 @@ Here's a list of public Fediverse services.
 | `usamin.cafe` | No |
 | `usan.us` | No |
 | `usans.in` | No |
+| `usbharu.dev` | No |
 | `usedbytes.com` | No |
 | `usedom.social` | No |
 | `useless.one` | No |
@@ -27649,6 +27660,7 @@ Here's a list of public Fediverse services.
 | `yajamon.xyz` | No |
 | `yakiniku.cloud` | No |
 | `yakitamago.info` | No |
+| `yakka.art` | Yes |
 | `yakshed.org` | Yes |
 | `yakult.style` | No |
 | `yakumo.foundation` | Yes |
@@ -28234,8 +28246,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,032 |
-| Normal | 22,159 |
+| Cloudflare | 6,036 |
+| Normal | 22,167 |
 
 
 ### 21.4% of public Fediverse services are using Cloudflare.
