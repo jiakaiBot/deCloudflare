@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 3,982 |
-| net | 2,142 |
-| social | 2,053 |
-| org | 1,522 |
+| com | 3,983 |
+| net | 2,145 |
+| social | 2,054 |
+| org | 1,523 |
 | de | 1,420 |
 
 
@@ -2671,6 +2671,7 @@ Here's a list of public Fediverse services.
 | `bits.social` | No |
 | `bitsammelwanne.de` | No |
 | `bitsandlinux.com` | Yes |
+| `bitsandpixels.dev` | No |
 | `bitseatech.com` | No |
 | `bitsec.org` | No |
 | `bitsof.tech` | No |
@@ -4260,6 +4261,7 @@ Here's a list of public Fediverse services.
 | `cocaineninja.de` | No |
 | `cocao.land` | Yes |
 | `cock.fish` | No |
+| `cockb.ro` | No |
 | `cockworshipper.com` | No |
 | `cocoa.me.uk` | Yes |
 | `cocoa.moe` | No |
@@ -6351,6 +6353,7 @@ Here's a list of public Fediverse services.
 | `dumont.video` | No |
 | `dumpkin.monster` | Yes |
 | `dumpster.social` | Yes |
+| `dun.land` | Yes |
 | `duncancmt.com` | No |
 | `duncanhart.com` | No |
 | `dungeoncrawler.world` | No |
@@ -10697,6 +10700,7 @@ Here's a list of public Fediverse services.
 | `ikcafe.ch` | No |
 | `ikebuku.ro` | Yes |
 | `ikeji.ma` | No |
+| `ikepe.xyz` | Yes |
 | `iklem.fr` | No |
 | `iko.soy` | Yes |
 | `ikx.kr` | Yes |
@@ -10995,6 +10999,7 @@ Here's a list of public Fediverse services.
 | `internaut.club` | No |
 | `internaut.me` | No |
 | `internet-czas-dzialac.pl` | No |
+| `internetofshit.net` | Yes |
 | `internetstuff.xyz` | Yes |
 | `internot.no` | No |
 | `interru.io` | No |
@@ -11264,6 +11269,7 @@ Here's a list of public Fediverse services.
 | `j15r.com` | No |
 | `j4nk.dev` | No |
 | `j621.net` | Yes |
+| `ja-jp.org` | No |
 | `jabb.in` | No |
 | `jabberhead.tk` | No |
 | `jabberwocky.moe` | Yes |
@@ -14625,7 +14631,7 @@ Here's a list of public Fediverse services.
 | `mastodon.gg` | No |
 | `mastodon.green` | No |
 | `mastodon.hamburg` | No |
-| `mastodon.haus` | No |
+| `mastodon.haus` | Yes |
 | `mastodon.hk` | Yes |
 | `mastodon.hockey` | No |
 | `mastodon.host` | No |
@@ -15089,6 +15095,7 @@ Here's a list of public Fediverse services.
 | `meisskey.blue` | Yes |
 | `meisskey.one` | Yes |
 | `meitendo.space` | No |
+| `mejiaforcontroller.com` | Yes |
 | `mel.sh` | No |
 | `mel.social` | No |
 | `mela.de` | No |
@@ -18946,6 +18953,7 @@ Here's a list of public Fediverse services.
 | `piconet.co.uk` | No |
 | `piconic.co` | Yes |
 | `pics.mu` | No |
+| `pictochat.net` | No |
 | `picverse.am` | No |
 | `pid1.sh` | Yes |
 | `pidibi.com` | No |
@@ -20929,6 +20937,7 @@ Here's a list of public Fediverse services.
 | `rooty.fr` | No |
 | `ropable.com` | Yes |
 | `ropo.jp` | No |
+| `rorea.moe` | Yes |
 | `rororo.xyz` | No |
 | `roryprice.me` | No |
 | `roryprice.net` | No |
@@ -22355,6 +22364,7 @@ Here's a list of public Fediverse services.
 | `sliekcasts.com` | No |
 | `slightly.social` | No |
 | `slightlycyberpunk.com` | No |
+| `slikr.net` | No |
 | `slime.global` | No |
 | `slimed.org` | No |
 | `slipcrewprod.fr` | No |
@@ -24404,6 +24414,7 @@ Here's a list of public Fediverse services.
 | `thewired.ml` | No |
 | `thewired.online` | No |
 | `thewired.xyz` | No |
+| `thewired.zone` | Yes |
 | `thewomenintechshow.com` | No |
 | `thexboxcast.co.nz` | Yes |
 | `thexsoft.com` | Yes |
@@ -25203,6 +25214,7 @@ Here's a list of public Fediverse services.
 | `tsuki.cat` | Yes |
 | `tsuki.club` | No |
 | `tsuki.network` | Yes |
+| `tsukihi.moe` | Yes |
 | `tsukimi.club` | Yes |
 | `tsukuba.io` | Yes |
 | `tsukura.net` | No |
@@ -26038,6 +26050,7 @@ Here's a list of public Fediverse services.
 | `vheart.online` | No |
 | `vhome.info` | No |
 | `vhs.social` | No |
+| `vhspace.social` | No |
 | `viajes.social` | No |
 | `vibb.ro` | No |
 | `vibbe.xyz` | No |
@@ -26298,6 +26311,7 @@ Here's a list of public Fediverse services.
 | `vuc.me` | No |
 | `vucica.net` | No |
 | `vudjun.com` | Yes |
+| `vue.land` | No |
 | `vuju.com` | No |
 | `vulcantv.net` | No |
 | `vulgarisation-informatique.fr` | No |
@@ -26410,6 +26424,7 @@ Here's a list of public Fediverse services.
 | `wants.coffee` | No |
 | `wantscuddl.es` | No |
 | `wao.wtf` | No |
+| `wapalta.mobi` | Yes |
 | `wapanafa.org` | No |
 | `wapnitsky.com` | No |
 | `wappie.land` | No |
@@ -27956,8 +27971,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,945 |
-| Normal | 21,968 |
+| Cloudflare | 5,954 |
+| Normal | 21,974 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
