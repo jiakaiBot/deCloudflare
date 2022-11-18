@@ -9050,6 +9050,7 @@ Here's a list of public Fediverse services.
 | `glie.town` | No |
 | `glindr.org` | Yes |
 | `glitch.cx` | Yes |
+| `glitch.lgbt` | No |
 | `glitch.me` | No |
 | `glitch.monster` | No |
 | `glitch.pizza` | Yes |
@@ -20693,6 +20694,7 @@ Here's a list of public Fediverse services.
 | `rivage.tk` | No |
 | `rivals.live` | Yes |
 | `rivals.space` | Yes |
+| `rivendell.cafe` | No |
 | `riverscape.info` | No |
 | `riverside.camp` | No |
 | `riverside.rocks` | Yes |
@@ -27871,7 +27873,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,924 |
-| Normal | 21,903 |
+| Normal | 21,905 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
