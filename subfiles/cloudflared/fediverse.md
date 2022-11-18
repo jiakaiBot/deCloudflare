@@ -14917,6 +14917,7 @@ Here's a list of public Fediverse services.
 | `mauve.moe` | No |
 | `maverick.pt` | No |
 | `maw.best` | No |
+| `maw.land` | No |
 | `maw.moe` | No |
 | `mawa.link` | No |
 | `mawalabs.de` | No |
@@ -20284,7 +20285,7 @@ Here's a list of public Fediverse services.
 | `rapemeat.solutions` | No |
 | `raph.tv` | No |
 | `raphael-jolivet.name` | No |
-| `raphus.social` | No |
+| `raphus.social` | Yes |
 | `rapidsloth.xyz` | No |
 | `raplst.town` | No |
 | `raptnrent.me` | No |
@@ -27950,7 +27951,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,941 |
+| Cloudflare | 5,942 |
 | Normal | 21,966 |
 
 
