@@ -15586,6 +15586,7 @@ Here's a list of public Fediverse services.
 | `mitsukey.cf` | No |
 | `mitsurugi.org` | No |
 | `mittdata.se` | No |
+| `mittelstand.nrw` | No |
 | `mittn.ca` | No |
 | `mituhide.net` | No |
 | `mitzelten.de` | No |
@@ -27874,7 +27875,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,923 |
-| Normal | 21,907 |
+| Normal | 21,908 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
