@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 3,982 |
-| net | 2,141 |
+| net | 2,142 |
 | social | 2,053 |
 | org | 1,522 |
 | de | 1,420 |
@@ -1204,6 +1204,7 @@ Here's a list of public Fediverse services.
 | `andie.club` | No |
 | `andlang.me` | No |
 | `andr3.net` | No |
+| `andr3w.net` | Yes |
 | `andreaskilgus.de` | No |
 | `andreasrohner.at` | No |
 | `andreasvongunten.com` | Yes |
@@ -2609,6 +2610,7 @@ Here's a list of public Fediverse services.
 | `birb.zone` | Yes |
 | `birchgame.org` | No |
 | `bird.band` | No |
+| `bird.website` | No |
 | `birdbox.party` | Yes |
 | `birdcar.dev` | No |
 | `birddon.com` | No |
@@ -20588,7 +20590,7 @@ Here's a list of public Fediverse services.
 | `respublicae.eu` | No |
 | `restart.moe` | No |
 | `restis.de` | No |
-| `restless.systems` | No |
+| `restless.systems` | Yes |
 | `restof.social` | No |
 | `restricted.garden` | No |
 | `retallack.org.uk` | No |
@@ -24650,6 +24652,7 @@ Here's a list of public Fediverse services.
 | `to-tell.tk` | No |
 | `toad-in-the-hole.net` | No |
 | `toad.blue` | No |
+| `toad.city` | No |
 | `toad.social` | No |
 | `toaruhetare.net` | No |
 | `toast.cafe` | No |
@@ -27951,8 +27954,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,942 |
-| Normal | 21,966 |
+| Cloudflare | 5,944 |
+| Normal | 21,967 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
