@@ -6606,6 +6606,7 @@ Do not create new issue or we will close it as duplicate.
 | [naamloser@twitter](https://twitter.com/naamloser/status/1503867812963569666) | advertise |
 | [nabin_ss@twitter](https://twitter.com/nabin_ss/status/1562381057974214657) | advertise |
 | [nadeemshahzad07@twitter](https://twitter.com/nadeemshahzad07/status/1563845130565881856) | advertise |
+| [nadersa66179603@twitter](https://twitter.com/nadersa66179603/status/1593615842314526720) | advertise |
 | [nadiralshaikhly@twitter](https://twitter.com/nadiralshaikhly/status/1554010246917521408) | advertise |
 | [nadi_saint@twitter](https://twitter.com/nadi_saint/status/1396088469584105476) | advertise |
 | [nadxmilbah@twitter](https://twitter.com/nadxmilbah/status/1579652507797979136) | advertise |
