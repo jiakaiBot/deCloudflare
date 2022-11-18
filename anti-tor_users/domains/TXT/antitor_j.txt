@@ -303,6 +303,7 @@ absolute-client-ul-login-rls-vander.jtc.ooo
 ai.justcall.io
 api-gw-test.jazzcash.com.pk
 app-api.jawwy.sa
+app.connect.jllt.com
 att-service.jaky.ru
 auth.jorgui.com
 autodiscover.jindabyneuber.com.au
@@ -344,6 +345,7 @@ jaidurab.com
 jalane.jodymaroni.com
 jalangoldsilver.com
 jalanniemenvesiosuuskunta.fi
+jameshaworth.dev
 jamesmichie.com
 jamespalmeiroblog.com
 jamtrading.jp
@@ -366,13 +368,17 @@ jeparamebelindonesia.com
 jepeuxpasjaimaths.fr
 jerrydaleyplumbing.com
 jessicaredmerski.com
+jeszczenie.pl
+jet-engineering.co.uk
 jetsonhacks.com
 jewish-heritage-europe.eu
+jg-realestate.com
 jhaulinganddelivery.com
 jiaorganic.com
 jibaaksla.com
 jio.nz
 jiocarreirs.co.in
+jkbrickworks.com
 jkoshikko.xyz
 joanganzcooneycenter.org
 joaopedrocanhenha.com
@@ -418,6 +424,7 @@ pre.ads.justpremium.com
 pro.stg.jawaz-essaha.com
 qoh-test.johnstonesupply.com
 r2corona-1.jizokukashien.info
+randomvignettes.jectoons.net
 redirect.jobsearcher.com
 secure.bankofamerica.com.joshuamrapp.com
 seventhgrade.jalankeluar.in
@@ -436,6 +443,8 @@ webdisk.jalanacooper.com
 webdisk.jalanningproductions.com
 www.billi.jacobsbagels.com
 www.billing.jubeaudoin.ca
+www.contoh1.jpwm.online
+www.creditfree.jilislots.co
 www.customerportal.jaxontyres.co.za
 www.embroiderykent.jt-service.co.uk
 www.firebase-auth.jonathan-nadeau.ca
@@ -450,6 +459,7 @@ www.janine-kitzen.com
 www.janosh.hr
 www.jasbusinesssystems.com
 www.jashlinpestcontrol.com.au
+www.jasonclare.com.au
 www.jasoncolavito.com
 www.jaysellssacramento.com
 www.jazzappreciationsociety.com
@@ -459,7 +469,10 @@ www.jccustomservice.com
 www.jean-eric-dj-animation.fr
 www.jejuair.net
 www.jenniferwallet.com
+www.jennyodell.com
 www.jensbilling.se
+www.jet-engineering.co.uk
+www.jewelstonesucurity.co.uk
 www.jga-web.com
 www.jimfersecurity.co
 www.jimmeruk.com
@@ -475,6 +488,7 @@ www.johnston.digital
 www.jokes-saatio.fi
 www.jorgestreeservice.com
 www.jornalmapa.pt
+www.josephboulet1gmail.com
 www.josereuvekamp.nl
 www.joyouscoding.com
 www.jpwservice.com
@@ -485,6 +499,7 @@ www.jtekt.co.jp
 www.jug-zueri.ch
 www.juliettekeating.net
 www.jumblebee.co.uk
+www.jungblut-onderhoud.nl
 www.jussantacruz.gob.ar
 www.justice.govt.nz
 www.jwing.net
