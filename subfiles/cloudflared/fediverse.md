@@ -2598,7 +2598,7 @@ Here's a list of public Fediverse services.
 | `bipolarsupportgroup.net` | Yes |
 | `birb.haus` | No |
 | `birb.site` | No |
-| `birb.social` | Yes |
+| `birb.social` | No |
 | `birb.space` | No |
 | `birb.town` | No |
 | `birb.zone` | Yes |
@@ -8671,6 +8671,7 @@ Here's a list of public Fediverse services.
 | `garapagos.online` | Yes |
 | `garate.email` | No |
 | `garbage-juice.com` | No |
+| `garbagefire.io` | No |
 | `gardeludwig.fr` | No |
 | `garden-life.org` | No |
 | `gardensoul.org` | No |
@@ -13916,7 +13917,7 @@ Here's a list of public Fediverse services.
 | `lustigetiernamenbubble.de` | Yes |
 | `luther.social` | No |
 | `lutoma.org` | No |
-| `luttyz.ml` | No |
+| `luttyz.ml` | Yes |
 | `lutz.im` | No |
 | `luuk180.dev` | Yes |
 | `luvdon.cc` | No |
@@ -17278,7 +17279,7 @@ Here's a list of public Fediverse services.
 | `nojober.work` | No |
 | `nokes.name` | No |
 | `noko1024.net` | No |
-| `nokok.net` | Yes |
+| `nokok.net` | No |
 | `nokotaro.com` | Yes |
 | `nokotaro.work` | Yes |
 | `nolanlawson.com` | No |
@@ -27872,8 +27873,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 5,924 |
-| Normal | 21,905 |
+| Cloudflare | 5,923 |
+| Normal | 21,907 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
