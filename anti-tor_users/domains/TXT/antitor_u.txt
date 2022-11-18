@@ -315,6 +315,7 @@ app.uob.com.sg
 apps.uniprime.com.br
 avanan.url-protection.com
 b2bapi.usaa.com
+beactive2.usask.ca
 bienestarpsicosocial.izt.uam.mx
 bigweb.unifr.ch
 blockchain-explorer.smart-transport.fujitsu.ubloquity.tech
@@ -322,8 +323,11 @@ brujo.updateperu.com
 bsdynow.cruzwwa.usermd.net
 californiadepartmentofmotorvehicles.updatemyprofile.com
 campusvirtual.urosario.edu.co
+canvas.utwente.nl
 cas.uditracker.biz
+cev.uhhospitals.org
 cful.letras.ulisboa.pt
+click.news.uhcmedicaresolutions.com
 click.outreach.usac.org
 click.usapark-enews.com
 collections.museums.ua.edu
@@ -344,8 +348,10 @@ extranet.upmuruguay.com.uy
 extranetslam.urops-prevention.fr
 files.usertygflkmd.tk
 forum.umbandaeucurto.com
+gpu.unimedmineiros.coop.br
 guiaempresas.universia.es
 homedav.unifr.ch
+i-api.uni-sofia.bg
 ieim.uqam.ca
 ivsapi-cat.usps.gov
 japan.dev.sumitomo-rearchitecture.undpaul.work
@@ -364,6 +370,7 @@ mybcabisnis-api.u-appspecto.com
 mybcabisnis.u-appspecto.com
 o.upgradegroup.com
 obikn.u-appspecto.com
+onevideosync.uplynk.com
 pay.uralairlines.ru
 paypal0.uber.space
 piloto.universo.pt
@@ -371,6 +378,7 @@ pra.u.com.my
 proxy.bms.dev.unblu-test.com
 pub.jefs.uscourts.gov
 public.cs.uni-koeln.de
+redactie.uat-vlaanderen.be
 services.usps.com
 signon-oqa.ual.com
 sp02.uidaho.cloud
@@ -410,6 +418,7 @@ unibelts.co.za
 unicornify.cloud
 unimastin.com
 unipower.se
+uniserv-federation.com
 unitransservice.com
 uniusclaws.com
 universal-studios-orlando-tickets.com
@@ -419,13 +428,16 @@ unxinvest.com
 up.unum.pl
 uparjon.in
 update-tarif-transaksi-bank.my.id
+update48451.xyz
 updatecom.co
 updatehargaemas.com
 uplangreo.es
 ups-delivery1.ca
 upscan.cd
+upswellpublishing.com
 urbansafety.ro
 urbanzero.city
+urgenthelpers.com
 uriahheep-discography.com
 urlynet.com
 uruguaycardioseguro.com
@@ -449,6 +461,7 @@ utilajeinchiriate.ro
 uviworld.in
 verifycertificate.ullashi.com
 web.usdirectexpress.com
+widgets.uat-vlaanderen.be
 wstoreapps.uwaterloo.ca
 www.898.az.unikalservice.com
 www.authdove.unitedecom.com
