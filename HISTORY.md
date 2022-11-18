@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-18: [Network Performance Issues in Rio de Janeiro, Brazil (GIG) area.](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5rwyp938zj12)
 - 2022-11-23: [AMS (Amsterdam) on 2022-11-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7368vk08cqm0)
 - 2022-11-21: [ARN (Stockholm) on 2022-11-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/h3xqtd4mz2nk)
 - 2022-11-17: [Increased 1104 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0506lb2dm9gz)
