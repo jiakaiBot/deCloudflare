@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Prevent heavy ads crypto currency mining](https://github.com/Floorp-Projects/Floorp/issues/132)
 - [Krunker io hack](https://github.com/virshhh/emredenizkaradeniz/issues/3)
 - [CloudFlare Increased 1104 Errors](https://github.com/MatBenfield/news/issues/5964)
 - [CORS and cache issues with Block GETs](https://github.com/web3-storage/reads/issues/121)
