@@ -16,6 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('topWP5').checked = (r.topWP5 == '1') ? true : false;
       document.getElementById('topWP6').checked = (r.topWP6 == '1') ? true : false;
       document.getElementById('topWP7').checked = (r.topWP7 == '1') ? true : false;
+      document.getElementById('topWP8').checked = (r.topWP8 == '1') ? true : false;
       document.getElementById('nocat01').checked = (r.nocat01 == '1') ? true : false;
       document.getElementById('nocat02').checked = (r.nocat02 == '1') ? true : false;
       document.getElementById('nocat03').checked = (r.nocat03 == '1') ? true : false;
@@ -38,6 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('nocat20').checked = (r.nocat20 == '1') ? true : false;
       document.getElementById('nocat21').checked = (r.nocat21 == '1') ? true : false;
       document.getElementById('nocat22').checked = (r.nocat22 == '1') ? true : false;
+      document.getElementById('nocat85').checked = (r.nocat85 == '1') ? true : false;
       document.getElementById('nocat86').checked = (r.nocat86 == '1') ? true : false;
       document.getElementById('nocat87').checked = (r.nocat87 == '1') ? true : false;
       document.getElementById('nocat88').checked = (r.nocat88 == '1') ? true : false;
@@ -103,4 +105,14 @@ document.getElementById('set').addEventListener('click', () => {
    });
    document.getElementById('token').value = token;
    browser.runtime.sendMessage(['set', token]).then(() => {}, () => {});
+});
+document.getElementById('token').addEventListener('click', () => {
+   if (document.getElementById('token').type == 'password') {
+      document.getElementById('token').type = 'text';
+   }
+});
+document.getElementById('token').addEventListener('blur', () => {
+   if (document.getElementById('token').type == 'text') {
+      document.getElementById('token').type = 'password';
+   }
 });
