@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,987 |
 | net | 2,147 |
-| social | 2,067 |
+| social | 2,068 |
 | org | 1,528 |
 | de | 1,424 |
 
@@ -3426,6 +3426,7 @@ Here's a list of public Fediverse services.
 | `cabane-libre.org` | No |
 | `cabbage.lol` | Yes |
 | `cachapa.moe` | No |
+| `cachapa.xyz` | No |
 | `cacheblasters.com` | No |
 | `cacti.dev` | Yes |
 | `cadadr.digital` | No |
@@ -27837,6 +27838,7 @@ Here's a list of public Fediverse services.
 | `zeonet.xyz` | No |
 | `zepa.org` | No |
 | `zepher.dev` | Yes |
+| `zepi.social` | No |
 | `zeppelin.flights` | No |
 | `zeptar.org` | No |
 | `zer0.click` | No |
@@ -28030,7 +28032,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,966 |
-| Normal | 22,020 |
+| Normal | 22,022 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
