@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,018 |
-| net | 2,163 |
-| social | 2,112 |
+| com | 4,020 |
+| net | 2,166 |
+| social | 2,114 |
 | org | 1,536 |
 | de | 1,431 |
 
@@ -294,6 +294,7 @@ Here's a list of public Fediverse services.
 | `404.taipei` | No |
 | `40to.ca` | No |
 | `40two.tube` | No |
+| `41020.social` | No |
 | `412000.xyz` | Yes |
 | `417yuji.net` | No |
 | `420.vin` | Yes |
@@ -7608,6 +7609,7 @@ Here's a list of public Fediverse services.
 | `fedimast.com` | No |
 | `fedimon.uk` | No |
 | `fedimovie.com` | Yes |
+| `fedinauten.social` | No |
 | `fedinet.de` | No |
 | `fedinoc.de` | No |
 | `fedipen.xyz` | Yes |
@@ -9076,6 +9078,7 @@ Here's a list of public Fediverse services.
 | `ghosty.ch` | No |
 | `ghoul.one` | No |
 | `ghuntley.com` | Yes |
+| `ghz00.net` | Yes |
 | `giammi.org` | No |
 | `gianarb.it` | No |
 | `giant.horse` | No |
@@ -12351,6 +12354,7 @@ Here's a list of public Fediverse services.
 | `keyedlimepie.org` | No |
 | `keysmash.xyz` | No |
 | `keystroke.social` | No |
+| `kezal.fr` | No |
 | `kf0are.net` | No |
 | `kf7k.com` | Yes |
 | `kfem.cat` | No |
@@ -15850,6 +15854,7 @@ Here's a list of public Fediverse services.
 | `mmav.club` | Yes |
 | `mmcnet.io` | Yes |
 | `mmder.net` | No |
+| `mmhf.com` | Yes |
 | `mmikel.ru` | No |
 | `mmjo.com` | No |
 | `mmk2410.org` | No |
@@ -17631,6 +17636,7 @@ Here's a list of public Fediverse services.
 | `nostream.stream` | No |
 | `not-enough.space` | No |
 | `not-really.me` | No |
+| `not.hn` | Yes |
 | `not.one` | No |
 | `nota.live` | No |
 | `notactuallyacat.com` | No |
@@ -20217,6 +20223,7 @@ Here's a list of public Fediverse services.
 | `quentel.social` | No |
 | `querbeetblog.ch` | No |
 | `querdenken-711.de` | No |
+| `querie.net` | No |
 | `quertube.de` | No |
 | `queryquokka.xyz` | Yes |
 | `queso.ninja` | No |
@@ -21486,6 +21493,7 @@ Here's a list of public Fediverse services.
 | `samerion.com` | No |
 | `samezo.net` | No |
 | `samfira.com` | No |
+| `samh.us` | No |
 | `samharris.org` | Yes |
 | `samhza.com` | Yes |
 | `samiandalex.com` | No |
@@ -22734,6 +22742,7 @@ Here's a list of public Fediverse services.
 | `snootbooping.date` | No |
 | `snooter.space` | No |
 | `snopyta.org` | No |
+| `snorklr.com` | No |
 | `snouts.online` | Yes |
 | `snow-crash.org` | No |
 | `snowandtweet.jp` | No |
@@ -23237,6 +23246,7 @@ Here's a list of public Fediverse services.
 | `staltsoft.com` | Yes |
 | `staminaonline.com` | Yes |
 | `stamper.net` | Yes |
+| `stan.one` | No |
 | `standup-comics.net` | No |
 | `stani.se` | No |
 | `stanisic.nl` | Yes |
@@ -23810,6 +23820,7 @@ Here's a list of public Fediverse services.
 | `sysmike.net` | No |
 | `sysprotect.eu` | No |
 | `sysreturn.net` | No |
+| `sysrq.in` | No |
 | `system-imperator.de` | No |
 | `systematic.love` | No |
 | `systemd.lol` | No |
@@ -24729,6 +24740,7 @@ Here's a list of public Fediverse services.
 | `thomashaley.social` | No |
 | `thomasknoll.info` | No |
 | `thomasott.io` | Yes |
+| `thomaspreece.net` | Yes |
 | `thomaswictor.com` | No |
 | `thomcat.rocks` | No |
 | `thopex.de` | No |
@@ -28248,8 +28260,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,037 |
-| Normal | 22,168 |
+| Cloudflare | 6,041 |
+| Normal | 22,176 |
 
 
 ### 21.4% of public Fediverse services are using Cloudflare.
