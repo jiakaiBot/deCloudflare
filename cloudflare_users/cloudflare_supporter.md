@@ -7792,6 +7792,7 @@ Do not create new issue or we will close it as duplicate.
 | [PowerRanger1156@twitter](https://twitter.com/PowerRanger1156/status/1395353501174312962) | advertise |
 | [pownew94@twitter](https://twitter.com/pownew94/status/1566475617125941248) | advertise |
 | [Pp31666051P@twitter](https://twitter.com/Pp31666051P/status/1550559730950541312) | advertise |
+| [pp54486931@twitter](https://twitter.com/pp54486931/status/1593629456219766784) | advertise |
 | [PP74284531@twitter](https://twitter.com/PP74284531/status/1398910741277593604) | advertise |
 | [PPaodon@twitter](https://twitter.com/PPaodon/status/1401194836405874689) | advertise |
 | [pplcoin@twitter](https://twitter.com/pplcoin/status/1505982514623619080) | advertise |
