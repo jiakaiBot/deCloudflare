@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 3,987 |
 | net | 2,147 |
-| social | 2,064 |
+| social | 2,065 |
 | org | 1,528 |
 | de | 1,423 |
 
@@ -3213,6 +3213,7 @@ Here's a list of public Fediverse services.
 | `brownfield.dev` | No |
 | `brrrt.eu` | No |
 | `brrt.eu` | No |
+| `brso.social` | No |
 | `bru.su` | Yes |
 | `bruder.space` | No |
 | `bruitbruit.com` | No |
@@ -8035,6 +8036,7 @@ Here's a list of public Fediverse services.
 | `fortean.social` | No |
 | `forth.work` | No |
 | `forth.works` | No |
+| `fortnite.chat` | No |
 | `fortress.promo` | No |
 | `fortresshill.club` | No |
 | `fortressofdoom.me` | Yes |
@@ -22080,6 +22082,7 @@ Here's a list of public Fediverse services.
 | `shoreupthe.vote` | No |
 | `shork.space` | No |
 | `shorkpit.xyz` | Yes |
+| `shoro.no` | No |
 | `shortbus.fail` | No |
 | `shortens.net` | No |
 | `shortnote.jp` | No |
@@ -28021,7 +28024,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 5,964 |
-| Normal | 22,013 |
+| Normal | 22,016 |
 
 
 ### 21.3% of public Fediverse services are using Cloudflare.
