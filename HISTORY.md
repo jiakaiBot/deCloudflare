@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-23: [AMS (Amsterdam) on 2022-11-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7368vk08cqm0)
+- 2022-11-21: [ARN (Stockholm) on 2022-11-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/h3xqtd4mz2nk)
 - 2022-11-17: [Increased 1104 Errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0506lb2dm9gz)
 - 2022-11-21: [STL (St. Louis) on 2022-11-21](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vr1gvpk7sj1p)
 - 2022-11-22: [YYZ (Toronto) on 2022-11-22](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7lw5zsqbzsp7)
