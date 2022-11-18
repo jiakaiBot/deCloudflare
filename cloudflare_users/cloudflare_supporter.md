@@ -2976,6 +2976,7 @@ Do not create new issue or we will close it as duplicate.
 | [GHENIER1@twitter](https://twitter.com/GHENIER1/status/1553440184397471744) | advertise |
 | [ghilani_ahmed@twitter](https://twitter.com/ghilani_ahmed/status/1378273270873657345) | advertise |
 | [GHILES83039093@twitter](https://twitter.com/GHILES83039093/status/1402365710739853312) | advertise |
+| [ghjiukliop@twitter](https://twitter.com/ghjiukliop/status/1593605627049168896) | advertise |
 | [GholamiPasha@twitter](https://twitter.com/GholamiPasha/status/1590199638136852480) | advertise |
 | [ghone_prathmesh@twitter](https://twitter.com/ghone_prathmesh/status/1393026364559687682) | advertise |
 | [ghostcap@twitter](https://twitter.com/ghostcap/status/1547972786081058816) | advertise |
@@ -8348,6 +8349,7 @@ Do not create new issue or we will close it as duplicate.
 | [R_107571624@twitter](https://twitter.com/R_107571624/status/1503908534076932097) | advertise |
 | [r_diamondd@twitter](https://twitter.com/r_diamondd/status/1578466623220248576) | advertise |
 | [s1mpoverYoi@twitter](https://twitter.com/s1mpoverYoi/status/1500007315440693249) | advertise |
+| [S2G11693168@twitter](https://twitter.com/S2G11693168/status/1593549107406471168) | advertise |
 | [s6my7jk@twitter](https://twitter.com/s6my7jk/status/1398057139667623936) | advertise |
 | [saad_hason@twitter](https://twitter.com/saad_hason/status/1549937766301315072) | advertise |
 | [SaahilPanchal@twitter](https://twitter.com/SaahilPanchal/status/1547124951744118784) | advertise |
@@ -8681,6 +8683,7 @@ Do not create new issue or we will close it as duplicate.
 | [shamalesmail@twitter](https://twitter.com/shamalesmail/status/1383397258905849859) | advertise |
 | [shamarThyErash@twitter](https://twitter.com/shamarThyErash/status/1555626158485536768) | advertise |
 | [shamelessasfuck@twitter](https://twitter.com/shamelessasfuck/status/1390875709166350338) | advertise |
+| [ShamoilQ@twitter](https://twitter.com/ShamoilQ/status/1593577119925567488) | advertise |
 | [ShaneUmayanga@twitter](https://twitter.com/ShaneUmayanga/status/1484075801041842178) | advertise |
 | [Shanilk40518007@twitter](https://twitter.com/Shanilk40518007/status/1401086959989268482) | advertise |
 | [ShanKoKo10@twitter](https://twitter.com/ShanKoKo10/status/1394641850879725569) | advertise |
