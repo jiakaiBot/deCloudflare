@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,095 |
 | net | 2,196 |
-| social | 2,177 |
+| social | 2,178 |
 | org | 1,569 |
 | de | 1,447 |
 
@@ -19915,6 +19915,7 @@ Here's a list of public Fediverse services.
 | `pom18.top` | No |
 | `pomdon.top` | No |
 | `pomdon.work` | No |
+| `pomegranate.social` | Yes |
 | `pommesrotweiss.xyz` | Yes |
 | `pon.ee` | No |
 | `pon.mt` | No |
@@ -28722,7 +28723,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,163 |
+| Cloudflare | 6,164 |
 | Normal | 22,516 |
 
 
