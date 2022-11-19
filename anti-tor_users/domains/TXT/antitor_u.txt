@@ -315,6 +315,7 @@ app.uob.com.sg
 apps.uniprime.com.br
 avanan.url-protection.com
 b2bapi.usaa.com
+bach.umukuri.com
 beactive2.usask.ca
 bienestarpsicosocial.izt.uam.mx
 bigweb.unifr.ch
@@ -374,6 +375,7 @@ onevideosync.uplynk.com
 pay.uralairlines.ru
 paypal0.uber.space
 piloto.universo.pt
+pim.unileverservices.com
 pra.u.com.my
 proxy.bms.dev.unblu-test.com
 pub.jefs.uscourts.gov
@@ -431,6 +433,7 @@ update-tarif-transaksi-bank.my.id
 update48451.xyz
 updatecom.co
 updatehargaemas.com
+updatepakjob.com
 uplangreo.es
 ups-delivery1.ca
 upscan.cd
@@ -458,6 +461,7 @@ usvazine.net
 uta.engineering
 utiao.net
 utilajeinchiriate.ro
+uu.ink
 uviworld.in
 verifycertificate.ullashi.com
 web.usdirectexpress.com
@@ -506,6 +510,7 @@ www.ukrpost.org
 www.umudavuslat.org.tr
 www.un.org
 www.unanj.com
+www.uncharted-worlds.org
 www.undefinedentertainment.com
 www.unfieasyoptions.com
 www.unifrog.org
@@ -525,12 +530,15 @@ www.urlc.online
 www.uscp.gov
 www.user.ultmustrade.com
 www.usercitizensbank.ga
+www.usher-syndrome.org
+www.usher1f.org
 www.usp-s--postal.info
 www.usps-login1.com
 www.usps-uspspackage.online
 www.uspspackage.usps-uspspackage.online
 www.utahinvestigative.org
 www.utkoss.org
+www.utun-tv.update-sports.com
 www.verifycertificate.ullashi.com
 www.wekuktv.update-sports.com
 www.worldtv.update-sports.com
