@@ -115,6 +115,7 @@ zxr9gpxf7j.com
 alert-manager.k3s.zunicloud.de
 api.zps-testing.net
 api.zuperbodegas.pe
+auth.zenginehq.com
 authn1.dev.zpath.net
 avocadostore.walkiddy.zahlengrafik.com
 backofthehouse.com.hmail.zulutradefx.com
@@ -146,6 +147,7 @@ s.zkcdn.net
 sa1-csgo.zebedee.studio
 safetyandhealth4u.zapages.co.il
 safeway.zenobouw.nl
+secondary.opticloud.staging.zsservices.com
 secure.zollarfxc.com
 signix.zipformplus.com
 sts.zollner.de
@@ -163,6 +165,7 @@ www.s.confirm.zd.lu
 www.user.zarinkav.ir
 www.zaadbank.nl
 www.zalogapost1520.org
+www.zalora.com.my
 www.zazmic.com
 www.zazzle.co.uk
 www.zedsehyr.com
@@ -187,10 +190,12 @@ zhoubrothers.com
 zhyttia.com.ua
 zionpeace.co.za
 zoeprendlaplume.fr
+zorgictzorgen.nl
 zorgtoeslag-geregeld.nl
 zqura.com
 zsfdupk.cn
 ztmrds.zenithtechnologies.com
+zuvaenergies.com
 www.zahnarzt-muenchen-neuperlach.de
 www.zahnarztpraxis-neukoelln.de
 www.zahnarztpraxis-talesnik.net
