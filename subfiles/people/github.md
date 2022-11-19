@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [connection problem with TLS and IPv6](https://github.com/v2fly/v2ray-core/issues/2160)
 - [Installing Pre Built Error](https://github.com/Snawoot/windscribe-proxy/issues/17)
 - [Cloudflare deployment issues](https://github.com/tuhinpal/imdb-api/issues/4)
 - [FEAT: Access over Cloudflare Tunnel](https://github.com/beekeeper-studio/beekeeper-studio/issues/1434)
