@@ -1218,6 +1218,7 @@ Or is this merely a case of simple modesty?
 | Mike Michon | Head of Data Engineering |  |
 | Mike Pool | Global Alliance Manager |  |
 | Mikey Sleevi | Employee | |
+| Miki Mokrysz | Employee | |
 | Millie Chan | Front End Engineer |  |
 | Mingwei Zhang | Employee | |
 | Ming Xue | Employee | |
