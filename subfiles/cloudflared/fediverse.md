@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,034 |
-| net | 2,173 |
-| social | 2,133 |
+| net | 2,171 |
+| social | 2,134 |
 | org | 1,545 |
 | de | 1,435 |
 
@@ -9124,7 +9124,6 @@ Here's a list of public Fediverse services.
 | `ghosty.ch` | No |
 | `ghoul.one` | No |
 | `ghuntley.com` | Yes |
-| `ghz00.net` | Yes |
 | `giammi.org` | No |
 | `gianarb.it` | No |
 | `giant.horse` | No |
@@ -20319,7 +20318,6 @@ Here's a list of public Fediverse services.
 | `quentel.social` | No |
 | `querbeetblog.ch` | No |
 | `querdenken-711.de` | No |
-| `querie.net` | No |
 | `quertube.de` | No |
 | `queryquokka.xyz` | Yes |
 | `queso.ninja` | No |
@@ -27401,6 +27399,7 @@ Here's a list of public Fediverse services.
 | `wpmeetup-frankfurt.de` | No |
 | `wprzemianie.pl` | No |
 | `wpsocial.live` | No |
+| `wptoots.social` | No |
 | `wq64.net` | No |
 | `wrasstodon.pro` | No |
 | `wreck.rocks` | No |
@@ -28395,8 +28394,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,082 |
+| Cloudflare | 6,081 |
 | Normal | 22,270 |
 
 
-### 21.5% of public Fediverse services are using Cloudflare.
+### 21.4% of public Fediverse services are using Cloudflare.
