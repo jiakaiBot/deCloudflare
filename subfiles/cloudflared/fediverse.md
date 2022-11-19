@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | net | 2,196 |
 | social | 2,176 |
 | org | 1,568 |
-| de | 1,446 |
+| de | 1,447 |
 
 
 - Mastodon, Pleroma, etc
@@ -8138,6 +8138,7 @@ Here's a list of public Fediverse services.
 | `fluffcord.social` | Yes |
 | `fluffderg.me` | No |
 | `fluffel.io` | No |
+| `fluffpri.de` | No |
 | `fluffy.family` | No |
 | `fluffy.moe` | Yes |
 | `fluffy.world` | No |
@@ -16641,7 +16642,7 @@ Here's a list of public Fediverse services.
 | `mstdn.vodka` | No |
 | `mstdn.voyage` | No |
 | `mstdn.world` | No |
-| `mstdn.wtf` | No |
+| `mstdn.wtf` | Yes |
 | `mstdn.xn--q9jyb4c` | No |
 | `mstdn18.jp` | No |
 | `mstdn18.net` | No |
@@ -25497,7 +25498,7 @@ Here's a list of public Fediverse services.
 | `toot.pw` | No |
 | `toot.re` | No |
 | `toot.rip` | No |
-| `toot.rodeo` | No |
+| `toot.rodeo` | Yes |
 | `toot.sg` | Yes |
 | `toot.sh` | Yes |
 | `toot.shoes` | Yes |
@@ -28713,8 +28714,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,159 |
-| Normal | 22,511 |
+| Cloudflare | 6,161 |
+| Normal | 22,510 |
 
 
 ### 21.5% of public Fediverse services are using Cloudflare.
