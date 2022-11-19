@@ -2587,6 +2587,7 @@ Here's a list of public Fediverse services.
 | `bigskymastodon.com` | Yes |
 | `bigthinking.social` | No |
 | `bigtoecult.org` | No |
+| `bigzu.cc` | Yes |
 | `bihlink.com` | No |
 | `bikabika.xyz` | No |
 | `bikegraz.at` | No |
@@ -9109,6 +9110,7 @@ Here's a list of public Fediverse services.
 | `ghastr.com` | No |
 | `ghetti.monster` | No |
 | `ghibah.space` | No |
+| `ghosh.pro` | Yes |
 | `ghost.cafe` | No |
 | `ghost.supplies` | No |
 | `ghost.work` | No |
@@ -23055,6 +23057,7 @@ Here's a list of public Fediverse services.
 | `soses.ca` | No |
 | `sosh.network` | No |
 | `soshl.one` | No |
+| `sosialist.party` | No |
 | `sotl.social` | No |
 | `soton.eco` | No |
 | `sotong.cloud` | No |
@@ -25754,6 +25757,7 @@ Here's a list of public Fediverse services.
 | `twiddon.com` | No |
 | `twidon.com` | No |
 | `twilight-creation.com` | No |
+| `twilight.garden` | Yes |
 | `twilightparadox.com` | No |
 | `twimblr.live` | No |
 | `twimblr.xyz` | No |
@@ -27129,6 +27133,7 @@ Here's a list of public Fediverse services.
 | `wieser-hv.de` | No |
 | `wieser.ml` | No |
 | `wife.town` | No |
+| `wig.gl` | Yes |
 | `wiggle.pw` | No |
 | `wiggle.website` | No |
 | `wihel.de` | Yes |
@@ -28384,8 +28389,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,075 |
-| Normal | 22,266 |
+| Cloudflare | 6,079 |
+| Normal | 22,267 |
 
 
 ### 21.4% of public Fediverse services are using Cloudflare.
