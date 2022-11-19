@@ -848,7 +848,9 @@ accounting.gapallet.com
 adfs.grupawp.pl
 admin.grsportal.com
 adraffy.github.io
+alexandercampion321.github.io
 alok-077.github.io
+aloneopp.github.io
 amihabibkhan.github.io
 android.googleapis.com
 aovpn.geigerautomotive.com
@@ -884,6 +886,7 @@ btbunsnsss.github.io
 btbusinssss.github.io
 btbusnes.github.io
 cdn.getdms.app
+cdn.godiciardstia.com
 cds.rhel.updates.googlecloud.com
 cembramoney-ch.gotdns.ch
 click-5866b9.gosquared-mail.com
@@ -900,6 +903,7 @@ consent.google.co.il
 contao.web54.s66.goserver.host
 cool-brook-arthropod.glitch.me
 cpanel.garantias.site
+cpanel.grafcovidtesteq.com
 cpanel.gyakuten-kyujin.site
 cpcalendars.garantias.site
 cpcalendars.gmail-eg.com
@@ -936,6 +940,7 @@ doc-0k-48-docs.googleusercontent.com
 doc-0k-b8-docs.googleusercontent.com
 doc-0o-9s-docs.googleusercontent.com
 doc-0s-20-docs.googleusercontent.com
+doc-0s-50-docs.googleusercontent.com
 doc-0s-8g-docs.googleusercontent.com
 doc-10-88-docs.googleusercontent.com
 doc-14-0s-docs.googleusercontent.com
@@ -958,6 +963,7 @@ facturacionvalidador.gruposalinas.com.mx
 fairytulle.gajagati.hr
 fathimathjazeera.github.io
 fcm.googleapis.com
+fediverse.glitch.me
 filebrowser.glassbeam.com
 fish-workable-meadowlark.glitch.me
 fiveholes.goip.de
@@ -968,6 +974,7 @@ gabastorecr.com
 gabrielguerrero.co
 gadgetsin.com
 galadi.net
+gallowaychillies.co.uk
 gamedevpodcast.de
 gamesupport.in
 gandalfsecure.com
@@ -977,6 +984,8 @@ gasco-services.co.uk
 gasthaus-altepost.ro
 gautam1804.github.io
 gauue.com
+gazelledasti.com
+gazetadecluj.ro
 gbpinter.net
 gcatoolkit.org
 geburtstagsideen.de
@@ -1022,6 +1031,7 @@ git.hashicorp.cloudg.magento.clud.gpinfo.eu
 givealilbit.com
 givealilbit.io
 gk-facility-services.de
+glam-celebrity-news.com
 glamoryhosiery.com
 glassaligner.com
 glasserviceoslo.no
@@ -1031,6 +1041,7 @@ global.canon
 globalabc.org
 globalcarbonbudget.org
 globallineprioritypackage.com
+globalnestsolutions.com
 globalprivacyassembly.org
 globalsupport.org.br
 globelinkstarshippingdelivery.com
@@ -1051,6 +1062,7 @@ gospelthemes.com
 gotelservice.xyz
 govillagetravel.com
 goviral247.com
+govuk-verify-secured.net
 gpuminingcards.com
 grace2much.com
 gracefulmaids.com
@@ -1059,6 +1071,7 @@ grainplacefoods.com
 grandservice.md
 grapevinetalk.com
 graphicz.in
+graysonacrepairservice.xyz
 graystep.com
 grb.greatland.com
 greasy-money4.cf
@@ -1078,6 +1091,7 @@ growsverige.se
 growthbank.net
 grservice.fi
 gruene-zh.ch
+grupomusicalenguayaquil.com
 gruponovorio.com.br
 grupopopular.com
 gruppoalis.it
@@ -1106,6 +1120,7 @@ helpdesk.goldcu.org
 iam.googleapis.com
 ibank.gcmutualbank.com.au
 identityprovider.puma.qua.crl.gsmartsuite.com
+idi5t.glam-celebrity-news.com
 imagens.genkialimentos.com.br
 info.grupotoks.com.mx
 investors.gettyimages.com
@@ -1125,6 +1140,7 @@ lovelive-heardle.glitch.me
 lpm.gevestor-verlag.de
 mandyocadebussy.github.io
 mattinopadova.gelocal.it
+mdsiamulislam.github.io
 melodious-admitted-animal.glitch.me
 members.gidep.org
 messaggeroveneto.gelocal.it
@@ -1148,6 +1164,7 @@ office.yandex.gabdrahmanova.ru
 omi.glosee-japan.com
 optseci.glitch.me
 orderportal.glaspoort.nl
+oso3211.github.io
 paket-dua.grahasta.id
 paket-tiga.grahasta.id
 pauloninja.github.io
@@ -1170,6 +1187,7 @@ rec-xfer.groupagrica.com
 ribgisrmw.gdi.net
 richesh27.github.io
 riyad3453.github.io
+roblux.gensets.xyz
 rushikeshs001.github.io
 s-paramguvende.guvenleodemeyontemi.com
 safe-future.gnssweb.co.il
@@ -1184,6 +1202,7 @@ sanketpaul.github.io
 sanmjjgf.godaddysites.com
 sapphire-plume-cacao.glitch.me
 secmail.grawe.com
+secure-update.account.com.goldlistproperty.com
 secure.givelively.org
 service.getapp.store
 servicedesk.glowtouch.net
@@ -1231,6 +1250,7 @@ trezor.go2cloud.org
 troubled-dashing-cornflower.glitch.me
 tunairwatch.groupe-pochet.fr
 tv-cdn02.gtd.cl
+twitter-bookmark-archiver.glitch.me
 tyrantvoid.github.io
 unionbank.getnice.app
 upload.video.google.com
@@ -1240,9 +1260,12 @@ vanshajtiwari.github.io
 vesa.grupoinvestigacionsafe.com
 vftrrqlqmcbybbpwesyaof.storage.googleapis.com
 vmail.gyongyhalaszkonyveles.hu
+wadiebenabdouh.github.io
 webdisk.gmail-eg.com
 webdisk.gmailaccount.support
+webdisk.grafcovidtesteq.com
 webdisk.graycubesports.com
+webmail.grafcovidtesteq.com
 webmail.gyakuten-kutikomi.site
 webmail.gyakuten-kyujin.site
 weird-old-book-finder.glitch.me
@@ -1251,6 +1274,7 @@ www.2022-2023-rara-bank-sampah.php7.gosmartid.com
 www.account.greenbull-trading.online
 www.banecuador.login.ec.geoestructura.cl
 www.bank.gfbcigroupe.com
+www.bank.globalminingtrading.com
 www.banksyartworks.graphy.nz
 www.billing2.gsy-cygnus.com
 www.birminghamlocalbizsupport.gibsondigtalhub.com
@@ -1282,6 +1306,8 @@ www.gavroche-thailande.com
 www.gbservice-nettoyage.fr
 www.gdma-service.com
 www.gdp.de
+www.gebaerdenwelt.tv
+www.ged-bge.corsica
 www.geensuikertaksindeboomgaard.nl
 www.geldgrinden.nl
 www.geldundsteuern.de
@@ -1289,6 +1315,8 @@ www.gemsmodernacademygurgaon.com
 www.genealanille.fr
 www.geniaus.net
 www.geniusgroupcos.com
+www.genpro.org.nz
+www.geo3550.org
 www.geographic.org
 www.georgeobado.com
 www.georgewaltonpost371.org
@@ -1308,6 +1336,7 @@ www.giftiforgot.com
 www.giftiforgot.net
 www.giftsiforgot.com
 www.giftsiforgot.net
+www.gisti.org
 www.git.cahotz-service.store.grandbetting.org
 www.git.git.cahotz-service.store.grandbetting.org
 www.git.git.git.blog.billing.girisimajbet.com
@@ -1328,8 +1357,11 @@ www.globalvisions.fi
 www.globelinkstarshippingdelivery.com
 www.gloriant.be
 www.gls-laden.de
+www.goballoons.in
 www.godirectexpress.ca
 www.goibibo.com
+www.goingelectric.de
+www.goldengoosesecurity.net
 www.golfgalaxy.com
 www.golfsantander.es
 www.gonedragracing.com
@@ -1340,7 +1372,9 @@ www.grageservice.com
 www.grahamuneymountaineering.co.uk
 www.granadaedu.com
 www.graphable.ai
+www.gratisaktivitet.se
 www.greeneking-pubs.co.uk
+www.greeninstitute.org.au
 www.greenmoney.gerenciesistemas.com.br
 www.greenstories.org.uk
 www.greenwaystrust.ca
@@ -1351,6 +1385,7 @@ www.groenedromen.nl
 www.gromaxonline.com
 www.groundworkmg.com
 www.grservice.fi
+www.grtech.gtech-controls.com.mx
 www.grupodigitalbank.com
 www.gsam.com
 www.gtar.online
@@ -1370,10 +1405,12 @@ www.safe-future.gnssweb.co.il
 www.safeland.gnss-lp.co.il
 www.safelink.gokilat.com
 www.secured.gbifinancialservices.com
+www.send.get-abacus-delivery.com
 www.serviceconnector.gr8ly.org
 www.services.genovis.com
 www.sikkerhav.gymgear.dk
 www.support.globalmix.net
+www.support.growthrock.co.za
 www.taxrefund.gnss-lp.co.il
 www.tepakan.gob.mx.gobiernosenlinea.com.mx
 www.tester.goatourspackage.com
