@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Installing Pre Built Error](https://github.com/Snawoot/windscribe-proxy/issues/17)
 - [Cloudflare deployment issues](https://github.com/tuhinpal/imdb-api/issues/4)
 - [FEAT: Access over Cloudflare Tunnel](https://github.com/beekeeper-studio/beekeeper-studio/issues/1434)
 - [Prevent heavy ads crypto currency mining](https://github.com/Floorp-Projects/Floorp/issues/132)
