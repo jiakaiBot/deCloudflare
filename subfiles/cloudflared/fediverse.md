@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,035 |
+| com | 4,036 |
 | net | 2,174 |
 | social | 2,137 |
 | org | 1,546 |
@@ -4456,7 +4456,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `comacero.com` | No |
 | `comam.es` | No |
@@ -17948,7 +17948,7 @@ Here's a list of public Fediverse services.
 | `nya.rest` | Yes |
 | `nya.show` | Yes |
 | `nya.social` | No |
-| `nyaa.io` | No |
+| `nyaa.io` | Yes |
 | `nyaa.social` | No |
 | `nyaa.tech` | Yes |
 | `nyadobe.online` | Yes |
@@ -18848,6 +18848,7 @@ Here's a list of public Fediverse services.
 | `paritybit.ca` | No |
 | `parkgaedae.com` | No |
 | `parkour-eppingen.de` | No |
+| `parkpioneer.com` | No |
 | `parkrocker.com` | No |
 | `parlementum.net` | No |
 | `parlementum.news` | No |
@@ -28408,8 +28409,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,085 |
-| Normal | 22,280 |
+| Cloudflare | 6,087 |
+| Normal | 22,279 |
 
 
 ### 21.5% of public Fediverse services are using Cloudflare.
