@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,020 |
-| net | 2,166 |
+| com | 4,018 |
+| net | 2,164 |
 | social | 2,114 |
 | org | 1,536 |
 | de | 1,431 |
@@ -777,6 +777,7 @@ Here's a list of public Fediverse services.
 | `agnail.net` | No |
 | `agneraya.com` | No |
 | `agnessa.pp.ru` | No |
+| `agnitum.co.uk` | Yes |
 | `agol.one` | No |
 | `agoni.news` | No |
 | `agood.dog` | No |
@@ -6153,7 +6154,7 @@ Here's a list of public Fediverse services.
 | `donadvr.de` | No |
 | `donar.cz` | No |
 | `donar.dev` | No |
-| `donbongo.com` | Yes |
+| `donbongo.com` | No |
 | `donburnside.com` | Yes |
 | `dondondon.ga` | No |
 | `doneydenouden.com` | Yes |
@@ -9078,7 +9079,6 @@ Here's a list of public Fediverse services.
 | `ghosty.ch` | No |
 | `ghoul.one` | No |
 | `ghuntley.com` | Yes |
-| `ghz00.net` | Yes |
 | `giammi.org` | No |
 | `gianarb.it` | No |
 | `giant.horse` | No |
@@ -9515,6 +9515,7 @@ Here's a list of public Fediverse services.
 | `greyt.co.za` | Yes |
 | `grezl.eu` | No |
 | `gridfinity.com` | No |
+| `griesser.me` | No |
 | `griffindow.com` | Yes |
 | `griftgang.com` | Yes |
 | `grigson.live` | No |
@@ -15854,7 +15855,6 @@ Here's a list of public Fediverse services.
 | `mmav.club` | Yes |
 | `mmcnet.io` | Yes |
 | `mmder.net` | No |
-| `mmhf.com` | Yes |
 | `mmikel.ru` | No |
 | `mmjo.com` | No |
 | `mmk2410.org` | No |
@@ -17636,7 +17636,6 @@ Here's a list of public Fediverse services.
 | `nostream.stream` | No |
 | `not-enough.space` | No |
 | `not-really.me` | No |
-| `not.hn` | Yes |
 | `not.one` | No |
 | `nota.live` | No |
 | `notactuallyacat.com` | No |
@@ -20223,7 +20222,6 @@ Here's a list of public Fediverse services.
 | `quentel.social` | No |
 | `querbeetblog.ch` | No |
 | `querdenken-711.de` | No |
-| `querie.net` | No |
 | `quertube.de` | No |
 | `queryquokka.xyz` | Yes |
 | `queso.ninja` | No |
@@ -22742,7 +22740,6 @@ Here's a list of public Fediverse services.
 | `snootbooping.date` | No |
 | `snooter.space` | No |
 | `snopyta.org` | No |
-| `snorklr.com` | No |
 | `snouts.online` | Yes |
 | `snow-crash.org` | No |
 | `snowandtweet.jp` | No |
@@ -23136,6 +23133,7 @@ Here's a list of public Fediverse services.
 | `spook.social` | No |
 | `spookum.com` | Yes |
 | `spooky.camp` | No |
+| `spooky.click` | No |
 | `spooky.computer` | No |
 | `spooky.pizza` | Yes |
 | `spoon-tamago.com` | Yes |
@@ -23820,7 +23818,6 @@ Here's a list of public Fediverse services.
 | `sysmike.net` | No |
 | `sysprotect.eu` | No |
 | `sysreturn.net` | No |
-| `sysrq.in` | No |
 | `system-imperator.de` | No |
 | `systematic.love` | No |
 | `systemd.lol` | No |
@@ -25134,7 +25131,7 @@ Here's a list of public Fediverse services.
 | `tooter.computer` | No |
 | `tooter.fr` | Yes |
 | `tooter.it` | No |
-| `tooter.kr` | No |
+| `tooter.kr` | Yes |
 | `tooter.social` | No |
 | `tooter.space` | No |
 | `tooters.space` | No |
@@ -28260,8 +28257,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,041 |
-| Normal | 22,176 |
+| Cloudflare | 6,039 |
+| Normal | 22,175 |
 
 
 ### 21.4% of public Fediverse services are using Cloudflare.
