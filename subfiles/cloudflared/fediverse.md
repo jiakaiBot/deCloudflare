@@ -1753,7 +1753,7 @@ Here's a list of public Fediverse services.
 | `astoundingteam.com` | No |
 | `astragroup.info` | Yes |
 | `astral-gate.network` | No |
-| `astral.camp` | No |
+| `astral.camp` | Yes |
 | `astral.ml` | No |
 | `astralchan.xyz` | No |
 | `astria.city` | Yes |
@@ -4496,6 +4496,7 @@ Here's a list of public Fediverse services.
 | `comprac.info` | No |
 | `compti.me` | No |
 | `comptoir.net` | No |
+| `compumun.do` | No |
 | `computational.agency` | No |
 | `computer-club.online` | Yes |
 | `computerclub.online` | Yes |
@@ -22278,6 +22279,7 @@ Here's a list of public Fediverse services.
 | `shortnote.jp` | No |
 | `shortshady.com` | No |
 | `shortstackran.ch` | No |
+| `shota.house` | No |
 | `shota.social` | Yes |
 | `shotgun.monster` | No |
 | `shotsfi.red` | No |
@@ -28257,8 +28259,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,039 |
-| Normal | 22,175 |
+| Cloudflare | 6,040 |
+| Normal | 22,176 |
 
 
 ### 21.4% of public Fediverse services are using Cloudflare.
