@@ -1150,6 +1150,7 @@ Do not create new issue or we will close it as duplicate.
 | [b7b4c7d8e0a04ec@twitter](https://twitter.com/b7b4c7d8e0a04ec/status/1505572845442662401) | advertise |
 | [ba11z1@twitter](https://twitter.com/ba11z1/status/1585907997930188800) | advertise |
 | [Baalolenvadi@twitter](https://twitter.com/Baalolenvadi/status/1555616002037383168) | advertise |
+| [babacoinbbc@twitter](https://twitter.com/babacoinbbc/status/1594053334901690370) | advertise |
 | [BabaDeviant@twitter](https://twitter.com/BabaDeviant/status/1390391826134282246) | advertise |
 | [babaei2@twitter](https://twitter.com/babaei2/status/1578798780086091776) | advertise |
 | [babak_89@twitter](https://twitter.com/babak_89/status/1581073332220272640) | advertise |
@@ -11161,6 +11162,7 @@ Do not create new issue or we will close it as duplicate.
 | [_koijam_@twitter](https://twitter.com/_koijam_/status/1562026667870404609) | advertise |
 | [_kokt@twitter](https://twitter.com/_kokt/status/1429677155252727809) | advertise |
 | [_kuzannn@twitter](https://twitter.com/_kuzannn/status/1378391986449752067) | advertise |
+| [_leofoliveira@twitter](https://twitter.com/_leofoliveira/status/1594078351777763328) | advertise |
 | [_M4nifest0_@twitter](https://twitter.com/_M4nifest0_/status/1395630834611281920) | advertise |
 | [_mayankkashyap@twitter](https://twitter.com/_mayankkashyap/status/1480531480484974597) | advertise |
 | [_mitradibakar@twitter](https://twitter.com/_mitradibakar/status/1470499348614205443) | advertise |
