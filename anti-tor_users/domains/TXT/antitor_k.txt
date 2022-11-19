@@ -536,6 +536,7 @@ accept.dsp.nl.kiwicloud.nl
 accept.keukenhof.nl.kiwicloud.nl
 access.kh-itzehoe.de
 account-so-net.kyoto-gyuhide.com
+activitypub.kobalt.dev
 agesp-test.kvn.de
 aging.zmail.kajakktyper.com
 akelapost.kbspr.in
@@ -549,8 +550,10 @@ api.kurzurlaub.de
 app.kontormarketingdigital.com
 arteydiseno.klientoo.net
 auth.kanzlei-jun.de
+authtest.kocespay.com
 autodiscover.kinitro-exartimata.gr
 baas.korporate.tech
+balodanam.com.kengshop.vn
 beforeupdate.kinzakazmi.com
 beforeupdate.kirkbyskipsltd.co.uk
 beforeupdate.kristen-welsh.com
@@ -585,6 +588,7 @@ cpcontacts.kodelabs.site
 cr-shop.kagome.co.jp
 de-go.kelkoogroup.net
 demo.klinikhpservice.web.id
+dev.kiub-edition.com
 devapi.klikbca.com
 discgnomerdapp.aed13a6f34584da687139f5f1-13715.sites.k-hosting.co.uk
 discord.kunkids.jp
@@ -602,6 +606,7 @@ fxyxservice2.kugou.com
 git.aging.zmail.kajakktyper.com
 git.git.git.outlook.kpn05.ru
 git.gmail9.kaesehaus.com
+gitlab.gitlab.gitlab.git.gitlab.gitlab.mx1.kapusta.center
 gn-api-inventory-east-1b.kenna.io
 gn231.keap-link016.com
 hdz-solr-115.services.kaufmann.digital
@@ -621,12 +626,14 @@ kaneswrath.com
 kapitalcredit.ro
 kapjasa.si
 kaptains.net
+karakters.nu
 karalapost.com
 karavaanderzotten.nl
 karenkares.com
 kariburesidency.com
 karmisee.ro
 kassiesa.net
+katrin-problog.ru
 katycrawfordmusic.com
 kaydies.nl
 kcci.com
@@ -638,6 +645,7 @@ kfc-snack.com.ru
 kfowkllwo2.xyz
 khairulummah.sch.id
 khqa.com
+kianrolik.ir
 kianting.info
 kidkanai.dev.gcp.kiabi.pro
 kidsmoney.app
@@ -681,6 +689,7 @@ kora.et
 korcarespa.com
 korean.go.kr
 korekto.pl
+kornelix.net
 kovsh-ufa.ru
 kpl.kaspi.kz
 kprverse.org
@@ -696,6 +705,7 @@ kruczynsk.is
 kruunusillat.fi
 kseniamilas.com
 ksgroupe.fr
+kslawemail.com
 ksprestigehomecare.com
 kssingers.com
 ktbhelpdesk.ktblack.com
@@ -707,12 +717,15 @@ kurtas.it
 kval.com
 kveez.com
 kvkk-preprod.kns-cdp.com
+kvo1.io
+kvo4.io
 kwchattanooga.com
 kyllings-elservice.dk
 lab-187.kasetsart-university.org
 link.keionet.com
 live.cosmohairstyling.com.kiwicloud.nl
 live.teamkappers.nl.kiwicloud.nl
+lk373.keap-link007.com
 loliedelivery.kinideas.com
 media.kasperskycontenthub.com
 media.kohlsimg.com
@@ -736,6 +749,7 @@ pm676.keap-link003.com
 pm676.keap-link013.com
 pommepidou.kinitro-exartimata.gr
 ponpes.klinikhpservice.web.id
+pos.klinikhpservice.web.id
 posgw.kpay-group.com
 powertraded.kgi.co.th
 product.kyobobook.co.kr
@@ -757,12 +771,15 @@ rrn814.keap-link012.com
 rv345.keap-link012.com
 s17.kaihatsu.space
 s3.karakuri.ai
+s4bwebext.kne-drv-bund.de
+s4bwebscheduler.kne-drv-bund.de
 sakukunotif.klikbca.com
 scm.kibs.com.mk
 sddcfe-rp.us.kpmg.com
 server.kas.cz
 services.kku.ac.th
 shop-ch-integration.kwsch.kci.rocks
+shop.zmail.komtrans.net
 sitwallet.ktcgroup.dev
 smtp.gmail.krsvn.com
 social.kdhq.dev
@@ -772,6 +789,7 @@ stara.kapucini.si
 stream.kick.sh
 support.kreativatelier.management
 support.kreativatlier.com
+szymek.krzywaczka.pl
 t.kutea.fr
 to989.keap-link005.com
 u-www4.kepco.co.jp
@@ -780,8 +798,11 @@ uk.kipservice.com
 universitasteknologidigital.kuliahkelaskaryawanstembi.com
 usermatch.krxd.net
 uutiscuppu.karjalansivistysseura.fi
+valealupilor.kometaservice.ro
 vmail.krijgersetenei.com
 vpn.karlskrona.se
+vscode.kinorama.com
+w01d2c89.kasserver.com
 webdisk.killcovid.us
 webdisk.kinitro-exartimata.gr
 webdisk.kutpruserv.co.za
@@ -830,6 +851,7 @@ www.keikkakunkku.fi
 www.kentuckyhealthjusticenetwork.org
 www.kepco.co.jp
 www.ket.org
+www.kettelsofortservice.de
 www.keyence.com.ph
 www.keyence.de
 www.keymilitary.com
@@ -846,6 +868,7 @@ www.kineticpowersystemreview.com
 www.kingbank007.net
 www.kingway.com.pl.shoebill.kylos.pl
 www.kirjapainopalvelu.fi
+www.kitshouse.org
 www.klasse.be
 www.klikbank.id
 www.klimateller.de
@@ -860,6 +883,7 @@ www.kosmosjournal.org
 www.kostenloses-girokonto-finden.de
 www.kotitalouspalvelu.fi
 www.kozinswedding.ru
+www.krak.ba
 www.kratochvil.hu
 www.krbd.org
 www.kredyt-k41.shop
@@ -946,6 +970,7 @@ www.syauqi.store.krakatauumrohservice.com
 www.test.klantenportaal-anderstaligen-poc.be
 www.tracking.kirimmobilmurah.net
 www.updateseruni.ksoftpedia.com
+www.valealupilor.kometaservice.ro
 www.zbor.kravarsko.eu
 zr200.keap-link002.com
 zzg725.keap-link015.com
