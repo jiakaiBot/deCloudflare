@@ -1919,8 +1919,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -9849,6 +9849,7 @@ Do not create new issue or we will close it as duplicate.
 | [tonnguy80527958@twitter](https://twitter.com/tonnguy80527958/status/1382009108962807810) | advertise |
 | [Tontan1234567@twitter](https://twitter.com/Tontan1234567/status/1404835134763720706) | advertise |
 | [Tony02935778@twitter](https://twitter.com/Tony02935778/status/1388498427906908163) | advertise |
+| [Tony131021@twitter](https://twitter.com/Tony131021/status/1593861698494287872) | advertise |
 | [tony10954027@twitter](https://twitter.com/tony10954027/status/1387007617394905093) | advertise |
 | [TONY18321536@twitter](https://twitter.com/TONY18321536/status/1376917756486946817) | advertise |
 | [Tony50592393@twitter](https://twitter.com/Tony50592393/status/1395089034045579266) | advertise |
