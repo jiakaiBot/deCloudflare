@@ -6762,6 +6762,7 @@ Here's a list of public Fediverse services.
 | `ein-hub-von-vielen.de` | No |
 | `einbeck.social` | No |
 | `einemeru.com` | No |
+| `eineseite.at` | No |
 | `einfacheswebdesign.de` | No |
 | `einmal.jetzt` | No |
 | `einstieg-in-wp.de` | No |
@@ -18470,6 +18471,7 @@ Here's a list of public Fediverse services.
 | `ornwood.garden` | No |
 | `orobouros.net` | No |
 | `orochena.net` | Yes |
+| `oromasdis.tk` | No |
 | `oromit.de` | No |
 | `orphan.black` | Yes |
 | `orpticon.social` | Yes |
@@ -28410,7 +28412,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,087 |
-| Normal | 22,279 |
+| Normal | 22,281 |
 
 
 ### 21.5% of public Fediverse services are using Cloudflare.
