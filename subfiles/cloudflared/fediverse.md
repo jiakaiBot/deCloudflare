@@ -14521,6 +14521,7 @@ Here's a list of public Fediverse services.
 | `mancavgeek.co.uk` | No |
 | `mandelbrotsetapp.com` | No |
 | `mander.xyz` | No |
+| `mandil.es` | No |
 | `mandis.dev` | No |
 | `mandodon.com` | No |
 | `mandps.net` | No |
@@ -28467,7 +28468,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,094 |
-| Normal | 22,329 |
+| Normal | 22,330 |
 
 
 ### 21.4% of public Fediverse services are using Cloudflare.
