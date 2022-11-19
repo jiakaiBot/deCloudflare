@@ -15286,6 +15286,7 @@ Here's a list of public Fediverse services.
 | `mdon.ee` | No |
 | `mdrockwell.net` | No |
 | `mdrqnxtagon.pw` | No |
+| `mds.name` | No |
 | `mdunn.io` | No |
 | `meatbag.app` | No |
 | `meatball.lol` | No |
@@ -28466,7 +28467,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,094 |
-| Normal | 22,328 |
+| Normal | 22,329 |
 
 
 ### 21.4% of public Fediverse services are using Cloudflare.
