@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,092 |
+| com | 4,095 |
 | net | 2,196 |
-| social | 2,176 |
-| org | 1,568 |
+| social | 2,177 |
+| org | 1,569 |
 | de | 1,447 |
 
 
@@ -2894,6 +2894,7 @@ Here's a list of public Fediverse services.
 | `blognot.co` | No |
 | `blogold.xyz` | No |
 | `blogoma.de` | No |
+| `blogpocket.com` | No |
 | `blogroll.club` | Yes |
 | `blogs.jp` | No |
 | `blogsofwar.com` | Yes |
@@ -3588,6 +3589,7 @@ Here's a list of public Fediverse services.
 | `canadafriendfinder.com` | No |
 | `canard.club` | No |
 | `canard.tube` | No |
+| `canarygateway.com` | No |
 | `canberrasocial.net` | No |
 | `cancelcultu.re` | No |
 | `cancoillotte.space` | No |
@@ -6243,6 +6245,7 @@ Here's a list of public Fediverse services.
 | `domanske.de` | No |
 | `domdom.tokyo` | No |
 | `dominicdewolfe.com` | No |
+| `dominikmarciniak.pl` | No |
 | `domm.me` | Yes |
 | `dommunicate.com` | Yes |
 | `domov.de` | No |
@@ -9270,6 +9273,7 @@ Here's a list of public Fediverse services.
 | `girak.net` | No |
 | `giratina.net` | Yes |
 | `girevik.su` | No |
+| `girino.org` | No |
 | `girlcock.club` | No |
 | `girlcock.eu` | Yes |
 | `girldick.gay` | No |
@@ -13441,6 +13445,7 @@ Here's a list of public Fediverse services.
 | `ledoian.cz` | No |
 | `leds.social` | No |
 | `leece.im` | No |
+| `leedsunited.social` | No |
 | `leel.fr` | No |
 | `leemhuis.info` | No |
 | `leermakers.net` | No |
@@ -14129,6 +14134,7 @@ Here's a list of public Fediverse services.
 | `lostcoastoutpost.com` | No |
 | `lostfocus.de` | No |
 | `lostinthe.space` | No |
+| `lostmy.pw` | Yes |
 | `lostpod.space` | No |
 | `lostsock.club` | No |
 | `lostsummer.net` | Yes |
@@ -16619,7 +16625,7 @@ Here's a list of public Fediverse services.
 | `mstdn.paris` | No |
 | `mstdn.party` | Yes |
 | `mstdn.pics` | No |
-| `mstdn.plus` | No |
+| `mstdn.plus` | Yes |
 | `mstdn.pw` | No |
 | `mstdn.quest` | Yes |
 | `mstdn.ro` | No |
@@ -20774,6 +20780,7 @@ Here's a list of public Fediverse services.
 | `rampantmonkey.social` | No |
 | `rampin.org` | No |
 | `ramshackle.town` | No |
+| `ramuuns.com` | No |
 | `ramyapandyan.com` | No |
 | `rand0m.me` | No |
 | `randbot.live` | Yes |
@@ -26957,6 +26964,7 @@ Here's a list of public Fediverse services.
 | `voomer.co.ke` | No |
 | `voppe.it` | No |
 | `voragine.net` | No |
+| `vorarlberg.site` | No |
 | `voring.me` | No |
 | `vorlon.social` | No |
 | `vorlon.space` | No |
@@ -28714,8 +28722,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,161 |
-| Normal | 22,510 |
+| Cloudflare | 6,163 |
+| Normal | 22,516 |
 
 
 ### 21.5% of public Fediverse services are using Cloudflare.
