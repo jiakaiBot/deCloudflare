@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,033 |
-| net | 2,171 |
-| social | 2,132 |
+| com | 4,034 |
+| net | 2,173 |
+| social | 2,133 |
 | org | 1,545 |
 | de | 1,435 |
 
@@ -9124,6 +9124,7 @@ Here's a list of public Fediverse services.
 | `ghosty.ch` | No |
 | `ghoul.one` | No |
 | `ghuntley.com` | Yes |
+| `ghz00.net` | Yes |
 | `giammi.org` | No |
 | `gianarb.it` | No |
 | `giant.horse` | No |
@@ -11618,6 +11619,7 @@ Here's a list of public Fediverse services.
 | `jbgs.jp` | No |
 | `jbo.social` | No |
 | `jboi.nl` | Yes |
+| `jbonomi.dev` | Yes |
 | `jbstans.social` | No |
 | `jbx.com` | No |
 | `jc1.ca` | Yes |
@@ -17897,6 +17899,7 @@ Here's a list of public Fediverse services.
 | `numerama.com` | Yes |
 | `numericoop.fr` | No |
 | `nunes.uk` | Yes |
+| `nupes.social` | No |
 | `nureinblog.at` | No |
 | `nursingpoint.de` | No |
 | `nurumayu.jp` | No |
@@ -18106,6 +18109,7 @@ Here's a list of public Fediverse services.
 | `ohai.eu` | No |
 | `ohai.social` | No |
 | `ohai.su` | No |
+| `ohbutt.com` | Yes |
 | `ohdesi.re` | No |
 | `ohess.org` | Yes |
 | `ohgro.net` | No |
@@ -20315,6 +20319,7 @@ Here's a list of public Fediverse services.
 | `quentel.social` | No |
 | `querbeetblog.ch` | No |
 | `querdenken-711.de` | No |
+| `querie.net` | No |
 | `quertube.de` | No |
 | `queryquokka.xyz` | Yes |
 | `queso.ninja` | No |
@@ -26646,6 +26651,7 @@ Here's a list of public Fediverse services.
 | `volkskontakte.com` | No |
 | `vollerlie.be` | No |
 | `volochay.info` | No |
+| `voloshyn.xyz` | No |
 | `volse.no` | No |
 | `volt.cafe` | No |
 | `volt.social` | Yes |
@@ -28389,8 +28395,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,079 |
-| Normal | 22,267 |
+| Cloudflare | 6,082 |
+| Normal | 22,270 |
 
 
-### 21.4% of public Fediverse services are using Cloudflare.
+### 21.5% of public Fediverse services are using Cloudflare.
