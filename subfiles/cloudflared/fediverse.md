@@ -11096,7 +11096,7 @@ Here's a list of public Fediverse services.
 | `infra4future.de` | Yes |
 | `inframed.net` | No |
 | `infranix.eu` | No |
-| `infsea.com` | No |
+| `infsea.com` | Yes |
 | `ingalex.net` | No |
 | `ingeechat.party` | Yes |
 | `ingenesis.net` | No |
@@ -12469,6 +12469,7 @@ Here's a list of public Fediverse services.
 | `kibitz.cloud` | Yes |
 | `kibitz.group` | No |
 | `kibousoft.co.jp` | No |
+| `kichi2004.jp` | No |
 | `kicik.fr` | No |
 | `kickass.zone` | No |
 | `kicked.ro` | No |
@@ -24324,7 +24325,7 @@ Here's a list of public Fediverse services.
 | `techgeek.tokyo` | No |
 | `techgremlin.com` | Yes |
 | `techhistory.de` | No |
-| `techhub.social` | No |
+| `techhub.social` | Yes |
 | `techie.community` | No |
 | `techie.family` | No |
 | `techied.dev` | Yes |
@@ -28464,8 +28465,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,092 |
-| Normal | 22,329 |
+| Cloudflare | 6,094 |
+| Normal | 22,328 |
 
 
 ### 21.4% of public Fediverse services are using Cloudflare.
