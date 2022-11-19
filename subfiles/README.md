@@ -52,30 +52,30 @@
       - [How many % of top 1,000 .ch domain names are using Cloudflare?](cloudflared/top/2022-switchch.md) _SWITCH_
       - [How many % of top 10 million most visited sites are using Cloudflare?](cloudflared/top/2022-domcop.md) _Domcop_
   - How many % of University and College websites are using Cloudflare?
-    - [Africa](cloudflared/collegeuniversity_africa.md)
-    - [America](cloudflared/collegeuniversity_america.md)
-    - [Asia](cloudflared/collegeuniversity_asia.md)
-    - [Europe](cloudflared/collegeuniversity_europe.md)
-    - [Oceania](cloudflared/collegeuniversity_oceania.md)
+    - [Africa](cloudflared/collegeuniversity/africa.md)
+    - [America](cloudflared/collegeuniversity/america.md)
+    - [Asia](cloudflared/collegeuniversity/asia.md)
+    - [Europe](cloudflared/collegeuniversity/europe.md)
+    - [Oceania](cloudflared/collegeuniversity/oceania.md)
   - `Money`
     - [How many % of Bitcoin Exchange sites are using Cloudflare?](cloudflared/bitcoinexchange.md)
     - [How many % of payment service providers are using Cloudflare?](cloudflared/paymentservices.md)
     - How many % of banks & financial institutions are using Cloudflare?
-      - [Africa](cloudflared/financial_africa.md)
-      - [America](cloudflared/financial_america.md)
-      - [Asia](cloudflared/financial_asia.md)
-      - [Europe](cloudflared/financial_europe.md)
-      - [Oceania](cloudflared/financial_oceania.md)
+      - [Africa](cloudflared/financial/africa.md)
+      - [America](cloudflared/financial/america.md)
+      - [Asia](cloudflared/financial/asia.md)
+      - [Europe](cloudflared/financial/europe.md)
+      - [Oceania](cloudflared/financial/oceania.md)
   - `Magazines, News`
     - [How many % of online magazines are using Cloudflare?](cloudflared/magazine.md)
     - [How many % of Hijacked Journal sites are using Cloudflare?](cloudflared/hijacked_journal.md)
     - [How many % of fake news outlets are using Cloudflare?](cloudflared/fakenews.md)
     - How many % of online newspapers are using Cloudflare?
-      - [Africa](cloudflared/newspaper_africa.md)
-      - [America / Caribbean](cloudflared/newspaper_america.md)
-      - [Asia / Middle East](cloudflared/newspaper_asia.md)
-      - [Europe](cloudflared/newspaper_europe.md)
-      - [Oceania](cloudflared/newspaper_oceania.md)
+      - [Africa](cloudflared/newspaper/africa.md)
+      - [America / Caribbean](cloudflared/newspaper/america.md)
+      - [Asia / Middle East](cloudflared/newspaper/asia.md)
+      - [Europe](cloudflared/newspaper/europe.md)
+      - [Oceania](cloudflared/newspaper/oceania.md)
   - `Government`
     - [How many % of United States Government websites are using Cloudflare?](cloudflared/government/govusa.md)
     - [How many % of France Government websites are using Cloudflare?](cloudflared/government/govfr.md)
