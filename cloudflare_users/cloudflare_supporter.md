@@ -1919,8 +1919,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -4479,6 +4479,7 @@ Do not create new issue or we will close it as duplicate.
 | [kaitozent@twitter](https://twitter.com/kaitozent/status/1538926813682204672) | advertise |
 | [Kaiy47997228@twitter](https://twitter.com/Kaiy47997228/status/1382748637629845510) | advertise |
 | [KaiZarK1@twitter](https://twitter.com/KaiZarK1/status/1392407912182599684) | advertise |
+| [kaizawa97@twitter](https://twitter.com/kaizawa97/status/1593885124176752640) | advertise |
 | [kai_h@twitter](https://twitter.com/kai_h/status/1409654911566974980) | moral (advertise) |
 | [Kaja70332299@twitter](https://twitter.com/Kaja70332299/status/1389526952747311106) | advertise |
 | [Kaka15107023@twitter](https://twitter.com/Kaka15107023/status/1387055575758868480) | advertise |
