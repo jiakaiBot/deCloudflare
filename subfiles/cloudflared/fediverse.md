@@ -5683,6 +5683,7 @@ Here's a list of public Fediverse services.
 | `dedioste.net` | No |
 | `dedosdefrente.com` | Yes |
 | `dedyn.io` | No |
+| `deef.tech` | Yes |
 | `deeloves.me` | Yes |
 | `deep-learning.site` | No |
 | `deep-weeb.com` | No |
@@ -28871,7 +28872,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,207 |
+| Cloudflare | 6,208 |
 | Normal | 22,621 |
 
 
