@@ -1921,8 +1921,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -4822,8 +4822,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6720,6 +6720,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nasro66603001@twitter](https://twitter.com/Nasro66603001/status/1519268045352546305) | advertise |
 | [nasrumv@twitter](https://twitter.com/nasrumv/status/1480051657769558017) | advertise |
 | [nasrun__@twitter](https://twitter.com/nasrun__/status/1392774223895035905) | advertise |
+| [Nasseralbalaw19@twitter](https://twitter.com/Nasseralbalaw19/status/1594382348077961220) | advertise |
 | [nasshu2916@twitter](https://twitter.com/nasshu2916/status/1411324259721367558) | moral (advertise) |
 | [Natakonnan@twitter](https://twitter.com/Natakonnan/status/1378146982661779459) | advertise |
 | [NateeDev@twitter](https://twitter.com/NateeDev/status/1541595996186357760) | advertise |
@@ -8106,6 +8107,7 @@ Do not create new issue or we will close it as duplicate.
 | [rayklanderman@twitter](https://twitter.com/rayklanderman/status/1461680590873317377) | advertise |
 | [Raymond09739398@twitter](https://twitter.com/Raymond09739398/status/1379876402128822276) | advertise |
 | [Razaini9@twitter](https://twitter.com/Razaini9/status/1391507226221682690) | advertise |
+| [raziwho@twitter](https://twitter.com/raziwho/status/1594382371872444416) | advertise |
 | [ra_pha_elo@twitter](https://twitter.com/ra_pha_elo/status/1389335112563757058) | advertise |
 | [RBIN25079279@twitter](https://twitter.com/RBIN25079279/status/1392757432779034624) | advertise |
 | [rccoders@twitter](https://twitter.com/rccoders/status/1525855907405389824) | advertise |
@@ -8315,6 +8317,8 @@ Do not create new issue or we will close it as duplicate.
 | [Rqwijls182n2DNw@twitter](https://twitter.com/Rqwijls182n2DNw/status/1391111425863548932) | advertise |
 | [rr1000afshar@twitter](https://twitter.com/rr1000afshar/status/1491893684438282240) | advertise |
 | [RRR05221747@twitter](https://twitter.com/RRR05221747/status/1389406218716909569) | advertise |
+| [RRZDxxxRRZD2@twitter](https://twitter.com/RRZDxxxRRZD2/status/1594360521121488897) | advertise |
+| [RRZDxxxRRZD@twitter](https://twitter.com/RRZDxxxRRZD/status/1594360533746323457) | advertise |
 | [RtBapu@twitter](https://twitter.com/RtBapu/status/1379872176627662848) | advertise |
 | [rtype0147@twitter](https://twitter.com/rtype0147/status/1475061620196151301) | advertise |
 | [rubbenga@twitter](https://twitter.com/rubbenga/status/1374089073091092485) | advertise |
