@@ -1873,7 +1873,7 @@ aayulpa.com
 abacusdatasys.com
 abanotanks.com
 abcollege.edu.au
-abhayghante.me
+abdiguru.id
 abikalankar.com
 abilitynet.org.uk
 abngraham.bond
@@ -1890,6 +1890,7 @@ academiayoaprendo.online
 academuspro.com
 academy2win-sale.ru
 academybikeworks.co.uk
+academybybbico.com
 academyemprende.com
 academymasterclasses.com
 academymedical.net
@@ -1943,6 +1944,7 @@ ackerfors.se
 acldiagnostics.com
 acms.co.ke
 aconino.org
+acryness.com
 acs-italia-shop.org
 acs.accesbanquevousprotege.com
 acs2.aub.ph
@@ -1976,6 +1978,7 @@ afluxbeautylab.ro
 afnn.us
 afroblowoutbar.com
 afroozfurniture.com
+agenasuransibank.com
 agency.azay.co.th
 agentemasseguro.com
 agents.akbartravels.uk
@@ -2007,9 +2010,11 @@ alarma-auto.ro
 alarmabuzoiana.ro
 alarmat.ro
 alarmavecinal.com.mx
+alarmaviper.ro
 alarmelectricsistem.ro
 alatsafetylombok.com
 albertheijnerfgoed.nl
+aldermore.co.uk
 alerte-message.com
 alerts.axelpro.space
 alexcleancontrol.ro
@@ -2036,6 +2041,7 @@ alpha-service-masini-spalat.ro
 alphabetadaycare.com
 alphaexpressdelivery.com
 alphainvestmentconsult.com
+alphaservicecontrol.com.br
 alpinemacro.com
 alrijnekerstpakket.nl
 alt-print.com
@@ -2045,6 +2051,7 @@ altr.aware-apis.com
 alvamater.com
 always-empty-handed.com
 amaazeon.top
+amade.ch
 aman-labs.com
 amatiatest.argos.co
 amazon-officialuk.com
@@ -2055,6 +2062,7 @@ amazon-switzerland.cf
 amazon14.online
 amazonedro12.ml
 amazonpaymentservice.ga
+amazonpaymentservices.site
 amazonpaymentupdate.site
 amazonservicepaymentcusts.com
 amazonupdate.top
@@ -2080,6 +2088,7 @@ amwindowsdirect.co.uk
 analiziraj.ba
 analopez.com.py
 analytics.adobe.io
+anavafaf.com
 anchoragedemocrats.org
 andreaatencio.com
 andrewwilkie.org
@@ -2098,6 +2107,7 @@ anthropo-logiques.org
 antiracisme-solidarite.org
 antispam-screen.com
 aovpn.ageas.pt
+apac.account.amazon.com
 apc-service.com.ua
 apela.gr
 apextradingaccount.com
@@ -2128,6 +2138,7 @@ api.us-east-1.dev-pengdp.catalog-browse.kids.amazon.dev
 api.us-gov-west-1.quicksight.amazonaws-us-gov.com
 api.user.anigme.io
 apimgmt-pacificocert.azure-api.net
+apirota.araskargo.com.tr
 apiselfservice.co
 apkfinger.com
 apl-landau.de
@@ -2194,6 +2205,7 @@ arnosvale.org.uk
 arriesgatehoy.net
 arsecurity.ru
 arservices.ro
+arsprojest.com.br
 arstechnica-com.cdn.ampproject.org
 artblocks-fidenza.io
 artblocks-x-fidenza.io
@@ -2237,6 +2249,7 @@ astroduel2.com
 aswakleader.app.link
 at-client-portal-api.at-fintech.com
 ate.org.ar
+atelierul-de-bratari.ro
 athenanetsso.athenahealth.com
 atjvlngithelpdesk.adani-total.in
 atlanticsouthernpaving.com
@@ -2380,8 +2393,10 @@ cpcalendars.abogaseguros.com.mx
 cpcalendars.adiyamanasm.com
 cpcalendars.adrifinvestment.com
 cpcalendars.applektostore.com
+cpcalendars.ar-appleid-support.us
 cpcalendars.autovaccineinnovation.com
 cpcontacts.aadhaarcreditscore.com
+cpcontacts.ar-appleid-support.us
 cpcontacts.availit.info
 crmprd.alj.com
 crowd.infra.yandex.astral-dev.ru
@@ -2494,6 +2509,7 @@ git.vmail.andron-barnaul.ru
 gitlab.3zsskog8pou6mei.posta.ahiddenlab.com
 gitlab.git.gitlab.gitlab.git.gitlab.zmail.agrofirma-m.ru
 gitlab.gitlab.git.git.git.gitlab.vmail.aquadiveclub.ru
+gitlab.gitlab.gitlab.git.git.m.alwaysupdateyoursupport.com
 gizmodo-com.cdn.ampproject.org
 gleac.lt.acemlnb.com
 gq2i57fs.r.us-west-2.awstrack.me
@@ -2523,6 +2539,7 @@ hw-cdn2.ang-content.com
 id.alfabank.ru
 ignitenow-dot-yamm-track.appspot.com
 images.artist-at-large.com
+ims.af.edu
 ingress.aegis.anz
 inspectie-app-prod.autobloxapp.nl
 inst.ance.tk
@@ -2555,6 +2572,7 @@ knoema-dot-yamm-track.appspot.com
 lajoygroup-bit.annkissamprojects.com
 lakers.accredit.co.zw
 lb.us-west-2-beta.gateway.ase-smarthome.alexa.amazon.dev
+lc-fl-test-apiv2-docker.azurewebsites.net
 ld-relay-ext.dev2.iad1.sre.aspect-cloud.net
 leaders-lounge-dot-yamm-track.appspot.com
 leads.arkfinserv.in
@@ -2615,6 +2633,7 @@ nexjdemo.accreoncloud.com
 next.ahmedmahrous.com
 nextcloud.authenticbread.co.uk
 nisfbqeazmfsmxxm48pk.app.link
+nissanao-mkt-stage1-m.adobe-campaign.com
 nk79zqr9.r.us-east-1.awstrack.me
 nl.artmediaagency.com
 npus-aks-4eec7c15.hcp.eastus2.azmk8s.io
@@ -2718,7 +2737,9 @@ service.akto.com.au
 service.us-east-1.dev1.dev.api.netauth.opstechit.amazon.dev
 servicemanagement.oss-ap-northeast-1.aliyuncs.com
 servicemobil.autogadget.ro
+services.arz-emmendingen.de
 seven-one-postgres.akogare.de
+sharmin7afroz-dot-yamm-track.appspot.com
 shellzauat.aieazyfuel.com
 shop.activaresoft.ro
 showdme.lt.acemlnb.com
@@ -2777,6 +2798,7 @@ thomasfrogetlesbigbossfr-dot-mmevents.appspot.com
 threedsecure-prd.apcld.com
 tlabyourquote.allianzmusicalinsurance.co.uk
 tn-cot.maps.arcgis.com
+totp.avilex.ru
 tr.anpasia.com
 track.adform.net
 tracker.alan-preproduction.k8s.ampliffy.com
@@ -2794,6 +2816,7 @@ update.aboutnet.gr
 us-east-1.alpha.api.activity-tracking.ads.amazon.dev
 us-east-1.beta.api.activity-tracking.ads.amazon.dev
 us-east-1.zdev.freedman.supergravity.advertising.amazon.dev
+us.akfinancialbank.com
 v2dc3pjr.r.us-east-1.awstrack.me
 v9r8v2kv.r.eu-west-1.awstrack.me
 vac-a-aks0-vac-a-rsg01-ea121d-c41794ea.hcp.japaneast.azmk8s.io
@@ -2815,6 +2838,7 @@ web.avon.com.mx
 webap-fshmirror-api-we1-prd.azurewebsites.net
 webdisk.aadhaarcreditscore.com
 webdisk.ahsanlakekemang.my.id
+webdisk.ar-appleid-support.us
 webdisk.autovaccineinnovation.com
 webdisk.ib.bri.apponline.my.id
 webmail.activity-coinbase.com
@@ -2927,6 +2951,7 @@ www.activity-coinbase.com
 www.activitygardens.co.uk
 www.adagio.com
 www.adagp.fr
+www.adam-vereb.online
 www.adams-pestcontrol.com
 www.addwood.net
 www.adeccotraining.es
@@ -2947,6 +2972,7 @@ www.aflacbenefitssolutions.com
 www.afm-telethon.fr
 www.afsl.nz
 www.afterworldbook.com
+www.agenasuransibank.com
 www.agh.edu.pl
 www.agreedsecurity.com
 www.agrosp.com.ar
@@ -3024,9 +3050,12 @@ www.amkor.com
 www.amro-net.jp
 www.amstrad.es
 www.amwindowsdirect.co.uk
+www.amz-customersupport.com
 www.anabolfit.com
 www.anabranchsolutions.com
 www.anagrafevolatili.it
+www.anchoragepress.com
+www.andrecrevi.com.br
 www.andyworthington.co.uk
 www.angelasaini.co.uk
 www.animenostalgiabomb.com
@@ -3039,6 +3068,7 @@ www.anshuanand.in
 www.antennefrei.de
 www.antennservice-norrtalje.se
 www.antennservice-roslagen.se
+www.antivirussoftwaredeals.com
 www.anujmathur.com
 www.anzaborregopaleo.org
 www.apc-service.com.ua
@@ -3071,9 +3101,11 @@ www.armisevents.com
 www.aroadsafety.com
 www.aroundtheglobe.nl
 www.arretetonchar.fr
+www.arrowoftimebook.com
 www.artbyjlm.com
 www.artybollocks.com
 www.asahibeer-oyamazaki.com
+www.asahibeer.co.jp
 www.asap-totalsecurity.com
 www.asc.com.au
 www.ashecon.org
@@ -3081,6 +3113,7 @@ www.asiraphotographies.com
 www.askaricement.com.pk
 www.asociacionparabolicachoconta.com
 www.assuredsecurity-bd.com
+www.astridspetitecuisine.co.uk
 www.athletico.com.br
 www.atrpromotoradecredito.com.br
 www.atsb.gov.au
@@ -3109,6 +3142,7 @@ www.autocont.cz
 www.autocont.sk
 www.autonationdrive.com
 www.autorus.ru
+www.avahealth.org
 www.avantgardemoney.net
 www.avantmeats.com
 www.aventuratreeservice.com
@@ -3117,6 +3151,7 @@ www.awarenessdigitalservice.me
 www.awretchedhive.com
 www.ayton.api-dc-tracker.my.id
 www.aztechh.com
+www.azurdrones.com
 www.banco.aguas.ml
 www.bank.adoptaunbosque.org
 www.bankesbangpol.aptikadiskominfosp.com
@@ -3134,6 +3169,7 @@ www.cliente.adily.cl
 www.clients.abstractstudio.bg
 www.concentrix-cnxmail.alharssecurity.com.pk
 www.contabilidade.aguassantas.net
+www.contao5test.acht11.de
 www.control.agenciaestabi.com
 www.controle.autoclique.com.br
 www.demobizservice.abloomideas.com
@@ -3143,6 +3179,8 @@ www.express-delivery.almashreq-bank.com
 www.farm.authenticationvalidation.org
 www.gblog.bank.pingan.com.ahiddenlab.com
 www.geotanque.pe.accesorioshdpe.com
+www.git.git.git.git.git.git.secure.aircleanmist.hk
+www.git.git.git.git.secure.aircleanmist.hk
 www.gitlab.blog.test.support.ahiddenlab.com
 www.glorillatour.com.tickets.a2hosted.com
 www.goldenmoney.allianza.co.in
@@ -3218,6 +3256,9 @@ www.ticket-tonights.acces-stream4k.com
 www.tracking-usps-barcode-label-track-package.americanunfinished.com
 www.trevornoahtours.com.tickets.a2hosted.com
 www.trial.al-rahabeach.com
+www.update.ajtaihorses.com
+www.update.athanimeacademy.in
+www.us.akfinancialbank.com
 www.user.amall.com.hk
 www.verify.id.discovery.co.za.akmd01.com
 www.vwriffy-weljs-aces9amk.authorizeddns.us
