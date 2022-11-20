@@ -572,6 +572,7 @@ fa-eyfy-test-saasfapreprod1.fa.ocs.oc-test.com
 fcgc6835.odns.fr
 front.updatefullpage.review.acdc.odiwi.fr
 getsecure.omgajananinfocom.in
+git.gitlab.git.my.psychic-answwww.chat.services.otto.su
 gmailx.oakhillsales.com
 go.openathens.net
 green-stone.online-it-support.dk
@@ -592,6 +593,7 @@ iotdemo00131.cna.phx.demoservices005.iot.oraclepdemos.com
 key.olympus-industrial.com
 kl.osmoticchalah.com
 klantportaal.ovha.nl
+login.openspot.fr
 lookadowei.onedumb.com
 maddocks.outsystemsenterprise.com
 mailing.oegfe.at
@@ -604,10 +606,13 @@ mlshomejab.ohmybargains.com
 monleale.owst.jp
 motorsport-card-updater.oakwebshop.co.uk
 mygadgetgifts.onlinepremiumgifts.com
+nc.oceantralian.com
 ndes1.onward.co.uk
 newupdate.okanefinance.ph
 nicaoiwe.organiccrap.com
 ns1.opennameserver.org
+ns2.opennameserver.org
+ns3.opennameserver.org
 oauth-authorizer.com
 obcansky-parlament.info
 oberman.nl
@@ -662,6 +667,7 @@ onsman.com
 openbenches.org
 openjewereld.nu
 opensea.co.ke
+opensec.info
 opensiddur.org
 opensupport.com.co
 optimium-group.com
@@ -669,7 +675,17 @@ oqwf.top
 oracle-ps.com
 orangebiotech.in
 orbit-controls.com
+order-confirmation.ga
+order-confirmation.gq
+order-confirmation.tk
+order-confirmations.cf
+order-confirmations.ga
+order-confirmations.gq
+order-confirmations.ml
+order-confirmations.tk
+orderconfirmation.gq
 organicplantbasedexpo.dk
+orianna.shop
 ornithologyexchange.org
 ortsbezogenekunst.at
 osef.org.ng
@@ -678,10 +694,12 @@ osr4rights.org
 oswaldhill.bond
 otcnow.com
 otonokabe.com
+otos.oto-login.com
 oukosher.org
 outlooksigninemail.com
 outpost-4.com
 ove.com.sg
+overclipse.de
 overline.co.il
 overseepos.com
 overskudslivet.dk
@@ -711,6 +729,7 @@ quios-service.operayo.de
 real11.onelink.me
 recibos.ose.com.uy
 relacionamento.oi.com.br
+review.oto-login.com
 rsp-0003.oberthur.net
 sadc1.outbrain.com
 service-discovery.ouznoreyni.tech
@@ -726,6 +745,7 @@ stdiscosrv.obermeir.org
 store.orderfront.com
 stream5.opb.org
 studentverification.oivetindia.com
+suivi-pp.orange.fr
 support.onehopemalawi.com
 support.outfox.nl
 tantodomani.owst.jp
@@ -737,6 +757,7 @@ uat-auth.omega-caci.com
 uat-certauth.omega-caci.com
 uatybaepsapi.oasyspay.in
 ugoicmidev-axcsjpwmhyzr-gr.integration.ocp.oraclecloud.com
+uk.oktopay.eu
 upbit-global.onelink.me
 update-your-info-paypa.oe-bc.com
 user.onecircle.live
@@ -819,6 +840,7 @@ www.outoftheboxproductions.ca
 www.outpost-4.com
 www.ov8espeakers.nl
 www.ove.com.sg
+www.overseascap.com
 www.oxfordreference.com
 www.postfinance.onlineba-nk.work
 www.refund.ontargetdev.eu
