@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,190 |
-| social | 2,242 |
-| net | 2,230 |
+| com | 4,192 |
+| social | 2,243 |
+| net | 2,232 |
 | org | 1,599 |
 | de | 1,472 |
 
@@ -2367,6 +2367,7 @@ Here's a list of public Fediverse services.
 | `bcome.nl` | No |
 | `bcostodon.lol` | No |
 | `bdeshi.space` | No |
+| `bdn.one` | No |
 | `bdsmspace.club` | No |
 | `bdx.town` | No |
 | `beach.city` | No |
@@ -3365,6 +3366,7 @@ Here's a list of public Fediverse services.
 | `brunisholz.fr` | No |
 | `bruno-tatu.com` | No |
 | `brunopedro.com` | No |
+| `brunty.social` | Yes |
 | `brusilia.eu` | No |
 | `brutsellog.nl` | No |
 | `brzozow.xyz` | No |
@@ -6965,6 +6967,7 @@ Here's a list of public Fediverse services.
 | `ekcragg.co.uk` | No |
 | `ekesete.net` | No |
 | `ekimemo.info` | No |
+| `eklundhome.com` | No |
 | `ekoms.top` | No |
 | `eksb.net` | No |
 | `eksp.at` | Yes |
@@ -11514,6 +11517,7 @@ Here's a list of public Fediverse services.
 | `intkos.link` | No |
 | `intmax.jp` | No |
 | `intmtn.org` | No |
+| `intothecloud.net` | Yes |
 | `intothecyber.space` | No |
 | `intotheriff.com` | No |
 | `intothewire.org` | No |
@@ -11990,6 +11994,7 @@ Here's a list of public Fediverse services.
 | `jeffjeff.us` | No |
 | `jeffreymiller.org` | No |
 | `jeffscloud.com` | No |
+| `jeffthompson.dev` | Yes |
 | `jeffyen.net` | No |
 | `jehuty11.com` | No |
 | `jel-tech.com` | Yes |
@@ -12288,6 +12293,7 @@ Here's a list of public Fediverse services.
 | `jr.lol` | Yes |
 | `jra.sh` | No |
 | `jrcichra.dev` | Yes |
+| `jrconlin.com` | Yes |
 | `jrd.cat` | No |
 | `jre.villas` | Yes |
 | `jreinert.com` | No |
@@ -15457,7 +15463,7 @@ Here's a list of public Fediverse services.
 | `mastodont.tk` | No |
 | `mastodonte.me` | Yes |
 | `mastodonte.online` | Yes |
-| `mastodonte.org` | No |
+| `mastodonte.org` | Yes |
 | `mastodonte.quebec` | No |
 | `mastodonte.social` | Yes |
 | `mastodonte.tech` | Yes |
@@ -15544,6 +15550,7 @@ Here's a list of public Fediverse services.
 | `matitodon.com` | No |
 | `mato.social` | Yes |
 | `matoken.org` | No |
+| `matome.site` | No |
 | `matri.cx` | No |
 | `matri.ml` | No |
 | `matriochka.re` | No |
@@ -21128,6 +21135,7 @@ Here's a list of public Fediverse services.
 | `ralsei.moe` | No |
 | `ralsina.me` | Yes |
 | `ram.lgbt` | Yes |
+| `ramble.moe` | Yes |
 | `ramble.space` | No |
 | `ramen-fsm.eu.org` | No |
 | `ramendon.jp` | No |
@@ -22275,6 +22283,7 @@ Here's a list of public Fediverse services.
 | `sapratza.in` | No |
 | `saptodon.org` | No |
 | `sapzil.org` | No |
+| `sarabveer.net` | Yes |
 | `sarahlizzy.org` | No |
 | `sarahvhines.com` | No |
 | `saramara.ai` | Yes |
@@ -29205,8 +29214,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,303 |
-| Normal | 22,859 |
+| Cloudflare | 6,310 |
+| Normal | 22,861 |
 
 
 ### 21.6% of public Fediverse services are using Cloudflare.
