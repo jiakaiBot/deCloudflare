@@ -18222,6 +18222,7 @@ Here's a list of public Fediverse services.
 | `nostalghia.xyz` | Yes |
 | `nostream.stream` | No |
 | `not-enough.space` | No |
+| `not-ok.computer` | No |
 | `not-really.me` | No |
 | `not.hn` | Yes |
 | `not.one` | No |
@@ -23663,6 +23664,7 @@ Here's a list of public Fediverse services.
 | `solutionpoint.asia` | No |
 | `solvingmaz.es` | No |
 | `solwer.xyz` | No |
+| `somamis.it` | No |
 | `somanydoors.ca` | Yes |
 | `somaton.com` | No |
 | `some.rs` | No |
@@ -29199,7 +29201,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,301 |
-| Normal | 22,854 |
+| Normal | 22,856 |
 
 
 ### 21.6% of public Fediverse services are using Cloudflare.
