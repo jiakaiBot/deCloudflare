@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,133 |
-| net | 2,206 |
-| social | 2,202 |
-| org | 1,574 |
+| com | 4,136 |
+| net | 2,209 |
+| social | 2,203 |
+| org | 1,575 |
 | de | 1,452 |
 
 
@@ -620,6 +620,7 @@ Here's a list of public Fediverse services.
 | `acid.im` | No |
 | `acid.wtf` | No |
 | `acidflowermusic.dance` | Yes |
+| `acidrow.com` | Yes |
 | `acki.ng` | No |
 | `aclevo.xyz` | No |
 | `acme.bo.it` | No |
@@ -3134,6 +3135,7 @@ Here's a list of public Fediverse services.
 | `boson.blue` | No |
 | `boss.taxi` | No |
 | `bossmandj.me` | No |
+| `bostoncaucus.club` | No |
 | `bostonmusic.online` | No |
 | `bot.nu` | No |
 | `botany.social` | No |
@@ -11103,6 +11105,7 @@ Here's a list of public Fediverse services.
 | `imastodon.org` | No |
 | `imayuki.com` | No |
 | `imbadwithnames.xyz` | No |
+| `imbushuo.net` | No |
 | `imchip.be` | No |
 | `imcpwn.com` | Yes |
 | `imd.social` | No |
@@ -11268,6 +11271,7 @@ Here's a list of public Fediverse services.
 | `inimeg.space` | No |
 | `inisidio.us` | No |
 | `init-c.de` | No |
+| `init.engineer` | Yes |
 | `initialization.tech` | No |
 | `initiate.space` | Yes |
 | `initiativegegendieverwendungvonvielzulangendomainnameniminter.net` | No |
@@ -12985,6 +12989,7 @@ Here's a list of public Fediverse services.
 | `korrupt.biz` | No |
 | `korzq.xyz` | No |
 | `kosebamse.com` | No |
+| `kosen.land` | Yes |
 | `kosendon.tech` | No |
 | `kosmos.social` | No |
 | `kosmospora.de` | No |
@@ -15759,6 +15764,7 @@ Here's a list of public Fediverse services.
 | `metokur.org` | Yes |
 | `metrix.network` | No |
 | `metro.bieszczady.pl` | No |
+| `metsubo-jinrai.net` | No |
 | `metu.life` | No |
 | `metube.ch` | No |
 | `metznet.ca` | Yes |
@@ -18131,6 +18137,7 @@ Here's a list of public Fediverse services.
 | `ntwrkcdn.net` | No |
 | `nu.mba` | No |
 | `nuagelibre.fr` | No |
+| `nuasa.org` | No |
 | `nubecula.org` | No |
 | `nubi.social` | No |
 | `nuclearlimes.co.uk` | No |
@@ -21681,6 +21688,7 @@ Here's a list of public Fediverse services.
 | `rubensolvang.no` | No |
 | `rubi.gd` | Yes |
 | `rubiez.eu` | No |
+| `rubincloud.com` | No |
 | `ruby.social` | No |
 | `rud.is` | No |
 | `rud.life` | No |
@@ -23989,6 +23997,7 @@ Here's a list of public Fediverse services.
 | `stuartlinden.xyz` | No |
 | `stuartoram.com` | No |
 | `studio10b.nyc` | Yes |
+| `studiofreesia.com` | No |
 | `studionpc.net` | No |
 | `studiosabatino.it` | No |
 | `studiosjb.net` | No |
@@ -24085,6 +24094,7 @@ Here's a list of public Fediverse services.
 | `sum7.eu` | No |
 | `suma-ev.social` | No |
 | `sumanko.ml` | Yes |
+| `sumeru.top` | No |
 | `sumi.space` | Yes |
 | `sumikko.club` | No |
 | `summerlin.social` | No |
@@ -25444,6 +25454,7 @@ Here's a list of public Fediverse services.
 | `tnd.lol` | No |
 | `tneal.org` | No |
 | `tnhh.org` | No |
+| `to-son.net` | Yes |
 | `to-tell.de` | No |
 | `to-tell.tk` | No |
 | `toad-in-the-hole.net` | No |
@@ -27923,6 +27934,7 @@ Here's a list of public Fediverse services.
 | `wuthering.online` | Yes |
 | `wuu.bi` | No |
 | `wwtube.net` | No |
+| `wx.social` | No |
 | `wx4.me` | No |
 | `wxcafe.net` | No |
 | `wxcloud.social` | Yes |
@@ -28858,8 +28870,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,203 |
-| Normal | 22,612 |
+| Cloudflare | 6,207 |
+| Normal | 22,620 |
 
 
 ### 21.5% of public Fediverse services are using Cloudflare.
