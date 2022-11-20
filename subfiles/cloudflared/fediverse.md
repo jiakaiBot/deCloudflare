@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,136 |
-| net | 2,209 |
+| net | 2,210 |
 | social | 2,203 |
-| org | 1,575 |
+| org | 1,576 |
 | de | 1,452 |
 
 
@@ -3443,6 +3443,7 @@ Here's a list of public Fediverse services.
 | `burningpixel.net` | No |
 | `burningtimber.com` | Yes |
 | `burnthis.town` | No |
+| `burntout.org` | No |
 | `burnworks.com` | No |
 | `buron.coffee` | No |
 | `burr.is` | Yes |
@@ -8742,6 +8743,7 @@ Here's a list of public Fediverse services.
 | `funkwhale.it` | Yes |
 | `funkwhale.net` | No |
 | `funky-beagle.at` | No |
+| `funky-family.eu` | Yes |
 | `funky.horse` | No |
 | `funkyfish.cool` | Yes |
 | `funkymonkey.org` | No |
@@ -14920,6 +14922,7 @@ Here's a list of public Fediverse services.
 | `mastdn.ca` | Yes |
 | `mastdn.com` | No |
 | `mastdn.jp` | No |
+| `mastdn.net` | No |
 | `mastdon.jp` | No |
 | `mastedm.club` | No |
 | `master-feed.net` | No |
@@ -15041,6 +15044,7 @@ Here's a list of public Fediverse services.
 | `mastodon.brussels` | No |
 | `mastodon.business` | No |
 | `mastodon.by` | No |
+| `mastodon.cab` | Yes |
 | `mastodon.cafe` | Yes |
 | `mastodon.camp` | No |
 | `mastodon.casa` | No |
@@ -26593,7 +26597,7 @@ Here's a list of public Fediverse services.
 | `urbain.es` | No |
 | `urbalazs.hu` | No |
 | `urban-radio.com` | No |
-| `urbanists.social` | No |
+| `urbanists.social` | Yes |
 | `urbanmind.net` | Yes |
 | `urbanodin.org` | Yes |
 | `urbansolarpunk.social` | No |
@@ -27035,6 +27039,7 @@ Here's a list of public Fediverse services.
 | `vlntn.pw` | No |
 | `vloggers.social` | No |
 | `vlookup.lol` | No |
+| `vmh.rest` | No |
 | `vmrpc.net` | No |
 | `vmst.io` | Yes |
 | `vmstan.com` | Yes |
@@ -28872,8 +28877,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,208 |
-| Normal | 22,621 |
+| Cloudflare | 6,211 |
+| Normal | 22,623 |
 
 
 ### 21.5% of public Fediverse services are using Cloudflare.
