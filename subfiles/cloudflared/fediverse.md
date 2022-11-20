@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,143 |
-| net | 2,216 |
+| com | 4,144 |
+| net | 2,217 |
 | social | 2,208 |
 | org | 1,582 |
 | de | 1,462 |
@@ -6056,6 +6056,7 @@ Here's a list of public Fediverse services.
 | `digitalronin.uk` | No |
 | `digitalsocialism.world` | No |
 | `digitalsoup.eu` | No |
+| `digitalsparky.com` | Yes |
 | `digitalspice.co.uk` | No |
 | `digitalstuntfactory.com` | No |
 | `digitalsuccess.dev` | No |
@@ -8140,6 +8141,7 @@ Here's a list of public Fediverse services.
 | `flauschgeschaedigt.de` | No |
 | `flauschig.social` | Yes |
 | `flavigula.net` | No |
+| `flawbee.net` | Yes |
 | `fle.studio` | Yes |
 | `flecken.monster` | No |
 | `fleshmeat.com` | No |
@@ -15409,7 +15411,7 @@ Here's a list of public Fediverse services.
 | `mattball.io` | No |
 | `mattbk.com` | No |
 | `mattcannon.uk` | Yes |
-| `mattchew.ninja` | Yes |
+| `mattchew.ninja` | No |
 | `mattchristiansenmedia.com` | No |
 | `mattcrawford.me` | Yes |
 | `mattedwards.org` | Yes |
@@ -24465,6 +24467,7 @@ Here's a list of public Fediverse services.
 | `taewaloni.net` | No |
 | `tafa.xyz` | Yes |
 | `tafelcloud.de` | No |
+| `tage.tech` | No |
 | `taggit.me` | Yes |
 | `taglar.net` | Yes |
 | `tahvok.com` | Yes |
@@ -24739,7 +24742,7 @@ Here's a list of public Fediverse services.
 | `techie.community` | No |
 | `techie.family` | No |
 | `techied.dev` | Yes |
-| `techies.social` | No |
+| `techies.social` | Yes |
 | `techisland.social` | No |
 | `techknowlogick.com` | Yes |
 | `techlover.eu` | No |
@@ -28948,8 +28951,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,233 |
-| Normal | 22,672 |
+| Cloudflare | 6,235 |
+| Normal | 22,673 |
 
 
 ### 21.6% of public Fediverse services are using Cloudflare.
