@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,136 |
-| net | 2,210 |
+| com | 4,134 |
+| net | 2,211 |
 | social | 2,203 |
-| org | 1,576 |
-| de | 1,452 |
+| org | 1,577 |
+| de | 1,453 |
 
 
 - Mastodon, Pleroma, etc
@@ -6984,7 +6984,6 @@ Here's a list of public Fediverse services.
 | `elliotali.com` | No |
 | `elliottbernstein.com` | No |
 | `ellipsis.fi` | No |
-| `ellipsiszine.com` | No |
 | `ellisnoa.cc` | No |
 | `ellugar.co` | No |
 | `elm.re` | No |
@@ -9576,6 +9575,7 @@ Here's a list of public Fediverse services.
 | `goopcave.net` | Yes |
 | `goos.social` | No |
 | `goose.rodeo` | No |
+| `goover.de` | Yes |
 | `gopinath.org` | Yes |
 | `gord.games` | No |
 | `gordons.gen.nz` | No |
@@ -10219,6 +10219,7 @@ Here's a list of public Fediverse services.
 | `hedr.in` | No |
 | `hedron.io` | No |
 | `heewch.com` | No |
+| `hei.baby` | No |
 | `heiber.im` | No |
 | `heigl.org` | No |
 | `heijmans.social` | Yes |
@@ -10392,6 +10393,7 @@ Here's a list of public Fediverse services.
 | `hhome.me` | Yes |
 | `hiauntie.com` | No |
 | `hibi.ga` | No |
+| `hibiki.eu` | No |
 | `hibiscus.pink` | No |
 | `hicmx.com` | Yes |
 | `hidamari.apartments` | No |
@@ -11781,6 +11783,7 @@ Here's a list of public Fediverse services.
 | `jatan.space` | Yes |
 | `jauer.it` | No |
 | `jauntygoat.net` | No |
+| `jauntypix.net` | No |
 | `javask.xyz` | No |
 | `javelin.love` | No |
 | `javi.pro` | No |
@@ -14155,6 +14158,7 @@ Here's a list of public Fediverse services.
 | `lonelystranger.org` | No |
 | `loner.jp` | No |
 | `lonestar.chat` | Yes |
+| `lonet.org` | Yes |
 | `longden.me` | No |
 | `longlines.org` | No |
 | `longmusic.com` | No |
@@ -14941,7 +14945,7 @@ Here's a list of public Fediverse services.
 | `masto.actor` | Yes |
 | `masto.ai` | Yes |
 | `masto.bar` | No |
-| `masto.beer` | No |
+| `masto.beer` | Yes |
 | `masto.bike` | No |
 | `masto.cafe` | No |
 | `masto.casa` | Yes |
@@ -15251,7 +15255,6 @@ Here's a list of public Fediverse services.
 | `mastodons.city` | No |
 | `mastodons.de` | Yes |
 | `mastodons.jp` | No |
-| `mastodonserv.com` | No |
 | `mastodonserver.eu` | No |
 | `mastodonserver.se` | No |
 | `mastodonsocial.app` | No |
@@ -16720,6 +16723,7 @@ Here's a list of public Fediverse services.
 | `mstdn.party` | Yes |
 | `mstdn.pics` | No |
 | `mstdn.plus` | Yes |
+| `mstdn.pt` | Yes |
 | `mstdn.pw` | No |
 | `mstdn.quest` | Yes |
 | `mstdn.ro` | No |
@@ -17080,7 +17084,7 @@ Here's a list of public Fediverse services.
 | `nadus.fr` | No |
 | `naethure.com` | No |
 | `nafo.army` | No |
-| `nafo.uk` | No |
+| `nafo.uk` | Yes |
 | `nafuchoco.page` | Yes |
 | `naga.sh` | No |
 | `naganu.com` | No |
@@ -28877,8 +28881,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,211 |
-| Normal | 22,623 |
+| Cloudflare | 6,216 |
+| Normal | 22,622 |
 
 
-### 21.5% of public Fediverse services are using Cloudflare.
+### 21.6% of public Fediverse services are using Cloudflare.
