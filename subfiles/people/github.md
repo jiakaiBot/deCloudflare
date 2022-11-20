@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare Proxy shows Let'sencrypt Certificate instead of Cloudflare Inc ECC on second domain](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2414)
 - [Cannot login to Cloudflare via terminal](https://github.com/stackblitz/webcontainer-core/issues/900)
 - [boost(1.81.0)::beast fail to connect to Coinbase's websocket API, ws://ws-feed.pro.coinbase.com/ or wss](https://github.com/boostorg/beast/issues/2566)
 - [connection problem with TLS and IPv6](https://github.com/v2fly/v2ray-core/issues/2160)
