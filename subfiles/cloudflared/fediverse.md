@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,133 |
 | net | 2,206 |
-| social | 2,200 |
+| social | 2,201 |
 | org | 1,574 |
 | de | 1,452 |
 
@@ -15530,6 +15530,7 @@ Here's a list of public Fediverse services.
 | `medium.com` | Yes |
 | `medium.place` | Yes |
 | `medjed.com` | No |
+| `medlibre.fr` | No |
 | `medsos.web.id` | No |
 | `medusmedia.com` | No |
 | `meekchopp.es` | No |
@@ -26437,6 +26438,7 @@ Here's a list of public Fediverse services.
 | `ungoverned.social` | Yes |
 | `ungzeit.de` | No |
 | `unhandledexpression.com` | No |
+| `unhinged.social` | No |
 | `uni-corn.me` | Yes |
 | `uni-hamburg.de` | No |
 | `uni-humbug.de` | No |
@@ -28855,7 +28857,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,203 |
-| Normal | 22,608 |
+| Normal | 22,610 |
 
 
 ### 21.5% of public Fediverse services are using Cloudflare.
