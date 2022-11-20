@@ -762,12 +762,15 @@ hackcovid.vercel.app
 hcp3csaccdpreg-5a.prd.eu.vwg.vwautocloud.net
 heli-prod.vt-fls.com
 helpdesk.vimeva.nl
+hijosdeperraesgmail.vercel.app
 hougang1.ddns.vhftech.app
+hunter-spyder.vercel.app
 hunterghancock.vercel.app
 hunterloftis.vercel.app
 hunterred50.vercel.app
 idp.comid.fma-4153d385.core.build.vwn.cloud
 iforgot-apple.verifylocation.live
+info.vemsa.travel
 intelex.vercel.app
 intteco.vercel.app
 jenkins.vedha.io
@@ -815,6 +818,7 @@ selfcare.onenet.vodafone.nl
 server2.veilig-online.com
 service.vimeva.nl
 servicereqs.vetbizconsulting.org
+sg188.vcmedia.vn
 sharepoint.vcs.org.au
 shopee.vn-lienket.shop
 si-idp.vfltest.dk
@@ -825,6 +829,7 @@ steam.vrroom.nl
 streaming-ssr-deep-dive.vercel.app
 sync.viadata.store
 system.vshub.com
+szdlite-gmailcom.vercel.app
 tejasaiyenprince-gmailcom.vercel.app
 test-vercel-1-asd.vercel.app
 test.vaccines-otaru-city.jp
@@ -844,6 +849,7 @@ vahptr.com
 vakifbank-hizlikredi.tk
 vakrangeedevelopers.com
 valdemarhoiris.dk
+valorasecurity.cl
 vandoornsupport.nl
 varietal-literature.ca
 variety-kfc.com.ru
@@ -865,6 +871,7 @@ verify-bankofamerica.com
 verify-malta.com
 verify-mywellsfargo-account76r.com
 vermontbiz.com
+veronicabadea.com
 veronmoney.com
 versas-fukushi.com
 veszpremvaros.hu
@@ -916,6 +923,7 @@ vodiscord.vercel.app
 voices.media
 voicesofvr.com
 voidacoustics.ro
+voltafa.org
 voteojeda.com
 voyagebaltimore.com
 voyagestransat.com
@@ -928,6 +936,7 @@ vsc-library.org
 vtest314-cahj6gwweznekdcszdj1.vercel.app
 vulturrorp.tk
 vuprom.com
+vuroblox.site
 vvwwcajapiura.pe
 vvwwvvcajapiura.com
 vwwcajapiura.pe
@@ -968,6 +977,7 @@ www.git.git.git.git.git.alert.vestitula.ru
 www.git.git.git.git.git.git.alert.vestitula.ru
 www.iforgot-apple.verifylocation.live
 www.itunesconnect-securepayementsapple.verifylocation.live
+www.login.vertesutitars.hu
 www.login.vipallservice.com
 www.merchandisingdelivery.com.velkaspa.com
 www.relampago-de-clientes.virio.digital
@@ -1009,6 +1019,7 @@ www.viajeselcorteingles.es
 www.vialsafe.co
 www.vicenteguimaraes.com.br
 www.victoriansweatshop.com
+www.video-softwares.com
 www.videochatforum.ro
 www.villaoeiras.com
 www.ville-nogentlerotrou.fr
