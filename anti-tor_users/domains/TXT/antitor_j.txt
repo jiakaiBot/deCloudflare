@@ -311,6 +311,7 @@ b-plus2.jtb-cwt.com
 backup.jl-service.be
 baramundi.johanniter.at
 billpaylite.ipay.jhahosting.com
+blog.jalantechnologies.com
 blog.joshgav.com
 ca.jubilo.ca
 carrefour-staging.jobijoba.io
@@ -354,13 +355,16 @@ jamespalmeiroblog.com
 jamtrading.jp
 janemilton.bond
 janpoertner.de
+japlaw.qa
 jasagoogleadwords.juragan77.id
 jashlinpestcontrol.com.au
 javalab.org
 javamaint17.jobs2web.com
 javamaint47.jobs2web.com
 jayastamba.com
+jazzfinland.fi
 jazzonthetube.com
+jb-contadores.com
 jbhelpdesk.dk
 jconnect-build.uat.jivascience.com
 jdelivery.jdtecnologiapb.com
@@ -369,6 +373,7 @@ jedewette.online
 jeevatrials.com
 jeffersonbailey.com
 jemmyfoxlabs.com
+jenniferjchow.com
 jenschristian.se
 jeparamebelindonesia.com
 jepeuxpasjaimaths.fr
@@ -380,6 +385,7 @@ jet-engineering.co.uk
 jetsonhacks.com
 jewish-heritage-europe.eu
 jg-realestate.com
+jgoyal.com
 jhaulinganddelivery.com
 jiaorganic.com
 jibaaksla.com
@@ -388,6 +394,7 @@ jio.nz
 jiocarreirs.co.in
 jkbrickworks.com
 jkoshikko.xyz
+jmcvey.net
 joanganzcooneycenter.org
 joaopedrocanhenha.com
 joaquinaldecoa.com.ar
@@ -408,6 +415,7 @@ joost.co.za
 josemanuelfuentes.es
 joseph-dickson.com
 joshbelville.com
+joshuad.net
 journalstar.com
 jourumbuffon.com
 joyofblending.com
@@ -424,6 +432,7 @@ justcatnft.com
 justcounsel.us
 justy-web.com
 jweinat.com
+mastodon.juggler.jp
 my.jtxwebdesign.com
 navi.joniec.co
 netflix-shuffle.jacobschmocker.com
@@ -431,6 +440,7 @@ new.jakartarailways.com
 nonekohour.jempu.com
 openpgpkey.jstorch.net
 origin.cn.qa.po.jungheinrichcloud.com
+pdentalclinhostmaster.jakkiesnassie.nl
 pre.ads.justpremium.com
 pro.stg.jawaz-essaha.com
 qoh-test.johnstonesupply.com
@@ -488,6 +498,7 @@ www.jasoncolavito.com
 www.jaysellssacramento.com
 www.jazzappreciationsociety.com
 www.jazzedmagazine.com
+www.jb-contadores.com
 www.jbhifi.co.nz
 www.jccustomservice.com
 www.jdelivery.jdtecnologiapb.com
@@ -530,6 +541,7 @@ www.jumblebee.co.uk
 www.jungblut-onderhoud.nl
 www.jussantacruz.gob.ar
 www.justice.govt.nz
+www.justplainmoney.com
 www.jwing.net
 www.jyskmurerservice.dk
 www.loja100dinheironamao.javiste.net
