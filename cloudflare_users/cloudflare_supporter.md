@@ -3192,6 +3192,7 @@ Do not create new issue or we will close it as duplicate.
 | [HamdanMatNor18@twitter](https://twitter.com/HamdanMatNor18/status/1393666177692360705) | advertise |
 | [hamdikhalid43@twitter](https://twitter.com/hamdikhalid43/status/1584383476719312899) | advertise |
 | [Hamed1974ir@twitter](https://twitter.com/Hamed1974ir/status/1575416669085786113) | advertise |
+| [HamedAMashgi@twitter](https://twitter.com/HamedAMashgi/status/1594406334547509248) | advertise |
 | [hamidkh41481829@twitter](https://twitter.com/hamidkh41481829/status/1488981351059664900) | advertise |
 | [Hami_HamaSaed@twitter](https://twitter.com/Hami_HamaSaed/status/1376832495468081156) | advertise |
 | [HamJin123@twitter](https://twitter.com/HamJin123/status/1434402038339624962) | advertise |
@@ -4822,8 +4823,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7586,6 +7587,7 @@ Do not create new issue or we will close it as duplicate.
 | [phipham1996@twitter](https://twitter.com/phipham1996/status/1394095455848435714) | advertise |
 | [PhmChun95594174@twitter](https://twitter.com/PhmChun95594174/status/1579064424811630592) | advertise |
 | [PhmDuyn29732922@twitter](https://twitter.com/PhmDuyn29732922/status/1397789960820772870) | advertise |
+| [PhmGiaQun2@twitter](https://twitter.com/PhmGiaQun2/status/1594394366654976000) | advertise |
 | [PhmHngP26599927@twitter](https://twitter.com/PhmHngP26599927/status/1384403954629443590) | advertise |
 | [PhmKhnhDn2@twitter](https://twitter.com/PhmKhnhDn2/status/1394310433629040642) | advertise |
 | [PhmKhu11@twitter](https://twitter.com/PhmKhu11/status/1397486099644092418) | advertise |
@@ -9482,6 +9484,7 @@ Do not create new issue or we will close it as duplicate.
 | [ThawZin93095969@twitter](https://twitter.com/ThawZin93095969/status/1393479817127886850) | advertise |
 | [ThawZinHtoo12@twitter](https://twitter.com/ThawZinHtoo12/status/1398715616303984648) | advertise |
 | [Thazino85121100@twitter](https://twitter.com/Thazino85121100/status/1391396848431091715) | advertise |
+| [thbch11937486@twitter](https://twitter.com/thbch11937486/status/1594412281341046784) | advertise |
 | [ThchLng7@twitter](https://twitter.com/ThchLng7/status/1388078661371322369) | advertise |
 | [ThcTrn74672040@twitter](https://twitter.com/ThcTrn74672040/status/1407172933747830794) | advertise |
 | [ThcVi3@twitter](https://twitter.com/ThcVi3/status/1484537255989772290) | advertise |
