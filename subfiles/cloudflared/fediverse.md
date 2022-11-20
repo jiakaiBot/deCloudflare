@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,095 |
-| net | 2,196 |
-| social | 2,178 |
-| org | 1,569 |
+| com | 4,100 |
+| net | 2,197 |
+| social | 2,180 |
+| org | 1,570 |
 | de | 1,447 |
 
 
@@ -436,6 +436,7 @@ Here's a list of public Fediverse services.
 | `8arrow.org` | No |
 | `8bit.chat` | Yes |
 | `8bit.social` | No |
+| `8bits1byte.co.uk` | No |
 | `8bittheologian.com` | Yes |
 | `8bitwizard.net` | No |
 | `8mitsu.net` | No |
@@ -2583,6 +2584,7 @@ Here's a list of public Fediverse services.
 | `bibliohack.org` | No |
 | `biblioverse.online` | No |
 | `bibly.com` | No |
+| `biboumail.fr` | No |
 | `bichomen.com` | No |
 | `bicyclemstdn.jp` | No |
 | `bida.im` | No |
@@ -5055,6 +5057,7 @@ Here's a list of public Fediverse services.
 | `cunny.finance` | No |
 | `cunny.moe` | Yes |
 | `cupka.name` | No |
+| `cupoftea.social` | No |
 | `curcudel.com` | No |
 | `curenoize.org` | Yes |
 | `curiosas.mx` | No |
@@ -6946,6 +6949,7 @@ Here's a list of public Fediverse services.
 | `elliotali.com` | No |
 | `elliottbernstein.com` | No |
 | `ellipsis.fi` | No |
+| `ellipsiszine.com` | No |
 | `ellisnoa.cc` | No |
 | `ellugar.co` | No |
 | `elm.re` | No |
@@ -7973,6 +7977,7 @@ Here's a list of public Fediverse services.
 | `filmfreedom.net` | No |
 | `filmherd.social` | No |
 | `filmvirgins.com` | No |
+| `fim.social` | No |
 | `fimidi.com` | No |
 | `fimpern.de` | No |
 | `finalesocial.com` | No |
@@ -11977,6 +11982,7 @@ Here's a list of public Fediverse services.
 | `joinmastodon.org` | Yes |
 | `joinpeertubecrypto.org` | No |
 | `joinplu.me` | No |
+| `jointakahe.org` | No |
 | `jokertv.eu` | No |
 | `jokiller230.tk` | No |
 | `jokin.fi` | No |
@@ -13594,6 +13600,7 @@ Here's a list of public Fediverse services.
 | `leuchtetgruen.de` | No |
 | `leuhta.dev` | No |
 | `levant.social` | No |
+| `level8tech.com` | No |
 | `levelxstudios.org` | No |
 | `leverburns.blue` | No |
 | `leverger.ovh` | No |
@@ -15172,6 +15179,7 @@ Here's a list of public Fediverse services.
 | `mastodons.city` | No |
 | `mastodons.de` | Yes |
 | `mastodons.jp` | No |
+| `mastodonserv.com` | No |
 | `mastodonserver.eu` | No |
 | `mastodonserver.se` | No |
 | `mastodonsocial.app` | No |
@@ -15434,6 +15442,7 @@ Here's a list of public Fediverse services.
 | `mechkey.jp` | No |
 | `meckpom.social` | No |
 | `mecp.de` | No |
+| `med-mammoth.com` | No |
 | `med-mastodon.com` | No |
 | `med-mstdn.com` | No |
 | `media-techport.de` | No |
@@ -15640,6 +15649,7 @@ Here's a list of public Fediverse services.
 | `messydesk.social` | No |
 | `met-eaux.nl` | No |
 | `met-hardware.fr` | No |
+| `meta-carbon.com` | No |
 | `meta-site.de` | No |
 | `meta-tube.de` | No |
 | `metabit.xyz` | No |
@@ -20178,6 +20188,7 @@ Here's a list of public Fediverse services.
 | `procrastinate.work` | No |
 | `procrastination.party` | No |
 | `procub.us` | No |
+| `procydon.net` | No |
 | `prodmgmt.social` | No |
 | `prodottoinrete.com` | Yes |
 | `prodottoinrete.it` | Yes |
@@ -21778,6 +21789,7 @@ Here's a list of public Fediverse services.
 | `saitama-stdn.com` | No |
 | `sakaba.space` | No |
 | `sakaki333.com` | No |
+| `sakamichi.fun` | Yes |
 | `sakamoto.gq` | No |
 | `sakana.cx` | No |
 | `sakede.su` | Yes |
@@ -28637,6 +28649,7 @@ Here's a list of public Fediverse services.
 | `zoomers.lol` | No |
 | `zoonior.app` | No |
 | `zoosbook.com` | Yes |
+| `zoot.fun` | Yes |
 | `zoppelt.net` | Yes |
 | `zorbo.social` | No |
 | `zordhak.fr` | No |
@@ -28723,8 +28736,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,164 |
-| Normal | 22,516 |
+| Cloudflare | 6,166 |
+| Normal | 22,527 |
 
 
 ### 21.5% of public Fediverse services are using Cloudflare.
