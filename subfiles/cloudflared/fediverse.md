@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,133 |
 | net | 2,206 |
-| social | 2,201 |
+| social | 2,202 |
 | org | 1,574 |
 | de | 1,452 |
 
@@ -1556,6 +1556,7 @@ Here's a list of public Fediverse services.
 | `archipell.xyz` | No |
 | `archipielago.uno` | No |
 | `archive.org` | Yes |
+| `archived.software` | No |
 | `archivefedifor.fun` | No |
 | `archous.net` | No |
 | `archraspberrypi.tk` | No |
@@ -15206,6 +15207,7 @@ Here's a list of public Fediverse services.
 | `mastodonczech.cz` | No |
 | `mastodondebug.link` | No |
 | `mastodones.club` | No |
+| `mastodonevolve.social` | No |
 | `mastodonevry.ovh` | No |
 | `mastodonfor.me` | No |
 | `mastodonfrance.com` | No |
@@ -28857,7 +28859,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,203 |
-| Normal | 22,610 |
+| Normal | 22,612 |
 
 
 ### 21.5% of public Fediverse services are using Cloudflare.
