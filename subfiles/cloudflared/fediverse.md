@@ -3033,6 +3033,7 @@ Here's a list of public Fediverse services.
 | `bobek.cz` | No |
 | `boberts.me` | No |
 | `bobiko.blog` | Yes |
+| `bobiko.dev` | Yes |
 | `bobwertz.com` | No |
 | `bocc.de` | No |
 | `bocchi.social` | No |
@@ -4445,6 +4446,7 @@ Here's a list of public Fediverse services.
 | `cocao.land` | Yes |
 | `cochran.social` | No |
 | `cock.fish` | No |
+| `cockandballtortu.re` | No |
 | `cockb.ro` | No |
 | `cockworshipper.com` | No |
 | `cocoa.me.uk` | Yes |
@@ -5235,6 +5237,7 @@ Here's a list of public Fediverse services.
 | `cyberfed.net` | No |
 | `cyberforest.xyz` | No |
 | `cyberfrancis.net` | No |
+| `cyberfront.space` | No |
 | `cyberfuck.club` | No |
 | `cyberfurz.art` | No |
 | `cyberfurz.social` | No |
@@ -10944,6 +10947,7 @@ Here's a list of public Fediverse services.
 | `hurgen.com` | No |
 | `hurley.page` | No |
 | `huron.social` | No |
+| `husbandoism.life` | No |
 | `hush.is` | Yes |
 | `husk.site` | No |
 | `husku.net` | No |
@@ -28157,6 +28161,7 @@ Here's a list of public Fediverse services.
 | `worst-friends.chat` | Yes |
 | `worty.de` | No |
 | `wos.la` | Yes |
+| `wotter.space` | Yes |
 | `woutfeys.be` | No |
 | `wovensoup.com` | No |
 | `wovs.tk` | Yes |
@@ -29200,8 +29205,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,301 |
-| Normal | 22,856 |
+| Cloudflare | 6,303 |
+| Normal | 22,859 |
 
 
 ### 21.6% of public Fediverse services are using Cloudflare.
