@@ -10942,6 +10942,7 @@ Here's a list of public Fediverse services.
 | `ical.ist` | Yes |
 | `ican.codes` | Yes |
 | `icante.ventures` | No |
+| `iccd.io` | No |
 | `icd-creators.com` | No |
 | `ice-lolly.social` | No |
 | `icedlatte.chat` | No |
@@ -28871,7 +28872,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,207 |
-| Normal | 22,620 |
+| Normal | 22,621 |
 
 
 ### 21.5% of public Fediverse services are using Cloudflare.
