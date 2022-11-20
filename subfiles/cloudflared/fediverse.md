@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,142 |
+| com | 4,143 |
 | net | 2,216 |
-| social | 2,207 |
+| social | 2,208 |
 | org | 1,582 |
 | de | 1,462 |
 
@@ -250,6 +250,7 @@ Here's a list of public Fediverse services.
 | `300-baud.net` | No |
 | `300m.com` | No |
 | `30d.org` | Yes |
+| `314cloud.com` | No |
 | `32-b.it` | No |
 | `334.ovh` | Yes |
 | `338338.xyz` | Yes |
@@ -6880,7 +6881,7 @@ Here's a list of public Fediverse services.
 | `eigenmagic.net` | Yes |
 | `eightballde.luxe` | No |
 | `eighthstreetorchestra.com` | No |
-| `eightpoint.app` | No |
+| `eightpoint.app` | Yes |
 | `eihei.net` | Yes |
 | `eike-guenther.de` | No |
 | `eiko-fried.com` | No |
@@ -8032,7 +8033,7 @@ Here's a list of public Fediverse services.
 | `filmfreedom.net` | No |
 | `filmherd.social` | No |
 | `filmvirgins.com` | No |
-| `fim.social` | No |
+| `fim.social` | Yes |
 | `fimidi.com` | No |
 | `fimpern.de` | No |
 | `finalesocial.com` | No |
@@ -15100,6 +15101,7 @@ Here's a list of public Fediverse services.
 | `mastodon.com.au` | No |
 | `mastodon.com.br` | No |
 | `mastodon.com.pl` | Yes |
+| `mastodon.com.py` | Yes |
 | `mastodon.com.tr` | Yes |
 | `mastodon.com.tw` | No |
 | `mastodon.computer` | Yes |
@@ -15392,6 +15394,7 @@ Here's a list of public Fediverse services.
 | `matitodon.com` | No |
 | `mato.social` | Yes |
 | `matoken.org` | No |
+| `matome.site` | No |
 | `matri.cx` | No |
 | `matri.ml` | No |
 | `matriochka.re` | No |
@@ -15734,6 +15737,7 @@ Here's a list of public Fediverse services.
 | `mercut.io` | No |
 | `meremortalspodcast.shop` | No |
 | `merill.net` | Yes |
+| `merkel.info` | No |
 | `merkel.social` | Yes |
 | `merlion.social` | Yes |
 | `mermaid.town` | No |
@@ -28860,6 +28864,7 @@ Here's a list of public Fediverse services.
 | `zoppelt.net` | Yes |
 | `zorbo.social` | No |
 | `zordhak.fr` | No |
+| `zork.social` | No |
 | `zornhau.de` | No |
 | `zorns.eu` | No |
 | `zoski.fr` | No |
@@ -28943,8 +28948,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,230 |
-| Normal | 22,670 |
+| Cloudflare | 6,233 |
+| Normal | 22,672 |
 
 
 ### 21.6% of public Fediverse services are using Cloudflare.
