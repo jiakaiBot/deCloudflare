@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,144 |
+| com | 4,143 |
 | net | 2,217 |
-| social | 2,208 |
+| social | 2,209 |
 | org | 1,582 |
-| de | 1,462 |
+| de | 1,463 |
 
 
 - Mastodon, Pleroma, etc
@@ -250,7 +250,6 @@ Here's a list of public Fediverse services.
 | `300-baud.net` | No |
 | `300m.com` | No |
 | `30d.org` | Yes |
-| `314cloud.com` | No |
 | `32-b.it` | No |
 | `334.ovh` | Yes |
 | `338338.xyz` | Yes |
@@ -2697,6 +2696,7 @@ Here's a list of public Fediverse services.
 | `bionicbeer.com` | No |
 | `biont.space` | No |
 | `bioxis-server.fr` | No |
+| `biphant.social` | Yes |
 | `biplus.date` | Yes |
 | `bipolar.city` | No |
 | `bipolarsupportgroup.net` | Yes |
@@ -15396,7 +15396,6 @@ Here's a list of public Fediverse services.
 | `matitodon.com` | No |
 | `mato.social` | Yes |
 | `matoken.org` | No |
-| `matome.site` | No |
 | `matri.cx` | No |
 | `matri.ml` | No |
 | `matriochka.re` | No |
@@ -21900,6 +21899,7 @@ Here's a list of public Fediverse services.
 | `sac.moe` | Yes |
 | `sac.se` | No |
 | `sachertorte.xyz` | No |
+| `sachsen-social.de` | Yes |
 | `sackheads.blog` | No |
 | `sackheads.social` | No |
 | `sacrificial-chickens.social` | No |
@@ -28951,8 +28951,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,235 |
-| Normal | 22,673 |
+| Cloudflare | 6,237 |
+| Normal | 22,671 |
 
 
 ### 21.6% of public Fediverse services are using Cloudflare.
