@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,100 |
+| com | 4,101 |
 | net | 2,197 |
 | social | 2,180 |
-| org | 1,570 |
+| org | 1,571 |
 | de | 1,447 |
 
 
@@ -1866,6 +1866,7 @@ Here's a list of public Fediverse services.
 | `attoch.org` | Yes |
 | `attractive.space` | No |
 | `atwab.ca` | No |
+| `atwistedsystem.com` | No |
 | `atwood.name` | No |
 | `atx.pub` | No |
 | `atx.social` | No |
@@ -4505,7 +4506,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `comacero.com` | No |
 | `comam.es` | No |
@@ -11200,6 +11201,7 @@ Here's a list of public Fediverse services.
 | `inframed.net` | No |
 | `infranix.eu` | No |
 | `infsea.com` | Yes |
+| `infurnalcreatures.org` | No |
 | `ingalex.net` | No |
 | `ingeechat.party` | Yes |
 | `ingenesis.net` | No |
@@ -12537,7 +12539,7 @@ Here's a list of public Fediverse services.
 | `kettle.social` | No |
 | `kev.by` | No |
 | `kev.pub` | No |
-| `kev.social` | No |
+| `kev.social` | Yes |
 | `kevin.cl` | Yes |
 | `kevindangoor.com` | No |
 | `kevinflo.com` | Yes |
@@ -14360,6 +14362,7 @@ Here's a list of public Fediverse services.
 | `luxurygay.space` | No |
 | `luzifer.io` | No |
 | `lv8.at` | Yes |
+| `lvb.io` | No |
 | `lvds.co` | No |
 | `lviv.social` | No |
 | `lviv.today` | No |
@@ -24782,6 +24785,7 @@ Here's a list of public Fediverse services.
 | `the86community.com` | No |
 | `the9thcircle.club` | No |
 | `theabsolute.plus` | Yes |
+| `theagora.one` | No |
 | `theairplan.com` | Yes |
 | `theamesfamily.net` | No |
 | `theantisocials.co.uk` | No |
@@ -28737,7 +28741,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,166 |
-| Normal | 22,527 |
+| Normal | 22,531 |
 
 
 ### 21.5% of public Fediverse services are using Cloudflare.
