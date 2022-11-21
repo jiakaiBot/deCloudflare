@@ -2794,6 +2794,7 @@ Do not create new issue or we will close it as duplicate.
 | [findmeadevice@twitter](https://twitter.com/findmeadevice/status/1465437487497682955) | advertise |
 | [finmods_com@twitter](https://twitter.com/finmods_com/status/1494976559966572549) | advertise |
 | [finn476@twitter](https://twitter.com/finn476/status/1379428259914424329) | advertise |
+| [fiqzzzi@twitter](https://twitter.com/fiqzzzi/status/1594694105845878784) | advertise |
 | [FirasFandi@twitter](https://twitter.com/FirasFandi/status/1552683420404355074) | advertise |
 | [fire11po@twitter](https://twitter.com/fire11po/status/1552902952083689472) | advertise |
 | [firecryptoeth@twitter](https://twitter.com/firecryptoeth/status/1592021042524225537) | advertise |
@@ -9095,6 +9096,7 @@ Do not create new issue or we will close it as duplicate.
 | [suabahasa@twitter](https://twitter.com/suabahasa/status/1464808940600893445) | advertise |
 | [SuatuoiB@twitter](https://twitter.com/SuatuoiB/status/1394638045916237831) | advertise |
 | [Sub4Rhys@twitter](https://twitter.com/Sub4Rhys/status/1452716557231079425) | advertise |
+| [Subas79111783@twitter](https://twitter.com/Subas79111783/status/1594687713365864448) | advertise |
 | [SubashS68737602@twitter](https://twitter.com/SubashS68737602/status/1552276508554964992) | advertise |
 | [SUBEZYETI@twitter](https://twitter.com/SUBEZYETI/status/1403026281130643459) | advertise |
 | [Subhamdm@twitter](https://twitter.com/Subhamdm/status/1401919030034714630) | advertise |
