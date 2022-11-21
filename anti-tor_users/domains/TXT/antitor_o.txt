@@ -563,6 +563,7 @@ dev.office365account.com
 dev2.onesourcetax.com
 developer.oculus.com
 devices.oaklandstatebank.com
+devu11.onlinetestingserver.com
 dex.ogolation.de
 diego.ospinalaw.com
 doicis0100integrationservices-atcoci1.integration.ocp.oraclecloud.com
@@ -608,6 +609,7 @@ motorsport-card-updater.oakwebshop.co.uk
 mygadgetgifts.onlinepremiumgifts.com
 nc.oceantralian.com
 ndes1.onward.co.uk
+ndes2.onward.co.uk
 newupdate.okanefinance.ph
 nicaoiwe.organiccrap.com
 ns1.opennameserver.org
@@ -674,6 +676,7 @@ optimium-group.com
 oqwf.top
 oracle-ps.com
 orangebiotech.in
+orangepi.com
 orbit-controls.com
 order-confirmation.ga
 order-confirmation.gq
@@ -713,6 +716,7 @@ paid.outbrain.com
 pankajy.onlinegoogleadscourse.com
 passwortcheck.outercirc.io
 pixel-us.onaudience.com
+pocus.it-cpi003-rt.cfapps.us10.hana.ondemand.com
 poicis0100integrationservices-atcoci1.integration.ocp.oraclecloud.com
 portal.olomeleia.gr
 postcovid.onlinedoctor.space
@@ -739,8 +743,10 @@ shared-cw-alarm.orkesconductor.com
 shop.oxfamnovib.nl
 smart.owqms.com
 sn.olavthon.no
+sso-stage2.production.next.obi-solution.net
 stackcrm.ocbc.com
 stageway.ok-kontor.no
+staging.payments.orteo.co
 stdiscosrv.obermeir.org
 store.orderfront.com
 stream5.opb.org
@@ -780,6 +786,7 @@ www.clientsrvicesrequstdelivryusspsrvww09391.oznemedya.com
 www.contabilidade.organizece.com.br
 www.customer.omnipos.co
 www.derakpost.obatgaptech.com
+www.ehs.oxigenweb.com.br
 www.essaywritingsservice.net.online-papers.net
 www.fernbertemes.org.mab-dap.on-rev.com
 www.git.blog.shop.secure.oleybet.link
@@ -798,6 +805,7 @@ www.oakhurstvet.com
 www.obsolete-tears.com
 www.octb.pt
 www.oculus.com
+www.ods-es.odsherred-ejendomsservice.dk
 www.office-com.jp
 www.officeconta.ro
 www.ofn.org
@@ -813,6 +821,8 @@ www.omniconsecurity.com
 www.omwis.de
 www.one-place-studies.org
 www.oneapi.io
+www.onechord.net
+www.onefinedaytherapyandsupport.com
 www.onefist.org
 www.online-verify-serv.name
 www.onmanorama.com
@@ -842,6 +852,7 @@ www.ov8espeakers.nl
 www.ove.com.sg
 www.overseascap.com
 www.oxfordreference.com
+www.oysterseedsalon.com
 www.postfinance.onlineba-nk.work
 www.refund.ontargetdev.eu
 www.stageway.ok-kontor.no
