@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,218 |
+| com | 4,219 |
 | social | 2,281 |
 | net | 2,243 |
 | org | 1,612 |
@@ -217,6 +217,7 @@ Here's a list of public Fediverse services.
 | `283.cloud` | Yes |
 | `285252.xyz` | No |
 | `28left.dev` | No |
+| `290618.xyz` | Yes |
 | `2968.work` | No |
 | `29lab.jp` | Yes |
 | `2a03.party` | No |
@@ -10714,6 +10715,7 @@ Here's a list of public Fediverse services.
 | `hivechat.co.uk` | No |
 | `hivecore.social` | No |
 | `hivemind.gq` | No |
+| `hivemind.plus` | No |
 | `hiveway.net` | Yes |
 | `hixe.fr` | No |
 | `hiyuki.xyz` | No |
@@ -12178,6 +12180,7 @@ Here's a list of public Fediverse services.
 | `jimweb.dev` | No |
 | `jingo.social` | No |
 | `jinja.eu` | No |
+| `jinteki.industries` | Yes |
 | `jinteki.link` | No |
 | `jinwei.me` | Yes |
 | `jippi.dev` | Yes |
@@ -12455,6 +12458,7 @@ Here's a list of public Fediverse services.
 | `jussak.net` | No |
 | `justabit.social` | No |
 | `justafellow.com` | No |
+| `justandras.com` | Yes |
 | `justanomad.net` | No |
 | `justanother.party` | No |
 | `justbartek.ca` | No |
@@ -23918,6 +23922,7 @@ Here's a list of public Fediverse services.
 | `soykaf.online` | No |
 | `soykaf.org` | Yes |
 | `soylent.green` | No |
+| `soymas.to` | No |
 | `soymilk.club` | Yes |
 | `soysoftware.net` | No |
 | `soyuki.net` | No |
@@ -29406,8 +29411,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,361 |
-| Normal | 23,002 |
+| Cloudflare | 6,364 |
+| Normal | 23,004 |
 
 
 ### 21.7% of public Fediverse services are using Cloudflare.
