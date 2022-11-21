@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Fetch all records with history not allowed because of limits](https://github.com/HubSpot/hubspot-api-python/issues/143)
+- [Cookies carry over to different domain & don't expire](https://github.com/karatelabs/karate/issues/2186)
 - [Using basic auth after failed JWT verification no longer works post 9.2](https://github.com/grafana/grafana/issues/59023)
 - [Update closure with D1 Database not working?](https://github.com/super-flow/cfw-framework/issues/2)
 - [Cloudflare Proxy shows Let'sencrypt Certificate instead of Cloudflare Inc ECC on second domain](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2414)
