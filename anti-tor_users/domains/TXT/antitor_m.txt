@@ -1536,8 +1536,10 @@ api.marbica.com
 api.mcacms.gov.in
 api.membercheck.com
 api.mercadolibre.com
+api.meridianenergy.co.nz
 api.metricamovil.com
 api.mh-international.com
+api.mufgcard.com
 api.mywelld.com
 api.pre.mapfre.com.pe
 api.qa.morerewards.ca
@@ -1591,6 +1593,7 @@ bpa.myschoollogin.in
 bpm.mecachromegroup.com
 c10.metadeploy.com
 c33.metadeploy.com
+calcapi.maytech.app
 careers.mitre.org
 caritas.mailchimpsites.com
 cateringonline.miasservice.se
@@ -1673,6 +1676,7 @@ devpanel.medicept.pl
 dhl-one-stop-shop-preview.metadeploy.com
 dhl-slnb-dev.metadeploy.com
 dhlconsulting-linkedin.metadeploy.com
+discolor.music.blog
 dlaukrainy.morze.design
 dns-manager.minestore.com.br
 domspublic.moea.gov.tw
@@ -1681,6 +1685,7 @@ downloads.minecrafteduservices.com
 dr.maybank-ke.co.uk
 dropbox.com-securefile-signin-sppn-php-doc.com.mob-rail.com.br
 e-saafmanagement.msd-animal-health.be
+ebill.madanet.id
 ecomtracking.mrbit.dev
 edasplus.m1.com.sg
 edge.skype.com.office.o365.sunpower.myshn.net
@@ -1694,6 +1699,7 @@ eservice2.marine.gov.mo
 esg1.mk-it-service.nrw
 eshop.mybiz.net.tw
 espetsbeer.mywarning.top
+estore-js.mercedes-benz.com.cn
 etsecure.marcusevans.io
 exchange.mbank.pl
 f78c02a3-daac-4292-a839-7b02c53cb680.syncfabric.bootstrap.his.msappproxy.net
@@ -1708,6 +1714,8 @@ gateway.movila.fi
 geldberekenen.mt-8.nl
 gelddealer.mt-5.nl
 git.5mail.mcewanandco.com
+git.git.amazon.medika-center.ru
+git.git.git.amazon.medika-center.ru
 git.git.git.facebook.com.and.ovh.medychnaosvita.online
 git.git.git.git.colegiosantanderi2020.miller-baufinanzierung.de
 git.git.git.git.git.demo.zmail.musikkorps.no
@@ -1806,6 +1814,7 @@ magone.net
 magyarsaghaza.net
 maharashtratimes.com
 mahmudulhasanproject.xyz
+mahshidandaliwedding.com
 maikacard08.buzz
 mail-supportnumber.com
 mail.mashumaroblog.com
@@ -1866,6 +1875,7 @@ marmmdental.com
 martinfairbank.ml
 martmedix.com
 marvelsupplyandservice.com
+marycagnin.com
 mashumaroblog.com
 mashumaroblog.mashumaroblog.mixh.jp
 mashumaroblog.mixh.jp
@@ -1939,14 +1949,17 @@ mericanltd.com
 meryl.net
 mesala.com.ph
 meshkal.org
+mesinpaving.com
 metalheadzone.com
 meteoetclimat.fr
 metro.style
 metroservice1.ro
 mex-container.ro
 mezicarservice.ro
+mgate.maybank.com
 micahardware.co.uk
 michaelpedicin.com
+michaels.ie
 micks-disco-fever.co.uk
 miconsultaenlinea.com
 micro-vision.ca
@@ -1965,6 +1978,7 @@ mikelsigler.com
 millewebrtc.millenium.com.co
 millionairemonkeyclub.com
 mimaruhotels.com
+mindsgreengroup.com
 mindzallera.com
 minefreemyanmar.info
 minertron.live
@@ -1985,14 +1999,18 @@ missionsecurity.co
 misterkitty.org
 misttechnology.co
 mitrasaudarateknikservice.com
+mitsubishiselangor.com
 mividaenbicicleta.com
 miyabi-mosikomi.site
 mizuho-nozomi.com
 mjrrpg.com
 mkplustest.markedskraft.com
 mlp-017.milpitas.gov
+mlq.ie
+mms2.midasit.co.kr
 mnorganservice.com
 mobeepass.eu
+mobildenizkredi-basvuru.tk
 mobile-telus.com
 mobilhondaupdate.com
 mobilityinstitute.com
@@ -2021,9 +2039,11 @@ moneyclub.ro
 moneycontrol.com
 moneyfast22.ru
 moneyflow.ro
+moneygogo.live
 moneyheistcostume.com
 moneyinstock.ru
 moneykit.net
+moneylodging.com
 moneylyf.com
 moneymarathi.in
 moneymax.my
@@ -2033,8 +2053,10 @@ moneynob.com
 moneyrama.fr
 moneytransfermate.com
 monnin.mobi
+monstrum.dk
 montgomeryplanning.org
 montgomeryvillageca.com
+mooremusic.org.uk
 mor.cymru
 moremoney.in
 moroccanzaz.com
@@ -2068,6 +2090,8 @@ mtf-mantap.mtf.co.id
 mtflivin.mtf.co.id
 mtltimes.ca
 mtrestapis-test01.mountnittany.org
+muatrafficuser.com
+muckypups.co
 muebau.cloud
 muf-webkoufuri.net
 mujerforestal.com
@@ -2153,6 +2177,7 @@ pst.microsoftpassportsupport.net
 qaapi3.myflavorprint.com
 qap.microland.com
 rakuten-ranking.apps.mykc.jp
+rctcan1.msbexpress.net
 rcttest1.msbexpress.net
 rdm.mishidayatullah.my.id
 rechnungen.maerz-gm.de
@@ -2182,10 +2207,12 @@ serviccecusecure.myddns.me
 service-confirmation-paypal.mectelecom.com.br
 service.my-cloud-mail.com
 service.mynesight.com.au
+services.maggiore.it
 sg.misumi-ec.com
 sharepoint.microsoftonline.com.office.o365.sunpower.myshn.net
 signaler-pa.clients6.google.com.googledrive.thaismarthome.ascendcorppoc.myshn.net
 smartiot.minerva.vn
+srv.myskyserver.com
 ssologin.metlife.sk
 static.marketinven.com
 static.myfreecreditscore.us
@@ -2232,15 +2259,18 @@ uat.mbie.govt.nz
 ucweb.movistarplay.co
 unsub.minutemailer.com
 url.google.com.googledrive.thaismarthome.ascendcorppoc.myshn.net
+us-government-system-authorization.misecure.com
 userget.au.uat.mkmapps.com
 uservipbet.m4njur.my.id
 usina.mercadoshops.com.br
 v.zmail.mokorps.no
 vennes.mennerich-service.de
 verify2-acc.mine.nu
+video.marchoon.fr
 view.minutemailer.com
 visa.mobile-mitte.de
 vk2tg.mg-lpoint.ru
+vm11-proxy-appproxy-cus-dm2p-4.connector.msappproxy.net
 voestalpine2-prelive.metabms.de
 vpn.micronas.com
 web.maniadelivery.com.br
@@ -2378,6 +2408,7 @@ www.mathoutils.fr
 www.mathsecurity.nl
 www.mattkelly.ie
 www.mauricewoitzyk.de
+www.max-solution.net
 www.maximumcontrol.nz
 www.maxmag.gr
 www.maybank2u.com.my
@@ -2411,6 +2442,7 @@ www.metrotitle.com
 www.mg-konfliktloesungen.de
 www.michaelkors.global
 www.michaelmauel.de
+www.michaelppowers.com
 www.micromania.fr
 www.mikejonessonstreeservice.com
 www.miles-and-more.com
@@ -2431,6 +2463,7 @@ www.mjusticia.gob.es
 www.mlinar.hr
 www.mlite.net
 www.mmdnb.com
+www.mmhmm.com
 www.mmservice.nu
 www.mnralphgraciepost14.org
 www.mobile-id.tn
@@ -2454,6 +2487,7 @@ www.moneyefficient.com
 www.moneyfarm.site
 www.moneyforcars2022.com
 www.moneyheistcostume.com
+www.moneylodging.com
 www.moneymakingappswebsites.com
 www.moneymangler.com
 www.moneymartearn.xyz
@@ -2490,6 +2524,7 @@ www.msadelivery.ae
 www.msatp.org
 www.mtcarmelalpost72.org
 www.mtvema.com
+www.muatrafficuser.com
 www.mullenlowegroup.com
 www.multi-alarme-lpb.fr
 www.multiservice.com.co
@@ -2541,8 +2576,11 @@ www.starnet-sea-2closing.maagalimcircles.org
 www.superserviceauto.moneybrokers.ro
 www.support.maitech.sd
 www.support.mastersofteg.com
+www.support.mint-code.com
+www.support.mint-codes.com.mint-code.com
 www.supportontariofarmers.meatdeliverytoronto.ca
 www.survival-security.minisiteresults.com
+www.swell.credit.meridian310.com
 www.test.medictransportationservice.com
 www.ticket-almond.murayevents.com
 www.ticketsell.majubae.xyz
