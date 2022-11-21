@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-22: [SFO (San Francisco) on 2022-11-22](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4xyv431b46s1)
 - 2022-11-23: [MIA (Miami) on 2022-11-23](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/q6qlbfy50bhc)
 - 2022-11-29: [PHL (Philadelphia) on 2022-11-29](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/378mmbgbscwy)
 - 2022-11-19: [PBM (Paramaribo) on 2022-11-19](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/bqxk8q1ngtwp)
