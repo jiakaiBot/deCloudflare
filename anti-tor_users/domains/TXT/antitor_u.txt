@@ -308,6 +308,7 @@ www2.aplusk.co.jpbvcb5vh6hjb4.uqhs.cn
 zh.updates.international
 301usgovvirginia1175221.blob.core.usgovcloudapi.net
 accom.uinterbox.com
+apass-p.usj.co.jp
 api.und-gesund.de
 apitst.upmchp.com
 app-uxxiappdemo-lp.uxxi.net
@@ -319,6 +320,7 @@ bach.umukuri.com
 beactive2.usask.ca
 bienestarpsicosocial.izt.uam.mx
 bigweb.unifr.ch
+blinkprod.utilibill.com.au
 blockchain-explorer.smart-transport.fujitsu.ubloquity.tech
 brujo.updateperu.com
 bsdynow.cruzwwa.usermd.net
@@ -342,6 +344,7 @@ cridaq.uqam.ca
 cti.uncoder.io
 da.ultra-as.com
 dashboardcovidbrasil.di.uern.br
+demo.utilibill.com.au
 designthinking.extension.ucr.edu
 dev-micropay.uplus.co.kr
 dev.api.data.unicloudgroup.com.vn
@@ -350,10 +353,12 @@ extranet.upmuruguay.com.uy
 extranetslam.urops-prevention.fr
 files.usertygflkmd.tk
 forum.umbandaeucurto.com
+git.ufcontrol.com
 gpu.unimedmineiros.coop.br
 guiaempresas.universia.es
 homedav.unifr.ch
 i-api.uni-sofia.bg
+identity.unimas.my
 ieim.uqam.ca
 ivsapi-cat.usps.gov
 japan.dev.sumitomo-rearchitecture.undpaul.work
@@ -371,6 +376,8 @@ milyon.universite-lyon.fr
 monitor.cs.uni-koeln.de
 mybcabisnis-api.u-appspecto.com
 mybcabisnis.u-appspecto.com
+mypaid.updatedvpn.xyz
+nectr.utilibill.com.au
 o.upgradegroup.com
 obikn.u-appspecto.com
 onevideosync.uplynk.com
@@ -383,6 +390,8 @@ proxy.bms.dev.unblu-test.com
 pub.jefs.uscourts.gov
 public.cs.uni-koeln.de
 redactie.uat-vlaanderen.be
+reports-staging.upcovid19tracks.in
+secure.ubsimt.com
 services.usps.com
 signon-oqa.ual.com
 sihipka.unsika.ac.id
@@ -401,6 +410,7 @@ ticket.unlihost.cfd
 tmc.fm.usermd.net
 trans-proxy.uecard.ru
 ua-acoustics.com
+ubcpress.ca
 ucallblog.sites.uu.nl
 uccwebpool01p.admin.ch
 ufa-ultiproxy3.ultipro.ca
@@ -445,6 +455,7 @@ upscan.cd
 upswellpublishing.com
 urbansafety.ro
 urbanzero.city
+urgente.eu
 urgenthelpers.com
 uriahheep-discography.com
 urlynet.com
@@ -471,6 +482,7 @@ uviworld.in
 verifycertificate.ullashi.com
 web.usdirectexpress.com
 widgets.uat-vlaanderen.be
+winners.uncc-claims.com
 wstoreapps.uwaterloo.ca
 www.898.az.unikalservice.com
 www.authdove.unitedecom.com
@@ -495,14 +507,22 @@ www.git.git.git.git.backoffice.umg-smdfo.ru
 www.go.update-sports.com
 www.hesabat.unikalservice.com
 www.holyshimz.usermd.net
+www.joss.update-sports.com
 www.king-tv.update-sports.com
+www.lbpi-update.com.uberaddis.com
 www.live4k.update-sports.com
 www.livehd.update-sports.com
+www.luar.userism.co.uk
+www.luarh.userism.co.uk
 www.mad.uscourts.gov
+www.mypaid.updatedvpn.xyz
 www.neuronum.overcloud.usermd.net
+www.nfhs.update-sports.com
 www.nifa.usda.gov
+www.secure.ubsimt.com
 www.secure.ultraahost.com
 www.space-tv.update-sports.com
+www.sport-live.update-sports.com
 www.staging.userpeek.com
 www.support.utu.systems
 www.ticket.unlihost.cfd
@@ -549,6 +569,7 @@ www.utkoss.org
 www.utun-tv.update-sports.com
 www.verifycertificate.ullashi.com
 www.wekuktv.update-sports.com
+www.winners.uncc-claims.com
 www.worldtv.update-sports.com
 www.zymark.updatedvpn.xyz
 xpress.usremotedeposit.com
