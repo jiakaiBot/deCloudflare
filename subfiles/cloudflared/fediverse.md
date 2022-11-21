@@ -4171,7 +4171,7 @@ Here's a list of public Fediverse services.
 | `chogawa-bunko.com` | No |
 | `choge.net` | No |
 | `chokecherry.cc` | Yes |
-| `chomp.life` | No |
+| `chomp.life` | Yes |
 | `choochoo.social` | No |
 | `choochoo.space` | No |
 | `choosingjoy.us` | No |
@@ -4605,7 +4605,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `comacero.com` | No |
 | `comam.es` | No |
@@ -27486,6 +27486,7 @@ Here's a list of public Fediverse services.
 | `vlntn.pw` | No |
 | `vloggers.social` | No |
 | `vlookup.lol` | No |
+| `vltava.cloud` | No |
 | `vmbrasseur.com` | No |
 | `vmh.rest` | No |
 | `vmrpc.net` | No |
@@ -29360,8 +29361,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,348 |
-| Normal | 22,969 |
+| Cloudflare | 6,350 |
+| Normal | 22,968 |
 
 
 ### 21.7% of public Fediverse services are using Cloudflare.
