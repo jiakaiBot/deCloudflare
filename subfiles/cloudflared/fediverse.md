@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,204 |
-| social | 2,272 |
-| net | 2,238 |
+| com | 4,205 |
+| social | 2,273 |
+| net | 2,240 |
 | org | 1,608 |
 | de | 1,476 |
 
@@ -5100,6 +5100,7 @@ Here's a list of public Fediverse services.
 | `css-tricks.com` | Yes |
 | `csswg.org` | Yes |
 | `csunday95.space` | No |
+| `ct2.io` | No |
 | `ct8.pl` | No |
 | `ctdl.co` | Yes |
 | `cthompson.com` | No |
@@ -6693,6 +6694,7 @@ Here's a list of public Fediverse services.
 | `dupreez.id.au` | No |
 | `durch.bayern` | No |
 | `durel.org` | No |
+| `durell.net` | No |
 | `durieux.family` | No |
 | `durieux.ovh` | No |
 | `duriez.re` | No |
@@ -10292,6 +10294,7 @@ Here's a list of public Fediverse services.
 | `hata.casa` | No |
 | `hatabowyou.club` | No |
 | `hatawaku.xyz` | No |
+| `hatchee.bz` | No |
 | `hate-machine.com` | No |
 | `hate.site` | Yes |
 | `hatena.ovh` | No |
@@ -17394,6 +17397,7 @@ Here's a list of public Fediverse services.
 | `namachan10777.dev` | Yes |
 | `namakajiri.net` | No |
 | `namapie.info` | No |
+| `namaraii.com` | Yes |
 | `namazu.club` | No |
 | `namedkitten.pw` | No |
 | `namel.fr` | No |
@@ -20063,6 +20067,7 @@ Here's a list of public Fediverse services.
 | `pixxaddict.social` | Yes |
 | `pizzadog.moe` | No |
 | `pizzaf.art` | No |
+| `pizzafactory.jp` | No |
 | `pizzahut.systems` | Yes |
 | `pizzalocust.com` | No |
 | `pizzapim.nl` | No |
@@ -21727,6 +21732,7 @@ Here's a list of public Fediverse services.
 | `rijul.me` | Yes |
 | `rikadon.club` | No |
 | `rikmeijer.nl` | No |
+| `rikozone.net` | No |
 | `rikunagiweb.jp` | Yes |
 | `rikvoj.tech` | Yes |
 | `rimkus.it` | No |
@@ -24797,6 +24803,7 @@ Here's a list of public Fediverse services.
 | `tailswish.industries` | No |
 | `tainton.uk` | Yes |
 | `taiwan.wtf` | Yes |
+| `taiy.me` | Yes |
 | `taiyaki.online` | No |
 | `taiyolab.com` | No |
 | `taizona.jp` | No |
@@ -25854,6 +25861,7 @@ Here's a list of public Fediverse services.
 | `tnd.lol` | No |
 | `tneal.org` | No |
 | `tnhh.org` | No |
+| `tny.social` | No |
 | `to-son.net` | Yes |
 | `to-tell.de` | No |
 | `to-tell.tk` | No |
@@ -28535,6 +28543,7 @@ Here's a list of public Fediverse services.
 | `xn--alatoire-c1a.net` | No |
 | `xn--baw-joa.social` | No |
 | `xn--blu-bma.ga` | No |
+| `xn--c28h.to` | Yes |
 | `xn--canope-fva.quebec` | No |
 | `xn--chuchichschtli-dib.social` | No |
 | `xn--contrefaon-v6aa.fr` | No |
@@ -28951,6 +28960,7 @@ Here's a list of public Fediverse services.
 | `yukimochi.io` | No |
 | `yukimochi.jp` | No |
 | `yukineko.me` | Yes |
+| `yukisou.xyz` | No |
 | `yukitsukuura.jp` | No |
 | `yukiya.me` | No |
 | `yuko.im` | Yes |
@@ -29322,8 +29332,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,338 |
-| Normal | 22,941 |
+| Cloudflare | 6,341 |
+| Normal | 22,948 |
 
 
 ### 21.6% of public Fediverse services are using Cloudflare.
