@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,192 |
+| com | 4,193 |
 | social | 2,244 |
-| net | 2,233 |
+| net | 2,234 |
 | org | 1,600 |
 | de | 1,472 |
 
@@ -1976,6 +1976,7 @@ Here's a list of public Fediverse services.
 | `ave5.dev` | No |
 | `avensio.de` | No |
 | `aventer.biz` | No |
+| `aventra.uk` | No |
 | `averagedom.com` | No |
 | `averly.me` | No |
 | `avery-weir.net` | No |
@@ -7075,6 +7076,7 @@ Here's a list of public Fediverse services.
 | `elmit.com` | No |
 | `elodiebouchet.fr` | No |
 | `elomatreb.eu` | No |
+| `elon.li` | No |
 | `eloquer.de` | No |
 | `elouworld.org` | No |
 | `elrubius.fans` | No |
@@ -14538,6 +14540,7 @@ Here's a list of public Fediverse services.
 | `lukeleppan.com` | No |
 | `lukem.net` | Yes |
 | `lukemperez.com` | No |
+| `lukenbaugh.com` | Yes |
 | `lukeog.com` | No |
 | `lukepreston.xyz` | No |
 | `lukesmith.xyz` | No |
@@ -15552,6 +15555,7 @@ Here's a list of public Fediverse services.
 | `matitodon.com` | No |
 | `mato.social` | Yes |
 | `matoken.org` | No |
+| `matome.site` | No |
 | `matri.cx` | No |
 | `matri.ml` | No |
 | `matriochka.re` | No |
@@ -18332,6 +18336,7 @@ Here's a list of public Fediverse services.
 | `nposns.com` | No |
 | `nrd.li` | Yes |
 | `nrev.org` | No |
+| `nrgup.net` | Yes |
 | `nrk.cloud` | No |
 | `nrkn.fr` | No |
 | `nrmn.no` | No |
@@ -18926,6 +18931,7 @@ Here's a list of public Fediverse services.
 | `opprimonational.com` | No |
 | `opravljam.ga` | No |
 | `opsecwin.com` | Yes |
+| `opsgang.chat` | No |
 | `opsnotice.xyz` | Yes |
 | `opticor.digital` | Yes |
 | `optional.page` | No |
@@ -23956,6 +23962,7 @@ Here's a list of public Fediverse services.
 | `sqdsh.top` | Yes |
 | `sqlblog.com` | No |
 | `sqldba.pro` | No |
+| `sqrrl.xyz` | Yes |
 | `sqsh.link` | No |
 | `squabble.org` | No |
 | `squad.gay` | Yes |
@@ -29217,8 +29224,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,310 |
-| Normal | 22,864 |
+| Cloudflare | 6,313 |
+| Normal | 22,868 |
 
 
 ### 21.6% of public Fediverse services are using Cloudflare.
