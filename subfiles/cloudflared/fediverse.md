@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,255 |
+| com | 4,256 |
 | social | 2,316 |
 | net | 2,260 |
 | org | 1,626 |
@@ -10796,7 +10796,7 @@ Here's a list of public Fediverse services.
 | `hitsuji.work` | No |
 | `hive.institute` | No |
 | `hivechat.co.uk` | No |
-| `hivecore.social` | No |
+| `hivecore.social` | Yes |
 | `hivemind.gq` | No |
 | `hivemind.plus` | No |
 | `hiveway.net` | Yes |
@@ -25868,7 +25868,7 @@ Here's a list of public Fediverse services.
 | `thewarrens.name` | No |
 | `thewatercooler.cc` | Yes |
 | `theway.social` | No |
-| `thewebres.com` | No |
+| `thewebres.com` | Yes |
 | `thewebzone.net` | No |
 | `thewell.ml` | No |
 | `thewinchester.pub` | No |
@@ -28600,6 +28600,7 @@ Here's a list of public Fediverse services.
 | `wovs.tk` | Yes |
 | `wowana.me` | No |
 | `wowsdon.xyz` | No |
+| `woyala.com` | Yes |
 | `wp-punks.social` | No |
 | `wp-social.net` | No |
 | `wpbuilds.com` | Yes |
@@ -29652,8 +29653,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,427 |
-| Normal | 23,182 |
+| Cloudflare | 6,430 |
+| Normal | 23,180 |
 
 
 ### 21.7% of public Fediverse services are using Cloudflare.
