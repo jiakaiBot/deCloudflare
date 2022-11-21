@@ -697,6 +697,7 @@ automanazer.vodafone.cz
 axafrontint.vermeg.com
 back.inflattention.vbaron.ovh
 blackbeardiner.vernonpromotions.com
+bmsgw.vazobervaz.ch
 calcium.valantic.pro
 care-api-staging.vaultdragon.com
 cdn.vianor-tyres.ru
@@ -707,6 +708,7 @@ click.viewstream-v.com
 client-de-test2.vysualcloud.swiss
 client.vsice.ru
 coinbase-exchange.vikingdeals.be
+coinstash1.vercel.app
 controlo.vr-solucoes.com
 cookies.viccompuser.com
 corp-sts.vodafoneziggo.com
@@ -730,6 +732,7 @@ dev.vlec.be
 directaccess.vkooten.nl
 discord.valkirias.xyz
 discord4j.vercel.app
+dpeto-discord.vercel.app
 e1prod2-web1.prod.vitalconnect.com
 ekycbidvsthgw.vnpaytest.vn
 en.vaccines-facts.info
@@ -742,6 +745,7 @@ forums.virtualbox.org.ru
 freesim.vodafone.co.uk
 frg.vermittlerportal.de
 friendica.vrije-mens.org
+ftp.vanityspa.site
 genatkns-uat.veritas.com
 git.alt1.aspmx.l.google.com.versacommerce.eu
 git.git.alt1.aspmx.l.google.com.versacommerce.eu
@@ -800,10 +804,12 @@ ota.swmsn.pre.eu.bp.aws.cloud.vwgroup.com
 owa.vibac.com
 payments.vantivprelive.com
 pds.volkswagen.de
+pos.vouchagram.com
 ps-automation-update-preview.virtual-spaces.de
 qaapi4.vivanda.com
 raketun.co.ip.vollaeity.shop
 recaptcha-mr-public.rete.c1.vanguard.com
+recording1.a58.verintcloudservices.com
 relampago-de-clientes.virio.digital
 relay.vtopia.live
 renault.via-conex.net
@@ -840,6 +846,7 @@ trusted-s.us.hsbc.com.prod.na.dynp.cloud1.vv1865.com
 untubvaostalbus.vin09.info
 update11.videosintimes.com
 update1811.videosintimes.com
+v-academy.id
 vaanitech.com
 vaccinesandsociety.com
 vaccinesandsociety.com.vaccinesandsociety.org
@@ -851,6 +858,7 @@ vakrangeedevelopers.com
 valdemarhoiris.dk
 valorasecurity.cl
 vandoornsupport.nl
+vankids.co.kr
 varietal-literature.ca
 variety-kfc.com.ru
 vaveylamodam.com
@@ -880,6 +888,7 @@ via.vmw.com
 viacbs.ru
 vialsafe.co
 viaplay.com
+viaplay.dk
 viaplay.se
 victorpetfood.com
 victoryautomotiveservice.com
@@ -899,7 +908,9 @@ vincentbreton.fr
 vincentgaragedoorrepairservice.us
 vincenzopresutto.it
 vinklubben-billund.dk
+vintagegroup.vintagepremiumgift.com
 vintagenewsdaily.com
+vintagepremiumgift.com
 vintagetraps.co.uk
 vipchecker.ru
 vipreal.live
@@ -962,6 +973,7 @@ www.beta.verymoney.com
 www.billing.vviphosting.com
 www.bitcoinuser.vastpips.com
 www.btcuser.vastpips.com
+www.ccb.vida-esperanza.org
 www.clientes.ventipos.com
 www.clientes.vqtechsystemcorp.com
 www.controlo.vr-solucoes.com
@@ -1014,6 +1026,7 @@ www.verstegenstigter.nl
 www.verywellfamily.com
 www.vettriip.org
 www.vevovo.fr
+www.vfistx.com
 www.vganderson.com
 www.viajeselcorteingles.es
 www.vialsafe.co
