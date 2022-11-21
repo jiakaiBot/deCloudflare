@@ -338,6 +338,7 @@ git.git.git.accounting.jeanslook.com.ua
 git.git.git.client.jenbrial.com
 git.git.git.git.japan.comaz777.joshuaanello.com
 git.git.git.japan.comaz777.joshuaanello.com
+git.git.www.dev.support.jenbrial.com
 git.git.www.www.www.covid19.juliecolombe.com
 git.www.www.www.covid19.juliecolombe.com
 he-auth.base.twhns.jipacoding.com
@@ -372,6 +373,7 @@ jdsr.se
 jedewette.online
 jeevatrials.com
 jeffersonbailey.com
+jeffreyfairbank.ml
 jemmyfoxlabs.com
 jenniferjchow.com
 jenschristian.se
@@ -389,6 +391,7 @@ jgoyal.com
 jhaulinganddelivery.com
 jiaorganic.com
 jibaaksla.com
+jidmac.co.za
 jimmyacrepairservice.xyz
 jio.nz
 jiocarreirs.co.in
@@ -405,12 +408,14 @@ jobs-contact.cf
 jobscv.net
 jocelyngreen.bond
 joeswebsupport.com
+johannettezomer.com
 johnubacon.com
 joiakids.com
 joker123prediksi.com
 joker128.asia
 joker138.asia
 joker368.asia
+jonnyelwyn.co.uk
 joost.co.za
 josemanuelfuentes.es
 joseph-dickson.com
@@ -432,12 +437,14 @@ justcatnft.com
 justcounsel.us
 justy-web.com
 jweinat.com
+mail.jagoblockchain.online
 mastodon.juggler.jp
 my.jtxwebdesign.com
 navi.joniec.co
 netflix-shuffle.jacobschmocker.com
 new.jakartarailways.com
 nonekohour.jempu.com
+open.joox.com
 openpgpkey.jstorch.net
 origin.cn.qa.po.jungheinrichcloud.com
 pdentalclinhostmaster.jakkiesnassie.nl
@@ -457,6 +464,8 @@ static-asset.joindeleteme.com
 steam.jrtechs.net
 support.jiapin.cloud
 support.job786.fr
+test-mij.japan-property.jp
+test-ohkuraya.japan-property.jp
 test.javan.work
 thinks.jamesbradbury.co.uk
 webdisk.backupdayo.japan-onlinestores.com
@@ -486,6 +495,7 @@ www.gitlab.gitlab.gitlab.git.git.login.jour71.ru
 www.j-serviceinverter.com
 www.jabonemio.com
 www.jakobsdrift.nl
+www.jalana-web.com
 www.jalanniemenvesiosuuskunta.fi
 www.jamfinearts.com
 www.jamhomemadeonlineshop.com
@@ -516,6 +526,7 @@ www.jimfersecurity.co
 www.jimmeruk.com
 www.jiomart.com
 www.jllt.com
+www.jmvtreeservice.com
 www.joanaserraodsicredito.pt
 www.job-in-service.gmbh
 www.jodywallace.com
