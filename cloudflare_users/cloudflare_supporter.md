@@ -1938,6 +1938,7 @@ Do not create new issue or we will close it as duplicate.
 | [cryptofans13@twitter](https://twitter.com/cryptofans13/status/1564864914879299584) | advertise |
 | [cryptofyre@twitter](https://twitter.com/cryptofyre/status/1583501372212682752) | advertise |
 | [cryptoguy202111@twitter](https://twitter.com/cryptoguy202111/status/1401154202269884417) | advertise |
+| [cryptoh54884881@twitter](https://twitter.com/cryptoh54884881/status/1594583141657681920) | advertise |
 | [cryptolinx1@twitter](https://twitter.com/cryptolinx1/status/1528762892845207552) | advertise |
 | [Cryptolover10@twitter](https://twitter.com/Cryptolover10/status/1394207496680579072) | advertise |
 | [CryptoMiniLover@twitter](https://twitter.com/CryptoMiniLover/status/1580809758910558208) | advertise |
@@ -2604,6 +2605,7 @@ Do not create new issue or we will close it as duplicate.
 | [Elliot24649070@twitter](https://twitter.com/Elliot24649070/status/1390939917404966912) | advertise |
 | [ellonmast@twitter](https://twitter.com/ellonmast/status/1452884018328899589) | advertise |
 | [elmy_lenert@twitter](https://twitter.com/elmy_lenert/status/1380440740644286465) | advertise |
+| [ElongatedMusko@twitter](https://twitter.com/ElongatedMusko/status/1594579143294951424) | advertise |
 | [elpapilo96@twitter](https://twitter.com/elpapilo96/status/1400973663575457794) | advertise |
 | [elperiodicodigi@twitter](https://twitter.com/elperiodicodigi/status/1513992177906601995) | advertise |
 | [elsaidelazhary@twitter](https://twitter.com/elsaidelazhary/status/1577526530707709953) | advertise |
@@ -6299,6 +6301,7 @@ Do not create new issue or we will close it as duplicate.
 | [Mohamma54835205@twitter](https://twitter.com/Mohamma54835205/status/1388906614917324804) | advertise |
 | [MohammadAlkabbi@twitter](https://twitter.com/MohammadAlkabbi/status/1378114531164049410) | advertise |
 | [Mohammadmil79@twitter](https://twitter.com/Mohammadmil79/status/1472592229357297667) | advertise |
+| [Mohammadzandi71@twitter](https://twitter.com/Mohammadzandi71/status/1594584095245602817) | advertise |
 | [mohammad_inanll@twitter](https://twitter.com/mohammad_inanll/status/1582429173695401985) | advertise |
 | [Mohamme01906351@twitter](https://twitter.com/Mohamme01906351/status/1378206168162525184) | advertise |
 | [mohamme41238644@twitter](https://twitter.com/mohamme41238644/status/1388453854174355456) | advertise |
@@ -9403,6 +9406,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thang_KD_2001@twitter](https://twitter.com/Thang_KD_2001/status/1537710807601270784) | advertise |
 | [Thanh19Hoang@twitter](https://twitter.com/Thanh19Hoang/status/1478157348699258880) | advertise |
 | [thanh8942@twitter](https://twitter.com/thanh8942/status/1388420608497623044) | advertise |
+| [Thanh1452000@twitter](https://twitter.com/Thanh1452000/status/1594505048041877504) | advertise |
 | [Thanh13871310@twitter](https://twitter.com/Thanh13871310/status/1552938610940608512) | advertise |
 | [thanh39809562@twitter](https://twitter.com/thanh39809562/status/1468202163919003654) | advertise |
 | [thanh68833332@twitter](https://twitter.com/thanh68833332/status/1402884885887393795) | advertise |
@@ -10375,6 +10379,7 @@ Do not create new issue or we will close it as duplicate.
 | [VSkarleas@twitter](https://twitter.com/VSkarleas/status/1456937424660094982) | advertise |
 | [VtbKo@twitter](https://twitter.com/VtbKo/status/1395561904467185664) | advertise |
 | [vu1408@twitter](https://twitter.com/vu1408/status/1377882512286867460) | advertise |
+| [Vu33317074@twitter](https://twitter.com/Vu33317074/status/1594572608665980929) | advertise |
 | [VuAtu1996@twitter](https://twitter.com/VuAtu1996/status/1392296243791994880) | advertise |
 | [vubao1511@twitter](https://twitter.com/vubao1511/status/1399724212215033867) | advertise |
 | [vuddh_s@twitter](https://twitter.com/vuddh_s/status/1385846511309709313) | advertise |
