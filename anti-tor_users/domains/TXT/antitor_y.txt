@@ -146,6 +146,7 @@ autodiscover.yementadawul.com
 b95.yahoo.co.jp
 backoffice.yape.com.pe
 beta.yogacentre.com
+bk.mufj.jp.yswat.com
 blog.yannakas.me
 blog.yourdesignjuice.com
 camp-japan.net.yazooweb.net
@@ -162,6 +163,7 @@ lojista.yupdelivery.com.br
 mail.yoanindo.com
 map.yahooapis.jp
 mhome.yottagames.com
+mobile.yahav.co.il
 mobile.yoursrp.net
 paperlesspayroll.yonkersny.gov
 python-github-calendar-api.yylemon.top
@@ -171,10 +173,14 @@ secure-dinamica.go.yj.fr
 services.yuntrack.com
 ssl.ybmky.com
 stag-emails.yachtsbt.com
+static.185.215.12.49.clients.your-server.de
 static.29.17.46.78.clients.your-server.de
 support.yourcreativepeople.com
 support.yuccanlead.com
 traefik.yannisantypas.com
+v-al5r12ca4i.wc.yahoodns.net
+v-b95agctlk7.wc.yahoodns.net
+weathermaps.s3.yandex.net
 www.amazon.y4lkwb.shop
 www.auth.youtubethumbs.pics
 www.billing.yourschoice.club
@@ -198,6 +204,7 @@ www.ymparistoahdistus.fi
 www.yoshitoku.co.jp
 www.youplay3.xyz
 www.yourfuturecredit.com
+y3rt.com
 yabaidelinquency.com
 yahoomailsupportphonenumber.com
 yaseagrouptravel.com
@@ -205,10 +212,13 @@ yavuzsanat.com.tr
 yayanadriano.web.id
 ybaautoservice.ro
 ybx-test.yahoo.co.jp
+yc-loyalty-ke.stage.apac.yaradigitallabs.io
 yefi.site
+yennspic.com
 yensaoantruongtho.com
 yesbank.in
 yin.scot
+yinyang-verlag.de
 ymag.ro
 yobamoodua.org
 yobniares.tech
