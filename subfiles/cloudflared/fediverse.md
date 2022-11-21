@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,192 |
-| social | 2,243 |
-| net | 2,232 |
-| org | 1,599 |
+| social | 2,244 |
+| net | 2,233 |
+| org | 1,600 |
 | de | 1,472 |
 
 
@@ -6739,6 +6739,7 @@ Here's a list of public Fediverse services.
 | `eagledeaf.com` | No |
 | `eagleear.social` | No |
 | `eaglefirenation.com` | No |
+| `eaku.net` | No |
 | `eanske.eu` | No |
 | `ear7h.net` | No |
 | `earfolds.com` | No |
@@ -7598,6 +7599,7 @@ Here's a list of public Fediverse services.
 | `factland.social` | Yes |
 | `factsonthegroundshow.com` | No |
 | `fae.cafe` | Yes |
+| `fae.fyi` | No |
 | `faecibuslibre.com` | No |
 | `faerghus.today` | Yes |
 | `faerie.social` | No |
@@ -15550,7 +15552,6 @@ Here's a list of public Fediverse services.
 | `matitodon.com` | No |
 | `mato.social` | Yes |
 | `matoken.org` | No |
-| `matome.site` | No |
 | `matri.cx` | No |
 | `matri.ml` | No |
 | `matriochka.re` | No |
@@ -15765,6 +15766,7 @@ Here's a list of public Fediverse services.
 | `megantoots.com` | No |
 | `megastyle.dev` | No |
 | `megaterio.org` | No |
+| `megatherium.org` | No |
 | `megkuma.com` | No |
 | `mego.bar` | Yes |
 | `meh.social` | No |
@@ -18370,6 +18372,7 @@ Here's a list of public Fediverse services.
 | `ntwrkcdn.net` | No |
 | `nu.mba` | No |
 | `nuagelibre.fr` | No |
+| `nuak.social` | No |
 | `nuasa.org` | No |
 | `nubecula.org` | No |
 | `nubi.social` | No |
@@ -29215,7 +29218,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,310 |
-| Normal | 22,861 |
+| Normal | 22,864 |
 
 
 ### 21.6% of public Fediverse services are using Cloudflare.
