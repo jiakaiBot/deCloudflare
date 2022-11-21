@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Using basic auth after failed JWT verification no longer works post 9.2](https://github.com/grafana/grafana/issues/59023)
 - [Update closure with D1 Database not working?](https://github.com/super-flow/cfw-framework/issues/2)
 - [Cloudflare Proxy shows Let'sencrypt Certificate instead of Cloudflare Inc ECC on second domain](https://github.com/NginxProxyManager/nginx-proxy-manager/issues/2414)
 - [Cannot login to Cloudflare via terminal](https://github.com/stackblitz/webcontainer-core/issues/900)
