@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Brotli Compression Issue](https://github.com/stavroskasidis/BlazorWasmAntivirusProtection/issues/42)
 - [Authelia pod keeps crashing because of failed storage migration](https://github.com/authelia/authelia/issues/4419)
 - [Support missing response](https://github.com/kwhitley/itty-cors/issues/5)
 - [Connection failed - dialer swarm lookup failed, operation cancelled](https://github.com/mysteriumnetwork/node/issues/5635)
