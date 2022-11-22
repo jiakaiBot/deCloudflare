@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Support missing response](https://github.com/kwhitley/itty-cors/issues/5)
 - [Connection failed - dialer swarm lookup failed, operation cancelled](https://github.com/mysteriumnetwork/node/issues/5635)
 - [Problem with certbot version 2.0.0](https://github.com/linuxserver/docker-swag/issues/297)
 - [hitting uncallable on startup](https://github.com/schwa/MastodonAgain/issues/2)
