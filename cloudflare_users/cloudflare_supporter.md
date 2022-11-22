@@ -2873,6 +2873,7 @@ Do not create new issue or we will close it as duplicate.
 | [frontware@twitter](https://twitter.com/frontware/status/1438345369256038400) | advertise |
 | [FrosTy916_@twitter](https://twitter.com/FrosTy916_/status/1552711703431118848) | advertise |
 | [frshzrnmln@twitter](https://twitter.com/frshzrnmln/status/1432737386945933319) | advertise |
+| [FShetf@twitter](https://twitter.com/FShetf/status/1595169853568126995) | advertise |
 | [FsoIndustries@twitter](https://twitter.com/FsoIndustries/status/1509979654941204482) | advertise |
 | [ftoukhi@twitter](https://twitter.com/ftoukhi/status/1552612050836373506) | advertise |
 | [fuckemcops@twitter](https://twitter.com/fuckemcops/status/1546636756153503745) | advertise |
@@ -10563,6 +10564,7 @@ Do not create new issue or we will close it as duplicate.
 | [WhoAmI61449941@twitter](https://twitter.com/WhoAmI61449941/status/1379726183009460224) | advertise |
 | [Whodis09575291@twitter](https://twitter.com/Whodis09575291/status/1570060628211142659) | advertise |
 | [whoomenreallyis@twitter](https://twitter.com/whoomenreallyis/status/1506157558628855813) | advertise |
+| [Who_IsM@twitter](https://twitter.com/Who_IsM/status/1595174486659239940) | advertise |
 | [WhXRuMfnyHtsfdk@twitter](https://twitter.com/WhXRuMfnyHtsfdk/status/1403069036422856705) | advertise |
 | [whyb6e5@twitter](https://twitter.com/whyb6e5/status/1587998634037092353) | advertise |
 | [whynot8288@twitter](https://twitter.com/whynot8288/status/1470869376207589379) | advertise |
