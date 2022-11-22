@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,256 |
+| com | 4,257 |
 | social | 2,317 |
-| net | 2,261 |
+| net | 2,262 |
 | org | 1,627 |
 | de | 1,490 |
 
@@ -1713,6 +1713,7 @@ Here's a list of public Fediverse services.
 | `artifaille.fr` | No |
 | `artificial-owl.com` | No |
 | `artificialgravity.dev` | No |
+| `artikel91.eu` | No |
 | `artimec.social` | No |
 | `artisan.chat` | No |
 | `artisanlogiciel.net` | No |
@@ -9830,6 +9831,7 @@ Here's a list of public Fediverse services.
 | `good-dragon.com` | No |
 | `goodanser.com` | No |
 | `goodass.dog` | No |
+| `goodbye.work` | Yes |
 | `goodchristian.website` | No |
 | `goodman-wilson.com` | Yes |
 | `goodo.men` | No |
@@ -13436,6 +13438,7 @@ Here's a list of public Fediverse services.
 | `krivokuca.dev` | Yes |
 | `krkrkr.org` | No |
 | `krlk.me` | Yes |
+| `krnk.work` | Yes |
 | `krokodil.se` | Yes |
 | `krononot.com` | Yes |
 | `kroo.co` | No |
@@ -16552,6 +16555,7 @@ Here's a list of public Fediverse services.
 | `misskey.tech` | Yes |
 | `misskey.to` | No |
 | `misskey.wine` | Yes |
+| `misskey.work` | No |
 | `misskey.world` | No |
 | `misskey.wtf` | No |
 | `misskey.xyz` | No |
@@ -23498,6 +23502,7 @@ Here's a list of public Fediverse services.
 | `simonwgill.com` | No |
 | `simonwillison.net` | Yes |
 | `simounet.net` | No |
+| `simple-gear.com` | No |
 | `simplefinances.net` | No |
 | `simplefinances.us` | No |
 | `simpleguy.net` | No |
@@ -23874,6 +23879,7 @@ Here's a list of public Fediverse services.
 | `snuskete.net` | Yes |
 | `so-called.life` | No |
 | `so-isser-der-ossi.de` | No |
+| `soa3.net` | No |
 | `soap.coffee` | No |
 | `soapbox.network` | No |
 | `sobac.com` | No |
@@ -29662,8 +29668,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,431 |
-| Normal | 23,188 |
+| Cloudflare | 6,433 |
+| Normal | 23,192 |
 
 
 ### 21.7% of public Fediverse services are using Cloudflare.
