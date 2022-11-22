@@ -9177,6 +9177,7 @@ Do not create new issue or we will close it as duplicate.
 | [suraj_choube@twitter](https://twitter.com/suraj_choube/status/1487436176567193602) | advertise |
 | [Surakiatkapol@twitter](https://twitter.com/Surakiatkapol/status/1552172298567708672) | advertise |
 | [surbroadcast@twitter](https://twitter.com/surbroadcast/status/1477792731636371464) | advertise |
+| [suriykdicnhxm1@twitter](https://twitter.com/suriykdicnhxm1/status/1595050645249146880) | advertise |
 | [SuruchiAmgai@twitter](https://twitter.com/SuruchiAmgai/status/1548309054258180096) | advertise |
 | [SURYANS83414456@twitter](https://twitter.com/SURYANS83414456/status/1399272451985461250) | advertise |
 | [Suryavazhaa@twitter](https://twitter.com/Suryavazhaa/status/1386593598225846275) | advertise |
