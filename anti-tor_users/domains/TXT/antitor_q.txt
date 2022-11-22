@@ -96,6 +96,7 @@ api.quikreturn.com
 api.quizflight.com
 areyourapturereadynow.qcpsystems.com
 areyourapturereadynow2.qcpsystems.com
+audienceview.queue-it.net
 coronacheck.questio.care
 criticaldesign.studio.qmail.com.tr
 dev.eforms.qfcra.com
@@ -120,6 +121,7 @@ qualitydays.ro
 qualityfinancialservice.com
 quangnn.com
 quantum-computing-services.com
+quartzoamazonia.com.quartzocommerce.com
 queenstrendyol.site
 queleerhoy.com
 questns.com
