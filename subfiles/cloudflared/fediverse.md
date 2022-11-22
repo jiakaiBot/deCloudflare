@@ -4548,6 +4548,7 @@ Here's a list of public Fediverse services.
 | `cockworshipper.com` | No |
 | `cocoa.me.uk` | Yes |
 | `cocoa.moe` | No |
+| `cocoa.pics` | No |
 | `cocoasamurai.social` | No |
 | `cocoate.com` | No |
 | `coconatsu.co` | Yes |
@@ -29744,7 +29745,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,454 |
-| Normal | 23,246 |
+| Normal | 23,247 |
 
 
 ### 21.7% of public Fediverse services are using Cloudflare.
