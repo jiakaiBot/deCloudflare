@@ -12366,6 +12366,7 @@ Here's a list of public Fediverse services.
 | `jmueller.eu` | Yes |
 | `jmunky.com` | No |
 | `jmworks.co.uk` | Yes |
+| `jmz.fyi` | No |
 | `jnktn.tv` | No |
 | `jnsk.info` | Yes |
 | `jockstrap.futbol` | No |
@@ -13362,7 +13363,7 @@ Here's a list of public Fediverse services.
 | `konmalehth.org` | No |
 | `kono.sh` | Yes |
 | `konosuke.jp` | No |
-| `konradlemanski.dev` | No |
+| `konradlemanski.dev` | Yes |
 | `konradrundfunk.me` | No |
 | `konstanz-net.de` | No |
 | `konsumsyndik.at` | No |
@@ -24241,6 +24242,7 @@ Here's a list of public Fediverse services.
 | `sparklesin.space` | No |
 | `sparkpc.xyz` | Yes |
 | `sparksammy.com` | Yes |
+| `sparkspace.online` | No |
 | `sparkway.org` | No |
 | `spartancreative.uk` | No |
 | `spartanserver.org` | No |
@@ -29750,8 +29752,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,459 |
-| Normal | 23,248 |
+| Cloudflare | 6,460 |
+| Normal | 23,249 |
 
 
 ### 21.7% of public Fediverse services are using Cloudflare.
