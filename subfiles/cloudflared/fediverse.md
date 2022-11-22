@@ -280,6 +280,7 @@ Here's a list of public Fediverse services.
 | `3dcandy.live` | Yes |
 | `3dcandy.social` | Yes |
 | `3dcgdon.net` | No |
+| `3dexp.online` | No |
 | `3dgo.net` | Yes |
 | `3dot2.one` | No |
 | `3dots.lv` | No |
@@ -25037,7 +25038,7 @@ Here's a list of public Fediverse services.
 | `tabletop.garden` | No |
 | `tabletop.press` | No |
 | `tabletop.social` | No |
-| `tabletop.vip` | No |
+| `tabletop.vip` | Yes |
 | `tabletoprpg.social` | No |
 | `tabletoptavern.online` | No |
 | `taborsky.cz` | No |
@@ -29653,7 +29654,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,430 |
+| Cloudflare | 6,431 |
 | Normal | 23,180 |
 
 
