@@ -1926,8 +1926,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2738,6 +2738,7 @@ Do not create new issue or we will close it as duplicate.
 | [FakeSenpai5@twitter](https://twitter.com/FakeSenpai5/status/1581958054660034560) | advertise |
 | [FakeTopG@twitter](https://twitter.com/FakeTopG/status/1570866215404572676) | advertise |
 | [Falcon_0098@twitter](https://twitter.com/Falcon_0098/status/1408452830613147649) | advertise |
+| [FallinloveYGz@twitter](https://twitter.com/FallinloveYGz/status/1594928548397035520) | advertise |
 | [FamyCC@twitter](https://twitter.com/FamyCC/status/1572681675913711616) | advertise |
 | [fandoghiiiiiii@twitter](https://twitter.com/fandoghiiiiiii/status/1580463193373433856) | advertise |
 | [Fantasy484@twitter](https://twitter.com/Fantasy484/status/1386774424028803075) | advertise |
