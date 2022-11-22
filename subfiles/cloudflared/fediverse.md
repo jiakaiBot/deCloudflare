@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,277 |
-| social | 2,349 |
-| net | 2,269 |
-| org | 1,634 |
+| com | 4,278 |
+| social | 2,350 |
+| net | 2,270 |
+| org | 1,635 |
 | de | 1,496 |
 
 
@@ -4049,6 +4049,7 @@ Here's a list of public Fediverse services.
 | `chaldea.network` | No |
 | `chaldeatek.com` | No |
 | `chalec.org` | No |
+| `chalk.moe` | No |
 | `challenger.city` | No |
 | `chambel.net` | No |
 | `chameth.com` | No |
@@ -7243,6 +7244,7 @@ Here's a list of public Fediverse services.
 | `elodiebouchet.fr` | No |
 | `elomatreb.eu` | No |
 | `elon.li` | No |
+| `elonsucks.org` | Yes |
 | `eloquer.de` | No |
 | `elouworld.org` | No |
 | `elreino.online` | Yes |
@@ -9841,6 +9843,7 @@ Here's a list of public Fediverse services.
 | `gochai.top` | No |
 | `gochisou.dev` | No |
 | `gochisou.photo` | No |
+| `gochiuma.net` | No |
 | `gochiusa.net` | No |
 | `godawful.earth` | No |
 | `godforsaken.website` | No |
@@ -12013,6 +12016,7 @@ Here's a list of public Fediverse services.
 | `ivel.fr` | No |
 | `iversen.io` | Yes |
 | `ivi.pl` | No |
+| `ivie.cc` | No |
 | `ivn.cx` | Yes |
 | `ivor.org` | No |
 | `ivrianochi.com` | No |
@@ -12703,6 +12707,7 @@ Here's a list of public Fediverse services.
 | `kaa.bz` | No |
 | `kaaa.ren` | No |
 | `kaaosunlimited.fi` | No |
+| `kaartinen.social` | Yes |
 | `kabi.tk` | No |
 | `kabipix.tk` | No |
 | `kabudon.jp` | No |
@@ -21963,6 +21968,7 @@ Here's a list of public Fediverse services.
 | `retoldclassics.org` | No |
 | `retr0.id` | No |
 | `retr0.party` | No |
+| `retro-ink.com` | No |
 | `retro.pizza` | No |
 | `retro.social` | No |
 | `retrochat.online` | No |
@@ -29816,8 +29822,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,477 |
-| Normal | 23,296 |
+| Cloudflare | 6,479 |
+| Normal | 23,300 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
