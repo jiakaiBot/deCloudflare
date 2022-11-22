@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,316 |
+| com | 4,317 |
 | social | 2,376 |
-| net | 2,289 |
+| net | 2,291 |
 | org | 1,642 |
 | de | 1,502 |
 
@@ -9906,6 +9906,7 @@ Here's a list of public Fediverse services.
 | `gochai.top` | No |
 | `gochisou.dev` | No |
 | `gochisou.photo` | No |
+| `gochiuma.net` | No |
 | `gochiusa.net` | No |
 | `godawful.earth` | No |
 | `godforsaken.website` | No |
@@ -12090,6 +12091,7 @@ Here's a list of public Fediverse services.
 | `ivel.fr` | No |
 | `iversen.io` | Yes |
 | `ivi.pl` | No |
+| `ivie.cc` | No |
 | `ivn.cx` | Yes |
 | `ivor.org` | No |
 | `ivrianochi.com` | No |
@@ -21715,6 +21717,7 @@ Here's a list of public Fediverse services.
 | `randomcloud.io` | Yes |
 | `randomdrift.es` | No |
 | `randome.camp` | No |
+| `randomfoo.net` | No |
 | `randomisland.ca` | No |
 | `randommumble.org` | No |
 | `randommusings.online` | No |
@@ -22088,6 +22091,7 @@ Here's a list of public Fediverse services.
 | `retoldclassics.org` | No |
 | `retr0.id` | No |
 | `retr0.party` | No |
+| `retro-ink.com` | No |
 | `retro.pizza` | No |
 | `retro.social` | No |
 | `retrochat.online` | No |
@@ -29987,7 +29991,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,519 |
-| Normal | 23,424 |
+| Normal | 23,428 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
