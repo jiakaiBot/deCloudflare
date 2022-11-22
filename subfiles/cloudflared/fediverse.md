@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,277 |
-| social | 2,347 |
+| social | 2,349 |
 | net | 2,269 |
 | org | 1,634 |
-| de | 1,495 |
+| de | 1,496 |
 
 
 - Mastodon, Pleroma, etc
@@ -8384,6 +8384,7 @@ Here's a list of public Fediverse services.
 | `fkfd.me` | No |
 | `fkn-systems.de` | No |
 | `fkpk.org` | Yes |
+| `fl0w.fr` | No |
 | `fla.red` | Yes |
 | `flabs.org` | No |
 | `flagada.org` | No |
@@ -11572,6 +11573,7 @@ Here's a list of public Fediverse services.
 | `indie.chat` | No |
 | `indie.computer` | No |
 | `indie.host` | No |
+| `indieauthors.social` | No |
 | `indiefedi.party` | No |
 | `indiefilm.fun` | Yes |
 | `indiegamedev.online` | No |
@@ -14567,6 +14569,7 @@ Here's a list of public Fediverse services.
 | `log-level.info` | No |
 | `log.rocks` | Yes |
 | `loganjohndarylgraham.xyz` | No |
+| `loganthompson.de` | Yes |
 | `logbuch35mm.de` | No |
 | `logged-the-fuck-in.online` | No |
 | `logi.fun` | No |
@@ -27395,6 +27398,7 @@ Here's a list of public Fediverse services.
 | `unreality.pink` | No |
 | `unrelenting.technology` | No |
 | `unroot.de` | No |
+| `uns.social` | Yes |
 | `unsafe.co` | No |
 | `unsafe.space` | No |
 | `unseensounds.com` | No |
@@ -29812,8 +29816,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,475 |
-| Normal | 23,294 |
+| Cloudflare | 6,477 |
+| Normal | 23,296 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
