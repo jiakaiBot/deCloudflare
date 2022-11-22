@@ -47,9 +47,9 @@ Here's a list of public Matrix services.
 | converser.eu | No |
 | matrix.crossbach.de | No |
 | matrix.data.haus | No |
+| im.deuxfleurs.fr | No |
 | matrix.duesen.chat | No |
 | matrix.envs.net | No |
-| exarius.org | No |
 | matrix.fachschaften.org | No |
 | feneas.org | No |
 | matrix.flieger.chat | No |
