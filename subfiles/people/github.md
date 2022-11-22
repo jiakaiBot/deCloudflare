@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [hitting uncallable on startup](https://github.com/schwa/MastodonAgain/issues/2)
 - [Authentication credentials not found. This API supports both API Key and OAuth 2.0 authentication](https://github.com/HubSpot/hubspot-api-ruby/issues/181)
 - [Pullist not populating. Logs show cloudflare issue.](https://github.com/mylar3/mylar3/issues/1308)
 - [Notion "Rate limits" and Apps Script "timeout" won't allow to finish sync](https://github.com/hk21702/YA-GCal-Notion-Sync-Script/issues/27)
