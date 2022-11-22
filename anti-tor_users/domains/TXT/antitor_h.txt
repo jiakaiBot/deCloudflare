@@ -660,6 +660,7 @@ acente.hemenbilet.com
 adfs.hhwld.nl
 adfs.hubinternational.com
 ads.hoki.xyz
+afrikaans-sophism.herokuapp.com
 aging.zmail.husnesskulekorps.no
 alert2.hyteck.de
 alertmanager.sg01.dev.huddle.tech
@@ -684,6 +685,7 @@ autofi-ent-santander-pr-1754.herokuapp.com
 autofi-ent-santander-pr-1790.herokuapp.com
 autostatementsretrieval-uat.hepsiian.com
 avimages.hangame.co.kr
+banbobiinacionall.herokuapp.com
 banking.gif.hol.es
 banking.hellobank.it
 blog.blog.blog.vmail.homereviewonline.com
@@ -729,6 +731,7 @@ dvza-preprod.healthexchange.nl
 edi.haberkorn.com
 edocshm.hmco.com.sa
 email.hdmg.net
+embed.hydronet.com
 ephinnsyn.helsenord.no
 fed.hin.ch
 ffxiv-character-cards.herokuapp.com
@@ -790,6 +793,7 @@ hardtimesgear.com
 hardwaretips.nl
 hariomparadise.com
 harlanfairbank.ml
+harmonyblossom.com
 haro-haroblog.org
 hartzler.house.gov
 hastac.hcommons.org
@@ -814,8 +818,11 @@ healthwindow.co.za
 healwithtomi.com
 heat-exchanger-world-americas.com
 heatcontrol.cl
+heathallyn.com
 heatpumpdata.eu
 heckle.scot
+hedgehogcycling.co.uk
+hejprosper.dk
 helfrich.ca
 heloborneo.com
 help-fb.net
@@ -904,6 +911,7 @@ hugo.hubble.in
 humanfactorsecurity.co.uk
 humanlibrary.org
 humasjatim.id
+humedadzero.com
 hundeshop-aschau.de
 hunterdesign.pl
 huntergreyxox.com
@@ -924,6 +932,7 @@ identity.healthadvocate.com
 idp2.hvidovre.dk
 inefficiency-dr-2191-update-client-pricelist.ddl.hathor.cc
 inefficiency-dr-2616-refactor-fund-paypal-requests.ddl.hathor.cc
+iwiki.hetzner.company
 jalanjalanjohornow.harapan.club
 jasonsimpson204432.hatenablog.com
 kernelserver.prod.haloplus.io
@@ -947,6 +956,7 @@ mgmail.harvestapp.com
 mhadmin-test.hyundai.co.in
 mu.hebi3.work
 musicscapes.herokuapp.com
+net.hachi.co
 new-staging.healthsharevic.org.au
 nextcloud.hms.org
 nordicepi2022.hi.is
@@ -974,6 +984,7 @@ raiza-js.herokuapp.com
 re-peza.hatenablog.com
 rectificationserverless-config.herokuapp.com
 report.hipay.co.kr
+restore.helloplace.com.br
 robotlike-scammony.herokuapp.com
 rs-stripe.remodeling.hw.net
 rsa.hopestudio.org
@@ -1001,6 +1012,7 @@ st01-dyno-funnel.runtime.herokai.com
 staging.api.holocene.eu
 staramleczarnia.hyzne.pl
 stg-ba.hub.hit-u.ac.jp
+sts.horo.school
 support.havasuit.com
 support.high-networks.com
 support.holland-hydraulics.nl
@@ -1070,7 +1082,9 @@ www.healsecurity.org
 www.health.gov.au
 www.health.gov.sc
 www.healtheuropa.com
+www.hearingsolutions.ie
 www.heatcontrol.cl
+www.hejprosper.dk
 www.hek.ch
 www.helios-gesundheit.de
 www.hellobank.be
@@ -1096,6 +1110,7 @@ www.historiccamera.com
 www.hivebusinesssupport.org
 www.hiwwelwoi.shop
 www.hkcsfoundation.org
+www.ho8w09o58y4ft58mz.jp
 www.hoeverdienjegeld.com
 www.hokkaidojpn.jp
 www.hollywooddjservice.com
@@ -1154,6 +1169,7 @@ www.patient-feedback.healthqindia.com
 www.perfectmoney.htbusinessgroup.in
 www.plazapost.hoteltop.top
 www.post.hevalls.com
+www.restore.helloplace.com.br
 www.rooksheath.harrow.sch.uk
 www.secure.hbcholdingsbk.com
 www.secure.hsbcholdingsbk.com
@@ -1163,6 +1179,7 @@ www.staff.hs-mittweida.de
 www.statecontinentalbank.hhsonlines.com
 www.training.hack2secure.com
 www.uat.services.healthcode.co.uk
+www.user.hextragainers.com
 www2.online-banking.business.hsbc.com.hk
 yomiuri.hakko-ar-vr.com
 coronavirus.house.gov
