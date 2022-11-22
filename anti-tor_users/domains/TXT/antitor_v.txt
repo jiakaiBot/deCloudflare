@@ -676,6 +676,7 @@ accounts.victoryauditors.co.tz
 ad-reports-service.ad-events.voltaxam-events.com
 addressportal.verifymacronix.com
 aina.vakehyva.fi
+api.comid.fma-8ff424f7.core.build.vwn.cloud
 api.comid.fma-c31f06d3.core.build.vwn.cloud
 api.vas-preprod.eu.dp15.vwg-connect.com
 api.vessel.land
@@ -700,6 +701,7 @@ blackbeardiner.vernonpromotions.com
 bmsgw.vazobervaz.ch
 calcium.valantic.pro
 care-api-staging.vaultdragon.com
+ccgxlogging.victronenergy.com
 cdn.vianor-tyres.ru
 christian.vonschack.com
 cleanup-service-comid.core.build.vwn.cloud
@@ -774,6 +776,7 @@ hunterloftis.vercel.app
 hunterred50.vercel.app
 idp.comid.fma-4153d385.core.build.vwn.cloud
 iforgot-apple.verifylocation.live
+imail.www.wiki.dev.vrouwenhebbenookhaar.nl
 info.vemsa.travel
 intelex.vercel.app
 intteco.vercel.app
@@ -783,7 +786,9 @@ jung.valantic.pro
 links.e.vivinomail.com
 lite.virtusize.jp
 live.valvin.fr
+login.test.prod.vgn.de
 login.vodafonemail.de
+lpr-gls.vcn.pl
 m.vancl.com
 mail-server-mock.comid-adc1dfbd.core.build.vwn.cloud
 mail.vaccinesandsociety.com
@@ -794,8 +799,11 @@ mobi.vivifyhealth.com
 mobile.vlcompliant.nl
 mod3caimbbreg-3a.app.eu.dp.vwg-connect.com
 monotool.vercel.app
+multimedia.mailing.visionexpress.pl
 netflix-online-acc.v6.army
 nitronow.vbuckscentral.net
+nsx-13-211-4-132.rp.vmwarevmc.com
+oal-japan.vietnamchichan.com
 olmera.verwalt-berlin.de
 ondemand-radio.aka.v2022.vrtcdn.be
 onderhoud.vlaanderen.be
@@ -878,6 +886,7 @@ verify-0nlineinfo.ga
 verify-bankofamerica.com
 verify-malta.com
 verify-mywellsfargo-account76r.com
+verifywhatsapp.net
 vermontbiz.com
 veronicabadea.com
 veronmoney.com
@@ -899,11 +908,14 @@ videotech.lv
 vidracariaroma.com.br
 viergeverclan.nl
 viesti.fi
+viewpointvancouver.ca
+vihrealippu.fi
 viktoriyagotseva.com
 villa-aventura.com
 villamormor.dk
 villelepisto.fi
 vinatrips.vn
+vincenrosale.bond
 vincentbreton.fr
 vincentgaragedoorrepairservice.us
 vincenzopresutto.it
@@ -926,6 +938,7 @@ vitivinicolamacetero.cl
 vitralii-restaurare.ro
 viveecosse.com
 vj22.de
+vkc.sh
 vljwebapp.vedantaconnect.com
 vn-khachhang.click
 vocebronzeadora.com
@@ -1034,6 +1047,7 @@ www.vicenteguimaraes.com.br
 www.victoriansweatshop.com
 www.video-softwares.com
 www.videochatforum.ro
+www.vihrealippu.fi
 www.villaoeiras.com
 www.ville-nogentlerotrou.fr
 www.vincentdt.com
@@ -1045,9 +1059,11 @@ www.vivino.com
 www.vlacomcbs.com
 www.vmaj.jp
 www.vnwpod.de
+www.voltrafficsupport.nl
 www.vortexshippingservice.com
 www.votre-colis-chronopost.fr
 www.voxweb.nl
+www.vpnsoftwares.com
 www.vseinc.com
 www.vtcng.com
 www.vtechda.com
