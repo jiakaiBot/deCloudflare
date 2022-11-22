@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Connection failed - dialer swarm lookup failed, operation cancelled](https://github.com/mysteriumnetwork/node/issues/5635)
 - [Problem with certbot version 2.0.0](https://github.com/linuxserver/docker-swag/issues/297)
 - [hitting uncallable on startup](https://github.com/schwa/MastodonAgain/issues/2)
 - [Authentication credentials not found. This API supports both API Key and OAuth 2.0 authentication](https://github.com/HubSpot/hubspot-api-ruby/issues/181)
