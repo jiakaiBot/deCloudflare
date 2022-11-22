@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,257 |
+| com | 4,258 |
 | social | 2,317 |
-| net | 2,262 |
-| org | 1,627 |
+| net | 2,263 |
+| org | 1,628 |
 | de | 1,490 |
 
 
@@ -9028,6 +9028,7 @@ Here's a list of public Fediverse services.
 | `furry-elephant.news` | No |
 | `furry.city` | No |
 | `furry.club` | Yes |
+| `furry.energy` | Yes |
 | `furry.engineer` | Yes |
 | `furry.fail` | Yes |
 | `furry.horse` | No |
@@ -11530,6 +11531,7 @@ Here's a list of public Fediverse services.
 | `ineptiarum.ca` | Yes |
 | `inertdata.com` | No |
 | `inessential.com` | No |
+| `inet.place` | No |
 | `inex.rocks` | No |
 | `inexist.club` | Yes |
 | `inferencium.net` | No |
@@ -13000,6 +13002,7 @@ Here's a list of public Fediverse services.
 | `khomri.com` | No |
 | `khorneflak.es` | No |
 | `kianting.info` | No |
+| `kiasyn.com` | Yes |
 | `kibi.family` | No |
 | `kibitz.cloud` | Yes |
 | `kibitz.group` | No |
@@ -16362,6 +16365,7 @@ Here's a list of public Fediverse services.
 | `mikhra.com` | Yes |
 | `mikka.md` | No |
 | `miklb.com` | No |
+| `mikmak.cc` | No |
 | `mikmak.fr` | No |
 | `mikorizal.org` | No |
 | `mikotochopin.jp` | No |
@@ -16451,6 +16455,7 @@ Here's a list of public Fediverse services.
 | `minimalstate.dev` | No |
 | `minimmill.com` | No |
 | `miningpro362.xyz` | Yes |
+| `minish.org` | No |
 | `ministeriumfuerinternet.de` | No |
 | `ministryofinternet.eu` | No |
 | `minitel.cloud` | No |
@@ -20670,6 +20675,7 @@ Here's a list of public Fediverse services.
 | `postea.me` | No |
 | `postear.xyz` | No |
 | `poster.place` | Yes |
+| `posthat.ca` | Yes |
 | `posting.institute` | No |
 | `posting.party` | Yes |
 | `postingbrain.com` | No |
@@ -21107,6 +21113,7 @@ Here's a list of public Fediverse services.
 | `q12.im` | No |
 | `q13fox.com` | No |
 | `q1z.net` | No |
+| `q2r.net` | No |
 | `q8.wiki` | No |
 | `qa.social` | No |
 | `qaf.men` | Yes |
@@ -29668,8 +29675,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,433 |
-| Normal | 23,192 |
+| Cloudflare | 6,436 |
+| Normal | 23,196 |
 
 
 ### 21.7% of public Fediverse services are using Cloudflare.
