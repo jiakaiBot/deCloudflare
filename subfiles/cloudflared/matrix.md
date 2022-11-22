@@ -27,7 +27,6 @@ Here's a list of public Matrix services.
 | alternanet.fr | Yes |
 | anonymousland.org | No |
 | matrix.arcticfoxes.net | Yes |
-| aria.im | No |
 | asra.gr | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
@@ -84,6 +83,7 @@ Here's a list of public Matrix services.
 | mandragot.org | No |
 | matrix.im | No |
 | matrix.org | Yes |
+| matrix.monero.social | No |
 | mtrx.nz | No |
 | nibbana.jp | No |
 | nitro.chat | No |
