@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,278 |
-| social | 2,350 |
-| net | 2,270 |
-| org | 1,635 |
+| com | 4,276 |
+| social | 2,349 |
+| net | 2,269 |
+| org | 1,633 |
 | de | 1,496 |
 
 
@@ -2204,7 +2204,6 @@ Here's a list of public Fediverse services.
 | `badabadoc.online` | No |
 | `badabam.net` | No |
 | `badadmin.net` | No |
-| `badanalys.is` | Yes |
 | `badat.dev` | No |
 | `badc0de.net` | No |
 | `badd10de.dev` | No |
@@ -2892,7 +2891,6 @@ Here's a list of public Fediverse services.
 | `bka.li` | No |
 | `bke.ro` | No |
 | `bkgrdclrschm.link` | Yes |
-| `bkrdam.social` | No |
 | `bkryer.com` | No |
 | `bl1nk.com` | No |
 | `blabber.rocks` | No |
@@ -4059,7 +4057,6 @@ Here's a list of public Fediverse services.
 | `chancellor.cc` | No |
 | `chancellor.social` | No |
 | `changelog.social` | No |
-| `channelinfosec.com` | Yes |
 | `chantierlibre.org` | No |
 | `chanyukming.com` | Yes |
 | `chao.tokyo` | No |
@@ -5010,7 +5007,6 @@ Here's a list of public Fediverse services.
 | `cranil.io` | Yes |
 | `crap.today` | No |
 | `crapaud-fou.org` | Yes |
-| `crashed.org` | No |
 | `crashloop.social` | No |
 | `crashmail.de` | No |
 | `crashspace.org` | No |
@@ -6435,7 +6431,6 @@ Here's a list of public Fediverse services.
 | `dnsabr.com` | Yes |
 | `dnshome.de` | No |
 | `dnsimple.social` | No |
-| `dnsmastery.net` | Yes |
 | `dnsup.net` | No |
 | `dny.social` | No |
 | `dnyfrs.io` | No |
@@ -7567,7 +7562,6 @@ Here's a list of public Fediverse services.
 | `etheirys.ovh` | No |
 | `ethereal.pw` | No |
 | `etherealmind.com` | Yes |
-| `ethernal.me` | Yes |
 | `ethernia.net` | No |
 | `etherspace.me` | Yes |
 | `etheryo.fr` | No |
@@ -7611,7 +7605,6 @@ Here's a list of public Fediverse services.
 | `euzilla.de` | No |
 | `ev1.pw` | No |
 | `evanaolson.com` | No |
-| `evandoes.dev` | Yes |
 | `evangelisch.video` | No |
 | `evangelisches.online` | No |
 | `evangineer.net` | No |
@@ -8546,7 +8539,6 @@ Here's a list of public Fediverse services.
 | `foobar.social` | No |
 | `foodin.ga` | No |
 | `foodon.jp` | No |
-| `foofus.com` | No |
 | `foojay.social` | No |
 | `foolbazar.eu` | No |
 | `footbrid.ge` | No |
@@ -20731,7 +20723,6 @@ Here's a list of public Fediverse services.
 | `popolon.org` | No |
 | `poppelreuter.de` | No |
 | `poppelreuter.desocial` | No |
-| `poppingboxes.org` | No |
 | `poppo-ya.com` | Yes |
 | `popps.org` | No |
 | `popradio.club` | No |
@@ -23006,7 +22997,6 @@ Here's a list of public Fediverse services.
 | `scramble.city` | No |
 | `scrapist.xyz` | No |
 | `scrapp.app` | No |
-| `scratchingpost.xyz` | No |
 | `scream.cloud` | No |
 | `scream.supply` | No |
 | `scream.today` | No |
@@ -29822,8 +29812,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,479 |
-| Normal | 23,300 |
+| Cloudflare | 6,474 |
+| Normal | 23,295 |
 
 
-### 21.8% of public Fediverse services are using Cloudflare.
+### 21.7% of public Fediverse services are using Cloudflare.
