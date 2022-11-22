@@ -16392,6 +16392,7 @@ Here's a list of public Fediverse services.
 | `mightly.space` | Yes |
 | `miguelcr.me` | No |
 | `migueloteroiglesias.eu` | No |
+| `mii.codes` | Yes |
 | `miicat.eu` | Yes |
 | `miisu.net` | No |
 | `mijninternet.info` | No |
@@ -26810,6 +26811,7 @@ Here's a list of public Fediverse services.
 | `ts-novels.jp` | No |
 | `ts.net` | No |
 | `ts5.dev` | Yes |
+| `tsai.it` | Yes |
 | `tsarolion.com` | No |
 | `tschaba.de` | Yes |
 | `tschannen.me` | No |
@@ -29763,7 +29765,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,459 |
+| Cloudflare | 6,461 |
 | Normal | 23,261 |
 
 
