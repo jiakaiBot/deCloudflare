@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,256 |
-| social | 2,316 |
-| net | 2,260 |
-| org | 1,626 |
+| social | 2,317 |
+| net | 2,261 |
+| org | 1,627 |
 | de | 1,490 |
 
 
@@ -3891,6 +3891,7 @@ Here's a list of public Fediverse services.
 | `catonmat.net` | No |
 | `catoptric.com` | No |
 | `catpowered.net` | Yes |
+| `catpp.eu` | No |
 | `catrow.net` | No |
 | `cats-home.net` | No |
 | `catsbay.org` | No |
@@ -4133,6 +4134,7 @@ Here's a list of public Fediverse services.
 | `chemnitz.social` | No |
 | `chemoner.tokyo` | No |
 | `chemtrail.airforce` | No |
+| `cheney.net` | No |
 | `cherain.be` | No |
 | `cheribaker.com` | Yes |
 | `chernow.org` | No |
@@ -4545,6 +4547,7 @@ Here's a list of public Fediverse services.
 | `code4lib.social` | No |
 | `codebase.one` | No |
 | `codegito.xyz` | No |
+| `codeine.world` | No |
 | `codelib.re` | No |
 | `codem.xyz` | No |
 | `codeplumbers.eu` | No |
@@ -4654,7 +4657,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7868,6 +7871,7 @@ Here's a list of public Fediverse services.
 | `fatpig.club` | No |
 | `fatsofa.eu` | No |
 | `fatty-j.com` | No |
+| `faucher.social` | No |
 | `fauchereau.fr` | No |
 | `faux.io` | Yes |
 | `fauxzen.com` | Yes |
@@ -8742,7 +8746,7 @@ Here's a list of public Fediverse services.
 | `freeway.network` | No |
 | `freewheel.social` | No |
 | `freezepeach.online` | No |
-| `freezepeach.xyz` | Yes |
+| `freezepeach.xyz` | No |
 | `frehi.be` | No |
 | `frei.social` | Yes |
 | `freiburg.social` | No |
@@ -12930,6 +12934,7 @@ Here's a list of public Fediverse services.
 | `kernel.social` | No |
 | `kernel32.de` | No |
 | `kernelpage.com` | No |
+| `kernelpoppers.org` | Yes |
 | `kernkraft.social` | No |
 | `kernvillecowork.social` | No |
 | `kerr.social` | No |
@@ -15360,6 +15365,7 @@ Here's a list of public Fediverse services.
 | `masto.host` | No |
 | `masto.id` | Yes |
 | `masto.io` | No |
+| `masto.la` | No |
 | `masto.lol` | No |
 | `masto.media` | No |
 | `masto.ml` | No |
@@ -23655,6 +23661,7 @@ Here's a list of public Fediverse services.
 | `skyue.com` | No |
 | `skyue.xyz` | No |
 | `sl-network.fr` | No |
+| `slacknet.uk` | No |
 | `slackworks.social` | No |
 | `slackz.co` | No |
 | `slaght.de` | No |
@@ -25625,6 +25632,7 @@ Here's a list of public Fediverse services.
 | `thecitadel.social` | No |
 | `thecitizen.icu` | No |
 | `theclacks.cloud` | No |
+| `theclans.men` | Yes |
 | `theclashfruit.me` | Yes |
 | `thecle.land` | Yes |
 | `thecodebank.org` | No |
@@ -29655,7 +29663,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,431 |
-| Normal | 23,180 |
+| Normal | 23,188 |
 
 
 ### 21.7% of public Fediverse services are using Cloudflare.
