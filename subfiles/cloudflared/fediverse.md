@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,317 |
+| com | 4,318 |
 | social | 2,376 |
-| net | 2,291 |
+| net | 2,290 |
 | org | 1,642 |
-| de | 1,502 |
+| de | 1,503 |
 
 
 - Mastodon, Pleroma, etc
@@ -334,6 +334,7 @@ Here's a list of public Fediverse services.
 | `440hz-radio.de` | No |
 | `440hz.social` | No |
 | `448c.net` | No |
+| `44944.eu` | No |
 | `44con.com` | No |
 | `45bis.cc` | No |
 | `465789.xyz` | No |
@@ -5787,6 +5788,7 @@ Here's a list of public Fediverse services.
 | `davidpea.ch` | No |
 | `davidpeach.co.uk` | Yes |
 | `davidpeach.me` | No |
+| `davidriederer.com` | No |
 | `davidsimon.com` | Yes |
 | `davidwolfpaw.com` | Yes |
 | `davidzeiger.net` | Yes |
@@ -6589,6 +6591,7 @@ Here's a list of public Fediverse services.
 | `donut.quest` | No |
 | `doobie.cafe` | No |
 | `dood.net` | No |
+| `doodlehub.de` | No |
 | `doof.net` | No |
 | `dook.business` | No |
 | `dookie.eu.org` | No |
@@ -7501,6 +7504,7 @@ Here's a list of public Fediverse services.
 | `erabo.de` | No |
 | `eradicatinglove.xyz` | Yes |
 | `eragon.re` | No |
+| `eramne.com` | No |
 | `erase.nz` | No |
 | `erch.co` | Yes |
 | `erch.social` | No |
@@ -9906,7 +9910,6 @@ Here's a list of public Fediverse services.
 | `gochai.top` | No |
 | `gochisou.dev` | No |
 | `gochisou.photo` | No |
-| `gochiuma.net` | No |
 | `gochiusa.net` | No |
 | `godawful.earth` | No |
 | `godforsaken.website` | No |
@@ -12091,7 +12094,6 @@ Here's a list of public Fediverse services.
 | `ivel.fr` | No |
 | `iversen.io` | Yes |
 | `ivi.pl` | No |
-| `ivie.cc` | No |
 | `ivn.cx` | Yes |
 | `ivor.org` | No |
 | `ivrianochi.com` | No |
@@ -22091,7 +22093,6 @@ Here's a list of public Fediverse services.
 | `retoldclassics.org` | No |
 | `retr0.id` | No |
 | `retr0.party` | No |
-| `retro-ink.com` | No |
 | `retro.pizza` | No |
 | `retro.social` | No |
 | `retrochat.online` | No |
@@ -29991,7 +29992,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,519 |
-| Normal | 23,428 |
+| Normal | 23,429 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
