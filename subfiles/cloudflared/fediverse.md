@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,276 |
-| social | 2,349 |
+| com | 4,277 |
+| social | 2,350 |
 | net | 2,269 |
 | org | 1,633 |
 | de | 1,496 |
@@ -12946,6 +12946,7 @@ Here's a list of public Fediverse services.
 | `keazilla.net` | No |
 | `kebot.me` | Yes |
 | `kebree.fr` | No |
+| `kechpaja.com` | No |
 | `keda.re` | Yes |
 | `keegee40.xyz` | No |
 | `keegsands.org` | No |
@@ -28196,6 +28197,7 @@ Here's a list of public Fediverse services.
 | `waseigo.com` | No |
 | `washcaps.fans` | No |
 | `washingtonbeach.online` | No |
+| `washodondc.social` | No |
 | `waskuisland.com` | Yes |
 | `wasmitnetzen.de` | No |
 | `wasnt.net` | Yes |
@@ -29813,7 +29815,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,474 |
-| Normal | 23,295 |
+| Normal | 23,297 |
 
 
 ### 21.7% of public Fediverse services are using Cloudflare.
