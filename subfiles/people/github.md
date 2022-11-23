@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Hotleak response referenced before assignment](https://github.com/mikf/gallery-dl/issues/3293)
 - [500 / Couldn't initiate registration](https://github.com/davidearl/webauthn/issues/57)
 - [XrayR does not start - status=2/INVALIDARGUMENT](https://github.com/XrayR-project/XrayR/issues/112)
 - [Brotli Compression Issue](https://github.com/stavroskasidis/BlazorWasmAntivirusProtection/issues/42)
