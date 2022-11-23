@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 4,338 |
 | social | 2,393 |
 | net | 2,296 |
-| org | 1,653 |
+| org | 1,652 |
 | de | 1,511 |
 
 
@@ -1104,7 +1104,6 @@ Here's a list of public Fediverse services.
 | `alpaka.pictures` | No |
 | `alpaka.social` | No |
 | `alpega.space` | No |
-| `alphakilo.eu` | Yes |
 | `alphapi.me` | No |
 | `alpharius.io` | No |
 | `alphasoft.org` | No |
@@ -2065,7 +2064,6 @@ Here's a list of public Fediverse services.
 | `awakeningproject.net` | No |
 | `awaodori.tokyo` | No |
 | `awau.social` | Yes |
-| `awaymessage.club` | No |
 | `awes.one` | Yes |
 | `awesome.computer` | No |
 | `awesomebible.de` | Yes |
@@ -4806,7 +4804,6 @@ Here's a list of public Fediverse services.
 | `complexityweekend.xyz` | No |
 | `compositecomputer.club` | Yes |
 | `compostintraining.club` | No |
-| `compound.social` | No |
 | `comprac.info` | No |
 | `compti.me` | No |
 | `comptoir.net` | No |
@@ -5161,7 +5158,6 @@ Here's a list of public Fediverse services.
 | `crosse.org` | Yes |
 | `crossfamilyweb.com` | No |
 | `crosstalk.co` | No |
-| `crosstalk.tech` | No |
 | `crossthestreams.blog` | No |
 | `crosswords.social` | No |
 | `crovaxon.de` | No |
@@ -6226,7 +6222,6 @@ Here's a list of public Fediverse services.
 | `dgoeke.io` | No |
 | `dgplug.org` | No |
 | `dgrammatiko.dev` | No |
-| `dharmapunx.online` | No |
 | `dharmarakshak.com` | No |
 | `dhbit.ca` | No |
 | `dhd-netzwerk.de` | No |
@@ -7724,7 +7719,6 @@ Here's a list of public Fediverse services.
 | `everydev.com` | Yes |
 | `everydev.social` | Yes |
 | `everydon.com` | No |
-| `everynothing.org` | No |
 | `everynothing.social` | No |
 | `everysick.com` | No |
 | `everythingistacos.net` | No |
@@ -11040,7 +11034,6 @@ Here's a list of public Fediverse services.
 | `hobaugh.social` | No |
 | `hobbies.social` | No |
 | `hobbitasylum.com` | No |
-| `hobbithole.com` | No |
 | `hobbs-end.uk` | No |
 | `hobbymetzgerei.de` | No |
 | `hochminuseins.net` | No |
@@ -13309,6 +13302,7 @@ Here's a list of public Fediverse services.
 | `kink.town` | Yes |
 | `kinks.wtf` | Yes |
 | `kinktroet.social` | No |
+| `kinkuroshideout.com` | No |
 | `kinky.business` | Yes |
 | `kinkyelephant.com` | No |
 | `kinl.gq` | No |
@@ -19403,6 +19397,7 @@ Here's a list of public Fediverse services.
 | `onthecouch.xyz` | No |
 | `onthedon.uk` | No |
 | `onthesecond.com` | No |
+| `onthetable.social` | No |
 | `ontological.city` | No |
 | `onuu.uno` | Yes |
 | `onzenet.com` | No |
@@ -19504,6 +19499,7 @@ Here's a list of public Fediverse services.
 | `operationtulip.com` | No |
 | `opgezwolle.nl` | No |
 | `opiat.es` | Yes |
+| `opinion8.social` | No |
 | `oplibris.com` | No |
 | `opliko.dev` | Yes |
 | `opossum.rocks` | No |
@@ -21327,7 +21323,6 @@ Here's a list of public Fediverse services.
 | `publicintegrity.org` | Yes |
 | `publicinterest.town` | No |
 | `publiclaw.space` | Yes |
-| `publicmedia.social` | No |
 | `publicmedia.space` | No |
 | `publicspaces.net` | No |
 | `publicvm.com` | No |
@@ -25027,7 +25022,6 @@ Here's a list of public Fediverse services.
 | `striker.host` | No |
 | `striker.net.eu.org` | No |
 | `strindevall.com` | Yes |
-| `stringer.live` | Yes |
 | `stripedsocks.dev` | No |
 | `strits.dk` | No |
 | `strizhakov.dev` | Yes |
@@ -29486,7 +29480,6 @@ Here's a list of public Fediverse services.
 | `xycloud.fr` | No |
 | `xyenon.bid` | Yes |
 | `xylinvale.space` | No |
-| `xymoste.ch` | No |
 | `xytes.net` | No |
 | `xyu.social` | Yes |
 | `xyzyx.org` | No |
@@ -30141,8 +30134,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,563 |
-| Normal | 23,535 |
+| Cloudflare | 6,561 |
+| Normal | 23,530 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
