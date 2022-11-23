@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,354 |
-| social | 2,410 |
+| com | 4,352 |
+| social | 2,411 |
 | net | 2,305 |
 | org | 1,656 |
 | de | 1,514 |
@@ -1707,7 +1707,6 @@ Here's a list of public Fediverse services.
 | `arofarn.info` | No |
 | `arousal.support` | No |
 | `arpakuut.io` | Yes |
-| `arpcomics.com` | No |
 | `arpidon.space` | No |
 | `arqadium.com` | Yes |
 | `arr.to` | No |
@@ -2139,7 +2138,6 @@ Here's a list of public Fediverse services.
 | `azkware.net` | No |
 | `azuki-zenzai.net` | No |
 | `azuki.cf` | Yes |
-| `azumabashi.dev` | No |
 | `azumarill.net` | No |
 | `azumi.fr` | No |
 | `azunyan.jp` | No |
@@ -4278,7 +4276,6 @@ Here's a list of public Fediverse services.
 | `chirr.space` | No |
 | `chitose.moe` | No |
 | `chitose.org` | No |
-| `chitotan.com` | Yes |
 | `chitownmastodon.tech` | No |
 | `chitter.xyz` | No |
 | `chitterchatz.com` | No |
@@ -5465,7 +5462,6 @@ Here's a list of public Fediverse services.
 | `cybernetics.club` | No |
 | `cybernude.org` | No |
 | `cyberparty.me` | No |
-| `cyberpasti.me` | No |
 | `cyberplace.social` | No |
 | `cyberprivacyfirst.com` | No |
 | `cyberpunk.earth` | No |
@@ -6201,6 +6197,7 @@ Here's a list of public Fediverse services.
 | `devol.it` | Yes |
 | `devolio.net` | Yes |
 | `devolutionnet.com` | No |
+| `devolver.social` | No |
 | `devonrjohnson.stream` | Yes |
 | `devopsgenius.com` | No |
 | `devosi.org` | No |
@@ -11538,6 +11535,7 @@ Here's a list of public Fediverse services.
 | `ideath.net` | No |
 | `ideentausch.org` | No |
 | `identi.cat` | No |
+| `ides.club` | No |
 | `idevs.id` | Yes |
 | `idf.social` | No |
 | `idic.social` | No |
@@ -19245,7 +19243,6 @@ Here's a list of public Fediverse services.
 | `officially.social` | Yes |
 | `officials.social` | Yes |
 | `offilth.stream` | No |
-| `offisiell.info` | No |
 | `offline.network` | Yes |
 | `offrealms.space` | No |
 | `offshore.ninja` | Yes |
@@ -20345,7 +20342,6 @@ Here's a list of public Fediverse services.
 | `petersanchez.com` | No |
 | `petersen.social` | No |
 | `petertodd.org` | No |
-| `peterwebster.me` | No |
 | `petitionsforfuture.de` | No |
 | `petitlutinartube.fr` | No |
 | `petko.me` | No |
@@ -30231,8 +30227,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,585 |
-| Normal | 23,603 |
+| Cloudflare | 6,584 |
+| Normal | 23,600 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
