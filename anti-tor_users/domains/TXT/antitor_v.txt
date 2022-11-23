@@ -672,6 +672,7 @@ zyxzero314-gmailcom.vercel.app
 ablink.mkt.voiapp.io
 academy-charlie.vercel.app
 academyld.vercel.app
+account.venmo.vnmacsdptmt.com
 accounts.victoryauditors.co.tz
 ad-reports-service.ad-events.voltaxam-events.com
 addressportal.verifymacronix.com
@@ -734,6 +735,9 @@ dev.vlec.be
 directaccess.vkooten.nl
 discord.valkirias.xyz
 discord4j.vercel.app
+discourse.magicebooking.view-manager.com
+dossier.vdshincasso.nl
+download.videolan.org
 dpeto-discord.vercel.app
 e1prod2-web1.prod.vitalconnect.com
 ekycbidvsthgw.vnpaytest.vn
@@ -800,6 +804,7 @@ mobile.vlcompliant.nl
 mod3caimbbreg-3a.app.eu.dp.vwg-connect.com
 monotool.vercel.app
 multimedia.mailing.visionexpress.pl
+navinprakash2010.vercel.app
 netflix-online-acc.v6.army
 nitronow.vbuckscentral.net
 nsx-13-211-4-132.rp.vmwarevmc.com
@@ -824,8 +829,10 @@ renault.via-conex.net
 restaurant.vmittech.in
 rexfordnyrk-gmailcom.vercel.app
 robot-framework-tests.comid-1aab7597.core.build.vwn.cloud
+rogeliopc-gmailcom.vercel.app
 romancer.voyager.co.jp
 rt.services.visualstudio.com
+sanctionlistlistener.comid-abd3c18.core.build.vwn.cloud
 sanrio.viverebrasil.com.br
 secure.vertiforge.com
 selfcare.onenet.vodafone.nl
@@ -865,6 +872,7 @@ vakifbank-hizlikredi.tk
 vakrangeedevelopers.com
 valdemarhoiris.dk
 valorasecurity.cl
+vanadzorpost.com
 vandoornsupport.nl
 vankids.co.kr
 varietal-literature.ca
@@ -875,14 +883,18 @@ vdx.hu
 ve6lk.com
 velcroblog.com
 velstandsecurity.ro
+vems.veritas.com
 vemsorrirsantarita.tk
+vengrape.com
 ventanasantiruido.info
 verband-brg.de
+verein-fema.at
 verificasite.ro
 verification-badge.ml
 verification-bankofamerica.veloxsol.com
 verifikation-vorgang.com
 verify-0nlineinfo.ga
+verify-account231-amazon.com
 verify-bankofamerica.com
 verify-malta.com
 verify-mywellsfargo-account76r.com
@@ -891,6 +903,7 @@ vermontbiz.com
 veronicabadea.com
 veronmoney.com
 versas-fukushi.com
+verysecretdomainkek.de
 veszpremvaros.hu
 vetcov19.se
 via.vmw.com
@@ -899,6 +912,7 @@ vialsafe.co
 viaplay.com
 viaplay.dk
 viaplay.se
+victoriahistoricalsociety.bc.ca
 victorpetfood.com
 victoryautomotiveservice.com
 vidaelite.com.br
@@ -910,6 +924,7 @@ viergeverclan.nl
 viesti.fi
 viewpointvancouver.ca
 vihrealippu.fi
+vijayacentral.com
 viktoriyagotseva.com
 villa-aventura.com
 villamormor.dk
@@ -942,13 +957,16 @@ vkc.sh
 vljwebapp.vedantaconnect.com
 vn-khachhang.click
 vocebronzeadora.com
+vodabrd.com
 vodafone-telekom-shop-vechta.de
 vodiscord.vercel.app
 voices.media
 voicesofvr.com
 voidacoustics.ro
 voltafa.org
+voltedu.com
 voteojeda.com
+voxticket.vox-power.com
 voyagebaltimore.com
 voyagestransat.com
 voyageutah.com
@@ -1019,6 +1037,7 @@ www.vacsax.co.uk
 www.valleydjservice.com
 www.valmikiramayan.net
 www.valuation-postagestamp.com
+www.vanadzorpost.com
 www.vandoornsupport.nl
 www.vans.de
 www.vanveen-vanhemertpost89.org
@@ -1029,6 +1048,7 @@ www.vdb-online.org
 www.vdi.de
 www.vecibank.com
 www.velobuc.velovgp.org
+www.venture-west.co.uk
 www.vergingoaescorts.com
 www.verification-malta.com
 www.verify-bankofamerica.com
