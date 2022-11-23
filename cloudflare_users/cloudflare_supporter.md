@@ -6242,6 +6242,7 @@ Do not create new issue or we will close it as duplicate.
 | [mkbentre@twitter](https://twitter.com/mkbentre/status/1505495883622010881) | advertise |
 | [mkhyunie@twitter](https://twitter.com/mkhyunie/status/1402262464369250316) | advertise |
 | [mkk01612638@twitter](https://twitter.com/mkk01612638/status/1391092816718139395) | advertise |
+| [Mkono79826945@twitter](https://twitter.com/Mkono79826945/status/1595552481873842177) | advertise |
 | [MKTOT3@twitter](https://twitter.com/MKTOT3/status/1391092948767371265) | advertise |
 | [mkwsra@twitter](https://twitter.com/mkwsra/status/1440805231105695746) | advertise |
 | [mlev@twitter](https://twitter.com/mlev/status/1519336801906966528) | advertise |
@@ -8913,6 +8914,7 @@ Do not create new issue or we will close it as duplicate.
 | [SkManso30913505@twitter](https://twitter.com/SkManso30913505/status/1383677050020503553) | advertise |
 | [Skofield2121@twitter](https://twitter.com/Skofield2121/status/1377617096805335041) | advertise |
 | [skudhos@twitter](https://twitter.com/skudhos/status/1496418558288539654) | advertise |
+| [skul_nikr@twitter](https://twitter.com/skul_nikr/status/1595541876807176193) | advertise |
 | [sky382436@twitter](https://twitter.com/sky382436/status/1391574749361283072) | advertise |
 | [skyhear27208113@twitter](https://twitter.com/skyhear27208113/status/1392331792523345920) | advertise |
 | [skylay46648379@twitter](https://twitter.com/skylay46648379/status/1393392250948829185) | advertise |
