@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,330 |
+| com | 4,331 |
 | social | 2,383 |
 | net | 2,295 |
 | org | 1,646 |
@@ -154,6 +154,7 @@ Here's a list of public Fediverse services.
 | `1312.media` | No |
 | `1315.me` | No |
 | `1331.social` | No |
+| `1337.blue` | Yes |
 | `1337.cx` | No |
 | `1337331.xyz` | Yes |
 | `1337lounge.de` | No |
@@ -5016,6 +5017,7 @@ Here's a list of public Fediverse services.
 | `cozymech.com` | No |
 | `cozytronics.com` | No |
 | `cplus8.com` | Yes |
+| `cpluspatch.com` | Yes |
 | `cpn.so` | Yes |
 | `cpp.ninja` | No |
 | `cpper.xyz` | No |
@@ -16187,6 +16189,7 @@ Here's a list of public Fediverse services.
 | `mediadon.jp` | No |
 | `mediaformat.org` | No |
 | `mediajunkie.com` | No |
+| `median.moe` | No |
 | `mediaoffice-zimmer.de` | No |
 | `mediartodon.net` | No |
 | `mediastodon.com` | Yes |
@@ -30071,8 +30074,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,542 |
-| Normal | 23,486 |
+| Cloudflare | 6,544 |
+| Normal | 23,487 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
