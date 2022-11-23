@@ -9171,6 +9171,7 @@ Here's a list of public Fediverse services.
 | `funposters.club` | Yes |
 | `funs.vn` | No |
 | `fuo.fi` | Yes |
+| `fur.city` | No |
 | `fur.cl` | Yes |
 | `fur.cloud` | No |
 | `fur.gg` | Yes |
@@ -30141,7 +30142,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,563 |
-| Normal | 23,534 |
+| Normal | 23,535 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
