@@ -20679,6 +20679,7 @@ Here's a list of public Fediverse services.
 | `pleroma.fr` | No |
 | `pleroma.fun` | No |
 | `pleroma.ga` | No |
+| `pleroma.id` | No |
 | `pleroma.in.th` | No |
 | `pleroma.io` | No |
 | `pleroma.live` | No |
@@ -30104,7 +30105,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,554 |
-| Normal | 23,506 |
+| Normal | 23,507 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
