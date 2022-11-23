@@ -21481,6 +21481,7 @@ Here's a list of public Fediverse services.
 | `qrbt.ch` | No |
 | `qrewhub.com` | No |
 | `qrpth.eu` | No |
+| `qrz.today` | Yes |
 | `qseco.fr` | Yes |
 | `qtg.fr` | No |
 | `qth.fr` | No |
@@ -30139,7 +30140,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,562 |
+| Cloudflare | 6,563 |
 | Normal | 23,534 |
 
 
