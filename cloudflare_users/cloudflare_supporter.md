@@ -641,6 +641,7 @@ Do not create new issue or we will close it as duplicate.
 | [androidwdlka@twitter](https://twitter.com/androidwdlka/status/1416445074230161412) | advertise |
 | [Andy007Yt@twitter](https://twitter.com/Andy007Yt/status/1407395648492670977) | advertise |
 | [andyanraharja@twitter](https://twitter.com/andyanraharja/status/1553368182555291648) | advertise |
+| [andycuong6@twitter](https://twitter.com/andycuong6/status/1595478110233034757) | advertise |
 | [AndyIsHereBoi@twitter](https://twitter.com/AndyIsHereBoi/status/1504795908923269130) | advertise |
 | [AndyNgu5@twitter](https://twitter.com/AndyNgu5/status/1553285625310478336) | advertise |
 | [AndyNguyen_9x@twitter](https://twitter.com/AndyNguyen_9x/status/1498588655061192708) | advertise |
@@ -1207,6 +1208,7 @@ Do not create new issue or we will close it as duplicate.
 | [BangkongAnak@twitter](https://twitter.com/BangkongAnak/status/1496334562963894274) | advertise |
 | [banglinhnguyen@twitter](https://twitter.com/banglinhnguyen/status/1385284850098196481) | advertise |
 | [Bangnguyen2201@twitter](https://twitter.com/Bangnguyen2201/status/1386894236579024898) | advertise |
+| [BangNguyenXuan@twitter](https://twitter.com/BangNguyenXuan/status/1595524250752126976) | advertise |
 | [banhbaothitvien@twitter](https://twitter.com/banhbaothitvien/status/1553339442387361792) | advertise |
 | [Banikau1@twitter](https://twitter.com/Banikau1/status/1395272624633040898) | advertise |
 | [BankSilasap@twitter](https://twitter.com/BankSilasap/status/1552668171693625344) | advertise |
@@ -5327,6 +5329,7 @@ Do not create new issue or we will close it as duplicate.
 | [legionleo6862@twitter](https://twitter.com/legionleo6862/status/1390643796421922817) | advertise |
 | [Lehoai1703@twitter](https://twitter.com/Lehoai1703/status/1552324707252576257) | advertise |
 | [LeHoang90043499@twitter](https://twitter.com/LeHoang90043499/status/1401934476230283266) | advertise |
+| [lehoang_xuyen@twitter](https://twitter.com/lehoang_xuyen/status/1595490162494300161) | advertise |
 | [LeHung92740801@twitter](https://twitter.com/LeHung92740801/status/1590016116629602304) | advertise |
 | [LEiON7777@twitter](https://twitter.com/LEiON7777/status/1540070448263794690) | advertise |
 | [leirerie@twitter](https://twitter.com/leirerie/status/1477905960329007107) | advertise |
@@ -7138,6 +7141,7 @@ Do not create new issue or we will close it as duplicate.
 | [NkKee1@twitter](https://twitter.com/NkKee1/status/1379528528073433088) | advertise |
 | [NKNRC39@twitter](https://twitter.com/NKNRC39/status/1472029289855918083) | advertise |
 | [NkoliStvnsn@twitter](https://twitter.com/NkoliStvnsn/status/1572962518980792320) | advertise |
+| [NkulThxng@twitter](https://twitter.com/NkulThxng/status/1595456682888671234) | advertise |
 | [nl840924@twitter](https://twitter.com/nl840924/status/1402307082548695041) | advertise |
 | [NLalrameng@twitter](https://twitter.com/NLalrameng/status/1391066385254584327) | advertise |
 | [nly461636@twitter](https://twitter.com/nly461636/status/1530720462514405376) | advertise |
