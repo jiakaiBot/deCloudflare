@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,352 |
 | social | 2,411 |
-| net | 2,305 |
+| net | 2,306 |
 | org | 1,656 |
 | de | 1,514 |
 
@@ -3424,7 +3424,7 @@ Here's a list of public Fediverse services.
 | `breuils.com` | No |
 | `breukela.de` | No |
 | `brevsprekk.net` | No |
-| `brew.social` | No |
+| `brew.social` | Yes |
 | `brewing.social` | No |
 | `breydon.id.au` | No |
 | `brfint.com` | No |
@@ -5688,6 +5688,7 @@ Here's a list of public Fediverse services.
 | `dansmith.online` | No |
 | `dansmonorage.blue` | No |
 | `dansu.org` | No |
+| `danvelopment.net` | Yes |
 | `daotalk.cn` | No |
 | `dapchat.online` | No |
 | `dapor.net` | No |
@@ -6065,6 +6066,7 @@ Here's a list of public Fediverse services.
 | `demouliere.eu` | No |
 | `demozumpa.cz` | Yes |
 | `dems.social` | No |
+| `demtech.global` | No |
 | `den.yt` | Yes |
 | `denimu.ga` | No |
 | `denizens.social` | No |
@@ -15395,6 +15397,7 @@ Here's a list of public Fediverse services.
 | `mame.moe` | Yes |
 | `mamemo.online` | Yes |
 | `mametsuko.net` | Yes |
+| `mamgrac.pl` | No |
 | `mamieserv.fr` | No |
 | `mammoth.social` | Yes |
 | `mammothcirc.us` | No |
@@ -18042,7 +18045,7 @@ Here's a list of public Fediverse services.
 | `nayya.org` | No |
 | `naz.vc` | No |
 | `naza.space` | No |
-| `nazi.social` | Yes |
+| `nazi.social` | No |
 | `nazileaks.eu` | No |
 | `nazone.info` | No |
 | `nazrin.moe` | No |
@@ -30227,8 +30230,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,584 |
-| Normal | 23,600 |
+| Cloudflare | 6,585 |
+| Normal | 23,602 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
