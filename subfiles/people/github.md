@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [500 / Couldn't initiate registration](https://github.com/davidearl/webauthn/issues/57)
 - [XrayR does not start - status=2/INVALIDARGUMENT](https://github.com/XrayR-project/XrayR/issues/112)
 - [Brotli Compression Issue](https://github.com/stavroskasidis/BlazorWasmAntivirusProtection/issues/42)
 - [Authelia pod keeps crashing because of failed storage migration](https://github.com/authelia/authelia/issues/4419)
