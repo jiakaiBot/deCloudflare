@@ -317,6 +317,7 @@ apps.uniprime.com.br
 avanan.url-protection.com
 b2bapi.usaa.com
 bach.umukuri.com
+backoffice.ekulchenko.unibase.xyz
 beactive2.usask.ca
 bienestarpsicosocial.izt.uam.mx
 bigweb.unifr.ch
@@ -339,7 +340,9 @@ communication.uqam.ca
 contents.usadisk.com
 cos-verify.uatdelivery.uk
 cpcalendars.ultrasonidomedicodiagnosticoencdmx.com.mx
+cpcalendars.umail.business
 cpcontacts.ultrasonidomedicodiagnosticoencdmx.com.mx
+cpcontacts.umail.business
 cridaq.uqam.ca
 cti.uncoder.io
 da.ultra-as.com
@@ -353,6 +356,7 @@ experimentalgamecultures.uni-ak.ac.at
 extranet.upmuruguay.com.uy
 extranetslam.urops-prevention.fr
 files.usertygflkmd.tk
+fis-test.unicon-intl.com
 forcepointdss.upl-ltd.com
 forum.umbandaeucurto.com
 git.ufcontrol.com
@@ -364,12 +368,14 @@ identity.unimas.my
 ieim.uqam.ca
 ivsapi-cat.usps.gov
 japan.dev.sumitomo-rearchitecture.undpaul.work
-journals.uj.ac.za
+jenkins.devops.uta.com
 learn.ulumulquran.sch.id
+lena.ujf-grenoble.fr
 link.uinsgd.ac.id
 lo-cust-api.u-appspecto.com
 lobby.umcu.org
 logger.ulukartalteknoloji.com.tr
+loue.uber.space
 lp.unicred.com.br
 madagaskar.u-appspecto.com
 mail.ucebol.edu.bo
@@ -388,12 +394,14 @@ pay.uralairlines.ru
 paypal0.uber.space
 piloto.universo.pt
 pim.unileverservices.com
+poc-code-handler.uat.unboxuniverse.io
 pra.u.com.my
 proxy.bms.dev.unblu-test.com
 pub.jefs.uscourts.gov
 public.cs.uni-koeln.de
 redactie.uat-vlaanderen.be
 reports-staging.upcovid19tracks.in
+scim.urimapp.com
 secure.ubsimt.com
 services.usps.com
 signon-oqa.ual.com
@@ -410,6 +418,7 @@ test40.ukrmisto.com
 tester23.uber.space
 thema.ufolep.org
 ticket.unlihost.cfd
+tkmed.uniklinik-bonn.de
 tmc.fm.usermd.net
 trans-proxy.uecard.ru
 ua-acoustics.com
@@ -445,6 +454,7 @@ unitransservice.com
 uniusclaws.com
 universal-studios-orlando-tickets.com
 unixhq.com
+unlocknetzerolive.co.uk
 unsuprisinghome.com
 unxinvest.com
 up.unum.pl
@@ -469,6 +479,7 @@ us-estimation.com
 usa-trip.be
 usagi-online.com
 usendit.net
+user5522.tk
 usereluz.com
 usershare.me
 userumah.com.br
@@ -487,6 +498,7 @@ uu.ink
 uviworld.in
 verifycertificate.ullashi.com
 web.usdirectexpress.com
+webdisk.umail.business
 widgets.uat-vlaanderen.be
 winners.uncc-claims.com
 ws.universign.eu
@@ -513,7 +525,14 @@ www.direto.updatecardiovasculardotejo.pt
 www.e-confirmation.urbanplaymedia.com
 www.facturation-app.unitra.ma
 www.game-tv.update-sports.com
+www.git.free.oyetunet.tksecure.online.unrealcs.ru
 www.git.git.git.git.backoffice.umg-smdfo.ru
+www.git.gitlab.free.oyetunet.tksecure.online.unrealcs.ru
+www.git.gitlab.git.free.oyetunet.tksecure.online.unrealcs.ru
+www.gitlab.free.oyetunet.tksecure.online.unrealcs.ru
+www.gitlab.git.free.oyetunet.tksecure.online.unrealcs.ru
+www.gitlab.git.git.free.oyetunet.tksecure.online.unrealcs.ru
+www.gitlab.gitlab.git.free.oyetunet.tksecure.online.unrealcs.ru
 www.go.update-sports.com
 www.hesabat.unikalservice.com
 www.holyshimz.usermd.net
@@ -550,6 +569,7 @@ www.unanj.com
 www.uncharted-worlds.org
 www.undefinedentertainment.com
 www.unfieasyoptions.com
+www.ungeologoenapuros.es
 www.unicreditgroup.eu
 www.unifrog.org
 www.unionbankph.com
@@ -565,12 +585,14 @@ www.update3auf3.unna-server.de
 www.update706.ml
 www.uph.de
 www.upmedia.mg
+www.urbanfantasist.com
 www.urbansafety.ro
 www.urlc.online
 www.uscp.gov
 www.user.ultmustrade.com
 www.usercitizensbank.ga
 www.usereluz.com
+www.userlytics.com
 www.usher-syndrome.org
 www.usher1f.org
 www.usp-s--postal.info
