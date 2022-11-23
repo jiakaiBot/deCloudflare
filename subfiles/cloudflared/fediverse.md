@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,317 |
+| com | 4,318 |
 | social | 2,376 |
-| net | 2,292 |
-| org | 1,641 |
+| net | 2,291 |
+| org | 1,642 |
 | de | 1,503 |
 
 
@@ -2217,6 +2217,7 @@ Here's a list of public Fediverse services.
 | `badabadoc.online` | No |
 | `badabam.net` | No |
 | `badadmin.net` | No |
+| `badanalys.is` | Yes |
 | `badat.dev` | No |
 | `badc0de.net` | No |
 | `badd10de.dev` | No |
@@ -4082,6 +4083,7 @@ Here's a list of public Fediverse services.
 | `chancellor.cc` | No |
 | `chancellor.social` | No |
 | `changelog.social` | No |
+| `channelinfosec.com` | Yes |
 | `chantierlibre.org` | No |
 | `chanyukming.com` | Yes |
 | `chao.tokyo` | No |
@@ -4716,7 +4718,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7616,6 +7618,7 @@ Here's a list of public Fediverse services.
 | `etheirys.ovh` | No |
 | `ethereal.pw` | No |
 | `etherealmind.com` | Yes |
+| `ethernal.me` | Yes |
 | `ethernia.net` | No |
 | `etherspace.me` | Yes |
 | `etheryo.fr` | No |
@@ -7659,6 +7662,7 @@ Here's a list of public Fediverse services.
 | `euzilla.de` | No |
 | `ev1.pw` | No |
 | `evanaolson.com` | No |
+| `evandoes.dev` | Yes |
 | `evangelisch.video` | No |
 | `evangelisches.online` | No |
 | `evangineer.net` | No |
@@ -8600,6 +8604,7 @@ Here's a list of public Fediverse services.
 | `foobar.social` | No |
 | `foodin.ga` | No |
 | `foodon.jp` | No |
+| `foofus.com` | No |
 | `foojay.social` | No |
 | `foolbazar.eu` | No |
 | `footbrid.ge` | No |
@@ -9906,7 +9911,6 @@ Here's a list of public Fediverse services.
 | `gochai.top` | No |
 | `gochisou.dev` | No |
 | `gochisou.photo` | No |
-| `gochiuma.net` | No |
 | `gochiusa.net` | No |
 | `godawful.earth` | No |
 | `godforsaken.website` | No |
@@ -12092,7 +12096,6 @@ Here's a list of public Fediverse services.
 | `ivel.fr` | No |
 | `iversen.io` | Yes |
 | `ivi.pl` | No |
-| `ivie.cc` | No |
 | `ivn.cx` | Yes |
 | `ivor.org` | No |
 | `ivrianochi.com` | No |
@@ -20848,6 +20851,7 @@ Here's a list of public Fediverse services.
 | `popolon.org` | No |
 | `poppelreuter.de` | No |
 | `poppelreuter.desocial` | No |
+| `poppingboxes.org` | No |
 | `poppo-ya.com` | Yes |
 | `popps.org` | No |
 | `popradio.club` | No |
@@ -22092,7 +22096,6 @@ Here's a list of public Fediverse services.
 | `retoldclassics.org` | No |
 | `retr0.id` | No |
 | `retr0.party` | No |
-| `retro-ink.com` | No |
 | `retro.pizza` | No |
 | `retro.social` | No |
 | `retrochat.online` | No |
@@ -26690,7 +26693,7 @@ Here's a list of public Fediverse services.
 | `tootmusic.com` | Yes |
 | `tootodon.xyz` | Yes |
 | `tootology.com` | No |
-| `tootplanet.space` | Yes |
+| `tootplanet.space` | No |
 | `tootpoint.com` | No |
 | `tootr.co` | No |
 | `tootr.io` | Yes |
@@ -29991,8 +29994,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,515 |
-| Normal | 23,433 |
+| Cloudflare | 6,517 |
+| Normal | 23,434 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
