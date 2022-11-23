@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,317 |
-| social | 2,376 |
-| net | 2,292 |
-| org | 1,641 |
+| com | 4,319 |
+| social | 2,379 |
+| net | 2,293 |
+| org | 1,642 |
 | de | 1,503 |
 
 
@@ -786,6 +786,7 @@ Here's a list of public Fediverse services.
 | `aethercom.de` | No |
 | `aetheri.ca` | No |
 | `aetherial.xyz` | No |
+| `aethernet.cc` | Yes |
 | `aethy.com` | No |
 | `aeto.us` | No |
 | `aevl.net` | Yes |
@@ -2217,6 +2218,7 @@ Here's a list of public Fediverse services.
 | `badabadoc.online` | No |
 | `badabam.net` | No |
 | `badadmin.net` | No |
+| `badanalys.is` | Yes |
 | `badat.dev` | No |
 | `badc0de.net` | No |
 | `badd10de.dev` | No |
@@ -4083,6 +4085,7 @@ Here's a list of public Fediverse services.
 | `chancellor.cc` | No |
 | `chancellor.social` | No |
 | `changelog.social` | No |
+| `channelinfosec.com` | Yes |
 | `chantierlibre.org` | No |
 | `chanyukming.com` | Yes |
 | `chao.tokyo` | No |
@@ -7617,6 +7620,7 @@ Here's a list of public Fediverse services.
 | `etheirys.ovh` | No |
 | `ethereal.pw` | No |
 | `etherealmind.com` | Yes |
+| `ethernal.me` | Yes |
 | `ethernia.net` | No |
 | `etherspace.me` | Yes |
 | `etheryo.fr` | No |
@@ -7660,6 +7664,7 @@ Here's a list of public Fediverse services.
 | `euzilla.de` | No |
 | `ev1.pw` | No |
 | `evanaolson.com` | No |
+| `evandoes.dev` | Yes |
 | `evangelisch.video` | No |
 | `evangelisches.online` | No |
 | `evangineer.net` | No |
@@ -8601,6 +8606,7 @@ Here's a list of public Fediverse services.
 | `foobar.social` | No |
 | `foodin.ga` | No |
 | `foodon.jp` | No |
+| `foofus.com` | No |
 | `foojay.social` | No |
 | `foolbazar.eu` | No |
 | `footbrid.ge` | No |
@@ -15213,6 +15219,7 @@ Here's a list of public Fediverse services.
 | `mainz.social` | No |
 | `maiome.xyz` | No |
 | `maique.eu` | No |
+| `maique.lol` | Yes |
 | `maique.xyz` | No |
 | `maiquemadeira.com` | No |
 | `maiti.info` | No |
@@ -18215,7 +18222,7 @@ Here's a list of public Fediverse services.
 | `neurosciencenews.com` | Yes |
 | `neuwirth.priv.at` | No |
 | `never.bid` | Yes |
-| `neverhill.social` | No |
+| `neverhill.social` | Yes |
 | `neverhunt.io` | No |
 | `neveris.one` | No |
 | `neverno.one` | No |
@@ -20849,6 +20856,7 @@ Here's a list of public Fediverse services.
 | `popolon.org` | No |
 | `poppelreuter.de` | No |
 | `poppelreuter.desocial` | No |
+| `poppingboxes.org` | No |
 | `poppo-ya.com` | Yes |
 | `popps.org` | No |
 | `popradio.club` | No |
@@ -21219,6 +21227,7 @@ Here's a list of public Fediverse services.
 | `publicanxiety.us` | No |
 | `publicar.uy` | No |
 | `publicgood.social` | No |
+| `publicgoods.social` | Yes |
 | `publichealth.space` | No |
 | `publicidentity.net` | No |
 | `publicinfrastructure.org` | Yes |
@@ -23678,6 +23687,7 @@ Here's a list of public Fediverse services.
 | `sidewalken.com` | No |
 | `sidh.bzh` | No |
 | `sididoma.club` | Yes |
+| `sidlicious.net` | No |
 | `sidraco.in` | No |
 | `siebent.net` | No |
 | `siedler.ro` | No |
@@ -24312,6 +24322,7 @@ Here's a list of public Fediverse services.
 | `sona.live` | Yes |
 | `sonatagreen.com` | No |
 | `sondages.pro` | No |
+| `sone.social` | No |
 | `sonedon.com` | No |
 | `sonet.ws` | No |
 | `songbird.cloud` | Yes |
@@ -26676,6 +26687,7 @@ Here's a list of public Fediverse services.
 | `tooter.space` | No |
 | `tooters.space` | No |
 | `toothole.org` | Yes |
+| `tootie.social` | No |
 | `tootin.online` | No |
 | `tootin.tokyo` | No |
 | `tooting.ai` | No |
@@ -27752,6 +27764,7 @@ Here's a list of public Fediverse services.
 | `va-11.com` | No |
 | `va11hal.la` | No |
 | `vaaaaanqui.sh` | No |
+| `vacant.ventures` | No |
 | `vacantmastodon.ca` | No |
 | `vachon.club` | No |
 | `vacunt.tk` | No |
@@ -29994,8 +30007,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,515 |
-| Normal | 23,436 |
+| Cloudflare | 6,523 |
+| Normal | 23,441 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
