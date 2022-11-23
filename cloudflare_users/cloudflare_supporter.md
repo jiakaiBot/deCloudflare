@@ -2751,6 +2751,7 @@ Do not create new issue or we will close it as duplicate.
 | [FarahAsyiqinAb1@twitter](https://twitter.com/FarahAsyiqinAb1/status/1404207551818862593) | advertise |
 | [FarclasGlen@twitter](https://twitter.com/FarclasGlen/status/1552361087831396352) | advertise |
 | [FareedAmirul2@twitter](https://twitter.com/FareedAmirul2/status/1468342850953768962) | advertise |
+| [FARES79157202@twitter](https://twitter.com/FARES79157202/status/1595385322946322433) | advertise |
 | [FaresX27@twitter](https://twitter.com/FaresX27/status/1399054260785106952) | advertise |
 | [FarhanAacin@twitter](https://twitter.com/FarhanAacin/status/1379323075624202240) | advertise |
 | [Farhatasli@twitter](https://twitter.com/Farhatasli/status/1569995471455936512) | advertise |
@@ -4233,6 +4234,7 @@ Do not create new issue or we will close it as duplicate.
 | [JefferyQ@twitter](https://twitter.com/JefferyQ/status/1402835144604631043) | advertise |
 | [JeffKizer3@twitter](https://twitter.com/JeffKizer3/status/1404068460817129472) | advertise |
 | [Jegan35143674@twitter](https://twitter.com/Jegan35143674/status/1468224734559191052) | advertise |
+| [Jeheygsvidge@twitter](https://twitter.com/Jeheygsvidge/status/1595384282515898368) | advertise |
 | [jekcham1@twitter](https://twitter.com/jekcham1/status/1508921439944327170) | advertise |
 | [JenifarYasmin7@twitter](https://twitter.com/JenifarYasmin7/status/1404862325505462273) | advertise |
 | [jenjira1958@twitter](https://twitter.com/jenjira1958/status/1386021576714317826) | advertise |
@@ -7306,6 +7308,7 @@ Do not create new issue or we will close it as duplicate.
 | [obliquum@twitter](https://twitter.com/obliquum/status/1394296794994012163) | advertise |
 | [OButhum@twitter](https://twitter.com/OButhum/status/1393372232093556739) | advertise |
 | [obyanete@twitter](https://twitter.com/obyanete/status/1563153566873034753) | advertise |
+| [oceanprince1234@twitter](https://twitter.com/oceanprince1234/status/1595252984891727877) | advertise |
 | [OdariMc@twitter](https://twitter.com/OdariMc/status/1380700664016334848) | advertise |
 | [odragaoverde@twitter](https://twitter.com/odragaoverde/status/1520195893210853377) | advertise |
 | [OdunmbakuAyomi2@twitter](https://twitter.com/OdunmbakuAyomi2/status/1406588138479292416) | advertise |
@@ -9470,6 +9473,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thanhtunwin14@twitter](https://twitter.com/Thanhtunwin14/status/1391640761762926596) | advertise |
 | [thanh_nguyen299@twitter](https://twitter.com/thanh_nguyen299/status/1513755541730131970) | advertise |
 | [ThanNai54554875@twitter](https://twitter.com/ThanNai54554875/status/1393884408000696320) | advertise |
+| [ThanOo11091646@twitter](https://twitter.com/ThanOo11091646/status/1595401396731248641) | advertise |
 | [Thant22222@twitter](https://twitter.com/Thant22222/status/1390281681525956613) | advertise |
 | [ThanThanSint20@twitter](https://twitter.com/ThanThanSint20/status/1394282278096805892) | advertise |
 | [thantintsan22@twitter](https://twitter.com/thantintsan22/status/1392387639504871428) | advertise |
