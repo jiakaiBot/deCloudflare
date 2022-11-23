@@ -25665,6 +25665,7 @@ Here's a list of public Fediverse services.
 | `tea.codes` | Yes |
 | `teaandkittens.com` | No |
 | `teabag.ninja` | No |
+| `teacher.quest` | No |
 | `teacoffee.life` | No |
 | `teaguild.dev` | No |
 | `teahouse.social` | No |
@@ -30093,7 +30094,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,548 |
-| Normal | 23,501 |
+| Normal | 23,502 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
