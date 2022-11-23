@@ -6319,6 +6319,7 @@ Here's a list of public Fediverse services.
 | `digitalesozialearbeit.de` | No |
 | `digitalesparadies.de` | No |
 | `digitalkr.am` | No |
+| `digitally.cool` | No |
 | `digitalmarketer.social` | No |
 | `digitalmethods.net` | No |
 | `digitalmoney.social` | No |
@@ -14250,6 +14251,7 @@ Here's a list of public Fediverse services.
 | `les-requin.net` | No |
 | `lesalphas.be` | No |
 | `lesamarien.fr` | No |
+| `lesaoras.xyz` | Yes |
 | `lesateliersphv.net` | No |
 | `lesbean.cloud` | No |
 | `lesbi.in` | No |
@@ -30134,8 +30136,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,561 |
-| Normal | 23,530 |
+| Cloudflare | 6,562 |
+| Normal | 23,531 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
