@@ -138,10 +138,12 @@ zh.yuidiscordbot.xyz
 accounts.youtube.com
 aepsrupayuat.yesbank.in
 alacon-nex-ion.go.yj.fr
+api.tietopalvelu.ytj.fi
 applycc.yesbank.in
 argocd-inl.yjtech.tw
 asr-stream-covid19.yating.tw
 auth.youtubethumbs.pics
+autodiscover.ybpindo.or.id
 autodiscover.yementadawul.com
 b95.yahoo.co.jp
 backoffice.yape.com.pe
@@ -181,6 +183,7 @@ traefik.yannisantypas.com
 v-al5r12ca4i.wc.yahoodns.net
 v-b95agctlk7.wc.yahoodns.net
 weathermaps.s3.yandex.net
+webmail.ybpindo.or.id
 www.amazon.y4lkwb.shop
 www.auth.youtubethumbs.pics
 www.billing.yourschoice.club
@@ -207,6 +210,7 @@ www.yourfuturecredit.com
 y3rt.com
 yabaidelinquency.com
 yahoomailsupportphonenumber.com
+yardimbasvuru.net
 yaseagrouptravel.com
 yavuzsanat.com.tr
 yayanadriano.web.id
