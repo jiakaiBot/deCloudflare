@@ -1931,8 +1931,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2470,6 +2470,7 @@ Do not create new issue or we will close it as duplicate.
 | [duongoppa3004@twitter](https://twitter.com/duongoppa3004/status/1475134938869501952) | advertise |
 | [duranski35Fit@twitter](https://twitter.com/duranski35Fit/status/1395688813331193858) | advertise |
 | [Durgesh87958872@twitter](https://twitter.com/Durgesh87958872/status/1553755144294387712) | advertise |
+| [DustyBarrels464@twitter](https://twitter.com/DustyBarrels464/status/1595564950071771141) | advertise |
 | [duuusb@twitter](https://twitter.com/duuusb/status/1584368009191522304) | advertise |
 | [Duy00504124@twitter](https://twitter.com/Duy00504124/status/1398218191784976384) | advertise |
 | [Duy91964915@twitter](https://twitter.com/Duy91964915/status/1380695837001412610) | advertise |
