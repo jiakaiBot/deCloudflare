@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,361 |
+| com | 4,363 |
 | social | 2,429 |
 | net | 2,312 |
 | org | 1,663 |
@@ -11100,6 +11100,7 @@ Here's a list of public Fediverse services.
 | `hobaugh.social` | No |
 | `hobbies.social` | No |
 | `hobbitasylum.com` | No |
+| `hobbithole.com` | No |
 | `hobbs-end.uk` | No |
 | `hobbymetzgerei.de` | No |
 | `hochminuseins.net` | No |
@@ -29894,6 +29895,7 @@ Here's a list of public Fediverse services.
 | `yourrhythm.jp` | No |
 | `yourshit.rocks` | No |
 | `yousack.net` | No |
+| `youshallnotpass.com` | Yes |
 | `youth.social` | No |
 | `youthdon.com` | No |
 | `youthweb.social` | No |
@@ -30325,8 +30327,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,609 |
-| Normal | 23,673 |
+| Cloudflare | 6,610 |
+| Normal | 23,674 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
