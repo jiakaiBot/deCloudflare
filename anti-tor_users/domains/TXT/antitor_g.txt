@@ -240,7 +240,6 @@ directaccess.glasgow.gov.uk
 discord.guden.lol
 discord.pseiblog.blog.mx4.getthefactshomeinspection.com
 discordcr.github.io
-dk.web.shinnselbannk.com.gxdymz.com
 doc-00-78-docs.googleusercontent.com
 doc-00-ac-docs.googleusercontent.com
 doc-00-bc-docs.googleusercontent.com
@@ -847,13 +846,16 @@ academia.gesyco.co
 acceso.gomarket365.com
 account.biotrip.grootbit.com
 accounting.gapallet.com
+adfs.gdpgroup.ru
 adfs.glpg.com
 adfs.grupawp.pl
 admin.grsportal.com
 adraffy.github.io
+ajaykumarlakku.github.io
 alexandercampion321.github.io
 alok-077.github.io
 aloneopp.github.io
+amarilda-chihepe.github.io
 amihabibkhan.github.io
 android.googleapis.com
 aovpn.geigerautomotive.com
@@ -878,6 +880,7 @@ auth.test.gilinda.hu
 authentication.gsfranzoni.me
 authk.gad1.de
 b2c-gulf.gigigoapps.com
+backoffice.geoliagroup.com
 bankofamerica.com.login.update.goldfreight.ca
 barometro-covid.goodrebels.com
 bauportal.gajagati.hr
@@ -886,12 +889,14 @@ bcae52635ca64335c9952857d3ff6401.safeframe.googlesyndication.com
 beloved-recluse.glitch.me
 billing2.gsy-cygnus.com
 bk.mufj.jp.gxrwx.com
+blessing-tolani.github.io
 blockchain.greatideas.tech
 blogmng.goku.top
 brassy-caterwauling-split.glitch.me
 bt1business.github.io
 btbuisnessi.github.io
 btbunsnsss.github.io
+btbusbness.github.io
 btbusinssss.github.io
 btbusnes.github.io
 btcombusiness.github.io
@@ -915,6 +920,7 @@ composer.cloud.google.com
 connectwithebaysnumber.github.io
 consent.google.co.il
 contao.web54.s66.goserver.host
+controller.greenknot.in
 cool-brook-arthropod.glitch.me
 cpanel.garantias.site
 cpanel.gmailjobs.com
@@ -932,6 +938,7 @@ cpcontacts.gmailaccount.support
 cpcontacts.graycubesports.com
 cpcontacts.gymsainvestment.co.ke
 crvx1.github.io
+cust-001-v4-prod-atl2real.gdsb.net
 cust-005-v4-prod-atl2.gdsb.net
 cust-007-v4-prod-atl2.gdsb.net
 d75ccb4e6c51c27f60611c16f2eb4a80.safeframe.googlesyndication.com
@@ -946,6 +953,7 @@ disneycruise.disney.go.com
 disneyland.disney.go.com
 divyanshugupta123.github.io
 dl.kgth.garenanow.com
+dlp.googleapis.com
 doc-00-4k-docs.googleusercontent.com
 doc-00-8k-docs.googleusercontent.com
 doc-04-38-docs.googleusercontent.com
@@ -957,6 +965,7 @@ doc-0g-90-docs.googleusercontent.com
 doc-0k-2g-docs.googleusercontent.com
 doc-0k-48-docs.googleusercontent.com
 doc-0k-b8-docs.googleusercontent.com
+doc-0k-bc-docs.googleusercontent.com
 doc-0o-9s-docs.googleusercontent.com
 doc-0s-20-docs.googleusercontent.com
 doc-0s-44-docs.googleusercontent.com
@@ -964,6 +973,7 @@ doc-0s-50-docs.googleusercontent.com
 doc-0s-8g-docs.googleusercontent.com
 doc-10-88-docs.googleusercontent.com
 doc-14-0s-docs.googleusercontent.com
+doc-14-6g-docs.googleusercontent.com
 doc-14-8k-docs.googleusercontent.com
 doc-14-90-docs.googleusercontent.com
 download-logiciels.gecko-developpement.fr
@@ -975,8 +985,10 @@ e2c38.gcp.gvt2.com
 e2c49.gcp.gvt2.com
 ea.gr8people.com
 earth.app.goo.gl
+edivilhian-h.github.io
 edynoticias.com.br.gruponewsbrasil.com.br
 elearning.gambiathi.com
+email.google-shopping.club
 employee.gbksoft.space
 enterpriseenrollment.goldenhotels.com
 erp.gosafe.pe
@@ -989,6 +1001,8 @@ fairytulle.gajagati.hr
 fathimathjazeera.github.io
 fcm.googleapis.com
 fediverse.glitch.me
+feelrobotics.go2cloud.org
+firebasecrashlyticssymbols.googleapis.com
 fish-workable-meadowlark.glitch.me
 fiveholes.goip.de
 fovip.gtpl.net
@@ -1016,8 +1030,10 @@ gauue.com
 gazelledasti.com
 gazetadecluj.ro
 gbpinter.net
+gbtsecurity.cl
 gcatoolkit.org
 geburtstagsideen.de
+geektushin.com
 geizhals.at
 geldersdoek.nl
 geldgrinden.nl
@@ -1040,6 +1056,7 @@ get-sahibinden-paramguvende.tk
 getfinsupport.com
 gethiredinflorida.us
 getlawsinfo.ru
+gewerkschaftliche-linke-berlin.de
 ghanlaegsservice.dk
 gharbazaar.pk
 ghevailuoi.com
@@ -1066,6 +1083,7 @@ git.git.git.git.git.store.google-shopping.club
 git.git.git.gitlab.git.git.vmail.generation.fund
 git.git.git.promail.yandex.gabdrahmanova.ru
 git.gitlab.git.correo.yandex.gabdrahmanova.ru
+git.gitlab.gitlab.git.git.projects.gsheet.tech
 git.gitlab.zmail.governmentprocessroot.online
 git.guillemborrell.es
 git.hashicorp.cloudg.magento.clud.gpinfo.eu
@@ -1109,12 +1127,16 @@ gmsectec.com
 go.gkrtmc.com
 godanriver.com
 godotshaders.com
+goizekowellington.es
 gokturkmermer.com
 golang.org
+goldenbearstore.jp
 golem.hu
 golfplusonemedia.com
 goodfinddelivery.com
 goodncheap.net
+goofertas.com
+googleadservices.com
 googleapis.com
 googlemybuisness.info
 googleupdate.us
@@ -1164,6 +1186,7 @@ gruppoalis.it
 gst-credits.online
 gta-service.ro
 gta-vice-city.ru
+gtadealz.ca
 gtar.online
 gtebs.gallifordtry.co.uk
 gtibvaservice.com
@@ -1213,6 +1236,7 @@ lovelive-heardle.glitch.me
 lpm.gevestor-verlag.de
 mail.googlemybuisness.info
 mandyocadebussy.github.io
+marked-ring-fin.glitch.me
 mattinopadova.gelocal.it
 mdsiamulislam.github.io
 melodious-admitted-animal.glitch.me
@@ -1222,20 +1246,24 @@ mibsinesx.github.io
 midas.api.us-east-2.service.guidewire.net
 mobile.google.com.rproxy.goskope.com
 mobiledevice.gov.yk.ca
+moodle.geetasatsang.org
 mstdn-bike-highlight.glitch.me
 mu-g.github.io
 muhammedsalimmsk.github.io
+mysecureb.github.io
 nabilurrahman88.github.io
 navidad2020.grupoanaya.es
 navisaf15.ganemo.co
 nazarilkiv.github.io
 new-cert-user.gini.net
 news.blog.outlook.gjproperties.com
+nikitarathore06.github.io
 nimrahq.github.io
 nit078.github.io
 nitrosurge.guinness.com
 nm.gmsseguridad.com
 nso.goskope.com
+nutzungsbedingungen.golden-genom.de
 o.goldgans.de
 ocupa.greveclimaticaestudantil.pt
 office.yandex.gabdrahmanova.ru
@@ -1283,6 +1311,7 @@ safelink.gokilat.com
 sajalgiradkar.github.io
 salesloft-sdr-eu1.storage.googleapis.com
 salud-digna.github.io
+sample.gestracking.com
 sanay2255.github.io
 sandbox.api.giact.com
 sanketpaul.github.io
@@ -1314,6 +1343,7 @@ staging.google-shopping.club
 steam.goodblah.net
 steeven9.github.io
 streets-london.glitch.me
+studio.glassnode.io
 subclipse.github.io
 subdued-tide-onyx.glitch.me
 super.gwsafe.com
@@ -1330,6 +1360,7 @@ thibodumarey.github.io
 ti-lage.prod.ccs.gematik.solutions
 tile.goodnotescloud.com
 tomaslenzi.github.io
+toolbarqueries.google.co.kr
 toolbarqueries.google.com.sl
 toolbarqueries.google.dz
 toolbarqueries.google.pt
@@ -1349,6 +1380,7 @@ twitter-bookmark-archiver.glitch.me
 tyrantvoid.github.io
 unionbank.getnice.app
 upload.video.google.com
+user.gfa-org.ga
 user100037856153867.github.io
 username123sxz.github.io
 vanshajtiwari.github.io
@@ -1396,6 +1428,8 @@ www.g1financial.com
 www.g2securitysystems.net
 www.g3ti.net
 www.g4s.com
+www.gaestbook.dk
+www.galaxymobile.jp
 www.galiciamaxica.eu
 www.gallerybookshop.com
 www.galvaing-immobilier.fr
@@ -1405,6 +1439,7 @@ www.gamestop.de
 www.gamestopuruguay.com
 www.gamingsystem.ag
 www.gapartnersfund.org
+www.garantautoservice.com
 www.garenewing.co.uk
 www.garrysroyalsatin.com
 www.garycampion.com
@@ -1461,10 +1496,13 @@ www.git.git.git.git.git.aws.greenpowerdelivery.com
 www.githubassets.com
 www.gitlab.gitlab.gitlab.gitlab.git.portal.gandapas.com.ua
 www.givetheiron.se
+www.gizbot.com
 www.gk-facility-services.de
 www.gkanabol.com
+www.glaciersir.com
 www.glass-international.com
 www.glassesdirect.co.uk
+www.glengower.ca
 www.globalcareersfair.com
 www.globaldramaalert.com
 www.globalfoodsoft.com
@@ -1545,6 +1583,7 @@ www.ticket-sports.gelutyu.xyz
 www.ticket-tonights.gadangkeun.com
 www.ticket.gavice.ng
 www.trackerboard.gamefiindonesia.com
+www.user.gfa-org.ga
 www.usercraft.com.gerke-translation.com
 www.vesa.grupoinvestigacionsafe.com
 www.z1.hashicorp.cloudg.magento.clud.gpinfo.eu
