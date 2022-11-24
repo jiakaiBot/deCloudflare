@@ -4444,6 +4444,7 @@ Do not create new issue or we will close it as duplicate.
 | [june638@twitter](https://twitter.com/june638/status/1405487343704805379) | advertise |
 | [Jungkoo61011629@twitter](https://twitter.com/Jungkoo61011629/status/1401157627191586823) | advertise |
 | [jungkooksbian@twitter](https://twitter.com/jungkooksbian/status/1384818132716560385) | advertise |
+| [JungNguyen17@twitter](https://twitter.com/JungNguyen17/status/1595596042279727105) | advertise |
 | [JungTae522008@twitter](https://twitter.com/JungTae522008/status/1383671208579723267) | advertise |
 | [JuniorTun1@twitter](https://twitter.com/JuniorTun1/status/1390213591207350272) | advertise |
 | [juniour_sillu@twitter](https://twitter.com/juniour_sillu/status/1585153173421191168) | advertise |
@@ -4846,8 +4847,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -10111,6 +10112,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tun74298384@twitter](https://twitter.com/Tun74298384/status/1406549485740695553) | advertise |
 | [Tun76282915@twitter](https://twitter.com/Tun76282915/status/1553678050826801152) | advertise |
 | [tun97194915@twitter](https://twitter.com/tun97194915/status/1377954790928306176) | advertise |
+| [Tunanh36074355@twitter](https://twitter.com/Tunanh36074355/status/1595582279300313088) | advertise |
 | [Tunanh36753506@twitter](https://twitter.com/Tunanh36753506/status/1553248597633773568) | advertise |
 | [Tunanh41868649@twitter](https://twitter.com/Tunanh41868649/status/1566329448903098368) | advertise |
 | [Tunanh94933384@twitter](https://twitter.com/Tunanh94933384/status/1485162725068382211) | advertise |
