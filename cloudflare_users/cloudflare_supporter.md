@@ -2665,6 +2665,7 @@ Do not create new issue or we will close it as duplicate.
 | [ErenAkkus_@twitter](https://twitter.com/ErenAkkus_/status/1592623222113067008) | advertise |
 | [ererernest@twitter](https://twitter.com/ererernest/status/1402204151765889025) | advertise |
 | [erfan3029@twitter](https://twitter.com/erfan3029/status/1595026944806068227) | advertise |
+| [erfann_rahmati@twitter](https://twitter.com/erfann_rahmati/status/1595678026494545920) | advertise |
 | [Ericduo19201253@twitter](https://twitter.com/Ericduo19201253/status/1397342285428232194) | advertise |
 | [Erics87402408@twitter](https://twitter.com/Erics87402408/status/1537793280657989633) | advertise |
 | [EricWarnasch2@twitter](https://twitter.com/EricWarnasch2/status/1501394632424534018) | advertise |
@@ -5403,6 +5404,7 @@ Do not create new issue or we will close it as duplicate.
 | [likexxxpussy@twitter](https://twitter.com/likexxxpussy/status/1480204550753906691) | advertise |
 | [lil33volt@twitter](https://twitter.com/lil33volt/status/1387519800742658048) | advertise |
 | [lildrip34202595@twitter](https://twitter.com/lildrip34202595/status/1547291257529147393) | advertise |
+| [Lili64674222@twitter](https://twitter.com/Lili64674222/status/1595789914691584001) | advertise |
 | [Lillii412@twitter](https://twitter.com/Lillii412/status/1395707127176458243) | advertise |
 | [lilMonst4@twitter](https://twitter.com/lilMonst4/status/1577680492257755139) | advertise |
 | [LiLy19600218@twitter](https://twitter.com/LiLy19600218/status/1394904381653356544) | advertise |
@@ -5749,6 +5751,7 @@ Do not create new issue or we will close it as duplicate.
 | [MamMam02043349@twitter](https://twitter.com/MamMam02043349/status/1538613925004333057) | advertise |
 | [MamNaw@twitter](https://twitter.com/MamNaw/status/1400309873594691584) | advertise |
 | [Manauwa43390416@twitter](https://twitter.com/Manauwa43390416/status/1407583135592632321) | advertise |
+| [Manccity2020@twitter](https://twitter.com/Manccity2020/status/1595794881125179392) | advertise |
 | [MandalayThar10@twitter](https://twitter.com/MandalayThar10/status/1391637199444070402) | advertise |
 | [mandiptimsina1@twitter](https://twitter.com/mandiptimsina1/status/1392722380678598656) | advertise |
 | [Maneesh40605685@twitter](https://twitter.com/Maneesh40605685/status/1497225757105397763) | advertise |
@@ -9642,6 +9645,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thienhoang92@twitter](https://twitter.com/Thienhoang92/status/1484883443943342082) | advertise |
 | [thienhoang482@twitter](https://twitter.com/thienhoang482/status/1508525262882820098) | advertise |
 | [thienlong022@twitter](https://twitter.com/thienlong022/status/1491797298233286670) | advertise |
+| [thienthanhacam1@twitter](https://twitter.com/thienthanhacam1/status/1595790391269150721) | advertise |
 | [thient_ei@twitter](https://twitter.com/thient_ei/status/1398644633836539907) | advertise |
 | [Thierie9@twitter](https://twitter.com/Thierie9/status/1391758445947228161) | advertise |
 | [ThiHa16740611@twitter](https://twitter.com/ThiHa16740611/status/1394156796235767809) | advertise |
