@@ -7786,6 +7786,7 @@ Do not create new issue or we will close it as duplicate.
 | [Pl47926009@twitter](https://twitter.com/Pl47926009/status/1395366611989655553) | advertise |
 | [Plan43611745@twitter](https://twitter.com/Plan43611745/status/1399656503079018497) | advertise |
 | [Plang04546316@twitter](https://twitter.com/Plang04546316/status/1536426694986420225) | advertise |
+| [planxnx@twitter](https://twitter.com/planxnx/status/1595879492710719488) | advertise |
 | [playwithg91@twitter](https://twitter.com/playwithg91/status/1550100029779480578) | advertise |
 | [plda24@twitter](https://twitter.com/plda24/status/1394881939765555200) | advertise |
 | [PlHustla@twitter](https://twitter.com/PlHustla/status/1396266245696143361) | advertise |
