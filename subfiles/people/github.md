@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Invalid or missing type for parameter "sitekey", expected "string", got "object".](https://github.com/Ben754444/react-cf-turnstile/issues/2)
 - [bncert-tool SSL validation while 3rd party CDN enabled](https://github.com/bitnami/vms/issues/517)
 - [kraken fetch_trades pagination broken](https://github.com/ccxt/ccxt/issues/15827)
 - [There was an SSL error connecting to...](https://github.com/aaronpk/indielogin.com/issues/94)
