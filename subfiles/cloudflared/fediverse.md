@@ -29708,6 +29708,7 @@ Here's a list of public Fediverse services.
 | `yamastodon.jp` | No |
 | `yambal.net` | No |
 | `yampp.de` | No |
+| `yamr.cc` | No |
 | `yams.lol` | Yes |
 | `yan.io` | No |
 | `yandere.cc` | Yes |
@@ -30319,7 +30320,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,608 |
-| Normal | 23,667 |
+| Normal | 23,668 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
