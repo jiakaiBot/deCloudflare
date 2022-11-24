@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,390 |
-| social | 2,451 |
-| net | 2,321 |
+| com | 4,392 |
+| social | 2,454 |
+| net | 2,322 |
 | org | 1,675 |
 | de | 1,527 |
 
@@ -7193,6 +7193,7 @@ Here's a list of public Fediverse services.
 | `eduardocollado.com` | No |
 | `education.fr` | No |
 | `educator.social` | No |
+| `educhat.social` | No |
 | `educity.asia` | No |
 | `educoop.coop` | No |
 | `edufor.me` | No |
@@ -7866,6 +7867,7 @@ Here's a list of public Fediverse services.
 | `exo.tube` | No |
 | `exode.me` | No |
 | `exohunt.space` | No |
+| `exok.com` | No |
 | `exon.name` | Yes |
 | `exopla.net.eu.org` | No |
 | `exotic.money` | No |
@@ -9443,6 +9445,7 @@ Here's a list of public Fediverse services.
 | `galaxians.org` | No |
 | `galaxy.cat` | No |
 | `galaxy.quest` | No |
+| `galaxybound.com` | Yes |
 | `galaxycrow.de` | Yes |
 | `galbo.io` | Yes |
 | `galenabell.com` | No |
@@ -15698,6 +15701,7 @@ Here's a list of public Fediverse services.
 | `martinchapman.co.uk` | Yes |
 | `martinezperspective.org` | No |
 | `martinfernandez.info` | No |
+| `martinh.net` | No |
 | `martinrue.com` | Yes |
 | `martinspielmann.de` | No |
 | `martyn.berlin` | No |
@@ -15815,6 +15819,7 @@ Here's a list of public Fediverse services.
 | `masto.nu` | No |
 | `masto.nyc` | Yes |
 | `masto.one` | Yes |
+| `masto.ovh` | No |
 | `masto.plus` | No |
 | `masto.pt` | Yes |
 | `masto.quebec` | No |
@@ -24390,13 +24395,14 @@ Here's a list of public Fediverse services.
 | `smashnet.de` | No |
 | `smatodon.net` | No |
 | `smbcc.org` | Yes |
+| `smbi.community` | Yes |
 | `smc.li` | Yes |
 | `smc62.com` | No |
 | `smcm.xyz` | Yes |
 | `smeap.com` | No |
 | `smeets.re` | Yes |
 | `smelly.today` | No |
-| `smenttech.com` | No |
+| `smenttech.com` | Yes |
 | `smgle.com` | No |
 | `smglive.org` | No |
 | `smickles.com` | No |
@@ -27627,6 +27633,7 @@ Here's a list of public Fediverse services.
 | `twc-zone.eu` | No |
 | `tweb.tv` | No |
 | `twee.moe` | No |
+| `tweedle.social` | No |
 | `tweep.club` | No |
 | `tweep.uk` | Yes |
 | `tweeps.link` | No |
@@ -29352,6 +29359,7 @@ Here's a list of public Fediverse services.
 | `woodplate.club` | No |
 | `woof.group` | No |
 | `woof.tech` | No |
+| `woofy.social` | No |
 | `woogmbh.cc` | Yes |
 | `woojinkim.org` | Yes |
 | `woolly.world` | No |
@@ -30475,8 +30483,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,672 |
-| Normal | 23,760 |
+| Cloudflare | 6,675 |
+| Normal | 23,765 |
 
 
 ### 21.9% of public Fediverse services are using Cloudflare.
