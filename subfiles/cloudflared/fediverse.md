@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,378 |
-| social | 2,443 |
+| social | 2,444 |
 | net | 2,314 |
 | org | 1,670 |
 | de | 1,523 |
@@ -9612,6 +9612,7 @@ Here's a list of public Fediverse services.
 | `geekbrigade.co.uk` | No |
 | `geekcloud.cyou` | No |
 | `geekcompass.com` | Yes |
+| `geekdom.social` | No |
 | `geekery.org` | No |
 | `geekgonecrazy.com` | No |
 | `geekhaven.social` | Yes |
@@ -11674,7 +11675,7 @@ Here's a list of public Fediverse services.
 | `ika.moe` | No |
 | `ikasekai.com` | No |
 | `ikashima.net` | No |
-| `ikata.co` | No |
+| `ikata.co` | Yes |
 | `ikbenpiraat.nl` | No |
 | `ikcafe.ch` | No |
 | `ikebuku.ro` | Yes |
@@ -30415,7 +30416,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,651 |
+| Cloudflare | 6,652 |
 | Normal | 23,721 |
 
 
