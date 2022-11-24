@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [There was an SSL error connecting to...](https://github.com/aaronpk/indielogin.com/issues/94)
 - [Proxying UDP and TCP at the same time inside Docker container](https://github.com/mholt/caddy-l4/issues/83)
 - [VSCode extension hides errors from non-Svelte projects if Svelte is in parent folder](https://github.com/sveltejs/language-tools/issues/1733)
 - [Renaming +page.js to +page.ts doesn't fix typescript issues (Module '"./types"' has no exported member 'PageLoad'.ts(2305))](https://github.com/sveltejs/kit/issues/7791)
