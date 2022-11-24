@@ -7281,6 +7281,7 @@ Here's a list of public Fediverse services.
 | `el5.net` | Yes |
 | `elao.com` | No |
 | `elarial.tech` | No |
+| `elastic-dystopia.asia` | Yes |
 | `elasticperch.com` | Yes |
 | `elastos.social` | Yes |
 | `elb.cloud` | No |
@@ -30380,7 +30381,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,638 |
+| Cloudflare | 6,639 |
 | Normal | 23,699 |
 
 
