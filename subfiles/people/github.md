@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Renaming +page.js to +page.ts doesn't fix typescript issues (Module '"./types"' has no exported member 'PageLoad'.ts(2305))](https://github.com/sveltejs/kit/issues/7791)
 - [Hotleak response referenced before assignment](https://github.com/mikf/gallery-dl/issues/3293)
 - [500 / Couldn't initiate registration](https://github.com/davidearl/webauthn/issues/57)
 - [XrayR does not start - status=2/INVALIDARGUMENT](https://github.com/XrayR-project/XrayR/issues/112)
