@@ -13629,6 +13629,7 @@ Here's a list of public Fediverse services.
 | `kom-in.de` | No |
 | `komaedak.in` | No |
 | `komic.eu` | No |
+| `komintern.work` | No |
 | `komitea.fi` | Yes |
 | `komittee.net` | No |
 | `komix.org` | No |
@@ -30380,7 +30381,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,638 |
-| Normal | 23,698 |
+| Normal | 23,699 |
 
 
 ### 21.9% of public Fediverse services are using Cloudflare.
