@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,378 |
-| social | 2,447 |
+| com | 4,379 |
+| social | 2,444 |
 | net | 2,315 |
-| org | 1,671 |
+| org | 1,670 |
 | de | 1,523 |
 
 
@@ -3315,7 +3315,7 @@ Here's a list of public Fediverse services.
 | `bossmandj.me` | No |
 | `bostoncaucus.club` | No |
 | `bostonmusic.online` | No |
-| `bot.nu` | No |
+| `bot.nu` | Yes |
 | `botany.social` | No |
 | `botdon.net` | No |
 | `botnet.club` | Yes |
@@ -7177,7 +7177,6 @@ Here's a list of public Fediverse services.
 | `eduardocollado.com` | No |
 | `education.fr` | No |
 | `educator.social` | No |
-| `educhat.social` | No |
 | `educity.asia` | No |
 | `educoop.coop` | No |
 | `edufor.me` | No |
@@ -10076,7 +10075,6 @@ Here's a list of public Fediverse services.
 | `goldborneroad.dev` | No |
 | `goldenhillsoftware.com` | No |
 | `goldenplastic.blog` | No |
-| `goldfamily.social` | No |
 | `golfdn.com` | No |
 | `golfis.fun` | No |
 | `golurk.de` | No |
@@ -12853,7 +12851,6 @@ Here's a list of public Fediverse services.
 | `jtl.vision` | Yes |
 | `jtn.us` | No |
 | `jtown.xyz` | No |
-| `jtworld.xyz` | No |
 | `jtwp470.net` | No |
 | `juanandzeroes.com` | No |
 | `juandpinto.com` | No |
@@ -18293,6 +18290,7 @@ Here's a list of public Fediverse services.
 | `nenmyx.dev` | No |
 | `nenohi.net` | Yes |
 | `nentra.social` | Yes |
+| `neo0717.com` | Yes |
 | `neobluepanther.com` | No |
 | `neocloradas.com` | No |
 | `neocoretext.net` | No |
@@ -24346,7 +24344,6 @@ Here's a list of public Fediverse services.
 | `smashnet.de` | No |
 | `smatodon.net` | No |
 | `smbcc.org` | Yes |
-| `smbi.community` | Yes |
 | `smc.li` | Yes |
 | `smc62.com` | No |
 | `smcm.xyz` | Yes |
@@ -29300,7 +29297,6 @@ Here's a list of public Fediverse services.
 | `woodplate.club` | No |
 | `woof.group` | No |
 | `woof.tech` | No |
-| `woofy.social` | No |
 | `woogmbh.cc` | Yes |
 | `woojinkim.org` | Yes |
 | `woolly.world` | No |
@@ -30128,7 +30124,6 @@ Here's a list of public Fediverse services.
 | `zaclys.com` | No |
 | `zacwe.st` | Yes |
 | `zadankai.club` | Yes |
-| `zadzmo.org` | No |
 | `zagasy.cf` | No |
 | `zagrodnick.de` | No |
 | `zahnpasta.tube` | No |
@@ -30423,8 +30418,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,654 |
-| Normal | 23,726 |
+| Cloudflare | 6,655 |
+| Normal | 23,720 |
 
 
 ### 21.9% of public Fediverse services are using Cloudflare.
