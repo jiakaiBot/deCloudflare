@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,373 |
+| com | 4,374 |
 | social | 2,434 |
 | net | 2,312 |
 | org | 1,669 |
@@ -5292,6 +5292,7 @@ Here's a list of public Fediverse services.
 | `css-tricks.com` | Yes |
 | `csswg.org` | Yes |
 | `csunday95.space` | No |
+| `csys64.com` | Yes |
 | `ct2.io` | No |
 | `ct8.pl` | No |
 | `ctdl.co` | Yes |
@@ -15747,6 +15748,7 @@ Here's a list of public Fediverse services.
 | `masto.one` | Yes |
 | `masto.plus` | No |
 | `masto.pt` | Yes |
+| `masto.quebec` | No |
 | `masto.rocks` | No |
 | `masto.se` | Yes |
 | `masto.social` | Yes |
@@ -22452,6 +22454,7 @@ Here's a list of public Fediverse services.
 | `rhythmania.net` | No |
 | `rhythmgam.es` | No |
 | `rhythms-of-resistance.org` | No |
+| `rib.gay` | Yes |
 | `ribbit.fun` | No |
 | `ribbit.social` | No |
 | `ribbit.xyz` | No |
@@ -30366,8 +30369,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,630 |
-| Normal | 23,693 |
+| Cloudflare | 6,632 |
+| Normal | 23,694 |
 
 
 ### 21.9% of public Fediverse services are using Cloudflare.
