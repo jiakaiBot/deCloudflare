@@ -457,7 +457,6 @@ www.koat.com
 www.kockascripta.com
 www.koermit.dk
 www.kollektiv-magazin.com
-www.kompas.tv
 www.kontormarketingdigital.com
 www.koperasimjm.com
 www.kravmagaikmf.ro
@@ -541,11 +540,13 @@ activitypub.kobalt.dev
 agesp-test.kvn.de
 aging.zmail.kajakktyper.com
 akelapost.kbspr.in
+amazon-prime.klimatkompensationer.se
 amazonsupport.kaukicstmer.com
 ao160.keap-link019.com
 ap130.keap-link014.com
 api-dev.kunskapsstod.se
 api.connect.ko.com
+api.kimtandao.co.tz
 api.knowpin.com
 api.kurzurlaub.de
 app.k6222f.com
@@ -557,6 +558,7 @@ authtest.kocespay.com
 autodiscover.kinitro-exartimata.gr
 baas.korporate.tech
 balodanam.com.kengshop.vn
+bank-selset.keenetic.link
 base.kangudelivery.com.br
 beforeupdate.kinzakazmi.com
 beforeupdate.kirkbyskipsltd.co.uk
@@ -570,6 +572,7 @@ blesta47.kiwidan.com
 blog.kiranshila.com
 bmc.kyawachan-shift.com
 board.kawarthacu.com
+brokertest.kinsaleins.com
 cabi.custom.kawamura.co.jp
 careeverywhere.kelsey-seybold.com
 chat2.kaspi.kz
@@ -592,12 +595,14 @@ cpcontacts.killcovid.us
 cpcontacts.kinitro-exartimata.gr
 cpcontacts.kodelabs.site
 cr-shop.kagome.co.jp
+datentechnik2.81-7-13-158.blue.kundencontroller.de
 dc1-file.ksn.kaspersky-labs.com
 de-go.kelkoogroup.net
 demo.keyapsolutions.com
 demo.klinikhpservice.web.id
 dev.kiub-edition.com
 devapi.klikbca.com
+digitalgreenpass.kmail.it
 discgnomerdapp.aed13a6f34584da687139f5f1-13715.sites.k-hosting.co.uk
 discord.kunkids.jp
 dpr.kwiktag.net
@@ -644,6 +649,7 @@ img.kuaiwenyun.com
 imposter.kenko.land
 inspiration.kontormoebler.dk
 intern-support.kodision.nl
+jenkinswas.ktvsc.co.kr
 k-lytics.com
 k-solar.com.pk
 kaelweston.com
@@ -665,6 +671,7 @@ kariburesidency.com
 karinooservice.com
 karlsmith.info
 karmisee.ro
+kassestyle.com
 kassiesa.net
 katherinebickford.ca
 kathsant.com
@@ -692,17 +699,20 @@ kianrolik.ir
 kianting.info
 kidkanai.dev.gcp.kiabi.pro
 kidsmoney.app
+kielenkingmusic.com
 kievcarservice.com
 kikkomantaro.com
 killsixbilliondemons.com
 kimyass.com
 kinamedia.se
+kindenzorg.nl
 kinitrobox.com
 kinnaurspitipackage.com
 kirklees.gov.uk
 kissberry.ru
 kisstheeconomy.com
 kista.com
+kitaroworldnft.com
 kitesia.top
 kki.hu
 kl-accountants.gr
@@ -723,6 +733,7 @@ koffiemorning.nl
 kogama.com.br
 kohacraft.com
 kokkaisecurity.ro
+kolya.it
 kompasupdate.com
 komunikator.komunala-brezice.si
 konfortve.com
@@ -768,6 +779,7 @@ kuchingpost.com
 kukarkab.go.id
 kulturalisszalon.hu
 kumi93kumi.com
+kunden-qob-90431c120005-7og.bar
 kurtas.it
 kval.com
 kveez.com
@@ -784,6 +796,7 @@ live.cosmohairstyling.com.kiwicloud.nl
 live.teamkappers.nl.kiwicloud.nl
 lk373.keap-link007.com
 loliedelivery.kinideas.com
+mail.kevinsinclair.net
 mail.kh-brilon.de
 mail.kimono-japan.online
 media.kasperskycontenthub.com
@@ -803,6 +816,7 @@ otel.kohort.io
 pass.kotilingam.com
 patrickbill.kellerred.net
 payqr.kaspi.kz
+piquadro.kmail.it
 pizza-demo.korona.de
 pl.kpherox.dev
 pm676.keap-link002.com
@@ -829,6 +843,9 @@ rblox-cloud-api.k7-clan.com
 reciclare-hartie.kometaservice.ro
 referafriend.koodomobile.com
 relay.kokonect.link
+remote.ch.kannewischer.com
+remote.kannewischer.com
+reverse.kraft-baustoffe.de
 review-ci-import-2i3qc7.design.kidways.fr
 rl142.keap-link015.com
 rl142.keap-link017.com
@@ -845,6 +862,7 @@ sddcfe-rp.us.kpmg.com
 server.kas.cz
 services.kirchberg-hunsrueck.de
 services.kku.ac.th
+servizioprevenzioneprotezione.kmail.it
 shop-ch-integration.kwsch.kci.rocks
 shop.zmail.komtrans.net
 sitwallet.ktcgroup.dev
@@ -907,6 +925,7 @@ www.kabum.com.br
 www.kadur-security.eu
 www.kai.id
 www.kajstenvall.fi
+www.kall.com
 www.kammibekasi.com
 www.kanaloco.jp
 www.kanddservice.com
@@ -1068,6 +1087,7 @@ www.updateseruni.ksoftpedia.com
 www.valealupilor.kometaservice.ro
 www.zbor.kravarsko.eu
 www1.ksw.co.jp
+yk495.keap-link017.com
 zr200.keap-link002.com
 zzg725.keap-link015.com
 katharinenhof.net
