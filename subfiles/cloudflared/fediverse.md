@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,359 |
+| com | 4,361 |
 | social | 2,429 |
 | net | 2,312 |
 | org | 1,663 |
@@ -1710,6 +1710,7 @@ Here's a list of public Fediverse services.
 | `arofarn.info` | No |
 | `arousal.support` | No |
 | `arpakuut.io` | Yes |
+| `arpcomics.com` | No |
 | `arpidon.space` | No |
 | `arqadium.com` | Yes |
 | `arr.to` | No |
@@ -2141,6 +2142,7 @@ Here's a list of public Fediverse services.
 | `azkware.net` | No |
 | `azuki-zenzai.net` | No |
 | `azuki.cf` | Yes |
+| `azumabashi.dev` | No |
 | `azumarill.net` | No |
 | `azumi.fr` | No |
 | `azunyan.jp` | No |
@@ -5477,6 +5479,7 @@ Here's a list of public Fediverse services.
 | `cybernetics.club` | No |
 | `cybernude.org` | No |
 | `cyberparty.me` | No |
+| `cyberpasti.me` | No |
 | `cyberplace.social` | No |
 | `cyberprivacyfirst.com` | No |
 | `cyberpunk.earth` | No |
@@ -11660,6 +11663,7 @@ Here's a list of public Fediverse services.
 | `illegitimate.technology` | Yes |
 | `illuminada.io` | No |
 | `illuminati.org` | No |
+| `illusionfxnet.com` | Yes |
 | `illuster.org` | No |
 | `illustietor.com` | No |
 | `illyasviel.cf` | No |
@@ -17910,7 +17914,7 @@ Here's a list of public Fediverse services.
 | `n45b.com` | No |
 | `n6.io` | No |
 | `n64.social` | No |
-| `n6a.xyz` | Yes |
+| `n6a.xyz` | No |
 | `n7.gg` | No |
 | `n7mn.xyz` | Yes |
 | `n8e.dev` | Yes |
@@ -19293,6 +19297,7 @@ Here's a list of public Fediverse services.
 | `officially.social` | Yes |
 | `officials.social` | Yes |
 | `offilth.stream` | No |
+| `offisiell.info` | No |
 | `offline.network` | Yes |
 | `offrealms.space` | No |
 | `offshore.ninja` | Yes |
@@ -20398,6 +20403,7 @@ Here's a list of public Fediverse services.
 | `petersanchez.com` | No |
 | `petersen.social` | No |
 | `petertodd.org` | No |
+| `peterwebster.me` | No |
 | `petitionsforfuture.de` | No |
 | `petitlutinartube.fr` | No |
 | `petko.me` | No |
@@ -28517,7 +28523,7 @@ Here's a list of public Fediverse services.
 | `vtuber.eu.org` | No |
 | `vtuber.house` | No |
 | `vtubers.site` | Yes |
-| `vtubertalk.com` | No |
+| `vtubertalk.com` | Yes |
 | `vuc.me` | No |
 | `vucica.net` | No |
 | `vudjun.com` | Yes |
@@ -30319,8 +30325,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,608 |
-| Normal | 23,668 |
+| Cloudflare | 6,609 |
+| Normal | 23,673 |
 
 
 ### 21.8% of public Fediverse services are using Cloudflare.
