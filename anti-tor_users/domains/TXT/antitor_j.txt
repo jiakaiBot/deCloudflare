@@ -305,16 +305,20 @@ api-gw-test.jazzcash.com.pk
 api.justa.bo
 app-api.jawwy.sa
 app.connect.jllt.com
+apple-gear.com.joekonrad.com
 att-service.jaky.ru
 auth.jorgui.com
+autodiscover.janeburnejones.site
 autodiscover.jindabyneuber.com.au
 b-plus2.jtb-cwt.com
 backup.jl-service.be
 baramundi.johanniter.at
+beta2.jaan.online
 billpaylite.ipay.jhahosting.com
 blog.jalantechnologies.com
 blog.joshgav.com
 ca.jubilo.ca
+callback.jptxcallbackac.com
 carrefour-staging.jobijoba.io
 circle.jo184.cn
 connect.jlrsso.com
@@ -349,6 +353,7 @@ images.connect.jllt.com
 j-serviceinverter.com
 j4fun.click
 jackofalltechs.com
+jacupdate.com
 jacuzzi-pompen.com
 jaidurab.com
 jalane.jodymaroni.com
@@ -360,6 +365,7 @@ jamespalmeiroblog.com
 jamtrading.jp
 janemilton.bond
 janpoertner.de
+japan-siseikyousei.net
 japlaw.qa
 jasagoogleadwords.juragan77.id
 jashlinpestcontrol.com.au
@@ -383,7 +389,9 @@ jenniferjchow.com
 jenschristian.se
 jeparamebelindonesia.com
 jepeuxpasjaimaths.fr
+jeremyclark.ca
 jerrydaleyplumbing.com
+jervislee.com
 jessicaredmerski.com
 jeszczenie.pl
 jet-engineering.co.uk
@@ -410,6 +418,7 @@ job-step.co
 jobprime.in
 jobs-contact.cf
 jobscv.net
+jobsearchadvice.io
 jocelyngreen.bond
 joeswebsupport.com
 johannettezomer.com
@@ -422,6 +431,7 @@ joker138.asia
 joker368.asia
 jonnyelwyn.co.uk
 joost.co.za
+jorgesavisky.com.ar
 jorts.horse
 josemanuelfuentes.es
 joseph-dickson.com
@@ -441,6 +451,7 @@ juhkgzg.cn
 julessherred.com
 jun88.co.in
 jung-reinigungsservice.com
+jurnalupdate.id
 justcatnft.com
 justcounsel.us
 justy-web.com
@@ -450,6 +461,7 @@ mastodon.juggler.jp
 my.jtxwebdesign.com
 navi.joniec.co
 netflix-shuffle.jacobschmocker.com
+neutron-rpc.jepe.biz.id
 new.jakartarailways.com
 nonekohour.jempu.com
 open.joox.com
@@ -480,6 +492,7 @@ thinks.jamesbradbury.co.uk
 webdisk.backupdayo.japan-onlinestores.com
 webdisk.jalanacooper.com
 webdisk.jalanningproductions.com
+webdisk.jukir.site
 www.acceso.jonyteam.com
 www.animal-accounting-system.jw-prospect.com.tw
 www.billi.jacobsbagels.com
@@ -505,6 +518,7 @@ www.gitlab.gitlab.gitlab.git.git.login.jour71.ru
 www.j-color.or.jp
 www.j-serviceinverter.com
 www.jabonemio.com
+www.jacupdate.com
 www.jadescapecondo.com
 www.jakobsdrift.nl
 www.jalana-web.com
@@ -513,6 +527,7 @@ www.jamfinearts.com
 www.jamhomemadeonlineshop.com
 www.janine-kitzen.com
 www.janosh.hr
+www.jarkits.co.uk
 www.jasbusinesssystems.com
 www.jashlinpestcontrol.com.au
 www.jasonclare.com.au
@@ -535,6 +550,7 @@ www.jewelstonesucurity.co.uk
 www.jezner.com
 www.jga-web.com
 www.jhfarmsupport.dk
+www.jimcampilongo.com
 www.jimfersecurity.co
 www.jimmeruk.com
 www.jiomart.com
