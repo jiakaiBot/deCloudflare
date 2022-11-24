@@ -667,6 +667,8 @@ alertmanager.sg01.dev.huddle.tech
 andchin.htc.com
 aov-my.hubersuhner.com
 aovpn.hendrickson-intl.com
+ap.ssso.hdems.com
+api-blockchain.h3ro3s.com
 api-dev-smarthealing.healico.fr
 api-ext-stg.hireright.com
 api-test.homemate-research.com
@@ -675,6 +677,7 @@ api.gokce-ozel.heocademy.com
 api.handigo.run
 api.hapiuta.jp
 api.heedy.app
+api.hicapitalize.com
 api.hoaresbank.co.uk
 app.hntbridge.io
 appapi.hipay.mn
@@ -682,6 +685,7 @@ asp.hotel-story.ne.jp
 auth-server-demo.health-cld2020.com
 auth.vpn.hareeshkr.com
 autodiscover.heinbuch.net
+autodiscover.homesquad.co.za
 autofi-ent-santander-pr-1754.herokuapp.com
 autofi-ent-santander-pr-1790.herokuapp.com
 autostatementsretrieval-uat.hepsiian.com
@@ -689,6 +693,7 @@ avimages.hangame.co.kr
 banbobiinacionall.herokuapp.com
 banking.gif.hol.es
 banking.hellobank.it
+blockchain-customer.h3ro3s.com
 blog.blog.blog.vmail.homereviewonline.com
 blog.historisches-museum-frankfurt.de
 bml-servicestelle.highq-projekte.de
@@ -721,8 +726,10 @@ cpcontacts.hexaputramandiri.com
 cpcontacts.hotelservices.tk
 craig.house.gov
 crm.hairoil12grow.xyz
+demo.huloop.ai
 dev.horeca-service.com
 dev2.etc.hataluck.jp
+dex.cct-b3.users.h-da.cloud
 directaccess.happythinkingpeople.com
 direwolf-7bb9857ae1.staging.herokuappdev.com
 discourse.staging.hmt-leipzig.de
@@ -735,8 +742,10 @@ edocshm.hmco.com.sa
 email.hdmg.net
 embed.hydronet.com
 ephinnsyn.helsenord.no
+feature-dr-3078-add-two-fa-to-wavix-transactions.ddl.hathor.cc
 fed.hin.ch
 ffxiv-character-cards.herokuapp.com
+file-service.hicapitalize.com
 fileservices.hopa.com
 fill-form-64484.herokuapp.com
 fix-dr-1724-paypal-icon.ddl.hathor.cc
@@ -748,11 +757,13 @@ foodservice.huhtamaki.com.tr
 foodservice.huhtamaki.fr
 foodservice.huhtamaki.pl
 foxtrot.hepsiian.com
+fs.honeycrmapp.net
 fysiomas.cloud10.hostingpalvelu.fi
 get.helm.sh
 git.aging.zmail.husnesskulekorps.no
 git.git.git.git.www.git.amazon.hourmant.fr
 git.git.git.outlook.hjalpomedelbar.net
+git.git.gitlab.git.www.git.git.amazon.hourmant.fr
 git.git.outlook.hillybillyunbo.com
 git.git.outlook.hjalpomedelbar.net
 git.git.www.git.www.git.amazon.hourmant.fr
@@ -761,6 +772,7 @@ git.hexafall.com
 git.www.git.www.git.amazon.hourmant.fr
 git.zh-cn.kidspictuwww.mysql.wp1.hot-tours-moscow.ru
 github-oidc.us-west-2.ops.hpedevops.net
+gitlab.git.mailserver.hepsibahs699.com
 gitlab.gitlab.git.gitlab.gitlab.invoice.hepsibahs16.com
 gitlab.gitlab.gitlab.vmail.hochulazat.ru
 gitlab.manager.hot-pelmen.ru
@@ -771,6 +783,7 @@ ha-tecnicoscali.online
 habitatdeko.com
 hacercuenta.de
 hackerverse.tv
+hackseller.com
 hafjell-bilservice.no
 haghiri75.com
 hah-api-prod.hah.co.uk
@@ -779,11 +792,14 @@ hajimaruan.com
 hajimete-asia.com
 hakko.uy
 hallopasar.hallodelivery.com
+haloruns.com
+hamara.hamarabookbank.com
 hamburg-htee.com
 hamissupport.hasnamedika.com
 handledeck.com
 handypesty.com
 hangulyapi.com
+hankshermann.com
 hannes-jaehnert.de
 hannuoskala.fi
 hans-peter-reger.de
@@ -847,6 +863,7 @@ helpsecure.gq
 helpsecure.tk
 helpship.eu
 helseboka.app
+helsinkiphotofestival.com
 henaxo.space
 hengemusic.com
 henryneufeld.com
@@ -858,6 +875,7 @@ heritageparty.org
 hermindajaramillo.cl
 hero-finance.com
 hetutrechtsarchief.nl
+heyjackass.com
 hgarden.net
 hgicecream.com
 hh-malerservice.dk
@@ -871,6 +889,7 @@ hiq-service.gr
 hiroyuke.com
 historikerinnen.ch
 historischcentrumleeuwarden.nl
+historiskamedia.se
 historyonthisday.com
 hitechhubs.com
 hivebusinesssupport.org
@@ -882,6 +901,7 @@ hoianetterem.hu
 hoistore.in
 holavpninstaller.com
 hollywooddjservice.com
+hololive-fc.com
 hombach-kuechen.de
 home-buho.com
 homecharginginstallation.com
@@ -889,6 +909,7 @@ homelandsecurity.ro
 homelesslaw.org
 homeoboi.com
 homeservice-electrician.co.uk
+homeservice.co.id
 homeservicesresource.com
 homeworkproviders.com
 hookdupfishing.com
@@ -898,9 +919,11 @@ hoskatherina.dk
 hosni-containers.com
 hospitaldeventanilla.gob.pe
 hospitalmairipora.com.br
+hospitalreinadelcisne.com
 hostbymoney.com
 hostdadda.com
 hostingblade.com
+hostthetoast.com
 hotelchuruvilla.in
 hotelmohitpalace.com
 hotels-in-venice.info
@@ -992,6 +1015,8 @@ pacsweb.hhsys.org
 pat-wss.hpi.co.uk
 patient-feedback.healthqindia.com
 paypalconnectproxy.handyapp.io
+pentest.hrmpensionplan.ca
+phaunkauj.hmongsally.com
 pientalo.cloud10.hostingpalvelu.fi
 portal.hartevelt.net
 president.mla.hcommons.org
@@ -1038,6 +1063,7 @@ support.hybridcomms.io
 suscripcionestest.handsoft.com.uy
 sweb.spiritweb.health.mo.gov
 sync.healthcheck-medel.it
+talk.hyperreal.dev
 team.hcommons.org
 test-cert-manager.pdicloud-test.azure-k8s.haufe.io
 test-le-svc-conn-google.herokuapp.com
@@ -1045,6 +1071,7 @@ test.heugenhauser.at
 test.hotelbristol.no
 tickets.homebaselab.hu
 touch-vodafone-uk-variazioni-vodafone-it.hackbanks.com
+trendyol.hurmacioglu.com.tr
 trust-site-u-client-ip-ylapepk.herokuapp.com
 ucsdata.healow.com
 ucsinternal.healow.com
@@ -1061,6 +1088,7 @@ wallet-bank-dre.cloud.huawei.com.cn
 weaccess.huawei.com
 web.hdbp-qa.harting.com.cn
 webdav-qs.hidrive.com
+webdisk.homesquad.co.za
 webdisk.homsasesoresjuridicos.com
 webdisk.hotelservices.tk
 webdisk.hsbctrustee.online
@@ -1091,6 +1119,7 @@ www.hamradioworkbench.com
 www.hangyeol-ticket.com
 www.hansikagoaescorts.com
 www.hansrepairservice.com
+www.hansvanleuven.nl
 www.happybirthdayshandy.org
 www.harbourdev.com
 www.hargroveinc.com
@@ -1118,6 +1147,7 @@ www.heroesfilmfest.com
 www.hfc.com.fj
 www.hg-immoservice.com
 www.hhsoluciones.com.mx
+www.hidive.com
 www.hidroconta.com
 www.hifiservice.ro
 www.higashinaruse.com
@@ -1131,6 +1161,7 @@ www.hinduismtoday.com
 www.hippocrenebooks.com
 www.hiq-service.gr
 www.historiccamera.com
+www.historiclandscapes.org
 www.hivebusinesssupport.org
 www.hiwwelwoi.shop
 www.hkcsfoundation.org
@@ -1142,6 +1173,7 @@ www.home-team-service.com
 www.homebuildercanada.com
 www.homehardwarealberta.com
 www.homeservice-electrician.co.uk
+www.homeservice.co.id
 www.homesteadinc.net
 www.horntip.com
 www.horusseguridad.com
@@ -1152,6 +1184,7 @@ www.howe.co.uk
 www.howtouselinux.com
 www.howzxmr.com
 www.hptreesservice.com
+www.hrcincfl.com
 www.hrmsecurity.co.uk
 www.hrs.de
 www.hs3902.net
@@ -1159,6 +1192,7 @@ www.hsbc-verification-malta.com
 www.hsp-inc.com
 www.hsq.nyc
 www.hss.de
+www.huguesross.net
 www.huisvanhetboek.nl
 www.humanescorts.com
 www.hunchhunter.com
@@ -1186,6 +1220,7 @@ www.hvnplus.co.uk
 www.hydro-huebner.de
 www.hydrolift.com.tr
 www.kravmaga.heroo.nl
+www.kredittoyota.hyundai-cikarang.com
 www.login.helpbhutan.com
 www.login.portal.bancochile.web.hadamarina.com
 www.lumen-lights.heldensupport.com
