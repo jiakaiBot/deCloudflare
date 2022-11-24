@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [VSCode extension hides errors from non-Svelte projects if Svelte is in parent folder](https://github.com/sveltejs/language-tools/issues/1733)
 - [Renaming +page.js to +page.ts doesn't fix typescript issues (Module '"./types"' has no exported member 'PageLoad'.ts(2305))](https://github.com/sveltejs/kit/issues/7791)
 - [Hotleak response referenced before assignment](https://github.com/mikf/gallery-dl/issues/3293)
 - [500 / Couldn't initiate registration](https://github.com/davidearl/webauthn/issues/57)
