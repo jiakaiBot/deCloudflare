@@ -513,6 +513,7 @@ www.usps-service-mail-pickup-jsp.ocry.com
 zoominfo.com.login.onlineactionsports.com.au
 720creditscore.com.respond.ontraport.net
 720creditscore.pages.ontraport.net
+account.venmo.otehdrtnsction.com
 accounting.olfatshipping.com
 achasp2-cert.onefiserv.com
 activedera.onedumb.com
@@ -520,11 +521,13 @@ akr2289922101.owst.jp
 alan.oseudelivery.app.br
 amazonproductapi.officetada.work
 api-feed-update-retrieval-service-8a5b7ea9032d464e.onporter.run
+api.auchan.osp.tech
 api.aws-ap1.garden.internal.live.k8s.ondemand.com
 api.cf.eu12.hana.ondemand.com
 api.gca.amazon.stg.aws.ofx.com
 api.onsolvegateway.com
 api.prod-haas.hc-canary.shoot.live.k8s-hana.ondemand.com
+api.rte.auchan.osp.tech
 api.updatefullpage.review.acdc.odiwi.fr
 apiuat.oneradon.com
 auth-dev.oose.de
@@ -537,7 +540,9 @@ bank.ofgeorgia.pro
 bank.ofgeorgia.xyz
 beforeupdate.ormskirkskipsltd.co.uk
 bi-dev02-use1.it-dev.odessa-ea.com
+bill.k2.omniweb.ru
 bo.updatefullpage.review.acdc.odiwi.fr
+bodynov.rdv-04.ovea.com
 bristol-garden.webplatform-affligem.overstock.be
 bristol-home.webplatform-affligem.overstock.be
 bundle-lbe-mpls-onlyoffice-20221119-01-ssl.on-web.fr
@@ -545,6 +550,8 @@ ccbs-client.preview.otomagis.id
 cdn.opecloud.com
 cdpuoic-idj6xuhdtgxc-ia.integration.ocp.oraclecloud.com
 click.omelveny.com
+client-brief-dev-63284eb8c2112950.onporter.run
+client-brief-dev-761a874fafa89337.onporter.run
 cod-oic-axwodgdluk1g-ia.integration.ocp.oraclecloud.com
 consumer-prod-user13.training.openshift.ch
 consumer-user10.training.openshift.ch
@@ -597,6 +604,7 @@ icsupus.ugbu.oraclepdemos.com
 idp.otago.ac.nz
 info.one-publishing.co.jp
 inpost-fizm.order9724.in
+inpost-oejk.order9205.info
 inpost-xszm.order1894.biz
 inpost.order982445.org
 integration-dev-06tmlg12.it-cpi009-rt.cfapps.us20.hana.ondemand.com
@@ -605,6 +613,8 @@ iotdemo00131.cna.phx.demoservices005.iot.oraclepdemos.com
 key.olympus-industrial.com
 kl.osmoticchalah.com
 klantportaal.ovha.nl
+l61001-tmn.hci.us2.hana.ondemand.com
+login.auchan.osp.tech
 login.oci.oraclecloud.com
 login.openspot.fr
 lookadowei.onedumb.com
@@ -653,6 +663,7 @@ ofwlaw.com
 ohtctjiuow.com
 oic-ccs-shared-ax6cus1bjr3u-ia.integration.ocp.oraclecloud.com
 oicinnovationinstance2-id09o3eaz21u-zr.integration.ocp.oraclecloud.com
+oikofuge.com
 okatteya.owst.jp
 okobserver.org
 okta-cdn-1.com
@@ -677,6 +688,7 @@ onepay.onemotoring.com.sg
 onepearlbank.info
 onewayticket.ro
 onishi-test.com
+onkologisktidsskrift.dk
 online-credit.ro
 online-geld-verdienen.cc
 onlinebanking-access-request.com
@@ -689,6 +701,7 @@ onlyfansfinder.org
 onpreneur.com
 onsman.com
 ontrack.edu.np
+opastajat.net
 openbenches.org
 openjewereld.nu
 opensea.co.ke
@@ -736,8 +749,10 @@ overstock-home.webplatform-affligem.overstock.be
 overtones.hu
 owa.oso.sk
 ownerfinancergv.com
+oysterfest.ca
 ozelbazar.com
 p16198292c1prd-store.occa.us-phoenix-1.ocs.oraclecloud.com
+pag.onelink.me
 paid.outbrain.com
 pankajy.onlinegoogleadscourse.com
 passwortcheck.outercirc.io
@@ -746,6 +761,7 @@ pocus.it-cpi003-rt.cfapps.us10.hana.ondemand.com
 poicis0100integrationservices-atcoci1.integration.ocp.oraclecloud.com
 portal.olomeleia.gr
 postcovid.onlinedoctor.space
+postshipmentv2-2-dev.octopusedi.net
 pra-license.fix-nitropack.owlreview.de
 preprod.www.filtres-spa.com.esu-01.ovea.com
 producer-prod-user13.training.openshift.ch
@@ -763,11 +779,13 @@ relacionamento.oi.com.br
 review.oto-login.com
 rsp-0003.oberthur.net
 sadc1.outbrain.com
+sandbox52.orbita.cloud
 service-discovery.ouznoreyni.tech
 servicebus-t.overijssel.nl
 sessionscloud2.opticvideo.com
 shared-cw-alarm.orkesconductor.com
 shop.oxfamnovib.nl
+signapdf-service-2870d16edb31e2a0.onporter.run
 smart.owqms.com
 sn.olavthon.no
 sso-stage2.production.next.obi-solution.net
@@ -804,6 +822,7 @@ webdisk.omnitron.com.hk
 webmail.chery.oraclegroup.co.za
 webservice.onlinedas.it
 wmail.openquest.com.pt
+www.accounts.ordalli.com
 www.actualizar.arsbancocentral.opensoftdo.com
 www.advscustodio.com.br.oseudelivery.app.br
 www.backup.osd-sicherheitsdienste.de
