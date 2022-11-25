@@ -3106,6 +3106,7 @@ Do not create new issue or we will close it as duplicate.
 | [GreatPurchaser@twitter](https://twitter.com/GreatPurchaser/status/1392901780535595008) | advertise |
 | [GreenboyTm@twitter](https://twitter.com/GreenboyTm/status/1390219893262327813) | advertise |
 | [greenmoon55@twitter](https://twitter.com/greenmoon55/status/1507778212234858496) | advertise |
+| [greghuntdev@twitter](https://twitter.com/greghuntdev/status/1596147748394487814) | advertise |
 | [Gregorworld1606@twitter](https://twitter.com/Gregorworld1606/status/1588410166558756864) | advertise |
 | [GregoryCollins@twitter](https://twitter.com/GregoryCollins/status/1530717094743920640) | advertise |
 | [gregory_levine@twitter](https://twitter.com/gregory_levine/status/1586230877058912256) | advertise |
