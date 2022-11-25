@@ -7902,6 +7902,7 @@ Do not create new issue or we will close it as duplicate.
 | [promo_brimo2022@twitter](https://twitter.com/promo_brimo2022/status/1593675240743137280) | advertise |
 | [ProteinPink@twitter](https://twitter.com/ProteinPink/status/1522848358548873217) | advertise |
 | [ProZar3@twitter](https://twitter.com/ProZar3/status/1503979856882769922) | advertise |
+| [prozsolutions@twitter](https://twitter.com/prozsolutions/status/1596050921229647872) | advertise |
 | [prro85545495@twitter](https://twitter.com/prro85545495/status/1401352105886056457) | advertise |
 | [PSaYsPxxa9NsEYS@twitter](https://twitter.com/PSaYsPxxa9NsEYS/status/1552673471330910209) | advertise |
 | [psgmoment@twitter](https://twitter.com/psgmoment/status/1522760815094341632) | advertise |
