@@ -1486,6 +1486,7 @@ Here's a list of public Fediverse services.
 | `antisocial.ly` | No |
 | `antisocial.science` | Yes |
 | `antispecisme.net` | No |
+| `antiterf.club` | No |
 | `antivaxxer.icu` | No |
 | `antiwar.com` | No |
 | `antizuckbook.com` | No |
@@ -20250,7 +20251,7 @@ Here's a list of public Fediverse services.
 | `passwd.org` | Yes |
 | `pasta.ga` | No |
 | `pasta.social` | Yes |
-| `pasta.wtf` | Yes |
+| `pasta.wtf` | No |
 | `pasteq.fr` | Yes |
 | `pastix.fr` | No |
 | `pastleo.me` | Yes |
@@ -30483,8 +30484,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,677 |
-| Normal | 23,763 |
+| Cloudflare | 6,676 |
+| Normal | 23,765 |
 
 
 ### 21.9% of public Fediverse services are using Cloudflare.
