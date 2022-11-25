@@ -19616,6 +19616,7 @@ Here's a list of public Fediverse services.
 | `onemorestop.photo` | No |
 | `onepointzero.com` | Yes |
 | `onerescue.org` | No |
+| `onetwoseven.one` | Yes |
 | `onetwoxu.de` | No |
 | `onewilshire.la` | No |
 | `oneworldweb.social` | No |
@@ -30542,8 +30543,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,694 |
+| Cloudflare | 6,695 |
 | Normal | 23,805 |
 
 
-### 21.9% of public Fediverse services are using Cloudflare.
+### 22% of public Fediverse services are using Cloudflare.
