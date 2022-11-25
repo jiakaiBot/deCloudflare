@@ -68,7 +68,6 @@ Here's a list of public Matrix services.
 | group.lt | Yes |
 | hackerspaces.be | No |
 | matrix.hadoly.fr | No |
-| chatserver.hashi.sbs | Yes |
 | matrix.hingst.net | No |
 | hot-chilli.im | No |
 | houtworm.im | No |
@@ -97,6 +96,7 @@ Here's a list of public Matrix services.
 | matrix.pikaviestin.fi | No |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
+| privex.io | Yes |
 | matrix.pub.solar | No |
 | matrix.qoto.org | No |
 | radiowarnerd.org | No |
