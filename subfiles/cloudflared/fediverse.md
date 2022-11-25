@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,392 |
-| social | 2,452 |
-| net | 2,322 |
+| social | 2,456 |
+| net | 2,323 |
 | org | 1,675 |
-| de | 1,527 |
+| de | 1,528 |
 
 
 - Mastodon, Pleroma, etc
@@ -2559,6 +2559,7 @@ Here's a list of public Fediverse services.
 | `begoo.bar` | No |
 | `begovoy.club` | No |
 | `begovoy.social` | No |
+| `behind-the-screens.de` | No |
 | `behmerd.ir` | Yes |
 | `beige.party` | No |
 | `beingoblio.com` | No |
@@ -7195,6 +7196,7 @@ Here's a list of public Fediverse services.
 | `eduardocollado.com` | No |
 | `education.fr` | No |
 | `educator.social` | No |
+| `educhat.social` | No |
 | `educity.asia` | No |
 | `educoop.coop` | No |
 | `edufor.me` | No |
@@ -10235,6 +10237,7 @@ Here's a list of public Fediverse services.
 | `grap.coop` | No |
 | `graphics.social` | No |
 | `graphsec.space` | No |
+| `grappler.social` | No |
 | `grappling.ca` | No |
 | `grassroot.space` | Yes |
 | `grasstruths.co.za` | No |
@@ -11012,6 +11015,7 @@ Here's a list of public Fediverse services.
 | `hhhammer.de` | No |
 | `hhome.me` | Yes |
 | `hiauntie.com` | No |
+| `hibi-tsumo.net` | Yes |
 | `hibi.ga` | No |
 | `hibiki.eu` | No |
 | `hibiscus.pink` | No |
@@ -13112,6 +13116,7 @@ Here's a list of public Fediverse services.
 | `kandr3s.co` | No |
 | `kangaroo.to` | No |
 | `kangoulya.org` | No |
+| `kani.social` | No |
 | `kanina.be` | No |
 | `kanni.de` | No |
 | `kannitverstan.eu` | No |
@@ -13253,6 +13258,7 @@ Here's a list of public Fediverse services.
 | `keasti.net` | Yes |
 | `keaton.cool` | No |
 | `keazilla.net` | No |
+| `kebin.ga` | No |
 | `kebot.me` | Yes |
 | `kebree.fr` | No |
 | `kechpaja.com` | No |
@@ -17015,6 +17021,7 @@ Here's a list of public Fediverse services.
 | `misskey.im` | Yes |
 | `misskey.io` | Yes |
 | `misskey.jp` | Yes |
+| `misskey.life` | Yes |
 | `misskey.lol` | No |
 | `misskey.love` | No |
 | `misskey.ml` | No |
@@ -24398,6 +24405,7 @@ Here's a list of public Fediverse services.
 | `smashnet.de` | No |
 | `smatodon.net` | No |
 | `smbcc.org` | Yes |
+| `smbi.community` | Yes |
 | `smc.li` | Yes |
 | `smc62.com` | No |
 | `smcm.xyz` | Yes |
@@ -29361,6 +29369,7 @@ Here's a list of public Fediverse services.
 | `woodplate.club` | No |
 | `woof.group` | No |
 | `woof.tech` | No |
+| `woofy.social` | No |
 | `woogmbh.cc` | Yes |
 | `woojinkim.org` | Yes |
 | `woolly.world` | No |
@@ -30484,8 +30493,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,676 |
-| Normal | 23,765 |
+| Cloudflare | 6,679 |
+| Normal | 23,771 |
 
 
 ### 21.9% of public Fediverse services are using Cloudflare.
