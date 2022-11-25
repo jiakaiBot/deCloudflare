@@ -2953,6 +2953,7 @@ Here's a list of public Fediverse services.
 | `bittube.social` | No |
 | `bittube.tv` | No |
 | `bittube.video` | No |
+| `bitwalker.eu` | No |
 | `bitwaves.de` | No |
 | `bitwig.community` | No |
 | `bitworking.org` | No |
@@ -14871,6 +14872,7 @@ Here's a list of public Fediverse services.
 | `litui.net` | No |
 | `litvin.pro` | No |
 | `litza.de` | No |
+| `liu.se` | No |
 | `liuwm.work` | Yes |
 | `live-on.net` | No |
 | `live-website.com` | No |
@@ -30645,7 +30647,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,727 |
-| Normal | 23,874 |
+| Normal | 23,876 |
 
 
 ### 22% of public Fediverse services are using Cloudflare.
