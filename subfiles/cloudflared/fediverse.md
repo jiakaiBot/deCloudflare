@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,414 |
-| social | 2,474 |
+| com | 4,417 |
+| social | 2,476 |
 | net | 2,335 |
-| org | 1,686 |
+| org | 1,688 |
 | de | 1,532 |
 
 
@@ -2149,6 +2149,7 @@ Here's a list of public Fediverse services.
 | `axwax.eu` | No |
 | `ayaka.moe` | Yes |
 | `ayano.jp` | No |
+| `aynrand.social` | No |
 | `ayushio.com` | Yes |
 | `az-men.com` | No |
 | `az.social` | No |
@@ -2312,6 +2313,7 @@ Here's a list of public Fediverse services.
 | `baldurbjarnason.com` | No |
 | `baleafunk.eus` | No |
 | `balena-devices.com` | Yes |
+| `ballhaus.community` | No |
 | `balliauw.dev` | No |
 | `balliauw.net` | No |
 | `ballioljcr.org` | No |
@@ -8678,6 +8680,7 @@ Here's a list of public Fediverse services.
 | `flokinet.is` | No |
 | `flokinet.social` | No |
 | `flooey.org` | No |
+| `floof.org` | No |
 | `floof.rocks` | No |
 | `floofy.club` | No |
 | `floofy.tech` | Yes |
@@ -11941,6 +11944,7 @@ Here's a list of public Fediverse services.
 | `inferencium.net` | No |
 | `inferiorlattice.com` | No |
 | `infernal.garden` | No |
+| `infernalerror.com` | Yes |
 | `infinimatix.net` | No |
 | `infinite.pink` | No |
 | `infinitedisk.com` | No |
@@ -13295,6 +13299,7 @@ Here's a list of public Fediverse services.
 | `kayloehmann.de` | No |
 | `kazantsev.fun` | No |
 | `kazar.ma` | No |
+| `kazee.social` | No |
 | `kazeyomi.cloud` | No |
 | `kazu-server.tk` | No |
 | `kazu34.net` | No |
@@ -13537,6 +13542,7 @@ Here's a list of public Fediverse services.
 | `kinkyelephant.com` | No |
 | `kinl.gq` | No |
 | `kinlan.me` | No |
+| `kinlane.com` | Yes |
 | `kino.ma` | No |
 | `kinowolnosc.pl` | No |
 | `kinu.ml` | Yes |
@@ -18016,7 +18022,7 @@ Here's a list of public Fediverse services.
 | `mymastodon.co` | Yes |
 | `mymastodon.host` | No |
 | `mymastodon.org` | No |
-| `mymastodon.uk` | Yes |
+| `mymastodon.uk` | No |
 | `mymastodon.us` | No |
 | `mymeta.social` | No |
 | `mymicro.blog` | No |
@@ -25330,6 +25336,7 @@ Here's a list of public Fediverse services.
 | `stereodon.social` | No |
 | `stereophonic.space` | No |
 | `stesan.dev` | Yes |
+| `steveasleep.com` | No |
 | `steveblamey.co.uk` | No |
 | `steveblank.com` | No |
 | `stevenbrady.com` | No |
@@ -30369,6 +30376,7 @@ Here's a list of public Fediverse services.
 | `zarth.de` | No |
 | `zasha.style` | No |
 | `zat.im` | No |
+| `zate.org` | Yes |
 | `zatnosk.dk` | No |
 | `zatta.dev` | No |
 | `zaunspringer.de` | No |
@@ -30636,8 +30644,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,725 |
-| Normal | 23,868 |
+| Cloudflare | 6,727 |
+| Normal | 23,874 |
 
 
 ### 22% of public Fediverse services are using Cloudflare.
