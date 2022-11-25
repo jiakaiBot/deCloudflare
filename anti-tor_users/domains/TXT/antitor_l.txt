@@ -700,6 +700,7 @@ api.loganalytics.io
 api.loginweb.dev
 apistg.lavoro.gov.it
 app.eml.l-com.com
+app.layer-lab.com
 apple.login-ialert.com
 appleld.ld-ialert.com
 appleld.logn-cl.com
@@ -714,6 +715,10 @@ banca.lnterntemprensas-sctlabrk.com
 bansal.loginelectronics.com
 billeder.langbach.dk
 bitfinex-login.lpageswelcomess.shop
+blackdynomite.com.detroit.listcrawler.com
+blackdynomite.com.kingston.listcrawler.com
+blackdynomite.com.niagara.listcrawler.com
+blackdynomite.com.sf.listcrawler.com
 blacksearoamer.livejournal.com
 blog.lon.tv
 boutique.librelabel.fr
@@ -729,6 +734,7 @@ click.email.lift-and-shift.com
 click1.email.lee.net
 client-old.lemur.company
 cloud.crm.livibank.com
+cluster-dashboards-stack21.apps.okd.iot-poc.leadec-services.com
 cna.ltcpolicyhub.com
 coinbase-login-auth.lflink.com
 colonelcassad.livejournal.com
@@ -810,6 +816,7 @@ ithelpdesk.lhngroup.com.sg
 jowritesfantasy.us7.list-manage.com
 judionlinebank.linksloter.com
 karavankiralama.livejournal.com
+kc-stack21.apps.okd.iot-poc.leadec-services.com
 kenya-config-covid-19-no-touch-ke-couchdb.livinggoods.net
 keyysbnnkk.linkpc.net
 klintgrant724.livejournal.com
@@ -841,9 +848,12 @@ lakepsych.com
 laloalcaraz.com
 lamaison-reze.org
 laminexsamples.laminex.com.au
+lamiradasemanal.cl
 lamsaodecao.com
 langky.com
 lao.ca.gov
+laps-services.com
+lars-borchert.de
 lasallequito.edu.ec
 lasernailtherapy.com
 laserranahosteria.com.ar
@@ -851,7 +861,6 @@ lastminhkhistory.com
 latl.ng
 laurestore.vn
 lautnid.org
-lauxanhthiendia.net
 lawandstory.com
 lawriesitsupport.com
 layer3.fr
@@ -860,6 +869,7 @@ lbank-sitee.tk
 lcb.wa.gov
 ldynovedad.com
 leadwaycourierservice.com
+leakerspost.com
 lebara.sa
 leboncoin.fr
 lecolvertdupeuple.ch
@@ -869,6 +879,7 @@ legea196.ro
 legitupdate.ng
 leiladelima.ph
 lektoren.dk
+lelanghybid.com
 lelucidoscope.com
 lemuz.org
 lenovo-laptop-servicecentre.in
@@ -887,6 +898,7 @@ letzzzgo.co
 leuromobile.it
 leveller.ca
 leveringsbetingelser.no
+levisolicitors.co.uk
 lexiconofsong.org
 lexus.jp
 lgbtlibdems.org.uk
@@ -896,6 +908,7 @@ lhv-ee.top
 liberalforum.eu
 libguides.com
 librarianship.ca
+librojuegos.org
 lieferung-swiss-post.com
 life-bank.online
 life4cuts.com
@@ -918,6 +931,7 @@ linkdata.co
 linkedstore.com
 linkgeanie.com
 linkpost.com.br
+linkupbank.com
 linuxidc.com
 liquanatechnology.com
 lisamariesimmons.com
@@ -937,6 +951,7 @@ lmtvindia.org
 lntsagram.pro
 lnvoice-pcu-gc.ca
 loanmoney.com.sg
+local12.com
 local21news.com
 localbusinessreputor.com
 localdevices.org
@@ -945,7 +960,9 @@ localwaste.ca
 lococarriage.org.uk
 log-on.com
 login-accounts-google.com
+login-alexhanna.com
 login-secure-investec.com
+login.dev.luarvik.org
 login.developer.s1.livibank.com
 login103032update.ml
 login103033update.ml
@@ -959,6 +976,7 @@ logindo.co.id
 logindp.net
 loginfreezone.com.uy
 loginmingguan.com
+loginn.co
 loginredirecturi.com
 loginvesting.com
 logiservice.pl
@@ -1048,6 +1066,7 @@ prod.map.loogia-api.tech
 prod1-fe-memex-api-ext.prod.aws.lifelock.com
 progasvancouver.livejournal.com
 r7we25dnwnv5rswg.nullquery.yahoo.com.lonewolf.net
+recaudos.lcc.com.pe
 reklame.laluna.rs
 reporting.livexnet.jp
 review-dk-update-l3ntmf.site.review.lifechurch.io
@@ -1056,6 +1075,7 @@ review-users-jaco-fuklhe.cutest.stage.loftorbital.com
 review-users-jaco-ifge0m.cutest.stage.loftorbital.com
 rfbcunetacc.linkpc.net
 scej8vqjdwn1tnpb.blog.query.yahoo.com.lonewolf.net
+secure.limeriskagency.com
 secure127.lansforsakringar.se
 sensetracker.livnsense.com
 sentry.lyra-network.com
@@ -1105,6 +1125,7 @@ update.lapetitealice.com
 update155.lapetitealice.com
 update2.lapetitealice.com
 update3.lapetitealice.com
+url4231.law-yal.com
 us10.list-manage.com
 us6.list-manage.com
 vygu9kwn33n6i9iz.nulldevice-metrics-us.amazon.com.lonewolf.net
@@ -1114,6 +1135,7 @@ webdisk.le-palmyre-soleil-de-lamazonie.com.es
 webdisk.login-icloud-lnt.us
 webdisk.lsupport-appleid-ltn.us
 webmail.le-palmyre-soleil-de-lamazonie.com.es
+website-umniabank-dev.logiq-digital.com
 womentalkdesign.us16.list-manage.com
 ws.lusitaniavida.pt
 www.accounting.links.za.org
@@ -1134,6 +1156,7 @@ www.cuentas.apps.autenticacion.login-oauth-authorize.com
 www.dangelosfreedelivery.com.lunadigital.com
 www.dinomiteservice.livesiteus.click
 www.dream.logindesigns.com
+www.epicare.logindesigns.com
 www.espaceclient.lindadracius.fr
 www.git.blog.postrblog.blog.demo.v2udpate.lamabrowser.com
 www.git.git.blog.postrblog.blog.demo.v2udpate.lamabrowser.com
@@ -1200,6 +1223,7 @@ www.landco.es
 www.landkreis-cuxhaven.de
 www.landscapepainter.me.uk
 www.lapmangvnpt.info
+www.laps-services.com
 www.laredoenergy.com
 www.laredoute.fr
 www.larousse.fr
@@ -1212,6 +1236,7 @@ www.latermoney.com
 www.laundrikart.com
 www.laurasbakery.nl
 www.lauraspinney.com
+www.law-yal.com
 www.lawyersbelgium.com
 www.laxman.academy
 www.lazyhorses.com
@@ -1222,6 +1247,7 @@ www.ldplayer.net
 www.leadertelegram.com
 www.leadingparts.com.au
 www.leadtomoney.com
+www.lealeroux.co.za
 www.learnedleague.com
 www.learning.login.net.za
 www.leathercolouringandrestoration.co.uk
@@ -1260,6 +1286,7 @@ www.linkedintri.com
 www.linkmed4t.shop
 www.linkpost.com.br
 www.linuxbookpro.com
+www.liraseguridad.com.co
 www.lisarpruitt.com
 www.lisbonaddictions.eu
 www.lisbonartweekend.com
@@ -1296,6 +1323,7 @@ www.lovehulten.com
 www.lozt.fr
 www.lrservice.ca
 www.lrspropertymanagement.com
+www.lubelskibs.pl
 www.lubelskie.pl
 www.lucdreamerwriter.com
 www.lukasalexanderklein.com
@@ -1306,6 +1334,7 @@ www.lumaseguro.com.ar
 www.lumearrr.ro
 www.lupasafe.academy
 www.lupuletservice.ro
+www.luxuryservice.work
 www.lydia-connexion.com
 www.lyonsvetclinic.com
 www.musica.listoparaentrega.com
@@ -1316,6 +1345,7 @@ www.perfectmoney.lotransportes.pt
 www.postimages.lucasvandorp.nl
 www.priceupdate.lapetitealice.com
 www.pruzhany.loogle.by
+www.safelink.lalatama.com
 www.scoalabocsa.lgaservice.ro
 www.secure.ldsnewsletter.com
 www.service.lakras.eu
