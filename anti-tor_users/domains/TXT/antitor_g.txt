@@ -653,7 +653,6 @@ translate.googleapis.com
 trends.google.com
 trends.google.fr
 trishitchar.github.io
-tv-cdn05.gtd.cl
 u8kv3.app.goo.gl
 uat-secure.gmcu.com.au
 update-dummy.greator.it
@@ -831,6 +830,7 @@ ziadanbari2021.github.io
 zopiapia.goldworkshop.net
 093e3e51f5715e9e0e76b9f0c70d0831.safeframe.googlesyndication.com
 18-05-amankumarverma.github.io
+18kp0.glam-celebrity-news.com
 23a7eed6b1286bd300cb2ff05afde213.safeframe.googlesyndication.com
 3bdeac6e0fafe426d22e900926ba3edc.safeframe.googlesyndication.com
 3c.gmx.net
@@ -840,6 +840,7 @@ zopiapia.goldworkshop.net
 a2gvik5no2n.github.io
 a460eeab884e69cee692359a3a222361.safeframe.googlesyndication.com
 aakamshpm.github.io
+aayushk12.github.io
 abirkolin1.github.io
 abundant-fifth-steed.glitch.me
 academia.gesyco.co
@@ -852,6 +853,7 @@ adfs.grupawp.pl
 admin.grsportal.com
 adraffy.github.io
 ajaykumarlakku.github.io
+aladdin.genieesspv.jp
 alexandercampion321.github.io
 alok-077.github.io
 aloneopp.github.io
@@ -871,6 +873,8 @@ app.github.media
 appbtconnect.github.io
 apple.gamezero.es
 apps.google.com.rproxy.goskope.com
+arbitec.update.forster.gugler.at
+archiv.update.forster.gugler.at
 asg-facebook.github.io
 attmailserviceadmin.getresponsepages.com
 auth.gkcompanies.eu
@@ -892,6 +896,7 @@ bk.mufj.jp.gxrwx.com
 blessing-tolani.github.io
 blockchain.greatideas.tech
 blogmng.goku.top
+bolumorin.github.io
 brassy-caterwauling-split.glitch.me
 bt1business.github.io
 btbuisnessi.github.io
@@ -947,6 +952,7 @@ daniel-t-gilbert.github.io
 davitandzavelidze.github.io
 dbrekalo.github.io
 dcgyuhjdtyjuuj.storage.googleapis.com
+delirious-zinc-slice.glitch.me
 dev1.google-shopping.club
 discord.grimoirehearts.com
 disneycruise.disney.go.com
@@ -985,6 +991,7 @@ e2c38.gcp.gvt2.com
 e2c49.gcp.gvt2.com
 ea.gr8people.com
 earth.app.goo.gl
+ecoracing.green-nitrogen.com
 edivilhian-h.github.io
 edynoticias.com.br.gruponewsbrasil.com.br
 elearning.gambiathi.com
@@ -1005,6 +1012,8 @@ feelrobotics.go2cloud.org
 firebasecrashlyticssymbols.googleapis.com
 fish-workable-meadowlark.glitch.me
 fiveholes.goip.de
+fonocon.update.forster.gugler.at
+forums.getpaint.net
 fovip.gtpl.net
 frontendeveloperanass.github.io
 g-hash.com
@@ -1014,17 +1023,20 @@ gabrielguerrero.co
 gabrielhemery.com
 gadgetsin.com
 galadi.net
+galapagos.pro
 galaxiessf.com
 gallowaychillies.co.uk
 gamedevpodcast.de
 gamesupport.in
 gandalfsecure.com
+gandmtreeservice.com
 garantibbvainvestitii.com
 gardenstory.jp
 gargasson.com
 gartenmeldorf.de
 gasco-services.co.uk
 gasthaus-altepost.ro
+gate-client.com
 gautam1804.github.io
 gauue.com
 gazelledasti.com
@@ -1035,6 +1047,7 @@ gcatoolkit.org
 geburtstagsideen.de
 geektushin.com
 geizhals.at
+gelderbloem.com
 geldersdoek.nl
 geldgrinden.nl
 geldundgeist2023.ch
@@ -1051,15 +1064,18 @@ genopets-verify-connect.in
 genplastics.com
 geologieutrecht.nl
 geopoliticalfutures.com
+germancontrol.net
 gertkracht.nl
 get-sahibinden-paramguvende.tk
 getfinsupport.com
 gethiredinflorida.us
 getlawsinfo.ru
+getsmartwithyourmoney.com
 gewerkschaftliche-linke-berlin.de
 ghanlaegsservice.dk
 gharbazaar.pk
 ghevailuoi.com
+ghislain-chasme.net
 ghsmac05.geisinger.edu
 ghv.no
 giang.pro
@@ -1126,6 +1142,7 @@ gmsafety.ro
 gmsectec.com
 go.gkrtmc.com
 godanriver.com
+godidgovernment.co
 godotshaders.com
 goizekowellington.es
 gokturkmermer.com
@@ -1146,6 +1163,7 @@ govillagetravel.com
 goviral247.com
 govuk-verify-secured.net
 gpsmarcas.com.br
+gpsradler.de
 gpuminingcards.com
 grace2much.com
 gracefulmaids.com
@@ -1173,6 +1191,8 @@ gregstolze.com
 grieve-smith.com
 grizzlytecpro.dz
 groenboerenplan.nl
+groenedromen.nl
+grow-la.com
 growsverige.se
 growthbank.net
 grservice.fi
@@ -1182,6 +1202,7 @@ grupomusicalenguayaquil.com
 gruponovorio.com.br
 grupoolmitos.com
 grupopopular.com
+gruporen.com
 gruppoalis.it
 gst-credits.online
 gta-service.ro
@@ -1198,6 +1219,7 @@ guardiasecurity.ro
 guildofscientifictroubadours.com
 guillermoferrara.org
 gujaratterce.com
+gulfgpsgroup.com
 gunnerstown.com
 gutenberg.ca
 guteseguridad.com
@@ -1222,6 +1244,7 @@ joejosephvarghese.github.io
 joshj13.github.io
 kenshi244.github.io
 kftc.gmoneytrans.net
+kopitibox.green-nitrogen.com
 landingpageservice.getway.id
 lh3.google.com
 lisa.gesuga.com
@@ -1236,6 +1259,7 @@ lovelive-heardle.glitch.me
 lpm.gevestor-verlag.de
 mail.googlemybuisness.info
 mandyocadebussy.github.io
+mapi.gmoneytrans.net
 marked-ring-fin.glitch.me
 mattinopadova.gelocal.it
 mdsiamulislam.github.io
@@ -1250,6 +1274,8 @@ moodle.geetasatsang.org
 mstdn-bike-highlight.glitch.me
 mu-g.github.io
 muhammedsalimmsk.github.io
+multiply10x.googleadsmanagementservices.com
+my.staging.governo.be
 mysecureb.github.io
 nabilurrahman88.github.io
 navidad2020.grupoanaya.es
@@ -1267,9 +1293,11 @@ nutzungsbedingungen.golden-genom.de
 o.goldgans.de
 ocupa.greveclimaticaestudantil.pt
 office.yandex.gabdrahmanova.ru
+oluchukwuabali.github.io
 omi.glosee-japan.com
 optseci.glitch.me
 orderportal.glaspoort.nl
+osmmacfides.github.io
 oso3211.github.io
 paket-dua.grahasta.id
 paket-tiga.grahasta.id
@@ -1277,14 +1305,17 @@ parley-update.gamliel.mx
 partner.googleadservices.com
 password.gavazziadrien.fr
 pauloninja.github.io
+pbhadra07.github.io
 pdfbasket.governmentyojna.com
 pestcontrol.getyourwebsite.store
 phone-from-dilemma.glitch.me
 pix.glauca.space
+plant-showy-partridge.glitch.me
 playback.video.globo.com
 pod.gugahnugraha.web.id
 pokemongo.gamewith.jp
 portail-rec.gan-eurocourtage.fr
+pre.gdogas.es
 preprod-googlehomefoyer-pa-googleapis.sandbox.google.com
 prize-holder.github.io
 provenienz.gbv.de
@@ -1302,6 +1333,7 @@ ribgisrmw.gdi.net
 richesh27.github.io
 rijeshsap53.github.io
 riyad3453.github.io
+ro.update.forster.gugler.at
 roblux.gensets.xyz
 rushikeshs001.github.io
 s-paramguvende.guvenleodemeyontemi.com
@@ -1317,6 +1349,7 @@ sandbox.api.giact.com
 sanketpaul.github.io
 sanmjjgf.godaddysites.com
 sapphire-plume-cacao.glitch.me
+sea-monsters.glitch.me
 secmail.grawe.com
 secure-update.account.com.goldlistproperty.com
 secure.givelively.org
@@ -1342,6 +1375,7 @@ stage.gedsby.com
 staging.google-shopping.club
 steam.goodblah.net
 steeven9.github.io
+store.green-nitrogen.com
 streets-london.glitch.me
 studio.glassnode.io
 subclipse.github.io
@@ -1349,6 +1383,7 @@ subdued-tide-onyx.glitch.me
 super.gwsafe.com
 support.gwbs.biz
 survey.graphstrategy.com
+taki7980.github.io
 tangy-cat-turn.glitch.me
 taxrefund.gnss-lp.co.il
 tessauthsvc.gstoyota.com
@@ -1370,12 +1405,12 @@ translate.googleusercontent.com
 travel.guide-japan.tokyo
 traveler.gemsan.com.tr
 travelportagencia.galileo.com
+trends.google.co.jp
 trends.google.com.au
 trends.google.es
 trezor.go2cloud.org
 troubled-dashing-cornflower.glitch.me
 tunairwatch.groupe-pochet.fr
-tv-cdn02.gtd.cl
 twitter-bookmark-archiver.glitch.me
 tyrantvoid.github.io
 unionbank.getnice.app
@@ -1386,6 +1421,7 @@ username123sxz.github.io
 vanshajtiwari.github.io
 vesa.grupoinvestigacionsafe.com
 vftrrqlqmcbybbpwesyaof.storage.googleapis.com
+vishnupms.github.io
 vm5.googlev.top
 vmail.gyongyhalaszkonyveles.hu
 vpn.ggdhn.nl
@@ -1400,6 +1436,8 @@ webdisk.graycubesports.com
 webmail.grafcovidtesteq.com
 webmail.gyakuten-kutikomi.site
 webmail.gyakuten-kyujin.site
+website.green-nitrogen.com
+weekly.green-nitrogen.com
 weird-old-book-finder.glitch.me
 winauth.github.io
 www.2022-2023-rara-bank-sampah.php7.gosmartid.com
@@ -1477,11 +1515,13 @@ www.getvideodyno.com
 www.getworkgear.com
 www.gfh.org.il
 www.gfjpost1700.org
+www.ghamasaana.com
 www.ghanlaegsservice.dk
 www.ghtowingservice.com
 www.ghx.com
 www.giantgroupsecurity.com
 www.giftcardmall.com
+www.giftdubaionline.com
 www.giftforgot.online
 www.giftiforgot.com
 www.giftiforgot.net
@@ -1532,6 +1572,7 @@ www.grahamuneymountaineering.co.uk
 www.granadaedu.com
 www.graphable.ai
 www.gratisaktivitet.se
+www.green-nitrogen.com
 www.greeneking-pubs.co.uk
 www.greeninstitute.org.au
 www.greenmoney.gerenciesistemas.com.br
@@ -1588,6 +1629,7 @@ www.usercraft.com.gerke-translation.com
 www.vesa.grupoinvestigacionsafe.com
 www.z1.hashicorp.cloudg.magento.clud.gpinfo.eu
 xpost.gaminginthe.cloud
+xtravoucher.green-nitrogen.com
 yas3jb.github.io
 youtrack.grombeer.pro
 youtube.google.gophishin.com
