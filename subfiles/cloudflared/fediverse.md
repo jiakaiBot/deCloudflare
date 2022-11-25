@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,410 |
-| social | 2,468 |
+| com | 4,414 |
+| social | 2,472 |
 | net | 2,334 |
-| org | 1,683 |
+| org | 1,685 |
 | de | 1,531 |
 
 
@@ -2147,6 +2147,7 @@ Here's a list of public Fediverse services.
 | `axwax.eu` | No |
 | `ayaka.moe` | Yes |
 | `ayano.jp` | No |
+| `aynrand.social` | No |
 | `ayushio.com` | Yes |
 | `az-men.com` | No |
 | `az.social` | No |
@@ -5317,6 +5318,7 @@ Here's a list of public Fediverse services.
 | `crystal.fish` | No |
 | `crystaltusk.com` | No |
 | `crystalyx.net` | Yes |
+| `cs.social` | Yes |
 | `cs133.net` | Yes |
 | `cs59.co` | No |
 | `cs6675.com` | No |
@@ -8673,6 +8675,7 @@ Here's a list of public Fediverse services.
 | `flokinet.is` | No |
 | `flokinet.social` | No |
 | `flooey.org` | No |
+| `floof.org` | No |
 | `floof.rocks` | No |
 | `floofy.club` | No |
 | `floofy.tech` | Yes |
@@ -10837,6 +10840,7 @@ Here's a list of public Fediverse services.
 | `headcrack.cf` | No |
 | `headmat.es` | No |
 | `headpat.moe` | No |
+| `headpats.cafe` | Yes |
 | `headphone.actor` | No |
 | `heads.social` | No |
 | `heapoverflow.ml` | No |
@@ -11930,6 +11934,7 @@ Here's a list of public Fediverse services.
 | `inferencium.net` | No |
 | `inferiorlattice.com` | No |
 | `infernal.garden` | No |
+| `infernalerror.com` | Yes |
 | `infinimatix.net` | No |
 | `infinite.pink` | No |
 | `infinitedisk.com` | No |
@@ -13284,6 +13289,7 @@ Here's a list of public Fediverse services.
 | `kayloehmann.de` | No |
 | `kazantsev.fun` | No |
 | `kazar.ma` | No |
+| `kazee.social` | No |
 | `kazeyomi.cloud` | No |
 | `kazu-server.tk` | No |
 | `kazu34.net` | No |
@@ -13525,6 +13531,7 @@ Here's a list of public Fediverse services.
 | `kinkyelephant.com` | No |
 | `kinl.gq` | No |
 | `kinlan.me` | No |
+| `kinlane.com` | Yes |
 | `kino.ma` | No |
 | `kinowolnosc.pl` | No |
 | `kinu.ml` | Yes |
@@ -19031,6 +19038,7 @@ Here's a list of public Fediverse services.
 | `noon.social` | No |
 | `noordstar.me` | No |
 | `noorul.xyz` | Yes |
+| `noosa.social` | No |
 | `noostache.fr` | No |
 | `noot.cloud` | No |
 | `noovi.org` | No |
@@ -20172,6 +20180,7 @@ Here's a list of public Fediverse services.
 | `packetloss.social` | Yes |
 | `packetlost.dev` | No |
 | `packetwarriors.net` | No |
+| `pacmanfan.co.nz` | No |
 | `pacna.org` | No |
 | `paco.to` | No |
 | `pad23.com` | Yes |
@@ -25306,6 +25315,7 @@ Here's a list of public Fediverse services.
 | `stereodon.social` | No |
 | `stereophonic.space` | No |
 | `stesan.dev` | Yes |
+| `steveasleep.com` | No |
 | `steveblamey.co.uk` | No |
 | `steveblank.com` | No |
 | `stevenbrady.com` | No |
@@ -28101,6 +28111,7 @@ Here's a list of public Fediverse services.
 | `unixwolf.com` | No |
 | `unkipamunich.fr` | No |
 | `unknowable.place` | No |
+| `unknowngenius.com` | No |
 | `unkomaker.info` | No |
 | `unkomaker.net` | No |
 | `unkworks.net` | No |
@@ -28772,6 +28783,7 @@ Here's a list of public Fediverse services.
 | `vrt36.com` | Yes |
 | `vrutkovs.eu` | No |
 | `vrvg.xyz` | No |
+| `vs-the.world` | No |
 | `vscape.tk` | No |
 | `vseinstrukcii.date` | No |
 | `vspace.me` | No |
@@ -30337,6 +30349,7 @@ Here's a list of public Fediverse services.
 | `zarth.de` | No |
 | `zasha.style` | No |
 | `zat.im` | No |
+| `zate.org` | Yes |
 | `zatnosk.dk` | No |
 | `zatta.dev` | No |
 | `zaunspringer.de` | No |
@@ -30604,8 +30617,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,712 |
-| Normal | 23,849 |
+| Cloudflare | 6,717 |
+| Normal | 23,857 |
 
 
 ### 22% of public Fediverse services are using Cloudflare.
