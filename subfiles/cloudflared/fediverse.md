@@ -898,6 +898,7 @@ Here's a list of public Fediverse services.
 | `airpollution.science` | No |
 | `aisler.social` | Yes |
 | `aistear.net` | No |
+| `aitor-sama.es` | Yes |
 | `aitorpazos.es` | No |
 | `aj.ms` | Yes |
 | `ajaphotos.net` | No |
@@ -19537,6 +19538,7 @@ Here's a list of public Fediverse services.
 | `ohnepunktundkomma.org` | No |
 | `ohno.club` | No |
 | `ohno.host` | No |
+| `ohnoim.online` | No |
 | `ohnomy.rocks` | No |
 | `ohyo.cloud` | No |
 | `ohyo.work` | No |
@@ -30617,8 +30619,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,717 |
-| Normal | 23,857 |
+| Cloudflare | 6,718 |
+| Normal | 23,858 |
 
 
 ### 22% of public Fediverse services are using Cloudflare.
