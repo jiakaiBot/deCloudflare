@@ -72,7 +72,9 @@
 0-15.co.il
 0-17.ru
 0-1ap.ir
+0-1box.ir
 0-1coaching.com
+0-1i.ir
 0-1it.ir
 0-1net.ir
 0-1r.com
@@ -873,6 +875,7 @@
 0001110.xyz
 000111000.xyz
 0001111.xyz
+00011111.xyz
 000111222.co
 000111222.xyz
 0001117.com
@@ -1067,7 +1070,6 @@
 00025b.com
 00026.vip
 00026138.com
-000269.xyz
 000271.cn
 0002777.com
 0002777.xyz
@@ -1119,6 +1121,7 @@
 00030.net
 000300.xyz
 0003000.com
+0003000.xyz
 00030003.xyz
 000304.cn
 00031.com.cn
@@ -1782,6 +1785,7 @@
 000bstvip.com
 000by.com
 000c.cc
+000c.vip
 000c01.com
 000c02.com
 000c16.vip
@@ -1831,6 +1835,7 @@
 000g.ru
 000game.in
 000gaming.com
+000global.com
 000grazecartsetup.com
 000han.xyz
 000haxi.com
@@ -1886,7 +1891,6 @@
 000mmmm.com
 000mp.com
 000mt.com
-000mv.com
 000nen.com
 000no1.com
 000o66.com
@@ -2193,7 +2197,6 @@
 00113606.com
 001138.com
 0011384.com
-00113882.com
 00113885.com
 00114045.com
 001142.com
@@ -2898,7 +2901,6 @@
 001k7.com
 001kan.cn
 001kav.com
-001kcw.com
 001kf.cn
 001km.com
 001km.ru
@@ -3535,7 +3537,6 @@
 002jf.cn
 002k7.com
 002kc.com
-002kcw.com
 002kh.com
 002kk.com
 002kw22sc.xyz
@@ -3545,7 +3546,6 @@
 002lotto-ad-fge8gy.com
 002mag.com
 002manx.com
-002md.com
 002mm.xyz
 002mn.com
 002mnf.cyou
@@ -4207,7 +4207,6 @@
 003jk.com
 003k7.com
 003kc.com
-003kcw.com
 003kh23sn.xyz
 003kj.com
 003km.cn
@@ -4731,7 +4730,6 @@
 004jj.com
 004jk.com
 004kc.com
-004kcw.com
 004kf.com
 004ks24sy.xyz
 004l.cn
@@ -4847,6 +4845,7 @@
 005112.cn
 0051198.com
 005121.com
+005121.xyz
 0051222.com
 005123.cn
 005123.net
@@ -5289,6 +5288,7 @@
 00599.org
 005990sha.com
 005994.com
+005995.com
 0059ch.xyz
 0059r.com
 0059s.com
@@ -5334,7 +5334,6 @@
 005i.cn
 005kav.com
 005kc.com
-005kcw.com
 005kk.com
 005ledong.com
 005lll.com
@@ -5805,7 +5804,6 @@
 006atk.xyz
 006bb.com
 006bet.cc
-006bt.com
 006bygreen.info
 006c.cc
 006c16.com
@@ -5841,7 +5839,6 @@
 006jj.com
 006kb.com
 006kc.com
-006kcw.com
 006kj.com
 006ks4g.cn
 006ledong.com
@@ -6214,7 +6211,6 @@
 0077.pw
 00770.com
 00770.net
-00770.vip
 007700.xyz
 0077000.com
 0077007.xyz
@@ -6601,10 +6597,10 @@
 007kanqiu.com
 007kanqiu.net
 007kay.com
-007kcw.com
 007kdy.com
 007ke.com
 007kf.cc
+007kino.com
 007km.xyz
 007kopi.com
 007kp.cn
@@ -6824,6 +6820,7 @@
 008.wiki
 008.xn--p1ai
 008.yt
+0080.cz
 0080.io
 0080.one
 0080.se
@@ -7342,6 +7339,7 @@
 00880888.com
 00881.com
 00881.nz
+0088100.com
 008811.cc
 008811.xyz
 0088111.com
@@ -7353,6 +7351,7 @@
 008816a.com
 008816b.com
 008816c.com
+008818.cc
 00881966.com
 0088198.com
 00882.cc
@@ -7649,7 +7648,6 @@
 008kaij.com
 008kav.com
 008kbet.com
-008kcw.com
 008kk.cc
 008ledong.com
 008lehu.com
@@ -8223,7 +8221,6 @@
 0099oo.com
 0099pa.com
 0099pk10.com
-0099play.com
 0099pp.com
 0099q7e.cn
 0099qq.com
@@ -8254,7 +8251,6 @@
 009bb.vip
 009bet.cc
 009bjldc.com
-009ch.com
 009ch.xyz
 009chi.xyz
 009co.com
@@ -8294,7 +8290,6 @@
 009k8.com
 009kb.com
 009kc.com
-009kcw.com
 009la.cn
 009ledong.com
 009ll.com
@@ -8466,7 +8461,6 @@
 00b8b.com
 00b8bet.com
 00bacn0mor34.xyz
-00badger.live
 00bar.cn
 00battle.com
 00bb.app
@@ -9809,7 +9803,6 @@
 0103030.com
 01030307.xyz
 0103031.com
-010305.xyz
 01031.co
 01031.cz
 01031.net
@@ -10019,7 +10012,6 @@
 01092030.xyz
 010922.xyz
 0109281.com
-010929.xyz
 01094081999.com
 0109480.xyz
 010953.com
@@ -10128,6 +10120,7 @@
 010inkt.nl
 010ios.com.cn
 010iot.cn
+010it.net
 010its.com
 010ivy.com
 010jby.com
@@ -10186,7 +10179,6 @@
 010psh.com
 010px.cn
 010qinglv.com
-010qingxi.xyz
 010qj.com
 010qkc.com.cn
 010ql.com
@@ -10426,6 +10418,7 @@
 0110011e.com
 0110011f.com
 0110011g.com
+0110011h.com
 011001c.com
 011002000.com
 011002200.com
@@ -10499,6 +10492,7 @@
 0110088d.com
 0110088e.com
 0110088f.com
+0110088g.com
 011009900.com
 0110099900.com
 01100999a.com
@@ -10507,6 +10501,7 @@
 0110099d.com
 0110099e.com
 0110099f.com
+0110099g.com
 01101.com
 01101000.xyz
 011010000110000101111001011011000110010101100101.info
@@ -14326,7 +14321,6 @@
 01bank.com.br
 01banque-en-ligne.fr
 01banzhu.com
-01banzhu.org
 01banzhu.xyz
 01basma.com
 01bbb.com
@@ -14419,26 +14413,6 @@
 01c.vip
 01c20.com
 01c75.xyz
-01ca1alpha.xyz
-01ca1bravo.xyz
-01ca1charlie.xyz
-01ca1delta.xyz
-01ca1echo.xyz
-01ca1foxtrot.xyz
-01ca1golf.xyz
-01ca1hotel.xyz
-01ca1india.xyz
-01ca1juliett.xyz
-01ca1kilo.xyz
-01ca1lima.xyz
-01ca1mike.xyz
-01ca1november.xyz
-01ca1oscar.xyz
-01ca1papa.xyz
-01ca1quebec.xyz
-01ca1romeo.xyz
-01ca1sierra.xyz
-01ca1tango.xyz
 01ca1uniform.xyz
 01ca1victor.xyz
 01ca1whiskey.xyz
@@ -14791,7 +14765,6 @@
 01isk.com
 01islands.com
 01it.pl
-01iw.me
 01j.me
 01j2.com.cn
 01j3.cn
@@ -15616,6 +15589,7 @@
 0202.tv
 0202.uk
 0202.xyz
+020200.com
 0202015.com
 020202.fi
 020206.vip
@@ -15695,10 +15669,7 @@
 02049.com
 0204asia.info
 0204cam.info
-0204free.info
-0204good.info
 0204hu.com
-0204jp.info
 0204talk.info
 0204top.info
 0205.nl
@@ -16415,6 +16386,7 @@
 021bingchang.com
 021bk.com
 021bls.com
+021boyspa.com
 021bpq.com
 021bsesf.com
 021bwx.com
@@ -17025,7 +16997,6 @@
 022702.com
 02271.com
 02271.in
-022716.com
 02272.cn
 02272.com
 0227288.com
@@ -17040,12 +17011,8 @@
 02272x.com
 02272y.com
 02272z.com
-022731.com
 022735.com
-022737.com
-022739.com
 0227521155.com
-022756.com
 022766.com
 022768.com
 02277.cc
@@ -17098,7 +17065,6 @@
 022802bcfcb3dbcd1a224f29537f6ac0.host
 022815.com
 022824.com
-022837.com
 02284.cn
 02286624.com
 0228711.com
@@ -17109,7 +17075,6 @@
 022884.com
 022887.com
 0228916.com
-022897.com
 022898.com
 0228s.com
 0228vip.com
@@ -17118,9 +17083,7 @@
 0229292.com
 022935.com
 0229393.com
-022953.com
 02295622.com
-022957.com
 022980.com
 022985.com
 022987.xyz
@@ -17697,7 +17660,6 @@
 023jinshi.com
 023jiu.cfd
 023jiu.com
-023job.xyz
 023jp.cn
 023jsq.com
 023jsy.com
@@ -18219,6 +18181,7 @@
 024wap.cn
 024wg.cn
 024whhs.com
+024wifi.net
 024wstz.com
 024xcyy.com
 024xczc.com
@@ -18925,13 +18888,7 @@
 02766z.com
 027678.com
 02771344197f.com
-027719.com
 02773.cn
-027739.com
-027753.com
-027756.com
-027762.com
-027763.com
 02778.biz
 02778.com
 02779.uk
@@ -19638,6 +19595,7 @@
 028lry.com
 028lrzs.cn
 028lss.com
+028luohu.com
 028lvwu.com
 028lvyou.com
 028lz.cn
@@ -19706,7 +19664,6 @@
 028sydz.com
 028szfy.com
 028taoci.com
-028taoxian.cn
 028tbuy.com
 028tch.com
 028tea.cn
@@ -19739,7 +19696,6 @@
 028xcb.com
 028xcbz.com
 028xdh.com
-028xh.com
 028xhy.com
 028xiaochuan.com
 028xiaofang.cn
@@ -19749,7 +19705,6 @@
 028xmx.com
 028xrj.com
 028xsbf.com
-028xsw.com
 028xth.cn
 028xxw.com
 028xyjd.com
@@ -19784,7 +19739,6 @@
 028zhaiwu.com
 028zhi.com
 028zhongyi.com
-028zhuanhualv.com
 028znl.com
 028zqg.com
 028zy.cn
@@ -19828,7 +19782,6 @@
 02916381.com
 02918.org
 029182.cn
-0292.ceo
 0292.net
 029238.com
 029239.com
@@ -19926,17 +19879,11 @@
 029911.com
 029922.com
 029933.com
-029935.com
-029937.com
 02994708.com
 0299486.com
-029957.com
-029973.com
-029976.com
 029978.com
 02998.ac
 02998.vip
-029982.com
 029986.com
 02999.vip
 02999.xyz
@@ -20195,6 +20142,7 @@
 029zhicheng.com
 029zhuangxiu.com
 029zlyg.com
+029zn.cn
 029zq.com
 029zqc.com
 029zuche.com
@@ -20275,26 +20223,6 @@
 02c2.cn
 02c73.xyz
 02c88o4ku1.com
-02ca1alpha.xyz
-02ca1bravo.xyz
-02ca1charlie.xyz
-02ca1delta.xyz
-02ca1echo.xyz
-02ca1foxtrot.xyz
-02ca1golf.xyz
-02ca1hotel.xyz
-02ca1india.xyz
-02ca1juliett.xyz
-02ca1kilo.xyz
-02ca1lima.xyz
-02ca1mike.xyz
-02ca1november.xyz
-02ca1oscar.xyz
-02ca1papa.xyz
-02ca1quebec.xyz
-02ca1romeo.xyz
-02ca1sierra.xyz
-02ca1tango.xyz
 02ca1uniform.xyz
 02ca1victor.xyz
 02ca1whiskey.xyz
@@ -20613,7 +20541,6 @@
 02mz.com
 02n1r2.cyou
 02n287.com
-02n3.com
 02n3q3sfb4.ga
 02n4sga.top
 02n8e.com
@@ -20971,7 +20898,6 @@
 02zj.vip
 02zl.com
 02zmi6.shop
-02zp.org
 02zrj0.cyou
 02zu0.com
 02zv.com
@@ -22122,7 +22048,6 @@
 03219.shop
 032198.com
 0322.im
-0322.xyz
 03220.tv
 032206.com
 03221452.xyz
@@ -22995,7 +22920,6 @@
 0351.xyz
 035109.cn
 0351107.com
-035117.com
 0351199.com
 0351237.com
 0351239.com
@@ -23018,6 +22942,7 @@
 0351dhw.com
 0351dian.com
 0351dyj.com
+0351fk.com
 0351hc.com
 0351ht.com
 0351huafenchi.com
@@ -23054,8 +22979,6 @@
 0352.ro
 0352.se
 0352.ua
-035221.com
-035223.com
 0352237.com
 0352239.com
 0352465.com
@@ -23117,11 +23040,9 @@
 035506.com
 03551.com
 0355110.xyz
-035512.com
 0355237.com
 0355239.com
 035528.com
-035529.com
 035530.cn
 035530.xyz
 035549.fun
@@ -23131,25 +23052,16 @@
 03555hy.com
 03555js.com
 03555kj.com
-035562.com
-035563.com
 035567.space
 035570.com
 035571.com
-035576.com
 035576.fun
-035579.com
-035582.com
 03559.cc
-035592.com
-035593.com
-035596.com
 0355artemisbet.com
 0355car.com
 0355city.com
 0355csw.com
 0355dy.com
-0355f.cn
 0355fuke.com
 0355g5.com
 0355kjw.top
@@ -23509,7 +23421,6 @@
 03637.com
 0364.com
 0364.vip
-03640.cn
 03641.co
 03641b.com
 03641c.com
@@ -23613,7 +23524,6 @@
 036666.xyz
 036669.com
 03667.cn
-036675.com
 03668.vip
 036688.com
 03669.com
@@ -23786,6 +23696,7 @@
 0370sz.com
 0370tuan.com.cn
 0370ys.net
+0371-114.com
 0371-gift.com
 03710.com.cn
 037111.com
@@ -24044,7 +23955,6 @@
 03773.cz
 03774.cn
 037750.uk
-037752.com
 037766.com
 037767776777.cn
 03777.vip
@@ -24108,7 +24018,6 @@
 037979.cc
 03799.cn
 03799.vip
-037992.com
 0379baidu.cn
 0379bar.cn
 0379cg.com
@@ -24664,8 +24573,6 @@
 0393239.com
 039329.com
 039330.com
-039332.com
-039337.com
 0393399.com
 039342.com
 03935.tv
@@ -24708,9 +24615,6 @@
 0395365.com
 03954.com
 039540.com
-039551.com
-039552.com
-039557.com
 0395599.com
 039566.com
 03958812.com
@@ -24727,7 +24631,6 @@
 03964.cz
 03965.co
 03966.cn
-039665.com
 03967.cn
 039696.com
 0396999.com
@@ -24942,22 +24845,6 @@
 03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 03c8ug.cyou
 03c9988aba9d.com
-03ca1bravo.xyz
-03ca1charlie.xyz
-03ca1delta.xyz
-03ca1foxtrot.xyz
-03ca1golf.xyz
-03ca1hotel.xyz
-03ca1india.xyz
-03ca1juliett.xyz
-03ca1kilo.xyz
-03ca1lima.xyz
-03ca1mike.xyz
-03ca1papa.xyz
-03ca1quebec.xyz
-03ca1romeo.xyz
-03ca1sierra.xyz
-03ca1tango.xyz
 03ca1uniform.xyz
 03ca1whiskey.xyz
 03ca1x-ray.xyz
@@ -25216,6 +25103,7 @@
 03kktv.com
 03kmosquito.shop
 03kn.com
+03ko19h.xyz
 03koe.xyz
 03kp.shop
 03kpd.com
@@ -25611,7 +25499,6 @@
 03yp.com
 03yt.com
 03yv.com
-03yvlq.com
 03yxdn.shop
 03yy.cn
 03yys.com
@@ -26117,7 +26004,6 @@
 0415group.shop
 0415group.space
 0415hao.com
-0415jc.xyz
 0415kd.cn
 0415shop.com
 0415t.com
@@ -26317,7 +26203,6 @@
 0421bp.com
 0421f.com
 0421jz.com
-0421ly.xyz
 0421studio.com
 0422.org
 0422.pw
@@ -26913,6 +26798,7 @@
 044889.com
 0449.cc
 0449.com
+0449.cz
 0449.org
 0449.pw
 0449.se
@@ -26969,7 +26855,6 @@
 044qq.com
 044qw.xyz
 044rr.com
-044s.cn
 044saq.ru
 044skz.xyz
 044ss.com
@@ -27168,6 +27053,10 @@
 0456e.com
 0456hg.com
 0456hg.vip
+0456hg00.com
+0456hg01.com
+0456hg02.com
+0456hg03.com
 0456hg1.com
 0456hg10.com
 0456hg11.com
@@ -27852,7 +27741,6 @@
 04834208.com
 04834326.com
 048385.com
-0483bm4mlow8.xyz
 048400.com
 0484111.com
 04843883.com
@@ -27909,7 +27797,6 @@
 04890.com
 048902.com
 0489033.space
-0489111.com
 048945.space
 048979.xyz
 048986.com
@@ -28687,6 +28574,7 @@
 04parlament.com
 04pb.com
 04pd.com
+04pdi29s5d5txsz.com
 04pe.com
 04pg.com
 04pggf.cyou
@@ -29086,6 +28974,8 @@
 05030b.com
 05030c.com
 05031.cc
+05031a.com
+05031b.com
 050321.com
 050325.cn
 05033.cn
@@ -29219,6 +29109,7 @@
 0507kj.com
 0508-timber.co.nz
 0508.cc
+0508.cz
 05080.cn
 05081919.com
 05082.biz
@@ -29397,6 +29288,7 @@
 050ty.xyz
 050uu.com
 050uuu.com
+050v.com
 050va.com
 050vip1.com
 050vip10.com
@@ -29512,7 +29404,6 @@
 0511237.com
 0511239.com
 051125.com
-05113.cn
 05113.uk
 05115.cn
 0511548412.xyz
@@ -29751,6 +29642,7 @@
 05146.co
 05147yg.com
 05149.cc
+0514baojie.com
 0514burn.com
 0514gou.com
 0514hu.com
@@ -30460,8 +30352,6 @@
 053111.xyz
 05311253.com
 0531127.com
-053113.com
-053115.com
 053119.org
 0531199.com
 05312.cn
@@ -30554,12 +30444,8 @@
 0532185.com
 05322.cn
 05322012.com
-053223.com
 0532237.com
 0532239.com
-053225.com
-053226.com
-053227.com
 05323.cn
 0532666.cn
 053269.com
@@ -30624,16 +30510,12 @@
 0532zsls.com
 0533.ee
 05331111.com
-053312.com
 053317.cn
 0533178.com
-053319.com
 05331qk.shop
 05332.gs
 0533237.com
 0533239.com
-053326.com
-053327.com
 053332.com
 05333hy.com
 053344.com
@@ -30643,10 +30525,6 @@
 053366.com
 0533666.com.cn
 053369.com
-053372.com
-053375.com
-053379.com
-053387.com
 0533888.cn
 0533cl.net
 0533d.com
@@ -30661,6 +30539,7 @@
 0533jindu.com
 0533jj.com
 0533jp.com
+0533laodong.com
 0533lengku.com
 0533p.com
 0533peixun.com
@@ -31312,6 +31191,7 @@
 0551hw.com
 0551hxq.com
 0551iphone.buzz
+0551jdpf.com
 0551jh.com
 0551jhyy.com
 0551jixie.com
@@ -32221,7 +32101,6 @@
 0572web.com
 0572wh.com
 0572wuliu.com
-0572xy.com
 0572yx.com
 0572zcy.com
 0573.io
@@ -32445,7 +32324,6 @@
 0577237.com
 0577239.com
 057727.com
-057739.com
 0577566cd03e.com
 0577588.com
 05776.cn
@@ -32501,7 +32379,6 @@
 0577shunlai.com
 0577sj.cn
 0577skzx.com
-0577sw.xyz
 0577tg.cn
 0577toy.com
 0577tui.com
@@ -32705,7 +32582,6 @@
 0581.se
 0581068.com
 0581199.com
-05812345.com
 05813478.com
 05815.cn
 05815.ee
@@ -32784,7 +32660,6 @@
 0586533333lt.co.il
 05866.cn
 058663.com
-058665.com
 05867.llc
 0586868.com
 05869.cn
@@ -33008,6 +32883,7 @@
 0592xm.cc
 0592xmfapiao.com
 0592xmly.com
+0592xt.com
 0592xyd.com
 0592y.com
 0592zcgs.com
@@ -33327,7 +33203,6 @@
 059992.com
 059996.com
 059999.xyz
-0599b.com
 0599dh.com
 0599fcw.com
 0599fdc.cn
@@ -33368,6 +33243,7 @@
 059jc.com
 059jc.net
 059jj.com
+059jxw.com
 059kav.com
 059kk.cn
 059ledong.com
@@ -33382,13 +33258,13 @@
 059ren.com
 059rr.com
 059seo.com
-059sf.com
 059sp.com
 059sxjjb.com
 059tc.com
 059th.com
 059tk.com
 059va.com
+059vip.com
 059vv.com
 059ww.com
 059x.cc
@@ -33432,7 +33308,6 @@
 05ai.vip
 05ai.win
 05al.com
-05almaz.ru
 05ambjlw.com
 05ao.com
 05apr1accbiswajit.xyz
@@ -33700,7 +33575,6 @@
 05kpdb.xyz
 05kqxu.cyou
 05krfw.cyou
-05kvartira.ru
 05kvjkvc.xyz
 05kvtv.com
 05ky0r1lj9.com
@@ -34474,7 +34348,6 @@
 061317.xyz
 06132.cn
 061335.com
-061337.com
 06134.in
 061342.com
 06135.site
@@ -34874,13 +34747,11 @@
 0623277.com
 0623288.com
 0623300.com
-062331.com
 0623311.com
 0623322.com
 062334.com
 0623344.com
 0623366.com
-062337.com
 0623377.com
 06233854.com
 0623388.com
@@ -34928,7 +34799,6 @@
 0623900.com
 0623911.com
 0623922.com
-062393.com
 0623955.com
 0623966.com
 0623977.com
@@ -34991,11 +34861,9 @@
 0625511.com
 06255189.com
 0625522.com
-062553.com
 0625533.com
 0625544.com
 0625566.com
-062557.com
 0625577.com
 0625588.com
 0625599.com
@@ -35322,7 +35190,6 @@
 062992.com
 062994.com
 062995.com
-062996.com
 062997.com
 0629bets10.com
 0629pj.com
@@ -35536,7 +35403,6 @@
 063300.xyz
 0633100.com
 06331111.com
-063312.com
 063314.com
 063326.com
 063327.com
@@ -35557,7 +35423,6 @@
 063347.com
 063348.com
 063349.com
-063351.com
 063352.com
 063354.com
 063355.com
@@ -35571,17 +35436,13 @@
 063375.com
 06337w.com
 06338.uk
-063382.com
 063384.com
 063386.com
-063387.com
 063391.com
-063392.com
 063394.com
 063399.com
 0633fkyy.com
 0633idc.cn
-0633info.cn
 0633mv.com
 0633outdoor.com
 0633pj.com
@@ -35816,8 +35677,6 @@
 063760.com
 063763.com
 06377.com
-063772.com
-063776.com
 063777.cn
 063777.com
 063781.com
@@ -35884,7 +35743,6 @@
 063985.com
 06399.cc
 06399.com
-063991.com
 063999.com
 0639tempobet.com
 063a9a45a6a8.com
@@ -36182,6 +36040,7 @@
 06506c.com
 06506w.com
 065077.com
+065080.com
 0651.se
 0651199.com
 065128.com
@@ -36317,7 +36176,6 @@
 06598.net
 065986-infodeliery.xyz
 065986.xyz
-065993.com
 065a.tv
 065a.vip
 065appxj.club
@@ -36472,7 +36330,6 @@
 06626.cn
 066268.com
 066277.com
-066279.com
 06628.cn
 066284.cn
 0662888.com.cn
@@ -36564,7 +36421,6 @@
 066581.com
 066584.com
 066588.com
-066593.com
 066594.com
 0665s.com
 0665tempobet.com
@@ -36692,7 +36548,6 @@
 0668tv.com
 0668tvad.com
 0668u.com
-0668wbq.xyz
 0668wd.com
 0668xdj.com
 0668xqw.com
@@ -36700,9 +36555,7 @@
 0668yy.com
 0669.biz
 0669191.com
-066921.com
 0669292.com
-066931.com
 0669393.com
 066980.com
 066986.com
@@ -36787,7 +36640,6 @@
 067097.com
 0670utlet.com.br
 0671.biz
-067119.com
 0671199.com
 067126.com
 06715022.com
@@ -36900,8 +36752,6 @@
 06797d.com
 06798.cc
 0679874.space
-067992.com
-067995.com
 067998.com
 067a.vip
 067b.com
@@ -36995,7 +36845,6 @@
 0680886.com
 0680pj.com
 0681.se
-068119.com
 068123.com
 06814.at
 06814.pw
@@ -37039,7 +36888,6 @@
 06820y.com
 06820z.com
 06822.cn
-068221.com
 068227.com
 06825.cz
 06828.shop
@@ -37089,6 +36937,7 @@
 068631.com
 068637.com
 068639.com
+06865.cz
 068650.com
 068651.com
 068652.com
@@ -37181,7 +37030,6 @@
 068tempobet.com
 068tt.com
 068ty.com
-068v.com
 068va.com
 068vns.com
 068wan.com
@@ -37220,7 +37068,6 @@
 0691.biz
 0691.nl
 0691.yn.cn
-06910.cn
 06911.co
 0691237.com
 0691239.com
@@ -37245,7 +37092,6 @@
 069200.com
 0692237.com
 0692239.com
-069226.com
 069230.com
 069257.com
 0692666.com
@@ -37261,7 +37107,6 @@
 06931.cn
 069310.com
 069320.com
-069332.com
 0693399907.com
 069342.com
 069350.com
@@ -37291,7 +37136,6 @@
 069530.com
 069535.cc
 06954a.com
-069553.com
 069555.cc
 069555.com
 0695555.com
@@ -37583,7 +37427,6 @@
 06c.vip
 06c131.com
 06c48hgp.cn
-06c5306dbd.com
 06c81e12254127f5.xyz
 06cabi.shop
 06cap.com
@@ -37857,6 +37700,7 @@
 06media.fr
 06mf.com
 06mi.com
+06ming10.com
 06mmp.xyz
 06mni.com
 06mo.com
@@ -38876,11 +38720,13 @@
 0719.app
 0719.cloud
 0719123.xyz
+071914.xyz
 0719140.com
 071922.store
 0719237.com
 0719239.com
 071927.com
+071929.com
 071983.xyz
 071998.com
 0719cn.com
@@ -39411,7 +39257,6 @@
 0731freskin.com
 0731fun.com
 0731games.com
-0731gc.xyz
 0731gg.net
 0731gh.com
 0731gk.com
@@ -39509,11 +39354,8 @@
 0733.tv
 073300.com
 07331111.com
-073316.com
 0733237.com
 0733239.com
-073327.com
-073329.com
 07333131.xyz
 073336.com
 07333kj.com
@@ -39521,13 +39363,9 @@
 07334433.com
 073349.com
 073355.com
-073359.com
-073362.com
-073367.com
 07337.cn
 07337110.com
 0733777.com
-073382.com
 07338458.com
 07339.biz
 073399.com
@@ -40420,6 +40258,7 @@
 0756mc.com
 0756pc.com
 0756qudou.com
+0756ra.com
 0756sms.cn
 0756trip.cn
 0756web.cn
@@ -40482,7 +40321,6 @@
 0757sunke.cn
 0757uaa.com
 0757vr.com
-0757wzjs.com
 0757ye.com
 0757yyb.com
 0757zhaopin.com
@@ -40684,7 +40522,6 @@
 076211.com
 0762111.com
 0762119.com
-076221.com
 0762220.com
 0762237.com
 0762239.com
@@ -40774,15 +40611,12 @@
 07663.tw
 0766520.cn
 0766555.com
-076659.com
 0766633.com
 0766644.com
 076671179.com
 07668.net
 07668.vip
-076682.com
 076683.com
-076697.com
 0766bag.com
 0766city.com
 0766drf.com
@@ -40856,7 +40690,6 @@
 0769886.xyz
 0769900.com
 07699144f7a1.com
-076992.com
 0769922.com
 0769977.com
 0769ab.com
@@ -40893,6 +40726,7 @@
 0769gcyy.com
 0769gf.cn
 0769gongying.com
+0769google.com
 0769gps.com
 0769gs.com
 0769guanggao.com
@@ -41223,11 +41057,12 @@
 0775baidu.com
 0775car.com
 0775house.com
+0775hrgg.com
 0775ht.com
 0775it.com
 0775jb.com
+0775k.com
 0775p.com
-0775peng.com
 0775qiye.com
 0775sh.com
 0775sz.com.cn
@@ -41971,6 +41806,7 @@
 0797bc.com
 0797bdf.com
 0797bdfyy.net
+0797btw.com
 0797car.com.cn
 0797chihuo.com
 0797cjkj.com
@@ -42005,7 +41841,6 @@
 0797snzs.com
 0797sou.com
 0797t.com
-0797t.xyz
 0797taste.com
 0797tianhui.com
 0797u.com
@@ -42458,6 +42293,7 @@
 07magaza.com
 07mall.store
 07manhua.com
+07marsbahis.com
 07media.net
 07menp.cyou
 07mg.top
@@ -43502,6 +43338,7 @@
 0817h.com
 0817hi.com
 0817hua.com
+0817info.com
 0817it.com
 0817jia.com
 0817job.cn
@@ -45665,6 +45502,7 @@
 088chat.top
 088chi.xyz
 088corona.com
+088csb.com
 088d3.cn
 088dd.com
 088defi.com
@@ -45707,6 +45545,7 @@
 088p.cn
 088p80.com
 088pari2bt.xyz
+088pb.com
 088pp.com
 088qq.cn
 088ri.com
@@ -45953,7 +45792,6 @@
 0898jgs.com
 0898jinyongli.com
 0898js.com
-0898jx.cn
 0898jylq.com
 0898kfw.com
 0898lc.com
@@ -46190,7 +46028,6 @@
 08cf.xyz
 08cfylg.com
 08chsp.xyz
-08cj.org
 08ckdt0msb42.xyz
 08ckqq3ins88.xyz
 08cmcm.com
@@ -46723,7 +46560,6 @@
 08zn.com
 08zo.cc
 08zo.com
-08zp.org
 08zr.com
 08zrt.com
 08zu.com
@@ -46888,6 +46724,7 @@
 0903520.com
 090358.com
 090365.net
+090379.com
 09037e.com
 090392.com
 090395.xyz
@@ -47241,7 +47078,6 @@
 0911245826.com
 091126.xyz
 09112974.xyz
-091135.com
 091137.com
 09115.com
 091156.xyz
@@ -47270,7 +47106,6 @@
 09121770797.online
 091221.org
 0912228389.com
-091223.com
 0912237.com
 0912239.com
 09122758.com
@@ -47310,7 +47145,6 @@
 091321.xyz
 0913237.com
 0913239.com
-091336.com
 09133927415.ir
 091342.com
 0913456.com
@@ -47405,7 +47239,6 @@
 091727.com
 091750.com
 0917666.com
-091772.com
 091777.com
 0917862223.tw
 091792.com
@@ -47473,6 +47306,7 @@
 091996.xyz
 091998.com
 0919bbs.cn
+0919jz.com
 0919life.com
 091a.vip
 091ag.com
@@ -47797,8 +47631,6 @@
 092516.com
 092519.com
 09252020.com
-09252021.com
-092521.com
 092535.com
 092536.com
 0925484.com
@@ -48479,7 +48311,6 @@
 0951008.com
 09510k.cn
 0951114.cn
-095112.com
 09511538.com
 0951237.com
 0951239.com
@@ -49766,6 +49597,7 @@
 099ff.com
 099fj.com
 099gg.com
+099h.com
 099han.xyz
 099haxi.com
 099hd.com
@@ -50515,11 +50347,9 @@
 0a6d4da9ec7f.com
 0a6d8.com
 0a6e5df5c503.com
-0a6f0ai.tokyo
 0a6i.com
 0a6k.com
 0a6l.com
-0a6p.me
 0a6pllf.top
 0a700ce2443c.com
 0a70fdbce680.com
@@ -50558,7 +50388,6 @@
 0a9solu.top
 0a9yk7x.shop
 0aa.nl
-0aa0.ru
 0aa2.buzz
 0aa20ef95872.com
 0aa7033d479b7cfa.pw
@@ -50592,7 +50421,6 @@
 0abw08zo.shop
 0ac0a5821f24.com
 0ac2b9.xyz
-0ac4.me
 0ac8pf.com
 0acc9655-28c0-4c48-9d64-5503790ffee4.xyz
 0acca92eee734b7d.com
@@ -50762,12 +50590,10 @@
 0aql08.com
 0aqx.shop
 0ar60g.cyou
-0ar6xzh.tokyo
 0archive.tw
 0areigrungr248.ml
 0argumented492.ml
 0army.io
-0art.ru
 0artsgeek.com
 0arxml0f9.xyz
 0as.at
@@ -50777,7 +50603,6 @@
 0ashdelta.cfd
 0asisx.com
 0askdals10x.monster
-0assfz3.tokyo
 0assvb2c.org
 0astridk.online
 0asualw.vip
@@ -51185,6 +51010,7 @@
 0bm0h0w.cyou
 0bm34m.cyou
 0bm85t.cn
+0bm8h.top
 0bm992.cyou
 0bmedcb.vip
 0bmehd9.cam
@@ -51352,6 +51178,7 @@
 0c.ee
 0c.eu
 0c.gs
+0c.nz
 0c.sk
 0c0.me
 0c04i1cjw.com
@@ -51517,13 +51344,11 @@
 0cc.nu
 0cc.se
 0cc.us
-0cc0.com
 0cc12.com
 0cc33d4161e6e4de25a5a17e61e6d879.xyz
 0cc4ni.cyou
 0cc9.com
 0ccb7aa17cfe.com
-0ccc.ru
 0ccc0.ir
 0ccc64909fbd.com
 0cccd.com
@@ -51533,7 +51358,6 @@
 0ccj.com
 0ccl.shop
 0ccl32.shop
-0ccmedcare.com
 0ccoztnoy.club
 0ccp.com
 0ccpok.com
@@ -52062,6 +51886,7 @@
 0daydown.cn
 0daydown.com
 0daydown.in
+0daydown.net
 0daydown.top
 0dayflix.com
 0dayhack.com
@@ -52389,6 +52214,7 @@
 0druxa.shop
 0dryforkrdwhitescreek.com
 0ds.cc
+0ds.me
 0ds5.com
 0dscdvj.shop
 0dseos.cyou
@@ -52434,7 +52260,6 @@
 0dwuyo.cyou
 0dwv.com
 0dww.rest
-0dwy.com
 0dx.ru
 0dx48.top
 0dxa.xyz
@@ -52565,6 +52390,7 @@
 0e80.com
 0e82.shop
 0e847cfd2b6e.com
+0e88.com
 0e895.com
 0e8c2c0f.club
 0e8c2c0f.com
@@ -52921,6 +52747,7 @@
 0f2o4.xyz
 0f2q.com
 0f2yd5.xyz
+0f3.cc
 0f322bf1f44e.com
 0f333.com
 0f39.com
@@ -53555,6 +53382,7 @@
 0g41.xyz
 0g48qmo08o.xyz
 0g4htf.cyou
+0g4m.com
 0g4v.us
 0g4z.com
 0g51.com
@@ -54921,6 +54749,7 @@
 0k4bla1.shop
 0k4ep3l6fa.com
 0k4m3oh.com
+0k4muv.xyz
 0k4n.co
 0k4rbtvu.shop
 0k4tr.buzz
@@ -55591,7 +55420,6 @@
 0lt6bb.xyz
 0lth9.fun
 0ltk.com
-0ltrep.com
 0ltrub.cyou
 0ltsy.top
 0ltxqbur.xyz
@@ -55939,7 +55767,6 @@
 0moto.com
 0moultong.top
 0movierulz.com
-0mox7a.com
 0mp4ep.cn
 0mp6.cc
 0mp61g.cyou
@@ -56109,6 +55936,7 @@
 0n1ine.com
 0n1moc.top
 0n1projection.com
+0n1qhhl.shop
 0n1qoy.cn
 0n1y.com
 0n1y7v.xyz
@@ -56426,6 +56254,7 @@
 0nhitt.com
 0nhtf5.cyou
 0ni.me
+0ni.xyz
 0ni0n.com
 0ni0n.net
 0ni0n.top
@@ -56539,7 +56368,6 @@
 0nlyfans.nl
 0nlyfans.org
 0nlyfans.sbs
-0nlyfans.xyz
 0nlyhacks.com
 0nlykasaclub.shop
 0nlykasaday.shop
@@ -56918,8 +56746,6 @@
 0ofhxs.shop
 0ofjggr.com
 0ofm7i.icu
-0ofpxcve.cc
-0ofpxcve.com
 0ofwcb4qczi.net
 0og5pz.cyou
 0og7hj.shop
@@ -57133,6 +56959,7 @@
 0oy.net
 0oy6.com
 0oyill.cyou
+0oyjbv9.shop
 0oypxsaal.store
 0oyq.com
 0oytrwl.shop
@@ -58952,7 +58779,6 @@
 0ti8.com
 0ti9t5.com
 0tidsec.com
-0tidx.io
 0tie66.cyou
 0til.com
 0til47q3e0ef.com
@@ -59862,6 +59688,7 @@
 0w.com
 0w.cx
 0w.pw
+0w0-qwq-ewe.click
 0w0.al
 0w0.best
 0w0.bid
@@ -59961,6 +59788,7 @@
 0w6kb.top
 0w6o.cn
 0w6y.shop
+0w7354g.shop
 0w75vx.shop
 0w77.com
 0w789.com
@@ -61277,6 +61105,7 @@
 0x9900.com
 0x9991.top
 0x9b.com
+0x9d.com
 0x9faea87249a4f199928ac64197b439c92711cd.co
 0x9gs.com
 0x9iovd6.com
@@ -61773,7 +61602,6 @@
 0xfffff.com
 0xfffff0.com
 0xffffff.de
-0xfg.top
 0xfi.tech
 0xfind.finance
 0xfintech.com
@@ -61801,7 +61629,6 @@
 0xfund.us
 0xfunds.io
 0xfur.com
-0xfyfm.tokyo
 0xg1tz.shop
 0xgamer.com
 0xgames.co
@@ -61812,6 +61639,7 @@
 0xgen.io
 0xgen.net
 0xggim.cyou
+0xghauy.actor
 0xghosty.com
 0xgigs.com
 0xgingi.com
@@ -61835,7 +61663,6 @@
 0xgyg8.cyou
 0xh.in
 0xh.pw
-0xh0m3r.se
 0xh6we.com
 0xh7c93lg.com
 0xh8ny.cyou
@@ -61942,7 +61769,6 @@
 0xkrypto.se
 0xkydo.xyz
 0xkyosuke.xyz
-0xl.org
 0xl.top
 0xl3b.com
 0xl4b.win
@@ -62241,7 +62067,6 @@
 0xturkey.com
 0xtv.live
 0xu.club
-0xu.top
 0xu2ky.com
 0xu3d6z.cn
 0xu76o.cyou
@@ -62362,7 +62187,6 @@
 0y0y.com.cn
 0y1.de
 0y19p5.shop
-0y1b2.info
 0y1c.com
 0y1jewelrystudio.com
 0y1mbm.xyz
@@ -62818,6 +62642,7 @@
 0zh0.com
 0zh6n.com
 0zhafg.shop
+0zhao.com
 0zhaopin.com
 0zhepwg5.shop
 0zhgx4j.cyou
