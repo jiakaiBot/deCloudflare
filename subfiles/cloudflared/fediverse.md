@@ -2814,6 +2814,7 @@ Here's a list of public Fediverse services.
 | `billyb.org` | No |
 | `billybradley.uk` | No |
 | `billyiii.me` | No |
+| `billys.mom` | Yes |
 | `bim.land` | No |
 | `bimal.link` | Yes |
 | `bimal.social` | Yes |
@@ -7855,6 +7856,7 @@ Here's a list of public Fediverse services.
 | `exdc.net` | No |
 | `exdeck.site` | No |
 | `exercise.cafe` | No |
+| `exerra.xyz` | Yes |
 | `exianote.work` | No |
 | `exile.social` | No |
 | `existentialcrisis.link` | No |
@@ -14341,6 +14343,7 @@ Here's a list of public Fediverse services.
 | `leibfarth.org` | No |
 | `leibniz.pub` | No |
 | `leiden.digital` | No |
+| `leif.pl` | No |
 | `leigh.social` | No |
 | `leingod.space` | No |
 | `leipzig.town` | No |
@@ -16185,7 +16188,7 @@ Here's a list of public Fediverse services.
 | `mastopr.xyz` | No |
 | `mastopub.com` | Yes |
 | `mastoq.com` | No |
-| `mastorol.es` | No |
+| `mastorol.es` | Yes |
 | `mastotn.com` | No |
 | `mastoton.fi` | No |
 | `mastotut.cat` | No |
@@ -30483,7 +30486,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,675 |
+| Cloudflare | 6,678 |
 | Normal | 23,765 |
 
 
