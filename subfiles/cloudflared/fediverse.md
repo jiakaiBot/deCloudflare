@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,400 |
-| social | 2,462 |
-| net | 2,328 |
+| social | 2,463 |
+| net | 2,329 |
 | org | 1,677 |
-| de | 1,528 |
+| de | 1,529 |
 
 
 - Mastodon, Pleroma, etc
@@ -2562,6 +2562,7 @@ Here's a list of public Fediverse services.
 | `begoo.bar` | No |
 | `begovoy.club` | No |
 | `begovoy.social` | No |
+| `behind-the-screens.de` | No |
 | `behmerd.ir` | Yes |
 | `beige.party` | No |
 | `beingoblio.com` | No |
@@ -11030,6 +11031,7 @@ Here's a list of public Fediverse services.
 | `hhhammer.de` | No |
 | `hhome.me` | Yes |
 | `hiauntie.com` | No |
+| `hibi-tsumo.net` | Yes |
 | `hibi.ga` | No |
 | `hibiki.eu` | No |
 | `hibiscus.pink` | No |
@@ -13136,6 +13138,7 @@ Here's a list of public Fediverse services.
 | `kandr3s.co` | No |
 | `kangaroo.to` | No |
 | `kangoulya.org` | No |
+| `kani.social` | No |
 | `kanina.be` | No |
 | `kanni.de` | No |
 | `kannitverstan.eu` | No |
@@ -13277,6 +13280,7 @@ Here's a list of public Fediverse services.
 | `keasti.net` | Yes |
 | `keaton.cool` | No |
 | `keazilla.net` | No |
+| `kebin.ga` | No |
 | `kebot.me` | Yes |
 | `kebree.fr` | No |
 | `kechpaja.com` | No |
@@ -17044,6 +17048,7 @@ Here's a list of public Fediverse services.
 | `misskey.im` | Yes |
 | `misskey.io` | Yes |
 | `misskey.jp` | Yes |
+| `misskey.life` | Yes |
 | `misskey.lol` | No |
 | `misskey.love` | No |
 | `misskey.ml` | No |
@@ -30538,8 +30543,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,693 |
-| Normal | 23,802 |
+| Cloudflare | 6,695 |
+| Normal | 23,805 |
 
 
-### 21.9% of public Fediverse services are using Cloudflare.
+### 22% of public Fediverse services are using Cloudflare.
