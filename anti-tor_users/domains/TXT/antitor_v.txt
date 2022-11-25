@@ -27,8 +27,6 @@ visiblemeasures.com
 vistoolr.net
 vn88club.net
 vnq73.com
-vnr82.com
-vnr83.com
 vocco-escort.com
 vohhall71.com
 vohhall91.com
@@ -748,9 +746,11 @@ discourse.magicebooking.view-manager.com
 dossier.vdshincasso.nl
 download.videolan.org
 dpeto-discord.vercel.app
+dualtest.vendo.at
 e1prod2-web1.prod.vitalconnect.com
 ekycbidvsthgw.vnpaytest.vn
 en.vaccines-facts.info
+enrsvc-mib2high.qs.vwg-connect.com
 external.pm.virginmedia.ie
 facebookaccountsecurity.vizvaz.com
 fad.vsp.com
@@ -778,6 +778,7 @@ git.git.git.gtest.zmail.vossbryggeri.com
 git.git.git.wallet.volga-arena.ru
 git.git.gtest.zmail.vossbryggeri.com
 gmails.vossbryggeri.com
+gnusocial.villanos.net
 hackcovid.vercel.app
 hcp3csaccdpreg-5a.prd.eu.vwg.vwautocloud.net
 heli-prod.vt-fls.com
@@ -831,7 +832,9 @@ payments.vantivprelive.com
 pds.volkswagen.de
 pf.vercel.app
 pos.vouchagram.com
+producedatahubservices.volvo.com
 ps-automation-update-preview.virtual-spaces.de
+public-ocpp.batterypack-ocpp.prod-backend.vdbinfra.nl
 qaapi4.vivanda.com
 raketun.co.ip.vollaeity.shop
 recaptcha-mr-public.rete.c1.vanguard.com
@@ -860,6 +863,7 @@ smartapi.vesync.com
 sportcenter.vicomstudio.com
 sps.vungtau.su
 steam.vrroom.nl
+steampoweredcat.vercel.app
 streaming-ssr-deep-dive.vercel.app
 sync.viadata.store
 system.vshub.com
@@ -874,8 +878,11 @@ trusted-s.us.hsbc.com.prod.na.dynp.cloud1.vv1865.com
 untubvaostalbus.vin09.info
 update11.videosintimes.com
 update1811.videosintimes.com
+update2411.votreintimite.com
 v-academy.id
 vaanitech.com
+vaccine.cf
+vaccinelpgrx.us
 vaccinesandsociety.com
 vaccinesandsociety.com.vaccinesandsociety.org
 vaccinesandsociety.org
@@ -887,6 +894,7 @@ valdemarhoiris.dk
 valorasecurity.cl
 vanadzorpost.com
 vandoornsupport.nl
+vanillinframe.com
 vankids.co.kr
 vardochhalsa.vgregion.se
 varietal-literature.ca
@@ -913,13 +921,16 @@ verify-0nlineinfo.ga
 verify-account231-amazon.com
 verify-appld.org
 verify-bankofamerica.com
+verify-bendigobank-id.com
 verify-malta.com
 verify-mywellsfargo-account76r.com
+verify-rbfcu-account.com
 verifydelivermart.com
 verifysuccessful.com
 verifytodaynow.com
 verifywhatsapp.net
 vermontbiz.com
+vermontelectricalservice.com
 veronicabadea.com
 veronmoney.com
 versas-fukushi.com
@@ -945,6 +956,7 @@ viergeverclan.nl
 viesti.fi
 viewpointvancouver.ca
 vihrealippu.fi
+vijayabank.co
 vijayacentral.com
 vikings-media.dk
 viktoriyagotseva.com
@@ -990,8 +1002,10 @@ vodiscord.vercel.app
 voices.media
 voicesofvr.com
 voidacoustics.ro
+volcano-services.net
 voltafa.org
 voltedu.com
+vonexplaino.com
 voteojeda.com
 voxticket.vox-power.com
 voyagebaltimore.com
@@ -1002,6 +1016,8 @@ vrf-primemembership.com
 vrfcustm-details.com
 vro.vn
 vsc-library.org
+vsp-palvelut.fi
+vtest314-61niuhg4ydks1hfgnvvu.vercel.app
 vtest314-cahj6gwweznekdcszdj1.vercel.app
 vulturrorp.tk
 vuprom.com
@@ -1025,6 +1041,7 @@ www.actividad3.venturapp.com
 www.affirmverification.valsorsac.com
 www.akademi.verymoney.com
 www.akademi2.verymoney.com
+www.alarmausa.ro.s2.veziv.ro
 www.anggi--billy.viding.co
 www.appleidapple.apple.verifylocation.live
 www.areadocliente.verbio.com.br
@@ -1114,11 +1131,14 @@ www.vivino.com
 www.vlacomcbs.com
 www.vmaj.jp
 www.vnwpod.de
+www.volcano-services.net
 www.voltrafficsupport.nl
 www.vortexshippingservice.com
 www.votre-colis-chronopost.fr
 www.voxweb.nl
 www.vpnsoftwares.com
+www.vrijschrift.org
+www.vsas.org
 www.vseinc.com
 www.vtcng.com
 www.vtechda.com
