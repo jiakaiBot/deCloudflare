@@ -25,6 +25,7 @@ cloudflareresolve.com
 cloudflarespeedtest.com
 cloudflaressl.com
 cloudflarestatus.com
+cloudflarestorage.com
 cloudflaresupport.com
 cloudflarewarp.com
 cloudflareworkers.com
@@ -33,6 +34,7 @@ every1dns.net
 mycloudflare.com
 one.one
 pacloudflare.com
+pages.dev
 trycloudflare.com
 warp.plus
 workers.dev
