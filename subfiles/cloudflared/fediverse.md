@@ -411,6 +411,7 @@ Here's a list of public Fediverse services.
 | `60chequersavenue.net` | No |
 | `616.earth` | Yes |
 | `616.one` | No |
+| `619.fm` | Yes |
 | `619.zone` | Yes |
 | `62x54r.ru` | No |
 | `64.re` | No |
@@ -15988,7 +15989,7 @@ Here's a list of public Fediverse services.
 | `mastodon-lyontech.fr` | No |
 | `mastodon-nagano.info` | No |
 | `mastodon-network.com` | No |
-| `mastodon-nieuwspaal.nl` | No |
+| `mastodon-nieuwspaal.nl` | Yes |
 | `mastodon-nrw.de` | Yes |
 | `mastodon-omoshiro.com` | No |
 | `mastodon-robamimi.club` | No |
@@ -17271,7 +17272,7 @@ Here's a list of public Fediverse services.
 | `mnwsngk.info` | No |
 | `mo-na.space` | No |
 | `mo.tt` | No |
-| `moa.st` | No |
+| `moa.st` | Yes |
 | `moar.wine` | No |
 | `moarrensis.org` | Yes |
 | `mob-con.com` | No |
@@ -18563,7 +18564,7 @@ Here's a list of public Fediverse services.
 | `nervestaple.com` | No |
 | `nes.sh` | Yes |
 | `nesakko.xyz` | No |
-| `neshura-server.net` | No |
+| `neshura-server.net` | Yes |
 | `neso.page` | Yes |
 | `neso.tech` | No |
 | `nesohub.org` | No |
@@ -19836,7 +19837,7 @@ Here's a list of public Fediverse services.
 | `openlogicproject.org` | No |
 | `openlook.ch` | No |
 | `openmandriva.org` | No |
-| `openmic.day` | No |
+| `openmic.day` | Yes |
 | `openmtx.com` | Yes |
 | `openmw.org` | Yes |
 | `opennerds.org` | No |
@@ -19923,6 +19924,7 @@ Here's a list of public Fediverse services.
 | `ordim.info` | No |
 | `ordinal.garden` | No |
 | `ordinarius-fectum.net` | No |
+| `ordinary.cafe` | Yes |
 | `ordoevangelistarum.com` | Yes |
 | `ordu.re` | Yes |
 | `orebro.online` | No |
@@ -29900,7 +29902,7 @@ Here's a list of public Fediverse services.
 | `xn--hlzchen-90a.net` | No |
 | `xn--hresiar-mxa.ch` | No |
 | `xn--ipwu70e9hg.com` | No |
-| `xn--j5r817a.com` | No |
+| `xn--j5r817a.com` | Yes |
 | `xn--kck8cn1l.ninja` | No |
 | `xn--kckk1cy297bor8a.jp` | No |
 | `xn--knallgrn-c5a.space` | No |
@@ -30696,8 +30698,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,744 |
-| Normal | 23,909 |
+| Cloudflare | 6,751 |
+| Normal | 23,904 |
 
 
 ### 22% of public Fediverse services are using Cloudflare.
