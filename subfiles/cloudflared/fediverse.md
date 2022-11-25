@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,392 |
-| social | 2,454 |
+| social | 2,452 |
 | net | 2,322 |
 | org | 1,675 |
 | de | 1,527 |
@@ -7194,7 +7194,6 @@ Here's a list of public Fediverse services.
 | `eduardocollado.com` | No |
 | `education.fr` | No |
 | `educator.social` | No |
-| `educhat.social` | No |
 | `educity.asia` | No |
 | `educoop.coop` | No |
 | `edufor.me` | No |
@@ -24398,7 +24397,6 @@ Here's a list of public Fediverse services.
 | `smashnet.de` | No |
 | `smatodon.net` | No |
 | `smbcc.org` | Yes |
-| `smbi.community` | Yes |
 | `smc.li` | Yes |
 | `smc62.com` | No |
 | `smcm.xyz` | Yes |
@@ -29362,7 +29360,6 @@ Here's a list of public Fediverse services.
 | `woodplate.club` | No |
 | `woof.group` | No |
 | `woof.tech` | No |
-| `woofy.social` | No |
 | `woogmbh.cc` | Yes |
 | `woojinkim.org` | Yes |
 | `woolly.world` | No |
@@ -30486,8 +30483,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,678 |
-| Normal | 23,765 |
+| Cloudflare | 6,677 |
+| Normal | 23,763 |
 
 
 ### 21.9% of public Fediverse services are using Cloudflare.
