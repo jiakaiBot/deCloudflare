@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,400 |
 | social | 2,463 |
-| net | 2,329 |
+| net | 2,328 |
 | org | 1,677 |
 | de | 1,529 |
 
@@ -2562,7 +2562,6 @@ Here's a list of public Fediverse services.
 | `begoo.bar` | No |
 | `begovoy.club` | No |
 | `begovoy.social` | No |
-| `behind-the-screens.de` | No |
 | `behmerd.ir` | Yes |
 | `beige.party` | No |
 | `beingoblio.com` | No |
@@ -7931,6 +7930,7 @@ Here's a list of public Fediverse services.
 | `eyufx.com` | No |
 | `ez-design.net` | No |
 | `eza.link` | No |
+| `ezbox.co` | No |
 | `ezdog.press` | No |
 | `ezhevita.dev` | Yes |
 | `ezix.org` | Yes |
@@ -7998,6 +7998,7 @@ Here's a list of public Fediverse services.
 | `fair-verhandeln.de` | No |
 | `fair.tube` | No |
 | `fairbairn.cloud` | No |
+| `fairdinkum.one` | Yes |
 | `fairground.moe` | No |
 | `fairilu.net` | No |
 | `fairpoints.social` | No |
@@ -9071,6 +9072,7 @@ Here's a list of public Fediverse services.
 | `friedbumblebees.com` | No |
 | `friede.cc` | No |
 | `friedhofstrasse.ch` | No |
+| `friediversum.de` | No |
 | `friedresistors.com` | No |
 | `friend-book.org` | No |
 | `friend-families.com` | No |
@@ -11031,7 +11033,6 @@ Here's a list of public Fediverse services.
 | `hhhammer.de` | No |
 | `hhome.me` | Yes |
 | `hiauntie.com` | No |
-| `hibi-tsumo.net` | Yes |
 | `hibi.ga` | No |
 | `hibiki.eu` | No |
 | `hibiscus.pink` | No |
@@ -13280,7 +13281,6 @@ Here's a list of public Fediverse services.
 | `keasti.net` | Yes |
 | `keaton.cool` | No |
 | `keazilla.net` | No |
-| `kebin.ga` | No |
 | `kebot.me` | Yes |
 | `kebree.fr` | No |
 | `kechpaja.com` | No |
@@ -13381,6 +13381,7 @@ Here's a list of public Fediverse services.
 | `kevinwhalen.org` | No |
 | `kevjack.eu` | No |
 | `kevlar.cloud` | No |
+| `kevnet.cloud` | No |
 | `kevq.uk` | No |
 | `kevread.fr` | No |
 | `keybird.net` | No |
@@ -16432,7 +16433,7 @@ Here's a list of public Fediverse services.
 | `mdunn.io` | No |
 | `mean.engineer` | No |
 | `measure.chat` | Yes |
-| `meatbag.app` | No |
+| `meatbag.app` | Yes |
 | `meatball.lol` | No |
 | `meatpi.es` | No |
 | `meawchill.xyz` | No |
@@ -17048,7 +17049,6 @@ Here's a list of public Fediverse services.
 | `misskey.im` | Yes |
 | `misskey.io` | Yes |
 | `misskey.jp` | Yes |
-| `misskey.life` | Yes |
 | `misskey.lol` | No |
 | `misskey.love` | No |
 | `misskey.ml` | No |
@@ -23601,6 +23601,7 @@ Here's a list of public Fediverse services.
 | `sd.ai` | Yes |
 | `sda1.net` | Yes |
 | `sdc.su` | Yes |
+| `sddn.space` | Yes |
 | `sdeu.fr` | No |
 | `sdevents.fi` | No |
 | `sdf.land` | Yes |
@@ -30482,6 +30483,7 @@ Here's a list of public Fediverse services.
 | `zsemberi.de` | No |
 | `zsh.li` | Yes |
 | `zsiegel.social` | Yes |
+| `zspn.me` | Yes |
 | `zteo.com` | Yes |
 | `ztn.sh` | Yes |
 | `ztrl.de` | No |
@@ -30543,7 +30545,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,695 |
+| Cloudflare | 6,697 |
 | Normal | 23,805 |
 
 
