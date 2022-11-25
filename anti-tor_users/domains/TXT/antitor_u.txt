@@ -307,13 +307,16 @@ www2.aplusk.co.jpbvcb5vh6hjb4.uqfp.cn
 www2.aplusk.co.jpbvcb5vh6hjb4.uqhs.cn
 zh.updates.international
 301usgovvirginia1175221.blob.core.usgovcloudapi.net
+51008.l.useitbetter.com
 accom.uinterbox.com
 apass-p.usj.co.jp
 api.und-gesund.de
 apitst.upmchp.com
+app-comptenickelprive.utile-accesnickelfr.fr
 app-uxxiappdemo-lp.uxxi.net
 app.uob.com.sg
 apps.uniprime.com.br
+apps.uvshield.my
 auth-support.usln.rocks
 auth.userlane.com
 avanan.url-protection.com
@@ -332,6 +335,7 @@ campusvirtual.urosario.edu.co
 canvas.utwente.nl
 cas.uditracker.biz
 cd.unistream.io
+cefsqa02.ubstest.com
 cev.uhhospitals.org
 cful.letras.ulisboa.pt
 click.news.uhcmedicaresolutions.com
@@ -348,6 +352,7 @@ cpcontacts.umail.business
 cridaq.uqam.ca
 cti.uncoder.io
 da.ultra-as.com
+dandurand.uqam.ca
 dashboardcovidbrasil.di.uern.br
 demo.utilibill.com.au
 demo3.utilibill.com.au
@@ -361,6 +366,7 @@ files.usertygflkmd.tk
 fis-test.unicon-intl.com
 forcepointdss.upl-ltd.com
 forum.umbandaeucurto.com
+gateway.ovid.com.remotexs.unimas.my
 git.ufcontrol.com
 gpu.unimedmineiros.coop.br
 guiaempresas.universia.es
@@ -368,6 +374,7 @@ homedav.unifr.ch
 i-api.uni-sofia.bg
 identity.unimas.my
 ieim.uqam.ca
+ines.zfn.uni-bremen.de
 ivsapi-cat.usps.gov
 japan.dev.sumitomo-rearchitecture.undpaul.work
 jenkins.devops.uta.com
@@ -384,13 +391,18 @@ mail.ucebol.edu.bo
 media.dcd.uscourts.gov
 milyon.universite-lyon.fr
 monitor.cs.uni-koeln.de
+mtlsibanking.unitybank.com.au
 mybcabisnis-api.u-appspecto.com
 mybcabisnis.u-appspecto.com
 mypaid.updatedvpn.xyz
 nectr.utilibill.com.au
 o.upgradegroup.com
 obikn.u-appspecto.com
+ocpp-onedotsix-rsa-k8s-staging-01.ubitricity.com
+ols-q3.onesourcesso.ubstest.com
+ols-u3.onesourcesso.ubstest.com
 onevideosync.uplynk.com
+ovidsp.ovid.com.remotexs.unimas.my
 partner.cde.uat-upswing.one
 pay.uralairlines.ru
 paypal0.uber.space
@@ -445,8 +457,10 @@ ukrpost.org
 ulisses-spiele.de
 ultimatediscordentertainment.com
 ultrasecurity.ro
+ultratechcemtrack.com
 ulysse31soundtrack.com
 umbrellasecurity.fr.umbrellahost.fr
+unarclient.com
 uncatolicoperplejo.com
 uncomics.org
 uncut.wtf
@@ -460,6 +474,7 @@ unimastin.com
 unionbank-ng.com
 unipower.se
 unipro-note.net
+unired.net.ni
 uniserv-federation.com
 unitil.com
 unitransservice.com
@@ -473,6 +488,7 @@ uokik.gov.pl
 up.unum.pl
 upagraha.info
 uparjon.in
+update-info.org
 update-tarif-transaksi-bank.my.id
 update48451.xyz
 updatecom.co
@@ -482,6 +498,7 @@ updatepakjob.com
 updateromx.us
 updates1india.com
 updatesjobs.com
+updateworld24.com
 uplangreo.es
 ups-delivery1.ca
 upscan.cd
@@ -492,6 +509,7 @@ urgente.eu
 urgenthelpers.com
 uriahheep-discography.com
 urlynet.com
+urologin.at
 uruguaycardioseguro.com
 us-estimation.com
 usa-trip.be
@@ -581,6 +599,7 @@ www.ticket01.usatodayhs.com
 www.tmc.fm.usermd.net
 www.today.update-sports.com
 www.uci.cu
+www.ui.ac.id
 www.ukmilitarymentors.co.uk
 www.ukrn.org
 www.ukrpost.org
@@ -604,12 +623,15 @@ www.update-bilnet-details.com
 www.update-tarif-transaksi-bank.my.id
 www.update3auf3.unna-server.de
 www.update706.ml
+www.updateworld24.com
 www.uph.de
 www.upmedia.mg
 www.urbanfantasist.com
 www.urbansafety.ro
 www.urlc.online
+www.urologin.at
 www.uscp.gov
+www.usdirectexpress.com
 www.user.ultmustrade.com
 www.usercitizensbank.ga
 www.usereluz.com
@@ -631,6 +653,8 @@ www.winners.uncc-claims.com
 www.worldtv.update-sports.com
 www.zymark.updatedvpn.xyz
 xpress.usremotedeposit.com
+xyz-onesourcesso-qa3.ubstest.com
+xyz-wmap-q3.onesourcesso.ubstest.com
 adb.zuv.uni-heidelberg.de
 special.usps.com
 ukrainians.fi
