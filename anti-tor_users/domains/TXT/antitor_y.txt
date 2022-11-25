@@ -60,7 +60,6 @@ music.yandex.ru
 navidrome.yjlcc.cc
 openweb.jac.yahoosandbox.com
 ov.youbuy.com
-paket.yazilimvadisi.net
 pos.yesgrp.com
 qa.yalamanchili.in
 rakuitan-japan-jp.yasumari.com
@@ -140,6 +139,7 @@ aepsrupayuat.yesbank.in
 alacon-nex-ion.go.yj.fr
 api.tietopalvelu.ytj.fi
 applycc.yesbank.in
+approach.yahoo.co.jp
 argocd-inl.yjtech.tw
 asr-stream-covid19.yating.tw
 auth.youtubethumbs.pics
@@ -156,6 +156,7 @@ cdn.hss.youforce.biz
 cert.backoffice.yape.com.pe
 coinbase-pro-login-account.yahoosites.com
 colporluxgluxtr.go.yj.fr
+common-api-eu-cf.yepgarage.com
 czzxvzx.ybqkww.shop
 git.git.covid19.youhollywood.com
 git.git.git.git.goffice365.yalecarolinas.com
@@ -173,9 +174,13 @@ panel.yayadelivery.com
 paperlesspayroll.yonkersny.gov
 portaladminauth.yellow-cab.nl
 python-github-calendar-api.yylemon.top
+rakuten-japan-ja-cojp.ygihplhczxv99.cn
 s.yimg.jp
 s.youtube.com
+sba.yandex.net
 secure-dinamica.go.yj.fr
+service08-stage.yalar.se
+service09-stage.yalar.se
 services.yuntrack.com
 ssl.ybmky.com
 stag-emails.yachtsbt.com
@@ -222,6 +227,7 @@ yayanadriano.web.id
 ybaautoservice.ro
 ybx-test.yahoo.co.jp
 yc-loyalty-ke.stage.apac.yaradigitallabs.io
+yee.com
 yefi.site
 yennspic.com
 yensaoantruongtho.com
