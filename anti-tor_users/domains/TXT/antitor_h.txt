@@ -362,7 +362,6 @@ hyouikuukan.com
 hypensquare.net
 hyperscore.net
 hyperstudio.es
-hypnodebblegov247ca.com
 i9api.hiretech.com
 ids.hsbcnet.com
 ie-dyno-funnel.herokai.com
@@ -679,6 +678,7 @@ api.hapiuta.jp
 api.heedy.app
 api.hicapitalize.com
 api.hoaresbank.co.uk
+api.hyperlex.fr
 app.hntbridge.io
 appapi.hipay.mn
 asp.hotel-story.ne.jp
@@ -703,6 +703,8 @@ brick-dynos-proxy-na-dev.herokuapp.com
 bydbach.hcommons.org
 caddy.caddytest.heylogin.dev
 campus.hertie-school.org
+captcha.hakros.com
+channel.happyeasygo.com
 chylous-bwr.herokuapp.com
 cicilline.house.gov
 cignaint.hepsiian.com
@@ -726,7 +728,9 @@ cpcontacts.hexaputramandiri.com
 cpcontacts.hotelservices.tk
 craig.house.gov
 crm.hairoil12grow.xyz
+d365-sg.test.hihonor.com
 demo.huloop.ai
+deuteranopic-soupcon.herokuapp.com
 dev.horeca-service.com
 dev2.etc.hataluck.jp
 dex.cct-b3.users.h-da.cloud
@@ -805,6 +809,7 @@ hannuoskala.fi
 hans-peter-reger.de
 hansverhijdenoefen.nl
 hanswijnhoven.nl
+happy-dollar.site
 happy-family-radio.de
 happysenior.asia
 harasagm.com.br
@@ -849,6 +854,7 @@ heckle.scot
 hedgehogcycling.co.uk
 hejprosper.dk
 helfrich.ca
+helloanselm.com
 heloborneo.com
 help-fb.net
 help-secure.ga
@@ -871,11 +877,13 @@ heracle.net
 herald-review.com
 heraldcourier.com
 herbalap.com
+herbs.org.nz
 heritageparty.org
 hermindajaramillo.cl
 hero-finance.com
 hetutrechtsarchief.nl
 heyjackass.com
+hfm-wuerzburg.de
 hgarden.net
 hgicecream.com
 hh-malerservice.dk
@@ -960,12 +968,14 @@ huntertechnology.it
 huntervalleywineries.com
 hunterword.com
 huntgreece.eu
+huntingeyetrading.com
 huntingtonsupport.ga
 huskerextra.com
 hwxcbd.com
 hydal.com
 hydroblok.cl
 hypersports.com.br
+hyundai.mg
 iccm.hanabank.com
 identity.healthadvocate.com
 idp2.hvidovre.dk
@@ -973,6 +983,7 @@ inefficiency-dr-2191-update-client-pricelist.ddl.hathor.cc
 inefficiency-dr-2616-refactor-fund-paypal-requests.ddl.hathor.cc
 iwiki.hetzner.company
 jalanjalanjohornow.harapan.club
+japanned.hcommons.org
 jasonsimpson204432.hatenablog.com
 kernelserver.prod.haloplus.io
 klanten.highticketklanten.nl
@@ -1024,6 +1035,7 @@ preview.howtoverify.info
 publicapistability-logonapplic.herokuapp.com
 publishingcrossroads.hcommons.org
 raiza-js.herokuapp.com
+rakuten-japan-ja-cojp.hvnpewn.cn
 re-peza.hatenablog.com
 rectificationserverless-config.herokuapp.com
 report.hipay.co.kr
@@ -1037,6 +1049,7 @@ satogolesehub-oftechnologymant.herokuapp.com
 sba.hrcms.co.kr
 sbawc.hrcms.co.kr
 search.hcl.com
+secure.humairaidrees.com
 seguridad.habbo-nft.es
 serieas.hiwaymedia.it
 sfaservicedev.havells.com
@@ -1049,6 +1062,7 @@ spamaster1.cloud10.hostingpalvelu.fi
 spciq-sfdc-app-prd-30.herokuapp.com
 spciq-sfdc-app-tst.herokuapp.com
 spiritweb.health.mo.gov
+sportsrent-backend.herokuapp.com
 srps.hstu.ac.bd
 sso.havells.com
 st01-dyno-funnel.runtime.herokai.com
@@ -1068,6 +1082,7 @@ team.hcommons.org
 test-cert-manager.pdicloud-test.azure-k8s.haufe.io
 test-le-svc-conn-google.herokuapp.com
 test.heugenhauser.at
+test.hongo-japan.jp
 test.hotelbristol.no
 tickets.homebaselab.hu
 touch-vodafone-uk-variazioni-vodafone-it.hackbanks.com
@@ -1121,6 +1136,7 @@ www.hansikagoaescorts.com
 www.hansrepairservice.com
 www.hansvanleuven.nl
 www.happybirthdayshandy.org
+www.happyestudio.com
 www.harbourdev.com
 www.hargroveinc.com
 www.harmonycentral.com
@@ -1192,6 +1208,7 @@ www.hsbc-verification-malta.com
 www.hsp-inc.com
 www.hsq.nyc
 www.hss.de
+www.hugopost.net
 www.huguesross.net
 www.huisvanhetboek.nl
 www.humanescorts.com
@@ -1199,6 +1216,7 @@ www.hunchhunter.com
 www.hunter-booksandmails.de
 www.hunterandcollector.com
 www.hunterandlaine.com
+www.hunterbeebe15.com
 www.hunterbragg.art
 www.hunterhandmadeco.com
 www.hunterheatingcooling.com
@@ -1234,6 +1252,7 @@ www.restore.helloplace.com.br
 www.rooksheath.harrow.sch.uk
 www.secure.hbcholdingsbk.com
 www.secure.hsbcholdingsbk.com
+www.secure.humairaidrees.com
 www.securitystore.helilar.xyz
 www.service.helioswelds.com
 www.staff.hs-mittweida.de
@@ -1241,8 +1260,14 @@ www.statecontinentalbank.hhsonlines.com
 www.training.hack2secure.com
 www.uat.services.healthcode.co.uk
 www.user.hextragainers.com
+www.users.hextragainers.com
 www2.online-banking.business.hsbc.com.hk
+wyze.herokuapp.com
+wyzeio-staging.herokuapp.com
+wyzeio.herokuapp.com
+wyzer2.herokuapp.com
 yomiuri.hakko-ar-vr.com
+zads.herokuapp.com
 coronavirus.house.gov
 hadfnews.ps
 hanoimobile.vn
