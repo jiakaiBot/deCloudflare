@@ -8892,6 +8892,7 @@ Do not create new issue or we will close it as duplicate.
 | [SimranG39906146@twitter](https://twitter.com/SimranG39906146/status/1400837970656067593) | advertise |
 | [simultsop@twitter](https://twitter.com/simultsop/status/1387457851392733190) | advertise |
 | [Sinan81202980@twitter](https://twitter.com/Sinan81202980/status/1493619633798418434) | advertise |
+| [sincler333@twitter](https://twitter.com/sincler333/status/1596507233080463360) | advertise |
 | [sincze@twitter](https://twitter.com/sincze/status/1379491017389391876) | advertise |
 | [sinhaankur@twitter](https://twitter.com/sinhaankur/status/1395431003284377600) | advertise |
 | [Sinhdao9999@twitter](https://twitter.com/Sinhdao9999/status/1552739639227609088) | advertise |
