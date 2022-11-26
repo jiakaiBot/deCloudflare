@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,450 |
-| social | 2,497 |
-| net | 2,348 |
+| social | 2,500 |
+| net | 2,349 |
 | org | 1,695 |
 | de | 1,538 |
 
@@ -7220,6 +7220,7 @@ Here's a list of public Fediverse services.
 | `echoz.io` | No |
 | `echty.de` | No |
 | `echus.net` | Yes |
+| `ecitizen.my.id` | Yes |
 | `eclectic.gay` | No |
 | `eclecticshock.com` | No |
 | `eclesia.space` | No |
@@ -9796,6 +9797,7 @@ Here's a list of public Fediverse services.
 | `gekritzel.at` | No |
 | `geldmacher.io` | No |
 | `gelez.xyz` | No |
+| `geloofsvoer.nl` | Yes |
 | `gelotte.dev` | No |
 | `gelse.eu` | No |
 | `gelt.cz` | No |
@@ -12773,6 +12775,7 @@ Here's a list of public Fediverse services.
 | `jgachelin.fr` | No |
 | `jgaskins.wtf` | No |
 | `jgregorymcverry.com` | No |
+| `jhewitt.net` | Yes |
 | `jhilgert.de` | No |
 | `jhnc.me.uk` | No |
 | `jianghupl.com` | No |
@@ -17109,6 +17112,7 @@ Here's a list of public Fediverse services.
 | `minihost.ovh` | No |
 | `minimal.blue` | No |
 | `minimal.click` | No |
+| `minimal.social` | No |
 | `minimalstate.dev` | No |
 | `minimmill.com` | No |
 | `miningpro362.xyz` | Yes |
@@ -19967,6 +19971,7 @@ Here's a list of public Fediverse services.
 | `opsnotice.xyz` | Yes |
 | `opsone.social` | No |
 | `opticor.digital` | Yes |
+| `optimus.ovh` | Yes |
 | `optional.page` | No |
 | `optoutpod.com` | No |
 | `oracleclyde.com` | No |
@@ -23399,6 +23404,7 @@ Here's a list of public Fediverse services.
 | `saladisdead.com` | Yes |
 | `salamandar.fr` | No |
 | `salaryman.space` | No |
+| `salas.social` | No |
 | `salastil.com` | Yes |
 | `salecroix.fr` | No |
 | `salesforce.social` | No |
@@ -25968,6 +25974,7 @@ Here's a list of public Fediverse services.
 | `syo.tokyo` | No |
 | `syoriken.org` | No |
 | `syosetu.social` | No |
+| `syringa.social` | Yes |
 | `syrup.zone` | No |
 | `sysad.ninja` | No |
 | `sysadmins.zone` | Yes |
@@ -30827,8 +30834,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,796 |
-| Normal | 23,988 |
+| Cloudflare | 6,801 |
+| Normal | 23,990 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
