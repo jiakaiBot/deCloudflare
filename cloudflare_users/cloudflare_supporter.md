@@ -1066,6 +1066,7 @@ Do not create new issue or we will close it as duplicate.
 | [austinphyo@twitter](https://twitter.com/austinphyo/status/1394898571476930560) | advertise |
 | [austria_ferlyn@twitter](https://twitter.com/austria_ferlyn/status/1480204860737810432) | advertise |
 | [Austynjohnson51@twitter](https://twitter.com/Austynjohnson51/status/1561195515500429312) | advertise |
+| [Automati18@twitter](https://twitter.com/Automati18/status/1596582995707977728) | advertise |
 | [autopalvelut@twitter](https://twitter.com/autopalvelut/status/1407036600136126475) | advertise |
 | [auto_tue@twitter](https://twitter.com/auto_tue/status/1513499048569114624) | advertise |
 | [Autumna688@twitter](https://twitter.com/Autumna688/status/1519704867501219840) | advertise |
@@ -1475,6 +1476,7 @@ Do not create new issue or we will close it as duplicate.
 | [BonaErwin@twitter](https://twitter.com/BonaErwin/status/1488978738066771974) | advertise |
 | [BonfireZone@twitter](https://twitter.com/BonfireZone/status/1432302355488329733) | advertise |
 | [bonguyn29688521@twitter](https://twitter.com/bonguyn29688521/status/1402308865257918465) | advertise |
+| [BonifaceVivo@twitter](https://twitter.com/BonifaceVivo/status/1596592029613424640) | advertise |
 | [BoNusT_14@twitter](https://twitter.com/BoNusT_14/status/1381775064530513923) | advertise |
 | [BoNyan12573044@twitter](https://twitter.com/BoNyan12573044/status/1389649229908377601) | advertise |
 | [bookingraza@twitter](https://twitter.com/bookingraza/status/1379835928525467650) | advertise |
@@ -3834,6 +3836,7 @@ Do not create new issue or we will close it as duplicate.
 | [Huyhoanghuynh05@twitter](https://twitter.com/Huyhoanghuynh05/status/1388289129624981505) | advertise |
 | [HUYHOANGLAVN@twitter](https://twitter.com/HUYHOANGLAVN/status/1580707897066938368) | advertise |
 | [huyjunior1@twitter](https://twitter.com/huyjunior1/status/1518422399389413376) | advertise |
+| [huykhenh969@twitter](https://twitter.com/huykhenh969/status/1596591666751672320) | advertise |
 | [HuyL68129865@twitter](https://twitter.com/HuyL68129865/status/1398308580957122564) | advertise |
 | [huylba123@twitter](https://twitter.com/huylba123/status/1397769207337558023) | advertise |
 | [HuyLe12798601@twitter](https://twitter.com/HuyLe12798601/status/1400069776408338432) | advertise |
@@ -7820,6 +7823,7 @@ Do not create new issue or we will close it as duplicate.
 | [pmhkyaw@twitter](https://twitter.com/pmhkyaw/status/1389977831820521472) | advertise |
 | [PMkkFAuQ7xV8tcT@twitter](https://twitter.com/PMkkFAuQ7xV8tcT/status/1577236798790459393) | advertise |
 | [Pmmv9@twitter](https://twitter.com/Pmmv9/status/1395317642685190147) | advertise |
+| [PMukarno@twitter](https://twitter.com/PMukarno/status/1596597572956835840) | advertise |
 | [PMWizards_com@twitter](https://twitter.com/PMWizards_com/status/1511750154835177479) | advertise |
 | [PNKPND1@twitter](https://twitter.com/PNKPND1/status/1408101550552199170) | advertise |
 | [pnsxmm@twitter](https://twitter.com/pnsxmm/status/1457586213062205449) | advertise |
