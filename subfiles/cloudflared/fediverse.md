@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,445 |
+| com | 4,447 |
 | social | 2,494 |
 | net | 2,346 |
 | org | 1,693 |
@@ -13217,6 +13217,7 @@ Here's a list of public Fediverse services.
 | `kakun.jp` | No |
 | `kakunpc.com` | No |
 | `kalabradas.club` | No |
+| `kalaclista.com` | Yes |
 | `kalasarn.se` | No |
 | `kalebporter.club` | No |
 | `kalecream.com` | Yes |
@@ -22519,6 +22520,7 @@ Here's a list of public Fediverse services.
 | `redp.icu` | Yes |
 | `redpanda.fun` | No |
 | `redpanda.pics` | Yes |
+| `redpeacock78.com` | Yes |
 | `redroo.ml` | No |
 | `redroot.xyz` | No |
 | `redrosewriter.com` | Yes |
@@ -30797,7 +30799,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,785 |
+| Cloudflare | 6,787 |
 | Normal | 23,969 |
 
 
