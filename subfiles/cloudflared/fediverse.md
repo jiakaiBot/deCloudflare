@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,444 |
+| com | 4,445 |
 | social | 2,494 |
 | net | 2,346 |
 | org | 1,693 |
@@ -16320,6 +16320,7 @@ Here's a list of public Fediverse services.
 | `mastodontti.social` | No |
 | `mastodonturkiye.club` | No |
 | `mastodontw.com` | No |
+| `mastodontwitter.com` | No |
 | `mastodonut.be` | No |
 | `mastodonworld.com` | No |
 | `mastodoom.com` | No |
@@ -29307,7 +29308,7 @@ Here's a list of public Fediverse services.
 | `werblog.com` | No |
 | `wercx.net` | No |
 | `werd.social` | No |
-| `were.party` | No |
+| `were.party` | Yes |
 | `were.social` | No |
 | `werebeast.io` | No |
 | `werebeast.net` | No |
@@ -30794,7 +30795,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,785 |
+| Cloudflare | 6,786 |
 | Normal | 23,966 |
 
 
