@@ -9905,6 +9905,7 @@ Do not create new issue or we will close it as duplicate.
 | [Toilaai06720095@twitter](https://twitter.com/Toilaai06720095/status/1487564562400350210) | advertise |
 | [toilaai230yhaoo@twitter](https://twitter.com/toilaai230yhaoo/status/1477506687808327681) | advertise |
 | [ToilaAi72342378@twitter](https://twitter.com/ToilaAi72342378/status/1408481720718954498) | advertise |
+| [ToiLaChuc77@twitter](https://twitter.com/ToiLaChuc77/status/1596429241368735744) | advertise |
 | [toilavominhtri@twitter](https://twitter.com/toilavominhtri/status/1445233277355184130) | advertise |
 | [TokAfg@twitter](https://twitter.com/TokAfg/status/1393325611511427077) | advertise |
 | [tokarinyosei@twitter](https://twitter.com/tokarinyosei/status/1553290938092400641) | advertise |
