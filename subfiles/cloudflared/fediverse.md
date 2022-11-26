@@ -10248,6 +10248,7 @@ Here's a list of public Fediverse services.
 | `goodman-wilson.com` | Yes |
 | `goodo.men` | No |
 | `goodsrv.de` | No |
+| `goodstuff.pub` | No |
 | `goodvibes.fun` | No |
 | `goofs.space` | No |
 | `googleblog.com` | No |
@@ -30825,7 +30826,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,797 |
-| Normal | 23,984 |
+| Normal | 23,985 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
