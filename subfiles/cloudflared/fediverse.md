@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,430 |
-| social | 2,482 |
+| com | 4,429 |
+| social | 2,481 |
 | net | 2,341 |
-| org | 1,691 |
+| org | 1,690 |
 | de | 1,532 |
 
 
@@ -2152,7 +2152,6 @@ Here's a list of public Fediverse services.
 | `axwax.eu` | No |
 | `ayaka.moe` | Yes |
 | `ayano.jp` | No |
-| `aynrand.social` | No |
 | `ayushio.com` | Yes |
 | `az-men.com` | No |
 | `az.social` | No |
@@ -5774,6 +5773,7 @@ Here's a list of public Fediverse services.
 | `danp.net` | No |
 | `danq.me` | No |
 | `danquinney.com` | No |
+| `danrees.me` | No |
 | `dans-ma-bulle.life` | No |
 | `danshudon.jp` | No |
 | `dansmith.online` | No |
@@ -6848,6 +6848,7 @@ Here's a list of public Fediverse services.
 | `dragoncave.dev` | No |
 | `dragonchat.org` | No |
 | `dragonfleye.io` | No |
+| `dragonfruit.dev` | Yes |
 | `dragonhoard.network` | No |
 | `dragonpsi.xyz` | No |
 | `dragons.fyi` | No |
@@ -7566,7 +7567,7 @@ Here's a list of public Fediverse services.
 | `endhill.club` | No |
 | `endipito.us` | No |
 | `endonend.org` | No |
-| `endpoint.ml` | No |
+| `endpoint.ml` | Yes |
 | `endrealm.net` | Yes |
 | `endstation.jetzt` | No |
 | `endstress.de` | No |
@@ -11968,7 +11969,6 @@ Here's a list of public Fediverse services.
 | `inferencium.net` | No |
 | `inferiorlattice.com` | No |
 | `infernal.garden` | No |
-| `infernalerror.com` | Yes |
 | `infinimatix.net` | No |
 | `infinite.pink` | No |
 | `infinitedisk.com` | No |
@@ -21807,7 +21807,7 @@ Here's a list of public Fediverse services.
 | `pwarren.id.au` | No |
 | `pwbsoft.gay` | Yes |
 | `pwestbro.social` | No |
-| `pwet.me` | No |
+| `pwet.me` | Yes |
 | `pwi.social` | No |
 | `pwn.institute` | No |
 | `pwned.lol` | No |
@@ -25558,7 +25558,7 @@ Here's a list of public Fediverse services.
 | `stuttgart.social` | No |
 | `stux.nyc` | Yes |
 | `stuxmedia.com` | No |
-| `stuxnet.ai` | No |
+| `stuxnet.ai` | Yes |
 | `stuxstore.com` | Yes |
 | `stvmln.com` | No |
 | `styx.org` | No |
@@ -29812,7 +29812,7 @@ Here's a list of public Fediverse services.
 | `xensen.net` | No |
 | `xenti.nl` | Yes |
 | `xenv.io` | No |
-| `xerg.ga` | No |
+| `xerg.ga` | Yes |
 | `xeronith.com` | Yes |
 | `xerz.one` | No |
 | `xethos.net` | No |
@@ -30441,7 +30441,6 @@ Here's a list of public Fediverse services.
 | `zarth.de` | No |
 | `zasha.style` | No |
 | `zat.im` | No |
-| `zate.org` | Yes |
 | `zatnosk.dk` | No |
 | `zatta.dev` | No |
 | `zaunspringer.de` | No |
@@ -30709,8 +30708,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,762 |
-| Normal | 23,904 |
+| Cloudflare | 6,765 |
+| Normal | 23,900 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
