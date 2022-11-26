@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,450 |
-| social | 2,500 |
+| com | 4,451 |
+| social | 2,501 |
 | net | 2,349 |
 | org | 1,695 |
 | de | 1,538 |
@@ -7220,7 +7220,6 @@ Here's a list of public Fediverse services.
 | `echoz.io` | No |
 | `echty.de` | No |
 | `echus.net` | Yes |
-| `ecitizen.my.id` | Yes |
 | `eclectic.gay` | No |
 | `eclecticshock.com` | No |
 | `eclesia.space` | No |
@@ -9797,7 +9796,6 @@ Here's a list of public Fediverse services.
 | `gekritzel.at` | No |
 | `geldmacher.io` | No |
 | `gelez.xyz` | No |
-| `geloofsvoer.nl` | Yes |
 | `gelotte.dev` | No |
 | `gelse.eu` | No |
 | `gelt.cz` | No |
@@ -13766,6 +13764,7 @@ Here's a list of public Fediverse services.
 | `kneitzel.de` | No |
 | `knh.uno` | No |
 | `knickerghost.com` | No |
+| `knight.fyi` | Yes |
 | `knittingpirate.com` | No |
 | `knizefamily.net` | No |
 | `knnl.haus` | No |
@@ -14992,6 +14991,7 @@ Here's a list of public Fediverse services.
 | `livewire.io` | Yes |
 | `livid.pw` | Yes |
 | `livingdistant.com` | No |
+| `livingonlinenow.com` | No |
 | `livingutopia.org` | No |
 | `liw.fi` | No |
 | `lixo.org` | Yes |
@@ -16036,6 +16036,7 @@ Here's a list of public Fediverse services.
 | `mastoden.com` | No |
 | `mastodimation.art` | Yes |
 | `mastodn.lol` | No |
+| `mastodn.social` | Yes |
 | `mastodo.fi` | No |
 | `mastodo.it` | No |
 | `mastodo.net` | No |
@@ -30835,7 +30836,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,801 |
-| Normal | 23,990 |
+| Normal | 23,991 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
