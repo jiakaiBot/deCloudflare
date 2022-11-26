@@ -10461,6 +10461,7 @@ Do not create new issue or we will close it as duplicate.
 | [VSkarleas@twitter](https://twitter.com/VSkarleas/status/1456937424660094982) | advertise |
 | [VtbKo@twitter](https://twitter.com/VtbKo/status/1395561904467185664) | advertise |
 | [vu1408@twitter](https://twitter.com/vu1408/status/1377882512286867460) | advertise |
+| [Vu567105Vu@twitter](https://twitter.com/Vu567105Vu/status/1596477348840284161) | advertise |
 | [Vu33317074@twitter](https://twitter.com/Vu33317074/status/1594572608665980929) | advertise |
 | [VuAtu1996@twitter](https://twitter.com/VuAtu1996/status/1392296243791994880) | advertise |
 | [vubao1511@twitter](https://twitter.com/vubao1511/status/1399724212215033867) | advertise |
