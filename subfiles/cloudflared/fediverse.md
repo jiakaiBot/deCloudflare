@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,458 |
+| com | 4,459 |
 | social | 2,506 |
 | net | 2,352 |
 | org | 1,699 |
@@ -3991,6 +3991,7 @@ Here's a list of public Fediverse services.
 | `caskey-demaret.se` | No |
 | `casoetto.net` | No |
 | `caspar.social` | No |
+| `caspodon.club` | No |
 | `cassette.click` | No |
 | `cassone.social` | No |
 | `castlebrickbuilding.com` | No |
@@ -7227,6 +7228,7 @@ Here's a list of public Fediverse services.
 | `echoz.io` | No |
 | `echty.de` | No |
 | `echus.net` | Yes |
+| `ecitizen.my.id` | Yes |
 | `eclectic.gay` | No |
 | `eclecticshock.com` | No |
 | `eclesia.space` | No |
@@ -9806,6 +9808,7 @@ Here's a list of public Fediverse services.
 | `gekritzel.at` | No |
 | `geldmacher.io` | No |
 | `gelez.xyz` | No |
+| `geloofsvoer.nl` | Yes |
 | `gelotte.dev` | No |
 | `gelse.eu` | No |
 | `gelt.cz` | No |
@@ -10409,6 +10412,7 @@ Here's a list of public Fediverse services.
 | `greentechwriter-social.org` | No |
 | `greentrawler.space` | No |
 | `greenwichmeanti.me` | No |
+| `greg-kennedy.com` | No |
 | `greggallardo.com` | No |
 | `gregorlove.com` | No |
 | `gregoryjay.co.uk` | Yes |
@@ -23108,6 +23112,7 @@ Here's a list of public Fediverse services.
 | `ross154.net` | No |
 | `rossabaker.com` | No |
 | `rosseaux.com` | No |
+| `rosy-colored.space` | Yes |
 | `roter-kreis.de` | No |
 | `roteserver.de` | No |
 | `rothery.me` | No |
@@ -30876,8 +30881,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,809 |
-| Normal | 24,024 |
+| Cloudflare | 6,812 |
+| Normal | 24,026 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
