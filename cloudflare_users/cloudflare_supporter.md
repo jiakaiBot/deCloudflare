@@ -2301,6 +2301,7 @@ Do not create new issue or we will close it as duplicate.
 | [DipDipto12@twitter](https://twitter.com/DipDipto12/status/1379899792034201600) | advertise |
 | [diplomaticben@twitter](https://twitter.com/diplomaticben/status/1576878709944225792) | advertise |
 | [diPWkrW4ktqd21o@twitter](https://twitter.com/diPWkrW4ktqd21o/status/1392395197204647936) | advertise |
+| [dip_nmg@twitter](https://twitter.com/dip_nmg/status/1596410372319170562) | advertise |
 | [DirtyScanGang@twitter](https://twitter.com/DirtyScanGang/status/1589054954308014085) | advertise |
 | [DiscordedLynx@twitter](https://twitter.com/DiscordedLynx/status/1418624822771437575) | advertise |
 | [DishaDidi3@twitter](https://twitter.com/DishaDidi3/status/1387742143855222790) | advertise |
@@ -4861,8 +4862,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
