@@ -674,6 +674,7 @@ zyxzero314-gmailcom.vercel.app
 2088.vercel.app
 2cr4.vercel.app
 410-gone.vercel.app
+a101.vicservice.ru
 ablink.mkt.voiapp.io
 academy-charlie.vercel.app
 academyld.vercel.app
@@ -707,6 +708,7 @@ bentestcaptcha.viprespond.com
 blackbeardiner.vernonpromotions.com
 bmsgw.vazobervaz.ch
 calcium.valantic.pro
+caldav.vipcomag.eu
 care-api-staging.vaultdragon.com
 ccgxlogging.victronenergy.com
 cdn.vianor-tyres.ru
@@ -736,6 +738,8 @@ cpcontacts.vaccinetruth.org
 csaazsrun-3a.app.eu.dp.vwg-connect.com
 cyberbrokers.vensurvey.com
 dashboard.visitabdn.com
+ddssync-lane32b.qa.vivonet.com
+delta.vtac.edu.au
 dev.vanbokhovensecurity.nl
 dev.vkyc.live
 dev.vlec.be
@@ -819,15 +823,18 @@ monotool.vercel.app
 multimedia.mailing.visionexpress.pl
 navinprakash2010.vercel.app
 netflix-online-acc.v6.army
+nitro-mailbox.nitrostaging.valuya.be
 nitronow.vbuckscentral.net
 nsx-13-211-4-132.rp.vmwarevmc.com
 oal-japan.vietnamchichan.com
+old.zmail.view-manager.com
 olmera.verwalt-berlin.de
 ondemand-radio.aka.v2022.vrtcdn.be
 onderhoud.vlaanderen.be
 ota.oru-swms.int.eu.bp.aws.cloud.vwgroup.com
 ota.swmsn.pre.eu.bp.aws.cloud.vwgroup.com
 owa.vibac.com
+packman.vertigo-systems-support.de
 payments.vantivprelive.com
 pds.volkswagen.de
 pf.vercel.app
@@ -837,6 +844,7 @@ ps-automation-update-preview.virtual-spaces.de
 public-ocpp.batterypack-ocpp.prod-backend.vdbinfra.nl
 qaapi4.vivanda.com
 raketun.co.ip.vollaeity.shop
+rakuten-japan.vip747.cn
 recaptcha-mr-public.rete.c1.vanguard.com
 recording1.a58.verintcloudservices.com
 relampago-de-clientes.virio.digital
@@ -926,9 +934,9 @@ verify-malta.com
 verify-mywellsfargo-account76r.com
 verify-rbfcu-account.com
 verifydelivermart.com
+verifyrogers.com
 verifysuccessful.com
 verifytodaynow.com
-verifywhatsapp.net
 vermontbiz.com
 vermontelectricalservice.com
 veronicabadea.com
@@ -960,6 +968,7 @@ vijayabank.co
 vijayacentral.com
 vikings-media.dk
 viktoriyagotseva.com
+vilaser.se
 villa-aventura.com
 villamormor.dk
 villelepisto.fi
@@ -975,6 +984,7 @@ vintagepremiumgift.com
 vintagetraps.co.uk
 vipchecker.ru
 vipreal.live
+virginia-anthology.org
 virginiafairbank.ml
 virtualservice.net.br
 virtualticket.tv
@@ -993,6 +1003,7 @@ vj22.de
 vkc.sh
 vkprservice.com
 vljwebapp.vedantaconnect.com
+vmail.vanbeersbrokx.nl
 vn-khachhang.click
 vocebronzeadora.com
 vodabrd.com
@@ -1008,10 +1019,12 @@ voltedu.com
 vonexplaino.com
 voteojeda.com
 voxticket.vox-power.com
+voyage-quantique.fr
 voyagebaltimore.com
 voyagestransat.com
 voyageutah.com
 vplus-afterhours.virtusa.com
+vplus-badges.virtusa.com
 vrf-primemembership.com
 vrfcustm-details.com
 vro.vn
@@ -1027,6 +1040,7 @@ vvwwvvcajapiura.com
 vwwcajapiura.pe
 vwwwvcajapiura.com
 web.b-2.vivid-proxy.com
+webdisk.v7onlinepromoter.store
 webdisk.vaccinesandsociety.com
 webdisk.vaccinesandsociety.com.vaccinesandsociety.org
 webdisk.vaccinetruth.org
@@ -1076,6 +1090,7 @@ www.servicereqs.vetbizconsulting.org
 www.siscontrol.velocity.net.ec
 www.subdomain.findlphoneimaps.online.verifylocation.live
 www.titanic.visionservice.com.pe
+www.update.voyage-quantique.fr
 www.user.vastpips.com
 www.useraccount.vastpips.com
 www.v2.cookies.viccompuser.com
@@ -1087,6 +1102,7 @@ www.valmikiramayan.net
 www.valuation-postagestamp.com
 www.vanadzorpost.com
 www.vandoornsupport.nl
+www.vanier-association.com
 www.vans.de
 www.vanveen-vanhemertpost89.org
 www.vbaccelerator.com
@@ -1102,6 +1118,7 @@ www.vergingoaescorts.com
 www.verification-malta.com
 www.verify-bankofamerica.com
 www.verify-malta.com
+www.verify-my-icloud.com
 www.verifychannel.online
 www.verkinly.com
 www.verstand.ai
@@ -1131,6 +1148,8 @@ www.vivino.com
 www.vlacomcbs.com
 www.vmaj.jp
 www.vnwpod.de
+www.vodafone.pt
+www.voievodulgelu.ro
 www.volcano-services.net
 www.voltrafficsupport.nl
 www.vortexshippingservice.com
