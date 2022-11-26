@@ -14,18 +14,17 @@ We have plenty of signals we can extract from our aggregated data, and believe t
 
 Here's the result.
 
-
 | Type | Count |
 | --- | --- | 
-| Cloudflare | WTF |
-| Normal | WTF |
+| Cloudflare | 411,157 |
+| Normal | 601,846 |
 
 
-# WTF%
+# 40.59%
 ### of top most popular domains are using Cloudflare.
 
 ----
 
 | About | Total Domains | Cloudflare | % |
 | --- | --- | --- | --- |
-| WTF | WTF | WTF | WTF |
+| 2022-11-14 - 2022-11-21 | 1,013,003 | 411,157 | 40.59% |
