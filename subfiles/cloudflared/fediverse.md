@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,445 |
-| social | 2,494 |
-| net | 2,346 |
+| com | 4,443 |
+| social | 2,496 |
+| net | 2,347 |
 | org | 1,693 |
 | de | 1,536 |
 
@@ -3089,6 +3089,7 @@ Here's a list of public Fediverse services.
 | `blimps.xyz` | Yes |
 | `blind.lol` | No |
 | `blindwith.science` | Yes |
+| `bliothek.social` | No |
 | `blisscampus.com` | No |
 | `blisses.org` | No |
 | `bln41.net` | Yes |
@@ -7211,6 +7212,7 @@ Here's a list of public Fediverse services.
 | `echoz.io` | No |
 | `echty.de` | No |
 | `echus.net` | Yes |
+| `ecitizen.my.id` | Yes |
 | `eclectic.gay` | No |
 | `eclecticshock.com` | No |
 | `eclesia.space` | No |
@@ -9786,6 +9788,7 @@ Here's a list of public Fediverse services.
 | `gekritzel.at` | No |
 | `geldmacher.io` | No |
 | `gelez.xyz` | No |
+| `geloofsvoer.nl` | Yes |
 | `gelotte.dev` | No |
 | `gelse.eu` | No |
 | `gelt.cz` | No |
@@ -10498,6 +10501,7 @@ Here's a list of public Fediverse services.
 | `gtio.io` | No |
 | `gtk.pw` | Yes |
 | `gtn-works.com` | No |
+| `gtw.lt` | Yes |
 | `guakamole.org` | No |
 | `guany.in` | No |
 | `gubsercloud.com` | No |
@@ -13217,7 +13221,6 @@ Here's a list of public Fediverse services.
 | `kakun.jp` | No |
 | `kakunpc.com` | No |
 | `kalabradas.club` | No |
-| `kalaclista.com` | Yes |
 | `kalasarn.se` | No |
 | `kalebporter.club` | No |
 | `kalecream.com` | Yes |
@@ -14259,6 +14262,7 @@ Here's a list of public Fediverse services.
 | `lamatriz.org` | No |
 | `lambda.fun` | No |
 | `lambda.scot` | Yes |
+| `lambda.ski` | No |
 | `lambda.social` | Yes |
 | `lambdashire.com` | No |
 | `lambertz.xyz` | No |
@@ -17534,6 +17538,7 @@ Here's a list of public Fediverse services.
 | `moqueur.chat` | No |
 | `morale.ch` | No |
 | `moralkiosk.social` | No |
+| `morash.me` | Yes |
 | `mordicux.xyz` | No |
 | `mordor.social` | No |
 | `moreati.org.uk` | No |
@@ -20091,7 +20096,7 @@ Here's a list of public Fediverse services.
 | `oswalt.dev` | Yes |
 | `osyakasyama.me` | No |
 | `ot-mangas.com` | No |
-| `otadon.com` | No |
+| `otadon.com` | Yes |
 | `otajo.tk` | No |
 | `otajodon.com` | Yes |
 | `otakan.jp` | No |
@@ -22517,7 +22522,6 @@ Here's a list of public Fediverse services.
 | `redp.icu` | Yes |
 | `redpanda.fun` | No |
 | `redpanda.pics` | Yes |
-| `redpeacock78.com` | Yes |
 | `redroo.ml` | No |
 | `redroot.xyz` | No |
 | `redrosewriter.com` | Yes |
@@ -25943,6 +25947,7 @@ Here's a list of public Fediverse services.
 | `syo.tokyo` | No |
 | `syoriken.org` | No |
 | `syosetu.social` | No |
+| `syringa.social` | Yes |
 | `syrup.zone` | No |
 | `sysad.ninja` | No |
 | `sysadmins.zone` | Yes |
@@ -26167,6 +26172,7 @@ Here's a list of public Fediverse services.
 | `tapbots.social` | Yes |
 | `tape-41.de` | No |
 | `tape.cx` | No |
+| `tapesoftware.net` | No |
 | `tapferimnirgendwo.com` | No |
 | `tapi.cafe` | No |
 | `tappret.fr` | No |
@@ -29513,6 +29519,7 @@ Here's a list of public Fediverse services.
 | `winteroak.org.uk` | No |
 | `winterrific.cloud` | No |
 | `wintu520.com` | Yes |
+| `wip.la` | Yes |
 | `wip.sh` | No |
 | `wiper.dev` | Yes |
 | `wipiano.net` | No |
@@ -29542,6 +29549,7 @@ Here's a list of public Fediverse services.
 | `wisskomm.social` | No |
 | `witch.academy` | No |
 | `witch.energy` | No |
+| `witch.garden` | No |
 | `witchcraft.cafe` | No |
 | `witches.academy` | No |
 | `witches.in` | No |
@@ -30795,8 +30803,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,786 |
-| Normal | 23,966 |
+| Cloudflare | 6,791 |
+| Normal | 23,969 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
