@@ -527,15 +527,18 @@ api.aws-ap1.garden.internal.live.k8s.ondemand.com
 api.cf.eu12.hana.ondemand.com
 api.gca.amazon.stg.aws.ofx.com
 api.onsolvegateway.com
+api.owlmi.com
 api.prod-haas.hc-canary.shoot.live.k8s-hana.ondemand.com
 api.rte.auchan.osp.tech
 api.updatefullpage.review.acdc.odiwi.fr
 apiuat.oneradon.com
+asiakaspalvelu.omaturva.fi
 auth-dev.oose.de
 auth.octastonecapitals.com
 auth.omega-caci.com
 auth.osloskoletest.no
 auth.osloskoleutv.no
+autodiscover.ometodoapostadorrichard.site
 autodiscover.oyagtv.site
 bank.ofgeorgia.pro
 bank.ofgeorgia.xyz
@@ -547,6 +550,8 @@ bodynov.rdv-04.ovea.com
 bristol-garden.webplatform-affligem.overstock.be
 bristol-home.webplatform-affligem.overstock.be
 bundle-lbe-mpls-onlyoffice-20221119-01-ssl.on-web.fr
+buy.offshoreroleplay.com
+carpal.oportaldocliente.com.br
 ccbs-client.preview.otomagis.id
 cdn.opecloud.com
 cdpuoic-idj6xuhdtgxc-ia.integration.ocp.oraclecloud.com
@@ -571,6 +576,7 @@ cron.omni.us
 crowdin.onfastspring.com
 cybersmartbyrendtech.ontralink.com
 dev-fargate.nationalcoronaviruwebvpn.oddr.info
+dev-fargate.nationalcoronaviruwww.webvpn.oddr.info
 dev.mcsf.ws.operatec.eu
 dev.office365account.com
 dev2.onesourcetax.com
@@ -582,6 +588,8 @@ diego.ospinalaw.com
 direct.occourts.org
 doicis0100integrationservices-atcoci1.integration.ocp.oraclecloud.com
 donor.oneblood.org
+donorportal.oneblood.org
+dp-plus-par07-01.oasis-smartsim.com
 ecris.ohsu.edu
 erpapps.ocadu.ca
 fa-eyfy-test-saasfapreprod1.fa.ocs.oc-test.com
@@ -592,6 +600,7 @@ gcc.migrationservice.ediscovery.office365.com
 getsecure.omgajananinfocom.in
 git.gitlab.git.my.psychic-answwww.chat.services.otto.su
 gitlab.gitlab.gitlab.git.git.com.ochaton.me
+gmail1.oakhillsales.com
 gmailx.oakhillsales.com
 go.openathens.net
 green-stone.online-it-support.dk
@@ -615,6 +624,7 @@ key.olympus-industrial.com
 kl.osmoticchalah.com
 klantportaal.ovha.nl
 l61001-tmn.hci.us2.hana.ondemand.com
+lb042686-iad-mtu01-ohsim-p.oracleindustry.com
 login.auchan.osp.tech
 login.oci.oraclecloud.com
 login.openspot.fr
@@ -657,8 +667,10 @@ odinferretero.com
 odinsas.com
 odrealty.mx
 oefentoets.com
+oege18.org
 oeli-ug.at
 oepe.es
+offbeateats.org
 offerayo.com
 offical-conta-simples.ml
 officeconta.ro
@@ -685,6 +697,7 @@ olxpl-abrg.order9205.info
 omar-store.com.ly
 omegaonlineservice.com
 omelhorcredito.pt
+omr.gov.ua
 omsaiestate.com
 omuutlt.com
 onbroadwayevents.com
@@ -706,6 +719,7 @@ onlinebanking-decline-request-help.com
 onlinebanking-payment-access.com
 onlinecommunityhub.nl
 onlinenetflixupdate.com
+onlineradio.am
 onlinetjeneste.com
 onlyfansfinder.org
 onpreneur.com
@@ -744,9 +758,12 @@ ornithologyexchange.org
 ortsbezogenekunst.at
 osagenews.org
 osef.org.ng
+oshigoto.fan
 oshr.ru
 osintme.com
+ospn.jp
 osr4rights.org
+osterfeldagency.com
 oswaldhill.bond
 otcnow.com
 otonokabe.com
@@ -768,6 +785,7 @@ owa.oso.sk
 ownerfinancergv.com
 oysterfest.ca
 ozelbazar.com
+ozhanservice.ir
 p16198292c1prd-store.occa.us-phoenix-1.ocs.oraclecloud.com
 pag.onelink.me
 paid.outbrain.com
@@ -810,6 +828,7 @@ sso-stage2.production.next.obi-solution.net
 stackcrm.ocbc.com
 stageway.ok-kontor.no
 staging.payments.orteo.co
+starmarkett.ocean-elearning.com
 stdiscosrv.obermeir.org
 store.orderfront.com
 stream5.opb.org
@@ -838,8 +857,10 @@ vpn2.oxleas.nhs.uk
 w.old.zmail.oslopostorkester.no
 webdav.oures.ru
 webdisk.omnitron.com.hk
+webdisk.orozcointernationallawoffice.com
 webmail.chery.oraclegroup.co.za
 webservice.onlinedas.it
+wigg-dr-rpasee-wts.oracleindustry.com
 wmail.openquest.com.pt
 www.accounts.ordalli.com
 www.actualizar.arsbancocentral.opensoftdo.com
@@ -872,6 +893,7 @@ www.o2-billingonline-bundle.com
 www.oab.org.br
 www.oakdalefuneralhome.com
 www.oakhurstvet.com
+www.oaklascents.com
 www.obsolete-tears.com
 www.octb.pt
 www.oculus.com
