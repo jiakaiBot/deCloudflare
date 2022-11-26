@@ -3397,6 +3397,7 @@ Here's a list of public Fediverse services.
 | `bowlofpetunias.net` | No |
 | `box.sh` | Yes |
 | `box94.com` | No |
+| `boxbox.site` | No |
 | `boxertwin.info` | No |
 | `boxofbugs.com` | Yes |
 | `boxp.tk` | No |
@@ -4602,6 +4603,7 @@ Here's a list of public Fediverse services.
 | `clj.social` | Yes |
 | `cllctv.net` | No |
 | `cloa.app` | No |
+| `clocktower.click` | No |
 | `clocktower.social` | No |
 | `clockworkshield.com` | No |
 | `clodo.it` | No |
@@ -30826,7 +30828,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,797 |
-| Normal | 23,985 |
+| Normal | 23,987 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
