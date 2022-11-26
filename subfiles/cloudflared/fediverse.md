@@ -12238,7 +12238,7 @@ Here's a list of public Fediverse services.
 | `irlnc.org` | No |
 | `irnok.net` | No |
 | `iro-iro.xyz` | Yes |
-| `iro.moe` | Yes |
+| `iro.moe` | No |
 | `iroiro.party` | Yes |
 | `irolltwenties.com` | No |
 | `ironboundsoftware.com` | Yes |
@@ -16332,6 +16332,7 @@ Here's a list of public Fediverse services.
 | `matarillo.com` | No |
 | `matcha-soft.com` | Yes |
 | `matchdon.com` | No |
+| `matchu.dev` | No |
 | `matchy.jp` | No |
 | `matej-lach.me` | No |
 | `matemann.de` | No |
@@ -30708,8 +30709,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,765 |
-| Normal | 23,900 |
+| Cloudflare | 6,764 |
+| Normal | 23,902 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
