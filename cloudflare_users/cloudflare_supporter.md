@@ -9243,6 +9243,7 @@ Do not create new issue or we will close it as duplicate.
 | [suryxin@twitter](https://twitter.com/suryxin/status/1401059757780209671) | advertise |
 | [SuSan43688845@twitter](https://twitter.com/SuSan43688845/status/1554827357034512384) | advertise |
 | [sushidesignerr@twitter](https://twitter.com/sushidesignerr/status/1591171105121001472) | advertise |
+| [SuSu43088830@twitter](https://twitter.com/SuSu43088830/status/1596615743335895040) | advertise |
 | [SuSuWin06068758@twitter](https://twitter.com/SuSuWin06068758/status/1553316092931481603) | advertise |
 | [suuccesethiopa@twitter](https://twitter.com/suuccesethiopa/status/1510972073769902082) | advertise |
 | [SuWai57179242@twitter](https://twitter.com/SuWai57179242/status/1390282019108659200) | advertise |
