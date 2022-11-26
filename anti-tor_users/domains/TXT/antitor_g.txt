@@ -845,6 +845,7 @@ abirkolin1.github.io
 abundant-fifth-steed.glitch.me
 academia.gesyco.co
 acceso.gomarket365.com
+account-protection-auth.glitch.me
 account.biotrip.grootbit.com
 accounting.gapallet.com
 adfs.gdpgroup.ru
@@ -865,6 +866,7 @@ api.dev.gspostbox.com
 api.gerentesdigitais.com
 api.gini.net
 api.gkey.se
+api.global66.com
 api.gymsync.co.uk
 api.profisee-dev.globalpay.com
 api.profisee.globalpay.com
@@ -885,6 +887,7 @@ authentication.gsfranzoni.me
 authk.gad1.de
 b2c-gulf.gigigoapps.com
 backoffice.geoliagroup.com
+bankbox.grabworldtechnologies.com
 bankofamerica.com.login.update.goldfreight.ca
 barometro-covid.goodrebels.com
 bauportal.gajagati.hr
@@ -976,6 +979,7 @@ doc-0o-9s-docs.googleusercontent.com
 doc-0s-20-docs.googleusercontent.com
 doc-0s-44-docs.googleusercontent.com
 doc-0s-50-docs.googleusercontent.com
+doc-0s-5c-docs.googleusercontent.com
 doc-0s-8g-docs.googleusercontent.com
 doc-10-88-docs.googleusercontent.com
 doc-14-0s-docs.googleusercontent.com
@@ -987,7 +991,9 @@ dsonline.group-digital.fr
 e2c11.gcp.gvt2.com
 e2c15.gcp.gvt2.com
 e2c22.gcp.gvt2.com
+e2c29.gcp.gvt2.com
 e2c38.gcp.gvt2.com
+e2c41.gcp.gvt2.com
 e2c49.gcp.gvt2.com
 ea.gr8people.com
 earth.app.goo.gl
@@ -1007,6 +1013,7 @@ facturacionvalidador.gruposalinas.com.mx
 fairytulle.gajagati.hr
 fathimathjazeera.github.io
 fcm.googleapis.com
+fedifinder.glitch.me
 fediverse.glitch.me
 feelrobotics.go2cloud.org
 firebasecrashlyticssymbols.googleapis.com
@@ -1029,6 +1036,7 @@ gallowaychillies.co.uk
 gamedevpodcast.de
 gamesupport.in
 gandalfsecure.com
+gandercoin.com
 gandmtreeservice.com
 garantibbvainvestitii.com
 gardenstory.jp
@@ -1074,11 +1082,13 @@ getsmartwithyourmoney.com
 gewerkschaftliche-linke-berlin.de
 ghanlaegsservice.dk
 gharbazaar.pk
+ghcr.io
 ghevailuoi.com
 ghislain-chasme.net
 ghsmac05.geisinger.edu
 ghv.no
 giang.pro
+giantanimation.ie
 gidashop.com.vn
 giftforgot.online
 giftiforgot.com
@@ -1118,11 +1128,13 @@ gitlab.gitlab.gitlab.caixapostal.yandex.gabdrahmanova.ru
 gitlab.gitlab.gitlab.mailmetnet.yandex.gabdrahmanova.ru
 gitlab.gitlab.gitlab.owa.yandex.gabdrahmanova.ru
 gitlab.gitlab.mailmetnet.yandex.gabdrahmanova.ru
+gitlab.tw.cdn.cstaging.google-shopping.club
 givealilbit.com
 givealilbit.io
 gk-facility-services.de
 glam-celebrity-news.com
 glamoryhosiery.com
+glasgowin3d.com
 glassaligner.com
 glasserviceoslo.no
 glazerbank.com
@@ -1147,6 +1159,7 @@ godotshaders.com
 goizekowellington.es
 gokturkmermer.com
 golang.org
+gold-im.com
 goldenbearstore.jp
 golem.hu
 golfplusonemedia.com
@@ -1159,9 +1172,11 @@ googlemybuisness.info
 googleupdate.us
 gospelthemes.com
 gotelservice.xyz
+governmentjobs.com.co
 govillagetravel.com
 goviral247.com
 govuk-verify-secured.net
+gpay.app.goo.gl
 gpsmarcas.com.br
 gpsradler.de
 gpuminingcards.com
@@ -1216,6 +1231,7 @@ gtmservice.pt
 gtomoney.com
 gts-security.ro
 guardiasecurity.ro
+gucingelicai.top
 guildofscientifictroubadours.com
 guillermoferrara.org
 gujaratterce.com
@@ -1224,6 +1240,7 @@ gunnerstown.com
 gutenberg.ca
 guteseguridad.com
 gutscheinefuermorgen.de
+gvolpe.com
 gwent-preprod-origin-lb6.gog-preprod.com
 gww-word.com
 gyakuten-kutikomi.site
@@ -1264,6 +1281,7 @@ marked-ring-fin.glitch.me
 mattinopadova.gelocal.it
 mdsiamulislam.github.io
 melodious-admitted-animal.glitch.me
+member.green-nitrogen.com
 members.gidep.org
 messaggeroveneto.gelocal.it
 mibsinesx.github.io
@@ -1291,6 +1309,7 @@ nm.gmsseguridad.com
 nso.goskope.com
 nutzungsbedingungen.golden-genom.de
 o.goldgans.de
+oauth2.googleapis.com
 ocupa.greveclimaticaestudantil.pt
 office.yandex.gabdrahmanova.ru
 oluchukwuabali.github.io
@@ -1309,6 +1328,7 @@ pbhadra07.github.io
 pdfbasket.governmentyojna.com
 pestcontrol.getyourwebsite.store
 phone-from-dilemma.glitch.me
+pipelines.actions.githubusercontent.com
 pix.glauca.space
 plant-showy-partridge.glitch.me
 playback.video.globo.com
@@ -1326,6 +1346,9 @@ qa.globaltpa.net.pe
 quasar-right-kale.glitch.me
 r2---sn-qxoedne7.googlevideo.com
 r5---sn-hp57kndd.googlevideo.com
+rakuten-japan-securiyt.go2up.cn
+rakuten-japan-securiyt.gvyrbm.cn
+rakuten-japan-securiyt.gzhpxj.cn
 random-trees-in-circles.glitch.me
 rds.api.us-east-2.service.guidewire.net
 rec-xfer.groupagrica.com
@@ -1498,10 +1521,12 @@ www.gemsmodernacademygurgaon.com
 www.gemuetliche-ecke-seelscheid.de
 www.gendercampus.ch
 www.genealanille.fr
+www.generativenation.xyz
 www.geniaus.net
 www.geniusgroupcos.com
 www.genpro.org.nz
 www.geo3550.org
+www.geografiainfinita.com
 www.geographic.org
 www.geologienederland.nl
 www.georgeobado.com
@@ -1510,6 +1535,7 @@ www.georisques.gouv.fr
 www.geotrend.fr
 www.gepalift.gr
 www.geraldtonguardian.com.au
+www.getoutmorecic.co.uk
 www.gettysburgtimes.com
 www.getvideodyno.com
 www.getworkgear.com
@@ -1520,6 +1546,7 @@ www.ghanlaegsservice.dk
 www.ghtowingservice.com
 www.ghx.com
 www.giantgroupsecurity.com
+www.giessen.de
 www.giftcardmall.com
 www.giftdubaionline.com
 www.giftforgot.online
@@ -1547,6 +1574,7 @@ www.globalcareersfair.com
 www.globaldramaalert.com
 www.globalfoodsoft.com
 www.globallineprioritypackage.com
+www.globalnerdy.com
 www.globalreports.co
 www.globalsupport.org.br
 www.globaltrkdom.com
@@ -1555,6 +1583,7 @@ www.globalweb.design
 www.globelinkstarshippingdelivery.com
 www.gloriant.be
 www.gls-laden.de
+www.gmtoday.com
 www.goballoons.in
 www.godirectexpress.ca
 www.goibibo.com
@@ -1578,6 +1607,7 @@ www.greeninstitute.org.au
 www.greenmoney.gerenciesistemas.com.br
 www.greenstories.org.uk
 www.greenwaystrust.ca
+www.greenwoodnyc.com
 www.gregpalast.com
 www.gremtelecomacademy.com
 www.gribbles.co.uk
@@ -1595,6 +1625,7 @@ www.gu-global.com
 www.guardonline.com
 www.gumtree.com
 www.guud.com
+www.guycarpenter.com
 www.gwleverage.gwtrade.hk
 www.gymnasiefaellesskabet.dk
 www.helpdesk.garrax.com.br
@@ -1628,7 +1659,6 @@ www.user.gfa-org.ga
 www.usercraft.com.gerke-translation.com
 www.vesa.grupoinvestigacionsafe.com
 www.z1.hashicorp.cloudg.magento.clud.gpinfo.eu
-xpost.gaminginthe.cloud
 xtravoucher.green-nitrogen.com
 yas3jb.github.io
 youtrack.grombeer.pro
