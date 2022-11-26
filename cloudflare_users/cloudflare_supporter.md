@@ -6710,6 +6710,7 @@ Do not create new issue or we will close it as duplicate.
 | [Namanh60435535@twitter](https://twitter.com/Namanh60435535/status/1479523298325131265) | advertise |
 | [namanhhh1989@twitter](https://twitter.com/namanhhh1989/status/1572624972035805186) | advertise |
 | [NamBlack18@twitter](https://twitter.com/NamBlack18/status/1399076867190059010) | advertise |
+| [NamBoo2706@twitter](https://twitter.com/NamBoo2706/status/1596529558060077056) | advertise |
 | [namcaokhac@twitter](https://twitter.com/namcaokhac/status/1383549837296082950) | advertise |
 | [NamdeBeaver@twitter](https://twitter.com/NamdeBeaver/status/1552903023898202113) | advertise |
 | [NamDoan03565982@twitter](https://twitter.com/NamDoan03565982/status/1553761933580328961) | advertise |
@@ -8301,6 +8302,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rkar43290101@twitter](https://twitter.com/Rkar43290101/status/1398468325034713091) | advertise |
 | [Rkarkya84950493@twitter](https://twitter.com/Rkarkya84950493/status/1392355774119038978) | advertise |
 | [rkarphyo137@twitter](https://twitter.com/rkarphyo137/status/1391571859829886977) | advertise |
+| [rkdsgg@twitter](https://twitter.com/rkdsgg/status/1596539367195308032) | advertise |
 | [RKeliiahonui@twitter](https://twitter.com/RKeliiahonui/status/1401355940364906500) | advertise |
 | [RKyae@twitter](https://twitter.com/RKyae/status/1394594328119414789) | advertise |
 | [RKyauk@twitter](https://twitter.com/RKyauk/status/1395920413222477824) | advertise |
