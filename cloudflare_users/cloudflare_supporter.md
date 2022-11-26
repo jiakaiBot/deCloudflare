@@ -5744,6 +5744,7 @@ Do not create new issue or we will close it as duplicate.
 | [Majid661594081@twitter](https://twitter.com/Majid661594081/status/1401410937631002632) | advertise |
 | [MajkaSimoni@twitter](https://twitter.com/MajkaSimoni/status/1515750283569246221) | advertise |
 | [MajorLinux@twitter](https://twitter.com/MajorLinux/status/1378383167695040517) | advertise |
+| [makau__@twitter](https://twitter.com/makau__/status/1596453140173406209) | advertise |
 | [makeiphone@twitter](https://twitter.com/makeiphone/status/1446381205394321408) | advertise |
 | [makis@tvitero.com](https://tvitero.com/@makis) | Banning account silently; Theft of Follower |
 | [makoranx@twitter](https://twitter.com/makoranx/status/1381349393161465857) | advertise |
