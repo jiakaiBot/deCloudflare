@@ -1855,8 +1855,10 @@ zg942.app.link
 74074.insitetest.afas.online
 7gfly.app.link
 7m9r9.app.link
+852u.adj.st
 89qkd.app.link
 8khj2m0d.r.us-east-1.awstrack.me
+8kjly90e.r.eu-west-1.awstrack.me
 8y20gcz3.r.eu-west-1.awstrack.me
 8zkou.app.link
 90249000-0-app-azure5-sample-external-01.aunablockchain.cl
@@ -1882,8 +1884,11 @@ aayulpa.com
 abacusdatasys.com
 abanotanks.com
 abb-containerdienst.de
+abbycrofton.com
 abcollege.edu.au
+abcprint.com
 abdiguru.id
+aberturas-aberpost.com.ar
 abikalankar.com
 abilitynet.org.uk
 abngraham.bond
@@ -1918,6 +1923,7 @@ academyofdentalnursing.com
 academyofmakeuparts.com
 academyperfect.com
 academypersia.ir
+academyseo.net
 acaps.ma
 acceso-gratis.com
 accesoautomatizaciones.com
@@ -1933,6 +1939,7 @@ accesorioselparce.com
 accesoriosmariamaria.co
 accesousuarios.com
 access.assuta.co.il
+access2webscotia.com
 accesscontrol.in
 accesspartners.biz
 account-login-verify.live
@@ -1978,6 +1985,7 @@ ackerfors.se
 acldiagnostics.com
 acms.co.ke
 aconino.org
+acronymis.com
 acryness.com
 acs-italia-shop.org
 acs.accesbanquevousprotege.com
@@ -1985,6 +1993,7 @@ acs.acledabank.com.kh
 acs2.aub.ph
 act-actions.my.id
 actionservice.ro
+activatelearning.com.au
 activateme.live
 activeroofline.co.uk
 activitygardens.co.uk
@@ -1999,6 +2008,7 @@ adams-pestcontrol.com
 adaptaleppo.eu
 adbquicnet.com
 addin.meet
+adeccotouch.com
 adfs.atal.com.hk
 adfs2.arborresearch.org
 adgang.avantia.dk
@@ -2009,6 +2019,7 @@ adnanmunir.com
 adobeint-mid-prod13-m.adobe-campaign.com
 adobeint-mid-prod7-m.adobe-campaign.com
 ads.adaptv.advertising.com
+advancedcommercialrefrigerationrepairservice.com
 advancedroofingnc.com
 advantmed.com
 adventgroup.lt.acemlnc.com
@@ -2018,6 +2029,7 @@ aeoliansingers.ca
 aeon-co-jp-auth-realms-msweb-protocol-uri.top
 aerofalcons.in
 aeroginixcomposites.com
+aeroin.net
 afak-sante-mentale.ma
 afbn.me
 afc.agenda5.pro
@@ -2041,8 +2053,10 @@ agroyans.com
 ahenmac.org.mx
 aid-azure-api.img.arcgis.com
 aigllabs.com
+ail.angewandte.at
 aims.adi.edu.ph
 aiph.ci
+airad-cd-apim-1.azure-api.net
 airandweather.com
 airconditioningrepairburbank.com
 aircotech.nl
@@ -2082,6 +2096,7 @@ alessandrobelmonte.it
 alexa.eu.gateway.devices.a2z.com
 alexcleancontrol.ro
 alfiandhita.my.id
+algorithmsbook.com
 alhambra-tickets.co
 alianzaws.alianza.com.co
 alicanteopinion.es
@@ -2092,6 +2107,7 @@ aligrefm.org
 aliziolaw.com
 allaboutpetservice.com
 allbanglaservice.com
+allchain-usersupport.com
 alldelivery.ro
 allenginsberg.org
 allfunds.com
@@ -2147,6 +2163,7 @@ amazonsecuritycanada.info
 amazonservicepaymentcusts.com
 amazonupdate.top
 amazonupdatecanada1.info
+ambie.co.jp
 ambientalsanlorenzo.com
 ambinfosys.com.np
 amboejendomsservice.dk
@@ -2171,6 +2188,7 @@ ams-insurance.net
 ams3-ib.adnxs.com
 amwindowsdirect.co.uk
 amzfort.com
+amzon.best
 anakatuki.com
 analiziraj.ba
 analopez.com.py
@@ -2184,6 +2202,7 @@ andreaatencio.com
 andrewwilkie.org
 andyfairbank.ml
 andynorway.com
+angelsguiltypleasures.com
 aniksecurity.com
 animalsindistress.uk.com
 animusmover.com
@@ -2217,6 +2236,7 @@ api-dev.altolelang.co.id
 api-externe.recette1.agediss.com
 api-onebox.us-gov-west-1.quicksight.amazonaws-us-gov.com
 api-tenant-dev1.exsnp.adsdcsp.com
+api-test.avalburo.com
 api.aaxtrade.com
 api.addthis.com
 api.aidental.ai
@@ -2285,7 +2305,9 @@ aprendergratis.es
 apsite.jp
 apsjournals.apsnet.org
 apstos.com
+apsvcnftesso0101.azurewebsites.net
 apt-public.appspot.com
+aptgroup.com
 aptosfrienz.art
 aqnnoticias.com.ar
 aqservice.ro
@@ -2324,6 +2346,7 @@ ark-event.online
 arkdes.se
 arlia.id
 armadaservice.ro
+armoonoil.ir
 arnaud-defrancq.fr
 arnosvale.org.uk
 arriesgatehoy.net
@@ -2335,6 +2358,7 @@ artblocks-fidenza.io
 artblocks-x-fidenza.io
 artclean-service.de
 arte.woodwing.axelspringer.de
+artemisservice.com
 artglass-es.com.br
 artgobblins.com
 article-realm.com
@@ -2413,6 +2437,8 @@ audreyue.top
 augusandy.bond
 auliasoft.com
 aus-nabsupport.com
+auth-dev.arcacloud.com.br
+auth-n.gq
 auth-server.demo01.demo.k8s-aws.apizsolutions.com
 auth-server.demo02.demo.k8s-aws.apizsolutions.com
 auth.am-space.eu
@@ -2427,6 +2453,7 @@ authentica.live
 authentication.aokmeinleben.de
 authenticationapps.com
 authentications-mobiles.tk
+authenticgreen.biz
 authenticitea.co
 authenticmind.ro
 authenticnotesmarket.com
@@ -2439,8 +2466,10 @@ author-ioannise.icu
 authordeardrazaharaduncan.com
 authorgreggantt.com
 authorizeapps.com
+authorizedscrapper.com
 authorlateefahbutts.com
 authorotiv.co
+authpad.ga
 autisticstrategies.net
 autobahnautoservice.ca
 autocarestore.ro
@@ -2501,6 +2530,7 @@ bensample12.lt.acemlnc.com
 bere-dot-yamm-track.appspot.com
 beta.aksem.com.tr
 biblioteka--en-org-ua.cdn.ampproject.org
+billing.advancetelbd.com
 billing.ammanhosting.com
 billybilslandcycles.argyll3d.online
 bittrex-login.apps-fat.com
@@ -2513,6 +2543,7 @@ bonusapp.alpha.gr
 bpmmicro.lt.acemlnc.com
 bpquaranta.lt.acemlnb.com
 brokerportal.anthem.com
+brokersms.vamm.asseco.pl
 bst-pp.aditrocloud.com
 c2b-test.azampay.co.tz
 cae233.lt.acemlnb.com
@@ -2561,6 +2592,8 @@ consequence-net.cdn.ampproject.org
 conta2021.artware.com.es
 contato.autocompara.com.br
 control.agenciaestabi.com
+core-mmg-scaling.celsus.yandex.astral-dev.ru
+corpdirect.abgapiservices.com
 cove.army.gov.au
 covid.arpatubes.net
 cpanel.activity-coinbase.com
@@ -2582,6 +2615,7 @@ cpcontacts.ar-appleid-support.us
 cpcontacts.availit.info
 crmprd.alj.com
 crowd.infra.yandex.astral-dev.ru
+cs.adingo.jp
 cs.auone.jp
 csgapi.docs.apiary.io
 cuepxidwuyqruodmfzmlreipqn-dot-gleow2021ja.ue.r.appspot.com
@@ -2607,6 +2641,7 @@ demobizservice.abloomideas.com
 designs.adnarchive.com
 dev.ayra.health
 dev1.aidenova.com
+dev3-autotat.autoplant.in
 dev6728.d2ht460qovesm.amplifyapp.com
 developer.abrdn.com
 deviceapi.aerobiotixdata.com
@@ -2624,6 +2659,7 @@ divertido.actividad-rd.com
 djdawson2.identity-service.amazongames.com
 dloan.addiko.si
 dloantest.addiko.si
+dms.academix.ch
 dna.awo.org
 dnsse.alekberg.net
 doch.payment.support.case.amiamz.com
@@ -2649,12 +2685,14 @@ emodul.antangdev.site
 en.apoplife.nl
 entre-vos-mains.alsace.eu
 enveyo.lt.acemlnb.com
+erm.ap-ru.com
 essentials.applesurveys.com
 estige.aurum.com.br
 euroweeklynews-com.cdn.ampproject.org
 event.animal-safe.fr
 ext.collaboration.aen.ansaldo.it
 facebook-account-verification-login.arisopos.com
+fcminvoiceprevention.beta.resolve.finops.amazon.dev
 fdv52gdm.r.us-east-1.awstrack.me
 fedidp.airfranceklm.com
 feditest-service.aeracode.org
@@ -2685,6 +2723,7 @@ galleria.aino.se
 gamesrv1.apuestamos.com
 gamma.iad.api.checklist.associate.amazondelivers.jobs
 gate-acc.athlon.com
+gate-dev.athlon.com
 gate.athlon.com
 gfs.ambion.com.br
 ghb1.adtelligent.com
@@ -2735,6 +2774,7 @@ hcm.accurat.net
 hdliveextra-a.akamaihd.net
 healthcare.ascension.org
 helpdesk.alliedpinnacle.com
+helpdesk.archservices.de
 hercules-api-qa.accu-trade.com
 hercules-api-stage.accu-trade.com
 hetnoorderlicht.lt.acemlna.com
@@ -2757,9 +2797,11 @@ identity.apiservice.app
 ignitenow-dot-yamm-track.appspot.com
 images.artist-at-large.com
 ims.af.edu
+indo3.archidoc.pl
 ingress.aegis.anz
 inspectie-app-prod.autobloxapp.nl
 inst.ance.tk
+int.apisbcp.com
 int.reportengine.exams.apps.accaglobal.com
 investors.appfolioim.com
 iot-rrs-prod.azure-devices.net
@@ -2780,6 +2822,7 @@ jamfca.amat.com
 jenkins.aws.aiqdev.net
 jj59b.app.link
 jjrivgmail.assignthis.com
+jobs.airip.org
 joshuad-net.cdn.ampproject.org
 jppdvw2l.r.ap-southeast-2.awstrack.me
 juangarzah2oai-dot-mmevents.appspot.com
@@ -2787,6 +2830,7 @@ jumio.atout.be
 jvatpsdl19338.lt.acemlnc.com
 k8s-eu-qas-a366783b.hcp.westeurope.azmk8s.io
 kajiankepuasanagrobank.aufa.com.my
+kate-emias-covid.celsus.yandex.astral-dev.ru
 kate-sandbox.celsus.yandex.astral-dev.ru
 kd8rq.app.link
 klientmateusz.agacreate.pl
@@ -2815,6 +2859,7 @@ live-radio-cf-stag-vrt.akamaized.net
 live-vrt.akamaized.net
 liveyourmark.lt.acemlna.com
 lizhweng.api.task-management.harmonia.p13n.amazon.dev
+lloyds-static-nonprod-nsu.akamaihd.net
 login-prd-apigw-br.avon.com
 login.akpdigitalsevakendra.com
 login.apppay.co.in
@@ -2844,6 +2889,7 @@ mattpayneint-72-dot-yamm-track.appspot.com
 maximus.axisbank.co.in
 mblz-lacasa.azurewebsites.net
 mdm.asb-leipzig.de
+media.aod-care.com
 media.appycouple.com
 mediacorptmnewsdev.prod.acquia-sites.com
 memodomainservice.iad.integ.vps.fintech.amazon.dev
@@ -2857,7 +2903,9 @@ midway-auth.amazon.com
 mileageplan-mpchoice.w2.ecomm-test-aks.alaskaair.com
 mint.analdust.site
 mioo-dot-yamm-track.appspot.com
+mkt.a25abril.pt
 mmg-uipath-orchestrator2022-qa-identityserver.azurewebsites.net
+mobile.aeoncredit.co.in
 mobile.afi-solutions.com
 modernmillionaires.lt.acemlnb.com
 moncompte.avoloi.dev
@@ -2865,6 +2913,7 @@ movie04.member.arkit.jp
 mrch01.aciondemand.com
 mrrl.asureforce.net
 multitel.lt.acemlnc.com
+my-acc.athlon.com
 naidapa-testhub.azure-devices.net
 navigator.d1pe40kai4h8dz.amplifyapp.com
 neuroleadership-dot-yamm-track.appspot.com
@@ -2884,6 +2933,7 @@ nxm7qtkm.r.us-east-1.awstrack.me
 nym1-ib.adnxs.com
 o.appdevconsulting.de
 oaopazuat.aia.com.sg
+oasync.aphp.fr
 ocm.andleone-ve.us-west-2.alpha.cx2.ve.primeair.amazon.dev
 ocr-captcha-dev.ascdc.tw
 ocr-captcha.ascdc.tw
@@ -2921,6 +2971,7 @@ phenix-auth.security2.areax.app
 pionex-login.apps-fat.com
 piratenbackup.accounttech.pt
 planersocietaet.maps.arcgis.com
+pleres-pardo-plr.alliar.com
 portal.amazoniaead.com.br
 post.app-dose.online
 post.km.azbil.com
@@ -3006,6 +3057,7 @@ servicemobil.autogadget.ro
 services.alfaregister.org
 services.arz-emmendingen.de
 seven-one-postgres.akogare.de
+sfbwebext-dus.adeccotest.com
 sharmin7afroz-dot-yamm-track.appspot.com
 shellzauat.aieazyfuel.com
 shoebill.brave-new-world.avassa.net
@@ -3023,6 +3075,7 @@ softland99392.lt.acemlnc.com
 sorryonmute.lt.acemlnb.com
 ssl-a.agkservice.net
 sso.aptg.com.tw
+stage.internal.abgapiservices.com
 staging.alcoholsecurity.nl
 stanford.maps.arcgis.com
 static.ads-twitter.com
@@ -3038,6 +3091,7 @@ support.aeonsolutions.com
 support.agtplus.com
 support.aige-hipaint.com
 support.anpor.net
+support.archservices.de
 support.arrayapp.io
 support.artholding.ch
 support.astro.co.uk
@@ -3069,6 +3123,7 @@ testarq-djb3f2gachhhgxaz.z01.azurefd.net
 textes.antonincrenn.com
 tgm.civil.auth.gr
 theamericancollege.lt.acemlna.com
+thehill-com.cdn.ampproject.org
 thehive.anansi-sl.io
 theknowledgegroup.lt.acemlnd.com
 thepetriemethod.lt.acemlnb.com
@@ -3076,10 +3131,13 @@ thevictorymagazine-dot-yamm-track.appspot.com
 thewomenweadmire-dot-yamm-track.appspot.com
 thomasfrogetlesbigbossfr-dot-mmevents.appspot.com
 threedsecure-prd.apcld.com
+tickets.autiwire.com
+tickets.autiwire.de
 tlabyourquote.allianzmusicalinsurance.co.uk
 tlrr51r6.r.us-east-1.awstrack.me
 tn-cot.maps.arcgis.com
 too-fast.odm.cal-sicloud-production.airouting.io
+totem.afcredito.com.br
 totp.avilex.ru
 tr.anpasia.com
 track.adform.net
@@ -3088,6 +3146,7 @@ tracker.alan-preproduction.k8s.ampliffy.com
 tracking.accountstory.com
 tracking.aura-augmentica.com
 trial.al-rahabeach.com
+ttapimanprodapiman.azure-api.net
 tts.alpha-na.turntable.sonic.advertising.amazon.dev
 tts.gamma-eu.turntable.sonic.advertising.amazon.dev
 tvline-com.cdn.ampproject.org
@@ -3103,6 +3162,7 @@ us-east-1.alpha.api.activity-tracking.ads.amazon.dev
 us-east-1.beta.api.activity-tracking.ads.amazon.dev
 us-east-1.zdev.freedman.supergravity.advertising.amazon.dev
 us.akfinancialbank.com
+user.atmpay.id
 usps-post.adidaxt.com
 uxbert76008.lt.acemlnc.com
 v2-aave.arnadoor.com
@@ -3131,6 +3191,7 @@ web.avon.com.mx
 webap-fshmirror-api-we1-prd.azurewebsites.net
 webdisk.aadhaarcreditscore.com
 webdisk.ahsanlakekemang.my.id
+webdisk.amazonsolutionhost.net
 webdisk.apple-support-icloud.ws
 webdisk.appleid-supporticloud.com
 webdisk.appleidmaps.com
@@ -3164,6 +3225,7 @@ wuthadoopmigrate10.azurehdinsight.net
 www-487u.aig.co.jp
 www-adsmos-com.cdn.ampproject.org
 www-banken-nl.cdn.ampproject.org
+www-bbc-com.cdn.ampproject.org
 www-beauteecollagen-co-kr.cdn.ampproject.org
 www-berria-eus.cdn.ampproject.org
 www-cnet-com.cdn.ampproject.org
@@ -3171,6 +3233,7 @@ www-cornwalllive-com.cdn.ampproject.org
 www-dailydot-com.cdn.ampproject.org
 www-dev02.allianzpp.com
 www-devex-com.cdn.ampproject.org
+www-diariofemenino-com.cdn.ampproject.org
 www-diariolibre-com.cdn.ampproject.org
 www-dn-pt.cdn.ampproject.org
 www-elconfidencial-com.cdn.ampproject.org
@@ -3180,6 +3243,7 @@ www-heise-de.cdn.ampproject.org
 www-i7ref.audatex.net
 www-keralaplot-com.cdn.ampproject.org
 www-lavanguardia-com.cdn.ampproject.org
+www-mopo-de.cdn.ampproject.org
 www-muycomputer-com.cdn.ampproject.org
 www-news--medical-net.cdn.ampproject.org
 www-niusdiario-es.cdn.ampproject.org
@@ -3290,6 +3354,7 @@ www.adondeviajar.es
 www.adriabailton.com
 www.adriscookieco.com
 www.adsmos.com
+www.advancedcommercialrefrigerationrepairservice.com
 www.aeondewine.com
 www.aestheticwildlifecontrol.com
 www.aexpfeedback.com
@@ -3302,6 +3367,7 @@ www.afterworldbook.com
 www.agenasuransibank.com
 www.agh.edu.pl
 www.agreedsecurity.com
+www.agrofair.nl
 www.agrosp.com.ar
 www.agrotransporteyservicio.com
 www.ags.gov.au
@@ -3311,12 +3377,14 @@ www.ahart.dev
 www.ahli.appstech-control.com
 www.aholming.de
 www.ai-cio.com
+www.aic.gov.au
 www.aicho.org
 www.ailladearousa.es
 www.aimmachines.com
 www.aimproductionsinc.com
 www.airandweather.com
 www.airbnb.co.uk
+www.airbornemx.com
 www.aircentre.org
 www.airfrightdelivery.com
 www.airgraphics.com
@@ -3336,6 +3404,7 @@ www.alaskaair.com
 www.alberdania.net
 www.alberniweather.ca
 www.albianews.com
+www.albumagency.com
 www.alescoleads.com
 www.alex-kunz.com
 www.alexcityoutlook.com
@@ -3372,12 +3441,14 @@ www.alte-edelsteinschleiferei.de
 www.altominho.tv
 www.alumnaetheatre.com
 www.am-one.co.jp
+www.amazinavenue.com
 www.amcf.co.ke
 www.amdental.net
 www.amdocs-support.com
 www.amdsurveys.com
 www.americafirst2secure.com
 www.americafirst2verify.ml
+www.americafirstsuser.ga
 www.americanforkutahpost49.org
 www.americanlegioncalvertpost85.org
 www.americanlegioncliftonpost421.org
@@ -3400,9 +3471,11 @@ www.anabolfit.com
 www.anabranchsolutions.com
 www.anagrafevolatili.it
 www.anchoragepress.com
+www.ancientfaith.com
 www.andrecrevi.com.br
 www.andrulian.com
 www.andyworthington.co.uk
+www.angehoerige-pflegen.de
 www.angelasaini.co.uk
 www.animenostalgiabomb.com
 www.ankansdatorservice.se
@@ -3410,6 +3483,7 @@ www.annemiekpruijt.nl
 www.annistontreeservice.com
 www.annualcreditreport.com
 www.annuityincomezone.co.uk
+www.annuncibox.it
 www.another-domain-for-avis-client.org
 www.anshuanand.in
 www.antennefrei.de
@@ -3477,6 +3551,7 @@ www.asiraphotographies.com
 www.askaricement.com.pk
 www.asociacionparabolicachoconta.com
 www.assignmentwritingservice.ae
+www.assises-violences-sexistes.fr
 www.assistbox.io
 www.asso-asq.fr
 www.assuredsecurity-bd.com
@@ -3499,6 +3574,7 @@ www.australianaviation.au
 www.auswidesecurity.com.au
 www.autenticacion.oauth.cuentas.apps-login-response.com
 www.auth-kub.ml
+www.auth-n.gq
 www.auth.ailtonramos.com.br
 www.authentic-kub.ml
 www.authentic01.acces-stream4k.com
@@ -3517,6 +3593,7 @@ www.author-ioannise.icu
 www.authoraliciaosmera.com
 www.authorgreggantt.com
 www.authorizedmercedesbenz.com
+www.authorizedscrapper.com
 www.authorkatrinamonroe.com
 www.authormetlife.com
 www.authortabithacarter.com
@@ -3578,6 +3655,7 @@ www.dianakrall2022.tickets.a2hosted.com
 www.dragonforce2022.tickets.a2hosted.com
 www.easysafe.com.tw.ren.a2hosted.com
 www.escolavirtual.academia79.pt
+www.eticket.asibmollick.xyz
 www.express-delivery.almashreq-bank.com
 www.farm.authenticationvalidation.org
 www.gblog.bank.pingan.com.ahiddenlab.com
@@ -3625,6 +3703,7 @@ www.login.oauth.authorize.appsauthentication.com
 www.login.oauth.authorize.authorizeapps.com
 www.loginredirecturi.appsnetworking.com
 www.louistomlinsonto.com.tickets.a2hosted.com
+www.manufacture.arast.co.id
 www.mcqsportsapi.aiscoreupdate.com
 www.mikajayaservice.almiatour.com
 www.modefinsupport.amardeepltd.com
@@ -3650,6 +3729,7 @@ www.prezentboxupgrade.advisclient.com.au
 www.prj.auditaccount.pt
 www.pvmaztyhsbze.authorizedmercedesbenz.com
 www.redhotchillipeppers2022.tickets.a2hosted.com
+www.report.kunde.aze.dk
 www.restaurar.audiolibrosonline.es
 www.robertocarlos2022.tickets.a2hosted.com
 www.roomservice.arsenalmp.ro
@@ -3676,6 +3756,7 @@ www.studioarteinformatica.com.br.agillservice.com.br
 www.sucursales24.atencioncliente.com.ar
 www.support.afritechit.com
 www.support.arifsaeed.com
+www.support.hownumerlogy.com.azuladotravel.com
 www.support.theoatrix.net.atrix.ltd
 www.szatickets.com.tickets.a2hosted.com
 www.targethelpdesk.avsofttasks.com
@@ -3686,10 +3767,14 @@ www.ticket.adoniasite.com
 www.tracking-usps-barcode-label-track-package.americanunfinished.com
 www.trevornoahtours.com.tickets.a2hosted.com
 www.trial.al-rahabeach.com
+www.turnerschaft-deutschlandsberg.users.aboliton.at
 www.update.ajtaihorses.com
 www.update.athanimeacademy.in
 www.us.akfinancialbank.com
+www.user.advertisingdesigns.com.ng
 www.user.amall.com.hk
+www.user.atmpay.id
+www.veriffy-cituzzens-aces9kla.authorizeddns.us
 www.verify.id.discovery.co.za.akmd01.com
 www.vwriffy-weljs-aces9amk.authorizeddns.us
 www.wineshoop.com.br.alldigitalserver.com
