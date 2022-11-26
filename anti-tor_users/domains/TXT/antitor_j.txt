@@ -315,6 +315,7 @@ backup.jl-service.be
 baramundi.johanniter.at
 beta2.jaan.online
 billpaylite.ipay.jhahosting.com
+blog.jakelacaze.com
 blog.jalantechnologies.com
 blog.joshgav.com
 ca.jubilo.ca
@@ -334,6 +335,7 @@ de.jesussky.gq
 demo.jbbros.com
 dev.jaan.info
 disco.jmfurlott.com
+dl3.javan-musics.com
 dockets.justia.com
 donnapizza.pedidoonline.jclan.com.br
 dr-alan-cook.secure.junoemr.com
@@ -360,6 +362,7 @@ jaidurab.com
 jalane.jodymaroni.com
 jalangoldsilver.com
 jalanniemenvesiosuuskunta.fi
+jamadagny.com
 jameshaworth.dev
 jamesmichie.com
 jamespalmeiroblog.com
@@ -480,6 +483,11 @@ pro.stg.jawaz-essaha.com
 qoh-test.johnstonesupply.com
 r2corona-1.jizokukashien.info
 rakuten-japan-ja-cojp.jinxgs.cn
+rakuten-japan-securiyt.jgwjm.cn
+rakuten-japan-securiyt.jinlaidun.cn
+rakuten-japan-securiyt.jinxgs.cn
+rakuten-japan-securiyt.jinyunbw.cn
+rakuten-japan-securiyt.julnfg.cn
 randomvignettes.jectoons.net
 redirect.jobsearcher.com
 secure.bankofamerica.com.joshuamrapp.com
@@ -497,6 +505,7 @@ test-mij.japan-property.jp
 test-ohkuraya.japan-property.jp
 test.javan.work
 test.store.ichii-japan.comaz777.joshuaanello.com
+testbildungsportal.johanniter.de
 thinks.jamesbradbury.co.uk
 webdisk.backupdayo.japan-onlinestores.com
 webdisk.jalanacooper.com
@@ -506,6 +515,7 @@ www.acceso.jonyteam.com
 www.animal-accounting-system.jw-prospect.com.tw
 www.billi.jacobsbagels.com
 www.billing.jubeaudoin.ca
+www.contao.jaizen600.de
 www.contoh1.jpwm.online
 www.controlgroup.jeevious.com
 www.creditfree.jilislots.co
