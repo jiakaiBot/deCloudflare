@@ -309,6 +309,7 @@ zh.updates.international
 301usgovvirginia1175221.blob.core.usgovcloudapi.net
 51008.l.useitbetter.com
 accom.uinterbox.com
+aicovid.unydevelopernetwork.com
 apass-p.usj.co.jp
 api.und-gesund.de
 apitst.upmchp.com
@@ -359,6 +360,8 @@ demo3.utilibill.com.au
 designthinking.extension.ucr.edu
 dev-micropay.uplus.co.kr
 dev.api.data.unicloudgroup.com.vn
+dpxpay.umonitor.com
+emergency-support.upstreamdigital.ca
 experimentalgamecultures.uni-ak.ac.at
 extranet.upmuruguay.com.uy
 extranetslam.urops-prevention.fr
@@ -370,8 +373,10 @@ gateway.ovid.com.remotexs.unimas.my
 git.ufcontrol.com
 gpu.unimedmineiros.coop.br
 guiaempresas.universia.es
+happypack.unicef.be
 homedav.unifr.ch
 i-api.uni-sofia.bg
+idam.upr.si
 identity.unimas.my
 ieim.uqam.ca
 ines.zfn.uni-bremen.de
@@ -396,6 +401,7 @@ mybcabisnis-api.u-appspecto.com
 mybcabisnis.u-appspecto.com
 mypaid.updatedvpn.xyz
 nectr.utilibill.com.au
+netflixi.uber.space
 o.upgradegroup.com
 obikn.u-appspecto.com
 ocpp-onedotsix-rsa-k8s-staging-01.ubitricity.com
@@ -415,8 +421,10 @@ pub.jefs.uscourts.gov
 public.cs.uni-koeln.de
 qa.apimgmt.udtrucks.com
 redactie.uat-vlaanderen.be
+relawan.untukcianjur.id
 reports-staging.upcovid19tracks.in
 rirra21.www.univ-montp3.fr
+schwarzesbrett.wp.hum.uu.nl
 scim.urimapp.com
 secure.ubsimt.com
 services.usps.com
@@ -428,6 +436,7 @@ staging.userpeek.com
 store.united-arrows.co.jp
 store.usps.com
 su.untill.com
+support.microsoft.com.remotexs.unimas.my
 support.udesite.be
 svn.ultimate-eur.com
 test2.unitedadlabel.com
@@ -439,6 +448,7 @@ ticket.unlihost.cfd
 tkmed.uniklinik-bonn.de
 tmc.fm.usermd.net
 trans-proxy.uecard.ru
+troublex.uber.space
 ua-acoustics.com
 ubcpress.ca
 ucallblog.sites.uu.nl
@@ -462,6 +472,7 @@ ulysse31soundtrack.com
 umbrellasecurity.fr.umbrellahost.fr
 unarclient.com
 uncatolicoperplejo.com
+uncoder.io
 uncomics.org
 uncut.wtf
 undergroundsolushn.com
@@ -562,6 +573,7 @@ www.dinarkrgresik.com.updatehargaemas.com
 www.dinarkrtangsel.com.updatehargaemas.com
 www.direto.updatecardiovasculardotejo.pt
 www.e-confirmation.urbanplaymedia.com
+www.emergency-support.upstreamdigital.ca
 www.facturation-app.unitra.ma
 www.game-tv.update-sports.com
 www.git.free.oyetunet.tksecure.online.unrealcs.ru
@@ -573,6 +585,7 @@ www.gitlab.git.free.oyetunet.tksecure.online.unrealcs.ru
 www.gitlab.git.git.free.oyetunet.tksecure.online.unrealcs.ru
 www.gitlab.gitlab.git.free.oyetunet.tksecure.online.unrealcs.ru
 www.go.update-sports.com
+www.goldenbank.uke.icu
 www.hesabat.unikalservice.com
 www.holyshimz.usermd.net
 www.joss.update-sports.com
@@ -588,17 +601,20 @@ www.neuronum.overcloud.usermd.net
 www.nfhs.update-sports.com
 www.nifa.usda.gov
 www.on-tv.update-sports.com
+www.schedule.update-sports.com
 www.secure.ubsimt.com
 www.secure.ultraahost.com
 www.space-tv.update-sports.com
 www.sport-live.update-sports.com
 www.staging.userpeek.com
 www.support.utu.systems
+www.syahreza.update-sports.com
 www.ticket.unlihost.cfd
 www.ticket01.usatodayhs.com
 www.tmc.fm.usermd.net
 www.today.update-sports.com
 www.uci.cu
+www.ugtbalears.com
 www.ui.ac.id
 www.ukmilitarymentors.co.uk
 www.ukrn.org
@@ -626,6 +642,7 @@ www.update706.ml
 www.updateworld24.com
 www.uph.de
 www.upmedia.mg
+www.urbana.ie
 www.urbanfantasist.com
 www.urbansafety.ro
 www.urlc.online
@@ -633,6 +650,7 @@ www.urologin.at
 www.uscp.gov
 www.usdirectexpress.com
 www.user.ultmustrade.com
+www.userchrome.org
 www.usercitizensbank.ga
 www.usereluz.com
 www.userlytics.com
