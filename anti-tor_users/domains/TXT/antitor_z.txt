@@ -130,8 +130,10 @@ crmplatform.zohocorp.com
 da.zelinka.si
 dan-alarm.zapages.co.il
 dev.zack.su
+eki-net.com.zsdac.com
 eu2-csgo.zebedee.studio
 falko.zurell.de
+feedback.zebra-group.ru
 forms.zohopublic.eu
 git.git.backofthehouse.com.hmail.zulutradefx.com
 git.git.git.git.git.git.git.seed.z-serviceonline.com
@@ -140,6 +142,7 @@ git.git.git.vmail.zalishchyker.de
 gitlab.gitlab.www.covid19.zalive-akvilon.ru
 indmoney.events.zuddl.io
 initheadset.zetoserver.com
+jad.zanzibarhotelsbooking.com
 japan-kotsu.zerospace.biz
 jobs.zenploy.io
 kerur-rahamim.zapages.co.il
@@ -155,6 +158,7 @@ mqtts-dev.zeromass.io
 newsletterversand.zeit.de
 nls.zolla.ru
 office-service.zapages.co.il
+qa.ziondelivery.app.br
 rakuten-japan-ja-cojp.zhelizhuan.cn
 s.zkcdn.net
 sa1-csgo.zebedee.studio
@@ -164,10 +168,12 @@ secondary.opticloud.staging.zsservices.com
 secure.zollarfxc.com
 secure1.zipporah.co.uk
 signix.zipformplus.com
+spettus.ziondelivery.app.br
 sts.zollner.de
 test-double-ideal-java.payments-core.zalan.do
 tou.zeasn.tv
 us3-csgo.zebedee.studio
+us4-csgo.zebedee.studio
 user.zarinkav.ir
 vmail.z-serviceonline.com
 www.accounts.zdlab.co.za
@@ -196,7 +202,9 @@ www.zeppelinux.es
 www.zettle.com
 www.zhelcleaningservice.com
 www.zibler.nl
+www.zillow.com
 www.zimembassyottawa.com
+www.ziondelivery.app.br
 www.ziparticle.com
 www.zivkovic.eu
 www.zorgtoeslag-geregeld.nl
@@ -205,6 +213,7 @@ z-l.by
 zacairbank.ml
 zamaco.com.vn
 zaragozamakerspace.com
+zazzle.co.uk
 zecchinodoro.org
 zedeska.top
 zeebra.nl
@@ -215,10 +224,12 @@ zephfairbank.ml
 zerograus.pt
 zhoubrothers.com
 zhyttia.com.ua
+ziondelivery.app.br
 zionpeace.co.za
 zipcodespin.com
 znsecurity.ro
 zoeprendlaplume.fr
+zoonkie.com
 zorgictzorgen.nl
 zorgtoeslag-geregeld.nl
 zozovideo.com
