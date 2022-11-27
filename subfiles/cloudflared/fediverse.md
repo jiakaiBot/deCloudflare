@@ -4537,6 +4537,7 @@ Here's a list of public Fediverse services.
 | `cirrus-ss.dev` | No |
 | `cirrus.social` | Yes |
 | `cirrusseven.com` | Yes |
+| `ciruxia.se` | No |
 | `cis-reunion.fr` | No |
 | `cisne.dev` | Yes |
 | `cisti.org` | No |
@@ -30994,7 +30995,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,844 |
-| Normal | 24,106 |
+| Normal | 24,107 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
