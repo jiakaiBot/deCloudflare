@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Square SDK is unusable in Cloudflare Workers](https://github.com/square/square-nodejs-sdk/issues/111)
 - [not working with Cloudflare HLS streams](https://github.com/videojs/video.js/issues/8024)
 - [CloudFlare Cloudflare GraphQL Availability Issues](https://github.com/MatBenfield/news/issues/6231)
 - [Invalid or missing type for parameter "sitekey", expected "string", got "object".](https://github.com/Ben754444/react-cf-turnstile/issues/2)
