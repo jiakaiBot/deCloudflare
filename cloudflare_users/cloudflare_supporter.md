@@ -3184,6 +3184,7 @@ Do not create new issue or we will close it as duplicate.
 | [HabijulKhan8@twitter](https://twitter.com/HabijulKhan8/status/1405041121261080576) | advertise |
 | [hachung1710@twitter](https://twitter.com/hachung1710/status/1564972921746903041) | advertise |
 | [hack3r_oneness@twitter](https://twitter.com/hack3r_oneness/status/1399036170223308803) | advertise |
+| [hackernguvcl123@twitter](https://twitter.com/hackernguvcl123/status/1596891005881831424) | advertise |
 | [HackersOIHEC@twitter](https://twitter.com/HackersOIHEC/status/1478127124368269317) | advertise |
 | [HackersOmhe@twitter](https://twitter.com/HackersOmhe/status/1478127124368269317) | advertise |
 | [Hackroos@twitter](https://twitter.com/Hackroos/status/1573748600512749568) | advertise |
@@ -9162,6 +9163,7 @@ Do not create new issue or we will close it as duplicate.
 | [StevenYagel1@twitter](https://twitter.com/StevenYagel1/status/1561718347590680576) | advertise |
 | [steven_rusty@twitter](https://twitter.com/steven_rusty/status/1476304266746810376) | advertise |
 | [STEVESYH@twitter](https://twitter.com/STEVESYH/status/1573325435899084802) | advertise |
+| [sthabiso_iv@twitter](https://twitter.com/sthabiso_iv/status/1596898514885287941) | advertise |
 | [STharaan@twitter](https://twitter.com/STharaan/status/1563651594914148352) | advertise |
 | [SthiKvs@twitter](https://twitter.com/SthiKvs/status/1552687724498341889) | advertise |
 | [StHost@twitter](https://twitter.com/StHost/status/1421792790602784773) | advertise |
