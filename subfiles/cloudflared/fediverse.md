@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,467 |
+| com | 4,468 |
 | social | 2,520 |
 | net | 2,361 |
 | org | 1,704 |
@@ -4688,6 +4688,7 @@ Here's a list of public Fediverse services.
 | `clubhouse2.net` | Yes |
 | `clubmontclair.com` | No |
 | `clumsy.computer` | No |
+| `clusterfog.com` | No |
 | `cly.wtf` | Yes |
 | `clyez.city` | No |
 | `cm-en-transition.fr` | No |
@@ -16298,7 +16299,7 @@ Here's a list of public Fediverse services.
 | `mastodon.space` | No |
 | `mastodon.su` | No |
 | `mastodon.sucks` | No |
-| `mastodon.systems` | No |
+| `mastodon.systems` | Yes |
 | `mastodon.tech` | No |
 | `mastodon.technology` | No |
 | `mastodon.tn` | No |
@@ -30953,7 +30954,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,832 |
+| Cloudflare | 6,833 |
 | Normal | 24,078 |
 
 
