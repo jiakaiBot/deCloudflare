@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Server side fetch() fails for certain redirects](https://github.com/sveltejs/kit/issues/7834)
 - [Feat Telemetry error with wrangler](https://github.com/upstash/upstash-redis/issues/268)
 - [Websocket connections rejected](https://github.com/nginxinc/nginx-kubernetes-gateway/issues/315)
 - [Square SDK is unusable in Cloudflare Workers](https://github.com/square/square-nodejs-sdk/issues/111)
