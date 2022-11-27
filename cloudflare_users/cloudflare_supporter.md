@@ -6974,6 +6974,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguyenantam96@twitter](https://twitter.com/nguyenantam96/status/1483699443472158720) | advertise |
 | [NguyenD10705152@twitter](https://twitter.com/NguyenD10705152/status/1405567015402708994) | advertise |
 | [nguyendangngo16@twitter](https://twitter.com/nguyendangngo16/status/1552952449451044864) | advertise |
+| [NguyenDat41@twitter](https://twitter.com/NguyenDat41/status/1596930673935527936) | advertise |
 | [NguyenDatLS1@twitter](https://twitter.com/NguyenDatLS1/status/1575242140745342977) | advertise |
 | [NguyenDJ@twitter](https://twitter.com/NguyenDJ/status/1385868091020648448) | advertise |
 | [nguyendoantrun1@twitter](https://twitter.com/nguyendoantrun1/status/1397256926929440769) | advertise |
