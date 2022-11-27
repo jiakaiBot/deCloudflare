@@ -8457,6 +8457,7 @@ Do not create new issue or we will close it as duplicate.
 | [s1mpoverYoi@twitter](https://twitter.com/s1mpoverYoi/status/1500007315440693249) | advertise |
 | [S2G11693168@twitter](https://twitter.com/S2G11693168/status/1593549107406471168) | advertise |
 | [s6my7jk@twitter](https://twitter.com/s6my7jk/status/1398057139667623936) | advertise |
+| [S7DEADSHOT@twitter](https://twitter.com/S7DEADSHOT/status/1596976446735810560) | advertise |
 | [S64261242Robert@twitter](https://twitter.com/S64261242Robert/status/1593940558153715713) | advertise |
 | [saad_hason@twitter](https://twitter.com/saad_hason/status/1549937766301315072) | advertise |
 | [SaahilPanchal@twitter](https://twitter.com/SaahilPanchal/status/1547124951744118784) | advertise |
