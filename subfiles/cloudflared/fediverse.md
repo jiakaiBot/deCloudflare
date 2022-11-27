@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,459 |
-| social | 2,506 |
+| social | 2,508 |
 | net | 2,353 |
 | org | 1,699 |
 | de | 1,539 |
@@ -1671,6 +1671,7 @@ Here's a list of public Fediverse services.
 | `arenzana.org` | No |
 | `aretex.ca` | No |
 | `aretz.social` | No |
+| `arf.social` | No |
 | `arg.vc` | No |
 | `argb.in` | No |
 | `argentum.social` | No |
@@ -7229,6 +7230,7 @@ Here's a list of public Fediverse services.
 | `echoz.io` | No |
 | `echty.de` | No |
 | `echus.net` | Yes |
+| `ecitizen.my.id` | Yes |
 | `eclectic.gay` | No |
 | `eclecticshock.com` | No |
 | `eclesia.space` | No |
@@ -9397,6 +9399,7 @@ Here's a list of public Fediverse services.
 | `fur.is` | No |
 | `fur2.xyz` | No |
 | `fura.dev` | No |
+| `furality.social` | No |
 | `furankum.ovh` | No |
 | `furby.dev` | No |
 | `furcon.social` | Yes |
@@ -9808,6 +9811,7 @@ Here's a list of public Fediverse services.
 | `gekritzel.at` | No |
 | `geldmacher.io` | No |
 | `gelez.xyz` | No |
+| `geloofsvoer.nl` | Yes |
 | `gelotte.dev` | No |
 | `gelse.eu` | No |
 | `gelt.cz` | No |
@@ -30882,8 +30886,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,811 |
-| Normal | 24,028 |
+| Cloudflare | 6,813 |
+| Normal | 24,030 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
