@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,474 |
-| social | 2,523 |
-| net | 2,362 |
+| com | 4,475 |
+| social | 2,525 |
+| net | 2,363 |
 | org | 1,705 |
-| de | 1,540 |
+| de | 1,541 |
 
 
 - Mastodon, Pleroma, etc
@@ -701,6 +701,7 @@ Here's a list of public Fediverse services.
 | `actrophp.de` | No |
 | `acts-sh.pp.ua` | No |
 | `acts17archive.org` | No |
+| `actuallyacat.com` | No |
 | `acu.lt` | No |
 | `acurrency.org` | No |
 | `ad5001.eu` | No |
@@ -1571,6 +1572,7 @@ Here's a list of public Fediverse services.
 | `aphasiagoverned.com` | No |
 | `api-ariang.ml` | No |
 | `apievangelist.com` | Yes |
+| `apintandaparma.club` | Yes |
 | `apiote.tk` | No |
 | `apiote.xyz` | No |
 | `apirie.uk` | No |
@@ -4164,6 +4166,7 @@ Here's a list of public Fediverse services.
 | `cerclearistote.com` | No |
 | `cerebralab.com` | No |
 | `cerebralmix.cc` | No |
+| `cerebro.social` | No |
 | `cereza.de` | No |
 | `ceriz.fr` | No |
 | `cerritus.eu` | No |
@@ -6771,6 +6774,7 @@ Here's a list of public Fediverse services.
 | `dominikmarciniak.pl` | No |
 | `domm.me` | Yes |
 | `dommunicate.com` | Yes |
+| `domo.cafe` | Yes |
 | `domov.de` | No |
 | `domtube.de` | No |
 | `don.im` | Yes |
@@ -9524,6 +9528,7 @@ Here's a list of public Fediverse services.
 | `fvktv.me` | No |
 | `fx-don.net` | No |
 | `fx.cafe` | No |
+| `fx4.net` | No |
 | `fxmech.com` | Yes |
 | `fxxking.life` | Yes |
 | `fy.to` | No |
@@ -10159,6 +10164,7 @@ Here's a list of public Fediverse services.
 | `glyphicality.tk` | No |
 | `glyphpress.com` | No |
 | `glyphy.com` | Yes |
+| `glz.ca` | Yes |
 | `gmajewski.xyz` | No |
 | `gmartin.net` | Yes |
 | `gmastod.online` | No |
@@ -12003,6 +12009,7 @@ Here's a list of public Fediverse services.
 | `in-athens.gr` | No |
 | `in-berlin.de` | No |
 | `in-de-hand.info` | No |
+| `in-purple.de` | Yes |
 | `in-stuggi.de` | No |
 | `in-visible.eu` | No |
 | `in0rdr.ch` | No |
@@ -17880,7 +17887,7 @@ Here's a list of public Fediverse services.
 | `mstdn.at` | No |
 | `mstdn.beer` | No |
 | `mstdn.biz` | No |
-| `mstdn.blue` | No |
+| `mstdn.blue` | Yes |
 | `mstdn.ca` | Yes |
 | `mstdn.cafe` | No |
 | `mstdn.camera` | No |
@@ -21250,6 +21257,7 @@ Here's a list of public Fediverse services.
 | `playgames.jp` | No |
 | `playground.ws` | No |
 | `playingwithworms.org.uk` | No |
+| `playpen.social` | No |
 | `playseye.com` | No |
 | `playstation-mstdn.com` | No |
 | `playstation-sns.com` | No |
@@ -25399,6 +25407,7 @@ Here's a list of public Fediverse services.
 | `squeegee.one` | Yes |
 | `squeet.me` | No |
 | `squid.cafe` | No |
+| `squid.gay` | Yes |
 | `squiddev.cc` | Yes |
 | `squiggly.club` | No |
 | `squirrelmob.com` | No |
@@ -27573,6 +27582,7 @@ Here's a list of public Fediverse services.
 | `toots.id` | Yes |
 | `toots.im` | No |
 | `toots.nu` | No |
+| `toots.page` | No |
 | `toots.social` | Yes |
 | `toots.space` | No |
 | `toots.works` | No |
@@ -30688,6 +30698,7 @@ Here's a list of public Fediverse services.
 | `zamborsky.eu` | No |
 | `zamdronie.com` | No |
 | `zane.town` | No |
+| `zannoni.eu` | No |
 | `zap.dog` | No |
 | `zapashcanon.fr` | No |
 | `zapchenwellbeing.org` | No |
@@ -30971,8 +30982,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,837 |
-| Normal | 24,091 |
+| Cloudflare | 6,843 |
+| Normal | 24,096 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
