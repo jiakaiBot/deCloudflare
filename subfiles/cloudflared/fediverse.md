@@ -7229,7 +7229,6 @@ Here's a list of public Fediverse services.
 | `echoz.io` | No |
 | `echty.de` | No |
 | `echus.net` | Yes |
-| `ecitizen.my.id` | Yes |
 | `eclectic.gay` | No |
 | `eclecticshock.com` | No |
 | `eclesia.space` | No |
@@ -9809,7 +9808,6 @@ Here's a list of public Fediverse services.
 | `gekritzel.at` | No |
 | `geldmacher.io` | No |
 | `gelez.xyz` | No |
-| `geloofsvoer.nl` | Yes |
 | `gelotte.dev` | No |
 | `gelse.eu` | No |
 | `gelt.cz` | No |
@@ -12994,6 +12992,7 @@ Here's a list of public Fediverse services.
 | `joscomputing.space` | No |
 | `joseli.to` | Yes |
 | `josephburnett.social` | No |
+| `josephgruber.space` | No |
 | `josephmann.au` | Yes |
 | `josephmatheny.com` | No |
 | `josephschneider.net` | No |
@@ -24155,6 +24154,7 @@ Here's a list of public Fediverse services.
 | `shadowland.social` | No |
 | `shadowsocial.org` | No |
 | `shadowtoot.space` | Yes |
+| `shadowtoot.world` | Yes |
 | `shadowverdon.info` | No |
 | `shadowverse-mstdn.jp` | No |
 | `shadura.me` | No |
@@ -30882,8 +30882,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,812 |
-| Normal | 24,027 |
+| Cloudflare | 6,811 |
+| Normal | 24,028 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
