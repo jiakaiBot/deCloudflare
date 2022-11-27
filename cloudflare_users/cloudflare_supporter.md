@@ -2303,6 +2303,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dineshk79012300@twitter](https://twitter.com/Dineshk79012300/status/1385037332621922304) | advertise |
 | [Dinesh_11111T@twitter](https://twitter.com/Dinesh_11111T/status/1407931848605401089) | advertise |
 | [DinfZerotwo@twitter](https://twitter.com/DinfZerotwo/status/1526581544277647361) | advertise |
+| [Dinh4056@twitter](https://twitter.com/Dinh4056/status/1596954284306071552) | advertise |
 | [dinhkhanh1308@twitter](https://twitter.com/dinhkhanh1308/status/1505689824778678272) | advertise |
 | [DinhNgu08437857@twitter](https://twitter.com/DinhNgu08437857/status/1478386797738668035) | advertise |
 | [dinhtoan202@twitter](https://twitter.com/dinhtoan202/status/1526084573075222528) | advertise |
