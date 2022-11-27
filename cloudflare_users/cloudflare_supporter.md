@@ -884,6 +884,7 @@ Do not create new issue or we will close it as duplicate.
 | [Aster21Team@twitter](https://twitter.com/Aster21Team/status/1395622416819179521) | advertise |
 | [astrocopia@twitter](https://twitter.com/astrocopia/status/1590760408352456704) | advertise |
 | [Asuka68530199@twitter](https://twitter.com/Asuka68530199/status/1552187901449945089) | advertise |
+| [asz369358@twitter](https://twitter.com/asz369358/status/1596875706382028811) | advertise |
 | [at251105320@twitter](https://twitter.com/at251105320/status/1505566745951875074) | advertise |
 | [Ata720506551@twitter](https://twitter.com/Ata720506551/status/1579033642827149312) | advertise |
 | [AtaAtaei5@twitter](https://twitter.com/AtaAtaei5/status/1471392503802875906) | advertise |
@@ -2931,6 +2932,7 @@ Do not create new issue or we will close it as duplicate.
 | [FZLawAssociates@twitter](https://twitter.com/FZLawAssociates/status/1392177594183860226) | advertise |
 | [fzxenar@twitter](https://twitter.com/fzxenar/status/1478967657407795207) | advertise |
 | [fz_law@twitter](https://twitter.com/fz_law/status/1392177594183860226) | advertise |
+| [F_92sd@twitter](https://twitter.com/F_92sd/status/1596878185144414209) | advertise |
 | [g02M1Rjo2WJvITL@twitter](https://twitter.com/g02M1Rjo2WJvITL/status/1402969073282027525) | advertise |
 | [G7OAH_Ken@twitter](https://twitter.com/G7OAH_Ken/status/1544335505235517441) | advertise |
 | [g7Vsqme2nATL3G6@twitter](https://twitter.com/g7Vsqme2nATL3G6/status/1400850162675716096) | advertise |
