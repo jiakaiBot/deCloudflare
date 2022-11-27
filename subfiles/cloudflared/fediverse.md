@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,468 |
-| social | 2,520 |
-| net | 2,361 |
+| com | 4,470 |
+| social | 2,521 |
+| net | 2,362 |
 | org | 1,704 |
 | de | 1,540 |
 
@@ -436,6 +436,7 @@ Here's a list of public Fediverse services.
 | `6t.vc` | No |
 | `6te.net` | No |
 | `6wsw9.com` | No |
+| `7.cr` | Yes |
 | `7144.party` | No |
 | `7365000.xyz` | Yes |
 | `73k.us` | No |
@@ -2495,6 +2496,7 @@ Here's a list of public Fediverse services.
 | `bayes.club` | No |
 | `bayfur.club` | No |
 | `bayliss.social` | No |
+| `baz.com` | No |
 | `bazbaze.com` | No |
 | `bazurk.com` | No |
 | `bbad.com` | No |
@@ -13859,6 +13861,7 @@ Here's a list of public Fediverse services.
 | `kobys.net` | No |
 | `kochdepp.de` | No |
 | `kochidon.com` | No |
+| `kochudaho.me` | Yes |
 | `kockatoo.org` | No |
 | `kocko.org` | No |
 | `kodachrome.club` | No |
@@ -14732,7 +14735,7 @@ Here's a list of public Fediverse services.
 | `lgbtppl.com` | Yes |
 | `lgbtpzn.org` | No |
 | `lgbtq.cool` | No |
-| `lgbtqia.is` | Yes |
+| `lgbtqia.is` | No |
 | `lgbtqia.space` | Yes |
 | `lgbtqplus.social` | Yes |
 | `lgm.ltd` | No |
@@ -17506,6 +17509,7 @@ Here's a list of public Fediverse services.
 | `mojozilla.net` | No |
 | `mokete.de` | No |
 | `mokka.space` | No |
+| `mokomoko-harbor.net` | No |
 | `mokou.de` | No |
 | `moldyspam.com` | No |
 | `mollys.social` | No |
@@ -22444,6 +22448,7 @@ Here's a list of public Fediverse services.
 | `rapemeat.solutions` | No |
 | `raph.tv` | No |
 | `raphael-jolivet.name` | No |
+| `raphmim.com` | No |
 | `raphus.social` | Yes |
 | `rapidblock.org` | No |
 | `rapidsloth.xyz` | No |
@@ -24716,6 +24721,7 @@ Here's a list of public Fediverse services.
 | `sleiss.me` | Yes |
 | `slerp.ch` | No |
 | `sleuth.world` | No |
+| `sliek.social` | No |
 | `sliekcastopod.com` | No |
 | `sliekcasts.com` | No |
 | `slightly.social` | No |
@@ -26196,6 +26202,7 @@ Here's a list of public Fediverse services.
 | `take.farm` | No |
 | `takebackourtech.org` | No |
 | `takedown.sh` | No |
+| `takehi.to` | No |
 | `takeko.cyou` | No |
 | `takeko.monster` | Yes |
 | `takemusu-aiki.be` | No |
@@ -30954,8 +30961,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,833 |
-| Normal | 24,078 |
+| Cloudflare | 6,834 |
+| Normal | 24,084 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
