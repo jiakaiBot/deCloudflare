@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,486 |
-| social | 2,539 |
-| net | 2,368 |
+| social | 2,540 |
+| net | 2,369 |
 | org | 1,709 |
 | de | 1,545 |
 
@@ -7334,7 +7334,7 @@ Here's a list of public Fediverse services.
 | `edtechstrategies.social` | No |
 | `edtechyogi.com` | No |
 | `eduardocollado.com` | No |
-| `education.fr` | No |
+| `education.fr` | Yes |
 | `educator.social` | No |
 | `educhat.social` | No |
 | `educity.asia` | No |
@@ -10327,6 +10327,7 @@ Here's a list of public Fediverse services.
 | `goodass.dog` | No |
 | `goodbye.work` | Yes |
 | `goodchristian.website` | No |
+| `goodfeeds.net` | No |
 | `goodman-wilson.com` | Yes |
 | `goodo.men` | No |
 | `goodpixels.eu` | No |
@@ -14242,6 +14243,7 @@ Here's a list of public Fediverse services.
 | `kx.studio` | No |
 | `kxn4t.tech` | No |
 | `kyaru.xyz` | Yes |
+| `kyaruc.moe` | No |
 | `kylebronsdon.com` | No |
 | `kylefreed.com` | Yes |
 | `kylehengst.com` | Yes |
@@ -16124,6 +16126,7 @@ Here's a list of public Fediverse services.
 | `masto.id` | Yes |
 | `masto.io` | No |
 | `masto.la` | No |
+| `masto.land` | No |
 | `masto.lol` | No |
 | `masto.me.uk` | No |
 | `masto.media` | No |
@@ -23984,6 +23987,7 @@ Here's a list of public Fediverse services.
 | `scronkfinkle.net` | Yes |
 | `scrubjay.social` | Yes |
 | `scrumcar.me` | No |
+| `scruz.social` | Yes |
 | `scssoft.com` | No |
 | `scuba323.com` | Yes |
 | `scubadon.jp` | No |
@@ -26783,6 +26787,7 @@ Here's a list of public Fediverse services.
 | `the-idw.com` | No |
 | `the-j.ml` | No |
 | `the-liberator.news` | Yes |
+| `the-one.global` | No |
 | `the-orbit.net` | Yes |
 | `the-penguin.de` | No |
 | `the-pit.uk` | No |
@@ -31050,8 +31055,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,859 |
-| Normal | 24,148 |
+| Cloudflare | 6,861 |
+| Normal | 24,151 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
