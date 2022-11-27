@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,459 |
 | social | 2,506 |
-| net | 2,352 |
+| net | 2,353 |
 | org | 1,699 |
 | de | 1,539 |
 
@@ -6972,6 +6972,7 @@ Here's a list of public Fediverse services.
 | `drskrzyk.com` | No |
 | `druid.town` | No |
 | `drumbum42.com` | No |
+| `drumstodon.net` | No |
 | `drunu.be` | Yes |
 | `drup.no` | No |
 | `drupal.community` | No |
@@ -9725,7 +9726,7 @@ Here's a list of public Fediverse services.
 | `gbenjamin.fr` | No |
 | `gbl08ma.com` | No |
 | `gbnet.net` | No |
-| `gboaonline.org` | Yes |
+| `gboaonline.org` | No |
 | `gbox.work` | No |
 | `gbtdn.tokyo` | No |
 | `gc2.jp` | Yes |
@@ -20859,7 +20860,7 @@ Here's a list of public Fediverse services.
 | `philipphoefer.de` | No |
 | `phillips.fun` | No |
 | `philoxweb.be` | No |
-| `philpin.com` | No |
+| `philpin.com` | Yes |
 | `philpot.org` | No |
 | `phirat.club` | No |
 | `phire.place` | No |
@@ -30675,7 +30676,7 @@ Here's a list of public Fediverse services.
 | `zer0.live` | No |
 | `zer0day.dev` | No |
 | `zer0xff.com` | No |
-| `zergud.com` | Yes |
+| `zergud.com` | No |
 | `zergy.net` | No |
 | `zero-day.tech` | Yes |
 | `zero.lgbt` | Yes |
@@ -30879,8 +30880,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,810 |
-| Normal | 24,026 |
+| Cloudflare | 6,809 |
+| Normal | 24,028 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
