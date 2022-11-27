@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Feat Telemetry error with wrangler](https://github.com/upstash/upstash-redis/issues/268)
 - [Websocket connections rejected](https://github.com/nginxinc/nginx-kubernetes-gateway/issues/315)
 - [Square SDK is unusable in Cloudflare Workers](https://github.com/square/square-nodejs-sdk/issues/111)
 - [not working with Cloudflare HLS streams](https://github.com/videojs/video.js/issues/8024)
