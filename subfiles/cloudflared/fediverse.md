@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,478 |
-| social | 2,523 |
-| net | 2,363 |
+| com | 4,479 |
+| social | 2,525 |
+| net | 2,364 |
 | org | 1,705 |
 | de | 1,542 |
 
@@ -2644,7 +2644,7 @@ Here's a list of public Fediverse services.
 | `bend.town` | No |
 | `benehomini.social` | No |
 | `benetou.fr` | No |
-| `bengaluru.social` | No |
+| `bengaluru.social` | Yes |
 | `bengo.is` | No |
 | `benh.codes` | No |
 | `benhutchings.com` | No |
@@ -4166,6 +4166,7 @@ Here's a list of public Fediverse services.
 | `cerclearistote.com` | No |
 | `cerebralab.com` | No |
 | `cerebralmix.cc` | No |
+| `cerebro.social` | No |
 | `cereza.de` | No |
 | `ceriz.fr` | No |
 | `cerritus.eu` | No |
@@ -9534,6 +9535,7 @@ Here's a list of public Fediverse services.
 | `fvktv.me` | No |
 | `fx-don.net` | No |
 | `fx.cafe` | No |
+| `fx4.net` | No |
 | `fxmech.com` | Yes |
 | `fxxking.life` | Yes |
 | `fy.to` | No |
@@ -10169,6 +10171,7 @@ Here's a list of public Fediverse services.
 | `glyphicality.tk` | No |
 | `glyphpress.com` | No |
 | `glyphy.com` | Yes |
+| `glz.ca` | Yes |
 | `gmajewski.xyz` | No |
 | `gmartin.net` | Yes |
 | `gmastod.online` | No |
@@ -13769,6 +13772,7 @@ Here's a list of public Fediverse services.
 | `kitsunes.world` | Yes |
 | `kitsunet.net` | No |
 | `kitteh.pw` | No |
+| `kittenapproved.com` | No |
 | `kittenme.ws` | No |
 | `kittenpanic.io` | No |
 | `kitty.church` | No |
@@ -21268,6 +21272,7 @@ Here's a list of public Fediverse services.
 | `playgames.jp` | No |
 | `playground.ws` | No |
 | `playingwithworms.org.uk` | No |
+| `playpen.social` | No |
 | `playseye.com` | No |
 | `playstation-mstdn.com` | No |
 | `playstation-sns.com` | No |
@@ -25418,6 +25423,7 @@ Here's a list of public Fediverse services.
 | `squeegee.one` | Yes |
 | `squeet.me` | No |
 | `squid.cafe` | No |
+| `squid.gay` | Yes |
 | `squiddev.cc` | Yes |
 | `squiggly.club` | No |
 | `squirrelmob.com` | No |
@@ -30708,6 +30714,7 @@ Here's a list of public Fediverse services.
 | `zamborsky.eu` | No |
 | `zamdronie.com` | No |
 | `zane.town` | No |
+| `zannoni.eu` | No |
 | `zap.dog` | No |
 | `zapashcanon.fr` | No |
 | `zapchenwellbeing.org` | No |
@@ -30991,8 +30998,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,844 |
-| Normal | 24,104 |
+| Cloudflare | 6,847 |
+| Normal | 24,108 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
