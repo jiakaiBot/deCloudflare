@@ -1749,6 +1749,7 @@ Do not create new issue or we will close it as duplicate.
 | [cheeryluvly2@twitter](https://twitter.com/cheeryluvly2/status/1401203225659912192) | advertise |
 | [CHEKUTH66047936@twitter](https://twitter.com/CHEKUTH66047936/status/1401783579168763907) | advertise |
 | [ChelleV60@twitter](https://twitter.com/ChelleV60/status/1553220253760602112) | advertise |
+| [Chelle_n_Lulu@twitter](https://twitter.com/Chelle_n_Lulu/status/1596628650853797888) | advertise |
 | [ChenBaiHui1@twitter](https://twitter.com/ChenBaiHui1/status/1391426148903514113) | advertise |
 | [chendinhit@twitter](https://twitter.com/chendinhit/status/1519025856399560704) | advertise |
 | [ChendipraveenC@twitter](https://twitter.com/ChendipraveenC/status/1517752295626207232) | advertise |
@@ -3465,6 +3466,7 @@ Do not create new issue or we will close it as duplicate.
 | [HJalgham@twitter](https://twitter.com/HJalgham/status/1568536037831360514) | advertise |
 | [HJmSh8@twitter](https://twitter.com/HJmSh8/status/1578090587252985857) | advertise |
 | [HJSIM798@twitter](https://twitter.com/HJSIM798/status/1484356413040508929) | advertise |
+| [hkgvwe@twitter](https://twitter.com/hkgvwe/status/1596648696849965056) | advertise |
 | [Hkk65603236@twitter](https://twitter.com/Hkk65603236/status/1391694154413969412) | advertise |
 | [HKlowss123@twitter](https://twitter.com/HKlowss123/status/1536946816260132864) | advertise |
 | [HKoreniuzhenko@twitter](https://twitter.com/HKoreniuzhenko/status/1590374742514872320) | advertise |
@@ -3767,6 +3769,7 @@ Do not create new issue or we will close it as duplicate.
 | [Huenz2021@twitter](https://twitter.com/Huenz2021/status/1395243727929577476) | advertise |
 | [HugeBananaZZ@twitter](https://twitter.com/HugeBananaZZ/status/1394272864786817028) | advertise |
 | [Hugerightarm@twitter](https://twitter.com/Hugerightarm/status/1378974110311571456) | advertise |
+| [Hugo15926483@twitter](https://twitter.com/Hugo15926483/status/1596662890718990337) | advertise |
 | [HugoHug65874537@twitter](https://twitter.com/HugoHug65874537/status/1402143046758670348) | advertise |
 | [HuiAn65690775@twitter](https://twitter.com/HuiAn65690775/status/1391093920906420226) | advertise |
 | [hulk2022@twitter](https://twitter.com/hulk2022/status/1391569781397114887) | advertise |
@@ -10384,6 +10387,7 @@ Do not create new issue or we will close it as duplicate.
 | [vietanh26207082@twitter](https://twitter.com/vietanh26207082/status/1553786640748793856) | advertise |
 | [Vietanhlee07@twitter](https://twitter.com/Vietanhlee07/status/1400153433026433029) | advertise |
 | [vietdungpk01@twitter](https://twitter.com/vietdungpk01/status/1539040071822630912) | advertise |
+| [vietinsu@twitter](https://twitter.com/vietinsu/status/1596661470083022848) | advertise |
 | [VietLe2001@twitter](https://twitter.com/VietLe2001/status/1548680844012703745) | advertise |
 | [Vietosaka1@twitter](https://twitter.com/Vietosaka1/status/1552695794859356160) | advertise |
 | [VietRap1@twitter](https://twitter.com/VietRap1/status/1552580418456944640) | advertise |
