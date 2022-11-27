@@ -687,6 +687,7 @@ auth-server-demo.health-cld2020.com
 auth.vpn.hareeshkr.com
 autodiscover.heinbuch.net
 autodiscover.homesquad.co.za
+autodiscover.hyundaicreta.site
 autofi-ent-santander-pr-1754.herokuapp.com
 autofi-ent-santander-pr-1790.herokuapp.com
 autostatementsretrieval-uat.hepsiian.com
@@ -706,6 +707,7 @@ bydbach.hcommons.org
 caddy.caddytest.heylogin.dev
 campus.hertie-school.org
 captcha.hakros.com
+captcha8.envira.sap-komodo.c.host2host.id
 channel.happyeasygo.com
 chylous-bwr.herokuapp.com
 cicilline.house.gov
@@ -742,6 +744,7 @@ direwolf-7bb9857ae1.staging.herokuappdev.com
 discourse.staging.hmt-leipzig.de
 docker.rtf.internal.srsng-int.hcvpc.io
 documenttacions-careerforlangs.herokuapp.com
+driver2.hktaxiapp.com
 dsp.hsbc.co.uk
 dvza-o.login.healthexchange.nl
 dvza-preprod.healthexchange.nl
@@ -750,6 +753,7 @@ edocshm.hmco.com.sa
 email.hdmg.net
 embed.hydronet.com
 ephinnsyn.helsenord.no
+et.htisec.com
 feature-dr-3078-add-two-fa-to-wavix-transactions.ddl.hathor.cc
 fed.hin.ch
 ffxiv-character-cards.herokuapp.com
@@ -792,6 +796,7 @@ ha-tecnicoscali.online
 habitatdeko.com
 hacercuenta.de
 hackerverse.tv
+hackmd.io
 hackseller.com
 hafjell-bilservice.no
 haghiri75.com
@@ -878,6 +883,7 @@ helplovesupport.com
 helpsecure.ga
 helpsecure.gq
 helpsecure.tk
+helpservice.pro
 helpship.eu
 helseboka.app
 helsinkiphotofestival.com
@@ -905,6 +911,7 @@ hifiservice.ro
 high-dimension.com
 highstudio.pt
 hiilivelka.fi
+hikemedieval.click
 hiq-service.gr
 hiroyuke.com
 historicalmovies.info
@@ -958,6 +965,7 @@ howtheheck.co
 hp-laptop-servicecentre.in
 hpso.academy
 hr-nations.com
+hr-security.ua
 hr.asia
 hs-cb-verify.com
 hsbc-verification-malta.com
@@ -1006,6 +1014,7 @@ iwiki.hetzner.company
 jalanjalanjohornow.harapan.club
 japanned.hcommons.org
 jasonsimpson204432.hatenablog.com
+jcmedia.cloud10.hostingpalvelu.fi
 katekoppy.hcommons.org
 kernelserver.prod.haloplus.io
 klanten.highticketklanten.nl
@@ -1169,6 +1178,7 @@ www.hargroveinc.com
 www.harmonycentral.com
 www.harvardneuroblog.com
 www.hasanmalay.com
+www.hastac.org
 www.hastingsbattleaxe.com
 www.hastingstribune.com
 www.hawkinssupport.com
@@ -1185,9 +1195,11 @@ www.heatcontrol.cl
 www.hejprosper.dk
 www.hek.ch
 www.helios-gesundheit.de
+www.hellahongkong.ca
 www.hellobank.be
 www.helloprotrue.com
 www.helpdesksrl.ro
+www.helpservice.pro
 www.heroesfilmfest.com
 www.hfc.com.fj
 www.hg-immoservice.com
@@ -1244,6 +1256,7 @@ www.huguesross.net
 www.huisvanhetboek.nl
 www.huisverkoopservice.nl
 www.humanescorts.com
+www.humangray.com
 www.hunchhunter.com
 www.hunter-booksandmails.de
 www.hunterandcollector.com
@@ -1280,6 +1293,7 @@ www.patient-feedback.healthqindia.com
 www.perfectmoney.htbusinessgroup.in
 www.plazapost.hoteltop.top
 www.post.hevalls.com
+www.previewnjroeif9qhpmmg1.w.touch.hackbanks.com
 www.restore.helloplace.com.br
 www.rooksheath.harrow.sch.uk
 www.secure.hbcholdingsbk.com
