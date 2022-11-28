@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,505 |
-| social | 2,548 |
-| net | 2,373 |
-| org | 1,713 |
+| social | 2,550 |
+| net | 2,375 |
+| org | 1,715 |
 | de | 1,551 |
 
 
@@ -1745,6 +1745,7 @@ Here's a list of public Fediverse services.
 | `armpit.me` | No |
 | `armstube.com` | Yes |
 | `arnaudboutry.art` | No |
+| `arnauld.org` | No |
 | `arnemancy.com` | No |
 | `arnep.de` | No |
 | `arnip.org` | No |
@@ -2736,6 +2737,7 @@ Here's a list of public Fediverse services.
 | `besocial.co.za` | No |
 | `besofa.de` | No |
 | `besseling.social` | Yes |
+| `besserwisser.org` | No |
 | `bessonnica.org` | Yes |
 | `best-friends.chat` | No |
 | `best-friends.tk` | No |
@@ -5268,6 +5270,7 @@ Here's a list of public Fediverse services.
 | `creativecommons.org` | Yes |
 | `creativegamer.net` | No |
 | `creativepassport.net` | No |
+| `creativetech.social` | No |
 | `creativewriting.social` | No |
 | `creativity.cafe` | No |
 | `creatodon.online` | No |
@@ -6799,6 +6802,7 @@ Here's a list of public Fediverse services.
 | `dolphin-emu.org` | No |
 | `dolphin.town` | No |
 | `dolphinbox.net` | No |
+| `dolphinhome.net` | Yes |
 | `dom.ke` | No |
 | `dom.social` | No |
 | `dom64.xyz` | Yes |
@@ -9928,6 +9932,7 @@ Here's a list of public Fediverse services.
 | `generallyrubbish.net.au` | No |
 | `generationk.net` | No |
 | `generous.horse` | No |
+| `genesis-radio.net` | No |
 | `genesismachina.ca` | No |
 | `genetechz.com` | No |
 | `geneticjen.com` | No |
@@ -15330,6 +15335,7 @@ Here's a list of public Fediverse services.
 | `lopezjuan.com` | No |
 | `lopeztel.xyz` | No |
 | `lopp.social` | No |
+| `loquacious-pachyderm.social` | Yes |
 | `loquat.moe` | No |
 | `loquat.social` | No |
 | `lor.sh` | Yes |
@@ -19360,6 +19366,7 @@ Here's a list of public Fediverse services.
 | `nonsensoleum.net` | No |
 | `nonserious.in` | No |
 | `nonsocialand.space` | No |
+| `nontongp.live` | No |
 | `noob.party` | No |
 | `nooble.cloud` | Yes |
 | `noodle.social` | No |
@@ -21444,7 +21451,6 @@ Here's a list of public Fediverse services.
 | `ploptodon.com` | No |
 | `ploud.fr` | Yes |
 | `ploud.jp` | Yes |
-| `pls.pet` | No |
 | `plshug.me` | No |
 | `plsn.xyz` | No |
 | `plspet.cf` | No |
@@ -22867,6 +22873,7 @@ Here's a list of public Fediverse services.
 | `remydcf.dev` | Yes |
 | `renard.xyz` | No |
 | `renardrebelle.fr` | No |
+| `renaud.gr` | No |
 | `rencontres-atelier.fr` | No |
 | `renehsz.com` | No |
 | `renem.net` | Yes |
@@ -31126,8 +31133,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,880 |
-| Normal | 24,203 |
+| Cloudflare | 6,882 |
+| Normal | 24,208 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
