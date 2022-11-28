@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,506 |
-| social | 2,551 |
+| social | 2,553 |
 | net | 2,378 |
 | org | 1,715 |
 | de | 1,551 |
@@ -17747,6 +17747,7 @@ Here's a list of public Fediverse services.
 | `moop.uk` | No |
 | `moose.land` | No |
 | `moosecow.net` | Yes |
+| `moosetadon.social` | No |
 | `moosetodon.com` | No |
 | `mooshoe.me` | Yes |
 | `moot.pub` | Yes |
@@ -23480,6 +23481,7 @@ Here's a list of public Fediverse services.
 | `rustbelt.city` | Yes |
 | `ruste.red` | Yes |
 | `rustedneuron.com` | No |
+| `rustlang.social` | Yes |
 | `rusty.cat` | No |
 | `rustysoft.de` | No |
 | `rutan.info` | No |
@@ -31148,8 +31150,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,887 |
-| Normal | 24,218 |
+| Cloudflare | 6,888 |
+| Normal | 24,219 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
