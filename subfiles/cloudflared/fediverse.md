@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,505 |
-| social | 2,550 |
-| net | 2,376 |
+| com | 4,506 |
+| social | 2,551 |
+| net | 2,378 |
 | org | 1,715 |
 | de | 1,551 |
 
@@ -737,6 +737,7 @@ Here's a list of public Fediverse services.
 | `adhoc.group` | No |
 | `adhoc.systems` | No |
 | `adhocmusic.com` | No |
+| `adhocon.com` | No |
 | `adhs.page` | Yes |
 | `adida.net` | No |
 | `adju.st` | No |
@@ -5871,6 +5872,7 @@ Here's a list of public Fediverse services.
 | `danquinney.com` | No |
 | `danrees.me` | No |
 | `dans-ma-bulle.life` | No |
+| `dansende-banaan.nl` | No |
 | `danshudon.jp` | No |
 | `danslesbois.info` | No |
 | `dansmith.online` | No |
@@ -8957,6 +8959,7 @@ Here's a list of public Fediverse services.
 | `foowar.de` | No |
 | `foowp.org` | No |
 | `fopnu.pw` | No |
+| `fora.social` | No |
 | `forall.social` | No |
 | `foralltime.icu` | Yes |
 | `force-clan.io` | No |
@@ -19722,6 +19725,7 @@ Here's a list of public Fediverse services.
 | `nzws.me` | Yes |
 | `o-k-i.net` | Yes |
 | `o-man.co` | No |
+| `o-nature-culture.net` | No |
 | `o-u-t-e-r.space` | No |
 | `o0i.es` | No |
 | `o1li.net` | No |
@@ -19844,6 +19848,7 @@ Here's a list of public Fediverse services.
 | `offkey.social` | No |
 | `offline.network` | Yes |
 | `offrealms.space` | No |
+| `offsec.exchange` | No |
 | `offshore.ninja` | Yes |
 | `offsign.nl` | No |
 | `offsite.guru` | No |
@@ -26034,6 +26039,7 @@ Here's a list of public Fediverse services.
 | `sunnypup.io` | No |
 | `sunpowered.house` | Yes |
 | `sunrisesunset.shop` | No |
+| `sunset0916.net` | Yes |
 | `sunshine.town` | No |
 | `sunshinecoast.social` | No |
 | `sunshinegardens.org` | No |
@@ -30731,6 +30737,7 @@ Here's a list of public Fediverse services.
 | `ytringsrett.net` | No |
 | `yttrx.com` | Yes |
 | `yude.jp` | Yes |
+| `yude.moe` | Yes |
 | `yudetarou.club` | No |
 | `yue.cat` | Yes |
 | `yufarch.com` | No |
@@ -30948,6 +30955,7 @@ Here's a list of public Fediverse services.
 | `zeronaut.be` | Yes |
 | `zeroping.cc` | Yes |
 | `zeroping.us` | Yes |
+| `zeroplex.tw` | No |
 | `zerotier.com` | No |
 | `zerovolt.org` | No |
 | `zerowastefvg.it` | No |
@@ -31138,8 +31146,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,884 |
-| Normal | 24,211 |
+| Cloudflare | 6,886 |
+| Normal | 24,217 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
