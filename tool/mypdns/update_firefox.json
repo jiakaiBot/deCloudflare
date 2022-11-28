@@ -8,9 +8,9 @@
               "strict_min_version": "91.0"
             }
           },
-          "version": "1.0.1.14",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/reporter/addon/firefox/addon.xpi?3ed2799b0f8b2b2b2373f537e513fd666d1239f16bfbd9288545245f2af26d43",
-          "update_hash": "sha256:3ed2799b0f8b2b2b2373f537e513fd666d1239f16bfbd9288545245f2af26d43"
+          "version": "1.0.1.15",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/reporter/addon/firefox/addon.xpi?78d4b0a1077875922cc4596990c8b8b222be76f2a5b0bedb9ce553209161bb0b",
+          "update_hash": "sha256:78d4b0a1077875922cc4596990c8b8b222be76f2a5b0bedb9ce553209161bb0b"
         }
       ]
     },
@@ -22,9 +22,9 @@
               "strict_min_version": "91.0"
             }
           },
-          "version": "1.0.0.3",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/defender/addon/firefox/addon.xpi?4c1bd568ba2b5b0189c0053bccc24de590aa15c9d4a2fb6c16f47b8076c74979",
-          "update_hash": "sha256:4c1bd568ba2b5b0189c0053bccc24de590aa15c9d4a2fb6c16f47b8076c74979"
+          "version": "1.0.0.4",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/defender/addon/firefox/addon.xpi?ac6295f529e67815398635a975ec403fd8c48ddfb58950726b98d886970f8cf1",
+          "update_hash": "sha256:ac6295f529e67815398635a975ec403fd8c48ddfb58950726b98d886970f8cf1"
         }
       ]
     },
@@ -36,9 +36,9 @@
               "strict_min_version": "91.0"
             }
           },
-          "version": "1.0.0",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/sa/addon/firefox/addon.xpi?15e9fd5e7bb0b941f06f95fb93cf01fccac08cd91ea52f77bbd8c997f6e7a7c4",
-          "update_hash": "sha256:15e9fd5e7bb0b941f06f95fb93cf01fccac08cd91ea52f77bbd8c997f6e7a7c4"
+          "version": "1.0.0.1",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/sa/addon/firefox/addon.xpi?8450a6b6ace55ed4036dbba3eba6f6aeaee1dcec7be692149667cd6309d16e46",
+          "update_hash": "sha256:8450a6b6ace55ed4036dbba3eba6f6aeaee1dcec7be692149667cd6309d16e46"
         }
       ]
     }
