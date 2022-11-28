@@ -10642,6 +10642,7 @@ Do not create new issue or we will close it as duplicate.
 | [whatyouneedto@twitter](https://twitter.com/whatyouneedto/status/1410881084057870337) | moral (advertise) |
 | [whendietya@twitter](https://twitter.com/whendietya/status/1570095466783866880) | advertise |
 | [whinsche_CF@twitter](https://twitter.com/whinsche_CF/status/1528805265579057152) | advertise |
+| [whitezomYT@twitter](https://twitter.com/whitezomYT/status/1597056863442726912) | advertise |
 | [WhoAmI61449941@twitter](https://twitter.com/WhoAmI61449941/status/1379726183009460224) | advertise |
 | [Whodis09575291@twitter](https://twitter.com/Whodis09575291/status/1570060628211142659) | advertise |
 | [whoomenreallyis@twitter](https://twitter.com/whoomenreallyis/status/1506157558628855813) | advertise |
