@@ -92,6 +92,7 @@ academy.quandatics.com
 adfs.qualfon.com
 api.qrserver.com
 api.qualitelis-crm.com
+api.quieroboon.com
 api.quikreturn.com
 api.quizflight.com
 apimedicina-pre.quironprevencion.com
