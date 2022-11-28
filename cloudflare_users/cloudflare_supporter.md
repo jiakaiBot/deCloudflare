@@ -2647,6 +2647,7 @@ Do not create new issue or we will close it as duplicate.
 | [ElTr72218261@twitter](https://twitter.com/ElTr72218261/status/1390311899552632834) | advertise |
 | [El_Twyce@twitter](https://twitter.com/El_Twyce/status/1588237297379680258) | advertise |
 | [EMadhavi3@twitter](https://twitter.com/EMadhavi3/status/1392409666294935553) | advertise |
+| [email2khkoh@twitter](https://twitter.com/email2khkoh/status/1597065598206640129) | advertise |
 | [Email69400101@twitter](https://twitter.com/Email69400101/status/1405570403200684046) | advertise |
 | [EmanRuoy123@twitter](https://twitter.com/EmanRuoy123/status/1554761591870357504) | advertise |
 | [EMATiON@twitter](https://twitter.com/EMATiON/status/1538236295150981120) | advertise |
