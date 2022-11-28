@@ -360,6 +360,7 @@ demo3.utilibill.com.au
 designthinking.extension.ucr.edu
 dev-micropay.uplus.co.kr
 dev.api.data.unicloudgroup.com.vn
+dev.api.hrmconfig.unicloudgroup.com.vn
 dpxpay.umonitor.com
 emergency-support.upstreamdigital.ca
 experimentalgamecultures.uni-ak.ac.at
@@ -368,6 +369,7 @@ extranetslam.urops-prevention.fr
 files.usertygflkmd.tk
 fis-test.unicon-intl.com
 forcepointdss.upl-ltd.com
+forms.uob.com.my
 forum.umbandaeucurto.com
 gateway.ovid.com.remotexs.unimas.my
 git.ufcontrol.com
@@ -399,6 +401,7 @@ monitor.cs.uni-koeln.de
 mtlsibanking.unitybank.com.au
 mybcabisnis-api.u-appspecto.com
 mybcabisnis.u-appspecto.com
+mydbsoi-aos.uob.com.my
 mypaid.updatedvpn.xyz
 nectr.utilibill.com.au
 netflixi.uber.space
@@ -416,6 +419,7 @@ paypal0.uber.space
 piloto.universo.pt
 pim.unileverservices.com
 poc-code-handler.uat.unboxuniverse.io
+portal.unionbankph.com
 pra.u.com.my
 proxy.bms.dev.unblu-test.com
 pub.jefs.uscourts.gov
@@ -430,6 +434,8 @@ rirra21.www.univ-montp3.fr
 schwarzesbrett.wp.hum.uu.nl
 scim.urimapp.com
 secure.ubsimt.com
+secure.unrwa.es
+service.upworkers.top
 services.usps.com
 siga.uni.edu.gt
 signon-oqa.ual.com
@@ -512,6 +518,7 @@ updatehargaemas.com
 updatelayanan-transaksaksi.my.id
 updatemybperritaly.com
 updatepakjob.com
+updateprodukviral.my.id
 updateromx.us
 updates1india.com
 updatesjobs.com
@@ -519,8 +526,10 @@ updateworld24.com
 uplangreo.es
 ups-delivery1.ca
 upscan.cd
+upsub.me
 upswellpublishing.com
 urbansafety.ro
+urbanstrategist.ca
 urbanzero.city
 urgenciasodontologicas.com.co
 urgente.eu
@@ -533,6 +542,7 @@ uruguaycardioseguro.com
 us-estimation.com
 usa-trip.be
 usagi-online.com
+uscyberpatriot.org
 usendit.net
 user5522.tk
 usereluz.com
@@ -611,9 +621,11 @@ www.neuronum.overcloud.usermd.net
 www.nfhs.update-sports.com
 www.nifa.usda.gov
 www.on-tv.update-sports.com
+www.raktenu.co.jp.uuotem.shop
 www.schedule.update-sports.com
 www.secure.ubsimt.com
 www.secure.ultraahost.com
+www.service.upworkers.top
 www.space-tv.update-sports.com
 www.sport-live.update-sports.com
 www.staging.userpeek.com
@@ -624,6 +636,7 @@ www.ticket01.usatodayhs.com
 www.tmc.fm.usermd.net
 www.today.update-sports.com
 www.topwebmakers.org.usershare.me
+www.uchealth.com
 www.uci.cu
 www.ugtbalears.com
 www.ui.ac.id
@@ -636,6 +649,7 @@ www.un.org
 www.unanj.com
 www.uncharted-worlds.org
 www.undefinedentertainment.com
+www.undercontrolcredit.co.nz
 www.unfieasyoptions.com
 www.ungeologoenapuros.es
 www.unicreditgroup.eu
