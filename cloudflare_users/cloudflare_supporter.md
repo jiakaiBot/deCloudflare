@@ -3227,6 +3227,7 @@ Do not create new issue or we will close it as duplicate.
 | [haiquandeptry@twitter](https://twitter.com/haiquandeptry/status/1521697593000046592) | advertise |
 | [HairKarinak@twitter](https://twitter.com/HairKarinak/status/1593940778790756352) | advertise |
 | [haitensama@twitter](https://twitter.com/haitensama/status/1388050755433603075) | advertise |
+| [HajiDawood200@twitter](https://twitter.com/HajiDawood200/status/1597334326638653440) | advertise |
 | [HajiKha39541085@twitter](https://twitter.com/HajiKha39541085/status/1379155176917991429) | advertise |
 | [HakamaKasumi@twitter](https://twitter.com/HakamaKasumi/status/1402166214814621696) | advertise |
 | [Hakeem29285036@twitter](https://twitter.com/Hakeem29285036/status/1394288578314838023) | advertise |
@@ -5876,6 +5877,7 @@ Do not create new issue or we will close it as duplicate.
 | [MarlonBatucan1@twitter](https://twitter.com/MarlonBatucan1/status/1490162646934503424) | advertise |
 | [Marna00520720@twitter](https://twitter.com/Marna00520720/status/1395227756800057345) | advertise |
 | [MARPOLLO1122@twitter](https://twitter.com/MARPOLLO1122/status/1396765394719809541) | advertise |
+| [MarriageAtCourt@twitter](https://twitter.com/MarriageAtCourt/status/1597344160029474816) | advertise |
 | [Martinka_Treti_@twitter](https://twitter.com/Martinka_Treti_/status/1534550667435589637) | advertise |
 | [Maru19225266@twitter](https://twitter.com/Maru19225266/status/1399664918794674181) | advertise |
 | [MarufHa0192487@twitter](https://twitter.com/MarufHa0192487/status/1385279046309740547) | advertise |
@@ -7391,6 +7393,7 @@ Do not create new issue or we will close it as duplicate.
 | [of_yomi@twitter](https://twitter.com/of_yomi/status/1529872490008170498) | advertise |
 | [Oggy57638380@twitter](https://twitter.com/Oggy57638380/status/1565005988591448064) | advertise |
 | [ogrekevin@twitter](https://twitter.com/ogrekevin/status/1460589005171535883) | advertise |
+| [oguike6099@twitter](https://twitter.com/oguike6099/status/1597314920110239747) | advertise |
 | [OG_PvP_@twitter](https://twitter.com/OG_PvP_/status/1458513520115474437) | advertise |
 | [OhAeri36127137@twitter](https://twitter.com/OhAeri36127137/status/1401014602033414148) | advertise |
 | [OhArthit2@twitter](https://twitter.com/OhArthit2/status/1390821661566324740) | advertise |
