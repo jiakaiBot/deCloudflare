@@ -313,6 +313,7 @@ autodiscover.jindabyneuber.com.au
 b-plus2.jtb-cwt.com
 backup.jl-service.be
 baramundi.johanniter.at
+beta.jamtkraft.se
 beta2.jaan.online
 billpaylite.ipay.jhahosting.com
 blog.jakelacaze.com
@@ -364,6 +365,7 @@ jaidurab.com
 jalane.jodymaroni.com
 jalangoldsilver.com
 jalanniemenvesiosuuskunta.fi
+jalantengahcafe.com.jalantengahcafe.com
 jamadagny.com
 jamesfell.com
 jameshaworth.dev
@@ -397,6 +399,7 @@ jeffreyfairbank.ml
 jembutanakkuda.xyz
 jemmyfoxlabs.com
 jenniferjchow.com
+jennytedjeza.se
 jenschristian.se
 jeparamebelindonesia.com
 jepeuxpasjaimaths.fr
@@ -433,6 +436,7 @@ jobs-contact.cf
 jobscv.net
 jobsearchadvice.io
 jocelyngreen.bond
+jochenlederer.at
 joeswebsupport.com
 johannettezomer.com
 johnubacon.com
@@ -468,10 +472,12 @@ julessherred.com
 jun88.co.in
 jung-reinigungsservice.com
 jurnalupdate.id
+justbetterdelivery.com
 justcatnft.com
 justcounsel.us
 justy-web.com
 jweinat.com
+loja100dinheironamao.javistemz.com
 mail.jagoblockchain.online
 mastodon.juggler.jp
 mx.judbrasov.ro
@@ -481,6 +487,7 @@ netflix-shuffle.jacobschmocker.com
 neutron-rpc.jepe.biz.id
 new.jakartarailways.com
 nonekohour.jempu.com
+office365-office365.aws-us-east-1-prod.svc.jivehosted.com
 open.joox.com
 openpgpkey.jstorch.net
 origin.cn.qa.po.jungheinrichcloud.com
@@ -509,11 +516,13 @@ smtp.japan-gabon.com
 smykker.jfm360kunder.dk
 static-asset.joindeleteme.com
 steam.jrtechs.net
+streamingaja.com.jalanaja.com
 support.jiapin.cloud
 support.job786.fr
 test-mij.japan-property.jp
 test-ohkuraya.japan-property.jp
 test.javan.work
+test.justbetterdelivery.com
 test.store.ichii-japan.comaz777.joshuaanello.com
 testbildungsportal.johanniter.de
 thinks.jamesbradbury.co.uk
@@ -521,6 +530,7 @@ webdisk.backupdayo.japan-onlinestores.com
 webdisk.jalanacooper.com
 webdisk.jalanningproductions.com
 webdisk.jukir.site
+whatsapp.jala.tech
 www.acceso.jonyteam.com
 www.accesoenvato.jonyteam.com
 www.animal-accounting-system.jw-prospect.com.tw
@@ -579,6 +589,7 @@ www.jet-engineering.co.uk
 www.jewelry1000.com
 www.jewelstonesucurity.co.uk
 www.jezner.com
+www.jf-avenidasnovas.pt
 www.jga-web.com
 www.jhfarmsupport.dk
 www.jimcampilongo.com
@@ -616,12 +627,14 @@ www.juliettekeating.net
 www.jumblebee.co.uk
 www.jungblut-onderhoud.nl
 www.jussantacruz.gob.ar
+www.justbetterdelivery.com
 www.justice.govt.nz
 www.justplainmoney.com
 www.jvila.cat
 www.jwing.net
 www.jyskmurerservice.dk
 www.loja100dinheironamao.javiste.net
+www.loja100dinheironamao.javistemz.com
 www.pankkitalo.jiic.fi
 www.servicepoint.justclik.in
 www.serviciosdesalud.jobforhumans.com
