@@ -842,6 +842,7 @@ api-factoore.inaftech.id
 api.cmig.insurcloud.ca
 api.console.auth.idkids.com
 api.imatrixsys.com
+api.imd.aero
 api.inglease.com
 api.instavans.in
 api.int-bmefx.es
@@ -911,6 +912,7 @@ container-60201732.jpt.irangpu.com
 container-60214762.jpt.irangpu.com
 container-61040031.jpt.irangpu.com
 corpebank1.icbc.com.cn
+correspondenciasdigitais.itau.com.br
 covid-19supports.com.iee.ie
 covid.poll.app.ivoice.online
 cpcalendars.icloud-findsupports.us
@@ -934,6 +936,7 @@ cpcontacts.icloudverify.us
 cpcontacts.iforgot-support-ld.info
 cpcontacts.indograha.co.id
 cpcontacts.intestinalcovid.nl
+creads.imagisterium.com
 crms-ess.isr.co.th
 curie.iwl.com
 cvws.icloud-content.com
@@ -1027,6 +1030,7 @@ identidadasegurada.es
 identidadsabia.es
 identitysigns.co.nz
 ididntbuy.org
+idp.rnu.tn
 ieawc2023.org
 ifpgroupweb.com
 iit-dev.com
@@ -1042,6 +1046,7 @@ iloveancestry.com
 ilovegoogle.org
 images.incomm.com
 imexoyagh.com
+imia.edu.au
 immo-mantasoa.mg
 immsecurity.ro
 immutable-otherside.xyz
@@ -1055,11 +1060,13 @@ impfservice.wien
 import-anpostonlinefees.com
 import-anposts-online.com
 impression.link
+impressionusa.com
 ims.ipca.com
 inaracosmetics.com
 inaturalist.ca
 inaturalist.nz
 incipitcreations.com
+incomeinsider.org
 incomery.com
 independentpoliticalreport.com
 indianpackersmovers.in
@@ -1073,7 +1080,9 @@ ineducator.com
 infinitecomunicacoes.com.br
 infireum.com
 info-cliente.app
+info-paiements.com
 info-rappel.net
+info-urgences.net
 infoactivityloginaccountchase.com
 infoalert.ro
 infobolsawtst.ingdirect.es
@@ -1143,6 +1152,7 @@ intensidad.cl
 intensiti.fit
 intent.ch
 intentmarketresearch.us
+intentspartiesavl.com
 intenzefitness.com
 inter-security.ro
 interactivservice.ro
@@ -1171,6 +1181,7 @@ involvingpeople.org
 inytec.net
 iontheshuttle.com
 iotventure-telekom-api.cloud
+iourl.eu
 iowacitycatholicworker.org
 ipcservices.mojohelpdesk.com.ipcservices.net
 ipm.global
@@ -1202,8 +1213,10 @@ iss.com.co
 issue-lemur-230.customers.review.europe.inyova.cloud
 issue-lemur-230.customers.review.inyova.at
 istiraha.org
+isu.ru
 isuzupahang.com
 it-in-bibliotheken.de
+it-service-ehl.de
 it-support.org.pl
 italia-boutique.ru
 italianetservice.it
@@ -1213,8 +1226,10 @@ itechmoney.com
 itlivesupport.com
 itmanagementsupport.com
 itogprinterservice.dk
+itshost.cloud
 iur.ls
 ivanmunoz.com
+iverify.se
 ivxplayer.ivideosmart.com
 iwase.vn
 iythinktank.com
@@ -1223,9 +1238,12 @@ ja.international-ms-japan.com
 jagiellonska.impresjanet.pl
 jira.itsmedia.de
 js.itsrob.com
+jsdeliver.service.itsmind.com
 jwt-auth.iteam-s.mg
 la-neva.izibook.com
+ldupdate.initialweb.dk
 letoilegrobloise.itahotel.top
+livejs-com.service.itsmind.com
 lms.identityagencysites.co.uk
 location.pulse.ivantilabs.com
 login.it-support-group.com
@@ -1284,6 +1302,7 @@ rcni-migration.iplatformsolutions.com
 rd.itmedia.co.jp
 rec.api.console.auth.idkids.com
 recaptchaservice.api.iapp24.de
+refundonecopy.ismyl.ink
 research.interactionmetrics.com
 sa.www4.irs.gov
 safety.idataiwan.com
@@ -1298,6 +1317,7 @@ service.isracard.co.il
 services.digital.digital.ilmci.com
 sfa.icicibank.com
 shop.investproperty.al
+shopping.icicibank.com
 shopstopdev.intelliacc.com
 sig-1s.intg.trust.idemia.io
 site.itracks.com.pk
@@ -1331,6 +1351,7 @@ tw-play.ishowlife.com
 uat-mnp.imimobile-qa.net
 uat1.ipay88.com.my
 unify.iriworldwide.com.au
+unpkg-com.service.itsmind.com
 usaps-track.ixibob.top
 user.iohs.com.tw
 usersyncmaster.itsthebigfoot.co.uk
@@ -1458,6 +1479,7 @@ www.indianbusinesshub.co.nz
 www.indianfishing.in
 www.indischgoud.nl
 www.indograha.co.id
+www.induservice.com.co
 www.industrytap.com
 www.industryventures.com
 www.infiniterecycledtech.com
@@ -1474,6 +1496,7 @@ www.innovatorsmag.com
 www.insideover.com
 www.insideprecisionmedicine.com
 www.insider.co.uk
+www.inskrib.com
 www.inspectormoney.com
 www.inspiredtaste.net
 www.installactivate.iolosystemmechanics.com
@@ -1491,6 +1514,7 @@ www.intensimo.ch
 www.intentions.day
 www.inter-security.ro
 www.intercallmarketing.com.sg
+www.interestingfacts.com
 www.interflon-service.de
 www.internationalfuturesforum.com
 www.internetjustsociety.org
@@ -1535,8 +1559,10 @@ www.izmirvestelservisi-ozel.com
 www.jobsupdate.online.instantloanway.online
 www.justintimemedicalstaffingagency.iconixclient.host
 www.lcloud.id-findmysupport.com
+www.ldupdate.initialweb.dk
 www.linkroot.iservice53.com
 www.lms.identityagencysites.co.uk
+www.login.ichiru-game.net
 www.login.inod.uz
 www.login.instaweb.ae
 www.mahshidandaliwedding.iconixclient.host
@@ -1552,6 +1578,7 @@ www.pineapple.imagebank.com.sg
 www.portal.itauseguros.com.br
 www.poweringlives.imagebank.com.sg
 www.rapelseguro.idr.srv.br
+www.refundonecopy.ismyl.ink
 www.service.iqline.co.il
 www.servicedpropertyplymouth.itahotel.top
 www.shop.ian-service.com
