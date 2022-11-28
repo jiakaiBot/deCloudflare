@@ -8,9 +8,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.4",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/stats/addon.xpi?7ab6848d4d999fc08e685d5808999f706a0958e6c89b3aa1334d5ca181540461",
-          "update_hash": "sha256:7ab6848d4d999fc08e685d5808999f706a0958e6c89b3aa1334d5ca181540461"
+          "version": "1.0.4.1",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/stats/addon.xpi?920193df5015ccff814c07954f6b7e11b6c58324f7e25af2e7a375a13fe92ebb",
+          "update_hash": "sha256:920193df5015ccff814c07954f6b7e11b6c58324f7e25af2e7a375a13fe92ebb"
         }
       ]
     },
@@ -22,9 +22,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.9",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/design/addon.xpi?77e3236d41e87723b4428b717c319beb77638cd3f80a59df77d8118212144c50",
-          "update_hash": "sha256:77e3236d41e87723b4428b717c319beb77638cd3f80a59df77d8118212144c50"
+          "version": "1.0.9.1",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/design/addon.xpi?b9310ff7f0a93ade4f29c3aa629d7fe1829dfb01764a484da83812b0b44b4037",
+          "update_hash": "sha256:b9310ff7f0a93ade4f29c3aa629d7fe1829dfb01764a484da83812b0b44b4037"
         }
       ]
     },
@@ -36,9 +36,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.7",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/search/addon.xpi?72f6ad81810ec32d3514a17e2ee8a77d9129888e7c0830a8cb3e3f7ed80d6cd9",
-          "update_hash": "sha256:72f6ad81810ec32d3514a17e2ee8a77d9129888e7c0830a8cb3e3f7ed80d6cd9"
+          "version": "1.0.7.1",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/search/addon.xpi?2728903049d473bb24c896c8ecd552551acb882e8a29159bbefab6938b00cc96",
+          "update_hash": "sha256:2728903049d473bb24c896c8ecd552551acb882e8a29159bbefab6938b00cc96"
         }
       ]
     },
@@ -50,9 +50,9 @@
               "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.13",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/bl/addon.xpi?9bb393aeef13e4093d1e3c437b940ba1666e69c48f2a51f7072d666ec05d4909",
-          "update_hash": "sha256:9bb393aeef13e4093d1e3c437b940ba1666e69c48f2a51f7072d666ec05d4909"
+          "version": "1.0.13.1",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/ombrelo/bl/addon.xpi?1eea5b36ea97b6ec7c97a4bc423d64add6d2737f10e995fcaed2e7e4065be377",
+          "update_hash": "sha256:1eea5b36ea97b6ec7c97a4bc423d64add6d2737f10e995fcaed2e7e4065be377"
         }
       ]
     }
