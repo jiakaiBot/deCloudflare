@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "My Privacy DNS - Reporter",
   "description": "Reporting websites made easy.",
-  "version": "1.0.1.13",
+  "version": "1.0.1.14",
   "author": "Crimeflare",
   "homepage_url": "http://crimeflare.eu.org/",
   "permissions": [
@@ -18,7 +18,8 @@
     "clipboardWrite"
   ],
   "options_ui": {
-    "page": "conf.html"
+    "page": "conf/conf.html",
+    "browser_style": false
   },
   "browser_action": {
     "browser_style": false,
