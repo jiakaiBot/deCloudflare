@@ -1165,6 +1165,7 @@ api.cerpdemo-1.bc.datahaventestdrive-onmicrosoft-com.tds.eastus1.test.datahaven3
 api.d2d.work
 api.dapp.mx
 api.dazzl.app
+api.delivermyflingmail.com
 api.digitalzenith.io
 api.discord-accounts.ru
 api.discordicon.com
@@ -1203,6 +1204,7 @@ ayurvedic.demo4client.xyz
 b2b.dnb.com.au
 backup.digitop.vn
 bafybeicir2h3wjs2hwys4h22lbfh5p363yhp56ofsie2qhct5ax3yrb6fm.ipfs.dweb.link
+bafybeigd45pbmqnhh4433mohubk65dtrunky5euqmhab3vr27244dpt5ey.ipfs.dweb.link
 bancodasaude.dev-dominios.com
 bank.dichvuchina.vn
 bara.dynabcs-services.at
@@ -1316,6 +1318,7 @@ dailyreckoning.com
 dailysoak.com
 dailyweb.pl
 daiphatnguyen.com.vn
+dajoservice.dk
 dakgootservice.nl
 daklaktour.com
 dalasnickarservice.se
@@ -1335,6 +1338,7 @@ daotaotinhoc.vn
 daparrot.com
 dariuscouture.dariuscordell.com
 darkweblinks.club
+darqa.org
 darrenblake.net
 data-disrupted.de
 data-gateway-mgmt.dev1.kernel.dataplatform.datamole.dev
@@ -1379,6 +1383,7 @@ dejhq.com
 dekunstvanhetont-moeten.nl
 delaconta.ro
 deliberynconfirmation.co
+delifictional.com
 deligiannis.ca
 delikatess.ma
 delitewirefencing.com
@@ -1402,6 +1407,7 @@ denizbankonlinemobile-com.net
 denizbnkonlineisjemler-com.net
 denizbxxnk.net
 denizkredinizdir.tk
+denmanactivitycentre.ca
 deposit98897552347.com
 deposit997857277.com
 depositmoney.online
@@ -1506,7 +1512,9 @@ discordsecurity.one
 discorf.com
 discoruns.com
 discotropicana.nl
+discountapp.in
 discourseforjustice.net
+discoverdenia.com
 discovermagazine.com
 discrode-gift-comnitro.ru
 discussmormonism.com
@@ -1548,7 +1556,9 @@ dolap-guvenli-odeme.cf
 dollarbill-ng.com
 domainkirakat.hu
 domainsmeca.com
+domesticgothess.com
 domino-service.net
+domuscor.pt
 donaldguarnieri.com
 dontfight.club
 donwatkins.info
@@ -1663,6 +1673,7 @@ git.c9v0ji0pk7j9eksc5020.demo.discord-account.com
 git.fhw5f2irzcre04e.a.discordstore.ru
 git.ftp.discord-accounts.ru
 git.git.affiliate.discord-accounts.ru
+git.git.aitrading.siteoincanto.comfomab.herokuapp.com.dieverdorp.nl
 git.git.covid19.dharma-space.com
 git.git.discord-acc.ru
 git.git.ftp.discord-accounts.ru
@@ -1802,6 +1813,7 @@ lhrspinecare.demowebsiteclient.com
 link.dealclouddispatch.com
 links.decode.ar
 links.dropbox.com
+liron.dmsupport.org
 login-coinbase-accou39.dynamic-dns.net
 login.diebafin.de
 login.driversupport.club
@@ -1843,6 +1855,7 @@ onlineservicesuat.dcbbank.com
 origin-app.dnbhoovers.com
 osiimi-chan.deviantart.com
 otakuap.deviantart.com
+otbp.demowebsiteclient.com
 para-hills.demowebsiteclient.com
 pay.dasgateway.com
 payment.mice.der.de
@@ -1862,6 +1875,7 @@ premier.trust.delivery-intln.com
 previews.dropboxusercontent.com
 primesafe.dvdesign.com.au
 print-server.dicom.com
+prod-01.doegli.ch
 prod.degreedcdn.com
 public-prod-dspcookiematching.dmxleo.com
 qbo-gcp-dev-api.dropmyemail.com
@@ -1880,6 +1894,7 @@ rakuten-japan-securiyt.dsomnf.cn
 receiver.emkt.dinamize.com
 red-cat-51.a276.dcdg.xyz
 redactie.d7.dev-vlaanderen.be
+reghub.deloitterisk.cloud
 registry-1.docker.io
 rekanten.co.ip.dekahaire.shop
 rekanten.co.ip.discverad.shop
@@ -1891,6 +1906,7 @@ rodan00.deviantart.com
 s2mark.in.mdwww.email.discord-accounts.ru
 s4bwebext.drv-bund.de
 sabb-auth.dac-eg.com
+sandbox-obp-api.danskebank.com
 sb.googlekeybroker.na-1.dpondemand.io
 secure-citiz3.dyndns.biz
 secure.delft.nl
@@ -1928,6 +1944,7 @@ sosyalyardim.dgpaysit.com
 specialtyautoftp.discord-accounts.ru
 splash.dev-dnaspaces.io
 squeakiest-mastiff-6258.dataplicity.io
+ssl.denizbank.com
 stage.evidenceportal.dcj.nsw.gov.au
 staging-28-more-s-fl6mk1.ezee-credit.v3.dealersite.cloud
 static-cdn.drawnames.com
@@ -1940,6 +1957,7 @@ studies.discoverapp.org
 subversion.dkfbasel.ch
 support.dana.org
 support.dinhhan.link
+support.discoverchildcare.co.nz
 support.driverpipeline.com
 t-auth.draegerreview.com
 t1.webservice4.secure.ddts.defra.gov.uk
@@ -2039,6 +2057,7 @@ www.cshelpdesk.dwisolar.com.my
 www.dagegenbewegen.de
 www.dahon.pt
 www.dailyastorian.com
+www.dailyprobiotic.net
 www.dailyservice.info
 www.dailyuw.com
 www.dakgootservice.nl
@@ -2057,6 +2076,7 @@ www.datadoghq-browser-agent.com
 www.datahingesystems.com
 www.datalit.fi
 www.dataporten.net
+www.datapost.ro
 www.datasecure.com.co
 www.dataspartan.co.uk
 www.davidbrazilandsarahpritchardopenletter.org
@@ -2087,6 +2107,8 @@ www.delltechnologies.com
 www.denbedstebabyalarm.dk
 www.denbedstepowerbank.dk
 www.denis-cleaningservice.uk
+www.denmanactivity.denmanactivitycentre.ca
+www.denmarkfarm.org.uk
 www.deportestolima.com.co
 www.derakpost.com
 www.derwesten.de
@@ -2096,6 +2118,7 @@ www.dev.earlystage.appcraft.dkonto.pl
 www.dewereldmorgen.be
 www.dffh.vic.gov.au
 www.dgterritorio.gov.pt
+www.diablomag.com
 www.diageo.com
 www.diageopromotions.com.au
 www.diagnosticare.com.au
@@ -2162,6 +2185,7 @@ www.drivethenetwork.com
 www.drksrinivascancercare.com
 www.drrosena.co.uk
 www.ds-alarmavecinal.com
+www.dses.co.uk
 www.dso-sicherheit.de
 www.dsxha.net
 www.dudeelle.com
@@ -2190,6 +2214,7 @@ www.git.git.postur.domenx.ru
 www.git.git.yprundgang2020.amymoris.com.djekxa.com
 www.git.postur.domenx.ru
 www.git.wallet.deslaboratory.com.ua
+www.gitlab.gitlab.gitlab.login.dhtc.ru
 www.grocery.demosclient.xyz
 www.homemate.demowebsiteclient.com
 www.ieesc.deliveryitirapina.com.br
@@ -2207,17 +2232,22 @@ www.medical.demowebsiteclient.com
 www.mel.demowebsiteclient.com
 www.money.dowazum.com
 www.moneyline10.dowazum.com
+www.monstery-rosliny.dkonto.pl
 www.noahsarkservice.digitinfosolutions.in
+www.otbp.demowebsiteclient.com
 www.para-hills.demowebsiteclient.com
 www.paypalgiftcard.digitalservice.club
 www.pc-support.data-redning.dk
 www.pegasusvisaservice.digiprosistemindonesia.com
 www.peopleserving.demowebsiteclient.com
+www.perfect-moneys.ml.drips-networks.tk
 www.pga.demowebsiteclient.com
 www.poonam.demowebsiteclient.com
+www.postal.digidenbd.com
 www.postureg.dailypaidonline.com
 www.qa-confirmar-documento.depilzone.com.pe
 www.secure.doctornain.com
+www.secureactt.dynamic-dns.net
 www.securedealshoppers.dqslprojects.com
 www.service.dezonline.ro
 www.serviceemail.docupel.com
@@ -2231,6 +2261,7 @@ www.test1.dineroinmediato.com.mx
 www.test2.dineroinmediato.com.mx
 www.tickets.devofaith.com
 www.track.deutschepostde.org
+www.tracking.dewimedialestari.com
 www.trello.dinheirocom.site
 www.uniquecode.com.br.dannalmeida.com
 www.update.datawebsolvere.com
