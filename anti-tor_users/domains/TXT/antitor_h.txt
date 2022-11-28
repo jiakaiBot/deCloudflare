@@ -679,6 +679,7 @@ api.heedy.app
 api.hicapitalize.com
 api.hoaresbank.co.uk
 api.hyperlex.fr
+api.secure.hsbcnet.com
 app.hntbridge.io
 app.hubconnect.com.au
 appapi.hipay.mn
@@ -726,6 +727,7 @@ covid19.himchistka-dom.ru
 covid2.healthbit.com.br
 covidimpact.com.auhtwww.outlook.heavymetalmerchant.com
 cp3.hboav.com
+cpcalendars.hingesautogarage.co.ke
 cpcalendars.hotelservices.tk
 cpcalendars.hsbctrustee.online
 cpcontacts.hexaputramandiri.com
@@ -736,6 +738,7 @@ customerservices.tat.hol.es
 d365-sg.test.hihonor.com
 demo.huloop.ai
 deuteranopic-soupcon.herokuapp.com
+dev-cms.hankyu-hotel.com
 dev.horeca-service.com
 dev2.etc.hataluck.jp
 dex.cct-b3.users.h-da.cloud
@@ -795,6 +798,7 @@ guestmcv-pre.huolala.cn
 ha-tecnicoscali.online
 habitatdeko.com
 hacercuenta.de
+hackerfactor.com
 hackerverse.tv
 hackmd.io
 hackseller.com
@@ -885,6 +889,7 @@ helpsecure.gq
 helpsecure.tk
 helpservice.pro
 helpship.eu
+helpsmediaviolation.ml
 helseboka.app
 helsinkiphotofestival.com
 henaxo.space
@@ -912,7 +917,9 @@ high-dimension.com
 highstudio.pt
 hiilivelka.fi
 hikemedieval.click
+hipotecario-home.com
 hiq-service.gr
+hiredworker.com
 hiroyuke.com
 historicalmovies.info
 historikerinnen.ch
@@ -1003,6 +1010,7 @@ hwxcbd.com
 hydal.com
 hydroblok.cl
 hypersports.com.br
+hytteogeiendomservice.no
 hyundai.mg
 iccm.hanabank.com
 identity.healthadvocate.com
@@ -1016,7 +1024,9 @@ japanned.hcommons.org
 jasonsimpson204432.hatenablog.com
 jcmedia.cloud10.hostingpalvelu.fi
 katekoppy.hcommons.org
+kendraprestonleonard.hcommons.org
 kernelserver.prod.haloplus.io
+kielista.hcommons.org
 klanten.highticketklanten.nl
 klantportaal.hypotheek-aanvragen.nl
 klantportaal.hypotheekprof.com
@@ -1042,6 +1052,7 @@ musicscapes.herokuapp.com
 net.hachi.co
 new-staging.healthsharevic.org.au
 nextcloud.hms.org
+nitrotruckandautoaccessoriesincmi.hibuwebsites.com
 nordicepi2022.hi.is
 nouvelles-admin.hydroquebec.com
 o.outlook.homereviewonline.com
@@ -1070,6 +1081,7 @@ raiza-js.herokuapp.com
 rakuten-japan-ja-cojp.hvnpewn.cn
 rakuten-japan-securiyt.hhs-cadg.cn
 rakuten-japan-securiyt.hvnpewn.cn
+rbwm-api.hsbc.co.uk
 re-peza.hatenablog.com
 rectificationserverless-config.herokuapp.com
 report.hipay.co.kr
@@ -1085,6 +1097,7 @@ sbawc.hrcms.co.kr
 search.hcl.com
 secure-mountain-22101.herokuapp.com
 secure.humairaidrees.com
+security.recreation.hol.es
 seguridad.habbo-nft.es
 serieas.hiwaymedia.it
 sfaservicedev.havells.com
@@ -1105,6 +1118,7 @@ staging.api.holocene.eu
 staramleczarnia.hyzne.pl
 stg-ba.hub.hit-u.ac.jp
 sts.horo.school
+studio.hypercatcher.com
 support.havasuit.com
 support.high-networks.com
 support.holland-hydraulics.nl
@@ -1114,6 +1128,7 @@ sweb.spiritweb.health.mo.gov
 sync.healthcheck-medel.it
 talk.hyperreal.dev
 team.hcommons.org
+terminator-hsv-fix-captcha.homeserve.io
 test-cert-manager.pdicloud-test.azure-k8s.haufe.io
 test-le-svc-conn-google.herokuapp.com
 test.heugenhauser.at
@@ -1149,6 +1164,7 @@ www.ascentitservice.in.hypenitsolution.com
 www.bill.hmeaworld.com
 www.businessonline.hamtinqton.com
 www.businessonline.hamtlnqton.com
+www.client.homesweetgh.com
 www.client.hostbare.com
 www.cliente852.hagg.com.br
 www.contact3mdr.himarc.ca
@@ -1223,6 +1239,7 @@ www.historiclandscapes.org
 www.hivebusinesssupport.org
 www.hiwwelwoi.shop
 www.hkcsfoundation.org
+www.hmbartglass.com
 www.ho8w09o58y4ft58mz.jp
 www.hoeverdienjegeld.com
 www.hokkaidojpn.jp
@@ -1282,6 +1299,7 @@ www.huntraco.hu
 www.hvnplus.co.uk
 www.hydro-huebner.de
 www.hydrolift.com.tr
+www.hytteogeiendomservice.no
 www.kravmaga.heroo.nl
 www.kredittoyota.hyundai-cikarang.com
 www.login.helpbhutan.com
