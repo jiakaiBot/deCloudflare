@@ -4,6 +4,9 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Communication with the API failed, is NPM running correctly?](https://github.com/ej52/proxmox-scripts/issues/102)
+- [stat.ink API Error "Rank After Exp must be no less than 0."](https://github.com/spacemeowx2/s3si.ts/issues/36)
+- [Server running, socat works, client fails](https://github.com/apernet/hysteria/issues/518)
 - [About the use of ASF in docker, Nginx reverse proxy, and the use of cloudflare after the log can not be displayed problem.](https://github.com/JustArchiNET/ASF-ui/issues/1615)
 - [Server side fetch() fails for certain redirects](https://github.com/sveltejs/kit/issues/7834)
 - [Feat Telemetry error with wrangler](https://github.com/upstash/upstash-redis/issues/268)
