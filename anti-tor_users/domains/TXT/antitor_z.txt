@@ -117,6 +117,7 @@ adfs.zylinks.com
 alert-manager.k3s.zunicloud.de
 api.zps-testing.net
 api.zuperbodegas.pe
+archief.zaanstad.nl
 auth.zenginehq.com
 authn1.dev.zpath.net
 avocadostore.walkiddy.zahlengrafik.com
@@ -158,6 +159,7 @@ mqtts-dev.zeromass.io
 newsletterversand.zeit.de
 nls.zolla.ru
 office-service.zapages.co.il
+portal.zero.govt.nz
 qa.ziondelivery.app.br
 rakuten-japan-ja-cojp.zhelizhuan.cn
 s.zkcdn.net
