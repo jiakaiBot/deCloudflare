@@ -3984,6 +3984,7 @@ Here's a list of public Fediverse services.
 | `carbontwelve.jp` | No |
 | `carcio.fi` | No |
 | `cardboard.construction` | No |
+| `cardiffmas.uk` | No |
 | `cardina1.red` | No |
 | `cardinalmedia.co` | No |
 | `care-tags.org` | No |
@@ -18072,6 +18073,7 @@ Here's a list of public Fediverse services.
 | `mstdn.niigata.jp` | No |
 | `mstdn.ninja` | Yes |
 | `mstdn.nl` | No |
+| `mstdn.no` | No |
 | `mstdn.okayama.jp` | No |
 | `mstdn.okinawa.jp` | No |
 | `mstdn.one` | Yes |
@@ -30336,6 +30338,7 @@ Here's a list of public Fediverse services.
 | `xn--80aa2ajy.xn--p1acf` | No |
 | `xn--80an2adaa.xn--p1ai` | Yes |
 | `xn--8r9a.com` | No |
+| `xn--90anxanf8c5b.xn--p1ai` | Yes |
 | `xn--931a.moe` | Yes |
 | `xn--99axc.xn--y9a3aq` | No |
 | `xn--9h5bn01a.net` | Yes |
@@ -31171,8 +31174,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,892 |
-| Normal | 24,236 |
+| Cloudflare | 6,893 |
+| Normal | 24,238 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
