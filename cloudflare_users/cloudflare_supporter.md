@@ -3559,6 +3559,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hoangchoke@twitter](https://twitter.com/Hoangchoke/status/1553045085960699905) | advertise |
 | [HoangDa48374700@twitter](https://twitter.com/HoangDa48374700/status/1396509053484900356) | advertise |
 | [hoangdi100@twitter](https://twitter.com/hoangdi100/status/1499584688226467844) | advertise |
+| [hoangg_khang@twitter](https://twitter.com/hoangg_khang/status/1597175178181500929) | advertise |
 | [Hoanglinhs2@twitter](https://twitter.com/Hoanglinhs2/status/1393978704766726146) | advertise |
 | [hoanglo22926430@twitter](https://twitter.com/hoanglo22926430/status/1552724993888624640) | advertise |
 | [HoangMi13533822@twitter](https://twitter.com/HoangMi13533822/status/1552385143910072320) | advertise |
