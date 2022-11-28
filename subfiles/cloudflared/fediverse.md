@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,486 |
-| social | 2,539 |
+| com | 4,487 |
+| social | 2,540 |
 | net | 2,369 |
-| org | 1,709 |
+| org | 1,710 |
 | de | 1,545 |
 
 
@@ -2880,6 +2880,7 @@ Here's a list of public Fediverse services.
 | `bimbo.social` | No |
 | `bimbo.systems` | No |
 | `bimmer.social` | No |
+| `binarycat.org` | No |
 | `binarydad.com` | No |
 | `binarydigit.cafe` | No |
 | `binaryfeline.com` | Yes |
@@ -5813,7 +5814,7 @@ Here's a list of public Fediverse services.
 | `danbruno.net` | No |
 | `dance-dance-dance.space` | No |
 | `dancemusic-mstdn.com` | No |
-| `dancingbanana.party` | No |
+| `dancingbanana.party` | Yes |
 | `dancohen.org` | No |
 | `danconnor.com` | No |
 | `dandys.space` | No |
@@ -12116,7 +12117,7 @@ Here's a list of public Fediverse services.
 | `inferiorlattice.com` | No |
 | `infernal.garden` | No |
 | `infernalerror.com` | Yes |
-| `infinimatix.net` | No |
+| `infinimatix.net` | Yes |
 | `infinite.pink` | No |
 | `infinitedisk.com` | No |
 | `infiniteloop.social` | No |
@@ -17406,6 +17407,7 @@ Here's a list of public Fediverse services.
 | `mituhide.net` | No |
 | `mitzelten.de` | No |
 | `miwatchdogs.com` | No |
+| `miwil.com` | Yes |
 | `miwilc.com` | No |
 | `miwpayou0808.info` | Yes |
 | `mixamax.se` | No |
@@ -21319,6 +21321,7 @@ Here's a list of public Fediverse services.
 | `playgames.jp` | No |
 | `playground.ws` | No |
 | `playingwithworms.org.uk` | No |
+| `playpen.social` | No |
 | `playseye.com` | No |
 | `playstation-mstdn.com` | No |
 | `playstation-sns.com` | No |
@@ -30772,6 +30775,7 @@ Here's a list of public Fediverse services.
 | `zamborsky.eu` | No |
 | `zamdronie.com` | No |
 | `zane.town` | No |
+| `zannoni.eu` | No |
 | `zap.dog` | No |
 | `zapashcanon.fr` | No |
 | `zapchenwellbeing.org` | No |
@@ -31055,8 +31059,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,860 |
-| Normal | 24,152 |
+| Cloudflare | 6,863 |
+| Normal | 24,153 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
