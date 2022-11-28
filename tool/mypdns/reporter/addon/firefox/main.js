@@ -173,7 +173,7 @@ function reporting(i, t) {
             showreply('Reported ' + fqdn, url);
          } else {
             showreply('Reply', g.reply);
-            if (tabOp1 && g.reply.startsWith('Issue for this domain is already exist.')) {
+            if (tabOp1 && g.issue && g.issue > 0) {
                browser.tabs.create({
                   active: true,
                   url: 'https://mypdns.org/my-privacy-dns/matrix/-/issues/' + g.issue
