@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,486 |
-| social | 2,540 |
+| social | 2,539 |
 | net | 2,369 |
 | org | 1,709 |
 | de | 1,545 |
@@ -1670,6 +1670,7 @@ Here's a list of public Fediverse services.
 | `arda.pw` | Yes |
 | `ardeer.cfd` | No |
 | `are-you-kidding.me` | Yes |
+| `are.nom.co` | No |
 | `area51.media` | No |
 | `area51.social` | No |
 | `area893.org` | No |
@@ -16860,6 +16861,7 @@ Here's a list of public Fediverse services.
 | `memesouls.top` | No |
 | `memesskey.com` | Yes |
 | `memetastic.space` | Yes |
+| `memetica.cloud` | No |
 | `memework.ga` | No |
 | `memework.org` | Yes |
 | `memiks.fr` | No |
@@ -18955,7 +18957,7 @@ Here's a list of public Fediverse services.
 | `nicebread.de` | No |
 | `nicecockb.ro` | Yes |
 | `nicecrew.digital` | Yes |
-| `nicecrew.us` | Yes |
+| `nicecrew.us` | No |
 | `nicehat.lol` | Yes |
 | `nicepeople.social` | No |
 | `nicfab.it` | No |
@@ -21317,7 +21319,6 @@ Here's a list of public Fediverse services.
 | `playgames.jp` | No |
 | `playground.ws` | No |
 | `playingwithworms.org.uk` | No |
-| `playpen.social` | No |
 | `playseye.com` | No |
 | `playstation-mstdn.com` | No |
 | `playstation-sns.com` | No |
@@ -30771,7 +30772,6 @@ Here's a list of public Fediverse services.
 | `zamborsky.eu` | No |
 | `zamdronie.com` | No |
 | `zane.town` | No |
-| `zannoni.eu` | No |
 | `zap.dog` | No |
 | `zapashcanon.fr` | No |
 | `zapchenwellbeing.org` | No |
@@ -31055,8 +31055,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,861 |
-| Normal | 24,151 |
+| Cloudflare | 6,860 |
+| Normal | 24,152 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
