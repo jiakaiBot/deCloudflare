@@ -1230,6 +1230,7 @@ Do not create new issue or we will close it as duplicate.
 | [Baomilos4@twitter](https://twitter.com/Baomilos4/status/1536315085475328001) | advertise |
 | [baovanhu012345@twitter](https://twitter.com/baovanhu012345/status/1387935168267096068) | advertise |
 | [bao_ruan@twitter](https://twitter.com/bao_ruan/status/1399224252474171393) | advertise |
+| [bao_truong4@twitter](https://twitter.com/bao_truong4/status/1597286177098592256) | advertise |
 | [bapipadhiary123@twitter](https://twitter.com/bapipadhiary123/status/1397088737125756928) | advertise |
 | [Bappiro79553221@twitter](https://twitter.com/Bappiro79553221/status/1401836385695277060) | advertise |
 | [bappyrayhan@twitter](https://twitter.com/bappyrayhan/status/1478396344834342913) | advertise |
@@ -1949,8 +1950,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3231,6 +3232,7 @@ Do not create new issue or we will close it as duplicate.
 | [hakim1370@twitter](https://twitter.com/hakim1370/status/1508506596275798016) | advertise |
 | [hakimnazih1@twitter](https://twitter.com/hakimnazih1/status/1560459318360678402) | advertise |
 | [Hakin_yemi@twitter](https://twitter.com/Hakin_yemi/status/1400871603760766976) | advertise |
+| [haki_vuog@twitter](https://twitter.com/haki_vuog/status/1597287244775055360) | advertise |
 | [Hakken54481368@twitter](https://twitter.com/Hakken54481368/status/1390639797983612929) | advertise |
 | [HalfdanLund@twitter](https://twitter.com/HalfdanLund/status/1521794524040863744) | advertise |
 | [halfstoneman@twitter](https://twitter.com/halfstoneman/status/1572824609095045122) | advertise |
