@@ -4790,6 +4790,7 @@ Do not create new issue or we will close it as duplicate.
 | [khet_win@twitter](https://twitter.com/khet_win/status/1377468267539935233) | advertise |
 | [Khi51608054@twitter](https://twitter.com/Khi51608054/status/1393972660883779586) | advertise |
 | [Khi86744113@twitter](https://twitter.com/Khi86744113/status/1384440250160664577) | advertise |
+| [Khim36198085@twitter](https://twitter.com/Khim36198085/status/1597090158628638720) | advertise |
 | [khim71373134@twitter](https://twitter.com/khim71373134/status/1407263810751139842) | advertise |
 | [KhineMinHtut1@twitter](https://twitter.com/KhineMinHtut1/status/1390576779371323392) | advertise |
 | [KhineMy66190604@twitter](https://twitter.com/KhineMy66190604/status/1395970610522591234) | advertise |
@@ -5527,6 +5528,7 @@ Do not create new issue or we will close it as duplicate.
 | [LmSkyler1@twitter](https://twitter.com/LmSkyler1/status/1480205347851993099) | advertise |
 | [lmtxxx2@twitter](https://twitter.com/lmtxxx2/status/1470622176097501185) | advertise |
 | [lmvntruong@twitter](https://twitter.com/lmvntruong/status/1380895642462023682) | advertise |
+| [LngNguy83416712@twitter](https://twitter.com/LngNguy83416712/status/1597081348812189696) | advertise |
 | [LngTi23877728@twitter](https://twitter.com/LngTi23877728/status/1549980900284600320) | advertise |
 | [lnguyenduc997@twitter](https://twitter.com/lnguyenduc997/status/1536404693668073472) | advertise |
 | [LNguynXunSn1@twitter](https://twitter.com/LNguynXunSn1/status/1485459472827166721) | advertise |
@@ -7454,6 +7456,7 @@ Do not create new issue or we will close it as duplicate.
 | [Orange15115578@twitter](https://twitter.com/Orange15115578/status/1400454754145234952) | advertise |
 | [Orange23582707@twitter](https://twitter.com/Orange23582707/status/1390373004798959617) | advertise |
 | [orangesweed@twitter](https://twitter.com/orangesweed/status/1381985172153802752) | advertise |
+| [orange_know@twitter](https://twitter.com/orange_know/status/1597087806257786880) | advertise |
 | [oriaxshelby6@twitter](https://twitter.com/oriaxshelby6/status/1552238465232039937) | advertise |
 | [orientofu@twitter](https://twitter.com/orientofu/status/1532066962540761088) | advertise |
 | [OriginalAydin@twitter](https://twitter.com/OriginalAydin/status/1389601607273254913) | advertise |
