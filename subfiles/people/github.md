@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [About the use of ASF in docker, Nginx reverse proxy, and the use of cloudflare after the log can not be displayed problem.](https://github.com/JustArchiNET/ASF-ui/issues/1615)
 - [Server side fetch() fails for certain redirects](https://github.com/sveltejs/kit/issues/7834)
 - [Feat Telemetry error with wrangler](https://github.com/upstash/upstash-redis/issues/268)
 - [Websocket connections rejected](https://github.com/nginxinc/nginx-kubernetes-gateway/issues/315)
