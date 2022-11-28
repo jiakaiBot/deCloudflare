@@ -10158,6 +10158,7 @@ Do not create new issue or we will close it as duplicate.
 | [TuanAnh84827709@twitter](https://twitter.com/TuanAnh84827709/status/1396374291449479169) | advertise |
 | [TuanCuong_24@twitter](https://twitter.com/TuanCuong_24/status/1491066171663466499) | advertise |
 | [TuanDan48@twitter](https://twitter.com/TuanDan48/status/1508407933150765056) | advertise |
+| [TuanDo60212814@twitter](https://twitter.com/TuanDo60212814/status/1597020296418324481) | advertise |
 | [TuanHoa92591402@twitter](https://twitter.com/TuanHoa92591402/status/1401178907756220419) | advertise |
 | [tuanit3697@twitter](https://twitter.com/tuanit3697/status/1483194691680337920) | advertise |
 | [tuanland168@twitter](https://twitter.com/tuanland168/status/1494107056051085315) | advertise |
