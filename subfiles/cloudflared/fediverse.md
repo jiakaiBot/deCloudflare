@@ -5871,6 +5871,7 @@ Here's a list of public Fediverse services.
 | `danquinney.com` | No |
 | `danrees.me` | No |
 | `dans-ma-bulle.life` | No |
+| `dansende-banaan.nl` | No |
 | `danshudon.jp` | No |
 | `danslesbois.info` | No |
 | `dansmith.online` | No |
@@ -19842,6 +19843,7 @@ Here's a list of public Fediverse services.
 | `offkey.social` | No |
 | `offline.network` | Yes |
 | `offrealms.space` | No |
+| `offsec.exchange` | No |
 | `offshore.ninja` | Yes |
 | `offsign.nl` | No |
 | `offsite.guru` | No |
@@ -31134,7 +31136,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,882 |
-| Normal | 24,208 |
+| Normal | 24,210 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
