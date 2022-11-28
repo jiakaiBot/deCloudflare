@@ -17477,6 +17477,7 @@ Here's a list of public Fediverse services.
 | `mjcspa.be` | No |
 | `mjd.id.au` | No |
 | `mjh.zone` | No |
+| `mjjzf.eu` | No |
 | `mjkeen.com` | Yes |
 | `mjkt.jp` | No |
 | `mjohnson.tech` | Yes |
@@ -31147,7 +31148,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,886 |
-| Normal | 24,217 |
+| Normal | 24,218 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
