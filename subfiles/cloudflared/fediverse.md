@@ -2811,6 +2811,7 @@ Here's a list of public Fediverse services.
 | `bida.im` | No |
 | `biddul.ph` | No |
 | `bidule.app` | No |
+| `bien-etre.social` | Yes |
 | `bien.ee` | No |
 | `biendeo.com` | No |
 | `bierochs.org` | No |
@@ -3728,7 +3729,7 @@ Here's a list of public Fediverse services.
 | `bus-hit.me` | No |
 | `busaiku.com` | No |
 | `bushi.moe` | No |
-| `bushidodreams.com` | Yes |
+| `bushidodreams.com` | No |
 | `bushiroad.space` | Yes |
 | `bushu-denno.com` | No |
 | `businessinsider.com` | Yes |
@@ -18819,6 +18820,7 @@ Here's a list of public Fediverse services.
 | `netou.info` | No |
 | `netplusw.com` | No |
 | `netpro2k.io` | Yes |
+| `netrunner.online` | No |
 | `netsplit.social` | Yes |
 | `netstat.app` | No |
 | `netsyms.com` | Yes |
@@ -21321,7 +21323,6 @@ Here's a list of public Fediverse services.
 | `playgames.jp` | No |
 | `playground.ws` | No |
 | `playingwithworms.org.uk` | No |
-| `playpen.social` | No |
 | `playseye.com` | No |
 | `playstation-mstdn.com` | No |
 | `playstation-sns.com` | No |
@@ -30775,7 +30776,6 @@ Here's a list of public Fediverse services.
 | `zamborsky.eu` | No |
 | `zamdronie.com` | No |
 | `zane.town` | No |
-| `zannoni.eu` | No |
 | `zap.dog` | No |
 | `zapashcanon.fr` | No |
 | `zapchenwellbeing.org` | No |
