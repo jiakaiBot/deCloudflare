@@ -158,6 +158,7 @@ Here's a list of public Fediverse services.
 | `1331.social` | No |
 | `1337.blue` | Yes |
 | `1337.cx` | No |
+| `1337.lgbt` | Yes |
 | `1337331.xyz` | Yes |
 | `1337lounge.de` | No |
 | `137i.de` | No |
@@ -31147,7 +31148,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,886 |
+| Cloudflare | 6,887 |
 | Normal | 24,218 |
 
 
