@@ -1,5 +1,6 @@
 {
   "addons": {
+"use-update_firefox-instead@deprecated.fyi":{"updates":[]},
     "isat@addon.crimeflare.eu.org": {
       "updates": [
         {
