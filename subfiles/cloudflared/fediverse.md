@@ -5871,7 +5871,6 @@ Here's a list of public Fediverse services.
 | `danquinney.com` | No |
 | `danrees.me` | No |
 | `dans-ma-bulle.life` | No |
-| `dansende-banaan.nl` | No |
 | `danshudon.jp` | No |
 | `danslesbois.info` | No |
 | `dansmith.online` | No |
@@ -16158,6 +16157,7 @@ Here's a list of public Fediverse services.
 | `masto.boo` | No |
 | `masto.cafe` | No |
 | `masto.casa` | Yes |
+| `masto.click` | Yes |
 | `masto.cloud` | No |
 | `masto.co` | No |
 | `masto.com` | No |
@@ -19843,7 +19843,6 @@ Here's a list of public Fediverse services.
 | `offkey.social` | No |
 | `offline.network` | Yes |
 | `offrealms.space` | No |
-| `offsec.exchange` | No |
 | `offshore.ninja` | Yes |
 | `offsign.nl` | No |
 | `offsite.guru` | No |
@@ -21109,6 +21108,7 @@ Here's a list of public Fediverse services.
 | `physik.cool` | No |
 | `physio-pedia.com` | Yes |
 | `physis.jp` | No |
+| `phz.jp` | No |
 | `pi2.dev` | No |
 | `piaf.eu` | No |
 | `piaille.fr` | No |
@@ -25797,6 +25797,7 @@ Here's a list of public Fediverse services.
 | `stolas.website` | No |
 | `stolen.day` | Yes |
 | `stoneartprod.xyz` | No |
+| `stonebot.io` | Yes |
 | `stonemonkeyresearch.com` | No |
 | `stoner.town` | No |
 | `stonerclub.tk` | No |
@@ -31135,8 +31136,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,882 |
-| Normal | 24,210 |
+| Cloudflare | 6,884 |
+| Normal | 24,209 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
