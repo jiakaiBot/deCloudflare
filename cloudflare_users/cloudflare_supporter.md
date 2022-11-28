@@ -9202,6 +9202,7 @@ Do not create new issue or we will close it as duplicate.
 | [SubashS68737602@twitter](https://twitter.com/SubashS68737602/status/1552276508554964992) | advertise |
 | [SUBEZYETI@twitter](https://twitter.com/SUBEZYETI/status/1403026281130643459) | advertise |
 | [Subhamdm@twitter](https://twitter.com/Subhamdm/status/1401919030034714630) | advertise |
+| [subhash73902708@twitter](https://twitter.com/subhash73902708/status/1597228369875435521) | advertise |
 | [SubhashGottum9@twitter](https://twitter.com/SubhashGottum9/status/1397529313537265665) | advertise |
 | [SuccessvisionPr@twitter](https://twitter.com/SuccessvisionPr/status/1393314160625307653) | advertise |
 | [sudanindepende1@twitter](https://twitter.com/sudanindepende1/status/1430518977386721280) | advertise |
