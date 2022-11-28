@@ -2723,6 +2723,7 @@ a6r7f5j8.stackpathcdn.com
 a8-verify.sells-it.net
 ab.safeguard.vip
 ablink.em.startlivehealthonline.com
+abs.supportservice.services
 acc.sgproduction.com
 account.sokalbela.com
 account.solidit.pt
@@ -2769,6 +2770,7 @@ api-digitalassets.scbs.com
 api-flamingo-vapt.symcresol.com
 api.acc.surepay.io
 api.appservice.mbp12.azurestack.skoda-auto.cz
+api.dev.coffeesmart.seb-professional.com
 api.dev.socialgoodplatform.com
 api.safalstores.com
 api.saloninteractive.com
@@ -2789,6 +2791,7 @@ api.soyyo.online
 api.splittest.ru
 api.sportiiz.fr
 api.staging.supplierci.com
+api.supportservice.services
 api.tfe.skat.dk
 api2.spaceweare.com
 api2.successfactors.eu
@@ -2810,6 +2813,7 @@ appleid.appleonline.store-login.live
 apps.sasol.com
 apps.servo.ma
 apps.sharis.com
+appsstg-sec.samsungcloudcdn.com
 archive-meteoalarm.simplebytes.at
 area18.smp.ne.jp
 areateamsupport.storeredesign.com
@@ -3046,6 +3050,7 @@ attupdates2022.square.site
 attuppdate2022.square.site
 attverificationsignup.square.site
 attverificationsp.square.site
+auth.sadwalrus.com
 auth.samsungosp.com
 auth.sinthu-und-jonas.de
 auth.smwh.de
@@ -3055,6 +3060,8 @@ authelia.sjno.de
 autoconfiglink.square.site
 autodiscover.sebashton.com
 autodiscover.soka-bau.de
+autodiscover.sosyalyardimlasmadernegi.org
+autodiscover.speedtech-nitrous.com
 autodiscover.studynomad.com
 auuww.square.site
 awsj4-dev-ed.my.salesforce-scrt.com
@@ -3077,7 +3084,9 @@ bell-email-109791.square.site
 bellsouth-109066.square.site
 bellsouth-loginservices.square.site
 bellsouthcomyahupdates.square.site
+bellsouthnet-108428.square.site
 bellyahoo105767.square.site
+bendeutsch.square.site
 besafe.sminvestments.com
 bi.syncada.com
 bi.uat.syncada.com
@@ -3126,6 +3135,7 @@ canadacentralr-notifyp.svc.ms
 capitax.sincordia.co.uk
 captcha.sgh.waw.pl
 captcha.sysindo.com
+career12preview.sapsf.eu
 cart.starbucks.co.jp
 cartilagefreecaptain.sbnation.com
 cdn.aws.singtel.com
@@ -3141,6 +3151,7 @@ checkout.square.site
 chile.subsidiosdelgobierno.com
 chof.se.gob.hn
 chousa.tele.soumu.go.jp
+chrome.securecloudsandbox.com
 chunghwa.postgov.tw-tracknumber.saldanarealty.com
 cibc.email.streetcontxt.net
 citiz8-secure.selfip.info
@@ -3201,6 +3212,7 @@ cpcalendars.seguroseticos.info
 cpcalendars.seonitro.net
 cpcalendars.signin-accountapp1e.servihotelsl.com
 cpcalendars.signin-accountapp1e.southmoltonproperties.com
+cpcalendars.speedtech-nitrous.com
 cpcalendars.stopgooglecensorship.online
 cpcalendars.studynomad.com
 cpcalendars.supportdcu.org
@@ -3262,6 +3274,8 @@ dconoor1230333.square.site
 de2.packages.seecr.nl
 de6.syspab.eu
 delivery.strate.co
+deliveryportaldev.starbuckscard.in.th
+deliveryportaluat.starbuckscard.in.th
 delphinity.square.site
 dev-bck.safety123.io
 dev.safesmart.vn
@@ -3278,6 +3292,7 @@ dfe-servico.svrs.rs.gov.br
 dflqa1.dev.struxurewarecloud.com
 dghn-105149.square.site
 dgjkjhgfdsadfrers109106.square.site
+digicraft.saferesorteldershome.com
 directorio.servicioscdlv.com
 discord-stellarage.smf-service.de
 discordantonline.sport.blog
@@ -3297,6 +3312,7 @@ dsc-test.siemens-healthineers.com
 dsc.siemens-healthineers.com
 dubay-108638.square.site
 due-notice.square.site
+dunkirkanimalclinic.securevetsource.com
 e-claim.sdacare.net
 e2e.bvd.services.skypeforbusiness.net
 eam.sarawakenergy.com.my
@@ -3332,6 +3348,7 @@ exp.starhub.com
 experiments.smarttech.ie
 facebook-team-108666.square.site
 fachtest.vertrieb.prozess.swm-service.li
+fast.samedaycovidtestingnearme.com
 fastaccessloan.creditbook.swoo.ca
 faveo-helpdesk.soccerdatacenter.com
 faveohelpdesk.soccerdatacenter.com
@@ -3395,6 +3412,7 @@ git.git.git.store.exchange.santeecooperbrown.info
 git.git.git.support.scsafeguard.info
 git.git.gitlab.git.git.git.gate.substanceapplebasin.online
 git.git.gitlab.gitlab.gitlab.mta1.sleepclockserious.online
+git.git.gitlab.gitlab.owa.secureserverlogin.app
 git.git.gitlab.login.sergeysysoev.ru
 git.git.gmail.comune.satyam.cz
 git.git.gov.www.www.www.18.test.shopplus.vip
@@ -3425,6 +3443,7 @@ git.vm.service-ventury.de
 git.vmail.sportgym74.ru
 git.zmail.studiasignon.ru
 gitlab.git.git.discover.txhshop.test.shopplus.vip
+gitlab.git.git.git.accounts.schoen.media
 gitlab.git.git.git.blog.shop.service.sealson.co
 gitlab.git.git.git.git.git.gate.substanceapplebasin.online
 gitlab.git.gitlab.gitlab.git.git.gate.substanceapplebasin.online
@@ -3433,6 +3452,7 @@ gitlab.git.ymail.stangeland-skolekorps.no
 gitlab.gitlab.wiki.gento.support.sykkelmerker.com
 gitlab.gmails.salesnetusa.com
 gitlab.news.blog.vmail.sin-patron.com.ar
+gitlab.posta.simplehk.net
 gitlab.support.r1zfufhin8h3cel.blog.old.4.test.shopplus.vip
 glennmie.blog.ss-blog.jp
 gmail.shibatafloral.com
@@ -3484,6 +3504,7 @@ irnbru.scran.ac.uk
 istitutosociale-sepe-identita-digitalesepe.squirly.info
 it-support-admin-info-n293n.square.site
 ivox.socratos.net
+jabode.synology.me
 jamf.seaviewhs.sa.edu.au
 japan.self-satisfaction.org
 japan.silverlinepet.com
@@ -3498,6 +3519,7 @@ jrfjtg.square.site
 jualan.skydronesia.com
 karolehorcho090.square.site
 kars.supportwebstore.com
+kassenbon.stw-d.de
 keycloak.eu.siggaempower.com
 kibboo2345654.square.site
 kibo198765432.square.site
@@ -3660,6 +3682,7 @@ nailedit.shl.dev
 naraks-kitchen.square.site
 nathan-toronto.square.site
 natural-herbal-products-201.square.site
+nbsconsulting17-dev-ed.my.salesforce-sites.com
 nccoetest.servicenowservices.com
 ncode.syosetu.com
 ndes.sbb.ch
@@ -3870,6 +3893,7 @@ salmagundi.org
 salvadorsmargarita.com
 salvaroclima.pt
 samacoonline.com.ar
+samanismail.fr
 samesky.co.uk
 samh.nl
 samistrainingtest.salvationarmy.org.au
@@ -3939,6 +3963,7 @@ scriptware.com
 sculptur.nl
 scvotes.gov
 sd-cleaning-services.com
+sdd6789.asia
 sdesk.sovcombank.ru
 sealberg.com
 sealinemarineservice.com
@@ -3965,6 +3990,7 @@ secure-delete.net
 secure-device-info.sg-delivery.xyz
 secure-guvendeparam.cf
 secure-investec.net
+secure-wellsfargo.net
 secure.sba.nu
 secure.smrholding.com
 secure.solwise.co.uk
@@ -4030,12 +4056,14 @@ seguridadmonserrate.com.co
 seguridadncasa.com
 seguroderesidencia.com
 seguroefectivo.com
+seguromedicobarato.ch
 seguros24-7.com.mx
 segurosguarderias.com
 segurosjalrey.com
 segurosmota.com
 segurosprohogar.net
 segurosroma.mx
+seguroswe.com.co
 seguroviagemcomparar.com.br
 seicgland.ch
 seiryukan.skr.jp
@@ -4055,6 +4083,8 @@ semantle.be
 semesta.seputarberitaupdate.com
 sendikalmucadele.org
 sendmeout.org
+sendvoiceswokingham.org.uk
+senhan07.my.id
 sense4fit.com
 senstore.io
 seo-linkservice.tk
@@ -4063,6 +4093,7 @@ seo-servicelink.ml
 seo-servicelinks.cf
 seo-servicelinks.gq
 seo-servicelinks.tk
+seo-services.gq
 seoexpertart.com
 seolinkservice.cf
 seolinkservice.gq
@@ -4094,6 +4125,7 @@ service-metamask.io
 service-point.pro
 service-sante.serveftp.com
 service-wohnen-oberpleis.gfo-online.sunzity.de
+service.safariverkoeling.co.za
 service.softwaresolutions.co.in
 service1.sagarmodi.in
 service24hour.in
@@ -4126,6 +4158,7 @@ servicehjelperne.no
 serviceinstalatiideridicat.ro
 servicelane.com
 servicelegal.in
+servicelele.com
 serviceman.no
 servicemart.online
 servicemesin.online
@@ -4265,9 +4298,11 @@ sichida-mahoupen-amazon.xyz
 sicurezzawebverify.simply.site
 sidakpost.co.id
 sidewalken.com
+sidewayseye.net
 sidharthkumarpathak.com.shuruaat.org
 sieamcommuntty.ru
 siebnsad.space
+siemenavsupport.nl
 sierradesegura.es
 siestakeycommunityinfo.com
 sign-in-112201.square.site
@@ -4302,6 +4337,8 @@ simpsonprotocol.com
 simuladorcredito.net
 singacredit.com
 singaporepackage.com
+singleservingchef.com
+singlestop.org
 sinmexico.com
 sinohappy.com
 sinopsis.cz
@@ -4356,6 +4393,7 @@ smartcommunity.com.br
 smartdental.ie
 smartemis.sdis25.fr
 smarthermservice.ro
+smartphones.co.bw
 smartpost.com.ar
 smashmaga.com
 smcq.qc.ca
@@ -4454,7 +4492,9 @@ sportscar365.com
 sportsemporium.co.nz
 spot.sinotrade.com.tw
 spotonmining.com
+spr.com
 sprintaccess.com
+sprkwd.com
 spsetia.com.my
 spts.org
 sr2.swissbilling.ch
@@ -4488,10 +4528,13 @@ stage-terra.sichersatt.ch
 stage.stan-weyler.com
 staging.api.interview.s8.capital
 staging.securityexcellence.net
+staging.soleapp.com.au
 staging.stixusers.com
 stagira.ro
 stakeborg.com
 standardbank-d5-dev-ed.my.salesforce-scrt.com
+standidesk.com
+standontheright.co.uk
 stanpolityki.pl
 stapferhaus.ch
 star.softmoon.in
@@ -4538,6 +4581,7 @@ steamcommnunlty.online
 steamcommnunnity.com
 steamcommnutiy.com
 steamcommulnty.com
+steamcommumty.com
 steamcommuneti.ru
 steamcommunitiy.com.ru
 steamcommuniuity.com
@@ -4575,8 +4619,10 @@ steamecomunity.ru
 steamencomnunily.com
 steammcommuniuty.ru
 steamncommunitty.store
+steampartner.de
 steamqueen.id
 steamvcommunity.ru
+steamwheel.com
 steancommunintly.ru
 steanncommuintly.com.ru
 stearncornrnunity.org.ru
@@ -4586,6 +4632,7 @@ stefaniksignservice.com
 steimconmunlty.ru
 stellar-services.in
 stellon.shop
+stend.in.ua
 steomcanmunity.ru
 stepawaymagazine.com
 stephenkingjourney.com
@@ -4620,6 +4667,7 @@ sts.sktelecom.com
 stuartsatavedongmail.com
 studentlogin.info
 studgo.ru
+studio-va.fr
 study-online.net
 studynowandlater.sapiraconsulting.com
 stuffupyourlife.com
@@ -4652,6 +4700,7 @@ superbathome.co
 supercopos.com
 superkitchenstack.com
 supersetautomation.in
+suppdisneypaymentdsp2.com
 support-coinbase.com.snagarep.com
 support-domains.ga
 support-konto-de.com
@@ -4666,6 +4715,7 @@ support.suivipriseservice.com
 support.top
 support2success.de
 support4all.biz
+supportaccount-orange.com
 supportavakin.com
 supportbybybit.info
 supportconsole.sdworx.co.uk
@@ -4685,6 +4735,7 @@ surepartth.com
 surronservice.com.ua
 surveys.surveytaking.com
 survival-security.com
+susangerd.ir
 sushizencoronado.com
 sustainabilitydigitalage.org
 sustainablefinancelab.nl
@@ -4717,6 +4768,7 @@ t-106846-1276543.square.site
 tabnet.saude.sp.gov.br
 tafteeshtest.saaed.ae
 tawauwagotsakonosamu.blog.ss-blog.jp
+tbm.snssdk.com
 tcmedia.scu.edu.tw
 team.signitron.io
 team43.shemernewmedia.com
@@ -4963,6 +5015,7 @@ u30076705.ct.sendgrid.net
 u30086494.ct.sendgrid.net
 u30086615.ct.sendgrid.net
 u30111979.ct.sendgrid.net
+u30114395.ct.sendgrid.net
 u30132974.ct.sendgrid.net
 u30148295.ct.sendgrid.net
 u30206475.ct.sendgrid.net
@@ -5053,6 +5106,7 @@ uut755-108289.square.site
 varia-plus.solenovo.fi
 varnish.features-enhancements.servicewa.lagoon.salsa.hosting
 vdca1.sibs.ro
+venkat.supersecure.in
 verify0-citiz.selfip.net
 verify65-citiz.selfip.org
 vibe-ography.square.site
@@ -5096,6 +5150,7 @@ web.secureloaamazon.com
 web.securerosamazon.com
 web.six-payment-services.com
 web104686anthenticationjska93hsks.square.site
+web6.secureinternetbank.com
 webapp3.starlinewindows.com
 webassets.ssisurveys.com
 webdisk.icloud.support-usa.us
@@ -5108,6 +5163,7 @@ webdisk.seonitro.net
 webdisk.signin-accountapp1e.servihotelsl.com
 webdisk.signin-accountapp1e.southmoltonproperties.com
 webdisk.smykkeure.dk
+webdisk.speedtech-nitrous.com
 webdisk.stopgooglecensorship.online
 webdisk.sushizencoronado.com
 webdisk.thecovidage.seeyourstory.co.uk
@@ -5201,6 +5257,7 @@ www.demo.securelabit.xyz
 www.demo.sitedelivery.click
 www.dev.safesmart.vn
 www.dev.supertrack.my.id
+www.digicraft.saferesorteldershome.com
 www.directorio.servicioscdlv.com
 www.domino1.stuttgart.de
 www.e-claim.sdacare.net
@@ -5391,6 +5448,7 @@ www.login.szumup.hu
 www.loginslot999.servercapung7.xyz
 www.lupuva.serviciosgraficos.cl
 www.maramaconceptstore.support-evolution.com
+www.markey.senate.gov
 www.mayayael.safehouse.org.il
 www.merkley.senate.gov
 www.metropolitanvet.servicefrigider.ro
@@ -5492,6 +5550,7 @@ www.samahauae.com
 www.samanthacotterill.com
 www.samessenger.com
 www.samiskhus.no
+www.samltool.com
 www.samsungtvchat.com
 www.sanborns.com.mx
 www.sanctuaire-pelagos.org
@@ -5525,6 +5584,7 @@ www.schlossneuhardenberg.de
 www.schneider-webstore.de
 www.schoenstezeit.de
 www.schramas.com
+www.schule-und-familie.de
 www.schuylerarmsco.com
 www.schwaebische-post.de
 www.schwarzes-yoga.de
@@ -5537,6 +5597,7 @@ www.scotiascene022.help
 www.scots-online.org
 www.scotthighpoolservice.com
 www.scottleagc.org
+www.scratchapixel.com
 www.se-klusservice.nl
 www.se-sv-facebook.com
 www.seabean.com
@@ -5554,6 +5615,7 @@ www.secureach.com
 www.securebits.cz.secure-bits.cz
 www.securecall.dk
 www.securecoin.site
+www.securefile-okit-document.com
 www.secureforms.in
 www.securefxtradenetwork.com
 www.secureit.buzz
@@ -5606,6 +5668,7 @@ www.service-biotech.com
 www.service-course.dk
 www.service-espressor.ro
 www.service-traumeigentum.de
+www.service.safariverkoeling.co.za
 www.service.softwaresolutions.co.in
 www.serviceacdki.com
 www.servicealongover.es
@@ -5674,6 +5737,7 @@ www.shape.com
 www.shaperivco.org
 www.sharpweb.org
 www.shaunmurphy.net
+www.shaz.ch
 www.shearsman.com
 www.sheetmusicplus.com
 www.sheldonstowingservice.com
@@ -5697,6 +5761,7 @@ www.siascotchwhisky.com
 www.sibeliusservices.com
 www.sidakpost.co.id
 www.sifting.ca
+www.sigeds-sep-gob.com.mx
 www.signserver.org
 www.silta.ai
 www.silverado-roof.com
@@ -5715,6 +5780,8 @@ www.sisb.ac.th
 www.sispro.gov.co
 www.sisteme-de-alarma.com
 www.site-ib-contas-simples.ga
+www.siteaidatyonetimi.com
+www.siteoptimizeservice.com.sitevideoservices.com
 www.sits-d.de
 www.sk-hotelservice.de
 www.skagerrakbanan.com
@@ -5771,6 +5838,7 @@ www.sonologservice.com
 www.sony-semicon.com
 www.sony.at
 www.sony.net
+www.sonypark.com
 www.sonyprize.net
 www.soonerpolitics.org
 www.sos-maroc.org
@@ -5792,6 +5860,7 @@ www.speedalert.ro
 www.speedmobi.com
 www.speedtech-nitrous.com
 www.spel-forumfederatie.be
+www.spellbook.legal
 www.spencernoon.com
 www.spiel-sinn.design
 www.spielermatch.de
@@ -5812,6 +5881,7 @@ www.starrigger.net
 www.starsinfo.seputarberitaupdate.com
 www.starters-pakket.nl
 www.statenewsservice.in
+www.stationaltiaigoual.com
 www.statueofunitypackage.com
 www.steadfast-services.com
 www.steamedpoet.com
@@ -5842,7 +5912,9 @@ www.suchat.org
 www.suganoya.com
 www.sumandodinero.com
 www.suncrafter.de
+www.sunday-webry.com
 www.sundaywebservice.com
+www.sunnxt.com
 www.sunnydelivery.ro
 www.superkitchenstack.com.servicesinnovated.com
 www.support-as.nl
@@ -5871,8 +5943,10 @@ www.sustainablefoodsupply.org
 www.suunnistusliitto.fi
 www.suzan66-one.xyz
 www.svpg.com
+www.swarovski.com
 www.swiftcitizen.com
 www.swinnsafe.com
+www.swisscolony.com
 www.swisstradingsociety.com
 www.sykescottages.co.uk
 www.symphonydevelopment.seputarberitaupdate.com
@@ -5905,6 +5979,7 @@ www.user.simpaudaisyiyahbanguntapan.com
 www.user.smmguru.co
 www.user.subarashiramen.pt
 www.users.section8finance.com
+www.venkat.supersecure.in
 www.vipwinmoney.spoonbit.com
 www.vitivinicolamacetero.serviciosgraficos.cl
 www.wabill.smaplusmuthahhari.sch.id
@@ -5948,6 +6023,7 @@ ytrjicxdrf.square.site
 zenith.evt.subsurface.cloud.slb-ds.com
 zmail.sekundservice.net
 zmail.signbottlefat.co
+zoneclient.sofe.ca
 zorgdomein.slingeland.nl
 ar.sheffaa.com
 blogs.scientificamerican.com
