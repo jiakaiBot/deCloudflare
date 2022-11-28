@@ -7674,6 +7674,7 @@ Do not create new issue or we will close it as duplicate.
 | [philstepson@twitter](https://twitter.com/philstepson/status/1468696455644950533) | advertise |
 | [PhinhonHung@twitter](https://twitter.com/PhinhonHung/status/1528456707021500416) | advertise |
 | [phipham1996@twitter](https://twitter.com/phipham1996/status/1394095455848435714) | advertise |
+| [PhmBo06199986@twitter](https://twitter.com/PhmBo06199986/status/1597133389454540800) | advertise |
 | [PhmChun95594174@twitter](https://twitter.com/PhmChun95594174/status/1579064424811630592) | advertise |
 | [PhmDuyn29732922@twitter](https://twitter.com/PhmDuyn29732922/status/1397789960820772870) | advertise |
 | [PhmGiaQun2@twitter](https://twitter.com/PhmGiaQun2/status/1594394366654976000) | advertise |
@@ -10191,6 +10192,7 @@ Do not create new issue or we will close it as duplicate.
 | [tungduo07351367@twitter](https://twitter.com/tungduo07351367/status/1518231863688843264) | advertise |
 | [tungtroy2122@twitter](https://twitter.com/tungtroy2122/status/1379372249212456963) | advertise |
 | [tungtung411@twitter](https://twitter.com/tungtung411/status/1404120132943712260) | advertise |
+| [TuNguyddjcmf@twitter](https://twitter.com/TuNguyddjcmf/status/1597145101834518529) | advertise |
 | [TunHmine@twitter](https://twitter.com/TunHmine/status/1391918737368895488) | advertise |
 | [TunHtetAung15@twitter](https://twitter.com/TunHtetAung15/status/1389878074771054592) | advertise |
 | [TunKhaing11@twitter](https://twitter.com/TunKhaing11/status/1400037855548821513) | advertise |
