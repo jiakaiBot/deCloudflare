@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,506 |
 | social | 2,553 |
-| net | 2,378 |
+| net | 2,377 |
 | org | 1,715 |
 | de | 1,551 |
 
@@ -1309,6 +1309,7 @@ Here's a list of public Fediverse services.
 | `anarchyplanet.org` | No |
 | `anarela.cyou` | No |
 | `anarkis.net` | No |
+| `anarshy.social` | No |
 | `anartist.org` | No |
 | `anartist.world` | No |
 | `anartri.net` | No |
@@ -8960,7 +8961,6 @@ Here's a list of public Fediverse services.
 | `foowar.de` | No |
 | `foowp.org` | No |
 | `fopnu.pw` | No |
-| `fora.social` | No |
 | `forall.social` | No |
 | `foralltime.icu` | Yes |
 | `force-clan.io` | No |
@@ -19728,7 +19728,6 @@ Here's a list of public Fediverse services.
 | `nzws.me` | Yes |
 | `o-k-i.net` | Yes |
 | `o-man.co` | No |
-| `o-nature-culture.net` | No |
 | `o-u-t-e-r.space` | No |
 | `o0i.es` | No |
 | `o1li.net` | No |
@@ -31151,7 +31150,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,888 |
-| Normal | 24,219 |
+| Normal | 24,218 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
