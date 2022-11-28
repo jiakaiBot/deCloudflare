@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,505 |
 | social | 2,550 |
-| net | 2,375 |
+| net | 2,376 |
 | org | 1,715 |
 | de | 1,551 |
 
@@ -13794,6 +13794,7 @@ Here's a list of public Fediverse services.
 | `kirimasharo.org` | Yes |
 | `kirimi.net` | No |
 | `kirin.online` | No |
+| `kirino.io` | No |
 | `kirinolen.fr` | No |
 | `kirinsan.org` | Yes |
 | `kirishima.cloud` | No |
@@ -27132,6 +27133,7 @@ Here's a list of public Fediverse services.
 | `theru.org` | No |
 | `theru.xyz` | No |
 | `thesan.space` | No |
+| `thesandbox.net` | No |
 | `thesea.men` | Yes |
 | `thesecretlair.org` | No |
 | `thesenate.cc` | No |
@@ -31137,7 +31139,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,884 |
-| Normal | 24,209 |
+| Normal | 24,211 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
