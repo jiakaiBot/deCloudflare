@@ -1296,6 +1296,7 @@ Do not create new issue or we will close it as duplicate.
 | [BellaMayKhine29@twitter](https://twitter.com/BellaMayKhine29/status/1390363855436468224) | advertise |
 | [Bellasw85986317@twitter](https://twitter.com/Bellasw85986317/status/1403722447166267400) | advertise |
 | [Bellza21946419@twitter](https://twitter.com/Bellza21946419/status/1392868933590425600) | advertise |
+| [belooberry@twitter](https://twitter.com/belooberry/status/1597241214948216832) | advertise |
 | [beltlinkworld@twitter](https://twitter.com/beltlinkworld/status/1571343284429021184) | advertise |
 | [ben100124@twitter](https://twitter.com/ben100124/status/1493053254120329216) | advertise |
 | [Ben70564935@twitter](https://twitter.com/Ben70564935/status/1379879154590441474) | advertise |
@@ -1379,6 +1380,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bintangbrr@twitter](https://twitter.com/Bintangbrr/status/1469541067343077380) | advertise |
 | [Bintran79870499@twitter](https://twitter.com/Bintran79870499/status/1394896382146670593) | advertise |
 | [binzabo@twitter](https://twitter.com/binzabo/status/1553267461511729152) | advertise |
+| [bin_1705_@twitter](https://twitter.com/bin_1705_/status/1597246238050914304) | advertise |
 | [bin_deal@twitter](https://twitter.com/bin_deal/status/1399889567050784769) | advertise |
 | [Bipin7Giri@twitter](https://twitter.com/Bipin7Giri/status/1398300434133962752) | advertise |
 | [bipp2002@twitter](https://twitter.com/bipp2002/status/1408041095330635781) | advertise |
@@ -3211,6 +3213,7 @@ Do not create new issue or we will close it as duplicate.
 | [Hai18099052@twitter](https://twitter.com/Hai18099052/status/1588621808932356096) | advertise |
 | [haiche1410@twitter](https://twitter.com/haiche1410/status/1571199251291729921) | advertise |
 | [HaiChen1708@twitter](https://twitter.com/HaiChen1708/status/1566482660712914944) | advertise |
+| [haihhii@twitter](https://twitter.com/haihhii/status/1597242825279782912) | advertise |
 | [haii_trn@twitter](https://twitter.com/haii_trn/status/1589186363131559937) | advertise |
 | [haikala86043665@twitter](https://twitter.com/haikala86043665/status/1553275985013121024) | advertise |
 | [HailBytes@twitter](https://twitter.com/HailBytes/status/1468726952139886604) | advertise |
@@ -4720,6 +4723,7 @@ Do not create new issue or we will close it as duplicate.
 | [kevinivander17@twitter](https://twitter.com/kevinivander17/status/1554045664769687553) | advertise |
 | [KevinMika7@twitter](https://twitter.com/KevinMika7/status/1387491734066696192) | advertise |
 | [KevinNg80013767@twitter](https://twitter.com/KevinNg80013767/status/1553340150469443584) | advertise |
+| [KevinRich@twitter](https://twitter.com/KevinRich/status/1597241418338426885) | advertise |
 | [KevinVu184@twitter](https://twitter.com/KevinVu184/status/1462324991106502658) | advertise |
 | [Kevin_M92@twitter](https://twitter.com/Kevin_M92/status/1550918294961623043) | advertise |
 | [kevin_pirnie@twitter](https://twitter.com/kevin_pirnie/status/1495525303963238400) | advertise |
@@ -5736,6 +5740,7 @@ Do not create new issue or we will close it as duplicate.
 | [madriid14@twitter](https://twitter.com/madriid14/status/1383009393147473920) | advertise |
 | [MadznalA@twitter](https://twitter.com/MadznalA/status/1475493006442565633) | advertise |
 | [MaEiEiKhine1@twitter](https://twitter.com/MaEiEiKhine1/status/1396386851187924993) | advertise |
+| [MaffandiMhafizi@twitter](https://twitter.com/MaffandiMhafizi/status/1597250541138374656) | advertise |
 | [MagedSa03599768@twitter](https://twitter.com/MagedSa03599768/status/1555284648200208384) | advertise |
 | [magicshoptae1@twitter](https://twitter.com/magicshoptae1/status/1391277628955402244) | advertise |
 | [Magmavalt@twitter](https://twitter.com/Magmavalt/status/1526286649839206400) | advertise |
