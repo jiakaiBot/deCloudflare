@@ -16348,6 +16348,7 @@ Here's a list of public Fediverse services.
 | `mastodon.pub` | No |
 | `mastodon.quebec` | No |
 | `mastodon.radio` | No |
+| `mastodon.re` | No |
 | `mastodon.red` | No |
 | `mastodon.rocks` | Yes |
 | `mastodon.saarland` | No |
@@ -31060,7 +31061,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 6,863 |
-| Normal | 24,153 |
+| Normal | 24,154 |
 
 
 ### 22.1% of public Fediverse services are using Cloudflare.
