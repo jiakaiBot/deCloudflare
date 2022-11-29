@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,516 |
+| com | 4,517 |
 | social | 2,570 |
 | net | 2,386 |
 | org | 1,721 |
@@ -9891,6 +9891,7 @@ Here's a list of public Fediverse services.
 | `geekery.org` | No |
 | `geekgonecrazy.com` | No |
 | `geekhaven.social` | Yes |
+| `geekinati.com` | No |
 | `geekingout.online` | No |
 | `geekly.social` | Yes |
 | `geekmodedad.com` | No |
@@ -16345,6 +16346,7 @@ Here's a list of public Fediverse services.
 | `mastodon.cool` | Yes |
 | `mastodon.cr` | No |
 | `mastodon.cx` | Yes |
+| `mastodon.desi` | Yes |
 | `mastodon.design` | No |
 | `mastodon.digital` | No |
 | `mastodon.direct` | No |
@@ -22709,7 +22711,7 @@ Here's a list of public Fediverse services.
 | `rawww.de` | Yes |
 | `raxx.la` | No |
 | `rayci.st` | No |
-| `raygoon.tk` | No |
+| `raygoon.tk` | Yes |
 | `raygungothic.xyz` | Yes |
 | `rayn.bo` | Yes |
 | `raynor.haus` | No |
@@ -27025,6 +27027,7 @@ Here's a list of public Fediverse services.
 | `thecoolest.info` | No |
 | `thecooltable.wtf` | No |
 | `thecore.city` | Yes |
+| `thecove.cc` | Yes |
 | `thecovertgeek.xyz` | No |
 | `thecreatives.social` | No |
 | `thecriminaliraq.com` | No |
@@ -27137,7 +27140,7 @@ Here's a list of public Fediverse services.
 | `themimitoof.fr` | Yes |
 | `themintfarm.ml` | Yes |
 | `themisir.com` | Yes |
-| `themondragons.com` | No |
+| `themondragons.com` | Yes |
 | `themorningclaret.com` | Yes |
 | `themq.org` | Yes |
 | `themsp.org` | No |
@@ -28310,6 +28313,7 @@ Here's a list of public Fediverse services.
 | `tuxsolutions.org` | No |
 | `tuxspace.net` | No |
 | `tuxtendo.nl` | No |
+| `tuxz.one` | Yes |
 | `tv.sb` | No |
 | `tvcrit.com` | No |
 | `tvd.social` | No |
@@ -31233,8 +31237,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,909 |
-| Normal | 24,281 |
+| Cloudflare | 6,914 |
+| Normal | 24,280 |
 
 
 ### 22.2% of public Fediverse services are using Cloudflare.
