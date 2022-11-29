@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,527 |
+| com | 4,528 |
 | social | 2,575 |
 | net | 2,387 |
 | org | 1,727 |
@@ -2861,6 +2861,7 @@ Here's a list of public Fediverse services.
 | `bigheart.tech` | No |
 | `bigleaf.city` | No |
 | `biglittle.space` | No |
+| `bigmastodon.com` | No |
 | `bignum.org` | No |
 | `bigowo.digital` | No |
 | `bigpandatech.com` | No |
@@ -22257,7 +22258,7 @@ Here's a list of public Fediverse services.
 | `pztrn.online` | No |
 | `pzyk.de` | No |
 | `pzzr.org.pl` | No |
-| `q12.im` | No |
+| `q12.im` | Yes |
 | `q13fox.com` | No |
 | `q1z.net` | No |
 | `q2r.net` | No |
@@ -22378,7 +22379,7 @@ Here's a list of public Fediverse services.
 | `quertube.de` | No |
 | `queryquokka.xyz` | Yes |
 | `queso.ninja` | No |
-| `quesos.io` | No |
+| `quesos.io` | Yes |
 | `quet.ch` | Yes |
 | `quey.org` | Yes |
 | `quic.fr` | No |
@@ -23638,6 +23639,7 @@ Here's a list of public Fediverse services.
 | `rzhaus.com` | No |
 | `rzl.icu` | Yes |
 | `rzpn.pl` | No |
+| `s-a.at` | No |
 | `s-brand.de` | No |
 | `s-m.ac` | No |
 | `s-n.me` | No |
@@ -25953,7 +25955,7 @@ Here's a list of public Fediverse services.
 | `strandundmeer.net` | No |
 | `strange.faith` | No |
 | `strangeparts.com` | Yes |
-| `strangeplace.me` | No |
+| `strangeplace.me` | Yes |
 | `stranger.town` | No |
 | `strangestack.com` | No |
 | `strangevistas.com` | No |
@@ -27238,7 +27240,7 @@ Here's a list of public Fediverse services.
 | `therian.club` | Yes |
 | `therianthro.pe` | No |
 | `theringed.city` | No |
-| `theritters.online` | Yes |
+| `theritters.online` | No |
 | `thermopylas.fi` | No |
 | `therobots.org` | No |
 | `therock.social` | Yes |
@@ -31273,7 +31275,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,930 |
+| Cloudflare | 6,932 |
 | Normal | 24,300 |
 
 
