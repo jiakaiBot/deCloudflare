@@ -324,6 +324,7 @@ avanan.url-protection.com
 b2bapi.usaa.com
 bach.umukuri.com
 backoffice.ekulchenko.unibase.xyz
+baramundi.kks.uni-marburg.de
 beactive2.usask.ca
 bienestarpsicosocial.izt.uam.mx
 bigweb.unifr.ch
@@ -377,6 +378,7 @@ gpu.unimedmineiros.coop.br
 guiaempresas.universia.es
 happypack.unicef.be
 homedav.unifr.ch
+hrkim1.ubion.co.kr
 i-api.uni-sofia.bg
 idam.upr.si
 identity.unimas.my
@@ -433,6 +435,7 @@ repository.uchastings.edu
 rirra21.www.univ-montp3.fr
 schwarzesbrett.wp.hum.uu.nl
 scim.urimapp.com
+scuba.unrealstage.com
 secure.ubsimt.com
 secure.unrwa.es
 service.upworkers.top
@@ -448,6 +451,7 @@ su.untill.com
 support.microsoft.com.remotexs.unimas.my
 support.udesite.be
 svn.ultimate-eur.com
+t.umblr.com
 test2.unitedadlabel.com
 test38.ukrmisto.com
 test40.ukrmisto.com
@@ -460,6 +464,7 @@ tmc.fm.usermd.net
 trans-proxy.uecard.ru
 troublex.uber.space
 ua-acoustics.com
+ubakeryu.com
 ubcpress.ca
 ucallblog.sites.uu.nl
 ucca.org
@@ -468,10 +473,12 @@ ufa-ultiproxy3.ultipro.ca
 ufaproxy3.ultipro.ca
 ugotclass.org
 uhdjkmmksck.com
+uimoney.club
 uituwhand.nl
 ujianmu.net
 ukai-online.com
 ukandeuropepettaxi.co.uk
+ukdocservice.com
 ukdoula.com
 ukoug.org
 ukrpost.org
@@ -481,6 +488,7 @@ ultrasecurity.ro
 ultratechcemtrack.com
 ulysse31soundtrack.com
 umbrellasecurity.fr.umbrellahost.fr
+ummeio.org
 unarclient.com
 uncatolicoperplejo.com
 uncoder.io
@@ -500,6 +508,7 @@ unired.net.ni
 uniserv-federation.com
 unitil.com
 unitransservice.com
+unitron.solutions
 uniusclaws.com
 universal-studios-orlando-tickets.com
 unixhq.com
@@ -518,6 +527,7 @@ updatehargaemas.com
 updatelayanan-transaksaksi.my.id
 updatemybperritaly.com
 updatepakjob.com
+updateproc.com
 updateprodukviral.my.id
 updateromx.us
 updates1india.com
@@ -546,9 +556,11 @@ uscyberpatriot.org
 usendit.net
 user5522.tk
 usereluz.com
+users.fmf.uni-lj.si
 usershare.me
 userumah.com.br
 usps-verification.com
+uspsopen.com
 uspstrksecure.org
 usso.uk
 usuario-bradescnetempresa.ml
@@ -638,6 +650,7 @@ www.today.update-sports.com
 www.topwebmakers.org.usershare.me
 www.uchealth.com
 www.uci.cu
+www.ugt.es
 www.ugtbalears.com
 www.ui.ac.id
 www.ukmilitarymentors.co.uk
@@ -652,10 +665,13 @@ www.undefinedentertainment.com
 www.undercontrolcredit.co.nz
 www.unfieasyoptions.com
 www.ungeologoenapuros.es
+www.uni-hohenheim.de
 www.unicreditgroup.eu
 www.unifrog.org
 www.unionbankph.com
 www.uniondemocrat.com
+www.uniquelifestyle.com.tr
+www.unitedlagucordelivery.com
 www.unitedrocknations.com
 www.unitedsprayingservice.com
 www.unityunitarian.org
@@ -688,6 +704,7 @@ www.usp-s--postal.info
 www.usps-login1.com
 www.usps-postage.shop
 www.usps-postagestamp.shop
+www.usps-search-zipcode-manage-delivery-manage-html.ga
 www.usps-uspspackage.online
 www.uspspackage.usps-uspspackage.online
 www.utahinvestigative.org
@@ -701,6 +718,7 @@ www.zymark.updatedvpn.xyz
 xpress.usremotedeposit.com
 xyz-onesourcesso-qa3.ubstest.com
 xyz-wmap-q3.onesourcesso.ubstest.com
+zzm-kurs.uzh.ch
 adb.zuv.uni-heidelberg.de
 special.usps.com
 ukrainians.fi
