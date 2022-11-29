@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,539 |
+| com | 4,540 |
 | social | 2,584 |
 | net | 2,391 |
 | org | 1,729 |
@@ -1925,6 +1925,7 @@ Here's a list of public Fediverse services.
 | `asstodon.social` | No |
 | `assumptioncollege.edu` | No |
 | `ast.my` | No |
+| `astaluk.com` | No |
 | `astarbia.com` | Yes |
 | `astatu.berlin` | No |
 | `astdn.tokyo` | No |
@@ -26011,6 +26012,7 @@ Here's a list of public Fediverse services.
 | `strausmann.net` | Yes |
 | `strawjackal.org` | No |
 | `straylight.engineering` | No |
+| `strazha.bg` | No |
 | `streamer-netzwerk.xyz` | No |
 | `streamer.cafe` | No |
 | `streamer.place` | Yes |
@@ -26953,7 +26955,7 @@ Here's a list of public Fediverse services.
 | `testausserveri.fi` | Yes |
 | `testbits.org` | No |
 | `testchamber.one` | Yes |
-| `tester.social` | No |
+| `tester.social` | Yes |
 | `testfrif.de` | No |
 | `testifi.es` | No |
 | `testimonia.org` | No |
@@ -31324,8 +31326,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,947 |
-| Normal | 24,334 |
+| Cloudflare | 6,948 |
+| Normal | 24,335 |
 
 
 ### 22.2% of public Fediverse services are using Cloudflare.
