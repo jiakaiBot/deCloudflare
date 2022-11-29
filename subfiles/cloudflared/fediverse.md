@@ -5679,6 +5679,7 @@ Here's a list of public Fediverse services.
 | `cyberplace.social` | No |
 | `cyberprivacyfirst.com` | No |
 | `cyberpunk.earth` | No |
+| `cyberpunk.fan` | Yes |
 | `cyberpunk.haus` | No |
 | `cyberpunk.net.ar` | Yes |
 | `cyberpunks.xyz` | No |
@@ -31346,7 +31347,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,956 |
+| Cloudflare | 6,957 |
 | Normal | 24,347 |
 
 
