@@ -8135,6 +8135,7 @@ Do not create new issue or we will close it as duplicate.
 | [radpaluszak@twitter](https://twitter.com/radpaluszak/status/1398323773435265028) | advertise |
 | [radrohamymailc1@twitter](https://twitter.com/radrohamymailc1/status/1494955192973942785) | advertise |
 | [radthebad007@twitter](https://twitter.com/radthebad007/status/1395685973443452929) | advertise |
+| [RafaelEugenioD2@twitter](https://twitter.com/RafaelEugenioD2/status/1597368695298600961) | advertise |
 | [rafinmariam5656@twitter](https://twitter.com/rafinmariam5656/status/1564864639422590978) | advertise |
 | [ragab1234341@twitter](https://twitter.com/ragab1234341/status/1392273173442408448) | advertise |
 | [raghu83283525@twitter](https://twitter.com/raghu83283525/status/1377305204429791233) | advertise |
