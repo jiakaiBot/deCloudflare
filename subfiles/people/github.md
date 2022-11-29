@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Internal use of axios causes error inside Cloudflare Workers](https://github.com/openai/openai-node/issues/30)
 - [Error while loading in Cloudflare Workers](https://github.com/mailjet/mailjet-apiv3-nodejs/issues/230)
 - [Right way to use this tool?](https://github.com/elceef/subzuf/issues/1)
 - [Communication with the API failed, is NPM running correctly?](https://github.com/ej52/proxmox-scripts/issues/102)
