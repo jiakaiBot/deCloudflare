@@ -1392,6 +1392,7 @@ Do not create new issue or we will close it as duplicate.
 | [Birb_the14th@twitter](https://twitter.com/Birb_the14th/status/1381938622270672898) | advertise |
 | [birt_isaac@twitter](https://twitter.com/birt_isaac/status/1377936339212062725) | advertise |
 | [BishalK59489606@twitter](https://twitter.com/BishalK59489606/status/1536094886596079616) | advertise |
+| [BisterHope@twitter](https://twitter.com/BisterHope/status/1597713288959524864) | advertise |
 | [bitdotcoin@twitter](https://twitter.com/bitdotcoin/status/1378723169066967042) | advertise |
 | [BitMagge@twitter](https://twitter.com/BitMagge/status/1571636052884062208) | advertise |
 | [BizganCostin@twitter](https://twitter.com/BizganCostin/status/1382363988013555713) | advertise |
@@ -1954,8 +1955,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -4905,8 +4906,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -9661,6 +9662,7 @@ Do not create new issue or we will close it as duplicate.
 | [TheMarvSolo@twitter](https://twitter.com/TheMarvSolo/status/1572056650089132038) | advertise |
 | [themichaellamb@twitter](https://twitter.com/themichaellamb/status/1504870147839905794) | advertise |
 | [TheMukeshPatel@twitter](https://twitter.com/TheMukeshPatel/status/1565563880704602112) | advertise |
+| [Thenoob4ever67@twitter](https://twitter.com/Thenoob4ever67/status/1597686642017701888) | advertise |
 | [Theone78028212@twitter](https://twitter.com/Theone78028212/status/1565905872605396992) | advertise |
 | [Theophiluskala2@twitter](https://twitter.com/Theophiluskala2/status/1556089433170083851) | advertise |
 | [Thepeac18406311@twitter](https://twitter.com/Thepeac18406311/status/1391305173528682496) | advertise |
@@ -10132,6 +10134,7 @@ Do not create new issue or we will close it as duplicate.
 | [TrucMaiNguyen6@twitter](https://twitter.com/TrucMaiNguyen6/status/1541933825693196288) | advertise |
 | [TrueStrike2@twitter](https://twitter.com/TrueStrike2/status/1396387242214559744) | advertise |
 | [truewu@twitter](https://twitter.com/truewu/status/1496862998136197127) | advertise |
+| [trukmaktufly@twitter](https://twitter.com/trukmaktufly/status/1597704732617084928) | advertise |
 | [Trun89992376@twitter](https://twitter.com/Trun89992376/status/1552310055277436929) | advertise |
 | [Trung91Tn2@twitter](https://twitter.com/Trung91Tn2/status/1552638456903651329) | advertise |
 | [trung19044252@twitter](https://twitter.com/trung19044252/status/1553121039697444864) | advertise |
