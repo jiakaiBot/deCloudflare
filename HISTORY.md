@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-11-30: [BOS (Boston) on 2022-11-30](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/nzmsdlfddlhr)
 - 2022-11-30: [MXP (Milan) on 2022-11-30](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/jxgtd7csd0yc)
 - 2022-11-30: [GRU (São Paulo) on 2022-11-30](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/35n640992dvc)
 - 2022-12-03: [HKG (Hong Kong) on 2022-12-03](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5999mg31mgpb)
