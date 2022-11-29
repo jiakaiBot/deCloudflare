@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,517 |
-| social | 2,570 |
-| net | 2,386 |
-| org | 1,721 |
+| com | 4,521 |
+| social | 2,571 |
+| net | 2,387 |
+| org | 1,722 |
 | de | 1,555 |
 
 
@@ -3011,6 +3011,7 @@ Here's a list of public Fediverse services.
 | `bitsammelwanne.de` | No |
 | `bitsandlinux.com` | Yes |
 | `bitsandpixels.dev` | No |
+| `bitschubser.dev` | No |
 | `bitseatech.com` | No |
 | `bitsec.org` | No |
 | `bitsof.tech` | No |
@@ -4117,6 +4118,7 @@ Here's a list of public Fediverse services.
 | `catsbay.org` | No |
 | `catscatscats.party` | No |
 | `catspace.xyz` | No |
+| `catswords.social` | Yes |
 | `catt.wtf` | No |
 | `cattell.mba` | No |
 | `cattesandbuttes.com` | No |
@@ -6434,6 +6436,7 @@ Here's a list of public Fediverse services.
 | `devschile.social` | No |
 | `devsforce.org` | No |
 | `devsigner.best` | No |
+| `devsnorte.com` | No |
 | `devsociety.eu` | No |
 | `devteams.at` | No |
 | `devtrope.com` | No |
@@ -6743,6 +6746,7 @@ Here's a list of public Fediverse services.
 | `dmorozov.info` | No |
 | `dmrty.fr` | No |
 | `dmrty.net` | No |
+| `dmv.community` | No |
 | `dmxd.party` | No |
 | `dmynerd78.me` | No |
 | `dn42.us` | No |
@@ -7371,6 +7375,7 @@ Here's a list of public Fediverse services.
 | `edgy.social` | Yes |
 | `edheil.com` | No |
 | `edi.social` | Yes |
+| `edibleb.one` | No |
 | `ediot.social` | Yes |
 | `edist.ro` | No |
 | `editing.fun` | Yes |
@@ -8491,7 +8496,7 @@ Here's a list of public Fediverse services.
 | `fediski.com` | Yes |
 | `fedisnap.com` | Yes |
 | `fedisocial.net` | No |
-| `fedisonic.cloud` | No |
+| `fedisonic.cloud` | Yes |
 | `fedispace.fr` | No |
 | `fedispace.ml` | No |
 | `fedisphere.net` | No |
@@ -10118,6 +10123,7 @@ Here's a list of public Fediverse services.
 | `giles.fun` | Yes |
 | `gilespaterson.com` | No |
 | `gillesmertens.com` | No |
+| `gillyb.net` | Yes |
 | `gimme-sympathy.org` | No |
 | `gimp.chat` | No |
 | `gingadon.com` | Yes |
@@ -18850,6 +18856,7 @@ Here's a list of public Fediverse services.
 | `nerd.garden` | No |
 | `nerd.net` | No |
 | `nerd.town` | No |
+| `nerdbutler.com` | Yes |
 | `nerdcave.eu` | No |
 | `nerdcave.site` | Yes |
 | `nerdco.ws` | No |
@@ -21739,7 +21746,7 @@ Here's a list of public Fediverse services.
 | `popura.ch` | No |
 | `porchlogic.com` | Yes |
 | `poridge.club` | No |
-| `porkchop.express` | No |
+| `porkchop.express` | Yes |
 | `porkribs.social` | No |
 | `porn-k.com` | Yes |
 | `pornanime.club` | No |
@@ -22647,6 +22654,7 @@ Here's a list of public Fediverse services.
 | `ranranhome.site` | No |
 | `ransom.buzz` | Yes |
 | `rants.au` | Yes |
+| `rants.org` | No |
 | `rantz.xyz` | No |
 | `rape.town` | No |
 | `rapefeminists.network` | No |
@@ -24663,6 +24671,7 @@ Here's a list of public Fediverse services.
 | `side-ways.net` | No |
 | `sidekek.ml` | No |
 | `sideno.eu` | No |
+| `sideofburritos.com` | Yes |
 | `sidequest.social` | No |
 | `sideras.net` | No |
 | `sideslip.social` | No |
@@ -25954,6 +25963,7 @@ Here's a list of public Fediverse services.
 | `strindevall.com` | Yes |
 | `stringer.live` | Yes |
 | `stripedsocks.dev` | No |
+| `stripittoride.club` | No |
 | `strits.dk` | No |
 | `strizhakov.dev` | Yes |
 | `stroan.net` | Yes |
@@ -30737,6 +30747,7 @@ Here's a list of public Fediverse services.
 | `ynh.ovh` | No |
 | `ynhserver.com` | No |
 | `ynnx.eu` | No |
+| `ynotnetwork.com` | No |
 | `ynu.zone` | No |
 | `yo-o.org` | No |
 | `yoavmoshe.com` | Yes |
@@ -31237,8 +31248,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,914 |
-| Normal | 24,280 |
+| Cloudflare | 6,920 |
+| Normal | 24,285 |
 
 
 ### 22.2% of public Fediverse services are using Cloudflare.
