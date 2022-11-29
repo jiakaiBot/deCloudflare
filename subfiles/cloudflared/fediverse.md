@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,515 |
+| com | 4,516 |
 | social | 2,570 |
 | net | 2,386 |
 | org | 1,721 |
@@ -18188,7 +18188,7 @@ Here's a list of public Fediverse services.
 | `muage.org` | No |
 | `mublog.nl` | No |
 | `mucrone.tech` | No |
-| `mud.social` | No |
+| `mud.social` | Yes |
 | `mudge.name` | Yes |
 | `mudhut.xyz` | Yes |
 | `mudkips.net` | Yes |
@@ -20905,7 +20905,7 @@ Here's a list of public Fediverse services.
 | `peertube.biz` | No |
 | `peertube.cat` | No |
 | `peertube.cc` | No |
-| `peertube.cf` | No |
+| `peertube.cf` | Yes |
 | `peertube.ch` | No |
 | `peertube.cl` | No |
 | `peertube.club` | No |
@@ -27121,6 +27121,7 @@ Here's a list of public Fediverse services.
 | `theloveof.house` | No |
 | `thelukes.org` | No |
 | `themadlads.live` | Yes |
+| `themars.tk` | No |
 | `themastodon.uk` | No |
 | `themaymeow.com` | Yes |
 | `themazuma.net` | No |
@@ -31151,6 +31152,7 @@ Here's a list of public Fediverse services.
 | `zotadel.net` | No |
 | `zotan.host` | No |
 | `zotha.de` | Yes |
+| `zotroll.com` | No |
 | `zotsite.net` | No |
 | `zottmann.org` | Yes |
 | `zotum.net` | No |
@@ -31231,8 +31233,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,907 |
+| Cloudflare | 6,909 |
 | Normal | 24,281 |
 
 
-### 22.1% of public Fediverse services are using Cloudflare.
+### 22.2% of public Fediverse services are using Cloudflare.
