@@ -1828,6 +1828,7 @@ Do not create new issue or we will close it as duplicate.
 | [chriscoley15@twitter](https://twitter.com/chriscoley15/status/1568513167361249281) | advertise |
 | [chrisdonges@twitter](https://twitter.com/chrisdonges/status/1388402516514148354) | advertise |
 | [ChrisEd132@twitter](https://twitter.com/ChrisEd132/status/1510890162993377286) | advertise |
+| [ChrisGayer1@twitter](https://twitter.com/ChrisGayer1/status/1597515905541369857) | advertise |
 | [Chrisjonstone49@twitter](https://twitter.com/Chrisjonstone49/status/1587242193953202176) | advertise |
 | [ChrisLangolf@twitter](https://twitter.com/ChrisLangolf/status/1381675355006730244) | advertise |
 | [ChrisNoth12@twitter](https://twitter.com/ChrisNoth12/status/1585063616222760960) | advertise |
@@ -7629,6 +7630,7 @@ Do not create new issue or we will close it as duplicate.
 | [Peter51370@twitter](https://twitter.com/Peter51370/status/1497377571960356864) | advertise |
 | [Peter34529276@twitter](https://twitter.com/Peter34529276/status/1474852867337080843) | advertise |
 | [Peter61736815@twitter](https://twitter.com/Peter61736815/status/1394440894862880774) | advertise |
+| [peterchewmy@twitter](https://twitter.com/peterchewmy/status/1597520245513588736) | advertise |
 | [peterkc@twitter](https://twitter.com/peterkc/status/1529824761953456128) | advertise |
 | [peteroudenes@twitter](https://twitter.com/peteroudenes/status/1589933292585127938) | advertise |
 | [pettiestEddie@twitter](https://twitter.com/pettiestEddie/status/1558420639651926017) | advertise |
