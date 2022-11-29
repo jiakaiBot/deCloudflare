@@ -1,3 +1,60 @@
 {
-  "addons": {}
+  "addons": {
+    "isat@addon.crimeflare.eu.org": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "91.0"
+            }
+          },
+          "version": "1.0.7.1",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/isat.xpi?20a0236da6d587ecf65ea4c1438e9fc7dcaf046d5fc9b138b2ba4cf65481be15",
+          "update_hash": "sha256:20a0236da6d587ecf65ea4c1438e9fc7dcaf046d5fc9b138b2ba4cf65481be15"
+        }
+      ]
+    },
+    "ismm@addon.crimeflare.eu.org": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "91.0"
+            }
+          },
+          "version": "1.0.26.1",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/ismm.xpi?82dbd17e268bcfb12d3bcdd84cbff2753de570530f4d1940d582dee357948c6f",
+          "update_hash": "sha256:82dbd17e268bcfb12d3bcdd84cbff2753de570530f4d1940d582dee357948c6f"
+        }
+      ]
+    },
+    "urjm@addon.crimeflare.eu.org": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "91.0"
+            }
+          },
+          "version": "1.0.6.1",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/urjm.xpi?0664ae01e3f13663db95640c55d2ed2406f82800ce276ca4eb3c3e3c501ce297",
+          "update_hash": "sha256:0664ae01e3f13663db95640c55d2ed2406f82800ce276ca4eb3c3e3c501ce297"
+        }
+      ]
+    },
+    "bcma2@addon.crimeflare.eu.org": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "91.0"
+            }
+          },
+          "version": "1.0.1.1",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/addons/releases/bcma.xpi?bf5c3cbf48d59073fbbf251d9e04b84b23d4c7b0955ed0896214ab9463ad49b6",
+          "update_hash": "sha256:bf5c3cbf48d59073fbbf251d9e04b84b23d4c7b0955ed0896214ab9463ad49b6"
+        }
+      ]
+    }
+  }
 }
