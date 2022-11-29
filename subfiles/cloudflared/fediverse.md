@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,540 |
-| social | 2,584 |
-| net | 2,391 |
+| social | 2,588 |
+| net | 2,392 |
 | org | 1,729 |
-| de | 1,557 |
+| de | 1,559 |
 
 
 - Mastodon, Pleroma, etc
@@ -2477,6 +2477,7 @@ Here's a list of public Fediverse services.
 | `bartdorsey.com` | Yes |
 | `bartels.social` | No |
 | `bartoszmilewski.com` | No |
+| `bartrip.me.uk` | Yes |
 | `bartz.team` | No |
 | `bascht.com` | No |
 | `bascht.space` | No |
@@ -3786,6 +3787,7 @@ Here's a list of public Fediverse services.
 | `buttonhost.net` | No |
 | `buttplug.zone` | No |
 | `butts.team` | No |
+| `butwithgod.cn` | No |
 | `buzhangjiuzhou.com` | Yes |
 | `buzon.uy` | No |
 | `buzz.by` | No |
@@ -7079,6 +7081,7 @@ Here's a list of public Fediverse services.
 | `droom.vision` | No |
 | `dropbear.club` | Yes |
 | `dropbear.xyz` | Yes |
+| `dropshare.social` | No |
 | `drosophila.social` | No |
 | `drostan.org` | Yes |
 | `drow.be` | No |
@@ -7564,6 +7567,7 @@ Here's a list of public Fediverse services.
 | `eleith.com` | No |
 | `elekk.xyz` | Yes |
 | `elektrine.com` | Yes |
+| `elektroluder.de` | No |
 | `elektu.be` | No |
 | `elemac.fr` | No |
 | `elementality.org` | No |
@@ -8681,6 +8685,7 @@ Here's a list of public Fediverse services.
 | `ff14-mstdn.com` | No |
 | `ff14-mstdn.net` | No |
 | `ff14-mstdn.xyz` | No |
+| `ff15.eu` | No |
 | `ffail-music.de` | No |
 | `fff-du.de` | No |
 | `fff.gay` | Yes |
@@ -9518,6 +9523,7 @@ Here's a list of public Fediverse services.
 | `functionalgeekery.com` | Yes |
 | `functionalprogramming.in` | No |
 | `functor.pro` | No |
+| `fundraising.social` | No |
 | `funfunmstdn.tokyo` | No |
 | `funigtor.fr` | No |
 | `funke-software.de` | No |
@@ -9615,6 +9621,7 @@ Here's a list of public Fediverse services.
 | `futilitycloset.com` | No |
 | `futopedia.xyz` | No |
 | `future-generation.social` | No |
+| `futurefabric.co` | Yes |
 | `futuregadgetlab.cc` | No |
 | `futuregeek.blog` | No |
 | `futurelab.social` | No |
@@ -10676,6 +10683,7 @@ Here's a list of public Fediverse services.
 | `gry.st` | No |
 | `gryffyn.io` | No |
 | `gsalucci.dev` | No |
+| `gsch.eu` | Yes |
 | `gsd.foundation` | No |
 | `gsg.live` | No |
 | `gshep.social` | No |
@@ -10757,6 +10765,7 @@ Here's a list of public Fediverse services.
 | `guyvernk.com` | No |
 | `gvcr.ca` | No |
 | `gvisoc.com` | Yes |
+| `gweep.cat` | No |
 | `gwei.cz` | Yes |
 | `gwitter.li` | No |
 | `gwomp.com` | No |
@@ -14939,6 +14948,7 @@ Here's a list of public Fediverse services.
 | `libarti.com` | No |
 | `libcore.org` | Yes |
 | `libcyb.so` | No |
+| `libella.social` | No |
 | `liber.cx` | No |
 | `libera.blue` | No |
 | `libera.site` | No |
@@ -15208,6 +15218,7 @@ Here's a list of public Fediverse services.
 | `littletheorem.com` | Yes |
 | `littleturnip.net` | Yes |
 | `littr.me` | Yes |
+| `litu.at` | No |
 | `litui.net` | No |
 | `litvin.pro` | No |
 | `litza.de` | No |
@@ -16824,6 +16835,7 @@ Here's a list of public Fediverse services.
 | `mcb.today` | No |
 | `mccallig.com` | No |
 | `mcclear.net` | Yes |
+| `mccormick.cx` | No |
 | `mcculley.social` | Yes |
 | `mcd.dk` | No |
 | `mcdade.co` | Yes |
@@ -19035,6 +19047,7 @@ Here's a list of public Fediverse services.
 | `neurodiver.ge` | No |
 | `neurohack.net` | No |
 | `neuromante.net` | No |
+| `neuromatch.social` | No |
 | `neuron.city` | No |
 | `neuropunks.org` | No |
 | `neuroscience-mastodon.com` | No |
@@ -25708,6 +25721,7 @@ Here's a list of public Fediverse services.
 | `squope.net` | No |
 | `squug.net` | No |
 | `sqwkr.eu` | No |
+| `srcr.nl` | No |
 | `srg.id.au` | Yes |
 | `srid.ca` | Yes |
 | `srijan.dev` | Yes |
@@ -26087,6 +26101,7 @@ Here's a list of public Fediverse services.
 | `stuxnet.ai` | Yes |
 | `stuxstore.com` | Yes |
 | `stvmln.com` | No |
+| `stylecheat.de` | No |
 | `styx.org` | No |
 | `su-social.de` | No |
 | `su4ka.icu` | No |
@@ -28502,6 +28517,7 @@ Here's a list of public Fediverse services.
 | `tychi.me` | No |
 | `tycho.space` | No |
 | `tyds.fans` | No |
+| `tyflopodcast.net` | Yes |
 | `tyil.nl` | No |
 | `tyk.nu` | No |
 | `tylerdavis.xyz` | No |
@@ -31326,8 +31342,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,948 |
-| Normal | 24,335 |
+| Cloudflare | 6,952 |
+| Normal | 24,347 |
 
 
 ### 22.2% of public Fediverse services are using Cloudflare.
