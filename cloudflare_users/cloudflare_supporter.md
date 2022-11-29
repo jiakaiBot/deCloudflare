@@ -4900,8 +4900,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -11283,6 +11283,7 @@ Do not create new issue or we will close it as duplicate.
 | [zScn4EFpzZCeVzx@twitter](https://twitter.com/zScn4EFpzZCeVzx/status/1383128637285683201) | advertise |
 | [zshell_zi@twitter](https://twitter.com/zshell_zi/status/1489283834311024645) | advertise |
 | [ZStravnik@twitter](https://twitter.com/ZStravnik/status/1515982927552823296) | advertise |
+| [ZtHmadt@twitter](https://twitter.com/ZtHmadt/status/1597540508779581441) | advertise |
 | [ZueffCoder@twitter](https://twitter.com/ZueffCoder/status/1456673609473314818) | advertise |
 | [ZuHlaingWin2@twitter](https://twitter.com/ZuHlaingWin2/status/1392026289674981378) | advertise |
 | [zulfadlieber@twitter](https://twitter.com/zulfadlieber/status/1404423041573027844) | advertise |
