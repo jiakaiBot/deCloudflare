@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,540 |
+| com | 4,542 |
 | social | 2,589 |
 | net | 2,393 |
 | org | 1,729 |
@@ -7614,6 +7614,7 @@ Here's a list of public Fediverse services.
 | `elkangaroo.de` | No |
 | `elkins.be` | No |
 | `elladodelmal.com` | No |
+| `ellas.online` | No |
 | `elle.garden` | No |
 | `elle.systems` | No |
 | `ellenburg.computer` | Yes |
@@ -10862,6 +10863,7 @@ Here's a list of public Fediverse services.
 | `hackertribe.io` | No |
 | `hackerzlab.net` | No |
 | `hackingand.coffee` | Yes |
+| `hackinglordsutch.co` | No |
 | `hackjob.solutions` | No |
 | `hacklab.science` | No |
 | `hackliberty.org` | No |
@@ -18084,6 +18086,7 @@ Here's a list of public Fediverse services.
 | `mstdn-bike.net` | No |
 | `mstdn-cycle.com` | No |
 | `mstdn-d.info` | No |
+| `mstdn-dystopia.com` | Yes |
 | `mstdn-east.jp` | No |
 | `mstdn-ff14.jp` | No |
 | `mstdn-football.jp` | No |
@@ -24818,6 +24821,7 @@ Here's a list of public Fediverse services.
 | `silversword.online` | No |
 | `sim.show` | Yes |
 | `simad.pro` | No |
+| `simbasocial.com` | No |
 | `simbly.me` | No |
 | `simcu.com` | No |
 | `simeckuv.cloud` | No |
@@ -31347,8 +31351,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,957 |
-| Normal | 24,347 |
+| Cloudflare | 6,958 |
+| Normal | 24,350 |
 
 
 ### 22.2% of public Fediverse services are using Cloudflare.
