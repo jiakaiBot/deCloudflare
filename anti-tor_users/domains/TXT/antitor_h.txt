@@ -655,6 +655,7 @@ abt.hh.ru
 academiwales.hwbdev.wales
 account.huijiusheng.com
 account.huizhuangji.com
+accounts.google.com.eu.hascoin.io
 acente.hemenbilet.com
 adfs.hhwld.nl
 adfs.hubinternational.com
@@ -680,6 +681,7 @@ api.hicapitalize.com
 api.hoaresbank.co.uk
 api.hyperlex.fr
 api.secure.hsbcnet.com
+app.h-update.com
 app.hntbridge.io
 app.hubconnect.com.au
 appapi.hipay.mn
@@ -709,6 +711,7 @@ caddy.caddytest.heylogin.dev
 campus.hertie-school.org
 captcha.hakros.com
 captcha8.envira.sap-komodo.c.host2host.id
+carouselling-sellect.herokuapp.com
 channel.happyeasygo.com
 chylous-bwr.herokuapp.com
 cicilline.house.gov
@@ -721,6 +724,7 @@ cmb-dsp.uk.secure.hsbcnet.com
 com.auhtoutlook.heavymetalmerchant.com
 com.auhtwww.outlook.heavymetalmerchant.com
 connect-api.cloud.huawei.com
+consequent-sacajawea.herokuapp.com
 consumer.huawei.com
 covid.hollowmen.ro
 covid19.himchistka-dom.ru
@@ -742,6 +746,7 @@ dev-cms.hankyu-hotel.com
 dev.horeca-service.com
 dev2.etc.hataluck.jp
 dex.cct-b3.users.h-da.cloud
+digitalisierung.hdm-stuttgart.de
 directaccess.happythinkingpeople.com
 direwolf-7bb9857ae1.staging.herokuappdev.com
 discourse.staging.hmt-leipzig.de
@@ -753,6 +758,7 @@ dvza-o.login.healthexchange.nl
 dvza-preprod.healthexchange.nl
 edi.haberkorn.com
 edocshm.hmco.com.sa
+eerie-stopes.herokuapp.com
 email.hdmg.net
 embed.hydronet.com
 ephinnsyn.helsenord.no
@@ -793,6 +799,7 @@ gitlab.gitlab.git.gitlab.gitlab.invoice.hepsibahs16.com
 gitlab.gitlab.gitlab.vmail.hochulazat.ru
 gitlab.manager.hot-pelmen.ru
 google-webfonts-helper.herokuapp.com
+gradial.hochschulstart.de
 gruasenqueretaro.www.blog.shop.outlook.homereviewonline.com
 guestmcv-pre.huolala.cn
 ha-tecnicoscali.online
@@ -802,6 +809,7 @@ hackerfactor.com
 hackerverse.tv
 hackmd.io
 hackseller.com
+hadronsolar.pk
 hafjell-bilservice.no
 haghiri75.com
 hah-api-prod.hah.co.uk
@@ -812,6 +820,7 @@ hakko.uy
 hallbergsbyggservice.se
 hallopasar.hallodelivery.com
 haloruns.com
+halosultra.com
 hamara.hamarabookbank.com
 hamburg-htee.com
 hamissupport.hasnamedika.com
@@ -856,6 +865,7 @@ hcsgolftournament.com
 hcwaterbeheersing.nl
 hdfooty.xyz
 hdjke.dk
+hdpeurope.eu
 hdtekniksby.com
 hdyno.fi
 health-on.online
@@ -884,6 +894,7 @@ helpdesk-bg.com
 helpdesk.hayden-homes.com
 helpdesksrl.ro
 helplovesupport.com
+helpmyamazon.com
 helpsecure.ga
 helpsecure.gq
 helpsecure.tk
@@ -900,10 +911,12 @@ herald-review.com
 heraldcourier.com
 herbalap.com
 herbs.org.nz
+herdadedoscordeiros.pt
 heritageparty.org
 hermindajaramillo.cl
 herminioig.com
 hero-finance.com
+herosit.com
 hetutrechtsarchief.nl
 heyjackass.com
 hfm-wuerzburg.de
@@ -917,6 +930,8 @@ high-dimension.com
 highstudio.pt
 hiilivelka.fi
 hikemedieval.click
+hillsidebuilders.in
+himalayakarya.com
 hipotecario-home.com
 hiq-service.gr
 hiredworker.com
@@ -933,6 +948,7 @@ hiwwelwoi.shop
 hjmergner.de
 hmc-tun.hmc.de
 hmeaworld.com
+hmmm.com
 hnldoc.ehawaii.gov
 hoeverdienjegeld.com
 hoianetterem.hu
@@ -963,6 +979,7 @@ hostdadda.com
 hostingblade.com
 hostthetoast.com
 hotelchuruvilla.in
+hoteljorgechavez.com
 hotelmohitpalace.com
 hotels-in-venice.info
 hotmailsigninlogin.com
@@ -995,6 +1012,7 @@ hundeshop-aschau.de
 hunterdesign.pl
 huntergreyxox.com
 hunterhaircollection.com
+huntermedia-lp.ru
 hunterphotos.co.uk
 huntersandison.com
 huntershill.ca
@@ -1010,6 +1028,7 @@ hwxcbd.com
 hydal.com
 hydroblok.cl
 hypersports.com.br
+hypotheekcalculaties.nl
 hytteogeiendomservice.no
 hyundai.mg
 iccm.hanabank.com
@@ -1030,6 +1049,7 @@ kielista.hcommons.org
 klanten.highticketklanten.nl
 klantportaal.hypotheek-aanvragen.nl
 klantportaal.hypotheekprof.com
+kotchi-prod.herokuapp.com
 kravmaga.heroo.nl
 learn.houdini.school
 lgbtq.house.gov
@@ -1041,6 +1061,7 @@ m-dev.hongkongpost.hk
 mail.hofpfisterei.de
 mail.hovint.am
 mail2.home-connect.com
+marbodalkbasecure.herokuapp.com
 mastodon.holeyfox.co
 members.healthadvocate.com
 metsaham.cloud10.hostingpalvelu.fi
@@ -1049,6 +1070,7 @@ mhadmin-test.hyundai.co.in
 mobilesbc.hocplc.com
 mu.hebi3.work
 musicscapes.herokuapp.com
+naturalresources.house.gov
 net.hachi.co
 new-staging.healthsharevic.org.au
 nextcloud.hms.org
@@ -1071,6 +1093,7 @@ paypalconnectproxy.handyapp.io
 pentest.hrmpensionplan.ca
 phaunkauj.hmongsally.com
 pientalo.cloud10.hostingpalvelu.fi
+pophealth.healtheconnections.org
 portal.hartevelt.net
 president.mla.hcommons.org
 preview.howtoverify.info
@@ -1091,6 +1114,7 @@ rs-stripe.remodeling.hw.net
 rsa.hopestudio.org
 rules.house.gov
 rv3ahzua65ydun8.www.o.outlook.homereviewonline.com
+saasler-salesforce-impact.herokuapp.com
 satogolesehub-oftechnologymant.herokuapp.com
 sba.hrcms.co.kr
 sbawc.hrcms.co.kr
@@ -1099,6 +1123,7 @@ secure-mountain-22101.herokuapp.com
 secure.humairaidrees.com
 security.recreation.hol.es
 seguridad.habbo-nft.es
+sekolah.hostingwebid.com
 serieas.hiwaymedia.it
 sfaservicedev.havells.com
 siggwma.hainaut.be
@@ -1164,6 +1189,7 @@ www.ascentitservice.in.hypenitsolution.com
 www.bill.hmeaworld.com
 www.businessonline.hamtinqton.com
 www.businessonline.hamtlnqton.com
+www.cardapios.hauerdelivery.site
 www.client.homesweetgh.com
 www.client.hostbare.com
 www.cliente852.hagg.com.br
@@ -1192,12 +1218,15 @@ www.happyestudio.com
 www.harbourdev.com
 www.hargroveinc.com
 www.harmonycentral.com
+www.harpersbazaararabia.com
 www.harvardneuroblog.com
 www.hasanmalay.com
 www.hastac.org
 www.hastingsbattleaxe.com
 www.hastingstribune.com
+www.hawaiicounty.gov
 www.hawkinssupport.com
+www.hayneedle.com
 www.hcf.com.au
 www.hcsgolftournament.com
 www.hdyno.fi
@@ -1205,6 +1234,7 @@ www.healsecurity.org
 www.health.gov.au
 www.health.gov.sc
 www.healtheuropa.com
+www.healthycleanandsafe.com
 www.hearingsolutions.ie
 www.heartsonfiber.com
 www.heatcontrol.cl
@@ -1216,10 +1246,12 @@ www.hellobank.be
 www.helloprotrue.com
 www.helpdesksrl.ro
 www.helpservice.pro
+www.herdadedoscordeiros.pt
 www.heroesfilmfest.com
 www.hfc.com.fj
 www.hg-immoservice.com
 www.hhsoluciones.com.mx
+www.hickorypointbank.com
 www.hidive.com
 www.hidroconta.com
 www.hifiservice.ro
@@ -1280,6 +1312,7 @@ www.hunterandcollector.com
 www.hunterandlaine.com
 www.hunterbeebe15.com
 www.hunterbragg.art
+www.hunterhainescoaching.com
 www.hunterhandmadeco.com
 www.hunterheatingcooling.com
 www.hunterlodge.co.uk
@@ -1305,6 +1338,7 @@ www.kredittoyota.hyundai-cikarang.com
 www.login.helpbhutan.com
 www.login.portal.bancochile.web.hadamarina.com
 www.lumen-lights.heldensupport.com
+www.novo.hauerdelivery.site
 www.online-banking.business.hsbc.com.hk
 www.online.hack2secure.com
 www.patient-feedback.healthqindia.com
@@ -1319,6 +1353,7 @@ www.secure.hsbcholdingsbk.com
 www.secure.humairaidrees.com
 www.securitystore.helilar.xyz
 www.service.helioswelds.com
+www.servicereview.hmathir.com
 www.staff.hs-mittweida.de
 www.statecontinentalbank.hhsonlines.com
 www.training.hack2secure.com
