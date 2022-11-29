@@ -21,6 +21,7 @@ Here's a list of public Matrix services.
 
 | Service | Cloudflared |
 | --- | --- |
+| 0wnz.at | No |
 | agdersam.no | No |
 | riot.allmende.io | No |
 | alternanet.fr | No |
@@ -30,7 +31,6 @@ Here's a list of public Matrix services.
 | asra.gr | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
-| bancino.net | No |
 | breeze.town | No |
 | buyvm.chat | No |
 | matrix.bytes4u.de | No |
