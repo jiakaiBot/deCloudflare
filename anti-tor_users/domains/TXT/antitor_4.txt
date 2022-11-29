@@ -23,6 +23,7 @@ billing.4medica.net
 cloud.4x9.de
 crm.4slovo.ru
 fep-ext.4ts.it
+fortechexternalapi.4ts.it
 resolve-3hre.4dq.com
 www.delivery.4midia.com.br
 www.spital.4websecurity.com
