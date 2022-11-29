@@ -23806,6 +23806,7 @@ Here's a list of public Fediverse services.
 | `saltwatercity.org` | No |
 | `saltybrackets.com` | No |
 | `salundo.com` | Yes |
+| `salushnes.solutions` | No |
 | `samadam.au` | No |
 | `samathy.space` | No |
 | `samdavies.me` | No |
@@ -28146,6 +28147,7 @@ Here's a list of public Fediverse services.
 | `trisweb.com` | No |
 | `trivia.to` | No |
 | `trivia.town` | No |
+| `trivial.business` | Yes |
 | `trizz.io` | Yes |
 | `trm.md` | Yes |
 | `trn.ac` | No |
@@ -31322,8 +31324,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,946 |
-| Normal | 24,333 |
+| Cloudflare | 6,947 |
+| Normal | 24,334 |
 
 
 ### 22.2% of public Fediverse services are using Cloudflare.
