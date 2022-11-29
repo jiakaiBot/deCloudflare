@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error while loading in Cloudflare Workers](https://github.com/mailjet/mailjet-apiv3-nodejs/issues/230)
 - [Right way to use this tool?](https://github.com/elceef/subzuf/issues/1)
 - [Communication with the API failed, is NPM running correctly?](https://github.com/ej52/proxmox-scripts/issues/102)
 - [stat.ink API Error "Rank After Exp must be no less than 0."](https://github.com/spacemeowx2/s3si.ts/issues/36)
