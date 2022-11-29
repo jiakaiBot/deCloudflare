@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,540 |
-| social | 2,588 |
-| net | 2,392 |
+| social | 2,589 |
+| net | 2,393 |
 | org | 1,729 |
 | de | 1,559 |
 
@@ -13115,6 +13115,7 @@ Here's a list of public Fediverse services.
 | `johndoe.gq` | Yes |
 | `johnholdun.com` | No |
 | `johnn.ie` | No |
+| `johnnybegood.fr` | Yes |
 | `johnnywebber.com` | No |
 | `johnruth.me` | No |
 | `johns-blog.de` | Yes |
@@ -30381,6 +30382,7 @@ Here's a list of public Fediverse services.
 | `x91.de` | Yes |
 | `xa0.uk` | Yes |
 | `xabid.com` | No |
+| `xaetacore.net` | No |
 | `xajh.org` | No |
 | `xaloc.space` | No |
 | `xalthe.com` | Yes |
@@ -30671,6 +30673,7 @@ Here's a list of public Fediverse services.
 | `xyu.social` | Yes |
 | `xyzyx.org` | No |
 | `xyzzy.link` | No |
+| `xyzzy.social` | Yes |
 | `xz.vc` | No |
 | `xz0.org` | Yes |
 | `xzqt.xyz` | Yes |
@@ -31343,8 +31346,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,954 |
-| Normal | 24,346 |
+| Cloudflare | 6,956 |
+| Normal | 24,347 |
 
 
 ### 22.2% of public Fediverse services are using Cloudflare.
