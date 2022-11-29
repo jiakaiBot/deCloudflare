@@ -783,6 +783,7 @@ Do not create new issue or we will close it as duplicate.
 | [AriaHarunae@twitter](https://twitter.com/AriaHarunae/status/1405169247542730752) | advertise |
 | [arianaholguin18@twitter](https://twitter.com/arianaholguin18/status/1528748861610680322) | advertise |
 | [aribkhan2016@twitter](https://twitter.com/aribkhan2016/status/1389475209992835075) | advertise |
+| [arielgrace17@twitter](https://twitter.com/arielgrace17/status/1597550052884762626) | advertise |
 | [AriesGreenApple@twitter](https://twitter.com/AriesGreenApple/status/1487078687598014470) | advertise |
 | [Arieshtut213@twitter](https://twitter.com/Arieshtut213/status/1402336618921578504) | advertise |
 | [ariess1265@twitter](https://twitter.com/ariess1265/status/1549318704646979584) | advertise |
@@ -10555,6 +10556,7 @@ Do not create new issue or we will close it as duplicate.
 | [wael_shamsedin@twitter](https://twitter.com/wael_shamsedin/status/1522288287284711427) | advertise |
 | [Waffle2175@twitter](https://twitter.com/Waffle2175/status/1535801167816577024) | advertise |
 | [wahib0206@twitter](https://twitter.com/wahib0206/status/1522471146721099778) | advertise |
+| [Wahid765306612@twitter](https://twitter.com/Wahid765306612/status/1597558028467064833) | advertise |
 | [wahide09476385@twitter](https://twitter.com/wahide09476385/status/1578259810029830147) | advertise |
 | [WahidKh61073340@twitter](https://twitter.com/WahidKh61073340/status/1483196682267463682) | advertise |
 | [WahWahKhaing18@twitter](https://twitter.com/WahWahKhaing18/status/1390549494274551814) | advertise |
