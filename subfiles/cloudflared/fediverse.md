@@ -9707,7 +9707,7 @@ Here's a list of public Fediverse services.
 | `gabwith.me` | No |
 | `gabytron.me` | No |
 | `gac.edu` | No |
-| `gadgetboy.org` | No |
+| `gadgetboy.org` | Yes |
 | `gadgeteer.co.za` | Yes |
 | `gadsen.net` | No |
 | `gaeilge.social` | No |
@@ -12424,6 +12424,7 @@ Here's a list of public Fediverse services.
 | `introvert.social` | Yes |
 | `introverts.social` | No |
 | `intspec.ru` | Yes |
+| `inu.is` | No |
 | `inubo.ch` | No |
 | `inuh.net` | No |
 | `inumbra.xyz` | No |
@@ -15115,7 +15116,7 @@ Here's a list of public Fediverse services.
 | `linfiel.com` | Yes |
 | `lingo.lol` | No |
 | `lingodies.com` | No |
-| `lingsite.org` | No |
+| `lingsite.org` | Yes |
 | `lingtheme.com` | No |
 | `linguisten.info` | No |
 | `linguistik.ml` | No |
@@ -31342,8 +31343,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,952 |
-| Normal | 24,347 |
+| Cloudflare | 6,954 |
+| Normal | 24,346 |
 
 
 ### 22.2% of public Fediverse services are using Cloudflare.
