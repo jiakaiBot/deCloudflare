@@ -695,6 +695,7 @@ apps.vw.co.za
 apps.vwgroup.co.za
 areadocliente.verbio.com.br
 argocd-ontw.aks.containers.vernieuwingsdomein.nl
+auth.connect-dev.volteras.com
 auth.varadise.cloud
 auth.vistahub.io
 auth.vmia.vic.gov.au
@@ -760,10 +761,12 @@ e1prod2-web1.prod.vitalconnect.com
 ekycbidvsthgw.vnpaytest.vn
 en.vaccines-facts.info
 enrsvc-mib2high.qs.vwg-connect.com
+eunterschrift.vgh.de
 external.pm.virginmedia.ie
 facebookaccountsecurity.vizvaz.com
 fad.vsp.com
 farmanortedelivery.virtual-tec.xyz
+find.verified-signed.com
 fleet.vw.co.za
 forums.virtualbox.org
 forums.virtualbox.org.ru
@@ -796,10 +799,12 @@ helpdesk.vimeva.nl
 hijosdeperraesgmail.vercel.app
 hougang1.ddns.vhftech.app
 hp-i.vhfdental.com
+hunter-cow-1.vercel.app
 hunter-spyder.vercel.app
 hunterghancock.vercel.app
 hunterloftis.vercel.app
 hunterred50.vercel.app
+icepersonaltrain.v3client.com
 idp.comid.fma-4153d385.core.build.vwn.cloud
 iforgot-apple.verifylocation.live
 imail.www.wiki.dev.vrouwenhebbenookhaar.nl
@@ -813,6 +818,7 @@ ldcz.vercel.app
 links.e.vivinomail.com
 lite.virtusize.jp
 live.valvin.fr
+login.microsoftonline.vxi.network
 login.test.prod.vgn.de
 login.vodafone.pt
 login.vodafonemail.de
@@ -848,6 +854,7 @@ packman.vertigo-systems-support.de
 payments.vantivprelive.com
 pds.volkswagen.de
 pf.vercel.app
+portal.venusshare.com
 pos.vouchagram.com
 producedatahubservices.volvo.com
 ps-automation-update-preview.virtual-spaces.de
@@ -914,7 +921,9 @@ vakifbank-hizlikredi.tk
 vakrangeedevelopers.com
 valdemarhoiris.dk
 valorasecurity.cl
+value-ambition.my.id
 vanadzorpost.com
+vanbodegompost.nl
 vandoornsupport.nl
 vanillinframe.com
 vankids.co.kr
@@ -922,6 +931,7 @@ vardochhalsa.vgregion.se
 varietal-literature.ca
 variety-kfc.com.ru
 vaveylamodam.com
+vaytiensieutoc.vn
 vbwebsol.com
 vdx.hu
 ve3oat.ca
@@ -956,6 +966,7 @@ verifyit.se
 verifyrogers.com
 verifysuccessful.com
 verifytodaynow.com
+verite-covid19.com
 vermontbiz.com
 vermontelectricalservice.com
 veronicabadea.com
@@ -965,8 +976,10 @@ verschickungskind.de
 verysecretdomainkek.de
 veszpremvaros.hu
 vetcov19.se
+vgelbval.valgenesis.net
 via.vmw.com
 viacbs.ru
+viajeros30.com
 vialsafe.co
 viaplay.com
 viaplay.dk
@@ -974,9 +987,11 @@ viaplay.se
 victoriahistoricalsociety.bc.ca
 victorpetfood.com
 victoryautomotiveservice.com
+vid.us
 vidaelite.com.br
 videoapi-muybridge.vimeocdn.com
 videocondoortodoorservicekittanahalli.xyz
+videogameperfection.com
 videotech.lv
 vidracariaroma.com.br
 viergeverclan.nl
@@ -997,6 +1012,7 @@ vincenrosale.bond
 vincentbreton.fr
 vincentgaragedoorrepairservice.us
 vincenzopresutto.it
+vindpunt.nl
 vinklubben-billund.dk
 vintagegroup.vintagepremiumgift.com
 vintagenewsdaily.com
@@ -1032,8 +1048,10 @@ vodafone-telekom-shop-vechta.de
 vodafonebillpay.net
 vodiscord.vercel.app
 voices.media
+voicesinmovement.org
 voicesofvr.com
 voidacoustics.ro
+voladitos.com
 volcano-services.net
 voltafa.org
 voltedu.com
@@ -1043,6 +1061,7 @@ voutu.be
 voxticket.vox-power.com
 voyage-quantique.fr
 voyagebaltimore.com
+voyageraleigh.com
 voyagestransat.com
 voyageutah.com
 vplus-afterhours.virtusa.com
@@ -1059,6 +1078,7 @@ vuprom.com
 vuroblox.site
 vvwwcajapiura.pe
 vvwwvvcajapiura.com
+vwhomecharger.com
 vwwcajapiura.pe
 vwwwvcajapiura.com
 web.b-2.vivid-proxy.com
@@ -1095,6 +1115,7 @@ www.cookies.viccompuser.com
 www.dh-delivery.co.il.violetwebs.co.il
 www.excelconnectconsulting.vibhuhari.net
 www.ferrdelivery.virtualtecserver.com
+www.find.verified-signed.com
 www.git.alert.vestitula.ru
 www.git.git.alert.vestitula.ru
 www.git.git.git.alert.vestitula.ru
@@ -1135,7 +1156,9 @@ www.vcyamerica.org
 www.vdb-online.org
 www.vdi.de
 www.vecibank.com
+www.vectrabank.com
 www.velobuc.velovgp.org
+www.velocityofficefurniture.com
 www.venture-west.co.uk
 www.verboon.info
 www.vergingoaescorts.com
@@ -1147,6 +1170,7 @@ www.verifychannel.online
 www.verkinly.com
 www.verstand.ai
 www.verstegenstigter.nl
+www.versuslehti.fi
 www.verywellfamily.com
 www.verywellfit.com
 www.veteransbank.com.ph
