@@ -138,6 +138,7 @@ accounts.youtube.com
 aepsrupayuat.yesbank.in
 alacon-nex-ion.go.yj.fr
 api.tietopalvelu.ytj.fi
+api.yourgeno.me
 app.yuantalife.com.tw
 applycc.yesbank.in
 approach.yahoo.co.jp
@@ -168,6 +169,8 @@ er-ext-api.yesbank.in
 git.git.amazon.yadgetmetaverse.ru
 git.git.covid19.youhollywood.com
 git.git.git.git.goffice365.yalecarolinas.com
+git.gitlab.git.git.owa.yuliiachernobai.club
+git.gitlab.git.gitlab.git.git.owa.yuliiachernobai.club
 git.gitlab.smail.yugprom.com
 git.smail.yugprom.com
 gitlab.git.amazon.yadgetmetaverse.ru
@@ -223,6 +226,7 @@ www.d4vipl4tausuario.chile.go.yo.fr
 www.davip4atatencionclient3.redirext.go.yj.fr
 www.fittin-service.ymdg.info
 www.gouvernement-borderlife.go.yj.fr
+www.login.ybiaumroh.com
 www.post.yefi.site
 www.service09.yalar.se
 www.support.yoshope.com
@@ -233,6 +237,7 @@ www.ybaautoservice.ro
 www.yego.cool
 www.yelp.co.nz
 www.yesinwpg.com
+www.ymbawards.co.uk
 www.ymmarrys.org
 www.ymparistoahdistus.fi
 www.yoshitoku.co.jp
