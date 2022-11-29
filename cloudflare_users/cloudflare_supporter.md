@@ -865,6 +865,7 @@ Do not create new issue or we will close it as duplicate.
 | [ashduino101@twitter](https://twitter.com/ashduino101/status/1540432638212808704) | advertise |
 | [Ashfaqlmtiaz@twitter](https://twitter.com/Ashfaqlmtiaz/status/1407297205174620164) | advertise |
 | [AshinNyannar@twitter](https://twitter.com/AshinNyannar/status/1395194731294957568) | advertise |
+| [Ashley30511045@twitter](https://twitter.com/Ashley30511045/status/1597618848001581056) | advertise |
 | [AshokMA9@twitter](https://twitter.com/AshokMA9/status/1483742175225602051) | advertise |
 | [Ashqqqqq12@twitter](https://twitter.com/Ashqqqqq12/status/1578339268510257152) | advertise |
 | [ashutoshsinghac@twitter](https://twitter.com/ashutoshsinghac/status/1397847733793218560) | advertise |
@@ -2261,6 +2262,7 @@ Do not create new issue or we will close it as duplicate.
 | [DevSub2@twitter](https://twitter.com/DevSub2/status/1551589055124893696) | advertise |
 | [dev_Songkran@twitter](https://twitter.com/dev_Songkran/status/1501017169001615361) | advertise |
 | [DewaGilang@twitter](https://twitter.com/DewaGilang/status/1549446977838284800) | advertise |
+| [dewawidhi13@twitter](https://twitter.com/dewawidhi13/status/1597633098987892736) | advertise |
 | [dEWB11mxf4oTZkZ@twitter](https://twitter.com/dEWB11mxf4oTZkZ/status/1540327273143959552) | advertise |
 | [DewminiSenarath@twitter](https://twitter.com/DewminiSenarath/status/1514969565360693248) | advertise |
 | [DexterIRAN@twitter](https://twitter.com/DexterIRAN/status/1511339883062824967) | advertise |
@@ -2989,6 +2991,7 @@ Do not create new issue or we will close it as duplicate.
 | [gasbrbn@twitter](https://twitter.com/gasbrbn/status/1555948590492635137) | advertise |
 | [gatito9420@twitter](https://twitter.com/gatito9420/status/1573395463965143041) | advertise |
 | [gatoflood@twitter](https://twitter.com/gatoflood/status/1577675897657856000) | advertise |
+| [gaung3579@twitter](https://twitter.com/gaung3579/status/1597640312460935170) | advertise |
 | [Gaurav33875221@twitter](https://twitter.com/Gaurav33875221/status/1387072373430521865) | advertise |
 | [gaurav52977211@twitter](https://twitter.com/gaurav52977211/status/1504490723571347457) | advertise |
 | [Gaurav___P@twitter](https://twitter.com/Gaurav___P/status/1389646942062321666) | advertise |
@@ -4848,6 +4851,7 @@ Do not create new issue or we will close it as duplicate.
 | [khungngeelay@twitter](https://twitter.com/khungngeelay/status/1398647336574676994) | advertise |
 | [KhunHlaOo1@twitter](https://twitter.com/KhunHlaOo1/status/1397206479829090317) | advertise |
 | [KhunKyawHla1@twitter](https://twitter.com/KhunKyawHla1/status/1391578842930630658) | advertise |
+| [khunkyawsoe@twitter](https://twitter.com/khunkyawsoe/status/1597636835760812032) | advertise |
 | [Khunn52736864@twitter](https://twitter.com/Khunn52736864/status/1390884487416872960) | advertise |
 | [Khunnaingbhone1@twitter](https://twitter.com/Khunnaingbhone1/status/1473491007987601408) | advertise |
 | [KhunPeter6@twitter](https://twitter.com/KhunPeter6/status/1395788095799259142) | advertise |
@@ -9239,6 +9243,7 @@ Do not create new issue or we will close it as duplicate.
 | [SuJan_khadka21@twitter](https://twitter.com/SuJan_khadka21/status/1385811411306106880) | advertise |
 | [sujitch_sujit@twitter](https://twitter.com/sujitch_sujit/status/1497176955342319618) | advertise |
 | [sukangpower@twitter](https://twitter.com/sukangpower/status/1402945994585624584) | advertise |
+| [Sukhvee75899366@twitter](https://twitter.com/Sukhvee75899366/status/1597623199516295174) | advertise |
 | [Sukhvin17157135@twitter](https://twitter.com/Sukhvin17157135/status/1395434784567009280) | advertise |
 | [sukinakoto11111@twitter](https://twitter.com/sukinakoto11111/status/1489936094372122626) | advertise |
 | [sukyfundz@twitter](https://twitter.com/sukyfundz/status/1553367536862896130) | advertise |
@@ -11050,6 +11055,7 @@ Do not create new issue or we will close it as duplicate.
 | [YourDad50670613@twitter](https://twitter.com/YourDad50670613/status/1404477486487019527) | advertise |
 | [yourkshitij@twitter](https://twitter.com/yourkshitij/status/1564977033435705344) | advertise |
 | [yourname1145@twitter](https://twitter.com/yourname1145/status/1485279023383334919) | advertise |
+| [YourNig17731853@twitter](https://twitter.com/YourNig17731853/status/1597643695331106816) | advertise |
 | [YoutubeWaxy@twitter](https://twitter.com/YoutubeWaxy/status/1566999085403578368) | advertise |
 | [YouWereTaken_@twitter](https://twitter.com/YouWereTaken_/status/1386969545756213254) | advertise |
 | [yowisayik@twitter](https://twitter.com/yowisayik/status/1396547687055384577) | advertise |
