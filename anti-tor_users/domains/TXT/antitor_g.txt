@@ -857,6 +857,7 @@ adfs.glpg.com
 adfs.grupawp.pl
 admin.grsportal.com
 adraffy.github.io
+afcu0nline-s1l.glitch.me
 ajaykumarlakku.github.io
 aladdin.genieesspv.jp
 alexandercampion321.github.io
@@ -867,11 +868,13 @@ amazonett.com.godblazer.com
 amihabibkhan.github.io
 android.googleapis.com
 aovpn.geigerautomotive.com
+api-showcase.govteams.gov.au
 api.dev.gspostbox.com
 api.gerentesdigitais.com
 api.gini.net
 api.gkey.se
 api.global66.com
+api.grc.org
 api.gymsync.co.uk
 api.profisee-dev.globalpay.com
 api.profisee.globalpay.com
@@ -933,6 +936,7 @@ clients6.google.com
 clients6.google.com.au
 cloud-speech-wc.googleapis.com
 cloud.gdexpress.cl
+cloud.gunthermerz.de
 cloudresourcemanager.googleapis.com
 commondatastorage.googleapis.com
 composer.cloud.google.com
@@ -967,6 +971,7 @@ davitandzavelidze.github.io
 dbrekalo.github.io
 dcgyuhjdtyjuuj.storage.googleapis.com
 delirious-zinc-slice.glitch.me
+delivery-api-stg.getcruise.com
 dev1.google-shopping.club
 discord.grimoirehearts.com
 disneycruise.disney.go.com
@@ -988,6 +993,7 @@ doc-0k-b8-docs.googleusercontent.com
 doc-0k-bc-docs.googleusercontent.com
 doc-0o-9s-docs.googleusercontent.com
 doc-0s-20-docs.googleusercontent.com
+doc-0s-3c-docs.googleusercontent.com
 doc-0s-44-docs.googleusercontent.com
 doc-0s-50-docs.googleusercontent.com
 doc-0s-5c-docs.googleusercontent.com
@@ -999,6 +1005,7 @@ doc-14-6g-docs.googleusercontent.com
 doc-14-8k-docs.googleusercontent.com
 doc-14-90-docs.googleusercontent.com
 download-logiciels.gecko-developpement.fr
+dr-exercise-appdb-1.bms.uk3.generocloud.net
 dsonline.group-digital.fr
 e2c11.gcp.gvt2.com
 e2c15.gcp.gvt2.com
@@ -1012,6 +1019,7 @@ earth.app.goo.gl
 ecoracing.green-nitrogen.com
 edivilhian-h.github.io
 edynoticias.com.br.gruponewsbrasil.com.br
+ei-dev.np-mims.globalpay.com
 elearning.gambiathi.com
 email.google-shopping.club
 employee.gbksoft.space
@@ -1033,6 +1041,7 @@ firebasecrashlyticssymbols.googleapis.com
 fish-workable-meadowlark.glitch.me
 fiveholes.goip.de
 fonocon.update.forster.gugler.at
+fortune-fork-iguanacolossus.glitch.me
 forums.getpaint.net
 fovip.gtpl.net
 frontendeveloperanass.github.io
@@ -1046,8 +1055,10 @@ gairsainupdate.com
 galadi.net
 galapagos.pro
 galaxiessf.com
+galleriaymrm-ymrmenterprise.com
 gallowaychillies.co.uk
 gambiaembassydc.us
+gambling-casinos-guide.com
 gamedevpodcast.de
 gamesupport.in
 gandalfsecure.com
@@ -1065,6 +1076,7 @@ garyrmartin.ca
 gasco-services.co.uk
 gasthaus-altepost.ro
 gate-client.com
+gate15.global
 gautam1804.github.io
 gauue.com
 gayporntwitter.best
@@ -1104,6 +1116,7 @@ getlawsinfo.ru
 geto.space
 getsmartwithyourmoney.com
 gewerkschaftliche-linke-berlin.de
+ggden.com
 ghanlaegsservice.dk
 gharbazaar.pk
 ghcr.io
@@ -1111,6 +1124,7 @@ ghevailuoi.com
 ghislain-chasme.net
 ghsmac05.geisinger.edu
 ghv.no
+giaiphapbank.com
 giang.pro
 giantanimation.ie
 gidashop.com.vn
@@ -1129,13 +1143,18 @@ git.git.git.git.git.git.seo.google-shopping.club
 git.git.git.git.git.postur.yandex.gabdrahmanova.ru
 git.git.git.git.git.rest.google-shopping.club
 git.git.git.git.git.sistema.googlelogist.com
+git.git.git.git.git.sitemap.googlemeets.info
 git.git.git.git.git.store.google-shopping.club
 git.git.git.gitlab.git.git.vmail.generation.fund
 git.git.git.promail.yandex.gabdrahmanova.ru
 git.git.gitlab.covid19.gakalmedical.com
+git.git.gitlab.git.git.vmail.guru.net.nz
 git.gitlab.git.correo.yandex.gabdrahmanova.ru
 git.gitlab.gitlab.git.git.projects.gsheet.tech
+git.gitlab.gitlab.gitlab.git.git.sitemap.googlemeets.info
+git.gitlab.gitlab.gitlab.sitemap.googlemeets.info
 git.gitlab.zmail.governmentprocessroot.online
+git.gregamato.dev
 git.guillemborrell.es
 git.hashicorp.cloudg.magento.clud.gpinfo.eu
 git.mailmetnet.yandex.gabdrahmanova.ru
@@ -1144,12 +1163,16 @@ git.zimbra1.yandex.gabdrahmanova.ru
 gitlab.courrier.yandex.gabdrahmanova.ru
 gitlab.git.correo.yandex.gabdrahmanova.ru
 gitlab.git.courrier.yandex.gabdrahmanova.ru
+gitlab.git.git.git.git.sitemap.googlemeets.info
+gitlab.git.git.gitlab.git.sitemap.googlemeets.info
 gitlab.git.gitlab.courrier.yandex.gabdrahmanova.ru
+gitlab.git.gitlab.git.sitemap.googlemeets.info
 gitlab.git.gitlab.zimbra1.yandex.gabdrahmanova.ru
 gitlab.git.net.utiwww.sniper.getthefactshomeinspection.com
 gitlab.gitlab.correo.yandex.gabdrahmanova.ru
 gitlab.gitlab.courrier.yandex.gabdrahmanova.ru
 gitlab.gitlab.gitlab.caixapostal.yandex.gabdrahmanova.ru
+gitlab.gitlab.gitlab.git.git.sitemap.googlemeets.info
 gitlab.gitlab.gitlab.mailmetnet.yandex.gabdrahmanova.ru
 gitlab.gitlab.gitlab.owa.yandex.gabdrahmanova.ru
 gitlab.gitlab.mailmetnet.yandex.gabdrahmanova.ru
@@ -1199,8 +1222,11 @@ goodncheap.net
 goofertas.com
 googleadservices.com
 googleapis.com
+googlemeetsapple.com
 googlemybuisness.info
 googleupdate.us
+goon.se
+goonlinebiznes.pro
 gospelthemes.com
 gosuslugi-covid19.ga
 gotelservice.xyz
@@ -1234,9 +1260,11 @@ greenpete.co.uk
 greensboro.com
 greenthai.hu
 greenworld.org.uk
+greenworldwidedelivery.com
 gregorycolbert.com
 gregstolze.com
 grieve-smith.com
+griffithsart.ca
 grizzlytecpro.dz
 groenboerenplan.nl
 groenedromen.nl
@@ -1358,6 +1386,7 @@ optseci.glitch.me
 orderportal.glaspoort.nl
 osmmacfides.github.io
 oso3211.github.io
+pagopa-gw.apps.prod.cloud.giustizia-amministrativa.it
 paket-dua.grahasta.id
 paket-tiga.grahasta.id
 parley-update.gamliel.mx
@@ -1402,6 +1431,9 @@ rijeshsap53.github.io
 riyad3453.github.io
 ro.update.forster.gugler.at
 roblux.gensets.xyz
+rr3---sn-p5qs7nzk.googlevideo.com
+rr4---sn-qxo7rn7y.googlevideo.com
+rseval.eosc.grnet.gr
 rushikeshs001.github.io
 s-paramguvende.guvenleodemeyontemi.com
 safe-future.gnssweb.co.il
@@ -1496,7 +1528,9 @@ vishnupms.github.io
 vm5.googlev.top
 vmail.gyongyhalaszkonyveles.hu
 vpn.ggdhn.nl
+vpn.groupeadsn.fr
 wadiebenabdouh.github.io
+webdisk.gabrielmulford.com
 webdisk.gapplesaucemotorsports.com
 webdisk.gmail-eg.com
 webdisk.gmailaccount.support
@@ -1597,6 +1631,7 @@ www.ghamasaana.com
 www.ghanlaegsservice.dk
 www.ghtowingservice.com
 www.ghx.com
+www.giaiphapbank.com
 www.giantgroupsecurity.com
 www.giessen.de
 www.giftcardmall.com
@@ -1622,6 +1657,7 @@ www.glaciersir.com
 www.glass-international.com
 www.glassesdirect.co.uk
 www.glengower.ca
+www.globalcapitalcredit.com
 www.globalcareersfair.com
 www.globaldramaalert.com
 www.globalfoodsoft.com
@@ -1647,8 +1683,10 @@ www.golfgalaxy.com
 www.golfsantander.es
 www.gonedragracing.com
 www.goodsservice.com.br
+www.googledareklam.com
 www.gostilna-karla.si
 www.gourmetmarketthailand.com
+www.governmentjobs.com.co
 www.grageservice.com
 www.grahamuneymountaineering.co.uk
 www.granadaedu.com
@@ -1672,6 +1710,7 @@ www.grservice.fi
 www.grtech.gtech-controls.com.mx
 www.grupodigitalbank.com
 www.gsam.com
+www.gssfacilities.com.au
 www.gtar.online
 www.gtlcongres-beurs.nl
 www.gu-global.com
@@ -1684,6 +1723,7 @@ www.gwleverage.gwtrade.hk
 www.gymnasiefaellesskabet.dk
 www.helpdesk.garrax.com.br
 www.huhi.gob.mx.gobiernosenlinea.com.mx
+www.iticket.globalmulya.com
 www.jmziwsqvym.c9t71vopk7jahtuebmng.my.gelcanliya.site
 www.landingpageservice.getway.id
 www.money.goldenharvestbook.com
