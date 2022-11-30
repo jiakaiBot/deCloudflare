@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,559 |
+| com | 4,560 |
 | social | 2,612 |
 | net | 2,402 |
 | org | 1,735 |
@@ -14038,6 +14038,7 @@ Here's a list of public Fediverse services.
 | `kloen-cafe.de` | No |
 | `kloenk.dev` | No |
 | `kloetensecurity.com` | Yes |
+| `klog.tw` | No |
 | `klosowicz.net` | No |
 | `kloud.social` | Yes |
 | `kloudboy.xyz` | No |
@@ -29095,6 +29096,7 @@ Here's a list of public Fediverse services.
 | `uuuchu.com` | No |
 | `uvcat.com` | No |
 | `uvensys.social` | No |
+| `uviclinux.ca` | No |
 | `uvok.de` | No |
 | `uvolante.org` | No |
 | `uwah.moe` | No |
@@ -29420,6 +29422,7 @@ Here's a list of public Fediverse services.
 | `vinzv.space` | No |
 | `violet.lol` | No |
 | `violoncello.ch` | No |
+| `viorsan.com` | Yes |
 | `vipgirlfriend.xxx` | No |
 | `vira-lata.org` | Yes |
 | `virctuary.com` | No |
@@ -30605,7 +30608,7 @@ Here's a list of public Fediverse services.
 | `xlnx.uk` | No |
 | `xmanifesto.club` | No |
 | `xmastd.info` | No |
-| `xmcode.pl` | Yes |
+| `xmcode.pl` | No |
 | `xmeerschweinchen.de` | No |
 | `xmflsct.com` | Yes |
 | `xmgz.eu` | No |
@@ -31484,7 +31487,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,002 |
-| Normal | 24,438 |
+| Normal | 24,441 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
