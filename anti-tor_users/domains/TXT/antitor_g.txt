@@ -747,7 +747,6 @@ www.gitlab.gitlab.git.gitlab.gitlab.blog.secure.girisimajbet.com
 www.gj-bill.com
 www.glibblog.com
 www.glicotw.com
-www.glivelab.fi
 www.globalcashloanservice.co.za
 www.globalmachinerysolutions.co.uk
 www.globalorientations.com
@@ -869,22 +868,26 @@ amihabibkhan.github.io
 android.googleapis.com
 aovpn.geigerautomotive.com
 api-showcase.govteams.gov.au
+api.admin.gip-map.com
 api.dev.gspostbox.com
 api.gerentesdigitais.com
 api.gini.net
 api.gkey.se
 api.global66.com
 api.grc.org
+api.gspostbox.com
 api.gymsync.co.uk
 api.profisee-dev.globalpay.com
 api.profisee.globalpay.com
 apitest.genworth.com.au
 app.github.media
 appbtconnect.github.io
+appelauthenticate.github.io
 apple.gamezero.es
 apps.google.com.rproxy.goskope.com
 arbitec.update.forster.gugler.at
 archiv.update.forster.gugler.at
+arnaldoucuassapi.github.io
 asg-facebook.github.io
 attmailserviceadmin.getresponsepages.com
 auth.gieffe.space
@@ -896,6 +899,7 @@ authentication.gsfranzoni.me
 authk.gad1.de
 ayush8757.github.io
 b2c-gulf.gigigoapps.com
+b687fc7ef5df960381f8b4adcd4fa238.safeframe.googlesyndication.com
 backoffice.geoliagroup.com
 bankbox.grabworldtechnologies.com
 bankofamerica.com.login.update.goldfreight.ca
@@ -914,12 +918,14 @@ bolumorin.github.io
 brassy-caterwauling-split.glitch.me
 breezy-perpetual-guarantee.glitch.me
 bt1business.github.io
+btbbuisnes.github.io
 btbuisnessi.github.io
 btbunsnsss.github.io
 btbusbness.github.io
 btbusinssss.github.io
 btbusnes.github.io
 btcombusiness.github.io
+btibusinesis.github.io
 cdn.getdms.app
 cdn.godiciardstia.com
 cds.rhel.updates.googlecloud.com
@@ -945,6 +951,7 @@ consent.google.co.il
 contao.web54.s66.goserver.host
 controller.greenknot.in
 cool-brook-arthropod.glitch.me
+cooperate-api.admin.gip-map.com
 cpanel.garantias.site
 cpanel.gmailjobs.com
 cpanel.grafcovidtesteq.com
@@ -967,6 +974,7 @@ cust-007-v4-prod-atl2.gdsb.net
 d75ccb4e6c51c27f60611c16f2eb4a80.safeframe.googlesyndication.com
 dallasappliancerepairtx.googleadsmanagementservices.com
 daniel-t-gilbert.github.io
+datafusion.googleusercontent.com
 davitandzavelidze.github.io
 dbrekalo.github.io
 dcgyuhjdtyjuuj.storage.googleapis.com
@@ -1033,11 +1041,13 @@ facturacionvalidador.gruposalinas.com.mx
 fairytulle.gajagati.hr
 fathimathjazeera.github.io
 fcm.googleapis.com
+fedifinder-lookup.glitch.me
 fedifinder.glitch.me
 fediverse.glitch.me
 feelrobotics.go2cloud.org
 finance.govcms.gov.au
 firebasecrashlyticssymbols.googleapis.com
+firebaseinstallations.googleapis.com
 fish-workable-meadowlark.glitch.me
 fiveholes.goip.de
 fonocon.update.forster.gugler.at
@@ -1069,6 +1079,7 @@ garageotobaoan.com
 garantibbvainvestitii.com
 gardenstory.jp
 gargasson.com
+garhwalitaxiservice.com
 gartenmeldorf.de
 garudasecurity.co.id
 garybarwin.com
@@ -1092,6 +1103,7 @@ geizhals.at
 gelderbloem.com
 geldersdoek.nl
 geldgrinden.nl
+geldklasse.nl
 geldundgeist2023.ch
 gelemisvillas.com
 gen-ethisches-netzwerk.de
@@ -1111,6 +1123,7 @@ gertecti.com.br
 gertkracht.nl
 get-sahibinden-paramguvende.tk
 getfinsupport.com
+getfittexas.org
 gethiredinflorida.us
 getlawsinfo.ru
 geto.space
@@ -1124,6 +1137,7 @@ ghevailuoi.com
 ghislain-chasme.net
 ghsmac05.geisinger.edu
 ghv.no
+gi8.today
 giaiphapbank.com
 giang.pro
 giantanimation.ie
@@ -1212,8 +1226,10 @@ goizekowellington.es
 gokturkmermer.com
 golang.org
 gold-im.com
+goldblattpartners.com
 goldenbearstore.jp
 goldenpizzeria.fi
+goldenrod-caterwauling-aquarius.glitch.me
 goldsmi.shop
 golem.hu
 golfplusonemedia.com
@@ -1242,10 +1258,12 @@ gracefulmaids.com
 grageservice.com
 grainplacefoods.com
 grancanaria-maspalomasmarathon.com
+grandjournal.net
 grandservice.md
 granorizes.com
 grapevinetalk.com
 graphicz.in
+gravatkitysol.com
 graysonacrepairservice.xyz
 graystep.com
 grb.greatland.com
@@ -1280,6 +1298,7 @@ grupoolmitos.com
 grupopopular.com
 gruporen.com
 gruppoalis.it
+gsmalarm.dk
 gst-credits.online
 gta-service.ro
 gta-vice-city.ru
@@ -1314,6 +1333,7 @@ helpdesk.goldcu.org
 iam.googleapis.com
 ibank.gcmutualbank.com.au
 identityprovider.puma.qua.crl.gsmartsuite.com
+identitytoolkit.googleapis.com
 idi5t.glam-celebrity-news.com
 ih3.googleusercontent.com
 imagens.genkialimentos.com.br
@@ -1325,6 +1345,7 @@ jaseelaalimahamed.github.io
 jmziwsqvym.c9t71vopk7jahtuebmng.my.gelcanliya.site
 joejosephvarghese.github.io
 joshj13.github.io
+julietja.github.io
 kenshi244.github.io
 kftc.gmoneytrans.net
 kopitibox.green-nitrogen.com
@@ -1386,6 +1407,7 @@ optseci.glitch.me
 orderportal.glaspoort.nl
 osmmacfides.github.io
 oso3211.github.io
+pagopa-gw.apps.coll.cloud.giustizia-amministrativa.it
 pagopa-gw.apps.prod.cloud.giustizia-amministrativa.it
 paket-dua.grahasta.id
 paket-tiga.grahasta.id
@@ -1421,10 +1443,12 @@ rakuten-japan-securiyt.go2up.cn
 rakuten-japan-securiyt.gvyrbm.cn
 rakuten-japan-securiyt.gzhpxj.cn
 random-trees-in-circles.glitch.me
+raylit1.github.io
 rds.api.us-east-2.service.guidewire.net
 rec-xfer.groupagrica.com
 redirect.govcms.gov.au
 renci.github.io
+rendanyamande.github.io
 ribgisrmw.gdi.net
 richesh27.github.io
 rijeshsap53.github.io
@@ -1487,6 +1511,7 @@ survey.graphstrategy.com
 taki7980.github.io
 tangy-cat-turn.glitch.me
 tap-them.glitch.me
+tapeolivia.github.io
 taxrefund.gnss-lp.co.il
 tessauthsvc.gstoyota.com
 test.governorsbay.nz
@@ -1520,6 +1545,7 @@ upload.video.google.com
 user.gfa-org.ga
 user100037856153867.github.io
 username123sxz.github.io
+valiant-swamp-bit.glitch.me
 vanshajtiwari.github.io
 vesa.grupoinvestigacionsafe.com
 vftrrqlqmcbybbpwesyaof.storage.googleapis.com
@@ -1569,6 +1595,7 @@ www.demounitcredit.hillsuniforms.getworkgear.com
 www.evegadomska.getothersattention.com
 www.expresscrossdeliverys.greatcourierservice.com
 www.g1financial.com
+www.g2control.co
 www.g2securitysystems.net
 www.g3ti.net
 www.g4s.com
@@ -1586,6 +1613,7 @@ www.gamingsystem.ag
 www.gapartnersfund.org
 www.garantautoservice.com
 www.garenewing.co.uk
+www.garhwalitaxiservice.com
 www.garrysroyalsatin.com
 www.garycampion.com
 www.gasthaus-altepost.ro
@@ -1601,6 +1629,7 @@ www.ged-bge.corsica
 www.geeks.live
 www.geensuikertaksindeboomgaard.nl
 www.geldgrinden.nl
+www.geldklasse.nl
 www.geldundsteuern.de
 www.gemsmodernacademygurgaon.com
 www.gemuetliche-ecke-seelscheid.de
@@ -1657,6 +1686,7 @@ www.glaciersir.com
 www.glass-international.com
 www.glassesdirect.co.uk
 www.glengower.ca
+www.glicerink.com
 www.globalcapitalcredit.com
 www.globalcareersfair.com
 www.globaldramaalert.com
@@ -1738,6 +1768,7 @@ www.safeland.gnss-lp.co.il
 www.safelink.gokilat.com
 www.secured.gbifinancialservices.com
 www.send.get-abacus-delivery.com
+www.service.gosnell.tech
 www.serviceconnector.gr8ly.org
 www.services.genovis.com
 www.sikkerhav.gymgear.dk
