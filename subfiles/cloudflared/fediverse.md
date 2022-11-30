@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,561 |
-| social | 2,613 |
+| com | 4,562 |
+| social | 2,614 |
 | net | 2,402 |
 | org | 1,735 |
 | de | 1,566 |
@@ -24851,6 +24851,7 @@ Here's a list of public Fediverse services.
 | `sidekek.ml` | No |
 | `sideno.eu` | No |
 | `sideofburritos.com` | Yes |
+| `sideofburritos.social` | Yes |
 | `sidequest.social` | No |
 | `sideras.net` | No |
 | `sideslip.social` | No |
@@ -26600,6 +26601,7 @@ Here's a list of public Fediverse services.
 | `tab-e.de` | No |
 | `tabathawood.com` | No |
 | `tabinezumi.net` | Yes |
+| `tabletcorry.com` | Yes |
 | `tabletop.garden` | No |
 | `tabletop.press` | No |
 | `tabletop.social` | No |
@@ -28261,6 +28263,7 @@ Here's a list of public Fediverse services.
 | `trickle.ink` | No |
 | `tried-to-do.science` | Yes |
 | `trier.website` | No |
+| `trigaux.me` | No |
 | `triggeredtux.com` | No |
 | `triggerhub.ru` | No |
 | `triggerphra.se` | No |
@@ -31489,8 +31492,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,003 |
-| Normal | 24,443 |
+| Cloudflare | 7,005 |
+| Normal | 24,444 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
