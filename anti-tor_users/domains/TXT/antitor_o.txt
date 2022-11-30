@@ -325,7 +325,6 @@ oppetmoln.se
 opt-nesti.com.ua
 optimumminer.com
 orangesafepackerss.com
-orangutan.org
 orbank.ru
 order9236.biz
 orderedtabs247.com
@@ -516,11 +515,13 @@ zoominfo.com.login.onlineactionsports.com.au
 account.venmo.otehdrtnsction.com
 accounting.olfatshipping.com
 achasp2-cert.onefiserv.com
+acsmcsc.orthocarolina.com
 activedera.onedumb.com
 adapterapi.osgdev.net
 akr2289922101.owst.jp
 alan.oseudelivery.app.br
 amazonproductapi.officetada.work
+amprod-eigwiiot.oracleiotcloud.com
 api-feed-update-retrieval-service-8a5b7ea9032d464e.onporter.run
 api.auchan.osp.tech
 api.aws-ap1.garden.internal.live.k8s.ondemand.com
@@ -568,14 +569,17 @@ consumer-prod-user13.training.openshift.ch
 consumer-user10.training.openshift.ch
 consumer-user6.training.openshift.ch
 consumer-user8.training.openshift.ch
+covid19.ortec-group.com
 covid19globalsummit.pages.ontraport.net
 cpanel.chery.oraclegroup.co.za
 cpanel.cherypretoria-demo.oraclegroup.co.za
 cpcalendars.cherypretoria-demo.oraclegroup.co.za
 cpcalendars.office365verified.online
 cpcalendars.omnitron.com.hk
+cpcalendars.oqueecoronavirus.com
 cpcontacts.office365verified.online
 cpcontacts.omnitron.com.hk
+cpcontacts.oqueecoronavirus.com
 cpmnx-ir1.onbmc.com
 criminallawcorona.omc-pages.com
 cron.omni.us
@@ -616,6 +620,7 @@ gmail1.oakhillsales.com
 gmailx.oakhillsales.com
 go.openathens.net
 green-stone.online-it-support.dk
+greenfielddirttrack.osam-dev.co.uk
 gtm-wmartins.onesourcelogin.com
 gtmqa-borgwarner.onesourcelogin.com
 healthchecks.eu-paris-1.oraclecloud.com
@@ -629,6 +634,7 @@ inpost-fizm.order9724.in
 inpost-oejk.order9205.info
 inpost-xszm.order1894.biz
 inpost.order982445.org
+inside.onepeterson.com
 integration-dev-06tmlg12.it-cpi009-rt.cfapps.us20.hana.ondemand.com
 investmates.onelink.me
 iotdemo00131.cna.phx.demoservices005.iot.oraclepdemos.com
@@ -638,6 +644,7 @@ kl.osmoticchalah.com
 klantportaal.ovha.nl
 l61001-tmn.hci.us2.hana.ondemand.com
 lb042686-iad-mtu01-ohsim-p.oracleindustry.com
+licensemanager.af-johannesburg-1.oci.oraclecloud.com
 login.auchan.osp.tech
 login.oci.oraclecloud.com
 login.openspot.fr
@@ -653,6 +660,7 @@ mds.opm.mx
 mg.owlcure.com
 mlshomejab.ohmybargains.com
 mobile.ohs-solutions.com
+mon-reseau-local-build.rec.orange.fr
 monleale.owst.jp
 motorsport-card-updater.oakwebshop.co.uk
 mygadgetgifts.onlinepremiumgifts.com
@@ -700,6 +708,7 @@ oicinnovationinstance2-id09o3eaz21u-zr.integration.ocp.oraclecloud.com
 oikofuge.com
 ojutaye.com.ng
 okatteya.owst.jp
+okcado.co
 okcado.net
 okobserver.org
 okta-cdn-1.com
@@ -718,6 +727,7 @@ omr.gov.ua
 omsaiestate.com
 omuutlt.com
 onbroadwayevents.com
+oncallsupport.co.nz
 onderdevulkaan.nl
 one-place-studies.org
 one4services.com
@@ -742,6 +752,7 @@ onlyfansfinder.org
 onpreneur.com
 onsiteag-services.com
 onsman.com
+ontarioarchaeology.org
 ontrack.edu.np
 ootels.com
 op-vahvista-tili.com
@@ -793,6 +804,7 @@ otcnow.com
 otonokabe.com
 otopeni-rent-a-car.ro
 otos.oto-login.com
+otto-winter.com
 oukosher.org
 outlooksigninemail.com
 outpost-4.com
@@ -851,6 +863,7 @@ sessionscloud2.opticvideo.com
 shared-cw-alarm.orkesconductor.com
 shop.oxfamnovib.nl
 signapdf-service-2870d16edb31e2a0.onporter.run
+sm.sandbox.datafox.us-phoenix-1.ocs.oraclecloud.com
 smart.owqms.com
 sn.olavthon.no
 sso-stage2.production.next.obi-solution.net
@@ -889,6 +902,7 @@ vpn2.oxleas.nhs.uk
 w.old.zmail.oslopostorkester.no
 webdav.oures.ru
 webdisk.omnitron.com.hk
+webdisk.oqueecoronavirus.com
 webdisk.orozcointernationallawoffice.com
 webmail.chery.oraclegroup.co.za
 webservice.onlinedas.it
@@ -899,6 +913,7 @@ www.actualizar.arsbancocentral.opensoftdo.com
 www.advscustodio.com.br.oseudelivery.app.br
 www.backup.osd-sicherheitsdienste.de
 www.beforeupdate.ormskirkskipsltd.co.uk
+www.bill.ominfinity.com
 www.billing.oxmobility.com
 www.billingsandcompany.oreillyspubperth.com
 www.clientsrvicesrequstdelivryuspxxreview0931.oznemedya.com
@@ -923,6 +938,8 @@ www.git.gitlab.git.gitlab.secure.openseaa.net
 www.gitlab.carairconditioningrepaold.secure.oleybet.link
 www.gitlab.gitlab.blog.new.blog.demo.secure.oleybet.link
 www.green-stone.online-it-support.dk
+www.greenfielddirttrack.osam-dev.co.uk
+www.marugujaratpost.ojasbharti.org
 www.o2-billingonline-bundle.com
 www.oab.org.br
 www.oakdalefuneralhome.com
@@ -930,6 +947,7 @@ www.oakhurstvet.com
 www.oaklascents.com
 www.obsolete-tears.com
 www.ocdd.org
+www.oconnorautopark.com
 www.octb.pt
 www.oculus.com
 www.ods-es.odsherred-ejendomsservice.dk
@@ -954,15 +972,18 @@ www.omenie.com
 www.omniconsecurity.com
 www.omwis.de
 www.onajkojikuca.com
+www.oncallsupport.co.nz
 www.one-place-studies.org
 www.oneapi.io
 www.onechord.net
+www.onedirect.fr
 www.onedollarwebhostings.com
 www.onefinedaytherapyandsupport.com
 www.onefist.org
 www.onesourceaudit.com
 www.onevalefan.co.uk
 www.online-verify-serv.name
+www.onlinetestconf.com
 www.onmanorama.com
 www.onriva.com
 www.onsiteag-services.com
@@ -973,9 +994,11 @@ www.openharbour1865.com
 www.openpr.de
 www.openscrypt.com
 www.openseasonservices.com
+www.opensight.nl
 www.opensupport.com.co
 www.opinionpoint.com.au
 www.optavia.com
+www.opvoedadvies.nl
 www.originalgame.xyz
 www.originsleuven.be
 www.orionairsales.co.uk
@@ -999,6 +1022,7 @@ www.oxilonburners.com
 www.oysterseedsalon.com
 www.ozalto.com
 www.ozmall.co.jp
+www.parts.ordenservicio.com
 www.postfinance.onlineba-nk.work
 www.refund.ontargetdev.eu
 www.stageway.ok-kontor.no
