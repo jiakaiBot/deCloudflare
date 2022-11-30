@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,562 |
+| com | 4,563 |
 | social | 2,614 |
 | net | 2,402 |
 | org | 1,735 |
@@ -12204,6 +12204,7 @@ Here's a list of public Fediverse services.
 | `in-athens.gr` | No |
 | `in-berlin.de` | No |
 | `in-de-hand.info` | No |
+| `in-deep.blue` | No |
 | `in-purple.de` | Yes |
 | `in-stuggi.de` | No |
 | `in-visible.eu` | No |
@@ -26599,6 +26600,7 @@ Here's a list of public Fediverse services.
 | `t93.us` | Yes |
 | `ta1k.ga` | No |
 | `tab-e.de` | No |
+| `tabakai.com` | No |
 | `tabathawood.com` | No |
 | `tabinezumi.net` | Yes |
 | `tabletcorry.com` | Yes |
@@ -31493,7 +31495,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,005 |
-| Normal | 24,444 |
+| Normal | 24,446 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
