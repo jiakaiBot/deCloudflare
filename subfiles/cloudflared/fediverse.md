@@ -11726,6 +11726,7 @@ Here's a list of public Fediverse services.
 | `hoteltoday.tokyo` | No |
 | `hotfemboy.pics` | Yes |
 | `hotfreshporn.com` | No |
+| `hoto.rocks` | Yes |
 | `hoto.us` | Yes |
 | `hotspiderdemonsinyourarea.com` | No |
 | `hottake.city` | No |
@@ -21336,7 +21337,7 @@ Here's a list of public Fediverse services.
 | `physik.cool` | No |
 | `physio-pedia.com` | Yes |
 | `physis.jp` | No |
-| `phz.jp` | No |
+| `phz.jp` | Yes |
 | `pi2.dev` | No |
 | `piaf.eu` | No |
 | `piaille.fr` | No |
@@ -27018,6 +27019,7 @@ Here's a list of public Fediverse services.
 | `tennt.in` | No |
 | `tenoru.xyz` | No |
 | `tenpenny.network` | No |
+| `tenpest-moon.uk` | Yes |
 | `tenpl.us` | No |
 | `tenshi.sh` | Yes |
 | `tenshicorn.dog` | Yes |
@@ -31481,8 +31483,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,999 |
-| Normal | 24,439 |
+| Cloudflare | 7,002 |
+| Normal | 24,438 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
