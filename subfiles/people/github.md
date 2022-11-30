@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Support Mastodon remote post URLs](https://github.com/snarfed/bridgy-fed/issues/326)
 - [Internal use of axios causes error inside Cloudflare Workers](https://github.com/openai/openai-node/issues/30)
 - [Error while loading in Cloudflare Workers](https://github.com/mailjet/mailjet-apiv3-nodejs/issues/230)
 - [Right way to use this tool?](https://github.com/elceef/subzuf/issues/1)
