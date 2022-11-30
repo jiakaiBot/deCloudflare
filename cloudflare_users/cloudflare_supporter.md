@@ -1732,6 +1732,7 @@ Do not create new issue or we will close it as duplicate.
 | [chanchan_banyar@twitter](https://twitter.com/chanchan_banyar/status/1539014311565488129) | advertise |
 | [chandrawiraaa@twitter](https://twitter.com/chandrawiraaa/status/1547578344094732288) | advertise |
 | [change68911673@twitter](https://twitter.com/change68911673/status/1389260007728848898) | advertise |
+| [Chanhchua49@twitter](https://twitter.com/Chanhchua49/status/1598047448794300417) | advertise |
 | [ChanhyuneeEXOL@twitter](https://twitter.com/ChanhyuneeEXOL/status/1394620855611654148) | advertise |
 | [ChanKoKoKyaw5@twitter](https://twitter.com/ChanKoKoKyaw5/status/1402998806296231937) | advertise |
 | [ChanmayeNyi@twitter](https://twitter.com/ChanmayeNyi/status/1394140997416886278) | advertise |
@@ -2719,6 +2720,7 @@ Do not create new issue or we will close it as duplicate.
 | [estyendowned19@twitter](https://twitter.com/estyendowned19/status/1401196579005009921) | advertise |
 | [ET67927812@twitter](https://twitter.com/ET67927812/status/1404818053993439235) | advertise |
 | [eterafkonam@twitter](https://twitter.com/eterafkonam/status/1578127373152796673) | advertise |
+| [EthanAllen7021@twitter](https://twitter.com/EthanAllen7021/status/1598070809355964416) | advertise |
 | [ethiopianlions@twitter](https://twitter.com/ethiopianlions/status/1503139799699492870) | advertise |
 | [ethnikiantistas@twitter](https://twitter.com/ethnikiantistas/status/1561050463788830721) | advertise |
 | [eth_blaze@twitter](https://twitter.com/eth_blaze/status/1553908650443509760) | advertise |
@@ -5576,6 +5578,7 @@ Do not create new issue or we will close it as duplicate.
 | [Long05870988@twitter](https://twitter.com/Long05870988/status/1552764139138715648) | advertise |
 | [long060502@twitter](https://twitter.com/long060502/status/1568912725287518208) | advertise |
 | [long5088@twitter](https://twitter.com/long5088/status/1514488211384377347) | advertise |
+| [Long36179339@twitter](https://twitter.com/Long36179339/status/1598035439360753664) | advertise |
 | [Long36262712@twitter](https://twitter.com/Long36262712/status/1502562907217100803) | advertise |
 | [Long38978527@twitter](https://twitter.com/Long38978527/status/1393012103389212675) | advertise |
 | [Long85366984@twitter](https://twitter.com/Long85366984/status/1401922952132583431) | advertise |
