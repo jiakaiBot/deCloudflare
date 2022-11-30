@@ -1165,6 +1165,7 @@ api-qa.demiurgeserver0.net
 api.cerpdemo-1.bc.datahaventestdrive-onmicrosoft-com.tds.eastus1.test.datahaven365.com
 api.d2d.work
 api.dapp.mx
+api.data-quality-express.de
 api.dazzl.app
 api.delivermyflingmail.com
 api.digitalzenith.io
@@ -1198,6 +1199,7 @@ authtst.dataextraction.nl
 autoconfig.discworldhb.se
 autodiscover.d-appspecto.com
 autodiscover.daftarvip.site
+autodiscover.digdes.com
 autodiscover.discord-acc.com
 autodiscover.discordancia.cl
 autodiscover.dynobike.com
@@ -1257,15 +1259,18 @@ clienteno.dreamdiscount.xyz
 clients.dotcanada.com
 clienttest.dnb.com.au
 cloud.e.dealertrack.com
+clustercockpit.dkrz.de
 cms.dreinstein.com
 coinbaseconnector.dokidoki.finance
 coinbasewebsocket.dokidoki.finance
+comicsgonebad.debbysdeals.com
 commaseparator.dosenjualan.id
 commuforum.com.dogetrack.com
 confirm-citiz2.dyndns.org
 connect.dimensiondata.com
 conolly-hospital.dynomed.io
 consultarestadofactura.dispafel.com
+contao.divinita.ch
 core-api.designspiration.com
 coverttrack.durkancloud.net
 covidcd.pre-prod-dev-linux.dataouest.net
@@ -1286,6 +1291,7 @@ cpcalendars.disco.org.uk
 cpcalendars.discord-mania.com
 cpcalendars.discordancia.cl
 cpcalendars.discordconnect.com
+cpcalendars.discordnitro.live
 cpcalendars.distcordeau.com
 cpcalendars.dyno-engr.com
 cpcalendars.dynobike.com
@@ -1300,6 +1306,7 @@ cpcontacts.disco.org.uk
 cpcontacts.discord-mania.com
 cpcontacts.discordancia.cl
 cpcontacts.discordconnect.com
+cpcontacts.discordnitro.live
 cpcontacts.distcordeau.com
 cpcontacts.dyno-engr.com
 cpcontacts.dynobike.com
@@ -1341,6 +1348,7 @@ dannypeck.com
 danskdetailservice.dk
 daotaotinhoc.vn
 daparrot.com
+darelgaied.com
 dariuscouture.dariuscordell.com
 darkweblinks.club
 darqa.org
@@ -1377,6 +1385,7 @@ dealbank.ng
 deathsbywelfare.org
 debank.cz
 deborahpoynton.com
+dec.gov.ua
 decobill.com
 dedispace.dedikam.com
 deepedition.com
@@ -1399,6 +1408,7 @@ delivero.ie
 deliveroo.pro
 delivery-aircourier.com
 delivery24.ro
+deliverydebebidas.com.ar
 deliverydhlcompany.info
 deliveryhero.hr
 deliverylevante.com
@@ -1445,6 +1455,7 @@ dev.dropboxupdate.com
 devadmin.discord-acc.ru
 device-alert-amazon.com
 device-auth.uat.dm.olu.daimler.com
+devio.lv
 devprechlamp.com
 devtooler.online
 deweesper.nl
@@ -1494,9 +1505,11 @@ dignilog.com
 dijitalsube-acikdenizv8-com.tk
 dimsacorp.com.pe
 dinajpurkathan.in
+dineroparacerveza.com
 dinomiteservice.com
 dionysopoulos.me
 diplomatie.gov.mr
+diqmasafety.com
 directdepositviaintrc.com
 directsales.dealertire.com
 directservice.gr
@@ -1520,6 +1533,7 @@ discord-claim.fr
 discord.darren.my
 discord.dentalcrafts.org
 discordancia.cl
+discordian.wiki
 discordinvest.tech
 discordkitten.com
 discordoutfits.com
@@ -1545,6 +1559,7 @@ divinity.my.id
 diysolarforum.com
 djmtreeservice.com
 dkbnachprufen.com
+dl-web.dropbox.com
 dlsdesign.com
 dmkp.discord-acc.ru
 dmsbank.co.id
@@ -1552,6 +1567,7 @@ dnastoragealliance.org
 dns1.dns-ga.de
 do-accounting.com
 do.discord-acc.ru
+docdk.ca
 dockertsde.monster
 docplusindia.com
 doctorautoservice.ro
@@ -1625,6 +1641,8 @@ dublinpeople.com
 ducminhsmart.com
 dularempreendimentos.com.br
 duncanstephen.net
+dungcumakita.com.vn
+duoblox.com
 duot.demowebsiteclient.com
 durgaresidency.in
 durgbank.com
@@ -1635,6 +1653,7 @@ dutchblockchainfund.com
 dv-ext.eai.dm-drogeriemarkt.com
 dvcnews.com
 dyar.no
+dyeingjaun.com
 dyno-holds.be
 dyno.cfd
 dynobed.no
@@ -1653,6 +1672,7 @@ dysneysupport.fr
 dystoniaresearchupdate.org
 dziadynoworoczne.pl
 ebird.daimler.com
+ebms-preprod.provincie.drenthe.nl
 eid.digid.nl
 eisws.dxcfds.com
 ekyc.devmandiri.co.id
@@ -1682,13 +1702,16 @@ formulare.rathaus.dortmund.de
 forum.dirtydiscourse.com
 forums.discord-account.com
 frank.websecurityscan.dev0.dongit.nl
+freeedon.deviantart.com
 freizeit.dynamic-billard.de
 fs.destinsolutions.com
 ftp.discord-accounts.ru
 fwddoc.dococab.jp
 gainz.demowebsiteclient.com
 gaitcs.dotsolutionslab.com
+gall.dcinside.com
 gary-quick.demowebsiteclient.com
+gcash-login.donaldsteiny.com
 gdimembersportal.dianemumm.com
 gingerco.demowebsiteclient.com
 git.2022.discord-store.ru
@@ -1748,6 +1771,7 @@ git.git.git.raygifa.tknet309.herokuapp.com.dieverdorp.nl
 git.git.git.sitemap.discord-store.ru
 git.git.git.staging.discordstore.ru
 git.git.git.webmail.discord-accounts.ru
+git.git.gitlab.gitlab.gitlab.com.digital-edu.ru
 git.git.m.cloud.discord-accounts.ru
 git.git.mx1.discord-accounts.ru
 git.git.new.cloud.discord-accounts.ru
@@ -1779,6 +1803,7 @@ git.shop.discord-account.com
 git.vmail.dlmarquage.fr
 git.webmail.discord-acc.com
 gitlab-restore-5ptsmo.datahubnow.com
+gitlab-restore-gnpycw.datahubnow.com
 gitlab-restore-ipkfwn.datahubnow.com
 gitlab.api.discord-accounts.ru
 gitlab.autodiscover.discord-acc.com
@@ -1884,6 +1909,7 @@ oamp2.diebold.com
 oauth.dglecom.net
 omniblab.dogphilosophy.net
 onlineservicesuat.dcbbank.com
+opin.tu.digiseg.com.br
 origin-app.dnbhoovers.com
 osiimi-chan.deviantart.com
 otakuap.deviantart.com
@@ -1897,6 +1923,7 @@ paypalgiftcard.digitalservice.club
 peopleserving.demowebsiteclient.com
 pga.demowebsiteclient.com
 phpmyadmin.discord-accounts.ru
+phpmyadmin.webadmin.p30.mcs.dogado.net
 piepon.deviantart.com
 pingfedssa-dev.dataverify.com
 plainoasis.deviantart.com
@@ -1937,6 +1964,7 @@ rekanten.co.ip.dredment.shop
 renaper.dnm.gob.ar
 renaultgest-pt-wp.devf6.es
 retoforense.dorvack.com
+rgw5.defence.gov.au
 rodan00.deviantart.com
 s2mark.in.mdwww.email.discord-accounts.ru
 s4bwebext.drv-bund.de
@@ -1970,6 +1998,7 @@ shop.delfonics.com
 shop.deutschepost.de
 silvermoonfox.deviantart.com
 singpost.dxbhcp.com
+sip.digdes.com
 sitemaps.discord-store.ru
 smtp.discord-acc.ru
 sndv.dummitlawfirm.com
@@ -2018,6 +2047,7 @@ track.deutschepostde.org
 tracki.digical.com.au
 trading.dwzq.com.hk
 training.dfirdiva.com
+transpontine-chimpanzee-1245.dataplicity.io
 trk.discountmags.com
 typo11ec.direktbill.de
 uccanalyticsidentity.dimensiondata.com
@@ -2065,6 +2095,7 @@ wolly.deno.dev
 wordpress.discord-acc.com
 wordpress.discord-acc.ru
 wp.discordstore.ru
+ws.dbdireto.com.br
 www-amazon-9sad.de-openid-d7f7-0d3d-ce8d-e031-a9e9.top
 www.account.digitalhealthaccess.com
 www.accounting.displayrepublic.co.za
@@ -2084,12 +2115,15 @@ www.bitskee.com.dogetrack.com
 www.blog.blog.dev.support.dlw-hybris.net
 www.bluewater.demowebsiteclient.com
 www.brokerinmobiliariocostadamorte.com.dineroprotegido.com
+www.claim.dkss.com.my
 www.claimitoverages-testserver.developerventure.com
 www.claims.denrormindoro.com
+www.client.dervac.com
 www.clientarea.diginettechnologies.com
 www.clienteno.dreamdiscount.xyz
 www.clients.digital-etik.com
 www.commuforum.dogetrack.com
+www.control.dtcg.net
 www.coverttrack.durkancloud.net
 www.cshelpdesk.dwisolar.com.my
 www.dagegenbewegen.de
@@ -2123,6 +2157,7 @@ www.datasecure.com.co
 www.dataspartan.co.uk
 www.davidbrazilandsarahpritchardopenletter.org
 www.davidrobinsondesign.com
+www.davidrovics.com
 www.davonet.com
 www.dawsydney.org.au
 www.daynevent-ticket.de
@@ -2145,6 +2180,7 @@ www.delivery-aircourier.com
 www.delivery24.ro
 www.deliveryagromed.com.br
 www.deliverybycristina.com
+www.deliverydebebidas.com.ar
 www.deliveryhero.hr
 www.deliveryherocroatia.hr
 www.deliverymar.com
@@ -2188,6 +2224,7 @@ www.dillingen-donau.de
 www.dimo-tresorerie.fr
 www.dimosdata.gr
 www.dinduenergy.com
+www.dineroparacerveza.com
 www.dino-securityservice.co.za
 www.dionysopoulos.me
 www.directservice.gr
@@ -2220,6 +2257,7 @@ www.doshisha-marche.jp
 www.douglas.pl
 www.dovetailenergyservices.com
 www.dpsnc.net
+www.dr-bahr.com
 www.dragee.co.jp
 www.dragonmeet.co.uk
 www.draklyckan.se
@@ -2280,6 +2318,7 @@ www.lhrspinecare.demowebsiteclient.com
 www.macauser.ir.dgki.ir
 www.makingmoney.pro.dfw.party
 www.medical.demowebsiteclient.com
+www.medical.draeger.com
 www.mel.demowebsiteclient.com
 www.money.dowazum.com
 www.moneyline10.dowazum.com
@@ -2300,6 +2339,7 @@ www.pga.demowebsiteclient.com
 www.poonam.demowebsiteclient.com
 www.posta-slovenije-tracking.draqkss.edu.pk
 www.postal.digidenbd.com
+www.postfallspolice.gov.dmsserver-primary.com
 www.postureg.dailypaidonline.com
 www.qa-confirmar-documento.depilzone.com.pe
 www.secure.doctornain.com
