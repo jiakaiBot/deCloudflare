@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-05: [DFW (Dallas) on 2022-12-05](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/m85kx02qv75m)
 - 2022-12-01: [ADL (Adelaide) on 2022-12-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9dxnnt9scvc4)
 - 2022-12-01: [LHR (London) on 2022-12-01](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/d3v9y99bymgd)
 - 2022-12-06: [DUB (Dublin) on 2022-12-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/69p9xv249xf9)
