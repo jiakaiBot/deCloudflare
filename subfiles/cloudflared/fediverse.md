@@ -7910,6 +7910,7 @@ Here's a list of public Fediverse services.
 | `erotica.social` | Yes |
 | `eroticmohel.com` | Yes |
 | `erotube.fr` | No |
+| `erp.uno` | Yes |
 | `erratasec.com` | No |
 | `erratic.cc` | Yes |
 | `error.im` | Yes |
@@ -8267,6 +8268,7 @@ Here's a list of public Fediverse services.
 | `falafel.win` | No |
 | `falconia.club` | No |
 | `falconk.rocks` | No |
+| `falk.us` | No |
 | `falkensweb.com` | No |
 | `falktx.com` | No |
 | `falsehood.social` | Yes |
@@ -19981,7 +19983,7 @@ Here's a list of public Fediverse services.
 | `odessen.com` | No |
 | `odezie.eu` | No |
 | `odezie.social` | No |
-| `odin.run` | No |
+| `odin.run` | Yes |
 | `odinlab.xyz` | No |
 | `odon.cz` | No |
 | `odon.moe` | No |
@@ -22632,7 +22634,7 @@ Here's a list of public Fediverse services.
 | `raeffs.ch` | No |
 | `raeffs.dev` | Yes |
 | `raeven.net` | Yes |
-| `raeven.social` | Yes |
+| `raeven.social` | No |
 | `raf.hamburg` | No |
 | `rafaelbailon.com` | Yes |
 | `rafaelbekkema.nl` | No |
@@ -31403,8 +31405,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 6,973 |
-| Normal | 24,387 |
+| Cloudflare | 6,974 |
+| Normal | 24,388 |
 
 
 ### 22.2% of public Fediverse services are using Cloudflare.
