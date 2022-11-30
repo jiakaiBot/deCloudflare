@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,565 |
-| social | 2,618 |
+| com | 4,567 |
+| social | 2,619 |
 | net | 2,403 |
 | org | 1,735 |
 | de | 1,569 |
@@ -458,7 +458,7 @@ Here's a list of public Fediverse services.
 | `7ka.org` | No |
 | `7kry.net` | No |
 | `7lb.de` | No |
-| `7nw.eu` | No |
+| `7nw.eu` | Yes |
 | `7pm.org` | No |
 | `7pounds.army` | Yes |
 | `7rg.de` | No |
@@ -7577,6 +7577,7 @@ Here's a list of public Fediverse services.
 | `eldoom.me` | No |
 | `eldraeverse.com` | No |
 | `eldritch.cafe` | No |
+| `eldritch.gift` | No |
 | `eldritchworld.nom.es` | No |
 | `electrafish.tech` | No |
 | `electrek.co` | No |
@@ -8492,7 +8493,7 @@ Here's a list of public Fediverse services.
 | `fedi.ml` | No |
 | `fedi.moe` | No |
 | `fedi.monster` | No |
-| `fedi.network` | No |
+| `fedi.network` | Yes |
 | `fedi.one` | Yes |
 | `fedi.photos` | No |
 | `fedi.pictures` | No |
@@ -8578,6 +8579,7 @@ Here's a list of public Fediverse services.
 | `fedivers.net` | Yes |
 | `fediverse-lite.com` | Yes |
 | `fediverse.asia` | Yes |
+| `fediverse.at` | No |
 | `fediverse.au` | No |
 | `fediverse.berlin` | No |
 | `fediverse.blog` | No |
@@ -8637,7 +8639,7 @@ Here's a list of public Fediverse services.
 | `feedseer.com` | No |
 | `feedtech.social` | No |
 | `feedtube.com` | Yes |
-| `feeld.community` | No |
+| `feeld.community` | Yes |
 | `feelingso.blue` | No |
 | `feelslike.life` | No |
 | `feelslike.xyz` | Yes |
@@ -8671,6 +8673,7 @@ Here's a list of public Fediverse services.
 | `femboy.city` | No |
 | `femboy.world` | Yes |
 | `femby.club` | No |
+| `feminine.social` | Yes |
 | `feminism.lgbt` | No |
 | `femme.energy` | No |
 | `fenarinarsa.com` | No |
@@ -20942,6 +20945,7 @@ Here's a list of public Fediverse services.
 | `partyparrot.social` | No |
 | `partypooper.eu` | No |
 | `partytown.space` | No |
+| `pas.la` | No |
 | `pasa.co` | No |
 | `pasdo.com` | Yes |
 | `pasero.net` | No |
@@ -23040,6 +23044,7 @@ Here's a list of public Fediverse services.
 | `redp.icu` | Yes |
 | `redpanda.fun` | No |
 | `redpanda.pics` | Yes |
+| `redpandemonium.com` | Yes |
 | `redpeacock78.com` | Yes |
 | `redpilled.life` | No |
 | `redroo.ml` | No |
@@ -24174,6 +24179,7 @@ Here's a list of public Fediverse services.
 | `schatzkarten.net` | No |
 | `schau.nl` | Yes |
 | `schaumburg.social` | No |
+| `scheepers.one` | Yes |
 | `scheid.tech` | No |
 | `scheissekonfiguriert.de` | No |
 | `schelling.pt` | No |
@@ -27315,6 +27321,7 @@ Here's a list of public Fediverse services.
 | `thegeekcast.com` | No |
 | `thegem.city` | No |
 | `thegeneral.chat` | No |
+| `thegovlab.com` | No |
 | `thegraveyard.org` | No |
 | `thegreenclan.ca` | No |
 | `thegreendragon.online` | No |
@@ -31518,8 +31525,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,013 |
-| Normal | 24,462 |
+| Cloudflare | 7,019 |
+| Normal | 24,463 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
