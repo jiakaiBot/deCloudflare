@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,560 |
-| social | 2,612 |
+| com | 4,561 |
+| social | 2,613 |
 | net | 2,402 |
 | org | 1,735 |
 | de | 1,566 |
@@ -4763,6 +4763,7 @@ Here's a list of public Fediverse services.
 | `clubcyberia.co` | No |
 | `clube.social` | Yes |
 | `clubhouse2.net` | Yes |
+| `clubmer.com` | No |
 | `clubmontclair.com` | No |
 | `clumsy.computer` | No |
 | `clusterfog.com` | No |
@@ -23199,6 +23200,7 @@ Here's a list of public Fediverse services.
 | `retrodon.jp` | No |
 | `retroedge.tech` | No |
 | `retroedgetech.com` | No |
+| `retrogame.fan` | Yes |
 | `retrogaming.social` | No |
 | `retrogralnia.pl` | Yes |
 | `retrogrou.ch` | No |
@@ -26166,6 +26168,7 @@ Here's a list of public Fediverse services.
 | `strube.cloud` | No |
 | `struct.ws` | No |
 | `structuraltrauma.org` | No |
+| `structuregeek.social` | No |
 | `strueker.net` | Yes |
 | `strugee.net` | No |
 | `strykers.xyz` | No |
@@ -31486,8 +31489,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,002 |
-| Normal | 24,441 |
+| Cloudflare | 7,003 |
+| Normal | 24,443 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
