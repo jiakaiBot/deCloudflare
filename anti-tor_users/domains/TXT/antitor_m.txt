@@ -1539,6 +1539,7 @@ alwayson.misapor.ch
 amazon-academy.mediakit.cc
 amcdn.msftauth.net
 analysis.windows.net.office.pxtraining.madhukar.myshn.net
+api-2-0.microsoftnlne.cf
 api-multipay.multidaya.id
 api-np.djm.market-pay.com
 api-proman.mmprod.uk
@@ -1566,6 +1567,7 @@ api.reputationsquad.miciv.io
 api.sumaizukurinavi.mitsuihomeclub.com
 api2.miktex.org
 apimbu.mercantilbanco.com
+apimira.mira.com.br
 app-liberty-develop.moneyplace.com.au
 app-liberty-qa.moneyplace.com.au
 app-staging.mersy.de
@@ -1591,9 +1593,11 @@ asyncgw.teams.microsoft.com.office.skyhighlab.skyhighlab.myshn.net
 auth-server.st.msds-terumo.com
 auth-staging.macrobank.pro
 auth.augue.qguuhc.m3t4c0.services
+auth.mantu-group.com
 auth.mtvnservices-q.mtvi.com
 auth.mtvnservices.com
 auth.mutualia.fr
+auth.sit.apps.eamscs24.mtr.com.hk
 authentication.msmloop.com
 authentik.medinetz-halle.de
 authm.mazda.co.jp
@@ -1620,6 +1624,7 @@ bajotecho.medictransportationservice.com
 bankruptcypetition.mitrainfolabs.com
 baroqueart.museumwnf.org
 beforeupdate.multichannelfulfilment.co.uk
+better.mvpsupport.it
 bio-tech.obs.ap-southeast-1.myhuaweicloud.com
 blog.blog.zmail.maddevs.de
 blog.majestic.com
@@ -1628,6 +1633,7 @@ blog.myheritage.com
 blogapi.meteoswiss.ch
 bmsgw.manz.com
 booking1.mict.com.ph
+bor.obs.la-south-2.myhuaweicloud.com
 bpa.myschoollogin.in
 bpm.mecachromegroup.com
 c10.metadeploy.com
@@ -1651,6 +1657,7 @@ cladrysk.moringa-tech.co.in
 claims.micahardware.co.uk
 click.email.manutd.com
 click.m1.mywisely.com
+click.mastercard-email.com
 click.michaeljfox-email.org
 click.monkey-media.com.au
 click.motorola-mail.com
@@ -1739,6 +1746,7 @@ discolor.music.blog
 discourse.mackintosh.me
 dispusip.malukuprov.go.id
 dlaukrainy.morze.design
+dms.moa.gov.jo
 dns-manager.minestore.com.br
 doanhthu.mobifoneservice.com.vn
 doccitraindevecom.cloud.gov.microsoftdynamics.us
@@ -1839,6 +1847,7 @@ har.malwarecleaningservice.com
 harikko.mh-japan.com
 helpdesk.medonehp.com
 helpdesk.mkindo.com
+helper.memoclock.com
 hessen.museum-digital.de
 hosle.mejlarsen.no
 hpcs.mservices.eu
@@ -1880,16 +1889,17 @@ k50-amo.medianation.ru
 kohofuto.myhostpoint.ch
 konfirmasi-tarif-transaksi-bank.masuk.id
 kontrola.miedzyrzecz.org
-koop.mydew.my
 koumaru-merumaga.mashumaroblog.mixh.jp
 ksb-staging.macrobank.pro
 lab.mobilelearning.io
 land.marcelobritto.com.br
 landing.mapfre.com.pe
 landing.metroblock.com.co
+lb-media.mcot.net
 lcs.mycovidappointment.com
 legalis-advocaten.mailchimpsites.com
 login.manoharyug.com
+login.mhb-discount-tool.com
 login.micro-drive.mooo.com
 login.misolution.co.in
 login.my-acc-co.net
@@ -1900,6 +1910,7 @@ login.pr228.devx.mentordigital.io
 logincdn.msauth.net
 logincommunication.portfolio.mostarindonesia.com
 lsb.mitid.dk
+lsvr01.miechat.tv
 lufthansa.miles-and-more.com
 m.milspec-containers.com
 m2u.maybank.co.id
@@ -1909,6 +1920,7 @@ mabulledu.net
 mac-kyoto-japan.com
 macapples.ru
 macas.sk
+macbook-service.gr
 macomp.co.il
 macroschauth.com
 macsourceports.com
@@ -1983,9 +1995,12 @@ manifesteden.com
 manifoid.xyz
 manilacovid19.com
 manmetdebaard.nl
+manolopoulos-service.com
+manolopoulos-service.eu
 manonabeach.com
 mansfieldalarm.com
 manufacturingindonesia.id
+manuviciano.com
 manvila.com
 maoseguridad.cl
 map-findmy.app
@@ -1995,6 +2010,7 @@ mapaq-extranet.ca
 mapesausa.com
 maplexnaturals.com
 mappetattili-italia.it
+mapsconsultancy.com
 maramtechnologies.in
 marcagolazo.com
 marcioidalino.com.br
@@ -2006,6 +2022,8 @@ marham.net
 maricelapotoc.eu
 marilouheon.ca
 marines.com
+marionpoinsot.fr
+mariusgabriel.net
 mariussescu.ro
 mariuszskwarabyggservice.no
 markarayner.com
@@ -2065,6 +2083,7 @@ mazzo.li
 mb.moatads.com
 mbc.gg
 mbppartners.com
+mbusedwarranty.co.uk
 mc-oauth.net
 mc-test-tds.money.mail.ru
 mc5s8k4mxpmd-2bwfxrn7s0nlg14.soap.marketingcloudapis.com
@@ -2123,6 +2142,7 @@ mercanconta.com
 merchandisingdelivery.com
 merchandtour.com
 mercyfightscovid19.com
+merengue-panic.org
 mericanltd.com
 meryl.net
 mesala.com.ph
@@ -2132,6 +2152,7 @@ mesinpaving.com
 messagerie-support-bnp.com
 metalheadzone.com
 meteoetclimat.fr
+metinustacagkebabi.com
 metro.style
 metroservice1.ro
 meusitenouol.com.br
@@ -2166,6 +2187,7 @@ mikelsigler.com
 mikri-ziria.mgmail.gr
 millewebrtc.millenium.com.co
 millionairemonkeyclub.com
+millstonepublichouse.com
 mimaruhotels.com
 mindsgreengroup.com
 mindzallera.com
@@ -2211,6 +2233,7 @@ mnorganservice.com
 mobeepass.eu
 mobildenizkredi-basvuru.tk
 mobile-telus.com
+mobilepay.mitid.dk
 mobilhondaupdate.com
 mobilityinstitute.com
 mobis.si
@@ -2285,6 +2308,7 @@ mooremusic.org.uk
 mooresvilletribune.com
 mor.cymru
 moremoney.in
+moreofacomment.my
 moroccanzaz.com
 morsecanada.com
 mortal-kombat1.ru
@@ -2344,6 +2368,7 @@ multiply10x.com
 multiservice.pt
 multitek.com.pk
 multitudinesecurity.cl
+multivers.dk
 mundialmurchisondefiba.com
 murmurations.cloud
 museum-id.com
@@ -2384,6 +2409,7 @@ myjobspo.com
 mymisanthropicmusings.org.uk
 mymorningtea.in
 mymproyectosmobiliarios.com
+mynabsecured.com
 myo2-account2458.com
 myo2-account2496.com
 myo2-account845.com
@@ -2392,6 +2418,7 @@ myo2-account887.com
 myo2-account892.com
 myo2-account895.com
 myphammebau.com
+myplease.fr
 mysmarterdeals.shop
 mysoresandalusa.com
 mysportsportal.de
@@ -2417,6 +2444,7 @@ ng.msg.teams.microsoft.com.office.pxtraining.madhukar.myshn.net
 ng.msg.teams.microsoft.com.office.skyhighlab.skyhighlab.myshn.net
 officeplugin.microimage.co.kr
 ogs.google.com.googledrive.thaismarthome.ascendcorppoc.myshn.net
+oidc.mail.microsoftnlne.cf
 ojek.masjek.com
 old-liberty-qa.moneyplace.com.au
 old.mk2.com
@@ -2441,17 +2469,20 @@ passwords.mlc-it.net
 patchlord.mailchimpsites.com
 peterofthemoon.mooo.com
 pitchdeck.moneysmartinvestmentgroup.com
+piwigo.mundoporcino.eu
 placements-service.sg.uat.mkmapps.com
 placements-service.us.uat.mkmapps.com
 play.mtn.ng
 plugin.markaimg.com
 pluginservientrega.margenceropi.com
+pmlink.moonactivate.com
 pmmaster012603.moonactivate.com
 portal.modisbelgium.be
 porterheatingservices-co-uk.maplets.info
 portonacional.megasoftarrecadanet.com.br
 postal.msascc.de
 preprod-api.milkiya.ma
+preprod.megatec.fr
 presence.teams.microsoft.com.office.amd-o365-rp.advancedmicrodevicesinc.myshn.net
 presence.teams.microsoft.com.office.o365.sunpower.myshn.net
 presence.teams.microsoft.com.office.pxtraining.madhukar.myshn.net
@@ -2550,6 +2581,7 @@ support.meatigo.com
 support.mijnvimeva.nl
 support.moneycarer.org.uk
 support.monrespro.cd
+support.myanker.com.au
 survey3.mis-trend.ch
 sw.morpheus-group.com
 swx.cdn.skype.com.office.o365.sunpower.myshn.net
@@ -2598,6 +2630,7 @@ v.zmail.mokorps.no
 validating.obs.ap-southeast-2.myhuaweicloud.com
 vennes.mennerich-service.de
 verify2-acc.mine.nu
+vf-apm.mlconsult.com
 vidabellaysana.mynetflix.cc
 video.marchoon.fr
 view.minutemailer.com
@@ -2645,6 +2678,7 @@ www.alpha.money4you.financial
 www.app51.moonactivate.com
 www.app52.moonactivate.com
 www.ar.malayadelivery.com
+www.at1234.misecure.com
 www.auth.mehedy.vip
 www.bajotecho.medictransportationservice.com
 www.banca-finanzas.milimilo.com
@@ -2653,6 +2687,7 @@ www.beforeupdate.multichannelfulfilment.co.uk
 www.best247support.metawebsolutions.com
 www.bill.modernbyte.com.my
 www.billaresyfutbolines.marcosbarbas.com
+www.billing.demo-int.mkinfopoint.com
 www.billing.myauditor.net
 www.blacksafe.myuniq.space
 www.botanee-control.meledak.xyz
@@ -2707,6 +2742,7 @@ www.gitlab.git.gitlab.git.frzvtrp91uphmde.letswalk.mintsecure.io
 www.gitlab.git.gitlab.medicitaspwww.bank.memories-game.ru
 www.gitlab.git.medicitaspwww.bank.memories-game.ru
 www.gitlab.gitlab.d.majesticbank.ru
+www.gitlab.gitlab.git.git.git.mail.maoi.tech
 www.gitlab.gitlab.gitlab.medicitaspwww.bank.memories-game.ru
 www.gitlab.gitlab.medicitaspwww.bank.memories-game.ru
 www.gitlab.gitlab.xn--cbrbrokers-lsi0o.mintsecure.io
@@ -2733,6 +2769,7 @@ www.maartenmaesenart.be
 www.maatrum.com
 www.macabresoft.com
 www.macauser.ir
+www.macbook-service.gr
 www.macheist.com
 www.machina-nfft.xyz
 www.mackeycpas.com
@@ -2841,6 +2878,7 @@ www.mercy.com
 www.meresearch.org.uk
 www.merthyr.gov.uk
 www.messenger-inquirer.com
+www.meta-violationcontact.com
 www.metacommunication.com
 www.metalgearinformer.com
 www.metaltech.co
@@ -2879,6 +2917,7 @@ www.mitchcharterschool.org
 www.mitma.es
 www.mitma.gob.es
 www.mitsui.com
+www.miventanaalmundo.com
 www.mjusticia.gob.es
 www.mlinar.hr
 www.mlite.net
@@ -2931,6 +2970,7 @@ www.moneysince.com
 www.moneytides.com
 www.moneytobehappy.com
 www.moneytrait.com
+www.moneyworriesuk.com
 www.mongolianembassy.com.tr
 www.monografias.com
 www.monster.no
@@ -2981,7 +3021,6 @@ www.murokcafe.com
 www.museion.it
 www.mushroomsofpei.ca
 www.music-rooms.it
-www.musicweb.cz
 www.musikbrause.de
 www.muthamagazine.com
 www.mutiny.org.uk
@@ -2998,11 +3037,13 @@ www.myclientsupportcard.com
 www.mydigitalservice.fr
 www.mydomaintracking11.co
 www.myheritage.co.il
+www.myheritage.fr
 www.myheritage.nl
 www.myholotv.com
 www.myinfoservice.de
 www.mymcpl.org
 www.mymidlandmortgage.com
+www.mymobase.com
 www.mymultiservice-gold-lpa.fr
 www.myntra.com
 www.myreadingcorner.co.uk
@@ -3018,6 +3059,7 @@ www.passwordsamurai.muhammadanas.in
 www.pattichagroup.com.mpstarmoney.com
 www.perfectmoney.mamaroz.com
 www.pet01.moonactivate.com
+www.pmlink.moonactivate.com
 www.pmmaster012603.moonactivate.com
 www.pocztowy-24.mbnkcz.com
 www.policy.moonactivate.com
@@ -3037,6 +3079,7 @@ www.support.maitech.sd
 www.support.mastersofteg.com
 www.support.mint-code.com
 www.support.mint-codes.com.mint-code.com
+www.support.mutualism.co.za
 www.supportontariofarmers.meatdeliverytoronto.ca
 www.survival-security.minisiteresults.com
 www.swell.credit.meridian310.com
