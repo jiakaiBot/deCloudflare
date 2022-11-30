@@ -144,6 +144,7 @@ git.git.git.git.git.git.git.seed.z-serviceonline.com
 git.git.git.gitlab.gitlab.smtpmail.z-serviceonline.com
 git.git.git.vmail.zalishchyker.de
 gitlab.gitlab.www.covid19.zalive-akvilon.ru
+hcaptchatext.k8services.zenno.io
 indmoney.events.zuddl.io
 initheadset.zetoserver.com
 jad.zanzibarhotelsbooking.com
@@ -164,6 +165,7 @@ nls.zolla.ru
 office-service.zapages.co.il
 portal.zero.govt.nz
 qa.ziondelivery.app.br
+qrapi.zenia.tech
 rakuten-japan-ja-cojp.zhelizhuan.cn
 s.zkcdn.net
 sa1-csgo.zebedee.studio
@@ -182,6 +184,7 @@ us4-csgo.zebedee.studio
 user.zarinkav.ir
 vmail.z-serviceonline.com
 www.accounts.zdlab.co.za
+www.contoh.zehan-invitation.com
 www.gamesupport.in.zehraglobalinfotech.in
 www.git.gitlab.git.git.smtpmail.z-serviceonline.com
 www.git.smtpmail.z-serviceonline.com
@@ -215,6 +218,7 @@ www.ziondelivery.app.br
 www.ziparticle.com
 www.zipl.in
 www.zippiblog.com
+www.zippyshare.com
 www.zivkovic.eu
 www.zorgtoeslag-geregeld.nl
 www42.zippyshare.com
@@ -224,7 +228,6 @@ zamaco.com.vn
 zaragozamakerspace.com
 zasorservice.ru
 zazzle.co.uk
-zbtqkuy.cn
 zecchinodoro.org
 zedeska.top
 zeebra.nl
@@ -232,8 +235,10 @@ zelo.zelomeetings.com
 zenith-hotels.com
 zenstoneproperties.co.uk
 zephfairbank.ml
+zero-1.asia
 zerograus.pt
 zhoubrothers.com
+zhoujin.com
 zhyttia.com.ua
 ziondelivery.app.br
 zionpeace.co.za
