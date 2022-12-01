@@ -10410,6 +10410,7 @@ Do not create new issue or we will close it as duplicate.
 | [VEDIKA940234511@twitter](https://twitter.com/VEDIKA940234511/status/1514582258476322817) | advertise |
 | [veelasakbaribon@twitter](https://twitter.com/veelasakbaribon/status/1579055768543715328) | advertise |
 | [Vegans4Trump@twitter](https://twitter.com/Vegans4Trump/status/1475146808309526534) | advertise |
+| [Vemox1987@twitter](https://twitter.com/Vemox1987/status/1598415178311372800) | advertise |
 | [venkats02968750@twitter](https://twitter.com/venkats02968750/status/1402898594030526468) | advertise |
 | [Venn34541103@twitter](https://twitter.com/Venn34541103/status/1397760420249804800) | advertise |
 | [Veno55209967@twitter](https://twitter.com/Veno55209967/status/1491422483966468100) | advertise |
