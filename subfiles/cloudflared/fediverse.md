@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,586 |
-| social | 2,644 |
+| social | 2,645 |
 | net | 2,412 |
 | org | 1,742 |
 | de | 1,577 |
@@ -26978,6 +26978,7 @@ Here's a list of public Fediverse services.
 | `tawa.wtf` | No |
 | `taxinachtegel.de` | No |
 | `taxion.xyz` | No |
+| `tayledras.social` | No |
 | `tayori.org` | No |
 | `tazy.xyz` | Yes |
 | `tbh.social` | No |
@@ -31658,7 +31659,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,053 |
-| Normal | 24,561 |
+| Normal | 24,562 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
