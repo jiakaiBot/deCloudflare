@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Doesn't work on Firefox, at all](https://github.com/privacypass/challenge-bypass-extension/issues/362)
 - [Support Mastodon remote post URLs](https://github.com/snarfed/bridgy-fed/issues/326)
 - [Internal use of axios causes error inside Cloudflare Workers](https://github.com/openai/openai-node/issues/30)
 - [Error while loading in Cloudflare Workers](https://github.com/mailjet/mailjet-apiv3-nodejs/issues/230)
