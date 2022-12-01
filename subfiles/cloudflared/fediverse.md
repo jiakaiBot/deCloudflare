@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,588 |
+| com | 4,589 |
 | social | 2,650 |
 | net | 2,414 |
 | org | 1,742 |
@@ -4130,6 +4130,7 @@ Here's a list of public Fediverse services.
 | `catgirl.is` | Yes |
 | `catgirl.life` | No |
 | `catgirl.party` | No |
+| `catgirl.place` | No |
 | `catgirl.science` | No |
 | `catgirl.solutions` | No |
 | `catgirl.space` | Yes |
@@ -28269,6 +28270,7 @@ Here's a list of public Fediverse services.
 | `torrentfreak.com` | Yes |
 | `tortoiseexpress.com` | No |
 | `torusserver.org` | No |
+| `torvafirmus.com` | No |
 | `toscer.me` | No |
 | `toshipapi.tokyo` | No |
 | `totalliberation.net` | No |
@@ -31691,7 +31693,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,061 |
-| Normal | 24,586 |
+| Normal | 24,588 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
