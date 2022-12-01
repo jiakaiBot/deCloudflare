@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,587 |
-| social | 2,649 |
+| com | 4,588 |
+| social | 2,650 |
 | net | 2,414 |
 | org | 1,742 |
-| de | 1,578 |
+| de | 1,582 |
 
 
 - Mastodon, Pleroma, etc
@@ -6836,6 +6836,7 @@ Here's a list of public Fediverse services.
 | `dnet.one` | No |
 | `dnfc.fun` | No |
 | `dnitza.com` | Yes |
+| `dnix.de` | No |
 | `dnk.video` | No |
 | `dnlr.org` | No |
 | `dnlsd.nom.es` | No |
@@ -8285,6 +8286,7 @@ Here's a list of public Fediverse services.
 | `facil.services` | No |
 | `facorazza.com` | No |
 | `factland.social` | Yes |
+| `factorial.io` | No |
 | `factsonthegroundshow.com` | No |
 | `fae.cafe` | Yes |
 | `fae.fyi` | No |
@@ -8334,6 +8336,7 @@ Here's a list of public Fediverse services.
 | `falconia.club` | No |
 | `falconk.rocks` | No |
 | `falk.us` | No |
+| `falkenhagen.de` | No |
 | `falkensweb.com` | No |
 | `falktx.com` | No |
 | `falsehood.social` | Yes |
@@ -9871,6 +9874,7 @@ Here's a list of public Fediverse services.
 | `gamertalk.social` | No |
 | `gamertheory.net` | No |
 | `games-community.xyz` | No |
+| `games.ngo` | Yes |
 | `gamesartliveperformance.com` | No |
 | `gamesathome.net` | No |
 | `gamesatwork.biz` | No |
@@ -10075,6 +10079,7 @@ Here's a list of public Fediverse services.
 | `gelse.eu` | No |
 | `gelt.cz` | No |
 | `gem.org.ru` | Yes |
+| `gemeinschaffen.com` | Yes |
 | `gemini.city` | No |
 | `gemlog.ca` | No |
 | `gemma.ee` | Yes |
@@ -11192,6 +11197,7 @@ Here's a list of public Fediverse services.
 | `hausi.social` | No |
 | `havas.jp` | No |
 | `haveibeenpwned.com` | Yes |
+| `havelland.eu` | No |
 | `haven.family` | No |
 | `havent.org` | No |
 | `havlow.com` | Yes |
@@ -18226,6 +18232,7 @@ Here's a list of public Fediverse services.
 | `mrt.al` | No |
 | `mrtino.eu` | No |
 | `mrtoto.de` | No |
+| `mrupp.eu` | No |
 | `mrx.im` | No |
 | `mrxi.org` | No |
 | `mryoogomusic.fr` | No |
@@ -19526,6 +19533,7 @@ Here's a list of public Fediverse services.
 | `njal.la` | No |
 | `njanzen.de` | No |
 | `njms.ca` | No |
+| `njoy.social` | Yes |
 | `njp.asia` | No |
 | `njust.club` | No |
 | `nkagami.me` | Yes |
@@ -21743,6 +21751,7 @@ Here's a list of public Fediverse services.
 | `plaureano.com` | No |
 | `plaxon.de` | Yes |
 | `plaxon.social` | Yes |
+| `play-my.video` | No |
 | `playadust.social` | No |
 | `playgames.jp` | No |
 | `playground.ws` | No |
@@ -26938,6 +26947,7 @@ Here's a list of public Fediverse services.
 | `tardar.social` | No |
 | `tardis.pw` | No |
 | `tardis.world` | No |
+| `tardisproject.uk` | No |
 | `targaryen.house` | No |
 | `taricorp.net` | No |
 | `tarkiz.org` | No |
@@ -27802,6 +27812,7 @@ Here's a list of public Fediverse services.
 | `tiddies.pro` | No |
 | `tiddy.city` | Yes |
 | `tide.tk` | No |
+| `tidy.camp` | No |
 | `tiennot.net` | No |
 | `tiepup.co.uk` | No |
 | `tierslieux.re` | No |
@@ -28201,6 +28212,7 @@ Here's a list of public Fediverse services.
 | `tootr.co` | No |
 | `tootr.io` | Yes |
 | `toots.cc` | Yes |
+| `toots.ch` | No |
 | `toots.cloud` | No |
 | `toots.direct` | No |
 | `toots.gg` | No |
@@ -28885,6 +28897,7 @@ Here's a list of public Fediverse services.
 | `uczymyjak.pl` | Yes |
 | `uddannelse.social` | No |
 | `uden.ai` | Yes |
+| `udk-berlin.de` | No |
 | `udk.moe` | No |
 | `udn.jp` | No |
 | `udon.moe` | No |
@@ -29879,6 +29892,7 @@ Here's a list of public Fediverse services.
 | `wahni.at` | No |
 | `wahni.se` | No |
 | `wahorota.life` | No |
+| `wahrscheinlichkeitundmethode.de` | No |
 | `waifu.one` | No |
 | `waifu.social` | Yes |
 | `waifu.space` | Yes |
@@ -31676,8 +31690,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,058 |
-| Normal | 24,575 |
+| Cloudflare | 7,061 |
+| Normal | 24,586 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
