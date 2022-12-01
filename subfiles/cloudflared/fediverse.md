@@ -25059,6 +25059,7 @@ Here's a list of public Fediverse services.
 | `silverseams.com` | No |
 | `silverspine.net` | No |
 | `silversword.online` | No |
+| `sim.onl` | No |
 | `sim.show` | Yes |
 | `simad.pro` | No |
 | `simbafs.cc` | Yes |
@@ -26861,6 +26862,7 @@ Here's a list of public Fediverse services.
 | `tama.pro` | No |
 | `tama.social` | Yes |
 | `tamag.org` | No |
+| `tamakasu.ga` | No |
 | `tamakodon.jp` | No |
 | `tamax.ml` | No |
 | `tamazgha.space` | No |
@@ -31663,7 +31665,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,054 |
-| Normal | 24,565 |
+| Normal | 24,567 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
