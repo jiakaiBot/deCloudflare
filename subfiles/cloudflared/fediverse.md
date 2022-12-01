@@ -4964,7 +4964,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8426,6 +8426,7 @@ Here's a list of public Fediverse services.
 | `fb.com` | Yes |
 | `fbender.de` | No |
 | `fbi.pm` | Yes |
+| `fbievan.live` | No |
 | `fbk.moe` | Yes |
 | `fbsweb.de` | Yes |
 | `fbxl.net` | No |
@@ -12600,7 +12601,7 @@ Here's a list of public Fediverse services.
 | `irrelephant.social` | No |
 | `irrelevant.com` | No |
 | `irrelevant.me.uk` | No |
-| `irrequi.site` | No |
+| `irrequi.site` | Yes |
 | `irrpfad.de` | No |
 | `irrsinn.life` | No |
 | `irrsinn.net` | Yes |
@@ -16479,7 +16480,7 @@ Here's a list of public Fediverse services.
 | `mastodon.au` | Yes |
 | `mastodon.barcelona` | No |
 | `mastodon.bayern` | Yes |
-| `mastodon.be` | No |
+| `mastodon.be` | Yes |
 | `mastodon.beer` | No |
 | `mastodon.berlin` | No |
 | `mastodon.bet` | No |
@@ -19656,7 +19657,7 @@ Here's a list of public Fediverse services.
 | `nophase.net` | No |
 | `nops.red` | No |
 | `nopsled.club` | No |
-| `nopulse.net` | Yes |
+| `nopulse.net` | No |
 | `noraa.gay` | No |
 | `norad.org` | No |
 | `noraworld.com` | No |
@@ -31575,8 +31576,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,027 |
-| Normal | 24,505 |
+| Cloudflare | 7,029 |
+| Normal | 24,504 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
