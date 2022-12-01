@@ -10267,6 +10267,7 @@ Here's a list of public Fediverse services.
 | `gion.me` | No |
 | `gionathandiani.name` | No |
 | `giorgiocomai.eu` | Yes |
+| `giot.es` | No |
 | `giov.dev` | No |
 | `girak.net` | No |
 | `giratina.net` | Yes |
@@ -15738,6 +15739,7 @@ Here's a list of public Fediverse services.
 | `lucahammer.com` | Yes |
 | `lucaire.ovh` | No |
 | `lucas.monster` | No |
+| `lucasvl.nl` | No |
 | `lucci.xyz` | No |
 | `lucdev.net` | No |
 | `lucentinian.com` | No |
@@ -31659,7 +31661,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,053 |
-| Normal | 24,562 |
+| Normal | 24,564 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
