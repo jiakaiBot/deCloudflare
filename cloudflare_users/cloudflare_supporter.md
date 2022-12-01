@@ -2350,6 +2350,7 @@ Do not create new issue or we will close it as duplicate.
 | [DmokGlass@twitter](https://twitter.com/DmokGlass/status/1522817669421944832) | advertise |
 | [Dn94847228@twitter](https://twitter.com/Dn94847228/status/1401163067711311881) | advertise |
 | [DNames@twitter](https://twitter.com/DNames/status/1491872924390891526) | advertise |
+| [dnelz@twitter](https://twitter.com/dnelz/status/1598195515178758144) | advertise |
 | [Dng54795442@twitter](https://twitter.com/Dng54795442/status/1588542074609336320) | advertise |
 | [Dng69114608@twitter](https://twitter.com/Dng69114608/status/1469914393320525824) | advertise |
 | [dng96878709@twitter](https://twitter.com/dng96878709/status/1376910370070142981) | advertise |
@@ -2397,6 +2398,7 @@ Do not create new issue or we will close it as duplicate.
 | [dongvan9@twitter](https://twitter.com/dongvan9/status/1450698772342665217) | advertise |
 | [DongZhi1992@twitter](https://twitter.com/DongZhi1992/status/1401825155169456129) | advertise |
 | [donkey_th@twitter](https://twitter.com/donkey_th/status/1404873847786987523) | advertise |
+| [donkihote910@twitter](https://twitter.com/donkihote910/status/1598163083159310338) | advertise |
 | [donlareiei1@twitter](https://twitter.com/donlareiei1/status/1475488737140219904) | advertise |
 | [DonLVn2@twitter](https://twitter.com/DonLVn2/status/1378897523100712963) | advertise |
 | [donofainlo@twitter](https://twitter.com/donofainlo/status/1503039041201184776) | advertise |
@@ -11242,6 +11244,7 @@ Do not create new issue or we will close it as duplicate.
 | [Zinko35769567@twitter](https://twitter.com/Zinko35769567/status/1404336100378918912) | advertise |
 | [ZinKoKo61159486@twitter](https://twitter.com/ZinKoKo61159486/status/1399034124678189062) | advertise |
 | [ZinKoKoChit2@twitter](https://twitter.com/ZinKoKoChit2/status/1392456210683596805) | advertise |
+| [zinkokotun7771@twitter](https://twitter.com/zinkokotun7771/status/1598155906004398082) | advertise |
 | [ZinKoKyaww@twitter](https://twitter.com/ZinKoKyaww/status/1390129760789929993) | advertise |
 | [ZinKoOo43910667@twitter](https://twitter.com/ZinKoOo43910667/status/1390277672308133891) | advertise |
 | [zinkooo_pku@twitter](https://twitter.com/zinkooo_pku/status/1391208037344370692) | advertise |
@@ -11357,6 +11360,7 @@ Do not create new issue or we will close it as duplicate.
 | [_sanchitbansal_@twitter](https://twitter.com/_sanchitbansal_/status/1578115686416715777) | advertise |
 | [_Sumitha_@twitter](https://twitter.com/_Sumitha_/status/1508090635131420678) | advertise |
 | [_TheIdealMan@twitter](https://twitter.com/_TheIdealMan/status/1585269975996137472) | advertise |
+| [_TheyLuvAng@twitter](https://twitter.com/_TheyLuvAng/status/1598188075209076736) | advertise |
 | [_UmmuUmairah_@twitter](https://twitter.com/_UmmuUmairah_/status/1394222981342060544) | advertise |
 | [_VPixx@twitter](https://twitter.com/_VPixx/status/1525433377301532672) | advertise |
 | [_YoonminIsKii_@twitter](https://twitter.com/_YoonminIsKii_/status/1395181543241523205) | advertise |
