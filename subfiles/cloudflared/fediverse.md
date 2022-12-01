@@ -28931,6 +28931,7 @@ Here's a list of public Fediverse services.
 | `uhouho.xyz` | Yes |
 | `uiae.at` | No |
 | `uibk.ac.at` | No |
+| `uilleann.pizza` | Yes |
 | `uiuxdev.social` | Yes |
 | `uji.es` | No |
 | `uk.to` | Yes |
@@ -31692,7 +31693,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,061 |
+| Cloudflare | 7,062 |
 | Normal | 24,588 |
 
 
