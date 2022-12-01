@@ -10765,6 +10765,7 @@ Do not create new issue or we will close it as duplicate.
 | [wizkhalifaedgar@twitter](https://twitter.com/wizkhalifaedgar/status/1493223256580624385) | advertise |
 | [wizkiller96@twitter](https://twitter.com/wizkiller96/status/1381748522094051329) | advertise |
 | [Wizzard52684082@twitter](https://twitter.com/Wizzard52684082/status/1392121099983466499) | advertise |
+| [wkfar@twitter](https://twitter.com/wkfar/status/1598157904825417729) | advertise |
 | [wL5X7lOTQMmoHiG@twitter](https://twitter.com/wL5X7lOTQMmoHiG/status/1398145990977327104) | advertise |
 | [WMT48027007@twitter](https://twitter.com/WMT48027007/status/1393435090273800195) | advertise |
 | [WobblyWiFi@twitter](https://twitter.com/WobblyWiFi/status/1456571906006650883) | advertise |
