@@ -1,0 +1,67 @@
+{
+  "manifest_version": 2,
+  "name": "My Privacy DNS - Link Details",
+  "description": "Display information about the domain using data from Project Matrix.",
+  "version": "1.0.0",
+  "author": "Crimeflare",
+  "homepage_url": "http://crimeflare.eu.org/",
+  "permissions": [
+    "storage",
+    "unlimitedStorage"
+  ],
+  "icons": {
+    "96": "icon.png"
+  },
+  "background": {
+    "scripts": [
+      "main.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "cs.js"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "options_ui": {
+    "browser_style": false,
+    "page": "conf/conf.html"
+  },
+  "web_accessible_resources": [
+    "i/adware.png",
+    "i/coinblocker.png",
+    "i/drugs.png",
+    "i/gambling.png",
+    "i/malicious.png",
+    "i/movies.png",
+    "i/news.png",
+    "i/phishing.png",
+    "i/pirated.png",
+    "i/politics.png",
+    "i/porn.png",
+    "i/porngore.png",
+    "i/pornsnuff.png",
+    "i/pornstrict.png",
+    "i/redirector.png",
+    "i/religion.png",
+    "i/scamming.png",
+    "i/spyware.png",
+    "i/torrent.png",
+    "i/tracking.png",
+    "i/typosquatting.png",
+    "i/weapons.png"
+  ],
+  "applications": {
+    "gecko": {
+      "id": "linkdetails@cat.mypdns.org",
+      "strict_min_version": "91.0",
+      "update_url": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/update_firefox.json"
+    }
+  }
+}
