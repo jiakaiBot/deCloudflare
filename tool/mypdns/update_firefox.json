@@ -41,6 +41,20 @@
           "update_hash": "sha256:8450a6b6ace55ed4036dbba3eba6f6aeaee1dcec7be692149667cd6309d16e46"
         }
       ]
+    },
+    "linkdetails@cat.mypdns.org": {
+      "updates": [
+        {
+          "applications": {
+            "gecko": {
+              "strict_min_version": "91.0"
+            }
+          },
+          "version": "1.0.0",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/ld/addon/firefox/addon.xpi?718a6349223d89322b9c9f4ae3af032b3b78e3fbda2b8d7b1be1fe4b7891bb3a",
+          "update_hash": "sha256:718a6349223d89322b9c9f4ae3af032b3b78e3fbda2b8d7b1be1fe4b7891bb3a"
+        }
+      ]
     }
   }
 }
