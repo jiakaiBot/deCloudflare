@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,604 |
+| com | 4,605 |
 | social | 2,678 |
 | net | 2,422 |
 | org | 1,746 |
@@ -21121,6 +21121,7 @@ Here's a list of public Fediverse services.
 | `parens.social` | No |
 | `parentaladvisory.social` | No |
 | `parentalmisguidance.com` | No |
+| `parentheticalrecluse.com` | No |
 | `parfait-mastodon.com` | No |
 | `parfait.day` | No |
 | `parfaitement.social` | No |
@@ -31824,7 +31825,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,102 |
-| Normal | 24,678 |
+| Normal | 24,679 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
