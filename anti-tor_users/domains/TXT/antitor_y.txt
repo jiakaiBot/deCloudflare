@@ -125,7 +125,6 @@ article.yahoo.co.jp
 asr-stream-covid19.yating.tw
 auth.youtubethumbs.pics
 autodiscover.ybpindo.or.id
-autodiscover.yementadawul.com
 b91.yahoo.co.jp
 b95.yahoo.co.jp
 backoffice.yape.com.pe
@@ -273,7 +272,13 @@ yugmoney.club
 yulizarpost.com
 yzphouse.com
 baseball.yahoo.co.jp
+extension.yoopick.com
+inbank.yofin.ru
 market.yandex.ru
+sig-inbank.yofin.ru
+sta.api.youatcollege.com
+www.billing.yourhostings.net
+www.yallaclaim.com
 www.yarok-restaurant.de
 www.yasss.es
 www.yelp.de
@@ -282,3 +287,4 @@ www.yourconroenews.com
 www.yourerie.com
 www.yugioh-card.com
 yaidans.com
+yemenembassy.de
