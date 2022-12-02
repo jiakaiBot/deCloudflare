@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,602 |
+| com | 4,603 |
 | social | 2,672 |
 | net | 2,420 |
 | org | 1,745 |
@@ -15723,6 +15723,7 @@ Here's a list of public Fediverse services.
 | `louma.ml` | No |
 | `lounge.fan` | Yes |
 | `lounge.town` | Yes |
+| `lourensr.dev` | Yes |
 | `lousydomain.xyz` | Yes |
 | `loutre.info` | No |
 | `louzao.network` | Yes |
@@ -30123,6 +30124,7 @@ Here's a list of public Fediverse services.
 | `waytt.cf` | Yes |
 | `waytt.ml` | No |
 | `wazong.de` | No |
+| `wbnns.com` | Yes |
 | `wbrew.radom.pl` | No |
 | `wcdi.tech` | No |
 | `wcwts.dev` | No |
@@ -31800,7 +31802,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,093 |
+| Cloudflare | 7,095 |
 | Normal | 24,664 |
 
 
