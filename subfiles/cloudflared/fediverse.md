@@ -6889,6 +6889,7 @@ Here's a list of public Fediverse services.
 | `doctors4covidethics.org` | No |
 | `docviper.de` | No |
 | `dodam.io` | Yes |
+| `dodge.family` | No |
 | `dodge.me.uk` | No |
 | `dodgy.download` | No |
 | `dodsorf.as` | No |
@@ -24898,6 +24899,7 @@ Here's a list of public Fediverse services.
 | `shadowfacts.net` | Yes |
 | `shadowkat.net` | No |
 | `shadowland.social` | No |
+| `shadownet.be` | No |
 | `shadowsocial.org` | No |
 | `shadowtoot.space` | Yes |
 | `shadowtoot.world` | Yes |
@@ -31826,7 +31828,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,102 |
-| Normal | 24,680 |
+| Normal | 24,682 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
