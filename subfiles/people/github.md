@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Redirect fails with 1.8.0 on Cloudflare](https://github.com/remix-run/remix/issues/4740)
 - [Souin with Caddy (with or without Badger or Olric)](https://github.com/darkweak/souin/issues/278)
 - [Unable to download from subscribestar.adult](https://github.com/mikf/gallery-dl/issues/3344)
 - [Doesn't work on Firefox, at all](https://github.com/privacypass/challenge-bypass-extension/issues/362)
