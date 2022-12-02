@@ -4915,8 +4915,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8026,6 +8026,7 @@ Do not create new issue or we will close it as duplicate.
 | [pusi_sywm@twitter](https://twitter.com/pusi_sywm/status/1391396929540591616) | advertise |
 | [PustiuXP@twitter](https://twitter.com/PustiuXP/status/1384074566591401986) | advertise |
 | [putuphyo@twitter](https://twitter.com/putuphyo/status/1397100452815282177) | advertise |
+| [pvitale@twitter](https://twitter.com/pvitale/status/1598806882046681103) | advertise |
 | [PVLDAma@twitter](https://twitter.com/PVLDAma/status/1578330881319587841) | advertise |
 | [pwagyi2@twitter](https://twitter.com/pwagyi2/status/1391966858610413575) | advertise |
 | [PwintPhuuWai1@twitter](https://twitter.com/PwintPhuuWai1/status/1391724159202385921) | advertise |
@@ -8145,6 +8146,7 @@ Do not create new issue or we will close it as duplicate.
 | [R3DActual@twitter](https://twitter.com/R3DActual/status/1468895846444015617) | advertise |
 | [R3Zipo@twitter](https://twitter.com/R3Zipo/status/1542271365642059776) | advertise |
 | [R3ZNamikaze23@twitter](https://twitter.com/R3ZNamikaze23/status/1583609063954227201) | advertise |
+| [r5c_7@twitter](https://twitter.com/r5c_7/status/1598812100985753600) | advertise |
 | [r6gear@twitter](https://twitter.com/r6gear/status/1551510182068461569) | advertise |
 | [Ra36279199@twitter](https://twitter.com/Ra36279199/status/1395644864587501569) | advertise |
 | [rabieemostafa3@twitter](https://twitter.com/rabieemostafa3/status/1579358487712129024) | advertise |
