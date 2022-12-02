@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,601 |
-| social | 2,673 |
-| net | 2,419 |
+| com | 4,602 |
+| social | 2,672 |
+| net | 2,420 |
 | org | 1,745 |
 | de | 1,587 |
 
@@ -8850,6 +8850,7 @@ Here's a list of public Fediverse services.
 | `fightforinfo.com` | No |
 | `fightforthefuture.org` | Yes |
 | `fightthis.net` | Yes |
+| `fightxing.com` | Yes |
 | `figureskating.online` | Yes |
 | `fika.moe` | Yes |
 | `fikaverse.club` | No |
@@ -14112,6 +14113,7 @@ Here's a list of public Fediverse services.
 | `kith.kitchen` | No |
 | `kithop.ca` | No |
 | `kitsi.biz` | No |
+| `kitsui.life` | Yes |
 | `kitsuna.net` | Yes |
 | `kitsune.cafe` | No |
 | `kitsune.land` | No |
@@ -16334,7 +16336,7 @@ Here's a list of public Fediverse services.
 | `marginaa.li` | No |
 | `marginalea.online` | No |
 | `marginalie.eu` | No |
-| `margio.de` | No |
+| `margio.de` | Yes |
 | `margio.in` | Yes |
 | `margiovanni.com` | Yes |
 | `marimo-net.com` | Yes |
@@ -23751,6 +23753,7 @@ Here's a list of public Fediverse services.
 | `romeros.link` | No |
 | `romlinch.ovh` | No |
 | `romne.co` | Yes |
+| `romneko.net` | Yes |
 | `rompe.org` | No |
 | `ronbronson.com` | No |
 | `rondheim.haus` | No |
@@ -24612,7 +24615,6 @@ Here's a list of public Fediverse services.
 | `searx.li` | No |
 | `seaside.cafe` | No |
 | `seaswallow.me` | Yes |
-| `seattl.social` | No |
 | `seattle.wa.us` | No |
 | `seattlebikeblog.com` | Yes |
 | `seattlebus.space` | No |
@@ -28217,7 +28219,7 @@ Here's a list of public Fediverse services.
 | `toot.institute` | No |
 | `toot.io` | No |
 | `toot.is` | Yes |
-| `toot.koeln` | No |
+| `toot.koeln` | Yes |
 | `toot.la` | Yes |
 | `toot.lgbt` | Yes |
 | `toot.li` | No |
@@ -31798,8 +31800,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,088 |
-| Normal | 24,667 |
+| Cloudflare | 7,093 |
+| Normal | 24,664 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
