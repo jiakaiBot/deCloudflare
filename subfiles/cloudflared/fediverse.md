@@ -20152,6 +20152,7 @@ Here's a list of public Fediverse services.
 | `nytpu.com` | No |
 | `nyxus.xyz` | No |
 | `nzbr.de` | Yes |
+| `nzen.ski` | No |
 | `nzoss.nz` | No |
 | `nzserver.co` | No |
 | `nzsocial.net` | No |
@@ -31825,7 +31826,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,102 |
-| Normal | 24,679 |
+| Normal | 24,680 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
