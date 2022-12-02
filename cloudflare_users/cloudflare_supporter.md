@@ -219,6 +219,7 @@ Do not create new issue or we will close it as duplicate.
 | [abduvohid2005@twitter](https://twitter.com/abduvohid2005/status/1556816971735265283) | advertise |
 | [Abe81831857@twitter](https://twitter.com/Abe81831857/status/1539088641645232128) | advertise |
 | [abeautifulmemo@twitter](https://twitter.com/abeautifulmemo/status/1487803606854410250) | advertise |
+| [Abedini1991@twitter](https://twitter.com/Abedini1991/status/1598695417776025600) | advertise |
 | [AbhaySi30964742@twitter](https://twitter.com/AbhaySi30964742/status/1382171140706078722) | advertise |
 | [AbhaySi85772218@twitter](https://twitter.com/AbhaySi85772218/status/1386601025138663427) | advertise |
 | [Abhi75026840@twitter](https://twitter.com/Abhi75026840/status/1384746380585881606) | advertise |
@@ -4113,6 +4114,7 @@ Do not create new issue or we will close it as duplicate.
 | [isrecommended@twitter](https://twitter.com/isrecommended/status/1469222561577943041) | advertise |
 | [IssaAlabri3@twitter](https://twitter.com/IssaAlabri3/status/1487689307519434754) | advertise |
 | [IssariaVen@twitter](https://twitter.com/IssariaVen/status/1400114063779110916) | advertise |
+| [isultan880@twitter](https://twitter.com/isultan880/status/1598682971057389569) | advertise |
 | [isumikaga@twitter](https://twitter.com/isumikaga/status/1491420142768918531) | advertise |
 | [iswampa@twitter](https://twitter.com/iswampa/status/1575178856813985792) | advertise |
 | [Is_Dia_li@twitter](https://twitter.com/Is_Dia_li/status/1390245219795279878) | advertise |
@@ -9666,8 +9668,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
