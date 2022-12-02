@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Issue: Resume function not working with cloudflare proxy (Android TV)](https://github.com/jellyfin/jellyfin/issues/8841)
 - [Redirect fails with 1.8.0 on Cloudflare](https://github.com/remix-run/remix/issues/4740)
 - [Souin with Caddy (with or without Badger or Olric)](https://github.com/darkweak/souin/issues/278)
 - [Unable to download from subscribestar.adult](https://github.com/mikf/gallery-dl/issues/3344)
