@@ -8655,6 +8655,7 @@ Here's a list of public Fediverse services.
 | `fediver.de` | No |
 | `fediver.se` | No |
 | `fedivers.net` | Yes |
+| `fedivers.paris` | No |
 | `fediverse-lite.com` | Yes |
 | `fediverse.asia` | Yes |
 | `fediverse.at` | No |
@@ -31821,7 +31822,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,101 |
-| Normal | 24,676 |
+| Normal | 24,677 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
