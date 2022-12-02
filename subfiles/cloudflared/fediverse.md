@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,604 |
-| social | 2,677 |
+| social | 2,678 |
 | net | 2,422 |
 | org | 1,746 |
 | de | 1,589 |
@@ -5864,6 +5864,7 @@ Here's a list of public Fediverse services.
 | `dabr.ca` | No |
 | `dachary.org` | No |
 | `daco.dev` | Yes |
+| `dadalo.pl` | No |
 | `dadd.ie` | No |
 | `dados.red` | No |
 | `dads.cool` | No |
@@ -12042,7 +12043,7 @@ Here's a list of public Fediverse services.
 | `hyggeverset.dk` | No |
 | `hylianux.com` | No |
 | `hypatie.xyz` | No |
-| `hype.city` | No |
+| `hype.city` | Yes |
 | `hyper.dev` | No |
 | `hyperborea.org` | No |
 | `hyperboreal.zone` | No |
@@ -23589,6 +23590,7 @@ Here's a list of public Fediverse services.
 | `ring0.re` | No |
 | `ring0.space` | No |
 | `rinsuki.net` | Yes |
+| `rio.social` | No |
 | `rio20.net` | No |
 | `riquer.fr` | No |
 | `risaton.net` | No |
@@ -31821,8 +31823,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,101 |
-| Normal | 24,677 |
+| Cloudflare | 7,102 |
+| Normal | 24,678 |
 
 
 ### 22.3% of public Fediverse services are using Cloudflare.
