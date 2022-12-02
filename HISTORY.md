@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-05: [MUC (Munich) on 2022-12-05](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2l29ttfz8bdy)
 - 2022-12-06: [MUC (Munich) on 2022-12-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r3zt7ryxmdg3)
 - 2022-12-09: [PER (Perth) on 2022-12-09](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/pvlqdhwmsqtp)
 - 2022-12-02: [Cloudflare Bot Management issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qzdvkww3hr3y)
