@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-02: [Cloudflare Bot Management issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qzdvkww3hr3y)
 - 2022-12-07: [BOG (Bogotá) on 2022-12-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/8pbd4pg7729m)
 - 2022-12-01: [Increased HTTP 500 Errors in Taiwan region](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5r8yygj044qn)
 - 2022-12-02: [MXP (Milan) on 2022-12-02](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ctk3fnhvrsn1)
