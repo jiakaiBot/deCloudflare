@@ -9918,6 +9918,7 @@ Do not create new issue or we will close it as duplicate.
 | [timsmith23@twitter](https://twitter.com/timsmith23/status/1419059313927016451) | advertise |
 | [timssys@twitter](https://twitter.com/timssys/status/1555222598321160192) | advertise |
 | [TiM_MacbookPro@twitter](https://twitter.com/TiM_MacbookPro/status/1513933813717643270) | advertise |
+| [tin18508176@twitter](https://twitter.com/tin18508176/status/1598712447468044289) | advertise |
 | [Tin33331141@twitter](https://twitter.com/Tin33331141/status/1402133284868354048) | advertise |
 | [Tin97391743@twitter](https://twitter.com/Tin97391743/status/1468848833052372995) | advertise |
 | [tinapham0906@twitter](https://twitter.com/tinapham0906/status/1468973962134646787) | advertise |
