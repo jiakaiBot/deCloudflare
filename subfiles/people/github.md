@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [A version for Cloudflare Pages](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/23)
 - [Remove cloudflare telemetry](https://github.com/ArmCord/ArmCord/issues/278)
 - [Issue: Resume function not working with cloudflare proxy (Android TV)](https://github.com/jellyfin/jellyfin/issues/8841)
 - [Redirect fails with 1.8.0 on Cloudflare](https://github.com/remix-run/remix/issues/4740)
