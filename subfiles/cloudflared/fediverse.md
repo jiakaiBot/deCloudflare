@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,605 |
-| social | 2,678 |
+| com | 4,607 |
+| social | 2,682 |
 | net | 2,422 |
-| org | 1,746 |
+| org | 1,748 |
 | de | 1,589 |
 
 
@@ -1377,6 +1377,7 @@ Here's a list of public Fediverse services.
 | `andrews.me` | Yes |
 | `andrewstaylor.com` | Yes |
 | `andri.dk` | Yes |
+| `andrlik.org` | No |
 | `android-user.club` | No |
 | `androidauthority.com` | Yes |
 | `androidcentral.com` | Yes |
@@ -1736,6 +1737,7 @@ Here's a list of public Fediverse services.
 | `arinbasu.online` | No |
 | `arint.me` | Yes |
 | `ariona.fr` | No |
+| `ariscard.eu` | Yes |
 | `ariste.info` | No |
 | `arisu.fr` | No |
 | `ariswanto.web.id` | Yes |
@@ -2918,6 +2920,7 @@ Here's a list of public Fediverse services.
 | `bikers.social` | Yes |
 | `bikesare.cool` | Yes |
 | `bikeshed.party` | No |
+| `biketravel.photos` | No |
 | `bilb.info` | Yes |
 | `bilbaodendak.social` | No |
 | `bilboed.tech` | No |
@@ -4319,7 +4322,7 @@ Here's a list of public Fediverse services.
 | `chaldea.network` | No |
 | `chaldeatek.com` | No |
 | `chalec.org` | No |
-| `chalk.moe` | No |
+| `chalk.moe` | Yes |
 | `challenger.city` | No |
 | `chambel.net` | No |
 | `chameth.com` | No |
@@ -7244,6 +7247,7 @@ Here's a list of public Fediverse services.
 | `due.ren` | Yes |
 | `dueckert.eu` | No |
 | `duergner.io` | No |
+| `duesseldorf.social` | No |
 | `duk.space` | No |
 | `dulfer.social` | No |
 | `dulib.re` | No |
@@ -10731,6 +10735,7 @@ Here's a list of public Fediverse services.
 | `greendragon.pub` | No |
 | `greeneco.social` | No |
 | `greenfeathereddragon.com` | Yes |
+| `greenfield.social` | No |
 | `greenish.red` | Yes |
 | `greenjobs.social` | No |
 | `greenlife.li` | No |
@@ -11724,6 +11729,7 @@ Here's a list of public Fediverse services.
 | `hohn.cloud` | No |
 | `hoi-polloi.org` | No |
 | `hoijyun.com` | Yes |
+| `hokuto.social` | No |
 | `hokutodon.co` | No |
 | `hokutodon.com` | No |
 | `holdman.co` | No |
@@ -18241,6 +18247,7 @@ Here's a list of public Fediverse services.
 | `mouse.photos` | No |
 | `mouse.rocks` | No |
 | `mouse.services` | No |
+| `mousectrl.org` | No |
 | `mousehole.online` | No |
 | `mousetail.dev` | Yes |
 | `mousetodon.app` | No |
@@ -20273,6 +20280,7 @@ Here's a list of public Fediverse services.
 | `oerfoundation.org` | No |
 | `oeru.org` | No |
 | `oesterreich.social` | No |
+| `oevents.co.za` | No |
 | `off-investigation.fr` | Yes |
 | `off-the-clock.us` | No |
 | `offcorp.ca` | No |
@@ -20431,6 +20439,7 @@ Here's a list of public Fediverse services.
 | `omfg.blog` | No |
 | `omfg.town` | No |
 | `omfg.tv` | No |
+| `omgbe.es` | No |
 | `omgubuntu.co.uk` | No |
 | `omhnc.net` | Yes |
 | `omimi.live` | Yes |
@@ -22600,6 +22609,7 @@ Here's a list of public Fediverse services.
 | `pwet.me` | Yes |
 | `pwi.social` | No |
 | `pwn.institute` | No |
+| `pwn3d.eu` | No |
 | `pwned.lol` | No |
 | `pwning.social` | No |
 | `pwniverse.io` | No |
@@ -26121,6 +26131,7 @@ Here's a list of public Fediverse services.
 | `srks.social` | No |
 | `srp.life` | Yes |
 | `srv.space` | No |
+| `srweaver.com` | Yes |
 | `srxavi.me` | No |
 | `ssbx.dev` | No |
 | `ssdcc.online` | No |
@@ -26612,6 +26623,7 @@ Here's a list of public Fediverse services.
 | `super-famicom.com` | No |
 | `super-h.xyz` | No |
 | `super-niche.club` | Yes |
+| `super45.social` | Yes |
 | `superawesomeclub.vip` | No |
 | `supercolossal.co` | No |
 | `supercomputer321.tk` | No |
@@ -29000,6 +29012,7 @@ Here's a list of public Fediverse services.
 | `u7fa9.org` | No |
 | `u8.is` | No |
 | `ua-fediland.de` | No |
+| `uaatwar.com` | Yes |
 | `ualberta.ca` | Yes |
 | `ub32.org` | No |
 | `uber.space` | No |
@@ -31827,8 +31840,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,102 |
-| Normal | 24,682 |
+| Cloudflare | 7,107 |
+| Normal | 24,690 |
 
 
-### 22.3% of public Fediverse services are using Cloudflare.
+### 22.4% of public Fediverse services are using Cloudflare.
