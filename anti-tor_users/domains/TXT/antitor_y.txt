@@ -275,8 +275,10 @@ baseball.yahoo.co.jp
 extension.yoopick.com
 inbank.yofin.ru
 market.yandex.ru
+msacs.yrgcareitsupport.org
 sig-inbank.yofin.ru
 sta.api.youatcollege.com
+www.bank.iefinance.go.yj.fr
 www.billing.yourhostings.net
 www.yallaclaim.com
 www.yarok-restaurant.de
@@ -288,3 +290,5 @@ www.yourerie.com
 www.yugioh-card.com
 yaidans.com
 yemenembassy.de
+yorkplacemusicalsalon.ca
+yoursafestinvestment.com
