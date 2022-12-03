@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,624 |
-| social | 2,700 |
+| social | 2,701 |
 | net | 2,431 |
-| org | 1,756 |
-| de | 1,593 |
+| org | 1,757 |
+| de | 1,595 |
 
 
 - Mastodon, Pleroma, etc
@@ -703,7 +703,7 @@ Here's a list of public Fediverse services.
 | `actionsecit.de` | No |
 | `activists.family` | No |
 | `activitypoll.tw` | No |
-| `activitypub-troll.cf` | No |
+| `activitypub-troll.cf` | Yes |
 | `activitypub.actor` | Yes |
 | `activitypub.be` | No |
 | `activitypub.eu` | No |
@@ -1490,6 +1490,7 @@ Here's a list of public Fediverse services.
 | `anormallostpod.ovh` | No |
 | `anosdesiertos.love` | Yes |
 | `another-guild.com` | No |
+| `another.cymru` | No |
 | `anotherbloody.com` | Yes |
 | `anotherfoxguy.com` | No |
 | `anotherlooser.eu` | No |
@@ -2231,6 +2232,7 @@ Here's a list of public Fediverse services.
 | `ayaka.social` | Yes |
 | `ayano.jp` | No |
 | `aynrand.social` | No |
+| `ayom.media` | No |
 | `ayushio.com` | Yes |
 | `az-men.com` | No |
 | `az.social` | No |
@@ -5534,6 +5536,7 @@ Here's a list of public Fediverse services.
 | `cryptos.jp` | No |
 | `cryptoschizo.club` | No |
 | `cryptosocial.site` | No |
+| `cryptotalks.social` | Yes |
 | `cryptotooter.com` | No |
 | `cryptoweb.social` | No |
 | `cryptoworld.is` | Yes |
@@ -6312,6 +6315,7 @@ Here's a list of public Fediverse services.
 | `deepnexus.link` | No |
 | `deeproot.in` | No |
 | `deepskies.com` | No |
+| `deepspace.gay` | Yes |
 | `deepspace.social` | No |
 | `deepspacerose.garden` | No |
 | `deepthot.org` | No |
@@ -9633,6 +9637,7 @@ Here's a list of public Fediverse services.
 | `fsociety.social` | No |
 | `fsphub.org` | No |
 | `fstop.social` | No |
+| `fsub.de` | No |
 | `ftb.moe` | No |
 | `ftdrd.xyz` | No |
 | `ftfl.ca` | No |
@@ -10223,6 +10228,7 @@ Here's a list of public Fediverse services.
 | `genxp.net` | No |
 | `genzedong.net` | No |
 | `genzine.xyz` | No |
+| `geocities.institute` | No |
 | `geoff-parker.com` | No |
 | `geoffdunham.photo` | Yes |
 | `geoffray-levasseur.org` | No |
@@ -12834,6 +12840,7 @@ Here's a list of public Fediverse services.
 | `ispark.social` | No |
 | `ispv-7.com` | No |
 | `israelmgo.es` | No |
+| `israely.xyz` | Yes |
 | `issizler.club` | Yes |
 | `issue.network` | No |
 | `ist-ur.org` | No |
@@ -14528,6 +14535,7 @@ Here's a list of public Fediverse services.
 | `kriom.net` | No |
 | `krishanv.xyz` | No |
 | `kristoffer-strube.dk` | No |
+| `krisztianfekete.org` | No |
 | `krivokuca.dev` | Yes |
 | `krkrkr.org` | No |
 | `krlk.me` | Yes |
@@ -17793,6 +17801,7 @@ Here's a list of public Fediverse services.
 | `miraz.me` | No |
 | `mirbsd.org` | No |
 | `miri.my` | No |
+| `miri64.xyz` | No |
 | `miria.love` | No |
 | `mirko-schenk.de` | No |
 | `mirkwood.io` | No |
@@ -29906,6 +29915,7 @@ Here's a list of public Fediverse services.
 | `vivianmaier.club` | Yes |
 | `vivid-rabbit.com` | No |
 | `viviers-fibre.net` | No |
+| `vivy.dev` | No |
 | `vixe.net` | Yes |
 | `vixenkin.monster` | No |
 | `vizcarra.me` | No |
@@ -30904,6 +30914,7 @@ Here's a list of public Fediverse services.
 | `wumix.net` | No |
 | `wump.me` | No |
 | `wunderwaffla.vip` | Yes |
+| `wuppertalblogs.de` | No |
 | `wuppi.social` | No |
 | `wurdahmekanik.xyz` | No |
 | `wurm.host` | No |
@@ -31945,8 +31956,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,142 |
-| Normal | 24,760 |
+| Cloudflare | 7,146 |
+| Normal | 24,767 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
