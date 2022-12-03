@@ -4369,6 +4369,7 @@ Here's a list of public Fediverse services.
 | `chapril.org` | No |
 | `chapsterhood.com` | No |
 | `charade.social` | No |
+| `charcha.cc` | No |
 | `chargen.one` | No |
 | `charla.mx` | No |
 | `charlag.space` | No |
@@ -31875,7 +31876,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,120 |
-| Normal | 24,711 |
+| Normal | 24,712 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
