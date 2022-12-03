@@ -14183,7 +14183,7 @@ Here's a list of public Fediverse services.
 | `kisaan.social` | Yes |
 | `kish.social` | No |
 | `kishkush.net` | No |
-| `kisslolis.moe` | No |
+| `kisslolis.moe` | Yes |
 | `kissyourhomies.com` | No |
 | `kitadon.com` | No |
 | `kitahina.co` | Yes |
@@ -25969,6 +25969,7 @@ Here's a list of public Fediverse services.
 | `southware.ir` | Yes |
 | `souverainete-numerique.info` | No |
 | `sov.run` | No |
+| `sovereign.lgbt` | Yes |
 | `soviet.nyc` | No |
 | `sovran.me` | No |
 | `sovran.photos` | No |
@@ -31958,8 +31959,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,149 |
-| Normal | 24,766 |
+| Cloudflare | 7,151 |
+| Normal | 24,765 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
