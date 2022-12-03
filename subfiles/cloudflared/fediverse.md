@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,624 |
-| social | 2,701 |
-| net | 2,431 |
+| social | 2,702 |
+| net | 2,432 |
 | org | 1,757 |
 | de | 1,595 |
 
@@ -5029,7 +5029,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -15239,7 +15239,7 @@ Here's a list of public Fediverse services.
 | `liam.ie` | No |
 | `lianwu.fun` | No |
 | `liao.dev` | No |
-| `libarti.com` | No |
+| `libarti.com` | Yes |
 | `libcore.org` | Yes |
 | `libcyb.so` | No |
 | `libella.social` | No |
@@ -16682,6 +16682,7 @@ Here's a list of public Fediverse services.
 | `mastodon-tiray.me` | No |
 | `mastodon-toyama.xyz` | No |
 | `mastodon-train.info` | No |
+| `mastodon-uk.net` | No |
 | `mastodon-us.net` | No |
 | `mastodon.academy` | No |
 | `mastodon.actor` | No |
@@ -17509,6 +17510,7 @@ Here's a list of public Fediverse services.
 | `metokur.org` | Yes |
 | `metrix.network` | No |
 | `metro.bieszczady.pl` | No |
+| `metro.social` | Yes |
 | `metsubo-jinrai.net` | No |
 | `metu.life` | No |
 | `metube.ch` | No |
@@ -31956,8 +31958,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,146 |
-| Normal | 24,767 |
+| Cloudflare | 7,149 |
+| Normal | 24,766 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
