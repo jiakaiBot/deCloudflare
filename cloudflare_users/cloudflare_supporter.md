@@ -7881,6 +7881,7 @@ Do not create new issue or we will close it as duplicate.
 | [plnAhResBLcWi30@twitter](https://twitter.com/plnAhResBLcWi30/status/1390338116418891778) | advertise |
 | [PLSFY2dzXWxAFJq@twitter](https://twitter.com/PLSFY2dzXWxAFJq/status/1401748010107875333) | advertise |
 | [PLTiYlLp6TXPZEv@twitter](https://twitter.com/PLTiYlLp6TXPZEv/status/1393330572097773573) | advertise |
+| [PlugWalkCreator@twitter](https://twitter.com/PlugWalkCreator/status/1599053945598517248) | advertise |
 | [Pluhvvg55@twitter](https://twitter.com/Pluhvvg55/status/1557696264531513345) | advertise |
 | [Plumeri73219936@twitter](https://twitter.com/Plumeri73219936/status/1384177258991013899) | advertise |
 | [pluss_huy@twitter](https://twitter.com/pluss_huy/status/1547297826820194304) | advertise |
@@ -9840,6 +9841,7 @@ Do not create new issue or we will close it as duplicate.
 | [thuan1771@twitter](https://twitter.com/thuan1771/status/1552342099403497474) | advertise |
 | [Thuan123567@twitter](https://twitter.com/Thuan123567/status/1514877002481737731) | advertise |
 | [ThuanNg52709347@twitter](https://twitter.com/ThuanNg52709347/status/1403081195034841088) | advertise |
+| [ThuanTh58337931@twitter](https://twitter.com/ThuanTh58337931/status/1599055563979386883) | advertise |
 | [Thudanupk1@twitter](https://twitter.com/Thudanupk1/status/1396143299140804609) | advertise |
 | [thugboyzsex@twitter](https://twitter.com/thugboyzsex/status/1474144170021306404) | advertise |
 | [ThuH06082143@twitter](https://twitter.com/ThuH06082143/status/1403594898092138503) | advertise |
