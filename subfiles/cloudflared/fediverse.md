@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,624 |
-| social | 2,702 |
+| social | 2,703 |
 | net | 2,432 |
 | org | 1,757 |
 | de | 1,595 |
@@ -26153,6 +26153,7 @@ Here's a list of public Fediverse services.
 | `spork.gay` | No |
 | `spork.gg` | No |
 | `spork.org` | No |
+| `sportmed.social` | No |
 | `sportmedsocial.com` | No |
 | `sports-scores.win` | No |
 | `sportsball.host` | No |
@@ -31960,7 +31961,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,151 |
-| Normal | 24,765 |
+| Normal | 24,766 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
