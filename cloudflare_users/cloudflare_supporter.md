@@ -334,6 +334,7 @@ Do not create new issue or we will close it as duplicate.
 | [AfizOmari@twitter](https://twitter.com/AfizOmari/status/1404102260293054466) | advertise |
 | [afrash@twitter](https://twitter.com/afrash/status/1369943509839585281) | advertise |
 | [AfshinFshnsm@twitter](https://twitter.com/AfshinFshnsm/status/1578027381033340935) | advertise |
+| [Afsi70019929@twitter](https://twitter.com/Afsi70019929/status/1599064914156408833) | advertise |
 | [aftab_afsal@twitter](https://twitter.com/aftab_afsal/status/1548610479810961408) | advertise |
 | [AgAg14299411@twitter](https://twitter.com/AgAg14299411/status/1396793253467500544) | advertise |
 | [agamx_id@twitter](https://twitter.com/agamx_id/status/1542679382497472513) | advertise |
@@ -2805,6 +2806,7 @@ Do not create new issue or we will close it as duplicate.
 | [Farhatasli@twitter](https://twitter.com/Farhatasli/status/1569995471455936512) | advertise |
 | [fariborzn1@twitter](https://twitter.com/fariborzn1/status/1391848602469814272) | advertise |
 | [fariel0612@twitter](https://twitter.com/fariel0612/status/1577799553520381952) | advertise |
+| [Faris42069@twitter](https://twitter.com/Faris42069/status/1599063038560448513) | advertise |
 | [farithaidil75@twitter](https://twitter.com/farithaidil75/status/1395571970440253440) | advertise |
 | [farooq_dmj@twitter](https://twitter.com/farooq_dmj/status/1471859023389630468) | advertise |
 | [farooq_furkhan@twitter](https://twitter.com/farooq_furkhan/status/1406526860792455169) | advertise |
