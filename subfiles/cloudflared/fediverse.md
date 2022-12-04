@@ -382,6 +382,7 @@ Here's a list of public Fediverse services.
 | `4wtf.com` | No |
 | `4zido.de` | No |
 | `500.social` | No |
+| `503junk.house` | No |
 | `50no.fr` | No |
 | `50pd.uk` | No |
 | `512.moe` | Yes |
@@ -19623,6 +19624,7 @@ Here's a list of public Fediverse services.
 | `nightshade.fun` | Yes |
 | `nightshift.social` | No |
 | `nih.gov` | Yes |
+| `nihao.pub` | Yes |
 | `nihar.page` | Yes |
 | `nihars.in` | No |
 | `nihilist.space` | No |
@@ -32017,8 +32019,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,167 |
-| Normal | 24,807 |
+| Cloudflare | 7,168 |
+| Normal | 24,808 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
