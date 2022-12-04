@@ -10551,6 +10551,7 @@ Do not create new issue or we will close it as duplicate.
 | [Vn15227799@twitter](https://twitter.com/Vn15227799/status/1392391757225025538) | advertise |
 | [vn62133765@twitter](https://twitter.com/vn62133765/status/1577324562353901569) | advertise |
 | [Vng1Nht@twitter](https://twitter.com/Vng1Nht/status/1531109033708441600) | advertise |
+| [VngV80717900@twitter](https://twitter.com/VngV80717900/status/1599461822410940416) | advertise |
 | [Vnhi73891454@twitter](https://twitter.com/Vnhi73891454/status/1553821417107767297) | advertise |
 | [VNhLinh5@twitter](https://twitter.com/VNhLinh5/status/1477522077796438016) | advertise |
 | [VnLc48599484@twitter](https://twitter.com/VnLc48599484/status/1400390004984016899) | advertise |
