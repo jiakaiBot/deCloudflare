@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,646 |
-| social | 2,719 |
+| com | 4,647 |
+| social | 2,721 |
 | net | 2,447 |
 | org | 1,761 |
-| de | 1,596 |
+| de | 1,598 |
 
 
 - Mastodon, Pleroma, etc
@@ -1147,7 +1147,7 @@ Here's a list of public Fediverse services.
 | `allthepages.org` | Yes |
 | `allthings.club` | No |
 | `alltomorrows.party` | No |
-| `allulla.space` | Yes |
+| `allulla.space` | No |
 | `allwurst.com` | No |
 | `allymukai.com` | No |
 | `almere.social` | No |
@@ -2546,6 +2546,7 @@ Here's a list of public Fediverse services.
 | `basstdn.jp` | Yes |
 | `bastelbude.eu` | No |
 | `bastelfreak.cloud` | No |
+| `bastelgarage.ch` | No |
 | `bastet.moe` | No |
 | `basti.dev` | No |
 | `bastien.social` | No |
@@ -9066,6 +9067,7 @@ Here's a list of public Fediverse services.
 | `flatulence.party` | No |
 | `flausch.eu` | No |
 | `flausch.social` | No |
+| `flauschbereich.de` | No |
 | `flauschekatze.space` | No |
 | `flauschgeschaedigt.de` | No |
 | `flauschhausen.de` | No |
@@ -12600,6 +12602,7 @@ Here's a list of public Fediverse services.
 | `inkwell.space` | Yes |
 | `inkwell.studio` | No |
 | `inkyara-kami.me` | No |
+| `inlakech.site` | No |
 | `inman.xyz` | No |
 | `inmmosiliketo.tk` | No |
 | `inn4tel.social` | No |
@@ -17156,6 +17159,7 @@ Here's a list of public Fediverse services.
 | `matus.rocks` | No |
 | `mauch.social` | No |
 | `maud.io` | Yes |
+| `mauldasch.de` | No |
 | `maumau.social` | No |
 | `mauran.dk` | No |
 | `mauricepinzon.com` | Yes |
@@ -25236,6 +25240,7 @@ Here's a list of public Fediverse services.
 | `shitposting.army` | Yes |
 | `shitposting.fr` | No |
 | `shitposting.network` | Yes |
+| `shitshow24.com` | No |
 | `shitter.me` | No |
 | `shitter.ml` | No |
 | `shittyurl.org` | Yes |
@@ -26029,6 +26034,7 @@ Here's a list of public Fediverse services.
 | `soscet.network` | No |
 | `soses.ca` | No |
 | `sosh.network` | No |
+| `sosh.space` | No |
 | `soshl.one` | No |
 | `sosialist.party` | No |
 | `sotl.social` | No |
@@ -26537,6 +26543,7 @@ Here's a list of public Fediverse services.
 | `stevijo.me` | Yes |
 | `stfu.social` | Yes |
 | `stgt.social` | No |
+| `sthlm.social` | No |
 | `sthorp.com` | Yes |
 | `sti.social` | No |
 | `stickbear.me` | Yes |
@@ -28022,6 +28029,7 @@ Here's a list of public Fediverse services.
 | `thexboxcast.co.nz` | Yes |
 | `thexsoft.com` | Yes |
 | `theydonts.top` | Yes |
+| `theyosh.nl` | No |
 | `theyouthandeum.com` | Yes |
 | `thezombie.net` | No |
 | `thezone.zone` | No |
@@ -31931,6 +31939,7 @@ Here's a list of public Fediverse services.
 | `zivitas.info` | No |
 | `zj.ms` | Yes |
 | `zkc.se` | No |
+| `zkm.social` | No |
 | `zknt.org` | No |
 | `zlatiah-no.one` | No |
 | `zlatko.dev` | No |
@@ -32070,8 +32079,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,181 |
-| Normal | 24,846 |
+| Cloudflare | 7,180 |
+| Normal | 24,856 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
