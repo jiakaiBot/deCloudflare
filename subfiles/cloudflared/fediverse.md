@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,624 |
-| social | 2,703 |
-| net | 2,432 |
+| com | 4,628 |
+| social | 2,704 |
+| net | 2,434 |
 | org | 1,757 |
 | de | 1,595 |
 
@@ -1589,6 +1589,7 @@ Here's a list of public Fediverse services.
 | `aotake91.net` | No |
 | `aow.show` | No |
 | `aoxiang.online` | Yes |
+| `aozora.uk` | Yes |
 | `apartmenttherapy.com` | Yes |
 | `apathy.top` | No |
 | `apathy.tv` | No |
@@ -4705,6 +4706,7 @@ Here's a list of public Fediverse services.
 | `cjqx.xyz` | Yes |
 | `cjslep.com` | No |
 | `ckbit.ch` | No |
+| `ckcycling.com` | No |
 | `ckfb.cc` | No |
 | `ckitbara.info` | No |
 | `cknweb.it` | Yes |
@@ -4788,6 +4790,7 @@ Here's a list of public Fediverse services.
 | `cloud-libre.eu` | No |
 | `cloud-native.social` | No |
 | `cloudboard.fr` | No |
+| `cloudbolwell.co.uk` | Yes |
 | `cloudcauldron.io` | No |
 | `clouded.monster` | No |
 | `cloudfiction.social` | No |
@@ -6422,6 +6425,7 @@ Here's a list of public Fediverse services.
 | `denkfabrikblog.de` | No |
 | `dennisforbes.ca` | Yes |
 | `deno.dev` | No |
+| `densco.net` | No |
 | `denshi.live` | Yes |
 | `denshi.org` | No |
 | `denter-online.de` | No |
@@ -12063,6 +12067,7 @@ Here's a list of public Fediverse services.
 | `husk.site` | No |
 | `husku.net` | No |
 | `huskyapp.dev` | No |
+| `huslage.com` | No |
 | `husq.tk` | No |
 | `hutaffe.blog` | No |
 | `hutch.chat` | Yes |
@@ -17887,6 +17892,7 @@ Here's a list of public Fediverse services.
 | `misskey.xyz` | No |
 | `misskeyjp.com` | Yes |
 | `mist.so` | No |
+| `mistah-v.com` | No |
 | `mistelske.com` | No |
 | `mister.computer` | No |
 | `misterbanal.net` | No |
@@ -18704,6 +18710,7 @@ Here's a list of public Fediverse services.
 | `mushus.net` | No |
 | `musicbyyo.com` | Yes |
 | `musicdn.jp` | No |
+| `musician.social` | No |
 | `musicians.today` | No |
 | `musicspots.de` | No |
 | `musicstudio.pro` | No |
@@ -24129,6 +24136,7 @@ Here's a list of public Fediverse services.
 | `ryanteck.xyz` | No |
 | `ryanthomas.org` | No |
 | `rybergs.net` | No |
+| `rychannel.com` | No |
 | `rydlabs.com` | No |
 | `ryecroft21.info` | No |
 | `ryecroft21.net` | No |
@@ -26135,6 +26143,7 @@ Here's a list of public Fediverse services.
 | `spod.ca` | Yes |
 | `spodeli.org` | No |
 | `spodgod.com` | No |
+| `spojnik.works` | No |
 | `spokaneartcollective.com` | No |
 | `spoluck.ca` | No |
 | `spondr.cz` | No |
@@ -30230,6 +30239,7 @@ Here's a list of public Fediverse services.
 | `warm.rocks` | No |
 | `warmonger.de` | No |
 | `warofart.xyz` | No |
+| `warpday.net` | Yes |
 | `warpnine.de` | No |
 | `warpzone.es` | No |
 | `warriorsofthelord.com` | No |
@@ -31960,8 +31970,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,151 |
-| Normal | 24,766 |
+| Cloudflare | 7,154 |
+| Normal | 24,773 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
