@@ -535,6 +535,7 @@ Do not create new issue or we will close it as duplicate.
 | [allindialeads@twitter](https://twitter.com/allindialeads/status/1487816693346824194) | advertise |
 | [Allis98048947@twitter](https://twitter.com/Allis98048947/status/1396348863519371272) | advertise |
 | [AlmakLimited@twitter](https://twitter.com/AlmakLimited/status/1400534263007678464) | advertise |
+| [almodaris@twitter](https://twitter.com/almodaris/status/1599436861390192641) | advertise |
 | [almohanad_7rb@twitter](https://twitter.com/almohanad_7rb/status/1396993015231750147) | advertise |
 | [Almosmn8@twitter](https://twitter.com/Almosmn8/status/1398362732534112256) | advertise |
 | [alnahas2020@twitter](https://twitter.com/alnahas2020/status/1526095253475835904) | advertise |
@@ -1964,8 +1965,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -10526,6 +10527,7 @@ Do not create new issue or we will close it as duplicate.
 | [VishalB67584671@twitter](https://twitter.com/VishalB67584671/status/1398920445437505542) | advertise |
 | [vishalmajumdar_@twitter](https://twitter.com/vishalmajumdar_/status/1563810788376055808) | advertise |
 | [vishalnyk21@twitter](https://twitter.com/vishalnyk21/status/1404097712178352134) | advertise |
+| [Vishnur01251382@twitter](https://twitter.com/Vishnur01251382/status/1599415445370863617) | advertise |
 | [Vishnur12459150@twitter](https://twitter.com/Vishnur12459150/status/1386911043763408898) | advertise |
 | [Vishnuv72775788@twitter](https://twitter.com/Vishnuv72775788/status/1404443503480827909) | advertise |
 | [Visioun_@twitter](https://twitter.com/Visioun_/status/1559240514599538689) | advertise |
@@ -11252,6 +11254,7 @@ Do not create new issue or we will close it as duplicate.
 | [zephraCloud@twitter](https://twitter.com/zephraCloud/status/1542493564915142656) | advertise |
 | [Zeref44276552@twitter](https://twitter.com/Zeref44276552/status/1558349121592983552) | advertise |
 | [Zeris07095715@twitter](https://twitter.com/Zeris07095715/status/1381528506983575552) | advertise |
+| [ZERO140324@twitter](https://twitter.com/ZERO140324/status/1599431939580366848) | advertise |
 | [Zero13050189@twitter](https://twitter.com/Zero13050189/status/1400038923624013837) | advertise |
 | [Zero18004563@twitter](https://twitter.com/Zero18004563/status/1394624752262647812) | advertise |
 | [zerolamon1@twitter](https://twitter.com/zerolamon1/status/1386047123247058950) | advertise |
