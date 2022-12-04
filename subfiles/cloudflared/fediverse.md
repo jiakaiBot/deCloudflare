@@ -10215,7 +10215,7 @@ Here's a list of public Fediverse services.
 | `geno.social` | No |
 | `genomic.social` | No |
 | `genrefinity.com` | No |
-| `genserver.social` | No |
+| `genserver.social` | Yes |
 | `genshin.social` | No |
 | `gensokyo.cloud` | No |
 | `gensokyo.io` | Yes |
@@ -10718,6 +10718,7 @@ Here's a list of public Fediverse services.
 | `gouwo.dev` | Yes |
 | `gov.casa` | Yes |
 | `govanify.com` | No |
+| `governa.eu` | No |
 | `government.st` | No |
 | `govital.net` | No |
 | `govt.is` | No |
@@ -23008,6 +23009,7 @@ Here's a list of public Fediverse services.
 | `racing-lagoon.info` | No |
 | `rack.social` | Yes |
 | `raconteur.ink` | No |
+| `radar.fail` | No |
 | `radbox.org` | No |
 | `radfoote.net` | No |
 | `radiate038.com` | Yes |
@@ -31970,8 +31972,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,154 |
-| Normal | 24,773 |
+| Cloudflare | 7,155 |
+| Normal | 24,774 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
