@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [admin can't create a user if Notifications are enabled in default group](https://github.com/humhub/humhub/issues/5967)
 - [A version for Cloudflare Pages](https://github.com/SimeonGriggs/remix-sanity-studio-v3/issues/23)
 - [Remove cloudflare telemetry](https://github.com/ArmCord/ArmCord/issues/278)
 - [Issue: Resume function not working with cloudflare proxy (Android TV)](https://github.com/jellyfin/jellyfin/issues/8841)
