@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,630 |
+| com | 4,631 |
 | social | 2,712 |
 | net | 2,437 |
 | org | 1,758 |
@@ -2057,6 +2057,7 @@ Here's a list of public Fediverse services.
 | `atwab.ca` | No |
 | `atwistedsystem.com` | No |
 | `atwood.name` | No |
+| `atx.actor` | Yes |
 | `atx.pub` | No |
 | `atx.social` | No |
 | `atxcoop.club` | No |
@@ -5676,6 +5677,7 @@ Here's a list of public Fediverse services.
 | `cuso.tk` | No |
 | `cusocial.club` | No |
 | `custodianship.club` | No |
+| `custom-gamer.com` | Yes |
 | `customvisualdesigns.com` | No |
 | `customvisualdesigns.comsocial` | No |
 | `cute.group` | No |
@@ -31998,7 +32000,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,161 |
+| Cloudflare | 7,163 |
 | Normal | 24,794 |
 
 
