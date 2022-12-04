@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,643 |
-| social | 2,718 |
-| net | 2,446 |
+| com | 4,646 |
+| social | 2,719 |
+| net | 2,447 |
 | org | 1,761 |
 | de | 1,596 |
 
@@ -2212,6 +2212,7 @@ Here's a list of public Fediverse services.
 | `awoo.world` | Yes |
 | `awoonet.org` | No |
 | `awooo.club` | Yes |
+| `awruff.xyz` | No |
 | `awscommunity.social` | No |
 | `awsmp.pl` | No |
 | `awswan.com` | No |
@@ -4882,6 +4883,7 @@ Here's a list of public Fediverse services.
 | `cnuc.nu` | No |
 | `cnvrs.net` | No |
 | `co-mastdn.ga` | No |
+| `co-operations.fr` | No |
 | `co-shaoghal.net` | No |
 | `co.social` | No |
 | `co.ukfriend` | No |
@@ -5043,7 +5045,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -7277,6 +7279,7 @@ Here's a list of public Fediverse services.
 | `duarte.cl` | No |
 | `duarte.vg` | No |
 | `dubitaristes.fr` | No |
+| `dubnation.social` | Yes |
 | `dubost.name` | No |
 | `dubroy.com` | Yes |
 | `duc.gay` | No |
@@ -11397,6 +11400,7 @@ Here's a list of public Fediverse services.
 | `heath.cc` | Yes |
 | `heath.town` | No |
 | `heathanderson.net` | No |
+| `heathenarmy.net` | No |
 | `heathens.club` | No |
 | `heaton.dev` | Yes |
 | `heavensfeel.xyz` | No |
@@ -18779,6 +18783,7 @@ Here's a list of public Fediverse services.
 | `mutant.cz` | No |
 | `mutantfrog.com` | No |
 | `muthukrishna.social` | No |
+| `mutiny.today` | No |
 | `muto.me` | No |
 | `mutolo.social` | No |
 | `mutualdon.social` | Yes |
@@ -19442,6 +19447,7 @@ Here's a list of public Fediverse services.
 | `nettime.org` | No |
 | `nettohikari.com` | No |
 | `netvolante.jp` | No |
+| `netw0rk.io` | Yes |
 | `netwhood.online` | No |
 | `netwkr.net` | Yes |
 | `network47.net` | No |
@@ -22586,6 +22592,7 @@ Here's a list of public Fediverse services.
 | `prologic.blog` | No |
 | `prometheus.quest` | No |
 | `prometheus.systems` | No |
+| `promptfission.com` | No |
 | `proofgeist.com` | No |
 | `proofte.ch` | No |
 | `propaganda.global` | No |
@@ -23013,6 +23020,7 @@ Here's a list of public Fediverse services.
 | `r-sky.jp` | No |
 | `r-tekne.net` | No |
 | `r000t.com` | Yes |
+| `r00ted.com` | No |
 | `r00tshell.me` | No |
 | `r0r1.de` | No |
 | `r13w.social` | No |
@@ -23514,6 +23522,7 @@ Here's a list of public Fediverse services.
 | `reitrace.ga` | No |
 | `rejoiner.eu` | No |
 | `rekt.app` | No |
+| `rel.re` | No |
 | `relampagofurioso.com` | Yes |
 | `relapsus.com` | No |
 | `relate.social` | No |
@@ -30159,6 +30168,7 @@ Here's a list of public Fediverse services.
 | `vsta.org` | No |
 | `vt.social` | No |
 | `vtanu.live` | No |
+| `vtdon.com` | No |
 | `vtip.me` | Yes |
 | `vtopia.live` | No |
 | `vtube.community` | No |
@@ -32060,8 +32070,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,180 |
-| Normal | 24,837 |
+| Cloudflare | 7,181 |
+| Normal | 24,846 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
