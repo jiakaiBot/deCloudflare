@@ -263,6 +263,7 @@ Do not create new issue or we will close it as duplicate.
 | [Acid37504104@twitter](https://twitter.com/Acid37504104/status/1401849438776152064) | advertise |
 | [acme_subrosea@twitter](https://twitter.com/acme_subrosea/status/1381623108667207685) | advertise |
 | [actiniumcloud_@twitter](https://twitter.com/actiniumcloud_/status/1504512101678780420) | advertise |
+| [Actin_ca@twitter](https://twitter.com/Actin_ca/status/1599304934587248640) | advertise |
 | [activeboyz1990@twitter](https://twitter.com/activeboyz1990/status/1377228831694655489) | advertise |
 | [ActiveTK5929@twitter](https://twitter.com/ActiveTK5929/status/1580894930225885184) | advertise |
 | [activism.openworlds.info](https://activism.openworlds.info/) | by muting account status without warning & showed hostility |
