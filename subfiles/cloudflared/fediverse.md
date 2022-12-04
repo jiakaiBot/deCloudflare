@@ -28140,6 +28140,7 @@ Here's a list of public Fediverse services.
 | `tikirobot.net` | No |
 | `tikki.cloud` | No |
 | `tiksi.net` | No |
+| `tilde.green` | Yes |
 | `tilde.team` | No |
 | `tilde.website` | No |
 | `tilde.zone` | No |
@@ -32019,7 +32020,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,168 |
+| Cloudflare | 7,169 |
 | Normal | 24,808 |
 
 
