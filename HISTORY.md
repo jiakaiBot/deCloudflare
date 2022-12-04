@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-07: [MIA (Miami) on 2022-12-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5ms4prxgng22)
+- 2022-12-07: [CDG (Paris) on 2022-12-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/41ktmgrcxv64)
 - 2022-12-06: [ORD (Chicago) on 2022-12-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/5bxngbsm95fb)
 - 2022-12-05: [MUC (Munich) on 2022-12-05](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2l29ttfz8bdy)
 - 2022-12-06: [MUC (Munich) on 2022-12-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/r3zt7ryxmdg3)
