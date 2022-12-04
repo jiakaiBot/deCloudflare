@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,633 |
-| social | 2,713 |
+| social | 2,714 |
 | net | 2,439 |
 | org | 1,759 |
 | de | 1,596 |
@@ -24568,6 +24568,7 @@ Here's a list of public Fediverse services.
 | `schaeferit.de` | No |
 | `schaertl.me` | No |
 | `schafweide.org` | No |
+| `schalke.social` | No |
 | `scharner.me` | No |
 | `scharom.de` | No |
 | `schattenwe.lt` | No |
@@ -31639,6 +31640,7 @@ Here's a list of public Fediverse services.
 | `yunyun.moe` | Yes |
 | `yupgup.com` | No |
 | `yurec.online` | No |
+| `yuri.bond` | Yes |
 | `yuri.camp` | Yes |
 | `yuri.ro` | No |
 | `yurialbuquerque.dev` | No |
@@ -32020,8 +32022,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,169 |
-| Normal | 24,808 |
+| Cloudflare | 7,170 |
+| Normal | 24,809 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
