@@ -116,6 +116,7 @@ If Cloudflare leak your information or won't let you to connect to our servers, 
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-Cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | No | **Yes** | No |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-Cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-Cloudflare-plus) | No | **Yes** | No |
 | [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [ ? ](https://github.com/lilydjwg/cf-pop) | No | **Yes** | No |
+| [My Privacy DNS - Link Details](https://mypdns.org/infrastructure/mypdns-reporter/-/blob/master/client/addon.md#mypdns-link-details) | My Privacy DNS | [ ? ](https://mypdns.org/MypDNS/support/-/issues) | Ingen     | **Ja**     |  Ingen |
 
 - "Decentraleyes" can stop connection to "CDNJS (Cloudflare)".
 
