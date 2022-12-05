@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-08: [DEN (Denver) on 2022-12-08](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mvjww5v6zjf9)
 - 2022-12-12: [OTP (Bucharest) on 2022-12-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cr86hl16d430)
 - 2022-12-08: [STL (St. Louis) on 2022-12-08](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y8frjcnhfftb)
 - 2022-12-13: [AMS (Amsterdam) on 2022-12-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wwb7q9htnzxf)
