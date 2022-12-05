@@ -2426,6 +2426,7 @@ zhwp-afc-bot.toolforge.org
 191-uat.sn.cloud.ttc.kz
 adfs.tva.ca
 api.dev.turtleteach.com
+api.ticketpass.com.uy
 app.tbsmall.com
 assets.techbriefs.com
 auth.qa.tryspace.com
@@ -2438,6 +2439,7 @@ c3.travelguard.com
 cincodias-elpais-com.translate.goog
 cloud.taipeifubon.com.tw
 colonelcassad-livejournal-com.translate.goog
+controle.tecnolhar.com.br
 cpanel.thehatchingmethod.online
 cpcontacts.toshibaservicecenters.com
 demo.tnx.it
@@ -2452,18 +2454,25 @@ gironanoticies-com.translate.goog
 git.git.git.bitweave.ne63bkefu.top-discord.com
 gitlab.git.git.git.bitweave.ne63bkefu.top-discord.com
 guce.techcrunch.com
+hack-nikkei-com.translate.goog
 helpdesk.termotubos.com.br
+home.tokyo-gas.co.jp
 ichiba-faq-rakuten-net.translate.goog
 ide.temuco.cl
 igorchudov-substack-com.translate.goog
 integration.tomfinansman.com.tr
 istories-media.translate.goog
 katehon-com.translate.goog
+katzenklaue-blogspot-com.translate.goog
+keinpfusch-net.translate.goog
+kf.top-discord.com
 konkret24.tvn24.pl
 kurumsalsms.turktelekom.com.tr
+kw.tzembassy.go.tz
 lti.int.turnitin.com
 m.timesofindia.com
 mvlehti-net.translate.goog
+navinjaitlycoaching.trustedservicesdirect.com
 openapi.toastcam.com
 oujmmudh4zep65m3bps5dxdvjamawcklxbsv4ttagw5m6lxu-ipfs-dweb-link.translate.goog
 oxytrack.frontend.technegicsoftware.com
@@ -2484,7 +2493,6 @@ talossa.com
 tanax.co.jp
 tangerino.net
 taxrebatestoday.co.uk
-taxsevakendra.in
 tchadinfos.com
 tdrcsmerchant.com
 tech-universum.ru
@@ -2496,6 +2504,7 @@ techthing.co.uk
 techuggy.com
 techuseof.com
 tecniconstroi.pt
+tecnolhar.com.br
 teknologipulsa.top
 telecombloger.ru
 teleyal.blog
@@ -2504,6 +2513,7 @@ termcoord.eu
 terraburngiveback.org
 tester-museums48.ru
 tester.fi
+testrsa.nl
 testzentrum-berlin-brandenburg.de
 theatredram.ru
 thebalochistanpost.net
@@ -2519,8 +2529,10 @@ therealms.site
 thestingyvegan.com
 thetrustblog.com
 thevillagesalons.com
+thewwwthing.com
 thichyeu.xyz
 thisviewoflife.com
+thomasfgoodwin.com
 thongbaonganhang.com
 thongconghadong.com
 thot.life
@@ -2528,10 +2540,12 @@ thumuamaytinhcu.online
 thuoanhapple.com
 thuusbyus.nl
 ticketug.com
+timmis.uk
 tinybellbernedoodle.com
 tjene-nettpenger.com
 tk88bet.win
 tktclean.com
+todaytrends.makeup
 toiki.jp
 toio.io
 tolerantworms.com
@@ -2540,8 +2554,10 @@ torcbrain.de
 tortoiseshome.com
 toyota-lampung.id
 toyota.jp
+trackbot.live
 trackies.zone
 tradersfreedom.com
+traningslara.se
 transpride.de
 trez-entertainment.co.uk
 trikooba.es
@@ -2558,6 +2574,7 @@ turtlemaxstudio.com
 tvn24.pl
 txti.es
 verdadeufo-com-br.translate.goog
+vpn.transcelestial.dev
 webdisk.thehatchingmethod.online
 webmail.thehatchingmethod.online
 www-47news-jp.translate.goog
@@ -2597,7 +2614,9 @@ www.tdtnews.com
 www.technicalripon.com
 www.technologic.com.tr
 www.teddystakes.com
+www.terminal-boredom.com
 www.thanksusa.org
+www.the-unknown-movies.com
 www.theatre-edgar.com
 www.theatre-la-boussole.com
 www.theatre-ranelagh.com
@@ -2605,6 +2624,7 @@ www.theatredeverre.org
 www.thecentersquare.com
 www.thecleanbeautyboutique.com
 www.thedailystar.com
+www.thedailytimes.com
 www.theeskimosisters.com
 www.thefork.fr
 www.thegwpf.org
@@ -2615,6 +2635,7 @@ www.thenewstribune.com
 www.thepacker.com
 www.thepetsworkshop.com.sg
 www.thephoenix.ie
+www.thepoetmagazine.org
 www.theroar.com.au
 www.thespruceeats.com
 www.thetodayguide.com
@@ -2626,6 +2647,7 @@ www.three.fm
 www.thryvteamchatsupport.info
 www.thv11.com
 www.ticket-fast.icu
+www.ticket-seaport.io
 www.ticketmastereventos.shop
 www.ticketug.com
 www.tiertherapie-komaromi.com
@@ -2645,6 +2667,8 @@ www.topmagazineblog.com
 www.toronto.ca
 www.totalwine.com
 www.tourismtoday.gr
+www.trackbot.live
+www.trackbot.online
 www.trackies.zone
 www.tracykidder.com
 www.transvent.com.au
