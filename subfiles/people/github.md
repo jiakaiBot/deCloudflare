@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Hybrid Anlaysis - SSL handshake failure](https://github.com/outflanknl/RedELK/issues/286)
 - [Purge create problems (mqtt disconnected)](https://github.com/home-assistant/core/issues/83253)
 - [Calling Profile for specific user results in ErrorCode 1618 : DestinyUnexpectedError](https://github.com/Bungie-net/api/issues/1738)
 - [admin can't create a user if Notifications are enabled in default group](https://github.com/humhub/humhub/issues/5967)
