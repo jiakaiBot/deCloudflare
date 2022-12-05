@@ -27685,6 +27685,7 @@ Here's a list of public Fediverse services.
 | `terrible.graphics` | No |
 | `terrible.place` | No |
 | `terribly.social` | No |
+| `terryiscool160.xyz` | Yes |
 | `terryx.com` | Yes |
 | `terusid.com` | No |
 | `tesaguri.club` | No |
@@ -32192,7 +32193,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,215 |
+| Cloudflare | 7,216 |
 | Normal | 24,934 |
 
 
