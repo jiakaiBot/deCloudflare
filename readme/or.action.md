@@ -125,6 +125,7 @@ AFAIK, ଶୂନ୍ୟ ୱେବସାଇଟ୍ ଏହା କରନ୍ତୁ | �
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ନା     | **ହଁ**     |  ନା |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | ନା     | **ହଁ**     |  ନା |
 | [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [ ? ](https://github.com/lilydjwg/cf-pop) | ନା     | **ହଁ**     |  ନା |
+| [My Privacy DNS - Link Details](https://mypdns.org/infrastructure/mypdns-reporter/-/blob/master/client/addon.md#mypdns-link-details) | My Privacy DNS | [ ? ](https://mypdns.org/MypDNS/support/-/issues) | Ingen     | **Ja**     |  Ingen |
 
 
 - "ଡିସେଣ୍ଟ୍ରାଲେସ୍" "CDNJS (କ୍ଲାଉଡ୍ ଫ୍ଲାର୍)" ସହିତ ସଂଯୋଗ ବନ୍ଦ କରିପାରିବ |
