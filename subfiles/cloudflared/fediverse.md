@@ -27,10 +27,10 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,647 |
-| social | 2,722 |
+| social | 2,723 |
 | net | 2,447 |
 | org | 1,761 |
-| de | 1,598 |
+| de | 1,600 |
 
 
 - Mastodon, Pleroma, etc
@@ -2875,7 +2875,7 @@ Here's a list of public Fediverse services.
 | `bhh.sh` | No |
 | `bhre.social` | No |
 | `bhrnd.fun` | No |
-| `bhscs2.club` | Yes |
+| `bhscs2.club` | No |
 | `bhsnw.com` | Yes |
 | `bi119ate5hxk.net` | Yes |
 | `bian-fu.net` | No |
@@ -9263,6 +9263,7 @@ Here's a list of public Fediverse services.
 | `forrum.ro` | No |
 | `forsaken.technology` | No |
 | `forsakenhorizon.com` | No |
+| `forster.pro` | No |
 | `forstner.dev` | No |
 | `forsud.be` | No |
 | `fort-da.xyz` | No |
@@ -10113,6 +10114,7 @@ Here's a list of public Fediverse services.
 | `gbarbieripederiva.com.ar` | Yes |
 | `gbbowers.com` | No |
 | `gbenjamin.fr` | No |
+| `gbg.social` | No |
 | `gbl08ma.com` | No |
 | `gbnet.net` | No |
 | `gboaonline.org` | No |
@@ -10310,6 +10312,7 @@ Here's a list of public Fediverse services.
 | `getindor.com` | No |
 | `getjupiter.com` | Yes |
 | `getloci.com` | No |
+| `getoote.de` | No |
 | `getoutside.ca` | No |
 | `getprivacy.it` | No |
 | `getpterotype.com` | No |
@@ -11383,6 +11386,7 @@ Here's a list of public Fediverse services.
 | `hd-dn.com` | No |
 | `hd0.eu` | Yes |
 | `hda.zone` | No |
+| `hdev.im` | No |
 | `hdez.nl` | No |
 | `headcannon.xyz` | Yes |
 | `headchecks.club` | No |
@@ -14133,6 +14137,7 @@ Here's a list of public Fediverse services.
 | `kiiro.dev` | No |
 | `kijak.co` | No |
 | `kijowski.dev` | No |
+| `kijy.de` | Yes |
 | `kikes.xyz` | No |
 | `kiklhorn.cz` | Yes |
 | `kikoune.fr` | No |
@@ -18559,6 +18564,7 @@ Here's a list of public Fediverse services.
 | `mstdn.fr` | No |
 | `mstdn.fukuoka.jp` | No |
 | `mstdn.fun` | No |
+| `mstdn.games` | No |
 | `mstdn.gifu.jp` | No |
 | `mstdn.global` | No |
 | `mstdn.group` | No |
@@ -19076,7 +19082,7 @@ Here's a list of public Fediverse services.
 | `nanasi-apps.xyz` | Yes |
 | `nanax.fr` | No |
 | `nanbon.eu` | No |
-| `nancengka.com` | No |
+| `nancengka.com` | Yes |
 | `nancy.social` | No |
 | `nand.tk` | No |
 | `nandon.cc` | No |
@@ -19339,7 +19345,7 @@ Here's a list of public Fediverse services.
 | `neophili.ac` | No |
 | `neos.social` | No |
 | `neosam.dev` | No |
-| `neosocial.xyz` | Yes |
+| `neosocial.xyz` | No |
 | `neotag.net` | No |
 | `neotokyo.dev` | No |
 | `neovibe.app` | No |
@@ -22711,6 +22717,7 @@ Here's a list of public Fediverse services.
 | `puck.moe` | No |
 | `puckett.contact` | Yes |
 | `puckipedia.com` | No |
+| `puczat.pl` | No |
 | `pud.im` | No |
 | `puddle.farm` | No |
 | `puddle.town` | Yes |
@@ -32082,7 +32089,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,182 |
-| Normal | 24,856 |
+| Normal | 24,863 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
