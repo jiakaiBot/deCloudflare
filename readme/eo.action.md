@@ -11,13 +11,21 @@ Danke al lia riĉa paĉjo, [John B. Prince](http://web.archive.org/web/200810021
 Princo instruis Interretan leĝon kaj estis specialisto pri kontraŭ-spamaj leĝoj kaj Fraŭdo-esploroj.
 
 
-"*I’d suggest this was armchair analysis by kids – it’s hard to take seriously.*" [t](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis)
+> I’d suggest this was armchair analysis by kids – it’s hard to take seriously.
 
-"*That was simply unfounded paranoia, pretty big difference.*"  [t](https://twitter.com/xxdesmus/status/992757936123359233)
+― [Alex Hern](https://www.theguardian.com/technology/2015/nov/19/cloudflare-accused-by-anonymous-helping-isis) ([@alexhern](https://twitter.com/alexhern))
 
-"*We also work with Interpol and other non-US entities*" [t](https://twitter.com/eastdakota/status/1203028504184360960)
+> That was simply unfounded paranoia, pretty big difference.
 
-"*Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.* 🍿" [t](https://twitter.com/eastdakota/status/1273277839102656515)
+― [Justin](https://web.archive.org/web/20200619211926/https://twitter.com/xxdesmus/status/992757936123359233) ([@xxdesmus](https://twitter.com/xxdesmus))
+
+> We also work with Interpol and other non-US entities
+
+― [Matthew Prince](https://twitter.com/eastdakota/status/1203028504184360960) ([@eastdakota](https://twitter.com/eastdakota))
+
+> Watching hacker skids on Github squabble about trying to bypass Cloudflare's new anti-bot systems continues to be my daily amusement.
+
+― [Matthew Prince](https://twitter.com/eastdakota/status/1273277839102656515) ([@eastdakota](https://twitter.com/eastdakota))
 
 
 ![](../image/whoismp.jpg)
@@ -125,7 +133,7 @@ Se Cloudflare likas viajn informojn aŭ ne permesas vin konekti al niaj serviloj
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ne     | **Jes**     |  Ne |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ne     | **Jes**     |  Ne |
 | [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [ ? ](https://github.com/lilydjwg/cf-pop) | Ne     | **Jes**     |  Ne |
-| [My Privacy DNS - Link Details](https://mypdns.org/infrastructure/mypdns-reporter/-/blob/master/client/addon.md#mypdns-link-details) | My Privacy DNS | [ ? ](https://mypdns.org/MypDNS/support/-/issues) | Ingen     | **Ja**     |  Ingen |
+| [My Privacy DNS - Link Details](https://mypdns.org/infrastructure/mypdns-reporter/-/blob/master/client/addon.md#mypdns-link-details) | My Privacy DNS | [ ? ](https://mypdns.org/MypDNS/support/-/issues) | Ne     | **Jes**     |  Ne |
 
 
 - "Decentraleyes" povas ĉesigi konekton al "CDNJS (Cloudflare)".
