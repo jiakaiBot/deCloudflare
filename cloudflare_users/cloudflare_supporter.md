@@ -6961,6 +6961,7 @@ Do not create new issue or we will close it as duplicate.
 | [newmanmarvy@twitter](https://twitter.com/newmanmarvy/status/1408164963621933068) | advertise |
 | [newRigger72@twitter](https://twitter.com/newRigger72/status/1397210217872494601) | advertise |
 | [NewsRoo81265004@twitter](https://twitter.com/NewsRoo81265004/status/1405600643323138048) | advertise |
+| [NewsWyer@twitter](https://twitter.com/NewsWyer/status/1599852749935366145) | advertise |
 | [news_scraper@twitter](https://twitter.com/news_scraper/status/1370141469613391875) | advertise |
 | [new_techo@twitter](https://twitter.com/new_techo/status/1588558475851755520) | advertise |
 | [NextAds1@twitter](https://twitter.com/NextAds1/status/1555508312602722304) | advertise |
