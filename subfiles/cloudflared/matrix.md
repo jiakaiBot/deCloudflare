@@ -30,7 +30,6 @@ Here's a list of public Matrix services.
 | asra.gr | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
-| bancino.net | No |
 | breeze.town | No |
 | buyvm.chat | No |
 | matrix.bytes4u.de | No |
@@ -49,7 +48,6 @@ Here's a list of public Matrix services.
 | matrix.crossbach.de | No |
 | matrix.data.haus | No |
 | im.deuxfleurs.fr | No |
-| matrix.duesen.chat | No |
 | matrix.envs.net | No |
 | exarius.org | No |
 | matrix.fachschaften.org | No |
@@ -128,7 +126,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 17 |
-| Normal | 83 |
+| Normal | 81 |
 
 
-### 17% of public Matrix services are using Cloudflare.
+### 17.3% of public Matrix services are using Cloudflare.
