@@ -125,6 +125,7 @@ Cloudflare သည်သင်၏သတင်းအချက်အလက်မျ
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
 | [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [ ? ](https://github.com/lilydjwg/cf-pop) | မဟုတ်ဘူး     | **ဟုတ်တယ်**     |  မဟုတ်ဘူး |
+| [My Privacy DNS - Link Details](https://mypdns.org/infrastructure/mypdns-reporter/-/blob/master/client/addon.md#mypdns-link-details) | My Privacy DNS | [ ? ](https://mypdns.org/MypDNS/support/-/issues) | Ingen     | **Ja**     |  Ingen |
 
 
 - "Decentraleyes" သည် "CDNJS (Cloudflare)" နှင့်ဆက်သွယ်မှုကိုရပ်တန့်နိုင်သည်။
