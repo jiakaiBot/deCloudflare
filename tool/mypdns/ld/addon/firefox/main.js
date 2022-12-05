@@ -1,5 +1,6 @@
 let timr, memcache = {},
    forcePurge = false,
+   withCloudflare = false,
    apiHost = ['https://karma.crimeflare.eu.org:1984', 'http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion'],
    apiBase = apiHost[0];
 function get_matrix_cat(domain) {
@@ -20,7 +21,7 @@ function get_matrix_cat(domain) {
                headers: {
                   'Content-Type': 'application/x-www-form-urlencoded'
                },
-               body: 'f=' + domain
+               body: (withCloudflare ? 'wcf=1&' : '') + 'f=' + domain
             }).then(r => r.json()).then(r => {
                if (r && r.length == 2) {
                   let m = {
@@ -45,7 +46,7 @@ function get_matrix_cat(domain) {
 }
 function forget_cache(x) {
    if (x) {
-      browser.storage.local.get(['opt00', 'opt01', 'opt02', 'opt03', 'opt04', 'lastU', 'lastV']).then(g => {
+      browser.storage.local.get(['opt00', 'opt01', 'opt02', 'opt03', 'opt04', 'opt05', 'lastU', 'lastV']).then(g => {
          browser.storage.local.clear();
          memcache = {};
          browser.storage.local.set({
@@ -64,6 +65,9 @@ function forget_cache(x) {
             'opt04': (g.opt04 == 'y' ? 'y' : 'n')
          });
          browser.storage.local.set({
+            'opt05': (g.opt05 == 'y' ? 'y' : 'n')
+         });
+         browser.storage.local.set({
             'lastU': Math.round((new Date()).getTime() / 1000)
          });
          browser.storage.local.set({
@@ -76,7 +80,7 @@ function forget_cache(x) {
       forget_cache(true);
    }, 1814400000);
 }
-browser.storage.local.get(['lastU', 'lastV', 'opt04']).then(g => {
+browser.storage.local.get(['lastU', 'lastV', 'opt04', 'opt05']).then(g => {
    if (g.lastU == undefined || Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 1814400 || g.lastV != (browser.runtime.getManifest()).version || forcePurge) {
       forget_cache(true);
    } else {
@@ -84,6 +88,9 @@ browser.storage.local.get(['lastU', 'lastV', 'opt04']).then(g => {
    }
    if (g.opt04 == 'y') {
       apiBase = apiHost[1];
+   }
+   if (g.opt05 == 'y') {
+      withCloudflare = true;
    }
 });
 browser.runtime.onMessage.addListener((requests, sender, sendResponse) => {
@@ -98,6 +105,14 @@ browser.runtime.onMessage.addListener((requests, sender, sendResponse) => {
       }
       if (requests == 'abase-n') {
          apiBase = apiHost[0];
+         return;
+      }
+      if (requests == 'withcf-y') {
+         withCloudflare = true;
+         return;
+      }
+      if (requests == 'withcf-n') {
+         withCloudflare = false;
          return;
       }
       requests.forEach(request => {
