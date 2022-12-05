@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,662 |
-| social | 2,732 |
-| net | 2,454 |
+| com | 4,663 |
+| social | 2,733 |
+| net | 2,455 |
 | org | 1,765 |
 | de | 1,605 |
 
@@ -7649,6 +7649,7 @@ Here's a list of public Fediverse services.
 | `eggy.app` | Yes |
 | `eggz.tv` | No |
 | `egirl.site` | Yes |
+| `egirl.social` | No |
 | `egirls.gay` | No |
 | `eglo.ga` | No |
 | `egotrip.me` | No |
@@ -16311,6 +16312,7 @@ Here's a list of public Fediverse services.
 | `mai.nz` | Yes |
 | `maia.wtf` | No |
 | `maiadereva.net` | No |
+| `maid.army` | No |
 | `maier.social` | No |
 | `maik.ch` | No |
 | `maik.cloud` | No |
@@ -19443,6 +19445,7 @@ Here's a list of public Fediverse services.
 | `nerdnightlax.com` | Yes |
 | `nerdorium.org` | No |
 | `nerdout.cc` | No |
+| `nerdout.online` | No |
 | `nerdpol.ch` | No |
 | `nerdpol.ovh` | No |
 | `nerdpower.cloud` | Yes |
@@ -22916,6 +22919,7 @@ Here's a list of public Fediverse services.
 | `qatuno.de` | No |
 | `qaz.red` | No |
 | `qc.to` | No |
+| `qca.net` | No |
 | `qcurtius.com` | No |
 | `qcx.io` | Yes |
 | `qdnx.org` | No |
@@ -25365,6 +25369,7 @@ Here's a list of public Fediverse services.
 | `shotsfi.red` | No |
 | `shoujo.xyz` | Yes |
 | `shouldagoneoffroad.com` | No |
+| `shouldibuyahorse.com` | No |
 | `showoffto.us` | No |
 | `showyou41.win` | Yes |
 | `shpakovsky.ru` | No |
@@ -32188,7 +32193,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,215 |
-| Normal | 24,929 |
+| Normal | 24,934 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
