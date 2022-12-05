@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,649 |
-| social | 2,725 |
+| social | 2,726 |
 | net | 2,449 |
 | org | 1,763 |
 | de | 1,601 |
@@ -1462,7 +1462,6 @@ Here's a list of public Fediverse services.
 | `anitwitter.com` | No |
 | `anitwitter.moe` | Yes |
 | `anivar.in` | Yes |
-| `aniyomechan.jp` | No |
 | `anjara.eu` | No |
 | `anji.nl` | No |
 | `anjos.red` | No |
@@ -13296,7 +13295,6 @@ Here's a list of public Fediverse services.
 | `jetnet.co.uk` | No |
 | `jetnet.social` | No |
 | `jetspire.com` | No |
-| `jetstream.watch` | No |
 | `jeunesse.media` | No |
 | `jeuseweeder.xyz` | No |
 | `jeuxthemes.ch` | No |
@@ -14041,7 +14039,6 @@ Here's a list of public Fediverse services.
 | `kermitmurray.com` | No |
 | `kern.pm` | No |
 | `kern.social` | No |
-| `kernel-lithium.xyz` | No |
 | `kernel.org` | Yes |
 | `kernel.social` | No |
 | `kernel32.de` | No |
@@ -23285,6 +23282,7 @@ Here's a list of public Fediverse services.
 | `rants.au` | Yes |
 | `rants.org` | No |
 | `rantz.xyz` | No |
+| `rap.social` | No |
 | `rape.town` | No |
 | `rapefeminists.network` | No |
 | `rapemeat.shop` | No |
@@ -24264,7 +24262,6 @@ Here's a list of public Fediverse services.
 | `rylees.net` | Yes |
 | `rym.social` | No |
 | `rymnd.net` | Yes |
-| `ryne.moe` | No |
 | `rynftz.gr` | No |
 | `ryo-saeba.xyz` | No |
 | `ryona.agency` | Yes |
@@ -32121,7 +32118,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,190 |
-| Normal | 24,887 |
+| Normal | 24,884 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
