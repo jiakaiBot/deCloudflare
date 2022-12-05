@@ -20365,6 +20365,7 @@ Here's a list of public Fediverse services.
 | `oa-dev.com` | No |
 | `oak.li` | Yes |
 | `oaks.rocks` | No |
+| `oakver.online` | No |
 | `oalm.gub.uy` | No |
 | `oar-online.uk` | No |
 | `oark.org` | No |
@@ -21347,6 +21348,7 @@ Here's a list of public Fediverse services.
 | `parsec.social` | No |
 | `partecipa.digital` | No |
 | `parti-science.africa` | No |
+| `partiarazem.pl` | Yes |
 | `partipirate.org` | No |
 | `partnerwerk.de` | No |
 | `partofthething.com` | No |
@@ -25502,7 +25504,7 @@ Here's a list of public Fediverse services.
 | `sirousa.me` | No |
 | `sirrahd.com` | Yes |
 | `sirscythe.net` | Yes |
-| `siru.tokyo` | No |
+| `siru.tokyo` | Yes |
 | `sirward.com` | No |
 | `sisao.de` | No |
 | `sisters.pink` | No |
@@ -32129,7 +32131,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,194 |
+| Cloudflare | 7,196 |
 | Normal | 24,892 |
 
 
