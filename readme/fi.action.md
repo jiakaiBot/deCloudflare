@@ -125,6 +125,7 @@ Jos Cloudflare vuotaa tietosi tai ei anna sinun muodostaa yhteyttä palvelimille
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Ei     | **Joo**     |  Ei |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Ei     | **Joo**     |  Ei |
 | [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [ ? ](https://github.com/lilydjwg/cf-pop) | Ei     | **Joo**     |  Ei |
+| [My Privacy DNS - Link Details](https://mypdns.org/infrastructure/mypdns-reporter/-/blob/master/client/addon.md#mypdns-link-details) | My Privacy DNS | [ ? ](https://mypdns.org/MypDNS/support/-/issues) | Ingen     | **Ja**     |  Ingen |
 
 
 - "Decentraleyes" voi lopettaa yhteyden "CDNJS (Cloudflare)" -palveluun.
