@@ -28,8 +28,8 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,649 |
 | social | 2,725 |
-| net | 2,448 |
-| org | 1,762 |
+| net | 2,449 |
+| org | 1,763 |
 | de | 1,601 |
 
 
@@ -12041,6 +12041,7 @@ Here's a list of public Fediverse services.
 | `html5accessibility.com` | No |
 | `htp.live` | No |
 | `huaren.social` | No |
+| `hubbr.org` | No |
 | `hubbz.de` | No |
 | `huber-67.fr` | No |
 | `hubkaplan.com` | Yes |
@@ -14701,6 +14702,7 @@ Here's a list of public Fediverse services.
 | `kuscheltierdoktor.de` | No |
 | `kusoneko.moe` | No |
 | `kusu.icu` | Yes |
+| `kuu.moe` | Yes |
 | `kuude.re` | No |
 | `kuukkanen.net` | Yes |
 | `kuylar.dev` | Yes |
@@ -17533,6 +17535,7 @@ Here's a list of public Fediverse services.
 | `meshed.cloud` | No |
 | `meshedinsights.com` | No |
 | `meshspace.de` | No |
+| `meskis.net` | No |
 | `mesomer.com` | Yes |
 | `mesozoik.cloud` | No |
 | `mess.casa` | Yes |
@@ -20339,7 +20342,7 @@ Here's a list of public Fediverse services.
 | `nzbr.de` | Yes |
 | `nzen.ski` | No |
 | `nzoss.nz` | No |
-| `nzserver.co` | No |
+| `nzserver.co` | Yes |
 | `nzsocial.net` | No |
 | `nzws.me` | Yes |
 | `o-k-i.net` | Yes |
@@ -32117,8 +32120,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,188 |
-| Normal | 24,886 |
+| Cloudflare | 7,190 |
+| Normal | 24,887 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
