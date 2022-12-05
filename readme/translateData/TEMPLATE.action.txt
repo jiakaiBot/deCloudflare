@@ -117,14 +117,15 @@ http://crimeflare.eu.org
 
 | {%actnl0095%} | {%actnl0096%} | {%actnl0097%} | {%actnl0098%} | {%actnl0099%} | Chrome |
 | -------- | -------- | -------- | -------- | -------- | -------- |
-| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **{%tftfyes%}**     | **{%tftfyes%}**     |  **{%tftfyes%}** |
-| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | {%tftfno%}     | **{%tftfyes%}**     |  **{%tftfyes%}** |
-| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | {%tftfno%}     | **{%tftfyes%}**     |  **{%tftfyes%}** |
 | [Block Cloudflare MITM Attack](https://trac.torproject.org/projects/tor/attachment/ticket/24351/block_cloudflare_mitm_attack-1.0.14.1-an%2Bfx.xpi)<br>[**DELETED BY TOR PROJECT**](../HISTORY.md) | nullius | [ ? ](../tool/block_cloudflare_mitm_fx), [Link](http://crimeflare.eu.org/) | **{%tftfyes%}**     | **{%tftfyes%}**     |  {%tftfno%} |
-| [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **{%tftfyes%}**     | **{%tftfyes%}**     |  {%tftfno%} |
+| [Bloku Cloudflaron MITM-Atakon](../subfiles/about.bcma.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | **{%tftfyes%}**     | **{%tftfyes%}**     |  **{%tftfyes%}** |
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | {%tftfno%}     | **{%tftfyes%}**     |  {%tftfno%} |
+| [My Privacy DNS - Link Details](https://mypdns.org/infrastructure/mypdns-reporter/-/blob/master/client/addon.md#mypdns-link-details) | My Privacy DNS | [ ? ](https://mypdns.org/MypDNS/support/-/issues) | **{%tftfno%}**     | **{%tftfyes%}**     |  **{%tftfno%}** |
+| [TPRB](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | Sw | [ ? ](http://sw.nnpaefp7pkadbxxkhz2agtbv2a4g5sgo2fbmv3i7czaua354334uqqad.onion/) | **{%tftfyes%}**     | **{%tftfyes%}**     |  {%tftfno%} |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | {%tftfno%}     | **{%tftfyes%}**     |  {%tftfno%} |
 | [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [ ? ](https://github.com/lilydjwg/cf-pop) | {%tftfno%}     | **{%tftfyes%}**     |  {%tftfno%} |
+| [Ĉu ligoj estas vundeblaj al MITM-atako?](../subfiles/about.ismm.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | {%tftfno%}     | **{%tftfyes%}**     |  **{%tftfyes%}** |
+| [Ĉu ĉi tiuj ligoj blokos Tor-uzanton?](../subfiles/about.isat.md) | #Addon | [ ? ](http://crimeflare.eu.org/) | {%tftfno%}     | **{%tftfyes%}**     |  **{%tftfyes%}** |
 
 
 - {%actnl0039%}
