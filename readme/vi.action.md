@@ -125,6 +125,7 @@ Nếu Cloudflare làm rò rỉ thông tin của bạn hoặc không cho phép b�
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Không     | **Đúng**     |  Không |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Không     | **Đúng**     |  Không |
 | [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [ ? ](https://github.com/lilydjwg/cf-pop) | Không     | **Đúng**     |  Không |
+| [My Privacy DNS - Link Details](https://mypdns.org/infrastructure/mypdns-reporter/-/blob/master/client/addon.md#mypdns-link-details) | My Privacy DNS | [ ? ](https://mypdns.org/MypDNS/support/-/issues) | Ingen     | **Ja**     |  Ingen |
 
 
 - "Decentraleyes" có thể dừng kết nối với "CDNJS (Cloudflare)".
