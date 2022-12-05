@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,652 |
+| com | 4,653 |
 | social | 2,727 |
 | net | 2,451 |
 | org | 1,764 |
@@ -5054,7 +5054,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -9602,6 +9602,7 @@ Here's a list of public Fediverse services.
 | `frinkel.moe` | No |
 | `frinkel.tech` | Yes |
 | `frinsocial.uk` | Yes |
+| `frinx.online` | No |
 | `frischesicht.de` | No |
 | `friskypaws.social` | Yes |
 | `friskywhiskersfiction.online` | No |
@@ -13299,6 +13300,7 @@ Here's a list of public Fediverse services.
 | `jetnet.co.uk` | No |
 | `jetnet.social` | No |
 | `jetspire.com` | No |
+| `jetstream.watch` | No |
 | `jeunesse.media` | No |
 | `jeuseweeder.xyz` | No |
 | `jeuxthemes.ch` | No |
@@ -14043,6 +14045,7 @@ Here's a list of public Fediverse services.
 | `kermitmurray.com` | No |
 | `kern.pm` | No |
 | `kern.social` | No |
+| `kernel-lithium.xyz` | No |
 | `kernel.org` | Yes |
 | `kernel.social` | No |
 | `kernel32.de` | No |
@@ -18213,6 +18216,7 @@ Here's a list of public Fediverse services.
 | `mone.dev` | No |
 | `monedalliure.org` | No |
 | `monero.wf` | No |
+| `monerokon.com` | Yes |
 | `mong.chat` | No |
 | `monga.site` | No |
 | `mongkok.online` | Yes |
@@ -24271,6 +24275,7 @@ Here's a list of public Fediverse services.
 | `rylees.net` | Yes |
 | `rym.social` | No |
 | `rymnd.net` | Yes |
+| `ryne.moe` | No |
 | `rynftz.gr` | No |
 | `ryo-saeba.xyz` | No |
 | `ryona.agency` | Yes |
@@ -32131,8 +32136,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,196 |
-| Normal | 24,892 |
+| Cloudflare | 7,198 |
+| Normal | 24,895 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
