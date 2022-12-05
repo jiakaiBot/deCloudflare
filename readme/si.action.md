@@ -125,6 +125,7 @@ Cloudflare ඔබේ තොරතුරු කාන්දු වුවහොත
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | නැත     | **ඔව්**     |  නැත |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | නැත     | **ඔව්**     |  නැත |
 | [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [ ? ](https://github.com/lilydjwg/cf-pop) | නැත     | **ඔව්**     |  නැත |
+| [My Privacy DNS - Link Details](https://mypdns.org/infrastructure/mypdns-reporter/-/blob/master/client/addon.md#mypdns-link-details) | My Privacy DNS | [ ? ](https://mypdns.org/MypDNS/support/-/issues) | Ingen     | **Ja**     |  Ingen |
 
 
 - "ඩෙසෙන්ට්රේලීස්" හට "සීඩීඑන්ජේඑස් (ක්ලවුඩ්ෆ්ලේර්)" සමඟ සම්බන්ධතාවය නැවැත්විය හැකිය.
