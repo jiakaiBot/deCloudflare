@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Hybrid Analysis - error handling around max API hits](https://github.com/outflanknl/RedELK/issues/285)
 - [Hybrid Anlaysis - SSL handshake failure](https://github.com/outflanknl/RedELK/issues/286)
 - [Purge create problems (mqtt disconnected)](https://github.com/home-assistant/core/issues/83253)
 - [Calling Profile for specific user results in ErrorCode 1618 : DestinyUnexpectedError](https://github.com/Bungie-net/api/issues/1738)
