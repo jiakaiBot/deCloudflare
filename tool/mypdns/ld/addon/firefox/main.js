@@ -1,6 +1,7 @@
 let timr, memcache = {},
    forcePurge = false,
-   apiurl = 'https://karma.crimeflare.eu.org:1984/api/mypdns/cat/';
+   apiHost = ['https://karma.crimeflare.eu.org:1984', 'http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion'],
+   apiBase = apiHost[0];
 function get_matrix_cat(domain) {
    if (memcache[domain]) {
       return new Promise((g, b) => {
@@ -13,7 +14,7 @@ function get_matrix_cat(domain) {
             memcache[domain] = c[domain];
             g(memcache[domain]);
          } else {
-            fetch(apiurl, {
+            fetch(apiBase + '/api/mypdns/cat/', {
                method: 'POST',
                mode: 'cors',
                headers: {
@@ -44,7 +45,7 @@ function get_matrix_cat(domain) {
 }
 function forget_cache(x) {
    if (x) {
-      browser.storage.local.get(['opt00', 'opt01', 'opt02', 'opt03', 'lastU', 'lastV']).then(g => {
+      browser.storage.local.get(['opt00', 'opt01', 'opt02', 'opt03', 'opt04', 'lastU', 'lastV']).then(g => {
          browser.storage.local.clear();
          memcache = {};
          browser.storage.local.set({
@@ -60,6 +61,9 @@ function forget_cache(x) {
             'opt03': (g.opt03 == 'y' ? 'y' : 'n')
          });
          browser.storage.local.set({
+            'opt04': (g.opt04 == 'y' ? 'y' : 'n')
+         });
+         browser.storage.local.set({
             'lastU': Math.round((new Date()).getTime() / 1000)
          });
          browser.storage.local.set({
@@ -72,17 +76,28 @@ function forget_cache(x) {
       forget_cache(true);
    }, 1814400000);
 }
-browser.storage.local.get(['lastU', 'lastV']).then(g => {
+browser.storage.local.get(['lastU', 'lastV', 'opt04']).then(g => {
    if (g.lastU == undefined || Math.abs(Math.round((new Date()).getTime() / 1000) - g.lastU) > 1814400 || g.lastV != (browser.runtime.getManifest()).version || forcePurge) {
       forget_cache(true);
    } else {
       forget_cache(false);
+   }
+   if (g.opt04 == 'y') {
+      apiBase = apiHost[1];
    }
 });
 browser.runtime.onMessage.addListener((requests, sender, sendResponse) => {
    if (requests) {
       if (requests === 'clear') {
          forget_cache(true);
+         return;
+      }
+      if (requests == 'abase-y') {
+         apiBase = apiHost[1];
+         return;
+      }
+      if (requests == 'abase-n') {
+         apiBase = apiHost[0];
          return;
       }
       requests.forEach(request => {
