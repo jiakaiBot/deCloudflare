@@ -20224,6 +20224,7 @@ Here's a list of public Fediverse services.
 | `nullself.pw` | No |
 | `nullsense.net` | No |
 | `nullspace.ie` | No |
+| `nulltea.cc` | Yes |
 | `nulltrading.com` | No |
 | `nullwhere.social` | No |
 | `nullzone.fr` | No |
@@ -24009,7 +24010,7 @@ Here's a list of public Fediverse services.
 | `rosariotech.com.br` | No |
 | `rosaryfaith.com` | No |
 | `rosehip.moe` | Yes |
-| `rosematcha.party` | No |
+| `rosematcha.party` | Yes |
 | `rosemont.cloud` | Yes |
 | `rosenberg-watt.com` | No |
 | `roshless.me` | No |
@@ -32080,8 +32081,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,180 |
-| Normal | 24,857 |
+| Cloudflare | 7,182 |
+| Normal | 24,856 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
