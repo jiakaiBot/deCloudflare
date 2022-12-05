@@ -31661,6 +31661,7 @@ Here's a list of public Fediverse services.
 | `ykzts.technology` | No |
 | `yl.ms` | No |
 | `ylan.page` | No |
+| `ymkml.online` | No |
 | `ymn.info` | No |
 | `ymsdrive.com` | No |
 | `yncrypt.net` | Yes |
@@ -32187,7 +32188,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,215 |
-| Normal | 24,928 |
+| Normal | 24,929 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
