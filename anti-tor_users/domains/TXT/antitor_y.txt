@@ -276,6 +276,7 @@ extension.yoopick.com
 inbank.yofin.ru
 market.yandex.ru
 msacs.yrgcareitsupport.org
+safeway.yahia.fr
 sig-inbank.yofin.ru
 sta.api.youatcollege.com
 www.bank.iefinance.go.yj.fr
@@ -293,3 +294,4 @@ yaidans.com
 yemenembassy.de
 yorkplacemusicalsalon.ca
 yoursafestinvestment.com
+yuyuyu.yutaroblog.org
