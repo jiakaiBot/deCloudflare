@@ -125,6 +125,7 @@ AFAIK, ಶೂನ್ಯ ವೆಬ್‌ಸೈಟ್ ಇದನ್ನು ಮಾಡ�
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | ಇಲ್ಲ     | **ಹೌದು**     |  ಇಲ್ಲ |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | ಇಲ್ಲ     | **ಹೌದು**     |  ಇಲ್ಲ |
 | [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [ ? ](https://github.com/lilydjwg/cf-pop) | ಇಲ್ಲ     | **ಹೌದು**     |  ಇಲ್ಲ |
+| [My Privacy DNS - Link Details](https://mypdns.org/infrastructure/mypdns-reporter/-/blob/master/client/addon.md#mypdns-link-details) | My Privacy DNS | [ ? ](https://mypdns.org/MypDNS/support/-/issues) | Ingen     | **Ja**     |  Ingen |
 
 
 - "ಡಿಸೆಂಟ್ರಾಲೀಸ್" "ಸಿಡಿಎನ್ಜೆಎಸ್ (ಕ್ಲೌಡ್‌ಫ್ಲೇರ್)" ಗೆ ಸಂಪರ್ಕವನ್ನು ನಿಲ್ಲಿಸಬಹುದು.
