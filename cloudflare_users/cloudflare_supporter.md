@@ -1772,6 +1772,7 @@ Do not create new issue or we will close it as duplicate.
 | [CHEKUTH66047936@twitter](https://twitter.com/CHEKUTH66047936/status/1401783579168763907) | advertise |
 | [ChelleV60@twitter](https://twitter.com/ChelleV60/status/1553220253760602112) | advertise |
 | [Chelle_n_Lulu@twitter](https://twitter.com/Chelle_n_Lulu/status/1596628650853797888) | advertise |
+| [chelle_yah@twitter](https://twitter.com/chelle_yah/status/1599652481083969536) | advertise |
 | [ChenBaiHui1@twitter](https://twitter.com/ChenBaiHui1/status/1391426148903514113) | advertise |
 | [chendinhit@twitter](https://twitter.com/chendinhit/status/1519025856399560704) | advertise |
 | [ChendipraveenC@twitter](https://twitter.com/ChendipraveenC/status/1517752295626207232) | advertise |
@@ -7321,6 +7322,7 @@ Do not create new issue or we will close it as duplicate.
 | [nsktar@twitter](https://twitter.com/nsktar/status/1502997750501281799) | advertise |
 | [NtalPtal@twitter](https://twitter.com/NtalPtal/status/1545399216754810880) | advertise |
 | [NTHngGm2@twitter](https://twitter.com/NTHngGm2/status/1384163405053927432) | advertise |
+| [NtkJoana@twitter](https://twitter.com/NtkJoana/status/1599689667464437760) | advertise |
 | [NtlCreditMaster@twitter](https://twitter.com/NtlCreditMaster/status/1532374954095923201) | advertise |
 | [ntnclts@twitter](https://twitter.com/ntnclts/status/1386041672128090112) | advertise |
 | [ntnhan1303@twitter](https://twitter.com/ntnhan1303/status/1552708817086910465) | advertise |
@@ -11038,6 +11040,7 @@ Do not create new issue or we will close it as duplicate.
 | [YenVyNguyen7@twitter](https://twitter.com/YenVyNguyen7/status/1395775894686294016) | advertise |
 | [YeolThinzar@twitter](https://twitter.com/YeolThinzar/status/1539447377844572161) | advertise |
 | [YeptaIbrahim@twitter](https://twitter.com/YeptaIbrahim/status/1569868837637726208) | advertise |
+| [yerelbasin@twitter](https://twitter.com/yerelbasin/status/1599682683004628992) | advertise |
 | [yes_holiday@twitter](https://twitter.com/yes_holiday/status/1483787050377957386) | advertise |
 | [YeThanLwin5@twitter](https://twitter.com/YeThanLwin5/status/1389797806454411265) | advertise |
 | [YeThu07735554@twitter](https://twitter.com/YeThu07735554/status/1393054643865804802) | advertise |
