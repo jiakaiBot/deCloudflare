@@ -125,6 +125,7 @@ AFAIK, μηδενικός ιστότοπος το κάνει αυτό. Θα το
 | [Detect Cloudflare](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare/) | Frank Otto | [ ? ](https://github.com/traktofon/cf-detect) | Οχι     | **Ναί**     |  Οχι |
 | [True Sight](https://addons.mozilla.org/en-US/firefox/addon/detect-cloudflare-plus/) | claustromaniac | [ ? ](https://github.com/claustromaniac/detect-cloudflare-plus) | Οχι     | **Ναί**     |  Οχι |
 | [Which Cloudflare datacenter am I visiting?](https://addons.mozilla.org/en-US/firefox/addon/cf-pop/) | 依云 | [ ? ](https://github.com/lilydjwg/cf-pop) | Οχι     | **Ναί**     |  Οχι |
+| [My Privacy DNS - Link Details](https://mypdns.org/infrastructure/mypdns-reporter/-/blob/master/client/addon.md#mypdns-link-details) | My Privacy DNS | [ ? ](https://mypdns.org/MypDNS/support/-/issues) | Ingen     | **Ja**     |  Ingen |
 
 
 - Το "Decentraleyes" μπορεί να διακόψει τη σύνδεση με το "CDNJS (Cloudflare)".
