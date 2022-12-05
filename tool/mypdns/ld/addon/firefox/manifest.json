@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "My Privacy DNS - Link Details",
   "description": "Display information about the domain using data from Project Matrix.",
-  "version": "1.0.0.1",
+  "version": "1.0.0.2",
   "author": "Crimeflare",
   "homepage_url": "http://crimeflare.eu.org/",
   "permissions": [
@@ -35,6 +35,7 @@
   },
   "web_accessible_resources": [
     "i/adware.png",
+    "i/cf.png",
     "i/coinblocker.png",
     "i/drugs.png",
     "i/gambling.png",
