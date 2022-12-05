@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,649 |
-| social | 2,726 |
-| net | 2,449 |
-| org | 1,763 |
-| de | 1,601 |
+| com | 4,652 |
+| social | 2,727 |
+| net | 2,451 |
+| org | 1,764 |
+| de | 1,603 |
 
 
 - Mastodon, Pleroma, etc
@@ -1456,12 +1456,14 @@ Here's a list of public Fediverse services.
 | `animutiny.social` | Yes |
 | `anination.club` | No |
 | `anirloli.dev` | Yes |
+| `aniskov.com` | No |
 | `anisodon.jp` | Yes |
 | `anison.dj` | No |
 | `anitabyte.xyz` | No |
 | `anitwitter.com` | No |
 | `anitwitter.moe` | Yes |
 | `anivar.in` | Yes |
+| `aniyomechan.jp` | No |
 | `anjara.eu` | No |
 | `anji.nl` | No |
 | `anjos.red` | No |
@@ -8824,6 +8826,7 @@ Here's a list of public Fediverse services.
 | `felines.space` | Yes |
 | `feliver.se` | No |
 | `feliwyn.fr` | No |
+| `felixfoertsch.de` | Yes |
 | `felixkazuya.de` | Yes |
 | `felk.ie` | No |
 | `felleisen.de` | No |
@@ -10631,6 +10634,7 @@ Here's a list of public Fediverse services.
 | `gochisou.photo` | No |
 | `gochiuma.net` | No |
 | `gochiusa.net` | No |
+| `gock.top` | No |
 | `godataflow.com` | Yes |
 | `godawful.earth` | No |
 | `goddessphoebe.com` | No |
@@ -18826,6 +18830,7 @@ Here's a list of public Fediverse services.
 | `mvalente.eu` | No |
 | `mvh.dev` | Yes |
 | `mvion.fr` | No |
+| `mvolfik.com` | Yes |
 | `mvoss.eu` | No |
 | `mvu.pl` | No |
 | `mw.social` | No |
@@ -19485,6 +19490,7 @@ Here's a list of public Fediverse services.
 | `networker.social` | No |
 | `networkingnomad.net` | No |
 | `networkmusicfestival.org` | No |
+| `networkteam.social` | No |
 | `netz-treff.de` | Yes |
 | `netz.me` | Yes |
 | `netzbegruenung.de` | No |
@@ -21911,6 +21917,7 @@ Here's a list of public Fediverse services.
 | `piss.restaurant` | No |
 | `piss.social` | No |
 | `pissbird.com` | No |
+| `pissboys.net` | Yes |
 | `pisskey.io` | No |
 | `pissqordia.space` | No |
 | `pitchfork.club` | Yes |
@@ -24887,6 +24894,7 @@ Here's a list of public Fediverse services.
 | `sebastiantinschert.de` | No |
 | `sebastianwoehrl.name` | No |
 | `sebastienvigneau.xyz` | No |
+| `sebastix.com` | No |
 | `sebastix.dev` | No |
 | `sebbo.net` | No |
 | `sebduggan.uk` | Yes |
@@ -25350,6 +25358,7 @@ Here's a list of public Fediverse services.
 | `sickstream.net` | No |
 | `sid500.com` | No |
 | `side-ways.net` | No |
+| `sideb.buzz` | No |
 | `sidekek.ml` | No |
 | `sideno.eu` | No |
 | `sideofburritos.com` | Yes |
@@ -25689,6 +25698,7 @@ Here's a list of public Fediverse services.
 | `sly.dev` | No |
 | `slyversoft.fr` | No |
 | `sm-mstdn.com` | No |
+| `smaier.net` | Yes |
 | `small-home.group` | No |
 | `small-web.org` | No |
 | `smallbooks.com.tw` | No |
@@ -28821,6 +28831,7 @@ Here's a list of public Fediverse services.
 | `trenkner.net` | No |
 | `tret.jp` | Yes |
 | `tretkowski.de` | No |
+| `treuchtlingen.de` | No |
 | `trev.club` | Yes |
 | `trev.pub` | No |
 | `trevena.info` | Yes |
@@ -30466,6 +30477,7 @@ Here's a list of public Fediverse services.
 | `webdev.network` | No |
 | `webdevnerds.tech` | No |
 | `webdevs.social` | No |
+| `weber.fi.eu.org` | No |
 | `webfeed.me` | Yes |
 | `webfru.it` | No |
 | `webhookfrom.space` | No |
@@ -32117,8 +32129,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,190 |
-| Normal | 24,884 |
+| Cloudflare | 7,194 |
+| Normal | 24,892 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
