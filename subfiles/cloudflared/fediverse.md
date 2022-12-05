@@ -10957,6 +10957,7 @@ Here's a list of public Fediverse services.
 | `gruifor.eu` | No |
 | `grumble.social` | No |
 | `grumbulon.xyz` | No |
+| `grumpy.world` | No |
 | `grumpyoldme.de` | No |
 | `grumpys.online` | Yes |
 | `grunert.dev` | Yes |
@@ -29214,6 +29215,7 @@ Here's a list of public Fediverse services.
 | `twexodus.top` | Yes |
 | `twhtv.club` | No |
 | `twi.wtf` | No |
+| `twib.me` | No |
 | `twibox.fr` | No |
 | `twictee.fr` | No |
 | `twiddlebang.org` | No |
@@ -32185,7 +32187,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,215 |
-| Normal | 24,926 |
+| Normal | 24,928 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
