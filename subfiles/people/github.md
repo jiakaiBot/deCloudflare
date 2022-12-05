@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- ['login=' is an invalid login.](https://github.com/ddclient/ddclient/issues/479)
 - [Hybrid Analysis - error handling around max API hits](https://github.com/outflanknl/RedELK/issues/285)
 - [Hybrid Anlaysis - SSL handshake failure](https://github.com/outflanknl/RedELK/issues/286)
 - [Purge create problems (mqtt disconnected)](https://github.com/home-assistant/core/issues/83253)
