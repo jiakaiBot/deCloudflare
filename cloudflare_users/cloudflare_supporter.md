@@ -10158,6 +10158,7 @@ Do not create new issue or we will close it as duplicate.
 | [trnHnh36775165@twitter](https://twitter.com/trnHnh36775165/status/1493078579277488129) | advertise |
 | [TrnhTrnh300495@twitter](https://twitter.com/TrnhTrnh300495/status/1468838879457210369) | advertise |
 | [TrnHuT10645622@twitter](https://twitter.com/TrnHuT10645622/status/1402307646372204547) | advertise |
+| [TrninhDuy1@twitter](https://twitter.com/TrninhDuy1/status/1599645536608432128) | advertise |
 | [TrnMinh23617176@twitter](https://twitter.com/TrnMinh23617176/status/1387825068873371651) | advertise |
 | [TrnMinh58825985@twitter](https://twitter.com/TrnMinh58825985/status/1532296843539152896) | advertise |
 | [TrnMinh79580772@twitter](https://twitter.com/TrnMinh79580772/status/1385958792408440838) | advertise |
