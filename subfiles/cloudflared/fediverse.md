@@ -27,8 +27,8 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,663 |
-| social | 2,734 |
-| net | 2,456 |
+| social | 2,735 |
+| net | 2,457 |
 | org | 1,766 |
 | de | 1,605 |
 
@@ -871,7 +871,7 @@ Here's a list of public Fediverse services.
 | `agilereaction.com` | Yes |
 | `agilist.social` | No |
 | `agilodon.social` | No |
-| `aglaea.me` | Yes |
+| `aglaea.me` | No |
 | `agnail.net` | No |
 | `agneraya.com` | No |
 | `agnessa.pp.ru` | No |
@@ -3094,7 +3094,7 @@ Here's a list of public Fediverse services.
 | `bittube.social` | No |
 | `bittube.tv` | No |
 | `bittube.video` | No |
-| `bitwalker.eu` | No |
+| `bitwalker.eu` | Yes |
 | `bitwaves.de` | No |
 | `bitwig.community` | No |
 | `bitworking.org` | No |
@@ -3199,7 +3199,7 @@ Here's a list of public Fediverse services.
 | `bleatbox.net` | Yes |
 | `bleauweb.net` | Yes |
 | `bleep.zone` | No |
-| `bleepbloop.club` | Yes |
+| `bleepbloop.club` | No |
 | `bleepboop.club` | No |
 | `blendbyte.com` | No |
 | `blender.org` | No |
@@ -5057,7 +5057,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -17965,6 +17965,7 @@ Here's a list of public Fediverse services.
 | `missbanal.net` | No |
 | `mission1701.com` | Yes |
 | `missionbendtx.net` | Yes |
+| `missioncontrol.social` | No |
 | `misskey-forkbomb.cf` | Yes |
 | `misskey.ai` | No |
 | `misskey.art` | No |
@@ -31356,6 +31357,7 @@ Here's a list of public Fediverse services.
 | `xn--dsselblog-q9a.de` | No |
 | `xn--eckxc4c0a9di.games` | No |
 | `xn--eckycf7j.com` | No |
+| `xn--eekf.net` | No |
 | `xn--federao-2wa9a.social` | No |
 | `xn--fiqwix98h.jp` | No |
 | `xn--geldwsche24-p8a.eu` | No |
@@ -32201,8 +32203,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,219 |
-| Normal | 24,939 |
+| Cloudflare | 7,217 |
+| Normal | 24,943 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
