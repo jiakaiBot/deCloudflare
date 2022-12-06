@@ -30,10 +30,10 @@ Here's a list of public Matrix services.
 | asra.gr | No |
 | matrix.bachgau.social | No |
 | matrix.badstuebner.biz | No |
+| bancino.net | No |
 | breeze.town | No |
 | buyvm.chat | No |
 | matrix.bytes4u.de | No |
-| matrix.cat.casa | No |
 | matrix.catgirl.cloud | Yes |
 | matrix.cezeri.tech | Yes |
 | mx.chagai.website | No |
@@ -48,6 +48,7 @@ Here's a list of public Matrix services.
 | matrix.crossbach.de | No |
 | matrix.data.haus | No |
 | im.deuxfleurs.fr | No |
+| matrix.duesen.chat | No |
 | matrix.envs.net | No |
 | exarius.org | No |
 | matrix.fachschaften.org | No |
@@ -103,7 +104,6 @@ Here's a list of public Matrix services.
 | matrix.sfunk1x.com | No |
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
-| matrix.studichat.de | No |
 | synod.im | No |
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
