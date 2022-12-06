@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 2,739 |
 | net | 2,458 |
 | org | 1,768 |
-| de | 1,606 |
+| de | 1,607 |
 
 
 - Mastodon, Pleroma, etc
@@ -2402,6 +2402,7 @@ Here's a list of public Fediverse services.
 | `baixllobregat.social` | No |
 | `bajax.us` | No |
 | `bajsicki.com` | No |
+| `bakdos.de` | No |
 | `bakedbean.xyz` | No |
 | `baker.network` | No |
 | `baker.uk` | No |
@@ -5858,7 +5859,7 @@ Here's a list of public Fediverse services.
 | `cycles.network` | No |
 | `cyclodon.net` | No |
 | `cyclry.com` | No |
-| `cygis.cf` | No |
+| `cygis.cf` | Yes |
 | `cygnan.com` | Yes |
 | `cygnoir.net` | No |
 | `cyka.cf` | No |
@@ -27999,7 +28000,7 @@ Here's a list of public Fediverse services.
 | `thelukes.org` | No |
 | `them.scot` | No |
 | `themadlads.live` | Yes |
-| `themars.tk` | No |
+| `themars.tk` | Yes |
 | `themastodon.uk` | No |
 | `themaymeow.com` | Yes |
 | `themazuma.net` | No |
@@ -32240,8 +32241,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,232 |
-| Normal | 24,965 |
+| Cloudflare | 7,234 |
+| Normal | 24,964 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
