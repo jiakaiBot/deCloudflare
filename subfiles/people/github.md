@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Add TResponse generic to Router type](https://github.com/kwhitley/itty-router/issues/129)
 - ['login=' is an invalid login.](https://github.com/ddclient/ddclient/issues/479)
 - [Hybrid Analysis - error handling around max API hits](https://github.com/outflanknl/RedELK/issues/285)
 - [Hybrid Anlaysis - SSL handshake failure](https://github.com/outflanknl/RedELK/issues/286)
