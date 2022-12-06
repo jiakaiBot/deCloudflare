@@ -5,6 +5,9 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-15: [VIE (Vienna) on 2022-12-15](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dnnr0v0mv1x9)
+- 2022-12-14: [VIE (Vienna) on 2022-12-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kpn706znqdyw)
+- 2022-12-07: [LHR (London) on 2022-12-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1s1v09xlvh87)
 - 2022-12-08: [DEN (Denver) on 2022-12-08](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mvjww5v6zjf9)
 - 2022-12-12: [OTP (Bucharest) on 2022-12-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/cr86hl16d430)
 - 2022-12-08: [STL (St. Louis) on 2022-12-08](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y8frjcnhfftb)
