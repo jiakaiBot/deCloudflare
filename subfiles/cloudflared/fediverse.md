@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,679 |
+| com | 4,680 |
 | social | 2,744 |
 | net | 2,464 |
 | org | 1,772 |
@@ -13408,6 +13408,7 @@ Here's a list of public Fediverse services.
 | `jillr.social` | No |
 | `jim.blue` | No |
 | `jim.bo` | Yes |
+| `jimblimey.com` | No |
 | `jimicorp.com` | No |
 | `jimkapsalis.com` | No |
 | `jimlunsford.com` | No |
@@ -20288,7 +20289,7 @@ Here's a list of public Fediverse services.
 | `nsfw.social` | Yes |
 | `nsg.cc` | No |
 | `nshl.xyz` | No |
-| `nsinteger.com` | No |
+| `nsinteger.com` | Yes |
 | `nsk.io` | No |
 | `nsnw.ca` | No |
 | `nspeaks.xyz` | No |
@@ -32296,7 +32297,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,251 |
+| Cloudflare | 7,252 |
 | Normal | 25,002 |
 
 
