@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,678 |
+| com | 4,679 |
 | social | 2,744 |
 | net | 2,464 |
 | org | 1,772 |
@@ -2721,6 +2721,7 @@ Here's a list of public Fediverse services.
 | `beleco.art` | No |
 | `belegost.net` | No |
 | `belette.club` | No |
+| `belew.me` | No |
 | `belgadon.be` | No |
 | `belgiumsquashcakesforpandas.xyz` | No |
 | `belgraver.info` | No |
@@ -13943,6 +13944,7 @@ Here's a list of public Fediverse services.
 | `karateka.social` | No |
 | `kariance.xyz` | No |
 | `karjalazet.se` | No |
+| `karkador.com` | No |
 | `karlender.net` | No |
 | `karlmarx.social` | No |
 | `karloskar.org` | No |
@@ -26203,7 +26205,7 @@ Here's a list of public Fediverse services.
 | `soranews24.com` | No |
 | `sorasaki-ct.uk` | Yes |
 | `sorbit.no` | No |
-| `sorbonne-universite.fr` | No |
+| `sorbonne-universite.fr` | Yes |
 | `sorcie.re` | No |
 | `soregashi.me` | No |
 | `soripants.com` | No |
@@ -28860,6 +28862,7 @@ Here's a list of public Fediverse services.
 | `tposocial.nl` | No |
 | `tpshd.de` | No |
 | `tpz.de` | No |
+| `tr00st.co.uk` | Yes |
 | `tr0llhoehle.de` | No |
 | `tr4ck.net` | No |
 | `tr4sh.net` | No |
@@ -32293,8 +32296,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,249 |
-| Normal | 25,001 |
+| Cloudflare | 7,251 |
+| Normal | 25,002 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
