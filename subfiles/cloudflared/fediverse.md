@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,670 |
-| social | 2,739 |
+| social | 2,740 |
 | net | 2,458 |
 | org | 1,768 |
 | de | 1,607 |
@@ -19281,6 +19281,7 @@ Here's a list of public Fediverse services.
 | `ncot.uk` | Yes |
 | `ncoti.org` | No |
 | `ncpb.de` | No |
+| `ncpb.social` | No |
 | `ncrypt.at` | No |
 | `nd2.uk` | No |
 | `nda.li` | No |
@@ -32242,7 +32243,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,234 |
-| Normal | 24,964 |
+| Normal | 24,965 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
