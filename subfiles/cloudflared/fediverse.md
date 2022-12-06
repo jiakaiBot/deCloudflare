@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,670 |
-| social | 2,740 |
-| net | 2,458 |
+| com | 4,673 |
+| social | 2,741 |
+| net | 2,460 |
 | org | 1,768 |
 | de | 1,608 |
 
@@ -500,6 +500,7 @@ Here's a list of public Fediverse services.
 | `8tracks.com` | Yes |
 | `9-5.online` | Yes |
 | `907.life` | No |
+| `915.social` | Yes |
 | `9177xe.tokyo` | No |
 | `91stack.com` | No |
 | `91video.online` | No |
@@ -1775,6 +1776,7 @@ Here's a list of public Fediverse services.
 | `arkchat.org` | No |
 | `arkenous.me` | No |
 | `arkham.cafe` | No |
+| `arkmag.rocks` | No |
 | `arkproject.io` | Yes |
 | `arkros.net` | No |
 | `arks.cafe` | No |
@@ -2458,6 +2460,7 @@ Here's a list of public Fediverse services.
 | `bangdream.moe` | Yes |
 | `bangdream.space` | Yes |
 | `bangdream.tokyo` | No |
+| `bangtan.army` | No |
 | `banii.cafe` | No |
 | `banjo.camp` | Yes |
 | `banjo.town` | No |
@@ -3827,6 +3830,7 @@ Here's a list of public Fediverse services.
 | `bunnyhut.ch` | No |
 | `bunt.social` | No |
 | `buntadon.jp` | No |
+| `buntcomm.com` | No |
 | `buntel.de` | No |
 | `buny.plus` | Yes |
 | `bunyip.space` | No |
@@ -5064,7 +5068,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -5203,6 +5207,7 @@ Here's a list of public Fediverse services.
 | `constantinluegering.de` | No |
 | `constellati.one` | No |
 | `constellation-mu.se` | Yes |
+| `constellationonline.net` | No |
 | `constructed.space` | No |
 | `constructinganarchisms.org` | No |
 | `consudon.club` | No |
@@ -5662,6 +5667,7 @@ Here's a list of public Fediverse services.
 | `cultic.xyz` | No |
 | `cultiv.social` | Yes |
 | `cultofshiv.wtf` | No |
+| `cultofzoe.com` | No |
 | `cultur.social` | No |
 | `cultura.gov.br` | No |
 | `culturaeinnovacion.social` | No |
@@ -13758,6 +13764,7 @@ Here's a list of public Fediverse services.
 | `k47.cz` | No |
 | `k4gi.xyz` | No |
 | `k503.jp` | Yes |
+| `k67.club` | No |
 | `k7dxs.net` | No |
 | `k7mc.xyz` | Yes |
 | `k8s.social` | No |
@@ -14653,6 +14660,7 @@ Here's a list of public Fediverse services.
 | `krlk.me` | Yes |
 | `krnk.work` | Yes |
 | `krokodil.se` | Yes |
+| `kromeboy.net` | No |
 | `krononot.com` | Yes |
 | `kroo.co` | No |
 | `kroo.is` | No |
@@ -15193,6 +15201,7 @@ Here's a list of public Fediverse services.
 | `lemarchand.io` | No |
 | `lemediatv.fr` | No |
 | `lemee.co` | No |
+| `lemel.cc` | No |
 | `lemider.me` | No |
 | `lemma.tk` | No |
 | `lemmings.me` | No |
@@ -15624,6 +15633,7 @@ Here's a list of public Fediverse services.
 | `litodon.de` | No |
 | `litrat.xyz` | No |
 | `litrpgnovels.com` | No |
+| `litschner.com` | No |
 | `litterae.social` | No |
 | `little-girl-float.in` | Yes |
 | `littlebit.social` | No |
@@ -22173,7 +22183,7 @@ Here's a list of public Fediverse services.
 | `pleroma.id` | No |
 | `pleroma.in.th` | No |
 | `pleroma.io` | No |
-| `pleroma.live` | No |
+| `pleroma.live` | Yes |
 | `pleroma.lol` | Yes |
 | `pleroma.ml` | No |
 | `pleroma.mobi` | No |
@@ -30608,6 +30618,7 @@ Here's a list of public Fediverse services.
 | `webseed.com` | Yes |
 | `webserv-mg.de` | No |
 | `websozis.social` | No |
+| `webtoo.ls` | Yes |
 | `webunknownperson.com` | No |
 | `webunraveling.com` | No |
 | `weburbanists.com` | Yes |
@@ -32243,8 +32254,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,235 |
-| Normal | 24,965 |
+| Cloudflare | 7,239 |
+| Normal | 24,972 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
