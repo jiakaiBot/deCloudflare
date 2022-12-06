@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,663 |
-| social | 2,733 |
-| net | 2,455 |
-| org | 1,765 |
+| social | 2,734 |
+| net | 2,456 |
+| org | 1,766 |
 | de | 1,605 |
 
 
@@ -8322,6 +8322,7 @@ Here's a list of public Fediverse services.
 | `experienceadvisors.io` | No |
 | `experimentaria.com` | No |
 | `expi.studio` | No |
+| `explain-it.org` | No |
 | `exploding-heads.com` | No |
 | `exploit.social` | No |
 | `exploit.tokyo` | No |
@@ -10047,6 +10048,7 @@ Here's a list of public Fediverse services.
 | `gamt.tech` | No |
 | `ganba.re` | No |
 | `gancio.org` | No |
+| `gandi.net` | Yes |
 | `gandi.social` | No |
 | `ganesha.org.br` | No |
 | `ganeshapress.net` | No |
@@ -10818,6 +10820,7 @@ Here's a list of public Fediverse services.
 | `granto.cloud` | Yes |
 | `grants.cafe` | Yes |
 | `grap.coop` | No |
+| `graphe.me` | No |
 | `grapheneos.social` | No |
 | `graphics.social` | No |
 | `graphsec.space` | No |
@@ -21318,6 +21321,7 @@ Here's a list of public Fediverse services.
 | `panthermoderns.org` | No |
 | `pantherx.social` | No |
 | `pantless.ninja` | No |
+| `pantsfree.cc` | No |
 | `pantsmanuk.org` | No |
 | `pantsu.biz` | Yes |
 | `pantsu.life` | Yes |
@@ -22200,6 +22204,7 @@ Here's a list of public Fediverse services.
 | `plusone.network` | No |
 | `pluspora.com` | No |
 | `plustodon.net` | Yes |
+| `plutopia.io` | No |
 | `plutor.zone` | No |
 | `plutozone.xyz` | Yes |
 | `plutus.social` | Yes |
@@ -29295,6 +29300,7 @@ Here's a list of public Fediverse services.
 | `tyazzkey.work` | No |
 | `tychi.me` | No |
 | `tycho.space` | No |
+| `tycrek.me` | Yes |
 | `tyds.fans` | No |
 | `tyflopodcast.net` | Yes |
 | `tyil.nl` | No |
@@ -29633,6 +29639,7 @@ Here's a list of public Fediverse services.
 | `untz.net` | No |
 | `unvaxxed.nl` | Yes |
 | `unverified.club` | Yes |
+| `unvernunft.social` | No |
 | `unwrd.co` | No |
 | `unx.pw` | No |
 | `unxpctd.xyz` | No |
@@ -31164,6 +31171,7 @@ Here's a list of public Fediverse services.
 | `wxw.moe` | Yes |
 | `wxwblz.site` | No |
 | `wybt.net` | No |
+| `wycey.dev` | Yes |
 | `wychwit.ch` | Yes |
 | `wyld.me` | No |
 | `wyld.media` | No |
@@ -32193,8 +32201,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,216 |
-| Normal | 24,934 |
+| Cloudflare | 7,219 |
+| Normal | 24,939 |
 
 
 ### 22.4% of public Fediverse services are using Cloudflare.
