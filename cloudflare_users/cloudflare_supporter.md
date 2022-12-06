@@ -8784,6 +8784,7 @@ Do not create new issue or we will close it as duplicate.
 | [seeza_io@twitter](https://twitter.com/seeza_io/status/1483507214774161411) | advertise |
 | [sefarpost@twitter](https://twitter.com/sefarpost/status/1481589801899937793) | advertise |
 | [segelasusultra@twitter](https://twitter.com/segelasusultra/status/1402986195907317760) | advertise |
+| [SegnoQ@twitter](https://twitter.com/SegnoQ/status/1600082654237319168) | advertise |
 | [sehangatmars@twitter](https://twitter.com/sehangatmars/status/1485620850489696259) | advertise |
 | [Seif_Abaza@twitter](https://twitter.com/Seif_Abaza/status/1556724865176145928) | advertise |
 | [seiki2216@twitter](https://twitter.com/seiki2216/status/1392526776597766145) | advertise |
