@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-06: [BAH (Manama) on 2022-12-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3fxjf2gp7wwt)
+- 2022-12-06: [MAA (Chennai) on 2022-12-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ms55fb4p3h2c)
 - 2022-12-14: [DEN (Denver) on 2022-12-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0lhfw026yj5m)
 - 2022-12-09: [MCI (Kansas City) on 2022-12-09](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/f4bgwbt2vjnm)
 - 2022-12-15: [VIE (Vienna) on 2022-12-15](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/dnnr0v0mv1x9)
