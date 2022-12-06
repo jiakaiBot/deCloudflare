@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 4,670 |
 | social | 2,739 |
 | net | 2,458 |
-| org | 1,767 |
+| org | 1,768 |
 | de | 1,606 |
 
 
@@ -26933,6 +26933,7 @@ Here's a list of public Fediverse services.
 | `sunbutt.faith` | No |
 | `suncha.biz` | No |
 | `suncircuit.club` | No |
+| `sundark.eu.org` | No |
 | `sundaylight.space` | Yes |
 | `sundet.io` | No |
 | `sunet.se` | No |
@@ -32240,7 +32241,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,232 |
-| Normal | 24,964 |
+| Normal | 24,965 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
