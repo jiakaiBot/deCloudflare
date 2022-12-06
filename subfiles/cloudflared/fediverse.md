@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 2,740 |
 | net | 2,458 |
 | org | 1,768 |
-| de | 1,607 |
+| de | 1,608 |
 
 
 - Mastodon, Pleroma, etc
@@ -5309,7 +5309,7 @@ Here's a list of public Fediverse services.
 | `corteel.org` | No |
 | `corteximplant.com` | No |
 | `corticarte.com` | No |
-| `corvus.social` | No |
+| `corvus.social` | Yes |
 | `corzntin.fr` | No |
 | `cos.zone` | No |
 | `cosday.social` | No |
@@ -5794,6 +5794,7 @@ Here's a list of public Fediverse services.
 | `cybergay.space` | No |
 | `cybergladius.social` | Yes |
 | `cyberglot.lol` | No |
+| `cybergov.de` | No |
 | `cyberhideaway.online` | No |
 | `cyberia.club` | No |
 | `cyberia.icu` | No |
@@ -32242,7 +32243,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,234 |
+| Cloudflare | 7,235 |
 | Normal | 24,965 |
 
 
