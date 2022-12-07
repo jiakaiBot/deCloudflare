@@ -214,6 +214,7 @@ Here's a list of public Fediverse services.
 | `2-blog.net` | No |
 | `2017derby.biz` | No |
 | `20320514.com` | No |
+| `204.jp` | No |
 | `2077.win` | Yes |
 | `213.link` | No |
 | `21314.de` | No |
@@ -9676,6 +9677,7 @@ Here's a list of public Fediverse services.
 | `frndc.de` | No |
 | `frnds.network` | Yes |
 | `frnkfrt.io` | No |
+| `fro.ge` | Yes |
 | `frog.camp` | No |
 | `frog.fashion` | Yes |
 | `frogcat.club` | Yes |
@@ -32334,8 +32336,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,262 |
-| Normal | 25,029 |
+| Cloudflare | 7,263 |
+| Normal | 25,030 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
