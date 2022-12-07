@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,685 |
-| social | 2,751 |
+| social | 2,752 |
 | net | 2,466 |
 | org | 1,774 |
 | de | 1,614 |
@@ -3334,6 +3334,7 @@ Here's a list of public Fediverse services.
 | `bluex.im` | No |
 | `blumenwie.se` | No |
 | `blumpus.com` | No |
+| `blunet.fr` | No |
 | `blurb.town` | No |
 | `blurts.net` | No |
 | `bmaci.me` | No |
@@ -3847,6 +3848,7 @@ Here's a list of public Fediverse services.
 | `bunyip.space` | No |
 | `buoyantair.co` | No |
 | `burch.es` | No |
+| `burchill.social` | No |
 | `burg-halle.de` | No |
 | `burg.art` | Yes |
 | `burger.rodeo` | Yes |
@@ -5771,6 +5773,7 @@ Here's a list of public Fediverse services.
 | `cwinfo.org` | No |
 | `cwiwie.org` | No |
 | `cwow.ml` | Yes |
+| `cwts.nl` | Yes |
 | `cx.cx` | Yes |
 | `cyaniccerulean.com` | No |
 | `cyannyan.com` | Yes |
@@ -32338,8 +32341,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,263 |
-| Normal | 25,032 |
+| Cloudflare | 7,264 |
+| Normal | 25,034 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
