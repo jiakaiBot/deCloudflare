@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 4,680 |
 | social | 2,744 |
 | net | 2,464 |
-| org | 1,772 |
+| org | 1,773 |
 | de | 1,612 |
 
 
@@ -10818,6 +10818,7 @@ Here's a list of public Fediverse services.
 | `gov.casa` | Yes |
 | `govanify.com` | No |
 | `governa.eu` | No |
+| `governa.org` | Yes |
 | `government.st` | No |
 | `govital.net` | No |
 | `govt.is` | No |
@@ -32297,7 +32298,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,252 |
+| Cloudflare | 7,253 |
 | Normal | 25,002 |
 
 
