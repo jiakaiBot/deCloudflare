@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,695 |
-| social | 2,758 |
+| social | 2,760 |
 | net | 2,469 |
 | org | 1,775 |
 | de | 1,620 |
@@ -20310,6 +20310,7 @@ Here's a list of public Fediverse services.
 | `noupti.me` | No |
 | `noushi.chat` | Yes |
 | `noussommes.org` | No |
+| `nov.re` | No |
 | `nova.community` | Yes |
 | `novababilonia.me` | No |
 | `novadon.social` | No |
@@ -22527,6 +22528,7 @@ Here's a list of public Fediverse services.
 | `ponzu-mstdn.com` | No |
 | `poo.li` | No |
 | `poofion.com` | No |
+| `pool.social` | No |
 | `pooltoy.club` | No |
 | `pooper.social` | Yes |
 | `poopy.social` | No |
@@ -27717,6 +27719,7 @@ Here's a list of public Fediverse services.
 | `techlover.eu` | No |
 | `techmaturgy.club` | No |
 | `techn1k.de` | No |
+| `technews.social` | No |
 | `technick.org` | No |
 | `technodon.social` | No |
 | `technodro.me` | No |
@@ -30227,6 +30230,7 @@ Here's a list of public Fediverse services.
 | `videoshare.cc` | No |
 | `videotape.me` | No |
 | `videotoaster.ga` | No |
+| `videotoblin.me` | No |
 | `videotry.de` | Yes |
 | `vidicon.org` | Yes |
 | `vidja.social` | No |
@@ -32399,7 +32403,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,275 |
-| Normal | 25,080 |
+| Normal | 25,084 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
