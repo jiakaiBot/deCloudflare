@@ -4377,6 +4377,7 @@ Do not create new issue or we will close it as duplicate.
 | [jinkaza80004134@twitter](https://twitter.com/jinkaza80004134/status/1394493531276808195) | advertise |
 | [jinnj15@twitter](https://twitter.com/jinnj15/status/1403723336434126851) | advertise |
 | [Jinx73179066@twitter](https://twitter.com/Jinx73179066/status/1507609251476242432) | advertise |
+| [JinxAero@twitter](https://twitter.com/JinxAero/status/1600551198003965952) | advertise |
 | [Jio78386208@twitter](https://twitter.com/Jio78386208/status/1387113117503549442) | advertise |
 | [Jiraz@twitter](https://twitter.com/Jiraz/status/1426445363846672386) | advertise |
 | [Jirou34162843@twitter](https://twitter.com/Jirou34162843/status/1388212806911025154) | advertise |
@@ -10628,6 +10629,7 @@ Do not create new issue or we will close it as duplicate.
 | [vZHh3za8DnpsEuZ@twitter](https://twitter.com/vZHh3za8DnpsEuZ/status/1394326959975407619) | advertise |
 | [W01fyH@twitter](https://twitter.com/W01fyH/status/1377451953353986053) | advertise |
 | [W1sskI@twitter](https://twitter.com/W1sskI/status/1579839513228357632) | advertise |
+| [w4rko0ox@twitter](https://twitter.com/w4rko0ox/status/1600549441605451802) | advertise |
 | [w88cuavinh@twitter](https://twitter.com/w88cuavinh/status/1380719088431816714) | advertise |
 | [w88vietnamfc@twitter](https://twitter.com/w88vietnamfc/status/1380719088431816714) | advertise |
 | [w88youde1@twitter](https://twitter.com/w88youde1/status/1380719088431816714) | advertise |
