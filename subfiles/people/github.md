@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CDN does not serve as application/javascript](https://github.com/processing/p5.js/issues/5888)
 - [Stripe SDK <> Edge Function Compatibility](https://github.com/vercel/next.js/issues/43809)
 - [Cloudflare workers support?](https://github.com/DeepLcom/deepl-node/issues/14)
 - [Add TResponse generic to Router type](https://github.com/kwhitley/itty-router/issues/129)
