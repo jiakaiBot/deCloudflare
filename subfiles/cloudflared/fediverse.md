@@ -214,6 +214,7 @@ Here's a list of public Fediverse services.
 | `2-blog.net` | No |
 | `2017derby.biz` | No |
 | `20320514.com` | No |
+| `204.jp` | No |
 | `2077.win` | Yes |
 | `213.link` | No |
 | `21314.de` | No |
@@ -31378,7 +31379,7 @@ Here's a list of public Fediverse services.
 | `xdest.com` | No |
 | `xdncs.com` | Yes |
 | `xeac.org` | No |
-| `xech.io` | No |
+| `xech.io` | Yes |
 | `xeebion.de` | No |
 | `xelland.social` | No |
 | `xelp.it` | No |
@@ -32333,7 +32334,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,261 |
+| Cloudflare | 7,262 |
 | Normal | 25,029 |
 
 
