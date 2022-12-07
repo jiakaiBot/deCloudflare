@@ -1574,6 +1574,7 @@ Do not create new issue or we will close it as duplicate.
 | [Bruce26504010@twitter](https://twitter.com/Bruce26504010/status/1390251989444009991) | advertise |
 | [BruceBrainerd@twitter](https://twitter.com/BruceBrainerd/status/1577829837514764288) | advertise |
 | [bruhwtfbtch@twitter](https://twitter.com/bruhwtfbtch/status/1485627174267015168) | advertise |
+| [BrunoFa38272332@twitter](https://twitter.com/BrunoFa38272332/status/1600519902376361987) | advertise |
 | [BruzeWaynezz@twitter](https://twitter.com/BruzeWaynezz/status/1388147989043027968) | advertise |
 | [BryanKoome@twitter](https://twitter.com/BryanKoome/status/1385253754275082243) | advertise |
 | [BryceGerhardt7@twitter](https://twitter.com/BryceGerhardt7/status/1377248264886513668) | advertise |
@@ -3439,6 +3440,7 @@ Do not create new issue or we will close it as duplicate.
 | [Henry77117660@twitter](https://twitter.com/Henry77117660/status/1396763828671500291) | advertise |
 | [HentaiC93845172@twitter](https://twitter.com/HentaiC93845172/status/1384877257177583619) | advertise |
 | [Heo60622849@twitter](https://twitter.com/Heo60622849/status/1528517491814977536) | advertise |
+| [HeoP64390702@twitter](https://twitter.com/HeoP64390702/status/1600507278939283461) | advertise |
 | [HeoVat@twitter](https://twitter.com/HeoVat/status/1569110496070217729) | advertise |
 | [HereticCrusader@twitter](https://twitter.com/HereticCrusader/status/1383727868123832321) | advertise |
 | [Herijoko16@twitter](https://twitter.com/Herijoko16/status/1402705618562027526) | advertise |
@@ -5817,6 +5819,7 @@ Do not create new issue or we will close it as duplicate.
 | [maik24562885@twitter](https://twitter.com/maik24562885/status/1425610293216940043) | advertise |
 | [MailServerPwnr@twitter](https://twitter.com/MailServerPwnr/status/1384346054011744258) | advertise |
 | [MaiPham06160922@twitter](https://twitter.com/MaiPham06160922/status/1392396112179306500) | advertise |
+| [Mait82181284@twitter](https://twitter.com/Mait82181284/status/1600479237907308544) | advertise |
 | [maithanh_tai@twitter](https://twitter.com/maithanh_tai/status/1401900355470839810) | advertise |
 | [MaitNguyn1@twitter](https://twitter.com/MaitNguyn1/status/1553259164927168513) | advertise |
 | [MaiVnTi54764591@twitter](https://twitter.com/MaiVnTi54764591/status/1396340065610059776) | advertise |
@@ -6229,6 +6232,7 @@ Do not create new issue or we will close it as duplicate.
 | [MinhAnh32753974@twitter](https://twitter.com/MinhAnh32753974/status/1493253864212287488) | advertise |
 | [minhanzaw@twitter](https://twitter.com/minhanzaw/status/1393683652240842753) | advertise |
 | [MinhCh28879428@twitter](https://twitter.com/MinhCh28879428/status/1516803821519147011) | advertise |
+| [MinhCng91698469@twitter](https://twitter.com/MinhCng91698469/status/1600496027681050630) | advertise |
 | [MinHein87584396@twitter](https://twitter.com/MinHein87584396/status/1393982797531041798) | advertise |
 | [minhhanchannel@twitter](https://twitter.com/minhhanchannel/status/1468750702725906434) | advertise |
 | [MinhHieuDuong6@twitter](https://twitter.com/MinhHieuDuong6/status/1396642306049024008) | advertise |
