@@ -25,6 +25,20 @@ function toBinary(string) {
    }
    return btoa(String.fromCharCode(...new Uint8Array(codeUnits.buffer)));
 }
+function iGetNxCSAMUrl(id) {
+   return new Promise((g, b) => {
+      fetch(apiurl + '/api/mypdns/make_csam_url/', {
+         method: 'POST',
+         mode: 'cors',
+         headers: {
+            'Content-Type': 'application/x-www-form-urlencoded'
+         },
+         body: 'iid=' + id
+      }).then(r => r.json()).then(r => {
+         g(r);
+      }).catch(b);
+   });
+}
 function ireport(url, type, comment) {
    return new Promise((g, b) => {
       fetch(apiurl + '/api/mypdns/', {
@@ -3286,6 +3300,28 @@ browser.runtime.onMessage.addListener((r, s, sr) => {
          [r[1]]: [r[2], r[3]]
       });
       sr(true);
+   }
+   if (r[0] == 'csam') {
+      iGetNxCSAMUrl(r[1]).then(x => {
+         if (x[0] && x[1].startsWith('https:')) {
+            browser.tabs.query({
+               active: true,
+               currentWindow: true
+            }).then(tab => {
+               if (tab && tab[0]) {
+                  browser.tabs.create({
+                     url: x[1],
+                     openerTabId: tab[0].id
+                  });
+               }
+            });
+            sr([true, '']);
+         } else {
+            sr([false, x[1]]);
+         }
+      }, () => {
+         sr([false, 'Firefox error']);
+      });
    }
    return true;
 });
