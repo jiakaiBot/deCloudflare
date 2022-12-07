@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,680 |
-| social | 2,745 |
+| social | 2,744 |
 | net | 2,464 |
 | org | 1,773 |
 | de | 1,612 |
@@ -213,7 +213,6 @@ Here's a list of public Fediverse services.
 | `2-blog.net` | No |
 | `2017derby.biz` | No |
 | `20320514.com` | No |
-| `204.jp` | No |
 | `2077.win` | Yes |
 | `213.link` | No |
 | `21314.de` | No |
@@ -1319,7 +1318,6 @@ Here's a list of public Fediverse services.
 | `an6.us` | No |
 | `anacreonte.eu` | No |
 | `analogdreams.blog` | No |
-| `analogphoto.social` | No |
 | `analogue.social` | No |
 | `ananace.dev` | No |
 | `ananasbananas.com` | No |
@@ -13818,7 +13816,6 @@ Here's a list of public Fediverse services.
 | `kaede.ch` | Yes |
 | `kaede.im` | Yes |
 | `kaelig.ovh` | No |
-| `kaenb.in` | Yes |
 | `kafasanati.com` | No |
 | `kafeneio.social` | Yes |
 | `kaffeemonster.com` | No |
@@ -16743,7 +16740,6 @@ Here's a list of public Fediverse services.
 | `masticated.life` | No |
 | `masticore.co.uk` | No |
 | `mastindia.co` | No |
-| `mastinsaan.in` | No |
 | `mastio.nl` | No |
 | `mastio.xyz` | No |
 | `mastion.social` | No |
@@ -16787,6 +16783,7 @@ Here's a list of public Fediverse services.
 | `masto.plus` | No |
 | `masto.pt` | Yes |
 | `masto.quebec` | No |
+| `masto.rip` | Yes |
 | `masto.rocks` | No |
 | `masto.se` | Yes |
 | `masto.social` | Yes |
@@ -32308,7 +32305,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,255 |
-| Normal | 25,009 |
+| Normal | 25,006 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
