@@ -25,6 +25,7 @@
 - Cloudflared
   - How many % of top most sites/domains?
     - [How many % of top 1 million most popular domains are using Cloudflare?](cloudflared/top/cloudflare.md) _Cloudflare_
+    - [How many % of top 1 million most popular domains are using Cloudflare?](cloudflared/top/tranco.md) _Tranco_
     - `2010`
       - [How many % of top 1,000 most visited sites are using Cloudflare?](cloudflared/top/2010-google.md) _Google_
     - `2014`
