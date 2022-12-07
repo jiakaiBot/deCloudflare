@@ -8957,6 +8957,7 @@ Here's a list of public Fediverse services.
 | `ff14-mstdn.xyz` | No |
 | `ff15.eu` | No |
 | `ffail-music.de` | No |
+| `ffee.ooo` | No |
 | `fff-du.de` | No |
 | `fff.gay` | Yes |
 | `ffffff.link` | No |
@@ -9627,6 +9628,7 @@ Here's a list of public Fediverse services.
 | `friendi.ga` | No |
 | `friendica-leipzig.de` | No |
 | `friendica.ca` | No |
+| `friendica.city` | No |
 | `friendica.club` | No |
 | `friendica.cz` | No |
 | `friendica.lt` | No |
@@ -32337,7 +32339,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,263 |
-| Normal | 25,030 |
+| Normal | 25,032 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
