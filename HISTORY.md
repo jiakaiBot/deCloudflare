@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-07: [Increased R2 error rate in European regions](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2jxdgtn9lqnl)
 - 2022-12-06: [BAH (Manama) on 2022-12-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/3fxjf2gp7wwt)
 - 2022-12-06: [MAA (Chennai) on 2022-12-06](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ms55fb4p3h2c)
 - 2022-12-14: [DEN (Denver) on 2022-12-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0lhfw026yj5m)
