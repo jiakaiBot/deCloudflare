@@ -214,7 +214,6 @@ Here's a list of public Fediverse services.
 | `2-blog.net` | No |
 | `2017derby.biz` | No |
 | `20320514.com` | No |
-| `204.jp` | No |
 | `2077.win` | Yes |
 | `213.link` | No |
 | `21314.de` | No |
@@ -32329,7 +32328,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,258 |
-| Normal | 25,027 |
+| Normal | 25,026 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
