@@ -214,7 +214,6 @@ Here's a list of public Fediverse services.
 | `2-blog.net` | No |
 | `2017derby.biz` | No |
 | `20320514.com` | No |
-| `204.jp` | No |
 | `2077.win` | Yes |
 | `213.link` | No |
 | `21314.de` | No |
@@ -24248,6 +24247,7 @@ Here's a list of public Fediverse services.
 | `royvanlunsen.nl` | No |
 | `royxiang.me` | Yes |
 | `roz-dev.site` | No |
+| `rozhlas.cz` | No |
 | `rozk.net` | No |
 | `rozlan-society.tk` | No |
 | `rpdev.net` | No |
