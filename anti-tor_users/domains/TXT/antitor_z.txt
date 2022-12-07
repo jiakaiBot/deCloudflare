@@ -5,7 +5,6 @@ assessments.zfco.com
 betadrive.zoho.eu
 cdn.zero-trust-security.de
 click.email.zalando-lounge.com
-click.mail2.zocdoc.com
 client.zorgplatform.online
 cpcalendars.trustwalletl.zyns.com
 culevit.zerovic.com
@@ -49,7 +48,6 @@ www.zeevventures.com
 www.zenit.ru
 www.ziplocal.ca
 www.zippoguide.com
-www.zocdoc.com
 www.zone-service.com
 www.zovni.ovh
 www.zwilnik.com
@@ -262,8 +260,10 @@ www.zinapflegedienst.de
 www.zonguldakbarosu.org.tr
 zagreb-apt.com
 zapach-papieru.pl
+zebrayouth.org
 zenjomar.com
 zeyana.co.ke
+ziehngbaguino.com
 zmdownload-accl.zoho.com
 zoomingjapan.com
 zozo.jp
