@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,685 |
+| com | 4,687 |
 | social | 2,752 |
 | net | 2,466 |
 | org | 1,774 |
@@ -16340,6 +16340,7 @@ Here's a list of public Fediverse services.
 | `madpainter.info` | No |
 | `madrid.how` | No |
 | `madridgug.com` | No |
+| `mads-hartmann.com` | No |
 | `madscientists.social` | Yes |
 | `madworld.social` | No |
 | `madyanne.fr` | No |
@@ -19016,6 +19017,7 @@ Here's a list of public Fediverse services.
 | `myds.me` | No |
 | `myepicserver.de` | Yes |
 | `myexp.de` | No |
+| `myfake.website` | Yes |
 | `myfamilyandfriends.net` | No |
 | `myfed.space` | No |
 | `myfedi.de` | No |
@@ -20830,6 +20832,7 @@ Here's a list of public Fediverse services.
 | `onlycasino.legal` | Yes |
 | `onlycosplays.social` | No |
 | `onlyfans.tokyo` | No |
+| `onlyfans.zone` | No |
 | `onlyfarms.co` | Yes |
 | `onlyfeds.cc` | Yes |
 | `onlyferas.dev` | No |
@@ -30561,6 +30564,7 @@ Here's a list of public Fediverse services.
 | `wandering.one` | No |
 | `wandering.shop` | No |
 | `wandern.social` | No |
+| `wanderview.com` | Yes |
 | `wandzeitung.xyz` | No |
 | `wang.nz` | Yes |
 | `wangdahoo.space` | No |
@@ -32341,8 +32345,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,264 |
-| Normal | 25,034 |
+| Cloudflare | 7,266 |
+| Normal | 25,036 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
