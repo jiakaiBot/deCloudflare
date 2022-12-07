@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Stripe SDK <> Edge Function Compatibility](https://github.com/vercel/next.js/issues/43809)
 - [Cloudflare workers support?](https://github.com/DeepLcom/deepl-node/issues/14)
 - [Add TResponse generic to Router type](https://github.com/kwhitley/itty-router/issues/129)
 - ['login=' is an invalid login.](https://github.com/ddclient/ddclient/issues/479)
