@@ -2151,6 +2151,7 @@ Here's a list of public Fediverse services.
 | `autonomy.ninja` | No |
 | `autonomy.social` | No |
 | `autophagy.io` | Yes |
+| `autothink.co` | Yes |
 | `autrechose.club` | No |
 | `autroisieme.top` | No |
 | `auttaja.io` | Yes |
@@ -5072,7 +5073,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -8124,6 +8125,7 @@ Here's a list of public Fediverse services.
 | `eroticmohel.com` | Yes |
 | `erotube.fr` | No |
 | `erp.uno` | Yes |
+| `errant.cloud` | No |
 | `erratasec.com` | No |
 | `erratic.cc` | Yes |
 | `error.im` | Yes |
@@ -8788,6 +8790,7 @@ Here's a list of public Fediverse services.
 | `fediverse.asia` | Yes |
 | `fediverse.at` | No |
 | `fediverse.au` | No |
+| `fediverse.be` | No |
 | `fediverse.berlin` | No |
 | `fediverse.blog` | No |
 | `fediverse.ca` | No |
@@ -17772,6 +17775,7 @@ Here's a list of public Fediverse services.
 | `microblob.com` | No |
 | `microblog.at` | No |
 | `microblog.ch` | No |
+| `microblog.club` | No |
 | `microblog.net` | Yes |
 | `microblog.pub` | No |
 | `microblog.se` | No |
@@ -18872,7 +18876,7 @@ Here's a list of public Fediverse services.
 | `murmf.art` | No |
 | `murmur.red` | No |
 | `murphnet.uk` | No |
-| `murraystreet.media` | No |
+| `murraystreet.media` | Yes |
 | `murty.au` | No |
 | `murty.social` | No |
 | `mus.social` | No |
@@ -32298,8 +32302,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,253 |
-| Normal | 25,002 |
+| Cloudflare | 7,254 |
+| Normal | 25,005 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
