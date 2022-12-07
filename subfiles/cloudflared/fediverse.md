@@ -443,6 +443,7 @@ Here's a list of public Fediverse services.
 | `68kmentat.com` | No |
 | `69.mu` | No |
 | `6921.space` | No |
+| `6a02.digital` | No |
 | `6bq.de` | No |
 | `6i6.club` | No |
 | `6paperplanes.net` | No |
@@ -12587,6 +12588,7 @@ Here's a list of public Fediverse services.
 | `incognitus.net` | No |
 | `inconnu.uk` | No |
 | `incorrect.space` | No |
+| `incorrigible.moe` | No |
 | `incous.info` | No |
 | `incrediblepbx.net` | No |
 | `inct-densan.club` | Yes |
@@ -13215,7 +13217,7 @@ Here's a list of public Fediverse services.
 | `jaminit.co.uk` | Yes |
 | `jampreserve.com` | No |
 | `jamwells.social` | Yes |
-| `janboddez.tech` | Yes |
+| `janboddez.tech` | No |
 | `janbruns.de` | No |
 | `jancborchardt.net` | No |
 | `jandhyala.co` | No |
@@ -32361,8 +32363,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,269 |
-| Normal | 25,049 |
+| Cloudflare | 7,268 |
+| Normal | 25,052 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
