@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-12: [STL (St. Louis) on 2022-12-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/wnb160s9f1k0)
+- 2022-12-09: [BOS (Boston) on 2022-12-09](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/91dvw2rrq6bt)
 - 2022-12-08: [GRU (São Paulo) on 2022-12-08](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/9l04m3tk56jh)
 - 2022-12-08: [CDG (Paris) on 2022-12-08](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1rbsx7pc9nc1)
 - 2022-12-07: [GRU (São Paulo) on 2022-12-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qv4xk4czphgh)
