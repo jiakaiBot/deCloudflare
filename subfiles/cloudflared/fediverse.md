@@ -32251,6 +32251,7 @@ Here's a list of public Fediverse services.
 | `zoot.fun` | Yes |
 | `zoppelt.net` | Yes |
 | `zopyx.com` | No |
+| `zor.gg` | No |
 | `zorbo.social` | No |
 | `zordhak.fr` | No |
 | `zork.social` | No |
@@ -32346,7 +32347,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,266 |
-| Normal | 25,036 |
+| Normal | 25,037 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
