@@ -25,7 +25,7 @@ Here's a list of public Matrix services.
 | agdersam.no | No |
 | riot.allmende.io | No |
 | alternanet.fr | No |
-| matrix.anonymousland.org | No |
+| anonymousland.org | No |
 | matrix.arcticfoxes.net | Yes |
 | aria.im | No |
 | asra.gr | No |
@@ -48,7 +48,7 @@ Here's a list of public Matrix services.
 | converser.eu | No |
 | matrix.crossbach.de | No |
 | matrix.data.haus | No |
-| deuxfleurs.fr | No |
+| im.deuxfleurs.fr | No |
 | matrix.duesen.chat | No |
 | matrix.envs.net | No |
 | exarius.org | No |
@@ -95,6 +95,7 @@ Here's a list of public Matrix services.
 | matrix.pikaviestin.fi | No |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
+| privex.io | Yes |
 | matrix.pub.solar | No |
 | radiowarnerd.org | No |
 | matrix.rimfaxe.net | No |
@@ -127,8 +128,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 16 |
+| Cloudflare | 17 |
 | Normal | 84 |
 
 
-### 16% of public Matrix services are using Cloudflare.
+### 16.8% of public Matrix services are using Cloudflare.
