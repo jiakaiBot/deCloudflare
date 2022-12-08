@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,695 |
-| social | 2,761 |
-| net | 2,469 |
+| com | 4,696 |
+| social | 2,762 |
+| net | 2,470 |
 | org | 1,775 |
 | de | 1,620 |
 
@@ -653,6 +653,7 @@ Here's a list of public Fediverse services.
 | `abxy.fr` | No |
 | `abyss.fun` | Yes |
 | `abyss.observer` | No |
+| `abyssdomain.expert` | No |
 | `abyssfriend.club` | No |
 | `ac-lyon.fr` | No |
 | `aca.li` | No |
@@ -3133,6 +3134,7 @@ Here's a list of public Fediverse services.
 | `bix.today` | No |
 | `bizkaia.social` | No |
 | `bizocean.co.jp` | No |
+| `bjd.social` | Yes |
 | `bjelomorkanal.de` | No |
 | `bjgp.social` | No |
 | `bjhess.com` | No |
@@ -4673,6 +4675,7 @@ Here's a list of public Fediverse services.
 | `chriswiegman.com` | Yes |
 | `chriswilson.blog` | No |
 | `chromabits.com` | No |
+| `chromatica.gay` | No |
 | `chromatique.xyz` | No |
 | `chromic.org` | No |
 | `chronal.net` | No |
@@ -4711,6 +4714,7 @@ Here's a list of public Fediverse services.
 | `cicadaverse.com` | No |
 | `cidiso.com` | No |
 | `ciecuo.club` | No |
+| `cifigal.com` | No |
 | `cigarcabin.com` | No |
 | `cigliola.com` | Yes |
 | `cijber.social` | No |
@@ -8945,6 +8949,7 @@ Here's a list of public Fediverse services.
 | `feralmimesis.xyz` | Yes |
 | `feraltomatoes.com` | No |
 | `ferd.at` | No |
+| `fergl.ie` | No |
 | `ferguson.today` | No |
 | `feria.me.uk` | Yes |
 | `fernomac.rip` | No |
@@ -10714,6 +10719,7 @@ Here's a list of public Fediverse services.
 | `go0d.icu` | No |
 | `go3.today` | Yes |
 | `go5.dev` | Yes |
+| `goab.net` | Yes |
 | `goapub.cf` | No |
 | `goat.place` | Yes |
 | `goat.rocks` | No |
@@ -14436,6 +14442,7 @@ Here's a list of public Fediverse services.
 | `klahowya.net` | No |
 | `klaki.net` | No |
 | `klamath.jp` | No |
+| `klang.is` | No |
 | `klaps.me` | No |
 | `klardenken.tv` | No |
 | `klartube.de` | No |
@@ -21976,6 +21983,7 @@ Here's a list of public Fediverse services.
 | `phundrak.com` | Yes |
 | `phutu.re` | No |
 | `phx.social` | No |
+| `phyl.me` | Yes |
 | `phyrexia.ru` | No |
 | `phyrone.de` | Yes |
 | `physchem.science` | No |
@@ -23501,6 +23509,7 @@ Here's a list of public Fediverse services.
 | `rants.org` | No |
 | `rantz.xyz` | No |
 | `rap.social` | No |
+| `rapadura.site` | No |
 | `rape.town` | No |
 | `rapefeminists.network` | No |
 | `rapemeat.shop` | No |
@@ -28173,6 +28182,7 @@ Here's a list of public Fediverse services.
 | `themself.org` | No |
 | `themsp.org` | No |
 | `themyceliumnetwork.community` | No |
+| `themystrd.zone` | No |
 | `thenaritadogfight.com` | No |
 | `thenautilus.net` | No |
 | `theneuromantics.net` | No |
@@ -31820,6 +31830,7 @@ Here's a list of public Fediverse services.
 | `yeet.social` | No |
 | `yeetpc.com` | Yes |
 | `yeetr.dev` | No |
+| `yeg.bike` | No |
 | `yegeurina.xyz` | No |
 | `yeldirium.de` | No |
 | `yelling.it` | No |
@@ -31868,6 +31879,7 @@ Here's a list of public Fediverse services.
 | `yihao.moe` | Yes |
 | `yikes.dog` | Yes |
 | `yiny.org` | No |
+| `yinzer.city` | No |
 | `yip.computer` | No |
 | `yip.gay` | No |
 | `yjmbo.net` | No |
@@ -32227,6 +32239,7 @@ Here's a list of public Fediverse services.
 | `zettas.space` | No |
 | `zettelkasten.social` | No |
 | `zeus.gent` | No |
+| `zevs.me` | No |
 | `zeweb.de` | No |
 | `zfadd.is` | No |
 | `zh.ht` | No |
@@ -32408,8 +32421,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,276 |
-| Normal | 25,089 |
+| Cloudflare | 7,279 |
+| Normal | 25,099 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
