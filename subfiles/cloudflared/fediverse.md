@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,696 |
-| social | 2,763 |
+| social | 2,765 |
 | net | 2,470 |
 | org | 1,775 |
 | de | 1,620 |
@@ -2295,6 +2295,7 @@ Here's a list of public Fediverse services.
 | `azupo.xyz` | Yes |
 | `azure.com` | Yes |
 | `azure.icu` | Yes |
+| `azureheads.gr` | Yes |
 | `azurewebsites.net` | No |
 | `azurity.onl` | No |
 | `azurs.fr` | No |
@@ -3887,6 +3888,7 @@ Here's a list of public Fediverse services.
 | `burro.win` | No |
 | `burschel.com` | No |
 | `burymein.black` | No |
+| `burzum.ch` | No |
 | `bus-hit.me` | No |
 | `busaiku.com` | No |
 | `bushi.moe` | No |
@@ -11705,6 +11707,7 @@ Here's a list of public Fediverse services.
 | `hersecret.fi` | Yes |
 | `herthafans.de` | No |
 | `hertz.dev` | No |
+| `herve.bzh` | Yes |
 | `herzbu.de` | No |
 | `heslach.international` | No |
 | `hespere.de` | No |
@@ -12232,6 +12235,7 @@ Here's a list of public Fediverse services.
 | `hurley.page` | No |
 | `huron.social` | No |
 | `husbandoism.life` | No |
+| `hush.blue` | No |
 | `hush.is` | Yes |
 | `husimo.fr` | No |
 | `husk.site` | No |
@@ -13477,6 +13481,7 @@ Here's a list of public Fediverse services.
 | `jimmyhoke.net` | Yes |
 | `jimny.me` | No |
 | `jimotodon.com` | No |
+| `jimtay.uk` | Yes |
 | `jimweb.dev` | No |
 | `jingo.social` | No |
 | `jinja.eu` | No |
@@ -24574,6 +24579,7 @@ Here's a list of public Fediverse services.
 | `safaradeg.net` | No |
 | `safebook.space` | No |
 | `safejust.space` | No |
+| `safernursing.social` | No |
 | `saferspace.social` | No |
 | `saferweb.io` | Yes |
 | `safestreetrebel.com` | Yes |
@@ -25164,6 +25170,7 @@ Here's a list of public Fediverse services.
 | `secular-humanism.eu` | No |
 | `securadmin.net` | No |
 | `secure.kiwi` | No |
+| `securecpu.social` | Yes |
 | `securecryptomining.com` | No |
 | `securelab.eu` | No |
 | `securemy.pw` | Yes |
@@ -25452,6 +25459,7 @@ Here's a list of public Fediverse services.
 | `shenanigan.space` | No |
 | `shenyanshu.com` | No |
 | `shep.online` | Yes |
+| `sheppo.au` | Yes |
 | `sherbers.de` | Yes |
 | `sherblog.de` | No |
 | `sherpahat.com` | Yes |
@@ -32429,8 +32437,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,283 |
-| Normal | 25,103 |
+| Cloudflare | 7,288 |
+| Normal | 25,106 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
