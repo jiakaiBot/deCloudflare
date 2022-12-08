@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-13: [DUB (Dublin) on 2022-12-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/nth1gw2j7ply)
 - 2022-12-07: [Increased HTTP 5xx Errors in Los Angeles, US (LAX)](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/0psj4mqv1rd2)
 - 2022-12-13: [MCI (Kansas City) on 2022-12-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/s1mvk234dnn9)
 - 2022-12-07: [BAH (Manama) on 2022-12-07](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/1rh4vj6xn7t2)
