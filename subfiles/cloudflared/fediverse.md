@@ -1661,6 +1661,7 @@ Here's a list of public Fediverse services.
 | `applest.net` | No |
 | `applicaria.net` | No |
 | `applichan.com` | No |
+| `applied-langua.ge` | Yes |
 | `appliedecon.social` | No |
 | `appliedmachine.app` | No |
 | `appne.com` | No |
@@ -32403,7 +32404,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,275 |
+| Cloudflare | 7,276 |
 | Normal | 25,085 |
 
 
