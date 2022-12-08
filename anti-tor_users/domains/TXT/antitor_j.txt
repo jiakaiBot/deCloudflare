@@ -630,6 +630,7 @@ youtrack.justin-gruenwald.de
 amazon-puytr.jungleheart.com
 api.jio.com
 auth.jiri-pejsa.cz
+autodiscover.jeanfox.tv
 autodiscover.judythomascornett.com
 blog.jmfd.me
 clebelpois66loonaticsunleashed.jimdofree.com
@@ -642,13 +643,17 @@ docs.justia.com
 eclaim.jtbnn.com
 ecommerce-api-dev.jclan.com.br
 ericmie.jimdofree.com
+etc-gkgpfk.jkub.com
 forums.jeuxonline.info
 github.jysafe.cn
+grace.justday.cloud
 grocy.jpruppert.de
 j2logo.com
 james-services.hr
 jamiesontree.uk
 janileinonen.com
+japanpropertycentral.com
+jatindermittal.com
 javaneh-sasan.ir
 jawaidbross.com
 jazminshop.es
@@ -659,6 +664,7 @@ jenssund.dk
 jeroenmulder.net
 jesusgilhernandez.com
 jewishlearning.works
+jewishmatch.com
 jiosaerogel.com
 jiosag.com
 jmplanning.net
@@ -676,6 +682,7 @@ jurnalbumdes.id
 justiceclimatique.org
 law.justia.com
 mail1.jvgas.com
+oig.justice.gov
 press.jal.co.jp
 rakuten-bhji.justdied.com
 rakuten-ed.justdied.com
@@ -686,12 +693,14 @@ ticket.jogjabikerendezvous.com
 va.jamfsupport.systems
 webdisk.jcphotosllc.com
 webdisk.jouwwebservice.nl
+webmail.jaineesteticista.website
 webmail.jdbarnes.com
 www.apieclaim.jtbnn.com
 www.eki-net.jp-co-1.cyou
 www.fedex-track.sg.jexpress.com.br
 www.jackel-billy-lpe.fr
 www.jackiebeck.com
+www.jackrubinacci.com
 www.jaipurcitycab.in
 www.jakeorr.co.uk
 www.jal.co.jp
@@ -701,6 +710,7 @@ www.janetjay.com
 www.japan-guide.com
 www.jawrealtor.com
 www.jbarlowfuneralservice.co.uk
+www.jdsports.co.uk
 www.jesusradicals.com
 www.jetfloweurope.com
 www.jigsawplanet.com
@@ -708,6 +718,7 @@ www.jiji.com
 www.jilliandavid.net
 www.jimmalcolm.com
 www.jizzub.com
+www.jmg.gov.my
 www.jobs-goeppingen.com
 www.jobs-hamburg.org
 www.jobs.ac.uk
@@ -725,6 +736,7 @@ www.julianemng.com
 www.julieandbrandy.com
 www.justproz.com
 www.jutta-paulus.de
+www.mikseri.jarjestotietopalvelu.fi
 www.secure03cit4zens.jkub.com
 company.jr-central.co.jp
 email.justthenews.com
