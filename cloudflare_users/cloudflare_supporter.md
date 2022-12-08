@@ -150,6 +150,7 @@ Do not create new issue or we will close it as duplicate.
 | [2004Pubgkrish@twitter](https://twitter.com/2004Pubgkrish/status/1551869505172672512) | advertise |
 | [2022hoky@twitter](https://twitter.com/2022hoky/status/1559692337382469632) | advertise |
 | [5050Tbc@twitter](https://twitter.com/5050Tbc/status/1532708767481090052) | advertise |
+| [8953Ntt@twitter](https://twitter.com/8953Ntt/status/1600774448172630024) | advertise |
 | [8991Alien@twitter](https://twitter.com/8991Alien/status/1390781458797584384) | advertise |
 | [137743@twitter](https://twitter.com/137743/status/1393045054239830025) | advertise |
 | [280552f43478454@twitter](https://twitter.com/280552f43478454/status/1399573181753696256) | advertise |
@@ -1972,8 +1973,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -7324,6 +7325,7 @@ Do not create new issue or we will close it as duplicate.
 | [notwaytoomuch@twitter](https://twitter.com/notwaytoomuch/status/1396359332447485953) | advertise |
 | [NoungN2@twitter](https://twitter.com/NoungN2/status/1392947583866130432) | advertise |
 | [Nouraabdulla15@twitter](https://twitter.com/Nouraabdulla15/status/1586210209336381442) | advertise |
+| [nouriehp@twitter](https://twitter.com/nouriehp/status/1600769155669852160) | advertise |
 | [nouskayarzthrs@twitter](https://twitter.com/nouskayarzthrs/status/1592351291422175235) | advertise |
 | [NovemKT@twitter](https://twitter.com/NovemKT/status/1381273128567984133) | advertise |
 | [nove_nine@twitter](https://twitter.com/nove_nine/status/1488420118031790081) | advertise |
