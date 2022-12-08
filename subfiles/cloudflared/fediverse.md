@@ -5100,7 +5100,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -27658,6 +27658,7 @@ Here's a list of public Fediverse services.
 | `tcp53.ch` | No |
 | `tcsh.online` | No |
 | `tcu-mstdn.tk` | No |
+| `tda.zone` | No |
 | `tdd.social` | No |
 | `tds.xyz` | No |
 | `te-st.ru` | Yes |
@@ -32428,7 +32429,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,282 |
+| Cloudflare | 7,283 |
 | Normal | 25,103 |
 
 
