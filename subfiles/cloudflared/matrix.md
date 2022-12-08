@@ -112,7 +112,6 @@ Here's a list of public Matrix services.
 | matrix.tedomum.net | No |
 | the-apothecary.club | No |
 | matrix.tomesh.net | No |
-| trygve.me | No |
 | ungleich.matrix.ungleich.cloud | No |
 | matrix.unredacted.org | Yes |
 | utwente.io | No |
@@ -129,7 +128,7 @@ Here's a list of public Matrix services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 17 |
-| Normal | 84 |
+| Normal | 83 |
 
 
-### 16.8% of public Matrix services are using Cloudflare.
+### 17% of public Matrix services are using Cloudflare.
