@@ -13784,6 +13784,7 @@ Here's a list of public Fediverse services.
 | `justanother.party` | No |
 | `justbartek.ca` | No |
 | `justbennet.com` | No |
+| `justbros.xyz` | No |
 | `justcoding.tech` | Yes |
 | `justfollow.me.uk` | No |
 | `justgage.blog` | No |
@@ -28635,6 +28636,7 @@ Here's a list of public Fediverse services.
 | `todon.eu` | No |
 | `todon.fr` | No |
 | `todon.nl` | No |
+| `todon.uk` | No |
 | `toepi.moe` | Yes |
 | `toeushimwk.work` | No |
 | `tofu.city` | Yes |
@@ -32405,7 +32407,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,276 |
-| Normal | 25,085 |
+| Normal | 25,087 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
