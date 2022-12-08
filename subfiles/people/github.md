@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [4.37.2 to 4.37.3 crashes with corrupt DB error](https://github.com/authelia/authelia/issues/4519)
 - [ethers.js don't work on workers](https://github.com/ethers-io/ethers.js/issues/3577)
 - [Order of operations for Capture vs Asserts](https://github.com/Orange-OpenSource/hurl/issues/1072)
 - [CDN does not serve as application/javascript](https://github.com/processing/p5.js/issues/5888)
