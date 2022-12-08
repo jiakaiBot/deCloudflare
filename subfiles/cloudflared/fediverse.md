@@ -31700,6 +31700,7 @@ Here's a list of public Fediverse services.
 | `xundeenergie.at` | No |
 | `xunil.co.nz` | No |
 | `xunitc.org` | No |
+| `xunix.me` | No |
 | `xunzi.de` | No |
 | `xurxodiz.eu` | No |
 | `xuv.be` | No |
@@ -32428,7 +32429,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,282 |
-| Normal | 25,102 |
+| Normal | 25,103 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
