@@ -44,6 +44,7 @@ Here's a list of public Matrix services.
 | matrix.chatwave.org | No |
 | chrrreeeeesss.com | No |
 | club1.fr | No |
+| matrix-client.comm.cx | Yes |
 | matrix.community.rs | Yes |
 | converser.eu | No |
 | matrix.crossbach.de | No |
@@ -112,6 +113,7 @@ Here's a list of public Matrix services.
 | matrix.tedomum.net | No |
 | the-apothecary.club | No |
 | matrix.tomesh.net | No |
+| trygve.me | No |
 | ungleich.matrix.ungleich.cloud | No |
 | matrix.unredacted.org | Yes |
 | utwente.io | No |
@@ -127,8 +129,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 17 |
-| Normal | 83 |
+| Cloudflare | 18 |
+| Normal | 84 |
 
 
-### 17% of public Matrix services are using Cloudflare.
+### 17.6% of public Matrix services are using Cloudflare.
