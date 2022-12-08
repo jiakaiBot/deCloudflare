@@ -1979,8 +1979,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -6626,6 +6626,7 @@ Do not create new issue or we will close it as duplicate.
 | [mtwin29093105@twitter](https://twitter.com/mtwin29093105/status/1382278861811896322) | advertise |
 | [Mtwolf17@twitter](https://twitter.com/Mtwolf17/status/1392187273366544384) | advertise |
 | [mucheng00@twitter](https://twitter.com/mucheng00/status/1552349954429288448) | advertise |
+| [mudfallin@twitter](https://twitter.com/mudfallin/status/1600971810803429376) | advertise |
 | [MueTaw1@twitter](https://twitter.com/MueTaw1/status/1550494801677537280) | advertise |
 | [mufajar_@twitter](https://twitter.com/mufajar_/status/1505740681964552192) | advertise |
 | [Muhamma04355643@twitter](https://twitter.com/Muhamma04355643/status/1392484542380875779) | advertise |
