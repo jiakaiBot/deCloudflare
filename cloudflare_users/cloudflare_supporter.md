@@ -365,6 +365,7 @@ Do not create new issue or we will close it as duplicate.
 | [AhmadBeyranvand@twitter](https://twitter.com/AhmadBeyranvand/status/1387066358500929537) | advertise |
 | [Ahmadking5111@twitter](https://twitter.com/Ahmadking5111/status/1400390503879880705) | advertise |
 | [ahmadm_abubakar@twitter](https://twitter.com/ahmadm_abubakar/status/1539668272060432384) | advertise |
+| [AHMADnNANGIALAI@twitter](https://twitter.com/AHMADnNANGIALAI/status/1600924768483815424) | advertise |
 | [AhmadSair14@twitter](https://twitter.com/AhmadSair14/status/1559007732321390592) | advertise |
 | [AhmadSh05216110@twitter](https://twitter.com/AhmadSh05216110/status/1567946014060945408) | advertise |
 | [AHMADSHAMSULAZ1@twitter](https://twitter.com/AHMADSHAMSULAZ1/status/1497963741874319360) | advertise |
@@ -3372,6 +3373,7 @@ Do not create new issue or we will close it as duplicate.
 | [haval_jumha@twitter](https://twitter.com/haval_jumha/status/1560283134733983744) | advertise |
 | [hawayuijky@twitter](https://twitter.com/hawayuijky/status/1394323727546867712) | advertise |
 | [hawkinswoo1@twitter](https://twitter.com/hawkinswoo1/status/1533813196162748417) | advertise |
+| [hayat22133887@twitter](https://twitter.com/hayat22133887/status/1600918587057016833) | advertise |
 | [HayMan43336106@twitter](https://twitter.com/HayMan43336106/status/1390824643284590594) | advertise |
 | [haymann666@twitter](https://twitter.com/haymann666/status/1377275308080996365) | advertise |
 | [HaymarPwint@twitter](https://twitter.com/HaymarPwint/status/1390972934605262852) | advertise |
