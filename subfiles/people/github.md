@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [ethers.js don't work on workers](https://github.com/ethers-io/ethers.js/issues/3577)
 - [Order of operations for Capture vs Asserts](https://github.com/Orange-OpenSource/hurl/issues/1072)
 - [CDN does not serve as application/javascript](https://github.com/processing/p5.js/issues/5888)
 - [Stripe SDK <> Edge Function Compatibility](https://github.com/vercel/next.js/issues/43809)
