@@ -8938,6 +8938,7 @@ Do not create new issue or we will close it as duplicate.
 | [shineli93964917@twitter](https://twitter.com/shineli93964917/status/1390220514199707648) | advertise |
 | [ShineWinHtet2@twitter](https://twitter.com/ShineWinHtet2/status/1392305680896249864) | advertise |
 | [shinezzzzzzzz@twitter](https://twitter.com/shinezzzzzzzz/status/1387051830325125131) | advertise |
+| [SHINKAIKU107757@twitter](https://twitter.com/SHINKAIKU107757/status/1600801195194716166) | advertise |
 | [shinnthant19@twitter](https://twitter.com/shinnthant19/status/1389878958464782339) | advertise |
 | [shinthan5@twitter](https://twitter.com/shinthan5/status/1390100611190824961) | advertise |
 | [ShinThantAung7@twitter](https://twitter.com/ShinThantAung7/status/1498569849961738240) | advertise |
