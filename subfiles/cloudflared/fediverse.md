@@ -26,10 +26,10 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,698 |
+| com | 4,699 |
 | social | 2,767 |
 | net | 2,471 |
-| org | 1,775 |
+| org | 1,776 |
 | de | 1,622 |
 
 
@@ -1222,6 +1222,7 @@ Here's a list of public Fediverse services.
 | `alternativebit.fr` | No |
 | `alternatives.network` | No |
 | `alternativons.com` | No |
+| `alterracloud.com` | Yes |
 | `altertek.org` | No |
 | `altervista.org` | Yes |
 | `alterw.fr` | No |
@@ -4828,6 +4829,7 @@ Here's a list of public Fediverse services.
 | `climatejustice.rocks` | No |
 | `climatejustice.social` | No |
 | `climatejustice.video` | Yes |
+| `clinicians-exchange.org` | No |
 | `clintmoyer.com` | No |
 | `clipperz.org` | No |
 | `clippyco.com` | No |
@@ -32447,8 +32449,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,289 |
-| Normal | 25,115 |
+| Cloudflare | 7,290 |
+| Normal | 25,116 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
