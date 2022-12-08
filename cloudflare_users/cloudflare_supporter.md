@@ -1798,6 +1798,7 @@ Do not create new issue or we will close it as duplicate.
 | [Chieu20561677@twitter](https://twitter.com/Chieu20561677/status/1551999138287722496) | advertise |
 | [childnoir209@twitter](https://twitter.com/childnoir209/status/1401223493463670791) | advertise |
 | [Chinh04270265@twitter](https://twitter.com/Chinh04270265/status/1553783240468856832) | advertise |
+| [ChinH87225758@twitter](https://twitter.com/ChinH87225758/status/1600851677585997824) | advertise |
 | [chinhvu86729466@twitter](https://twitter.com/chinhvu86729466/status/1471641846996946944) | advertise |
 | [ChinLi90635689@twitter](https://twitter.com/ChinLi90635689/status/1469606069961854976) | advertise |
 | [ChinNgu83676201@twitter](https://twitter.com/ChinNgu83676201/status/1555212811143286785) | advertise |
@@ -2296,6 +2297,7 @@ Do not create new issue or we will close it as duplicate.
 | [dhadha_sapkota@twitter](https://twitter.com/dhadha_sapkota/status/1376753394195427332) | advertise |
 | [dhanaraj_mukesh@twitter](https://twitter.com/dhanaraj_mukesh/status/1397963601734881280) | advertise |
 | [dhanishgajjar@twitter](https://twitter.com/dhanishgajjar/status/1404338714147311618) | advertise |
+| [dhfhjffhgggdf@twitter](https://twitter.com/dhfhjffhgggdf/status/1600849343170613248) | advertise |
 | [Dhikshith123@twitter](https://twitter.com/Dhikshith123/status/1391699512846999555) | advertise |
 | [Dhiraj12173428@twitter](https://twitter.com/Dhiraj12173428/status/1395206916792410115) | advertise |
 | [dhjdj08517668@twitter](https://twitter.com/dhjdj08517668/status/1387835137375703041) | advertise |
@@ -2544,6 +2546,7 @@ Do not create new issue or we will close it as duplicate.
 | [Duynkim8@twitter](https://twitter.com/Duynkim8/status/1408479143067459584) | advertise |
 | [DuyThnh23103428@twitter](https://twitter.com/DuyThnh23103428/status/1515883211372769280) | advertise |
 | [DuyTran98356663@twitter](https://twitter.com/DuyTran98356663/status/1510911601599447040) | advertise |
+| [DuyTrn63432829@twitter](https://twitter.com/DuyTrn63432829/status/1600840620427595782) | advertise |
 | [Duytrung31@twitter](https://twitter.com/Duytrung31/status/1388180524573741058) | advertise |
 | [duyyhoang102@twitter](https://twitter.com/duyyhoang102/status/1531892044008136704) | advertise |
 | [Du_Le33@twitter](https://twitter.com/Du_Le33/status/1552336926795243521) | advertise |
@@ -9727,8 +9730,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
+| [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
@@ -10508,6 +10511,7 @@ Do not create new issue or we will close it as duplicate.
 | [vhgamer2006@twitter](https://twitter.com/vhgamer2006/status/1413728432861585411) | advertise |
 | [VHi75796203@twitter](https://twitter.com/VHi75796203/status/1545355521510686720) | advertise |
 | [VHnh11622495@twitter](https://twitter.com/VHnh11622495/status/1553810981544808449) | advertise |
+| [VHo10991241@twitter](https://twitter.com/VHo10991241/status/1600853902194532352) | advertise |
 | [vhung7061@twitter](https://twitter.com/vhung7061/status/1487810623673147392) | advertise |
 | [vian_kio@twitter](https://twitter.com/vian_kio/status/1404827196846317571) | advertise |
 | [VicLessMan@twitter](https://twitter.com/VicLessMan/status/1588327048501612544) | advertise |
