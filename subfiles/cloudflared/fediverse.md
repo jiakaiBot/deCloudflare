@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,696 |
-| social | 2,762 |
+| social | 2,763 |
 | net | 2,470 |
 | org | 1,775 |
 | de | 1,620 |
@@ -99,6 +99,7 @@ Here's a list of public Fediverse services.
 | `0x41.team` | No |
 | `0x42.ch` | No |
 | `0x4711.org` | No |
+| `0x520.dev` | No |
 | `0x57.li` | No |
 | `0x5e.eu` | No |
 | `0x68.net` | No |
@@ -11829,6 +11830,7 @@ Here's a list of public Fediverse services.
 | `hipotter.com` | No |
 | `hippo.ws` | No |
 | `hippyjim.uk` | No |
+| `hips.social` | Yes |
 | `hipster.social` | No |
 | `hirad.it` | No |
 | `hiromi-mi.jp` | Yes |
@@ -15138,6 +15140,7 @@ Here's a list of public Fediverse services.
 | `lawrence.sh` | Yes |
 | `lawrenceks.social` | No |
 | `lawsocial.org` | Yes |
+| `lawtalk.app` | No |
 | `lawtalk.social` | No |
 | `layer0.dev` | Yes |
 | `layer8.space` | No |
@@ -21219,6 +21222,7 @@ Here's a list of public Fediverse services.
 | `otsuka.haus` | No |
 | `ottawa.party` | Yes |
 | `ottawa.place` | No |
+| `ottawaks.us` | Yes |
 | `otter.garden` | No |
 | `otter.sh` | No |
 | `otter.tube` | No |
@@ -25838,6 +25842,7 @@ Here's a list of public Fediverse services.
 | `skunkhollow.tech` | No |
 | `skweez.net` | No |
 | `sky-em.id.au` | No |
+| `skyax.design` | Yes |
 | `skycademc.com` | Yes |
 | `skye.cx` | No |
 | `skye.vg` | Yes |
@@ -28024,6 +28029,7 @@ Here's a list of public Fediverse services.
 | `thebrookes.com` | No |
 | `thebull.app` | No |
 | `theburning.world` | No |
+| `thebus.top` | No |
 | `thecabal.xyz` | No |
 | `thecabin.chat` | No |
 | `thecanadian.social` | Yes |
@@ -32421,8 +32427,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,279 |
-| Normal | 25,099 |
+| Cloudflare | 7,282 |
+| Normal | 25,102 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
