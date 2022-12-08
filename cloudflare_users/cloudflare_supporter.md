@@ -8136,6 +8136,7 @@ Do not create new issue or we will close it as duplicate.
 | [QuangHu01378602@twitter](https://twitter.com/QuangHu01378602/status/1380895418322542593) | advertise |
 | [QuangHu25018354@twitter](https://twitter.com/QuangHu25018354/status/1493308714065231872) | advertise |
 | [quangka09@twitter](https://twitter.com/quangka09/status/1391117991790608385) | advertise |
+| [quangl97035130@twitter](https://twitter.com/quangl97035130/status/1600874356099334147) | advertise |
 | [QuangNg40882818@twitter](https://twitter.com/QuangNg40882818/status/1406561229947035654) | advertise |
 | [Quangnghiahi@twitter](https://twitter.com/Quangnghiahi/status/1549424943594479616) | advertise |
 | [quangnhat0809@twitter](https://twitter.com/quangnhat0809/status/1379958517851824129) | advertise |
@@ -8205,6 +8206,7 @@ Do not create new issue or we will close it as duplicate.
 | [Rachel3304@twitter](https://twitter.com/Rachel3304/status/1559547803692666888) | advertise |
 | [racycars@twitter](https://twitter.com/racycars/status/1394606713827778561) | advertise |
 | [radio7toronto@twitter](https://twitter.com/radio7toronto/status/1512422850833133572) | advertise |
+| [radityoarifn@twitter](https://twitter.com/radityoarifn/status/1600883998162812928) | advertise |
 | [radpaluszak@twitter](https://twitter.com/radpaluszak/status/1398323773435265028) | advertise |
 | [radrohamymailc1@twitter](https://twitter.com/radrohamymailc1/status/1494955192973942785) | advertise |
 | [radthebad007@twitter](https://twitter.com/radthebad007/status/1395685973443452929) | advertise |
