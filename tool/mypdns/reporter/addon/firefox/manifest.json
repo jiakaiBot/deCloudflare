@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "My Privacy DNS - Reporter",
   "description": "Reporting websites made easy.",
-  "version": "1.0.1.16",
+  "version": "1.0.1.17",
   "author": "Crimeflare",
   "homepage_url": "http://crimeflare.eu.org/",
   "permissions": [
