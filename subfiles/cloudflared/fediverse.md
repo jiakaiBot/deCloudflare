@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,696 |
-| social | 2,765 |
-| net | 2,470 |
+| com | 4,698 |
+| social | 2,767 |
+| net | 2,471 |
 | org | 1,775 |
-| de | 1,620 |
+| de | 1,622 |
 
 
 - Mastodon, Pleroma, etc
@@ -2984,6 +2984,7 @@ Here's a list of public Fediverse services.
 | `bilb.info` | Yes |
 | `bilbaodendak.social` | No |
 | `bilboed.tech` | No |
+| `bildung-ekhn.de` | No |
 | `bildung.social` | No |
 | `bilge.world` | No |
 | `bilgisocial.club` | No |
@@ -9650,6 +9651,7 @@ Here's a list of public Fediverse services.
 | `friedhofstrasse.ch` | No |
 | `friediversum.de` | No |
 | `friedresistors.com` | No |
+| `friedrich.social` | No |
 | `friend-book.org` | No |
 | `friend-families.com` | No |
 | `friend.camp` | No |
@@ -13062,6 +13064,7 @@ Here's a list of public Fediverse services.
 | `iterate.no` | No |
 | `iterna.de` | No |
 | `itfm.xyz` | Yes |
+| `itgrity.social` | No |
 | `ithe.dev` | Yes |
 | `ithome.dk` | Yes |
 | `itland.no` | No |
@@ -14708,6 +14711,7 @@ Here's a list of public Fediverse services.
 | `kq.social` | No |
 | `kqz.io` | No |
 | `kra.hn` | No |
+| `kraeuterhexer.com` | No |
 | `kraft.blog` | No |
 | `krake.re` | No |
 | `krakow.social` | No |
@@ -15474,6 +15478,7 @@ Here's a list of public Fediverse services.
 | `liberal.city` | No |
 | `liberal.lgbt` | No |
 | `liberal.win` | No |
+| `liberated.network` | No |
 | `liberatorytechnology.network` | No |
 | `liberdon.com` | Yes |
 | `libereco.social` | No |
@@ -19603,6 +19608,7 @@ Here's a list of public Fediverse services.
 | `nerdistan.cloud` | No |
 | `nerdiverset.no` | Yes |
 | `nerdlings.net` | Yes |
+| `nerdnet.ovh` | No |
 | `nerdnight.ninja` | No |
 | `nerdnightlax.com` | Yes |
 | `nerdorium.org` | No |
@@ -20788,6 +20794,7 @@ Here's a list of public Fediverse services.
 | `oless.xyz` | No |
 | `olfsoftware.fr` | No |
 | `olifantje.net` | No |
+| `olimaia.net` | No |
 | `olio.lol` | Yes |
 | `oliphant.social` | No |
 | `oliphaunt.social` | No |
@@ -23976,6 +23983,7 @@ Here's a list of public Fediverse services.
 | `rheinland.social` | No |
 | `rheinmain.social` | No |
 | `rheinneckar.social` | Yes |
+| `rhetoricked.com` | No |
 | `rhetro.de` | No |
 | `rhg135.com` | No |
 | `rhino-inquisitor.com` | Yes |
@@ -31305,6 +31313,7 @@ Here's a list of public Fediverse services.
 | `wpj.name` | No |
 | `wpmeetup-frankfurt.de` | No |
 | `wprzemianie.pl` | No |
+| `wps.de` | No |
 | `wpsocial.live` | No |
 | `wptoots.social` | No |
 | `wq64.net` | No |
@@ -32438,7 +32447,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,288 |
-| Normal | 25,106 |
+| Normal | 25,115 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
