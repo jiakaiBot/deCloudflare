@@ -27812,6 +27812,7 @@ Here's a list of public Fediverse services.
 | `tencrux.com` | No |
 | `tending.to` | Yes |
 | `tenforward.social` | No |
+| `tenjin.ch` | No |
 | `tenka.love` | No |
 | `tenko.ai` | No |
 | `tenna.site` | No |
@@ -32403,7 +32404,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,275 |
-| Normal | 25,084 |
+| Normal | 25,085 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
