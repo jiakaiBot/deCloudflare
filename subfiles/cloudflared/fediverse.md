@@ -14974,6 +14974,7 @@ Here's a list of public Fediverse services.
 | `lacot.org` | No |
 | `lacteum.xyz` | No |
 | `lactomeda.tk` | No |
+| `ladd.network` | Yes |
 | `ladicle.com` | No |
 | `ladies.community` | No |
 | `ladisquette.fr` | No |
@@ -32446,7 +32447,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,288 |
+| Cloudflare | 7,289 |
 | Normal | 25,115 |
 
 
