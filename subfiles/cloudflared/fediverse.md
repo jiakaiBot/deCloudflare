@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,695 |
-| social | 2,760 |
+| social | 2,761 |
 | net | 2,469 |
 | org | 1,775 |
 | de | 1,620 |
@@ -8703,6 +8703,7 @@ Here's a list of public Fediverse services.
 | `federatedservices.ch` | No |
 | `federati.net` | No |
 | `federation.host` | No |
+| `federation.quest` | No |
 | `federation.stream` | No |
 | `federicoigne.com` | No |
 | `fedgram.com` | No |
@@ -27481,6 +27482,7 @@ Here's a list of public Fediverse services.
 | `talkingdrupal.social` | No |
 | `talkinghuman.com` | No |
 | `talkopol.is` | Yes |
+| `talkparanormal.social` | No |
 | `talkplus.org` | No |
 | `talkr.online` | No |
 | `talks.social` | No |
@@ -32407,7 +32409,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,276 |
-| Normal | 25,087 |
+| Normal | 25,089 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
