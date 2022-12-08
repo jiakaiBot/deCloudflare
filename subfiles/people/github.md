@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: 'Input buffer contains unsupported image format'](https://github.com/orkestral/venom/issues/2069)
 - [4.37.2 to 4.37.3 crashes with corrupt DB error](https://github.com/authelia/authelia/issues/4519)
 - [ethers.js don't work on workers](https://github.com/ethers-io/ethers.js/issues/3577)
 - [Order of operations for Capture vs Asserts](https://github.com/Orange-OpenSource/hurl/issues/1072)
