@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,699 |
 | social | 2,767 |
-| net | 2,471 |
+| net | 2,472 |
 | org | 1,776 |
 | de | 1,622 |
 
@@ -5361,6 +5361,7 @@ Here's a list of public Fediverse services.
 | `cosmic-engineer.com` | No |
 | `cosmicanimal.jp` | No |
 | `cosmicdust.cloud` | No |
+| `cosmicfir.es` | No |
 | `cosmicfriends.org` | No |
 | `cosmicnation.co` | No |
 | `cosmos.social` | Yes |
@@ -25764,6 +25765,7 @@ Here's a list of public Fediverse services.
 | `siru.tokyo` | Yes |
 | `sirward.com` | No |
 | `sisao.de` | No |
+| `sissom.net` | No |
 | `sisters.pink` | No |
 | `sisu.social` | Yes |
 | `site.nz` | No |
@@ -32450,7 +32452,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,290 |
-| Normal | 25,116 |
+| Normal | 25,118 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
