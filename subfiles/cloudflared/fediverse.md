@@ -11547,7 +11547,7 @@ Here's a list of public Fediverse services.
 | `heartles.xyz` | No |
 | `heath.cc` | Yes |
 | `heath.town` | No |
-| `heathanderson.net` | No |
+| `heathanderson.net` | Yes |
 | `heathenarmy.net` | No |
 | `heathens.club` | No |
 | `heaton.dev` | Yes |
@@ -25904,6 +25904,7 @@ Here's a list of public Fediverse services.
 | `skyue.xyz` | No |
 | `sl-network.fr` | No |
 | `slacknet.uk` | No |
+| `slackware.nl` | No |
 | `slackworks.social` | No |
 | `slackz.co` | No |
 | `slaght.de` | No |
@@ -32478,7 +32479,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,303 |
+| Cloudflare | 7,304 |
 | Normal | 25,132 |
 
 
