@@ -104,6 +104,7 @@ Or is this merely a case of simple modesty?
 | Alex Dyner | Head of Special Projects |  |
 | Alex Fattouche | Employee |  |
 | Alex Forster | Systems Engineer, Austin | alex@alexforster.com<br>https://twitter.com/Alex_Forster<br>https://www.zoominfo.com/p/Alex-Forster/2613640286<br>https://github.com/alexforster |
+| Alex Kim | Employee | |
 | Alex Krawiec | Technical Writer and Engineer |  |
 | Alex Krivit | Employee |  |
 | Alex Musgrove | Account Executive |  |
@@ -1404,6 +1405,7 @@ Or is this merely a case of simple modesty?
 | Rachel Gonzalez | Executive Assistant |  |
 | Rachel Jenkins | Employee | |
 | Radina Mihaleva | Partnerships and Business Development |  |
+| Radwa Radwan | Employee | |
 | Rafael Carabano | Customer Success |  |
 | Rafael Rafi Cohn-Gruenwald | Security Intern |  |
 | Rahul Arun Singh | Product Marketing, Security |  |
