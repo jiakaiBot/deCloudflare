@@ -1340,6 +1340,7 @@ Do not create new issue or we will close it as duplicate.
 | [BforeAi@twitter](https://twitter.com/BforeAi/status/1407094270700498944) | advertise |
 | [Bfresh420Lord@twitter](https://twitter.com/Bfresh420Lord/status/1378988801695965187) | advertise |
 | [Bg9Ghost@twitter](https://twitter.com/Bg9Ghost/status/1545570473819488259) | advertise |
+| [BGirlMM4444@twitter](https://twitter.com/BGirlMM4444/status/1601186821139927041) | advertise |
 | [BGomez77@twitter](https://twitter.com/BGomez77/status/1377795873955049472) | advertise |
 | [BGSG45998073@twitter](https://twitter.com/BGSG45998073/status/1396751243352084487) | advertise |
 | [BgsRaw@twitter](https://twitter.com/BgsRaw/status/1505947100793774087) | advertise |
@@ -9159,6 +9160,7 @@ Do not create new issue or we will close it as duplicate.
 | [soemoewinn2@twitter](https://twitter.com/soemoewinn2/status/1508816042067660800) | advertise |
 | [SoeMyintNaing3@twitter](https://twitter.com/SoeMyintNaing3/status/1519873669832400902) | advertise |
 | [SoeNain90836555@twitter](https://twitter.com/SoeNain90836555/status/1394202886762995721) | advertise |
+| [soenyuntshein9@twitter](https://twitter.com/soenyuntshein9/status/1601179719025598464) | advertise |
 | [soep352@twitter](https://twitter.com/soep352/status/1397064351949877248) | advertise |
 | [SoePain61152147@twitter](https://twitter.com/SoePain61152147/status/1390341263795232774) | advertise |
 | [SoePyaetun14@twitter](https://twitter.com/SoePyaetun14/status/1492015118309158913) | advertise |
@@ -10192,6 +10194,7 @@ Do not create new issue or we will close it as duplicate.
 | [trng27738898@twitter](https://twitter.com/trng27738898/status/1566444882972983297) | advertise |
 | [trng78863858@twitter](https://twitter.com/trng78863858/status/1580176990207848448) | advertise |
 | [TrngAn55238126@twitter](https://twitter.com/TrngAn55238126/status/1485885246147264512) | advertise |
+| [TrngAnh37566281@twitter](https://twitter.com/TrngAnh37566281/status/1601177572817063937) | advertise |
 | [trnggia21482800@twitter](https://twitter.com/trnggia21482800/status/1552625904270319616) | advertise |
 | [TrngHng71947788@twitter](https://twitter.com/TrngHng71947788/status/1393971195691687940) | advertise |
 | [TrngHongTuyn1@twitter](https://twitter.com/TrngHongTuyn1/status/1383998170615599109) | advertise |
