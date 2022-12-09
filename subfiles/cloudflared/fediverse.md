@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,708 |
-| social | 2,773 |
+| com | 4,712 |
+| social | 2,775 |
 | net | 2,474 |
 | org | 1,779 |
 | de | 1,622 |
@@ -110,6 +110,7 @@ Here's a list of public Fediverse services.
 | `0x80.org` | No |
 | `0x89.de` | No |
 | `0xa.pw` | Yes |
+| `0xa1.red` | Yes |
 | `0xa1.social` | No |
 | `0xabc.de` | No |
 | `0xd.jp` | No |
@@ -1150,6 +1151,7 @@ Here's a list of public Fediverse services.
 | `allot256.net` | No |
 | `allout.site` | No |
 | `allowed.org` | Yes |
+| `allpeep.com` | No |
 | `allplayer.tk` | Yes |
 | `allpro.social` | No |
 | `allpurposem.at` | No |
@@ -2143,6 +2145,7 @@ Here's a list of public Fediverse services.
 | `ausrineblackthorn.com` | No |
 | `aussiebondage.au` | Yes |
 | `austin.community` | No |
+| `austintexas.social` | No |
 | `austodon.com` | No |
 | `austria-toots.social` | No |
 | `aut.social` | No |
@@ -4271,6 +4274,7 @@ Here's a list of public Fediverse services.
 | `catpp.eu` | No |
 | `catrow.net` | No |
 | `cats-home.net` | No |
+| `cats.ovh` | Yes |
 | `cats.social` | No |
 | `catsbay.org` | No |
 | `catscatscats.party` | No |
@@ -5696,6 +5700,7 @@ Here's a list of public Fediverse services.
 | `cube4fun.net` | No |
 | `cubeworld.de` | No |
 | `cubhub.social` | No |
+| `cubicgarden.com` | No |
 | `cubieserver.de` | Yes |
 | `cubyx.eu` | Yes |
 | `cuche.cc` | No |
@@ -5762,6 +5767,7 @@ Here's a list of public Fediverse services.
 | `curta.cc` | No |
 | `curta.red` | No |
 | `curtisjewell.website` | No |
+| `curtismchale.ca` | No |
 | `cusae.com` | No |
 | `cuscuz.in` | Yes |
 | `cuse.social` | No |
@@ -7195,6 +7201,7 @@ Here's a list of public Fediverse services.
 | `doubleshine.cc` | Yes |
 | `doubleword.gq` | No |
 | `doublewordplay.com` | No |
+| `doublygood.co.uk` | No |
 | `douchi.space` | Yes |
 | `doufen.org` | Yes |
 | `doug.computer` | No |
@@ -9320,6 +9327,7 @@ Here's a list of public Fediverse services.
 | `fodor.app` | Yes |
 | `foederati.dk` | No |
 | `foederiert.de` | No |
+| `foederiert.eu` | No |
 | `foerster-ffm.de` | No |
 | `fofoca.eu` | No |
 | `fogade.gob.ve` | No |
@@ -16451,6 +16459,7 @@ Here's a list of public Fediverse services.
 | `magentix.space` | No |
 | `magex.hu` | No |
 | `magfest.org` | Yes |
+| `magi-lab.com` | No |
 | `magi.sh` | No |
 | `magi.systems` | Yes |
 | `magic.win` | No |
@@ -18964,6 +18973,7 @@ Here's a list of public Fediverse services.
 | `mullet.social` | No |
 | `mulligrubs.me` | No |
 | `mulliken.net` | Yes |
+| `mullin.dev` | No |
 | `mulmeyun.church` | Yes |
 | `mulot.org` | Yes |
 | `multed.com` | No |
@@ -27653,6 +27663,7 @@ Here's a list of public Fediverse services.
 | `taroedon.com` | No |
 | `tarrien.net` | Yes |
 | `tarsis.me` | No |
+| `tartanhare.com` | No |
 | `tarunbauri.in` | Yes |
 | `taruntarun.net` | Yes |
 | `tasartir.cz` | No |
@@ -27956,6 +27967,7 @@ Here's a list of public Fediverse services.
 | `terryiscool160.xyz` | Yes |
 | `terryx.com` | Yes |
 | `terusid.com` | No |
+| `terz.at` | No |
 | `tesaguri.club` | No |
 | `tesgo.fr` | No |
 | `teslafans.ch` | No |
@@ -28269,6 +28281,7 @@ Here's a list of public Fediverse services.
 | `thenorth.social` | Yes |
 | `thenowhere.men` | Yes |
 | `thentrythis.org` | No |
+| `thenucleus.social` | No |
 | `thenullpointer.net` | Yes |
 | `thenut.zone` | Yes |
 | `theo-lem.org` | No |
@@ -32505,8 +32518,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,311 |
-| Normal | 25,151 |
+| Cloudflare | 7,313 |
+| Normal | 25,162 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
