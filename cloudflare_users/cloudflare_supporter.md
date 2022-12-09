@@ -5345,6 +5345,7 @@ Do not create new issue or we will close it as duplicate.
 | [L3h3trDwkpgDolm@twitter](https://twitter.com/L3h3trDwkpgDolm/status/1392118903644430347) | advertise |
 | [L19Nhn@twitter](https://twitter.com/L19Nhn/status/1562861888387444736) | advertise |
 | [L29kZkGeFkfoZZH@twitter](https://twitter.com/L29kZkGeFkfoZZH/status/1389853508170518532) | advertise |
+| [l93535882@twitter](https://twitter.com/l93535882/status/1601285982623780864) | advertise |
 | [labdolabo@twitter](https://twitter.com/labdolabo/status/1399564849328312325) | advertise |
 | [Labongze_@twitter](https://twitter.com/Labongze_/status/1401586761776652295) | advertise |
 | [Labpreet4@twitter](https://twitter.com/Labpreet4/status/1385826145350918146) | advertise |
@@ -10015,6 +10016,7 @@ Do not create new issue or we will close it as duplicate.
 | [tinapham0906@twitter](https://twitter.com/tinapham0906/status/1468973962134646787) | advertise |
 | [TINAUNGWIN469@twitter](https://twitter.com/TINAUNGWIN469/status/1390341815673360386) | advertise |
 | [tinh23@twitter](https://twitter.com/tinh23/status/1553419999888285696) | advertise |
+| [tinhngo79541721@twitter](https://twitter.com/tinhngo79541721/status/1601284409801707520) | advertise |
 | [TinHunh33663977@twitter](https://twitter.com/TinHunh33663977/status/1380935663692914690) | advertise |
 | [TinKoyu@twitter](https://twitter.com/TinKoyu/status/1406503215068184583) | advertise |
 | [tinlai3@twitter](https://twitter.com/tinlai3/status/1552195694471311360) | advertise |
