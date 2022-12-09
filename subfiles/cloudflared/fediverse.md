@@ -1100,6 +1100,7 @@ Here's a list of public Fediverse services.
 | `alice-tech.net` | No |
 | `alice486.com` | Yes |
 | `alicecomplex.com` | No |
+| `alicee.ooo` | No |
 | `alicef.me` | No |
 | `aliceice.de` | No |
 | `aliceriverpark.pw` | No |
@@ -11336,6 +11337,7 @@ Here's a list of public Fediverse services.
 | `halfacree.co.uk` | Yes |
 | `halfast.com` | No |
 | `halfbyte.org` | No |
+| `halfey.moe` | No |
 | `halfmemories.com` | Yes |
 | `halfpastfour.club` | No |
 | `halfstreet.social` | No |
@@ -32477,7 +32479,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,303 |
-| Normal | 25,130 |
+| Normal | 25,132 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
