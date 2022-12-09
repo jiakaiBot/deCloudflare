@@ -628,6 +628,8 @@ www.titipaket.jinno.website
 youtrack.justin-gruenwald.de
 900809.jweiland-hosting.de
 amazon-puytr.jungleheart.com
+api-dev.julo.co.id
+api-sit.jio.com
 api.jio.com
 auth.jiri-pejsa.cz
 autodiscover.jeanfox.tv
@@ -682,11 +684,13 @@ jurnalbumdes.id
 justiceclimatique.org
 law.justia.com
 mail1.jvgas.com
+mailtrack.judgeme.email
 oig.justice.gov
 press.jal.co.jp
 rakuten-bhji.justdied.com
 rakuten-ed.justdied.com
 rakuten-wsxc.justdied.com
+regulations.justia.com
 sisu-client.cap.jukk.it
 starcash.jamiealarie.com
 ticket.jogjabikerendezvous.com
@@ -696,11 +700,13 @@ webdisk.jouwwebservice.nl
 webmail.jaineesteticista.website
 webmail.jdbarnes.com
 www.apieclaim.jtbnn.com
+www.banktryout.com.jamandigital.com
 www.eki-net.jp-co-1.cyou
 www.fedex-track.sg.jexpress.com.br
 www.jackel-billy-lpe.fr
 www.jackiebeck.com
 www.jackrubinacci.com
+www.jackson.com.au
 www.jaipurcitycab.in
 www.jakeorr.co.uk
 www.jal.co.jp
