@@ -243,6 +243,7 @@ amazon-rdfcv.zzux.com
 aws-staging.zeroq.cl
 aws-traefik.zeroq.cl
 collaborateuat.zyter.net
+comoganardinero.z4k.org
 discord.zorustech.com
 gateway.zscalergov.net
 gog-ws.zt-archiv.at
@@ -252,8 +253,10 @@ register.zscalertwo.net
 staging2.zeroq.cl
 tipengine.zoho.com
 travelassist.zurich.ca
+valeofglamorgan.zipporah.co.uk
 www.billgenerate.zahidjodntours.com
 www.clients.zoom-app.com
+www.comoganardinero.z4k.org
 www.rooscontrol.zon18.click
 www.securedserver.zyns.com
 www.secureserver0010.zyns.com
@@ -268,6 +271,7 @@ www.zenith-watches.com
 www.zillowstatic.com
 www.zinapflegedienst.de
 www.zonguldakbarosu.org.tr
+www.zoogdiervereniging.nl
 www.ztzhelpdesk.info
 zagreb-apt.com
 zapach-papieru.pl
