@@ -599,6 +599,7 @@ Do not create new issue or we will close it as duplicate.
 | [amirjune14@twitter](https://twitter.com/amirjune14/status/1558795946577780737) | advertise |
 | [AmirKhalaj19@twitter](https://twitter.com/AmirKhalaj19/status/1555311811481804800) | advertise |
 | [AmirMansoury@twitter](https://twitter.com/AmirMansoury/status/1536930486601195520) | advertise |
+| [AmirParvaresh@twitter](https://twitter.com/AmirParvaresh/status/1601349145331392512) | advertise |
 | [AmirReza1974@twitter](https://twitter.com/AmirReza1974/status/1579067150542974978) | advertise |
 | [AmirShamaei@twitter](https://twitter.com/AmirShamaei/status/1380125118387589121) | advertise |
 | [Amirtalib02@twitter](https://twitter.com/Amirtalib02/status/1564245612412825601) | advertise |
@@ -4966,8 +4967,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8759,6 +8760,7 @@ Do not create new issue or we will close it as duplicate.
 | [sarangrasalsR@twitter](https://twitter.com/sarangrasalsR/status/1393452921992318977) | advertise |
 | [sara_suc@twitter](https://twitter.com/sara_suc/status/1407674919186403332) | advertise |
 | [sarbalgyi12@twitter](https://twitter.com/sarbalgyi12/status/1389785687021457408) | advertise |
+| [sarbaz_vatan_ir@twitter](https://twitter.com/sarbaz_vatan_ir/status/1601340311888093184) | advertise |
 | [SarBelGyee1500@twitter](https://twitter.com/SarBelGyee1500/status/1379733028361043970) | advertise |
 | [SardaIshan@twitter](https://twitter.com/SardaIshan/status/1382695259549880329) | advertise |
 | [Sarina63795826@twitter](https://twitter.com/Sarina63795826/status/1396348754521907200) | advertise |
