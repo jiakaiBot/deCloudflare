@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Getting Error While Validating the Cloudflare domain](https://github.com/win-acme/win-acme/issues/2263)
 - [Curious issue with variables.](https://github.com/lucaslorentz/caddy-docker-proxy/issues/435)
 - [Timeouts in admin Categories](https://github.com/magento/magento2/issues/36588)
 - [Error: 'Input buffer contains unsupported image format'](https://github.com/orkestral/venom/issues/2069)
