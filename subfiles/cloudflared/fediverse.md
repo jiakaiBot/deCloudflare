@@ -12061,6 +12061,7 @@ Here's a list of public Fediverse services.
 | `horens.audio` | No |
 | `horiedon.com` | No |
 | `horizin.de` | No |
+| `horizonnet.eu` | No |
 | `horizons.one` | No |
 | `hormonzicken.party` | Yes |
 | `horner.tj` | Yes |
@@ -12388,6 +12389,7 @@ Here's a list of public Fediverse services.
 | `icewind.nl` | No |
 | `ich.gay` | Yes |
 | `ichbinkeinreh.de` | No |
+| `ichidan.io` | Yes |
 | `ichigo-hoshimiya.com` | No |
 | `ichii.moe` | No |
 | `ichiji.social` | No |
@@ -12976,6 +12978,7 @@ Here's a list of public Fediverse services.
 | `is-heckin.gay` | Yes |
 | `is-here.com` | No |
 | `is-super.moe` | No |
+| `is4.site` | Yes |
 | `isaaccronk.com` | No |
 | `isaacsu.com` | Yes |
 | `isabelle-santos.space` | No |
@@ -32451,8 +32454,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,290 |
-| Normal | 25,118 |
+| Cloudflare | 7,292 |
+| Normal | 25,119 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
