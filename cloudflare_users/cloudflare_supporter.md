@@ -1979,8 +1979,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -9046,6 +9046,7 @@ Do not create new issue or we will close it as duplicate.
 | [SiSi66647106@twitter](https://twitter.com/SiSi66647106/status/1395267199011463170) | advertise |
 | [Sisifat099@twitter](https://twitter.com/Sisifat099/status/1560568762235232256) | advertise |
 | [Sisyphe4242@twitter](https://twitter.com/Sisyphe4242/status/1570999413115588608) | advertise |
+| [site_k2@twitter](https://twitter.com/site_k2/status/1601039875830345730) | advertise |
 | [SiThu31071195@twitter](https://twitter.com/SiThu31071195/status/1392198744779730946) | advertise |
 | [Sithu72932001@twitter](https://twitter.com/Sithu72932001/status/1405108314564829189) | advertise |
 | [SiThu75416746@twitter](https://twitter.com/SiThu75416746/status/1391367093849714690) | advertise |
@@ -10783,6 +10784,7 @@ Do not create new issue or we will close it as duplicate.
 | [whitezomYT@twitter](https://twitter.com/whitezomYT/status/1597056863442726912) | advertise |
 | [WhoAmI61449941@twitter](https://twitter.com/WhoAmI61449941/status/1379726183009460224) | advertise |
 | [Whodis09575291@twitter](https://twitter.com/Whodis09575291/status/1570060628211142659) | advertise |
+| [whonionapp@twitter](https://twitter.com/whonionapp/status/1601041883777884160) | advertise |
 | [whoomenreallyis@twitter](https://twitter.com/whoomenreallyis/status/1506157558628855813) | advertise |
 | [Who_IsM@twitter](https://twitter.com/Who_IsM/status/1595174486659239940) | advertise |
 | [WhXRuMfnyHtsfdk@twitter](https://twitter.com/WhXRuMfnyHtsfdk/status/1403069036422856705) | advertise |
