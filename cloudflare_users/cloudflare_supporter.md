@@ -2663,6 +2663,7 @@ Do not create new issue or we will close it as duplicate.
 | [ekafjr2802@twitter](https://twitter.com/ekafjr2802/status/1579097844115390464) | advertise |
 | [Ekham13@twitter](https://twitter.com/Ekham13/status/1395515057883209731) | advertise |
 | [el3mentry@twitter](https://twitter.com/el3mentry/status/1402187903665463296) | advertise |
+| [Elainasan831069@twitter](https://twitter.com/Elainasan831069/status/1601267438200713216) | advertise |
 | [Elaine01799523@twitter](https://twitter.com/Elaine01799523/status/1397575836140589056) | advertise |
 | [elara_kin@twitter](https://twitter.com/elara_kin/status/1395797258030002177) | advertise |
 | [ElBrooklyn5@twitter](https://twitter.com/ElBrooklyn5/status/1559384072291590144) | advertise |
@@ -4963,8 +4964,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -8491,6 +8492,7 @@ Do not create new issue or we will close it as duplicate.
 | [RomilBenoit@twitter](https://twitter.com/RomilBenoit/status/1511432118722875398) | advertise |
 | [RominTumde@twitter](https://twitter.com/RominTumde/status/1392255755034796032) | advertise |
 | [RonaldT20068209@twitter](https://twitter.com/RonaldT20068209/status/1501376414481895424) | advertise |
+| [roney_wak@twitter](https://twitter.com/roney_wak/status/1601267324853440512) | advertise |
 | [rone_clifton@twitter](https://twitter.com/rone_clifton/status/1450187206979588096) | advertise |
 | [RonitBose13@twitter](https://twitter.com/RonitBose13/status/1428250137445425157) | advertise |
 | [RonnachaiKammu6@twitter](https://twitter.com/RonnachaiKammu6/status/1382350935758807043) | advertise |
