@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Timeouts in admin Categories](https://github.com/magento/magento2/issues/36588)
 - [Error: 'Input buffer contains unsupported image format'](https://github.com/orkestral/venom/issues/2069)
 - [4.37.2 to 4.37.3 crashes with corrupt DB error](https://github.com/authelia/authelia/issues/4519)
 - [ethers.js don't work on workers](https://github.com/ethers-io/ethers.js/issues/3577)
