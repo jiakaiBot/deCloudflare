@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-09: [Increased HTTP 503 errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/xnjm626fvlpc)
 - 2022-12-09: [Cloudflare Registration Data Access Protocol (RDAP) Issues](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/yl5hxz3r0mbs)
 - 2022-12-13: [DEN (Denver) on 2022-12-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/v2vwpd5f23qz)
 - 2022-12-13: [LAX (Los Angeles) on 2022-12-13](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/chlwy25q28xk)
