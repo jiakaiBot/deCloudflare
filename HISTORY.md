@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-09: [VIE (Vienna) on 2022-12-09](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/7vvpjbmq35kd)
 - 2022-12-12: [JNB (Johannesburg) on 2022-12-12](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ghgnhw9jjv7c)
 - 2022-12-09: [FRA (Frankfurt) on 2022-12-09](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/vvrx347tt92c)
 - 2022-12-08: [ZDM (Ramallah) on 2022-12-08](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/kf2fcw2224jg)
