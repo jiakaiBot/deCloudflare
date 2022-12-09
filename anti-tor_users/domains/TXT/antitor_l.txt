@@ -818,7 +818,6 @@ lexiconofsong.org
 lexus.jp
 lfi-online.de
 lgbtlibdems.org.uk
-lgservice.com.vn
 lhham.com.sg
 lhv-autentida.com
 lhv-ee.top
@@ -1278,7 +1277,6 @@ www.lfp-totalservice.dk
 www.lg-security.it
 www.lgbthotline.org
 www.lgcplus.com
-www.lgservice.com.vn
 www.libanga-services-lpb.fr
 www.libertycity.ca
 www.libertymutualgroup.com
@@ -1425,7 +1423,9 @@ channel-cards-html.lloydsbankinggroup.com
 chem.libretexts.org
 click.lakeronewsletter.com
 click.mc.lebensmittelzeitung.net
+cloud.lhwc.org.ls
 connectionbased.livejournal.com
+covidresult.labhelp.kr
 cpanel.losangelesfoxnews.com
 cpcalendars.lenovocustomercare.in
 cpcalendars.loveintimeofcoronavirus.com
@@ -1451,11 +1451,13 @@ ha.lodex.it
 hgame-channel-slb-gs.lilithcdn.com
 hgame-z2-slb-gs.lilithcdn.com
 ideabank.lhi-consulting.com
+ilearn.learnsaf.gov.sg
 illum-voluptas-liberoblog.law.blog
 kodiakplumbing.livejournal.com
 labr.online
 labtaxservice.com
 lacouleedouce.fr
+lacovidvaccine.com
 lafoxmedia.com
 lagrm.org
 lalazin.com
@@ -1482,6 +1484,7 @@ legendfuntourism.com
 lehollandaisvolant.net
 lendami.co
 lengua25.com
+lephalalebtcollege.co.za
 lesoir-echos.com
 letalcontrol.cl
 leumiopenbanking.co.il
@@ -1502,6 +1505,7 @@ lightning.ai
 likemeat.com
 lilianemonette.com
 lilianeterapeuta.com
+linkbe.me
 links-cnv.com
 links.lon.tv
 lionlionmusic.com
@@ -1524,6 +1528,8 @@ localitandsecurity.com
 lockridgemedxchange.com
 login-telegram.ru
 loginamor77.com
+logysist.com
+lon.tv
 londoner.dk
 londonloansbank.com
 lopeza.net
@@ -1536,6 +1542,7 @@ lsdm.live
 lsfusion.ru
 luckwellsolutions.com
 lucyexhibition.com
+luxpol-bis.pl
 lyfepal.com
 lyriqchargerinstallation.com
 lyupz.com
@@ -1557,11 +1564,14 @@ soikeonhacainet.livejournal.com
 solidline-test.lrs-plattform.de
 staging.zmail.langesundskolemusikk.no
 start.lesechos.fr
+tickets.lunarelectric.com.au
+tiktok.login-setting.com
 twilio-event-ingestor.dev.wem.gde.aws.lmig.com
 uat1-authentication.leroymerlin.it
 verdahemp.livejournal.com
 vintage-ads.livejournal.com
 webdisk.lexipsaabogados.com
+webdisk.location-appleid.info
 webdisk.loveintimeofcoronavirus.com
 webdisk.lowestpricecialischeapest.online
 whiteferz.livejournal.com
@@ -1572,6 +1582,7 @@ www.bill.lifezila.com
 www.bloraupdate.lupuznews.com
 www.client.larahosting.in
 www.epi.logindesigns.com
+www.fiksulaina.luottotilit.fi
 www.game-day.login-ken.com
 www.git.git.git.autodiscover.lightlockbank.pro
 www.git.git.git.git.autodiscover.lightlockbank.pro
@@ -1602,7 +1613,9 @@ www.gitlab.gitlab.gitlab.gitlab.autodiscover.lightlockbank.pro
 www.gitlab.gitlab.gitlab.gitlab.git.autodiscover.lightlockbank.pro
 www.gombakdistrict.loginx.icu
 www.helpdesk.logenda.ca
+www.historicaltheology.loginkrisna96mantap.com
 www.ideabank.lhi-consulting.com
+www.ikofansfvznoazey.relay2.credit-suisse.lucero.com
 www.karmaactividad.lov318.click
 www.l-europeen.com
 www.la-table-des-troys.com
@@ -1612,6 +1625,7 @@ www.laconiadailysun.com
 www.lafm.com.co
 www.lamonganupdate.id
 www.lancasterfarming.com
+www.landscapesuncovered.com
 www.lanouvellerepublique.fr
 www.lapause-villejuif.fr
 www.lasamazonas.com.ar
@@ -1620,6 +1634,7 @@ www.lassahnfuneralhomes.com
 www.lastampa.it
 www.lastmile.cafe
 www.latestresumesample.com
+www.latherloungesalon.com
 www.latmeco.com
 www.latropia.de
 www.laura-postma.eu
@@ -1631,6 +1646,7 @@ www.leboncoin.fr
 www.lecarbofevre.fr
 www.legacypixels.com
 www.legacysir.com
+www.legalife.fr
 www.legionpost57tn.org
 www.legionpost717.org
 www.legitupdate.ng
@@ -1657,6 +1673,7 @@ www.librarything.com
 www.lifewire.com
 www.lindalang-bankowski.realtor
 www.linke-aktivisten-vogtland.de
+www.literaturdialoge.at
 www.littlefieldchevrolet.com
 www.littlesounddj.com
 www.liveabout.com
@@ -1666,6 +1683,7 @@ www.livestreamsafety.com
 www.livingstonparishnews.com
 www.lmfm.ie
 www.login-ken.com
+www.loginlyftdriver.com
 www.londonloansbank.com
 www.loneoakfarmpa.com
 www.lopifit.nl
@@ -1677,6 +1695,7 @@ www.lowestpriceshopper.com
 www.luckenwalde.de
 www.support.lynaysentreprises.com
 www.testing.laptop-service.gr
+www.ticket1.leandromiranda.pt
 www.tracking.lightspeedcourierservice.online
 www.tv-live.login-ken.com
 yava.labs247.id
