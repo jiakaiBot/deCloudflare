@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,707 |
+| com | 4,708 |
 | social | 2,773 |
 | net | 2,474 |
 | org | 1,779 |
@@ -6805,6 +6805,7 @@ Here's a list of public Fediverse services.
 | `digitalcastle.me` | No |
 | `digitalcitizen.at` | No |
 | `digitalcollections.nyc` | No |
+| `digitalcourage.photo` | No |
 | `digitalcourage.social` | No |
 | `digitalcourage.video` | No |
 | `digitaldarkage.cc` | No |
@@ -8158,6 +8159,7 @@ Here's a list of public Fediverse services.
 | `ericbeckers.nl` | No |
 | `ericblade.us` | No |
 | `ericcredeur.com` | No |
+| `ericdube.com` | No |
 | `ericgregorich.com` | Yes |
 | `ericjustdoesnotcare.com` | No |
 | `ericlathrop.com` | No |
@@ -9171,6 +9173,7 @@ Here's a list of public Fediverse services.
 | `fl0w.fr` | No |
 | `fla.red` | Yes |
 | `flabs.org` | No |
+| `flach.land` | No |
 | `flagada.org` | No |
 | `flagrama.net` | No |
 | `flaig.name` | No |
@@ -21902,6 +21905,7 @@ Here's a list of public Fediverse services.
 | `petergoes.nl` | No |
 | `peterjanes.ca` | No |
 | `peterlehmann.xyz` | No |
+| `peterlew.is` | Yes |
 | `petermolnar.net` | No |
 | `peterrowlett.net` | No |
 | `petersanchez.com` | No |
@@ -31255,6 +31259,8 @@ Here's a list of public Fediverse services.
 | `wohmr.com` | No |
 | `woho.ooo` | No |
 | `woini.men` | Yes |
+| `wojciech.cloud` | Yes |
+| `wojciech.pics` | No |
 | `wojgx.pl` | No |
 | `woke.institute` | No |
 | `woken.social` | No |
@@ -32499,8 +32505,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,309 |
-| Normal | 25,147 |
+| Cloudflare | 7,311 |
+| Normal | 25,151 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
