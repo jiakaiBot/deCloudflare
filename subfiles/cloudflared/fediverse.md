@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,723 |
+| com | 4,721 |
 | social | 2,784 |
 | net | 2,478 |
 | org | 1,781 |
@@ -984,6 +984,7 @@ Here's a list of public Fediverse services.
 | `akapolypse.de` | No |
 | `akari-network.jp` | No |
 | `akarinext.org` | Yes |
+| `akasa.red` | Yes |
 | `akashi.cloud` | No |
 | `akashiensis.com` | No |
 | `akashiensis.online` | Yes |
@@ -5042,7 +5043,6 @@ Here's a list of public Fediverse services.
 | `codingquark.com` | Yes |
 | `codingstream.org` | Yes |
 | `codl.fr` | Yes |
-| `codydostal.com` | Yes |
 | `coe-gamecult.org` | No |
 | `coelacanth-dream.com` | No |
 | `coenjacobs.me` | No |
@@ -8533,7 +8533,6 @@ Here's a list of public Fediverse services.
 | `faceless.company` | No |
 | `fachkraeftesicherer.de` | Yes |
 | `facil.services` | No |
-| `facorazza.com` | No |
 | `factland.social` | Yes |
 | `factorial.io` | No |
 | `factsonthegroundshow.com` | No |
@@ -11124,7 +11123,6 @@ Here's a list of public Fediverse services.
 | `grupli.org` | No |
 | `grurple.org` | No |
 | `gry.st` | No |
-| `gryffyn.io` | No |
 | `gsalucci.dev` | No |
 | `gsch.eu` | Yes |
 | `gsd.foundation` | No |
@@ -12430,6 +12428,7 @@ Here's a list of public Fediverse services.
 | `ibe.social` | No |
 | `ibenot.com` | Yes |
 | `ibex.social` | No |
+| `ibexpert.info` | No |
 | `ibicadi.com` | No |
 | `ibite.lol` | Yes |
 | `ibk-cloud.eu` | No |
@@ -21388,6 +21387,7 @@ Here's a list of public Fediverse services.
 | `outsourceyour.it` | No |
 | `outv.im` | Yes |
 | `outwith.biz` | No |
+| `ouvaton.coop` | No |
 | `ouzu.im` | No |
 | `oval.cc` | No |
 | `ovalerio.net` | Yes |
@@ -23048,7 +23048,6 @@ Here's a list of public Fediverse services.
 | `pteranodon.net` | No |
 | `ptinem.io` | No |
 | `ptr.fm` | Yes |
-| `ptrl.ws` | Yes |
 | `pttmpl.de` | No |
 | `ptwg.xyz` | No |
 | `pu2ttz.app.br` | No |
@@ -24865,6 +24864,7 @@ Here's a list of public Fediverse services.
 | `sarahlizzy.org` | No |
 | `sarahvhines.com` | No |
 | `saramara.ai` | Yes |
+| `saratov.ch` | No |
 | `sarber.plus` | Yes |
 | `sarcasm.stream` | No |
 | `sardegna.social` | No |
@@ -30411,6 +30411,7 @@ Here's a list of public Fediverse services.
 | `vidm.co` | No |
 | `vidro.club` | No |
 | `vidrot.com` | No |
+| `vidy.casa` | No |
 | `vidyagam.es` | No |
 | `vielfalt-begegnung.de` | No |
 | `vientos.live` | Yes |
@@ -32590,8 +32591,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,335 |
-| Normal | 25,212 |
+| Cloudflare | 7,334 |
+| Normal | 25,214 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
