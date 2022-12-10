@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [error publish cloudflare worker](https://github.com/G4brym/R2-Explorer/issues/4)
+- [Cloudflare R2 disk setup with S3 resulting in "unable to copy file from source to cache" error](https://github.com/statamic/cms/issues/7193)
 - [SSL error on rogchap.com causing failure to import](https://github.com/rogchap/v8go/issues/353)
 - [Getting Error While Validating the Cloudflare domain](https://github.com/win-acme/win-acme/issues/2263)
 - [Curious issue with variables.](https://github.com/lucaslorentz/caddy-docker-proxy/issues/435)
