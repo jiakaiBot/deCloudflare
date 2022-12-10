@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,712 |
+| com | 4,713 |
 | social | 2,775 |
 | net | 2,474 |
 | org | 1,780 |
@@ -16162,6 +16162,7 @@ Here's a list of public Fediverse services.
 | `ltch.fr` | No |
 | `ltdk.xyz` | No |
 | `ltoi.net` | No |
+| `ltratcliff.com` | No |
 | `ltu.social` | No |
 | `lty.name` | Yes |
 | `lu-rp.net` | Yes |
@@ -21352,6 +21353,7 @@ Here's a list of public Fediverse services.
 | `ovaltiz.com` | No |
 | `ovcharov.me` | Yes |
 | `over-world.org` | No |
+| `over9k.tech` | No |
 | `overblue.net` | No |
 | `overbye.dev` | Yes |
 | `overgrown.garden` | Yes |
@@ -32524,7 +32526,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,315 |
-| Normal | 25,165 |
+| Normal | 25,167 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
