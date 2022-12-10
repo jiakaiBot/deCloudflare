@@ -5735,6 +5735,7 @@ Do not create new issue or we will close it as duplicate.
 | [luisantoniomata@twitter](https://twitter.com/luisantoniomata/status/1377051574493663243) | advertise |
 | [LuisBaker___@twitter](https://twitter.com/LuisBaker___/status/1537373187360661504) | advertise |
 | [luiskun11@twitter](https://twitter.com/luiskun11/status/1389777969627820032) | advertise |
+| [LuisNGU92080069@twitter](https://twitter.com/LuisNGU92080069/status/1601571541799821313) | advertise |
 | [luissquall@twitter](https://twitter.com/luissquall/status/1542911110596251648) | advertise |
 | [LuizGerrards@twitter](https://twitter.com/LuizGerrards/status/1398476334255333379) | advertise |
 | [LukaMamrikishv1@twitter](https://twitter.com/LukaMamrikishv1/status/1401226185032540164) | advertise |
