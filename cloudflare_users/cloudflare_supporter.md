@@ -10464,6 +10464,7 @@ Do not create new issue or we will close it as duplicate.
 | [Uthanzawmyint1@twitter](https://twitter.com/Uthanzawmyint1/status/1390885373316788226) | advertise |
 | [UTheinZaw14@twitter](https://twitter.com/UTheinZaw14/status/1390880951077539847) | advertise |
 | [UThuYa19@twitter](https://twitter.com/UThuYa19/status/1398904054097485825) | advertise |
+| [utnho071100@twitter](https://twitter.com/utnho071100/status/1601385905478340609) | advertise |
 | [Uttama97890732@twitter](https://twitter.com/Uttama97890732/status/1390025546264809476) | advertise |
 | [UvinduBro@twitter](https://twitter.com/UvinduBro/status/1517900951373611009) | advertise |
 | [UwdieynCentre@twitter](https://twitter.com/UwdieynCentre/status/1398371128700063745) | advertise |
