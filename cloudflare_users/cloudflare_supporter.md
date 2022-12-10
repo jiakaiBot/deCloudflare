@@ -2228,6 +2228,7 @@ Do not create new issue or we will close it as duplicate.
 | [DCLifeMagazine@twitter](https://twitter.com/DCLifeMagazine/status/1545120333228818432) | advertise |
 | [Dcralph_@twitter](https://twitter.com/Dcralph_/status/1460151745284243460) | advertise |
 | [dcrimyz@twitter](https://twitter.com/dcrimyz/status/1399029992374239233) | advertise |
+| [DdeeaannK@twitter](https://twitter.com/DdeeaannK/status/1601652495729983488) | advertise |
 | [ddkatsios@twitter](https://twitter.com/ddkatsios/status/1398632489028104192) | advertise |
 | [De6Bi@twitter](https://twitter.com/De6Bi/status/1401432705661693956) | advertise |
 | [deadlyembrace6@twitter](https://twitter.com/deadlyembrace6/status/1565304061779394561) | advertise |
