@@ -29,8 +29,8 @@ Here's a list of public Fediverse services.
 | com | 4,712 |
 | social | 2,775 |
 | net | 2,474 |
-| org | 1,779 |
-| de | 1,622 |
+| org | 1,780 |
+| de | 1,623 |
 
 
 - Mastodon, Pleroma, etc
@@ -698,6 +698,7 @@ Here's a list of public Fediverse services.
 | `acidrow.com` | Yes |
 | `acki.ng` | No |
 | `aclevo.xyz` | No |
+| `acm.org` | Yes |
 | `acme.bo.it` | No |
 | `acoeur.org` | No |
 | `acolono.me` | Yes |
@@ -1062,7 +1063,7 @@ Here's a list of public Fediverse services.
 | `alex73630.xyz` | Yes |
 | `alexander-schnapper.de` | No |
 | `alexander-vollmer.de` | No |
-| `alexander.social` | No |
+| `alexander.social` | Yes |
 | `alexanderweb.de` | No |
 | `alexandra.is` | No |
 | `alexandrebadalo.pt` | No |
@@ -9891,6 +9892,7 @@ Here's a list of public Fediverse services.
 | `funigtor.fr` | No |
 | `funil.de` | No |
 | `funke-software.de` | No |
+| `funkinfor.fun` | No |
 | `funkturm7.de` | No |
 | `funkwhale-host.de` | No |
 | `funkwhale.audio` | No |
@@ -11789,6 +11791,7 @@ Here's a list of public Fediverse services.
 | `hha.app` | No |
 | `hhhammer.de` | No |
 | `hhome.me` | Yes |
+| `hhsocial.de` | No |
 | `hi.ls` | Yes |
 | `hiauntie.com` | No |
 | `hibi-tsumo.net` | Yes |
@@ -20298,6 +20301,7 @@ Here's a list of public Fediverse services.
 | `northernvoice.app` | No |
 | `northpole.host` | No |
 | `northside.tokyo` | Yes |
+| `northstar.engineering` | No |
 | `northtexas.social` | No |
 | `norwescon.org` | No |
 | `norze.co` | Yes |
@@ -29114,6 +29118,7 @@ Here's a list of public Fediverse services.
 | `transliminal.space` | No |
 | `transmom.love` | No |
 | `transmutagen.net` | No |
+| `transmuted.city` | No |
 | `transneptune.net` | No |
 | `transparentedge.eu` | No |
 | `transpeak.lgbt` | No |
@@ -32518,8 +32523,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,313 |
-| Normal | 25,162 |
+| Cloudflare | 7,315 |
+| Normal | 25,165 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
