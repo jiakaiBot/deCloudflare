@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,719 |
-| social | 2,780 |
+| com | 4,721 |
+| social | 2,782 |
 | net | 2,478 |
 | org | 1,781 |
 | de | 1,626 |
@@ -2884,6 +2884,7 @@ Here's a list of public Fediverse services.
 | `betterodds.social` | No |
 | `betterthantwitter.com` | No |
 | `bettina.pw` | No |
+| `betweenthelions.link` | Yes |
 | `beudot07.net` | No |
 | `beule.be` | No |
 | `beutl.space` | Yes |
@@ -5396,7 +5397,7 @@ Here's a list of public Fediverse services.
 | `coste.video` | No |
 | `costodon.social` | No |
 | `costpap.me` | Yes |
-| `cote.io` | No |
+| `cote.io` | Yes |
 | `cotellese.net` | No |
 | `cotman.info` | No |
 | `cotonea.me` | No |
@@ -6109,6 +6110,7 @@ Here's a list of public Fediverse services.
 | `danielmoch.com` | No |
 | `danielmoretz.com` | No |
 | `danielmrose.com` | Yes |
+| `danielnorton.com` | Yes |
 | `danielsteinborn.com` | No |
 | `danirod.es` | No |
 | `dank.software` | No |
@@ -8107,6 +8109,7 @@ Here's a list of public Fediverse services.
 | `enum.run` | No |
 | `envismo.social` | No |
 | `envs.net` | No |
+| `envsys.com` | Yes |
 | `enworld.org` | No |
 | `enyutech.io` | No |
 | `enyutech.social` | No |
@@ -20443,6 +20446,7 @@ Here's a list of public Fediverse services.
 | `nozzi.social` | No |
 | `npa-marseille.org` | No |
 | `npcore.net` | Yes |
+| `npe.social` | No |
 | `npf.moe` | Yes |
 | `npo.city` | No |
 | `nposns.com` | No |
@@ -21219,6 +21223,7 @@ Here's a list of public Fediverse services.
 | `os.vu` | No |
 | `osa-p.net` | Yes |
 | `osada.app` | No |
+| `osadl.social` | No |
 | `osakana.cloud` | No |
 | `osananajimi.love` | No |
 | `osbar.space` | No |
@@ -21406,6 +21411,7 @@ Here's a list of public Fediverse services.
 | `ownbox.be` | No |
 | `owncast.online` | Yes |
 | `owncast.tv` | No |
+| `owngrid.io` | No |
 | `ownify.in` | No |
 | `ownlibtards.online` | No |
 | `ownsu.com` | No |
@@ -21981,6 +21987,7 @@ Here's a list of public Fediverse services.
 | `pfalz.social` | Yes |
 | `pfefferle.org` | No |
 | `pfeffernimz.de` | No |
+| `pfeifer.dev` | Yes |
 | `pfeifling.de` | No |
 | `pffs.net` | No |
 | `pfft.lol` | No |
@@ -22719,6 +22726,7 @@ Here's a list of public Fediverse services.
 | `postxiami.space` | Yes |
 | `postygram.com` | No |
 | `posvib.es` | No |
+| `posvic.cz` | No |
 | `posweg.es` | No |
 | `potager.org` | No |
 | `potaodon.audio` | No |
@@ -24148,6 +24156,7 @@ Here's a list of public Fediverse services.
 | `rindt.me` | No |
 | `ring0.re` | No |
 | `ring0.space` | No |
+| `ringtailsoftware.co.uk` | No |
 | `rinsuki.net` | Yes |
 | `rio.social` | No |
 | `rio20.net` | No |
@@ -26022,6 +26031,7 @@ Here's a list of public Fediverse services.
 | `sllimnod.com` | No |
 | `sloane.sh` | No |
 | `slobbe.ch` | No |
+| `slonisko.cz` | No |
 | `slothcloud.com` | No |
 | `sloths.club` | Yes |
 | `slothy.win` | Yes |
@@ -26935,6 +26945,7 @@ Here's a list of public Fediverse services.
 | `stevenprins.com` | Yes |
 | `stevenson.scot` | No |
 | `stevensonav.ca` | Yes |
+| `stevenstern.me` | No |
 | `stevenz.net` | No |
 | `steveroy.ca` | Yes |
 | `stevesnider.com` | No |
@@ -28724,7 +28735,7 @@ Here's a list of public Fediverse services.
 | `tmin.cf` | No |
 | `tmin.ml` | No |
 | `tmkis.cloud` | No |
-| `tmkis.social` | Yes |
+| `tmkis.social` | No |
 | `tmo.name` | No |
 | `tmo.pizza` | No |
 | `tmp-mstdn.cloud` | No |
@@ -32563,8 +32574,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,324 |
-| Normal | 25,196 |
+| Cloudflare | 7,328 |
+| Normal | 25,203 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
