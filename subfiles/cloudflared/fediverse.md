@@ -3724,7 +3724,7 @@ Here's a list of public Fediverse services.
 | `brjuno.com` | No |
 | `brnrs.pl` | No |
 | `brnt.cr` | No |
-| `broccoli.si` | Yes |
+| `broccoli.si` | No |
 | `brock.systems` | Yes |
 | `brockha.us` | No |
 | `brocks.social` | No |
@@ -18402,6 +18402,7 @@ Here's a list of public Fediverse services.
 | `moe.reisen` | No |
 | `moe.tips` | Yes |
 | `moec.top` | Yes |
+| `moegirl.live` | Yes |
 | `moeism.me` | No |
 | `moejo.io` | No |
 | `moeller.email` | No |
@@ -32575,7 +32576,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,328 |
-| Normal | 25,203 |
+| Normal | 25,204 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
