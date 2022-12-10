@@ -36,6 +36,7 @@ Here's a list of public Matrix services.
 | buyvm.chat | No |
 | matrix.bytes4u.de | No |
 | matrix.cat.casa | No |
+| matrix.catgirl.cloud | Yes |
 | matrix.cezeri.tech | Yes |
 | mx.chagai.website | No |
 | matrix.chatcloud.net | No |
@@ -43,6 +44,7 @@ Here's a list of public Matrix services.
 | matrix.chatwave.org | No |
 | chrrreeeeesss.com | No |
 | club1.fr | No |
+| matrix-client.comm.cx | Yes |
 | matrix.community.rs | Yes |
 | converser.eu | No |
 | matrix.crossbach.de | No |
@@ -127,8 +129,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 16 |
+| Cloudflare | 18 |
 | Normal | 84 |
 
 
-### 16% of public Matrix services are using Cloudflare.
+### 17.6% of public Matrix services are using Cloudflare.
