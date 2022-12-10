@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [e621 not working](https://github.com/Bionus/imgbrd-grabber/issues/2855)
 - [Cloudflare R2 - Sync Misconfiguration](https://github.com/gobackup/gobackup/issues/107)
 - [12월 10일~11일 이슈 체크 리스트](https://github.com/NyangGleNyangGle/NyangGle_Front_End/issues/25)
 - [npm install && poetry install出了一大堆问题](https://github.com/fuergaosi233/wechat-chatgpt/issues/206)
