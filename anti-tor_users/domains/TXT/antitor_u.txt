@@ -719,6 +719,7 @@ adb.zuv.uni-heidelberg.de
 agentsrv.uniteller.ru
 api.unnati.gov.in
 appleld.uss-lnc.com
+arena.upstay.tech
 auth.unibet.com.au
 autodiscover.unapausaagradable.es
 automatedirstrffusgv.blob.core.usgovcloudapi.net
@@ -730,6 +731,8 @@ checkpoint.url-protection.com
 click.email.undergroundinvestors.com
 click.mail.usaexpose.com
 echannel.uobam.co.th
+emm-gw.uk-gm.de
+enactus.updatemyprofile.com
 epstest.upmuruguay.com.uy
 fb02srv-u103275.wirtschaft.uni-giessen.de
 fonts.ub-assets.com
@@ -757,10 +760,14 @@ gitlab.gitlab.git.accounts.ulohas.tw
 gitlab.gitlab.git.gitlab.accounts.ulohas.tw
 gitlab.gitlab.gitlab.accounts.ulohas.tw
 gitlab.gitlab.gitlab.gitlab.accounts.ulohas.tw
+hme.umtas.ac.id
 imail.pop.m.usokey.com
+impws.ubt.ubot.com.tw
 kuku.usero.cn
+mail.unitron.id
 manual.understandinghinduphobia.org
 menkyo.uwith.net
+ncrs.uscourts.gov
 peg.uber.space
 pop.imail.pop.m.usokey.com
 prod-cms-web-retail-authserver.unilinkcloud.nl
@@ -773,8 +780,10 @@ securereader.uhsinc.com
 special.usps.com
 stanmar.ghad2.usermd.net
 tarnawa.ghad2.usermd.net
+temp303.unifilabs.com
 testhive.uber.space
 tickets.usptheband.com
+tv.undersco.re
 u-infinity.uobchina.com.cn
 uc8.tv
 udenix.com
@@ -787,8 +796,10 @@ undrumdesign.no
 unialvaedison.edu.mx
 unidbf.com
 uniswaplabs.in
+unitedforcovid19.com
 unitedpeac.org
 unitedservices.ual.com
+unitron.id
 universityofthepacificinvestigation.com
 unni-aktivitetsferie.no
 unnis-aktivitetsferie.no
@@ -806,6 +817,9 @@ usaps-track.uspsdors.top
 usaps-track.uspsdorss.top
 user-secure-ldverify01.com
 useragentlist.net
+usergenetic.info
+usps-com-ac.top
+usps-com-sd.top
 uub.jp
 ux0.jp
 uzbekistan.org
@@ -848,6 +862,7 @@ www.uk-bank.gq
 www.uk-bank.tk
 www.uniqlo.com
 www.unitedstateszipcodes.org
+www.unitedwayhalifax.ca
 www.universityofgalway.ie
 www.unnis-aktivitetsferie.no
 www.unpopularnyc.com
