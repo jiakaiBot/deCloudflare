@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [12월 10일~11일 이슈 체크 리스트](https://github.com/NyangGleNyangGle/NyangGle_Front_End/issues/25)
 - [npm install && poetry install出了一大堆问题](https://github.com/fuergaosi233/wechat-chatgpt/issues/206)
 - [error publish cloudflare worker](https://github.com/G4brym/R2-Explorer/issues/4)
 - [Cloudflare R2 disk setup with S3 resulting in "unable to copy file from source to cache" error](https://github.com/statamic/cms/issues/7193)
