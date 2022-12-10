@@ -248,6 +248,7 @@ discord.zorustech.com
 gateway.zscalergov.net
 gog-ws.zt-archiv.at
 impots.gouv.fr.zweirad-center-bullerjahn.de
+juegocoronadearagon.zierzolab.com
 jvc.ziondelivery.app.br
 register.zscalertwo.net
 staging2.zeroq.cl
@@ -258,6 +259,7 @@ www.billgenerate.zahidjodntours.com
 www.clients.zoom-app.com
 www.comoganardinero.z4k.org
 www.rooscontrol.zon18.click
+www.sahabafoodbank.zyotee.com
 www.securedserver.zyns.com
 www.secureserver0010.zyns.com
 www.services.zaynark.com.ng
@@ -266,8 +268,10 @@ www.zahnarzt-muenchen-neuperlach.de
 www.zahnarztpraxis-neukoelln.de
 www.zahnarztpraxis-talesnik.net
 www.zazzle.ca
+www.zazzle.de
 www.zengin-net-bcp1.jp
 www.zenith-watches.com
+www.zierzolab.com
 www.zillowstatic.com
 www.zinapflegedienst.de
 www.zonguldakbarosu.org.tr
