@@ -1738,6 +1738,7 @@ Do not create new issue or we will close it as duplicate.
 | [cexinsco@twitter](https://twitter.com/cexinsco/status/1587000003612090368) | advertise |
 | [cey36481826@twitter](https://twitter.com/cey36481826/status/1503391992877031434) | advertise |
 | [ce_kyaw@twitter](https://twitter.com/ce_kyaw/status/1397158337012113410) | advertise |
+| [ch1nux@twitter](https://twitter.com/ch1nux/status/1601612208739614720) | advertise |
 | [chac_vui@twitter](https://twitter.com/chac_vui/status/1393402667586572288) | advertise |
 | [ChadaramGanesh@twitter](https://twitter.com/ChadaramGanesh/status/1377217673478594565) | advertise |
 | [chaddieosrs@twitter](https://twitter.com/chaddieosrs/status/1444224405740077062) | advertise |
@@ -7086,6 +7087,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguyendangngo16@twitter](https://twitter.com/nguyendangngo16/status/1552952449451044864) | advertise |
 | [NguyenDat41@twitter](https://twitter.com/NguyenDat41/status/1596930673935527936) | advertise |
 | [NguyenDatLS1@twitter](https://twitter.com/NguyenDatLS1/status/1575242140745342977) | advertise |
+| [Nguyendinhaz09@twitter](https://twitter.com/Nguyendinhaz09/status/1601614412246560768) | advertise |
 | [NguyenDJ@twitter](https://twitter.com/NguyenDJ/status/1385868091020648448) | advertise |
 | [nguyendoantrun1@twitter](https://twitter.com/nguyendoantrun1/status/1397256926929440769) | advertise |
 | [Nguyenduc26292@twitter](https://twitter.com/Nguyenduc26292/status/1552727171122479104) | advertise |
@@ -8070,6 +8072,7 @@ Do not create new issue or we will close it as duplicate.
 | [ProZar3@twitter](https://twitter.com/ProZar3/status/1503979856882769922) | advertise |
 | [prozsolutions@twitter](https://twitter.com/prozsolutions/status/1596050921229647872) | advertise |
 | [prro85545495@twitter](https://twitter.com/prro85545495/status/1401352105886056457) | advertise |
+| [PrtgNothing@twitter](https://twitter.com/PrtgNothing/status/1601613487234777088) | advertise |
 | [PSaYsPxxa9NsEYS@twitter](https://twitter.com/PSaYsPxxa9NsEYS/status/1552673471330910209) | advertise |
 | [psgmoment@twitter](https://twitter.com/psgmoment/status/1522760815094341632) | advertise |
 | [pskNaidu10@twitter](https://twitter.com/pskNaidu10/status/1391664925471166466) | advertise |
@@ -10935,6 +10938,7 @@ Do not create new issue or we will close it as duplicate.
 | [x66619164331@twitter](https://twitter.com/x66619164331/status/1386276834480992256) | advertise |
 | [xanadu000000@twitter](https://twitter.com/xanadu000000/status/1405386980943273984) | advertise |
 | [XanhNai@twitter](https://twitter.com/XanhNai/status/1395198843956862977) | advertise |
+| [Xathurpro@twitter](https://twitter.com/Xathurpro/status/1601616801816711168) | advertise |
 | [Xavi38789278@twitter](https://twitter.com/Xavi38789278/status/1534383777564196870) | advertise |
 | [XavierR11304483@twitter](https://twitter.com/XavierR11304483/status/1526014106511319042) | advertise |
 | [xavierwayy24@twitter](https://twitter.com/xavierwayy24/status/1576619284645654528) | advertise |
