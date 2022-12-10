@@ -3133,6 +3133,7 @@ Do not create new issue or we will close it as duplicate.
 | [goblissasiaedu@twitter](https://twitter.com/goblissasiaedu/status/1587703983375720448) | advertise |
 | [Gocome4@twitter](https://twitter.com/Gocome4/status/1383405538411614214) | advertise |
 | [godet_fr3akz@twitter](https://twitter.com/godet_fr3akz/status/1435927245130846214) | advertise |
+| [GodHand70934883@twitter](https://twitter.com/GodHand70934883/status/1601456494230532096) | advertise |
 | [godjezus1469@twitter](https://twitter.com/godjezus1469/status/1404302568566657024) | advertise |
 | [GodOfOwls@twitter](https://twitter.com/GodOfOwls/status/1376620972552417282) | advertise |
 | [GodOfWars03@twitter](https://twitter.com/GodOfWars03/status/1486542406174400513) | advertise |
@@ -4450,6 +4451,7 @@ Do not create new issue or we will close it as duplicate.
 | [joeydakers_87@twitter](https://twitter.com/joeydakers_87/status/1543551599116705794) | advertise |
 | [joeysmi02926335@twitter](https://twitter.com/joeysmi02926335/status/1398519469115387904) | advertise |
 | [JoeyVK@twitter](https://twitter.com/JoeyVK/status/1406946607854231554) | advertise |
+| [joey_liendro23@twitter](https://twitter.com/joey_liendro23/status/1601455689922379777) | advertise |
 | [joe_hiza@twitter](https://twitter.com/joe_hiza/status/1541833676841172992) | advertise |
 | [joe_oliva313@twitter](https://twitter.com/joe_oliva313/status/1527706232349655040) | advertise |
 | [johanes44329407@twitter](https://twitter.com/johanes44329407/status/1552741905456578561) | advertise |
@@ -4749,6 +4751,7 @@ Do not create new issue or we will close it as duplicate.
 | [kazirakib300@twitter](https://twitter.com/kazirakib300/status/1397569237024075785) | advertise |
 | [KAZUKLIP@twitter](https://twitter.com/KAZUKLIP/status/1528599189348925443) | advertise |
 | [KazutoShizuku@twitter](https://twitter.com/KazutoShizuku/status/1402737153205886977) | advertise |
+| [kbLMO8w8FO6y5kf@twitter](https://twitter.com/kbLMO8w8FO6y5kf/status/1601417767688675329) | advertise |
 | [kd2qqv@twitter](https://twitter.com/kd2qqv/status/1449891246479130625) | advertise |
 | [Kdah6FO5yD5H0UH@twitter](https://twitter.com/Kdah6FO5yD5H0UH/status/1383204544495063041) | advertise |
 | [kea4nu@twitter](https://twitter.com/kea4nu/status/1532442400831901698) | advertise |
@@ -4967,8 +4970,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
