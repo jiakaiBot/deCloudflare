@@ -177,6 +177,9 @@ idp.desktopdev.quicktools.cloud
 img.quiport.com
 lp.quiz4thewin.com
 mobile.qsremit.net
+plugin.github-source.service.ap-northeast-1.quokka.codes
+plugin.github-source.service.eu-west-1.quokka.codes
+qalmoco.quicksoft.com.br
 qh88vn.net
 qhsealert.com
 qsep.com
@@ -192,6 +195,7 @@ qutii.org
 shopkonzept.quikfox-lab.com
 sistec.quiport.com
 ukvdjtddwl4btwz.us.qlikcloud.com
+webhooks.github-source.service.eu-west-1.quokka.codes
 wsvuelosaodb.quiport.com
 www.client.qascs.com
 www.gitlab.git.gitlab.test.blog.org.domains.qloaked.com
