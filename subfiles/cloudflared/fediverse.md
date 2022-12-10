@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,721 |
+| com | 4,722 |
 | social | 2,782 |
 | net | 2,478 |
 | org | 1,781 |
@@ -7697,6 +7697,7 @@ Here's a list of public Fediverse services.
 | `edstromsocial.com` | No |
 | `edtechstrategies.social` | No |
 | `edtechyogi.com` | No |
+| `eduardocloud.com` | Yes |
 | `eduardocollado.com` | No |
 | `education.fr` | Yes |
 | `educator.social` | No |
@@ -32575,7 +32576,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,328 |
+| Cloudflare | 7,329 |
 | Normal | 25,204 |
 
 
