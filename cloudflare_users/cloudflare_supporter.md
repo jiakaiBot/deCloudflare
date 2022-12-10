@@ -3146,6 +3146,7 @@ Do not create new issue or we will close it as duplicate.
 | [GolamkibriaRony@twitter](https://twitter.com/GolamkibriaRony/status/1404201070306361345) | advertise |
 | [GoldenK45835342@twitter](https://twitter.com/GoldenK45835342/status/1574048018084425728) | advertise |
 | [GoldenT73523612@twitter](https://twitter.com/GoldenT73523612/status/1387635147965485061) | advertise |
+| [golignews@twitter](https://twitter.com/golignews/status/1601520818466717696) | advertise |
 | [gomdohyon@twitter](https://twitter.com/gomdohyon/status/1562866171799449600) | advertise |
 | [gomdorilpkth_45@twitter](https://twitter.com/gomdorilpkth_45/status/1406078870617354245) | advertise |
 | [gomgomass@twitter](https://twitter.com/gomgomass/status/1487078737220804614) | advertise |
@@ -4972,8 +4973,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -10924,6 +10925,7 @@ Do not create new issue or we will close it as duplicate.
 | [wwww77410139@twitter](https://twitter.com/wwww77410139/status/1389250450302537735) | advertise |
 | [wxxwxn@twitter](https://twitter.com/wxxwxn/status/1379937815513956354) | advertise |
 | [wyliehorn@twitter](https://twitter.com/wyliehorn/status/1370118398114476032) | advertise |
+| [w_alhosni96@twitter](https://twitter.com/w_alhosni96/status/1601529197012586497) | advertise |
 | [X2o07595000@twitter](https://twitter.com/X2o07595000/status/1392485807940784128) | advertise |
 | [X303_@twitter](https://twitter.com/X303_/status/1375370199767998468) | advertise |
 | [x66619164331@twitter](https://twitter.com/x66619164331/status/1386276834480992256) | advertise |
