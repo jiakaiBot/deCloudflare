@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,721 |
 | social | 2,784 |
-| net | 2,478 |
+| net | 2,480 |
 | org | 1,781 |
 | de | 1,627 |
 
@@ -12975,6 +12975,7 @@ Here's a list of public Fediverse services.
 | `iospace.de` | No |
 | `iot.tokyo` | Yes |
 | `iota.ga` | No |
+| `iotib.net` | Yes |
 | `ioto.us` | No |
 | `iotplatforma.cloud` | No |
 | `iow.social` | Yes |
@@ -26014,7 +26015,7 @@ Here's a list of public Fediverse services.
 | `sldon.jp` | No |
 | `sledj.net` | No |
 | `sleeck.eu` | Yes |
-| `sleeklounge.com` | Yes |
+| `sleeklounge.com` | No |
 | `sleepers.garden` | No |
 | `sleepi.life` | No |
 | `sleeping.town` | No |
@@ -32476,6 +32477,7 @@ Here's a list of public Fediverse services.
 | `zohup.net` | Yes |
 | `zoinks.one` | No |
 | `zoktalk.com` | Yes |
+| `zolfite.net` | No |
 | `zoltasila.pl` | No |
 | `zom.bi` | No |
 | `zomaareenfeestje.org` | No |
@@ -32592,7 +32594,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,334 |
-| Normal | 25,214 |
+| Normal | 25,216 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
