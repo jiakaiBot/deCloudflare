@@ -1408,6 +1408,7 @@ accounts.enabling.sheep-33.lcl.dev
 accounts.libersystems.com
 adroitgroup.livejournal.com
 api-gw.ltcg.com
+api.lerra.com
 api.likeik.com
 api.localoka.co.id
 app.app.lightstream.com
@@ -1428,7 +1429,9 @@ connectionbased.livejournal.com
 covidresult.labhelp.kr
 cpanel.losangelesfoxnews.com
 cpcalendars.lenovocustomercare.in
+cpcalendars.login-for-appleid.us
 cpcalendars.loveintimeofcoronavirus.com
+cpcontacts.login-for-appleid.us
 cpcontacts.loveintimeofcoronavirus.com
 d0a4yx76hq4tpx7.w.magento.outlook.lillestrom-byorkester.no
 da.laerdal.no
@@ -1438,6 +1441,7 @@ digitalcommons.lsu.edu
 discord.lost-child.jp
 discordbot.lp-programming.com
 dola68vin.livejournal.com
+eagle6woo.dev.laser.red
 ecm.libertyinsurance.in
 erp-pre.lanaperuana.com
 ext-6117905.livejournal.com
@@ -1462,6 +1466,7 @@ lafoxmedia.com
 lagrm.org
 lalazin.com
 lalunemauve.fr
+lambdasecure.com
 lamonganupdate.id
 landeg.de
 lannre.com
@@ -1471,6 +1476,7 @@ lavishloungenyc.com.lavishloungenyc.com
 laweistore.com
 layananlacakpaket.com
 lbanqupostaleceprtlus.ml
+lbarclqysulb.com
 lbqnuepotales.ml
 lcon.org.uk
 lcsfin.com
@@ -1497,6 +1503,7 @@ libersport.org
 libertymediaslu.com
 library.bz
 librarysupplies.com.sg
+life-and-mind.com
 lifeasahuman.com
 lifeonproducts-online.com
 lifeplanagent.in.th
@@ -1512,6 +1519,7 @@ lionlionmusic.com
 liqvidjs.org
 liuliu.me
 livecalltracking.com
+liveslot77.org
 llbank-exchangel.ga
 llbank-exchangel.ml
 llbank-exchangell.gq
@@ -1528,6 +1536,7 @@ localitandsecurity.com
 lockridgemedxchange.com
 login-telegram.ru
 loginamor77.com
+loginclaro.com
 logysist.com
 lon.tv
 londoner.dk
@@ -1542,10 +1551,13 @@ lsdm.live
 lsfusion.ru
 luckwellsolutions.com
 lucyexhibition.com
+lufkindailynews.com
 luxpol-bis.pl
+luxurytires.co
 lyfepal.com
 lyriqchargerinstallation.com
 lyupz.com
+mail.login-for-appleid.us
 media.langitmusik.co.id
 mobile.lambertz.com
 mobileserver.lendingstream.co.uk
@@ -1555,14 +1567,17 @@ newatlas.us1.list-manage.com
 news.liguedesconducteurs.org
 oem.lumica.co.jp
 omar-lbc-api.insights-test.leboncoinpublicite.fr
+opsman.nith.orgmail.comune.liferune.ru
 passport.legal-prod.ru
 picks-at-flies.livejournal.com
 piwikmobile.lendingstream.co.uk
 review-users-jaco-91ccbr.cutest.stage.loftorbital.com
 rqnw.lombok.ac.id
+service.lsacomban.com
 soikeonhacainet.livejournal.com
 solidline-test.lrs-plattform.de
 staging.zmail.langesundskolemusikk.no
+stagingsite.launchcommerce.com
 start.lesechos.fr
 tickets.lunarelectric.com.au
 tiktok.login-setting.com
@@ -1572,8 +1587,10 @@ verdahemp.livejournal.com
 vintage-ads.livejournal.com
 webdisk.lexipsaabogados.com
 webdisk.location-appleid.info
+webdisk.login-for-appleid.us
 webdisk.loveintimeofcoronavirus.com
 webdisk.lowestpricecialischeapest.online
+webmail.lacasameraki.pt
 whiteferz.livejournal.com
 whm.loganvikingsswimmingclub.com.au
 www.abcseguridad.laseroptical.com.mx
@@ -1638,6 +1655,7 @@ www.latherloungesalon.com
 www.latmeco.com
 www.latropia.de
 www.laura-postma.eu
+www.lawcodev.com
 www.lawsociety.ab.ca
 www.lbk.org.uk
 www.leafandpen.com
@@ -1660,12 +1678,14 @@ www.leparoleelecose.it
 www.lequotidiendupharmacien.fr
 www.leroymerlin.it
 www.lesefieber.ch
+www.lesgolfesdegelida.cat
 www.lesspriceuser023.com
 www.letalcontrol.cl
 www.letrianon.fr
 www.level-01.de
 www.leyendasdehiboria.es
 www.lgspressprints.com
+www.libanga-services-lpa.fr
 www.libellumsecurity.nl
 www.liberaldebatt.se
 www.librairiedialogues.fr
@@ -1682,11 +1702,13 @@ www.livemint.com
 www.livestreamsafety.com
 www.livingstonparishnews.com
 www.lmfm.ie
+www.localsyr.com
 www.login-ken.com
 www.loginlyftdriver.com
 www.londonloansbank.com
 www.loneoakfarmpa.com
 www.lopifit.nl
+www.loremaster.io
 www.loriesberlin.de
 www.losteria-parlamento.de
 www.lotuspeople.com.au
@@ -1700,6 +1722,7 @@ www.tracking.lightspeedcourierservice.online
 www.tv-live.login-ken.com
 yava.labs247.id
 zi-support.lsgtx.com
+zmail.lightingsolutions.hu
 actualite.lachainemeteo.com
 babygiftiesca.livejournal.com
 bajapacifica.livejournal.com
