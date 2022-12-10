@@ -295,6 +295,7 @@ Do not create new issue or we will close it as duplicate.
 | [Adeniyi21541202@twitter](https://twitter.com/Adeniyi21541202/status/1378442961571221513) | advertise |
 | [adeyefa_codes@twitter](https://twitter.com/adeyefa_codes/status/1401212097602727941) | advertise |
 | [AdhietAphe@twitter](https://twitter.com/AdhietAphe/status/1540973199948558337) | advertise |
+| [ADHIL_16@twitter](https://twitter.com/ADHIL_16/status/1601511472160702468) | advertise |
 | [AdityaGoel014@twitter](https://twitter.com/AdityaGoel014/status/1400512018667380739) | advertise |
 | [AdityaP64856529@twitter](https://twitter.com/AdityaP64856529/status/1397106574636711940) | advertise |
 | [adityasawarka16@twitter](https://twitter.com/adityasawarka16/status/1380382240727777286) | advertise |
@@ -1984,8 +1985,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
+| [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -3972,6 +3973,7 @@ Do not create new issue or we will close it as duplicate.
 | [HzInayaah@twitter](https://twitter.com/HzInayaah/status/1391636140063707144) | advertise |
 | [hziqim@twitter](https://twitter.com/hziqim/status/1530902631476264960) | advertise |
 | [h_khang23@twitter](https://twitter.com/h_khang23/status/1478036235876593666) | advertise |
+| [i0oooi@twitter](https://twitter.com/i0oooi/status/1601509975943442432) | advertise |
 | [I3AW420@twitter](https://twitter.com/I3AW420/status/1577971233395986432) | advertise |
 | [i9zc4IQ1VoYEKF0@twitter](https://twitter.com/i9zc4IQ1VoYEKF0/status/1384246450146533391) | advertise |
 | [iamakash_2004@twitter](https://twitter.com/iamakash_2004/status/1383364300618690561) | advertise |
