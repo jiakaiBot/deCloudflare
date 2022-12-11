@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,721 |
-| social | 2,784 |
+| social | 2,785 |
 | net | 2,480 |
-| org | 1,781 |
+| org | 1,782 |
 | de | 1,627 |
 
 
@@ -940,6 +940,7 @@ Here's a list of public Fediverse services.
 | `aipi.social` | No |
 | `aiqwest.com` | No |
 | `air11.org` | No |
+| `air11.social` | No |
 | `aircrew.rocks` | No |
 | `airdreams.ca` | No |
 | `aire.ml` | No |
@@ -6648,6 +6649,7 @@ Here's a list of public Fediverse services.
 | `deuill.org` | Yes |
 | `deus-exmachina.net` | No |
 | `deutrino.net` | No |
+| `deuxchevaux.org` | No |
 | `deuxfleurs.fr` | No |
 | `deuxmillesoixantedix.art` | No |
 | `dev-c.at` | Yes |
@@ -9883,6 +9885,7 @@ Here's a list of public Fediverse services.
 | `fukeaka.ink` | No |
 | `fukn.jp` | Yes |
 | `fuko.dev` | Yes |
+| `fukt.lol` | Yes |
 | `fuku.gq` | No |
 | `fukuoka-mstdn.work` | No |
 | `ful.social` | No |
@@ -14254,6 +14257,7 @@ Here's a list of public Fediverse services.
 | `kennyqin.com` | No |
 | `kenodriscoll.com` | Yes |
 | `kenscott.me` | Yes |
+| `kensei.dev` | No |
 | `kensimon.io` | No |
 | `kent-dobias.com` | No |
 | `keremyaldiz.com` | No |
@@ -26615,6 +26619,7 @@ Here's a list of public Fediverse services.
 | `spider.ink` | No |
 | `spiderden.net` | Yes |
 | `spideynn.net` | Yes |
+| `spiegelslust.xyz` | No |
 | `spiele.jp` | No |
 | `spielschrank.com` | No |
 | `spiffy.social` | No |
@@ -32595,8 +32600,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,333 |
-| Normal | 25,219 |
+| Cloudflare | 7,334 |
+| Normal | 25,223 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
