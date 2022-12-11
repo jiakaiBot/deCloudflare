@@ -22,7 +22,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | aaflalo.me | Yes |
 | absolight.net | No |
 | adguard-dns.com | Yes |
-| adguard-server.cf | No |
+| adguard-server.cf | Yes |
 | adguard.com | Yes |
 | ahadns.net | Yes |
 | aihe.app | Yes |
@@ -291,8 +291,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 102 |
-| Normal | 170 |
+| Cloudflare | 103 |
+| Normal | 169 |
 
 
-### 37.5% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 37.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
