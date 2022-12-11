@@ -1716,6 +1716,8 @@ youtube.google.gophishin.com
 z1.hashicorp.cloudg.magento.clud.gpinfo.eu
 zeahgzonitlesmqdsuuysrnmn.storage.googleapis.com
 zmail.grasssuggestionangle.online
+0ad2b771b1843e3c8637916a72d30f7b.safeframe.googlesyndication.com
+1088051487-atari-embeds.googleusercontent.com
 147.103.160.34.bc.googleusercontent.com
 26ec702e96a345.site.godaddyarabicwsbonline.com
 6db9784b8ee543.site.godaddyarabicwsbonline.com
@@ -1752,10 +1754,13 @@ compobg.github.io
 consent.google.co.in
 consent.google.es
 consent.google.pl
+covid19grant.gopayapi.com
 cpanel.generalcontractornewyorkcity.com
 cpanel.girmacmed-hk.com
+cpcalendars.gruponitro.mx
 cpcalendars.gulfblockchainsummit.com
 cpcontacts.generalcontractornewyorkcity.com
+cpcontacts.gruponitro.mx
 cpcontacts.gulfblockchainsummit.com
 creative-time-neon.glitch.me
 cubicus.groupelesechos.fr
@@ -1798,13 +1803,19 @@ g-pc.info
 gacgsnssh4.geaviationsystems.com
 gadanusantarasecurity.com
 gafatrans.id
+gainingbiz.club
+gainingbiz.info
+gainingbiz.top
+gainingbiz.xyz
 galasafety.ro
 galiciaxa.com
 gameboku.com
+gamec.tw
 gamewith.jp
 ganbeiseguros.com.br
 ganedinero.online
 gardensofhecate.com
+garrybargsley.com
 gascolombiasas.com
 gasthausmaxhof.de
 gbhifm.com
@@ -1836,6 +1847,7 @@ git.git.git.gitlab.git.test.google-shopping.club
 git.git.gitlab.git.gitlab.gitlab.sitemaps.googlemeets.info
 git.git.gitlab.git.gitlab.gtest.jira.gardnerinsinc.com
 git.gitlab.git.corona.gwq-mitarbeiter.de
+git.gitlab.git.stand.earth.givemomentum.com
 git.old.gidicredit.com
 git.www.covid19.gorod-sveta-rf.ru
 gitlab.git.git.gitlab.git.trial.googlelogist.com
@@ -1852,7 +1864,9 @@ gjthub.net
 gks.academy
 glasgowwellingtonfc.co.uk
 glennfredly.com
+glitch-soc.github.io
 global-alarm.dk
+globalchainscouriar.com
 globalcratinginc.com
 globalmoney2u.com
 globalsocialtheory.org
@@ -1880,6 +1894,7 @@ greencomet.org
 greenfrontiers.co.uk
 greenteapost.com
 grelink.green.com.br
+groovejetmedia.com
 grosnitro.click
 groundcontrol-la.com
 gsa777.xyz
@@ -1892,6 +1907,7 @@ gujarathc-casestatus.nic.in
 gungemadstore.com
 gym-desk.com
 hackordie.gattini.ninja
+harvest-pyrite-gravity.glitch.me
 heardlesparks.glitch.me
 imasdk.googleapis.com
 inco.generali.hr
@@ -1911,6 +1927,7 @@ mammoth-prickly-roast.glitch.me
 martin-victor.github.io
 matchmaking.grownup.works
 melodious-snow-monday.glitch.me
+mledoze.github.io
 mobilemw.gratis.com.tr
 mohammadarifcoding.github.io
 motijoshi.github.io
@@ -1927,6 +1944,7 @@ order.proxy.geoapi-airbusds.com
 owa.genedata.com
 pas.genesiscasino.es
 personal.garrettfuller.org
+portalcc.gradicom.com
 priyanshusaxena09.github.io
 qatsandboxgso.giactcorp.com
 ratana10.github.io
@@ -1949,6 +1967,8 @@ smarttv.globoid.globo.com
 smegadrive.ganymede.tv
 sms98reunion.grahamazon.com
 steamy.geiger.clothing
+stefangabos.github.io
+stg.covid19grant.gopayapi.com
 stgsuperappapi.goindigo.in
 store.zmail.gon.cl
 support.gateway-prime.systems
@@ -1965,6 +1985,7 @@ toolbarqueries.google.az
 toolbarqueries.google.com.sb
 toolbarqueries.google.ng
 tools.fo4.garena.vn
+trends.google.fi
 trends.google.nl
 trillosjohn.github.io
 tyler-hilbert.github.io
@@ -1972,6 +1993,7 @@ us-southeast-g-eqmgathe.gp2j5ocsg2j.gw.gpcloudservice.com
 us1.gtbdhr.com
 verify.globaldatacompany.com
 washington.goingtocamp.com
+webdisk.gruponitro.mx
 webdisk.gulfblockchainsummit.com
 webdisk.sandstoneleisure.ginvoice.co.uk
 webmail-update.github.io
@@ -2008,6 +2030,7 @@ www.gnosis-safeglobal.ga
 www.gnosis-safeglobal.tk
 www.gogogi.de
 www.gokanberlin.de
+www.gold-services.ir
 www.gonutritionhub.com
 www.goodasnewcleaningservice.com
 www.goodthingsguy.com
@@ -2017,6 +2040,7 @@ www.governorsgunclub.com
 www.gqmiddleeast.com
 www.graceismessybooks.com
 www.graha88.live
+www.grammarphobia.com
 www.grandtourcroatia.com
 www.grenzwissenschaft-aktuell.de
 www.groupe-imagerie-francilien.fr
