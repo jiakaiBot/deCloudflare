@@ -26,9 +26,9 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,729 |
+| com | 4,730 |
 | social | 2,792 |
-| net | 2,484 |
+| net | 2,485 |
 | org | 1,783 |
 | de | 1,629 |
 
@@ -286,6 +286,7 @@ Here's a list of public Fediverse services.
 | `33chan.xyz` | No |
 | `346production.jp` | Yes |
 | `35o.poker` | No |
+| `3644859.xyz` | Yes |
 | `36c.nl` | No |
 | `39.gy` | Yes |
 | `39sounds.net` | No |
@@ -1008,6 +1009,7 @@ Here's a list of public Fediverse services.
 | `akko.gq` | No |
 | `akko.wtf` | No |
 | `akkoma.dev` | No |
+| `akkoma.net` | No |
 | `aklsh.me` | Yes |
 | `akoot.site` | No |
 | `akop.online` | No |
@@ -6771,6 +6773,7 @@ Here's a list of public Fediverse services.
 | `dianaband.info` | No |
 | `diananatalini.it` | No |
 | `diani.xyz` | No |
+| `diarbagus.id` | Yes |
 | `dias.ie` | No |
 | `diasp.de` | No |
 | `diasp.eu` | No |
@@ -16704,6 +16707,7 @@ Here's a list of public Fediverse services.
 | `manhwa.social` | No |
 | `mani.tube` | No |
 | `mania.systems` | No |
+| `maniakey.com` | Yes |
 | `manialabs.us` | No |
 | `manicphase.me` | No |
 | `manifesteden.com` | No |
@@ -20441,7 +20445,7 @@ Here's a list of public Fediverse services.
 | `notvery.social` | No |
 | `notwebsite.com` | No |
 | `notworking.review` | No |
-| `notyour.party` | No |
+| `notyour.party` | Yes |
 | `notyour.tech` | No |
 | `nouni.sh` | No |
 | `noupti.me` | No |
@@ -20559,6 +20563,7 @@ Here's a list of public Fediverse services.
 | `null.media` | No |
 | `null.town` | No |
 | `nullable.space` | Yes |
+| `nullc.at` | Yes |
 | `nulled.network` | Yes |
 | `nulled.pink` | Yes |
 | `nulled.red` | Yes |
@@ -24310,6 +24315,7 @@ Here's a list of public Fediverse services.
 | `rocha.dev.br` | No |
 | `rock-hosting.net` | No |
 | `rock0head420.rocks` | Yes |
+| `rockcd.jp` | No |
 | `rockdapus.org` | No |
 | `rocketboom.io` | No |
 | `rocketeer.be` | Yes |
@@ -32639,8 +32645,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,343 |
-| Normal | 25,253 |
+| Cloudflare | 7,348 |
+| Normal | 25,254 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
