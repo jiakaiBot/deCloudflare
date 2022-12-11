@@ -850,7 +850,6 @@ secureemail.mmc.com
 securemail.meggitt.com
 securemail.messageprovider.com
 securemail.midflorida.com
-securemail.minnwestbankgroup.com
 securemanageinfo-01.myvnc.com
 security.mussinato.com
 securitypersonalprotection.mdi360dev.website
@@ -1163,7 +1162,6 @@ www.mcd-holdings.co.jp
 www.mcdonalds.fr
 www.mcot.net
 www.mdbsupport.be
-www.mdh-ticket-11354-prelive-duda.net
 www.mdvr.megatech-trackers.com
 www.meaa.org
 www.mediastanzionefratta.it
@@ -3011,6 +3009,7 @@ api.mc.hu
 api.mediacom-dev.co.uk
 api.mflowthai.com
 api2.minhablaze.com.br
+apis-stg.mag.com.br
 apistag.merlin.net
 aplicaciones.mutua.es
 appbackend-api.mybee.lv
@@ -3022,6 +3021,7 @@ asesoriascordoba.marketingoficios.es
 asm.skype.com.office.mvision2672.rkscorp2.myshn.net
 asm.skype.com.office.o365rp2.betagro.myshn.net
 auth.makk.es
+autodiscover.malwinapalgan.pl
 autodiscover.matchplaygames.com
 autodiscover.meggacursos.site
 autodiscover.mgcanteen.dk
@@ -3050,14 +3050,18 @@ cms3pc-img-enh.msqa01.com
 cms3pc-img-enha.msqa01.com
 components.myrocket.com
 consumer-lending.shoji4.mixh.jp
+control.mingoversum.com
 coonmemportal.meditech.cloud
 cpanel.mgcanteen.dk
 cpanel.mymatch.be
+cpcalendars.manlikeade.com.ng
 cpcalendars.matchboard.co.uk
 cpcalendars.matchdaymanager.com
 cpcalendars.matchlove.net
 cpcalendars.mavikirpi.com
 cpcalendars.mgsenvironmental.com
+cpcalendars.mgtanfolyam.hu
+cpcalendars.millenniumhospiceinc.com
 cpcalendars.mutuallife.africa
 cpcalendars.mycoviddiary.me
 cpcalendars.mymatch.be
@@ -3070,6 +3074,7 @@ cpl14.main-hosting.eu
 cpl35.main-hosting.eu
 crm.mingdao.edu.tw
 cs158-2037.meraki.com
+customer.miq.govt.nz
 dags-grpc-writer.pama-dev.mclarencloud.io
 dapmuat.mbb.com.sg
 data.bappeda.muaraenimkab.go.id
@@ -3077,6 +3082,8 @@ datastories.maynoothuniversity.ie
 datavault.on.mtu-go.com
 directaccess.msbnj.com
 discord-auth.gke.marcjeffreys.co.uk
+discord-events.magicalcodewit.ch
+dms.mosaicinsurance.com
 doanhthu-api.mobifoneservice.com.vn
 dpdhl-claims-form-dev.metadeploy.com
 drmax.t.mailkit.eu
@@ -3091,6 +3098,7 @@ emails.mp-plus.com
 erogame.meinashi.info
 esmovilidad.mitma.es
 events.microcomputer.com.tw
+fdr.iiot-telkomsel.masuk.id
 feedback.mortalitysurveillance.org
 findlinsites.mysnoiportal.ru
 fix-bill-dates.nxlead.staging.marketmakerleads.net
@@ -3102,6 +3110,7 @@ ft.plantdevices.myicomfort.com
 ftp.mangystaucybersport.kz
 gen.mactech.net.in
 git.git.gitlab.git.git.git.kefu.mkchudo.online
+git.gmail3.macroscoptrade.com
 git.komfort-klining.tmail.meddiv.com.ua
 gitlab.git.git.gitlab.git.git.amazon.medika-center.ru
 gitlab.git.gitlab.gitlab.git.git.amazon.medika-center.ru
@@ -3120,11 +3129,13 @@ jp.misumi-ec.com
 knupsilkestamparia.mercadoshops.com.br
 lastlocation-i-cloud.mipaginaweb.us
 lea.mapreprod.fr
+lisacorduff.members-only.online
 login-eosc.k7-test.mzk.cz
 login.yahoo.com.neo.launch.rand.mencinfamily.org
 lucio.meccha-japan.com
 maccuy.com
 maceksautoservice.com
+mackenziedatastream.ca
 madeforsafety.com
 madinafarm.com
 maestroservice.se
@@ -3142,6 +3153,7 @@ mailhog.change-support-email.staging.atm.modac.cloud
 maisondangles.fr
 makeretcsgo.ru
 makewithict.com
+makingwaves.today
 maldives.org.my
 malerpia.dk
 mamielucienne.fr
@@ -3150,6 +3162,7 @@ manateetreeservice.com
 mangiamoconbufalaria.com
 maniacav.com
 mankootravels.com
+mannaitours.com
 mapasdodinheiro.com.br
 mapofstories.scot
 marcloeffler.eu
@@ -3169,7 +3182,10 @@ matchendirect.co
 matchofrealestate.nl
 mategauss.com
 mathias-papendieck.de
+matkoseguridad.com
+matsvermeeren.be
 matthewweathersby.com
+matthras.com
 maturehot.net
 maufl.edu
 maximisrh.fr
@@ -3191,10 +3207,12 @@ messagevideo.miyabi-international.com
 metallockdelivery.com
 metgum.com
 mettlers.de
+mfpc.us
 miamiboatrental.org
 miamigodinero.com
 micronedrivecom.online
 microsoft365ecommerce.com
+miehetry.fi
 mignon-cafe.fr
 mikslatvis.lv
 mindfullivingnetwork.com
@@ -3203,6 +3221,7 @@ miniphernalia.co.uk
 minpromtorg.gov.ru
 minttheater.org
 mioarttherapy.com
+mipetseguro.com
 misiconi.nl
 mission-lifeline.de
 mizubeko.net
@@ -3227,6 +3246,7 @@ monarchinitiative.org
 money2retire.pw
 moneyftxuptrendtu.com
 moneyhub360.com
+moneytize.in
 moneytravels.com.au
 moneyupupup.com
 montacargasderco.com.co
@@ -3242,6 +3262,7 @@ mrcuadrado.cl
 mrsenterprise.com.pk
 msib-fileservice.marksandspencer.com
 msk-repairservice.ru
+mtlcityweblog.com
 mtradecraft.net
 mtrestapis-live01.mrhc.org
 mudra.network
@@ -3262,6 +3283,7 @@ my-lp.com.moslem-billionaire.com
 myaccount.myshophosting.com
 mybigapplecity.com
 mycarservice.ae
+mycoloradojobs.com
 mydevice-appie.com
 myessaybank.com
 mygymkw.com
@@ -3277,6 +3299,8 @@ mytempcontrol.com
 n8n.develop.self-service.mogic.com
 new.moneyful.co.uk
 ng.msg.teams.microsoft.com.office.o365rp2.betagro.myshn.net
+nitro-v.mixhost-desu.com
+nitroz.micro.blog
 nudimidentity.match-online.nl
 obs.af-south-1.myhuaweicloud.com
 ocws-online-services.myokaloosa.com
@@ -3289,6 +3313,7 @@ parentsguide.mithilinus.com
 parentssansfrontieres.melialife.com
 passwords.cloud.mprieur.net
 pest-control.magiclocalwebsites.com
+pjuts2.m-tek.id
 plantdevices.myicomfort.com
 pogt-dev.metadeploy.com
 portail.medfarsolutions.com
@@ -3304,6 +3329,8 @@ qrcodegen.stg.marquee.net
 qual-api.mysns.pt
 qwww.americanexpress.com.x-bitbucket-pr-765-n24diua-6ioqj3sxgvtn4.us-3.magentosite.cloud
 rakuten-port.mrbonus.com
+raport.madrasahku.sch.id
+recovid.magnasalud.es
 rest.monta.nl
 rib.msb.se
 rinaclient.mcsedu.tech
@@ -3334,6 +3361,7 @@ swiisspost.mypi.co
 sync.dmp.melvad.com
 taxbackendadminservice.cp.microsoft-int.com
 tcmedia.mdu.edu.tw
+tembak-telkomsel.omg.mirus-group.eu
 tera.mymktdigital.com.br
 testfishing.maps-apple.date
 testforum.mokou.org
@@ -3347,6 +3375,7 @@ uat-mmfss-abs.mahindrafs.com
 uat.amr.api.marykay.com
 ubt.digital-cloud-ibm.medallia.eu
 uks.mendel-online.com
+update.mejora2.online
 user.mrtvpn.shop
 userservice.uk.live.mkmapps.com
 uspcom-api.mimecast-pscom-us.com
@@ -3367,9 +3396,11 @@ webdisk.mycoviddiary.me
 webdisk.mymatch.be
 webmail.matchlove.net
 webmail.mgcanteen.dk
+webmail.millenniumhospiceinc.com
 webmail.mymatch.be
 webrtc-gateway.mavenir.dev
 whisky-trend.test-server-client.matereate.com
+whm.mamang.design
 with-lifehack.mashumaroblog.mixh.jp
 work1.megar.ru
 ws.eu.micgtm.com
@@ -3378,12 +3409,14 @@ www.alinoshop.mediacontrole.ma
 www.app152.moonactivate.com
 www.authoritywhiz.moneyfro.com
 www.bankminismk.mtsplusdarululum-jbg.sch.id
+www.beaniecoffee.moneyfro.com
 www.city.minamishimabara.lg.jp
 www.city.minoh.lg.jp
 www.clientarea.marketinglabh.com
 www.coinbase.com.merge.my2022site.live
 www.contact.teamslow.mire.tv
 www.contohrdm.mtsalamintanjungsari.sch.id
+www.control.mingoversum.com
 www.dotcomdollar.moneyfro.com
 www.fooddelivery.mamunprogrammer.xyz
 www.git.git.git.git.git.git.medicitaspbank.memories-game.ru
@@ -3397,8 +3430,10 @@ www.gitlab.git.posta.marketplaceaxnfinity.com
 www.gitlab.gitlab.git.posta.marketplaceaxnfinity.com
 www.gitlab.gitlab.gitlab.git.posta.marketplaceaxnfinity.com
 www.gitlab.gitlab.gitlab.gitlab.git.portal.mpstrategy.ru
+www.herbhacker.moneyfro.com
 www.inventario.myendlessmoney.com
 www.inventario2.myendlessmoney.com
+www.llcnerds.moneyfro.com
 www.maceksautoservice.com
 www.macliniqueveterinairedesbruyeres.com
 www.madaboutcleaning.com.au
@@ -3428,6 +3463,7 @@ www.marfell.me.uk
 www.mariaholtzhauser.ro
 www.markandgraham.com
 www.mars-computer.com
+www.marshallnewsmessenger.com
 www.martamoranbishop.com
 www.marx-med.com
 www.marysvillejt.com
@@ -3465,6 +3501,7 @@ www.mexicanataqueria.com
 www.mg.maasportal.io
 www.miamiherald.com
 www.michaelldelaney.com
+www.michaelleu.com
 www.mikado.agency
 www.milehighreport.com
 www.milenio.com
@@ -3473,6 +3510,7 @@ www.miltonkeynes-applications.co.uk
 www.minicultbistro.de
 www.mintmobileultrasound.com
 www.miracletechs.com
+www.mirai-kougaku.jp
 www.miro-fuerth.de
 www.mirostvrtecky.sk
 www.mirror.co.uk
@@ -3486,6 +3524,7 @@ www.mktlife.com
 www.mmdjobservice.com
 www.mncdisabilitysupport.com.au
 www.mnml.nl
+www.modalvr.com
 www.modbee.com
 www.modernritualsmedspa.com
 www.modrash.com
@@ -3553,6 +3592,7 @@ www.soundfro.moneyfro.com
 www.summerlyncontracting.msfsecurity.ca
 www.support-tv.markgoblog.xyz
 www.techfro.moneyfro.com
+www.ticket.mdsik.gov.my
 www.tickets.montironi.com
 www.ufabit168.moneyworldresearch.com
 www.vid.myforexbank.services
@@ -3560,6 +3600,7 @@ www.whisky-trend.test-server-client.matereate.com
 www.wiredcastle.moneyfro.com
 www.youtrack.mgfdev.ru
 www.zippyelectrics.moneyfro.com
+xposure.mosaicinsurance.com
 xuber.mosaicinsurance.com
 yanga.mijnbestseller.nl
 zmail.matracebezlepidla.cz
