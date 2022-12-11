@@ -1740,6 +1740,7 @@ Do not create new issue or we will close it as duplicate.
 | [cexinsco@twitter](https://twitter.com/cexinsco/status/1587000003612090368) | advertise |
 | [cey36481826@twitter](https://twitter.com/cey36481826/status/1503391992877031434) | advertise |
 | [ce_kyaw@twitter](https://twitter.com/ce_kyaw/status/1397158337012113410) | advertise |
+| [cfleesphotograp@twitter](https://twitter.com/cfleesphotograp/status/1602054464005091329) | advertise |
 | [ch1nux@twitter](https://twitter.com/ch1nux/status/1601612208739614720) | advertise |
 | [chac_vui@twitter](https://twitter.com/chac_vui/status/1393402667586572288) | advertise |
 | [ChadaramGanesh@twitter](https://twitter.com/ChadaramGanesh/status/1377217673478594565) | advertise |
