@@ -2899,6 +2899,7 @@ Do not create new issue or we will close it as duplicate.
 | [firecryptoeth@twitter](https://twitter.com/firecryptoeth/status/1592021042524225537) | advertise |
 | [FireGam99404905@twitter](https://twitter.com/FireGam99404905/status/1399726131842977792) | advertise |
 | [fitcarenavi@twitter](https://twitter.com/fitcarenavi/status/1548612339058241537) | advertise |
+| [fithri2k21@twitter](https://twitter.com/fithri2k21/status/1601977855248039936) | advertise |
 | [fixgameaja@twitter](https://twitter.com/fixgameaja/status/1585299964066160641) | advertise |
 | [fizzo929@twitter](https://twitter.com/fizzo929/status/1583851919441002496) | advertise |
 | [FJBandroid@twitter](https://twitter.com/FJBandroid/status/1552182577045569539) | advertise |
@@ -4979,8 +4980,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -5906,6 +5907,7 @@ Do not create new issue or we will close it as duplicate.
 | [ManishaBharadw2@twitter](https://twitter.com/ManishaBharadw2/status/1395440002557890562) | advertise |
 | [ManishK42497763@twitter](https://twitter.com/ManishK42497763/status/1542146127012966400) | advertise |
 | [ManishS14486946@twitter](https://twitter.com/ManishS14486946/status/1376922638216531974) | advertise |
+| [Manman83837209@twitter](https://twitter.com/Manman83837209/status/1601969110677880833) | advertise |
 | [mannhi_1997@twitter](https://twitter.com/mannhi_1997/status/1504187126702768129) | advertise |
 | [ManSem_95@twitter](https://twitter.com/ManSem_95/status/1391726222770458627) | advertise |
 | [Mansoor81118164@twitter](https://twitter.com/Mansoor81118164/status/1400092367953154053) | advertise |
@@ -7119,6 +7121,7 @@ Do not create new issue or we will close it as duplicate.
 | [nguyentngocthao@twitter](https://twitter.com/nguyentngocthao/status/1475137481569812480) | advertise |
 | [NguyenTrieuAn4@twitter](https://twitter.com/NguyenTrieuAn4/status/1400460844043948043) | advertise |
 | [NguyenV1815512@twitter](https://twitter.com/NguyenV1815512/status/1401810564691611649) | advertise |
+| [Nguyenv59416543@twitter](https://twitter.com/Nguyenv59416543/status/1601958151510974464) | advertise |
 | [NguyenV70727900@twitter](https://twitter.com/NguyenV70727900/status/1394424771102740480) | advertise |
 | [NguyenVanDac18@twitter](https://twitter.com/NguyenVanDac18/status/1389285628257341441) | advertise |
 | [nguyenvu7522@twitter](https://twitter.com/nguyenvu7522/status/1515545378485022721) | advertise |
@@ -7867,6 +7870,7 @@ Do not create new issue or we will close it as duplicate.
 | [PhtNguy19931060@twitter](https://twitter.com/PhtNguy19931060/status/1407683096552435719) | advertise |
 | [Phtnh88838227@twitter](https://twitter.com/Phtnh88838227/status/1468206933219819521) | advertise |
 | [Phu21102006@twitter](https://twitter.com/Phu21102006/status/1392527606176653314) | advertise |
+| [Phu78126809@twitter](https://twitter.com/Phu78126809/status/1601983715659636736) | advertise |
 | [phuc4bn@twitter](https://twitter.com/phuc4bn/status/1405694316450746368) | advertise |
 | [Phuc18cm170@twitter](https://twitter.com/Phuc18cm170/status/1559261184008024064) | advertise |
 | [Phuc65469513@twitter](https://twitter.com/Phuc65469513/status/1387044797605552134) | advertise |
