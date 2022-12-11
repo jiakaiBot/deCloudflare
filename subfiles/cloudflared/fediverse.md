@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,730 |
-| social | 2,792 |
+| social | 2,793 |
 | net | 2,485 |
 | org | 1,783 |
 | de | 1,629 |
@@ -17865,6 +17865,7 @@ Here's a list of public Fediverse services.
 | `metaskey.net` | Yes |
 | `metasocial.com` | No |
 | `metasyntactical.com` | No |
+| `metatwit.social` | No |
 | `metaversetrillionaires.club` | Yes |
 | `metaversum.wtf` | No |
 | `metawurst.space` | No |
@@ -32646,7 +32647,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,348 |
-| Normal | 25,254 |
+| Normal | 25,255 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
