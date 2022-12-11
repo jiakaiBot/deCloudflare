@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,730 |
-| social | 2,793 |
-| net | 2,485 |
-| org | 1,783 |
-| de | 1,629 |
+| com | 4,731 |
+| social | 2,795 |
+| net | 2,487 |
+| org | 1,784 |
+| de | 1,631 |
 
 
 - Mastodon, Pleroma, etc
@@ -2925,6 +2925,7 @@ Here's a list of public Fediverse services.
 | `bgemi.net` | No |
 | `bgeneric.net` | Yes |
 | `bghost.xyz` | No |
+| `bgmastodon.com` | No |
 | `bgme.me` | Yes |
 | `bgr.com` | No |
 | `bgsteiner.com` | Yes |
@@ -3693,6 +3694,7 @@ Here's a list of public Fediverse services.
 | `brettiverse.com` | Yes |
 | `brettspiel.space` | No |
 | `brettspielpony.de` | No |
+| `brettvormkopf.de` | No |
 | `bretzel.ovh` | No |
 | `breugelmans.com` | No |
 | `breuils.com` | No |
@@ -4897,6 +4899,7 @@ Here's a list of public Fediverse services.
 | `cloud-foo.de` | No |
 | `cloud-libre.eu` | No |
 | `cloud-native.social` | No |
+| `cloudapps.ninja` | No |
 | `cloudboard.fr` | No |
 | `cloudbolwell.co.uk` | Yes |
 | `cloudcauldron.io` | No |
@@ -8717,6 +8720,7 @@ Here's a list of public Fediverse services.
 | `fawi.site` | No |
 | `fawx.news` | Yes |
 | `fax.social` | No |
+| `fayek.de` | No |
 | `fayne.me` | No |
 | `fazbear.lol` | No |
 | `fb.com` | Yes |
@@ -13137,6 +13141,7 @@ Here's a list of public Fediverse services.
 | `istrans.cf` | No |
 | `ists.space` | No |
 | `istukiy.com` | No |
+| `istump.net` | Yes |
 | `isurf.ca` | No |
 | `iswleuven.be` | No |
 | `it-blogger.dk` | No |
@@ -17016,6 +17021,7 @@ Here's a list of public Fediverse services.
 | `mastodon-blablalinux.be` | No |
 | `mastodon-choco.jp` | No |
 | `mastodon-dus.de` | No |
+| `mastodon-france.social` | No |
 | `mastodon-hss.ml` | No |
 | `mastodon-japan.net` | No |
 | `mastodon-lyontech.fr` | No |
@@ -17539,6 +17545,7 @@ Here's a list of public Fediverse services.
 | `mbuf.net` | No |
 | `mburakov.org` | No |
 | `mc-mp.space` | No |
+| `mca.is` | No |
 | `mcavey.net` | No |
 | `mcb.today` | No |
 | `mccallig.com` | No |
@@ -18992,6 +18999,7 @@ Here's a list of public Fediverse services.
 | `mtdn.jp` | No |
 | `mtf.party` | Yes |
 | `mtgdon.jp` | No |
+| `mtgjudge.social` | No |
 | `mtgtalk.online` | No |
 | `mthdr.ca` | No |
 | `mthie.net` | No |
@@ -20640,6 +20648,7 @@ Here's a list of public Fediverse services.
 | `nyaa.social` | No |
 | `nyaa.tech` | Yes |
 | `nyadobe.online` | Yes |
+| `nyago.cyou` | Yes |
 | `nyahyun.com` | Yes |
 | `nyan.cafe` | No |
 | `nyan.im` | Yes |
@@ -24489,6 +24498,7 @@ Here's a list of public Fediverse services.
 | `rpvortex.online` | No |
 | `rpz.su` | No |
 | `rs-einrich.de` | No |
+| `rsch.club` | No |
 | `rse43.com` | Yes |
 | `rsi.social` | No |
 | `rsn.io` | No |
@@ -26513,6 +26523,7 @@ Here's a list of public Fediverse services.
 | `source.news` | No |
 | `sousoupe.fr` | No |
 | `souterra.com` | Yes |
+| `southcoastgeek.uk` | No |
 | `southflorida.social` | No |
 | `southfox.gay` | Yes |
 | `southfox.me` | Yes |
@@ -27842,6 +27853,7 @@ Here's a list of public Fediverse services.
 | `tcnfy.uk` | No |
 | `tcp.expert` | Yes |
 | `tcp53.ch` | No |
+| `tcpcat.net` | No |
 | `tcsh.online` | No |
 | `tcu-mstdn.tk` | No |
 | `tda.zone` | No |
@@ -28312,6 +28324,7 @@ Here's a list of public Fediverse services.
 | `thegrove.chat` | No |
 | `thegu.network` | No |
 | `theguidrys.us` | No |
+| `thegurgle.blog` | No |
 | `theha.us` | No |
 | `thehacker.jp` | No |
 | `thehackernews.com` | Yes |
@@ -32626,6 +32639,7 @@ Here's a list of public Fediverse services.
 | `zxq.co` | Yes |
 | `zy.lc` | No |
 | `zyl.se` | Yes |
+| `zylstra.org` | No |
 | `zymocosm.com` | No |
 | `zyno.us` | Yes |
 | `zyphon.com` | No |
@@ -32647,8 +32661,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,348 |
-| Normal | 25,256 |
+| Cloudflare | 7,350 |
+| Normal | 25,268 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
