@@ -6089,7 +6089,7 @@ Here's a list of public Fediverse services.
 | `damaron.net` | No |
 | `dame.life` | No |
 | `damenly.org` | Yes |
-| `damian.social` | No |
+| `damian.social` | Yes |
 | `damienplaysrecords.com` | No |
 | `damned.dev` | No |
 | `damnetwork.nl` | No |
@@ -22242,6 +22242,7 @@ Here's a list of public Fediverse services.
 | `pinksection.xyz` | No |
 | `pinksheep.org` | No |
 | `pinkumandrill.com` | No |
+| `pinkwhite.blue` | No |
 | `pinnoto.org` | No |
 | `pinseri.com` | No |
 | `pinskiy.space` | No |
@@ -32661,7 +32662,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,350 |
+| Cloudflare | 7,351 |
 | Normal | 25,268 |
 
 
