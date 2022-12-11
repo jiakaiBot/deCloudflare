@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Website namekrea.com seems to be down](https://github.com/cderinbogaz/namekrea/issues/13)
 - [e621 stopped working](https://github.com/mikf/gallery-dl/issues/3390)
 - [e621 not working](https://github.com/Bionus/imgbrd-grabber/issues/2855)
 - [Cloudflare R2 - Sync Misconfiguration](https://github.com/gobackup/gobackup/issues/107)
