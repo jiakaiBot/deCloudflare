@@ -1734,7 +1734,7 @@ Here's a list of public Fediverse services.
 | `arcepi.net` | No |
 | `arch-linux.cz` | Yes |
 | `archae.me` | No |
-| `archaeme.tech` | Yes |
+| `archaeme.tech` | No |
 | `archaeo.social` | No |
 | `archaeology.social` | Yes |
 | `archfiend.org` | Yes |
@@ -2715,6 +2715,7 @@ Here's a list of public Fediverse services.
 | `beefyboys.win` | Yes |
 | `beehaw.org` | No |
 | `beehub.org` | Yes |
+| `beekeeping.ninja` | No |
 | `beeldengeluid.nl` | No |
 | `beelen.fr` | No |
 | `beelzebabes.com` | No |
@@ -29849,6 +29850,7 @@ Here's a list of public Fediverse services.
 | `undead.fr` | No |
 | `undead.link` | No |
 | `undeadnetwork.de` | No |
+| `undef.me` | No |
 | `undefined.moe` | Yes |
 | `undefined.social` | No |
 | `under-bank.blue` | No |
@@ -32593,8 +32595,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,334 |
-| Normal | 25,216 |
+| Cloudflare | 7,333 |
+| Normal | 25,219 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
