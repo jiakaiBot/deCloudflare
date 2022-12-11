@@ -27,9 +27,9 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,729 |
-| social | 2,791 |
-| net | 2,483 |
-| org | 1,782 |
+| social | 2,792 |
+| net | 2,484 |
+| org | 1,783 |
 | de | 1,629 |
 
 
@@ -7448,6 +7448,7 @@ Here's a list of public Fediverse services.
 | `dulynoded.online` | No |
 | `dumango.com` | No |
 | `dumb.land` | No |
+| `dumb.place` | No |
 | `dumbly.net` | No |
 | `dumbmeme.wtf` | No |
 | `dumbo.kr` | No |
@@ -9656,7 +9657,7 @@ Here's a list of public Fediverse services.
 | `freetalklive.com` | No |
 | `freethemagic.org` | Yes |
 | `freethinkers.lgbt` | No |
-| `freethought.online` | No |
+| `freethought.online` | Yes |
 | `freetobe.social` | No |
 | `freetorrent.fr` | No |
 | `freetreasures.shop` | No |
@@ -24139,6 +24140,7 @@ Here's a list of public Fediverse services.
 | `ribeiro.social` | No |
 | `ribes.ovh` | Yes |
 | `ricard.social` | No |
+| `ricci.social` | No |
 | `rice.id.au` | Yes |
 | `ricearoni.org` | No |
 | `ricebook.org` | No |
@@ -25814,6 +25816,7 @@ Here's a list of public Fediverse services.
 | `siltala.net` | No |
 | `silvan.cloud` | No |
 | `silverark.social` | No |
+| `silvercommunity.org` | No |
 | `silverfishdevelopment.com` | Yes |
 | `silverhaze.eu` | No |
 | `silverheart.social` | No |
@@ -31885,6 +31888,7 @@ Here's a list of public Fediverse services.
 | `xreality.social` | No |
 | `xroad.se` | No |
 | `xrono.org` | No |
+| `xrvs.net` | No |
 | `xscape.top` | No |
 | `xsden.info` | Yes |
 | `xserver.work` | No |
@@ -32635,8 +32639,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,342 |
-| Normal | 25,250 |
+| Cloudflare | 7,343 |
+| Normal | 25,253 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
