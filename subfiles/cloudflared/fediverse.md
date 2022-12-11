@@ -2065,6 +2065,7 @@ Here's a list of public Fediverse services.
 | `aterm.jp` | No |
 | `aterra.info` | No |
 | `atextual.com` | No |
+| `ath.cx` | No |
 | `athaliasoft.com` | No |
 | `atheatileros.com` | No |
 | `atheistmedianetwork.com` | No |
@@ -32647,7 +32648,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,348 |
-| Normal | 25,255 |
+| Normal | 25,256 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
