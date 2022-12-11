@@ -79,6 +79,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dns.google | No |
 | dns.pub | No |
 | dns.sb | Yes |
+| dnscrypt.ca | No |
 | dnscrypt.uk | No |
 | dnsenc.com | No |
 | dnsforfamily.com | Yes |
@@ -93,6 +94,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dyn1.de | No |
 | dyndns.org | No |
 | e-utp.net | No |
+| easyhandshake.com | No |
 | eddi.net | Yes |
 | edgy-dns.com | No |
 | elemental.software | Yes |
@@ -136,6 +138,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | in-berlin.de | No |
 | indust.me | Yes |
 | infosec.xyz | Yes |
+| infotek.net.id | No |
 | inria.fr | No |
 | ipv6dns.com | No |
 | irre.li | No |
@@ -163,6 +166,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | libredns.gr | No |
 | lightmaster.pw | Yes |
 | limotelu.org | Yes |
+| lsho.top | Yes |
 | masters-of-cloud.de | No |
 | maybe.icu | No |
 | meeo.win | Yes |
@@ -247,6 +251,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | timmes.nl | No |
 | tls-data.de | No |
 | torgues.net | No |
+| totoro.pub | Yes |
 | tru.io | Yes |
 | truong.fi | Yes |
 | tu-bs.de | No |
@@ -285,8 +290,8 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 100 |
-| Normal | 166 |
+| Cloudflare | 102 |
+| Normal | 169 |
 
 
 ### 37.6% of DNS-over-HTTPS (DoH) are using Cloudflare.
