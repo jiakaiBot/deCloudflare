@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Is sig-v4 supported? I use r2 of cloudflare to generate a presignature url with an error.](https://github.com/minio/minio-dotnet/issues/726)
 - [Website namekrea.com seems to be down](https://github.com/cderinbogaz/namekrea/issues/13)
 - [e621 stopped working](https://github.com/mikf/gallery-dl/issues/3390)
 - [e621 not working](https://github.com/Bionus/imgbrd-grabber/issues/2855)
