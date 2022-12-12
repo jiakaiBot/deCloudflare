@@ -275,7 +275,10 @@ admin.fast-track-v2-integration.yabawt-clients.com
 admin.fast-track-v2.yabawt-clients.com
 b90.yahoo.co.jp
 baseball.yahoo.co.jp
+cpanel.yacovid.com
+cpcalendars.yacovid.com
 cpcalendars.yprseguros.com
+dms-cx24dadhv2report.wc.yahoodns.net
 epg.yokkeapi.com
 extension.yoopick.com
 git.git.gitlab.gitlab.gitlab.git.gmail.yugprom.com
@@ -293,7 +296,13 @@ sig-inbank.yofin.ru
 sta.api.youatcollege.com
 support.yougethost.com
 updateimmo.go.yo.fr
+v-apt85sygrz.wc.yahoodns.net
+v-btaajmpai6.wc.yahoodns.net
+v-c455axy6dy.wc.yahoodns.net
+v-crd7q2u3op.wc.yahoodns.net
 v-cvktbosoyn.wc.yahoodns.net
+webdisk.yacovid.com
+webmail.yacovid.com
 www.bank.iefinance.go.yj.fr
 www.billing.yourhostings.net
 www.occup-confirm-ation-lite-fr.go.yj.fr
