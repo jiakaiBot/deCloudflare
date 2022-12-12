@@ -4982,8 +4982,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
+| [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -6537,6 +6537,7 @@ Do not create new issue or we will close it as duplicate.
 | [mona_susan4@twitter](https://twitter.com/mona_susan4/status/1542713379399168003) | advertise |
 | [Monchzd82288185@twitter](https://twitter.com/Monchzd82288185/status/1394220655265009665) | advertise |
 | [mondeamoi@twitter](https://twitter.com/mondeamoi/status/1532632574241214464) | advertise |
+| [MoneyCarlo7@twitter](https://twitter.com/MoneyCarlo7/status/1602277134722015232) | advertise |
 | [Moneysdm1@twitter](https://twitter.com/Moneysdm1/status/1384978130008514560) | advertise |
 | [monicabwar11@twitter](https://twitter.com/monicabwar11/status/1393435235015086082) | advertise |
 | [Monish45746353@twitter](https://twitter.com/Monish45746353/status/1386654173832220681) | advertise |
@@ -7373,6 +7374,7 @@ Do not create new issue or we will close it as duplicate.
 | [notice_com_ng@twitter](https://twitter.com/notice_com_ng/status/1489583630267654145) | advertise |
 | [NOTICIAHOY5@twitter](https://twitter.com/NOTICIAHOY5/status/1543302026754461698) | advertise |
 | [notifil@twitter](https://twitter.com/notifil/status/1499122092578639884) | advertise |
+| [NOTOBIAAA@twitter](https://twitter.com/NOTOBIAAA/status/1602277691423657984) | advertise |
 | [notpotato_88@twitter](https://twitter.com/notpotato_88/status/1542086639077703680) | advertise |
 | [nottsonline1@twitter](https://twitter.com/nottsonline1/status/1519043499328421900) | advertise |
 | [notwaytoomuch@twitter](https://twitter.com/notwaytoomuch/status/1396359332447485953) | advertise |
