@@ -8,7 +8,8 @@ let done = false,
    usePOP = false,
    lookupCAT = false;
 const baseurl = ['https://karma.crimeflare.eu.org:1984', 'http://karma.im5wixghmfmt7gf7wb4xrgdm6byx2gj26zn47da6nwo7xvybgxnqryid.onion'];
-let domainCAT = {};
+let domainCAT = {},
+   templateDB = {};
 function showreply(t, d, icon = '') {
    browser.notifications.clear(notify);
    browser.notifications.create(notify, {
@@ -92,11 +93,12 @@ function testing_onion() {
       apiurl = baseurl[1];
    }, () => {});
 }
-async function linkr_makeTabs(a) {
+async function linkr_makeTabs(a, w) {
    a.reverse();
    for (u of a) {
       await browser.tabs.create({
-         url: u
+         url: u,
+         windowId: w
       });
    }
 }
@@ -104,7 +106,7 @@ function reporting(i, t) {
    if (i.menuItemId.startsWith('linkr')) {
       if (t.id && t.active) {
          browser.tabs.executeScript(t.id, {
-            file: 'linkr/linkr.js',
+            file: 'tool/linkr/linkr.js',
             runAt: 'document_end'
          }).then(g => {
             if (g[0].length > 0) {
@@ -112,7 +114,7 @@ function reporting(i, t) {
                   navigator.clipboard.writeText(g[0].join("\n"));
                }
                if (i.menuItemId == 'linkrOPEN') {
-                  linkr_makeTabs(g[0]);
+                  linkr_makeTabs(g[0], t.windowId);
                }
                if (i.menuItemId == 'linkrCOPYxf') {
                   let junk = {};
@@ -139,10 +141,37 @@ function reporting(i, t) {
       }
       return;
    }
+   if (i.menuItemId.startsWith('insTPLT_')) {
+      if (t.id && t.active) {
+         if (i.menuItemId == 'insTPLT_null') {
+            browser.tabs.create({
+               active: true,
+               url: browser.runtime.getURL('tool/tplt/index.html')
+            });
+         } else {
+            let tpltID = i.menuItemId.substr(8);
+            if (templateDB[tpltID] != undefined) {
+               browser.tabs.executeScript(t.id, {
+                  file: 'tool/tplt/tplt.js',
+               }).then(g => {
+                  browser.tabs.sendMessage(t.id, templateDB[tpltID][1]);
+               });
+            }
+         }
+      }
+      return;
+   }
    if (i.menuItemId == 'openMass') {
       browser.tabs.create({
          active: true,
-         url: browser.runtime.getURL('massrep/index.html')
+         url: browser.runtime.getURL('tool/massrep/index.html')
+      });
+      return;
+   }
+   if (i.menuItemId == 'openTxed') {
+      browser.tabs.create({
+         active: true,
+         url: browser.runtime.getURL('tool/txed/index.html')
       });
       return;
    }
@@ -1092,10 +1121,52 @@ function reload_menu() {
             documentUrlPatterns: ['http://*/*', 'https://*/*'],
             title: 'Open Mass Report tool',
             icons: {
-               '32': 'i/r/spy.png'
+               '32': 'i/r/cardbox.png'
             },
             contexts: ['page']
          });
+      }
+      if (r.nocat84 == '1') {
+         browser.menus.create({
+            id: 'openTxed',
+            documentUrlPatterns: ['http://*/*', 'https://*/*'],
+            title: 'Open Text Editor',
+            icons: {
+               '32': 'i/side/write.png'
+            },
+            contexts: ['page']
+         });
+      }
+      if (r.nocat83 == '1') {
+         browser.menus.create({
+            id: 'iactTPLT',
+            documentUrlPatterns: ['http://*/*', 'https://*/*'],
+            title: 'Insert template',
+            icons: {
+               '32': 'i/r/pen.png'
+            },
+            contexts: ['editable']
+         });
+         browser.menus.create({
+            parentId: 'iactTPLT',
+            id: 'insTPLT_null',
+            documentUrlPatterns: ['http://*/*', 'https://*/*'],
+            title: '< Edit template >',
+            icons: {
+               '32': 'i/side/write.png'
+            },
+            contexts: ['editable']
+         });
+         templateDB = r.mytplt || {};
+         for (let tk in templateDB) {
+            browser.menus.create({
+               parentId: 'iactTPLT',
+               id: 'insTPLT_' + tk,
+               documentUrlPatterns: ['http://*/*', 'https://*/*'],
+               title: templateDB[tk][0],
+               contexts: ['editable']
+            });
+         }
       }
       if (r.nocat88 == '1') {
          browser.menus.create({
@@ -3266,6 +3337,10 @@ browser.runtime.onMessage.addListener((r, s, sr) => {
             });
          }
       });
+      sr(true);
+   }
+   if (r[0] == 'screenpdf') {
+      browser.tabs.saveAsPDF({});
       sr(true);
    }
    if (r[0] == 'opentab') {
