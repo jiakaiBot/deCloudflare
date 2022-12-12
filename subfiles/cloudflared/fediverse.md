@@ -2091,7 +2091,7 @@ Here's a list of public Fediverse services.
 | `atomicstar.xyz` | Yes |
 | `atomium.club` | No |
 | `ator.cz` | No |
-| `atpons.com` | No |
+| `atpons.com` | Yes |
 | `atravesdelcuento.es` | No |
 | `atri.ml` | No |
 | `atridad.cloud` | No |
@@ -2299,6 +2299,7 @@ Here's a list of public Fediverse services.
 | `azabani.com` | No |
 | `azadehafzar.ir` | No |
 | `azae.net` | No |
+| `azaleth.xyz` | No |
 | `azan.one` | Yes |
 | `azapft.is` | Yes |
 | `azarakko.net` | No |
@@ -32698,7 +32699,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,365 |
+| Cloudflare | 7,366 |
 | Normal | 25,290 |
 
 
