@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,738 |
-| social | 2,805 |
+| social | 2,806 |
 | net | 2,488 |
 | org | 1,786 |
 | de | 1,632 |
@@ -6726,6 +6726,7 @@ Here's a list of public Fediverse services.
 | `devsnorte.com` | No |
 | `devsociety.eu` | No |
 | `devteams.at` | No |
+| `devtools.social` | No |
 | `devtrope.com` | No |
 | `devua.club` | No |
 | `devurandom.xyz` | No |
@@ -18912,7 +18913,7 @@ Here's a list of public Fediverse services.
 | `mstdn.cloud` | No |
 | `mstdn.club` | No |
 | `mstdn.co.uk` | No |
-| `mstdn.com.au` | No |
+| `mstdn.com.au` | Yes |
 | `mstdn.cyou` | Yes |
 | `mstdn.design` | No |
 | `mstdn.digital` | Yes |
@@ -32699,7 +32700,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,366 |
+| Cloudflare | 7,367 |
 | Normal | 25,290 |
 
 
