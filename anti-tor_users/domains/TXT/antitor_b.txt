@@ -1799,7 +1799,6 @@ discord.bbclass.co
 discord.berellsoft.eu
 discord.businessmine.co
 disfruta.bbva.pe
-dl.bituik.com
 dl.boxcloud.com
 doh.bortzmeyer.fr
 domo.buelldozer.fr
@@ -2673,6 +2672,7 @@ banksqw.site
 banktryout.com
 banquefrancedsp2.com
 banquesalimentaires.org
+banquetaazul.pt
 banquetes.barbacoamx.com
 baovevietdung.vn
 baranewsaceh.co
@@ -2680,6 +2680,7 @@ barcadejerseycity.com
 barclaycard.co.uk
 barclaysgroups.com
 barcleysbonlin.com
+barmansanat-drb.ir
 bartecmedia.hu
 basaksehiravrasya.com
 baseline.sys.baseline.pl
@@ -2716,8 +2717,8 @@ bgrc-bcs.com
 biamo.bet
 biblioteca-de-reit.blogspot.com
 bigamateurtelescope.com
+bigbenteashop.com
 bigm-burger.fr
-bijalibill.in
 bijimcell.icu
 bikecalgary.org
 bill-moore.us
@@ -2734,6 +2735,7 @@ billkrauss.com
 billmarshall.ml
 billmartin.site
 billmoreno.ml
+billnewman.ml
 billschweigart.com
 billsmudgeechainsawcentre.com.au
 billystaphouse.com
@@ -2746,6 +2748,7 @@ biogears.eu
 biographyceleb.com
 biogreentechnology.com
 biologicsconsulting.com
+bionitropin.com
 biostempharma.com
 birathospital.com
 birger.app
@@ -2760,6 +2763,12 @@ blath-na-dtulach.com
 blockchain-camp-up.org
 blockchainbuccaneers.com
 blockchaincongress.ru
+blockchaink-12.com
+blockchainmavricks.com
+blockchainpubs.com
+blockout.nu
+blog.blog.blog.old.zmail.blandineetfab.fr
+blog.blog.demo.zmail.blandineetfab.fr
 blog.blog.vmail.blandineetfab.fr
 blogatlarge.com
 blogscrolls.com
@@ -2780,8 +2789,10 @@ bofsecurity.com
 bogdan.today
 bonboncha.fr
 bonifacemwangi.com
+bootsanmeldung-lago-maggiore.de
 boredwalkllc.com
 boringphone.com
+boshtrans.uz
 bot.land
 botschaft-eritrea.de
 bottrack.live
@@ -2798,6 +2809,8 @@ brfplattform.se
 brinckmann.no
 briopost.online
 british-dragonflies.org.uk
+brivanbiotech.com
+brocku.ca
 bromsgrovestandard.co.uk
 broomudigitals.fi
 brthurr.com
@@ -2806,11 +2819,13 @@ bruningadv.com.br
 bsci000003.bechtle-clouds.com
 bscn-dashboard.blockchainr.live
 bsft.us
+bsimobilethree.bankbsi.co.id
 bsinet.bankbsi.co.id
 bslkconsulting.com
 btlonline.org
 btw.red
 bubble-wrap.business.site
+bueriaktiv60plus.ch
 bugertech.com
 bukharianmatch.com
 bullionmoney.com
@@ -2830,22 +2845,30 @@ caixapostal.budapestportal.hu
 captcha.business-software.com
 carteltech.bestcare.com.do
 catapa-console-api.bcasyariah.co.id
+cdn.bfldr.com
 cfratelli.bcontrol82.xyz
 click.updates.bofa.com
+client-staging.businessaction.es
 clients.battlefitnessonline.com
 clt1343553.benchmarkurl.com
 clt198236.benchmarkurl.com
 core.beautiful-photo-japan.com
 corermp002.bitbucket.io
 corporate.berlin-airport.de
+covid19.blogbelajar.my.id
+covid19.brienhopkins.com
 cpanel.binancequickship.com
+cpanel.blockchaink-12.com
 cpcalendars.bankofamerica-checkings.com
 cpcalendars.beny.nyc
 cpcalendars.biogenesismail.com
+cpcalendars.blockchaink-12.com
 cpcalendars.burgetlikead.click
 cpcontacts.bajasejahteramandiri.co.id
 cpcontacts.bankofamerica-checkings.com
+cpcontacts.behrooyesh.com
 cpcontacts.beny.nyc
+cpcontacts.blockchaink-12.com
 cpcontacts.blockchainwalletsupport.co
 csgo.bmt.works
 customer.smoss-pre-prod.apac.bmw.cloud
@@ -2872,6 +2895,7 @@ events.paypay.blameless.io
 exchange.buzzoola.com
 farismetha.butuh.website
 files.banco-pichincha.io
+front.digitalniuniverzita.cz.microsoft.staging.biceps.digital
 front.digitalniurad.cz.microsoft.staging.biceps.digital
 fsaedinetdevb.b2clogin.com
 fvapp.bcpartners.com
@@ -2882,6 +2906,17 @@ git.git.gitlab.gitlab.web.beautyhelp.club
 git.git.gitlab.px2lxxeiejw3laq.outlook.bodojanitsjar.no
 git.git.gitlab.www.www.amazon.bryanskweb.ru
 git.gitlab.git.www.www.amazon.bryanskweb.ru
+github-comms-api.argo-events.tools.prod.bulb-infra.com
+github-data-platform-tf.argo-events.tools.prod.bulb-infra.com
+github-es-tools-tf.argo-events.tools.prod.bulb-infra.com
+github-esg-external.argo-events.tools.prod.bulb-infra.com
+github-infrastructure-tf.argo-events.tools.prod.bulb-infra.com
+github-platform-infrastructure.argo-events.tools.prod.bulb-infra.com
+github-rev-assurance-infra.argo-events.tools.prod.bulb-infra.com
+github-smart-energy.argo-events.tools.prod.bulb-infra.com
+github-smart.argo-events.tools.prod.bulb-infra.com
+github-terraform-modules.argo-events.tools.prod.bulb-infra.com
+github-vulnerabilities-service.argo-events.tools.prod.bulb-infra.com
 gitlab.git.git.gitlab.px2lxxeiejw3laq.outlook.bodojanitsjar.no
 gitlab.git.gitlab.gitlab.gitlab.git.mx0.bybyshop.online
 gitlab.git.www.www.amazon.bryanskweb.ru
@@ -2924,6 +2959,8 @@ loginunico-vla.bpc-bo.online
 logs.browser-intake-datadoghq.com
 mail.bankofamerica-checkings.com
 mail.beachtimesunglasses.com
+mail.blockchaink-12.com
+mail.blockchainpubs.com
 mckinneyvw.buycarback.com
 media.better.com
 member-staging.bsac-japan.com
@@ -2944,6 +2981,7 @@ odoo-12.bjetpro.com
 opensea.io.bonsavonsoaps.com
 otto-schruppke.beepworld.de
 paceyourself.bandcamp.com
+papelariabarao-mg.blogspot.com
 particulares.bancosantander.es
 pgadmin.blockchaindevbd.com
 pizzapause2.business.site
@@ -2955,6 +2993,7 @@ prod.burnco.com
 prod.sdi.beyers.eu
 quo25.belcorp.biz
 rainey.bandcamp.com
+rarible-com-walllet.blogspot.com
 rb-mobile-aad-fiori-q.bosch.com
 rb-mobile-spoi-ux-q.bosch.tech
 rb-mobile-spoi-ux.bosch.tech
@@ -2966,6 +3005,7 @@ selfservice.bvtb.gov.bb
 services.bwiki.co
 sharepoint.bre.com
 sip.beiersdorf.com
+sisgestao.bancotbs.com.br
 siteupdate.bulit21.com
 smtp.bankopinie.pl
 socar.btcnlanding.com
@@ -2991,6 +3031,9 @@ voute.bape.gouv.qc.ca
 webdisk.bankofamerica-checkings.com
 webdisk.bardibaskhabar.com
 webdisk.bestmatch.com.ph
+webdisk.blockchaink-12.com
+webdisk.blogwithcom.com
+webmail.blockchaink-12.com
 webmail.boydinsuranceservice.com
 werner-consulting.brumm-service.de
 wizere.builderallwppro.com
@@ -2998,6 +3041,7 @@ wolb2cstaging.b2clogin.com
 www-stg.blockchain.bet
 www.absen.bankanjukladang.co.id
 www.account.bargunait.com
+www.accounting.bcfi.cloud
 www.autoitalia-service.ro.brilliant-events.ro
 www.b1tkb.ml
 www.babanews.ch
@@ -3047,7 +3091,6 @@ www.biancamillerlondon.com
 www.bibliollama.uk
 www.bicibus.de
 www.bigcommercesupport.com.au
-www.bijalibill.in
 www.bikeabouttours.com
 www.billbentz.art
 www.billiardtelevision.com
@@ -3061,6 +3104,8 @@ www.billmartin.site
 www.billshortridgeart.com
 www.billsplumbingandsewerservice.com
 www.billthetradesman.com
+www.billwolff.net
+www.bionitropin.com
 www.birgitrabisch.de
 www.bit-uk.ga
 www.bit-uk.gq
@@ -3072,6 +3117,7 @@ www.blockchain-helpdesk.info
 www.blockint.nl
 www.blogvarient.com
 www.bluecher-bar.de
+www.bluestbunny.net
 www.bmgbolig.no
 www.bmgresearch.co.uk
 www.bmhd.cz
@@ -3081,6 +3127,7 @@ www.bodhi.com.my
 www.bodyarmorcompany.com
 www.boj.or.jp
 www.bonheurdechine.com
+www.bookmyticket.online
 www.boosteducationservice.co.uk
 www.bose.co.jp
 www.bostoncyber.org
@@ -3155,6 +3202,7 @@ www.real-money-income.big7labbd.xyz
 www.services.bwiki.co
 www.siteupdate.bulit21.com
 www.staging.businesssupport.dk
+www.ticket.boxshoplogistics.com
 www.update-connection.broadcast4k.site
 www.user.blksambas.sch.id
 www.verify-trustwallet.bergerato.com
