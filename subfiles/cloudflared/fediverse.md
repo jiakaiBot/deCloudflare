@@ -5146,7 +5146,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -23658,6 +23658,7 @@ Here's a list of public Fediverse services.
 | `ramyapandyan.com` | No |
 | `rand0m.me` | No |
 | `randbot.live` | Yes |
+| `randir.link` | No |
 | `randland.party` | Yes |
 | `randna.me` | Yes |
 | `rando.social` | No |
@@ -32697,7 +32698,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,364 |
+| Cloudflare | 7,365 |
 | Normal | 25,290 |
 
 
