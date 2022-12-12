@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Support Cloudflare pages/workers](https://github.com/neet/masto.js/issues/751)
 - [Install Karmada v1.3 by local-up-karmada failed](https://github.com/karmada-io/karmada/issues/2951)
 - [🐛 New generated __Secure-next-auth.session-token are not accepted](https://github.com/RomanHotsiy/commitgpt/issues/21)
 - [Error: Couldn't get access token](https://github.com/m1guelpf/chatgpt-telegram/issues/71)
