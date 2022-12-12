@@ -1198,13 +1198,17 @@ zzg725.keap-link015.com
 428.pr.stater.nl.kiwicloud.nl
 439.pr.stater.nl.kiwicloud.nl
 442.pr.stater.nl.kiwicloud.nl
+444.pr.stater.nl.kiwicloud.nl
 api-map-service.kai.sn
 api.cadro.kaldi.si
 api.kaisservices.co.uk
 api.karmak.io
 apps.facebook.com.deroullatte.xyz.kdent-shop.com
+autodiscover.kinitrologoukaipsixis.gr
 cloud.kumi.ch
 containyourself.konker.ie
+cpcalendars.kinitrologoukaipsixis.gr
+cpcontacts.kinitrologoukaipsixis.gr
 d-auth.kpnnet.org
 da.kraftanlagen.com
 dd19224.kasserver.com
@@ -1221,11 +1225,13 @@ git.www.covid19.ktk-construct.cz
 gitlab.git.git.gitlab.git.git.autodiscover.kulibindelivery.ru
 gitlab.gitlab.gitlab.git.gitlab.git.gitlab.keyline.click
 gitlab.www.covid19.ktk-construct.cz
+gmail1.kajakktyper.com
 helpdesk.klinikberdikari.id
 id.aruba.kfv-main-tauber.com
 inpro-dev.kfintech.com
 integrationsstaging.kenexa.com
 ivrcaller.klearcom.com
+ja.kyoto.travel
 kaiuminfo.com
 kalan-portfolio.eu
 kanal101.tv
@@ -1249,6 +1255,7 @@ ketteringtowingservice.com
 kfdm.com
 kgcworkshop.com.sg
 khoinghiep247.com
+kiari.com
 kickrtechnology.com
 kielenki.ng
 kientruchc.com
@@ -1274,6 +1281,8 @@ knifequeerart.com
 knotplot.com
 knowproz.com
 koi-memo.com
+koinslot303.asia
+koinslot77.asia
 koiw.info
 kolaleipzig.de
 kolekniewiary.pl
@@ -1310,6 +1319,7 @@ mg.khecorp.com
 mobilyaburada-test.kerataifisler.com
 monitoring.khidmaty.gov.mr
 monthlyupdate.kristen-welsh.com
+moshialb-dev.kawai-juku.ac.jp
 navi.kyou.moe
 navi.kyoukai.jp
 new.kravings.ca
@@ -1333,6 +1343,7 @@ syntes-client.caprover-staging.koodit.it
 szpital.kolbuszowa.pl
 taxiap-server.klevret.net
 tempchel.knitism.ru
+test.sana-commerce.com.kiwicloud.nl
 turn-meet.kienlongbank.co
 umz786.keap-link005.com
 united-states.kinokuniya.com
@@ -1342,6 +1353,8 @@ uspoun.kabete.net
 vsc.kakaoi.ai
 wagenhaeuser-coaching.kapwa.de
 webdisk.kandiscorp.com
+webdisk.kencsgoagency.com
+webdisk.kinitrologoukaipsixis.gr
 webdisk.kmgcompany.com
 webmail.kandiscorp.com
 whm.kuakhillresort.my
@@ -1360,6 +1373,7 @@ www.kansascity.com
 www.kapsylen.se
 www.karabocueros.com
 www.karamadservice.com
+www.karczmajedlowo.pl
 www.kare11.com
 www.karma-paris.com
 www.karzusp.net
@@ -1392,6 +1406,7 @@ www.koeitecmoeurope.com
 www.koholiornem4reps.com
 www.kokuyo-st.co.jp
 www.komera-bc-services-ltd.kasuwaniger.com
+www.konamistyle.jp
 www.koppernik.nl
 www.kpc-services.com
 www.kpfk.org
@@ -1401,9 +1416,11 @@ www.kranich-aikido.de
 www.kreativerkochen.de
 www.kreis-sim.de
 www.krem.com
+www.krisbanas.com
 www.kryshiggins.com
 www.ksdk.com
 www.ksn.com
+www.kto-accesorios.com
 www.kub-owl.ml
 www.kub-owl.tk
 www.kub3.ml
