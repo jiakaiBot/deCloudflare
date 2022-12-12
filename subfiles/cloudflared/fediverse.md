@@ -28,9 +28,9 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,740 |
 | social | 2,807 |
-| net | 2,488 |
+| net | 2,489 |
 | org | 1,788 |
-| de | 1,634 |
+| de | 1,635 |
 
 
 - Mastodon, Pleroma, etc
@@ -4865,6 +4865,7 @@ Here's a list of public Fediverse services.
 | `cleverdevil.club` | No |
 | `clic2000.net` | Yes |
 | `click.ba.it` | No |
+| `clickomania.ch` | No |
 | `cliff.social` | Yes |
 | `cliffmccarthy.net` | No |
 | `climatejustice.events` | No |
@@ -19802,6 +19803,7 @@ Here's a list of public Fediverse services.
 | `nes.sh` | Yes |
 | `nesakko.xyz` | No |
 | `neshura-server.net` | Yes |
+| `neshweb.net` | Yes |
 | `neso.page` | Yes |
 | `neso.tech` | No |
 | `nesohub.org` | No |
@@ -28139,6 +28141,7 @@ Here's a list of public Fediverse services.
 | `terribly.social` | No |
 | `terryiscool160.xyz` | Yes |
 | `terryx.com` | Yes |
+| `tertech.de` | No |
 | `terusid.com` | No |
 | `terz.at` | No |
 | `tesaguri.club` | No |
@@ -32715,8 +32718,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,371 |
-| Normal | 25,301 |
+| Cloudflare | 7,372 |
+| Normal | 25,303 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
