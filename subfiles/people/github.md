@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error: Couldn't get access token](https://github.com/m1guelpf/chatgpt-telegram/issues/71)
 - [browser value from app/environment shows the wrong value in the server environment](https://github.com/sveltejs/kit/issues/8082)
 - [FlareSolverr not by-passing CloudFlare](https://github.com/FlareSolverr/FlareSolverr/issues/615)
 - [Cloudflare R2 error](https://github.com/nginxinc/nginx-s3-gateway/issues/78)
