@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Install Karmada v1.3 by local-up-karmada failed](https://github.com/karmada-io/karmada/issues/2951)
 - [🐛 New generated __Secure-next-auth.session-token are not accepted](https://github.com/RomanHotsiy/commitgpt/issues/21)
 - [Error: Couldn't get access token](https://github.com/m1guelpf/chatgpt-telegram/issues/71)
 - [browser value from app/environment shows the wrong value in the server environment](https://github.com/sveltejs/kit/issues/8082)
