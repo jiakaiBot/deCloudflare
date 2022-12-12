@@ -4,6 +4,8 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [status Fastly 401](https://github.com/Vexed01/Vex-Cogs/issues/105)
+- [error on authentication](https://github.com/RichardDorian/node-character.ai/issues/2)
 - [Support Cloudflare pages/workers](https://github.com/neet/masto.js/issues/751)
 - [Install Karmada v1.3 by local-up-karmada failed](https://github.com/karmada-io/karmada/issues/2951)
 - [🐛 New generated __Secure-next-auth.session-token are not accepted](https://github.com/RomanHotsiy/commitgpt/issues/21)
