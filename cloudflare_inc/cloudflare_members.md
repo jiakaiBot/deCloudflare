@@ -245,6 +245,7 @@ Or is this merely a case of simple modesty?
 | Austin Urraca | Business Development |  |
 | Avery Harnish | Systems Engineer |  |
 | Ayako Kobayashi | Recruiting Coordinator |  |
+| Ayush Kumar | Employee | |
 | Azin Mirzaagha | Employee |  |
 | Bani Singh | Intern |  |
 | Baptiste Descateaux | Business Development |  |
@@ -1023,6 +1024,7 @@ Or is this merely a case of simple modesty?
 | Lana Gulden | Accounts Receivable |  |
 | Lane Billings | Product Marketing, Austin |  |
 | Larry Sandoval | Employee |  |
+| Laura Klick | Employee | |
 | Lauren Buchman | Marketer |  |
 | Laurie Zapinski | Employee |  |
 | Lavanya Ganesan | Support Engineer, India |  |
