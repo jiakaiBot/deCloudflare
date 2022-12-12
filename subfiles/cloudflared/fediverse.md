@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,732 |
+| com | 4,733 |
 | social | 2,796 |
 | net | 2,487 |
 | org | 1,784 |
@@ -18496,6 +18496,7 @@ Here's a list of public Fediverse services.
 | `molodtsov.net` | Yes |
 | `moltchanova.de` | No |
 | `molten.cloud` | No |
+| `moltenaether.com` | No |
 | `moltonlava.online` | No |
 | `molyboha.me` | No |
 | `momcha.me` | No |
@@ -32665,7 +32666,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,351 |
-| Normal | 25,270 |
+| Normal | 25,271 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
