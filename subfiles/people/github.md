@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [browser value from app/environment shows the wrong value in the server environment](https://github.com/sveltejs/kit/issues/8082)
 - [FlareSolverr not by-passing CloudFlare](https://github.com/FlareSolverr/FlareSolverr/issues/615)
 - [Cloudflare R2 error](https://github.com/nginxinc/nginx-s3-gateway/issues/78)
 - [Is sig-v4 supported? I use r2 of cloudflare to generate a presignature url with an error.](https://github.com/minio/minio-dotnet/issues/726)
