@@ -9589,6 +9589,7 @@ Do not create new issue or we will close it as duplicate.
 | [Teammmmmmmmm3@twitter](https://twitter.com/Teammmmmmmmm3/status/1398780432074743810) | advertise |
 | [tech97519794@twitter](https://twitter.com/tech97519794/status/1406477104200310788) | advertise |
 | [TecharoApp@twitter](https://twitter.com/TecharoApp/status/1401984338472931330) | advertise |
+| [techaurahelp@twitter](https://twitter.com/techaurahelp/status/1602214203703824384) | advertise |
 | [TechEdUS1@twitter](https://twitter.com/TechEdUS1/status/1518902070438465536) | advertise |
 | [TechLifeApp@twitter](https://twitter.com/TechLifeApp/status/1523592317831053312) | advertise |
 | [technogun1819@twitter](https://twitter.com/technogun1819/status/1530095687236390912) | advertise |
@@ -9801,8 +9802,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
