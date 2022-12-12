@@ -1341,12 +1341,14 @@ xport.hermesmedical.com
 yomiuri.hakko-ar-vr.com
 zads.herokuapp.com
 2526d.chenxuyanwww.blog.staging.outlook.homereviewonline.com
+5b0f6cb9-0485-4fc7-9775-eb74bb45bbf6.htmlcomponentservice.com
 aac004.hostedautoaudit.com
 academia.hrv.cl
 acc.stellantispsa-zakelijk.registrationplatform.hosted-temp.com
 accounting-pr-2488.herokuapp.com
 acronymninjabot.herokuapp.com
 adams.house.gov
+aldebet.herokuapp.com
 aovpn.haringey.gov.uk
 api2.homebank.kz
 appstore-staging.infra.hc-platform.vn
@@ -1357,6 +1359,7 @@ betaservices.hambs.net.au
 bicorn-waggle.herokuapp.com
 billsbikeshopca.hibuwebsites.com
 blog.aging.zmail.homereviewonline.com
+blog.blog.blog.old.zmail.homereviewonline.com
 blog.blog.shop.com.homereviewonline.com
 blog.demo.outlook.homereviewonline.com
 blog.shop.zmail.homereviewonline.com
@@ -1382,9 +1385,11 @@ cpanel.hiroeroblog.com
 cpcalendars.hardynova.ga
 cpcalendars.hiroeroblog.com
 cpcontacts.hardynova.ga
+cpcontacts.havasagro.com
 cpcontacts.healthpointbloodsugar.com
 cpcontacts.hiroeroblog.com
 dehumanised-slick.herokuapp.com
+dis-core.pub.stg.hou.hermesgermany.digital
 disinfectant-teredinid.herokuapp.com
 dit-fintech.hangseng.com
 downloads.hpdaas.com
@@ -1399,6 +1404,7 @@ ghamandi.hcommons.org
 gitlab.git.git.mysum9xsbqgmksg.02.hackbanks.com
 gitlab.gitlab.git.gitlab.b2b.hot-live-owa.com
 habershamwinery.com
+habibbsonsmicrobank.com
 habibinsurance.com
 hacecrecertudinero.com.uy
 hackfollowtiktok.com
@@ -1418,6 +1424,7 @@ hayawoo.hatenablog.com
 hayhoc.live
 hbhengzuo.com
 hbyaoya.com
+hcsgoal.com
 headwise.ie
 healthcare-startups.de
 healthupdate.gr
@@ -1425,6 +1432,7 @@ heatingsystemservice.ro
 heikograbolle.com.br
 heils-galabau.de
 helalfoodbv.nl
+helenair.com
 helie.org
 helionsf.ro
 heliossecurity.ro
@@ -1454,6 +1462,7 @@ holyland-gifts.com
 homburg1.de
 homelife.ro
 homesofrajasthan.com
+homicidal-centrifuge.herokuapp.com
 honeybees.ir
 hookget.online
 hopefuru.com
@@ -1472,6 +1481,7 @@ hpinvestigations.com
 hqfurniturestore.co.uk
 hs-service.dk
 htdamazon.com
+humanitarianfrontierslab.org
 humphreymanagement.com
 hunoconta.com
 hunterlevinsohn.com
@@ -1492,12 +1502,14 @@ i0.hdslb.com
 immunisationhandbook.health.gov.au
 is1-3.housingcdn.com
 judiciary.house.gov
+korona-jaroslaw.hootway.net
 lacartist.hp.gov.in
 luvs.hi.is
 mail.hiroeroblog.com
 management-servicesochestryred.herokuapp.com
 mbsgfx.heliohost.org
 meeteam-backend.herokuapp.com
+miaparkinson54338.hatenablog.com
 nailsent.herokuapp.com
 o.hws-gruppe.de
 oidc.idp.elogin.e-access.hr-access.sbs
@@ -1506,6 +1518,8 @@ parabolic-laudability.herokuapp.com
 perfected-cachinnation.herokuapp.com
 placative-tertiary.herokuapp.com
 play-dev.hatchnmatch.com
+portal-lm.uat.haeco.com
+portal.hb9566.cn
 ppm-clientsds-cust.hexagonsmartlicensing.com
 pro-data.httpost.cn
 qa-api.hausanschlussportal.de
@@ -1555,7 +1569,9 @@ www.caravan-safe.high-tensile-chain.com
 www.caravansafe.high-tensile-chain.com
 www.carbonservice.hverdagshus.dk
 www.claims.happypocket2u.com
+www.clienti.hostdesign.biz
 www.cpanel.webdisk.webmail.mail.www.hackbanks.com
+www.facebook.com.tick-veirification-badge.hostershub.com
 www.file.online-banking.hsbc.com.ar
 www.gardinservice.se.hemsida.eu
 www.habitburger.com
@@ -1587,6 +1603,7 @@ www.heydaybooks.com
 www.highdesertaffordablelandscape.com
 www.highlanddesignart.com
 www.hijab-style.com
+www.hitched.co.uk
 www.hizennya.com
 www.hmsalarm.no
 www.home-bank.ml
