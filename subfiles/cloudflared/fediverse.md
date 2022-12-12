@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,731 |
-| social | 2,795 |
+| com | 4,732 |
+| social | 2,796 |
 | net | 2,487 |
 | org | 1,784 |
 | de | 1,631 |
@@ -11845,6 +11845,7 @@ Here's a list of public Fediverse services.
 | `hhsocial.de` | No |
 | `hi.ls` | Yes |
 | `hiauntie.com` | No |
+| `hibi-tsumo.com` | Yes |
 | `hibi-tsumo.net` | Yes |
 | `hibi.ga` | No |
 | `hibiki.eu` | No |
@@ -17524,6 +17525,7 @@ Here's a list of public Fediverse services.
 | `mayson.us` | No |
 | `mayvaneday.art` | No |
 | `maywood.me` | Yes |
+| `mazanec.social` | No |
 | `mazaska.social` | No |
 | `mazingars.fr` | No |
 | `mazion.ga` | No |
@@ -22372,7 +22374,7 @@ Here's a list of public Fediverse services.
 | `pjcesteves.pt` | Yes |
 | `pjnk.de` | No |
 | `pkg.schule` | No |
-| `pkkm.me` | Yes |
+| `pkkm.me` | No |
 | `pkm.social` | No |
 | `pks.ai` | Yes |
 | `pkteerium.xyz` | No |
@@ -32663,7 +32665,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,351 |
-| Normal | 25,268 |
+| Normal | 25,270 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
