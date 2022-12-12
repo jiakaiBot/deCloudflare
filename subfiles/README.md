@@ -147,6 +147,7 @@
   - [September 2022](repeat_infringers/2022-09.md)
   - [October 2022](repeat_infringers/2022-10.md)
   - [November 2022](repeat_infringers/2022-11.md)
+  - [December 2022](repeat_infringers/2022-12.md)
 - Shared on
   - [Shared on Twitter](shared_on_twitter.md)
   - [Shared on Mastodon](shared_on_mastodon.md)
