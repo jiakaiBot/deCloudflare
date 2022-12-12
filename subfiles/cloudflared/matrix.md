@@ -96,6 +96,7 @@ Here's a list of public Matrix services.
 | matrix.pikaviestin.fi | No |
 | pragma-messenger.ch | No |
 | www.privacytools.io | Yes |
+| privex.io | Yes |
 | matrix.pub.solar | No |
 | radiowarnerd.org | No |
 | matrix.rimfaxe.net | No |
@@ -105,7 +106,6 @@ Here's a list of public Matrix services.
 | matrix.sfunk1x.com | No |
 | matrix.sibnsk.net | No |
 | socialnetwork24.com | No |
-| matrix.studichat.de | No |
 | synod.im | No |
 | matrix.tchncs.de | No |
 | matrix.techsaviours.org | No |
@@ -128,8 +128,8 @@ Here's a list of public Matrix services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 17 |
-| Normal | 84 |
+| Cloudflare | 18 |
+| Normal | 83 |
 
 
-### 16.8% of public Matrix services are using Cloudflare.
+### 17.8% of public Matrix services are using Cloudflare.
