@@ -1361,6 +1361,7 @@ Here's a list of public Fediverse services.
 | `anarchist.gay` | Yes |
 | `anarchistakozosseg.hu` | No |
 | `anarchmusicall.net` | No |
+| `anarchy.center` | Yes |
 | `anarchy.moe` | No |
 | `anarchy.rocks` | No |
 | `anarchy.social` | No |
@@ -8982,6 +8983,7 @@ Here's a list of public Fediverse services.
 | `felesitas.cloud` | No |
 | `felice.biz` | No |
 | `feline.cloud` | No |
+| `feline.rodeo` | No |
 | `feline.social` | No |
 | `felines.space` | Yes |
 | `feliver.se` | No |
@@ -11602,6 +11604,7 @@ Here's a list of public Fediverse services.
 | `hd-dn.com` | No |
 | `hd0.eu` | Yes |
 | `hda.zone` | No |
+| `hdcraft.xyz` | No |
 | `hdev.im` | No |
 | `hdez.nl` | No |
 | `headcannon.xyz` | Yes |
@@ -32665,8 +32668,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,351 |
-| Normal | 25,271 |
+| Cloudflare | 7,352 |
+| Normal | 25,273 |
 
 
 ### 22.5% of public Fediverse services are using Cloudflare.
