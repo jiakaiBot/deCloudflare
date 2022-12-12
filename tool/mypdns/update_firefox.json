@@ -5,12 +5,12 @@
         {
           "applications": {
             "gecko": {
-              "strict_min_version": "91.0"
+              "strict_min_version": "102.0"
             }
           },
-          "version": "1.0.1.17",
-          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/reporter/addon/firefox/addon.xpi?5483565832a2fffa2bb2761128f30b941403008e0f42cebaaae7f6d0b602aa16",
-          "update_hash": "sha256:5483565832a2fffa2bb2761128f30b941403008e0f42cebaaae7f6d0b602aa16"
+          "version": "1.0.2",
+          "update_link": "https://framagit.org/dCF/deCloudflare/-/raw/master/tool/mypdns/reporter/addon/firefox/addon.xpi?b357f5409c172ee7cd2dae244744f1e6b0218c07119c7de2f84fbaf22394e1bc",
+          "update_hash": "sha256:b357f5409c172ee7cd2dae244744f1e6b0218c07119c7de2f84fbaf22394e1bc"
         }
       ]
     },
@@ -19,7 +19,7 @@
         {
           "applications": {
             "gecko": {
-              "strict_min_version": "91.0"
+              "strict_min_version": "102.0"
             }
           },
           "version": "1.0.0.4",
@@ -33,7 +33,7 @@
         {
           "applications": {
             "gecko": {
-              "strict_min_version": "91.0"
+              "strict_min_version": "102.0"
             }
           },
           "version": "1.0.0.1",
@@ -47,7 +47,7 @@
         {
           "applications": {
             "gecko": {
-              "strict_min_version": "91.0"
+              "strict_min_version": "102.0"
             }
           },
           "version": "1.0.0.2",
