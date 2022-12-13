@@ -76,6 +76,7 @@ Here's a list of public Fediverse services.
 | `0twitter.com` | No |
 | `0u0.fun` | No |
 | `0upti.me` | Yes |
+| `0v0.ch` | Yes |
 | `0w0.is` | No |
 | `0w3n.ga` | No |
 | `0wo.ooo` | No |
@@ -5151,7 +5152,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | Yes |
+| `com.de` | No |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -6680,7 +6681,7 @@ Here's a list of public Fediverse services.
 | `dev-null.rocks` | Yes |
 | `dev-wiki.de` | Yes |
 | `dev.estate` | No |
-| `dev.gy` | No |
+| `dev.gy` | Yes |
 | `dev.host` | No |
 | `devanooga.com` | Yes |
 | `devchatter.com` | Yes |
@@ -32387,7 +32388,7 @@ Here's a list of public Fediverse services.
 | `z8s.de` | Yes |
 | `zaatar.org` | No |
 | `zabaglione.net` | No |
-| `zac.dev` | No |
+| `zac.dev` | Yes |
 | `zachartajuddin.com` | No |
 | `zachary.com` | No |
 | `zachcampau.com` | No |
@@ -32718,8 +32719,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,372 |
-| Normal | 25,303 |
+| Cloudflare | 7,374 |
+| Normal | 25,302 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
