@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 4,748 |
 | social | 2,824 |
 | net | 2,491 |
-| org | 1,791 |
+| org | 1,792 |
 | de | 1,639 |
 
 
@@ -6430,6 +6430,7 @@ Here's a list of public Fediverse services.
 | `debian.net` | No |
 | `debian.social` | No |
 | `debiantippse.de` | No |
+| `debilosempire.org` | Yes |
 | `debiru.xyz` | Yes |
 | `deblan.org` | No |
 | `debo.io` | No |
@@ -15995,7 +15996,7 @@ Here's a list of public Fediverse services.
 | `llun.dev` | No |
 | `lluni.de` | No |
 | `lmaa.pm` | No |
-| `lmao.gg` | Yes |
+| `lmao.gg` | No |
 | `lmao.tf` | Yes |
 | `lmbo.party` | No |
 | `lmcly.fyi` | Yes |
@@ -32788,7 +32789,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,395 |
-| Normal | 25,349 |
+| Normal | 25,350 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
