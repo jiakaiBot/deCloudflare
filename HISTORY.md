@@ -5,6 +5,7 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-13: [Cache Reserve read errors](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/4r9chbf4wk2v)
 - 2022-12-20: [AMS (Amsterdam) on 2022-12-20](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/mc5xqbvybvl1)
 - 2022-12-12: [Name resolution for Load Balancing failures](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/19lwx8djrvyd)
 - 2022-12-16: [ARN (Stockholm) on 2022-12-16](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/fxr9sjcxpfxd)
