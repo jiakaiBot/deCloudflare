@@ -32655,6 +32655,7 @@ Here's a list of public Fediverse services.
 | `zlatko.dev` | No |
 | `zld.red` | No |
 | `zlg.space` | No |
+| `zlhub.xyz` | No |
 | `zlop.de` | No |
 | `zmach1n3.com` | No |
 | `zmb.cm` | No |
@@ -32794,7 +32795,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,395 |
-| Normal | 25,355 |
+| Normal | 25,356 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
