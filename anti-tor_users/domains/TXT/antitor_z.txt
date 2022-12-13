@@ -241,8 +241,10 @@ acceptatie.zeelandveilig.nl
 alaan-test.zulayka.com
 all-service.zapages.co.il
 amazon-rdfcv.zzux.com
+api.zoolife.live
 aws-staging.zeroq.cl
 aws-traefik.zeroq.cl
+cardiff.zipporah.co.uk
 click.mail.zillow.com
 collaborateuat.zyter.net
 comoganardinero.z4k.org
@@ -271,6 +273,7 @@ www.securedserver.zyns.com
 www.secureserver0010.zyns.com
 www.services.zaynark.com.ng
 www.webclient.zaidexceldesign.com
+www.zacharyjudson.site
 www.zahnarzt-muenchen-neuperlach.de
 www.zahnarztpraxis-neukoelln.de
 www.zahnarztpraxis-talesnik.net
@@ -282,6 +285,7 @@ www.zierzolab.com
 www.zillowstatic.com
 www.zimlab.com
 www.zinapflegedienst.de
+www.zomato.com
 www.zonguldakbarosu.org.tr
 www.zoogdiervereniging.nl
 www.ztzhelpdesk.info
