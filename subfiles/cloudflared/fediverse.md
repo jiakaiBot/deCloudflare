@@ -26,8 +26,8 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,748 |
-| social | 2,824 |
+| com | 4,749 |
+| social | 2,825 |
 | net | 2,491 |
 | org | 1,792 |
 | de | 1,639 |
@@ -1872,6 +1872,7 @@ Here's a list of public Fediverse services.
 | `art3mis.de` | No |
 | `artalley.porn` | No |
 | `artalley.social` | Yes |
+| `artao.ca` | No |
 | `artchair.net` | No |
 | `arteeh.com` | No |
 | `artemai.art` | No |
@@ -15793,6 +15794,7 @@ Here's a list of public Fediverse services.
 | `limilo.com` | Yes |
 | `liminal.club` | No |
 | `liminal.lgbt` | No |
+| `liminalearth.social` | No |
 | `liminalismo.com` | No |
 | `limited.systems` | No |
 | `lin.cat` | Yes |
@@ -15838,6 +15840,7 @@ Here's a list of public Fediverse services.
 | `lintmx.com` | Yes |
 | `linu.xxx` | No |
 | `linuch.pl` | Yes |
+| `linux-guy.info` | No |
 | `linux-revolution.de` | No |
 | `linux.it` | No |
 | `linux.monster` | No |
@@ -18672,6 +18675,7 @@ Here's a list of public Fediverse services.
 | `moonglade.net` | No |
 | `moonhaus.eu` | No |
 | `moonlight-party.net` | No |
+| `moonlitfiction.com` | Yes |
 | `moonmoth.de` | No |
 | `moonstars.org` | No |
 | `moontreeproject.org` | No |
@@ -29482,6 +29486,7 @@ Here's a list of public Fediverse services.
 | `trn.ac` | No |
 | `troback.com` | No |
 | `troet.cafe` | No |
+| `troet.church` | No |
 | `troet.club` | No |
 | `troet.es` | No |
 | `troet.eu` | No |
@@ -32788,8 +32793,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,395 |
-| Normal | 25,350 |
+| Cloudflare | 7,396 |
+| Normal | 25,354 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
