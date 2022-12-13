@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,749 |
 | social | 2,825 |
-| net | 2,491 |
+| net | 2,489 |
 | org | 1,792 |
 | de | 1,640 |
 
@@ -5302,7 +5302,6 @@ Here's a list of public Fediverse services.
 | `constantinluegering.de` | No |
 | `constellati.one` | No |
 | `constellation-mu.se` | Yes |
-| `constellationonline.net` | No |
 | `constructed.space` | No |
 | `constructinganarchisms.org` | No |
 | `consudon.club` | No |
@@ -10600,6 +10599,7 @@ Here's a list of public Fediverse services.
 | `ghostsinultraviolet.com` | Yes |
 | `ghosty.ch` | No |
 | `ghoti.com.au` | Yes |
+| `ghoti.me` | No |
 | `ghoul.one` | No |
 | `ghuntley.com` | Yes |
 | `ghz00.net` | Yes |
@@ -25532,7 +25532,6 @@ Here's a list of public Fediverse services.
 | `sen.town` | Yes |
 | `senan.xyz` | Yes |
 | `senate.social` | No |
-| `senbil.net` | Yes |
 | `sendero.social` | No |
 | `sengeis.priv.at` | No |
 | `senigallia.one` | Yes |
@@ -29955,7 +29954,6 @@ Here's a list of public Fediverse services.
 | `uiae.at` | No |
 | `uibk.ac.at` | No |
 | `uilleann.pizza` | Yes |
-| `uint.one` | No |
 | `uiuxdev.social` | Yes |
 | `uji.es` | No |
 | `uk.to` | Yes |
@@ -32795,8 +32793,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,396 |
-| Normal | 25,356 |
+| Cloudflare | 7,395 |
+| Normal | 25,355 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
