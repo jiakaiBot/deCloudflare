@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 2,825 |
 | net | 2,491 |
 | org | 1,792 |
-| de | 1,639 |
+| de | 1,640 |
 
 
 - Mastodon, Pleroma, etc
@@ -30293,6 +30293,7 @@ Here's a list of public Fediverse services.
 | `ussr.win` | No |
 | `ussygussies.wtf` | Yes |
 | `ustim.ru` | No |
+| `usual.biz` | No |
 | `usuwotech.page` | Yes |
 | `usuyuki.net` | Yes |
 | `usvs.xyz` | No |
@@ -30905,6 +30906,7 @@ Here's a list of public Fediverse services.
 | `w3r.jp` | No |
 | `w3rkhof.zone` | No |
 | `w41.org` | No |
+| `w4230.de` | No |
 | `w5wut.com` | Yes |
 | `w7f.eu` | Yes |
 | `w96k.dev` | No |
@@ -32794,7 +32796,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,396 |
-| Normal | 25,354 |
+| Normal | 25,356 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
