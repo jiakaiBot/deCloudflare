@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,743 |
+| com | 4,744 |
 | social | 2,817 |
 | net | 2,490 |
 | org | 1,788 |
@@ -3252,7 +3252,7 @@ Here's a list of public Fediverse services.
 | `blasters.fr` | No |
 | `blat.at` | No |
 | `blather.us` | No |
-| `blatherskite.eu` | No |
+| `blatherskite.eu` | Yes |
 | `blauerhunger.de` | No |
 | `blaw.social` | No |
 | `blazelight.dev` | Yes |
@@ -9061,6 +9061,7 @@ Here's a list of public Fediverse services.
 | `ferrovipath.es` | No |
 | `ferrus.net` | No |
 | `fersha.me` | No |
+| `feshiba.me` | No |
 | `feste-ip.net` | No |
 | `festivalparminous.org` | No |
 | `festus-asbestos.ca` | No |
@@ -10530,7 +10531,7 @@ Here's a list of public Fediverse services.
 | `get-racing.de` | No |
 | `getadrink.tk` | No |
 | `getaway.tk` | No |
-| `getcyca.com` | No |
+| `getcyca.com` | Yes |
 | `getgle.org` | Yes |
 | `getigne-collectif.fr` | No |
 | `getimiskon.xyz` | No |
@@ -16465,6 +16466,7 @@ Here's a list of public Fediverse services.
 | `m4570.xyz` | No |
 | `m4rc3l.de` | Yes |
 | `m4sk.in` | Yes |
+| `m5.nz` | Yes |
 | `m510.net` | No |
 | `m544.net` | Yes |
 | `m64.in` | Yes |
@@ -29517,6 +29519,7 @@ Here's a list of public Fediverse services.
 | `trwnh.com` | Yes |
 | `trxrg.com` | Yes |
 | `try-to-hack.me` | No |
+| `trycloudflare.com` | Yes |
 | `tryfriendica.de` | Yes |
 | `tryingpoetry.com` | No |
 | `tryliberty.org` | No |
@@ -32749,8 +32752,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,381 |
-| Normal | 25,325 |
+| Cloudflare | 7,385 |
+| Normal | 25,324 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
