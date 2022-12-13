@@ -275,6 +275,7 @@ Do not create new issue or we will close it as duplicate.
 | [acu05047849@twitter](https://twitter.com/acu05047849/status/1471678185070755840) | advertise |
 | [AD38414298@twitter](https://twitter.com/AD38414298/status/1392533228871770114) | advertise |
 | [AdaArkane@twitter](https://twitter.com/AdaArkane/status/1522499805397716992) | advertise |
+| [Adam11431@twitter](https://twitter.com/Adam11431/status/1602732099273990144) | advertise |
 | [Adam39171140@twitter](https://twitter.com/Adam39171140/status/1515414463008104464) | advertise |
 | [AdamHakeemi18@twitter](https://twitter.com/AdamHakeemi18/status/1396117339007979526) | advertise |
 | [AdamKha89958233@twitter](https://twitter.com/AdamKha89958233/status/1541880757144240128) | advertise |
@@ -7771,6 +7772,7 @@ Do not create new issue or we will close it as duplicate.
 | [peteroudenes@twitter](https://twitter.com/peteroudenes/status/1589933292585127938) | advertise |
 | [pettiestEddie@twitter](https://twitter.com/pettiestEddie/status/1558420639651926017) | advertise |
 | [peyman1992n@twitter](https://twitter.com/peyman1992n/status/1547965189613531137) | advertise |
+| [peyman51349787@twitter](https://twitter.com/peyman51349787/status/1602754872998334465) | advertise |
 | [peymanbarandaz@twitter](https://twitter.com/peymanbarandaz/status/1574260215188541440) | advertise |
 | [PeymanKharazi@twitter](https://twitter.com/PeymanKharazi/status/1577437231148683264) | advertise |
 | [PeyParrot@twitter](https://twitter.com/PeyParrot/status/1469338531667628035) | advertise |
