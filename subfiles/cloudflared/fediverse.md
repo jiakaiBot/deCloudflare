@@ -8894,6 +8894,7 @@ Here's a list of public Fediverse services.
 | `fedihub.com` | No |
 | `fedihum.org` | No |
 | `fedilab.app` | No |
+| `fediland.in.ua` | No |
 | `fediland.nl` | No |
 | `fedilove.cyou` | Yes |
 | `fedimaker.space` | No |
@@ -10114,7 +10115,7 @@ Here's a list of public Fediverse services.
 | `fx4.net` | No |
 | `fxmech.com` | Yes |
 | `fxxking.life` | Yes |
-| `fy.to` | No |
+| `fy.to` | Yes |
 | `fyber.space` | No |
 | `fybuk.com` | No |
 | `fycth.com` | Yes |
@@ -32786,7 +32787,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,394 |
+| Cloudflare | 7,395 |
 | Normal | 25,349 |
 
 
