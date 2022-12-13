@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Behavior change in Cloudflare turnstile deprecating reset function?](https://github.com/danielroe/nuxt-turnstile/issues/95)
 - [Cloudflare "Network Error"](https://github.com/lencx/ChatGPT/issues/25)
 - [Server crashing with 3-4 People BMC3](https://github.com/LunaPixelStudios/Better-MC/issues/910)
 - [status Fastly 401](https://github.com/Vexed01/Vex-Cogs/issues/105)
