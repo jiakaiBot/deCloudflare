@@ -5,6 +5,8 @@ Here's some of Cloudflare incidents.
 [//]: # (do not edit me; start)
 
 
+- 2022-12-14: [SEA (Seattle) on 2022-12-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/y55xbj0dt27h)
+- 2022-12-13: [Increased HTTP 500 Errors in DFW](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/ngqgrmbhx21c)
 - 2022-12-14: [ICN (Seoul) on 2022-12-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/qzk4xn37dtds)
 - 2022-12-15: [VIE (Vienna) on 2022-12-15](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/lzmmg6wn2xcz)
 - 2022-12-14: [VIE (Vienna) on 2022-12-14](https://web.archive.org/web/https://www.cloudflarestatus.com/incidents/2y06nzhxzr3r)
