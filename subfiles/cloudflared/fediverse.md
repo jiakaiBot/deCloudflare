@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,740 |
+| com | 4,741 |
 | social | 2,808 |
 | net | 2,489 |
 | org | 1,788 |
@@ -443,7 +443,7 @@ Here's a list of public Fediverse services.
 | `6502.town` | No |
 | `650thz.de` | No |
 | `6510.nu` | No |
-| `662607.xyz` | No |
+| `662607.xyz` | Yes |
 | `666.xxx` | No |
 | `67elleboge.club` | No |
 | `67nb.com` | Yes |
@@ -1657,7 +1657,7 @@ Here's a list of public Fediverse services.
 | `apfed.club` | Yes |
 | `apfelfunk.com` | No |
 | `aphasiagoverned.com` | No |
-| `api-ariang.ml` | No |
+| `api-ariang.ml` | Yes |
 | `apievangelist.com` | Yes |
 | `apintandaparma.club` | Yes |
 | `apiote.tk` | No |
@@ -18067,6 +18067,7 @@ Here's a list of public Fediverse services.
 | `mihalis.net` | No |
 | `mii.codes` | Yes |
 | `miicat.eu` | Yes |
+| `miipub.com` | Yes |
 | `miisu.net` | No |
 | `mijninternet.info` | No |
 | `mik.cloud` | No |
@@ -32723,8 +32724,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,373 |
-| Normal | 25,307 |
+| Cloudflare | 7,376 |
+| Normal | 25,305 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
