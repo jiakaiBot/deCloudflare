@@ -275,6 +275,7 @@ admin.fast-track-v2-integration.yabawt-clients.com
 admin.fast-track-v2.yabawt-clients.com
 b90.yahoo.co.jp
 baseball.yahoo.co.jp
+click.sf.yumobile.co.jp
 cpanel.yacovid.com
 cpcalendars.yacovid.com
 cpcalendars.yprseguros.com
@@ -304,11 +305,15 @@ v-cvktbosoyn.wc.yahoodns.net
 webdisk.yacovid.com
 webmail.yacovid.com
 www.bank.iefinance.go.yj.fr
+www.bill.yosasoftware.com
 www.billing.yourhostings.net
 www.occup-confirm-ation-lite-fr.go.yj.fr
+www.redirexaccount09732184.clav3097521.go.yj.fr
 www.updateimmo.go.yo.fr
+www.uspost.yunrl.cn
 www.yallaclaim.com
 www.yarok-restaurant.de
+www.yarpaket.ru
 www.yasss.es
 www.yeepbank.com
 www.yelp.de
@@ -322,6 +327,7 @@ www.yunweinnlogin.com
 y-bb.ru
 yahool.tech
 yaidans.com
+yarpaket.ru
 ydinlehti.fi
 yello.com.ua
 yemenembassy.de
