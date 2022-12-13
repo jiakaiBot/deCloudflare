@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare "Network Error"](https://github.com/lencx/ChatGPT/issues/25)
 - [Server crashing with 3-4 People BMC3](https://github.com/LunaPixelStudios/Better-MC/issues/910)
 - [status Fastly 401](https://github.com/Vexed01/Vex-Cogs/issues/105)
 - [error on authentication](https://github.com/RichardDorian/node-character.ai/issues/2)
