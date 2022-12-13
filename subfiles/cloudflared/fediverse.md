@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,749 |
+| com | 4,750 |
 | social | 2,825 |
 | net | 2,489 |
 | org | 1,792 |
@@ -7900,6 +7900,7 @@ Here's a list of public Fediverse services.
 | `electricglen.com` | No |
 | `electricpea.ch` | No |
 | `electricrequiem.com` | No |
+| `electrifyingcloud.com` | Yes |
 | `electro.social` | No |
 | `electronblueberry.xyz` | No |
 | `electroncash.de` | No |
@@ -32794,7 +32795,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,395 |
+| Cloudflare | 7,396 |
 | Normal | 25,356 |
 
 
