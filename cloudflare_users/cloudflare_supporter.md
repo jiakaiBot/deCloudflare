@@ -2083,6 +2083,7 @@ Do not create new issue or we will close it as duplicate.
 | [DaBestxone@twitter](https://twitter.com/DaBestxone/status/1395588482571980800) | advertise |
 | [dacoto97@twitter](https://twitter.com/dacoto97/status/1424373152558239746) | advertise |
 | [dad4ui@twitter](https://twitter.com/dad4ui/status/1377643341140033540) | advertise |
+| [Dada18009095@twitter](https://twitter.com/Dada18009095/status/1603016280252243968) | advertise |
 | [DaddyAntu@twitter](https://twitter.com/DaddyAntu/status/1580690430777524224) | advertise |
 | [daddyxshot@twitter](https://twitter.com/daddyxshot/status/1385804521532579844) | advertise |
 | [DaEnderz@twitter](https://twitter.com/DaEnderz/status/1523352729846185984) | advertise |
