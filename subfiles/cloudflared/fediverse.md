@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,753 |
-| social | 2,828 |
+| com | 4,754 |
+| social | 2,830 |
 | net | 2,490 |
 | org | 1,794 |
-| de | 1,641 |
+| de | 1,643 |
 
 
 - Mastodon, Pleroma, etc
@@ -228,6 +228,7 @@ Here's a list of public Fediverse services.
 | `22decembre.eu` | No |
 | `24-7.ro` | No |
 | `240.network` | Yes |
+| `247420.xyz` | No |
 | `24daysindecember.net` | No |
 | `25.wf` | No |
 | `2502.net` | No |
@@ -2784,6 +2785,7 @@ Here's a list of public Fediverse services.
 | `bell.bz` | Yes |
 | `bellefonte.today` | No |
 | `belligerence.club` | No |
+| `belliottsmith.com` | No |
 | `belllab.ca` | Yes |
 | `belltower.it` | No |
 | `belovely.xyz` | No |
@@ -5546,6 +5548,7 @@ Here's a list of public Fediverse services.
 | `creativecommons.org` | Yes |
 | `creativegamer.net` | No |
 | `creativepassport.net` | No |
+| `creatives.host` | No |
 | `creativetech.social` | No |
 | `creativewriting.social` | No |
 | `creativity.cafe` | No |
@@ -9891,6 +9894,7 @@ Here's a list of public Fediverse services.
 | `fruef.social` | No |
 | `fruits.social` | No |
 | `fruitscale.com` | No |
+| `frunc.de` | No |
 | `frustrat.es` | No |
 | `fryntiz.cloud` | Yes |
 | `fs.al` | No |
@@ -11783,6 +11787,7 @@ Here's a list of public Fediverse services.
 | `helpmedog.com` | Yes |
 | `helse.rocks` | No |
 | `helvede.net` | No |
+| `helvet.online` | No |
 | `helvetet.eu` | No |
 | `helvetica.fm` | No |
 | `hemipenes.club` | No |
@@ -13981,6 +13986,7 @@ Here's a list of public Fediverse services.
 | `justfollow.me.uk` | No |
 | `justgage.blog` | No |
 | `justicewarrior.social` | Yes |
+| `justin-und-florian.de` | Yes |
 | `justinbremer.com` | No |
 | `justinmarrington.com` | No |
 | `justjuut.de` | No |
@@ -22773,6 +22779,7 @@ Here's a list of public Fediverse services.
 | `polycule.club` | Yes |
 | `polyglot.city` | No |
 | `polyglot.network` | Yes |
+| `polygon.rocks` | No |
 | `polylux.xyz` | No |
 | `polymatic.social` | No |
 | `polymerwitch.com` | No |
@@ -22894,6 +22901,7 @@ Here's a list of public Fediverse services.
 | `postmoderns.info` | No |
 | `postpandemicparty.org` | No |
 | `postrausch.tech` | Yes |
+| `posts.stream` | Yes |
 | `postsoviet.space` | No |
 | `poststoffarm.de` | No |
 | `postworlds.com` | No |
@@ -24419,6 +24427,7 @@ Here's a list of public Fediverse services.
 | `robertdevore.com` | Yes |
 | `robertivanc.com` | Yes |
 | `robertoszek.xyz` | No |
+| `robertparker.se` | No |
 | `robertsasuke.com` | Yes |
 | `robertwgehl.org` | No |
 | `robin.software` | Yes |
@@ -25614,6 +25623,7 @@ Here's a list of public Fediverse services.
 | `server-on.net` | No |
 | `server17.net` | No |
 | `server321.de` | No |
+| `serverhosting.social` | No |
 | `serverok.pl` | No |
 | `serveromnis.com` | No |
 | `servidos.app` | Yes |
@@ -27729,6 +27739,7 @@ Here's a list of public Fediverse services.
 | `t327.net` | No |
 | `t3dus.com` | No |
 | `t3dus.me` | No |
+| `t3n.social` | No |
 | `t612.ml` | No |
 | `t6l.de` | No |
 | `t8n.dev` | Yes |
@@ -28450,6 +28461,7 @@ Here's a list of public Fediverse services.
 | `thefloweringash.com` | Yes |
 | `theflyingjustice.net` | No |
 | `thefolklore.cafe` | No |
+| `thefooty.club` | Yes |
 | `thefourthdev.work` | No |
 | `thefrakinship.xyz` | Yes |
 | `thefranks.club` | No |
@@ -32831,8 +32843,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,404 |
-| Normal | 25,384 |
+| Cloudflare | 7,407 |
+| Normal | 25,393 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
