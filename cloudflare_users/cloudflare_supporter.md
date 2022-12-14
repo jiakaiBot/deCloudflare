@@ -6491,6 +6491,7 @@ Do not create new issue or we will close it as duplicate.
 | [mohamadfrhn12@twitter](https://twitter.com/mohamadfrhn12/status/1493943709246771200) | advertise |
 | [Mohamed92298050@twitter](https://twitter.com/Mohamed92298050/status/1564490921680535553) | advertise |
 | [Mohamedelkashi9@twitter](https://twitter.com/Mohamedelkashi9/status/1388179515256541189) | advertise |
+| [Mohamedelshewi7@twitter](https://twitter.com/Mohamedelshewi7/status/1602992689439555584) | advertise |
 | [Mohamed_Mifzaal@twitter](https://twitter.com/Mohamed_Mifzaal/status/1550505846899363841) | advertise |
 | [mohametsaah@twitter](https://twitter.com/mohametsaah/status/1550691087441727488) | advertise |
 | [mohamma07139811@twitter](https://twitter.com/mohamma07139811/status/1580805713106198528) | advertise |
@@ -7044,6 +7045,7 @@ Do not create new issue or we will close it as duplicate.
 | [newday20830803@twitter](https://twitter.com/newday20830803/status/1396155259886657536) | advertise |
 | [neweralad@twitter](https://twitter.com/neweralad/status/1391690716602982409) | advertise |
 | [newmanmarvy@twitter](https://twitter.com/newmanmarvy/status/1408164963621933068) | advertise |
+| [NewmillerBill@twitter](https://twitter.com/NewmillerBill/status/1603003360487022592) | advertise |
 | [newRigger72@twitter](https://twitter.com/newRigger72/status/1397210217872494601) | advertise |
 | [NewsRoo81265004@twitter](https://twitter.com/NewsRoo81265004/status/1405600643323138048) | advertise |
 | [NewsWyer@twitter](https://twitter.com/NewsWyer/status/1599852749935366145) | advertise |
@@ -10207,6 +10209,7 @@ Do not create new issue or we will close it as duplicate.
 | [torzen6@twitter](https://twitter.com/torzen6/status/1400998635785973761) | advertise |
 | [TosinTimothy5@twitter](https://twitter.com/TosinTimothy5/status/1586519693048745984) | advertise |
 | [TotasShepot@twitter](https://twitter.com/TotasShepot/status/1501117750806466565) | advertise |
+| [Toubz_8844@twitter](https://twitter.com/Toubz_8844/status/1603000139144101889) | advertise |
 | [touchybaot73@twitter](https://twitter.com/touchybaot73/status/1388281470821625861) | advertise |
 | [TourehYounis@twitter](https://twitter.com/TourehYounis/status/1584174637751361536) | advertise |
 | [ToxicGa33583045@twitter](https://twitter.com/ToxicGa33583045/status/1394645532132487169) | advertise |
