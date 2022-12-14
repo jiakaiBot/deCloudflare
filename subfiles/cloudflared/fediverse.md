@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,758 |
-| social | 2,832 |
+| social | 2,833 |
 | net | 2,490 |
 | org | 1,795 |
 | de | 1,644 |
@@ -2157,7 +2157,7 @@ Here's a list of public Fediverse services.
 | `auro.space` | No |
 | `auroch.be` | No |
 | `auronplay.social` | No |
-| `aurooba.com` | No |
+| `aurooba.com` | Yes |
 | `aus.green` | No |
 | `aus.lgbt` | Yes |
 | `aus.party` | No |
@@ -5121,6 +5121,7 @@ Here's a list of public Fediverse services.
 | `cogneon.de` | Yes |
 | `cognitheurge.com` | No |
 | `cognize.co` | Yes |
+| `cogwheel.social` | No |
 | `cohaes.io` | No |
 | `coinchan.com` | No |
 | `coindesk.com` | Yes |
@@ -26446,7 +26447,7 @@ Here's a list of public Fediverse services.
 | `socaas.site` | No |
 | `socalgo.org` | No |
 | `socdem.net` | No |
-| `socdojo.com` | No |
+| `socdojo.com` | Yes |
 | `socel.net` | No |
 | `socia.dev` | No |
 | `sociabl.be` | No |
@@ -32858,8 +32859,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,413 |
-| Normal | 25,402 |
+| Cloudflare | 7,415 |
+| Normal | 25,401 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
