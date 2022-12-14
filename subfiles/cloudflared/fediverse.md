@@ -5250,6 +5250,7 @@ Here's a list of public Fediverse services.
 | `computerfairi.es` | Yes |
 | `computerfox.xyz` | No |
 | `computerhater.club` | No |
+| `computering.pro` | No |
 | `computerlie.be` | No |
 | `computermuseum.social` | No |
 | `computerphile.social` | No |
@@ -32829,7 +32830,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,404 |
-| Normal | 25,381 |
+| Normal | 25,382 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
