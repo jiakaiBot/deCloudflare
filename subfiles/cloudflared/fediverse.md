@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,753 |
-| social | 2,826 |
+| social | 2,828 |
 | net | 2,490 |
 | org | 1,794 |
 | de | 1,641 |
@@ -3295,6 +3295,7 @@ Here's a list of public Fediverse services.
 | `blisses.org` | No |
 | `bln41.net` | Yes |
 | `bln41.win` | Yes |
+| `bloade.social` | Yes |
 | `blob.cat` | No |
 | `blob.coffee` | No |
 | `blobfox.coffee` | No |
@@ -15503,6 +15504,7 @@ Here's a list of public Fediverse services.
 | `lemon-blacktea.xyz` | No |
 | `lemonade.moe` | Yes |
 | `lemonline.biz` | No |
+| `lemonparty.social` | No |
 | `lemontree.ml` | No |
 | `lemouvementassociatif-pdl.org` | No |
 | `lemue.org` | No |
@@ -32826,8 +32828,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,403 |
-| Normal | 25,380 |
+| Cloudflare | 7,404 |
+| Normal | 25,381 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
