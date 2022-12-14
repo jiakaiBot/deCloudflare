@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,752 |
+| com | 4,753 |
 | social | 2,826 |
 | net | 2,490 |
 | org | 1,794 |
@@ -17779,6 +17779,7 @@ Here's a list of public Fediverse services.
 | `meinzeug24.de` | No |
 | `meis.space` | No |
 | `meissa-gmbh.de` | No |
+| `meissa.cf` | No |
 | `meisskey.blue` | Yes |
 | `meisskey.one` | Yes |
 | `meissners.me` | No |
@@ -26025,6 +26026,7 @@ Here's a list of public Fediverse services.
 | `singleuser.club` | No |
 | `singpolyma.net` | Yes |
 | `singularity-node.net` | No |
+| `sinigr.space` | No |
 | `sinkie.online` | No |
 | `sinkuu.xyz` | No |
 | `sinofool.net` | Yes |
@@ -31725,6 +31727,7 @@ Here's a list of public Fediverse services.
 | `wsf2021.info` | No |
 | `wsforum.net` | No |
 | `wsmedia.org` | Yes |
+| `wsoft.ws` | Yes |
 | `wsoom.social` | No |
 | `wsring.net` | No |
 | `wssmagazine.com` | Yes |
@@ -32392,6 +32395,7 @@ Here's a list of public Fediverse services.
 | `ytopia.xyz` | No |
 | `ytringsrett.net` | No |
 | `yttrx.com` | Yes |
+| `yu10g.com` | No |
 | `yubal.blog` | No |
 | `yude.jp` | Yes |
 | `yude.moe` | Yes |
@@ -32822,8 +32826,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,402 |
-| Normal | 25,377 |
+| Cloudflare | 7,403 |
+| Normal | 25,380 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
