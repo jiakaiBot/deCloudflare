@@ -88,6 +88,7 @@ Do not create new issue or we will close it as duplicate.
 | [6lizzys@twitter](https://twitter.com/6lizzys/status/1490561482525855747) | advertise |
 | [6October8@twitter](https://twitter.com/6October8/status/1382415935454199815) | advertise |
 | [6PpXPysVDb3lCRH@twitter](https://twitter.com/6PpXPysVDb3lCRH/status/1467321870181494785) | advertise |
+| [6thewhiteraven@twitter](https://twitter.com/6thewhiteraven/status/1603045702749151233) | advertise |
 | [6thfloorgrind@twitter](https://twitter.com/6thfloorgrind/status/1538147028831805440) | advertise |
 | [7amahanti@twitter](https://twitter.com/7amahanti/status/1470204452657242114) | advertise |
 | [7aQuynh@twitter](https://twitter.com/7aQuynh/status/1532060485352583168) | advertise |
@@ -1994,8 +1995,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2531,6 +2532,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ducvu1212@twitter](https://twitter.com/Ducvu1212/status/1552367108843241472) | advertise |
 | [dudapahe@twitter](https://twitter.com/dudapahe/status/1586234780836061184) | advertise |
 | [dude_trader@twitter](https://twitter.com/dude_trader/status/1598773838862778368) | advertise |
+| [DudjdjXjnd@twitter](https://twitter.com/DudjdjXjnd/status/1603058822951874563) | advertise |
 | [due_troi@twitter](https://twitter.com/due_troi/status/1573624298224635904) | advertise |
 | [DujeGT@twitter](https://twitter.com/DujeGT/status/1533451778255093761) | advertise |
 | [DukedWinchester@twitter](https://twitter.com/DukedWinchester/status/1391277873210662913) | advertise |
@@ -7273,6 +7275,7 @@ Do not create new issue or we will close it as duplicate.
 | [Nht65648068@twitter](https://twitter.com/Nht65648068/status/1388890386790191111) | advertise |
 | [nhtkhinguyn2@twitter](https://twitter.com/nhtkhinguyn2/status/1532043280997040128) | advertise |
 | [NhtMinh63107265@twitter](https://twitter.com/NhtMinh63107265/status/1489605213203795973) | advertise |
+| [nhTngPhan6@twitter](https://twitter.com/nhTngPhan6/status/1603059119660797953) | advertise |
 | [nhtr_ung@twitter](https://twitter.com/nhtr_ung/status/1381240130418130946) | advertise |
 | [NhtTrng53285558@twitter](https://twitter.com/NhtTrng53285558/status/1400998350191620096) | advertise |
 | [nhuthaoo0308@twitter](https://twitter.com/nhuthaoo0308/status/1386713288566661123) | advertise |
