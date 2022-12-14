@@ -2361,6 +2361,7 @@ Do not create new issue or we will close it as duplicate.
 | [Dinesh_11111T@twitter](https://twitter.com/Dinesh_11111T/status/1407931848605401089) | advertise |
 | [DinfZerotwo@twitter](https://twitter.com/DinfZerotwo/status/1526581544277647361) | advertise |
 | [Dinh4056@twitter](https://twitter.com/Dinh4056/status/1596954284306071552) | advertise |
+| [dinhdu2704@twitter](https://twitter.com/dinhdu2704/status/1602923066363121664) | advertise |
 | [dinhkhanh1308@twitter](https://twitter.com/dinhkhanh1308/status/1505689824778678272) | advertise |
 | [DinhNgu08437857@twitter](https://twitter.com/DinhNgu08437857/status/1478386797738668035) | advertise |
 | [dinhtoan202@twitter](https://twitter.com/dinhtoan202/status/1526084573075222528) | advertise |
@@ -9710,6 +9711,7 @@ Do not create new issue or we will close it as duplicate.
 | [Thanh1452000@twitter](https://twitter.com/Thanh1452000/status/1594505048041877504) | advertise |
 | [Thanh13871310@twitter](https://twitter.com/Thanh13871310/status/1552938610940608512) | advertise |
 | [thanh39809562@twitter](https://twitter.com/thanh39809562/status/1468202163919003654) | advertise |
+| [Thanh64229758@twitter](https://twitter.com/Thanh64229758/status/1602862030389907456) | advertise |
 | [thanh68833332@twitter](https://twitter.com/thanh68833332/status/1402884885887393795) | advertise |
 | [Thanh95833956@twitter](https://twitter.com/Thanh95833956/status/1403223547883900934) | advertise |
 | [Thanhbk93@twitter](https://twitter.com/Thanhbk93/status/1559075450298986497) | advertise |
@@ -10067,6 +10069,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tiii60222842@twitter](https://twitter.com/Tiii60222842/status/1381243276804513796) | advertise |
 | [TikkhaVen@twitter](https://twitter.com/TikkhaVen/status/1390583202595672069) | advertise |
 | [Timeox2kDev@twitter](https://twitter.com/Timeox2kDev/status/1529840436390420480) | advertise |
+| [TimJiang0106@twitter](https://twitter.com/TimJiang0106/status/1602945168805486592) | advertise |
 | [TiMMaY57798738@twitter](https://twitter.com/TiMMaY57798738/status/1487406924849160192) | advertise |
 | [timmlyons@twitter](https://twitter.com/timmlyons/status/1466844861571559431) | advertise |
 | [timmybrains@twitter](https://twitter.com/timmybrains/status/1579635097019768833) | advertise |
