@@ -30498,6 +30498,7 @@ Here's a list of public Fediverse services.
 | `vectemis.co.uk` | Yes |
 | `vectemis.social` | Yes |
 | `vector.social` | No |
+| `vector1.dev` | No |
 | `vectorsigma.ru` | Yes |
 | `vedetta.com` | No |
 | `vedostuu.fi` | No |
@@ -32830,7 +32831,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,404 |
-| Normal | 25,382 |
+| Normal | 25,383 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
