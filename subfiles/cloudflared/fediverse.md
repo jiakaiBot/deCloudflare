@@ -17767,6 +17767,7 @@ Here's a list of public Fediverse services.
 | `meissa-gmbh.de` | No |
 | `meisskey.blue` | Yes |
 | `meisskey.one` | Yes |
+| `meissners.me` | No |
 | `meitendo.space` | No |
 | `mejiaforcontroller.com` | Yes |
 | `mel.sh` | No |
@@ -21503,6 +21504,7 @@ Here's a list of public Fediverse services.
 | `ourwebgrove.com` | No |
 | `outaouais.club` | No |
 | `outdoorism.net` | No |
+| `outdoors.lgbt` | No |
 | `outdoors.social` | No |
 | `outerheaven.club` | No |
 | `outerweb.social` | No |
@@ -26570,6 +26572,7 @@ Here's a list of public Fediverse services.
 | `something.wtf` | No |
 | `sometimes.io` | No |
 | `sometimes.social` | No |
+| `sometimesantisocial.media` | No |
 | `somewhathappy.com` | Yes |
 | `somewhy.com` | Yes |
 | `somewhy.net` | No |
@@ -32796,7 +32799,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,396 |
-| Normal | 25,356 |
+| Normal | 25,359 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
