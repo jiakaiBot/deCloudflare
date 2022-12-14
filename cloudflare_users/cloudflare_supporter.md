@@ -4991,8 +4991,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -9985,6 +9985,7 @@ Do not create new issue or we will close it as duplicate.
 | [thrv34725009@twitter](https://twitter.com/thrv34725009/status/1383448654841667588) | advertise |
 | [thuan1771@twitter](https://twitter.com/thuan1771/status/1552342099403497474) | advertise |
 | [Thuan123567@twitter](https://twitter.com/Thuan123567/status/1514877002481737731) | advertise |
+| [ThuanDinhDao@twitter](https://twitter.com/ThuanDinhDao/status/1602896308347412480) | advertise |
 | [ThuanNg52709347@twitter](https://twitter.com/ThuanNg52709347/status/1403081195034841088) | advertise |
 | [ThuanTh58337931@twitter](https://twitter.com/ThuanTh58337931/status/1599055563979386883) | advertise |
 | [Thudanupk1@twitter](https://twitter.com/Thudanupk1/status/1396143299140804609) | advertise |
