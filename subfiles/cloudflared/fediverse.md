@@ -9790,6 +9790,7 @@ Here's a list of public Fediverse services.
 | `friendica.cz` | No |
 | `friendica.lt` | No |
 | `friendica.me` | No |
+| `friendica.ml` | No |
 | `friendica.nz` | No |
 | `friendica.online` | No |
 | `friendica.org` | No |
@@ -32799,7 +32800,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,396 |
-| Normal | 25,359 |
+| Normal | 25,360 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
