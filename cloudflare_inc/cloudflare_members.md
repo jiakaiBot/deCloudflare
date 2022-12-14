@@ -247,6 +247,7 @@ Or is this merely a case of simple modesty?
 | Ayako Kobayashi | Recruiting Coordinator |  |
 | Ayush Kumar | Employee | |
 | Azin Mirzaagha | Employee |  |
+| Azmina Hashim | Employee | |
 | Bani Singh | Intern |  |
 | Baptiste Descateaux | Business Development |  |
 | Barrett Thies | Employee |  |
@@ -333,6 +334,7 @@ Or is this merely a case of simple modesty?
 | Carlos Silva | Sales Director LATAM |  |
 | Carlos Torales | Employee | |
 | Carly Bothe | Finance Project Manager |  |
+| Carly Ramsey | Employee | |
 | Carly Wood | People Team Business Partner, London |  |
 | Caroline Greer | Public Policy |  |
 | Caroline Quick | Senior Director | https://www.linkedin.com/in/seacue<br>https://twitter.com/seacue |
@@ -369,11 +371,13 @@ Or is this merely a case of simple modesty?
 | Chris J Arges | Employee | |
 | Chris Jones | Financial Planning |  |
 | Chris Kenney | Partner Sales Manager, Austin |  |
+| Chris McDonald | Employee | |
 | Chris Merritt | Chief Revenue Officer |  |
 | Chris N. Maynard | Business Development |  |
 | Chris Scharff | Solutions Engineer, Austin |  |
 | Chris Snook | Systems Engineer |  |
 | Chris Snowdon | Employee |  |
+| Christiaan Smits | Employee | |
 | Christian Antonow | Customer Success Manager |  |
 | Christian Elmerot | Employee |  |
 | Christian Elsen | Product Manager |  |
@@ -1057,6 +1061,7 @@ Or is this merely a case of simple modesty?
 | Lorene Pastore | Account Executive |  |
 | Loren Rackow-Mendizabal | Employee |  |
 | Lorenz Bauer | Employee |  |
+| Lorraine Bellon | Employee | |
 | Louis Grace | Business Development |  |
 | Louis Poinsignon | Network Engineer | https://twitter.com/lpoinsig |
 | Lucas Ferreira | Employee | |
@@ -1164,6 +1169,7 @@ Or is this merely a case of simple modesty?
 | Maxim Matskul | Employee |  |
 | Max Nystrom | Product Manager | https://twitter.com/maxnystrom<br>https://maxnystrom.com/<br>https://github.com/maxnystrom |
 | Maxwell Mitchell | Statistician |  |
+| May Ma | Employee | |
 | Megan Alderete | Customer Development |  |
 | Megan Davis | Event Marketing |  |
 | Meghan Bevill | Employee | |
@@ -1545,6 +1551,7 @@ Or is this merely a case of simple modesty?
 | Sean Brant | Employee | |
 | Sean Thompson | Account Executive |  |
 | Sebastian Benz | Employee |  |
+| Sebastian Hufnagel | Employee | |
 | Sebastian McKenzie | JavaScript Engineer |  |
 | Selam Negatu | Employee | |
 | Selina Cho | Employee |  |
