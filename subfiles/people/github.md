@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [The current domain name's resolved IP does not match the public IP used of the server](https://github.com/NidukaAkalanka/x-ui-english/issues/62)
 - [Behavior change in Cloudflare turnstile deprecating reset function?](https://github.com/danielroe/nuxt-turnstile/issues/95)
 - [Cloudflare "Network Error"](https://github.com/lencx/ChatGPT/issues/25)
 - [Server crashing with 3-4 People BMC3](https://github.com/LunaPixelStudios/Better-MC/issues/910)
