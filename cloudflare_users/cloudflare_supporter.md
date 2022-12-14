@@ -5556,6 +5556,7 @@ Do not create new issue or we will close it as duplicate.
 | [Lillii412@twitter](https://twitter.com/Lillii412/status/1395707127176458243) | advertise |
 | [lilMonst4@twitter](https://twitter.com/lilMonst4/status/1577680492257755139) | advertise |
 | [LiLy19600218@twitter](https://twitter.com/LiLy19600218/status/1394904381653356544) | advertise |
+| [Limbo121@twitter](https://twitter.com/Limbo121/status/1603036932396589056) | advertise |
 | [LimHtar@twitter](https://twitter.com/LimHtar/status/1379706457453555712) | advertise |
 | [Lin123He@twitter](https://twitter.com/Lin123He/status/1394868986932654080) | advertise |
 | [Lin12335892663@twitter](https://twitter.com/Lin12335892663/status/1392413770782183427) | advertise |
@@ -8137,6 +8138,7 @@ Do not create new issue or we will close it as duplicate.
 | [pubg185kacc@twitter](https://twitter.com/pubg185kacc/status/1530095687236390912) | advertise |
 | [PubgKin74586627@twitter](https://twitter.com/PubgKin74586627/status/1520304008841379841) | advertise |
 | [PubgKing5858@twitter](https://twitter.com/PubgKing5858/status/1387704039211769857) | advertise |
+| [PUBGLIT16160828@twitter](https://twitter.com/PUBGLIT16160828/status/1603031546172153858) | advertise |
 | [Pubglovar16@twitter](https://twitter.com/Pubglovar16/status/1385165974412816384) | advertise |
 | [PubgmAfghanist1@twitter](https://twitter.com/PubgmAfghanist1/status/1535951408872230913) | advertise |
 | [PubgMdlinpubg1@twitter](https://twitter.com/PubgMdlinpubg1/status/1577250430593253377) | advertise |
