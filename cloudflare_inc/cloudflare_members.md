@@ -220,6 +220,7 @@ Or is this merely a case of simple modesty?
 | Armando Faz-Hernandez | Cryptography Engineer |  |
 | Armando Faz | Cryptography Engineer | https://twitter.com/armfazh<br>armfazh@cloudflare.com |
 | Arman Rye | Solutions Engineer |  |
+| Aron Nakazato | Employee | |
 | Arthur Fabre | Systems Engineer |  |
 | Arun Rahul Singh | Product Marketing, Security |  |
 | Arun Rex | Employee |  |
