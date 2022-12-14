@@ -254,7 +254,9 @@ gog-ws.zt-archiv.at
 impots.gouv.fr.zweirad-center-bullerjahn.de
 juegocoronadearagon.zierzolab.com
 jvc.ziondelivery.app.br
+keycloak.zzieut.com
 koala.zetadns.net
+p.zpa-auth.net
 register.zscalertwo.net
 staging2.zeroq.cl
 tipengine.zoho.com
@@ -279,6 +281,7 @@ www.zahnarztpraxis-neukoelln.de
 www.zahnarztpraxis-talesnik.net
 www.zazzle.ca
 www.zazzle.de
+www.zelitesolutions.com
 www.zengin-net-bcp1.jp
 www.zenith-watches.com
 www.zierzolab.com
