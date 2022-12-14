@@ -26833,6 +26833,7 @@ Here's a list of public Fediverse services.
 | `spooky.computer` | No |
 | `spooky.pizza` | Yes |
 | `spoon-tamago.com` | Yes |
+| `spoongoons.cc` | Yes |
 | `spoonie.community` | No |
 | `sporadically.social` | No |
 | `spore.social` | No |
@@ -32799,7 +32800,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,396 |
+| Cloudflare | 7,397 |
 | Normal | 25,360 |
 
 
