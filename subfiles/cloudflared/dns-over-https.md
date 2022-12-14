@@ -18,7 +18,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | 7vpn.com | Yes |
 | 8888.google | No |
 | aa.net.uk | No |
-| aa4.co.uk | No |
 | aaflalo.me | Yes |
 | absolight.net | No |
 | adguard-dns.com | Yes |
@@ -55,7 +54,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | circl.lu | No |
 | clanless.ovh | Yes |
 | cloudflare-dns.com | Yes |
-| cloudmini.net | Yes |
 | cloudveil.org | No |
 | cnblw.me | Yes |
 | cola16.app | Yes |
@@ -96,7 +94,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | dyndns.org | No |
 | e-utp.net | No |
 | easyhandshake.com | No |
-| eddi.net | Yes |
 | edgy-dns.com | No |
 | elemental.software | Yes |
 | emiliyan.com | Yes |
@@ -169,7 +166,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | limotelu.org | Yes |
 | lsho.top | Yes |
 | masters-of-cloud.de | No |
-| maybe.icu | No |
 | meeo.win | Yes |
 | meganerd.nl | No |
 | melalandia.tk | No |
@@ -197,7 +193,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | novg.net | No |
 | npe.bz | No |
 | nullgate.net | No |
-| onlyfriends.info | No |
 | ooroot.com | No |
 | opendns.com | Yes |
 | opennameserver.org | No |
@@ -283,16 +278,14 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | zachitect.com | No |
 | zernico.de | Yes |
 | zfsystem.tech | No |
-| zougloub.eu | No |
-| zzuhacker.cn | Yes |
 
 
 ----
 
 | Type | Count |
 | --- | --- | 
-| Cloudflare | 103 |
-| Normal | 169 |
+| Cloudflare | 100 |
+| Normal | 165 |
 
 
-### 37.9% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 37.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
