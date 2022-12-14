@@ -11132,6 +11132,7 @@ Here's a list of public Fediverse services.
 | `greyserv.net` | No |
 | `greyt.co.za` | Yes |
 | `grezl.eu` | No |
+| `grid.tf` | No |
 | `gridcave.social` | Yes |
 | `gridfinity.com` | No |
 | `griesser.me` | No |
@@ -32831,7 +32832,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,404 |
-| Normal | 25,383 |
+| Normal | 25,384 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
