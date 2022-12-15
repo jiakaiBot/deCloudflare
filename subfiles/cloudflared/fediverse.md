@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 2,843 |
 | net | 2,491 |
 | org | 1,796 |
-| de | 1,649 |
+| de | 1,650 |
 
 
 - Mastodon, Pleroma, etc
@@ -9597,7 +9597,7 @@ Here's a list of public Fediverse services.
 | `foxnewsofficial.com` | No |
 | `foxocube.xyz` | Yes |
 | `foxpaw.in` | No |
-| `foxsibean.cyou` | No |
+| `foxsibean.cyou` | Yes |
 | `foxstreet.be` | No |
 | `foxtail.ooo` | No |
 | `foxthesystem.space` | No |
@@ -11134,7 +11134,7 @@ Here's a list of public Fediverse services.
 | `greenish.red` | Yes |
 | `greenjobs.social` | No |
 | `greenlife.li` | No |
-| `greenlifeplus.net` | No |
+| `greenlifeplus.net` | Yes |
 | `greenmoo.net` | No |
 | `greenmycity.eu` | No |
 | `greennet.social` | No |
@@ -12552,7 +12552,7 @@ Here's a list of public Fediverse services.
 | `iamtakagi.net` | Yes |
 | `iamtalon.me` | No |
 | `iamterminally.online` | No |
-| `iamveryti.red` | No |
+| `iamveryti.red` | Yes |
 | `ian.sh` | No |
 | `ianbetteridge.com` | No |
 | `ianbgibson.com` | No |
@@ -25917,7 +25917,7 @@ Here's a list of public Fediverse services.
 | `shoot.brussels` | No |
 | `shoot1ng-star.site` | No |
 | `shootingonsight.eu` | No |
-| `shootjackdorseyinto.space` | No |
+| `shootjackdorseyinto.space` | Yes |
 | `shorage.de` | No |
 | `shoreupthe.vote` | No |
 | `shork.space` | No |
@@ -27447,7 +27447,7 @@ Here's a list of public Fediverse services.
 | `subversive.zone` | No |
 | `subvert.pw` | Yes |
 | `subvisual.co` | Yes |
-| `subzone.net` | Yes |
+| `subzone.net` | No |
 | `subzone.space` | Yes |
 | `succ.dev` | No |
 | `succdi.cc` | Yes |
@@ -30159,6 +30159,7 @@ Here's a list of public Fediverse services.
 | `underconsideration.com` | Yes |
 | `undercoverheathen.com` | No |
 | `undercurrents.io` | No |
+| `underdogs-festival.de` | No |
 | `undergamer.quest` | No |
 | `underground-side-kochira-kotonoha.xyz` | No |
 | `undergrowth-feed.net` | No |
@@ -32012,7 +32013,7 @@ Here's a list of public Fediverse services.
 | `xmh.one` | No |
 | `xmit.xyz` | No |
 | `xmob.me` | No |
-| `xmpp.moe` | No |
+| `xmpp.moe` | Yes |
 | `xmpp.net` | No |
 | `xmr.cx` | No |
 | `xmr.se` | No |
@@ -32918,8 +32919,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,437 |
-| Normal | 25,438 |
+| Cloudflare | 7,441 |
+| Normal | 25,435 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
