@@ -694,6 +694,7 @@ Or is this merely a case of simple modesty?
 | Hugo Venegas | Employee |  |
 | Humberto Moreira | Solutions Engineer |  |
 | Hunter Blanks | Employee |  |
+| Hunts Chen | Employee | |
 | Hyojeong Sue Lim | Customer Development |  |
 | Ian Applegate | Systems Engineer |  |
 | Ian McQuoid | Employee | |
