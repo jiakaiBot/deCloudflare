@@ -11224,7 +11224,7 @@ Here's a list of public Fediverse services.
 | `group.lt` | Yes |
 | `groupement-interet-citoyen.org` | No |
 | `grouphub.de` | Yes |
-| `groupsebelah.com` | No |
+| `groupsebelah.com` | Yes |
 | `growcollective.art` | No |
 | `growers.social` | Yes |
 | `growthers.dev` | Yes |
@@ -25951,6 +25951,7 @@ Here's a list of public Fediverse services.
 | `shrn.co` | Yes |
 | `shroom.party` | No |
 | `shrouded.space` | Yes |
+| `shrug.pro` | No |
 | `shtv.live` | No |
 | `shufudon.com` | No |
 | `shugetsu.space` | Yes |
@@ -32919,7 +32920,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,441 |
+| Cloudflare | 7,442 |
 | Normal | 25,435 |
 
 
