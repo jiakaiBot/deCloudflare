@@ -8850,7 +8850,7 @@ Here's a list of public Fediverse services.
 | `federated.media` | No |
 | `federated.nz` | No |
 | `federated.photos` | No |
-| `federated.press` | No |
+| `federated.press` | Yes |
 | `federated.zone` | No |
 | `federatedfandom.net` | No |
 | `federatedme.com` | No |
@@ -14582,7 +14582,7 @@ Here's a list of public Fediverse services.
 | `kink.town` | Yes |
 | `kinks.wtf` | Yes |
 | `kinktroet.social` | No |
-| `kinkuroshideout.com` | No |
+| `kinkuroshideout.com` | Yes |
 | `kinky.business` | Yes |
 | `kinkyelephant.com` | No |
 | `kinl.gq` | No |
@@ -22940,6 +22940,7 @@ Here's a list of public Fediverse services.
 | `possumgraveyard.com` | No |
 | `possumlodge.me` | No |
 | `possums.xyz` | Yes |
+| `post.rodeo` | No |
 | `postb.org` | No |
 | `postblue.info` | No |
 | `postblue.social` | No |
@@ -32913,8 +32914,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,430 |
-| Normal | 25,440 |
+| Cloudflare | 7,432 |
+| Normal | 25,439 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
