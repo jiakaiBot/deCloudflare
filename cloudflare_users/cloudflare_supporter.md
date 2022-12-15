@@ -889,6 +889,7 @@ Do not create new issue or we will close it as duplicate.
 | [Ashley30511045@twitter](https://twitter.com/Ashley30511045/status/1597618848001581056) | advertise |
 | [AshokMA9@twitter](https://twitter.com/AshokMA9/status/1483742175225602051) | advertise |
 | [Ashqqqqq12@twitter](https://twitter.com/Ashqqqqq12/status/1578339268510257152) | advertise |
+| [Ashraf24818344@twitter](https://twitter.com/Ashraf24818344/status/1603472952946745344) | advertise |
 | [ashutoshsinghac@twitter](https://twitter.com/ashutoshsinghac/status/1397847733793218560) | advertise |
 | [asia_hippo@twitter](https://twitter.com/asia_hippo/status/1407900933732716545) | advertise |
 | [AsifKha44639814@twitter](https://twitter.com/AsifKha44639814/status/1402506001039851522) | advertise |
@@ -5747,6 +5748,7 @@ Do not create new issue or we will close it as duplicate.
 | [LTnEJJJpwCebucj@twitter](https://twitter.com/LTnEJJJpwCebucj/status/1472960409988521986) | advertise |
 | [LTrungT21684251@twitter](https://twitter.com/LTrungT21684251/status/1382949410984714244) | advertise |
 | [LTrwc@twitter](https://twitter.com/LTrwc/status/1396900089595981826) | advertise |
+| [LTunAnh04418449@twitter](https://twitter.com/LTunAnh04418449/status/1603474166321414145) | advertise |
 | [ltunanh08941347@twitter](https://twitter.com/ltunanh08941347/status/1557232940559499265) | advertise |
 | [Lu13Tn@twitter](https://twitter.com/Lu13Tn/status/1377597764624805888) | advertise |
 | [lu25rs@twitter](https://twitter.com/lu25rs/status/1377601911893811209) | advertise |
