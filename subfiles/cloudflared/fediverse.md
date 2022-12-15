@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,769 |
+| com | 4,770 |
 | social | 2,838 |
 | net | 2,491 |
 | org | 1,795 |
@@ -12325,6 +12325,7 @@ Here's a list of public Fediverse services.
 | `hrbrmstr.de` | No |
 | `href.space` | No |
 | `href.ws` | No |
+| `hrmtc.com` | Yes |
 | `hrmtc.io` | Yes |
 | `hrsm.jp` | No |
 | `hrst.social` | No |
@@ -32894,7 +32895,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,425 |
+| Cloudflare | 7,426 |
 | Normal | 25,426 |
 
 
