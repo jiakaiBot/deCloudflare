@@ -30,7 +30,7 @@ Here's a list of public Fediverse services.
 | social | 2,838 |
 | net | 2,491 |
 | org | 1,795 |
-| de | 1,647 |
+| de | 1,648 |
 
 
 - Mastodon, Pleroma, etc
@@ -16983,6 +16983,7 @@ Here's a list of public Fediverse services.
 | `marxism.cc` | Yes |
 | `marxism.party` | No |
 | `marxists.world` | No |
+| `marxlaml.de` | No |
 | `marze.social` | No |
 | `marzillier.net` | No |
 | `marzodon.social` | No |
@@ -21402,7 +21403,7 @@ Here's a list of public Fediverse services.
 | `orkinsel.de` | No |
 | `orko.it` | No |
 | `orkz.net` | No |
-| `ornella.xyz` | No |
+| `ornella.xyz` | Yes |
 | `orng.social` | Yes |
 | `ornwood.garden` | No |
 | `orobouros.net` | No |
@@ -32893,7 +32894,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,424 |
+| Cloudflare | 7,425 |
 | Normal | 25,426 |
 
 
