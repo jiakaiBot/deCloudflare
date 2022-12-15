@@ -20262,6 +20262,7 @@ Here's a list of public Fediverse services.
 | `nixeneko.info` | No |
 | `nixer.dev` | No |
 | `nixgeek.com` | Yes |
+| `nixgoat.me` | No |
 | `nixi.icu` | No |
 | `nixie.name` | No |
 | `nixnerd.cc` | No |
@@ -32897,7 +32898,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,426 |
-| Normal | 25,427 |
+| Normal | 25,428 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
