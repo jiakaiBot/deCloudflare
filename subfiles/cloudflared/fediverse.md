@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,772 |
-| social | 2,842 |
+| social | 2,843 |
 | net | 2,491 |
 | org | 1,796 |
 | de | 1,649 |
@@ -48,6 +48,7 @@ Here's a list of public Fediverse services.
 | `030.me` | Yes |
 | `0314159.xyz` | No |
 | `04.si` | Yes |
+| `076.moe` | No |
 | `076.ne.jp` | No |
 | `09f0138edbb42a379ab78da30f14818f.xyz` | No |
 | `0ab.uk` | Yes |
@@ -808,6 +809,7 @@ Here's a list of public Fediverse services.
 | `adrien.run` | No |
 | `adrienlacombe.me` | No |
 | `adrift.io` | Yes |
+| `adrift.social` | No |
 | `adriftonthenet.com` | No |
 | `adsaminu.com` | No |
 | `adstodon.com` | No |
@@ -1790,6 +1792,7 @@ Here's a list of public Fediverse services.
 | `argos-security.io` | Yes |
 | `args.in` | Yes |
 | `arguos.com` | Yes |
+| `argxentaka.to` | Yes |
 | `ari-zone.com` | Yes |
 | `aria.company` | No |
 | `aria.dog` | No |
@@ -6027,7 +6030,7 @@ Here's a list of public Fediverse services.
 | `cyzed.com` | No |
 | `czarnylas.net` | No |
 | `czech.social` | No |
-| `czleteron.net` | No |
+| `czleteron.net` | Yes |
 | `czm.io` | Yes |
 | `czmastodon.cz` | No |
 | `cztwitter.cz` | No |
@@ -10924,7 +10927,7 @@ Here's a list of public Fediverse services.
 | `gock.top` | No |
 | `godataflow.com` | Yes |
 | `godawful.earth` | No |
-| `goddessphoebe.com` | No |
+| `goddessphoebe.com` | Yes |
 | `godforsaken.website` | No |
 | `godfreyhendrix.com` | Yes |
 | `godsandradicals.org` | No |
@@ -14250,7 +14253,7 @@ Here's a list of public Fediverse services.
 | `karlmarx.social` | No |
 | `karloskar.org` | No |
 | `karlsoderstrom.com` | Yes |
-| `karlsoderstrom.social` | No |
+| `karlsoderstrom.social` | Yes |
 | `karlsruhe-social.de` | No |
 | `karlsruhe.social` | No |
 | `karlzoller.dev` | No |
@@ -20290,6 +20293,7 @@ Here's a list of public Fediverse services.
 | `nixslave.xyz` | No |
 | `nixt.de` | No |
 | `niyawe.de` | No |
+| `nizarus.tn` | No |
 | `nj.com` | Yes |
 | `njal.la` | No |
 | `njanzen.de` | No |
@@ -26832,7 +26836,7 @@ Here's a list of public Fediverse services.
 | `speakers-corner.uk` | No |
 | `speakfree.world` | No |
 | `speakingstone.net` | No |
-| `speakitfree.com` | No |
+| `speakitfree.com` | Yes |
 | `speakout.social` | No |
 | `speakreason.com` | No |
 | `speaksthegeek.co.uk` | Yes |
@@ -32914,8 +32918,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,432 |
-| Normal | 25,439 |
+| Cloudflare | 7,437 |
+| Normal | 25,438 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
