@@ -21918,6 +21918,7 @@ Here's a list of public Fediverse services.
 | `paulbutler.org` | Yes |
 | `paulcadman.dev` | No |
 | `paulderaaij.nl` | No |
+| `pauldev.co` | No |
 | `paulg.fr` | Yes |
 | `paulgeanta.com` | No |
 | `paulhibbitts.net` | No |
@@ -32896,7 +32897,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,426 |
-| Normal | 25,426 |
+| Normal | 25,427 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
