@@ -6873,6 +6873,7 @@ Do not create new issue or we will close it as duplicate.
 | [Najahh_62@twitter](https://twitter.com/Najahh_62/status/1385735535319212034) | advertise |
 | [nalathon8@twitter](https://twitter.com/nalathon8/status/1393174233556021249) | advertise |
 | [Nam42Duongtruo1@twitter](https://twitter.com/Nam42Duongtruo1/status/1553281681859104768) | advertise |
+| [nam291296@twitter](https://twitter.com/nam291296/status/1603282501543174145) | advertise |
 | [nam14316033@twitter](https://twitter.com/nam14316033/status/1584798469851865088) | advertise |
 | [nam54142435@twitter](https://twitter.com/nam54142435/status/1377917089734750211) | advertise |
 | [Nam2140220405@twitter](https://twitter.com/Nam2140220405/status/1575487045262114820) | advertise |
@@ -9292,6 +9293,7 @@ Do not create new issue or we will close it as duplicate.
 | [Sonicbaba7@twitter](https://twitter.com/Sonicbaba7/status/1396189947124764678) | advertise |
 | [Sonicek3@twitter](https://twitter.com/Sonicek3/status/1386002746780766208) | advertise |
 | [sonlu14654722@twitter](https://twitter.com/sonlu14654722/status/1400477010179235842) | advertise |
+| [SonNgoc82244972@twitter](https://twitter.com/SonNgoc82244972/status/1603285673339154432) | advertise |
 | [Sontung1081@twitter](https://twitter.com/Sontung1081/status/1564156305396285440) | advertise |
 | [SonuleSonule1@twitter](https://twitter.com/SonuleSonule1/status/1482956779067940866) | advertise |
 | [SonuneKaustubh@twitter](https://twitter.com/SonuneKaustubh/status/1383286380348940289) | advertise |
