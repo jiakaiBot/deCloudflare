@@ -3705,6 +3705,7 @@ Do not create new issue or we will close it as duplicate.
 | [HongEm40780181@twitter](https://twitter.com/HongEm40780181/status/1392511551513391105) | advertise |
 | [HongHuy02413034@twitter](https://twitter.com/HongHuy02413034/status/1486228686919860226) | advertise |
 | [honghuy150397@twitter](https://twitter.com/honghuy150397/status/1475125008833781763) | advertise |
+| [HongNg78605314@twitter](https://twitter.com/HongNg78605314/status/1603442614287863811) | advertise |
 | [HongNguynHuy18@twitter](https://twitter.com/HongNguynHuy18/status/1408454723624062981) | advertise |
 | [HongTha30425613@twitter](https://twitter.com/HongTha30425613/status/1552079243139436544) | advertise |
 | [HongTr04515619@twitter](https://twitter.com/HongTr04515619/status/1399293060333203457) | advertise |
@@ -11326,6 +11327,7 @@ Do not create new issue or we will close it as duplicate.
 | [Yyint0071@twitter](https://twitter.com/Yyint0071/status/1390727936060317696) | advertise |
 | [Yyyoshihito1@twitter](https://twitter.com/Yyyoshihito1/status/1401931121340796928) | advertise |
 | [YZ82938234@twitter](https://twitter.com/YZ82938234/status/1478872410287869953) | advertise |
+| [yzusuke01664@twitter](https://twitter.com/yzusuke01664/status/1603427989747662855) | advertise |
 | [y_co7y@twitter](https://twitter.com/y_co7y/status/1391089180868976640) | advertise |
 | [z8r0ymVlRXirPXC@twitter](https://twitter.com/z8r0ymVlRXirPXC/status/1480804476357201923) | advertise |
 | [Z45867388@twitter](https://twitter.com/Z45867388/status/1396787476799254531) | advertise |
