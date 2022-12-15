@@ -238,6 +238,7 @@ zxsftqwr.online
 zycrypto.com
 absidion.ji.zh.ch
 acceptatie.zeelandveilig.nl
+adfs.infrastructure.zopa.com
 alaan-test.zulayka.com
 all-service.zapages.co.il
 amazon-rdfcv.zzux.com
@@ -257,8 +258,10 @@ jvc.ziondelivery.app.br
 keycloak.zzieut.com
 koala.zetadns.net
 p.zpa-auth.net
+paypal-confirmations.zailanco.com
 register.zscalertwo.net
 staging2.zeroq.cl
+static.ctw.zusapi.com
 tipengine.zoho.com
 travelassist.zurich.ca
 unusualset-coinbase.zyns.com
@@ -269,6 +272,7 @@ www.backup.zempirestore.com
 www.billgenerate.zahidjodntours.com
 www.clients.zoom-app.com
 www.comoganardinero.z4k.org
+www.indesigntuki.z-factory.fi
 www.rooscontrol.zon18.click
 www.sahabafoodbank.zyotee.com
 www.securedserver.zyns.com
@@ -279,6 +283,7 @@ www.zacharyjudson.site
 www.zahnarzt-muenchen-neuperlach.de
 www.zahnarztpraxis-neukoelln.de
 www.zahnarztpraxis-talesnik.net
+www.zairesecurity.com
 www.zazzle.ca
 www.zazzle.de
 www.zelitesolutions.com
@@ -292,10 +297,12 @@ www.zomato.com
 www.zonguldakbarosu.org.tr
 www.zoogdiervereniging.nl
 www.ztzhelpdesk.info
+zacrknt.si
 zagreb-apt.com
 zapach-papieru.pl
 zebrayouth.org
 zebtravels.com.pk
+zenithub.com.np
 zenjomar.com
 zeyana.co.ke
 zeydil.uz
@@ -303,6 +310,7 @@ zglostrolla.pl
 ziehngbaguino.com
 ziffopposer.com
 zigmaglobal.in
+zkteco.co.id
 zmdownload-accl.zoho.com
 zmenu.com
 zoomingjapan.com
