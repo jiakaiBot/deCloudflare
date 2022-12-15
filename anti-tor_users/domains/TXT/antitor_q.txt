@@ -182,6 +182,7 @@ plugin.github-source.service.eu-west-1.quokka.codes
 qalmoco.quicksoft.com.br
 qh88vn.net
 qhsealert.com
+qqsafety.com
 qqslot77.asia
 qsafe.com.qa
 qsep.com
@@ -206,13 +207,16 @@ webhook.github.dev.qualia.io
 webhooks.github-source.service.eu-west-1.quokka.codes
 wsvuelosaodb.quiport.com
 www.client.qascs.com
+www.clouds.userscontents.apps.qlok-access.qloksuite.com
 www.employee.q-works.id
 www.gitlab.git.gitlab.test.blog.org.domains.qloaked.com
+www.money-buzz.quickprize.in
 www.qantasnewsroom.com.au
 www.qehconnect.com
 www.qicuntech.com
 www.quality1travel.com
 www.quantable.com
+www.quantakinetic.com
 www.quikr.com
 www.ticketmaster.quality4k.com
 qamwm5o8dlgijte.com
