@@ -354,7 +354,6 @@ djelixir.com
 djelixir.jab.disco.to
 djnitrous.com
 djonline.com
-dk2-services.com
 dkd-standardpaket-typo3-cms-review-review-tes-pzf2ii.k8s.dkd.dev
 dkd.eu
 dl.dropboxusercontent.com
@@ -879,7 +878,6 @@ www.divergenttrack.com
 www.divicloud.depserver.com
 www.divinelockshairs.com
 www.dixiefirewoodandtreeservice.com
-www.dk2-services.com
 www.dnb.nl
 www.dnielectronico.es
 www.dockwalkrealestate.com
@@ -2261,6 +2259,8 @@ zetf1ix.dns1.us
 zm.davrbank.uz
 0db0155ad695b06c80cdb23971aa3259.dancefloor.dev
 1059-ll-vos.dtvott.com
+2016.dalux.dk
+22.ctlog.digital.gov.ru
 28c8efd82dc54ae4909bb607c4585e9b.svc.dynamics.com
 2a3b19df65f14580a53a80ad18c5a6e5.svc.dynamics.com
 4639639.www.pma.discord-accounts.ru
@@ -2280,6 +2280,7 @@ api.developer.deutsche-boerse.com
 api.dfsdx.com
 api.google-phonenumber-validation.ddn.decathlonweparis.com
 api.prod.digitalchargingsolutions.com
+api.sbkh-dev.connector.demo-application.net
 apis.deleo.co.kr
 app.dwp.gov.sg
 application.discord-acc.ru
@@ -2304,9 +2305,12 @@ autodiscover.dynomob.com
 autoparts-stg.dchbrunswicktoyota.com
 autovpn.dpworld.ae
 axelerant-demo.i8.dgicloud.com
+b9b7ee13a75344be919d8319f5df4d6e.svc.dynamics.com
+bafybeidqy2sjdvhxlhqhmqrnzoqrupju76bqpyyhkjb5xcluybzy3phvli.ipfs.dweb.link
 bbc.depanne.be
 bi.dtsgroup.com.tw
 blockchain-consent.datatrustee.org
+blockchainz.dkvfamedic.plus
 bodyinnovations.demowebsiteclient.com
 bot1.discord-manager.fr
 c3pio.deuxchevaux.org
@@ -2315,11 +2319,14 @@ c9urkl8pk7j9eksa2ea0.console.discord-acc.ru
 c9vlu7opk7j9d89rvvng.sandbox.discord-acc.ru
 cdn-garantibbva.dataroid.com
 cdn.discordhire.com
+cdn1.decide.dev
 cerberus.tekcr.dedyn.io
+charcuterie.demowebsiteclient.com
 check.dikoservice.com
 chromamancer.deviantart.com
 civi.digitalcourage.de
 claim.doge25.in
+click.e-offers.dominos.com
 click.engage.digicomp.ch
 client.duck-studio.co.il
 client2.developershamil.com
@@ -2328,6 +2335,7 @@ confirmationupdate-xtinifyaccountwebservcer.dynnamn.ru
 contacto.dynamisa.cl
 content.dropboxapi.com
 contracts.datacenterfrontier.com
+covid-stage.dmc.org.il
 covid19vac-canada.ca.digitalvector.com
 cp.discord-acc.ru
 cpanel.discoduroexternoonline.top
@@ -2402,6 +2410,7 @@ davyoauto.ro
 dcbbank.com
 dcelectionnews.com
 dd-eg.de
+deaemasu.com
 decaturgriefsupport.com
 decentraland-game.org
 deconsorconsuperb.com
@@ -2420,6 +2429,7 @@ deliveryshisha.gr
 dellatechglobal.com
 delphinevintage.com
 delphinitely.me
+delta-t-services.com
 demeter-seguridadindustrial.com.ar
 deminsi.com
 demo.designavondae.com
@@ -2436,6 +2446,7 @@ denledvanphong.com
 dentalclinic-tavassoli.com
 derbymotoretasburritokachimba.com
 deref-gmx.fr
+desarrolloclaim.com
 designsmartsecurity.com
 detiid.nl
 deutsch-in-japan.shop
@@ -2461,6 +2472,7 @@ digacs-visa-co-jp-web-service.dam0807.club
 digitalauditor.com.au
 digitalclosingpackage.net
 digitalmaine.com
+digitalnichemarketers.com
 digitalpoundfoundation.com
 digitalv-c.com
 digram-shindan.com
@@ -2471,10 +2483,12 @@ dinamikteguh.com
 dingo.news
 dinheiroetecnologia.com.br
 dinitrol.frl
+dioxuslabs.com
 dipfblog.com
 discard.gg
 disco-opa.nl
 disco.as
+discodien.com
 discoduroexternoonline.top
 discografiasenmega.com
 discoproperty.com
@@ -2491,6 +2505,7 @@ discouraged-site57r.tk
 discourse.dynomotion.com
 discoverymachine.com
 discsport.no
+distinctwindowsanddoors.ca
 diversityworks.dk
 djbc.net
 djnl.decisionnowlive.com
@@ -2503,6 +2518,7 @@ dmptcourse.com
 dniotwarte.eu
 docarmor.click
 doccument.net
+doctor24h.net
 doctorlib.info
 doctortanclinic.com
 doctorupdate.id
@@ -2512,6 +2528,7 @@ dogmoney.online
 dominionheights.org
 donhauser.de
 donnydavis.us
+doobarim-japan.com
 doodgroup.com
 doorace.ca
 dorara.net
@@ -2525,11 +2542,15 @@ dragonballz.jp
 dreamcatchersjournal.com
 dreamstateofficial.com
 dreoriekodoerp.com
+drivdelivery.com.br
 drive-authentic.com
 drivepagecfdrsf.live
 drkijananix.com
 drleemerritt.com
+drlucianoramires.com.br
+dropeditions.org
 drs-containersolutions.com
+drsaffarieh.com
 druhypokus.sk
 drukmasz.pl
 dsasafety.com
@@ -2551,8 +2572,10 @@ dwayneyamato.com
 dwhmobile.dw-hi.de
 dwrob.com
 dwtonline.com
+dyllusioncheck-magie.fr
 dymtecnologia.com
 dynamicfinancebank.com
+dynamicsafety.co.uk
 dynamicvolumecontrol.com
 dyno-tech.com
 dynoapp.link
@@ -2568,12 +2591,15 @@ dynorob.com
 dynorodcentral.com
 dynosaur.se
 dynosoarlife.com
+dynotech.co.nz
 dynotuning.net.au
+dynozimdirect.com
 dyor.net
 e.deviantart.net
 elvadms.dataposit.co.ke
 email.dansnews.com.au
 embedded-cdn.displayr.com
+esic.dise.ai
 esuite.geo.drweb.com
 extensiones-metamask.com.dymtecnologia.com
 f9e702ef7c804715b5ae38bb4d44aa0e.svc.dynamics.com
@@ -2650,6 +2676,7 @@ is4you.dynomonde.com
 karten.diemollys-pohlheim.de
 keithestetson.dudaone.com
 kong.urmc-uat.dex.care
+lmplmwfbopat.gsellercentral.amazon.www.dentistrybliss.com
 localizapp.dimitrigiani.com
 m.dhgate.com
 mail.dallascommunitynews.us
@@ -2671,6 +2698,7 @@ mroad-int.daimler.com
 mtbonlinebnknotifymtb.dedyn.io
 mtrestapis-live01.dcmh.net
 mx.discord-acc.com
+mxflag.demo-client.site
 myprivacy.dpgmedia.nl
 mysql.eureka.decodelabs.com
 nccdb.fmcsa.dot.gov
@@ -2706,6 +2734,8 @@ postoapoloadm.ddns.com.br
 postulatecan.dynamus.com
 prod.api.deliver-me.com.au
 public-usa.mkt.dynamics.com
+qa-apimgr.dipostar.com
+quote.diamond.co.uk
 rakuten-yuio.dns04.com
 recettes.discora.ma
 resistance.systwww.2019.discord-accounts.ru
@@ -2758,8 +2788,10 @@ update.dgfs.info
 us-east-1.sns-sqs.services.64609426fa78f6a19b629393d79b8406.dancefloor.dev
 us-east-1.sns-sqs.services.d7983403562f6ae130756ae2cab18641.dancefloor.dev
 usernet.dekoningh.nl
+usps.discrete-delivery.com
 v6.dious.cc
 vanessa.demowebsiteclient.com
+vendas.drivdelivery.com.br
 video.disney.ph
 vls.dev-vlaanderen.be
 vmail.desirewordnet.com
@@ -2790,6 +2822,7 @@ webmail.dynobulldogs.com
 webmail.dynogames.jp
 webmail.dynotuning.net.au
 whm.discordhosting.com
+wiki.digitalclassicist.org
 wordpress.discord-store.ru
 ww16.ww.ww18.deliveroo.cm
 ww16.ww17.ww17.ww17.ww17.ww17.ww16.ww27.deliveroo.cm
@@ -2799,6 +2832,7 @@ www.aupost.debrenyart.com
 www.bancofalabella.com.co.djcottage.com
 www.billionscomputer.desamacang.com
 www.bodyinnovations.demowebsiteclient.com
+www.charcuterie.demowebsiteclient.com
 www.client.darkdesigns.co
 www.client.duck-studio.co.il
 www.client2.developershamil.com
@@ -2837,6 +2871,7 @@ www.davoli.fr
 www.daysofwonder.com
 www.dcbbank.com
 www.dcceew.gov.au
+www.deckert-service.bmw
 www.deeprootcenter.org
 www.deficlothingcompany.com
 www.defietsbus.com
@@ -2850,6 +2885,7 @@ www.delta359.com
 www.deltalloyd.nl
 www.demeter-seguridadindustrial.com.ar
 www.denizdenkitabevi.co.uk
+www.dennemarck-service.bmw
 www.dent-medmaterials.nl
 www.dental-sante-92.fr
 www.departmentofinformation.org
@@ -2970,6 +3006,7 @@ www.track.diamondcouriersplus.com
 www.tracking.dknordpost.org
 www.usernet.dekoningh.nl
 www.vanessa.demowebsiteclient.com
+www.webbanksolution.eu.digitalbankservice.eu
 www.webdisk.onecroregoawww.2019.discord-accounts.ru
 www7.signon2.deadorbit.net
 wwww.dioneprotocol.com
