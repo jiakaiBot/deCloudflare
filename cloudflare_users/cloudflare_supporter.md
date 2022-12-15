@@ -5232,6 +5232,7 @@ Do not create new issue or we will close it as duplicate.
 | [kubon34505188@twitter](https://twitter.com/kubon34505188/status/1387458130548715522) | advertise |
 | [KuKu68783681@twitter](https://twitter.com/KuKu68783681/status/1405164564300197898) | advertise |
 | [kukuhtun@twitter](https://twitter.com/kukuhtun/status/1377224548454526978) | advertise |
+| [kukuukthazin@twitter](https://twitter.com/kukuukthazin/status/1603330045707137027) | advertise |
 | [Kule37381826@twitter](https://twitter.com/Kule37381826/status/1392536478501146625) | advertise |
 | [Kulit93683344@twitter](https://twitter.com/Kulit93683344/status/1520859475938140160) | advertise |
 | [kuma14966@twitter](https://twitter.com/kuma14966/status/1559042790688190464) | advertise |
