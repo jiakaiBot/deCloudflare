@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,771 |
-| social | 2,839 |
+| com | 4,772 |
+| social | 2,842 |
 | net | 2,491 |
-| org | 1,795 |
-| de | 1,648 |
+| org | 1,796 |
+| de | 1,649 |
 
 
 - Mastodon, Pleroma, etc
@@ -318,6 +318,7 @@ Here's a list of public Fediverse services.
 | `3ischn.de` | No |
 | `3j.no` | No |
 | `3mivon.net` | No |
+| `3q3.de` | Yes |
 | `3rdstone.uk` | Yes |
 | `3rensei.xyz` | No |
 | `3rik.cc` | No |
@@ -1799,6 +1800,7 @@ Here's a list of public Fediverse services.
 | `arihi.me` | No |
 | `arinbasu.online` | No |
 | `arint.me` | Yes |
+| `arion.social` | No |
 | `ariona.fr` | No |
 | `ariscard.eu` | Yes |
 | `ariste.info` | No |
@@ -1996,6 +1998,7 @@ Here's a list of public Fediverse services.
 | `aspiechattr.me` | No |
 | `aspirant.de` | No |
 | `aspisdata.com` | No |
+| `asprivacy.com` | Yes |
 | `asqbangalore.com` | No |
 | `asraelvudogel.de` | Yes |
 | `asria.jp` | No |
@@ -2831,6 +2834,7 @@ Here's a list of public Fediverse services.
 | `bennyp.org` | No |
 | `bennypowers.dev` | No |
 | `benoit-alessandroni.fr` | No |
+| `benpettis.ninja` | No |
 | `benpro.fr` | Yes |
 | `bensmith.uk` | Yes |
 | `bentasker.co.uk` | No |
@@ -2900,6 +2904,7 @@ Here's a list of public Fediverse services.
 | `bestodon.com` | Yes |
 | `bestregard.co` | No |
 | `bestself.social` | No |
+| `beta42.dev` | No |
 | `betabuild.dev` | No |
 | `betafive.net` | No |
 | `betamax.video` | Yes |
@@ -5192,6 +5197,7 @@ Here's a list of public Fediverse services.
 | `comf.tube` | No |
 | `comfey.club` | No |
 | `comfeyo.ga` | No |
+| `comfy.blue` | No |
 | `comfy.business` | No |
 | `comfy.center` | Yes |
 | `comfy.moe` | Yes |
@@ -6556,6 +6562,7 @@ Here's a list of public Fediverse services.
 | `deko.yt` | Yes |
 | `dekobokojin.com` | Yes |
 | `dekok.dk` | No |
+| `delaage.org` | No |
 | `delab.re` | No |
 | `delaeuforia.com` | Yes |
 | `delange.us` | No |
@@ -7960,6 +7967,7 @@ Here's a list of public Fediverse services.
 | `elephnt.party` | No |
 | `elephwnt.be` | No |
 | `elespanol.com` | Yes |
+| `elest.io` | Yes |
 | `elestio.app` | No |
 | `eletusk.club` | No |
 | `eleusis.social` | No |
@@ -9560,6 +9568,7 @@ Here's a list of public Fediverse services.
 | `foule.net` | No |
 | `foundation.city` | No |
 | `foundationsedge.co.uk` | Yes |
+| `fountainpen.social` | No |
 | `fouquet.me` | No |
 | `four-nine.club` | No |
 | `fourth-brigade.jp` | No |
@@ -9585,6 +9594,7 @@ Here's a list of public Fediverse services.
 | `foxnewsofficial.com` | No |
 | `foxocube.xyz` | Yes |
 | `foxpaw.in` | No |
+| `foxsibean.cyou` | No |
 | `foxstreet.be` | No |
 | `foxtail.ooo` | No |
 | `foxthesystem.space` | No |
@@ -10466,6 +10476,7 @@ Here's a list of public Fediverse services.
 | `geese.party` | Yes |
 | `geewiz.dev` | No |
 | `gef.ink` | No |
+| `geg.social` | No |
 | `gegenmenschen.de` | No |
 | `gegenstimme.tv` | Yes |
 | `gegeweb.eu` | No |
@@ -20520,6 +20531,7 @@ Here's a list of public Fediverse services.
 | `norimono.moe` | No |
 | `noritsuna.jp` | No |
 | `norius.fr` | No |
+| `normal.style` | No |
 | `normalunicorn.com` | No |
 | `normandie-libre.fr` | No |
 | `normie.cafe` | No |
@@ -21572,6 +21584,7 @@ Here's a list of public Fediverse services.
 | `outdoors.lgbt` | No |
 | `outdoors.social` | No |
 | `outerheaven.club` | No |
+| `outerspace.place` | No |
 | `outerweb.social` | No |
 | `outils-conviviaux.fr` | No |
 | `outlier.directory` | No |
@@ -32899,8 +32912,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,427 |
-| Normal | 25,429 |
+| Cloudflare | 7,430 |
+| Normal | 25,439 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
