@@ -20006,6 +20006,7 @@ Here's a list of public Fediverse services.
 | `neural.nz` | No |
 | `neurario.com` | No |
 | `neurer.com` | No |
+| `neuro.cooking` | No |
 | `neurodifferent.me` | No |
 | `neurodiver.ge` | No |
 | `neurodiversity-in.au` | Yes |
@@ -32913,7 +32914,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,430 |
-| Normal | 25,439 |
+| Normal | 25,440 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
