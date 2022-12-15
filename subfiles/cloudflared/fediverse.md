@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,770 |
-| social | 2,838 |
+| social | 2,839 |
 | net | 2,491 |
 | org | 1,795 |
 | de | 1,648 |
@@ -15289,6 +15289,7 @@ Here's a list of public Fediverse services.
 | `langford.fm` | No |
 | `langleveeuropa.nl` | No |
 | `langmerah.net` | No |
+| `langsec.social` | No |
 | `language.jp` | No |
 | `lanham.id.au` | No |
 | `lank.es` | No |
@@ -32898,7 +32899,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,426 |
-| Normal | 25,428 |
+| Normal | 25,429 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
