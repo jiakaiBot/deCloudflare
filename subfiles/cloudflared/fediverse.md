@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,770 |
+| com | 4,771 |
 | social | 2,839 |
 | net | 2,491 |
 | org | 1,795 |
@@ -7048,6 +7048,7 @@ Here's a list of public Fediverse services.
 | `divita.eu` | No |
 | `divnull.com` | No |
 | `dixies.land` | No |
+| `diya-mastodon.com` | No |
 | `diymusic.space` | No |
 | `diytelevision.com` | No |
 | `dizl.de` | No |
@@ -32040,7 +32041,7 @@ Here's a list of public Fediverse services.
 | `xn--h1ahnbk7d.xn--p1ai` | No |
 | `xn--hea.nz` | No |
 | `xn--hek.ws` | No |
-| `xn--hex.jp` | No |
+| `xn--hex.jp` | Yes |
 | `xn--hlzchen-90a.net` | No |
 | `xn--hresiar-mxa.ch` | No |
 | `xn--ipwu70e9hg.com` | No |
@@ -32898,7 +32899,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,426 |
+| Cloudflare | 7,427 |
 | Normal | 25,429 |
 
 
