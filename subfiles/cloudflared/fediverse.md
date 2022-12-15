@@ -26,11 +26,11 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,772 |
-| social | 2,843 |
-| net | 2,491 |
+| com | 4,774 |
+| social | 2,844 |
+| net | 2,492 |
 | org | 1,796 |
-| de | 1,650 |
+| de | 1,652 |
 
 
 - Mastodon, Pleroma, etc
@@ -3009,7 +3009,7 @@ Here's a list of public Fediverse services.
 | `bigisland.social` | No |
 | `bigleaf.city` | No |
 | `biglittle.space` | No |
-| `bigmastodon.com` | No |
+| `bigmastodon.com` | Yes |
 | `bignum.org` | No |
 | `bigowo.digital` | No |
 | `bigpandatech.com` | No |
@@ -3105,6 +3105,7 @@ Here's a list of public Fediverse services.
 | `birdcar.dev` | No |
 | `birddon.com` | No |
 | `birdity.club` | No |
+| `birdon.social` | No |
 | `birdriver.org` | No |
 | `birds.garden` | No |
 | `birds.social` | No |
@@ -3571,6 +3572,7 @@ Here's a list of public Fediverse services.
 | `borked.sh` | Yes |
 | `borken.social` | No |
 | `borneensis.com` | No |
+| `bornholz.com` | No |
 | `bornsleepy.com` | No |
 | `boromil.space` | No |
 | `borosa.social` | No |
@@ -3750,6 +3752,7 @@ Here's a list of public Fediverse services.
 | `brid.gy` | No |
 | `bridgend.online` | Yes |
 | `bridgepattern.com` | No |
+| `brieseland.de` | No |
 | `brig.gs` | Yes |
 | `brigato.fr` | No |
 | `brighteon.social` | Yes |
@@ -4438,6 +4441,7 @@ Here's a list of public Fediverse services.
 | `cervidae.space` | No |
 | `cescobarresi.it` | No |
 | `cesiandalex.com` | Yes |
+| `cesium.pw` | Yes |
 | `ceskar.xyz` | No |
 | `ceske.site` | Yes |
 | `cestoliv.com` | No |
@@ -12332,6 +12336,7 @@ Here's a list of public Fediverse services.
 | `hoyer.xyz` | No |
 | `hoyle.me.uk` | No |
 | `hp-gauster.name` | No |
+| `hpadm.de` | No |
 | `hpc.social` | No |
 | `hpea.moe` | Yes |
 | `hpi.wtf` | No |
@@ -13264,6 +13269,7 @@ Here's a list of public Fediverse services.
 | `iswleuven.be` | No |
 | `it-blogger.dk` | No |
 | `it-dengler.de` | No |
+| `it-freelancer.hamburg` | No |
 | `it-hempel.de` | No |
 | `it-infra.jp` | No |
 | `it-lin.de` | No |
@@ -16621,6 +16627,7 @@ Here's a list of public Fediverse services.
 | `macrofurs.social` | Yes |
 | `macsnet.cz` | No |
 | `macstodon.scot` | Yes |
+| `macstories.net` | Yes |
 | `macwinlin.cloud` | Yes |
 | `macwright.com` | No |
 | `mad-scientist.club` | No |
@@ -18079,6 +18086,7 @@ Here's a list of public Fediverse services.
 | `mgattozzi.dev` | No |
 | `mgcomm.de` | No |
 | `mghk.space` | Yes |
+| `mgm-tp.com` | No |
 | `mgub.yt` | Yes |
 | `mhaak.de` | No |
 | `mhc.social` | No |
@@ -20414,6 +20422,7 @@ Here's a list of public Fediverse services.
 | `nogafa.org` | No |
 | `nogafam.es` | No |
 | `nogafam.zone` | No |
+| `nogamenolife.me` | Yes |
 | `nogitsune.moe` | No |
 | `nognu.de` | No |
 | `nogods.be` | No |
@@ -27494,7 +27503,7 @@ Here's a list of public Fediverse services.
 | `sum7.eu` | No |
 | `suma-ev.social` | No |
 | `sumanko.ml` | Yes |
-| `sumeru.top` | No |
+| `sumeru.top` | Yes |
 | `sumi.space` | Yes |
 | `sumikko.club` | No |
 | `summerlin.social` | No |
@@ -29905,6 +29914,7 @@ Here's a list of public Fediverse services.
 | `twipped.social` | No |
 | `twistedsifter.com` | No |
 | `twit.social` | No |
+| `twitbridge.click` | No |
 | `twitchain.net` | No |
 | `twitchfr.social` | Yes |
 | `twitiverse.com` | No |
@@ -32920,8 +32930,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,442 |
-| Normal | 25,435 |
+| Cloudflare | 7,447 |
+| Normal | 25,440 |
 
 
 ### 22.6% of public Fediverse services are using Cloudflare.
