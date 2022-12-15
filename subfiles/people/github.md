@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Export server fails](https://github.com/highcharts/highcharts/issues/18154)
 - [JsonRPC redirects internal errors](https://github.com/0xPolygonHermez/zkevm-node/issues/1457)
 - [The current domain name's resolved IP does not match the public IP used of the server](https://github.com/NidukaAkalanka/x-ui-english/issues/62)
 - [Behavior change in Cloudflare turnstile deprecating reset function?](https://github.com/danielroe/nuxt-turnstile/issues/95)
