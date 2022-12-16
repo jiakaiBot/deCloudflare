@@ -5383,6 +5383,7 @@ Do not create new issue or we will close it as duplicate.
 | [KylePekalski@twitter](https://twitter.com/KylePekalski/status/1603235371394932739) | advertise |
 | [kyliesyantiek@twitter](https://twitter.com/kyliesyantiek/status/1497652548404387843) | advertise |
 | [Kylin85353754@twitter](https://twitter.com/Kylin85353754/status/1402676839852568576) | advertise |
+| [Kyngsavage876@twitter](https://twitter.com/Kyngsavage876/status/1603826723455369223) | advertise |
 | [kynrod999@twitter](https://twitter.com/kynrod999/status/1539872975855718400) | advertise |
 | [KyokoTum@twitter](https://twitter.com/KyokoTum/status/1542546748304146432) | advertise |
 | [Kyousukilalabs@twitter](https://twitter.com/Kyousukilalabs/status/1389630473375158273) | advertise |
@@ -6143,6 +6144,7 @@ Do not create new issue or we will close it as duplicate.
 | [MdSAmi06045379@twitter](https://twitter.com/MdSAmi06045379/status/1382387062549086211) | advertise |
 | [Mdsamiu21620514@twitter](https://twitter.com/Mdsamiu21620514/status/1547009359624151040) | advertise |
 | [MdShaki27581136@twitter](https://twitter.com/MdShaki27581136/status/1509762315385643011) | advertise |
+| [MDSHAKIBMDSHA13@twitter](https://twitter.com/MDSHAKIBMDSHA13/status/1603819098093236224) | advertise |
 | [MdShauk19707675@twitter](https://twitter.com/MdShauk19707675/status/1383835265383370760) | advertise |
 | [MDShori73803492@twitter](https://twitter.com/MDShori73803492/status/1377934270396735488) | advertise |
 | [MDTanve67193191@twitter](https://twitter.com/MDTanve67193191/status/1545099438036697090) | advertise |
@@ -7166,6 +7168,7 @@ Do not create new issue or we will close it as duplicate.
 | [NguyenT53568981@twitter](https://twitter.com/NguyenT53568981/status/1541434099692617728) | advertise |
 | [NguyenT56005155@twitter](https://twitter.com/NguyenT56005155/status/1505492939254157312) | advertise |
 | [NguyenT61726484@twitter](https://twitter.com/NguyenT61726484/status/1553216543265558530) | advertise |
+| [NguyenT77333297@twitter](https://twitter.com/NguyenT77333297/status/1603839852705124353) | advertise |
 | [Nguyenthaonhi22@twitter](https://twitter.com/Nguyenthaonhi22/status/1392620098096037890) | advertise |
 | [NguyenThat17@twitter](https://twitter.com/NguyenThat17/status/1523878007328419845) | advertise |
 | [nguyentheonam@twitter](https://twitter.com/nguyentheonam/status/1380965409818472450) | advertise |
@@ -7541,6 +7544,7 @@ Do not create new issue or we will close it as duplicate.
 | [Oai83223657@twitter](https://twitter.com/Oai83223657/status/1398312021532188684) | advertise |
 | [Oakar10272130@twitter](https://twitter.com/Oakar10272130/status/1391927452830683136) | advertise |
 | [OakSoe_95@twitter](https://twitter.com/OakSoe_95/status/1390580036474793988) | advertise |
+| [obaydFox1@twitter](https://twitter.com/obaydFox1/status/1603825475079503872) | advertise |
 | [oBHp4@twitter](https://twitter.com/oBHp4/status/1490716075268665347) | advertise |
 | [ObinnaUkwueze@twitter](https://twitter.com/ObinnaUkwueze/status/1529030306908471296) | advertise |
 | [obliquum@twitter](https://twitter.com/obliquum/status/1394296794994012163) | advertise |
@@ -11565,6 +11569,7 @@ Do not create new issue or we will close it as duplicate.
 | [zyl2021@twitter](https://twitter.com/zyl2021/status/1394215819488333826) | advertise |
 | [z_genera@twitter](https://twitter.com/z_genera/status/1376912696696705024) | advertise |
 | [_2_2x@twitter](https://twitter.com/_2_2x/status/1552234529355595778) | advertise |
+| [_6_66666@twitter](https://twitter.com/_6_66666/status/1603817568963133440) | advertise |
 | [_18th03@twitter](https://twitter.com/_18th03/status/1586936513241440262) | advertise |
 | [_Akamig@twitter](https://twitter.com/_Akamig/status/1394256102632558592) | advertise |
 | [_AliRezaMD@twitter](https://twitter.com/_AliRezaMD/status/1402231881148600320) | advertise |
