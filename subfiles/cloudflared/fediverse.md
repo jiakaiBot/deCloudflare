@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,799 |
-| social | 2,861 |
+| social | 2,862 |
 | net | 2,497 |
 | org | 1,801 |
 | de | 1,658 |
@@ -27423,6 +27423,7 @@ Here's a list of public Fediverse services.
 | `strandundmeer.net` | No |
 | `strange.codes` | No |
 | `strange.faith` | No |
+| `strangeminds.social` | No |
 | `strangeobject.space` | No |
 | `strangeparts.com` | Yes |
 | `strangeplace.me` | Yes |
@@ -33050,7 +33051,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,494 |
-| Normal | 25,512 |
+| Normal | 25,513 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
