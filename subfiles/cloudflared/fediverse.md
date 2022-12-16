@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,785 |
+| com | 4,786 |
 | social | 2,850 |
 | net | 2,496 |
 | org | 1,799 |
@@ -22258,6 +22258,7 @@ Here's a list of public Fediverse services.
 | `pettingzoo.co` | No |
 | `pettingzoo.dev` | No |
 | `pettingzoo.gallery` | No |
+| `pettitservers.com` | Yes |
 | `peuw.net` | No |
 | `pew.im` | No |
 | `pewflix.com` | No |
@@ -32979,7 +32980,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,470 |
+| Cloudflare | 7,471 |
 | Normal | 25,466 |
 
 
