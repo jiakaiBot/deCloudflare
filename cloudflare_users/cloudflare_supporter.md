@@ -8427,6 +8427,7 @@ Do not create new issue or we will close it as duplicate.
 | [RealFaizAhmed1@twitter](https://twitter.com/RealFaizAhmed1/status/1402941244456775687) | advertise |
 | [realfaizalkha1@twitter](https://twitter.com/realfaizalkha1/status/1559374629264826368) | advertise |
 | [RealFTG2@twitter](https://twitter.com/RealFTG2/status/1425143438551490564) | advertise |
+| [RealJB303@twitter](https://twitter.com/RealJB303/status/1603718927959216129) | advertise |
 | [realKUZNETSOV@twitter](https://twitter.com/realKUZNETSOV/status/1510345313567006731) | advertise |
 | [reallif81930874@twitter](https://twitter.com/reallif81930874/status/1392978030725722115) | advertise |
 | [RealMofrad@twitter](https://twitter.com/RealMofrad/status/1506868521359200259) | advertise |
