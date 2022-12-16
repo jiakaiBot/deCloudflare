@@ -29,7 +29,7 @@ Here's a list of public Fediverse services.
 | com | 4,799 |
 | social | 2,861 |
 | net | 2,497 |
-| org | 1,800 |
+| org | 1,801 |
 | de | 1,658 |
 
 
@@ -17967,6 +17967,7 @@ Here's a list of public Fediverse services.
 | `mementomori.space` | No |
 | `memes.nz` | Yes |
 | `memesouls.top` | No |
+| `memesrus.org` | No |
 | `memesskey.com` | Yes |
 | `memetastic.space` | Yes |
 | `memetica.cloud` | No |
@@ -33049,7 +33050,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,494 |
-| Normal | 25,511 |
+| Normal | 25,512 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
