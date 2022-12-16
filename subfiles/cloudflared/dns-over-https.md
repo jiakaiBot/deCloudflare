@@ -59,7 +59,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | cola16.app | Yes |
 | colorfreedom.org | No |
 | comss.one | No |
-| conne.net | No |
 | crypto.sx | Yes |
 | cryptroute.com | Yes |
 | cybershell.xyz | Yes |
@@ -129,7 +128,6 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | hottis.de | No |
 | hshh.org | No |
 | huque.com | No |
-| i2pd.xyz | No |
 | ihaveacloud.com | No |
 | iij.jp | Yes |
 | illmods.com | Yes |
@@ -285,7 +283,7 @@ The following is a list of publicly available DNS-over-HTTPS (DoH) servers.
 | Type | Count |
 | --- | --- | 
 | Cloudflare | 100 |
-| Normal | 165 |
+| Normal | 163 |
 
 
-### 37.7% of DNS-over-HTTPS (DoH) are using Cloudflare.
+### 38% of DNS-over-HTTPS (DoH) are using Cloudflare.
