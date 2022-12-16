@@ -1608,6 +1608,7 @@ Or is this merely a case of simple modesty?
 | Sofia Celi | Crypto Team |  |
 | Sofia Farid | Technical Program Manager |  |
 | Sofia Gkazempa | Employee |  |
+| Sofia Good | Employee | |
 | Sofía Celi | Employee |  |
 | Sohei Okamoto | Distributed Systems Engineer |  |
 | Song Zihao | Employee |  |
