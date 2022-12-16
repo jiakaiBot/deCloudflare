@@ -15610,7 +15610,7 @@ Here's a list of public Fediverse services.
 | `lemon-blacktea.xyz` | No |
 | `lemonade.moe` | Yes |
 | `lemonline.biz` | No |
-| `lemonparty.social` | No |
+| `lemonparty.social` | Yes |
 | `lemontree.ml` | No |
 | `lemouvementassociatif-pdl.org` | No |
 | `lemue.org` | No |
@@ -16569,7 +16569,7 @@ Here's a list of public Fediverse services.
 | `lycee-experimental.org` | Yes |
 | `lyceeconnecte.fr` | No |
 | `lyctor.space` | No |
-| `lydi.as` | No |
+| `lydi.as` | Yes |
 | `lyingvoid.social` | No |
 | `lyker.jp` | Yes |
 | `lynessence.me` | No |
@@ -24070,6 +24070,7 @@ Here's a list of public Fediverse services.
 | `realname.social` | No |
 | `realnephestate.xyz` | No |
 | `realscience.social` | No |
+| `realshellfish.tech` | Yes |
 | `realsocial.life` | No |
 | `realtime.fyi` | No |
 | `reapers.de` | No |
@@ -30279,6 +30280,7 @@ Here's a list of public Fediverse services.
 | `ungleich.ch` | No |
 | `ungovernavl.org` | No |
 | `ungoverned.social` | Yes |
+| `ungrind.io` | No |
 | `ungzeit.de` | No |
 | `unhandledexpression.com` | No |
 | `unhinged.social` | No |
@@ -33015,8 +33017,8 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,479 |
-| Normal | 25,493 |
+| Cloudflare | 7,482 |
+| Normal | 25,492 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
