@@ -938,7 +938,7 @@ Here's a list of public Fediverse services.
 | `ahxxm.com` | Yes |
 | `ai-peertube.ch` | No |
 | `ai-tube.ch` | No |
-| `ai6yr.org` | No |
+| `ai6yr.org` | Yes |
 | `aiart.page` | Yes |
 | `aiateibad.ee` | Yes |
 | `aidannyquist.com` | No |
@@ -4322,7 +4322,7 @@ Here's a list of public Fediverse services.
 | `catgirl.solutions` | No |
 | `catgirl.space` | Yes |
 | `catgirl.website` | No |
-| `catgirl.works` | No |
+| `catgirl.works` | Yes |
 | `catgirl.zone` | No |
 | `catgirlin.space` | No |
 | `catgirlmeike.eu` | Yes |
@@ -4673,6 +4673,7 @@ Here's a list of public Fediverse services.
 | `chimerae.org` | No |
 | `chin-co-ne.co` | No |
 | `china.al` | Yes |
+| `china996.tk` | No |
 | `chinamstdn.com` | No |
 | `chinapedia.org` | No |
 | `chinchun.net` | Yes |
@@ -10448,6 +10449,7 @@ Here's a list of public Fediverse services.
 | `gd.social` | No |
 | `gdamsbo.dk` | No |
 | `gddb.ovh` | No |
+| `gddnet.io` | Yes |
 | `gdgd.jp.net` | Yes |
 | `gdgd.space` | No |
 | `gdoublet.fr` | No |
@@ -24098,7 +24100,7 @@ Here's a list of public Fediverse services.
 | `recht.social` | No |
 | `rechthervormers.nl` | No |
 | `rechtsehippies.nl` | No |
-| `recipes.exchange` | Yes |
+| `recipes.exchange` | No |
 | `reckless.dev` | Yes |
 | `recknsense.com` | No |
 | `reclaim.rocks` | Yes |
@@ -33017,7 +33019,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,482 |
+| Cloudflare | 7,484 |
 | Normal | 25,492 |
 
 
