@@ -12975,6 +12975,7 @@ Here's a list of public Fediverse services.
 | `initiate.space` | Yes |
 | `initiativegegendieverwendungvonvielzulangendomainnameniminter.net` | No |
 | `initmd.xyz` | Yes |
+| `injection.love` | Yes |
 | `inkdrop.space` | No |
 | `inkopolis.cafe` | No |
 | `inkson.org` | No |
@@ -32980,7 +32981,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,471 |
+| Cloudflare | 7,472 |
 | Normal | 25,466 |
 
 
