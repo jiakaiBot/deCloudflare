@@ -27,7 +27,7 @@ Here's a list of public Fediverse services.
 | TLD | Count |
 | --- | --- |
 | com | 4,793 |
-| social | 2,856 |
+| social | 2,857 |
 | net | 2,497 |
 | org | 1,799 |
 | de | 1,654 |
@@ -21579,7 +21579,7 @@ Here's a list of public Fediverse services.
 | `otepoti.dev` | No |
 | `oterolabs.com` | No |
 | `othemts.com` | No |
-| `other.blue` | No |
+| `other.blue` | Yes |
 | `otherbyte.com` | No |
 | `otherground.party` | No |
 | `otherkin.club` | No |
@@ -27553,6 +27553,7 @@ Here's a list of public Fediverse services.
 | `suffix.be` | No |
 | `suffix.cloud` | No |
 | `suffocating.org` | No |
+| `suganthan.social` | No |
 | `sugar.monster` | No |
 | `sugarashcat.xyz` | No |
 | `sugarcube.pw` | Yes |
@@ -33014,7 +33015,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,478 |
+| Cloudflare | 7,479 |
 | Normal | 25,493 |
 
 
