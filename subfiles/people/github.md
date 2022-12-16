@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Cloudflare integration failed to connect](https://github.com/home-assistant/core/issues/84113)
 - [Trouble with intregation with HAProxy GUI via Pfsense](https://github.com/spantaleev/matrix-docker-ansible-deploy/issues/2345)
 - [CloudFlare Tunnels Query](https://github.com/MysticRyuujin/guac-install/issues/234)
 - [Can we have it updated for react 18 please?](https://github.com/bagongkia/react-image-picker/issues/21)
