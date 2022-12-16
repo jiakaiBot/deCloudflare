@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [CloudFlare Tunnels Query](https://github.com/MysticRyuujin/guac-install/issues/234)
 - [Can we have it updated for react 18 please?](https://github.com/bagongkia/react-image-picker/issues/21)
 - [Export server fails](https://github.com/highcharts/highcharts/issues/18154)
 - [JsonRPC redirects internal errors](https://github.com/0xPolygonHermez/zkevm-node/issues/1457)
