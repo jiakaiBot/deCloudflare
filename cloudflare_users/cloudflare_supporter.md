@@ -4671,6 +4671,7 @@ Do not create new issue or we will close it as duplicate.
 | [Kakaro0922@twitter](https://twitter.com/Kakaro0922/status/1558177402320465920) | advertise |
 | [Kakuzu231@twitter](https://twitter.com/Kakuzu231/status/1392289987828146184) | advertise |
 | [kakyikoko1735@twitter](https://twitter.com/kakyikoko1735/status/1393078993641906177) | advertise |
+| [Kalebpubg@twitter](https://twitter.com/Kalebpubg/status/1603774705093181440) | advertise |
 | [kalepaache2@twitter](https://twitter.com/kalepaache2/status/1538952242178539520) | advertise |
 | [kaliim9@twitter](https://twitter.com/kaliim9/status/1574867177223720960) | advertise |
 | [kalilinuxtips@twitter](https://twitter.com/kalilinuxtips/status/1411302042220568576) | moral (advertise) |
@@ -9864,8 +9865,8 @@ Do not create new issue or we will close it as duplicate.
 | [thejohnalwin@twitter](https://twitter.com/thejohnalwin/status/1395629286397153281) | advertise |
 | [thekiddoclub@twitter](https://twitter.com/thekiddoclub/status/1400328229831938049) | advertise |
 | [TheKumailKazmi@twitter](https://twitter.com/TheKumailKazmi/status/1411410847105179650) | moral (advertise) |
-| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [thelinuxproject@twitter](https://twitter.com/thelinuxproject/status/1595125870926364672) | advertise |
+| [TheLinuxProject@twitter](https://twitter.com/TheLinuxProject/status/1595125870926364672) | advertise |
 | [TheLoki1771@twitter](https://twitter.com/TheLoki1771/status/1394821930226577413) | advertise |
 | [TheMafaazKalid@twitter](https://twitter.com/TheMafaazKalid/status/1388971899091255296) | advertise |
 | [TheMAGAkiller@twitter](https://twitter.com/TheMAGAkiller/status/1392990552824614914) | advertise |
