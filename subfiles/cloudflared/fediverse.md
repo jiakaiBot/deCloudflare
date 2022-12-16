@@ -10303,6 +10303,7 @@ Here's a list of public Fediverse services.
 | `gameropolis.com` | No |
 | `gamerr.cyou` | No |
 | `gamers.exposed` | No |
+| `gamers.rip` | Yes |
 | `gamers.social` | No |
 | `gamerscharisma.social` | No |
 | `gamertalk.social` | No |
@@ -32978,7 +32979,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,469 |
+| Cloudflare | 7,470 |
 | Normal | 25,466 |
 
 
