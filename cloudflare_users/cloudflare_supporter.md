@@ -5010,8 +5010,8 @@ Do not create new issue or we will close it as duplicate.
 | [KimVui16@twitter](https://twitter.com/KimVui16/status/1552367053847535616) | advertise |
 | [Kim_dortung@twitter](https://twitter.com/Kim_dortung/status/1566771439055032321) | advertise |
 | [kinarokihara@twitter](https://twitter.com/kinarokihara/status/1498710576134078472) | advertise |
-| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [Kincairai@twitter](https://twitter.com/Kincairai/status/1485705709233016832) | advertise |
+| [KincaiRai@twitter](https://twitter.com/KincaiRai/status/1485705709233016832) | advertise |
 | [King77lovehp@twitter](https://twitter.com/King77lovehp/status/1472699806216699904) | advertise |
 | [King27199155@twitter](https://twitter.com/King27199155/status/1391211526569091072) | advertise |
 | [King53329368@twitter](https://twitter.com/King53329368/status/1376742080689545220) | advertise |
@@ -7396,6 +7396,7 @@ Do not create new issue or we will close it as duplicate.
 | [nomercy888806@twitter](https://twitter.com/nomercy888806/status/1533850898551693313) | advertise |
 | [nomkhae@twitter](https://twitter.com/nomkhae/status/1519560089258332160) | advertise |
 | [NomRageCafe@twitter](https://twitter.com/NomRageCafe/status/1512087137952301059) | advertise |
+| [Noname01O@twitter](https://twitter.com/Noname01O/status/1603634938711941120) | advertise |
 | [Noname11901@twitter](https://twitter.com/Noname11901/status/1554010109147131905) | advertise |
 | [Noname21098@twitter](https://twitter.com/Noname21098/status/1555141462265774082) | advertise |
 | [NoName860625516@twitter](https://twitter.com/NoName860625516/status/1552499967876423680) | advertise |
@@ -10438,6 +10439,7 @@ Do not create new issue or we will close it as duplicate.
 | [tung85288887@twitter](https://twitter.com/tung85288887/status/1536123681826430976) | advertise |
 | [tungcho3396@twitter](https://twitter.com/tungcho3396/status/1561578045445910528) | advertise |
 | [tungduo07351367@twitter](https://twitter.com/tungduo07351367/status/1518231863688843264) | advertise |
+| [tungTha36983287@twitter](https://twitter.com/tungTha36983287/status/1603640934725750784) | advertise |
 | [tungtroy2122@twitter](https://twitter.com/tungtroy2122/status/1379372249212456963) | advertise |
 | [tungtung411@twitter](https://twitter.com/tungtung411/status/1404120132943712260) | advertise |
 | [TuNguyddjcmf@twitter](https://twitter.com/TuNguyddjcmf/status/1597145101834518529) | advertise |
