@@ -7583,6 +7583,7 @@ Do not create new issue or we will close it as duplicate.
 | [OluTemMarv@twitter](https://twitter.com/OluTemMarv/status/1401280423750209538) | advertise |
 | [OM4LSpb5a8vEdhu@twitter](https://twitter.com/OM4LSpb5a8vEdhu/status/1395682995693101063) | advertise |
 | [omar44270104@twitter](https://twitter.com/omar44270104/status/1471983815249833990) | advertise |
+| [omarco91@twitter](https://twitter.com/omarco91/status/1603537286813171713) | advertise |
 | [OmarElgahri@twitter](https://twitter.com/OmarElgahri/status/1430736423838158851) | advertise |
 | [OmarOmarahmedkr@twitter](https://twitter.com/OmarOmarahmedkr/status/1559481116934938625) | advertise |
 | [Omary52022014@twitter](https://twitter.com/Omary52022014/status/1541496884065345537) | advertise |
@@ -9495,6 +9496,7 @@ Do not create new issue or we will close it as duplicate.
 | [sushidesignerr@twitter](https://twitter.com/sushidesignerr/status/1591171105121001472) | advertise |
 | [SuSu43088830@twitter](https://twitter.com/SuSu43088830/status/1596615743335895040) | advertise |
 | [SuSuWin06068758@twitter](https://twitter.com/SuSuWin06068758/status/1553316092931481603) | advertise |
+| [SuTrn58550307@twitter](https://twitter.com/SuTrn58550307/status/1603538130337812480) | advertise |
 | [suuccesethiopa@twitter](https://twitter.com/suuccesethiopa/status/1510972073769902082) | advertise |
 | [SuWai57179242@twitter](https://twitter.com/SuWai57179242/status/1390282019108659200) | advertise |
 | [SuYatiAung3@twitter](https://twitter.com/SuYatiAung3/status/1400420448962105350) | advertise |
