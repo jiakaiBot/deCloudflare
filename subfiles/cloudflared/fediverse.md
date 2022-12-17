@@ -5573,6 +5573,7 @@ Here's a list of public Fediverse services.
 | `crabsin.space` | No |
 | `crack.group` | No |
 | `crack.ninja` | Yes |
+| `cracked.ink` | No |
 | `crackpipe.org` | Yes |
 | `cracrayol.org` | No |
 | `craftam.app` | No |
@@ -33150,7 +33151,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,516 |
-| Normal | 25,590 |
+| Normal | 25,591 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
