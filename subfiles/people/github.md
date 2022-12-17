@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Download leads to a redirect, which leads to 503 error](https://github.com/SpiGetOrg/Spiget/issues/55)
 - [set up the frontend production infrastructure](https://github.com/VilnaCRM-Org/infrastructure/issues/2)
 - [Error in Use CDN](https://github.com/miladrahimi/v2ray-docker-compose/issues/78)
 - [Nginx Proxy Reverse Not Working With XrayR?](https://github.com/XrayR-project/XrayR/issues/166)
