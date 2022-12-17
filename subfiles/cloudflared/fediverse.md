@@ -26,7 +26,7 @@ Here's a list of public Fediverse services.
 
 | TLD | Count |
 | --- | --- |
-| com | 4,848 |
+| com | 4,849 |
 | social | 2,902 |
 | net | 2,512 |
 | org | 1,818 |
@@ -17139,6 +17139,7 @@ Here's a list of public Fediverse services.
 | `markdon.ml` | No |
 | `markearnest.net` | Yes |
 | `markegli.com` | No |
+| `marketally.com` | No |
 | `markham.cc` | Yes |
 | `markham.family` | No |
 | `markhughes.tech` | No |
@@ -33274,7 +33275,7 @@ Here's a list of public Fediverse services.
 | Type | Count |
 | --- | --- |
 | Cloudflare | 7,554 |
-| Normal | 25,676 |
+| Normal | 25,677 |
 
 
 ### 22.7% of public Fediverse services are using Cloudflare.
