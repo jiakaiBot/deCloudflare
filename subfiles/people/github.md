@@ -4,6 +4,7 @@
 ## Microsoft GitHub / GitLab / Gitea
 
 
+- [Error in Use CDN](https://github.com/miladrahimi/v2ray-docker-compose/issues/78)
 - [Nginx Proxy Reverse Not Working With XrayR?](https://github.com/XrayR-project/XrayR/issues/166)
 - [Cloudflare integration failed to connect](https://github.com/home-assistant/core/issues/84113)
 - [Trouble with intregation with HAProxy GUI via Pfsense](https://github.com/spantaleev/matrix-docker-ansible-deploy/issues/2345)
