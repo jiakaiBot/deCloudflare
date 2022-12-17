@@ -129,7 +129,6 @@ quickhosting.dk
 quicknote.io
 quicksecurity.ro
 quiqmeds.com
-quotexinvestment.online
 qwords.com
 rakuten-japan-ja-cojp.qqlcm.cn
 redisinsight.microservice.qingyimoke.top
@@ -173,6 +172,7 @@ www.trustgoldenbank.quick24courier.com
 xiashiweo.qhigh.com
 youtrack.quicksearch.se
 datarobot.edr.stg.qantasloyalty.net
+device.app.qbee.io
 idp.desktopdev.quicktools.cloud
 img.quiport.com
 lp.quiz4thewin.com
@@ -184,6 +184,7 @@ qh88vn.net
 qhsealert.com
 qqsafety.com
 qqslot77.asia
+qr-code-generator.org
 qsafe.com.qa
 qsep.com
 quality-containers.com
@@ -214,6 +215,7 @@ www.money-buzz.quickprize.in
 www.qantasnewsroom.com.au
 www.qehconnect.com
 www.qicuntech.com
+www.qnap.com
 www.quality1travel.com
 www.quantable.com
 www.quantakinetic.com
