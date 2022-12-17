@@ -28,7 +28,7 @@ Here's a list of public Fediverse services.
 | --- | --- |
 | com | 4,832 |
 | social | 2,888 |
-| net | 2,507 |
+| net | 2,508 |
 | org | 1,814 |
 | de | 1,661 |
 
@@ -5239,7 +5239,7 @@ Here's a list of public Fediverse services.
 | `colorid.es` | Yes |
 | `colson.re` | No |
 | `colton.world` | No |
-| `com.de` | No |
+| `com.de` | Yes |
 | `coma.pictures` | No |
 | `coma.social` | No |
 | `comacero.com` | No |
@@ -20454,6 +20454,7 @@ Here's a list of public Fediverse services.
 | `nittc.tokyo` | No |
 | `niu.moe` | No |
 | `niu.ne.jp` | No |
+| `niwas.net` | No |
 | `niwatori.cyou` | No |
 | `niwatoriman.me` | No |
 | `niwiad.dev` | No |
@@ -29985,6 +29986,7 @@ Here's a list of public Fediverse services.
 | `ttrpg.one` | No |
 | `tttproject.de` | Yes |
 | `tty.cat` | No |
+| `tty.icu` | Yes |
 | `tty.nu` | No |
 | `tty.pw` | No |
 | `tty.social` | No |
@@ -33197,7 +33199,7 @@ Here's a list of public Fediverse services.
 
 | Type | Count |
 | --- | --- |
-| Cloudflare | 7,531 |
+| Cloudflare | 7,533 |
 | Normal | 25,623 |
 
 
