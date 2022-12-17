@@ -165,6 +165,7 @@ Do not create new issue or we will close it as duplicate.
 | [@tchambers@indieweb.social](https://indieweb.social/@tchambers) | Mastodon: account suspension (black cat) |
 | [A2Khac@twitter](https://twitter.com/A2Khac/status/1599277503042195458) | advertise |
 | [A7mad_GH_@twitter](https://twitter.com/A7mad_GH_/status/1386898761620893697) | advertise |
+| [A7mdShe7i@twitter](https://twitter.com/A7mdShe7i/status/1604169876717043715) | advertise |
 | [a7medmajzob@twitter](https://twitter.com/a7medmajzob/status/1522912225257697280) | advertise |
 | [a9NTUKB7O8ga7Op@twitter](https://twitter.com/a9NTUKB7O8ga7Op/status/1397954196964470789) | advertise |
 | [A9_21@twitter](https://twitter.com/A9_21/status/1544744648605925377) | advertise |
@@ -1621,6 +1622,7 @@ Do not create new issue or we will close it as duplicate.
 | [BTSARMY95012689@twitter](https://twitter.com/BTSARMY95012689/status/1519832843345485825) | advertise |
 | [Btstan73@twitter](https://twitter.com/Btstan73/status/1563332375467008005) | advertise |
 | [BtwSu@twitter](https://twitter.com/BtwSu/status/1398369389783576577) | advertise |
+| [Bu56726390u@twitter](https://twitter.com/Bu56726390u/status/1604165552200900608) | advertise |
 | [bubyli_uk@twitter](https://twitter.com/bubyli_uk/status/1527321559286751233) | advertise |
 | [BuckHun18065742@twitter](https://twitter.com/BuckHun18065742/status/1565605332163887104) | advertise |
 | [BuckNewton6@twitter](https://twitter.com/BuckNewton6/status/1560343947616157697) | advertise |
@@ -2004,8 +2006,8 @@ Do not create new issue or we will close it as duplicate.
 | [CrazyVisions@twitter](https://twitter.com/CrazyVisions/status/1543430657392746496) | advertise |
 | [cRCmEJuVR4Kldll@twitter](https://twitter.com/cRCmEJuVR4Kldll/status/1384299253145559041) | advertise |
 | [CreeperpowerS@twitter](https://twitter.com/CreeperpowerS/status/1370279626443001861) | advertise |
-| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [crimsonedwin_@twitter](https://twitter.com/crimsonedwin_/status/1501550323592310799) | advertise |
+| [Crimsonedwin_@twitter](https://twitter.com/Crimsonedwin_/status/1501550323592310799) | advertise |
 | [CrisEcho3@twitter](https://twitter.com/CrisEcho3/status/1497589994428502027) | advertise |
 | [CrisisYoung@twitter](https://twitter.com/CrisisYoung/status/1395962917120626690) | advertise |
 | [crismith@twitter](https://twitter.com/crismith/status/1467692714468646914) | advertise |
@@ -2141,6 +2143,7 @@ Do not create new issue or we will close it as duplicate.
 | [danielbolkvadze@twitter](https://twitter.com/danielbolkvadze/status/1397978166929461251) | advertise |
 | [DanielCR93@twitter](https://twitter.com/DanielCR93/status/1377617766539218951) | advertise |
 | [DanielitoKing@twitter](https://twitter.com/DanielitoKing/status/1460241062220509193) | advertise |
+| [DanielN15548803@twitter](https://twitter.com/DanielN15548803/status/1604153026239148032) | advertise |
 | [DanielS08322454@twitter](https://twitter.com/DanielS08322454/status/1530440950073401344) | advertise |
 | [DanielS95701595@twitter](https://twitter.com/DanielS95701595/status/1586519175379361793) | advertise |
 | [Danielwisdo3@twitter](https://twitter.com/Danielwisdo3/status/1413526421994188806) | advertise |
@@ -3934,6 +3937,7 @@ Do not create new issue or we will close it as duplicate.
 | [HuongDa86813854@twitter](https://twitter.com/HuongDa86813854/status/1496878077888319490) | advertise |
 | [huongsw2@twitter](https://twitter.com/huongsw2/status/1495403654295453697) | advertise |
 | [HuPhcHong1@twitter](https://twitter.com/HuPhcHong1/status/1552681986363641857) | advertise |
+| [HusendMohamad@twitter](https://twitter.com/HusendMohamad/status/1604171472070549504) | advertise |
 | [HuSn48120936@twitter](https://twitter.com/HuSn48120936/status/1552541197432156162) | advertise |
 | [Hussein7377@twitter](https://twitter.com/Hussein7377/status/1488607900759113728) | advertise |
 | [Hussein17527921@twitter](https://twitter.com/Hussein17527921/status/1592251919900282882) | advertise |
@@ -10250,6 +10254,7 @@ Do not create new issue or we will close it as duplicate.
 | [Tony50592393@twitter](https://twitter.com/Tony50592393/status/1395089034045579266) | advertise |
 | [tonyan1102@twitter](https://twitter.com/tonyan1102/status/1384444690481573889) | advertise |
 | [TonyFerrer11@twitter](https://twitter.com/TonyFerrer11/status/1550658516788002816) | advertise |
+| [tonyspa27781908@twitter](https://twitter.com/tonyspa27781908/status/1604150603198140416) | advertise |
 | [ToomZaaa@twitter](https://twitter.com/ToomZaaa/status/1553908589999591424) | advertise |
 | [Tooney81184575@twitter](https://twitter.com/Tooney81184575/status/1398446641036730372) | advertise |
 | [toordotone@twitter](https://twitter.com/toordotone/status/1523150615714701312) | advertise |
